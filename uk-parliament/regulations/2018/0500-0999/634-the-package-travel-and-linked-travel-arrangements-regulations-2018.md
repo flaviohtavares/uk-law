@@ -63,7 +63,7 @@ In exercise of the powers conferred by section 2(2) of the European Communities 
 
 (1) In these Regulations—
 
-- [^key-9086e31716c8483d7e6378ef5310a760]...
+- [^c-9086e31716c8483d7e6378ef5310a760]...
 - “**commencement date**” means the date on which these Regulations come into force;
 - “**durable medium**” means any instrument which—
   - (a) enables the traveller or the trader to store information addressed personally to them in a way accessible for future reference for a period of time adequate for the purposes of the information; and
@@ -74,7 +74,7 @@ In exercise of the powers conferred by section 2(2) of the European Communities 
   - (a) a trader who combines and sells, or offers for sale, packages, either directly or through another trader or together with another trader; or
   - (b) the trader who transmits the traveller's data to another trader in accordance with paragraph (5)(b)(v);
 - “**package travel contract**” means a contract on a package as a whole or, if the package is provided under separate contracts, all contracts covering the travel services included in the package;
-- “**[^key-19b82d7c32ec8b300e8b5afdc7e9d08d]... passenger rights legislation**” means—
+- “**[^c-19b82d7c32ec8b300e8b5afdc7e9d08d]... passenger rights legislation**” means—
   - (a) Regulation [(EC) No 261/2004](https://www.legislation.gov.uk/eur/2004/261) of the European Parliament and of the Council establishing common rules on compensation and assistance to passengers in the event of denied boarding and of cancellation or long delay of flights, and repealing Regulation [(EEC) No 295/91](https://www.legislation.gov.uk/eur/1991/295) [^c22946571];
   - (b) Regulation [(EC) No 1371/2007](https://www.legislation.gov.uk/eur/2007/1371) of the European Parliament and of the Council on rail passengers' rights and obligations [^c22946581];
   - (c) Regulation [(EC) No 392/2009](https://www.legislation.gov.uk/eur/2009/392) of the European Parliament and of the Council on the liability of carriers of passengers by sea in the event of accidents [^c22946591];
@@ -93,15 +93,15 @@ In exercise of the powers conferred by section 2(2) of the European Communities 
   - (b) the provision of accommodation which is not intrinsically part of the carriage of passengers and is not for residential purposes;
   - (c) the rental of—
     - (i) cars;
-    - (ii) other motor vehicles within the meaning of Article 3(16) of Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles[^key-23aeffdfef84a6ab243798584f4c547a]; or
-    - (iii) motorcycles requiring a Category A driving licence in accordance with Part 1 of Schedule 2 (categories and sub-categories of vehicle for licensing purposes) to the Motor Vehicles (Driving Licences) Regulations 1999[^key-3d5138b23b3bdeeec20256995dd9dac0];
+    - (ii) other motor vehicles within the meaning of Article 3(16) of Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles[^c-23aeffdfef84a6ab243798584f4c547a]; or
+    - (iii) motorcycles requiring a Category A driving licence in accordance with Part 1 of Schedule 2 (categories and sub-categories of vehicle for licensing purposes) to the Motor Vehicles (Driving Licences) Regulations 1999[^c-3d5138b23b3bdeeec20256995dd9dac0];
   - (d) any other tourist service not intrinsically part of a travel service within the meaning of paragraph (a), (b) or (c);
 - “**traveller**” means any individual who is seeking to conclude a contract, or is entitled to travel on the basis of a contract concluded, within the scope of these Regulations;
 - “**unavoidable and extraordinary circumstances**” means a situation—
   - (a) beyond the control of the party who seeks to rely on such a situation for the purpose of regulation 12(7), 13(2)(b), 15(14) or (16), 16(4)(c) or 28(3)(b); and
   - (b) the consequences of which could not have been avoided even if all reasonable measures had been taken;
 
-(2) In these Regulations, a reference to an organiser or a retailer being “**established**” is to be construed according to the meaning of “establishment” given by regulation 4 of the Provision of Services Regulations 2009[^key-e7cbb9ac5f258fd651b813d5b071021c].
+(2) In these Regulations, a reference to an organiser or a retailer being “**established**” is to be construed according to the meaning of “establishment” given by regulation 4 of the Provision of Services Regulations 2009[^c-e7cbb9ac5f258fd651b813d5b071021c].
 
 (3) In these Regulations, subject to paragraph (4), a “**linked travel arrangement**” means at least two different types of travel service purchased for the purpose of the same trip or holiday, not constituting a package, resulting in the conclusion of separate contracts with the individual service providers, if a trader facilitates —
 
@@ -242,7 +242,7 @@ which are concluded on or after the commencement date.
 - (a) on summary conviction, to a fine in England and Wales, or in Scotland and Northern Ireland to a fine not exceeding the statutory maximum;
 - (b) on conviction on indictment, to a fine.
 
-(13) In paragraph (5), “**off-premises contract**” has the meaning given in regulation 5 of the Consumer Contracts (Information, Cancellation and Additional Charges) Regulations 2013[^key-5d7e1d50642cc6bc6fd3339e0c945ab3].
+(13) In paragraph (5), “**off-premises contract**” has the meaning given in regulation 5 of the Consumer Contracts (Information, Cancellation and Additional Charges) Regulations 2013[^c-5d7e1d50642cc6bc6fd3339e0c945ab3].
 
 ### 8. Burden of proof
 
@@ -549,7 +549,7 @@ the organiser must deduct the compensation or price reductions referred to in su
 - (a) refunding all payments made by or on behalf of travellers for any travel service not performed as a consequence of the insolvency, taking into account the length of the period between down payments and final payments and the completion of the packages; and
 - (b) if the carriage of passengers is included in the packages, and the performance of any package is affected by the insolvency, repatriating the traveller and, if necessary, financing the traveller's accommodation prior to the repatriation.
 
-(2)[^key-1fa0fdafc8c66923c0c78ccf4c4dace1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-1fa0fdafc8c66923c0c78ccf4c4dace1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The organiser must provide the security—
 
@@ -558,7 +558,7 @@ the organiser must deduct the compensation or price reductions referred to in su
 
 (4) The organiser of a package who—
 
-- (a) is not established in the United Kingdom [^key-e99aa466e81aa33ad32e122220383e56]... and
+- (a) is not established in the United Kingdom [^c-e99aa466e81aa33ad32e122220383e56]... and
 - (b) sells or offers for sale a package in the United Kingdom, or by any means directs such activities to the United Kingdom,
 
 must provide security in accordance with this Part.
@@ -574,7 +574,7 @@ are in force.
 
 (6) Paragraph (5) does not apply to a package to the extent that—
 
-- (a)[^key-dbd4b770ac58e08c195d54ad53197413] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-dbd4b770ac58e08c195d54ad53197413] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) the package is one—
   - (i) in respect of which the organiser is required to hold a licence under the Civil Aviation (Air Travel Organisers' Licensing) Regulations 2012 [^c22946681]; or
   - (ii) that is covered by the arrangements the organiser has entered into for the purposes of those Regulations.
@@ -593,7 +593,7 @@ are in force.
 - (a) it is possible to do so; and
 - (b) a person, other than that organiser, agrees to carry out the responsibilities of the organiser under the package travel contract.
 
-(11)[^key-d784921be4af6bc9442d21455117e06f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-d784921be4af6bc9442d21455117e06f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 20. Bonding
 
@@ -631,7 +631,7 @@ whichever sum is the smaller.
 (8) In this regulation—
 
 - “**approved body**” means a body which is for the time being approved by the Secretary of State for the purposes of this regulation;
-- “**authorised institution**” means a person authorised under the law of the United Kingdom [^key-6a4b36433dab51e1e5ffaf75276a9e92]... , the Channel Islands or the Isle of Man to carry on the business of entering into bonds of the kind required by this regulation.
+- “**authorised institution**” means a person authorised under the law of the United Kingdom [^c-6a4b36433dab51e1e5ffaf75276a9e92]... , the Channel Islands or the Isle of Man to carry on the business of entering into bonds of the kind required by this regulation.
 
 ### 21. Bonding where approved body has reserve fund or insurance
 
@@ -658,7 +658,7 @@ whichever sum is the smaller.
 
 (7) A body may not be approved for the purposes of this regulation unless—
 
-- (a) it has a reserve fund or insurance cover with an insurer authorised in respect of such business in the United Kingdom, [^key-21633f96552fd0edde98d94d709b88c3]... the Channel Islands or the Isle of Man of an amount in each case which is designed to enable—
+- (a) it has a reserve fund or insurance cover with an insurer authorised in respect of such business in the United Kingdom, [^c-21633f96552fd0edde98d94d709b88c3]... the Channel Islands or the Isle of Man of an amount in each case which is designed to enable—
   - (i) in the event of the insolvency of the member, the refund of all payments made by or on behalf of travellers for any travel service not fully performed as a consequence of the insolvency; and
   - (ii) the costs of repatriating the travellers and, if necessary, financing the travellers' accommodation prior to the repatriation to be covered, where the carriage of passengers is included in the packages and the performance of the packages is affected by the insolvency; and
 - (b) where it has a reserve fund, it agrees that the fund will be held by persons and in a manner approved by the Secretary of State.
@@ -667,7 +667,7 @@ whichever sum is the smaller.
 
 ### 22. Insurance
 
-(1) Where an organiser, for the purpose of regulation 19(5), relies on the arrangements under this regulation, the organiser must have insurance under one or more appropriate policies with an insurer authorised in respect of such business in the United Kingdom, [^key-561be1aac6af42ad5b0497556f0ab85c]... the Channel Islands or the Isle of Man, under which the insurer agrees to indemnify travellers in the event of the insolvency of the organiser.
+(1) Where an organiser, for the purpose of regulation 19(5), relies on the arrangements under this regulation, the organiser must have insurance under one or more appropriate policies with an insurer authorised in respect of such business in the United Kingdom, [^c-561be1aac6af42ad5b0497556f0ab85c]... the Channel Islands or the Isle of Man, under which the insurer agrees to indemnify travellers in the event of the insolvency of the organiser.
 
 (2) The organiser must ensure that travellers are insured persons under the policy required under paragraph (1) in respect of the costs referred to in paragraph (4)(b).
 
@@ -690,7 +690,7 @@ whichever sum is the smaller.
 - (a) all monies, or
 - (b) where regulation 24(3) applies, a lesser sum in accordance with that regulation,
 
-paid by or on behalf of a traveller under or in contemplation of a package travel contract are held in the United Kingdom [^key-9edefa23a6e4cfdbb169ab6434e41474]... by a person as trustee for the traveller.
+paid by or on behalf of a traveller under or in contemplation of a package travel contract are held in the United Kingdom [^c-9edefa23a6e4cfdbb169ab6434e41474]... by a person as trustee for the traveller.
 
 (2) The monies are to be held under paragraph (1) until—
 
@@ -759,7 +759,7 @@ If the organiser makes a false statement under regulation 23(6), the organiser c
 - (a) refunding all payments the trader receives from travellers for any travel service which is part of the linked arrangement and is not performed as a consequence of the trader's insolvency, taking into account the length of the period between down payments and final payments and the completion of the linked travel arrangements; and
 - (b) if the trader is the party responsible for the carriage of passengers, and the performance of the linked travel arrangement is affected by the insolvency, the traveller's repatriation and, if necessary, financing the traveller's accommodation prior to the repatriation.
 
-(2)[^key-f47e1271b65578998690e523b465fd07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-f47e1271b65578998690e523b465fd07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The trader must provide the security—
 
@@ -768,7 +768,7 @@ If the organiser makes a false statement under regulation 23(6), the organiser c
 
 (4) Any trader who—
 
-- (a) is not established in the United Kingdom [^key-ddd41c72a0c99f02ea8f830b05e8273b]... , and
+- (a) is not established in the United Kingdom [^c-ddd41c72a0c99f02ea8f830b05e8273b]... , and
 - (b) sells or offers for sale a linked travel arrangement in the United Kingdom, or by any means directs such activities to the United Kingdom,
 
 must provide security in accordance with this regulation in respect of those arrangements.
@@ -784,12 +784,12 @@ are in force and, for that purpose, a reference in those regulations to “organ
 
 (6) Paragraph (5) does not apply to a linked travel arrangement to the extent that the linked travel arrangement—
 
-- (a)[^key-57e47710defb3f3ee63d9688d0a50c3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-57e47710defb3f3ee63d9688d0a50c3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) includes a travel service —
   - (i) in respect of which the trader is required to hold a licence under the Civil Aviation (Air Travel Organisers' Licensing) Regulations 2012; or
   - (ii) which is covered by the arrangements the trader has entered into for the purposes of those Regulations.
 
-(7) Before the traveller is bound by any contract leading to the creation of a linked travel arrangement, the trader facilitating linked travel arrangements, including where the trader is not established in the United Kingdom[^key-9a51e2024e1d47b52afd652a4c2587e2] but, by any means directs such activities to the United Kingdom, must—
+(7) Before the traveller is bound by any contract leading to the creation of a linked travel arrangement, the trader facilitating linked travel arrangements, including where the trader is not established in the United Kingdom[^c-9a51e2024e1d47b52afd652a4c2587e2] but, by any means directs such activities to the United Kingdom, must—
 
 - (a) state in a clear, comprehensible and prominent manner that the traveller—
   - (i) will not benefit from any of the rights applying exclusively to packages under these Regulations and that each service provider will be solely responsible for the proper contractual performance of the service;
@@ -820,7 +820,7 @@ are in force and, for that purpose, a reference in those regulations to “organ
 
 ## PART 6 — General provisions
 
-### 27. Specific obligations of the retailer where the organiser is established outside the United Kingdom[^key-5e1493bfb43e07c38d829771b0454bab]
+### 27. Specific obligations of the retailer where the organiser is established outside the United Kingdom[^c-5e1493bfb43e07c38d829771b0454bab]
 
 Where—
 
@@ -1181,7 +1181,7 @@ Regulations 7(2)(b) and (7) and 11(3)(b)
 - (a) responsible for the proper performance of all travel services included in the contract in accordance with regulation 15;
 - (b) obliged to provide assistance if the traveller is in difficulty in accordance with regulation 18.
 
-**3.** The name of the entity in charge of the insolvency protection and its contact details, including its geographical address [^key-bbec21df8e4b00d3c77fceeb866892b2]...
+**3.** The name of the entity in charge of the insolvency protection and its contact details, including its geographical address [^c-bbec21df8e4b00d3c77fceeb866892b2]...
 
 **4.** The name, address, telephone number, e-mail address and, where applicable, the fax number of the organiser's local representative, of a contact point or of another service which enables the traveller to contact the organiser quickly and communicate with the organiser efficiently, to request assistance when the traveller is in difficulty or to complain about any lack of conformity perceived during the performance of the package.
 
@@ -1189,7 +1189,7 @@ Regulations 7(2)(b) and (7) and 11(3)(b)
 
 **6.** Where minors who are unaccompanied by a parent or another authorised person travel on the basis of a package travel contract which includes accommodation, information enabling direct contact by a parent or another authorised person with the minor or the person responsible for the minor at the minor's place of stay.
 
-**7.** Information on available in-house complaint handling procedures and on alternative dispute resolution pursuant to Chapter 4 of Part 4 to the Digital Markets, Competition and Consumers Act 2024[^key-812678ea38fb4681b66ee546dd90b30e].
+**7.** Information on available in-house complaint handling procedures and on alternative dispute resolution pursuant to Chapter 4 of Part 4 to the Digital Markets, Competition and Consumers Act 2024[^c-812678ea38fb4681b66ee546dd90b30e].
 
 **8.** Information on the traveller's right to transfer the contract to another traveller in accordance with regulation 9.
 
@@ -1365,9 +1365,9 @@ A full regulatory impact assessment of the effect that these Regulations will ha
 
 [^c22946531]: Marginal citation: [2006 c. 32](https://www.legislation.gov.uk/ukpga/2006/32). Schedule 7A is substituted by section 3(2) of the Wales Act 2017 but that substitution is not yet in force.
 
-[^key-9086e31716c8483d7e6378ef5310a760]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/634/regulation/2/1) omitted (31.12.2020) by virtue of [The Package Travel and Linked Travel Arrangements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1367)](https://www.legislation.gov.uk/uksi/2018/1367), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/1), [3(a)(i)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/3/a/i) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9086e31716c8483d7e6378ef5310a760]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/634/regulation/2/1) omitted (31.12.2020) by virtue of [The Package Travel and Linked Travel Arrangements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1367)](https://www.legislation.gov.uk/uksi/2018/1367), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/1), [3(a)(i)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/3/a/i) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-19b82d7c32ec8b300e8b5afdc7e9d08d]: Textual amendment: Word in reg. 2(1) omitted and definition repositioned (31.12.2020) by virtue of [The Package Travel and Linked Travel Arrangements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1367)](https://www.legislation.gov.uk/uksi/2018/1367), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/1), [3(a)(iii)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/3/a/iii) (with [reg. 1(2)(3)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/2/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-19b82d7c32ec8b300e8b5afdc7e9d08d]: Textual amendment: Word in reg. 2(1) omitted and definition repositioned (31.12.2020) by virtue of [The Package Travel and Linked Travel Arrangements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1367)](https://www.legislation.gov.uk/uksi/2018/1367), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/1), [3(a)(iii)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/3/a/iii) (with [reg. 1(2)(3)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/2/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22946571]: Marginal citation: OJ No L 46, 17.2.2004, p. 1.
 
@@ -1379,13 +1379,13 @@ A full regulatory impact assessment of the effect that these Regulations will ha
 
 [^c22946611]: Marginal citation: OJ No L 55, 28.2.2011, p. 1.
 
-[^key-23aeffdfef84a6ab243798584f4c547a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/634/regulation/2/1) substituted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 34(2)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/34/2) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
+[^c-23aeffdfef84a6ab243798584f4c547a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/634/regulation/2/1) substituted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 34(2)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/34/2) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
 
-[^key-3d5138b23b3bdeeec20256995dd9dac0]: Textual amendment: Words in reg. 2(1) substituted (31.12.2020) by [The Package Travel and Linked Travel Arrangements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1367)](https://www.legislation.gov.uk/uksi/2018/1367), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/1), [3(a)(ii)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/3/a/ii) (with [reg. 1(2)(3)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/2/3)) (as substituted by [S.I. 2020/818](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 35(2)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/35/2) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3d5138b23b3bdeeec20256995dd9dac0]: Textual amendment: Words in reg. 2(1) substituted (31.12.2020) by [The Package Travel and Linked Travel Arrangements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1367)](https://www.legislation.gov.uk/uksi/2018/1367), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/1), [3(a)(ii)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/3/a/ii) (with [reg. 1(2)(3)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/2/3)) (as substituted by [S.I. 2020/818](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 35(2)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/35/2) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e7cbb9ac5f258fd651b813d5b071021c]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/634/regulation/2/2) substituted (31.12.2020) by [The Package Travel and Linked Travel Arrangements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1367)](https://www.legislation.gov.uk/uksi/2018/1367), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/3/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e7cbb9ac5f258fd651b813d5b071021c]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/634/regulation/2/2) substituted (31.12.2020) by [The Package Travel and Linked Travel Arrangements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1367)](https://www.legislation.gov.uk/uksi/2018/1367), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/3/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5d7e1d50642cc6bc6fd3339e0c945ab3]: Textual amendment: Words in [reg. 7(13)](https://www.legislation.gov.uk/uksi/2018/634/regulation/7/13) substituted (31.12.2020) by [The Package Travel and Linked Travel Arrangements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1367)](https://www.legislation.gov.uk/uksi/2018/1367), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2018/1367/regulation/4) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5d7e1d50642cc6bc6fd3339e0c945ab3]: Textual amendment: Words in [reg. 7(13)](https://www.legislation.gov.uk/uksi/2018/634/regulation/7/13) substituted (31.12.2020) by [The Package Travel and Linked Travel Arrangements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1367)](https://www.legislation.gov.uk/uksi/2018/1367), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2018/1367/regulation/4) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22946641]: Marginal citation: OJ No L 2004, 26.7.2006, p. 1. Point (a) of Article 2 provides that ‘person with reduced mobility’ means “any person whose mobility when using transport is reduced due to any physical disability (sensory or locomotor, permanent or temporary), intellectual disability or impairment, or any other cause of disability, or age, and whose situation needs appropriate attention and the adaptation to his or her particular needs of the service made available to all passengers”.
 
@@ -1395,33 +1395,33 @@ A full regulatory impact assessment of the effect that these Regulations will ha
 
 [^c22946671]: Marginal citation: Council Decision 2013/103/EU of 16 June 2011 on the signing and conclusion of the Agreement between the European Union and the Intergovernmental Organisation for International Carriage by Rail on the Accession of the European Union to the Convention concerning International Carriage by Rail (COTIF) of 9 May 1980, as amended by the Vilnius Protocol of 3 June 1999 (OJ L 51, 23.2.2013, p. 1).
 
-[^key-1fa0fdafc8c66923c0c78ccf4c4dace1]: Textual amendment: [Reg. 19(2)](https://www.legislation.gov.uk/uksi/2018/634/regulation/19/2) omitted (31.12.2020) by virtue of [The Package Travel and Linked Travel Arrangements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1367)](https://www.legislation.gov.uk/uksi/2018/1367), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/5/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1fa0fdafc8c66923c0c78ccf4c4dace1]: Textual amendment: [Reg. 19(2)](https://www.legislation.gov.uk/uksi/2018/634/regulation/19/2) omitted (31.12.2020) by virtue of [The Package Travel and Linked Travel Arrangements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1367)](https://www.legislation.gov.uk/uksi/2018/1367), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/5/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e99aa466e81aa33ad32e122220383e56]: Textual amendment: Words in [reg. 19(4)(a)](https://www.legislation.gov.uk/uksi/2018/634/regulation/19/4/a) omitted (31.12.2020) by virtue of [The Package Travel and Linked Travel Arrangements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1367)](https://www.legislation.gov.uk/uksi/2018/1367), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/5/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e99aa466e81aa33ad32e122220383e56]: Textual amendment: Words in [reg. 19(4)(a)](https://www.legislation.gov.uk/uksi/2018/634/regulation/19/4/a) omitted (31.12.2020) by virtue of [The Package Travel and Linked Travel Arrangements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1367)](https://www.legislation.gov.uk/uksi/2018/1367), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/5/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-dbd4b770ac58e08c195d54ad53197413]: Textual amendment: Reg. 19(6)(a) omitted (31.12.2020) by virtue of [The Package Travel and Linked Travel Arrangements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1367)](https://www.legislation.gov.uk/uksi/2018/1367), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/1), [5(c)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/5/c) (with [reg. 1(2)(3)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/2/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dbd4b770ac58e08c195d54ad53197413]: Textual amendment: Reg. 19(6)(a) omitted (31.12.2020) by virtue of [The Package Travel and Linked Travel Arrangements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1367)](https://www.legislation.gov.uk/uksi/2018/1367), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/1), [5(c)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/5/c) (with [reg. 1(2)(3)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/2/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22946681]: Marginal citation: [S.I. 2012/1017](https://www.legislation.gov.uk/uksi/2012/1017), amended by [S.I. 2012/1134](https://www.legislation.gov.uk/uksi/2012/1134).
 
-[^key-d784921be4af6bc9442d21455117e06f]: Textual amendment: [Reg. 19(11)](https://www.legislation.gov.uk/uksi/2018/634/regulation/19/11) omitted (31.12.2020) by virtue of [The Package Travel and Linked Travel Arrangements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1367)](https://www.legislation.gov.uk/uksi/2018/1367), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/1), [5(d)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/5/d) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d784921be4af6bc9442d21455117e06f]: Textual amendment: [Reg. 19(11)](https://www.legislation.gov.uk/uksi/2018/634/regulation/19/11) omitted (31.12.2020) by virtue of [The Package Travel and Linked Travel Arrangements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1367)](https://www.legislation.gov.uk/uksi/2018/1367), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/1), [5(d)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/5/d) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6a4b36433dab51e1e5ffaf75276a9e92]: Textual amendment: Words in [reg. 20(8)](https://www.legislation.gov.uk/uksi/2018/634/regulation/20/8) omitted (31.12.2020) by virtue of [The Package Travel and Linked Travel Arrangements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1367)](https://www.legislation.gov.uk/uksi/2018/1367), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2018/1367/regulation/6) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6a4b36433dab51e1e5ffaf75276a9e92]: Textual amendment: Words in [reg. 20(8)](https://www.legislation.gov.uk/uksi/2018/634/regulation/20/8) omitted (31.12.2020) by virtue of [The Package Travel and Linked Travel Arrangements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1367)](https://www.legislation.gov.uk/uksi/2018/1367), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2018/1367/regulation/6) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-21633f96552fd0edde98d94d709b88c3]: Textual amendment: Words in [reg. 21(7)(a)](https://www.legislation.gov.uk/uksi/2018/634/regulation/21/7/a) omitted (31.12.2020) by virtue of [The Package Travel and Linked Travel Arrangements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1367)](https://www.legislation.gov.uk/uksi/2018/1367), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2018/1367/regulation/7) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-21633f96552fd0edde98d94d709b88c3]: Textual amendment: Words in [reg. 21(7)(a)](https://www.legislation.gov.uk/uksi/2018/634/regulation/21/7/a) omitted (31.12.2020) by virtue of [The Package Travel and Linked Travel Arrangements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1367)](https://www.legislation.gov.uk/uksi/2018/1367), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2018/1367/regulation/7) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-561be1aac6af42ad5b0497556f0ab85c]: Textual amendment: Words in [reg. 22(1)](https://www.legislation.gov.uk/uksi/2018/634/regulation/22/1) omitted (31.12.2020) by virtue of [The Package Travel and Linked Travel Arrangements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1367)](https://www.legislation.gov.uk/uksi/2018/1367), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2018/1367/regulation/8) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-561be1aac6af42ad5b0497556f0ab85c]: Textual amendment: Words in [reg. 22(1)](https://www.legislation.gov.uk/uksi/2018/634/regulation/22/1) omitted (31.12.2020) by virtue of [The Package Travel and Linked Travel Arrangements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1367)](https://www.legislation.gov.uk/uksi/2018/1367), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2018/1367/regulation/8) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9edefa23a6e4cfdbb169ab6434e41474]: Textual amendment: Words in [reg. 23(1)](https://www.legislation.gov.uk/uksi/2018/634/regulation/23/1) omitted (31.12.2020) by virtue of [The Package Travel and Linked Travel Arrangements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1367)](https://www.legislation.gov.uk/uksi/2018/1367), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2018/1367/regulation/9) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9edefa23a6e4cfdbb169ab6434e41474]: Textual amendment: Words in [reg. 23(1)](https://www.legislation.gov.uk/uksi/2018/634/regulation/23/1) omitted (31.12.2020) by virtue of [The Package Travel and Linked Travel Arrangements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1367)](https://www.legislation.gov.uk/uksi/2018/1367), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2018/1367/regulation/9) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f47e1271b65578998690e523b465fd07]: Textual amendment: [Reg. 26(2)](https://www.legislation.gov.uk/uksi/2018/634/regulation/26/2) omitted (31.12.2020) by virtue of [The Package Travel and Linked Travel Arrangements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1367)](https://www.legislation.gov.uk/uksi/2018/1367), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/1), [10(a)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/10/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f47e1271b65578998690e523b465fd07]: Textual amendment: [Reg. 26(2)](https://www.legislation.gov.uk/uksi/2018/634/regulation/26/2) omitted (31.12.2020) by virtue of [The Package Travel and Linked Travel Arrangements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1367)](https://www.legislation.gov.uk/uksi/2018/1367), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/1), [10(a)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/10/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ddd41c72a0c99f02ea8f830b05e8273b]: Textual amendment: Words in [reg. 26(4)(a)](https://www.legislation.gov.uk/uksi/2018/634/regulation/26/4/a) omitted (31.12.2020) by virtue of [The Package Travel and Linked Travel Arrangements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1367)](https://www.legislation.gov.uk/uksi/2018/1367), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/1), [10(b)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/10/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ddd41c72a0c99f02ea8f830b05e8273b]: Textual amendment: Words in [reg. 26(4)(a)](https://www.legislation.gov.uk/uksi/2018/634/regulation/26/4/a) omitted (31.12.2020) by virtue of [The Package Travel and Linked Travel Arrangements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1367)](https://www.legislation.gov.uk/uksi/2018/1367), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/1), [10(b)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/10/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-57e47710defb3f3ee63d9688d0a50c3a]: Textual amendment: Reg. 26(6)(a) omitted (31.12.2020) by virtue of [The Package Travel and Linked Travel Arrangements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1367)](https://www.legislation.gov.uk/uksi/2018/1367), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/1), [10(c)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/10/c) (with [reg. 1(2)(3)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/2/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-57e47710defb3f3ee63d9688d0a50c3a]: Textual amendment: Reg. 26(6)(a) omitted (31.12.2020) by virtue of [The Package Travel and Linked Travel Arrangements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1367)](https://www.legislation.gov.uk/uksi/2018/1367), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/1), [10(c)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/10/c) (with [reg. 1(2)(3)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/2/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9a51e2024e1d47b52afd652a4c2587e2]: Textual amendment: Words in [reg. 26(7)](https://www.legislation.gov.uk/uksi/2018/634/regulation/26/7) substituted (31.12.2020) by [The Package Travel and Linked Travel Arrangements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1367)](https://www.legislation.gov.uk/uksi/2018/1367), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/1), [10(d)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/10/d) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9a51e2024e1d47b52afd652a4c2587e2]: Textual amendment: Words in [reg. 26(7)](https://www.legislation.gov.uk/uksi/2018/634/regulation/26/7) substituted (31.12.2020) by [The Package Travel and Linked Travel Arrangements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1367)](https://www.legislation.gov.uk/uksi/2018/1367), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/1), [10(d)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/10/d) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5e1493bfb43e07c38d829771b0454bab]: Textual amendment: Words in [reg. 27](https://www.legislation.gov.uk/uksi/2018/634/regulation/27) substituted (31.12.2020) by [The Package Travel and Linked Travel Arrangements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1367)](https://www.legislation.gov.uk/uksi/2018/1367), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2018/1367/regulation/11) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5e1493bfb43e07c38d829771b0454bab]: Textual amendment: Words in [reg. 27](https://www.legislation.gov.uk/uksi/2018/634/regulation/27) substituted (31.12.2020) by [The Package Travel and Linked Travel Arrangements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1367)](https://www.legislation.gov.uk/uksi/2018/1367), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2018/1367/regulation/11) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22946691]: Marginal citation: [1975 c. 21](https://www.legislation.gov.uk/ukpga/1975/21).
 
@@ -1457,6 +1457,6 @@ A full regulatory impact assessment of the effect that these Regulations will ha
 
 [^c22946851]: Marginal citation: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26). Section 30(3) was amended by section 19 of the [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12).
 
-[^key-bbec21df8e4b00d3c77fceeb866892b2]: Textual amendment: Words in [Sch. 5 para. 3](https://www.legislation.gov.uk/uksi/2018/634/schedule/5/paragraph/3) omitted (31.12.2020) by virtue of [The Package Travel and Linked Travel Arrangements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1367)](https://www.legislation.gov.uk/uksi/2018/1367), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/1), [12(a)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/12/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bbec21df8e4b00d3c77fceeb866892b2]: Textual amendment: Words in [Sch. 5 para. 3](https://www.legislation.gov.uk/uksi/2018/634/schedule/5/paragraph/3) omitted (31.12.2020) by virtue of [The Package Travel and Linked Travel Arrangements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1367)](https://www.legislation.gov.uk/uksi/2018/1367), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/1), [12(a)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/12/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1367/regulation/1/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-812678ea38fb4681b66ee546dd90b30e]: Textual amendment: Words in [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/2018/634/schedule/5/paragraph/7) substituted (6.4.2026) by [The Digital Markets, Competition and Consumers Act 2024 (Alternative Dispute Resolution) (Consequential Amendments) Regulations 2026 (S.I. 2026/263)](https://www.legislation.gov.uk/uksi/2026/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/263/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2026/263/regulation/5)
+[^c-812678ea38fb4681b66ee546dd90b30e]: Textual amendment: Words in [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/2018/634/schedule/5/paragraph/7) substituted (6.4.2026) by [The Digital Markets, Competition and Consumers Act 2024 (Alternative Dispute Resolution) (Consequential Amendments) Regulations 2026 (S.I. 2026/263)](https://www.legislation.gov.uk/uksi/2026/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/263/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2026/263/regulation/5)

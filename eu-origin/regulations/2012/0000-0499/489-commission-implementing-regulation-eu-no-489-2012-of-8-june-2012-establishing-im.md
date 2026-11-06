@@ -35,68 +35,68 @@ establishing implementing rules for the application of Article 16 of Regulation 
 
 (Text with EEA relevance) (revoked)
 
-[^key-339fe7c2106debde62092523b8234a18]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-339fe7c2106debde62092523b8234a18]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Subject matter[^key-339fe7c2106debde62092523b8234a18]
+## Article 1. Subject matter[^c-339fe7c2106debde62092523b8234a18]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Relevant information[^key-339fe7c2106debde62092523b8234a18]
+## Article 2. Relevant information[^c-339fe7c2106debde62092523b8234a18]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-339fe7c2106debde62092523b8234a18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-339fe7c2106debde62092523b8234a18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-339fe7c2106debde62092523b8234a18]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-339fe7c2106debde62092523b8234a18]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I — Necessary relevant information to be provided by the Member States for the purpose of evaluating the effects of implementation of Regulation (EC) No 1925/2006[^key-339fe7c2106debde62092523b8234a18]
+## ANNEX I — Necessary relevant information to be provided by the Member States for the purpose of evaluating the effects of implementation of Regulation (EC) No 1925/2006[^c-339fe7c2106debde62092523b8234a18]
 
-[^key-339fe7c2106debde62092523b8234a18]A.
+[^c-339fe7c2106debde62092523b8234a18]A.
 
 Information concerning the evolution of the national market in foods to which vitamins and minerals have been added shall include the following:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-339fe7c2106debde62092523b8234a18]B.
+[^c-339fe7c2106debde62092523b8234a18]B.
 
 Information on consumption patterns of foods to which vitamins and minerals have been added shall include the following:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-339fe7c2106debde62092523b8234a18]C.
+[^c-339fe7c2106debde62092523b8234a18]C.
 
 Information on the intake levels of vitamins and minerals shall include the following:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-339fe7c2106debde62092523b8234a18]D.
+[^c-339fe7c2106debde62092523b8234a18]D.
 
 Information on the addition of substances other than vitamins or minerals to foods shall include the following:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — Format for the presentation of the information provided by the Member States[^key-339fe7c2106debde62092523b8234a18]
+## ANNEX II — Format for the presentation of the information provided by the Member States[^c-339fe7c2106debde62092523b8234a18]
 
-[^key-339fe7c2106debde62092523b8234a18]*Evolution of the market in foods to which vitamins and minerals have been added*
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-339fe7c2106debde62092523b8234a18]*Consumption patterns of foods to which vitamins and minerals have been added*
+[^c-339fe7c2106debde62092523b8234a18]*Evolution of the market in foods to which vitamins and minerals have been added*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-339fe7c2106debde62092523b8234a18]*Intake levels of vitamins and minerals*
+[^c-339fe7c2106debde62092523b8234a18]*Consumption patterns of foods to which vitamins and minerals have been added*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-339fe7c2106debde62092523b8234a18]*Addition of substances other than vitamins or minerals*
+[^c-339fe7c2106debde62092523b8234a18]*Intake levels of vitamins and minerals*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-339fe7c2106debde62092523b8234a18]*Addition of substances other than vitamins or minerals*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-339fe7c2106debde62092523b8234a18]: Textual amendment: Regulation revoked (31.12.2020) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/651)](https://www.legislation.gov.uk/uksi/2019/651), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/651/regulation/1/1), [47](https://www.legislation.gov.uk/uksi/2019/651/regulation/47); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-339fe7c2106debde62092523b8234a18]: Textual amendment: Regulation revoked (31.12.2020) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/651)](https://www.legislation.gov.uk/uksi/2019/651), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/651/regulation/1/1), [47](https://www.legislation.gov.uk/uksi/2019/651/regulation/47); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -51,7 +51,7 @@ The parties are required to help the court to further the overriding objective.
 
 (1) The court must further the overriding objective by actively managing cases.
 
-(2)[^key-4a8cb7e520d57b5800de5a8511850ac1] Active case management includes—
+(2)[^c-4a8cb7e520d57b5800de5a8511850ac1] Active case management includes—
 
 - (a) setting timetables or otherwise controlling the progress of the case;
 - (b) identifying at an early stage—
@@ -62,7 +62,7 @@ The parties are required to help the court to further the overriding objective.
   - (ii) the procedure to be followed in the case;
 - (d) deciding the order in which issues are to be resolved;
 - (e) controlling the use of expert evidence;
-- (f) encouraging the parties to use a non-court dispute resolution[^key-26e4f5f30fd34fa3aef050c12e753f48] procedure if the court considers that appropriate and facilitating the use of such procedure;
+- (f) encouraging the parties to use a non-court dispute resolution[^c-26e4f5f30fd34fa3aef050c12e753f48] procedure if the court considers that appropriate and facilitating the use of such procedure;
 - (g) helping the parties to settle the whole or part of the case;
 - (h) encouraging the parties to co-operate with each other in the conduct of proceedings;
 - (i) considering whether the likely benefits of taking a particular step justify the cost of taking it;
@@ -73,6 +73,6 @@ The parties are required to help the court to further the overriding objective.
 
 ## Annotations
 
-[^key-4a8cb7e520d57b5800de5a8511850ac1]: Textual amendment: [Rule 1.4(2)](https://www.legislation.gov.uk/uksi/2010/2955/rule/1.4/2) substituted (31.1.2013) by [The Family Procedure (Amendment) (No.5) Rules 2012 (S.I. 2012/3061)](https://www.legislation.gov.uk/uksi/2012/3061), [rules 1](https://www.legislation.gov.uk/uksi/2012/3061/article/1), [3](https://www.legislation.gov.uk/uksi/2012/3061/rule/3)
+[^c-4a8cb7e520d57b5800de5a8511850ac1]: Textual amendment: [Rule 1.4(2)](https://www.legislation.gov.uk/uksi/2010/2955/rule/1.4/2) substituted (31.1.2013) by [The Family Procedure (Amendment) (No.5) Rules 2012 (S.I. 2012/3061)](https://www.legislation.gov.uk/uksi/2012/3061), [rules 1](https://www.legislation.gov.uk/uksi/2012/3061/article/1), [3](https://www.legislation.gov.uk/uksi/2012/3061/rule/3)
 
-[^key-26e4f5f30fd34fa3aef050c12e753f48]: Textual amendment: Words in rule 1.4(2)(f) substituted (22.4.2014) by [The Family Procedure (Amendment No. 3) Rules 2014 (S.I. 2014/843)](https://www.legislation.gov.uk/uksi/2014/843), [rules 1](https://www.legislation.gov.uk/uksi/2014/843/rule/1), [3](https://www.legislation.gov.uk/uksi/2014/843/rule/3)
+[^c-26e4f5f30fd34fa3aef050c12e753f48]: Textual amendment: Words in rule 1.4(2)(f) substituted (22.4.2014) by [The Family Procedure (Amendment No. 3) Rules 2014 (S.I. 2014/843)](https://www.legislation.gov.uk/uksi/2014/843), [rules 1](https://www.legislation.gov.uk/uksi/2014/843/rule/1), [3](https://www.legislation.gov.uk/uksi/2014/843/rule/3)

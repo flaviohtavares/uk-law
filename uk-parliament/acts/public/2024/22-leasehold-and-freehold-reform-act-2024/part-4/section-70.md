@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Part 4: consequential amendments[^key-d0ad7050188f22593cebd689163439cc]
+## 70. Part 4: consequential amendments[^c-d0ad7050188f22593cebd689163439cc]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ Schedule 11 contains amendments that are consequential on this Part.
 
 ## Annotations
 
-[^key-d0ad7050188f22593cebd689163439cc]: Commencement: S. 70 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-d0ad7050188f22593cebd689163439cc]: Commencement: S. 70 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

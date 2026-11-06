@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 3. Modification of certain redundancy payments provisions[^key-e8e64fd0139b03ed1038bb34d79a977b]
+## 3. Modification of certain redundancy payments provisions[^c-e8e64fd0139b03ed1038bb34d79a977b]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ In relation to any person to whom this Order applies, the provisions of the 1996
 
 ## Annotations
 
-[^key-e8e64fd0139b03ed1038bb34d79a977b]: Commencement: Art. 3 in force at 1.9.1999, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/2277/article/1/1)
+[^c-e8e64fd0139b03ed1038bb34d79a977b]: Commencement: Art. 3 in force at 1.9.1999, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/2277/article/1/1)

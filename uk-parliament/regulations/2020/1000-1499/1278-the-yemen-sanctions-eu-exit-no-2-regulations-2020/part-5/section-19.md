@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Interpretation of expressions used in this Part[^key-ce06d46bf309978c74ff5b9fe0837ad6][^key-45154eac75c41587952b6d1bf308277c]
+## 19. Interpretation of expressions used in this Part[^c-ce06d46bf309978c74ff5b9fe0837ad6][^c-45154eac75c41587952b6d1bf308277c]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,8 +44,8 @@ summary: ''
 
 ## Annotations
 
-[^key-ce06d46bf309978c74ff5b9fe0837ad6]: Commencement: Reg. 19 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/1/2)
+[^c-ce06d46bf309978c74ff5b9fe0837ad6]: Commencement: Reg. 19 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/1/2)
 
-[^key-45154eac75c41587952b6d1bf308277c]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2020/1278/regulation/19) in force at 14.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 20(1)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/20/1)
+[^c-45154eac75c41587952b6d1bf308277c]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2020/1278/regulation/19) in force at 14.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 20(1)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/20/1)
 
 [^c24334611]: Marginal citation: [S.I. 2008/3231](https://www.legislation.gov.uk/uksi/2008/3231). Schedule 2 was substituted by [S.I. 2017/85](https://www.legislation.gov.uk/uksi/2017/85) and subsequently amended by [S.I. 2017/697](https://www.legislation.gov.uk/uksi/2017/697); [S.I. 2018/165](https://www.legislation.gov.uk/uksi/2018/165); [S.I. 2018/939](https://www.legislation.gov.uk/uksi/2018/939); [S.I. 2019/137](https://www.legislation.gov.uk/uksi/2019/137); and [S.I. 2019/989](https://www.legislation.gov.uk/uksi/2019/989). There are other instruments which amend other parts of the Order, which are not relevant to these Regulations.

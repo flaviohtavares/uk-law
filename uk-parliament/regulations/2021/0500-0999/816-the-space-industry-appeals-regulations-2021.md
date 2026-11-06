@@ -50,13 +50,13 @@ In accordance with section 68(6) of that Act, the draft of this instrument has b
 
 ## PART 1 — General
 
-### 1. Citation, commencement and extent[^key-d70080889d0920cb0f1366f906918a0c]
+### 1. Citation, commencement and extent[^c-d70080889d0920cb0f1366f906918a0c]
 
 (1) These Regulations may be cited as the Space Industry (Appeals) Regulations 2021 and come into force on the twenty-first day after the day on which they are made.
 
 (2) These Regulations extend to England and Wales, Scotland and Northern Ireland.
 
-### 2. Interpretation[^key-65f6d9290a3ca71154f3d191b1ad6132]
+### 2. Interpretation[^c-65f6d9290a3ca71154f3d191b1ad6132]
 
 In these Regulations—
 
@@ -85,11 +85,11 @@ In these Regulations—
     - (i) national security or international relations, or
     - (ii) the economic interests of the United Kingdom or any part of the United Kingdom;
 - “a standard appeal” means an appeal which has been determined to be a standard appeal under regulation 12(4);
-- “UKSA” means the United Kingdom Space Agency, an executive agency of the Department for Science, Innovation and Technology[^key-a93daa2cc8e84adcddf9c44013f3db52].
+- “UKSA” means the United Kingdom Space Agency, an executive agency of the Department for Science, Innovation and Technology[^c-a93daa2cc8e84adcddf9c44013f3db52].
 
 ## PART 2 — Appeal panels and appealable decisions
 
-### 3. Panel members list[^key-0d95a25c70eccef5fc7a4207276b0bf9]
+### 3. Panel members list[^c-0d95a25c70eccef5fc7a4207276b0bf9]
 
 (1) The Secretary of State must appoint persons who are eligible to hear appeals in relation to appealable decisions to be members of a list (“the panel members list”).
 
@@ -109,7 +109,7 @@ In these Regulations—
 
 (6) The terms and conditions of appointment of persons on the panel members list must be determined by the Secretary of State.
 
-### 4. Appeal panels[^key-9eb8bf991003b8ce03a589042dac5164]
+### 4. Appeal panels[^c-9eb8bf991003b8ce03a589042dac5164]
 
 (1) An appeal, or a request for permission to appeal[^f00004], in respect of an appealable decision, is to be determined by an appeal panel appointed by the Secretary of State under regulation 6(2).
 
@@ -130,7 +130,7 @@ an appeal panel may sit with two members.
 
 (7) In any case where an appeal panel is sitting with an even number of members, the chair is to have a second vote.
 
-### 5. Staff and facilities[^key-2d4f013769405f9089f3bcc7619ab581]
+### 5. Staff and facilities[^c-2d4f013769405f9089f3bcc7619ab581]
 
 (1) The Secretary of State must—
 
@@ -145,13 +145,13 @@ an appeal panel may sit with two members.
   - (i) by way of remuneration, allowances or expenses to members of appeal panels, or
   - (ii) to cover the cost of facilities provided to appeal panels, including the costs of expert advice.
 
-### 6. Constitution of appeal panel[^key-8dd0213a59cbc73fffbd75e96c40ee2a]
+### 6. Constitution of appeal panel[^c-8dd0213a59cbc73fffbd75e96c40ee2a]
 
 (1) When the secretary to the appeal panels has received an application for permission to appeal under regulation 8(1), the secretary must inform the Secretary of State.
 
 (2) The Secretary of State must, in accordance with regulation 4, appoint an appeal panel from the panel members list to consider the application.
 
-### 7. Prescribed decisions and people[^key-2f2056a0a28d1952329966e806f5a168]
+### 7. Prescribed decisions and people[^c-2f2056a0a28d1952329966e806f5a168]
 
 (1) The following decisions are prescribed for the purposes of paragraph 4(1) of Schedule 10 to the Act—
 
@@ -179,7 +179,7 @@ an appeal panel may sit with two members.
 
 ## PART 3 — Permission to appeal
 
-### 8. Application for permission to appeal[^key-7f66794392f207130d5938bcb4e2e28d]
+### 8. Application for permission to appeal[^c-7f66794392f207130d5938bcb4e2e28d]
 
 (1) An application for permission to appeal must be made to the secretary within 14 days after the day on which the decision which is being appealed was made and, for these purposes, the application is made on the date on which the notice of application for permission to appeal is received by the secretary.
 
@@ -216,7 +216,7 @@ an appeal panel may sit with two members.
 - (b) involve the disclosure of sensitive information, or information which is commercially sensitive, or
 - (c) breach data protection legislation, and for these purposes, “data protection legislation” has the meaning given in section 3(9) of the Data Protection Act 2018[^f00006].
 
-### 9. Fees[^key-71fcae8eb3521b1f6e6ad9cb6f900548]
+### 9. Fees[^c-71fcae8eb3521b1f6e6ad9cb6f900548]
 
 (1) The fees set out in the second column of the following table are payable in respect of the items described in the first column.
 
@@ -239,7 +239,7 @@ an appeal panel may sit with two members.
 
 (5) If the fee for determination of an appeal is not paid within the period referred to in paragraph (3), the appeal must be struck out.
 
-### 10. Response to application for permission to appeal[^key-14ac9997b21863e633b406b427dcd666]
+### 10. Response to application for permission to appeal[^c-14ac9997b21863e633b406b427dcd666]
 
 (1) The respondent may serve a response to the application for permission to appeal on the secretary within 14 days beginning with the day after the day on which the respondent received notice of the application for permission to appeal under regulation 8(6)(a).
 
@@ -256,7 +256,7 @@ an appeal panel may sit with two members.
 
 (3) The secretary must serve a copy of the response on all other parties to the appeal as soon as practicable, and in any event not later than seven days after the day on which the response was received by the secretary.
 
-### 11. Application to intervene[^key-a6064abd26e9f3d51b759390e6e938e4]
+### 11. Application to intervene[^c-a6064abd26e9f3d51b759390e6e938e4]
 
 (1) A person with sufficient interest in the decision which is the subject of the appeal may apply to the appeal panel for permission to intervene in the appeal.
 
@@ -304,7 +304,7 @@ an appeal panel may sit with two members.
 
 on each of the parties to the appeal as soon as practicable, and in any event not later than seven days after the day on which the documents were received by the secretary.
 
-### 12. Determination of application for permission to appeal[^key-bf90a3f4d054906cf66b113cd60be433]
+### 12. Determination of application for permission to appeal[^c-bf90a3f4d054906cf66b113cd60be433]
 
 (1) An application for permission to appeal must be considered by the appeal panel without a hearing.
 
@@ -341,7 +341,7 @@ has no effect pending the determination of the appeal unless the appeal panel di
 
 ## PART 4 — Appeals
 
-### 13. Procedure[^key-24ea1fd98b0c36c2f8bf8ad2a840cd55]
+### 13. Procedure[^c-24ea1fd98b0c36c2f8bf8ad2a840cd55]
 
 (1) An appeal may be determined by the same appeal panel which considered the application for permission to appeal.
 
@@ -389,7 +389,7 @@ has no effect pending the determination of the appeal unless the appeal panel di
 
 (11) The secretary must provide copies of all documents served on the secretary under this regulation to members of the appeal panel as soon as reasonably practicable.
 
-### 14. Directions[^key-8e438cfc8f1b89fac94f2e5e2fff093c]
+### 14. Directions[^c-8e438cfc8f1b89fac94f2e5e2fff093c]
 
 (1) The appeal panel must, before the expiry of the applicable period beginning with the day after the day on which the respondent’s notice was received by the secretary, direct—
 
@@ -443,7 +443,7 @@ has no effect pending the determination of the appeal unless the appeal panel di
 - (d) be served on any other party who might be affected by such directions, and
 - (e) be determined by the appeal panel taking into account the observations of the parties.
 
-### 15. Statement of truth[^key-e93d28156dc5efec0a2bbf471647e733]
+### 15. Statement of truth[^c-e93d28156dc5efec0a2bbf471647e733]
 
 (1) This regulation applies where a document is required to contain a statement of truth.
 
@@ -491,7 +491,7 @@ has no effect pending the determination of the appeal unless the appeal panel di
 - (b) on summary conviction in Scotland or Northern Ireland, to a fine not exceeding the statutory maximum;
 - (c) on conviction on indictment, to imprisonment for a term not exceeding two years or a fine, or both.
 
-### 16. Service of documents[^key-6fca37970f76bdbcc14349be3ff18092]
+### 16. Service of documents[^c-6fca37970f76bdbcc14349be3ff18092]
 
 (1) Any notice or other document required or authorised by these Regulations to be served on any person may be served by—
 
@@ -533,7 +533,7 @@ has no effect pending the determination of the appeal unless the appeal panel di
   - (c) in the case of any person intervening in the appeal, the address set out in the application for permission to intervene, under regulation 11(4)(d);
 - “business day” means any day other than a Saturday, a Sunday, or a day which is a bank holiday under the Banking and Financial Dealings Act 1971[^f00007] in any part of the United Kingdom.
 
-### 17. Prevention of disclosure or publication of documents and information[^key-443e6afadf0d3b4f75f49b4506ea8bca]
+### 17. Prevention of disclosure or publication of documents and information[^c-443e6afadf0d3b4f75f49b4506ea8bca]
 
 (1) The appeal panel may make an order prohibiting the disclosure of specified documents or information relating to the proceedings.
 
@@ -564,7 +564,7 @@ has no effect pending the determination of the appeal unless the appeal panel di
 
 (10) The appeal panel must conduct proceedings and record its decision and reasons appropriately so as not to undermine the effect of an order made under paragraph (1), a direction given under paragraph (2) or (6) or the duty imposed by paragraph (9).
 
-### 18. Evidence[^key-d749c22f71df38eae414e2abaa792543]
+### 18. Evidence[^c-d749c22f71df38eae414e2abaa792543]
 
 (1) The appeal panel may give directions as to—
 
@@ -601,7 +601,7 @@ has no effect pending the determination of the appeal unless the appeal panel di
 - (c) to court officers are to be treated as references to the secretary to the appeal panels;
 - (d) to the claim form are to be treated as references to the notice of appeal.
 
-### 19. Hearings[^key-7068410b4ca14b5fd7692a62ab192e92]
+### 19. Hearings[^c-7068410b4ca14b5fd7692a62ab192e92]
 
 (1) If there is an oral hearing of the appeal, the hearing must take place in private.
 
@@ -609,7 +609,7 @@ has no effect pending the determination of the appeal unless the appeal panel di
 
 (3) The appeal panel may give a direction excluding from any hearing, or part of it, any person who the panel considers should be excluded in order to give effect to the requirement at regulation 17(10).
 
-### 20. Failure to comply with direction[^key-e58b31cb85bebafc11f36b0184d1124c]
+### 20. Failure to comply with direction[^c-e58b31cb85bebafc11f36b0184d1124c]
 
 (1) If any party fails to comply with any direction issued by the appeal panel in accordance with these Regulations, the panel may if it considers that the justice of the case so requires, order that—
 
@@ -619,7 +619,7 @@ has no effect pending the determination of the appeal unless the appeal panel di
 
 (2) Before making an order under paragraph (1)(c), the appeal panel must give the party (or its representative) the opportunity to make submissions as to why the order should not be made.
 
-### 21. Striking out[^key-35556f87db184ad908a4e4b2e2ffaafd]
+### 21. Striking out[^c-35556f87db184ad908a4e4b2e2ffaafd]
 
 (1) The appeal panel may, after giving the parties an opportunity to be heard, either on its own initiative or on the application of a party, strike out an appeal in whole or in part at any stage of the proceedings if—
 
@@ -632,7 +632,7 @@ has no effect pending the determination of the appeal unless the appeal panel di
 
 (2) When the appeal panel strikes out an appeal it may make any consequential determination it considers appropriate.
 
-### 22. Amendments to notice of appeal[^key-a7ce88f0b02af73628be995f27fb81c3]
+### 22. Amendments to notice of appeal[^c-a7ce88f0b02af73628be995f27fb81c3]
 
 (1) The appellant may amend the notice of appeal only with the permission of the appeal panel.
 
@@ -644,7 +644,7 @@ has no effect pending the determination of the appeal unless the appeal panel di
 - (b) is based on matters of law or fact which have come to light since the notice of appeal was served, or
 - (c) for any other reason could not practicably have been included in the notice of appeal.
 
-### 23. Withdrawal of the appeal[^key-ddce3bac0dfb83fdf4be73f83bac24c6]
+### 23. Withdrawal of the appeal[^c-ddce3bac0dfb83fdf4be73f83bac24c6]
 
 (1) The appellant may withdraw its appeal at any time.
 
@@ -659,7 +659,7 @@ has no effect pending the determination of the appeal unless the appeal panel di
   - (i) within the period of 21 days after the day on which the initial appeal is withdrawn, and
   - (ii) with the permission of the appeal panel.
 
-### 24. Decisions on appeals[^key-0b09b9eee9c9d32cdc8aa6fa9ea8d953]
+### 24. Decisions on appeals[^c-0b09b9eee9c9d32cdc8aa6fa9ea8d953]
 
 (1) The appeal panel must give notice of its decision to the Secretary of State, the appellant, the respondent and any intervener, within the applicable period beginning with the day after the day on which the decision was taken.
 
@@ -703,7 +703,7 @@ has no effect pending the determination of the appeal unless the appeal panel di
 
 ## PART 5 — Miscellaneous
 
-### 25. Use of records and documentary evidence: prescribed persons[^key-0df889533a3295ea19d9d1d1a210292f]
+### 25. Use of records and documentary evidence: prescribed persons[^c-0df889533a3295ea19d9d1d1a210292f]
 
 (1) The following persons are prescribed persons for the purposes of section 66(1) of the Act—
 
@@ -720,7 +720,7 @@ has no effect pending the determination of the appeal unless the appeal panel di
 - (e) the holder of a spaceport licence;
 - (f) a person employed by, or providing services to, a person referred to in sub-paragraph (c), (d) or (e).
 
-### 26. Review[^key-875b008b0805e5039d8d77c331fcee96]
+### 26. Review[^c-875b008b0805e5039d8d77c331fcee96]
 
 (1) The Secretary of State must from time to time—
 
@@ -762,74 +762,74 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00001]: Footnote: [2018 c. 5](https://www.legislation.gov.uk/ukpga/2018/5). See section 69(1) for the definition of “prescribed”.
 
-[^key-d70080889d0920cb0f1366f906918a0c]: Commencement: Reg. 1 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/816/regulation/1/1)
+[^c-d70080889d0920cb0f1366f906918a0c]: Commencement: Reg. 1 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/816/regulation/1/1)
 
-[^key-65f6d9290a3ca71154f3d191b1ad6132]: Commencement: Reg. 2 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/816/regulation/1/1)
+[^c-65f6d9290a3ca71154f3d191b1ad6132]: Commencement: Reg. 2 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/816/regulation/1/1)
 
 [^f00002]: Footnote: [1986 c. 38](https://www.legislation.gov.uk/ukpga/1986/38).
 
 [^f00003]: Footnote: [2006 c. 52](https://www.legislation.gov.uk/ukpga/2006/52).
 
-[^key-a93daa2cc8e84adcddf9c44013f3db52]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2021/816/regulation/2) substituted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 71](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/71) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
+[^c-a93daa2cc8e84adcddf9c44013f3db52]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2021/816/regulation/2) substituted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 71](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/71) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
 
-[^key-0d95a25c70eccef5fc7a4207276b0bf9]: Commencement: Reg. 3 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/816/regulation/1/1)
+[^c-0d95a25c70eccef5fc7a4207276b0bf9]: Commencement: Reg. 3 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/816/regulation/1/1)
 
-[^key-9eb8bf991003b8ce03a589042dac5164]: Commencement: Reg. 4 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/816/regulation/1/1)
+[^c-9eb8bf991003b8ce03a589042dac5164]: Commencement: Reg. 4 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/816/regulation/1/1)
 
 [^f00004]: Footnote: Paragraph 5(1) of Schedule 10 to the Space Industry Act 2018 provides that an appeal to a panel may be brought only with the panel’s permission.
 
-[^key-2d4f013769405f9089f3bcc7619ab581]: Commencement: Reg. 5 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/816/regulation/1/1)
+[^c-2d4f013769405f9089f3bcc7619ab581]: Commencement: Reg. 5 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/816/regulation/1/1)
 
-[^key-8dd0213a59cbc73fffbd75e96c40ee2a]: Commencement: Reg. 6 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/816/regulation/1/1)
+[^c-8dd0213a59cbc73fffbd75e96c40ee2a]: Commencement: Reg. 6 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/816/regulation/1/1)
 
-[^key-2f2056a0a28d1952329966e806f5a168]: Commencement: Reg. 7 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/816/regulation/1/1)
+[^c-2f2056a0a28d1952329966e806f5a168]: Commencement: Reg. 7 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/816/regulation/1/1)
 
 [^f00005]: Footnote: [S.I. 2021/792](https://www.legislation.gov.uk/uksi/2021/792).
 
-[^key-7f66794392f207130d5938bcb4e2e28d]: Commencement: Reg. 8 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/816/regulation/1/1)
+[^c-7f66794392f207130d5938bcb4e2e28d]: Commencement: Reg. 8 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/816/regulation/1/1)
 
 [^f00006]: Footnote: [2018 c. 12](https://www.legislation.gov.uk/ukpga/2018/12). Section 3(9) has been amended by [S.I. 2019/419](https://www.legislation.gov.uk/uksi/2019/419).
 
-[^key-71fcae8eb3521b1f6e6ad9cb6f900548]: Commencement: Reg. 9 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/816/regulation/1/1)
+[^c-71fcae8eb3521b1f6e6ad9cb6f900548]: Commencement: Reg. 9 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/816/regulation/1/1)
 
-[^key-14ac9997b21863e633b406b427dcd666]: Commencement: Reg. 10 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/816/regulation/1/1)
+[^c-14ac9997b21863e633b406b427dcd666]: Commencement: Reg. 10 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/816/regulation/1/1)
 
-[^key-a6064abd26e9f3d51b759390e6e938e4]: Commencement: Reg. 11 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/816/regulation/1/1)
+[^c-a6064abd26e9f3d51b759390e6e938e4]: Commencement: Reg. 11 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/816/regulation/1/1)
 
-[^key-bf90a3f4d054906cf66b113cd60be433]: Commencement: Reg. 12 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/816/regulation/1/1)
+[^c-bf90a3f4d054906cf66b113cd60be433]: Commencement: Reg. 12 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/816/regulation/1/1)
 
-[^key-24ea1fd98b0c36c2f8bf8ad2a840cd55]: Commencement: Reg. 13 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/816/regulation/1/1)
+[^c-24ea1fd98b0c36c2f8bf8ad2a840cd55]: Commencement: Reg. 13 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/816/regulation/1/1)
 
-[^key-8e438cfc8f1b89fac94f2e5e2fff093c]: Commencement: Reg. 14 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/816/regulation/1/1)
+[^c-8e438cfc8f1b89fac94f2e5e2fff093c]: Commencement: Reg. 14 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/816/regulation/1/1)
 
-[^key-e93d28156dc5efec0a2bbf471647e733]: Commencement: Reg. 15 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/816/regulation/1/1)
+[^c-e93d28156dc5efec0a2bbf471647e733]: Commencement: Reg. 15 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/816/regulation/1/1)
 
-[^key-6fca37970f76bdbcc14349be3ff18092]: Commencement: Reg. 16 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/816/regulation/1/1)
+[^c-6fca37970f76bdbcc14349be3ff18092]: Commencement: Reg. 16 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/816/regulation/1/1)
 
 [^f00007]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-443e6afadf0d3b4f75f49b4506ea8bca]: Commencement: Reg. 17 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/816/regulation/1/1)
+[^c-443e6afadf0d3b4f75f49b4506ea8bca]: Commencement: Reg. 17 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/816/regulation/1/1)
 
-[^key-d749c22f71df38eae414e2abaa792543]: Commencement: Reg. 18 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/816/regulation/1/1)
+[^c-d749c22f71df38eae414e2abaa792543]: Commencement: Reg. 18 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/816/regulation/1/1)
 
 [^f00008]: Footnote: [S.I. 1998/3132 (L. 17)](https://www.legislation.gov.uk/uksi/1998/3132).
 
-[^key-7068410b4ca14b5fd7692a62ab192e92]: Commencement: Reg. 19 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/816/regulation/1/1)
+[^c-7068410b4ca14b5fd7692a62ab192e92]: Commencement: Reg. 19 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/816/regulation/1/1)
 
-[^key-e58b31cb85bebafc11f36b0184d1124c]: Commencement: Reg. 20 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/816/regulation/1/1)
+[^c-e58b31cb85bebafc11f36b0184d1124c]: Commencement: Reg. 20 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/816/regulation/1/1)
 
-[^key-35556f87db184ad908a4e4b2e2ffaafd]: Commencement: Reg. 21 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/816/regulation/1/1)
+[^c-35556f87db184ad908a4e4b2e2ffaafd]: Commencement: Reg. 21 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/816/regulation/1/1)
 
-[^key-a7ce88f0b02af73628be995f27fb81c3]: Commencement: Reg. 22 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/816/regulation/1/1)
+[^c-a7ce88f0b02af73628be995f27fb81c3]: Commencement: Reg. 22 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/816/regulation/1/1)
 
-[^key-ddce3bac0dfb83fdf4be73f83bac24c6]: Commencement: Reg. 23 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/816/regulation/1/1)
+[^c-ddce3bac0dfb83fdf4be73f83bac24c6]: Commencement: Reg. 23 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/816/regulation/1/1)
 
-[^key-0b09b9eee9c9d32cdc8aa6fa9ea8d953]: Commencement: Reg. 24 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/816/regulation/1/1)
+[^c-0b09b9eee9c9d32cdc8aa6fa9ea8d953]: Commencement: Reg. 24 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/816/regulation/1/1)
 
 [^f00009]: Footnote: [2018 c. 12](https://www.legislation.gov.uk/ukpga/2018/12). Section 3(9) was amended by [S.I. 2019/419](https://www.legislation.gov.uk/uksi/2019/419).
 
-[^key-0df889533a3295ea19d9d1d1a210292f]: Commencement: Reg. 25 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/816/regulation/1/1)
+[^c-0df889533a3295ea19d9d1d1a210292f]: Commencement: Reg. 25 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/816/regulation/1/1)
 
-[^key-875b008b0805e5039d8d77c331fcee96]: Commencement: Reg. 26 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/816/regulation/1/1)
+[^c-875b008b0805e5039d8d77c331fcee96]: Commencement: Reg. 26 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/816/regulation/1/1)
 
 [^f00010]: Footnote: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26). Section 30(3) was amended by section 19 of the Enterprise Act [2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), and paragraph 36 of Schedule 8 to the European Union (Withdrawal) Act [2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16).

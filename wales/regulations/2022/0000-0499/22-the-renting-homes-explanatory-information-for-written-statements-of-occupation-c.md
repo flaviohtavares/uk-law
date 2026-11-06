@@ -43,17 +43,17 @@ Coming into force in accordance with regulation 1
 
 The Welsh Ministers make the following Regulations in exercise of the powers conferred on them by sections 32(4) and 256(1) of the Renting Homes (Wales) Act 2016[^f00001].
 
-## 1. Title and commencement[^key-c8888aac867d78c8f4663dbd91bb9942]
+## 1. Title and commencement[^c-c8888aac867d78c8f4663dbd91bb9942]
 
-The title of these Regulations is the Renting Homes (Explanatory Information for Written Statements of Occupation Contracts) (Wales) Regulations 2022 and they come into force on 1 December 2022 (the day on which section 239 of the Renting Homes (Wales) Act 2016 comes into force)[^key-d7d31c3f26890802af564e45825f550d] [^f00002].
+The title of these Regulations is the Renting Homes (Explanatory Information for Written Statements of Occupation Contracts) (Wales) Regulations 2022 and they come into force on 1 December 2022 (the day on which section 239 of the Renting Homes (Wales) Act 2016 comes into force)[^c-d7d31c3f26890802af564e45825f550d] [^f00002].
 
-## 2. Interpretation[^key-ecad128a88f5c982cea42b16b8159c19]
+## 2. Interpretation[^c-ecad128a88f5c982cea42b16b8159c19]
 
 (1) In these Regulations, “**the Act**” means the Renting Homes (Wales) Act 2016.
 
 (2) The words and expressions used in these Regulations have the same meaning as they have in the Act.
 
-## 3. Prescribed matters for which explanatory information must be contained in the written statement of an occupation contract[^key-825e04712b2f94fe35661dd9a53629e8]
+## 3. Prescribed matters for which explanatory information must be contained in the written statement of an occupation contract[^c-825e04712b2f94fe35661dd9a53629e8]
 
 A written statement of an occupation contract must contain explanatory information about the following matters—
 
@@ -77,10 +77,10 @@ A written statement of an occupation contract must contain explanatory informati
     - (bb) that these are agreed by the landlord and contract-holder;
     - (cc) that where the contract is a converted contract, these are existing terms of the contract, which were agreed by the contract-holder and the landlord and included in the contract prior to the conversion to an occupation contract, which would continue to have effect except where they are incompatible with a fundamental provision incorporated as a term of the occupation contract,
 - (e) that if any fundamental or supplementary provisions have not been incorporated as terms of the occupation contract, the method by which these are identified in the written statement[^f00005],
-- (f) that the written statement of the occupation contract [^key-204684fe057bbf68cc197a993a982181]...—
-  - (i) may be given to the contract-holder before the occupation date and, if it is not, must be given to the contract-holder within[^key-4c3137a59b9fa38c0d1b66cbd6270fd9] 14 days of the occupation date[^f00006];
-  - (ii) where the contract is a converted contract, must be given to the contract-holder[^key-a78ad080bdd7d36fd8047f32bdde0da3] within six months of the date the contract converted to an occupation contract[^f00007],
-- (g)[^key-2aeb57fc856e936228682b36d26630d9] that if the landlord fails to give the written statement of the occupation contract to the contract-holder within 14 days of the occupation date, the landlord may be liable to pay the contract-holder compensation equivalent to a day’s rent for each day that the written statement is not provided, starting with the occupation date, up to a maximum of two months’ rent (unless the landlord’s failure to provide the written statement was intentional in which case, the court may determine that an increased amount per day is payable)
+- (f) that the written statement of the occupation contract [^c-204684fe057bbf68cc197a993a982181]...—
+  - (i) may be given to the contract-holder before the occupation date and, if it is not, must be given to the contract-holder within[^c-4c3137a59b9fa38c0d1b66cbd6270fd9] 14 days of the occupation date[^f00006];
+  - (ii) where the contract is a converted contract, must be given to the contract-holder[^c-a78ad080bdd7d36fd8047f32bdde0da3] within six months of the date the contract converted to an occupation contract[^f00007],
+- (g)[^c-2aeb57fc856e936228682b36d26630d9] that if the landlord fails to give the written statement of the occupation contract to the contract-holder within 14 days of the occupation date, the landlord may be liable to pay the contract-holder compensation equivalent to a day’s rent for each day that the written statement is not provided, starting with the occupation date, up to a maximum of two months’ rent (unless the landlord’s failure to provide the written statement was intentional in which case, the court may determine that an increased amount per day is payable)
 - (h) that the written statement of the occupation contract can be provided electronically if the contract-holder has agreed to receive the written statement in an electronic form[^f00009],
 - (i) that the written statement of the occupation contract sets out the rights and responsibilities of the contract-holder and the landlord,
 - (j) that the contract-holder should read the terms of the written statement of the occupation contract to ensure they fully understand them, and they are content they reflect the modifications to terms or additional terms agreed between the contract-holder and landlord,
@@ -104,11 +104,11 @@ A written statement of an occupation contract must contain explanatory informati
 - (u) that the contract-holder must not allow the dwelling to become overcrowded by permitting more persons to live in the dwelling than the maximum number allowed, and
 - (v) that Part 10 of the Housing Act 1985 (overcrowding)[^f00012] provides the basis for determining the maximum number of people permitted to live in the dwelling.
 
-## 4. Further prescribed matters for which explanatory information must be provided for specific types of written statement of occupation contract[^key-563f643e4d68db0271c282ea5f66089c]
+## 4. Further prescribed matters for which explanatory information must be provided for specific types of written statement of occupation contract[^c-563f643e4d68db0271c282ea5f66089c]
 
 Regulations 5 to 9 prescribe the explanatory information which must be contained in the written statement of specified types of occupation contract.
 
-## 5. Periodic standard contract[^key-5967364d039fa8ed09b15c1bf962f1da]
+## 5. Periodic standard contract[^c-5967364d039fa8ed09b15c1bf962f1da]
 
 In relation to a periodic standard contract, in addition to the matters prescribed in regulation 3, a written statement of the occupation contract must contain explanatory information about the following matters—
 
@@ -122,11 +122,11 @@ In relation to a periodic standard contract, in addition to the matters prescrib
     - (bb) the contract-holder was given at least six months’ notice that they must give up possession and the notice must not have been issued in the first six months of the occupation date of the contract, except where the contract is within Schedule 8A[^f00015]or Schedule 9[^f00016] to the Act, and
     - (cc) where the contract is within Schedule 8A to the Act, the contract-holder was given at least two months’ notice that they must give up possession.
 
-## 6. Introductory standard contract and prohibited conduct standard contract[^key-f3909713a49883fc120ef82fa3415e33]
+## 6. Introductory standard contract and prohibited conduct standard contract[^c-f3909713a49883fc120ef82fa3415e33]
 
 In relation to an introductory standard contract or a prohibited conduct standard contract, in addition to the matters prescribed in regulations 3 and 5, a written statement of the occupation contract must contain explanatory information about the following matter: that unless the occupation contract is extended or otherwise terminated, at the end of the period for which it is made, the contract will become a secure contract.
 
-## 7. Supported standard contract[^key-9aa688575551eba28ea6162291937383]
+## 7. Supported standard contract[^c-9aa688575551eba28ea6162291937383]
 
 In relation to a supported standard contract, in addition to the matters prescribed in regulations 3 and 5, a written statement of the occupation contract must contain explanatory information about the following matter: that the contract-holder can be temporarily excluded from the dwelling if they—
 
@@ -134,7 +134,7 @@ In relation to a supported standard contract, in addition to the matters prescri
 - (b) do something in the dwelling that creates a risk of significant harm to any person, or
 - (c) behave in a way which seriously impedes the ability of another resident of supported accommodation to benefit from support provided in connection with that accommodation.
 
-## 8. Fixed term standard contract[^key-b609afdc90697c7f5e1e6173311d609e]
+## 8. Fixed term standard contract[^c-b609afdc90697c7f5e1e6173311d609e]
 
 In relation to a fixed term standard contract, in addition to the matters prescribed in regulation 3, a written statement of the occupation contract must contain explanatory information about the following matters—
 
@@ -146,12 +146,12 @@ In relation to a fixed term standard contract, in addition to the matters prescr
   - (iv) where the contract is within Schedule 9B[^f00017] to the Act, the contract-holder was given at least two months’ notice that they must give up possession under section 186 (landlord’s notice in connection with end of term of contract within Schedule 9B) of the Act;
   - (v) where the occupation contract incorporates section 194 (landlord’s break clause) of the Act as a term of the occupation contract, the landlord has given the contract-holder notice under section 194 of the Act that they must give up possession on a date specified in that notice and the landlord also must demonstrate that—
     - (aa) no restrictions on giving notice under section 194 of the Act apply;
-    - (bb) the contract-holder was given at least six months’ notice that they must give up possession ,[^key-76d47c67022d56e4eb7e928323f1e8f8] the notice was given at least 18 months after the occupation date, and the fixed term of the contract was for at least two years, except where the occupation contract is a[^key-b7c18b5633e0a2d5f5771add68b93cda] standard contract within Schedule 8A, Schedule 9 or Schedule 9C[^f00018] to the Act;
-    - (cc) where the occupation contract is within Schedule 8A to the Act, the[^key-de3e179f8c64803e9be750bbc57a88f5] contract-holder was given at least two months’ notice that they must give up possession;
+    - (bb) the contract-holder was given at least six months’ notice that they must give up possession ,[^c-76d47c67022d56e4eb7e928323f1e8f8] the notice was given at least 18 months after the occupation date, and the fixed term of the contract was for at least two years, except where the occupation contract is a[^c-b7c18b5633e0a2d5f5771add68b93cda] standard contract within Schedule 8A, Schedule 9 or Schedule 9C[^f00018] to the Act;
+    - (cc) where the occupation contract is within Schedule 8A to the Act, the[^c-de3e179f8c64803e9be750bbc57a88f5] contract-holder was given at least two months’ notice that they must give up possession;
     - (dd) where the occupation contract is within either Schedule 8A, Schedule 9 or Schedule 9C or any combination of these Schedules to the Act, the contract–holder was given the relevant notice that they must give up possession; and for the purposes of this paragraph, the “relevant notice” is the notice that is applicable to the type of occupation contract having regards to any restrictions that apply to that particular type of occupation contract;
 - (c) that if the contract-holder remains in occupation after the end of the term, the landlord and contract-holder are to be treated as having made a new periodic standard contract in relation to the dwelling.
 
-## 9. Secure contract[^key-f611388ec79906d00841ffe0cf8a0f24]
+## 9. Secure contract[^c-f611388ec79906d00841ffe0cf8a0f24]
 
 In relation to a secure contract in addition to the matters prescribed in regulation 3, a written statement of the occupation contract must contain explanatory information about the following matters—
 
@@ -192,15 +192,15 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00001]: Footnote: [2016 anaw 1](https://www.legislation.gov.uk/anaw/2016/1). See section 252 for the definition of “prescribed”.
 
-[^key-c8888aac867d78c8f4663dbd91bb9942]: Commencement: Reg. 1 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 4](https://www.legislation.gov.uk/uksi/2022/906/article/4))
+[^c-c8888aac867d78c8f4663dbd91bb9942]: Commencement: Reg. 1 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 4](https://www.legislation.gov.uk/uksi/2022/906/article/4))
 
-[^key-d7d31c3f26890802af564e45825f550d]: Textual amendment: Words in [reg. 1](https://www.legislation.gov.uk/wsi/2022/22/regulation/1) substituted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/wsi/2022/906), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2022/906/article/1/2), [4](https://www.legislation.gov.uk/wsi/2022/906/article/4)
+[^c-d7d31c3f26890802af564e45825f550d]: Textual amendment: Words in [reg. 1](https://www.legislation.gov.uk/wsi/2022/22/regulation/1) substituted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/wsi/2022/906), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2022/906/article/1/2), [4](https://www.legislation.gov.uk/wsi/2022/906/article/4)
 
 [^f00002]: Footnote: Section 239 of the Renting Homes (Wales) Act 2016 will come into force on a day appointed by the Welsh Ministers in an order made by statutory instrument.
 
-[^key-ecad128a88f5c982cea42b16b8159c19]: Commencement: Reg. 2 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 4](https://www.legislation.gov.uk/uksi/2022/906/article/4))
+[^c-ecad128a88f5c982cea42b16b8159c19]: Commencement: Reg. 2 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 4](https://www.legislation.gov.uk/uksi/2022/906/article/4))
 
-[^key-825e04712b2f94fe35661dd9a53629e8]: Commencement: Reg. 3 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 4](https://www.legislation.gov.uk/uksi/2022/906/article/4))
+[^c-825e04712b2f94fe35661dd9a53629e8]: Commencement: Reg. 3 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 4](https://www.legislation.gov.uk/uksi/2022/906/article/4))
 
 [^f00003]: Footnote: See section 33 of the Act.
 
@@ -208,17 +208,17 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00005]: Footnote: See also section 32(3) of the Act.
 
-[^key-204684fe057bbf68cc197a993a982181]: Textual amendment: Words in [reg. 3(f)](https://www.legislation.gov.uk/wsi/2022/22/regulation/3/f) omitted (6.12.2023) by virtue of [The Renting Homes (Miscellaneous Amendments) (Wales) Regulations 2023 (S.I. 2023/1199)](https://www.legislation.gov.uk/wsi/2023/1199), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1199/regulation/1/2), [2(2)(a)(i)](https://www.legislation.gov.uk/wsi/2023/1199/regulation/2/2/a/i)
+[^c-204684fe057bbf68cc197a993a982181]: Textual amendment: Words in [reg. 3(f)](https://www.legislation.gov.uk/wsi/2022/22/regulation/3/f) omitted (6.12.2023) by virtue of [The Renting Homes (Miscellaneous Amendments) (Wales) Regulations 2023 (S.I. 2023/1199)](https://www.legislation.gov.uk/wsi/2023/1199), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1199/regulation/1/2), [2(2)(a)(i)](https://www.legislation.gov.uk/wsi/2023/1199/regulation/2/2/a/i)
 
-[^key-4c3137a59b9fa38c0d1b66cbd6270fd9]: Textual amendment: Words in [reg. 3(f)(i)](https://www.legislation.gov.uk/wsi/2022/22/regulation/3/f/i) inserted (6.12.2023) by [The Renting Homes (Miscellaneous Amendments) (Wales) Regulations 2023 (S.I. 2023/1199)](https://www.legislation.gov.uk/wsi/2023/1199), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1199/regulation/1/2), [2(2)(a)(ii)](https://www.legislation.gov.uk/wsi/2023/1199/regulation/2/2/a/ii)
+[^c-4c3137a59b9fa38c0d1b66cbd6270fd9]: Textual amendment: Words in [reg. 3(f)(i)](https://www.legislation.gov.uk/wsi/2022/22/regulation/3/f/i) inserted (6.12.2023) by [The Renting Homes (Miscellaneous Amendments) (Wales) Regulations 2023 (S.I. 2023/1199)](https://www.legislation.gov.uk/wsi/2023/1199), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1199/regulation/1/2), [2(2)(a)(ii)](https://www.legislation.gov.uk/wsi/2023/1199/regulation/2/2/a/ii)
 
 [^f00006]: Footnote: See section 31 of the Act.
 
-[^key-a78ad080bdd7d36fd8047f32bdde0da3]: Textual amendment: Words in [reg. 3(f)(ii)](https://www.legislation.gov.uk/wsi/2022/22/regulation/3/f/ii) inserted (6.12.2023) by [The Renting Homes (Miscellaneous Amendments) (Wales) Regulations 2023 (S.I. 2023/1199)](https://www.legislation.gov.uk/wsi/2023/1199), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1199/regulation/1/2), [2(2)(a)(iii)](https://www.legislation.gov.uk/wsi/2023/1199/regulation/2/2/a/iii)
+[^c-a78ad080bdd7d36fd8047f32bdde0da3]: Textual amendment: Words in [reg. 3(f)(ii)](https://www.legislation.gov.uk/wsi/2022/22/regulation/3/f/ii) inserted (6.12.2023) by [The Renting Homes (Miscellaneous Amendments) (Wales) Regulations 2023 (S.I. 2023/1199)](https://www.legislation.gov.uk/wsi/2023/1199), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1199/regulation/1/2), [2(2)(a)(iii)](https://www.legislation.gov.uk/wsi/2023/1199/regulation/2/2/a/iii)
 
 [^f00007]: Footnote: See paragraph 11(1) of Schedule 12 - which deals with the conversion of tenancies and licences that existed before the commencement of Chapter 3 of Part 10 of the Act.
 
-[^key-2aeb57fc856e936228682b36d26630d9]: Textual amendment: [Reg. 3(g)](https://www.legislation.gov.uk/wsi/2022/22/regulation/3/g) substituted (6.12.2023) by [The Renting Homes (Miscellaneous Amendments) (Wales) Regulations 2023 (S.I. 2023/1199)](https://www.legislation.gov.uk/wsi/2023/1199), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1199/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/wsi/2023/1199/regulation/2/2/b)
+[^c-2aeb57fc856e936228682b36d26630d9]: Textual amendment: [Reg. 3(g)](https://www.legislation.gov.uk/wsi/2022/22/regulation/3/g) substituted (6.12.2023) by [The Renting Homes (Miscellaneous Amendments) (Wales) Regulations 2023 (S.I. 2023/1199)](https://www.legislation.gov.uk/wsi/2023/1199), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1199/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/wsi/2023/1199/regulation/2/2/b)
 
 [^f00009]: Footnote: See sections 236 and 237 of the Act.
 
@@ -228,9 +228,9 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00012]: Footnote: [1985 c. 68](https://www.legislation.gov.uk/ukpga/1985/68), section 325 was amended by [S.I. 2019/1458](https://www.legislation.gov.uk/uksi/2019/1458); there are other amending instruments but none that are relevant to these Regulations.
 
-[^key-563f643e4d68db0271c282ea5f66089c]: Commencement: Reg. 4 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 4](https://www.legislation.gov.uk/uksi/2022/906/article/4))
+[^c-563f643e4d68db0271c282ea5f66089c]: Commencement: Reg. 4 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 4](https://www.legislation.gov.uk/uksi/2022/906/article/4))
 
-[^key-5967364d039fa8ed09b15c1bf962f1da]: Commencement: Reg. 5 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 4](https://www.legislation.gov.uk/uksi/2022/906/article/4))
+[^c-5967364d039fa8ed09b15c1bf962f1da]: Commencement: Reg. 5 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 4](https://www.legislation.gov.uk/uksi/2022/906/article/4))
 
 [^f00013]: Footnote: [2004 c. 34](https://www.legislation.gov.uk/ukpga/2004/34).
 
@@ -240,20 +240,20 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00016]: Footnote: Schedule 9 sets out the standard contracts to which limits in section 175 (restriction on section 173: notice may not be given until after the first six months of occupation) and section 196 (restriction on use of the landlord’s break clause until after the first 18 months of occupation) do not apply.
 
-[^key-f3909713a49883fc120ef82fa3415e33]: Commencement: Reg. 6 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 4](https://www.legislation.gov.uk/uksi/2022/906/article/4))
+[^c-f3909713a49883fc120ef82fa3415e33]: Commencement: Reg. 6 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 4](https://www.legislation.gov.uk/uksi/2022/906/article/4))
 
-[^key-9aa688575551eba28ea6162291937383]: Commencement: Reg. 7 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 4](https://www.legislation.gov.uk/uksi/2022/906/article/4))
+[^c-9aa688575551eba28ea6162291937383]: Commencement: Reg. 7 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 4](https://www.legislation.gov.uk/uksi/2022/906/article/4))
 
-[^key-b609afdc90697c7f5e1e6173311d609e]: Commencement: Reg. 8 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 4](https://www.legislation.gov.uk/uksi/2022/906/article/4))
+[^c-b609afdc90697c7f5e1e6173311d609e]: Commencement: Reg. 8 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 4](https://www.legislation.gov.uk/uksi/2022/906/article/4))
 
 [^f00017]: Footnote: Schedule 9B sets out the fixed term contracts which can be terminated under section 186 (landlord’s notice in connection with end of term of contract within Schedule 9B). Schedule 9B was inserted by section 10 of, and Schedule 3 to, the Renting Homes (Amendment) (Wales) Act 2021.
 
-[^key-76d47c67022d56e4eb7e928323f1e8f8]: Textual amendment: Reg. 8(b)(v)(bb): comma inserted (6.12.2023) by [The Renting Homes (Miscellaneous Amendments) (Wales) Regulations 2023 (S.I. 2023/1199)](https://www.legislation.gov.uk/wsi/2023/1199), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1199/regulation/1/2), [2(3)(a)(i)](https://www.legislation.gov.uk/wsi/2023/1199/regulation/2/3/a/i)
+[^c-76d47c67022d56e4eb7e928323f1e8f8]: Textual amendment: Reg. 8(b)(v)(bb): comma inserted (6.12.2023) by [The Renting Homes (Miscellaneous Amendments) (Wales) Regulations 2023 (S.I. 2023/1199)](https://www.legislation.gov.uk/wsi/2023/1199), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1199/regulation/1/2), [2(3)(a)(i)](https://www.legislation.gov.uk/wsi/2023/1199/regulation/2/3/a/i)
 
-[^key-b7c18b5633e0a2d5f5771add68b93cda]: Textual amendment: Word in reg. 8(b)(v)(bb) inserted (6.12.2023) by [The Renting Homes (Miscellaneous Amendments) (Wales) Regulations 2023 (S.I. 2023/1199)](https://www.legislation.gov.uk/wsi/2023/1199), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1199/regulation/1/2), [2(3)(a)(ii)](https://www.legislation.gov.uk/wsi/2023/1199/regulation/2/3/a/ii)
+[^c-b7c18b5633e0a2d5f5771add68b93cda]: Textual amendment: Word in reg. 8(b)(v)(bb) inserted (6.12.2023) by [The Renting Homes (Miscellaneous Amendments) (Wales) Regulations 2023 (S.I. 2023/1199)](https://www.legislation.gov.uk/wsi/2023/1199), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1199/regulation/1/2), [2(3)(a)(ii)](https://www.legislation.gov.uk/wsi/2023/1199/regulation/2/3/a/ii)
 
 [^f00018]: Footnote: Schedule 9C sets out the fixed term contracts which may be terminated under section 194 (landlord’s break clause) even if the occupation contract is made for a term of less than two years. Schedule 9C was inserted by section 11 of, and Schedule 4 to, the Renting Homes (Amendment) (Wales) Act 2021.
 
-[^key-de3e179f8c64803e9be750bbc57a88f5]: Textual amendment: Word in reg. 8(b)(v)(cc) inserted (6.12.2023) by [The Renting Homes (Miscellaneous Amendments) (Wales) Regulations 2023 (S.I. 2023/1199)](https://www.legislation.gov.uk/wsi/2023/1199), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1199/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/wsi/2023/1199/regulation/2/3/b)
+[^c-de3e179f8c64803e9be750bbc57a88f5]: Textual amendment: Word in reg. 8(b)(v)(cc) inserted (6.12.2023) by [The Renting Homes (Miscellaneous Amendments) (Wales) Regulations 2023 (S.I. 2023/1199)](https://www.legislation.gov.uk/wsi/2023/1199), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1199/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/wsi/2023/1199/regulation/2/3/b)
 
-[^key-f611388ec79906d00841ffe0cf8a0f24]: Commencement: Reg. 9 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 4](https://www.legislation.gov.uk/uksi/2022/906/article/4))
+[^c-f611388ec79906d00841ffe0cf8a0f24]: Commencement: Reg. 9 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 4](https://www.legislation.gov.uk/uksi/2022/906/article/4))

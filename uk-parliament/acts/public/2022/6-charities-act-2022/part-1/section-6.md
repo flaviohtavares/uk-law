@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Cy-près powers[^key-5858ceee613dd5d840bef7a3fefe48f4][^key-a12450d1c033243359e446edbf574aa2]
+## 6. Cy-près powers[^c-5858ceee613dd5d840bef7a3fefe48f4][^c-a12450d1c033243359e446edbf574aa2]
 
 *Extent: E+W*
 
@@ -60,6 +60,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5858ceee613dd5d840bef7a3fefe48f4]: Commencement: S. 6 not in force at Royal Assent, see [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4)
+[^c-5858ceee613dd5d840bef7a3fefe48f4]: Commencement: S. 6 not in force at Royal Assent, see [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4)
 
-[^key-a12450d1c033243359e446edbf574aa2]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2022/6/section/6) in force at 31.10.2022 by [S.I. 2022/1109](https://www.legislation.gov.uk/uksi/2022/1109), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2022/1109/schedule/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/1109/regulation/5))
+[^c-a12450d1c033243359e446edbf574aa2]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2022/6/section/6) in force at 31.10.2022 by [S.I. 2022/1109](https://www.legislation.gov.uk/uksi/2022/1109), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2022/1109/schedule/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/1109/regulation/5))

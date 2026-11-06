@@ -35,34 +35,34 @@ concerning the authorisation of a preparation of *Enterococcus faecium* NCIMB 10
 
 (Text with EEA relevance) (revoked)
 
-[^key-d9d5d7298c46b6c4173fbd42c74d1407]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d9d5d7298c46b6c4173fbd42c74d1407]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Authorisation[^key-d9d5d7298c46b6c4173fbd42c74d1407]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Repeal of Regulation (EC) No 102/2009[^key-d9d5d7298c46b6c4173fbd42c74d1407]
+## Article 1. Authorisation[^c-d9d5d7298c46b6c4173fbd42c74d1407]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Amendment to Regulation (EC) No 1288/2004[^key-d9d5d7298c46b6c4173fbd42c74d1407]
+## Article 2. Repeal of Regulation (EC) No 102/2009[^c-d9d5d7298c46b6c4173fbd42c74d1407]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Transitional measures[^key-d9d5d7298c46b6c4173fbd42c74d1407]
+## Article 3. Amendment to Regulation (EC) No 1288/2004[^c-d9d5d7298c46b6c4173fbd42c74d1407]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Entry into force[^key-d9d5d7298c46b6c4173fbd42c74d1407]
+## Article 4. Transitional measures[^c-d9d5d7298c46b6c4173fbd42c74d1407]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d9d5d7298c46b6c4173fbd42c74d1407]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 5. Entry into force[^c-d9d5d7298c46b6c4173fbd42c74d1407]
 
-## ANNEX[^key-d9d5d7298c46b6c4173fbd42c74d1407]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-d9d5d7298c46b6c4173fbd42c74d1407]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX[^c-d9d5d7298c46b6c4173fbd42c74d1407]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d9d5d7298c46b6c4173fbd42c74d1407]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 127](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/127) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-d9d5d7298c46b6c4173fbd42c74d1407]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 127](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/127) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

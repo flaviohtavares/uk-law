@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Powers of inspectors[^key-7dac5209c8930fadc9afadac41c5c16d]
+## 18. Powers of inspectors[^c-7dac5209c8930fadc9afadac41c5c16d]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ if he acted in the honest belief that his duty under these Regulations required 
 
 ## Annotations
 
-[^key-7dac5209c8930fadc9afadac41c5c16d]: Commencement: Reg. 18 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)
+[^c-7dac5209c8930fadc9afadac41c5c16d]: Commencement: Reg. 18 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)

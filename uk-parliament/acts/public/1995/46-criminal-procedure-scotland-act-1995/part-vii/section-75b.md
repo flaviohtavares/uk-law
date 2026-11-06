@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75B. Refixing diets: non-sitting days[^c19799701][^key-46a08d7248c726467d5323046c6c13ce]
+## 75B. Refixing diets: non-sitting days[^c19799701][^c-46a08d7248c726467d5323046c6c13ce]
 
 *Extent: S*
 
@@ -52,4 +52,4 @@ shall be entitled to an adjournment of the new diet fixed if the court is satisf
 
 [^c19799701]: Textual amendment: S. 75B inserted (10.12.2007) by [Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (asp 6)](https://www.legislation.gov.uk/asp/2007/6), [ss. 39(1)](https://www.legislation.gov.uk/asp/2007/6/section/39/1), [84](https://www.legislation.gov.uk/asp/2007/6/section/84); [S.S.I. 2007/479](https://www.legislation.gov.uk/ssi/2007/479), [art. 3(1)](https://www.legislation.gov.uk/ssi/2007/479/article/3/1), [Sch.](https://www.legislation.gov.uk/ssi/2007/479/schedule) (as amended by [S.S.I. 2007/527](https://www.legislation.gov.uk/ssi/2007/527))
 
-[^key-46a08d7248c726467d5323046c6c13ce]: Textual amendment: S. 75B heading substituted (30.1.2012) by [Act of Adjournal (Amendment of the Criminal Procedure (Scotland) Act 1995) (Refixing diets) 2011 (S.S.I. 2011/430)](https://www.legislation.gov.uk/ssi/2011/430), [ss. 1(2)](https://www.legislation.gov.uk/ssi/2011/430/section/1/2), [2(3)](https://www.legislation.gov.uk/ssi/2011/430/section/2/3)
+[^c-46a08d7248c726467d5323046c6c13ce]: Textual amendment: S. 75B heading substituted (30.1.2012) by [Act of Adjournal (Amendment of the Criminal Procedure (Scotland) Act 1995) (Refixing diets) 2011 (S.S.I. 2011/430)](https://www.legislation.gov.uk/ssi/2011/430), [ss. 1(2)](https://www.legislation.gov.uk/ssi/2011/430/section/1/2), [2(3)](https://www.legislation.gov.uk/ssi/2011/430/section/2/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 136. Examinations by Comptroller and Auditor General[^key-8b748dadbe5f009c42a63eed692c1d96]
+## 136. Examinations by Comptroller and Auditor General[^c-8b748dadbe5f009c42a63eed692c1d96]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8b748dadbe5f009c42a63eed692c1d96]: Textual amendment: S. 136 omitted (1.4.2018) by virtue of [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 13(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/13/4), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/d)
+[^c-8b748dadbe5f009c42a63eed692c1d96]: Textual amendment: S. 136 omitted (1.4.2018) by virtue of [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 13(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/13/4), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/d)

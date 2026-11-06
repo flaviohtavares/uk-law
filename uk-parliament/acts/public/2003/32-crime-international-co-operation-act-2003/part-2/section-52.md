@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Jurisdiction for terrorist offences[^key-3c1fc8b4228456eb027c7dca42a96942]
+## 52. Jurisdiction for terrorist offences[^c-3c1fc8b4228456eb027c7dca42a96942]
 
 *Extent: E+W+S+N.I.*
 
@@ -155,4 +155,4 @@ After section 63 of the Terrorism Act 2000 (c. 11) there is inserted—
 
 ## Annotations
 
-[^key-3c1fc8b4228456eb027c7dca42a96942]: Commencement: S. 52 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)
+[^c-3c1fc8b4228456eb027c7dca42a96942]: Commencement: S. 52 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)

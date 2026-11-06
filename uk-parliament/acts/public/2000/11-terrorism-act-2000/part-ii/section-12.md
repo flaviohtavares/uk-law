@@ -25,7 +25,7 @@ summary: ''
 - (a) he invites support for a proscribed organisation, and
 - (b) the support is not, or is not restricted to, the provision of money or other property (within the meaning of section 15).
 
-(1A)[^key-602079289d5d721e06a6ba3e9df0cbf7] A person commits an offence if the person—
+(1A)[^c-602079289d5d721e06a6ba3e9df0cbf7] A person commits an offence if the person—
 
 - (a) expresses an opinion or belief that is supportive of a proscribed organisation, and
 - (b) in doing so is reckless as to whether a person to whom the expression is directed will be encouraged to support a proscribed organisation.
@@ -47,11 +47,11 @@ summary: ''
 
 (6) A person guilty of an offence under this section shall be liable—
 
-- (a) on conviction on indictment, to imprisonment for a term not exceeding 14[^key-0430b8c97472f1c37f7798d5030e9b85] years, to a fine or to both, or
+- (a) on conviction on indictment, to imprisonment for a term not exceeding 14[^c-0430b8c97472f1c37f7798d5030e9b85] years, to a fine or to both, or
 - (b) on summary conviction, to imprisonment for a term not exceeding six months, to a fine not exceeding the statutory maximum or to both.
 
 ## Annotations
 
-[^key-602079289d5d721e06a6ba3e9df0cbf7]: Textual amendment: S. 12(1A) inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 1](https://www.legislation.gov.uk/ukpga/2019/3/section/1), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 25(1)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/1))
+[^c-602079289d5d721e06a6ba3e9df0cbf7]: Textual amendment: S. 12(1A) inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 1](https://www.legislation.gov.uk/ukpga/2019/3/section/1), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 25(1)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/1))
 
-[^key-0430b8c97472f1c37f7798d5030e9b85]: Textual amendment: Word in [s. 12(6)(a)](https://www.legislation.gov.uk/ukpga/2000/11/section/12/6/a) substituted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 26(1)(b)](https://www.legislation.gov.uk/ukpga/2021/11/section/26/1/b), [50(2)(m)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/m) (with [s. 26(3)](https://www.legislation.gov.uk/ukpga/2021/11/section/26/3))
+[^c-0430b8c97472f1c37f7798d5030e9b85]: Textual amendment: Word in [s. 12(6)(a)](https://www.legislation.gov.uk/ukpga/2000/11/section/12/6/a) substituted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 26(1)(b)](https://www.legislation.gov.uk/ukpga/2021/11/section/26/1/b), [50(2)(m)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/m) (with [s. 26(3)](https://www.legislation.gov.uk/ukpga/2021/11/section/26/3))

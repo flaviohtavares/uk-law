@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 58. Provision of approved training courses[^key-3555533ac5a0f60570a0a8523b3745e8]
+## 58. Provision of approved training courses[^c-3555533ac5a0f60570a0a8523b3745e8]
 
 *Extent: E+W+S*
 
@@ -28,7 +28,7 @@ summary: ''
 - (b) by the Secretary of State for Defence, in so far as concerns the instruction of persons in the service of the Crown under his department, and
 - (c) by any chief officer of police, in so far as concerns the instruction of—
   - (i) members of the police force of which he is the chief officer, or
-  - (ii)[^key-cb401c96d077580e5a074491d3f08339][^key-f485bfcb14d2a689326280daa9369ab4] persons employed in the driving of motor vehicles for police purposes by the chief officer or by the police authority or local policing body for the area in respect of which he is the chief officer,
+  - (ii)[^c-cb401c96d077580e5a074491d3f08339][^c-f485bfcb14d2a689326280daa9369ab4] persons employed in the driving of motor vehicles for police purposes by the chief officer or by the police authority or local policing body for the area in respect of which he is the chief officer,
 
   if that person satisfies the conditions mentioned in paragraph (4).
 
@@ -48,8 +48,8 @@ summary: ''
 
 ## Annotations
 
-[^key-3555533ac5a0f60570a0a8523b3745e8]: Modification: [Reg. 58](https://www.legislation.gov.uk/uksi/1999/2864/regulation/58) applied (with modifications) (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 1 para. 43(4)](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/43/4)
+[^c-3555533ac5a0f60570a0a8523b3745e8]: Modification: [Reg. 58](https://www.legislation.gov.uk/uksi/1999/2864/regulation/58) applied (with modifications) (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 1 para. 43(4)](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/43/4)
 
-[^key-cb401c96d077580e5a074491d3f08339]: Modification: [Reg. 58(2)(c)(ii)](https://www.legislation.gov.uk/uksi/1999/2864/regulation/58/2/c/ii) modified (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [33(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/33/2), [Sch. 5 para. 43(4)](https://www.legislation.gov.uk/uksi/2023/1432/schedule/5/paragraph/43/4)
+[^c-cb401c96d077580e5a074491d3f08339]: Modification: [Reg. 58(2)(c)(ii)](https://www.legislation.gov.uk/uksi/1999/2864/regulation/58/2/c/ii) modified (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [33(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/33/2), [Sch. 5 para. 43(4)](https://www.legislation.gov.uk/uksi/2023/1432/schedule/5/paragraph/43/4)
 
-[^key-f485bfcb14d2a689326280daa9369ab4]: Textual amendment: [Reg. 58(2)(c)(ii)](https://www.legislation.gov.uk/uksi/1999/2864/regulation/58/2/c/ii) substituted (16.1.2012) by [The Local Policing Bodies (Consequential Amendments) Regulations 2011 (S.I. 2011/3058)](https://www.legislation.gov.uk/uksi/2011/3058), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/3058/regulation/1/2), [16(4)](https://www.legislation.gov.uk/uksi/2011/3058/regulation/16/4)
+[^c-f485bfcb14d2a689326280daa9369ab4]: Textual amendment: [Reg. 58(2)(c)(ii)](https://www.legislation.gov.uk/uksi/1999/2864/regulation/58/2/c/ii) substituted (16.1.2012) by [The Local Policing Bodies (Consequential Amendments) Regulations 2011 (S.I. 2011/3058)](https://www.legislation.gov.uk/uksi/2011/3058), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/3058/regulation/1/2), [16(4)](https://www.legislation.gov.uk/uksi/2011/3058/regulation/16/4)

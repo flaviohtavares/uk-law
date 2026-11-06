@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 123. Welsh Language Tribunal Rules[^key-7d9f1b824eb77cba5a00cf767f6407e5]
+## 123. Welsh Language Tribunal Rules[^c-7d9f1b824eb77cba5a00cf767f6407e5]
 
 *Extent: E+W*
 
@@ -57,12 +57,12 @@ summary: ''
 (8) Rules allowed by the Welsh Ministers—
 
 - (a) come into force on such day that the Welsh Ministers direct, and
-- (b) are to be contained in a Welsh statutory instrument[^key-85ecc4592c5dd081b71a054b253f59d3].
+- (b) are to be contained in a Welsh statutory instrument[^c-85ecc4592c5dd081b71a054b253f59d3].
 
 (9) A statutory instrument containing rules made by the President is subject to annulment in pursuance of a resolution of the National Assembly for Wales.
 
 ## Annotations
 
-[^key-7d9f1b824eb77cba5a00cf767f6407e5]: Commencement: [S. 123](https://www.legislation.gov.uk/mwa/2011/1/section/123) in force at 7.1.2014 by [S.I. 2013/3140](https://www.legislation.gov.uk/wsi/2013/3140), [art. 2(d)](https://www.legislation.gov.uk/wsi/2013/3140/article/2/d)
+[^c-7d9f1b824eb77cba5a00cf767f6407e5]: Commencement: [S. 123](https://www.legislation.gov.uk/mwa/2011/1/section/123) in force at 7.1.2014 by [S.I. 2013/3140](https://www.legislation.gov.uk/wsi/2013/3140), [art. 2(d)](https://www.legislation.gov.uk/wsi/2013/3140/article/2/d)
 
-[^key-85ecc4592c5dd081b71a054b253f59d3]: Textual amendment: Words in [s. 123(8)](https://www.legislation.gov.uk/mwa/2011/1/section/123/8) substituted (1.1.2026) by [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(4)](https://www.legislation.gov.uk/asc/2025/3/section/9/4), [Sch. 3 para. 8](https://www.legislation.gov.uk/asc/2025/3/schedule/3/paragraph/8); [S.I. 2025/1160](https://www.legislation.gov.uk/wsi/2025/1160), [art. 2(e)](https://www.legislation.gov.uk/wsi/2025/1160/article/2/e)
+[^c-85ecc4592c5dd081b71a054b253f59d3]: Textual amendment: Words in [s. 123(8)](https://www.legislation.gov.uk/mwa/2011/1/section/123/8) substituted (1.1.2026) by [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(4)](https://www.legislation.gov.uk/asc/2025/3/section/9/4), [Sch. 3 para. 8](https://www.legislation.gov.uk/asc/2025/3/schedule/3/paragraph/8); [S.I. 2025/1160](https://www.legislation.gov.uk/wsi/2025/1160), [art. 2(e)](https://www.legislation.gov.uk/wsi/2025/1160/article/2/e)

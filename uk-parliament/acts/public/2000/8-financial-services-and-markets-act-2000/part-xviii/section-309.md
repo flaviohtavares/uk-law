@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 309. Statements by the Treasury.[^key-8902ec2a78b3fea319b7fb83bdf0e3b5]
+## 309. Statements by the Treasury.[^c-8902ec2a78b3fea319b7fb83bdf0e3b5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8902ec2a78b3fea319b7fb83bdf0e3b5]: Textual amendment: Pt. 18 Ch. 2 omitted (1.4.2013) by virtue of [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 34(a)](https://www.legislation.gov.uk/ukpga/2012/21/section/34/a), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-8902ec2a78b3fea319b7fb83bdf0e3b5]: Textual amendment: Pt. 18 Ch. 2 omitted (1.4.2013) by virtue of [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 34(a)](https://www.legislation.gov.uk/ukpga/2012/21/section/34/a), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

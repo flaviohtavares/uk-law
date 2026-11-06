@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 45. Relationship with amounts to be disregarded under Schedule 4[^key-aa55f9f39206e61622f6eae8fc9b6a61]
+## 45. Relationship with amounts to be disregarded under Schedule 4[^c-aa55f9f39206e61622f6eae8fc9b6a61]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ No part of a student’s covenant income or grant income shall be disregarded un
 
 ## Annotations
 
-[^key-aa55f9f39206e61622f6eae8fc9b6a61]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/1992/1814/regulation/45) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
+[^c-aa55f9f39206e61622f6eae8fc9b6a61]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/1992/1814/regulation/45) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)

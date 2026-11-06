@@ -62,7 +62,7 @@ it is a defence for him to prove that he disclosed the matters specified in that
 
 (7A)[^c11204861] The reference to a business in the regulated sector must be construed in accordance with Schedule 3A.
 
-(7B) The reference to a constable includes a reference to a National Crime Agency officer[^key-b98b6a7913dc14ff0eb64e444044e6a6] authorised for the purposes of this section by the Director General of that Agency[^c16825291].
+(7B) The reference to a constable includes a reference to a National Crime Agency officer[^c-b98b6a7913dc14ff0eb64e444044e6a6] authorised for the purposes of this section by the Director General of that Agency[^c16825291].
 
 (8) A person guilty of an offence under this section shall be liable—
 
@@ -83,6 +83,6 @@ it is a defence for him to prove that he disclosed the matters specified in that
 
 [^c11204861]: Textual amendment: S. 19(7A)(7B) inserted (20.12.2001) by [2001 c. 24](https://www.legislation.gov.uk/ukpga/2001/24), [s. 3](https://www.legislation.gov.uk/ukpga/2001/24/section/3), [Sch. 2 Pt. 3 para. 5(4)](https://www.legislation.gov.uk/ukpga/2001/24/schedule/2/part/3/paragraph/5/4); [S.I. 2001/4019](https://www.legislation.gov.uk/uksi/2001/4019), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2001/4019/article/2/1/c)
 
-[^key-b98b6a7913dc14ff0eb64e444044e6a6]: Textual amendment: Words in s. 19(7B) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 68](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/68); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
+[^c-b98b6a7913dc14ff0eb64e444044e6a6]: Textual amendment: Words in s. 19(7B) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 68](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/68); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
 
 [^c16825291]: Textual amendment: Words in s. 19(7B) substituted (1.4.2006 subject to art. 4(2)-(7) of the commencing S.I.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 59](https://www.legislation.gov.uk/ukpga/2005/15/section/59), [Sch. 4 para. 126(b)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/4/paragraph/126/b); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch.](https://www.legislation.gov.uk/uksi/2006/378/schedule)

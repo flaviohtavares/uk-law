@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 53. Entitlement to vote (creditors)[^key-6778dd1198616be20fac798f736a2741]
+## 53. Entitlement to vote (creditors)[^c-6778dd1198616be20fac798f736a2741]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6778dd1198616be20fac798f736a2741]: Commencement: Rule 53 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-6778dd1198616be20fac798f736a2741]: Commencement: Rule 53 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

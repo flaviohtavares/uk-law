@@ -47,7 +47,7 @@ Coming into force
 
 The Welsh Ministers in exercise of the powers conferred by section 42(4) of the Housing and Planning Act 1986[^f00001] on any Minister authorised, under or by virtue of statutory provisions mentioned in section 42(1)[^f00002] of that Act or to which that section is applied[^f00003], to recover costs incurred by the Minister in relation to an inquiry, which powers are now exercisable by them[^f00004]; and conferred upon the National Assembly for Wales as the appropriate authority by section 303A(5) of the Town and Country Planning Act 1990[^f00005] which powers are now exercisable by them[^f00006], make the following Regulations:
 
-## 1. Title, commencement, application and interpretation[^key-b4c2fec37c7d0ebbf32472201afd0225]
+## 1. Title, commencement, application and interpretation[^c-b4c2fec37c7d0ebbf32472201afd0225]
 
 (1) The title of these Regulations is the Local Inquiries and Qualifying Procedures (Standard Daily Amount) (Wales) Regulations 2017 and they come into force on 5 May 2017.
 
@@ -60,10 +60,10 @@ The Welsh Ministers in exercise of the powers conferred by section 42(4) of the 
 
 (4) In these Regulations—
 
-- “local inquiry” (“*ymchwiliad lleol*”) means an inquiry in relation to which the Welsh Ministers are entitled to recover their costs under or by virtue of section 250(4) of the Local Government Act 1972 (general provision as to costs of inquiries)[^f00007] or section 69(5) of the Land Drainage Act 1991 (costs of an inquiry under that Act) or paragraph 3 of Schedule 6 to the Historic Environment (Wales) Act 2023[^key-99ba214a8c7ec1a0f7c68f5273dfd80e]; and
+- “local inquiry” (“*ymchwiliad lleol*”) means an inquiry in relation to which the Welsh Ministers are entitled to recover their costs under or by virtue of section 250(4) of the Local Government Act 1972 (general provision as to costs of inquiries)[^f00007] or section 69(5) of the Land Drainage Act 1991 (costs of an inquiry under that Act) or paragraph 3 of Schedule 6 to the Historic Environment (Wales) Act 2023[^c-99ba214a8c7ec1a0f7c68f5273dfd80e]; and
 - “qualifying procedure” (“*gweithdrefn gymwys*”) means a qualifying procedure within the meaning of that term in section 303A(1A) of the Town and Country Planning Act 1990[^f00008].
 
-## 2. Standard daily amount for local inquiries and qualifying procedures[^key-42b46fcd42ed1ca3dd42a767be14883e]
+## 2. Standard daily amount for local inquiries and qualifying procedures[^c-42b46fcd42ed1ca3dd42a767be14883e]
 
 The standard daily amount prescribed pursuant to section 42(4) of the Housing and Planning Act 1986 for a local inquiry and section 303A(5) of the Town and Country Planning Act 1990 for a qualifying procedure—
 
@@ -71,7 +71,7 @@ The standard daily amount prescribed pursuant to section 42(4) of the Housing an
 - (b) opening on or after 1 April 2018 and before 1 April 2019 is £513; and
 - (c) opening on or after 1 April 2019 is £518.
 
-## 3. Revocation and saving provisions[^key-60b68886f0dd6a04d14cfe70b41275a9]
+## 3. Revocation and saving provisions[^c-60b68886f0dd6a04d14cfe70b41275a9]
 
 (1) Subject to paragraph (2), the Regulations specified in the table in the Schedule are revoked in so far as they apply in relation to Wales.
 
@@ -83,7 +83,7 @@ Cabinet Secretary for Environment and Rural Affairs, one of the Welsh Ministers
 
 24 March 2017
 
-## SCHEDULE — Statutory Instruments revoked so far as they apply in relation to Wales[^key-05198563d99c5023aaebbdbfc72095f2]
+## SCHEDULE — Statutory Instruments revoked so far as they apply in relation to Wales[^c-05198563d99c5023aaebbdbfc72095f2]
 
 Regulation 3
 
@@ -131,18 +131,18 @@ The Explanatory Memorandum and Regulatory Impact Assessment applicable to these 
 
 [^f00006]: Footnote: The functions under section 303A(5) of the 1990 Act were transferred to the Welsh Ministers by section 162 of, and paragraph 30 of Schedule 11 to, GOWA.
 
-[^key-b4c2fec37c7d0ebbf32472201afd0225]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2017/476/regulation/1) in force at 5.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/476/regulation/1/1)
+[^c-b4c2fec37c7d0ebbf32472201afd0225]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2017/476/regulation/1) in force at 5.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/476/regulation/1/1)
 
 [^f00007]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70). The functions under section 250(4) of the Local Government Act 1972 were transferred to the National Assembly for Wales by article 2 of, and Schedule 1 to, the 1999 TFO. The functions of the National Assembly for Wales were transferred to the Welsh Ministers by section 162 of, and paragraph 30 of Schedule 11 to, GOWA.
 
-[^key-99ba214a8c7ec1a0f7c68f5273dfd80e]: Textual amendment: Words in [reg. 1(4)](https://www.legislation.gov.uk/wsi/2017/476/regulation/1/4) inserted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [85](https://www.legislation.gov.uk/wsi/2024/924/regulation/85)
+[^c-99ba214a8c7ec1a0f7c68f5273dfd80e]: Textual amendment: Words in [reg. 1(4)](https://www.legislation.gov.uk/wsi/2017/476/regulation/1/4) inserted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [85](https://www.legislation.gov.uk/wsi/2024/924/regulation/85)
 
 [^f00008]: Footnote: Section 303(1A) was inserted into the 1990 Act by section 118 of, and paragraph 11 of Schedule 6 to, the 2004 Act.
 
-[^key-42b46fcd42ed1ca3dd42a767be14883e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2017/476/regulation/2) in force at 5.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/476/regulation/1/1)
+[^c-42b46fcd42ed1ca3dd42a767be14883e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2017/476/regulation/2) in force at 5.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/476/regulation/1/1)
 
-[^key-60b68886f0dd6a04d14cfe70b41275a9]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2017/476/regulation/3) in force at 5.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/476/regulation/1/1)
+[^c-60b68886f0dd6a04d14cfe70b41275a9]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2017/476/regulation/3) in force at 5.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/476/regulation/1/1)
 
 [^f00009]: Footnote: [S.I. 2011/2415 (W. 261)](https://www.legislation.gov.uk/wsi/2011/2415).
 
-[^key-05198563d99c5023aaebbdbfc72095f2]: Commencement: [Sch.](https://www.legislation.gov.uk/wsi/2017/476/schedule) in force at 5.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/476/regulation/1/1)
+[^c-05198563d99c5023aaebbdbfc72095f2]: Commencement: [Sch.](https://www.legislation.gov.uk/wsi/2017/476/schedule) in force at 5.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/476/regulation/1/1)

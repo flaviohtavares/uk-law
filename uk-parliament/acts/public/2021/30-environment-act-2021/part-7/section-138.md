@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 138. Index of defined terms in Part 7[^key-82ef14292691e6c6cce4513f12144c44][^key-f5c2a920539eb6c90292c16a9ce490ca]
+## 138. Index of defined terms in Part 7[^c-82ef14292691e6c6cce4513f12144c44][^c-f5c2a920539eb6c90292c16a9ce490ca]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ The following Table sets out expressions defined or explained in this Part for g
 
 ## Annotations
 
-[^key-82ef14292691e6c6cce4513f12144c44]: Commencement: S. 138 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-82ef14292691e6c6cce4513f12144c44]: Commencement: S. 138 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-f5c2a920539eb6c90292c16a9ce490ca]: Commencement: [S. 138](https://www.legislation.gov.uk/ukpga/2021/30/section/138) in force at 30.9.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 5(a)](https://www.legislation.gov.uk/uksi/2022/48/regulation/5/a)
+[^c-f5c2a920539eb6c90292c16a9ce490ca]: Commencement: [S. 138](https://www.legislation.gov.uk/ukpga/2021/30/section/138) in force at 30.9.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 5(a)](https://www.legislation.gov.uk/uksi/2022/48/regulation/5/a)

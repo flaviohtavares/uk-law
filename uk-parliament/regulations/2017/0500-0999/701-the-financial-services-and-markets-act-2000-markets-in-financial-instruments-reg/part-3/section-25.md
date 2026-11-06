@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Procedure in exceptional cases[^key-9a27ce0a30819069ffed879c5d52cd9e]
+## 25. Procedure in exceptional cases[^c-9a27ce0a30819069ffed879c5d52cd9e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9a27ce0a30819069ffed879c5d52cd9e]: Textual amendment: [Reg. 25](https://www.legislation.gov.uk/uksi/2017/701/regulation/25) revoked (6.7.2026) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 2 para. 50(b)(iv)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/50/b/iv) (with [s. 2(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/2/3)); [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 9(b)(v)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/9/b/v)
+[^c-9a27ce0a30819069ffed879c5d52cd9e]: Textual amendment: [Reg. 25](https://www.legislation.gov.uk/uksi/2017/701/regulation/25) revoked (6.7.2026) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 2 para. 50(b)(iv)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/50/b/iv) (with [s. 2(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/2/3)); [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 9(b)(v)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/9/b/v)

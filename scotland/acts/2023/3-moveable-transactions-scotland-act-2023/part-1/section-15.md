@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 15. Right to withhold performance until information as to assignation is provided[^key-ee7bd2b2f42af99f0d6a7d41c782db45][^key-d4af9b9813555cf965fe07b23b99ba22][^key-d70f3958abcd6e5960edc40090b4f363]
+## 15. Right to withhold performance until information as to assignation is provided[^c-ee7bd2b2f42af99f0d6a7d41c782db45][^c-d4af9b9813555cf965fe07b23b99ba22][^c-d70f3958abcd6e5960edc40090b4f363]
 
 *Extent: S*
 
-[^key-d70f3958abcd6e5960edc40090b4f363]
+[^c-d70f3958abcd6e5960edc40090b4f363]
 
 (1) A debtor on whom a notice of assignation of a claim is served under section 8(1)(a) by an assignee may request from the assignee reasonable evidence of the granting of an assignation document in respect of the claim.
 
@@ -50,8 +50,8 @@ summary: ''
 
 ## Annotations
 
-[^key-ee7bd2b2f42af99f0d6a7d41c782db45]: Commencement: S. 15 not in force at Royal Assent, see [s. 121(2)](https://www.legislation.gov.uk/asp/2023/3/section/121/2)
+[^c-ee7bd2b2f42af99f0d6a7d41c782db45]: Commencement: S. 15 not in force at Royal Assent, see [s. 121(2)](https://www.legislation.gov.uk/asp/2023/3/section/121/2)
 
-[^key-d4af9b9813555cf965fe07b23b99ba22]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2023/3/section/15) in force at 1.4.2025 by [S.S.I. 2024/378](https://www.legislation.gov.uk/ssi/2024/378), [reg. 2](https://www.legislation.gov.uk/ssi/2024/378/regulation/2)
+[^c-d4af9b9813555cf965fe07b23b99ba22]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2023/3/section/15) in force at 1.4.2025 by [S.S.I. 2024/378](https://www.legislation.gov.uk/ssi/2024/378), [reg. 2](https://www.legislation.gov.uk/ssi/2024/378/regulation/2)
 
-[^key-d70f3958abcd6e5960edc40090b4f363]: Modification: Pt. 1 extended (with modifications) (1.4.2025) by [The Moveable Transactions (Scotland) Act 2023 (Financial Collateral Arrangements and Financial Instruments) (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/275)](https://www.legislation.gov.uk/uksi/2025/275), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/275/article/1/2), [3](https://www.legislation.gov.uk/uksi/2025/275/article/3) (with [arts. 4](https://www.legislation.gov.uk/uksi/2025/275/article/4), [20](https://www.legislation.gov.uk/uksi/2025/275/article/20))
+[^c-d70f3958abcd6e5960edc40090b4f363]: Modification: Pt. 1 extended (with modifications) (1.4.2025) by [The Moveable Transactions (Scotland) Act 2023 (Financial Collateral Arrangements and Financial Instruments) (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/275)](https://www.legislation.gov.uk/uksi/2025/275), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/275/article/1/2), [3](https://www.legislation.gov.uk/uksi/2025/275/article/3) (with [arts. 4](https://www.legislation.gov.uk/uksi/2025/275/article/4), [20](https://www.legislation.gov.uk/uksi/2025/275/article/20))

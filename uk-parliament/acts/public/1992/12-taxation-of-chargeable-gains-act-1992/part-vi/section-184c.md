@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 184C. Sections 184A and 184B: meaning of “qualifying change of ownership”[^key-d6da08db6aa32de3a19f685f51352c38]
+## 184C. Sections 184A and 184B: meaning of “qualifying change of ownership”[^c-d6da08db6aa32de3a19f685f51352c38]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d6da08db6aa32de3a19f685f51352c38]: Textual amendment: Ss. 184A-184F and cross-heading inserted (with effect in accordance with s. 70(6)-(8) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2006/25/section/70/2) (with [s. 70(10)-(11)](https://www.legislation.gov.uk/ukpga/2006/25/section/70/10))
+[^c-d6da08db6aa32de3a19f685f51352c38]: Textual amendment: Ss. 184A-184F and cross-heading inserted (with effect in accordance with s. 70(6)-(8) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2006/25/section/70/2) (with [s. 70(10)-(11)](https://www.legislation.gov.uk/ukpga/2006/25/section/70/10))

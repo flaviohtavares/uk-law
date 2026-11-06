@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 179B. Roll-over of degrouping charge on business assets[^key-a2a91341f45faf3c50ebf8fb752a880a]
+## 179B. Roll-over of degrouping charge on business assets[^c-a2a91341f45faf3c50ebf8fb752a880a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a2a91341f45faf3c50ebf8fb752a880a]: Textual amendment: S. 179B repealed (with effect in accordance with Sch. 10 para. 9 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 10 para. 5(b)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/10/paragraph/5/b)
+[^c-a2a91341f45faf3c50ebf8fb752a880a]: Textual amendment: S. 179B repealed (with effect in accordance with Sch. 10 para. 9 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 10 para. 5(b)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/10/paragraph/5/b)

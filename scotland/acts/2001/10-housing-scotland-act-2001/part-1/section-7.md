@@ -30,7 +30,7 @@ summary: ''
   - (ii) a short Scottish secure tenancy,
   - (iii) an assured tenancy or what would be an assured tenancy but for paragraph 8 of Schedule 4 to the 1988 Act,
   - (iv) a short assured tenancy.
-  - (v)[^key-09f28c3905f425e69b46fedf0e285e65] a private residential tenancy or what would be a private residential tenancy but for paragraph 6 of schedule 1 of the 2016 Act.
+  - (v)[^c-09f28c3905f425e69b46fedf0e285e65] a private residential tenancy or what would be a private residential tenancy but for paragraph 6 of schedule 1 of the 2016 Act.
 
 (3) The Scottish Ministers may specify by regulations terms which are to have effect as terms of an occupancy to which this section applies as between the occupier and the person providing the accommodation; and any agreement between those persons has no effect so far as it is inconsistent with any such term.
 
@@ -54,4 +54,4 @@ as they think fit on the proposed regulations.
 
 [^c481467]: Commencement: Ss. 5-7 wholly in force at 30.9.2002, see s. 113(1)(2) and [S.S.I. 2002/321](https://www.legislation.gov.uk/ssi/2002/321), [art. 2](https://www.legislation.gov.uk/ssi/2002/321/article/2) (subject to transitional provisions and savings in [arts. 3-5](https://www.legislation.gov.uk/ssi/2002/321/article/3))
 
-[^key-09f28c3905f425e69b46fedf0e285e65]: Textual amendment: [S. 7(2)(b)(v)](https://www.legislation.gov.uk/asp/2001/10/section/7/2/b/v) inserted (1.12.2017) by [Private Housing (Tenancies) (Scotland) Act 2016 (asp 19)](https://www.legislation.gov.uk/asp/2016/19), [s. 79(2)](https://www.legislation.gov.uk/asp/2016/19/section/79/2), [sch. 4 para. 7(2)](https://www.legislation.gov.uk/asp/2016/19/schedule/4/paragraph/7/2); [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
+[^c-09f28c3905f425e69b46fedf0e285e65]: Textual amendment: [S. 7(2)(b)(v)](https://www.legislation.gov.uk/asp/2001/10/section/7/2/b/v) inserted (1.12.2017) by [Private Housing (Tenancies) (Scotland) Act 2016 (asp 19)](https://www.legislation.gov.uk/asp/2016/19), [s. 79(2)](https://www.legislation.gov.uk/asp/2016/19/section/79/2), [sch. 4 para. 7(2)](https://www.legislation.gov.uk/asp/2016/19/schedule/4/paragraph/7/2); [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)

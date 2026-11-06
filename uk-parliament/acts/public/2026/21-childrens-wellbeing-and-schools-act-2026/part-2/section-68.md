@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Process for considering, approving and implementing proposals for the establishment of new schools[^key-073882cc7c4e17aa533d90bab55b100c][^key-5f46f8f1419c716c6bd2c5dd489a8ccc]
+## 68. Process for considering, approving and implementing proposals for the establishment of new schools[^c-073882cc7c4e17aa533d90bab55b100c][^c-5f46f8f1419c716c6bd2c5dd489a8ccc]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Schedule 4 amends [Schedule 2](https://www.legislation.gov.uk/ukpga/2006/40/sche
 
 ## Annotations
 
-[^key-073882cc7c4e17aa533d90bab55b100c]: Commencement: S. 68 not in force at Royal Assent, see [s. 78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
+[^c-073882cc7c4e17aa533d90bab55b100c]: Commencement: S. 68 not in force at Royal Assent, see [s. 78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
 
-[^key-5f46f8f1419c716c6bd2c5dd489a8ccc]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2026/21/section/68) in force at 1.9.2026 by [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 5(f)](https://www.legislation.gov.uk/uksi/2026/803/regulation/5/f)
+[^c-5f46f8f1419c716c6bd2c5dd489a8ccc]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2026/21/section/68) in force at 1.9.2026 by [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 5(f)](https://www.legislation.gov.uk/uksi/2026/803/regulation/5/f)

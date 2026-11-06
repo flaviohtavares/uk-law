@@ -64,7 +64,7 @@ Section 138
 
 ### Ability to create floating charges
 
-**4.**[^key-2941da5c6d1cfa80b14f3cf953a5dcf6] (1) Omit section 9B (restriction on creation of floating charges).
+**4.**[^c-2941da5c6d1cfa80b14f3cf953a5dcf6] (1) Omit section 9B (restriction on creation of floating charges).
 
 (2) In Schedule 15A (application of other companies insolvency legislation to building societies), omit the following paragraphs—
 
@@ -294,4 +294,4 @@ Section 138
 
 ## Annotations
 
-[^key-2941da5c6d1cfa80b14f3cf953a5dcf6]: Commencement: [Sch. 9 para. 4](https://www.legislation.gov.uk/ukpga/2013/33/schedule/9/paragraph/4) in force at 26.3.2015 by [S.I. 2015/428](https://www.legislation.gov.uk/uksi/2015/428), [art. 2](https://www.legislation.gov.uk/uksi/2015/428/article/2)
+[^c-2941da5c6d1cfa80b14f3cf953a5dcf6]: Commencement: [Sch. 9 para. 4](https://www.legislation.gov.uk/ukpga/2013/33/schedule/9/paragraph/4) in force at 26.3.2015 by [S.I. 2015/428](https://www.legislation.gov.uk/uksi/2015/428), [art. 2](https://www.legislation.gov.uk/uksi/2015/428/article/2)

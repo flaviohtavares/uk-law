@@ -39,13 +39,13 @@ An Act to confer licensing and other powers on the Secretary of State to secure 
 
 ### 1. Activities to which this Act applies.
 
-(1)[^key-aeceaeb58b1f49b6e0ace33909db0cfa] This Act applies to the following activities whether carried on in the United Kingdom or elsewhere *(affected by repeal, see note)*[^key-b6c441d65b37351d898dc0434644475a]—
+(1)[^c-aeceaeb58b1f49b6e0ace33909db0cfa] This Act applies to the following activities whether carried on in the United Kingdom or elsewhere *(affected by repeal, see note)*[^c-b6c441d65b37351d898dc0434644475a]—
 
 - (a) launching or procuring the launch of a space object;
 - (b) operating a space object;
 - (c) any activity in outer space.
 
-(2)[^key-dd0d9661babe06c71fc5af0d395ab43a] This Act does not apply to activities carried on in the United Kingdom (and accordingly does not apply to activities requiring authorisation under section 3(1) of the Space Industry Act 2018).
+(2)[^c-dd0d9661babe06c71fc5af0d395ab43a] This Act does not apply to activities carried on in the United Kingdom (and accordingly does not apply to activities requiring authorisation under section 3(1) of the Space Industry Act 2018).
 
 ### 2. Persons to whom this Act applies.
 
@@ -70,20 +70,20 @@ An Act to confer licensing and other powers on the Secretary of State to secure 
 - (a) by a person acting as employee or agent of another; or
 - (b) for activities in respect of which it is certified by Order in Council that arrangements have been made between the United Kingdom and another country to secure compliance with the international obligations of the United Kingdom.
 
-(3) The Secretary of State may by order make provision for other activities or persons to be exempted from the requirement of a licence, either by the order itself or by the Secretary of State,[^key-e610251e73b283a12a4bad03f04ea39d] if he is satisfied that the requirement is not necessary to secure compliance with the international obligations of the United Kingdom.
+(3) The Secretary of State may by order make provision for other activities or persons to be exempted from the requirement of a licence, either by the order itself or by the Secretary of State,[^c-e610251e73b283a12a4bad03f04ea39d] if he is satisfied that the requirement is not necessary to secure compliance with the international obligations of the United Kingdom.
 
-(3ZA)[^key-3a31887a9f398fd7f8d2df1d77f4b417] An exemption granted by virtue of subsection (3) may be granted for a limited period.
+(3ZA)[^c-3a31887a9f398fd7f8d2df1d77f4b417] An exemption granted by virtue of subsection (3) may be granted for a limited period.
 
-(3A)[^key-115808bc501e57627a4fab7c9997c4c6] An order under subsection (3) may—
+(3A)[^c-115808bc501e57627a4fab7c9997c4c6] An order under subsection (3) may—
 
-- (za)[^key-85cbd3dcca9c15d7aa4c97035381b106] make provision about the procedure for granting an exemption (including provision for applications);
+- (za)[^c-85cbd3dcca9c15d7aa4c97035381b106] make provision about the procedure for granting an exemption (including provision for applications);
 - (zb) make provision about the terms of an exemption or the conditions to which an exemption is subject;
 - (zc) make provision about the revocation or renewal of an exemption;
 - (zd) make provision for the enforcement of terms or conditions;
 - (a) provide that section 10(1) does not apply to a person to the extent that the person is carrying on activities that do not require a licence by virtue of the order;
 - (b) specify the maximum amount of a person's liability under section 10(1) so far as the liability relates to the carrying on of activities that do not require a licence by virtue of the order.
 
-(4) An order shall be made by statutory instrument which shall not be made unless a draft of the instrument has been laid before each House of Parliament and approved by a resolution of each House[^key-46ee937167128e0f962b2e1ab9d8aeea].
+(4) An order shall be made by statutory instrument which shall not be made unless a draft of the instrument has been laid before each House of Parliament and approved by a resolution of each House[^c-46ee937167128e0f962b2e1ab9d8aeea].
 
 ### 4. Grant of licence.
 
@@ -102,7 +102,7 @@ An Act to confer licensing and other powers on the Secretary of State to secure 
 - (c) prescribing time limits for doing anything required to be done in connection with an application and providing for the extension of any period so prescribed;
 - (d) requiring the payment to the Secretary of State of such fees as may be prescribed.
 
-### 4A. Charges[^key-f1d911714320bf6f2546b1e539329a6f]
+### 4A. Charges[^c-f1d911714320bf6f2546b1e539329a6f]
 
 (1) The Secretary of State may by regulations make a scheme for determining the charges that are payable to the Secretary of State in respect of the performance of such of his functions under this Act as are specified in the scheme.
 
@@ -138,25 +138,25 @@ But the Secretary of State may waive the whole or part of the charge if the Secr
 
   and with such other information as the Secretary of State thinks fit concerning the nature, conduct, location and results of the licensee’s activities;
 - (c) permitting the Secretary of State to inspect and take copies of documents relating to the information required to be given to him;
-- (ca)[^key-67e10aaab128e63504407b3315bdde3e] requiring the licensee to pay to the Secretary of State (whether on the grant of a licence, subsequently or both) any charges determined under a scheme under section 4A;
+- (ca)[^c-67e10aaab128e63504407b3315bdde3e] requiring the licensee to pay to the Secretary of State (whether on the grant of a licence, subsequently or both) any charges determined under a scheme under section 4A;
 - (d) requiring the licensee to obtain advance approval from the Secretary of State for any intended deviation from the orbital parameters, and to inform the Secretary of State immediately of any unintended deviation;
-- (da)[^key-5a6e45852c6c45f8e9ba0cbc6f41f060] designed to secure compliance with—
+- (da)[^c-5a6e45852c6c45f8e9ba0cbc6f41f060] designed to secure compliance with—
   - (i) obligations of the United Kingdom under agreements entered into with other countries, and
   - (ii) any other international obligations of the United Kingdom;
 - (e) requiring the licensee to conduct his operations in such a way as to—
   - (i) prevent the contamination of outer space or adverse changes in the environment of the earth,
-  - (ii) avoid interference with the activities of others in the peaceful exploration and use of outer space, and[^key-d429ed5cc49de3ca77ec8a06bff64704]
-  - (iii)[^key-c81ca24f943a1d01fd8810aa674a363b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii) avoid interference with the activities of others in the peaceful exploration and use of outer space, and[^c-d429ed5cc49de3ca77ec8a06bff64704]
+  - (iii)[^c-c81ca24f943a1d01fd8810aa674a363b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (iv) preserve the national security of the United Kingdom;
 - (f) requiring the licensee to insure himself against liability incurred in respect of damage or loss suffered by third parties, in the United Kingdom or elsewhere, as a result of the activities authorised by the licence;
 - (g) governing the disposal of the payload in outer space on the termination of operations under the licence and requiring the licensee to notify the Secretary of State as soon as practicable of its final disposal; and
 - (h) providing for the termination of the licence on a specified event.
 
-(3)[^key-510aec668f92e68f5b78a44255b0caa6] A licence must specify the maximum amount of the licensee's liability to indemnify Her Majesty's government in the United Kingdom under section 10 in respect of activities authorised by the licence.
+(3)[^c-510aec668f92e68f5b78a44255b0caa6] A licence must specify the maximum amount of the licensee's liability to indemnify Her Majesty's government in the United Kingdom under section 10 in respect of activities authorised by the licence.
 
 ### 6. Transfer, variation, suspension or termination of licence.
 
-(1) A licence may be transferred with the written consent of the Secretary of State [^key-dee6452ad733147b12a349963afc1027]....
+(1) A licence may be transferred with the written consent of the Secretary of State [^c-dee6452ad733147b12a349963afc1027]....
 
 (2) The Secretary of State may revoke, vary or suspend a licence with the consent of the licensee or where it appears to him—
 
@@ -165,7 +165,7 @@ But the Secretary of State may waive the whole or part of the charge if the Secr
 
 (3) The suspension, revocation or expiry of a licence does not affect the obligations of the licensee under the conditions of the licence.
 
-### 6A. Appeals[^key-bad22746dc3e87f6ad5244415c546bef]
+### 6A. Appeals[^c-bad22746dc3e87f6ad5244415c546bef]
 
 Schedule 10 to the Space Industry Act 2018 makes provision for appeals against decisions of the Secretary of State under this Act.
 
@@ -175,9 +175,9 @@ Schedule 10 to the Space Industry Act 2018 makes provision for appeals against d
 
 (1) The Secretary of State shall maintain a register of space objects.
 
-(2) There shall be entered in the register such particulars of such space objects (whether launched in the United Kingdom or elsewhere)[^key-7f4d5886be76747664178573568b29a8] as the Secretary of State considers appropriate to comply with the international obligations of the United Kingdom.
+(2) There shall be entered in the register such particulars of such space objects (whether launched in the United Kingdom or elsewhere)[^c-7f4d5886be76747664178573568b29a8] as the Secretary of State considers appropriate to comply with the international obligations of the United Kingdom.
 
-(3)[^key-a292b0d788e8fc918af578d32f32edca] The Secretary of State shall ensure that the public can view the information in the register free of charge.
+(3)[^c-a292b0d788e8fc918af578d32f32edca] The Secretary of State shall ensure that the public can view the information in the register free of charge.
 
 ### 8. Power to give directions.
 
@@ -215,7 +215,7 @@ he may issue a warrant authorising a named person acting on behalf of the Secret
 
 (1) A person to whom this Act applies shall indemnify Her Majesty’s government in the United Kingdom against any claims brought against the government in respect of damage or loss arising out of activities carried on by him to which this Act applies.
 
-(1A)[^key-04e065c57bce2d5725e45763962691a7] Subsection (1) is subject to—
+(1A)[^c-04e065c57bce2d5725e45763962691a7] Subsection (1) is subject to—
 
 - (a) any limit on the amount of a person's liability that is specified in a licence, and
 - (b) any order made under section 3(3).
@@ -303,7 +303,7 @@ The following Table shows provisions defining or otherwise explaining expression
 
 (5) This Act extends to England and Wales, Scotland and Northern Ireland.
 
-(6)[^key-016f6701d156856074acd13b0c78eb91] Her Majesty may by Order in Council direct that this Act shall apply, subject to such exceptions and modifications as may be specified in the Order, to the Channel Islands, the Isle of Man or any dependent territory.
+(6)[^c-016f6701d156856074acd13b0c78eb91] Her Majesty may by Order in Council direct that this Act shall apply, subject to such exceptions and modifications as may be specified in the Order, to the Channel Islands, the Isle of Man or any dependent territory.
 
 ## Annotations
 
@@ -317,50 +317,50 @@ The following Table shows provisions defining or otherwise explaining expression
 
 [^c22546171]: Modification: Act extended (with modifications) (Bermuda) (14.12.2006) by [The Outer Space Act 1986 (Bermuda) Order 2006 (S.I. 2006/2959)](https://www.legislation.gov.uk/uksi/2006/2959), [art. 3](https://www.legislation.gov.uk/uksi/2006/2959/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2006/2959/schedule)
 
-[^key-aeceaeb58b1f49b6e0ace33909db0cfa]: Textual amendment: S. 1 renumbered as s. 1(1) (29.7.2021 for specified purposes) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [ss. 1(3)(b)](https://www.legislation.gov.uk/ukpga/2018/5/section/1/3/b), [70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3)) (as amended by [S.I. 2021/874](https://www.legislation.gov.uk/uksi/2021/874), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/874/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2021/874/regulation/2/2))
+[^c-aeceaeb58b1f49b6e0ace33909db0cfa]: Textual amendment: S. 1 renumbered as s. 1(1) (29.7.2021 for specified purposes) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [ss. 1(3)(b)](https://www.legislation.gov.uk/ukpga/2018/5/section/1/3/b), [70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3)) (as amended by [S.I. 2021/874](https://www.legislation.gov.uk/uksi/2021/874), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/874/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2021/874/regulation/2/2))
 
-[^key-b6c441d65b37351d898dc0434644475a]: Textual amendment: Words in s. 1 omitted (29.7.2021 for specified purposes) by virtue of [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [ss. 1(3)(a)](https://www.legislation.gov.uk/ukpga/2018/5/section/1/3/a), [70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3)) (as amended by [S.I. 2021/874](https://www.legislation.gov.uk/uksi/2021/874), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/874/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2021/874/regulation/2/2))
+[^c-b6c441d65b37351d898dc0434644475a]: Textual amendment: Words in s. 1 omitted (29.7.2021 for specified purposes) by virtue of [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [ss. 1(3)(a)](https://www.legislation.gov.uk/ukpga/2018/5/section/1/3/a), [70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3)) (as amended by [S.I. 2021/874](https://www.legislation.gov.uk/uksi/2021/874), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/874/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2021/874/regulation/2/2))
 
-[^key-dd0d9661babe06c71fc5af0d395ab43a]: Textual amendment: S. 1(2) inserted (29.7.2021 for specified purposes) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [ss. 1(3)(b)](https://www.legislation.gov.uk/ukpga/2018/5/section/1/3/b), [70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1) ; [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3)) (as amended by [S.I. 2021/874](https://www.legislation.gov.uk/uksi/2021/874), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/874/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2021/874/regulation/2/2))
+[^c-dd0d9661babe06c71fc5af0d395ab43a]: Textual amendment: S. 1(2) inserted (29.7.2021 for specified purposes) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [ss. 1(3)(b)](https://www.legislation.gov.uk/ukpga/2018/5/section/1/3/b), [70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1) ; [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3)) (as amended by [S.I. 2021/874](https://www.legislation.gov.uk/uksi/2021/874), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/874/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2021/874/regulation/2/2))
 
 [^c7883081]: Marginal citation: [1981 c. 61](https://www.legislation.gov.uk/ukpga/1981/61).
 
-[^key-e610251e73b283a12a4bad03f04ea39d]: Textual amendment: Words in s. 3(3) substituted (26.11.2018) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 12 para. 8(2)](https://www.legislation.gov.uk/ukpga/2018/5/schedule/12/paragraph/8/2); [S.I. 2018/1224](https://www.legislation.gov.uk/uksi/2018/1224), [reg. 2(ggg)(i)](https://www.legislation.gov.uk/uksi/2018/1224/regulation/2/ggg/i)
+[^c-e610251e73b283a12a4bad03f04ea39d]: Textual amendment: Words in s. 3(3) substituted (26.11.2018) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 12 para. 8(2)](https://www.legislation.gov.uk/ukpga/2018/5/schedule/12/paragraph/8/2); [S.I. 2018/1224](https://www.legislation.gov.uk/uksi/2018/1224), [reg. 2(ggg)(i)](https://www.legislation.gov.uk/uksi/2018/1224/regulation/2/ggg/i)
 
-[^key-3a31887a9f398fd7f8d2df1d77f4b417]: Textual amendment: S. 3(3ZA) inserted (26.11.2018) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 12 para. 8(3)](https://www.legislation.gov.uk/ukpga/2018/5/schedule/12/paragraph/8/3); [S.I. 2018/1224](https://www.legislation.gov.uk/uksi/2018/1224), [reg. 2(ggg)(i)](https://www.legislation.gov.uk/uksi/2018/1224/regulation/2/ggg/i)
+[^c-3a31887a9f398fd7f8d2df1d77f4b417]: Textual amendment: S. 3(3ZA) inserted (26.11.2018) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 12 para. 8(3)](https://www.legislation.gov.uk/ukpga/2018/5/schedule/12/paragraph/8/3); [S.I. 2018/1224](https://www.legislation.gov.uk/uksi/2018/1224), [reg. 2(ggg)(i)](https://www.legislation.gov.uk/uksi/2018/1224/regulation/2/ggg/i)
 
-[^key-115808bc501e57627a4fab7c9997c4c6]: Textual amendment: S. 3(3A) inserted (1.10.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 12(2)](https://www.legislation.gov.uk/ukpga/2015/20/section/12/2), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(f)](https://www.legislation.gov.uk/uksi/2015/994/article/11/f)
+[^c-115808bc501e57627a4fab7c9997c4c6]: Textual amendment: S. 3(3A) inserted (1.10.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 12(2)](https://www.legislation.gov.uk/ukpga/2015/20/section/12/2), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(f)](https://www.legislation.gov.uk/uksi/2015/994/article/11/f)
 
-[^key-85cbd3dcca9c15d7aa4c97035381b106]: Textual amendment: S. 3(3A)(za)-(zd) inserted (26.11.2018) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 12 para. 8(4)](https://www.legislation.gov.uk/ukpga/2018/5/schedule/12/paragraph/8/4); [S.I. 2018/1224](https://www.legislation.gov.uk/uksi/2018/1224), [reg. 2(ggg)(i)](https://www.legislation.gov.uk/uksi/2018/1224/regulation/2/ggg/i)
+[^c-85cbd3dcca9c15d7aa4c97035381b106]: Textual amendment: S. 3(3A)(za)-(zd) inserted (26.11.2018) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 12 para. 8(4)](https://www.legislation.gov.uk/ukpga/2018/5/schedule/12/paragraph/8/4); [S.I. 2018/1224](https://www.legislation.gov.uk/uksi/2018/1224), [reg. 2(ggg)(i)](https://www.legislation.gov.uk/uksi/2018/1224/regulation/2/ggg/i)
 
-[^key-46ee937167128e0f962b2e1ab9d8aeea]: Textual amendment: Words in s. 3(4) substituted (26.11.2018) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 12 para. 8(5)](https://www.legislation.gov.uk/ukpga/2018/5/schedule/12/paragraph/8/5); [S.I. 2018/1224](https://www.legislation.gov.uk/uksi/2018/1224), [reg. 2(ggg)(i)](https://www.legislation.gov.uk/uksi/2018/1224/regulation/2/ggg/i)
+[^c-46ee937167128e0f962b2e1ab9d8aeea]: Textual amendment: Words in s. 3(4) substituted (26.11.2018) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 12 para. 8(5)](https://www.legislation.gov.uk/ukpga/2018/5/schedule/12/paragraph/8/5); [S.I. 2018/1224](https://www.legislation.gov.uk/uksi/2018/1224), [reg. 2(ggg)(i)](https://www.legislation.gov.uk/uksi/2018/1224/regulation/2/ggg/i)
 
-[^key-f1d911714320bf6f2546b1e539329a6f]: Textual amendment: S. 4A inserted (26.11.2018) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 12 para. 10](https://www.legislation.gov.uk/ukpga/2018/5/schedule/12/paragraph/10); [S.I. 2018/1224](https://www.legislation.gov.uk/uksi/2018/1224), [reg. 2(ggg)(ii)](https://www.legislation.gov.uk/uksi/2018/1224/regulation/2/ggg/ii)
+[^c-f1d911714320bf6f2546b1e539329a6f]: Textual amendment: S. 4A inserted (26.11.2018) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 12 para. 10](https://www.legislation.gov.uk/ukpga/2018/5/schedule/12/paragraph/10); [S.I. 2018/1224](https://www.legislation.gov.uk/uksi/2018/1224), [reg. 2(ggg)(ii)](https://www.legislation.gov.uk/uksi/2018/1224/regulation/2/ggg/ii)
 
-[^key-67e10aaab128e63504407b3315bdde3e]: Textual amendment: [S. 5(2)(ca)](https://www.legislation.gov.uk/ukpga/1986/38/section/5/2/ca) inserted (29.7.2021) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 12 para. 11(2)](https://www.legislation.gov.uk/ukpga/2018/5/schedule/12/paragraph/11/2); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 117](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/117) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-67e10aaab128e63504407b3315bdde3e]: Textual amendment: [S. 5(2)(ca)](https://www.legislation.gov.uk/ukpga/1986/38/section/5/2/ca) inserted (29.7.2021) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 12 para. 11(2)](https://www.legislation.gov.uk/ukpga/2018/5/schedule/12/paragraph/11/2); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 117](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/117) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
 
-[^key-5a6e45852c6c45f8e9ba0cbc6f41f060]: Textual amendment: [S. 5(2)(da)](https://www.legislation.gov.uk/ukpga/1986/38/section/5/2/da) inserted (29.7.2021) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 12 para. 11(3)](https://www.legislation.gov.uk/ukpga/2018/5/schedule/12/paragraph/11/3); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 117](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/117) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-5a6e45852c6c45f8e9ba0cbc6f41f060]: Textual amendment: [S. 5(2)(da)](https://www.legislation.gov.uk/ukpga/1986/38/section/5/2/da) inserted (29.7.2021) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 12 para. 11(3)](https://www.legislation.gov.uk/ukpga/2018/5/schedule/12/paragraph/11/3); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 117](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/117) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
 
-[^key-d429ed5cc49de3ca77ec8a06bff64704]: Textual amendment: Word in [s. 5(2)(e)(ii)](https://www.legislation.gov.uk/ukpga/1986/38/section/5/2/e/ii) inserted (29.7.2021) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 12 para. 11(4)(a)](https://www.legislation.gov.uk/ukpga/2018/5/schedule/12/paragraph/11/4/a); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 117](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/117) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-d429ed5cc49de3ca77ec8a06bff64704]: Textual amendment: Word in [s. 5(2)(e)(ii)](https://www.legislation.gov.uk/ukpga/1986/38/section/5/2/e/ii) inserted (29.7.2021) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 12 para. 11(4)(a)](https://www.legislation.gov.uk/ukpga/2018/5/schedule/12/paragraph/11/4/a); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 117](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/117) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
 
-[^key-c81ca24f943a1d01fd8810aa674a363b]: Textual amendment: [S. 5(2)(e)(iii)](https://www.legislation.gov.uk/ukpga/1986/38/section/5/2/e/iii) omitted (29.7.2021) by virtue of [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 12 para. 11(4)(b)](https://www.legislation.gov.uk/ukpga/2018/5/schedule/12/paragraph/11/4/b); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 117](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/117) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-c81ca24f943a1d01fd8810aa674a363b]: Textual amendment: [S. 5(2)(e)(iii)](https://www.legislation.gov.uk/ukpga/1986/38/section/5/2/e/iii) omitted (29.7.2021) by virtue of [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 12 para. 11(4)(b)](https://www.legislation.gov.uk/ukpga/2018/5/schedule/12/paragraph/11/4/b); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 117](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/117) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
 
-[^key-510aec668f92e68f5b78a44255b0caa6]: Textual amendment: S. 5(3) inserted (1.10.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 12(3)](https://www.legislation.gov.uk/ukpga/2015/20/section/12/3), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(f)](https://www.legislation.gov.uk/uksi/2015/994/article/11/f)
+[^c-510aec668f92e68f5b78a44255b0caa6]: Textual amendment: S. 5(3) inserted (1.10.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 12(3)](https://www.legislation.gov.uk/ukpga/2015/20/section/12/3), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(f)](https://www.legislation.gov.uk/uksi/2015/994/article/11/f)
 
-[^key-dee6452ad733147b12a349963afc1027]: Textual amendment: Words in [s. 6(1)](https://www.legislation.gov.uk/ukpga/1986/38/section/6/1) omitted (29.7.2021) by virtue of [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 12 para. 12](https://www.legislation.gov.uk/ukpga/2018/5/schedule/12/paragraph/12); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 117](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/117) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-dee6452ad733147b12a349963afc1027]: Textual amendment: Words in [s. 6(1)](https://www.legislation.gov.uk/ukpga/1986/38/section/6/1) omitted (29.7.2021) by virtue of [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 12 para. 12](https://www.legislation.gov.uk/ukpga/2018/5/schedule/12/paragraph/12); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 117](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/117) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
 
-[^key-bad22746dc3e87f6ad5244415c546bef]: Textual amendment: [S. 6A](https://www.legislation.gov.uk/ukpga/1986/38/section/6A) inserted (29.7.2021) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 12 para. 13](https://www.legislation.gov.uk/ukpga/2018/5/schedule/12/paragraph/13); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 117](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/117) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-bad22746dc3e87f6ad5244415c546bef]: Textual amendment: [S. 6A](https://www.legislation.gov.uk/ukpga/1986/38/section/6A) inserted (29.7.2021) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 12 para. 13](https://www.legislation.gov.uk/ukpga/2018/5/schedule/12/paragraph/13); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 117](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/117) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
 
-[^key-7f4d5886be76747664178573568b29a8]: Textual amendment: Words in [s. 7(2)](https://www.legislation.gov.uk/ukpga/1986/38/section/7/2) inserted (29.7.2021) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 12 para. 14(2)](https://www.legislation.gov.uk/ukpga/2018/5/schedule/12/paragraph/14/2); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 117](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/117) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-7f4d5886be76747664178573568b29a8]: Textual amendment: Words in [s. 7(2)](https://www.legislation.gov.uk/ukpga/1986/38/section/7/2) inserted (29.7.2021) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 12 para. 14(2)](https://www.legislation.gov.uk/ukpga/2018/5/schedule/12/paragraph/14/2); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 117](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/117) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
 
-[^key-a292b0d788e8fc918af578d32f32edca]: Textual amendment: [S. 7(3)](https://www.legislation.gov.uk/ukpga/1986/38/section/7/3) substituted (29.7.2021) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 12 para. 14(3)](https://www.legislation.gov.uk/ukpga/2018/5/schedule/12/paragraph/14/3); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 117](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/117) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-a292b0d788e8fc918af578d32f32edca]: Textual amendment: [S. 7(3)](https://www.legislation.gov.uk/ukpga/1986/38/section/7/3) substituted (29.7.2021) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 12 para. 14(3)](https://www.legislation.gov.uk/ukpga/2018/5/schedule/12/paragraph/14/3); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 117](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/117) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
 
 [^c7883091]: Marginal citation: [1868 c. 100](https://www.legislation.gov.uk/ukpga/1868/100).
 
-[^key-04e065c57bce2d5725e45763962691a7]: Textual amendment: S. 10(1A) inserted (1.10.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 12(4)](https://www.legislation.gov.uk/ukpga/2015/20/section/12/4), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(f)](https://www.legislation.gov.uk/uksi/2015/994/article/11/f)
+[^c-04e065c57bce2d5725e45763962691a7]: Textual amendment: S. 10(1A) inserted (1.10.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 12(4)](https://www.legislation.gov.uk/ukpga/2015/20/section/12/4), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(f)](https://www.legislation.gov.uk/uksi/2015/994/article/11/f)
 
 [^c22546151]: Modification: S. 12(6)(a) modified (1.10.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 6 para. 11](https://www.legislation.gov.uk/ukpga/2007/27/schedule/6/paragraph/11) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/13/paragraph/5)); [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a)
 
 [^c22546121]: Textual amendment: S. 15(2)-(4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 4](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/4)
 
-[^key-016f6701d156856074acd13b0c78eb91]: Modification: S. 15(6) power to extend conferred (1.10.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 12(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/12/7), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(f)](https://www.legislation.gov.uk/uksi/2015/994/article/11/f)
+[^c-016f6701d156856074acd13b0c78eb91]: Modification: S. 15(6) power to extend conferred (1.10.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 12(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/12/7), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(f)](https://www.legislation.gov.uk/uksi/2015/994/article/11/f)

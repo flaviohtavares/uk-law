@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 48. Commutation: small pensions[^key-114b8dcfced0d3615942320ffbfd0df8]
+## 48. Commutation: small pensions[^c-114b8dcfced0d3615942320ffbfd0df8]
 
 *Extent: E+W+S*
 
@@ -40,7 +40,7 @@ summary: ''
 
 ## Annotations
 
-[^key-114b8dcfced0d3615942320ffbfd0df8]: Commencement: Reg. 48 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-114b8dcfced0d3615942320ffbfd0df8]: Commencement: Reg. 48 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
 
 [^f00025]: Footnote: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48).
 

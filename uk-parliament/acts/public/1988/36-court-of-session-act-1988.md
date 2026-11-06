@@ -39,7 +39,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 ### 1. Number of judges of Court.
 
-(1)[^c10175961] Subject to subsections (2), (3) , (3A)[^c20833331] and (4) below, the maximum number of judges of the Court of Session (hereinafter in this Act referred to as “**the Court**”) shall be 36[^key-99e23e03b6f564ef478672543bee779f].
+(1)[^c10175961] Subject to subsections (2), (3) , (3A)[^c20833331] and (4) below, the maximum number of judges of the Court of Session (hereinafter in this Act referred to as “**the Court**”) shall be 36[^c-99e23e03b6f564ef478672543bee779f].
 
 (2)[^c10175981][^c10175991] Her Majesty may by Order in Council from time to time amend subsection (1) above so as to increase or further increase the maximum number of persons who may be appointed as judges of the Court.
 
@@ -72,7 +72,7 @@ of the two Divisions.
 
 (3)[^c20833651] The Lord President may from time to time constitute, from among the judges of the Court, an extra Division of the Inner House for the purpose of hearing and disposing of causes pending before the Inner House; and any reference in this Act or in any other enactment to a Division of the Inner House shall be construed as including a reference to such an extra Division.
 
-(4) Subject to[^c20833701] an act of sederunt under section 103(1) of the Courts Reform (Scotland) Act 2014,[^key-eb999c1d9e2322ea6efdb0ca137c0b35] the quorum for a Division of the Inner House shall be three judges.
+(4) Subject to[^c20833701] an act of sederunt under section 103(1) of the Courts Reform (Scotland) Act 2014,[^c-eb999c1d9e2322ea6efdb0ca137c0b35] the quorum for a Division of the Inner House shall be three judges.
 
 (5) The Outer House shall be composed of the judges of the Court (other than the judges of the Inner House while they are sitting in the Inner House) sitting singly, and any reference in this Act or in any other enactment to a Lord Ordinary shall be construed as a reference to a judge sitting singly in the Outer House.
 
@@ -99,15 +99,15 @@ Provided that, in the event of the absence or inability of the Lord Ordinary in 
 
 ## Part II — General Powers of the Court in Relation to Procedure
 
-### 5. Power to regulate procedure etc. by act of sederunt.[^key-33a22c4ffbb01e3101e9d1005095a9c9][^c10177181][^c10177191][^c10177201]
+### 5. Power to regulate procedure etc. by act of sederunt.[^c-33a22c4ffbb01e3101e9d1005095a9c9][^c10177181][^c10177191][^c10177201]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5A. Rules for lay representation[^key-d0251ccd667a104339f11bdc9f73c703][^key-e5b16647c458394b707f697e1828807c]
+### 5A. Rules for lay representation[^c-d0251ccd667a104339f11bdc9f73c703][^c-e5b16647c458394b707f697e1828807c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Allocation of business etc. by act of sederunt.[^key-e92c2d0b34d324cfb72a2e4adedb58e5]
+### 6. Allocation of business etc. by act of sederunt.[^c-e92c2d0b34d324cfb72a2e4adedb58e5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -115,7 +115,7 @@ Provided that, in the event of the absence or inability of the Lord Ordinary in 
 
 The Court shall have power to regulate from time to time the fees which shall be payable to any accountant or person of skill to whom any remit is made in the course of any judicial proceedings before the Court.
 
-### 8. Rules Council.[^key-88bbd0f53093274909e229e844668102]
+### 8. Rules Council.[^c-88bbd0f53093274909e229e844668102]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -139,12 +139,12 @@ The Lord Ordinary may grant commission in any action—
 
 Provided that nothing in this section shall affect the existing practice in regard to granting commission for the examination of aged and infirm witnesses to take their evidence to lie *in**retentis* before a proof or, as the case may be, trial has been allowed.
 
-#### 11. Jury actions.[^key-f12226551c47f8f2978d03a07778313d]
+#### 11. Jury actions.[^c-f12226551c47f8f2978d03a07778313d]
 
 Subject to section 9(b) of this Act, the following actions if remitted to probation shall be tried by jury—
 
 - (a) an action of damages for personal injuries;
-- (b)[^key-e5b60a8ec6d35c91dd62556ae41c0f92] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-e5b60a8ec6d35c91dd62556ae41c0f92] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) an action founded on delinquency or quasi delinquency, where the conclusion is for damages only and expenses; and
 - (d) an action of reduction on the ground of incapacity, essential error, or force and fear;
 
@@ -221,7 +221,7 @@ Except where any enactment otherwise provides, all exchequer causes brought—
 
 In all exchequer causes, the appropriate Law Officer within the meaning of section 4A of the Crown Suits (Scotland) Act 1857[^c10177371] shall, in pleading on behalf of the Crown, have the privilege of being heard last.
 
-#### 24. Appeal to Supreme Court.[^key-dfa8805f4ffbeef8778eaedf26a8a68c][^c20829901]
+#### 24. Appeal to Supreme Court.[^c-dfa8805f4ffbeef8778eaedf26a8a68c][^c20829901]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -243,9 +243,9 @@ In all exchequer causes, the appropriate Law Officer within the meaning of secti
 
 (2) The parties to any action in dependence in the Outer House not affecting the status of any person may agree by joint minute, or in such other manner as may be prescribed, that the provisions of this section shall apply to the action, and thereafter those provisions shall apply accordingly.
 
-(3) Provision shall be made by act of sederunt under section 103(1) of the Courts Reform (Scotland) Act 2014[^key-4458e34c764da8c8362522c313a56dd6] for securing that causes under this section shall be disposed of with as little delay as possible.
+(3) Provision shall be made by act of sederunt under section 103(1) of the Courts Reform (Scotland) Act 2014[^c-4458e34c764da8c8362522c313a56dd6] for securing that causes under this section shall be disposed of with as little delay as possible.
 
-(4) This section shall apply to any dispute or question not affecting the status of any person which might competently be the subject of any cause in the Outer House, or which might competently have been the subject of any such cause but for section 39 of the Courts Reform (Scotland) Act 2014[^key-8f0ccdc4252486cd99b786cd64c5a31c].
+(4) This section shall apply to any dispute or question not affecting the status of any person which might competently be the subject of any cause in the Outer House, or which might competently have been the subject of any such cause but for section 39 of the Courts Reform (Scotland) Act 2014[^c-8f0ccdc4252486cd99b786cd64c5a31c].
 
 ### Special cases
 
@@ -253,7 +253,7 @@ In all exchequer causes, the appropriate Law Officer within the meaning of secti
 
 (1) Where any parties interested, whether personally or in some fiduciary or official capacity, in the decision of a question of law are agreed upon the facts, and are in dispute only on the law applicable to those facts, it shall be competent for them without raising any proceeding, or at any stage of any proceeding, to present to the Inner House a case (in this section referred to as a special case) signed by their counsel setting out the facts upon which they are so agreed and the question of law arising from those facts; and the parties may ask the Court either for its opinion or for its judgment on that question of law.
 
-(1A)[^key-8b1824d8d41d21d7011512629ecd60af] To the extent that an application to the supervisory jurisdiction of the Court is in respect of proceedings under section 7(1)(a) of the United Nations Convention on the Rights of the Child (Incorporation) (Scotland) Act 2024, in calculating the period of 3 months in subsection (1)(a), any time during which the person by or on whose behalf the application was made was under the age of 18 is to be disregarded.
+(1A)[^c-8b1824d8d41d21d7011512629ecd60af] To the extent that an application to the supervisory jurisdiction of the Court is in respect of proceedings under section 7(1)(a) of the United Nations Convention on the Rights of the Child (Incorporation) (Scotland) Act 2024, in calculating the period of 3 months in subsection (1)(a), any time during which the person by or on whose behalf the application was made was under the age of 18 is to be disregarded.
 
 (2) The Court may, if it thinks fit, in case of difficulty or importance or of equal division, appoint a special case to be reheard by a larger court under section 36 of this Act.
 
@@ -263,7 +263,7 @@ In all exchequer causes, the appropriate Law Officer within the meaning of secti
 
 (5) Any judgment pronounced by the Court by virtue of this section shall be liable to review by the Supreme Court[^c20829911] unless such review is excluded by consent of all the parties to the special case.
 
-### Applications to the supervisory jurisdiction of the Court[^key-3786efa705996fdbedc14f7dc02980d4]
+### Applications to the supervisory jurisdiction of the Court[^c-3786efa705996fdbedc14f7dc02980d4]
 
 #### 27A. Time limits
 
@@ -274,7 +274,7 @@ In all exchequer causes, the appropriate Law Officer within the meaning of secti
 
 (2) Subsection (1) does not apply to an application to the supervisory jurisdiction of the Court which, by virtue of any enactment, is to be made before the end of a period ending before the period of 3 months mentioned in that subsection (however that first-ending period may be expressed).
 
-#### 27B. Requirement for permission[^key-1d6fc4156bfc7e58e0816841f4a8b028]
+#### 27B. Requirement for permission[^c-1d6fc4156bfc7e58e0816841f4a8b028]
 
 (1) No proceedings may be taken in respect of an application to the supervisory jurisdiction of the Court unless the Court has granted permission for the application to proceed.
 
@@ -283,7 +283,7 @@ In all exchequer causes, the appropriate Law Officer within the meaning of secti
 - (a) the applicant can demonstrate a sufficient interest in the subject matter of the application, and
 - (b) the application has a real prospect of success.
 
-(3) Where the application relates to a relevant Upper Tribunal decision[^key-3683b5f55dbc98174a1ad19f22832abd], the Court may grant permission under subsection (1) for the application to proceed only if it is satisfied that—
+(3) Where the application relates to a relevant Upper Tribunal decision[^c-3683b5f55dbc98174a1ad19f22832abd], the Court may grant permission under subsection (1) for the application to proceed only if it is satisfied that—
 
 - (a) the applicant can demonstrate a sufficient interest in the subject matter of the application,
 - (b) the application has a real prospect of success, and
@@ -298,12 +298,12 @@ In all exchequer causes, the appropriate Law Officer within the meaning of secti
 
 (5) The Court may decide whether or not to grant permission without an oral hearing having been held.
 
-(6)[^key-f741a5f078757d5b7b02213e2fde038c] In this section, “a relevant Upper Tribunal decision” means—
+(6)[^c-f741a5f078757d5b7b02213e2fde038c] In this section, “a relevant Upper Tribunal decision” means—
 
 - (a) a decision of the Upper Tribunal for Scotland in an appeal from the First-tier Tribunal for Scotland under section 46 of the Tribunals (Scotland) Act 2014,
 - (b) a decision of the Upper Tribunal in an appeal from the First-tier Tribunal under section 11 of the Tribunals, Courts and Enforcement Act 2007.
 
-#### 27C. Oral hearings where permission refused, etc.[^key-fcdd9f4b7daad1bae5968ffeb415f72c][^key-d88ea203509ab2d50ea49357aa92a2c4]
+#### 27C. Oral hearings where permission refused, etc.[^c-fcdd9f4b7daad1bae5968ffeb415f72c][^c-d88ea203509ab2d50ea49357aa92a2c4]
 
 (1) Subsection (2) applies where, in relation to an application to the supervisory jurisdiction of the Court—
 
@@ -314,9 +314,9 @@ In all exchequer causes, the appropriate Law Officer within the meaning of secti
 
 (2) The person making the application may, within the period of 7 days beginning with the day on which that decision is made, request a review of the decision at an oral hearing.
 
-(3)[^key-e4e37394354e7fc08aec680b35d81b0c] A request under subsection (2) must be considered by a different Lord Ordinary from the one who refused permission or granted permission as mentioned in subsection (1)(a)(ii).
+(3)[^c-e4e37394354e7fc08aec680b35d81b0c] A request under subsection (2) must be considered by a different Lord Ordinary from the one who refused permission or granted permission as mentioned in subsection (1)(a)(ii).
 
-(4)[^key-e4e37394354e7fc08aec680b35d81b0c] Where a request under subsection (2) is granted, the oral hearing must be conducted before a different Lord Ordinary from the one who refused or so granted permission.
+(4)[^c-e4e37394354e7fc08aec680b35d81b0c] Where a request under subsection (2) is granted, the oral hearing must be conducted before a different Lord Ordinary from the one who refused or so granted permission.
 
 (5) At a review following a request under subsection (2), the Court must consider whether to grant permission for the application to proceed; and subsections (2), (3) and (4) of section 27B apply for that purpose.
 
@@ -325,7 +325,7 @@ In all exchequer causes, the appropriate Law Officer within the meaning of secti
 - (a) where subsection (2) applies, or
 - (b) in relation to the refusal of a request made under subsection (2).
 
-#### 27D. Appeals following oral hearings[^key-46b2187f68b96880db100b330f363b80][^key-d88ea203509ab2d50ea49357aa92a2c4]
+#### 27D. Appeals following oral hearings[^c-46b2187f68b96880db100b330f363b80][^c-d88ea203509ab2d50ea49357aa92a2c4]
 
 (1) Subsection (2) applies where, after an oral hearing to determine whether or not to grant permission for an application to the supervisory jurisdiction of the Court to proceed, the Court—
 
@@ -384,7 +384,7 @@ or on such other ground as is essential to the justice of the cause.
 - (b) where it is of opinion that it is necessary, set aside the verdict and order a new trial; or
 - (c) refuse the application.
 
-#### 31A. Power to provide for single judge of Inner House to determine leave or permission and assess grounds of appeal[^key-d1d9cf782f79762971b14f9fa991b7ff]
+#### 31A. Power to provide for single judge of Inner House to determine leave or permission and assess grounds of appeal[^c-d1d9cf782f79762971b14f9fa991b7ff]
 
 (1) The Court may by act of sederunt provide for any applications to the Court for leave or permission to appeal to the Inner House to be determined by a single judge of the Inner House.
 
@@ -429,13 +429,13 @@ or on such other ground as is essential to the justice of the cause.
 
 #### 32. Appeals.
 
-(1) Where an appeal is taken to the Court from the judgment of the Sheriff Appeal Court under section 113 of the Courts Reform (Scotland) Act 2014 or the judgment of a sheriff principal under section 114 of that Act[^key-d0a24b74f7c9577ed65024a9519cacbf], the record may, with the leave of the Court, be amended at any time on such conditions as to the Court seem proper.
+(1) Where an appeal is taken to the Court from the judgment of the Sheriff Appeal Court under section 113 of the Courts Reform (Scotland) Act 2014 or the judgment of a sheriff principal under section 114 of that Act[^c-d0a24b74f7c9577ed65024a9519cacbf], the record may, with the leave of the Court, be amended at any time on such conditions as to the Court seem proper.
 
-(2) On any such appeal the Court may, if it thinks fit, remit the cause to the Sheriff Appeal Court or, as the case may be, the sheriff principal[^key-299758275e635e78c7fc07f35ef70fd3] with instructions.
+(2) On any such appeal the Court may, if it thinks fit, remit the cause to the Sheriff Appeal Court or, as the case may be, the sheriff principal[^c-299758275e635e78c7fc07f35ef70fd3] with instructions.
 
 (3) On any such appeal the Court may, if necessary, order proof or additional proof to be taken in accordance with section 37 of this Act and shall thereafter, or without any such order if no such proof or additional proof is necessary, give judgment on the merits of the cause.
 
-(4) Where such an appeal is taken to the Court from the judgment of the Sheriff Appeal Court or, as the case may be, the sheriff principal[^key-7040c88d1476a9e37a1f21685ec00317] proceeding on a proof, the Court shall in giving judgment distinctly specify in its interlocutor the several facts material to the cause which it finds to be established by the proof, and express how far its judgment proceeds on the matter of facts so found, or on matter of law, and the several points of law which it means to decide.
+(4) Where such an appeal is taken to the Court from the judgment of the Sheriff Appeal Court or, as the case may be, the sheriff principal[^c-7040c88d1476a9e37a1f21685ec00317] proceeding on a proof, the Court shall in giving judgment distinctly specify in its interlocutor the several facts material to the cause which it finds to be established by the proof, and express how far its judgment proceeds on the matter of facts so found, or on matter of law, and the several points of law which it means to decide.
 
 (5) The judgment of the Court on any such appeal shall be appealable to the Supreme Court[^c20829931] only on matters of law.
 
@@ -490,7 +490,7 @@ The judgment pronounced by the Inner House shall in all causes be final in the C
 
 ### Appeals to Supreme Court[^c20830071]
 
-#### 40. Appeals to the Supreme Court[^key-757118d6b097f8819abb95955710b76f]
+#### 40. Appeals to the Supreme Court[^c-757118d6b097f8819abb95955710b76f]
 
 (1) An appeal may be taken to the Supreme Court against a decision of the Inner House mentioned in subsection (2), but only—
 
@@ -566,7 +566,7 @@ Where an appeal to the Supreme Court[^c20830211] under section 40 of this Act is
 
 (3) Any judge placed on the rota shall be eligible to be placed on the rota again in the succeeding or any subsequent year.
 
-### 45. Restoration of possession and specific performance.[^c10177411][^c10177421][^c20829831][^c20832641][^c20832651][^c20833871][^key-3a1938d62ce56551a3623096eeb08bca][^key-fcc92643278b738c9dc9e2595b94c049]
+### 45. Restoration of possession and specific performance.[^c10177411][^c10177421][^c20829831][^c20832641][^c20832651][^c20833871][^c-3a1938d62ce56551a3623096eeb08bca][^c-fcc92643278b738c9dc9e2595b94c049]
 
 The Court may, on application by summary petition—
 
@@ -583,11 +583,11 @@ Where a respondent in any application or proceedings in the Court, whether befor
 
 (2) In any cause in dependence before the Court, the Court may, on the motion of any party to the cause, make such order regarding the interim possession of any property to which the cause relates, or regarding the subject matter of the cause, as the Court may think fit.
 
-(2A)[^key-dd08d226f57ee82dee0bb6469e153e1f] The power under subsection (2) to make an order includes, in particular, power to make an order ad factum praestandum (including an interim order).
+(2A)[^c-dd08d226f57ee82dee0bb6469e153e1f] The power under subsection (2) to make an order includes, in particular, power to make an order ad factum praestandum (including an interim order).
 
 (3) Every interim act, warrant and decree granted during the dependence of a cause in the Court shall, unless the Court otherwise directs, be extractible*ad**interim*.
 
-### 47A. Power to grant warrant for ejection[^key-5e7aed91fb01a491c1e58511f625fe5c]
+### 47A. Power to grant warrant for ejection[^c-5e7aed91fb01a491c1e58511f625fe5c]
 
 In any proceedings where the Court has competence to grant a decree of removing, it also has competence to grant a warrant for ejection.
 
@@ -622,7 +622,7 @@ In this Act unless the context otherwise requires—
 
 - “**action**” means a cause initiated by a summons;
 - “**the Court**” means the Court of Session and, in any provision conferring a power on the Court with regard to a cause before it, means, as the case may be, a Division of the Inner House, a Division sitting with an additional judge or judges or a Lord Ordinary;
-- “**enactment**” includes an act of sederunt and an enactment comprised in, or in an instrument made under, an Act of the Scottish Parliament[^key-731ecb5a9bd17dbcfedd0c0ea4a8356f];
+- “**enactment**” includes an act of sederunt and an enactment comprised in, or in an instrument made under, an Act of the Scottish Parliament[^c-731ecb5a9bd17dbcfedd0c0ea4a8356f];
 - “**the Inner House**” means, in any provision conferring power on it, a Division thereof;
 - “**the Lord President**” means the Lord President of the Court of Session;
 - “**prescribed**” means prescribed by act of sederunt;
@@ -634,7 +634,7 @@ In this Act unless the context otherwise requires—
 
 (2) The enactments mentioned in Part I of Schedule 2 to this Act are hereby repealed to the extent specified in the third column of that Schedule; and Parts II and III of that Schedule respectively show the extent to which the aforesaid enactments are re-enacted (with or without amendment) in this Act or are repealed without re-enactment as being no longer of practical utility or being spent or unnecessary.
 
-(3)[^key-f2170841897424842451bf0209dbada6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-f2170841897424842451bf0209dbada6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In so far as any appointment, act of sederunt or regulations made under any enactment repealed and re-enacted by this Act, or any other thing done under any such enactment, could have been made or done under a corresponding provision of this Act, it shall not be invalidated by the repeals effected by this section but shall have effect as if made or done under that corresponding provision.
 
@@ -1067,7 +1067,7 @@ Section 52(2).
 
 [^c20833331]: Textual amendment: Words in s. 1(1) inserted (1.6.2009) by [Judiciary and Courts (Scotland) Act 2008 (asp. 6)](https://www.legislation.gov.uk/asp/2008/6), [ss. 44(2)](https://www.legislation.gov.uk/asp/2008/6/section/44/2), [76](https://www.legislation.gov.uk/asp/2008/6/section/76); [S.S.I. 2008/192](https://www.legislation.gov.uk/ssi/2008/192), [art. 2](https://www.legislation.gov.uk/ssi/2008/192/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2008/192/schedule)
 
-[^key-99e23e03b6f564ef478672543bee779f]: Textual amendment: Word in [s. 1(1)](https://www.legislation.gov.uk/ukpga/1988/36/section/1/1) substituted (17.3.2022) by [The Maximum Number of Judges (Scotland) Order 2022 (S.S.I. 2022/96)](https://www.legislation.gov.uk/ssi/2022/96), [arts. 1](https://www.legislation.gov.uk/ssi/2022/96/article/1), [2](https://www.legislation.gov.uk/ssi/2022/96/article/2)
+[^c-99e23e03b6f564ef478672543bee779f]: Textual amendment: Word in [s. 1(1)](https://www.legislation.gov.uk/ukpga/1988/36/section/1/1) substituted (17.3.2022) by [The Maximum Number of Judges (Scotland) Order 2022 (S.S.I. 2022/96)](https://www.legislation.gov.uk/ssi/2022/96), [arts. 1](https://www.legislation.gov.uk/ssi/2022/96/article/1), [2](https://www.legislation.gov.uk/ssi/2022/96/article/2)
 
 [^c10175981]: Subordinate legislation: S. 1(2): power exercised (19.12.1991) by [S.I. 1991/2884](https://www.legislation.gov.uk/uksi/1991/2884)
 
@@ -1091,7 +1091,7 @@ Section 52(2).
 
 [^c20833701]: Textual amendment: Words in s. 2(4) inserted (1.6.2009) by [Judiciary and Courts (Scotland) Act 2008 (asp. 6)](https://www.legislation.gov.uk/asp/2008/6), [ss. 46(2)(b)](https://www.legislation.gov.uk/asp/2008/6/section/46/2/b), [76](https://www.legislation.gov.uk/asp/2008/6/section/76); [S.S.I. 2008/192](https://www.legislation.gov.uk/ssi/2008/192), [art. 2](https://www.legislation.gov.uk/ssi/2008/192/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2008/192/schedule)
 
-[^key-eb999c1d9e2322ea6efdb0ca137c0b35]: Textual amendment: Words in [s. 2(4)](https://www.legislation.gov.uk/ukpga/1988/36/section/2/4) substituted (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [sch. 5 para. 30(2)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/30/2); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-eb999c1d9e2322ea6efdb0ca137c0b35]: Textual amendment: Words in [s. 2(4)](https://www.legislation.gov.uk/ukpga/1988/36/section/2/4) substituted (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [sch. 5 para. 30(2)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/30/2); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
 [^c10176221]: Textual amendment: S. 2(6) substituted (*1.4.1991*) by [Law Reform (Miscellaneous Provisions) (Scotland) Act 1990 (c. 40, SIF 36:1)](https://www.legislation.gov.uk/ukpga/1990/40), [s. 35(2)](https://www.legislation.gov.uk/ukpga/1990/40/section/35/2), [Sch. 4 para. 4(2)(b)](https://www.legislation.gov.uk/ukpga/1990/40/schedule/4/paragraph/4/2/b); [S.I. 1991/822](https://www.legislation.gov.uk/uksi/1991/822), [art. 3](https://www.legislation.gov.uk/uksi/1991/822/article/3), [Sch](https://www.legislation.gov.uk/uksi/1991/822/schedule)edule
 
@@ -1101,7 +1101,7 @@ Section 52(2).
 
 [^c10176271]: Textual amendment: Words in [s. 3](https://www.legislation.gov.uk/ukpga/1988/36/section/3) substituted (*1.4.1991*)by [Law Reform (Miscellaneous Provisions) (Scotland) Act 1990 (c. 40, SIF 36:1)](https://www.legislation.gov.uk/ukpga/1990/40), [s. 35(2)](https://www.legislation.gov.uk/ukpga/1990/40/section/35/2), [Sch. 4 para. 4(1)(3)](https://www.legislation.gov.uk/ukpga/1990/40/schedule/4/paragraph/4/1/3), [S.I](https://www.legislation.gov.uk/ukpga/1990/40/section/I). 1991/822, art. 3,Schedule
 
-[^key-33a22c4ffbb01e3101e9d1005095a9c9]: Textual amendment: [S. 5](https://www.legislation.gov.uk/ukpga/1988/36/section/5) repealed (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [sch. 5 para. 30(3)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/30/3); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule) (with [art. 7](https://www.legislation.gov.uk/ssi/2015/77/article/7))
+[^c-33a22c4ffbb01e3101e9d1005095a9c9]: Textual amendment: [S. 5](https://www.legislation.gov.uk/ukpga/1988/36/section/5) repealed (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [sch. 5 para. 30(3)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/30/3); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule) (with [art. 7](https://www.legislation.gov.uk/ssi/2015/77/article/7))
 
 [^c10177181]: Subordinate legislation: S. 5: power conferred by s. 5 exercised by [S.I. 1991/272](https://www.legislation.gov.uk/uksi/1991/272) and [S.I. 1991/291](https://www.legislation.gov.uk/uksi/1991/291).
 
@@ -1123,17 +1123,17 @@ Section 52(2).
 
     S. 5: power exercised by [S.I. 1991/2652](https://www.legislation.gov.uk/uksi/1991/2652)
 
-[^key-d0251ccd667a104339f11bdc9f73c703]: Textual amendment: [S. 5A](https://www.legislation.gov.uk/ukpga/1988/36/section/5A) repealed (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [sch. 5 para. 30(3)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/30/3); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule) (with [art. 7](https://www.legislation.gov.uk/ssi/2015/77/article/7))
+[^c-d0251ccd667a104339f11bdc9f73c703]: Textual amendment: [S. 5A](https://www.legislation.gov.uk/ukpga/1988/36/section/5A) repealed (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [sch. 5 para. 30(3)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/30/3); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule) (with [art. 7](https://www.legislation.gov.uk/ssi/2015/77/article/7))
 
-[^key-e5b16647c458394b707f697e1828807c]: Textual amendment: S. 5A inserted (1.9.2011) by [Legal Services (Scotland) Act 2010 (asp 16)](https://www.legislation.gov.uk/asp/2010/16), [ss. 126(b)](https://www.legislation.gov.uk/asp/2010/16/section/126/b), [150(2)](https://www.legislation.gov.uk/asp/2010/16/section/150/2); [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 7](https://www.legislation.gov.uk/ssi/2011/180/article/7)
+[^c-e5b16647c458394b707f697e1828807c]: Textual amendment: S. 5A inserted (1.9.2011) by [Legal Services (Scotland) Act 2010 (asp 16)](https://www.legislation.gov.uk/asp/2010/16), [ss. 126(b)](https://www.legislation.gov.uk/asp/2010/16/section/126/b), [150(2)](https://www.legislation.gov.uk/asp/2010/16/section/150/2); [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 7](https://www.legislation.gov.uk/ssi/2011/180/article/7)
 
-[^key-e92c2d0b34d324cfb72a2e4adedb58e5]: Textual amendment: [S. 6](https://www.legislation.gov.uk/ukpga/1988/36/section/6) repealed (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [sch. 5 para. 30(3)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/30/3); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule) (with [art. 7](https://www.legislation.gov.uk/ssi/2015/77/article/7))
+[^c-e92c2d0b34d324cfb72a2e4adedb58e5]: Textual amendment: [S. 6](https://www.legislation.gov.uk/ukpga/1988/36/section/6) repealed (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [sch. 5 para. 30(3)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/30/3); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule) (with [art. 7](https://www.legislation.gov.uk/ssi/2015/77/article/7))
 
-[^key-88bbd0f53093274909e229e844668102]: Textual amendment: [S. 8](https://www.legislation.gov.uk/ukpga/1988/36/section/8) repealed (28.5.2013) by [Scottish Civil Justice Council and Criminal Legal Assistance Act 2013 (asp 3)](https://www.legislation.gov.uk/asp/2013/3), [ss. 14(2)](https://www.legislation.gov.uk/asp/2013/3/section/14/2), [25(2)](https://www.legislation.gov.uk/asp/2013/3/section/25/2); [S.S.I. 2013/124](https://www.legislation.gov.uk/ssi/2013/124), [art. 2](https://www.legislation.gov.uk/ssi/2013/124/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2013/124/article/3))
+[^c-88bbd0f53093274909e229e844668102]: Textual amendment: [S. 8](https://www.legislation.gov.uk/ukpga/1988/36/section/8) repealed (28.5.2013) by [Scottish Civil Justice Council and Criminal Legal Assistance Act 2013 (asp 3)](https://www.legislation.gov.uk/asp/2013/3), [ss. 14(2)](https://www.legislation.gov.uk/asp/2013/3/section/14/2), [25(2)](https://www.legislation.gov.uk/asp/2013/3/section/25/2); [S.S.I. 2013/124](https://www.legislation.gov.uk/ssi/2013/124), [art. 2](https://www.legislation.gov.uk/ssi/2013/124/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2013/124/article/3))
 
-[^key-f12226551c47f8f2978d03a07778313d]: Modification: S. 11 excluded (31.7.2020) by [Civil Litigation (Expenses and Group Proceedings) (Scotland) Act 2018 (asp 10)](https://www.legislation.gov.uk/asp/2018/10), [ss. 20(10)](https://www.legislation.gov.uk/asp/2018/10/section/20/10), [27(3)](https://www.legislation.gov.uk/asp/2018/10/section/27/3); [S.S.I. 2020/167](https://www.legislation.gov.uk/ssi/2020/167), [reg. 2](https://www.legislation.gov.uk/ssi/2020/167/regulation/2)
+[^c-f12226551c47f8f2978d03a07778313d]: Modification: S. 11 excluded (31.7.2020) by [Civil Litigation (Expenses and Group Proceedings) (Scotland) Act 2018 (asp 10)](https://www.legislation.gov.uk/asp/2018/10), [ss. 20(10)](https://www.legislation.gov.uk/asp/2018/10/section/20/10), [27(3)](https://www.legislation.gov.uk/asp/2018/10/section/27/3); [S.S.I. 2020/167](https://www.legislation.gov.uk/ssi/2020/167), [reg. 2](https://www.legislation.gov.uk/ssi/2020/167/regulation/2)
 
-[^key-e5b60a8ec6d35c91dd62556ae41c0f92]: Textual amendment: [S. 11(b)](https://www.legislation.gov.uk/ukpga/1988/36/section/11/b) repealed (8.8.2022) by [Defamation and Malicious Publication (Scotland) Act 2021 (asp 10)](https://www.legislation.gov.uk/asp/2021/10), [ss. 20(1)](https://www.legislation.gov.uk/asp/2021/10/section/20/1), [39(2)](https://www.legislation.gov.uk/asp/2021/10/section/39/2) (with [s. 20(2)](https://www.legislation.gov.uk/asp/2021/10/section/20/2)); [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [reg. 2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2)
+[^c-e5b60a8ec6d35c91dd62556ae41c0f92]: Textual amendment: [S. 11(b)](https://www.legislation.gov.uk/ukpga/1988/36/section/11/b) repealed (8.8.2022) by [Defamation and Malicious Publication (Scotland) Act 2021 (asp 10)](https://www.legislation.gov.uk/asp/2021/10), [ss. 20(1)](https://www.legislation.gov.uk/asp/2021/10/section/20/1), [39(2)](https://www.legislation.gov.uk/asp/2021/10/section/39/2) (with [s. 20(2)](https://www.legislation.gov.uk/asp/2021/10/section/20/2)); [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [reg. 2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2)
 
 [^c20832581]: Textual amendment: S. 19 repealed (4.5.2006) by [Family Law (Scotland) Act 2006 (asp. 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 45(2)](https://www.legislation.gov.uk/asp/2006/2/section/45/2), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2), [Sch. 3](https://www.legislation.gov.uk/asp/2006/2/schedule/3); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
@@ -1143,41 +1143,41 @@ Section 52(2).
 
 [^c10177371]: Textual amendment: Words in s. 23 substituted (20.5.1999) by [S.I. 1999/1042](https://www.legislation.gov.uk/uksi/1999/1042), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/1999/1042/article/1/2/b), [4](https://www.legislation.gov.uk/uksi/1999/1042/article/4), [Sch. 2 Pt. 1 para. 8](https://www.legislation.gov.uk/uksi/1999/1042/schedule/2/part/1/paragraph/8)
 
-[^key-dfa8805f4ffbeef8778eaedf26a8a68c]: Textual amendment: S. 24 repealed (22.9.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 5 para. 32(2)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/32/2); [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule) (with [art. 5(1)](https://www.legislation.gov.uk/ssi/2015/247/article/5/1))
+[^c-dfa8805f4ffbeef8778eaedf26a8a68c]: Textual amendment: S. 24 repealed (22.9.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 5 para. 32(2)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/32/2); [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule) (with [art. 5(1)](https://www.legislation.gov.uk/ssi/2015/247/article/5/1))
 
 [^c20829901]: Textual amendment: Words in s. 24 sidenote substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 40](https://www.legislation.gov.uk/ukpga/2005/4/section/40), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148), [Sch. 9 para. 49(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/9/paragraph/49/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
-[^key-4458e34c764da8c8362522c313a56dd6]: Textual amendment: Words in s. 26(3) substituted (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 5 para. 30(4)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/30/4); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-4458e34c764da8c8362522c313a56dd6]: Textual amendment: Words in s. 26(3) substituted (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 5 para. 30(4)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/30/4); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
-[^key-8f0ccdc4252486cd99b786cd64c5a31c]: Textual amendment: Words in s. 26(4) substituted (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338)](https://www.legislation.gov.uk/ssi/2015/338), [art. 1](https://www.legislation.gov.uk/ssi/2015/338/article/1), [Sch. 1 para. 1](https://www.legislation.gov.uk/ssi/2015/338/schedule/1/paragraph/1)
+[^c-8f0ccdc4252486cd99b786cd64c5a31c]: Textual amendment: Words in s. 26(4) substituted (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338)](https://www.legislation.gov.uk/ssi/2015/338), [art. 1](https://www.legislation.gov.uk/ssi/2015/338/article/1), [Sch. 1 para. 1](https://www.legislation.gov.uk/ssi/2015/338/schedule/1/paragraph/1)
 
-[^key-8b1824d8d41d21d7011512629ecd60af]: Textual amendment: S. 27(1A) added (16.7.2024) by [United Nations Convention on the Rights of the Child (Incorporation) (Scotland) Act 2024 (asp 1)](https://www.legislation.gov.uk/asp/2024/1), [ss. 7(13)](https://www.legislation.gov.uk/asp/2024/1/section/7/13), [47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)
+[^c-8b1824d8d41d21d7011512629ecd60af]: Textual amendment: S. 27(1A) added (16.7.2024) by [United Nations Convention on the Rights of the Child (Incorporation) (Scotland) Act 2024 (asp 1)](https://www.legislation.gov.uk/asp/2024/1), [ss. 7(13)](https://www.legislation.gov.uk/asp/2024/1/section/7/13), [47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)
 
 [^c20829911]: Textual amendment: Words in s. 27(5) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 40](https://www.legislation.gov.uk/ukpga/2005/4/section/40), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148), [Sch. 9 para. 49(3)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/9/paragraph/49/3); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
-[^key-3786efa705996fdbedc14f7dc02980d4]: Textual amendment: Ss. 27A-27D and cross-heading inserted (22.9.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [ss. 89](https://www.legislation.gov.uk/asp/2014/18/section/89), [138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2); [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/247/article/4))
+[^c-3786efa705996fdbedc14f7dc02980d4]: Textual amendment: Ss. 27A-27D and cross-heading inserted (22.9.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [ss. 89](https://www.legislation.gov.uk/asp/2014/18/section/89), [138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2); [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/247/article/4))
 
-[^key-1d6fc4156bfc7e58e0816841f4a8b028]: Modification: [S. 27B](https://www.legislation.gov.uk/ukpga/1988/36/section/27B) applied (with modifications) (25.12.2023) by [The Public Service Obligations in Transport Regulations 2023 (S.I. 2023/1369)](https://www.legislation.gov.uk/uksi/2023/1369), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1), [24(5)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/24/5)
+[^c-1d6fc4156bfc7e58e0816841f4a8b028]: Modification: [S. 27B](https://www.legislation.gov.uk/ukpga/1988/36/section/27B) applied (with modifications) (25.12.2023) by [The Public Service Obligations in Transport Regulations 2023 (S.I. 2023/1369)](https://www.legislation.gov.uk/uksi/2023/1369), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1), [24(5)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/24/5)
 
-[^key-3683b5f55dbc98174a1ad19f22832abd]: Textual amendment: Words in [s. 27B(3)](https://www.legislation.gov.uk/ukpga/1988/36/section/27B/3) substituted (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions and Modifications) Order 2015 (S.I. 2015/700)](https://www.legislation.gov.uk/uksi/2015/700), [arts. 1(8)](https://www.legislation.gov.uk/uksi/2015/700/article/1/8), [6(2)](https://www.legislation.gov.uk/uksi/2015/700/article/6/2)
+[^c-3683b5f55dbc98174a1ad19f22832abd]: Textual amendment: Words in [s. 27B(3)](https://www.legislation.gov.uk/ukpga/1988/36/section/27B/3) substituted (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions and Modifications) Order 2015 (S.I. 2015/700)](https://www.legislation.gov.uk/uksi/2015/700), [arts. 1(8)](https://www.legislation.gov.uk/uksi/2015/700/article/1/8), [6(2)](https://www.legislation.gov.uk/uksi/2015/700/article/6/2)
 
-[^key-f741a5f078757d5b7b02213e2fde038c]: Textual amendment: [S. 27B(6)](https://www.legislation.gov.uk/ukpga/1988/36/section/27B/6) inserted (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions and Modifications) Order 2015 (S.I. 2015/700)](https://www.legislation.gov.uk/uksi/2015/700), [arts. 1(8)](https://www.legislation.gov.uk/uksi/2015/700/article/1/8), [6(3)](https://www.legislation.gov.uk/uksi/2015/700/article/6/3)
+[^c-f741a5f078757d5b7b02213e2fde038c]: Textual amendment: [S. 27B(6)](https://www.legislation.gov.uk/ukpga/1988/36/section/27B/6) inserted (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions and Modifications) Order 2015 (S.I. 2015/700)](https://www.legislation.gov.uk/uksi/2015/700), [arts. 1(8)](https://www.legislation.gov.uk/uksi/2015/700/article/1/8), [6(3)](https://www.legislation.gov.uk/uksi/2015/700/article/6/3)
 
-[^key-fcdd9f4b7daad1bae5968ffeb415f72c]: Modification: S. 27C applied (with modifications) (22.9.2015) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [ss. 41(3)(b)](https://www.legislation.gov.uk/asp/2014/16/section/41/3/b)[(4)](https://www.legislation.gov.uk/asp/2014/16/section/41/4), [260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), art. 2, Sch.; [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/110/article/2/2)
+[^c-fcdd9f4b7daad1bae5968ffeb415f72c]: Modification: S. 27C applied (with modifications) (22.9.2015) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [ss. 41(3)(b)](https://www.legislation.gov.uk/asp/2014/16/section/41/3/b)[(4)](https://www.legislation.gov.uk/asp/2014/16/section/41/4), [260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), art. 2, Sch.; [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/110/article/2/2)
 
-[^key-d88ea203509ab2d50ea49357aa92a2c4]: Modification: Ss. 27C, 27D applied by 2014 asp 10, s. 57A(3)(b) (as inserted (22.9.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 5 para. 24](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/24); [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule))
+[^c-d88ea203509ab2d50ea49357aa92a2c4]: Modification: Ss. 27C, 27D applied by 2014 asp 10, s. 57A(3)(b) (as inserted (22.9.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 5 para. 24](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/24); [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule))
 
-[^key-e4e37394354e7fc08aec680b35d81b0c]: Modification: S. 27C(3)(4) modified by 2014 asp 10, s. 57A(4) (as inserted (22.9.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 5 para. 24](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/24); [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule))
+[^c-e4e37394354e7fc08aec680b35d81b0c]: Modification: S. 27C(3)(4) modified by 2014 asp 10, s. 57A(4) (as inserted (22.9.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 5 para. 24](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/24); [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule))
 
-[^key-46b2187f68b96880db100b330f363b80]: Modification: S. 27D applied (with modifications) (22.9.2015) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [ss. 41(3)(b)](https://www.legislation.gov.uk/asp/2014/16/section/41/3/b)[(4)](https://www.legislation.gov.uk/asp/2014/16/section/41/4), [260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), art. 2, Sch.; [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/110/article/2/2)
+[^c-46b2187f68b96880db100b330f363b80]: Modification: S. 27D applied (with modifications) (22.9.2015) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [ss. 41(3)(b)](https://www.legislation.gov.uk/asp/2014/16/section/41/3/b)[(4)](https://www.legislation.gov.uk/asp/2014/16/section/41/4), [260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), art. 2, Sch.; [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/110/article/2/2)
 
-[^key-d1d9cf782f79762971b14f9fa991b7ff]: Textual amendment: [S. 31A](https://www.legislation.gov.uk/ukpga/1988/36/section/31A) inserted (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [ss. 115](https://www.legislation.gov.uk/asp/2014/18/section/115), [138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-d1d9cf782f79762971b14f9fa991b7ff]: Textual amendment: [S. 31A](https://www.legislation.gov.uk/ukpga/1988/36/section/31A) inserted (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [ss. 115](https://www.legislation.gov.uk/asp/2014/18/section/115), [138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
-[^key-d0a24b74f7c9577ed65024a9519cacbf]: Textual amendment: Words in [s. 32(1)](https://www.legislation.gov.uk/ukpga/1988/36/section/32/1) substituted (1.1.2016) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [sch. 5 para. 32(3)(a)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/32/3/a); [S.S.I. 2015/378](https://www.legislation.gov.uk/ssi/2015/378), [art. 2](https://www.legislation.gov.uk/ssi/2015/378/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/378/schedule)
+[^c-d0a24b74f7c9577ed65024a9519cacbf]: Textual amendment: Words in [s. 32(1)](https://www.legislation.gov.uk/ukpga/1988/36/section/32/1) substituted (1.1.2016) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [sch. 5 para. 32(3)(a)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/32/3/a); [S.S.I. 2015/378](https://www.legislation.gov.uk/ssi/2015/378), [art. 2](https://www.legislation.gov.uk/ssi/2015/378/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/378/schedule)
 
-[^key-299758275e635e78c7fc07f35ef70fd3]: Textual amendment: Words in [s. 32(2)](https://www.legislation.gov.uk/ukpga/1988/36/section/32/2) substituted (1.1.2016) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [sch. 5 para. 32(3)(b)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/32/3/b); [S.S.I. 2015/378](https://www.legislation.gov.uk/ssi/2015/378), [art. 2](https://www.legislation.gov.uk/ssi/2015/378/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/378/schedule)
+[^c-299758275e635e78c7fc07f35ef70fd3]: Textual amendment: Words in [s. 32(2)](https://www.legislation.gov.uk/ukpga/1988/36/section/32/2) substituted (1.1.2016) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [sch. 5 para. 32(3)(b)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/32/3/b); [S.S.I. 2015/378](https://www.legislation.gov.uk/ssi/2015/378), [art. 2](https://www.legislation.gov.uk/ssi/2015/378/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/378/schedule)
 
-[^key-7040c88d1476a9e37a1f21685ec00317]: Textual amendment: Words in [s. 32(4)](https://www.legislation.gov.uk/ukpga/1988/36/section/32/4) substituted (1.1.2016) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [sch. 5 para. 32(3)(b)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/32/3/b); [S.S.I. 2015/378](https://www.legislation.gov.uk/ssi/2015/378), [art. 2](https://www.legislation.gov.uk/ssi/2015/378/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/378/schedule)
+[^c-7040c88d1476a9e37a1f21685ec00317]: Textual amendment: Words in [s. 32(4)](https://www.legislation.gov.uk/ukpga/1988/36/section/32/4) substituted (1.1.2016) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [sch. 5 para. 32(3)(b)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/32/3/b); [S.S.I. 2015/378](https://www.legislation.gov.uk/ssi/2015/378), [art. 2](https://www.legislation.gov.uk/ssi/2015/378/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/378/schedule)
 
 [^c20829931]: Textual amendment: Words in s. 32(5) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 40](https://www.legislation.gov.uk/ukpga/2005/4/section/40), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148), [Sch. 9 para. 49(4)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/9/paragraph/49/4); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
@@ -1185,7 +1185,7 @@ Section 52(2).
 
 [^c20830071]: Textual amendment: Words in cross-heading preceding s. 40 substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 40](https://www.legislation.gov.uk/ukpga/2005/4/section/40), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148), [Sch. 9 para. 49(5)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/9/paragraph/49/5); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
-[^key-757118d6b097f8819abb95955710b76f]: Textual amendment: Ss. 40, 40A substituted (22.9.2015) for s. 40 by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [ss. 117](https://www.legislation.gov.uk/asp/2014/18/section/117), [138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2); [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule) (with [art. 5(2)](https://www.legislation.gov.uk/ssi/2015/247/article/5/2)[(3)](https://www.legislation.gov.uk/ssi/2015/247/article/5/3))
+[^c-757118d6b097f8819abb95955710b76f]: Textual amendment: Ss. 40, 40A substituted (22.9.2015) for s. 40 by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [ss. 117](https://www.legislation.gov.uk/asp/2014/18/section/117), [138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2); [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule) (with [art. 5(2)](https://www.legislation.gov.uk/ssi/2015/247/article/5/2)[(3)](https://www.legislation.gov.uk/ssi/2015/247/article/5/3))
 
 [^c20830091]: Textual amendment: Words in s. 41(1)(2) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 40](https://www.legislation.gov.uk/ukpga/2005/4/section/40), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148), [Sch. 9 para. 49(7)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/9/paragraph/49/7); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
@@ -1215,24 +1215,24 @@ Section 52(2).
 
 [^c20833871]: Modification: S. 45 applied (6.4.2009) by [The Data Retention (EC Directive) Regulations 2009 (S.I. 2009/859)](https://www.legislation.gov.uk/uksi/2009/859), [reg. 10(6)](https://www.legislation.gov.uk/uksi/2009/859/regulation/10/6)
 
-[^key-3a1938d62ce56551a3623096eeb08bca]: Modification: [S. 45](https://www.legislation.gov.uk/ukpga/1988/36/section/45) applied (30.11.2021) by [The Green Gas Support Scheme Regulations 2021 (S.I. 2021/1335)](https://www.legislation.gov.uk/uksi/2021/1335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1), [53(8)(b)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/53/8/b)
+[^c-3a1938d62ce56551a3623096eeb08bca]: Modification: [S. 45](https://www.legislation.gov.uk/ukpga/1988/36/section/45) applied (30.11.2021) by [The Green Gas Support Scheme Regulations 2021 (S.I. 2021/1335)](https://www.legislation.gov.uk/uksi/2021/1335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1), [53(8)(b)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/53/8/b)
 
-[^key-fcc92643278b738c9dc9e2595b94c049]: Modification: [S. 45](https://www.legislation.gov.uk/ukpga/1988/36/section/45) applied (31.12.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 11 para. 120(8)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/120/8); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-fcc92643278b738c9dc9e2595b94c049]: Modification: [S. 45](https://www.legislation.gov.uk/ukpga/1988/36/section/45) applied (31.12.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 11 para. 120(8)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/120/8); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
 [^c10177431]: Modification: S. 45(b) applied (3.4.2000) by [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33), [s. 101(5)](https://www.legislation.gov.uk/ukpga/1999/33/section/101/5); [S.I. 2000/464](https://www.legislation.gov.uk/uksi/2000/464), [art. 2](https://www.legislation.gov.uk/uksi/2000/464/article/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2000/464/schedule/2)
 
-[^key-dd08d226f57ee82dee0bb6469e153e1f]: Textual amendment: [S. 47(2A)](https://www.legislation.gov.uk/ukpga/1988/36/section/47/2A) inserted (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [ss. 90](https://www.legislation.gov.uk/asp/2014/18/section/90), [138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-dd08d226f57ee82dee0bb6469e153e1f]: Textual amendment: [S. 47(2A)](https://www.legislation.gov.uk/ukpga/1988/36/section/47/2A) inserted (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [ss. 90](https://www.legislation.gov.uk/asp/2014/18/section/90), [138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
-[^key-5e7aed91fb01a491c1e58511f625fe5c]: Textual amendment: [S. 47A](https://www.legislation.gov.uk/ukpga/1988/36/section/47A) inserted (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [ss. 91](https://www.legislation.gov.uk/asp/2014/18/section/91), [138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-5e7aed91fb01a491c1e58511f625fe5c]: Textual amendment: [S. 47A](https://www.legislation.gov.uk/ukpga/1988/36/section/47A) inserted (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [ss. 91](https://www.legislation.gov.uk/asp/2014/18/section/91), [138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
 [^c10177471]: Textual amendment: Ss. 48 and 48A substituted (*3.6.1991*) by [Law Reform (Miscellaneous Provisions) (Scotland) Act 1990 (c. 40, SIF 36:1)](https://www.legislation.gov.uk/ukpga/1990/40), [s. 74(1)](https://www.legislation.gov.uk/ukpga/1990/40/section/74/1), [Sch. 8 para. 38](https://www.legislation.gov.uk/ukpga/1990/40/schedule/8/paragraph/38) and [S.I. 1991/1252](https://www.legislation.gov.uk/uksi/1991/1252), [art. 3](https://www.legislation.gov.uk/uksi/1991/1252/article/3),Schedule 1
 
 [^c10177491]: Textual amendment: Ss. 48 and 48A substituted (3.6.1991) by [Law Reform (Miscellaneous Provisions) (Scotland) Act 1990 (c. 40, SIF 36:1)](https://www.legislation.gov.uk/ukpga/1990/40), [s. 74(1)](https://www.legislation.gov.uk/ukpga/1990/40/section/74/1), [Sch. 8 para. 38](https://www.legislation.gov.uk/ukpga/1990/40/schedule/8/paragraph/38) and [S.I. 1991/1252](https://www.legislation.gov.uk/uksi/1991/1252), [art. 3](https://www.legislation.gov.uk/uksi/1991/1252/article/3),Schedule 1
 
-[^key-731ecb5a9bd17dbcfedd0c0ea4a8356f]: Textual amendment: Words in [s. 51](https://www.legislation.gov.uk/ukpga/1988/36/section/51) inserted (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [sch. 5 para. 43](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/43); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-731ecb5a9bd17dbcfedd0c0ea4a8356f]: Textual amendment: Words in [s. 51](https://www.legislation.gov.uk/ukpga/1988/36/section/51) inserted (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [sch. 5 para. 43](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/43); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
 [^c10177501]: Marginal citation: [1980 c. 46](https://www.legislation.gov.uk/ukpga/1980/46).
 
-[^key-f2170841897424842451bf0209dbada6]: Textual amendment: S. 52(3) repealed (22.9.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 5 para. 32(4)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/32/4); [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule) (with [art. 5(1)](https://www.legislation.gov.uk/ssi/2015/247/article/5/1))
+[^c-f2170841897424842451bf0209dbada6]: Textual amendment: S. 52(3) repealed (22.9.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 5 para. 32(4)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/32/4); [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule) (with [art. 5(1)](https://www.legislation.gov.uk/ssi/2015/247/article/5/1))
 
 [^c10177511]: Marginal citation: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).

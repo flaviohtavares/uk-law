@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100. Duty to support pupils with medical conditions[^key-963569bdc8358e9ebf3f08c020e6e39c]
+## 100. Duty to support pupils with medical conditions[^c-963569bdc8358e9ebf3f08c020e6e39c]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-963569bdc8358e9ebf3f08c020e6e39c]: Commencement: S. 100 in force at 1.9.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(c)](https://www.legislation.gov.uk/uksi/2014/889/article/7/c)
+[^c-963569bdc8358e9ebf3f08c020e6e39c]: Commencement: S. 100 in force at 1.9.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(c)](https://www.legislation.gov.uk/uksi/2014/889/article/7/c)

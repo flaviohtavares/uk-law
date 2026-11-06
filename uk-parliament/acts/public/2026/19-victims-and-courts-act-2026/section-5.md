@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Sections 3 and 4: consequential amendments[^key-07819907bb98f62614f15a35add3dfea]
+## 5. Sections 3 and 4: consequential amendments[^c-07819907bb98f62614f15a35add3dfea]
 
 *Extent: E+W+S+N.I.*
 
@@ -71,4 +71,4 @@ summary: ''
 
 ## Annotations
 
-[^key-07819907bb98f62614f15a35add3dfea]: Commencement: S. 5 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
+[^c-07819907bb98f62614f15a35add3dfea]: Commencement: S. 5 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)

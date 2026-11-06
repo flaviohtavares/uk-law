@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 581. Meaning of “qualifying lending institution”[^key-e22cad857be96062f4da97f70ce7eed0]
+## 581. Meaning of “qualifying lending institution”[^c-e22cad857be96062f4da97f70ce7eed0]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e22cad857be96062f4da97f70ce7eed0]: Commencement: Art. 581 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-e22cad857be96062f4da97f70ce7eed0]: Commencement: Art. 581 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

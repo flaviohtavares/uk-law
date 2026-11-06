@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Provisions supplementary to regulation 30[^key-5f300c27c0dc29e85c8281e86e8fd3ba]
+## 31. Provisions supplementary to regulation 30[^c-5f300c27c0dc29e85c8281e86e8fd3ba]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5f300c27c0dc29e85c8281e86e8fd3ba]: Commencement: Reg. 31 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)
+[^c-5f300c27c0dc29e85c8281e86e8fd3ba]: Commencement: Reg. 31 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)

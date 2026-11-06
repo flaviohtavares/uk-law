@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 59. Power to modify functions of Forestry Commissioners[^key-3a1a3dc4f29c1e14e0f54315d0e71ff7]
+## 59. Power to modify functions of Forestry Commissioners[^c-3a1a3dc4f29c1e14e0f54315d0e71ff7]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3a1a3dc4f29c1e14e0f54315d0e71ff7]: Textual amendment: S. 59 repealed (1.4.2019) by [Forestry and Land Management (Scotland) Act 2018 (asp 8)](https://www.legislation.gov.uk/asp/2018/8), [s. 85(2)](https://www.legislation.gov.uk/asp/2018/8/section/85/2), [sch. 2](https://www.legislation.gov.uk/asp/2018/8/schedule/2) (with [s. 83](https://www.legislation.gov.uk/asp/2018/8/section/83)); [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-3a1a3dc4f29c1e14e0f54315d0e71ff7]: Textual amendment: S. 59 repealed (1.4.2019) by [Forestry and Land Management (Scotland) Act 2018 (asp 8)](https://www.legislation.gov.uk/asp/2018/8), [s. 85(2)](https://www.legislation.gov.uk/asp/2018/8/section/85/2), [sch. 2](https://www.legislation.gov.uk/asp/2018/8/schedule/2) (with [s. 83](https://www.legislation.gov.uk/asp/2018/8/section/83)); [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))

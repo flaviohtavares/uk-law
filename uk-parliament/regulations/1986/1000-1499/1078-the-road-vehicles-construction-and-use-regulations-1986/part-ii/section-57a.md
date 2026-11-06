@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 57A. Exhaust systems motor cycles[^key-5fab46f2e1b1a430e89c2360c7b1073f]
+## 57A. Exhaust systems motor cycles[^c-5fab46f2e1b1a430e89c2360c7b1073f]
 
 *Extent: E+W+S*
 
@@ -79,7 +79,7 @@ summary: ''
   - (i) the words “and the name referred to in 3.1.2”, and
   - (ii) the words after “legible”.
 
-(8A)[^key-797a1504b9cfb537dd6dbadb9c2a622f] For the purposes of paragraphs (1)(b) and (2) in their application to vehicles with a design speed not exceeding 50km/h, Community Directive [89/235/EEC](https://www.legislation.gov.uk/european/directive/1989/0235) shall have effect as if it were not only modified in accordance with paragraph (8) but were further modified by the omission of—
+(8A)[^c-797a1504b9cfb537dd6dbadb9c2a622f] For the purposes of paragraphs (1)(b) and (2) in their application to vehicles with a design speed not exceeding 50km/h, Community Directive [89/235/EEC](https://www.legislation.gov.uk/european/directive/1989/0235) shall have effect as if it were not only modified in accordance with paragraph (8) but were further modified by the omission of—
 
 - (a) sub-paragraph 3.1.3 of Annex II; and
 - (b) in sub-paragraph 3.2 of that Annex, the words “and 3.1.3”.
@@ -108,6 +108,6 @@ paragraphs (5) and (6) of this regulation and Parts II and III of Schedule 7A sh
 
 ## Annotations
 
-[^key-5fab46f2e1b1a430e89c2360c7b1073f]: Textual amendment: [Regs. 57-57B](https://www.legislation.gov.uk/uksi/1986/1078/regulation/57) substituted for reg. 57 (1.7.1994) by [The Road Vehicles (Construction and Use) (Amendment) Regulations 1994 (S.I. 1994/14)](https://www.legislation.gov.uk/uksi/1994/14), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/14/regulation/1/1), [3(5)](https://www.legislation.gov.uk/uksi/1994/14/regulation/3/5), [Sch. 1](https://www.legislation.gov.uk/uksi/1994/14/schedule/1)
+[^c-5fab46f2e1b1a430e89c2360c7b1073f]: Textual amendment: [Regs. 57-57B](https://www.legislation.gov.uk/uksi/1986/1078/regulation/57) substituted for reg. 57 (1.7.1994) by [The Road Vehicles (Construction and Use) (Amendment) Regulations 1994 (S.I. 1994/14)](https://www.legislation.gov.uk/uksi/1994/14), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/14/regulation/1/1), [3(5)](https://www.legislation.gov.uk/uksi/1994/14/regulation/3/5), [Sch. 1](https://www.legislation.gov.uk/uksi/1994/14/schedule/1)
 
-[^key-797a1504b9cfb537dd6dbadb9c2a622f]: Textual amendment: [Reg. 57A(8A)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/57A/8A) inserted (1.2.1996) by [The Road Vehicles (Construction and Use) (Amendment) Regulations 1996 (S.I. 1996/16)](https://www.legislation.gov.uk/uksi/1996/16), [regs. 1](https://www.legislation.gov.uk/uksi/1996/16/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/1996/16/regulation/2/2)
+[^c-797a1504b9cfb537dd6dbadb9c2a622f]: Textual amendment: [Reg. 57A(8A)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/57A/8A) inserted (1.2.1996) by [The Road Vehicles (Construction and Use) (Amendment) Regulations 1996 (S.I. 1996/16)](https://www.legislation.gov.uk/uksi/1996/16), [regs. 1](https://www.legislation.gov.uk/uksi/1996/16/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/1996/16/regulation/2/2)

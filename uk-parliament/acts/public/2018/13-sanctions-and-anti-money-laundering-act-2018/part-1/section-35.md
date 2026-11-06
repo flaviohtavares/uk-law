@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Directions under section 34: further provision[^key-7dd6e3a29f85e9c985a12dbad0c4f2eb]
+## 35. Directions under section 34: further provision[^c-7dd6e3a29f85e9c985a12dbad0c4f2eb]
 
 *Extent: E+W+S+N.I.*
 
@@ -72,4 +72,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7dd6e3a29f85e9c985a12dbad0c4f2eb]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2018/13/section/35) in force at 22.11.2018 by [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/b)
+[^c-7dd6e3a29f85e9c985a12dbad0c4f2eb]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2018/13/section/35) in force at 22.11.2018 by [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/b)

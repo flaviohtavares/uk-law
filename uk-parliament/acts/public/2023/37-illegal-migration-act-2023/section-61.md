@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Report on safe and legal routes[^key-475b57084d0710d775417aeed31960ce]
+## 61. Report on safe and legal routes[^c-475b57084d0710d775417aeed31960ce]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-475b57084d0710d775417aeed31960ce]: Textual amendment: [S. 61](https://www.legislation.gov.uk/ukpga/2023/37/section/61) repealed (2.12.2025) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [ss. 41(1)(g)](https://www.legislation.gov.uk/ukpga/2025/31/section/41/1/g), [65(3)(a)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/a)
+[^c-475b57084d0710d775417aeed31960ce]: Textual amendment: [S. 61](https://www.legislation.gov.uk/ukpga/2023/37/section/61) repealed (2.12.2025) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [ss. 41(1)(g)](https://www.legislation.gov.uk/ukpga/2025/31/section/41/1/g), [65(3)(a)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/a)

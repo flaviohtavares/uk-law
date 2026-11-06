@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Limits on charging in exercise of general power[^key-d67a7f2a6d91dda41a1dd103269b9bfa]
+## 26. Limits on charging in exercise of general power[^c-d67a7f2a6d91dda41a1dd103269b9bfa]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d67a7f2a6d91dda41a1dd103269b9bfa]: Commencement: [S. 26](https://www.legislation.gov.uk/asc/2021/1/section/26) in force at 1.11.2021 by [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 4(a)](https://www.legislation.gov.uk/wsi/2021/231/article/4/a)
+[^c-d67a7f2a6d91dda41a1dd103269b9bfa]: Commencement: [S. 26](https://www.legislation.gov.uk/asc/2021/1/section/26) in force at 1.11.2021 by [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 4(a)](https://www.legislation.gov.uk/wsi/2021/231/article/4/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Authority to survey and investigate the land[^key-cd10d3cd2ebaabf2a63d9e0107fd1b36]
+## 22. Authority to survey and investigate the land[^c-cd10d3cd2ebaabf2a63d9e0107fd1b36]
 
 *Extent: E+W*
 
@@ -47,6 +47,6 @@ but such consent must not be unreasonably withheld or delayed.
 
 ## Annotations
 
-[^key-cd10d3cd2ebaabf2a63d9e0107fd1b36]: Commencement: Art. 22 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-cd10d3cd2ebaabf2a63d9e0107fd1b36]: Commencement: Art. 22 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
 
 [^f00049]: Footnote: The functions of the Lands Tribunal under the 1961 Act are transferred to the Upper Tribunal under the Tribunals, Courts and Enforcement Act [2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15).

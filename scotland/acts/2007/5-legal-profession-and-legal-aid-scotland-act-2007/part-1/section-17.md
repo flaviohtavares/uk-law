@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1) Where the Commission is satisfied that it is necessary for it to do so for the purposes of section 2, 4, [^key-afc1a11eacf58950dc395a32f52f03a8]... 8, 9, 10, 15 or 16, it may give notice in writing in accordance with subsection (2) to the practitioner, the practitioner's firm or, as the case may be, the employing practitioner.
+(1) Where the Commission is satisfied that it is necessary for it to do so for the purposes of section 2, 4, [^c-afc1a11eacf58950dc395a32f52f03a8]... 8, 9, 10, 15 or 16, it may give notice in writing in accordance with subsection (2) to the practitioner, the practitioner's firm or, as the case may be, the employing practitioner.
 
 (2) Notice under subsection (1) may require—
 
@@ -32,7 +32,7 @@ summary: ''
 - (a) all books, accounts, deeds, securities, papers and other documents in the possession or control of the practitioner, the firm or, as the case may be, the employing practitioner;
 - (b) all books, accounts, deeds, securities, papers and other documents relating to any trust of which the practitioner is the sole trustee or a co-trustee only with one or more of the practitioner's partners or employees or, as the case may be, where the practitioner is an incorporated practice of which the practice or one of its employees is a sole trustee or it is a co-trustee only with one or more of its employees.
 
-(4) Where the Commission is satisfied that it is necessary for it to do so for the purposes of section 2, 4, [^key-d1ee29f87335b3bf4193ae0956373a4e]... 8, 9, 10 or 15, it may give notice in writing in accordance with subsection (5) to the complainer.
+(4) Where the Commission is satisfied that it is necessary for it to do so for the purposes of section 2, 4, [^c-d1ee29f87335b3bf4193ae0956373a4e]... 8, 9, 10 or 15, it may give notice in writing in accordance with subsection (5) to the complainer.
 
 (5) Notice under subsection (4) may require—
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-afc1a11eacf58950dc395a32f52f03a8]: Textual amendment: Word in [s. 17(1)](https://www.legislation.gov.uk/asp/2007/5/section/17/1) omitted (1.1.2015) by virtue of [The Scottish Legal Complaints Commission (Modification of Duties and Powers) Regulations 2014 (S.S.I. 2014/232)](https://www.legislation.gov.uk/ssi/2014/232), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/232/regulation/1/2), [2(12)(a)](https://www.legislation.gov.uk/ssi/2014/232/regulation/2/12/a) (with [reg. 4](https://www.legislation.gov.uk/ssi/2014/232/regulation/4))
+[^c-afc1a11eacf58950dc395a32f52f03a8]: Textual amendment: Word in [s. 17(1)](https://www.legislation.gov.uk/asp/2007/5/section/17/1) omitted (1.1.2015) by virtue of [The Scottish Legal Complaints Commission (Modification of Duties and Powers) Regulations 2014 (S.S.I. 2014/232)](https://www.legislation.gov.uk/ssi/2014/232), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/232/regulation/1/2), [2(12)(a)](https://www.legislation.gov.uk/ssi/2014/232/regulation/2/12/a) (with [reg. 4](https://www.legislation.gov.uk/ssi/2014/232/regulation/4))
 
-[^key-d1ee29f87335b3bf4193ae0956373a4e]: Textual amendment: Word in [s. 17(4)](https://www.legislation.gov.uk/asp/2007/5/section/17/4) omitted (1.1.2015) by virtue of [The Scottish Legal Complaints Commission (Modification of Duties and Powers) Regulations 2014 (S.S.I. 2014/232)](https://www.legislation.gov.uk/ssi/2014/232), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/232/regulation/1/2), [2(12)(b)](https://www.legislation.gov.uk/ssi/2014/232/regulation/2/12/b) (with [reg. 4](https://www.legislation.gov.uk/ssi/2014/232/regulation/4))
+[^c-d1ee29f87335b3bf4193ae0956373a4e]: Textual amendment: Word in [s. 17(4)](https://www.legislation.gov.uk/asp/2007/5/section/17/4) omitted (1.1.2015) by virtue of [The Scottish Legal Complaints Commission (Modification of Duties and Powers) Regulations 2014 (S.S.I. 2014/232)](https://www.legislation.gov.uk/ssi/2014/232), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/232/regulation/1/2), [2(12)(b)](https://www.legislation.gov.uk/ssi/2014/232/regulation/2/12/b) (with [reg. 4](https://www.legislation.gov.uk/ssi/2014/232/regulation/4))

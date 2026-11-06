@@ -28,7 +28,7 @@ summary: ''
 (2) This subsection applies to trusts—
 
 - (a) established under the will of a deceased parent of the relevant minor, or
-- (b) established under the Criminal Injuries Compensation Scheme, or[^key-dc87b4197818035c5457962a84d7d878]
+- (b) established under the Criminal Injuries Compensation Scheme, or[^c-dc87b4197818035c5457962a84d7d878]
 - (c) established under the Victims of Overseas Terrorism Compensation Scheme,
 
 which secure that the conditions in subsection (3) are met.
@@ -39,9 +39,9 @@ which secure that the conditions in subsection (3) are met.
 - (b) that, until that time, for so long as the relevant minor is living, if any of the property is applied for the benefit of a beneficiary, it is applied for the benefit of the relevant minor, and
 - (c) that, until that time, for so long as the relevant minor is living, either—
   - (i) the relevant minor is entitled to all the income (if there is any) arising from any of the property, or
-  - (ii)[^key-fddf406c1692e533a4a84b832960a9c1] if any such income is applied for the benefit of a beneficiary, it is applied for the benefit of the relevant minor.
+  - (ii)[^c-fddf406c1692e533a4a84b832960a9c1] if any such income is applied for the benefit of a beneficiary, it is applied for the benefit of the relevant minor.
 
-(4)[^key-5e8f26cad1c204ffb842898ae8b453c4] Trusts to which subsection (2) applies are not to be treated as failing to secure that the conditions in subsection (3) are met by reason only of—
+(4)[^c-5e8f26cad1c204ffb842898ae8b453c4] Trusts to which subsection (2) applies are not to be treated as failing to secure that the conditions in subsection (3) are met by reason only of—
 
 - (a) the trustees' having powers that enable them to apply in any tax year otherwise than for the benefit of the relevant minor amounts (whether consisting of income or capital, or both) not exceeding the annual limit,
 - (b) the trustees' having the powers conferred by section 32 of the Trustee Act 1925 (powers of advancement),
@@ -75,8 +75,8 @@ which secure that the conditions in subsection (3) are met.
 
 ## Annotations
 
-[^key-dc87b4197818035c5457962a84d7d878]: Textual amendment: S. 35(2)(c) and word inserted (8.4.2010) by [Crime and Security Act 2010 (c. 17)](https://www.legislation.gov.uk/ukpga/2010/17), [s. 59(2)](https://www.legislation.gov.uk/ukpga/2010/17/section/59/2), [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2010/17/schedule/2/paragraph/4)
+[^c-dc87b4197818035c5457962a84d7d878]: Textual amendment: S. 35(2)(c) and word inserted (8.4.2010) by [Crime and Security Act 2010 (c. 17)](https://www.legislation.gov.uk/ukpga/2010/17), [s. 59(2)](https://www.legislation.gov.uk/ukpga/2010/17/section/59/2), [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2010/17/schedule/2/paragraph/4)
 
-[^key-fddf406c1692e533a4a84b832960a9c1]: Textual amendment: S. 35(3)(c)(ii) substituted (with effect in accordance with Sch. 44 para. 18 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 44 para. 16(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/44/paragraph/16/2)
+[^c-fddf406c1692e533a4a84b832960a9c1]: Textual amendment: S. 35(3)(c)(ii) substituted (with effect in accordance with Sch. 44 para. 18 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 44 para. 16(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/44/paragraph/16/2)
 
-[^key-5e8f26cad1c204ffb842898ae8b453c4]: Textual amendment: S. 35(4)-(4E) substituted for s. 35(4) (with effect in accordance with Sch. 44 para. 18 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 44 para. 16(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/44/paragraph/16/3)
+[^c-5e8f26cad1c204ffb842898ae8b453c4]: Textual amendment: S. 35(4)-(4E) substituted for s. 35(4) (with effect in accordance with Sch. 44 para. 18 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 44 para. 16(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/44/paragraph/16/3)

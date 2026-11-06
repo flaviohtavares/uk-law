@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 91. Payment thresholds[^key-ee3594c9def6e5110c197767c1b9cdee]
+## 91. Payment thresholds[^c-ee3594c9def6e5110c197767c1b9cdee]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ee3594c9def6e5110c197767c1b9cdee]: Commencement: Reg. 91 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-ee3594c9def6e5110c197767c1b9cdee]: Commencement: Reg. 91 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

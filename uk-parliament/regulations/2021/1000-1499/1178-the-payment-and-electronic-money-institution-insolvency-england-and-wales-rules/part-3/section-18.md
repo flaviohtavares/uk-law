@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Notice requiring statement of affairs[^key-9d6dab6439254466cdd30bf13f637a75]
+## 18. Notice requiring statement of affairs[^c-9d6dab6439254466cdd30bf13f637a75]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9d6dab6439254466cdd30bf13f637a75]: Commencement: Rule 18 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-9d6dab6439254466cdd30bf13f637a75]: Commencement: Rule 18 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
 
 [^f00010]: Footnote: Section 235 was amended by [S.I. 2011/245](https://www.legislation.gov.uk/uksi/2011/245). There are other amending instruments but none is relevant.

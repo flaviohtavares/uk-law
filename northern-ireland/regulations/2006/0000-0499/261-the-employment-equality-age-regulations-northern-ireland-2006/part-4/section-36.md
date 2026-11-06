@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 36. Exception for provision of life assurance cover to retired workers[^key-ac162a2610debbddad5b6e7c516f373a]
+## 36. Exception for provision of life assurance cover to retired workers[^c-ac162a2610debbddad5b6e7c516f373a]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ac162a2610debbddad5b6e7c516f373a]: Commencement: [Reg. 36](https://www.legislation.gov.uk/nisr/2006/261/regulation/36) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-ac162a2610debbddad5b6e7c516f373a]: Commencement: [Reg. 36](https://www.legislation.gov.uk/nisr/2006/261/regulation/36) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)

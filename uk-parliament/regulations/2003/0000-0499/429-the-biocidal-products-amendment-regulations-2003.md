@@ -49,23 +49,23 @@ The Secretary of State, being the Minister designated [^c5001681]for the purpose
 
 ## 1. Citation, commencement and extent
 
-These Regulations may be cited as the Biocidal Products (Amendment) Regulations 2003, come into force on 1st April 2003 and extend to the United Kingdom. *(affected by repeal, see note)*[^key-b797dd6d9966f5f893b0a44715b2ccb3]
+These Regulations may be cited as the Biocidal Products (Amendment) Regulations 2003, come into force on 1st April 2003 and extend to the United Kingdom. *(affected by repeal, see note)*[^c-b797dd6d9966f5f893b0a44715b2ccb3]
 
 ## 2. Interpretation
 
-In these Regulations— *(affected by repeal, see note)*[^key-b797dd6d9966f5f893b0a44715b2ccb3]
+In these Regulations— *(affected by repeal, see note)*[^c-b797dd6d9966f5f893b0a44715b2ccb3]
 
-- “ the Great Britain Regulations” means the Biocidal Products Regulations 2001; *(affected by repeal, see note)*[^key-b797dd6d9966f5f893b0a44715b2ccb3]
-- “the Northern Ireland Regulations” means the Biocidal Products Regulations (Northern Ireland) 2001. *(affected by repeal, see note)*[^key-b797dd6d9966f5f893b0a44715b2ccb3]
+- “ the Great Britain Regulations” means the Biocidal Products Regulations 2001; *(affected by repeal, see note)*[^c-b797dd6d9966f5f893b0a44715b2ccb3]
+- “the Northern Ireland Regulations” means the Biocidal Products Regulations (Northern Ireland) 2001. *(affected by repeal, see note)*[^c-b797dd6d9966f5f893b0a44715b2ccb3]
 
 ## 3. Amendment of the Great Britain Regulations
 
 In the Great Britain Regulations–
 
-- (a)[^key-b797dd6d9966f5f893b0a44715b2ccb3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-b797dd6d9966f5f893b0a44715b2ccb3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-15f411dadf2b9677a2587f592c7125f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-b797dd6d9966f5f893b0a44715b2ccb3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-b797dd6d9966f5f893b0a44715b2ccb3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-b797dd6d9966f5f893b0a44715b2ccb3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-15f411dadf2b9677a2587f592c7125f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-b797dd6d9966f5f893b0a44715b2ccb3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 4. Amendment of the Northern Ireland Regulations
 
@@ -100,7 +100,7 @@ Minister of State,
 
 Department for Work and Pensions
 
-## SCHEDULE 1[^key-15f411dadf2b9677a2587f592c7125f9]
+## SCHEDULE 1[^c-15f411dadf2b9677a2587f592c7125f9]
 
 **No longer in force.**
 
@@ -270,6 +270,6 @@ Regulation 4
 
 [^c5001691]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). As regards Scotland, see also section 57(1) of the Scotland Act 1998(c. 46), which provides that, despite the transfer to the Scottish Ministers by virtue of section 53 of that Act of functions in relation to observing and implementing Community law, any function of a Minister of the Crown in relation to any matter shall continue to be exercisable by him as regards Scotland for the purposes of section 2(2) European Communities Act 1972.
 
-[^key-b797dd6d9966f5f893b0a44715b2ccb3]: Textual amendment: Regulations revoked in part (1.9.2013) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations 2013 (S.I. 2013/1506)](https://www.legislation.gov.uk/uksi/2013/1506), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1506/regulation/1), [34(b)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/34/b) (with [regs. 3(4)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/4)[(5)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/5), [31](https://www.legislation.gov.uk/uksi/2013/1506/regulation/31), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/1506/schedule/2))
+[^c-b797dd6d9966f5f893b0a44715b2ccb3]: Textual amendment: Regulations revoked in part (1.9.2013) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations 2013 (S.I. 2013/1506)](https://www.legislation.gov.uk/uksi/2013/1506), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1506/regulation/1), [34(b)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/34/b) (with [regs. 3(4)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/4)[(5)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/5), [31](https://www.legislation.gov.uk/uksi/2013/1506/regulation/31), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/1506/schedule/2))
 
-[^key-15f411dadf2b9677a2587f592c7125f9]: Textual amendment: Sch. 1 revoked (1.9.2013) by [The Biocidal Products (Fees and Charges) Regulations 2013 (S.I. 2013/1507)](https://www.legislation.gov.uk/uksi/2013/1507), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1507/regulation/1/1), [8(1)(b)](https://www.legislation.gov.uk/uksi/2013/1507/regulation/8/1/b) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1507/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2013/1507/regulation/1/3), [8(3)](https://www.legislation.gov.uk/uksi/2013/1507/regulation/8/3))
+[^c-15f411dadf2b9677a2587f592c7125f9]: Textual amendment: Sch. 1 revoked (1.9.2013) by [The Biocidal Products (Fees and Charges) Regulations 2013 (S.I. 2013/1507)](https://www.legislation.gov.uk/uksi/2013/1507), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1507/regulation/1/1), [8(1)(b)](https://www.legislation.gov.uk/uksi/2013/1507/regulation/8/1/b) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1507/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2013/1507/regulation/1/3), [8(3)](https://www.legislation.gov.uk/uksi/2013/1507/regulation/8/3))

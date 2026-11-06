@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Where the EU urgent action procedure is initiated in relation to a medicinal product or class of medicinal products authorised for sale or supply under a UKMA(NI),[^key-8707fcee2369dd5d2aeeb75cbe1b870d] UKMA(UK)(Category 2)[^key-d9c72cd2dce6ad20261688a6d3fa724c], THR(NI), THR(UK) or Article 126a authorisation, the licensing authority—
+(1) Where the EU urgent action procedure is initiated in relation to a medicinal product or class of medicinal products authorised for sale or supply under a UKMA(NI),[^c-8707fcee2369dd5d2aeeb75cbe1b870d] UKMA(UK)(Category 2)[^c-d9c72cd2dce6ad20261688a6d3fa724c], THR(NI), THR(UK) or Article 126a authorisation, the licensing authority—
 
 - (a) may publicly announce the initiation of the EU urgent action procedure on the UK web-portal; and
 - (b) must implement the measures set out in any agreement reached under Article 107k of the 2001 Directive in relation to the medicinal product or class of medicinal products in accordance with the implementation timetable determined in the agreement.
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8707fcee2369dd5d2aeeb75cbe1b870d]: Textual amendment: Words in reg. 197(1) inserted (31.12.2020) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [reg. 157](https://www.legislation.gov.uk/uksi/2019/775/regulation/157) (as amended by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 125](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/125)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8707fcee2369dd5d2aeeb75cbe1b870d]: Textual amendment: Words in reg. 197(1) inserted (31.12.2020) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [reg. 157](https://www.legislation.gov.uk/uksi/2019/775/regulation/157) (as amended by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 125](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/125)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d9c72cd2dce6ad20261688a6d3fa724c]: Textual amendment: Words in [reg. 197(1)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/197/1) substituted (1.1.2025) by [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [88](https://www.legislation.gov.uk/uksi/2024/832/regulation/88)
+[^c-d9c72cd2dce6ad20261688a6d3fa724c]: Textual amendment: Words in [reg. 197(1)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/197/1) substituted (1.1.2025) by [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [88](https://www.legislation.gov.uk/uksi/2024/832/regulation/88)

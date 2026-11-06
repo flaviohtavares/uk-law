@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2 — ... share incentive plans[^key-183d076b68bc5f3fb24b8cb117cfc393]
+## SCHEDULE 2 — ... share incentive plans[^c-183d076b68bc5f3fb24b8cb117cfc393]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,9 +24,9 @@ Section 488
 
 ### Part 1 — Introduction
 
-#### Introduction to Schedule 2 share incentive plans (SIPs)[^key-328c64c3bbb478c341288471e02a65ab]
+#### Introduction to Schedule 2 share incentive plans (SIPs)[^c-328c64c3bbb478c341288471e02a65ab]
 
-**1.** (A1)[^key-030219795bbe826035553e6f826537c6] For the purposes of the SIP code a share incentive plan (a “SIP”) is a Schedule 2 SIP if the requirements of Parts 2 to 9 of this Schedule are met in relation to the SIP.
+**1.** (A1)[^c-030219795bbe826035553e6f826537c6] For the purposes of the SIP code a share incentive plan (a “SIP”) is a Schedule 2 SIP if the requirements of Parts 2 to 9 of this Schedule are met in relation to the SIP.
 
 (3) The requirements consist of general requirements (see Part 2) and requirements as to—
 
@@ -38,13 +38,13 @@ Section 488
 - cash dividends and dividend shares (see Part 8), and
 - the trustees (see Part 9).
 
-(4)[^key-0d97b5e644bdf8e7dda81a570c2d27fa] Sub-paragraph (A1) is subject to Part 10 of this Schedule which—
+(4)[^c-0d97b5e644bdf8e7dda81a570c2d27fa] Sub-paragraph (A1) is subject to Part 10 of this Schedule which—
 
 - (a) requires notice of a plan to be given to Her Majesty's Revenue and Customs (“HMRC”) in order for the plan to be a Schedule 2 SIP (see paragraph 81A(1)),
 - (b) provides for a plan in relation to which such notice is given to be a Schedule 2 SIP (see paragraph 81A(4)), and
 - (c) gives power to HMRC to enquire into a plan and to decide that the plan should not be a Schedule 2 SIP (see paragraphs 81F to 81I).
 
-(5)[^key-1192e4f7645c47d3ec0661dd2c960e1b] Sub-paragraph (A1) is also subject to Part 10A of this Schedule (disqualifying events).
+(5)[^c-1192e4f7645c47d3ec0661dd2c960e1b] Sub-paragraph (A1) is also subject to Part 10A of this Schedule (disqualifying events).
 
 #### SIPs: free shares and partnership shares
 
@@ -109,7 +109,7 @@ under the plan.
 
 #### General requirements ...: introduction
 
-**6.** (1)[^key-c90fbb1d9b863c941dec64859b3fdb99] A SIP must meet the plan requirements contained in—
+**6.** (1)[^c-c90fbb1d9b863c941dec64859b3fdb99] A SIP must meet the plan requirements contained in—
 
 - paragraph 7 (the purpose of the plan),
 - paragraph 8 (all-employee nature of plan),
@@ -118,19 +118,19 @@ under the plan.
 - paragraph 11 (no further conditions), and
 - paragraph 12 (no loan arrangements).
 
-(2)[^key-243d3f1e0c3f8d1b9083a3c78da266af] The requirements of this Part are also to be taken to include the requirements of paragraphs 89 and 90 (plan termination notices etc).
+(2)[^c-243d3f1e0c3f8d1b9083a3c78da266af] The requirements of this Part are also to be taken to include the requirements of paragraphs 89 and 90 (plan termination notices etc).
 
 #### The purpose of the plan
 
-**7.** (1) The purpose of the plan must be to provide, in accordance with this Schedule,[^key-5035914671d9038cd0ec7b3401fe6615] benefits to employees in the form[^key-a67c0fda0b9c232822179226af630e2f] of shares in a company which give them a continuing stake in that company.
+**7.** (1) The purpose of the plan must be to provide, in accordance with this Schedule,[^c-5035914671d9038cd0ec7b3401fe6615] benefits to employees in the form[^c-a67c0fda0b9c232822179226af630e2f] of shares in a company which give them a continuing stake in that company.
 
-(1A)[^key-fe11668c6285f5eebe420c04d24d7360] The plan must not provide benefits to employees otherwise than in accordance with this Schedule.
+(1A)[^c-fe11668c6285f5eebe420c04d24d7360] The plan must not provide benefits to employees otherwise than in accordance with this Schedule.
 
 (1B) For example, the plan must not provide cash to employees as an alternative to shares.
 
 (1C) Sub-paragraph (1A) does not prohibit an employee receiving a benefit from a company as a result of any shares in that company being held on the employee's behalf under the plan where the employee would have received the same benefit from the company had the shares been acquired by the employee otherwise than by virtue of the plan.
 
-(2)[^key-231ed8429f3a96240c90edaf8220a88d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-231ed8429f3a96240c90edaf8220a88d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### All-employee nature of plan
 
@@ -141,10 +141,10 @@ under the plan.
 
 is eligible to participate in the award, and is invited to do so.
 
-(2)[^key-754c927589acf234e9d368d9f73e8f31] An employee is a UK resident taxpayer if—
+(2)[^c-754c927589acf234e9d368d9f73e8f31] An employee is a UK resident taxpayer if—
 
-- (a) the employee's earnings from the employment by reference to which the employee meets the employment requirement are (or would be if there were any) general earnings to which section 15 applies (earnings for year when employee UK resident) [^key-c23790388fae0556e8876103b0ece476]...
-- (b)[^key-c23790388fae0556e8876103b0ece476] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) the employee's earnings from the employment by reference to which the employee meets the employment requirement are (or would be if there were any) general earnings to which section 15 applies (earnings for year when employee UK resident) [^c-c23790388fae0556e8876103b0ece476]...
+- (b)[^c-c23790388fae0556e8876103b0ece476] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The plan must not contain any feature which has or is likely to have the effect of discouraging any description of employees within sub-paragraph (1) from participating in an award of shares under the plan.
 
@@ -232,8 +232,8 @@ but this is subject to sub-paragraph (4).
 
 - paragraph 14 (time of eligibility to participate),
 - paragraph 15 (the employment requirement),
-- paragraph 18 (requirement not to participate simultaneously in connected SIPs),[^key-81588badaa22ad7a3b9eca759270ad37] and[^key-2cdd327722659582202a3d7c73263597] paragraph 18A (successive participation in connected SIPs)
-- [^key-6717de552bdad2300605a62657f7dbb4]...
+- paragraph 18 (requirement not to participate simultaneously in connected SIPs),[^c-81588badaa22ad7a3b9eca759270ad37] and[^c-2cdd327722659582202a3d7c73263597] paragraph 18A (successive participation in connected SIPs)
+- [^c-6717de552bdad2300605a62657f7dbb4]...
 
 #### Time of eligibility to participate
 
@@ -254,9 +254,9 @@ but this is subject to sub-paragraph (4).
 (7) For the purposes of this paragraph an individual is eligible to participate in an award of shares under the plan if and only if the requirements of the plan are met as to—
 
 - (a) employment (see paragraph 15),
-- (b)[^M_F_66734ad8-bcca-4448-9d2f-0addcd796641] not participating simultaneously in connected SIPs (see paragraph 18), and[^key-10dcbfca06e1cea0fe95d1d16a62c038]
-- (ba) successive participation in connected SIPs (see paragraph 18A), [^key-c3b4b6811ae835135d6e4959c8cf24de]...
-- (c)[^key-c3b4b6811ae835135d6e4959c8cf24de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^M_F_66734ad8-bcca-4448-9d2f-0addcd796641] not participating simultaneously in connected SIPs (see paragraph 18), and[^c-10dcbfca06e1cea0fe95d1d16a62c038]
+- (ba) successive participation in connected SIPs (see paragraph 18A), [^c-c3b4b6811ae835135d6e4959c8cf24de]...
+- (c)[^c-c3b4b6811ae835135d6e4959c8cf24de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) In the case of an individual within paragraph 8(5) (all-employee nature of plan: non-UK resident taxpayer), the individual is not eligible to participate in an award of shares under the plan unless (in addition to the requirements mentioned in sub-paragraph (7)) any further eligibility requirements of the plan are met.
 
@@ -331,7 +331,7 @@ but this is subject to sub-paragraph (4).
 **18.** (1) The plan must provide that an individual is not eligible to participate in an award of free, matching or partnership shares under the plan in a tax year if the individual—
 
 - (a)[^M_F_1e83f5db-380f-44bc-db47-729b9ea32ae9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) is at the same time to participate, in an award of shares under another Schedule 2[^key-b121d85b51e0844219342589e6955820] SIP established by the company or a connected company.
+- (b) is at the same time to participate, in an award of shares under another Schedule 2[^c-b121d85b51e0844219342589e6955820] SIP established by the company or a connected company.
 
 (2) For the purposes of this paragraph an individual is to be treated as having participated in an award of free shares under a SIP if the individual would have participated in that award but for the individual’s failure to obtain a performance allowance (see paragraph 34).
 
@@ -341,7 +341,7 @@ but this is subject to sub-paragraph (4).
 
 **No longer in force.**
 
-**18A.** (1) The plan must provide that, if an individual participates in an award of shares under the plan in a tax year in which he has already participated in an award of shares under one or more other Schedule 2[^key-fcd11828f6d375aef4c5aaf8aecd62ee] SIPs established by the company or a connected company—
+**18A.** (1) The plan must provide that, if an individual participates in an award of shares under the plan in a tax year in which he has already participated in an award of shares under one or more other Schedule 2[^c-fcd11828f6d375aef4c5aaf8aecd62ee] SIPs established by the company or a connected company—
 
 - (a) paragraph 35 (maximum annual award of free shares),
 - (b) paragraph 46 (maximum amount of partnership share money deductions), and (c)paragraph 64 (limit on amount reinvested), apply as if the plan and the other plan or plans were a single plan.
@@ -350,27 +350,27 @@ but this is subject to sub-paragraph (4).
 
 #### The “no material interest” requirement
 
-**19.**[^key-f569abf3c32a34c724c354bd353457c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-f569abf3c32a34c724c354bd353457c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Meaning of “material interest”
 
-**20.**[^key-f569abf3c32a34c724c354bd353457c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-f569abf3c32a34c724c354bd353457c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Material interest: options and interests in SIPs
 
-**21.**[^key-f569abf3c32a34c724c354bd353457c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-f569abf3c32a34c724c354bd353457c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Meaning of “associate”
 
-**22.**[^key-f569abf3c32a34c724c354bd353457c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-f569abf3c32a34c724c354bd353457c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Meaning of “associate”: trustees of employee benefit trust
 
-**23.**[^key-f569abf3c32a34c724c354bd353457c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-f569abf3c32a34c724c354bd353457c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Meaning of “associate”: trustees of discretionary trust
 
-**24.**[^key-f569abf3c32a34c724c354bd353457c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-f569abf3c32a34c724c354bd353457c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part 4 — Types of shares that may be awarded
 
@@ -380,9 +380,9 @@ but this is subject to sub-paragraph (4).
 
 - paragraph 26 (shares must be part of ordinary share capital of certain companies),
 - paragraph 27 (requirement as to listing etc.),
-- paragraph 28 (shares must be fully paid up and not redeemable), and[^key-72a2d9e510c789d21db05c383128845a]
+- paragraph 28 (shares must be fully paid up and not redeemable), and[^c-72a2d9e510c789d21db05c383128845a]
 - paragraph 29 (prohibited shares)
-- [^key-3d032fb50c90449d076c4fe82da960e3]...
+- [^c-3d032fb50c90449d076c4fe82da960e3]...
 
 (2) In this Part of this Schedule “**eligible shares**” means shares that may be awarded under the plan.
 
@@ -399,8 +399,8 @@ but this is subject to sub-paragraph (4).
 **27.** (1) Eligible shares must be—
 
 - (a) shares of a class listed on a recognised stock exchange,
-- (b) shares in a company which is not under the control of another company, [^key-d15ae957f397fc2093774d4ec09e216d]...
-- (ba)[^key-c24812a4cf54cae60815d0e015ff9f75] shares in a company which is subject to an employee-ownership trust, or
+- (b) shares in a company which is not under the control of another company, [^c-d15ae957f397fc2093774d4ec09e216d]...
+- (ba)[^c-c24812a4cf54cae60815d0e015ff9f75] shares in a company which is subject to an employee-ownership trust, or
 - (c) shares in a company which is under the control of a listed company.
 
 (2) A “listed company” is a company whose shares are listed on a recognised stock exchange, other than—
@@ -408,7 +408,7 @@ but this is subject to sub-paragraph (4).
 - (a) a close company, or
 - (b) a company that would be a close company if resident in the United Kingdom.
 
-(3)[^key-c8f1be8ae1a4c7f105b9ae525e8a1156] But a company is not a close company for the purposes of sub-paragraph (2) if it is subject to an employee-ownership trust.
+(3)[^c-c8f1be8ae1a4c7f105b9ae525e8a1156] But a company is not a close company for the purposes of sub-paragraph (2) if it is subject to an employee-ownership trust.
 
 (4) A company (“C”) is “subject to an employee-ownership trust” if—
 
@@ -443,9 +443,9 @@ but this is subject to sub-paragraph (4).
 
 (3) For the purposes of sub-paragraph (1)(b) “redeemable” shares include shares that may become redeemable at a future date.
 
-(4) Sub-paragraph (1)(b) does not apply to shares in a registered co-operative society[^key-caca2e0695f6041b465d9331077e11a2].
+(4) Sub-paragraph (1)(b) does not apply to shares in a registered co-operative society[^c-caca2e0695f6041b465d9331077e11a2].
 
-(5)[^key-b93bf94d79b32c493ae93512ec2db788] In sub-paragraph (4) “**registered co-operative society**” means—
+(5)[^c-b93bf94d79b32c493ae93512ec2db788] In sub-paragraph (4) “**registered co-operative society**” means—
 
 - (a) a society registered as a co-operative society under the Co-operative and Community Benefit Societies Act 2014,
 - (b) a pre-commencement society (within the meaning of that Act) that is a co-operative society within the meaning of section 2 of that Act,
@@ -476,23 +476,23 @@ but this is subject to sub-paragraph (4).
 - (a) a partnership is to be treated as a single person; and
 - (b) where a partner (alone or together with others) has control of a company, the partnership is to be treated as having (in the same way) control of that company.
 
-(5) For the purposes of this paragraph the question whether a person controls a company is to be determined in accordance with sections 450 and 451 of CTA 2010[^key-4e564688cba1a12a7db5a0690cdd5dde].
+(5) For the purposes of this paragraph the question whether a person controls a company is to be determined in accordance with sections 450 and 451 of CTA 2010[^c-4e564688cba1a12a7db5a0690cdd5dde].
 
 #### Only certain kinds of restriction allowed
 
-**30.**[^key-3b2e44a6bfbf24d47f014f11416033c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**30.**[^c-3b2e44a6bfbf24d47f014f11416033c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Permitted restrictions: voting rights
 
-**31.**[^key-3b2e44a6bfbf24d47f014f11416033c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**31.**[^c-3b2e44a6bfbf24d47f014f11416033c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Permitted restrictions: provision for forfeiture
 
-**32.**[^key-3b2e44a6bfbf24d47f014f11416033c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**32.**[^c-3b2e44a6bfbf24d47f014f11416033c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Permitted restrictions: pre-emption conditions
 
-**33.**[^key-3b2e44a6bfbf24d47f014f11416033c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**33.**[^c-3b2e44a6bfbf24d47f014f11416033c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part 5 — Free shares
 
@@ -521,15 +521,15 @@ to be conditional on performance targets being met.
 
 #### Maximum annual award
 
-**35.** (1) The plan must provide that the initial market value of the free shares awarded to a participant in a tax year is not to exceed £3,600[^key-e72fa9bfcc8d2ee29ccf8530213ea109] .
+**35.** (1) The plan must provide that the initial market value of the free shares awarded to a participant in a tax year is not to exceed £3,600[^c-e72fa9bfcc8d2ee29ccf8530213ea109] .
 
 (2) The “**initial market value**” of shares means their market value on the date on which they are awarded.
 
-(2A)[^key-2790893a99cb2642cb534e4621b388c5] The Treasury may by order amend sub-paragraph (1) by substituting for any amount for the time being specified there an amount specified in the order.
+(2A)[^c-2790893a99cb2642cb534e4621b388c5] The Treasury may by order amend sub-paragraph (1) by substituting for any amount for the time being specified there an amount specified in the order.
 
-(3)[^key-2590d5e80ed0f4eaa78275134cfdddb6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-2590d5e80ed0f4eaa78275134cfdddb6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-2590d5e80ed0f4eaa78275134cfdddb6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-2590d5e80ed0f4eaa78275134cfdddb6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The holding period
 
@@ -565,7 +565,7 @@ to be conditional on performance targets being met.
 (3) The participant may direct the trustees to agree to a transaction affecting the participant’s free shares, or such of them as are of a particular class, if the transaction would be entered into as a result of a compromise, arrangement or scheme applicable to or affecting—
 
 - (a) all the ordinary share capital of the company or, as the case may be, all the shares of the class in question, or
-- (b) all the shares, or all the shares of the class in question, which are held by a class of shareholders identified otherwise than by reference to their employment or their participation in a Schedule 2[^key-e34579392d278132712e91552228f6f8] SIP.
+- (b) all the shares, or all the shares of the class in question, which are held by a class of shareholders identified otherwise than by reference to their employment or their participation in a Schedule 2[^c-e34579392d278132712e91552228f6f8] SIP.
 
 (4) The participant may direct the trustees to accept an offer for the participant’s free shares of—
 
@@ -579,9 +579,9 @@ if the offer forms part of a general offer falling within sub-paragraph (5).
 - (a) it is made to holders of shares of the same class as the participant’s or to holders of shares in the same company, and
 - (b) it is made in the first instance on a condition such that if it is satisfied the person making the offer will have control of that company.
 
-(6) In sub-paragraph (5) “**control**” has the meaning given by sections 450 and 451 of CTA 2010[^key-cf061f1d6433630733df448d92e2df49].
+(6) In sub-paragraph (5) “**control**” has the meaning given by sections 450 and 451 of CTA 2010[^c-cf061f1d6433630733df448d92e2df49].
 
-(7)[^key-4b6ffb87096e6674cdbf295c9cbb34fb] For the purposes of sub-paragraph (5) it does not matter if the general offer is made to different shareholders by different means.
+(7)[^c-4b6ffb87096e6674cdbf295c9cbb34fb] For the purposes of sub-paragraph (5) it does not matter if the general offer is made to different shareholders by different means.
 
 (8) If in the case of a takeover offer (as defined in section 974 of the Companies Act 2006) there arises a right under section 983 of that Act to require the offeror to acquire the participant's free shares, or such of them as are of a particular class, the participant may direct the trustees to exercise that right.
 
@@ -673,9 +673,9 @@ if the offer forms part of a general offer falling within sub-paragraph (5).
 
 (2) The plan must meet any plan requirements contained in those paragraphs.
 
-(2A)[^key-a4e5737275fc920b58f8b687cd0d4605] The plan must provide that partnership shares are not to be subject to any provision for forfeiture.
+(2A)[^c-a4e5737275fc920b58f8b687cd0d4605] The plan must provide that partnership shares are not to be subject to any provision for forfeiture.
 
-(2B)[^key-1462fc5130cbcb8cf05f54e170a01525] Partnership shares may (notwithstanding sub-paragraph (2A) if relevant) be subject to provision requiring partnership shares acquired on behalf of an employee to be offered for sale but only if the requirement of sub-paragraph (2C) is met.
+(2B)[^c-1462fc5130cbcb8cf05f54e170a01525] Partnership shares may (notwithstanding sub-paragraph (2A) if relevant) be subject to provision requiring partnership shares acquired on behalf of an employee to be offered for sale but only if the requirement of sub-paragraph (2C) is met.
 
 (2C) The consideration at which the shares are required to be offered for sale must be at least equal to—
 
@@ -725,38 +725,38 @@ but this does not prevent the employee and the company agreeing to vary those am
 
 #### Maximum amount of deductions
 
-**46.** (1) The amount of partnership share money deducted from an employee’s salary must not exceed £1,800[^key-2c8ac49ef66f38fb8c79cabb6c2e2a1b] in any tax year.
+**46.** (1) The amount of partnership share money deducted from an employee’s salary must not exceed £1,800[^c-2c8ac49ef66f38fb8c79cabb6c2e2a1b] in any tax year.
 
-(2) The amount of partnership share money deducted from an employee’s salary for any tax year must not exceed 10% of the employee’s salary for the tax year.[^key-f9937e974603b237ddf20758ba1c6347]
+(2) The amount of partnership share money deducted from an employee’s salary for any tax year must not exceed 10% of the employee’s salary for the tax year.[^c-f9937e974603b237ddf20758ba1c6347]
 
 (3) The plan may authorise the company to specify lower limits than those specified in sub-paragraphs (1) and (2).
 
 (4) If it does so, different limits may be specified in relation to different awards of shares.
 
-(4A)[^key-aefa716681a74b699705e8bef25d98d1] A limit lower than that specified in sub-paragraph (2) may be framed—
+(4A)[^c-aefa716681a74b699705e8bef25d98d1] A limit lower than that specified in sub-paragraph (2) may be framed—
 
 - (a) as a proposition substituting a percentage lower than that so specified, or
 - (b) as a proposition that a particular description of earnings is not to be regarded as forming part of an employee’s salary for the purposes of that sub-paragraph.
 
 (5) Any amount deducted in excess of that allowed by sub-paragraph (1) or (2), or any lower limit in the plan, must be paid over to the employee as soon as practicable.
 
-(6)[^key-b5ded8c76ec38168524bc768bbb912fe] The Treasury may by order amend sub-paragraph (1) by substituting for any amount for the time being specified there an amount specified in the order.
+(6)[^c-b5ded8c76ec38168524bc768bbb912fe] The Treasury may by order amend sub-paragraph (1) by substituting for any amount for the time being specified there an amount specified in the order.
 
 #### Minimum amount of deductions
 
-**47.** (1) The plan may provide that the amount to be deducted under a partnership share agreement on any occasion[^key-00edcb5d14c463b1ad7488472305eaba] must not be less than a minimum amount specified in the plan.
+**47.** (1) The plan may provide that the amount to be deducted under a partnership share agreement on any occasion[^c-00edcb5d14c463b1ad7488472305eaba] must not be less than a minimum amount specified in the plan.
 
 (2) The specified minimum amount must not be greater than £10.
 
-(3)[^key-f6af2b061c4d0e63863a9ab0d927582c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-f6af2b061c4d0e63863a9ab0d927582c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Notice of possible effect of deductions on benefit entitlement
 
 **48.** (1) The plan must provide that the company may not enter into a partnership share agreement with an employee unless the agreement contains a notice under this paragraph.
 
-(2) A notice under this paragraph is a notice in a prescribed form containing prescribed information as to the possible effect of deductions on an employee’s entitlement to social security benefits, statutory sick pay , statutory neonatal care pay[^key-61ba2f8acfce4aa493ad661a690376d2] and statutory maternity pay.
+(2) A notice under this paragraph is a notice in a prescribed form containing prescribed information as to the possible effect of deductions on an employee’s entitlement to social security benefits, statutory sick pay , statutory neonatal care pay[^c-61ba2f8acfce4aa493ad661a690376d2] and statutory maternity pay.
 
-(3) In this paragraph “**prescribed**” means prescribed by regulations made by the Commissioners for Her Majesty’s Revenue and Customs[^key-59f00b3f07e4580bd56377d1e1c262f6].
+(3) In this paragraph “**prescribed**” means prescribed by regulations made by the Commissioners for Her Majesty’s Revenue and Customs[^c-59f00b3f07e4580bd56377d1e1c262f6].
 
 #### Partnership share money held for employee
 
@@ -769,9 +769,9 @@ but this does not prevent the employee and the company agreeing to vary those am
 
 (3) The plan must provide for the trustees to keep any money required to be held by them under this paragraph in an account (interest bearing or otherwise) with—
 
-- (a) a person falling within section 991(2)(b) of ITA 2007[^key-6ce4fa5272eaf9bb014af6aba1a20c54] (certain institutions permitted to accept deposits),
+- (a) a person falling within section 991(2)(b) of ITA 2007[^c-6ce4fa5272eaf9bb014af6aba1a20c54] (certain institutions permitted to accept deposits),
 - (b) a building society, or
-- (c) a firm falling within section 991(2)(c) of ITA 2007[^key-f50008c3843019313551d26e9e164c0a] (EEA firms permitted to accept deposits).
+- (c) a firm falling within section 991(2)(c) of ITA 2007[^c-f50008c3843019313551d26e9e164c0a] (EEA firms permitted to accept deposits).
 
 (4) The plan must provide for the trustees to account to an employee for the interest if the partnership share money held on behalf of the employee is held in an interest bearing account.
 
@@ -819,18 +819,18 @@ the partnership share agreement is to have effect after the time of the transact
 
 (2) The plan must provide for the partnership share money deducted in each accumulation period under a partnership share agreement to be applied by the trustees in acquiring partnership shares on behalf of the employee on the acquisition date.
 
-(2A)[^key-1ed3d6b7a62affe1561a9de6d391ca6c] The number of shares awarded to the employee must be determined in accordance with one of sub-paragraphs (3), (3A) and (3B) and the partnership share agreement must specify which one of those sub-paragraphs is to apply for the purposes of the agreement.
+(2A)[^c-1ed3d6b7a62affe1561a9de6d391ca6c] The number of shares awarded to the employee must be determined in accordance with one of sub-paragraphs (3), (3A) and (3B) and the partnership share agreement must specify which one of those sub-paragraphs is to apply for the purposes of the agreement.
 
-(3) If the agreement specifies that this sub-paragraph is to apply, the number of shares awarded to the[^key-0b4d83ae2bc704df36a2ac62a4474e3b] employee must be determined in accordance with the lower of—
+(3) If the agreement specifies that this sub-paragraph is to apply, the number of shares awarded to the[^c-0b4d83ae2bc704df36a2ac62a4474e3b] employee must be determined in accordance with the lower of—
 
 - (a) the market value of the shares at the beginning of the accumulation period, and
 - (b) the market value of the shares on the acquisition date.
 
-(3A)[^key-6087de971cd3f8224a88f6ff883c2e12] If the agreement specifies that this sub-paragraph is to apply, the number of shares awarded to the employee must be determined in accordance with the market value of the shares at the beginning of the accumulation period.
+(3A)[^c-6087de971cd3f8224a88f6ff883c2e12] If the agreement specifies that this sub-paragraph is to apply, the number of shares awarded to the employee must be determined in accordance with the market value of the shares at the beginning of the accumulation period.
 
 (3B) If the agreement specifies that this sub-paragraph is to apply, the number of shares awarded to the employee must be determined in accordance with the market value of the shares on the acquisition date.
 
-(4) Sub-paragraphs (2) to (3B)[^key-a62d60349b74cd977f5d270f698849af] are subject to sub-paragraphs (7) and (8) and to paragraph 53 (restriction on number of shares awarded).
+(4) Sub-paragraphs (2) to (3B)[^c-a62d60349b74cd977f5d270f698849af] are subject to sub-paragraphs (7) and (8) and to paragraph 53 (restriction on number of shares awarded).
 
 (5) In sub-paragraphs (2) to (3B) “**the acquisition date**” means the date set by the trustees in relation to the award of partnership shares, which must be not later than 30 days after the end of the accumulation period which applies in relation to the award.
 
@@ -890,13 +890,13 @@ the partnership share agreement is to have effect after the time of the transact
 
 (4) In this paragraph “**notice**” means notice in writing.
 
-#### Repayment of partnership share money on plan ceasing to be a Schedule 2 SIP or termination[^key-ff97ed6ed9663290b2e3d2ae639f2b6b]
+#### Repayment of partnership share money on plan ceasing to be a Schedule 2 SIP or termination[^c-ff97ed6ed9663290b2e3d2ae639f2b6b]
 
-**56.** (1) The plan must provide that, where the plan is not to be a Schedule 2[^key-00ff31e106c9a7b976d4edc485847142] SIP by virtue of paragraph 81H or 81I, any partnership share money held on behalf of an employee is to be paid over to the employee.
+**56.** (1) The plan must provide that, where the plan is not to be a Schedule 2[^c-00ff31e106c9a7b976d4edc485847142] SIP by virtue of paragraph 81H or 81I, any partnership share money held on behalf of an employee is to be paid over to the employee.
 
-(2) The plan must require the payment to be made as soon as practicable after the relevant day[^key-f9cf7c2a11e52a07cd25eba6b547f19f].
+(2) The plan must require the payment to be made as soon as practicable after the relevant day[^c-f9cf7c2a11e52a07cd25eba6b547f19f].
 
-(2A)[^key-dcc88c391cbe62fae01a4c774ed74839] If the plan is not to be a Schedule 2 SIP by virtue of paragraph 81H, in sub-paragraph (2) “**the relevant day**” means—
+(2A)[^c-dcc88c391cbe62fae01a4c774ed74839] If the plan is not to be a Schedule 2 SIP by virtue of paragraph 81H, in sub-paragraph (2) “**the relevant day**” means—
 
 - (a) the last day of the period in which notice of an appeal under paragraph 81K(2)(a) may be given, or
 - (b) if notice of such an appeal is given, the day on which the appeal is determined or withdrawn.
@@ -934,7 +934,7 @@ the partnership share agreement is to have effect after the time of the transact
 - (b) awarded on the same day as the partnership shares to which they relate are awarded; and
 - (c) awarded to all employees who participate in the award on exactly the same basis.
 
-(2)[^key-db98d10d1015f7a4f7b331edbba98994] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-db98d10d1015f7a4f7b331edbba98994] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Ratio of matching shares to partnership shares
 
@@ -947,7 +947,7 @@ the partnership share agreement is to have effect after the time of the transact
 
 (3) A partnership share agreement must provide for the employee to be informed by the company if the ratio offered by the company changes before partnership shares are awarded to the employee under the agreement.
 
-(4)[^key-700e237a13bcecbb4847ef05bb139427] The Treasury may by order amend sub-paragraph (2) by substituting for any ratio for the time being specified there a ratio specified in the order.
+(4)[^c-700e237a13bcecbb4847ef05bb139427] The Treasury may by order amend sub-paragraph (2) by substituting for any ratio for the time being specified there a ratio specified in the order.
 
 #### Holding period for matching shares
 
@@ -957,14 +957,14 @@ the partnership share agreement is to have effect after the time of the transact
 
 #### Reinvestment of cash dividends
 
-**62.** (1) A SIP may provide that, where the company so directs, the trustees must apply some or all of the[^key-8263b3b8abf686c50114a1733c3aa464] cash dividends in respect of plan shares held on behalf of—
+**62.** (1) A SIP may provide that, where the company so directs, the trustees must apply some or all of the[^c-8263b3b8abf686c50114a1733c3aa464] cash dividends in respect of plan shares held on behalf of—
 
 - (a) all participants, or
 - (b) all participants who elect to reinvest their dividends,
 
 in acquiring further shares on their behalf.
 
-(1A)[^key-71e83f98d1a26cf6371033c007d12f93] The company's direction must set out—
+(1A)[^c-71e83f98d1a26cf6371033c007d12f93] The company's direction must set out—
 
 - (a) the amount of the cash dividends to be applied as mentioned in sub-paragraph (1), or
 - (b) how that amount is to be determined.
@@ -976,7 +976,7 @@ in acquiring further shares on their behalf.
 - (a) the application of cash dividends as mentioned in sub-paragraph (1) is referred to as “**reinvestment**”; and
 - (b) the further plan shares acquired are referred to as “**dividend shares**”.
 
-(4) The company may modify or[^key-ffc82436d0f00cb9b9f694dbc3212e6e] revoke a direction requiring the reinvestment of cash dividends.
+(4) The company may modify or[^c-ffc82436d0f00cb9b9f694dbc3212e6e] revoke a direction requiring the reinvestment of cash dividends.
 
 (5) References in the SIP code to the trustees acquiring dividend shares on behalf of a participant include their appropriating to a participant shares already held by them.
 
@@ -984,7 +984,7 @@ in acquiring further shares on their behalf.
 
 **63.** (1) If a SIP makes the provision authorised by paragraph 62(1) (reinvestment of cash dividends), the following paragraphs apply—
 
-- [^key-a581cc571e93339ada2ca607eeedad89]...
+- [^c-a581cc571e93339ada2ca607eeedad89]...
 - paragraph 65 (general requirements as to dividend shares),
 - paragraph 66 (acquisition of dividend shares),
 - paragraph 67 (holding period for dividend shares), and
@@ -996,16 +996,16 @@ in acquiring further shares on their behalf.
 
 #### Limit on amount reinvested
 
-**64.**[^key-8316765ad7598a85f5bc96a49487aadc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**64.**[^c-8316765ad7598a85f5bc96a49487aadc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### General requirements as to dividend shares
 
-**65.** (1)[^key-9f3d3a92baa4d6721a3a7886df4eb92f] The plan must provide that dividend shares are to be shares—
+**65.** (1)[^c-9f3d3a92baa4d6721a3a7886df4eb92f] The plan must provide that dividend shares are to be shares—
 
 - (a) which are in the same company and of the same class, and carry the same rights, as the shares in respect of which the dividend is paid, and
 - (b) which are not subject to any provision for forfeiture.
 
-(2)[^key-51abb7152b035a584f1b6ca10f203e53] Dividend shares may (notwithstanding sub-paragraph (1)(b) if relevant) be subject to provision requiring dividend shares acquired on behalf of an employee to be offered for sale but only if the requirement of sub-paragraph (3) is met.
+(2)[^c-51abb7152b035a584f1b6ca10f203e53] Dividend shares may (notwithstanding sub-paragraph (1)(b) if relevant) be subject to provision requiring dividend shares acquired on behalf of an employee to be offered for sale but only if the requirement of sub-paragraph (3) is met.
 
 (3) The consideration at which the shares are required to be offered for sale must be at least equal to—
 
@@ -1028,7 +1028,7 @@ in acquiring further shares on their behalf.
 
 #### Reinvestment: amounts to be carried forward
 
-**68.** (1)[^key-036e506b08d2d7e834fca22d56cfd7d3] This paragraph applies where an amount is not reinvested because it is not sufficient to acquire a share.
+**68.** (1)[^c-036e506b08d2d7e834fca22d56cfd7d3] This paragraph applies where an amount is not reinvested because it is not sufficient to acquire a share.
 
 (2) The amount may be retained by the trustees and carried forward to be added to the amount of the next cash dividend to be reinvested.
 
@@ -1036,19 +1036,19 @@ in acquiring further shares on their behalf.
 
 (4) An amount retained under this paragraph must be paid over to the participant—
 
-- (a)[^key-ae9178bb054afc0281e33ea44decf8d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) if [^key-9645deb40cd3e6fa15d9df753d460b17]... the participant ceases to be in relevant employment (see paragraph 95), or
-- (c) if [^key-9645deb40cd3e6fa15d9df753d460b17]... a plan termination notice is issued in respect of the plan (see paragraph 90).
+- (a)[^c-ae9178bb054afc0281e33ea44decf8d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) if [^c-9645deb40cd3e6fa15d9df753d460b17]... the participant ceases to be in relevant employment (see paragraph 95), or
+- (c) if [^c-9645deb40cd3e6fa15d9df753d460b17]... a plan termination notice is issued in respect of the plan (see paragraph 90).
 
 (5) An amount required to be paid over to the participant under sub-paragraph (4) must be paid over as soon as practicable.
 
-(6)[^key-3ff7c4b7ae477d31109f148ff43b8230] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-3ff7c4b7ae477d31109f148ff43b8230] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Cash dividends where no requirement to reinvest
 
 **69.** (1) The plan must require any distributable cash dividends in respect of plan shares held on behalf of a participant to be paid over to the participant as soon as practicable.
 
-(2) “**Distributable cash dividends**” means cash dividends so far as they[^key-2899dd2da0e82b76475028b305769b56] are not required to be reinvested under the plan.
+(2) “**Distributable cash dividends**” means cash dividends so far as they[^c-2899dd2da0e82b76475028b305769b56] are not required to be reinvested under the plan.
 
 ### Part 9 — Trustees
 
@@ -1067,8 +1067,8 @@ in acquiring further shares on their behalf.
 - paragraph 74 (duty to make payments to participants),
 - paragraph 75 (duty to give notice of award of shares etc.),
 - paragraph 76 (power to borrow),
-- paragraph 77 (power to raise funds to subscribe for rights issue), and[^key-d093fa690161c9d4b5df43fceb19537d]
-- [^key-291e4d7cd5cad30d52308748a2286d27]...
+- paragraph 77 (power to raise funds to subscribe for rights issue), and[^c-d093fa690161c9d4b5df43fceb19537d]
+- [^c-291e4d7cd5cad30d52308748a2286d27]...
 - paragraph 80 (other duties in relation to tax liabilities).
 
 #### Establishment of trustees
@@ -1097,9 +1097,9 @@ in acquiring further shares on their behalf.
 
 (6) The terms mentioned in sub-paragraph (5) are to be regarded as reasonably incidental to complying with the requirements of this Part of this Schedule for the purposes of sub-paragraph (4).
 
-#### Duty to monitor participants in connected schemes[^key-6fd80eab5ba1a66dc5ee769e0f0d4739]
+#### Duty to monitor participants in connected schemes[^c-6fd80eab5ba1a66dc5ee769e0f0d4739]
 
-**71A.** The trust instrument must require the trustees to maintain records of participants who have participated in one or more other Schedule 2[^key-7bbd5bd99304783fd856cfe24a8068da] SIPs established by the company or a connected company.
+**71A.** The trust instrument must require the trustees to maintain records of participants who have participated in one or more other Schedule 2[^c-7bbd5bd99304783fd856cfe24a8068da] SIPs established by the company or a connected company.
 
 #### Duty to act in accordance with participant’s directions
 
@@ -1150,16 +1150,16 @@ only in accordance with a direction given by or on behalf of the participant.
 (2) It must provide that, as soon as practicable after any free or matching shares have been awarded to an employee, the trustees must give the employee notice of the award—
 
 - (a) specifying the number and description of those shares,
-- (aa)[^key-5062e7cbb36524f9ecfcce47a799e5af] if the shares are subject to any restriction, giving details of the restriction,
+- (aa)[^c-5062e7cbb36524f9ecfcce47a799e5af] if the shares are subject to any restriction, giving details of the restriction,
 - (b) stating their market value on the date on which they were awarded to the employee, and
 - (c) stating the holding period applicable to them.
 
 (3) It must provide that, as soon as practicable after any partnership shares have been awarded to an employee, the trustees must give the employee notice of the award—
 
 - (a) specifying the number and description of those shares,
-- (aa)[^key-14299cfcd47fed4c6496c7563790d58a] if the shares are subject to any restriction, giving details of the restriction,
+- (aa)[^c-14299cfcd47fed4c6496c7563790d58a] if the shares are subject to any restriction, giving details of the restriction,
 - (b) stating the amount of partnership share money applied by the trustees in acquiring the shares on behalf of the employee, and
-- (c)[^key-0ea3878d2d25133f0a4eb2e5774deeda] stating the market value in accordance with which the number of shares awarded to the employee was determined.
+- (c)[^c-0ea3878d2d25133f0a4eb2e5774deeda] stating the market value in accordance with which the number of shares awarded to the employee was determined.
 
 (4) It must provide that, as soon as practicable after any dividend shares have been acquired on behalf of a participant, the trustees must give the participant notice of the acquisition—
 
@@ -1187,7 +1187,7 @@ only in accordance with a direction given by or on behalf of the participant.
 
 #### Acquisition by trustees of shares from employee share ownership trust
 
-**78.**[^key-fcfd5742261bc8e21098ed89ddf30202] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**78.**[^c-fcfd5742261bc8e21098ed89ddf30202] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Meeting by trustees of PAYE obligations
 
@@ -1205,7 +1205,7 @@ only in accordance with a direction given by or on behalf of the participant.
 
 - section 505 (charge on free or matching shares ceasing to be subject to plan),
 - section 506 (charge on partnership shares ceasing to be subject to plan), or
-- Chapter 3 or 4 of Part 4 of[^key-46660ad6c310254fe53506d293518e98] ITTOIA 2005 (dividends etc. from UK or non-UK resident companies etc.) as a result of section 394(2) or 407(2) of that Act (distribution or dividend payment when dividend shares cease to be subject to plan).
+- Chapter 3 or 4 of Part 4 of[^c-46660ad6c310254fe53506d293518e98] ITTOIA 2005 (dividends etc. from UK or non-UK resident companies etc.) as a result of section 394(2) or 407(2) of that Act (distribution or dividend payment when dividend shares cease to be subject to plan).
 
 #### Other duties of trustees in relation to tax liabilities
 
@@ -1222,21 +1222,21 @@ only in accordance with a direction given by or on behalf of the participant.
 (3) The trust instrument must require the trustees, where the participant becomes liable to income tax under—
 
 - (a) this Act, or
-- (b) Chapter 3 or 4 of Part 4 of[^key-7ae004a2f0d75fccc4daaf4bbc75b69d] ITTOIA 2005 (dividends etc. from UK or non-UK resident companies etc.),
+- (b) Chapter 3 or 4 of Part 4 of[^c-7ae004a2f0d75fccc4daaf4bbc75b69d] ITTOIA 2005 (dividends etc. from UK or non-UK resident companies etc.),
 
 by reason of the occurrence of any event, to inform the participant of any facts relevant to determining that liability.
 
-(4) Sections 1105 to 1108 of CTA 2010 (information relating to distributions to be provided by nominee) apply[^key-59df083816d10aac1379089436bcfd93] in relation to—
+(4) Sections 1105 to 1108 of CTA 2010 (information relating to distributions to be provided by nominee) apply[^c-59df083816d10aac1379089436bcfd93] in relation to—
 
 - (a) the balance of any cash dividend paid over to the participant under paragraph 64(3),
 - (b) any amount paid over to a participant under paragraph 68(4) (dividend retained for reinvestment and later paid out), or
 - (c) any relevant dividend (see sub-paragraph (5)),
 
-as if it were a payment to which section 1105(1)(b) of that Act[^key-4e4d25ade5c15c4fd6299aba893122d0] applied (and, in the case of an amount within paragraph (b) above, as if the cash dividend had been paid at the time of the payment to the participant under paragraph 68(4)).
+as if it were a payment to which section 1105(1)(b) of that Act[^c-4e4d25ade5c15c4fd6299aba893122d0] applied (and, in the case of an amount within paragraph (b) above, as if the cash dividend had been paid at the time of the payment to the participant under paragraph 68(4)).
 
 (5) In a case where dividend shares cease to be subject to the plan before the end of the period of 3 years beginning with the date on which they were acquired on a participant’s behalf, the cash dividend applied to acquire dividend shares on the participant’s behalf is a “**relevant dividend**” for the purposes of sub-paragraph (4)(c).
 
-### PART 10 — Notification of plans, annual returns and enquiries[^key-125acdb7d1d52c8c173769397ac4a55f]
+### PART 10 — Notification of plans, annual returns and enquiries[^c-125acdb7d1d52c8c173769397ac4a55f]
 
 #### Notice of SIP to be given to HMRC
 
@@ -1259,7 +1259,7 @@ as if it were a payment to which section 1105(1)(b) of that Act[^key-4e4d25ade5c
 
 (5) But if the notice is given after the initial notification deadline, the SIP is to be a Schedule 2 SIP only from the beginning of the relevant tax year.
 
-(5A)[^key-af8cd94748f788469331d241ca7246f1] Sub-paragraph (5) does not apply if the company satisfies HMRC (or, on an appeal under paragraph 81K, the tribunal) that there is a reasonable excuse for failing to give notice on or before the initial notification deadline.
+(5A)[^c-af8cd94748f788469331d241ca7246f1] Sub-paragraph (5) does not apply if the company satisfies HMRC (or, on an appeal under paragraph 81K, the tribunal) that there is a reasonable excuse for failing to give notice on or before the initial notification deadline.
 
 (5B) Paragraph 81C(9) (what constitutes a reasonable excuse) applies for the purposes of sub-paragraph (5A).
 
@@ -1517,7 +1517,7 @@ in consequence of the SIP having been a Schedule 2 SIP at any relevant time befo
 
 #### Appeals
 
-**81K.** (A1)[^key-6ce645854c278c18e94d623a023b5799] The company may appeal against a decision of HMRC under paragraph 81A(5A) that there was no reasonable excuse for its failure to give notice on or before the initial notification deadline.
+**81K.** (A1)[^c-6ce645854c278c18e94d623a023b5799] The company may appeal against a decision of HMRC under paragraph 81A(5A) that there was no reasonable excuse for its failure to give notice on or before the initial notification deadline.
 
 (1) The company may appeal against a decision of HMRC that the company is liable for a penalty under paragraph 81C or 81E.
 
@@ -1537,13 +1537,13 @@ in consequence of the SIP having been a Schedule 2 SIP at any relevant time befo
 
 (6) Notice of appeal must be given to HMRC no later than 30 days after the date on which—
 
-- (za)[^key-95546d1eba9f43b5b33cb32dbfcb78be] in the case of an appeal under sub-paragraph (A1), notice of HMRC's decision is given to the company;
+- (za)[^c-95546d1eba9f43b5b33cb32dbfcb78be] in the case of an appeal under sub-paragraph (A1), notice of HMRC's decision is given to the company;
 - (a) in the case of an appeal under sub-paragraph (1) or (4), the notice under paragraph 81J(2) is given to the company;
 - (b) in the case of an appeal under sub-paragraph (2), the closure notice is given;
 - (c) in the case of an appeal under sub-paragraph (3), the default notice is given;
 - (d) in the case of an appeal under sub-paragraph (5), notice of the officer's decision is given to the company.
 
-(7) On an appeal under sub-paragraph (A1),[^key-059d25b91898fbd5a773d5a5753e3e12] (1), (3)(a) or (5) which is notified to the tribunal, the tribunal may affirm or cancel the decision.
+(7) On an appeal under sub-paragraph (A1),[^c-059d25b91898fbd5a773d5a5753e3e12] (1), (3)(a) or (5) which is notified to the tribunal, the tribunal may affirm or cancel the decision.
 
 (8) On an appeal under sub-paragraph (2) or (3)(b) which is notified to the tribunal, the tribunal may—
 
@@ -1557,7 +1557,7 @@ in consequence of the SIP having been a Schedule 2 SIP at any relevant time befo
 
 (10) Subject to this paragraph and paragraph 81J, the provisions of Part 5 of TMA 1970 relating to appeals have effect in relation to an appeal under this paragraph as they have effect in relation to an appeal against an assessment to corporation tax or, if the company is not within the charge to corporation tax, income tax.
 
-### PART 10A — Disqualifying events[^key-e9098d7fb9f051a3eb7f7b1c5444fc96]
+### PART 10A — Disqualifying events[^c-e9098d7fb9f051a3eb7f7b1c5444fc96]
 
 **85A.** (1) A SIP ceases to be a Schedule 2 SIP if (and with effect from the time when) a disqualifying event occurs.
 
@@ -1605,9 +1605,9 @@ in consequence of the SIP having been a Schedule 2 SIP at any relevant time befo
 
 (4) An “**excluded issue of shares**” means an issue of shares of any of the following descriptions (in respect of which a charge to income tax arises)—
 
-- (a) redeemable shares or securities issued as mentioned in paragraph C or D in section 1000(1) of CTA 2010[^key-0efcdd336d0477e0304a2341bf7e5302] (distributions);
-- (b) share capital issued in circumstances such that section 1022(3) of CTA 2010[^key-f373f5cf0dda0f888058994baed1bb15] (bonus issues) applies;
-- (c) share capital to which section 410 of[^key-0c11cc83d6895fdf080ce2562f669ed4] ITTOIA 2005 (stock dividends) applies that is issued in a case where subsection (2) or (3) of that section applies.
+- (a) redeemable shares or securities issued as mentioned in paragraph C or D in section 1000(1) of CTA 2010[^c-0efcdd336d0477e0304a2341bf7e5302] (distributions);
+- (b) share capital issued in circumstances such that section 1022(3) of CTA 2010[^c-f373f5cf0dda0f888058994baed1bb15] (bonus issues) applies;
+- (c) share capital to which section 410 of[^c-0c11cc83d6895fdf080ce2562f669ed4] ITTOIA 2005 (stock dividends) applies that is issued in a case where subsection (2) or (3) of that section applies.
 
 #### Consequences of company reconstructions
 
@@ -1627,7 +1627,7 @@ This is subject to the following provisions of this paragraph.
 - (c) the conditions in Part 4 of this Schedule (types of share that may be awarded) are to be treated as fulfilled with respect to any new shares if they were (or were treated as) fulfilled with respect to the corresponding old shares; and
 - (d) the provisions of—
   - (i) sections 489 to 514 (SIPs: income tax advantages and charges under this Act),
-  - (ii)[^key-328edc432e7489c89d03abfe64fdc8fa] sections 392 to 395 and 405 to 408 of ITTOIA 2005 (SIPs: special rules for charges under Chapters 3 and 4 of Part 4 of that Act (dividends etc. from UK or non-UK resident companies etc.)) and section 770 of that Act (exemption for amounts applied by SIP trustees acquiring dividend shares or retained for reinvestment),
+  - (ii)[^c-328edc432e7489c89d03abfe64fdc8fa] sections 392 to 395 and 405 to 408 of ITTOIA 2005 (SIPs: special rules for charges under Chapters 3 and 4 of Part 4 of that Act (dividends etc. from UK or non-UK resident companies etc.)) and section 770 of that Act (exemption for amounts applied by SIP trustees acquiring dividend shares or retained for reinvestment),
   - (iii) sections 686B and 686C of ICTA (SIPs: income tax advantages for trustees), and
   - (iv) Part 1 of Schedule 7D to TCGA 1992 (SIPs: capital gains tax),
 
@@ -1674,7 +1674,7 @@ This is subject to the following provisions of this paragraph.
 
 (2) The plan must provide that, where a plan termination notice is issued, a copy of the notice must be given, without delay, to—
 
-- (a)[^key-5a174ea4a2f44cf6000f654a559cca52] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-5a174ea4a2f44cf6000f654a559cca52] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) the trustees,
 - (c) each individual who has plan shares, and
 - (d) each individual who has entered into a partnership share agreement which was in force immediately before the notice was issued.
@@ -1683,7 +1683,7 @@ This is subject to the following provisions of this paragraph.
 
 **90.** (1) This paragraph applies if the company has issued a plan termination notice under paragraph 89.
 
-(2) No further shares may be appropriated to, or acquired on behalf of,[^key-b3ad30cf8025b030e16779ebd86bdb0b] individuals under the plan.
+(2) No further shares may be appropriated to, or acquired on behalf of,[^c-b3ad30cf8025b030e16779ebd86bdb0b] individuals under the plan.
 
 (3) The trustees must remove the plan shares from the plan as soon as practicable after whichever is the later of—
 
@@ -1732,9 +1732,9 @@ This is subject to the following provisions of this paragraph.
 
 **92.** (1) For the purposes of the SIP code the “**market value**” of shares has the same meaning as it has for the purposes of TCGA 1992 by virtue of Part 8 of that Act.
 
-(2)[^key-a057fbd09aba5ed15b7fecfeed1d940f][^key-cb1290f9a5013f6cd345a9eb0f313423][^key-3a9b7c448f9428de538aef71d674e814] For the purposes of this Schedule the market value of shares subject to a restriction is to be determined as if they were not subject to the restriction.
+(2)[^c-a057fbd09aba5ed15b7fecfeed1d940f][^c-cb1290f9a5013f6cd345a9eb0f313423][^c-3a9b7c448f9428de538aef71d674e814] For the purposes of this Schedule the market value of shares subject to a restriction is to be determined as if they were not subject to the restriction.
 
-(3) Where the market value of shares on any date has to be determined for the purposes of the SIP code, an officer of Revenue and Customs[^key-4f3a0614079ff004d8042e82d44ecd6f] and the trustees may agree that it is to be determined by reference—
+(3) Where the market value of shares on any date has to be determined for the purposes of the SIP code, an officer of Revenue and Customs[^c-4f3a0614079ff004d8042e82d44ecd6f] and the trustees may agree that it is to be determined by reference—
 
 - (a) to a date or dates, or
 - (b) to an average of the values on a number of dates,
@@ -1743,7 +1743,7 @@ stated in the agreement.
 
 #### Power to require information
 
-**93.** (1)[^key-1a6593d677a804fa130e80a5a9cc5e39] An officer of Revenue and Customs may by notice require a person to provide the officer with any information—
+**93.** (1)[^c-1a6593d677a804fa130e80a5a9cc5e39] An officer of Revenue and Customs may by notice require a person to provide the officer with any information—
 
 - (a) which the officer reasonably requires for the performance of any functions of Her Majesty's Revenue and Customs or an officer of Revenue and Customs under the SIP code, and
 - (b) which the person to whom the notice is addressed has or can reasonably obtain.
@@ -1751,8 +1751,8 @@ stated in the agreement.
 (2) The power conferred by this paragraph extends, in particular, to—
 
 - (a) information to enable an officer of Revenue and Customs —
-  - (i)[^key-9fa75690619deaf4313c52204a762d73] to check anything contained in a notice under paragraph 81A or a return under paragraph 81B or to check any information accompanying such a notice or return, or”, and
-  - (ii) to determine the liability to tax, including capital gains tax, of any person who has participated in a plan or any other person whose liability to tax the operation of a plan is relevant to[^key-c0c374a227b6472b3d9f789b4d46b4b5], and
+  - (i)[^c-9fa75690619deaf4313c52204a762d73] to check anything contained in a notice under paragraph 81A or a return under paragraph 81B or to check any information accompanying such a notice or return, or”, and
+  - (ii) to determine the liability to tax, including capital gains tax, of any person who has participated in a plan or any other person whose liability to tax the operation of a plan is relevant to[^c-c0c374a227b6472b3d9f789b4d46b4b5], and
 - (b) information about the administration of a plan and any proposed alteration of the terms of a plan.
 
 (3) The notice must require the information to be provided within a specified period, which must not end earlier than 3 months after the date when the notice is given.
@@ -1766,7 +1766,7 @@ stated in the agreement.
 
 (2) Sub-paragraph (1) does not, however, apply for the purposes of paragraph 29 (prohibited shares).
 
-(3) For the purposes of sub-paragraph (1) the question whether a person controls a company is to be determined in accordance with sections 450 and 451 of CTA 2010[^key-87eac0e6ce0bbbd5ae540624167102ff].
+(3) For the purposes of sub-paragraph (1) the question whether a person controls a company is to be determined in accordance with sections 450 and 451 of CTA 2010[^c-87eac0e6ce0bbbd5ae540624167102ff].
 
 #### Meaning of participant ceasing to be in relevant employment
 
@@ -1810,7 +1810,7 @@ the individual is to be treated for the purposes of this paragraph as ceasing to
 
 #### Meaning of “the specified retirement age”
 
-**98.**[^key-be4e5f01e0538085b97b08c7116ac0d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**98.**[^c-be4e5f01e0538085b97b08c7116ac0d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Minor definitions
 
@@ -1841,7 +1841,7 @@ the individual is to be treated for the purposes of this paragraph as ceasing to
 - (a) which between them beneficially own not less than 75% of the other company’s ordinary share capital, and
 - (b) each of which beneficially owns not less than 5% of that capital.
 
-(4)[^key-bc426ef4302395f2e25c4eac5a300736] For the purposes of the SIP code—
+(4)[^c-bc426ef4302395f2e25c4eac5a300736] For the purposes of the SIP code—
 
 - (a) shares are subject to a “restriction” if there is any contract, agreement, arrangement or condition which makes provision to which any of subsections (2) to (4) of section 423 (restricted securities) would apply if the references in those subsections to the employment-related securities were to the shares, and
 - (b) the “restriction” is that provision.
@@ -1853,16 +1853,16 @@ the individual is to be treated for the purposes of this paragraph as ceasing to
 |  |  |
 | --- | --- |
 | accumulation period | paragraph 51 |
-| [^key-fd470bb321063e31a01c2280b4f19194]. . . | [^key-fd470bb321063e31a01c2280b4f19194]. . . |
+| [^c-fd470bb321063e31a01c2280b4f19194]. . . | [^c-fd470bb321063e31a01c2280b4f19194]. . . |
 | articles of association | paragraph 99(1) |
 | associated company | paragraph 94 (and see paragraph 29(3)) |
 | award of shares | paragraph 5(1) |
 | [^M_F_f8636d73-9059-443a-9df3-5aa25b585497]. . . | . . . |
-| building society | section 989 of ITA 2007[^key-a1e35ba3166ba7f60e4b3ad69652f006] |
+| building society | section 989 of ITA 2007[^c-a1e35ba3166ba7f60e4b3ad69652f006] |
 | ceasing to be in relevant employment (in relation to a participant) | paragraph 95 |
 | ceasing to be subject to plan (in relation to shares) | paragraph 97 |
-| child | section 721(6)[^key-62f202225db6be974e9a7afb7fb190fb] |
-| close company | section 989 of ITA 2007[^key-637b240a578a4da5084b87c160176407] [^key-5cb17a6b6a8640caf1355795e7f39567]... |
+| child | section 721(6)[^c-62f202225db6be974e9a7afb7fb190fb] |
+| close company | section 989 of ITA 2007[^c-637b240a578a4da5084b87c160176407] [^c-5cb17a6b6a8640caf1355795e7f39567]... |
 | company | paragraph 99(1) |
 | the company (in relation to a SIP) | paragraph 2(2) |
 | company reconstruction (in Part 11 of this Schedule) | paragraph 86(1) |
@@ -1870,7 +1870,7 @@ the individual is to be treated for the purposes of this paragraph as ceasing to
 | consortium (member of) | paragraph 99(3) |
 | constituent company | paragraph 4(3) |
 | control | section 719 (and see paragraphs 29(5), 37(6) and 94(3)) |
-| distribution | section 989 of ITA 2007[^key-6feb835ce5ea55b5607f95a77efa425c] |
+| distribution | section 989 of ITA 2007[^c-6feb835ce5ea55b5607f95a77efa425c] |
 | dividend shares | paragraph 62(3)(b) |
 | earnings | section 62 and see section 721(7) |
 | eligible shares (in Part 4 of this Schedule) | paragraph 25(2) |
@@ -1885,8 +1885,8 @@ the individual is to be treated for the purposes of this paragraph as ceasing to
 | [^M_F_f8636d73-9059-443a-9df3-5aa25b585497]. . . |  |
 | market value (of shares) | paragraph 92 |
 | matching shares | paragraph 3(1) |
-| notice (except in paragraph 54 or 55) | section 989 of ITA 2007[^key-3c7751a49b6e4b4402b4a5a6adc5f990] |
-| ordinary share capital | section 989 of ITA 2007[^key-1d64eb822110473f1d84766433230f08] |
+| notice (except in paragraph 54 or 55) | section 989 of ITA 2007[^c-3c7751a49b6e4b4402b4a5a6adc5f990] |
+| ordinary share capital | section 989 of ITA 2007[^c-1d64eb822110473f1d84766433230f08] |
 | parent company | paragraph 4(1) |
 | participant (in relation to a SIP) | paragraph 5(4) |
 | participant’s plan shares | paragraph 99(1) (and see paragraph 87(1)) |
@@ -1898,281 +1898,281 @@ the individual is to be treated for the purposes of this paragraph as ceasing to
 | PAYE obligations | paragraph 99(1) |
 | PAYE regulations | section 684(8) |
 | performance allowances | paragraph 34(4) |
-| personal representatives | section 989 of ITA 2007[^key-ee5a036e12d884c34c302bd042b1ad59] |
+| personal representatives | section 989 of ITA 2007[^c-ee5a036e12d884c34c302bd042b1ad59] |
 | plan requirements (in relation to a SIP) | paragraph 2(2) |
 | plan shares (in relation to a SIP) | paragraph 99(1) (and see paragraphs 86 to 88) |
 | the plan trust | paragraph 71(3) |
 | provision for forfeiture | paragraph 99(1) |
 | qualifying corporate bond | paragraph 99(1) |
 | qualifying employee | paragraph 8(6) |
-| recognised stock exchange | section 1005 of ITA 2007[^key-8f7baa14bdb13e64b279f6e1c5f5fa2b] |
+| recognised stock exchange | section 1005 of ITA 2007[^c-8f7baa14bdb13e64b279f6e1c5f5fa2b] |
 | redundancy | paragraph 99(1) |
 | reinvestment | paragraph 62(3)(a) |
 | relevant employment | paragraph 95(2) |
-| restriction (in relation to shares)[^key-99daff564388b5227b21b6b89fa904cc] | paragraph 99(4) |
+| restriction (in relation to shares)[^c-99daff564388b5227b21b6b89fa904cc] | paragraph 99(4) |
 | rights arising under a rights issue | paragraph 99(1) |
 | salary | paragraph 43(4) |
 | share incentive plan (“SIP”) | section 488(4) |
-| Schedule 2[^key-69c827c385f84f47adebc53f28115238] SIP | paragraph 1 and Part 10 of this Schedule |
+| Schedule 2[^c-69c827c385f84f47adebc53f28115238] SIP | paragraph 1 and Part 10 of this Schedule |
 | shares | paragraph 99(2) (and in the context of a new holding, paragraph 87(6)) |
 | the SIP code | section 488(3) |
-| [^key-9586ce1aa8c6de3e6adf660008bc57ff]. . . | [^key-9586ce1aa8c6de3e6adf660008bc57ff]. . . |
-| [^key-26b46955c6937defed80d3efb25bbb61]. . . | [^key-26b46955c6937defed80d3efb25bbb61]. . . |
-| tax | section 989 of ITA 2007[^key-ba9a7ca9758f12a5a5a1abba41bbd686] |
-| tribunal[^key-1f4383dcd639387be6ed82f26e82610c] | section 989 of ITA 2007 |
-| tax year | section 4(2) of ITA 2007 (as applied by section 989 of that Act)[^key-7b99fd1f7f2089ef30df58cc5b025c4b] |
+| [^c-9586ce1aa8c6de3e6adf660008bc57ff]. . . | [^c-9586ce1aa8c6de3e6adf660008bc57ff]. . . |
+| [^c-26b46955c6937defed80d3efb25bbb61]. . . | [^c-26b46955c6937defed80d3efb25bbb61]. . . |
+| tax | section 989 of ITA 2007[^c-ba9a7ca9758f12a5a5a1abba41bbd686] |
+| tribunal[^c-1f4383dcd639387be6ed82f26e82610c] | section 989 of ITA 2007 |
+| tax year | section 4(2) of ITA 2007 (as applied by section 989 of that Act)[^c-7b99fd1f7f2089ef30df58cc5b025c4b] |
 | the trustees | paragraphs 2(2), 71(1) |
 | the trust instrument | paragraph 71(3) |
 | withdrawal of shares from plan | paragraph 96(1) |
 
 ## Annotations
 
-[^key-183d076b68bc5f3fb24b8cb117cfc393]: Textual amendment: Word in Sch. 2 title omitted (6.4.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 14](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/14), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
+[^c-183d076b68bc5f3fb24b8cb117cfc393]: Textual amendment: Word in Sch. 2 title omitted (6.4.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 14](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/14), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
 
-[^key-328c64c3bbb478c341288471e02a65ab]: Textual amendment: Words in [Sch. 2 para. 1 cross-heading](https://www.legislation.gov.uk/ukpga/2003/1/schedule/2/part/1/crossheading/approval-of-share-incentive-plans-sips) substituted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 15](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/15), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
+[^c-328c64c3bbb478c341288471e02a65ab]: Textual amendment: Words in [Sch. 2 para. 1 cross-heading](https://www.legislation.gov.uk/ukpga/2003/1/schedule/2/part/1/crossheading/approval-of-share-incentive-plans-sips) substituted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 15](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/15), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
 
-[^key-030219795bbe826035553e6f826537c6]: Textual amendment: Sch. 2 para. 1(A1) substituted for Sch. 2 para. 1(1)(2) (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 16(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/16/2), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
+[^c-030219795bbe826035553e6f826537c6]: Textual amendment: Sch. 2 para. 1(A1) substituted for Sch. 2 para. 1(1)(2) (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 16(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/16/2), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
 
-[^key-0d97b5e644bdf8e7dda81a570c2d27fa]: Textual amendment: Sch. 2 para. 1(4) substituted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 16(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/16/3), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
+[^c-0d97b5e644bdf8e7dda81a570c2d27fa]: Textual amendment: Sch. 2 para. 1(4) substituted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 16(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/16/3), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
 
-[^key-1192e4f7645c47d3ec0661dd2c960e1b]: Textual amendment: [Sch. 2 para. 1(5)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/2/paragraph/1/5) inserted (with effect in accordance with Sch. 3 para. 2(4) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 3 para. 2(2)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/3/paragraph/2/2)
+[^c-1192e4f7645c47d3ec0661dd2c960e1b]: Textual amendment: [Sch. 2 para. 1(5)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/2/paragraph/1/5) inserted (with effect in accordance with Sch. 3 para. 2(4) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 3 para. 2(2)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/3/paragraph/2/2)
 
-[^key-c90fbb1d9b863c941dec64859b3fdb99]: Textual amendment: Sch. 2 para. 6 renumbered as Sch. 2 para. 6(1) (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 18(1)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/18/1), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
+[^c-c90fbb1d9b863c941dec64859b3fdb99]: Textual amendment: Sch. 2 para. 6 renumbered as Sch. 2 para. 6(1) (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 18(1)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/18/1), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
 
-[^key-243d3f1e0c3f8d1b9083a3c78da266af]: Textual amendment: Sch. 2 para. 6(2) inserted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 18(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/18/2), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
+[^c-243d3f1e0c3f8d1b9083a3c78da266af]: Textual amendment: Sch. 2 para. 6(2) inserted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 18(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/18/2), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
 
-[^key-5035914671d9038cd0ec7b3401fe6615]: Textual amendment: Words in Sch. 2 para. 7(1) inserted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 19(2)(a)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/19/2/a), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
+[^c-5035914671d9038cd0ec7b3401fe6615]: Textual amendment: Words in Sch. 2 para. 7(1) inserted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 19(2)(a)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/19/2/a), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
 
-[^key-a67c0fda0b9c232822179226af630e2f]: Textual amendment: Word in Sch. 2 para. 7(1) substituted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 19(2)(b)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/19/2/b), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
+[^c-a67c0fda0b9c232822179226af630e2f]: Textual amendment: Word in Sch. 2 para. 7(1) substituted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 19(2)(b)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/19/2/b), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
 
-[^key-fe11668c6285f5eebe420c04d24d7360]: Textual amendment: Sch. 2 para. 7(1A)-(1C) inserted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 19(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/19/3), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
+[^c-fe11668c6285f5eebe420c04d24d7360]: Textual amendment: Sch. 2 para. 7(1A)-(1C) inserted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 19(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/19/3), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
 
-[^key-231ed8429f3a96240c90edaf8220a88d]: Textual amendment: Sch. 2 para. 7(2) omitted (6.4.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 19(4)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/19/4), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
+[^c-231ed8429f3a96240c90edaf8220a88d]: Textual amendment: Sch. 2 para. 7(2) omitted (6.4.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 19(4)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/19/4), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
 
-[^key-754c927589acf234e9d368d9f73e8f31]: Textual amendment: Sch. 2 para. 8(2) substituted (with effect in accordance with Sch. 7 para. 81 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 41](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/41)
+[^c-754c927589acf234e9d368d9f73e8f31]: Textual amendment: Sch. 2 para. 8(2) substituted (with effect in accordance with Sch. 7 para. 81 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 41](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/41)
 
-[^key-c23790388fae0556e8876103b0ece476]: Textual amendment: Sch. 2 para. 8(2)(b) and word omitted (with effect in accordance with Sch. 46 para. 72 of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 46 para. 40(1)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/40/1) (with [Sch. 46 para. 40(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/40/2))
+[^c-c23790388fae0556e8876103b0ece476]: Textual amendment: Sch. 2 para. 8(2)(b) and word omitted (with effect in accordance with Sch. 46 para. 72 of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 46 para. 40(1)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/40/1) (with [Sch. 46 para. 40(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/40/2))
 
-[^key-81588badaa22ad7a3b9eca759270ad37]: Textual amendment: Words in Sch. 2 para. 13 substituted (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 21 para. 3](https://www.legislation.gov.uk/ukpga/2003/14/schedule/21/paragraph/3)
+[^c-81588badaa22ad7a3b9eca759270ad37]: Textual amendment: Words in Sch. 2 para. 13 substituted (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 21 para. 3](https://www.legislation.gov.uk/ukpga/2003/14/schedule/21/paragraph/3)
 
-[^key-2cdd327722659582202a3d7c73263597]: Textual amendment: Word in Sch. 2 para. 13 inserted (with effect in accordance with Sch. 2 para. 38 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 34(a)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/34/a)
+[^c-2cdd327722659582202a3d7c73263597]: Textual amendment: Word in Sch. 2 para. 13 inserted (with effect in accordance with Sch. 2 para. 38 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 34(a)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/34/a)
 
-[^key-6717de552bdad2300605a62657f7dbb4]: Textual amendment: Words in Sch. 2 para. 13 omitted (with effect in accordance with Sch. 2 para. 38 of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 34(b)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/34/b)
+[^c-6717de552bdad2300605a62657f7dbb4]: Textual amendment: Words in Sch. 2 para. 13 omitted (with effect in accordance with Sch. 2 para. 38 of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 34(b)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/34/b)
 
 [^M_F_66734ad8-bcca-4448-9d2f-0addcd796641]: Textual amendment: Sch. 2 para. 14(7)(b)(ba) substituted for Sch. 2 para. 14(7)(b) (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 21 para. 4](https://www.legislation.gov.uk/ukpga/2003/14/schedule/21/paragraph/4)
 
-[^key-10dcbfca06e1cea0fe95d1d16a62c038]: Textual amendment: Word in Sch. 2 para. 14(7)(b) inserted (with effect in accordance with Sch. 2 para. 38 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 35(a)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/35/a)
+[^c-10dcbfca06e1cea0fe95d1d16a62c038]: Textual amendment: Word in Sch. 2 para. 14(7)(b) inserted (with effect in accordance with Sch. 2 para. 38 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 35(a)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/35/a)
 
-[^key-c3b4b6811ae835135d6e4959c8cf24de]: Textual amendment: Sch. 2 para. 14(7)(c) and word omitted (with effect in accordance with Sch. 2 para. 38 of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 35(b)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/35/b)
+[^c-c3b4b6811ae835135d6e4959c8cf24de]: Textual amendment: Sch. 2 para. 14(7)(c) and word omitted (with effect in accordance with Sch. 2 para. 38 of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 35(b)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/35/b)
 
 [^M_F_1e83f5db-380f-44bc-db47-729b9ea32ae9]: Textual amendment: Sch. 2 para. 18(1)(a) repealed (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 21 para. 5](https://www.legislation.gov.uk/ukpga/2003/14/schedule/21/paragraph/5), [Sch. 43 Pt. 3(3)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/43/part/3/3)
 
-[^key-b121d85b51e0844219342589e6955820]: Textual amendment: Words in Sch. 2 para. 18(1) substituted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 20](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/20), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
+[^c-b121d85b51e0844219342589e6955820]: Textual amendment: Words in Sch. 2 para. 18(1) substituted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 20](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/20), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
 
 [^M_F_a01b30f7-ce34-4479-e5fb-0e60d8eaf131]: Textual amendment: Sch. 2 para. 18A and cross-heading inserted (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 21 para. 2](https://www.legislation.gov.uk/ukpga/2003/14/schedule/21/paragraph/2)
 
-[^key-fcd11828f6d375aef4c5aaf8aecd62ee]: Textual amendment: Words in [Sch. 2 para. 18A(1)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/2/paragraph/18A/1) substituted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 21](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/21), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
+[^c-fcd11828f6d375aef4c5aaf8aecd62ee]: Textual amendment: Words in [Sch. 2 para. 18A(1)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/2/paragraph/18A/1) substituted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 21](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/21), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
 
-[^key-f569abf3c32a34c724c354bd353457c0]: Textual amendment: Sch. 2 paras. 19-24 omitted (with effect in accordance with Sch. 2 para. 38 of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 36](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/36)
+[^c-f569abf3c32a34c724c354bd353457c0]: Textual amendment: Sch. 2 paras. 19-24 omitted (with effect in accordance with Sch. 2 para. 38 of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 36](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/36)
 
-[^key-72a2d9e510c789d21db05c383128845a]: Textual amendment: Word in Sch. 2 para. 25(1) inserted (with effect in accordance with Sch. 2 para. 58 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 47(a)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/47/a)
+[^c-72a2d9e510c789d21db05c383128845a]: Textual amendment: Word in Sch. 2 para. 25(1) inserted (with effect in accordance with Sch. 2 para. 58 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 47(a)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/47/a)
 
-[^key-3d032fb50c90449d076c4fe82da960e3]: Textual amendment: Words in Sch. 2 para. 25(1) omitted (with effect in accordance with Sch. 2 para. 58 of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 47(b)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/47/b)
+[^c-3d032fb50c90449d076c4fe82da960e3]: Textual amendment: Words in Sch. 2 para. 25(1) omitted (with effect in accordance with Sch. 2 para. 58 of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 47(b)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/47/b)
 
-[^key-d15ae957f397fc2093774d4ec09e216d]: Textual amendment: Word in [Sch. 2 para. 27(1)(b)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/2/paragraph/27/1/b) omitted (1.10.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 37 para. 19(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/19/2)[(4)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/19/4)
+[^c-d15ae957f397fc2093774d4ec09e216d]: Textual amendment: Word in [Sch. 2 para. 27(1)(b)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/2/paragraph/27/1/b) omitted (1.10.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 37 para. 19(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/19/2)[(4)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/19/4)
 
-[^key-c24812a4cf54cae60815d0e015ff9f75]: Textual amendment: [Sch. 2 para. 27(1)(ba)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/2/paragraph/27/1/ba) inserted (1.10.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 37 para. 19(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/19/2)[(4)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/19/4)
+[^c-c24812a4cf54cae60815d0e015ff9f75]: Textual amendment: [Sch. 2 para. 27(1)(ba)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/2/paragraph/27/1/ba) inserted (1.10.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 37 para. 19(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/19/2)[(4)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/19/4)
 
-[^key-c8f1be8ae1a4c7f105b9ae525e8a1156]: Textual amendment: [Sch. 2 para. 27(3)-(6)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/2/paragraph/27/3) inserted (1.10.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 37 para. 19(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/19/3)[(4)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/19/4)
+[^c-c8f1be8ae1a4c7f105b9ae525e8a1156]: Textual amendment: [Sch. 2 para. 27(3)-(6)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/2/paragraph/27/3) inserted (1.10.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 37 para. 19(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/19/3)[(4)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/19/4)
 
-[^key-caca2e0695f6041b465d9331077e11a2]: Textual amendment: Words in Sch. 2 para. 28(4) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 82(2)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/82/2) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-caca2e0695f6041b465d9331077e11a2]: Textual amendment: Words in Sch. 2 para. 28(4) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 82(2)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/82/2) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
-[^key-b93bf94d79b32c493ae93512ec2db788]: Textual amendment: Sch. 2 para. 28(5) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 82(3)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/82/3) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5)) (as amended by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 39 paras. 8](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/8), [15](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/15))
+[^c-b93bf94d79b32c493ae93512ec2db788]: Textual amendment: Sch. 2 para. 28(5) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 82(3)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/82/3) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5)) (as amended by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 39 paras. 8](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/8), [15](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/15))
 
-[^key-4e564688cba1a12a7db5a0690cdd5dde]: Textual amendment: Words in Sch. 2 para. 29(5) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 396(3)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/396/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-4e564688cba1a12a7db5a0690cdd5dde]: Textual amendment: Words in Sch. 2 para. 29(5) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 396(3)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/396/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-3b2e44a6bfbf24d47f014f11416033c9]: Textual amendment: Sch. 2 paras. 30-33 omitted (with effect in accordance with Sch. 2 para. 58 of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 48](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/48)
+[^c-3b2e44a6bfbf24d47f014f11416033c9]: Textual amendment: Sch. 2 paras. 30-33 omitted (with effect in accordance with Sch. 2 para. 58 of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 48](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/48)
 
-[^key-e72fa9bfcc8d2ee29ccf8530213ea109]: Textual amendment: Word in Sch. 2 para. 35(1) substituted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 49(2)](https://www.legislation.gov.uk/ukpga/2014/26/section/49/2)[(4)](https://www.legislation.gov.uk/ukpga/2014/26/section/49/4)
+[^c-e72fa9bfcc8d2ee29ccf8530213ea109]: Textual amendment: Word in Sch. 2 para. 35(1) substituted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 49(2)](https://www.legislation.gov.uk/ukpga/2014/26/section/49/2)[(4)](https://www.legislation.gov.uk/ukpga/2014/26/section/49/4)
 
-[^key-2790893a99cb2642cb534e4621b388c5]: Textual amendment: Sch. 2 para. 35(2A) inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 50(2)](https://www.legislation.gov.uk/ukpga/2014/26/section/50/2)
+[^c-2790893a99cb2642cb534e4621b388c5]: Textual amendment: Sch. 2 para. 35(2A) inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 50(2)](https://www.legislation.gov.uk/ukpga/2014/26/section/50/2)
 
-[^key-2590d5e80ed0f4eaa78275134cfdddb6]: Textual amendment: Sch. 2 para. 35(3)(4) omitted (17.7.2013) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 49](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/49)
+[^c-2590d5e80ed0f4eaa78275134cfdddb6]: Textual amendment: Sch. 2 para. 35(3)(4) omitted (17.7.2013) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 49](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/49)
 
-[^key-e34579392d278132712e91552228f6f8]: Textual amendment: Words in [Sch. 2 para. 37(3)(b)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/2/paragraph/37/3/b) substituted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 22](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/22), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
+[^c-e34579392d278132712e91552228f6f8]: Textual amendment: Words in [Sch. 2 para. 37(3)(b)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/2/paragraph/37/3/b) substituted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 22](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/22), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
 
-[^key-cf061f1d6433630733df448d92e2df49]: Textual amendment: Words in Sch. 2 para. 37(6) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 396(4)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/396/4) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-cf061f1d6433630733df448d92e2df49]: Textual amendment: Words in Sch. 2 para. 37(6) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 396(4)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/396/4) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-4b6ffb87096e6674cdbf295c9cbb34fb]: Textual amendment: Sch. 2 para. 37(7)(8) inserted (17.7.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 20(1)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/20/1) (with [Sch. 2 para. 20(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/20/2))
+[^c-4b6ffb87096e6674cdbf295c9cbb34fb]: Textual amendment: Sch. 2 para. 37(7)(8) inserted (17.7.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 20(1)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/20/1) (with [Sch. 2 para. 20(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/20/2))
 
-[^key-a4e5737275fc920b58f8b687cd0d4605]: Textual amendment: Sch. 2 para. 43(2A) inserted (with effect in accordance with Sch. 2 para. 58 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 50](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/50)
+[^c-a4e5737275fc920b58f8b687cd0d4605]: Textual amendment: Sch. 2 para. 43(2A) inserted (with effect in accordance with Sch. 2 para. 58 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 50](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/50)
 
-[^key-1462fc5130cbcb8cf05f54e170a01525]: Textual amendment: [Sch. 2 para. 43(2B)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/2/paragraph/43/2B)[(2C)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/2/paragraph/43/2C) inserted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 23](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/23), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
+[^c-1462fc5130cbcb8cf05f54e170a01525]: Textual amendment: [Sch. 2 para. 43(2B)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/2/paragraph/43/2B)[(2C)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/2/paragraph/43/2C) inserted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 23](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/23), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
 
-[^key-2c8ac49ef66f38fb8c79cabb6c2e2a1b]: Textual amendment: Word in Sch. 2 para. 46(1) substituted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 49(3)](https://www.legislation.gov.uk/ukpga/2014/26/section/49/3)[(4)](https://www.legislation.gov.uk/ukpga/2014/26/section/49/4)
+[^c-2c8ac49ef66f38fb8c79cabb6c2e2a1b]: Textual amendment: Word in Sch. 2 para. 46(1) substituted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 49(3)](https://www.legislation.gov.uk/ukpga/2014/26/section/49/3)[(4)](https://www.legislation.gov.uk/ukpga/2014/26/section/49/4)
 
-[^key-f9937e974603b237ddf20758ba1c6347]: Textual amendment: Words in Sch. 2 para. 46(2) substituted (with effect in accordance with Sch. 21 para. 7(5) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 21 para. 7(3)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/21/paragraph/7/3)
+[^c-f9937e974603b237ddf20758ba1c6347]: Textual amendment: Words in Sch. 2 para. 46(2) substituted (with effect in accordance with Sch. 21 para. 7(5) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 21 para. 7(3)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/21/paragraph/7/3)
 
-[^key-aefa716681a74b699705e8bef25d98d1]: Textual amendment: Sch. 2 para. 46(4A) inserted (10.7.2003) by virtue of [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 21 para. 7(4)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/21/paragraph/7/4)
+[^c-aefa716681a74b699705e8bef25d98d1]: Textual amendment: Sch. 2 para. 46(4A) inserted (10.7.2003) by virtue of [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 21 para. 7(4)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/21/paragraph/7/4)
 
-[^key-b5ded8c76ec38168524bc768bbb912fe]: Textual amendment: Sch. 2 para. 46(6) inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 50(3)](https://www.legislation.gov.uk/ukpga/2014/26/section/50/3)
+[^c-b5ded8c76ec38168524bc768bbb912fe]: Textual amendment: Sch. 2 para. 46(6) inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 50(3)](https://www.legislation.gov.uk/ukpga/2014/26/section/50/3)
 
-[^key-00edcb5d14c463b1ad7488472305eaba]: Textual amendment: Words in Sch. 2 para. 47 substituted (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 21 para. 8(a)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/21/paragraph/8/a)
+[^c-00edcb5d14c463b1ad7488472305eaba]: Textual amendment: Words in Sch. 2 para. 47 substituted (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 21 para. 8(a)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/21/paragraph/8/a)
 
-[^key-f6af2b061c4d0e63863a9ab0d927582c]: Textual amendment: Sch. 2 para. 47(3) repealed (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 21 para. 8(b)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/21/paragraph/8/b), [Sch. 43 Pt. 3(3)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/43/part/3/3)
+[^c-f6af2b061c4d0e63863a9ab0d927582c]: Textual amendment: Sch. 2 para. 47(3) repealed (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 21 para. 8(b)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/21/paragraph/8/b), [Sch. 43 Pt. 3(3)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/43/part/3/3)
 
-[^key-61ba2f8acfce4aa493ad661a690376d2]: Textual amendment: Words in Sch. 2 para. 48(2) inserted (20.3.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 36(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/36/3)
+[^c-61ba2f8acfce4aa493ad661a690376d2]: Textual amendment: Words in Sch. 2 para. 48(2) inserted (20.3.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 36(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/36/3)
 
-[^key-59f00b3f07e4580bd56377d1e1c262f6]: Textual amendment: Words in Act substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 102(2)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/102/2); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
+[^c-59f00b3f07e4580bd56377d1e1c262f6]: Textual amendment: Words in Act substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 102(2)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/102/2); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
 
-[^key-6ce4fa5272eaf9bb014af6aba1a20c54]: Textual amendment: Words in Sch. 2 para. 49(3)(a) substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 447(2)(a)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/447/2/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-6ce4fa5272eaf9bb014af6aba1a20c54]: Textual amendment: Words in Sch. 2 para. 49(3)(a) substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 447(2)(a)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/447/2/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-f50008c3843019313551d26e9e164c0a]: Textual amendment: Words in Sch. 2 para. 49(3)(c) substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 447(2)(b)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/447/2/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-f50008c3843019313551d26e9e164c0a]: Textual amendment: Words in Sch. 2 para. 49(3)(c) substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 447(2)(b)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/447/2/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-1ed3d6b7a62affe1561a9de6d391ca6c]: Textual amendment: Sch. 2 para. 52(2A) inserted (with effect in accordance with Sch. 2 para. 81 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 79(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/79/2)
+[^c-1ed3d6b7a62affe1561a9de6d391ca6c]: Textual amendment: Sch. 2 para. 52(2A) inserted (with effect in accordance with Sch. 2 para. 81 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 79(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/79/2)
 
-[^key-0b4d83ae2bc704df36a2ac62a4474e3b]: Textual amendment: Words in Sch. 2 para. 52(3) substituted (with effect in accordance with Sch. 2 para. 81 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 79(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/79/3)
+[^c-0b4d83ae2bc704df36a2ac62a4474e3b]: Textual amendment: Words in Sch. 2 para. 52(3) substituted (with effect in accordance with Sch. 2 para. 81 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 79(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/79/3)
 
-[^key-6087de971cd3f8224a88f6ff883c2e12]: Textual amendment: Sch. 2 para. 52(3A)(3B) inserted (with effect in accordance with Sch. 2 para. 81 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 79(4)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/79/4)
+[^c-6087de971cd3f8224a88f6ff883c2e12]: Textual amendment: Sch. 2 para. 52(3A)(3B) inserted (with effect in accordance with Sch. 2 para. 81 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 79(4)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/79/4)
 
-[^key-a62d60349b74cd977f5d270f698849af]: Textual amendment: Words in Sch. 2 para. 52(4)(5) substituted (with effect in accordance with Sch. 2 para. 81 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 79(5)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/79/5)
+[^c-a62d60349b74cd977f5d270f698849af]: Textual amendment: Words in Sch. 2 para. 52(4)(5) substituted (with effect in accordance with Sch. 2 para. 81 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 79(5)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/79/5)
 
-[^key-ff97ed6ed9663290b2e3d2ae639f2b6b]: Textual amendment: Words in Sch. 2 para. 56 cross-heading substituted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 24](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/24), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
+[^c-ff97ed6ed9663290b2e3d2ae639f2b6b]: Textual amendment: Words in Sch. 2 para. 56 cross-heading substituted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 24](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/24), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
 
-[^key-00ff31e106c9a7b976d4edc485847142]: Textual amendment: Words in Sch. 2 para. 56(1) substituted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 25(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/25/2), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
+[^c-00ff31e106c9a7b976d4edc485847142]: Textual amendment: Words in Sch. 2 para. 56(1) substituted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 25(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/25/2), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
 
-[^key-f9cf7c2a11e52a07cd25eba6b547f19f]: Textual amendment: Words in Sch. 2 para. 56(2) substituted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 25(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/25/3), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
+[^c-f9cf7c2a11e52a07cd25eba6b547f19f]: Textual amendment: Words in Sch. 2 para. 56(2) substituted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 25(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/25/3), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
 
-[^key-dcc88c391cbe62fae01a4c774ed74839]: Textual amendment: Sch. 2 para. 56(2A)(2B) inserted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 25(4)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/25/4), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
+[^c-dcc88c391cbe62fae01a4c774ed74839]: Textual amendment: Sch. 2 para. 56(2A)(2B) inserted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 25(4)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/25/4), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
 
-[^key-db98d10d1015f7a4f7b331edbba98994]: Textual amendment: Sch. 2 para. 59(2) omitted (with effect in accordance with Sch. 2 para. 58 of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 51](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/51)
+[^c-db98d10d1015f7a4f7b331edbba98994]: Textual amendment: Sch. 2 para. 59(2) omitted (with effect in accordance with Sch. 2 para. 58 of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 51](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/51)
 
-[^key-700e237a13bcecbb4847ef05bb139427]: Textual amendment: Sch. 2 para. 60(4) inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 50(4)](https://www.legislation.gov.uk/ukpga/2014/26/section/50/4)
+[^c-700e237a13bcecbb4847ef05bb139427]: Textual amendment: Sch. 2 para. 60(4) inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 50(4)](https://www.legislation.gov.uk/ukpga/2014/26/section/50/4)
 
-[^key-8263b3b8abf686c50114a1733c3aa464]: Textual amendment: Words in Sch. 2 para. 62(1) substituted (with effect in accordance with Sch. 2 para. 86 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 83(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/83/2)
+[^c-8263b3b8abf686c50114a1733c3aa464]: Textual amendment: Words in Sch. 2 para. 62(1) substituted (with effect in accordance with Sch. 2 para. 86 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 83(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/83/2)
 
-[^key-71e83f98d1a26cf6371033c007d12f93]: Textual amendment: Sch. 2 para. 62(1A) inserted (with effect in accordance with Sch. 2 para. 86 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 83(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/83/3)
+[^c-71e83f98d1a26cf6371033c007d12f93]: Textual amendment: Sch. 2 para. 62(1A) inserted (with effect in accordance with Sch. 2 para. 86 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 83(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/83/3)
 
-[^key-ffc82436d0f00cb9b9f694dbc3212e6e]: Textual amendment: Words in Sch. 2 para. 62(4) inserted (with effect in accordance with Sch. 2 para. 86 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 83(4)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/83/4)
+[^c-ffc82436d0f00cb9b9f694dbc3212e6e]: Textual amendment: Words in Sch. 2 para. 62(4) inserted (with effect in accordance with Sch. 2 para. 86 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 83(4)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/83/4)
 
-[^key-a581cc571e93339ada2ca607eeedad89]: Textual amendment: Words in Sch. 2 para. 63(1) omitted (with effect in accordance with Sch. 2 para. 89 of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 87](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/87)
+[^c-a581cc571e93339ada2ca607eeedad89]: Textual amendment: Words in Sch. 2 para. 63(1) omitted (with effect in accordance with Sch. 2 para. 89 of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 87](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/87)
 
-[^key-8316765ad7598a85f5bc96a49487aadc]: Textual amendment: Sch. 2 para. 64 omitted (with effect in accordance with Sch. 2 para. 89 of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 88](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/88)
+[^c-8316765ad7598a85f5bc96a49487aadc]: Textual amendment: Sch. 2 para. 64 omitted (with effect in accordance with Sch. 2 para. 89 of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 88](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/88)
 
-[^key-9f3d3a92baa4d6721a3a7886df4eb92f]: Textual amendment: Sch. 2 para. 65 renumbered as Sch. 2 para. 65(1) (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 26(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/26/2), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
+[^c-9f3d3a92baa4d6721a3a7886df4eb92f]: Textual amendment: Sch. 2 para. 65 renumbered as Sch. 2 para. 65(1) (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 26(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/26/2), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
 
-[^key-51abb7152b035a584f1b6ca10f203e53]: Textual amendment: Sch. 2 para. 65(2)(3) inserted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 26(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/26/3), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
+[^c-51abb7152b035a584f1b6ca10f203e53]: Textual amendment: Sch. 2 para. 65(2)(3) inserted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 26(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/26/3), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
 
-[^key-036e506b08d2d7e834fca22d56cfd7d3]: Textual amendment: Sch. 2 para. 68(1) substituted (with effect in accordance with Sch. 2 para. 86 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 84](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/84)
+[^c-036e506b08d2d7e834fca22d56cfd7d3]: Textual amendment: Sch. 2 para. 68(1) substituted (with effect in accordance with Sch. 2 para. 86 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 84](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/84)
 
-[^key-ae9178bb054afc0281e33ea44decf8d1]: Textual amendment: Sch. 2 para. 68(4)(a) and word omitted (with effect in accordance with Sch. 2 para. 90(4)(5) of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 90(2)(a)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/90/2/a)
+[^c-ae9178bb054afc0281e33ea44decf8d1]: Textual amendment: Sch. 2 para. 68(4)(a) and word omitted (with effect in accordance with Sch. 2 para. 90(4)(5) of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 90(2)(a)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/90/2/a)
 
-[^key-9645deb40cd3e6fa15d9df753d460b17]: Textual amendment: Words in Sch. 2 para. 68(4)(b)(c) omitted (with effect in accordance with Sch. 2 para. 90(4)(5) of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 90(2)(b)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/90/2/b)
+[^c-9645deb40cd3e6fa15d9df753d460b17]: Textual amendment: Words in Sch. 2 para. 68(4)(b)(c) omitted (with effect in accordance with Sch. 2 para. 90(4)(5) of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 90(2)(b)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/90/2/b)
 
-[^key-3ff7c4b7ae477d31109f148ff43b8230]: Textual amendment: Sch. 2 para. 68(6) omitted (with effect in accordance with Sch. 2 para. 90(4)(5) of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 90(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/90/3)
+[^c-3ff7c4b7ae477d31109f148ff43b8230]: Textual amendment: Sch. 2 para. 68(6) omitted (with effect in accordance with Sch. 2 para. 90(4)(5) of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 90(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/90/3)
 
-[^key-2899dd2da0e82b76475028b305769b56]: Textual amendment: Words in Sch. 2 para. 69(2) substituted (with effect in accordance with Sch. 2 para. 86 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 85](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/85)
+[^c-2899dd2da0e82b76475028b305769b56]: Textual amendment: Words in Sch. 2 para. 69(2) substituted (with effect in accordance with Sch. 2 para. 86 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 85](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/85)
 
-[^key-d093fa690161c9d4b5df43fceb19537d]: Textual amendment: Word in Sch. 2 para. 70(2) inserted (with effect in accordance with Sch. 2 para. 93(2) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 92(a)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/92/a)
+[^c-d093fa690161c9d4b5df43fceb19537d]: Textual amendment: Word in Sch. 2 para. 70(2) inserted (with effect in accordance with Sch. 2 para. 93(2) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 92(a)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/92/a)
 
-[^key-291e4d7cd5cad30d52308748a2286d27]: Textual amendment: Words in Sch. 2 para. 70(2) omitted (with effect in accordance with Sch. 2 para. 93(2) of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 92(b)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/92/b)
+[^c-291e4d7cd5cad30d52308748a2286d27]: Textual amendment: Words in Sch. 2 para. 70(2) omitted (with effect in accordance with Sch. 2 para. 93(2) of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 92(b)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/92/b)
 
-[^key-6fd80eab5ba1a66dc5ee769e0f0d4739]: Textual amendment: Sch. 2 para. 71A and cross-heading inserted (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 21 para. 6](https://www.legislation.gov.uk/ukpga/2003/14/schedule/21/paragraph/6)
+[^c-6fd80eab5ba1a66dc5ee769e0f0d4739]: Textual amendment: Sch. 2 para. 71A and cross-heading inserted (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 21 para. 6](https://www.legislation.gov.uk/ukpga/2003/14/schedule/21/paragraph/6)
 
-[^key-7bbd5bd99304783fd856cfe24a8068da]: Textual amendment: Words in [Sch. 2 para. 71A](https://www.legislation.gov.uk/ukpga/2003/1/schedule/2/paragraph/71A) substituted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 27](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/27), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
+[^c-7bbd5bd99304783fd856cfe24a8068da]: Textual amendment: Words in [Sch. 2 para. 71A](https://www.legislation.gov.uk/ukpga/2003/1/schedule/2/paragraph/71A) substituted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 27](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/27), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
 
-[^key-5062e7cbb36524f9ecfcce47a799e5af]: Textual amendment: Sch. 2 para. 75(2)(aa) inserted (with effect in accordance with Sch. 2 para. 58 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 52](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/52)
+[^c-5062e7cbb36524f9ecfcce47a799e5af]: Textual amendment: Sch. 2 para. 75(2)(aa) inserted (with effect in accordance with Sch. 2 para. 58 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 52](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/52)
 
-[^key-14299cfcd47fed4c6496c7563790d58a]: Textual amendment: Sch. 2 para. 75(3)(aa) inserted (with effect in accordance with Sch. 2 para. 58 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 52](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/52)
+[^c-14299cfcd47fed4c6496c7563790d58a]: Textual amendment: Sch. 2 para. 75(3)(aa) inserted (with effect in accordance with Sch. 2 para. 58 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 52](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/52)
 
-[^key-0ea3878d2d25133f0a4eb2e5774deeda]: Textual amendment: Sch. 2 para. 75(3)(c) substituted (with effect in accordance with Sch. 2 para. 81 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 80](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/80)
+[^c-0ea3878d2d25133f0a4eb2e5774deeda]: Textual amendment: Sch. 2 para. 75(3)(c) substituted (with effect in accordance with Sch. 2 para. 81 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 80](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/80)
 
-[^key-fcfd5742261bc8e21098ed89ddf30202]: Textual amendment: Sch. 2 para. 78 omitted (with effect in accordance with Sch. 2 para. 93(2) of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 93(1)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/93/1)
+[^c-fcfd5742261bc8e21098ed89ddf30202]: Textual amendment: Sch. 2 para. 78 omitted (with effect in accordance with Sch. 2 para. 93(2) of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 93(1)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/93/1)
 
-[^key-46660ad6c310254fe53506d293518e98]: Textual amendment: Words in Sch. 2 para. 79(4) substituted (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 617(3)](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/617/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-46660ad6c310254fe53506d293518e98]: Textual amendment: Words in Sch. 2 para. 79(4) substituted (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 617(3)](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/617/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
-[^key-7ae004a2f0d75fccc4daaf4bbc75b69d]: Textual amendment: Words in Sch. 2 para. 80(3)(b) substituted (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 617(4)](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/617/4) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-7ae004a2f0d75fccc4daaf4bbc75b69d]: Textual amendment: Words in Sch. 2 para. 80(3)(b) substituted (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 617(4)](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/617/4) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
-[^key-59df083816d10aac1379089436bcfd93]: Textual amendment: Words in Sch. 2 para. 80(4) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 396(5)(a)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/396/5/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-59df083816d10aac1379089436bcfd93]: Textual amendment: Words in Sch. 2 para. 80(4) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 396(5)(a)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/396/5/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-4e4d25ade5c15c4fd6299aba893122d0]: Textual amendment: Words in Sch. 2 para. 80(4) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 396(5)(b)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/396/5/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-4e4d25ade5c15c4fd6299aba893122d0]: Textual amendment: Words in Sch. 2 para. 80(4) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 396(5)(b)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/396/5/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-125acdb7d1d52c8c173769397ac4a55f]: Textual amendment: Sch. 2 Pt. 10 substituted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 28](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/28), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
+[^c-125acdb7d1d52c8c173769397ac4a55f]: Textual amendment: Sch. 2 Pt. 10 substituted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 28](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/28), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
 
-[^key-af8cd94748f788469331d241ca7246f1]: Textual amendment: Sch. 2 para. 81A(5A)-(5D) inserted (with effect in accordance with Sch. 3 para. 3(4) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 3 para. 3(2)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/3/paragraph/3/2)
+[^c-af8cd94748f788469331d241ca7246f1]: Textual amendment: Sch. 2 para. 81A(5A)-(5D) inserted (with effect in accordance with Sch. 3 para. 3(4) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 3 para. 3(2)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/3/paragraph/3/2)
 
-[^key-6ce645854c278c18e94d623a023b5799]: Textual amendment: [Sch. 2 para. 81K(A1)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/2/paragraph/81K/A1) inserted (with effect in accordance with Sch. 3 para. 3(4) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 3 para. 3(3)(a)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/3/paragraph/3/3/a)
+[^c-6ce645854c278c18e94d623a023b5799]: Textual amendment: [Sch. 2 para. 81K(A1)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/2/paragraph/81K/A1) inserted (with effect in accordance with Sch. 3 para. 3(4) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 3 para. 3(3)(a)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/3/paragraph/3/3/a)
 
-[^key-95546d1eba9f43b5b33cb32dbfcb78be]: Textual amendment: [Sch. 2 para. 81K(6)(za)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/2/paragraph/81K/6/za) inserted (with effect in accordance with Sch. 3 para. 3(4) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 3 para. 3(3)(b)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/3/paragraph/3/3/b)
+[^c-95546d1eba9f43b5b33cb32dbfcb78be]: Textual amendment: [Sch. 2 para. 81K(6)(za)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/2/paragraph/81K/6/za) inserted (with effect in accordance with Sch. 3 para. 3(4) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 3 para. 3(3)(b)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/3/paragraph/3/3/b)
 
-[^key-059d25b91898fbd5a773d5a5753e3e12]: Textual amendment: Word in [Sch. 2 para. 81K(7)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/2/paragraph/81K/7) inserted (with effect in accordance with Sch. 3 para. 3(4) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 3 para. 3(3)(c)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/3/paragraph/3/3/c)
+[^c-059d25b91898fbd5a773d5a5753e3e12]: Textual amendment: Word in [Sch. 2 para. 81K(7)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/2/paragraph/81K/7) inserted (with effect in accordance with Sch. 3 para. 3(4) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 3 para. 3(3)(c)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/3/paragraph/3/3/c)
 
-[^key-e9098d7fb9f051a3eb7f7b1c5444fc96]: Textual amendment: [Sch. 2 Pt. 10A](https://www.legislation.gov.uk/ukpga/2003/1/schedule/2/part/10A) inserted (with effect in accordance with Sch. 3 para. 2(4) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 3 para. 2(3)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/3/paragraph/2/3)
+[^c-e9098d7fb9f051a3eb7f7b1c5444fc96]: Textual amendment: [Sch. 2 Pt. 10A](https://www.legislation.gov.uk/ukpga/2003/1/schedule/2/part/10A) inserted (with effect in accordance with Sch. 3 para. 2(4) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 3 para. 2(3)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/3/paragraph/2/3)
 
-[^key-0efcdd336d0477e0304a2341bf7e5302]: Textual amendment: Words in Sch. 2 para. 86(4)(a) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 396(6)(a)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/396/6/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-0efcdd336d0477e0304a2341bf7e5302]: Textual amendment: Words in Sch. 2 para. 86(4)(a) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 396(6)(a)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/396/6/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-f373f5cf0dda0f888058994baed1bb15]: Textual amendment: Words in Sch. 2 para. 86(4)(b) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 396(6)(b)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/396/6/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-f373f5cf0dda0f888058994baed1bb15]: Textual amendment: Words in Sch. 2 para. 86(4)(b) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 396(6)(b)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/396/6/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-0c11cc83d6895fdf080ce2562f669ed4]: Textual amendment: Words in Sch. 2 para. 86(4)(c) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 396(6)(c)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/396/6/c) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-0c11cc83d6895fdf080ce2562f669ed4]: Textual amendment: Words in Sch. 2 para. 86(4)(c) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 396(6)(c)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/396/6/c) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-328edc432e7489c89d03abfe64fdc8fa]: Textual amendment: Sch. 2 para. 87(2)(d)(ii) substituted (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 617(6)](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/617/6) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-328edc432e7489c89d03abfe64fdc8fa]: Textual amendment: Sch. 2 para. 87(2)(d)(ii) substituted (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 617(6)](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/617/6) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
-[^key-5a174ea4a2f44cf6000f654a559cca52]: Textual amendment: [Sch. 2 para. 89(2)(a)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/2/paragraph/89/2/a) omitted (6.4.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 29](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/29), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
+[^c-5a174ea4a2f44cf6000f654a559cca52]: Textual amendment: [Sch. 2 para. 89(2)(a)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/2/paragraph/89/2/a) omitted (6.4.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 29](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/29), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
 
-[^key-b3ad30cf8025b030e16779ebd86bdb0b]: Textual amendment: Words in [Sch. 2 para. 90(2)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/2/paragraph/90/2) substituted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 30](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/30), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
+[^c-b3ad30cf8025b030e16779ebd86bdb0b]: Textual amendment: Words in [Sch. 2 para. 90(2)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/2/paragraph/90/2) substituted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 30](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/30), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
 
-[^key-a057fbd09aba5ed15b7fecfeed1d940f]: Modification: Sch. 2 para. 92(2) applied by 2005 c. 5, s. 407(3C) (as inserted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 63(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/63/3), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90)))
+[^c-a057fbd09aba5ed15b7fecfeed1d940f]: Modification: Sch. 2 para. 92(2) applied by 2005 c. 5, s. 407(3C) (as inserted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 63(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/63/3), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90)))
 
-[^key-cb1290f9a5013f6cd345a9eb0f313423]: Modification: Sch. 2 para. 92(2) applied by 2005 c. 5, s. 394(3C) (as inserted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 57(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/57/3), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90)))
+[^c-cb1290f9a5013f6cd345a9eb0f313423]: Modification: Sch. 2 para. 92(2) applied by 2005 c. 5, s. 394(3C) (as inserted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 57(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/57/3), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90)))
 
-[^key-3a9b7c448f9428de538aef71d674e814]: Textual amendment: Sch. 2 para. 92(2) substituted (with effect in accordance with Sch. 2 para. 58 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 55](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/55)
+[^c-3a9b7c448f9428de538aef71d674e814]: Textual amendment: Sch. 2 para. 92(2) substituted (with effect in accordance with Sch. 2 para. 58 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 55](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/55)
 
-[^key-4f3a0614079ff004d8042e82d44ecd6f]: Textual amendment: Words in Act substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 102(1)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/102/1); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
+[^c-4f3a0614079ff004d8042e82d44ecd6f]: Textual amendment: Words in Act substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 102(1)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/102/1); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
 
-[^key-1a6593d677a804fa130e80a5a9cc5e39]: Textual amendment: Sch. 2 para. 93(1) substituted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 31(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/31/2), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
+[^c-1a6593d677a804fa130e80a5a9cc5e39]: Textual amendment: Sch. 2 para. 93(1) substituted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 31(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/31/2), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
 
-[^key-9fa75690619deaf4313c52204a762d73]: Textual amendment: Sch. 2 para. 93(2)(a)(i) substituted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 31(3)(a)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/31/3/a), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
+[^c-9fa75690619deaf4313c52204a762d73]: Textual amendment: Sch. 2 para. 93(2)(a)(i) substituted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 31(3)(a)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/31/3/a), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
 
-[^key-c0c374a227b6472b3d9f789b4d46b4b5]: Textual amendment: Words in Sch. 2 para. 93(2)(a)(ii) inserted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 31(3)(b)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/31/3/b), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
+[^c-c0c374a227b6472b3d9f789b4d46b4b5]: Textual amendment: Words in Sch. 2 para. 93(2)(a)(ii) inserted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 31(3)(b)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/31/3/b), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
 
-[^key-87eac0e6ce0bbbd5ae540624167102ff]: Textual amendment: Words in Sch. 2 para. 94(3) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 396(7)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/396/7) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-87eac0e6ce0bbbd5ae540624167102ff]: Textual amendment: Words in Sch. 2 para. 94(3) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 396(7)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/396/7) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-be4e5f01e0538085b97b08c7116ac0d7]: Textual amendment: Sch. 2 para. 98 omitted (17.7.2013) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/5) (with [Sch. 2 para. 17](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/17))
+[^c-be4e5f01e0538085b97b08c7116ac0d7]: Textual amendment: Sch. 2 para. 98 omitted (17.7.2013) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/5) (with [Sch. 2 para. 17](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/17))
 
-[^key-bc426ef4302395f2e25c4eac5a300736]: Textual amendment: Sch. 2 para. 99(4) inserted (with effect in accordance with Sch. 2 para. 58 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 56](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/56)
+[^c-bc426ef4302395f2e25c4eac5a300736]: Textual amendment: Sch. 2 para. 99(4) inserted (with effect in accordance with Sch. 2 para. 58 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 56](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/56)
 
-[^key-fd470bb321063e31a01c2280b4f19194]: Textual amendment: Words in [Sch. 2 para. 100 Table](https://www.legislation.gov.uk/ukpga/2003/1/schedule/2/paragraph/100) omitted (6.4.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 32(a)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/32/a), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
+[^c-fd470bb321063e31a01c2280b4f19194]: Textual amendment: Words in [Sch. 2 para. 100 Table](https://www.legislation.gov.uk/ukpga/2003/1/schedule/2/paragraph/100) omitted (6.4.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 32(a)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/32/a), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
 
 [^M_F_f8636d73-9059-443a-9df3-5aa25b585497]: Textual amendment: Sch. 2 para. 100 entry repealed (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), s. 53(1), Sch. 4 para. 121(e), Sch. 5; [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), art. 2(2)(h)(i)
 
-[^key-a1e35ba3166ba7f60e4b3ad69652f006]: Textual amendment: Words in Sch. 2 para. 100 Table substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 447(3)(a)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/447/3/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-a1e35ba3166ba7f60e4b3ad69652f006]: Textual amendment: Words in Sch. 2 para. 100 Table substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 447(3)(a)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/447/3/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-62f202225db6be974e9a7afb7fb190fb]: Textual amendment: Words in Sch. 2 para. 100 Table substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 447(3)(b)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/447/3/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-62f202225db6be974e9a7afb7fb190fb]: Textual amendment: Words in Sch. 2 para. 100 Table substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 447(3)(b)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/447/3/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-637b240a578a4da5084b87c160176407]: Textual amendment: Words in Sch. 2 para. 100 Table substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 447(3)(c)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/447/3/c) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-637b240a578a4da5084b87c160176407]: Textual amendment: Words in Sch. 2 para. 100 Table substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 447(3)(c)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/447/3/c) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-5cb17a6b6a8640caf1355795e7f39567]: Textual amendment: Words in Sch. 2 para. 100 Table omitted (with effect in accordance with Sch. 2 para. 38 of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 37](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/37)
+[^c-5cb17a6b6a8640caf1355795e7f39567]: Textual amendment: Words in Sch. 2 para. 100 Table omitted (with effect in accordance with Sch. 2 para. 38 of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 37](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/37)
 
-[^key-6feb835ce5ea55b5607f95a77efa425c]: Textual amendment: Words in Sch. 2 para. 100 Table substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 447(3)(d)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/447/3/d) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-6feb835ce5ea55b5607f95a77efa425c]: Textual amendment: Words in Sch. 2 para. 100 Table substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 447(3)(d)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/447/3/d) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-3c7751a49b6e4b4402b4a5a6adc5f990]: Textual amendment: Words in Sch. 2 para. 100 Table substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 447(3)(e)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/447/3/e) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-3c7751a49b6e4b4402b4a5a6adc5f990]: Textual amendment: Words in Sch. 2 para. 100 Table substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 447(3)(e)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/447/3/e) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-1d64eb822110473f1d84766433230f08]: Textual amendment: Words in Sch. 2 para. 100 Table substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 447(3)(f)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/447/3/f) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-1d64eb822110473f1d84766433230f08]: Textual amendment: Words in Sch. 2 para. 100 Table substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 447(3)(f)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/447/3/f) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-ee5a036e12d884c34c302bd042b1ad59]: Textual amendment: Words in Sch. 2 para. 100 Table substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 447(3)(g)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/447/3/g) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-ee5a036e12d884c34c302bd042b1ad59]: Textual amendment: Words in Sch. 2 para. 100 Table substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 447(3)(g)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/447/3/g) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-8f7baa14bdb13e64b279f6e1c5f5fa2b]: Textual amendment: Words in Sch. 2 para. 100 Table substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 447(3)(h)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/447/3/h) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-8f7baa14bdb13e64b279f6e1c5f5fa2b]: Textual amendment: Words in Sch. 2 para. 100 Table substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 447(3)(h)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/447/3/h) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-99daff564388b5227b21b6b89fa904cc]: Textual amendment: Words in Sch. 2 para. 100 Table inserted (with effect in accordance with Sch. 2 para. 58 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 57](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/57)
+[^c-99daff564388b5227b21b6b89fa904cc]: Textual amendment: Words in Sch. 2 para. 100 Table inserted (with effect in accordance with Sch. 2 para. 58 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 57](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/57)
 
-[^key-69c827c385f84f47adebc53f28115238]: Textual amendment: Words in [Sch. 2 para. 100 Table](https://www.legislation.gov.uk/ukpga/2003/1/schedule/2/paragraph/100) inserted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 32(b)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/32/b), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
+[^c-69c827c385f84f47adebc53f28115238]: Textual amendment: Words in [Sch. 2 para. 100 Table](https://www.legislation.gov.uk/ukpga/2003/1/schedule/2/paragraph/100) inserted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 32(b)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/32/b), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
 
-[^key-9586ce1aa8c6de3e6adf660008bc57ff]: Textual amendment: Words in Sch. 2 para. 100 Table omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 343(2)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/343/2)
+[^c-9586ce1aa8c6de3e6adf660008bc57ff]: Textual amendment: Words in Sch. 2 para. 100 Table omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 343(2)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/343/2)
 
-[^key-26b46955c6937defed80d3efb25bbb61]: Textual amendment: Words in Sch. 2 para. 100 Table omitted (17.7.2013) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/6) (with [Sch. 2 para. 17](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/17))
+[^c-26b46955c6937defed80d3efb25bbb61]: Textual amendment: Words in Sch. 2 para. 100 Table omitted (17.7.2013) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/6) (with [Sch. 2 para. 17](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/17))
 
-[^key-ba9a7ca9758f12a5a5a1abba41bbd686]: Textual amendment: Words in Sch. 2 para. 100 substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 396(8)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/396/8) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-ba9a7ca9758f12a5a5a1abba41bbd686]: Textual amendment: Words in Sch. 2 para. 100 substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 396(8)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/396/8) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-1f4383dcd639387be6ed82f26e82610c]: Textual amendment: Words in Sch. 2 para. 100 Table inserted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 343(3)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/343/3)
+[^c-1f4383dcd639387be6ed82f26e82610c]: Textual amendment: Words in Sch. 2 para. 100 Table inserted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 343(3)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/343/3)
 
-[^key-7b99fd1f7f2089ef30df58cc5b025c4b]: Textual amendment: Words in Sch. 2 para. 100 Table substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 447(3)(j)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/447/3/j) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-7b99fd1f7f2089ef30df58cc5b025c4b]: Textual amendment: Words in Sch. 2 para. 100 Table substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 447(3)(j)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/447/3/j) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))

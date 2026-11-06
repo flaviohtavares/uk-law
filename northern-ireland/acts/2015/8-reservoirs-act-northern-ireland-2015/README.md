@@ -34,7 +34,7 @@ An Act to Make provision about the regulation of the management, construction an
 
 \[24th July 2015\]
 
-BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to by Her Majesty as follows:[^key-e8989a29c8acf10fb14b39cebc296696]
+BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to by Her Majesty as follows:[^c-e8989a29c8acf10fb14b39cebc296696]
 
 ## Contents
 
@@ -319,4 +319,4 @@ SCHEDULES
 
 ## Annotations
 
-[^key-e8989a29c8acf10fb14b39cebc296696]: Modification: Act: transfer of functions (2.6.2021) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2021 (S.R. 2021/114)](https://www.legislation.gov.uk/nisr/2021/114), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2021/114/article/1/2), [4](https://www.legislation.gov.uk/nisr/2021/114/article/4) (with [art. 2(2)(a)(b)](https://www.legislation.gov.uk/nisr/2021/114/article/2/2/a/b))
+[^c-e8989a29c8acf10fb14b39cebc296696]: Modification: Act: transfer of functions (2.6.2021) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2021 (S.R. 2021/114)](https://www.legislation.gov.uk/nisr/2021/114), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2021/114/article/1/2), [4](https://www.legislation.gov.uk/nisr/2021/114/article/4) (with [art. 2(2)(a)(b)](https://www.legislation.gov.uk/nisr/2021/114/article/2/2/a/b))

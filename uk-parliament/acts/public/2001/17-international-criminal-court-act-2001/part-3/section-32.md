@@ -37,7 +37,7 @@ summary: ''
 
 - (a) a person serving a sentence in a prison to which the Prison Act 1952 (c. 52) or the Prison Act (Northern Ireland) 1953 (c.18(N.I.)) applies,
 - (b) a person serving a sentence in a prison, or in a young offenders institution, to which the Prisons (Scotland) Act 1989 (c. 45) applies,
-- (c)[^key-12791f485c8361bfcdbd6e656eb95374] a person serving a sentence of service detention (within the meaning of the Armed Forces Act 2006)[^key-6692c62a896c7cead44188d8d0596dd7] or imprisonment imposed by a service court,
+- (c)[^c-12791f485c8361bfcdbd6e656eb95374] a person serving a sentence of service detention (within the meaning of the Armed Forces Act 2006)[^c-6692c62a896c7cead44188d8d0596dd7] or imprisonment imposed by a service court,
 - (d) a person detained in custody otherwise than in pursuance of a sentence, including in particular—
   - (i) a person in custody awaiting trial or sentence,
   - (ii) a person committed to prison for contempt or for default in paying a fine,
@@ -53,9 +53,9 @@ summary: ''
 
 ## Annotations
 
-[^key-12791f485c8361bfcdbd6e656eb95374]: Modification: S. 32(6)(c) modified (24.4.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [The Armed Forces Act 2006 (Transitional Provisions etc) Order 2009 (S.I. 2009/1059)](https://www.legislation.gov.uk/uksi/2009/1059), [art. 1(3)](https://www.legislation.gov.uk/uksi/2009/1059/article/1/3), [Sch. 1 para. 48(1)](https://www.legislation.gov.uk/uksi/2009/1059/schedule/1/paragraph/48/1)
+[^c-12791f485c8361bfcdbd6e656eb95374]: Modification: S. 32(6)(c) modified (24.4.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [The Armed Forces Act 2006 (Transitional Provisions etc) Order 2009 (S.I. 2009/1059)](https://www.legislation.gov.uk/uksi/2009/1059), [art. 1(3)](https://www.legislation.gov.uk/uksi/2009/1059/article/1/3), [Sch. 1 para. 48(1)](https://www.legislation.gov.uk/uksi/2009/1059/schedule/1/paragraph/48/1)
 
-[^key-6692c62a896c7cead44188d8d0596dd7]: Textual amendment: Words in s. 32(6) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 188](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/188); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-6692c62a896c7cead44188d8d0596dd7]: Textual amendment: Words in s. 32(6) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 188](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/188); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
 [^c18068851]: Textual amendment: Words in s. 32(6)(d)(iv) inserted (4.4.2003) by [The Nationality, Immigration and Asylum Act 2002 (Consequential and Incidental Provisions) Order 2003 (S.I. 2003/1016)](https://www.legislation.gov.uk/uksi/2003/1016), [art. 3](https://www.legislation.gov.uk/uksi/2003/1016/article/3), [Sch. para. 13(1)](https://www.legislation.gov.uk/uksi/2003/1016/schedule/paragraph/13/1)
 

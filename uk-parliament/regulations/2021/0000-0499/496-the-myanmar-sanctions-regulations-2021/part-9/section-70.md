@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Maritime enforcement officers[^key-ed1cf5c6dffa72e233f3c208ff7c31a5]
+## 70. Maritime enforcement officers[^c-ed1cf5c6dffa72e233f3c208ff7c31a5]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,7 +44,7 @@ summary: ''
 
 ## Annotations
 
-[^key-ed1cf5c6dffa72e233f3c208ff7c31a5]: Commencement: Reg. 70 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)
+[^c-ed1cf5c6dffa72e233f3c208ff7c31a5]: Commencement: Reg. 70 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)
 
 [^c24500511]: Marginal citation: [1987 c. 4](https://www.legislation.gov.uk/ukpga/1987/4). Section 1 was amended by the [Police Act 1996 (c. 16)](https://www.legislation.gov.uk/ukpga/1996/16), [Schedule 7](https://www.legislation.gov.uk/ukpga/1996/16/schedule/7), [paragraph 41](https://www.legislation.gov.uk/ukpga/1996/16/paragraph/41); the [Police (Northern Ireland) Act 1998 (c. 32)](https://www.legislation.gov.uk/ukpga/1998/32), [Schedule 4](https://www.legislation.gov.uk/ukpga/1998/32/schedule/4), [paragraph 16](https://www.legislation.gov.uk/ukpga/1998/32/paragraph/16); the [Police (Northern Ireland) Act 2000 (c. 32)](https://www.legislation.gov.uk/ukpga/2000/32), [section 78(2)](https://www.legislation.gov.uk/ukpga/2000/32/section/78/2); the [Police Reform Act 2002 (c. 30)](https://www.legislation.gov.uk/ukpga/2002/30), [section 79(3)](https://www.legislation.gov.uk/ukpga/2002/30/section/79/3); and [S.I. 2013/602](https://www.legislation.gov.uk/uksi/2013/602).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 295. Exempt ADR providers[^key-e98894b2e304147e68f3e1444d9fe446][^key-d28165807dc191f5dab6e2e9f0cfa9ba]
+## 295. Exempt ADR providers[^c-e98894b2e304147e68f3e1444d9fe446][^c-d28165807dc191f5dab6e2e9f0cfa9ba]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e98894b2e304147e68f3e1444d9fe446]: Commencement: S. 295 in force at Royal Assent for specified purposes, see [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)
+[^c-e98894b2e304147e68f3e1444d9fe446]: Commencement: S. 295 in force at Royal Assent for specified purposes, see [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)
 
-[^key-d28165807dc191f5dab6e2e9f0cfa9ba]: Commencement: [S. 295](https://www.legislation.gov.uk/ukpga/2024/13/section/295) in force at 6.4.2026 in so far as not already in force by [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/2)
+[^c-d28165807dc191f5dab6e2e9f0cfa9ba]: Commencement: [S. 295](https://www.legislation.gov.uk/ukpga/2024/13/section/295) in force at 6.4.2026 in so far as not already in force by [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/2)

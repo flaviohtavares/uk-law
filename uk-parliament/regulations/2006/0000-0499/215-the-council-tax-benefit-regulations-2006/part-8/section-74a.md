@@ -14,11 +14,11 @@ summary: ''
 
 > Text as at 2018-04-11.
 
-## 74A. Notice of changes of circumstances given electronically[^key-2484b3ba75c7c721201618ec22fcc76c]
+## 74A. Notice of changes of circumstances given electronically[^c-2484b3ba75c7c721201618ec22fcc76c]
 
-(1)[^key-755fe45dd78f02b4d98b7f133c31418c] A person may give notice of a change of circumstances required to be notified under regulation 74 by means of an electronic communication in accordance with Schedule 9.
+(1)[^c-755fe45dd78f02b4d98b7f133c31418c] A person may give notice of a change of circumstances required to be notified under regulation 74 by means of an electronic communication in accordance with Schedule 9.
 
-(2)[^key-f0eb4f0fd68f07c180646af3bbf0dc31] Where—
+(2)[^c-f0eb4f0fd68f07c180646af3bbf0dc31] Where—
 
 - (a) the change of circumstances required to be notified is a death; and
 - (b) the authority administering the claimant’s council tax benefit agrees with the Secretary of State that notifications may be made in accordance with regulation 74ZA(1) (alternative means of notifying changes of circumstances),
@@ -31,8 +31,8 @@ a person may give notice of the change to the Secretary of State by means of an 
 
 ## Annotations
 
-[^key-2484b3ba75c7c721201618ec22fcc76c]: Textual amendment: Reg. 74A and heading inserted (20.12.2006) by virtue of[Housing Benefit and Council Tax Benefit (Electronic Communications) Order 2006 (S.I. 2006/2968)](https://www.legislation.gov.uk/uksi/2006/2968), [art. 1](https://www.legislation.gov.uk/uksi/2006/2968/article/1)[reg. 4(4)](https://www.legislation.gov.uk/uksi/2006/2968/regulation/4/4)
+[^c-2484b3ba75c7c721201618ec22fcc76c]: Textual amendment: Reg. 74A and heading inserted (20.12.2006) by virtue of[Housing Benefit and Council Tax Benefit (Electronic Communications) Order 2006 (S.I. 2006/2968)](https://www.legislation.gov.uk/uksi/2006/2968), [art. 1](https://www.legislation.gov.uk/uksi/2006/2968/article/1)[reg. 4(4)](https://www.legislation.gov.uk/uksi/2006/2968/regulation/4/4)
 
-[^key-755fe45dd78f02b4d98b7f133c31418c]: Textual amendment: [Reg. 74A(1)](https://www.legislation.gov.uk/uksi/2006/215/regulation/74A/1): reg. 74A renumbered as reg. 74A(1) (23.1.2012) by [The Social Security (Electronic Communications) (No. 2) Order 2011 (S.I. 2011/2943)](https://www.legislation.gov.uk/uksi/2011/2943), [arts. 1](https://www.legislation.gov.uk/uksi/2011/2943/article/1), [4(2)](https://www.legislation.gov.uk/uksi/2011/2943/article/4/2)
+[^c-755fe45dd78f02b4d98b7f133c31418c]: Textual amendment: [Reg. 74A(1)](https://www.legislation.gov.uk/uksi/2006/215/regulation/74A/1): reg. 74A renumbered as reg. 74A(1) (23.1.2012) by [The Social Security (Electronic Communications) (No. 2) Order 2011 (S.I. 2011/2943)](https://www.legislation.gov.uk/uksi/2011/2943), [arts. 1](https://www.legislation.gov.uk/uksi/2011/2943/article/1), [4(2)](https://www.legislation.gov.uk/uksi/2011/2943/article/4/2)
 
-[^key-f0eb4f0fd68f07c180646af3bbf0dc31]: Textual amendment: [Regs. 74A(2)-(4)](https://www.legislation.gov.uk/uksi/2006/215/regulation/74A/2) inserted (23.1.2012) by [The Social Security (Electronic Communications) (No. 2) Order 2011 (S.I. 2011/2943)](https://www.legislation.gov.uk/uksi/2011/2943), [arts. 1](https://www.legislation.gov.uk/uksi/2011/2943/article/1), [4(3)](https://www.legislation.gov.uk/uksi/2011/2943/article/4/3)
+[^c-f0eb4f0fd68f07c180646af3bbf0dc31]: Textual amendment: [Regs. 74A(2)-(4)](https://www.legislation.gov.uk/uksi/2006/215/regulation/74A/2) inserted (23.1.2012) by [The Social Security (Electronic Communications) (No. 2) Order 2011 (S.I. 2011/2943)](https://www.legislation.gov.uk/uksi/2011/2943), [arts. 1](https://www.legislation.gov.uk/uksi/2011/2943/article/1), [4(3)](https://www.legislation.gov.uk/uksi/2011/2943/article/4/3)

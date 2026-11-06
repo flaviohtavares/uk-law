@@ -32,7 +32,7 @@ summary: ''
 
 Medicines
 
-The Veterinary Medicines (Amendment) Regulations 2012 (revoked)[^key-2bf90b634fbf92281c952d772c246432]
+The Veterinary Medicines (Amendment) Regulations 2012 (revoked)[^c-2bf90b634fbf92281c952d772c246432]
 
 Made
 
@@ -46,31 +46,31 @@ Coming into force
 
 1st December 2012
 
-[^key-2bf90b634fbf92281c952d772c246432]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2bf90b634fbf92281c952d772c246432]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-2bf90b634fbf92281c952d772c246432]
+## 1. Title and commencement[^c-2bf90b634fbf92281c952d772c246432]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Approval of manufacturers and distributors of feedingstuffs containing veterinary medicinal products[^key-2bf90b634fbf92281c952d772c246432]
+## 2. Approval of manufacturers and distributors of feedingstuffs containing veterinary medicinal products[^c-2bf90b634fbf92281c952d772c246432]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Supply of a complementary feedingstuff[^key-2bf90b634fbf92281c952d772c246432]
+## 3. Supply of a complementary feedingstuff[^c-2bf90b634fbf92281c952d772c246432]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Sampling and analysis[^key-2bf90b634fbf92281c952d772c246432]
+## 4. Sampling and analysis[^c-2bf90b634fbf92281c952d772c246432]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2bf90b634fbf92281c952d772c246432]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2bf90b634fbf92281c952d772c246432]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-2bf90b634fbf92281c952d772c246432]EXPLANATORY NOTE
+[^c-2bf90b634fbf92281c952d772c246432]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -86,4 +86,4 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 ## Annotations
 
-[^key-2bf90b634fbf92281c952d772c246432]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2012/2711) revoked (1.10.2013) by [The Veterinary Medicines Regulations 2013 (S.I. 2013/2033)](https://www.legislation.gov.uk/uksi/2013/2033), [reg. 47(b)](https://www.legislation.gov.uk/uksi/2013/2033/regulation/47/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2013/2033/regulation/3))
+[^c-2bf90b634fbf92281c952d772c246432]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2012/2711) revoked (1.10.2013) by [The Veterinary Medicines Regulations 2013 (S.I. 2013/2033)](https://www.legislation.gov.uk/uksi/2013/2033), [reg. 47(b)](https://www.legislation.gov.uk/uksi/2013/2033/regulation/47/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2013/2033/regulation/3))

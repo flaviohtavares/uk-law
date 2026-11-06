@@ -22,7 +22,7 @@ summary: ''
 
 Section 142.
 
-### Part I — Supplementary Provisions[^key-50c33eb570e0c1f2b2d250b40128416f]
+### Part I — Supplementary Provisions[^c-50c33eb570e0c1f2b2d250b40128416f]
 
 #### Constitution of tribunals
 
@@ -71,11 +71,11 @@ Section 142.
 
 (3) In section 21(2), for “ the Lands Tribunal” substitute “ a leasehold valuation tribunal” and for “ the Tribunal” substitute “ a tribunal”.
 
-(4)[^key-1c2919ebf0146253e659861298e47632] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-1c2919ebf0146253e659861298e47632] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-1c2919ebf0146253e659861298e47632] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-1c2919ebf0146253e659861298e47632] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-1c2919ebf0146253e659861298e47632] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-1c2919ebf0146253e659861298e47632] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) Section 21(5) (costs of proceedings before Lands Tribunal) is repealed.
 
@@ -89,8 +89,8 @@ Section 142.
 
 ## Annotations
 
-[^key-50c33eb570e0c1f2b2d250b40128416f]: Textual amendment: Sch. 22 Pt. 1 repealed (30.9.2003 for E., 30.3.2004 for W.) by [Commonhold and Leasehold Reform Act 2002 (c. 15)](https://www.legislation.gov.uk/ukpga/2002/15), [s. 181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1), [Sch. 14](https://www.legislation.gov.uk/ukpga/2002/15/schedule/14); [S.I. 2003/1986](https://www.legislation.gov.uk/uksi/2003/1986), [art. 2(c)(iv)](https://www.legislation.gov.uk/uksi/2003/1986/article/2/c/iv), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2003/1986/schedule/1/part/1) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2003/1986/schedule/2)); [S.I. 2004/669](https://www.legislation.gov.uk/uksi/2004/669), [art. 2(c)(iv)](https://www.legislation.gov.uk/uksi/2004/669/article/2/c/iv), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2004/669/schedule/1/part/1) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2004/669/schedule/2))
+[^c-50c33eb570e0c1f2b2d250b40128416f]: Textual amendment: Sch. 22 Pt. 1 repealed (30.9.2003 for E., 30.3.2004 for W.) by [Commonhold and Leasehold Reform Act 2002 (c. 15)](https://www.legislation.gov.uk/ukpga/2002/15), [s. 181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1), [Sch. 14](https://www.legislation.gov.uk/ukpga/2002/15/schedule/14); [S.I. 2003/1986](https://www.legislation.gov.uk/uksi/2003/1986), [art. 2(c)(iv)](https://www.legislation.gov.uk/uksi/2003/1986/article/2/c/iv), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2003/1986/schedule/1/part/1) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2003/1986/schedule/2)); [S.I. 2004/669](https://www.legislation.gov.uk/uksi/2004/669), [art. 2(c)(iv)](https://www.legislation.gov.uk/uksi/2004/669/article/2/c/iv), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2004/669/schedule/1/part/1) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2004/669/schedule/2))
 
 [^c1152167]: Modification: The text of Schs. 6 and 7, Sch. 8 para. 2, Sch. 10 paras. 1(1)(2)(4)(5), 3–5, Sch. 21, Sch. 22 Pt. II, Sch. 25 Pt. I (paras. 1–6, 32, 33, 35, 37–60) and Sch. 26 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
 
-[^key-1c2919ebf0146253e659861298e47632]: Textual amendment: [Sch. 22 para. 8(4)-(6)](https://www.legislation.gov.uk/ukpga/1980/51/schedule/22/paragraph/8/4) repealed (30.9.2003 for E., 30.3.2004 for W.) by [Commonhold and Leasehold Reform Act 2002 (c. 15)](https://www.legislation.gov.uk/ukpga/2002/15), [s. 181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1), [Sch. 14](https://www.legislation.gov.uk/ukpga/2002/15/schedule/14); [S.I. 2003/1986](https://www.legislation.gov.uk/uksi/2003/1986), [art. 2(c)(iv)](https://www.legislation.gov.uk/uksi/2003/1986/article/2/c/iv), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2003/1986/schedule/1/part/1) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2003/1986/schedule/2)); [S.I. 2004/669](https://www.legislation.gov.uk/wsi/2004/669), [art. 2(c)(iv)](https://www.legislation.gov.uk/wsi/2004/669/article/2/c/iv), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/wsi/2004/669/schedule/1/part/1) (with [Sch. 2](https://www.legislation.gov.uk/wsi/2004/669/schedule/2))
+[^c-1c2919ebf0146253e659861298e47632]: Textual amendment: [Sch. 22 para. 8(4)-(6)](https://www.legislation.gov.uk/ukpga/1980/51/schedule/22/paragraph/8/4) repealed (30.9.2003 for E., 30.3.2004 for W.) by [Commonhold and Leasehold Reform Act 2002 (c. 15)](https://www.legislation.gov.uk/ukpga/2002/15), [s. 181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1), [Sch. 14](https://www.legislation.gov.uk/ukpga/2002/15/schedule/14); [S.I. 2003/1986](https://www.legislation.gov.uk/uksi/2003/1986), [art. 2(c)(iv)](https://www.legislation.gov.uk/uksi/2003/1986/article/2/c/iv), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2003/1986/schedule/1/part/1) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2003/1986/schedule/2)); [S.I. 2004/669](https://www.legislation.gov.uk/wsi/2004/669), [art. 2(c)(iv)](https://www.legislation.gov.uk/wsi/2004/669/article/2/c/iv), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/wsi/2004/669/schedule/1/part/1) (with [Sch. 2](https://www.legislation.gov.uk/wsi/2004/669/schedule/2))

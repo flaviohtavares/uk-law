@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 262. Repeal[^M_I_f7d994cb-25af-4784-bab7-27f2a483cc36][^key-96214f19dedf39cf26e1df3bdd3f9186]
+## 262. Repeal[^M_I_f7d994cb-25af-4784-bab7-27f2a483cc36][^c-96214f19dedf39cf26e1df3bdd3f9186]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 [^M_I_f7d994cb-25af-4784-bab7-27f2a483cc36]: Commencement: S. 262 in force at 17.2.2009 for specified purposes by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), arts. 2, 3, Sch. para. 17
 
-[^key-96214f19dedf39cf26e1df3bdd3f9186]: Commencement: S. 262 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 17](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/17)
+[^c-96214f19dedf39cf26e1df3bdd3f9186]: Commencement: S. 262 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 17](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/17)

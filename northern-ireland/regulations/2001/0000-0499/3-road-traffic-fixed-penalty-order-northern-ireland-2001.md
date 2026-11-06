@@ -31,7 +31,7 @@ summary: ''
 
 ROAD TRAFFIC AND VEHICLES
 
-Road Traffic (Fixed Penalty) Order (Northern Ireland) 2001 (revoked)[^key-ff3deb6497906c4bcef9b682062cb27c]
+Road Traffic (Fixed Penalty) Order (Northern Ireland) 2001 (revoked)[^c-ff3deb6497906c4bcef9b682062cb27c]
 
 Made
 
@@ -41,27 +41,27 @@ Coming into operation
 
 1st March 2001
 
-[^key-ff3deb6497906c4bcef9b682062cb27c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ff3deb6497906c4bcef9b682062cb27c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-ff3deb6497906c4bcef9b682062cb27c]
+## 1. Citation, commencement and application[^c-ff3deb6497906c4bcef9b682062cb27c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amount of fixed penalty[^key-ff3deb6497906c4bcef9b682062cb27c]
+## 2. Amount of fixed penalty[^c-ff3deb6497906c4bcef9b682062cb27c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-ff3deb6497906c4bcef9b682062cb27c]
+## 3. Revocation[^c-ff3deb6497906c4bcef9b682062cb27c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ff3deb6497906c4bcef9b682062cb27c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ff3deb6497906c4bcef9b682062cb27c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-ff3deb6497906c4bcef9b682062cb27c]
+## SCHEDULE[^c-ff3deb6497906c4bcef9b682062cb27c]
 
 Article 2
 
@@ -69,8 +69,8 @@ Article 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-ff3deb6497906c4bcef9b682062cb27c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ff3deb6497906c4bcef9b682062cb27c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ff3deb6497906c4bcef9b682062cb27c]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2001/3) revoked (with application in accordance with art. 1(2) of the amending Rule) by [The Road Traffic (Fixed Penalty) Order (Northern Ireland) 2007 (S.R. 2007/319)](https://www.legislation.gov.uk/nisr/2007/319), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2007/319/article/1/1), [3](https://www.legislation.gov.uk/nisr/2007/319/article/3)
+[^c-ff3deb6497906c4bcef9b682062cb27c]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2001/3) revoked (with application in accordance with art. 1(2) of the amending Rule) by [The Road Traffic (Fixed Penalty) Order (Northern Ireland) 2007 (S.R. 2007/319)](https://www.legislation.gov.uk/nisr/2007/319), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2007/319/article/1/1), [3](https://www.legislation.gov.uk/nisr/2007/319/article/3)

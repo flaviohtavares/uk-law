@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 142. Publication[^key-7b1070e898a3b426026fe2d5cc7b141c][^key-f6932dcd02d7d36758f3a540a6a9f532]
+## 142. Publication[^c-7b1070e898a3b426026fe2d5cc7b141c][^c-f6932dcd02d7d36758f3a540a6a9f532]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7b1070e898a3b426026fe2d5cc7b141c]: Commencement: S. 142 not in force at Royal Assent, see [s. 148](https://www.legislation.gov.uk/asc/2022/1/section/148)
+[^c-7b1070e898a3b426026fe2d5cc7b141c]: Commencement: S. 142 not in force at Royal Assent, see [s. 148](https://www.legislation.gov.uk/asc/2022/1/section/148)
 
-[^key-f6932dcd02d7d36758f3a540a6a9f532]: Commencement: [S. 142](https://www.legislation.gov.uk/asc/2022/1/section/142) in force at 4.9.2023 by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 2(t)](https://www.legislation.gov.uk/wsi/2023/919/article/2/t)
+[^c-f6932dcd02d7d36758f3a540a6a9f532]: Commencement: [S. 142](https://www.legislation.gov.uk/asc/2022/1/section/142) in force at 4.9.2023 by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 2(t)](https://www.legislation.gov.uk/wsi/2023/919/article/2/t)

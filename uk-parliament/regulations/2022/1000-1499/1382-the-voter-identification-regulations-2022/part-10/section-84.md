@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Amendment of regulation 45 (orders for production of documents: England and Wales and Northern Ireland)[^key-6b96d3c954a3ca40307dd88aef82504b]
+## 84. Amendment of regulation 45 (orders for production of documents: England and Wales and Northern Ireland)[^c-6b96d3c954a3ca40307dd88aef82504b]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ In regulation 45 (orders for production of documents: England and Wales and Nort
 
 ## Annotations
 
-[^key-6b96d3c954a3ca40307dd88aef82504b]: Commencement: Reg. 84 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-6b96d3c954a3ca40307dd88aef82504b]: Commencement: Reg. 84 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)

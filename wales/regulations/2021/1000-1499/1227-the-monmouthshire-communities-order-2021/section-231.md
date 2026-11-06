@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 231. Creation of the new community ward of Skenfrith[^key-b007dc4883c4eca05c0c29cdce2ccfd7][^key-37ab549eb3db465c0577ef8dfa53f315]
+## 231. Creation of the new community ward of Skenfrith[^c-b007dc4883c4eca05c0c29cdce2ccfd7][^c-37ab549eb3db465c0577ef8dfa53f315]
 
 *Extent: E+W*
 
@@ -27,6 +27,6 @@ The new community ward of Skenfrith is created in the community of Skenfrith whi
 
 ## Annotations
 
-[^key-b007dc4883c4eca05c0c29cdce2ccfd7]: Commencement: Art. 231 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
+[^c-b007dc4883c4eca05c0c29cdce2ccfd7]: Commencement: Art. 231 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
 
-[^key-37ab549eb3db465c0577ef8dfa53f315]: Commencement: [Art. 231](https://www.legislation.gov.uk/wsi/2021/1227/article/231) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)
+[^c-37ab549eb3db465c0577ef8dfa53f315]: Commencement: [Art. 231](https://www.legislation.gov.uk/wsi/2021/1227/article/231) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)

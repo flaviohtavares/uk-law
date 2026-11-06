@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 164. Protected status: the debtor[^key-9fd59aa9c0a6120ee3454da4c572767d]
+## 164. Protected status: the debtor[^c-9fd59aa9c0a6120ee3454da4c572767d]
 
 *Extent: S*
 
@@ -29,9 +29,9 @@ summary: ''
 - (e) a corporate body which, or
 - (f) an unincorporated body which,
 
-has a sufficient connection to Scotland and[^key-5fd5fa3e733badfd1bc2af0fb4d84b57] grants a trust deed for a single estate.
+has a sufficient connection to Scotland and[^c-5fd5fa3e733badfd1bc2af0fb4d84b57] grants a trust deed for a single estate.
 
-(1A)[^key-657ce465f34887c0f06df7e1193adfef] For the purposes of subsection (1), a debtor has a sufficient connection to Scotland if—
+(1A)[^c-657ce465f34887c0f06df7e1193adfef] For the purposes of subsection (1), a debtor has a sufficient connection to Scotland if—
 
 - (a) in the case of a debtor who is a living individual, the individual—
   - (i) was habitually resident in Scotland at any time in the year immediately preceding the date the trust deed is granted, or
@@ -49,8 +49,8 @@ has a sufficient connection to Scotland and[^key-5fd5fa3e733badfd1bc2af0fb4d84b5
 
 ## Annotations
 
-[^key-9fd59aa9c0a6120ee3454da4c572767d]: Commencement: [S. 164](https://www.legislation.gov.uk/asp/2016/21/section/164) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-9fd59aa9c0a6120ee3454da4c572767d]: Commencement: [S. 164](https://www.legislation.gov.uk/asp/2016/21/section/164) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
 
-[^key-5fd5fa3e733badfd1bc2af0fb4d84b57]: Textual amendment: Words in [s. 164(1)](https://www.legislation.gov.uk/asp/2016/21/section/164/1) inserted (1.7.2024) by [The Protected Trust Deeds (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/198)](https://www.legislation.gov.uk/ssi/2024/198), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/198/regulation/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2024/198/regulation/2/2)
+[^c-5fd5fa3e733badfd1bc2af0fb4d84b57]: Textual amendment: Words in [s. 164(1)](https://www.legislation.gov.uk/asp/2016/21/section/164/1) inserted (1.7.2024) by [The Protected Trust Deeds (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/198)](https://www.legislation.gov.uk/ssi/2024/198), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/198/regulation/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2024/198/regulation/2/2)
 
-[^key-657ce465f34887c0f06df7e1193adfef]: Textual amendment: [S. 164(1A)](https://www.legislation.gov.uk/asp/2016/21/section/164/1A) inserted (1.7.2024) by [The Protected Trust Deeds (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/198)](https://www.legislation.gov.uk/ssi/2024/198), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/198/regulation/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2024/198/regulation/2/3)
+[^c-657ce465f34887c0f06df7e1193adfef]: Textual amendment: [S. 164(1A)](https://www.legislation.gov.uk/asp/2016/21/section/164/1A) inserted (1.7.2024) by [The Protected Trust Deeds (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/198)](https://www.legislation.gov.uk/ssi/2024/198), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/198/regulation/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2024/198/regulation/2/3)

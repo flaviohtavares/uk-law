@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Power of deputy to exercise functions of chief constable[^key-c9b2699c8466c2e8401d85a033a0dd7a]
+## 41. Power of deputy to exercise functions of chief constable[^c-c9b2699c8466c2e8401d85a033a0dd7a]
 
 *Extent: E+W*
 
@@ -69,4 +69,4 @@ the person designated as the next most senior deputy chief constable is to be tr
 
 ## Annotations
 
-[^key-c9b2699c8466c2e8401d85a033a0dd7a]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2011/13/section/41) in force at 22.11.2012 by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/a)
+[^c-c9b2699c8466c2e8401d85a033a0dd7a]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2011/13/section/41) in force at 22.11.2012 by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/a)

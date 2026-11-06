@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Revocation[^key-4831899ab76d1f8ec63409ab38a91d5b]
+## 9. Revocation[^c-4831899ab76d1f8ec63409ab38a91d5b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The regulations specified in Schedule 7 are revoked.
 
 ## Annotations
 
-[^key-4831899ab76d1f8ec63409ab38a91d5b]: Commencement: Reg. 9 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
+[^c-4831899ab76d1f8ec63409ab38a91d5b]: Commencement: Reg. 9 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1141. Service addresses[^c20262741][^c20605651][^key-5ca73ca0dbd327f0802564d4794b44bb]
+## 1141. Service addresses[^c20262741][^c20605651][^c-5ca73ca0dbd327f0802564d4794b44bb]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 [^c20605651]: Modification: Ss. 1139-1142 applied (with modifications) (1.10.2009) by [The Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 (S.I. 2009/1804)](https://www.legislation.gov.uk/uksi/2009/1804), [regs. 2](https://www.legislation.gov.uk/uksi/2009/1804/regulation/2), [75](https://www.legislation.gov.uk/uksi/2009/1804/regulation/75)
 
-[^key-5ca73ca0dbd327f0802564d4794b44bb]: Modification: [S. 1141](https://www.legislation.gov.uk/ukpga/2006/46/section/1141) applied (with modifications) (4.3.2024) by [S.I. 2009/1804](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 75A](https://www.legislation.gov.uk/uksi/2009/1804/regulation/75A) (as inserted by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [45](https://www.legislation.gov.uk/uksi/2024/234/regulation/45); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a))
+[^c-5ca73ca0dbd327f0802564d4794b44bb]: Modification: [S. 1141](https://www.legislation.gov.uk/ukpga/2006/46/section/1141) applied (with modifications) (4.3.2024) by [S.I. 2009/1804](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 75A](https://www.legislation.gov.uk/uksi/2009/1804/regulation/75A) (as inserted by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [45](https://www.legislation.gov.uk/uksi/2024/234/regulation/45); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a))

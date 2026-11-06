@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Initial determination of a local education authority’s schools budgets[^key-f7f619245bd7145b0dd26fbd8955187d]
+## 4. Initial determination of a local education authority’s schools budgets[^c-f7f619245bd7145b0dd26fbd8955187d]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ A local education authority must not later than 31st March 2008—
 
 ## Annotations
 
-[^key-f7f619245bd7145b0dd26fbd8955187d]: Commencement: Reg. 4 in force at 29.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/228/regulation/1/1)
+[^c-f7f619245bd7145b0dd26fbd8955187d]: Commencement: Reg. 4 in force at 29.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/228/regulation/1/1)

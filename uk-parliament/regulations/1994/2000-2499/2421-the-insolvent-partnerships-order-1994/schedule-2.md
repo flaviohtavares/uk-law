@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 2 — MODIFIED PROVISIONS OF PART II OF, AND SCHEDULE B1 TO, THE ACT (ADMINISTRATION) AS APPLIED BY ARTICLE 6[^key-9471d17602b88060c261736ab84cffcb]
+## SCHEDULE 2 — MODIFIED PROVISIONS OF PART II OF, AND SCHEDULE B1 TO, THE ACT (ADMINISTRATION) AS APPLIED BY ARTICLE 6[^c-9471d17602b88060c261736ab84cffcb]
 
 *Extent: E+W*
 
@@ -92,7 +92,7 @@ Article 6
 > (2) For the purposes of sub-paragraph (1) an agricultural floating charge qualifies if created by an instrument which—
 >
 > - (a) states that this paragraph applies to the agricultural floating charge,
-> - (b) purports to empower the holder of the agricultural floating charge to appoint an administrator of the partnership, or[^key-8fcf9bc7d34f7690a5d3dd69f1500205]
+> - (b) purports to empower the holder of the agricultural floating charge to appoint an administrator of the partnership, or[^c-8fcf9bc7d34f7690a5d3dd69f1500205]
 > - (c) purports to empower the holder of the agricultural floating charge to make an appointment which would be the appointment of an agricultural receiver.
 >
 > (3) For the purposes of sub-paragraph (1) a person is the holder of a qualifying agricultural floating charge in respect of partnership property if he holds one or more charges of the partnership secured—
@@ -110,7 +110,7 @@ Article 6
 > - (a) he has given at least two business days' written notice to the holder of any prior agricultural floating charge which satisfies paragraph 14(2); or
 > - (b) the holder of any prior agricultural floating charge which satisfies paragraph 14(2) has consented in writing to the making of the appointment.
 >
-> (2)[^key-1a0a08b6f57dea2186a58511af2e5da2] For the purposes of this paragraph, one agricultural floating charge is prior to another in accordance with the provisions of section 8(2) of the Agricultural Credits Act 1928
+> (2)[^c-1a0a08b6f57dea2186a58511af2e5da2] For the purposes of this paragraph, one agricultural floating charge is prior to another in accordance with the provisions of section 8(2) of the Agricultural Credits Act 1928
 
 .
 
@@ -247,7 +247,7 @@ Article 6
 
 .
 
-**17.**[^key-74c257f89093e7be9cfe095bd32110a8] Paragraph 42 is modified so as to read as follows—
+**17.**[^c-74c257f89093e7be9cfe095bd32110a8] Paragraph 42 is modified so as to read as follows—
 
 > **42.** (1) This paragraph applies to a partnership in administration.
 >
@@ -260,13 +260,13 @@ Article 6
 > (5) Sub-paragraph (2) does not apply to an order made on a petition presented under—
 >
 > - (a) section 124A(public interest); or
-> - (b) section 367 of the Financial Services and Markets Act [2000 (c. 8)](https://www.legislation.gov.uk/ukpga/2000/8) (winding-up petitions)[^key-b3e522bc2cd95c19aee8898a4ace5878].
+> - (b) section 367 of the Financial Services and Markets Act [2000 (c. 8)](https://www.legislation.gov.uk/ukpga/2000/8) (winding-up petitions)[^c-b3e522bc2cd95c19aee8898a4ace5878].
 >
 > (6) If a petition presented under a provision referred to in sub-paragraph (5) comes to the attention of the administrator, he shall apply to the court for directions under paragraph 63.
 
 .
 
-**18.**[^key-8575539361b8b1cbd39e41629999992f] Paragraph 43 is modified so as to read as follows—
+**18.**[^c-8575539361b8b1cbd39e41629999992f] Paragraph 43 is modified so as to read as follows—
 
 > **43.** (1) This paragraph applies to a partnership in administration.
 >
@@ -323,7 +323,7 @@ Article 6
 
 .
 
-**20.**[^key-6f6ba82c1ee7887825a524bb731fd472] Paragraph 49 is modified so as to read as follows—
+**20.**[^c-6f6ba82c1ee7887825a524bb731fd472] Paragraph 49 is modified so as to read as follows—
 
 > **49.** (1) The administrator of a partnership shall make a statement setting out proposals for achieving the purpose of administration.
 >
@@ -337,7 +337,7 @@ Article 6
 > (4) The administrator shall send a copy of the statement of his proposals—
 >
 > - (a) to the court,
-> - (b) to every creditor of the partnership , other than an opted-out creditor,[^key-2d951773850bb9b4a76db4ce6cfef6ff] of whose claim and address he is aware, and
+> - (b) to every creditor of the partnership , other than an opted-out creditor,[^c-2d951773850bb9b4a76db4ce6cfef6ff] of whose claim and address he is aware, and
 > - (c) to every member of the partnership of whose address he is aware.
 >
 > (5) The administrator shall comply with sub-paragraph (4)—
@@ -361,19 +361,19 @@ Article 6
 > - (b) that the partnership has insufficient property to enable a distribution to be made to unsecured creditors, or
 > - (c) that neither of the objectives specified in paragraph 3(1)(a) and (b) can be achieved.
 >
-> (2) But the administrator shall seek a decision from the partnership’s creditors as to whether they approve the proposals set out in the statement made under paragraph 49(1) if requested to do so[^key-af5e288e172eb3bf1c8e9667da4c3b68] —
+> (2) But the administrator shall seek a decision from the partnership’s creditors as to whether they approve the proposals set out in the statement made under paragraph 49(1) if requested to do so[^c-af5e288e172eb3bf1c8e9667da4c3b68] —
 >
 > - (a) by creditors of the partnership whose debts amount to at least 10 per cent of the total debts of the partnership,
 > - (b) in the prescribed manner, and
 > - (c) in the prescribed period.
 >
-> (3)[^key-8699fad623767f17b799e4f16a537684] Where a decision is sought by virtue of sub-paragraph (2) the initial decision date (as defined in paragraph 51(3)) must be within the prescribed period.
+> (3)[^c-8699fad623767f17b799e4f16a537684] Where a decision is sought by virtue of sub-paragraph (2) the initial decision date (as defined in paragraph 51(3)) must be within the prescribed period.
 >
 > (4) The period prescribed under sub-paragraph (3) may be varied in accordance with paragraph 107.
 
 .
 
-**22.**[^key-ca9487c705a83bfe28f4b59ff2525e0a] Paragraph 61 is modified so as to read as follows—
+**22.**[^c-ca9487c705a83bfe28f4b59ff2525e0a] Paragraph 61 is modified so as to read as follows—
 
 > **61.** The administrator of a partnership—
 >
@@ -382,17 +382,17 @@ Article 6
 
 .
 
-**23.**[^key-2e6052224af7a791e04d494a6ab85cb4] Paragraph 65 is modified so as to read as follows—
+**23.**[^c-2e6052224af7a791e04d494a6ab85cb4] Paragraph 65 is modified so as to read as follows—
 
 > **65.** (1) The administrator of a partnership may make a distribution to a creditor of the partnership.
 >
-> (2) Section 175(1), (1A), (1B), and (3) and section 176AZA[^key-9d0828d3c85d5195dfaf06ae018fef23] shall apply in relation to a distribution under this paragraph as it applies in relation to a winding up.
+> (2) Section 175(1), (1A), (1B), and (3) and section 176AZA[^c-9d0828d3c85d5195dfaf06ae018fef23] shall apply in relation to a distribution under this paragraph as it applies in relation to a winding up.
 >
 > (3) A payment may not be made by way of distribution under this paragraph to a creditor of the partnership who is neither secured nor preferential unless the court gives permission.
 
 .
 
-**24.**[^key-c75be0eed35bd9ab593235c1e178a605] Paragraph 69 is modified so as to read as follows:—
+**24.**[^c-c75be0eed35bd9ab593235c1e178a605] Paragraph 69 is modified so as to read as follows:—
 
 > **69.** (1) Subject to sub-paragraph (2) below, in exercising his function under this Schedule the administrator of a partnership acts as the agent of the members of the partnership in their capacity as such.
 >
@@ -400,15 +400,15 @@ Article 6
 
 .
 
-**25.**[^key-1f23cc8a5cc5f69d9e206dc93c9d2301] Paragraph 73 is modified so as to read as follows—
+**25.**[^c-1f23cc8a5cc5f69d9e206dc93c9d2301] Paragraph 73 is modified so as to read as follows—
 
 > **73.** (1) An administrator’s statement of proposals under paragraph 49 may not include any action which—
 >
 > - (a) affects the right of a secured creditor of the partnership to enforce his security,
-> - (b) would result in a preferential debt of the partnership being paid otherwise than in priority to its non-preferential debts, [^key-6d9cefd04d73c5232c8527d3e3154d3b]...
-> - (bb)[^key-b97d9c9e90d887d263dfae9c38aaa46c] would result in an ordinary preferential debt of the partnership being paid otherwise than in priority to any secondary preferential debts that it may have,
-> - (c) would result in one preferential creditor of the partnership being paid a smaller proportion of an ordinary preferential debt[^key-dbaac1e7eb42969f259cf04ef771c56a] than another [^key-d97e560cd8eecced4dbf2fdb6f09a52a]...[^key-a53beecd9585831f91e8955d854c6838]
-> - (d) would result in one preferential creditor of the partnership being paid a smaller proportion of a secondary preferential debt than another or[^key-6ba60d4097c56febec98cd6f5c4a20a8]
+> - (b) would result in a preferential debt of the partnership being paid otherwise than in priority to its non-preferential debts, [^c-6d9cefd04d73c5232c8527d3e3154d3b]...
+> - (bb)[^c-b97d9c9e90d887d263dfae9c38aaa46c] would result in an ordinary preferential debt of the partnership being paid otherwise than in priority to any secondary preferential debts that it may have,
+> - (c) would result in one preferential creditor of the partnership being paid a smaller proportion of an ordinary preferential debt[^c-dbaac1e7eb42969f259cf04ef771c56a] than another [^c-d97e560cd8eecced4dbf2fdb6f09a52a]...[^c-a53beecd9585831f91e8955d854c6838]
+> - (d) would result in one preferential creditor of the partnership being paid a smaller proportion of a secondary preferential debt than another or[^c-6ba60d4097c56febec98cd6f5c4a20a8]
 > - (e) the company is a relevant financial institution (see section 387A), any non-preferential debt is to be paid otherwise than in accordance with the rules in section 176AZA(2) or (3).
 >
 > (2) Sub-paragraph (1) does not apply to—
@@ -420,7 +420,7 @@ Article 6
 
 .
 
-**26.**[^key-743135d1ab23f1378fb53cbb8233d30d] Paragraph 74 is modified so as to read as follows—
+**26.**[^c-743135d1ab23f1378fb53cbb8233d30d] Paragraph 74 is modified so as to read as follows—
 
 > **74.** (1) A creditor or member of a partnership in administration may apply to the court claiming that—
 >
@@ -441,7 +441,7 @@ Article 6
 >
 > - (a) regulate the administrator’s exercise of his functions;
 > - (b) require the administrator to do or not do a specified thing;
-> - (c)[^key-77049ea284a53a5b71aaa0e671a6415a] require a decision of the partnership’s creditors to be sought on a matter;
+> - (c)[^c-77049ea284a53a5b71aaa0e671a6415a] require a decision of the partnership’s creditors to be sought on a matter;
 > - (d) provide for the appointment of an administrator to cease to have effect;
 > - (e) make consequential provision.
 >
@@ -459,7 +459,7 @@ Article 6
 
 **27.** Omit paragraph 83.
 
-**28.**[^key-5e66bac77f894b4593cae4ccd29029d7] Paragraph 84 is modified so as to read as follows—
+**28.**[^c-5e66bac77f894b4593cae4ccd29029d7] Paragraph 84 is modified so as to read as follows—
 
 > **84.** (1) If the administrator of a partnership thinks that the partnership has no property which might permit a distribution to its creditors, he shall file a notice to that effect with the court.
 >
@@ -481,7 +481,7 @@ Article 6
 
 .
 
-**29.**[^key-cf8c803d99b663e4a3e9a73a9560569c] Paragraph 87 is modified to read as follows—
+**29.**[^c-cf8c803d99b663e4a3e9a73a9560569c] Paragraph 87 is modified to read as follows—
 
 > **87.** (1) An administrator may resign only in prescribed circumstances.
 >
@@ -493,7 +493,7 @@ Article 6
 
 .
 
-**30.**[^key-443f615f7eeed032e5438367932dffdd] Paragraph 89 is modified so as to read as follows—
+**30.**[^c-443f615f7eeed032e5438367932dffdd] Paragraph 89 is modified so as to read as follows—
 
 > **89.** (1) The administrator of a partnership shall vacate office if he ceases to be qualified to act as an insolvency practitioner in relation to the partnership.
 >
@@ -507,7 +507,7 @@ Article 6
 
 .
 
-**31.**[^key-6df36c60544176f90305fdaee39b8673] Paragraph 90 is modified so as to read as follows—
+**31.**[^c-6df36c60544176f90305fdaee39b8673] Paragraph 90 is modified so as to read as follows—
 
 > **90.** Paragraphs 91 to 93 and 95 apply where an administrator—
 >
@@ -518,7 +518,7 @@ Article 6
 
 .
 
-**32.**[^key-c2250b14b58b7570a02f180ca91b14ed] Paragraph 91 is modified so as to read as follows—
+**32.**[^c-c2250b14b58b7570a02f180ca91b14ed] Paragraph 91 is modified so as to read as follows—
 
 > **91.** (1) Where the administrator was appointed by administration order, the court may replace the administrator on an application under this sub-paragraph made by—
 >
@@ -577,13 +577,13 @@ Article 6
 > - (a) an administrator of a partnership is appointed by the members of the partnership under paragraph 22, and
 > - (b) there is no holder of a qualifying agricultural floating charge in respect of the partnership property.
 >
-> (2)[^key-28ad1a19103b7cfdab84fb214d3e181c] The administrator may be replaced by a decision of the creditors made by a qualifying decision procedure.
+> (2)[^c-28ad1a19103b7cfdab84fb214d3e181c] The administrator may be replaced by a decision of the creditors made by a qualifying decision procedure.
 >
 > (3) The decision has effect only if, before the decision is made, the new administrator has consented to act in writing
 
 .
 
-**38.**[^key-cdf823c362cab48f2557b0b170f171d9] Paragraph 103 is modified so as to read as follows—
+**38.**[^c-cdf823c362cab48f2557b0b170f171d9] Paragraph 103 is modified so as to read as follows—
 
 > **103.** (1) Where a partnership is in administration, a person may be appointed to act as administrator jointly or concurrently with the person or persons acting as the administrator of the partnership.
 >
@@ -606,9 +606,9 @@ Article 6
 
 .
 
-**39.**[^key-2717b3a27d2c99d6329027709d48cbb5] Omit paragraph 105.
+**39.**[^c-2717b3a27d2c99d6329027709d48cbb5] Omit paragraph 105.
 
-**40.**[^key-792eb1031471f355a184928f32358601] Paragraph 106 is modified so as to read as follows—
+**40.**[^c-792eb1031471f355a184928f32358601] Paragraph 106 is modified so as to read as follows—
 
 > **106.** (1) A person who is guilty of an offence under this Schedule is liable to a fine (in accordance with section 430 and Schedule 10).
 >
@@ -636,8 +636,8 @@ Article 6
 >
 > - “administrator” has the meaning given by paragraph 1 and, where the context requires, includes a reference to a former administrator,
 > - “agricultural floating charge” means a charge which is an agricultural floating charge on its creation,
-> - [^key-9fe1cc1ff8ac6146d122d43790865308]...
-> - [^key-9fe1cc1ff8ac6146d122d43790865308]...
+> - [^c-9fe1cc1ff8ac6146d122d43790865308]...
+> - [^c-9fe1cc1ff8ac6146d122d43790865308]...
 > - “enters administration” has the meaning given by paragraph 1,
 > - “in administration” has the meaning given by paragraph 1,
 > - “hire-purchase agreement” includes a conditional sale agreement, a chattel leasing agreement and a retention of title agreement,
@@ -652,9 +652,9 @@ Article 6
 
 .
 
-**42.**[^key-3c7839687e52b14653e9e414af229094] Omit paragraphs 112–116.
+**42.**[^c-3c7839687e52b14653e9e414af229094] Omit paragraphs 112–116.
 
-**43.**[^key-991f28cd14b9359f0f97ccf3442f963c] Schedule 1 is modified to read as follows:—
+**43.**[^c-991f28cd14b9359f0f97ccf3442f963c] Schedule 1 is modified to read as follows:—
 
 > **SCHEDULE 1 — POWERS OF ADMINISTRATOR**
 >
@@ -704,74 +704,74 @@ Article 6
 
 ## Annotations
 
-[^key-9471d17602b88060c261736ab84cffcb]: Textual amendment: Sch. 2 substituted (1.7.2005) by [The Insolvent Partnerships (Amendment) Order 2005 (S.I. 2005/1516)](https://www.legislation.gov.uk/uksi/2005/1516), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/1516/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1516/schedule/1) (with [art. 2](https://www.legislation.gov.uk/uksi/2005/1516/article/2))
+[^c-9471d17602b88060c261736ab84cffcb]: Textual amendment: Sch. 2 substituted (1.7.2005) by [The Insolvent Partnerships (Amendment) Order 2005 (S.I. 2005/1516)](https://www.legislation.gov.uk/uksi/2005/1516), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/1516/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1516/schedule/1) (with [art. 2](https://www.legislation.gov.uk/uksi/2005/1516/article/2))
 
-[^key-8fcf9bc7d34f7690a5d3dd69f1500205]: Textual amendment: Word in [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/1994/2421/schedule/2/paragraph/7) inserted (6.4.2006) by [The Insolvent Partnerships (Amendment) Order 2006 (S.I. 2006/622)](https://www.legislation.gov.uk/uksi/2006/622), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/622/article/1/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2006/622/article/5/2/a) (with [art. 2](https://www.legislation.gov.uk/uksi/2006/622/article/2))
+[^c-8fcf9bc7d34f7690a5d3dd69f1500205]: Textual amendment: Word in [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/1994/2421/schedule/2/paragraph/7) inserted (6.4.2006) by [The Insolvent Partnerships (Amendment) Order 2006 (S.I. 2006/622)](https://www.legislation.gov.uk/uksi/2006/622), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/622/article/1/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2006/622/article/5/2/a) (with [art. 2](https://www.legislation.gov.uk/uksi/2006/622/article/2))
 
-[^key-1a0a08b6f57dea2186a58511af2e5da2]: Textual amendment: Words in Sch. 2 para. 8 substituted (6.4.2006) by [The Insolvent Partnerships (Amendment) Order 2006 (S.I. 2006/622)](https://www.legislation.gov.uk/uksi/2006/622), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/622/article/1/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2006/622/article/5/2/b) (with [art. 2](https://www.legislation.gov.uk/uksi/2006/622/article/2))
+[^c-1a0a08b6f57dea2186a58511af2e5da2]: Textual amendment: Words in Sch. 2 para. 8 substituted (6.4.2006) by [The Insolvent Partnerships (Amendment) Order 2006 (S.I. 2006/622)](https://www.legislation.gov.uk/uksi/2006/622), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/622/article/1/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2006/622/article/5/2/b) (with [art. 2](https://www.legislation.gov.uk/uksi/2006/622/article/2))
 
-[^key-74c257f89093e7be9cfe095bd32110a8]: Modification: Sch. 2 para. 17 modified (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 2 paras. 3-6](https://www.legislation.gov.uk/uksi/2021/716/schedule/2/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5) (as amended ([4](https://www.legislation.gov.uk/uksi/2021/716/regulation/4).[1](https://www.legislation.gov.uk/uksi/2021/716/regulation/1).[2024](https://www.legislation.gov.uk/uksi/2021/716/regulation/2024)) by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4)))
+[^c-74c257f89093e7be9cfe095bd32110a8]: Modification: Sch. 2 para. 17 modified (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 2 paras. 3-6](https://www.legislation.gov.uk/uksi/2021/716/schedule/2/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5) (as amended ([4](https://www.legislation.gov.uk/uksi/2021/716/regulation/4).[1](https://www.legislation.gov.uk/uksi/2021/716/regulation/1).[2024](https://www.legislation.gov.uk/uksi/2021/716/regulation/2024)) by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4)))
 
-[^key-b3e522bc2cd95c19aee8898a4ace5878]: Textual amendment: Words in Sch. 2 para. 17 substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 11(b)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/11/b)
+[^c-b3e522bc2cd95c19aee8898a4ace5878]: Textual amendment: Words in Sch. 2 para. 17 substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 11(b)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/11/b)
 
-[^key-8575539361b8b1cbd39e41629999992f]: Modification: Sch. 2 para. 18 modified (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 2 paras. 3-6](https://www.legislation.gov.uk/uksi/2021/716/schedule/2/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5) (as amended (4.1.2024) by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4)))
+[^c-8575539361b8b1cbd39e41629999992f]: Modification: Sch. 2 para. 18 modified (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 2 paras. 3-6](https://www.legislation.gov.uk/uksi/2021/716/schedule/2/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5) (as amended (4.1.2024) by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4)))
 
 [^M_C_4bc76bed-02e1-4d21-de05-d2dde3aa009e]: Modification: Sch. 2 para. 19 modified (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 2 paras. 3-6](https://www.legislation.gov.uk/uksi/2021/716/schedule/2/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5) (as amended ([4](https://www.legislation.gov.uk/uksi/2021/716/regulation/4).[1](https://www.legislation.gov.uk/uksi/2021/716/regulation/1).[2024](https://www.legislation.gov.uk/uksi/2021/716/regulation/2024)) by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4)))
 
-[^key-6f6ba82c1ee7887825a524bb731fd472]: Modification: Sch. 2 para. 20 modified (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 2 paras. 3-6](https://www.legislation.gov.uk/uksi/2021/716/schedule/2/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5) (as amended (4.1.2024) by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4)))
+[^c-6f6ba82c1ee7887825a524bb731fd472]: Modification: Sch. 2 para. 20 modified (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 2 paras. 3-6](https://www.legislation.gov.uk/uksi/2021/716/schedule/2/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5) (as amended (4.1.2024) by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4)))
 
-[^key-2d951773850bb9b4a76db4ce6cfef6ff]: Textual amendment: Words in Sch. 2 para. 20 inserted (6.4.2017) by [The Deregulation Act 2015 and Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) (Savings) Regulations 2017 (S.I. 2017/540)](https://www.legislation.gov.uk/uksi/2017/540), [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1), [Sch. 2 para. 6(2)](https://www.legislation.gov.uk/uksi/2017/540/schedule/2/paragraph/6/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/540/regulation/4))
+[^c-2d951773850bb9b4a76db4ce6cfef6ff]: Textual amendment: Words in Sch. 2 para. 20 inserted (6.4.2017) by [The Deregulation Act 2015 and Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) (Savings) Regulations 2017 (S.I. 2017/540)](https://www.legislation.gov.uk/uksi/2017/540), [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1), [Sch. 2 para. 6(2)](https://www.legislation.gov.uk/uksi/2017/540/schedule/2/paragraph/6/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/540/regulation/4))
 
-[^key-af5e288e172eb3bf1c8e9667da4c3b68]: Textual amendment: Words in Sch. 2 para. 21 substituted (6.4.2017) by [The Deregulation Act 2015 and Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) (Savings) Regulations 2017 (S.I. 2017/540)](https://www.legislation.gov.uk/uksi/2017/540), [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1), [Sch. 2 para. 6(3)(a)](https://www.legislation.gov.uk/uksi/2017/540/schedule/2/paragraph/6/3/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/540/regulation/4))
+[^c-af5e288e172eb3bf1c8e9667da4c3b68]: Textual amendment: Words in Sch. 2 para. 21 substituted (6.4.2017) by [The Deregulation Act 2015 and Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) (Savings) Regulations 2017 (S.I. 2017/540)](https://www.legislation.gov.uk/uksi/2017/540), [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1), [Sch. 2 para. 6(3)(a)](https://www.legislation.gov.uk/uksi/2017/540/schedule/2/paragraph/6/3/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/540/regulation/4))
 
-[^key-8699fad623767f17b799e4f16a537684]: Textual amendment: Words in Sch. 2 para. 21 substituted (6.4.2017) by [The Deregulation Act 2015 and Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) (Savings) Regulations 2017 (S.I. 2017/540)](https://www.legislation.gov.uk/uksi/2017/540), [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1), [Sch. 2 para. 6(3)(b)](https://www.legislation.gov.uk/uksi/2017/540/schedule/2/paragraph/6/3/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/540/regulation/4))
+[^c-8699fad623767f17b799e4f16a537684]: Textual amendment: Words in Sch. 2 para. 21 substituted (6.4.2017) by [The Deregulation Act 2015 and Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) (Savings) Regulations 2017 (S.I. 2017/540)](https://www.legislation.gov.uk/uksi/2017/540), [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1), [Sch. 2 para. 6(3)(b)](https://www.legislation.gov.uk/uksi/2017/540/schedule/2/paragraph/6/3/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/540/regulation/4))
 
-[^key-ca9487c705a83bfe28f4b59ff2525e0a]: Modification: Sch. 2 para. 22 modified (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 2 paras. 3-6](https://www.legislation.gov.uk/uksi/2021/716/schedule/2/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5) (as amended (4.1.2024) by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4)))
+[^c-ca9487c705a83bfe28f4b59ff2525e0a]: Modification: Sch. 2 para. 22 modified (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 2 paras. 3-6](https://www.legislation.gov.uk/uksi/2021/716/schedule/2/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5) (as amended (4.1.2024) by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4)))
 
-[^key-2e6052224af7a791e04d494a6ab85cb4]: Modification: Sch. 2 para. 23 modified (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 2 paras. 3-6](https://www.legislation.gov.uk/uksi/2021/716/schedule/2/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5) (as amended (4.1.2024) by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4)))
+[^c-2e6052224af7a791e04d494a6ab85cb4]: Modification: Sch. 2 para. 23 modified (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 2 paras. 3-6](https://www.legislation.gov.uk/uksi/2021/716/schedule/2/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5) (as amended (4.1.2024) by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4)))
 
-[^key-9d0828d3c85d5195dfaf06ae018fef23]: Textual amendment: Words in Sch. 2 para. 23 substituted (19.12.2018) by [The Banks and Building Societies (Priorities on Insolvency) Order 2018 (revoked) 2018 (S.I. 2018/1244)](https://www.legislation.gov.uk/uksi/2018/1244), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1244/article/1/2), [19(2)](https://www.legislation.gov.uk/uksi/2018/1244/article/19/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/1244/article/3))
+[^c-9d0828d3c85d5195dfaf06ae018fef23]: Textual amendment: Words in Sch. 2 para. 23 substituted (19.12.2018) by [The Banks and Building Societies (Priorities on Insolvency) Order 2018 (revoked) 2018 (S.I. 2018/1244)](https://www.legislation.gov.uk/uksi/2018/1244), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1244/article/1/2), [19(2)](https://www.legislation.gov.uk/uksi/2018/1244/article/19/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/1244/article/3))
 
-[^key-c75be0eed35bd9ab593235c1e178a605]: Modification: Sch. 2 para. 24 modified (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 2 paras. 3-6](https://www.legislation.gov.uk/uksi/2021/716/schedule/2/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5) (as amended (4.1.2024) by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4)))
+[^c-c75be0eed35bd9ab593235c1e178a605]: Modification: Sch. 2 para. 24 modified (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 2 paras. 3-6](https://www.legislation.gov.uk/uksi/2021/716/schedule/2/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5) (as amended (4.1.2024) by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4)))
 
-[^key-1f23cc8a5cc5f69d9e206dc93c9d2301]: Modification: Sch. 2 para. 25 modified (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 2 paras. 3-6](https://www.legislation.gov.uk/uksi/2021/716/schedule/2/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5) (as amended (4.1.2024) by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4)))
+[^c-1f23cc8a5cc5f69d9e206dc93c9d2301]: Modification: Sch. 2 para. 25 modified (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 2 paras. 3-6](https://www.legislation.gov.uk/uksi/2021/716/schedule/2/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5) (as amended (4.1.2024) by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4)))
 
-[^key-6d9cefd04d73c5232c8527d3e3154d3b]: Textual amendment: Word in Sch. 2 para. 25 omitted (1.1.2015) by virtue of [The Banks and Building Societies (Depositor Preference and Priorities) Order 2014 (S.I. 2014/3486)](https://www.legislation.gov.uk/uksi/2014/3486), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2), [13(2)(a)](https://www.legislation.gov.uk/uksi/2014/3486/article/13/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/3486/article/3))
+[^c-6d9cefd04d73c5232c8527d3e3154d3b]: Textual amendment: Word in Sch. 2 para. 25 omitted (1.1.2015) by virtue of [The Banks and Building Societies (Depositor Preference and Priorities) Order 2014 (S.I. 2014/3486)](https://www.legislation.gov.uk/uksi/2014/3486), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2), [13(2)(a)](https://www.legislation.gov.uk/uksi/2014/3486/article/13/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/3486/article/3))
 
-[^key-b97d9c9e90d887d263dfae9c38aaa46c]: Textual amendment: Words in Sch. 2 para. 25 inserted (1.1.2015) by [The Banks and Building Societies (Depositor Preference and Priorities) Order 2014 (S.I. 2014/3486)](https://www.legislation.gov.uk/uksi/2014/3486), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2), [13(2)(b)](https://www.legislation.gov.uk/uksi/2014/3486/article/13/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/3486/article/3))
+[^c-b97d9c9e90d887d263dfae9c38aaa46c]: Textual amendment: Words in Sch. 2 para. 25 inserted (1.1.2015) by [The Banks and Building Societies (Depositor Preference and Priorities) Order 2014 (S.I. 2014/3486)](https://www.legislation.gov.uk/uksi/2014/3486), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2), [13(2)(b)](https://www.legislation.gov.uk/uksi/2014/3486/article/13/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/3486/article/3))
 
-[^key-dbaac1e7eb42969f259cf04ef771c56a]: Textual amendment: Words in Sch. 2 para. 25 substituted (1.1.2015) by [The Banks and Building Societies (Depositor Preference and Priorities) Order 2014 (S.I. 2014/3486)](https://www.legislation.gov.uk/uksi/2014/3486), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2), [13(2)(c)](https://www.legislation.gov.uk/uksi/2014/3486/article/13/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/3486/article/3))
+[^c-dbaac1e7eb42969f259cf04ef771c56a]: Textual amendment: Words in Sch. 2 para. 25 substituted (1.1.2015) by [The Banks and Building Societies (Depositor Preference and Priorities) Order 2014 (S.I. 2014/3486)](https://www.legislation.gov.uk/uksi/2014/3486), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2), [13(2)(c)](https://www.legislation.gov.uk/uksi/2014/3486/article/13/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/3486/article/3))
 
-[^key-d97e560cd8eecced4dbf2fdb6f09a52a]: Textual amendment: Word in Sch. 2 para. 25 omitted (19.12.2018) by virtue of [The Banks and Building Societies (Priorities on Insolvency) Order 2018 (revoked) 2018 (S.I. 2018/1244)](https://www.legislation.gov.uk/uksi/2018/1244), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1244/article/1/2), [19(3)(a)](https://www.legislation.gov.uk/uksi/2018/1244/article/19/3/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/1244/article/3))
+[^c-d97e560cd8eecced4dbf2fdb6f09a52a]: Textual amendment: Word in Sch. 2 para. 25 omitted (19.12.2018) by virtue of [The Banks and Building Societies (Priorities on Insolvency) Order 2018 (revoked) 2018 (S.I. 2018/1244)](https://www.legislation.gov.uk/uksi/2018/1244), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1244/article/1/2), [19(3)(a)](https://www.legislation.gov.uk/uksi/2018/1244/article/19/3/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/1244/article/3))
 
-[^key-a53beecd9585831f91e8955d854c6838]: Textual amendment: Words in Sch. 2 para. 25 inserted (1.1.2015) by [The Banks and Building Societies (Depositor Preference and Priorities) Order 2014 (S.I. 2014/3486)](https://www.legislation.gov.uk/uksi/2014/3486), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2), [13(2)(d)](https://www.legislation.gov.uk/uksi/2014/3486/article/13/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/3486/article/3))
+[^c-a53beecd9585831f91e8955d854c6838]: Textual amendment: Words in Sch. 2 para. 25 inserted (1.1.2015) by [The Banks and Building Societies (Depositor Preference and Priorities) Order 2014 (S.I. 2014/3486)](https://www.legislation.gov.uk/uksi/2014/3486), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2), [13(2)(d)](https://www.legislation.gov.uk/uksi/2014/3486/article/13/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/3486/article/3))
 
-[^key-6ba60d4097c56febec98cd6f5c4a20a8]: Textual amendment: Words in Sch. 2 para. 25 inserted (19.12.2018) by [The Banks and Building Societies (Priorities on Insolvency) Order 2018 (revoked) 2018 (S.I. 2018/1244)](https://www.legislation.gov.uk/uksi/2018/1244), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1244/article/1/2), [19(3)(b)](https://www.legislation.gov.uk/uksi/2018/1244/article/19/3/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/1244/article/3))
+[^c-6ba60d4097c56febec98cd6f5c4a20a8]: Textual amendment: Words in Sch. 2 para. 25 inserted (19.12.2018) by [The Banks and Building Societies (Priorities on Insolvency) Order 2018 (revoked) 2018 (S.I. 2018/1244)](https://www.legislation.gov.uk/uksi/2018/1244), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1244/article/1/2), [19(3)(b)](https://www.legislation.gov.uk/uksi/2018/1244/article/19/3/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/1244/article/3))
 
-[^key-743135d1ab23f1378fb53cbb8233d30d]: Modification: Sch. 2 para. 26 modified (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 2 paras. 3-6](https://www.legislation.gov.uk/uksi/2021/716/schedule/2/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5) (as amended (4.1.2024) by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4))
+[^c-743135d1ab23f1378fb53cbb8233d30d]: Modification: Sch. 2 para. 26 modified (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 2 paras. 3-6](https://www.legislation.gov.uk/uksi/2021/716/schedule/2/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5) (as amended (4.1.2024) by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4))
 
-[^key-77049ea284a53a5b71aaa0e671a6415a]: Textual amendment: Words in Sch. 2 para. 26 substituted (6.4.2017) by [The Deregulation Act 2015 and Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) (Savings) Regulations 2017 (S.I. 2017/540)](https://www.legislation.gov.uk/uksi/2017/540), [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1), [Sch. 2 para. 6(4)](https://www.legislation.gov.uk/uksi/2017/540/schedule/2/paragraph/6/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/540/regulation/4))
+[^c-77049ea284a53a5b71aaa0e671a6415a]: Textual amendment: Words in Sch. 2 para. 26 substituted (6.4.2017) by [The Deregulation Act 2015 and Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) (Savings) Regulations 2017 (S.I. 2017/540)](https://www.legislation.gov.uk/uksi/2017/540), [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1), [Sch. 2 para. 6(4)](https://www.legislation.gov.uk/uksi/2017/540/schedule/2/paragraph/6/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/540/regulation/4))
 
-[^key-5e66bac77f894b4593cae4ccd29029d7]: Modification: Sch. 2 para. 28 modified (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 2 paras. 3-6](https://www.legislation.gov.uk/uksi/2021/716/schedule/2/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5) (as amended (4.1.2024) by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4)))
+[^c-5e66bac77f894b4593cae4ccd29029d7]: Modification: Sch. 2 para. 28 modified (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 2 paras. 3-6](https://www.legislation.gov.uk/uksi/2021/716/schedule/2/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5) (as amended (4.1.2024) by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4)))
 
-[^key-cf8c803d99b663e4a3e9a73a9560569c]: Modification: Sch. 2 para. 29 modified (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 2 paras. 3-6](https://www.legislation.gov.uk/uksi/2021/716/schedule/2/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5) (as amended (4.1.2024) by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4)))
+[^c-cf8c803d99b663e4a3e9a73a9560569c]: Modification: Sch. 2 para. 29 modified (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 2 paras. 3-6](https://www.legislation.gov.uk/uksi/2021/716/schedule/2/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5) (as amended (4.1.2024) by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4)))
 
-[^key-443f615f7eeed032e5438367932dffdd]: Modification: Sch. 2 para. 30 modified (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 2 paras. 3-6](https://www.legislation.gov.uk/uksi/2021/716/schedule/2/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5) (as amended (4.1.2024) by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4)))
+[^c-443f615f7eeed032e5438367932dffdd]: Modification: Sch. 2 para. 30 modified (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 2 paras. 3-6](https://www.legislation.gov.uk/uksi/2021/716/schedule/2/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5) (as amended (4.1.2024) by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4)))
 
-[^key-6df36c60544176f90305fdaee39b8673]: Modification: Sch. 2 para. 31 modified (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 2 paras. 3-6](https://www.legislation.gov.uk/uksi/2021/716/schedule/2/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5) (as amended (4.1.2024) by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4)))
+[^c-6df36c60544176f90305fdaee39b8673]: Modification: Sch. 2 para. 31 modified (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 2 paras. 3-6](https://www.legislation.gov.uk/uksi/2021/716/schedule/2/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5) (as amended (4.1.2024) by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4)))
 
-[^key-c2250b14b58b7570a02f180ca91b14ed]: Modification: Sch. 2 para. 32 modified (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 2 paras. 3-6](https://www.legislation.gov.uk/uksi/2021/716/schedule/2/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5) (as amended (4.1.2024) by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4)))
+[^c-c2250b14b58b7570a02f180ca91b14ed]: Modification: Sch. 2 para. 32 modified (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 2 paras. 3-6](https://www.legislation.gov.uk/uksi/2021/716/schedule/2/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5) (as amended (4.1.2024) by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4)))
 
-[^key-28ad1a19103b7cfdab84fb214d3e181c]: Textual amendment: Words in [Sch. 2 para. 37](https://www.legislation.gov.uk/uksi/1994/2421/schedule/2/paragraph/37) substituted (6.4.2017) by [The Deregulation Act 2015 and Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) (Savings) Regulations 2017 (S.I. 2017/540)](https://www.legislation.gov.uk/uksi/2017/540), [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1), [Sch. 2 para. 6(5)](https://www.legislation.gov.uk/uksi/2017/540/schedule/2/paragraph/6/5) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/540/regulation/4))
+[^c-28ad1a19103b7cfdab84fb214d3e181c]: Textual amendment: Words in [Sch. 2 para. 37](https://www.legislation.gov.uk/uksi/1994/2421/schedule/2/paragraph/37) substituted (6.4.2017) by [The Deregulation Act 2015 and Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) (Savings) Regulations 2017 (S.I. 2017/540)](https://www.legislation.gov.uk/uksi/2017/540), [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1), [Sch. 2 para. 6(5)](https://www.legislation.gov.uk/uksi/2017/540/schedule/2/paragraph/6/5) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/540/regulation/4))
 
-[^key-cdf823c362cab48f2557b0b170f171d9]: Modification: Sch. 2 para. 38 modified (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 2 paras. 3-6](https://www.legislation.gov.uk/uksi/2021/716/schedule/2/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5) (as amended (4.1.2024) by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4)))
+[^c-cdf823c362cab48f2557b0b170f171d9]: Modification: Sch. 2 para. 38 modified (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 2 paras. 3-6](https://www.legislation.gov.uk/uksi/2021/716/schedule/2/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5) (as amended (4.1.2024) by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4)))
 
-[^key-2717b3a27d2c99d6329027709d48cbb5]: Modification: Sch. 2 para. 39 modified (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 2 paras. 3-6](https://www.legislation.gov.uk/uksi/2021/716/schedule/2/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5) (as amended (4.1.2024) by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4)))
+[^c-2717b3a27d2c99d6329027709d48cbb5]: Modification: Sch. 2 para. 39 modified (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 2 paras. 3-6](https://www.legislation.gov.uk/uksi/2021/716/schedule/2/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5) (as amended (4.1.2024) by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4)))
 
-[^key-792eb1031471f355a184928f32358601]: Modification: Sch. 2 para. 40 modified (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 2 paras. 3-6](https://www.legislation.gov.uk/uksi/2021/716/schedule/2/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5) (as amended (4.1.2024) by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4)))
+[^c-792eb1031471f355a184928f32358601]: Modification: Sch. 2 para. 40 modified (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 2 paras. 3-6](https://www.legislation.gov.uk/uksi/2021/716/schedule/2/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5) (as amended (4.1.2024) by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4)))
 
-[^key-9fe1cc1ff8ac6146d122d43790865308]: Textual amendment: Words in [Sch. 2 para. 41](https://www.legislation.gov.uk/uksi/1994/2421/schedule/2/paragraph/41) omitted (6.4.2017) by virtue of [The Deregulation Act 2015 and Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) (Savings) Regulations 2017 (S.I. 2017/540)](https://www.legislation.gov.uk/uksi/2017/540), [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1), [Sch. 2 para. 6(6)](https://www.legislation.gov.uk/uksi/2017/540/schedule/2/paragraph/6/6) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/540/regulation/4))
+[^c-9fe1cc1ff8ac6146d122d43790865308]: Textual amendment: Words in [Sch. 2 para. 41](https://www.legislation.gov.uk/uksi/1994/2421/schedule/2/paragraph/41) omitted (6.4.2017) by virtue of [The Deregulation Act 2015 and Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) (Savings) Regulations 2017 (S.I. 2017/540)](https://www.legislation.gov.uk/uksi/2017/540), [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1), [Sch. 2 para. 6(6)](https://www.legislation.gov.uk/uksi/2017/540/schedule/2/paragraph/6/6) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/540/regulation/4))
 
-[^key-3c7839687e52b14653e9e414af229094]: Modification: Sch. 2 para. 42 modified (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 2 paras. 3-6](https://www.legislation.gov.uk/uksi/2021/716/schedule/2/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5) (as amended (4.1.2024) by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4)))
+[^c-3c7839687e52b14653e9e414af229094]: Modification: Sch. 2 para. 42 modified (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 2 paras. 3-6](https://www.legislation.gov.uk/uksi/2021/716/schedule/2/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5) (as amended (4.1.2024) by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4)))
 
-[^key-991f28cd14b9359f0f97ccf3442f963c]: Modification: Sch. 2 para. 43 modified (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 2 paras. 3-6](https://www.legislation.gov.uk/uksi/2021/716/schedule/2/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5) (as amended (4.1.2024) by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4)))
+[^c-991f28cd14b9359f0f97ccf3442f963c]: Modification: Sch. 2 para. 43 modified (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 2 paras. 3-6](https://www.legislation.gov.uk/uksi/2021/716/schedule/2/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5) (as amended (4.1.2024) by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4)))

@@ -22,7 +22,7 @@ summary: ''
 
 (introduced by section 126)
 
-### Part 1 — Repeals[^key-602bd2b85d4dee2aedc10a993832d56b][^key-6b20e43b4c515cde5ab0ee6948d7ab85][^key-4261b775efdc9c22029d1f65bb0c127b]
+### Part 1 — Repeals[^c-602bd2b85d4dee2aedc10a993832d56b][^c-6b20e43b4c515cde5ab0ee6948d7ab85][^c-4261b775efdc9c22029d1f65bb0c127b]
 
 | *Enactment* | *Extent of repeal* |
 | --- | --- |
@@ -65,7 +65,7 @@ summary: ''
 | Smoking, Health and Social Care (Scotland) Act 2005 (asp 13) | Section 36.<br>Schedule 2, paragraph 1. |
 | Housing (Scotland) Act 2006 (asp 1) | Section 173(2)(b)(i). |
 
-### Part 2 — Revocations[^key-a74d87a8512cb2352b746e1c52a4cd98]
+### Part 2 — Revocations[^c-a74d87a8512cb2352b746e1c52a4cd98]
 
 | *Enactment* | *Extent of revocation* |
 | --- | --- |
@@ -80,10 +80,10 @@ summary: ''
 
 ## Annotations
 
-[^key-602bd2b85d4dee2aedc10a993832d56b]: Commencement: [Sch. 3 Pt. 1](https://www.legislation.gov.uk/asp/2008/5/schedule/3/part/1) in force at 1.4.2009 for specified purposes by [S.S.I. 2009/9](https://www.legislation.gov.uk/ssi/2009/9), [art. 2(b)](https://www.legislation.gov.uk/ssi/2009/9/article/2/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2009/9/schedule/2)
+[^c-602bd2b85d4dee2aedc10a993832d56b]: Commencement: [Sch. 3 Pt. 1](https://www.legislation.gov.uk/asp/2008/5/schedule/3/part/1) in force at 1.4.2009 for specified purposes by [S.S.I. 2009/9](https://www.legislation.gov.uk/ssi/2009/9), [art. 2(b)](https://www.legislation.gov.uk/ssi/2009/9/article/2/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2009/9/schedule/2)
 
-[^key-6b20e43b4c515cde5ab0ee6948d7ab85]: Commencement: [Sch. 3 Pt. 1](https://www.legislation.gov.uk/asp/2008/5/schedule/3/part/1) in force at 1.10.2009 for specified purposes by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1) (with [art. 3](https://www.legislation.gov.uk/ssi/2009/319/article/3), [Sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2009/319/schedule/2/paragraph/2))
+[^c-6b20e43b4c515cde5ab0ee6948d7ab85]: Commencement: [Sch. 3 Pt. 1](https://www.legislation.gov.uk/asp/2008/5/schedule/3/part/1) in force at 1.10.2009 for specified purposes by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1) (with [art. 3](https://www.legislation.gov.uk/ssi/2009/319/article/3), [Sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2009/319/schedule/2/paragraph/2))
 
-[^key-4261b775efdc9c22029d1f65bb0c127b]: Commencement: [Sch. 3 Pt. 1](https://www.legislation.gov.uk/asp/2008/5/schedule/3/part/1) in force at 1.1.2010 for specified purposes by [S.S.I. 2009/404](https://www.legislation.gov.uk/ssi/2009/404), [art. 2(3)](https://www.legislation.gov.uk/ssi/2009/404/article/2/3), [Sch. 3](https://www.legislation.gov.uk/ssi/2009/404/schedule/3)
+[^c-4261b775efdc9c22029d1f65bb0c127b]: Commencement: [Sch. 3 Pt. 1](https://www.legislation.gov.uk/asp/2008/5/schedule/3/part/1) in force at 1.1.2010 for specified purposes by [S.S.I. 2009/404](https://www.legislation.gov.uk/ssi/2009/404), [art. 2(3)](https://www.legislation.gov.uk/ssi/2009/404/article/2/3), [Sch. 3](https://www.legislation.gov.uk/ssi/2009/404/schedule/3)
 
-[^key-a74d87a8512cb2352b746e1c52a4cd98]: Commencement: [Sch. 3 Pt. 2](https://www.legislation.gov.uk/asp/2008/5/schedule/3/part/2) in force at 1.1.2010 for specified purposes by [S.S.I. 2009/404](https://www.legislation.gov.uk/ssi/2009/404), [art. 2(3)](https://www.legislation.gov.uk/ssi/2009/404/article/2/3), [Sch. 3](https://www.legislation.gov.uk/ssi/2009/404/schedule/3)
+[^c-a74d87a8512cb2352b746e1c52a4cd98]: Commencement: [Sch. 3 Pt. 2](https://www.legislation.gov.uk/asp/2008/5/schedule/3/part/2) in force at 1.1.2010 for specified purposes by [S.S.I. 2009/404](https://www.legislation.gov.uk/ssi/2009/404), [art. 2(3)](https://www.legislation.gov.uk/ssi/2009/404/article/2/3), [Sch. 3](https://www.legislation.gov.uk/ssi/2009/404/schedule/3)

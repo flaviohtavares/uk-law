@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 150. Increase in non-housing component where minimum revenue provision in the last year was nil[^key-ae8bea61a9076317a1f96c99b3faecf6]
+## 150. Increase in non-housing component where minimum revenue provision in the last year was nil[^c-ae8bea61a9076317a1f96c99b3faecf6]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ For the purposes of regulation 147, where the authority’s minimum revenue prov
 
 ## Annotations
 
-[^key-ae8bea61a9076317a1f96c99b3faecf6]: Commencement: Reg. 150 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-ae8bea61a9076317a1f96c99b3faecf6]: Commencement: Reg. 150 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

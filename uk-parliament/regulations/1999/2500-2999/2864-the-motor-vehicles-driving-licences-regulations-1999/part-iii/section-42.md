@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 42. Exemption from theory test[^key-9b7f5a4a1e09e0ef9ad4eff17789c3fc]
+## 42. Exemption from theory test[^c-9b7f5a4a1e09e0ef9ad4eff17789c3fc]
 
 *Extent: E+W+S*
 
-(1)[^key-6756ee4439533947769f7075f086203e] A person is exempt from the requirement to pass a theory test for the purpose of obtaining a licence authorising that person to drive a motor vehicle of a class included in sub-category A1 if that person—
+(1)[^c-6756ee4439533947769f7075f086203e] A person is exempt from the requirement to pass a theory test for the purpose of obtaining a licence authorising that person to drive a motor vehicle of a class included in sub-category A1 if that person—
 
 - (a) holds a valid standard theory test pass certificate in respect of a motor vehicle of a class included in category AM or A; or
 - (b) has held, for a period of not more than two years, a Northern Ireland theory test pass certificate corresponding to the certificate mentioned in sub-paragraph (a).
 
-(1A)[^key-cee2e5ca1a56327164ee524fc2188ca5] A person is exempt from the requirement to pass a theory test for the purpose of obtaining a licence authorising the driving of a motor vehicle of a class included in sub-category A2 if that person—
+(1A)[^c-cee2e5ca1a56327164ee524fc2188ca5] A person is exempt from the requirement to pass a theory test for the purpose of obtaining a licence authorising the driving of a motor vehicle of a class included in sub-category A2 if that person—
 
 - (a) holds a valid standard theory test pass certificate in respect of a motor vehicle of a class included in category AM or A;
 - (b) has, for a period of not less than two years, held a full licence which authorises the driving of A1 motorcycles; or
@@ -48,10 +48,10 @@ summary: ''
 
 (2) A person is exempt from the requirement to pass a theory test for the purpose of obtaining a licence authorising him to drive a motor vehicle of a class included in category B if—
 
-- (a)[^key-7dcd1a1ab12f9d79a66b419d473157b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) he holds a full licence authorising the driving of motor vehicles [^key-684dfc4f958c96da6ccfd1585045979b]...of another class included in category B [^key-684dfc4f958c96da6ccfd1585045979b]...; or
+- (a)[^c-7dcd1a1ab12f9d79a66b419d473157b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) he holds a full licence authorising the driving of motor vehicles [^c-684dfc4f958c96da6ccfd1585045979b]...of another class included in category B [^c-684dfc4f958c96da6ccfd1585045979b]...; or
 - (c) he has passed a Northern Ireland test of competence corresponding to the test mentioned in sub-paragraph (a) or is the holder of a Northern Ireland licence corresponding to the licence mentioned in sub-paragraph (b); or
-- (d) he has passed a test for a licence authorising the driving of motor vehicles [^key-4f8ee801d2e75ae99f6fc1b0a1a317c6]... of another class included in category B [^key-4f8ee801d2e75ae99f6fc1b0a1a317c6]... and is [^key-4f8ee801d2e75ae99f6fc1b0a1a317c6]... a full-time member of the armed forces of the Crown.
+- (d) he has passed a test for a licence authorising the driving of motor vehicles [^c-4f8ee801d2e75ae99f6fc1b0a1a317c6]... of another class included in category B [^c-4f8ee801d2e75ae99f6fc1b0a1a317c6]... and is [^c-4f8ee801d2e75ae99f6fc1b0a1a317c6]... a full-time member of the armed forces of the Crown.
 
 (3) A person is exempt from the requirement to pass a theory test for the purpose of obtaining a licence authorising him to drive a motor vehicle of a class included in category C if—
 
@@ -73,14 +73,14 @@ summary: ''
 
 ## Annotations
 
-[^key-9b7f5a4a1e09e0ef9ad4eff17789c3fc]: Textual amendment: Regs. 40A-40C inserted (7.7.2008) by [The Motor Vehicles (Driving Licences) (Amendment) (No. 4) Regulations 2008 (S.I. 2008/1435)](https://www.legislation.gov.uk/uksi/2008/1435), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/1435/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2008/1435/regulation/14) (with [reg. 22](https://www.legislation.gov.uk/uksi/2008/1435/regulation/22))
+[^c-9b7f5a4a1e09e0ef9ad4eff17789c3fc]: Textual amendment: Regs. 40A-40C inserted (7.7.2008) by [The Motor Vehicles (Driving Licences) (Amendment) (No. 4) Regulations 2008 (S.I. 2008/1435)](https://www.legislation.gov.uk/uksi/2008/1435), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/1435/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2008/1435/regulation/14) (with [reg. 22](https://www.legislation.gov.uk/uksi/2008/1435/regulation/22))
 
-[^key-6756ee4439533947769f7075f086203e]: Textual amendment: [Reg. 42(1)](https://www.legislation.gov.uk/uksi/1999/2864/regulation/42/1) substituted (19.1.2013) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2012 (S.I. 2012/977)](https://www.legislation.gov.uk/uksi/2012/977), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/977/regulation/1/2), [Sch. 3 para. 26(a)](https://www.legislation.gov.uk/uksi/2012/977/schedule/3/paragraph/26/a)
+[^c-6756ee4439533947769f7075f086203e]: Textual amendment: [Reg. 42(1)](https://www.legislation.gov.uk/uksi/1999/2864/regulation/42/1) substituted (19.1.2013) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2012 (S.I. 2012/977)](https://www.legislation.gov.uk/uksi/2012/977), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/977/regulation/1/2), [Sch. 3 para. 26(a)](https://www.legislation.gov.uk/uksi/2012/977/schedule/3/paragraph/26/a)
 
-[^key-cee2e5ca1a56327164ee524fc2188ca5]: Textual amendment: [Reg. 42(1A)-(1E)](https://www.legislation.gov.uk/uksi/1999/2864/regulation/42/1A) inserted (19.1.2013) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2012 (S.I. 2012/977)](https://www.legislation.gov.uk/uksi/2012/977), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/977/regulation/1/2), [Sch. 3 para. 26(b)](https://www.legislation.gov.uk/uksi/2012/977/schedule/3/paragraph/26/b)
+[^c-cee2e5ca1a56327164ee524fc2188ca5]: Textual amendment: [Reg. 42(1A)-(1E)](https://www.legislation.gov.uk/uksi/1999/2864/regulation/42/1A) inserted (19.1.2013) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2012 (S.I. 2012/977)](https://www.legislation.gov.uk/uksi/2012/977), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/977/regulation/1/2), [Sch. 3 para. 26(b)](https://www.legislation.gov.uk/uksi/2012/977/schedule/3/paragraph/26/b)
 
-[^key-7dcd1a1ab12f9d79a66b419d473157b2]: Textual amendment: Reg. 42(2)(a) omitted (1.2.2001) by virtue of [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2001 (S.I. 2001/53)](https://www.legislation.gov.uk/uksi/2001/53), [regs. 1](https://www.legislation.gov.uk/uksi/2001/53/regulation/1), [7(3)(a)](https://www.legislation.gov.uk/uksi/2001/53/regulation/7/3/a)
+[^c-7dcd1a1ab12f9d79a66b419d473157b2]: Textual amendment: Reg. 42(2)(a) omitted (1.2.2001) by virtue of [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2001 (S.I. 2001/53)](https://www.legislation.gov.uk/uksi/2001/53), [regs. 1](https://www.legislation.gov.uk/uksi/2001/53/regulation/1), [7(3)(a)](https://www.legislation.gov.uk/uksi/2001/53/regulation/7/3/a)
 
-[^key-684dfc4f958c96da6ccfd1585045979b]: Textual amendment: Words in reg. 42(2)(b) omitted (1.2.2001) by virtue of [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2001 (S.I. 2001/53)](https://www.legislation.gov.uk/uksi/2001/53), [regs. 1](https://www.legislation.gov.uk/uksi/2001/53/regulation/1), [7(3)(b)](https://www.legislation.gov.uk/uksi/2001/53/regulation/7/3/b)
+[^c-684dfc4f958c96da6ccfd1585045979b]: Textual amendment: Words in reg. 42(2)(b) omitted (1.2.2001) by virtue of [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2001 (S.I. 2001/53)](https://www.legislation.gov.uk/uksi/2001/53), [regs. 1](https://www.legislation.gov.uk/uksi/2001/53/regulation/1), [7(3)(b)](https://www.legislation.gov.uk/uksi/2001/53/regulation/7/3/b)
 
-[^key-4f8ee801d2e75ae99f6fc1b0a1a317c6]: Textual amendment: Words in reg. 42(2)(d) omitted (21.2.2003) by virtue of [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2003 (S.I. 2003/166)](https://www.legislation.gov.uk/uksi/2003/166), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/166/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2003/166/regulation/3/b)
+[^c-4f8ee801d2e75ae99f6fc1b0a1a317c6]: Textual amendment: Words in reg. 42(2)(d) omitted (21.2.2003) by virtue of [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2003 (S.I. 2003/166)](https://www.legislation.gov.uk/uksi/2003/166), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/166/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2003/166/regulation/3/b)

@@ -46,7 +46,7 @@ The Secretary of State, in exercise of the powers conferred by section 8(1) of, 
 
 A draft of this instrument was laid before, and approved by a resolution of, each House of Parliament in accordance with paragraph 1(1) of Schedule 7 to that Act.
 
-## 1. Citation, commencement, extent and application[^key-931593f2e7ef0785be683429ffaa485f]
+## 1. Citation, commencement, extent and application[^c-931593f2e7ef0785be683429ffaa485f]
 
 (1) These Regulations may be cited as the Common Agricultural Policy (Cross-Compliance Exemptions and Transitional Regulation) (Amendment) (EU Exit) Regulations 2022.
 
@@ -58,11 +58,11 @@ A draft of this instrument was laid before, and approved by a resolution of, eac
 
 (5) This regulation and regulation 4 apply in relation to the whole of the United Kingdom.
 
-## 2. Amendment of paragraph 1 of Schedule 3 to the Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) Regulations 2014[^key-28b18105777bb6aa9fd2d47890e20c56]
+## 2. Amendment of paragraph 1 of Schedule 3 to the Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) Regulations 2014[^c-28b18105777bb6aa9fd2d47890e20c56]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of [Regulation (EU) No 1305/2013](https://www.legislation.gov.uk/european/regulation/2013/1305)[^key-03c7b022a6b6e3454409bf06af565e55]
+## 3. Amendment of [Regulation (EU) No 1305/2013](https://www.legislation.gov.uk/european/regulation/2013/1305)[^c-03c7b022a6b6e3454409bf06af565e55]
 
 (1) [Regulation (EU) No 1305/2013](https://www.legislation.gov.uk/european/regulation/2013/1305) of the European Parliament and of the Council of 17 December 2013 on support for rural development by the European Agricultural Fund for Rural Development (EAFRD) and repealing Council Regulation [(EC) No 1698/2005](https://www.legislation.gov.uk/european/regulation/2005/1698)[^f00005] is amended as follows.
 
@@ -101,7 +101,7 @@ A draft of this instrument was laid before, and approved by a resolution of, eac
 
 (13) In Article 75, in paragraph 1, for “2026” substitute “2024”.
 
-## 4. Amendment of [Regulation (EU) No 1308/2013](https://www.legislation.gov.uk/european/regulation/2013/1308)[^key-d214f0265912ecf3f9853200acb8841d]
+## 4. Amendment of [Regulation (EU) No 1308/2013](https://www.legislation.gov.uk/european/regulation/2013/1308)[^c-d214f0265912ecf3f9853200acb8841d]
 
 (1) [Regulation (EU) No 1308/2013](https://www.legislation.gov.uk/european/regulation/2013/1308) of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations [(EEC) No 922/72](https://www.legislation.gov.uk/european/regulation/1972/0922), [(EEC) No 234/79](https://www.legislation.gov.uk/european/regulation/1979/0234), [(EC) No 1037/2001](https://www.legislation.gov.uk/european/regulation/2001/1037) and [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234)[^f00006] is amended as follows.
 
@@ -113,7 +113,7 @@ A draft of this instrument was laid before, and approved by a resolution of, eac
 
 (3) Omit Article 167a.
 
-## 5. Amendment of Regulation (EU) No 2020/2220[^key-7d0f679b600eef096cdb08120de88131]
+## 5. Amendment of Regulation (EU) No 2020/2220[^c-7d0f679b600eef096cdb08120de88131]
 
 (1) Regulation (EU) No 2020/2220 of the European Parliament and of the Council of 23 December 2020 laying down certain transitional provisions for support from the European Agricultural Fund for Rural Development (EAFRD) and from the European Agricultural Guarantee Fund (EAGF)[^f00007] is amended as follows.
 
@@ -151,18 +151,18 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00001]: Footnote: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16). Section 8 was amended by section 27 of the European Union (Withdrawal Agreement) Act [2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1). and paragraph 21 of Schedule 7 was amended by paragraphs 53(2)(a) and (b) of Schedule 5 to that Act.
 
-[^key-931593f2e7ef0785be683429ffaa485f]: Commencement: Reg. 1 in force at 22.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/861/regulation/1/2)
+[^c-931593f2e7ef0785be683429ffaa485f]: Commencement: Reg. 1 in force at 22.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/861/regulation/1/2)
 
-[^key-28b18105777bb6aa9fd2d47890e20c56]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2022/861/regulation/2) revoked (1.1.2024) by [The Agriculture (Removal of Cross-Compliance and Miscellaneous Revocations and Amendments, etc.) (England) Regulations 2023 (S.I. 2023/816)](https://www.legislation.gov.uk/uksi/2023/816), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/816/regulation/1/1), [Sch. Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2023/816/schedule/part/1/paragraph/1) Table 2 (with [Sch. Pt. 2 para. 2](https://www.legislation.gov.uk/uksi/2023/816/schedule/part/2/paragraph/2))
+[^c-28b18105777bb6aa9fd2d47890e20c56]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2022/861/regulation/2) revoked (1.1.2024) by [The Agriculture (Removal of Cross-Compliance and Miscellaneous Revocations and Amendments, etc.) (England) Regulations 2023 (S.I. 2023/816)](https://www.legislation.gov.uk/uksi/2023/816), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/816/regulation/1/1), [Sch. Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2023/816/schedule/part/1/paragraph/1) Table 2 (with [Sch. Pt. 2 para. 2](https://www.legislation.gov.uk/uksi/2023/816/schedule/part/2/paragraph/2))
 
-[^key-03c7b022a6b6e3454409bf06af565e55]: Commencement: Reg. 3 in force at 22.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/861/regulation/1/2)
+[^c-03c7b022a6b6e3454409bf06af565e55]: Commencement: Reg. 3 in force at 22.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/861/regulation/1/2)
 
 [^f00005]: Footnote: EUR 2013/1305. Relevant amendments were made by [S.I. 2019/748](https://www.legislation.gov.uk/uksi/2019/748) and 764 and [S.I. 2021/400](https://www.legislation.gov.uk/uksi/2021/400) and [S.S.I. 2020/456](https://www.legislation.gov.uk/ssi/2020/456) and 477 and [S.S.I. 2021/33](https://www.legislation.gov.uk/ssi/2021/33).
 
-[^key-d214f0265912ecf3f9853200acb8841d]: Commencement: Reg. 4 in force at 22.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/861/regulation/1/2)
+[^c-d214f0265912ecf3f9853200acb8841d]: Commencement: Reg. 4 in force at 22.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/861/regulation/1/2)
 
 [^f00006]: Footnote: EUR 2013/1308. Article 55 was amended by [S.I. 2019/821](https://www.legislation.gov.uk/uksi/2019/821). Article 167a was inserted by EUR 2020/2220.
 
-[^key-7d0f679b600eef096cdb08120de88131]: Commencement: Reg. 5 in force at 22.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/861/regulation/1/2)
+[^c-7d0f679b600eef096cdb08120de88131]: Commencement: Reg. 5 in force at 22.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/861/regulation/1/2)
 
 [^f00007]: Footnote: EUR 2020/2220.

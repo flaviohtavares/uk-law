@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Transitional provisions[^key-9e039a84c516d1b232c3568e196d55b5]
+## 13. Transitional provisions[^c-9e039a84c516d1b232c3568e196d55b5]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ then, if the records of the society are so kept as to enable that particular ite
 
 ## Annotations
 
-[^key-9e039a84c516d1b232c3568e196d55b5]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/1994/1983/regulation/13) in force at 1.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1983/regulation/1)
+[^c-9e039a84c516d1b232c3568e196d55b5]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/1994/1983/regulation/13) in force at 1.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1983/regulation/1)

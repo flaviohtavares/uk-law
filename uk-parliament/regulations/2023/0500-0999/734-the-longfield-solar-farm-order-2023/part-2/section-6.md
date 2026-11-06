@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 6. Application and modification of statutory provisions[^key-e1836329e158dfb94683a944b57a1603]
+## 6. Application and modification of statutory provisions[^c-e1836329e158dfb94683a944b57a1603]
 
 *Extent: E+W+S*
 
@@ -38,16 +38,16 @@ summary: ''
 - (a) a building into which people do not normally go; or
 - (b) a building into which people go only intermittently for the purpose of inspecting or maintaining fixed plant or machinery.
 
-(4) As from the date on which the permitted preliminary works are carried out or the authorised development is commenced, whichever is the earlier, any conditions of the Park Farm planning permission that relate to the Order land[^key-cbda5b0b753051fe7026d5cd6ffb5196] cease to have effect to the extent that they are inconsistent with the authorised development or with anything done or approved under Schedule 2 (requirements).
+(4) As from the date on which the permitted preliminary works are carried out or the authorised development is commenced, whichever is the earlier, any conditions of the Park Farm planning permission that relate to the Order land[^c-cbda5b0b753051fe7026d5cd6ffb5196] cease to have effect to the extent that they are inconsistent with the authorised development or with anything done or approved under Schedule 2 (requirements).
 
-(5)[^key-cf24172d52d883b8b50c5269f8437752] Regulation 6 of the Hedgerows Regulations 1997 is modified so as to read for the purposes of this Order only as if there were inserted after paragraph (1)(j) the following—
+(5)[^c-cf24172d52d883b8b50c5269f8437752] Regulation 6 of the Hedgerows Regulations 1997 is modified so as to read for the purposes of this Order only as if there were inserted after paragraph (1)(j) the following—
 
 - or
 - (k) for carrying out development which has been authorised by the Longfield Solar Farm Order 2023.
 
 ## Annotations
 
-[^key-e1836329e158dfb94683a944b57a1603]: Commencement: Art. 6 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)
+[^c-e1836329e158dfb94683a944b57a1603]: Commencement: Art. 6 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)
 
 [^f00028]: Footnote: [1991 c. 59](https://www.legislation.gov.uk/ukpga/1991/59). Section 23 was amended by paragraph 192(2) of Schedule 22 to the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25), paragraphs 25 and 32 of Schedule 2 to the Flood and Water Management Act [2010 (c. 29)](https://www.legislation.gov.uk/ukpga/2010/29) and [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755).
 
@@ -65,6 +65,6 @@ summary: ''
 
 [^f00035]: Footnote: [S.I. 2010/948](https://www.legislation.gov.uk/uksi/2010/948), amended by [S.I. 2011/987](https://www.legislation.gov.uk/uksi/2011/987); there are other amending instruments but none are relevant to this Order.
 
-[^key-cbda5b0b753051fe7026d5cd6ffb5196]: Textual amendment: Words in art. 6(4) substituted (25.2.2026) by [The Longfield Solar Farm (Amendment) Order 2026 (S.I. 2026/397)](https://www.legislation.gov.uk/uksi/2026/397), [arts. 1](https://www.legislation.gov.uk/uksi/2026/397/article/1), [5](https://www.legislation.gov.uk/uksi/2026/397/article/5)
+[^c-cbda5b0b753051fe7026d5cd6ffb5196]: Textual amendment: Words in art. 6(4) substituted (25.2.2026) by [The Longfield Solar Farm (Amendment) Order 2026 (S.I. 2026/397)](https://www.legislation.gov.uk/uksi/2026/397), [arts. 1](https://www.legislation.gov.uk/uksi/2026/397/article/1), [5](https://www.legislation.gov.uk/uksi/2026/397/article/5)
 
-[^key-cf24172d52d883b8b50c5269f8437752]: Textual amendment: Art. 6(5) inserted (25.2.2026) by [The Longfield Solar Farm (Amendment) Order 2026 (S.I. 2026/397)](https://www.legislation.gov.uk/uksi/2026/397), [arts. 1](https://www.legislation.gov.uk/uksi/2026/397/article/1), [6](https://www.legislation.gov.uk/uksi/2026/397/article/6)
+[^c-cf24172d52d883b8b50c5269f8437752]: Textual amendment: Art. 6(5) inserted (25.2.2026) by [The Longfield Solar Farm (Amendment) Order 2026 (S.I. 2026/397)](https://www.legislation.gov.uk/uksi/2026/397), [arts. 1](https://www.legislation.gov.uk/uksi/2026/397/article/1), [6](https://www.legislation.gov.uk/uksi/2026/397/article/6)

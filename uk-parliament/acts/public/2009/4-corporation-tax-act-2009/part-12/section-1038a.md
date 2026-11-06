@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1038A. Exclusion of deductions for share options: shares not acquired[^key-e21ce2bb611898d64b98e23012131730]
+## 1038A. Exclusion of deductions for share options: shares not acquired[^c-e21ce2bb611898d64b98e23012131730]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,4 +55,4 @@ unless the shares are acquired pursuant to the option.
 
 ## Annotations
 
-[^key-e21ce2bb611898d64b98e23012131730]: Textual amendment: S. 1038A inserted (with effect in accordance with s. 40(4)(7)(8) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 40(3)](https://www.legislation.gov.uk/ukpga/2013/29/section/40/3)
+[^c-e21ce2bb611898d64b98e23012131730]: Textual amendment: S. 1038A inserted (with effect in accordance with s. 40(4)(7)(8) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 40(3)](https://www.legislation.gov.uk/ukpga/2013/29/section/40/3)

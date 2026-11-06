@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96. Benefit cap[^key-a5c85e00204468c9cfb5e96865281de5]
+## 96. Benefit cap[^c-a5c85e00204468c9cfb5e96865281de5]
 
 *Extent: E+W+S*
 
@@ -36,12 +36,12 @@ summary: ''
 - (f) provide that where in consequence of a change in the relevant amount, entitlement to a welfare benefit increases or decreases, that increase or decrease has effect without any further decision of the Secretary of State;
 - (g) make supplementary and consequential provision.
 
-(5)[^key-4b2c1403929226cc19b084358fc8afa1] Regulations under this section may make provision for determining the “relevant amount” for the reference period applicable in the case of a single person or couple by reference to the annual limit applicable in the case of that single person or couple.
+(5)[^c-4b2c1403929226cc19b084358fc8afa1] Regulations under this section may make provision for determining the “relevant amount” for the reference period applicable in the case of a single person or couple by reference to the annual limit applicable in the case of that single person or couple.
 
 (5A) For the purposes of this section the “annual limit” is—
 
-- (a) £25,323 or £16,967[^key-617bdabf02698fbffc67d2c34424ebd0], for persons resident in Greater London;
-- (b) £22,020 or £14,753[^key-0c259a7e097b40ed98eef2123ee1063c], for other persons.
+- (a) £25,323 or £16,967[^c-617bdabf02698fbffc67d2c34424ebd0], for persons resident in Greater London;
+- (b) £22,020 or £14,753[^c-0c259a7e097b40ed98eef2123ee1063c], for other persons.
 
 (5B) Regulations under subsection (5) may—
 
@@ -51,11 +51,11 @@ summary: ''
 - (b) define “**resident**” for the purposes of this section;
 - (c) provide for the rounding up or down of an amount produced by dividing the amount of the annual limit by the number of periods of a duration equal to the reference period in a year.
 
-(6)[^key-54af80da0ff9bc066d8239950dba1d0e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-54af80da0ff9bc066d8239950dba1d0e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-54af80da0ff9bc066d8239950dba1d0e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-54af80da0ff9bc066d8239950dba1d0e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-54af80da0ff9bc066d8239950dba1d0e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-54af80da0ff9bc066d8239950dba1d0e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) Regulations under this section may not provide for any reduction to be made from a welfare benefit—
 
@@ -69,7 +69,7 @@ summary: ''
 - “**prescribed**” means prescribed in regulations;
 - “**regulations**” means regulations made by the Secretary of State;
 - “**single person**” means a person who is not a member of a couple;
-- “**welfare benefit**” means—[^key-c83628055db9a3ee2dde21fe9989b771]
+- “**welfare benefit**” means—[^c-c83628055db9a3ee2dde21fe9989b771]
   - bereavement allowance (see section 39B of the Social Security Contributions and Benefits Act 1992),
   - child benefit (see section 141 of the Social Security Contributions and Benefits Act 1992),
   - child tax credit (see section 1(1)(a) of the Tax Credits Act 2002),
@@ -85,20 +85,20 @@ summary: ''
   - widowed mother's allowance (see section 37 of the Social Security Contributions and Benefits Act 1992), or
   - widowed parent's allowance (see section 39A of the Social Security Contributions and Benefits Act 1992).
 
-(11)[^key-19c9b025d8516158d97cdee5647660c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-19c9b025d8516158d97cdee5647660c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a5c85e00204468c9cfb5e96865281de5]: Commencement: S. 96 in force at 27.11.2012 for specified purposes and 15.4.2013 in so far as not already in force by [S.I. 2012/2946](https://www.legislation.gov.uk/uksi/2012/2946), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/2946/article/2/2)
+[^c-a5c85e00204468c9cfb5e96865281de5]: Commencement: S. 96 in force at 27.11.2012 for specified purposes and 15.4.2013 in so far as not already in force by [S.I. 2012/2946](https://www.legislation.gov.uk/uksi/2012/2946), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/2946/article/2/2)
 
-[^key-4b2c1403929226cc19b084358fc8afa1]: Textual amendment: S. 96(5)-(5B) substituted for s. 96(5) (16.3.2016 for specified purposes, 7.11.2016 in so far as not already in force) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 8(2)](https://www.legislation.gov.uk/ukpga/2016/7/section/8/2), [36(3)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/3); [S.I. 2016/910](https://www.legislation.gov.uk/uksi/2016/910), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/910/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2016/910/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2016/910/regulation/2/3))
+[^c-4b2c1403929226cc19b084358fc8afa1]: Textual amendment: S. 96(5)-(5B) substituted for s. 96(5) (16.3.2016 for specified purposes, 7.11.2016 in so far as not already in force) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 8(2)](https://www.legislation.gov.uk/ukpga/2016/7/section/8/2), [36(3)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/3); [S.I. 2016/910](https://www.legislation.gov.uk/uksi/2016/910), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/910/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2016/910/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2016/910/regulation/2/3))
 
-[^key-617bdabf02698fbffc67d2c34424ebd0]: Textual amendment: Sums in [s. 96(5A)(a)](https://www.legislation.gov.uk/ukpga/2012/5/section/96/5A/a) substituted (1.4.2023) by [The Benefit Cap (Annual Limit) (Amendment) Regulations 2023 (S.I. 2023/335)](https://www.legislation.gov.uk/uksi/2023/335), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/335/regulation/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2023/335/regulation/2/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/335/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2023/335/regulation/1/4))
+[^c-617bdabf02698fbffc67d2c34424ebd0]: Textual amendment: Sums in [s. 96(5A)(a)](https://www.legislation.gov.uk/ukpga/2012/5/section/96/5A/a) substituted (1.4.2023) by [The Benefit Cap (Annual Limit) (Amendment) Regulations 2023 (S.I. 2023/335)](https://www.legislation.gov.uk/uksi/2023/335), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/335/regulation/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2023/335/regulation/2/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/335/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2023/335/regulation/1/4))
 
-[^key-0c259a7e097b40ed98eef2123ee1063c]: Textual amendment: Sums in [s. 96(5A)(b)](https://www.legislation.gov.uk/ukpga/2012/5/section/96/5A/b) substituted (1.4.2023) by [The Benefit Cap (Annual Limit) (Amendment) Regulations 2023 (S.I. 2023/335)](https://www.legislation.gov.uk/uksi/2023/335), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/335/regulation/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2023/335/regulation/2/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/335/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2023/335/regulation/1/4))
+[^c-0c259a7e097b40ed98eef2123ee1063c]: Textual amendment: Sums in [s. 96(5A)(b)](https://www.legislation.gov.uk/ukpga/2012/5/section/96/5A/b) substituted (1.4.2023) by [The Benefit Cap (Annual Limit) (Amendment) Regulations 2023 (S.I. 2023/335)](https://www.legislation.gov.uk/uksi/2023/335), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/335/regulation/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2023/335/regulation/2/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/335/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2023/335/regulation/1/4))
 
-[^key-54af80da0ff9bc066d8239950dba1d0e]: Textual amendment: S. 96(6)-(8) omitted (16.3.2016 for specified purposes, 7.11.2016 in so far as not already in force) by virtue of [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 8(3)](https://www.legislation.gov.uk/ukpga/2016/7/section/8/3), [36(3)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/3); [S.I. 2016/910](https://www.legislation.gov.uk/uksi/2016/910), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/910/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2016/910/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2016/910/regulation/2/3))
+[^c-54af80da0ff9bc066d8239950dba1d0e]: Textual amendment: S. 96(6)-(8) omitted (16.3.2016 for specified purposes, 7.11.2016 in so far as not already in force) by virtue of [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 8(3)](https://www.legislation.gov.uk/ukpga/2016/7/section/8/3), [36(3)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/3); [S.I. 2016/910](https://www.legislation.gov.uk/uksi/2016/910), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/910/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2016/910/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2016/910/regulation/2/3))
 
-[^key-c83628055db9a3ee2dde21fe9989b771]: Textual amendment: Words in s. 96(10) substituted (16.3.2016 for specified purposes, 7.11.2016 in so far as not already in force) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 8(4)](https://www.legislation.gov.uk/ukpga/2016/7/section/8/4), [36(3)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/3); [S.I. 2016/910](https://www.legislation.gov.uk/uksi/2016/910), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/910/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2016/910/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2016/910/regulation/2/3))
+[^c-c83628055db9a3ee2dde21fe9989b771]: Textual amendment: Words in s. 96(10) substituted (16.3.2016 for specified purposes, 7.11.2016 in so far as not already in force) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 8(4)](https://www.legislation.gov.uk/ukpga/2016/7/section/8/4), [36(3)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/3); [S.I. 2016/910](https://www.legislation.gov.uk/uksi/2016/910), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/910/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2016/910/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2016/910/regulation/2/3))
 
-[^key-19c9b025d8516158d97cdee5647660c3]: Textual amendment: S. 96(11) omitted (16.3.2016 for specified purposes, 7.11.2016 in so far as not already in force) by virtue of [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 8(5)](https://www.legislation.gov.uk/ukpga/2016/7/section/8/5), [36(3)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/3); [S.I. 2016/910](https://www.legislation.gov.uk/uksi/2016/910), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/910/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2016/910/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2016/910/regulation/2/3))
+[^c-19c9b025d8516158d97cdee5647660c3]: Textual amendment: S. 96(11) omitted (16.3.2016 for specified purposes, 7.11.2016 in so far as not already in force) by virtue of [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 8(5)](https://www.legislation.gov.uk/ukpga/2016/7/section/8/5), [36(3)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/3); [S.I. 2016/910](https://www.legislation.gov.uk/uksi/2016/910), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/910/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2016/910/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2016/910/regulation/2/3))

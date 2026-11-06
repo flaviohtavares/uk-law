@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Amendment of the United Nations and European Union Financial Sanctions (Linking) Regulations 2017[^key-1b8ed67b19379fd30d5a802738005bd2][^key-c9e73b2ac6dfcd817b43082343746942]
+## 67. Amendment of the United Nations and European Union Financial Sanctions (Linking) Regulations 2017[^c-1b8ed67b19379fd30d5a802738005bd2][^c-c9e73b2ac6dfcd817b43082343746942]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,8 +28,8 @@ In the Schedule to the United Nations and European Union Financial Sanctions (Li
 
 ## Annotations
 
-[^key-1b8ed67b19379fd30d5a802738005bd2]: Commencement: Reg. 67 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/1/2)
+[^c-1b8ed67b19379fd30d5a802738005bd2]: Commencement: Reg. 67 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/1/2)
 
-[^key-c9e73b2ac6dfcd817b43082343746942]: Commencement: [Reg. 67](https://www.legislation.gov.uk/uksi/2020/1278/regulation/67) in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 20(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/20/2)
+[^c-c9e73b2ac6dfcd817b43082343746942]: Commencement: [Reg. 67](https://www.legislation.gov.uk/uksi/2020/1278/regulation/67) in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 20(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/20/2)
 
 [^c24335071]: Marginal citation: [S.I. 2017/478](https://www.legislation.gov.uk/uksi/2017/478), to which there are amendments not relevant to these Regulations.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 258A. Notification of proposed changes to telecommunications services etc[^key-f871a38aecaff4d804c818df948d94cf]
+## 258A. Notification of proposed changes to telecommunications services etc[^c-f871a38aecaff4d804c818df948d94cf]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,4 +67,4 @@ who meets the condition in subsection (12).
 
 ## Annotations
 
-[^key-f871a38aecaff4d804c818df948d94cf]: Textual amendment: Ss. 258A, 258B inserted (20.6.2025) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 21(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/21/2), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2025/722](https://www.legislation.gov.uk/uksi/2025/722), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/722/regulation/2/b)
+[^c-f871a38aecaff4d804c818df948d94cf]: Textual amendment: Ss. 258A, 258B inserted (20.6.2025) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 21(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/21/2), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2025/722](https://www.legislation.gov.uk/uksi/2025/722), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/722/regulation/2/b)

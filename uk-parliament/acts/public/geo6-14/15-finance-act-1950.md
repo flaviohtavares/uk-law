@@ -112,9 +112,9 @@ Provided that where the whole or any part of, or of the value of, something obta
 Provided that, to the extent that any expenses so deducted go to reduce the sum which is to be treated under that subsection as the amount of a recovery in respect of a debt, claim or property wholly or partly written off in the manner specified in subsection (1) of this section—
 
 - (a) no deduction shall be allowed for the expenses in computing, for excess profits tax or profits tax purposes, the profits or losses arising from any trade or business in any accounting period or in computing, for the purposes of income tax for any year of assessment, the profits or gains or losses of any trade; and
-- (b)[^key-0743a3d8d1f028ea0ad37c2d7bc3b629] the expenses shall not be allowed—
-  - (i) as a deduction under section 1219 of the Corporation Tax Act 2009[^key-6115c43cafd6cf02d4a52b7f22e4957c]; or
-  - (ii) in the computation of ordinary BLAGAB management expenses for the purposes of section 76 of the Finance Act 2012[^key-d135ac71adfe0d6ea236d0c426c6b58a].
+- (b)[^c-0743a3d8d1f028ea0ad37c2d7bc3b629] the expenses shall not be allowed—
+  - (i) as a deduction under section 1219 of the Corporation Tax Act 2009[^c-6115c43cafd6cf02d4a52b7f22e4957c]; or
+  - (ii) in the computation of ordinary BLAGAB management expenses for the purposes of section 76 of the Finance Act 2012[^c-d135ac71adfe0d6ea236d0c426c6b58a].
 
 (4) Where an amount of tax has been allowed to remain uncollected on the ground that some debt, claim or property might prove to be irrecoverable or lost, without, however, a deduction being actually allowed in the relevant computation of profits, profits or gains or losses, the preceding provisions of this section shall apply, with the necessary adaptations, as if a deduction had been allowed in the said computation so as to write off the debt or claim, or, as the case may be, the value of the property, to an extent corresponding to the amount of tax allowed to remain uncollected.
 
@@ -140,7 +140,7 @@ Provided that where the person making the recovery is not resident in theUnited 
 - (b) priority for the claim of the Crown for that sum in bankruptcy, or in the winding up of a company or in the administration of the estate of a deceased person; and
 - (c) appeals to the Special Commissioners and the stating of cases for the opinion of the High Court,
 
-shall follow on the service of the notice as would have followed on the making of an assessment to income tax in that amount on, or, as the case may be, on the executors or administrators of, that person [^key-3b1f9b2cc05bab7828c59ef5e194ec56]... in respect of income chargeable [^key-29b198a9fec0eda31243e6381256287e]... for the year of assessment current when the notice was served, and the provisions of the Income Tax Acts relating to those matters shall, with the necessary adaptations, have effect accordingly.
+shall follow on the service of the notice as would have followed on the making of an assessment to income tax in that amount on, or, as the case may be, on the executors or administrators of, that person [^c-3b1f9b2cc05bab7828c59ef5e194ec56]... in respect of income chargeable [^c-29b198a9fec0eda31243e6381256287e]... for the year of assessment current when the notice was served, and the provisions of the Income Tax Acts relating to those matters shall, with the necessary adaptations, have effect accordingly.
 
 (4) Where excess profits tax is concerned and—
 
@@ -288,15 +288,15 @@ SCHEDULES
 
 [^c600087]: Marginal citation: [1949 c. 85](https://www.legislation.gov.uk/ukpga/1949/85).
 
-[^key-0743a3d8d1f028ea0ad37c2d7bc3b629]: Textual amendment: Words in s. 39(3) substituted (28.9.2004) by [Finance Act 2004, Sections 38 to 40 and 45 and Schedule 6 (Consequential Amendments of Enactments) Order 2004 (S.I. 2004/2310)](https://www.legislation.gov.uk/uksi/2004/2310), [art. 1(2)](https://www.legislation.gov.uk/uksi/2004/2310/article/1/2), [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2004/2310/schedule/paragraph/1/2)
+[^c-0743a3d8d1f028ea0ad37c2d7bc3b629]: Textual amendment: Words in s. 39(3) substituted (28.9.2004) by [Finance Act 2004, Sections 38 to 40 and 45 and Schedule 6 (Consequential Amendments of Enactments) Order 2004 (S.I. 2004/2310)](https://www.legislation.gov.uk/uksi/2004/2310), [art. 1(2)](https://www.legislation.gov.uk/uksi/2004/2310/article/1/2), [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2004/2310/schedule/paragraph/1/2)
 
-[^key-6115c43cafd6cf02d4a52b7f22e4957c]: Textual amendment: Words in s. 39(3) substituted (1.4.2009) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 294(a)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/294/a) (with [Sch. 2 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-6115c43cafd6cf02d4a52b7f22e4957c]: Textual amendment: Words in s. 39(3) substituted (1.4.2009) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 294(a)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/294/a) (with [Sch. 2 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-d135ac71adfe0d6ea236d0c426c6b58a]: Textual amendment: Words in [s. 39(3)(b)(ii)](https://www.legislation.gov.uk/ukpga/Geo6/14/15/section/39/3/b/ii) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 65](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/65)
+[^c-d135ac71adfe0d6ea236d0c426c6b58a]: Textual amendment: Words in [s. 39(3)(b)(ii)](https://www.legislation.gov.uk/ukpga/Geo6/14/15/section/39/3/b/ii) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 65](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/65)
 
-[^key-3b1f9b2cc05bab7828c59ef5e194ec56]: Textual amendment: Words in s. 40(3) repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-3b1f9b2cc05bab7828c59ef5e194ec56]: Textual amendment: Words in s. 40(3) repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
-[^key-29b198a9fec0eda31243e6381256287e]: Textual amendment: Words in s. 40(3) repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-29b198a9fec0eda31243e6381256287e]: Textual amendment: Words in s. 40(3) repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
 [^c600089]: Marginal citation: [1940 c. 29](https://www.legislation.gov.uk/ukpga/1940/29).
 

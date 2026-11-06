@@ -42,11 +42,11 @@ Coming into operation
 
 The Department for Communities makes the following Regulations in exercise of the powers conferred by sections 134(1)(a) and 171(1) and (4) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001], and now vested in it[^f00002].
 
-## 1. Citation and commencement[^key-a15cb8a82c408e82d453f07aa24d5904]
+## 1. Citation and commencement[^c-a15cb8a82c408e82d453f07aa24d5904]
 
 These Regulations may be cited as the Social Fund Maternity and Funeral Expenses (General) (Amendment) Regulations (Northern Ireland) 2023 and shall come into operation on 11th December 2023.
 
-## 2. Amendment of the Social Fund Maternity and Funeral Expenses (General) Regulations[^key-bcb338102e74294366a8d584df79847a]
+## 2. Amendment of the Social Fund Maternity and Funeral Expenses (General) Regulations[^c-bcb338102e74294366a8d584df79847a]
 
 In regulation 2(1)[^f00003] (interpretation) of the Social Fund Maternity and Funeral Expenses (General) Regulations (Northern Ireland) 2005[^f00004], in the definition of “parental order”, after “section 54” insert “or section 54A”.
 
@@ -74,9 +74,9 @@ Regulation 2 amends regulation 2(1) of the Maternity and Funeral Expenses Regula
 
 [^f00002]: Footnote: See Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481) and section 1(7) of the Departments Act (Northern Ireland) [2016 (c. 5 (N.I.))](https://www.legislation.gov.uk/nia/2016/5)
 
-[^key-a15cb8a82c408e82d453f07aa24d5904]: Commencement: Reg. 1 in operation at 11.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/190/regulation/1)
+[^c-a15cb8a82c408e82d453f07aa24d5904]: Commencement: Reg. 1 in operation at 11.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/190/regulation/1)
 
-[^key-bcb338102e74294366a8d584df79847a]: Commencement: Reg. 2 in operation at 11.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/190/regulation/1)
+[^c-bcb338102e74294366a8d584df79847a]: Commencement: Reg. 2 in operation at 11.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/190/regulation/1)
 
 [^f00003]: Footnote: Relevant amending instrument is [S.R.2010 No. 378](https://www.legislation.gov.uk/nisr/2010/378), see Regulation 2(2)(e)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Maintenance and audit of records by participants in the Trading Schemes[^key-e74e21d0a2d4d566e2d721f992bccb53]
+## 75. Maintenance and audit of records by participants in the Trading Schemes[^c-e74e21d0a2d4d566e2d721f992bccb53]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e74e21d0a2d4d566e2d721f992bccb53]: Commencement: Art. 75 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-e74e21d0a2d4d566e2d721f992bccb53]: Commencement: Art. 75 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)

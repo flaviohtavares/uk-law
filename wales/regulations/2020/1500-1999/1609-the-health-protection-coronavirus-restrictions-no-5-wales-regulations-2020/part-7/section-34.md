@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. Power of entry[^key-eca46cac95332d2e7bf38dbd7a8d3305]
+## 34. Power of entry[^c-eca46cac95332d2e7bf38dbd7a8d3305]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eca46cac95332d2e7bf38dbd7a8d3305]: Commencement: Reg. 34 in force at 20.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1609/regulation/1/3)
+[^c-eca46cac95332d2e7bf38dbd7a8d3305]: Commencement: Reg. 34 in force at 20.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1609/regulation/1/3)

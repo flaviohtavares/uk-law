@@ -22,7 +22,7 @@ summary: ''
 
 (1) In this Order, a person shall be treated as being in receipt of any retired pay, pension, allowance or other continuing benefit awarded to him under this Order notwithstanding that the retired pay, pension, allowance or other benefit, or any part of it, is, by virtue of any provision of this Order, being administered or otherwise applied for any purpose or paid to some other person.
 
-(2) Where an allowance awarded under this Order in respect of a child of a deceased member of the armed forces is withheld or reduced under article 55, the member's surviving spouse, surviving civil partner or dependant who lived as a spouse or[^key-6dab8661305dc56c317f2dbaa9f93847] civil partner who has the child under his or her control or in his or her charge shall be treated as being in receipt of the allowance notwithstanding that it is so withheld or reduced.
+(2) Where an allowance awarded under this Order in respect of a child of a deceased member of the armed forces is withheld or reduced under article 55, the member's surviving spouse, surviving civil partner or dependant who lived as a spouse or[^c-6dab8661305dc56c317f2dbaa9f93847] civil partner who has the child under his or her control or in his or her charge shall be treated as being in receipt of the allowance notwithstanding that it is so withheld or reduced.
 
 (3) A condition for the award of any pension, allowance or grant under this Order that a person is, or as the case may be, was, in receipt of retired pay, pension, allowance or other award under this Order or under a 1919 to 1921 instrument, shall be treated as satisfied if that person is, or as the case may be, was, in receipt of any payment made by the Secretary of State with the consent of the Treasury which is analogous to that retired pay, pension, allowance or other award.
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6dab8661305dc56c317f2dbaa9f93847]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/uksi/2006/606/article/2/2) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 110(2)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/110/2)
+[^c-6dab8661305dc56c317f2dbaa9f93847]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/uksi/2006/606/article/2/2) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 110(2)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/110/2)

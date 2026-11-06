@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58.[^key-f0bcd6cf728b01e3fbfb28b106122926]
+## 58.[^c-f0bcd6cf728b01e3fbfb28b106122926]
 
 *Extent: E+W+S+N.I.*
 
 In Article 12—
 
 - (a) in paragraph 1—
-  - (i) for the words from the beginning to “shall”, in the second place it occurs, substitute “ Where the appropriate authority decides to buy-in products under Article 13(2)[^key-e90f72e9d982cbba032f15e7c84fe739] of Regulation (EU) No. 1308/2013 or Article 3(2) of Regulation (EU) No 1370/2013[^key-3b4be243315ee3a4c2221e6c916f075f], it must publish a tendering procedure. The tendering procedure must ”;
+  - (i) for the words from the beginning to “shall”, in the second place it occurs, substitute “ Where the appropriate authority decides to buy-in products under Article 13(2)[^c-e90f72e9d982cbba032f15e7c84fe739] of Regulation (EU) No. 1308/2013 or Article 3(2) of Regulation (EU) No 1370/2013[^c-3b4be243315ee3a4c2221e6c916f075f], it must publish a tendering procedure. The tendering procedure must ”;
   - (ii) after point (b) insert—
 
     > - (c) in the case of a restricted tendering procedure under Article 3(3) of Regulation (EU) No. 1370/2013, the region covered.
@@ -48,8 +48,8 @@ In Article 12—
 
 ## Annotations
 
-[^key-f0bcd6cf728b01e3fbfb28b106122926]: Commencement: Reg. 58 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(4)(a)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/4/a)
+[^c-f0bcd6cf728b01e3fbfb28b106122926]: Commencement: Reg. 58 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(4)(a)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/4/a)
 
-[^key-e90f72e9d982cbba032f15e7c84fe739]: Textual amendment: Words in reg. 58(a)(i) substituted (31.12.2020) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/a), [16(7)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/16/7/a)
+[^c-e90f72e9d982cbba032f15e7c84fe739]: Textual amendment: Words in reg. 58(a)(i) substituted (31.12.2020) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/a), [16(7)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/16/7/a)
 
-[^key-3b4be243315ee3a4c2221e6c916f075f]: Textual amendment: Words in reg. 58(a)(i) inserted (31.12.2020) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/a), [16(7)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/16/7/b)
+[^c-3b4be243315ee3a4c2221e6c916f075f]: Textual amendment: Words in reg. 58(a)(i) inserted (31.12.2020) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/a), [16(7)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/16/7/b)

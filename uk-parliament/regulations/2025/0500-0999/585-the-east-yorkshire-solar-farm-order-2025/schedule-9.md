@@ -22,7 +22,7 @@ summary: ''
 
 Article 22
 
-### 1. Interpretation[^key-bc8f4c47dfd1bba274e91690177024a3]
+### 1. Interpretation[^c-bc8f4c47dfd1bba274e91690177024a3]
 
 In this Schedule—
 
@@ -177,4 +177,4 @@ In this Schedule—
 
 ## Annotations
 
-[^key-bc8f4c47dfd1bba274e91690177024a3]: Commencement: Sch. 9 para. 1 in force at 31.5.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/585/article/1)
+[^c-bc8f4c47dfd1bba274e91690177024a3]: Commencement: Sch. 9 para. 1 in force at 31.5.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/585/article/1)

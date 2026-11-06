@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) The making of an order suspending a solicitor from practice and the adjudication of bankruptcy of a solicitor or his becoming the subject of a bankruptcy restrictions order[^key-5ca9e88d754f3012e832f159a3864f69] or the making of a debt relief order in respect of him or his becoming the subject of a debt relief restrictions order,[^key-976e957c246953aadc08fd58435b34d1] shall operate to suspend any practising certificate of that solicitor for the time being in force.
+(1) The making of an order suspending a solicitor from practice and the adjudication of bankruptcy of a solicitor or his becoming the subject of a bankruptcy restrictions order[^c-5ca9e88d754f3012e832f159a3864f69] or the making of a debt relief order in respect of him or his becoming the subject of a debt relief restrictions order,[^c-976e957c246953aadc08fd58435b34d1] shall operate to suspend any practising certificate of that solicitor for the time being in force.
 
 (2) Where, under any provision of this Order, Schedule 1 applies in relation to a solicitor, the Council may in their discretion suspend any practising certificate of that solicitor for the time being in force.
 
@@ -41,6 +41,6 @@ summary: ''
 
 [^c17112501]: Textual amendment: [1989 NI 14](https://www.legislation.gov.uk/nisi/1989)
 
-[^key-5ca9e88d754f3012e832f159a3864f69]: Textual amendment: Words in art. 15(1) inserted (21.4.2015) by [The Insolvency (Northern Ireland) Order 2005 (Consequential Amendments) Order (Northern Ireland) 2015 (S.R. 2015/159)](https://www.legislation.gov.uk/nisr/2015/159), [art. 1](https://www.legislation.gov.uk/nisr/2015/159/article/1), [Sch. para. 5(3)](https://www.legislation.gov.uk/nisr/2015/159/schedule/paragraph/5/3)
+[^c-5ca9e88d754f3012e832f159a3864f69]: Textual amendment: Words in art. 15(1) inserted (21.4.2015) by [The Insolvency (Northern Ireland) Order 2005 (Consequential Amendments) Order (Northern Ireland) 2015 (S.R. 2015/159)](https://www.legislation.gov.uk/nisr/2015/159), [art. 1](https://www.legislation.gov.uk/nisr/2015/159/article/1), [Sch. para. 5(3)](https://www.legislation.gov.uk/nisr/2015/159/schedule/paragraph/5/3)
 
-[^key-976e957c246953aadc08fd58435b34d1]: Textual amendment: Words in [art. 15(1)](https://www.legislation.gov.uk/nisi/1976/582/article/15/1) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 7(3)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/7/3)
+[^c-976e957c246953aadc08fd58435b34d1]: Textual amendment: Words in [art. 15(1)](https://www.legislation.gov.uk/nisi/1976/582/article/15/1) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 7(3)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/7/3)

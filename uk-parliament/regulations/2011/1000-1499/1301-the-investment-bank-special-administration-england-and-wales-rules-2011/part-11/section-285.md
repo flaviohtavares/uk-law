@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 285. False claim of status as creditor, etc[^key-d1491ba3b142d786057d32414324504e]
+## 285. False claim of status as creditor, etc[^c-d1491ba3b142d786057d32414324504e]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ to inspect any documents, whether on the court’s file or in the hands of the a
 
 ## Annotations
 
-[^key-d1491ba3b142d786057d32414324504e]: Commencement: [Rule 285](https://www.legislation.gov.uk/uksi/2011/1301/rule/285) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-d1491ba3b142d786057d32414324504e]: Commencement: [Rule 285](https://www.legislation.gov.uk/uksi/2011/1301/rule/285) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

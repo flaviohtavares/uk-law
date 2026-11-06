@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1149. Application of 20% rule to collective investment schemes[^key-97019a49a29d1a77f5c40548b57373c9]
+## 1149. Application of 20% rule to collective investment schemes[^c-97019a49a29d1a77f5c40548b57373c9]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-97019a49a29d1a77f5c40548b57373c9]: Textual amendment: [S. 1149](https://www.legislation.gov.uk/ukpga/2010/4/section/1149) omitted (for chargeable periods beginning on or after 1.1.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 7 paras. 16(2)(c)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/16/2/c), [30](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/30)
+[^c-97019a49a29d1a77f5c40548b57373c9]: Textual amendment: [S. 1149](https://www.legislation.gov.uk/ukpga/2010/4/section/1149) omitted (for chargeable periods beginning on or after 1.1.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 7 paras. 16(2)(c)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/16/2/c), [30](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/30)

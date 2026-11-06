@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Postal votes for workers absent from ballot at workplace[^key-445b193619d968ee9797768100c403e3]
+## 8. Postal votes for workers absent from ballot at workplace[^c-445b193619d968ee9797768100c403e3]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-445b193619d968ee9797768100c403e3]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2004/24/section/8) in force at 6.4.2005 by [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [art. 7](https://www.legislation.gov.uk/uksi/2005/872/article/7))
+[^c-445b193619d968ee9797768100c403e3]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2004/24/section/8) in force at 6.4.2005 by [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [art. 7](https://www.legislation.gov.uk/uksi/2005/872/article/7))

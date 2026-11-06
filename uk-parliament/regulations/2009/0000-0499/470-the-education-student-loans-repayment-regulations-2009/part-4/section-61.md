@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Powers to obtain information[^key-f6481716371166985e078ee16a911724]
+## 61. Powers to obtain information[^c-f6481716371166985e078ee16a911724]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,13 +25,13 @@ summary: ''
 (2) The modifications are —
 
 - (a) any reference to any provision of the Taxes Acts is to be treated as a reference to this Part;
-- (b) any reference to prejudice to the assessment or collection of tax is to be treated as a reference to prejudice to the assessment or collection of [^key-5f0879082d3ee611765ae61a42fdfe66]... repayments;
+- (b) any reference to prejudice to the assessment or collection of tax is to be treated as a reference to prejudice to the assessment or collection of [^c-5f0879082d3ee611765ae61a42fdfe66]... repayments;
 - (c) the reference to information relating to the conduct of a pending appeal relating to tax is to be treated as a reference to information relating to the conduct of a pending appeal relating to compliance with this Part;
 - (d) paragraphs 21, 35(4)(b), 36 and 37(2) are omitted; and
 - (e) a reference to “statutory records” includes all documents and records relating to the repayments requiring deduction under this Part including any notice received under regulation 50(9).
 
 ## Annotations
 
-[^key-f6481716371166985e078ee16a911724]: Commencement: [Reg. 61](https://www.legislation.gov.uk/uksi/2009/470/regulation/61) in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/1)
+[^c-f6481716371166985e078ee16a911724]: Commencement: [Reg. 61](https://www.legislation.gov.uk/uksi/2009/470/regulation/61) in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/1)
 
-[^key-5f0879082d3ee611765ae61a42fdfe66]: Textual amendment: Words in [reg. 61(2)(b)](https://www.legislation.gov.uk/uksi/2009/470/regulation/61/2/b) omitted (6.4.2023) by virtue of [The Education (Student Loans) (Repayment) (Amendment) (No. 4) Regulations 2022 (S.I. 2022/1335)](https://www.legislation.gov.uk/uksi/2022/1335), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2), [51](https://www.legislation.gov.uk/uksi/2022/1335/regulation/51)
+[^c-5f0879082d3ee611765ae61a42fdfe66]: Textual amendment: Words in [reg. 61(2)(b)](https://www.legislation.gov.uk/uksi/2009/470/regulation/61/2/b) omitted (6.4.2023) by virtue of [The Education (Student Loans) (Repayment) (Amendment) (No. 4) Regulations 2022 (S.I. 2022/1335)](https://www.legislation.gov.uk/uksi/2022/1335), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2), [51](https://www.legislation.gov.uk/uksi/2022/1335/regulation/51)

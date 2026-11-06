@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 49. Operation of Part 5[^key-c8b219aa2710179fe8effc46e68901d2]
+## 49. Operation of Part 5[^c-c8b219aa2710179fe8effc46e68901d2]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c8b219aa2710179fe8effc46e68901d2]: Commencement: Art. 49 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
+[^c-c8b219aa2710179fe8effc46e68901d2]: Commencement: Art. 49 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)

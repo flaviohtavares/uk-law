@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Report where regulations for a purpose within section 1(2) are amended[^key-f2a0cf521c856c21e039569e25561a2b]
+## 46. Report where regulations for a purpose within section 1(2) are amended[^c-f2a0cf521c856c21e039569e25561a2b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f2a0cf521c856c21e039569e25561a2b]: Textual amendment: [S. 46](https://www.legislation.gov.uk/ukpga/2018/13/section/46) omitted (15.3.2022) by virtue of [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [ss. 63(1)(c)](https://www.legislation.gov.uk/ukpga/2022/10/section/63/1/c), [69(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/3)
+[^c-f2a0cf521c856c21e039569e25561a2b]: Textual amendment: [S. 46](https://www.legislation.gov.uk/ukpga/2018/13/section/46) omitted (15.3.2022) by virtue of [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [ss. 63(1)(c)](https://www.legislation.gov.uk/ukpga/2022/10/section/63/1/c), [69(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/3)

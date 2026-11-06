@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2 — NOTIFIED BODIES[^key-82cb515286303d8bc0c1d6318293755d]
+## SCHEDULE 2 — NOTIFIED BODIES[^c-82cb515286303d8bc0c1d6318293755d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,54 +24,54 @@ summary: ''
 
 Regulations 2(1) and 5
 
-### PART 1 — NOTIFIED BODY CRITERIA[^key-82cb515286303d8bc0c1d6318293755d]
+### PART 1 — NOTIFIED BODY CRITERIA[^c-82cb515286303d8bc0c1d6318293755d]
 
-**1.**[^key-82cb515286303d8bc0c1d6318293755d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-82cb515286303d8bc0c1d6318293755d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-82cb515286303d8bc0c1d6318293755d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-82cb515286303d8bc0c1d6318293755d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-82cb515286303d8bc0c1d6318293755d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-82cb515286303d8bc0c1d6318293755d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-82cb515286303d8bc0c1d6318293755d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-82cb515286303d8bc0c1d6318293755d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-82cb515286303d8bc0c1d6318293755d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-82cb515286303d8bc0c1d6318293755d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-82cb515286303d8bc0c1d6318293755d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-82cb515286303d8bc0c1d6318293755d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-82cb515286303d8bc0c1d6318293755d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-82cb515286303d8bc0c1d6318293755d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-82cb515286303d8bc0c1d6318293755d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-82cb515286303d8bc0c1d6318293755d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — FUNCTIONS[^key-82cb515286303d8bc0c1d6318293755d]
+### PART 2 — FUNCTIONS[^c-82cb515286303d8bc0c1d6318293755d]
 
-#### 9. Assessment of applications for certificates or notifications[^key-82cb515286303d8bc0c1d6318293755d]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 10. Limitations on duties to exercise functions[^key-82cb515286303d8bc0c1d6318293755d]
+#### 9. Assessment of applications for certificates or notifications[^c-82cb515286303d8bc0c1d6318293755d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 11. Contractors[^key-82cb515286303d8bc0c1d6318293755d]
+#### 10. Limitations on duties to exercise functions[^c-82cb515286303d8bc0c1d6318293755d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 12. Form of certificates or notifications[^key-82cb515286303d8bc0c1d6318293755d]
+#### 11. Contractors[^c-82cb515286303d8bc0c1d6318293755d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 13. Conditions of certificates or notifications[^key-82cb515286303d8bc0c1d6318293755d]
+#### 12. Form of certificates or notifications[^c-82cb515286303d8bc0c1d6318293755d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 14. Withdrawal of certificates or notifications[^key-82cb515286303d8bc0c1d6318293755d]
+#### 13. Conditions of certificates or notifications[^c-82cb515286303d8bc0c1d6318293755d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 15. Procedure where a notified body is minded to refuse to give, or to vary or withdraw a certificate or approval[^key-82cb515286303d8bc0c1d6318293755d]
+#### 14. Withdrawal of certificates or notifications[^c-82cb515286303d8bc0c1d6318293755d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 15. Procedure where a notified body is minded to refuse to give, or to vary or withdraw a certificate or approval[^c-82cb515286303d8bc0c1d6318293755d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-82cb515286303d8bc0c1d6318293755d]: Textual amendment: Regulations revoked (28.12.2016) by [The Measuring Instruments Regulations 2016 (S.I. 2016/1153)](https://www.legislation.gov.uk/uksi/2016/1153), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/1/2), [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2016/1153/schedule/3/paragraph/1) (with [regs. 3(4)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/3/4), [5](https://www.legislation.gov.uk/uksi/2016/1153/regulation/5), [67(5)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/67/5), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2016/1153/schedule/3/paragraph/2))
+[^c-82cb515286303d8bc0c1d6318293755d]: Textual amendment: Regulations revoked (28.12.2016) by [The Measuring Instruments Regulations 2016 (S.I. 2016/1153)](https://www.legislation.gov.uk/uksi/2016/1153), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/1/2), [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2016/1153/schedule/3/paragraph/1) (with [regs. 3(4)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/3/4), [5](https://www.legislation.gov.uk/uksi/2016/1153/regulation/5), [67(5)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/67/5), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2016/1153/schedule/3/paragraph/2))

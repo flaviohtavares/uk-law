@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Restriction on recovery of non-litigation costs of enfranchisement, extension and right to manage[^key-e134d5459f56e76b9776b5fd354873af][^key-db4b45614411bd1751aabdf13efc9c46]
+## 64. Restriction on recovery of non-litigation costs of enfranchisement, extension and right to manage[^c-e134d5459f56e76b9776b5fd354873af][^c-db4b45614411bd1751aabdf13efc9c46]
 
 *Extent: E+W*
 
@@ -63,6 +63,6 @@ After section 20I of the LTA 1985 (as inserted by section 59) insert—
 
 ## Annotations
 
-[^key-e134d5459f56e76b9776b5fd354873af]: Commencement: S. 64 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-e134d5459f56e76b9776b5fd354873af]: Commencement: S. 64 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-db4b45614411bd1751aabdf13efc9c46]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2024/22/section/64) in force at 3.3.2025 for specified purposes by [S.I. 2025/131](https://www.legislation.gov.uk/uksi/2025/131), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2025/131/regulation/2/e)
+[^c-db4b45614411bd1751aabdf13efc9c46]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2024/22/section/64) in force at 3.3.2025 for specified purposes by [S.I. 2025/131](https://www.legislation.gov.uk/uksi/2025/131), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2025/131/regulation/2/e)

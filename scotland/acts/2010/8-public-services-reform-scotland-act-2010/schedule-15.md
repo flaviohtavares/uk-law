@@ -22,9 +22,9 @@ summary: ''
 
 (introduced by section 107)
 
-**1.**[^key-aab3268c0377c514aab3d929ccf56775] Part 3 of the Regulation of Care (Scotland) Act 2001 (asp 8) (the Scottish Social Services Council) is amended as follows.
+**1.**[^c-aab3268c0377c514aab3d929ccf56775] Part 3 of the Regulation of Care (Scotland) Act 2001 (asp 8) (the Scottish Social Services Council) is amended as follows.
 
-**2.**[^key-542edc3e57e4d05c75dd6ce0fea46a8a] In section 46 (grant or refusal of registration under Part 3)—
+**2.**[^c-542edc3e57e4d05c75dd6ce0fea46a8a] In section 46 (grant or refusal of registration under Part 3)—
 
 - (a) in subsection (2), the words from “or”, where it fourth occurs, to the end of the subsection are repealed,
 - (b) after that subsection insert—
@@ -66,7 +66,7 @@ summary: ''
   ,
 - (c) subsection (3) is repealed.
 
-**3.**[^key-c6e4338cd953dfeeee23e1dcbb95fbcc] In section 47 (variation etc. of conditions in relation to registration under Part 3)—
+**3.**[^c-c6e4338cd953dfeeee23e1dcbb95fbcc] In section 47 (variation etc. of conditions in relation to registration under Part 3)—
 
 - (a) in subsection (1), for “that it proposes” substitute “ of its decision ”,
 - (b) in subsection (2)—
@@ -79,7 +79,7 @@ summary: ''
 
     .
 
-**4.**[^key-a6a7ace5016d0ca03eb7fe3fbf8f3b38] In section 48 (right to make representations to Council as respects proposal)—
+**4.**[^c-a6a7ace5016d0ca03eb7fe3fbf8f3b38] In section 48 (right to make representations to Council as respects proposal)—
 
 - (a) in subsection (1), the words “46(2) or” are repealed,
 - (b) for subsection (2) substitute—
@@ -98,11 +98,11 @@ summary: ''
 
   .
 
-**5.**[^key-f422ad090aaa6db85ac53050bf1d3c54] In the heading to section 48, for “proposal” substitute “ decision under section 47 ”.
+**5.**[^c-f422ad090aaa6db85ac53050bf1d3c54] In the heading to section 48, for “proposal” substitute “ decision under section 47 ”.
 
-**6.**[^key-af780737868076429bb051e010d2863d] In section 49 (removal etc. from the Council's register), in subsection (1)(e), for “proposal” substitute “ decision ”.
+**6.**[^c-af780737868076429bb051e010d2863d] In section 49 (removal etc. from the Council's register), in subsection (1)(e), for “proposal” substitute “ decision ”.
 
-**7.**[^key-4f244523fd9e23ed8769a4f73aa3e598] In section 50 (notice of Council's decision)—
+**7.**[^c-4f244523fd9e23ed8769a4f73aa3e598] In section 50 (notice of Council's decision)—
 
 - (a) subsection (1) is repealed,
 - (b) in subsection (2), paragraph (a) and the “or” immediately following it are repealed,
@@ -117,9 +117,9 @@ summary: ''
 
   .
 
-**8.**[^key-35ac26614921210ae3baf3dacb725d49] In the heading to section 50, at the end, add “ under rules under section 49 ”.
+**8.**[^c-35ac26614921210ae3baf3dacb725d49] In the heading to section 50, at the end, add “ under rules under section 49 ”.
 
-**9.**[^key-a4416811476dac364dbb39c0fb930d2d] In section 51 (appeal against decision of Council)—
+**9.**[^c-a4416811476dac364dbb39c0fb930d2d] In section 51 (appeal against decision of Council)—
 
 - (a) before subsection (1) insert—
 
@@ -168,7 +168,7 @@ summary: ''
 
     .
 
-**10.**[^key-c04205766d1ae846fd179dcb297c6628] In section 53 (codes of practice)—
+**10.**[^c-c04205766d1ae846fd179dcb297c6628] In section 53 (codes of practice)—
 
 - (a) after subsection (3) insert—
 
@@ -190,7 +190,7 @@ summary: ''
 
   .
 
-**11.**[^key-e14b428d4ac744334509f7075cc0443b] In section 64 (complaints procedures)—
+**11.**[^c-e14b428d4ac744334509f7075cc0443b] In section 64 (complaints procedures)—
 
 - (a) in subsection (2)—
   - (i) for “Ministers” substitute “ Public Services Ombudsman ”,
@@ -199,24 +199,24 @@ summary: ''
 
 ## Annotations
 
-[^key-aab3268c0377c514aab3d929ccf56775]: Commencement: Sch. 15 para. 1 in force at 1.8.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-aab3268c0377c514aab3d929ccf56775]: Commencement: Sch. 15 para. 1 in force at 1.8.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
 
-[^key-542edc3e57e4d05c75dd6ce0fea46a8a]: Commencement: Sch. 15 para. 2 in force at 1.8.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-542edc3e57e4d05c75dd6ce0fea46a8a]: Commencement: Sch. 15 para. 2 in force at 1.8.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
 
-[^key-c6e4338cd953dfeeee23e1dcbb95fbcc]: Commencement: Sch. 15 para. 3 in force at 1.8.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-c6e4338cd953dfeeee23e1dcbb95fbcc]: Commencement: Sch. 15 para. 3 in force at 1.8.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
 
-[^key-a6a7ace5016d0ca03eb7fe3fbf8f3b38]: Commencement: Sch. 15 para. 4 in force at 1.8.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-a6a7ace5016d0ca03eb7fe3fbf8f3b38]: Commencement: Sch. 15 para. 4 in force at 1.8.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
 
-[^key-f422ad090aaa6db85ac53050bf1d3c54]: Commencement: Sch. 15 para. 5 in force at 1.8.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-f422ad090aaa6db85ac53050bf1d3c54]: Commencement: Sch. 15 para. 5 in force at 1.8.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
 
-[^key-af780737868076429bb051e010d2863d]: Commencement: Sch. 15 para. 6 in force at 1.8.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-af780737868076429bb051e010d2863d]: Commencement: Sch. 15 para. 6 in force at 1.8.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
 
-[^key-4f244523fd9e23ed8769a4f73aa3e598]: Commencement: Sch. 15 para. 7 in force at 1.8.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-4f244523fd9e23ed8769a4f73aa3e598]: Commencement: Sch. 15 para. 7 in force at 1.8.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
 
-[^key-35ac26614921210ae3baf3dacb725d49]: Commencement: Sch. 15 para. 8 in force at 1.8.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-35ac26614921210ae3baf3dacb725d49]: Commencement: Sch. 15 para. 8 in force at 1.8.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
 
-[^key-a4416811476dac364dbb39c0fb930d2d]: Commencement: Sch. 15 para. 9 in force at 1.8.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-a4416811476dac364dbb39c0fb930d2d]: Commencement: Sch. 15 para. 9 in force at 1.8.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
 
-[^key-c04205766d1ae846fd179dcb297c6628]: Commencement: Sch. 15 para. 10 in force at 1.8.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-c04205766d1ae846fd179dcb297c6628]: Commencement: Sch. 15 para. 10 in force at 1.8.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
 
-[^key-e14b428d4ac744334509f7075cc0443b]: Commencement: Sch. 15 para. 11 in force at 1.8.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-e14b428d4ac744334509f7075cc0443b]: Commencement: Sch. 15 para. 11 in force at 1.8.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)

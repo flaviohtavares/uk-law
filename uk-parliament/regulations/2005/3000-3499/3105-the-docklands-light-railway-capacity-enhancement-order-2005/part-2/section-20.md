@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 20. Protective works to buildings[^key-d9a7a5d03f6aa2c97ef985954d0b4560]
+## 20. Protective works to buildings[^c-d9a7a5d03f6aa2c97ef985954d0b4560]
 
 *Extent: E+W+S*
 
@@ -68,4 +68,4 @@ DLRL shall compensate the owners and occupiers of the building for any loss or d
 
 ## Annotations
 
-[^key-d9a7a5d03f6aa2c97ef985954d0b4560]: Commencement: Art. 20 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)
+[^c-d9a7a5d03f6aa2c97ef985954d0b4560]: Commencement: Art. 20 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)

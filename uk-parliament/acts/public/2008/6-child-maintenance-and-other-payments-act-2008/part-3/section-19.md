@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Transfer of cases to new rules[^key-a754ffcee2a48972e702c533252c50ca][^key-ec2b652a85d68bd8fac1b2cc36849b3f]
+## 19. Transfer of cases to new rules[^c-a754ffcee2a48972e702c533252c50ca][^c-ec2b652a85d68bd8fac1b2cc36849b3f]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ Schedule 5 (which makes provision for, and in connection with, enabling the Comm
 
 ## Annotations
 
-[^key-a754ffcee2a48972e702c533252c50ca]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2008/6/section/19) in force at 9.3.2014 for specified purposes by [S.I. 2014/576](https://www.legislation.gov.uk/uksi/2014/576), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/576/article/2/a)
+[^c-a754ffcee2a48972e702c533252c50ca]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2008/6/section/19) in force at 9.3.2014 for specified purposes by [S.I. 2014/576](https://www.legislation.gov.uk/uksi/2014/576), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/576/article/2/a)
 
-[^key-ec2b652a85d68bd8fac1b2cc36849b3f]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2008/6/section/19) in force at 30.6.2014 in so far as not already in force by [S.I. 2014/1635](https://www.legislation.gov.uk/uksi/2014/1635), [art. 2](https://www.legislation.gov.uk/uksi/2014/1635/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/1635/article/3))
+[^c-ec2b652a85d68bd8fac1b2cc36849b3f]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2008/6/section/19) in force at 30.6.2014 in so far as not already in force by [S.I. 2014/1635](https://www.legislation.gov.uk/uksi/2014/1635), [art. 2](https://www.legislation.gov.uk/uksi/2014/1635/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/1635/article/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 26. Temporary use of land for carrying out the authorised development[^key-f1509ad84c2664919605f7a4dcf61362]
+## 26. Temporary use of land for carrying out the authorised development[^c-f1509ad84c2664919605f7a4dcf61362]
 
 *Extent: E+W+S*
 
@@ -42,7 +42,7 @@ summary: ''
 - (a) replace any building, structure, drain or electric line removed under this article;
 - (b) remove any drainage works installed by the undertaker under this article;
 - (c) remove any new road surface or other improvements carried out under this article to any street specified in Schedule 4 (streets subject to street works); or
-- (d) restore the land on which any works have been carried out under sub-paragraph (1)(e)[^key-486bb028aa7998caca303d34c88253a0] insofar as the works relate to mitigation works identified in the environmental statement or required pursuant to the requirements in Schedule 2 (requirements).
+- (d) restore the land on which any works have been carried out under sub-paragraph (1)(e)[^c-486bb028aa7998caca303d34c88253a0] insofar as the works relate to mitigation works identified in the environmental statement or required pursuant to the requirements in Schedule 2 (requirements).
 
 (6) The undertaker must pay compensation to the owners and occupiers of land which temporary possession is taken under this article for any loss or damage arising from the exercise in relation to the land of the provisions of any power conferred by this article.
 
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f1509ad84c2664919605f7a4dcf61362]: Commencement: Art. 26 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
+[^c-f1509ad84c2664919605f7a4dcf61362]: Commencement: Art. 26 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
 
-[^key-486bb028aa7998caca303d34c88253a0]: Textual amendment: Words in [art. 26(5)(d)](https://www.legislation.gov.uk/uksi/2025/85/article/26/5/d) substituted (14.4.2025) by [The Heckington Fen Solar Park (Correction) Order 2025 (S.I. 2025/482)](https://www.legislation.gov.uk/uksi/2025/482), [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/482/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2025/482/schedule)
+[^c-486bb028aa7998caca303d34c88253a0]: Textual amendment: Words in [art. 26(5)(d)](https://www.legislation.gov.uk/uksi/2025/85/article/26/5/d) substituted (14.4.2025) by [The Heckington Fen Solar Park (Correction) Order 2025 (S.I. 2025/482)](https://www.legislation.gov.uk/uksi/2025/482), [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/482/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2025/482/schedule)

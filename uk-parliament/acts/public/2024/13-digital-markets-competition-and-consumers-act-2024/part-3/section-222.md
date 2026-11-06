@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 222. Other interpretative provisions[^key-734b176661552df60a84b63db418ac12][^key-fc7071eb5833629fface8fefe6e1372d]
+## 222. Other interpretative provisions[^c-734b176661552df60a84b63db418ac12][^c-fc7071eb5833629fface8fefe6e1372d]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,6 +39,6 @@ In this Part—
 
 ## Annotations
 
-[^key-734b176661552df60a84b63db418ac12]: Commencement: S. 222 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-734b176661552df60a84b63db418ac12]: Commencement: S. 222 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-fc7071eb5833629fface8fefe6e1372d]: Commencement: [S. 222](https://www.legislation.gov.uk/ukpga/2024/13/section/222) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)
+[^c-fc7071eb5833629fface8fefe6e1372d]: Commencement: [S. 222](https://www.legislation.gov.uk/ukpga/2024/13/section/222) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)

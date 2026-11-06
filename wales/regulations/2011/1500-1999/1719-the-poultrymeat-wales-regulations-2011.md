@@ -62,7 +62,7 @@ The Welsh Ministers, in whom the powers conferred by sections 6(4), 16(1), 17, 2
 
 (2) These Regulations come into force on 15 August 2011 and apply in relation to Wales.
 
-(3) These Regulations apply to poultrymeat described in point I of Part V of Annex[^key-06550fb820f43d2a995b40bce6216819] VII to Regulation (EU) 2013, excluding poultrymeat described in point I(2) of Part B of Annex[^key-dd96e5e48ea6fc6707a05b63212228bc] XIV to the Single CMO Regulation.
+(3) These Regulations apply to poultrymeat described in point I of Part V of Annex[^c-06550fb820f43d2a995b40bce6216819] VII to Regulation (EU) 2013, excluding poultrymeat described in point I(2) of Part B of Annex[^c-dd96e5e48ea6fc6707a05b63212228bc] XIV to the Single CMO Regulation.
 
 (4) These Regulations do not apply to the direct supply of small quantities of poultrymeat by a producer with an annual production of under 10,000 birds where the meat—
 
@@ -80,15 +80,15 @@ The Welsh Ministers, in whom the powers conferred by sections 6(4), 16(1), 17, 2
 - “**Commission Regulation**” (“***Rheoliad y Comisiwn***”) means Commission Regulation [(EC) No 543/2008](https://www.legislation.gov.uk/eur/2008/543) laying down detailed rules for the application of Council Regulation [(EC) No 1234/2007](https://www.legislation.gov.uk/eur/2007/1234) as regards the marketing standards for poultrymeat, as amended from time to time;
 - “**contravene**” (“***torri***”) includes failure to comply, and “**contravention**” (“***toriad***”) is to be construed accordingly;
 - “**enforcement authority**” (“***awdurdod gorfodi***”) means an authority exercising a function conferred on it by regulation 9;
-- “[^key-06cc3929f9175dd94e8a17b4949ed87c]**assimilated poultrymeat provision**” (“**darpariaeth cig dofednod a gymathwyd**”) means a provision of the Single CMO Regulation or Regulation ([^key-90cbdbe452c47a4e29296e914085afc9]EU) 2013 or the Commission Regulation specified in column 1 of Part 1 or 2 of Schedule 1, as read with any provision mentioned in the corresponding entry in column 2 of Part 1 or 2 of that Schedule;
+- “[^c-06cc3929f9175dd94e8a17b4949ed87c]**assimilated poultrymeat provision**” (“**darpariaeth cig dofednod a gymathwyd**”) means a provision of the Single CMO Regulation or Regulation ([^c-90cbdbe452c47a4e29296e914085afc9]EU) 2013 or the Commission Regulation specified in column 1 of Part 1 or 2 of Schedule 1, as read with any provision mentioned in the corresponding entry in column 2 of Part 1 or 2 of that Schedule;
 - “**officer**” (“***swyddog***”)—
   - (a) in relation to a body corporate, means a director, member of the committee of management, chief executive, manager, secretary or other similar officer of the body; and
   - (b) in relation to an unincorporated body, means any member of its governing body or a chief executive, manager or other similar officer of the body;
-- “poultrymeat” (“[^key-b20cc71005d7e50b445ce3e73e3fdfb2]*cig dofednod*”) has the meaning given by point II(1) of Part V of Annex VII to Regulation (EU) 2013;
+- “poultrymeat” (“[^c-b20cc71005d7e50b445ce3e73e3fdfb2]*cig dofednod*”) has the meaning given by point II(1) of Part V of Annex VII to Regulation (EU) 2013;
 - “**premises**” (“***mangre***”) means any place, including those requiring inspection under Article 12(5)(a) to (d) of the Commission Regulation, and any vehicle, trailer, stall or moveable structure;
-- “Regulation ([^key-bedc10de3f4f515be190ef72f4a9a268]EU) 2013” (“*Rheoliad (EU) 2013*”) means Regulation (EU) No 1308/2013 of the European Parliament and of the Council establishing a common organisation of the markets in agricultural products[^key-5ba0a0c295ea1a676e0b17ea26af1858], as amended from time to time;
+- “Regulation ([^c-bedc10de3f4f515be190ef72f4a9a268]EU) 2013” (“*Rheoliad (EU) 2013*”) means Regulation (EU) No 1308/2013 of the European Parliament and of the Council establishing a common organisation of the markets in agricultural products[^c-5ba0a0c295ea1a676e0b17ea26af1858], as amended from time to time;
 - “**Single CMO Regulation**” (“***y Rheoliad CMO Sengl***”) means Council Regulation [(EC) No 1234/2007](https://www.legislation.gov.uk/eur/2007/1234) establishing a common organisation of agricultural markets and on specific provisions for certain agricultural products (Single CMO Regulation).
-- “[^key-fdf025c771954b031663118cac55af1b]**third country**” (“***trydedd wlad***”) means any country or territory other than—
+- “[^c-fdf025c771954b031663118cac55af1b]**third country**” (“***trydedd wlad***”) means any country or territory other than—
   - (a) the United Kingdom;
   - (b) the Bailiwick of Guernsey;
   - (c) the Bailiwick of Jersey;
@@ -96,7 +96,7 @@ The Welsh Ministers, in whom the powers conferred by sections 6(4), 16(1), 17, 2
 
 (2) In these Regulations, any reference to Part B of Annex XIV to the Single CMO Regulation is a reference to Part B of Annex XIV to the Single CMO Regulation as amended from time to time.
 
-(3) Other expressions used in these Regulations and in the Single CMO Regulation or Regulation ([^key-0dcf2b41c121e413f4bcc18f30e8e872]EU) 2013 or the Commission Regulation have the same meaning in these Regulations as in the European Regulation in which they are used.
+(3) Other expressions used in these Regulations and in the Single CMO Regulation or Regulation ([^c-0dcf2b41c121e413f4bcc18f30e8e872]EU) 2013 or the Commission Regulation have the same meaning in these Regulations as in the European Regulation in which they are used.
 
 ## 3. Offences
 
@@ -175,11 +175,11 @@ On an appeal against a decision by the Welsh Ministers mentioned in regulation 6
 
 ## 9. Enforcement
 
-(1) The Agency must enforce the assimilated[^key-d7b15020a75b1cf16c90faed0f915c2b] poultrymeat provisions at slaughterhouses and cutting plants.
+(1) The Agency must enforce the assimilated[^c-d7b15020a75b1cf16c90faed0f915c2b] poultrymeat provisions at slaughterhouses and cutting plants.
 
 (2) Subject to paragraphs (3) and (4), a food authority must enforce—
 
-- (a) the assimilated[^key-d8332ecf3fd54205e8b7a21472d191bb] poultrymeat provisions in its area (other than at slaughterhouses and cutting plants); and
+- (a) the assimilated[^c-d8332ecf3fd54205e8b7a21472d191bb] poultrymeat provisions in its area (other than at slaughterhouses and cutting plants); and
 - (b) regulation 4.
 
 (3) A port health authority must enforce these Regulations in its district in relation to poultrymeat imported from a third country.
@@ -201,8 +201,8 @@ Each enforcement authority must give such assistance and information to any othe
 
 (2) The authorised officer may be accompanied by—
 
-- (a) such other persons as the authorised officer considers necessary; [^key-ff2f9b32863c22ebc71b123636fb42b6]...
-- (b)[^key-ff2f9b32863c22ebc71b123636fb42b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) such other persons as the authorised officer considers necessary; [^c-ff2f9b32863c22ebc71b123636fb42b6]...
+- (b)[^c-ff2f9b32863c22ebc71b123636fb42b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) An authorised officer must not exercise the powers under paragraph (1) or (2) except on the production, if so required, of a duly authenticated document showing the officer's authority.
 
@@ -275,7 +275,7 @@ Each enforcement authority must give such assistance and information to any othe
 
 (9) O may give such directions as O thinks appropriate in relation to a batch of poultrymeat to which paragraph (10) applies—
 
-- (a) to prevent it being marketed in Great Britain[^key-193e35d57f8dc18854c61dd5125e4207] until the packaging has been marked, under supervision, in the manner mentioned in the first sub-paragraph of Article 16(6) of the Commission Regulation; or
+- (a) to prevent it being marketed in Great Britain[^c-193e35d57f8dc18854c61dd5125e4207] until the packaging has been marked, under supervision, in the manner mentioned in the first sub-paragraph of Article 16(6) of the Commission Regulation; or
 - (b) to ensure that it is exported to a third country.
 
 (10) This paragraph applies to—
@@ -287,9 +287,9 @@ Each enforcement authority must give such assistance and information to any othe
 
 (11) O must not exercise any power under this regulation, or give a direction under this regulation, except on the production, if so required, of a duly authenticated document showing O's authority.
 
-(12)[^key-4ff372641767b5f6c32096b3b4763e49] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(12)[^c-4ff372641767b5f6c32096b3b4763e49] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(13) In this regulation “**live poultry**” (“***dofednod byw***”) has the meaning given to it in Part XX of Annex I to the Regulation ([^key-8f213c61f65b5c37aed11141a4b4fef2]EU) 2013.
+(13) In this regulation “**live poultry**” (“***dofednod byw***”) has the meaning given to it in Part XX of Annex I to the Regulation ([^c-8f213c61f65b5c37aed11141a4b4fef2]EU) 2013.
 
 ## 13. Procedure on seizure
 
@@ -369,7 +369,7 @@ Each enforcement authority must give such assistance and information to any othe
 
 (1) If an authorised officer has reasonable grounds for believing that any person is contravening, or has contravened—
 
-- (a) an assimilated[^key-5c267bd6f5886347e38d0d0d2cf7002d] poultrymeat provision; or
+- (a) an assimilated[^c-5c267bd6f5886347e38d0d0d2cf7002d] poultrymeat provision; or
 - (b) regulation 4,
 
 the authorised officer may, by notice (a “compliance notice”), require a person to take such steps (or steps at least equivalent to them), within such period as the authorised officer may specify, to secure that the contravention does not continue or recur.
@@ -537,18 +537,18 @@ Alun Davies
 
 Deputy Minister for Agriculture, Food, Fisheries and European Programmes, under authority of the Minister for Business, Enterprise, Technology and Science, one of the Welsh Ministers
 
-## SCHEDULE 1 — ASSIMILATED POULTRYMEAT PROVISIONS CONTRAVENTION OF WHICH MAY RESULT IN THE ISSUING OF A COMPLIANCE NOTICE[^key-9383404dd30a4555429486452ec2a56f][^key-d534157a95282e1a19404ed0e4d01c7a]
+## SCHEDULE 1 — ASSIMILATED POULTRYMEAT PROVISIONS CONTRAVENTION OF WHICH MAY RESULT IN THE ISSUING OF A COMPLIANCE NOTICE[^c-9383404dd30a4555429486452ec2a56f][^c-d534157a95282e1a19404ed0e4d01c7a]
 
 Regulation 2(1)
 
-### PART 1 — PROVISIONS OF THE SINGLE CMO REGULATION or Regulation (EU) 2013[^key-cd9fa75dc6d88c40fafca21224296284]
+### PART 1 — PROVISIONS OF THE SINGLE CMO REGULATION or Regulation (EU) 2013[^c-cd9fa75dc6d88c40fafca21224296284]
 
 | *Column 1* | *Column 2* | *Column 3* |
 | --- | --- | --- |
-| Relevant provision of the Single CMO or Regulation ([^key-4b3e60044764581f6bc48440c996f2cf]EU) 2013 | *Provisions to be read with the provisions of the Single CMO Regulation or Regulation ([^key-730c927678edd46e637823f7db65ea8e]EU) 2013 mentioned in column 1* | *Subject matter* |
-| Article 116 of the Single CMO Regulation, insofar as that provision relates to the marketing of poultrymeat[^key-6d8451195205f42aeae53878a5d12ea2] | Part B(I)(2) and (3) and (III)(1) of Annex XIV to the Single CMO Regulation and the Commission Regulation[^key-0a8ffd0f860fbf9f5436a529b8dc9494] | Prohibition on the marketing of poultrymeat except in accordance with the marketing standards laid down in Part B(I)(2) and (3) and ([^key-c23ba57efa7b6593156f161af693f214]III)(I) of Annex XIV to the Single CMO Regulation and Part V of Annex VII to Regulation (EU) 2013 and the Commission Regulation.<br>Quality grading. |
-| Point III(1) of Part B of Annex XIV to the Single CMO Regulation[^key-3f1ab56edf65bfe5dfbd96fe557db830] | Article 7 of the Commission Regulation |  |
-| point[^key-9b5402681f76c4399a9d875f0b95d920] III of Part V of Annex VII to Regulation (EU) 2013 | Regulation 4 of these Regulations and Point II(2) of Part V of Annex[^key-e87d3c6425e45870123f611138f2374f] VII to Regulation (EU) 2013 in relation to fresh poultrymeat<br>Point II(3) of Part V of Annex VII to Regulation (EU) 2013 in relation to frozen poultrymeat<br>Point II(4) of Part V of Annex VII to Regulation (EU) 2013 in relation to quick-frozen poultrymeat<br>Point II(6) of Part V of Annex VII to Regulation (EU) 2013 in relation to fresh poultrymeat preparation | Marketing of poultrymeat and poultrymeat preparations in a fresh, frozen or quick-frozen condition. |
+| Relevant provision of the Single CMO or Regulation ([^c-4b3e60044764581f6bc48440c996f2cf]EU) 2013 | *Provisions to be read with the provisions of the Single CMO Regulation or Regulation ([^c-730c927678edd46e637823f7db65ea8e]EU) 2013 mentioned in column 1* | *Subject matter* |
+| Article 116 of the Single CMO Regulation, insofar as that provision relates to the marketing of poultrymeat[^c-6d8451195205f42aeae53878a5d12ea2] | Part B(I)(2) and (3) and (III)(1) of Annex XIV to the Single CMO Regulation and the Commission Regulation[^c-0a8ffd0f860fbf9f5436a529b8dc9494] | Prohibition on the marketing of poultrymeat except in accordance with the marketing standards laid down in Part B(I)(2) and (3) and ([^c-c23ba57efa7b6593156f161af693f214]III)(I) of Annex XIV to the Single CMO Regulation and Part V of Annex VII to Regulation (EU) 2013 and the Commission Regulation.<br>Quality grading. |
+| Point III(1) of Part B of Annex XIV to the Single CMO Regulation[^c-3f1ab56edf65bfe5dfbd96fe557db830] | Article 7 of the Commission Regulation |  |
+| point[^c-9b5402681f76c4399a9d875f0b95d920] III of Part V of Annex VII to Regulation (EU) 2013 | Regulation 4 of these Regulations and Point II(2) of Part V of Annex[^c-e87d3c6425e45870123f611138f2374f] VII to Regulation (EU) 2013 in relation to fresh poultrymeat<br>Point II(3) of Part V of Annex VII to Regulation (EU) 2013 in relation to frozen poultrymeat<br>Point II(4) of Part V of Annex VII to Regulation (EU) 2013 in relation to quick-frozen poultrymeat<br>Point II(6) of Part V of Annex VII to Regulation (EU) 2013 in relation to fresh poultrymeat preparation | Marketing of poultrymeat and poultrymeat preparations in a fresh, frozen or quick-frozen condition. |
 
 ### PART 2 — PROVISIONS OF THE COMMISSION REGULATION
 
@@ -558,12 +558,12 @@ Regulation 2(1)
 | Article 3(1) | Article 3(2), (3) and (4) of the Commission Regulation | Presentation of poultry carcases. |
 | Article 3(4), first sub-paragraph | Article 3(1) of the Commission Regulation | Composition of giblets where a poultry carcase is presented for marketing with giblets. |
 | Article 3(4), second s ub-paragraph | Article 3(1) of the Commission Regulation | Labelling of a poultry carcase that is presented for marketing with giblets but the giblets do not include one or more of the heart, neck, gizzard or liver. |
-| Article 3(5) | Point[^key-1174e98af26e4686b1605666a6bf3e74] III(1) of Part B of Annex XIV to the Single CMO Regulation and point III of Part V of Annex VII to Regulation (EU) 2013 | Indications to be shown on certain commercial documents. |
+| Article 3(5) | Point[^c-1174e98af26e4686b1605666a6bf3e74] III(1) of Part B of Annex XIV to the Single CMO Regulation and point III of Part V of Annex VII to Regulation (EU) 2013 | Indications to be shown on certain commercial documents. |
 | Article 4(1) | Articles 1 and 3(1) of, and Annex I to, the Commission Regulation | Names under which poultrymeat must be sold. |
 | Article 4(2) | Articles 1(1) and (2) and 11 of the Commission Regulation | Requirement that supplemental terms do not mislead the consumer. |
 | Article 5(1) | Articles 1 and 11 of the Commission Regulation | Restriction on the use of names to prevent confusion with the names in Article 1 of the Commission Regulation (relating to types and presentations of poultrymeat), and the indications provided for in Article 11 of the Commission Regulation (relating to types of farming method, age at slaughter and length of fattening period). |
 | Article 5(2) | Article 5(3), (4) and (6) of the Commission Regulation, as read, in the case of Article 5(4), with Article 5(5) of that Regulation | Additional requirements relating to the labelling, presentation and advertising of poultrymeat intended for the final consumer. |
-| Article 6 | Point[^key-16d1b7889ba17ecb043e36d52f569b55] II(3) of Part V of Annex VII to Regulation (EU) 2013 | Temperature at which frozen poultrymeat must be stored and kept. |
+| Article 6 | Point[^c-16d1b7889ba17ecb043e36d52f569b55] II(3) of Part V of Annex VII to Regulation (EU) 2013 | Temperature at which frozen poultrymeat must be stored and kept. |
 | Article 7(1) | Point III(I) of Part B of Annex XIV to the Single CMO Regulation | Criteria to be applied when grading poultry carcases and cuts into class A or B. |
 | Article 7(2) | Article 7(1) of the Commission Regulation | Additional criteria for grading poultry carcases and cuts as class A. |
 | Article 10 | Annex III to the Commission Regulation | Terms to describe the method by which poultrymeat has been chilled. |
@@ -668,23 +668,23 @@ A regulatory impact assessment of the effect that these Regulations will have on
 
 [^c20967751]: Marginal citation: Paragraph 1A of Schedule 2 was inserted by section 28 of the [Legislative and Regulatory Reform Act 2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51).
 
-[^key-06550fb820f43d2a995b40bce6216819]: Textual amendment: Words in reg. 1(3) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [8(2)(a)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/8/2/a)
+[^c-06550fb820f43d2a995b40bce6216819]: Textual amendment: Words in reg. 1(3) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [8(2)(a)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/8/2/a)
 
-[^key-dd96e5e48ea6fc6707a05b63212228bc]: Textual amendment: Words in reg. 1(3) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [8(2)(b)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/8/2/b)
+[^c-dd96e5e48ea6fc6707a05b63212228bc]: Textual amendment: Words in reg. 1(3) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [8(2)(b)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/8/2/b)
 
-[^key-06cc3929f9175dd94e8a17b4949ed87c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2011/1719/regulation/2/1) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [13(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/13/2)
+[^c-06cc3929f9175dd94e8a17b4949ed87c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2011/1719/regulation/2/1) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [13(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/13/2)
 
-[^key-90cbdbe452c47a4e29296e914085afc9]: Textual amendment: Words in reg. 2(1) inserted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [8(3)(a)(i)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/8/3/a/i)
+[^c-90cbdbe452c47a4e29296e914085afc9]: Textual amendment: Words in reg. 2(1) inserted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [8(3)(a)(i)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/8/3/a/i)
 
-[^key-b20cc71005d7e50b445ce3e73e3fdfb2]: Textual amendment: Words in reg. 2(1) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [8(3)(a)(ii)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/8/3/a/ii)
+[^c-b20cc71005d7e50b445ce3e73e3fdfb2]: Textual amendment: Words in reg. 2(1) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [8(3)(a)(ii)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/8/3/a/ii)
 
-[^key-bedc10de3f4f515be190ef72f4a9a268]: Textual amendment: Words in reg. 2(1) inserted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [8(3)(a)(iii)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/8/3/a/iii)
+[^c-bedc10de3f4f515be190ef72f4a9a268]: Textual amendment: Words in reg. 2(1) inserted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [8(3)(a)(iii)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/8/3/a/iii)
 
-[^key-5ba0a0c295ea1a676e0b17ea26af1858]: Textual amendment: Words in reg. 2(1) substituted (28.3.2019) by [The Rural Affairs, Environment, Fisheries and Food (Miscellaneous Amendments and Revocations) (Wales) Regulations 2019 (S.I. 2019/463)](https://www.legislation.gov.uk/wsi/2019/463), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3), [25](https://www.legislation.gov.uk/wsi/2019/463/regulation/25)
+[^c-5ba0a0c295ea1a676e0b17ea26af1858]: Textual amendment: Words in reg. 2(1) substituted (28.3.2019) by [The Rural Affairs, Environment, Fisheries and Food (Miscellaneous Amendments and Revocations) (Wales) Regulations 2019 (S.I. 2019/463)](https://www.legislation.gov.uk/wsi/2019/463), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3), [25](https://www.legislation.gov.uk/wsi/2019/463/regulation/25)
 
-[^key-fdf025c771954b031663118cac55af1b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2011/1719/regulation/2/1) inserted (31.12.2020) by [The Rural Affairs (Miscellaneous Amendments) (Wales) (EU Exit) (No. 3) Regulations 2019 (S.I. 2019/1376)](https://www.legislation.gov.uk/wsi/2019/1376), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1376/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2019/1376/regulation/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fdf025c771954b031663118cac55af1b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2011/1719/regulation/2/1) inserted (31.12.2020) by [The Rural Affairs (Miscellaneous Amendments) (Wales) (EU Exit) (No. 3) Regulations 2019 (S.I. 2019/1376)](https://www.legislation.gov.uk/wsi/2019/1376), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1376/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2019/1376/regulation/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0dcf2b41c121e413f4bcc18f30e8e872]: Textual amendment: Words in reg. 2(3) inserted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [8(3)(b)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/8/3/b)
+[^c-0dcf2b41c121e413f4bcc18f30e8e872]: Textual amendment: Words in reg. 2(3) inserted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [8(3)(b)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/8/3/b)
 
 [^c20967761]: Marginal citation: This derogates from the provisions of point II(2) of Part B of Annex XIV to the Single CMO Regulation.
 
@@ -692,23 +692,23 @@ A regulatory impact assessment of the effect that these Regulations will have on
 
 [^c20967781]: Marginal citation: OJ No L 31, 1.2.2002 p. 1, last amended by Regulation (EC) No 596/2009 (OJ No L188, 18.7.2009, p. 14).
 
-[^key-d7b15020a75b1cf16c90faed0f915c2b]: Textual amendment: Word in [reg. 9(1)](https://www.legislation.gov.uk/wsi/2011/1719/regulation/9/1) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [13(3)(a)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/13/3/a)
+[^c-d7b15020a75b1cf16c90faed0f915c2b]: Textual amendment: Word in [reg. 9(1)](https://www.legislation.gov.uk/wsi/2011/1719/regulation/9/1) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [13(3)(a)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/13/3/a)
 
-[^key-d8332ecf3fd54205e8b7a21472d191bb]: Textual amendment: Word in [reg. 9(2)(a)](https://www.legislation.gov.uk/wsi/2011/1719/regulation/9/2/a) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [13(3)(b)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/13/3/b)
+[^c-d8332ecf3fd54205e8b7a21472d191bb]: Textual amendment: Word in [reg. 9(2)(a)](https://www.legislation.gov.uk/wsi/2011/1719/regulation/9/2/a) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [13(3)(b)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/13/3/b)
 
 [^c20967791]: Marginal citation: [1984 c. 22](https://www.legislation.gov.uk/ukpga/1984/22).
 
-[^key-ff2f9b32863c22ebc71b123636fb42b6]: Textual amendment: [Reg. 11(2)(b)](https://www.legislation.gov.uk/wsi/2011/1719/regulation/11/2/b) and word omitted (31.12.2020) by virtue of [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [7(4)](https://www.legislation.gov.uk/wsi/2019/732/regulation/7/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ff2f9b32863c22ebc71b123636fb42b6]: Textual amendment: [Reg. 11(2)(b)](https://www.legislation.gov.uk/wsi/2011/1719/regulation/11/2/b) and word omitted (31.12.2020) by virtue of [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [7(4)](https://www.legislation.gov.uk/wsi/2019/732/regulation/7/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-193e35d57f8dc18854c61dd5125e4207]: Textual amendment: Words in reg. 12(9)(a) substituted (31.12.2020) by [S.I. 2019/732](https://www.legislation.gov.uk/uksi/2019/732), [reg. 7(5)(a)](https://www.legislation.gov.uk/uksi/2019/732/regulation/7/5/a) (as substituted by [The Food and Rural Affairs (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1308)](https://www.legislation.gov.uk/uksi/2020/1308), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1308/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2020/1308/regulation/3/4))
+[^c-193e35d57f8dc18854c61dd5125e4207]: Textual amendment: Words in reg. 12(9)(a) substituted (31.12.2020) by [S.I. 2019/732](https://www.legislation.gov.uk/uksi/2019/732), [reg. 7(5)(a)](https://www.legislation.gov.uk/uksi/2019/732/regulation/7/5/a) (as substituted by [The Food and Rural Affairs (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1308)](https://www.legislation.gov.uk/uksi/2020/1308), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1308/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2020/1308/regulation/3/4))
 
-[^key-4ff372641767b5f6c32096b3b4763e49]: Textual amendment: [Reg. 12(12)](https://www.legislation.gov.uk/wsi/2011/1719/regulation/12/12) omitted (31.12.2020) by virtue of [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [7(5)(b)](https://www.legislation.gov.uk/wsi/2019/732/regulation/7/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4ff372641767b5f6c32096b3b4763e49]: Textual amendment: [Reg. 12(12)](https://www.legislation.gov.uk/wsi/2011/1719/regulation/12/12) omitted (31.12.2020) by virtue of [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [7(5)(b)](https://www.legislation.gov.uk/wsi/2019/732/regulation/7/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8f213c61f65b5c37aed11141a4b4fef2]: Textual amendment: Words in reg. 12 substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [8(4)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/8/4)
+[^c-8f213c61f65b5c37aed11141a4b4fef2]: Textual amendment: Words in reg. 12 substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [8(4)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/8/4)
 
 [^c20967801]: Marginal citation: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
 
-[^key-5c267bd6f5886347e38d0d0d2cf7002d]: Textual amendment: Words in [reg. 14(1)(a)](https://www.legislation.gov.uk/wsi/2011/1719/regulation/14/1/a) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [13(4)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/13/4)
+[^c-5c267bd6f5886347e38d0d0d2cf7002d]: Textual amendment: Words in [reg. 14(1)(a)](https://www.legislation.gov.uk/wsi/2011/1719/regulation/14/1/a) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [13(4)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/13/4)
 
 [^c20967811]: Marginal citation: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 
@@ -722,28 +722,28 @@ A regulatory impact assessment of the effect that these Regulations will have on
 
 [^c20967861]: Marginal citation: [S.I. 1990/2486](https://www.legislation.gov.uk/uksi/1990/2486).
 
-[^key-9383404dd30a4555429486452ec2a56f]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/wsi/2011/1719/schedule/1) heading substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [13(5)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/13/5)
+[^c-9383404dd30a4555429486452ec2a56f]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/wsi/2011/1719/schedule/1) heading substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [13(5)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/13/5)
 
-[^key-d534157a95282e1a19404ed0e4d01c7a]: Textual amendment: [Sch. 1 heading](https://www.legislation.gov.uk/wsi/2011/1719/schedule/1) substituted (31.12.2020) by [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [7(7)](https://www.legislation.gov.uk/wsi/2019/732/regulation/7/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d534157a95282e1a19404ed0e4d01c7a]: Textual amendment: [Sch. 1 heading](https://www.legislation.gov.uk/wsi/2011/1719/schedule/1) substituted (31.12.2020) by [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [7(7)](https://www.legislation.gov.uk/wsi/2019/732/regulation/7/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-cd9fa75dc6d88c40fafca21224296284]: Textual amendment: Words in Sch. 1 Pt. 1 heading inserted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [8(5)(a)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/8/5/a)
+[^c-cd9fa75dc6d88c40fafca21224296284]: Textual amendment: Words in Sch. 1 Pt. 1 heading inserted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [8(5)(a)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/8/5/a)
 
-[^key-4b3e60044764581f6bc48440c996f2cf]: Textual amendment: Words in Sch. 1 Pt. 1 table substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [8(5)(b)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/8/5/b)
+[^c-4b3e60044764581f6bc48440c996f2cf]: Textual amendment: Words in Sch. 1 Pt. 1 table substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [8(5)(b)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/8/5/b)
 
-[^key-730c927678edd46e637823f7db65ea8e]: Textual amendment: Words in Sch. 1 Pt. 1 table inserted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [8(5)(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/8/5/c)
+[^c-730c927678edd46e637823f7db65ea8e]: Textual amendment: Words in Sch. 1 Pt. 1 table inserted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [8(5)(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/8/5/c)
 
-[^key-6d8451195205f42aeae53878a5d12ea2]: Textual amendment: Words in Sch. 1 Pt. 1 table substituted (20.11.2019) by [The Rural Affairs and Environment (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/1408)](https://www.legislation.gov.uk/wsi/2019/1408), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1408/regulation/1/2), [4(2)(a)](https://www.legislation.gov.uk/wsi/2019/1408/regulation/4/2/a)
+[^c-6d8451195205f42aeae53878a5d12ea2]: Textual amendment: Words in Sch. 1 Pt. 1 table substituted (20.11.2019) by [The Rural Affairs and Environment (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/1408)](https://www.legislation.gov.uk/wsi/2019/1408), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1408/regulation/1/2), [4(2)(a)](https://www.legislation.gov.uk/wsi/2019/1408/regulation/4/2/a)
 
-[^key-0a8ffd0f860fbf9f5436a529b8dc9494]: Textual amendment: Words in Sch. 1 Pt. 1 table substituted (20.11.2019) by [The Rural Affairs and Environment (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/1408)](https://www.legislation.gov.uk/wsi/2019/1408), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1408/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/wsi/2019/1408/regulation/4/2/b)
+[^c-0a8ffd0f860fbf9f5436a529b8dc9494]: Textual amendment: Words in Sch. 1 Pt. 1 table substituted (20.11.2019) by [The Rural Affairs and Environment (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/1408)](https://www.legislation.gov.uk/wsi/2019/1408), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1408/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/wsi/2019/1408/regulation/4/2/b)
 
-[^key-c23ba57efa7b6593156f161af693f214]: Textual amendment: Words in Sch. 1 Pt. 1 table substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [8(5)(f)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/8/5/f)
+[^c-c23ba57efa7b6593156f161af693f214]: Textual amendment: Words in Sch. 1 Pt. 1 table substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [8(5)(f)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/8/5/f)
 
-[^key-3f1ab56edf65bfe5dfbd96fe557db830]: Textual amendment: Words in Sch. 1 Pt. 1 table inserted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [8(5)(g)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/8/5/g)
+[^c-3f1ab56edf65bfe5dfbd96fe557db830]: Textual amendment: Words in Sch. 1 Pt. 1 table inserted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [8(5)(g)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/8/5/g)
 
-[^key-9b5402681f76c4399a9d875f0b95d920]: Textual amendment: Words in Sch. 1 Pt. 1 table substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [8(5)(h)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/8/5/h)
+[^c-9b5402681f76c4399a9d875f0b95d920]: Textual amendment: Words in Sch. 1 Pt. 1 table substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [8(5)(h)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/8/5/h)
 
-[^key-e87d3c6425e45870123f611138f2374f]: Textual amendment: Words in Sch. 1 Pt. 1 table substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [8(5)(i)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/8/5/i)
+[^c-e87d3c6425e45870123f611138f2374f]: Textual amendment: Words in Sch. 1 Pt. 1 table substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [8(5)(i)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/8/5/i)
 
-[^key-1174e98af26e4686b1605666a6bf3e74]: Textual amendment: Words in Sch. 1 Pt. 2 substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [8(6)(a)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/8/6/a)
+[^c-1174e98af26e4686b1605666a6bf3e74]: Textual amendment: Words in Sch. 1 Pt. 2 substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [8(6)(a)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/8/6/a)
 
-[^key-16d1b7889ba17ecb043e36d52f569b55]: Textual amendment: Words in Sch. 1 Pt. 2 substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [8(6)(b)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/8/6/b)
+[^c-16d1b7889ba17ecb043e36d52f569b55]: Textual amendment: Words in Sch. 1 Pt. 2 substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [8(6)(b)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/8/6/b)

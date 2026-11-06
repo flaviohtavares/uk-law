@@ -38,11 +38,11 @@ Section 343(2).
 
 **2.** In section 56(3) of the [^c13441471]Settled Land Act 1925, for “the Highways Act 1959” substitute (in paragraph (a) and paragraph (b)) “ the Highways Act 1980 ”.
 
-### ...[^key-ad2ee8bb2f38ace30cb85163b9bfb3f5]
+### ...[^c-ad2ee8bb2f38ace30cb85163b9bfb3f5]
 
 *Extent: E+W*
 
-**3.**[^key-ad2ee8bb2f38ace30cb85163b9bfb3f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-ad2ee8bb2f38ace30cb85163b9bfb3f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **4.**[^c13441501] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -236,7 +236,7 @@ Section 343(2).
 
 [^c13441471]: Marginal citation: [1925 c. 18](https://www.legislation.gov.uk/ukpga/1925/18).
 
-[^key-ad2ee8bb2f38ace30cb85163b9bfb3f5]: Textual amendment: [Sch. 24 para. 3 and cross-heading](https://www.legislation.gov.uk/ukpga/1980/66/schedule/24/crossheading/universities-and-college-estates-act-1925) omitted (19.5.2025) by virtue of [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4), [Sch. 1 para. 14(3)](https://www.legislation.gov.uk/ukpga/2022/6/schedule/1/paragraph/14/3); [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 4](https://www.legislation.gov.uk/uksi/2024/265/regulation/4), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2024/265/schedule/2/paragraph/3)
+[^c-ad2ee8bb2f38ace30cb85163b9bfb3f5]: Textual amendment: [Sch. 24 para. 3 and cross-heading](https://www.legislation.gov.uk/ukpga/1980/66/schedule/24/crossheading/universities-and-college-estates-act-1925) omitted (19.5.2025) by virtue of [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4), [Sch. 1 para. 14(3)](https://www.legislation.gov.uk/ukpga/2022/6/schedule/1/paragraph/14/3); [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 4](https://www.legislation.gov.uk/uksi/2024/265/regulation/4), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2024/265/schedule/2/paragraph/3)
 
 [^c13441501]: Textual amendment: [Sch. 24 para. 4](https://www.legislation.gov.uk/ukpga/1980/66/schedule/24/paragraph/4) repealed (1.12.1991) by [Water Consolidation (Consequential Provisions) Act 1991 (c. 60, SIF 130)](https://www.legislation.gov.uk/ukpga/1991/60), [ss. 3](https://www.legislation.gov.uk/ukpga/1991/60/section/3), [4(2)](https://www.legislation.gov.uk/ukpga/1991/60/section/4/2), [Sch. 3 PtI](https://www.legislation.gov.uk/ukpga/1991/60/schedule/3) (with [Sch. 2 paras. 10](https://www.legislation.gov.uk/ukpga/1991/60/schedule/2/paragraph/10), [14(1)](https://www.legislation.gov.uk/ukpga/1991/60/schedule/2/paragraph/14/1), [15](https://www.legislation.gov.uk/ukpga/1991/60/schedule/2/paragraph/15))
 

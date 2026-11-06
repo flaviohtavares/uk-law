@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 34. Provision of bus services etc. by local transport authorities[^key-7793e7a27548ff6c4b3c9d306c940d7a]
+## 34. Provision of bus services etc. by local transport authorities[^c-7793e7a27548ff6c4b3c9d306c940d7a]
 
 *Extent: S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7793e7a27548ff6c4b3c9d306c940d7a]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2019/17/section/34) in force at 24.6.2022 by [S.S.I. 2022/204](https://www.legislation.gov.uk/ssi/2022/204), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2022/204/regulation/2/a)
+[^c-7793e7a27548ff6c4b3c9d306c940d7a]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2019/17/section/34) in force at 24.6.2022 by [S.S.I. 2022/204](https://www.legislation.gov.uk/ssi/2022/204), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2022/204/regulation/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 114. Calculation of capital outside the United Kingdom[^key-e948d51cee431b8a87a40fefcf428840]
+## 114. Calculation of capital outside the United Kingdom[^c-e948d51cee431b8a87a40fefcf428840]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ less, where there would be expenses attributable to sale, 10 per cent. and the a
 
 ## Annotations
 
-[^key-e948d51cee431b8a87a40fefcf428840]: Commencement: [Reg. 114](https://www.legislation.gov.uk/nisr/2008/280/regulation/114) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-e948d51cee431b8a87a40fefcf428840]: Commencement: [Reg. 114](https://www.legislation.gov.uk/nisr/2008/280/regulation/114) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)

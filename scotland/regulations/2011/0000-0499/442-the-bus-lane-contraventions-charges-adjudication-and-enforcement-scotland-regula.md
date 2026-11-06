@@ -48,18 +48,18 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 ## PART I — PRELIMINARY
 
-### 1. Citation and commencement[^key-13b1f46ee02d4abf8fecac8869e76298]
+### 1. Citation and commencement[^c-13b1f46ee02d4abf8fecac8869e76298]
 
 These Regulations may be cited as the Bus Lane Contraventions (Charges, Adjudication and Enforcement) (Scotland) Regulations 2011 and come into force on 6th February 2012.
 
-### 2. Interpretation[^key-2698688d7a7ac7b0a26119c235f791d3]
+### 2. Interpretation[^c-2698688d7a7ac7b0a26119c235f791d3]
 
 (1) In these Regulations—
 
 - “the 1994 Act” means the Vehicle Excise and Registration Act 1994[^f00002];
 - “the 2001 Act” means the Transport (Scotland) Act 2001;
 - “the 28 day period”, in relation to a charge notice, means the period of 28 days beginning with the date of service of the notice;
-- [^key-c0c831361da9439b5a0015381cccdc0c]...
+- [^c-c0c831361da9439b5a0015381cccdc0c]...
 - “appeal” means an appeal against the imposition of a charge;
 - “appeal period” means the period of 28 days specified in regulation 12(4);
 - “approved local authority” means an authority which is an approved local authority in terms of section 44(2) of the 2001 Act;
@@ -68,16 +68,16 @@ These Regulations may be cited as the Bus Lane Contraventions (Charges, Adjudica
 - “contravention” means a bus lane contravention in terms of section 44(3) of the 2001 Act in which a vehicle is involved;
 - “the detection date” in relation to a contravention, means the date on which, according to a record produced by an approved device, the contravention occurred;
 - “enforcing authority” in relation to a charge means the approved local authority which imposed the charge;
-- “First-tier Tribunal” means the First-tier Tribunal for Scotland and has the meaning given in section 1(1) of the Tribunals (Scotland) Act 2014[^key-7bbbff1480e5bd78ccb98e061b86eb8a];
+- “First-tier Tribunal” means the First-tier Tribunal for Scotland and has the meaning given in section 1(1) of the Tribunals (Scotland) Act 2014[^c-7bbbff1480e5bd78ccb98e061b86eb8a];
 - “notice of rejection” means a notice served under regulation 10(3);
-- [^key-c0c831361da9439b5a0015381cccdc0c]...
+- [^c-c0c831361da9439b5a0015381cccdc0c]...
 - “the recipient”, in relation to a charge notice, means the person on whom the charge notice is served;
-- [^key-c0c831361da9439b5a0015381cccdc0c]...
+- [^c-c0c831361da9439b5a0015381cccdc0c]...
 - “relevant vehicle” means the vehicle involved in the contravention;
 - “statutory grounds of appeal” means the grounds, as specified in regulation 9(2), on which—
   - (a) representations against a charge notice may be made under regulation 9 to an approved authority; or
-  - (b) an appeal may be made to the First-tier Tribunal[^key-5774e5ccb33450936707080f139bbe19] under regulation 12;
-- “Upper Tribunal” has the meaning given in section 1(1) of the Tribunals (Scotland) Act 2014;[^key-ae25d31136ef1a920b7013616d06bebe]
+  - (b) an appeal may be made to the First-tier Tribunal[^c-5774e5ccb33450936707080f139bbe19] under regulation 12;
+- “Upper Tribunal” has the meaning given in section 1(1) of the Tribunals (Scotland) Act 2014;[^c-ae25d31136ef1a920b7013616d06bebe]
 - “vehicle” means motor vehicle; and
 - “working day” means any day which is not a Saturday, a Sunday or a bank holiday in Scotland by virtue of section 1 of the Banking and Financial Dealings Act 1971[^f00003].
 
@@ -85,8 +85,8 @@ These Regulations may be cited as the Bus Lane Contraventions (Charges, Adjudica
 
 - “appellant” means the person making the appeal;
 - “authority” means the approved local authority which made the decision to impose the charge;
-- [^key-cd722784983a128f0c991017667ad1c8]...
-- [^key-cd722784983a128f0c991017667ad1c8]...
+- [^c-cd722784983a128f0c991017667ad1c8]...
+- [^c-cd722784983a128f0c991017667ad1c8]...
 - “notice of appeal” means a notice sent under regulation 12; and
 - “party” means the appellant or the authority.
 
@@ -101,13 +101,13 @@ unless the contrary is shown.
 
 ## PART II — CHARGES FOR BUS LANE CONTRAVENTIONS
 
-### 3. Charges[^key-e5e1efb1884678d94533d0e4d1986f86]
+### 3. Charges[^c-e5e1efb1884678d94533d0e4d1986f86]
 
 (1) Subject to paragraph (2) and regulation 4, an approved local authority may impose a charge in respect of a contravention relating to any road within their area, except a road which is a special road in accordance with section 7 of the Roads (Scotland) Act 1984[^f00004].
 
 (2) A charge may be imposed only on the basis of a record produced by an approved device.
 
-### 4. Level of charges[^key-8c55532b5b23744d5bc22450df6476ba]
+### 4. Level of charges[^c-8c55532b5b23744d5bc22450df6476ba]
 
 (1) An approved local authority must not impose a charge in accordance with these Regulations unless—
 
@@ -126,11 +126,11 @@ unless the contrary is shown.
 
 (4) In the circumstances described in regulation 8(5)(k), an authority may increase a charge to a sum equivalent to one and a half times the rate of charge approved by the Scottish Ministers.
 
-### 5. Liability of registered keeper for charges[^key-3aaa5ebadbffc198f35e215c51b314c7]
+### 5. Liability of registered keeper for charges[^c-3aaa5ebadbffc198f35e215c51b314c7]
 
 A charge is to be paid by the registered keeper of the relevant vehicle unless regulation 6 applies.
 
-### 6. Liability of persons other than the registered keeper for charges[^key-9d0dc47937bbf243849983ae52848e33]
+### 6. Liability of persons other than the registered keeper for charges[^c-9d0dc47937bbf243849983ae52848e33]
 
 (1) A charge is to be paid—
 
@@ -155,7 +155,7 @@ A charge is to be paid by the registered keeper of the relevant vehicle unless r
   - (c) which is not a hire purchase agreement within the meaning of the Consumer Credit Act 1974[^f00006]; and
 - “vehicle trader” has the same meaning as in regulation 20(6) (change of keeper: general provisions) of the Road Vehicle (Registration and Licensing) Regulations 2002[^f00007].
 
-### 7. Circumstances in which a charge need not be paid or is to be refunded[^key-af6e8920e532694bc7293125a9aa2f41]
+### 7. Circumstances in which a charge need not be paid or is to be refunded[^c-af6e8920e532694bc7293125a9aa2f41]
 
 (1) A charge is not payable under these Regulations where—
 
@@ -171,7 +171,7 @@ the approved local authority must, as soon as reasonably practicable after those
 
 ## PART III — NOTIFICATION OF, AND REPRESENTATIONS ABOUT, CHARGES
 
-### 8. Charge notices[^key-9dc3a1b8d34f7a6e253686f29ded0bba]
+### 8. Charge notices[^c-9dc3a1b8d34f7a6e253686f29ded0bba]
 
 (1) Where an approved local authority has reason to believe that a charge is payable under Part II with respect to a vehicle, it may, in accordance with paragraphs (2) and (5), serve a notice (“charge notice”) on the registered keeper or on the person appearing to it to be the person liable to pay the charge.
 
@@ -204,12 +204,12 @@ the authority will continue to be entitled to serve a charge notice for a furthe
 
   the authority may increase the charge by 50 per cent and take steps to enforce payment of the charge as so increased;
 - (l) the manner in which the charge may be paid;
-- (m) that if the representations are rejected an appeal may be made on any of the statutory grounds of appeal to the First-tier Tribunal[^key-a6b8296d2630cdf2293a1a5b9ed8489b] in respect of a charge; and
+- (m) that if the representations are rejected an appeal may be made on any of the statutory grounds of appeal to the First-tier Tribunal[^c-a6b8296d2630cdf2293a1a5b9ed8489b] in respect of a charge; and
 - (n) that the recipient may, by notice in writing to the authority, request it to provide the recipient, free of charge, with a copy of the record of contravention produced by the approved device pursuant to which the charge was imposed or with such still images from that record as, in the authority’s opinion, establish the contravention.
 
 (6) Where the recipient makes a request under paragraph (5)(n), the authority must comply with the request within a reasonable time.
 
-### 9. Representations in respect of charges[^key-3520aa8f9a146dd3d8ed448ec8e46b43]
+### 9. Representations in respect of charges[^c-3520aa8f9a146dd3d8ed448ec8e46b43]
 
 (1) The recipient may make written representations on any of the statutory grounds of appeal to the approved local authority against the imposition of the charge; but the authority may disregard any such representations which are received by them after the end of the 28 day period.
 
@@ -232,7 +232,7 @@ the authority will continue to be entitled to serve a charge notice for a furthe
 
 (4) Where the ground mentioned in paragraph (2)(d)(iii) is relied on in any representations made under paragraph (1), those representations must include a statement of the name and address of the person to whom the vehicle was disposed of by the recipient (if that information is in the recipient’s possession).
 
-### 10. Response to representations[^key-90611fa4a243591bfceb9299a9ebf955]
+### 10. Response to representations[^c-90611fa4a243591bfceb9299a9ebf955]
 
 (1) Where representations are made to an authority under regulation 9 within the 28 day period, it is the duty of the authority—
 
@@ -249,14 +249,14 @@ the authority will continue to be entitled to serve a charge notice for a furthe
 (4) A notice of rejection must—
 
 - (a) state the reasons for the authority’s decision;
-- (b) state that an appeal against the imposition of the charge may be made to the First-tier Tribunal[^key-148ba7be5d7c39826318a9f933f5b801] within the appeal period;
+- (b) state that an appeal against the imposition of the charge may be made to the First-tier Tribunal[^c-148ba7be5d7c39826318a9f933f5b801] within the appeal period;
 - (c) specify the statutory grounds of appeal;
 - (d) describe in general terms the procedure for making an appeal;
-- (e) state that the First-tier Tribunal[^key-a86edfbb125edc4eca2c6888f2aee613] has power to make an award of expenses;
+- (e) state that the First-tier Tribunal[^c-a86edfbb125edc4eca2c6888f2aee613] has power to make an award of expenses;
 - (f) indicate the circumstances in which the power may be exercised; and
 - (g) state that unless, before the end of the appeal period—
   - (i) the charge is paid; or
-  - (ii) an appeal is made to the First-tier Tribunal[^key-110bb91c01760a0775d08c1f856047c8] against the imposition of the charge,
+  - (ii) an appeal is made to the First-tier Tribunal[^c-110bb91c01760a0775d08c1f856047c8] against the imposition of the charge,
 
   the authority may increase the charge by 50 per cent and take steps to enforce payment.
 
@@ -269,9 +269,9 @@ the authority will continue to be entitled to serve a charge notice for a furthe
   - (i) in sub-paragraph (a), for “the detection date”, there were substituted “the date on which the charge notice is cancelled”; and
   - (ii) in sub-paragraph (b), the reference to paragraph (2) were a reference to that paragraph as modified by sub-paragraph (a) of this paragraph.
 
-## PART IV — APPROVED LOCAL AUTHORITY COSTS[^key-c6129cc967954fbdaeda3a77b52cb885][^key-56eb0a17f1b0deeb801536c457437af5]
+## PART IV — APPROVED LOCAL AUTHORITY COSTS[^c-c6129cc967954fbdaeda3a77b52cb885][^c-56eb0a17f1b0deeb801536c457437af5]
 
-### 11. Costs to be met by Approved Local Authority[^key-e665d0c8c6c608e6d8a2751f35c48762]
+### 11. Costs to be met by Approved Local Authority[^c-e665d0c8c6c608e6d8a2751f35c48762]
 
 Where an approved local authority has resolved to impose charges under regulation 3(1) the approved local authority must meet the costs incurred by the Scottish Courts and Tribunals Service—
 
@@ -280,96 +280,96 @@ Where an approved local authority has resolved to impose charges under regulatio
 
 required for the operation of the First-tier Tribunal exercising the functions set out in Part 4 and Part 5 of these Regulations.
 
-## PART V — APPEALS AGAINST CHARGES[^key-c6129cc967954fbdaeda3a77b52cb885]
+## PART V — APPEALS AGAINST CHARGES[^c-c6129cc967954fbdaeda3a77b52cb885]
 
-### 12. Making an appeal[^key-a157c43c01122d96d4027eb12a747a5a]
+### 12. Making an appeal[^c-a157c43c01122d96d4027eb12a747a5a]
 
-(1) A person on whom a charge notice has been served may, on any of the statutory grounds of appeal, appeal to the First-tier Tribunal[^key-69375a28889d9f3bec339680e820fab1] against the imposition of the charge if—
+(1) A person on whom a charge notice has been served may, on any of the statutory grounds of appeal, appeal to the First-tier Tribunal[^c-69375a28889d9f3bec339680e820fab1] against the imposition of the charge if—
 
 - (a) that person has made representations to the authority under regulation 9; and
 - (b) that person has received from the authority a notice of rejection.
 
-(2) An appeal is to be made by a notice of appeal sent in writing to the First-tier Tribunal[^key-2be43bb95d5455475d112f9715319013].
+(2) An appeal is to be made by a notice of appeal sent in writing to the First-tier Tribunal[^c-2be43bb95d5455475d112f9715319013].
 
-(3)[^key-ff26d9b33b638ea6276a0437dc55b4a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-ff26d9b33b638ea6276a0437dc55b4a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-ff26d9b33b638ea6276a0437dc55b4a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-ff26d9b33b638ea6276a0437dc55b4a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-ff26d9b33b638ea6276a0437dc55b4a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-ff26d9b33b638ea6276a0437dc55b4a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-ff26d9b33b638ea6276a0437dc55b4a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-ff26d9b33b638ea6276a0437dc55b4a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Action on receipt of notice of appeal[^key-507a854968438561c7072e414fbcc707]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 14. Further representations[^key-507a854968438561c7072e414fbcc707]
+### 13. Action on receipt of notice of appeal[^c-507a854968438561c7072e414fbcc707]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Disposing of an appeal without a hearing[^key-507a854968438561c7072e414fbcc707]
+### 14. Further representations[^c-507a854968438561c7072e414fbcc707]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Notice of time and place of hearing[^key-507a854968438561c7072e414fbcc707]
+### 15. Disposing of an appeal without a hearing[^c-507a854968438561c7072e414fbcc707]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Power to require attendance and production of documents[^key-507a854968438561c7072e414fbcc707]
+### 16. Notice of time and place of hearing[^c-507a854968438561c7072e414fbcc707]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Procedure at a hearing[^key-507a854968438561c7072e414fbcc707]
+### 17. Power to require attendance and production of documents[^c-507a854968438561c7072e414fbcc707]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Evidence by production of record[^key-507a854968438561c7072e414fbcc707]
+### 18. Procedure at a hearing[^c-507a854968438561c7072e414fbcc707]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 20. Decisions on appeals[^key-507a854968438561c7072e414fbcc707]
+### 19. Evidence by production of record[^c-507a854968438561c7072e414fbcc707]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21. Review of adjudicator’s or proper officer’s decision[^key-507a854968438561c7072e414fbcc707]
+### 20. Decisions on appeals[^c-507a854968438561c7072e414fbcc707]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 22. Expenses[^key-507a854968438561c7072e414fbcc707]
+### 21. Review of adjudicator’s or proper officer’s decision[^c-507a854968438561c7072e414fbcc707]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 23. Recovery of amount payable under regulation 22[^key-507a854968438561c7072e414fbcc707]
+### 22. Expenses[^c-507a854968438561c7072e414fbcc707]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 24. Conjoining of appeals[^key-507a854968438561c7072e414fbcc707]
+### 23. Recovery of amount payable under regulation 22[^c-507a854968438561c7072e414fbcc707]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 25. Miscellaneous powers of the adjudicator[^key-507a854968438561c7072e414fbcc707]
+### 24. Conjoining of appeals[^c-507a854968438561c7072e414fbcc707]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 26. Correction of clerical mistakes and errors[^key-507a854968438561c7072e414fbcc707]
+### 25. Miscellaneous powers of the adjudicator[^c-507a854968438561c7072e414fbcc707]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 27. Service of documents on the parties[^key-507a854968438561c7072e414fbcc707]
+### 26. Correction of clerical mistakes and errors[^c-507a854968438561c7072e414fbcc707]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 28. Delivery of notices or documents to the proper officer[^key-507a854968438561c7072e414fbcc707]
+### 27. Service of documents on the parties[^c-507a854968438561c7072e414fbcc707]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 29. The register[^key-507a854968438561c7072e414fbcc707]
+### 28. Delivery of notices or documents to the proper officer[^c-507a854968438561c7072e414fbcc707]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 29. The register[^c-507a854968438561c7072e414fbcc707]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART VI — ENFORCEMENT OF CHARGES
 
-### 30. Charge certificates[^key-5ee161d3218606a2e265c2ce6283a811]
+### 30. Charge certificates[^c-5ee161d3218606a2e265c2ce6283a811]
 
 (1) Where—
 
@@ -379,11 +379,11 @@ required for the operation of the First-tier Tribunal exercising the functions s
 (2) The “relevant period” for the purposes of paragraph (1) means—
 
 - (a) where a notice of rejection is served but no appeal is made, the period of 28 days beginning with the date of service of the notice of rejection;
-- (b) where there has been an unsuccessful appeal against the imposition of the charge, the period of 28 days beginning with the date on which the decision by the First-tier Tribunal or the Upper Tribunal is sent to the appellant;[^key-0d099dbf234d8e20c98d4108084340c2]
+- (b) where there has been an unsuccessful appeal against the imposition of the charge, the period of 28 days beginning with the date on which the decision by the First-tier Tribunal or the Upper Tribunal is sent to the appellant;[^c-0d099dbf234d8e20c98d4108084340c2]
 - (c) where an appeal is withdrawn, the period of 14 days beginning with the date on which it is withdrawn; and
 - (d) where no representations are made, the period of 28 days beginning with the date on which the charge notice is served.
 
-### 31. Enforcement of charges[^key-a2d442043356fad9442e071d1fe8fe04]
+### 31. Enforcement of charges[^c-a2d442043356fad9442e071d1fe8fe04]
 
 Where, in relation to a charge notice—
 
@@ -394,7 +394,7 @@ the authority concerned may recover the charge as if it were payable under an ex
 
 ## PART VII — FINANCIAL PROVISIONS
 
-### 32. Accounts and application of sums paid by way of charges[^key-17be2ea21beb20c68469177914b636ac]
+### 32. Accounts and application of sums paid by way of charges[^c-17be2ea21beb20c68469177914b636ac]
 
 (1) Each approved local authority which has resolved to impose charges under regulation 3(1) must—
 
@@ -451,33 +451,33 @@ No Business Regulatory Impact Assessment has been undertaken since the Regulatio
 
 [^f00001]: Footnote: [2001 asp 2](https://www.legislation.gov.uk/asp/2001/2).
 
-[^key-13b1f46ee02d4abf8fecac8869e76298]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2011/442/regulation/1) in force at 6.2.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/442/regulation/1)
+[^c-13b1f46ee02d4abf8fecac8869e76298]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2011/442/regulation/1) in force at 6.2.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/442/regulation/1)
 
-[^key-2698688d7a7ac7b0a26119c235f791d3]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2011/442/regulation/2) in force at 6.2.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/442/regulation/1)
+[^c-2698688d7a7ac7b0a26119c235f791d3]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2011/442/regulation/2) in force at 6.2.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/442/regulation/1)
 
 [^f00002]: Footnote: [1994 c.22](https://www.legislation.gov.uk/ukpga/1994/22).
 
-[^key-c0c831361da9439b5a0015381cccdc0c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2011/442/regulation/2/1) omitted (1.4.2020) by virtue of [The First-tier Tribunal for Scotland (Transfer of Functions of Bus Lane Adjudicators) Regulations 2020 (S.S.I. 2020/96)](https://www.legislation.gov.uk/ssi/2020/96), [reg. 1](https://www.legislation.gov.uk/ssi/2020/96/regulation/1), [sch. 2 para. 1(2)(a)(i)](https://www.legislation.gov.uk/ssi/2020/96/schedule/2/paragraph/1/2/a/i) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/96/schedule/1))
+[^c-c0c831361da9439b5a0015381cccdc0c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2011/442/regulation/2/1) omitted (1.4.2020) by virtue of [The First-tier Tribunal for Scotland (Transfer of Functions of Bus Lane Adjudicators) Regulations 2020 (S.S.I. 2020/96)](https://www.legislation.gov.uk/ssi/2020/96), [reg. 1](https://www.legislation.gov.uk/ssi/2020/96/regulation/1), [sch. 2 para. 1(2)(a)(i)](https://www.legislation.gov.uk/ssi/2020/96/schedule/2/paragraph/1/2/a/i) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/96/schedule/1))
 
-[^key-7bbbff1480e5bd78ccb98e061b86eb8a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2011/442/regulation/2/1) inserted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Bus Lane Adjudicators) Regulations 2020 (S.S.I. 2020/96)](https://www.legislation.gov.uk/ssi/2020/96), [reg. 1](https://www.legislation.gov.uk/ssi/2020/96/regulation/1), [sch. 2 para. 1(2)(a)(iii)](https://www.legislation.gov.uk/ssi/2020/96/schedule/2/paragraph/1/2/a/iii) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/96/schedule/1))
+[^c-7bbbff1480e5bd78ccb98e061b86eb8a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2011/442/regulation/2/1) inserted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Bus Lane Adjudicators) Regulations 2020 (S.S.I. 2020/96)](https://www.legislation.gov.uk/ssi/2020/96), [reg. 1](https://www.legislation.gov.uk/ssi/2020/96/regulation/1), [sch. 2 para. 1(2)(a)(iii)](https://www.legislation.gov.uk/ssi/2020/96/schedule/2/paragraph/1/2/a/iii) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/96/schedule/1))
 
-[^key-5774e5ccb33450936707080f139bbe19]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2011/442/regulation/2/1) substituted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Bus Lane Adjudicators) Regulations 2020 (S.S.I. 2020/96)](https://www.legislation.gov.uk/ssi/2020/96), [reg. 1](https://www.legislation.gov.uk/ssi/2020/96/regulation/1), [sch. 2 para. 1(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2020/96/schedule/2/paragraph/1/2/a/ii) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/96/schedule/1))
+[^c-5774e5ccb33450936707080f139bbe19]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2011/442/regulation/2/1) substituted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Bus Lane Adjudicators) Regulations 2020 (S.S.I. 2020/96)](https://www.legislation.gov.uk/ssi/2020/96), [reg. 1](https://www.legislation.gov.uk/ssi/2020/96/regulation/1), [sch. 2 para. 1(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2020/96/schedule/2/paragraph/1/2/a/ii) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/96/schedule/1))
 
-[^key-ae25d31136ef1a920b7013616d06bebe]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2011/442/regulation/2/1) inserted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Bus Lane Adjudicators) Regulations 2020 (S.S.I. 2020/96)](https://www.legislation.gov.uk/ssi/2020/96), [reg. 1](https://www.legislation.gov.uk/ssi/2020/96/regulation/1), [sch. 2 para. 1(2)(a)(iv)](https://www.legislation.gov.uk/ssi/2020/96/schedule/2/paragraph/1/2/a/iv) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/96/schedule/1))
+[^c-ae25d31136ef1a920b7013616d06bebe]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2011/442/regulation/2/1) inserted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Bus Lane Adjudicators) Regulations 2020 (S.S.I. 2020/96)](https://www.legislation.gov.uk/ssi/2020/96), [reg. 1](https://www.legislation.gov.uk/ssi/2020/96/regulation/1), [sch. 2 para. 1(2)(a)(iv)](https://www.legislation.gov.uk/ssi/2020/96/schedule/2/paragraph/1/2/a/iv) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/96/schedule/1))
 
 [^f00003]: Footnote: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-cd722784983a128f0c991017667ad1c8]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/ssi/2011/442/regulation/2/2) omitted (1.4.2020) by virtue of [The First-tier Tribunal for Scotland (Transfer of Functions of Bus Lane Adjudicators) Regulations 2020 (S.S.I. 2020/96)](https://www.legislation.gov.uk/ssi/2020/96), [reg. 1](https://www.legislation.gov.uk/ssi/2020/96/regulation/1), [sch. 2 para. 1(2)(b)](https://www.legislation.gov.uk/ssi/2020/96/schedule/2/paragraph/1/2/b) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/96/schedule/1))
+[^c-cd722784983a128f0c991017667ad1c8]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/ssi/2011/442/regulation/2/2) omitted (1.4.2020) by virtue of [The First-tier Tribunal for Scotland (Transfer of Functions of Bus Lane Adjudicators) Regulations 2020 (S.S.I. 2020/96)](https://www.legislation.gov.uk/ssi/2020/96), [reg. 1](https://www.legislation.gov.uk/ssi/2020/96/regulation/1), [sch. 2 para. 1(2)(b)](https://www.legislation.gov.uk/ssi/2020/96/schedule/2/paragraph/1/2/b) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/96/schedule/1))
 
-[^key-e5e1efb1884678d94533d0e4d1986f86]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2011/442/regulation/3) in force at 6.2.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/442/regulation/1)
+[^c-e5e1efb1884678d94533d0e4d1986f86]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2011/442/regulation/3) in force at 6.2.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/442/regulation/1)
 
 [^f00004]: Footnote: [1984 c.54](https://www.legislation.gov.uk/ukpga/1984/54). Section 7 was amended by the [Water Industry (Scotland) Act 2002 (asp 3)](https://www.legislation.gov.uk/asp/2002/3), Schedule 7, paragraph 14 and the [Transport and Works (Scotland) Act 2007 (asp 8)](https://www.legislation.gov.uk/asp/2007/8), Schedule 2, paragraph 2 and Schedule 3.
 
-[^key-8c55532b5b23744d5bc22450df6476ba]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2011/442/regulation/4) in force at 6.2.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/442/regulation/1)
+[^c-8c55532b5b23744d5bc22450df6476ba]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2011/442/regulation/4) in force at 6.2.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/442/regulation/1)
 
-[^key-3aaa5ebadbffc198f35e215c51b314c7]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2011/442/regulation/5) in force at 6.2.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/442/regulation/1)
+[^c-3aaa5ebadbffc198f35e215c51b314c7]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2011/442/regulation/5) in force at 6.2.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/442/regulation/1)
 
-[^key-9d0dc47937bbf243849983ae52848e33]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2011/442/regulation/6) in force at 6.2.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/442/regulation/1)
+[^c-9d0dc47937bbf243849983ae52848e33]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2011/442/regulation/6) in force at 6.2.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/442/regulation/1)
 
 [^f00005]: Footnote: [1988 c.53](https://www.legislation.gov.uk/ukpga/1988/53).
 
@@ -485,44 +485,44 @@ No Business Regulatory Impact Assessment has been undertaken since the Regulatio
 
 [^f00007]: Footnote: [S.I. 2002/2742](https://www.legislation.gov.uk/uksi/2002/2742), to which there are amendments not relevant to these Regulations.
 
-[^key-af6e8920e532694bc7293125a9aa2f41]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2011/442/regulation/7) in force at 6.2.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/442/regulation/1)
+[^c-af6e8920e532694bc7293125a9aa2f41]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2011/442/regulation/7) in force at 6.2.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/442/regulation/1)
 
 [^f00008]: Footnote: Section 52 was amended by the Access to Justice Act [1999 (c.22)](https://www.legislation.gov.uk/ukpga/1999/22), Schedule 13, paragraph 147, and by the Statute Law (Repeals) Act [2004 (c.14)](https://www.legislation.gov.uk/ukpga/2004/14), Schedule 1, Part 14.
 
-[^key-9dc3a1b8d34f7a6e253686f29ded0bba]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2011/442/regulation/8) in force at 6.2.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/442/regulation/1)
+[^c-9dc3a1b8d34f7a6e253686f29ded0bba]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2011/442/regulation/8) in force at 6.2.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/442/regulation/1)
 
-[^key-a6b8296d2630cdf2293a1a5b9ed8489b]: Textual amendment: Words in [reg. 8(5)(m)](https://www.legislation.gov.uk/ssi/2011/442/regulation/8/5/m) substituted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Bus Lane Adjudicators) Regulations 2020 (S.S.I. 2020/96)](https://www.legislation.gov.uk/ssi/2020/96), [reg. 1](https://www.legislation.gov.uk/ssi/2020/96/regulation/1), [sch. 2 para. 1(3)](https://www.legislation.gov.uk/ssi/2020/96/schedule/2/paragraph/1/3) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/96/schedule/1))
+[^c-a6b8296d2630cdf2293a1a5b9ed8489b]: Textual amendment: Words in [reg. 8(5)(m)](https://www.legislation.gov.uk/ssi/2011/442/regulation/8/5/m) substituted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Bus Lane Adjudicators) Regulations 2020 (S.S.I. 2020/96)](https://www.legislation.gov.uk/ssi/2020/96), [reg. 1](https://www.legislation.gov.uk/ssi/2020/96/regulation/1), [sch. 2 para. 1(3)](https://www.legislation.gov.uk/ssi/2020/96/schedule/2/paragraph/1/3) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/96/schedule/1))
 
-[^key-3520aa8f9a146dd3d8ed448ec8e46b43]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2011/442/regulation/9) in force at 6.2.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/442/regulation/1)
+[^c-3520aa8f9a146dd3d8ed448ec8e46b43]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2011/442/regulation/9) in force at 6.2.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/442/regulation/1)
 
-[^key-90611fa4a243591bfceb9299a9ebf955]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2011/442/regulation/10) in force at 6.2.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/442/regulation/1)
+[^c-90611fa4a243591bfceb9299a9ebf955]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2011/442/regulation/10) in force at 6.2.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/442/regulation/1)
 
-[^key-148ba7be5d7c39826318a9f933f5b801]: Textual amendment: Words in [reg. 10(4)(b)](https://www.legislation.gov.uk/ssi/2011/442/regulation/10/4/b) substituted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Bus Lane Adjudicators) Regulations 2020 (S.S.I. 2020/96)](https://www.legislation.gov.uk/ssi/2020/96), [reg. 1](https://www.legislation.gov.uk/ssi/2020/96/regulation/1), [sch. 2 para. 1(4)](https://www.legislation.gov.uk/ssi/2020/96/schedule/2/paragraph/1/4) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/96/schedule/1))
+[^c-148ba7be5d7c39826318a9f933f5b801]: Textual amendment: Words in [reg. 10(4)(b)](https://www.legislation.gov.uk/ssi/2011/442/regulation/10/4/b) substituted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Bus Lane Adjudicators) Regulations 2020 (S.S.I. 2020/96)](https://www.legislation.gov.uk/ssi/2020/96), [reg. 1](https://www.legislation.gov.uk/ssi/2020/96/regulation/1), [sch. 2 para. 1(4)](https://www.legislation.gov.uk/ssi/2020/96/schedule/2/paragraph/1/4) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/96/schedule/1))
 
-[^key-a86edfbb125edc4eca2c6888f2aee613]: Textual amendment: Words in [reg. 10(4)(e)](https://www.legislation.gov.uk/ssi/2011/442/regulation/10/4/e) substituted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Bus Lane Adjudicators) Regulations 2020 (S.S.I. 2020/96)](https://www.legislation.gov.uk/ssi/2020/96), [reg. 1](https://www.legislation.gov.uk/ssi/2020/96/regulation/1), [sch. 2 para. 1(4)](https://www.legislation.gov.uk/ssi/2020/96/schedule/2/paragraph/1/4) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/96/schedule/1))
+[^c-a86edfbb125edc4eca2c6888f2aee613]: Textual amendment: Words in [reg. 10(4)(e)](https://www.legislation.gov.uk/ssi/2011/442/regulation/10/4/e) substituted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Bus Lane Adjudicators) Regulations 2020 (S.S.I. 2020/96)](https://www.legislation.gov.uk/ssi/2020/96), [reg. 1](https://www.legislation.gov.uk/ssi/2020/96/regulation/1), [sch. 2 para. 1(4)](https://www.legislation.gov.uk/ssi/2020/96/schedule/2/paragraph/1/4) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/96/schedule/1))
 
-[^key-110bb91c01760a0775d08c1f856047c8]: Textual amendment: Words in [reg. 10(4)(g)](https://www.legislation.gov.uk/ssi/2011/442/regulation/10/4/g) substituted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Bus Lane Adjudicators) Regulations 2020 (S.S.I. 2020/96)](https://www.legislation.gov.uk/ssi/2020/96), [reg. 1](https://www.legislation.gov.uk/ssi/2020/96/regulation/1), [sch. 2 para. 1(4)](https://www.legislation.gov.uk/ssi/2020/96/schedule/2/paragraph/1/4) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/96/schedule/1))
+[^c-110bb91c01760a0775d08c1f856047c8]: Textual amendment: Words in [reg. 10(4)(g)](https://www.legislation.gov.uk/ssi/2011/442/regulation/10/4/g) substituted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Bus Lane Adjudicators) Regulations 2020 (S.S.I. 2020/96)](https://www.legislation.gov.uk/ssi/2020/96), [reg. 1](https://www.legislation.gov.uk/ssi/2020/96/regulation/1), [sch. 2 para. 1(4)](https://www.legislation.gov.uk/ssi/2020/96/schedule/2/paragraph/1/4) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/96/schedule/1))
 
-[^key-c6129cc967954fbdaeda3a77b52cb885]: Modification: [Pts. IV](https://www.legislation.gov.uk/ssi/2011/442/part/IV), [V](https://www.legislation.gov.uk/ssi/2011/442/part/V): transfer of functions (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Bus Lane Adjudicators) Regulations 2020 (S.S.I. 2020/96)](https://www.legislation.gov.uk/ssi/2020/96), [regs. 1](https://www.legislation.gov.uk/ssi/2020/96/regulation/1), [4](https://www.legislation.gov.uk/ssi/2020/96/regulation/4) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/96/schedule/1))
+[^c-c6129cc967954fbdaeda3a77b52cb885]: Modification: [Pts. IV](https://www.legislation.gov.uk/ssi/2011/442/part/IV), [V](https://www.legislation.gov.uk/ssi/2011/442/part/V): transfer of functions (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Bus Lane Adjudicators) Regulations 2020 (S.S.I. 2020/96)](https://www.legislation.gov.uk/ssi/2020/96), [regs. 1](https://www.legislation.gov.uk/ssi/2020/96/regulation/1), [4](https://www.legislation.gov.uk/ssi/2020/96/regulation/4) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/96/schedule/1))
 
-[^key-56eb0a17f1b0deeb801536c457437af5]: Textual amendment: [Pt. IV](https://www.legislation.gov.uk/ssi/2011/442/part/IV) Title substituted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Bus Lane Adjudicators) Regulations 2020 (S.S.I. 2020/96)](https://www.legislation.gov.uk/ssi/2020/96), [reg. 1](https://www.legislation.gov.uk/ssi/2020/96/regulation/1), [sch. 2 para. 1(5)](https://www.legislation.gov.uk/ssi/2020/96/schedule/2/paragraph/1/5) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/96/schedule/1))
+[^c-56eb0a17f1b0deeb801536c457437af5]: Textual amendment: [Pt. IV](https://www.legislation.gov.uk/ssi/2011/442/part/IV) Title substituted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Bus Lane Adjudicators) Regulations 2020 (S.S.I. 2020/96)](https://www.legislation.gov.uk/ssi/2020/96), [reg. 1](https://www.legislation.gov.uk/ssi/2020/96/regulation/1), [sch. 2 para. 1(5)](https://www.legislation.gov.uk/ssi/2020/96/schedule/2/paragraph/1/5) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/96/schedule/1))
 
-[^key-e665d0c8c6c608e6d8a2751f35c48762]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/ssi/2011/442/regulation/11) substituted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Bus Lane Adjudicators) Regulations 2020 (S.S.I. 2020/96)](https://www.legislation.gov.uk/ssi/2020/96), [reg. 1](https://www.legislation.gov.uk/ssi/2020/96/regulation/1), [sch. 2 para. 1(6)](https://www.legislation.gov.uk/ssi/2020/96/schedule/2/paragraph/1/6) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/96/schedule/1))
+[^c-e665d0c8c6c608e6d8a2751f35c48762]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/ssi/2011/442/regulation/11) substituted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Bus Lane Adjudicators) Regulations 2020 (S.S.I. 2020/96)](https://www.legislation.gov.uk/ssi/2020/96), [reg. 1](https://www.legislation.gov.uk/ssi/2020/96/regulation/1), [sch. 2 para. 1(6)](https://www.legislation.gov.uk/ssi/2020/96/schedule/2/paragraph/1/6) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/96/schedule/1))
 
-[^key-a157c43c01122d96d4027eb12a747a5a]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2011/442/regulation/12) in force at 6.2.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/442/regulation/1)
+[^c-a157c43c01122d96d4027eb12a747a5a]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2011/442/regulation/12) in force at 6.2.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/442/regulation/1)
 
-[^key-69375a28889d9f3bec339680e820fab1]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/ssi/2011/442/regulation/12/1) substituted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Bus Lane Adjudicators) Regulations 2020 (S.S.I. 2020/96)](https://www.legislation.gov.uk/ssi/2020/96), [reg. 1](https://www.legislation.gov.uk/ssi/2020/96/regulation/1), [sch. 2 para. 1(7)(a)](https://www.legislation.gov.uk/ssi/2020/96/schedule/2/paragraph/1/7/a) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/96/schedule/1))
+[^c-69375a28889d9f3bec339680e820fab1]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/ssi/2011/442/regulation/12/1) substituted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Bus Lane Adjudicators) Regulations 2020 (S.S.I. 2020/96)](https://www.legislation.gov.uk/ssi/2020/96), [reg. 1](https://www.legislation.gov.uk/ssi/2020/96/regulation/1), [sch. 2 para. 1(7)(a)](https://www.legislation.gov.uk/ssi/2020/96/schedule/2/paragraph/1/7/a) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/96/schedule/1))
 
-[^key-2be43bb95d5455475d112f9715319013]: Textual amendment: Words in [reg. 12(2)](https://www.legislation.gov.uk/ssi/2011/442/regulation/12/2) substituted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Bus Lane Adjudicators) Regulations 2020 (S.S.I. 2020/96)](https://www.legislation.gov.uk/ssi/2020/96), [reg. 1](https://www.legislation.gov.uk/ssi/2020/96/regulation/1), [sch. 2 para. 1(7)(b)](https://www.legislation.gov.uk/ssi/2020/96/schedule/2/paragraph/1/7/b) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/96/schedule/1))
+[^c-2be43bb95d5455475d112f9715319013]: Textual amendment: Words in [reg. 12(2)](https://www.legislation.gov.uk/ssi/2011/442/regulation/12/2) substituted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Bus Lane Adjudicators) Regulations 2020 (S.S.I. 2020/96)](https://www.legislation.gov.uk/ssi/2020/96), [reg. 1](https://www.legislation.gov.uk/ssi/2020/96/regulation/1), [sch. 2 para. 1(7)(b)](https://www.legislation.gov.uk/ssi/2020/96/schedule/2/paragraph/1/7/b) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/96/schedule/1))
 
-[^key-ff26d9b33b638ea6276a0437dc55b4a8]: Textual amendment: [Reg. 12(3)-(6)](https://www.legislation.gov.uk/ssi/2011/442/regulation/12/3) omitted (1.4.2020) by virtue of [The First-tier Tribunal for Scotland (Transfer of Functions of Bus Lane Adjudicators) Regulations 2020 (S.S.I. 2020/96)](https://www.legislation.gov.uk/ssi/2020/96), [reg. 1](https://www.legislation.gov.uk/ssi/2020/96/regulation/1), [sch. 2 para. 1(7)(c)](https://www.legislation.gov.uk/ssi/2020/96/schedule/2/paragraph/1/7/c) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/96/schedule/1))
+[^c-ff26d9b33b638ea6276a0437dc55b4a8]: Textual amendment: [Reg. 12(3)-(6)](https://www.legislation.gov.uk/ssi/2011/442/regulation/12/3) omitted (1.4.2020) by virtue of [The First-tier Tribunal for Scotland (Transfer of Functions of Bus Lane Adjudicators) Regulations 2020 (S.S.I. 2020/96)](https://www.legislation.gov.uk/ssi/2020/96), [reg. 1](https://www.legislation.gov.uk/ssi/2020/96/regulation/1), [sch. 2 para. 1(7)(c)](https://www.legislation.gov.uk/ssi/2020/96/schedule/2/paragraph/1/7/c) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/96/schedule/1))
 
-[^key-507a854968438561c7072e414fbcc707]: Textual amendment: [Regs. 13-29](https://www.legislation.gov.uk/ssi/2011/442/regulation/13) revoked (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Bus Lane Adjudicators) Regulations 2020 (S.S.I. 2020/96)](https://www.legislation.gov.uk/ssi/2020/96), [reg. 1](https://www.legislation.gov.uk/ssi/2020/96/regulation/1), [sch. 2 para. 1(8)](https://www.legislation.gov.uk/ssi/2020/96/schedule/2/paragraph/1/8) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/96/schedule/1))
+[^c-507a854968438561c7072e414fbcc707]: Textual amendment: [Regs. 13-29](https://www.legislation.gov.uk/ssi/2011/442/regulation/13) revoked (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Bus Lane Adjudicators) Regulations 2020 (S.S.I. 2020/96)](https://www.legislation.gov.uk/ssi/2020/96), [reg. 1](https://www.legislation.gov.uk/ssi/2020/96/regulation/1), [sch. 2 para. 1(8)](https://www.legislation.gov.uk/ssi/2020/96/schedule/2/paragraph/1/8) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/96/schedule/1))
 
-[^key-5ee161d3218606a2e265c2ce6283a811]: Commencement: [Reg. 30](https://www.legislation.gov.uk/ssi/2011/442/regulation/30) in force at 6.2.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/442/regulation/1)
+[^c-5ee161d3218606a2e265c2ce6283a811]: Commencement: [Reg. 30](https://www.legislation.gov.uk/ssi/2011/442/regulation/30) in force at 6.2.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/442/regulation/1)
 
-[^key-0d099dbf234d8e20c98d4108084340c2]: Textual amendment: Words in [reg. 30(2)(b)](https://www.legislation.gov.uk/ssi/2011/442/regulation/30/2/b) substituted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Bus Lane Adjudicators) Regulations 2020 (S.S.I. 2020/96)](https://www.legislation.gov.uk/ssi/2020/96), [reg. 1](https://www.legislation.gov.uk/ssi/2020/96/regulation/1), [sch. 2 para. 1(9)](https://www.legislation.gov.uk/ssi/2020/96/schedule/2/paragraph/1/9) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/96/schedule/1))
+[^c-0d099dbf234d8e20c98d4108084340c2]: Textual amendment: Words in [reg. 30(2)(b)](https://www.legislation.gov.uk/ssi/2011/442/regulation/30/2/b) substituted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Bus Lane Adjudicators) Regulations 2020 (S.S.I. 2020/96)](https://www.legislation.gov.uk/ssi/2020/96), [reg. 1](https://www.legislation.gov.uk/ssi/2020/96/regulation/1), [sch. 2 para. 1(9)](https://www.legislation.gov.uk/ssi/2020/96/schedule/2/paragraph/1/9) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/96/schedule/1))
 
-[^key-a2d442043356fad9442e071d1fe8fe04]: Commencement: [Reg. 31](https://www.legislation.gov.uk/ssi/2011/442/regulation/31) in force at 6.2.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/442/regulation/1)
+[^c-a2d442043356fad9442e071d1fe8fe04]: Commencement: [Reg. 31](https://www.legislation.gov.uk/ssi/2011/442/regulation/31) in force at 6.2.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/442/regulation/1)
 
-[^key-17be2ea21beb20c68469177914b636ac]: Commencement: [Reg. 32](https://www.legislation.gov.uk/ssi/2011/442/regulation/32) in force at 6.2.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/442/regulation/1)
+[^c-17be2ea21beb20c68469177914b636ac]: Commencement: [Reg. 32](https://www.legislation.gov.uk/ssi/2011/442/regulation/32) in force at 6.2.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/442/regulation/1)

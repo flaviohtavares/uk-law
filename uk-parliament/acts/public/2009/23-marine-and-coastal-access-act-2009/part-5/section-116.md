@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 116. Marine conservation zones[^c2007869][^key-3a58dd3614b9206e15ef8556bcded614][^key-abb0f2511ea32c491cef7fe18a3d9d06][^key-abb0f2511ea32c491cef7fe18a3d9d06]
+## 116. Marine conservation zones[^c2007869][^c-3a58dd3614b9206e15ef8556bcded614][^c-abb0f2511ea32c491cef7fe18a3d9d06][^c-abb0f2511ea32c491cef7fe18a3d9d06]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,11 +39,11 @@ Section 117 sets out the grounds on which such an order may be made.
 
 (5) For the purposes of this Chapter the appropriate authority is—
 
-- (a) in relation to an area in Wales or the Welsh offshore region[^key-59dcb2009f58b3add205bdcc8adace72], the Welsh Ministers;
+- (a) in relation to an area in Wales or the Welsh offshore region[^c-59dcb2009f58b3add205bdcc8adace72], the Welsh Ministers;
 - (b) in relation to an area in the Scottish offshore region, the Scottish Ministers;
 - (c) in any other case, the Secretary of State.
 
-(5A)[^key-41c8fe1ceb59568611dbaa57bae9b4f1] The Welsh Ministers may not designate an area as an MCZ without the agreement of the Secretary of State if any part of the proposed MCZ lies in the Welsh offshore region.
+(5A)[^c-41c8fe1ceb59568611dbaa57bae9b4f1] The Welsh Ministers may not designate an area as an MCZ without the agreement of the Secretary of State if any part of the proposed MCZ lies in the Welsh offshore region.
 
 (6) The Scottish Ministers may not designate any area as an MCZ without the agreement of the Secretary of State.
 
@@ -57,10 +57,10 @@ Any reference in this Act to an MCZ is, in relation to an MCZ designated by the 
 
 [^c2007869]: Commencement: S. 116 partly in force; s. 116 in force for specified purposes at Royal Assent see s. 324(1)(c); s. 116 in force for further specified purposes at 12.1.2010 see s. 324(2)(b)(i)
 
-[^key-3a58dd3614b9206e15ef8556bcded614]: Commencement: S. 116 in force at 12.12.2014 in so far as not already in force by [S.I. 2014/3088](https://www.legislation.gov.uk/wsi/2014/3088), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/3088/article/2/a)
+[^c-3a58dd3614b9206e15ef8556bcded614]: Commencement: S. 116 in force at 12.12.2014 in so far as not already in force by [S.I. 2014/3088](https://www.legislation.gov.uk/wsi/2014/3088), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/3088/article/2/a)
 
-[^key-abb0f2511ea32c491cef7fe18a3d9d06]: Modification: Pt. 5 Ch. 1 applied (with modifications) by S.I. 1994/2716, reg. 36(3)(4) (as substituted (E.W.) (12.1.2010 for specified purposes, 12.12.2014 in so far as not already in force) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/2/b/i), [Sch. 11 para. 4(1)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/11/paragraph/4/1); [S.I. 2014/3088](https://www.legislation.gov.uk/wsi/2014/3088), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3088/article/2/b))
+[^c-abb0f2511ea32c491cef7fe18a3d9d06]: Modification: Pt. 5 Ch. 1 applied (with modifications) by S.I. 1994/2716, reg. 36(3)(4) (as substituted (E.W.) (12.1.2010 for specified purposes, 12.12.2014 in so far as not already in force) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/2/b/i), [Sch. 11 para. 4(1)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/11/paragraph/4/1); [S.I. 2014/3088](https://www.legislation.gov.uk/wsi/2014/3088), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3088/article/2/b))
 
-[^key-59dcb2009f58b3add205bdcc8adace72]: Textual amendment: Words in s. 116(5)(a) inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 47(2)(a)](https://www.legislation.gov.uk/ukpga/2017/4/section/47/2/a), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/j)
+[^c-59dcb2009f58b3add205bdcc8adace72]: Textual amendment: Words in s. 116(5)(a) inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 47(2)(a)](https://www.legislation.gov.uk/ukpga/2017/4/section/47/2/a), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/j)
 
-[^key-41c8fe1ceb59568611dbaa57bae9b4f1]: Textual amendment: S. 116(5A) inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 47(2)(b)](https://www.legislation.gov.uk/ukpga/2017/4/section/47/2/b), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/j)
+[^c-41c8fe1ceb59568611dbaa57bae9b4f1]: Textual amendment: S. 116(5A) inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 47(2)(b)](https://www.legislation.gov.uk/ukpga/2017/4/section/47/2/b), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/j)

@@ -41,18 +41,18 @@ establishing that Article 30(1) of Directive 2004/17/EC of the European Parliame
 
 (2006/211/EC) (revoked)
 
-[^key-5b4141e3bbb1964eac25559e6f836977]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5b4141e3bbb1964eac25559e6f836977]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-5b4141e3bbb1964eac25559e6f836977] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-5b4141e3bbb1964eac25559e6f836977] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-5b4141e3bbb1964eac25559e6f836977] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-5b4141e3bbb1964eac25559e6f836977] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-5b4141e3bbb1964eac25559e6f836977] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-5b4141e3bbb1964eac25559e6f836977] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5b4141e3bbb1964eac25559e6f836977]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5b4141e3bbb1964eac25559e6f836977]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5b4141e3bbb1964eac25559e6f836977]: Textual amendment: Decision revoked (15.5.2025) by [The Public Procurement (Revocation) Regulations 2025 (S.I. 2025/522)](https://www.legislation.gov.uk/uksi/2025/522), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/522/regulation/1/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2025/522/schedule/part/2)
+[^c-5b4141e3bbb1964eac25559e6f836977]: Textual amendment: Decision revoked (15.5.2025) by [The Public Procurement (Revocation) Regulations 2025 (S.I. 2025/522)](https://www.legislation.gov.uk/uksi/2025/522), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/522/regulation/1/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2025/522/schedule/part/2)

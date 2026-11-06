@@ -31,7 +31,7 @@ summary: ''
 
 PLANT HEALTH, WALES
 
-The Plant Health (Amendment) (Wales) Order 2001 (revoked)[^key-6e87c3ae88988ba34f772be1ba9b2a2d]
+The Plant Health (Amendment) (Wales) Order 2001 (revoked)[^c-6e87c3ae88988ba34f772be1ba9b2a2d]
 
 Made
 
@@ -41,24 +41,24 @@ Coming into force
 
 1st August 2001
 
-[^key-6e87c3ae88988ba34f772be1ba9b2a2d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6e87c3ae88988ba34f772be1ba9b2a2d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-6e87c3ae88988ba34f772be1ba9b2a2d]
+## 1. Title, commencement and application[^c-6e87c3ae88988ba34f772be1ba9b2a2d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Plant Health (Great Britain) Order 1993[^key-6e87c3ae88988ba34f772be1ba9b2a2d]
+## 2. Amendment of the Plant Health (Great Britain) Order 1993[^c-6e87c3ae88988ba34f772be1ba9b2a2d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6e87c3ae88988ba34f772be1ba9b2a2d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6e87c3ae88988ba34f772be1ba9b2a2d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-6e87c3ae88988ba34f772be1ba9b2a2d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6e87c3ae88988ba34f772be1ba9b2a2d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6e87c3ae88988ba34f772be1ba9b2a2d]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2001/2500) revoked (27.6.2006) by [The Plant Health (Wales) Order 2006 (S.I. 2006/1643)](https://www.legislation.gov.uk/wsi/2006/1643), [art. 1(2)](https://www.legislation.gov.uk/wsi/2006/1643/article/1/2), [Sch. 19](https://www.legislation.gov.uk/wsi/2006/1643/schedule/19)
+[^c-6e87c3ae88988ba34f772be1ba9b2a2d]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2001/2500) revoked (27.6.2006) by [The Plant Health (Wales) Order 2006 (S.I. 2006/1643)](https://www.legislation.gov.uk/wsi/2006/1643), [art. 1(2)](https://www.legislation.gov.uk/wsi/2006/1643/article/1/2), [Sch. 19](https://www.legislation.gov.uk/wsi/2006/1643/schedule/19)

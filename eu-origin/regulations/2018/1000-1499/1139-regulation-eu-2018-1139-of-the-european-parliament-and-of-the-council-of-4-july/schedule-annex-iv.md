@@ -170,7 +170,7 @@ Persons responsible for assessing the skill of pilots must:
 
 EXPERIENCE REQUIREMENTS – PILOTS
 
-A person acting as flight crew member, instructor or examiner must acquire and maintain sufficient experience for the functions being exercised, unless regulations made under[^key-78301fd087ae188252ef24340bade644] this Regulation provide for competence to be demonstrated in accordance with point 1.5.
+A person acting as flight crew member, instructor or examiner must acquire and maintain sufficient experience for the functions being exercised, unless regulations made under[^c-78301fd087ae188252ef24340bade644] this Regulation provide for competence to be demonstrated in accordance with point 1.5.
 
 3\.
 
@@ -273,4 +273,4 @@ A training organisation providing pilot or cabin crew training must meet the fol
 
 ## Annotations
 
-[^key-78301fd087ae188252ef24340bade644]: Textual amendment: Words in [Annex 4 para. 2](https://www.legislation.gov.uk/eur/2018/1139/annex/4/paragraph/2) substituted (31.12.2020) by [The Aviation Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/645)](https://www.legislation.gov.uk/uksi/2019/645), [regs. 1](https://www.legislation.gov.uk/uksi/2019/645/regulation/1), [175](https://www.legislation.gov.uk/uksi/2019/645/regulation/175) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2019/645/schedule/3)) (as amended by [S.I. 2019/1098](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1098/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-78301fd087ae188252ef24340bade644]: Textual amendment: Words in [Annex 4 para. 2](https://www.legislation.gov.uk/eur/2018/1139/annex/4/paragraph/2) substituted (31.12.2020) by [The Aviation Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/645)](https://www.legislation.gov.uk/uksi/2019/645), [regs. 1](https://www.legislation.gov.uk/uksi/2019/645/regulation/1), [175](https://www.legislation.gov.uk/uksi/2019/645/regulation/175) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2019/645/schedule/3)) (as amended by [S.I. 2019/1098](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1098/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

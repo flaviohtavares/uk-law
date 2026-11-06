@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 48. Animals and goods exempted from official controls, other official activities and related requirements[^key-0d11e7c7cb1d0da39dda61391590b78d]
+## Article 48. Animals and goods exempted from official controls, other official activities and related requirements[^c-0d11e7c7cb1d0da39dda61391590b78d]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0d11e7c7cb1d0da39dda61391590b78d]: Textual amendment: [Art. 48](https://www.legislation.gov.uk/eur/2017/625/article/48) substituted (10.2.2025) by [The Official Controls (Amendment) Regulations 2025 (S.I. 2025/102)](https://www.legislation.gov.uk/uksi/2025/102), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2025/102/regulation/1/1/b), [10](https://www.legislation.gov.uk/uksi/2025/102/regulation/10)
+[^c-0d11e7c7cb1d0da39dda61391590b78d]: Textual amendment: [Art. 48](https://www.legislation.gov.uk/eur/2017/625/article/48) substituted (10.2.2025) by [The Official Controls (Amendment) Regulations 2025 (S.I. 2025/102)](https://www.legislation.gov.uk/uksi/2025/102), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2025/102/regulation/1/1/b), [10](https://www.legislation.gov.uk/uksi/2025/102/regulation/10)

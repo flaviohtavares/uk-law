@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Annoyance by flying[^key-c24492db0438f69496089fe4fd1e8336][^key-f4680993114807bd6ee036d57be064ac]
+## 35. Annoyance by flying[^c-c24492db0438f69496089fe4fd1e8336][^c-f4680993114807bd6ee036d57be064ac]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,12 +28,12 @@ summary: ''
 
 (2) If a person flies an aircraft in contravention of subsection (1) on the orders of another person who is in command of the aircraft, that other person is for the purposes of this section to be treated as flying the aircraft.
 
-(3) A person guilty of an offence under this section is liable to any punishment mentioned in rows 3 to 14[^key-1f844f07f7e3ce2905f7615cfb56c4b0] of the Table in section 164.
+(3) A person guilty of an offence under this section is liable to any punishment mentioned in rows 3 to 14[^c-1f844f07f7e3ce2905f7615cfb56c4b0] of the Table in section 164.
 
 ## Annotations
 
-[^key-c24492db0438f69496089fe4fd1e8336]: Commencement: S. 35 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-c24492db0438f69496089fe4fd1e8336]: Commencement: S. 35 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-f4680993114807bd6ee036d57be064ac]: Commencement: S. 35 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-f4680993114807bd6ee036d57be064ac]: Commencement: S. 35 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-1f844f07f7e3ce2905f7615cfb56c4b0]: Textual amendment: Word in [s. 35(3)](https://www.legislation.gov.uk/ukpga/2006/52/section/35/3) substituted (1.5.2022 for specified purposes, 1.4.2023 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 6 para. 8(b)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/6/paragraph/8/b); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/f); [S.I. 2023/158](https://www.legislation.gov.uk/uksi/2023/158), [reg. 3](https://www.legislation.gov.uk/uksi/2023/158/regulation/3)
+[^c-1f844f07f7e3ce2905f7615cfb56c4b0]: Textual amendment: Word in [s. 35(3)](https://www.legislation.gov.uk/ukpga/2006/52/section/35/3) substituted (1.5.2022 for specified purposes, 1.4.2023 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 6 para. 8(b)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/6/paragraph/8/b); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/f); [S.I. 2023/158](https://www.legislation.gov.uk/uksi/2023/158), [reg. 3](https://www.legislation.gov.uk/uksi/2023/158/regulation/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Transfers of personal data to third countries and international organisations[^key-706565a74df048b12c39eb42dda49cf6][^key-4d7559fe70f67da1c82b4e18c8d1c309]
+## 85. Transfers of personal data to third countries and international organisations[^c-706565a74df048b12c39eb42dda49cf6][^c-4d7559fe70f67da1c82b4e18c8d1c309]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-706565a74df048b12c39eb42dda49cf6]: Commencement: S. 85 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-706565a74df048b12c39eb42dda49cf6]: Commencement: S. 85 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
 
-[^key-4d7559fe70f67da1c82b4e18c8d1c309]: Commencement: [S. 85](https://www.legislation.gov.uk/ukpga/2025/18/section/85) in force at 5.2.2026 by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/m)
+[^c-4d7559fe70f67da1c82b4e18c8d1c309]: Commencement: [S. 85](https://www.legislation.gov.uk/ukpga/2025/18/section/85) in force at 5.2.2026 by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/m)

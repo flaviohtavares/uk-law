@@ -42,7 +42,7 @@ and “ **member** ”, in relation to a group scheme, includes any person for o
 
 (6) The rules of an incorporated friendly society may not prevent a person from being a member of the society in his private capacity by reason only of the fact that he has been accorded the rights of a member by virtue of subsection (5) above.
 
-(7) A person who is accorded the rights of a member of a society by virtue of subsection (5) above shall, for the purposes of any power which is conferred on the FCA[^key-27148d9f5cd38a2d74a3bfce0345faab] or the PRA by this Act or the 1992 Act and is exercisable in the interests of members of the society, be treated as if he were a member of the society.
+(7) A person who is accorded the rights of a member of a society by virtue of subsection (5) above shall, for the purposes of any power which is conferred on the FCA[^c-27148d9f5cd38a2d74a3bfce0345faab] or the PRA by this Act or the 1992 Act and is exercisable in the interests of members of the society, be treated as if he were a member of the society.
 
 (8)[^c1073292] The Treasury[^c1073293] may make regulations under section 11(7) of the 1992 Act which apply to group insurance business carried on by registered friendly societies.
 
@@ -54,7 +54,7 @@ and “ **member** ”, in relation to a group scheme, includes any person for o
 
     S. 65A(2) applied (N.I.) (7.2.1994) by [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49) s. 158(4)(c); [S.R. 1994/17](https://www.legislation.gov.uk/nisr/1994/17) art. 2
 
-[^key-27148d9f5cd38a2d74a3bfce0345faab]: Textual amendment: Words in [s. 65A(7)](https://www.legislation.gov.uk/ukpga/1974/46/section/65A/7) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 5 para. 10](https://www.legislation.gov.uk/uksi/2013/496/schedule/5/paragraph/10) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-27148d9f5cd38a2d74a3bfce0345faab]: Textual amendment: Words in [s. 65A(7)](https://www.legislation.gov.uk/ukpga/1974/46/section/65A/7) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 5 para. 10](https://www.legislation.gov.uk/uksi/2013/496/schedule/5/paragraph/10) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
 [^c1073292]: Modification: S. 65A(8): functions transferred to the Treasury (1.12.2001) by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617), [arts. 2(b)](https://www.legislation.gov.uk/uksi/2001/2617/article/2/b), [4(1)](https://www.legislation.gov.uk/uksi/2001/2617/article/4/1), [Sch. 1 Pt. II](https://www.legislation.gov.uk/uksi/2001/2617/schedule/1/part/II) (with [art. 5](https://www.legislation.gov.uk/uksi/2001/2617/article/5)); [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/3538/article/2/1)
 

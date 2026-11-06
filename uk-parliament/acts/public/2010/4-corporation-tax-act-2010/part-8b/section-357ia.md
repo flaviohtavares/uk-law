@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 357IA. Power of Northern Ireland Assembly to set Northern Ireland rate[^key-daff5b22d7ee6f395950067d2a1daa9d]
+## 357IA. Power of Northern Ireland Assembly to set Northern Ireland rate[^c-daff5b22d7ee6f395950067d2a1daa9d]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 
 (3) A resolution under this section may not be passed by the Assembly except in pursuance of a recommendation which—
 
-- (a) is made by the Minister of Finance[^key-54e167d3e0b2e00c313539ed2b63fbf7], and
+- (a) is made by the Minister of Finance[^c-54e167d3e0b2e00c313539ed2b63fbf7], and
 - (b) is signified to the Assembly by the Minister or on the Minister's behalf.
 
 (4) A resolution under this section may not be passed by the Assembly without cross-community support.
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-daff5b22d7ee6f395950067d2a1daa9d]: Textual amendment: Pt. 8B inserted (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [s. 1](https://www.legislation.gov.uk/ukpga/2015/21/section/1)
+[^c-daff5b22d7ee6f395950067d2a1daa9d]: Textual amendment: Pt. 8B inserted (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [s. 1](https://www.legislation.gov.uk/ukpga/2015/21/section/1)
 
-[^key-54e167d3e0b2e00c313539ed2b63fbf7]: Textual amendment: Words in s. 357IA substituted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 7 para. 26](https://www.legislation.gov.uk/ukpga/2017/32/schedule/7/paragraph/26)
+[^c-54e167d3e0b2e00c313539ed2b63fbf7]: Textual amendment: Words in s. 357IA substituted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 7 para. 26](https://www.legislation.gov.uk/ukpga/2017/32/schedule/7/paragraph/26)

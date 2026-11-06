@@ -28,7 +28,7 @@ summary: ''
 (2) Where a person is disqualified under subsection (1)(a), the disqualification ceases if—
 
 - (a) the award of sequestration is recalled or reduced, or
-- (b) the person is discharged by virtue of the Bankruptcy (Scotland) Act 2016[^key-cdca4f56bc7e474e6fa261a054cfe2fd].
+- (b) the person is discharged by virtue of the Bankruptcy (Scotland) Act 2016[^c-cdca4f56bc7e474e6fa261a054cfe2fd].
 
 (3) Where a person is disqualified under subsection (1)(b), the disqualification ceases if—
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cdca4f56bc7e474e6fa261a054cfe2fd]: Textual amendment: Word in [s. 73(2)(b)](https://www.legislation.gov.uk/asp/2007/6/section/73/2/b) substituted (30.11.2016) by [Bankruptcy (Scotland) Act 2016 (asp 21)](https://www.legislation.gov.uk/asp/2016/21), [s. 237(2)](https://www.legislation.gov.uk/asp/2016/21/section/237/2), [sch. 8 para. 25](https://www.legislation.gov.uk/asp/2016/21/schedule/8/paragraph/25) (with [ss. 232](https://www.legislation.gov.uk/asp/2016/21/section/232), [234(3)](https://www.legislation.gov.uk/asp/2016/21/section/234/3), [235](https://www.legislation.gov.uk/asp/2016/21/section/235), [236](https://www.legislation.gov.uk/asp/2016/21/section/236)); [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-cdca4f56bc7e474e6fa261a054cfe2fd]: Textual amendment: Word in [s. 73(2)(b)](https://www.legislation.gov.uk/asp/2007/6/section/73/2/b) substituted (30.11.2016) by [Bankruptcy (Scotland) Act 2016 (asp 21)](https://www.legislation.gov.uk/asp/2016/21), [s. 237(2)](https://www.legislation.gov.uk/asp/2016/21/section/237/2), [sch. 8 para. 25](https://www.legislation.gov.uk/asp/2016/21/schedule/8/paragraph/25) (with [ss. 232](https://www.legislation.gov.uk/asp/2016/21/section/232), [234(3)](https://www.legislation.gov.uk/asp/2016/21/section/234/3), [235](https://www.legislation.gov.uk/asp/2016/21/section/235), [236](https://www.legislation.gov.uk/asp/2016/21/section/236)); [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

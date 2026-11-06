@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47. Power of examining authority to hold local inquiry[^key-6933556571592708fc7a9d4bf93ed0fb][^key-592aaf151892fb2ec8ff5c65860a9d8a]
+## 47. Power of examining authority to hold local inquiry[^c-6933556571592708fc7a9d4bf93ed0fb][^c-592aaf151892fb2ec8ff5c65860a9d8a]
 
 *Extent: E+W*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6933556571592708fc7a9d4bf93ed0fb]: Commencement: S. 47 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
+[^c-6933556571592708fc7a9d4bf93ed0fb]: Commencement: S. 47 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
 
-[^key-592aaf151892fb2ec8ff5c65860a9d8a]: Commencement: [S. 47](https://www.legislation.gov.uk/asc/2024/3/section/47) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(b)](https://www.legislation.gov.uk/wsi/2025/698/article/3/b)
+[^c-592aaf151892fb2ec8ff5c65860a9d8a]: Commencement: [S. 47](https://www.legislation.gov.uk/asc/2024/3/section/47) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(b)](https://www.legislation.gov.uk/wsi/2025/698/article/3/b)

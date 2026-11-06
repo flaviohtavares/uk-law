@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 10. Duty to inform person responsible for welfare of child in police detention[^key-1555f3401697b7cb14cd757d36b8cfc2]
+## 10. Duty to inform person responsible for welfare of child in police detention[^c-1555f3401697b7cb14cd757d36b8cfc2]
 
 *Extent: N.I.*
 
@@ -45,7 +45,7 @@ summary: ''
 
 ## Annotations
 
-[^key-1555f3401697b7cb14cd757d36b8cfc2]: Modification: [Art. 10](https://www.legislation.gov.uk/nisi/1998/1504/article/10) applied (with modifications) by 1994 c. 33, s. 137D(4)(e) Sch. 7B Pt. 3 (as inserted (31.1.2017 for specified purposes, 1.3.2018 in so far as not already in operation) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 116(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/116/1)[(3)](https://www.legislation.gov.uk/ukpga/2017/3/section/116/3), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 16](https://www.legislation.gov.uk/ukpga/2017/3/schedule/16); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [art. 2(f)](https://www.legislation.gov.uk/uksi/2018/227/article/2/f))
+[^c-1555f3401697b7cb14cd757d36b8cfc2]: Modification: [Art. 10](https://www.legislation.gov.uk/nisi/1998/1504/article/10) applied (with modifications) by 1994 c. 33, s. 137D(4)(e) Sch. 7B Pt. 3 (as inserted (31.1.2017 for specified purposes, 1.3.2018 in so far as not already in operation) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 116(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/116/1)[(3)](https://www.legislation.gov.uk/ukpga/2017/3/section/116/3), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 16](https://www.legislation.gov.uk/ukpga/2017/3/schedule/16); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [art. 2(f)](https://www.legislation.gov.uk/uksi/2018/227/article/2/f))
 
 [^m00013]: Marginal citation: 1995 NI 2.
 

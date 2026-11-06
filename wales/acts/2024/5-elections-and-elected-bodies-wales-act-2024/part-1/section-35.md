@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Authorised persons not required to pay through election agent[^key-0cfd295e399343ada1f39ad63953116b][^key-f5ca5f57db70298feea61f2529b0c7d9]
+## 35. Authorised persons not required to pay through election agent[^c-0cfd295e399343ada1f39ad63953116b][^c-f5ca5f57db70298feea61f2529b0c7d9]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ In section 73(5) of the 1983 Act (payment of expenses through election agent), i
 
 ## Annotations
 
-[^key-0cfd295e399343ada1f39ad63953116b]: Commencement: S. 35 not in force at Royal Assent, see [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4)
+[^c-0cfd295e399343ada1f39ad63953116b]: Commencement: S. 35 not in force at Royal Assent, see [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4)
 
-[^key-f5ca5f57db70298feea61f2529b0c7d9]: Commencement: [S. 35](https://www.legislation.gov.uk/asc/2024/5/section/35) in force at 1.1.2025 by [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 2(j)](https://www.legislation.gov.uk/wsi/2024/1337/article/2/j)
+[^c-f5ca5f57db70298feea61f2529b0c7d9]: Commencement: [S. 35](https://www.legislation.gov.uk/asc/2024/5/section/35) in force at 1.1.2025 by [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 2(j)](https://www.legislation.gov.uk/wsi/2024/1337/article/2/j)

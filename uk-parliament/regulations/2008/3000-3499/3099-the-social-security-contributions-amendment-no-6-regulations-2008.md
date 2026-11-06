@@ -28,7 +28,7 @@ summary: ''
 
 SOCIAL SECURITY
 
-The Social Security (Contributions) (Amendment No.6) Regulations 2008 (revoked)[^key-f09e0248ba63cc10111042f92991f307]
+The Social Security (Contributions) (Amendment No.6) Regulations 2008 (revoked)[^c-f09e0248ba63cc10111042f92991f307]
 
 Made
 
@@ -42,24 +42,24 @@ Coming into force
 
 27th December 2008
 
-[^key-f09e0248ba63cc10111042f92991f307]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f09e0248ba63cc10111042f92991f307]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-f09e0248ba63cc10111042f92991f307]
+## 1. Citation and commencement[^c-f09e0248ba63cc10111042f92991f307]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Social Security (Contributions) Regulations 2001[^key-f09e0248ba63cc10111042f92991f307]
+## 2. Amendment of the Social Security (Contributions) Regulations 2001[^c-f09e0248ba63cc10111042f92991f307]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f09e0248ba63cc10111042f92991f307]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f09e0248ba63cc10111042f92991f307]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-f09e0248ba63cc10111042f92991f307]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f09e0248ba63cc10111042f92991f307]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f09e0248ba63cc10111042f92991f307]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2008/3099) revoked (6.4.2015) by [The Social Security (Miscellaneous Amendments No. 2) Regulations 2015 (S.I. 2015/478)](https://www.legislation.gov.uk/uksi/2015/478), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/478/regulation/1/4), [Sch.](https://www.legislation.gov.uk/uksi/2015/478/schedule)
+[^c-f09e0248ba63cc10111042f92991f307]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2008/3099) revoked (6.4.2015) by [The Social Security (Miscellaneous Amendments No. 2) Regulations 2015 (S.I. 2015/478)](https://www.legislation.gov.uk/uksi/2015/478), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/478/regulation/1/4), [Sch.](https://www.legislation.gov.uk/uksi/2015/478/schedule)

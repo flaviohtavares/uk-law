@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 6. Harassment on grounds of age[^key-9efde0b17279606e99c278c57e42c835]
+## 6. Harassment on grounds of age[^c-9efde0b17279606e99c278c57e42c835]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9efde0b17279606e99c278c57e42c835]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2006/261/regulation/6) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-9efde0b17279606e99c278c57e42c835]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2006/261/regulation/6) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)

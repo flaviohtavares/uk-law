@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115. Sexual activity with a corpse[^key-1f636d7aa49eabd8e61af52e52c3788c][^key-81cebbe75ea07938b34c3d22f875d3c3]
+## 115. Sexual activity with a corpse[^c-1f636d7aa49eabd8e61af52e52c3788c][^c-81cebbe75ea07938b34c3d22f875d3c3]
 
 *Extent: E+W*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1f636d7aa49eabd8e61af52e52c3788c]: Commencement: S. 115 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-1f636d7aa49eabd8e61af52e52c3788c]: Commencement: S. 115 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-81cebbe75ea07938b34c3d22f875d3c3]: Commencement: [S. 115](https://www.legislation.gov.uk/ukpga/2026/20/section/115) in force at 29.9.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2026/960/regulation/3/a)
+[^c-81cebbe75ea07938b34c3d22f875d3c3]: Commencement: [S. 115](https://www.legislation.gov.uk/ukpga/2026/20/section/115) in force at 29.9.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2026/960/regulation/3/a)

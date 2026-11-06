@@ -62,7 +62,7 @@ For the purposes of section 2(3) (accounting practices) the accounting practices
 - (a) “Code of Practice on Local Authority Accounting in the United Kingdom” published by CIPFA in 2009[^f00002];
 - (b) “Best Value Accounting Code of Practice” published by CIPFA in 2009[^f00003].
 
-### 3. Annual budget[^key-17e3299ebad7a3dd5a3d0ae7a195d203]
+### 3. Annual budget[^c-17e3299ebad7a3dd5a3d0ae7a195d203]
 
 (1) Subject to paragraph (2), for the purposes of section 3 (annual budget) the prescribed date for a financial year beginning on or after 1st April 2012 shall be 15th February.
 
@@ -274,7 +274,7 @@ Copies of the following documents referred to in these Regulations may be obtain
 
 [^f00003]: Footnote: ISBN 978 1 84508 211 6
 
-[^key-17e3299ebad7a3dd5a3d0ae7a195d203]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2011/326/regulation/3) substituted (12.2.2021) by [The Local Government (Capital Finance and Accounting) (Coronavirus) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/31)](https://www.legislation.gov.uk/nisr/2021/31), [regs. 1](https://www.legislation.gov.uk/nisr/2021/31/regulation/1), [3](https://www.legislation.gov.uk/nisr/2021/31/regulation/3)
+[^c-17e3299ebad7a3dd5a3d0ae7a195d203]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2011/326/regulation/3) substituted (12.2.2021) by [The Local Government (Capital Finance and Accounting) (Coronavirus) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/31)](https://www.legislation.gov.uk/nisr/2021/31), [regs. 1](https://www.legislation.gov.uk/nisr/2021/31/regulation/1), [3](https://www.legislation.gov.uk/nisr/2021/31/regulation/3)
 
 [^f00004]: Footnote: The current issue of this code of practice was published in London in 2009. ISBN 978 1 84508 207 9
 

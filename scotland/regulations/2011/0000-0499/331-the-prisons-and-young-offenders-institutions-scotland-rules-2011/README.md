@@ -312,7 +312,7 @@ The Scottish Ministers make the following Rules in exercise of the powers confer
 - [Section 143 — Communications with the media etc.](part-16/section-143.md)
 - [Section 144 — Code of conduct](part-16/section-144.md)
 
-### PART 17 — VISITING COMMITTEES[^key-da9856af321e3c85ac14bccc8931339c]
+### PART 17 — VISITING COMMITTEES[^c-da9856af321e3c85ac14bccc8931339c]
 
 *Extent: S*
 
@@ -426,4 +426,4 @@ Part 18 (rules 156 to 158) contains supplementary provisions in relation to vari
 
 [^c21071121]: Marginal citation: [1994 c.33](https://www.legislation.gov.uk/ukpga/1994/33).
 
-[^key-da9856af321e3c85ac14bccc8931339c]: Textual amendment: Pt. 17 revoked (31.8.2015) by [The Public Services Reform (Inspection and Monitoring of Prisons) (Scotland) Order 2015 (S.S.I. 2015/39)](https://www.legislation.gov.uk/ssi/2015/39), [arts. 1](https://www.legislation.gov.uk/ssi/2015/39/article/1), [4(7)](https://www.legislation.gov.uk/ssi/2015/39/article/4/7) (with [art. 5](https://www.legislation.gov.uk/ssi/2015/39/article/5))
+[^c-da9856af321e3c85ac14bccc8931339c]: Textual amendment: Pt. 17 revoked (31.8.2015) by [The Public Services Reform (Inspection and Monitoring of Prisons) (Scotland) Order 2015 (S.S.I. 2015/39)](https://www.legislation.gov.uk/ssi/2015/39), [arts. 1](https://www.legislation.gov.uk/ssi/2015/39/article/1), [4(7)](https://www.legislation.gov.uk/ssi/2015/39/article/4/7) (with [art. 5](https://www.legislation.gov.uk/ssi/2015/39/article/5))

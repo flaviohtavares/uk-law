@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16A. Levy charging information[^key-c0ad45882098a919dd266cfdc852cdd1]
+## 16A. Levy charging information[^c-c0ad45882098a919dd266cfdc852cdd1]
 
 *Extent: E+W*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c0ad45882098a919dd266cfdc852cdd1]: Textual amendment: [Reg. 16A](https://www.legislation.gov.uk/uksi/2010/2214/regulation/16A) inserted (E.) (1.10.2026) by [The Building Safety Levy (England) Regulations 2025 (S.I. 2025/1236)](https://www.legislation.gov.uk/uksi/2025/1236), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2), [28(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/28/2) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/5)[(6)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/6))
+[^c-c0ad45882098a919dd266cfdc852cdd1]: Textual amendment: [Reg. 16A](https://www.legislation.gov.uk/uksi/2010/2214/regulation/16A) inserted (E.) (1.10.2026) by [The Building Safety Levy (England) Regulations 2025 (S.I. 2025/1236)](https://www.legislation.gov.uk/uksi/2025/1236), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2), [28(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/28/2) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/5)[(6)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/6))

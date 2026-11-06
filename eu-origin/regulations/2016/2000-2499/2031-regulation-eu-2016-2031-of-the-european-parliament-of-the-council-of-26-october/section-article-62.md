@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-1. The person responsible for the quarantine station or confinement facility shall monitor that station or facility and its immediate vicinity for the unintended presence of GB quarantine pests and provisional GB quarantine pests[^key-f0d400e4fe8fbd89a9d4ed35488c02b6].
+1. The person responsible for the quarantine station or confinement facility shall monitor that station or facility and its immediate vicinity for the unintended presence of GB quarantine pests and provisional GB quarantine pests[^c-f0d400e4fe8fbd89a9d4ed35488c02b6].
 
 2. Where an unintended presence of a pest referred to in paragraph 1 is found or suspected, the person responsible for the quarantine station or confinement facility concerned shall take the appropriate action, based on the contingency plan referred to in point (e) of Article 61(1). The obligations set out for professional operators in Article 14 shall apply *mutatis mutandis* to the person responsible for the quarantine station or confinement facility.
 
@@ -36,4 +36,4 @@ Those records shall be kept for three years.
 
 ## Annotations
 
-[^key-f0d400e4fe8fbd89a9d4ed35488c02b6]: Textual amendment: Words in [Art. 62(1)](https://www.legislation.gov.uk/eur/2016/2031/article/62/1) substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [29(26)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/29/26) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
+[^c-f0d400e4fe8fbd89a9d4ed35488c02b6]: Textual amendment: Words in [Art. 62(1)](https://www.legislation.gov.uk/eur/2016/2031/article/62/1) substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [29(26)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/29/26) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))

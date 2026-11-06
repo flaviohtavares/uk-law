@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 1. Citation and commencement[^key-2ba8715f5a7320c1e99fbfc95f1c8641]
+## 1. Citation and commencement[^c-2ba8715f5a7320c1e99fbfc95f1c8641]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ These Regulations may be cited as the Pollution Prevention and Control (Industri
 
 ## Annotations
 
-[^key-2ba8715f5a7320c1e99fbfc95f1c8641]: Commencement: Reg. 1 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-2ba8715f5a7320c1e99fbfc95f1c8641]: Commencement: Reg. 1 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)

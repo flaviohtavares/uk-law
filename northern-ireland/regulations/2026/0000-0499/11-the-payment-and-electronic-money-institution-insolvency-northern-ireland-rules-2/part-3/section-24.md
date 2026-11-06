@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 24. Submission of accounts[^key-676deab7fd211478f4d5914872954077]
+## 24. Submission of accounts[^c-676deab7fd211478f4d5914872954077]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-676deab7fd211478f4d5914872954077]: Commencement: [Rule 24](https://www.legislation.gov.uk/nisr/2026/11/rule/24) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-676deab7fd211478f4d5914872954077]: Commencement: [Rule 24](https://www.legislation.gov.uk/nisr/2026/11/rule/24) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

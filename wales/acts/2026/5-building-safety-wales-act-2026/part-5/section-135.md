@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 135. Regulations under this Act: supplementary and procedural provisions[^key-ad8015c59ca1cd1aa7e334286034d6fe]
+## 135. Regulations under this Act: supplementary and procedural provisions[^c-ad8015c59ca1cd1aa7e334286034d6fe]
 
 *Extent: E+W*
 
@@ -68,4 +68,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ad8015c59ca1cd1aa7e334286034d6fe]: Commencement: S. 135 in force at 28.4.2026, see [s. 138(1)(c)](https://www.legislation.gov.uk/asc/2026/5/section/138/1/c)
+[^c-ad8015c59ca1cd1aa7e334286034d6fe]: Commencement: S. 135 in force at 28.4.2026, see [s. 138(1)(c)](https://www.legislation.gov.uk/asc/2026/5/section/138/1/c)

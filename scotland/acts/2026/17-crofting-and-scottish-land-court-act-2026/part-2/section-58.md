@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 58. Savings etc.[^key-780fc54c5d07da38adc4f95634b05e8d]
+## 58. Savings etc.[^c-780fc54c5d07da38adc4f95634b05e8d]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-780fc54c5d07da38adc4f95634b05e8d]: Commencement: S. 58 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
+[^c-780fc54c5d07da38adc4f95634b05e8d]: Commencement: S. 58 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 44. Claimant commitment – date and method of acceptance[^key-6df8e545c88c83186b6032e9da6a2a34]
+## 44. Claimant commitment – date and method of acceptance[^c-6df8e545c88c83186b6032e9da6a2a34]
 
 *Extent: N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6df8e545c88c83186b6032e9da6a2a34]: Commencement: [Reg. 44](https://www.legislation.gov.uk/nisr/2016/219/regulation/44) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-6df8e545c88c83186b6032e9da6a2a34]: Commencement: [Reg. 44](https://www.legislation.gov.uk/nisr/2016/219/regulation/44) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
 
 [^f00055]: Footnote: Section 1(3)(aa) was inserted by Article 60(2) of the Welfare Reform (Northern Ireland) Order 2015

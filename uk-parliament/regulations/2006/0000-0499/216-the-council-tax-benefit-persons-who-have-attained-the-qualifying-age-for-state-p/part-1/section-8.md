@@ -42,7 +42,7 @@ summary: ''
 
 - (a) is detained in custody on remand pending trial or required, as a condition of bail, to reside—
   - (i) in a dwelling, other than the dwelling referred to in paragraph (1); or
-  - (ii) in premises approved under section 13 of the Offender Management Act 2007[^key-ea1c20163dc60e55f84557a74bb03640];
+  - (ii) in premises approved under section 13 of the Offender Management Act 2007[^c-ea1c20163dc60e55f84557a74bb03640];
 
   or, is detained in custody pending sentence upon conviction;
 - (b) is resident in a hospital or similar institution as a patient;
@@ -75,11 +75,11 @@ summary: ''
   - (b) in an independent hospital;
   - (c) in an Abbeyfield Home; or
   - (d) in an establishment managed or provided by a body incorporated by Royal Charter or constituted by Act of Parliament other than a local social services authority;
-- “**training course**” means a course of training or instruction provided wholly or partly by or on behalf of or in pursuance of arrangements made with, or approved by or on behalf of, Skills Development Scotland,[^key-03f4be5052b088d68d8b3085fb3b3224] Scottish Enterprise, Highlands and Islands Enterprise, a government department or the Secretary of State.
+- “**training course**” means a course of training or instruction provided wholly or partly by or on behalf of or in pursuance of arrangements made with, or approved by or on behalf of, Skills Development Scotland,[^c-03f4be5052b088d68d8b3085fb3b3224] Scottish Enterprise, Highlands and Islands Enterprise, a government department or the Secretary of State.
 
 ## Annotations
 
-[^key-ea1c20163dc60e55f84557a74bb03640]: Textual amendment: Words in reg. 8(4)(a)(ii) substituted (17.11.2008) by [The Social Security (Miscellaneous Amendments) (No.6) Regulations 2008 (S.I. 2008/2767)](https://www.legislation.gov.uk/uksi/2008/2767), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2767/regulation/1/2), [9(3)](https://www.legislation.gov.uk/uksi/2008/2767/regulation/9/3)
+[^c-ea1c20163dc60e55f84557a74bb03640]: Textual amendment: Words in reg. 8(4)(a)(ii) substituted (17.11.2008) by [The Social Security (Miscellaneous Amendments) (No.6) Regulations 2008 (S.I. 2008/2767)](https://www.legislation.gov.uk/uksi/2008/2767), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2767/regulation/1/2), [9(3)](https://www.legislation.gov.uk/uksi/2008/2767/regulation/9/3)
 
 [^c1541523]: Marginal citation: [1983 c. 72](https://www.legislation.gov.uk/ukpga/1983/72).
 
@@ -91,4 +91,4 @@ summary: ''
 
 [^c1541527]: Marginal citation: [1989 c. 45](https://www.legislation.gov.uk/ukpga/1989/45).
 
-[^key-03f4be5052b088d68d8b3085fb3b3224]: Textual amendment: Words in [reg. 8(7)](https://www.legislation.gov.uk/uksi/2006/216/regulation/8/7) inserted (6.4.2009) by [The Social Security (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/583)](https://www.legislation.gov.uk/uksi/2009/583), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/583/regulation/1/2), [9(3)(b)](https://www.legislation.gov.uk/uksi/2009/583/regulation/9/3/b)
+[^c-03f4be5052b088d68d8b3085fb3b3224]: Textual amendment: Words in [reg. 8(7)](https://www.legislation.gov.uk/uksi/2006/216/regulation/8/7) inserted (6.4.2009) by [The Social Security (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/583)](https://www.legislation.gov.uk/uksi/2009/583), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/583/regulation/1/2), [9(3)(b)](https://www.legislation.gov.uk/uksi/2009/583/regulation/9/3/b)

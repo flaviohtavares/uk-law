@@ -29,8 +29,8 @@ summary: ''
 (4) In this section—
 
 - “**new holding**” has the meaning given by section 126(1) of TCGA 1992 (application of sections 126 to 131 of that Act), and
-- “**transparent entity**” means a company which is resident in a member State [^key-ce3bba0b30c1e8f739ac21274543445b]... and does not have an ordinary share capital.
+- “**transparent entity**” means a company which is resident in a member State [^c-ce3bba0b30c1e8f739ac21274543445b]... and does not have an ordinary share capital.
 
 ## Annotations
 
-[^key-ce3bba0b30c1e8f739ac21274543445b]: Textual amendment: Words in [s. 438(4)](https://www.legislation.gov.uk/ukpga/2009/4/section/438/4) omitted (31.12.2020) by virtue of [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [16(8)](https://www.legislation.gov.uk/uksi/2019/689/regulation/16/8) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ce3bba0b30c1e8f739ac21274543445b]: Textual amendment: Words in [s. 438(4)](https://www.legislation.gov.uk/ukpga/2009/4/section/438/4) omitted (31.12.2020) by virtue of [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [16(8)](https://www.legislation.gov.uk/uksi/2019/689/regulation/16/8) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

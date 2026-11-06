@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 190. Office copies of documents[^key-e87cd3329db9d4dcfa5203b8be49f880]
+## 190. Office copies of documents[^c-e87cd3329db9d4dcfa5203b8be49f880]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e87cd3329db9d4dcfa5203b8be49f880]: Commencement: Rule 190 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-e87cd3329db9d4dcfa5203b8be49f880]: Commencement: Rule 190 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

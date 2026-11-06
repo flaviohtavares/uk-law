@@ -32,7 +32,7 @@ summary: ''
 
 Environmental Protection
 
-The Pollution Prevention and Control (Scotland) Regulations 2012 (revoked)[^key-3e4eded244085ee8c17d89062bc5bc5f]
+The Pollution Prevention and Control (Scotland) Regulations 2012 (revoked)[^c-3e4eded244085ee8c17d89062bc5bc5f]
 
 Made
 
@@ -42,11 +42,11 @@ Coming into force
 
 7th January 2013
 
-[^key-3e4eded244085ee8c17d89062bc5bc5f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3e4eded244085ee8c17d89062bc5bc5f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART I — GENERAL[^key-3e4eded244085ee8c17d89062bc5bc5f]
+### PART I — GENERAL[^c-3e4eded244085ee8c17d89062bc5bc5f]
 
 *Extent: S*
 
@@ -63,17 +63,17 @@ Coming into force
 - [Section 8 — The Scottish Minsters and SEPA: service of notices](part-i/section-8.md)
 - [Section 9 — Electronic communications](part-i/section-9.md)
 
-### PART II — COMPETENT AUTHORITY[^key-3e4eded244085ee8c17d89062bc5bc5f]
+### PART II — COMPETENT AUTHORITY[^c-3e4eded244085ee8c17d89062bc5bc5f]
 
 **No longer in force.**
 
 - [Section 10 — SEPA: designation as competent authority](part-ii/section-10.md)
 
-### PART III — GRANTING OF PERMITS[^key-3e4eded244085ee8c17d89062bc5bc5f]
+### PART III — GRANTING OF PERMITS[^c-3e4eded244085ee8c17d89062bc5bc5f]
 
 **No longer in force.**
 
-#### CHAPTER 1 — General[^key-3e4eded244085ee8c17d89062bc5bc5f]
+#### CHAPTER 1 — General[^c-3e4eded244085ee8c17d89062bc5bc5f]
 
 **No longer in force.**
 
@@ -87,7 +87,7 @@ Coming into force
 - [Section 18 — Permits: fit and proper person](part-iii/section-18.md)
 - [Section 19 — Permits: transfer and cessation](part-iii/section-19.md)
 
-#### CHAPTER 2 — Schedule 1 activities[^key-3e4eded244085ee8c17d89062bc5bc5f]
+#### CHAPTER 2 — Schedule 1 activities[^c-3e4eded244085ee8c17d89062bc5bc5f]
 
 *Extent: S*
 
@@ -111,7 +111,7 @@ Coming into force
 - [Section 32 — Schedule 1 conditions: volatile organic compounds](part-iii/section-32.md)
 - [Section 32A — Schedule 1 conditions: materials facilities](part-iii/section-32a.md)
 
-#### CHAPTER 3 — Schedule 2 activities[^key-3e4eded244085ee8c17d89062bc5bc5f]
+#### CHAPTER 3 — Schedule 2 activities[^c-3e4eded244085ee8c17d89062bc5bc5f]
 
 *Extent: S*
 
@@ -121,7 +121,7 @@ Coming into force
 - [Section 34 — Solvents: conditions](part-iii/section-34.md)
 - [Section 35 — Solvents installations: abatement equipment](part-iii/section-35.md)
 
-### PART IV — STANDARD RULES[^key-3e4eded244085ee8c17d89062bc5bc5f]
+### PART IV — STANDARD RULES[^c-3e4eded244085ee8c17d89062bc5bc5f]
 
 **No longer in force.**
 
@@ -134,7 +134,7 @@ Coming into force
 - [Section 42 — Standard rules: revocation](part-iv/section-42.md)
 - [Section 43 — Part IV: interpretation](part-iv/section-43.md)
 
-### PART V — REVIEW, VARIATION AND CESSATION OF PERMITS[^key-3e4eded244085ee8c17d89062bc5bc5f]
+### PART V — REVIEW, VARIATION AND CESSATION OF PERMITS[^c-3e4eded244085ee8c17d89062bc5bc5f]
 
 **No longer in force.**
 
@@ -146,7 +146,7 @@ Coming into force
 - [Section 49 — Permits: notification of surrender of an installation or mobile plant permit](part-v/section-49.md)
 - [Section 50 — Permits: revocation of permits](part-v/section-50.md)
 
-### PART VI — COMPLIANCE[^key-3e4eded244085ee8c17d89062bc5bc5f]
+### PART VI — COMPLIANCE[^c-3e4eded244085ee8c17d89062bc5bc5f]
 
 **No longer in force.**
 
@@ -158,14 +158,14 @@ Coming into force
 - [Section 56 — SEPA: suspension notices](part-vi/section-56.md)
 - [Section 57 — SEPA: power to prevent or remedy pollution](part-vi/section-57.md)
 
-### PART VII — APPEALS[^key-3e4eded244085ee8c17d89062bc5bc5f]
+### PART VII — APPEALS[^c-3e4eded244085ee8c17d89062bc5bc5f]
 
 **No longer in force.**
 
 - [Section 58 — Appeals to the Scottish Ministers and to the sheriff](part-vii/section-58.md)
 - [Section 59 — Interest for the purposes of the Industrial Emissions Directive](part-vii/section-59.md)
 
-### PART VIII — THE SCOTTISH MINISTERS[^key-3e4eded244085ee8c17d89062bc5bc5f]
+### PART VIII — THE SCOTTISH MINISTERS[^c-3e4eded244085ee8c17d89062bc5bc5f]
 
 **No longer in force.**
 
@@ -173,7 +173,7 @@ Coming into force
 - [Section 61 — Scottish Ministers: guidance to SEPA](part-viii/section-61.md)
 - [Section 62 — Scottish Ministers: emission plans](part-viii/section-62.md)
 
-### PART IX — INFORMATION AND PUBLICITY[^key-3e4eded244085ee8c17d89062bc5bc5f]
+### PART IX — INFORMATION AND PUBLICITY[^c-3e4eded244085ee8c17d89062bc5bc5f]
 
 **No longer in force.**
 
@@ -182,7 +182,7 @@ Coming into force
 - [Section 65 — Register: exclusion of information affecting national security](part-ix/section-65.md)
 - [Section 66 — Register: exclusion of confidential information](part-ix/section-66.md)
 
-### PART X — PROVISION AS TO OFFENCES[^key-3e4eded244085ee8c17d89062bc5bc5f]
+### PART X — PROVISION AS TO OFFENCES[^c-3e4eded244085ee8c17d89062bc5bc5f]
 
 **No longer in force.**
 
@@ -191,7 +191,7 @@ Coming into force
 - [Section 69 — Courts: admissibility of evidence](part-x/section-69.md)
 - [Section 70 — Courts: power to order cause of offence to be remedied](part-x/section-70.md)
 
-### PART XI — CROWN APPLICATION, ETC[^key-3e4eded244085ee8c17d89062bc5bc5f]
+### PART XI — CROWN APPLICATION, ETC[^c-3e4eded244085ee8c17d89062bc5bc5f]
 
 **No longer in force.**
 
@@ -219,14 +219,14 @@ Coming into force
 
 **No longer in force.**
 
-[^key-3e4eded244085ee8c17d89062bc5bc5f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3e4eded244085ee8c17d89062bc5bc5f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: S*
 
 **May not be in force at this date. Check the source.**
 
-[^key-3e4eded244085ee8c17d89062bc5bc5f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3e4eded244085ee8c17d89062bc5bc5f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3e4eded244085ee8c17d89062bc5bc5f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2012/360) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-3e4eded244085ee8c17d89062bc5bc5f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2012/360) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))

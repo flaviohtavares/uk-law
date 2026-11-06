@@ -42,7 +42,7 @@ In this subsection references to shares, except in the expressions “subscriber
 - (a) the exchange of shares is not regarded as involving any disposal of the old shares or any acquisition of the new shares, and
 - (b) any EIS relief which is attributable to any old shares is attributable instead to the new shares for which they are exchanged.
 
-(3A)[^key-682b425884d365e7ae99f89245dd9ff9] In section 173AB(2)(a) and in the definition of “the total relevant turnover amount” in section 175A(8), references to a company becoming a 51% subsidiary of the issuing company after the issue date do not include a company becoming such a subsidiary as a result of an exchange of shares as mentioned in subsection (1).
+(3A)[^c-682b425884d365e7ae99f89245dd9ff9] In section 173AB(2)(a) and in the definition of “the total relevant turnover amount” in section 175A(8), references to a company becoming a 51% subsidiary of the issuing company after the issue date do not include a company becoming such a subsidiary as a result of an exchange of shares as mentioned in subsection (1).
 
 (4) Nothing in section 185 (the control and independence requirement) applies in relation to such an exchange of shares, or shares and securities, as is mentioned in subsection (1), or arrangements with a view to such an exchange.
 
@@ -52,4 +52,4 @@ In this subsection references to shares, except in the expressions “subscriber
 
 ## Annotations
 
-[^key-682b425884d365e7ae99f89245dd9ff9]: Textual amendment: [S. 247(3A)](https://www.legislation.gov.uk/ukpga/2007/3/section/247/3A) inserted (with effect in accordance with Sch. 5 para. 23 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 5 para. 17](https://www.legislation.gov.uk/ukpga/2015/33/schedule/5/paragraph/17)
+[^c-682b425884d365e7ae99f89245dd9ff9]: Textual amendment: [S. 247(3A)](https://www.legislation.gov.uk/ukpga/2007/3/section/247/3A) inserted (with effect in accordance with Sch. 5 para. 23 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 5 para. 17](https://www.legislation.gov.uk/ukpga/2015/33/schedule/5/paragraph/17)

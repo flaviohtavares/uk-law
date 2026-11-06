@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 42. Repeals and revocations[^key-1c27ac0a1da29d0378633692dcd35832]
+## 42. Repeals and revocations[^c-1c27ac0a1da29d0378633692dcd35832]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Schedule 21 makes provision for repeals and revocations.
 
 ## Annotations
 
-[^key-1c27ac0a1da29d0378633692dcd35832]: Commencement: [Reg. 42](https://www.legislation.gov.uk/ssi/2025/165/regulation/42) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
+[^c-1c27ac0a1da29d0378633692dcd35832]: Commencement: [Reg. 42](https://www.legislation.gov.uk/ssi/2025/165/regulation/42) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)

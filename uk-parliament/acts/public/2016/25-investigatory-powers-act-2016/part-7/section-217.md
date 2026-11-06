@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 217. Approval of major modifications made in urgent cases[^key-748c37cef336fe2c6853bf983712c7c0]
+## 217. Approval of major modifications made in urgent cases[^c-748c37cef336fe2c6853bf983712c7c0]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ and section 216(4) does not apply in relation to the refusal to approve the deci
 
 ## Annotations
 
-[^key-748c37cef336fe2c6853bf983712c7c0]: Commencement: S. 217 in force at 22.8.2018 by [S.I. 2018/873](https://www.legislation.gov.uk/uksi/2018/873), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2018/873/regulation/3/c)
+[^c-748c37cef336fe2c6853bf983712c7c0]: Commencement: S. 217 in force at 22.8.2018 by [S.I. 2018/873](https://www.legislation.gov.uk/uksi/2018/873), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2018/873/regulation/3/c)

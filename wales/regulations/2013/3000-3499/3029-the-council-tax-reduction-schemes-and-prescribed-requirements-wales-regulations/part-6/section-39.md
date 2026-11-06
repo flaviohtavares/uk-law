@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Date on which change of circumstances is to take effect[^key-3338352ad0a1cc4af640141416034b08]
+## 39. Date on which change of circumstances is to take effect[^c-3338352ad0a1cc4af640141416034b08]
 
 *Extent: E+W*
 
@@ -35,6 +35,6 @@ the application is to be determined as though the change of circumstances has no
 
 ## Annotations
 
-[^key-3338352ad0a1cc4af640141416034b08]: Commencement: Reg. 39 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-3338352ad0a1cc4af640141416034b08]: Commencement: Reg. 39 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
 
 [^f00110]: Footnote: [S.I. 2012/3145 (W.317)](https://www.legislation.gov.uk/wsi/2012/3145) as amended by [S.I. 2013/112 (W.17)](https://www.legislation.gov.uk/wsi/2013/112).

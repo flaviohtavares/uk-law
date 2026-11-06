@@ -46,13 +46,13 @@ Coming into force in accordance with regulation 1
 
 The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 45B, 45F(2) and 45P(2) of the Public Health (Control of Disease) Act 1984 [^c24418031].
 
-## 1. Citation, commencement and interpretation[^key-1b9e17d6f87fb2b0d1862567e3fbec65]
+## 1. Citation, commencement and interpretation[^c-1b9e17d6f87fb2b0d1862567e3fbec65]
 
 (1) These Regulations may be cited as the Health Protection (Coronavirus, International Travel) (England) (Amendment) (No. 3) Regulations 2021.
 
 (2) Subject to paragraphs (3) and (4), these Regulations come into force at 4.00 a.m. on 15th January 2021.
 
-(3) Regulations 2(6)(b) [^key-13f0bbdaa99d5a6821e2f0102cfd90e9]... and 4(b) come into force at 4.00 a.m. on 16th January 2021.
+(3) Regulations 2(6)(b) [^c-13f0bbdaa99d5a6821e2f0102cfd90e9]... and 4(b) come into force at 4.00 a.m. on 16th January 2021.
 
 (4) Regulation 2(5) comes into force at 4.00 a.m. on 18th January 2021.
 
@@ -60,9 +60,9 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 ## 2. Amendment of the International Travel Regulations
 
-(1)[^key-c7bfbd696d6da24ba26bad9b6d3bddff] The International Travel Regulations are amended as follows.
+(1)[^c-c7bfbd696d6da24ba26bad9b6d3bddff] The International Travel Regulations are amended as follows.
 
-(2)[^key-c7bfbd696d6da24ba26bad9b6d3bddff] In regulation 4 (requirement to self-isolate)—
+(2)[^c-c7bfbd696d6da24ba26bad9b6d3bddff] In regulation 4 (requirement to self-isolate)—
 
 - (a) in paragraph (14), for “Paragraphs” substitute “ Subject to paragraphs (15) and (16), paragraphs ”;
 - (b) after paragraph (14), insert—
@@ -77,7 +77,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
   .
 
-(3)[^key-c7bfbd696d6da24ba26bad9b6d3bddff] After Part 2 (obligations on persons arriving in England and others), insert—
+(3)[^c-c7bfbd696d6da24ba26bad9b6d3bddff] After Part 2 (obligations on persons arriving in England and others), insert—
 
 > **Part 2A — Prohibition on the arrival of aircraft and vessels into England**
 >
@@ -127,13 +127,13 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 .
 
-(4)[^key-c7bfbd696d6da24ba26bad9b6d3bddff] After regulation 6(3) (offences and penalties), insert—
+(4)[^c-c7bfbd696d6da24ba26bad9b6d3bddff] After regulation 6(3) (offences and penalties), insert—
 
 > (3A) An operator (within the meaning given in regulation 4A) who contravenes regulation 4B(3) or 4C(3) commits an offence.
 
 .
 
-(5)[^key-e22d8259237896403fdfbb9573cf53fe] In regulation 7 (fixed penalty notices)—
+(5)[^c-e22d8259237896403fdfbb9573cf53fe] In regulation 7 (fixed penalty notices)—
 
 - (a) in paragraph (6)—
   - (i) in sub-paragraph (a), for “£100” substitute “ £500 ”;
@@ -149,12 +149,12 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 (6) In Part 1 of Schedule A1 (exempt countries and territories) omit the entries for—
 
-- (a)[^key-c7bfbd696d6da24ba26bad9b6d3bddff] “Chile”, “Madeira” and “The Azores”; and
-- (b)[^key-924b0dd55c43f5d730bf74e29e73e959] “Aruba”, “Qatar” and “Bonaire, Sint Eustatius & Saba”.
+- (a)[^c-c7bfbd696d6da24ba26bad9b6d3bddff] “Chile”, “Madeira” and “The Azores”; and
+- (b)[^c-924b0dd55c43f5d730bf74e29e73e959] “Aruba”, “Qatar” and “Bonaire, Sint Eustatius & Saba”.
 
-(7)[^key-c7bfbd696d6da24ba26bad9b6d3bddff] In Schedule B1 (countries and territories subject to additional measures) insert entries for “ Argentina ”, “Bolivia”, “Brazil”, “Cape Verde”, “Chile”, “Colombia”, “Ecuador”, “French Guiana”, “Guyana”, “Madeira”, “Panama”, “Paraguay”, “Peru”, “Portugal”, “Suriname”, “The Azores”, “Uruguay” and “Venezuela” at the appropriate places.
+(7)[^c-c7bfbd696d6da24ba26bad9b6d3bddff] In Schedule B1 (countries and territories subject to additional measures) insert entries for “ Argentina ”, “Bolivia”, “Brazil”, “Cape Verde”, “Chile”, “Colombia”, “Ecuador”, “French Guiana”, “Guyana”, “Madeira”, “Panama”, “Paraguay”, “Peru”, “Portugal”, “Suriname”, “The Azores”, “Uruguay” and “Venezuela” at the appropriate places.
 
-(8)[^key-c7bfbd696d6da24ba26bad9b6d3bddff] After Schedule B1, insert—
+(8)[^c-c7bfbd696d6da24ba26bad9b6d3bddff] After Schedule B1, insert—
 
 > **SCHEDULE B2 — Prohibition on arrival of aircraft and vessels**
 >
@@ -179,9 +179,9 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 .
 
-(9)[^key-3f18cecdcf691e6081e4bde5d75fd692] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-3f18cecdcf691e6081e4bde5d75fd692] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Health Protection (Coronavirus, Travel from South Africa) (England) Regulations 2020[^key-00d0375b6fcc94e89051212ff60ab3d9]
+## 3. Amendment of the Health Protection (Coronavirus, Travel from South Africa) (England) Regulations 2020[^c-00d0375b6fcc94e89051212ff60ab3d9]
 
 In the Health Protection (Coronavirus, Travel from South Africa) (England) Regulations 2020 [^c24418061], omit regulation 2.
 
@@ -189,8 +189,8 @@ In the Health Protection (Coronavirus, Travel from South Africa) (England) Regul
 
 In relation to any person, or any person residing with such a person, who arrived in England on or after 10th July 2020 but before—
 
-- (a)[^key-450c2d3d77570c3f2b6df10ff20707e6] 4.00 a.m. on 15th January 2021, the International Travel Regulations apply as if the amendments made by regulation 2(2), (6)(a) and (7) had not been made; or
-- (b)[^key-f7382fb0681718ef48d87cfd5ded1eee] 4.00 a.m. on 16th January 2021, the International Travel Regulations apply as if the amendments made by regulation 2(6)(b) had not been made.
+- (a)[^c-450c2d3d77570c3f2b6df10ff20707e6] 4.00 a.m. on 15th January 2021, the International Travel Regulations apply as if the amendments made by regulation 2(2), (6)(a) and (7) had not been made; or
+- (b)[^c-f7382fb0681718ef48d87cfd5ded1eee] 4.00 a.m. on 16th January 2021, the International Travel Regulations apply as if the amendments made by regulation 2(6)(b) had not been made.
 
 Signed by authority of the Secretary of State for Transport
 
@@ -226,26 +226,26 @@ An impact assessment has not been produced for this instrument. An explanatory m
 
 [^c24418031]: Marginal citation: [1984 c. 22](https://www.legislation.gov.uk/ukpga/1984/22). Part 2A was inserted by section 129 of the [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14).
 
-[^key-1b9e17d6f87fb2b0d1862567e3fbec65]: Commencement: Reg. 1 in force at 15.1.2021 at 4.00 a.m., see reg. 1(2)
+[^c-1b9e17d6f87fb2b0d1862567e3fbec65]: Commencement: Reg. 1 in force at 15.1.2021 at 4.00 a.m., see reg. 1(2)
 
-[^key-13f0bbdaa99d5a6821e2f0102cfd90e9]: Textual amendment: Words in reg. 1(3) omitted (16.1.2021 immediately before 4.00 a.m.) by virtue of [The Health Protection (Coronavirus, International Travel) (England) (Amendment) (No. 4) Regulations 2021 (S.I. 2021/49)](https://www.legislation.gov.uk/uksi/2021/49), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/49/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2021/49/regulation/3/a)
+[^c-13f0bbdaa99d5a6821e2f0102cfd90e9]: Textual amendment: Words in reg. 1(3) omitted (16.1.2021 immediately before 4.00 a.m.) by virtue of [The Health Protection (Coronavirus, International Travel) (England) (Amendment) (No. 4) Regulations 2021 (S.I. 2021/49)](https://www.legislation.gov.uk/uksi/2021/49), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/49/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2021/49/regulation/3/a)
 
 [^c24418041]: Marginal citation: [S.I. 2020/568](https://www.legislation.gov.uk/uksi/2020/568), amended by [S.I. 2020/691](https://www.legislation.gov.uk/uksi/2020/691), 724, 799, 805, 813, 819, 841, 866, 890, 913, 959, 980, 1013, 1039, 1070, 1076, 1094, 1129, 1161, 1190, 1227, 1238, 1277, 1292, 1323, 1337, 1360, 1424, 1517, 1595, [S.I. 2021/18](https://www.legislation.gov.uk/uksi/2021/18), 25 and 38.
 
-[^key-c7bfbd696d6da24ba26bad9b6d3bddff]: Commencement: Reg. 2(1)-(4)(6)(a)(7)(8) in force at 15.1.2021 at 4.00 a.m., see reg. 1(2)
+[^c-c7bfbd696d6da24ba26bad9b6d3bddff]: Commencement: Reg. 2(1)-(4)(6)(a)(7)(8) in force at 15.1.2021 at 4.00 a.m., see reg. 1(2)
 
 [^c24418051]: Marginal citation: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21). See section 313.
 
-[^key-e22d8259237896403fdfbb9573cf53fe]: Commencement: Reg. 2(5) in force at 18.1.2021 at 4.00 a.m., see reg. 1(4)
+[^c-e22d8259237896403fdfbb9573cf53fe]: Commencement: Reg. 2(5) in force at 18.1.2021 at 4.00 a.m., see reg. 1(4)
 
-[^key-924b0dd55c43f5d730bf74e29e73e959]: Commencement: Reg. 2(6)(b) in force at 16.1.2021 at 4.00 a.m., see reg. 1(3)
+[^c-924b0dd55c43f5d730bf74e29e73e959]: Commencement: Reg. 2(6)(b) in force at 16.1.2021 at 4.00 a.m., see reg. 1(3)
 
-[^key-3f18cecdcf691e6081e4bde5d75fd692]: Textual amendment: Reg. 2(9) omitted (16.1.2021 immediately before 4.00 a.m.) by virtue of [The Health Protection (Coronavirus, International Travel) (England) (Amendment) (No. 4) Regulations 2021 (S.I. 2021/49)](https://www.legislation.gov.uk/uksi/2021/49), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/49/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2021/49/regulation/3/b)
+[^c-3f18cecdcf691e6081e4bde5d75fd692]: Textual amendment: Reg. 2(9) omitted (16.1.2021 immediately before 4.00 a.m.) by virtue of [The Health Protection (Coronavirus, International Travel) (England) (Amendment) (No. 4) Regulations 2021 (S.I. 2021/49)](https://www.legislation.gov.uk/uksi/2021/49), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/49/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2021/49/regulation/3/b)
 
-[^key-00d0375b6fcc94e89051212ff60ab3d9]: Commencement: Reg. 3 in force at 15.1.2021 at 4.00 a.m., see reg. 1(2)
+[^c-00d0375b6fcc94e89051212ff60ab3d9]: Commencement: Reg. 3 in force at 15.1.2021 at 4.00 a.m., see reg. 1(2)
 
 [^c24418061]: Marginal citation: S.I 2020/1644.
 
-[^key-450c2d3d77570c3f2b6df10ff20707e6]: Commencement: Reg. 4(a) in force at 15.1.2021 at 4.00 a.m., see reg. 1(2)
+[^c-450c2d3d77570c3f2b6df10ff20707e6]: Commencement: Reg. 4(a) in force at 15.1.2021 at 4.00 a.m., see reg. 1(2)
 
-[^key-f7382fb0681718ef48d87cfd5ded1eee]: Commencement: Reg. 4(b) in force at 16.1.2021 at 4.00 a.m., see reg. 1(3)
+[^c-f7382fb0681718ef48d87cfd5ded1eee]: Commencement: Reg. 4(b) in force at 16.1.2021 at 4.00 a.m., see reg. 1(3)

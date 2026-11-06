@@ -53,7 +53,7 @@ The Welsh Ministers, in exercise of the powers conferred by paragraph 1(1) of Sc
 
 The requirements of paragraph 4(2) of Schedule 7 to the European Union (Withdrawal) Act 2018 (relating to the appropriate Assembly procedure for these Regulations) have been satisfied.
 
-## 1. Title, commencement and application[^key-b3274fa893dd21fbe2edcaa7531a8a39]
+## 1. Title, commencement and application[^c-b3274fa893dd21fbe2edcaa7531a8a39]
 
 (1) The title of these Regulations is the Fisheries and Marine Management (Amendment) (Wales) (EU Exit) Regulations 2019.
 
@@ -61,11 +61,11 @@ The requirements of paragraph 4(2) of Schedule 7 to the European Union (Withdraw
 
 (3) An amendment made by these Regulations has the same application as the enactment amended.
 
-## 2. The Registration of Fish Buyers and Sellers and Designation of Fish Auction Sites (Wales) Regulations 2006[^key-9c46251656d6149795efa371cb35b90f]
+## 2. The Registration of Fish Buyers and Sellers and Designation of Fish Auction Sites (Wales) Regulations 2006[^c-9c46251656d6149795efa371cb35b90f]
 
 In the Registration of Fish Buyers and Sellers and Designation of Fish Auction Sites (Wales) Regulations 2006 [^c23603311], in regulation 2(1), in the definition of “licenced fishing vessel”, omit “by another Member State or”.
 
-## 3. The Marine Licensing (Exempted Activities) (Wales) Order 2011[^key-9e1cb02c1d7e94d1357524360fcfaba0]
+## 3. The Marine Licensing (Exempted Activities) (Wales) Order 2011[^c-9e1cb02c1d7e94d1357524360fcfaba0]
 
 (1) The Marine Licensing (Exempted Activities) (Wales) Order 2011 [^c23603321] is amended as follows.
 
@@ -107,7 +107,7 @@ In the Registration of Fish Buyers and Sellers and Designation of Fish Auction S
 >   > Paragraph 1 is subject to—
 >   >
 >   > - (a) a determination by the Welsh Ministers under regulation 8(1) of the Hazardous Waste (Wales) Regulations 2005 [^c23603341] that a specific batch of waste is to be treated as hazardous waste;
->   > - (b) a decision made by the Welsh Ministers under regulation 9(1) of the Hazardous Waste (Wales) Regulations 2005[^key-3157d0ce351e0deb0caf6126c1a21244] [^c23603351] that a specific batch of waste is to be treated as non-hazardous waste;
+>   > - (b) a decision made by the Welsh Ministers under regulation 9(1) of the Hazardous Waste (Wales) Regulations 2005[^c-3157d0ce351e0deb0caf6126c1a21244] [^c23603351] that a specific batch of waste is to be treated as non-hazardous waste;
 >   > - (c) the treating of a specific batch of waste as hazardous or, as the case may be, non-hazardous, in accordance with regulation 8(2) or 9(2) of the Hazardous Waste (Wales) Regulations 2005;
 >   > - (d) regulations (if any) made by the Welsh Ministers under section 62A(2) of the Environmental Protection Act 1990 [^c23603361] (lists of waste displaying hazardous properties).
 >
@@ -159,7 +159,7 @@ In the Registration of Fish Buyers and Sellers and Designation of Fish Auction S
 - (a) in sub-paragraph (a), for “(other than Gibraltar) which is not a Member State; and” substitute “ other than the United Kingdom. ”;
 - (b) omit sub-paragraph (b).
 
-## 4. The European Maritime and Fisheries Fund (Grants) (Wales) Regulations 2016[^key-f5d2ff178ae98bf23fc91600994f0575][^key-e79a5568ead04507172b510ae8685412]
+## 4. The European Maritime and Fisheries Fund (Grants) (Wales) Regulations 2016[^c-f5d2ff178ae98bf23fc91600994f0575][^c-e79a5568ead04507172b510ae8685412]
 
 In regulation 2(2) of the European Maritime and Fisheries Fund (Grants) (Wales) Regulations 2016, for “a reference to that instrument as amended from time to time” substitute “, so far as required for the purposes of relevant separation agreement law, a reference to that instrument as it has effect by virtue of section 7A of the European Union (Withdrawal) Act 2018 (including, so far as required, as it has effect from time to time) and “relevant separation agreement law” has the meaning given in section 7C(3) of the European Union (Withdrawal) Act 2018”
 
@@ -181,13 +181,13 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c23603301]: Marginal citation: [2018 c.16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-b3274fa893dd21fbe2edcaa7531a8a39]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-b3274fa893dd21fbe2edcaa7531a8a39]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-9c46251656d6149795efa371cb35b90f]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-9c46251656d6149795efa371cb35b90f]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23603311]: Marginal citation: [S.I. 2006/1495](https://www.legislation.gov.uk/uksi/2006/1495) (W. 145) as amended by [S.I. 2018/1095](https://www.legislation.gov.uk/uksi/2018/1095) (W. 228).
 
-[^key-9e1cb02c1d7e94d1357524360fcfaba0]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-9e1cb02c1d7e94d1357524360fcfaba0]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23603321]: Marginal citation: [S.I. 2011/559](https://www.legislation.gov.uk/uksi/2011/559) (W. 81) as amended by [S.I. 2013/414](https://www.legislation.gov.uk/uksi/2013/414) (W. 50), [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755) (W. 90), [S.I. 2016/690](https://www.legislation.gov.uk/uksi/2016/690) (W. 188), [S.I. 2017/1012](https://www.legislation.gov.uk/uksi/2017/1012), [S.I](https://www.legislation.gov.uk/uksi/2017/1012/section/I). 2017/1013, [S.I. 2018/724](https://www.legislation.gov.uk/uksi/2018/724) (W. 141), and by the [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4).
 
@@ -195,7 +195,7 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c23603341]: Marginal citation: [S.I. 2005/1806](https://www.legislation.gov.uk/uksi/2005/1806) (W. 183).
 
-[^key-3157d0ce351e0deb0caf6126c1a21244]: Textual amendment: Words in reg. 3(2) substituted (31.12.2020 immediately before IP completion day) by [The Fisheries and Marine Management (Amendment) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1249)](https://www.legislation.gov.uk/wsi/2020/1249), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1249/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2020/1249/regulation/3)
+[^c-3157d0ce351e0deb0caf6126c1a21244]: Textual amendment: Words in reg. 3(2) substituted (31.12.2020 immediately before IP completion day) by [The Fisheries and Marine Management (Amendment) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1249)](https://www.legislation.gov.uk/wsi/2020/1249), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1249/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2020/1249/regulation/3)
 
 [^c23603351]: Marginal citation: [S.I. 2005/894](https://www.legislation.gov.uk/uksi/2005/894).
 
@@ -205,6 +205,6 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c23603381]: Marginal citation: [S.I. 2017/407](https://www.legislation.gov.uk/uksi/2017/407), to which there are amendments not relevant to these Regulations.
 
-[^key-f5d2ff178ae98bf23fc91600994f0575]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-f5d2ff178ae98bf23fc91600994f0575]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-e79a5568ead04507172b510ae8685412]: Textual amendment: Reg. 4 substituted (31.12.2020 immediately before IP completion day) by [The Fisheries and Marine Management (Amendment) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1249)](https://www.legislation.gov.uk/wsi/2020/1249), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1249/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2020/1249/regulation/4)
+[^c-e79a5568ead04507172b510ae8685412]: Textual amendment: Reg. 4 substituted (31.12.2020 immediately before IP completion day) by [The Fisheries and Marine Management (Amendment) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1249)](https://www.legislation.gov.uk/wsi/2020/1249), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1249/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2020/1249/regulation/4)

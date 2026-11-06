@@ -28,9 +28,9 @@ summary: ''
   - (ii) the amount held in the late payment fund on 31st October in that period (excluding from that amount any interest paid pursuant to article 44(3));
 - (b) the amount referred to in this sub-paragraph is what the amount referred to in sub-paragraph (a) would have been if, on 31st October in the settlement period, each designated electricity supplier which, at the end of the late payment period, has not (and is not treated as having) discharged its renewables obligation in full were to pay to the Authority the amount notified to it by the Authority under article 44(1).
 
-(3)[^key-e41f2f7241120f2471acb201af57d3b9] A shortfall in relation to a relevant period is a relevant shortfall if it is equal to, or in excess of, the mutualisation threshold for that period.
+(3)[^c-e41f2f7241120f2471acb201af57d3b9] A shortfall in relation to a relevant period is a relevant shortfall if it is equal to, or in excess of, the mutualisation threshold for that period.
 
-(3A)[^key-78b6547df338668a328b87c08741b71c] The mutualisation threshold for a relevant period is determined as 0.1% of A x B, rounded to the nearest £100,000 with £50,000 being rounded upwards, where—
+(3A)[^c-78b6547df338668a328b87c08741b71c] The mutualisation threshold for a relevant period is determined as 0.1% of A x B, rounded to the nearest £100,000 with £50,000 being rounded upwards, where—
 
 - (a) A is the total obligation for the relevant period determined under article 11,
 - (b) B is the buy-out price for the relevant period referred to in article 43(4).
@@ -55,18 +55,18 @@ c F is the total number of renewables obligation certificates produced by United
 
 (8) The mutualisation cap for the relevant period depends on which obligation period constitutes the relevant period and is–
 
-- (a) for the relevant period commencing on 1st April 2009, £22,400,000; [^key-04db9ed8f1e0d2d51bb12ba8a112fc65]...
-- (b) for each subsequent obligation period up to and including the obligation period starting on 1 April 2025[^key-df464c35546b6da50eb44470d3a94f56], the mutualisation cap for the previous obligation period increased or, as the case may be, decreased by the percentage increase or decrease in the retail prices index over the 12 month period ending on the 31st December in the previous obligation period (the resulting figure being rounded to the nearest penny, with any half of a penny being rounded upwards);
-- (c)[^key-d5faab2523ab90d8483faeabc445ca67] for each obligation period thereafter, the mutualisation cap for the previous obligation period increased or, as the case may be, decreased by the percentage increase or decrease in the consumer prices index over the 12 month period ending on 31 December in the previous obligation period (the resulting figure being rounded to the nearest penny, with any half of a penny being rounded upwards).
+- (a) for the relevant period commencing on 1st April 2009, £22,400,000; [^c-04db9ed8f1e0d2d51bb12ba8a112fc65]...
+- (b) for each subsequent obligation period up to and including the obligation period starting on 1 April 2025[^c-df464c35546b6da50eb44470d3a94f56], the mutualisation cap for the previous obligation period increased or, as the case may be, decreased by the percentage increase or decrease in the retail prices index over the 12 month period ending on the 31st December in the previous obligation period (the resulting figure being rounded to the nearest penny, with any half of a penny being rounded upwards);
+- (c)[^c-d5faab2523ab90d8483faeabc445ca67] for each obligation period thereafter, the mutualisation cap for the previous obligation period increased or, as the case may be, decreased by the percentage increase or decrease in the consumer prices index over the 12 month period ending on 31 December in the previous obligation period (the resulting figure being rounded to the nearest penny, with any half of a penny being rounded upwards).
 
 ## Annotations
 
-[^key-e41f2f7241120f2471acb201af57d3b9]: Textual amendment: Art. 48(3) substituted (31.3.2023) by [The Renewables Obligation (Scotland) Amendment Order 2023 (S.S.I. 2023/103)](https://www.legislation.gov.uk/ssi/2023/103), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2023/103/article/1/1), [3(2)](https://www.legislation.gov.uk/ssi/2023/103/article/3/2)
+[^c-e41f2f7241120f2471acb201af57d3b9]: Textual amendment: Art. 48(3) substituted (31.3.2023) by [The Renewables Obligation (Scotland) Amendment Order 2023 (S.S.I. 2023/103)](https://www.legislation.gov.uk/ssi/2023/103), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2023/103/article/1/1), [3(2)](https://www.legislation.gov.uk/ssi/2023/103/article/3/2)
 
-[^key-78b6547df338668a328b87c08741b71c]: Textual amendment: Art. 48(3A) inserted (31.3.2023) by [The Renewables Obligation (Scotland) Amendment Order 2023 (S.S.I. 2023/103)](https://www.legislation.gov.uk/ssi/2023/103), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2023/103/article/1/1), [3(3)](https://www.legislation.gov.uk/ssi/2023/103/article/3/3)
+[^c-78b6547df338668a328b87c08741b71c]: Textual amendment: Art. 48(3A) inserted (31.3.2023) by [The Renewables Obligation (Scotland) Amendment Order 2023 (S.S.I. 2023/103)](https://www.legislation.gov.uk/ssi/2023/103), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2023/103/article/1/1), [3(3)](https://www.legislation.gov.uk/ssi/2023/103/article/3/3)
 
-[^key-04db9ed8f1e0d2d51bb12ba8a112fc65]: Textual amendment: Word in art. 48(8) omitted (1.4.2026) by virtue of [The Renewables Obligation (Scotland) Amendment Order 2026 (S.S.I. 2026/160)](https://www.legislation.gov.uk/ssi/2026/160), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2026/160/article/1/1), [5(a)](https://www.legislation.gov.uk/ssi/2026/160/article/5/a)
+[^c-04db9ed8f1e0d2d51bb12ba8a112fc65]: Textual amendment: Word in art. 48(8) omitted (1.4.2026) by virtue of [The Renewables Obligation (Scotland) Amendment Order 2026 (S.S.I. 2026/160)](https://www.legislation.gov.uk/ssi/2026/160), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2026/160/article/1/1), [5(a)](https://www.legislation.gov.uk/ssi/2026/160/article/5/a)
 
-[^key-df464c35546b6da50eb44470d3a94f56]: Textual amendment: Words in art. 48(8)(b) substituted (1.4.2026) by [The Renewables Obligation (Scotland) Amendment Order 2026 (S.S.I. 2026/160)](https://www.legislation.gov.uk/ssi/2026/160), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2026/160/article/1/1), [5(b)](https://www.legislation.gov.uk/ssi/2026/160/article/5/b)
+[^c-df464c35546b6da50eb44470d3a94f56]: Textual amendment: Words in art. 48(8)(b) substituted (1.4.2026) by [The Renewables Obligation (Scotland) Amendment Order 2026 (S.S.I. 2026/160)](https://www.legislation.gov.uk/ssi/2026/160), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2026/160/article/1/1), [5(b)](https://www.legislation.gov.uk/ssi/2026/160/article/5/b)
 
-[^key-d5faab2523ab90d8483faeabc445ca67]: Textual amendment: Art. 48(8)(c) inserted (1.4.2026) by [The Renewables Obligation (Scotland) Amendment Order 2026 (S.S.I. 2026/160)](https://www.legislation.gov.uk/ssi/2026/160), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2026/160/article/1/1), [5(c)](https://www.legislation.gov.uk/ssi/2026/160/article/5/c)
+[^c-d5faab2523ab90d8483faeabc445ca67]: Textual amendment: Art. 48(8)(c) inserted (1.4.2026) by [The Renewables Obligation (Scotland) Amendment Order 2026 (S.S.I. 2026/160)](https://www.legislation.gov.uk/ssi/2026/160), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2026/160/article/1/1), [5(c)](https://www.legislation.gov.uk/ssi/2026/160/article/5/c)

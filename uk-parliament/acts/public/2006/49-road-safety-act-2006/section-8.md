@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Driving record[^key-82ca864398e4ff96904000e349fb0bd0]
+## 8. Driving record[^c-82ca864398e4ff96904000e349fb0bd0]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ In the Road Traffic Offenders Act 1988 (c. 53), after section 97 insert—
 
 ## Annotations
 
-[^key-82ca864398e4ff96904000e349fb0bd0]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2006/49/section/8) in force at 1.4.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 4(a)](https://www.legislation.gov.uk/uksi/2008/3164/article/4/a)
+[^c-82ca864398e4ff96904000e349fb0bd0]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2006/49/section/8) in force at 1.4.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 4(a)](https://www.legislation.gov.uk/uksi/2008/3164/article/4/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105Z25. Requirement not to disclose[^key-cb444f8df7e2deb81153fdcb956ed70e]
+## 105Z25. Requirement not to disclose[^c-cb444f8df7e2deb81153fdcb956ed70e]
 
 *Extent: E+W+S+N.I.*
 
@@ -88,4 +88,4 @@ without the permission of the Secretary of State.
 
 ## Annotations
 
-[^key-cb444f8df7e2deb81153fdcb956ed70e]: Textual amendment: [Ss. 105Z25](https://www.legislation.gov.uk/ukpga/2003/21/section/105Z25), [105Z26](https://www.legislation.gov.uk/ukpga/2003/21/section/105Z26) inserted (17.11.2021) by [Telecommunications (Security) Act 2021 (c. 31)](https://www.legislation.gov.uk/ukpga/2021/31), [ss. 22](https://www.legislation.gov.uk/ukpga/2021/31/section/22), [28(1)(c)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/1/c)
+[^c-cb444f8df7e2deb81153fdcb956ed70e]: Textual amendment: [Ss. 105Z25](https://www.legislation.gov.uk/ukpga/2003/21/section/105Z25), [105Z26](https://www.legislation.gov.uk/ukpga/2003/21/section/105Z26) inserted (17.11.2021) by [Telecommunications (Security) Act 2021 (c. 31)](https://www.legislation.gov.uk/ukpga/2021/31), [ss. 22](https://www.legislation.gov.uk/ukpga/2021/31/section/22), [28(1)(c)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/1/c)

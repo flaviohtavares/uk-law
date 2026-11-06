@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Additional information to be recorded during the year[^key-702c911305893bb27d85e429ff6a385c]
+## 7. Additional information to be recorded during the year[^c-702c911305893bb27d85e429ff6a385c]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-702c911305893bb27d85e429ff6a385c]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2021/77/regulation/7) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)
+[^c-702c911305893bb27d85e429ff6a385c]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2021/77/regulation/7) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 31. Rights of eligible depositor and set-off[^key-d8ba7b386dc9bb4ef59fead645f3c54f]
+## 31. Rights of eligible depositor and set-off[^c-d8ba7b386dc9bb4ef59fead645f3c54f]
 
 *Extent: S*
 
-(1) This rule applies if the appropriate regulator’s rules[^key-84fc5ba99a8891fbb2a94d27cc3f349c] allow the FSCS to make gross payments of compensation.
+(1) This rule applies if the appropriate regulator’s rules[^c-84fc5ba99a8891fbb2a94d27cc3f349c] allow the FSCS to make gross payments of compensation.
 
 (2) In respect of protected deposits, in determining the sums due from the building society to an eligible depositor for the purpose of any right or claim of set-off available to the building society against the eligible depositor—
 
@@ -43,8 +43,8 @@ summary: ''
 
 ## Annotations
 
-[^key-d8ba7b386dc9bb4ef59fead645f3c54f]: Commencement: Rule 31 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-d8ba7b386dc9bb4ef59fead645f3c54f]: Commencement: Rule 31 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
 
-[^key-84fc5ba99a8891fbb2a94d27cc3f349c]: Textual amendment: Words in [rule 31(1)](https://www.legislation.gov.uk/uksi/2010/2584/rule/31/1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 192(3)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/192/3)
+[^c-84fc5ba99a8891fbb2a94d27cc3f349c]: Textual amendment: Words in [rule 31(1)](https://www.legislation.gov.uk/uksi/2010/2584/rule/31/1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 192(3)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/192/3)
 
 [^f00020]: Footnote: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8).

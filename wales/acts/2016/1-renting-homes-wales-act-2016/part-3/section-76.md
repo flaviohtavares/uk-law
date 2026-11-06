@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 76. Reserve successor: family member[^key-533d0ac0b0411667bf165d3aafb82a51]
+## 76. Reserve successor: family member[^c-533d0ac0b0411667bf165d3aafb82a51]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-533d0ac0b0411667bf165d3aafb82a51]: Commencement: [S. 76](https://www.legislation.gov.uk/anaw/2016/1/section/76) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-533d0ac0b0411667bf165d3aafb82a51]: Commencement: [S. 76](https://www.legislation.gov.uk/anaw/2016/1/section/76) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

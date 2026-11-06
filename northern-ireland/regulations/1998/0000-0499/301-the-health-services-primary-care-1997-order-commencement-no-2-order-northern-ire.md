@@ -36,19 +36,19 @@ Made
 
 The Department of Health and Social Services, in exercise of the powers conferred on it by Article 1(2) of the Health Services (Primary Care) (Northern Ireland) Order 1997[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Order:
 
-## 1. Citation and interpretation[^key-956ff51e75900adb6d761701779150f9]
+## 1. Citation and interpretation[^c-956ff51e75900adb6d761701779150f9]
 
 (1) This Order may be cited as the Health Services (Primary Care) (1997 Order) (Commencement No. 2) Order (Northern Ireland) 1998.
 
 (2) In this Order “the 1997 Order” means the Health Services (Primary Care) (Northern Ireland) Order 1997.
 
-## 2. Appointed day[^key-c1ed57f1887490d296b0814a8cd95f4a]
+## 2. Appointed day[^c-c1ed57f1887490d296b0814a8cd95f4a]
 
 (1) The day appointed for the coming into operation of the provisions of the 1997 Order specified in column (1) of Schedule 1 to this Order (the subject matter of each provision being set out in column (2) of that Schedule), is 1st April 1999.
 
 (2) The day appointed for the coming into operation of the provisions of the 1997 Order specified in column (1) of Schedule 2 to this Order is the date specified in column (2) of that Schedule.
 
-## 3. References to certain terms[^key-ae5248ede1bee99346849d9efb1c096f]
+## 3. References to certain terms[^c-ae5248ede1bee99346849d9efb1c096f]
 
 (1) Paragraph (2) applies to a provision of—
 
@@ -57,9 +57,9 @@ The Department of Health and Social Services, in exercise of the powers conferre
 
 (2) Where a statutory provision to which this paragraph applies refers to arrangements made under Article 15B of the 1972 Order (however the reference is worded) such a reference is to be taken as referring only to a pilot scheme under Part II of the 1997 Order and the purpose of bringing the provision of the 1997 Order in question into operation is limited accordingly.
 
-(3)[^key-d589897529ea87c3f8f66b73702822a5] Where section 53(3)(a)(iii) of the Dentists Act 1984, as amended by the provisions of Schedule 2 to the 1997 Order, and brought into operation by Schedule 2 to this Order, refers to services under Article 15B of the Health and Personal Social Services (Northern Ireland) Order 1972, such a reference is to be taken as referring only to a pilot scheme under Part II of the 1997 Order under which personal dental services are to be provided, and the purpose of bringing that provision of the 1997 Order into operation is limited accordingly.
+(3)[^c-d589897529ea87c3f8f66b73702822a5] Where section 53(3)(a)(iii) of the Dentists Act 1984, as amended by the provisions of Schedule 2 to the 1997 Order, and brought into operation by Schedule 2 to this Order, refers to services under Article 15B of the Health and Personal Social Services (Northern Ireland) Order 1972, such a reference is to be taken as referring only to a pilot scheme under Part II of the 1997 Order under which personal dental services are to be provided, and the purpose of bringing that provision of the 1997 Order into operation is limited accordingly.
 
-## 4. Revocation[^key-66e2320902b6057594884c1085f3cb53]
+## 4. Revocation[^c-66e2320902b6057594884c1085f3cb53]
 
 In the Schedule to the Health Services (Primary Care) (1997 Order) (Commencement No. 1) Order (Northern Ireland) 1997[^f00002], the entry in columns (1) and (2) relating to Schedule 2 to the 1997 Order (amendments to Articles 63(1) and 64(2) of the 1972 Order) is hereby deleted.
 
@@ -71,7 +71,7 @@ Assistant Secretary
 
 21st August 1998.
 
-## SCHEDULE 1 — Provisions of the 1997 Order coming into operation on 1st April 1999[^key-a7ac8e332524d8bf1bd2ece267138401]
+## SCHEDULE 1 — Provisions of the 1997 Order coming into operation on 1st April 1999[^c-a7ac8e332524d8bf1bd2ece267138401]
 
 Article 2(1)
 
@@ -90,7 +90,7 @@ Article 2(1)
 | Article 32(2) and Schedule 3 | Repeals |
 | Schedule 1 | Preferential treatment on transferring to medical lists |
 
-## SCHEDULE 2[^key-869859feef95e94f51c16dcb89561150]
+## SCHEDULE 2[^c-869859feef95e94f51c16dcb89561150]
 
 Article 2(2)
 
@@ -157,20 +157,20 @@ The following provisions of the 1997 Order have been brought into operation by t
 
 [^f00001]: Footnote: [S.I. 1997/1177 (N.I. 7)](https://www.legislation.gov.uk/nisi/1997/1177)
 
-[^key-956ff51e75900adb6d761701779150f9]: Commencement: Art. 1 in operation at made date
+[^c-956ff51e75900adb6d761701779150f9]: Commencement: Art. 1 in operation at made date
 
-[^key-c1ed57f1887490d296b0814a8cd95f4a]: Commencement: Art. 2 in operation at made date
+[^c-c1ed57f1887490d296b0814a8cd95f4a]: Commencement: Art. 2 in operation at made date
 
-[^key-ae5248ede1bee99346849d9efb1c096f]: Commencement: Art. 3 in operation at made date
+[^c-ae5248ede1bee99346849d9efb1c096f]: Commencement: Art. 3 in operation at made date
 
-[^key-d589897529ea87c3f8f66b73702822a5]: Textual amendment: [Art. 3(3)](https://www.legislation.gov.uk/nisr/1998/301/article/3/3) inserted (19.2.1999) by [The Health Services (Primary Care) (1997 Order) (Commencement No. 3) Order (Northern Ireland) 1999 (S.R. 1999/71)](https://www.legislation.gov.uk/nisr/1999/71), [art. 2](https://www.legislation.gov.uk/nisr/1999/71/article/2)
+[^c-d589897529ea87c3f8f66b73702822a5]: Textual amendment: [Art. 3(3)](https://www.legislation.gov.uk/nisr/1998/301/article/3/3) inserted (19.2.1999) by [The Health Services (Primary Care) (1997 Order) (Commencement No. 3) Order (Northern Ireland) 1999 (S.R. 1999/71)](https://www.legislation.gov.uk/nisr/1999/71), [art. 2](https://www.legislation.gov.uk/nisr/1999/71/article/2)
 
-[^key-66e2320902b6057594884c1085f3cb53]: Commencement: Art. 4 in operation at made date
+[^c-66e2320902b6057594884c1085f3cb53]: Commencement: Art. 4 in operation at made date
 
 [^f00002]: Footnote: [S.R. 1997 No. 524 (C. 31)](https://www.legislation.gov.uk/nisr/1997/524)
 
-[^key-a7ac8e332524d8bf1bd2ece267138401]: Commencement: Sch. 1 in operation at made date
+[^c-a7ac8e332524d8bf1bd2ece267138401]: Commencement: Sch. 1 in operation at made date
 
-[^key-869859feef95e94f51c16dcb89561150]: Commencement: Sch. 2 in operation at made date
+[^c-869859feef95e94f51c16dcb89561150]: Commencement: Sch. 2 in operation at made date
 
 [^f00003]: Footnote: [S.I. 1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194)

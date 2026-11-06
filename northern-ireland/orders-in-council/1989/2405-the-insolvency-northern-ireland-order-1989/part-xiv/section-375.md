@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 375. Admissibility in evidence of statements of affairs, etc.[^c21871381][^c21871391][^key-47e959342e09e898f9c2e095a74d0bfa]
+## 375. Admissibility in evidence of statements of affairs, etc.[^c21871381][^c21871391][^c-47e959342e09e898f9c2e095a74d0bfa]
 
 *Extent: N.I.*
 
@@ -53,7 +53,7 @@ by or on behalf of the prosecution, unless evidence relating to it is adduced, o
 
 [^c21871391]: Textual amendment: "By [Banking Act 2009 (c. 1)](https://www.legislation.gov.uk/ukpga/2009/1), [ss. 162](https://www.legislation.gov.uk/ukpga/2009/1/section/162), [167](https://www.legislation.gov.uk/ukpga/2009/1/section/167), [263(1)](https://www.legislation.gov.uk/ukpga/2009/1/section/263/1) (with [s. 247](https://www.legislation.gov.uk/ukpga/2009/1/section/247)); [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2009/296/schedule) it is provided that [art. 375](https://www.legislation.gov.uk/nisi/1989/2405/article/375) is amended (17.2.2009 for certain purposes, otherwise 21.2.2009) (art. 375 being the equivalent enactment having effect in relation to Northern Ireland to s. 433 of the [Insolvency Act 1986 (c. 45)](https://www.legislation.gov.uk/ukpga/1986/45))"
 
-[^key-47e959342e09e898f9c2e095a74d0bfa]: Modification: [Art. 375](https://www.legislation.gov.uk/nisi/1989/2405/article/375) applied (with modifications) (4.1.2024) by [S.I. 2021/716](https://www.legislation.gov.uk/uksi/2021/716), [reg. 37A](https://www.legislation.gov.uk/uksi/2021/716/regulation/37A) (as inserted by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2023/1399/regulation/12))
+[^c-47e959342e09e898f9c2e095a74d0bfa]: Modification: [Art. 375](https://www.legislation.gov.uk/nisi/1989/2405/article/375) applied (with modifications) (4.1.2024) by [S.I. 2021/716](https://www.legislation.gov.uk/uksi/2021/716), [reg. 37A](https://www.legislation.gov.uk/uksi/2021/716/regulation/37A) (as inserted by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2023/1399/regulation/12))
 
 [^c17603661]: Textual amendment: [1999 c. 23](https://www.legislation.gov.uk/ukpga/1999/23)
 

@@ -28,7 +28,7 @@ Sections 12, 13.
 - (b) that the tenant has failed to comply with any term of the tenancy as to payment of rent or rates or as to insuring or keeping insured any premises;
 - (c) that the tenant or a person residing or lodging with him or being his sub-tenant has been guilty of conduct which is a nuisance or annoyance to adjoining occupiers, or has been convicted of using any premises comprised in the tenancy or allowing such premises to be used for an immoral or illegal purpose and, where the person in question is a lodger or sub-tenant, that the tenant has not taken such steps as he ought reasonably to have taken for the removal of the lodger or sub-tenant;
 - (d) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c319129]
-- (e) that premises comprised in the tenancy, and consisting of or including the relevant premises, are reasonably required by the landlord for occupation as a residence for—[^key-aee3a9aeebe041ec896d2dfb53d5992b]
+- (e) that premises comprised in the tenancy, and consisting of or including the relevant premises, are reasonably required by the landlord for occupation as a residence for—[^c-aee3a9aeebe041ec896d2dfb53d5992b]
   - (i) himself,
   - (ii) any son or daughter of his over eighteen years of age,
   - (iii) his father or mother, or
@@ -47,7 +47,7 @@ Provided that the court shall not make an order under section thirteen of this A
 
 [^c319129]: Textual amendment: Para. 1(d) repealed [Leasehold Reform Act 1967 (c. 88)](https://www.legislation.gov.uk/ukpga/1967/88), [Sch. 5](https://www.legislation.gov.uk/ukpga/1967/88/schedule/5), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/ukpga/1967/88/schedule/7/part/1)
 
-[^key-aee3a9aeebe041ec896d2dfb53d5992b]: Textual amendment: Words in Sch. 3 para. 1(e) substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/2), [Sch. 8 para. 2](https://www.legislation.gov.uk/ukpga/2004/33/schedule/8/paragraph/2); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+[^c-aee3a9aeebe041ec896d2dfb53d5992b]: Textual amendment: Words in Sch. 3 para. 1(e) substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/2), [Sch. 8 para. 2](https://www.legislation.gov.uk/ukpga/2004/33/schedule/8/paragraph/2); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
 
 [^c319131]: Textual amendment: Words substituted by [Leasehold Reform Act 1967 (c. 88)](https://www.legislation.gov.uk/ukpga/1967/88), [s. 39(2)](https://www.legislation.gov.uk/ukpga/1967/88/section/39/2), [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/1967/88/schedule/5/paragraph/1)
 

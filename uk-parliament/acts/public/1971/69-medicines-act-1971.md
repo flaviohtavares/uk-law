@@ -33,9 +33,9 @@ An Act to make further provision as to the fees payable for the purposes of Part
 
 \[5th August 1971\] [^c818787][^c818788]
 
-## 1. Fees.[^c818814][^c818815][^key-3645e92e283d832b98a5f57e40dbf589][^c818813]
+## 1. Fees.[^c818814][^c818815][^c-3645e92e283d832b98a5f57e40dbf589][^c818813]
 
-(1)[^c818816][^c818817][^key-f8ec9bfe762d7b9df2d98ba968a13956][^key-eb2eef55631de3340c0a07e673d57288] The Ministers may with the consent of the Treasury make regulations providing—
+(1)[^c818816][^c818817][^c-f8ec9bfe762d7b9df2d98ba968a13956][^c-eb2eef55631de3340c0a07e673d57288] The Ministers may with the consent of the Treasury make regulations providing—
 
 - (a) for the payment and recovery of such fees as are prescribed by the regulations in connection with any application in pursuance of the [^c818818]Medicines Act 1968 (hereafter in this Act referred to as “**the principal Act**”) for a licence, certificate or direction under Part II of that Act or for the variation or renewal of such a licence or certificate;
 - (aa)[^c818819] for the payment and recovery of such fees as are prescribed by the regulations in respect of inspections made—
@@ -58,7 +58,7 @@ and the regulations may include provision in respect of any such application mad
 
 - “ **medicinal product** ” includes—
   - (a) any article or substance in relation to which provisions of Part II of the principal Act have effect by virtue of an order under section 104 or 105 of that Act;
-  - (b) [^key-3b49b127b5d83bcbc53102a6998c92c4]...
+  - (b) [^c-3b49b127b5d83bcbc53102a6998c92c4]...
 - “ **United Kingdom turnover** ” means the value, as determined under the regulations, of the aggregate of all quantities of a medicinal product, other than quantities which the regulations direct to be excluded from the calculation, which, during a period specified in the regulations—
   - (a) in the case of a product licence, are sold or supplied in the United Kingdom by the holder of the licence or such other person as may be prescribed by the regulations;
   - (b) in the case of a manufacturer’s licence, are manufactured or assembled by the holder of the licence in the United Kingdom;
@@ -67,11 +67,11 @@ and the regulations may include provision in respect of any such application mad
 (2)[^c818816][^c818817] The Ministers may also make regulations—
 
 - (a) providing that subsection (5) or subsection (6) of section 27 of the principal Act (which among other things provides, in connection with an application for a licence of right, that that Act shall have effect in certain circumstances as if the licence had been granted), or either of those subsections as applied by any other provision of the principal Act, shall not apply in relation to an application while there remains unpaid a sum due by way of or on account of a fee payable by virtue of this section in respect of the application;
-- (b)[^key-0776447862001fc800ffeaed52bb076c] providing for the suspension of any licence or certificate under Part II of the principal Act while there remains unpaid a sum due by way of or on account of a fee payable by virtue of this section in respect of the licence or certificate.
+- (b)[^c-0776447862001fc800ffeaed52bb076c] providing for the suspension of any licence or certificate under Part II of the principal Act while there remains unpaid a sum due by way of or on account of a fee payable by virtue of this section in respect of the licence or certificate.
 
-(2A)[^key-910b3acbe6ddc064b670bc9b4b3254b8] In subsections (1) and (2)(b) above, any reference to a licence under Part II of the principal Act shall be taken to include a reference to a manufacturing authorisation under the Medicines for Human Use (Clinical Trials) Regulations 2004.
+(2A)[^c-910b3acbe6ddc064b670bc9b4b3254b8] In subsections (1) and (2)(b) above, any reference to a licence under Part II of the principal Act shall be taken to include a reference to a manufacturing authorisation under the Medicines for Human Use (Clinical Trials) Regulations 2004.
 
-(3) Expressions used in this section and the principal Act (as amended) have the same meanings in this section as in that Act (as amended)[^key-018de642d23ce25d00568fcd83b630de]; and the following provisions of that Act, that is to say—
+(3) Expressions used in this section and the principal Act (as amended) have the same meanings in this section as in that Act (as amended)[^c-018de642d23ce25d00568fcd83b630de]; and the following provisions of that Act, that is to say—
 
 - (a) subsections (1), (6) and (7) of section 128 (which among other things provide for the payment, out of money provided by Parliament and into the Consolidated Fund respectively, of the expenses and receipts of the Ministers in consequence of that Act);
 - (b) subsections (2), (3)(c), (5) and (6) of section 129 (which provide for regulations under that Act to be subject to annulment and contain other supplementary provisions relating to such regulations); and
@@ -99,7 +99,7 @@ shall have effect as if any reference to that Act (except the second reference i
 
 [^c818815]: Modification: S. 1 applied (with modifications) (1.1.1995) by [S.I. 1994/3144](https://www.legislation.gov.uk/uksi/1994/3144), [reg.9(12)](https://www.legislation.gov.uk/uksi/1994/3144/regulation/9/12)
 
-[^key-3645e92e283d832b98a5f57e40dbf589]: Modification: S. 1 amendment to earlier affecting provision SI 1994/3144 reg. 9 (30.10.2005) by [Medicines (Marketing Authorisations Etc.) Amendment Regulations 2005 (S.I. 2005/2759)](https://www.legislation.gov.uk/uksi/2005/2759), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2005/2759/regulation/1/a), [2(12)](https://www.legislation.gov.uk/uksi/2005/2759/regulation/2/12)
+[^c-3645e92e283d832b98a5f57e40dbf589]: Modification: S. 1 amendment to earlier affecting provision SI 1994/3144 reg. 9 (30.10.2005) by [Medicines (Marketing Authorisations Etc.) Amendment Regulations 2005 (S.I. 2005/2759)](https://www.legislation.gov.uk/uksi/2005/2759), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2005/2759/regulation/1/a), [2(12)](https://www.legislation.gov.uk/uksi/2005/2759/regulation/2/12)
 
 [^c818813]: Modification: Functions exercisable under this Act by Ministers jointly transferred to those Ministers and Secretary of State for Wales jointly: [S.I. 1978/272](https://www.legislation.gov.uk/uksi/1978/272), [art. 2(3)](https://www.legislation.gov.uk/uksi/1978/272/article/2/3), [Sch. 1](https://www.legislation.gov.uk/uksi/1978/272/schedule/1)
 
@@ -109,9 +109,9 @@ shall have effect as if any reference to that Act (except the second reference i
 
 [^c818817]: Subordinate legislation: S. 1(1)(2): S. 1(1)(2) power exercised by [S.I. 1991/2063](https://www.legislation.gov.uk/uksi/1991/2063)
 
-[^key-f8ec9bfe762d7b9df2d98ba968a13956]: Modification: S. 1(1) modified (30.10.2005) by [Medicines (Traditional Herbal Medicinal Products for Human Use) Regulations 2005 (S.I. 2005/2750)](https://www.legislation.gov.uk/uksi/2005/2750), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2005/2750/regulation/1/a), [10(6)](https://www.legislation.gov.uk/uksi/2005/2750/regulation/10/6) (with [Sch. 6](https://www.legislation.gov.uk/uksi/2005/2750/schedule/6))
+[^c-f8ec9bfe762d7b9df2d98ba968a13956]: Modification: S. 1(1) modified (30.10.2005) by [Medicines (Traditional Herbal Medicinal Products for Human Use) Regulations 2005 (S.I. 2005/2750)](https://www.legislation.gov.uk/uksi/2005/2750), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2005/2750/regulation/1/a), [10(6)](https://www.legislation.gov.uk/uksi/2005/2750/regulation/10/6) (with [Sch. 6](https://www.legislation.gov.uk/uksi/2005/2750/schedule/6))
 
-[^key-eb2eef55631de3340c0a07e673d57288]: Modification: [S. 1(1)](https://www.legislation.gov.uk/ukpga/1971/69/section/1/1) modified (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 36(2)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/36/2)[Sch. 34 para. 36(3)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/36/3) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
+[^c-eb2eef55631de3340c0a07e673d57288]: Modification: [S. 1(1)](https://www.legislation.gov.uk/ukpga/1971/69/section/1/1) modified (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 36(2)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/36/2)[Sch. 34 para. 36(3)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/36/3) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
 
 [^c818818]: Marginal citation: [1968 c. 67](https://www.legislation.gov.uk/ukpga/1968/67).
 
@@ -121,10 +121,10 @@ shall have effect as if any reference to that Act (except the second reference i
 
 [^c818821]: Textual amendment: S. 1(1A) inserted by [Health and Medicines Act 1988 (c. 49, SIF 113:2, 84)](https://www.legislation.gov.uk/ukpga/1988/49), [s. 21(3)](https://www.legislation.gov.uk/ukpga/1988/49/section/21/3)
 
-[^key-3b49b127b5d83bcbc53102a6998c92c4]: Textual amendment: Words in s. 1(1A) omitted (1.10.2006) by virtue of [The Veterinary Medicines Regulations 2006 (S.I. 2006/2407)](https://www.legislation.gov.uk/uksi/2006/2407), [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1), [Sch. 8 para. 70](https://www.legislation.gov.uk/uksi/2006/2407/schedule/8/paragraph/70) (with [regs. 2(4)](https://www.legislation.gov.uk/uksi/2006/2407/regulation/2/4), [3](https://www.legislation.gov.uk/uksi/2006/2407/regulation/3))
+[^c-3b49b127b5d83bcbc53102a6998c92c4]: Textual amendment: Words in s. 1(1A) omitted (1.10.2006) by virtue of [The Veterinary Medicines Regulations 2006 (S.I. 2006/2407)](https://www.legislation.gov.uk/uksi/2006/2407), [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1), [Sch. 8 para. 70](https://www.legislation.gov.uk/uksi/2006/2407/schedule/8/paragraph/70) (with [regs. 2(4)](https://www.legislation.gov.uk/uksi/2006/2407/regulation/2/4), [3](https://www.legislation.gov.uk/uksi/2006/2407/regulation/3))
 
-[^key-0776447862001fc800ffeaed52bb076c]: Modification: [S. 1(2)(b)](https://www.legislation.gov.uk/ukpga/1971/69/section/1/2/b) modified (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 36(2)(b)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/36/2/b) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
+[^c-0776447862001fc800ffeaed52bb076c]: Modification: [S. 1(2)(b)](https://www.legislation.gov.uk/ukpga/1971/69/section/1/2/b) modified (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 36(2)(b)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/36/2/b) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
 
-[^key-910b3acbe6ddc064b670bc9b4b3254b8]: Textual amendment: S. 1(2A) inserted (1.5.2004) by [Medicines for Human Use (Clinical Trials) Regulations 2004 (S.I. 2004/1031)](https://www.legislation.gov.uk/uksi/2004/1031), [reg. 1](https://www.legislation.gov.uk/uksi/2004/1031/regulation/1), [Sch. 10 para. 20](https://www.legislation.gov.uk/uksi/2004/1031/schedule/10/paragraph/20)
+[^c-910b3acbe6ddc064b670bc9b4b3254b8]: Textual amendment: S. 1(2A) inserted (1.5.2004) by [Medicines for Human Use (Clinical Trials) Regulations 2004 (S.I. 2004/1031)](https://www.legislation.gov.uk/uksi/2004/1031), [reg. 1](https://www.legislation.gov.uk/uksi/2004/1031/regulation/1), [Sch. 10 para. 20](https://www.legislation.gov.uk/uksi/2004/1031/schedule/10/paragraph/20)
 
-[^key-018de642d23ce25d00568fcd83b630de]: Textual amendment: Words in [s. 1(3)](https://www.legislation.gov.uk/ukpga/1971/69/section/1/3) substituted (1.10.2008) by [The Veterinary Medicines Regulations 2008 (S.I. 2008/2297)](https://www.legislation.gov.uk/uksi/2008/2297), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2297/regulation/1), [45(2)](https://www.legislation.gov.uk/uksi/2008/2297/regulation/45/2)
+[^c-018de642d23ce25d00568fcd83b630de]: Textual amendment: Words in [s. 1(3)](https://www.legislation.gov.uk/ukpga/1971/69/section/1/3) substituted (1.10.2008) by [The Veterinary Medicines Regulations 2008 (S.I. 2008/2297)](https://www.legislation.gov.uk/uksi/2008/2297), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2297/regulation/1), [45(2)](https://www.legislation.gov.uk/uksi/2008/2297/regulation/45/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 118. Appeals to the Sheriff Appeal Court from summary criminal proceedings[^key-cb14d4b1541c9aa62b11331ffe562507]
+## 118. Appeals to the Sheriff Appeal Court from summary criminal proceedings[^c-cb14d4b1541c9aa62b11331ffe562507]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cb14d4b1541c9aa62b11331ffe562507]: Commencement: [S. 118](https://www.legislation.gov.uk/asp/2014/18/section/118) in force at 22.9.2015 by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule) (with [art. 6](https://www.legislation.gov.uk/ssi/2015/247/article/6))
+[^c-cb14d4b1541c9aa62b11331ffe562507]: Commencement: [S. 118](https://www.legislation.gov.uk/asp/2014/18/section/118) in force at 22.9.2015 by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule) (with [art. 6](https://www.legislation.gov.uk/ssi/2015/247/article/6))

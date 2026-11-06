@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 70. Procedure and costs on appeals under regulation 68[^key-061868d74ee5ffa78977b8a91f4fc809]
+## 70. Procedure and costs on appeals under regulation 68[^c-061868d74ee5ffa78977b8a91f4fc809]
 
 *Extent: N.I.*
 
@@ -82,4 +82,4 @@ and any fees or allowances so payable shall, subject to paragraph (15)(b) and (d
 
 ## Annotations
 
-[^key-061868d74ee5ffa78977b8a91f4fc809]: Commencement: Reg. 70 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
+[^c-061868d74ee5ffa78977b8a91f4fc809]: Commencement: Reg. 70 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)

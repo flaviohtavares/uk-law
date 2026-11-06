@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 388. Fees in relation to insurance[^key-604ec07196493a4108ab0f5bbe6b1b4a]
+## 388. Fees in relation to insurance[^c-604ec07196493a4108ab0f5bbe6b1b4a]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ The Department of Trade and Industry (Fees) Order 1988 is amended as follows.
 
 ## Annotations
 
-[^key-604ec07196493a4108ab0f5bbe6b1b4a]: Commencement: Art. 388 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-604ec07196493a4108ab0f5bbe6b1b4a]: Commencement: Art. 388 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00280]: Footnote: The definition of “the 1982 Act” was inserted by [S.I. 1995/1294](https://www.legislation.gov.uk/uksi/1995/1294), article 2(a).
 

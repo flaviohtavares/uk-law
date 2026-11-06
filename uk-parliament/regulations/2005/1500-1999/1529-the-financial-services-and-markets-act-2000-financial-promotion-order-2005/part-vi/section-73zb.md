@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73ZB. Berne Financial Services Agreement suppliers[^key-5b20f1c2d0cdfd797d3d6c4956b56339]
+## 73ZB. Berne Financial Services Agreement suppliers[^c-5b20f1c2d0cdfd797d3d6c4956b56339]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ where the registered services, relevant clients and relevant financial instrumen
 
 ## Annotations
 
-[^key-5b20f1c2d0cdfd797d3d6c4956b56339]: Textual amendment: [Art. 73ZB](https://www.legislation.gov.uk/uksi/2005/1529/article/73ZB) inserted (1.1.2026) by [The Financial Services and Markets Act 2023 (Mutual Recognition Agreement) (Switzerland) Regulations 2025 (S.I. 2025/1145)](https://www.legislation.gov.uk/uksi/2025/1145), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1145/regulation/1/2), [39](https://www.legislation.gov.uk/uksi/2025/1145/regulation/39)
+[^c-5b20f1c2d0cdfd797d3d6c4956b56339]: Textual amendment: [Art. 73ZB](https://www.legislation.gov.uk/uksi/2005/1529/article/73ZB) inserted (1.1.2026) by [The Financial Services and Markets Act 2023 (Mutual Recognition Agreement) (Switzerland) Regulations 2025 (S.I. 2025/1145)](https://www.legislation.gov.uk/uksi/2025/1145), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1145/regulation/1/2), [39](https://www.legislation.gov.uk/uksi/2025/1145/regulation/39)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Removal of human remains[^key-594bd58541392ba5236879c920dd903d]
+## 26. Removal of human remains[^c-594bd58541392ba5236879c920dd903d]
 
 *Extent: E+W*
 
@@ -79,6 +79,6 @@ subject to paragraph (10) the undertaker is to remove the remains and cause them
 
 ## Annotations
 
-[^key-594bd58541392ba5236879c920dd903d]: Commencement: Art. 26 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
+[^c-594bd58541392ba5236879c920dd903d]: Commencement: Art. 26 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
 
 [^f00071]: Footnote: [1857 c. 81](https://www.legislation.gov.uk/ukpga/1857/81). Section 125 was substituted by section 2 of the Church of England (Miscellaneous Provisions) Measure [2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1).

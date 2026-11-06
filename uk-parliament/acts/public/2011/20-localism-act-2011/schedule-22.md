@@ -378,7 +378,7 @@ Section 222
 
 **51.** (1) Section 408 (transfers of property, rights and liabilities) is amended as follows.
 
-(2)[^key-e3a6899119669644cc8ca1d28bcd7ad6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-e3a6899119669644cc8ca1d28bcd7ad6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) After subsection (8) insert—
 
@@ -437,7 +437,7 @@ Section 222
 
 **59.** The Planning Act 2008 is amended as follows.
 
-**60.**[^key-eb683d256140aa639dcdf2678c7c1f85] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**60.**[^c-eb683d256140aa639dcdf2678c7c1f85] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **61.** (1) Amend section 206 (provision about charging community infrastructure levy) is amended as follows.
 
@@ -456,6 +456,6 @@ Section 222
 
 ## Annotations
 
-[^key-e3a6899119669644cc8ca1d28bcd7ad6]: Textual amendment: [Sch. 22 para. 51(2)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/22/paragraph/51/2) omitted (2.12.2014) by virtue of [The Olympic Delivery Authority (Dissolution) Order 2014 (S.I. 2014/3184)](https://www.legislation.gov.uk/uksi/2014/3184), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3184/article/1/2), [Sch. para. 16(b)](https://www.legislation.gov.uk/uksi/2014/3184/schedule/paragraph/16/b)
+[^c-e3a6899119669644cc8ca1d28bcd7ad6]: Textual amendment: [Sch. 22 para. 51(2)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/22/paragraph/51/2) omitted (2.12.2014) by virtue of [The Olympic Delivery Authority (Dissolution) Order 2014 (S.I. 2014/3184)](https://www.legislation.gov.uk/uksi/2014/3184), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3184/article/1/2), [Sch. para. 16(b)](https://www.legislation.gov.uk/uksi/2014/3184/schedule/paragraph/16/b)
 
-[^key-eb683d256140aa639dcdf2678c7c1f85]: Textual amendment: [Sch. 22 para. 60](https://www.legislation.gov.uk/ukpga/2011/20/schedule/22/paragraph/60) repealed (25.6.2013) by [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [ss. 24(4)(c)](https://www.legislation.gov.uk/ukpga/2013/27/section/24/4/c), [35(1)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/1) (with [s. 24(6)](https://www.legislation.gov.uk/ukpga/2013/27/section/24/6)); [S.I. 2013/1124](https://www.legislation.gov.uk/uksi/2013/1124), [art. 4(c)](https://www.legislation.gov.uk/uksi/2013/1124/article/4/c) (with [art. 7](https://www.legislation.gov.uk/uksi/2013/1124/article/7))
+[^c-eb683d256140aa639dcdf2678c7c1f85]: Textual amendment: [Sch. 22 para. 60](https://www.legislation.gov.uk/ukpga/2011/20/schedule/22/paragraph/60) repealed (25.6.2013) by [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [ss. 24(4)(c)](https://www.legislation.gov.uk/ukpga/2013/27/section/24/4/c), [35(1)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/1) (with [s. 24(6)](https://www.legislation.gov.uk/ukpga/2013/27/section/24/6)); [S.I. 2013/1124](https://www.legislation.gov.uk/uksi/2013/1124), [art. 4(c)](https://www.legislation.gov.uk/uksi/2013/1124/article/4/c) (with [art. 7](https://www.legislation.gov.uk/uksi/2013/1124/article/7))

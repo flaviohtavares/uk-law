@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Further provision about operator licensing[^key-447ab94c5777116c4252a6df6927cf7f]
+## 13. Further provision about operator licensing[^c-447ab94c5777116c4252a6df6927cf7f]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-447ab94c5777116c4252a6df6927cf7f]: Commencement: S. 13 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-447ab94c5777116c4252a6df6927cf7f]: Commencement: S. 13 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

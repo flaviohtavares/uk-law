@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Establishment of added pension account[^key-4de4e2da386f9df11365d6905de24dd6]
+## 38. Establishment of added pension account[^c-4de4e2da386f9df11365d6905de24dd6]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4de4e2da386f9df11365d6905de24dd6]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2014/2848/regulation/38) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-4de4e2da386f9df11365d6905de24dd6]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2014/2848/regulation/38) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

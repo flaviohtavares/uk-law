@@ -48,11 +48,11 @@ Coming into force
 
 The Secretary of State for Health makes the following Regulations in exercise of the powers conferred by sections 14(2)(b), 19(2)(b), 104, 109, 176 and 272(7) and (8) of the National Health Service Act 2006[^f00001].
 
-## 1. Citation and commencement[^key-8f61a32faf398cd6243aab1c7fd67bb0]
+## 1. Citation and commencement[^c-8f61a32faf398cd6243aab1c7fd67bb0]
 
 These Regulations may be cited as the National Health Service (Primary Dental Services) (Miscellaneous Amendments) Regulations 2012 and come into force on 1st April 2012.
 
-## 2. Amendment of the National Health Service (General Dental Services Contracts) Regulations 2005[^key-700622bde6da82c49a43d484f19ef1d2]
+## 2. Amendment of the National Health Service (General Dental Services Contracts) Regulations 2005[^c-700622bde6da82c49a43d484f19ef1d2]
 
 (1) The National Health Service (General Dental Services Contracts) Regulations 2005[^f00002] are amended as follows.
 
@@ -80,11 +80,11 @@ These Regulations may be cited as the National Health Service (Primary Dental Se
 
 (4) In Schedule 3 (other contractual terms), in paragraph 65(2) (termination on the death of an individual dental practitioner), for “three month period”, substitute “6 month period”.
 
-## 3. Amendment of the National Health Service (Personal Dental Services Agreements) Regulations 2005[^key-16f0ad666917f9270bada353aca09f70]
+## 3. Amendment of the National Health Service (Personal Dental Services Agreements) Regulations 2005[^c-16f0ad666917f9270bada353aca09f70]
 
 In the National Health Service (Personal Dental Services Agreements) Regulations 2005[^f00005], in Schedule 3 (other contractual terms), in paragraph 63(2) (termination on the death of an individual), for “three month period”, substitute “6 month period”.
 
-## 4. Amendment of the National Health Service (Dental Charges) Regulations 2005[^key-67ce5158c08226c900a13514bcd9c0d3]
+## 4. Amendment of the National Health Service (Dental Charges) Regulations 2005[^c-67ce5158c08226c900a13514bcd9c0d3]
 
 (1) The National Health Service (Dental Charges) Regulations 2005[^f00006] are amended as follows.
 
@@ -96,7 +96,7 @@ In the National Health Service (Personal Dental Services Agreements) Regulations
 - (d) in paragraph (4), for “£204.00” substitute “£209.00”; and
 - (e) in paragraph (5), for “£17.00” substitute “£17.50”.
 
-## 5. Amendment of the Functions of Primary Care Trusts and Strategic Health Authorities and the NHS Business Services Authority (Awdurdod Gwasanaethau Busnes y GIG) (Primary Dental Services) (England) Regulations 2006[^key-9cb761b1ff4ec975181d2ae4c94dc310]
+## 5. Amendment of the Functions of Primary Care Trusts and Strategic Health Authorities and the NHS Business Services Authority (Awdurdod Gwasanaethau Busnes y GIG) (Primary Dental Services) (England) Regulations 2006[^c-9cb761b1ff4ec975181d2ae4c94dc310]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -128,9 +128,9 @@ Regulation 5 amends the BSA Functions Regulations to update references to the fu
 
 [^f00001]: Footnote: [2006 c.41](https://www.legislation.gov.uk/ukpga/2006/41). By virtue of section 271 of the Act, the powers conferred by these sections are exercisable by the Secretary of State only in relation to England. *See* section 275(1) for the definition of “prescribed” and “regulations”.
 
-[^key-8f61a32faf398cd6243aab1c7fd67bb0]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2012/502/regulation/1) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/502/regulation/1)
+[^c-8f61a32faf398cd6243aab1c7fd67bb0]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2012/502/regulation/1) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/502/regulation/1)
 
-[^key-700622bde6da82c49a43d484f19ef1d2]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2012/502/regulation/2) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/502/regulation/1)
+[^c-700622bde6da82c49a43d484f19ef1d2]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2012/502/regulation/2) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/502/regulation/1)
 
 [^f00002]: Footnote: [S.I. 2005/3361](https://www.legislation.gov.uk/uksi/2005/3361). Relevant amending instrument is [S.I. 2011/1182](https://www.legislation.gov.uk/uksi/2011/1182).
 
@@ -138,12 +138,12 @@ Regulation 5 amends the BSA Functions Regulations to update references to the fu
 
 [^f00004]: Footnote: [S.I. 2009/3112](https://www.legislation.gov.uk/uksi/2009/3112) amended by [S.I. 2010/49](https://www.legislation.gov.uk/uksi/2010/49).
 
-[^key-16f0ad666917f9270bada353aca09f70]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2012/502/regulation/3) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/502/regulation/1)
+[^c-16f0ad666917f9270bada353aca09f70]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2012/502/regulation/3) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/502/regulation/1)
 
 [^f00005]: Footnote: [S.I. 2005/3373](https://www.legislation.gov.uk/uksi/2005/3373). Relevant amending instrument is [S.I. 2011/1182](https://www.legislation.gov.uk/uksi/2011/1182).
 
-[^key-67ce5158c08226c900a13514bcd9c0d3]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2012/502/regulation/4) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/502/regulation/1)
+[^c-67ce5158c08226c900a13514bcd9c0d3]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2012/502/regulation/4) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/502/regulation/1)
 
 [^f00006]: Footnote: [S.I. 2005/3477](https://www.legislation.gov.uk/uksi/2005/3477), amended by [S.I. 2006/1837](https://www.legislation.gov.uk/uksi/2006/1837), [2007/544](https://www.legislation.gov.uk/uksi/2007/544), [2008/547](https://www.legislation.gov.uk/uksi/2008/547), [2009/407](https://www.legislation.gov.uk/uksi/2009/407) and [2011/519](https://www.legislation.gov.uk/uksi/2011/519).
 
-[^key-9cb761b1ff4ec975181d2ae4c94dc310]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2012/502/regulation/5) revoked (1.4.2013) by [The Functions of the National Health Service Commissioning Board and the NHS Business Services Authority (Awdurdod Gwasanaethau Busnes y GIG) (Primary Dental Services) (England) Regulations 2013 (S.I. 2013/469)](https://www.legislation.gov.uk/uksi/2013/469), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/469/regulation/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2013/469/regulation/5/b)
+[^c-9cb761b1ff4ec975181d2ae4c94dc310]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2012/502/regulation/5) revoked (1.4.2013) by [The Functions of the National Health Service Commissioning Board and the NHS Business Services Authority (Awdurdod Gwasanaethau Busnes y GIG) (Primary Dental Services) (England) Regulations 2013 (S.I. 2013/469)](https://www.legislation.gov.uk/uksi/2013/469), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/469/regulation/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2013/469/regulation/5/b)

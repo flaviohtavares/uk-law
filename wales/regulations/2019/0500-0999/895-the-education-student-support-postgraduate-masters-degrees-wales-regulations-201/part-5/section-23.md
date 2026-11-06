@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Requirement to enter into a contract for a loan[^key-fed66fa6de7ed471f16645cd9db60632]
+## 23. Requirement to enter into a contract for a loan[^c-fed66fa6de7ed471f16645cd9db60632]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ as the Welsh Ministers may specify.
 
 ## Annotations
 
-[^key-fed66fa6de7ed471f16645cd9db60632]: Commencement: Reg. 23 in force at 27.5.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/895/regulation/1/2)
+[^c-fed66fa6de7ed471f16645cd9db60632]: Commencement: Reg. 23 in force at 27.5.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/895/regulation/1/2)

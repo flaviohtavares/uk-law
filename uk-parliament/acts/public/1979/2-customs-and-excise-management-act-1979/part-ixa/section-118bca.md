@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 118BCA. Inspection powers: betting duties and remote gaming duty[^key-770acfdf0c56a7a8e03a5ea3ec140303][^key-10f27fb5329381b84fe9cfb0d38ceeb2]
+## 118BCA. Inspection powers: betting duties and remote gaming duty[^c-770acfdf0c56a7a8e03a5ea3ec140303][^c-10f27fb5329381b84fe9cfb0d38ceeb2]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-770acfdf0c56a7a8e03a5ea3ec140303]: Textual amendment: [S. 118BCA](https://www.legislation.gov.uk/ukpga/1979/2/section/118BCA) inserted (1.12.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 198(2)(c)](https://www.legislation.gov.uk/ukpga/2014/26/section/198/2/c), [Sch. 28 para. 12](https://www.legislation.gov.uk/ukpga/2014/26/schedule/28/paragraph/12) (with [Sch. 29](https://www.legislation.gov.uk/ukpga/2014/26/schedule/29))
+[^c-770acfdf0c56a7a8e03a5ea3ec140303]: Textual amendment: [S. 118BCA](https://www.legislation.gov.uk/ukpga/1979/2/section/118BCA) inserted (1.12.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 198(2)(c)](https://www.legislation.gov.uk/ukpga/2014/26/section/198/2/c), [Sch. 28 para. 12](https://www.legislation.gov.uk/ukpga/2014/26/schedule/28/paragraph/12) (with [Sch. 29](https://www.legislation.gov.uk/ukpga/2014/26/schedule/29))
 
-[^key-10f27fb5329381b84fe9cfb0d38ceeb2]: Textual amendment: Ss. 118BA-118BD inserted (1.4.2011) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [s. 29(2)](https://www.legislation.gov.uk/ukpga/2010/33/section/29/2), [Sch. 13 para. 12](https://www.legislation.gov.uk/ukpga/2010/33/schedule/13/paragraph/12); [S.I. 2011/777](https://www.legislation.gov.uk/uksi/2011/777), [art. 2](https://www.legislation.gov.uk/uksi/2011/777/article/2)
+[^c-10f27fb5329381b84fe9cfb0d38ceeb2]: Textual amendment: Ss. 118BA-118BD inserted (1.4.2011) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [s. 29(2)](https://www.legislation.gov.uk/ukpga/2010/33/section/29/2), [Sch. 13 para. 12](https://www.legislation.gov.uk/ukpga/2010/33/schedule/13/paragraph/12); [S.I. 2011/777](https://www.legislation.gov.uk/uksi/2011/777), [art. 2](https://www.legislation.gov.uk/uksi/2011/777/article/2)

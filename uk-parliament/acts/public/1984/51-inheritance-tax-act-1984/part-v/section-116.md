@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Where the whole or part of the value transferred by a transfer of value is attributable to the agricultural value of agricultural property, the whole or that part of the value transferred shall be treated as reduced by 50%[^key-6f5655e59838ed899765918d22e1b88a].
+(1) Where the whole or part of the value transferred by a transfer of value is attributable to the agricultural value of agricultural property, the whole or that part of the value transferred shall be treated as reduced by 50%[^c-6f5655e59838ed899765918d22e1b88a].
 
-(1A)[^key-793f31c44a2a015f28e3e1a2b0e3552c] But so much of that whole or that part as—
+(1A)[^c-793f31c44a2a015f28e3e1a2b0e3552c] But so much of that whole or that part as—
 
 - (a) constitutes a chargeable transfer that is not an occasion on which tax is chargeable under Chapter 3 of Part 3 (charges on certain settlements etc), and
 - (b) does not exceed the amount of the 100% relief allowance available in relation to that chargeable transfer (see section 124D),
@@ -38,13 +38,13 @@ is to be treated (instead) as reduced by 100%, but only if the transferor’s in
 
 (1C) Subsections (1) to (1B) are subject to the following provisions of this Chapter.
 
-(2) For the purposes of subsections (1A) and (1B), the transferor’s interest condition is met[^key-526af7313f2c0a666b606d1a7ff687a5] if [^c13611441]...—
+(2) For the purposes of subsections (1A) and (1B), the transferor’s interest condition is met[^c-526af7313f2c0a666b606d1a7ff687a5] if [^c13611441]...—
 
 - (a) the interest of the transferor in the property immediately before the transfer carries the right to vacant possession or the right to obtain it within the next twelve months, or
 - (b) the transferor has been beneficially entitled to that interest since before 10th March 1981 and the conditions set out in subsection (3) below are satisfied; or[^c13611451]
 - (c) the interest of the transferor in the property immediately before the transfer does not carry either of the rights mentioned in paragraph (a) above because the property is let on a tenancy beginning on or after 1st September 1995;
 
-[^key-01c8bc7bbc5a02168a555c3daac67b41]...
+[^c-01c8bc7bbc5a02168a555c3daac67b41]...
 
 (2A)[^c13611481] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -53,7 +53,7 @@ is to be treated (instead) as reduced by 100%, but only if the transferor’s in
 - (a) that if the transferor had disposed of his interest by a transfer of value immediately before 10th March 1981 and duly made a claim under paragraph 1 of Schedule 8 to the [^c13611491]Finance Act 1975, the value transferred would have been computed in accordance with paragraph 2 of that Schedule and relief would not have been limited by paragraph 5 of that Schedule (restriction to £250,000 or one thousand acres); and
 - (b) that the transferor’s interest did not at any time during the period beginning with 10th March 1981 and ending with the date of the transfer carry a right mentioned in subsection (2)(a) above, and did not fail to do so by reason of any act or deliberate omission of the transferor during that period.
 
-(4) Where the transferor’s interest condition would be met[^key-416721b3abc5fe6f527f54089c83650d] but for a limitation on relief that would have been imposed (as mentioned in subsection (3)(a) above) by paragraph 5 of Schedule 8 to the Finance Act 1975, subsections (1A) and (1B) have effect as if—[^key-18adbec8a14ffb6b7890f58e3334a9a5]
+(4) Where the transferor’s interest condition would be met[^c-416721b3abc5fe6f527f54089c83650d] but for a limitation on relief that would have been imposed (as mentioned in subsection (3)(a) above) by paragraph 5 of Schedule 8 to the Finance Act 1975, subsections (1A) and (1B) have effect as if—[^c-18adbec8a14ffb6b7890f58e3334a9a5]
 
 - (a) the transferor’s interest condition were met, and
 - (b) after paragraph (a) of each subsection there were inserted—
@@ -111,7 +111,7 @@ subsection (2)(c) above shall have effect as if the tenancy granted or assigned 
 
 (7) For the purposes of this section, the value transferred by a transfer of value shall be calculated as a value on which no tax is chargeable.
 
-(8)[^key-1912c66134ea9221778dc607de1a0856] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-1912c66134ea9221778dc607de1a0856] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -121,28 +121,28 @@ subsection (2)(c) above shall have effect as if the tenancy granted or assigned 
 
     Ss. 104, 116 excluded (6.4.2008) by [The Inheritance Tax (Delivery of Accounts) (Excepted Transfers and Excepted Terminations) Regulations 2008 (S.I. 2008/605)](https://www.legislation.gov.uk/uksi/2008/605), [reg. 5(5)](https://www.legislation.gov.uk/uksi/2008/605/regulation/5/5)
 
-[^key-6f5655e59838ed899765918d22e1b88a]: Textual amendment: Word in [s. 116(1)](https://www.legislation.gov.uk/ukpga/1984/51/section/116/1) substituted (with effect in accordance with Sch. 12 para. 17 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 12 paras. 3(2)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/3/2), [17](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/17)
+[^c-6f5655e59838ed899765918d22e1b88a]: Textual amendment: Word in [s. 116(1)](https://www.legislation.gov.uk/ukpga/1984/51/section/116/1) substituted (with effect in accordance with Sch. 12 para. 17 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 12 paras. 3(2)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/3/2), [17](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/17)
 
-[^key-793f31c44a2a015f28e3e1a2b0e3552c]: Textual amendment: [S. 116(1A)-(1C)](https://www.legislation.gov.uk/ukpga/1984/51/section/116/1A) inserted (with effect in accordance with Sch. 12 para. 17 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 12 paras. 3(3)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/3/3), [17](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/17)
+[^c-793f31c44a2a015f28e3e1a2b0e3552c]: Textual amendment: [S. 116(1A)-(1C)](https://www.legislation.gov.uk/ukpga/1984/51/section/116/1A) inserted (with effect in accordance with Sch. 12 para. 17 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 12 paras. 3(3)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/3/3), [17](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/17)
 
-[^key-526af7313f2c0a666b606d1a7ff687a5]: Textual amendment: Words in [s. 116(2)](https://www.legislation.gov.uk/ukpga/1984/51/section/116/2) substituted (with effect in accordance with Sch. 12 para. 17 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 12 paras. 3(4)(a)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/3/4/a), [17](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/17)
+[^c-526af7313f2c0a666b606d1a7ff687a5]: Textual amendment: Words in [s. 116(2)](https://www.legislation.gov.uk/ukpga/1984/51/section/116/2) substituted (with effect in accordance with Sch. 12 para. 17 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 12 paras. 3(4)(a)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/3/4/a), [17](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/17)
 
 [^c13611441]: Textual amendment: Word in s. 116(2) repealed (1.5.1995 with effect in relation to transfers of value made, and other events occurring, on or after 1.9.1995) by [1995 c. 4](https://www.legislation.gov.uk/ukpga/1995/4), [ss. 155(1)(3)](https://www.legislation.gov.uk/ukpga/1995/4/section/155/1/3), [162](https://www.legislation.gov.uk/ukpga/1995/4/section/162), [Sch. 29 Pt. XI](https://www.legislation.gov.uk/ukpga/1995/4/schedule/29/part/XI)
 
 [^c13611451]: Textual amendment: S. 116(2)(c) and word inserted (1.5.1995 with effect in relation to transfers of value made, and other events occurring, on or after 1.9.1995) by [1995 c. 4](https://www.legislation.gov.uk/ukpga/1995/4), [s. 155(1)(3)](https://www.legislation.gov.uk/ukpga/1995/4/section/155/1/3)
 
-[^key-01c8bc7bbc5a02168a555c3daac67b41]: Textual amendment: Words in [s. 116(2)](https://www.legislation.gov.uk/ukpga/1984/51/section/116/2) omitted (with effect in accordance with Sch. 12 para. 17 of the amending Act) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 12 paras. 3(4)(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/3/4/b), [17](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/17)
+[^c-01c8bc7bbc5a02168a555c3daac67b41]: Textual amendment: Words in [s. 116(2)](https://www.legislation.gov.uk/ukpga/1984/51/section/116/2) omitted (with effect in accordance with Sch. 12 para. 17 of the amending Act) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 12 paras. 3(4)(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/3/4/b), [17](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/17)
 
 [^c13611481]: Textual amendment: S. 116(2A) repealed (29.4.1996 with effect as mentioned in [s. 185(6)](https://www.legislation.gov.uk/ukpga/1996/8/section/185/6) of the amending Act) by [1996 c. 8](https://www.legislation.gov.uk/ukpga/1996/8), [ss. 185(3)](https://www.legislation.gov.uk/ukpga/1996/8/section/185/3), [205](https://www.legislation.gov.uk/ukpga/1996/8/section/205), [Sch. 41 Pt. VI](https://www.legislation.gov.uk/ukpga/1996/8/schedule/41/part/VI) note 2
 
 [^c13611491]: Marginal citation: [1975 c.7](https://www.legislation.gov.uk/ukpga/1975/7).
 
-[^key-416721b3abc5fe6f527f54089c83650d]: Textual amendment: Words in [s. 116(4)](https://www.legislation.gov.uk/ukpga/1984/51/section/116/4) substituted (with effect in accordance with Sch. 12 para. 17 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 12 paras. 3(5)(a)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/3/5/a), [17](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/17)
+[^c-416721b3abc5fe6f527f54089c83650d]: Textual amendment: Words in [s. 116(4)](https://www.legislation.gov.uk/ukpga/1984/51/section/116/4) substituted (with effect in accordance with Sch. 12 para. 17 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 12 paras. 3(5)(a)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/3/5/a), [17](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/17)
 
-[^key-18adbec8a14ffb6b7890f58e3334a9a5]: Textual amendment: Words in [s. 116(4)](https://www.legislation.gov.uk/ukpga/1984/51/section/116/4) substituted (with effect in accordance with Sch. 12 para. 17 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 12 paras. 3(5)(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/3/5/b), [17](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/17)
+[^c-18adbec8a14ffb6b7890f58e3334a9a5]: Textual amendment: Words in [s. 116(4)](https://www.legislation.gov.uk/ukpga/1984/51/section/116/4) substituted (with effect in accordance with Sch. 12 para. 17 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 12 paras. 3(5)(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/3/5/b), [17](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/17)
 
 [^c13611531]: Marginal citation: [1981 c.35](https://www.legislation.gov.uk/ukpga/1981/35).
 
 [^c13611541]: Textual amendment: S. 116(5A)-(5E) inserted (29.4.1996 with effect as mentioned in [s. 185(5)](https://www.legislation.gov.uk/ukpga/1996/8/section/185/5) of the amending Act) by [1996 c. 8](https://www.legislation.gov.uk/ukpga/1996/8), [s. 185(2)](https://www.legislation.gov.uk/ukpga/1996/8/section/185/2)
 
-[^key-1912c66134ea9221778dc607de1a0856]: Textual amendment: S. 116(8) omitted (with effect in accordance with s. 11(7) of the amending Act) by virtue of [Finance (No. 2) Act 2024 (c. 12)](https://www.legislation.gov.uk/ukpga/2024/12), [s. 11(4)](https://www.legislation.gov.uk/ukpga/2024/12/section/11/4)
+[^c-1912c66134ea9221778dc607de1a0856]: Textual amendment: S. 116(8) omitted (with effect in accordance with s. 11(7) of the amending Act) by virtue of [Finance (No. 2) Act 2024 (c. 12)](https://www.legislation.gov.uk/ukpga/2024/12), [s. 11(4)](https://www.legislation.gov.uk/ukpga/2024/12/section/11/4)

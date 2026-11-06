@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Confiscation of assets[^key-b1c40f6e9f13126e13921db8339db3ed]
+## 7. Confiscation of assets[^c-b1c40f6e9f13126e13921db8339db3ed]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b1c40f6e9f13126e13921db8339db3ed]: Commencement: S. 7 in force at 31.7.2015 by [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/a) (with [regs. 3](https://www.legislation.gov.uk/uksi/2015/1476/regulation/3), [8](https://www.legislation.gov.uk/uksi/2015/1476/regulation/8))
+[^c-b1c40f6e9f13126e13921db8339db3ed]: Commencement: S. 7 in force at 31.7.2015 by [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/a) (with [regs. 3](https://www.legislation.gov.uk/uksi/2015/1476/regulation/3), [8](https://www.legislation.gov.uk/uksi/2015/1476/regulation/8))

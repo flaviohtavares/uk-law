@@ -45,11 +45,11 @@ Acting jointly[^f00005], the Department of Agriculture and Rural Development and
 
 In accordance with Article 47 of the Food Safety (Northern Ireland) Order 1991 and Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^f00007], the aforementioned Departments have carried out consultation with such organisations as appear to them to be representative of interests likely to be substantially affected by these Regulations.
 
-## 1. Citation and Commencement[^key-c0c1d7a69a8a82c3cffa584fbbb694a9]
+## 1. Citation and Commencement[^c-c0c1d7a69a8a82c3cffa584fbbb694a9]
 
 These Regulations may be cited as the Charges for Residues Surveillance Regulations (Northern Ireland) 2010 and shall come into operation on 2nd May 2010.
 
-## 2. Interpretation[^key-3cedb5799e848a7f7b051fcf9fc0c66d]
+## 2. Interpretation[^c-3cedb5799e848a7f7b051fcf9fc0c66d]
 
 (1) In these Regulations—
 
@@ -77,7 +77,7 @@ These Regulations may be cited as the Charges for Residues Surveillance Regulati
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00008] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly.
 
-## 3. Liability for and recovery of charges for residues surveillance[^key-230766de8ed4bfa5718df3035538e6c2]
+## 3. Liability for and recovery of charges for residues surveillance[^c-230766de8ed4bfa5718df3035538e6c2]
 
 (1) In respect of the costs incurred by the Department in carrying out the inspections and controls required by Directive 96/23 on the animals, fish or animal products listed in the first column of the Schedule, it shall, for each animal, fish or animal product so listed, charge the amount specified opposite in the second column of that Schedule.
 
@@ -93,9 +93,9 @@ These Regulations may be cited as the Charges for Residues Surveillance Regulati
 
 (4) Where a person referred to in sub-paragraph (a), (b), (d) or (e) of paragraph (3), (“X”), has paid a charge under that sub-paragraph, X may recover, on demand, a sum equal to that charge as a debt owed to X by any person on whose behalf X slaughtered the animal, prepared the wild game, collected the milk or packed the eggs (as the case may be) in respect of which X made the payment.
 
-(5) In this regulation, “Directive 96/23” means Council Directive [96/23/EC](https://www.legislation.gov.uk/european/directive/1996/0023) on measures to monitor certain substances and residues thereof in live animals and animal products and repealing Directives [85/358/EEC](https://www.legislation.gov.uk/european/directive/1985/0358) and [86/469/EEC](https://www.legislation.gov.uk/european/directive/1986/0469) and Decisions [89/187/EEC](https://www.legislation.gov.uk/european/decision/1989/0187) and [91/664/EEC](https://www.legislation.gov.uk/european/decision/1991/0664)[^f00009] as amended from time to time[^key-113351b257632518d80df8560ebe9166][^f00010].
+(5) In this regulation, “Directive 96/23” means Council Directive [96/23/EC](https://www.legislation.gov.uk/european/directive/1996/0023) on measures to monitor certain substances and residues thereof in live animals and animal products and repealing Directives [85/358/EEC](https://www.legislation.gov.uk/european/directive/1985/0358) and [86/469/EEC](https://www.legislation.gov.uk/european/directive/1986/0469) and Decisions [89/187/EEC](https://www.legislation.gov.uk/european/decision/1989/0187) and [91/664/EEC](https://www.legislation.gov.uk/european/decision/1991/0664)[^f00009] as amended from time to time[^c-113351b257632518d80df8560ebe9166][^f00010].
 
-## 4. Information, offences and enforcement[^key-a2698d9c76968c1c0de40510d3c0b20b]
+## 4. Information, offences and enforcement[^c-a2698d9c76968c1c0de40510d3c0b20b]
 
 (1) Any person so required by the Department shall supply, on demand—
 
@@ -108,7 +108,7 @@ These Regulations may be cited as the Charges for Residues Surveillance Regulati
 
 (4) These Regulations shall be enforced by the Department.
 
-## 5. Revocations[^key-a563edc604d842ba4fe6cb04ea1b0a39]
+## 5. Revocations[^c-a563edc604d842ba4fe6cb04ea1b0a39]
 
 The Meat (Examinations for Residues) (Charges) Regulations (Northern Ireland) 2005 [^f00011] are hereby revoked.
 
@@ -128,7 +128,7 @@ Linda Devlin.
 
 A senior officer of the Department of Health, Social Services and Public Safety
 
-## SCHEDULE — Residues surveillance charges[^key-8d7e8c51d1d0e30d6b27b7e0b7481b84]
+## SCHEDULE — Residues surveillance charges[^c-8d7e8c51d1d0e30d6b27b7e0b7481b84]
 
 Regulation 3(1)
 
@@ -168,24 +168,24 @@ The Regulations—
 
 [^f00007]: Footnote: O.J. No. L31, 1.2.2002, p.1
 
-[^key-c0c1d7a69a8a82c3cffa584fbbb694a9]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2010/124/regulation/1) in operation at 2.5.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/124/regulation/1)
+[^c-c0c1d7a69a8a82c3cffa584fbbb694a9]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2010/124/regulation/1) in operation at 2.5.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/124/regulation/1)
 
-[^key-3cedb5799e848a7f7b051fcf9fc0c66d]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2010/124/regulation/2) in operation at 2.5.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/124/regulation/1)
+[^c-3cedb5799e848a7f7b051fcf9fc0c66d]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2010/124/regulation/2) in operation at 2.5.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/124/regulation/1)
 
 [^f00008]: Footnote: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-230766de8ed4bfa5718df3035538e6c2]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2010/124/regulation/3) in operation at 2.5.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/124/regulation/1)
+[^c-230766de8ed4bfa5718df3035538e6c2]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2010/124/regulation/3) in operation at 2.5.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/124/regulation/1)
 
 [^f00009]: Footnote: O.J. No. L125, 23.5.1996, p. 10
 
-[^key-113351b257632518d80df8560ebe9166]: Textual amendment: Words in [reg. 3(5)](https://www.legislation.gov.uk/nisr/2010/124/regulation/3/5) substituted (15.3.2019) by [The Residues (Charges and Examination) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/16)](https://www.legislation.gov.uk/nisr/2019/16), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/16/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2019/16/regulation/2)
+[^c-113351b257632518d80df8560ebe9166]: Textual amendment: Words in [reg. 3(5)](https://www.legislation.gov.uk/nisr/2010/124/regulation/3/5) substituted (15.3.2019) by [The Residues (Charges and Examination) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/16)](https://www.legislation.gov.uk/nisr/2019/16), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/16/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2019/16/regulation/2)
 
 [^f00010]: Footnote: The last amendment was made by Directive [2006/104/EC](https://www.legislation.gov.uk/european/directive/2006/0104) (OJ No. L363, 20.12.2006, p. 352)
 
-[^key-a2698d9c76968c1c0de40510d3c0b20b]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2010/124/regulation/4) in operation at 2.5.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/124/regulation/1)
+[^c-a2698d9c76968c1c0de40510d3c0b20b]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2010/124/regulation/4) in operation at 2.5.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/124/regulation/1)
 
-[^key-a563edc604d842ba4fe6cb04ea1b0a39]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2010/124/regulation/5) in operation at 2.5.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/124/regulation/1)
+[^c-a563edc604d842ba4fe6cb04ea1b0a39]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2010/124/regulation/5) in operation at 2.5.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/124/regulation/1)
 
 [^f00011]: Footnote: [S.R. 2005 No. 556](https://www.legislation.gov.uk/nisr/2005/556) 
 
-[^key-8d7e8c51d1d0e30d6b27b7e0b7481b84]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2010/124/schedule) in operation at 2.5.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/124/regulation/1)
+[^c-8d7e8c51d1d0e30d6b27b7e0b7481b84]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2010/124/schedule) in operation at 2.5.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/124/regulation/1)

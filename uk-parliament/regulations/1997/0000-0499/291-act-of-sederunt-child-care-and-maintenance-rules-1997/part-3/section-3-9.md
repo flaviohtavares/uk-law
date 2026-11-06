@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.9. Representation of safeguarder[^key-9bb49b3060fc98c7368421e33a5ebbb8][^key-dd6f3cc7717254fb1cc2dc29fac13771]
+## 3.9. Representation of safeguarder[^c-9bb49b3060fc98c7368421e33a5ebbb8][^c-dd6f3cc7717254fb1cc2dc29fac13771]
 
 *Extent: S*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9bb49b3060fc98c7368421e33a5ebbb8]: Commencement: Rule 3.9 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
+[^c-9bb49b3060fc98c7368421e33a5ebbb8]: Commencement: Rule 3.9 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
 
-[^key-dd6f3cc7717254fb1cc2dc29fac13771]: Textual amendment: Rule 3.9 heading substituted (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(12)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/12) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))
+[^c-dd6f3cc7717254fb1cc2dc29fac13771]: Textual amendment: Rule 3.9 heading substituted (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(12)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/12) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))

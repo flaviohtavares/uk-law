@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. Planning permission[^key-2c3f46fb9e3d486b39a4f99aee7d7a2f]
+## 34. Planning permission[^c-2c3f46fb9e3d486b39a4f99aee7d7a2f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Planning permission which is deemed by a direction under section 90(2A) of the 1
 
 ## Annotations
 
-[^key-2c3f46fb9e3d486b39a4f99aee7d7a2f]: Commencement: Art. 34 in force at 22.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1)
+[^c-2c3f46fb9e3d486b39a4f99aee7d7a2f]: Commencement: Art. 34 in force at 22.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1)

@@ -51,9 +51,9 @@ In accordance with section 25(1) of that Act, a draft of these Regulations was l
 
 ## 2. Application
 
-(1)[^key-14307ea081c444bc2e22b0aac8b731f0] Subject to paragraph (2),[^key-8878269988772cf5f86e99e585268d42] these Regulations have effect in relation to any chargeable transaction [^c22975321] with an effective date on or after 1 April 2018.
+(1)[^c-14307ea081c444bc2e22b0aac8b731f0] Subject to paragraph (2),[^c-8878269988772cf5f86e99e585268d42] these Regulations have effect in relation to any chargeable transaction [^c22975321] with an effective date on or after 1 April 2018.
 
-(2)[^key-95038745bb60cb673ea893d630c20c16] These Regulations do not have effect in relation to any chargeable transaction that is subject to the Land Transaction Tax (Temporary Variation of Rates and Bands for Residential Property Transactions) (Wales) Regulations 2020.
+(2)[^c-95038745bb60cb673ea893d630c20c16] These Regulations do not have effect in relation to any chargeable transaction that is subject to the Land Transaction Tax (Temporary Variation of Rates and Bands for Residential Property Transactions) (Wales) Regulations 2020.
 
 ## 3. Tax bands and percentage tax rates
 
@@ -72,7 +72,7 @@ Cabinet Secretary for Finance, one of the Welsh Ministers
 
 Regulation 3
 
-Table 1[^key-f75d587e14b8a3c8e8c8c9a3ad662143]
+Table 1[^c-f75d587e14b8a3c8e8c8c9a3ad662143]
 
 Residential property transactions
 
@@ -84,7 +84,7 @@ Residential property transactions
 | Third tax band | More than £750,000 but not more than £1,500,000 | 10% |
 | Fourth tax band | More than £1,500,000 | 12% |
 
-Table 2: Higher rates residential property transactions[^key-3bb2885d000b7d00010faa56595bc50f]
+Table 2: Higher rates residential property transactions[^c-3bb2885d000b7d00010faa56595bc50f]
 
 | Tax band | Relevant consideration | Percentage tax rate |
 | --- | --- | --- |
@@ -95,7 +95,7 @@ Table 2: Higher rates residential property transactions[^key-3bb2885d000b7d00010
 | Fifth tax band | More than £750,000 but not more than £1,500,000 | 15% |
 | Sixth tax band | More than £1,500,000 | 17% |
 
-Table 3: Non-residential property transactions[^key-c3c6123a32e54d9039e3f6f4dabff594]
+Table 3: Non-residential property transactions[^c-c3c6123a32e54d9039e3f6f4dabff594]
 
 | *Tax band* | *Relevant consideration* | *Percentage tax rate* |
 | --- | --- | --- |
@@ -104,7 +104,7 @@ Table 3: Non-residential property transactions[^key-c3c6123a32e54d9039e3f6f4dabf
 | Second tax band | More than £250,000 but not more than £1,000,000 | 5% |
 | Third tax band | More than £1,000,000 | 6% |
 
-Table 4: Chargeable consideration which consists of rent[^key-9062c369cd9917bee15bf518d03bee4f]
+Table 4: Chargeable consideration which consists of rent[^c-9062c369cd9917bee15bf518d03bee4f]
 
 | *Tax band* | *Relevant consideration* | *Percentage tax rate* |
 | --- | --- | --- |
@@ -135,18 +135,18 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c22975311]: Marginal citation: [2017 anaw 1](https://www.legislation.gov.uk/anaw/2017/1).
 
-[^key-14307ea081c444bc2e22b0aac8b731f0]: Textual amendment: Reg. 2(1): reg. 2 renumbered as reg. 2(1) (27.7.2020) by virtue of [The Land Transaction Tax (Temporary Variation of Rates and Bands for Residential Property Transactions) (Wales) Regulations 2020 (S.I. 2020/794)](https://www.legislation.gov.uk/wsi/2020/794), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/794/regulation/1/2), [4(2)(a)](https://www.legislation.gov.uk/wsi/2020/794/regulation/4/2/a) (with [reg. 2](https://www.legislation.gov.uk/wsi/2020/794/regulation/2))
+[^c-14307ea081c444bc2e22b0aac8b731f0]: Textual amendment: Reg. 2(1): reg. 2 renumbered as reg. 2(1) (27.7.2020) by virtue of [The Land Transaction Tax (Temporary Variation of Rates and Bands for Residential Property Transactions) (Wales) Regulations 2020 (S.I. 2020/794)](https://www.legislation.gov.uk/wsi/2020/794), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/794/regulation/1/2), [4(2)(a)](https://www.legislation.gov.uk/wsi/2020/794/regulation/4/2/a) (with [reg. 2](https://www.legislation.gov.uk/wsi/2020/794/regulation/2))
 
-[^key-8878269988772cf5f86e99e585268d42]: Textual amendment: Words in reg. 2(1) inserted (27.7.2020) by [The Land Transaction Tax (Temporary Variation of Rates and Bands for Residential Property Transactions) (Wales) Regulations 2020 (S.I. 2020/794)](https://www.legislation.gov.uk/wsi/2020/794), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/794/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/wsi/2020/794/regulation/4/2/b) (with [reg. 2](https://www.legislation.gov.uk/wsi/2020/794/regulation/2))
+[^c-8878269988772cf5f86e99e585268d42]: Textual amendment: Words in reg. 2(1) inserted (27.7.2020) by [The Land Transaction Tax (Temporary Variation of Rates and Bands for Residential Property Transactions) (Wales) Regulations 2020 (S.I. 2020/794)](https://www.legislation.gov.uk/wsi/2020/794), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/794/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/wsi/2020/794/regulation/4/2/b) (with [reg. 2](https://www.legislation.gov.uk/wsi/2020/794/regulation/2))
 
 [^c22975321]: Marginal citation: *See* [section 17](https://www.legislation.gov.uk/anaw/2017/1/section/17) of the Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 for the definition of “chargeable transaction”.
 
-[^key-95038745bb60cb673ea893d630c20c16]: Textual amendment: Reg. 2(2) inserted (27.7.2020) by [The Land Transaction Tax (Temporary Variation of Rates and Bands for Residential Property Transactions) (Wales) Regulations 2020 (S.I. 2020/794)](https://www.legislation.gov.uk/wsi/2020/794), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/794/regulation/1/2), [4(2)(c)](https://www.legislation.gov.uk/wsi/2020/794/regulation/4/2/c) (with [reg. 2](https://www.legislation.gov.uk/wsi/2020/794/regulation/2))
+[^c-95038745bb60cb673ea893d630c20c16]: Textual amendment: Reg. 2(2) inserted (27.7.2020) by [The Land Transaction Tax (Temporary Variation of Rates and Bands for Residential Property Transactions) (Wales) Regulations 2020 (S.I. 2020/794)](https://www.legislation.gov.uk/wsi/2020/794), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/794/regulation/1/2), [4(2)(c)](https://www.legislation.gov.uk/wsi/2020/794/regulation/4/2/c) (with [reg. 2](https://www.legislation.gov.uk/wsi/2020/794/regulation/2))
 
-[^key-f75d587e14b8a3c8e8c8c9a3ad662143]: Textual amendment: [Sch.](https://www.legislation.gov.uk/wsi/2018/128/schedule) Table 1 substituted (10.10.2022) by [The Land Transaction Tax (Tax Bands and Tax Rates) (Wales) (Amendment) Regulations 2022 (S.I. 2022/1027)](https://www.legislation.gov.uk/wsi/2022/1027), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1027/regulation/1), [7(2)](https://www.legislation.gov.uk/wsi/2022/1027/regulation/7/2) (with [regs. 3-6](https://www.legislation.gov.uk/wsi/2022/1027/regulation/3))
+[^c-f75d587e14b8a3c8e8c8c9a3ad662143]: Textual amendment: [Sch.](https://www.legislation.gov.uk/wsi/2018/128/schedule) Table 1 substituted (10.10.2022) by [The Land Transaction Tax (Tax Bands and Tax Rates) (Wales) (Amendment) Regulations 2022 (S.I. 2022/1027)](https://www.legislation.gov.uk/wsi/2022/1027), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1027/regulation/1), [7(2)](https://www.legislation.gov.uk/wsi/2022/1027/regulation/7/2) (with [regs. 3-6](https://www.legislation.gov.uk/wsi/2022/1027/regulation/3))
 
-[^key-3bb2885d000b7d00010faa56595bc50f]: Textual amendment: [Sch.](https://www.legislation.gov.uk/wsi/2018/128/schedule) Table 2 substituted (11.12.2024) by [The Land Transaction Tax (Tax Bands and Tax Rates) (Wales) (Amendment) Regulations 2024 (S.I. 2024/1311)](https://www.legislation.gov.uk/wsi/2024/1311), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1311/regulation/1/2), [6](https://www.legislation.gov.uk/wsi/2024/1311/regulation/6) (with [regs. 3-5](https://www.legislation.gov.uk/wsi/2024/1311/regulation/3))
+[^c-3bb2885d000b7d00010faa56595bc50f]: Textual amendment: [Sch.](https://www.legislation.gov.uk/wsi/2018/128/schedule) Table 2 substituted (11.12.2024) by [The Land Transaction Tax (Tax Bands and Tax Rates) (Wales) (Amendment) Regulations 2024 (S.I. 2024/1311)](https://www.legislation.gov.uk/wsi/2024/1311), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1311/regulation/1/2), [6](https://www.legislation.gov.uk/wsi/2024/1311/regulation/6) (with [regs. 3-5](https://www.legislation.gov.uk/wsi/2024/1311/regulation/3))
 
-[^key-c3c6123a32e54d9039e3f6f4dabff594]: Textual amendment: [Sch. Table 3](https://www.legislation.gov.uk/wsi/2018/128/schedule) substituted (with effect in accordance with regs. 3-5 of the amending S.I.) by [The Land Transaction Tax (Tax Bands and Tax Rates) (Wales) (Amendment) Regulations 2020 (S.I. 2020/1618)](https://www.legislation.gov.uk/wsi/2020/1618), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1618/regulation/1), [6(3)](https://www.legislation.gov.uk/wsi/2020/1618/regulation/6/3)
+[^c-c3c6123a32e54d9039e3f6f4dabff594]: Textual amendment: [Sch. Table 3](https://www.legislation.gov.uk/wsi/2018/128/schedule) substituted (with effect in accordance with regs. 3-5 of the amending S.I.) by [The Land Transaction Tax (Tax Bands and Tax Rates) (Wales) (Amendment) Regulations 2020 (S.I. 2020/1618)](https://www.legislation.gov.uk/wsi/2020/1618), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1618/regulation/1), [6(3)](https://www.legislation.gov.uk/wsi/2020/1618/regulation/6/3)
 
-[^key-9062c369cd9917bee15bf518d03bee4f]: Textual amendment: [Sch. Table 4](https://www.legislation.gov.uk/wsi/2018/128/schedule) substituted (with effect in accordance with regs. 3-5 of the amending S.I.) by [The Land Transaction Tax (Tax Bands and Tax Rates) (Wales) (Amendment) Regulations 2020 (S.I. 2020/1618)](https://www.legislation.gov.uk/wsi/2020/1618), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1618/regulation/1), [6(4)](https://www.legislation.gov.uk/wsi/2020/1618/regulation/6/4)
+[^c-9062c369cd9917bee15bf518d03bee4f]: Textual amendment: [Sch. Table 4](https://www.legislation.gov.uk/wsi/2018/128/schedule) substituted (with effect in accordance with regs. 3-5 of the amending S.I.) by [The Land Transaction Tax (Tax Bands and Tax Rates) (Wales) (Amendment) Regulations 2020 (S.I. 2020/1618)](https://www.legislation.gov.uk/wsi/2020/1618), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1618/regulation/1), [6(4)](https://www.legislation.gov.uk/wsi/2020/1618/regulation/6/4)

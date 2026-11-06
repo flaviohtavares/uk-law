@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 28. Accounts[^key-542cc7847035b97c3eb90b5bcb61e700]
+## 28. Accounts[^c-542cc7847035b97c3eb90b5bcb61e700]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-542cc7847035b97c3eb90b5bcb61e700]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2019/17/section/28) in force at 14.1.2021 by [S.S.I. 2020/429](https://www.legislation.gov.uk/ssi/2020/429), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2020/429/regulation/2/a)
+[^c-542cc7847035b97c3eb90b5bcb61e700]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2019/17/section/28) in force at 14.1.2021 by [S.S.I. 2020/429](https://www.legislation.gov.uk/ssi/2020/429), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2020/429/regulation/2/a)

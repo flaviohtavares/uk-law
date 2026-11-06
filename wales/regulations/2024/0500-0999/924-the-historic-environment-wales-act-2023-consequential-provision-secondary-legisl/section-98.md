@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**98.**[^key-f9b66813ac51259505a310bd30a941fe] In regulation 4(1), after “(“**the recipient**”)” insert “, but this is subject to regulation 4A”.
+**98.**[^c-f9b66813ac51259505a310bd30a941fe] In regulation 4(1), after “(“**the recipient**”)” insert “, but this is subject to regulation 4A”.
 
 ## Annotations
 
-[^key-f9b66813ac51259505a310bd30a941fe]: Commencement: [Reg. 98](https://www.legislation.gov.uk/wsi/2024/924/regulation/98) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-f9b66813ac51259505a310bd30a941fe]: Commencement: [Reg. 98](https://www.legislation.gov.uk/wsi/2024/924/regulation/98) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 164. Code of practice[^key-aa7c72d6dc2fd4a0d8295de1562e3ba9]
+## 164. Code of practice[^c-aa7c72d6dc2fd4a0d8295de1562e3ba9]
 
 *Extent: S*
 
@@ -29,7 +29,7 @@ summary: ''
 
 (3) Those persons are—
 
-- (a)[^key-2f25126f877dfb4b8de62987b4bf97cd] constables of the Police Service of Scotland,
+- (a)[^c-2f25126f877dfb4b8de62987b4bf97cd] constables of the Police Service of Scotland,
 - (b) prosecutors,
 - (c) such other persons who—
   - (i) engage (to any extent) in the investigation of crime or sudden deaths, and
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-aa7c72d6dc2fd4a0d8295de1562e3ba9]: Commencement: S. 164 in force at 6.6.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178) , [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2) , [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-aa7c72d6dc2fd4a0d8295de1562e3ba9]: Commencement: S. 164 in force at 6.6.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178) , [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2) , [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
 
-[^key-2f25126f877dfb4b8de62987b4bf97cd]: Textual amendment: [S. 164(3)(a)](https://www.legislation.gov.uk/asp/2010/13/section/164/3/a) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 42(3)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/42/3); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-2f25126f877dfb4b8de62987b4bf97cd]: Textual amendment: [S. 164(3)(a)](https://www.legislation.gov.uk/asp/2010/13/section/164/3/a) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 42(3)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/42/3); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))

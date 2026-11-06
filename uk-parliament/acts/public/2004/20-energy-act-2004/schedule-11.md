@@ -24,7 +24,7 @@ Section 53
 
 ### Removal of senior officers by Police Authority
 
-**1.**[^key-875e5efe344a08c9226aa0521306b841] (1) The Police Authority may call on a senior officer, in the interests of efficiency or effectiveness, to retire or to resign.
+**1.**[^c-875e5efe344a08c9226aa0521306b841] (1) The Police Authority may call on a senior officer, in the interests of efficiency or effectiveness, to retire or to resign.
 
 (2) The approval of the Secretary of State is required before the Police Authority may call on a senior officer to retire or to resign.
 
@@ -43,7 +43,7 @@ Section 53
 
 ### Power of Secretary of State to require removal of chief constable
 
-**2.**[^key-3240df6e93a2f93a1b7dc29745d35ca4] (1) The Secretary of State may require the Police Authority to exercise its power under paragraph 1 to call on the chief constable to retire or to resign.
+**2.**[^c-3240df6e93a2f93a1b7dc29745d35ca4] (1) The Secretary of State may require the Police Authority to exercise its power under paragraph 1 to call on the chief constable to retire or to resign.
 
 (2) Before requiring the Police Authority to exercise that power, the Secretary of State must—
 
@@ -84,7 +84,7 @@ must each be given an opportunity of making representations, including (in the c
 
 ### Suspension of senior officers by Police Authority pending removal
 
-**3.**[^key-cc977c6759b39c085c692ee30497214e] (1) This paragraph applies where—
+**3.**[^c-cc977c6759b39c085c692ee30497214e] (1) This paragraph applies where—
 
 - (a) the Police Authority has notified a senior officer that it intends to exercise its power under paragraph 1 to call on him to retire or to resign;
 - (b) the Secretary of State has notified the chief constable under paragraph 2 that he intends to require the Police Authority to exercise that power in his case; or
@@ -98,7 +98,7 @@ must each be given an opportunity of making representations, including (in the c
 
 ### Power of Secretary of State to require suspension of chief constable
 
-**4.**[^key-912271493089f4bf71db293b4cc2666c] (1) This paragraph applies where—
+**4.**[^c-912271493089f4bf71db293b4cc2666c] (1) This paragraph applies where—
 
 - (a) the Police Authority has notified the chief constable that it intends to exercise its power under paragraph 1 to call on him to retire or to resign;
 - (b) the Secretary of State has notified the chief constable under paragraph 2 that he intends to require the Police Authority to exercise that power in his case; or
@@ -114,10 +114,10 @@ must each be given an opportunity of making representations, including (in the c
 
 ## Annotations
 
-[^key-875e5efe344a08c9226aa0521306b841]: Commencement: [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2004/20/schedule/11/paragraph/1) in force at 1.3.2005 by [S.I. 2005/442](https://www.legislation.gov.uk/uksi/2005/442), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/442/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/442/schedule/1)
+[^c-875e5efe344a08c9226aa0521306b841]: Commencement: [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2004/20/schedule/11/paragraph/1) in force at 1.3.2005 by [S.I. 2005/442](https://www.legislation.gov.uk/uksi/2005/442), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/442/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/442/schedule/1)
 
-[^key-3240df6e93a2f93a1b7dc29745d35ca4]: Commencement: [Sch. 11 para. 2](https://www.legislation.gov.uk/ukpga/2004/20/schedule/11/paragraph/2) in force at 1.3.2005 by [S.I. 2005/442](https://www.legislation.gov.uk/uksi/2005/442), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/442/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/442/schedule/1)
+[^c-3240df6e93a2f93a1b7dc29745d35ca4]: Commencement: [Sch. 11 para. 2](https://www.legislation.gov.uk/ukpga/2004/20/schedule/11/paragraph/2) in force at 1.3.2005 by [S.I. 2005/442](https://www.legislation.gov.uk/uksi/2005/442), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/442/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/442/schedule/1)
 
-[^key-cc977c6759b39c085c692ee30497214e]: Commencement: [Sch. 11 para. 3](https://www.legislation.gov.uk/ukpga/2004/20/schedule/11/paragraph/3) in force at 1.3.2005 by [S.I. 2005/442](https://www.legislation.gov.uk/uksi/2005/442), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/442/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/442/schedule/1)
+[^c-cc977c6759b39c085c692ee30497214e]: Commencement: [Sch. 11 para. 3](https://www.legislation.gov.uk/ukpga/2004/20/schedule/11/paragraph/3) in force at 1.3.2005 by [S.I. 2005/442](https://www.legislation.gov.uk/uksi/2005/442), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/442/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/442/schedule/1)
 
-[^key-912271493089f4bf71db293b4cc2666c]: Commencement: [Sch. 11 para. 4](https://www.legislation.gov.uk/ukpga/2004/20/schedule/11/paragraph/4) in force at 1.3.2005 by [S.I. 2005/442](https://www.legislation.gov.uk/uksi/2005/442), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/442/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/442/schedule/1)
+[^c-912271493089f4bf71db293b4cc2666c]: Commencement: [Sch. 11 para. 4](https://www.legislation.gov.uk/ukpga/2004/20/schedule/11/paragraph/4) in force at 1.3.2005 by [S.I. 2005/442](https://www.legislation.gov.uk/uksi/2005/442), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/442/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/442/schedule/1)

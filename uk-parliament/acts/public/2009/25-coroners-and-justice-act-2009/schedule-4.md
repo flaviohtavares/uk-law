@@ -34,12 +34,12 @@ Section 25
 
 **2.** To be eligible for appointment as the Coroner for Treasure, a person must—
 
-- (a) be under the age of 75[^key-4ccfbc98636fdb71e1a64dc74e2bcd18], and
+- (a) be under the age of 75[^c-4ccfbc98636fdb71e1a64dc74e2bcd18], and
 - (b) satisfy the judicial-appointment eligibility condition on a 5-year basis.
 
 #### Vacation or termination of office
 
-**3.** The Coroner for Treasure must vacate office on reaching the age of 75[^key-2be2219642851dbf57b98f20945cb0ff].
+**3.** The Coroner for Treasure must vacate office on reaching the age of 75[^c-2be2219642851dbf57b98f20945cb0ff].
 
 **4.** The Coroner for Treasure may resign office by giving notice to the Lord Chancellor.
 
@@ -94,6 +94,6 @@ Section 25
 
 ## Annotations
 
-[^key-4ccfbc98636fdb71e1a64dc74e2bcd18]: Textual amendment: Word in [Sch. 4 para. 2(a)](https://www.legislation.gov.uk/ukpga/2009/25/schedule/4/paragraph/2/a) substituted (10.3.2022) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 38(3)(a)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/38/3/a) (with [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/43))
+[^c-4ccfbc98636fdb71e1a64dc74e2bcd18]: Textual amendment: Word in [Sch. 4 para. 2(a)](https://www.legislation.gov.uk/ukpga/2009/25/schedule/4/paragraph/2/a) substituted (10.3.2022) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 38(3)(a)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/38/3/a) (with [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/43))
 
-[^key-2be2219642851dbf57b98f20945cb0ff]: Textual amendment: Word in [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2009/25/schedule/4/paragraph/3) substituted (10.3.2022) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 38(3)(b)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/38/3/b) (with [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/43))
+[^c-2be2219642851dbf57b98f20945cb0ff]: Textual amendment: Word in [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2009/25/schedule/4/paragraph/3) substituted (10.3.2022) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 38(3)(b)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/38/3/b) (with [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/43))

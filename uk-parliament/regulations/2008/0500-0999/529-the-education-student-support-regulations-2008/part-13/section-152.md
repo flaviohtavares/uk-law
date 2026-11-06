@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 152. Period of eligibility[^key-50c75b50920994f585c3ce85b5b3545c]
+## 152. Period of eligibility[^c-50c75b50920994f585c3ce85b5b3545c]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ the Secretary of State may, at any time, renew or extend the period of eligibili
 
 ## Annotations
 
-[^key-50c75b50920994f585c3ce85b5b3545c]: Commencement: Reg. 152 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-50c75b50920994f585c3ce85b5b3545c]: Commencement: Reg. 152 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

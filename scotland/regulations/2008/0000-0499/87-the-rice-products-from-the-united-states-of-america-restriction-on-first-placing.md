@@ -34,7 +34,7 @@ AGRICULTURE
 
 FOOD
 
-The Rice Products from the United States of America (Restriction on First Placing on the Market) (Scotland) Regulations 2008 (revoked)[^key-4545c84ab6551a0c25dfccc50ae915ba]
+The Rice Products from the United States of America (Restriction on First Placing on the Market) (Scotland) Regulations 2008 (revoked)[^c-4545c84ab6551a0c25dfccc50ae915ba]
 
 Made
 
@@ -48,44 +48,44 @@ Coming into force
 
 7th March 2008
 
-[^key-4545c84ab6551a0c25dfccc50ae915ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4545c84ab6551a0c25dfccc50ae915ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-4545c84ab6551a0c25dfccc50ae915ba]
+## 1. Citation, commencement and extent[^c-4545c84ab6551a0c25dfccc50ae915ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-4545c84ab6551a0c25dfccc50ae915ba]
+## 2. Interpretation[^c-4545c84ab6551a0c25dfccc50ae915ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Restriction on first placing on the market of rice products[^key-4545c84ab6551a0c25dfccc50ae915ba]
+## 3. Restriction on first placing on the market of rice products[^c-4545c84ab6551a0c25dfccc50ae915ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Enforcement[^key-4545c84ab6551a0c25dfccc50ae915ba]
+## 4. Enforcement[^c-4545c84ab6551a0c25dfccc50ae915ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Recovery of costs[^key-4545c84ab6551a0c25dfccc50ae915ba]
+## 5. Recovery of costs[^c-4545c84ab6551a0c25dfccc50ae915ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Application of various provisions of the Food Safety Act 1990[^key-4545c84ab6551a0c25dfccc50ae915ba]
+## 6. Application of various provisions of the Food Safety Act 1990[^c-4545c84ab6551a0c25dfccc50ae915ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Revocation[^key-4545c84ab6551a0c25dfccc50ae915ba]
+## 7. Revocation[^c-4545c84ab6551a0c25dfccc50ae915ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4545c84ab6551a0c25dfccc50ae915ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4545c84ab6551a0c25dfccc50ae915ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4545c84ab6551a0c25dfccc50ae915ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4545c84ab6551a0c25dfccc50ae915ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4545c84ab6551a0c25dfccc50ae915ba]: Textual amendment: Regulations revoked (18.6.2010) by [The Rice Products from the United States of America (Restriction on First Placing on the Market) (Scotland) Revocation Regulations 2010 (S.S.I. 2010/248)](https://www.legislation.gov.uk/ssi/2010/248), [regs. 1](https://www.legislation.gov.uk/ssi/2010/248/regulation/1), [2](https://www.legislation.gov.uk/ssi/2010/248/regulation/2)
+[^c-4545c84ab6551a0c25dfccc50ae915ba]: Textual amendment: Regulations revoked (18.6.2010) by [The Rice Products from the United States of America (Restriction on First Placing on the Market) (Scotland) Revocation Regulations 2010 (S.S.I. 2010/248)](https://www.legislation.gov.uk/ssi/2010/248), [regs. 1](https://www.legislation.gov.uk/ssi/2010/248/regulation/1), [2](https://www.legislation.gov.uk/ssi/2010/248/regulation/2)

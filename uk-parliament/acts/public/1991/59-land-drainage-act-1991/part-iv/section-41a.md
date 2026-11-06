@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41A. Alternative method of calculating annual value of agricultural land and buildings[^key-1dfbb33b9d3671c7b7900c4d0be490a6]
+## 41A. Alternative method of calculating annual value of agricultural land and buildings[^c-1dfbb33b9d3671c7b7900c4d0be490a6]
 
 *Extent: E+W*
 
@@ -95,4 +95,4 @@ Any determination made under the regulations is subject to sections 43 and 44 be
 
 ## Annotations
 
-[^key-1dfbb33b9d3671c7b7900c4d0be490a6]: Textual amendment: [S. 41A](https://www.legislation.gov.uk/ukpga/1991/59/section/41A) inserted (29.9.2022 for specified purposes) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 96(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/96/3), [147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)[(4)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/4) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/988](https://www.legislation.gov.uk/uksi/2022/988), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/988/regulation/2/b)
+[^c-1dfbb33b9d3671c7b7900c4d0be490a6]: Textual amendment: [S. 41A](https://www.legislation.gov.uk/ukpga/1991/59/section/41A) inserted (29.9.2022 for specified purposes) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 96(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/96/3), [147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)[(4)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/4) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/988](https://www.legislation.gov.uk/uksi/2022/988), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/988/regulation/2/b)

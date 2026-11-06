@@ -35,24 +35,24 @@ determining certain consequential and transitional arrangements concerning the c
 
 (2014/836/EU) (revoked)
 
-[^key-d9e120aabd4ae2af7b78732964ab0d90]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d9e120aabd4ae2af7b78732964ab0d90]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-d9e120aabd4ae2af7b78732964ab0d90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-d9e120aabd4ae2af7b78732964ab0d90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-d9e120aabd4ae2af7b78732964ab0d90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-d9e120aabd4ae2af7b78732964ab0d90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-d9e120aabd4ae2af7b78732964ab0d90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-d9e120aabd4ae2af7b78732964ab0d90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-d9e120aabd4ae2af7b78732964ab0d90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-d9e120aabd4ae2af7b78732964ab0d90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-d9e120aabd4ae2af7b78732964ab0d90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-d9e120aabd4ae2af7b78732964ab0d90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d9e120aabd4ae2af7b78732964ab0d90]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d9e120aabd4ae2af7b78732964ab0d90]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX — LIST OF ACTS REFERRED TO IN ARTICLE 1[^key-d9e120aabd4ae2af7b78732964ab0d90]
+## ANNEX — LIST OF ACTS REFERRED TO IN ARTICLE 1[^c-d9e120aabd4ae2af7b78732964ab0d90]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d9e120aabd4ae2af7b78732964ab0d90]: Textual amendment: Decision revoked (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [115(c)](https://www.legislation.gov.uk/uksi/2019/742/regulation/115/c) (with [regs. 117A](https://www.legislation.gov.uk/uksi/2019/742/regulation/117A), [117B](https://www.legislation.gov.uk/uksi/2019/742/regulation/117B)) (as inserted by [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [34](https://www.legislation.gov.uk/uksi/2020/1408/regulation/34)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d9e120aabd4ae2af7b78732964ab0d90]: Textual amendment: Decision revoked (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [115(c)](https://www.legislation.gov.uk/uksi/2019/742/regulation/115/c) (with [regs. 117A](https://www.legislation.gov.uk/uksi/2019/742/regulation/117A), [117B](https://www.legislation.gov.uk/uksi/2019/742/regulation/117B)) (as inserted by [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [34](https://www.legislation.gov.uk/uksi/2020/1408/regulation/34)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

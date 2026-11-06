@@ -45,7 +45,7 @@ summary: ''
 
 is to be treated as having an interim permission to carry on regulated activities of the kind specified by articles 36A(1)(d) to (f) of the Regulated Activities Order to the extent that P was carrying on such activities immediately before 1st April 2014 and article 64 of that Order in so far as relevant to that activity; and such interim permission may be in addition to any interim permission the person obtains by virtue of paragraph (1).
 
-(2A)[^key-11b29e6b53be8760c8cc74c6dacff4ba] On and after the relevant date, any relevant person (“P”) is to be treated as having an interim permission to carry on relevant mortgage activity.
+(2A)[^c-11b29e6b53be8760c8cc74c6dacff4ba] On and after the relevant date, any relevant person (“P”) is to be treated as having an interim permission to carry on relevant mortgage activity.
 
 (2B) For the purposes of paragraph (2A)—
 
@@ -69,13 +69,13 @@ is to be treated as having an interim permission to carry on regulated activitie
 
 (2E) Section 347 of the Act (the record of authorised persons etc.) does not apply in relation to a person who appears to the FCA to be an authorised person only by virtue of an interim permission obtained under paragraph (2A), but this does not prevent the FCA from maintaining a record of such persons.
 
-(3) On and after the relevant date[^key-faaeebfa47b2a56ee70163a0f506eeef], any relevant person (“P”) who is a local authority is to be treated as having an interim permission to carry on regulated activities of the kind specified by article 60B (regulated credit agreements)[^key-3f4d135180b51934c699d81fa81a0c50] which are activities which P was carrying on at any point in the period of one year ending on 1st April 2014[^key-0d674409aefa73b5799c189ccea3d762].
+(3) On and after the relevant date[^c-faaeebfa47b2a56ee70163a0f506eeef], any relevant person (“P”) who is a local authority is to be treated as having an interim permission to carry on regulated activities of the kind specified by article 60B (regulated credit agreements)[^c-3f4d135180b51934c699d81fa81a0c50] which are activities which P was carrying on at any point in the period of one year ending on 1st April 2014[^c-0d674409aefa73b5799c189ccea3d762].
 
-(3A)[^key-02709fead56246e4b8e623576e5abc84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3A)[^c-02709fead56246e4b8e623576e5abc84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) For the purposes of paragraphs (1) and (2)[^key-785ec838780cbb55a1ddc84de865638f], P is a “relevant person” if P has, in the period beginning with 2nd September 2013 and ending on 31st March 2014 (including both days), notified the FCA of P's desire to obtain interim permission under this article and paid any fee which is provided for in rules made by the FCA for this purpose.
+(4) For the purposes of paragraphs (1) and (2)[^c-785ec838780cbb55a1ddc84de865638f], P is a “relevant person” if P has, in the period beginning with 2nd September 2013 and ending on 31st March 2014 (including both days), notified the FCA of P's desire to obtain interim permission under this article and paid any fee which is provided for in rules made by the FCA for this purpose.
 
-(4A)[^key-f11f3788e9c91fa55112df2575f5e264] For the purposes of paragraph (3)—
+(4A)[^c-f11f3788e9c91fa55112df2575f5e264] For the purposes of paragraph (3)—
 
 - (a) P is a “relevant person” if P has, in the period beginning with 2nd September 2013 and ending on 30th September 2014 (including both days), notified the FCA of P’s desire to obtain interim permission under this article and paid any fee which is provided for in rules made by the FCA for this purpose;
 - (b) “the relevant date” means the day after the later of—
@@ -115,9 +115,9 @@ is to be treated as having an interim permission to carry on regulated activitie
 
 (8) Interim permission which a person (“A”) is treated as having under this article does not permit A to canvass off trade premises borrower-lender-supplier agreements (within the meaning given by article 60L of the Regulated Activities Order) or regulated consumer hire agreements (within the meaning of article 60N of that Order) except to the extent that A's licence under the 1974 Act, immediately before 1st April 2014, specifically provided that A's licence covered that activity; and the reference to canvassing off trade premises is to be read with article 36B of that Order.
 
-(9) Subject to article 59[^key-4d10f7ee987ebd0bb255b7a4d3f6fae4] (application of Act), an interim permission is to be treated as—
+(9) Subject to article 59[^c-4d10f7ee987ebd0bb255b7a4d3f6fae4] (application of Act), an interim permission is to be treated as—
 
-- (a) if P was an authorised person immediately before 1st April 2014[^key-fefda731c4fce41ce32bf09336a8fc69], a variation of permission,
+- (a) if P was an authorised person immediately before 1st April 2014[^c-fefda731c4fce41ce32bf09336a8fc69], a variation of permission,
 - (b) in any other case, a Part 4A permission.
 
 (10) If P was, immediately before 1st April 2014, subject to a requirement imposed by the OFT under section 33A of the 1974 Act (power of OFT to impose requirements on licensees) [^c23374531] and P obtains interim permission under this article, that requirement is to be treated as a requirement imposed by the FCA under section 55L of the Act (subject to any necessary modifications).
@@ -129,7 +129,7 @@ is to be treated as having an interim permission to carry on regulated activitie
 - (a) P has, before 1st April 2014, notified the FCA that P does not wish to obtain interim permission under this article, or
 - (b) the FCA has, before 1st April 2014, notified P in writing, that in the FCA's opinion, P is not carrying on the activities which are described in P's licence.
 
-(13)[^key-ba403b6a16ee93acfcd013d14eecbe3f] Paragraph (15) applies where, before 1st April 2014, the OFT—
+(13)[^c-ba403b6a16ee93acfcd013d14eecbe3f] Paragraph (15) applies where, before 1st April 2014, the OFT—
 
 - (a) had given a notice to P under section 32A(2) of the 1974 Act (suspension of a standard licence) that it is suspending P’s licence, but
 - (b) had not determined under section 34ZA of that Act (representations to OFT: suspension under section 32A) whether or not to confirm such a decision.
@@ -156,26 +156,26 @@ is to be treated as having an interim permission to carry on regulated activitie
 
 [^c23374511]: Marginal citation: Inserted by [S.I. 2010/1010](https://www.legislation.gov.uk/uksi/2010/1010).
 
-[^key-11b29e6b53be8760c8cc74c6dacff4ba]: Textual amendment: [Art. 56(2A)-(2E)](https://www.legislation.gov.uk/uksi/2013/1881/article/56/2A) inserted (17.3.2016 for specified purposes, 20.3.2016 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2016 (S.I. 2016/392)](https://www.legislation.gov.uk/uksi/2016/392), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/392/article/1/2)[(3)(b)](https://www.legislation.gov.uk/uksi/2016/392/article/1/3/b), [7(2)](https://www.legislation.gov.uk/uksi/2016/392/article/7/2) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2016/392/part/5))
+[^c-11b29e6b53be8760c8cc74c6dacff4ba]: Textual amendment: [Art. 56(2A)-(2E)](https://www.legislation.gov.uk/uksi/2013/1881/article/56/2A) inserted (17.3.2016 for specified purposes, 20.3.2016 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2016 (S.I. 2016/392)](https://www.legislation.gov.uk/uksi/2016/392), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/392/article/1/2)[(3)(b)](https://www.legislation.gov.uk/uksi/2016/392/article/1/3/b), [7(2)](https://www.legislation.gov.uk/uksi/2016/392/article/7/2) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2016/392/part/5))
 
-[^key-faaeebfa47b2a56ee70163a0f506eeef]: Textual amendment: Words in art. 56(3) substituted (27.6.2014) by [The Financial Services and Markets Act 2000 (Consumer Credit) (Transitional Provisions) (No. 3) Order 2014 (S.I. 2014/1446)](https://www.legislation.gov.uk/uksi/2014/1446), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1446/article/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2014/1446/article/2/2/a)
+[^c-faaeebfa47b2a56ee70163a0f506eeef]: Textual amendment: Words in art. 56(3) substituted (27.6.2014) by [The Financial Services and Markets Act 2000 (Consumer Credit) (Transitional Provisions) (No. 3) Order 2014 (S.I. 2014/1446)](https://www.legislation.gov.uk/uksi/2014/1446), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1446/article/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2014/1446/article/2/2/a)
 
-[^key-3f4d135180b51934c699d81fa81a0c50]: Textual amendment: Words in art. 56(3) inserted (14.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014 (S.I. 2014/366)](https://www.legislation.gov.uk/uksi/2014/366), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4), [19(2)(a)](https://www.legislation.gov.uk/uksi/2014/366/article/19/2/a)
+[^c-3f4d135180b51934c699d81fa81a0c50]: Textual amendment: Words in art. 56(3) inserted (14.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014 (S.I. 2014/366)](https://www.legislation.gov.uk/uksi/2014/366), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4), [19(2)(a)](https://www.legislation.gov.uk/uksi/2014/366/article/19/2/a)
 
-[^key-0d674409aefa73b5799c189ccea3d762]: Textual amendment: Words in art. 56(3) substituted (27.6.2014) by [The Financial Services and Markets Act 2000 (Consumer Credit) (Transitional Provisions) (No. 3) Order 2014 (S.I. 2014/1446)](https://www.legislation.gov.uk/uksi/2014/1446), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1446/article/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2014/1446/article/2/2/b)
+[^c-0d674409aefa73b5799c189ccea3d762]: Textual amendment: Words in art. 56(3) substituted (27.6.2014) by [The Financial Services and Markets Act 2000 (Consumer Credit) (Transitional Provisions) (No. 3) Order 2014 (S.I. 2014/1446)](https://www.legislation.gov.uk/uksi/2014/1446), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1446/article/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2014/1446/article/2/2/b)
 
-[^key-02709fead56246e4b8e623576e5abc84]: Textual amendment: Art. 56(3A) omitted (27.6.2014) by virtue of [The Financial Services and Markets Act 2000 (Consumer Credit) (Transitional Provisions) (No. 3) Order 2014 (S.I. 2014/1446)](https://www.legislation.gov.uk/uksi/2014/1446), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1446/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2014/1446/article/2/3)
+[^c-02709fead56246e4b8e623576e5abc84]: Textual amendment: Art. 56(3A) omitted (27.6.2014) by virtue of [The Financial Services and Markets Act 2000 (Consumer Credit) (Transitional Provisions) (No. 3) Order 2014 (S.I. 2014/1446)](https://www.legislation.gov.uk/uksi/2014/1446), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1446/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2014/1446/article/2/3)
 
-[^key-785ec838780cbb55a1ddc84de865638f]: Textual amendment: Words in art. 56(4) substituted (27.6.2014) by [The Financial Services and Markets Act 2000 (Consumer Credit) (Transitional Provisions) (No. 3) Order 2014 (S.I. 2014/1446)](https://www.legislation.gov.uk/uksi/2014/1446), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1446/article/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2014/1446/article/2/4)
+[^c-785ec838780cbb55a1ddc84de865638f]: Textual amendment: Words in art. 56(4) substituted (27.6.2014) by [The Financial Services and Markets Act 2000 (Consumer Credit) (Transitional Provisions) (No. 3) Order 2014 (S.I. 2014/1446)](https://www.legislation.gov.uk/uksi/2014/1446), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1446/article/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2014/1446/article/2/4)
 
-[^key-f11f3788e9c91fa55112df2575f5e264]: Textual amendment: Art. 56(4A) inserted (27.6.2014) by [The Financial Services and Markets Act 2000 (Consumer Credit) (Transitional Provisions) (No. 3) Order 2014 (S.I. 2014/1446)](https://www.legislation.gov.uk/uksi/2014/1446), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1446/article/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2014/1446/article/2/5)
+[^c-f11f3788e9c91fa55112df2575f5e264]: Textual amendment: Art. 56(4A) inserted (27.6.2014) by [The Financial Services and Markets Act 2000 (Consumer Credit) (Transitional Provisions) (No. 3) Order 2014 (S.I. 2014/1446)](https://www.legislation.gov.uk/uksi/2014/1446), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1446/article/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2014/1446/article/2/5)
 
 [^c23374521]: Marginal citation: Inserted by [S.I. 2010/1010](https://www.legislation.gov.uk/uksi/2010/1010).
 
-[^key-4d10f7ee987ebd0bb255b7a4d3f6fae4]: Textual amendment: Word in art. 56(9) substituted (14.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014 (S.I. 2014/366)](https://www.legislation.gov.uk/uksi/2014/366), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4), [19(2)(c)(i)](https://www.legislation.gov.uk/uksi/2014/366/article/19/2/c/i)
+[^c-4d10f7ee987ebd0bb255b7a4d3f6fae4]: Textual amendment: Word in art. 56(9) substituted (14.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014 (S.I. 2014/366)](https://www.legislation.gov.uk/uksi/2014/366), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4), [19(2)(c)(i)](https://www.legislation.gov.uk/uksi/2014/366/article/19/2/c/i)
 
-[^key-fefda731c4fce41ce32bf09336a8fc69]: Textual amendment: Words in art. 56(9)(a) substituted (14.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014 (S.I. 2014/366)](https://www.legislation.gov.uk/uksi/2014/366), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4), [19(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2014/366/article/19/2/c/ii)
+[^c-fefda731c4fce41ce32bf09336a8fc69]: Textual amendment: Words in art. 56(9)(a) substituted (14.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014 (S.I. 2014/366)](https://www.legislation.gov.uk/uksi/2014/366), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4), [19(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2014/366/article/19/2/c/ii)
 
 [^c23374531]: Marginal citation: Inserted by the Consumer Credit Act 2006, section 38.
 
-[^key-ba403b6a16ee93acfcd013d14eecbe3f]: Textual amendment: Art. 56(13)-(16) inserted (1.4.2014) by [The Financial Services and Markets Act 2000 (Consumer Credit) (Transitional Provisions) Order 2014 (S.I. 2014/376)](https://www.legislation.gov.uk/uksi/2014/376), [arts. 1](https://www.legislation.gov.uk/uksi/2014/376/article/1), [10](https://www.legislation.gov.uk/uksi/2014/376/article/10)
+[^c-ba403b6a16ee93acfcd013d14eecbe3f]: Textual amendment: Art. 56(13)-(16) inserted (1.4.2014) by [The Financial Services and Markets Act 2000 (Consumer Credit) (Transitional Provisions) Order 2014 (S.I. 2014/376)](https://www.legislation.gov.uk/uksi/2014/376), [arts. 1](https://www.legislation.gov.uk/uksi/2014/376/article/1), [10](https://www.legislation.gov.uk/uksi/2014/376/article/10)

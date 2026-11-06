@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 140. Duty to notify registrar of dissolution[^key-bf7ffd7fa09402214e9e0b1023a27dd9]
+## 140. Duty to notify registrar of dissolution[^c-bf7ffd7fa09402214e9e0b1023a27dd9]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ After section 17 of the Limited Partnerships Act 1907 (power of board of trade t
 
 ## Annotations
 
-[^key-bf7ffd7fa09402214e9e0b1023a27dd9]: Commencement: S. 140 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-bf7ffd7fa09402214e9e0b1023a27dd9]: Commencement: S. 140 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)

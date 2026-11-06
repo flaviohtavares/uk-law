@@ -48,7 +48,7 @@ The Secretary of State, in exercise of the powers conferred by sections 14 and 2
 
 ## PART 1 — GENERAL
 
-### 1. Citation, commencement, application and effect[^key-81210f6a8c9c59d0b6b763d7388705b0]
+### 1. Citation, commencement, application and effect[^c-81210f6a8c9c59d0b6b763d7388705b0]
 
 (1) These Regulations may be cited as the Local Government (Structural Changes) (Transfer of Functions, Property, Rights and Liabilities) Regulations 2008 and shall come into force on 8th September 2008.
 
@@ -59,12 +59,12 @@ The Secretary of State, in exercise of the powers conferred by sections 14 and 2
   - (ii) an order under section 20 of that Act (correction of orders),
   - (iii) an order under section 86 of that Act (reorganisation of community governance)[^f00003],
   - (iv) regulations under section 97 of that Act (supplementary regulations),
-  - (v) an order under Part 2 of the Local Government and Rating Act 1997[^f00004] (parishes and parish councils), [^key-405717842d02409a0141bd675a9739cc]...
-  - (vi) regulations under section 7 of the Superannuation Act 1972[^f00005](superannuation of persons employed in local government service, etc.); or[^key-09851e5fee14bc11785190d486203e2d]
-  - (vii)[^key-e5a4f1883f58ce9fbd6046f3001049c7] regulations under section 3 of the Public Service Pensions Act 2013 (scheme regulations); and
+  - (v) an order under Part 2 of the Local Government and Rating Act 1997[^f00004] (parishes and parish councils), [^c-405717842d02409a0141bd675a9739cc]...
+  - (vi) regulations under section 7 of the Superannuation Act 1972[^f00005](superannuation of persons employed in local government service, etc.); or[^c-09851e5fee14bc11785190d486203e2d]
+  - (vii)[^c-e5a4f1883f58ce9fbd6046f3001049c7] regulations under section 3 of the Public Service Pensions Act 2013 (scheme regulations); and
 - (b) do not affect any transfer of property, rights or liabilities for which provision is contained in an agreement under section 16 of the Local Government and Public Involvement in Health Act 2007 (agreements about incidental matters).
 
-### 2. Interpretation[^key-892cdf1b9914de23f32c906d808fd181]
+### 2. Interpretation[^c-892cdf1b9914de23f32c906d808fd181]
 
 (1) In these Regulations—
 
@@ -97,7 +97,7 @@ the definition of “successor council” shall have effect as if, for “that c
 
 (3) Any reference in these Regulations to rights or liabilities of a predecessor council includes a reference to rights or liabilities acquired or incurred by any predecessor in title of that council.
 
-### 3. Information for facilitating implementation of Regulations[^key-423202dbb45e583a6f32f8a165a95640]
+### 3. Information for facilitating implementation of Regulations[^c-423202dbb45e583a6f32f8a165a95640]
 
 (1) This regulation has effect for the purpose of facilitating the implementation of these Regulations.
 
@@ -146,7 +146,7 @@ do not need to be provided by the end of the relevant period.
 
 ## PART 2 — TRANSFER OF FUNCTIONS
 
-### 4. Transfer of functions to sole single tier council[^key-dde6cc78c68f005657c9b96582a1075a]
+### 4. Transfer of functions to sole single tier council[^c-dde6cc78c68f005657c9b96582a1075a]
 
 If a section 7 order provides for—
 
@@ -155,7 +155,7 @@ If a section 7 order provides for—
 
 the functions of the predecessor councils shall on the reorganisation date become functions of the single tier council.
 
-### 5. Transfer of functions to more than one single tier council[^key-f372813160da76c970ccf37ccb19e73a]
+### 5. Transfer of functions to more than one single tier council[^c-f372813160da76c970ccf37ccb19e73a]
 
 (1) If a section 7 order provides for—
 
@@ -168,7 +168,7 @@ the functions of the predecessor councils shall on the reorganisation date becom
 
 ## PART 3 — TRANSFER OF PROPERTY, RIGHTS AND LIABILITIES
 
-### 6. Interpretation and application of Part 3[^key-127c3a078bad573072dc398159faa93c]
+### 6. Interpretation and application of Part 3[^c-127c3a078bad573072dc398159faa93c]
 
 (1) In this Part —
 
@@ -178,14 +178,14 @@ the functions of the predecessor councils shall on the reorganisation date becom
   - (c) investments or cash which relate exclusively to the land; and
   - (d) records which relate exclusively to the land;
 - “contract” includes any enforceable undertaking;
-- “financial reserves”, in relation to a predecessor council and any successor council, means—[^key-7777c4403147335e1cb4606c041ebd0d]
+- “financial reserves”, in relation to a predecessor council and any successor council, means—[^c-7777c4403147335e1cb4606c041ebd0d]
   - (a) the total of such amounts of a description contained in section 69(2A)(b) of the Local Government Finance Act 1992 (construction of references to expenditure incurred by a billing authority, major precepting authority or local precepting authority); and
   - (b) the total of the amount of the predecessor council’s capital receipts, as defined for the purposes of Chapter 1 of the Local Government Act 2003;
 - “investment” does not include any land held as an investment.
 
 (2) Regulations 9 to 13 do not apply where regulation 7 applies.
 
-### 7. Transfers where only one successor council[^key-02eede3d52584120f6c689f489203ef7]
+### 7. Transfers where only one successor council[^c-02eede3d52584120f6c689f489203ef7]
 
 If a section 7 order provides for—
 
@@ -194,7 +194,7 @@ If a section 7 order provides for—
 
 all property, rights and liabilities of the predecessor councils shall on the reorganisation date vest in, and transfer to, the successor council.
 
-### 8. Transfers where more than one successor council[^key-70bc1489a77c520c1f2b88d71a452f7c]
+### 8. Transfers where more than one successor council[^c-70bc1489a77c520c1f2b88d71a452f7c]
 
 (1) Where there is more than one successor council in relation to a predecessor council—
 
@@ -207,7 +207,7 @@ all property, rights and liabilities of the predecessor councils shall on the re
 
 (4) Regulation 13 shall apply with respect to so much of a predecessor council’s property, rights or liabilities as is a disputed matter within the meaning of section 16(3) of the Act only until the matter is the subject of a default award.
 
-### 9. Property held exclusively for charitable purposes[^key-57ea7b594782f800f5127224b2e3fd32]
+### 9. Property held exclusively for charitable purposes[^c-57ea7b594782f800f5127224b2e3fd32]
 
 (1) If the property is held for the benefit of, or of the inhabitants of, or of any particular class or body of persons in, a specified area, the property shall vest on the reorganisation date (on the same trusts) in the successor council whose area comprises the whole or the greater part of the specified area.
 
@@ -230,19 +230,19 @@ all property, rights and liabilities of the predecessor councils shall on the re
 - “proper officer” has the same meaning as in the Local Government Act 1972[^f00014]; and
 - “relevant charity” means a charity other than a charity which is incorporated by charter or a company.
 
-### 10. Property consisting of financial reserves[^key-6b8de539c9218682bb436c9891582c1e]
+### 10. Property consisting of financial reserves[^c-6b8de539c9218682bb436c9891582c1e]
 
-(1) On the reorganisation date the financial reserves , or such proportion of the financial reserves as may be agreed between the successor councils,[^key-2fc2570302dc20576dd73b783f4ea062] shall vest in the successor council nominated by the Secretary of State for the purposes of this regulation (the “nominated council”) on trust for itself and the other successor councils concerned.
+(1) On the reorganisation date the financial reserves , or such proportion of the financial reserves as may be agreed between the successor councils,[^c-2fc2570302dc20576dd73b783f4ea062] shall vest in the successor council nominated by the Secretary of State for the purposes of this regulation (the “nominated council”) on trust for itself and the other successor councils concerned.
 
-(1A)[^key-a804222caa14a9973209b9ca657e6ce9] Where an agreement has been made between the successor councils under paragraph (1) above for a proportion of the financial reserves to vest in the nominated council on trust, the remainder of the financial reserves shall transfer to the successor councils on the reorganisation date in such proportions as may be agreed between those councils.
+(1A)[^c-a804222caa14a9973209b9ca657e6ce9] Where an agreement has been made between the successor councils under paragraph (1) above for a proportion of the financial reserves to vest in the nominated council on trust, the remainder of the financial reserves shall transfer to the successor councils on the reorganisation date in such proportions as may be agreed between those councils.
 
-(2) Within three months of the reorganisation date, or such longer period as may be agreed between the successor councils concerned before the end of that three-month period, the nominated council shall divide the financial reserves , or such proportion of the financial reserves as are held on trust by agreement between the successor councils under paragraph (1),[^key-db519c734113cb1be13a24c11137aa11] between itself and the other successor councils concerned in such proportion as may be agreed by all the successor councils concerned or, failing such agreement, as is determined by such person as the Secretary of State shall appoint.
+(2) Within three months of the reorganisation date, or such longer period as may be agreed between the successor councils concerned before the end of that three-month period, the nominated council shall divide the financial reserves , or such proportion of the financial reserves as are held on trust by agreement between the successor councils under paragraph (1),[^c-db519c734113cb1be13a24c11137aa11] between itself and the other successor councils concerned in such proportion as may be agreed by all the successor councils concerned or, failing such agreement, as is determined by such person as the Secretary of State shall appoint.
 
 (3) The nominated council shall, as soon as practicable after the other successor councils’ shares have been agreed or determined, transfer the shares so agreed or determined; and the trust created by paragraph (1) shall cease as soon as the transfer has been completed.
 
 (4) In this regulation “the successor councils concerned” means those councils that are the successor councils to the predecessor council to which the financial reserves relate.
 
-### 11. Agreements in relation to property, etc: supplementary provision[^key-75ec1d7694690517e1b676a09ce06bc0]
+### 11. Agreements in relation to property, etc: supplementary provision[^c-75ec1d7694690517e1b676a09ce06bc0]
 
 (1) This regulation applies in relation to—
 
@@ -269,7 +269,7 @@ and, for these purposes, “relevant collection” means —
 
 (4) In paragraph (1)(a) “relevant shares” means shares held in a company which is under the control of a local authority within the meaning of section 68 of the Local Government and Housing Act 1989 Act[^f00015] (but with the omission from subsection (1) of that section of the words “unless the Secretary of State otherwise directs”); and “share” has the same meaning as in the Companies Act 1985[^f00016].
 
-### 12. Vesting of property, etc to which agreements relate[^key-feff48517280cadd4646b2036b3be7b9]
+### 12. Vesting of property, etc to which agreements relate[^c-feff48517280cadd4646b2036b3be7b9]
 
 (1) Subject to paragraph (2)—
 
@@ -285,7 +285,7 @@ and, for these purposes, “relevant collection” means —
 
 the associated property shall, on the reorganisation date, vest in the successor council in which the land is vested, notwithstanding any agreement to the contrary.
 
-### 13. Transfers to caretaker councils[^key-150c2206778f1beb2eb6cac6ff07b315]
+### 13. Transfers to caretaker councils[^c-150c2206778f1beb2eb6cac6ff07b315]
 
 (1) Where—
 
@@ -307,7 +307,7 @@ the Secretary of State shall nominate such one or more of the successor councils
 
 ## PART 4 — MATTERS SUPPLEMENTARY TO TRANSFER OF PROPERTY, RIGHTS AND LIABILITIES
 
-### 14. Disposal of surplus land[^key-f8f4be8ff44b514533df0076ad7aaa47]
+### 14. Disposal of surplus land[^c-f8f4be8ff44b514533df0076ad7aaa47]
 
 (1) A successor council (including any caretaker council), in which any surplus land is vested on the reorganisation date (“the custodian council”)—
 
@@ -329,7 +329,7 @@ the Secretary of State shall nominate such one or more of the successor councils
 - “the successor councils concerned”, in relation to any land, means those councils that are the successor councils to the predecessor council in which the land was vested before the reorganisation date; and
 - “surplus land” means any land that has been identified by the successor councils concerned as surplus to their requirements.
 
-### 15. Caretaker and nominated councils: recovery of expenditure and distribution of surpluses[^key-a0843d09409ce0622fbc1cfeeebfc0b2]
+### 15. Caretaker and nominated councils: recovery of expenditure and distribution of surpluses[^c-a0843d09409ce0622fbc1cfeeebfc0b2]
 
 (1) A council which, under any provision of a relevant instrument, is a caretaker council or a nominated council, may recover from the other successor councils concerned such proportion of any eligible expenditure as may be agreed between them or, failing such agreement, as may be determined by a person appointed by the Secretary of State.
 
@@ -342,7 +342,7 @@ the Secretary of State shall nominate such one or more of the successor councils
   - (i) where the council is a nominated council, received by that council in connection with the management of financial reserves transferred to it under regulation 10;
   - (ii) where the council is a caretaker council, received by that council with respect to investments vested in it by virtue of regulation 13(4).
 
-### 16. Rights of access to records[^key-3a6a7803d6ee9f781ddabcfa276798ed]
+### 16. Rights of access to records[^c-3a6a7803d6ee9f781ddabcfa276798ed]
 
 (1) Where—
 
@@ -357,7 +357,7 @@ that other body shall be entitled during normal office hours, through any person
 
 ## PART 5 — DISPUTES
 
-### 17. Disputes[^key-f27e3288bdb753e7b310e5019dd6fde2]
+### 17. Disputes[^c-f27e3288bdb753e7b310e5019dd6fde2]
 
 (1) Any question as to the interpretation or application of any provision of these Regulations may be determined—
 
@@ -447,7 +447,7 @@ In Part 5, regulation 17 provides for the resolution of disputes as to the inter
 
 [^f00001]: Footnote: [2007 c.28](https://www.legislation.gov.uk/ukpga/2007/28). In accordance with subsection (2) of section 14, subsection (1) of that section is to be read with section 15.
 
-[^key-81210f6a8c9c59d0b6b763d7388705b0]: Commencement: Reg. 1 in force at 8.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2176/regulation/1/1)
+[^c-81210f6a8c9c59d0b6b763d7388705b0]: Commencement: Reg. 1 in force at 8.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2176/regulation/1/1)
 
 [^f00002]: Footnote: *See also* section 14(3), which provides that regulations under section 14 have effect subject to any provision included in an order under section 7 or 10.
 
@@ -455,15 +455,15 @@ In Part 5, regulation 17 provides for the resolution of disputes as to the inter
 
 [^f00004]: Footnote: [1997 c.29](https://www.legislation.gov.uk/ukpga/1997/29). Part 2 is repealed, with savings; *see* [S.I. 2008/337](https://www.legislation.gov.uk/uksi/2008/337).
 
-[^key-405717842d02409a0141bd675a9739cc]: Textual amendment: Word in [reg. 1(2)(a)(v)](https://www.legislation.gov.uk/uksi/2008/2176/regulation/1/2/a/v) omitted (5.9.2018) by virtue of [The Local Government (Structural Changes) (General) (Amendment) Regulations 2018 (S.I. 2018/930)](https://www.legislation.gov.uk/uksi/2018/930), [regs. 1](https://www.legislation.gov.uk/uksi/2018/930/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2018/930/regulation/4/2/a)
+[^c-405717842d02409a0141bd675a9739cc]: Textual amendment: Word in [reg. 1(2)(a)(v)](https://www.legislation.gov.uk/uksi/2008/2176/regulation/1/2/a/v) omitted (5.9.2018) by virtue of [The Local Government (Structural Changes) (General) (Amendment) Regulations 2018 (S.I. 2018/930)](https://www.legislation.gov.uk/uksi/2018/930), [regs. 1](https://www.legislation.gov.uk/uksi/2018/930/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2018/930/regulation/4/2/a)
 
 [^f00005]: Footnote: [1972 c.11](https://www.legislation.gov.uk/ukpga/1972/11). There are amendments of which none is relevant to these Regulations.
 
-[^key-09851e5fee14bc11785190d486203e2d]: Textual amendment: Word in [reg. 1(2)(a)(vi)](https://www.legislation.gov.uk/uksi/2008/2176/regulation/1/2/a/vi) substituted (5.9.2018) by [The Local Government (Structural Changes) (General) (Amendment) Regulations 2018 (S.I. 2018/930)](https://www.legislation.gov.uk/uksi/2018/930), [regs. 1](https://www.legislation.gov.uk/uksi/2018/930/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2018/930/regulation/4/2/b)
+[^c-09851e5fee14bc11785190d486203e2d]: Textual amendment: Word in [reg. 1(2)(a)(vi)](https://www.legislation.gov.uk/uksi/2008/2176/regulation/1/2/a/vi) substituted (5.9.2018) by [The Local Government (Structural Changes) (General) (Amendment) Regulations 2018 (S.I. 2018/930)](https://www.legislation.gov.uk/uksi/2018/930), [regs. 1](https://www.legislation.gov.uk/uksi/2018/930/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2018/930/regulation/4/2/b)
 
-[^key-e5a4f1883f58ce9fbd6046f3001049c7]: Textual amendment: [Reg. 1(2)(a)(vii)](https://www.legislation.gov.uk/uksi/2008/2176/regulation/1/2/a/vii) inserted (5.9.2018) by [The Local Government (Structural Changes) (General) (Amendment) Regulations 2018 (S.I. 2018/930)](https://www.legislation.gov.uk/uksi/2018/930), [regs. 1](https://www.legislation.gov.uk/uksi/2018/930/regulation/1), [4(2)(c)](https://www.legislation.gov.uk/uksi/2018/930/regulation/4/2/c)
+[^c-e5a4f1883f58ce9fbd6046f3001049c7]: Textual amendment: [Reg. 1(2)(a)(vii)](https://www.legislation.gov.uk/uksi/2008/2176/regulation/1/2/a/vii) inserted (5.9.2018) by [The Local Government (Structural Changes) (General) (Amendment) Regulations 2018 (S.I. 2018/930)](https://www.legislation.gov.uk/uksi/2018/930), [regs. 1](https://www.legislation.gov.uk/uksi/2018/930/regulation/1), [4(2)(c)](https://www.legislation.gov.uk/uksi/2018/930/regulation/4/2/c)
 
-[^key-892cdf1b9914de23f32c906d808fd181]: Commencement: Reg. 2 in force at 8.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2176/regulation/1/1)
+[^c-892cdf1b9914de23f32c906d808fd181]: Commencement: Reg. 2 in force at 8.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2176/regulation/1/1)
 
 [^f00006]: Footnote: As to “disputed matter”, see section 16(5) of the Local Government and Public Involvement in Health Act 2007.
 
@@ -473,21 +473,21 @@ In Part 5, regulation 17 provides for the resolution of disputes as to the inter
 
 [^f00009]: Footnote: *See*, for example, article 6(1) of [S.I. 2008/490](https://www.legislation.gov.uk/uksi/2008/490) and [2008/491](https://www.legislation.gov.uk/uksi/2008/491).
 
-[^key-423202dbb45e583a6f32f8a165a95640]: Commencement: Reg. 3 in force at 8.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2176/regulation/1/1)
+[^c-423202dbb45e583a6f32f8a165a95640]: Commencement: Reg. 3 in force at 8.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2176/regulation/1/1)
 
-[^key-dde6cc78c68f005657c9b96582a1075a]: Commencement: Reg. 4 in force at 8.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2176/regulation/1/1)
+[^c-dde6cc78c68f005657c9b96582a1075a]: Commencement: Reg. 4 in force at 8.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2176/regulation/1/1)
 
-[^key-f372813160da76c970ccf37ccb19e73a]: Commencement: Reg. 5 in force at 8.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2176/regulation/1/1)
+[^c-f372813160da76c970ccf37ccb19e73a]: Commencement: Reg. 5 in force at 8.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2176/regulation/1/1)
 
-[^key-127c3a078bad573072dc398159faa93c]: Commencement: Reg. 6 in force at 8.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2176/regulation/1/1)
+[^c-127c3a078bad573072dc398159faa93c]: Commencement: Reg. 6 in force at 8.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2176/regulation/1/1)
 
-[^key-7777c4403147335e1cb4606c041ebd0d]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2008/2176/regulation/6/1) substituted (29.1.2009) by [The Local Government (Structural Changes) (Further Financial Provisions and Amendment) Regulations 2009 (S.I. 2009/5)](https://www.legislation.gov.uk/uksi/2009/5), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/5/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2009/5/regulation/7) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/5/regulation/1/2))
+[^c-7777c4403147335e1cb4606c041ebd0d]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2008/2176/regulation/6/1) substituted (29.1.2009) by [The Local Government (Structural Changes) (Further Financial Provisions and Amendment) Regulations 2009 (S.I. 2009/5)](https://www.legislation.gov.uk/uksi/2009/5), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/5/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2009/5/regulation/7) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/5/regulation/1/2))
 
-[^key-02eede3d52584120f6c689f489203ef7]: Commencement: Reg. 7 in force at 8.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2176/regulation/1/1)
+[^c-02eede3d52584120f6c689f489203ef7]: Commencement: Reg. 7 in force at 8.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2176/regulation/1/1)
 
-[^key-70bc1489a77c520c1f2b88d71a452f7c]: Commencement: Reg. 8 in force at 8.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2176/regulation/1/1)
+[^c-70bc1489a77c520c1f2b88d71a452f7c]: Commencement: Reg. 8 in force at 8.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2176/regulation/1/1)
 
-[^key-57ea7b594782f800f5127224b2e3fd32]: Commencement: Reg. 9 in force at 8.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2176/regulation/1/1)
+[^c-57ea7b594782f800f5127224b2e3fd32]: Commencement: Reg. 9 in force at 8.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2176/regulation/1/1)
 
 [^f00012]: Footnote: [2006 c.50](https://www.legislation.gov.uk/ukpga/2006/50). *See* sections 1 and 2.
 
@@ -495,30 +495,30 @@ In Part 5, regulation 17 provides for the resolution of disputes as to the inter
 
 [^f00014]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70); for “proper officer”, *see* section 270(3) of the Act.
 
-[^key-6b8de539c9218682bb436c9891582c1e]: Commencement: Reg. 10 in force at 8.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2176/regulation/1/1)
+[^c-6b8de539c9218682bb436c9891582c1e]: Commencement: Reg. 10 in force at 8.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2176/regulation/1/1)
 
-[^key-2fc2570302dc20576dd73b783f4ea062]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/uksi/2008/2176/regulation/10/1) inserted (5.9.2018) by [The Local Government (Structural Changes) (General) (Amendment) Regulations 2018 (S.I. 2018/930)](https://www.legislation.gov.uk/uksi/2018/930), [regs. 1](https://www.legislation.gov.uk/uksi/2018/930/regulation/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2018/930/regulation/4/3/a)
+[^c-2fc2570302dc20576dd73b783f4ea062]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/uksi/2008/2176/regulation/10/1) inserted (5.9.2018) by [The Local Government (Structural Changes) (General) (Amendment) Regulations 2018 (S.I. 2018/930)](https://www.legislation.gov.uk/uksi/2018/930), [regs. 1](https://www.legislation.gov.uk/uksi/2018/930/regulation/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2018/930/regulation/4/3/a)
 
-[^key-a804222caa14a9973209b9ca657e6ce9]: Textual amendment: [Reg. 10(1A)](https://www.legislation.gov.uk/uksi/2008/2176/regulation/10/1A) inserted (5.9.2018) by [The Local Government (Structural Changes) (General) (Amendment) Regulations 2018 (S.I. 2018/930)](https://www.legislation.gov.uk/uksi/2018/930), [regs. 1](https://www.legislation.gov.uk/uksi/2018/930/regulation/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2018/930/regulation/4/3/b)
+[^c-a804222caa14a9973209b9ca657e6ce9]: Textual amendment: [Reg. 10(1A)](https://www.legislation.gov.uk/uksi/2008/2176/regulation/10/1A) inserted (5.9.2018) by [The Local Government (Structural Changes) (General) (Amendment) Regulations 2018 (S.I. 2018/930)](https://www.legislation.gov.uk/uksi/2018/930), [regs. 1](https://www.legislation.gov.uk/uksi/2018/930/regulation/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2018/930/regulation/4/3/b)
 
-[^key-db519c734113cb1be13a24c11137aa11]: Textual amendment: Words in [reg. 10(2)](https://www.legislation.gov.uk/uksi/2008/2176/regulation/10/2) inserted (5.9.2018) by [The Local Government (Structural Changes) (General) (Amendment) Regulations 2018 (S.I. 2018/930)](https://www.legislation.gov.uk/uksi/2018/930), [regs. 1](https://www.legislation.gov.uk/uksi/2018/930/regulation/1), [4(3)(c)](https://www.legislation.gov.uk/uksi/2018/930/regulation/4/3/c)
+[^c-db519c734113cb1be13a24c11137aa11]: Textual amendment: Words in [reg. 10(2)](https://www.legislation.gov.uk/uksi/2008/2176/regulation/10/2) inserted (5.9.2018) by [The Local Government (Structural Changes) (General) (Amendment) Regulations 2018 (S.I. 2018/930)](https://www.legislation.gov.uk/uksi/2018/930), [regs. 1](https://www.legislation.gov.uk/uksi/2018/930/regulation/1), [4(3)(c)](https://www.legislation.gov.uk/uksi/2018/930/regulation/4/3/c)
 
-[^key-75ec1d7694690517e1b676a09ce06bc0]: Commencement: Reg. 11 in force at 8.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2176/regulation/1/1)
+[^c-75ec1d7694690517e1b676a09ce06bc0]: Commencement: Reg. 11 in force at 8.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2176/regulation/1/1)
 
 [^f00015]: Footnote: [1989 c.42](https://www.legislation.gov.uk/ukpga/1989/42).
 
 [^f00016]: Footnote: [1985 c.6](https://www.legislation.gov.uk/ukpga/1985/6), to which there are amendments not relevant to these Regulations.
 
-[^key-feff48517280cadd4646b2036b3be7b9]: Commencement: Reg. 12 in force at 8.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2176/regulation/1/1)
+[^c-feff48517280cadd4646b2036b3be7b9]: Commencement: Reg. 12 in force at 8.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2176/regulation/1/1)
 
-[^key-150c2206778f1beb2eb6cac6ff07b315]: Commencement: Reg. 13 in force at 8.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2176/regulation/1/1)
+[^c-150c2206778f1beb2eb6cac6ff07b315]: Commencement: Reg. 13 in force at 8.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2176/regulation/1/1)
 
 [^f00017]: Footnote: *See* section 16(5) of the Act.
 
-[^key-f8f4be8ff44b514533df0076ad7aaa47]: Commencement: Reg. 14 in force at 8.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2176/regulation/1/1)
+[^c-f8f4be8ff44b514533df0076ad7aaa47]: Commencement: Reg. 14 in force at 8.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2176/regulation/1/1)
 
-[^key-a0843d09409ce0622fbc1cfeeebfc0b2]: Commencement: Reg. 15 in force at 8.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2176/regulation/1/1)
+[^c-a0843d09409ce0622fbc1cfeeebfc0b2]: Commencement: Reg. 15 in force at 8.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2176/regulation/1/1)
 
-[^key-3a6a7803d6ee9f781ddabcfa276798ed]: Commencement: Reg. 16 in force at 8.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2176/regulation/1/1)
+[^c-3a6a7803d6ee9f781ddabcfa276798ed]: Commencement: Reg. 16 in force at 8.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2176/regulation/1/1)
 
-[^key-f27e3288bdb753e7b310e5019dd6fde2]: Commencement: Reg. 17 in force at 8.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2176/regulation/1/1)
+[^c-f27e3288bdb753e7b310e5019dd6fde2]: Commencement: Reg. 17 in force at 8.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2176/regulation/1/1)

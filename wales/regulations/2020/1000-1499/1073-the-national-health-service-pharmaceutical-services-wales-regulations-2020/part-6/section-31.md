@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Taking effect of outline consent and premises approval[^key-3c72a126aa389903a40d79488c584c9d]
+## 31. Taking effect of outline consent and premises approval[^c-3c72a126aa389903a40d79488c584c9d]
 
 *Extent: E+W*
 
@@ -65,4 +65,4 @@ as if the notice of appeal were submitted under paragraph 6(1) of Schedule 4.
 
 ## Annotations
 
-[^key-3c72a126aa389903a40d79488c584c9d]: Commencement: [Reg. 31](https://www.legislation.gov.uk/wsi/2020/1073/regulation/31) in force at 1.10.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/3)
+[^c-3c72a126aa389903a40d79488c584c9d]: Commencement: [Reg. 31](https://www.legislation.gov.uk/wsi/2020/1073/regulation/31) in force at 1.10.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/3)

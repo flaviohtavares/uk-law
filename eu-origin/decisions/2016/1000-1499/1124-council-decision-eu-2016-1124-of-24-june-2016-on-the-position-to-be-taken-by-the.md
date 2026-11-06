@@ -33,14 +33,14 @@ of 24 June 2016
 
 on the position to be taken by the Member States on behalf of the European Union within the Permanent Commission of Eurocontrol as regards the decisions to be adopted on centralised services (revoked)
 
-[^key-6a3f73a39fb8dec90ef9ca7b9877b96d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6a3f73a39fb8dec90ef9ca7b9877b96d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-6a3f73a39fb8dec90ef9ca7b9877b96d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-6a3f73a39fb8dec90ef9ca7b9877b96d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-6a3f73a39fb8dec90ef9ca7b9877b96d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-6a3f73a39fb8dec90ef9ca7b9877b96d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6a3f73a39fb8dec90ef9ca7b9877b96d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6a3f73a39fb8dec90ef9ca7b9877b96d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6a3f73a39fb8dec90ef9ca7b9877b96d]: Textual amendment: Decision revoked (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [384](https://www.legislation.gov.uk/uksi/2019/459/regulation/384); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6a3f73a39fb8dec90ef9ca7b9877b96d]: Textual amendment: Decision revoked (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [384](https://www.legislation.gov.uk/uksi/2019/459/regulation/384); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

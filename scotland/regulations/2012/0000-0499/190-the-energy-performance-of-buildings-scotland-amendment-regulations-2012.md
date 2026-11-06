@@ -70,15 +70,15 @@ In regulation 2(1) (interpretation)—
 
   .
 
-## 4. Energy performance certificates on sale or rent[^key-42fa53e876ff10e9aba7b1f4c9d4222e]
+## 4. Energy performance certificates on sale or rent[^c-42fa53e876ff10e9aba7b1f4c9d4222e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Energy performance certificates[^key-3a21ed8ab0c8f7f27a08f2afcc6914d3]
+## 5. Energy performance certificates[^c-3a21ed8ab0c8f7f27a08f2afcc6914d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Recommendations report[^key-1dd531334567999887f6b955505b7f81]
+## 6. Recommendations report[^c-1dd531334567999887f6b955505b7f81]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -95,7 +95,7 @@ For regulation 10 (registration of certificates) together with its cross heading
 >
 > (2) Each register referred to in paragraph (1) shall be maintained by a keeper.
 >
-> (3) A register may be maintained for different purposes or for different classes of buildings or building units[^key-90f3ed818de019ec400fa97167bd389a].
+> (3) A register may be maintained for different purposes or for different classes of buildings or building units[^c-90f3ed818de019ec400fa97167bd389a].
 >
 > (4) Where a member of an approved organisation issues any document referred to in paragraph (1)(a) or (b), that person must ensure that the energy performance data relating to that document is sent to the relevant register before the document is issued.
 >
@@ -122,15 +122,15 @@ For regulation 11 (disclosures generally) substitute—
 
 .
 
-## 9. Disclosures to approved organisation[^key-ac06d4cddcd4003124352cba59567ee4]
+## 9. Disclosures to approved organisation[^c-ac06d4cddcd4003124352cba59567ee4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Disclosures to enforcement authorities and/or the Scottish Ministers[^key-c59632392a6f913de505ea4736a2ce4b]
+## 10. Disclosures to enforcement authorities and/or the Scottish Ministers[^c-c59632392a6f913de505ea4736a2ce4b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Use of information by the Scottish Ministers and/or the keeper of the register[^key-58a77192794ce4fcb923b53b6333c6cd]
+## 11. Use of information by the Scottish Ministers and/or the keeper of the register[^c-58a77192794ce4fcb923b53b6333c6cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -158,16 +158,16 @@ Regulations 7 to 11 amend the provisions on the registration of energy performan
 
 [^c21265701]: Marginal citation: S.S.I. 2008/309 as amended by S.S.I. 2008/389.
 
-[^key-42fa53e876ff10e9aba7b1f4c9d4222e]: Textual amendment: Reg. 4 omitted (30.9.2012) by virtue of [The Energy Performance of Buildings (Scotland) Amendment (No. 2) Regulations 2012 (S.S.I. 2012/208)](https://www.legislation.gov.uk/ssi/2012/208), regs. 1(3), 20(2) (with reg. 19)
+[^c-42fa53e876ff10e9aba7b1f4c9d4222e]: Textual amendment: Reg. 4 omitted (30.9.2012) by virtue of [The Energy Performance of Buildings (Scotland) Amendment (No. 2) Regulations 2012 (S.S.I. 2012/208)](https://www.legislation.gov.uk/ssi/2012/208), regs. 1(3), 20(2) (with reg. 19)
 
-[^key-3a21ed8ab0c8f7f27a08f2afcc6914d3]: Textual amendment: Reg. 5 omitted (30.9.2012) by virtue of [The Energy Performance of Buildings (Scotland) Amendment (No. 2) Regulations 2012 (S.S.I. 2012/208)](https://www.legislation.gov.uk/ssi/2012/208), regs. 1(3), 20(2) (with reg. 19)
+[^c-3a21ed8ab0c8f7f27a08f2afcc6914d3]: Textual amendment: Reg. 5 omitted (30.9.2012) by virtue of [The Energy Performance of Buildings (Scotland) Amendment (No. 2) Regulations 2012 (S.S.I. 2012/208)](https://www.legislation.gov.uk/ssi/2012/208), regs. 1(3), 20(2) (with reg. 19)
 
-[^key-1dd531334567999887f6b955505b7f81]: Textual amendment: Reg. 6 omitted (30.9.2012) by virtue of [The Energy Performance of Buildings (Scotland) Amendment (No. 2) Regulations 2012 (S.S.I. 2012/208)](https://www.legislation.gov.uk/ssi/2012/208), regs. 1(3), 20(2) (with reg. 19)
+[^c-1dd531334567999887f6b955505b7f81]: Textual amendment: Reg. 6 omitted (30.9.2012) by virtue of [The Energy Performance of Buildings (Scotland) Amendment (No. 2) Regulations 2012 (S.S.I. 2012/208)](https://www.legislation.gov.uk/ssi/2012/208), regs. 1(3), 20(2) (with reg. 19)
 
-[^key-90f3ed818de019ec400fa97167bd389a]: Textual amendment: Words in reg. 7 inserted (30.9.2012) by [The Energy Performance of Buildings (Scotland) Amendment (No. 2) Regulations 2012 (S.S.I. 2012/208)](https://www.legislation.gov.uk/ssi/2012/208), regs. 1(3), 20(3) (with reg. 19)
+[^c-90f3ed818de019ec400fa97167bd389a]: Textual amendment: Words in reg. 7 inserted (30.9.2012) by [The Energy Performance of Buildings (Scotland) Amendment (No. 2) Regulations 2012 (S.S.I. 2012/208)](https://www.legislation.gov.uk/ssi/2012/208), regs. 1(3), 20(3) (with reg. 19)
 
-[^key-ac06d4cddcd4003124352cba59567ee4]: Textual amendment: Reg. 9 revoked (21.12.2012) by [The Energy Performance of Buildings (Scotland) Amendment (No.3) Regulations 2012 (S.S.I. 2012/315)](https://www.legislation.gov.uk/ssi/2012/315), [regs. 1](https://www.legislation.gov.uk/ssi/2012/315/regulation/1), [9(2)](https://www.legislation.gov.uk/ssi/2012/315/regulation/9/2)
+[^c-ac06d4cddcd4003124352cba59567ee4]: Textual amendment: Reg. 9 revoked (21.12.2012) by [The Energy Performance of Buildings (Scotland) Amendment (No.3) Regulations 2012 (S.S.I. 2012/315)](https://www.legislation.gov.uk/ssi/2012/315), [regs. 1](https://www.legislation.gov.uk/ssi/2012/315/regulation/1), [9(2)](https://www.legislation.gov.uk/ssi/2012/315/regulation/9/2)
 
-[^key-c59632392a6f913de505ea4736a2ce4b]: Textual amendment: Reg. 10 revoked (21.12.2012) by [The Energy Performance of Buildings (Scotland) Amendment (No.3) Regulations 2012 (S.S.I. 2012/315)](https://www.legislation.gov.uk/ssi/2012/315), [regs. 1](https://www.legislation.gov.uk/ssi/2012/315/regulation/1), [9(2)](https://www.legislation.gov.uk/ssi/2012/315/regulation/9/2)
+[^c-c59632392a6f913de505ea4736a2ce4b]: Textual amendment: Reg. 10 revoked (21.12.2012) by [The Energy Performance of Buildings (Scotland) Amendment (No.3) Regulations 2012 (S.S.I. 2012/315)](https://www.legislation.gov.uk/ssi/2012/315), [regs. 1](https://www.legislation.gov.uk/ssi/2012/315/regulation/1), [9(2)](https://www.legislation.gov.uk/ssi/2012/315/regulation/9/2)
 
-[^key-58a77192794ce4fcb923b53b6333c6cd]: Textual amendment: Reg. 11 revoked (21.12.2012) by [The Energy Performance of Buildings (Scotland) Amendment (No.3) Regulations 2012 (S.S.I. 2012/315)](https://www.legislation.gov.uk/ssi/2012/315), [regs. 1](https://www.legislation.gov.uk/ssi/2012/315/regulation/1), [9(2)](https://www.legislation.gov.uk/ssi/2012/315/regulation/9/2)
+[^c-58a77192794ce4fcb923b53b6333c6cd]: Textual amendment: Reg. 11 revoked (21.12.2012) by [The Energy Performance of Buildings (Scotland) Amendment (No.3) Regulations 2012 (S.S.I. 2012/315)](https://www.legislation.gov.uk/ssi/2012/315), [regs. 1](https://www.legislation.gov.uk/ssi/2012/315/regulation/1), [9(2)](https://www.legislation.gov.uk/ssi/2012/315/regulation/9/2)

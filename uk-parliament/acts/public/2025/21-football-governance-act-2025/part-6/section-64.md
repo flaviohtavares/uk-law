@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 64. Review of distribution orders, payment of costs, etc[^key-021b5f9e0f4b02d4603ee08d2e02f0a1][^key-c165c183b5912b5dd24240cea0e452f2]
+## 64. Review of distribution orders, payment of costs, etc[^c-021b5f9e0f4b02d4603ee08d2e02f0a1][^c-c165c183b5912b5dd24240cea0e452f2]
 
 *Extent: E+W*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-021b5f9e0f4b02d4603ee08d2e02f0a1]: Commencement: S. 64 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-021b5f9e0f4b02d4603ee08d2e02f0a1]: Commencement: S. 64 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-c165c183b5912b5dd24240cea0e452f2]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2025/21/section/64) in force at 29.10.2026 in so far as not already in force by [S.I. 2026/1135](https://www.legislation.gov.uk/uksi/2026/1135), [reg. 2(1)(a)(ix)](https://www.legislation.gov.uk/uksi/2026/1135/regulation/2/1/a/ix)
+[^c-c165c183b5912b5dd24240cea0e452f2]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2025/21/section/64) in force at 29.10.2026 in so far as not already in force by [S.I. 2026/1135](https://www.legislation.gov.uk/uksi/2026/1135), [reg. 2(1)(a)(ix)](https://www.legislation.gov.uk/uksi/2026/1135/regulation/2/1/a/ix)

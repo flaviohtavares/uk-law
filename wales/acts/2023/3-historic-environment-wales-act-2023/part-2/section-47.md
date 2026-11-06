@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47. General functions of guardians[^key-ee1779ee9c4753995604842a64b9c0dc][^key-63ec7d93960d88cb8d952ba6116cfff9]
+## 47. General functions of guardians[^c-ee1779ee9c4753995604842a64b9c0dc][^c-63ec7d93960d88cb8d952ba6116cfff9]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ee1779ee9c4753995604842a64b9c0dc]: Commencement: S. 47 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-ee1779ee9c4753995604842a64b9c0dc]: Commencement: S. 47 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-63ec7d93960d88cb8d952ba6116cfff9]: Commencement: [S. 47](https://www.legislation.gov.uk/asc/2023/3/section/47) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)
+[^c-63ec7d93960d88cb8d952ba6116cfff9]: Commencement: [S. 47](https://www.legislation.gov.uk/asc/2023/3/section/47) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)

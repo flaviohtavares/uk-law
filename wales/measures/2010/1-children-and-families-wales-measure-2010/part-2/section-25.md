@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Prescribed requirements for registration as a child minder[^key-e2e75308817ca1e739a5e89f0eae33f9]
+## 25. Prescribed requirements for registration as a child minder[^c-e2e75308817ca1e739a5e89f0eae33f9]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ The prescribed requirements for registration as a child minder may include requi
 
 ## Annotations
 
-[^key-e2e75308817ca1e739a5e89f0eae33f9]: Commencement: [S. 25](https://www.legislation.gov.uk/mwa/2010/1/section/25) in force at 1.4.2011 by [S.I. 2010/2582](https://www.legislation.gov.uk/wsi/2010/2582), [art. 2](https://www.legislation.gov.uk/wsi/2010/2582/article/2), [Sch. 1](https://www.legislation.gov.uk/wsi/2010/2582/schedule/1) (with [Schs. 2](https://www.legislation.gov.uk/wsi/2010/2582/schedule/2), [3](https://www.legislation.gov.uk/wsi/2010/2582/schedule/3))
+[^c-e2e75308817ca1e739a5e89f0eae33f9]: Commencement: [S. 25](https://www.legislation.gov.uk/mwa/2010/1/section/25) in force at 1.4.2011 by [S.I. 2010/2582](https://www.legislation.gov.uk/wsi/2010/2582), [art. 2](https://www.legislation.gov.uk/wsi/2010/2582/article/2), [Sch. 1](https://www.legislation.gov.uk/wsi/2010/2582/schedule/1) (with [Schs. 2](https://www.legislation.gov.uk/wsi/2010/2582/schedule/2), [3](https://www.legislation.gov.uk/wsi/2010/2582/schedule/3))

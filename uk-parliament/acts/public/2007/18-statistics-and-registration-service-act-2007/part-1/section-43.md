@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Information relating to NHS registration[^key-3b3e7eba9a431dba9e58420b748dff9a]
+## 43. Information relating to NHS registration[^c-3b3e7eba9a431dba9e58420b748dff9a]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3b3e7eba9a431dba9e58420b748dff9a]: Commencement: S. 43 in force at 1.4.2008 by [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)
+[^c-3b3e7eba9a431dba9e58420b748dff9a]: Commencement: S. 43 in force at 1.4.2008 by [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)

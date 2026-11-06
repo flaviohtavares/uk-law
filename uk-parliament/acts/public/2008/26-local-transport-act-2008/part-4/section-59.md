@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Relaxation of rules relating to community bus services[^key-33e8d0714adf496c0f75c9debd325904]
+## 59. Relaxation of rules relating to community bus services[^c-33e8d0714adf496c0f75c9debd325904]
 
 *Extent: E+W+S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-33e8d0714adf496c0f75c9debd325904]: Commencement: S. 59 in force at 6.4.2009 by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 4(1)](https://www.legislation.gov.uk/uksi/2009/107/article/4/1), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/4/part/1) (with [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/4/paragraph/1))
+[^c-33e8d0714adf496c0f75c9debd325904]: Commencement: S. 59 in force at 6.4.2009 by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 4(1)](https://www.legislation.gov.uk/uksi/2009/107/article/4/1), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/4/part/1) (with [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/4/paragraph/1))

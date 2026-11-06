@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Subject to subsection (3) below, any person other than the appropriate agency[^key-7290ae0588d46777aeda3443d4530945], who proposes to install a gauge for measuring and recording the flow, level or volume of any inland waters other than discrete waters—
+(1) Subject to subsection (3) below, any person other than the appropriate agency[^c-7290ae0588d46777aeda3443d4530945], who proposes to install a gauge for measuring and recording the flow, level or volume of any inland waters other than discrete waters—
 
 - (a) shall give notice to the appropriate agency of his proposal to install the gauge; and
 - (b) shall not begin the work of installing it before the end of the period of three months beginning with the date of service of the notice or such shorter period as the appropriate agency may in any particular case allow.
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7290ae0588d46777aeda3443d4530945]: Textual amendment: Words in ss. 199-203 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 299](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/299) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-7290ae0588d46777aeda3443d4530945]: Textual amendment: Words in ss. 199-203 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 299](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/299) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

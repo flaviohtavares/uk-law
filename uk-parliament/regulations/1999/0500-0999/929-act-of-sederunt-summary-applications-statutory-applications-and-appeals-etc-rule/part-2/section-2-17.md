@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2.17. No objection to regularity of citation, service or intimation[^key-5bfa03dcdd6b6cf4dcb28aac2210d8b5]
+## 2.17. No objection to regularity of citation, service or intimation[^c-5bfa03dcdd6b6cf4dcb28aac2210d8b5]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5bfa03dcdd6b6cf4dcb28aac2210d8b5]: Commencement: Rule 2.17 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-5bfa03dcdd6b6cf4dcb28aac2210d8b5]: Commencement: Rule 2.17 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)

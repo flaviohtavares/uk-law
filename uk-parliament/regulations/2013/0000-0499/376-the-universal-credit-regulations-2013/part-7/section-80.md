@@ -24,7 +24,7 @@ summary: ''
 
 (2) Where the welfare benefit is universal credit, the amount to be used is the amount to which the claimant is entitled before any reduction under regulation 81 or under section 26 or 27 of the Act.
 
-(2A)[^key-f02f4930d85ca79a2cf9c2f0fd501620] Where the welfare benefit is housing benefit under section 130 of the Contributions and Benefits Act, the amount to be used is nil.
+(2A)[^c-f02f4930d85ca79a2cf9c2f0fd501620] Where the welfare benefit is housing benefit under section 130 of the Contributions and Benefits Act, the amount to be used is nil.
 
 (3) Where a person is disqualified for receiving an employment and support allowance by virtue of section 18 of the Welfare Reform Act 2007, it is disregarded as a welfare benefit.
 
@@ -36,4 +36,4 @@ summary: ''
 
 [^c2165959]: Marginal citation: [1992 c.5](https://www.legislation.gov.uk/ukpga/1992/5).
 
-[^key-f02f4930d85ca79a2cf9c2f0fd501620]: Textual amendment: [Reg. 80(2A)](https://www.legislation.gov.uk/uksi/2013/376/regulation/80/2A) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Benefit Cap (Housing Benefit and Universal Credit) (Amendment) Regulations 2016 (S.I. 2016/909)](https://www.legislation.gov.uk/uksi/2016/909), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/909/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2016/909/regulation/3/3)
+[^c-f02f4930d85ca79a2cf9c2f0fd501620]: Textual amendment: [Reg. 80(2A)](https://www.legislation.gov.uk/uksi/2013/376/regulation/80/2A) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Benefit Cap (Housing Benefit and Universal Credit) (Amendment) Regulations 2016 (S.I. 2016/909)](https://www.legislation.gov.uk/uksi/2016/909), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/909/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2016/909/regulation/3/3)

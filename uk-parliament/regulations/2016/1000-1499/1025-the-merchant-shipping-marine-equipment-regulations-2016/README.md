@@ -32,7 +32,7 @@ summary: ''
 
 Merchant Shipping
 
-The Merchant Shipping (Marine Equipment) Regulations 2016 (revoked)[^key-0eb5957faf45e7cddf20b111c6d7ab04]
+The Merchant Shipping (Marine Equipment) Regulations 2016 (revoked)[^c-0eb5957faf45e7cddf20b111c6d7ab04]
 
 Made
 
@@ -46,11 +46,11 @@ Coming into force
 
 5th December 2016
 
-[^key-0eb5957faf45e7cddf20b111c6d7ab04]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0eb5957faf45e7cddf20b111c6d7ab04]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — Preliminary[^key-0eb5957faf45e7cddf20b111c6d7ab04]
+### PART 1 — Preliminary[^c-0eb5957faf45e7cddf20b111c6d7ab04]
 
 **No longer in force.**
 
@@ -59,7 +59,7 @@ Coming into force
 - [Section 3 — Application](part-1/section-3.md)
 - [Section 4 — Designation of approved and nominated bodies](part-1/section-4.md)
 
-### PART 2 — Requirements for Equipment[^key-0eb5957faf45e7cddf20b111c6d7ab04]
+### PART 2 — Requirements for Equipment[^c-0eb5957faf45e7cddf20b111c6d7ab04]
 
 **No longer in force.**
 
@@ -70,7 +70,7 @@ Coming into force
 - [Section 9 — Exemptions in exceptional circumstances](part-2/section-9.md)
 - [Section 10 — Transfer of a ship](part-2/section-10.md)
 
-### PART 3 — United Kingdom Conformity Assessment Procedures[^key-0eb5957faf45e7cddf20b111c6d7ab04]
+### PART 3 — United Kingdom Conformity Assessment Procedures[^c-0eb5957faf45e7cddf20b111c6d7ab04]
 
 **No longer in force.**
 
@@ -81,14 +81,14 @@ Coming into force
 - [Section 15 — Affixing the United Kingdom conformity mark](part-3/section-15.md)
 - [Section 16 — Authorised Representatives](part-3/section-16.md)
 
-### PART 4 — Other Conformity Assessment Procedures[^key-0eb5957faf45e7cddf20b111c6d7ab04]
+### PART 4 — Other Conformity Assessment Procedures[^c-0eb5957faf45e7cddf20b111c6d7ab04]
 
 **No longer in force.**
 
 - [Section 17 — Application for grant of conformity approval](part-4/section-17.md)
 - [Section 18 — Grant of conformity approval: obligations of nominated bodies](part-4/section-18.md)
 
-### PART 5 — Obligations of Economic Operators[^key-0eb5957faf45e7cddf20b111c6d7ab04]
+### PART 5 — Obligations of Economic Operators[^c-0eb5957faf45e7cddf20b111c6d7ab04]
 
 **No longer in force.**
 
@@ -97,7 +97,7 @@ Coming into force
 - [Section 21 — Obligations of an importer](part-5/section-21.md)
 - [Section 22 — Obligations of an economic operator](part-5/section-22.md)
 
-### PART 6 — Enforcement[^key-0eb5957faf45e7cddf20b111c6d7ab04]
+### PART 6 — Enforcement[^c-0eb5957faf45e7cddf20b111c6d7ab04]
 
 **No longer in force.**
 
@@ -108,7 +108,7 @@ Coming into force
 - [Section 27 — Powers to detain](part-6/section-27.md)
 - [Section 28 — Application of powers of inspectors in relation to Government ships](part-6/section-28.md)
 
-### PART 7 — Miscellaneous[^key-0eb5957faf45e7cddf20b111c6d7ab04]
+### PART 7 — Miscellaneous[^c-0eb5957faf45e7cddf20b111c6d7ab04]
 
 **No longer in force.**
 
@@ -127,14 +127,14 @@ Coming into force
 
 **No longer in force.**
 
-[^key-0eb5957faf45e7cddf20b111c6d7ab04]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0eb5957faf45e7cddf20b111c6d7ab04]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S+N.I.*
 
 **May not be in force at this date. Check the source.**
 
-[^key-0eb5957faf45e7cddf20b111c6d7ab04]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0eb5957faf45e7cddf20b111c6d7ab04]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0eb5957faf45e7cddf20b111c6d7ab04]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2016/1025) revoked (5.1.2026) by [The Merchant Shipping (Marine Equipment) Regulations 2025 (S.I. 2025/1280)](https://www.legislation.gov.uk/uksi/2025/1280), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1280/regulation/1/1), [Sch. 1 para. 27(a)](https://www.legislation.gov.uk/uksi/2025/1280/schedule/1/paragraph/27/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/1280/regulation/3))
+[^c-0eb5957faf45e7cddf20b111c6d7ab04]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2016/1025) revoked (5.1.2026) by [The Merchant Shipping (Marine Equipment) Regulations 2025 (S.I. 2025/1280)](https://www.legislation.gov.uk/uksi/2025/1280), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1280/regulation/1/1), [Sch. 1 para. 27(a)](https://www.legislation.gov.uk/uksi/2025/1280/schedule/1/paragraph/27/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/1280/regulation/3))

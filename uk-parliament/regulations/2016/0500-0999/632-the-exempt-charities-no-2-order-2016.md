@@ -47,9 +47,9 @@ The Queen’s Most Excellent Majesty in Council
 
 Her Majesty, in pursuance of section 22 of, and paragraph 4(1)(a) of Schedule 3 to the Charities Act 2011[^f00001], is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:
 
-**1.**[^key-335c3654c373374c87fd067fb612e6c9] This Order may be cited as the Exempt Charities (No. 2) Order 2016 and shall come into force on 1st August 2016.
+**1.**[^c-335c3654c373374c87fd067fb612e6c9] This Order may be cited as the Exempt Charities (No. 2) Order 2016 and shall come into force on 1st August 2016.
 
-**2.**[^key-209ff15434d9f2c27d6c7f510e556488] University of Suffolk is hereby declared to be an exempt charity for the purposes of the Charities Act 2011.
+**2.**[^c-209ff15434d9f2c27d6c7f510e556488] University of Suffolk is hereby declared to be an exempt charity for the purposes of the Charities Act 2011.
 
 Richard Tilbrook
 
@@ -71,6 +71,6 @@ The Higher Education Funding Council for England (HEFCE) has been appointed prin
 
 [^f00001]: Footnote: [2011 c.25](https://www.legislation.gov.uk/ukpga/2011/25).
 
-[^key-335c3654c373374c87fd067fb612e6c9]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2016/632/article/1) in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/632/article/1)
+[^c-335c3654c373374c87fd067fb612e6c9]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2016/632/article/1) in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/632/article/1)
 
-[^key-209ff15434d9f2c27d6c7f510e556488]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2016/632/article/2) in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/632/article/1)
+[^c-209ff15434d9f2c27d6c7f510e556488]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2016/632/article/2) in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/632/article/1)

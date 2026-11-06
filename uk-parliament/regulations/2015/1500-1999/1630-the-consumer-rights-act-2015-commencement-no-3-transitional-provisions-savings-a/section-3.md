@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Provisions coming into force on 1st October 2015[^key-e5d5ba383a6fe4492f28e962b19a0394]
+## 3. Provisions coming into force on 1st October 2015[^c-e5d5ba383a6fe4492f28e962b19a0394]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ The following provisions of the Act come into force on 1st October 2015, subject
 
 ## Annotations
 
-[^key-e5d5ba383a6fe4492f28e962b19a0394]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2015/1630/article/3) in force at 1.10.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1630/article/1)
+[^c-e5d5ba383a6fe4492f28e962b19a0394]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2015/1630/article/3) in force at 1.10.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1630/article/1)

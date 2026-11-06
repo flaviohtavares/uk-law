@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Delegation[^key-a56d37b021da48b55e264eaf361a3041]
+## 6. Delegation[^c-a56d37b021da48b55e264eaf361a3041]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a56d37b021da48b55e264eaf361a3041]: Commencement: Art. 6 comes into force in accordance with art. 1(3)-(6)
+[^c-a56d37b021da48b55e264eaf361a3041]: Commencement: Art. 6 comes into force in accordance with art. 1(3)-(6)

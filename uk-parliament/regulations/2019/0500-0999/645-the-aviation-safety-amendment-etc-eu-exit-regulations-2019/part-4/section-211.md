@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 211. Amendment of Subpart B of Section B of Annex 1 to [Commission Regulation (EU) No 748/2012](https://www.legislation.gov.uk/eur/2012/0748)[^key-882ce587a4c19834aea3fda9bdc82347]
+## 211. Amendment of Subpart B of Section B of Annex 1 to [Commission Regulation (EU) No 748/2012](https://www.legislation.gov.uk/eur/2012/0748)[^c-882ce587a4c19834aea3fda9bdc82347]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-882ce587a4c19834aea3fda9bdc82347]: Textual amendment: Reg. 211 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Aviation Safety (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1116)](https://www.legislation.gov.uk/uksi/2020/1116), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1116/regulation/1/3), [11](https://www.legislation.gov.uk/uksi/2020/1116/regulation/11)
+[^c-882ce587a4c19834aea3fda9bdc82347]: Textual amendment: Reg. 211 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Aviation Safety (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1116)](https://www.legislation.gov.uk/uksi/2020/1116), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1116/regulation/1/3), [11](https://www.legislation.gov.uk/uksi/2020/1116/regulation/11)

@@ -24,7 +24,7 @@ summary: ''
 
 - (a) each person to whom the proceedings relate;
 - (b) the legal representative (if any) of each such person;
-- (c) the commanding officer , if any,[^key-587640f29b1e7c38e03cc2d842363dbf] of each such person;
+- (c) the commanding officer , if any,[^c-587640f29b1e7c38e03cc2d842363dbf] of each such person;
 - (d) the Director;
 - (e) where the proceedings are for the hearing of an application, the applicant; and
 - (f) any such other person as the Judge Advocate General may direct.
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-587640f29b1e7c38e03cc2d842363dbf]: Textual amendment: Words in [rule 17(1)(c)](https://www.legislation.gov.uk/uksi/2009/2041/rule/17/1/c) inserted (16.10.2024) by [The Armed Forces (Court Martial) (Amendment) Rules 2024 (S.I. 2024/1036)](https://www.legislation.gov.uk/uksi/2024/1036), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1036/rule/1/2), [4](https://www.legislation.gov.uk/uksi/2024/1036/rule/4)
+[^c-587640f29b1e7c38e03cc2d842363dbf]: Textual amendment: Words in [rule 17(1)(c)](https://www.legislation.gov.uk/uksi/2009/2041/rule/17/1/c) inserted (16.10.2024) by [The Armed Forces (Court Martial) (Amendment) Rules 2024 (S.I. 2024/1036)](https://www.legislation.gov.uk/uksi/2024/1036), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1036/rule/1/2), [4](https://www.legislation.gov.uk/uksi/2024/1036/rule/4)

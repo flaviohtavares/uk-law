@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 78. Transfer of cases to simple procedure[^key-3be9100a9db1de3efca2cee73cbf0535]
+## 78. Transfer of cases to simple procedure[^c-3be9100a9db1de3efca2cee73cbf0535]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3be9100a9db1de3efca2cee73cbf0535]: Commencement: [S. 78](https://www.legislation.gov.uk/asp/2014/18/section/78) in force at 28.11.2016 for specified purposes by [S.S.I. 2016/291](https://www.legislation.gov.uk/ssi/2016/291), [art. 2](https://www.legislation.gov.uk/ssi/2016/291/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/291/schedule) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2016/291/article/3/1)[(4)](https://www.legislation.gov.uk/ssi/2016/291/article/3/4))
+[^c-3be9100a9db1de3efca2cee73cbf0535]: Commencement: [S. 78](https://www.legislation.gov.uk/asp/2014/18/section/78) in force at 28.11.2016 for specified purposes by [S.S.I. 2016/291](https://www.legislation.gov.uk/ssi/2016/291), [art. 2](https://www.legislation.gov.uk/ssi/2016/291/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/291/schedule) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2016/291/article/3/1)[(4)](https://www.legislation.gov.uk/ssi/2016/291/article/3/4))

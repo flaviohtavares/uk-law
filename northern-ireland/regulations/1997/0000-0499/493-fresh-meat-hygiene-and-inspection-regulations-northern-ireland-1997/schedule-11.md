@@ -22,12 +22,12 @@ summary: ''
 
 Regulations 4(2)(*a*)(ii) and 7(1)(*e*)
 
-**1.**[^key-7ee0b41c51af2296e278edff40f7aa12] In this Part of the Schedule—
+**1.**[^c-7ee0b41c51af2296e278edff40f7aa12] In this Part of the Schedule—
 
 - “the appropriate receptacles” means the receptacles referred to in paragraph 1(*g*) of Schedule 1 and paragraph 1(*f*) of Schedule 5; and
 - “the refrigerated room” means the room referred to in paragraph 1(*a*)(ii) of Schedule 3 and paragraph 1(*i*) of Part I of Schedule 5.
 
-**2.**[^key-7d722e58aaa6b6b44131c7bd9924c1bc] The occupier of the cutting premises shall ensure that—
+**2.**[^c-7d722e58aaa6b6b44131c7bd9924c1bc] The occupier of the cutting premises shall ensure that—
 
 - (a) any of the meat listed at (i) to (vi) is cut up, prepared or, if unpackaged, stored (as the case may be) in the case of (i), (ii) and (iii) in a separate room from, or at other times than unpackaged fresh meat and in the case of (iv), (v) and (vi), separately from unpackaged fresh meat—
   - (i) poultry meat;
@@ -49,7 +49,7 @@ Regulations 4(2)(*a*)(ii) and 7(1)(*e*)
 - (j) no implement is left in fresh meat; and
 - (k) in the case of fresh meat from bovine animals, obvious nervous and lymphatic tissue is removed and collected in the appropriate receptacles and not used for human consumption and if the meat is intended for export, or for consignment to an EEA State and it is derived from bovine animals aged over two and a half years at slaughter which have resided on a holding where Bovine Spongiform Encephalopathy has been confirmed within the six years prior to slaughter, the following lymph nodes are removed, collected as above and not used for human consumption: popliteal, ischiatic, superficial inguinal, deep inguinal, medial and lateral iliac, renal, prefemoral, lumbar, costocervical, sternal, prescapular, axillary and caudal deep cervical.
 
-**3.**[^key-779435b4c5664322fe359efc1a63942d] Notwithstanding anything in paragraph 2 or paragraph 1(1)(*q*) of Schedule 9—
+**3.**[^c-779435b4c5664322fe359efc1a63942d] Notwithstanding anything in paragraph 2 or paragraph 1(1)(*q*) of Schedule 9—
 
 - (a) fresh meat may be cut up without first being chilled subject to the following conditions—
   - (i) the fresh meat is transferred directly and without risk of contamination from a slaughterhouse or farmed/wild game processing facility to cutting premises within the same group of buildings;
@@ -63,8 +63,8 @@ Regulations 4(2)(*a*)(ii) and 7(1)(*e*)
 
 ## Annotations
 
-[^key-7ee0b41c51af2296e278edff40f7aa12]: Commencement: Sch. 11 para. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
+[^c-7ee0b41c51af2296e278edff40f7aa12]: Commencement: Sch. 11 para. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
 
-[^key-7d722e58aaa6b6b44131c7bd9924c1bc]: Commencement: Sch. 11 para. 2 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
+[^c-7d722e58aaa6b6b44131c7bd9924c1bc]: Commencement: Sch. 11 para. 2 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
 
-[^key-779435b4c5664322fe359efc1a63942d]: Commencement: Sch. 11 para. 3 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
+[^c-779435b4c5664322fe359efc1a63942d]: Commencement: Sch. 11 para. 3 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)

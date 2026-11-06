@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**324.**[^key-eecb815f849602f203a53b9088ab357b] In Schedule 2—
+**324.**[^c-eecb815f849602f203a53b9088ab357b] In Schedule 2—
 
 - (a) in the second column of the entry relating to the Public Health (Control of Disease) Act 1984, for “Part 2” substitute “Part 4”;
 - (b) in the first column of the entry relating to the Disabled Persons (Services, Consultation and Representation) Act 1986, for “Sections 1 to 3 and 5(5)” substitute “Sections 1, 2 and 5(5)”;
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eecb815f849602f203a53b9088ab357b]: Commencement: Reg. 324 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-eecb815f849602f203a53b9088ab357b]: Commencement: Reg. 324 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

@@ -20,11 +20,11 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) The filing member of a multinational group may elect that the net gain in respect of the disposal of local tangible assets by standard members of the group in a territory in an accounting period (“the election period”) is to be spread across that period and the preceding 4 accounting periods (and those preceding periods are referred to collectively as[^key-d7f6a0a57eb0d851f04201e03d34d93d] “**the look-back period**”) in accordance with subsection (2).
+(1) The filing member of a multinational group may elect that the net gain in respect of the disposal of local tangible assets by standard members of the group in a territory in an accounting period (“the election period”) is to be spread across that period and the preceding 4 accounting periods (and those preceding periods are referred to collectively as[^c-d7f6a0a57eb0d851f04201e03d34d93d] “**the look-back period**”) in accordance with subsection (2).
 
 (2) To spread the net gain across those periods take the following steps—
 
-- *Step 1[^key-8d51ed9028691158eb49b7b83867d88e]*
+- *Step 1[^c-8d51ed9028691158eb49b7b83867d88e]*
 
   For each standard member of the group in the territory in the first accounting period of the look-back period (“the carry-back period”), determine whether it has net losses in respect of the disposal of local tangible assets (ignoring any losses in relation to which these steps have previously been carried out).
 - *Step 2*
@@ -60,7 +60,7 @@ summary: ''
 - *Step 8*
 
   If there still remains an amount of the net gain which was not used to reduced the members’ losses, divide the amount remaining by 5.
-- *Step 9[^key-e6805cd9c9fb007893cb4a507c7d495a]*
+- *Step 9[^c-e6805cd9c9fb007893cb4a507c7d495a]*
 
   Determine which of the standard members of the group (“current gain members”) located in the territory have net gains from the disposal of local tangible assets in the election period.
 
@@ -91,7 +91,7 @@ summary: ''
     - (i) the net gains of the current gain member from the disposal of local tangible assets in the election period, by
     - (ii) the sum of net gains from the disposal of local tangible assets in the election period of all current gain members.
 
-(3) For the purposes of this section any gain or loss arising from the transfer of assets between [^key-351ead5f193d8ffadac0b6a2580a2d40]... members of a multinational group is to be ignored.
+(3) For the purposes of this section any gain or loss arising from the transfer of assets between [^c-351ead5f193d8ffadac0b6a2580a2d40]... members of a multinational group is to be ignored.
 
 (4) Where, as a result of an election under this section, the underlying profits of a member of a multinational group in an accounting period is adjusted, the following are to be recalculated for that period—
 
@@ -111,10 +111,10 @@ summary: ''
 
 ## Annotations
 
-[^key-d7f6a0a57eb0d851f04201e03d34d93d]: Textual amendment: Words in [s. 163(1)](https://www.legislation.gov.uk/ukpga/2023/30/section/163/1) substituted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 13(2)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/13/2)
+[^c-d7f6a0a57eb0d851f04201e03d34d93d]: Textual amendment: Words in [s. 163(1)](https://www.legislation.gov.uk/ukpga/2023/30/section/163/1) substituted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 13(2)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/13/2)
 
-[^key-8d51ed9028691158eb49b7b83867d88e]: Textual amendment: Words in [s. 163(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/163/2) substituted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 13(3)(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/13/3/a)
+[^c-8d51ed9028691158eb49b7b83867d88e]: Textual amendment: Words in [s. 163(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/163/2) substituted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 13(3)(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/13/3/a)
 
-[^key-e6805cd9c9fb007893cb4a507c7d495a]: Textual amendment: Words in [s. 163(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/163/2) substituted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 13(3)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/13/3/b)
+[^c-e6805cd9c9fb007893cb4a507c7d495a]: Textual amendment: Words in [s. 163(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/163/2) substituted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 13(3)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/13/3/b)
 
-[^key-351ead5f193d8ffadac0b6a2580a2d40]: Textual amendment: Word in [s. 163(3)](https://www.legislation.gov.uk/ukpga/2023/30/section/163/3) omitted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 13(4)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/13/4)
+[^c-351ead5f193d8ffadac0b6a2580a2d40]: Textual amendment: Word in [s. 163(3)](https://www.legislation.gov.uk/ukpga/2023/30/section/163/3) omitted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 13(4)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/13/4)

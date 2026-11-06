@@ -382,7 +382,7 @@ and the employer shall so far as is reasonably practicable provide any employee 
 
 (4) Personal protective equipment provided by an employer in accordance with this regulation or with regulation 14(1) shall be suitable for its purpose and shall—
 
-- (a) comply with any legal requirement[^key-d1dd78e271133fca54940fe9fe0d8378] which is applicable to that item of personal protective equipment; or
+- (a) comply with any legal requirement[^c-d1dd78e271133fca54940fe9fe0d8378] which is applicable to that item of personal protective equipment; or
 - (b) in the case of respiratory protective equipment, where no provision referred to in sub-paragraph (a) applies, be of a type approved or shall conform to a standard approved, in either case, by the Executive.
 
 (5) The employer shall—
@@ -393,7 +393,7 @@ and the employer shall so far as is reasonably practicable provide any employee 
   - (ii) as soon as is reasonably practicable identify the reasons for the control limit being exceeded and take the appropriate measures to prevent it being exceeded again; and
   - (iii) check the effectiveness of the measures taken pursuant to sub-paragraph (ii) by carrying out immediate air monitoring.
 
-(6)[^key-3085533ac273765bc74a422815fed82c] In paragraph (4)(a), “legal requirement” means any requirement of the Personal Protective Equipment Regulations 2002 or Regulation (EU) 2016/425 of the European Parliament and of the Council on personal protective equipment and repealing Council [Directive 89/686/EEC](https://www.legislation.gov.uk/european/directive/1989/0686) (OJ No L81, 31.3.2016, p51).
+(6)[^c-3085533ac273765bc74a422815fed82c] In paragraph (4)(a), “legal requirement” means any requirement of the Personal Protective Equipment Regulations 2002 or Regulation (EU) 2016/425 of the European Parliament and of the Council on personal protective equipment and repealing Council [Directive 89/686/EEC](https://www.legislation.gov.uk/european/directive/1989/0686) (OJ No L81, 31.3.2016, p51).
 
 ### 12. Use of control measures etc.
 
@@ -756,7 +756,7 @@ Regulations 14(4), 24(2) and (3) and 27
 
 **1.** (1) Subject to sub-paragraphs (2) and (3), the label to be used on—
 
-- (a)[^key-4fe0bda1ab7f1c8547b63e6ac527f4f8] raw asbestos, together with the labelling required under—
+- (a)[^c-4fe0bda1ab7f1c8547b63e6ac527f4f8] raw asbestos, together with the labelling required under—
   - (i) Regulation [(EC) No 1272/2008](https://www.legislation.gov.uk/european/regulation/2008/1272) of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives [67/548/EEC](https://www.legislation.gov.uk/european/directive/1967/0548) and [1999/45/EC](https://www.legislation.gov.uk/european/directive/1999/0045) and amending Regulation [(EC) No. 1907/2006](https://www.legislation.gov.uk/european/regulation/2006/1907), of which Articles 6(5), 11(3), 12, 14, 18(3)(b), 23, 25 to 29, 35(2) second and third sub-paragraphs and Annexes I to VII are to be read as amended from time to time; and
   - (ii) the Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations (Northern Ireland) 2010;
 - (b) asbestos waste, when required to be so labelled by regulation 24(3); and
@@ -1022,9 +1022,9 @@ Regulation 33(2)
 
 [^c21249191]: Marginal citation: S.R.[1997 No.269](https://www.legislation.gov.uk/ukcm/1997/269)
 
-[^key-d1dd78e271133fca54940fe9fe0d8378]: Textual amendment: Words in [reg. 11(4)(a)](https://www.legislation.gov.uk/nisr/2012/179/regulation/11/4/a) substituted (21.4.2018) by [The Personal Protective Equipment (Enforcement) Regulations 2018 (S.I. 2018/390)](https://www.legislation.gov.uk/uksi/2018/390), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/390/regulation/1/1), [Sch. 5 para. 13(a)](https://www.legislation.gov.uk/uksi/2018/390/schedule/5/paragraph/13/a) (with [reg. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2018/390/regulation/2/1))
+[^c-d1dd78e271133fca54940fe9fe0d8378]: Textual amendment: Words in [reg. 11(4)(a)](https://www.legislation.gov.uk/nisr/2012/179/regulation/11/4/a) substituted (21.4.2018) by [The Personal Protective Equipment (Enforcement) Regulations 2018 (S.I. 2018/390)](https://www.legislation.gov.uk/uksi/2018/390), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/390/regulation/1/1), [Sch. 5 para. 13(a)](https://www.legislation.gov.uk/uksi/2018/390/schedule/5/paragraph/13/a) (with [reg. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2018/390/regulation/2/1))
 
-[^key-3085533ac273765bc74a422815fed82c]: Textual amendment: [Reg. 11(6)](https://www.legislation.gov.uk/nisr/2012/179/regulation/11/6) inserted (21.4.2018) by [The Personal Protective Equipment (Enforcement) Regulations 2018 (S.I. 2018/390)](https://www.legislation.gov.uk/uksi/2018/390), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/390/regulation/1/1), [Sch. 5 para. 13(b)](https://www.legislation.gov.uk/uksi/2018/390/schedule/5/paragraph/13/b) (with [reg. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2018/390/regulation/2/1))
+[^c-3085533ac273765bc74a422815fed82c]: Textual amendment: [Reg. 11(6)](https://www.legislation.gov.uk/nisr/2012/179/regulation/11/6) inserted (21.4.2018) by [The Personal Protective Equipment (Enforcement) Regulations 2018 (S.I. 2018/390)](https://www.legislation.gov.uk/uksi/2018/390), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/390/regulation/1/1), [Sch. 5 para. 13(b)](https://www.legislation.gov.uk/uksi/2018/390/schedule/5/paragraph/13/b) (with [reg. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2018/390/regulation/2/1))
 
 [^c21249211]: Marginal citation: S.R [2000 No.388](https://www.legislation.gov.uk/ukcm/2000/388), as amended by S.R. [2001 No. 348](https://www.legislation.gov.uk/ukcm/2001/348), S.R. [2003 No. 454](https://www.legislation.gov.uk/ukcm/2003/454), S.R. [2006 No. 255](https://www.legislation.gov.uk/ukcm/2006/255), S.R. [2011 No. 350](https://www.legislation.gov.uk/ukcm/2011/350) and revoked in part by S.R. [2007 No. 291](https://www.legislation.gov.uk/ukcm/2007/291)
 
@@ -1044,7 +1044,7 @@ Regulation 33(2)
 
 [^c21249291]: Marginal citation: S.R [2000 No.388](https://www.legislation.gov.uk/ukcm/2000/388), as amended by S.R. [2001 No. 348](https://www.legislation.gov.uk/ukcm/2001/348), S.R. [2003 No. 454](https://www.legislation.gov.uk/ukcm/2003/454), S.R. [2006 No. 255](https://www.legislation.gov.uk/ukcm/2006/255), S.R. [2011 No. 350](https://www.legislation.gov.uk/ukcm/2011/350) and revoked in part by S.R. [2007 No. 291](https://www.legislation.gov.uk/ukcm/2007/291)
 
-[^key-4fe0bda1ab7f1c8547b63e6ac527f4f8]: Textual amendment: [Sch. 2 para. 1(1)(a)](https://www.legislation.gov.uk/nisr/2012/179/schedule/2/paragraph/1/1/a) substituted (1.7.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/265)](https://www.legislation.gov.uk/nisr/2015/265), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/265/regulation/1/1), [14(2)](https://www.legislation.gov.uk/nisr/2015/265/regulation/14/2)
+[^c-4fe0bda1ab7f1c8547b63e6ac527f4f8]: Textual amendment: [Sch. 2 para. 1(1)(a)](https://www.legislation.gov.uk/nisr/2012/179/schedule/2/paragraph/1/1/a) substituted (1.7.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/265)](https://www.legislation.gov.uk/nisr/2015/265), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/265/regulation/1/1), [14(2)](https://www.legislation.gov.uk/nisr/2015/265/regulation/14/2)
 
 [^c21249331]: Marginal citation: [1964 c. 29](https://www.legislation.gov.uk/ukpga/1964/29); [section 1](https://www.legislation.gov.uk/nisr/2012/179/section/1) was amended by the [Oil and Gas (Enterprise) Act 1982 (1982 c. 23)](https://www.legislation.gov.uk/ukpga/1982/23), [Schedule 3](https://www.legislation.gov.uk/ukpga/1982/23/schedule/3), paragraph 1
 

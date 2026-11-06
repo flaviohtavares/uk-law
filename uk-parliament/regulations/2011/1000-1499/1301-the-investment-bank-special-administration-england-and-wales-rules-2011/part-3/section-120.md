@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 120. Members dealing with the investment bank[^key-bc14a516c1d03e7cc11119f313efd876]
+## 120. Members dealing with the investment bank[^c-bc14a516c1d03e7cc11119f313efd876]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bc14a516c1d03e7cc11119f313efd876]: Commencement: [Rule 120](https://www.legislation.gov.uk/uksi/2011/1301/rule/120) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-bc14a516c1d03e7cc11119f313efd876]: Commencement: [Rule 120](https://www.legislation.gov.uk/uksi/2011/1301/rule/120) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

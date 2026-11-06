@@ -30,7 +30,7 @@ summary: ''
 
 FINANCIAL SERVICES
 
-The Investment Services Regulations 1995 (revoked)[^key-d8a6a55f5b28fcbee8e801bd68a1bf1e]
+The Investment Services Regulations 1995 (revoked)[^c-d8a6a55f5b28fcbee8e801bd68a1bf1e]
 
 Made
 
@@ -50,11 +50,11 @@ Remainder
 
 1st January 1996
 
-[^key-d8a6a55f5b28fcbee8e801bd68a1bf1e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d8a6a55f5b28fcbee8e801bd68a1bf1e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART I — GENERAL[^key-d8a6a55f5b28fcbee8e801bd68a1bf1e]
+### PART I — GENERAL[^c-d8a6a55f5b28fcbee8e801bd68a1bf1e]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,13 +63,13 @@ Remainder
 - [Section 1 — Citation and commencement](part-i/section-1.md)
 - [Section 2 — Interpretation: general](part-i/section-2.md)
 
-### PART II — RECOGNITION IN UK OF EUROPEAN INVESTMENT FIRMS[^key-d8a6a55f5b28fcbee8e801bd68a1bf1e]
+### PART II — RECOGNITION IN UK OF EUROPEAN INVESTMENT FIRMS[^c-d8a6a55f5b28fcbee8e801bd68a1bf1e]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### Preliminary[^key-d8a6a55f5b28fcbee8e801bd68a1bf1e]
+#### Preliminary[^c-d8a6a55f5b28fcbee8e801bd68a1bf1e]
 
 *Extent: E+W+S+N.I.*
 
@@ -78,7 +78,7 @@ Remainder
 - [Section 3 — European investment firms](part-ii/section-3.md)
 - [Section 4 — Authorised services](part-ii/section-4.md)
 
-#### Effect of recognition[^key-d8a6a55f5b28fcbee8e801bd68a1bf1e]
+#### Effect of recognition[^c-d8a6a55f5b28fcbee8e801bd68a1bf1e]
 
 *Extent: E+W+S+N.I.*
 
@@ -87,7 +87,7 @@ Remainder
 - [Section 5 — Authorisations and licences not required](part-ii/section-5.md)
 - [Section 6 — Procedural requirements for carrying on listed services](part-ii/section-6.md)
 
-#### Effect of non-recognition[^key-d8a6a55f5b28fcbee8e801bd68a1bf1e]
+#### Effect of non-recognition[^c-d8a6a55f5b28fcbee8e801bd68a1bf1e]
 
 *Extent: E+W+S+N.I.*
 
@@ -95,7 +95,7 @@ Remainder
 
 - [Section 7 — Prohibition on carrying on certain listed services](part-ii/section-7.md)
 
-#### Functions of Board[^key-d8a6a55f5b28fcbee8e801bd68a1bf1e]
+#### Functions of Board[^c-d8a6a55f5b28fcbee8e801bd68a1bf1e]
 
 *Extent: E+W+S+N.I.*
 
@@ -107,7 +107,7 @@ Remainder
 - [Section 11 — Limitations on Board’s powers](part-ii/section-11.md)
 - [Section 12 — Obligation of Board where investment firm ceases to be a European investment firm etc.](part-ii/section-12.md)
 
-#### Functions of the Bank[^key-d8a6a55f5b28fcbee8e801bd68a1bf1e]
+#### Functions of the Bank[^c-d8a6a55f5b28fcbee8e801bd68a1bf1e]
 
 *Extent: E+W+S+N.I.*
 
@@ -116,7 +116,7 @@ Remainder
 - [Section 13 — Duty to prepare for supervision](part-ii/section-13.md)
 - [Section 14 — Obligation of Bank where investment firm ceases to be a European investment firm etc.](part-ii/section-14.md)
 
-#### Functions of Director[^key-d8a6a55f5b28fcbee8e801bd68a1bf1e]
+#### Functions of Director[^c-d8a6a55f5b28fcbee8e801bd68a1bf1e]
 
 *Extent: E+W+S+N.I.*
 
@@ -125,7 +125,7 @@ Remainder
 - [Section 15 — Power to prohibit the carrying on of Consumer Credit Act business](part-ii/section-15.md)
 - [Section 16 — Power to restrict the carrying on of Consumer Credit Act business](part-ii/section-16.md)
 
-### PART III — RELATIONS WITH THIRD COUNTRIES[^key-d8a6a55f5b28fcbee8e801bd68a1bf1e]
+### PART III — RELATIONS WITH THIRD COUNTRIES[^c-d8a6a55f5b28fcbee8e801bd68a1bf1e]
 
 *Extent: E+W+S+N.I.*
 
@@ -133,13 +133,13 @@ Remainder
 
 - [Section 17 — Treasury directions for implementing certain EC decisions](part-iii/section-17.md)
 
-### PART IV — RECOGNITION IN OTHER EEA STATES OF UK INVESTMENT FIRMS[^key-d8a6a55f5b28fcbee8e801bd68a1bf1e]
+### PART IV — RECOGNITION IN OTHER EEA STATES OF UK INVESTMENT FIRMS[^c-d8a6a55f5b28fcbee8e801bd68a1bf1e]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### Preliminary[^key-d8a6a55f5b28fcbee8e801bd68a1bf1e]
+#### Preliminary[^c-d8a6a55f5b28fcbee8e801bd68a1bf1e]
 
 *Extent: E+W+S+N.I.*
 
@@ -148,7 +148,7 @@ Remainder
 - [Section 18 — UK investment firms](part-iv/section-18.md)
 - [Section 19 — Authorised services](part-iv/section-19.md)
 
-#### Procedural requirements[^key-d8a6a55f5b28fcbee8e801bd68a1bf1e]
+#### Procedural requirements[^c-d8a6a55f5b28fcbee8e801bd68a1bf1e]
 
 *Extent: E+W+S+N.I.*
 
@@ -156,7 +156,7 @@ Remainder
 
 - [Section 20 — Procedural requirements for carrying on certain listed services](part-iv/section-20.md)
 
-### PART V — AMENDMENTS OF FINANCIAL SERVICES ACT[^key-d8a6a55f5b28fcbee8e801bd68a1bf1e]
+### PART V — AMENDMENTS OF FINANCIAL SERVICES ACT[^c-d8a6a55f5b28fcbee8e801bd68a1bf1e]
 
 *Extent: E+W+S+N.I.*
 
@@ -176,7 +176,7 @@ Remainder
 - [Section 32 — Other amendments of Financial Services Act](part-v/section-32.md)
 - [Section 33 — Construction of Part V](part-v/section-33.md)
 
-### PART VI — AMENDMENTS OF CONSUMER CREDIT ACT[^key-d8a6a55f5b28fcbee8e801bd68a1bf1e]
+### PART VI — AMENDMENTS OF CONSUMER CREDIT ACT[^c-d8a6a55f5b28fcbee8e801bd68a1bf1e]
 
 *Extent: E+W+S+N.I.*
 
@@ -190,7 +190,7 @@ Remainder
 - [Section 39 — Restrictions on disclosure of information](part-vi/section-39.md)
 - [Section 40 — Power to modify subordinate legislation in relation to European investment firms](part-vi/section-40.md)
 
-### PART VII — NOTIFICATION OF CONTROLLERS[^key-d8a6a55f5b28fcbee8e801bd68a1bf1e]
+### PART VII — NOTIFICATION OF CONTROLLERS[^c-d8a6a55f5b28fcbee8e801bd68a1bf1e]
 
 *Extent: E+W+S+N.I.*
 
@@ -204,7 +204,7 @@ Remainder
 - [Section 46 — Construction of Part VII](part-vii/section-46.md)
 - [Section 47 — Prosecution of offences under Part VII](part-vii/section-47.md)
 
-### PART VIII — MISCELLANEOUS[^key-d8a6a55f5b28fcbee8e801bd68a1bf1e]
+### PART VIII — MISCELLANEOUS[^c-d8a6a55f5b28fcbee8e801bd68a1bf1e]
 
 *Extent: E+W+S+N.I.*
 
@@ -219,7 +219,7 @@ Remainder
 - [Section 54 — Directions to the Bank](part-viii/section-54.md)
 - [Section 55 — Position of European subsidiaries](part-viii/section-55.md)
 
-### PART IX — SUPPLEMENTAL[^key-d8a6a55f5b28fcbee8e801bd68a1bf1e]
+### PART IX — SUPPLEMENTAL[^c-d8a6a55f5b28fcbee8e801bd68a1bf1e]
 
 *Extent: E+W+S+N.I.*
 
@@ -245,14 +245,14 @@ Remainder
 
 **No longer in force.**
 
-[^key-d8a6a55f5b28fcbee8e801bd68a1bf1e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d8a6a55f5b28fcbee8e801bd68a1bf1e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S+N.I.*
 
 **May not be in force at this date. Check the source.**
 
-[^key-d8a6a55f5b28fcbee8e801bd68a1bf1e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d8a6a55f5b28fcbee8e801bd68a1bf1e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d8a6a55f5b28fcbee8e801bd68a1bf1e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1995/3275) revoked (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [3(2)(c)](https://www.legislation.gov.uk/uksi/2001/3649/article/3/2/c) (with savings in [S.I. 2001/3646](https://www.legislation.gov.uk/uksi/2001/3646), [art. 12](https://www.legislation.gov.uk/uksi/2001/3646/article/12))
+[^c-d8a6a55f5b28fcbee8e801bd68a1bf1e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1995/3275) revoked (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [3(2)(c)](https://www.legislation.gov.uk/uksi/2001/3649/article/3/2/c) (with savings in [S.I. 2001/3646](https://www.legislation.gov.uk/uksi/2001/3646), [art. 12](https://www.legislation.gov.uk/uksi/2001/3646/article/12))

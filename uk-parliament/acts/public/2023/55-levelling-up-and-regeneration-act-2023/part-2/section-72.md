@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Transfer of functions: changes in governance arrangements[^key-06cbc17c3f56be2166c215390e9f75a6]
+## 72. Transfer of functions: changes in governance arrangements[^c-06cbc17c3f56be2166c215390e9f75a6]
 
 *Extent: E+W*
 
@@ -144,4 +144,4 @@ summary: ''
 
 ## Annotations
 
-[^key-06cbc17c3f56be2166c215390e9f75a6]: Commencement: S. 72 in force at Royal Assent, see [s. 255(2)(k)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/k)
+[^c-06cbc17c3f56be2166c215390e9f75a6]: Commencement: S. 72 in force at Royal Assent, see [s. 255(2)(k)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/k)

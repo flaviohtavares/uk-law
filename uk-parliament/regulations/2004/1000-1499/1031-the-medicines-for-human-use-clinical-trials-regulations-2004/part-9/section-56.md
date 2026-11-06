@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-The transitional provisions set out in Schedules 12, 13 and 14[^key-8038b55e049ecd209ba94e5adb7a0273] shall have effect.
+The transitional provisions set out in Schedules 12, 13 and 14[^c-8038b55e049ecd209ba94e5adb7a0273] shall have effect.
 
 ## Annotations
 
-[^key-8038b55e049ecd209ba94e5adb7a0273]: Textual amendment: Words in reg. 56 substituted (28.4.2026) by [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2025/538/regulation/44)
+[^c-8038b55e049ecd209ba94e5adb7a0273]: Textual amendment: Words in reg. 56 substituted (28.4.2026) by [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2025/538/regulation/44)

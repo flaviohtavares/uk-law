@@ -122,7 +122,7 @@ The carrying out of development to provide any of the following—
 </tbody>
 </table>
 
-[^c23017101][^key-7edf96040fcec252b8fdec766923533a][^key-d59c03c905df16727791232d96815e06]
+[^c23017101][^c-7edf96040fcec252b8fdec766923533a][^c-d59c03c905df16727791232d96815e06]
 
 ## Annotations
 
@@ -130,6 +130,6 @@ The carrying out of development to provide any of the following—
 
 [^c23017101]: Marginal citation: [S.I. 2016/1154](https://www.legislation.gov.uk/uksi/2016/1154).
 
-[^key-7edf96040fcec252b8fdec766923533a]: Textual amendment: Words in [Sch. 2 para. 1 Table](https://www.legislation.gov.uk/uksi/2017/571/schedule/2/paragraph/1) substituted (31.12.2020) by [The Environmental Assessments and Miscellaneous Planning (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1232)](https://www.legislation.gov.uk/uksi/2018/1232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1232/regulation/1/2), [6(12)](https://www.legislation.gov.uk/uksi/2018/1232/regulation/6/12); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7edf96040fcec252b8fdec766923533a]: Textual amendment: Words in [Sch. 2 para. 1 Table](https://www.legislation.gov.uk/uksi/2017/571/schedule/2/paragraph/1) substituted (31.12.2020) by [The Environmental Assessments and Miscellaneous Planning (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1232)](https://www.legislation.gov.uk/uksi/2018/1232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1232/regulation/1/2), [6(12)](https://www.legislation.gov.uk/uksi/2018/1232/regulation/6/12); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d59c03c905df16727791232d96815e06]: Textual amendment: Words in Sch. 2 substituted (1.10.2018) by [The Town and Country Planning and Infrastructure Planning (Environmental Impact Assessment) (Amendment) Regulations 2018 (S.I. 2018/695)](https://www.legislation.gov.uk/uksi/2018/695), [regs. 1](https://www.legislation.gov.uk/uksi/2018/695/regulation/1), [2(11)](https://www.legislation.gov.uk/uksi/2018/695/regulation/2/11)
+[^c-d59c03c905df16727791232d96815e06]: Textual amendment: Words in Sch. 2 substituted (1.10.2018) by [The Town and Country Planning and Infrastructure Planning (Environmental Impact Assessment) (Amendment) Regulations 2018 (S.I. 2018/695)](https://www.legislation.gov.uk/uksi/2018/695), [regs. 1](https://www.legislation.gov.uk/uksi/2018/695/regulation/1), [2(11)](https://www.legislation.gov.uk/uksi/2018/695/regulation/2/11)

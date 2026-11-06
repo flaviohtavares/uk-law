@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 40. Power to charge interest to capital[^key-4ea28791d75b289f9066ce04c9c5f125]
+## 40. Power to charge interest to capital[^c-4ea28791d75b289f9066ce04c9c5f125]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ Where the Commissioners, in the exercise of powers conferred upon them by any en
 
 ## Annotations
 
-[^key-4ea28791d75b289f9066ce04c9c5f125]: Commencement: Art. 40 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)
+[^c-4ea28791d75b289f9066ce04c9c5f125]: Commencement: Art. 40 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)

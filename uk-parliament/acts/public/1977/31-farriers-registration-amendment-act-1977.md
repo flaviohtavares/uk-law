@@ -37,25 +37,25 @@ An Act to amend the provisions of the Farriers (Registration) Act 1975 with resp
 
 (1) The provisions of the [^c726092]Farriers (Registration) Act 1975 specified in the Schedule to this Act shall have effect subject to the amendments set out in the said Schedule.
 
-(2) [^key-843e2451f8f05547cda0021a9e0a6d71]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2) [^c-843e2451f8f05547cda0021a9e0a6d71]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 2. Short title and commencement.
 
 (1) This Act may be cited as the Farriers (Registration) (Amendment) Act 1977.
 
-(2) [^key-d64c86d4318d9f480b01883ab6283933]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2) [^c-d64c86d4318d9f480b01883ab6283933]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) [^key-685ec8fcc12fa2e9e9d1415bd276ed00]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3) [^c-685ec8fcc12fa2e9e9d1415bd276ed00]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## THE SCHEDULE — Amendments of Farriers (Registration) Act 1975[^c726093]
 
 Section 1.
 
-**1.** [^key-f6117979e0c40461bcf6c608e02ec055]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.** [^c-f6117979e0c40461bcf6c608e02ec055]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.** [^key-c3c243a25a852efdf776675ad56436da]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.** [^c-c3c243a25a852efdf776675ad56436da]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.** [^key-53a4206f2810127dfd601e838d4c8d2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.** [^c-53a4206f2810127dfd601e838d4c8d2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **4.** In section 11(1) after the words “purpose of this Act” there shall be inserted the words “or of the rules made by the council thereunder”.
 
@@ -84,16 +84,16 @@ Section 1.
 
 [^c726092]: Marginal citation: [1975 c. 35](https://www.legislation.gov.uk/ukpga/1975/35).
 
-[^key-843e2451f8f05547cda0021a9e0a6d71]: Textual amendment: [S. 1(2)](https://www.legislation.gov.uk/ukpga/1977/31/section/1/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17 Group 1](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17)
+[^c-843e2451f8f05547cda0021a9e0a6d71]: Textual amendment: [S. 1(2)](https://www.legislation.gov.uk/ukpga/1977/31/section/1/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17 Group 1](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17)
 
-[^key-d64c86d4318d9f480b01883ab6283933]: Textual amendment: [S. 2(2)](https://www.legislation.gov.uk/ukpga/1977/31/section/2/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17 Group 1](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17)
+[^c-d64c86d4318d9f480b01883ab6283933]: Textual amendment: [S. 2(2)](https://www.legislation.gov.uk/ukpga/1977/31/section/2/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17 Group 1](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17)
 
-[^key-685ec8fcc12fa2e9e9d1415bd276ed00]: Textual amendment: [S. 2(3)](https://www.legislation.gov.uk/ukpga/1977/31/section/2/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17 Group 1](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17)
+[^c-685ec8fcc12fa2e9e9d1415bd276ed00]: Textual amendment: [S. 2(3)](https://www.legislation.gov.uk/ukpga/1977/31/section/2/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17 Group 1](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17)
 
 [^c726093]: Modification: The text of Sch. is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
-[^key-f6117979e0c40461bcf6c608e02ec055]: Textual amendment: [Sch. para. 1](https://www.legislation.gov.uk/ukpga/1977/31/schedule/paragraph/1) repealed (31.3.2008) by [Farriers’ Qualifications (European Recognition) Regulations 2008 (S.I. 2008/646)](https://www.legislation.gov.uk/uksi/2008/646), [regs. 1](https://www.legislation.gov.uk/uksi/2008/646/regulation/1), [10](https://www.legislation.gov.uk/uksi/2008/646/regulation/10)
+[^c-f6117979e0c40461bcf6c608e02ec055]: Textual amendment: [Sch. para. 1](https://www.legislation.gov.uk/ukpga/1977/31/schedule/paragraph/1) repealed (31.3.2008) by [Farriers’ Qualifications (European Recognition) Regulations 2008 (S.I. 2008/646)](https://www.legislation.gov.uk/uksi/2008/646), [regs. 1](https://www.legislation.gov.uk/uksi/2008/646/regulation/1), [10](https://www.legislation.gov.uk/uksi/2008/646/regulation/10)
 
-[^key-c3c243a25a852efdf776675ad56436da]: Textual amendment: [Sch. para. 2](https://www.legislation.gov.uk/ukpga/1977/31/schedule/paragraph/2) repealed (31.3.2008) by [Farriers’ Qualifications (European Recognition) Regulations 2008 (S.I. 2008/646)](https://www.legislation.gov.uk/uksi/2008/646), [regs. 1](https://www.legislation.gov.uk/uksi/2008/646/regulation/1), [10](https://www.legislation.gov.uk/uksi/2008/646/regulation/10)
+[^c-c3c243a25a852efdf776675ad56436da]: Textual amendment: [Sch. para. 2](https://www.legislation.gov.uk/ukpga/1977/31/schedule/paragraph/2) repealed (31.3.2008) by [Farriers’ Qualifications (European Recognition) Regulations 2008 (S.I. 2008/646)](https://www.legislation.gov.uk/uksi/2008/646), [regs. 1](https://www.legislation.gov.uk/uksi/2008/646/regulation/1), [10](https://www.legislation.gov.uk/uksi/2008/646/regulation/10)
 
-[^key-53a4206f2810127dfd601e838d4c8d2e]: Textual amendment: [Sch. para. 3](https://www.legislation.gov.uk/ukpga/1977/31/schedule/paragraph/3) repealed (31.3.2008) by [Farriers’ Qualifications (European Recognition) Regulations 2008 (S.I. 2008/646)](https://www.legislation.gov.uk/uksi/2008/646), [regs. 1](https://www.legislation.gov.uk/uksi/2008/646/regulation/1), [10](https://www.legislation.gov.uk/uksi/2008/646/regulation/10)
+[^c-53a4206f2810127dfd601e838d4c8d2e]: Textual amendment: [Sch. para. 3](https://www.legislation.gov.uk/ukpga/1977/31/schedule/paragraph/3) repealed (31.3.2008) by [Farriers’ Qualifications (European Recognition) Regulations 2008 (S.I. 2008/646)](https://www.legislation.gov.uk/uksi/2008/646), [regs. 1](https://www.legislation.gov.uk/uksi/2008/646/regulation/1), [10](https://www.legislation.gov.uk/uksi/2008/646/regulation/10)

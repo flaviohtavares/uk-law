@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Date, place and notification of hearing[^key-d4c38e6f773412f043fe6caa0828f064]
+## 29. Date, place and notification of hearing[^c-d4c38e6f773412f043fe6caa0828f064]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d4c38e6f773412f043fe6caa0828f064]: Commencement: [Reg. 29](https://www.legislation.gov.uk/wsi/2017/544/regulation/29) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)
+[^c-d4c38e6f773412f043fe6caa0828f064]: Commencement: [Reg. 29](https://www.legislation.gov.uk/wsi/2017/544/regulation/29) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)

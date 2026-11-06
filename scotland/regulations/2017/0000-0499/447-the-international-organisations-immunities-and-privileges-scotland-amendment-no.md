@@ -32,7 +32,7 @@ summary: ''
 
 International Immunities And Privileges
 
-The International Organisations (Immunities and Privileges) (Scotland) Amendment (No. 2) Order 2017 (revoked)[^key-25b09fdea8848f9beeae0595a7165061]
+The International Organisations (Immunities and Privileges) (Scotland) Amendment (No. 2) Order 2017 (revoked)[^c-25b09fdea8848f9beeae0595a7165061]
 
 Made
 
@@ -46,60 +46,60 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-25b09fdea8848f9beeae0595a7165061]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-25b09fdea8848f9beeae0595a7165061]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-25b09fdea8848f9beeae0595a7165061]
+## 1. Citation and commencement[^c-25b09fdea8848f9beeae0595a7165061]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the International Organisations (Immunities and Privileges) (Scotland) Order 2009[^key-25b09fdea8848f9beeae0595a7165061]
+## 2. Amendment of the International Organisations (Immunities and Privileges) (Scotland) Order 2009[^c-25b09fdea8848f9beeae0595a7165061]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-25b09fdea8848f9beeae0595a7165061]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-25b09fdea8848f9beeae0595a7165061]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-25b09fdea8848f9beeae0595a7165061]
+## SCHEDULE[^c-25b09fdea8848f9beeae0595a7165061]
 
 Article 2
 
-> **SCHEDULE 17 — UNIFIED PATENT COURT[^key-25b09fdea8848f9beeae0595a7165061]**
+> **SCHEDULE 17 — UNIFIED PATENT COURT[^c-25b09fdea8848f9beeae0595a7165061]**
 >
-> **1. General[^key-25b09fdea8848f9beeae0595a7165061]**
->
-> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **2. The Court[^key-25b09fdea8848f9beeae0595a7165061]**
+> **1. General[^c-25b09fdea8848f9beeae0595a7165061]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **3.**[^key-25b09fdea8848f9beeae0595a7165061] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **4.**[^key-25b09fdea8848f9beeae0595a7165061] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **5.**[^key-25b09fdea8848f9beeae0595a7165061] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **6.**[^key-25b09fdea8848f9beeae0595a7165061] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **7. Representatives[^key-25b09fdea8848f9beeae0595a7165061]**
+> **2. The Court[^c-25b09fdea8848f9beeae0595a7165061]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **8. Judges, Registrar and Deputy-Registrar[^key-25b09fdea8848f9beeae0595a7165061]**
+> **3.**[^c-25b09fdea8848f9beeae0595a7165061] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **4.**[^c-25b09fdea8848f9beeae0595a7165061] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **5.**[^c-25b09fdea8848f9beeae0595a7165061] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **6.**[^c-25b09fdea8848f9beeae0595a7165061] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **7. Representatives[^c-25b09fdea8848f9beeae0595a7165061]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **9. Staff[^key-25b09fdea8848f9beeae0595a7165061]**
+> **8. Judges, Registrar and Deputy-Registrar[^c-25b09fdea8848f9beeae0595a7165061]**
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **9. Staff[^c-25b09fdea8848f9beeae0595a7165061]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-25b09fdea8848f9beeae0595a7165061]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-25b09fdea8848f9beeae0595a7165061]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-25b09fdea8848f9beeae0595a7165061]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2017/447) revoked (11.2.2021) by [The International Organisations (Immunities and Privileges) (Scotland) Revocation Order 2021 (S.S.I. 2021/69)](https://www.legislation.gov.uk/ssi/2021/69), [arts. 1](https://www.legislation.gov.uk/ssi/2021/69/article/1), [3](https://www.legislation.gov.uk/ssi/2021/69/article/3)
+[^c-25b09fdea8848f9beeae0595a7165061]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2017/447) revoked (11.2.2021) by [The International Organisations (Immunities and Privileges) (Scotland) Revocation Order 2021 (S.S.I. 2021/69)](https://www.legislation.gov.uk/ssi/2021/69), [arts. 1](https://www.legislation.gov.uk/ssi/2021/69/article/1), [3](https://www.legislation.gov.uk/ssi/2021/69/article/3)

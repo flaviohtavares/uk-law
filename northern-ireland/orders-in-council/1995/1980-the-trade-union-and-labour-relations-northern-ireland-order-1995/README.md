@@ -26,7 +26,7 @@ summary: ''
 
 1995 No. 1980 (N.I. 12)
 
-The Trade Union and Labour Relations (Northern Ireland) Order 1995 [^c17260441][^key-9fc387ed455fe579bf88b559fd13b6dd]
+The Trade Union and Labour Relations (Northern Ireland) Order 1995 [^c17260441][^c-9fc387ed455fe579bf88b559fd13b6dd]
 
 26th July 1995
 
@@ -305,7 +305,7 @@ The Trade Union and Labour Relations (Northern Ireland) Order 1995 [^c17260441][
 - [Section 146 — Restriction on contracting out](part-xi/section-146.md)
 - [Section 147 — Employment governed by foreign law](part-xi/section-147.md)
 
-#### Extension of certain time limits[^key-555d1ac39e209f322a4f27d195f5db74]
+#### Extension of certain time limits[^c-555d1ac39e209f322a4f27d195f5db74]
 
 - [Section 147A — Extension of time limits to facilitate conciliation before institution of proceedings](part-xi/section-147a.md)
 
@@ -381,7 +381,7 @@ SCHEDULES
 
 [^c17260441]: Textual amendment: functions transf. by SR 1999/481
 
-[^key-9fc387ed455fe579bf88b559fd13b6dd]: Modification: Order excluded (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 5 para. 15(1)(2)(c)](https://www.legislation.gov.uk/ukpga/2013/22/paragraph/15/2/c); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(m)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/m)
+[^c-9fc387ed455fe579bf88b559fd13b6dd]: Modification: Order excluded (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 5 para. 15(1)(2)(c)](https://www.legislation.gov.uk/ukpga/2013/22/paragraph/15/2/c); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(m)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/m)
 
 [^c22171521]: Textual amendment: [1999 NI 5](https://www.legislation.gov.uk/nisi/1999)
 
@@ -389,4 +389,4 @@ SCHEDULES
 
 [^c17260451]: Textual amendment: [1999 NI 9](https://www.legislation.gov.uk/1999/ni9)
 
-[^key-555d1ac39e209f322a4f27d195f5db74]: Textual amendment: [Art. 147A](https://www.legislation.gov.uk/nisi/1995/1980/article/147A) and cross-heading inserted (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [s. 29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2), [Sch. 2 para. 9](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/9); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
+[^c-555d1ac39e209f322a4f27d195f5db74]: Textual amendment: [Art. 147A](https://www.legislation.gov.uk/nisi/1995/1980/article/147A) and cross-heading inserted (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [s. 29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2), [Sch. 2 para. 9](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/9); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)

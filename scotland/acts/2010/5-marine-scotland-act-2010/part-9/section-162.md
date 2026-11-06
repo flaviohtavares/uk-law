@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 162. Crown application[^key-68fc667460f6f4696ee1cbe478507bc2]
+## 162. Crown application[^c-68fc667460f6f4696ee1cbe478507bc2]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-68fc667460f6f4696ee1cbe478507bc2]: Commencement: [S. 162](https://www.legislation.gov.uk/asp/2010/5/section/162) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(g)](https://www.legislation.gov.uk/ssi/2010/230/article/2/g)
+[^c-68fc667460f6f4696ee1cbe478507bc2]: Commencement: [S. 162](https://www.legislation.gov.uk/asp/2010/5/section/162) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(g)](https://www.legislation.gov.uk/ssi/2010/230/article/2/g)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Provision of required information and limitations on its processing[^key-c8e16bf321cfe277cc032c5204e6c782][^key-4d882833cc3d8f8ff698e842a3bfc362]
+## 31. Provision of required information and limitations on its processing[^c-c8e16bf321cfe277cc032c5204e6c782][^c-4d882833cc3d8f8ff698e842a3bfc362]
 
 *Extent: E+W*
 
@@ -78,6 +78,6 @@ except in circumstances specified in the requirement.
 
 ## Annotations
 
-[^key-c8e16bf321cfe277cc032c5204e6c782]: Commencement: S. 31 not in force at Royal Assent, see [s. 56(4)](https://www.legislation.gov.uk/asc/2023/4/section/56/4)
+[^c-c8e16bf321cfe277cc032c5204e6c782]: Commencement: S. 31 not in force at Royal Assent, see [s. 56(4)](https://www.legislation.gov.uk/asc/2023/4/section/56/4)
 
-[^key-4d882833cc3d8f8ff698e842a3bfc362]: Commencement: [S. 31](https://www.legislation.gov.uk/asc/2023/4/section/31) in force at 17.10.2023 by [S.I. 2023/1092](https://www.legislation.gov.uk/wsi/2023/1092), [art. 2(b)](https://www.legislation.gov.uk/wsi/2023/1092/article/2/b)
+[^c-4d882833cc3d8f8ff698e842a3bfc362]: Commencement: [S. 31](https://www.legislation.gov.uk/asc/2023/4/section/31) in force at 17.10.2023 by [S.I. 2023/1092](https://www.legislation.gov.uk/wsi/2023/1092), [art. 2(b)](https://www.legislation.gov.uk/wsi/2023/1092/article/2/b)

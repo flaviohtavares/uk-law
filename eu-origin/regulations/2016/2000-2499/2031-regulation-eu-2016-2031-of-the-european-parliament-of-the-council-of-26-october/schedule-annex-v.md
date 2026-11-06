@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## ANNEX V — CONTENTS OF PHYTOSANITARY CERTIFICATES FOR INTRODUCTION INTO GREAT BRITAIN[^key-6c3fb99732673a8aadaa751892cf7e1b]
+## ANNEX V — CONTENTS OF PHYTOSANITARY CERTIFICATES FOR INTRODUCTION INTO GREAT BRITAIN[^c-6c3fb99732673a8aadaa751892cf7e1b]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ PART B
 
 ## Annotations
 
-[^key-6c3fb99732673a8aadaa751892cf7e1b]: Textual amendment: Words in Annex 5 heading substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [40](https://www.legislation.gov.uk/uksi/2020/1482/regulation/40) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
+[^c-6c3fb99732673a8aadaa751892cf7e1b]: Textual amendment: Words in Annex 5 heading substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [40](https://www.legislation.gov.uk/uksi/2020/1482/regulation/40) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))

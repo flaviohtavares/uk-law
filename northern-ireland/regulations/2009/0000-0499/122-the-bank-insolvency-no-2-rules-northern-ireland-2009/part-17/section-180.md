@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 180. Procedure following appeal under section 116 of the 2009 Act[^key-68541bbc274d80ac84adf33319066b99]
+## 180. Procedure following appeal under section 116 of the 2009 Act[^c-68541bbc274d80ac84adf33319066b99]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Following an appeal under section 116(2) of the 2009 Act (against a decision of 
 
 ## Annotations
 
-[^key-68541bbc274d80ac84adf33319066b99]: Commencement: Rule 180 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-68541bbc274d80ac84adf33319066b99]: Commencement: Rule 180 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 92. Notification and advertisement of appointment of joint postal administrator[^key-abaf323779e1bcc3b563453436bc8625]
+## 92. Notification and advertisement of appointment of joint postal administrator[^c-abaf323779e1bcc3b563453436bc8625]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where, after an initial appointment has been made, an additional person or perso
 
 ## Annotations
 
-[^key-abaf323779e1bcc3b563453436bc8625]: Commencement: [Rule 92](https://www.legislation.gov.uk/uksi/2013/3208/rule/92) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-abaf323779e1bcc3b563453436bc8625]: Commencement: [Rule 92](https://www.legislation.gov.uk/uksi/2013/3208/rule/92) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

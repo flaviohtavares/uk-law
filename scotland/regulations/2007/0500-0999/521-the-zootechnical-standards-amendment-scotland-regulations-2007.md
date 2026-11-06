@@ -32,7 +32,7 @@ summary: ''
 
 ANIMALS
 
-The Zootechnical Standards Amendment (Scotland) Regulations 2007 (revoked)[^key-b4d08f07d67681758a659dfffe13704b]
+The Zootechnical Standards Amendment (Scotland) Regulations 2007 (revoked)[^c-b4d08f07d67681758a659dfffe13704b]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 14th December 2007
 
-[^key-b4d08f07d67681758a659dfffe13704b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b4d08f07d67681758a659dfffe13704b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-b4d08f07d67681758a659dfffe13704b]
+## 1. Citation, commencement and extent[^c-b4d08f07d67681758a659dfffe13704b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Zootechnical Standards Regulations 1992[^key-b4d08f07d67681758a659dfffe13704b]
+## 2. Amendment to the Zootechnical Standards Regulations 1992[^c-b4d08f07d67681758a659dfffe13704b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b4d08f07d67681758a659dfffe13704b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b4d08f07d67681758a659dfffe13704b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-b4d08f07d67681758a659dfffe13704b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b4d08f07d67681758a659dfffe13704b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b4d08f07d67681758a659dfffe13704b]: Textual amendment: Regulations revoked (7.3.2019) by [The Zootechnical Standards (Scotland) Regulations 2019 (S.S.I. 2019/5)](https://www.legislation.gov.uk/ssi/2019/5), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/5/regulation/1/1), [9(b)](https://www.legislation.gov.uk/ssi/2019/5/regulation/9/b) (with [reg. 1(2)](https://www.legislation.gov.uk/ssi/2019/5/regulation/1/2))
+[^c-b4d08f07d67681758a659dfffe13704b]: Textual amendment: Regulations revoked (7.3.2019) by [The Zootechnical Standards (Scotland) Regulations 2019 (S.S.I. 2019/5)](https://www.legislation.gov.uk/ssi/2019/5), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/5/regulation/1/1), [9(b)](https://www.legislation.gov.uk/ssi/2019/5/regulation/9/b) (with [reg. 1(2)](https://www.legislation.gov.uk/ssi/2019/5/regulation/1/2))

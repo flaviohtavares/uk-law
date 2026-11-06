@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 32. Arrest elsewhere than at police station[^key-8ef05d0a10eca74ce1bd7f5b507ab5df][^key-5aace142977749f15e63f3dfd4b4c970]
+## 32. Arrest elsewhere than at police station[^c-8ef05d0a10eca74ce1bd7f5b507ab5df][^c-5aace142977749f15e63f3dfd4b4c970]
 
 *Extent: N.I.*
 
@@ -85,9 +85,9 @@ summary: ''
 
 ## Annotations
 
-[^key-8ef05d0a10eca74ce1bd7f5b507ab5df]: Modification: [Art. 32](https://www.legislation.gov.uk/nisi/1989/1341/article/32) applied in part (with modifications) (10.2.2026) by [The Police and Criminal Evidence (Northern Ireland) Order 1989 (Application to Immigration Officers and Designated Customs Officials in Northern Ireland) and Consequential Amendments Regulations 2026 (S.I. 2026/117)](https://www.legislation.gov.uk/uksi/2026/117), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/1/2), [12-15](https://www.legislation.gov.uk/uksi/2026/117/regulation/12), [18(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/18/2), [20](https://www.legislation.gov.uk/uksi/2026/117/regulation/20), [Sch. 2](https://www.legislation.gov.uk/uksi/2026/117/schedule/2)
+[^c-8ef05d0a10eca74ce1bd7f5b507ab5df]: Modification: [Art. 32](https://www.legislation.gov.uk/nisi/1989/1341/article/32) applied in part (with modifications) (10.2.2026) by [The Police and Criminal Evidence (Northern Ireland) Order 1989 (Application to Immigration Officers and Designated Customs Officials in Northern Ireland) and Consequential Amendments Regulations 2026 (S.I. 2026/117)](https://www.legislation.gov.uk/uksi/2026/117), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/1/2), [12-15](https://www.legislation.gov.uk/uksi/2026/117/regulation/12), [18(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/18/2), [20](https://www.legislation.gov.uk/uksi/2026/117/regulation/20), [Sch. 2](https://www.legislation.gov.uk/uksi/2026/117/schedule/2)
 
-[^key-5aace142977749f15e63f3dfd4b4c970]: Modification: [Art. 32](https://www.legislation.gov.uk/nisi/1989/1341/article/32) applied in part (with modifications) (10.2.2026) by [The Police and Criminal Evidence (Northern Ireland) Order 1989 (Application to Immigration Officers and Designated Customs Officials in Northern Ireland) and Consequential Amendments Regulations 2026 (S.I. 2026/117)](https://www.legislation.gov.uk/uksi/2026/117), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/1/2), [3-6](https://www.legislation.gov.uk/uksi/2026/117/regulation/3), [9(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/9/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/117/schedule/1)
+[^c-5aace142977749f15e63f3dfd4b4c970]: Modification: [Art. 32](https://www.legislation.gov.uk/nisi/1989/1341/article/32) applied in part (with modifications) (10.2.2026) by [The Police and Criminal Evidence (Northern Ireland) Order 1989 (Application to Immigration Officers and Designated Customs Officials in Northern Ireland) and Consequential Amendments Regulations 2026 (S.I. 2026/117)](https://www.legislation.gov.uk/uksi/2026/117), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/1/2), [3-6](https://www.legislation.gov.uk/uksi/2026/117/regulation/3), [9(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/9/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/117/schedule/1)
 
 [^c20413461]: Modification: [Art. 32(1)-(4)](https://www.legislation.gov.uk/nisi/1989/1341/article/32/1)(a) applied (with modifications) (1.12.2007) by [Police and Criminal Evidence (Application to Revenue and Customs) Order (Northern Ireland) 2007 (S.R. 2007/464)](https://www.legislation.gov.uk/nisr/2007/464), [arts. 3-15](https://www.legislation.gov.uk/nisr/2007/464/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2007/464/schedule/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2007/464/schedule/2)
 

@@ -30,9 +30,9 @@ summary: ''
 
 (5) Condition D is that the duties of one or both of the employments are performed wholly or partly outside the United Kingdom.
 
-(6) Condition E is that the employee is UK resident[^key-0a86ed41ff9020faa7ff332e0b283fb9].
+(6) Condition E is that the employee is UK resident[^c-0a86ed41ff9020faa7ff332e0b283fb9].
 
-(7) Condition F is that in a case where the employer is a foreign employer, the employee is not a qualifying new resident for the purposes of Chapter 5C of Part 2 of this Act or Chapter 5 of Part 8 of ITTOIA 2005 (see section 845B of that Act).[^key-4086e114904585c1e182edcccb1d8f85]
+(7) Condition F is that in a case where the employer is a foreign employer, the employee is not a qualifying new resident for the purposes of Chapter 5C of Part 2 of this Act or Chapter 5 of Part 8 of ITTOIA 2005 (see section 845B of that Act).[^c-4086e114904585c1e182edcccb1d8f85]
 
 (8) If the travel is only partly attributable to the purpose of performing duties of the employment at the destination, this section applies only to the part of the expenses properly so attributable.
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0a86ed41ff9020faa7ff332e0b283fb9]: Textual amendment: Words in s. 342(6) substituted (with effect in accordance with Sch. 46 para. 72 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 46 para. 34](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/34)
+[^c-0a86ed41ff9020faa7ff332e0b283fb9]: Textual amendment: Words in s. 342(6) substituted (with effect in accordance with Sch. 46 para. 72 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 46 para. 34](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/34)
 
-[^key-4086e114904585c1e182edcccb1d8f85]: Textual amendment: Words in s. 342(7) substituted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 38(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/38/3), [Sch. 8 para. 1(7)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/8/paragraph/1/7) (with [Sch. 8 Pt. 3](https://www.legislation.gov.uk/ukpga/2025/8/schedule/8/part/3))
+[^c-4086e114904585c1e182edcccb1d8f85]: Textual amendment: Words in s. 342(7) substituted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 38(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/38/3), [Sch. 8 para. 1(7)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/8/paragraph/1/7) (with [Sch. 8 Pt. 3](https://www.legislation.gov.uk/ukpga/2025/8/schedule/8/part/3))

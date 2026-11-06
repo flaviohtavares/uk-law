@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Northern Ireland.
 
-## 263. Watercourses in urban district not to be culverted except in accordance with approved plans.[^key-4405bb258a170afe67fc71a8bda578d4]
+## 263. Watercourses in urban district not to be culverted except in accordance with approved plans.[^c-4405bb258a170afe67fc71a8bda578d4]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4405bb258a170afe67fc71a8bda578d4]: Textual amendment: S. 263 repealed (14.7.2014) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 63(b)](https://www.legislation.gov.uk/ukpga/2014/21/section/63/b), [94(2)(o)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/2/o)
+[^c-4405bb258a170afe67fc71a8bda578d4]: Textual amendment: S. 263 repealed (14.7.2014) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 63(b)](https://www.legislation.gov.uk/ukpga/2014/21/section/63/b), [94(2)(o)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/2/o)

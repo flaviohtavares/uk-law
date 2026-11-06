@@ -31,7 +31,7 @@ summary: ''
 
 Companies
 
-The Companies (Forms) (Amendment) Regulations 2008 (revoked)[^key-67e7b693172b45bd1d313b62e687a3a9]
+The Companies (Forms) (Amendment) Regulations 2008 (revoked)[^c-67e7b693172b45bd1d313b62e687a3a9]
 
 Made
 
@@ -41,28 +41,28 @@ Coming into force
 
 1st October 2008
 
-[^key-67e7b693172b45bd1d313b62e687a3a9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-67e7b693172b45bd1d313b62e687a3a9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-67e7b693172b45bd1d313b62e687a3a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-67e7b693172b45bd1d313b62e687a3a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-67e7b693172b45bd1d313b62e687a3a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-67e7b693172b45bd1d313b62e687a3a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-67e7b693172b45bd1d313b62e687a3a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-67e7b693172b45bd1d313b62e687a3a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-67e7b693172b45bd1d313b62e687a3a9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-67e7b693172b45bd1d313b62e687a3a9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-67e7b693172b45bd1d313b62e687a3a9]
+## SCHEDULE[^c-67e7b693172b45bd1d313b62e687a3a9]
 
 . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-67e7b693172b45bd1d313b62e687a3a9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-67e7b693172b45bd1d313b62e687a3a9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-67e7b693172b45bd1d313b62e687a3a9]: Textual amendment: Regulations revoked (1.10.2013) by [The Companies and Limited Liability Partnerships (Forms, etc.) Amendment Regulations 2013 (S.I. 2013/1947)](https://www.legislation.gov.uk/uksi/2013/1947), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1947/regulation/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2013/1947/schedule/2/part/1)
+[^c-67e7b693172b45bd1d313b62e687a3a9]: Textual amendment: Regulations revoked (1.10.2013) by [The Companies and Limited Liability Partnerships (Forms, etc.) Amendment Regulations 2013 (S.I. 2013/1947)](https://www.legislation.gov.uk/uksi/2013/1947), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1947/regulation/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2013/1947/schedule/2/part/1)

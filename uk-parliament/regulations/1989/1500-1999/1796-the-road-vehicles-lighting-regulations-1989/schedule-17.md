@@ -47,7 +47,7 @@ summary: ''
 | (b) A solo motor bicycle, a motor bicycle combination, a pedal cycle with or without a sidecar or an invalid carriage: | No requirement |
 | *Extent: E+W+S+N.I.*<br>**8.**[^M_I_a0979a4d-7210-4d66-9183-47b81e501e4b] Other requirements: | No side retro reflector shall be triangular |
 
-**9.**[^key-700bd56b0cadc413975ed58d7845cb83] Definitions–
+**9.**[^c-700bd56b0cadc413975ed58d7845cb83] Definitions–
 
 (a) In this Schedule “approval mark” means either–
 
@@ -56,7 +56,7 @@ summary: ''
 
 (b) In this Schedule references to “maximum distance from the front of the vehicle” and “maximum distance from the rear of the vehicle” are references to the maximum distance from that end of the vehicle (as determined by reference to the overall length of the vehicle exclusive of any special equipment) beyond which no part of the reflecting area of the side retro reflector extends.
 
-### PART II — REQUIREMENTS RELATING TO OPTIONAL SIDE RETRO REFLECTORS[^key-738b6518549a0142bc5a5c052db07f72]
+### PART II — REQUIREMENTS RELATING TO OPTIONAL SIDE RETRO REFLECTORS[^c-738b6518549a0142bc5a5c052db07f72]
 
 Any number may be fitted and the only requirements in respect of any which are fitted are those specified in paragraphs 7 and 8 of Part I. But, in respect of a vehicle to which paragraph 7(a) applies which is used for the purposes listed in column (1) of the Table, the permitted colours are those listed in column (2).
 
@@ -65,9 +65,9 @@ Table
 |  |  |
 | --- | --- |
 | Police | amber, yellow, blue, white or if within 1 m of the rear of the vehicle it may be red |
-| Scottish Fire and Rescue Service[^key-705a7b093f9e37d00c0a68ba02b9f0f9] or, in England and Wales, fire and rescue authority | amber, yellow, red |
-| Ambulance<br>The provision of a response to an emergency at the request of an[^key-a3c762ecec00f93ab609d664f4b592ce] NHS ambulance service but only in respect of a vehicle which is owned by the service or held by it under a lease or hire agreement | amber, yellow, green, white or if within 1 m of the rear of the vehicle it may be red |
-| Driver and Vehicle Standards Agency[^key-51dfb97d8da0d22e577afbd1c4c53a7a] | amber, yellow, silver, white or if within 1 m of the rear of the vehicle it may be red |
+| Scottish Fire and Rescue Service[^c-705a7b093f9e37d00c0a68ba02b9f0f9] or, in England and Wales, fire and rescue authority | amber, yellow, red |
+| Ambulance<br>The provision of a response to an emergency at the request of an[^c-a3c762ecec00f93ab609d664f4b592ce] NHS ambulance service but only in respect of a vehicle which is owned by the service or held by it under a lease or hire agreement | amber, yellow, green, white or if within 1 m of the rear of the vehicle it may be red |
+| Driver and Vehicle Standards Agency[^c-51dfb97d8da0d22e577afbd1c4c53a7a] | amber, yellow, silver, white or if within 1 m of the rear of the vehicle it may be red |
 | Traffic officer | amber, yellow, white or if within 1 m of the rear of the vehicle it may be red. |
 
 ## Annotations
@@ -88,12 +88,12 @@ Table
 
 [^M_I_a0979a4d-7210-4d66-9183-47b81e501e4b]: Commencement: [Sch. 17 Pt. I para. 8](https://www.legislation.gov.uk/uksi/1989/1796/schedule/17/paragraph/9) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
 
-[^key-700bd56b0cadc413975ed58d7845cb83]: Commencement: [Sch. 17 Pt. I para. 9](https://www.legislation.gov.uk/uksi/1989/1796/schedule/17/paragraph/9) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
+[^c-700bd56b0cadc413975ed58d7845cb83]: Commencement: [Sch. 17 Pt. I para. 9](https://www.legislation.gov.uk/uksi/1989/1796/schedule/17/paragraph/9) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
 
-[^key-738b6518549a0142bc5a5c052db07f72]: Textual amendment: [Sch. 17 Pt. 2](https://www.legislation.gov.uk/uksi/1989/1796/schedule/17/part/II) substituted (4.1.2010) by [The Road Vehicles Lighting and Goods Vehicles (Plating and Testing) (Amendment) Regulations 2009 (S.I. 2009/3220)](https://www.legislation.gov.uk/uksi/2009/3220), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3220/regulation/1), [13](https://www.legislation.gov.uk/uksi/2009/3220/regulation/13)
+[^c-738b6518549a0142bc5a5c052db07f72]: Textual amendment: [Sch. 17 Pt. 2](https://www.legislation.gov.uk/uksi/1989/1796/schedule/17/part/II) substituted (4.1.2010) by [The Road Vehicles Lighting and Goods Vehicles (Plating and Testing) (Amendment) Regulations 2009 (S.I. 2009/3220)](https://www.legislation.gov.uk/uksi/2009/3220), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3220/regulation/1), [13](https://www.legislation.gov.uk/uksi/2009/3220/regulation/13)
 
-[^key-705a7b093f9e37d00c0a68ba02b9f0f9]: Textual amendment: Words in [Sch. 17 Pt. 2](https://www.legislation.gov.uk/uksi/1989/1796/schedule/17/part/II) substituted (S.) (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Modifications and Savings) Order 2013 (S.S.I. 2013/119)](https://www.legislation.gov.uk/ssi/2013/119), [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1), [sch. 2 para. 7(4)](https://www.legislation.gov.uk/ssi/2013/119/schedule/2/paragraph/7/4)
+[^c-705a7b093f9e37d00c0a68ba02b9f0f9]: Textual amendment: Words in [Sch. 17 Pt. 2](https://www.legislation.gov.uk/uksi/1989/1796/schedule/17/part/II) substituted (S.) (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Modifications and Savings) Order 2013 (S.S.I. 2013/119)](https://www.legislation.gov.uk/ssi/2013/119), [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1), [sch. 2 para. 7(4)](https://www.legislation.gov.uk/ssi/2013/119/schedule/2/paragraph/7/4)
 
-[^key-a3c762ecec00f93ab609d664f4b592ce]: Textual amendment: Words in Sch. 17 Pt. 2 inserted (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(d)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/d), [Sch. 9 para. 13](https://www.legislation.gov.uk/ukpga/2015/20/schedule/9/paragraph/13)
+[^c-a3c762ecec00f93ab609d664f4b592ce]: Textual amendment: Words in Sch. 17 Pt. 2 inserted (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(d)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/d), [Sch. 9 para. 13](https://www.legislation.gov.uk/ukpga/2015/20/schedule/9/paragraph/13)
 
-[^key-51dfb97d8da0d22e577afbd1c4c53a7a]: Textual amendment: Words in [Sch. 17 Pt. 2](https://www.legislation.gov.uk/uksi/1989/1796/schedule/17/part/II) substituted (1.4.2014) by [The Driving Standards Agency and the Vehicle and Operator Services Agency (Merger) (Consequential Amendments) Regulations 2014 (S.I. 2014/480)](https://www.legislation.gov.uk/uksi/2014/480), [regs. 1](https://www.legislation.gov.uk/uksi/2014/480/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2014/480/regulation/5/3)
+[^c-51dfb97d8da0d22e577afbd1c4c53a7a]: Textual amendment: Words in [Sch. 17 Pt. 2](https://www.legislation.gov.uk/uksi/1989/1796/schedule/17/part/II) substituted (1.4.2014) by [The Driving Standards Agency and the Vehicle and Operator Services Agency (Merger) (Consequential Amendments) Regulations 2014 (S.I. 2014/480)](https://www.legislation.gov.uk/uksi/2014/480), [regs. 1](https://www.legislation.gov.uk/uksi/2014/480/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2014/480/regulation/5/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 8A. Purpose limitation: further processing[^key-6ddf272c2639cbacf6c01d84675ff6c7]
+## Article 8A. Purpose limitation: further processing[^c-6ddf272c2639cbacf6c01d84675ff6c7]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,7 +39,7 @@ summary: ''
   - (iii) for statistical purposes,
 - (c) the processing is carried out for the purposes of ensuring that processing of personal data complies with Article 5(1) or demonstrating that it does so,
 - (d) the processing meets a condition in Annex 2, or
-- (e) the processing is necessary to safeguard an objective listed in Article 23(1)(c) to (j) and is authorised by an enactment or rule of law or by relevant international law (see section 9A of the 2018 Act)[^key-d6ee1910605ed4770d563f9e7c92f425].
+- (e) the processing is necessary to safeguard an objective listed in Article 23(1)(c) to (j) and is authorised by an enactment or rule of law or by relevant international law (see section 9A of the 2018 Act)[^c-d6ee1910605ed4770d563f9e7c92f425].
 
 4. Where the controller collected the personal data based on Article 6(1)(a) (data subject’s consent), processing for a new purpose is only processing in a manner compatible with the original purpose if—
 
@@ -59,6 +59,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6ddf272c2639cbacf6c01d84675ff6c7]: Textual amendment: Art. 8A inserted (19.6.2025 for specified purposes, 5.2.2026 in so far as not already in force) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 71(5)](https://www.legislation.gov.uk/ukpga/2025/18/section/71/5), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)[(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/h); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/d)
+[^c-6ddf272c2639cbacf6c01d84675ff6c7]: Textual amendment: Art. 8A inserted (19.6.2025 for specified purposes, 5.2.2026 in so far as not already in force) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 71(5)](https://www.legislation.gov.uk/ukpga/2025/18/section/71/5), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)[(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/h); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/d)
 
-[^key-d6ee1910605ed4770d563f9e7c92f425]: Textual amendment: Words in Art. 8A(3)(e) inserted (5.2.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 72(3)](https://www.legislation.gov.uk/ukpga/2025/18/section/72/3), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/e)
+[^c-d6ee1910605ed4770d563f9e7c92f425]: Textual amendment: Words in Art. 8A(3)(e) inserted (5.2.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 72(3)](https://www.legislation.gov.uk/ukpga/2025/18/section/72/3), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/e)

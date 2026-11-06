@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 12. Discounts: special provision for Wales.[^key-cc73fdff7e3cd511141431de6e534d81]
+## 12. Discounts: special provision for Wales.[^c-cc73fdff7e3cd511141431de6e534d81]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cc73fdff7e3cd511141431de6e534d81]: Textual amendment: [S. 12](https://www.legislation.gov.uk/ukpga/1992/14/section/12) omitted (1.4.2026) by virtue of [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [ss. 18(6)](https://www.legislation.gov.uk/asc/2024/6/section/18/6), [23(7)](https://www.legislation.gov.uk/asc/2024/6/section/23/7); [W.S.I. 2026/14](https://www.legislation.gov.uk/wsi/2026/14), [art. 2](https://www.legislation.gov.uk/wsi/2026/14/article/2)
+[^c-cc73fdff7e3cd511141431de6e534d81]: Textual amendment: [S. 12](https://www.legislation.gov.uk/ukpga/1992/14/section/12) omitted (1.4.2026) by virtue of [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [ss. 18(6)](https://www.legislation.gov.uk/asc/2024/6/section/18/6), [23(7)](https://www.legislation.gov.uk/asc/2024/6/section/23/7); [W.S.I. 2026/14](https://www.legislation.gov.uk/wsi/2026/14), [art. 2](https://www.legislation.gov.uk/wsi/2026/14/article/2)

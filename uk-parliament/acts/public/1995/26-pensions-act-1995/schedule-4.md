@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 4 — Equalisation of and increase in pensionable age for men and women[^c2136407][^key-3c5fc010e56c002f22a65261efb6dc45]
+## SCHEDULE 4 — Equalisation of and increase in pensionable age for men and women[^c2136407][^c-3c5fc010e56c002f22a65261efb6dc45]
 
 *Extent: E+W+S*
 
@@ -26,7 +26,7 @@ Section 126.
 
 #### Rules for determining pensionable age
 
-**1.** The following rules apply for the purposes of the enactments relating to social security, that is, the following Acts and the instruments made, or having effect as if made, under them: the [^c2136408]Social Security Contributions and Benefits Act 1992, the [^c2136409]Social Security Administration Act 1992 , the Pension Schemes Act 1993 (c. 48)[^key-f5776986d8682c2c06b70b02b7bc5f7c] , the State Pension Credit Act 2002[^key-7b474955bf8ae6dc6423f7d211ad7889] , Part 1 of the Welfare Reform Act 2007 and the Pensions Act 2014[^key-d2ad206832ab5cf3b8a6dd1e89a67845].
+**1.** The following rules apply for the purposes of the enactments relating to social security, that is, the following Acts and the instruments made, or having effect as if made, under them: the [^c2136408]Social Security Contributions and Benefits Act 1992, the [^c2136409]Social Security Administration Act 1992 , the Pension Schemes Act 1993 (c. 48)[^c-f5776986d8682c2c06b70b02b7bc5f7c] , the State Pension Credit Act 2002[^c-7b474955bf8ae6dc6423f7d211ad7889] , Part 1 of the Welfare Reform Act 2007 and the Pensions Act 2014[^c-d2ad206832ab5cf3b8a6dd1e89a67845].
 
 #### Rules
 
@@ -105,8 +105,8 @@ Section 126.
   <tr><td>6th September 1954 to 5th October 1954</td><td>6th September 2020</td></tr>
   </tbody>
   </table>
-- (6) A person born after 5th October 1954[^M_F_0b58a25f-4744-4f57-bd0e-050971a4f427] but before 6th April 1960[^key-ce4ab5872526f8ff2254f52b2944ab09] attains pensionable age when the person attains the age of 66.
-- (7) A person born on any day in a period mentioned in column 1 of table 3 attains pensionable age when the person attains the age shown against that period in column 2.[^key-e0fa644f9294f8a3aeefcb5c39374b2b]
+- (6) A person born after 5th October 1954[^M_F_0b58a25f-4744-4f57-bd0e-050971a4f427] but before 6th April 1960[^c-ce4ab5872526f8ff2254f52b2944ab09] attains pensionable age when the person attains the age of 66.
+- (7) A person born on any day in a period mentioned in column 1 of table 3 attains pensionable age when the person attains the age shown against that period in column 2.[^c-e0fa644f9294f8a3aeefcb5c39374b2b]
 
   TABLE 3
 
@@ -128,7 +128,7 @@ Section 126.
   - (a) a person born on 31st July 1960 is to be taken to attain the age of 66 years and 4 months at the commencement of 30th November 2026;
   - (b) a person born on 31st December 1960 is to be taken to attain the age of 66 years and 9 months at the commencement of 30th September 2027;
   - (c) a person born on 31st January 1961 is to be taken to attain the age of 66 years and 10 months at the commencement of 30th November 2027.
-- (8) A person born after 5th March 1961[^key-bb7a39c9b55978e74854d058a7a1ba95] but before 6th April 1977 attains pensionable age when the person attains the age of 67.
+- (8) A person born after 5th March 1961[^c-bb7a39c9b55978e74854d058a7a1ba95] but before 6th April 1977 attains pensionable age when the person attains the age of 67.
 - (9) A person born on any day in a period mentioned in column 1 of table 4 attains pensionable age at the commencement of the day shown against that period in column 2.
 
   TABLE 4
@@ -159,7 +159,7 @@ Section 126.
 
 #### Pension increases for dependent spouses
 
-**2.**[^key-f336d69741ce72d5f3cdb1be00d14058] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-f336d69741ce72d5f3cdb1be00d14058] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Category B retirement pensions
 
@@ -242,9 +242,9 @@ Section 126.
 
 .
 
-(2)[^key-3c75bc1a6341a238c446d62c9b264d75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-3c75bc1a6341a238c446d62c9b264d75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-3c75bc1a6341a238c446d62c9b264d75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-3c75bc1a6341a238c446d62c9b264d75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Home responsibilities protection
 
@@ -280,7 +280,7 @@ Section 126.
 
 (4) In paragraph 8 of that Schedule, sub-paragraphs (1) and (2) are omitted.
 
-(5)[^key-abc8977a110de63afca21fe0c8bc4708] The preceding sub-paragraphs shall come into force as follows—
+(5)[^c-abc8977a110de63afca21fe0c8bc4708] The preceding sub-paragraphs shall come into force as follows—
 
 - (a) sub-paragraphs (1) and (4) shall come into force on 6th April 2005;
 - (b) sub-paragraphs (2) and (3) shall have effect in relation to incremental periods (within the meaning of Schedule 5 to the Social Security Contributions and Benefits Act 1992 (c. 4)) beginning on or after that date.
@@ -381,11 +381,11 @@ Section 126.
 
 *Extent: E+W+S*
 
-**18.**[^key-f6e2f64413d0df0348e8b9e08e1ef520] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-f6e2f64413d0df0348e8b9e08e1ef520] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-91481c94254f15c968b61fa15ad172d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-91481c94254f15c968b61fa15ad172d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-b82c41f862d415b6953a8ba4145e8ffb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-b82c41f862d415b6953a8ba4145e8ffb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Category B retirement pensions
 
@@ -429,7 +429,7 @@ Section 126.
 
 .
 
-(8)[^key-4ad03454ca83950520bbb8b88a87307e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-4ad03454ca83950520bbb8b88a87307e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) In section 60 of that Act (complete or partial failure to satisfy contribution conditions)—
 
@@ -440,15 +440,15 @@ Section 126.
 
   .
 
-(10)[^key-e2799c15b9645f61c98545f43dae4c90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-e2799c15b9645f61c98545f43dae4c90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (11) In Schedule 4 to that Act (rates of benefit, etc.), in paragraph 5 of Part I, for “section 50(1)(a)(i)” there is substituted “ section 48A(3) ”.
 
 (12) In Schedule 5 to that Act (increased pension where entitlement deferred), in paragraph 2(5)(a), for “5 or 6” there is substituted “ 5, 5A or 6 ”.
 
-(13)[^key-c95b92eee019b04cf22af56a58c5a986] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(13)[^c-c95b92eee019b04cf22af56a58c5a986] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(14)[^key-48f43f15cf3bd62c2881523cba389d4f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(14)[^c-48f43f15cf3bd62c2881523cba389d4f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (15) For paragraphs 5 and 6 of that Schedule there is substituted—
 
@@ -509,7 +509,7 @@ Section 126.
 - (a) in sub-paragraph (1), for “paragraphs 5 and 6” there is substituted “ paragraphs 5 to 6 ”, and
 - (b) in sub-paragraph (2), for “paragraph 5 or 6” there is substituted “ paragraph 5, 5A or 6 ”.
 
-(18)[^key-39e4290bef4c6aec4797454295f9e975] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(18)[^c-39e4290bef4c6aec4797454295f9e975] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S+N.I.*
 
@@ -519,17 +519,17 @@ Section 126.
 
 [^c2136407]: Extent: The amendment by this Act of an enactment which extends to Northern Ireland extends also to Northern Ireland see s. 178(1)(2)(3).
 
-[^key-3c5fc010e56c002f22a65261efb6dc45]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/ukpga/1995/26/schedule/4) heading substituted (26.9.2007) by [Pensions Act 2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), [s. 30(3)](https://www.legislation.gov.uk/ukpga/2007/22/section/30/3), [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2007/22/schedule/3/paragraph/3)
+[^c-3c5fc010e56c002f22a65261efb6dc45]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/ukpga/1995/26/schedule/4) heading substituted (26.9.2007) by [Pensions Act 2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), [s. 30(3)](https://www.legislation.gov.uk/ukpga/2007/22/section/30/3), [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2007/22/schedule/3/paragraph/3)
 
 [^c2136408]: Marginal citation: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
 
 [^c2136409]: Marginal citation: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5).
 
-[^key-f5776986d8682c2c06b70b02b7bc5f7c]: Textual amendment: Words in [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/1995/26/schedule/4/paragraph/1) substituted (2.7.2002 for specified purposes, 6.10.2003 in so far as not already in force) by [State Pension Credit Act 2002 (c. 16)](https://www.legislation.gov.uk/ukpga/2002/16), [s. 22(3)](https://www.legislation.gov.uk/ukpga/2002/16/section/22/3), [Sch. 2 para. 39](https://www.legislation.gov.uk/ukpga/2002/16/schedule/2/paragraph/39); [S.I. 2002/1691](https://www.legislation.gov.uk/uksi/2002/1691), [art. 2(l)](https://www.legislation.gov.uk/uksi/2002/1691/article/2/l); [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)
+[^c-f5776986d8682c2c06b70b02b7bc5f7c]: Textual amendment: Words in [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/1995/26/schedule/4/paragraph/1) substituted (2.7.2002 for specified purposes, 6.10.2003 in so far as not already in force) by [State Pension Credit Act 2002 (c. 16)](https://www.legislation.gov.uk/ukpga/2002/16), [s. 22(3)](https://www.legislation.gov.uk/ukpga/2002/16/section/22/3), [Sch. 2 para. 39](https://www.legislation.gov.uk/ukpga/2002/16/schedule/2/paragraph/39); [S.I. 2002/1691](https://www.legislation.gov.uk/uksi/2002/1691), [art. 2(l)](https://www.legislation.gov.uk/uksi/2002/1691/article/2/l); [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)
 
-[^key-7b474955bf8ae6dc6423f7d211ad7889]: Textual amendment: Words in Sch. 4 para. 1 substituted (27.10.2008) by [Welfare Reform Act 2007 (c. 5)](https://www.legislation.gov.uk/ukpga/2007/5), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2007/5/section/70/2), [Sch. 3 para. 13](https://www.legislation.gov.uk/ukpga/2007/5/schedule/3/paragraph/13); [S.I. 2008/787](https://www.legislation.gov.uk/uksi/2008/787), [art. 2(4)(f)](https://www.legislation.gov.uk/uksi/2008/787/article/2/4/f)
+[^c-7b474955bf8ae6dc6423f7d211ad7889]: Textual amendment: Words in Sch. 4 para. 1 substituted (27.10.2008) by [Welfare Reform Act 2007 (c. 5)](https://www.legislation.gov.uk/ukpga/2007/5), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2007/5/section/70/2), [Sch. 3 para. 13](https://www.legislation.gov.uk/ukpga/2007/5/schedule/3/paragraph/13); [S.I. 2008/787](https://www.legislation.gov.uk/uksi/2008/787), [art. 2(4)(f)](https://www.legislation.gov.uk/uksi/2008/787/article/2/4/f)
 
-[^key-d2ad206832ab5cf3b8a6dd1e89a67845]: Textual amendment: Words in [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/1995/26/schedule/4/paragraph/1) substituted (6.4.2016) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 12 para. 30](https://www.legislation.gov.uk/ukpga/2014/19/schedule/12/paragraph/30)
+[^c-d2ad206832ab5cf3b8a6dd1e89a67845]: Textual amendment: Words in [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/1995/26/schedule/4/paragraph/1) substituted (6.4.2016) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 12 para. 30](https://www.legislation.gov.uk/ukpga/2014/19/schedule/12/paragraph/30)
 
 [^M_F_2741e089-7988-482e-dd3e-db1ff477560a]: Textual amendment: Words in Sch. 4 para. 1 rule (1) inserted (26.9.2007) by [Pensions Act 2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), [s. 30(3)](https://www.legislation.gov.uk/ukpga/2007/22/section/30/3), [Sch. 3 para. 4(2)](https://www.legislation.gov.uk/ukpga/2007/22/schedule/3/paragraph/4/2)
 
@@ -549,23 +549,23 @@ Section 126.
 
 [^M_F_0b58a25f-4744-4f57-bd0e-050971a4f427]: Textual amendment: Words in Sch. 4 para. 1 rule (6) substituted (3.1.2012) by [Pensions Act 2011 (c. 19)](https://www.legislation.gov.uk/ukpga/2011/19), [ss. 1(6)](https://www.legislation.gov.uk/ukpga/2011/19/section/1/2), [38(3)(a)](https://www.legislation.gov.uk/ukpga/2011/19/section/38/3/a)
 
-[^key-ce4ab5872526f8ff2254f52b2944ab09]: Textual amendment: Words in [Sch. 4 para. 1 rule (6)](https://www.legislation.gov.uk/ukpga/1995/26/schedule/4/paragraph/1/6) substituted (14.7.2014) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [ss. 26(2)](https://www.legislation.gov.uk/ukpga/2014/19/section/26/2), [56(3)(a)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/3/a)
+[^c-ce4ab5872526f8ff2254f52b2944ab09]: Textual amendment: Words in [Sch. 4 para. 1 rule (6)](https://www.legislation.gov.uk/ukpga/1995/26/schedule/4/paragraph/1/6) substituted (14.7.2014) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [ss. 26(2)](https://www.legislation.gov.uk/ukpga/2014/19/section/26/2), [56(3)(a)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/3/a)
 
-[^key-e0fa644f9294f8a3aeefcb5c39374b2b]: Textual amendment: [Sch. 4 para. 1 rules (7)(7A)](https://www.legislation.gov.uk/ukpga/1995/26/schedule/4/paragraph/1/7) substituted for Sch. 4 para. 1 rule (7) and Table 3 (14.7.2014) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [ss. 26(3)](https://www.legislation.gov.uk/ukpga/2014/19/section/26/3), [56(3)(a)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/3/a)
+[^c-e0fa644f9294f8a3aeefcb5c39374b2b]: Textual amendment: [Sch. 4 para. 1 rules (7)(7A)](https://www.legislation.gov.uk/ukpga/1995/26/schedule/4/paragraph/1/7) substituted for Sch. 4 para. 1 rule (7) and Table 3 (14.7.2014) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [ss. 26(3)](https://www.legislation.gov.uk/ukpga/2014/19/section/26/3), [56(3)(a)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/3/a)
 
-[^key-bb7a39c9b55978e74854d058a7a1ba95]: Textual amendment: Words in [Sch. 4 para. 1 rule (8)](https://www.legislation.gov.uk/ukpga/1995/26/schedule/4/paragraph/1/8) substituted (14.7.2014) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [ss. 26(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/26/4), [56(3)(a)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/3/a)
+[^c-bb7a39c9b55978e74854d058a7a1ba95]: Textual amendment: Words in [Sch. 4 para. 1 rule (8)](https://www.legislation.gov.uk/ukpga/1995/26/schedule/4/paragraph/1/8) substituted (14.7.2014) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [ss. 26(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/26/4), [56(3)(a)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/3/a)
 
-[^key-f336d69741ce72d5f3cdb1be00d14058]: Textual amendment: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/1995/26/schedule/4/paragraph/2) repealed (26.9.2007) by [Pensions Act 2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), [ss. 4(2)](https://www.legislation.gov.uk/ukpga/2007/22/section/4/2), [27(3)(a)](https://www.legislation.gov.uk/ukpga/2007/22/section/27/3/a), [30(3)](https://www.legislation.gov.uk/ukpga/2007/22/section/30/3), [Sch. 7 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/22/schedule/7/part/2) (with [s. 4(5)-(8)](https://www.legislation.gov.uk/ukpga/2007/22/section/4/5))
+[^c-f336d69741ce72d5f3cdb1be00d14058]: Textual amendment: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/1995/26/schedule/4/paragraph/2) repealed (26.9.2007) by [Pensions Act 2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), [ss. 4(2)](https://www.legislation.gov.uk/ukpga/2007/22/section/4/2), [27(3)(a)](https://www.legislation.gov.uk/ukpga/2007/22/section/27/3/a), [30(3)](https://www.legislation.gov.uk/ukpga/2007/22/section/30/3), [Sch. 7 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/22/schedule/7/part/2) (with [s. 4(5)-(8)](https://www.legislation.gov.uk/ukpga/2007/22/section/4/5))
 
 [^c2136412]: Marginal citation: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
 
-[^key-3c75bc1a6341a238c446d62c9b264d75]: Textual amendment: [Sch. 4 para. 3(2)](https://www.legislation.gov.uk/ukpga/1995/26/schedule/4/paragraph/3/2)[(3)](https://www.legislation.gov.uk/ukpga/1995/26/schedule/4/paragraph/3/3) omitted (6.4.2016) by virtue of [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 12 para. 73](https://www.legislation.gov.uk/ukpga/2014/19/schedule/12/paragraph/73)
+[^c-3c75bc1a6341a238c446d62c9b264d75]: Textual amendment: [Sch. 4 para. 3(2)](https://www.legislation.gov.uk/ukpga/1995/26/schedule/4/paragraph/3/2)[(3)](https://www.legislation.gov.uk/ukpga/1995/26/schedule/4/paragraph/3/3) omitted (6.4.2016) by virtue of [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 12 para. 73](https://www.legislation.gov.uk/ukpga/2014/19/schedule/12/paragraph/73)
 
 [^c2136413]: Marginal citation: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
 
 [^c2136414]: Marginal citation: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
 
-[^key-abc8977a110de63afca21fe0c8bc4708]: Textual amendment: Sch. 4 para. 6(5) substituted (18.11.2004) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [ss. 297(3)](https://www.legislation.gov.uk/ukpga/2004/35/section/297/3), [322(2)(c)(ii)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/2/c/ii)
+[^c-abc8977a110de63afca21fe0c8bc4708]: Textual amendment: Sch. 4 para. 6(5) substituted (18.11.2004) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [ss. 297(3)](https://www.legislation.gov.uk/ukpga/2004/35/section/297/3), [322(2)(c)(ii)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/2/c/ii)
 
 [^c2136415]: Marginal citation: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
 
@@ -585,22 +585,22 @@ Section 126.
 
 [^c2136423]: Marginal citation: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48).
 
-[^key-f6e2f64413d0df0348e8b9e08e1ef520]: Textual amendment: [Sch. 4 para. 18](https://www.legislation.gov.uk/ukpga/1995/26/schedule/4/paragraph/18) repealed (26.9.2007) by [Pensions Act 2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), [s. 27(3)(a)](https://www.legislation.gov.uk/ukpga/2007/22/section/27/3/a), [Sch. 7 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/22/schedule/7/part/2) (with [s. 4(5)](https://www.legislation.gov.uk/ukpga/2007/22/section/4/5))
+[^c-f6e2f64413d0df0348e8b9e08e1ef520]: Textual amendment: [Sch. 4 para. 18](https://www.legislation.gov.uk/ukpga/1995/26/schedule/4/paragraph/18) repealed (26.9.2007) by [Pensions Act 2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), [s. 27(3)(a)](https://www.legislation.gov.uk/ukpga/2007/22/section/27/3/a), [Sch. 7 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/22/schedule/7/part/2) (with [s. 4(5)](https://www.legislation.gov.uk/ukpga/2007/22/section/4/5))
 
-[^key-91481c94254f15c968b61fa15ad172d0]: Textual amendment: [Sch. 4 para. 19](https://www.legislation.gov.uk/ukpga/1995/26/schedule/4/paragraph/19) repealed (6.4.2010) by [Pensions Act 2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), [s. 27(3)(a)](https://www.legislation.gov.uk/ukpga/2007/22/section/27/3/a)[(4)(b)](https://www.legislation.gov.uk/ukpga/2007/22/section/27/4/b), [Sch. 7 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/22/schedule/7/part/2) (with [s. 4(5)](https://www.legislation.gov.uk/ukpga/2007/22/section/4/5))
+[^c-91481c94254f15c968b61fa15ad172d0]: Textual amendment: [Sch. 4 para. 19](https://www.legislation.gov.uk/ukpga/1995/26/schedule/4/paragraph/19) repealed (6.4.2010) by [Pensions Act 2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), [s. 27(3)(a)](https://www.legislation.gov.uk/ukpga/2007/22/section/27/3/a)[(4)(b)](https://www.legislation.gov.uk/ukpga/2007/22/section/27/4/b), [Sch. 7 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/22/schedule/7/part/2) (with [s. 4(5)](https://www.legislation.gov.uk/ukpga/2007/22/section/4/5))
 
-[^key-b82c41f862d415b6953a8ba4145e8ffb]: Textual amendment: [Sch. 4 para. 20](https://www.legislation.gov.uk/ukpga/1995/26/schedule/4/paragraph/20) repealed (6.4.2010) by [Pensions Act 2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), [s. 27(3)(a)](https://www.legislation.gov.uk/ukpga/2007/22/section/27/3/a)[(4)(b)](https://www.legislation.gov.uk/ukpga/2007/22/section/27/4/b), [Sch. 7 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/22/schedule/7/part/2) (with [s. 4(5)](https://www.legislation.gov.uk/ukpga/2007/22/section/4/5))
+[^c-b82c41f862d415b6953a8ba4145e8ffb]: Textual amendment: [Sch. 4 para. 20](https://www.legislation.gov.uk/ukpga/1995/26/schedule/4/paragraph/20) repealed (6.4.2010) by [Pensions Act 2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), [s. 27(3)(a)](https://www.legislation.gov.uk/ukpga/2007/22/section/27/3/a)[(4)(b)](https://www.legislation.gov.uk/ukpga/2007/22/section/27/4/b), [Sch. 7 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/22/schedule/7/part/2) (with [s. 4(5)](https://www.legislation.gov.uk/ukpga/2007/22/section/4/5))
 
 [^c2136427]: Marginal citation: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
 
-[^key-4ad03454ca83950520bbb8b88a87307e]: Textual amendment: [Sch. 4 para. 21(8)](https://www.legislation.gov.uk/ukpga/1995/26/schedule/4/paragraph/21/8) repealed (6.4.2010) by [Pensions Act 2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), [s. 27(4)(a)](https://www.legislation.gov.uk/ukpga/2007/22/section/27/4/a), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/22/schedule/7/part/1)
+[^c-4ad03454ca83950520bbb8b88a87307e]: Textual amendment: [Sch. 4 para. 21(8)](https://www.legislation.gov.uk/ukpga/1995/26/schedule/4/paragraph/21/8) repealed (6.4.2010) by [Pensions Act 2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), [s. 27(4)(a)](https://www.legislation.gov.uk/ukpga/2007/22/section/27/4/a), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/22/schedule/7/part/1)
 
-[^key-e2799c15b9645f61c98545f43dae4c90]: Textual amendment: Sch. 4 para. 21(10) repealed (26.9.2007) by [Pensions Act 2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), [s. 27(3)(a)](https://www.legislation.gov.uk/ukpga/2007/22/section/27/3/a), [Sch. 7 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/22/schedule/7/part/2) (with [s. 4(5)](https://www.legislation.gov.uk/ukpga/2007/22/section/4/5))
+[^c-e2799c15b9645f61c98545f43dae4c90]: Textual amendment: Sch. 4 para. 21(10) repealed (26.9.2007) by [Pensions Act 2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), [s. 27(3)(a)](https://www.legislation.gov.uk/ukpga/2007/22/section/27/3/a), [Sch. 7 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/22/schedule/7/part/2) (with [s. 4(5)](https://www.legislation.gov.uk/ukpga/2007/22/section/4/5))
 
-[^key-c95b92eee019b04cf22af56a58c5a986]: Textual amendment: Sch. 4 para. 21(13) repealed (6.4.2005) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [s. 322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1), [Sch. 13](https://www.legislation.gov.uk/ukpga/2004/35/schedule/13); [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)
+[^c-c95b92eee019b04cf22af56a58c5a986]: Textual amendment: Sch. 4 para. 21(13) repealed (6.4.2005) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [s. 322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1), [Sch. 13](https://www.legislation.gov.uk/ukpga/2004/35/schedule/13); [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)
 
-[^key-48f43f15cf3bd62c2881523cba389d4f]: Textual amendment: Sch. 4 para. 21(14) repealed (6.4.2005) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [s. 322(4)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/4), [Sch. 13](https://www.legislation.gov.uk/ukpga/2004/35/schedule/13)
+[^c-48f43f15cf3bd62c2881523cba389d4f]: Textual amendment: Sch. 4 para. 21(14) repealed (6.4.2005) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [s. 322(4)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/4), [Sch. 13](https://www.legislation.gov.uk/ukpga/2004/35/schedule/13)
 
-[^key-39e4290bef4c6aec4797454295f9e975]: Textual amendment: [Sch. 4 para. 21(18)](https://www.legislation.gov.uk/ukpga/1995/26/schedule/4/paragraph/21/18) repealed (6.4.2010) by [Pensions Act 2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), [s. 27(4)(a)](https://www.legislation.gov.uk/ukpga/2007/22/section/27/4/a), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/22/schedule/7/part/1)
+[^c-39e4290bef4c6aec4797454295f9e975]: Textual amendment: [Sch. 4 para. 21(18)](https://www.legislation.gov.uk/ukpga/1995/26/schedule/4/paragraph/21/18) repealed (6.4.2010) by [Pensions Act 2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), [s. 27(4)(a)](https://www.legislation.gov.uk/ukpga/2007/22/section/27/4/a), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/22/schedule/7/part/1)
 
 [^c2136428]: Marginal citation: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48).

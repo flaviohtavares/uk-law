@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. False statements in nomination papers etc.[^key-853faf07a2d5e1028fc9c5ab3da11af1]
+## 34. False statements in nomination papers etc.[^c-853faf07a2d5e1028fc9c5ab3da11af1]
 
 *Extent: E+W*
 
@@ -62,6 +62,6 @@ which P3 knows to be false.
 
 ## Annotations
 
-[^key-853faf07a2d5e1028fc9c5ab3da11af1]: Commencement: Art. 34 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-853faf07a2d5e1028fc9c5ab3da11af1]: Commencement: Art. 34 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
 [^f00047]: Footnote: [2006 c. 32](https://www.legislation.gov.uk/ukpga/2006/32). Section 16(A1) was inserted by section 29(2) of the Senedd and Elections (Wales) Act 2020 (anaw 1).

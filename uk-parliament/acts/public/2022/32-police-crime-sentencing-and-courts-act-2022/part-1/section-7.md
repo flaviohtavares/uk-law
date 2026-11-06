@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Regulations relating to sections 5 and 6[^key-15e5a51f13f008a5379d1bf3a34711c4][^key-20ddbc95db0d854cecd0f3c4b38d4d7e]
+## 7. Regulations relating to sections 5 and 6[^c-15e5a51f13f008a5379d1bf3a34711c4][^c-20ddbc95db0d854cecd0f3c4b38d4d7e]
 
 *Extent: E+W+S*
 
@@ -26,6 +26,6 @@ In section 195 of the Road Traffic Act 1988 (provisions as to regulations), afte
 
 ## Annotations
 
-[^key-15e5a51f13f008a5379d1bf3a34711c4]: Commencement: S. 7 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-15e5a51f13f008a5379d1bf3a34711c4]: Commencement: S. 7 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-20ddbc95db0d854cecd0f3c4b38d4d7e]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2022/32/section/7) in force at 26.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/3/c)
+[^c-20ddbc95db0d854cecd0f3c4b38d4d7e]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2022/32/section/7) in force at 26.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/3/c)

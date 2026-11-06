@@ -38,8 +38,8 @@ summary: ''
 
 (9) The Governor must arrange for the transfer of the prisoner to a hospital outwith the prison for the purposes of giving birth upon receiving the advice of a healthcare professional on this matter.
 
-(10)[^key-ad9b5557c244a579de2335a7007eb84c] Paragraph (7) does not apply to prisons, categories of prisons or parts of prisons specified by the Scottish Ministers in a direction under rule 35B(1) (prisoners’ food and drink: preparation of meals by prisoner for own consumption).
+(10)[^c-ad9b5557c244a579de2335a7007eb84c] Paragraph (7) does not apply to prisons, categories of prisons or parts of prisons specified by the Scottish Ministers in a direction under rule 35B(1) (prisoners’ food and drink: preparation of meals by prisoner for own consumption).
 
 ## Annotations
 
-[^key-ad9b5557c244a579de2335a7007eb84c]: Textual amendment: [Rule 127(10)](https://www.legislation.gov.uk/ssi/2011/331/rule/127/10) inserted (4.7.2022) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2022 (S.S.I. 2022/194)](https://www.legislation.gov.uk/ssi/2022/194), [rules 1](https://www.legislation.gov.uk/ssi/2022/194/rule/1), [2(6)](https://www.legislation.gov.uk/ssi/2022/194/rule/2/6)
+[^c-ad9b5557c244a579de2335a7007eb84c]: Textual amendment: [Rule 127(10)](https://www.legislation.gov.uk/ssi/2011/331/rule/127/10) inserted (4.7.2022) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2022 (S.S.I. 2022/194)](https://www.legislation.gov.uk/ssi/2022/194), [rules 1](https://www.legislation.gov.uk/ssi/2022/194/rule/1), [2(6)](https://www.legislation.gov.uk/ssi/2022/194/rule/2/6)

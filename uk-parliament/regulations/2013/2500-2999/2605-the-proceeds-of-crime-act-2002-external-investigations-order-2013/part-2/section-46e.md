@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46E. Statements[^key-792d3d207261ae0143b4fac7ae821867]
+## 46E. Statements[^c-792d3d207261ae0143b4fac7ae821867]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ by the person or on the person’s behalf in proceedings arising out of the pros
 
 ## Annotations
 
-[^key-792d3d207261ae0143b4fac7ae821867]: Textual amendment: Arts. 46A-46H inserted (12.11.2018) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2018 (S.I. 2018/1078)](https://www.legislation.gov.uk/uksi/2018/1078), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/1/2), [13](https://www.legislation.gov.uk/uksi/2018/1078/article/13)
+[^c-792d3d207261ae0143b4fac7ae821867]: Textual amendment: Arts. 46A-46H inserted (12.11.2018) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2018 (S.I. 2018/1078)](https://www.legislation.gov.uk/uksi/2018/1078), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/1/2), [13](https://www.legislation.gov.uk/uksi/2018/1078/article/13)

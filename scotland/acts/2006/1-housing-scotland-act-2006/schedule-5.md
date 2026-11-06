@@ -24,7 +24,7 @@ summary: ''
 
 ### Carrying out of work by local authority
 
-**1.**[^key-346e3adfb9b683898398738ce0b18959] (1) If the owner of living accommodation fails to comply with an HMO amenity notice, the local authority may carry out the work required by the notice.
+**1.**[^c-346e3adfb9b683898398738ce0b18959] (1) If the owner of living accommodation fails to comply with an HMO amenity notice, the local authority may carry out the work required by the notice.
 
 (2) The local authority may not carry out any work authorised by sub-paragraph (1) unless—
 
@@ -35,7 +35,7 @@ summary: ''
 
 ### Evacuation
 
-**2.**[^key-a74791f4167814f90b5d5af4f1714363] (1) Where the local authority—
+**2.**[^c-a74791f4167814f90b5d5af4f1714363] (1) Where the local authority—
 
 - (a) is authorised by this schedule to carry out work in living accommodation, and
 - (b) considers that doing so is likely to endanger the occupant of any land or premises,
@@ -54,7 +54,7 @@ it must require that occupant to move from the land or premises.
 
 ### Warrants for ejection
 
-**3.**[^key-7de17dfdcc721eaea078ff8980f0fbe6] (1)[^key-716265ef466330405452e0211012557f] Where an occupant has not complied with a requirement under paragraph 2, the local authority may, by summary application, apply to the sheriff for a warrant for the ejection of the occupant from the land or premises in question.
+**3.**[^c-7de17dfdcc721eaea078ff8980f0fbe6] (1)[^c-716265ef466330405452e0211012557f] Where an occupant has not complied with a requirement under paragraph 2, the local authority may, by summary application, apply to the sheriff for a warrant for the ejection of the occupant from the land or premises in question.
 
 (2) No such application may be made before the expiry of the period specified in the notice served under paragraph 2(2).
 
@@ -75,9 +75,9 @@ it must require that occupant to move from the land or premises.
 
 (9) Refusal by the sheriff to grant any warrant sought under this paragraph does not affect the validity of the HMO amenity notice in relation to which the warrant was sought.
 
-(10) Nothing in an enactment mentioned in sub-paragraph (11)[^key-617dba0645727f442474f33da05fde02] restricts the power of a local authority to apply for, or the power of the sheriff to grant, a warrant under sub-paragraph (4).
+(10) Nothing in an enactment mentioned in sub-paragraph (11)[^c-617dba0645727f442474f33da05fde02] restricts the power of a local authority to apply for, or the power of the sheriff to grant, a warrant under sub-paragraph (4).
 
-(11)[^key-ba293fd5c665a4b9e30c7aa3feef74e0] The enactments referred to in sub-paragraph (10) are—
+(11)[^c-ba293fd5c665a4b9e30c7aa3feef74e0] The enactments referred to in sub-paragraph (10) are—
 
 - (a) the Rent (Scotland) Act 1984,
 - (b) Part 2 of the Housing (Scotland) Act 1988,
@@ -85,7 +85,7 @@ it must require that occupant to move from the land or premises.
 
 ### Unlawful occupation etc.
 
-**4.**[^key-662c25ca6e1e5def05ec9591ff4b6390] (1) A person commits an offence if the person, knowing that a requirement under paragraph 2(1) has effect in relation to any land or premises—
+**4.**[^c-662c25ca6e1e5def05ec9591ff4b6390] (1) A person commits an offence if the person, knowing that a requirement under paragraph 2(1) has effect in relation to any land or premises—
 
 - (a) occupies it or them, or
 - (b) permits such occupation.
@@ -99,7 +99,7 @@ it must require that occupant to move from the land or premises.
 
 ### Listed buildings etc.
 
-**5.**[^key-1cf59b1638315475e2c1dd73ede65c8d] (1) This paragraph applies to a building which is—
+**5.**[^c-1cf59b1638315475e2c1dd73ede65c8d] (1) This paragraph applies to a building which is—
 
 - (a) included in a list of buildings of special architectural or historic interest, being a list compiled or approved under section 1 of the Planning (Listed Buildings and Conservation Areas) (Scotland) Act 1997 (c. 9) (“**the 1997 Act**”),
 - (b) subject to a building preservation notice under section 3 of the 1997 Act, or
@@ -107,7 +107,7 @@ it must require that occupant to move from the land or premises.
 
 (2) The local authority must, before it carries out any work in any living accommodation which is, or which forms part of, a building to which this paragraph applies in pursuance of paragraph 1, consult—
 
-- (a)[^key-f078d0e2e52405659fc9d76fbb2dacb3] Historic Environment Scotland,
+- (a)[^c-f078d0e2e52405659fc9d76fbb2dacb3] Historic Environment Scotland,
 - (b) the planning authority (where the planning authority is not the local authority), and
 - (c) such other persons as the local authority thinks fit.
 
@@ -115,7 +115,7 @@ it must require that occupant to move from the land or premises.
 
 ### Recovery of expenses etc.
 
-**6.**[^key-bb8d32bca755ed17d2e8eb10fa9b68ac] (1) The local authority may recover any expenses it incurs in carrying out any work authorised by this schedule from the owner of the living accommodation concerned.
+**6.**[^c-bb8d32bca755ed17d2e8eb10fa9b68ac] (1) The local authority may recover any expenses it incurs in carrying out any work authorised by this schedule from the owner of the living accommodation concerned.
 
 (2) Sub-paragraph (1) entitles the local authority to recover—
 
@@ -128,7 +128,7 @@ it must require that occupant to move from the land or premises.
 
 ### Certification
 
-**7.**[^key-c570f9af92f5da9c646bd931ba9e26fa] (1) A person who is required to carry out work by an HMO amenity notice may apply to the local authority for certification that the work has been completed.
+**7.**[^c-c570f9af92f5da9c646bd931ba9e26fa] (1) A person who is required to carry out work by an HMO amenity notice may apply to the local authority for certification that the work has been completed.
 
 (2) An application under this paragraph is not competent unless the applicant has paid any expenses demanded by the local authority under paragraph 6 in relation to that work.
 
@@ -138,30 +138,30 @@ it must require that occupant to move from the land or premises.
 
 ### Registration
 
-**8.**[^key-8f632e9e4898f75fbaa62cdc508a42c2] The local authority must keep a written record of each HMO amenity notice which relates to living accommodation which is not a building.
+**8.**[^c-8f632e9e4898f75fbaa62cdc508a42c2] The local authority must keep a written record of each HMO amenity notice which relates to living accommodation which is not a building.
 
 ## Annotations
 
-[^key-346e3adfb9b683898398738ce0b18959]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/asp/2006/1/schedule/5/paragraph/1) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
+[^c-346e3adfb9b683898398738ce0b18959]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/asp/2006/1/schedule/5/paragraph/1) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
 
-[^key-a74791f4167814f90b5d5af4f1714363]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/asp/2006/1/schedule/5/paragraph/2) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
+[^c-a74791f4167814f90b5d5af4f1714363]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/asp/2006/1/schedule/5/paragraph/2) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
 
-[^key-7de17dfdcc721eaea078ff8980f0fbe6]: Commencement: Sch. 5 para. 3 in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
+[^c-7de17dfdcc721eaea078ff8980f0fbe6]: Commencement: Sch. 5 para. 3 in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
 
-[^key-716265ef466330405452e0211012557f]: Modification: Sch. 5 para. 3(1) power to disapply conferred (20.11.2014) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 20(2)(a)(iv)](https://www.legislation.gov.uk/asp/2014/14/section/20/2/a/iv), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule)
+[^c-716265ef466330405452e0211012557f]: Modification: Sch. 5 para. 3(1) power to disapply conferred (20.11.2014) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 20(2)(a)(iv)](https://www.legislation.gov.uk/asp/2014/14/section/20/2/a/iv), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule)
 
-[^key-617dba0645727f442474f33da05fde02]: Textual amendment: Words in [sch. 5 para. 3(10)](https://www.legislation.gov.uk/asp/2006/1/schedule/5/paragraph/3/10) substituted (1.12.2017) by [Private Housing (Tenancies) (Scotland) Act 2016 (asp 19)](https://www.legislation.gov.uk/asp/2016/19), [s. 79(2)](https://www.legislation.gov.uk/asp/2016/19/section/79/2), [sch. 4 para. 9(3)(a)](https://www.legislation.gov.uk/asp/2016/19/schedule/4/paragraph/9/3/a); [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
+[^c-617dba0645727f442474f33da05fde02]: Textual amendment: Words in [sch. 5 para. 3(10)](https://www.legislation.gov.uk/asp/2006/1/schedule/5/paragraph/3/10) substituted (1.12.2017) by [Private Housing (Tenancies) (Scotland) Act 2016 (asp 19)](https://www.legislation.gov.uk/asp/2016/19), [s. 79(2)](https://www.legislation.gov.uk/asp/2016/19/section/79/2), [sch. 4 para. 9(3)(a)](https://www.legislation.gov.uk/asp/2016/19/schedule/4/paragraph/9/3/a); [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
 
-[^key-ba293fd5c665a4b9e30c7aa3feef74e0]: Textual amendment: [Sch. 5 para. 3(11)](https://www.legislation.gov.uk/asp/2006/1/schedule/5/paragraph/3/11) inserted (1.12.2017) by [Private Housing (Tenancies) (Scotland) Act 2016 (asp 19)](https://www.legislation.gov.uk/asp/2016/19), [s. 79(2)](https://www.legislation.gov.uk/asp/2016/19/section/79/2), [sch. 4 para. 9(3)(b)](https://www.legislation.gov.uk/asp/2016/19/schedule/4/paragraph/9/3/b); [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
+[^c-ba293fd5c665a4b9e30c7aa3feef74e0]: Textual amendment: [Sch. 5 para. 3(11)](https://www.legislation.gov.uk/asp/2006/1/schedule/5/paragraph/3/11) inserted (1.12.2017) by [Private Housing (Tenancies) (Scotland) Act 2016 (asp 19)](https://www.legislation.gov.uk/asp/2016/19), [s. 79(2)](https://www.legislation.gov.uk/asp/2016/19/section/79/2), [sch. 4 para. 9(3)(b)](https://www.legislation.gov.uk/asp/2016/19/schedule/4/paragraph/9/3/b); [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
 
-[^key-662c25ca6e1e5def05ec9591ff4b6390]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/asp/2006/1/schedule/5/paragraph/4) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
+[^c-662c25ca6e1e5def05ec9591ff4b6390]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/asp/2006/1/schedule/5/paragraph/4) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
 
-[^key-1cf59b1638315475e2c1dd73ede65c8d]: Commencement: Sch. 5 para. 5 in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
+[^c-1cf59b1638315475e2c1dd73ede65c8d]: Commencement: Sch. 5 para. 5 in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
 
-[^key-f078d0e2e52405659fc9d76fbb2dacb3]: Textual amendment: Sch. 5 para. 5(2)(a) substituted (1.10.2015) by [The Historic Environment Scotland Act 2014 (Ancillary Provision) Order 2015 (S.S.I. 2015/271)](https://www.legislation.gov.uk/ssi/2015/271), [arts. 1](https://www.legislation.gov.uk/ssi/2015/271/article/1), [6(1)](https://www.legislation.gov.uk/ssi/2015/271/article/6/1) (with [art. 6(2)](https://www.legislation.gov.uk/ssi/2015/271/article/6/2))
+[^c-f078d0e2e52405659fc9d76fbb2dacb3]: Textual amendment: Sch. 5 para. 5(2)(a) substituted (1.10.2015) by [The Historic Environment Scotland Act 2014 (Ancillary Provision) Order 2015 (S.S.I. 2015/271)](https://www.legislation.gov.uk/ssi/2015/271), [arts. 1](https://www.legislation.gov.uk/ssi/2015/271/article/1), [6(1)](https://www.legislation.gov.uk/ssi/2015/271/article/6/1) (with [art. 6(2)](https://www.legislation.gov.uk/ssi/2015/271/article/6/2))
 
-[^key-bb8d32bca755ed17d2e8eb10fa9b68ac]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/asp/2006/1/schedule/5/paragraph/6) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
+[^c-bb8d32bca755ed17d2e8eb10fa9b68ac]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/asp/2006/1/schedule/5/paragraph/6) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
 
-[^key-c570f9af92f5da9c646bd931ba9e26fa]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/asp/2006/1/schedule/5/paragraph/7) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
+[^c-c570f9af92f5da9c646bd931ba9e26fa]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/asp/2006/1/schedule/5/paragraph/7) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
 
-[^key-8f632e9e4898f75fbaa62cdc508a42c2]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/asp/2006/1/schedule/5/paragraph/8) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
+[^c-8f632e9e4898f75fbaa62cdc508a42c2]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/asp/2006/1/schedule/5/paragraph/8) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)

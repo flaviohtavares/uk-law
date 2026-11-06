@@ -36,7 +36,7 @@ the amount of credit risk protection as calculated under Article 233(3) (G\*) fu
 
 r
 
-the risk weight of exposures to the obligor as specified under Chapter 2 of this Regulation and Articles 132a to 132c of Chapter 3 of the Standardised Approach and Internal Ratings Based Approach to Credit Risk (CRR) Part of the PRA Rulebook[^key-b91cda4a8bd188d463ff86d547bd2c29];
+the risk weight of exposures to the obligor as specified under Chapter 2 of this Regulation and Articles 132a to 132c of Chapter 3 of the Standardised Approach and Internal Ratings Based Approach to Credit Risk (CRR) Part of the PRA Rulebook[^c-b91cda4a8bd188d463ff86d547bd2c29];
 
 g
 
@@ -50,4 +50,4 @@ the risk weight of exposures to the protection provider as specified under Chapt
 
 [^c000001]: Editorial: Substituted by [Corrigendum to Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 (OJ L 176, 27.6.2013, p. 1)](https://www.legislation.gov.uk/eur/2013/575/pdfs/eurcs_20130575_en_002.pdf).
 
-[^key-b91cda4a8bd188d463ff86d547bd2c29]: Textual amendment: Words in [Art. 235(1)](https://www.legislation.gov.uk/eur/2013/575/article/235/1) inserted (1.1.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [25(26)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/25/26)
+[^c-b91cda4a8bd188d463ff86d547bd2c29]: Textual amendment: Words in [Art. 235(1)](https://www.legislation.gov.uk/eur/2013/575/article/235/1) inserted (1.1.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [25(26)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/25/26)

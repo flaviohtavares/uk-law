@@ -22,7 +22,7 @@ summary: ''
 
 (1) References in this section to a power are to an open power and to any other power to make subordinate legislation conferred by this Act which is exercisable by Her Majesty in Council or by a Minister of the Crown, and include a power as extended by this section.
 
-(1A)[^key-5d7329cbe9af67841b477be3aa5d617a] Subsections (2) to (11), except subsection (9), apply also to the power of the Scottish Ministers to make an order under section 12 or regulations under section 12B[^key-4197911c2780147e90557e1677ea946f].
+(1A)[^c-5d7329cbe9af67841b477be3aa5d617a] Subsections (2) to (11), except subsection (9), apply also to the power of the Scottish Ministers to make an order under section 12 or regulations under section 12B[^c-4197911c2780147e90557e1677ea946f].
 
 (2) A power may be exercised so as to make different provision for different purposes.
 
@@ -53,7 +53,7 @@ if the subordinate legislation (or a statutory instrument containing it) would b
 
 (9) A power includes power to make provision for the payment of sums out of money provided by Parliament or for sums to be charged on and paid out of the Consolidated Fund.
 
-(9A)[^key-afe73c5e1a4c6662a2314ba3d264034e] A power may not be exercised so as to create any criminal offence punishable with any of the penalties specified for the offence in subsection (9B) or (10).
+(9A)[^c-afe73c5e1a4c6662a2314ba3d264034e] A power may not be exercised so as to create any criminal offence punishable with any of the penalties specified for the offence in subsection (9B) or (10).
 
 (9B) In relation to Scotland, the specified penalties are—
 
@@ -63,18 +63,18 @@ if the subordinate legislation (or a statutory instrument containing it) would b
 
 (10) In relation to England and Wales and Northern Ireland, the specified penalties are—
 
-- (a) where the offence is tried summarily, imprisonment for a period exceeding the prescribed term[^key-7784b1cc9bbfad1d4e4bcdd1dac72406] and a fine exceeding—
+- (a) where the offence is tried summarily, imprisonment for a period exceeding the prescribed term[^c-7784b1cc9bbfad1d4e4bcdd1dac72406] and a fine exceeding—
   - (i) in the case of a summary offence, level 5 on the standard scale,
   - (ii) in the case of an offence triable either way, the statutory maximum,
 - (b) where the offence is tried on indictment, imprisonment for a period exceeding two years.
 
-(10A)[^key-64001842ec036acff5c9a14f31b283ac] In subsection (10)(a), “**the prescribed term**” means—
+(10A)[^c-64001842ec036acff5c9a14f31b283ac] In subsection (10)(a), “**the prescribed term**” means—
 
 - (a) in relation to England and Wales, where the offence is a summary offence, 51 weeks;
-- (b) in relation to England and Wales, where the offence is triable either way, the general limit in a magistrates’ court[^key-19355c13466c934c5239e4fb6b51d268];
+- (b) in relation to England and Wales, where the offence is triable either way, the general limit in a magistrates’ court[^c-19355c13466c934c5239e4fb6b51d268];
 - (c) in relation to ... Northern Ireland, three months.
 
-(10AA)[^key-0ee40707625211948eee3be9b8cd553d] If a power—
+(10AA)[^c-0ee40707625211948eee3be9b8cd553d] If a power—
 
 - (a) is exercised so as to make provision for a summary offence under the law of England and Wales to be punishable with imprisonment for more than 6 months (“**the relevant provision**”) and
 - (b) is so exercised—
@@ -85,25 +85,25 @@ the power must also be exercised so as to provide that, in relation to an offenc
 
 (11) The fact that a power is conferred does not prejudice the extent of any other power.
 
-(12)[^key-0cb8038099cc316ae3147462211de859] Her Majesty may by Order in Council amend subsection (9B) or (10) so as to change—
+(12)[^c-0cb8038099cc316ae3147462211de859] Her Majesty may by Order in Council amend subsection (9B) or (10) so as to change—
 
 - (a) any period of imprisonment specified there, or
 - (b) the amount of any fine so specified.
 
 ## Annotations
 
-[^key-5d7329cbe9af67841b477be3aa5d617a]: Textual amendment: S. 113(1A) inserted (1.7.2015) by [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 3(1)](https://www.legislation.gov.uk/ukpga/2012/11/section/3/1), [44(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/5); [S.I. 2015/682](https://www.legislation.gov.uk/uksi/2015/682), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/682/article/2/b) (with saving in [S.I. 2015/683](https://www.legislation.gov.uk/uksi/2015/683), art. 2)
+[^c-5d7329cbe9af67841b477be3aa5d617a]: Textual amendment: S. 113(1A) inserted (1.7.2015) by [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 3(1)](https://www.legislation.gov.uk/ukpga/2012/11/section/3/1), [44(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/5); [S.I. 2015/682](https://www.legislation.gov.uk/uksi/2015/682), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/682/article/2/b) (with saving in [S.I. 2015/683](https://www.legislation.gov.uk/uksi/2015/683), art. 2)
 
-[^key-4197911c2780147e90557e1677ea946f]: Textual amendment: Words in [s. 113(1A)](https://www.legislation.gov.uk/ukpga/1998/46/section/113/1A) inserted (27.10.2025) by [Absent Voting (Elections in Scotland and Wales) Act 2025 (c. 27)](https://www.legislation.gov.uk/ukpga/2025/27), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2025/27/section/2/3), [4(1)](https://www.legislation.gov.uk/ukpga/2025/27/section/4/1)
+[^c-4197911c2780147e90557e1677ea946f]: Textual amendment: Words in [s. 113(1A)](https://www.legislation.gov.uk/ukpga/1998/46/section/113/1A) inserted (27.10.2025) by [Absent Voting (Elections in Scotland and Wales) Act 2025 (c. 27)](https://www.legislation.gov.uk/ukpga/2025/27), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2025/27/section/2/3), [4(1)](https://www.legislation.gov.uk/ukpga/2025/27/section/4/1)
 
-[^key-afe73c5e1a4c6662a2314ba3d264034e]: Textual amendment: S. 113(9A)-(10) substituted for s. 113(10) (31.10.2012) by [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 39(2)](https://www.legislation.gov.uk/ukpga/2012/11/section/39/2), [44(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/5); [S.I. 2012/2516](https://www.legislation.gov.uk/uksi/2012/2516), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/2516/article/2/e)
+[^c-afe73c5e1a4c6662a2314ba3d264034e]: Textual amendment: S. 113(9A)-(10) substituted for s. 113(10) (31.10.2012) by [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 39(2)](https://www.legislation.gov.uk/ukpga/2012/11/section/39/2), [44(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/5); [S.I. 2012/2516](https://www.legislation.gov.uk/uksi/2012/2516), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/2516/article/2/e)
 
-[^key-7784b1cc9bbfad1d4e4bcdd1dac72406]: Textual amendment: Words in [s. 113(10)(a)](https://www.legislation.gov.uk/ukpga/1998/46/section/113/10/a) substituted (2.5.2022) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 27 para. 7(2)](https://www.legislation.gov.uk/ukpga/2003/44/schedule/27/paragraph/7/2) (with [s. 283(7)](https://www.legislation.gov.uk/ukpga/2003/44/section/283/7)); [S.I. 2022/500](https://www.legislation.gov.uk/uksi/2022/500), [reg. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2022/500/regulation/3/b/ii)
+[^c-7784b1cc9bbfad1d4e4bcdd1dac72406]: Textual amendment: Words in [s. 113(10)(a)](https://www.legislation.gov.uk/ukpga/1998/46/section/113/10/a) substituted (2.5.2022) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 27 para. 7(2)](https://www.legislation.gov.uk/ukpga/2003/44/schedule/27/paragraph/7/2) (with [s. 283(7)](https://www.legislation.gov.uk/ukpga/2003/44/section/283/7)); [S.I. 2022/500](https://www.legislation.gov.uk/uksi/2022/500), [reg. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2022/500/regulation/3/b/ii)
 
-[^key-64001842ec036acff5c9a14f31b283ac]: Textual amendment: S. 113(10A) inserted (2.5.2022) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3/4), [Sch. 27 para. 7(3)](https://www.legislation.gov.uk/ukpga/2003/44/schedule/27/paragraph/7/3) (with [s. 283(7)](https://www.legislation.gov.uk/ukpga/2003/44/section/283/7)) (as amended (31.10.2012) by [2012 c. 11](https://www.legislation.gov.uk/ukpga/2012/11), [s. 39(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/39/5); [S.I. 2012/2516](https://www.legislation.gov.uk/uksi/2012/2516), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/2516/article/2/e)); [S.I. 2022/500](https://www.legislation.gov.uk/uksi/2022/500), [reg. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2022/500/regulation/3/b/ii)
+[^c-64001842ec036acff5c9a14f31b283ac]: Textual amendment: S. 113(10A) inserted (2.5.2022) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3/4), [Sch. 27 para. 7(3)](https://www.legislation.gov.uk/ukpga/2003/44/schedule/27/paragraph/7/3) (with [s. 283(7)](https://www.legislation.gov.uk/ukpga/2003/44/section/283/7)) (as amended (31.10.2012) by [2012 c. 11](https://www.legislation.gov.uk/ukpga/2012/11), [s. 39(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/39/5); [S.I. 2012/2516](https://www.legislation.gov.uk/uksi/2012/2516), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/2516/article/2/e)); [S.I. 2022/500](https://www.legislation.gov.uk/uksi/2022/500), [reg. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2022/500/regulation/3/b/ii)
 
-[^key-19355c13466c934c5239e4fb6b51d268]: Textual amendment: Words in [s. 113(10A)(b)](https://www.legislation.gov.uk/ukpga/1998/46/section/113/10A/b) substituted (14.7.2022) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4), [Sch. 2 para. 18](https://www.legislation.gov.uk/ukpga/2022/35/schedule/2/paragraph/18); [S.I. 2022/816](https://www.legislation.gov.uk/uksi/2022/816), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/816/regulation/1/2), [3(d)](https://www.legislation.gov.uk/uksi/2022/816/regulation/3/d)
+[^c-19355c13466c934c5239e4fb6b51d268]: Textual amendment: Words in [s. 113(10A)(b)](https://www.legislation.gov.uk/ukpga/1998/46/section/113/10A/b) substituted (14.7.2022) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4), [Sch. 2 para. 18](https://www.legislation.gov.uk/ukpga/2022/35/schedule/2/paragraph/18); [S.I. 2022/816](https://www.legislation.gov.uk/uksi/2022/816), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/816/regulation/1/2), [3(d)](https://www.legislation.gov.uk/uksi/2022/816/regulation/3/d)
 
-[^key-0ee40707625211948eee3be9b8cd553d]: Textual amendment: [S. 113(10AA)](https://www.legislation.gov.uk/ukpga/1998/46/section/113/10AA) inserted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/8/2)
+[^c-0ee40707625211948eee3be9b8cd553d]: Textual amendment: [S. 113(10AA)](https://www.legislation.gov.uk/ukpga/1998/46/section/113/10AA) inserted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/8/2)
 
-[^key-0cb8038099cc316ae3147462211de859]: Textual amendment: S. 113(12) inserted (31.10.2012) by [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 39(3)](https://www.legislation.gov.uk/ukpga/2012/11/section/39/3), [44(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/5); [S.I. 2012/2516](https://www.legislation.gov.uk/uksi/2012/2516), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/2516/article/2/e)
+[^c-0cb8038099cc316ae3147462211de859]: Textual amendment: S. 113(12) inserted (31.10.2012) by [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 39(3)](https://www.legislation.gov.uk/ukpga/2012/11/section/39/3), [44(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/5); [S.I. 2012/2516](https://www.legislation.gov.uk/uksi/2012/2516), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/2516/article/2/e)

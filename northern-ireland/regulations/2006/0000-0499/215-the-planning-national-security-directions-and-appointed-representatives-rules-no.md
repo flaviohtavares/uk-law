@@ -44,11 +44,11 @@ Coming into operation
 
 The Lord Chancellor makes the following rules in exercise of the powers conferred by Article 123A (6) of the Planning (Northern Ireland) Order 1991[^f00001]:
 
-## 1. Citation and commencement[^key-7d1cdc0f0c0271dd83ed406553fd0ff9]
+## 1. Citation and commencement[^c-7d1cdc0f0c0271dd83ed406553fd0ff9]
 
 These rules may be cited as the Planning (National Security Directions and Appointed Representatives) Rules (Northern Ireland) 2006 and shall come into operation on 10th June 2006.
 
-## 2. Interpretation[^key-7a7a45f458a3dc7c6b7c770cacab2d17]
+## 2. Interpretation[^c-7a7a45f458a3dc7c6b7c770cacab2d17]
 
 (1) In these rules—
 
@@ -60,7 +60,7 @@ These rules may be cited as the Planning (National Security Directions and Appoi
 - “closed evidence” means evidence of a description indicated in a direction;
 - “direction” means a direction by the Secretary of State under Article 123A(2) of the 1991 Order;
 - “document” includes a photograph, map or plan;
-- “electronic communication” has the meaning assigned to it by section 4(1) of the Electronic Communications Act (Northern Ireland) 2001[^key-73058bfafdaaceda89e67af1bd44ad0b];
+- “electronic communication” has the meaning assigned to it by section 4(1) of the Electronic Communications Act (Northern Ireland) 2001[^c-73058bfafdaaceda89e67af1bd44ad0b];
 - “potentially closed evidence” means evidence in respect of which a request for a direction has been made;
 - “the parties” means—
   - (a) the person making the request for a direction; and
@@ -87,7 +87,7 @@ These rules may be cited as the Planning (National Security Directions and Appoi
 
 (7) A requirement in these rules that any document should be in writing is fulfilled where that document meets the criteria in paragraph (4).
 
-## 3. Functions of an appointed representative[^key-e7a03e3d36e75d1c5306f16b47689f06]
+## 3. Functions of an appointed representative[^c-e7a03e3d36e75d1c5306f16b47689f06]
 
 (1) The first function of an appointed representative is to represent the interests of the affected person by—
 
@@ -118,11 +118,11 @@ whichever is the later.
 - (a) the person who has supplied the closed or potentially closed evidence to the Secretary of State; or
 - (b) a person specified, or of any description specified, in the direction.
 
-## 4. Acknowledgement of request for a direction[^key-1fe470a9d82ca24653068d17711cd889]
+## 4. Acknowledgement of request for a direction[^c-1fe470a9d82ca24653068d17711cd889]
 
 As soon as practicable after receiving a request for a direction the Secretary of State shall acknowledge receipt of it in writing.
 
-## 5. Publicity[^key-e1c6e988271d8572c68a8428453ab22b]
+## 5. Publicity[^c-e1c6e988271d8572c68a8428453ab22b]
 
 (1) As soon as practicable after receiving a request for a direction it shall be publicised by the Secretary of State by giving notice by local advertisement and, if appropriate, by serving notice upon any owner or occupier adjoining the land to which the request for a direction relates.
 
@@ -132,7 +132,7 @@ As soon as practicable after receiving a request for a direction the Secretary o
 - (b) state that written representations as to whether a direction should be given can be made to the Secretary of State at the address specified in the notice; and
 - (c) specify the date by which any such representations should be made to the Secretary of State (being a date not less than 2 weeks from the date when the notice is given).
 
-## 6. Information to be sent to the parties[^key-2559c8dbd7fae7d8d48574ae81c56f01]
+## 6. Information to be sent to the parties[^c-2559c8dbd7fae7d8d48574ae81c56f01]
 
 (1) As soon as practicable after notice of the request for a direction has been given in accordance with rule 5, the Secretary of State shall—
 
@@ -144,7 +144,7 @@ As soon as practicable after receiving a request for a direction the Secretary o
 - (a) a copy of the request for the direction; and
 - (b) where the potentially closed evidence includes documentary evidence or a proof of evidence of a person who intends to give oral evidence, a copy of the evidence.
 
-## 7. Written representations procedure[^key-ff01dbaf567f964372944d9dd20974c0]
+## 7. Written representations procedure[^c-ff01dbaf567f964372944d9dd20974c0]
 
 (1) For the purposes of these rules, the request for a direction comprises the written representations of the person making the request for a direction.
 
@@ -159,7 +159,7 @@ As soon as practicable after receiving a request for a direction the Secretary o
 
 (5) In paragraph (4) “relevant date” means the date specified in a notice issued under rule 5(2) or 6(1) as the case may be, or such later date as may be fixed by the Secretary of State under rule 10.
 
-## 8. Decision to hold a hearing and date of hearing[^key-fa41fa7bc97e44a10a1d58b28b1a0363]
+## 8. Decision to hold a hearing and date of hearing[^c-fa41fa7bc97e44a10a1d58b28b1a0363]
 
 (1) Where the Secretary of State considers that one or more matters relating to the request would be more satisfactorily resolved by holding a hearing attended by the parties, he shall give the parties written notice accordingly.
 
@@ -171,7 +171,7 @@ As soon as practicable after receiving a request for a direction the Secretary o
 
 (5) The Secretary of State may vary the time or place for the holding of a hearing and shall give the parties such notice of any variation as appears to him to be reasonable.
 
-## 9. Hearing Procedure[^key-0f3b3ebbd4c0934fac9dc0e7e42657f2]
+## 9. Hearing Procedure[^c-0f3b3ebbd4c0934fac9dc0e7e42657f2]
 
 (1) Except as otherwise provided in these rules, the Secretary of State shall determine the procedure at a hearing.
 
@@ -189,18 +189,18 @@ As soon as practicable after receiving a request for a direction the Secretary o
 
 (6) When making his determination the Secretary of State may disregard any written representations, evidence or other document received after the end of the hearing.
 
-## 10. Further time[^key-6e4607ca29802c4ca8b3c3aacf94382b]
+## 10. Further time[^c-6e4607ca29802c4ca8b3c3aacf94382b]
 
 The Secretary of State may at any time in any particular case allow further time for the taking of any step which is required or enabled to be taken by virtue of these rules, and references in these rules to a day by which, or a period within which, any step is required or enabled to be taken shall be construed accordingly.
 
-## 11. Notices by post[^key-070011ffef49663337c6559459fa9020]
+## 11. Notices by post[^c-070011ffef49663337c6559459fa9020]
 
 Notices or documents required or authorised to be sent under these rules may be sent or supplied—
 
 - (a) by post; or
 - (b) by using electronic communications to send or supply the notice or document (as the case may be) to a person at such an address as may be for the time being specified by the person for that purpose.
 
-## 12. Use of electronic communication[^key-9f503f56fd018ccb1e90395f6e8d5b65]
+## 12. Use of electronic communication[^c-9f503f56fd018ccb1e90395f6e8d5b65]
 
 (1) Where a person uses electronic communications to transmit any statement, notice or other document for any purpose of these Rules which is capable of being carried out electronically he shall be taken to have agreed to the use of such communications and that his address for that purpose is the address incorporated into, or otherwise logically associated with the notice or document.
 
@@ -211,7 +211,7 @@ Notices or documents required or authorised to be sent under these rules may be 
 
 and such withdrawal or revocation shall be final and shall take effect on a date specified by the person in the notice but not less than 7 days after the date on which the notice is given.
 
-## 13. Notification of decision[^key-ac55f0092e0f733930dff00b862b4fef]
+## 13. Notification of decision[^c-ac55f0092e0f733930dff00b862b4fef]
 
 (1) As soon as practicable after determining whether or not to make a direction the Secretary of State shall notify his decision to any person who made representations to him in relation to the direction; but nothing in this paragraph requires or permits the Secretary of State to give reasons for his decision, where the giving of reasons would result in the public disclosure of closed evidence.
 
@@ -237,30 +237,30 @@ These rules provide for the procedure to be followed by the Secretary of State w
 
 [^f00001]: Footnote: [S.I.1991.1220 (N.I.11)](https://www.legislation.gov.uk/nisi/1991/1220) as amended by [S.I.2003/430(N.I.8)](https://www.legislation.gov.uk/nisi/2003/430) and [S.I.2006/1252 (N.I.7)](https://www.legislation.gov.uk/nisi/2006/1252)
 
-[^key-7d1cdc0f0c0271dd83ed406553fd0ff9]: Commencement: Rule 1 in operation at 10.6.2006, see [rule 1](https://www.legislation.gov.uk/nisr/2006/215/rule/1)
+[^c-7d1cdc0f0c0271dd83ed406553fd0ff9]: Commencement: Rule 1 in operation at 10.6.2006, see [rule 1](https://www.legislation.gov.uk/nisr/2006/215/rule/1)
 
-[^key-7a7a45f458a3dc7c6b7c770cacab2d17]: Commencement: Rule 2 in operation at 10.6.2006, see [rule 1](https://www.legislation.gov.uk/nisr/2006/215/rule/1)
+[^c-7a7a45f458a3dc7c6b7c770cacab2d17]: Commencement: Rule 2 in operation at 10.6.2006, see [rule 1](https://www.legislation.gov.uk/nisr/2006/215/rule/1)
 
-[^key-73058bfafdaaceda89e67af1bd44ad0b]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/nisr/2006/215/article/2/1) substituted (24.6.2006) by virtue of [The Planning (National Security Directions and Appointed Representatives) (Amendment) Rules (Northern Ireland) 2006 (S.R. 2006/285)](https://www.legislation.gov.uk/nisr/2006/285), [arts. 1](https://www.legislation.gov.uk/nisr/2006/285/article/1), [2(2)](https://www.legislation.gov.uk/nisr/2006/285/article/2/2)
+[^c-73058bfafdaaceda89e67af1bd44ad0b]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/nisr/2006/215/article/2/1) substituted (24.6.2006) by virtue of [The Planning (National Security Directions and Appointed Representatives) (Amendment) Rules (Northern Ireland) 2006 (S.R. 2006/285)](https://www.legislation.gov.uk/nisr/2006/285), [arts. 1](https://www.legislation.gov.uk/nisr/2006/285/article/1), [2(2)](https://www.legislation.gov.uk/nisr/2006/285/article/2/2)
 
-[^key-e7a03e3d36e75d1c5306f16b47689f06]: Commencement: Rule 3 in operation at 10.6.2006, see [rule 1](https://www.legislation.gov.uk/nisr/2006/215/rule/1)
+[^c-e7a03e3d36e75d1c5306f16b47689f06]: Commencement: Rule 3 in operation at 10.6.2006, see [rule 1](https://www.legislation.gov.uk/nisr/2006/215/rule/1)
 
-[^key-1fe470a9d82ca24653068d17711cd889]: Commencement: Rule 4 in operation at 10.6.2006, see [rule 1](https://www.legislation.gov.uk/nisr/2006/215/rule/1)
+[^c-1fe470a9d82ca24653068d17711cd889]: Commencement: Rule 4 in operation at 10.6.2006, see [rule 1](https://www.legislation.gov.uk/nisr/2006/215/rule/1)
 
-[^key-e1c6e988271d8572c68a8428453ab22b]: Commencement: Rule 5 in operation at 10.6.2006, see [rule 1](https://www.legislation.gov.uk/nisr/2006/215/rule/1)
+[^c-e1c6e988271d8572c68a8428453ab22b]: Commencement: Rule 5 in operation at 10.6.2006, see [rule 1](https://www.legislation.gov.uk/nisr/2006/215/rule/1)
 
-[^key-2559c8dbd7fae7d8d48574ae81c56f01]: Commencement: Rule 6 in operation at 10.6.2006, see [rule 1](https://www.legislation.gov.uk/nisr/2006/215/rule/1)
+[^c-2559c8dbd7fae7d8d48574ae81c56f01]: Commencement: Rule 6 in operation at 10.6.2006, see [rule 1](https://www.legislation.gov.uk/nisr/2006/215/rule/1)
 
-[^key-ff01dbaf567f964372944d9dd20974c0]: Commencement: Rule 7 in operation at 10.6.2006, see [rule 1](https://www.legislation.gov.uk/nisr/2006/215/rule/1)
+[^c-ff01dbaf567f964372944d9dd20974c0]: Commencement: Rule 7 in operation at 10.6.2006, see [rule 1](https://www.legislation.gov.uk/nisr/2006/215/rule/1)
 
-[^key-fa41fa7bc97e44a10a1d58b28b1a0363]: Commencement: Rule 8 in operation at 10.6.2006, see [rule 1](https://www.legislation.gov.uk/nisr/2006/215/rule/1)
+[^c-fa41fa7bc97e44a10a1d58b28b1a0363]: Commencement: Rule 8 in operation at 10.6.2006, see [rule 1](https://www.legislation.gov.uk/nisr/2006/215/rule/1)
 
-[^key-0f3b3ebbd4c0934fac9dc0e7e42657f2]: Commencement: Rule 9 in operation at 10.6.2006, see [rule 1](https://www.legislation.gov.uk/nisr/2006/215/rule/1)
+[^c-0f3b3ebbd4c0934fac9dc0e7e42657f2]: Commencement: Rule 9 in operation at 10.6.2006, see [rule 1](https://www.legislation.gov.uk/nisr/2006/215/rule/1)
 
-[^key-6e4607ca29802c4ca8b3c3aacf94382b]: Commencement: Rule 10 in operation at 10.6.2006, see [rule 1](https://www.legislation.gov.uk/nisr/2006/215/rule/1)
+[^c-6e4607ca29802c4ca8b3c3aacf94382b]: Commencement: Rule 10 in operation at 10.6.2006, see [rule 1](https://www.legislation.gov.uk/nisr/2006/215/rule/1)
 
-[^key-070011ffef49663337c6559459fa9020]: Commencement: Rule 11 in operation at 10.6.2006, see [rule 1](https://www.legislation.gov.uk/nisr/2006/215/rule/1)
+[^c-070011ffef49663337c6559459fa9020]: Commencement: Rule 11 in operation at 10.6.2006, see [rule 1](https://www.legislation.gov.uk/nisr/2006/215/rule/1)
 
-[^key-9f503f56fd018ccb1e90395f6e8d5b65]: Commencement: Rule 12 in operation at 10.6.2006, see [rule 1](https://www.legislation.gov.uk/nisr/2006/215/rule/1)
+[^c-9f503f56fd018ccb1e90395f6e8d5b65]: Commencement: Rule 12 in operation at 10.6.2006, see [rule 1](https://www.legislation.gov.uk/nisr/2006/215/rule/1)
 
-[^key-ac55f0092e0f733930dff00b862b4fef]: Commencement: Rule 13 in operation at 10.6.2006, see [rule 1](https://www.legislation.gov.uk/nisr/2006/215/rule/1)
+[^c-ac55f0092e0f733930dff00b862b4fef]: Commencement: Rule 13 in operation at 10.6.2006, see [rule 1](https://www.legislation.gov.uk/nisr/2006/215/rule/1)

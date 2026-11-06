@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Amendment of Schedule 5 (neighbourhood planning referendum combination of polls rules)[^key-f803295f7ba3d7faa95131d0333b86d0]
+## 66. Amendment of Schedule 5 (neighbourhood planning referendum combination of polls rules)[^c-f803295f7ba3d7faa95131d0333b86d0]
 
 *Extent: E+W+S+N.I.*
 
@@ -282,4 +282,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f803295f7ba3d7faa95131d0333b86d0]: Commencement: Reg. 66 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-f803295f7ba3d7faa95131d0333b86d0]: Commencement: Reg. 66 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)

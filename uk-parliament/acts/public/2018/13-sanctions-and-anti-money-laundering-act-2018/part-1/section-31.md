@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Independent review of regulations with counter-terrorism purpose[^key-0cdf15f7be1a8953a2d0be000d7dd4d4]
+## 31. Independent review of regulations with counter-terrorism purpose[^c-0cdf15f7be1a8953a2d0be000d7dd4d4]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0cdf15f7be1a8953a2d0be000d7dd4d4]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2018/13/section/31) in force at 22.11.2018 by [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/a)
+[^c-0cdf15f7be1a8953a2d0be000d7dd4d4]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2018/13/section/31) in force at 22.11.2018 by [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/a)

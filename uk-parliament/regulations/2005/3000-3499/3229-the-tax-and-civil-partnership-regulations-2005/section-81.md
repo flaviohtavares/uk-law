@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81.[^key-4882fb883c0900cea8bf3bca0b7cc37b]
+## 81.[^c-4882fb883c0900cea8bf3bca0b7cc37b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 599 (charge to tax: commutation of entire pension in special circumst
 
 ## Annotations
 
-[^key-4882fb883c0900cea8bf3bca0b7cc37b]: Commencement: Reg. 81 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-4882fb883c0900cea8bf3bca0b7cc37b]: Commencement: Reg. 81 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

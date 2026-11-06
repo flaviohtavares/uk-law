@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 78. Applicant's contribution: review[^key-6cf95bbe0754ae072ac8dd3abecc2bf7]
+## 78. Applicant's contribution: review[^c-6cf95bbe0754ae072ac8dd3abecc2bf7]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6cf95bbe0754ae072ac8dd3abecc2bf7]: Commencement: [S. 78](https://www.legislation.gov.uk/asp/2006/1/section/78) in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-6cf95bbe0754ae072ac8dd3abecc2bf7]: Commencement: [S. 78](https://www.legislation.gov.uk/asp/2006/1/section/78) in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)

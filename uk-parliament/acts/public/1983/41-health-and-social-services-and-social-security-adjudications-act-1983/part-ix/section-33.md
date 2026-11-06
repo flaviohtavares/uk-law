@@ -26,7 +26,7 @@ summary: ''
 - (b) Part III and Schedule 3;
 - (c) section 14(1) (except paragraphs (b) and (c)) and paragraph 1 of Schedule 6;
 - (d) section 25(2) and paragraph 31(6) of Schedule 8;
-- (e)[^key-b12385fb81f8dd41fbf6b8c0b5187f3f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-b12385fb81f8dd41fbf6b8c0b5187f3f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 extend to Northern Ireland.
 
@@ -45,4 +45,4 @@ extend to Northern Ireland.
 
 ## Annotations
 
-[^key-b12385fb81f8dd41fbf6b8c0b5187f3f]: Textual amendment: [S. 33(1)(e)](https://www.legislation.gov.uk/ukpga/1983/41/section/33/1/e) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 2
+[^c-b12385fb81f8dd41fbf6b8c0b5187f3f]: Textual amendment: [S. 33(1)(e)](https://www.legislation.gov.uk/ukpga/1983/41/section/33/1/e) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 2

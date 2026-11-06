@@ -27,7 +27,7 @@ summary: ''
 
 if the conditions mentioned in subsection (4) below are met.
 
-(2) In appeal proceedings, the court hearing the appeal[^key-d7da5db17c2bb0910e9c258608e9684f] may excuse a procedural irregularity—
+(2) In appeal proceedings, the court hearing the appeal[^c-d7da5db17c2bb0910e9c258608e9684f] may excuse a procedural irregularity—
 
 - (a) of that kind; and
 - (b) which has occurred in relation to earlier proceedings in the case that is the subject of the appeal,
@@ -73,7 +73,7 @@ if those conditions are met.
 - (b) sufficiency of evidence; or
 - (c) any other evidential factor.
 
-(7A)[^key-ec22511bd0ea1611a411ed913b1fb773] Subsection (1) does not authorise a court to excuse a failure to do any of the following things timeously—
+(7A)[^c-ec22511bd0ea1611a411ed913b1fb773] Subsection (1) does not authorise a court to excuse a failure to do any of the following things timeously—
 
 - (a) lodge written intimation of intention to appeal in accordance with section 109(1),
 - (b) lodge a note of appeal in accordance with section 110(1)(a),
@@ -114,6 +114,6 @@ does not render the proceedings, or anything done (or purported to have been don
 
 [^c19854361]: Textual amendment: S. 300A and cross-heading inserted (10.12.2007) by [Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (asp 6)](https://www.legislation.gov.uk/asp/2007/6), [ss. 40](https://www.legislation.gov.uk/asp/2007/6/section/40), [84](https://www.legislation.gov.uk/asp/2007/6/section/84); [S.S.I. 2007/479](https://www.legislation.gov.uk/ssi/2007/479), [art. 3(1)](https://www.legislation.gov.uk/ssi/2007/479/article/3/1), [Sch.](https://www.legislation.gov.uk/ssi/2007/479/schedule) (subject to [art. 11](https://www.legislation.gov.uk/ssi/2007/479/article/11)) (as amended by [S.S.I. 2007/527](https://www.legislation.gov.uk/ssi/2007/527))
 
-[^key-d7da5db17c2bb0910e9c258608e9684f]: Textual amendment: Words in s. 300A(2) substituted (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338)](https://www.legislation.gov.uk/ssi/2015/338), [art. 1](https://www.legislation.gov.uk/ssi/2015/338/article/1), [sch. 2 para. 5(19)](https://www.legislation.gov.uk/ssi/2015/338/schedule/2/paragraph/5/19) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/338/article/4))
+[^c-d7da5db17c2bb0910e9c258608e9684f]: Textual amendment: Words in s. 300A(2) substituted (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338)](https://www.legislation.gov.uk/ssi/2015/338), [art. 1](https://www.legislation.gov.uk/ssi/2015/338/article/1), [sch. 2 para. 5(19)](https://www.legislation.gov.uk/ssi/2015/338/schedule/2/paragraph/5/19) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/338/article/4))
 
-[^key-ec22511bd0ea1611a411ed913b1fb773]: Textual amendment: S. 300A(7A) inserted (17.1.2017) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [ss. 91](https://www.legislation.gov.uk/asp/2016/1/section/91), [117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2); [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule)
+[^c-ec22511bd0ea1611a411ed913b1fb773]: Textual amendment: S. 300A(7A) inserted (17.1.2017) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [ss. 91](https://www.legislation.gov.uk/asp/2016/1/section/91), [117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2); [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule)

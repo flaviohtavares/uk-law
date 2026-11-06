@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 109. Crown development[^key-590e29fb91273f36e66f3644b90a33f0][^key-aa7c86f587704f6fabcdb557eb5011f8]
+## 109. Crown development[^c-590e29fb91273f36e66f3644b90a33f0][^c-aa7c86f587704f6fabcdb557eb5011f8]
 
 *Extent: E+W+S+N.I.*
 
@@ -278,6 +278,6 @@ summary: ''
 
 ## Annotations
 
-[^key-590e29fb91273f36e66f3644b90a33f0]: Commencement: [S. 109](https://www.legislation.gov.uk/ukpga/2023/55/section/109) in force at 26.12.2023 for specified purposes, see [s. 255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a)
+[^c-590e29fb91273f36e66f3644b90a33f0]: Commencement: [S. 109](https://www.legislation.gov.uk/ukpga/2023/55/section/109) in force at 26.12.2023 for specified purposes, see [s. 255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a)
 
-[^key-aa7c86f587704f6fabcdb557eb5011f8]: Commencement: [S. 109](https://www.legislation.gov.uk/ukpga/2023/55/section/109) in force at 1.5.2025 for specified purposes by [S.I. 2025/430](https://www.legislation.gov.uk/uksi/2025/430), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/430/regulation/2/a)
+[^c-aa7c86f587704f6fabcdb557eb5011f8]: Commencement: [S. 109](https://www.legislation.gov.uk/ukpga/2023/55/section/109) in force at 1.5.2025 for specified purposes by [S.I. 2025/430](https://www.legislation.gov.uk/uksi/2025/430), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/430/regulation/2/a)

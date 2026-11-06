@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Schools with pre-1998 arrangements for selection by ability or aptitude[^key-410b298f57fc2e535bee56198db697ee][^key-a196a82bf9c57922878ac7d270cef738]
+## 53. Schools with pre-1998 arrangements for selection by ability or aptitude[^c-410b298f57fc2e535bee56198db697ee][^c-a196a82bf9c57922878ac7d270cef738]
 
 *Extent: E+W*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-410b298f57fc2e535bee56198db697ee]: Commencement: S. 53 in force at 27.2.2007 for E. by [S.I. 2006/3400](https://www.legislation.gov.uk/uksi/2006/3400), [art. 6(e)](https://www.legislation.gov.uk/uksi/2006/3400/article/6/e)
+[^c-410b298f57fc2e535bee56198db697ee]: Commencement: S. 53 in force at 27.2.2007 for E. by [S.I. 2006/3400](https://www.legislation.gov.uk/uksi/2006/3400), [art. 6(e)](https://www.legislation.gov.uk/uksi/2006/3400/article/6/e)
 
-[^key-a196a82bf9c57922878ac7d270cef738]: Commencement: S. 53 in force at 30.6.2008 for W. by [S.I. 2008/1429](https://www.legislation.gov.uk/uksi/2008/1429), [art. 3(1)](https://www.legislation.gov.uk/uksi/2008/1429/article/3/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2008/1429/schedule/part/1)
+[^c-a196a82bf9c57922878ac7d270cef738]: Commencement: S. 53 in force at 30.6.2008 for W. by [S.I. 2008/1429](https://www.legislation.gov.uk/uksi/2008/1429), [art. 3(1)](https://www.legislation.gov.uk/uksi/2008/1429/article/3/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2008/1429/schedule/part/1)

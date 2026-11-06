@@ -23,8 +23,8 @@ summary: ''
 (1) Prescribed schemes shall provide for the following benefits (in this Act referred to as “**income-related benefits**”)—
 
 - (a) income support;
-- (b)[^key-c8efaca0fae395e92ed9bbada118d4eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-c8efaca0fae395e92ed9bbada118d4eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-c8efaca0fae395e92ed9bbada118d4eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-c8efaca0fae395e92ed9bbada118d4eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) housing benefit.
 
 (2)[^c16392381] The Department shall make copies of schemes prescribed under subsection (1)(a), (b) or (c) above available for public inspection at social security offices of the Department at all reasonable hours without payment.
@@ -36,7 +36,7 @@ summary: ''
 
 ## Annotations
 
-[^key-c8efaca0fae395e92ed9bbada118d4eb]: Textual amendment: [S. 122(1)(b)](https://www.legislation.gov.uk/ukpga/1992/7/section/122/1/b)[(c)](https://www.legislation.gov.uk/ukpga/1992/7/section/122/1/c) repealed (8.4.2003) by [Tax Credits Act 2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21), [s. 61](https://www.legislation.gov.uk/ukpga/2002/21/section/61), [Sch. 6](https://www.legislation.gov.uk/ukpga/2002/21/schedule/6); [S.I. 2003/962](https://www.legislation.gov.uk/uksi/2003/962), [art. 2(4)(e)](https://www.legislation.gov.uk/uksi/2003/962/article/2/4/e), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/962/schedule/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/962/article/3))
+[^c-c8efaca0fae395e92ed9bbada118d4eb]: Textual amendment: [S. 122(1)(b)](https://www.legislation.gov.uk/ukpga/1992/7/section/122/1/b)[(c)](https://www.legislation.gov.uk/ukpga/1992/7/section/122/1/c) repealed (8.4.2003) by [Tax Credits Act 2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21), [s. 61](https://www.legislation.gov.uk/ukpga/2002/21/section/61), [Sch. 6](https://www.legislation.gov.uk/ukpga/2002/21/schedule/6); [S.I. 2003/962](https://www.legislation.gov.uk/uksi/2003/962), [art. 2(4)(e)](https://www.legislation.gov.uk/uksi/2003/962/article/2/4/e), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/962/schedule/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/962/article/3))
 
 [^c16392381]: Modification: S. 122(2) modified (5.10.1999) by [1999 c. 10](https://www.legislation.gov.uk/ukpga/1999/10), [ss. 2(4)](https://www.legislation.gov.uk/ukpga/1999/10/section/2/4), [20(2)](https://www.legislation.gov.uk/ukpga/1999/10/section/20/2), [Sch. 2 para. 28](https://www.legislation.gov.uk/ukpga/1999/10/schedule/2/paragraph/28)
 

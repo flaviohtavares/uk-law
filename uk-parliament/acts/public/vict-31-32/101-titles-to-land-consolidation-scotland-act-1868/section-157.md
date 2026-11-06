@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 157. No inhibition to have effect against acquirenda, unless in case of heir under entail or other indefeasible title.[^key-77f00a8a623d7221e44632e9e7451f03]
+## 157. No inhibition to have effect against acquirenda, unless in case of heir under entail or other indefeasible title.[^c-77f00a8a623d7221e44632e9e7451f03]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ No inhibition to be recorded from and after the thirty-first day of December one
 
 ## Annotations
 
-[^key-77f00a8a623d7221e44632e9e7451f03]: Modification: [S. 157](https://www.legislation.gov.uk/ukpga/Vict/31-32/101/section/157) modified (22.4.2009) by [Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3), [ss. 150(3)](https://www.legislation.gov.uk/asp/2007/3/section/150/3), [227(3)](https://www.legislation.gov.uk/asp/2007/3/section/227/3) (with [s. 223](https://www.legislation.gov.uk/asp/2007/3/section/223)); [S.S.I. 2009/67](https://www.legislation.gov.uk/ssi/2009/67), [art. 3(1)(a)](https://www.legislation.gov.uk/ssi/2009/67/article/3/1/a) (with [arts. 4-6](https://www.legislation.gov.uk/ssi/2009/67/article/4)) (as amended (31.1.2011) by S.S.I. 2011/31, art. 5(b))
+[^c-77f00a8a623d7221e44632e9e7451f03]: Modification: [S. 157](https://www.legislation.gov.uk/ukpga/Vict/31-32/101/section/157) modified (22.4.2009) by [Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3), [ss. 150(3)](https://www.legislation.gov.uk/asp/2007/3/section/150/3), [227(3)](https://www.legislation.gov.uk/asp/2007/3/section/227/3) (with [s. 223](https://www.legislation.gov.uk/asp/2007/3/section/223)); [S.S.I. 2009/67](https://www.legislation.gov.uk/ssi/2009/67), [art. 3(1)(a)](https://www.legislation.gov.uk/ssi/2009/67/article/3/1/a) (with [arts. 4-6](https://www.legislation.gov.uk/ssi/2009/67/article/4)) (as amended (31.1.2011) by S.S.I. 2011/31, art. 5(b))

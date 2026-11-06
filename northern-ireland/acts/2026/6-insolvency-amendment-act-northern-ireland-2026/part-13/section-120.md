@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 120. Commencement[^key-3d6614eec1cbb21be8d0f3fb17989318][^key-11cd7e511f0a2609841b33729ef9d510]
+## 120. Commencement[^c-3d6614eec1cbb21be8d0f3fb17989318][^c-11cd7e511f0a2609841b33729ef9d510]
 
 *Extent: N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3d6614eec1cbb21be8d0f3fb17989318]: Commencement: S. 120 in operation at 25.6.2026, see [s. 120(01)](https://www.legislation.gov.uk/nia/2026/6/section/120/01)
+[^c-3d6614eec1cbb21be8d0f3fb17989318]: Commencement: S. 120 in operation at 25.6.2026, see [s. 120(01)](https://www.legislation.gov.uk/nia/2026/6/section/120/01)
 
-[^key-11cd7e511f0a2609841b33729ef9d510]: Commencement: [S. 120](https://www.legislation.gov.uk/nia/2026/6/section/120) in operation at 25.6.2026, see [s. 120(1)](https://www.legislation.gov.uk/nia/2026/6/section/120/1)
+[^c-11cd7e511f0a2609841b33729ef9d510]: Commencement: [S. 120](https://www.legislation.gov.uk/nia/2026/6/section/120) in operation at 25.6.2026, see [s. 120(1)](https://www.legislation.gov.uk/nia/2026/6/section/120/1)

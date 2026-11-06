@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Information for Secretary of State[^key-4db2e6ce951797103bef5cd97825f93a]
+## 54. Information for Secretary of State[^c-4db2e6ce951797103bef5cd97825f93a]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The regulator must provide any information that the Secretary of State requests 
 
 ## Annotations
 
-[^key-4db2e6ce951797103bef5cd97825f93a]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2017/16/section/54) in force at 2.12.2019 by [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/k)
+[^c-4db2e6ce951797103bef5cd97825f93a]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2017/16/section/54) in force at 2.12.2019 by [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/k)

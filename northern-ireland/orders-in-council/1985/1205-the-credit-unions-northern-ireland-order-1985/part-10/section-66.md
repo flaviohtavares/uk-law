@@ -24,14 +24,14 @@ summary: ''
 
 (2) Paragraphs (2) to (5) of Article 65 shall have effect for the purposes of this Article as they have effect for the purposes of that Article.
 
-(3) If a credit union transfers all its engagements under paragraph (1), the registration of that credit union upon the transfer shall become void and, subject to Article 71(2), be cancelled by the FCA[^key-f4c151147b1abd5ca46798bffd6d862b] .
+(3) If a credit union transfers all its engagements under paragraph (1), the registration of that credit union upon the transfer shall become void and, subject to Article 71(2), be cancelled by the FCA[^c-f4c151147b1abd5ca46798bffd6d862b] .
 
-(4)[^key-a41b3afe21f8fcec49087308f1694b38] If the appropriate authority is the FCA, the FCA must not register a special resolution under this Article unless the proposed transfer would not, in its opinion, result in a contravention of the 2000 Act, or any requirement imposed by or under that Act.
+(4)[^c-a41b3afe21f8fcec49087308f1694b38] If the appropriate authority is the FCA, the FCA must not register a special resolution under this Article unless the proposed transfer would not, in its opinion, result in a contravention of the 2000 Act, or any requirement imposed by or under that Act.
 
 (5) If the appropriate authority is the PRA, the FCA must not register a special resolution under this Article unless the PRA, having first consulted the FCA, has confirmed to the FCA that the proposed transfer would not, in its opinion, result in a contravention of the 2000 Act, or any requirement imposed by or under that Act.
 
 ## Annotations
 
-[^key-f4c151147b1abd5ca46798bffd6d862b]: Textual amendment: Word in art. 66(3) substituted (6.4.2018 immediately after 2016 c. 16 (N.I.), s. 8(2) comes into force) by [The Financial Services Act 2012 (Mutual Societies) Order 2018 (S.I. 2018/323)](https://www.legislation.gov.uk/uksi/2018/323), [art. 1](https://www.legislation.gov.uk/uksi/2018/323/article/1), [Sch. 3 para. 2(r)](https://www.legislation.gov.uk/uksi/2018/323/schedule/3/paragraph/2/r) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/323/article/3))
+[^c-f4c151147b1abd5ca46798bffd6d862b]: Textual amendment: Word in art. 66(3) substituted (6.4.2018 immediately after 2016 c. 16 (N.I.), s. 8(2) comes into force) by [The Financial Services Act 2012 (Mutual Societies) Order 2018 (S.I. 2018/323)](https://www.legislation.gov.uk/uksi/2018/323), [art. 1](https://www.legislation.gov.uk/uksi/2018/323/article/1), [Sch. 3 para. 2(r)](https://www.legislation.gov.uk/uksi/2018/323/schedule/3/paragraph/2/r) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/323/article/3))
 
-[^key-a41b3afe21f8fcec49087308f1694b38]: Textual amendment: Art. 66(4)(5) substituted (6.4.2018 immediately after 2016 c. 16 (N.I.), s. 8(2) comes into force) by [The Financial Services Act 2012 (Mutual Societies) Order 2018 (S.I. 2018/323)](https://www.legislation.gov.uk/uksi/2018/323), [art. 1](https://www.legislation.gov.uk/uksi/2018/323/article/1), [Sch. 3 para. 19](https://www.legislation.gov.uk/uksi/2018/323/schedule/3/paragraph/19) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/323/article/3))
+[^c-a41b3afe21f8fcec49087308f1694b38]: Textual amendment: Art. 66(4)(5) substituted (6.4.2018 immediately after 2016 c. 16 (N.I.), s. 8(2) comes into force) by [The Financial Services Act 2012 (Mutual Societies) Order 2018 (S.I. 2018/323)](https://www.legislation.gov.uk/uksi/2018/323), [art. 1](https://www.legislation.gov.uk/uksi/2018/323/article/1), [Sch. 3 para. 19](https://www.legislation.gov.uk/uksi/2018/323/schedule/3/paragraph/19) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/323/article/3))

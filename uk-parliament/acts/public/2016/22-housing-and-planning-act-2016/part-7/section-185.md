@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 185. No general vesting declaration after notice to treat[^key-c48cf2d6a069230ff1dd3c8b6fddd363]
+## 185. No general vesting declaration after notice to treat[^c-c48cf2d6a069230ff1dd3c8b6fddd363]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ In section 4 of the Compulsory Purchase (Vesting Declarations) Act 1981 (executi
 
 ## Annotations
 
-[^key-c48cf2d6a069230ff1dd3c8b6fddd363]: Commencement: [S. 185](https://www.legislation.gov.uk/ukpga/2016/22/section/185) in force at 3.2.2017 by [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2017/75/regulation/3/d) (with [reg. 5](https://www.legislation.gov.uk/uksi/2017/75/regulation/5))
+[^c-c48cf2d6a069230ff1dd3c8b6fddd363]: Commencement: [S. 185](https://www.legislation.gov.uk/ukpga/2016/22/section/185) in force at 3.2.2017 by [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2017/75/regulation/3/d) (with [reg. 5](https://www.legislation.gov.uk/uksi/2017/75/regulation/5))

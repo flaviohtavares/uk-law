@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. Restriction on increase where member is under 55.[^key-8176609e0ef594637316ff7c52160e0a]
+## 106. Restriction on increase where member is under 55.[^c-8176609e0ef594637316ff7c52160e0a]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8176609e0ef594637316ff7c52160e0a]: Textual amendment: Ss. 102-108 repealed (6.4.1997) by [Pensions Act 1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), [s. 180(1)](https://www.legislation.gov.uk/ukpga/1995/26/section/180/1), [Sch. 3 para. 25](https://www.legislation.gov.uk/ukpga/1995/26/schedule/3/paragraph/25), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/1995/26/schedule/7/part/I); [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/II) (with [art. 6](https://www.legislation.gov.uk/uksi/1997/664/article/6))
+[^c-8176609e0ef594637316ff7c52160e0a]: Textual amendment: Ss. 102-108 repealed (6.4.1997) by [Pensions Act 1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), [s. 180(1)](https://www.legislation.gov.uk/ukpga/1995/26/section/180/1), [Sch. 3 para. 25](https://www.legislation.gov.uk/ukpga/1995/26/schedule/3/paragraph/25), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/1995/26/schedule/7/part/I); [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/II) (with [art. 6](https://www.legislation.gov.uk/uksi/1997/664/article/6))

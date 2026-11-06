@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Authority to survey and investigate the land[^key-1b90645a1e11c9e9514c43d75993a7d5]
+## 26. Authority to survey and investigate the land[^c-1b90645a1e11c9e9514c43d75993a7d5]
 
 *Extent: E+W*
 
@@ -37,7 +37,7 @@ summary: ''
 (4) No trial holes are to be made under this article—
 
 - (a) in land located within the highway boundary without the consent of the relevant local highway authority; or
-- (b) in a private street without the consent of the street authority,[^key-6f0af9174204a216f08868bd5079043b]
+- (b) in a private street without the consent of the street authority,[^c-6f0af9174204a216f08868bd5079043b]
 
 but such consent must not be unreasonably withheld.
 
@@ -54,12 +54,12 @@ but such consent must not be unreasonably withheld.
 
 that authority is deemed to have granted consent.
 
-(9) Any application to which this article applies must include a statement that the provisions of paragraph (8)[^key-80d8f8faf5e3b2f9faac0b49c8e5687e] apply to that application.
+(9) Any application to which this article applies must include a statement that the provisions of paragraph (8)[^c-80d8f8faf5e3b2f9faac0b49c8e5687e] apply to that application.
 
 ## Annotations
 
-[^key-1b90645a1e11c9e9514c43d75993a7d5]: Commencement: Art. 26 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
+[^c-1b90645a1e11c9e9514c43d75993a7d5]: Commencement: Art. 26 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
 
-[^key-6f0af9174204a216f08868bd5079043b]: Textual amendment: Word in art. 26(4)(b) substituted (25.4.2025) by [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)
+[^c-6f0af9174204a216f08868bd5079043b]: Textual amendment: Word in art. 26(4)(b) substituted (25.4.2025) by [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)
 
-[^key-80d8f8faf5e3b2f9faac0b49c8e5687e]: Textual amendment: Words in art. 26(9) substituted (25.4.2025) by [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1) Tale
+[^c-80d8f8faf5e3b2f9faac0b49c8e5687e]: Textual amendment: Words in art. 26(9) substituted (25.4.2025) by [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1) Tale

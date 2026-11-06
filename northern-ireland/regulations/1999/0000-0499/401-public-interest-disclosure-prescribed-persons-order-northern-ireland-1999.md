@@ -40,11 +40,11 @@ Coming into operation
 
 The Department of Economic Development, in exercise of the powers conferred on it by Article 67F of the Employment Rights (Northern Ireland) Order 1996[^f00001] and of every other power enabling it in that behalf, hereby makes the following Order:
 
-## 1. Citation and commencement[^key-18a2d6247877fec72c5d0ca3cbfa7c7a]
+## 1. Citation and commencement[^c-18a2d6247877fec72c5d0ca3cbfa7c7a]
 
 This Order may be cited as the Public Interest Disclosure (Prescribed Persons) Order (Northern Ireland) 1999 and shall come into operation on 31st October 1999.
 
-## 2. Prescribed persons[^key-a2cf1eb2853804b3f0561880716aef84]
+## 2. Prescribed persons[^c-a2cf1eb2853804b3f0561880716aef84]
 
 (1) The persons and descriptions of persons prescribed for the purposes of Article 67F of the Employment Rights (Northern Ireland) Order 1996 are the persons and descriptions of persons specified in the first column of the Schedule.
 
@@ -56,7 +56,7 @@ R. B. Gamble
 
 Assistant Secretary
 
-## SCHEDULE[^key-5eae054faf0ecff1d33a6cc2e73c38bb]
+## SCHEDULE[^c-5eae054faf0ecff1d33a6cc2e73c38bb]
 
 Article 2
 
@@ -182,7 +182,7 @@ Article 2
 </tbody>
 </table>
 
-[^f01000][^f01001][^f01002][^f01003][^f01004][^f01005][^key-14709e7a756ef7ec626e603fc223993c][^f01006][^f01007][^f01008][^f01009][^f01010][^f01011][^f01012][^f01013][^f01014][^f01015][^f01016][^f01017][^key-c0f41a3b77a41353ed9bc2fcba5a7a90][^key-c19436792973bcd095aebf445c71a394][^key-d08bf5a525a19f8d406d9beb554042b1][^key-4b81b2a23cbf5fde07288bc8d86f9bb3][^f01019][^f01020][^f01021][^f01022][^f01023][^f01024][^f01025][^f01026][^f01027][^key-3ae5b3db810385651f93bb60b6802ece][^f01029][^f01030][^f01031][^f01032][^f01033][^f01034][^f01035][^f01036][^f01037][^f01038][^f01039][^f01040][^key-73ce4e0431ae058139ab0394bdc132b0][^f01041][^key-4f82f3d4d3ca70db9f8770b46aeb9fb9][^key-9fe1f91de1d6f85d3c9f9d1a6729515b][^key-92a57a7259ee5ffaded908d184e56b9b][^f01042][^f01043][^f01044][^f01045][^f01046][^f01047][^f01048][^key-1de72661aa0261c3a5748662b8a2d8ea][^key-f0ca1556f47fbb644ffaa8908971230a][^f01050][^f01051][^f01052][^f01053][^f01054][^f01055][^f01056][^f01057][^f01058][^f01059][^f01060][^f01061][^f01062][^key-7e77fae6e2b410169657ec101da21d8b]
+[^f01000][^f01001][^f01002][^f01003][^f01004][^f01005][^c-14709e7a756ef7ec626e603fc223993c][^f01006][^f01007][^f01008][^f01009][^f01010][^f01011][^f01012][^f01013][^f01014][^f01015][^f01016][^f01017][^c-c0f41a3b77a41353ed9bc2fcba5a7a90][^c-c19436792973bcd095aebf445c71a394][^c-d08bf5a525a19f8d406d9beb554042b1][^c-4b81b2a23cbf5fde07288bc8d86f9bb3][^f01019][^f01020][^f01021][^f01022][^f01023][^f01024][^f01025][^f01026][^f01027][^c-3ae5b3db810385651f93bb60b6802ece][^f01029][^f01030][^f01031][^f01032][^f01033][^f01034][^f01035][^f01036][^f01037][^f01038][^f01039][^f01040][^c-73ce4e0431ae058139ab0394bdc132b0][^f01041][^c-4f82f3d4d3ca70db9f8770b46aeb9fb9][^c-9fe1f91de1d6f85d3c9f9d1a6729515b][^c-92a57a7259ee5ffaded908d184e56b9b][^f01042][^f01043][^f01044][^f01045][^f01046][^f01047][^f01048][^c-1de72661aa0261c3a5748662b8a2d8ea][^c-f0ca1556f47fbb644ffaa8908971230a][^f01050][^f01051][^f01052][^f01053][^f01054][^f01055][^f01056][^f01057][^f01058][^f01059][^f01060][^f01061][^f01062][^c-7e77fae6e2b410169657ec101da21d8b]
 
 (This note is not part of the Order.)
 
@@ -196,13 +196,13 @@ The broad effect of the Order, taken with Article 67F, is that a worker potentia
 
 [^f00001]: Footnote: [S.I. 1996/1919 (N.I. 16)](https://www.legislation.gov.uk/nisi/1996/1919); Article 67F of the Employment Rights (Northern Ireland) Order 1996 was inserted by Article 3 of the Public Interest Disclosure (Northern Ireland) Order 1998, ([S.I. 1998/1763 (N.I. 17)](https://www.legislation.gov.uk/nisi/1998/1763))
 
-[^key-18a2d6247877fec72c5d0ca3cbfa7c7a]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/1999/401/article/1) in operation at 31.10.1999, see [art. 1](https://www.legislation.gov.uk/nisr/1999/401/article/1)
+[^c-18a2d6247877fec72c5d0ca3cbfa7c7a]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/1999/401/article/1) in operation at 31.10.1999, see [art. 1](https://www.legislation.gov.uk/nisr/1999/401/article/1)
 
-[^key-a2cf1eb2853804b3f0561880716aef84]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/1999/401/article/2) in operation at 31.10.1999, see [art. 1](https://www.legislation.gov.uk/nisr/1999/401/article/1)
+[^c-a2cf1eb2853804b3f0561880716aef84]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/1999/401/article/2) in operation at 31.10.1999, see [art. 1](https://www.legislation.gov.uk/nisr/1999/401/article/1)
 
-[^key-5eae054faf0ecff1d33a6cc2e73c38bb]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/1999/401/schedule) substituted (23.3.2022) by [The Public Interest Disclosure (Prescribed Persons) (Amendment) Order (Northern Ireland) 2022 (S.R. 2022/72)](https://www.legislation.gov.uk/nisr/2022/72), [art. 1](https://www.legislation.gov.uk/nisr/2022/72/article/1), [Sch.](https://www.legislation.gov.uk/nisr/2022/72/schedule)
+[^c-5eae054faf0ecff1d33a6cc2e73c38bb]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/1999/401/schedule) substituted (23.3.2022) by [The Public Interest Disclosure (Prescribed Persons) (Amendment) Order (Northern Ireland) 2022 (S.R. 2022/72)](https://www.legislation.gov.uk/nisr/2022/72), [art. 1](https://www.legislation.gov.uk/nisr/2022/72/article/1), [Sch.](https://www.legislation.gov.uk/nisr/2022/72/schedule)
 
-[^f01000]: Footnote: (1)[^key-5eae054faf0ecff1d33a6cc2e73c38bb]
+[^f01000]: Footnote: (1)[^c-5eae054faf0ecff1d33a6cc2e73c38bb]
 
     The Certification Officer for Northern Ireland was established by Article 69 of the Industrial Relations (Northern Ireland) Order 1992 ([S.I. 1992/807 (N.I. 5)](https://www.legislation.gov.uk/uksi/1992/807)).
 
@@ -226,7 +226,7 @@ The broad effect of the Order, taken with Article 67F, is that a worker potentia
 
     The Competition and Markets Authority was established by section 25 of the Enterprise and Regulatory Reform Act [2013 (c.24)](https://www.legislation.gov.uk/ukpga/2013/24).
 
-[^key-14709e7a756ef7ec626e603fc223993c]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/1999/401/schedule) inserted (12.2.2025) by [The Public Interest Disclosure (Prescribed Persons) (Amendment) Order (Northern Ireland) 2025 (S.R. 2025/13)](https://www.legislation.gov.uk/nisr/2025/13), [arts. 1](https://www.legislation.gov.uk/nisr/2025/13/article/1), [2(2)](https://www.legislation.gov.uk/nisr/2025/13/article/2/2)
+[^c-14709e7a756ef7ec626e603fc223993c]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/1999/401/schedule) inserted (12.2.2025) by [The Public Interest Disclosure (Prescribed Persons) (Amendment) Order (Northern Ireland) 2025 (S.R. 2025/13)](https://www.legislation.gov.uk/nisr/2025/13), [arts. 1](https://www.legislation.gov.uk/nisr/2025/13/article/1), [2(2)](https://www.legislation.gov.uk/nisr/2025/13/article/2/2)
 
 [^f01006]: Footnote: (7)
 
@@ -276,13 +276,13 @@ The broad effect of the Order, taken with Article 67F, is that a worker potentia
 
     The Financial Services and Markets Act [2000 (c.8)](https://www.legislation.gov.uk/ukpga/2000/8) established the Financial Services Authority which was renamed the Financial Conduct Authority by section 6 of the Financial Services Act [2012 (c.21)](https://www.legislation.gov.uk/ukpga/2012/21).
 
-[^key-c0f41a3b77a41353ed9bc2fcba5a7a90]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/1999/401/schedule) substituted (18.11.2022) by [The Public Interest Disclosure (Prescribed Persons) (Amendment No.2) Order (Northern Ireland) 2022 (S.R. 2022/290)](https://www.legislation.gov.uk/nisr/2022/290), [arts. 1](https://www.legislation.gov.uk/nisr/2022/290/article/1), [2(2)](https://www.legislation.gov.uk/nisr/2022/290/article/2/2)
+[^c-c0f41a3b77a41353ed9bc2fcba5a7a90]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/1999/401/schedule) substituted (18.11.2022) by [The Public Interest Disclosure (Prescribed Persons) (Amendment No.2) Order (Northern Ireland) 2022 (S.R. 2022/290)](https://www.legislation.gov.uk/nisr/2022/290), [arts. 1](https://www.legislation.gov.uk/nisr/2022/290/article/1), [2(2)](https://www.legislation.gov.uk/nisr/2022/290/article/2/2)
 
-[^key-c19436792973bcd095aebf445c71a394]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/1999/401/schedule) substituted (5.4.2024) by [The Data Reporting Services Regulations 2024 (S.I. 2024/107)](https://www.legislation.gov.uk/uksi/2024/107), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2), [35](https://www.legislation.gov.uk/uksi/2024/107/regulation/35); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/4/c)
+[^c-c19436792973bcd095aebf445c71a394]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/1999/401/schedule) substituted (5.4.2024) by [The Data Reporting Services Regulations 2024 (S.I. 2024/107)](https://www.legislation.gov.uk/uksi/2024/107), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2), [35](https://www.legislation.gov.uk/uksi/2024/107/regulation/35); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/4/c)
 
-[^key-d08bf5a525a19f8d406d9beb554042b1]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/1999/401/schedule) substituted (1.11.2024) by [The Securitisation (Amendment) Regulations 2024 (S.I. 2024/705)](https://www.legislation.gov.uk/uksi/2024/705), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/705/regulation/1/3), [Sch. 2 para. 2(a)](https://www.legislation.gov.uk/uksi/2024/705/schedule/2/paragraph/2/a)
+[^c-d08bf5a525a19f8d406d9beb554042b1]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/1999/401/schedule) substituted (1.11.2024) by [The Securitisation (Amendment) Regulations 2024 (S.I. 2024/705)](https://www.legislation.gov.uk/uksi/2024/705), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/705/regulation/1/3), [Sch. 2 para. 2(a)](https://www.legislation.gov.uk/uksi/2024/705/schedule/2/paragraph/2/a)
 
-[^key-4b81b2a23cbf5fde07288bc8d86f9bb3]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/1999/401/schedule) omitted (1.11.2024) by virtue of [The Securitisation (Amendment) Regulations 2024 (S.I. 2024/705)](https://www.legislation.gov.uk/uksi/2024/705), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/705/regulation/1/3), [Sch. 2 para. 2(b)](https://www.legislation.gov.uk/uksi/2024/705/schedule/2/paragraph/2/b)
+[^c-4b81b2a23cbf5fde07288bc8d86f9bb3]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/1999/401/schedule) omitted (1.11.2024) by virtue of [The Securitisation (Amendment) Regulations 2024 (S.I. 2024/705)](https://www.legislation.gov.uk/uksi/2024/705), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/705/regulation/1/3), [Sch. 2 para. 2(b)](https://www.legislation.gov.uk/uksi/2024/705/schedule/2/paragraph/2/b)
 
 [^f01019]: Footnote: (20)
 
@@ -320,7 +320,7 @@ The broad effect of the Order, taken with Article 67F, is that a worker potentia
 
     The Northern Ireland Health and Personal Social Services Regulation and Improvement Authority was established by Article 3 of the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003 ([S.I. 2003/431 (N.I. 9)](https://www.legislation.gov.uk/nisi/2003/431)) and was renamed the Health and Social Care Regulation and Quality Improvement Authority by the Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c.5 (N.I.)).
 
-[^key-3ae5b3db810385651f93bb60b6802ece]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/1999/401/schedule) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 37](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/37); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-3ae5b3db810385651f93bb60b6802ece]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/1999/401/schedule) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 37](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/37); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
 
 [^f01029]: Footnote: (30)
 
@@ -370,17 +370,17 @@ The broad effect of the Order, taken with Article 67F, is that a worker potentia
 
     The Nursing and Midwifery Council was established by Article 3 of the Nursing and Midwifery Order 2001 ([S.I. 2002/253](https://www.legislation.gov.uk/uksi/2002/253)).
 
-[^key-73ce4e0431ae058139ab0394bdc132b0]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/1999/401/schedule) inserted (18.11.2022) by [The Public Interest Disclosure (Prescribed Persons) (Amendment No.2) Order (Northern Ireland) 2022 (S.R. 2022/290)](https://www.legislation.gov.uk/nisr/2022/290), [arts. 1](https://www.legislation.gov.uk/nisr/2022/290/article/1), [2(3)](https://www.legislation.gov.uk/nisr/2022/290/article/2/3)
+[^c-73ce4e0431ae058139ab0394bdc132b0]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/1999/401/schedule) inserted (18.11.2022) by [The Public Interest Disclosure (Prescribed Persons) (Amendment No.2) Order (Northern Ireland) 2022 (S.R. 2022/290)](https://www.legislation.gov.uk/nisr/2022/290), [arts. 1](https://www.legislation.gov.uk/nisr/2022/290/article/1), [2(3)](https://www.legislation.gov.uk/nisr/2022/290/article/2/3)
 
 [^f01041]: Footnote: (42)
 
     The Office of Communications was established by section 1 of the Office of Communications Act [2002 (c.11)](https://www.legislation.gov.uk/ukpga/2002/11).
 
-[^key-4f82f3d4d3ca70db9f8770b46aeb9fb9]: Textual amendment: Word in [Sch.](https://www.legislation.gov.uk/nisr/1999/401/schedule) omitted (12.2.2025) by virtue of [The Public Interest Disclosure (Prescribed Persons) (Amendment) Order (Northern Ireland) 2025 (S.R. 2025/13)](https://www.legislation.gov.uk/nisr/2025/13), [arts. 1](https://www.legislation.gov.uk/nisr/2025/13/article/1), [2(3)(a)](https://www.legislation.gov.uk/nisr/2025/13/article/2/3/a)
+[^c-4f82f3d4d3ca70db9f8770b46aeb9fb9]: Textual amendment: Word in [Sch.](https://www.legislation.gov.uk/nisr/1999/401/schedule) omitted (12.2.2025) by virtue of [The Public Interest Disclosure (Prescribed Persons) (Amendment) Order (Northern Ireland) 2025 (S.R. 2025/13)](https://www.legislation.gov.uk/nisr/2025/13), [arts. 1](https://www.legislation.gov.uk/nisr/2025/13/article/1), [2(3)(a)](https://www.legislation.gov.uk/nisr/2025/13/article/2/3/a)
 
-[^key-9fe1f91de1d6f85d3c9f9d1a6729515b]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/1999/401/schedule): semicolon substituted for full stop (12.2.2025) by [The Public Interest Disclosure (Prescribed Persons) (Amendment) Order (Northern Ireland) 2025 (S.R. 2025/13)](https://www.legislation.gov.uk/nisr/2025/13), [arts. 1](https://www.legislation.gov.uk/nisr/2025/13/article/1), [2(3)(b)](https://www.legislation.gov.uk/nisr/2025/13/article/2/3/b)
+[^c-9fe1f91de1d6f85d3c9f9d1a6729515b]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/1999/401/schedule): semicolon substituted for full stop (12.2.2025) by [The Public Interest Disclosure (Prescribed Persons) (Amendment) Order (Northern Ireland) 2025 (S.R. 2025/13)](https://www.legislation.gov.uk/nisr/2025/13), [arts. 1](https://www.legislation.gov.uk/nisr/2025/13/article/1), [2(3)(b)](https://www.legislation.gov.uk/nisr/2025/13/article/2/3/b)
 
-[^key-92a57a7259ee5ffaded908d184e56b9b]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/1999/401/schedule) inserted (12.2.2025) by [The Public Interest Disclosure (Prescribed Persons) (Amendment) Order (Northern Ireland) 2025 (S.R. 2025/13)](https://www.legislation.gov.uk/nisr/2025/13), [arts. 1](https://www.legislation.gov.uk/nisr/2025/13/article/1), [2(3)(c)](https://www.legislation.gov.uk/nisr/2025/13/article/2/3/c)
+[^c-92a57a7259ee5ffaded908d184e56b9b]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/1999/401/schedule) inserted (12.2.2025) by [The Public Interest Disclosure (Prescribed Persons) (Amendment) Order (Northern Ireland) 2025 (S.R. 2025/13)](https://www.legislation.gov.uk/nisr/2025/13), [arts. 1](https://www.legislation.gov.uk/nisr/2025/13/article/1), [2(3)(c)](https://www.legislation.gov.uk/nisr/2025/13/article/2/3/c)
 
 [^f01042]: Footnote: (43)
 
@@ -410,9 +410,9 @@ The broad effect of the Order, taken with Article 67F, is that a worker potentia
 
     The Prudential Regulation Authority Limited was renamed as the Prudential Regulation Authority by section 6 of the Financial Services Act [2012 (c.21)](https://www.legislation.gov.uk/ukpga/2012/21), which amended the Financial Services and Markets Act [2000 (c.8)](https://www.legislation.gov.uk/ukpga/2000/8).
 
-[^key-1de72661aa0261c3a5748662b8a2d8ea]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/1999/401/schedule) substituted (4.9.2025) by [The Public Interest Disclosure (Prescribed Persons) (Amendment No.2) Order (Northern Ireland) 2025 (S.R. 2025/140)](https://www.legislation.gov.uk/nisr/2025/140), [arts. 1](https://www.legislation.gov.uk/nisr/2025/140/article/1), [2(2)](https://www.legislation.gov.uk/nisr/2025/140/article/2/2)
+[^c-1de72661aa0261c3a5748662b8a2d8ea]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/1999/401/schedule) substituted (4.9.2025) by [The Public Interest Disclosure (Prescribed Persons) (Amendment No.2) Order (Northern Ireland) 2025 (S.R. 2025/140)](https://www.legislation.gov.uk/nisr/2025/140), [arts. 1](https://www.legislation.gov.uk/nisr/2025/140/article/1), [2(2)](https://www.legislation.gov.uk/nisr/2025/140/article/2/2)
 
-[^key-f0ca1556f47fbb644ffaa8908971230a]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/1999/401/schedule) substituted (4.9.2025) by [The Public Interest Disclosure (Prescribed Persons) (Amendment No.2) Order (Northern Ireland) 2025 (S.R. 2025/140)](https://www.legislation.gov.uk/nisr/2025/140), [arts. 1](https://www.legislation.gov.uk/nisr/2025/140/article/1), [2(3)](https://www.legislation.gov.uk/nisr/2025/140/article/2/3)
+[^c-f0ca1556f47fbb644ffaa8908971230a]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/1999/401/schedule) substituted (4.9.2025) by [The Public Interest Disclosure (Prescribed Persons) (Amendment No.2) Order (Northern Ireland) 2025 (S.R. 2025/140)](https://www.legislation.gov.uk/nisr/2025/140), [arts. 1](https://www.legislation.gov.uk/nisr/2025/140/article/1), [2(3)](https://www.legislation.gov.uk/nisr/2025/140/article/2/3)
 
 [^f01050]: Footnote: (51)
 
@@ -466,4 +466,4 @@ The broad effect of the Order, taken with Article 67F, is that a worker potentia
 
     The NSPCC is incorporated by Royal Charter. It is a registered charity in England and Wales with the charity number 216401, in Scotland with the charity number SCO37717 and in Jersey with the charity number 384. The NSPCC has powers under the Children (Northern Ireland) Order 1995 ([S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755)) to protect children in Northern Ireland.<sup></sup>
 
-[^key-7e77fae6e2b410169657ec101da21d8b]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/1999/401/schedule) inserted (4.9.2025) by [The Public Interest Disclosure (Prescribed Persons) (Amendment No.2) Order (Northern Ireland) 2025 (S.R. 2025/140)](https://www.legislation.gov.uk/nisr/2025/140), [arts. 1](https://www.legislation.gov.uk/nisr/2025/140/article/1), [2(4)](https://www.legislation.gov.uk/nisr/2025/140/article/2/4)
+[^c-7e77fae6e2b410169657ec101da21d8b]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/1999/401/schedule) inserted (4.9.2025) by [The Public Interest Disclosure (Prescribed Persons) (Amendment No.2) Order (Northern Ireland) 2025 (S.R. 2025/140)](https://www.legislation.gov.uk/nisr/2025/140), [arts. 1](https://www.legislation.gov.uk/nisr/2025/140/article/1), [2(4)](https://www.legislation.gov.uk/nisr/2025/140/article/2/4)

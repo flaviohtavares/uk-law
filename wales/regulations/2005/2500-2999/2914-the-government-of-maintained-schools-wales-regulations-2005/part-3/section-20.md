@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Maintained primary schools[^key-2db604a1680993f86daf6a3e97bafead]
+## 20. Maintained primary schools[^c-2db604a1680993f86daf6a3e97bafead]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ which serves an area for which there are one or more community councils.
 
 ## Annotations
 
-[^key-2db604a1680993f86daf6a3e97bafead]: Commencement: Reg. 20 in force at 31.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/1/1)
+[^c-2db604a1680993f86daf6a3e97bafead]: Commencement: Reg. 20 in force at 31.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/1/1)

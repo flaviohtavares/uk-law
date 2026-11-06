@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(A1)[^key-123e200713041fb056f8416236b3939f] In this section, references to the Boards do not include the British Waterways Board.
+(A1)[^c-123e200713041fb056f8416236b3939f] In this section, references to the Boards do not include the British Waterways Board.
 
 (1) The Minister may make orders—
 
@@ -66,12 +66,12 @@ and may amend or repeal any such enactment or instrument as is mentioned in para
 
 - (a) Orders under this section shall be so framed as to secure that no person other than the Boards, the Holding Company and any subsidiary of any Board, or of the Holding Company, is placed in any worse position by reason of the order.
 - (b) An order shall not be invalid by reason that in fact it does not have the result of securing that all such persons are not placed in any worse position by reason of the provisions of the order, but if the Minister is satisfied or it is determined as hereinafter mentioned that any such order has failed to secure that result, the Minister shall as soon as may be make the necessary amending order.
-- (c) Any dispute arising between the Minister and any person as to whether or not the said result has been secured by any order under this section shall be referred to a referee or board of referees appointed by the Minister of Labour after consultation with the Lord Chancellor and the Lord Chief Justice of England and Wales[^key-a39166c048d459315db1d0e5d957b67a], or, where the proceedings are to be held in Scotland, after consultation with the Secretary of State, for his or their determination thereof.
+- (c) Any dispute arising between the Minister and any person as to whether or not the said result has been secured by any order under this section shall be referred to a referee or board of referees appointed by the Minister of Labour after consultation with the Lord Chancellor and the Lord Chief Justice of England and Wales[^c-a39166c048d459315db1d0e5d957b67a], or, where the proceedings are to be held in Scotland, after consultation with the Secretary of State, for his or their determination thereof.
 - (d) The Minister of Labour may, with the consent of the Treasury, pay out of money provided by Parliament—
   - (i) to any referee or to the members of any board of referees appointed under this subsection such fees and allowances as he may with the consent of the Treasury determine, and
   - (ii) to persons giving evidence before any such referees or board such allowances as he may with the consent of the Treasury determine.
 - (e) For the purposes of this subsection no person shall be regarded as being placed in a worse position because an order provides that any changes in a pension scheme are not to be effected without the consent of the Minister.
-- (f) Nothing in any of sections 1 to 15 of and schedule 1 to the Arbitration (Scotland) Act 2010 or *(Extent: S)*[^key-e7cb1e0b0cdfb5f9829a0707607b90b4] Part I of the Arbitration Act 1996[^c4800961], shall be construed as applying to any proceedings before a referee or board of referees appointed under this section.
+- (f) Nothing in any of sections 1 to 15 of and schedule 1 to the Arbitration (Scotland) Act 2010 or *(Extent: S)*[^c-e7cb1e0b0cdfb5f9829a0707607b90b4] Part I of the Arbitration Act 1996[^c4800961], shall be construed as applying to any proceedings before a referee or board of referees appointed under this section.
 
 (7) An order under this section may be made so as to have effect from a date prior to the making of the order, so, however, that so much of any order as provides that any provision thereof is to have effect from a date prior to the making of the order shall not place any person other than the Boards, the Holding Company or any subsidiary of any Board, or of the Holding Company, in a worse position than he would have been in if the order had been made to have effect only from the date of its making.
 
@@ -79,7 +79,7 @@ and may amend or repeal any such enactment or instrument as is mentioned in para
 
 (9) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c4800971] an order under this section shall have effect notwithstanding anything in regulations made under the said Act before the order was made.
 
-(10)[^key-959e244d0105272145a681720057f787] The Lord Chief Justice may nominate a judicial office holder (as defined in section 109(4) of the Constitutional Reform Act 2005) to exercise his functions under this section.
+(10)[^c-959e244d0105272145a681720057f787] The Lord Chief Justice may nominate a judicial office holder (as defined in section 109(4) of the Constitutional Reform Act 2005) to exercise his functions under this section.
 
 ## Annotations
 
@@ -91,7 +91,7 @@ and may amend or repeal any such enactment or instrument as is mentioned in para
 
 [^c4800851]: Modification: S. 74 extended by [Transport Act 1968 (c. 73)](https://www.legislation.gov.uk/ukpga/1968/73), [s. 136](https://www.legislation.gov.uk/ukpga/1968/73/section/136) and [Transport Act 1980 (c. 34)](https://www.legislation.gov.uk/ukpga/1980/34), [s. 45](https://www.legislation.gov.uk/ukpga/1980/34/section/45), [Sch. 6 para. 7](https://www.legislation.gov.uk/ukpga/1980/34/schedule/6/paragraph/7)
 
-[^key-123e200713041fb056f8416236b3939f]: Textual amendment: [S. 74(A1)](https://www.legislation.gov.uk/ukpga/Eliz2/10-11/46/section/74/A1) inserted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 2 para. 25](https://www.legislation.gov.uk/uksi/2012/1659/schedule/2/paragraph/25) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
+[^c-123e200713041fb056f8416236b3939f]: Textual amendment: [S. 74(A1)](https://www.legislation.gov.uk/ukpga/Eliz2/10-11/46/section/74/A1) inserted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 2 para. 25](https://www.legislation.gov.uk/uksi/2012/1659/schedule/2/paragraph/25) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
 
 [^c4800891]: Marginal citation: [1947 c. 49](https://www.legislation.gov.uk/ukpga/1947/49).
 
@@ -107,12 +107,12 @@ and may amend or repeal any such enactment or instrument as is mentioned in para
 
 [^c4800951]: Modification: S. 74(6) amended by [Employment Protection (Consolidation) Act 1978 (c. 44)](https://www.legislation.gov.uk/ukpga/1978/44), [s. 130](https://www.legislation.gov.uk/ukpga/1978/44/section/130), [Sch. 10 para. 21](https://www.legislation.gov.uk/ukpga/1978/44/schedule/10/paragraph/21)
 
-[^key-a39166c048d459315db1d0e5d957b67a]: Textual amendment: Words in s. 74(6)(c) inserted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 4 para. 54(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/54/2); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 11(e)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/e)
+[^c-a39166c048d459315db1d0e5d957b67a]: Textual amendment: Words in s. 74(6)(c) inserted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 4 para. 54(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/54/2); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 11(e)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/e)
 
-[^key-e7cb1e0b0cdfb5f9829a0707607b90b4]: Textual amendment: Words in s. 74(6)(f) inserted (S.) (5.6.2010) by [Arbitration (Scotland) Act 2010 (Consequential Amendments) Order 2010 (S.S.I. 2010/220)](https://www.legislation.gov.uk/ssi/2010/220), [art. 1](https://www.legislation.gov.uk/ssi/2010/220/article/1), [Sch. para. 4(2)](https://www.legislation.gov.uk/ssi/2010/220/schedule/paragraph/4/2)
+[^c-e7cb1e0b0cdfb5f9829a0707607b90b4]: Textual amendment: Words in s. 74(6)(f) inserted (S.) (5.6.2010) by [Arbitration (Scotland) Act 2010 (Consequential Amendments) Order 2010 (S.S.I. 2010/220)](https://www.legislation.gov.uk/ssi/2010/220), [art. 1](https://www.legislation.gov.uk/ssi/2010/220/article/1), [Sch. para. 4(2)](https://www.legislation.gov.uk/ssi/2010/220/schedule/paragraph/4/2)
 
 [^c4800961]: Textual amendment: Words in s. 74(6)(f) substituted (31.1.1997) by [1996 c. 23](https://www.legislation.gov.uk/ukpga/1996/23), [s. 107(1)](https://www.legislation.gov.uk/ukpga/1996/23/section/107/1), [Sch. 3 para. 16(2)](https://www.legislation.gov.uk/ukpga/1996/23/schedule/3/paragraph/16/2) (with [s. 81(2)](https://www.legislation.gov.uk/ukpga/1996/23/section/81/2)); [S.I. 1996/3146](https://www.legislation.gov.uk/uksi/1996/3146), [art. 3](https://www.legislation.gov.uk/uksi/1996/3146/article/3) (subject to transitional provisions in [Sch. 2](https://www.legislation.gov.uk/uksi/1996/3146/schedule/2), [art. 4](https://www.legislation.gov.uk/uksi/1996/3146/article/4)).
 
 [^c4800971]: Textual amendment: Words repealed by [Statute Law Revision (Consequential Repeals) Act 1965 (c. 55)](https://www.legislation.gov.uk/ukpga/1965/55)
 
-[^key-959e244d0105272145a681720057f787]: Textual amendment: S. 74(10) inserted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 4 para. 54(3)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/54/3); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 11(e)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/e)
+[^c-959e244d0105272145a681720057f787]: Textual amendment: S. 74(10) inserted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 4 para. 54(3)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/54/3); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 11(e)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/e)

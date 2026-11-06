@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97.[^key-d09d2f67619591887e7ab9d10b052d1c]
+## 97.[^c-d09d2f67619591887e7ab9d10b052d1c]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In Article 23 (powers of competent authorities), for paragraph 1 substitute—
 
 ## Annotations
 
-[^key-d09d2f67619591887e7ab9d10b052d1c]: Commencement: Reg. 97 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+[^c-d09d2f67619591887e7ab9d10b052d1c]: Commencement: Reg. 97 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)

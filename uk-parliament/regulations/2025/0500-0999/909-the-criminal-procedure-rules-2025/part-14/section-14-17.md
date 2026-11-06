@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14.17. Arrangements for court to receive defendant arrested for breach of bail[^key-52083eea5e7783fd67fdf55b2f2b725f]
+## 14.17. Arrangements for court to receive defendant arrested for breach of bail[^c-52083eea5e7783fd67fdf55b2f2b725f]
 
 *Extent: E+W*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-52083eea5e7783fd67fdf55b2f2b725f]: Commencement: [Rule 14.17](https://www.legislation.gov.uk/uksi/2025/909/rule/14.17) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-52083eea5e7783fd67fdf55b2f2b725f]: Commencement: [Rule 14.17](https://www.legislation.gov.uk/uksi/2025/909/rule/14.17) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

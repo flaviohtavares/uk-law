@@ -32,7 +32,7 @@ summary: ''
 
 United Nations
 
-The North Korea (United Nations Measures) (Overseas Territories) (Amendment) Order 2009 (revoked)[^key-5ee0f947645fa207776ca320b523158f]
+The North Korea (United Nations Measures) (Overseas Territories) (Amendment) Order 2009 (revoked)[^c-5ee0f947645fa207776ca320b523158f]
 
 Made
 
@@ -52,32 +52,32 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-5ee0f947645fa207776ca320b523158f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5ee0f947645fa207776ca320b523158f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-5ee0f947645fa207776ca320b523158f]
+## 1. Citation and commencement[^c-5ee0f947645fa207776ca320b523158f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the principal Order[^key-5ee0f947645fa207776ca320b523158f]
+## 2. Amendment of the principal Order[^c-5ee0f947645fa207776ca320b523158f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-5ee0f947645fa207776ca320b523158f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-5ee0f947645fa207776ca320b523158f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-5ee0f947645fa207776ca320b523158f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-5ee0f947645fa207776ca320b523158f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-5ee0f947645fa207776ca320b523158f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-5ee0f947645fa207776ca320b523158f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-5ee0f947645fa207776ca320b523158f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-5ee0f947645fa207776ca320b523158f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5ee0f947645fa207776ca320b523158f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5ee0f947645fa207776ca320b523158f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-5ee0f947645fa207776ca320b523158f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5ee0f947645fa207776ca320b523158f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5ee0f947645fa207776ca320b523158f]: Textual amendment: Order revoked (31.12.2020) by [The United Nations Sanctions (Revocations) Order 2020 (S.I. 2020/1585)](https://www.legislation.gov.uk/uksi/2020/1585), [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2020/1585/article/1/1/a), [Sch. 4](https://www.legislation.gov.uk/uksi/2020/1585/schedule/4)
+[^c-5ee0f947645fa207776ca320b523158f]: Textual amendment: Order revoked (31.12.2020) by [The United Nations Sanctions (Revocations) Order 2020 (S.I. 2020/1585)](https://www.legislation.gov.uk/uksi/2020/1585), [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2020/1585/article/1/1/a), [Sch. 4](https://www.legislation.gov.uk/uksi/2020/1585/schedule/4)

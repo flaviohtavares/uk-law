@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 302. Application to the territorial sea of requirement for nuclear site licence[^key-f75663a1a93455cf020c90d8abd5bb3b][^key-70c5f845fc26b7a331dd5b4333e0e1cb]
+## 302. Application to the territorial sea of requirement for nuclear site licence[^c-f75663a1a93455cf020c90d8abd5bb3b][^c-70c5f845fc26b7a331dd5b4333e0e1cb]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f75663a1a93455cf020c90d8abd5bb3b]: Commencement: S. 302 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-f75663a1a93455cf020c90d8abd5bb3b]: Commencement: S. 302 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-70c5f845fc26b7a331dd5b4333e0e1cb]: Commencement: [S. 302](https://www.legislation.gov.uk/ukpga/2023/52/section/302) in force at 10.9.2024 by [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/d)
+[^c-70c5f845fc26b7a331dd5b4333e0e1cb]: Commencement: [S. 302](https://www.legislation.gov.uk/ukpga/2023/52/section/302) in force at 10.9.2024 by [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/d)

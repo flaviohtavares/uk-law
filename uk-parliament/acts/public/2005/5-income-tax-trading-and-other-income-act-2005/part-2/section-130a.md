@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 130A. Chapter not to apply where cash basis used[^key-4e03294d44fef5b8f91596c9fadc9134]
+## 130A. Chapter not to apply where cash basis used[^c-4e03294d44fef5b8f91596c9fadc9134]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Nothing in this Chapter applies in calculating the profits of a trade on the cas
 
 ## Annotations
 
-[^key-4e03294d44fef5b8f91596c9fadc9134]: Textual amendment: S. 130A inserted (with effect in accordance with Sch. 4 paras. 56, 57 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 4 para. 25](https://www.legislation.gov.uk/ukpga/2013/29/schedule/4/paragraph/25)
+[^c-4e03294d44fef5b8f91596c9fadc9134]: Textual amendment: S. 130A inserted (with effect in accordance with Sch. 4 paras. 56, 57 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 4 para. 25](https://www.legislation.gov.uk/ukpga/2013/29/schedule/4/paragraph/25)

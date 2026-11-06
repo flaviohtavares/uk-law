@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 112. Application for a statement of entitlement[^key-0477ec4820c9495b8e5884e1db387270]
+## 112. Application for a statement of entitlement[^c-0477ec4820c9495b8e5884e1db387270]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0477ec4820c9495b8e5884e1db387270]: Commencement: Reg. 112 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-0477ec4820c9495b8e5884e1db387270]: Commencement: Reg. 112 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
 
 [^f00041]: Footnote: Regulation 6(3) of [S.I. 1996/1847](https://www.legislation.gov.uk/uksi/1996/1847) provides that a member may not make a second application within this period unless the rules of the scheme provide otherwise.

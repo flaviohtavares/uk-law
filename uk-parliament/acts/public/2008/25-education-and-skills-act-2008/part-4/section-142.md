@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 142. Interpretation[^key-ffaff9539c670869c28296a4370b7c5c]
+## 142. Interpretation[^c-ffaff9539c670869c28296a4370b7c5c]
 
 *Extent: E+W*
 
@@ -29,7 +29,7 @@ summary: ''
 > A school is a special school if—
 >
 > - (a) it is specially organised to make special educational provision for pupils with special educational needs, and
-> - (b) in the case of a school that is not maintained by a local authority[^key-a3ed5f043e1b57c6ebf3ecae0a50cdd6], it is approved under section 342.
+> - (b) in the case of a school that is not maintained by a local authority[^c-a3ed5f043e1b57c6ebf3ecae0a50cdd6], it is approved under section 342.
 >
 > **337A. Interpretation of Chapter**
 >
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ffaff9539c670869c28296a4370b7c5c]: Commencement: S. 142 in force at 30.3.2010 by [S.I. 2010/1093](https://www.legislation.gov.uk/uksi/2010/1093), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/1093/article/2/a)
+[^c-ffaff9539c670869c28296a4370b7c5c]: Commencement: S. 142 in force at 30.3.2010 by [S.I. 2010/1093](https://www.legislation.gov.uk/uksi/2010/1093), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/1093/article/2/a)
 
-[^key-a3ed5f043e1b57c6ebf3ecae0a50cdd6]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 15(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/15/2)
+[^c-a3ed5f043e1b57c6ebf3ecae0a50cdd6]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 15(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/15/2)

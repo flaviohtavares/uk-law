@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (13).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/uksi/2002/1792
 
-## 4A. Meaning of “qualifying young person”[^key-528c9398d2a695d2ea381385f605b8b2]
+## 4A. Meaning of “qualifying young person”[^c-528c9398d2a695d2ea381385f605b8b2]
 
 (1) A person who has reached the age of 16 but not the age of 20 is a qualifying young person for the purposes of these Regulations—
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-528c9398d2a695d2ea381385f605b8b2]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/uksi/2002/1792/regulation/4A) inserted (28.7.2016) by [The Housing Benefit and State Pension Credit (Temporary Absence) (Amendment) Regulations 2016 (S.I. 2016/624)](https://www.legislation.gov.uk/uksi/2016/624), [regs. 1](https://www.legislation.gov.uk/uksi/2016/624/regulation/1), [4(5)](https://www.legislation.gov.uk/uksi/2016/624/regulation/4/5) (with [reg. 5(3)](https://www.legislation.gov.uk/uksi/2016/624/regulation/5/3))
+[^c-528c9398d2a695d2ea381385f605b8b2]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/uksi/2002/1792/regulation/4A) inserted (28.7.2016) by [The Housing Benefit and State Pension Credit (Temporary Absence) (Amendment) Regulations 2016 (S.I. 2016/624)](https://www.legislation.gov.uk/uksi/2016/624), [regs. 1](https://www.legislation.gov.uk/uksi/2016/624/regulation/1), [4(5)](https://www.legislation.gov.uk/uksi/2016/624/regulation/4/5) (with [reg. 5(3)](https://www.legislation.gov.uk/uksi/2016/624/regulation/5/3))

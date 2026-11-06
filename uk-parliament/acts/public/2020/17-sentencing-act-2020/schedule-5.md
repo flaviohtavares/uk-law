@@ -26,7 +26,7 @@ Section 115
 
 #### Application to court
 
-**1.**[^key-920d5c640a4fc2c3e7fec36a46244361] (1) This Part of this Schedule applies where—
+**1.**[^c-920d5c640a4fc2c3e7fec36a46244361] (1) This Part of this Schedule applies where—
 
 - (a) a reparation order is in force in respect of an offender, and
 - (b) the responsible officer makes an application to the appropriate court under this paragraph for it to exercise its powers under paragraph 2.
@@ -45,7 +45,7 @@ Section 115
 
 #### Powers of appropriate court
 
-**2.**[^key-0bb3eaa4709a6042abbc3a8876550838] (1) This paragraph applies if it is proved to the satisfaction of the appropriate court that the offender has breached any requirement of the reparation order.
+**2.**[^c-0bb3eaa4709a6042abbc3a8876550838] (1) This paragraph applies if it is proved to the satisfaction of the appropriate court that the offender has breached any requirement of the reparation order.
 
 (2) The appropriate court—
 
@@ -81,7 +81,7 @@ section 380 (order for payment by parent or guardian) applies to the fine.
 
 #### Powers of Crown Court
 
-**3.**[^key-d517e37fea38ac5e3d920c3ca9e03504] (1) This paragraph applies where—
+**3.**[^c-d517e37fea38ac5e3d920c3ca9e03504] (1) This paragraph applies where—
 
 - (a) by virtue of paragraph 2(2)(c) the offender is brought or appears before the Crown Court, and
 - (b) it is proved to the satisfaction of that court that the offender has breached the requirement in question.
@@ -100,7 +100,7 @@ section 380 (order for payment by parent or guardian) applies to the fine.
 
 #### Orders made on appeal
 
-**4.**[^key-faa8eb408b6afffbf37991ca03bccf86] A reparation order made on appeal is to be taken, for the purposes of this Part of this Schedule—
+**4.**[^c-faa8eb408b6afffbf37991ca03bccf86] A reparation order made on appeal is to be taken, for the purposes of this Part of this Schedule—
 
 - (a) if it was made on an appeal from a magistrates' court, to have been made by that magistrates' court;
 - (b) if it was made on an appeal—
@@ -111,7 +111,7 @@ section 380 (order for payment by parent or guardian) applies to the fine.
 
 ### PART 2 — Revocation and amendment of reparation order
 
-**5.**[^key-d078ef023df3419f31b820d3bb99d007] (1) This paragraph applies where—
+**5.**[^c-d078ef023df3419f31b820d3bb99d007] (1) This paragraph applies where—
 
 - (a) a reparation order is in force in respect of an offender, and
 - (b) the offender or the responsible officer makes an application to the relevant court under this paragraph.
@@ -151,7 +151,7 @@ But this is subject to paragraph 6.
 
 #### Issue of summons or warrant
 
-**6.**[^key-1574de2b0b41c1e4aea1b5160244727e] (1) This paragraph applies where an application is made under paragraph 1 or 5.
+**6.**[^c-1574de2b0b41c1e4aea1b5160244727e] (1) This paragraph applies where an application is made under paragraph 1 or 5.
 
 (2) For the purpose of securing the attendance of the offender before it, the court to which the application is made may issue a summons.
 
@@ -168,7 +168,7 @@ the court may issue a warrant.
 
 #### Warrants
 
-**7.**[^key-37129355faad7b667983c6c640f366ec] (1) This paragraph applies where an offender—
+**7.**[^c-37129355faad7b667983c6c640f366ec] (1) This paragraph applies where an offender—
 
 - (a) is arrested under a warrant issued under paragraph 6, and
 - (b) cannot immediately be brought before the court before which the warrant directs the offender to be brought (“the relevant court”).
@@ -176,11 +176,11 @@ the court may issue a warrant.
 (2) The person in whose custody the offender is—
 
 - (a) may arrange for the offender to be detained in a place of safety for a period of not more than 72 hours from the time of the arrest, and
-- (b) must, within that period, bring the offender before a youth court or, if the offender is aged 18 or over, a magistrates’ court other than a youth court.[^key-fb2694e9fabb45608da400c8790ff137]
+- (b) must, within that period, bring the offender before a youth court or, if the offender is aged 18 or over, a magistrates’ court other than a youth court.[^c-fb2694e9fabb45608da400c8790ff137]
 
 (3) A person detained in accordance with arrangements under sub-paragraph (2)(a) is deemed to be lawfully detained.
 
-**8.**[^key-808b01cbe9dea4bb215407333c26e09a] (1) Where the court before which the offender is brought under paragraph 7(2) (“the alternative court”) is not the relevant court, the alternative court may—
+**8.**[^c-808b01cbe9dea4bb215407333c26e09a] (1) Where the court before which the offender is brought under paragraph 7(2) (“the alternative court”) is not the relevant court, the alternative court may—
 
 - (a) direct that the offender be released forthwith, or
 - (b) remand the offender.
@@ -196,7 +196,7 @@ the court may issue a warrant.
 
 #### Power to adjourn hearing and remand offender
 
-**9.**[^key-647f03c498197bd58d1d8c80d759df98] (1) This paragraph applies to any hearing relating to an offender held by a youth court or other magistrates’ court[^key-9f3452c67db193cc85e87e859ddd83db] in any proceedings under this Schedule.
+**9.**[^c-647f03c498197bd58d1d8c80d759df98] (1) This paragraph applies to any hearing relating to an offender held by a youth court or other magistrates’ court[^c-9f3452c67db193cc85e87e859ddd83db] in any proceedings under this Schedule.
 
 (2) The court may adjourn the hearing.
 
@@ -218,7 +218,7 @@ the court may issue a warrant.
   - (ii) if the offender is aged under 14, a parent or guardian of the offender, and
   - (iii) the responsible officer.
 
-(6) The powers of a magistrates’ court[^key-3bb234b8e87bec7db0dd9d9311741986] under this paragraph may be exercised by a single justice of the peace, notwithstanding anything in the Magistrates' Courts Act 1980.
+(6) The powers of a magistrates’ court[^c-3bb234b8e87bec7db0dd9d9311741986] under this paragraph may be exercised by a single justice of the peace, notwithstanding anything in the Magistrates' Courts Act 1980.
 
 (7) This paragraph—
 
@@ -227,7 +227,7 @@ the court may issue a warrant.
 
 #### Appeals
 
-**10.**[^key-8c9acebcf99c173ac5f1fc77494fe98f] The offender may appeal to the Crown Court against—
+**10.**[^c-8c9acebcf99c173ac5f1fc77494fe98f] The offender may appeal to the Crown Court against—
 
 - (a) any order made under paragraph 2(1) (order made by appropriate court on breach of reparation order),
 - (b) any order made under paragraph 5(4)(b) (amendment of order), other than an order which only does one or more of the following—
@@ -238,28 +238,28 @@ the court may issue a warrant.
 
 ## Annotations
 
-[^key-920d5c640a4fc2c3e7fec36a46244361]: Commencement: Sch. 5 para. 1 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-920d5c640a4fc2c3e7fec36a46244361]: Commencement: Sch. 5 para. 1 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-0bb3eaa4709a6042abbc3a8876550838]: Commencement: Sch. 5 para. 2 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-0bb3eaa4709a6042abbc3a8876550838]: Commencement: Sch. 5 para. 2 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-d517e37fea38ac5e3d920c3ca9e03504]: Commencement: Sch. 5 para. 3 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-d517e37fea38ac5e3d920c3ca9e03504]: Commencement: Sch. 5 para. 3 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-faa8eb408b6afffbf37991ca03bccf86]: Commencement: Sch. 5 para. 4 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-faa8eb408b6afffbf37991ca03bccf86]: Commencement: Sch. 5 para. 4 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-d078ef023df3419f31b820d3bb99d007]: Commencement: Sch. 5 para. 5 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-d078ef023df3419f31b820d3bb99d007]: Commencement: Sch. 5 para. 5 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-1574de2b0b41c1e4aea1b5160244727e]: Commencement: Sch. 5 para. 6 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-1574de2b0b41c1e4aea1b5160244727e]: Commencement: Sch. 5 para. 6 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-37129355faad7b667983c6c640f366ec]: Commencement: Sch. 5 para. 7 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-37129355faad7b667983c6c640f366ec]: Commencement: Sch. 5 para. 7 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-fb2694e9fabb45608da400c8790ff137]: Textual amendment: Words in [Sch. 5 para. 7(2)(b)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/5/paragraph/7/2/b) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(5)(aa)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/aa), [Sch. 21 para. 7(2)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/21/paragraph/7/2)
+[^c-fb2694e9fabb45608da400c8790ff137]: Textual amendment: Words in [Sch. 5 para. 7(2)(b)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/5/paragraph/7/2/b) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(5)(aa)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/aa), [Sch. 21 para. 7(2)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/21/paragraph/7/2)
 
-[^key-808b01cbe9dea4bb215407333c26e09a]: Commencement: Sch. 5 para. 8 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-808b01cbe9dea4bb215407333c26e09a]: Commencement: Sch. 5 para. 8 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-647f03c498197bd58d1d8c80d759df98]: Commencement: Sch. 5 para. 9 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-647f03c498197bd58d1d8c80d759df98]: Commencement: Sch. 5 para. 9 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-9f3452c67db193cc85e87e859ddd83db]: Textual amendment: Words in [Sch. 5 para. 9(1)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/5/paragraph/9/1) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(5)(aa)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/aa), [Sch. 21 para. 7(3)(a)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/21/paragraph/7/3/a)
+[^c-9f3452c67db193cc85e87e859ddd83db]: Textual amendment: Words in [Sch. 5 para. 9(1)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/5/paragraph/9/1) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(5)(aa)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/aa), [Sch. 21 para. 7(3)(a)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/21/paragraph/7/3/a)
 
-[^key-3bb234b8e87bec7db0dd9d9311741986]: Textual amendment: Words in [Sch. 5 para. 9(6)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/5/paragraph/9/6) substituted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(5)(aa)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/aa), [Sch. 21 para. 7(3)(b)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/21/paragraph/7/3/b)
+[^c-3bb234b8e87bec7db0dd9d9311741986]: Textual amendment: Words in [Sch. 5 para. 9(6)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/5/paragraph/9/6) substituted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(5)(aa)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/aa), [Sch. 21 para. 7(3)(b)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/21/paragraph/7/3/b)
 
-[^key-8c9acebcf99c173ac5f1fc77494fe98f]: Commencement: Sch. 5 para. 10 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-8c9acebcf99c173ac5f1fc77494fe98f]: Commencement: Sch. 5 para. 10 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

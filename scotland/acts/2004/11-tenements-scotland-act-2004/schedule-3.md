@@ -22,7 +22,7 @@ summary: ''
 
 (introduced by sections 22(3) and 23(1))
 
-### 1. Application to sheriff for power to sell[^key-f18bf6890da4596c228a6fa393e0b341]
+### 1. Application to sheriff for power to sell[^c-f18bf6890da4596c228a6fa393e0b341]
 
 (1) Where an owner is entitled to apply—
 
@@ -50,7 +50,7 @@ the owner may make a summary application to the sheriff seeking an order (referr
 
 (6) A description of a flat or former flat is a sufficient conveyancing description for the purposes of sub-paragraph (5)(c) if—
 
-- (a)[^key-5c3cdb0008406b12f96050ed343a1dd2] where the flat or former flat has been registered in the Land Register of Scotland, the description refers to the number of the title sheet;
+- (a)[^c-5c3cdb0008406b12f96050ed343a1dd2] where the flat or former flat has been registered in the Land Register of Scotland, the description refers to the number of the title sheet;
 - (b) in relation to any other flat or former flat, the description is by reference to a deed recorded in the Register of Sasines.
 
 (7) An application under sub-paragraph (1) shall state the applicant’s conclusions as to—
@@ -60,7 +60,7 @@ the owner may make a summary application to the sheriff seeking an order (referr
   - (i) the floor area of each of the flats or former flats comprised in the sale subjects; and
   - (ii) the proportion of the net proceeds of sale allocated to that flat.
 
-### 2. Appeal against grant or refusal of power of sale order[^key-c100fb92ee3740eb60156be0b81b538c]
+### 2. Appeal against grant or refusal of power of sale order[^c-c100fb92ee3740eb60156be0b81b538c]
 
 (1) A party may, not later than 14 days after the date of—
 
@@ -71,7 +71,7 @@ appeal to the Court of Session on a point of law.
 
 (2) The decision of the Court of Session on any such appeal shall be final.
 
-### 3. Registration of power of sale order[^key-920a3499b1b1a1718cf63e0e18810816]
+### 3. Registration of power of sale order[^c-920a3499b1b1a1718cf63e0e18810816]
 
 (1) A power of sale order has no effect—
 
@@ -83,7 +83,7 @@ appeal to the Court of Session on a point of law.
 - (a) the last day of the period of 14 days within which an appeal against the order may be lodged under paragraph 2(1) of this schedule; or
 - (b) if such an appeal is duly lodged, the day on which the appeal is abandoned or determined.
 
-### 4. Exercise of power of sale[^key-1395f540b58a9a0bc8117a5c98fa793d]
+### 4. Exercise of power of sale[^c-1395f540b58a9a0bc8117a5c98fa793d]
 
 (1) An owner in whose favour a power of sale order is granted may exercise the power conferred by the order by private bargain or by exposure to sale.
 
@@ -99,7 +99,7 @@ appeal to the Court of Session on a point of law.
 
 (4) So far as may be necessary for the purpose of complying with sub-paragraph (3) above, the owner or any person authorised by the owner shall be entitled to enter any part of the sale subjects not owned, or not owned exclusively, by that owner.
 
-### 5. Distribution of proceeds of sale[^key-3a06a98bb1236dae6482bdfbb9b18985]
+### 5. Distribution of proceeds of sale[^c-3a06a98bb1236dae6482bdfbb9b18985]
 
 (1) An owner selling the sale subjects (referred to in this paragraph as the “**selling owner**”) shall, within seven days of completion of the sale—
 
@@ -130,7 +130,7 @@ appeal to the Court of Session on a point of law.
 - “**remainder**”, in relation to an owner’s share, means the amount of that share remaining after complying with sub-paragraph (2)(a) and (b) above;
 - “**share**”, in relation to an owner, means the share of the net proceeds of sale to which that owner is entitled in accordance with subsection (4) or, as the case may be, subsection (5) of section 22.
 
-### 6. Automatic discharge of heritable securities[^key-1bff81d8d410106bdb67b084d620b196]
+### 6. Automatic discharge of heritable securities[^c-1bff81d8d410106bdb67b084d620b196]
 
 Where—
 
@@ -143,16 +143,16 @@ all heritable securities affecting the sale subjects or any part of them shall, 
 
 ## Annotations
 
-[^key-f18bf6890da4596c228a6fa393e0b341]: Commencement: Sch. 3 para. 1 in force at 28.11.2004 by [S.S.I. 2004/487](https://www.legislation.gov.uk/ssi/2004/487), [art. 2(1)(d)](https://www.legislation.gov.uk/ssi/2004/487/article/2/1/d)
+[^c-f18bf6890da4596c228a6fa393e0b341]: Commencement: Sch. 3 para. 1 in force at 28.11.2004 by [S.S.I. 2004/487](https://www.legislation.gov.uk/ssi/2004/487), [art. 2(1)(d)](https://www.legislation.gov.uk/ssi/2004/487/article/2/1/d)
 
-[^key-5c3cdb0008406b12f96050ed343a1dd2]: Textual amendment: [Sch. 3 para. 1(6)(a)](https://www.legislation.gov.uk/asp/2004/11/schedule/3/paragraph/1/6/a) substituted (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [sch. 5 para. 46(3)](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/46/3) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-5c3cdb0008406b12f96050ed343a1dd2]: Textual amendment: [Sch. 3 para. 1(6)(a)](https://www.legislation.gov.uk/asp/2004/11/schedule/3/paragraph/1/6/a) substituted (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [sch. 5 para. 46(3)](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/46/3) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
-[^key-c100fb92ee3740eb60156be0b81b538c]: Commencement: Sch. 3 para. 2 in force at 28.11.2004 by [S.S.I. 2004/487](https://www.legislation.gov.uk/ssi/2004/487), [art. 2(1)(d)](https://www.legislation.gov.uk/ssi/2004/487/article/2/1/d)
+[^c-c100fb92ee3740eb60156be0b81b538c]: Commencement: Sch. 3 para. 2 in force at 28.11.2004 by [S.S.I. 2004/487](https://www.legislation.gov.uk/ssi/2004/487), [art. 2(1)(d)](https://www.legislation.gov.uk/ssi/2004/487/article/2/1/d)
 
-[^key-920a3499b1b1a1718cf63e0e18810816]: Commencement: Sch. 3 para. 3 in force at 28.11.2004 by [S.S.I. 2004/487](https://www.legislation.gov.uk/ssi/2004/487), [art. 2(1)(d)](https://www.legislation.gov.uk/ssi/2004/487/article/2/1/d)
+[^c-920a3499b1b1a1718cf63e0e18810816]: Commencement: Sch. 3 para. 3 in force at 28.11.2004 by [S.S.I. 2004/487](https://www.legislation.gov.uk/ssi/2004/487), [art. 2(1)(d)](https://www.legislation.gov.uk/ssi/2004/487/article/2/1/d)
 
-[^key-1395f540b58a9a0bc8117a5c98fa793d]: Commencement: Sch. 3 para. 4 in force at 28.11.2004 by [S.S.I. 2004/487](https://www.legislation.gov.uk/ssi/2004/487), [art. 2(1)(d)](https://www.legislation.gov.uk/ssi/2004/487/article/2/1/d)
+[^c-1395f540b58a9a0bc8117a5c98fa793d]: Commencement: Sch. 3 para. 4 in force at 28.11.2004 by [S.S.I. 2004/487](https://www.legislation.gov.uk/ssi/2004/487), [art. 2(1)(d)](https://www.legislation.gov.uk/ssi/2004/487/article/2/1/d)
 
-[^key-3a06a98bb1236dae6482bdfbb9b18985]: Commencement: Sch. 3 para. 5 in force at 28.11.2004 by [S.S.I. 2004/487](https://www.legislation.gov.uk/ssi/2004/487), [art. 2(1)(d)](https://www.legislation.gov.uk/ssi/2004/487/article/2/1/d)
+[^c-3a06a98bb1236dae6482bdfbb9b18985]: Commencement: Sch. 3 para. 5 in force at 28.11.2004 by [S.S.I. 2004/487](https://www.legislation.gov.uk/ssi/2004/487), [art. 2(1)(d)](https://www.legislation.gov.uk/ssi/2004/487/article/2/1/d)
 
-[^key-1bff81d8d410106bdb67b084d620b196]: Commencement: Sch. 3 para. 6 in force at 28.11.2004 by [S.S.I. 2004/487](https://www.legislation.gov.uk/ssi/2004/487), [art. 2(1)(d)](https://www.legislation.gov.uk/ssi/2004/487/article/2/1/d)
+[^c-1bff81d8d410106bdb67b084d620b196]: Commencement: Sch. 3 para. 6 in force at 28.11.2004 by [S.S.I. 2004/487](https://www.legislation.gov.uk/ssi/2004/487), [art. 2(1)(d)](https://www.legislation.gov.uk/ssi/2004/487/article/2/1/d)

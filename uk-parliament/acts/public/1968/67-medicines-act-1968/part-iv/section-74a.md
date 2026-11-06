@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74A. Registration of premises: Great Britain[^key-2dd7ea2ea1f70633852975d97935774e]
+## 74A. Registration of premises: Great Britain[^c-2dd7ea2ea1f70633852975d97935774e]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2dd7ea2ea1f70633852975d97935774e]: Textual amendment: Ss. 74A-74L inserted (10.2.2010 for specified purposes, 27.9.2010 in so far as not already in force) by [The Pharmacy Order 2010 (S.I. 2010/231)](https://www.legislation.gov.uk/uksi/2010/231), [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3), [Sch. 4 para. 1(8)](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/1/8) (with [Sch. 5 para. 10](https://www.legislation.gov.uk/uksi/2010/231/schedule/5/paragraph/10)); [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-2dd7ea2ea1f70633852975d97935774e]: Textual amendment: Ss. 74A-74L inserted (10.2.2010 for specified purposes, 27.9.2010 in so far as not already in force) by [The Pharmacy Order 2010 (S.I. 2010/231)](https://www.legislation.gov.uk/uksi/2010/231), [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3), [Sch. 4 para. 1(8)](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/1/8) (with [Sch. 5 para. 10](https://www.legislation.gov.uk/uksi/2010/231/schedule/5/paragraph/10)); [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)

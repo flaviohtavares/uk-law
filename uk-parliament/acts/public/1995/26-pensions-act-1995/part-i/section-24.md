@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Members’ powers to apply to court to enforce duty.[^key-256445b91714399713edef7758f6a047]
+## 24. Members’ powers to apply to court to enforce duty.[^c-256445b91714399713edef7758f6a047]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-256445b91714399713edef7758f6a047]: Textual amendment: S. 23 substituted for ss. 23, 24 (10.2.2005 for specified purposes, 6.4.2005 in so far as not already in force) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [ss. 36(3)](https://www.legislation.gov.uk/ukpga/2004/35/section/36/3), [322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1) (with [s. 313](https://www.legislation.gov.uk/ukpga/2004/35/section/313)); [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(3)(a)](https://www.legislation.gov.uk/uksi/2005/275/article/2/3/a)[(b)](https://www.legislation.gov.uk/uksi/2005/275/article/2/3/b), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/3)
+[^c-256445b91714399713edef7758f6a047]: Textual amendment: S. 23 substituted for ss. 23, 24 (10.2.2005 for specified purposes, 6.4.2005 in so far as not already in force) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [ss. 36(3)](https://www.legislation.gov.uk/ukpga/2004/35/section/36/3), [322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1) (with [s. 313](https://www.legislation.gov.uk/ukpga/2004/35/section/313)); [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(3)(a)](https://www.legislation.gov.uk/uksi/2005/275/article/2/3/a)[(b)](https://www.legislation.gov.uk/uksi/2005/275/article/2/3/b), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/3)

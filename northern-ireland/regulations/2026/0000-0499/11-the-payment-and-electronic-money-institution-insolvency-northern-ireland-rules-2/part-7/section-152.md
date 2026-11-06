@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 152. Debt payable at a future time[^key-0945913ed27615e9f8b4bac765bbbde4]
+## 152. Debt payable at a future time[^c-0945913ed27615e9f8b4bac765bbbde4]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0945913ed27615e9f8b4bac765bbbde4]: Commencement: [Rule 152](https://www.legislation.gov.uk/nisr/2026/11/rule/152) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-0945913ed27615e9f8b4bac765bbbde4]: Commencement: [Rule 152](https://www.legislation.gov.uk/nisr/2026/11/rule/152) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Consultation about the general duty and improvement objectives[^key-5a40e0238a786db4747ef13b0ba34054]
+## 5. Consultation about the general duty and improvement objectives[^c-5a40e0238a786db4747ef13b0ba34054]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5a40e0238a786db4747ef13b0ba34054]: Commencement: [S. 5](https://www.legislation.gov.uk/mwa/2009/2/section/5) in force at 17.7.2009 by [S.I. 2009/1796](https://www.legislation.gov.uk/wsi/2009/1796), [art. 2(d)](https://www.legislation.gov.uk/wsi/2009/1796/article/2/d)
+[^c-5a40e0238a786db4747ef13b0ba34054]: Commencement: [S. 5](https://www.legislation.gov.uk/mwa/2009/2/section/5) in force at 17.7.2009 by [S.I. 2009/1796](https://www.legislation.gov.uk/wsi/2009/1796), [art. 2(d)](https://www.legislation.gov.uk/wsi/2009/1796/article/2/d)

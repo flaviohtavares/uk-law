@@ -51,13 +51,13 @@ The Welsh Ministers make these Regulations in exercise of the powers conferred b
 
 ## PART 1 — Water standards
 
-### 1. Title, application and commencement[^key-0ca86af48c0822e72c2aa5add86638b9]
+### 1. Title, application and commencement[^c-0ca86af48c0822e72c2aa5add86638b9]
 
 The title of these Regulations is the Private Water Supplies (Wales) Regulations 2017; they apply in relation to Wales and come into force on 20 November 2017.
 
-### 2. Interpretation[^key-0f0199f03700f02444c02c02ac71f672]
+### 2. Interpretation[^c-0f0199f03700f02444c02c02ac71f672]
 
-(1)[^key-5eeeb4d3282c858a4575284d3bc3e609] In these Regulations—
+(1)[^c-5eeeb4d3282c858a4575284d3bc3e609] In these Regulations—
 
 - “the Act” (“*y Ddeddf*”) means the Water Industry Act 1991;
 - “the 2010 Regulations” (“*Rheoliadau 2010*”) means the Private Water Supplies (Wales) Regulations 2010[^f00005];
@@ -78,9 +78,9 @@ The title of these Regulations is the Private Water Supplies (Wales) Regulations
   - (c) any other person who exercises powers of management or control in relation to that supply;
 - “risk assessment” (“*asesiad risg*”) means a risk assessment carried out under regulation 6.
 
-(2)[^key-5c7f72156fe8217a5f725eda86552939] In these Regulations, a reference to an EU or Euratom Directive is to be read as if any reference in that Directive to a member State in a provision imposing an obligation on, or providing a discretion to, a member State were to either the Welsh Ministers or local authority depending on which, immediately before exit day, was responsible for compliance with that obligation, or exercise of that discretion, in respect of Wales.
+(2)[^c-5c7f72156fe8217a5f725eda86552939] In these Regulations, a reference to an EU or Euratom Directive is to be read as if any reference in that Directive to a member State in a provision imposing an obligation on, or providing a discretion to, a member State were to either the Welsh Ministers or local authority depending on which, immediately before exit day, was responsible for compliance with that obligation, or exercise of that discretion, in respect of Wales.
 
-### 3. Scope[^key-2ae88765a585e2a2e3e62d4d2899a739]
+### 3. Scope[^c-2ae88765a585e2a2e3e62d4d2899a739]
 
 (1) These Regulations apply in relation to private water supplies intended for human consumption; and for these purposes “water intended for human consumption” means—
 
@@ -93,7 +93,7 @@ The title of these Regulations is the Private Water Supplies (Wales) Regulations
 - (b) water that is a medicinal product within the meaning of the Medicines Act 1968[^f00013];
 - (c) water used solely for washing a crop after it has been harvested and that does not affect the fitness for human consumption of the crop or of any food or drink derived from the crop.
 
-### 4. Wholesomeness[^key-23f22a1fe9f2b0f52cdbca2361093dff]
+### 4. Wholesomeness[^c-23f22a1fe9f2b0f52cdbca2361093dff]
 
 (1) A private water supply is to be regarded as wholesome if all the following conditions are met—
 
@@ -103,7 +103,7 @@ The title of these Regulations is the Private Water Supplies (Wales) Regulations
 
 (2) A reference in these Regulations to water being unwholesome means the requirements in paragraph (1) not being met.
 
-### 5. Use of products or substances in private water supplies and disinfection arrangements[^key-35dd54f6d9e4e1822063641251a79787]
+### 5. Use of products or substances in private water supplies and disinfection arrangements[^c-35dd54f6d9e4e1822063641251a79787]
 
 (1) Any product or substance used in the preparation or distribution of a private water supply, or impurities associated with such products or substances, must not be present in water at the point of use at levels that would make it unwholesome or constitute a potential danger to human health.
 
@@ -114,7 +114,7 @@ The title of these Regulations is the Private Water Supplies (Wales) Regulations
 - (c) keep records of the maintenance and monitoring which have been undertaken in order to verify the effectiveness of the disinfection process; and
 - (d) keep copies of those records available for inspection by the local authority, for a period of 5 years.
 
-### 6. Requirement to carry out a risk assessment[^key-93912b13d0ff6e541eb6bc3300b05fea]
+### 6. Requirement to carry out a risk assessment[^c-93912b13d0ff6e541eb6bc3300b05fea]
 
 (1) A local authority[^f00014] must carry out a risk assessment for every private water supply in its area and review and update that risk assessment every 5 years (or earlier if it considers that the existing risk assessment is inadequate).
 
@@ -126,11 +126,11 @@ The title of these Regulations is the Private Water Supplies (Wales) Regulations
 
 - (a) establish whether there is a significant risk of supplying water that would constitute a potential danger to human health;
 - (b) satisfy the requirements of the Security of Drinking Water Supply Guidelines for Risk and Crisis Management[^f00015]; and
-- (c) take into account the results from the monitoring programmes established by the second paragraph of Article 7(1) and Article 8[^key-ff3fcd3c6fa43cd23531f442efd18035] of [Directive 2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060) of the European Parliament and of the Council[^f00016].
+- (c) take into account the results from the monitoring programmes established by the second paragraph of Article 7(1) and Article 8[^c-ff3fcd3c6fa43cd23531f442efd18035] of [Directive 2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060) of the European Parliament and of the Council[^f00016].
 
 (5) A local authority must within 12 months of having carried out a risk assessment provide the Welsh Ministers with a summary of the results of that assessment.
 
-(6)[^key-ca57b2eb5f54ef1927863a56bf3f8a46] For the purposes of paragraph (4)(c), a reference to Articles 7(1) and 8 of Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) is to be read with the following modifications—
+(6)[^c-ca57b2eb5f54ef1927863a56bf3f8a46] For the purposes of paragraph (4)(c), a reference to Articles 7(1) and 8 of Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) is to be read with the following modifications—
 
 - (a) as if any reference to Annex 5 of that Directive were a reference to that Annex as modified by Part 1 of Schedule 5 to the Water Environment (Water Framework Directive) (England and Wales) Regulations 2017;
 - (b) in Article 8, as if—
@@ -140,7 +140,7 @@ The title of these Regulations is the Private Water Supplies (Wales) Regulations
 
 ## PART 2 — Monitoring
 
-### 7. Monitoring[^key-3db835307b6dd82d386a4e32119276ce]
+### 7. Monitoring[^c-3db835307b6dd82d386a4e32119276ce]
 
 (1) A local authority must monitor all private water supplies in its area in accordance with this Part when carrying out its duties under section 77(1) of the Act (general functions of local authorities in relation to water quality).
 
@@ -155,11 +155,11 @@ The title of these Regulations is the Private Water Supplies (Wales) Regulations
 - (a) inspections of records of the functionality and maintenance status of equipment;
 - (b) inspections of the catchment area, water abstraction, treatment, storage and distribution infrastructure.
 
-### 8. Further distribution of supplies from water undertakers or water supply licensees[^key-612c662240ec8dde95466b168ae75627]
+### 8. Further distribution of supplies from water undertakers or water supply licensees[^c-612c662240ec8dde95466b168ae75627]
 
 Where water is supplied by a water undertaker or a water supply licensee and is then further distributed by a person other than a water undertaker or a water supply licensee, the local authority must carry out any monitoring which the risk assessment shows to be necessary.
 
-### 9. Large supplies and supplies as part of a commercial or public activity[^key-daa78aa56864722da8637375ffd3bb46]
+### 9. Large supplies and supplies as part of a commercial or public activity[^c-daa78aa56864722da8637375ffd3bb46]
 
 (1) This regulation applies to a private water supply, other than that specified in regulation 8, that—
 
@@ -168,7 +168,7 @@ Where water is supplied by a water undertaker or a water supply licensee and is 
 
 (2) The local authority must monitor a private water supply falling within this regulation in accordance with Schedule 2 and carry out any additional monitoring that the risk assessment shows to be necessary.
 
-### 10. Supplies to a single dwelling[^key-e0be3a18f4e64d1db0f2bcd1bf95cf4a]
+### 10. Supplies to a single dwelling[^c-e0be3a18f4e64d1db0f2bcd1bf95cf4a]
 
 (1) This regulation applies to a private water supply to a single dwelling not used as part of a commercial or public activity (in which case regulation 9 applies) or as part of a domestic tenancy (in which case regulation 11 applies).
 
@@ -177,7 +177,7 @@ Where water is supplied by a water undertaker or a water supply licensee and is 
 - (a) may monitor the supply in accordance with the requirements in regulation 11(1); and
 - (b) must do so if requested to do so by the owner or occupier of that dwelling.
 
-### 11. Other private supplies including supplies as part of a domestic tenancy[^key-7efd139b0c93063527a664b14d91628d]
+### 11. Other private supplies including supplies as part of a domestic tenancy[^c-7efd139b0c93063527a664b14d91628d]
 
 (1) In the case of a private water supply not covered by regulation 8, 9 or 10, the local authority must monitor for—–
 
@@ -191,7 +191,7 @@ Where water is supplied by a water undertaker or a water supply licensee and is 
 
 (2) The local authority must carry out the monitoring required by this regulation at least every 5 years and more frequently if the risk assessment shows this to be necessary.
 
-### 12. Monitoring of radioactive substances: general[^key-6b7173a67fe724b2f5d9adf64d77d341]
+### 12. Monitoring of radioactive substances: general[^c-6b7173a67fe724b2f5d9adf64d77d341]
 
 (1) A local authority must monitor each private water supply in its area (other than a supply to which regulation 13 applies) for the parameters contained in the radioactive substances parameters table in accordance with this regulation and Schedule 3.
 
@@ -206,7 +206,7 @@ Where water is supplied by a water undertaker or a water supply licensee and is 
 
 (5) The local authority must provide the Welsh Ministers with the grounds for its decision under paragraph (3) and the necessary documentation supporting the decision (including the findings of any surveys, monitoring or assessments carried out in accordance with paragraph (4)(a)).
 
-(6)[^key-0d45cb8b81f0c2635ee5967f4cbe86e5] The Welsh Ministers must publish, in such a manner as they consider appropriate, the grounds for a decision under paragraph (3) and the documentation provided under paragraph (5) supporting the decision.
+(6)[^c-0d45cb8b81f0c2635ee5967f4cbe86e5] The Welsh Ministers must publish, in such a manner as they consider appropriate, the grounds for a decision under paragraph (3) and the documentation provided under paragraph (5) supporting the decision.
 
 (7) Where—
 
@@ -217,13 +217,13 @@ the exclusion from monitoring under paragraph (3) will no longer apply and the l
 
 (8) In case of naturally occurring radionuclides, where previous results (including representative surveys, monitoring data or other reliable information) show that the concentration of radionuclides in a supply within a local authority’s area is stable, the minimum sampling and analysis frequencies are to be decided by the local authority, and confirmed by notice in writing to the Welsh Ministers, taking into consideration the risk to human health.
 
-### 13. Monitoring of radioactive substances: supplies to specified single dwellings[^key-0f1684e2fcaca4032b528382f91efaab]
+### 13. Monitoring of radioactive substances: supplies to specified single dwellings[^c-0f1684e2fcaca4032b528382f91efaab]
 
 (1) This regulation applies to a private water supply to a single dwelling not provided as part of a commercial or public activity or as part of a domestic tenancy.
 
 (2) A local authority may monitor a supply falling within paragraph (1) for the parameters contained in Table D in Part 3 of Schedule 1 in accordance with Schedule 3 and Part 3 of Schedule 4, and must do so if requested to do so by the owner or occupier.
 
-### 14. Sampling and analysis[^key-aec0194de1485a58d61d2af58e11534a]
+### 14. Sampling and analysis[^c-aec0194de1485a58d61d2af58e11534a]
 
 (1) When a local authority monitors a private water supply it must take a sample—
 
@@ -243,13 +243,13 @@ the exclusion from monitoring under paragraph (3) will no longer apply and the l
 
 (4) The local authority must ensure that the sample is analysed in accordance with Schedule 4.
 
-### 15. New supplies[^key-daaf5667b7cdd47df4144d3e73104ec7]
+### 15. New supplies[^c-daaf5667b7cdd47df4144d3e73104ec7]
 
 (1) Where a local authority becomes aware of a private water supply that is to be, or is being, used for the first time (or for the first time after being out of use for a period of 12 months or more), the requirements of regulation 6 to 14 and 16 to 19 must be complied with as soon as reasonably practicable.
 
 (2) A private water supply must not be brought into use or used until the local authority is satisfied that the supply does not constitute a potential danger to human health.
 
-### 16. Records[^key-d77e696e01d5379db0b98d0c483fabc6]
+### 16. Records[^c-d77e696e01d5379db0b98d0c483fabc6]
 
 (1) A local authority must make and keep records in respect of every private water supply in its area in accordance with Schedule 5.
 
@@ -260,7 +260,7 @@ the exclusion from monitoring under paragraph (3) will no longer apply and the l
 
 ## PART 3 — Action in the event of failure
 
-### 17. Provision of information[^key-f82064badb06894b3c032262708972f8]
+### 17. Provision of information[^c-f82064badb06894b3c032262708972f8]
 
 If a local authority considers that a private water supply in its area is a potential danger to human health it must promptly take appropriate steps to ensure that people likely to consume water from it—
 
@@ -268,7 +268,7 @@ If a local authority considers that a private water supply in its area is a pote
 - (b) where possible, are informed of the nature and degree of the potential danger; and
 - (c) are given advice to allow them to minimise any such potential danger.
 
-### 18. Investigation[^key-8efc58d62277428c598aa3179360a1cd]
+### 18. Investigation[^c-8efc58d62277428c598aa3179360a1cd]
 
 (1) Where a local authority suspects that a private water supply fails to comply with—
 
@@ -293,7 +293,7 @@ it must carry out an investigation to establish the cause of the failure.
 
 (6) Where this regulation applies and a local authority’s monitoring obligations in respect of the supply have previously been reduced (or otherwise varied) under Schedule 2 to these Regulations, such variation is to cease immediately and the standard frequencies outlined in Tables 2 and 3 in Schedule 2 must be reinstated.
 
-### 19. Authorisations of different standards[^key-5e9f5a67702e7b7a0293c9d67951a2be]
+### 19. Authorisations of different standards[^c-5e9f5a67702e7b7a0293c9d67951a2be]
 
 (1) Any relevant person may apply to a local authority for the grant of an authorisation under this regulation.
 
@@ -331,7 +331,7 @@ it must carry out an investigation to establish the cause of the failure.
 
 ## PART 4 — Notice procedure
 
-### 20. Notices[^key-c1893bf43a60cb5119b090aaee6150b3]
+### 20. Notices[^c-c1893bf43a60cb5119b090aaee6150b3]
 
 (1) If any private water supply constitutes a potential danger to human health, a local authority must serve a notice under this regulation on the relevant person instead of a notice under section 80 of the Act.
 
@@ -361,7 +361,7 @@ it must carry out an investigation to establish the cause of the failure.
 - (a) the local authority may recover from P any expenses reasonably incurred by it in taking that action; and
 - (b) where a person, other than the local authority, is liable to make payments to P, sums paid by virtue of sub-paragraph (a) are to be deemed to be expenses incurred in the taking of action by P.
 
-### 21. Appeals[^key-f46e02af86e7cf88ee1bab00a5de1cc0]
+### 21. Appeals[^c-f46e02af86e7cf88ee1bab00a5de1cc0]
 
 (1) Any person who is aggrieved by a notice served under regulation 20 may appeal to a magistrates’ court within 28 days of service of the notice.
 
@@ -371,7 +371,7 @@ it must carry out an investigation to establish the cause of the failure.
 
 (4) On an appeal, the court may either cancel the notice or confirm it, with or without modification.
 
-### 22. Penalties[^key-1604cac3e6ba76dd92611d083bbefee0]
+### 22. Penalties[^c-1604cac3e6ba76dd92611d083bbefee0]
 
 (1) A person who commits an offence under regulation 20 is liable—
 
@@ -389,11 +389,11 @@ that person is guilty of the offence as well as the body corporate.
 
 ## PART 5 — Miscellaneous
 
-### 23. Fees[^key-2737d930b2eec1a6e72651fa441ed1c9]
+### 23. Fees[^c-2737d930b2eec1a6e72651fa441ed1c9]
 
 Schedule 6 makes provision for fees.
 
-### 23A. Reporting[^key-703532e2ba603bd411ce2785cc4d2882]
+### 23A. Reporting[^c-703532e2ba603bd411ce2785cc4d2882]
 
 (1) The Welsh Ministers must prepare and publish a report on the quality of water intended for human consumption, with the objective of informing consumers.
 
@@ -411,7 +411,7 @@ Schedule 6 makes provision for fees.
 
 (5) Any report published under paragraph (1) must also be made available on the Drinking Water Inspectorate's website.
 
-### 24. Revocations[^key-d39ef05d5f35b95c6e4e0a9a54095367]
+### 24. Revocations[^c-d39ef05d5f35b95c6e4e0a9a54095367]
 
 (1) The following instruments are revoked—
 
@@ -422,11 +422,11 @@ Schedule 6 makes provision for fees.
 
 (2) Paragraph 142 of Schedule 2 to the National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Savings Provisions) Order 2013[^f00021] is revoked.
 
-### 25. Consequential amendment[^key-a1ed29de348b34729d9bd86190183ca6]
+### 25. Consequential amendment[^c-a1ed29de348b34729d9bd86190183ca6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 26. Transitional provisions[^key-c9e0baea1c61bd23c09df81ca90adb47]
+### 26. Transitional provisions[^c-c9e0baea1c61bd23c09df81ca90adb47]
 
 (1) On the coming into force of these Regulations—
 
@@ -455,7 +455,7 @@ Cabinet Secretary for Environment and Rural Affairs, one of the Welsh Ministers
 
 Regulations 2, 11, 12, 13, 18 and 19
 
-### PART 1 — Wholesomeness[^key-1968bc1a484714695a6fe232c5e01247]
+### PART 1 — Wholesomeness[^c-1968bc1a484714695a6fe232c5e01247]
 
 TABLE A:
 
@@ -545,7 +545,7 @@ National requirements – Prescribed concentrations or values
 | Tetrachloromethane | 3 | µg/1 |
 | Turbidity | 4 | NTU |
 
-### PART 2 — Indicator Parameters[^key-d4177ccb6daac385f3513597426af77b]
+### PART 2 — Indicator Parameters[^c-d4177ccb6daac385f3513597426af77b]
 
 TABLE C:
 
@@ -576,7 +576,7 @@ Prescribed concentrations, values or states
 
 [^f01009][^f01009][^f01009][^f01010]
 
-### PART 3 — Radioactive substances parameters[^key-12b410853be26f8710c3164a8d4b3dd5]
+### PART 3 — Radioactive substances parameters[^c-12b410853be26f8710c3164a8d4b3dd5]
 
 TABLE D:
 
@@ -605,7 +605,7 @@ Regulations 2, 9, 18 and 26
 
 ### PART 1 — Monitoring for Group A parameters
 
-#### 1. Sampling[^key-85feaca675599f7b4a77df09c5b40c7c]
+#### 1. Sampling[^c-85feaca675599f7b4a77df09c5b40c7c]
 
 (1) A local authority must undertake monitoring for Group A parameters in accordance with this Part.
 
@@ -639,7 +639,7 @@ Regulations 2, 9, 18 and 26
   | Taste | In all supplies |
   | Turbidity | In all supplies |
 
-#### 2. Frequency of sampling[^key-04b101c31e8b5b09f9fca9de6ede41ba]
+#### 2. Frequency of sampling[^c-04b101c31e8b5b09f9fca9de6ede41ba]
 
 Sampling for Group A parameters must be carried out at frequencies specified in Table 2.
 
@@ -665,7 +665,7 @@ Sampling frequency for Group A parameters
 
 ### PART 2 — Monitoring for Group B parameters
 
-#### 3. Sampling[^key-c3471324d048d8e30c85b18ea3714c26]
+#### 3. Sampling[^c-c3471324d048d8e30c85b18ea3714c26]
 
 (1) A local authority must undertake monitoring for Group B parameters in accordance with this Part.
 
@@ -674,7 +674,7 @@ Sampling frequency for Group A parameters
 - (a) in order to provide information necessary to determine whether or not the private water supply satisfies each concentration, value or state specified in either of those Parts of that Schedule; and
 - (b) if disinfection is used, to check that disinfection by-products are kept as low as possible without compromising the effectiveness of disinfection.
 
-#### 4. Frequency of sampling[^key-33f64b83cf26437d9cfde0cc164d58a2]
+#### 4. Frequency of sampling[^c-33f64b83cf26437d9cfde0cc164d58a2]
 
 Sampling for Group B parameters must be carried out at the frequencies specified in Table 3.
 
@@ -691,7 +691,7 @@ Sampling frequency for Group B parameters
 | ˃ 10,000 ≤ 100,000 | 3 + 1 for each 10,000 m<sup>3</sup>/day of the total volume (rounding up to the nearest multiple of 10,000 m<sup>3</sup>/day) |
 | ˃ 100,000 | 10 + 1 for each 25,000 m<sup>3</sup>/day of the total volume (rounding up to the<br>nearest multiple of 25,000 m<sup>3</sup>/day) |
 
-### PART 3 — Minimum frequency for both monitoring for Group A parameters and monitoring for Group B parameters for water put into bottles or containers[^key-91cab939eeaa487259f7a28f79bb33ea]
+### PART 3 — Minimum frequency for both monitoring for Group A parameters and monitoring for Group B parameters for water put into bottles or containers[^c-91cab939eeaa487259f7a28f79bb33ea]
 
 <table>
 <thead>
@@ -707,7 +707,7 @@ Sampling frequency for Group B parameters
 
 ### PART 4 — Variation of monitoring requirements for Group A and Group B parameters
 
-#### 5. Variation of sampling frequency[^key-5423d7f8431f9721d85923a48457dbfe]
+#### 5. Variation of sampling frequency[^c-5423d7f8431f9721d85923a48457dbfe]
 
 (1) A local authority may reduce the sampling frequencies required for a parameter (other than for *Escherichia coli (E. coli)*) under Part 1 or 2 of this Schedule provided that—
 
@@ -718,7 +718,7 @@ Sampling frequency for Group B parameters
 
 (2) A local authority may set a higher frequency for any parameter if it considers it appropriate taking into account the findings of any risk assessment.
 
-#### 6. Variation of parameters[^key-6957ea3250548053ec58637c66a4e2d3]
+#### 6. Variation of parameters[^c-6957ea3250548053ec58637c66a4e2d3]
 
 (1) A local authority may cease to monitor a parameter (other than *Escherichia coli (E. coli)*) otherwise required to be monitored under Part 1 or 2 of this Schedule provided that—
 
@@ -732,7 +732,7 @@ Sampling frequency for Group B parameters
 
 Regulations 12 and 13
 
-### 1. Radon[^key-08ba970f342670b6d9886b426889a45b]
+### 1. Radon[^c-08ba970f342670b6d9886b426889a45b]
 
 (1) In relation to the radon parameter in the radioactive substances parameters table, a local authority—
 
@@ -744,7 +744,7 @@ Regulations 12 and 13
 - (a) as to be capable of determining the scale and nature of likely exposure to radon in water intended for human consumption originating from different types of groundwater sources and wells in different geological areas; and
 - (b) that underlying parameters, especially the geology and hydrology of the area, radioactivity of rock or soil, and well type, can be identified and used to direct further action to areas of likely high exposure to radon.
 
-### 2. Tritium[^key-41f0d052e06ceeb42f3199e15431930f]
+### 2. Tritium[^c-41f0d052e06ceeb42f3199e15431930f]
 
 (1) In relation to the tritium parameter in the radioactive substances parameters table, a local authority—
 
@@ -756,7 +756,7 @@ Regulations 12 and 13
 - (a) it must be carried out at the frequencies as set out for monitoring for Group B parameters in Table 3 in Part 2 of Schedule 2; or
 - (b) it must (in the case of a private water supply falling within the scope of regulation 11(1)) be carried out at least every 5 years or more frequently if the risk assessment referred to under sub-paragraph (1)(a) shows this to be necessary.
 
-### 3. Indicative Dose[^key-5ef3484c20192289efaa9070a3d1fa42]
+### 3. Indicative Dose[^c-5ef3484c20192289efaa9070a3d1fa42]
 
 (1) In relation to the indicative dose parameter in the radioactive substances parameters table, a local authority must carry out monitoring where a source of artificial radioactivity or elevated natural radioactivity is present and it cannot be shown on the basis of other surveillance programmes or investigations, including any risk assessment carried out in accordance with regulation 6, that the level of indicative dose is below the parametric value listed in the radioactive substances parameters table.
 
@@ -774,11 +774,11 @@ Regulations 12 and 13
 
 (4) Where a local authority decides under sub-paragraph (3) that a single check measurement for natural radioactivity is appropriate, the local authority must carry out a further check if any change occurs in relation to the private water supply which is likely to influence the concentrations of radionuclides in the supply.
 
-### 4. Water treatment[^key-23a52ddfd2d0ed1f92cbc58ed37d1630]
+### 4. Water treatment[^c-23a52ddfd2d0ed1f92cbc58ed37d1630]
 
 Where treatment to reduce the level of radionuclides in a private water supply has been undertaken, the local authority must monitor the supply for total indicative dose, radon and tritium in accordance with the provisions of this Part and the frequencies as set out for monitoring for Group B parameters in Table 3 in Part 2 of Schedule 2 to verify the continued efficacy of that treatment.
 
-### 5. Averaging[^key-73eec0cb349750e3b8c2a3b3db36c7ef]
+### 5. Averaging[^c-73eec0cb349750e3b8c2a3b3db36c7ef]
 
 Where a parametric value in the radioactive substances parameters table is exceeded in relation to a particular sample taken by a local authority, the Welsh Ministers must specify, by notice in writing to the local authority, the extent of resampling necessary to ensure that the measured values are representative of an average activity concentration for a full year.
 
@@ -788,7 +788,7 @@ Regulations 13 and 14
 
 ### PART 1 — General
 
-#### 1. Samples: general[^key-13e2c5c5f528fc6ab1099f358132bc26]
+#### 1. Samples: general[^c-13e2c5c5f528fc6ab1099f358132bc26]
 
 (1) The local authority must ensure, so far as reasonably practicable, that the appropriate requirements are satisfied when—
 
@@ -816,11 +816,11 @@ Regulations 13 and 14
 
 (5) In this paragraph, “suitably accredited body” means any person accredited by the United Kingdom Accreditation Service[^f00023].
 
-#### 2. Analysing samples: microbiological parameters[^key-eb7804ab0e05507ce4e05cfbdab53818]
+#### 2. Analysing samples: microbiological parameters[^c-eb7804ab0e05507ce4e05cfbdab53818]
 
 For each parameter specified in the first column of Table 1 in Part 2 of this Schedule the method of analysis is specified in the second column of that table.
 
-#### 3. Analysing samples: chemical and indicator parameters[^key-51692e81edb07fa2d106b26d3d6a14ac]
+#### 3. Analysing samples: chemical and indicator parameters[^c-51692e81edb07fa2d106b26d3d6a14ac]
 
 (1) On or before 31 December 2019, the local authority may apply the method of analysis for chemical and indicator parameters in either sub-paragraph (3) or sub-paragraph (4).
 
@@ -847,13 +847,13 @@ For each parameter specified in the first column of Table 1 in Part 2 of this Sc
 - (c) “trueness” (the systematic error) is the difference between the mean value of the large number of repeated measurements and the true value. Further specifications are set out in ISO 17025;
 - (d) “uncertainty of measurement” is a non-negative parameter characterising the dispersion of the quantity values being measured, based on the information used.
 
-#### 4. Authorisation of alternative methods of analysis[^key-3788d90f7b0ff6a6d17859c7cff98427]
+#### 4. Authorisation of alternative methods of analysis[^c-3788d90f7b0ff6a6d17859c7cff98427]
 
 (1) The Welsh Ministers may authorise a method different from those set out in paragraph 3(2) or 3(3) if satisfied that it is at least as reliable.
 
 (2) An authorisation may be time-limited and may be revoked at any time.
 
-#### 5. Sampling and analysis by persons other than local authorities[^key-307441d150ce776fb7899240fc752e38]
+#### 5. Sampling and analysis by persons other than local authorities[^c-307441d150ce776fb7899240fc752e38]
 
 (1) A local authority may enter into an arrangement for any person to take and analyse samples on its behalf.
 
@@ -862,7 +862,7 @@ For each parameter specified in the first column of Table 1 in Part 2 of this Sc
 - (a) it is satisfied that the task will be carried out promptly by a person competent to perform it, and
 - (b) it has made arrangements that ensure that any breach of these Regulations is communicated to it immediately, and any other result is communicated to it within 28 days.
 
-### PART 2 — Analytical methods[^key-e45f5ffced056ed9235de75d87092758]
+### PART 2 — Analytical methods[^c-e45f5ffced056ed9235de75d87092758]
 
 Table 1
 
@@ -1000,38 +1000,38 @@ Method of analysis for chemical and indicator parameters: uncertainty of measure
 
 ### PART 3 — Monitoring for indicative dose and analytical performance characteristics
 
-**6.**[^key-303a6da9ce5b942400962eb5d2ce2d01] A local authority may use reliable screening strategies to indicate the presence of radioactivity in water intended for human consumption.
+**6.**[^c-303a6da9ce5b942400962eb5d2ce2d01] A local authority may use reliable screening strategies to indicate the presence of radioactivity in water intended for human consumption.
 
-**7.**[^key-331fe80b136f9f78135a2d252fbfd7bb] The strategies referred to in paragraph 6 may include screening for—
+**7.**[^c-331fe80b136f9f78135a2d252fbfd7bb] The strategies referred to in paragraph 6 may include screening for—
 
 - (a) certain radionuclides or individual radionuclide; or
 - (b) gross alpha activity or gross beta activity (where appropriate gross beta activity may be replaced by residual beta activity after subtraction of the K-40 activity concentration).
 
-#### 8. Screening for certain radionuclides, or screening for an individual radionuclide[^key-895e835351bbad7c40698ba8d726b5e8]
+#### 8. Screening for certain radionuclides, or screening for an individual radionuclide[^c-895e835351bbad7c40698ba8d726b5e8]
 
 If one of the activity concentrations exceeds 20% of the corresponding derived value or the tritium concentration exceeds its parametric value listed in Part 3 of Schedule 1 an analysis of additional radionuclides is required.
 
-**9.**[^key-82542bb6e8c241ec93a679c390d5591c] A local authority must, in deciding which radionuclides require to be measured for each supply, take into account all relevant information about likely sources of radioactivity.
+**9.**[^c-82542bb6e8c241ec93a679c390d5591c] A local authority must, in deciding which radionuclides require to be measured for each supply, take into account all relevant information about likely sources of radioactivity.
 
-#### 10. Screening strategies for gross alpha activity and gross beta activity[^key-685361a589e501ef4bcbc40fed7c02bb]
+#### 10. Screening strategies for gross alpha activity and gross beta activity[^c-685361a589e501ef4bcbc40fed7c02bb]
 
 Subject to paragraph 11 the recommended screening levels are—
 
 - (a) 0,1Bq/l for gross alpha activity; and
 - (b) 1,0Bq/l for gross beta activity.
 
-**11.**[^key-d2a7d637fd8ebe02292bc5446923c92d] If the gross alpha activity exceeds 0,1Bq/l or the gross beta activity exceeds 1,0Bq/l, analysis for specific radionuclides is required.
+**11.**[^c-d2a7d637fd8ebe02292bc5446923c92d] If the gross alpha activity exceeds 0,1Bq/l or the gross beta activity exceeds 1,0Bq/l, analysis for specific radionuclides is required.
 
-**12.**[^key-d09d1abe3564802fa317625da532df8b] The Welsh Ministers may set alternative screening levels for gross alpha activity and gross beta activity where it can be demonstrated by the local authority that the alternative levels are in compliance with an indicative dose of 0,1 mSv.
+**12.**[^c-d09d1abe3564802fa317625da532df8b] The Welsh Ministers may set alternative screening levels for gross alpha activity and gross beta activity where it can be demonstrated by the local authority that the alternative levels are in compliance with an indicative dose of 0,1 mSv.
 
-#### 13. Calculation of the indicative dose[^key-f686c9d4a1c6957aa98eae5e84d74d02]
+#### 13. Calculation of the indicative dose[^c-f686c9d4a1c6957aa98eae5e84d74d02]
 
 The indicative dose must be calculated from—
 
-- (a)[^key-2fefc463713db5b9defe0a67f3b511eb] the measured radionuclide concentrations and the dose coefficients referred to as “**standard values and relationships**” in Article 13, and recommended for the estimation of doses from internal exposure in the definition of “standard values and relationships” in Article 4(96), of Council Directive 2013/59/Euratom laying down basic safety standards for protection against the dangers arising from exposure to ionising radiation; or
+- (a)[^c-2fefc463713db5b9defe0a67f3b511eb] the measured radionuclide concentrations and the dose coefficients referred to as “**standard values and relationships**” in Article 13, and recommended for the estimation of doses from internal exposure in the definition of “standard values and relationships” in Article 4(96), of Council Directive 2013/59/Euratom laying down basic safety standards for protection against the dangers arising from exposure to ionising radiation; or
 - (b) more recent information recognised by the Welsh Ministers, on the basis of the annual intake of water (730 1 for adults).
 
-**14.**[^key-9b58d580d92f7d9134a09098b63ef687] Where the following formula is satisfied, it can be assumed that the indicative dose is less than the parametric value of 0,1 mSv and no further investigation is required—
+**14.**[^c-9b58d580d92f7d9134a09098b63ef687] Where the following formula is satisfied, it can be assumed that the indicative dose is less than the parametric value of 0,1 mSv and no further investigation is required—
 
 Derived concentrations for radioactivity in water intended for human consumption [^f01029]
 
@@ -1060,7 +1060,7 @@ Derived concentrations for radioactivity in water intended for human consumption
 </tbody>
 </table>
 
-#### 15. Performance characteristics and methods of analysis[^key-0837c2cefaba37fa18c80620f0180906]
+#### 15. Performance characteristics and methods of analysis[^c-0837c2cefaba37fa18c80620f0180906]
 
 For the following parameters and radionuclides, the method of analysis used must, as a minimum, be capable of measuring activity concentrations with a limit of detection specified below:
 
@@ -1099,7 +1099,7 @@ Note 5: This limit of detection applies only to initial screening for indicative
 
 Regulation 16
 
-### 1. Initial records[^key-e5b057147a3f975b63f7a1afad78bb13]
+### 1. Initial records[^c-e5b057147a3f975b63f7a1afad78bb13]
 
 (1) A local authority must record the number of private water supplies in its area, and for each supply must record—
 
@@ -1115,7 +1115,7 @@ Regulation 16
 
 (3) It must keep the record for at least 30 years.
 
-### 2. Additional records[^key-fc938bc79002f62892d6fbbeb80be81d]
+### 2. Additional records[^c-fc938bc79002f62892d6fbbeb80be81d]
 
 (1) For each supply referred to in paragraph 1(1), the local authority must record, within 28 days of each of the following taking place—
 
@@ -1138,7 +1138,7 @@ Regulation 16
 
 Regulation 23
 
-### 1. Fee[^key-79ecc312ddd2bda775800224687da753]
+### 1. Fee[^c-79ecc312ddd2bda775800224687da753]
 
 The local authority may charge a fee, payable on invoice, for the activities in the following table, and the fee is the reasonable cost of providing the service subject to the following maximum amounts.
 
@@ -1165,7 +1165,7 @@ The local authority may charge a fee, payable on invoice, for the activities in 
 
 [^f01030]
 
-### 2. Persons liable to pay[^key-0fbf0e97c676eff1d28517f32965d118]
+### 2. Persons liable to pay[^c-0fbf0e97c676eff1d28517f32965d118]
 
 (1) Any person requesting anything under these Regulations is liable for the cost.
 
@@ -1204,11 +1204,11 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00004]: Footnote: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56). The functions of the Secretary of State under section 67 were transferred to the National Assembly for Wales (“the Assembly”) (a) for the making of regulations concerning water supplied using the supply system of a water undertaker, in relation to the supply system of any water undertaker whose area is wholly or mainly in Wales and (b) for the making of regulations concerning water supplied other than using the supply system of a water undertaker, in relation to Wales, by article 2 of, and Schedule 1 to, the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)) (“the 1999 Order”); the functions of the Secretary of State under section 77 of that Act were transferred to the Assembly in relation to Wales by the same provisions of the 1999 Order; the functions of the Secretary of State under section 213 (as amended by paragraph 28 of Schedule 1 to the Competition and Service (Utilities) Act [1992 (c. 43)](https://www.legislation.gov.uk/ukpga/1992/43), by section 36(2) of, and paragraph 49(3) of Schedule 8 to, the Water Act [2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37) and by section 56 of, and paragraph 119(4) of Schedule 7 to, the Water Act [2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21))) of that Act were exercisable by the Assembly to the same extent as the powers to which that section applies were made exercisable by the Assembly by virtue of the same provision of the 1999 Order: *see* the entry in Schedule 1 to the 1999 Order for the Act as substituted by paragraph (e) of Schedule 3 to the National Assembly for Wales (Transfer of Functions) Order 2000 ([S.I. 2000/253](https://www.legislation.gov.uk/uksi/2000/253)) and amended by section 100(2) of the Water Act [2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37); there are other amending instruments but none are relevant. References in Schedule 1 to the 1999 Order to specific sections of the Act are treated by section 100(6) of the Water Act 2003 as referring to those sections as amended by the Water Act 2003. *See* section 219(4A) of the Act as inserted by section 101(1) of, and paragraphs 2 and 50 of Schedule 8 to, the Water Act 2003 for the definition of “supply system”. By virtue of section 162 of, and paragraph 30 of Schedule 11 to, the Government of Wales Act 2006, the functions conferred on the Assembly are now exercisable by the Welsh Ministers.
 
-[^key-0ca86af48c0822e72c2aa5add86638b9]: Commencement: Reg. 1 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
+[^c-0ca86af48c0822e72c2aa5add86638b9]: Commencement: Reg. 1 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
 
-[^key-0f0199f03700f02444c02c02ac71f672]: Commencement: Reg. 2 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
+[^c-0f0199f03700f02444c02c02ac71f672]: Commencement: Reg. 2 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
 
-[^key-5eeeb4d3282c858a4575284d3bc3e609]: Textual amendment: Reg. 2 renumbered as reg. 2(1) (31.12.2020) by [The Flood and Water (Amendments) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/460)](https://www.legislation.gov.uk/uksi/2019/460), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/460/regulation/1/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2019/460/regulation/6/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5eeeb4d3282c858a4575284d3bc3e609]: Textual amendment: Reg. 2 renumbered as reg. 2(1) (31.12.2020) by [The Flood and Water (Amendments) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/460)](https://www.legislation.gov.uk/uksi/2019/460), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/460/regulation/1/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2019/460/regulation/6/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00005]: Footnote: [S.I. 2010/66 (W. 16)](https://www.legislation.gov.uk/wsi/2010/66), as amended by [S.I. 2010/147 (W. 22)](https://www.legislation.gov.uk/wsi/2010/147), [S.I. 2010/1384 (W. 123)](https://www.legislation.gov.uk/wsi/2010/1384), [S.I. 2013/235](https://www.legislation.gov.uk/uksi/2013/235), [S.I. 2015/1867 (W. 274)](https://www.legislation.gov.uk/wsi/2015/1867), [S.I. 2016/411 (W. 129)](https://www.legislation.gov.uk/wsi/2016/411), and [S.I. 2017/506](https://www.legislation.gov.uk/uksi/2017/506).
 
@@ -1220,9 +1220,9 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00009]: Footnote: *See* section 17A of the Act for the meaning of “water supply licensee”. Section 17A was substituted by section 1(1) of the Water Act [2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21).
 
-[^key-5c7f72156fe8217a5f725eda86552939]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/wsi/2017/1041/regulation/2/2) inserted (31.12.2020) by [The Flood and Water (Amendments) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/460)](https://www.legislation.gov.uk/wsi/2019/460), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/460/regulation/1/1), [6(2)(b)](https://www.legislation.gov.uk/wsi/2019/460/regulation/6/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5c7f72156fe8217a5f725eda86552939]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/wsi/2017/1041/regulation/2/2) inserted (31.12.2020) by [The Flood and Water (Amendments) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/460)](https://www.legislation.gov.uk/wsi/2019/460), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/460/regulation/1/1), [6(2)(b)](https://www.legislation.gov.uk/wsi/2019/460/regulation/6/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2ae88765a585e2a2e3e62d4d2899a739]: Commencement: Reg. 3 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
+[^c-2ae88765a585e2a2e3e62d4d2899a739]: Commencement: Reg. 3 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
 
 [^f00010]: Footnote: OJ No. L 139, 30.4.2004, p. 1 as last amended by Regulation [(EC) No. 219/2009](https://www.legislation.gov.uk/european/regulation/2009/0219) (OJ No. L 87, 31.3.2009, p. 109).
 
@@ -1232,63 +1232,63 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00013]: Footnote: [1968 c. 67](https://www.legislation.gov.uk/ukpga/1968/67).
 
-[^key-23f22a1fe9f2b0f52cdbca2361093dff]: Commencement: Reg. 4 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
+[^c-23f22a1fe9f2b0f52cdbca2361093dff]: Commencement: Reg. 4 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
 
-[^key-35dd54f6d9e4e1822063641251a79787]: Commencement: Reg. 5 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
+[^c-35dd54f6d9e4e1822063641251a79787]: Commencement: Reg. 5 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
 
-[^key-93912b13d0ff6e541eb6bc3300b05fea]: Commencement: Reg. 6 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
+[^c-93912b13d0ff6e541eb6bc3300b05fea]: Commencement: Reg. 6 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
 
 [^f00014]: Footnote: *See* section 219 of the Act (as amended by paragraph 2(2) of Schedule 11 to the Local Government (Wales) Act [1994 (c. 19)](https://www.legislation.gov.uk/ukpga/1994/19)) for the meaning of “local authority”.
 
 [^f00015]: Footnote: EN 15975-2.
 
-[^key-ff3fcd3c6fa43cd23531f442efd18035]: Textual amendment: Words in [reg. 6(4)(c)](https://www.legislation.gov.uk/wsi/2017/1041/regulation/6/4/c) inserted (28.3.2019) by [The Rural Affairs, Environment, Fisheries and Food (Miscellaneous Amendments and Revocations) (Wales) Regulations 2019 (S.I. 2019/463)](https://www.legislation.gov.uk/wsi/2019/463), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3), [29(2)](https://www.legislation.gov.uk/wsi/2019/463/regulation/29/2)
+[^c-ff3fcd3c6fa43cd23531f442efd18035]: Textual amendment: Words in [reg. 6(4)(c)](https://www.legislation.gov.uk/wsi/2017/1041/regulation/6/4/c) inserted (28.3.2019) by [The Rural Affairs, Environment, Fisheries and Food (Miscellaneous Amendments and Revocations) (Wales) Regulations 2019 (S.I. 2019/463)](https://www.legislation.gov.uk/wsi/2019/463), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3), [29(2)](https://www.legislation.gov.uk/wsi/2019/463/regulation/29/2)
 
 [^f00016]: Footnote: OJ No. L 327, 22.12.2000, p. 1, as last amended by Commission [Directive 2014/101/EU](https://www.legislation.gov.uk/european/directive/2014/0101) (OJ No. L 311, 31.10.2014, p. 32).
 
-[^key-ca57b2eb5f54ef1927863a56bf3f8a46]: Textual amendment: [Reg. 6(6)](https://www.legislation.gov.uk/wsi/2017/1041/regulation/6/6) inserted (31.12.2020) by [The Flood and Water (Amendments) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/460)](https://www.legislation.gov.uk/wsi/2019/460), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/460/regulation/1/1), [6(3)](https://www.legislation.gov.uk/wsi/2019/460/regulation/6/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ca57b2eb5f54ef1927863a56bf3f8a46]: Textual amendment: [Reg. 6(6)](https://www.legislation.gov.uk/wsi/2017/1041/regulation/6/6) inserted (31.12.2020) by [The Flood and Water (Amendments) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/460)](https://www.legislation.gov.uk/wsi/2019/460), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/460/regulation/1/1), [6(3)](https://www.legislation.gov.uk/wsi/2019/460/regulation/6/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3db835307b6dd82d386a4e32119276ce]: Commencement: Reg. 7 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
+[^c-3db835307b6dd82d386a4e32119276ce]: Commencement: Reg. 7 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
 
-[^key-612c662240ec8dde95466b168ae75627]: Commencement: Reg. 8 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
+[^c-612c662240ec8dde95466b168ae75627]: Commencement: Reg. 8 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
 
-[^key-daa78aa56864722da8637375ffd3bb46]: Commencement: Reg. 9 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
+[^c-daa78aa56864722da8637375ffd3bb46]: Commencement: Reg. 9 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
 
-[^key-e0be3a18f4e64d1db0f2bcd1bf95cf4a]: Commencement: Reg. 10 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
+[^c-e0be3a18f4e64d1db0f2bcd1bf95cf4a]: Commencement: Reg. 10 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
 
-[^key-7efd139b0c93063527a664b14d91628d]: Commencement: Reg. 11 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
+[^c-7efd139b0c93063527a664b14d91628d]: Commencement: Reg. 11 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
 
-[^key-6b7173a67fe724b2f5d9adf64d77d341]: Commencement: Reg. 12 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
+[^c-6b7173a67fe724b2f5d9adf64d77d341]: Commencement: Reg. 12 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
 
-[^key-0d45cb8b81f0c2635ee5967f4cbe86e5]: Textual amendment: [Reg. 12(6)](https://www.legislation.gov.uk/wsi/2017/1041/regulation/12/6) substituted (31.12.2020) by [The Flood and Water (Amendments) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/460)](https://www.legislation.gov.uk/wsi/2019/460), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/460/regulation/1/1), [6(4)](https://www.legislation.gov.uk/wsi/2019/460/regulation/6/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0d45cb8b81f0c2635ee5967f4cbe86e5]: Textual amendment: [Reg. 12(6)](https://www.legislation.gov.uk/wsi/2017/1041/regulation/12/6) substituted (31.12.2020) by [The Flood and Water (Amendments) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/460)](https://www.legislation.gov.uk/wsi/2019/460), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/460/regulation/1/1), [6(4)](https://www.legislation.gov.uk/wsi/2019/460/regulation/6/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0f1684e2fcaca4032b528382f91efaab]: Commencement: Reg. 13 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
+[^c-0f1684e2fcaca4032b528382f91efaab]: Commencement: Reg. 13 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
 
-[^key-aec0194de1485a58d61d2af58e11534a]: Commencement: Reg. 14 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
+[^c-aec0194de1485a58d61d2af58e11534a]: Commencement: Reg. 14 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
 
-[^key-daaf5667b7cdd47df4144d3e73104ec7]: Commencement: Reg. 15 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
+[^c-daaf5667b7cdd47df4144d3e73104ec7]: Commencement: Reg. 15 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
 
-[^key-d77e696e01d5379db0b98d0c483fabc6]: Commencement: Reg. 16 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
+[^c-d77e696e01d5379db0b98d0c483fabc6]: Commencement: Reg. 16 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
 
-[^key-f82064badb06894b3c032262708972f8]: Commencement: Reg. 17 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
+[^c-f82064badb06894b3c032262708972f8]: Commencement: Reg. 17 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
 
-[^key-8efc58d62277428c598aa3179360a1cd]: Commencement: Reg. 18 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
+[^c-8efc58d62277428c598aa3179360a1cd]: Commencement: Reg. 18 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
 
-[^key-5e9f5a67702e7b7a0293c9d67951a2be]: Commencement: Reg. 19 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
+[^c-5e9f5a67702e7b7a0293c9d67951a2be]: Commencement: Reg. 19 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
 
-[^key-c1893bf43a60cb5119b090aaee6150b3]: Commencement: Reg. 20 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
+[^c-c1893bf43a60cb5119b090aaee6150b3]: Commencement: Reg. 20 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
 
-[^key-f46e02af86e7cf88ee1bab00a5de1cc0]: Commencement: Reg. 21 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
+[^c-f46e02af86e7cf88ee1bab00a5de1cc0]: Commencement: Reg. 21 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
 
 [^f00017]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
 
-[^key-1604cac3e6ba76dd92611d083bbefee0]: Commencement: Reg. 22 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
+[^c-1604cac3e6ba76dd92611d083bbefee0]: Commencement: Reg. 22 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
 
-[^key-2737d930b2eec1a6e72651fa441ed1c9]: Commencement: Reg. 23 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
+[^c-2737d930b2eec1a6e72651fa441ed1c9]: Commencement: Reg. 23 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
 
-[^key-703532e2ba603bd411ce2785cc4d2882]: Textual amendment: [Reg. 23A](https://www.legislation.gov.uk/wsi/2017/1041/regulation/23A) inserted (31.12.2020) by [The Flood and Water (Amendments) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/460)](https://www.legislation.gov.uk/wsi/2019/460), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/460/regulation/1/1), [6(5)](https://www.legislation.gov.uk/wsi/2019/460/regulation/6/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-703532e2ba603bd411ce2785cc4d2882]: Textual amendment: [Reg. 23A](https://www.legislation.gov.uk/wsi/2017/1041/regulation/23A) inserted (31.12.2020) by [The Flood and Water (Amendments) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/460)](https://www.legislation.gov.uk/wsi/2019/460), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/460/regulation/1/1), [6(5)](https://www.legislation.gov.uk/wsi/2019/460/regulation/6/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d39ef05d5f35b95c6e4e0a9a54095367]: Commencement: Reg. 24 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
+[^c-d39ef05d5f35b95c6e4e0a9a54095367]: Commencement: Reg. 24 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
 
 [^f00018]: Footnote: [S.I. 2010/147 (W. 22)](https://www.legislation.gov.uk/wsi/2010/147).
 
@@ -1298,11 +1298,11 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00021]: Footnote: [S.I. 2013/235](https://www.legislation.gov.uk/uksi/2013/235).
 
-[^key-a1ed29de348b34729d9bd86190183ca6]: Textual amendment: [Reg. 25](https://www.legislation.gov.uk/wsi/2017/1041/regulation/25) revoked (15.6.2018) by [The Water Supply (Water Quality) Regulations 2018 (S.I. 2018/647)](https://www.legislation.gov.uk/wsi/2018/647), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2018/647/regulation/1/1), [Sch. 6](https://www.legislation.gov.uk/wsi/2018/647/schedule/6)
+[^c-a1ed29de348b34729d9bd86190183ca6]: Textual amendment: [Reg. 25](https://www.legislation.gov.uk/wsi/2017/1041/regulation/25) revoked (15.6.2018) by [The Water Supply (Water Quality) Regulations 2018 (S.I. 2018/647)](https://www.legislation.gov.uk/wsi/2018/647), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2018/647/regulation/1/1), [Sch. 6](https://www.legislation.gov.uk/wsi/2018/647/schedule/6)
 
-[^key-c9e0baea1c61bd23c09df81ca90adb47]: Commencement: Reg. 26 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
+[^c-c9e0baea1c61bd23c09df81ca90adb47]: Commencement: Reg. 26 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
 
-[^key-1968bc1a484714695a6fe232c5e01247]: Commencement: Sch. 1 Pt. 1 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
+[^c-1968bc1a484714695a6fe232c5e01247]: Commencement: Sch. 1 Pt. 1 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
 
 [^f01000]: Footnote: (1)
 
@@ -1370,7 +1370,7 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
     The parametric value applies to the sum of the concentrations of the individual compounds detected and quantified in the monitoring process.
 
-[^key-d4177ccb6daac385f3513597426af77b]: Commencement: Sch. 1 Pt. 2 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
+[^c-d4177ccb6daac385f3513597426af77b]: Commencement: Sch. 1 Pt. 2 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
 
 [^f01009]: Footnote: (1)
 
@@ -1380,7 +1380,7 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
     Only in the case of surface water or groundwater that has been influenced by surface water.
 
-[^key-12b410853be26f8710c3164a8d4b3dd5]: Commencement: Sch. 1 Pt. 3 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
+[^c-12b410853be26f8710c3164a8d4b3dd5]: Commencement: Sch. 1 Pt. 3 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
 
 [^f01011]: Footnote: (1)
 
@@ -1390,43 +1390,43 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
     If tritium concentration exceeds its parametric value, an investigation (which may include analysis) of the presence of artificial radionuclides must be carried out.
 
-[^key-85feaca675599f7b4a77df09c5b40c7c]: Commencement: Sch. 2 para. 1 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
+[^c-85feaca675599f7b4a77df09c5b40c7c]: Commencement: Sch. 2 para. 1 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
 
-[^key-04b101c31e8b5b09f9fca9de6ede41ba]: Commencement: Sch. 2 para. 2 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
+[^c-04b101c31e8b5b09f9fca9de6ede41ba]: Commencement: Sch. 2 para. 2 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
 
-[^key-c3471324d048d8e30c85b18ea3714c26]: Commencement: Sch. 2 para. 3 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
+[^c-c3471324d048d8e30c85b18ea3714c26]: Commencement: Sch. 2 para. 3 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
 
-[^key-33f64b83cf26437d9cfde0cc164d58a2]: Commencement: Sch. 2 para. 4 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
+[^c-33f64b83cf26437d9cfde0cc164d58a2]: Commencement: Sch. 2 para. 4 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
 
-[^key-91cab939eeaa487259f7a28f79bb33ea]: Commencement: Sch. 2 Pt. 3 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
+[^c-91cab939eeaa487259f7a28f79bb33ea]: Commencement: Sch. 2 Pt. 3 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
 
-[^key-5423d7f8431f9721d85923a48457dbfe]: Commencement: Sch. 2 para. 5 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
+[^c-5423d7f8431f9721d85923a48457dbfe]: Commencement: Sch. 2 para. 5 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
 
-[^key-6957ea3250548053ec58637c66a4e2d3]: Commencement: Sch. 2 para. 6 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
+[^c-6957ea3250548053ec58637c66a4e2d3]: Commencement: Sch. 2 para. 6 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
 
-[^key-08ba970f342670b6d9886b426889a45b]: Commencement: Sch. 3 para. 1 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
+[^c-08ba970f342670b6d9886b426889a45b]: Commencement: Sch. 3 para. 1 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
 
-[^key-41f0d052e06ceeb42f3199e15431930f]: Commencement: Sch. 3 para. 2 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
+[^c-41f0d052e06ceeb42f3199e15431930f]: Commencement: Sch. 3 para. 2 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
 
-[^key-5ef3484c20192289efaa9070a3d1fa42]: Commencement: Sch. 3 para. 3 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
+[^c-5ef3484c20192289efaa9070a3d1fa42]: Commencement: Sch. 3 para. 3 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
 
-[^key-23a52ddfd2d0ed1f92cbc58ed37d1630]: Commencement: Sch. 3 para. 4 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
+[^c-23a52ddfd2d0ed1f92cbc58ed37d1630]: Commencement: Sch. 3 para. 4 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
 
-[^key-73eec0cb349750e3b8c2a3b3db36c7ef]: Commencement: Sch. 3 para. 5 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
+[^c-73eec0cb349750e3b8c2a3b3db36c7ef]: Commencement: Sch. 3 para. 5 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
 
-[^key-13e2c5c5f528fc6ab1099f358132bc26]: Commencement: Sch. 4 para. 1 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
+[^c-13e2c5c5f528fc6ab1099f358132bc26]: Commencement: Sch. 4 para. 1 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
 
 [^f00023]: Footnote: *See* [S.I. 2009/3155](https://www.legislation.gov.uk/uksi/2009/3155) for the appointment of the United Kingdom Accreditation Service as the national accreditation body.
 
-[^key-eb7804ab0e05507ce4e05cfbdab53818]: Commencement: Sch. 4 para. 2 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
+[^c-eb7804ab0e05507ce4e05cfbdab53818]: Commencement: Sch. 4 para. 2 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
 
-[^key-51692e81edb07fa2d106b26d3d6a14ac]: Commencement: Sch. 4 para. 3 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
+[^c-51692e81edb07fa2d106b26d3d6a14ac]: Commencement: Sch. 4 para. 3 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
 
-[^key-3788d90f7b0ff6a6d17859c7cff98427]: Commencement: Sch. 4 para. 4 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
+[^c-3788d90f7b0ff6a6d17859c7cff98427]: Commencement: Sch. 4 para. 4 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
 
-[^key-307441d150ce776fb7899240fc752e38]: Commencement: Sch. 4 para. 5 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
+[^c-307441d150ce776fb7899240fc752e38]: Commencement: Sch. 4 para. 5 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
 
-[^key-e45f5ffced056ed9235de75d87092758]: Commencement: Sch. 4 Pt. 2 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
+[^c-e45f5ffced056ed9235de75d87092758]: Commencement: Sch. 4 Pt. 2 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
 
 [^f01013]: Footnote: (1)
 
@@ -1492,40 +1492,40 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
     The uncertainty of measurement must be estimated at the level of 1,0 NTU in accordance with EN ISO 7027.
 
-[^key-303a6da9ce5b942400962eb5d2ce2d01]: Commencement: Sch. 4 para. 6 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
+[^c-303a6da9ce5b942400962eb5d2ce2d01]: Commencement: Sch. 4 para. 6 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
 
-[^key-331fe80b136f9f78135a2d252fbfd7bb]: Commencement: Sch. 4 para. 7 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
+[^c-331fe80b136f9f78135a2d252fbfd7bb]: Commencement: Sch. 4 para. 7 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
 
-[^key-895e835351bbad7c40698ba8d726b5e8]: Commencement: Sch. 4 para. 8 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
+[^c-895e835351bbad7c40698ba8d726b5e8]: Commencement: Sch. 4 para. 8 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
 
-[^key-82542bb6e8c241ec93a679c390d5591c]: Commencement: Sch. 4 para. 9 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
+[^c-82542bb6e8c241ec93a679c390d5591c]: Commencement: Sch. 4 para. 9 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
 
-[^key-685361a589e501ef4bcbc40fed7c02bb]: Commencement: Sch. 4 para. 10 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
+[^c-685361a589e501ef4bcbc40fed7c02bb]: Commencement: Sch. 4 para. 10 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
 
-[^key-d2a7d637fd8ebe02292bc5446923c92d]: Commencement: Sch. 4 para. 11 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
+[^c-d2a7d637fd8ebe02292bc5446923c92d]: Commencement: Sch. 4 para. 11 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
 
-[^key-d09d1abe3564802fa317625da532df8b]: Commencement: Sch. 4 para. 12 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
+[^c-d09d1abe3564802fa317625da532df8b]: Commencement: Sch. 4 para. 12 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
 
-[^key-f686c9d4a1c6957aa98eae5e84d74d02]: Commencement: Sch. 4 para. 13 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
+[^c-f686c9d4a1c6957aa98eae5e84d74d02]: Commencement: Sch. 4 para. 13 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
 
-[^key-2fefc463713db5b9defe0a67f3b511eb]: Textual amendment: [Sch. 4 para. 13(a)](https://www.legislation.gov.uk/wsi/2017/1041/schedule/4/paragraph/13/a) substituted (28.3.2019) by [The Rural Affairs, Environment, Fisheries and Food (Miscellaneous Amendments and Revocations) (Wales) Regulations 2019 (S.I. 2019/463)](https://www.legislation.gov.uk/wsi/2019/463), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3), [29(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/29/3)
+[^c-2fefc463713db5b9defe0a67f3b511eb]: Textual amendment: [Sch. 4 para. 13(a)](https://www.legislation.gov.uk/wsi/2017/1041/schedule/4/paragraph/13/a) substituted (28.3.2019) by [The Rural Affairs, Environment, Fisheries and Food (Miscellaneous Amendments and Revocations) (Wales) Regulations 2019 (S.I. 2019/463)](https://www.legislation.gov.uk/wsi/2019/463), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3), [29(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/29/3)
 
-[^key-9b58d580d92f7d9134a09098b63ef687]: Commencement: Sch. 4 para. 14 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
+[^c-9b58d580d92f7d9134a09098b63ef687]: Commencement: Sch. 4 para. 14 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
 
 [^f01029]: Footnote: (1)
 
     This table allows only for the radiological properties of uranium, not for its chemical toxicity.
 
-[^key-0837c2cefaba37fa18c80620f0180906]: Commencement: Sch. 4 para. 15 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
+[^c-0837c2cefaba37fa18c80620f0180906]: Commencement: Sch. 4 para. 15 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
 
-[^key-e5b057147a3f975b63f7a1afad78bb13]: Commencement: Sch. 5 para. 1 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
+[^c-e5b057147a3f975b63f7a1afad78bb13]: Commencement: Sch. 5 para. 1 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
 
-[^key-fc938bc79002f62892d6fbbeb80be81d]: Commencement: Sch. 5 para. 2 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
+[^c-fc938bc79002f62892d6fbbeb80be81d]: Commencement: Sch. 5 para. 2 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
 
-[^key-79ecc312ddd2bda775800224687da753]: Commencement: Sch. 6 para. 1 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
+[^c-79ecc312ddd2bda775800224687da753]: Commencement: Sch. 6 para. 1 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
 
 [^f01030]: Footnote: (1)
 
     No fee is payable where a sample is taken and analysed solely to confirm or clarify the results of the analysis of a previous sample.
 
-[^key-0fbf0e97c676eff1d28517f32965d118]: Commencement: Sch. 6 para. 2 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)
+[^c-0fbf0e97c676eff1d28517f32965d118]: Commencement: Sch. 6 para. 2 in force at 20.11.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/1041/regulation/1)

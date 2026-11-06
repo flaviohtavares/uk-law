@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 89. Inalienability of occupational pension[^key-a72cd485651c4ac36754808024d0b98f][^key-ec20bd7b10aff5649141c3801fb23af4][^key-c8b41958dfc93ba05293fba114d57a5e]
+## 89. Inalienability of occupational pension[^c-a72cd485651c4ac36754808024d0b98f][^c-ec20bd7b10aff5649141c3801fb23af4][^c-c8b41958dfc93ba05293fba114d57a5e]
 
 *Extent: N.I.*
 
@@ -58,9 +58,9 @@ and an agreement to effect any of those things is unenforceable.
 - (a) its amount must not exceed the amount of the monetary obligation in question, or (if less) the value (determined in the prescribed manner) of the person in question's entitlement or accrued right, and
 - (b) the person in question must be given a certificate showing the amount of the charge, lien or set-off and its effect on his benefits under the scheme,
 
-and where a dispute has arisen as to the amount of the monetary obligation in question[^key-75583f00f05b6397f7df92d2a56c5e4c], the charge, lien or set-off must not be exercised unless one of the following conditions is met.[^key-4e94d8ff7be7bf2abb50103b9e7b512c]
+and where a dispute has arisen as to the amount of the monetary obligation in question[^c-75583f00f05b6397f7df92d2a56c5e4c], the charge, lien or set-off must not be exercised unless one of the following conditions is met.[^c-4e94d8ff7be7bf2abb50103b9e7b512c]
 
-(6A)[^key-37624dc148c620013ea2f8f2e70c57f8] The conditions mentioned in paragraph (6) are—
+(6A)[^c-37624dc148c620013ea2f8f2e70c57f8] The conditions mentioned in paragraph (6) are—
 
 - (a) that the dispute has been resolved by the parties to it;
 - (b) that the Pensions Ombudsman has made a determination under [Part 10](https://www.legislation.gov.uk/ukpga/1993/49/part/10) of the [Pension Schemes (Northern Ireland) Act 1993](https://www.legislation.gov.uk/ukpga/1993/49/contents) or [Part 10](https://www.legislation.gov.uk/ukpga/1993/48/part/10) of the [Pension Schemes Act 1993](https://www.legislation.gov.uk/ukpga/1993/48/contents) (investigations) as to the amount of the monetary obligation in question;
@@ -68,15 +68,15 @@ and where a dispute has arisen as to the amount of the monetary obligation in qu
   - (i) under an order of a competent court, or
   - (ii) in consequence of an award of an arbitrator.
 
-(7) This Article is subject to section 155 of the Pension Schemes Act (inalienability of guaranteed minimum pension [^key-2033db23435ebf2eb639de0b67cf2e66]...).
+(7) This Article is subject to section 155 of the Pension Schemes Act (inalienability of guaranteed minimum pension [^c-2033db23435ebf2eb639de0b67cf2e66]...).
 
 ## Annotations
 
-[^key-a72cd485651c4ac36754808024d0b98f]: Modification: Art. 89 applied (1.4.2015) by [The Teachers Pension Scheme Regulations (Northern Ireland) 2014 (S.R. 2014/310)](https://www.legislation.gov.uk/nisr/2014/310), [regs. 1](https://www.legislation.gov.uk/nisr/2014/310/regulation/1), [180(2)](https://www.legislation.gov.uk/nisr/2014/310/regulation/180/2)
+[^c-a72cd485651c4ac36754808024d0b98f]: Modification: Art. 89 applied (1.4.2015) by [The Teachers Pension Scheme Regulations (Northern Ireland) 2014 (S.R. 2014/310)](https://www.legislation.gov.uk/nisr/2014/310), [regs. 1](https://www.legislation.gov.uk/nisr/2014/310/regulation/1), [180(2)](https://www.legislation.gov.uk/nisr/2014/310/regulation/180/2)
 
-[^key-ec20bd7b10aff5649141c3801fb23af4]: Modification: Art. 89 excluded (1.4.2015) by [The Teachers Pension Scheme Regulations (Northern Ireland) 2014 (S.R. 2014/310)](https://www.legislation.gov.uk/nisr/2014/310), [regs. 1](https://www.legislation.gov.uk/nisr/2014/310/regulation/1), [195(2)](https://www.legislation.gov.uk/nisr/2014/310/regulation/195/2)
+[^c-ec20bd7b10aff5649141c3801fb23af4]: Modification: Art. 89 excluded (1.4.2015) by [The Teachers Pension Scheme Regulations (Northern Ireland) 2014 (S.R. 2014/310)](https://www.legislation.gov.uk/nisr/2014/310), [regs. 1](https://www.legislation.gov.uk/nisr/2014/310/regulation/1), [195(2)](https://www.legislation.gov.uk/nisr/2014/310/regulation/195/2)
 
-[^key-c8b41958dfc93ba05293fba114d57a5e]: Modification: [Art. 89](https://www.legislation.gov.uk/nisi/1995/3213/article/89) restricted (10.3.2022 for specified purposes, 1.4.2022 in so far as not already in force) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [ss. 105(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/105/1)[(2)](https://www.legislation.gov.uk/ukpga/2022/7/section/105/2), [131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(2)(f)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/f)
+[^c-c8b41958dfc93ba05293fba114d57a5e]: Modification: [Art. 89](https://www.legislation.gov.uk/nisi/1995/3213/article/89) restricted (10.3.2022 for specified purposes, 1.4.2022 in so far as not already in force) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [ss. 105(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/105/1)[(2)](https://www.legislation.gov.uk/ukpga/2022/7/section/105/2), [131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(2)(f)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/f)
 
 [^c17252151]: Textual amendment: [1999 NI 11](https://www.legislation.gov.uk/nisi/1999)
 
@@ -88,10 +88,10 @@ and where a dispute has arisen as to the amount of the monetary obligation in qu
 
 [^c17252331]: Textual amendment: [2005 NI 1](https://www.legislation.gov.uk/nisi/2005)
 
-[^key-75583f00f05b6397f7df92d2a56c5e4c]: Textual amendment: Words in [art. 89(6)](https://www.legislation.gov.uk/nisi/1995/3213/article/89/6) substituted (29.6.2026) by [Pension Schemes Act 2026 (c. 22)](https://www.legislation.gov.uk/ukpga/2026/22), [ss. 121(5)(a)(i)](https://www.legislation.gov.uk/ukpga/2026/22/section/121/5/a/i), [133(11)(a)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/11/a)
+[^c-75583f00f05b6397f7df92d2a56c5e4c]: Textual amendment: Words in [art. 89(6)](https://www.legislation.gov.uk/nisi/1995/3213/article/89/6) substituted (29.6.2026) by [Pension Schemes Act 2026 (c. 22)](https://www.legislation.gov.uk/ukpga/2026/22), [ss. 121(5)(a)(i)](https://www.legislation.gov.uk/ukpga/2026/22/section/121/5/a/i), [133(11)(a)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/11/a)
 
-[^key-4e94d8ff7be7bf2abb50103b9e7b512c]: Textual amendment: Words in [art. 89(6)](https://www.legislation.gov.uk/nisi/1995/3213/article/89/6) substituted (29.6.2026) by [Pension Schemes Act 2026 (c. 22)](https://www.legislation.gov.uk/ukpga/2026/22), [ss. 121(5)(a)(ii)](https://www.legislation.gov.uk/ukpga/2026/22/section/121/5/a/ii), [133(11)(a)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/11/a)
+[^c-4e94d8ff7be7bf2abb50103b9e7b512c]: Textual amendment: Words in [art. 89(6)](https://www.legislation.gov.uk/nisi/1995/3213/article/89/6) substituted (29.6.2026) by [Pension Schemes Act 2026 (c. 22)](https://www.legislation.gov.uk/ukpga/2026/22), [ss. 121(5)(a)(ii)](https://www.legislation.gov.uk/ukpga/2026/22/section/121/5/a/ii), [133(11)(a)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/11/a)
 
-[^key-37624dc148c620013ea2f8f2e70c57f8]: Textual amendment: [Art. 89(6A)](https://www.legislation.gov.uk/nisi/1995/3213/article/89/6A) inserted (29.6.2026) by [Pension Schemes Act 2026 (c. 22)](https://www.legislation.gov.uk/ukpga/2026/22), [ss. 121(5)(b)](https://www.legislation.gov.uk/ukpga/2026/22/section/121/5/b), [133(11)(a)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/11/a)
+[^c-37624dc148c620013ea2f8f2e70c57f8]: Textual amendment: [Art. 89(6A)](https://www.legislation.gov.uk/nisi/1995/3213/article/89/6A) inserted (29.6.2026) by [Pension Schemes Act 2026 (c. 22)](https://www.legislation.gov.uk/ukpga/2026/22), [ss. 121(5)(b)](https://www.legislation.gov.uk/ukpga/2026/22/section/121/5/b), [133(11)(a)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/11/a)
 
-[^key-2033db23435ebf2eb639de0b67cf2e66]: Textual amendment: Words in art. 89(7) omitted (6.4.2012) by virtue of [The Pensions (2008 No. 2 Act) (Abolition of Protected Rights) (Consequential Provisions) Order (Northern Ireland) 2012 (S.R. 2012/124)](https://www.legislation.gov.uk/nisr/2012/124), [arts. 1(b)](https://www.legislation.gov.uk/nisr/2012/124/article/1/b), [5(3)](https://www.legislation.gov.uk/nisr/2012/124/article/5/3)
+[^c-2033db23435ebf2eb639de0b67cf2e66]: Textual amendment: Words in art. 89(7) omitted (6.4.2012) by virtue of [The Pensions (2008 No. 2 Act) (Abolition of Protected Rights) (Consequential Provisions) Order (Northern Ireland) 2012 (S.R. 2012/124)](https://www.legislation.gov.uk/nisr/2012/124), [arts. 1(b)](https://www.legislation.gov.uk/nisr/2012/124/article/1/b), [5(3)](https://www.legislation.gov.uk/nisr/2012/124/article/5/3)

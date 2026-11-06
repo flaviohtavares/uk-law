@@ -384,7 +384,7 @@ Section 140
 
 sub-paragraph (1) has effect in accordance with the provision made by the following paragraphs for the taking effect of the substitution or insertion.
 
-**3.** (1)[^key-0fab379a6482fa11e4964e68f89edf4f] For Chapter 2 of Part 7 substitute—
+**3.** (1)[^c-0fab379a6482fa11e4964e68f89edf4f] For Chapter 2 of Part 7 substitute—
 
 > **Chapter 2 — Restricted securities**
 >
@@ -2631,38 +2631,38 @@ for the words after “479” substitute “ of ITEPA 2003 in respect of which a
 
 **58.** In section 5(2)(c) (interpretation), for “483(1)” substitute “ 477(6) ”.
 
-**59.**[^key-de215e3311ae97f3fc4ce2b39af62bbf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**59.**[^c-de215e3311ae97f3fc4ce2b39af62bbf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**60.**[^key-de215e3311ae97f3fc4ce2b39af62bbf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**60.**[^c-de215e3311ae97f3fc4ce2b39af62bbf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**61.**[^key-de215e3311ae97f3fc4ce2b39af62bbf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**61.**[^c-de215e3311ae97f3fc4ce2b39af62bbf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**62.**[^key-de215e3311ae97f3fc4ce2b39af62bbf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**62.**[^c-de215e3311ae97f3fc4ce2b39af62bbf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**63.**[^key-de215e3311ae97f3fc4ce2b39af62bbf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**63.**[^c-de215e3311ae97f3fc4ce2b39af62bbf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**64.**[^key-de215e3311ae97f3fc4ce2b39af62bbf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**64.**[^c-de215e3311ae97f3fc4ce2b39af62bbf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**65.**[^key-de215e3311ae97f3fc4ce2b39af62bbf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**65.**[^c-de215e3311ae97f3fc4ce2b39af62bbf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**66.**[^key-de215e3311ae97f3fc4ce2b39af62bbf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**66.**[^c-de215e3311ae97f3fc4ce2b39af62bbf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**67.**[^key-de215e3311ae97f3fc4ce2b39af62bbf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**67.**[^c-de215e3311ae97f3fc4ce2b39af62bbf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**68.**[^key-de215e3311ae97f3fc4ce2b39af62bbf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**68.**[^c-de215e3311ae97f3fc4ce2b39af62bbf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**69.**[^key-de215e3311ae97f3fc4ce2b39af62bbf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**69.**[^c-de215e3311ae97f3fc4ce2b39af62bbf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**70.**[^key-de215e3311ae97f3fc4ce2b39af62bbf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**70.**[^c-de215e3311ae97f3fc4ce2b39af62bbf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**71.**[^key-de215e3311ae97f3fc4ce2b39af62bbf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**71.**[^c-de215e3311ae97f3fc4ce2b39af62bbf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**72.**[^key-de215e3311ae97f3fc4ce2b39af62bbf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**72.**[^c-de215e3311ae97f3fc4ce2b39af62bbf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**73.**[^key-de215e3311ae97f3fc4ce2b39af62bbf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**73.**[^c-de215e3311ae97f3fc4ce2b39af62bbf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0fab379a6482fa11e4964e68f89edf4f]: Commencement: Sch. 22 para. 3(1) in force at 1.9.2003 for the purposes of the amendment made by that sub-paragraph by [S.I. 2003/1997](https://www.legislation.gov.uk/uksi/2003/1997), [art. 2](https://www.legislation.gov.uk/uksi/2003/1997/article/2)
+[^c-0fab379a6482fa11e4964e68f89edf4f]: Commencement: Sch. 22 para. 3(1) in force at 1.9.2003 for the purposes of the amendment made by that sub-paragraph by [S.I. 2003/1997](https://www.legislation.gov.uk/uksi/2003/1997), [art. 2](https://www.legislation.gov.uk/uksi/2003/1997/article/2)
 
-[^key-de215e3311ae97f3fc4ce2b39af62bbf]: Textual amendment: Sch. 22 paras. 59-73 repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-de215e3311ae97f3fc4ce2b39af62bbf]: Textual amendment: Sch. 22 paras. 59-73 repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

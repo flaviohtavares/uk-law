@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 65. Power to enter land[^key-c158554448542b4e9a12da1f92fea0f8]
+## 65. Power to enter land[^c-c158554448542b4e9a12da1f92fea0f8]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c158554448542b4e9a12da1f92fea0f8]: Commencement: S. 65 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)
+[^c-c158554448542b4e9a12da1f92fea0f8]: Commencement: S. 65 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)

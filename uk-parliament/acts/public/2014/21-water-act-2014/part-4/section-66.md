@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Scheme funding[^key-7707e270019050a49277b9e38a88bbf9]
+## 66. Scheme funding[^c-7707e270019050a49277b9e38a88bbf9]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7707e270019050a49277b9e38a88bbf9]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2014/21/section/66) in force at 1.1.2015 by [S.I. 2014/3320](https://www.legislation.gov.uk/uksi/2014/3320), [art. 4(c)](https://www.legislation.gov.uk/uksi/2014/3320/article/4/c)
+[^c-7707e270019050a49277b9e38a88bbf9]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2014/21/section/66) in force at 1.1.2015 by [S.I. 2014/3320](https://www.legislation.gov.uk/uksi/2014/3320), [art. 4(c)](https://www.legislation.gov.uk/uksi/2014/3320/article/4/c)

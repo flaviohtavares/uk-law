@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. Child’s view on effectiveness of reliefs etc.[^key-8964b29fa4616c5dc541330501c1c300]
+## 9. Child’s view on effectiveness of reliefs etc.[^c-8964b29fa4616c5dc541330501c1c300]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8964b29fa4616c5dc541330501c1c300]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2024/1/section/9) in force at 16.7.2024, see [s. 47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)
+[^c-8964b29fa4616c5dc541330501c1c300]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2024/1/section/9) in force at 16.7.2024, see [s. 47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)

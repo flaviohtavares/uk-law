@@ -52,11 +52,11 @@ The Treasury make these Regulations in exercise of the powers conferred by secti
 
 The Treasury consider it appropriate in consequence of, or otherwise in connection with, the withdrawal of the United Kingdom from the EU to make the following provision in relation to value added tax, including such provision as might be made by Act of Parliament.
 
-## 1. Citation and commencement[^key-5e273782514565f90d4b521ec33b4096]
+## 1. Citation and commencement[^c-5e273782514565f90d4b521ec33b4096]
 
-These Regulations may be cited as the Value Added Tax (Miscellaneous Amendments and Repeals) (EU Exit) Regulations 2021 and come into force on 1st August 2021[^key-eb492521a936dade31f9d3d83af4484b].
+These Regulations may be cited as the Value Added Tax (Miscellaneous Amendments and Repeals) (EU Exit) Regulations 2021 and come into force on 1st August 2021[^c-eb492521a936dade31f9d3d83af4484b].
 
-## 2. Interpretation[^key-a347a9c21691d698c590009f4cdf6a5c]
+## 2. Interpretation[^c-a347a9c21691d698c590009f4cdf6a5c]
 
 In these Regulations—
 
@@ -64,7 +64,7 @@ In these Regulations—
 - “**Schedule 9ZC**” means Schedule 9ZC to VATA (online sales by overseas persons and low value importations: modifications relating to the Northern Ireland Protocol) [^c24562351];
 - “**VATA**” means the Value Added Tax Act 1994 [^c24562361].
 
-## 3. Zero rating: transport[^key-d503dc1e1874f46fcdbffac65eb111ec]
+## 3. Zero rating: transport[^c-d503dc1e1874f46fcdbffac65eb111ec]
 
 (1) Group 8 of Schedule 8 [^c24562371] to VATA (zero rating: transport) is amended as follows.
 
@@ -86,7 +86,7 @@ In these Regulations—
   - (ii) in paragraph (b), after “imported” insert “ from a place outside the United Kingdom ”;
 - (b) in sub-paragraph (ii), for “that place” substitute “ the place from which the goods are to be so exported, or the place to which they have been so imported ”.
 
-## 4. Movement of own goods from Great Britain to Northern Ireland for non-business purposes[^key-52dd54e94b76fe3fe7dc1f2a913b68f0]
+## 4. Movement of own goods from Great Britain to Northern Ireland for non-business purposes[^c-52dd54e94b76fe3fe7dc1f2a913b68f0]
 
 (1) Schedule 9ZB is amended as follows.
 
@@ -124,7 +124,7 @@ In these Regulations—
 
 .
 
-## 5. Supplies from a member State to Great Britain via Northern Ireland[^key-591095f8c23ad5f3a0d0a9ecf6c8ab7a]
+## 5. Supplies from a member State to Great Britain via Northern Ireland[^c-591095f8c23ad5f3a0d0a9ecf6c8ab7a]
 
 (1) Schedule 9ZB is amended as follows.
 
@@ -174,7 +174,7 @@ In these Regulations—
 
 .
 
-## 6.[^key-6ea04373ab0e2f32b34f333fadd078ca]
+## 6.[^c-6ea04373ab0e2f32b34f333fadd078ca]
 
 (1) Schedule 9ZC is amended as follows.
 
@@ -182,7 +182,7 @@ In these Regulations—
 
 (3) In paragraph 4A (modification of paragraph 4 of Schedule 9ZB in relation to certain supplies facilitated by an online marketplace), after “4(3)” insert “ , (3A) ”.
 
-## 7. Correction of minor errors in VATA[^key-6b3bdfcdde91ae6263e9c90ecdabb643]
+## 7. Correction of minor errors in VATA[^c-6b3bdfcdde91ae6263e9c90ecdabb643]
 
 (1) Schedule 9ZA to VATA (VAT on acquisitions in Northern Ireland from member States) [^c24562451] is amended as follows.
 
@@ -199,7 +199,7 @@ In these Regulations—
 
 (6) In paragraph 81, in sub-paragraph (7), for “subsection” substitute “ sub-paragraph ”.
 
-## 8.[^key-69918ab63c0275d7293c8deb3fd1b79b]
+## 8.[^c-69918ab63c0275d7293c8deb3fd1b79b]
 
 (1) Schedule 9ZB is amended as follows.
 
@@ -209,11 +209,11 @@ In these Regulations—
 
 .
 
-## 9. Repeals[^key-3bb1a088d86b3a333769757904ff6c26]
+## 9. Repeals[^c-3bb1a088d86b3a333769757904ff6c26]
 
 In VATA omit section 16A [^c24562461].
 
-## 10.[^key-e4f5b98f36c9aa565cc48bdea99f9717]
+## 10.[^c-e4f5b98f36c9aa565cc48bdea99f9717]
 
 In the Taxation (Cross-border Trade) Act 2018, in Schedule 8 omit paragraph 14 [^c24562471].
 
@@ -253,11 +253,11 @@ A Tax Information and Impact Note covering this instrument will be published on 
 
 [^c24562331]: Marginal citation: [2018 c. 22 (“TCTA”)](https://www.legislation.gov.uk/ukpga/2018/22). Section 51(1)(a) permits “the appropriate Minister” to make such provision relating to value added tax as the appropriate Minister considers appropriate in consequence of, or otherwise in connection with, the withdrawal of the United Kingdom from the EU and under section 51(4)(b) “**the appropriate Minister**” means the Treasury. Section 51(3)(a) permits regulations under the section to make such provision as might be made by Act of Parliament.
 
-[^key-5e273782514565f90d4b521ec33b4096]: Commencement: Reg. 1 in force at 1.8.2021, see reg. 1 (as amended by [S.I. 2021/779](https://www.legislation.gov.uk/uksi/2021/779), [regs. 1](https://www.legislation.gov.uk/uksi/2021/779/regulation/1), [2](https://www.legislation.gov.uk/uksi/2021/779/regulation/2))
+[^c-5e273782514565f90d4b521ec33b4096]: Commencement: Reg. 1 in force at 1.8.2021, see reg. 1 (as amended by [S.I. 2021/779](https://www.legislation.gov.uk/uksi/2021/779), [regs. 1](https://www.legislation.gov.uk/uksi/2021/779/regulation/1), [2](https://www.legislation.gov.uk/uksi/2021/779/regulation/2))
 
-[^key-eb492521a936dade31f9d3d83af4484b]: Textual amendment: Words in reg. 1 substituted (30.6.2021 at 11.00 p.m.) by [The Value Added Tax (Miscellaneous Amendments and Repeals) (EU Exit) (Amendment of Coming into Force Date) Regulations 2021 (S.I. 2021/779)](https://www.legislation.gov.uk/uksi/2021/779), [regs. 1](https://www.legislation.gov.uk/uksi/2021/779/regulation/1), [2](https://www.legislation.gov.uk/uksi/2021/779/regulation/2)
+[^c-eb492521a936dade31f9d3d83af4484b]: Textual amendment: Words in reg. 1 substituted (30.6.2021 at 11.00 p.m.) by [The Value Added Tax (Miscellaneous Amendments and Repeals) (EU Exit) (Amendment of Coming into Force Date) Regulations 2021 (S.I. 2021/779)](https://www.legislation.gov.uk/uksi/2021/779), [regs. 1](https://www.legislation.gov.uk/uksi/2021/779/regulation/1), [2](https://www.legislation.gov.uk/uksi/2021/779/regulation/2)
 
-[^key-a347a9c21691d698c590009f4cdf6a5c]: Commencement: Reg. 2 in force at 1.8.2021, see reg. 1 (as amended by [S.I. 2021/779](https://www.legislation.gov.uk/uksi/2021/779), [regs. 1](https://www.legislation.gov.uk/uksi/2021/779/regulation/1), [2](https://www.legislation.gov.uk/uksi/2021/779/regulation/2))
+[^c-a347a9c21691d698c590009f4cdf6a5c]: Commencement: Reg. 2 in force at 1.8.2021, see reg. 1 (as amended by [S.I. 2021/779](https://www.legislation.gov.uk/uksi/2021/779), [regs. 1](https://www.legislation.gov.uk/uksi/2021/779/regulation/1), [2](https://www.legislation.gov.uk/uksi/2021/779/regulation/2))
 
 [^c24562341]: Marginal citation: [Schedule 9ZB](https://www.legislation.gov.uk/uksi/2021/714/schedule/9ZB) was inserted into the [Value Added Tax Act 1994 (c. 23)](https://www.legislation.gov.uk/ukpga/1994/23) (“VATA”) by paragraph 2 of Schedule 2 to the [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26) (“TPTPA”) and amended by [S.I. 2020/1544](https://www.legislation.gov.uk/uksi/2020/1544).
 
@@ -265,7 +265,7 @@ A Tax Information and Impact Note covering this instrument will be published on 
 
 [^c24562361]: Marginal citation: [1994 c. 23](https://www.legislation.gov.uk/ukpga/1994/23); for relevant amendments see footnotes below.
 
-[^key-d503dc1e1874f46fcdbffac65eb111ec]: Commencement: Reg. 3 in force at 1.8.2021, see reg. 1 (as amended by [S.I. 2021/779](https://www.legislation.gov.uk/uksi/2021/779), [regs. 1](https://www.legislation.gov.uk/uksi/2021/779/regulation/1), [2](https://www.legislation.gov.uk/uksi/2021/779/regulation/2))
+[^c-d503dc1e1874f46fcdbffac65eb111ec]: Commencement: Reg. 3 in force at 1.8.2021, see reg. 1 (as amended by [S.I. 2021/779](https://www.legislation.gov.uk/uksi/2021/779), [regs. 1](https://www.legislation.gov.uk/uksi/2021/779/regulation/1), [2](https://www.legislation.gov.uk/uksi/2021/779/regulation/2))
 
 [^c24562371]: Marginal citation: [Schedule 8](https://www.legislation.gov.uk/uksi/2021/714/schedule/8) (zero-rating) has effect by virtue of section 30 of VATA; for relevant amendments see footnotes below.
 
@@ -273,7 +273,7 @@ A Tax Information and Impact Note covering this instrument will be published on 
 
 [^c24562391]: Marginal citation: Item 11 of Group 8 of Schedule 8 to VATA was amended by [S.I. 1995/653](https://www.legislation.gov.uk/uksi/1995/653) and paragraph 94(1) and (4)(b) of Schedule 8 to TCTA.
 
-[^key-52dd54e94b76fe3fe7dc1f2a913b68f0]: Commencement: Reg. 4 in force at 1.8.2021, see reg. 1 (as amended by [S.I. 2021/779](https://www.legislation.gov.uk/uksi/2021/779), [regs. 1](https://www.legislation.gov.uk/uksi/2021/779/regulation/1), [2](https://www.legislation.gov.uk/uksi/2021/779/regulation/2))
+[^c-52dd54e94b76fe3fe7dc1f2a913b68f0]: Commencement: Reg. 4 in force at 1.8.2021, see reg. 1 (as amended by [S.I. 2021/779](https://www.legislation.gov.uk/uksi/2021/779), [regs. 1](https://www.legislation.gov.uk/uksi/2021/779/regulation/1), [2](https://www.legislation.gov.uk/uksi/2021/779/regulation/2))
 
 [^c24562401]: Marginal citation: [Paragraph 31A](https://www.legislation.gov.uk/uksi/2021/714/paragraph/31A) was inserted into Schedule 9ZB by [S.I. 2020/1544](https://www.legislation.gov.uk/uksi/2020/1544).
 
@@ -283,23 +283,23 @@ A Tax Information and Impact Note covering this instrument will be published on 
 
 [^c24562431]: Marginal citation: [Section 26](https://www.legislation.gov.uk/uksi/2021/714/section/26) of VATA, which sets out what input tax is allowable under section 25, was amended by paragraph 2 of Schedule 8 to the [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33) and paragraph 26 of Schedule 8 to TCTA.
 
-[^key-591095f8c23ad5f3a0d0a9ecf6c8ab7a]: Commencement: Reg. 5 in force at 1.8.2021, see reg. 1 (as amended by [S.I. 2021/779](https://www.legislation.gov.uk/uksi/2021/779), [regs. 1](https://www.legislation.gov.uk/uksi/2021/779/regulation/1), [2](https://www.legislation.gov.uk/uksi/2021/779/regulation/2))
+[^c-591095f8c23ad5f3a0d0a9ecf6c8ab7a]: Commencement: Reg. 5 in force at 1.8.2021, see reg. 1 (as amended by [S.I. 2021/779](https://www.legislation.gov.uk/uksi/2021/779), [regs. 1](https://www.legislation.gov.uk/uksi/2021/779/regulation/1), [2](https://www.legislation.gov.uk/uksi/2021/779/regulation/2))
 
 [^c24562441]: Marginal citation: [Paragraph 6](https://www.legislation.gov.uk/uksi/2021/714/paragraph/6) of Schedule 9ZB was amended by [S.I. 2020/1544](https://www.legislation.gov.uk/uksi/2020/1544).
 
-[^key-6ea04373ab0e2f32b34f333fadd078ca]: Commencement: Reg. 6 in force at 1.8.2021, see reg. 1 (as amended by [S.I. 2021/779](https://www.legislation.gov.uk/uksi/2021/779), [regs. 1](https://www.legislation.gov.uk/uksi/2021/779/regulation/1), [2](https://www.legislation.gov.uk/uksi/2021/779/regulation/2))
+[^c-6ea04373ab0e2f32b34f333fadd078ca]: Commencement: Reg. 6 in force at 1.8.2021, see reg. 1 (as amended by [S.I. 2021/779](https://www.legislation.gov.uk/uksi/2021/779), [regs. 1](https://www.legislation.gov.uk/uksi/2021/779/regulation/1), [2](https://www.legislation.gov.uk/uksi/2021/779/regulation/2))
 
-[^key-6b3bdfcdde91ae6263e9c90ecdabb643]: Commencement: Reg. 7 in force at 1.8.2021, see reg. 1 (as amended by [S.I. 2021/779](https://www.legislation.gov.uk/uksi/2021/779), [regs. 1](https://www.legislation.gov.uk/uksi/2021/779/regulation/1), [2](https://www.legislation.gov.uk/uksi/2021/779/regulation/2))
+[^c-6b3bdfcdde91ae6263e9c90ecdabb643]: Commencement: Reg. 7 in force at 1.8.2021, see reg. 1 (as amended by [S.I. 2021/779](https://www.legislation.gov.uk/uksi/2021/779), [regs. 1](https://www.legislation.gov.uk/uksi/2021/779/regulation/1), [2](https://www.legislation.gov.uk/uksi/2021/779/regulation/2))
 
 [^c24562451]: Marginal citation: [Schedule 9ZA](https://www.legislation.gov.uk/uksi/2021/714/schedule/9ZA) was inserted into VATA by paragraph 2 of Schedule 2 to TPTPA and amended by [S.I. 2020/1544](https://www.legislation.gov.uk/uksi/2020/1544).
 
-[^key-69918ab63c0275d7293c8deb3fd1b79b]: Commencement: Reg. 8 in force at 1.8.2021, see reg. 1 (as amended by [S.I. 2021/779](https://www.legislation.gov.uk/uksi/2021/779), [regs. 1](https://www.legislation.gov.uk/uksi/2021/779/regulation/1), [2](https://www.legislation.gov.uk/uksi/2021/779/regulation/2))
+[^c-69918ab63c0275d7293c8deb3fd1b79b]: Commencement: Reg. 8 in force at 1.8.2021, see reg. 1 (as amended by [S.I. 2021/779](https://www.legislation.gov.uk/uksi/2021/779), [regs. 1](https://www.legislation.gov.uk/uksi/2021/779/regulation/1), [2](https://www.legislation.gov.uk/uksi/2021/779/regulation/2))
 
-[^key-3bb1a088d86b3a333769757904ff6c26]: Commencement: Reg. 9 in force at 1.8.2021, see reg. 1 (as amended by [S.I. 2021/779](https://www.legislation.gov.uk/uksi/2021/779), [regs. 1](https://www.legislation.gov.uk/uksi/2021/779/regulation/1), [2](https://www.legislation.gov.uk/uksi/2021/779/regulation/2))
+[^c-3bb1a088d86b3a333769757904ff6c26]: Commencement: Reg. 9 in force at 1.8.2021, see reg. 1 (as amended by [S.I. 2021/779](https://www.legislation.gov.uk/uksi/2021/779), [regs. 1](https://www.legislation.gov.uk/uksi/2021/779/regulation/1), [2](https://www.legislation.gov.uk/uksi/2021/779/regulation/2))
 
 [^c24562461]: Marginal citation: [Section 16A](https://www.legislation.gov.uk/uksi/2021/714/section/16A) was inserted into VATA by paragraph 14 of Schedule 8 to TCTA (with effect from 16th December 2018 by virtue of [S.I. 2018/1362](https://www.legislation.gov.uk/uksi/2018/1362)). Section 16A was amended by paragraph 6 of Schedule 3 to TPTPA. The power in section 16A was used to make [S.I. 2018/1376](https://www.legislation.gov.uk/uksi/2018/1376) (partially brought into force by [S.I. 2019/104](https://www.legislation.gov.uk/uksi/2019/104) (C. 5)) and regulation 8 of [S.I. 2019/513](https://www.legislation.gov.uk/uksi/2019/513) (never brought into force), both of which were revoked by [S.I. 2020/1495](https://www.legislation.gov.uk/uksi/2020/1495).
 
-[^key-e4f5b98f36c9aa565cc48bdea99f9717]: Commencement: Reg. 10 in force at 1.8.2021, see reg. 1 (as amended by [S.I. 2021/779](https://www.legislation.gov.uk/uksi/2021/779), [regs. 1](https://www.legislation.gov.uk/uksi/2021/779/regulation/1), [2](https://www.legislation.gov.uk/uksi/2021/779/regulation/2))
+[^c-e4f5b98f36c9aa565cc48bdea99f9717]: Commencement: Reg. 10 in force at 1.8.2021, see reg. 1 (as amended by [S.I. 2021/779](https://www.legislation.gov.uk/uksi/2021/779), [regs. 1](https://www.legislation.gov.uk/uksi/2021/779/regulation/1), [2](https://www.legislation.gov.uk/uksi/2021/779/regulation/2))
 
 [^c24562471]: Marginal citation: [Paragraph 14](https://www.legislation.gov.uk/uksi/2021/714/paragraph/14) of Schedule 8 inserted section 16A into VATA, which is repealed by regulation 9 of this instrument. For detail about section 16A see earlier footnote.
 

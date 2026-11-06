@@ -48,24 +48,24 @@ Coming into force
 
 1st June 2013
 
-[^key-06b998a9f5733431407558626e8ea19f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-06b998a9f5733431407558626e8ea19f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-06b998a9f5733431407558626e8ea19f]
+## 1. Citation and commencement[^c-06b998a9f5733431407558626e8ea19f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to regulation 4 of the 2011 Regulations (duty to introduce measures)[^key-06b998a9f5733431407558626e8ea19f]
+## 2. Amendments to regulation 4 of the 2011 Regulations (duty to introduce measures)[^c-06b998a9f5733431407558626e8ea19f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-06b998a9f5733431407558626e8ea19f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-06b998a9f5733431407558626e8ea19f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-06b998a9f5733431407558626e8ea19f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-06b998a9f5733431407558626e8ea19f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-06b998a9f5733431407558626e8ea19f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2013/829) revoked (16.5.2025) by [The Energy (Euratom Decisions and Miscellaneous Provisions) (Amendment and Revocation) Regulations 2025 (S.I. 2025/514)](https://www.legislation.gov.uk/uksi/2025/514), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/514/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2025/514/schedule)
+[^c-06b998a9f5733431407558626e8ea19f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2013/829) revoked (16.5.2025) by [The Energy (Euratom Decisions and Miscellaneous Provisions) (Amendment and Revocation) Regulations 2025 (S.I. 2025/514)](https://www.legislation.gov.uk/uksi/2025/514), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/514/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2025/514/schedule)

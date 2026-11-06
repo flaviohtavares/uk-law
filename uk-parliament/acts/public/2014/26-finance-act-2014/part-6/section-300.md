@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 300. Increase in limit for local loans[^key-cf51aafb677e573788801a96fec33ddd]
+## 300. Increase in limit for local loans[^c-cf51aafb677e573788801a96fec33ddd]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cf51aafb677e573788801a96fec33ddd]: Commencement: [S. 300](https://www.legislation.gov.uk/ukpga/2014/26/section/300) in force at 1.12.2017 by [S.I. 2017/1183](https://www.legislation.gov.uk/uksi/2017/1183), [art. 2](https://www.legislation.gov.uk/uksi/2017/1183/article/2)
+[^c-cf51aafb677e573788801a96fec33ddd]: Commencement: [S. 300](https://www.legislation.gov.uk/ukpga/2014/26/section/300) in force at 1.12.2017 by [S.I. 2017/1183](https://www.legislation.gov.uk/uksi/2017/1183), [art. 2](https://www.legislation.gov.uk/uksi/2017/1183/article/2)

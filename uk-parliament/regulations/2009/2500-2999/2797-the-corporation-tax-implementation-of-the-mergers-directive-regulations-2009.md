@@ -32,7 +32,7 @@ summary: ''
 
 Corporation Tax
 
-The Corporation Tax (Implementation of the Mergers Directive) Regulations 2009 (revoked)[^key-37fb118c3afa9bc85083b2e014d94b4c]
+The Corporation Tax (Implementation of the Mergers Directive) Regulations 2009 (revoked)[^c-37fb118c3afa9bc85083b2e014d94b4c]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 11th November 2009
 
-[^key-37fb118c3afa9bc85083b2e014d94b4c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-37fb118c3afa9bc85083b2e014d94b4c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and effect[^key-37fb118c3afa9bc85083b2e014d94b4c]
+## 1. Citation, commencement and effect[^c-37fb118c3afa9bc85083b2e014d94b4c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. You'Amendment of section 213 of the Income and Corporation Taxes Act 1988[^key-37fb118c3afa9bc85083b2e014d94b4c]
+## 2. You'Amendment of section 213 of the Income and Corporation Taxes Act 1988[^c-37fb118c3afa9bc85083b2e014d94b4c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-37fb118c3afa9bc85083b2e014d94b4c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-37fb118c3afa9bc85083b2e014d94b4c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-37fb118c3afa9bc85083b2e014d94b4c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-37fb118c3afa9bc85083b2e014d94b4c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-37fb118c3afa9bc85083b2e014d94b4c]: Textual amendment: Regulations revoked (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-37fb118c3afa9bc85083b2e014d94b4c]: Textual amendment: Regulations revoked (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

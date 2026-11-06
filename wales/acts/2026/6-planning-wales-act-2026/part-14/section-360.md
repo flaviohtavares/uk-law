@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 360. Fees and charges for exercise of functions by planning authorities[^key-a206aca55acb2e56a3aa6c056054d04a]
+## 360. Fees and charges for exercise of functions by planning authorities[^c-a206aca55acb2e56a3aa6c056054d04a]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a206aca55acb2e56a3aa6c056054d04a]: Commencement: S. 360 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-a206aca55acb2e56a3aa6c056054d04a]: Commencement: S. 360 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

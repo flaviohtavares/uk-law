@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 269. Detention in a young offender institution: consecutive sentences[^key-2ef015f16b84ac9107db093ca133cb30]
+## 269. Detention in a young offender institution: consecutive sentences[^c-2ef015f16b84ac9107db093ca133cb30]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ This is subject to section 225 (restriction on consecutive sentences for release
 
 ## Annotations
 
-[^key-2ef015f16b84ac9107db093ca133cb30]: Commencement: S. 269 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-2ef015f16b84ac9107db093ca133cb30]: Commencement: S. 269 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

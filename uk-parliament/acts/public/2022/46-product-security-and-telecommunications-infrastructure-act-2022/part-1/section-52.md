@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Offences by directors, partners etc[^key-d872fedc93ca14ecea808ac374332e50][^key-b8484312993937e67e42898a34adc825]
+## 52. Offences by directors, partners etc[^c-d872fedc93ca14ecea808ac374332e50][^c-b8484312993937e67e42898a34adc825]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,6 +43,6 @@ that person (as well as the partnership) is guilty of that offence and liable to
 
 ## Annotations
 
-[^key-d872fedc93ca14ecea808ac374332e50]: Commencement: S. 52 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
+[^c-d872fedc93ca14ecea808ac374332e50]: Commencement: S. 52 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
 
-[^key-b8484312993937e67e42898a34adc825]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2022/46/section/52) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)
+[^c-b8484312993937e67e42898a34adc825]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2022/46/section/52) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)

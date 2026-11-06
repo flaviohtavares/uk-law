@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Lifetime reporting restrictions in criminal proceedings for witnesses and victims under 18[^key-bbf21a4bb129a9582d1cad63735403ff]
+## 78. Lifetime reporting restrictions in criminal proceedings for witnesses and victims under 18[^c-bbf21a4bb129a9582d1cad63735403ff]
 
 *Extent: E+W+S+N.I.*
 
@@ -141,4 +141,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bbf21a4bb129a9582d1cad63735403ff]: Commencement: [S. 78](https://www.legislation.gov.uk/ukpga/2015/2/section/78) in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 63](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/63)
+[^c-bbf21a4bb129a9582d1cad63735403ff]: Commencement: [S. 78](https://www.legislation.gov.uk/ukpga/2015/2/section/78) in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 63](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/63)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Revision: supplementary[^key-5ffc0ceeb403c5ca57aeab71b30750a7]
+## 80. Revision: supplementary[^c-5ffc0ceeb403c5ca57aeab71b30750a7]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5ffc0ceeb403c5ca57aeab71b30750a7]: Textual amendment: Ss. 71-81 repealed (15.11.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 109(1)(b)](https://www.legislation.gov.uk/ukpga/2011/20/section/109/1/b), [240(5)(h)(q) (with s. 144),](https://www.legislation.gov.uk/ukpga/2011/20/section/240/5/h) Sch. 25 Pt. 15
+[^c-5ffc0ceeb403c5ca57aeab71b30750a7]: Textual amendment: Ss. 71-81 repealed (15.11.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 109(1)(b)](https://www.legislation.gov.uk/ukpga/2011/20/section/109/1/b), [240(5)(h)(q) (with s. 144),](https://www.legislation.gov.uk/ukpga/2011/20/section/240/5/h) Sch. 25 Pt. 15

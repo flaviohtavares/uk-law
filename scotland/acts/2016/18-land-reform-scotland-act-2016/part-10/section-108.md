@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-b5535843d95d61ca4f44f87974e4023a] Section 16 of the Succession (Scotland) Act 1964 (provisions relating to leases) is amended as follows—
+(1)[^c-b5535843d95d61ca4f44f87974e4023a] Section 16 of the Succession (Scotland) Act 1964 (provisions relating to leases) is amended as follows—
 
 - (a) in subsection (4A), for “or a limited duration tenancy” substitute “ , a limited duration tenancy, a modern limited duration tenancy or a repairing tenancy ”,
 - (b) in subsection (4C), for “or a limited duration tenancy” substitute “ , a limited duration tenancy, a modern limited duration tenancy or a repairing tenancy ”,
@@ -28,14 +28,14 @@ summary: ''
   - (i) in the definition of “agricultural lease”, for “or a limited duration tenancy” substitute “ , a limited duration tenancy, a modern limited duration tenancy or a repairing tenancy ”,
   - (ii) for “and “limited duration tenancy”” substitute “, “limited duration tenancy”, “modern limited duration tenancy” and “repairing tenancy””.
 
-(2)[^key-2ba3bed64405334d60823522c301e8c1] The 2003 Act is amended as follows.
+(2)[^c-2ba3bed64405334d60823522c301e8c1] The 2003 Act is amended as follows.
 
 (3) In section 21 (bequest of lease)—
 
 - (a) in subsection (1)—
-  - (i)[^key-b5535843d95d61ca4f44f87974e4023a] for “or a limited duration tenancy” substitute “ , a limited duration tenancy, a modern limited duration tenancy or a repairing tenancy ”,
-  - (ii)[^key-2ba3bed64405334d60823522c301e8c1] for “the tenant's son-in-law or daughter-in-law or to any one of the persons who would be, or would in any circumstances have been, entitled to succeed to the estate on intestacy by virtue of the 1964 Act” substitute “ any one of the persons mentioned in subsection (1A) ”,
-- (b)[^key-2ba3bed64405334d60823522c301e8c1] after that subsection insert—
+  - (i)[^c-b5535843d95d61ca4f44f87974e4023a] for “or a limited duration tenancy” substitute “ , a limited duration tenancy, a modern limited duration tenancy or a repairing tenancy ”,
+  - (ii)[^c-2ba3bed64405334d60823522c301e8c1] for “the tenant's son-in-law or daughter-in-law or to any one of the persons who would be, or would in any circumstances have been, entitled to succeed to the estate on intestacy by virtue of the 1964 Act” substitute “ any one of the persons mentioned in subsection (1A) ”,
+- (b)[^c-2ba3bed64405334d60823522c301e8c1] after that subsection insert—
 
   > (1A) The persons referred to in subsection (1) are—
   >
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b5535843d95d61ca4f44f87974e4023a]: Commencement: [S. 108(1)](https://www.legislation.gov.uk/asp/2016/18/section/108/1)[(3)(a)(i)](https://www.legislation.gov.uk/asp/2016/18/section/108/3/a/i) in force at 30.11.2017 by [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule) (with [regs. 7](https://www.legislation.gov.uk/ssi/2017/299/regulation/7), [12](https://www.legislation.gov.uk/ssi/2017/299/regulation/12)) (as amended by S.S.I. 2017/370, regs. 1, 3, 4)
+[^c-b5535843d95d61ca4f44f87974e4023a]: Commencement: [S. 108(1)](https://www.legislation.gov.uk/asp/2016/18/section/108/1)[(3)(a)(i)](https://www.legislation.gov.uk/asp/2016/18/section/108/3/a/i) in force at 30.11.2017 by [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule) (with [regs. 7](https://www.legislation.gov.uk/ssi/2017/299/regulation/7), [12](https://www.legislation.gov.uk/ssi/2017/299/regulation/12)) (as amended by S.S.I. 2017/370, regs. 1, 3, 4)
 
-[^key-2ba3bed64405334d60823522c301e8c1]: Commencement: [S. 108(2)](https://www.legislation.gov.uk/asp/2016/18/section/108/2)[(3)(a)(ii)](https://www.legislation.gov.uk/asp/2016/18/section/108/3/a/ii)[(b)](https://www.legislation.gov.uk/asp/2016/18/section/108/3/b) in force at 23.12.2016 by [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule) (with [regs. 3-15](https://www.legislation.gov.uk/ssi/2016/365/regulation/3))
+[^c-2ba3bed64405334d60823522c301e8c1]: Commencement: [S. 108(2)](https://www.legislation.gov.uk/asp/2016/18/section/108/2)[(3)(a)(ii)](https://www.legislation.gov.uk/asp/2016/18/section/108/3/a/ii)[(b)](https://www.legislation.gov.uk/asp/2016/18/section/108/3/b) in force at 23.12.2016 by [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule) (with [regs. 3-15](https://www.legislation.gov.uk/ssi/2016/365/regulation/3))

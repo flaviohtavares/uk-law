@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 117. Concluding investigations[^key-c591317406525e3390a7a6679b3e9b77]
+## 117. Concluding investigations[^c-c591317406525e3390a7a6679b3e9b77]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c591317406525e3390a7a6679b3e9b77]: Commencement: [S. 117](https://www.legislation.gov.uk/mwa/2011/1/section/117) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(k)](https://www.legislation.gov.uk/wsi/2012/969/article/2/k)
+[^c-c591317406525e3390a7a6679b3e9b77]: Commencement: [S. 117](https://www.legislation.gov.uk/mwa/2011/1/section/117) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(k)](https://www.legislation.gov.uk/wsi/2012/969/article/2/k)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 61. Interests of negligible value[^key-f389153f6e8f626a76e05aaf02db3493]
+## 61. Interests of negligible value[^c-f389153f6e8f626a76e05aaf02db3493]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f389153f6e8f626a76e05aaf02db3493]: Commencement: S. 61 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-f389153f6e8f626a76e05aaf02db3493]: Commencement: S. 61 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)

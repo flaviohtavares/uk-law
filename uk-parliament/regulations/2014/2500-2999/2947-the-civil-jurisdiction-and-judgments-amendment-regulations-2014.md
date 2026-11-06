@@ -46,7 +46,7 @@ Coming into force
 
 The Secretary of State for Justice, being a Minister designated for the purposes of section 2(2) of the European Communities Act 1972[^f00001] in relation to private international law[^f00002], makes the following Regulations in exercise of the power under section 2(2) of the European Communities Act 1972.
 
-## 1. Citation, commencement and extent[^key-c205f0e6747992efcfd65e65ee6996d9]
+## 1. Citation, commencement and extent[^c-c205f0e6747992efcfd65e65ee6996d9]
 
 (1) These Regulations may be cited as the Civil Jurisdiction and Judgments (Amendment) Regulations 2014 and shall come into force on 10th January 2015.
 
@@ -54,23 +54,23 @@ The Secretary of State for Justice, being a Minister designated for the purposes
 
 (3) An amendment, repeal or revocation made by these Regulations has the same extent as the enactment amended, repealed or revoked.
 
-## 2. Amendments to the Civil Jurisdiction and Judgments Act 1982[^key-a8d559a5c81685ba57d45381697fb2f6]
+## 2. Amendments to the Civil Jurisdiction and Judgments Act 1982[^c-a8d559a5c81685ba57d45381697fb2f6]
 
 Schedule 1 (which makes amendments to the Civil Jurisdiction and Judgments Act 1982[^f00003]) has effect.
 
-## 3. Amendments to the Civil Jurisdiction and Judgments Order 2001[^key-e64efaa4317819e2a0396cd345c0f705]
+## 3. Amendments to the Civil Jurisdiction and Judgments Order 2001[^c-e64efaa4317819e2a0396cd345c0f705]
 
 Schedule 2 (which makes amendments to the Civil Jurisdiction and Judgments Order 2001[^f00004]) has effect.
 
-## 4. Amendments to the Civil Jurisdiction and Judgments (Authentic Instruments and Court Settlements) Order 2001[^key-30504a05a324720dd752d60062d89293]
+## 4. Amendments to the Civil Jurisdiction and Judgments (Authentic Instruments and Court Settlements) Order 2001[^c-30504a05a324720dd752d60062d89293]
 
 Schedule 3 (which makes amendments to the Civil Jurisdiction and Judgments (Authentic Instruments and Court Settlements) Order 2001[^f00005]) has effect.
 
-## 5. Consequential amendments to other enactments[^key-1c90428c312348306228874e77ed3fad]
+## 5. Consequential amendments to other enactments[^c-1c90428c312348306228874e77ed3fad]
 
 Schedule 4 (which makes consequential amendments to other enactments) has effect.
 
-## 6. Transitional and saving provision[^key-f16a3255db5646464fb0b81c757f748a]
+## 6. Transitional and saving provision[^c-f16a3255db5646464fb0b81c757f748a]
 
 (1) For the purposes of proceedings, judgments and authentic instruments and court settlements to which, by virtue of article 66(2) of the Judgments Regulation (transitional provisions), the previous Judgments Regulation continues to apply—
 
@@ -94,17 +94,17 @@ Ministry of Justice
 
 Regulation 2
 
-**1.**[^key-680335e20aacf8f6f97a2a282e35d1a4] The Civil Jurisdiction and Judgments Act 1982 is amended as follows.
+**1.**[^c-680335e20aacf8f6f97a2a282e35d1a4] The Civil Jurisdiction and Judgments Act 1982 is amended as follows.
 
-**2.**[^key-26f6273c13bd313ca6a9b6e066e5a267] In section 1 (interpretation of references to the Convention and Contracting States), in subsection (1) for the definition of “the Regulation” substitute the following definition—
+**2.**[^c-26f6273c13bd313ca6a9b6e066e5a267] In section 1 (interpretation of references to the Convention and Contracting States), in subsection (1) for the definition of “the Regulation” substitute the following definition—
 
 > - “the Regulation” means Regulation (EU) No. 1215/2012 of the European Parliament and of the Council of 12 December 2012 on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters (recast) as amended from time to time and as applied by virtue of the Agreement made on 19 October 2005 between the European Community and the Kingdom of Denmark on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters (OJ No L 299, 16.11.2005, p62; OJ No L79, 21.3.2013, p4);
 
 .
 
-**3.**[^key-75e0af14b2d63e732ee85044f8a83048] In section 16 (allocation within UK of jurisdiction within certain civil proceedings), in subsection (1)(b), for Article 22” substitute “Article 24”.
+**3.**[^c-75e0af14b2d63e732ee85044f8a83048] In section 16 (allocation within UK of jurisdiction within certain civil proceedings), in subsection (1)(b), for Article 22” substitute “Article 24”.
 
-**4.**[^key-7c2a1e6bb8fa3440d8aa2cb4703f0f68] In section 48 (matters for which rules of court may provide)—
+**4.**[^c-7c2a1e6bb8fa3440d8aa2cb4703f0f68] In section 48 (matters for which rules of court may provide)—
 
 - (a) in subsection (2)(a), omit “, the Regulation”; and
 - (b) after subsection (2)(a) insert—
@@ -117,15 +117,15 @@ Regulation 2
 
 Regulation 3
 
-**1.**[^key-cd0dafdf99af7e33121bb8b570b1e56a] The Civil Jurisdiction and Judgments Order 2001 is amended as follows.
+**1.**[^c-cd0dafdf99af7e33121bb8b570b1e56a] The Civil Jurisdiction and Judgments Order 2001 is amended as follows.
 
-**2.**[^key-e9511007e31c4980730f134eb3566ed8] In Article 2 (interpretation), in paragraph (1), for the definition of “the Regulation” substitute—
+**2.**[^c-e9511007e31c4980730f134eb3566ed8] In Article 2 (interpretation), in paragraph (1), for the definition of “the Regulation” substitute—
 
 > - “the Regulation” means Regulation (EU) No. 1215/2012 of the European Parliament and of the Council of 12 December 2012 on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters (recast)[^f00010] as amended from time to time and as applied by virtue of the Agreement made on 19 October 2005 between the European Community and the Kingdom of Denmark on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters[^f00011];
 
 .
 
-**3.**[^key-771c83590a8242150f2f9e52094ddd14] (1) Schedule 1 (the Regulation) is amended as follows.
+**3.**[^c-771c83590a8242150f2f9e52094ddd14] (1) Schedule 1 (the Regulation) is amended as follows.
 
 (2) In paragraph 1 (interpretation)—
 
@@ -204,13 +204,13 @@ Regulation 3
 
 Regulation 4
 
-**1.**[^key-048145d1facaebbe19bf545453cd10cc] The Civil Jurisdiction and Judgments (Authentic Instruments and Court Settlements) Order 2001 is amended as follows.
+**1.**[^c-048145d1facaebbe19bf545453cd10cc] The Civil Jurisdiction and Judgments (Authentic Instruments and Court Settlements) Order 2001 is amended as follows.
 
-**2.**[^key-d95796b7b813758b00c4859366c5e276] In Article 1, in paragraph (2), for the definition of “the Regulation” substitute—
+**2.**[^c-d95796b7b813758b00c4859366c5e276] In Article 1, in paragraph (2), for the definition of “the Regulation” substitute—
 
 > - “the Regulation” means Regulation (EU) No. 1215/2012 of the European Parliament and of the Council of 12 December 2012 on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters (recast)[^f00013] as amended from time to time and as applied by virtue of the Agreement made on 19 October 2005 between the European Community and the Kingdom of Denmark on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters[^f00014];
 
-**3.**[^key-7152f7bd75212e2e525db348ae313620] In Article 2—
+**3.**[^c-7152f7bd75212e2e525db348ae313620] In Article 2—
 
 - (a) in paragraph (4)—
   - (i) in the modified sub-paragraph (1)(b) (of paragraph 8 of Schedule 1 to the Civil Jurisdiction and Judgments Order 2001) substituted by sub-paragraph (a), for “Article 57 and Annex VI” substitute “Articles 58 and 60 and Annex II”; and
@@ -219,25 +219,25 @@ Regulation 4
   - (i) for “54” substitute “53”; and
   - (ii) for “58” substitute “60”.
 
-**4.**[^key-eff05bb01eafeb85d9ab8c0a12be6524] In Article 3, for “registration” substitute “enforcement”.
+**4.**[^c-eff05bb01eafeb85d9ab8c0a12be6524] In Article 3, for “registration” substitute “enforcement”.
 
 ## SCHEDULE 4 — Consequential amendments to other enactments
 
 Regulation 5
 
-### 1. The Merchant Shipping (Liner Conferences) Act [1982 (c. 37)](https://www.legislation.gov.uk/ukpga/1982/37)[^key-ed480d658548a5f1a590e05fe5044b56]
+### 1. The Merchant Shipping (Liner Conferences) Act [1982 (c. 37)](https://www.legislation.gov.uk/ukpga/1982/37)[^c-ed480d658548a5f1a590e05fe5044b56]
 
 In section 5 of the Merchant Shipping (Liner Conferences) Act 1982 (liability of members of conference to be in proportion to their responsibility)[^f00015], in subsection (6), for the words from “Council Regulation” to the end substitute “Regulation (EU) No. 1215/2012 of the European Parliament and of the Council of 12 December 2012 on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters (recast), as amended from time to time and as applied by virtue of the Agreement made on 19 October 2005 between the European Community and the Kingdom of Denmark on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters (OJ No L 299, 16.11.2005, p62; OJ No L79, 21.3.2013, p4)”.
 
-### 2. The Companies Act [1989 (c. 40)](https://www.legislation.gov.uk/ukpga/1989/40)[^key-cdccb15c9110c23ff5602c080defde96]
+### 2. The Companies Act [1989 (c. 40)](https://www.legislation.gov.uk/ukpga/1989/40)[^c-cdccb15c9110c23ff5602c080defde96]
 
 In section 183 of the Companies Act 1989 (insolvency proceedings in other jurisdictions)[^f00016], in subsection (3), for the words from “Council Regulation” to the end substitute “Regulation (EU) No. 1215/2012 of the European Parliament and of the Council of 12 December 2012 on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters (recast), as amended from time to time and as applied by virtue of the Agreement made on 19 October 2005 between the European Community and the Kingdom of Denmark on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters (OJ No L 299, 16.11.2005, p62; OJ No L79, 21.3.2013, p4)”.
 
-### 3. The Companies (No. 2) (Northern Ireland) Order 1990 ([S.I. 1990/1504 (NI 10)](https://www.legislation.gov.uk/nisi/1990/1504))[^key-1c32d58c54bb49468704a0f767769a10]
+### 3. The Companies (No. 2) (Northern Ireland) Order 1990 ([S.I. 1990/1504 (NI 10)](https://www.legislation.gov.uk/nisi/1990/1504))[^c-1c32d58c54bb49468704a0f767769a10]
 
 In Article 104 of the Companies (No. 2) (Northern Ireland) Order 1990 (insolvency proceedings in other jurisdictions)[^f00017], in paragraph (3), for the words from “Council Regulation” to the end substitute “Regulation (EU) No. 1215/2012 of the European Parliament and of the Council of 12 December 2012 on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters (recast), as amended from time to time and as applied by virtue of the Agreement made on 19 October 2005 between the European Community and the Kingdom of Denmark on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters”.
 
-### 4. The High Court and County Courts Jurisdiction Order 1991 (S.I. No. 1991/724)[^key-a58c5c902d4c334541a807d302761cc4]
+### 4. The High Court and County Courts Jurisdiction Order 1991 (S.I. No. 1991/724)[^c-a58c5c902d4c334541a807d302761cc4]
 
 After article 6F of the High Court and County Courts Jurisdiction Order 1991[^f00018], insert—
 
@@ -248,15 +248,15 @@ After article 6F of the High Court and County Courts Jurisdiction Order 1991[^f0
 >
 > (2) An application for an adaptation order or a challenge under article 54(2) of the Judgments Regulation to the adaptation of any measure without an adaptation order must be made to the High Court.
 
-### 5. The Financial Markets and Insolvency (Settlement Finality) Regulations 1999 ([S.I. 1999/2979](https://www.legislation.gov.uk/uksi/1999/2979))[^key-bbf053ff8d875b180e726277ba3af3df]
+### 5. The Financial Markets and Insolvency (Settlement Finality) Regulations 1999 ([S.I. 1999/2979](https://www.legislation.gov.uk/uksi/1999/2979))[^c-bbf053ff8d875b180e726277ba3af3df]
 
 In regulation 25 of the Financial Markets and Insolvency (Settlement Finality) Regulations 1999 (insolvency proceedings in other jurisdictions)[^f00019], in paragraph (3), for the words from “Council Regulation” to the end substitute “Regulation (EU) No. 1215/2012 of the European Parliament and of the Council of 12 December 2012 on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters (recast), as amended from time to time and as applied by virtue of the Agreement made on 19 October 2005 between the European Community and the Kingdom of Denmark on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters (OJ No L 299, 16.11.2005, p62; OJ No L79, 21.3.2013, p4)”.
 
-### 6. The Criminal Proceedings etc. (Reform) (Scotland) Act [2007 (asp 6)](https://www.legislation.gov.uk/asp/2007/6)[^key-8ef50b83a3de965c74a93066f9e865c7]
+### 6. The Criminal Proceedings etc. (Reform) (Scotland) Act [2007 (asp 6)](https://www.legislation.gov.uk/asp/2007/6)[^c-8ef50b83a3de965c74a93066f9e865c7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. The Defamation Act [2013 (c. 26)](https://www.legislation.gov.uk/ukpga/2013/26)[^key-2d143641c94bebf4c8165bcc10b4c6f4]
+### 7. The Defamation Act [2013 (c. 26)](https://www.legislation.gov.uk/ukpga/2013/26)[^c-2d143641c94bebf4c8165bcc10b4c6f4]
 
 In section 9(5) of the Defamation Act 2013, in the definition of “the Brussels Regulation”, for the words from “Council Regulation” to the end substitute “Regulation (EU) No. 1215/2012 of the European Parliament and of the Council of 12 December 2012 on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters (recast), as amended from time to time and as applied by virtue of the Agreement made on 19 October 2005 between the European Community and the Kingdom of Denmark on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters (OJ No L 299, 16.11.2005, p62; OJ No L79, 21.3.2013, p4)”.
 
@@ -295,23 +295,23 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00002]: Footnote: The European Communities (Designation) (No. 2) Order 2008 ([S.I. 2008/1792](https://www.legislation.gov.uk/uksi/2008/1792)). Under section 57(1) of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46), despite the transfer to the Scottish Ministers of functions in relation to implementation of obligations under Community law in respect of devolved matters, the function of the Secretary of State in relation to implementing those obligations continues to be exercisable by the Secretary of State as regards Scotland. Implementation of obligations under Community law in respect of devolved matters is itself a devolved matter in Northern Ireland. However, the designation of the Secretary of State under the European Communities (Designation) (No. 2) Order 2008 in relation to private international law remains exercisable in relation to Northern Ireland. This is despite the designation of Northern Ireland Departments in relation to that matter by virtue of the European Communities (Designation) (No. 5) Order 2010 ([S.I. 2010/2690](https://www.legislation.gov.uk/uksi/2010/2690)), as that designation does not restrict the scope of other designations.
 
-[^key-c205f0e6747992efcfd65e65ee6996d9]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2014/2947/regulation/1) in force at 10.1.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2947/regulation/1/1)
+[^c-c205f0e6747992efcfd65e65ee6996d9]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2014/2947/regulation/1) in force at 10.1.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2947/regulation/1/1)
 
-[^key-a8d559a5c81685ba57d45381697fb2f6]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2014/2947/regulation/2) in force at 10.1.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2947/regulation/1/1)
+[^c-a8d559a5c81685ba57d45381697fb2f6]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2014/2947/regulation/2) in force at 10.1.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2947/regulation/1/1)
 
 [^f00003]: Footnote: [1982 c. 27](https://www.legislation.gov.uk/ukpga/1982/27). Relevant amendments were made by [S.I. 1989/1346](https://www.legislation.gov.uk/uksi/1989/1346), [S.I. 1990/2591](https://www.legislation.gov.uk/uksi/1990/2591), [S.I. 2000/1824](https://www.legislation.gov.uk/uksi/2000/1824), [S.I. 2001/3929](https://www.legislation.gov.uk/uksi/2001/3929), [S.I. 2007/1655](https://www.legislation.gov.uk/uksi/2007/1655) and [S.I. 2009/3131](https://www.legislation.gov.uk/uksi/2009/3131) and in the Civil Jurisdiction and Judgments Act 1991.
 
-[^key-e64efaa4317819e2a0396cd345c0f705]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2014/2947/regulation/3) in force at 10.1.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2947/regulation/1/1)
+[^c-e64efaa4317819e2a0396cd345c0f705]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2014/2947/regulation/3) in force at 10.1.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2947/regulation/1/1)
 
 [^f00004]: Footnote: [S.I. 2001/3929](https://www.legislation.gov.uk/uksi/2001/3929), amended by [S.I. 2007/1655](https://www.legislation.gov.uk/uksi/2007/1655), [S.I. 2011/1484](https://www.legislation.gov.uk/uksi/2011/1484) and [S.I. 2014/879](https://www.legislation.gov.uk/uksi/2014/879).
 
-[^key-30504a05a324720dd752d60062d89293]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2014/2947/regulation/4) in force at 10.1.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2947/regulation/1/1)
+[^c-30504a05a324720dd752d60062d89293]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2014/2947/regulation/4) in force at 10.1.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2947/regulation/1/1)
 
 [^f00005]: Footnote: [S.I. 2001/3928](https://www.legislation.gov.uk/uksi/2001/3928), amended by [S.I. 2007/1655](https://www.legislation.gov.uk/uksi/2007/1655) and [S.I. 2011/1484](https://www.legislation.gov.uk/uksi/2011/1484).
 
-[^key-1c90428c312348306228874e77ed3fad]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2014/2947/regulation/5) in force at 10.1.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2947/regulation/1/1)
+[^c-1c90428c312348306228874e77ed3fad]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2014/2947/regulation/5) in force at 10.1.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2947/regulation/1/1)
 
-[^key-f16a3255db5646464fb0b81c757f748a]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2014/2947/regulation/6) in force at 10.1.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2947/regulation/1/1)
+[^c-f16a3255db5646464fb0b81c757f748a]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2014/2947/regulation/6) in force at 10.1.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2947/regulation/1/1)
 
 [^f00006]: Footnote: OJ No. L 351, 20.12.2012, p.1
 
@@ -321,58 +321,58 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00009]: Footnote: OJ No L 299, 16.11.2005, p62.
 
-[^key-680335e20aacf8f6f97a2a282e35d1a4]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2014/2947/schedule/1/paragraph/1) in force at 10.1.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2947/regulation/1/1)
+[^c-680335e20aacf8f6f97a2a282e35d1a4]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2014/2947/schedule/1/paragraph/1) in force at 10.1.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2947/regulation/1/1)
 
-[^key-26f6273c13bd313ca6a9b6e066e5a267]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2014/2947/schedule/1/paragraph/2) in force at 10.1.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2947/regulation/1/1)
+[^c-26f6273c13bd313ca6a9b6e066e5a267]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2014/2947/schedule/1/paragraph/2) in force at 10.1.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2947/regulation/1/1)
 
-[^key-75e0af14b2d63e732ee85044f8a83048]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2014/2947/schedule/1/paragraph/3) in force at 10.1.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2947/regulation/1/1)
+[^c-75e0af14b2d63e732ee85044f8a83048]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2014/2947/schedule/1/paragraph/3) in force at 10.1.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2947/regulation/1/1)
 
-[^key-7c2a1e6bb8fa3440d8aa2cb4703f0f68]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2014/2947/schedule/1/paragraph/4) in force at 10.1.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2947/regulation/1/1)
+[^c-7c2a1e6bb8fa3440d8aa2cb4703f0f68]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2014/2947/schedule/1/paragraph/4) in force at 10.1.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2947/regulation/1/1)
 
-[^key-cd0dafdf99af7e33121bb8b570b1e56a]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2014/2947/schedule/2/paragraph/1) in force at 10.1.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2947/regulation/1/1)
+[^c-cd0dafdf99af7e33121bb8b570b1e56a]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2014/2947/schedule/2/paragraph/1) in force at 10.1.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2947/regulation/1/1)
 
-[^key-e9511007e31c4980730f134eb3566ed8]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2014/2947/schedule/2/paragraph/2) in force at 10.1.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2947/regulation/1/1)
+[^c-e9511007e31c4980730f134eb3566ed8]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2014/2947/schedule/2/paragraph/2) in force at 10.1.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2947/regulation/1/1)
 
 [^f00010]: Footnote: OJ No. L 351, 20.12.2012, p.1
 
 [^f00011]: Footnote: OJ No L 299, 16.11.2005, p62; OJ No L79, 21.3.2013, p4
 
-[^key-771c83590a8242150f2f9e52094ddd14]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2014/2947/schedule/2/paragraph/3) in force at 10.1.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2947/regulation/1/1)
+[^c-771c83590a8242150f2f9e52094ddd14]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2014/2947/schedule/2/paragraph/3) in force at 10.1.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2947/regulation/1/1)
 
 [^f00012]: Footnote: [SI 1981/226 (NI 6)](https://www.legislation.gov.uk/nisi/1981/226)
 
-[^key-048145d1facaebbe19bf545453cd10cc]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2014/2947/schedule/3/paragraph/1) in force at 10.1.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2947/regulation/1/1)
+[^c-048145d1facaebbe19bf545453cd10cc]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2014/2947/schedule/3/paragraph/1) in force at 10.1.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2947/regulation/1/1)
 
-[^key-d95796b7b813758b00c4859366c5e276]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2014/2947/schedule/3/paragraph/2) in force at 10.1.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2947/regulation/1/1)
+[^c-d95796b7b813758b00c4859366c5e276]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2014/2947/schedule/3/paragraph/2) in force at 10.1.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2947/regulation/1/1)
 
 [^f00013]: Footnote: OJ No. L 351, 20.12.2012, p.1
 
 [^f00014]: Footnote: OJ No L 299, 16.11.2005, p62; OJ No L79, 21.3.2013, p4.
 
-[^key-7152f7bd75212e2e525db348ae313620]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2014/2947/schedule/3/paragraph/3) in force at 10.1.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2947/regulation/1/1)
+[^c-7152f7bd75212e2e525db348ae313620]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2014/2947/schedule/3/paragraph/3) in force at 10.1.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2947/regulation/1/1)
 
-[^key-eff05bb01eafeb85d9ab8c0a12be6524]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2014/2947/schedule/3/paragraph/4) in force at 10.1.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2947/regulation/1/1)
+[^c-eff05bb01eafeb85d9ab8c0a12be6524]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2014/2947/schedule/3/paragraph/4) in force at 10.1.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2947/regulation/1/1)
 
-[^key-ed480d658548a5f1a590e05fe5044b56]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2014/2947/schedule/4/paragraph/1) in force at 10.1.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2947/regulation/1/1)
+[^c-ed480d658548a5f1a590e05fe5044b56]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2014/2947/schedule/4/paragraph/1) in force at 10.1.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2947/regulation/1/1)
 
 [^f00015]: Footnote: Subsection (6) of section 5 was amended by [S.I. 2001/3929](https://www.legislation.gov.uk/uksi/2001/3929), article 5, Schedule 3, paragraph 17, and by [S.I. 2007/1655](https://www.legislation.gov.uk/uksi/2007/1655), regulation 5, Schedule, Part 1, paragraph 11.
 
-[^key-cdccb15c9110c23ff5602c080defde96]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2014/2947/schedule/4/paragraph/2) in force at 10.1.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2947/regulation/1/1)
+[^c-cdccb15c9110c23ff5602c080defde96]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2014/2947/schedule/4/paragraph/2) in force at 10.1.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2947/regulation/1/1)
 
 [^f00016]: Footnote: Subsection (3) of section 183 was amended by [S.I. 2001/3929](https://www.legislation.gov.uk/uksi/2001/3929), article 5, Schedule 3, paragraph 21, and by [S.I. 2007/1655](https://www.legislation.gov.uk/uksi/2007/1655), regulation 5, Schedule, Part 1, paragraph 15.
 
-[^key-1c32d58c54bb49468704a0f767769a10]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2014/2947/schedule/4/paragraph/3) in force at 10.1.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2947/regulation/1/1)
+[^c-1c32d58c54bb49468704a0f767769a10]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2014/2947/schedule/4/paragraph/3) in force at 10.1.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2947/regulation/1/1)
 
 [^f00017]: Footnote: Paragraph (3) of article 104 was amended by [S.I. 2001/3929](https://www.legislation.gov.uk/uksi/2001/3929), article 5, Schedule 3, paragraph 23, and by [S.I. 2007/1655](https://www.legislation.gov.uk/uksi/2007/1655), regulation 5, Schedule, Part 1, paragraph 27(2).
 
-[^key-a58c5c902d4c334541a807d302761cc4]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/2014/2947/schedule/4/paragraph/4) in force at 10.1.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2947/regulation/1/1)
+[^c-a58c5c902d4c334541a807d302761cc4]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/2014/2947/schedule/4/paragraph/4) in force at 10.1.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2947/regulation/1/1)
 
 [^f00018]: Footnote: Article 6F was inserted by [S.I. 2014/821](https://www.legislation.gov.uk/uksi/2014/821), article 2(1) and (8).
 
-[^key-bbf053ff8d875b180e726277ba3af3df]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/2014/2947/schedule/4/paragraph/5) in force at 10.1.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2947/regulation/1/1)
+[^c-bbf053ff8d875b180e726277ba3af3df]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/2014/2947/schedule/4/paragraph/5) in force at 10.1.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2947/regulation/1/1)
 
 [^f00019]: Footnote: Paragraph (3) of regulation 25 was amended by [S.I. 2001/3929](https://www.legislation.gov.uk/uksi/2001/3929), article 5, Schedule 3, paragraph 27, and by [S.I. 2007/1655](https://www.legislation.gov.uk/uksi/2007/1655), regulation 5, Schedule, Part 2, paragraph 32.
 
-[^key-8ef50b83a3de965c74a93066f9e865c7]: Textual amendment: [Sch. 4 para. 6](https://www.legislation.gov.uk/uksi/2014/2947/schedule/4/paragraph/6) revoked (31.12.2020) by [The Criminal Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/339)](https://www.legislation.gov.uk/ssi/2020/339), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3), [5(e)](https://www.legislation.gov.uk/ssi/2020/339/regulation/5/e)
+[^c-8ef50b83a3de965c74a93066f9e865c7]: Textual amendment: [Sch. 4 para. 6](https://www.legislation.gov.uk/uksi/2014/2947/schedule/4/paragraph/6) revoked (31.12.2020) by [The Criminal Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/339)](https://www.legislation.gov.uk/ssi/2020/339), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3), [5(e)](https://www.legislation.gov.uk/ssi/2020/339/regulation/5/e)
 
-[^key-2d143641c94bebf4c8165bcc10b4c6f4]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/uksi/2014/2947/schedule/4/paragraph/7) in force at 10.1.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2947/regulation/1/1)
+[^c-2d143641c94bebf4c8165bcc10b4c6f4]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/uksi/2014/2947/schedule/4/paragraph/7) in force at 10.1.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2947/regulation/1/1)

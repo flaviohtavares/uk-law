@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 361. Waste recycling plans.[^key-e181e5776006a9031bfe74ff574924b9]
+## 361. Waste recycling plans.[^c-e181e5776006a9031bfe74ff574924b9]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e181e5776006a9031bfe74ff574924b9]: Textual amendment: S. 361 repealed (1.1.2005) by [Waste and Emissions Trading Act 2003 (c. 33)](https://www.legislation.gov.uk/ukpga/2003/33), [ss. 35(b)](https://www.legislation.gov.uk/ukpga/2003/33/section/35/b), [40(1)](https://www.legislation.gov.uk/ukpga/2003/33/section/40/1); [S.I. 2004/3320](https://www.legislation.gov.uk/uksi/2004/3320), [art. 2](https://www.legislation.gov.uk/uksi/2004/3320/article/2)
+[^c-e181e5776006a9031bfe74ff574924b9]: Textual amendment: S. 361 repealed (1.1.2005) by [Waste and Emissions Trading Act 2003 (c. 33)](https://www.legislation.gov.uk/ukpga/2003/33), [ss. 35(b)](https://www.legislation.gov.uk/ukpga/2003/33/section/35/b), [40(1)](https://www.legislation.gov.uk/ukpga/2003/33/section/40/1); [S.I. 2004/3320](https://www.legislation.gov.uk/uksi/2004/3320), [art. 2](https://www.legislation.gov.uk/uksi/2004/3320/article/2)

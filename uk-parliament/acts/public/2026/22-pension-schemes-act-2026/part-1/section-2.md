@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Asset management[^key-453f0bbab6c1335cd654d268b657681c]
+## 2. Asset management[^c-453f0bbab6c1335cd654d268b657681c]
 
 *Extent: E+W+S*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-453f0bbab6c1335cd654d268b657681c]: Commencement: S. 2 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)
+[^c-453f0bbab6c1335cd654d268b657681c]: Commencement: S. 2 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)

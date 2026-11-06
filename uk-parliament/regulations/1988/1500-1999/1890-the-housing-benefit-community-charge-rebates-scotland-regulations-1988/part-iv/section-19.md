@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 19. Calculation of net earnings of employed earners[^key-2be40e331fd01c4c6c64765f829cab8e]
+## 19. Calculation of net earnings of employed earners[^c-2be40e331fd01c4c6c64765f829cab8e]
 
 *Extent: E+W+S*
 
@@ -39,7 +39,7 @@ summary: ''
 
 ## Annotations
 
-[^key-2be40e331fd01c4c6c64765f829cab8e]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/1988/1890/regulation/19) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
+[^c-2be40e331fd01c4c6c64765f829cab8e]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/1988/1890/regulation/19) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
 
 [^f00044]: Footnote: See sections 1(2) and 4 of the Social Security Act [1975 (c. 14)](https://www.legislation.gov.uk/ukpga/1975/14); section 4 was amended by the Social Security Pensions Act [1975 (c. 60)](https://www.legislation.gov.uk/ukpga/1975/60), Schedule 4 paragraph 36(a), the Education (School-Leaving Dates) Act [1976 (c. 5)](https://www.legislation.gov.uk/ukpga/1976/5), section 2(4), the Social Security Act [1979 (c. 18)](https://www.legislation.gov.uk/ukpga/1979/18), section 14(1), the Social Security and Housing Benefits Act [1982 (c. 24)](https://www.legislation.gov.uk/ukpga/1982/24), Schedule 5, the Social Security Act [1985 (c. 53)](https://www.legislation.gov.uk/ukpga/1985/53), sections 7(1) and (2) and 8(1) and the Social Security Act [1986 (c. 50)](https://www.legislation.gov.uk/ukpga/1986/50), section 74(1)(a) and (2) and Schedule 10, paragraph 104 article 2 of S.I. [1986/25](https://www.legislation.gov.uk/uksi/1986/25) and article 2 of S.I. [1987/46](https://www.legislation.gov.uk/uksi/1987/46).
 

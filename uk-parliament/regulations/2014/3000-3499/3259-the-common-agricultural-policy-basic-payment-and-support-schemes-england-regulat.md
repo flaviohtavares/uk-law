@@ -32,7 +32,7 @@ summary: ''
 
 Agriculture, England
 
-The Common Agricultural Policy Basic Payment and Support Schemes (England) Regulations 2014 (revoked)[^key-2982cfea5e3c3571f0bed87b4ed02d9f]
+The Common Agricultural Policy Basic Payment and Support Schemes (England) Regulations 2014 (revoked)[^c-2982cfea5e3c3571f0bed87b4ed02d9f]
 
 Made
 
@@ -46,88 +46,88 @@ Coming into force
 
 1st January 2015
 
-[^key-2982cfea5e3c3571f0bed87b4ed02d9f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2982cfea5e3c3571f0bed87b4ed02d9f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-2982cfea5e3c3571f0bed87b4ed02d9f]
+## 1. Title, application and commencement[^c-2982cfea5e3c3571f0bed87b4ed02d9f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-2982cfea5e3c3571f0bed87b4ed02d9f]
+## 2. Interpretation[^c-2982cfea5e3c3571f0bed87b4ed02d9f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Regions[^key-2982cfea5e3c3571f0bed87b4ed02d9f]
+## 3. Regions[^c-2982cfea5e3c3571f0bed87b4ed02d9f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Short rotation coppice[^key-2982cfea5e3c3571f0bed87b4ed02d9f]
+## 4. Short rotation coppice[^c-2982cfea5e3c3571f0bed87b4ed02d9f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Minimum eligible area of holding[^key-2982cfea5e3c3571f0bed87b4ed02d9f]
+## 5. Minimum eligible area of holding[^c-2982cfea5e3c3571f0bed87b4ed02d9f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Date on which eligible land must be at farmer’s disposal[^key-2982cfea5e3c3571f0bed87b4ed02d9f]
+## 6. Date on which eligible land must be at farmer’s disposal[^c-2982cfea5e3c3571f0bed87b4ed02d9f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Reductions[^key-2982cfea5e3c3571f0bed87b4ed02d9f]
+## 7. Reductions[^c-2982cfea5e3c3571f0bed87b4ed02d9f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Payment entitlements[^key-2982cfea5e3c3571f0bed87b4ed02d9f]
+## 8. Payment entitlements[^c-2982cfea5e3c3571f0bed87b4ed02d9f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Young farmers[^key-2982cfea5e3c3571f0bed87b4ed02d9f]
+## 9. Young farmers[^c-2982cfea5e3c3571f0bed87b4ed02d9f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Active farmers[^key-2982cfea5e3c3571f0bed87b4ed02d9f]
+## 10. Active farmers[^c-2982cfea5e3c3571f0bed87b4ed02d9f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Crop diversification[^key-2982cfea5e3c3571f0bed87b4ed02d9f]
+## 11. Crop diversification[^c-2982cfea5e3c3571f0bed87b4ed02d9f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Permanent grassland[^key-2982cfea5e3c3571f0bed87b4ed02d9f]
+## 12. Permanent grassland[^c-2982cfea5e3c3571f0bed87b4ed02d9f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Ecological focus areas[^key-2982cfea5e3c3571f0bed87b4ed02d9f]
+## 13. Ecological focus areas[^c-2982cfea5e3c3571f0bed87b4ed02d9f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Review[^key-2982cfea5e3c3571f0bed87b4ed02d9f]
+## 14. Review[^c-2982cfea5e3c3571f0bed87b4ed02d9f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Revocations and savings[^key-2982cfea5e3c3571f0bed87b4ed02d9f]
+## 15. Revocations and savings[^c-2982cfea5e3c3571f0bed87b4ed02d9f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2982cfea5e3c3571f0bed87b4ed02d9f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2982cfea5e3c3571f0bed87b4ed02d9f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Ecological focus areas: further criteria[^key-2982cfea5e3c3571f0bed87b4ed02d9f]
+## SCHEDULE — Ecological focus areas: further criteria[^c-2982cfea5e3c3571f0bed87b4ed02d9f]
 
 Regulation 13(4)(a) and (5)
 
-### PART 1 — Crop species that may be used in a mixture of crop species for the purposes of Article 45(9) of the Direct Payments Delegated Regulation[^key-2982cfea5e3c3571f0bed87b4ed02d9f]
+### PART 1 — Crop species that may be used in a mixture of crop species for the purposes of Article 45(9) of the Direct Payments Delegated Regulation[^c-2982cfea5e3c3571f0bed87b4ed02d9f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Nitrogen-fixing crops for the purposes of Article 45(10) of the Direct Payments Delegated Regulation[^key-2982cfea5e3c3571f0bed87b4ed02d9f]
+### PART 2 — Nitrogen-fixing crops for the purposes of Article 45(10) of the Direct Payments Delegated Regulation[^c-2982cfea5e3c3571f0bed87b4ed02d9f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2982cfea5e3c3571f0bed87b4ed02d9f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2982cfea5e3c3571f0bed87b4ed02d9f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2982cfea5e3c3571f0bed87b4ed02d9f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2014/3259) revoked (1.1.2024) by [The Agriculture (Delinked Payments and Consequential Provisions) (England) Regulations 2023 (S.I. 2023/1430)](https://www.legislation.gov.uk/uksi/2023/1430), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2023/1430/regulation/1/2/a), [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2023/1430/schedule/3/paragraph/1) Table 2 (with [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1430/schedule/3/part/2))
+[^c-2982cfea5e3c3571f0bed87b4ed02d9f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2014/3259) revoked (1.1.2024) by [The Agriculture (Delinked Payments and Consequential Provisions) (England) Regulations 2023 (S.I. 2023/1430)](https://www.legislation.gov.uk/uksi/2023/1430), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2023/1430/regulation/1/2/a), [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2023/1430/schedule/3/paragraph/1) Table 2 (with [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1430/schedule/3/part/2))

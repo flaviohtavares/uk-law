@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 167ZZ13. Restrictions on contracting out[^key-625aea7685965b53f692f6806889f367][^key-603f634d6b71939bbf7898b28d6e6428][^key-42e0682e3e71e6783b3e83a114db9dd7][^key-bac34cb91b2df0c5d2f2cf7ac582873d]
+## 167ZZ13. Restrictions on contracting out[^c-625aea7685965b53f692f6806889f367][^c-603f634d6b71939bbf7898b28d6e6428][^c-42e0682e3e71e6783b3e83a114db9dd7][^c-bac34cb91b2df0c5d2f2cf7ac582873d]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,10 +32,10 @@ summary: ''
 
 ## Annotations
 
-[^key-625aea7685965b53f692f6806889f367]: Textual amendment: [Pt. 12ZD](https://www.legislation.gov.uk/ukpga/1992/7/part/12ZD) inserted (22.3.2022) by [Parental Bereavement (Leave and Pay) Act (Northern Ireland) 2022 (c. 5)](https://www.legislation.gov.uk/nia/2022/5), [ss. 2](https://www.legislation.gov.uk/nia/2022/5/section/2), [5(1)](https://www.legislation.gov.uk/nia/2022/5/section/5/1)
+[^c-625aea7685965b53f692f6806889f367]: Textual amendment: [Pt. 12ZD](https://www.legislation.gov.uk/ukpga/1992/7/part/12ZD) inserted (22.3.2022) by [Parental Bereavement (Leave and Pay) Act (Northern Ireland) 2022 (c. 5)](https://www.legislation.gov.uk/nia/2022/5), [ss. 2](https://www.legislation.gov.uk/nia/2022/5/section/2), [5(1)](https://www.legislation.gov.uk/nia/2022/5/section/5/1)
 
-[^key-603f634d6b71939bbf7898b28d6e6428]: Modification: [Pt. 12ZD](https://www.legislation.gov.uk/ukpga/1992/7/part/12ZD) excluded (29.9.2023) by [The Statutory Parental Bereavement Pay (General) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/155)](https://www.legislation.gov.uk/nisr/2023/155), [regs. 1](https://www.legislation.gov.uk/nisr/2023/155/regulation/1), [11(5)](https://www.legislation.gov.uk/nisr/2023/155/regulation/11/5)
+[^c-603f634d6b71939bbf7898b28d6e6428]: Modification: [Pt. 12ZD](https://www.legislation.gov.uk/ukpga/1992/7/part/12ZD) excluded (29.9.2023) by [The Statutory Parental Bereavement Pay (General) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/155)](https://www.legislation.gov.uk/nisr/2023/155), [regs. 1](https://www.legislation.gov.uk/nisr/2023/155/regulation/1), [11(5)](https://www.legislation.gov.uk/nisr/2023/155/regulation/11/5)
 
-[^key-42e0682e3e71e6783b3e83a114db9dd7]: Modification: [Pt. 12ZD](https://www.legislation.gov.uk/ukpga/1992/7/part/12ZD) modified (29.9.2023) by [The Statutory Parental Bereavement Pay (General) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/155)](https://www.legislation.gov.uk/nisr/2023/155), [regs. 1](https://www.legislation.gov.uk/nisr/2023/155/regulation/1), [18(1)](https://www.legislation.gov.uk/nisr/2023/155/regulation/18/1)
+[^c-42e0682e3e71e6783b3e83a114db9dd7]: Modification: [Pt. 12ZD](https://www.legislation.gov.uk/ukpga/1992/7/part/12ZD) modified (29.9.2023) by [The Statutory Parental Bereavement Pay (General) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/155)](https://www.legislation.gov.uk/nisr/2023/155), [regs. 1](https://www.legislation.gov.uk/nisr/2023/155/regulation/1), [18(1)](https://www.legislation.gov.uk/nisr/2023/155/regulation/18/1)
 
-[^key-bac34cb91b2df0c5d2f2cf7ac582873d]: Modification: [Pt. 12ZD](https://www.legislation.gov.uk/ukpga/1992/7/part/12ZD) modified (29.9.2023) by [The Statutory Parental Bereavement Pay (General) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/155)](https://www.legislation.gov.uk/nisr/2023/155), [regs. 1](https://www.legislation.gov.uk/nisr/2023/155/regulation/1), [11(4)](https://www.legislation.gov.uk/nisr/2023/155/regulation/11/4)
+[^c-bac34cb91b2df0c5d2f2cf7ac582873d]: Modification: [Pt. 12ZD](https://www.legislation.gov.uk/ukpga/1992/7/part/12ZD) modified (29.9.2023) by [The Statutory Parental Bereavement Pay (General) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/155)](https://www.legislation.gov.uk/nisr/2023/155), [regs. 1](https://www.legislation.gov.uk/nisr/2023/155/regulation/1), [11(4)](https://www.legislation.gov.uk/nisr/2023/155/regulation/11/4)

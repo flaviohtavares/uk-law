@@ -49,7 +49,7 @@ Coming into force
 
 The Scottish Ministers, in exercise of the powers conferred by section 15(1) and (2) of the Fisheries Act 1981[^f00001] and of all other powers enabling them in that behalf, hereby make the following Scheme:
 
-## 1. Citation, commencement and extent[^key-f586041f9dc30c985ca73dafdeebc6b5]
+## 1. Citation, commencement and extent[^c-f586041f9dc30c985ca73dafdeebc6b5]
 
 (1) This Scheme may be cited as the Fishing Vessels (Satellite-tracking Devices) (Scotland) Scheme 2004 and shall come into force on 8th September 2004.
 
@@ -57,7 +57,7 @@ The Scottish Ministers, in exercise of the powers conferred by section 15(1) and
 
 (3) Insofar as it extends beyond Scotland and the Scottish zone, it does so only as a matter of Scots law.
 
-## 2. Interpretation[^key-ade333151d1b47a8473067218d8288d1]
+## 2. Interpretation[^c-ade333151d1b47a8473067218d8288d1]
 
 (1) In this Scheme–
 
@@ -74,7 +74,7 @@ The Scottish Ministers, in exercise of the powers conferred by section 15(1) and
 
 (2) Any reference in this Scheme to a numbered paragraph shall be construed as a reference to the paragraph so numbered in this Scheme.
 
-## 3. Satellite-tracking device grants[^key-2f57c9917d5a75115b93162192960e62]
+## 3. Satellite-tracking device grants[^c-2f57c9917d5a75115b93162192960e62]
 
 (1) Any person who owns a registered vessel which–
 
@@ -98,7 +98,7 @@ may make an application to the Scottish Ministers in respect of that vessel for 
 - “registered” means registered in the register of vessels established under section 8 of the Merchant Shipping Act 1995[^f00005]; and
 - “Scottish based fishing vessel” means a fishing vessel, the port of administration of which is, at the date of the application relating to the vessel, a port in Scotland, and which either had such a port of administration at 30th July 2004 or which is deemed by the Scottish Ministers to be eligible to make an application.
 
-## 4. Applications[^key-af57b5b37e5d4801f78c3cae971a4903]
+## 4. Applications[^c-af57b5b37e5d4801f78c3cae971a4903]
 
 (1) The Scottish Ministers may from time to time invite applications and where they do so the following provisions of this paragraph shall apply.
 
@@ -126,14 +126,14 @@ as the Scottish Ministers may specify in the notice or from time to time require
 
 (6) An applicant shall furnish all such further information relating to the application as the Scottish Ministers may specify in the notice or from time to time require.
 
-## 5. Consideration of applications[^key-1c6ce5c261a003ce874d4c49c4c8c0e6]
+## 5. Consideration of applications[^c-1c6ce5c261a003ce874d4c49c4c8c0e6]
 
 As soon as reasonably practicable after the appropriate closing date the Scottish Ministers shall–
 
 - (a) identify those applications made in pursuance of the notice published under paragraph 4(4) which satisfy the foregoing provisions of this Scheme; and
 - (b) reject any application they consider to be unreasonable, unnecessary or unwarranted.
 
-## 6. Approval of applications[^key-511892de8ade9ae5377283279e51a3a4]
+## 6. Approval of applications[^c-511892de8ade9ae5377283279e51a3a4]
 
 (1) The Scottish Ministers shall approve any application which they have identified under paragraph 5(a).
 
@@ -149,7 +149,7 @@ As soon as reasonably practicable after the appropriate closing date the Scottis
 - (a) notify applicants of the result of their applications; and
 - (b) notify applicants whose applications they have approved under this paragraph of any conditions which they have determined or amended under sub-paragraph (2).
 
-## 7. Eligibility for and payment of grant[^key-469e93a770805bfc7c37df66875812f1]
+## 7. Eligibility for and payment of grant[^c-469e93a770805bfc7c37df66875812f1]
 
 (1) Subject to sub-paragraph (2) and paragraph 11, applicants whose applications have been approved under paragraph 6 shall be eligible for payment of grant in accordance with paragraph 8.
 
@@ -158,17 +158,17 @@ As soon as reasonably practicable after the appropriate closing date the Scottis
 - (a) the satellite-tracking device installed on board the vessel by the authorised provider complies with the requirements of Commission Regulation No. 2244/2003; and
 - (b) any relevant conditions have been complied with.
 
-## 8. Method of payment[^key-a75bfe8d3faea23d957196ec8c32c9aa]
+## 8. Method of payment[^c-a75bfe8d3faea23d957196ec8c32c9aa]
 
 (1) Payment of grant may be made by the Scottish Ministers at such time, or by such instalments at such intervals or times, as they may determine.
 
 (2) The Scottish Ministers may make payment of grant direct to the authorised provider on behalf of the applicant.
 
-## 9. Assistance to authorised officers[^key-b7492f069d41fd71e29a3526f8e3f5bc]
+## 9. Assistance to authorised officers[^c-b7492f069d41fd71e29a3526f8e3f5bc]
 
 Any applicant or any employee or agent of any applicant shall give to an authorised officer such assistance as the officer may reasonably request in order to exercise the powers conferred on the officer by paragraph 10.
 
-## 10. Powers of authorised officers[^key-a5495582f38ad277b570ceb925826e9d]
+## 10. Powers of authorised officers[^c-a5495582f38ad277b570ceb925826e9d]
 
 (1) An authorised officer at all reasonable hours and on producing, if required to do so, some duly authenticated document showing the authority of the officer, may exercise the powers specified in this paragraph for the purpose of ascertaining whether and to what extent–
 
@@ -207,7 +207,7 @@ Any applicant or any employee or agent of any applicant shall give to an authori
 - “relevant document” means any document relating to the vessel in respect of which an application has been made;
 - “relevant premises” includes the vessel in respect of which an application has been made and any premises in which a relevant document is retained or in which an authorised officer has reasonable grounds to believe such a document may be retained.
 
-## 11. Reduction, withholding and recovery of grant[^key-aff571b855ded5fc03324d6826f848e9]
+## 11. Reduction, withholding and recovery of grant[^c-aff571b855ded5fc03324d6826f848e9]
 
 (1) If at any time after the Scottish Ministers have approved an application in respect of any vessel it appears to them–
 
@@ -229,7 +229,7 @@ they may revoke the approval of such application or withhold the grant or any pa
 - (b) afford the applicant the opportunity of making written representations within such time as the Scottish Ministers consider reasonable; and
 - (c) consider any such representations.
 
-## 12. Interest[^key-8f26420421336025f62e9f8015db0af3]
+## 12. Interest[^c-8f26420421336025f62e9f8015db0af3]
 
 (1) Where the Scottish Ministers intend to recover on demand payment of grant in whole or in part in accordance with paragraph 11, they may, in addition, recover interest on that amount at a rate of 1% above LIBOR calculated on a daily basis for the period from the date of payment until the date of recovery.
 
@@ -271,34 +271,34 @@ Section 17 of the Fisheries Act 1981 creates offences in respect of the producti
 
 [^f00001]: Footnote: [1981 c. 29](https://www.legislation.gov.uk/ukpga/1981/29). See section 18(1) of the Fisheries Act 1981 for a definition of “the Ministers” relevant for the purposes of this Scheme. Sections 15(2) and 18(1) were amended by the Scotland Act 1998 (Consequential Modifications) (No. 2) Order 1999 (S.I. [1999/1820](https://www.legislation.gov.uk/uksi/1999/1820)) Schedule 2, paragraph 68(1), (2) and (3) and have effect in relation to Scotland as modified by section 18A inserted by that Order, Schedule 2, paragraph 68(4).
 
-[^key-f586041f9dc30c985ca73dafdeebc6b5]: Commencement: [S. 1](https://www.legislation.gov.uk/ssi/2004/379/section/1) in force at 8.9.2004, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2004/379/paragraph/1/1)
+[^c-f586041f9dc30c985ca73dafdeebc6b5]: Commencement: [S. 1](https://www.legislation.gov.uk/ssi/2004/379/section/1) in force at 8.9.2004, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2004/379/paragraph/1/1)
 
-[^key-ade333151d1b47a8473067218d8288d1]: Commencement: [S. 2](https://www.legislation.gov.uk/ssi/2004/379/section/2) in force at 8.9.2004, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2004/379/paragraph/1/1)
+[^c-ade333151d1b47a8473067218d8288d1]: Commencement: [S. 2](https://www.legislation.gov.uk/ssi/2004/379/section/2) in force at 8.9.2004, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2004/379/paragraph/1/1)
 
 [^f00002]: Footnote: O.J. No. L 333, 20.12.03, p.17.
 
 [^f00003]: Footnote: [1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46). The sea within the British Fishery Limits (that is the limits set by or under section 1 of the Fishery Limits Act [1976 (c. 86)](https://www.legislation.gov.uk/ukpga/1976/86)) which is adjacent to Scotland is determined by the Scottish Adjacent Waters Boundaries Order 1999 (S.I. [1999/1126](https://www.legislation.gov.uk/uksi/1999/1126)).
 
-[^key-2f57c9917d5a75115b93162192960e62]: Commencement: [S. 3](https://www.legislation.gov.uk/ssi/2004/379/section/3) in force at 8.9.2004, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2004/379/paragraph/1/1)
+[^c-2f57c9917d5a75115b93162192960e62]: Commencement: [S. 3](https://www.legislation.gov.uk/ssi/2004/379/section/3) in force at 8.9.2004, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2004/379/paragraph/1/1)
 
 [^f00004]: Footnote: [1967 c. 84](https://www.legislation.gov.uk/ukpga/1967/84).
 
 [^f00005]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21).
 
-[^key-af57b5b37e5d4801f78c3cae971a4903]: Commencement: [S. 4](https://www.legislation.gov.uk/ssi/2004/379/section/4) in force at 8.9.2004, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2004/379/paragraph/1/1)
+[^c-af57b5b37e5d4801f78c3cae971a4903]: Commencement: [S. 4](https://www.legislation.gov.uk/ssi/2004/379/section/4) in force at 8.9.2004, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2004/379/paragraph/1/1)
 
-[^key-1c6ce5c261a003ce874d4c49c4c8c0e6]: Commencement: [S. 5](https://www.legislation.gov.uk/ssi/2004/379/section/5) in force at 8.9.2004, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2004/379/paragraph/1/1)
+[^c-1c6ce5c261a003ce874d4c49c4c8c0e6]: Commencement: [S. 5](https://www.legislation.gov.uk/ssi/2004/379/section/5) in force at 8.9.2004, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2004/379/paragraph/1/1)
 
-[^key-511892de8ade9ae5377283279e51a3a4]: Commencement: [S. 6](https://www.legislation.gov.uk/ssi/2004/379/section/6) in force at 8.9.2004, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2004/379/paragraph/1/1)
+[^c-511892de8ade9ae5377283279e51a3a4]: Commencement: [S. 6](https://www.legislation.gov.uk/ssi/2004/379/section/6) in force at 8.9.2004, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2004/379/paragraph/1/1)
 
-[^key-469e93a770805bfc7c37df66875812f1]: Commencement: [S. 7](https://www.legislation.gov.uk/ssi/2004/379/section/7) in force at 8.9.2004, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2004/379/paragraph/1/1)
+[^c-469e93a770805bfc7c37df66875812f1]: Commencement: [S. 7](https://www.legislation.gov.uk/ssi/2004/379/section/7) in force at 8.9.2004, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2004/379/paragraph/1/1)
 
-[^key-a75bfe8d3faea23d957196ec8c32c9aa]: Commencement: [S. 8](https://www.legislation.gov.uk/ssi/2004/379/section/8) in force at 8.9.2004, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2004/379/paragraph/1/1)
+[^c-a75bfe8d3faea23d957196ec8c32c9aa]: Commencement: [S. 8](https://www.legislation.gov.uk/ssi/2004/379/section/8) in force at 8.9.2004, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2004/379/paragraph/1/1)
 
-[^key-b7492f069d41fd71e29a3526f8e3f5bc]: Commencement: [S. 9](https://www.legislation.gov.uk/ssi/2004/379/section/9) in force at 8.9.2004, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2004/379/paragraph/1/1)
+[^c-b7492f069d41fd71e29a3526f8e3f5bc]: Commencement: [S. 9](https://www.legislation.gov.uk/ssi/2004/379/section/9) in force at 8.9.2004, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2004/379/paragraph/1/1)
 
-[^key-a5495582f38ad277b570ceb925826e9d]: Commencement: [S. 10](https://www.legislation.gov.uk/ssi/2004/379/section/10) in force at 8.9.2004, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2004/379/paragraph/1/1)
+[^c-a5495582f38ad277b570ceb925826e9d]: Commencement: [S. 10](https://www.legislation.gov.uk/ssi/2004/379/section/10) in force at 8.9.2004, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2004/379/paragraph/1/1)
 
-[^key-aff571b855ded5fc03324d6826f848e9]: Commencement: [S. 11](https://www.legislation.gov.uk/ssi/2004/379/section/11) in force at 8.9.2004, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2004/379/paragraph/1/1)
+[^c-aff571b855ded5fc03324d6826f848e9]: Commencement: [S. 11](https://www.legislation.gov.uk/ssi/2004/379/section/11) in force at 8.9.2004, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2004/379/paragraph/1/1)
 
-[^key-8f26420421336025f62e9f8015db0af3]: Commencement: [S. 12](https://www.legislation.gov.uk/ssi/2004/379/section/12) in force at 8.9.2004, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2004/379/paragraph/1/1)
+[^c-8f26420421336025f62e9f8015db0af3]: Commencement: [S. 12](https://www.legislation.gov.uk/ssi/2004/379/section/12) in force at 8.9.2004, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2004/379/paragraph/1/1)

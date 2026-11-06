@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 49. Offences by partnerships and unincorporated associations[^key-e66d06ae7b3ac4f285f7e50b3186e34d]
+## 49. Offences by partnerships and unincorporated associations[^c-e66d06ae7b3ac4f285f7e50b3186e34d]
 
 *Extent: N.I.*
 
@@ -52,7 +52,7 @@ the officer, as well as the association, is guilty of the offence and liable to 
 
 ## Annotations
 
-[^key-e66d06ae7b3ac4f285f7e50b3186e34d]: Commencement: Reg. 49 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-e66d06ae7b3ac4f285f7e50b3186e34d]: Commencement: Reg. 49 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
 
 [^f00035]: Footnote: [1945 c. 15](https://www.legislation.gov.uk/ukpga/1945/15).
 

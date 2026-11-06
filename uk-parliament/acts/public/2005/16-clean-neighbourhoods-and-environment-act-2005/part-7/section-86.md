@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 86. Deferral of duty to serve abatement notice[^key-347fdf4844d9bf1d8f25aaf35a8a086b][^key-2f613c41938f8ca85483fd4a7eda4937]
+## 86. Deferral of duty to serve abatement notice[^c-347fdf4844d9bf1d8f25aaf35a8a086b][^c-2f613c41938f8ca85483fd4a7eda4937]
 
 *Extent: E+W*
 
@@ -40,6 +40,6 @@ In section 80 of the Environmental Protection Act 1990 (c. 43) (summary proceedi
 
 ## Annotations
 
-[^key-347fdf4844d9bf1d8f25aaf35a8a086b]: Commencement: [S. 86](https://www.legislation.gov.uk/ukpga/2005/16/section/86) in force at 6.4.2006 for E. by [S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/795/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/795/schedule/2)
+[^c-347fdf4844d9bf1d8f25aaf35a8a086b]: Commencement: [S. 86](https://www.legislation.gov.uk/ukpga/2005/16/section/86) in force at 6.4.2006 for E. by [S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/795/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/795/schedule/2)
 
-[^key-2f613c41938f8ca85483fd4a7eda4937]: Commencement: [S. 86](https://www.legislation.gov.uk/ukpga/2005/16/section/86) in force at 27.10.2006 for W. by [S.I. 2006/2797](https://www.legislation.gov.uk/wsi/2006/2797), [art. 2(q)](https://www.legislation.gov.uk/wsi/2006/2797/article/2/q)
+[^c-2f613c41938f8ca85483fd4a7eda4937]: Commencement: [S. 86](https://www.legislation.gov.uk/ukpga/2005/16/section/86) in force at 27.10.2006 for W. by [S.I. 2006/2797](https://www.legislation.gov.uk/wsi/2006/2797), [art. 2(q)](https://www.legislation.gov.uk/wsi/2006/2797/article/2/q)

@@ -56,7 +56,7 @@ In accordance with section 14(2)(a) they gave such public notice as they consid
 
 In accordance with section 14(4) of the 2001 Act as soon as practicable after the end of the period mentioned in section 14(2)(a) they laid before the Scottish Parliament a statement summarising all the observations to which they have had regard under section 14(3) and specifying the modifications which they consider it appropriate to make to the Sexual Offences Act 2003 (Remedial) (Scotland) Order 2010.
 
-## 1. Citation, commencement, extent and interpretation[^key-6762a2337aa9505751bc8882a68800b0]
+## 1. Citation, commencement, extent and interpretation[^c-6762a2337aa9505751bc8882a68800b0]
 
 (1) This Order may be cited as the Sexual Offences Act 2003 (Remedial) (Scotland) Order 2011 and comes into force on 28th January 2011.
 
@@ -64,11 +64,11 @@ In accordance with section 14(4) of the 2001 Act as soon as practicable after t
 
 (3) In this Order “the 2003 Act” means the Sexual Offences Act 2003.
 
-## 2. Amendment of the 2003 Act[^key-dd0131b008e221cd158ae313a640b80d]
+## 2. Amendment of the 2003 Act[^c-dd0131b008e221cd158ae313a640b80d]
 
 The 2003 Act is amended in accordance with articles 3 and 4.
 
-## 3.[^key-5647fc086b985993206e31031627ea97]
+## 3.[^c-5647fc086b985993206e31031627ea97]
 
 After section 88 insert—
 
@@ -305,9 +305,9 @@ After section 88 insert—
 
 .
 
-## 4. Consequential amendments to the 2003 Act[^key-e9e7523bc53feab5c879206ffcc6f83b]
+## 4. Consequential amendments to the 2003 Act[^c-e9e7523bc53feab5c879206ffcc6f83b]
 
-(1)[^key-8ae06e32529e76581f5810eb075ee2bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-8ae06e32529e76581f5810eb075ee2bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In section 133 (Part 2: general interpretation), in subsection (1)—
 
@@ -341,7 +341,7 @@ After section 88 insert—
 
 .
 
-## 5. Revocation[^key-621ceda40e92ed7c51655c27142610cc]
+## 5. Revocation[^c-621ceda40e92ed7c51655c27142610cc]
 
 The Sexual Offences Act 2003 (Remedial) (Scotland) Order 2010[^f00005] is revoked.
 
@@ -403,16 +403,16 @@ This Order will come into force on 28th January 2011 pursuant to the procedure p
 
 [^f00004]: Footnote: [S.S.I. 2010/370](https://www.legislation.gov.uk/ssi/2010/370).
 
-[^key-6762a2337aa9505751bc8882a68800b0]: Commencement: Art. 1 in force at 28.1.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/45/article/1/1)
+[^c-6762a2337aa9505751bc8882a68800b0]: Commencement: Art. 1 in force at 28.1.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/45/article/1/1)
 
-[^key-dd0131b008e221cd158ae313a640b80d]: Commencement: Art. 2 in force at 28.1.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/45/article/1/1)
+[^c-dd0131b008e221cd158ae313a640b80d]: Commencement: Art. 2 in force at 28.1.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/45/article/1/1)
 
-[^key-5647fc086b985993206e31031627ea97]: Commencement: Art. 3 in force at 28.1.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/45/article/1/1)
+[^c-5647fc086b985993206e31031627ea97]: Commencement: Art. 3 in force at 28.1.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/45/article/1/1)
 
-[^key-e9e7523bc53feab5c879206ffcc6f83b]: Commencement: Art. 4 in force at 28.1.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/45/article/1/1)
+[^c-e9e7523bc53feab5c879206ffcc6f83b]: Commencement: Art. 4 in force at 28.1.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/45/article/1/1)
 
-[^key-8ae06e32529e76581f5810eb075ee2bc]: Textual amendment: [Art. 4(1)](https://www.legislation.gov.uk/ssi/2011/45/article/4/1) repealed (31.3.2023) by [Abusive Behaviour and Sexual Harm (Scotland) Act 2016 (asp 22)](https://www.legislation.gov.uk/asp/2016/22), [s. 45(2)](https://www.legislation.gov.uk/asp/2016/22/section/45/2)[(3)](https://www.legislation.gov.uk/asp/2016/22/section/45/3), [sch. 2 para. 9](https://www.legislation.gov.uk/asp/2016/22/schedule/2/paragraph/9) (with [s. 44](https://www.legislation.gov.uk/asp/2016/22/section/44)); [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [regs. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3), [4(7)](https://www.legislation.gov.uk/ssi/2023/51/regulation/4/7))
+[^c-8ae06e32529e76581f5810eb075ee2bc]: Textual amendment: [Art. 4(1)](https://www.legislation.gov.uk/ssi/2011/45/article/4/1) repealed (31.3.2023) by [Abusive Behaviour and Sexual Harm (Scotland) Act 2016 (asp 22)](https://www.legislation.gov.uk/asp/2016/22), [s. 45(2)](https://www.legislation.gov.uk/asp/2016/22/section/45/2)[(3)](https://www.legislation.gov.uk/asp/2016/22/section/45/3), [sch. 2 para. 9](https://www.legislation.gov.uk/asp/2016/22/schedule/2/paragraph/9) (with [s. 44](https://www.legislation.gov.uk/asp/2016/22/section/44)); [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [regs. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3), [4(7)](https://www.legislation.gov.uk/ssi/2023/51/regulation/4/7))
 
-[^key-621ceda40e92ed7c51655c27142610cc]: Commencement: Art. 5 in force at 28.1.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/45/article/1/1)
+[^c-621ceda40e92ed7c51655c27142610cc]: Commencement: Art. 5 in force at 28.1.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/45/article/1/1)
 
 [^f00005]: Footnote: [S.S.I. 2010/370](https://www.legislation.gov.uk/ssi/2010/370).

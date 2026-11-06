@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 30. Publicising firework control zones[^key-eab4fc08f3f72a11a089a8ad6397cd2c][^key-ec50ff093b4d48f12b664cdcca34b5be]
+## 30. Publicising firework control zones[^c-eab4fc08f3f72a11a089a8ad6397cd2c][^c-ec50ff093b4d48f12b664cdcca34b5be]
 
 *Extent: S*
 
@@ -29,6 +29,6 @@ As soon as practicable after a document is published under section 29 confirming
 
 ## Annotations
 
-[^key-eab4fc08f3f72a11a089a8ad6397cd2c]: Commencement: S. 30 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
+[^c-eab4fc08f3f72a11a089a8ad6397cd2c]: Commencement: S. 30 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
 
-[^key-ec50ff093b4d48f12b664cdcca34b5be]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2022/9/section/30) in force at 22.6.2023 by [S.S.I. 2023/176](https://www.legislation.gov.uk/ssi/2023/176), [reg. 2](https://www.legislation.gov.uk/ssi/2023/176/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/176/schedule)
+[^c-ec50ff093b4d48f12b664cdcca34b5be]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2022/9/section/30) in force at 22.6.2023 by [S.S.I. 2023/176](https://www.legislation.gov.uk/ssi/2023/176), [reg. 2](https://www.legislation.gov.uk/ssi/2023/176/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/176/schedule)

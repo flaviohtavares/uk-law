@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Power to modify legislation relating to support for apiculture[^key-bf206128231417dd3184204b84df5207]
+## 18. Power to modify legislation relating to support for apiculture[^c-bf206128231417dd3184204b84df5207]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bf206128231417dd3184204b84df5207]: Commencement: [S. 18](https://www.legislation.gov.uk/asc/2023/4/section/18) in force at 17.10.2023, see [s. 56(2)(c)](https://www.legislation.gov.uk/asc/2023/4/section/56/2/c)
+[^c-bf206128231417dd3184204b84df5207]: Commencement: [S. 18](https://www.legislation.gov.uk/asc/2023/4/section/18) in force at 17.10.2023, see [s. 56(2)(c)](https://www.legislation.gov.uk/asc/2023/4/section/56/2/c)

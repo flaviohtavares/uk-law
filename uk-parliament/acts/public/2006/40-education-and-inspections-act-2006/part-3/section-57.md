@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. School funding[^key-f952e01954a19d57ef18ecb9a8ac2693][^key-ba5c097b4ec2aee08f5e082de1c329f7][^key-c016a0fd9580f417fea606484f345ec3]
+## 57. School funding[^c-f952e01954a19d57ef18ecb9a8ac2693][^c-ba5c097b4ec2aee08f5e082de1c329f7][^c-c016a0fd9580f417fea606484f345ec3]
 
 *Extent: E+W*
 
@@ -24,8 +24,8 @@ Schedule 5 contains amendments of Chapter 4 of Part 2 of SSFA 1998 (financing of
 
 ## Annotations
 
-[^key-f952e01954a19d57ef18ecb9a8ac2693]: Commencement: S. 57 in force at 8.2.2007 for E. by [S.I. 2006/3400](https://www.legislation.gov.uk/uksi/2006/3400), [art. 4(a)](https://www.legislation.gov.uk/uksi/2006/3400/article/4/a)
+[^c-f952e01954a19d57ef18ecb9a8ac2693]: Commencement: S. 57 in force at 8.2.2007 for E. by [S.I. 2006/3400](https://www.legislation.gov.uk/uksi/2006/3400), [art. 4(a)](https://www.legislation.gov.uk/uksi/2006/3400/article/4/a)
 
-[^key-ba5c097b4ec2aee08f5e082de1c329f7]: Commencement: S. 57 in force at 15.3.2010 for specified purposes for W. by [S.I. 2010/736](https://www.legislation.gov.uk/uksi/2010/736), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/736/article/2/a)
+[^c-ba5c097b4ec2aee08f5e082de1c329f7]: Commencement: S. 57 in force at 15.3.2010 for specified purposes for W. by [S.I. 2010/736](https://www.legislation.gov.uk/uksi/2010/736), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/736/article/2/a)
 
-[^key-c016a0fd9580f417fea606484f345ec3]: Commencement: S. 57 in force at 2.4.2010 for W. in so far as not already in force by [S.I. 2010/736](https://www.legislation.gov.uk/uksi/2010/736), [art. 3(a)](https://www.legislation.gov.uk/uksi/2010/736/article/3/a)
+[^c-c016a0fd9580f417fea606484f345ec3]: Commencement: S. 57 in force at 2.4.2010 for W. in so far as not already in force by [S.I. 2010/736](https://www.legislation.gov.uk/uksi/2010/736), [art. 3(a)](https://www.legislation.gov.uk/uksi/2010/736/article/3/a)

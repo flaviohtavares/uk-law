@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 12 — NEW SCHEDULE 21 TO BE ADDED INTO THE 2018 REGULATIONS[^key-5991b7a0523fda3287a22fcfd378687e][^key-c954bc4ea701f734d946e47a7bb517d2]
+## SCHEDULE 12 — NEW SCHEDULE 21 TO BE ADDED INTO THE 2018 REGULATIONS[^c-5991b7a0523fda3287a22fcfd378687e][^c-c954bc4ea701f734d946e47a7bb517d2]
 
 *Extent: S*
 
@@ -670,9 +670,9 @@ Regulation 9(2)
 
 ## Annotations
 
-[^key-5991b7a0523fda3287a22fcfd378687e]: Commencement: [Sch. 12](https://www.legislation.gov.uk/ssi/2025/165/schedule/12) in force at 1.6.2025 for specified purposes (subject to reg. 1(5)), see [reg. 1(4)(d)(ii)(5)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/4/d/ii/5)
+[^c-5991b7a0523fda3287a22fcfd378687e]: Commencement: [Sch. 12](https://www.legislation.gov.uk/ssi/2025/165/schedule/12) in force at 1.6.2025 for specified purposes (subject to reg. 1(5)), see [reg. 1(4)(d)(ii)(5)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/4/d/ii/5)
 
-[^key-c954bc4ea701f734d946e47a7bb517d2]: Commencement: [Sch. 12](https://www.legislation.gov.uk/ssi/2025/165/schedule/12) in force at 1.11.2025 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
+[^c-c954bc4ea701f734d946e47a7bb517d2]: Commencement: [Sch. 12](https://www.legislation.gov.uk/ssi/2025/165/schedule/12) in force at 1.11.2025 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
 
 [^f00072]: Footnote: [S.S.I. 2012/360](https://www.legislation.gov.uk/ssi/2012/360) as amended by [S.I. 2014/469](https://www.legislation.gov.uk/uksi/2014/469), [S.I. 2015/100](https://www.legislation.gov.uk/uksi/2015/100), [S.I. 2015/188](https://www.legislation.gov.uk/uksi/2015/188), [S.I. 2015/483](https://www.legislation.gov.uk/uksi/2015/483), [S.I. 2020/818](https://www.legislation.gov.uk/uksi/2020/818), [S.S.I. 2014/267](https://www.legislation.gov.uk/ssi/2014/267), [S.S.I. 2017/446](https://www.legislation.gov.uk/ssi/2017/446), [S.S.I. 2018/391](https://www.legislation.gov.uk/ssi/2018/391), [S.S.I. 2019/26](https://www.legislation.gov.uk/ssi/2019/26), [S.S.I. 2019/175](https://www.legislation.gov.uk/ssi/2019/175), [S.S.I. 2023/374](https://www.legislation.gov.uk/ssi/2023/374) and [S.S.I. 2024/191](https://www.legislation.gov.uk/ssi/2024/191).
 

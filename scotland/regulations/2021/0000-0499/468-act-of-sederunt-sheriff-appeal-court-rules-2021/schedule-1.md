@@ -22,7 +22,7 @@ summary: ''
 
 Rule 1.5
 
-### 1. Quorum of the Court[^key-17d1fb6a262701221a6e23f1185d591c]
+### 1. Quorum of the Court[^c-17d1fb6a262701221a6e23f1185d591c]
 
 (1) The quorum of the Court for the types of business specified in sub-paragraph (3) is one Appeal Sheriff but more than one Appeal Sheriff may sit where the Court considers that to be appropriate.
 
@@ -67,13 +67,13 @@ Rule 1.5
 - (ii) disposing of an application for authority to address the Court in Gaelic or to give oral evidence in Gaelic under paragraph 5 of this schedule;
 - (jj) any business where the Rules provide for that business to be disposed of by the procedural Appeal Sheriff.
 
-### 2. Procedural Appeal Sheriff[^key-c12e4dedf5314b0a766998f03c0a9394]
+### 2. Procedural Appeal Sheriff[^c-c12e4dedf5314b0a766998f03c0a9394]
 
 (1) Every Appeal Sheriff is a procedural Appeal Sheriff.
 
 (2) Where the Court considers it appropriate to do so, the Court may dispose of any business where the Rules provide for that business to be disposed of by the procedural Appeal Sheriff.
 
-### 3. Signature of interlocutors etc.[^key-bac607461736d73bf577f0d3e5905834]
+### 3. Signature of interlocutors etc.[^c-bac607461736d73bf577f0d3e5905834]
 
 (1) Any order made by the Court under these Rules is to be contained in an interlocutor.
 
@@ -102,7 +102,7 @@ Rule 1.5
 - (b) in the event of the death, disability or absence of that Appeal Sheriff, by any other Appeal Sheriff; or
 - (c) where the interlocutor was signed by the Clerk, by any Appeal Sheriff.
 
-### 4. Decrees, extracts and execution[^key-96c5cf4e923f4d476b49703261909711]
+### 4. Decrees, extracts and execution[^c-96c5cf4e923f4d476b49703261909711]
 
 (1) In this paragraph, “**decree**” includes any order or interlocutor which may be extracted.
 
@@ -123,7 +123,7 @@ Rule 1.5
 
 (7) Where interest is included in, or payable under, a decree, the rate of interest is 8 per cent a year unless otherwise stated.
 
-### 5. Use of Gaelic[^key-745cd9af79b60d29a1750a1164bca4e5]
+### 5. Use of Gaelic[^c-745cd9af79b60d29a1750a1164bca4e5]
 
 (1) This paragraph applies where the use of Gaelic by a party has been authorised by the sheriff in the proceedings out of which an appeal arises.
 
@@ -138,12 +138,12 @@ Rule 1.5
 
 ## Annotations
 
-[^key-17d1fb6a262701221a6e23f1185d591c]: Commencement: Sch. 1 para. 1 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-17d1fb6a262701221a6e23f1185d591c]: Commencement: Sch. 1 para. 1 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
 
-[^key-c12e4dedf5314b0a766998f03c0a9394]: Commencement: Sch. 1 para. 2 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-c12e4dedf5314b0a766998f03c0a9394]: Commencement: Sch. 1 para. 2 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
 
-[^key-bac607461736d73bf577f0d3e5905834]: Commencement: Sch. 1 para. 3 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-bac607461736d73bf577f0d3e5905834]: Commencement: Sch. 1 para. 3 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
 
-[^key-96c5cf4e923f4d476b49703261909711]: Commencement: Sch. 1 para. 4 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-96c5cf4e923f4d476b49703261909711]: Commencement: Sch. 1 para. 4 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
 
-[^key-745cd9af79b60d29a1750a1164bca4e5]: Commencement: Sch. 1 para. 5 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-745cd9af79b60d29a1750a1164bca4e5]: Commencement: Sch. 1 para. 5 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

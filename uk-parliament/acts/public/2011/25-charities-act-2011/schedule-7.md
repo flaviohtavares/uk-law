@@ -105,11 +105,11 @@ were a reference to the Charity Commission for England and Wales.
 
 (3) This paragraph does not extend to Northern Ireland.
 
-#### ...[^key-7a11ed9705f9966d1b92e519449e040b]
+#### ...[^c-7a11ed9705f9966d1b92e519449e040b]
 
-**9.**[^key-7a11ed9705f9966d1b92e519449e040b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-7a11ed9705f9966d1b92e519449e040b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-7a11ed9705f9966d1b92e519449e040b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-7a11ed9705f9966d1b92e519449e040b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### London County Council (General Powers) Act 1947 (c. xlvi)
 
@@ -129,7 +129,7 @@ were a reference to the Charity Commission for England and Wales.
 
 #### Co-operative and Community Benefit Societies and Credit Unions Act 1965 (c. 12)
 
-**14.**[^key-98f6c59bba417f320ec9f9d472d1ed83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-98f6c59bba417f320ec9f9d472d1ed83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Leasehold Reform Act 1967 (c. 88)
 
@@ -137,7 +137,7 @@ were a reference to the Charity Commission for England and Wales.
 
 #### Co-operative and Community Benefit Societies and Credit Unions Act 1968 (c. 55)
 
-**16.**[^key-9864083cd6e9f0ea0aa8c7ed749d7712] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-9864083cd6e9f0ea0aa8c7ed749d7712] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Redundant Churches and other Religious Buildings Act 1969 (c. 22)
 
@@ -519,15 +519,15 @@ were a reference to the Charity Commission for England and Wales.
 - (a) in sub-paragraph (a), for “or section 24 of the Charities Act 1993,” substitute “ , section 24 of the Charities Act 1993 or section 96 of the Charities Act 2011, ” and
 - (b) in sub-paragraph (b), for “or section 25 of the Charities Act 1993” substitute “ , section 25 of the Charities Act 1993 or section 100 of the Charities Act 2011 ”.
 
-#### ...[^key-96608466302e3709ccf6b0eb207c7b6f]
+#### ...[^c-96608466302e3709ccf6b0eb207c7b6f]
 
-**82.**[^key-96608466302e3709ccf6b0eb207c7b6f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**82.**[^c-96608466302e3709ccf6b0eb207c7b6f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**83.**[^key-96608466302e3709ccf6b0eb207c7b6f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**83.**[^c-96608466302e3709ccf6b0eb207c7b6f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**84.**[^key-96608466302e3709ccf6b0eb207c7b6f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**84.**[^c-96608466302e3709ccf6b0eb207c7b6f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**85.**[^key-96608466302e3709ccf6b0eb207c7b6f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**85.**[^c-96608466302e3709ccf6b0eb207c7b6f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Financial Services and Markets Act 2000 (c. 8)
 
@@ -591,7 +591,7 @@ were a reference to the Charity Commission for England and Wales.
 
 #### Higher Education Act 2004 (c. 8)
 
-**97.**[^key-960a68e8be8ed244625532635e02e66b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**97.**[^c-960a68e8be8ed244625532635e02e66b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Companies (Audit, Investigations and Community Enterprise) Act 2004 (c. 27)
 
@@ -872,12 +872,12 @@ for “ “**charity trustee**” has the same meaning as in the Charities Act 1
 
 ## Annotations
 
-[^key-7a11ed9705f9966d1b92e519449e040b]: Textual amendment: Sch. 7 paras. 9, 10 and cross-heading repealed (1.3.2019) by [Church Property Measure 2018 (No. 8)](https://www.legislation.gov.uk/ukcm/2018/8), [s. 53(2)](https://www.legislation.gov.uk/ukcm/2018/8/section/53/2), [Sch. 3](https://www.legislation.gov.uk/ukcm/2018/8/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukcm/2018/8/schedule/2)); [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
+[^c-7a11ed9705f9966d1b92e519449e040b]: Textual amendment: Sch. 7 paras. 9, 10 and cross-heading repealed (1.3.2019) by [Church Property Measure 2018 (No. 8)](https://www.legislation.gov.uk/ukcm/2018/8), [s. 53(2)](https://www.legislation.gov.uk/ukcm/2018/8/section/53/2), [Sch. 3](https://www.legislation.gov.uk/ukcm/2018/8/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukcm/2018/8/schedule/2)); [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
 
-[^key-98f6c59bba417f320ec9f9d472d1ed83]: Textual amendment: Sch. 7 para. 14 repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-98f6c59bba417f320ec9f9d472d1ed83]: Textual amendment: Sch. 7 para. 14 repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
-[^key-9864083cd6e9f0ea0aa8c7ed749d7712]: Textual amendment: Sch. 7 para. 16 repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-9864083cd6e9f0ea0aa8c7ed749d7712]: Textual amendment: Sch. 7 para. 16 repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
-[^key-96608466302e3709ccf6b0eb207c7b6f]: Textual amendment: Sch. 7 paras. 82-85 and cross-heading repealed (coming into force in accordance with [s. 53(3)(8)](https://www.legislation.gov.uk/ukcm/2021/2/section/53/3) of the amending Measure) by [Cathedrals Measure 2021 (No. 2)](https://www.legislation.gov.uk/ukcm/2021/2), [s. 51(2)(e)](https://www.legislation.gov.uk/ukcm/2021/2/section/51/2/e) (with [ss. 42(4)](https://www.legislation.gov.uk/ukcm/2021/2/section/42/4), [48](https://www.legislation.gov.uk/ukcm/2021/2/section/48), [52(1)](https://www.legislation.gov.uk/ukcm/2021/2/section/52/1))
+[^c-96608466302e3709ccf6b0eb207c7b6f]: Textual amendment: Sch. 7 paras. 82-85 and cross-heading repealed (coming into force in accordance with [s. 53(3)(8)](https://www.legislation.gov.uk/ukcm/2021/2/section/53/3) of the amending Measure) by [Cathedrals Measure 2021 (No. 2)](https://www.legislation.gov.uk/ukcm/2021/2), [s. 51(2)(e)](https://www.legislation.gov.uk/ukcm/2021/2/section/51/2/e) (with [ss. 42(4)](https://www.legislation.gov.uk/ukcm/2021/2/section/42/4), [48](https://www.legislation.gov.uk/ukcm/2021/2/section/48), [52(1)](https://www.legislation.gov.uk/ukcm/2021/2/section/52/1))
 
-[^key-960a68e8be8ed244625532635e02e66b]: Textual amendment: Sch. 7 para. 97 omitted (1.4.2018) by virtue of [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 11 para. 34](https://www.legislation.gov.uk/ukpga/2017/29/schedule/11/paragraph/34); [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/s)
+[^c-960a68e8be8ed244625532635e02e66b]: Textual amendment: Sch. 7 para. 97 omitted (1.4.2018) by virtue of [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 11 para. 34](https://www.legislation.gov.uk/ukpga/2017/29/schedule/11/paragraph/34); [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/s)

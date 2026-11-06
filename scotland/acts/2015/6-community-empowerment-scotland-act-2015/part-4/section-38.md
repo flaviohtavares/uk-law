@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 38. Modification of memorandum, articles, constitution or registered rules[^key-b204817c9097b645044d0ee36541f996]
+## 38. Modification of memorandum, articles, constitution or registered rules[^c-b204817c9097b645044d0ee36541f996]
 
 *Extent: S*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b204817c9097b645044d0ee36541f996]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2015/6/section/38) in force at 15.4.2016 by [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))
+[^c-b204817c9097b645044d0ee36541f996]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2015/6/section/38) in force at 15.4.2016 by [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))

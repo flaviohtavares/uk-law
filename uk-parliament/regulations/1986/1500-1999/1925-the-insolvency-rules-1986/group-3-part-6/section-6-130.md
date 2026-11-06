@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.130. Court's power to regulate meeting under Rule 6.129[^key-e6e60bfecc3bc6768eb3458183bcb7ff]
+## 6.130. Court's power to regulate meeting under Rule 6.129[^c-e6e60bfecc3bc6768eb3458183bcb7ff]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where a meeting under Rule 6.129 is to be held, or is proposed to be summoned, t
 
 ## Annotations
 
-[^key-e6e60bfecc3bc6768eb3458183bcb7ff]: Commencement: [Rule 6.130](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.130) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-e6e60bfecc3bc6768eb3458183bcb7ff]: Commencement: [Rule 6.130](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.130) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

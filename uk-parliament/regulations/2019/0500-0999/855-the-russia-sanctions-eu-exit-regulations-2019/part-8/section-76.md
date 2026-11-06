@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. General trade licences: records[^key-37ef527123f6045b445b5d4a6473ef5f]
+## 76. General trade licences: records[^c-37ef527123f6045b445b5d4a6473ef5f]
 
 *Extent: E+W+S+N.I.*
 
 (1) This regulation applies in relation to a person (“P”) who does any act authorised by a general licence issued under regulation 65 (trade licences) (“**the licence**”).
 
-(2) P must keep a register or record containing such details as may be necessary to allow the following information , where appropriate,[^key-5f23c3d43924eef50d6fa6d4653a7430] to be identified in relation to each act done under the authority of the licence—
+(2) P must keep a register or record containing such details as may be necessary to allow the following information , where appropriate,[^c-5f23c3d43924eef50d6fa6d4653a7430] to be identified in relation to each act done under the authority of the licence—
 
 - (a) a description of the act;
 - (b) a description of any goods, technology, services or funds to which the act relates;
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-37ef527123f6045b445b5d4a6473ef5f]: Commencement: Reg. 76 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+[^c-37ef527123f6045b445b5d4a6473ef5f]: Commencement: Reg. 76 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
 
-[^key-5f23c3d43924eef50d6fa6d4653a7430]: Textual amendment: Words in reg. 76(2) inserted (18.7.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 13) Regulations 2022 (S.I. 2022/814)](https://www.legislation.gov.uk/uksi/2022/814), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/814/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2022/814/regulation/7)
+[^c-5f23c3d43924eef50d6fa6d4653a7430]: Textual amendment: Words in reg. 76(2) inserted (18.7.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 13) Regulations 2022 (S.I. 2022/814)](https://www.legislation.gov.uk/uksi/2022/814), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/814/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2022/814/regulation/7)

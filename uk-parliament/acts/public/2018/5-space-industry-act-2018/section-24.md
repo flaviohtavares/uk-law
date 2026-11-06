@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Spaceport byelaws[^key-4f028375c4d20b2788380381146a8fcc]
+## 24. Spaceport byelaws[^c-4f028375c4d20b2788380381146a8fcc]
 
 *Extent: E+W+S+N.I.*
 
@@ -80,4 +80,4 @@ Before exercising the power under this subsection the Secretary of State must co
 
 ## Annotations
 
-[^key-4f028375c4d20b2788380381146a8fcc]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2018/5/section/24) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 43](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/43) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-4f028375c4d20b2788380381146a8fcc]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2018/5/section/24) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 43](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/43) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))

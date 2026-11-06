@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 142. Developers’ code of practice[^key-9cc2f6cacade70e8d74f3f1c456a4ab7]
+## 142. Developers’ code of practice[^c-9cc2f6cacade70e8d74f3f1c456a4ab7]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9cc2f6cacade70e8d74f3f1c456a4ab7]: Commencement: S. 142 not in force at Royal Assent, see [s. 170(5)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/5)
+[^c-9cc2f6cacade70e8d74f3f1c456a4ab7]: Commencement: S. 142 not in force at Royal Assent, see [s. 170(5)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/5)

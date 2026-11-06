@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 279. Appeal against notice or direction[^key-0e430a83603d0cb3622853eb4ec0d6f2][^key-36eb28ce1b24fa45e8129630fdbe99bd]
+## 279. Appeal against notice or direction[^c-0e430a83603d0cb3622853eb4ec0d6f2][^c-36eb28ce1b24fa45e8129630fdbe99bd]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0e430a83603d0cb3622853eb4ec0d6f2]: Commencement: S. 279 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-0e430a83603d0cb3622853eb4ec0d6f2]: Commencement: S. 279 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-36eb28ce1b24fa45e8129630fdbe99bd]: Commencement: [S. 279](https://www.legislation.gov.uk/ukpga/2023/52/section/279) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(c)(v)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/c/v)
+[^c-36eb28ce1b24fa45e8129630fdbe99bd]: Commencement: [S. 279](https://www.legislation.gov.uk/ukpga/2023/52/section/279) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(c)(v)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/c/v)

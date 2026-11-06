@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 188. Annuity contracts[^key-83c1b8291f77ada29a2991b615bc85b3]
+## 188. Annuity contracts[^c-83c1b8291f77ada29a2991b615bc85b3]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In regulation 7 of the Personal Pension Schemes (Information Powers) Regulations
 
 ## Annotations
 
-[^key-83c1b8291f77ada29a2991b615bc85b3]: Commencement: Art. 188 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
+[^c-83c1b8291f77ada29a2991b615bc85b3]: Commencement: Art. 188 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Service outside Police Force[^key-9008154870126f1427736100d9c11e67]
+## 49. Service outside Police Force[^c-9008154870126f1427736100d9c11e67]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9008154870126f1427736100d9c11e67]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2003/20/section/49) in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(ff)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/ff)
+[^c-9008154870126f1427736100d9c11e67]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2003/20/section/49) in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(ff)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/ff)

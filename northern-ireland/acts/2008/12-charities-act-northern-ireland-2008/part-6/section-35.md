@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) The Commission may under section 33(1)(vii) appoint to be interim manager in respect of a charity such person(other than a member of its staff)[^key-ecb447af1576900ffe5ac91a37baa006] as it thinks fit.
+(1) The Commission may under section 33(1)(vii) appoint to be interim manager in respect of a charity such person(other than a member of its staff)[^c-ecb447af1576900ffe5ac91a37baa006] as it thinks fit.
 
 (2) Without prejudice to the generality of section 175(1), any order made by the Commission under section 33(1)(vii) may make provision with respect to the functions to be discharged by the interim manager appointed by the order; and those functions shall be discharged by the interim manager under the supervision of the Commission.
 
@@ -51,10 +51,10 @@ as it thinks just; and the costs of any such application shall be paid by the ch
 
 - (a) to require a person so appointed to give security for the due discharge of that person's functions;
 - (b) to determine the amount of that person's remuneration;
-- (c) to disallow[^key-57f7bc68a2305d5faf80f2901fe3f4f8] any amount of remuneration in such circumstances as are prescribed by the regulations.
+- (c) to disallow[^c-57f7bc68a2305d5faf80f2901fe3f4f8] any amount of remuneration in such circumstances as are prescribed by the regulations.
 
 ## Annotations
 
-[^key-ecb447af1576900ffe5ac91a37baa006]: Textual amendment: Words in [s. 35(1)](https://www.legislation.gov.uk/nia/2008/12/section/35/1) inserted (19.1.2013) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [s. 10(1)](https://www.legislation.gov.uk/nia/2013/3/section/10/1), [Sch. 1 para. 10(2)](https://www.legislation.gov.uk/nia/2013/3/schedule/1/paragraph/10/2)
+[^c-ecb447af1576900ffe5ac91a37baa006]: Textual amendment: Words in [s. 35(1)](https://www.legislation.gov.uk/nia/2008/12/section/35/1) inserted (19.1.2013) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [s. 10(1)](https://www.legislation.gov.uk/nia/2013/3/section/10/1), [Sch. 1 para. 10(2)](https://www.legislation.gov.uk/nia/2013/3/schedule/1/paragraph/10/2)
 
-[^key-57f7bc68a2305d5faf80f2901fe3f4f8]: Textual amendment: Word in [s. 35(7)(c)](https://www.legislation.gov.uk/nia/2008/12/section/35/7/c) substituted (19.1.2013) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [s. 10(1)](https://www.legislation.gov.uk/nia/2013/3/section/10/1), [Sch. 1 para. 10(3)](https://www.legislation.gov.uk/nia/2013/3/schedule/1/paragraph/10/3)
+[^c-57f7bc68a2305d5faf80f2901fe3f4f8]: Textual amendment: Word in [s. 35(7)(c)](https://www.legislation.gov.uk/nia/2008/12/section/35/7/c) substituted (19.1.2013) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [s. 10(1)](https://www.legislation.gov.uk/nia/2013/3/section/10/1), [Sch. 1 para. 10(3)](https://www.legislation.gov.uk/nia/2013/3/schedule/1/paragraph/10/3)

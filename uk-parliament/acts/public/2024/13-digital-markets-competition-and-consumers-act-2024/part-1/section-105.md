@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105. Extensions: supplementary[^key-407940b47615334f3c5952d4d982ba25][^key-637dedfefa9e0bcb30d5ca699364f1a3]
+## 105. Extensions: supplementary[^c-407940b47615334f3c5952d4d982ba25][^c-637dedfefa9e0bcb30d5ca699364f1a3]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ the period of overlap is to be disregarded in calculating the period of the furt
 
 ## Annotations
 
-[^key-407940b47615334f3c5952d4d982ba25]: Commencement: S. 105 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-407940b47615334f3c5952d4d982ba25]: Commencement: S. 105 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-637dedfefa9e0bcb30d5ca699364f1a3]: Commencement: [S. 105](https://www.legislation.gov.uk/ukpga/2024/13/section/105) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-637dedfefa9e0bcb30d5ca699364f1a3]: Commencement: [S. 105](https://www.legislation.gov.uk/ukpga/2024/13/section/105) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

@@ -31,7 +31,7 @@ summary: ''
 
 National Health Service, England
 
-The Health Education England (Transfer of Staff, Property and Liabilities) Order 2014 (revoked)[^key-f20759888acec22063ebef61ad95041d]
+The Health Education England (Transfer of Staff, Property and Liabilities) Order 2014 (revoked)[^c-f20759888acec22063ebef61ad95041d]
 
 Made
 
@@ -41,40 +41,40 @@ Coming into force
 
 1st April 2015
 
-[^key-f20759888acec22063ebef61ad95041d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f20759888acec22063ebef61ad95041d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-f20759888acec22063ebef61ad95041d]
+## 1. Citation, commencement and interpretation[^c-f20759888acec22063ebef61ad95041d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Transfer of staff[^key-f20759888acec22063ebef61ad95041d]
+## 2. Transfer of staff[^c-f20759888acec22063ebef61ad95041d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Transfer of property, rights and liabilities and winding up of affairs[^key-f20759888acec22063ebef61ad95041d]
+## 3. Transfer of property, rights and liabilities and winding up of affairs[^c-f20759888acec22063ebef61ad95041d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Investigation by the Health Service Commissioner[^key-f20759888acec22063ebef61ad95041d]
+## 4. Investigation by the Health Service Commissioner[^c-f20759888acec22063ebef61ad95041d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Handling of complaints[^key-f20759888acec22063ebef61ad95041d]
+## 5. Handling of complaints[^c-f20759888acec22063ebef61ad95041d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Continuity and supplementary provision[^key-f20759888acec22063ebef61ad95041d]
+## 6. Continuity and supplementary provision[^c-f20759888acec22063ebef61ad95041d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f20759888acec22063ebef61ad95041d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f20759888acec22063ebef61ad95041d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-f20759888acec22063ebef61ad95041d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f20759888acec22063ebef61ad95041d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f20759888acec22063ebef61ad95041d]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2014/3218) revoked (1.4.2023) by [The Health Education England (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/368)](https://www.legislation.gov.uk/uksi/2023/368), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/368/regulation/1/2), [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2023/368/schedule/2/paragraph/16) (with [reg. 7](https://www.legislation.gov.uk/uksi/2023/368/regulation/7))
+[^c-f20759888acec22063ebef61ad95041d]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2014/3218) revoked (1.4.2023) by [The Health Education England (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/368)](https://www.legislation.gov.uk/uksi/2023/368), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/368/regulation/1/2), [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2023/368/schedule/2/paragraph/16) (with [reg. 7](https://www.legislation.gov.uk/uksi/2023/368/regulation/7))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 183A. Alternative to section 183 where carry forward of credits not permitted[^key-2eeb12380ce649cc265681cb17586b7a]
+## 183A. Alternative to section 183 where carry forward of credits not permitted[^c-2eeb12380ce649cc265681cb17586b7a]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ Any remainder continues to be a special foreign tax asset (and is available for 
 
 ## Annotations
 
-[^key-2eeb12380ce649cc265681cb17586b7a]: Textual amendment: [S. 183A](https://www.legislation.gov.uk/ukpga/2023/30/section/183A) inserted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 20(5)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/20/5)
+[^c-2eeb12380ce649cc265681cb17586b7a]: Textual amendment: [S. 183A](https://www.legislation.gov.uk/ukpga/2023/30/section/183A) inserted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 20(5)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/20/5)

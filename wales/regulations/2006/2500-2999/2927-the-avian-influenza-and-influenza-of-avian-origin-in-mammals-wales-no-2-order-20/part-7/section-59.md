@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 59. Measures in relation to mammals on premises where disease is suspected or confirmed[^key-3851e3e734e928f2d310d55e1c59099b]
+## 59. Measures in relation to mammals on premises where disease is suspected or confirmed[^c-3851e3e734e928f2d310d55e1c59099b]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3851e3e734e928f2d310d55e1c59099b]: Textual amendment: [Art. 59](https://www.legislation.gov.uk/wsi/2006/2927/article/59) substituted (31.12.2025) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Wales) (Amendment) Order 2025 (S.I. 2025/1357)](https://www.legislation.gov.uk/wsi/2025/1357), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/1357/article/1/2), [36](https://www.legislation.gov.uk/wsi/2025/1357/article/36)
+[^c-3851e3e734e928f2d310d55e1c59099b]: Textual amendment: [Art. 59](https://www.legislation.gov.uk/wsi/2006/2927/article/59) substituted (31.12.2025) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Wales) (Amendment) Order 2025 (S.I. 2025/1357)](https://www.legislation.gov.uk/wsi/2025/1357), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/1357/article/1/2), [36](https://www.legislation.gov.uk/wsi/2025/1357/article/36)

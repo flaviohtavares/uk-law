@@ -183,7 +183,7 @@ if it is produced in a protection zone or surveillance zone from susceptible ani
 - (b) the movement of horses under the terms of a licence granted by an inspector; or
 - (c) the movement from one part of premises to another part of the same premises using a public highway under the authority of a licence granted by a veterinary inspector or by an inspector at the direction of a veterinary inspector.
 
-(3) Any inspector granting a licence under sub paragraph (2)(b) shall take account of the recommended measures in paragraph 2.2 of Annex VI to the Directive, reading that paragraph as if—[^key-ab11b4363ddc6bf8fb67ae8f5be3416b]
+(3) Any inspector granting a licence under sub paragraph (2)(b) shall take account of the recommended measures in paragraph 2.2 of Annex VI to the Directive, reading that paragraph as if—[^c-ab11b4363ddc6bf8fb67ae8f5be3416b]
 
 - (a) in point 2.2.2, the words “established in accordance with Article 21” were omitted,
 - (b) in point 2.2.4, the reference to “Articles 4 and 10” of the Directive was a reference to provision in this Order implementing those Articles
@@ -200,7 +200,7 @@ if it is produced in a protection zone or surveillance zone from susceptible ani
 - (d) transport through the zone without stopping; or
 - (e) transport from outside the zone directly to a slaughterhouse in the zone for immediate slaughter there under the terms of a licence granted by an inspector.
 
-(3) Any inspector granting a licence under sub paragraph (2)(c) shall take account of the recommended measures in paragraph 2.2 of Annex VI to the Directive, reading that paragraph as if—[^key-7239aba413d376f0b1f77393087e3615]
+(3) Any inspector granting a licence under sub paragraph (2)(c) shall take account of the recommended measures in paragraph 2.2 of Annex VI to the Directive, reading that paragraph as if—[^c-7239aba413d376f0b1f77393087e3615]
 
 - (a) in point 2.2.2, the words “established in accordance with Article 21” were omitted,
 - (b) in point 2.2.4, the reference to “Articles 4 and 10” of the Directive was a reference to provision in this Order implementing those Articles.
@@ -287,7 +287,7 @@ No person shall sell or consign for sale fodder originating in a protection zone
 
 (3) Transport of dung or manure complies with this sub paragraph where it is to a plant for treatment to destroy the disease virus and is authorised by a licence granted by an inspector.
 
-(4) The occupier of any premises to which dung or manure is transported by authority of a licence granted under sub paragraph (3) shall ensure that it is treated in accordance with Articles 15 and 32 of Regulation (EC) No 1069/2009 and Articles 10 and 22 of Regulation (EU) No 142/2011[^key-d087a7f1ef83ac2b7da478f0d2cb104d].
+(4) The occupier of any premises to which dung or manure is transported by authority of a licence granted under sub paragraph (3) shall ensure that it is treated in accordance with Articles 15 and 32 of Regulation (EC) No 1069/2009 and Articles 10 and 22 of Regulation (EU) No 142/2011[^c-d087a7f1ef83ac2b7da478f0d2cb104d].
 
 (5) Transport of dung or manure for spreading complies with this sub paragraph if it satisfies the following requirements–
 
@@ -404,7 +404,7 @@ No person shall sell or consign for sale fodder originating in a protection zone
 (2) Transport complies with this sub paragraph if it is–
 
 - (a) transport of samples of raw milk–
-  - (i) to a laboratory authorised in respect of disease under article 4 of the Specified Animal Pathogens (Scotland) Order 2009[^key-c8317d55005e59c4604f7689a298ae20]; or
+  - (i) to a laboratory authorised in respect of disease under article 4 of the Specified Animal Pathogens (Scotland) Order 2009[^c-c8317d55005e59c4604f7689a298ae20]; or
   - (ii) to another laboratory under the authority of a licence granted by an inspector; or
 - (b) transport to premises other than a laboratory under the authority of a licence granted by an inspector.
 
@@ -604,7 +604,7 @@ except under the authority of a licence granted by the Scottish Ministers.
 (2) Transport complies with this sub paragraph if it is–
 
 - (a) transport of samples of raw milk–
-  - (i) to a laboratory authorised in respect of disease under article 4 of the Specified Animal Pathogens (Scotland) Order 2009[^key-c0806917c780497e612a5eded559df0f]; or
+  - (i) to a laboratory authorised in respect of disease under article 4 of the Specified Animal Pathogens (Scotland) Order 2009[^c-c0806917c780497e612a5eded559df0f]; or
   - (ii) to another laboratory under the authority of a licence granted by an inspector; or
 - (b) transport to premises other than a laboratory under the authority of a licence granted by an inspector.
 
@@ -635,7 +635,7 @@ except under the authority of a licence granted by the Scottish Ministers.
 
 (3) Transport of dung or manure complies with this sub paragraph where it is to a plant for treatment to destroy the disease virus and is authorised by a licence granted by the Scottish Ministers.
 
-(4) The occupier of any premises to which dung or manure is transported by authority of a licence granted under sub paragraph (3) shall ensure that it is treated in accordance with Articles 15 and 32 of Regulation (EC) No 1069/2009 and Articles 10 and 22 of Regulation (EU) No 142/2011[^key-2a1889e60737c1e10b41713c8cfe46be].
+(4) The occupier of any premises to which dung or manure is transported by authority of a licence granted under sub paragraph (3) shall ensure that it is treated in accordance with Articles 15 and 32 of Regulation (EC) No 1069/2009 and Articles 10 and 22 of Regulation (EU) No 142/2011[^c-2a1889e60737c1e10b41713c8cfe46be].
 
 (5) Transport of dung or manure complies with this sub paragraph if–
 
@@ -679,14 +679,14 @@ except under the authority of a licence granted by the Scottish Ministers.
 
 [^c15344181]: Textual amendment: 1990, c. 43.
 
-[^key-ab11b4363ddc6bf8fb67ae8f5be3416b]: Textual amendment: [Sch. 4 para. 11(3)(a)](https://www.legislation.gov.uk/ssi/2006/44/schedule/4/paragraph/11/3/a)[(b)](https://www.legislation.gov.uk/ssi/2006/44/schedule/4/paragraph/11/3/b) and words inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [14(6)](https://www.legislation.gov.uk/ssi/2019/71/regulation/14/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ab11b4363ddc6bf8fb67ae8f5be3416b]: Textual amendment: [Sch. 4 para. 11(3)(a)](https://www.legislation.gov.uk/ssi/2006/44/schedule/4/paragraph/11/3/a)[(b)](https://www.legislation.gov.uk/ssi/2006/44/schedule/4/paragraph/11/3/b) and words inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [14(6)](https://www.legislation.gov.uk/ssi/2019/71/regulation/14/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7239aba413d376f0b1f77393087e3615]: Textual amendment: [Sch. 4 para. 12(3)(a)](https://www.legislation.gov.uk/ssi/2006/44/schedule/4/paragraph/12/3/a)[(b)](https://www.legislation.gov.uk/ssi/2006/44/schedule/4/paragraph/12/3/b) and words inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [14(6)](https://www.legislation.gov.uk/ssi/2019/71/regulation/14/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7239aba413d376f0b1f77393087e3615]: Textual amendment: [Sch. 4 para. 12(3)(a)](https://www.legislation.gov.uk/ssi/2006/44/schedule/4/paragraph/12/3/a)[(b)](https://www.legislation.gov.uk/ssi/2006/44/schedule/4/paragraph/12/3/b) and words inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [14(6)](https://www.legislation.gov.uk/ssi/2019/71/regulation/14/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d087a7f1ef83ac2b7da478f0d2cb104d]: Textual amendment: Words in [sch. 4 para. 20(4)](https://www.legislation.gov.uk/ssi/2006/44/schedule/4/paragraph/20/4) substituted (4.3.2011) by [The Animal By-Products (Enforcement) (Scotland) Regulations 2011 (revoked) 2011 (S.S.I. 2011/171)](https://www.legislation.gov.uk/ssi/2011/171), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/171/regulation/1/1), [sch. 2 para. 23(a)](https://editorial.legislation.gov.uk/ssi/2011/171/schedule/2/paragraph/23/2011-03-04)
+[^c-d087a7f1ef83ac2b7da478f0d2cb104d]: Textual amendment: Words in [sch. 4 para. 20(4)](https://www.legislation.gov.uk/ssi/2006/44/schedule/4/paragraph/20/4) substituted (4.3.2011) by [The Animal By-Products (Enforcement) (Scotland) Regulations 2011 (revoked) 2011 (S.S.I. 2011/171)](https://www.legislation.gov.uk/ssi/2011/171), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/171/regulation/1/1), [sch. 2 para. 23(a)](https://editorial.legislation.gov.uk/ssi/2011/171/schedule/2/paragraph/23/2011-03-04)
 
-[^key-c8317d55005e59c4604f7689a298ae20]: Textual amendment: Words in [sch. 4 para. 25(2)(a)(i)](https://www.legislation.gov.uk/ssi/2006/44/schedule/4/paragraph/25/2/a/i) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [25(5)(a)](https://www.legislation.gov.uk/ssi/2018/391/regulation/25/5/a)
+[^c-c8317d55005e59c4604f7689a298ae20]: Textual amendment: Words in [sch. 4 para. 25(2)(a)(i)](https://www.legislation.gov.uk/ssi/2006/44/schedule/4/paragraph/25/2/a/i) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [25(5)(a)](https://www.legislation.gov.uk/ssi/2018/391/regulation/25/5/a)
 
-[^key-c0806917c780497e612a5eded559df0f]: Textual amendment: Words in [sch. 4 para. 32(2)(a)(i)](https://www.legislation.gov.uk/ssi/2006/44/schedule/4/paragraph/32/2/a/i) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [25(5)(b)](https://www.legislation.gov.uk/ssi/2018/391/regulation/25/5/b)
+[^c-c0806917c780497e612a5eded559df0f]: Textual amendment: Words in [sch. 4 para. 32(2)(a)(i)](https://www.legislation.gov.uk/ssi/2006/44/schedule/4/paragraph/32/2/a/i) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [25(5)(b)](https://www.legislation.gov.uk/ssi/2018/391/regulation/25/5/b)
 
-[^key-2a1889e60737c1e10b41713c8cfe46be]: Textual amendment: Words in [sch. 4 para. 33(4)](https://www.legislation.gov.uk/ssi/2006/44/schedule/4/paragraph/33/4) substituted (4.3.2011) by [The Animal By-Products (Enforcement) (Scotland) Regulations 2011 (revoked) 2011 (S.S.I. 2011/171)](https://www.legislation.gov.uk/ssi/2011/171), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/171/regulation/1/1), [sch. 2 para. 23(b)](https://editorial.legislation.gov.uk/ssi/2011/171/schedule/2/paragraph/23/2011-03-04)
+[^c-2a1889e60737c1e10b41713c8cfe46be]: Textual amendment: Words in [sch. 4 para. 33(4)](https://www.legislation.gov.uk/ssi/2006/44/schedule/4/paragraph/33/4) substituted (4.3.2011) by [The Animal By-Products (Enforcement) (Scotland) Regulations 2011 (revoked) 2011 (S.S.I. 2011/171)](https://www.legislation.gov.uk/ssi/2011/171), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/171/regulation/1/1), [sch. 2 para. 23(b)](https://editorial.legislation.gov.uk/ssi/2011/171/schedule/2/paragraph/23/2011-03-04)

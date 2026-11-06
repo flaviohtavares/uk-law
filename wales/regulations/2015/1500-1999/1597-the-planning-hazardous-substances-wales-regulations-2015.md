@@ -45,7 +45,7 @@ Coming into force
 
 [^c22634531][^c22634541]The Welsh Ministers are designated for the purposes of section 2(2) of the European Communities Act 1972 (“**the 1972 Act**”) in relation to the prevention and limitation of the effects of accidents involving dangerous substances insofar as they relate to land-use planning, transport routes or fisheries .
 
-The Welsh Ministers make these Regulations in exercise of the powers conferred by sections 4, 5, 7, 8, 17, 21, 21B, 24, 25, 26A, 28, 30 and 40 of the Planning (Hazardous Substances) Act 1990 [^c22634551], section 2(2) and paragraph 1A of Schedule 2 to the 1972 Act and section 26 of the Welsh Language Act 1993 [^c22634561].These Regulations make provision for a purpose mentioned in section 2(2) of the 1972 Act and it appears to the Welsh Ministers that it is expedient for the references in these Regulations to Regulation [(EC) No. 1272/2008](https://www.legislation.gov.uk/european/regulation/2008/1272) of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures [^c22634571], to be construed as references to that instrument as amended from time to time.[^key-1a24056d9ad5575bcc70cceddb91d37e]
+The Welsh Ministers make these Regulations in exercise of the powers conferred by sections 4, 5, 7, 8, 17, 21, 21B, 24, 25, 26A, 28, 30 and 40 of the Planning (Hazardous Substances) Act 1990 [^c22634551], section 2(2) and paragraph 1A of Schedule 2 to the 1972 Act and section 26 of the Welsh Language Act 1993 [^c22634561].These Regulations make provision for a purpose mentioned in section 2(2) of the 1972 Act and it appears to the Welsh Ministers that it is expedient for the references in these Regulations to Regulation [(EC) No. 1272/2008](https://www.legislation.gov.uk/european/regulation/2008/1272) of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures [^c22634571], to be construed as references to that instrument as amended from time to time.[^c-1a24056d9ad5575bcc70cceddb91d37e]
 
 ## PART 1 — General
 
@@ -64,10 +64,10 @@ The Welsh Ministers make these Regulations in exercise of the powers conferred b
   - (a) in relation to a nuclear site the Office of Nuclear Regulation and the Natural Resources Body for Wales acting jointly,
   - (b) otherwise, the Health and Safety Executive and the Natural Resources Body for Wales acting jointly;
 - “**commencement date**” (“***dyddiad cychwyn***”) means 4 September 2015;
-- “**the Directive**” (“***y Gyfarwyddeb***”) means Directive 2012/18/EU of the European Parliament and the Council on the control of major-accident hazards involving dangerous substances as it had effect immediately before IP completion day[^key-dd5d42699e73a3cf8d64210c22b1ad2c] [^c22634591];
-- “[^key-84066b07cda96ce34d337787c9aa9023]**the EIA Directive**” (“***y Gyfarwyddeb AEA***”) means Directive 2011/92/EU of the European Parliament and of the Council of 13 December 2011 on the assessment of the effects of certain public and private projects on the environment as it had effect immediately before IP completion day;
+- “**the Directive**” (“***y Gyfarwyddeb***”) means Directive 2012/18/EU of the European Parliament and the Council on the control of major-accident hazards involving dangerous substances as it had effect immediately before IP completion day[^c-dd5d42699e73a3cf8d64210c22b1ad2c] [^c22634591];
+- “[^c-84066b07cda96ce34d337787c9aa9023]**the EIA Directive**” (“***y Gyfarwyddeb AEA***”) means Directive 2011/92/EU of the European Parliament and of the Council of 13 December 2011 on the assessment of the effects of certain public and private projects on the environment as it had effect immediately before IP completion day;
 - “**electronic communications**” (“***cyfathrebiadau electronig***”) has the meaning given in section 15(1) of the Electronic Communications Act 2000;
-- “full statement of case” (“[^key-98ac02cf58ad5a2fc8a31e66171fff27]*datganiad achos llawn*”) means and is comprised of—
+- “full statement of case” (“[^c-98ac02cf58ad5a2fc8a31e66171fff27]*datganiad achos llawn*”) means and is comprised of—
   - ((a)) a statement in writing containing full particulars of the case—
     - (i) the applicant proposes to put forward in relation to the application referred to the Welsh Ministers pursuant to a direction under section 20 of the PHSA; or
     - (ii) the appellant proposes to put forward in relation to the appeal under section 21 of the PHSA; and
@@ -172,8 +172,8 @@ Schedule 2 to these Regulations has effect.
 
 - (a) inform the public by notice published in a local newspaper circulating in the locality in which the land to which the application relates is situated, or by other appropriate means, including electronic communications, of the following matters—
   - (i) a description of the proposal and the address or location of the land to which the application relates;
-  - (ii) where applicable, the fact that the proposal is, or is part of, a project that is subject to a national or transboundary environmental impact assessment (which have the same meaning as in any provision of retained EU law which implemented the EIA Directive)[^key-d52b26647e2b5a3bbadc3d4c40b8bfe6] ;
-  - (iia)[^key-34cef0e95c008b7ade165084642dd141] where applicable, the fact that the project to which the proposal relates is one in respect of which the COMAH competent authority is required to consult any country in accordance with Regulation 20 of the Control of Major Accident Hazards Regulations 2015;
+  - (ii) where applicable, the fact that the proposal is, or is part of, a project that is subject to a national or transboundary environmental impact assessment (which have the same meaning as in any provision of retained EU law which implemented the EIA Directive)[^c-d52b26647e2b5a3bbadc3d4c40b8bfe6] ;
+  - (iia)[^c-34cef0e95c008b7ade165084642dd141] where applicable, the fact that the project to which the proposal relates is one in respect of which the COMAH competent authority is required to consult any country in accordance with Regulation 20 of the Control of Major Accident Hazards Regulations 2015;
   - (iii) that the hazardous substances authority (from which relevant information can be obtained) will decide whether or not to grant consent, and if to grant, will decide on what conditions to grant;
   - (iv) that representations (including comments or questions) may be made to the hazardous substances authority;
   - (v) details of how such representations should be made and the time period for making representations, which must be not less than 21 days beginning with the day after the day on which an application under regulation 5 is sent to the hazardous substances authority;
@@ -247,8 +247,8 @@ Following receipt of an application under regulation 5, the hazardous substances
 
 - (a) notify in writing the body or person concerned that they have received an application for hazardous substances consent and inform them of the following matters—
   - (i) a description of the proposal and the address or location of the land to which the application relates;
-  - (ii) where applicable, the fact that the proposal is, or is part of, a project that is subject to a national or transboundary environmental impact assessment (which have the same meaning as in any provision of retained EU law which implemented the EIA Directive)[^key-3bb670c3601d1862c8da7ccd86b5b46f] ;
-  - (iia)[^key-a68ddda98924399cd13fca7304eff552] where applicable, the fact that the project to which the proposal relates is one in respect of which the COMAH competent authority is required to consult any country in accordance with Regulation 20 of the Control of Major Accident Hazards Regulations 2015;
+  - (ii) where applicable, the fact that the proposal is, or is part of, a project that is subject to a national or transboundary environmental impact assessment (which have the same meaning as in any provision of retained EU law which implemented the EIA Directive)[^c-3bb670c3601d1862c8da7ccd86b5b46f] ;
+  - (iia)[^c-a68ddda98924399cd13fca7304eff552] where applicable, the fact that the project to which the proposal relates is one in respect of which the COMAH competent authority is required to consult any country in accordance with Regulation 20 of the Control of Major Accident Hazards Regulations 2015;
   - (iii) that the hazardous substances authority (from which relevant information can be obtained) will decide whether or not to grant consent, and if to grant, will decide on what conditions to grant;
   - (iv) that representations (including comments or questions) may be made to the hazardous substances authority;
   - (v) details of how such representations should be made and the time period for making representations, which must be not less than 28 days beginning with the day after the day on which the person or body is notified that a valid application has been received by the hazardous substances authority;
@@ -299,7 +299,7 @@ the exception in paragraph (1) does not apply.
 - (a) the contents of the decision and the reasons on which it is based, including any subsequent notices received from the COMAH competent authority pursuant to paragraph 17 of Schedule 2; and
 - (b) the results of the consultations held before the decision was taken and an explanation of how they were taken into account in that decision.
 
-### 12. Notice of reference of applications to the Welsh Ministers[^key-58f910ffe10dd0c62157a13caa4c6de0]
+### 12. Notice of reference of applications to the Welsh Ministers[^c-58f910ffe10dd0c62157a13caa4c6de0]
 
 (1) On referring any application to the Welsh Ministers pursuant to a direction under section 20 of the PHSA, a hazardous substances authority must as soon as reasonably practicable—
 
@@ -340,17 +340,17 @@ the exception in paragraph (1) does not apply.
 
 - (a) the application made to the hazardous substances authority which has occasioned the appeal;
 - (b) any notices and certificates required by regulations 6 and 7 which accompanied the application;
-- (c) any correspondence with the authority relating to the application; [^key-70bdb4a0c970a546c5e06d7989c54fc9]...
-- (d) the notice of decision, if any ; and[^key-db6bf4e663ecbddcca5e5287b8553385]
-- (e)[^key-eb9c5f14750f9873ed526f9ab249a8ff] a full statement of case
+- (c) any correspondence with the authority relating to the application; [^c-70bdb4a0c970a546c5e06d7989c54fc9]...
+- (d) the notice of decision, if any ; and[^c-db6bf4e663ecbddcca5e5287b8553385]
+- (e)[^c-eb9c5f14750f9873ed526f9ab249a8ff] a full statement of case
 
 (4) An appeal under section 21 of the PHSA must not be entertained by the Welsh Ministers unless it is accompanied by whichever of certificates A to D is appropriate in Form 2, signed by or on behalf of the appellant.
 
 (5) The required notice referred to in certificates B and C must, in the case of an appeal under section 21 of the PHSA, be a notice given on Form 4.
 
-(6) The appellant must send a copy of the completed notice of appeal form, accompanying certificate and full statement of case[^key-29daf758790fae488b2db0b505c221aa] to the hazardous substances authority at the same time as the appeal is made to the Welsh Ministers.
+(6) The appellant must send a copy of the completed notice of appeal form, accompanying certificate and full statement of case[^c-29daf758790fae488b2db0b505c221aa] to the hazardous substances authority at the same time as the appeal is made to the Welsh Ministers.
 
-### 13A. Variation of applications after notice of appeal[^key-588a7976b6747d7bd26b00417a4ebb12]
+### 13A. Variation of applications after notice of appeal[^c-588a7976b6747d7bd26b00417a4ebb12]
 
 (1) For the purposes of section 21(3E) of the PHSA the prescribed circumstance is the application to which the appeal relates contains a correctable error.
 
@@ -361,7 +361,7 @@ the exception in paragraph (1) does not apply.
 - (a) is corrected in order to ensure consistency in the information contained in the application and the accompanying documents; and
 - (b) does not alter the substance of the application.
 
-### 14. Period for determination of procedure under sections 20 and 21 of the PHSA[^key-c01f31723a051b1d043966c89e0f4982]
+### 14. Period for determination of procedure under sections 20 and 21 of the PHSA[^c-c01f31723a051b1d043966c89e0f4982]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -384,11 +384,11 @@ Section 174(1), (2) and (3) to (6) and sections 175(3) and (6), 176 and 177 of t
 
 ### 17. Appeals: supplementary
 
-(1)[^key-8250b96b1cbde144d43ba3fe4381697e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-8250b96b1cbde144d43ba3fe4381697e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-e0e7a3d6ef04ee2061eafbc15302bb05] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-e0e7a3d6ef04ee2061eafbc15302bb05] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-e0e7a3d6ef04ee2061eafbc15302bb05] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-e0e7a3d6ef04ee2061eafbc15302bb05] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 18. Effect of non-compliance with hazardous substances contravention notices, etc.
 
@@ -533,7 +533,7 @@ and at the date when the relevant notice was issued that application or, in the 
 (1) In preparing, reviewing or modifying any relevant policy, the Welsh Ministers must ensure that the following matters are taken into account—
 
 - (a) the objectives of preventing major accidents and limiting the consequences of such accidents for human health and the environment; and
-- (b) the matters referred to in Article 13(2) of the Directive (with the reference in sub-paragraph (c) of that Article to Article 5 being read as a reference to regulation 5 of the Control of Major Accident Hazards Regulations 2015)[^key-f5ad8bacf0f50f2328e4aa6da5173838].
+- (b) the matters referred to in Article 13(2) of the Directive (with the reference in sub-paragraph (c) of that Article to Article 5 being read as a reference to regulation 5 of the Control of Major Accident Hazards Regulations 2015)[^c-f5ad8bacf0f50f2328e4aa6da5173838].
 
 (2) In this regulation “**relevant policy**” (“***polisi perthnasol***”) means the Wales Spatial Plan; and any current national land-use planning, transport routes or fishery harbour policy where in the opinion of the Welsh Ministers that policy concerns matters affecting the risks or consequences of a major accident.
 
@@ -560,7 +560,7 @@ and at the date when the relevant notice was issued that application or, in the 
 
 - “**public consultees**” (“***ymgyngoreion cyhoeddus***”) means persons of whom the responsible authority is aware, including any non-governmental organisation promoting environmental protection, who are affected or likely to be affected by, or have an interest in, the relevant plan or programme in question;
 - “**relevant plan or programme**” (“***cynllun neu raglen berthnasol***”) means a general plan or programme relating to—
-  - (a) planning for new establishments pursuant to any provision of retained EU law which implemented[^key-28c52cbedcc5d0a8c7323441f21efd67] Article 13 of the Directive, or
+  - (a) planning for new establishments pursuant to any provision of retained EU law which implemented[^c-28c52cbedcc5d0a8c7323441f21efd67] Article 13 of the Directive, or
   - (b) new developments around establishments where the siting or developments may increase the risk or consequences of a major accident pursuant to any provision of retained EU law which implemented Article 13 of the Directive; and
 - “**responsible authority**” (“***awdurdod cyfrifol***”) means—
   - (a) the authority by which or on whose behalf a relevant plan or programme is prepared; and
@@ -580,8 +580,8 @@ and at the date when the relevant notice was issued that application or, in the 
 
 - (a) the public is informed by public notices or other appropriate means, including electronic communications where available, of the following matters early in the procedure for the taking of a decision or, at the latest, as soon as the information can reasonably be provided—
   - (i) the subject of the relevant project;
-  - (ii) where applicable, the fact that a project is subject to a national or transboundary environmental impact assessment (which have the same meaning as in any provision of retained EU law which implemented the EIA Directive)[^key-96e93b28f5f912914cc5f2f37f0a6e58] ;
-  - (iia)[^key-4293e0cbb7f4f1c045493a66ed1cf39a] pan fo'n gymwys, y ffaith bod y prosiect y mae'r cynnig yn ymwneud ag ef yn un y mae'n ofynnol i'r awdurdod COMAH cymwys ymgynghori ag unrhyw wlad yn unol â Rheoliad 20 o Reoliadau Rheoli Peryglon Damweiniau Difrifol 2015;
+  - (ii) where applicable, the fact that a project is subject to a national or transboundary environmental impact assessment (which have the same meaning as in any provision of retained EU law which implemented the EIA Directive)[^c-96e93b28f5f912914cc5f2f37f0a6e58] ;
+  - (iia)[^c-4293e0cbb7f4f1c045493a66ed1cf39a] pan fo'n gymwys, y ffaith bod y prosiect y mae'r cynnig yn ymwneud ag ef yn un y mae'n ofynnol i'r awdurdod COMAH cymwys ymgynghori ag unrhyw wlad yn unol â Rheoliad 20 o Reoliadau Rheoli Peryglon Damweiniau Difrifol 2015;
   - (iii) details of the competent authority responsible for taking the decision, from which relevant information can be obtained and to which comments or questions can be submitted;
   - (iv) an indication of the times and places where, or means by which, the relevant information will be made available;
   - (v) details of the period for transmitting comments or questions; and
@@ -612,7 +612,7 @@ and at the date when the relevant notice was issued that application or, in the 
 (6) In this regulation, a reference to giving consent, permission or other authorisation means—
 
 - (a) granting planning permission on an application under Part 3 of the TCPA [^c22634721] (control over development);
-- (aa)[^key-70a7eaa7452b3a156e9e44b8d0dceda7] deciding an application for infrastructure consent under Part 5 of the Infrastructure (Wales) Act 2024;
+- (aa)[^c-70a7eaa7452b3a156e9e44b8d0dceda7] deciding an application for infrastructure consent under Part 5 of the Infrastructure (Wales) Act 2024;
 - (b) granting planning permission on an application under section 293A of that Act [^c22634731] (urgent Crown development) [^c22634741];
 - (c) granting planning permission, or upholding a decision of the local planning authority to grant planning permission (whether or not subject to the same conditions and limitations as those imposed by the local planning authority), on determining an appeal under section 78 of that Act (right to appeal against planning decisions) [^c22634751] in respect of such an application;
 - (d) granting planning permission under—
@@ -629,7 +629,7 @@ and at the date when the relevant notice was issued that application or, in the 
 - (g) authorising works in a fishery harbour pursuant to powers contained in an order under section 14(1) or 16(1) or (2) of the Harbours Act 1964;
 - (h) directing under the following provisions that if an application is made for planning permission it must be granted under—
   - (i) section 141(3) of that Act (action in relation to purchase notice); or
-  - (ii)[^key-1289186b0bbcf2db184f868f57985637] paragraph 2(6) of Schedule 9 to the Historic Environment (Wales) Act 2023 (action by Welsh Ministers on rejection of purchase notice by planning authority);
+  - (ii)[^c-1289186b0bbcf2db184f868f57985637] paragraph 2(6) of Schedule 9 to the Historic Environment (Wales) Act 2023 (action by Welsh Ministers on rejection of purchase notice by planning authority);
 - (i) making an order under any of the following provisions of the Highways Act 1980 [^c22634821] in relation to works carried out by the Welsh Ministers—
   - (i) section 10 (general provision as to trunk roads);
   - (ii) section 14 (powers as respects roads that cross or join trunk or classified roads);
@@ -766,7 +766,7 @@ This Part covers all hazardous substances falling under the hazard categories li
 </tbody>
 </table>
 
-[^key-9ea7a87bd776063416f138e45d046c55]
+[^c-9ea7a87bd776063416f138e45d046c55]
 
 ### PART 2 — Named hazardous substances
 
@@ -876,7 +876,7 @@ The relevant provisions of these Regulations apply where any of the sums obtaine
 
 **10.** If Explosives of Division 1.4 are unpacked or repacked, they must be assigned to the entry P1a, unless the hazard is shown to still correspond to Division 1.4, in accordance with the CLP Regulation.
 
-**11.** (1) Flammable aerosols are classified in accordance with the Council Directive [75/324/EEC](https://www.legislation.gov.uk/european/directive/1975/0324) of 20 May 1975 on the approximation of the laws of the Member States relating to aerosol dispensers as amended from time to time[^key-2430555c31b5580200e4ba968ba4385c] [^c22634861] (Aerosol Dispensers Directive). “Extremely flammable” and “Flammable” aerosols of Directive [75/324/EEC](https://www.legislation.gov.uk/european/directive/1975/0324) correspond to Flammable Aerosols Category 1 or 2 respectively of the CLP Regulation.
+**11.** (1) Flammable aerosols are classified in accordance with the Council Directive [75/324/EEC](https://www.legislation.gov.uk/european/directive/1975/0324) of 20 May 1975 on the approximation of the laws of the Member States relating to aerosol dispensers as amended from time to time[^c-2430555c31b5580200e4ba968ba4385c] [^c22634861] (Aerosol Dispensers Directive). “Extremely flammable” and “Flammable” aerosols of Directive [75/324/EEC](https://www.legislation.gov.uk/european/directive/1975/0324) correspond to Flammable Aerosols Category 1 or 2 respectively of the CLP Regulation.
 
 (2) In order to use this entry, it must be documented that the aerosol dispenser does not contain Flammable Gas Category 1 or 2 nor Flammable Liquid Category 1.
 
@@ -886,12 +886,12 @@ The relevant provisions of these Regulations apply where any of the sums obtaine
 
 This applies to ammonium nitrate-based compound/composite fertilisers (compound/composite fertilisers contain ammonium nitrate with phosphate and/or potash) which are capable of self-sustaining decomposition according to the UN Trough Test (see UN Manual of Tests and Criteria, Part III, subsection 38.2), and in which the nitrogen content as a result of ammonium nitrate is—
 
-- (a) between 15.75% [^c22634871] and 24.5% [^c22634881] by weight, and either with not more than 0.4% total combustible/organic materials or which fulfil the requirements of Annex III-2 to Regulation [(EC) No 2003/2003](https://www.legislation.gov.uk/european/regulation/2003/2003) of the European Parliament and of the Council of 13 October 2003 relating to fertilisers as amended from time to time[^key-4ceab8b7f4e936fef4d421982d7a6701] [^c22634891];
+- (a) between 15.75% [^c22634871] and 24.5% [^c22634881] by weight, and either with not more than 0.4% total combustible/organic materials or which fulfil the requirements of Annex III-2 to Regulation [(EC) No 2003/2003](https://www.legislation.gov.uk/european/regulation/2003/2003) of the European Parliament and of the Council of 13 October 2003 relating to fertilisers as amended from time to time[^c-4ceab8b7f4e936fef4d421982d7a6701] [^c22634891];
 - (b) 15.75% by weight or less and unrestricted combustible materials.
 
 **14.** Ammonium nitrate (1,250/5,000): fertiliser grade
 
-This applies to straight ammonium nitrate-based fertilisers and to ammonium nitrate-based compound/composite fertilisers which fulfil the requirements of Annex III-2 to Regulation [(EC) No 2003/2003](https://www.legislation.gov.uk/european/regulation/2003/2003) as amended from time to time[^key-20cdec5d74bfdecb0ae5f315e95ddd2e] and in which the nitrogen content as a result of ammonium nitrate is—
+This applies to straight ammonium nitrate-based fertilisers and to ammonium nitrate-based compound/composite fertilisers which fulfil the requirements of Annex III-2 to Regulation [(EC) No 2003/2003](https://www.legislation.gov.uk/european/regulation/2003/2003) as amended from time to time[^c-20cdec5d74bfdecb0ae5f315e95ddd2e] and in which the nitrogen content as a result of ammonium nitrate is—
 
 - (a) more than 24.5% by weight, except for mixtures of straight ammonium nitrate based fertilisers with dolomite, limestone and/or calcium carbonate with a purity of at least 90%;
 - (b) more than 15.75% by weight for mixtures of ammonium nitrate and ammonium sulphate;
@@ -911,7 +911,7 @@ It also applies to aqueous ammonium nitrate solutions in which the concentration
 This applies to—
 
 - (a) material rejected during the manufacturing process and to ammonium nitrate and mixtures of ammonium nitrate, straight ammonium nitrate-based fertilisers and ammonium nitrate-based compound/composite fertilisers referred to in Notes 14 and 15, that are being or have been returned from the final user to a manufacturer, temporary storage or reprocessing plant for reworking, recycling or treatment for safe use, because they no longer comply with the specifications of Notes 14 and 15;
-- (b) fertilisers referred to in Note 13(a), and Note 14 to this Schedule which do not fulfil the requirements of Annex III-2 to Regulation [(EC) No 2003/2003](https://www.legislation.gov.uk/european/regulation/2003/2003) as amended from time to time[^key-4afb7fe62fdd95a8339d4ac788618fa8].
+- (b) fertilisers referred to in Note 13(a), and Note 14 to this Schedule which do not fulfil the requirements of Annex III-2 to Regulation [(EC) No 2003/2003](https://www.legislation.gov.uk/european/regulation/2003/2003) as amended from time to time[^c-4afb7fe62fdd95a8339d4ac788618fa8].
 
 **17.** Potassium nitrate (5,000/10,000)
 
@@ -985,7 +985,7 @@ Hazardous substances consent is not required for the presence of a hazardous sub
 **4.** For the purpose of paragraph 3, a substance is to be treated as having been unloaded from a craft in an emergency if—
 
 - (a) it was unloaded from a craft to which a direction under section 3(1) of the Dangerous Vessels Act 1985 [^c22634911] (directions by Secretary of State to harbour master) applied; or
-- (b)[^key-48a4fa0b2641d8cc3da2eb47ef66d1ab] it was unloaded from a craft after having been brought into a harbour area, within the meaning of regulation 2(1) of the Dangerous Goods in Harbour Areas Regulations 2016, without requiring notification under paragraph (1) of regulation 6 of those Regulations by virtue of an exemption under paragraph (6) of that regulation.
+- (b)[^c-48a4fa0b2641d8cc3da2eb47ef66d1ab] it was unloaded from a craft after having been brought into a harbour area, within the meaning of regulation 2(1) of the Dangerous Goods in Harbour Areas Regulations 2016, without requiring notification under paragraph (1) of regulation 6 of those Regulations by virtue of an exemption under paragraph (6) of that regulation.
 
 ### 5. Landfill sites
 
@@ -993,7 +993,7 @@ Subject to paragraph 7, hazardous substances consent is not required for the pre
 
 **6.** Paragraph 5 does not apply to—
 
-- (a) a site used for the storage of metallic mercury pursuant to Article 13(1) of Regulation (EU) 2017/852 of the European Parliament and of the Council on mercury, and repealing Regulation[^key-6da11eae4274fdee4e41aac69129e086] [(EC) No 1102/2008](https://www.legislation.gov.uk/european/regulation/2008/1102), as amended from time to time;
+- (a) a site used for the storage of metallic mercury pursuant to Article 13(1) of Regulation (EU) 2017/852 of the European Parliament and of the Council on mercury, and repealing Regulation[^c-6da11eae4274fdee4e41aac69129e086] [(EC) No 1102/2008](https://www.legislation.gov.uk/european/regulation/2008/1102), as amended from time to time;
 - (b) onshore underground gas storage in natural strata, aquifers, salt cavities and disused mines;
 - (c) chemical and thermal processing operations and storage related to those operations; or
 - (d) operational tailings disposal facilities, including tailing ponds or dams, containing a hazardous substance.
@@ -1020,7 +1020,7 @@ Hazardous substances consent is not required for the presence of an explosive wi
   - (ii) paragraph 1(d) of Schedule 1 to those Regulations; or
 - (b) a licence is required and has been granted under those Regulations by the Office for Nuclear Regulation in cases where the assent of the local authority was required pursuant to regulation 13(3) of those Regulations or would have been required but for regulation 13(4)(b), (c), (d), (e), (f) or (g) of those Regulations.
 
-**11.**[^key-e3d20c9c1e5521607cf11488bb3cf618] Hazardous substance consent is not required where an explosives licence within the meaning of regulation 2(1) of the Dangerous Goods in Harbour Areas Regulations 2016 has been issued.
+**11.**[^c-e3d20c9c1e5521607cf11488bb3cf618] Hazardous substance consent is not required where an explosives licence within the meaning of regulation 2(1) of the Dangerous Goods in Harbour Areas Regulations 2016 has been issued.
 
 ### 12. Presence of established substances
 
@@ -1102,7 +1102,7 @@ Regulations 16, 18 and 20(1)
   > - (f) that any period specified in the notice in accordance with section 24(5)(b) of that Act falls short of what should reasonably be allowed.
 
   ;
-- (b)[^key-782596c1e202bfe81309a2f76163b724] for subsection (4) there were substituted—
+- (b)[^c-782596c1e202bfe81309a2f76163b724] for subsection (4) there were substituted—
 
   > (4) A notice under subsection (3) must be accompanied by a copy of the hazardous substances contravention notice.
   >
@@ -1121,7 +1121,7 @@ Regulations 16, 18 and 20(1)
   - (i) the words “in that statement” were inserted immediately after “does not”;
   - (ii) the words “in that statement” were inserted immediately after “failed”; and
   - (iii) the words “within the prescribed time” and “within that time” were omitted.
-- (d)[^key-2fa2adf94d0441214195414f2ac60819] subsection (6) read as follows—
+- (d)[^c-2fa2adf94d0441214195414f2ac60819] subsection (6) read as follows—
 
   > (6) In this section—
   >
@@ -1332,25 +1332,25 @@ A regulatory impact assessment has been prepared in relation to this Order. Copi
 
 [^c22634571]: Marginal citation: O.J. L 345, 23.12,2008, p. 68.
 
-[^key-1a24056d9ad5575bcc70cceddb91d37e]: Modification: [Regulations](https://www.legislation.gov.uk/wsi/2015/1597) applied (with modifications) (1.3.2016) by [The Developments of National Significance (Wales) Regulations 2016 (S.I. 2016/56)](https://www.legislation.gov.uk/wsi/2016/56), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/56/regulation/1/2), [Sch. 6 para. 2](https://www.legislation.gov.uk/wsi/2016/56/schedule/6/paragraph/2) (with [regs. 1(3)](https://www.legislation.gov.uk/wsi/2016/56/regulation/1/3), [46](https://www.legislation.gov.uk/wsi/2016/56/regulation/46))
+[^c-1a24056d9ad5575bcc70cceddb91d37e]: Modification: [Regulations](https://www.legislation.gov.uk/wsi/2015/1597) applied (with modifications) (1.3.2016) by [The Developments of National Significance (Wales) Regulations 2016 (S.I. 2016/56)](https://www.legislation.gov.uk/wsi/2016/56), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/56/regulation/1/2), [Sch. 6 para. 2](https://www.legislation.gov.uk/wsi/2016/56/schedule/6/paragraph/2) (with [regs. 1(3)](https://www.legislation.gov.uk/wsi/2016/56/regulation/1/3), [46](https://www.legislation.gov.uk/wsi/2016/56/regulation/46))
 
 [^c22634581]: Marginal citation: [S.I. 1992/656](https://www.legislation.gov.uk/uksi/1992/656); relevant amendments were made by section 76(7) of the [Utilities Act 2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27) and by [S.I. 1999/981](https://www.legislation.gov.uk/uksi/1999/981), [S.I](https://www.legislation.gov.uk/uksi/1999/981/section/I). 2006/1282, [S.I. 2996/1283](https://www.legislation.gov.uk/uksi/2996/1283), [S.I](https://www.legislation.gov.uk/uksi/2996/1283/section/I). 2009/1901, [S.I. 2010/1050](https://www.legislation.gov.uk/uksi/2010/1050) and [S.I. 2014/162](https://www.legislation.gov.uk/uksi/2014/162).
 
-[^key-dd5d42699e73a3cf8d64210c22b1ad2c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2015/1597/regulation/2/1) inserted (31.12.2020) by [The Town and Country Planning (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/456)](https://www.legislation.gov.uk/uksi/2019/456), [regs. 1](https://www.legislation.gov.uk/uksi/2019/456/regulation/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2019/456/regulation/5/2/a); (as amended by [S.I. 2020/1324](https://www.legislation.gov.uk/uksi/2020/1324), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1324/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2020/1324/regulation/3/2/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dd5d42699e73a3cf8d64210c22b1ad2c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2015/1597/regulation/2/1) inserted (31.12.2020) by [The Town and Country Planning (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/456)](https://www.legislation.gov.uk/uksi/2019/456), [regs. 1](https://www.legislation.gov.uk/uksi/2019/456/regulation/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2019/456/regulation/5/2/a); (as amended by [S.I. 2020/1324](https://www.legislation.gov.uk/uksi/2020/1324), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1324/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2020/1324/regulation/3/2/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22634591]: Marginal citation: O.J. No. L 197, 24.7.2012, p. 1.
 
-[^key-84066b07cda96ce34d337787c9aa9023]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2015/1597/regulation/2/1) inserted (31.12.2020) by [The Town and Country Planning (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/456)](https://www.legislation.gov.uk/uksi/2019/456), [regs. 1](https://www.legislation.gov.uk/uksi/2019/456/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2019/456/regulation/5/2/b); (as amended by [S.I. 2020/1324](https://www.legislation.gov.uk/uksi/2020/1324), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1324/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/1324/regulation/3/2/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-84066b07cda96ce34d337787c9aa9023]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2015/1597/regulation/2/1) inserted (31.12.2020) by [The Town and Country Planning (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/456)](https://www.legislation.gov.uk/uksi/2019/456), [regs. 1](https://www.legislation.gov.uk/uksi/2019/456/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2019/456/regulation/5/2/b); (as amended by [S.I. 2020/1324](https://www.legislation.gov.uk/uksi/2020/1324), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1324/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/1324/regulation/3/2/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-98ac02cf58ad5a2fc8a31e66171fff27]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2015/1597/regulation/2/1) inserted (5.5.2017) by [The Planning (Hazardous Substances) (Wales) (Amendment) Regulations 2017 (S.I. 2017/547)](https://www.legislation.gov.uk/uksi/2017/547), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/547/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2017/547/regulation/3) (with [reg. 8](https://www.legislation.gov.uk/uksi/2017/547/regulation/8))
+[^c-98ac02cf58ad5a2fc8a31e66171fff27]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2015/1597/regulation/2/1) inserted (5.5.2017) by [The Planning (Hazardous Substances) (Wales) (Amendment) Regulations 2017 (S.I. 2017/547)](https://www.legislation.gov.uk/uksi/2017/547), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/547/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2017/547/regulation/3) (with [reg. 8](https://www.legislation.gov.uk/uksi/2017/547/regulation/8))
 
 [^c22634601]: Marginal citation: [2013 c. 32](https://www.legislation.gov.uk/ukpga/2013/32).
 
 [^c22634611]: Marginal citation: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8).
 
-[^key-d52b26647e2b5a3bbadc3d4c40b8bfe6]: Textual amendment: Words in [reg. 6(1)(a)(ii)](https://www.legislation.gov.uk/wsi/2015/1597/regulation/6/1/a/ii) substituted (31.12.2020) by [The Town and Country Planning (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/456)](https://www.legislation.gov.uk/wsi/2019/456), [regs. 1](https://www.legislation.gov.uk/wsi/2019/456/regulation/1), [5(3)(a)](https://www.legislation.gov.uk/wsi/2019/456/regulation/5/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d52b26647e2b5a3bbadc3d4c40b8bfe6]: Textual amendment: Words in [reg. 6(1)(a)(ii)](https://www.legislation.gov.uk/wsi/2015/1597/regulation/6/1/a/ii) substituted (31.12.2020) by [The Town and Country Planning (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/456)](https://www.legislation.gov.uk/wsi/2019/456), [regs. 1](https://www.legislation.gov.uk/wsi/2019/456/regulation/1), [5(3)(a)](https://www.legislation.gov.uk/wsi/2019/456/regulation/5/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-34cef0e95c008b7ade165084642dd141]: Textual amendment: [Reg. 6(1)(a)](https://www.legislation.gov.uk/wsi/2015/1597/regulation/6/1/a)[(iia)](https://www.legislation.gov.uk/wsi/2015/1597/regulation/6/1/iia) inserted (31.12.2020) by [The Town and Country Planning (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/456)](https://www.legislation.gov.uk/wsi/2019/456), [regs. 1](https://www.legislation.gov.uk/wsi/2019/456/regulation/1), [5(3)(b)](https://www.legislation.gov.uk/wsi/2019/456/regulation/5/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-34cef0e95c008b7ade165084642dd141]: Textual amendment: [Reg. 6(1)(a)](https://www.legislation.gov.uk/wsi/2015/1597/regulation/6/1/a)[(iia)](https://www.legislation.gov.uk/wsi/2015/1597/regulation/6/1/iia) inserted (31.12.2020) by [The Town and Country Planning (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/456)](https://www.legislation.gov.uk/wsi/2019/456), [regs. 1](https://www.legislation.gov.uk/wsi/2019/456/regulation/1), [5(3)(b)](https://www.legislation.gov.uk/wsi/2019/456/regulation/5/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22634621]: Marginal citation: [1986 c. 44](https://www.legislation.gov.uk/ukpga/1986/44). Section 7 was substituted by section 5 of the [Gas Act 1995 (c. 45)](https://www.legislation.gov.uk/ukpga/1995/45) and subsection (2) was amended by sections 3(2) and 76 of, and paragraphs 1 and 4 of Part 1 of Schedule 6 to, the Utilities Act 2000 and by [S.I. 2011/2704](https://www.legislation.gov.uk/uksi/2011/2704).
 
@@ -1358,9 +1358,9 @@ A regulatory impact assessment has been prepared in relation to this Order. Copi
 
 [^c22634641]: Marginal citation: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69). Section 28 was substituted by paragraph 1 of Schedule 9 to the [Countryside and Rights of Way Act 2000 (c. 37)](https://www.legislation.gov.uk/ukpga/2000/37) and amended by section 105(1) of, and paragraph 79 of Part 1 of Schedule 11 to, the [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16) and paragraph 2 of Part 2 of Schedule 13 to the [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23).
 
-[^key-3bb670c3601d1862c8da7ccd86b5b46f]: Textual amendment: Words in [reg. 10(3)(a)(ii)](https://www.legislation.gov.uk/wsi/2015/1597/regulation/10/3/a/ii) substituted (31.12.2020) by [The Town and Country Planning (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/456)](https://www.legislation.gov.uk/wsi/2019/456), [regs. 1](https://www.legislation.gov.uk/wsi/2019/456/regulation/1), [5(4)(a)](https://www.legislation.gov.uk/wsi/2019/456/regulation/5/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3bb670c3601d1862c8da7ccd86b5b46f]: Textual amendment: Words in [reg. 10(3)(a)(ii)](https://www.legislation.gov.uk/wsi/2015/1597/regulation/10/3/a/ii) substituted (31.12.2020) by [The Town and Country Planning (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/456)](https://www.legislation.gov.uk/wsi/2019/456), [regs. 1](https://www.legislation.gov.uk/wsi/2019/456/regulation/1), [5(4)(a)](https://www.legislation.gov.uk/wsi/2019/456/regulation/5/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a68ddda98924399cd13fca7304eff552]: Textual amendment: [Reg. 10(3)(a)](https://www.legislation.gov.uk/wsi/2015/1597/regulation/10/3/a)[(iia)](https://www.legislation.gov.uk/wsi/2015/1597/regulation/10/3/iia) inserted (31.12.2020) by [The Town and Country Planning (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/456)](https://www.legislation.gov.uk/wsi/2019/456), [regs. 1](https://www.legislation.gov.uk/wsi/2019/456/regulation/1), [5(4)(b)](https://www.legislation.gov.uk/wsi/2019/456/regulation/5/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a68ddda98924399cd13fca7304eff552]: Textual amendment: [Reg. 10(3)(a)](https://www.legislation.gov.uk/wsi/2015/1597/regulation/10/3/a)[(iia)](https://www.legislation.gov.uk/wsi/2015/1597/regulation/10/3/iia) inserted (31.12.2020) by [The Town and Country Planning (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/456)](https://www.legislation.gov.uk/wsi/2019/456), [regs. 1](https://www.legislation.gov.uk/wsi/2019/456/regulation/1), [5(4)(b)](https://www.legislation.gov.uk/wsi/2019/456/regulation/5/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22634651]: Marginal citation: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43). Section 75(1) was amended by [S.I. 2006/937](https://www.legislation.gov.uk/uksi/2006/937). Section 75(2) was amended by [S.I. 2011/988](https://www.legislation.gov.uk/uksi/2011/988).
 
@@ -1368,41 +1368,41 @@ A regulatory impact assessment has been prepared in relation to this Order. Copi
 
 [^c22634671]: Marginal citation: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
 
-[^key-58f910ffe10dd0c62157a13caa4c6de0]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/wsi/2015/1597/regulation/12) substituted (5.5.2017) by [The Planning (Hazardous Substances) (Wales) (Amendment) Regulations 2017 (S.I. 2017/547)](https://www.legislation.gov.uk/wsi/2017/547), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2017/547/regulation/1/1), [4](https://www.legislation.gov.uk/wsi/2017/547/regulation/4) (with [reg. 8](https://www.legislation.gov.uk/wsi/2017/547/regulation/8))
+[^c-58f910ffe10dd0c62157a13caa4c6de0]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/wsi/2015/1597/regulation/12) substituted (5.5.2017) by [The Planning (Hazardous Substances) (Wales) (Amendment) Regulations 2017 (S.I. 2017/547)](https://www.legislation.gov.uk/wsi/2017/547), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2017/547/regulation/1/1), [4](https://www.legislation.gov.uk/wsi/2017/547/regulation/4) (with [reg. 8](https://www.legislation.gov.uk/wsi/2017/547/regulation/8))
 
-[^key-70bdb4a0c970a546c5e06d7989c54fc9]: Textual amendment: Word in [reg. 13(3)(c)](https://www.legislation.gov.uk/wsi/2015/1597/regulation/13/3/c) omitted (5.5.2017) by virtue of [The Planning (Hazardous Substances) (Wales) (Amendment) Regulations 2017 (S.I. 2017/547)](https://www.legislation.gov.uk/wsi/2017/547), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2017/547/regulation/1/1), [5(1)(a)](https://www.legislation.gov.uk/wsi/2017/547/regulation/5/1/a) (with [reg. 8](https://www.legislation.gov.uk/wsi/2017/547/regulation/8))
+[^c-70bdb4a0c970a546c5e06d7989c54fc9]: Textual amendment: Word in [reg. 13(3)(c)](https://www.legislation.gov.uk/wsi/2015/1597/regulation/13/3/c) omitted (5.5.2017) by virtue of [The Planning (Hazardous Substances) (Wales) (Amendment) Regulations 2017 (S.I. 2017/547)](https://www.legislation.gov.uk/wsi/2017/547), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2017/547/regulation/1/1), [5(1)(a)](https://www.legislation.gov.uk/wsi/2017/547/regulation/5/1/a) (with [reg. 8](https://www.legislation.gov.uk/wsi/2017/547/regulation/8))
 
-[^key-db6bf4e663ecbddcca5e5287b8553385]: Textual amendment: Word in [reg. 13(3)(d)](https://www.legislation.gov.uk/wsi/2015/1597/regulation/13/3/d) substituted (5.5.2017) by [The Planning (Hazardous Substances) (Wales) (Amendment) Regulations 2017 (S.I. 2017/547)](https://www.legislation.gov.uk/wsi/2017/547), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2017/547/regulation/1/1), [5(1)(b)](https://www.legislation.gov.uk/wsi/2017/547/regulation/5/1/b) (with [reg. 8](https://www.legislation.gov.uk/wsi/2017/547/regulation/8))
+[^c-db6bf4e663ecbddcca5e5287b8553385]: Textual amendment: Word in [reg. 13(3)(d)](https://www.legislation.gov.uk/wsi/2015/1597/regulation/13/3/d) substituted (5.5.2017) by [The Planning (Hazardous Substances) (Wales) (Amendment) Regulations 2017 (S.I. 2017/547)](https://www.legislation.gov.uk/wsi/2017/547), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2017/547/regulation/1/1), [5(1)(b)](https://www.legislation.gov.uk/wsi/2017/547/regulation/5/1/b) (with [reg. 8](https://www.legislation.gov.uk/wsi/2017/547/regulation/8))
 
-[^key-eb9c5f14750f9873ed526f9ab249a8ff]: Textual amendment: [Reg. 13(3)(e)](https://www.legislation.gov.uk/wsi/2015/1597/regulation/13/3/e) inserted (5.5.2017) by [The Planning (Hazardous Substances) (Wales) (Amendment) Regulations 2017 (S.I. 2017/547)](https://www.legislation.gov.uk/wsi/2017/547), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2017/547/regulation/1/1), [5(1)(c)](https://www.legislation.gov.uk/wsi/2017/547/regulation/5/1/c) (with [reg. 8](https://www.legislation.gov.uk/wsi/2017/547/regulation/8))
+[^c-eb9c5f14750f9873ed526f9ab249a8ff]: Textual amendment: [Reg. 13(3)(e)](https://www.legislation.gov.uk/wsi/2015/1597/regulation/13/3/e) inserted (5.5.2017) by [The Planning (Hazardous Substances) (Wales) (Amendment) Regulations 2017 (S.I. 2017/547)](https://www.legislation.gov.uk/wsi/2017/547), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2017/547/regulation/1/1), [5(1)(c)](https://www.legislation.gov.uk/wsi/2017/547/regulation/5/1/c) (with [reg. 8](https://www.legislation.gov.uk/wsi/2017/547/regulation/8))
 
-[^key-29daf758790fae488b2db0b505c221aa]: Textual amendment: Words in [reg. 13(6)](https://www.legislation.gov.uk/wsi/2015/1597/regulation/13/6) substituted (5.5.2017) by [The Planning (Hazardous Substances) (Wales) (Amendment) Regulations 2017 (S.I. 2017/547)](https://www.legislation.gov.uk/wsi/2017/547), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2017/547/regulation/1/1), [5(2)](https://www.legislation.gov.uk/wsi/2017/547/regulation/5/2) (with [reg. 8](https://www.legislation.gov.uk/wsi/2017/547/regulation/8))
+[^c-29daf758790fae488b2db0b505c221aa]: Textual amendment: Words in [reg. 13(6)](https://www.legislation.gov.uk/wsi/2015/1597/regulation/13/6) substituted (5.5.2017) by [The Planning (Hazardous Substances) (Wales) (Amendment) Regulations 2017 (S.I. 2017/547)](https://www.legislation.gov.uk/wsi/2017/547), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2017/547/regulation/1/1), [5(2)](https://www.legislation.gov.uk/wsi/2017/547/regulation/5/2) (with [reg. 8](https://www.legislation.gov.uk/wsi/2017/547/regulation/8))
 
-[^key-588a7976b6747d7bd26b00417a4ebb12]: Textual amendment: [Reg. 13A](https://www.legislation.gov.uk/wsi/2015/1597/regulation/13A) inserted (5.5.2017) by [The Planning (Hazardous Substances) (Wales) (Amendment) Regulations 2017 (S.I. 2017/547)](https://www.legislation.gov.uk/wsi/2017/547), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2017/547/regulation/1/1), [6](https://www.legislation.gov.uk/wsi/2017/547/regulation/6) (with [reg. 8](https://www.legislation.gov.uk/wsi/2017/547/regulation/8))
+[^c-588a7976b6747d7bd26b00417a4ebb12]: Textual amendment: [Reg. 13A](https://www.legislation.gov.uk/wsi/2015/1597/regulation/13A) inserted (5.5.2017) by [The Planning (Hazardous Substances) (Wales) (Amendment) Regulations 2017 (S.I. 2017/547)](https://www.legislation.gov.uk/wsi/2017/547), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2017/547/regulation/1/1), [6](https://www.legislation.gov.uk/wsi/2017/547/regulation/6) (with [reg. 8](https://www.legislation.gov.uk/wsi/2017/547/regulation/8))
 
-[^key-c01f31723a051b1d043966c89e0f4982]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/wsi/2015/1597/regulation/14) revoked (5.5.2017) by [The Town and Country Planning (Referred Applications and Appeals Procedure) (Wales) Regulations 2017 (S.I. 2017/544)](https://www.legislation.gov.uk/wsi/2017/544), [reg. 2(1)](https://www.legislation.gov.uk/wsi/2017/544/regulation/2/1), [Sch. 4](https://www.legislation.gov.uk/wsi/2017/544/schedule/4) (with [regs. 52](https://www.legislation.gov.uk/wsi/2017/544/regulation/52), [53(2)](https://www.legislation.gov.uk/wsi/2017/544/regulation/53/2)[(3)](https://www.legislation.gov.uk/wsi/2017/544/regulation/53/3))
+[^c-c01f31723a051b1d043966c89e0f4982]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/wsi/2015/1597/regulation/14) revoked (5.5.2017) by [The Town and Country Planning (Referred Applications and Appeals Procedure) (Wales) Regulations 2017 (S.I. 2017/544)](https://www.legislation.gov.uk/wsi/2017/544), [reg. 2(1)](https://www.legislation.gov.uk/wsi/2017/544/regulation/2/1), [Sch. 4](https://www.legislation.gov.uk/wsi/2017/544/schedule/4) (with [regs. 52](https://www.legislation.gov.uk/wsi/2017/544/regulation/52), [53(2)](https://www.legislation.gov.uk/wsi/2017/544/regulation/53/2)[(3)](https://www.legislation.gov.uk/wsi/2017/544/regulation/53/3))
 
-[^key-8250b96b1cbde144d43ba3fe4381697e]: Textual amendment: [Reg. 17(1)](https://www.legislation.gov.uk/wsi/2015/1597/regulation/17/1) omitted (5.5.2017) by virtue of [The Planning (Hazardous Substances) (Wales) (Amendment) Regulations 2017 (S.I. 2017/547)](https://www.legislation.gov.uk/wsi/2017/547), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2017/547/regulation/1/1), [7(1)](https://www.legislation.gov.uk/wsi/2017/547/regulation/7/1) (with [reg. 8](https://www.legislation.gov.uk/wsi/2017/547/regulation/8))
+[^c-8250b96b1cbde144d43ba3fe4381697e]: Textual amendment: [Reg. 17(1)](https://www.legislation.gov.uk/wsi/2015/1597/regulation/17/1) omitted (5.5.2017) by virtue of [The Planning (Hazardous Substances) (Wales) (Amendment) Regulations 2017 (S.I. 2017/547)](https://www.legislation.gov.uk/wsi/2017/547), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2017/547/regulation/1/1), [7(1)](https://www.legislation.gov.uk/wsi/2017/547/regulation/7/1) (with [reg. 8](https://www.legislation.gov.uk/wsi/2017/547/regulation/8))
 
-[^key-e0e7a3d6ef04ee2061eafbc15302bb05]: Textual amendment: [Reg. 17(2)](https://www.legislation.gov.uk/wsi/2015/1597/regulation/17/2)[(3)](https://www.legislation.gov.uk/wsi/2015/1597/regulation/17/3) revoked (5.5.2017) by [The Town and Country Planning (Referred Applications and Appeals Procedure) (Wales) Regulations 2017 (S.I. 2017/544)](https://www.legislation.gov.uk/wsi/2017/544), [reg. 2(1)](https://www.legislation.gov.uk/wsi/2017/544/regulation/2/1), [Sch. 4](https://www.legislation.gov.uk/wsi/2017/544/schedule/4) (with [regs. 52](https://www.legislation.gov.uk/wsi/2017/544/regulation/52), [53(2)](https://www.legislation.gov.uk/wsi/2017/544/regulation/53/2)[(3)](https://www.legislation.gov.uk/wsi/2017/544/regulation/53/3))
+[^c-e0e7a3d6ef04ee2061eafbc15302bb05]: Textual amendment: [Reg. 17(2)](https://www.legislation.gov.uk/wsi/2015/1597/regulation/17/2)[(3)](https://www.legislation.gov.uk/wsi/2015/1597/regulation/17/3) revoked (5.5.2017) by [The Town and Country Planning (Referred Applications and Appeals Procedure) (Wales) Regulations 2017 (S.I. 2017/544)](https://www.legislation.gov.uk/wsi/2017/544), [reg. 2(1)](https://www.legislation.gov.uk/wsi/2017/544/regulation/2/1), [Sch. 4](https://www.legislation.gov.uk/wsi/2017/544/schedule/4) (with [regs. 52](https://www.legislation.gov.uk/wsi/2017/544/regulation/52), [53(2)](https://www.legislation.gov.uk/wsi/2017/544/regulation/53/2)[(3)](https://www.legislation.gov.uk/wsi/2017/544/regulation/53/3))
 
-[^key-f5ad8bacf0f50f2328e4aa6da5173838]: Textual amendment: Words in [reg. 26(1)(b)](https://www.legislation.gov.uk/wsi/2015/1597/regulation/26/1/b) inserted (31.12.2020) by [The Town and Country Planning (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/456)](https://www.legislation.gov.uk/wsi/2019/456), [regs. 1](https://www.legislation.gov.uk/wsi/2019/456/regulation/1), [5(5)](https://www.legislation.gov.uk/wsi/2019/456/regulation/5/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f5ad8bacf0f50f2328e4aa6da5173838]: Textual amendment: Words in [reg. 26(1)(b)](https://www.legislation.gov.uk/wsi/2015/1597/regulation/26/1/b) inserted (31.12.2020) by [The Town and Country Planning (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/456)](https://www.legislation.gov.uk/wsi/2019/456), [regs. 1](https://www.legislation.gov.uk/wsi/2019/456/regulation/1), [5(5)](https://www.legislation.gov.uk/wsi/2019/456/regulation/5/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22634691]: Marginal citation: [S.I. 2004/1656](https://www.legislation.gov.uk/uksi/2004/1656) (W. 170), amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043); there are other amending instruments but none is relevant.
 
-[^key-28c52cbedcc5d0a8c7323441f21efd67]: Textual amendment: Words in [reg. 27(4)](https://www.legislation.gov.uk/wsi/2015/1597/regulation/27/4) inserted (31.12.2020) by [The Town and Country Planning (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/456)](https://www.legislation.gov.uk/wsi/2019/456), [regs. 1](https://www.legislation.gov.uk/wsi/2019/456/regulation/1), [5(6)](https://www.legislation.gov.uk/wsi/2019/456/regulation/5/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-28c52cbedcc5d0a8c7323441f21efd67]: Textual amendment: Words in [reg. 27(4)](https://www.legislation.gov.uk/wsi/2015/1597/regulation/27/4) inserted (31.12.2020) by [The Town and Country Planning (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/456)](https://www.legislation.gov.uk/wsi/2019/456), [regs. 1](https://www.legislation.gov.uk/wsi/2019/456/regulation/1), [5(6)](https://www.legislation.gov.uk/wsi/2019/456/regulation/5/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22634701]: Marginal citation: [1975 c. 26](https://www.legislation.gov.uk/ukpga/1975/26).
 
-[^key-96e93b28f5f912914cc5f2f37f0a6e58]: Textual amendment: Words in reg. 28(2)(a)(ii) substituted (31.12.2020) by [The Town and Country Planning (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/456)](https://www.legislation.gov.uk/wsi/2019/456), [regs. 1](https://www.legislation.gov.uk/wsi/2019/456/regulation/1), [5(7)(a)](https://www.legislation.gov.uk/wsi/2019/456/regulation/5/7/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-96e93b28f5f912914cc5f2f37f0a6e58]: Textual amendment: Words in reg. 28(2)(a)(ii) substituted (31.12.2020) by [The Town and Country Planning (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/456)](https://www.legislation.gov.uk/wsi/2019/456), [regs. 1](https://www.legislation.gov.uk/wsi/2019/456/regulation/1), [5(7)(a)](https://www.legislation.gov.uk/wsi/2019/456/regulation/5/7/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4293e0cbb7f4f1c045493a66ed1cf39a]: Textual amendment: Reg. 28(2)(a)(iia) inserted (31.12.2020) by [The Town and Country Planning (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/456)](https://www.legislation.gov.uk/wsi/2019/456), [regs. 1](https://www.legislation.gov.uk/wsi/2019/456/regulation/1), [5(7)(b)](https://www.legislation.gov.uk/wsi/2019/456/regulation/5/7/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4293e0cbb7f4f1c045493a66ed1cf39a]: Textual amendment: Reg. 28(2)(a)(iia) inserted (31.12.2020) by [The Town and Country Planning (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/456)](https://www.legislation.gov.uk/wsi/2019/456), [regs. 1](https://www.legislation.gov.uk/wsi/2019/456/regulation/1), [5(7)(b)](https://www.legislation.gov.uk/wsi/2019/456/regulation/5/7/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22634711]: Marginal citation: [S.I. 2012/801](https://www.legislation.gov.uk/uksi/2012/801) (W. 110), amended by [S.I. 2014/469](https://www.legislation.gov.uk/uksi/2014/469) and [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755) (W. 90). There are other amendments which are not relevant to this instrument.
 
 [^c22634721]: Marginal citation: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8). The functions of the Ministers of the Crown under the TCPA except (a) section 90(2), (b) the functions of the Ministers of the Crown other than the Secretary of State for Wales under sections 90(1), 101 and Schedule 8, 170(12), 238(1)(a), 239(1)(a), 263(3) and (4), 266, 268, 279(5) and (6), 305, 325(9) and 336(3); (c) the functions of the Secretary of State for Trade and Industry under section 272(5) and (6); and (d) the Treasury functions under sections 293(3) and 336(2) were transferred to the National Assembly for Wales by the [National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. 1999/672)](https://www.legislation.gov.uk/uksi/1999/672) as amended by the National Assembly for Wales (Transfer of Functions) Order ([S.I. 2000/253](https://www.legislation.gov.uk/uksi/2000/253)). There are other limitations on that transfer which are not relevant to these Regulations. Those functions were subsequently transferred to the Welsh Ministers by section 162 of and paragraph 30 of Schedule 11 to the Government of Wales Act 2006.
 
-[^key-70a7eaa7452b3a156e9e44b8d0dceda7]: Textual amendment: Reg. 28(6)(aa) inserted (15.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [10(2)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/10/2)
+[^c-70a7eaa7452b3a156e9e44b8d0dceda7]: Textual amendment: Reg. 28(6)(aa) inserted (15.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [10(2)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/10/2)
 
 [^c22634731]: Marginal citation: [Section 293A](https://www.legislation.gov.uk/wsi/2015/1597/section/293A) was inserted by section 82(1) of the Planning and Compulsory Purchase Act 2004 (“**the 2004 Act**”) (c. 5). Section 118(3) of the 2004 Act provides that a reference in Schedule 1 to the National Assembly for Wales (Transfer of Functions) Order 1999 to an enactment amended by this Act must be taken to be a reference to the enactment as so amended.
 
@@ -1420,19 +1420,19 @@ A regulatory impact assessment has been prepared in relation to this Order. Copi
 
 [^c22634801]: Marginal citation: [1964 c. 40](https://www.legislation.gov.uk/ukpga/1964/40). The functions of the Minister in relation to fishery harbours under sections 14 and 16 of the PHSA were transferred to the Welsh Ministers by article 2 of and Schedule 1 to the [National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. 1999/672)](https://www.legislation.gov.uk/uksi/1999/672), as amended by the [National Assembly for Wales (Transfer of Functions) Order 2000 (S.I. 2000/253)](https://www.legislation.gov.uk/uksi/2000/253).
 
-[^key-1289186b0bbcf2db184f868f57985637]: Textual amendment: Reg. 28(6)(h)(ii) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [69](https://www.legislation.gov.uk/wsi/2024/924/regulation/69)
+[^c-1289186b0bbcf2db184f868f57985637]: Textual amendment: Reg. 28(6)(h)(ii) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [69](https://www.legislation.gov.uk/wsi/2024/924/regulation/69)
 
 [^c22634821]: Marginal citation: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66). Section 10(2)(a)(i) was amended by section 22(2)(a) of the New Roads and Street Works Act 1991. There are other amendments to the Act which are not relevant to this instrument.
 
 [^c22634831]: Marginal citation: Presence of established substances.
 
-[^key-9ea7a87bd776063416f138e45d046c55]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/wsi/2015/1597/schedule/1/part/1) inserted (17.12.2018) by [The Environment, Planning and Rural Affairs (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/1216)](https://www.legislation.gov.uk/wsi/2018/1216), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/1/3), [18(2)(a)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/18/2/a)
+[^c-9ea7a87bd776063416f138e45d046c55]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/wsi/2015/1597/schedule/1/part/1) inserted (17.12.2018) by [The Environment, Planning and Rural Affairs (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/1216)](https://www.legislation.gov.uk/wsi/2018/1216), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/1/3), [18(2)(a)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/18/2/a)
 
 [^c22634841]: Marginal citation: Regulation (EC) No 1272/2008 of the European Parliament and the Council.
 
 [^c22634851]: Marginal citation: More guidance on waiving of the test can be found in the A.14 method description, *see* Commission Regulation (EC) No. 440/2008 of 30 May 2008 laying down test methods pursuant to Regulation (EC) No. 1907/2006 of the European Parliament and of the Council of the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH) (O.J. L 142, 31.5.2008, p. 1).
 
-[^key-2430555c31b5580200e4ba968ba4385c]: Textual amendment: Words in [Sch. 1 para. 11(1)](https://www.legislation.gov.uk/wsi/2015/1597/schedule/1/paragraph/11/1) inserted (17.12.2018) by [The Environment, Planning and Rural Affairs (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/1216)](https://www.legislation.gov.uk/wsi/2018/1216), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/1/3), [18(2)(b)(i)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/18/2/b/i)
+[^c-2430555c31b5580200e4ba968ba4385c]: Textual amendment: Words in [Sch. 1 para. 11(1)](https://www.legislation.gov.uk/wsi/2015/1597/schedule/1/paragraph/11/1) inserted (17.12.2018) by [The Environment, Planning and Rural Affairs (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/1216)](https://www.legislation.gov.uk/wsi/2018/1216), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/1/3), [18(2)(b)(i)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/18/2/b/i)
 
 [^c22634861]: Marginal citation: O.J. L 147, 9.6.1975, p. 40.
 
@@ -1440,33 +1440,33 @@ A regulatory impact assessment has been prepared in relation to this Order. Copi
 
 [^c22634881]: Marginal citation: 24.5% nitrogen content by weight as a result of ammonium nitrate corresponds to 70% ammonium nitrate.
 
-[^key-4ceab8b7f4e936fef4d421982d7a6701]: Textual amendment: Words in [Sch. 1 para. 13(a)](https://www.legislation.gov.uk/wsi/2015/1597/schedule/1/paragraph/13/a) inserted (17.12.2018) by [The Environment, Planning and Rural Affairs (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/1216)](https://www.legislation.gov.uk/wsi/2018/1216), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/1/3), [18(2)(b)(ii)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/18/2/b/ii)
+[^c-4ceab8b7f4e936fef4d421982d7a6701]: Textual amendment: Words in [Sch. 1 para. 13(a)](https://www.legislation.gov.uk/wsi/2015/1597/schedule/1/paragraph/13/a) inserted (17.12.2018) by [The Environment, Planning and Rural Affairs (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/1216)](https://www.legislation.gov.uk/wsi/2018/1216), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/1/3), [18(2)(b)(ii)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/18/2/b/ii)
 
 [^c22634891]: Marginal citation: O.J. L 304, 21.11.2003, p. 1.
 
-[^key-20cdec5d74bfdecb0ae5f315e95ddd2e]: Textual amendment: Words in [Sch. 1 para. 14](https://www.legislation.gov.uk/wsi/2015/1597/schedule/1/paragraph/14) inserted (17.12.2018) by [The Environment, Planning and Rural Affairs (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/1216)](https://www.legislation.gov.uk/wsi/2018/1216), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/1/3), [18(2)(b)(iii)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/18/2/b/iii)
+[^c-20cdec5d74bfdecb0ae5f315e95ddd2e]: Textual amendment: Words in [Sch. 1 para. 14](https://www.legislation.gov.uk/wsi/2015/1597/schedule/1/paragraph/14) inserted (17.12.2018) by [The Environment, Planning and Rural Affairs (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/1216)](https://www.legislation.gov.uk/wsi/2018/1216), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/1/3), [18(2)(b)(iii)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/18/2/b/iii)
 
 [^c22634901]: Marginal citation: 28% nitrogen content by weight as a result of ammonium nitrate corresponds to 80% ammonium nitrate.
 
-[^key-4afb7fe62fdd95a8339d4ac788618fa8]: Textual amendment: Words in [Sch. 1 para. 16(b)](https://www.legislation.gov.uk/wsi/2015/1597/schedule/1/paragraph/16/b) inserted (17.12.2018) by [The Environment, Planning and Rural Affairs (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/1216)](https://www.legislation.gov.uk/wsi/2018/1216), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/1/3), [18(2)(b)(iii)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/18/2/b/iii)
+[^c-4afb7fe62fdd95a8339d4ac788618fa8]: Textual amendment: Words in [Sch. 1 para. 16(b)](https://www.legislation.gov.uk/wsi/2015/1597/schedule/1/paragraph/16/b) inserted (17.12.2018) by [The Environment, Planning and Rural Affairs (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/1216)](https://www.legislation.gov.uk/wsi/2018/1216), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/1/3), [18(2)(b)(iii)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/18/2/b/iii)
 
 [^c22634911]: Marginal citation: 1985\. c. 22.
 
-[^key-48a4fa0b2641d8cc3da2eb47ef66d1ab]: Textual amendment: [Sch. 2 para. 4(b)](https://www.legislation.gov.uk/wsi/2015/1597/schedule/2/paragraph/4/b) substituted (1.10.2016) by [The Dangerous Goods in Harbour Areas Regulations 2016 (S.I. 2016/721)](https://www.legislation.gov.uk/uksi/2016/721), [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1), [Sch. 5 para. 15(a)(i)](https://www.legislation.gov.uk/uksi/2016/721/schedule/5/paragraph/15/a/i) (with [reg. 5](https://www.legislation.gov.uk/uksi/2016/721/regulation/5))
+[^c-48a4fa0b2641d8cc3da2eb47ef66d1ab]: Textual amendment: [Sch. 2 para. 4(b)](https://www.legislation.gov.uk/wsi/2015/1597/schedule/2/paragraph/4/b) substituted (1.10.2016) by [The Dangerous Goods in Harbour Areas Regulations 2016 (S.I. 2016/721)](https://www.legislation.gov.uk/uksi/2016/721), [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1), [Sch. 5 para. 15(a)(i)](https://www.legislation.gov.uk/uksi/2016/721/schedule/5/paragraph/15/a/i) (with [reg. 5](https://www.legislation.gov.uk/uksi/2016/721/regulation/5))
 
-[^key-6da11eae4274fdee4e41aac69129e086]: Textual amendment: Words in [Sch. 2 para. 6(a)](https://www.legislation.gov.uk/wsi/2015/1597/schedule/2/paragraph/6/a) substituted (17.12.2018) by [The Environment, Planning and Rural Affairs (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/1216)](https://www.legislation.gov.uk/wsi/2018/1216), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/1/3), [18(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/18/3)
+[^c-6da11eae4274fdee4e41aac69129e086]: Textual amendment: Words in [Sch. 2 para. 6(a)](https://www.legislation.gov.uk/wsi/2015/1597/schedule/2/paragraph/6/a) substituted (17.12.2018) by [The Environment, Planning and Rural Affairs (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/1216)](https://www.legislation.gov.uk/wsi/2018/1216), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/1/3), [18(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/18/3)
 
 [^c22634941]: Marginal citation: [1965 c. 57](https://www.legislation.gov.uk/ukpga/1965/57); [section 1](https://www.legislation.gov.uk/wsi/2015/1597/section/1) was substituted by paragraphs 16 and 17 of Schedule 12 to the [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32).
 
 [^c22634951]: Marginal citation: [S.I. 2014/1638](https://www.legislation.gov.uk/uksi/2014/1638). There are amendments to this regulation which are not relevant to these Regulations.
 
-[^key-e3d20c9c1e5521607cf11488bb3cf618]: Textual amendment: [Sch. 2 para. 11](https://www.legislation.gov.uk/wsi/2015/1597/schedule/2/paragraph/11) substituted (1.10.2016) by [The Dangerous Goods in Harbour Areas Regulations 2016 (S.I. 2016/721)](https://www.legislation.gov.uk/uksi/2016/721), [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1), [Sch. 5 para. 15(a)(ii)](https://www.legislation.gov.uk/uksi/2016/721/schedule/5/paragraph/15/a/ii) (with [reg. 5](https://www.legislation.gov.uk/uksi/2016/721/regulation/5))
+[^c-e3d20c9c1e5521607cf11488bb3cf618]: Textual amendment: [Sch. 2 para. 11](https://www.legislation.gov.uk/wsi/2015/1597/schedule/2/paragraph/11) substituted (1.10.2016) by [The Dangerous Goods in Harbour Areas Regulations 2016 (S.I. 2016/721)](https://www.legislation.gov.uk/uksi/2016/721), [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1), [Sch. 5 para. 15(a)(ii)](https://www.legislation.gov.uk/uksi/2016/721/schedule/5/paragraph/15/a/ii) (with [reg. 5](https://www.legislation.gov.uk/uksi/2016/721/regulation/5))
 
 [^c22634971]: Marginal citation: [S.I. 2012/801](https://www.legislation.gov.uk/uksi/2012/801) (W. 110).
 
-[^key-782596c1e202bfe81309a2f76163b724]: Textual amendment: [Sch. 4 para. 2(b)](https://www.legislation.gov.uk/wsi/2015/1597/schedule/4/paragraph/2/b) substituted (5.5.2017) by [The Planning (Hazardous Substances) (Wales) (Amendment) Regulations 2017 (S.I. 2017/547)](https://www.legislation.gov.uk/wsi/2017/547), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2017/547/regulation/1/1), [7(2)(a)](https://www.legislation.gov.uk/wsi/2017/547/regulation/7/2/a) (with [reg. 8](https://www.legislation.gov.uk/wsi/2017/547/regulation/8))
+[^c-782596c1e202bfe81309a2f76163b724]: Textual amendment: [Sch. 4 para. 2(b)](https://www.legislation.gov.uk/wsi/2015/1597/schedule/4/paragraph/2/b) substituted (5.5.2017) by [The Planning (Hazardous Substances) (Wales) (Amendment) Regulations 2017 (S.I. 2017/547)](https://www.legislation.gov.uk/wsi/2017/547), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2017/547/regulation/1/1), [7(2)(a)](https://www.legislation.gov.uk/wsi/2017/547/regulation/7/2/a) (with [reg. 8](https://www.legislation.gov.uk/wsi/2017/547/regulation/8))
 
-[^key-2fa2adf94d0441214195414f2ac60819]: Textual amendment: [Sch. 4 para. 2(d)](https://www.legislation.gov.uk/wsi/2015/1597/schedule/4/paragraph/2/d) inserted (5.5.2017) by [The Planning (Hazardous Substances) (Wales) (Amendment) Regulations 2017 (S.I. 2017/547)](https://www.legislation.gov.uk/wsi/2017/547), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2017/547/regulation/1/1), [7(2)(b)](https://www.legislation.gov.uk/wsi/2017/547/regulation/7/2/b) (with [reg. 8](https://www.legislation.gov.uk/wsi/2017/547/regulation/8))
+[^c-2fa2adf94d0441214195414f2ac60819]: Textual amendment: [Sch. 4 para. 2(d)](https://www.legislation.gov.uk/wsi/2015/1597/schedule/4/paragraph/2/d) inserted (5.5.2017) by [The Planning (Hazardous Substances) (Wales) (Amendment) Regulations 2017 (S.I. 2017/547)](https://www.legislation.gov.uk/wsi/2017/547), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2017/547/regulation/1/1), [7(2)(b)](https://www.legislation.gov.uk/wsi/2017/547/regulation/7/2/b) (with [reg. 8](https://www.legislation.gov.uk/wsi/2017/547/regulation/8))
 
 [^c22635041]: Marginal citation: [S.I. 2005/2839](https://www.legislation.gov.uk/uksi/2005/2839) (W. 203), to which there have been amendments which are not relevant to this instrument.
 

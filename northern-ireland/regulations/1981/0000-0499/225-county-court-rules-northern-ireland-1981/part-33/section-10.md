@@ -30,7 +30,7 @@ summary: ''
 
 (5) The chief clerk shall, before issuing a decree, write and sign or cause to be written and signed on the face of the decree a statement that the stay of execution has been removed.
 
-[(6) [^f00327] Where the decree is such as is referred to in paragraph (4), the statement shall specify the total amount of the instalments (if any) paid to the date of the affidavit lodged under paragraph (3) and the decree shall issue for the whole amount remaining due on foot of the decree after deducting such instalments (if any) as have been paid thereunder as shown in the said affidavit but with the addition to the costs therein stated of a sum of £10.00[^key-6b5e4830a729b99301db3697afcd519b]
+[(6) [^f00327] Where the decree is such as is referred to in paragraph (4), the statement shall specify the total amount of the instalments (if any) paid to the date of the affidavit lodged under paragraph (3) and the decree shall issue for the whole amount remaining due on foot of the decree after deducting such instalments (if any) as have been paid thereunder as shown in the said affidavit but with the addition to the costs therein stated of a sum of £10.00[^c-6b5e4830a729b99301db3697afcd519b]
 
 [(7) [^f00328] In the application of this rule to decrees issued under Order 26, references to “affidavit” shall be construed as references to a “statement of truth” and paragraph (6) shall be read as if the words from “but with” to the end were omitted.\]
 
@@ -38,6 +38,6 @@ summary: ''
 
 [^f00327]: Footnote: Paragraph (6) substituted by [S.R. 2013 No. 19](https://www.legislation.gov.uk/nisr/2013/19) with effect from 25.02.13
 
-[^key-6b5e4830a729b99301db3697afcd519b]: Textual amendment: Sum in Order 33 rule 10(6) substituted for words (26.11.2025) by [The County Court (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/171)](https://www.legislation.gov.uk/nisr/2025/171), [rules 1](https://www.legislation.gov.uk/nisr/2025/171/rule/1), [3(3)](https://www.legislation.gov.uk/nisr/2025/171/rule/3/3)
+[^c-6b5e4830a729b99301db3697afcd519b]: Textual amendment: Sum in Order 33 rule 10(6) substituted for words (26.11.2025) by [The County Court (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/171)](https://www.legislation.gov.uk/nisr/2025/171), [rules 1](https://www.legislation.gov.uk/nisr/2025/171/rule/1), [3(3)](https://www.legislation.gov.uk/nisr/2025/171/rule/3/3)
 
 [^f00328]: Footnote: Sub-paragraph inserted by [S.R. 2002 No. 255](https://www.legislation.gov.uk/nisr/2002/255) with effect from 8.01.07

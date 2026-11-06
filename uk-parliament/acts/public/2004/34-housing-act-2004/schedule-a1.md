@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule A1 — Procedure and appeals relating to financial penalties under section 6A[^key-cf3f37af986deabda4e257a85830a021]
+## Schedule A1 — Procedure and appeals relating to financial penalties under section 6A[^c-cf3f37af986deabda4e257a85830a021]
 
 *Extent: E+W*
 
@@ -135,4 +135,4 @@ Where a local housing authority imposes a financial penalty under section 6A, it
 
 ## Annotations
 
-[^key-cf3f37af986deabda4e257a85830a021]: Textual amendment: Sch. A1 inserted (22.6.2026 for specified purposes) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [s. 145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/7), [Sch. 4 para. 34](https://www.legislation.gov.uk/ukpga/2025/26/schedule/4/paragraph/34) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [S.I. 2026/638](https://www.legislation.gov.uk/uksi/2026/638), [reg. 2(c)(vi)](https://www.legislation.gov.uk/uksi/2026/638/regulation/2/c/vi)
+[^c-cf3f37af986deabda4e257a85830a021]: Textual amendment: Sch. A1 inserted (22.6.2026 for specified purposes) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [s. 145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/7), [Sch. 4 para. 34](https://www.legislation.gov.uk/ukpga/2025/26/schedule/4/paragraph/34) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [S.I. 2026/638](https://www.legislation.gov.uk/uksi/2026/638), [reg. 2(c)(vi)](https://www.legislation.gov.uk/uksi/2026/638/regulation/2/c/vi)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12.26C. Extension of time limit: reasons for court’s decision[^key-67f1b955f8dc6a46e9656c48df483cb8]
+## 12.26C. Extension of time limit: reasons for court’s decision[^c-67f1b955f8dc6a46e9656c48df483cb8]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-67f1b955f8dc6a46e9656c48df483cb8]: Textual amendment: Rules 12.26A-12.26C inserted (22.4.2014) by [The Family Procedure (Amendment No. 3) Rules 2014 (S.I. 2014/843)](https://www.legislation.gov.uk/uksi/2014/843), [rules 1](https://www.legislation.gov.uk/uksi/2014/843/rule/1), [27](https://www.legislation.gov.uk/uksi/2014/843/rule/27)
+[^c-67f1b955f8dc6a46e9656c48df483cb8]: Textual amendment: Rules 12.26A-12.26C inserted (22.4.2014) by [The Family Procedure (Amendment No. 3) Rules 2014 (S.I. 2014/843)](https://www.legislation.gov.uk/uksi/2014/843), [rules 1](https://www.legislation.gov.uk/uksi/2014/843/rule/1), [27](https://www.legislation.gov.uk/uksi/2014/843/rule/27)

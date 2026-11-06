@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Functions of adjudicator in relation to admission numbers[^key-2b043e90468f3094e8e6ac56de790934]
+## 64. Functions of adjudicator in relation to admission numbers[^c-2b043e90468f3094e8e6ac56de790934]
 
 *Extent: E+W*
 
@@ -86,4 +86,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2b043e90468f3094e8e6ac56de790934]: Commencement: S. 64 in force at Royal Assent for specified purposes, see [s. 78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)(5)
+[^c-2b043e90468f3094e8e6ac56de790934]: Commencement: S. 64 in force at Royal Assent for specified purposes, see [s. 78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)(5)

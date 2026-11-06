@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 48. Special arrangements with respect to supply[^key-a83570af246409f05340be879182fb98]
+## 48. Special arrangements with respect to supply[^c-a83570af246409f05340be879182fb98]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a83570af246409f05340be879182fb98]: Commencement: Reg. 48 in operation at 3.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/321/regulation/1/1)
+[^c-a83570af246409f05340be879182fb98]: Commencement: Reg. 48 in operation at 3.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/321/regulation/1/1)

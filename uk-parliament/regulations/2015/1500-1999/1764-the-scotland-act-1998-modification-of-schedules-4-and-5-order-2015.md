@@ -35,7 +35,7 @@ Constitutional Law
 
 Devolution, Scotland
 
-The Scotland Act 1998 (Modification of Schedules 4 and 5) Order 2015 (revoked)[^key-9e95a5ee2aad1ad7c80f158bee27bc0c]
+The Scotland Act 1998 (Modification of Schedules 4 and 5) Order 2015 (revoked)[^c-9e95a5ee2aad1ad7c80f158bee27bc0c]
 
 Made
 
@@ -49,32 +49,32 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-9e95a5ee2aad1ad7c80f158bee27bc0c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9e95a5ee2aad1ad7c80f158bee27bc0c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-9e95a5ee2aad1ad7c80f158bee27bc0c]
+## 1. Citation and commencement[^c-9e95a5ee2aad1ad7c80f158bee27bc0c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Modification of Schedule 4 to the Scotland Act 1998[^key-9e95a5ee2aad1ad7c80f158bee27bc0c]
+## 2. Modification of Schedule 4 to the Scotland Act 1998[^c-9e95a5ee2aad1ad7c80f158bee27bc0c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Modification of Schedule 5 to the Scotland Act 1998[^key-9e95a5ee2aad1ad7c80f158bee27bc0c]
+## 3. Modification of Schedule 5 to the Scotland Act 1998[^c-9e95a5ee2aad1ad7c80f158bee27bc0c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Consequential amendment[^key-9e95a5ee2aad1ad7c80f158bee27bc0c]
+## 4. Consequential amendment[^c-9e95a5ee2aad1ad7c80f158bee27bc0c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9e95a5ee2aad1ad7c80f158bee27bc0c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9e95a5ee2aad1ad7c80f158bee27bc0c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-9e95a5ee2aad1ad7c80f158bee27bc0c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9e95a5ee2aad1ad7c80f158bee27bc0c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9e95a5ee2aad1ad7c80f158bee27bc0c]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2015/1764) revoked (18.5.2017) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 10(7)](https://www.legislation.gov.uk/ukpga/2016/11/section/10/7), [72(4)(a)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/a); [S.I. 2017/608](https://www.legislation.gov.uk/uksi/2017/608), [reg. 2(1)(h)](https://www.legislation.gov.uk/uksi/2017/608/regulation/2/1/h)
+[^c-9e95a5ee2aad1ad7c80f158bee27bc0c]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2015/1764) revoked (18.5.2017) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 10(7)](https://www.legislation.gov.uk/ukpga/2016/11/section/10/7), [72(4)(a)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/a); [S.I. 2017/608](https://www.legislation.gov.uk/uksi/2017/608), [reg. 2(1)(h)](https://www.legislation.gov.uk/uksi/2017/608/regulation/2/1/h)

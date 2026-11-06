@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 25. Removal from office[^key-0f0ecc5276afb5ef30b94dfb2a6f3f64]
+## 25. Removal from office[^c-0f0ecc5276afb5ef30b94dfb2a6f3f64]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0f0ecc5276afb5ef30b94dfb2a6f3f64]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2014/18/section/25) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-0f0ecc5276afb5ef30b94dfb2a6f3f64]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2014/18/section/25) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)

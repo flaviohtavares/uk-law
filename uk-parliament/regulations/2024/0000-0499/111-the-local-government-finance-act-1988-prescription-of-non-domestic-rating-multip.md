@@ -42,17 +42,17 @@ The Treasury make these Regulations in exercise of the powers conferred by sub-p
 
 A draft of these Regulations was laid before Parliament in accordance with subsections (7B), (7D) and (7F) of section 143 of the Local Government Finance Act 1988[^f00002] and approved by resolution of each House of Parliament.
 
-## 1. Citation, extent, application and commencement[^key-6005e9912eb9432b6d71660c2956b252]
+## 1. Citation, extent, application and commencement[^c-6005e9912eb9432b6d71660c2956b252]
 
 (1) These Regulations may be cited as the Local Government Finance Act 1988 (Prescription of Non-Domestic Rating Multipliers) (England) Regulations 2024.
 
 (2) These Regulations extend to England and Wales and apply in relation to England only.
 
-(2A)[^key-036f2421c5c08ee5fd2e7f4d3e517ac8] These Regulations do not apply to financial years beginning on or after 1st April 2026.
+(2A)[^c-036f2421c5c08ee5fd2e7f4d3e517ac8] These Regulations do not apply to financial years beginning on or after 1st April 2026.
 
 (3) These Regulations come into force on the day after the day on which they are made.
 
-## 2. Local rating: occupied hereditaments[^key-52defb87793fcaab3f0fff3ccd191615]
+## 2. Local rating: occupied hereditaments[^c-52defb87793fcaab3f0fff3ccd191615]
 
 (1) For the purposes of the provisions mentioned in paragraph (2)—
 
@@ -61,7 +61,7 @@ A draft of these Regulations was laid before Parliament in accordance with subse
 
 (2) The provisions are paragraphs 1(a) (chargeable amount before any reliefs), 2(1)(a) (charitable rate relief) and 3 (improvement rate relief) of Schedule 4ZA to the Local Government Finance Act 1988.
 
-## 3. Local rating: unoccupied hereditaments[^key-770a280863590412dbb948ed716d3db5]
+## 3. Local rating: unoccupied hereditaments[^c-770a280863590412dbb948ed716d3db5]
 
 (1) For the purposes of the provisions mentioned in paragraph (2)—
 
@@ -70,7 +70,7 @@ A draft of these Regulations was laid before Parliament in accordance with subse
 
 (2) The provisions are paragraphs 1(1)(a) and 1(2)(a) (chargeable amount before any reliefs) of Schedule 4ZB to the Local Government Finance Act 1988.
 
-## 4. Central rating[^key-964c1c0f55fe4215306af4984506db3d]
+## 4. Central rating[^c-964c1c0f55fe4215306af4984506db3d]
 
 (1) For the purposes of the provisions mentioned in paragraph (2)—
 
@@ -105,23 +105,23 @@ An impact assessment has not been produced for this instrument because it amends
 
 [^f00002]: Footnote: Subsections (7B), (7D) and (7F) of section 143 were inserted into the Local Government Finance 1988 by paragraph 8(c) of the Schedule to the Non-Domestic Rating Act 2023. Those amendments have effect in relation to financial years beginning on or after 1st April 2024; see section 19(2)(b) of the Non-Domestic Rating Act 2023.
 
-[^key-6005e9912eb9432b6d71660c2956b252]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2024/111/regulation/1) in force at 1.2.2025, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/111/regulation/1/3)
+[^c-6005e9912eb9432b6d71660c2956b252]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2024/111/regulation/1) in force at 1.2.2025, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/111/regulation/1/3)
 
-[^key-036f2421c5c08ee5fd2e7f4d3e517ac8]: Textual amendment: [Reg. 1(2A)](https://www.legislation.gov.uk/uksi/2024/111/regulation/1/2A) inserted (with application in relation to financial years beginning on or after 1.4.2026) by [The Local Government Finance Act 1988 (Prescription of Non-Domestic Rating Multipliers) (England) Regulations 2026 (S.I. 2026/152)](https://www.legislation.gov.uk/uksi/2026/152), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2026/152/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2026/152/regulation/1/4), [6](https://www.legislation.gov.uk/uksi/2026/152/regulation/6)
+[^c-036f2421c5c08ee5fd2e7f4d3e517ac8]: Textual amendment: [Reg. 1(2A)](https://www.legislation.gov.uk/uksi/2024/111/regulation/1/2A) inserted (with application in relation to financial years beginning on or after 1.4.2026) by [The Local Government Finance Act 1988 (Prescription of Non-Domestic Rating Multipliers) (England) Regulations 2026 (S.I. 2026/152)](https://www.legislation.gov.uk/uksi/2026/152), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2026/152/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2026/152/regulation/1/4), [6](https://www.legislation.gov.uk/uksi/2026/152/regulation/6)
 
-[^key-52defb87793fcaab3f0fff3ccd191615]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2024/111/regulation/2) in force at 1.2.2025, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/111/regulation/1/3)
+[^c-52defb87793fcaab3f0fff3ccd191615]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2024/111/regulation/2) in force at 1.2.2025, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/111/regulation/1/3)
 
 [^f00003]: Footnote: The terms A, B, D and M are defined in paragraph 10(2), (3), (5) and (9) of Schedule 4ZA to the Local Government Finance Act 1988.
 
 [^f00004]: Footnote: The term chargeable day is defined in section 43(3) of the Local Government Finance Act 1988.
 
-[^key-770a280863590412dbb948ed716d3db5]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2024/111/regulation/3) in force at 1.2.2025, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/111/regulation/1/3)
+[^c-770a280863590412dbb948ed716d3db5]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2024/111/regulation/3) in force at 1.2.2025, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/111/regulation/1/3)
 
 [^f00005]: Footnote: The terms A, B, D and M are defined in paragraph 3(2), (3), (5) and (6) of Schedule 4ZB to the Local Government Finance Act 1988.
 
 [^f00006]: Footnote: The term chargeable day is defined in section 45(3) of the Local Government Finance Act 1988.
 
-[^key-964c1c0f55fe4215306af4984506db3d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2024/111/regulation/4) in force at 1.2.2025, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/111/regulation/1/3)
+[^c-964c1c0f55fe4215306af4984506db3d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2024/111/regulation/4) in force at 1.2.2025, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/111/regulation/1/3)
 
 [^f00007]: Footnote: The terms A, B, D and M are defined in paragraph 6(2), (3), (5) and (8) of Schedule 5A to the Local Government Finance Act 1988.
 

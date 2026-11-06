@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Regulations[^key-e92a3dd0362d8e6b4863aff577684252][^key-6bbf5dd2de7ee040269ecdee0e8aa7e0]
+## 97. Regulations[^c-e92a3dd0362d8e6b4863aff577684252][^c-6bbf5dd2de7ee040269ecdee0e8aa7e0]
 
 *Extent: E+W*
 
@@ -40,6 +40,6 @@ may not be made unless a draft of the instrument has been laid before, and appro
 
 ## Annotations
 
-[^key-e92a3dd0362d8e6b4863aff577684252]: Commencement: S. 97 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-e92a3dd0362d8e6b4863aff577684252]: Commencement: S. 97 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-6bbf5dd2de7ee040269ecdee0e8aa7e0]: Commencement: [S. 97](https://www.legislation.gov.uk/ukpga/2025/34/section/97) in force at 19.12.2025 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 3(2)(j)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/3/2/j)
+[^c-6bbf5dd2de7ee040269ecdee0e8aa7e0]: Commencement: [S. 97](https://www.legislation.gov.uk/ukpga/2025/34/section/97) in force at 19.12.2025 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 3(2)(j)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/3/2/j)

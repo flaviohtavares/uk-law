@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Commission [Decision 2009/177/EC](https://www.legislation.gov.uk/european/decision/2009/0177)[^key-7d814fe2fdc79117b8d22cdf8b982032]
+## 9. Commission [Decision 2009/177/EC](https://www.legislation.gov.uk/european/decision/2009/0177)[^c-7d814fe2fdc79117b8d22cdf8b982032]
 
 *Extent: E+W+S*
 
@@ -169,4 +169,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7d814fe2fdc79117b8d22cdf8b982032]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2020/1388/regulation/9) in force at 31.12.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c)
+[^c-7d814fe2fdc79117b8d22cdf8b982032]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2020/1388/regulation/9) in force at 31.12.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c)

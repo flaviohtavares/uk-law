@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 111A. Confidentiality of negotiations before termination of employment[^key-f7b3dbaf2aea37317a8c3a32c7046d77]
+## 111A. Confidentiality of negotiations before termination of employment[^c-f7b3dbaf2aea37317a8c3a32c7046d77]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ This is subject to subsections (3) to (5).
 
 ## Annotations
 
-[^key-f7b3dbaf2aea37317a8c3a32c7046d77]: Textual amendment: S. 111A inserted (29.7.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 14](https://www.legislation.gov.uk/ukpga/2013/24/section/14), [103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3) (with [s. 24(4)](https://www.legislation.gov.uk/ukpga/2013/24/section/24/4)); [S.I. 2013/1648](https://www.legislation.gov.uk/uksi/2013/1648), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/1648/article/2/a)
+[^c-f7b3dbaf2aea37317a8c3a32c7046d77]: Textual amendment: S. 111A inserted (29.7.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 14](https://www.legislation.gov.uk/ukpga/2013/24/section/14), [103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3) (with [s. 24(4)](https://www.legislation.gov.uk/ukpga/2013/24/section/24/4)); [S.I. 2013/1648](https://www.legislation.gov.uk/uksi/2013/1648), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/1648/article/2/a)

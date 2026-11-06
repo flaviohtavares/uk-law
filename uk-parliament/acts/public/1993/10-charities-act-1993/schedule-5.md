@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 5 — Meaning of “connected person” for purposes of section 36(2)[^key-c19229d866e13afe36d39b34d22ef788]
+## SCHEDULE 5 — Meaning of “connected person” for purposes of section 36(2)[^c-c19229d866e13afe36d39b34d22ef788]
 
 *Extent: E+W*
 
@@ -24,14 +24,14 @@ summary: ''
 
 Section 36(2).
 
-**1.**[^key-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c19229d866e13afe36d39b34d22ef788]: Textual amendment: Act repealed (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 10](https://www.legislation.gov.uk/ukpga/2011/25/schedule/10) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
+[^c-c19229d866e13afe36d39b34d22ef788]: Textual amendment: Act repealed (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 10](https://www.legislation.gov.uk/ukpga/2011/25/schedule/10) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))

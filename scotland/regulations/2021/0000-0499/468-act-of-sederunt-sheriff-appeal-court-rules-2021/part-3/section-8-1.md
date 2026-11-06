@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8.1. Application of this Chapter[^key-854f2be902013a3f5dcc2a07a03998b1]
+## 8.1. Application of this Chapter[^c-854f2be902013a3f5dcc2a07a03998b1]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ This Chapter applies to an appeal which has been appointed to proceed under proc
 
 ## Annotations
 
-[^key-854f2be902013a3f5dcc2a07a03998b1]: Commencement: Para. 8.1 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-854f2be902013a3f5dcc2a07a03998b1]: Commencement: Para. 8.1 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

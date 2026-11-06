@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 53. Procedure for regulation-making powers[^key-4ac78e864fb4eed17b4fe4ad3553fc45]
+## 53. Procedure for regulation-making powers[^c-4ac78e864fb4eed17b4fe4ad3553fc45]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ In Article 37 of the Jobseekers Order (Assembly, etc. control), in paragraph (1)
 
 ## Annotations
 
-[^key-4ac78e864fb4eed17b4fe4ad3553fc45]: Commencement: [Art. 53](https://www.legislation.gov.uk/nisi/2015/2006/article/53) in operation at 17.2.2016 by [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(2)(a)](https://www.legislation.gov.uk/nisr/2016/46/article/3/2/a)
+[^c-4ac78e864fb4eed17b4fe4ad3553fc45]: Commencement: [Art. 53](https://www.legislation.gov.uk/nisi/2015/2006/article/53) in operation at 17.2.2016 by [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(2)(a)](https://www.legislation.gov.uk/nisr/2016/46/article/3/2/a)

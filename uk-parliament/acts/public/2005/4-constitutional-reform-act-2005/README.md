@@ -158,7 +158,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 50 — Accommodation and other resources](part-3/section-50.md)
 - [Section 51 — System to support Court in carrying on business](part-3/section-51.md)
 
-#### Court security[^key-58cfacd577e9a7d410cab34959e01c58]
+#### Court security[^c-58cfacd577e9a7d410cab34959e01c58]
 
 - [Section 51A — Security officers](part-3/section-51a.md)
 - [Section 51B — Powers of search, exclusion, removal and restraint](part-3/section-51b.md)
@@ -290,7 +290,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 106 — Consultation on appointment of lay justices](part-4/section-106.md)
 - [Section 107 — Disclosure of information to the Commission](part-4/section-107.md)
 
-#### Chapter 3 — Discipline[^key-0684022dd129deb5b57c566ef1155013][^key-9f625b30a1af5080887a0fe520edccab]
+#### Chapter 3 — Discipline[^c-0684022dd129deb5b57c566ef1155013][^c-9f625b30a1af5080887a0fe520edccab]
 
 *Extent: E+W+S+N.I.*
 
@@ -403,10 +403,10 @@ SCHEDULES
 
 ## Annotations
 
-[^key-58cfacd577e9a7d410cab34959e01c58]: Textual amendment: Ss. 51A-51E and cross-heading inserted (1.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [ss. 30(1)](https://www.legislation.gov.uk/ukpga/2013/22/section/30/1), [61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(c)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/c)
+[^c-58cfacd577e9a7d410cab34959e01c58]: Textual amendment: Ss. 51A-51E and cross-heading inserted (1.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [ss. 30(1)](https://www.legislation.gov.uk/ukpga/2013/22/section/30/1), [61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(c)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/c)
 
 [^c19676991]: Textual amendment: Ss. 75A-75G and preceding cross-heading inserted (19.9.2007) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [ss. 2](https://www.legislation.gov.uk/ukpga/2007/15/section/2), [148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2007/15/schedule/1/paragraph/4); [S.I. 2007/2709](https://www.legislation.gov.uk/uksi/2007/2709), [art. 2(g)](https://www.legislation.gov.uk/uksi/2007/2709/article/2/g)
 
-[^key-0684022dd129deb5b57c566ef1155013]: Modification: Pt. 4 Ch. 3 applied (25.7.2013) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [s. 182(4)(a)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/4/a), [Sch. 3 para. 14](https://www.legislation.gov.uk/ukpga/2009/25/schedule/3/paragraph/14) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180)); [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(j)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/j)
+[^c-0684022dd129deb5b57c566ef1155013]: Modification: Pt. 4 Ch. 3 applied (25.7.2013) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [s. 182(4)(a)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/4/a), [Sch. 3 para. 14](https://www.legislation.gov.uk/ukpga/2009/25/schedule/3/paragraph/14) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180)); [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(j)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/j)
 
-[^key-9f625b30a1af5080887a0fe520edccab]: Modification: Pt. 4 Ch. 3 applied (10.3.2022 for specified purposes, 1.10.2022 in so far as not already in force) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [ss. 126(5)(8)](https://www.legislation.gov.uk/ukpga/2022/7/section/126/5/8), [131(1)(4)(c)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1/4/c); [S.I. 2022/1014](https://www.legislation.gov.uk/uksi/2022/1014), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/1014/regulation/2/a)
+[^c-9f625b30a1af5080887a0fe520edccab]: Modification: Pt. 4 Ch. 3 applied (10.3.2022 for specified purposes, 1.10.2022 in so far as not already in force) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [ss. 126(5)(8)](https://www.legislation.gov.uk/ukpga/2022/7/section/126/5/8), [131(1)(4)(c)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1/4/c); [S.I. 2022/1014](https://www.legislation.gov.uk/uksi/2022/1014), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/1014/regulation/2/a)

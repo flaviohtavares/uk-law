@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 1 — CLASSES OR DESCRIPTIONS OF PLANNED EXPENDITURE PRESCRIBED FOR THE PURPOSES OF THE NON-SCHOOLS EDUCATION BUDGET OF A LOCAL AUTHORITY[^key-2f097a279293b84ab1c270ba84bf3015]
+## SCHEDULE 1 — CLASSES OR DESCRIPTIONS OF PLANNED EXPENDITURE PRESCRIBED FOR THE PURPOSES OF THE NON-SCHOOLS EDUCATION BUDGET OF A LOCAL AUTHORITY[^c-2f097a279293b84ab1c270ba84bf3015]
 
 *Extent: E+W*
 
@@ -24,76 +24,76 @@ summary: ''
 
 Regulation 4
 
-### 1. Special educational provision[^key-2f097a279293b84ab1c270ba84bf3015]
+### 1. Special educational provision[^c-2f097a279293b84ab1c270ba84bf3015]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-2f097a279293b84ab1c270ba84bf3015] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-2f097a279293b84ab1c270ba84bf3015] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-2f097a279293b84ab1c270ba84bf3015] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-2f097a279293b84ab1c270ba84bf3015] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-2f097a279293b84ab1c270ba84bf3015] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-2f097a279293b84ab1c270ba84bf3015] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-2f097a279293b84ab1c270ba84bf3015] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-2f097a279293b84ab1c270ba84bf3015] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-2f097a279293b84ab1c270ba84bf3015] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-2f097a279293b84ab1c270ba84bf3015] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-2f097a279293b84ab1c270ba84bf3015] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-2f097a279293b84ab1c270ba84bf3015] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-2f097a279293b84ab1c270ba84bf3015] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-2f097a279293b84ab1c270ba84bf3015] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. School improvement[^key-2f097a279293b84ab1c270ba84bf3015]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 10. Access to education[^key-2f097a279293b84ab1c270ba84bf3015]
+### 9. School improvement[^c-2f097a279293b84ab1c270ba84bf3015]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-2f097a279293b84ab1c270ba84bf3015] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**12.**[^key-2f097a279293b84ab1c270ba84bf3015] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**13.**[^key-2f097a279293b84ab1c270ba84bf3015] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**14.**[^key-2f097a279293b84ab1c270ba84bf3015] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**15.**[^key-2f097a279293b84ab1c270ba84bf3015] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**16.**[^key-2f097a279293b84ab1c270ba84bf3015] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**17.**[^key-2f097a279293b84ab1c270ba84bf3015] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 18. Additional education and training for children, young persons and adults[^key-2f097a279293b84ab1c270ba84bf3015]
+### 10. Access to education[^c-2f097a279293b84ab1c270ba84bf3015]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-2f097a279293b84ab1c270ba84bf3015] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-2f097a279293b84ab1c270ba84bf3015] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 20. Strategic management[^key-2f097a279293b84ab1c270ba84bf3015]
+**12.**[^c-2f097a279293b84ab1c270ba84bf3015] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**13.**[^c-2f097a279293b84ab1c270ba84bf3015] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**14.**[^c-2f097a279293b84ab1c270ba84bf3015] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**15.**[^c-2f097a279293b84ab1c270ba84bf3015] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**16.**[^c-2f097a279293b84ab1c270ba84bf3015] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**17.**[^c-2f097a279293b84ab1c270ba84bf3015] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 18. Additional education and training for children, young persons and adults[^c-2f097a279293b84ab1c270ba84bf3015]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21. Other functions[^key-2f097a279293b84ab1c270ba84bf3015]
+**19.**[^c-2f097a279293b84ab1c270ba84bf3015] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 20. Strategic management[^c-2f097a279293b84ab1c270ba84bf3015]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**22.**[^key-2f097a279293b84ab1c270ba84bf3015] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 21. Other functions[^c-2f097a279293b84ab1c270ba84bf3015]
 
-**23.**[^key-2f097a279293b84ab1c270ba84bf3015] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**24.**[^key-2f097a279293b84ab1c270ba84bf3015] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-2f097a279293b84ab1c270ba84bf3015] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**25.**[^key-2f097a279293b84ab1c270ba84bf3015] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-2f097a279293b84ab1c270ba84bf3015] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**26.**[^key-2f097a279293b84ab1c270ba84bf3015] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-2f097a279293b84ab1c270ba84bf3015] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**27.**[^key-2f097a279293b84ab1c270ba84bf3015] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**25.**[^c-2f097a279293b84ab1c270ba84bf3015] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**28.**[^key-2f097a279293b84ab1c270ba84bf3015] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**26.**[^c-2f097a279293b84ab1c270ba84bf3015] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**29.**[^key-2f097a279293b84ab1c270ba84bf3015] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**27.**[^c-2f097a279293b84ab1c270ba84bf3015] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**28.**[^c-2f097a279293b84ab1c270ba84bf3015] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**29.**[^c-2f097a279293b84ab1c270ba84bf3015] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2f097a279293b84ab1c270ba84bf3015]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2014/3352) revoked (with application in accordance with reg. 1(2) of the amending S.I.) by [The School and Early Years Finance (England) Regulations 2017 (revoked) 2017 (S.I. 2017/44)](https://www.legislation.gov.uk/uksi/2017/44), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/44/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2017/44/regulation/2)
+[^c-2f097a279293b84ab1c270ba84bf3015]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2014/3352) revoked (with application in accordance with reg. 1(2) of the amending S.I.) by [The School and Early Years Finance (England) Regulations 2017 (revoked) 2017 (S.I. 2017/44)](https://www.legislation.gov.uk/uksi/2017/44), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/44/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2017/44/regulation/2)

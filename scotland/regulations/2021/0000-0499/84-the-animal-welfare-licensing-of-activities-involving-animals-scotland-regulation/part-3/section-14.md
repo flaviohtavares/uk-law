@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 14. Death of a licence holder[^key-932c1992dba0904dff8703ed92fed932]
+## 14. Death of a licence holder[^c-932c1992dba0904dff8703ed92fed932]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-932c1992dba0904dff8703ed92fed932]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2021/84/regulation/14) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
+[^c-932c1992dba0904dff8703ed92fed932]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2021/84/regulation/14) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)

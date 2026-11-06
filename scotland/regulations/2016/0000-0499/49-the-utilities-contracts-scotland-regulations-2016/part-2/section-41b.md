@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 41B. Conditions relating to international agreements by which the United Kingdom is bound, other than the GPA[^key-692b23284f4d31ee979ec087cc245aa7]
+## 41B. Conditions relating to international agreements by which the United Kingdom is bound, other than the GPA[^c-692b23284f4d31ee979ec087cc245aa7]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-692b23284f4d31ee979ec087cc245aa7]: Textual amendment: [Reg. 41B](https://www.legislation.gov.uk/ssi/2016/49/regulation/41B) inserted (2.7.2021) by [The Public Procurement (International Trade Agreements) (Amendment) Regulations 2021 (S.I. 2021/787)](https://www.legislation.gov.uk/uksi/2021/787), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/787/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2021/787/regulation/6/2)
+[^c-692b23284f4d31ee979ec087cc245aa7]: Textual amendment: [Reg. 41B](https://www.legislation.gov.uk/ssi/2016/49/regulation/41B) inserted (2.7.2021) by [The Public Procurement (International Trade Agreements) (Amendment) Regulations 2021 (S.I. 2021/787)](https://www.legislation.gov.uk/uksi/2021/787), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/787/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2021/787/regulation/6/2)

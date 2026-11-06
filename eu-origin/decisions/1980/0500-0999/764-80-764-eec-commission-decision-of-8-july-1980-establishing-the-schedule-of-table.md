@@ -31,10 +31,10 @@ summary: ''
 
 of 8 July 1980 establishing the schedule of tables and definitions relating to intermediate statistical surveys of areas under vines (revoked)
 
-[^key-7205b5616faeec26a040dac1104b2149]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7205b5616faeec26a040dac1104b2149]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-7205b5616faeec26a040dac1104b2149] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-7205b5616faeec26a040dac1104b2149] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7205b5616faeec26a040dac1104b2149]: Textual amendment: Decision revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/5)
+[^c-7205b5616faeec26a040dac1104b2149]: Textual amendment: Decision revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/5)

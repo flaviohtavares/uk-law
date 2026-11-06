@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Inspection: refusal to allow access to premises[^key-b365d79fde930cab4239b4a7a185f768]
+## 68. Inspection: refusal to allow access to premises[^c-b365d79fde930cab4239b4a7a185f768]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A person in control of premises is liable to a civil penalty of £50,000 where t
 
 ## Annotations
 
-[^key-b365d79fde930cab4239b4a7a185f768]: Commencement: Art. 68 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
+[^c-b365d79fde930cab4239b4a7a185f768]: Commencement: Art. 68 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)

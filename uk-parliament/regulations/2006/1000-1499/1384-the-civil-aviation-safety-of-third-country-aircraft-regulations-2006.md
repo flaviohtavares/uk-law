@@ -32,7 +32,7 @@ summary: ''
 
 CIVIL AVIATION
 
-The Civil Aviation (Safety of Third-Country Aircraft) Regulations 2006 (revoked)[^key-1579008901fef2bf0fd593ec1d94bd8f]
+The Civil Aviation (Safety of Third-Country Aircraft) Regulations 2006 (revoked)[^c-1579008901fef2bf0fd593ec1d94bd8f]
 
 Made
 
@@ -46,84 +46,84 @@ Coming into force
 
 30th June 2006
 
-[^key-1579008901fef2bf0fd593ec1d94bd8f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1579008901fef2bf0fd593ec1d94bd8f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-1579008901fef2bf0fd593ec1d94bd8f]
+## 1. Citation and commencement[^c-1579008901fef2bf0fd593ec1d94bd8f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-1579008901fef2bf0fd593ec1d94bd8f]
+## 2. Interpretation[^c-1579008901fef2bf0fd593ec1d94bd8f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Application[^key-1579008901fef2bf0fd593ec1d94bd8f]
+## 3. Application[^c-1579008901fef2bf0fd593ec1d94bd8f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Performance of ramp inspections etc.[^key-1579008901fef2bf0fd593ec1d94bd8f]
+## 4. Performance of ramp inspections etc.[^c-1579008901fef2bf0fd593ec1d94bd8f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Authorised persons[^key-1579008901fef2bf0fd593ec1d94bd8f]
+## 5. Authorised persons[^c-1579008901fef2bf0fd593ec1d94bd8f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Suspicion of non-compliance with international safety standards[^key-1579008901fef2bf0fd593ec1d94bd8f]
+## 6. Suspicion of non-compliance with international safety standards[^c-1579008901fef2bf0fd593ec1d94bd8f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Requirements for the performance of ramp inspections[^key-1579008901fef2bf0fd593ec1d94bd8f]
+## 7. Requirements for the performance of ramp inspections[^c-1579008901fef2bf0fd593ec1d94bd8f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Duty to inform the operator etc. of significant safety deficiencies[^key-1579008901fef2bf0fd593ec1d94bd8f]
+## 8. Duty to inform the operator etc. of significant safety deficiencies[^c-1579008901fef2bf0fd593ec1d94bd8f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Collection of information[^key-1579008901fef2bf0fd593ec1d94bd8f]
+## 9. Collection of information[^c-1579008901fef2bf0fd593ec1d94bd8f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Use of reports[^key-1579008901fef2bf0fd593ec1d94bd8f]
+## 10. Use of reports[^c-1579008901fef2bf0fd593ec1d94bd8f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-1579008901fef2bf0fd593ec1d94bd8f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-1579008901fef2bf0fd593ec1d94bd8f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Provision of information to competent authorities[^key-1579008901fef2bf0fd593ec1d94bd8f]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 13. Treatment of ramp inspection reports and safety reports[^key-1579008901fef2bf0fd593ec1d94bd8f]
+## 12. Provision of information to competent authorities[^c-1579008901fef2bf0fd593ec1d94bd8f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Amendment of the Air Navigation Order 2005[^key-1579008901fef2bf0fd593ec1d94bd8f]
+## 13. Treatment of ramp inspection reports and safety reports[^c-1579008901fef2bf0fd593ec1d94bd8f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-1579008901fef2bf0fd593ec1d94bd8f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 16. Definitions[^key-1579008901fef2bf0fd593ec1d94bd8f]
+## 14. Amendment of the Air Navigation Order 2005[^c-1579008901fef2bf0fd593ec1d94bd8f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. Schedule 14[^key-1579008901fef2bf0fd593ec1d94bd8f]
+**15.**[^c-1579008901fef2bf0fd593ec1d94bd8f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 16. Definitions[^c-1579008901fef2bf0fd593ec1d94bd8f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18. Right of access to aerodromes etc.[^key-1579008901fef2bf0fd593ec1d94bd8f]
+## 17. Schedule 14[^c-1579008901fef2bf0fd593ec1d94bd8f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1579008901fef2bf0fd593ec1d94bd8f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## 18. Right of access to aerodromes etc.[^c-1579008901fef2bf0fd593ec1d94bd8f]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-1579008901fef2bf0fd593ec1d94bd8f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-1579008901fef2bf0fd593ec1d94bd8f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1579008901fef2bf0fd593ec1d94bd8f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1579008901fef2bf0fd593ec1d94bd8f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2006/1384) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-1579008901fef2bf0fd593ec1d94bd8f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2006/1384) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

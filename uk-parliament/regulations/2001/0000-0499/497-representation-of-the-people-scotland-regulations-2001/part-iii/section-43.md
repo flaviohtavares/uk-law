@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 43. Publication of register[^key-a2f60db752c899f053aacf2ca4143d64]
+## 43. Publication of register[^c-a2f60db752c899f053aacf2ca4143d64]
 
 *Extent: S*
 
-(1)[^key-bccc8928e4b7e5e80772d2cfb34fbfb5] The manner in which each revised version of the full register is to be published under section 13(1) and (3) of the 1983 Act is by the registration officer–
+(1)[^c-bccc8928e4b7e5e80772d2cfb34fbfb5] The manner in which each revised version of the full register is to be published under section 13(1) and (3) of the 1983 Act is by the registration officer–
 
 - (a) making a copy of it available for inspection under supervision–
   - (i) at his office, and
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a2f60db752c899f053aacf2ca4143d64]: Commencement: Reg. 43 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/1/1)
+[^c-a2f60db752c899f053aacf2ca4143d64]: Commencement: Reg. 43 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/1/1)
 
-[^key-bccc8928e4b7e5e80772d2cfb34fbfb5]: Textual amendment: [Reg. 43(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/43/1)[(1A)](https://www.legislation.gov.uk/uksi/2001/497/regulation/43/1A) substituted for [reg. 43(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/43/1) (with effect in accordance with reg. 2(3) of the amending S.I.) by [Representation of the People (Scotland) (Amendment) Regulations 2002 (S.I. 2002/1872)](https://www.legislation.gov.uk/uksi/2002/1872), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2002/1872/regulation/2/2), [9](https://www.legislation.gov.uk/uksi/2002/1872/regulation/9)
+[^c-bccc8928e4b7e5e80772d2cfb34fbfb5]: Textual amendment: [Reg. 43(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/43/1)[(1A)](https://www.legislation.gov.uk/uksi/2001/497/regulation/43/1A) substituted for [reg. 43(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/43/1) (with effect in accordance with reg. 2(3) of the amending S.I.) by [Representation of the People (Scotland) (Amendment) Regulations 2002 (S.I. 2002/1872)](https://www.legislation.gov.uk/uksi/2002/1872), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2002/1872/regulation/2/2), [9](https://www.legislation.gov.uk/uksi/2002/1872/regulation/9)

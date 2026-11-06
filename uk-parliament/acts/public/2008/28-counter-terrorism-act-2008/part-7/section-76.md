@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Offences relating to information about members of armed forces etc[^key-b55d4d0cc1624865f9bb6ebb591ead2d]
+## 76. Offences relating to information about members of armed forces etc[^c-b55d4d0cc1624865f9bb6ebb591ead2d]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,7 +49,7 @@ summary: ''
 
 .
 
-(2) In the application of section 58A in England and Wales in relation to an offence committed before 2 May 2022[^key-2afbb310eea3afa6701a0ec044189f4d] the reference in subsection (3)(b)(i) to 12 months is to be read as a reference to 6 months.
+(2) In the application of section 58A in England and Wales in relation to an offence committed before 2 May 2022[^c-2afbb310eea3afa6701a0ec044189f4d] the reference in subsection (3)(b)(i) to 12 months is to be read as a reference to 6 months.
 
 (3) In section 118 of the Terrorism Act 2000 (c. 11) (defences), in subsection (5)(a) after “58,” insert “ 58A, ”.
 
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b55d4d0cc1624865f9bb6ebb591ead2d]: Commencement: S. 76 in force at 16.2.2009 by [S.I. 2009/58](https://www.legislation.gov.uk/uksi/2009/58), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/58/article/2/d)
+[^c-b55d4d0cc1624865f9bb6ebb591ead2d]: Commencement: S. 76 in force at 16.2.2009 by [S.I. 2009/58](https://www.legislation.gov.uk/uksi/2009/58), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/58/article/2/d)
 
-[^key-2afbb310eea3afa6701a0ec044189f4d]: Textual amendment: Words in s. 76(2) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
+[^c-2afbb310eea3afa6701a0ec044189f4d]: Textual amendment: Words in s. 76(2) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)

@@ -16,20 +16,20 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 74B. National Diabetes Audit[^key-36f6994f6677e51a30d71eaf37926e68]
+## 74B. National Diabetes Audit[^c-36f6994f6677e51a30d71eaf37926e68]
 
 *Extent: E+W*
 
-(1) A contractor must record any data required by NHS England[^key-27a783e1510d45f884edbc32ee2f5c83] for the purposes of the National Diabetes Audit in accordance with paragraph (2).
+(1) A contractor must record any data required by NHS England[^c-27a783e1510d45f884edbc32ee2f5c83] for the purposes of the National Diabetes Audit in accordance with paragraph (2).
 
 (2) The data referred to in paragraph (1) must be appropriately coded by the contractor and uploaded onto the contractor’s computerised clinical systems in line with the requirements of guidance published by NHS Employers for these purposes.
 
-(3) The contractor must ensure that the coded data is uploaded onto its computerised clinical systems and available for collection by NHS England[^key-811a67bc3ed1102c86aef10974a30db2] at such intervals during each financial year as are notified to the contractor by NHS England.
+(3) The contractor must ensure that the coded data is uploaded onto its computerised clinical systems and available for collection by NHS England[^c-811a67bc3ed1102c86aef10974a30db2] at such intervals during each financial year as are notified to the contractor by NHS England.
 
 ## Annotations
 
-[^key-36f6994f6677e51a30d71eaf37926e68]: Textual amendment: Regs. 74B-74F inserted (6.10.2017) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2017 (S.I. 2017/908)](https://www.legislation.gov.uk/uksi/2017/908), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/908/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2017/908/regulation/2)
+[^c-36f6994f6677e51a30d71eaf37926e68]: Textual amendment: Regs. 74B-74F inserted (6.10.2017) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2017 (S.I. 2017/908)](https://www.legislation.gov.uk/uksi/2017/908), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/908/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2017/908/regulation/2)
 
-[^key-27a783e1510d45f884edbc32ee2f5c83]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-27a783e1510d45f884edbc32ee2f5c83]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
-[^key-811a67bc3ed1102c86aef10974a30db2]: Textual amendment: Words in reg. 74B(3) substituted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 52(5)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/52/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
+[^c-811a67bc3ed1102c86aef10974a30db2]: Textual amendment: Words in reg. 74B(3) substituted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 52(5)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/52/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))

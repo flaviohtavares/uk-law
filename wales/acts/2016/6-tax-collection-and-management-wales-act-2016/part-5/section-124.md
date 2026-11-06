@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 124. Interaction of penalties[^key-8dc8a7f79ccabd85d87b766bf99d8c48]
+## 124. Interaction of penalties[^c-8dc8a7f79ccabd85d87b766bf99d8c48]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8dc8a7f79ccabd85d87b766bf99d8c48]: Textual amendment: [S. 124](https://www.legislation.gov.uk/anaw/2016/6/section/124) omitted (1.4.2018) by virtue of [Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (anaw 1)](https://www.legislation.gov.uk/anaw/2017/1), [s. 81(2)](https://www.legislation.gov.uk/anaw/2017/1/section/81/2)[(3)](https://www.legislation.gov.uk/anaw/2017/1/section/81/3), [Sch. 23 para. 43](https://www.legislation.gov.uk/anaw/2017/1/schedule/23/paragraph/43); [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-8dc8a7f79ccabd85d87b766bf99d8c48]: Textual amendment: [S. 124](https://www.legislation.gov.uk/anaw/2016/6/section/124) omitted (1.4.2018) by virtue of [Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (anaw 1)](https://www.legislation.gov.uk/anaw/2017/1), [s. 81(2)](https://www.legislation.gov.uk/anaw/2017/1/section/81/2)[(3)](https://www.legislation.gov.uk/anaw/2017/1/section/81/3), [Sch. 23 para. 43](https://www.legislation.gov.uk/anaw/2017/1/schedule/23/paragraph/43); [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)

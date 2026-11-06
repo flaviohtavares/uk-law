@@ -42,7 +42,7 @@ Laid before Parliament
 
 Coming into force in accordance with article 1(2) to (4)
 
-The Secretary of State makes the following Order in exercise of the powers conferred by section 17, 18, 19, 20(6), 25, 26 and 89(2) of the Postal Services Act 2011[^f00001]. The Secretary of State has consulted the parties required by section 25(1), obtained consent of the Treasury in accordance with section 25(2), and makes this Order in compliance with section 20(2) of the Postal Services Act 2011.[^key-e9a1b5b23b3471c73164ef409ca5b6d8]
+The Secretary of State makes the following Order in exercise of the powers conferred by section 17, 18, 19, 20(6), 25, 26 and 89(2) of the Postal Services Act 2011[^f00001]. The Secretary of State has consulted the parties required by section 25(1), obtained consent of the Treasury in accordance with section 25(2), and makes this Order in compliance with section 20(2) of the Postal Services Act 2011.[^c-e9a1b5b23b3471c73164ef409ca5b6d8]
 
 ## Contents
 
@@ -120,4 +120,4 @@ An impact assessment has not been produced for this Order as a full impact asses
 
 [^f00001]: Footnote: [2011 c.5](https://www.legislation.gov.uk/ukpga/2011/5).
 
-[^key-e9a1b5b23b3471c73164ef409ca5b6d8]: Modification: [Order](https://www.legislation.gov.uk/uksi/2012/687): transfer of functions (2.4.2014) by [The Transfer of Functions (Royal Mail Pension Plan) Order 2014 (S.I. 2014/500)](https://www.legislation.gov.uk/uksi/2014/500), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/500/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2014/500/article/2/1) (with [art. 4](https://www.legislation.gov.uk/uksi/2014/500/article/4))
+[^c-e9a1b5b23b3471c73164ef409ca5b6d8]: Modification: [Order](https://www.legislation.gov.uk/uksi/2012/687): transfer of functions (2.4.2014) by [The Transfer of Functions (Royal Mail Pension Plan) Order 2014 (S.I. 2014/500)](https://www.legislation.gov.uk/uksi/2014/500), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/500/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2014/500/article/2/1) (with [art. 4](https://www.legislation.gov.uk/uksi/2014/500/article/4))

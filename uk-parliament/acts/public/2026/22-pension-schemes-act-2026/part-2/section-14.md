@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Member satisfaction surveys[^key-064d0d39aa12598a73766782ae14d906]
+## 14. Member satisfaction surveys[^c-064d0d39aa12598a73766782ae14d906]
 
 *Extent: E+W+S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-064d0d39aa12598a73766782ae14d906]: Commencement: S. 14 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)
+[^c-064d0d39aa12598a73766782ae14d906]: Commencement: S. 14 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)

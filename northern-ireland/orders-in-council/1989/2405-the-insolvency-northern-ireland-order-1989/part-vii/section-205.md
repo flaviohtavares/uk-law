@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 205. Orders under Articles 202, 203[^key-5b9c3061f7bf1479226dccae0a142617][^key-a2bf2f68007bbdce65c2dcc9f41f17cf][^key-a2bf2f68007bbdce65c2dcc9f41f17cf]
+## 205. Orders under Articles 202, 203[^c-5b9c3061f7bf1479226dccae0a142617][^c-a2bf2f68007bbdce65c2dcc9f41f17cf][^c-a2bf2f68007bbdce65c2dcc9f41f17cf]
 
 *Extent: N.I.*
 
@@ -73,9 +73,9 @@ and paragraphs (3A) to (3C) have effect to determine whether, for those purposes
 
 ## Annotations
 
-[^key-5b9c3061f7bf1479226dccae0a142617]: Modification: [Art. 205](https://www.legislation.gov.uk/nisi/1989/2405/article/205) applied (with modifications) (4.1.2024) by [S.I. 2021/716](https://www.legislation.gov.uk/uksi/2021/716), [reg. 37A](https://www.legislation.gov.uk/uksi/2021/716/regulation/37A) (as inserted by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2023/1399/regulation/12))
+[^c-5b9c3061f7bf1479226dccae0a142617]: Modification: [Art. 205](https://www.legislation.gov.uk/nisi/1989/2405/article/205) applied (with modifications) (4.1.2024) by [S.I. 2021/716](https://www.legislation.gov.uk/uksi/2021/716), [reg. 37A](https://www.legislation.gov.uk/uksi/2021/716/regulation/37A) (as inserted by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2023/1399/regulation/12))
 
-[^key-a2bf2f68007bbdce65c2dcc9f41f17cf]: Modification: [Pt. 7](https://www.legislation.gov.uk/nisi/1989/2405/part/7) applied (with modifications) (4.1.2024) by [S.I. 2021/716](https://www.legislation.gov.uk/uksi/2021/716), [Sch. 1A para. 3](https://www.legislation.gov.uk/uksi/2021/716/schedule/1A/paragraph/3) (as inserted by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/1399/schedule/1))
+[^c-a2bf2f68007bbdce65c2dcc9f41f17cf]: Modification: [Pt. 7](https://www.legislation.gov.uk/nisi/1989/2405/part/7) applied (with modifications) (4.1.2024) by [S.I. 2021/716](https://www.legislation.gov.uk/uksi/2021/716), [Sch. 1A para. 3](https://www.legislation.gov.uk/uksi/2021/716/schedule/1A/paragraph/3) (as inserted by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/1399/schedule/1))
 
 [^c17600051]: Textual amendment: [1994 c.12](https://www.legislation.gov.uk/ukpga/1994/12)
 

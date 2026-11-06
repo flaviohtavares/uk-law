@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 172. Advertising of less healthy food and drink[^key-61079409a94183587bfe773270b23aa4]
+## 172. Advertising of less healthy food and drink[^c-61079409a94183587bfe773270b23aa4]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 18 amends the Communications Act 2003 to restrict the advertising of ce
 
 ## Annotations
 
-[^key-61079409a94183587bfe773270b23aa4]: Commencement: [S. 172](https://www.legislation.gov.uk/ukpga/2022/31/section/172) in force at 28.6.2022, see [s. 186(4)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/4)
+[^c-61079409a94183587bfe773270b23aa4]: Commencement: [S. 172](https://www.legislation.gov.uk/ukpga/2022/31/section/172) in force at 28.6.2022, see [s. 186(4)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31B. Financial services and funds relating to relevant goods and technology[^key-c4d34ec79d3132b6349a11b6904a481b]
+## 31B. Financial services and funds relating to relevant goods and technology[^c-c4d34ec79d3132b6349a11b6904a481b]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c4d34ec79d3132b6349a11b6904a481b]: Textual amendment: [Regs. 31A-31C](https://www.legislation.gov.uk/uksi/2019/461/regulation/31A) inserted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [7(l)](https://www.legislation.gov.uk/uksi/2026/983/regulation/7/l)
+[^c-c4d34ec79d3132b6349a11b6904a481b]: Textual amendment: [Regs. 31A-31C](https://www.legislation.gov.uk/uksi/2019/461/regulation/31A) inserted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [7(l)](https://www.legislation.gov.uk/uksi/2026/983/regulation/7/l)

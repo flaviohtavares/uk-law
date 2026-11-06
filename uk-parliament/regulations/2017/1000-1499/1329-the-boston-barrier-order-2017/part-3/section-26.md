@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Lights on tidal works during construction[^key-b86a5e74941b3443869221f5d5117fe2]
+## 26. Lights on tidal works during construction[^c-b86a5e74941b3443869221f5d5117fe2]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b86a5e74941b3443869221f5d5117fe2]: Commencement: Art. 26 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-b86a5e74941b3443869221f5d5117fe2]: Commencement: Art. 26 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)

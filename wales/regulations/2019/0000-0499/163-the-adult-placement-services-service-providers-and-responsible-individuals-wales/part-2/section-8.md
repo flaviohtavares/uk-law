@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Requirements to provide the service in accordance with policies and procedures[^key-198b081b81cb138a262fbdf3b927ffd2]
+## 8. Requirements to provide the service in accordance with policies and procedures[^c-198b081b81cb138a262fbdf3b927ffd2]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-198b081b81cb138a262fbdf3b927ffd2]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2019/163/regulation/8) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/163/regulation/1/2)
+[^c-198b081b81cb138a262fbdf3b927ffd2]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2019/163/regulation/8) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/163/regulation/1/2)

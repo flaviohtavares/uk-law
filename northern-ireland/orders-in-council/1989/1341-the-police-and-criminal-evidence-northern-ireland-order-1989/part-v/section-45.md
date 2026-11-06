@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 45. Extension of warrants of further detention[^c20417551][^c21390581][^key-0c15955a2046760eb8cb52bd43d47afb]
+## 45. Extension of warrants of further detention[^c20417551][^c21390581][^c-0c15955a2046760eb8cb52bd43d47afb]
 
 *Extent: N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 [^c21390581]: Modification: [Art. 45](https://www.legislation.gov.uk/nisi/1989/1341/article/45) applied (with modifications) (18.5.2009) by [Police and Criminal Evidence (Application to the Police Ombudsman) Order (Northern Ireland) 2009 (S.R. 2009/142)](https://www.legislation.gov.uk/nisr/2009/142), [art. 3](https://www.legislation.gov.uk/nisr/2009/142/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2009/142/schedule/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2009/142/schedule/2)
 
-[^key-0c15955a2046760eb8cb52bd43d47afb]: Modification: [Art. 45](https://www.legislation.gov.uk/nisi/1989/1341/article/45) applied (with modifications) (10.2.2026) by [The Police and Criminal Evidence (Northern Ireland) Order 1989 (Application to Immigration Officers and Designated Customs Officials in Northern Ireland) and Consequential Amendments Regulations 2026 (S.I. 2026/117)](https://www.legislation.gov.uk/uksi/2026/117), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/1/2), [12-15](https://www.legislation.gov.uk/uksi/2026/117/regulation/12), [18(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/18/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2026/117/schedule/2)
+[^c-0c15955a2046760eb8cb52bd43d47afb]: Modification: [Art. 45](https://www.legislation.gov.uk/nisi/1989/1341/article/45) applied (with modifications) (10.2.2026) by [The Police and Criminal Evidence (Northern Ireland) Order 1989 (Application to Immigration Officers and Designated Customs Officials in Northern Ireland) and Consequential Amendments Regulations 2026 (S.I. 2026/117)](https://www.legislation.gov.uk/uksi/2026/117), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/1/2), [12-15](https://www.legislation.gov.uk/uksi/2026/117/regulation/12), [18(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/18/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2026/117/schedule/2)

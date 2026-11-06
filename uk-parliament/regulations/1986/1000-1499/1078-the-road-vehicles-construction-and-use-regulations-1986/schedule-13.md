@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 13 — PLATE FOR RESTRICTED SPEED VEHICLE[^key-695e47ea4b8eba2568a030d6addbf4ec]
+## SCHEDULE 13 — PLATE FOR RESTRICTED SPEED VEHICLE[^c-695e47ea4b8eba2568a030d6addbf4ec]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-695e47ea4b8eba2568a030d6addbf4ec]: Textual amendment: [Sch. 13](https://www.legislation.gov.uk/uksi/1986/1078/schedule/13) inserted (2.11.1990) by [The Road Vehicles (Construction and Use) (Amendment) (No. 4) Regulations 1990 (S.I. 1990/1981)](https://www.legislation.gov.uk/uksi/1990/1981), [reg. 1](https://www.legislation.gov.uk/uksi/1990/1981/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/1990/1981/schedule)
+[^c-695e47ea4b8eba2568a030d6addbf4ec]: Textual amendment: [Sch. 13](https://www.legislation.gov.uk/uksi/1986/1078/schedule/13) inserted (2.11.1990) by [The Road Vehicles (Construction and Use) (Amendment) (No. 4) Regulations 1990 (S.I. 1990/1981)](https://www.legislation.gov.uk/uksi/1990/1981), [reg. 1](https://www.legislation.gov.uk/uksi/1990/1981/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/1990/1981/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100. Company filing requirements: consent to act as director or secretary[^key-9db68fa9d0e21f5000c7931cff18c096]
+## 100. Company filing requirements: consent to act as director or secretary[^c-9db68fa9d0e21f5000c7931cff18c096]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9db68fa9d0e21f5000c7931cff18c096]: Commencement: [S. 100](https://www.legislation.gov.uk/ukpga/2015/26/section/100) in force at 10.10.2015 by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/4/b)
+[^c-9db68fa9d0e21f5000c7931cff18c096]: Commencement: [S. 100](https://www.legislation.gov.uk/ukpga/2015/26/section/100) in force at 10.10.2015 by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/4/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. CRTS allowances and limits on CRTS allowances and CRTS activity[^key-d8d8ac71a61ab00adf47e352af6570df]
+## 12. CRTS allowances and limits on CRTS allowances and CRTS activity[^c-d8d8ac71a61ab00adf47e352af6570df]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d8d8ac71a61ab00adf47e352af6570df]: Commencement: Art. 12 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-d8d8ac71a61ab00adf47e352af6570df]: Commencement: Art. 12 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)

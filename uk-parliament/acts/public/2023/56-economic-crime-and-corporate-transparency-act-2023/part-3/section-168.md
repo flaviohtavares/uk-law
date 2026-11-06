@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 168. Protection of information[^key-971cdfd30d78fb28ea623f8f97215a58]
+## 168. Protection of information[^c-971cdfd30d78fb28ea623f8f97215a58]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,4 +59,4 @@ For section 25 of the Economic Crime (Transparency and Enforcement) Act 2022 sub
 
 ## Annotations
 
-[^key-971cdfd30d78fb28ea623f8f97215a58]: Commencement: S. 168 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-971cdfd30d78fb28ea623f8f97215a58]: Commencement: S. 168 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)

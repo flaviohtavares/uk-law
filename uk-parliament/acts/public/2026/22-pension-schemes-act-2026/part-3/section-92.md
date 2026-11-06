@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Fixed penalty notices[^key-ffab78e4aa7a92d5a8b57724f0019315]
+## 92. Fixed penalty notices[^c-ffab78e4aa7a92d5a8b57724f0019315]
 
 *Extent: E+W+S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ffab78e4aa7a92d5a8b57724f0019315]: Commencement: S. 92 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)
+[^c-ffab78e4aa7a92d5a8b57724f0019315]: Commencement: S. 92 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)

@@ -30,7 +30,7 @@ summary: ''
 
 LOCAL GOVERNMENT
 
-Local Government (Superannuation) (Amendment) Regulations (Northern Ireland) 1998 (revoked)[^key-dd7ddc1f5f94ef4b2be3eb2ce28c6d13]
+Local Government (Superannuation) (Amendment) Regulations (Northern Ireland) 1998 (revoked)[^c-dd7ddc1f5f94ef4b2be3eb2ce28c6d13]
 
 Made
 
@@ -40,24 +40,24 @@ Coming into operation
 
 25th May 1998
 
-[^key-dd7ddc1f5f94ef4b2be3eb2ce28c6d13]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dd7ddc1f5f94ef4b2be3eb2ce28c6d13]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-dd7ddc1f5f94ef4b2be3eb2ce28c6d13]
+## 1. Citation, commencement and interpretation[^c-dd7ddc1f5f94ef4b2be3eb2ce28c6d13]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the principal Regulations[^key-dd7ddc1f5f94ef4b2be3eb2ce28c6d13]
+## 2. Amendment of the principal Regulations[^c-dd7ddc1f5f94ef4b2be3eb2ce28c6d13]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dd7ddc1f5f94ef4b2be3eb2ce28c6d13]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dd7ddc1f5f94ef4b2be3eb2ce28c6d13]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-dd7ddc1f5f94ef4b2be3eb2ce28c6d13]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dd7ddc1f5f94ef4b2be3eb2ce28c6d13]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-dd7ddc1f5f94ef4b2be3eb2ce28c6d13]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/133) revoked (1.8.2000) by [Local Government Pension Scheme Regulations (Northern Ireland) 2000 (S.R. 2000/177)](https://www.legislation.gov.uk/nisr/2000/177), [reg. A1(1)](https://www.legislation.gov.uk/nisr/2000/177/regulation/A1/1), [Sch. M3](https://www.legislation.gov.uk/nisr/2000/177/schedule/M3) (with [Sch. M2](https://www.legislation.gov.uk/nisr/2000/177/schedule/M2))
+[^c-dd7ddc1f5f94ef4b2be3eb2ce28c6d13]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/133) revoked (1.8.2000) by [Local Government Pension Scheme Regulations (Northern Ireland) 2000 (S.R. 2000/177)](https://www.legislation.gov.uk/nisr/2000/177), [reg. A1(1)](https://www.legislation.gov.uk/nisr/2000/177/regulation/A1/1), [Sch. M3](https://www.legislation.gov.uk/nisr/2000/177/schedule/M3) (with [Sch. M2](https://www.legislation.gov.uk/nisr/2000/177/schedule/M2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Inspections[^key-c8e73f2ebf48c275a38c57ed84f2633f]
+## 46. Inspections[^c-c8e73f2ebf48c275a38c57ed84f2633f]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,11 +37,11 @@ summary: ''
 
 (5) Except to the extent agreed by the person in control of a place or premises, the power referred to in paragraph (1) does not apply to—
 
-- (a) a prohibited place within the meaning of Part 1 of the National Security Act 2023[^key-a50075b8f67a3c6586cb3d2101f21124], or
+- (a) a prohibited place within the meaning of Part 1 of the National Security Act 2023[^c-a50075b8f67a3c6586cb3d2101f21124], or
 - (b) any other premises to which the Crown restricts access on the ground of national security.
 
 ## Annotations
 
-[^key-c8e73f2ebf48c275a38c57ed84f2633f]: Commencement: Art. 46 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
+[^c-c8e73f2ebf48c275a38c57ed84f2633f]: Commencement: Art. 46 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
 
-[^key-a50075b8f67a3c6586cb3d2101f21124]: Textual amendment: Words in [art. 46(5)(a)](https://www.legislation.gov.uk/uksi/2021/534/article/46/5/a) substituted (20.12.2023) by [The National Security Act 2023 (Consequential Amendments of Subordinate Legislation) Regulations 2023 (S.I. 2023/1267)](https://www.legislation.gov.uk/uksi/2023/1267), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1267/regulation/1/2), [Sch. para. 60](https://www.legislation.gov.uk/uksi/2023/1267/schedule/paragraph/60)
+[^c-a50075b8f67a3c6586cb3d2101f21124]: Textual amendment: Words in [art. 46(5)(a)](https://www.legislation.gov.uk/uksi/2021/534/article/46/5/a) substituted (20.12.2023) by [The National Security Act 2023 (Consequential Amendments of Subordinate Legislation) Regulations 2023 (S.I. 2023/1267)](https://www.legislation.gov.uk/uksi/2023/1267), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1267/regulation/1/2), [Sch. para. 60](https://www.legislation.gov.uk/uksi/2023/1267/schedule/paragraph/60)

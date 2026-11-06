@@ -625,7 +625,7 @@ Section 4.
 
 ### The National Health Service Act 1977 (c. 49.)
 
-**18.**[^key-22937cef81d5fc8e6f372bbc11c38f0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-22937cef81d5fc8e6f372bbc11c38f0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Competition Act 1980 (c. 21.)
 
@@ -652,7 +652,7 @@ Section 4.
 
 ### The Public Passenger Vehicles Act 1981 (c. 14.)
 
-**22.**[^key-2d7021c9a8b261fe8c75f375544f3502] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-2d7021c9a8b261fe8c75f375544f3502] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Criminal Attempts Act 1981 (c. 47.)
 
@@ -724,7 +724,7 @@ Section 4.
 
 (4) In section 62(11) of that Act, for “sections 5 to 12 of the Road Traffic Act 1972” there is substituted “ sections 4 to 11 of the Road Traffic Act 1988 ”.
 
-(5)[^key-e6f9cf6da5be4415124abd3ea42385f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-e6f9cf6da5be4415124abd3ea42385f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Elections (Northern Ireland) Act 1985 (c. 2.)
 
@@ -732,7 +732,7 @@ Section 4.
 
 ### The Sexual Offences Act 1985 (c. 44.)
 
-**29.**[^key-52f2d87982bfc28b3bdeae752837c4b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**29.**[^c-52f2d87982bfc28b3bdeae752837c4b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Local Government Act 1985 (c. 51.)
 
@@ -972,17 +972,17 @@ Section 5.
 
 [^c10480841]: Textual amendment: [Sch. 3 para. 15](https://www.legislation.gov.uk/ukpga/1988/54/schedule/3/paragraph/15) repealed (3.5.1994) by [1994 c. 9](https://www.legislation.gov.uk/ukpga/1994/9), [s. 258](https://www.legislation.gov.uk/ukpga/1994/9/section/258), [Sch. 26 Pt. I](https://www.legislation.gov.uk/ukpga/1994/9/schedule/26/part/I)
 
-[^key-22937cef81d5fc8e6f372bbc11c38f0d]: Textual amendment: [Sch. 3 para. 18](https://www.legislation.gov.uk/ukpga/1988/54/schedule/3/paragraph/18) repealed (1.3.2007 immediately before the National Health Service Act 2006 comes into force) by [The National Health Service (Pre-consolidation Amendments) Order 2006 (S.I. 2006/1407)](https://www.legislation.gov.uk/uksi/2006/1407), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/1407/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/1407/schedule/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/1407/article/4))
+[^c-22937cef81d5fc8e6f372bbc11c38f0d]: Textual amendment: [Sch. 3 para. 18](https://www.legislation.gov.uk/ukpga/1988/54/schedule/3/paragraph/18) repealed (1.3.2007 immediately before the National Health Service Act 2006 comes into force) by [The National Health Service (Pre-consolidation Amendments) Order 2006 (S.I. 2006/1407)](https://www.legislation.gov.uk/uksi/2006/1407), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/1407/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/1407/schedule/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/1407/article/4))
 
 [^c10480851]: Textual amendment: [Sch. 3 para. 19](https://www.legislation.gov.uk/ukpga/1988/54/schedule/3/paragraph/19) repealed (1.3.2000) by [1998 c. 41](https://www.legislation.gov.uk/ukpga/1998/41), [s. 74(1)(3)](https://www.legislation.gov.uk/ukpga/1998/41/section/74/1/3), [Sch. 12 para. 12](https://www.legislation.gov.uk/ukpga/1998/41/schedule/12/paragraph/12), [Sch. 14 Pt. I](https://www.legislation.gov.uk/ukpga/1998/41/schedule/14/part/I); [S.I. 2000/344](https://www.legislation.gov.uk/uksi/2000/344), [art. 2](https://www.legislation.gov.uk/uksi/2000/344/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/344/schedule)
 
 [^c10480861]: Textual amendment: [Sch. 3 para. 20](https://www.legislation.gov.uk/ukpga/1988/54/schedule/3/paragraph/20) repealed (25.8.2000) by [2000 c. 6](https://www.legislation.gov.uk/ukpga/2000/6), [ss. 165(4)](https://www.legislation.gov.uk/ukpga/2000/6/section/165/4), [168(1)](https://www.legislation.gov.uk/ukpga/2000/6/section/168/1), [Sch. 12 Pt. I](https://www.legislation.gov.uk/ukpga/2000/6/schedule/12/part/I) (with [Sch. 11 paras. 1](https://www.legislation.gov.uk/ukpga/2000/6/schedule/11/paragraph/1), [2](https://www.legislation.gov.uk/ukpga/2000/6/schedule/11/paragraph/2))
 
-[^key-2d7021c9a8b261fe8c75f375544f3502]: Textual amendment: [Sch. 3 para. 22](https://www.legislation.gov.uk/ukpga/1988/54/schedule/3/paragraph/22) omitted (29.4.2009) by virtue of [The Road Vehicles (Approval) (Consequential Amendments) Regulations 2009 (S.I. 2009/818)](https://www.legislation.gov.uk/uksi/2009/818), [regs. 1](https://www.legislation.gov.uk/uksi/2009/818/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2009/818/regulation/4/a)
+[^c-2d7021c9a8b261fe8c75f375544f3502]: Textual amendment: [Sch. 3 para. 22](https://www.legislation.gov.uk/ukpga/1988/54/schedule/3/paragraph/22) omitted (29.4.2009) by virtue of [The Road Vehicles (Approval) (Consequential Amendments) Regulations 2009 (S.I. 2009/818)](https://www.legislation.gov.uk/uksi/2009/818), [regs. 1](https://www.legislation.gov.uk/uksi/2009/818/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2009/818/regulation/4/a)
 
-[^key-e6f9cf6da5be4415124abd3ea42385f3]: Textual amendment: Sch. 3 para. 27(5) repealed (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(u)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/u)
+[^c-e6f9cf6da5be4415124abd3ea42385f3]: Textual amendment: Sch. 3 para. 27(5) repealed (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(u)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/u)
 
-[^key-52f2d87982bfc28b3bdeae752837c4b9]: Textual amendment: [Sch. 3 para. 29](https://www.legislation.gov.uk/ukpga/1988/54/schedule/3/paragraph/29) repealed (1.4.2010) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [s. 116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1), [Sch. 8 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/26/schedule/8/part/2); [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(x)](https://www.legislation.gov.uk/uksi/2010/507/article/5/x)
+[^c-52f2d87982bfc28b3bdeae752837c4b9]: Textual amendment: [Sch. 3 para. 29](https://www.legislation.gov.uk/ukpga/1988/54/schedule/3/paragraph/29) repealed (1.4.2010) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [s. 116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1), [Sch. 8 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/26/schedule/8/part/2); [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(x)](https://www.legislation.gov.uk/uksi/2010/507/article/5/x)
 
 [^c10480871]: Textual amendment: [Sch. 3 para. 32](https://www.legislation.gov.uk/ukpga/1988/54/schedule/3/paragraph/32) repealed (1.9.1994) by [1994 c. 23](https://www.legislation.gov.uk/ukpga/1994/23), [ss. 100(2)](https://www.legislation.gov.uk/ukpga/1994/23/section/100/2), [101(1)](https://www.legislation.gov.uk/ukpga/1994/23/section/101/1), [Sch. 15](https://www.legislation.gov.uk/ukpga/1994/23/schedule/15)
 

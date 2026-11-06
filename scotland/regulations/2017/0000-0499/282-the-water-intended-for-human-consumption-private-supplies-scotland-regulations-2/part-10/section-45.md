@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 45. Changes to other enactments[^key-3715de9514c155070cd9a8a28ebd4576]
+## 45. Changes to other enactments[^c-3715de9514c155070cd9a8a28ebd4576]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Schedule 10 makes further provision to amend and revoke other enactments.
 
 ## Annotations
 
-[^key-3715de9514c155070cd9a8a28ebd4576]: Commencement: [Reg. 45](https://www.legislation.gov.uk/ssi/2017/282/regulation/45) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-3715de9514c155070cd9a8a28ebd4576]: Commencement: [Reg. 45](https://www.legislation.gov.uk/ssi/2017/282/regulation/45) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)

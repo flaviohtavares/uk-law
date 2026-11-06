@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## L6. Death benefits[^key-04e0c027405b674358e10826c2d97f95]
+## L6. Death benefits[^c-04e0c027405b674358e10826c2d97f95]
 
 *Extent: E+W+S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-04e0c027405b674358e10826c2d97f95]: Commencement: [Reg. L6](https://www.legislation.gov.uk/uksi/1986/24/regulation/L6) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-04e0c027405b674358e10826c2d97f95]: Commencement: [Reg. L6](https://www.legislation.gov.uk/uksi/1986/24/regulation/L6) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

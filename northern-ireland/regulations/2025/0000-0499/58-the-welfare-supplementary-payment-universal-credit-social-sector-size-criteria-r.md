@@ -44,17 +44,17 @@ The Department for Communities[^f00001] makes the following Regulations in exerc
 
 In accordance with Article 137A(9) of that Order, a draft of these Regulations has been laid before and approved by a resolution of the Assembly.
 
-## 1. Citation and commencement[^key-b3e3454052ffaa41d3184a25a3404d5a]
+## 1. Citation and commencement[^c-b3e3454052ffaa41d3184a25a3404d5a]
 
 (1) These Regulations may be cited as the Welfare Supplementary Payment (Universal Credit) (Social Sector Size Criteria) Regulations (Northern Ireland) 2025.
 
 (2) These Regulations come into operation on the day after the day they are made.
 
-## 2. No retrospective entitlement[^key-da286ae23b16a449e2ec340cfeaa46cd]
+## 2. No retrospective entitlement[^c-da286ae23b16a449e2ec340cfeaa46cd]
 
 These Regulations do not confer entitlement to a welfare supplementary payment in respect of a period before they come into operation.
 
-## 3. Interpretation[^key-6975a004dd303de7bb284c460e2ce60d]
+## 3. Interpretation[^c-6975a004dd303de7bb284c460e2ce60d]
 
 (1) In these Regulations—
 
@@ -62,11 +62,11 @@ These Regulations do not confer entitlement to a welfare supplementary payment i
 - “**Decisions and Appeals Regulations**” means the Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Decisions and Appeals) Regulations (Northern Ireland) 2016[^f00004];
 - “**Universal Credit Regulations**” means the Universal Credit Regulations (Northern Ireland) 2016[^f00005].
 
-## 4. Eligibility[^key-6f32d4f8cd71f5917b57c3c5197b6f99]
+## 4. Eligibility[^c-6f32d4f8cd71f5917b57c3c5197b6f99]
 
 A person is entitled to a welfare supplementary payment under these Regulations if the person qualifies under Article 137A(2) of the Welfare Reform (Northern Ireland) Order 2015[^f00006] (persons affected by social sector size criteria in calculation of universal credit).
 
-## 5. Amount[^key-3bf9e8a9560138f908a364548c18ebff]
+## 5. Amount[^c-3bf9e8a9560138f908a364548c18ebff]
 
 (1) The amount of welfare supplementary payment to which a person is entitled is, except in a case within paragraph (2), the amount of the deduction calculated under paragraph 35(2) of Schedule 4 to the Universal Credit Regulations (under-occupancy deduction).
 
@@ -80,7 +80,7 @@ A person is entitled to a welfare supplementary payment under these Regulations 
 
 (5) Where the amount of welfare supplementary payment would, but for this paragraph, include a fraction of a penny, that fraction is to be disregarded if it is less than half a penny and otherwise it is to be treated as a penny.
 
-## 6. Period of payment[^key-d111815b651f6749694c198f908d0cb4]
+## 6. Period of payment[^c-d111815b651f6749694c198f908d0cb4]
 
 (1) Payments of welfare supplementary payment must be made at intervals of four weeks or as soon as is reasonably practicable after that in arrears, unless in any case or class of case the Department arranges otherwise.
 
@@ -88,11 +88,11 @@ A person is entitled to a welfare supplementary payment under these Regulations 
 
 (3) Where, before these Regulations come into operation, a determination was made in a person’s case that a deduction was to be made under that paragraph of that Schedule, the person’s entitlement to a welfare supplementary payment begins on the coming into operation of these Regulations.
 
-## 7. Recipient[^key-9177247a59ea6ce97814e63114a098e3]
+## 7. Recipient[^c-9177247a59ea6ce97814e63114a098e3]
 
 A welfare supplementary payment to which a person is entitled must be paid to the person to whom the housing costs element of the award of universal credit is payable.
 
-## 8. Information Sharing[^key-98dcb398cf34f7bd655d26dc64886c5b]
+## 8. Information Sharing[^c-98dcb398cf34f7bd655d26dc64886c5b]
 
 (1) The Department may share information on welfare supplementary payments and administrative payments with—
 
@@ -108,7 +108,7 @@ A welfare supplementary payment to which a person is entitled must be paid to th
 - (b) made from sums issued out of the Consolidated Fund of Northern Ireland under the authority of an Act of the Assembly or an Act of Parliament or under section 59 of the Northern Ireland Act 1998[^f00008] and appropriated for the purposes of the Department; and
 - (c) that corresponds with what would have been paid in respect of a person as a welfare supplementary payment under these Regulations if these Regulations had been in operation at the time the payment was made.
 
-## 9. Change of circumstances[^key-d83de90e9ee224413feb2ea5792cf9ad]
+## 9. Change of circumstances[^c-d83de90e9ee224413feb2ea5792cf9ad]
 
 (1) This regulation applies where there is a change of circumstances which—
 
@@ -121,15 +121,15 @@ A welfare supplementary payment to which a person is entitled must be paid to th
 
 (4) For the purposes of calculating the person’s entitlement to welfare supplementary payment, the date to be used is the effective date determined in accordance with Part 3 of Schedule 1 to the Decisions and Appeals Regulations.
 
-## 10. Recovery of overpayments[^key-760043076c4f0338709d8eb72fa2991f]
+## 10. Recovery of overpayments[^c-760043076c4f0338709d8eb72fa2991f]
 
 Part 2 of the Welfare Supplementary Payment (Amendment) Regulations (Northern Ireland) 2017[^f00009] (recovery of overpayments) applies to a welfare supplementary payment under these Regulations as if it were a welfare supplementary payment within the meaning of that Part.
 
-## 11. Sanctions[^key-1020409ead4c804591770d8c8cee0cb9]
+## 11. Sanctions[^c-1020409ead4c804591770d8c8cee0cb9]
 
 For the avoidance of doubt, where a person is subject to a benefit sanction (for example, for failure to take part in a work-focused interview), the effect of the sanction is to be disregarded in calculating the amount of welfare supplementary payment payable.
 
-## 12. Review[^key-991e61079af8e14bc3856fe0af9a819e]
+## 12. Review[^c-991e61079af8e14bc3856fe0af9a819e]
 
 (1) The Department must establish procedures for reviewing a person’s entitlement to a welfare supplementary payment.
 
@@ -143,7 +143,7 @@ For the avoidance of doubt, where a person is subject to a benefit sanction (for
 - (a) the consideration of the applicant’s entitlement to a welfare supplementary payment by up to three persons nominated by the Department;
 - (b) the preparation of a report by the persons so nominated setting out their conclusions in relation to the applicant’s entitlement to a welfare supplementary payment and their recommendation as to the manner in which the matter should be finally determined.
 
-## 13. Treatment of payment[^key-bbe49ae39847255be24038ea343b25d7]
+## 13. Treatment of payment[^c-bbe49ae39847255be24038ea343b25d7]
 
 (1) No account is to be taken of entitlement to a welfare supplementary payment in considering a person’s entitlement to universal credit or any other benefit under a statutory provision in relation to social security (regardless of the name or nature of the benefit).
 
@@ -157,13 +157,13 @@ For the avoidance of doubt, where a person is subject to a benefit sanction (for
 
 .
 
-## 14. Residence and presence[^key-70a143fc7903540f23a0759374b29285]
+## 14. Residence and presence[^c-70a143fc7903540f23a0759374b29285]
 
 (1) A person is not entitled to a welfare supplementary payment unless the person is resident in Northern Ireland.
 
 (2) Where a person is temporarily absent from Northern Ireland, the person is nonetheless to be treated for the purposes of this regulation as present in Northern Ireland if the period of absence is disregarded for the purposes of regulation 11 of the Universal Credit Regulations.
 
-## 15. Amendments to the Housing Benefit (Welfare Supplementary Payment) Regulations (Northern Ireland) 2017[^key-e51c7fb04ae711ac6e663b47de59f8ba]
+## 15. Amendments to the Housing Benefit (Welfare Supplementary Payment) Regulations (Northern Ireland) 2017[^c-e51c7fb04ae711ac6e663b47de59f8ba]
 
 (1) The Housing Benefit (Welfare Supplementary Payment) Regulations (Northern Ireland) 2017([^f00011] are amended as follows.
 
@@ -193,11 +193,11 @@ These Regulations provide for welfare supplementary payments to mitigate the imp
 
 [^f00002]: Footnote: [S.I. 2015/2006 (N.I. 1)](https://www.legislation.gov.uk/nisi/2015/2006); Article 137A was inserted by Article 19(2) of the Welfare Reform and Work (Northern Ireland) Order 2016 ([S.I. 2016/999 (N.I. 1))](https://www.legislation.gov.uk/nisi/2016/999) and amended by the Welfare Supplementary Payments (Amendment) Act (Northern Ireland) [2022 (C. 22)](https://www.legislation.gov.uk/nia/2022/22)
 
-[^key-b3e3454052ffaa41d3184a25a3404d5a]: Commencement: Reg. 1 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/58/regulation/1/2)
+[^c-b3e3454052ffaa41d3184a25a3404d5a]: Commencement: Reg. 1 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/58/regulation/1/2)
 
-[^key-da286ae23b16a449e2ec340cfeaa46cd]: Commencement: Reg. 2 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/58/regulation/1/2)
+[^c-da286ae23b16a449e2ec340cfeaa46cd]: Commencement: Reg. 2 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/58/regulation/1/2)
 
-[^key-6975a004dd303de7bb284c460e2ce60d]: Commencement: Reg. 3 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/58/regulation/1/2)
+[^c-6975a004dd303de7bb284c460e2ce60d]: Commencement: Reg. 3 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/58/regulation/1/2)
 
 [^f00003]: Footnote: [S.R. 2016 No. 220](https://www.legislation.gov.uk/nisr/2016/220)
 
@@ -205,38 +205,38 @@ These Regulations provide for welfare supplementary payments to mitigate the imp
 
 [^f00005]: Footnote: [S.R. 2016 No. 216](https://www.legislation.gov.uk/nisr/2016/216)
 
-[^key-6f32d4f8cd71f5917b57c3c5197b6f99]: Commencement: Reg. 4 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/58/regulation/1/2)
+[^c-6f32d4f8cd71f5917b57c3c5197b6f99]: Commencement: Reg. 4 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/58/regulation/1/2)
 
 [^f00006]: Footnote: [S.I. 2015 No. 2006 (N.I 1)](https://www.legislation.gov.uk/nisi/2015/2006); Article 137A was inserted by Article 19 of [S.I. 2016/999 (N.I. 1)](https://www.legislation.gov.uk/nisi/2016/999) and amended by the Welfare Supplementary Payments (Amendment) Act (Northern Ireland) [2022 (c.22)](https://www.legislation.gov.uk/nia/2022/22)
 
-[^key-3bf9e8a9560138f908a364548c18ebff]: Commencement: Reg. 5 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/58/regulation/1/2)
+[^c-3bf9e8a9560138f908a364548c18ebff]: Commencement: Reg. 5 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/58/regulation/1/2)
 
-[^key-d111815b651f6749694c198f908d0cb4]: Commencement: Reg. 6 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/58/regulation/1/2)
+[^c-d111815b651f6749694c198f908d0cb4]: Commencement: Reg. 6 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/58/regulation/1/2)
 
-[^key-9177247a59ea6ce97814e63114a098e3]: Commencement: Reg. 7 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/58/regulation/1/2)
+[^c-9177247a59ea6ce97814e63114a098e3]: Commencement: Reg. 7 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/58/regulation/1/2)
 
-[^key-98dcb398cf34f7bd655d26dc64886c5b]: Commencement: Reg. 8 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/58/regulation/1/2)
+[^c-98dcb398cf34f7bd655d26dc64886c5b]: Commencement: Reg. 8 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/58/regulation/1/2)
 
 [^f00007]: Footnote: [S.I.1992/1725 (N.I.15)](https://www.legislation.gov.uk/nisi/1992/1725)
 
 [^f00008]: Footnote: [1998 c.47](https://www.legislation.gov.uk/ukpga/1998/47)
 
-[^key-d83de90e9ee224413feb2ea5792cf9ad]: Commencement: Reg. 9 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/58/regulation/1/2)
+[^c-d83de90e9ee224413feb2ea5792cf9ad]: Commencement: Reg. 9 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/58/regulation/1/2)
 
-[^key-760043076c4f0338709d8eb72fa2991f]: Commencement: Reg. 10 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/58/regulation/1/2)
+[^c-760043076c4f0338709d8eb72fa2991f]: Commencement: Reg. 10 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/58/regulation/1/2)
 
 [^f00009]: Footnote: [S.R. 2017 No. 28](https://www.legislation.gov.uk/nisr/2017/28)
 
-[^key-1020409ead4c804591770d8c8cee0cb9]: Commencement: Reg. 11 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/58/regulation/1/2)
+[^c-1020409ead4c804591770d8c8cee0cb9]: Commencement: Reg. 11 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/58/regulation/1/2)
 
-[^key-991e61079af8e14bc3856fe0af9a819e]: Commencement: Reg. 12 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/58/regulation/1/2)
+[^c-991e61079af8e14bc3856fe0af9a819e]: Commencement: Reg. 12 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/58/regulation/1/2)
 
-[^key-bbe49ae39847255be24038ea343b25d7]: Commencement: Reg. 13 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/58/regulation/1/2)
+[^c-bbe49ae39847255be24038ea343b25d7]: Commencement: Reg. 13 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/58/regulation/1/2)
 
 [^f00010]: Footnote: [S.R. 2016 No. 270](https://www.legislation.gov.uk/nisr/2016/270); paragraph 40 of Schedule 3was inserted by regulation 2(6)(a) of [S.R. 2017 No 35](https://www.legislation.gov.uk/nisr/2017/35)
 
-[^key-70a143fc7903540f23a0759374b29285]: Commencement: Reg. 14 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/58/regulation/1/2)
+[^c-70a143fc7903540f23a0759374b29285]: Commencement: Reg. 14 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/58/regulation/1/2)
 
-[^key-e51c7fb04ae711ac6e663b47de59f8ba]: Commencement: Reg. 15 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/58/regulation/1/2)
+[^c-e51c7fb04ae711ac6e663b47de59f8ba]: Commencement: Reg. 15 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/58/regulation/1/2)
 
 [^f00011]: Footnote: [S.R.2017 No 35](https://www.legislation.gov.uk/nisr/2017/35); relevant amending regulations are [S.R.2022 No 32](https://www.legislation.gov.uk/nisr/2022/32)

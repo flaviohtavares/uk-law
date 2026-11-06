@@ -42,15 +42,15 @@ Coming into operation
 
 The Department for Communities[^f00001] makes the following Regulations in exercise of the powers conferred on it by Article 5B(5) and (6) and Article 72(1) of the Private Tenancies (Northern Ireland) Order 2006[^f00002].
 
-## 1. Citation and commencement[^key-a15334baabdf94bc4f9ecddd8d7e9384]
+## 1. Citation and commencement[^c-a15334baabdf94bc4f9ecddd8d7e9384]
 
 These Regulations may be cited as the Tenancy Deposit Schemes (Amendment) Regulations (Northern Ireland) 2023 and come into operation on 1st April 2023.
 
-## 2. Amendment of the Tenancy Deposit Schemes Regulations (Northern Ireland)[^key-ca8d0307aa2e87061927238d67e0b350]
+## 2. Amendment of the Tenancy Deposit Schemes Regulations (Northern Ireland)[^c-ca8d0307aa2e87061927238d67e0b350]
 
 The Tenancy Deposit Schemes Regulations (Northern Ireland) 2012[^f00003] are amended in accordance with regulation 3.
 
-**3.**[^key-6dbf776234f1a894a60ca18e4c953af9] (1) In regulation 12 (requirement on landlord to supply information) –
+**3.**[^c-6dbf776234f1a894a60ca18e4c953af9] (1) In regulation 12 (requirement on landlord to supply information) –
 
 - (a) In paragraph (a), for “14 days” substitute “28 days”; and
 - (b) In paragraph (b) –
@@ -84,10 +84,10 @@ These Regulations amend regulation 12 paragraphs (a) and (b), regulation 37(2) a
 
 [^f00002]: Footnote: [S.I. 2006 / 1459 (N.I. 10)](https://www.legislation.gov.uk/nisi/2006/1459) as amended by [2011 c.22 (N.I.)](https://www.legislation.gov.uk/nia/2011/22)
 
-[^key-a15334baabdf94bc4f9ecddd8d7e9384]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2023/18/regulation/1) in operation at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/18/regulation/1)
+[^c-a15334baabdf94bc4f9ecddd8d7e9384]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2023/18/regulation/1) in operation at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/18/regulation/1)
 
-[^key-ca8d0307aa2e87061927238d67e0b350]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2023/18/regulation/2) in operation at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/18/regulation/1)
+[^c-ca8d0307aa2e87061927238d67e0b350]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2023/18/regulation/2) in operation at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/18/regulation/1)
 
 [^f00003]: Footnote: [S.R. 2012 No. 373](https://www.legislation.gov.uk/nisr/2012/373)
 
-[^key-6dbf776234f1a894a60ca18e4c953af9]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2023/18/regulation/3) in operation at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/18/regulation/1)
+[^c-6dbf776234f1a894a60ca18e4c953af9]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2023/18/regulation/3) in operation at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/18/regulation/1)

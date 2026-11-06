@@ -24,7 +24,7 @@ summary: ''
 
 ### Notice of proposal
 
-**1.**[^key-259176fcd831e208f41dd555983f695c] (1) Scottish Water must publish notice of a proposal—
+**1.**[^c-259176fcd831e208f41dd555983f695c] (1) Scottish Water must publish notice of a proposal—
 
 - (a) in at least one newspaper circulating in the area to which the proposal relates,
 - (b) on its website, and
@@ -45,7 +45,7 @@ summary: ''
 
 ### Notifying owners etc.
 
-**2.**[^key-0bd95cb02d02391af56c42d9bb8918c8] (1) Sub-paragraph (2) applies where—
+**2.**[^c-0bd95cb02d02391af56c42d9bb8918c8] (1) Sub-paragraph (2) applies where—
 
 - (a) a draft order would permit Scottish Water to—
   - (i) carry out and maintain works on any premises, or
@@ -83,7 +83,7 @@ summary: ''
 
 ### Additional notice
 
-**3.**[^key-ed67c716ca73136f4699bdb5fea97cb4] (1) Sub-paragraph (2) applies where—
+**3.**[^c-ed67c716ca73136f4699bdb5fea97cb4] (1) Sub-paragraph (2) applies where—
 
 - (a) the Scottish Ministers intend to make a water shortage order that would restrict or prohibit the abstraction of water by any person, and
 - (b) because the restriction or prohibition is not mentioned in the draft order, the person has not been given a notice under paragraph 2(5).
@@ -100,7 +100,7 @@ summary: ''
 
 ### SEPA's advice
 
-**4.**[^key-12c78780c2aa481bbf6dd9b1d2e7c96d] (1) The Scottish Ministers must seek SEPA's advice in relation to—
+**4.**[^c-12c78780c2aa481bbf6dd9b1d2e7c96d] (1) The Scottish Ministers must seek SEPA's advice in relation to—
 
 - (a) any adverse impact on the water environment that may arise if a water shortage order were made in the same terms as the draft order,
 - (b) the need to restrict or prohibit the abstraction of water by any person, by reason of any such adverse impact.
@@ -114,7 +114,7 @@ summary: ''
 
 ### Representations and decision
 
-**5.**[^key-9c2ec31de7ed1bf87ab4c4215f47562c] (1) The Scottish Ministers must not decide whether to make a water shortage order until—
+**5.**[^c-9c2ec31de7ed1bf87ab4c4215f47562c] (1) The Scottish Ministers must not decide whether to make a water shortage order until—
 
 - (a) the period for making representations under paragraphs 1 to 3 has expired, and
 - (b) they have received advice under paragraph 4.
@@ -134,7 +134,7 @@ summary: ''
 
 ### Publication of order
 
-**6.**[^key-45343f8a2292bd5f9925ad844420d234] (1) Where the Scottish Ministers make a water shortage order, Scottish Water must publish notice of the order—
+**6.**[^c-45343f8a2292bd5f9925ad844420d234] (1) Where the Scottish Ministers make a water shortage order, Scottish Water must publish notice of the order—
 
 - (a) in at least one newspaper circulating in the area to which the order relates,
 - (b) on its website, and
@@ -158,7 +158,7 @@ summary: ''
 
 ### Notice regarding abstraction
 
-**7.**[^key-d805ecec2cac1b563daeab98f8f9595f] Where the Scottish Ministers make a water shortage order that restricts or prohibits the abstraction of water by any person, the Scottish Ministers must give the person—
+**7.**[^c-d805ecec2cac1b563daeab98f8f9595f] Where the Scottish Ministers make a water shortage order that restricts or prohibits the abstraction of water by any person, the Scottish Ministers must give the person—
 
 - (a) a copy of the order,
 - (b) a notice—
@@ -168,7 +168,7 @@ summary: ''
 
 ### Effect of order
 
-**8.**[^key-bee98274a6978dd08f82958182e27ba3] (1) An ordinary water shortage order—
+**8.**[^c-bee98274a6978dd08f82958182e27ba3] (1) An ordinary water shortage order—
 
 - (a) has effect from the day 3 days after the day on which notice of it is published under paragraph 6,
 - (b) ceases to have effect on the day falling 6 months after the day on which it first has effect.
@@ -187,7 +187,7 @@ summary: ''
 
 ### Notice of extension
 
-**9.**[^key-60e738c46fd2815f32984d9467e4bf2c] (1) This paragraph applies where the Scottish Ministers extend the period for which a water shortage order has effect under paragraph 8(3).
+**9.**[^c-60e738c46fd2815f32984d9467e4bf2c] (1) This paragraph applies where the Scottish Ministers extend the period for which a water shortage order has effect under paragraph 8(3).
 
 (2) Scottish Water must publish notice of the extension—
 
@@ -215,7 +215,7 @@ summary: ''
 
 ### Appeal against extension
 
-**10.**[^key-943b791659b83a523c8f15855a8263d9] (1) A person who is aggrieved by the extension of the period for which a water shortage order has effect under paragraph 8(3) may appeal to the sheriff.
+**10.**[^c-943b791659b83a523c8f15855a8263d9] (1) A person who is aggrieved by the extension of the period for which a water shortage order has effect under paragraph 8(3) may appeal to the sheriff.
 
 (2) An appeal under sub-paragraph (1) must be made—
 
@@ -233,7 +233,7 @@ summary: ''
 
 ### Review and revocation of order
 
-**11.**[^key-fc7dfa6791320cd8b420e7bf082f87e6] (1) The Scottish Ministers may review a water shortage order at any time.
+**11.**[^c-fc7dfa6791320cd8b420e7bf082f87e6] (1) The Scottish Ministers may review a water shortage order at any time.
 
 (2) Following such a review, the Scottish Ministers may revoke the order wholly or partly.
 
@@ -247,7 +247,7 @@ summary: ''
 
 ### Power to enter
 
-**12.**[^key-36b7ed043006a2d1f375a774d5c9710d] (1) Scottish Water may—
+**12.**[^c-36b7ed043006a2d1f375a774d5c9710d] (1) Scottish Water may—
 
 - (a) enter any premises for the purposes of—
   - (i) assessing whether there is a serious deficiency, or threat of a serious deficiency, of water supplies in an area,
@@ -260,7 +260,7 @@ summary: ''
 
 ### Entry warrants
 
-**13.**[^key-2a4b79f3cc5598b0ee7a958e092c9762] (1) Scottish Water may apply to the sheriff for a warrant authorising it to—
+**13.**[^c-2a4b79f3cc5598b0ee7a958e092c9762] (1) Scottish Water may apply to the sheriff for a warrant authorising it to—
 
 - (a) enter particular premises for the purposes mentioned in paragraph 12(1),
 - (b) take any steps at the premises which are reasonably required for those purposes.
@@ -292,7 +292,7 @@ summary: ''
 
 ### Approved persons
 
-**14.**[^key-acca80ad534be2e175518d3242cb7393] (1) Sub-paragraph (2) applies to the authority conferred on Scottish Water by—
+**14.**[^c-acca80ad534be2e175518d3242cb7393] (1) Sub-paragraph (2) applies to the authority conferred on Scottish Water by—
 
 - (a) paragraph 12(1), or
 - (b) a warrant under paragraph 13(1).
@@ -301,7 +301,7 @@ summary: ''
 
 ### Taking steps
 
-**15.**[^key-73f0e5f35dece926d5d7430f5767655d] (1) Sub-paragraphs (2) to (6) apply in relation to the exercise of the authority mentioned in paragraph 14(1)(a) or (b).
+**15.**[^c-73f0e5f35dece926d5d7430f5767655d] (1) Sub-paragraphs (2) to (6) apply in relation to the exercise of the authority mentioned in paragraph 14(1)(a) or (b).
 
 (2) An approved person must, if required by the occupier of the premises—
 
@@ -328,7 +328,7 @@ summary: ''
 
 ### Obstruction offence
 
-**16.**[^key-4292757545bfdf2902eaf0581eeeecf2] (1) A person commits an offence if the person intentionally obstructs an approved person in the exercise of the authority mentioned in paragraph 14(1)(b).
+**16.**[^c-4292757545bfdf2902eaf0581eeeecf2] (1) A person commits an offence if the person intentionally obstructs an approved person in the exercise of the authority mentioned in paragraph 14(1)(b).
 
 (2) In sub-paragraph (1), “**approved person**” means person approved as mentioned in paragraph 14(2).
 
@@ -336,7 +336,7 @@ summary: ''
 
 ### Compensation
 
-**17.**[^key-ff2c9554e4388fab39dfafd52363331e] (1) Scottish Water must compensate any person who has sustained loss or damage in consequence of—
+**17.**[^c-ff2c9554e4388fab39dfafd52363331e] (1) Scottish Water must compensate any person who has sustained loss or damage in consequence of—
 
 - (a) the abstraction or discharge of water by Scottish Water in accordance with a water shortage order,
 - (b) a restriction or prohibition on the abstraction of water imposed by such an order,
@@ -366,14 +366,14 @@ summary: ''
 
 ### References to publication etc.
 
-**18.**[^key-f4d0d1cda00f8a8f2e61d24cdd7d9598] (1) A relevant requirement is to be fulfilled without undue delay.
+**18.**[^c-f4d0d1cda00f8a8f2e61d24cdd7d9598] (1) A relevant requirement is to be fulfilled without undue delay.
 
 (2) In sub-paragraph (1), “**relevant requirement**” means requirement—
 
 - (a) to publish or give notice of something (or otherwise bring attention to it), and
 - (b) imposed on Scottish Water or the Scottish Ministers by paragraph 6, 7, 9 or 11.
 
-**19.**[^key-f7ab18191dbe84b7403cd8036f03d783] (1) A reference in this Part to the day on which a notice is published under paragraph 1, 6 or 9 is to the earliest day when the notice has been so published in each manner mentioned in sub-paragraph (2).
+**19.**[^c-f7ab18191dbe84b7403cd8036f03d783] (1) A reference in this Part to the day on which a notice is published under paragraph 1, 6 or 9 is to the earliest day when the notice has been so published in each manner mentioned in sub-paragraph (2).
 
 (2) That is, published by Scottish Water—
 
@@ -384,40 +384,40 @@ summary: ''
 
 ## Annotations
 
-[^key-259176fcd831e208f41dd555983f695c]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/asp/2013/5/schedule/1/paragraph/1) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
+[^c-259176fcd831e208f41dd555983f695c]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/asp/2013/5/schedule/1/paragraph/1) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
 
-[^key-0bd95cb02d02391af56c42d9bb8918c8]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/asp/2013/5/schedule/1/paragraph/2) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
+[^c-0bd95cb02d02391af56c42d9bb8918c8]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/asp/2013/5/schedule/1/paragraph/2) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
 
-[^key-ed67c716ca73136f4699bdb5fea97cb4]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/asp/2013/5/schedule/1/paragraph/3) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
+[^c-ed67c716ca73136f4699bdb5fea97cb4]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/asp/2013/5/schedule/1/paragraph/3) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
 
-[^key-12c78780c2aa481bbf6dd9b1d2e7c96d]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/asp/2013/5/schedule/1/paragraph/4) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
+[^c-12c78780c2aa481bbf6dd9b1d2e7c96d]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/asp/2013/5/schedule/1/paragraph/4) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
 
-[^key-9c2ec31de7ed1bf87ab4c4215f47562c]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/asp/2013/5/schedule/1/paragraph/5) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
+[^c-9c2ec31de7ed1bf87ab4c4215f47562c]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/asp/2013/5/schedule/1/paragraph/5) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
 
-[^key-45343f8a2292bd5f9925ad844420d234]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/asp/2013/5/schedule/1/paragraph/6) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
+[^c-45343f8a2292bd5f9925ad844420d234]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/asp/2013/5/schedule/1/paragraph/6) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
 
-[^key-d805ecec2cac1b563daeab98f8f9595f]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/asp/2013/5/schedule/1/paragraph/7) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
+[^c-d805ecec2cac1b563daeab98f8f9595f]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/asp/2013/5/schedule/1/paragraph/7) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
 
-[^key-bee98274a6978dd08f82958182e27ba3]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/asp/2013/5/schedule/1/paragraph/8) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
+[^c-bee98274a6978dd08f82958182e27ba3]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/asp/2013/5/schedule/1/paragraph/8) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
 
-[^key-60e738c46fd2815f32984d9467e4bf2c]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/asp/2013/5/schedule/1/paragraph/9) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
+[^c-60e738c46fd2815f32984d9467e4bf2c]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/asp/2013/5/schedule/1/paragraph/9) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
 
-[^key-943b791659b83a523c8f15855a8263d9]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/asp/2013/5/schedule/1/paragraph/10) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
+[^c-943b791659b83a523c8f15855a8263d9]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/asp/2013/5/schedule/1/paragraph/10) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
 
-[^key-fc7dfa6791320cd8b420e7bf082f87e6]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/asp/2013/5/schedule/1/paragraph/11) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
+[^c-fc7dfa6791320cd8b420e7bf082f87e6]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/asp/2013/5/schedule/1/paragraph/11) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
 
-[^key-36b7ed043006a2d1f375a774d5c9710d]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/asp/2013/5/schedule/1/paragraph/12) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
+[^c-36b7ed043006a2d1f375a774d5c9710d]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/asp/2013/5/schedule/1/paragraph/12) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
 
-[^key-2a4b79f3cc5598b0ee7a958e092c9762]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/asp/2013/5/schedule/1/paragraph/13) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
+[^c-2a4b79f3cc5598b0ee7a958e092c9762]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/asp/2013/5/schedule/1/paragraph/13) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
 
-[^key-acca80ad534be2e175518d3242cb7393]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/asp/2013/5/schedule/1/paragraph/14) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
+[^c-acca80ad534be2e175518d3242cb7393]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/asp/2013/5/schedule/1/paragraph/14) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
 
-[^key-73f0e5f35dece926d5d7430f5767655d]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/asp/2013/5/schedule/1/paragraph/15) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
+[^c-73f0e5f35dece926d5d7430f5767655d]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/asp/2013/5/schedule/1/paragraph/15) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
 
-[^key-4292757545bfdf2902eaf0581eeeecf2]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/asp/2013/5/schedule/1/paragraph/16) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
+[^c-4292757545bfdf2902eaf0581eeeecf2]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/asp/2013/5/schedule/1/paragraph/16) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
 
-[^key-ff2c9554e4388fab39dfafd52363331e]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/asp/2013/5/schedule/1/paragraph/17) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
+[^c-ff2c9554e4388fab39dfafd52363331e]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/asp/2013/5/schedule/1/paragraph/17) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
 
-[^key-f4d0d1cda00f8a8f2e61d24cdd7d9598]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/asp/2013/5/schedule/1/paragraph/18) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
+[^c-f4d0d1cda00f8a8f2e61d24cdd7d9598]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/asp/2013/5/schedule/1/paragraph/18) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
 
-[^key-f7ab18191dbe84b7403cd8036f03d783]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/asp/2013/5/schedule/1/paragraph/19) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
+[^c-f7ab18191dbe84b7403cd8036f03d783]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/asp/2013/5/schedule/1/paragraph/19) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)

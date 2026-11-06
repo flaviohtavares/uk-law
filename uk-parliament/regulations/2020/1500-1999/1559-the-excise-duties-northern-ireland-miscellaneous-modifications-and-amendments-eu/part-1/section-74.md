@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**74.**[^key-f85266bbcb67aa30845b432e212564e8] In regulation 83—
+**74.**[^c-f85266bbcb67aa30845b432e212564e8] In regulation 83—
 
 - (a) for “Part 11” substitute “Part 9C”;
 - (b) for “another” substitute “an EU”;
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f85266bbcb67aa30845b432e212564e8]: Textual amendment: Reg. 74 substituted (13.2.2023) by [The Excise Duties and Value Added Tax (Northern Ireland) (Miscellaneous Modifications and Amendments) Regulations 2023 (S.I. 2023/64)](https://www.legislation.gov.uk/uksi/2023/64), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2), [Sch. 2 para. 36](https://www.legislation.gov.uk/uksi/2023/64/schedule/2/paragraph/36)
+[^c-f85266bbcb67aa30845b432e212564e8]: Textual amendment: Reg. 74 substituted (13.2.2023) by [The Excise Duties and Value Added Tax (Northern Ireland) (Miscellaneous Modifications and Amendments) Regulations 2023 (S.I. 2023/64)](https://www.legislation.gov.uk/uksi/2023/64), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2), [Sch. 2 para. 36](https://www.legislation.gov.uk/uksi/2023/64/schedule/2/paragraph/36)

@@ -33,18 +33,18 @@ London Regional Transport (Amendment) Act 1985 (repealed)
 
 \[11th March 1985\]
 
-[^key-861663c9f4ed53933d7ebe2485b6393c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-861663c9f4ed53933d7ebe2485b6393c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Grant by Greater London CouncilGLC for initial year of LRT.[^key-861663c9f4ed53933d7ebe2485b6393c][^key-861663c9f4ed53933d7ebe2485b6393c]
+## 1. Grant by Greater London CouncilGLC for initial year of LRT.[^c-861663c9f4ed53933d7ebe2485b6393c][^c-861663c9f4ed53933d7ebe2485b6393c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Short title.[^key-861663c9f4ed53933d7ebe2485b6393c][^key-861663c9f4ed53933d7ebe2485b6393c]
+## 2. Short title.[^c-861663c9f4ed53933d7ebe2485b6393c][^c-861663c9f4ed53933d7ebe2485b6393c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-861663c9f4ed53933d7ebe2485b6393c]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1985/10) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/5) Group 6
+[^c-861663c9f4ed53933d7ebe2485b6393c]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1985/10) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/5) Group 6

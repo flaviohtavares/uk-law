@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Producers: effect of compliance scheme membership[^key-dc91d4ac0c35a2c384e9ffa26ecce6ea]
+## 42. Producers: effect of compliance scheme membership[^c-dc91d4ac0c35a2c384e9ffa26ecce6ea]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ the producer is exempt from complying for the relevant year with its registratio
 
 ## Annotations
 
-[^key-dc91d4ac0c35a2c384e9ffa26ecce6ea]: Commencement: Reg. 42 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-dc91d4ac0c35a2c384e9ffa26ecce6ea]: Commencement: Reg. 42 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 52. Power of employing authority to increase total membership of new members[^key-b0d46ca56206b02fb7a287a19ca066be]
+## 52. Power of employing authority to increase total membership of new members[^c-b0d46ca56206b02fb7a287a19ca066be]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b0d46ca56206b02fb7a287a19ca066be]: Commencement: Reg. 52 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-b0d46ca56206b02fb7a287a19ca066be]: Commencement: Reg. 52 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

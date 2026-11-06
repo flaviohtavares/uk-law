@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 14. Directions to delegates as regards performance of designated functions[^key-e2745c6dc4bd0db1ee9d15ccec312088]
+## 14. Directions to delegates as regards performance of designated functions[^c-e2745c6dc4bd0db1ee9d15ccec312088]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e2745c6dc4bd0db1ee9d15ccec312088]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2010/5/section/14) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(a)](https://www.legislation.gov.uk/ssi/2010/230/article/2/a)
+[^c-e2745c6dc4bd0db1ee9d15ccec312088]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2010/5/section/14) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(a)](https://www.legislation.gov.uk/ssi/2010/230/article/2/a)

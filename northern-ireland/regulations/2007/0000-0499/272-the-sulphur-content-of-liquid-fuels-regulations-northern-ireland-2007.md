@@ -41,16 +41,16 @@ Coming into operation
 
 The Department of the Environment, being designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the control of air pollution, makes the following Regulations in exercise of the powers conferred on it by section 2(2) of that Act:
 
-## 1. Citation and commencement[^key-8ebe63974577209a4cfadea4781e7009]
+## 1. Citation and commencement[^c-8ebe63974577209a4cfadea4781e7009]
 
 These Regulations may be cited as the Sulphur Content of Liquid Fuels Regulations (Northern Ireland) 2007 and shall come into operation on 31<sup>st</sup> May 2007.
 
-## 2. Interpretation[^key-b17515d59f2df260b156e9e880a4a494]
+## 2. Interpretation[^c-b17515d59f2df260b156e9e880a4a494]
 
 (1) In these Regulations—
 
 - “combustion plant” means any technical apparatus in which fuels are oxidised in order to use the heat generated;
-- “Directive ([^key-0792d4918af788e10d04a8256fe87808]EU) 2016/802” means Directive (EU) 2016/802 of the European Parliament and of the Council of 11 May 2016 relating to a reduction in the sulphur content of certain liquid fuels;
+- “Directive ([^c-0792d4918af788e10d04a8256fe87808]EU) 2016/802” means Directive (EU) 2016/802 of the European Parliament and of the Council of 11 May 2016 relating to a reduction in the sulphur content of certain liquid fuels;
 - “gas oil” means any petroleum-derived liquid fuel—
   - (a) that falls within CN code 2710 19 25, 2710 19 29, 2710 19 47, 2710 19 48, 2710 20 17 or 2710 20 19; or
   - (b) of which less than 65 per cent by volume (including losses) distils at 250°C and of which at least 85 per cent by volume (including losses) distils at 350°C by the ASTM D86 method,
@@ -71,11 +71,11 @@ These Regulations may be cited as the Sulphur Content of Liquid Fuels Regulation
 - (a) “ASTM method” means a method laid down by the American Society for Testing and Materials in the 1976 edition of standard definitions and specifications for petroleum and lubricating products; and
 - (b) the reference to a numbered CN code is a reference to the code set out in Annex I to Council Regulation 2658/87 on the tariff and statistical nomenclature and on the Common Customs Tariff;
 
-(3) Expressions used in these Regulations that also appear in Directive ([^key-958be4d35864946a4b218076bcfaa9a8]EU) 2016/802 have the same meaning as they do in that Directive.
+(3) Expressions used in these Regulations that also appear in Directive ([^c-958be4d35864946a4b218076bcfaa9a8]EU) 2016/802 have the same meaning as they do in that Directive.
 
 (4) The Interpretation Act (Northern Ireland) 1954 applies to these regulations as it applies to an Act of the Assembly.
 
-## 3. Application[^key-0291e97058c25d46d5344ccecb8cfc92]
+## 3. Application[^c-0291e97058c25d46d5344ccecb8cfc92]
 
 These Regulations do not apply to heavy fuel oil or gas oil intended for—
 
@@ -83,17 +83,17 @@ These Regulations do not apply to heavy fuel oil or gas oil intended for—
 - (b) processing prior to final combustion; or
 - (c) processing in the refining industry.
 
-## 4. Maximum sulphur content of heavy fuel oil[^key-23b5cb5dd47a2a7a626e7f2cd8321e1b]
+## 4. Maximum sulphur content of heavy fuel oil[^c-23b5cb5dd47a2a7a626e7f2cd8321e1b]
 
 (1) No person shall use any heavy fuel oil that has a sulphur content exceeding 1 per cent by mass.
 
 (2) Until 1st January 2016, paragraph (1) shall not apply to the use of heavy fuel oil—
 
 - (a) in a new plant that—
-  - (i) is subject to Article 4(1) of [Directive 2010/75/EU](https://www.legislation.gov.uk/european/directive/2010/0075)[^key-d2b88c29151d32bae7e6b2c2a588ecf5] and is operated in accordance with a permit containing a condition that emission limit values for sulphur dioxide are at least as stringent as those set out for new plants in Part A of Annex IV of that Directive; or
+  - (i) is subject to Article 4(1) of [Directive 2010/75/EU](https://www.legislation.gov.uk/european/directive/2010/0075)[^c-d2b88c29151d32bae7e6b2c2a588ecf5] and is operated in accordance with a permit containing a condition that emission limit values for sulphur dioxide are at least as stringent as those set out for new plants in Part A of Annex IV of that Directive; or
   - (ii) is subject to Article 4(2) of [Directive 2010/75/EU](https://www.legislation.gov.uk/european/directive/2010/0075) and is operated in accordance with a permit containing a condition that emission limit values for sulphur dioxide are at least as stringent as those set out for new plants in Part B of Annex IV of that Directive;
 - (b) in an existing plant—
-  - (i) operated in accordance with a permit containing a condition that emission limit values for sulphur dioxide are at least as stringent as those set out for new plants in Part A of Annex IV of [Directive 2010/75/EU](https://www.legislation.gov.uk/european/directive/2010/0075)[^key-3026188671f7734d48711a297dec840a] ; or
+  - (i) operated in accordance with a permit containing a condition that emission limit values for sulphur dioxide are at least as stringent as those set out for new plants in Part A of Annex IV of [Directive 2010/75/EU](https://www.legislation.gov.uk/european/directive/2010/0075)[^c-3026188671f7734d48711a297dec840a] ; or
   - (ii) that is a participating plant operated in accordance with a permit containing a condition prohibiting the monthly average emissions of sulphur dioxide from the plant from exceeding 1,700 mg/Nm<sup>3</sup> at an oxygen content in the flue gas of 3 per cent by volume on a dry basis;
 - (c) in a combustion plant, other than a plant to which sub-paragraph (a) or (b) applies, that is operated in accordance with a permit containing a condition prohibiting the monthly average of emissions of sulphur dioxide from the plant from exceeding 1,700 mg/Nm<sup>3</sup> at an oxygen content in the flue gas of 3 per cent by volume on a dry basis; or
 - (d) in a combustion plant, other than a gas engine, a gas turbine or a plant to which sub-paragraph (a) or (b) applies, that—
@@ -135,11 +135,11 @@ These Regulations do not apply to heavy fuel oil or gas oil intended for—
 
 (6) Schedule 1 (Sulphur content of liquid fuels permits) has effect.
 
-## 5. Maximum sulphur content in gas oil[^key-437a12b47311c375dc8de13d60cd8866]
+## 5. Maximum sulphur content in gas oil[^c-437a12b47311c375dc8de13d60cd8866]
 
 No person shall use any gas oil that has a sulphur content exceeding 0.1 per cent by mass.
 
-## 6. Sampling and analysis[^key-c62576e9af8b991a6851ae772fc543bd]
+## 6. Sampling and analysis[^c-c62576e9af8b991a6851ae772fc543bd]
 
 (1) The Department shall take all necessary measures to ensure that periodic sampling is carried out of heavy fuel oil and gas oil and that the samples are analysed to check that the use of those fuels complies with regulations 4(1) and 5.
 
@@ -149,7 +149,7 @@ No person shall use any gas oil that has a sulphur content exceeding 0.1 per cen
 
 (4) The reference method adopted for determining the sulphur content of fuels sampled pursuant to paragraph (1) shall be defined by ISO method 8754 (2003) or EN ISO 14596 (2007).
 
-## 7. Offences and penalties[^key-45cedb6da0454b44bd5d8986ea5d3468]
+## 7. Offences and penalties[^c-45cedb6da0454b44bd5d8986ea5d3468]
 
 (1) A person is guilty of an offence if he contravenes regulation 4(1) or 5, or causes or permits another person to do so.
 
@@ -157,7 +157,7 @@ No person shall use any gas oil that has a sulphur content exceeding 0.1 per cen
 
 (3) For the purposes of these Regulations section 20(2) of the Interpretation Act (Northern Ireland) 1954 applies with the omission of the words “the liability of whose members is limited” and where the affairs of a body corporate are managed by its members, applies in relation to the acts or defaults of a member in connection with his functions of management as if he were a director of the body corporate.
 
-## 8. Revocation and saving[^key-783b3e8c431d2c506158e79b784f51e2]
+## 8. Revocation and saving[^c-783b3e8c431d2c506158e79b784f51e2]
 
 (1) Subject to paragraph (2), the Sulphur Content of Liquid Fuels Regulations (Northern Ireland) 2002 are revoked.
 
@@ -176,48 +176,48 @@ A senior officer of the Department of the Environment
 
 ## SCHEDULE 1 — Sulphur content of liquid fuel permits
 
-Regulation 4(6)[^key-c2a9432f8cba0f869f61cd1d99287b3e]
+Regulation 4(6)[^c-c2a9432f8cba0f869f61cd1d99287b3e]
 
-**1.**[^key-a95921c840a6b1bab08beffd1707ebbb] An operator of a combustion plant[^key-374c2b3c1aab810dcf9381a59c947c89] who wishes to operate that plant under an exception provided for in regulation 4(2) or 4(3)[^key-dc4ed6d5a02c7619faceac0078a8b8d6] may apply to the enforcing authority for a sulphur content of liquid fuels permit if the operation of that plant does not require—
+**1.**[^c-a95921c840a6b1bab08beffd1707ebbb] An operator of a combustion plant[^c-374c2b3c1aab810dcf9381a59c947c89] who wishes to operate that plant under an exception provided for in regulation 4(2) or 4(3)[^c-dc4ed6d5a02c7619faceac0078a8b8d6] may apply to the enforcing authority for a sulphur content of liquid fuels permit if the operation of that plant does not require—
 
 - (a) an authorisation under Article 6 of the 1997 Order; or
 - (b) a permit under regulations made under Article 4 of the Environment (Northern Ireland) Order 2002[^f00013]
 
-**2.**[^key-b32a2846f6aa96b5b24e0bc083ed1f86] An application under paragraph 1 shall be in writing and accompanied by a fee prescribed in relation to that application by a scheme under Article 8(2) of the 1997 Order and shall contain—
+**2.**[^c-b32a2846f6aa96b5b24e0bc083ed1f86] An application under paragraph 1 shall be in writing and accompanied by a fee prescribed in relation to that application by a scheme under Article 8(2) of the 1997 Order and shall contain—
 
 - (a) the name and address of the applicant and any other address to which correspondence should be sent and the applicant’s telephone number;
 - (b) the address of the site of the combustion plant, the rated thermal input (in megawatts) and the fuel used in the plant; and
-- (c) the condition which the applicant wishes to be included in the permit, being a condition referred to in regulation 4(2) or 4(3)[^key-5d12e4d8b805beb898f10d1feee57fe5].
+- (c) the condition which the applicant wishes to be included in the permit, being a condition referred to in regulation 4(2) or 4(3)[^c-5d12e4d8b805beb898f10d1feee57fe5].
 
-**3.**[^key-6128c933c1dc59a436a3d687a7b9580e] An applicant may withdraw his application at any time before it is determined.
+**3.**[^c-6128c933c1dc59a436a3d687a7b9580e] An applicant may withdraw his application at any time before it is determined.
 
-**4.**[^key-99fecd6e358d6b98b4528e62c1d99b7a] An enforcing authority which receives a duly made application under paragraph 1 shall grant a sulphur content of liquid fuels permit subject to the condition identified in the application.
+**4.**[^c-99fecd6e358d6b98b4528e62c1d99b7a] An enforcing authority which receives a duly made application under paragraph 1 shall grant a sulphur content of liquid fuels permit subject to the condition identified in the application.
 
-**5.**[^key-6329bf875f7af2afeb70d409ec97958e] A sulphur content of liquid fuels permit may be transferred by the holder of the permit to a person who intends to operate the plant to which the permit relates in place of the holder.
+**5.**[^c-6329bf875f7af2afeb70d409ec97958e] A sulphur content of liquid fuels permit may be transferred by the holder of the permit to a person who intends to operate the plant to which the permit relates in place of the holder.
 
-**6.**[^key-185019f7f9874843bb4ffe9e4725df29] The person to whom a sulphur content of liquid fuels permit is transferred as permitted by paragraph 5 shall—
+**6.**[^c-185019f7f9874843bb4ffe9e4725df29] The person to whom a sulphur content of liquid fuels permit is transferred as permitted by paragraph 5 shall—
 
 - (a) notify the transfer in writing to the enforcing authority which granted the permit; and
 - (b) do so within 21 days of the date of the transfer.
 
-**7.**[^key-c2ebff4aab66266e647e9cfb1c952281] The holder of a sulphur content of liquid fuels permit may surrender it to the enforcing authority which granted it and such a surrender—
+**7.**[^c-c2ebff4aab66266e647e9cfb1c952281] The holder of a sulphur content of liquid fuels permit may surrender it to the enforcing authority which granted it and such a surrender—
 
 - (a) shall be notified in writing to the enforcing authority within 21 days of the date of the intended surrender; and
 - (b) where duly notified shall take effect on the surrender date stated in the notification.
 
-**8.**[^key-55b653d728efbea1bfd17bad0118ee8b] In this Schedule “enforcing authority” in relation to the discharge of functions under these Regulations, means either the chief inspector or district council by whom the functions are determined to be exercisable.
+**8.**[^c-55b653d728efbea1bfd17bad0118ee8b] In this Schedule “enforcing authority” in relation to the discharge of functions under these Regulations, means either the chief inspector or district council by whom the functions are determined to be exercisable.
 
-**9.**[^key-b8c5cf29521205cc45e9ddf578f1932a] Regulation 7 of the 2013 Regulations (Discharge and scope of functions) shall apply to functions under these Regulations as it applies to functions under the 2013 Regulations.
+**9.**[^c-b8c5cf29521205cc45e9ddf578f1932a] Regulation 7 of the 2013 Regulations (Discharge and scope of functions) shall apply to functions under these Regulations as it applies to functions under the 2013 Regulations.
 
-**10.**[^key-2f44bf9900f2bd290703db0a2550af73] Article 8 of the 1997 Order shall apply for the purpose of prescribing a fee in respect of an application under paragraph 1 as it applies for the purposes of prescribing a fee in respect of an application for an authorisation granted under Article 6 of the Order.
+**10.**[^c-2f44bf9900f2bd290703db0a2550af73] Article 8 of the 1997 Order shall apply for the purpose of prescribing a fee in respect of an application under paragraph 1 as it applies for the purposes of prescribing a fee in respect of an application for an authorisation granted under Article 6 of the Order.
 
 ## SCHEDULE 2
 
-**....**[^key-a67ee67cd6a9318554ea8754112bad52][^key-a67ee67cd6a9318554ea8754112bad52] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**....**[^c-a67ee67cd6a9318554ea8754112bad52][^c-a67ee67cd6a9318554ea8754112bad52] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a67ee67cd6a9318554ea8754112bad52][^key-31442916d5294ff795f13a4dd3f5e797] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a67ee67cd6a9318554ea8754112bad52][^c-31442916d5294ff795f13a4dd3f5e797] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a67ee67cd6a9318554ea8754112bad52][^key-57707c43ba50ea0ef4291c5bda0b0748] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a67ee67cd6a9318554ea8754112bad52][^c-57707c43ba50ea0ef4291c5bda0b0748] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 EXPLANATORY NOTE
 
@@ -251,62 +251,62 @@ Copies of the Directive can be obtained from the Stationery Office Bookshop, 16 
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68)
 
-[^key-8ebe63974577209a4cfadea4781e7009]: Commencement: Reg. 1 in operation at 31.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/272/regulation/1)
+[^c-8ebe63974577209a4cfadea4781e7009]: Commencement: Reg. 1 in operation at 31.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/272/regulation/1)
 
-[^key-b17515d59f2df260b156e9e880a4a494]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2007/272/regulation/2) substituted (18.6.2014) by [The Sulphur Content of Liquid Fuels (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/147)](https://www.legislation.gov.uk/nisr/2014/147), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/147/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2014/147/regulation/3)
+[^c-b17515d59f2df260b156e9e880a4a494]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2007/272/regulation/2) substituted (18.6.2014) by [The Sulphur Content of Liquid Fuels (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/147)](https://www.legislation.gov.uk/nisr/2014/147), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/147/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2014/147/regulation/3)
 
-[^key-0792d4918af788e10d04a8256fe87808]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/272/regulation/2/1) substituted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 3 para. 2](https://www.legislation.gov.uk/nisr/2018/200/schedule/3/paragraph/2)
+[^c-0792d4918af788e10d04a8256fe87808]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/272/regulation/2/1) substituted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 3 para. 2](https://www.legislation.gov.uk/nisr/2018/200/schedule/3/paragraph/2)
 
-[^key-958be4d35864946a4b218076bcfaa9a8]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/nisr/2007/272/regulation/2/3) substituted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 3 para. 3](https://www.legislation.gov.uk/nisr/2018/200/schedule/3/paragraph/3)
+[^c-958be4d35864946a4b218076bcfaa9a8]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/nisr/2007/272/regulation/2/3) substituted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 3 para. 3](https://www.legislation.gov.uk/nisr/2018/200/schedule/3/paragraph/3)
 
-[^key-0291e97058c25d46d5344ccecb8cfc92]: Commencement: Reg. 3 in operation at 31.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/272/regulation/1)
+[^c-0291e97058c25d46d5344ccecb8cfc92]: Commencement: Reg. 3 in operation at 31.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/272/regulation/1)
 
-[^key-23b5cb5dd47a2a7a626e7f2cd8321e1b]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2007/272/regulation/4) substituted (18.6.2014) by [The Sulphur Content of Liquid Fuels (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/147)](https://www.legislation.gov.uk/nisr/2014/147), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/147/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2014/147/regulation/4)
+[^c-23b5cb5dd47a2a7a626e7f2cd8321e1b]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2007/272/regulation/4) substituted (18.6.2014) by [The Sulphur Content of Liquid Fuels (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/147)](https://www.legislation.gov.uk/nisr/2014/147), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/147/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2014/147/regulation/4)
 
-[^key-d2b88c29151d32bae7e6b2c2a588ecf5]: Textual amendment: Words in [reg. 4(2)(a)(i)](https://www.legislation.gov.uk/nisr/2007/272/regulation/4/2/a/i)[(ii)](https://www.legislation.gov.uk/nisr/2007/272/regulation/4/2/a/ii) substituted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 3 para. 4](https://www.legislation.gov.uk/nisr/2018/200/schedule/3/paragraph/4)
+[^c-d2b88c29151d32bae7e6b2c2a588ecf5]: Textual amendment: Words in [reg. 4(2)(a)(i)](https://www.legislation.gov.uk/nisr/2007/272/regulation/4/2/a/i)[(ii)](https://www.legislation.gov.uk/nisr/2007/272/regulation/4/2/a/ii) substituted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 3 para. 4](https://www.legislation.gov.uk/nisr/2018/200/schedule/3/paragraph/4)
 
-[^key-3026188671f7734d48711a297dec840a]: Textual amendment: Words in [reg. 4(2)(b)](https://www.legislation.gov.uk/nisr/2007/272/regulation/4/2/b) substituted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 3 para. 4](https://www.legislation.gov.uk/nisr/2018/200/schedule/3/paragraph/4)
+[^c-3026188671f7734d48711a297dec840a]: Textual amendment: Words in [reg. 4(2)(b)](https://www.legislation.gov.uk/nisr/2007/272/regulation/4/2/b) substituted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 3 para. 4](https://www.legislation.gov.uk/nisr/2018/200/schedule/3/paragraph/4)
 
-[^key-437a12b47311c375dc8de13d60cd8866]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/nisr/2007/272/regulation/5) substituted (18.6.2014) by [The Sulphur Content of Liquid Fuels (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/147)](https://www.legislation.gov.uk/nisr/2014/147), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/147/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2014/147/regulation/5)
+[^c-437a12b47311c375dc8de13d60cd8866]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/nisr/2007/272/regulation/5) substituted (18.6.2014) by [The Sulphur Content of Liquid Fuels (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/147)](https://www.legislation.gov.uk/nisr/2014/147), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/147/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2014/147/regulation/5)
 
-[^key-c62576e9af8b991a6851ae772fc543bd]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/nisr/2007/272/regulation/6) substituted (18.6.2014) by [The Sulphur Content of Liquid Fuels (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/147)](https://www.legislation.gov.uk/nisr/2014/147), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/147/regulation/1/1), [6](https://www.legislation.gov.uk/nisr/2014/147/regulation/6)
+[^c-c62576e9af8b991a6851ae772fc543bd]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/nisr/2007/272/regulation/6) substituted (18.6.2014) by [The Sulphur Content of Liquid Fuels (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/147)](https://www.legislation.gov.uk/nisr/2014/147), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/147/regulation/1/1), [6](https://www.legislation.gov.uk/nisr/2014/147/regulation/6)
 
-[^key-45cedb6da0454b44bd5d8986ea5d3468]: Commencement: Reg. 7 in operation at 31.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/272/regulation/1)
+[^c-45cedb6da0454b44bd5d8986ea5d3468]: Commencement: Reg. 7 in operation at 31.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/272/regulation/1)
 
-[^key-783b3e8c431d2c506158e79b784f51e2]: Commencement: Reg. 8 in operation at 31.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/272/regulation/1)
+[^c-783b3e8c431d2c506158e79b784f51e2]: Commencement: Reg. 8 in operation at 31.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/272/regulation/1)
 
-[^key-c2a9432f8cba0f869f61cd1d99287b3e]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2007/272/schedule/1) heading substituted (18.6.2014) by [The Sulphur Content of Liquid Fuels (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/147)](https://www.legislation.gov.uk/nisr/2014/147), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/147/regulation/1/1), [7(2)](https://www.legislation.gov.uk/nisr/2014/147/regulation/7/2)
+[^c-c2a9432f8cba0f869f61cd1d99287b3e]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2007/272/schedule/1) heading substituted (18.6.2014) by [The Sulphur Content of Liquid Fuels (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/147)](https://www.legislation.gov.uk/nisr/2014/147), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/147/regulation/1/1), [7(2)](https://www.legislation.gov.uk/nisr/2014/147/regulation/7/2)
 
-[^key-a95921c840a6b1bab08beffd1707ebbb]: Commencement: Sch. 1 para. 1 in operation at 31.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/272/regulation/1)
+[^c-a95921c840a6b1bab08beffd1707ebbb]: Commencement: Sch. 1 para. 1 in operation at 31.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/272/regulation/1)
 
-[^key-374c2b3c1aab810dcf9381a59c947c89]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2007/272/schedule/1/paragraph/1) substituted (18.6.2014) by [The Sulphur Content of Liquid Fuels (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/147)](https://www.legislation.gov.uk/nisr/2014/147), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/147/regulation/1/1), [7(3)](https://www.legislation.gov.uk/nisr/2014/147/regulation/7/3)
+[^c-374c2b3c1aab810dcf9381a59c947c89]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2007/272/schedule/1/paragraph/1) substituted (18.6.2014) by [The Sulphur Content of Liquid Fuels (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/147)](https://www.legislation.gov.uk/nisr/2014/147), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/147/regulation/1/1), [7(3)](https://www.legislation.gov.uk/nisr/2014/147/regulation/7/3)
 
-[^key-dc4ed6d5a02c7619faceac0078a8b8d6]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2007/272/schedule/1/paragraph/1) added (18.6.2014) by [The Sulphur Content of Liquid Fuels (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/147)](https://www.legislation.gov.uk/nisr/2014/147), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/147/regulation/1/1), [7(3)](https://www.legislation.gov.uk/nisr/2014/147/regulation/7/3)
+[^c-dc4ed6d5a02c7619faceac0078a8b8d6]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2007/272/schedule/1/paragraph/1) added (18.6.2014) by [The Sulphur Content of Liquid Fuels (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/147)](https://www.legislation.gov.uk/nisr/2014/147), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/147/regulation/1/1), [7(3)](https://www.legislation.gov.uk/nisr/2014/147/regulation/7/3)
 
 [^f00013]: Footnote: [S.I. 2002/3153 (N.I.)](https://www.legislation.gov.uk/nisi/2002/3153)
 
-[^key-b32a2846f6aa96b5b24e0bc083ed1f86]: Commencement: Sch. 1 para. 2 in operation at 31.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/272/regulation/1)
+[^c-b32a2846f6aa96b5b24e0bc083ed1f86]: Commencement: Sch. 1 para. 2 in operation at 31.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/272/regulation/1)
 
-[^key-5d12e4d8b805beb898f10d1feee57fe5]: Textual amendment: Words in [Sch. 1 para. 2(c)](https://www.legislation.gov.uk/nisr/2007/272/schedule/1/paragraph/2/c) added (18.6.2014) by [The Sulphur Content of Liquid Fuels (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/147)](https://www.legislation.gov.uk/nisr/2014/147), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/147/regulation/1/1), [7(4)](https://www.legislation.gov.uk/nisr/2014/147/regulation/7/4)
+[^c-5d12e4d8b805beb898f10d1feee57fe5]: Textual amendment: Words in [Sch. 1 para. 2(c)](https://www.legislation.gov.uk/nisr/2007/272/schedule/1/paragraph/2/c) added (18.6.2014) by [The Sulphur Content of Liquid Fuels (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/147)](https://www.legislation.gov.uk/nisr/2014/147), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/147/regulation/1/1), [7(4)](https://www.legislation.gov.uk/nisr/2014/147/regulation/7/4)
 
-[^key-6128c933c1dc59a436a3d687a7b9580e]: Commencement: Sch. 1 para. 3 in operation at 31.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/272/regulation/1)
+[^c-6128c933c1dc59a436a3d687a7b9580e]: Commencement: Sch. 1 para. 3 in operation at 31.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/272/regulation/1)
 
-[^key-99fecd6e358d6b98b4528e62c1d99b7a]: Commencement: Sch. 1 para. 4 in operation at 31.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/272/regulation/1)
+[^c-99fecd6e358d6b98b4528e62c1d99b7a]: Commencement: Sch. 1 para. 4 in operation at 31.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/272/regulation/1)
 
-[^key-6329bf875f7af2afeb70d409ec97958e]: Commencement: Sch. 1 para. 5 in operation at 31.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/272/regulation/1)
+[^c-6329bf875f7af2afeb70d409ec97958e]: Commencement: Sch. 1 para. 5 in operation at 31.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/272/regulation/1)
 
-[^key-185019f7f9874843bb4ffe9e4725df29]: Commencement: Sch. 1 para. 6 in operation at 31.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/272/regulation/1)
+[^c-185019f7f9874843bb4ffe9e4725df29]: Commencement: Sch. 1 para. 6 in operation at 31.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/272/regulation/1)
 
-[^key-c2ebff4aab66266e647e9cfb1c952281]: Commencement: Sch. 1 para. 7 in operation at 31.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/272/regulation/1)
+[^c-c2ebff4aab66266e647e9cfb1c952281]: Commencement: Sch. 1 para. 7 in operation at 31.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/272/regulation/1)
 
-[^key-55b653d728efbea1bfd17bad0118ee8b]: Commencement: Sch. 1 para. 8 in operation at 31.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/272/regulation/1)
+[^c-55b653d728efbea1bfd17bad0118ee8b]: Commencement: Sch. 1 para. 8 in operation at 31.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/272/regulation/1)
 
-[^key-b8c5cf29521205cc45e9ddf578f1932a]: Textual amendment: [Sch. 1 para. 9](https://www.legislation.gov.uk/nisr/2007/272/schedule/1/paragraph/9) substituted (18.6.2014) by [The Sulphur Content of Liquid Fuels (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/147)](https://www.legislation.gov.uk/nisr/2014/147), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/147/regulation/1/1), [7(5)](https://www.legislation.gov.uk/nisr/2014/147/regulation/7/5)
+[^c-b8c5cf29521205cc45e9ddf578f1932a]: Textual amendment: [Sch. 1 para. 9](https://www.legislation.gov.uk/nisr/2007/272/schedule/1/paragraph/9) substituted (18.6.2014) by [The Sulphur Content of Liquid Fuels (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/147)](https://www.legislation.gov.uk/nisr/2014/147), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/147/regulation/1/1), [7(5)](https://www.legislation.gov.uk/nisr/2014/147/regulation/7/5)
 
-[^key-2f44bf9900f2bd290703db0a2550af73]: Commencement: Sch. 1 para. 10 in operation at 31.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/272/regulation/1)
+[^c-2f44bf9900f2bd290703db0a2550af73]: Commencement: Sch. 1 para. 10 in operation at 31.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/272/regulation/1)
 
-[^key-a67ee67cd6a9318554ea8754112bad52]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/nisr/2007/272/schedule/2) repealed (18.6.2014) by [The Sulphur Content of Liquid Fuels (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/147)](https://www.legislation.gov.uk/nisr/2014/147), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/147/regulation/1/1), [8](https://www.legislation.gov.uk/nisr/2014/147/regulation/8)
+[^c-a67ee67cd6a9318554ea8754112bad52]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/nisr/2007/272/schedule/2) repealed (18.6.2014) by [The Sulphur Content of Liquid Fuels (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/147)](https://www.legislation.gov.uk/nisr/2014/147), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/147/regulation/1/1), [8](https://www.legislation.gov.uk/nisr/2014/147/regulation/8)
 
-[^key-31442916d5294ff795f13a4dd3f5e797]: Commencement: Sch. 2 para. 2 in operation at 31.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/272/regulation/1)
+[^c-31442916d5294ff795f13a4dd3f5e797]: Commencement: Sch. 2 para. 2 in operation at 31.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/272/regulation/1)
 
-[^key-57707c43ba50ea0ef4291c5bda0b0748]: Commencement: Sch. 2 para. 3 in operation at 31.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/272/regulation/1)
+[^c-57707c43ba50ea0ef4291c5bda0b0748]: Commencement: Sch. 2 para. 3 in operation at 31.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/272/regulation/1)

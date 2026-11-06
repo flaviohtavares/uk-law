@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 141. Article 2 of Commission Regulation [(EC) No 262/2009](https://www.legislation.gov.uk/eur/2009/262)[^key-7aa52d869e9798271d42017543264371]
+## 141. Article 2 of Commission Regulation [(EC) No 262/2009](https://www.legislation.gov.uk/eur/2009/262)[^c-7aa52d869e9798271d42017543264371]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7aa52d869e9798271d42017543264371]: Commencement: Reg. 141 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-7aa52d869e9798271d42017543264371]: Commencement: Reg. 141 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c24460691]: Marginal citation: OJ L 271, 18.10.2011, p. 23.

@@ -41,7 +41,7 @@ Coming into operation
 
 The Department of Health, Social Services and Public Safety, in exercise of the powers conferred on it by Article 176(5) of the Children (Northern Ireland) Order 1995[^f00001] and of all other powers enabling it in that behalf, after consultation with the Department of Education, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-9e57c4f5ad8e0cb27e447a8a2e6d9055]
+## 1. Citation, commencement and interpretation[^c-9e57c4f5ad8e0cb27e447a8a2e6d9055]
 
 (1) These Regulations may be cited as the Regulation and Improvement Authority (Inspection of Children, Records and Schools) Regulations (Northern Ireland) 2005 and shall come into operation on 14th November 2005.
 
@@ -51,7 +51,7 @@ The Department of Health, Social Services and Public Safety, in exercise of the 
 - “relevant school” means, in relation to an inspection, any school which provides accommodation for a child;
 - “nurse” means a person registered in the register maintained under Article 5 of the Nursing and Midwifery Order 2001[^f00003] by virtue of qualification in nursing or midwifery as the case may be.
 
-## 2. Inspection of premises[^key-970f52db82b25b00310df0eae66dc959]
+## 2. Inspection of premises[^c-970f52db82b25b00310df0eae66dc959]
 
 (1) An authorised person may inspect any premises which are, or are to be, premises of a relevant school.
 
@@ -59,7 +59,7 @@ The Department of Health, Social Services and Public Safety, in exercise of the 
 
 (3) An inspection under paragraph (1) may take place without notice to the managers.
 
-## 3. Inspection of children[^key-50653cf05d8da42abb37bec6139d9085]
+## 3. Inspection of children[^c-50653cf05d8da42abb37bec6139d9085]
 
 (1) Subject to the provisions of this regulation, an authorised person may carry out an inspection of the children who are accommodated in a relevant school either individually or together with other such children in such a school.
 
@@ -87,7 +87,7 @@ The Department of Health, Social Services and Public Safety, in exercise of the 
 
 unless the child is also a pupil at the relevant school.
 
-## 4. Inspection of records[^key-78446707334dfe53e776ba19d97e978c]
+## 4. Inspection of records[^c-78446707334dfe53e776ba19d97e978c]
 
 (1) An authorised person may carry out an inspection of the records specified in paragraph (2) held by—
 
@@ -108,7 +108,7 @@ in respect of all the children whom he has power to inspect pursuant to regulati
 - (h) details of any complaints made by any person in respect of the state of health, emotional or developmental well-being or welfare of a child in the school;
 - (i) details of the control, restraint and discipline of any child in the school.
 
-## 5. Revocation[^key-0584beaa8d6317add9f974cda7deba2c]
+## 5. Revocation[^c-0584beaa8d6317add9f974cda7deba2c]
 
 The Inspection of Premises, Children and Records (Children Accommodated in Schools) Regulations (Northern Ireland) 2000[^f00004] are hereby revoked.
 
@@ -128,18 +128,18 @@ These Regulations make provision for the inspection of schools, which provide ac
 
 [^f00001]: Footnote: [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755) (as amended by [S.I. 2003/431 (N.I. 9)](https://www.legislation.gov.uk/nisi/2003/431)
 
-[^key-9e57c4f5ad8e0cb27e447a8a2e6d9055]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2005/455/regulation/1) in operation at 14.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/455/regulation/1/1)
+[^c-9e57c4f5ad8e0cb27e447a8a2e6d9055]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2005/455/regulation/1) in operation at 14.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/455/regulation/1/1)
 
 [^f00002]: Footnote: Paragraph 4 was substituted by Schedule 4 of [S.I. 2003/431 (N.I. 9)](https://www.legislation.gov.uk/nisi/2003/431)
 
 [^f00003]: Footnote: [S.I. 2002/253](https://www.legislation.gov.uk/uksi/2002/253)
 
-[^key-970f52db82b25b00310df0eae66dc959]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2005/455/regulation/2) in operation at 14.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/455/regulation/1/1)
+[^c-970f52db82b25b00310df0eae66dc959]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2005/455/regulation/2) in operation at 14.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/455/regulation/1/1)
 
-[^key-50653cf05d8da42abb37bec6139d9085]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2005/455/regulation/3) in operation at 14.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/455/regulation/1/1)
+[^c-50653cf05d8da42abb37bec6139d9085]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2005/455/regulation/3) in operation at 14.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/455/regulation/1/1)
 
-[^key-78446707334dfe53e776ba19d97e978c]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2005/455/regulation/4) in operation at 14.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/455/regulation/1/1)
+[^c-78446707334dfe53e776ba19d97e978c]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2005/455/regulation/4) in operation at 14.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/455/regulation/1/1)
 
-[^key-0584beaa8d6317add9f974cda7deba2c]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2005/455/regulation/5) in operation at 14.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/455/regulation/1/1)
+[^c-0584beaa8d6317add9f974cda7deba2c]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2005/455/regulation/5) in operation at 14.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/455/regulation/1/1)
 
 [^f00004]: Footnote: [S.R. 2000 No. 179](https://www.legislation.gov.uk/nisr/2000/179)

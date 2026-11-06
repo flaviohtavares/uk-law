@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 245DA. Further provision about multiple orders[^key-37770eeb945bdf3524eadaca60c2248c]
+## 245DA. Further provision about multiple orders[^c-37770eeb945bdf3524eadaca60c2248c]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-37770eeb945bdf3524eadaca60c2248c]: Textual amendment: S. 245DA inserted (11.10.2019) by [Management of Offenders (Scotland) Act 2019 (asp 14)](https://www.legislation.gov.uk/asp/2019/14), [s. 63(2)](https://www.legislation.gov.uk/asp/2019/14/section/63/2), [sch. 1 para. 4(2)](https://www.legislation.gov.uk/asp/2019/14/schedule/1/paragraph/4/2); [S.S.I. 2019/309](https://www.legislation.gov.uk/ssi/2019/309), [reg. 2](https://www.legislation.gov.uk/ssi/2019/309/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/309/schedule)
+[^c-37770eeb945bdf3524eadaca60c2248c]: Textual amendment: S. 245DA inserted (11.10.2019) by [Management of Offenders (Scotland) Act 2019 (asp 14)](https://www.legislation.gov.uk/asp/2019/14), [s. 63(2)](https://www.legislation.gov.uk/asp/2019/14/section/63/2), [sch. 1 para. 4(2)](https://www.legislation.gov.uk/asp/2019/14/schedule/1/paragraph/4/2); [S.S.I. 2019/309](https://www.legislation.gov.uk/ssi/2019/309), [reg. 2](https://www.legislation.gov.uk/ssi/2019/309/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/309/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 4 — OTHER RECORDS[^key-71ade8f5f6c61c754054562decdbd8c0]
+## SCHEDULE 4 — OTHER RECORDS[^c-71ade8f5f6c61c754054562decdbd8c0]
 
 *Extent: E+W*
 
@@ -24,34 +24,34 @@ summary: ''
 
 Regulation 28(4)
 
-**1.**[^key-71ade8f5f6c61c754054562decdbd8c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-71ade8f5f6c61c754054562decdbd8c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-71ade8f5f6c61c754054562decdbd8c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-71ade8f5f6c61c754054562decdbd8c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-71ade8f5f6c61c754054562decdbd8c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-71ade8f5f6c61c754054562decdbd8c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-71ade8f5f6c61c754054562decdbd8c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-71ade8f5f6c61c754054562decdbd8c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-71ade8f5f6c61c754054562decdbd8c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-71ade8f5f6c61c754054562decdbd8c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-71ade8f5f6c61c754054562decdbd8c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-71ade8f5f6c61c754054562decdbd8c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-71ade8f5f6c61c754054562decdbd8c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-71ade8f5f6c61c754054562decdbd8c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-71ade8f5f6c61c754054562decdbd8c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-71ade8f5f6c61c754054562decdbd8c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-71ade8f5f6c61c754054562decdbd8c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-71ade8f5f6c61c754054562decdbd8c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-71ade8f5f6c61c754054562decdbd8c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-71ade8f5f6c61c754054562decdbd8c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-71ade8f5f6c61c754054562decdbd8c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-71ade8f5f6c61c754054562decdbd8c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-71ade8f5f6c61c754054562decdbd8c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-71ade8f5f6c61c754054562decdbd8c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-71ade8f5f6c61c754054562decdbd8c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-71ade8f5f6c61c754054562decdbd8c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-71ade8f5f6c61c754054562decdbd8c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-71ade8f5f6c61c754054562decdbd8c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-71ade8f5f6c61c754054562decdbd8c0]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2002/327) revoked (2.4.2018) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2018 (S.I. 2018/48)](https://www.legislation.gov.uk/wsi/2018/48), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/48/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/wsi/2018/48/schedule/2)
+[^c-71ade8f5f6c61c754054562decdbd8c0]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2002/327) revoked (2.4.2018) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2018 (S.I. 2018/48)](https://www.legislation.gov.uk/wsi/2018/48), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/48/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/wsi/2018/48/schedule/2)

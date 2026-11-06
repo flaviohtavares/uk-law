@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5.38. Secured creditors[^key-965d85c3bcffce35c6a74d13e9f1b7a8]
+## 5.38. Secured creditors[^c-965d85c3bcffce35c6a74d13e9f1b7a8]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-965d85c3bcffce35c6a74d13e9f1b7a8]: Commencement: Rule 5.38 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-965d85c3bcffce35c6a74d13e9f1b7a8]: Commencement: Rule 5.38 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3 — Subsystems[^key-9f5fb18027790a71d5acc6db8f365bf0]
+## SCHEDULE 3 — Subsystems[^c-9f5fb18027790a71d5acc6db8f365bf0]
 
 *Extent: E+W+S+N.I.*
 
@@ -82,4 +82,4 @@ The procedures, associated equipment, logistics centres for maintenance work and
 
 ## Annotations
 
-[^key-9f5fb18027790a71d5acc6db8f365bf0]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2011/3066/schedule/3) inserted (31.12.2020) by [The Railways (Interoperability) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/345)](https://www.legislation.gov.uk/uksi/2019/345), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/345/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2019/345/schedule/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9f5fb18027790a71d5acc6db8f365bf0]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2011/3066/schedule/3) inserted (31.12.2020) by [The Railways (Interoperability) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/345)](https://www.legislation.gov.uk/uksi/2019/345), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/345/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2019/345/schedule/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

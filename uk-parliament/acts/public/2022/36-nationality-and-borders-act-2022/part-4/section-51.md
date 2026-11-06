@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Persons subject to immigration control: assessment for immigration purposes[^key-992fd353ea699ca64df1550821dca9ea][^key-ac9d444e485987dbf3fe572aba4a2ed4]
+## 51. Persons subject to immigration control: assessment for immigration purposes[^c-992fd353ea699ca64df1550821dca9ea][^c-ac9d444e485987dbf3fe572aba4a2ed4]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ But this is subject to section 54(5) (decision of Tribunal to be binding on Secr
 
 ## Annotations
 
-[^key-992fd353ea699ca64df1550821dca9ea]: Commencement: S. 51 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
+[^c-992fd353ea699ca64df1550821dca9ea]: Commencement: S. 51 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
 
-[^key-ac9d444e485987dbf3fe572aba4a2ed4]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2022/36/section/51) in force at 31.3.2023 by [S.I. 2023/283](https://www.legislation.gov.uk/uksi/2023/283), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2023/283/regulation/2/c) (with [reg. 5](https://www.legislation.gov.uk/uksi/2023/283/regulation/5))
+[^c-ac9d444e485987dbf3fe572aba4a2ed4]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2022/36/section/51) in force at 31.3.2023 by [S.I. 2023/283](https://www.legislation.gov.uk/uksi/2023/283), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2023/283/regulation/2/c) (with [reg. 5](https://www.legislation.gov.uk/uksi/2023/283/regulation/5))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 10. Annual report and accounts[^key-2643e47aabd54a899b1635ac788f7dc0]
+## 10. Annual report and accounts[^c-2643e47aabd54a899b1635ac788f7dc0]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ The Minister of Health, Social Services and Public Safety shall lay before the A
 
 ## Annotations
 
-[^key-2643e47aabd54a899b1635ac788f7dc0]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/1999/859/article/10) in force at 2.12.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/859/article/1/2)
+[^c-2643e47aabd54a899b1635ac788f7dc0]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/1999/859/article/10) in force at 2.12.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/859/article/1/2)

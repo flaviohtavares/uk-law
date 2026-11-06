@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17. Extension of power to make conditions as to qualifications for admission to teacher training courses and for recommendations for registration.[^key-a25ac16455bbe8e60d39647d1e446ab5]
+## 17. Extension of power to make conditions as to qualifications for admission to teacher training courses and for recommendations for registration.[^c-a25ac16455bbe8e60d39647d1e446ab5]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a25ac16455bbe8e60d39647d1e446ab5]: Textual amendment: [S. 17](https://www.legislation.gov.uk/ukpga/1981/58/section/17) repealed (2.4.2012) by [The Public Services Reform (General Teaching Council for Scotland) Order 2011 (S.S.I. 2011/215)](https://www.legislation.gov.uk/ssi/2011/215), [art. 2](https://www.legislation.gov.uk/ssi/2011/215/article/2), [Sch. 7](https://www.legislation.gov.uk/ssi/2011/215/schedule/7)
+[^c-a25ac16455bbe8e60d39647d1e446ab5]: Textual amendment: [S. 17](https://www.legislation.gov.uk/ukpga/1981/58/section/17) repealed (2.4.2012) by [The Public Services Reform (General Teaching Council for Scotland) Order 2011 (S.S.I. 2011/215)](https://www.legislation.gov.uk/ssi/2011/215), [art. 2](https://www.legislation.gov.uk/ssi/2011/215/article/2), [Sch. 7](https://www.legislation.gov.uk/ssi/2011/215/schedule/7)

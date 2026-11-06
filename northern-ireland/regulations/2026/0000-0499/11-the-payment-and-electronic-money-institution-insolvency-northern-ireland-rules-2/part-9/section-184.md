@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 184. Notification by administrator of court order[^key-560be7cae5a2c103e71c73c26cc9fc5e]
+## 184. Notification by administrator of court order[^c-560be7cae5a2c103e71c73c26cc9fc5e]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ Where the court makes an order to end the special administration, the administra
 
 ## Annotations
 
-[^key-560be7cae5a2c103e71c73c26cc9fc5e]: Commencement: [Rule 184](https://www.legislation.gov.uk/nisr/2026/11/rule/184) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-560be7cae5a2c103e71c73c26cc9fc5e]: Commencement: [Rule 184](https://www.legislation.gov.uk/nisr/2026/11/rule/184) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

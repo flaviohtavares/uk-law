@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 3. Meaning of “misconduct”[^key-285df2e5c9eca46726aa7ebb98cda2bc]
+## 3. Meaning of “misconduct”[^c-285df2e5c9eca46726aa7ebb98cda2bc]
 
 *Extent: E*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-285df2e5c9eca46726aa7ebb98cda2bc]: Commencement: S. 3 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)
+[^c-285df2e5c9eca46726aa7ebb98cda2bc]: Commencement: S. 3 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)

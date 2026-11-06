@@ -35,24 +35,24 @@ on the interchange standard for the transmission of data required under Regulati
 
 (Text with EEA relevance) (revoked)
 
-[^key-ec431f1fafbddb8c4fa4270d524fbf57]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ec431f1fafbddb8c4fa4270d524fbf57]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Standard for the transmission of data[^key-ec431f1fafbddb8c4fa4270d524fbf57]
+## Article 1. Standard for the transmission of data[^c-ec431f1fafbddb8c4fa4270d524fbf57]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Technical specifications of data format[^key-ec431f1fafbddb8c4fa4270d524fbf57]
+## Article 2. Technical specifications of data format[^c-ec431f1fafbddb8c4fa4270d524fbf57]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Entry into force[^key-ec431f1fafbddb8c4fa4270d524fbf57]
+## Article 3. Entry into force[^c-ec431f1fafbddb8c4fa4270d524fbf57]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ec431f1fafbddb8c4fa4270d524fbf57]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ec431f1fafbddb8c4fa4270d524fbf57]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ec431f1fafbddb8c4fa4270d524fbf57]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 76](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/76)
+[^c-ec431f1fafbddb8c4fa4270d524fbf57]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 76](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/76)

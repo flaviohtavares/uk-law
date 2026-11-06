@@ -28,46 +28,46 @@ Disorderly Houses Act 1751 (repealed)
 
 1751 c.36
 
-[^key-50ac8e6e5f03809da99c3d84574890a6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-50ac8e6e5f03809da99c3d84574890a6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-50ac8e6e5f03809da99c3d84574890a6][^key-50ac8e6e5f03809da99c3d84574890a6]
-
-**May not be in force at this date. Check the source.**
-
-## 2—4. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-50ac8e6e5f03809da99c3d84574890a6][^key-50ac8e6e5f03809da99c3d84574890a6]
+## 1. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-50ac8e6e5f03809da99c3d84574890a6][^c-50ac8e6e5f03809da99c3d84574890a6]
 
 **May not be in force at this date. Check the source.**
 
-## 5—7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-50ac8e6e5f03809da99c3d84574890a6][^key-50ac8e6e5f03809da99c3d84574890a6]
+## 2—4. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-50ac8e6e5f03809da99c3d84574890a6][^c-50ac8e6e5f03809da99c3d84574890a6]
 
 **May not be in force at this date. Check the source.**
 
-## 8. Who shall be deemed the keeper of such bawdy-house, &c.[^key-50ac8e6e5f03809da99c3d84574890a6][^key-50ac8e6e5f03809da99c3d84574890a6]
+## 5—7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-50ac8e6e5f03809da99c3d84574890a6][^c-50ac8e6e5f03809da99c3d84574890a6]
+
+**May not be in force at this date. Check the source.**
+
+## 8. Who shall be deemed the keeper of such bawdy-house, &c.[^c-50ac8e6e5f03809da99c3d84574890a6][^c-50ac8e6e5f03809da99c3d84574890a6]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-50ac8e6e5f03809da99c3d84574890a6][^key-50ac8e6e5f03809da99c3d84574890a6]
+## 9. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-50ac8e6e5f03809da99c3d84574890a6][^c-50ac8e6e5f03809da99c3d84574890a6]
 
 **May not be in force at this date. Check the source.**
 
-## 10. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-50ac8e6e5f03809da99c3d84574890a6][^key-50ac8e6e5f03809da99c3d84574890a6]
+## 10. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-50ac8e6e5f03809da99c3d84574890a6][^c-50ac8e6e5f03809da99c3d84574890a6]
 
 **May not be in force at this date. Check the source.**
 
-## 11, 12. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-50ac8e6e5f03809da99c3d84574890a6][^key-50ac8e6e5f03809da99c3d84574890a6]
+## 11, 12. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-50ac8e6e5f03809da99c3d84574890a6][^c-50ac8e6e5f03809da99c3d84574890a6]
 
 **May not be in force at this date. Check the source.**
 
-## 13, 14. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-50ac8e6e5f03809da99c3d84574890a6][^key-50ac8e6e5f03809da99c3d84574890a6]
+## 13, 14. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-50ac8e6e5f03809da99c3d84574890a6][^c-50ac8e6e5f03809da99c3d84574890a6]
 
 **May not be in force at this date. Check the source.**
 
-## 15. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-50ac8e6e5f03809da99c3d84574890a6][^key-50ac8e6e5f03809da99c3d84574890a6]
+## 15. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-50ac8e6e5f03809da99c3d84574890a6][^c-50ac8e6e5f03809da99c3d84574890a6]
 
 **May not be in force at this date. Check the source.**
 
 ## Annotations
 
-[^key-50ac8e6e5f03809da99c3d84574890a6]: Textual amendment: [Act](https://www.legislation.gov.uk/apgb/Geo2/25/36) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/3)
+[^c-50ac8e6e5f03809da99c3d84574890a6]: Textual amendment: [Act](https://www.legislation.gov.uk/apgb/Geo2/25/36) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/3)

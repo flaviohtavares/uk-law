@@ -31,8 +31,8 @@ summary: ''
 where—
 
 - A is the relevant benefits figure (see paragraph (4));
-- B is the amount of reckonable service which R accrued in any office in relation to which benefits are calculated under the post-1995 provisions[^key-60f7b306e47f24502e30c4c710f2e47a] in the period beginning with the assumed contribution commencement date and ending with the date on which R retired, calculated in accordance with regulation 5(1) as though paragraph (2) of that regulation does not apply and, where regulation 4(4A) applies for the purposes of determining P’s qualifying fee-paid service, disapplying the multiplier of 1.25[^key-044655c6a6bfa8d64aac829b299f7feb];
-- C is the total of the fees paid to R in respect of qualifying fee-paid days in the period and for the offices[^key-aaaaaf6d7ec736e65febbd8d2948734e] referred to in B;
+- B is the amount of reckonable service which R accrued in any office in relation to which benefits are calculated under the post-1995 provisions[^c-60f7b306e47f24502e30c4c710f2e47a] in the period beginning with the assumed contribution commencement date and ending with the date on which R retired, calculated in accordance with regulation 5(1) as though paragraph (2) of that regulation does not apply and, where regulation 4(4A) applies for the purposes of determining P’s qualifying fee-paid service, disapplying the multiplier of 1.25[^c-044655c6a6bfa8d64aac829b299f7feb];
+- C is the total of the fees paid to R in respect of qualifying fee-paid days in the period and for the offices[^c-aaaaaf6d7ec736e65febbd8d2948734e] referred to in B;
 - D is the number of added years R would like to purchase.
 
 (4) The relevant benefits figure is determined by taking the following steps—
@@ -58,8 +58,8 @@ where—
 
 ## Annotations
 
-[^key-60f7b306e47f24502e30c4c710f2e47a]: Textual amendment: Words in [reg. 107(3)(b)](https://www.legislation.gov.uk/uksi/2017/522/regulation/107/3/b) inserted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [49(a)](https://www.legislation.gov.uk/uksi/2023/403/regulation/49/a)
+[^c-60f7b306e47f24502e30c4c710f2e47a]: Textual amendment: Words in [reg. 107(3)(b)](https://www.legislation.gov.uk/uksi/2017/522/regulation/107/3/b) inserted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [49(a)](https://www.legislation.gov.uk/uksi/2023/403/regulation/49/a)
 
-[^key-044655c6a6bfa8d64aac829b299f7feb]: Textual amendment: Words in [reg. 107(3)](https://www.legislation.gov.uk/uksi/2017/522/regulation/107/3) inserted (17.12.2024) by [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [21](https://www.legislation.gov.uk/uksi/2024/1358/regulation/21)
+[^c-044655c6a6bfa8d64aac829b299f7feb]: Textual amendment: Words in [reg. 107(3)](https://www.legislation.gov.uk/uksi/2017/522/regulation/107/3) inserted (17.12.2024) by [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [21](https://www.legislation.gov.uk/uksi/2024/1358/regulation/21)
 
-[^key-aaaaaf6d7ec736e65febbd8d2948734e]: Textual amendment: Words in [reg. 107(3)(c)](https://www.legislation.gov.uk/uksi/2017/522/regulation/107/3/c) inserted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [49(b)](https://www.legislation.gov.uk/uksi/2023/403/regulation/49/b)
+[^c-aaaaaf6d7ec736e65febbd8d2948734e]: Textual amendment: Words in [reg. 107(3)(c)](https://www.legislation.gov.uk/uksi/2017/522/regulation/107/3/c) inserted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [49(b)](https://www.legislation.gov.uk/uksi/2023/403/regulation/49/b)

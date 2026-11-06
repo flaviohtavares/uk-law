@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 92. Offences[^key-21cba3ca5f941241240a953c09f72484]
+## 92. Offences[^c-21cba3ca5f941241240a953c09f72484]
 
 *Extent: E+W*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-21cba3ca5f941241240a953c09f72484]: Commencement: S. 92 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-21cba3ca5f941241240a953c09f72484]: Commencement: S. 92 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)

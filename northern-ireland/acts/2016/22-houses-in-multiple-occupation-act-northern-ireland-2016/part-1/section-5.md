@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 5. Notice regarding evidence of household[^key-41c793325073285d417af8eb8552db4c]
+## 5. Notice regarding evidence of household[^c-41c793325073285d417af8eb8552db4c]
 
 *Extent: N.I.*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-41c793325073285d417af8eb8552db4c]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2016/22/section/5) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-41c793325073285d417af8eb8552db4c]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2016/22/section/5) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))

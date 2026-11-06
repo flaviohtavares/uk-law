@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 105. Amendments relating to events occurring after the start of an academic year[^key-07cad03a4cf60d30fb6d11deadffeb96]
+## 105. Amendments relating to events occurring after the start of an academic year[^c-07cad03a4cf60d30fb6d11deadffeb96]
 
 *Extent: E+W*
 
@@ -59,6 +59,6 @@ Regulation 4 (qualifying person)[^f00083] is amended as follows.
 
 ## Annotations
 
-[^key-07cad03a4cf60d30fb6d11deadffeb96]: Commencement: Reg. 105 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-07cad03a4cf60d30fb6d11deadffeb96]: Commencement: Reg. 105 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
 
 [^f00083]: Footnote: Regulation 4 was amended by [S.I. 2021/127](https://www.legislation.gov.uk/uksi/2021/127), [2021/929](https://www.legislation.gov.uk/uksi/2021/929), [2021/1348](https://www.legislation.gov.uk/uksi/2021/1348) and [2022/534](https://www.legislation.gov.uk/uksi/2022/534).

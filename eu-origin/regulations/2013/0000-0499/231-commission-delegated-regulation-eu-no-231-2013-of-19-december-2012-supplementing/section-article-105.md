@@ -24,7 +24,7 @@ summary: ''
 
 - (a) an overview of investment activities during the year or period, and an overview of the AIF’s portfolio at year-end or period end;
 - (b) an overview of AIF performance over the year or period;
-- (c) material changes as defined below in the information listed in section 3.2 of the Investment Funds sourcebook[^key-7f4a7293397ec29cf66a564483b4e8a0] not already present in the financial statements.
+- (c) material changes as defined below in the information listed in section 3.2 of the Investment Funds sourcebook[^c-7f4a7293397ec29cf66a564483b4e8a0] not already present in the financial statements.
 
 2. The report shall include a fair and balanced review of the activities and performance of the AIF, containing also a description of the principal risks and investment or economic uncertainties that the AIF might face.
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7f4a7293397ec29cf66a564483b4e8a0]: Textual amendment: Words in Art. 105(1)(c) substituted (31.12.2020) by [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [36(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/36) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7f4a7293397ec29cf66a564483b4e8a0]: Textual amendment: Words in Art. 105(1)(c) substituted (31.12.2020) by [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [36(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/36) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

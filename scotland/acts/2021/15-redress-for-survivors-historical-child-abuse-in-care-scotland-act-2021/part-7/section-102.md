@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 102. The Survivor Forum[^key-d026794ca67df08c4cccb3a533c8bc71]
+## 102. The Survivor Forum[^c-d026794ca67df08c4cccb3a533c8bc71]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d026794ca67df08c4cccb3a533c8bc71]: Commencement: [S. 102](https://www.legislation.gov.uk/asp/2021/15/section/102) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
+[^c-d026794ca67df08c4cccb3a533c8bc71]: Commencement: [S. 102](https://www.legislation.gov.uk/asp/2021/15/section/102) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)

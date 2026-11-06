@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 55. Notional earned income[^key-967cb36b37f29ac26b37af253305c2ad]
+## 55. Notional earned income[^c-967cb36b37f29ac26b37af253305c2ad]
 
 *Extent: S*
 
@@ -31,7 +31,7 @@ summary: ''
 
 that income is to be treated as earned income under paragraph (1).
 
-(4) For the avoidance of doubt, for the purpose of this regulation, if paragraphs (1) and (3) apply in respect of the same income, that income is to be counted as earned[^key-7d6f491d217466f66f36221d81216b63] income only once.
+(4) For the avoidance of doubt, for the purpose of this regulation, if paragraphs (1) and (3) apply in respect of the same income, that income is to be counted as earned[^c-7d6f491d217466f66f36221d81216b63] income only once.
 
 (5) If an applicant provides services for another person and—
 
@@ -48,6 +48,6 @@ the applicant is to be treated as having received the remuneration that would be
 
 ## Annotations
 
-[^key-967cb36b37f29ac26b37af253305c2ad]: Commencement: [Reg. 55](https://www.legislation.gov.uk/ssi/2021/249/regulation/55) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-967cb36b37f29ac26b37af253305c2ad]: Commencement: [Reg. 55](https://www.legislation.gov.uk/ssi/2021/249/regulation/55) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
 
-[^key-7d6f491d217466f66f36221d81216b63]: Textual amendment: Word in reg. 55(4) substituted (31.3.2022) by [The Council Tax Reduction (Scotland) Amendment Regulations 2022 (S.S.I. 2022/52)](https://www.legislation.gov.uk/ssi/2022/52), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/52/regulation/1/2), [12](https://www.legislation.gov.uk/ssi/2022/52/regulation/12)
+[^c-7d6f491d217466f66f36221d81216b63]: Textual amendment: Word in reg. 55(4) substituted (31.3.2022) by [The Council Tax Reduction (Scotland) Amendment Regulations 2022 (S.S.I. 2022/52)](https://www.legislation.gov.uk/ssi/2022/52), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/52/regulation/1/2), [12](https://www.legislation.gov.uk/ssi/2022/52/regulation/12)

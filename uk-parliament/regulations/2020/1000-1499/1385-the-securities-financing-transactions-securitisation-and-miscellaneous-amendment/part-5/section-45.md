@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. The Credit Transfers and Direct Debits in Euro (Amendment) (EU Exit) Regulations 2018[^key-b81db660e6e67accbd4852a8705d54ff]
+## 45. The Credit Transfers and Direct Debits in Euro (Amendment) (EU Exit) Regulations 2018[^c-b81db660e6e67accbd4852a8705d54ff]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b81db660e6e67accbd4852a8705d54ff]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/2020/1385/regulation/45) in force at 31.12.2020 immediately before IP completion day, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4)
+[^c-b81db660e6e67accbd4852a8705d54ff]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/2020/1385/regulation/45) in force at 31.12.2020 immediately before IP completion day, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4)
 
 [^f00023]: Footnote: [S.I. 2018/1199](https://www.legislation.gov.uk/uksi/2018/1199).

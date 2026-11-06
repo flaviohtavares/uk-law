@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 60. Information requirements[^key-de0641b64e71698d0dcda981433af70d]
+## 60. Information requirements[^c-de0641b64e71698d0dcda981433af70d]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-de0641b64e71698d0dcda981433af70d]: Commencement: Reg. 60 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
+[^c-de0641b64e71698d0dcda981433af70d]: Commencement: Reg. 60 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)

@@ -48,7 +48,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 ## PART 1 — Preliminary
 
-### 1. Citation, commencement and application[^key-b1897d4d761d4f252a6e021692e01836]
+### 1. Citation, commencement and application[^c-b1897d4d761d4f252a6e021692e01836]
 
 (1) These Regulations may be cited as the Town and Country Planning (Schemes of Delegation and Local Review Procedure) (Scotland) Regulations 2008 and come into force in accordance with paragraphs (2) and (3).
 
@@ -60,7 +60,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 (5) Part 2 of these Regulations applies to the preparation and content of a scheme of delegation under section 43A(1) of the Act.
 
-### 2. Interpretation[^key-b9f224d6596df18c7ffaf04fa824f6c6]
+### 2. Interpretation[^c-b9f224d6596df18c7ffaf04fa824f6c6]
 
 In these Regulations–
 
@@ -82,7 +82,7 @@ In these Regulations–
 
 ## PART 2 — Schemes of Delegation
 
-### 3. Content of scheme of delegation[^key-7901609635c8dd7f6b8c83b280da8f55]
+### 3. Content of scheme of delegation[^c-7901609635c8dd7f6b8c83b280da8f55]
 
 (1) A scheme of delegation must describe the classes of development to which the scheme will apply and state with respect to every such class which of the applications mentioned in paragraph (2) are to be determined by an appointed officer and if such application is only to be so determined in particular circumstances the scheme is to specify such circumstances.
 
@@ -100,24 +100,24 @@ In these Regulations–
   - (ii) a member of the planning authority; or
 - (b) the application relates to land in the ownership of the planning authority or to land in which the planning authority have a financial interest.
 
-### 4. Procedure for preparation and adoption of scheme of delegation[^key-2f9cb59a1e35f721c91fae9437baa770]
+### 4. Procedure for preparation and adoption of scheme of delegation[^c-2f9cb59a1e35f721c91fae9437baa770]
 
 Where a planning authority propose to adopt a scheme of delegation, the authority are to send a copy of the scheme to the Scottish Ministers and the planning authority are not to adopt the scheme until the scheme has been approved by the Scottish Ministers.
 
-### 5. Publication of the scheme[^key-8591a7e19cd2449ae89acdf5ace90362]
+### 5. Publication of the scheme[^c-8591a7e19cd2449ae89acdf5ace90362]
 
 The planning authority are to–
 
 - (a) make a copy of the adopted scheme of delegation available for inspection at an office of the planning authority and in every public library in the area of the planning authority; and
 - (b) publish the adopted scheme of delegation on the internet.
 
-### 6. Subsequent schemes of delegation[^key-0bd7b849687267f49531d642c6616589]
+### 6. Subsequent schemes of delegation[^c-0bd7b849687267f49531d642c6616589]
 
 The planning authority must prepare a scheme of delegation at intervals of no greater than every five years.
 
 ## PART 3 — Review
 
-### 7. Local Review Body[^key-8732fd8fa8abefa128840a5b99502f18]
+### 7. Local Review Body[^c-8732fd8fa8abefa128840a5b99502f18]
 
 (1) A review of a case by virtue of section 43A(8) of the Act is to be conducted by a committee of the planning authority comprising at least three members of the authority (to be known as the “**local review body**”).
 
@@ -137,13 +137,13 @@ are to be held in public.
 
 such notice of the date, time and place fixed for the holding of such meeting (and any subsequent variation thereof) as may appear to the local review body to be reasonable in the circumstances.
 
-### 8. Review on failure to determine the application[^key-a3c5fb4854552461c5b21999509594c1]
+### 8. Review on failure to determine the application[^c-a3c5fb4854552461c5b21999509594c1]
 
 (1) An applicant may require the local review body to review the case under section 43A(8)(c) of the Act if the appointed officer has failed to give to the applicant notice of their decision or determination or notice of referral of the application to the Scottish Ministers within the period allowed for determination of the application.
 
 (2) The period prescribed for the purposes of section 43A(17) of the Act is the period of two months beginning on the date when the requirement to review is made by virtue of section 43A(8)(c) of the Act.
 
-### 9. Notice of Review[^key-2e0f064c1150c6da3f74258af6b18175]
+### 9. Notice of Review[^c-2e0f064c1150c6da3f74258af6b18175]
 
 (1) An applicant may require the local review body to review a case under section 43A(8) by giving notice in writing in accordance with this regulation.
 
@@ -166,7 +166,7 @@ such notice of the date, time and place fixed for the holding of such meeting (a
 
 (5) In addition to matters set out in the notice of review and documents which accompany the notice of review, the applicant may raise matters and submit further documents, materials or evidence only in accordance with and to the extent permitted by regulation 15 and the Hearing Session Rules.
 
-### 10. Notification to interested parties and publication[^key-55eb6c09a1b9aa29ff26344b42ac45ca]
+### 10. Notification to interested parties and publication[^c-55eb6c09a1b9aa29ff26344b42ac45ca]
 
 (1) The local review body must not later than 14 days following notification of the review–
 
@@ -192,7 +192,7 @@ such notice of the date, time and place fixed for the holding of such meeting (a
 
 (6) The applicant may, on or before that date, make comments on such representations to the local review body.
 
-### 11. Publication of review documents[^key-4d0c8090870838d31204ec779383c963]
+### 11. Publication of review documents[^c-4d0c8090870838d31204ec779383c963]
 
 (1) The planning authority in relation to a review are to make a copy of–
 
@@ -206,11 +206,11 @@ available for inspection at an office of the planning authority until such time 
 
 ## PART 4 — Procedure for Determination
 
-### 12. Determination without further procedure[^key-48793145f68c53004bed8526892e64ff]
+### 12. Determination without further procedure[^c-48793145f68c53004bed8526892e64ff]
 
 Where the local review body consider that the review documents provide sufficient information to enable them to determine the review, they may determine the review without further procedure.
 
-### 13. Decision as to procedure to be followed[^key-1cac612c0eceb3102ec92f0afde83520]
+### 13. Decision as to procedure to be followed[^c-1cac612c0eceb3102ec92f0afde83520]
 
 (1) Where the local review body do not determine the review without further procedure, the local review body may determine the manner in which the review is to be conducted and are to do so in accordance with this regulation.
 
@@ -232,7 +232,7 @@ Where the local review body consider that the review documents provide sufficien
 
 (6) Notices given under regulation 15(1) or rule 1(1) of the Hearing Session Rules may be given separately or combined into a single notice.
 
-### 14. Pre-examination meetings[^key-ed3d0b92aa586fc89342dc3b398be1ca]
+### 14. Pre-examination meetings[^c-ed3d0b92aa586fc89342dc3b398be1ca]
 
 (1) The local review body may hold a meeting (“a pre examination meeting”) to consider the manner in which the review or any stage of the review is to be conducted with a view to securing that the review or any stage of the review is conducted efficiently and expeditiously.
 
@@ -245,7 +245,7 @@ Where the local review body consider that the review documents provide sufficien
 
 (4) The local review body are to determine the matters to be discussed and the procedure to be followed at the pre-examination meeting.
 
-### 15. Written Submissions[^key-36d44f3c04fc6fdc1143ba62bf375e01]
+### 15. Written Submissions[^c-36d44f3c04fc6fdc1143ba62bf375e01]
 
 (1) Where the local review body have determined that further representations should be made or further information should be provided by means of written submissions, the local review body may request such further representations or information and are to do so by written notice to that effect to–
 
@@ -262,7 +262,7 @@ Where the local review body consider that the review documents provide sufficien
 
 (4) Within a period of 14 days from receipt of a copy of such further representations or information, the applicant or such other body or person may send comments to the local review body in reply to it and when doing so is to send a copy of such comments to the applicant and to such other bodies or persons (and at the address) specified in the procedure notice.
 
-### 16. Site inspections[^key-9002003cf883c926d16db74882e64063]
+### 16. Site inspections[^c-9002003cf883c926d16db74882e64063]
 
 (1) The local review body may at any time make–
 
@@ -278,7 +278,7 @@ Where the local review body consider that the review documents provide sufficien
 
 (4) The local review body is not bound to defer an inspection if any person to whom notice was given under paragraph (3) is not present at the time appointed.
 
-### 17. New evidence[^key-a067e2017881a69137e9a90ae78a6ad3]
+### 17. New evidence[^c-a067e2017881a69137e9a90ae78a6ad3]
 
 (1) If after the conclusion of any further procedure conducted by virtue of regulation 13, the local review body propose to take into consideration any new evidence which is material to the determination of the review, the local review body must not reach a decision on the review without first affording the applicant and any other relevant party an opportunity of making representations on such new evidence.
 
@@ -289,7 +289,7 @@ Where the local review body consider that the review documents provide sufficien
 
 ## PART 5 — General
 
-### 18. Further copies of documents etc[^key-553db553eb1b9858692aafcf291eb927]
+### 18. Further copies of documents etc[^c-553db553eb1b9858692aafcf291eb927]
 
 (1) The local review body may require any person who has submitted documents, materials or evidence under these Regulations in connection with the review to–
 
@@ -298,17 +298,17 @@ Where the local review body consider that the review documents provide sufficien
 
 (2) The planning authority are, until such time as the review is determined, to make copies of such documents, materials or evidence provided under paragraph (1)(a) available for inspection at an office of the planning authority and, where practicable, are to afford any person who so requests a reasonable opportunity of taking copies of such documents (or any part thereof).
 
-### 19. Compliance with development management procedures[^key-39f2002b9a4036f62b8e7542431053fc]
+### 19. Compliance with development management procedures[^c-39f2002b9a4036f62b8e7542431053fc]
 
 The local review body must, to the extent not already done so comply with regulations 18 (notification by the planning authority), 19 (notification of minerals applications), 20 (publication by the planning authority) and 25 (consultation by the planning authority) of the Town and Country Planning (Development Management Procedure) (Scotland) Regulations 2008[^f00004] before determining the review.
 
-### 20. Appointment of assessor[^key-91592b9c2674311d74b60ee259342bce]
+### 20. Appointment of assessor[^c-91592b9c2674311d74b60ee259342bce]
 
 (1) The local review body may appoint a person to sit with the local review body at a hearing session to advise them on such matters arising as they may specify (“an assessor”) and where they do so they are to notify every person entitled to appear at the hearing session of the name of the assessor and of the matters on which the assessor is to advise them.
 
 (2) Where an assessor has been appointed, the assessor may (and if so required by the local review body, must), after the close of the hearing session, make a report in writing to the local review body in respect of the matters on which the assessor was appointed to advise.
 
-### 21. Decision Notice[^key-4dfcd29c8f40f56fc1466ef8b07006f7]
+### 21. Decision Notice[^c-4dfcd29c8f40f56fc1466ef8b07006f7]
 
 (1) The local review body must–
 
@@ -333,7 +333,7 @@ The local review body must, to the extent not already done so comply with regula
 
 (3) A decision notice must in the case of refusal or approval subject to conditions be accompanied by a notification in the terms set out in Schedule 2 to these Regulations.
 
-### 22. Electronic communications[^key-f5bb60e8173b2723744cae07aab69f83]
+### 22. Electronic communications[^c-f5bb60e8173b2723744cae07aab69f83]
 
 (1) Where the criteria in paragraph (2) are met, any document required or authorised to be sent by these Regulations may be sent by electronic communications and any requirement in these Regulations that any document is to be in writing is fulfilled.
 
@@ -376,7 +376,7 @@ Edinburgh
 
 Regulation 2
 
-### 1. Procedure notice and specified matters[^key-1a546a727b589eeded30ed414e823c50]
+### 1. Procedure notice and specified matters[^c-1a546a727b589eeded30ed414e823c50]
 
 (1) Where the local review body have determined that a hearing session should be held the local review body are to give written notice to that effect to–
 
@@ -390,20 +390,20 @@ Regulation 2
 
 (4) A person or body given notice under paragraph (1) and who intends to appear at the hearing session must within 14 days of the date of such notice inform the local review body in writing of that intention.
 
-### 2. Appearances at hearing session[^key-bb382cda6eb28dac6e148f4bb26780a4]
+### 2. Appearances at hearing session[^c-bb382cda6eb28dac6e148f4bb26780a4]
 
 The persons entitled to appear at a hearing session are–
 
 - (a) the applicant; and
 - (b) any other person or body who, in response to a procedure notice, has informed the local review body of their intention to appear at the hearing session in accordance with rule 1(4).
 
-### 3. Date and notification of hearing session[^key-ea70f6a37c771da7d8704ff2ce3f307a]
+### 3. Date and notification of hearing session[^c-ea70f6a37c771da7d8704ff2ce3f307a]
 
 (1) The date, time and place at which the hearing session is to be held is to be determined (and may subsequently be varied) by the local review body.
 
 (2) The local review body are to give to those persons entitled to appear at the hearing session such notice of the date, time and place fixed for the holding of a hearing session (and any subsequent variation thereof) as may appear to the local review body to be reasonable in the circumstances.
 
-### 4. Service of hearing statements and documents[^key-cf34555388bb1f7e64f8ba450fa96a29]
+### 4. Service of hearing statements and documents[^c-cf34555388bb1f7e64f8ba450fa96a29]
 
 (1) A person entitled to appear at the hearing session must, by such date as the local review body may by notice specify, send to the local review body, the applicant and to such other persons entitled to appear at the hearing session as the local review body may specify in such notice–
 
@@ -426,7 +426,7 @@ The persons entitled to appear at a hearing session are–
 - (a) a list of documents (if any) which the person putting forward such case intends to refer to or rely on;
 - (b) a list of any other persons who are to speak at the hearing session in respect of such case, any matters which such persons are particularly to address and any relevant qualifications of such persons to do so.
 
-### 5. Procedure at hearing[^key-db25b89bd15e55140dfe6db880ebc4c7]
+### 5. Procedure at hearing[^c-db25b89bd15e55140dfe6db880ebc4c7]
 
 (1) Except as otherwise provided in these Hearing Session Rules, the local review body shall determine the procedure at a hearing session.
 
@@ -455,7 +455,7 @@ which the local review body consider to be irrelevant or repetitious.
 
 (9) The local review body may from time to time adjourn the hearing session and are to give such notice of the date, time and place of the adjourned hearing session to the persons entitled to appear at the hearing session as may appear to them to be reasonable in the circumstances unless such date, time and place are announced before the adjournment, no further notice is required.
 
-## SCHEDULE 2 — NOTICE TO ACCOMPANY REFUSAL ETC.[^key-3a5d40407532caa6a0abca604c7cf6c8]
+## SCHEDULE 2 — NOTICE TO ACCOMPANY REFUSAL ETC.[^c-3a5d40407532caa6a0abca604c7cf6c8]
 
 Regulation 21
 
@@ -483,68 +483,68 @@ Where a local review body determine that a hearing session should be held to con
 
 [^f00001]: Footnote: [1997 c. 8](https://www.legislation.gov.uk/ukpga/1997/8). Sections 43A and 275A were respectively inserted into the [Town and Country Planning (Scotland) Act 1997 (c.8)](https://www.legislation.gov.uk/ukpga/1997/8) (“the Act”) by section 17 and 52 of the [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17) (the “**2006 Act**”). Section 275 of the Act was amended by section 53(16) of the 2006 Act. The functions of the Secretary of State under the Act transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46). See section 277(1) of the Act for the definition of “prescribed”.
 
-[^key-b1897d4d761d4f252a6e021692e01836]: Commencement: Reg. 1 in force at 6.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/433/regulation/1/2)
+[^c-b1897d4d761d4f252a6e021692e01836]: Commencement: Reg. 1 in force at 6.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/433/regulation/1/2)
 
-[^key-b9f224d6596df18c7ffaf04fa824f6c6]: Commencement: Reg. 2 in force at 6.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/433/regulation/1/2)
+[^c-b9f224d6596df18c7ffaf04fa824f6c6]: Commencement: Reg. 2 in force at 6.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/433/regulation/1/2)
 
 [^f00002]: Footnote: [S.S.I. 2008/432](https://www.legislation.gov.uk/ssi/2008/432).
 
 [^f00003]: Footnote: The requirement to include a Report in the register is contained in Schedule 2 to the Town and Country Planning (Development Management Procedure) (Scotland) Regulations 2008 ([S.S.I. 2008/432](https://www.legislation.gov.uk/ssi/2008/432)).
 
-[^key-7901609635c8dd7f6b8c83b280da8f55]: Commencement: Reg. 3 in force at 6.4.2009, see [reg. 1(1)(2)](https://www.legislation.gov.uk/ssi/2008/433/regulation/1/1/2)
+[^c-7901609635c8dd7f6b8c83b280da8f55]: Commencement: Reg. 3 in force at 6.4.2009, see [reg. 1(1)(2)](https://www.legislation.gov.uk/ssi/2008/433/regulation/1/1/2)
 
-[^key-2f9cb59a1e35f721c91fae9437baa770]: Commencement: Reg. 4 in force at 6.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/433/regulation/1/2)
+[^c-2f9cb59a1e35f721c91fae9437baa770]: Commencement: Reg. 4 in force at 6.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/433/regulation/1/2)
 
-[^key-8591a7e19cd2449ae89acdf5ace90362]: Commencement: Reg. 5 in force at 6.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/433/regulation/1/2)
+[^c-8591a7e19cd2449ae89acdf5ace90362]: Commencement: Reg. 5 in force at 6.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/433/regulation/1/2)
 
-[^key-0bd7b849687267f49531d642c6616589]: Commencement: Reg. 6 in force at 6.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/433/regulation/1/2)
+[^c-0bd7b849687267f49531d642c6616589]: Commencement: Reg. 6 in force at 6.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/433/regulation/1/2)
 
-[^key-8732fd8fa8abefa128840a5b99502f18]: Commencement: Reg. 7 in force at 3.8.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/433/regulation/1/2)
+[^c-8732fd8fa8abefa128840a5b99502f18]: Commencement: Reg. 7 in force at 3.8.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/433/regulation/1/2)
 
-[^key-a3c5fb4854552461c5b21999509594c1]: Commencement: Reg. 8 in force at 3.8.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/433/regulation/1/2)
+[^c-a3c5fb4854552461c5b21999509594c1]: Commencement: Reg. 8 in force at 3.8.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/433/regulation/1/2)
 
-[^key-2e0f064c1150c6da3f74258af6b18175]: Commencement: Reg. 9 in force at 3.8.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/433/regulation/1/2)
+[^c-2e0f064c1150c6da3f74258af6b18175]: Commencement: Reg. 9 in force at 3.8.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/433/regulation/1/2)
 
-[^key-55eb6c09a1b9aa29ff26344b42ac45ca]: Commencement: Reg. 10 in force at 3.8.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/433/regulation/1/2)
+[^c-55eb6c09a1b9aa29ff26344b42ac45ca]: Commencement: Reg. 10 in force at 3.8.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/433/regulation/1/2)
 
-[^key-4d0c8090870838d31204ec779383c963]: Commencement: Reg. 11 in force at 3.8.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/433/regulation/1/2)
+[^c-4d0c8090870838d31204ec779383c963]: Commencement: Reg. 11 in force at 3.8.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/433/regulation/1/2)
 
-[^key-48793145f68c53004bed8526892e64ff]: Commencement: Reg. 12 in force at 3.8.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/433/regulation/1/2)
+[^c-48793145f68c53004bed8526892e64ff]: Commencement: Reg. 12 in force at 3.8.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/433/regulation/1/2)
 
-[^key-1cac612c0eceb3102ec92f0afde83520]: Commencement: Reg. 13 in force at 3.8.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/433/regulation/1/2)
+[^c-1cac612c0eceb3102ec92f0afde83520]: Commencement: Reg. 13 in force at 3.8.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/433/regulation/1/2)
 
-[^key-ed3d0b92aa586fc89342dc3b398be1ca]: Commencement: Reg. 14 in force at 3.8.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/433/regulation/1/2)
+[^c-ed3d0b92aa586fc89342dc3b398be1ca]: Commencement: Reg. 14 in force at 3.8.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/433/regulation/1/2)
 
-[^key-36d44f3c04fc6fdc1143ba62bf375e01]: Commencement: Reg. 15 in force at 3.8.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/433/regulation/1/2)
+[^c-36d44f3c04fc6fdc1143ba62bf375e01]: Commencement: Reg. 15 in force at 3.8.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/433/regulation/1/2)
 
-[^key-9002003cf883c926d16db74882e64063]: Commencement: Reg. 16 in force at 3.8.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/433/regulation/1/2)
+[^c-9002003cf883c926d16db74882e64063]: Commencement: Reg. 16 in force at 3.8.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/433/regulation/1/2)
 
-[^key-a067e2017881a69137e9a90ae78a6ad3]: Commencement: Reg. 17 in force at 3.8.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/433/regulation/1/2)
+[^c-a067e2017881a69137e9a90ae78a6ad3]: Commencement: Reg. 17 in force at 3.8.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/433/regulation/1/2)
 
-[^key-553db553eb1b9858692aafcf291eb927]: Commencement: Reg. 18 in force at 3.8.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/433/regulation/1/2)
+[^c-553db553eb1b9858692aafcf291eb927]: Commencement: Reg. 18 in force at 3.8.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/433/regulation/1/2)
 
-[^key-39f2002b9a4036f62b8e7542431053fc]: Commencement: Reg. 19 in force at 3.8.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/433/regulation/1/2)
+[^c-39f2002b9a4036f62b8e7542431053fc]: Commencement: Reg. 19 in force at 3.8.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/433/regulation/1/2)
 
 [^f00004]: Footnote: [S.S.I. 2008/432](https://www.legislation.gov.uk/ssi/2008/432).
 
-[^key-91592b9c2674311d74b60ee259342bce]: Commencement: Reg. 20 in force at 3.8.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/433/regulation/1/2)
+[^c-91592b9c2674311d74b60ee259342bce]: Commencement: Reg. 20 in force at 3.8.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/433/regulation/1/2)
 
-[^key-4dfcd29c8f40f56fc1466ef8b07006f7]: Commencement: Reg. 21 in force at 3.8.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/433/regulation/1/2)
+[^c-4dfcd29c8f40f56fc1466ef8b07006f7]: Commencement: Reg. 21 in force at 3.8.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/433/regulation/1/2)
 
 [^f00006]: Footnote: Section 32A was inserted into the [Town and Country Planning (Scotland) Act 1997 (c.8)](https://www.legislation.gov.uk/ukpga/1997/8) by section 8 of the [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17).
 
-[^key-f5bb60e8173b2723744cae07aab69f83]: Commencement: Reg. 22 in force at 3.8.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/433/regulation/1/2)
+[^c-f5bb60e8173b2723744cae07aab69f83]: Commencement: Reg. 22 in force at 3.8.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/433/regulation/1/2)
 
 [^f00005]: Footnote: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7). Section 15(1) was amended by paragraph 158 of Schedule 17 to the Communications Act [2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-1a546a727b589eeded30ed414e823c50]: Commencement: Sch. 1 para. 1 in force at 6.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/433/regulation/1/2)
+[^c-1a546a727b589eeded30ed414e823c50]: Commencement: Sch. 1 para. 1 in force at 6.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/433/regulation/1/2)
 
-[^key-bb382cda6eb28dac6e148f4bb26780a4]: Commencement: Sch. 1 para. 2 in force at 6.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/433/regulation/1/2)
+[^c-bb382cda6eb28dac6e148f4bb26780a4]: Commencement: Sch. 1 para. 2 in force at 6.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/433/regulation/1/2)
 
-[^key-ea70f6a37c771da7d8704ff2ce3f307a]: Commencement: Sch. 1 para. 3 in force at 6.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/433/regulation/1/2)
+[^c-ea70f6a37c771da7d8704ff2ce3f307a]: Commencement: Sch. 1 para. 3 in force at 6.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/433/regulation/1/2)
 
-[^key-cf34555388bb1f7e64f8ba450fa96a29]: Commencement: Sch. 1 para. 4 in force at 6.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/433/regulation/1/2)
+[^c-cf34555388bb1f7e64f8ba450fa96a29]: Commencement: Sch. 1 para. 4 in force at 6.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/433/regulation/1/2)
 
-[^key-db25b89bd15e55140dfe6db880ebc4c7]: Commencement: Sch. 1 para. 5 in force at 6.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/433/regulation/1/2)
+[^c-db25b89bd15e55140dfe6db880ebc4c7]: Commencement: Sch. 1 para. 5 in force at 6.4.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/433/regulation/1/2)
 
-[^key-3a5d40407532caa6a0abca604c7cf6c8]: Commencement: Sch. 2 in force at 3.8.2009, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2008/433/regulation/1/3)
+[^c-3a5d40407532caa6a0abca604c7cf6c8]: Commencement: Sch. 2 in force at 3.8.2009, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2008/433/regulation/1/3)

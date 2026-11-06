@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.29. Electronic delivery of documents to the court[^key-9d909662cba805c5b9d3f85cc4b44517]
+## 7.29. Electronic delivery of documents to the court[^c-9d909662cba805c5b9d3f85cc4b44517]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9d909662cba805c5b9d3f85cc4b44517]: Commencement: Rule 7.29 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-9d909662cba805c5b9d3f85cc4b44517]: Commencement: Rule 7.29 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

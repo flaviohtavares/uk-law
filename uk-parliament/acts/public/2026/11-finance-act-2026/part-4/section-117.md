@@ -34,10 +34,10 @@ summary: ''
 - (a) is not a vaping product, or
 - (b) is a vaping product on which duty has not been paid or deferred under a duty deferment arrangement.
 
-(4)[^M_I_14963f0c-6f52-4286-b0a3-55b494513568][^key-865e18a18e542030c295f92c673021b5] Vaping products must not be produced except in accordance with regulations under [section 45](https://www.legislation.gov.uk/ukpga/2018/22/section/45) of [TCTA 2018](https://www.legislation.gov.uk/ukpga/2018/22/contents).
+(4)[^M_I_14963f0c-6f52-4286-b0a3-55b494513568][^c-865e18a18e542030c295f92c673021b5] Vaping products must not be produced except in accordance with regulations under [section 45](https://www.legislation.gov.uk/ukpga/2018/22/section/45) of [TCTA 2018](https://www.legislation.gov.uk/ukpga/2018/22/contents).
 
 ## Annotations
 
 [^M_I_14963f0c-6f52-4286-b0a3-55b494513568]: Commencement: S. 117(4) not in force at Royal Assent, see [s. 141(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/141/3)
 
-[^key-865e18a18e542030c295f92c673021b5]: Commencement: [S. 117(4)](https://www.legislation.gov.uk/ukpga/2026/11/section/117/4) in force at 1.4.2026 by [S.I. 2026/331](https://www.legislation.gov.uk/uksi/2026/331), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/331/regulation/2/a)
+[^c-865e18a18e542030c295f92c673021b5]: Commencement: [S. 117(4)](https://www.legislation.gov.uk/ukpga/2026/11/section/117/4) in force at 1.4.2026 by [S.I. 2026/331](https://www.legislation.gov.uk/uksi/2026/331), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/331/regulation/2/a)

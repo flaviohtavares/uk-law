@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 55. Amendment of regulation R9[^key-494e9f4ff1d14c3da51477fdf93bcfee]
+## 55. Amendment of regulation R9[^c-494e9f4ff1d14c3da51477fdf93bcfee]
 
 *Extent: E+W*
 
@@ -75,4 +75,4 @@ summary: ''
 
 ## Annotations
 
-[^key-494e9f4ff1d14c3da51477fdf93bcfee]: Commencement: Reg. 55 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
+[^c-494e9f4ff1d14c3da51477fdf93bcfee]: Commencement: Reg. 55 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)

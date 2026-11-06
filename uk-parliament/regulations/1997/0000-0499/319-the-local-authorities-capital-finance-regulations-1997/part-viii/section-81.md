@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 81. Adjusting the amount by which a capital receipt shall be reduced[^key-668c32ee45ee0149c9a20c75db8add3d]
+## 81. Adjusting the amount by which a capital receipt shall be reduced[^c-668c32ee45ee0149c9a20c75db8add3d]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ Regulations 86 to 104 shall have effect subject to the provisions of regulations
 
 ## Annotations
 
-[^key-668c32ee45ee0149c9a20c75db8add3d]: Commencement: Reg. 81 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-668c32ee45ee0149c9a20c75db8add3d]: Commencement: Reg. 81 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

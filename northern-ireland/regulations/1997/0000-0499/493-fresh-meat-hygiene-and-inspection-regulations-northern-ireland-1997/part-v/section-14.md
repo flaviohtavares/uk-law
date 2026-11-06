@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 14. Alternative accommodation for certain animals[^key-8abbcfebc62162a6b6aceba087a52155]
+## 14. Alternative accommodation for certain animals[^c-8abbcfebc62162a6b6aceba087a52155]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8abbcfebc62162a6b6aceba087a52155]: Commencement: Reg. 14 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
+[^c-8abbcfebc62162a6b6aceba087a52155]: Commencement: Reg. 14 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)

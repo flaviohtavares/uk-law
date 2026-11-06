@@ -43,15 +43,15 @@ Coming into force
 
 15th January 2001
 
-The Secretary of State for the Environment, Transport and the Regions, in exercise of his powers under section 85 and 104(3) of the New Roads and Street Works Act 1991[^f00001], and of all other powers enabling him in that behalf, hereby makes the following Regulations:[^key-39464858cebf1f130c2bb3dbf00e8936][^key-c1a7c9f165a72e0270e1a986894c407f][^key-cb7f4e2d6c4227f5a6d0f952d4cdd997][^key-fae8a93783a29531fa911f2808e9a960][^key-01fa514bfede554419294a9ea3439108]
+The Secretary of State for the Environment, Transport and the Regions, in exercise of his powers under section 85 and 104(3) of the New Roads and Street Works Act 1991[^f00001], and of all other powers enabling him in that behalf, hereby makes the following Regulations:[^c-39464858cebf1f130c2bb3dbf00e8936][^c-c1a7c9f165a72e0270e1a986894c407f][^c-cb7f4e2d6c4227f5a6d0f952d4cdd997][^c-fae8a93783a29531fa911f2808e9a960][^c-01fa514bfede554419294a9ea3439108]
 
-## 1. Citation, commencement and extent[^key-6bbc0e5b9eb394f601bc831164d32ada]
+## 1. Citation, commencement and extent[^c-6bbc0e5b9eb394f601bc831164d32ada]
 
 (1) These Regulations may be cited as the Street Works (Sharing of Costs of Works) (England) Regulations 2000 and shall come into force on 15th January 2001.
 
 (2) These Regulations extend to England only.
 
-## 2. Interpretation[^key-4cc59aca8287bc7498383a7f398eb9d5]
+## 2. Interpretation[^c-4cc59aca8287bc7498383a7f398eb9d5]
 
 (1) In these Regulations:
 
@@ -67,7 +67,7 @@ The Secretary of State for the Environment, Transport and the Regions, in exerci
 - (a) costs incurred in preparing the initial set of plans and estimates in relation to those diversionary works (but not in preparing any further plans and estimates which the authority may require);
 - (b) costs disallowed under regulation 6(3).
 
-## 3. Diversionary works executed by an undertaker because of an authority’s major works[^key-637e889a6a6ff20147fbc20c66bfda9a]
+## 3. Diversionary works executed by an undertaker because of an authority’s major works[^c-637e889a6a6ff20147fbc20c66bfda9a]
 
 (1) Where, because of major works initiated by an authority, an undertaker executes diversionary works, the authority shall pay to the undertaker—
 
@@ -77,7 +77,7 @@ The Secretary of State for the Environment, Transport and the Regions, in exerci
 
 (2) This regulation is subject to regulation 6.
 
-## 4. Diversionary works executed by an authority because of the authority’s major works[^key-373e780b525d2870b25d2604ef35030c]
+## 4. Diversionary works executed by an authority because of the authority’s major works[^c-373e780b525d2870b25d2604ef35030c]
 
 (1) Where, because of major works initiated by an authority, the authority executes diversionary works, the undertaker shall, subject to paragraph (2), pay to the authority—
 
@@ -92,7 +92,7 @@ The Secretary of State for the Environment, Transport and the Regions, in exerci
 
 (3) This regulation is subject to regulation 6.
 
-## 5. Diversionary works executed by an authority or an undertaker in other cases[^key-6203a33d6d07bd91a9c700762a2e7101]
+## 5. Diversionary works executed by an authority or an undertaker in other cases[^c-6203a33d6d07bd91a9c700762a2e7101]
 
 (1) This regulation applies where major works are initiated—
 
@@ -110,7 +110,7 @@ and diversionary works are executed by an authority or the undertaker.
 - (a) any sum recoverable from any person for whose purposes the diversionary works are executed, irrespective of whether or not such a sum is actually recovered from that person;
 - (b) any sum which would have been recoverable from such a person were that person not the authority.
 
-## 6. Allowable costs—further provisions[^key-d43d56a53d736f141425e1357472dfac]
+## 6. Allowable costs—further provisions[^c-d43d56a53d736f141425e1357472dfac]
 
 (1) Subject to paragraph (2), where the major works consist of or include major bridge works, allowable costs shall be so calculated that the undertaker is not liable for costs in respect of the provision of—
 
@@ -131,7 +131,7 @@ to accommodate the undertaker’s apparatus in the bridge.
 
 notice of their intention to execute the major works.
 
-## 7. Betterment etc[^key-1939be971be2b26b933832d0bec3042c]
+## 7. Betterment etc[^c-1939be971be2b26b933832d0bec3042c]
 
 (1) In a case where, under these Regulations, an undertaker is liable to make a payment to an authority or an authority is liable to make a payment to an undertaker in relation to diversionary works there shall be taken into account in favour of the authority—
 
@@ -140,7 +140,7 @@ notice of their intention to execute the major works.
 
 (2) For the purposes of this regulation “betterment” shall be determined in accordance with Appendix F to the Code.
 
-## 8. Payment[^key-716e27115a182ecb72f43b4e39eac4f4]
+## 8. Payment[^c-716e27115a182ecb72f43b4e39eac4f4]
 
 (1) For the purposes of regulation 3(1)(a) and (b) (including those provisions as applied by regulation 5) the authority may pay to the undertaker a sum equal to 75 per cent. of the estimate of 82 per cent. or 92.5 per cent. (as appropriate) of the allowable costs—
 
@@ -154,7 +154,7 @@ notice of their intention to execute the major works.
 
 (3) If payments made by an authority under paragraph (1) exceed the relevant proportion of allowable costs specified in regulation 3(1)(a) or (b), the undertaker shall, within 35 days of the issue of the account referred to in paragraph (2), refund to the authority the amount of the excess.
 
-## 9. Exclusions[^key-843f544f5927ae18c0a8ae411b257d06]
+## 9. Exclusions[^c-843f544f5927ae18c0a8ae411b257d06]
 
 These Regulations shall not apply to works executed pursuant to—
 
@@ -163,7 +163,7 @@ These Regulations shall not apply to works executed pursuant to—
 - (c) an agreement to house apparatus in a bridge structure; or
 - (d) a direction to remove or change the position of apparatus, pursuant to section 62 of the Act.
 
-## 10. Revocation and transitional provision[^key-8a60d1f29fc6cfc02ffc43ba34e608e0]
+## 10. Revocation and transitional provision[^c-8a60d1f29fc6cfc02ffc43ba34e608e0]
 
 (1) Subject to paragraph (2) the Street Works (Sharing of Costs of Works) Regulations 1992[^f00002] (“the 1992 Regulations”) are revoked so far as they extend to England.
 
@@ -199,34 +199,34 @@ The Code of Practice entitled “Measures Necessary where Apparatus is affected 
 
 [^f00001]: Footnote: [1991 c. 22](https://www.legislation.gov.uk/ukpga/1991/22). The functions of the Secretary of State under sections 85 and 104 are transferred, so far as exercisable in relation to Wales, to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)), article 2(a).
 
-[^key-39464858cebf1f130c2bb3dbf00e8936]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2000/3314) applied (with modifications) (8.5.2017) by [The West Midlands Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/510)](https://www.legislation.gov.uk/uksi/2017/510), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/510/article/1/2), [art. 9(3)](https://www.legislation.gov.uk/uksi/2017/510/article/9/3)[(4)](https://www.legislation.gov.uk/uksi/2017/510/article/9/4)
+[^c-39464858cebf1f130c2bb3dbf00e8936]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2000/3314) applied (with modifications) (8.5.2017) by [The West Midlands Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/510)](https://www.legislation.gov.uk/uksi/2017/510), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/510/article/1/2), [art. 9(3)](https://www.legislation.gov.uk/uksi/2017/510/article/9/3)[(4)](https://www.legislation.gov.uk/uksi/2017/510/article/9/4)
 
-[^key-c1a7c9f165a72e0270e1a986894c407f]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2000/3314): functions made exercisable concurrently (8.5.2017) by [The West Midlands Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/510)](https://www.legislation.gov.uk/uksi/2017/510), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/510/article/1/2), [9(1)(b)](https://www.legislation.gov.uk/uksi/2017/510/article/9/1/b)[(2)](https://www.legislation.gov.uk/uksi/2017/510/article/9/2)
+[^c-c1a7c9f165a72e0270e1a986894c407f]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2000/3314): functions made exercisable concurrently (8.5.2017) by [The West Midlands Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/510)](https://www.legislation.gov.uk/uksi/2017/510), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/510/article/1/2), [9(1)(b)](https://www.legislation.gov.uk/uksi/2017/510/article/9/1/b)[(2)](https://www.legislation.gov.uk/uksi/2017/510/article/9/2)
 
-[^key-cb7f4e2d6c4227f5a6d0f952d4cdd997]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2000/3314): functions made exercisable concurrently (30.1.2021) by [The West Yorkshire Combined Authority (Election of Mayor and Functions) Order 2021 (S.I. 2021/112)](https://www.legislation.gov.uk/uksi/2021/112), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/112/article/1/2), [22(1)(b)](https://www.legislation.gov.uk/uksi/2021/112/article/22/1/b)[(2)-(6)](https://www.legislation.gov.uk/uksi/2021/112/article/22/2)
+[^c-cb7f4e2d6c4227f5a6d0f952d4cdd997]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2000/3314): functions made exercisable concurrently (30.1.2021) by [The West Yorkshire Combined Authority (Election of Mayor and Functions) Order 2021 (S.I. 2021/112)](https://www.legislation.gov.uk/uksi/2021/112), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/112/article/1/2), [22(1)(b)](https://www.legislation.gov.uk/uksi/2021/112/article/22/1/b)[(2)-(6)](https://www.legislation.gov.uk/uksi/2021/112/article/22/2)
 
-[^key-fae8a93783a29531fa911f2808e9a960]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2000/3314): functions made exercisable concurrently (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [19(1)](https://www.legislation.gov.uk/uksi/2023/1432/article/19/1)[(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/19/2) (with [art. 19(6)](https://www.legislation.gov.uk/uksi/2023/1432/article/19/6))
+[^c-fae8a93783a29531fa911f2808e9a960]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2000/3314): functions made exercisable concurrently (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [19(1)](https://www.legislation.gov.uk/uksi/2023/1432/article/19/1)[(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/19/2) (with [art. 19(6)](https://www.legislation.gov.uk/uksi/2023/1432/article/19/6))
 
-[^key-01fa514bfede554419294a9ea3439108]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2000/3314) applied (with modifications) (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [19(3)](https://www.legislation.gov.uk/uksi/2023/1432/article/19/3)[(4)](https://www.legislation.gov.uk/uksi/2023/1432/article/19/4)
+[^c-01fa514bfede554419294a9ea3439108]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2000/3314) applied (with modifications) (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [19(3)](https://www.legislation.gov.uk/uksi/2023/1432/article/19/3)[(4)](https://www.legislation.gov.uk/uksi/2023/1432/article/19/4)
 
-[^key-6bbc0e5b9eb394f601bc831164d32ada]: Commencement: Reg. 1 in force at 15.1.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/3314/regulation/1/1)
+[^c-6bbc0e5b9eb394f601bc831164d32ada]: Commencement: Reg. 1 in force at 15.1.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/3314/regulation/1/1)
 
-[^key-4cc59aca8287bc7498383a7f398eb9d5]: Commencement: Reg. 2 in force at 15.1.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/3314/regulation/1/1)
+[^c-4cc59aca8287bc7498383a7f398eb9d5]: Commencement: Reg. 2 in force at 15.1.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/3314/regulation/1/1)
 
-[^key-637e889a6a6ff20147fbc20c66bfda9a]: Commencement: Reg. 3 in force at 15.1.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/3314/regulation/1/1)
+[^c-637e889a6a6ff20147fbc20c66bfda9a]: Commencement: Reg. 3 in force at 15.1.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/3314/regulation/1/1)
 
-[^key-373e780b525d2870b25d2604ef35030c]: Commencement: Reg. 4 in force at 15.1.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/3314/regulation/1/1)
+[^c-373e780b525d2870b25d2604ef35030c]: Commencement: Reg. 4 in force at 15.1.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/3314/regulation/1/1)
 
-[^key-6203a33d6d07bd91a9c700762a2e7101]: Commencement: Reg. 5 in force at 15.1.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/3314/regulation/1/1)
+[^c-6203a33d6d07bd91a9c700762a2e7101]: Commencement: Reg. 5 in force at 15.1.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/3314/regulation/1/1)
 
-[^key-d43d56a53d736f141425e1357472dfac]: Commencement: Reg. 6 in force at 15.1.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/3314/regulation/1/1)
+[^c-d43d56a53d736f141425e1357472dfac]: Commencement: Reg. 6 in force at 15.1.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/3314/regulation/1/1)
 
-[^key-1939be971be2b26b933832d0bec3042c]: Commencement: Reg. 7 in force at 15.1.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/3314/regulation/1/1)
+[^c-1939be971be2b26b933832d0bec3042c]: Commencement: Reg. 7 in force at 15.1.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/3314/regulation/1/1)
 
-[^key-716e27115a182ecb72f43b4e39eac4f4]: Commencement: Reg. 8 in force at 15.1.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/3314/regulation/1/1)
+[^c-716e27115a182ecb72f43b4e39eac4f4]: Commencement: Reg. 8 in force at 15.1.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/3314/regulation/1/1)
 
-[^key-843f544f5927ae18c0a8ae411b257d06]: Commencement: Reg. 9 in force at 15.1.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/3314/regulation/1/1)
+[^c-843f544f5927ae18c0a8ae411b257d06]: Commencement: Reg. 9 in force at 15.1.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/3314/regulation/1/1)
 
-[^key-8a60d1f29fc6cfc02ffc43ba34e608e0]: Commencement: Reg. 10 in force at 15.1.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/3314/regulation/1/1)
+[^c-8a60d1f29fc6cfc02ffc43ba34e608e0]: Commencement: Reg. 10 in force at 15.1.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/3314/regulation/1/1)
 
 [^f00002]: Footnote: [S.I. 1992/1690](https://www.legislation.gov.uk/uksi/1992/1690).

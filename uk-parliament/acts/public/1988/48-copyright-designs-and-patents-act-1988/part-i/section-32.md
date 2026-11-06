@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Illustration for instruction[^key-5fa582940af8d7bee6a833bf7d5eeb73]
+## 32. Illustration for instruction[^c-5fa582940af8d7bee6a833bf7d5eeb73]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5fa582940af8d7bee6a833bf7d5eeb73]: Textual amendment: S. 32 substituted (1.6.2014) by [The Copyright and Rights in Performances (Research, Education, Libraries and Archives) Regulations 2014 (S.I. 2014/1372)](https://www.legislation.gov.uk/uksi/2014/1372), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1), [4(1)](https://www.legislation.gov.uk/uksi/2014/1372/regulation/4/1)
+[^c-5fa582940af8d7bee6a833bf7d5eeb73]: Textual amendment: S. 32 substituted (1.6.2014) by [The Copyright and Rights in Performances (Research, Education, Libraries and Archives) Regulations 2014 (S.I. 2014/1372)](https://www.legislation.gov.uk/uksi/2014/1372), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1), [4(1)](https://www.legislation.gov.uk/uksi/2014/1372/regulation/4/1)

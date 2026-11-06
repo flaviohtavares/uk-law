@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 147. Secretary of State's duty as respects variation in provision of health services[^key-7f24b5b37aea82e2f2b87d50c1d8bd40][^key-9747cf6081017c0072cbd426a9d7e2b8]
+## 147. Secretary of State's duty as respects variation in provision of health services[^c-7f24b5b37aea82e2f2b87d50c1d8bd40][^c-9747cf6081017c0072cbd426a9d7e2b8]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ After section 12D of the National Health Service Act 2006 insert—
 
 ## Annotations
 
-[^key-7f24b5b37aea82e2f2b87d50c1d8bd40]: Commencement: S. 147 in force at 1.10.2012 for specified purposes by [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2)
+[^c-7f24b5b37aea82e2f2b87d50c1d8bd40]: Commencement: S. 147 in force at 1.10.2012 for specified purposes by [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2)
 
-[^key-9747cf6081017c0072cbd426a9d7e2b8]: Commencement: [S. 147](https://www.legislation.gov.uk/ukpga/2012/7/section/147) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-9747cf6081017c0072cbd426a9d7e2b8]: Commencement: [S. 147](https://www.legislation.gov.uk/ukpga/2012/7/section/147) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

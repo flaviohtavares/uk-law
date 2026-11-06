@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Strategic plans[^key-03a9f9b4d897272c9266d6dc947ae887]
+## 13. Strategic plans[^c-03a9f9b4d897272c9266d6dc947ae887]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-03a9f9b4d897272c9266d6dc947ae887]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2021/17/section/13) in force at 1.11.2021 by [S.I. 2021/1038](https://www.legislation.gov.uk/uksi/2021/1038), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2021/1038/regulation/3/b)
+[^c-03a9f9b4d897272c9266d6dc947ae887]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2021/17/section/13) in force at 1.11.2021 by [S.I. 2021/1038](https://www.legislation.gov.uk/uksi/2021/1038), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2021/1038/regulation/3/b)

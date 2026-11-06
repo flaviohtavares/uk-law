@@ -32,10 +32,10 @@ summary: ''
 
 (6) Section 117(2) applies for the purposes of this section as it applies for the purposes of section 117(1).
 
-(7)[^key-a884ff15ff70435712ebe970051ef985] Expressions used in this section have the same meaning as in section 151N.
+(7)[^c-a884ff15ff70435712ebe970051ef985] Expressions used in this section have the same meaning as in section 151N.
 
 ## Annotations
 
 [^M_F_4fe50031-dc7f-431d-c7a1-cf7d07893eec]: Textual amendment: S. 151T and cross-heading inserted (with effect in accordance with [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 2 para. 40](https://www.legislation.gov.uk/ukpga/2010/8/schedule/2/paragraph/40) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-a884ff15ff70435712ebe970051ef985]: Textual amendment: S. 151T(7) inserted (with retrospective effect in accordance with art. 1(2) of the amending S.I.) by [The Taxation (International and Other Provisions) Act 2010 (Amendment) Order 2010 (S.I. 2010/2901)](https://www.legislation.gov.uk/uksi/2010/2901), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/2901/article/1/1), [2](https://www.legislation.gov.uk/uksi/2010/2901/article/2)
+[^c-a884ff15ff70435712ebe970051ef985]: Textual amendment: S. 151T(7) inserted (with retrospective effect in accordance with art. 1(2) of the amending S.I.) by [The Taxation (International and Other Provisions) Act 2010 (Amendment) Order 2010 (S.I. 2010/2901)](https://www.legislation.gov.uk/uksi/2010/2901), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/2901/article/1/1), [2](https://www.legislation.gov.uk/uksi/2010/2901/article/2)

@@ -24,7 +24,7 @@ Article 3(1)
 
 ### Part 1 — Baseline for the CCTS
 
-#### 1. Interpretation and general[^key-fe60884796579c5e83a5478504a162c0]
+#### 1. Interpretation and general[^c-fe60884796579c5e83a5478504a162c0]
 
 In this Part—
 
@@ -60,13 +60,13 @@ In this Part—
   - “C” is the pool’s 2021 pool performance; and
   - “D” is the pool’s 2021 pool specific emissions target
 
-**2.**[^key-7ac2ff6a93691cc1e99ec6c893948625] Paragraphs 5 to 19 apply for the purposes of calculating the baseline for a CCTS participant consisting of a manufacturer which is not a member of a pool CCTS participant.
+**2.**[^c-7ac2ff6a93691cc1e99ec6c893948625] Paragraphs 5 to 19 apply for the purposes of calculating the baseline for a CCTS participant consisting of a manufacturer which is not a member of a pool CCTS participant.
 
-**3.**[^key-9d771595af166c3911c372f32ec9d717] Paragraph 20 applies for the purposes of calculating the baseline for a CCTS participant which is a pool CCTS participant.
+**3.**[^c-9d771595af166c3911c372f32ec9d717] Paragraph 20 applies for the purposes of calculating the baseline for a CCTS participant which is a pool CCTS participant.
 
-**4.**[^key-55ba636d68d3a97ff06943409e368772] A baseline which is calculated in accordance with this Part, if not a whole number, is calculated to three decimal places only.
+**4.**[^c-55ba636d68d3a97ff06943409e368772] A baseline which is calculated in accordance with this Part, if not a whole number, is calculated to three decimal places only.
 
-#### 5. Existing manufacturer which met 2021 target[^key-ed90f699ec8626866e9ac9bdbfc65e90]
+#### 5. Existing manufacturer which met 2021 target[^c-ed90f699ec8626866e9ac9bdbfc65e90]
 
 Paragraph 6 applies for the purpose of calculating the baseline for a CCTS participant—
 
@@ -75,16 +75,16 @@ Paragraph 6 applies for the purpose of calculating the baseline for a CCTS parti
   - (i) the manufacturer; or
   - (ii) the pool manager for a pool of which the manufacturer was a member for 2021.
 
-**6.**[^key-cca0be374279586c7d59bd348d0995c5] Where this paragraph applies, the CCTS participant’s baseline is the higher of—
+**6.**[^c-cca0be374279586c7d59bd348d0995c5] Where this paragraph applies, the CCTS participant’s baseline is the higher of—
 
 - (a) the manufacturer’s 2021 individual NZE average emissions; or
 - (b) the manufacturer’s 2021 individual specific emissions target.
 
-#### 7. Exempt manufacturer for 2021[^key-31f7360a4f7af6ff9bad2f8c4b52b88f]
+#### 7. Exempt manufacturer for 2021[^c-31f7360a4f7af6ff9bad2f8c4b52b88f]
 
 The baseline for a CCTS participant which was an exempt manufacturer for 2021 is the manufacturer’s 2021 individual NZE average emissions.
 
-#### 8. Existing manufacturer which did not meet 2021 target[^key-05a60b8b4133567b30f687dfcc82a697]
+#### 8. Existing manufacturer which did not meet 2021 target[^c-05a60b8b4133567b30f687dfcc82a697]
 
 Paragraph 9 applies for the purpose of calculating the baseline for a CCTS participant—
 
@@ -92,7 +92,7 @@ Paragraph 9 applies for the purpose of calculating the baseline for a CCTS parti
 - (b) which was not a member of a pool for 2021; and
 - (c) on which an excess emissions premium was imposed for 2021.
 
-**9.**[^key-54b0524772d2ee050cfbadb29d844546] Where this paragraph applies, the CCTS participant’s baseline is the number resulting from the application of the following formula—
+**9.**[^c-54b0524772d2ee050cfbadb29d844546] Where this paragraph applies, the CCTS participant’s baseline is the number resulting from the application of the following formula—
 
 [formula: see source](https://www.legislation.gov.uk/uksi/2023/1394)
 
@@ -101,7 +101,7 @@ where—
 - “E” is the manufacturer’s 2021 individual NZE average emissions; and
 - “F” is the manufacturer’s 2021 individual excess.
 
-#### 10. Existing manufacturer in non-compliant pool met individual 2021 target[^key-bb5616316d78a9751eb19a17e533ab0b]
+#### 10. Existing manufacturer in non-compliant pool met individual 2021 target[^c-bb5616316d78a9751eb19a17e533ab0b]
 
 Paragraph 11 applies for the purpose of calculating the baseline for a CCTS participant which—
 
@@ -110,12 +110,12 @@ Paragraph 11 applies for the purpose of calculating the baseline for a CCTS part
   - (i) an excess emissions premium was imposed on the pool manager for that pool for 2021; but
   - (ii) the manufacturer met its individual 2021 specific emissions target.
 
-**11.**[^key-3c44123e7b90cd8b0f9484a7f1be8c43] Where this paragraph applies, the CCTS participant’s baseline is the higher of—
+**11.**[^c-3c44123e7b90cd8b0f9484a7f1be8c43] Where this paragraph applies, the CCTS participant’s baseline is the higher of—
 
 - (a) the manufacturer’s 2021 individual NZE average emissions; or
 - (b) the manufacturer’s 2021 individual specific emissions target.
 
-#### 12. Existing manufacturer in non-compliant pool did not meet individual 2021 target[^key-2a4ee62a67e1d3a2f48da2d865ab82b1]
+#### 12. Existing manufacturer in non-compliant pool did not meet individual 2021 target[^c-2a4ee62a67e1d3a2f48da2d865ab82b1]
 
 Paragraph 13 applies for the purpose of calculating the baseline for a CCTS participant where—
 
@@ -124,7 +124,7 @@ Paragraph 13 applies for the purpose of calculating the baseline for a CCTS part
 - (c) an excess emissions premium was imposed on the pool manager for that pool for 2021; and
 - (d) the manufacturer did not meet its 2021 individual specific emissions target.
 
-**13.**[^key-171a0b4a861248fbbdaa2cc71c467999] Where this paragraph applies, the CCTS participant’s baseline is the number resulting from the application of the following formula—
+**13.**[^c-171a0b4a861248fbbdaa2cc71c467999] Where this paragraph applies, the CCTS participant’s baseline is the number resulting from the application of the following formula—
 
 [formula: see source](https://www.legislation.gov.uk/uksi/2023/1394)
 
@@ -133,7 +133,7 @@ where—
 - “E” is the manufacturer’s 2021 individual NZE average emissions; and
 - “H” is the 2021 pool excess for the pool of which the manufacturer was a member.
 
-#### 14. New manufacturer in 2022[^key-c06ebe3abf414cd4f0f70a41ba1cd067]
+#### 14. New manufacturer in 2022[^c-c06ebe3abf414cd4f0f70a41ba1cd067]
 
 Paragraph 15 applies for the purpose of calculating the baseline for a CCTS participant which—
 
@@ -141,9 +141,9 @@ Paragraph 15 applies for the purpose of calculating the baseline for a CCTS part
 - (b) was not an exempt manufacturer for 2021; and
 - (c) is the manufacturer of a non-ZE car which was registered during 2022.
 
-**15.**[^key-b07e56bde8a9969772ba3ba90910a9f3] Where this paragraph applies, the CCTS participant’s baseline is the average of the adjusted specific emissions of CO<sub>2</sub> of the non-ZE cars of which that CCTS participant is the manufacturer and which were registered during 2022.
+**15.**[^c-b07e56bde8a9969772ba3ba90910a9f3] Where this paragraph applies, the CCTS participant’s baseline is the average of the adjusted specific emissions of CO<sub>2</sub> of the non-ZE cars of which that CCTS participant is the manufacturer and which were registered during 2022.
 
-#### 16. New manufacturer in 2023[^key-198f156a6dcae8a8bece2843d844cae0]
+#### 16. New manufacturer in 2023[^c-198f156a6dcae8a8bece2843d844cae0]
 
 Paragraph 17 applies for the purpose of calculating the baseline for a CCTS participant which—
 
@@ -152,9 +152,9 @@ Paragraph 17 applies for the purpose of calculating the baseline for a CCTS part
 - (c) is not the manufacturer of a non-ZE car which was registered during 2022; and
 - (d) is the manufacturer of a non-ZE car which was registered during 2023.
 
-**17.**[^key-ce94b2a3e8efc6592e2732e3ee4cbbcc] Where this paragraph applies, the CCTS participant’s baseline is the average of the adjusted specific emissions of CO<sub>2</sub> of the non-ZE cars of which that CCTS participant is the manufacturer and which were registered during 2023.
+**17.**[^c-ce94b2a3e8efc6592e2732e3ee4cbbcc] Where this paragraph applies, the CCTS participant’s baseline is the average of the adjusted specific emissions of CO<sub>2</sub> of the non-ZE cars of which that CCTS participant is the manufacturer and which were registered during 2023.
 
-#### 18. New manufacturer from 2024[^key-d8a9d3414b93c16475f2c01760171104]
+#### 18. New manufacturer from 2024[^c-d8a9d3414b93c16475f2c01760171104]
 
 Paragraph 19 applies for the purpose of calculating the baseline for a CCTS participant which—
 
@@ -163,9 +163,9 @@ Paragraph 19 applies for the purpose of calculating the baseline for a CCTS part
 - (c) is not the manufacturer of a non-ZE car which was registered during 2022 or 2023; and
 - (d) becomes a CCTS participant, or a member of a pool CCTS participant, on or after the date on which this Order comes into force.
 
-**19.**[^key-cecf566299346faacbca03f6213a5be0] Where this paragraph applies, the CCTS participant’s baseline is the average of the adjusted specific emissions of CO<sub>2</sub> of all the non-ZE cars registered during the calendar year preceding the scheme year in which the participant first becomes a CCTS participant, or a member of a pool CCTS participant.
+**19.**[^c-cecf566299346faacbca03f6213a5be0] Where this paragraph applies, the CCTS participant’s baseline is the average of the adjusted specific emissions of CO<sub>2</sub> of all the non-ZE cars registered during the calendar year preceding the scheme year in which the participant first becomes a CCTS participant, or a member of a pool CCTS participant.
 
-#### 20. Pool CCTS participant[^key-c9dc666cf599fc28769c4c5fdfcf6014]
+#### 20. Pool CCTS participant[^c-c9dc666cf599fc28769c4c5fdfcf6014]
 
 (1) The baseline for a CCTS participant which is a pool CCTS participant is calculated as follows.
 
@@ -195,7 +195,7 @@ Paragraph 19 applies for the purpose of calculating the baseline for a CCTS part
 
 ### Part 2 — Baseline for the VCTS
 
-#### 21. Interpretation and general[^key-d5607662b0f6728f10c2cba2888d6d2e]
+#### 21. Interpretation and general[^c-d5607662b0f6728f10c2cba2888d6d2e]
 
 In this Part—
 
@@ -231,13 +231,13 @@ In this Part—
   - “C” is the pool’s 2021 pool performance; and
   - “D” is the pool’s 2021 pool specific emissions target.
 
-**22.**[^key-189fa4f718e21104d67d67ffb4fa8f94] Paragraphs 25 to 39 apply for the purposes of calculating the baseline for a VCTS participant consisting of a manufacturer which is not a member of a pool VCTS participant.
+**22.**[^c-189fa4f718e21104d67d67ffb4fa8f94] Paragraphs 25 to 39 apply for the purposes of calculating the baseline for a VCTS participant consisting of a manufacturer which is not a member of a pool VCTS participant.
 
-**23.**[^key-a53ca141d56e0f647e42afcedf85abde] Paragraph 40 applies for the purposes of calculating the baseline for a VCTS participant which is a pool VCTS participant.
+**23.**[^c-a53ca141d56e0f647e42afcedf85abde] Paragraph 40 applies for the purposes of calculating the baseline for a VCTS participant which is a pool VCTS participant.
 
-**24.**[^key-14dd38337a7e1af7fbd3102f9244036d] A baseline which is calculated in accordance with this Part, if not a whole number, is calculated to three decimal places only.
+**24.**[^c-14dd38337a7e1af7fbd3102f9244036d] A baseline which is calculated in accordance with this Part, if not a whole number, is calculated to three decimal places only.
 
-#### 25. Existing manufacturer which met 2021 target[^key-63d6edfdce815937b367b046c8ad87e8]
+#### 25. Existing manufacturer which met 2021 target[^c-63d6edfdce815937b367b046c8ad87e8]
 
 Paragraph 26 applies for the purpose of calculating the baseline for a VCTS participant—
 
@@ -246,16 +246,16 @@ Paragraph 26 applies for the purpose of calculating the baseline for a VCTS part
   - (i) the manufacturer; or
   - (ii) the pool manager for a pool of which the manufacturer was a member for 2021.
 
-**26.**[^key-8e55422376a9a17e28dbafe9128ada5c] Where this paragraph applies, the VCTS participant’s baseline is the higher of—
+**26.**[^c-8e55422376a9a17e28dbafe9128ada5c] Where this paragraph applies, the VCTS participant’s baseline is the higher of—
 
 - (a) the manufacturer’s 2021 individual NZE average emissions; or
 - (b) the manufacturer’s 2021 individual specific emissions target.
 
-#### 27. Exempt manufacturer for 2021[^key-935d65863cd88c3036bc48b9e1b5c74f]
+#### 27. Exempt manufacturer for 2021[^c-935d65863cd88c3036bc48b9e1b5c74f]
 
 The baseline for a VCTS participant which was an exempt manufacturer for 2021 is the manufacturer’s 2021 individual NZE average emissions.
 
-#### 28. Existing manufacturer which did not meet 2021 target[^key-8ad19a23be3727849e44078a7198ab4e]
+#### 28. Existing manufacturer which did not meet 2021 target[^c-8ad19a23be3727849e44078a7198ab4e]
 
 Paragraph 29 applies for the purpose of calculating the baseline for a VCTS participant—
 
@@ -263,7 +263,7 @@ Paragraph 29 applies for the purpose of calculating the baseline for a VCTS part
 - (b) which was not a member of a pool for 2021; and
 - (c) on which an excess emissions premium was imposed for 2021.
 
-**29.**[^key-45efda7dc538df2fce43b5c95b427ccf] Where this paragraph applies, the VCTS participant’s baseline is the number resulting from the application of the following formula—
+**29.**[^c-45efda7dc538df2fce43b5c95b427ccf] Where this paragraph applies, the VCTS participant’s baseline is the number resulting from the application of the following formula—
 
 [formula: see source](https://www.legislation.gov.uk/uksi/2023/1394)
 
@@ -272,7 +272,7 @@ where—
 - “E” is the manufacturer’s 2021 individual NZE average emissions; and
 - “F” is the manufacturer’s 2021 individual excess.
 
-#### 30. Existing manufacturer in non-compliant pool met individual 2021 target[^key-568b12949bd2750daa3887012d305a85]
+#### 30. Existing manufacturer in non-compliant pool met individual 2021 target[^c-568b12949bd2750daa3887012d305a85]
 
 Paragraph 31 applies for the purpose of calculating the baseline for a VCTS participant which—
 
@@ -281,12 +281,12 @@ Paragraph 31 applies for the purpose of calculating the baseline for a VCTS part
   - (i) an excess emissions premium was imposed on the pool manager for that pool for 2021; but
   - (ii) the manufacturer met its individual 2021 specific emissions target.
 
-**31.**[^key-b3a0b64b9bf114a7165453237971978b] Where this paragraph applies, the VCTS participant’s baseline is the higher of—
+**31.**[^c-b3a0b64b9bf114a7165453237971978b] Where this paragraph applies, the VCTS participant’s baseline is the higher of—
 
 - (a) the manufacturer’s 2021 individual NZE average emissions; or
 - (b) the manufacturer’s 2021 individual specific emissions target.
 
-#### 32. Existing manufacturer in non-compliant pool did not meet individual 2021 target[^key-b4f6871882efdbbe12e2fa5bad08fbfd]
+#### 32. Existing manufacturer in non-compliant pool did not meet individual 2021 target[^c-b4f6871882efdbbe12e2fa5bad08fbfd]
 
 Paragraph 33 applies for the purpose of calculating the baseline for a VCTS participant where—
 
@@ -295,7 +295,7 @@ Paragraph 33 applies for the purpose of calculating the baseline for a VCTS part
 - (c) an excess emissions premium was imposed on the pool manager for that pool in relation to 2021; and
 - (d) the manufacturer did not meet its 2021 individual specific emissions target.
 
-**33.**[^key-219728b6c5f3660dceb26841f4305a93] Where this paragraph applies, the VCTS participant’s baseline is the number resulting from the application of the following formula—
+**33.**[^c-219728b6c5f3660dceb26841f4305a93] Where this paragraph applies, the VCTS participant’s baseline is the number resulting from the application of the following formula—
 
 [formula: see source](https://www.legislation.gov.uk/uksi/2023/1394)
 
@@ -304,7 +304,7 @@ where—
 - “E” is the manufacturer’s 2021 individual NZE average emissions; and
 - “H” is the 2021 pool excess for the pool of which the manufacturer was a member
 
-#### 34. New manufacturer in 2022[^key-e3fee9ac7613c54cab77bdf7f06ba44a]
+#### 34. New manufacturer in 2022[^c-e3fee9ac7613c54cab77bdf7f06ba44a]
 
 Paragraph 35 applies for the purpose of calculating the baseline for a VCTS participant which—
 
@@ -312,9 +312,9 @@ Paragraph 35 applies for the purpose of calculating the baseline for a VCTS part
 - (b) was not an exempt manufacturer for 2021; and
 - (c) is the manufacturer of a non-ZE van which was registered during 2022.
 
-**35.**[^key-39580608f13978d1426de026e5d7647a] Where this paragraph applies, the VCTS participant’s baseline is the average of the adjusted specific emissions of CO<sub>2</sub> of the non-ZE vans of which that VCTS participant is the manufacturer and which were registered during 2022.
+**35.**[^c-39580608f13978d1426de026e5d7647a] Where this paragraph applies, the VCTS participant’s baseline is the average of the adjusted specific emissions of CO<sub>2</sub> of the non-ZE vans of which that VCTS participant is the manufacturer and which were registered during 2022.
 
-#### 36. New manufacturer in 2023[^key-c2e516a26eb2adc8acdb42bedecd71ee]
+#### 36. New manufacturer in 2023[^c-c2e516a26eb2adc8acdb42bedecd71ee]
 
 Paragraph 37 applies for the purpose of calculating the baseline for a VCTS participant which—
 
@@ -323,9 +323,9 @@ Paragraph 37 applies for the purpose of calculating the baseline for a VCTS part
 - (c) is not the manufacturer of a non-ZE van which was registered during 2022; and
 - (d) is the manufacturer of a non-ZE van which was registered during 2023.
 
-**37.**[^key-644a7cb8c8f3f5f5db2f63b8807405a2] Where this paragraph applies, the VCTS participant’s baseline is the average of the adjusted specific emissions of CO<sub>2</sub> of the non-ZE vans of which that VCTS participant is the manufacturer and which were registered during 2023.
+**37.**[^c-644a7cb8c8f3f5f5db2f63b8807405a2] Where this paragraph applies, the VCTS participant’s baseline is the average of the adjusted specific emissions of CO<sub>2</sub> of the non-ZE vans of which that VCTS participant is the manufacturer and which were registered during 2023.
 
-#### 38. New manufacturer from 2024[^key-066d752d6e61a6d56e1e720d8550db7d]
+#### 38. New manufacturer from 2024[^c-066d752d6e61a6d56e1e720d8550db7d]
 
 Paragraph 39 applies for the purpose of calculating the baseline for a VCTS participant which—
 
@@ -334,9 +334,9 @@ Paragraph 39 applies for the purpose of calculating the baseline for a VCTS part
 - (c) is not the manufacturer of a non-ZE van which was registered during 2022 or 2023; and
 - (d) becomes a VCTS participant, or a member of a pool VCTS participant, on or after the date on which this Order comes into force.
 
-**39.**[^key-fb1346ae28eb585c8390b65dafc77e48] Where this paragraph applies, the VCTS participant’s baseline is the average of the adjusted specific emissions of CO<sub>2</sub> of all the non-ZE vans registered during the calendar year preceding the scheme year in which the participant first becomes a VCTS participant, or a member of a group of manufacturers which is a pool VCTS participant.
+**39.**[^c-fb1346ae28eb585c8390b65dafc77e48] Where this paragraph applies, the VCTS participant’s baseline is the average of the adjusted specific emissions of CO<sub>2</sub> of all the non-ZE vans registered during the calendar year preceding the scheme year in which the participant first becomes a VCTS participant, or a member of a group of manufacturers which is a pool VCTS participant.
 
-#### 40. Pool VCTS participant[^key-e20b1eb5db1359b46b7da57430630e77]
+#### 40. Pool VCTS participant[^c-e20b1eb5db1359b46b7da57430630e77]
 
 (1) The baseline for a VCTS participant which is a pool VCTS participant is calculated as follows.
 
@@ -366,84 +366,84 @@ Paragraph 39 applies for the purpose of calculating the baseline for a VCTS part
 
 ## Annotations
 
-[^key-fe60884796579c5e83a5478504a162c0]: Commencement: Sch. 1 para. 1 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-fe60884796579c5e83a5478504a162c0]: Commencement: Sch. 1 para. 1 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
 
 [^f00028]: Footnote: Available at https://www.vehicle-certification-agency.gov.uk/fuel-consumption-co2/average-emissions-monitoring/co2-emissions-from-new-passenger-cars/. A hard copy is available on request from the Department for Transport, Great Minster House, 33 Horseferry Road, London SW1P 4DR.
 
-[^key-7ac2ff6a93691cc1e99ec6c893948625]: Commencement: Sch. 1 para. 2 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-7ac2ff6a93691cc1e99ec6c893948625]: Commencement: Sch. 1 para. 2 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
 
-[^key-9d771595af166c3911c372f32ec9d717]: Commencement: Sch. 1 para. 3 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-9d771595af166c3911c372f32ec9d717]: Commencement: Sch. 1 para. 3 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
 
-[^key-55ba636d68d3a97ff06943409e368772]: Commencement: Sch. 1 para. 4 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-55ba636d68d3a97ff06943409e368772]: Commencement: Sch. 1 para. 4 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
 
-[^key-ed90f699ec8626866e9ac9bdbfc65e90]: Commencement: Sch. 1 para. 5 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-ed90f699ec8626866e9ac9bdbfc65e90]: Commencement: Sch. 1 para. 5 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
 
-[^key-cca0be374279586c7d59bd348d0995c5]: Commencement: Sch. 1 para. 6 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-cca0be374279586c7d59bd348d0995c5]: Commencement: Sch. 1 para. 6 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
 
-[^key-31f7360a4f7af6ff9bad2f8c4b52b88f]: Commencement: Sch. 1 para. 7 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-31f7360a4f7af6ff9bad2f8c4b52b88f]: Commencement: Sch. 1 para. 7 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
 
-[^key-05a60b8b4133567b30f687dfcc82a697]: Commencement: Sch. 1 para. 8 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-05a60b8b4133567b30f687dfcc82a697]: Commencement: Sch. 1 para. 8 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
 
-[^key-54b0524772d2ee050cfbadb29d844546]: Commencement: Sch. 1 para. 9 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-54b0524772d2ee050cfbadb29d844546]: Commencement: Sch. 1 para. 9 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
 
-[^key-bb5616316d78a9751eb19a17e533ab0b]: Commencement: Sch. 1 para. 10 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-bb5616316d78a9751eb19a17e533ab0b]: Commencement: Sch. 1 para. 10 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
 
-[^key-3c44123e7b90cd8b0f9484a7f1be8c43]: Commencement: Sch. 1 para. 11 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-3c44123e7b90cd8b0f9484a7f1be8c43]: Commencement: Sch. 1 para. 11 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
 
-[^key-2a4ee62a67e1d3a2f48da2d865ab82b1]: Commencement: Sch. 1 para. 12 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-2a4ee62a67e1d3a2f48da2d865ab82b1]: Commencement: Sch. 1 para. 12 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
 
-[^key-171a0b4a861248fbbdaa2cc71c467999]: Commencement: Sch. 1 para. 13 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-171a0b4a861248fbbdaa2cc71c467999]: Commencement: Sch. 1 para. 13 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
 
-[^key-c06ebe3abf414cd4f0f70a41ba1cd067]: Commencement: Sch. 1 para. 14 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-c06ebe3abf414cd4f0f70a41ba1cd067]: Commencement: Sch. 1 para. 14 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
 
-[^key-b07e56bde8a9969772ba3ba90910a9f3]: Commencement: Sch. 1 para. 15 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-b07e56bde8a9969772ba3ba90910a9f3]: Commencement: Sch. 1 para. 15 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
 
-[^key-198f156a6dcae8a8bece2843d844cae0]: Commencement: Sch. 1 para. 16 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-198f156a6dcae8a8bece2843d844cae0]: Commencement: Sch. 1 para. 16 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
 
-[^key-ce94b2a3e8efc6592e2732e3ee4cbbcc]: Commencement: Sch. 1 para. 17 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-ce94b2a3e8efc6592e2732e3ee4cbbcc]: Commencement: Sch. 1 para. 17 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
 
-[^key-d8a9d3414b93c16475f2c01760171104]: Commencement: Sch. 1 para. 18 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-d8a9d3414b93c16475f2c01760171104]: Commencement: Sch. 1 para. 18 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
 
-[^key-cecf566299346faacbca03f6213a5be0]: Commencement: Sch. 1 para. 19 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-cecf566299346faacbca03f6213a5be0]: Commencement: Sch. 1 para. 19 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
 
-[^key-c9dc666cf599fc28769c4c5fdfcf6014]: Commencement: Sch. 1 para. 20 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-c9dc666cf599fc28769c4c5fdfcf6014]: Commencement: Sch. 1 para. 20 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
 
-[^key-d5607662b0f6728f10c2cba2888d6d2e]: Commencement: Sch. 1 para. 21 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-d5607662b0f6728f10c2cba2888d6d2e]: Commencement: Sch. 1 para. 21 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
 
-[^key-189fa4f718e21104d67d67ffb4fa8f94]: Commencement: Sch. 1 para. 22 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-189fa4f718e21104d67d67ffb4fa8f94]: Commencement: Sch. 1 para. 22 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
 
-[^key-a53ca141d56e0f647e42afcedf85abde]: Commencement: Sch. 1 para. 23 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-a53ca141d56e0f647e42afcedf85abde]: Commencement: Sch. 1 para. 23 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
 
-[^key-14dd38337a7e1af7fbd3102f9244036d]: Commencement: Sch. 1 para. 24 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-14dd38337a7e1af7fbd3102f9244036d]: Commencement: Sch. 1 para. 24 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
 
-[^key-63d6edfdce815937b367b046c8ad87e8]: Commencement: Sch. 1 para. 25 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-63d6edfdce815937b367b046c8ad87e8]: Commencement: Sch. 1 para. 25 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
 
-[^key-8e55422376a9a17e28dbafe9128ada5c]: Commencement: Sch. 1 para. 26 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-8e55422376a9a17e28dbafe9128ada5c]: Commencement: Sch. 1 para. 26 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
 
-[^key-935d65863cd88c3036bc48b9e1b5c74f]: Commencement: Sch. 1 para. 27 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-935d65863cd88c3036bc48b9e1b5c74f]: Commencement: Sch. 1 para. 27 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
 
-[^key-8ad19a23be3727849e44078a7198ab4e]: Commencement: Sch. 1 para. 28 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-8ad19a23be3727849e44078a7198ab4e]: Commencement: Sch. 1 para. 28 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
 
-[^key-45efda7dc538df2fce43b5c95b427ccf]: Commencement: Sch. 1 para. 29 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-45efda7dc538df2fce43b5c95b427ccf]: Commencement: Sch. 1 para. 29 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
 
-[^key-568b12949bd2750daa3887012d305a85]: Commencement: Sch. 1 para. 30 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-568b12949bd2750daa3887012d305a85]: Commencement: Sch. 1 para. 30 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
 
-[^key-b3a0b64b9bf114a7165453237971978b]: Commencement: Sch. 1 para. 31 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-b3a0b64b9bf114a7165453237971978b]: Commencement: Sch. 1 para. 31 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
 
-[^key-b4f6871882efdbbe12e2fa5bad08fbfd]: Commencement: Sch. 1 para. 32 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-b4f6871882efdbbe12e2fa5bad08fbfd]: Commencement: Sch. 1 para. 32 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
 
-[^key-219728b6c5f3660dceb26841f4305a93]: Commencement: Sch. 1 para. 33 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-219728b6c5f3660dceb26841f4305a93]: Commencement: Sch. 1 para. 33 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
 
-[^key-e3fee9ac7613c54cab77bdf7f06ba44a]: Commencement: Sch. 1 para. 34 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-e3fee9ac7613c54cab77bdf7f06ba44a]: Commencement: Sch. 1 para. 34 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
 
-[^key-39580608f13978d1426de026e5d7647a]: Commencement: Sch. 1 para. 35 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-39580608f13978d1426de026e5d7647a]: Commencement: Sch. 1 para. 35 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
 
-[^key-c2e516a26eb2adc8acdb42bedecd71ee]: Commencement: Sch. 1 para. 36 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-c2e516a26eb2adc8acdb42bedecd71ee]: Commencement: Sch. 1 para. 36 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
 
-[^key-644a7cb8c8f3f5f5db2f63b8807405a2]: Commencement: Sch. 1 para. 37 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-644a7cb8c8f3f5f5db2f63b8807405a2]: Commencement: Sch. 1 para. 37 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
 
-[^key-066d752d6e61a6d56e1e720d8550db7d]: Commencement: Sch. 1 para. 38 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-066d752d6e61a6d56e1e720d8550db7d]: Commencement: Sch. 1 para. 38 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
 
-[^key-fb1346ae28eb585c8390b65dafc77e48]: Commencement: Sch. 1 para. 39 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-fb1346ae28eb585c8390b65dafc77e48]: Commencement: Sch. 1 para. 39 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
 
-[^key-e20b1eb5db1359b46b7da57430630e77]: Commencement: Sch. 1 para. 40 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-e20b1eb5db1359b46b7da57430630e77]: Commencement: Sch. 1 para. 40 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)

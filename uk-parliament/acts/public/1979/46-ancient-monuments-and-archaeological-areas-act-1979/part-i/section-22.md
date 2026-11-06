@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 22. Ancient Monuments Boards.[^key-486f7409e0f913a9a57a81ee34380d6c]
+## 22. Ancient Monuments Boards.[^c-486f7409e0f913a9a57a81ee34380d6c]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-486f7409e0f913a9a57a81ee34380d6c]: Textual amendment: S. 22 repealed (1.4.2006) by [Ancient Monuments Board for Wales (Abolition) Order 2006 (S.I. 2006/64)](https://www.legislation.gov.uk/uksi/2006/64), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/64/article/1/2), [3(1)(a)](https://www.legislation.gov.uk/uksi/2006/64/article/3/1/a)
+[^c-486f7409e0f913a9a57a81ee34380d6c]: Textual amendment: S. 22 repealed (1.4.2006) by [Ancient Monuments Board for Wales (Abolition) Order 2006 (S.I. 2006/64)](https://www.legislation.gov.uk/uksi/2006/64), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/64/article/1/2), [3(1)(a)](https://www.legislation.gov.uk/uksi/2006/64/article/3/1/a)

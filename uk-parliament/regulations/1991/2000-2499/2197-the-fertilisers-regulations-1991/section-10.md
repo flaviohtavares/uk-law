@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 10. Register of marks[^key-66d8597dbb7b9bf49f50147c425dde2e]
+## 10. Register of marks[^c-66d8597dbb7b9bf49f50147c425dde2e]
 
 *Extent: E+W+S*
 
-(1) As respects[^key-37d650112c031fb360691292ebb9db6e] any material of a description prescribed for the purposes of section 69(1) by regulation 5 which comprises—
+(1) As respects[^c-37d650112c031fb360691292ebb9db6e] any material of a description prescribed for the purposes of section 69(1) by regulation 5 which comprises—
 
 - (a) any fertiliser in containers of a description specified in Group 4 of Section A of the table in Schedule 1; or
 - (b) any solid fertiliser, other than a solid fertiliser in containers, of a description specified in Sections A, B, D or E of the table in Schedule 1; or
@@ -35,6 +35,6 @@ the matters required by section 69 to be marked on that material may be denoted 
 
 ## Annotations
 
-[^key-66d8597dbb7b9bf49f50147c425dde2e]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1991/2197/regulation/10) in force at 1.11.1991, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1991/2197/regulation/1/1)
+[^c-66d8597dbb7b9bf49f50147c425dde2e]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1991/2197/regulation/10) in force at 1.11.1991, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1991/2197/regulation/1/1)
 
-[^key-37d650112c031fb360691292ebb9db6e]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/uksi/1991/2197/regulation/10/1) substituted (15.3.2019) by [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [2(8)](https://www.legislation.gov.uk/uksi/2019/601/regulation/2/8)
+[^c-37d650112c031fb360691292ebb9db6e]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/uksi/1991/2197/regulation/10/1) substituted (15.3.2019) by [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [2(8)](https://www.legislation.gov.uk/uksi/2019/601/regulation/2/8)

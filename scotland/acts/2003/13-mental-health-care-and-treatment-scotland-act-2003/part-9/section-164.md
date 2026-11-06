@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 164. Application to Tribunal by patient etc. for revocation or variation of compulsion order[^key-4f167e5bea92d65cff7d77749d2691dd][^key-9fcdc294f9945701a2d91a19fffa5cf5][^key-baddc33df96af75e6773b7763beed768]
+## 164. Application to Tribunal by patient etc. for revocation or variation of compulsion order[^c-4f167e5bea92d65cff7d77749d2691dd][^c-9fcdc294f9945701a2d91a19fffa5cf5][^c-baddc33df96af75e6773b7763beed768]
 
 *Extent: S*
 
@@ -57,8 +57,8 @@ the person who made the application shall not be entitled to make more than one 
 
 ## Annotations
 
-[^key-4f167e5bea92d65cff7d77749d2691dd]: Commencement: S. 164 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-4f167e5bea92d65cff7d77749d2691dd]: Commencement: S. 164 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
 
-[^key-9fcdc294f9945701a2d91a19fffa5cf5]: Modification: S. 164 modified (5.10.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (Transitional and Savings Provisions) Order 2005 (S.S.I. 2005/452)](https://www.legislation.gov.uk/ssi/2005/452), [arts. 1](https://www.legislation.gov.uk/ssi/2005/452/article/1), [17(2)](https://www.legislation.gov.uk/ssi/2005/452/article/17/2)
+[^c-9fcdc294f9945701a2d91a19fffa5cf5]: Modification: S. 164 modified (5.10.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (Transitional and Savings Provisions) Order 2005 (S.S.I. 2005/452)](https://www.legislation.gov.uk/ssi/2005/452), [arts. 1](https://www.legislation.gov.uk/ssi/2005/452/article/1), [17(2)](https://www.legislation.gov.uk/ssi/2005/452/article/17/2)
 
-[^key-baddc33df96af75e6773b7763beed768]: Modification: S. 164 modified (5.10.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (Transitional and Savings Provisions) Order 2005 (S.S.I. 2005/452)](https://www.legislation.gov.uk/ssi/2005/452), [arts. 1](https://www.legislation.gov.uk/ssi/2005/452/article/1), [10(1)](https://www.legislation.gov.uk/ssi/2005/452/article/10/1)
+[^c-baddc33df96af75e6773b7763beed768]: Modification: S. 164 modified (5.10.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (Transitional and Savings Provisions) Order 2005 (S.S.I. 2005/452)](https://www.legislation.gov.uk/ssi/2005/452), [arts. 1](https://www.legislation.gov.uk/ssi/2005/452/article/1), [10(1)](https://www.legislation.gov.uk/ssi/2005/452/article/10/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 108. Modification of section 100 of Financial Services Act in relation to transitional reference[^key-4d971ddf4812d36d66636d260a6332eb]
+## 108. Modification of section 100 of Financial Services Act in relation to transitional reference[^c-4d971ddf4812d36d66636d260a6332eb]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4d971ddf4812d36d66636d260a6332eb]: Commencement: Art. 108 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-4d971ddf4812d36d66636d260a6332eb]: Commencement: Art. 108 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

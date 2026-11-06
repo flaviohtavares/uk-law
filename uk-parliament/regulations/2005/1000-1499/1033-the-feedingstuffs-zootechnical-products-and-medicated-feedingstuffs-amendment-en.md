@@ -32,7 +32,7 @@ summary: ''
 
 AGRICULTURE
 
-The Feedingstuffs (Zootechnical Products) and Medicated Feedingstuffs (Amendment) (England, Scotlandand Wales) Regulations 2005 (revoked)[^key-023818c050e204665eed244ea022a99c]
+The Feedingstuffs (Zootechnical Products) and Medicated Feedingstuffs (Amendment) (England, Scotlandand Wales) Regulations 2005 (revoked)[^c-023818c050e204665eed244ea022a99c]
 
 Made
 
@@ -46,50 +46,50 @@ Coming into force
 
 22nd April 2005
 
-[^key-023818c050e204665eed244ea022a99c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-023818c050e204665eed244ea022a99c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and extent[^key-023818c050e204665eed244ea022a99c]
+## 1. Title, commencement and extent[^c-023818c050e204665eed244ea022a99c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Feedingstuffs (Zootechnical Products) Regulations 1999[^key-023818c050e204665eed244ea022a99c]
+## 2. Amendment of the Feedingstuffs (Zootechnical Products) Regulations 1999[^c-023818c050e204665eed244ea022a99c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Medicated Feedingstuffs Regulations 1998[^key-023818c050e204665eed244ea022a99c]
+## 3. Amendment of the Medicated Feedingstuffs Regulations 1998[^c-023818c050e204665eed244ea022a99c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-023818c050e204665eed244ea022a99c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-023818c050e204665eed244ea022a99c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-023818c050e204665eed244ea022a99c]
+## SCHEDULE[^c-023818c050e204665eed244ea022a99c]
 
 Regulations 2 and 3
 
-### PART 1 — Substitution of the table in Part II of Schedule 3 to the Feedingstuffs (Zootechnical Products) Regulations 1999[^key-023818c050e204665eed244ea022a99c]
+### PART 1 — Substitution of the table in Part II of Schedule 3 to the Feedingstuffs (Zootechnical Products) Regulations 1999[^c-023818c050e204665eed244ea022a99c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Substitution of the table in Part III of Schedule 3 to the Feedingstuffs (Zootechnical Products) Regulations 1999[^key-023818c050e204665eed244ea022a99c]
+### PART 2 — Substitution of the table in Part III of Schedule 3 to the Feedingstuffs (Zootechnical Products) Regulations 1999[^c-023818c050e204665eed244ea022a99c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 3 — Substitution of the table in Part I of Schedule 1 to the Medicated Feedingstuffs Regulations 1998[^key-023818c050e204665eed244ea022a99c]
+### PART 3 — Substitution of the table in Part I of Schedule 1 to the Medicated Feedingstuffs Regulations 1998[^c-023818c050e204665eed244ea022a99c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 4 — Substitution of the table in Part II of Schedule 1 to the Medicated Feedingstuffs Regulations 1998[^key-023818c050e204665eed244ea022a99c]
+### PART 4 — Substitution of the table in Part II of Schedule 1 to the Medicated Feedingstuffs Regulations 1998[^c-023818c050e204665eed244ea022a99c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-023818c050e204665eed244ea022a99c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-023818c050e204665eed244ea022a99c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-023818c050e204665eed244ea022a99c]: Textual amendment: Regulations revoked (1.1.2006) by [The Veterinary Medicines Regulations 2005 (S.I. 2005/2745)](https://www.legislation.gov.uk/uksi/2005/2745), [Sch. 8 Pt. 2](https://www.legislation.gov.uk/uksi/2005/2745/schedule/8/part/2) (with [Sch. 8 Pt. 4](https://www.legislation.gov.uk/uksi/2005/2745/schedule/8/part/4))
+[^c-023818c050e204665eed244ea022a99c]: Textual amendment: Regulations revoked (1.1.2006) by [The Veterinary Medicines Regulations 2005 (S.I. 2005/2745)](https://www.legislation.gov.uk/uksi/2005/2745), [Sch. 8 Pt. 2](https://www.legislation.gov.uk/uksi/2005/2745/schedule/8/part/2) (with [Sch. 8 Pt. 4](https://www.legislation.gov.uk/uksi/2005/2745/schedule/8/part/4))

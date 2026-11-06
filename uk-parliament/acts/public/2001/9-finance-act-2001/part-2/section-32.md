@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) The Commissioners shall not be liable, on any claim for a repayment of aggregates levy, to repay any amount paid to them more than 4 years[^key-68f4bc64379640d716eca9b9f9b28ec8] before the making of the claim.
+(1) The Commissioners shall not be liable, on any claim for a repayment of aggregates levy, to repay any amount paid to them more than 4 years[^c-68f4bc64379640d716eca9b9f9b28ec8] before the making of the claim.
 
 (2)[^c12450281] In the case of any claim for a repayment of an amount of aggregates levy other than a claim to a repayment to which a person is entitled by virtue of tax credit regulations, it shall be a defence to that claim that the repayment of that amount would unjustly enrich the claimant.
 
@@ -47,6 +47,6 @@ summary: ''
 
 [^c12450271]: Modification: S. 32 extended (1.4.2002) by [S.I. 2002/761](https://www.legislation.gov.uk/uksi/2002/761), [reg. 15(5)](https://www.legislation.gov.uk/uksi/2002/761/regulation/15/5)
 
-[^key-68f4bc64379640d716eca9b9f9b28ec8]: Textual amendment: Words in s. 32(1) substituted (1.4.2010) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 99(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/99/2), [Sch. 51 para. 28](https://www.legislation.gov.uk/ukpga/2009/10/schedule/51/paragraph/28); [S.I. 2010/867](https://www.legislation.gov.uk/uksi/2010/867), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/867/article/2/1) (with [art. 8](https://www.legislation.gov.uk/uksi/2010/867/article/8))
+[^c-68f4bc64379640d716eca9b9f9b28ec8]: Textual amendment: Words in s. 32(1) substituted (1.4.2010) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 99(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/99/2), [Sch. 51 para. 28](https://www.legislation.gov.uk/ukpga/2009/10/schedule/51/paragraph/28); [S.I. 2010/867](https://www.legislation.gov.uk/uksi/2010/867), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/867/article/2/1) (with [art. 8](https://www.legislation.gov.uk/uksi/2010/867/article/8))
 
 [^c12450281]: Modification: S. 32(2) modified (1.4.2002) by [S.I. 2002/761](https://www.legislation.gov.uk/uksi/2002/761), [reg. 21](https://www.legislation.gov.uk/uksi/2002/761/regulation/21)

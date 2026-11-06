@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Deferment of added pension attributable to recent payments[^key-d6e1b5339198a0b1c0e3f5a4fdccab43]
+## 79. Deferment of added pension attributable to recent payments[^c-d6e1b5339198a0b1c0e3f5a4fdccab43]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d6e1b5339198a0b1c0e3f5a4fdccab43]: Commencement: [Reg. 79](https://www.legislation.gov.uk/uksi/2014/1964/regulation/79) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-d6e1b5339198a0b1c0e3f5a4fdccab43]: Commencement: [Reg. 79](https://www.legislation.gov.uk/uksi/2014/1964/regulation/79) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)

@@ -32,7 +32,7 @@ summary: ''
 
 Customs
 
-The Export Control (Libya Sanctions) Order 2016 (revoked)[^key-9649543567841bd2fea06e48b339499f]
+The Export Control (Libya Sanctions) Order 2016 (revoked)[^c-9649543567841bd2fea06e48b339499f]
 
 Made
 
@@ -46,75 +46,75 @@ Coming into force
 
 12th August 2016
 
-[^key-9649543567841bd2fea06e48b339499f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9649543567841bd2fea06e48b339499f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — Introductory[^key-9649543567841bd2fea06e48b339499f]
+## PART 1 — Introductory[^c-9649543567841bd2fea06e48b339499f]
 
-### 1. Citation and commencement[^key-9649543567841bd2fea06e48b339499f]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Revocation[^key-9649543567841bd2fea06e48b339499f]
+### 1. Citation and commencement[^c-9649543567841bd2fea06e48b339499f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Application[^key-9649543567841bd2fea06e48b339499f]
+### 2. Revocation[^c-9649543567841bd2fea06e48b339499f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Interpretation[^key-9649543567841bd2fea06e48b339499f]
+### 3. Application[^c-9649543567841bd2fea06e48b339499f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — Offences relating to prohibitions in the Libya Regulation[^key-9649543567841bd2fea06e48b339499f]
-
-### 5. Offences related to equipment which might be used for internal repression as listed in Annex I[^key-9649543567841bd2fea06e48b339499f]
+### 4. Interpretation[^c-9649543567841bd2fea06e48b339499f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5A. Offences related to goods which could be used for smuggling of migrants etc. set out in Annex VII[^key-9649543567841bd2fea06e48b339499f]
+## PART 2 — Offences relating to prohibitions in the Libya Regulation[^c-9649543567841bd2fea06e48b339499f]
+
+### 5. Offences related to equipment which might be used for internal repression as listed in Annex I[^c-9649543567841bd2fea06e48b339499f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Offences related to goods and technology listed in the Common Military List and financing or financial assistance related to goods listed in Annex I[^key-9649543567841bd2fea06e48b339499f]
+### 5A. Offences related to goods which could be used for smuggling of migrants etc. set out in Annex VII[^c-9649543567841bd2fea06e48b339499f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — Supplementary offences[^key-9649543567841bd2fea06e48b339499f]
-
-### 7. Circumvention of prohibitions in the Libya Regulation[^key-9649543567841bd2fea06e48b339499f]
+### 6. Offences related to goods and technology listed in the Common Military List and financing or financial assistance related to goods listed in Annex I[^c-9649543567841bd2fea06e48b339499f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Offences related to an EU authorisation[^key-9649543567841bd2fea06e48b339499f]
+## PART 3 — Supplementary offences[^c-9649543567841bd2fea06e48b339499f]
+
+### 7. Circumvention of prohibitions in the Libya Regulation[^c-9649543567841bd2fea06e48b339499f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 4 — Enforcement and penalties[^key-9649543567841bd2fea06e48b339499f]
-
-### 9. Penalties[^key-9649543567841bd2fea06e48b339499f]
+### 8. Offences related to an EU authorisation[^c-9649543567841bd2fea06e48b339499f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Application of the 1979 Act[^key-9649543567841bd2fea06e48b339499f]
+## PART 4 — Enforcement and penalties[^c-9649543567841bd2fea06e48b339499f]
+
+### 9. Penalties[^c-9649543567841bd2fea06e48b339499f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 5 — Miscellaneous[^key-9649543567841bd2fea06e48b339499f]
-
-### 11. Amendment of the Export Control Order 2008[^key-9649543567841bd2fea06e48b339499f]
+### 10. Application of the 1979 Act[^c-9649543567841bd2fea06e48b339499f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 6 — General[^key-9649543567841bd2fea06e48b339499f]
+## PART 5 — Miscellaneous[^c-9649543567841bd2fea06e48b339499f]
 
-### 12. Review[^key-9649543567841bd2fea06e48b339499f]
+### 11. Amendment of the Export Control Order 2008[^c-9649543567841bd2fea06e48b339499f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9649543567841bd2fea06e48b339499f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## PART 6 — General[^c-9649543567841bd2fea06e48b339499f]
+
+### 12. Review[^c-9649543567841bd2fea06e48b339499f]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-9649543567841bd2fea06e48b339499f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
@@ -122,4 +122,4 @@ Coming into force
 
 ## Annotations
 
-[^key-9649543567841bd2fea06e48b339499f]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2016/787) revoked (31.12.2020) by [The Libya (Sanctions) (EU Exit) Regulations 2020 (S.I. 2020/1665)](https://www.legislation.gov.uk/uksi/2020/1665), [reg. 85(4)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/85/4)
+[^c-9649543567841bd2fea06e48b339499f]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2016/787) revoked (31.12.2020) by [The Libya (Sanctions) (EU Exit) Regulations 2020 (S.I. 2020/1665)](https://www.legislation.gov.uk/uksi/2020/1665), [reg. 85(4)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/85/4)

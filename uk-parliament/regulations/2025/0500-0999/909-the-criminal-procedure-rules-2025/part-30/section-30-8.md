@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30.8. Warrant of control: application by enforcement agent for extension of time, etc.[^key-aae93765c7241a91937493ca4ebff907]
+## 30.8. Warrant of control: application by enforcement agent for extension of time, etc.[^c-aae93765c7241a91937493ca4ebff907]
 
 *Extent: E+W*
 
@@ -42,7 +42,7 @@ summary: ''
 - (a) identify the power that the agent wants the court to exercise;
 - (b) explain how the conditions for the exercise of that power are satisfied, including any condition that requires the agent to give another person notice of the application;
 - (c) specify those persons, if any, to whom the agent has given notice in accordance with such a condition; and
-- (d) propose the terms of the order that the agent wants the court to make .[^key-3bbabde82c1fb3cb22fceaf6a443c3b8]
+- (d) propose the terms of the order that the agent wants the court to make .[^c-3bbabde82c1fb3cb22fceaf6a443c3b8]
 
 (4) A person to whom the enforcement agent has given notice of an application and who wants to make representations to the court must—
 
@@ -66,11 +66,11 @@ summary: ''
 
 ## Annotations
 
-[^key-aae93765c7241a91937493ca4ebff907]: Commencement: [Rule 30.8](https://www.legislation.gov.uk/uksi/2025/909/rule/30.8) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-aae93765c7241a91937493ca4ebff907]: Commencement: [Rule 30.8](https://www.legislation.gov.uk/uksi/2025/909/rule/30.8) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00739]: Footnote: [2007 c. 15](https://www.legislation.gov.uk/ukpga/2007/15).
 
-[^key-3bbabde82c1fb3cb22fceaf6a443c3b8]: Textual amendment: Rule 30.8(3)(d): full stop substituted for semicolon (23.2.2026) by [The Criminal Procedure (Amendment) Rules 2026 (S.I. 2026/47)](https://www.legislation.gov.uk/uksi/2026/47), [rule 2](https://www.legislation.gov.uk/uksi/2026/47/rule/2), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2026/47/schedule/paragraph/10)
+[^c-3bbabde82c1fb3cb22fceaf6a443c3b8]: Textual amendment: Rule 30.8(3)(d): full stop substituted for semicolon (23.2.2026) by [The Criminal Procedure (Amendment) Rules 2026 (S.I. 2026/47)](https://www.legislation.gov.uk/uksi/2026/47), [rule 2](https://www.legislation.gov.uk/uksi/2026/47/rule/2), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2026/47/schedule/paragraph/10)
 
 [^f00740]: Footnote: [2007 c. 15](https://www.legislation.gov.uk/ukpga/2007/15). Paragraph 31 of Schedule 12 was amended by section 25(1) and (5) of the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22). Paragraphs 60 and 66 of Schedule 12 were amended by paragraph 52 of Schedule 9 to the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22).
 

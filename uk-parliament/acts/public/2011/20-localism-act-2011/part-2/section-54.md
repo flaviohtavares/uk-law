@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Warning notices[^key-3f05b19f08cbf7b9a7baa2186635aaeb]
+## 54. Warning notices[^c-3f05b19f08cbf7b9a7baa2186635aaeb]
 
 *Extent: E+W+S+N.I.*
 
@@ -80,4 +80,4 @@ and the day specified for the purposes of paragraph (b) must be no later than th
 
 ## Annotations
 
-[^key-3f05b19f08cbf7b9a7baa2186635aaeb]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2011/20/section/54) in force at 31.5.2012 by [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 5](https://www.legislation.gov.uk/uksi/2012/1008/article/5)
+[^c-3f05b19f08cbf7b9a7baa2186635aaeb]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2011/20/section/54) in force at 31.5.2012 by [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 5](https://www.legislation.gov.uk/uksi/2012/1008/article/5)

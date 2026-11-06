@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Re-investigations following a review[^key-9f9a522751b719272f5f2eb2ce1385da]
+## 66. Re-investigations following a review[^c-9f9a522751b719272f5f2eb2ce1385da]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9f9a522751b719272f5f2eb2ce1385da]: Commencement: Reg. 66 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-9f9a522751b719272f5f2eb2ce1385da]: Commencement: Reg. 66 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation and commencement[^key-4408a3dcbdd4b2b3487e74c088a067d7]
+## 1. Citation and commencement[^c-4408a3dcbdd4b2b3487e74c088a067d7]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ These Rules may be cited as the PPP Administration Order Rules 2007 and shall co
 
 ## Annotations
 
-[^key-4408a3dcbdd4b2b3487e74c088a067d7]: Commencement: [Rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-4408a3dcbdd4b2b3487e74c088a067d7]: Commencement: [Rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

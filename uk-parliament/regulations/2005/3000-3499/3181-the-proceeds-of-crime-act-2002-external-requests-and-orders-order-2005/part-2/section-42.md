@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Discharge and variation of receiver orders[^key-7335110febfbe683865abad87e67b52d]
+## 42. Discharge and variation of receiver orders[^c-7335110febfbe683865abad87e67b52d]
 
 *Extent: E+W+S+N.I.*
 
-(1) The following persons may apply to the Crown Court to vary or discharge an order made under article 15, 16 or 27 to 29[^key-5f437fbc7fae5c0ca5b65836b1de4618]—
+(1) The following persons may apply to the Crown Court to vary or discharge an order made under article 15, 16 or 27 to 29[^c-5f437fbc7fae5c0ca5b65836b1de4618]—
 
 - (a) the receiver;
 - (b) the relevant Director;
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7335110febfbe683865abad87e67b52d]: Commencement: [Art. 42](https://www.legislation.gov.uk/uksi/2005/3181/article/42) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-7335110febfbe683865abad87e67b52d]: Commencement: [Art. 42](https://www.legislation.gov.uk/uksi/2005/3181/article/42) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
 
-[^key-5f437fbc7fae5c0ca5b65836b1de4618]: Textual amendment: Words in [art. 42(1)](https://www.legislation.gov.uk/uksi/2005/3181/article/42/1) substituted (1.4.2008) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2008 (S.I. 2008/302)](https://www.legislation.gov.uk/uksi/2008/302), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/302/article/1/1), [2(16)](https://www.legislation.gov.uk/uksi/2008/302/article/2/16)
+[^c-5f437fbc7fae5c0ca5b65836b1de4618]: Textual amendment: Words in [art. 42(1)](https://www.legislation.gov.uk/uksi/2005/3181/article/42/1) substituted (1.4.2008) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2008 (S.I. 2008/302)](https://www.legislation.gov.uk/uksi/2008/302), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/302/article/1/1), [2(16)](https://www.legislation.gov.uk/uksi/2008/302/article/2/16)

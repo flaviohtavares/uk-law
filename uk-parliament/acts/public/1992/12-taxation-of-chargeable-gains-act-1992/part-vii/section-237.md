@@ -22,12 +22,12 @@ summary: ''
 
 No chargeable gain shall accrue to any person on the disposal of a right to, or to any part of—
 
-- (a) any allowance, annuity or capital sum payable out of any superannuation fund, or under any superannuation scheme, established solely or mainly for persons employed in a profession, trade, undertaking or employment, and their dependants, or[^key-588bc08c228a070f5fc2491a5afa39a4]
-- (b)[^key-a9c9b69b60c3a75b51ec8056c5e88e85] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) any allowance, annuity or capital sum payable out of any superannuation fund, or under any superannuation scheme, established solely or mainly for persons employed in a profession, trade, undertaking or employment, and their dependants, or[^c-588bc08c228a070f5fc2491a5afa39a4]
+- (b)[^c-a9c9b69b60c3a75b51ec8056c5e88e85] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) annual payments which are due under a covenant made by any person and which are not secured on any property.
 
 ## Annotations
 
-[^key-588bc08c228a070f5fc2491a5afa39a4]: Textual amendment: Word in s. 237(a) inserted (with effect in accordance with s. 73(4) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 73(3)(a)](https://www.legislation.gov.uk/ukpga/2006/25/section/73/3/a)
+[^c-588bc08c228a070f5fc2491a5afa39a4]: Textual amendment: Word in s. 237(a) inserted (with effect in accordance with s. 73(4) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 73(3)(a)](https://www.legislation.gov.uk/ukpga/2006/25/section/73/3/a)
 
-[^key-a9c9b69b60c3a75b51ec8056c5e88e85]: Textual amendment: S. 237(b) repealed (with effect in accordance with s. 73(4) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 73(3)(b)](https://www.legislation.gov.uk/ukpga/2006/25/section/73/3/b), [Sch. 26 Pt. 3(10)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/3/10)
+[^c-a9c9b69b60c3a75b51ec8056c5e88e85]: Textual amendment: S. 237(b) repealed (with effect in accordance with s. 73(4) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 73(3)(b)](https://www.legislation.gov.uk/ukpga/2006/25/section/73/3/b), [Sch. 26 Pt. 3(10)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/3/10)

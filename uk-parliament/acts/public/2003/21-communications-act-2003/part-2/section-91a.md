@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91A. SMP services conditions: wholesale-only undertakings[^key-53ac08f81cb8f0f8d4574ee411d86e35]
+## 91A. SMP services conditions: wholesale-only undertakings[^c-53ac08f81cb8f0f8d4574ee411d86e35]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ summary: ''
 
 (2) OFCOM must consider whether the following tests are satisfied in the case of the dominant provider.
 
-(3) The first test is that none of the persons specified in subsection (4) has activities in any retail market for electronic communications services provided to end-users in the United Kingdom[^key-c66f2f3729fe1e7d0d886cf6ed84168c].
+(3) The first test is that none of the persons specified in subsection (4) has activities in any retail market for electronic communications services provided to end-users in the United Kingdom[^c-c66f2f3729fe1e7d0d886cf6ed84168c].
 
 (4) Those persons are—
 
@@ -56,6 +56,6 @@ summary: ''
 
 ## Annotations
 
-[^key-53ac08f81cb8f0f8d4574ee411d86e35]: Textual amendment: S. 91A and cross-heading inserted (21.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/2), [Sch. 1 para. 43](https://www.legislation.gov.uk/uksi/2020/1419/schedule/1/paragraph/43)
+[^c-53ac08f81cb8f0f8d4574ee411d86e35]: Textual amendment: S. 91A and cross-heading inserted (21.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/2), [Sch. 1 para. 43](https://www.legislation.gov.uk/uksi/2020/1419/schedule/1/paragraph/43)
 
-[^key-c66f2f3729fe1e7d0d886cf6ed84168c]: Textual amendment: Words in [s. 91A(3)](https://www.legislation.gov.uk/ukpga/2003/21/section/91A/3) substituted (31.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/3/a), [Sch. 1 para. 75](https://www.legislation.gov.uk/uksi/2020/1419/schedule/1/paragraph/75)
+[^c-c66f2f3729fe1e7d0d886cf6ed84168c]: Textual amendment: Words in [s. 91A(3)](https://www.legislation.gov.uk/ukpga/2003/21/section/91A/3) substituted (31.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/3/a), [Sch. 1 para. 75](https://www.legislation.gov.uk/uksi/2020/1419/schedule/1/paragraph/75)

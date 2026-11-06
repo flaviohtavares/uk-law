@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Acquisition of subsoil or airspace only[^key-44fcb6073c034451aad7a9ec2bfaea65]
+## 33. Acquisition of subsoil or airspace only[^c-44fcb6073c034451aad7a9ec2bfaea65]
 
 *Extent: E+W*
 
@@ -25,7 +25,7 @@ summary: ''
 (2) In the case of the Order land specified in columns (1) and (2) of Schedule 10 (land in which only subsoil or new rights in and above subsoil and surface may be acquired) the undertaker’s powers of compulsory acquisition are limited to—
 
 - (a) the acquisition of such subsoil; and
-- (b) subject to paragraph (8), the acquisition of such easements or other new rights and the imposition of restrictive covenants in the remaining subsoil and over the surface of the land including rights and restrictive covenants for the benefit of a statutory undertaker , public communications provider[^key-ae8a86df377e14d5979a379c0379ab81],
+- (b) subject to paragraph (8), the acquisition of such easements or other new rights and the imposition of restrictive covenants in the remaining subsoil and over the surface of the land including rights and restrictive covenants for the benefit of a statutory undertaker , public communications provider[^c-ae8a86df377e14d5979a379c0379ab81],
 
 as the undertaker may require for or in connection with the purposes specified in relation to that land in column (3) of that Schedule.
 
@@ -52,14 +52,14 @@ at the time of this Order coming into force.
 
 (8) The undertaker may not acquire easements or other new rights or impose restrictive covenants under paragraph (2)(b) on, over or under the riverbed of the river Thames for the protection of the tunnels.
 
-(9)[^key-f2f28f6873bcec94f9f18f4bb16afb86] In this article, “**public communications provider**” means a public communications provider as defined in section 151(1) of the Communications Act 2003.
+(9)[^c-f2f28f6873bcec94f9f18f4bb16afb86] In this article, “**public communications provider**” means a public communications provider as defined in section 151(1) of the Communications Act 2003.
 
 ## Annotations
 
-[^key-44fcb6073c034451aad7a9ec2bfaea65]: Commencement: Art. 33 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-44fcb6073c034451aad7a9ec2bfaea65]: Commencement: Art. 33 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-ae8a86df377e14d5979a379c0379ab81]: Textual amendment: Words in [art. 33(2)(b)](https://www.legislation.gov.uk/uksi/2025/462/article/33/2/b) inserted (12.9.2025) by [The A122 (Lower Thames Crossing) Development Consent (Correction) Order 2025 (S.I. 2025/1014)](https://www.legislation.gov.uk/uksi/2025/1014), [art. 1](https://www.legislation.gov.uk/uksi/2025/1014/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1014/schedule)
+[^c-ae8a86df377e14d5979a379c0379ab81]: Textual amendment: Words in [art. 33(2)(b)](https://www.legislation.gov.uk/uksi/2025/462/article/33/2/b) inserted (12.9.2025) by [The A122 (Lower Thames Crossing) Development Consent (Correction) Order 2025 (S.I. 2025/1014)](https://www.legislation.gov.uk/uksi/2025/1014), [art. 1](https://www.legislation.gov.uk/uksi/2025/1014/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1014/schedule)
 
 [^f00098]: Footnote: Section 153(4A) was inserted by section 200(1) and (2) of the Housing and Planning Act [2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22).
 
-[^key-f2f28f6873bcec94f9f18f4bb16afb86]: Textual amendment: [Art. 33(9)](https://www.legislation.gov.uk/uksi/2025/462/article/33/9) inserted (12.9.2025) by [The A122 (Lower Thames Crossing) Development Consent (Correction) Order 2025 (S.I. 2025/1014)](https://www.legislation.gov.uk/uksi/2025/1014), [art. 1](https://www.legislation.gov.uk/uksi/2025/1014/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1014/schedule)
+[^c-f2f28f6873bcec94f9f18f4bb16afb86]: Textual amendment: [Art. 33(9)](https://www.legislation.gov.uk/uksi/2025/462/article/33/9) inserted (12.9.2025) by [The A122 (Lower Thames Crossing) Development Consent (Correction) Order 2025 (S.I. 2025/1014)](https://www.legislation.gov.uk/uksi/2025/1014), [art. 1](https://www.legislation.gov.uk/uksi/2025/1014/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1014/schedule)

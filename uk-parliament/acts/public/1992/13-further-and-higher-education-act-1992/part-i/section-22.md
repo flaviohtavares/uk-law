@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Subsequent instruments and articles[^c11062961][^key-5e888b7349b299daa21f17c4feb65aec]
+## 22. Subsequent instruments and articles[^c11062961][^c-5e888b7349b299daa21f17c4feb65aec]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ A further education corporation may modify or replace their instrument of govern
 
 [^c11062961]: Commencement: S. 22 wholly in force at 30.9.1992 see s. 94(3) and [S.I. 1992/831](https://www.legislation.gov.uk/uksi/1992/831), [art. 2](https://www.legislation.gov.uk/uksi/1992/831/article/2), [Sch. 2](https://www.legislation.gov.uk/uksi/1992/831/schedule/2)
 
-[^key-5e888b7349b299daa21f17c4feb65aec]: Textual amendment: S. 22 substituted for ss. 22, 22ZA (1.9.2014) by [Further and Higher Education (Governance and Information) (Wales) Act 2014 (anaw 1)](https://www.legislation.gov.uk/anaw/2014/1), [ss. 2(3)](https://www.legislation.gov.uk/anaw/2014/1/section/2/3), [11(2)](https://www.legislation.gov.uk/anaw/2014/1/section/11/2); [S.I. 2014/1706](https://www.legislation.gov.uk/wsi/2014/1706), [art. 3(b)](https://www.legislation.gov.uk/wsi/2014/1706/article/3/b)
+[^c-5e888b7349b299daa21f17c4feb65aec]: Textual amendment: S. 22 substituted for ss. 22, 22ZA (1.9.2014) by [Further and Higher Education (Governance and Information) (Wales) Act 2014 (anaw 1)](https://www.legislation.gov.uk/anaw/2014/1), [ss. 2(3)](https://www.legislation.gov.uk/anaw/2014/1/section/2/3), [11(2)](https://www.legislation.gov.uk/anaw/2014/1/section/11/2); [S.I. 2014/1706](https://www.legislation.gov.uk/wsi/2014/1706), [art. 3(b)](https://www.legislation.gov.uk/wsi/2014/1706/article/3/b)

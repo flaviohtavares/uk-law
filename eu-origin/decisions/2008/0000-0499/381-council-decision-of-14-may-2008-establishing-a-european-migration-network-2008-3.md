@@ -36,68 +36,68 @@ establishing a European Migration Network
 
 (2008/381/EC) (revoked)
 
-[^key-26bd6aa355d87b40545a9c1d946175ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-26bd6aa355d87b40545a9c1d946175ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Subject matter and scope[^key-26bd6aa355d87b40545a9c1d946175ab]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Tasks[^key-26bd6aa355d87b40545a9c1d946175ab]
+## Article 1. Subject matter and scope[^c-26bd6aa355d87b40545a9c1d946175ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Composition[^key-26bd6aa355d87b40545a9c1d946175ab]
+## Article 2. Tasks[^c-26bd6aa355d87b40545a9c1d946175ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Steering Board[^key-26bd6aa355d87b40545a9c1d946175ab]
+## Article 3. Composition[^c-26bd6aa355d87b40545a9c1d946175ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. National Contact Points[^key-26bd6aa355d87b40545a9c1d946175ab]
+## Article 4. Steering Board[^c-26bd6aa355d87b40545a9c1d946175ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Coordination[^key-26bd6aa355d87b40545a9c1d946175ab]
+## Article 5. National Contact Points[^c-26bd6aa355d87b40545a9c1d946175ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Meetings[^key-26bd6aa355d87b40545a9c1d946175ab]
+## Article 6. Coordination[^c-26bd6aa355d87b40545a9c1d946175ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Information exchange system[^key-26bd6aa355d87b40545a9c1d946175ab]
+## Article 7. Meetings[^c-26bd6aa355d87b40545a9c1d946175ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Reports and studies[^key-26bd6aa355d87b40545a9c1d946175ab]
+## Article 8. Information exchange system[^c-26bd6aa355d87b40545a9c1d946175ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Cooperation with other entities[^key-26bd6aa355d87b40545a9c1d946175ab]
+## Article 9. Reports and studies[^c-26bd6aa355d87b40545a9c1d946175ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 11. Budgetary resources[^key-26bd6aa355d87b40545a9c1d946175ab]
+## Article 10. Cooperation with other entities[^c-26bd6aa355d87b40545a9c1d946175ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 12. Implementation of the budget[^key-26bd6aa355d87b40545a9c1d946175ab]
+## Article 11. Budgetary resources[^c-26bd6aa355d87b40545a9c1d946175ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 13. Review[^key-26bd6aa355d87b40545a9c1d946175ab]
+## Article 12. Implementation of the budget[^c-26bd6aa355d87b40545a9c1d946175ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 14. Publication and date of application[^key-26bd6aa355d87b40545a9c1d946175ab]
+## Article 13. Review[^c-26bd6aa355d87b40545a9c1d946175ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 15. Addressees[^key-26bd6aa355d87b40545a9c1d946175ab]
+## Article 14. Publication and date of application[^c-26bd6aa355d87b40545a9c1d946175ab]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Article 15. Addressees[^c-26bd6aa355d87b40545a9c1d946175ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-26bd6aa355d87b40545a9c1d946175ab]: Textual amendment: Decision revoked (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2019/745/schedule/1/part/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-26bd6aa355d87b40545a9c1d946175ab]: Textual amendment: Decision revoked (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2019/745/schedule/1/part/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

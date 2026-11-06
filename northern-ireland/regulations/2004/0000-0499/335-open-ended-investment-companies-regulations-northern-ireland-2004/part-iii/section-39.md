@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 39. Power of directors and general meeting to bind the company[^key-42a8aaee2ed7f3b1f9878ce8cf8364ad]
+## 39. Power of directors and general meeting to bind the company[^c-42a8aaee2ed7f3b1f9878ce8cf8364ad]
 
 *Extent: N.I.*
 
@@ -33,7 +33,7 @@ are deemed to be free of any limitation under the company’s constitution.
 - (b) subject to paragraph (4), a person is not to be regarded as acting in bad faith by reason only of his knowing that, under the company’s constitution, an act is beyond any of the powers referred to in paragraph (1)(a) or (b); and
 - (c) subject to paragraph (4), a person is presumed to have acted in good faith unless the contrary is proved.
 
-(3) The reference in paragraph (1) to any limitation under the company’s constitution on the powers therein set out includes any limitation deriving from these Regulations, from FCA rules[^key-17a9141fb993bcb8fc32d9b21cf6070f] or from a resolution of the company in general meeting or of a meeting of any class of shareholders.
+(3) The reference in paragraph (1) to any limitation under the company’s constitution on the powers therein set out includes any limitation deriving from these Regulations, from FCA rules[^c-17a9141fb993bcb8fc32d9b21cf6070f] or from a resolution of the company in general meeting or of a meeting of any class of shareholders.
 
 (4) Sub-paragraphs (b) and (c) of paragraph (2) do not apply where –
 
@@ -46,6 +46,6 @@ are deemed to be free of any limitation under the company’s constitution.
 
 ## Annotations
 
-[^key-42a8aaee2ed7f3b1f9878ce8cf8364ad]: Commencement: [Reg. 39](https://www.legislation.gov.uk/nisr/2004/335/regulation/39) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
+[^c-42a8aaee2ed7f3b1f9878ce8cf8364ad]: Commencement: [Reg. 39](https://www.legislation.gov.uk/nisr/2004/335/regulation/39) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
 
-[^key-17a9141fb993bcb8fc32d9b21cf6070f]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/nisr/2004/335) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 87(2)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/87/2)
+[^c-17a9141fb993bcb8fc32d9b21cf6070f]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/nisr/2004/335) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 87(2)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/87/2)

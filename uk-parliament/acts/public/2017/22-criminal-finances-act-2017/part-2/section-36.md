@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Sharing of information within the regulated sector[^key-594799d22f81ed8463ba2b6a69239893][^key-136ff66dc4f4a0bb056e217657ba6b11][^c22725391]
+## 36. Sharing of information within the regulated sector[^c-594799d22f81ed8463ba2b6a69239893][^c-136ff66dc4f4a0bb056e217657ba6b11][^c22725391]
 
 *Extent: E+W+S+N.I.*
 
@@ -254,8 +254,8 @@ After section 21C of the Terrorism Act 2000 insert—
 
 ## Annotations
 
-[^key-594799d22f81ed8463ba2b6a69239893]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2017/22/section/36) in force at 31.10.2017 for specified purposes by [S.I. 2017/991](https://www.legislation.gov.uk/uksi/2017/991), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2017/991/regulation/2/f)
+[^c-594799d22f81ed8463ba2b6a69239893]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2017/22/section/36) in force at 31.10.2017 for specified purposes by [S.I. 2017/991](https://www.legislation.gov.uk/uksi/2017/991), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2017/991/regulation/2/f)
 
-[^key-136ff66dc4f4a0bb056e217657ba6b11]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2017/22/section/36) in force at 31.10.2017 for specified purposes by [S.I. 2017/1028](https://www.legislation.gov.uk/uksi/2017/1028), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/1028/regulation/2/b)
+[^c-136ff66dc4f4a0bb056e217657ba6b11]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2017/22/section/36) in force at 31.10.2017 for specified purposes by [S.I. 2017/1028](https://www.legislation.gov.uk/uksi/2017/1028), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/1028/regulation/2/b)
 
 [^c22725391]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2017/22/section/36) in force at Royal Assent for specified purposes, see [s. 58](https://www.legislation.gov.uk/ukpga/2017/22/section/58)

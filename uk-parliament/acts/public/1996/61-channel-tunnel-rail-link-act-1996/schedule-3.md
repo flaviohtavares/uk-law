@@ -289,7 +289,7 @@ Highways to be Stopped Up Only on Provision of Substitute
 
 (10) In sub-paragraph (6) above, references to the relevant area are to the area in which the bridleway or footpath, or part, proposed to be stopped up is situated.
 
-(11) In sub-paragraph (7)(a) above, “**local authority**” means the council of a county, district, parish or London borough, a joint authority established by Part IV of the [^c1899168]Local Government Act 1985, the London Fire Commissioner,[^key-814d9e045ef038147c86805dd3b1f7fe] a housing action trust established under Part III of the [^c1899173]Housing Act 1988 and the parish meeting of a rural parish not having a separate parish council.
+(11) In sub-paragraph (7)(a) above, “**local authority**” means the council of a county, district, parish or London borough, a joint authority established by Part IV of the [^c1899168]Local Government Act 1985, the London Fire Commissioner,[^c-814d9e045ef038147c86805dd3b1f7fe] a housing action trust established under Part III of the [^c1899173]Housing Act 1988 and the parish meeting of a rural parish not having a separate parish council.
 
 (12)[^c1899241] In this paragraph references to the appropriate Ministers are to the Secretary of State for Environment, Food and Rural Affairs and the Secretary of State for Transport, Local Government and the Regions and, in relation to the carrying out of any functions, are to those Ministers acting jointly.
 
@@ -504,7 +504,7 @@ any railway of the nominated undertaker.
 
 [^c1899168]: Marginal citation: [1985 c. 51](https://www.legislation.gov.uk/ukpga/1985/51).
 
-[^key-814d9e045ef038147c86805dd3b1f7fe]: Textual amendment: Words in [Sch. 3 para. 2(11)](https://www.legislation.gov.uk/ukpga/1996/61/schedule/3/paragraph/2/11) substituted (E.W.) (31.1.2017 for specified purposes, 1.4.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 2 para. 102](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/102); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2018/227/regulation/4/c)
+[^c-814d9e045ef038147c86805dd3b1f7fe]: Textual amendment: Words in [Sch. 3 para. 2(11)](https://www.legislation.gov.uk/ukpga/1996/61/schedule/3/paragraph/2/11) substituted (E.W.) (31.1.2017 for specified purposes, 1.4.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 2 para. 102](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/102); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2018/227/regulation/4/c)
 
 [^c1899173]: Marginal citation: [1988 c. 50](https://www.legislation.gov.uk/ukpga/1988/50).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 148. Ordinary residence for certain purposes of National Assistance Act 1948 etc.[^key-b825024a9b94d2a34b23d2a4988e21a6][^key-b94e857e283a226ba6b24dc1302fa255]
+## 148. Ordinary residence for certain purposes of National Assistance Act 1948 etc.[^c-b825024a9b94d2a34b23d2a4988e21a6][^c-b94e857e283a226ba6b24dc1302fa255]
 
 *Extent: E+W*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b825024a9b94d2a34b23d2a4988e21a6]: Commencement: [S. 148](https://www.legislation.gov.uk/ukpga/2008/14/section/148) in force at 19.4.2010 for E. by [S.I. 2010/708](https://www.legislation.gov.uk/uksi/2010/708), [art. 11](https://www.legislation.gov.uk/uksi/2010/708/article/11) (with [art. 12](https://www.legislation.gov.uk/uksi/2010/708/article/12))
+[^c-b825024a9b94d2a34b23d2a4988e21a6]: Commencement: [S. 148](https://www.legislation.gov.uk/ukpga/2008/14/section/148) in force at 19.4.2010 for E. by [S.I. 2010/708](https://www.legislation.gov.uk/uksi/2010/708), [art. 11](https://www.legislation.gov.uk/uksi/2010/708/article/11) (with [art. 12](https://www.legislation.gov.uk/uksi/2010/708/article/12))
 
-[^key-b94e857e283a226ba6b24dc1302fa255]: Commencement: [S. 148](https://www.legislation.gov.uk/ukpga/2008/14/section/148) in force at 19.4.2010 for W. by [S.I. 2010/989](https://www.legislation.gov.uk/wsi/2010/989), [art. 2](https://www.legislation.gov.uk/wsi/2010/989/article/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2010/989/article/3), [4](https://www.legislation.gov.uk/wsi/2010/989/article/4))
+[^c-b94e857e283a226ba6b24dc1302fa255]: Commencement: [S. 148](https://www.legislation.gov.uk/ukpga/2008/14/section/148) in force at 19.4.2010 for W. by [S.I. 2010/989](https://www.legislation.gov.uk/wsi/2010/989), [art. 2](https://www.legislation.gov.uk/wsi/2010/989/article/2) (with [arts. 3](https://www.legislation.gov.uk/wsi/2010/989/article/3), [4](https://www.legislation.gov.uk/wsi/2010/989/article/4))

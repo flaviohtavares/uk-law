@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Power to give directions[^key-6243908b1a27d5ae7f2256f01821d121]
+## 81. Power to give directions[^c-6243908b1a27d5ae7f2256f01821d121]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6243908b1a27d5ae7f2256f01821d121]: Commencement: Art. 81 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-6243908b1a27d5ae7f2256f01821d121]: Commencement: Art. 81 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

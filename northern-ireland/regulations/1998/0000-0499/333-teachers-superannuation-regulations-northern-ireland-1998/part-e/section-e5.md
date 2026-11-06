@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## E5. Amount of retirement pension[^key-86ce4d4d04669d0a4d1f0dd4822dd686]
+## E5. Amount of retirement pension[^c-86ce4d4d04669d0a4d1f0dd4822dd686]
 
 *Extent: N.I.*
 
@@ -47,4 +47,4 @@ the annual rate calculated in accordance with paragraph (1) is, in respect of ea
 
 ## Annotations
 
-[^key-86ce4d4d04669d0a4d1f0dd4822dd686]: Commencement: Reg. E5 in operation at 2.11.1998, see reg. A1
+[^c-86ce4d4d04669d0a4d1f0dd4822dd686]: Commencement: Reg. E5 in operation at 2.11.1998, see reg. A1

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Decision 2012/134/EU establishing the best available techniques (BAT) conclusions under Directive 2010/75/EU of the European Parliament and of the Council on industrial emissions for the manufacture of glass[^key-6f73eff7dca137533646e4abed28f45f]
+## 6. Decision 2012/134/EU establishing the best available techniques (BAT) conclusions under Directive 2010/75/EU of the European Parliament and of the Council on industrial emissions for the manufacture of glass[^c-6f73eff7dca137533646e4abed28f45f]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6f73eff7dca137533646e4abed28f45f]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-6f73eff7dca137533646e4abed28f45f]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

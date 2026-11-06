@@ -47,11 +47,11 @@ Coming into force
 
 The Secretary of State for Trade and Industry in exercise of the powers conferred on her by section 114A of the Police and Criminal Evidence Act 1984[^f00001] hereby makes the following Order:
 
-## 1. Title and commencement[^key-438d220b8fc8f3ad35471f0c897b1fac]
+## 1. Title and commencement[^c-438d220b8fc8f3ad35471f0c897b1fac]
 
 This Order may be cited as the Police and Criminal Evidence Act 1984 (Department of Trade and Industry Investigations) Order 2002 and shall come into force on 14th October 2002.
 
-## 2. Definitions[^key-7c6d6cdcee69659bfff879cd57703d17]
+## 2. Definitions[^c-7c6d6cdcee69659bfff879cd57703d17]
 
 In this Order—
 
@@ -59,7 +59,7 @@ In this Order—
 - “DTI investigator” means an officer of the department of the Secretary of State for Trade and Industry or any other person acting on that Secretary of State’s behalf; and
 - “DTI investigation” means an investigation which relates to a serious arrestable offence or to anything which there are reasonable grounds for suspecting has involved the commission of a serious arrestable offence, conducted by a DTI investigator in the discharge of a duty to investigate offences.
 
-## 3. Application of certain provisions of the Act to DTI investigations[^key-6de4e3e57fdab7799c5aae6bf1122ab9]
+## 3. Application of certain provisions of the Act to DTI investigations[^c-6de4e3e57fdab7799c5aae6bf1122ab9]
 
 (1) Subject to the modifications set out in article 4—
 
@@ -68,7 +68,7 @@ In this Order—
 
 (2) The investigations for the purpose of which the provisions of the Act referred to in paragraph (1) are applied by this Order include investigations of offences committed, or suspected of having been committed, before the coming into force of this Order or of section 114A of the Act.
 
-## 4. Modifications[^key-1d6e97f26cb9b0159a6df383eb0c26a4]
+## 4. Modifications[^c-1d6e97f26cb9b0159a6df383eb0c26a4]
 
 (1) For the purposes of article 3, the modifications are as follows.
 
@@ -119,10 +119,10 @@ This Order vests in an investigator appointed by the Secretary of State for Trad
 
 [^f00001]: Footnote: [1984 c. 60](https://www.legislation.gov.uk/ukpga/1984/60); section 114A was inserted by section 85 of the Criminal Justice and Police Act [2001 (c. 16)](https://www.legislation.gov.uk/ukpga/2001/16).
 
-[^key-438d220b8fc8f3ad35471f0c897b1fac]: Commencement: Art. 1 in force at 14.10.2002, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2326/article/1)
+[^c-438d220b8fc8f3ad35471f0c897b1fac]: Commencement: Art. 1 in force at 14.10.2002, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2326/article/1)
 
-[^key-7c6d6cdcee69659bfff879cd57703d17]: Commencement: Art. 2 in force at 14.10.2002, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2326/article/1)
+[^c-7c6d6cdcee69659bfff879cd57703d17]: Commencement: Art. 2 in force at 14.10.2002, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2326/article/1)
 
-[^key-6de4e3e57fdab7799c5aae6bf1122ab9]: Commencement: Art. 3 in force at 14.10.2002, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2326/article/1)
+[^c-6de4e3e57fdab7799c5aae6bf1122ab9]: Commencement: Art. 3 in force at 14.10.2002, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2326/article/1)
 
-[^key-1d6e97f26cb9b0159a6df383eb0c26a4]: Commencement: Art. 4 in force at 14.10.2002, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2326/article/1)
+[^c-1d6e97f26cb9b0159a6df383eb0c26a4]: Commencement: Art. 4 in force at 14.10.2002, see [art. 1](https://www.legislation.gov.uk/uksi/2002/2326/article/1)

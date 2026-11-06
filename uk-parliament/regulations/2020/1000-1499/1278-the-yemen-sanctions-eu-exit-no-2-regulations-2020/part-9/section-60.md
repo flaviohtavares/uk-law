@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Power to stop, board, search etc.[^key-64990118c619de4f520a32623277e62f][^key-0f937e2dbe0dc75323b686e988798a31]
+## 60. Power to stop, board, search etc.[^c-64990118c619de4f520a32623277e62f][^c-0f937e2dbe0dc75323b686e988798a31]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-64990118c619de4f520a32623277e62f]: Commencement: Reg. 60 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/1/2)
+[^c-64990118c619de4f520a32623277e62f]: Commencement: Reg. 60 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/1/2)
 
-[^key-0f937e2dbe0dc75323b686e988798a31]: Commencement: [Reg. 60](https://www.legislation.gov.uk/uksi/2020/1278/regulation/60) in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 20(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/20/2)
+[^c-0f937e2dbe0dc75323b686e988798a31]: Commencement: [Reg. 60](https://www.legislation.gov.uk/uksi/2020/1278/regulation/60) in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 20(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/20/2)

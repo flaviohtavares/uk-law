@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1258A. Bare trusts[^key-e4db9244dfef63fddfc7bf98beb55ece]
+## 1258A. Bare trusts[^c-e4db9244dfef63fddfc7bf98beb55ece]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e4db9244dfef63fddfc7bf98beb55ece]: Textual amendment: S. 1258A inserted (with effect in accordance with Sch. 6 para. 4(2) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2018/3/schedule/6/paragraph/2)
+[^c-e4db9244dfef63fddfc7bf98beb55ece]: Textual amendment: S. 1258A inserted (with effect in accordance with Sch. 6 para. 4(2) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2018/3/schedule/6/paragraph/2)

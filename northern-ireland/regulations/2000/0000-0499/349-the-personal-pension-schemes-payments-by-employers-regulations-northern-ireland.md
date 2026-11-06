@@ -41,7 +41,7 @@ Coming into operation
 
 The Department for Social Development, in exercise of the powers conferred by sections 107A(4)(*b*) to (7) and (15)(*b*), 109(1) and (3),177(2) to (4) and 178(1) of the Pension Schemes (Northern Ireland) Act 1993[^f00001], and now vested in it[^f00002], and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-3d007d4b08cd1d33e6746310621ccd34]
+## 1. Citation, commencement and interpretation[^c-3d007d4b08cd1d33e6746310621ccd34]
 
 (1) These Regulations may be cited as the Personal Pension Schemes (Payments by Employers) Regulations (Northern Ireland) 2000 and shall come into operation on 6th April 2001.
 
@@ -58,23 +58,23 @@ The Department for Social Development, in exercise of the powers conferred by se
 
 (4) For the purposes of these Regulations and notwithstanding section 39(2) of the Interpretation Act (Northern Ireland) 1954, where a period of time is expressed to begin on, or to be reckoned from, a particular day, that day shall be included in the period.
 
-(5)[^key-27d22d5d16d0918dc8f9932ea62ac15b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-27d22d5d16d0918dc8f9932ea62ac15b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) In these Regulations any reference to a numbered section is a reference to the section of the Pension Schemes (Northern Ireland) Act 1993 bearing that number.
 
-## 2. Record of direct payment arrangements[^key-3401285c498971f155bdcaa008ace869]
+## 2. Record of direct payment arrangements[^c-3401285c498971f155bdcaa008ace869]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prescribed time in which an employer is to make a record of direct payment arrangements available to trustees or managers[^key-3401285c498971f155bdcaa008ace869]
+## 3. Prescribed time in which an employer is to make a record of direct payment arrangements available to trustees or managers[^c-3401285c498971f155bdcaa008ace869]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Time limits for giving notice to the Regulatory Authority and to the employee that any contribution which is payable has not been paid and the circumstances in which such notice need not be given[^key-3401285c498971f155bdcaa008ace869]
+## 4. Time limits for giving notice to the Regulatory Authority and to the employee that any contribution which is payable has not been paid and the circumstances in which such notice need not be given[^c-3401285c498971f155bdcaa008ace869]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Prescribed period for the purpose of calculating the due date for the payment of any contribution on behalf of an employee[^key-d8d1cd869fa37d0bdada6c342ae0538c]
+## 5. Prescribed period for the purpose of calculating the due date for the payment of any contribution on behalf of an employee[^c-d8d1cd869fa37d0bdada6c342ae0538c]
 
 (1) Except as provided in paragraph (2), the prescribed period for the purposes of section 107A(15)(b) (meaning of “due date” where a contribution payable under the direct payment arrangements falls to be paid on behalf of the employee) is the period of—
 
@@ -83,7 +83,7 @@ The Department for Social Development, in exercise of the powers conferred by se
 
 commencing on the day following the last day of the month in which the deduction was made from the employee’s earnings.
 
-(2)[^key-fd7c77de118538e4a89c3270da5dc563] Where an employee becomes an active member of a relevant scheme, in relation to contributions deducted in the relevant period, the prescribed period for the purposes of section 107A(15)(b) is the period commencing on the day on which the first deduction in the relevant period is made and ending—
+(2)[^c-fd7c77de118538e4a89c3270da5dc563] Where an employee becomes an active member of a relevant scheme, in relation to contributions deducted in the relevant period, the prescribed period for the purposes of section 107A(15)(b) is the period commencing on the day on which the first deduction in the relevant period is made and ending—
 
 - (a) where the contribution is paid to the trustees or managers of the scheme by means of electronic communication, on the 22nd day of the month following the last day of the relevant period, or
 - (b) in any other case, on the 19th day of the month following the last day of the relevant period.
@@ -97,7 +97,7 @@ commencing on the day following the last day of the month in which the deduction
   - (a) a scheme which is a qualifying scheme in relation to the person under section 16 of the 2008 Act, or
   - (b) where the person is enrolled in the scheme pursuant to section 9 of the 2008 Act, a scheme which meets the requirements of that section.
 
-## 5A. The issue of payment statements to an employee[^key-c792ea103937146a323fe9de081e477a]
+## 5A. The issue of payment statements to an employee[^c-c792ea103937146a323fe9de081e477a]
 
 (1) Where section 107A (monitoring of employers' payments to personal pension schemes) applies the trustees or managers of the scheme must before the end of the interval specified in paragraph (4) or (5), as the case may be, send the employee a statement setting out the amounts and dates of the payments made under the direct payment arrangements during the period specified in paragraph (2) or (3), as the case may be.
 
@@ -116,13 +116,13 @@ commencing on the day following the last day of the month in which the deduction
 
 (5) Where the scheme is a stakeholder pension scheme the interval is three months after the end of the statement year to which that statement relates.
 
-(6)[^key-91124f7be2fc6be3bfb5f37179c356b8] A statement referred to in paragraph (1) may be issued in accordance with regulations 26 to 28 of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (giving information and documents).
+(6)[^c-91124f7be2fc6be3bfb5f37179c356b8] A statement referred to in paragraph (1) may be issued in accordance with regulations 26 to 28 of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (giving information and documents).
 
-## 6. The issue of payment statements to an employee[^key-b0ace3ab0e88001d8e5c59d9ddcf8733]
+## 6. The issue of payment statements to an employee[^c-b0ace3ab0e88001d8e5c59d9ddcf8733]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Revocation[^key-11d1b52c92891bca134ec6b8386df380]
+## 7. Revocation[^c-11d1b52c92891bca134ec6b8386df380]
 
 Regulation 5A of the Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 1987[^f00007] is hereby revoked.
 
@@ -162,7 +162,7 @@ The Welfare Reform and Pensions (1999 Order) (Commencement No. 6 and Transitiona
 
 [^f00002]: Footnote: *See* Article 8(*b*) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-3d007d4b08cd1d33e6746310621ccd34]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2000/349/regulation/1) in operation at 6.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/349/regulation/1/1)
+[^c-3d007d4b08cd1d33e6746310621ccd34]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2000/349/regulation/1) in operation at 6.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/349/regulation/1/1)
 
 [^f00003]: Footnote: [S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147)
 
@@ -170,20 +170,20 @@ The Welfare Reform and Pensions (1999 Order) (Commencement No. 6 and Transitiona
 
 [^f00005]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-27d22d5d16d0918dc8f9932ea62ac15b]: Textual amendment: [Reg. 1(5)](https://www.legislation.gov.uk/nisr/2000/349/regulation/1/5) revoked (6.4.2014) by [The Occupational and Personal Pension Schemes (DisclosureofInformation) Regulations (Northern Ireland) 2014 (S.R. 2014/79)](https://www.legislation.gov.uk/nisr/2014/79), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1), [32](https://www.legislation.gov.uk/nisr/2014/79/regulation/32), [Sch. 10](https://www.legislation.gov.uk/nisr/2014/79/schedule/10)
+[^c-27d22d5d16d0918dc8f9932ea62ac15b]: Textual amendment: [Reg. 1(5)](https://www.legislation.gov.uk/nisr/2000/349/regulation/1/5) revoked (6.4.2014) by [The Occupational and Personal Pension Schemes (DisclosureofInformation) Regulations (Northern Ireland) 2014 (S.R. 2014/79)](https://www.legislation.gov.uk/nisr/2014/79), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1), [32](https://www.legislation.gov.uk/nisr/2014/79/regulation/32), [Sch. 10](https://www.legislation.gov.uk/nisr/2014/79/schedule/10)
 
-[^key-3401285c498971f155bdcaa008ace869]: Textual amendment: [Regs. 2-4](https://www.legislation.gov.uk/nisr/2000/349/regulation/2) revoked (6.4.2006) by [The Occupational Pension Schemes (Administration and Audited Accounts) (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/421)](https://www.legislation.gov.uk/nisr/2005/421), [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/421/regulation/1/1/c), [Sch.](https://www.legislation.gov.uk/nisr/2005/421/schedule)
+[^c-3401285c498971f155bdcaa008ace869]: Textual amendment: [Regs. 2-4](https://www.legislation.gov.uk/nisr/2000/349/regulation/2) revoked (6.4.2006) by [The Occupational Pension Schemes (Administration and Audited Accounts) (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/421)](https://www.legislation.gov.uk/nisr/2005/421), [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/421/regulation/1/1/c), [Sch.](https://www.legislation.gov.uk/nisr/2005/421/schedule)
 
-[^key-d8d1cd869fa37d0bdada6c342ae0538c]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/nisr/2000/349/regulation/5) substituted (1.7.2012) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) Regulations (Northern Ireland) 2010 (S.R. 2010/122)](https://www.legislation.gov.uk/nisr/2010/122), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2010/122/regulation/1/1), [49](https://www.legislation.gov.uk/nisr/2010/122/regulation/49) (as amended by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/232)](https://www.legislation.gov.uk/nisr/2012/232), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/232/regulation/1/1/c), [2(24)](https://www.legislation.gov.uk/nisr/2012/232/regulation/2/24))
+[^c-d8d1cd869fa37d0bdada6c342ae0538c]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/nisr/2000/349/regulation/5) substituted (1.7.2012) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) Regulations (Northern Ireland) 2010 (S.R. 2010/122)](https://www.legislation.gov.uk/nisr/2010/122), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2010/122/regulation/1/1), [49](https://www.legislation.gov.uk/nisr/2010/122/regulation/49) (as amended by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/232)](https://www.legislation.gov.uk/nisr/2012/232), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/232/regulation/1/1/c), [2(24)](https://www.legislation.gov.uk/nisr/2012/232/regulation/2/24))
 
-[^key-fd7c77de118538e4a89c3270da5dc563]: Textual amendment: [Reg. 5(2)](https://www.legislation.gov.uk/nisr/2000/349/regulation/5/2)[(3)](https://www.legislation.gov.uk/nisr/2000/349/regulation/5/3) substituted (1.11.2013) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/243)](https://www.legislation.gov.uk/nisr/2013/243), [regs. 1(1)(a)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/a), [3](https://www.legislation.gov.uk/nisr/2013/243/regulation/3)
+[^c-fd7c77de118538e4a89c3270da5dc563]: Textual amendment: [Reg. 5(2)](https://www.legislation.gov.uk/nisr/2000/349/regulation/5/2)[(3)](https://www.legislation.gov.uk/nisr/2000/349/regulation/5/3) substituted (1.11.2013) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/243)](https://www.legislation.gov.uk/nisr/2013/243), [regs. 1(1)(a)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/a), [3](https://www.legislation.gov.uk/nisr/2013/243/regulation/3)
 
-[^key-c792ea103937146a323fe9de081e477a]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/nisr/2000/349/regulation/5A) inserted (6.4.2006) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2006 (S.R. 2006/141)](https://www.legislation.gov.uk/nisr/2006/141), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2006/141/regulation/1/b), [6](https://www.legislation.gov.uk/nisr/2006/141/regulation/6)
+[^c-c792ea103937146a323fe9de081e477a]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/nisr/2000/349/regulation/5A) inserted (6.4.2006) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2006 (S.R. 2006/141)](https://www.legislation.gov.uk/nisr/2006/141), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2006/141/regulation/1/b), [6](https://www.legislation.gov.uk/nisr/2006/141/regulation/6)
 
-[^key-91124f7be2fc6be3bfb5f37179c356b8]: Textual amendment: [Reg. 5A(6)](https://www.legislation.gov.uk/nisr/2000/349/regulation/5A/6) added (6.4.2014) by [The Occupational and Personal Pension Schemes (DisclosureofInformation) Regulations (Northern Ireland) 2014 (S.R. 2014/79)](https://www.legislation.gov.uk/nisr/2014/79), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1), [Sch. 9 para. 10](https://www.legislation.gov.uk/nisr/2014/79/schedule/9/paragraph/10)
+[^c-91124f7be2fc6be3bfb5f37179c356b8]: Textual amendment: [Reg. 5A(6)](https://www.legislation.gov.uk/nisr/2000/349/regulation/5A/6) added (6.4.2014) by [The Occupational and Personal Pension Schemes (DisclosureofInformation) Regulations (Northern Ireland) 2014 (S.R. 2014/79)](https://www.legislation.gov.uk/nisr/2014/79), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1), [Sch. 9 para. 10](https://www.legislation.gov.uk/nisr/2014/79/schedule/9/paragraph/10)
 
-[^key-b0ace3ab0e88001d8e5c59d9ddcf8733]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/nisr/2000/349/regulation/6) revoked (6.4.2006) by [The Occupational Pension Schemes (Administration and Audited Accounts) (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/421)](https://www.legislation.gov.uk/nisr/2005/421), [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/421/regulation/1/1/c), [Sch.](https://www.legislation.gov.uk/nisr/2005/421/schedule)
+[^c-b0ace3ab0e88001d8e5c59d9ddcf8733]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/nisr/2000/349/regulation/6) revoked (6.4.2006) by [The Occupational Pension Schemes (Administration and Audited Accounts) (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/421)](https://www.legislation.gov.uk/nisr/2005/421), [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/421/regulation/1/1/c), [Sch.](https://www.legislation.gov.uk/nisr/2005/421/schedule)
 
-[^key-11d1b52c92891bca134ec6b8386df380]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2000/349/regulation/7) in operation at 6.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/349/regulation/1/1)
+[^c-11d1b52c92891bca134ec6b8386df380]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2000/349/regulation/7) in operation at 6.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/349/regulation/1/1)
 
 [^f00007]: Footnote: [S.R. 1987 No. 288](https://www.legislation.gov.uk/nisr/1987/288); regulation 5A was inserted by [S.R. 1995 No. 441](https://www.legislation.gov.uk/nisr/1995/441)

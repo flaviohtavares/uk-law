@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. Powers in relation to cash[^key-2382e49b5ded6e76b24215159e9fa721]
+## 99. Powers in relation to cash[^c-2382e49b5ded6e76b24215159e9fa721]
 
 *Extent: E+W+S+N.I.*
 
@@ -98,4 +98,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2382e49b5ded6e76b24215159e9fa721]: Commencement: [S. 99](https://www.legislation.gov.uk/ukpga/2009/26/section/99) in force at 25.1.2010 by [S.I. 2010/52](https://www.legislation.gov.uk/uksi/2010/52), [art. 2](https://www.legislation.gov.uk/uksi/2010/52/article/2)
+[^c-2382e49b5ded6e76b24215159e9fa721]: Commencement: [S. 99](https://www.legislation.gov.uk/ukpga/2009/26/section/99) in force at 25.1.2010 by [S.I. 2010/52](https://www.legislation.gov.uk/uksi/2010/52), [art. 2](https://www.legislation.gov.uk/uksi/2010/52/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 284. Expressions used generally[^key-fd160fe92a074f7708bb433e928f392b]
+## 284. Expressions used generally[^c-fd160fe92a074f7708bb433e928f392b]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fd160fe92a074f7708bb433e928f392b]: Commencement: Rule 284 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-fd160fe92a074f7708bb433e928f392b]: Commencement: Rule 284 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
 
 [^f00103]: Footnote: Rule 13.13 was amended by [S.I. 1999/1022](https://www.legislation.gov.uk/uksi/1999/1022), [S.I. 2003/1730](https://www.legislation.gov.uk/uksi/2003/1730) and [S.I. 2009/642](https://www.legislation.gov.uk/uksi/2009/642).

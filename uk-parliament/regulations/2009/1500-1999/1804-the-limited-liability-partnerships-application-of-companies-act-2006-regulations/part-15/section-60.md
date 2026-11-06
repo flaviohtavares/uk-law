@@ -28,7 +28,7 @@ summary: ''
 - sections 1068 to 1071 (delivery of documents to the registrar),
 - sections 1072 to 1076 (requirements for proper delivery),
 - sections 1080(1), (4) and (5) and 1092 (keeping and production of records),
-- section 1081A (registrar’s objectives to promote integrity of registers etc),[^key-cf303737ebc9e9f90bcba4f70ebffbbb]
+- section 1081A (registrar’s objectives to promote integrity of registers etc),[^c-cf303737ebc9e9f90bcba4f70ebffbbb]
 - section 1083 (preservation of original documents),
 - section 1084A (recording of optional information on register),
 - sections 1092A to 1092C (powers to require further information),
@@ -41,4 +41,4 @@ summary: ''
 
 [^c19765381]: Marginal citation: [Part 35](https://www.legislation.gov.uk/uksi/2009/1804/part/35) has been amended by [S.I. 2009/1802](https://www.legislation.gov.uk/uksi/2009/1802).
 
-[^key-cf303737ebc9e9f90bcba4f70ebffbbb]: Textual amendment: Words in [reg. 60(2)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/60/2) inserted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [26](https://www.legislation.gov.uk/uksi/2024/234/regulation/26); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
+[^c-cf303737ebc9e9f90bcba4f70ebffbbb]: Textual amendment: Words in [reg. 60(2)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/60/2) inserted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [26](https://www.legislation.gov.uk/uksi/2024/234/regulation/26); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)

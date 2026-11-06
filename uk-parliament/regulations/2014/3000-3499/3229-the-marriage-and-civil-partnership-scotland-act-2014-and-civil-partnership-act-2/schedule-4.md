@@ -22,7 +22,7 @@ summary: ''
 
 Article 5(3)
 
-### 1. Social Security Pensions Act 1975[^key-2dcd05b3554930fcb1dc46f02474ce31]
+### 1. Social Security Pensions Act 1975[^c-2dcd05b3554930fcb1dc46f02474ce31]
 
 *Extent: S*
 
@@ -74,7 +74,7 @@ Article 5(3)
   ; and
 - (b) omit the definition of “widower’s pension”.
 
-### 2. Social Security Contributions and Benefits Act 1992[^key-bf0a98a41a83f3b8c4c81fec46e3b2d1]
+### 2. Social Security Contributions and Benefits Act 1992[^c-bf0a98a41a83f3b8c4c81fec46e3b2d1]
 
 (1) The 1992 Act[^f00080] is amended as follows.
 
@@ -131,11 +131,11 @@ Article 5(3)
 
 .
 
-(8)[^key-55dff160e62b6ad84c1b15b419a8802c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-55dff160e62b6ad84c1b15b419a8802c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-35d918fdf47d6a5df1aa6788c60e9a63] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-35d918fdf47d6a5df1aa6788c60e9a63] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10)[^key-e052d20aeaa1d077603577dd278fb851] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-e052d20aeaa1d077603577dd278fb851] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (11) In section 62[^f00089](graduated retirement benefit)—
 
@@ -178,7 +178,7 @@ Article 5(3)
   ; and
 - (b) omit subsection (1A).
 
-(14)[^key-94205733b5833655033003252a7e09f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(14)[^c-94205733b5833655033003252a7e09f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (15) In paragraph 5(2) of Schedule 5 (pension increase or lump sum where entitlement to retirement pension is deferred)[^f00093]—
 
@@ -252,7 +252,7 @@ Article 5(3)
 
 ## Annotations
 
-[^key-2dcd05b3554930fcb1dc46f02474ce31]: Commencement: Sch. 4 para. 1 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-2dcd05b3554930fcb1dc46f02474ce31]: Commencement: Sch. 4 para. 1 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
 
 [^f00075]: Footnote: [1975 c.60](https://www.legislation.gov.uk/ukpga/1975/60).
 
@@ -264,7 +264,7 @@ Article 5(3)
 
 [^f00079]: Footnote: Subsection (7) was amended by the Social Security Act [1979 (c.18)](https://www.legislation.gov.uk/ukpga/1979/18), Schedule 3, paragraph 20, the Pension Schemes Act [1993 (c.48)](https://www.legislation.gov.uk/ukpga/1993/48), Schedule 8, paragraph 9(1)(b) and the Pensions Miscellaneous Provisions Act [1990 (c.7)](https://www.legislation.gov.uk/ukpga/1990/7), section 5(2) and by [S.I. 2014/560](https://www.legislation.gov.uk/uksi/2014/560).
 
-[^key-bf0a98a41a83f3b8c4c81fec46e3b2d1]: Commencement: Sch. 4 para. 2 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-bf0a98a41a83f3b8c4c81fec46e3b2d1]: Commencement: Sch. 4 para. 2 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
 
 [^f00080]: Footnote: [1992 c.4](https://www.legislation.gov.uk/ukpga/1992/4).
 
@@ -278,11 +278,11 @@ Article 5(3)
 
 [^f00085]: Footnote: Section 39B was inserted by the Welfare Reform and Pensions Act 1999, section 55(2); subsection (5) was amended by the Civil Partnership Act 2004, Schedule 24, paragraph 21(1), (2) and (6) and Schedule 30 and by [S.I. 2014/560](https://www.legislation.gov.uk/uksi/2014/560).
 
-[^key-55dff160e62b6ad84c1b15b419a8802c]: Textual amendment: Sch. 4 para. 2(8) revoked (6.4.2016) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [44(e)](https://www.legislation.gov.uk/uksi/2015/1985/article/44/e)
+[^c-55dff160e62b6ad84c1b15b419a8802c]: Textual amendment: Sch. 4 para. 2(8) revoked (6.4.2016) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [44(e)](https://www.legislation.gov.uk/uksi/2015/1985/article/44/e)
 
-[^key-35d918fdf47d6a5df1aa6788c60e9a63]: Textual amendment: Sch. 4 para. 2(9) revoked (6.4.2016) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [44(e)](https://www.legislation.gov.uk/uksi/2015/1985/article/44/e)
+[^c-35d918fdf47d6a5df1aa6788c60e9a63]: Textual amendment: Sch. 4 para. 2(9) revoked (6.4.2016) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [44(e)](https://www.legislation.gov.uk/uksi/2015/1985/article/44/e)
 
-[^key-e052d20aeaa1d077603577dd278fb851]: Textual amendment: Sch. 4 para. 2(10) revoked (6.4.2016) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [44(e)](https://www.legislation.gov.uk/uksi/2015/1985/article/44/e)
+[^c-e052d20aeaa1d077603577dd278fb851]: Textual amendment: Sch. 4 para. 2(10) revoked (6.4.2016) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [44(e)](https://www.legislation.gov.uk/uksi/2015/1985/article/44/e)
 
 [^f00089]: Footnote: Section 62 was amended by the 2013 Act, Schedule 4, paragraph 14.
 
@@ -290,7 +290,7 @@ Article 5(3)
 
 [^f00091]: Footnote: The definition of “couple” in section 137(1) and (1A) were inserted by the Civil Partnership Act 2004, Schedule 24, paragraph 46(1), (3) and (5) and was amended by [S.I. 2014/560](https://www.legislation.gov.uk/uksi/2014/560). Section 137 has been repealed by the Welfare Reform Act [2012 (c.5)](https://www.legislation.gov.uk/ukpga/2012/5) for certain purposes. That repeal is not fully in force.
 
-[^key-94205733b5833655033003252a7e09f1]: Textual amendment: Sch. 4 para. 2(14) revoked (6.4.2016) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [44(e)](https://www.legislation.gov.uk/uksi/2015/1985/article/44/e)
+[^c-94205733b5833655033003252a7e09f1]: Textual amendment: Sch. 4 para. 2(14) revoked (6.4.2016) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [44(e)](https://www.legislation.gov.uk/uksi/2015/1985/article/44/e)
 
 [^f00093]: Footnote: Paragraph 5 was amended by [S.I. 2005/2053](https://www.legislation.gov.uk/uksi/2005/2053) and in relation to England and Wales [S.I. 2014/560](https://www.legislation.gov.uk/uksi/2014/560). Paragraphs 5, 5A and 6 were substituted for paragraphs 5 and 6 as originally enacted by the Pensions Act [1995 (c.26)](https://www.legislation.gov.uk/ukpga/1995/26), Schedule 4, paragraph 21(15). Paragraphs 5 to 6A of Schedule 5 to the 1992 Act were repealed by the Pensions Act [2011 (c.19)](https://www.legislation.gov.uk/ukpga/2011/19), section 2(5). That repeal was brought into force in respect of certain specified provisions by [S.I. 2011/3034](https://www.legislation.gov.uk/uksi/2011/3034) but has yet to be brought into force in respect of the remaining provisions.
 

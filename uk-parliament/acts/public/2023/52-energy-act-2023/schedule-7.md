@@ -22,7 +22,7 @@ summary: ''
 
 Section 113
 
-### 1. Disclosure by OGA to specified persons[^key-30d0090354266da8dc159acfdd5bc70f]
+### 1. Disclosure by OGA to specified persons[^c-30d0090354266da8dc159acfdd5bc70f]
 
 (1) Section 113 does not prohibit a disclosure of protected material by the OGA which—
 
@@ -77,7 +77,7 @@ Section 113
 
 (8) Regulations under sub-paragraph (6) are subject to the affirmative procedure.
 
-### 2. Disclosure required for returns and reports prepared by OGA[^key-80e1d49e5a7911dd0a4e07bfc7a8d76a]
+### 2. Disclosure required for returns and reports prepared by OGA[^c-80e1d49e5a7911dd0a4e07bfc7a8d76a]
 
 (1) Section 113 does not prohibit the OGA from using protected material obtained by the OGA under section 112 for the purpose of—
 
@@ -86,11 +86,11 @@ Section 113
 
 (2) Section 113 does not prohibit the OGA from disclosing protected material so far as necessary for those purposes.
 
-### 3. Disclosure in exercise of certain OGA powers[^key-269e7db805491b1ba62c88f34147f225]
+### 3. Disclosure in exercise of certain OGA powers[^c-269e7db805491b1ba62c88f34147f225]
 
 Section 113 does not prohibit a disclosure of protected material if it is made in the exercise of the OGA’s powers under section 121 (publication of details of sanctions).
 
-### 4. Disclosure after specified period[^key-d383d52be72e0cd11cec39964324d8b4]
+### 4. Disclosure after specified period[^c-d383d52be72e0cd11cec39964324d8b4]
 
 (1) Section 113 does not prohibit protected material obtained by the OGA under section 112 from being—
 
@@ -118,7 +118,7 @@ by the OGA or a subsequent holder at such time as may be specified in regulation
 
 (8) For the purposes of sub-paragraph (6)(a), the owner of protected material is the person by whom, or on whose behalf, the protected material was provided to the OGA under section 112.
 
-### 5. Disclosure with appropriate consent[^key-1ba762e108fc98b467cd0ae268736290]
+### 5. Disclosure with appropriate consent[^c-1ba762e108fc98b467cd0ae268736290]
 
 (1) Section 113 does not prohibit a disclosure of protected material if it is made with the appropriate consent.
 
@@ -131,11 +131,11 @@ by the OGA or a subsequent holder at such time as may be specified in regulation
 
 (3) For the purposes of sub-paragraph (2), the original owner of protected material provided to the OGA is the person by whom, or on whose behalf, the protected material was so provided.
 
-### 6. Disclosure required by legislation[^key-d6620c38637f726a18e3893edfdbbbad]
+### 6. Disclosure required by legislation[^c-d6620c38637f726a18e3893edfdbbbad]
 
 Section 113 does not prohibit a disclosure of protected material required by virtue of an obligation imposed by or under this or any other Act.
 
-### 7. Disclosure for purpose of proceedings[^key-787a766287341b6b9d49f6d8c9531cc1]
+### 7. Disclosure for purpose of proceedings[^c-787a766287341b6b9d49f6d8c9531cc1]
 
 (1) Section 113 does not prohibit a disclosure of protected material by the OGA for the purposes of, or in connection with—
 
@@ -149,16 +149,16 @@ Section 113 does not prohibit a disclosure of protected material required by vir
 
 ## Annotations
 
-[^key-30d0090354266da8dc159acfdd5bc70f]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2023/52/schedule/7/paragraph/1) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-30d0090354266da8dc159acfdd5bc70f]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2023/52/schedule/7/paragraph/1) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
 
-[^key-80e1d49e5a7911dd0a4e07bfc7a8d76a]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2023/52/schedule/7/paragraph/2) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-80e1d49e5a7911dd0a4e07bfc7a8d76a]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2023/52/schedule/7/paragraph/2) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
 
-[^key-269e7db805491b1ba62c88f34147f225]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2023/52/schedule/7/paragraph/3) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-269e7db805491b1ba62c88f34147f225]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2023/52/schedule/7/paragraph/3) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
 
-[^key-d383d52be72e0cd11cec39964324d8b4]: Commencement: [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2023/52/schedule/7/paragraph/4) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-d383d52be72e0cd11cec39964324d8b4]: Commencement: [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2023/52/schedule/7/paragraph/4) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
 
-[^key-1ba762e108fc98b467cd0ae268736290]: Commencement: [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2023/52/schedule/7/paragraph/5) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-1ba762e108fc98b467cd0ae268736290]: Commencement: [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2023/52/schedule/7/paragraph/5) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
 
-[^key-d6620c38637f726a18e3893edfdbbbad]: Commencement: [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2023/52/schedule/7/paragraph/6) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-d6620c38637f726a18e3893edfdbbbad]: Commencement: [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2023/52/schedule/7/paragraph/6) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
 
-[^key-787a766287341b6b9d49f6d8c9531cc1]: Commencement: [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/2023/52/schedule/7/paragraph/7) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-787a766287341b6b9d49f6d8c9531cc1]: Commencement: [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/2023/52/schedule/7/paragraph/7) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)

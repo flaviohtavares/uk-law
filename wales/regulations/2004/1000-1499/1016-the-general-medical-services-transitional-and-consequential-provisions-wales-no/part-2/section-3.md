@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Applications for inclusion in lists of patients[^key-48ef0614bb1d5d23742547ba398037fb]
+## 3. Applications for inclusion in lists of patients[^c-48ef0614bb1d5d23742547ba398037fb]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ Where, on or before 31st March 2004, a person had applied to a relevant medical 
 
 ## Annotations
 
-[^key-48ef0614bb1d5d23742547ba398037fb]: Commencement: Art. 3 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-48ef0614bb1d5d23742547ba398037fb]: Commencement: Art. 3 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Territorial application[^key-356f000f7f2e5d4abb167b8722c64374]
+## 36. Territorial application[^c-356f000f7f2e5d4abb167b8722c64374]
 
 *Extent: E+W+S*
 
@@ -27,7 +27,7 @@ summary: ''
 
 (2) Section 33 applies to the provision of facilities for non-remote gambling only if anything done in the course of the provision of the facilities is done in Great Britain.
 
-(3)[^key-a7a6f4accdfd38ec60387c781c9f4b12] Section 33 applies to the provision of facilities for remote gambling only if at least one piece of remote gambling equipment used in the provision of the facilities is situated in Great Britain (but whether or not the facilities are provided for use wholly or partly in the United Kingdom). *(affected by repeal, see note)*[^key-a7a6f4accdfd38ec60387c781c9f4b12]
+(3)[^c-a7a6f4accdfd38ec60387c781c9f4b12] Section 33 applies to the provision of facilities for remote gambling only if at least one piece of remote gambling equipment used in the provision of the facilities is situated in Great Britain (but whether or not the facilities are provided for use wholly or partly in the United Kingdom). *(affected by repeal, see note)*[^c-a7a6f4accdfd38ec60387c781c9f4b12]
 
 (3) Section 33 applies to the provision of facilities for remote gambling only if—
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-356f000f7f2e5d4abb167b8722c64374]: Commencement: S. 36 in force at 1.9.2007 by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(4)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/4)[(5)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/5), [Sch. 3B](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3B) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as inserted by [S.I. 2007/2169](https://www.legislation.gov.uk/uksi/2007/2169), arts. 3, 6, Sch.)
+[^c-356f000f7f2e5d4abb167b8722c64374]: Commencement: S. 36 in force at 1.9.2007 by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(4)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/4)[(5)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/5), [Sch. 3B](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3B) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as inserted by [S.I. 2007/2169](https://www.legislation.gov.uk/uksi/2007/2169), arts. 3, 6, Sch.)
 
-[^key-a7a6f4accdfd38ec60387c781c9f4b12]: Textual amendment: S. 36(3)(3A) substituted for s. 36(3) (1.11.2014 for specified purposes) by [Gambling (Licensing and Advertising) Act 2014 (c. 17)](https://www.legislation.gov.uk/ukpga/2014/17), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2014/17/section/1/2), [6(5)](https://www.legislation.gov.uk/ukpga/2014/17/section/6/5); [S.I. 2014/2444](https://www.legislation.gov.uk/uksi/2014/2444), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/2444/article/2/a) (as amended (29.9.2014) by [S.I. 2014/2646](https://www.legislation.gov.uk/uksi/2014/2646), art. 2)
+[^c-a7a6f4accdfd38ec60387c781c9f4b12]: Textual amendment: S. 36(3)(3A) substituted for s. 36(3) (1.11.2014 for specified purposes) by [Gambling (Licensing and Advertising) Act 2014 (c. 17)](https://www.legislation.gov.uk/ukpga/2014/17), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2014/17/section/1/2), [6(5)](https://www.legislation.gov.uk/ukpga/2014/17/section/6/5); [S.I. 2014/2444](https://www.legislation.gov.uk/uksi/2014/2444), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/2444/article/2/a) (as amended (29.9.2014) by [S.I. 2014/2646](https://www.legislation.gov.uk/uksi/2014/2646), art. 2)

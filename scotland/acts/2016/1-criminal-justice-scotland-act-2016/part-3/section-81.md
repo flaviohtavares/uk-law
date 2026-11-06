@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-f7d81b8aec9df07fb9092d684601cb81] The 1995 Act is amended as follows.
+(1)[^c-f7d81b8aec9df07fb9092d684601cb81] The 1995 Act is amended as follows.
 
-(2)[^key-f7d81b8aec9df07fb9092d684601cb81] In section 66 (service and lodging of indictment, etc.)—
+(2)[^c-f7d81b8aec9df07fb9092d684601cb81] In section 66 (service and lodging of indictment, etc.)—
 
 - (a) after subsection (6AA) there is inserted—
 
@@ -31,7 +31,7 @@ summary: ''
   ,
 - (b) in subsection (6B), for the words “or (6AA)” there is substituted “ , (6AA) or (6AB) ”.
 
-(3)[^key-ab3bec796f10f27b692b53fe0e188a3b] In section 71 (first diet)—
+(3)[^c-ab3bec796f10f27b692b53fe0e188a3b] In section 71 (first diet)—
 
 - (a) in subsection (1), the words from “whether” to “particular” are repealed,
 - (b) in subsection (5), after the word “proceed” there is inserted “ , and a trial diet may be appointed, ”,
@@ -39,7 +39,7 @@ summary: ''
 - (d) subsection (7) is repealed,
 - (e) in subsection (9), after the word “section” there is inserted “ and section 71B ”.
 
-(4)[^key-ab3bec796f10f27b692b53fe0e188a3b] After section 71 there is inserted—
+(4)[^c-ab3bec796f10f27b692b53fe0e188a3b] After section 71 there is inserted—
 
 > **71B. First diet: appointment of trial diet**
 >
@@ -95,9 +95,9 @@ summary: ''
 
 .
 
-(5)[^key-f7d81b8aec9df07fb9092d684601cb81] In subsection (3) of section 76 (procedure where accused desires to plead guilty), for the words from “or, where” to “Court,” there is substituted “ , the first diet or (as the case may be) ”.
+(5)[^c-f7d81b8aec9df07fb9092d684601cb81] In subsection (3) of section 76 (procedure where accused desires to plead guilty), for the words from “or, where” to “Court,” there is substituted “ , the first diet or (as the case may be) ”.
 
-(6)[^key-f65844f4604ba767016538a40a644040] After section 83A there is inserted—
+(6)[^c-f65844f4604ba767016538a40a644040] After section 83A there is inserted—
 
 > **83B. Continuation of trial diet in the sheriff court**
 >
@@ -114,12 +114,12 @@ summary: ''
 
 .
 
-(7)[^key-f65844f4604ba767016538a40a644040] The italic heading immediately preceding section 83A becomes “ *Continuation of trial diet* ”.
+(7)[^c-f65844f4604ba767016538a40a644040] The italic heading immediately preceding section 83A becomes “ *Continuation of trial diet* ”.
 
 ## Annotations
 
-[^key-f7d81b8aec9df07fb9092d684601cb81]: Commencement: [S. 81(1)](https://www.legislation.gov.uk/asp/2016/1/section/81/1)[(2)](https://www.legislation.gov.uk/asp/2016/1/section/81/2)[(5)](https://www.legislation.gov.uk/asp/2016/1/section/81/5) in force at 29.5.2017 for specified purposes by [S.S.I. 2017/99](https://www.legislation.gov.uk/ssi/2017/99), [art. 3(1)](https://www.legislation.gov.uk/ssi/2017/99/article/3/1)[(2)](https://www.legislation.gov.uk/ssi/2017/99/article/3/2) (with [arts. 3(5)](https://www.legislation.gov.uk/ssi/2017/99/article/3/5), [6](https://www.legislation.gov.uk/ssi/2017/99/article/6))
+[^c-f7d81b8aec9df07fb9092d684601cb81]: Commencement: [S. 81(1)](https://www.legislation.gov.uk/asp/2016/1/section/81/1)[(2)](https://www.legislation.gov.uk/asp/2016/1/section/81/2)[(5)](https://www.legislation.gov.uk/asp/2016/1/section/81/5) in force at 29.5.2017 for specified purposes by [S.S.I. 2017/99](https://www.legislation.gov.uk/ssi/2017/99), [art. 3(1)](https://www.legislation.gov.uk/ssi/2017/99/article/3/1)[(2)](https://www.legislation.gov.uk/ssi/2017/99/article/3/2) (with [arts. 3(5)](https://www.legislation.gov.uk/ssi/2017/99/article/3/5), [6](https://www.legislation.gov.uk/ssi/2017/99/article/6))
 
-[^key-ab3bec796f10f27b692b53fe0e188a3b]: Commencement: [S. 81(3)](https://www.legislation.gov.uk/asp/2016/1/section/81/3)[(4)](https://www.legislation.gov.uk/asp/2016/1/section/81/4) in force at 31.7.2017 by [S.S.I. 2017/99](https://www.legislation.gov.uk/ssi/2017/99), [art. 4(1)](https://www.legislation.gov.uk/ssi/2017/99/article/4/1) (with [arts. 4(2)](https://www.legislation.gov.uk/ssi/2017/99/article/4/2), [6](https://www.legislation.gov.uk/ssi/2017/99/article/6))
+[^c-ab3bec796f10f27b692b53fe0e188a3b]: Commencement: [S. 81(3)](https://www.legislation.gov.uk/asp/2016/1/section/81/3)[(4)](https://www.legislation.gov.uk/asp/2016/1/section/81/4) in force at 31.7.2017 by [S.S.I. 2017/99](https://www.legislation.gov.uk/ssi/2017/99), [art. 4(1)](https://www.legislation.gov.uk/ssi/2017/99/article/4/1) (with [arts. 4(2)](https://www.legislation.gov.uk/ssi/2017/99/article/4/2), [6](https://www.legislation.gov.uk/ssi/2017/99/article/6))
 
-[^key-f65844f4604ba767016538a40a644040]: Commencement: [S. 81(6)](https://www.legislation.gov.uk/asp/2016/1/section/81/6)[(7)](https://www.legislation.gov.uk/asp/2016/1/section/81/7) in force at 28.8.2017 by [S.S.I. 2017/99](https://www.legislation.gov.uk/ssi/2017/99), [art. 5](https://www.legislation.gov.uk/ssi/2017/99/article/5)
+[^c-f65844f4604ba767016538a40a644040]: Commencement: [S. 81(6)](https://www.legislation.gov.uk/asp/2016/1/section/81/6)[(7)](https://www.legislation.gov.uk/asp/2016/1/section/81/7) in force at 28.8.2017 by [S.S.I. 2017/99](https://www.legislation.gov.uk/ssi/2017/99), [art. 5](https://www.legislation.gov.uk/ssi/2017/99/article/5)

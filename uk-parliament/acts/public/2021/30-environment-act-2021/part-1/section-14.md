@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Renewing plans: interim targets[^key-94e59ef6ae8cdec2cd124c1a7d409f40][^key-4e14113619a729ef05932350af34c898]
+## 14. Renewing plans: interim targets[^c-94e59ef6ae8cdec2cd124c1a7d409f40][^c-4e14113619a729ef05932350af34c898]
 
 *Extent: E+W*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-94e59ef6ae8cdec2cd124c1a7d409f40]: Commencement: S. 14 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-94e59ef6ae8cdec2cd124c1a7d409f40]: Commencement: S. 14 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-4e14113619a729ef05932350af34c898]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2021/30/section/14) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/b)
+[^c-4e14113619a729ef05932350af34c898]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2021/30/section/14) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/b)

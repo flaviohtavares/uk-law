@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2 — Construction products enforcement rules – Great Britain[^key-f94a12daace3f9cce2269415c17cbc78]
+## SCHEDULE 2 — Construction products enforcement rules – Great Britain[^c-f94a12daace3f9cce2269415c17cbc78]
 
 *Extent: E+W+S+N.I.*
 
@@ -214,4 +214,4 @@ In Schedule 4 (notices to warn), in paragraph 5—
 
 ## Annotations
 
-[^key-f94a12daace3f9cce2269415c17cbc78]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2019/465/schedule/2) substituted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2)
+[^c-f94a12daace3f9cce2269415c17cbc78]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2019/465/schedule/2) substituted (31.12.2020 immediately before S.I. 2019/465 comes into force) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2)

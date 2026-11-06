@@ -30,7 +30,7 @@ Section 26(2).
 
 ### Social Security Contributions and Benefits Act 1992 (c. 4)
 
-**3.**[^key-4d349412bb56bdd274fe829fd6885576] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-4d349412bb56bdd274fe829fd6885576] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **4.**[^c11212671] In section 19A(1)(c) of the Social Security Contributions and Benefits Act 1992 (Class 1, 1A or 1B contributions paid in error), for “Secretary of State” there is substituted “ Inland Revenue ”.
 
@@ -66,13 +66,13 @@ Section 26(2).
 - (a) in paragraph (b), the words “subject to sub-paragraph (6) below,” are omitted and for “Secretary of State” there is substituted “ Inland Revenue ”, and
 - (b) in paragraph (e), for “Secretary of State, in his” there is substituted “ Inland Revenue, in their ”.
 
-(7)[^key-d879f9c9e03a2ade0931afcdc2039451] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-d879f9c9e03a2ade0931afcdc2039451] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **8.** Paragraph 7C of Schedule 1 to the Social Security Contributions and Benefits Act 1992 (interest and penalties chargeable concurrently with Inland Revenue) shall cease to have effect.
 
 ## Annotations
 
-[^key-4d349412bb56bdd274fe829fd6885576]: Textual amendment: [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/1999/2/schedule/9/paragraph/3) omitted (with effect in accordance with Sch. 1 para. 36 of the amending Act) by virtue of [National Insurance Contributions Act 2015 (c. 5)](https://www.legislation.gov.uk/ukpga/2015/5), [Sch. 1 para. 27](https://www.legislation.gov.uk/ukpga/2015/5/schedule/1/paragraph/27)
+[^c-4d349412bb56bdd274fe829fd6885576]: Textual amendment: [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/1999/2/schedule/9/paragraph/3) omitted (with effect in accordance with Sch. 1 para. 36 of the amending Act) by virtue of [National Insurance Contributions Act 2015 (c. 5)](https://www.legislation.gov.uk/ukpga/2015/5), [Sch. 1 para. 27](https://www.legislation.gov.uk/ukpga/2015/5/schedule/1/paragraph/27)
 
 [^c11212671]: Commencement: [Sch. 9 para. 4](https://www.legislation.gov.uk/ukpga/1999/2/schedule/9/paragraph/4) wholly in force at 1.4.1999; not in force at Royal Assent see [s. 28(3)](https://www.legislation.gov.uk/ukpga/1999/2/section/28/3); in force for certain purposes at 4.3.1999 by [S.I. 1999/527](https://www.legislation.gov.uk/uksi/1999/527), [art. 2(a)](https://www.legislation.gov.uk/uksi/1999/527/article/2/a), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/527/schedule/1); and in force at 1.4.1999 in so far as not already in force by [S.I. 1999/527](https://www.legislation.gov.uk/uksi/1999/527), [art. 2(b)](https://www.legislation.gov.uk/uksi/1999/527/article/2/b), [Sch. 2](https://www.legislation.gov.uk/uksi/1999/527/schedule/2)
 
@@ -82,4 +82,4 @@ Section 26(2).
 
 [^c11212701]: Commencement: Sch. 9 para. 7 wholly in force at 1.4.1999; Sch. 9 para. 7 not in force at Royal Assent see s. 28(3); Sch. 9 para. 7 in force for certain purposes at 4.3.1999 by [S.I. 1999/527](https://www.legislation.gov.uk/uksi/1999/527), [art. 2(a)](https://www.legislation.gov.uk/uksi/1999/527/article/2/a), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/527/schedule/1); and in force at 1.4.1999 in so far as not already in force by [S.I. 1999/527](https://www.legislation.gov.uk/uksi/1999/527), [art. 2(b)](https://www.legislation.gov.uk/uksi/1999/527/article/2/b), [Sch. 2](https://www.legislation.gov.uk/uksi/1999/527/schedule/2)
 
-[^key-d879f9c9e03a2ade0931afcdc2039451]: Textual amendment: [Sch. 9 para. 7(7)](https://www.legislation.gov.uk/ukpga/1999/2/schedule/9/paragraph/7/7) omitted (with effect in accordance with Sch. 1 para. 36 of the amending Act) by virtue of [National Insurance Contributions Act 2015 (c. 5)](https://www.legislation.gov.uk/ukpga/2015/5), [Sch. 1 para. 27](https://www.legislation.gov.uk/ukpga/2015/5/schedule/1/paragraph/27)
+[^c-d879f9c9e03a2ade0931afcdc2039451]: Textual amendment: [Sch. 9 para. 7(7)](https://www.legislation.gov.uk/ukpga/1999/2/schedule/9/paragraph/7/7) omitted (with effect in accordance with Sch. 1 para. 36 of the amending Act) by virtue of [National Insurance Contributions Act 2015 (c. 5)](https://www.legislation.gov.uk/ukpga/2015/5), [Sch. 1 para. 27](https://www.legislation.gov.uk/ukpga/2015/5/schedule/1/paragraph/27)

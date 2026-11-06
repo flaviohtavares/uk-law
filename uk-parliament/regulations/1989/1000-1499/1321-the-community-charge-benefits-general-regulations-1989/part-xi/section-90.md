@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 90. Sums to be deducted in calculating recoverable excess benefits[^key-b5c8754da57d354c10bc8ec9af5f7f6d]
+## 90. Sums to be deducted in calculating recoverable excess benefits[^c-b5c8754da57d354c10bc8ec9af5f7f6d]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ In calculating the amount of recoverable excess benefits, the appropriate author
 
 ## Annotations
 
-[^key-b5c8754da57d354c10bc8ec9af5f7f6d]: Commencement: [Reg. 90](https://www.legislation.gov.uk/uksi/1989/1321/regulation/90) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1321/regulation/1)
+[^c-b5c8754da57d354c10bc8ec9af5f7f6d]: Commencement: [Reg. 90](https://www.legislation.gov.uk/uksi/1989/1321/regulation/90) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1321/regulation/1)

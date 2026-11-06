@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Requirement of secrecy[^key-c0a8c5ac2f6f7dc26f0f00d5bddda46a]
+## 35. Requirement of secrecy[^c-c0a8c5ac2f6f7dc26f0f00d5bddda46a]
 
 *Extent: E+W*
 
@@ -63,6 +63,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c0a8c5ac2f6f7dc26f0f00d5bddda46a]: Commencement: Art. 35 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-c0a8c5ac2f6f7dc26f0f00d5bddda46a]: Commencement: Art. 35 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
 [^f00048]: Footnote: Sections 6A to 6D were inserted by section 29 of the Electoral Administration Act [2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22). Section 6A was amended by paragraph 10 of Schedule 10 to Police Reform and Social Responsibility Act [2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13); paragraph 3 of Schedule 6 to the Recall of MPs Act [2015 (c. 25)](https://www.legislation.gov.uk/ukpga/2015/25) and [S.I. 2007/1388](https://www.legislation.gov.uk/uksi/2007/1388). Section 6C was amended by paragraph 5 of Schedule 2 to the Senedd and Elections (Wales) Act [2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1). Section 6D was amended by paragraph 6 of Schedule 2 to the Senedd and Elections (Wales) Act 2020.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 110. Restriction on inspection of documents[^key-664bd6bcd2396eb67160de950ee3caf3]
+## 110. Restriction on inspection of documents[^c-664bd6bcd2396eb67160de950ee3caf3]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ WRA may not inspect a document under this Chapter if (or to the extent that), by
 
 ## Annotations
 
-[^key-664bd6bcd2396eb67160de950ee3caf3]: Commencement: S. 110 in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(c)](https://www.legislation.gov.uk/wsi/2018/33/article/2/c)
+[^c-664bd6bcd2396eb67160de950ee3caf3]: Commencement: S. 110 in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(c)](https://www.legislation.gov.uk/wsi/2018/33/article/2/c)

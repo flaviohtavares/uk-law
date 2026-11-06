@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(A1)[^key-2fbf811ba1bac3381d0a2a7b04d8c1d3] An inspector may, for the purposes of investigating whether an employer is contravening, or has contravened—
+(A1)[^c-2fbf811ba1bac3381d0a2a7b04d8c1d3] An inspector may, for the purposes of investigating whether an employer is contravening, or has contravened—
 
 - (a) any provision of, or of regulations under, Chapter 1 of Part 1, or section 50 or 54, of the Pensions ( No. 2) Act (Northern Ireland) 2008, or
 - (b) any corresponding provision in force in Great Britain,
@@ -86,4 +86,4 @@ is being, or has been, complied with, at any reasonable time enter premises liab
 
 ## Annotations
 
-[^key-2fbf811ba1bac3381d0a2a7b04d8c1d3]: Textual amendment: Art. 69(A1)-(D1) inserted (30.6.2012) by [Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13)](https://www.legislation.gov.uk/nia/2008/13), [ss. 60(3)](https://www.legislation.gov.uk/nia/2008/13/section/60/3), [118(1)](https://www.legislation.gov.uk/nia/2008/13/section/118/1) (with [s. 73](https://www.legislation.gov.uk/nia/2008/13/section/73)); [S.R. 2012/266](https://www.legislation.gov.uk/nisr/2012/266), [art. 2(b)](https://www.legislation.gov.uk/nisr/2012/266/article/2/b), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/266/schedule/part/2)
+[^c-2fbf811ba1bac3381d0a2a7b04d8c1d3]: Textual amendment: Art. 69(A1)-(D1) inserted (30.6.2012) by [Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13)](https://www.legislation.gov.uk/nia/2008/13), [ss. 60(3)](https://www.legislation.gov.uk/nia/2008/13/section/60/3), [118(1)](https://www.legislation.gov.uk/nia/2008/13/section/118/1) (with [s. 73](https://www.legislation.gov.uk/nia/2008/13/section/73)); [S.R. 2012/266](https://www.legislation.gov.uk/nisr/2012/266), [art. 2(b)](https://www.legislation.gov.uk/nisr/2012/266/article/2/b), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/266/schedule/part/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 28. Power of Presiding Officer to schedule extraordinary general elections[^key-afa52bbafc34ef687961d30bb761f25e][^key-b8a2a3dabdd05849ea15f00257db8b83]
+## 28. Power of Presiding Officer to schedule extraordinary general elections[^c-afa52bbafc34ef687961d30bb761f25e][^c-b8a2a3dabdd05849ea15f00257db8b83]
 
 *Extent: S*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-afa52bbafc34ef687961d30bb761f25e]: Commencement: S. 28 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
+[^c-afa52bbafc34ef687961d30bb761f25e]: Commencement: S. 28 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
 
-[^key-b8a2a3dabdd05849ea15f00257db8b83]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2025/4/section/28) in force at 1.10.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/c), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/3)
+[^c-b8a2a3dabdd05849ea15f00257db8b83]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2025/4/section/28) in force at 1.10.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/c), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/3)

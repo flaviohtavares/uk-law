@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Commission Implementing Regulation (EU) 2018/878[^key-d241689769ac3e8e6c2c4c426374566b]
+## 18. Commission Implementing Regulation (EU) 2018/878[^c-d241689769ac3e8e6c2c4c426374566b]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Commission Implementing Regulation (EU) 2018/878 adopting the list of Member Sta
 
 ## Annotations
 
-[^key-d241689769ac3e8e6c2c4c426374566b]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2020/1388/regulation/18) in force at 31.12.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c)
+[^c-d241689769ac3e8e6c2c4c426374566b]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2020/1388/regulation/18) in force at 31.12.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c)

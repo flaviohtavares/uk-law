@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Short title[^key-98965913e181c89a8c0566621b4e9a48]
+## 20. Short title[^c-98965913e181c89a8c0566621b4e9a48]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The short title of this Act is the Renting Homes (Amendment) (Wales) Act 2021.
 
 ## Annotations
 
-[^key-98965913e181c89a8c0566621b4e9a48]: Commencement: [S. 20](https://www.legislation.gov.uk/asc/2021/3/section/20) in force at 8.4.2021, see [s. 19(1)](https://www.legislation.gov.uk/asc/2021/3/section/19/1)
+[^c-98965913e181c89a8c0566621b4e9a48]: Commencement: [S. 20](https://www.legislation.gov.uk/asc/2021/3/section/20) in force at 8.4.2021, see [s. 19(1)](https://www.legislation.gov.uk/asc/2021/3/section/19/1)

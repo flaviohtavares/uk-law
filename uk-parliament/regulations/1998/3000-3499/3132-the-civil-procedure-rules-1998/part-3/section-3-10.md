@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.10. General power of the court to rectify matters where there has been an error of procedure[^key-9086589fed435a5f567b7d66f5ca2542]
+## 3.10. General power of the court to rectify matters where there has been an error of procedure[^c-9086589fed435a5f567b7d66f5ca2542]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ Where there has been an error of procedure such as a failure to comply with a ru
 
 ## Annotations
 
-[^key-9086589fed435a5f567b7d66f5ca2542]: Commencement: [Rule 3.10](https://www.legislation.gov.uk/uksi/1998/3132/rule/3.10) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-9086589fed435a5f567b7d66f5ca2542]: Commencement: [Rule 3.10](https://www.legislation.gov.uk/uksi/1998/3132/rule/3.10) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)

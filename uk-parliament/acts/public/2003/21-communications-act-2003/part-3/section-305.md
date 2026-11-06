@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 305. Meaning of “relevant date” in s. 303[^key-3164ce748b1080c0b5da412cd0715230]
+## 305. Meaning of “relevant date” in s. 303[^c-3164ce748b1080c0b5da412cd0715230]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ summary: ''
 
 (2) In the case of a service the provision of which began before the television transfer date but which is not—
 
-- (a) a service provided by S4C[^key-01f9e4952f7bdc216f3f2f07e149464f],
+- (a) a service provided by S4C[^c-01f9e4952f7bdc216f3f2f07e149464f],
 - (b) a licensed public service channel, or
 - (c) a digital television programme service,
 
@@ -46,6 +46,6 @@ the relevant date is 1st January 2000.
 
 ## Annotations
 
-[^key-3164ce748b1080c0b5da412cd0715230]: Commencement: S. 305 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-3164ce748b1080c0b5da412cd0715230]: Commencement: S. 305 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-01f9e4952f7bdc216f3f2f07e149464f]: Textual amendment: Word in [s. 305(2)(a)](https://www.legislation.gov.uk/ukpga/2003/21/section/305/2/a) substituted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(c)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/c), [Sch. 4 para. 37](https://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/37); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(x)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/x)
+[^c-01f9e4952f7bdc216f3f2f07e149464f]: Textual amendment: Word in [s. 305(2)(a)](https://www.legislation.gov.uk/ukpga/2003/21/section/305/2/a) substituted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(c)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/c), [Sch. 4 para. 37](https://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/37); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(x)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/x)

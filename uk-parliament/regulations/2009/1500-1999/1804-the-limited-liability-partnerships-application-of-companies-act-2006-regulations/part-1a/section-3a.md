@@ -16,25 +16,25 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3A. Statement of initial significant control[^key-d310d88f9c79b7b1cf927caf19c1435e]
+## 3A. Statement of initial significant control[^c-d310d88f9c79b7b1cf927caf19c1435e]
 
 *Extent: E+W+S+N.I.*
 
-Section 12A applies to LLPs, modified so that it reads as follows— *(affected by repeal, see note)*[^key-11d20915ff7db24ee885bdbd1877c0a2]
+Section 12A applies to LLPs, modified so that it reads as follows— *(affected by repeal, see note)*[^c-11d20915ff7db24ee885bdbd1877c0a2]
 
-> **12A. Statement of initial significant control (affected by repeal, see note)[^key-11d20915ff7db24ee885bdbd1877c0a2]**
+> **12A. Statement of initial significant control (affected by repeal, see note)[^c-11d20915ff7db24ee885bdbd1877c0a2]**
 >
-> (1) The statement of initial significant control required to be included in the incorporation document delivered to the registrar must— *(affected by repeal, see note)*[^key-11d20915ff7db24ee885bdbd1877c0a2]
+> (1) The statement of initial significant control required to be included in the incorporation document delivered to the registrar must— *(affected by repeal, see note)*[^c-11d20915ff7db24ee885bdbd1877c0a2]
 >
-> - (a) state whether, on incorporation, there will be anyone who will count for the purposes of section 790M (register of people with significant control over an LLP) as either a registrable person or a registrable relevant legal entity in relation to the LLP, *(affected by repeal, see note)*[^key-11d20915ff7db24ee885bdbd1877c0a2]
-> - (b) include the required particulars of anyone who will count as such, and *(affected by repeal, see note)*[^key-11d20915ff7db24ee885bdbd1877c0a2]
-> - (c) include any other matters that on incorporation will be required (or, in the absence of an election under section 790X, would be required) to be entered in the LLP’s PSC register by virtue of section 790M. *(affected by repeal, see note)*[^key-11d20915ff7db24ee885bdbd1877c0a2]
+> - (a) state whether, on incorporation, there will be anyone who will count for the purposes of section 790M (register of people with significant control over an LLP) as either a registrable person or a registrable relevant legal entity in relation to the LLP, *(affected by repeal, see note)*[^c-11d20915ff7db24ee885bdbd1877c0a2]
+> - (b) include the required particulars of anyone who will count as such, and *(affected by repeal, see note)*[^c-11d20915ff7db24ee885bdbd1877c0a2]
+> - (c) include any other matters that on incorporation will be required (or, in the absence of an election under section 790X, would be required) to be entered in the LLP’s PSC register by virtue of section 790M. *(affected by repeal, see note)*[^c-11d20915ff7db24ee885bdbd1877c0a2]
 >
-> (2) It is not necessary to include under subsection (1)(b) the date on which someone becomes a registrable person or a registrable relevant legal entity in relation to the LLP. *(affected by repeal, see note)*[^key-11d20915ff7db24ee885bdbd1877c0a2]
+> (2) It is not necessary to include under subsection (1)(b) the date on which someone becomes a registrable person or a registrable relevant legal entity in relation to the LLP. *(affected by repeal, see note)*[^c-11d20915ff7db24ee885bdbd1877c0a2]
 >
-> (3) If the statement includes required particulars of an individual, it must also contain a statement that those particulars are included with the knowledge of that individual. *(affected by repeal, see note)*[^key-11d20915ff7db24ee885bdbd1877c0a2]
+> (3) If the statement includes required particulars of an individual, it must also contain a statement that those particulars are included with the knowledge of that individual. *(affected by repeal, see note)*[^c-11d20915ff7db24ee885bdbd1877c0a2]
 >
-> (4) “Registrable person”, “registrable relevant legal entity” and “required particulars” have the meanings given in sections 790C and 790K. *(affected by repeal, see note)*[^key-11d20915ff7db24ee885bdbd1877c0a2]
+> (4) “Registrable person”, “registrable relevant legal entity” and “required particulars” have the meanings given in sections 790C and 790K. *(affected by repeal, see note)*[^c-11d20915ff7db24ee885bdbd1877c0a2]
 
 Sections 12A and 12B apply to LLPs, modified so that they read as follows—
 
@@ -81,6 +81,6 @@ Sections 12A and 12B apply to LLPs, modified so that they read as follows—
 
 ## Annotations
 
-[^key-d310d88f9c79b7b1cf927caf19c1435e]: Textual amendment: [Pt. 1A](https://www.legislation.gov.uk/uksi/2009/1804/part/1A) inserted (30.6.2016) by [The Limited Liability Partnerships (Register of People with Significant Control) Regulations 2016 (S.I. 2016/340)](https://www.legislation.gov.uk/uksi/2016/340), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2016/340/regulation/1/2/c), [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2016/340/schedule/3/paragraph/3)
+[^c-d310d88f9c79b7b1cf927caf19c1435e]: Textual amendment: [Pt. 1A](https://www.legislation.gov.uk/uksi/2009/1804/part/1A) inserted (30.6.2016) by [The Limited Liability Partnerships (Register of People with Significant Control) Regulations 2016 (S.I. 2016/340)](https://www.legislation.gov.uk/uksi/2016/340), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2016/340/regulation/1/2/c), [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2016/340/schedule/3/paragraph/3)
 
-[^key-11d20915ff7db24ee885bdbd1877c0a2]: Textual amendment: [Reg. 3A](https://www.legislation.gov.uk/uksi/2009/1804/regulation/3A) substituted (18.11.2025 for specified purposes) by [The Limited Liability Partnerships (Application and Modification of Company Law) Regulations 2025 (S.I. 2025/1033)](https://www.legislation.gov.uk/uksi/2025/1033), [regs. 1(3)(a)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/1/3/a)[(4)(d)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/1/4/d), [5](https://www.legislation.gov.uk/uksi/2025/1033/regulation/5) (with [regs. 12-16](https://www.legislation.gov.uk/uksi/2025/1033/regulation/12)); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i/4)
+[^c-11d20915ff7db24ee885bdbd1877c0a2]: Textual amendment: [Reg. 3A](https://www.legislation.gov.uk/uksi/2009/1804/regulation/3A) substituted (18.11.2025 for specified purposes) by [The Limited Liability Partnerships (Application and Modification of Company Law) Regulations 2025 (S.I. 2025/1033)](https://www.legislation.gov.uk/uksi/2025/1033), [regs. 1(3)(a)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/1/3/a)[(4)(d)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/1/4/d), [5](https://www.legislation.gov.uk/uksi/2025/1033/regulation/5) (with [regs. 12-16](https://www.legislation.gov.uk/uksi/2025/1033/regulation/12)); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i/4)

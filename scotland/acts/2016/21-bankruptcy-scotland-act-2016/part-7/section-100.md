@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 100. Recall of order for payment of capital sum on divorce or on dissolution of civil partnership[^key-ba7736612d9b4930a2b6ced8d3dca5f9]
+## 100. Recall of order for payment of capital sum on divorce or on dissolution of civil partnership[^c-ba7736612d9b4930a2b6ced8d3dca5f9]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ba7736612d9b4930a2b6ced8d3dca5f9]: Commencement: [S. 100](https://www.legislation.gov.uk/asp/2016/21/section/100) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-ba7736612d9b4930a2b6ced8d3dca5f9]: Commencement: [S. 100](https://www.legislation.gov.uk/asp/2016/21/section/100) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

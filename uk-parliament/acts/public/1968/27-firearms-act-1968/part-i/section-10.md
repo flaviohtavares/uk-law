@@ -20,13 +20,13 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1) A person holding a relevant licence may,[^key-1d412b95a89b2418b5d68085afe94f01] without holding a certificate, have in his possession a slaughtering instrument and ammunition therefor in any slaughterhouse or knacker’s yard in which he is employed.
+(1) A person holding a relevant licence may,[^c-1d412b95a89b2418b5d68085afe94f01] without holding a certificate, have in his possession a slaughtering instrument and ammunition therefor in any slaughterhouse or knacker’s yard in which he is employed.
 
 *Extent: W*
 
-(1A)[^key-66fba97fba3d17d1dadc6ba5b50cd3da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1A)[^c-66fba97fba3d17d1dadc6ba5b50cd3da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(1B)[^key-276402ece2ecd6ca1c5513be6086a4f1] For the purposes of subsection (1), a person holds a relevant licence if that person—
+(1B)[^c-276402ece2ecd6ca1c5513be6086a4f1] For the purposes of subsection (1), a person holds a relevant licence if that person—
 
 - (a) holds a certificate of competence or licence to kill animals under the Welfare of Animals at the Time of Killing (England) Regulations 2015,
 - (b) holds a certificate of competence or licence to kill animals under the Welfare of Animals at the Time of Killing (Wales) Regulations 2014, or
@@ -36,8 +36,8 @@ summary: ''
 
 ## Annotations
 
-[^key-1d412b95a89b2418b5d68085afe94f01]: Textual amendment: Words in s. 10(1) substituted (5.11.2015) by [The Welfare of Animals at the Time of Killing (England) Regulations 2015 (S.I. 2015/1782)](https://www.legislation.gov.uk/uksi/2015/1782), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/1782/regulation/1/4), [Sch. 6 para. 1(2)](https://www.legislation.gov.uk/uksi/2015/1782/schedule/6/paragraph/1/2)
+[^c-1d412b95a89b2418b5d68085afe94f01]: Textual amendment: Words in s. 10(1) substituted (5.11.2015) by [The Welfare of Animals at the Time of Killing (England) Regulations 2015 (S.I. 2015/1782)](https://www.legislation.gov.uk/uksi/2015/1782), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/1782/regulation/1/4), [Sch. 6 para. 1(2)](https://www.legislation.gov.uk/uksi/2015/1782/schedule/6/paragraph/1/2)
 
-[^key-66fba97fba3d17d1dadc6ba5b50cd3da]: Textual amendment: S. 10(1A) omitted (5.11.2015) by virtue of [The Welfare of Animals at the Time of Killing (England) Regulations 2015 (S.I. 2015/1782)](https://www.legislation.gov.uk/uksi/2015/1782), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/1782/regulation/1/4), [Sch. 6 para. 1(3)](https://www.legislation.gov.uk/uksi/2015/1782/schedule/6/paragraph/1/3)
+[^c-66fba97fba3d17d1dadc6ba5b50cd3da]: Textual amendment: S. 10(1A) omitted (5.11.2015) by virtue of [The Welfare of Animals at the Time of Killing (England) Regulations 2015 (S.I. 2015/1782)](https://www.legislation.gov.uk/uksi/2015/1782), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/1782/regulation/1/4), [Sch. 6 para. 1(3)](https://www.legislation.gov.uk/uksi/2015/1782/schedule/6/paragraph/1/3)
 
-[^key-276402ece2ecd6ca1c5513be6086a4f1]: Textual amendment: S. 10(1B) inserted (5.11.2015) by [The Welfare of Animals at the Time of Killing (England) Regulations 2015 (S.I. 2015/1782)](https://www.legislation.gov.uk/uksi/2015/1782), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/1782/regulation/1/4), [Sch. 6 para. 1(4)](https://www.legislation.gov.uk/uksi/2015/1782/schedule/6/paragraph/1/4)
+[^c-276402ece2ecd6ca1c5513be6086a4f1]: Textual amendment: S. 10(1B) inserted (5.11.2015) by [The Welfare of Animals at the Time of Killing (England) Regulations 2015 (S.I. 2015/1782)](https://www.legislation.gov.uk/uksi/2015/1782), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/1782/regulation/1/4), [Sch. 6 para. 1(4)](https://www.legislation.gov.uk/uksi/2015/1782/schedule/6/paragraph/1/4)

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Agreement between designated bodies[^key-e1d8c9d3294bcac6b9d4d00b9d8bfb87]
+## 79. Agreement between designated bodies[^c-e1d8c9d3294bcac6b9d4d00b9d8bfb87]
 
 *Extent: E+W*
 
-(1) A designated body (“A”) may, with the approval of the Secretary of State, enter into an agreement with another designated body (“B”) authorising B to perform a function of A that is related to or connected with a DEFRA or DESNZ[^key-38a9ed1f61291c7d2354700353050e2f] function—
+(1) A designated body (“A”) may, with the approval of the Secretary of State, enter into an agreement with another designated body (“B”) authorising B to perform a function of A that is related to or connected with a DEFRA or DESNZ[^c-38a9ed1f61291c7d2354700353050e2f] function—
 
 - (a) either in relation to the whole of England or in relation to specified areas in England;
 - (b) subject to paragraph (a), either generally or in specified cases.
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e1d8c9d3294bcac6b9d4d00b9d8bfb87]: Commencement: S. 79 in force at 31.5.2006 by [S.I. 2006/1382](https://www.legislation.gov.uk/uksi/2006/1382), [art. 2](https://www.legislation.gov.uk/uksi/2006/1382/article/2)
+[^c-e1d8c9d3294bcac6b9d4d00b9d8bfb87]: Commencement: S. 79 in force at 31.5.2006 by [S.I. 2006/1382](https://www.legislation.gov.uk/uksi/2006/1382), [art. 2](https://www.legislation.gov.uk/uksi/2006/1382/article/2)
 
-[^key-38a9ed1f61291c7d2354700353050e2f]: Textual amendment: Words in [s. 79(1)](https://www.legislation.gov.uk/ukpga/2006/16/section/79/1) substituted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 13(2)(b)](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/13/2/b) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
+[^c-38a9ed1f61291c7d2354700353050e2f]: Textual amendment: Words in [s. 79(1)](https://www.legislation.gov.uk/ukpga/2006/16/section/79/1) substituted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 13(2)(b)](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/13/2/b) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))

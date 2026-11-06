@@ -24,7 +24,7 @@ summary: ''
 
 (2) The successor company shall not by virtue of subsection (1) be regarded as a body falling within section 170(12) of the Taxation of Chargeable Gains Act 1992[^c9347091] (bodies established for carrying on industries or undertakings under national ownership or control).
 
-(3)[^c9347101] For the purposes of Part VI of the [^c9347111]Income and Corporation Taxes Act 1988 (company distributions) and Part 5 of the Corporation Tax Act 2009[^key-8d2c72f4b65f717edd33f603e4e4f14f] (loan relationships), any debentures of the company issued in pursuance of section 4 shall be treated as having been issued for new consideration equal to the principal sum payable under the debenture.
+(3)[^c9347101] For the purposes of Part VI of the [^c9347111]Income and Corporation Taxes Act 1988 (company distributions) and Part 5 of the Corporation Tax Act 2009[^c-8d2c72f4b65f717edd33f603e4e4f14f] (loan relationships), any debentures of the company issued in pursuance of section 4 shall be treated as having been issued for new consideration equal to the principal sum payable under the debenture.
 
 (4) For the avoidance of doubt it is hereby declared that—
 
@@ -49,6 +49,6 @@ then, for the purposes of section 408(2) of the 1988 Act (corresponding accounti
 
 [^c9347111]: Marginal citation: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1).
 
-[^key-8d2c72f4b65f717edd33f603e4e4f14f]: Textual amendment: Words in s. 77(3) substituted (1.4.2009 with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 321](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/321) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-8d2c72f4b65f717edd33f603e4e4f14f]: Textual amendment: Words in s. 77(3) substituted (1.4.2009 with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 321](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/321) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
 [^c9347121]: Textual amendment: Words substituted by [Income and Corporation Taxes Act 1988 (c. 1, SIF 63:1)](https://www.legislation.gov.uk/ukpga/1988/1), [s. 844](https://www.legislation.gov.uk/ukpga/1988/1/section/844), [Sch. 29 para. 32](https://www.legislation.gov.uk/ukpga/1988/1/schedule/29/paragraph/32)

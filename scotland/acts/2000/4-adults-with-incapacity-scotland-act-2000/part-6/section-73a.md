@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 73A. Recall of chief social work officer's guardianship powers[^key-5cfa68bdba7e1f59f5c4789cbc864f57]
+## 73A. Recall of chief social work officer's guardianship powers[^c-5cfa68bdba7e1f59f5c4789cbc864f57]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5cfa68bdba7e1f59f5c4789cbc864f57]: Textual amendment: S. 73A inserted (1.4.2008) by [Adult Support and Protection (Scotland) Act 2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), [ss. 60(12)](https://www.legislation.gov.uk/asp/2007/10/section/60/12), [79(3)](https://www.legislation.gov.uk/asp/2007/10/section/79/3); [S.S.I. 2008/49](https://www.legislation.gov.uk/ssi/2008/49), [art. 2(1)](https://www.legislation.gov.uk/ssi/2008/49/article/2/1)
+[^c-5cfa68bdba7e1f59f5c4789cbc864f57]: Textual amendment: S. 73A inserted (1.4.2008) by [Adult Support and Protection (Scotland) Act 2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), [ss. 60(12)](https://www.legislation.gov.uk/asp/2007/10/section/60/12), [79(3)](https://www.legislation.gov.uk/asp/2007/10/section/79/3); [S.S.I. 2008/49](https://www.legislation.gov.uk/ssi/2008/49), [art. 2(1)](https://www.legislation.gov.uk/ssi/2008/49/article/2/1)

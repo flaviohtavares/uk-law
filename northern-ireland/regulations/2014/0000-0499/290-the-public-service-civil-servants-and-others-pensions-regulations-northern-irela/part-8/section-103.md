@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 103. Meaning of “dependant’s earned pension”[^key-4a8d2be441a9840cd77ef730363494e3][^key-a4b5e9c3fc982440e7377a0fd3a0fef0]
+## 103. Meaning of “dependant’s earned pension”[^c-4a8d2be441a9840cd77ef730363494e3][^c-a4b5e9c3fc982440e7377a0fd3a0fef0]
 
 *Extent: N.I.*
 
@@ -24,6 +24,6 @@ A dependant’s earned pension is a pension payable on the death of a member of 
 
 ## Annotations
 
-[^key-4a8d2be441a9840cd77ef730363494e3]: Commencement: [Reg. 103](https://www.legislation.gov.uk/nisr/2014/290/regulation/103) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-4a8d2be441a9840cd77ef730363494e3]: Commencement: [Reg. 103](https://www.legislation.gov.uk/nisr/2014/290/regulation/103) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
 
-[^key-a4b5e9c3fc982440e7377a0fd3a0fef0]: Textual amendment: Words in [reg. 103](https://www.legislation.gov.uk/nisr/2014/290/regulation/103) heading substituted (with effect in accordance with of the amending Rule) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [32](https://www.legislation.gov.uk/nisr/2022/67/regulation/32)
+[^c-a4b5e9c3fc982440e7377a0fd3a0fef0]: Textual amendment: Words in [reg. 103](https://www.legislation.gov.uk/nisr/2014/290/regulation/103) heading substituted (with effect in accordance with of the amending Rule) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [32](https://www.legislation.gov.uk/nisr/2022/67/regulation/32)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25AA. Relevant aerodromes[^key-cb863626c4a1546d1a4feef489ca3d89]
+## 25AA. Relevant aerodromes[^c-cb863626c4a1546d1a4feef489ca3d89]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cb863626c4a1546d1a4feef489ca3d89]: Textual amendment: S. 25AA and cross-heading inserted (29.1.2010 for E.W.S., 1.4.2010 for N.I.) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26) , [s. 116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1) , [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/2009/26/schedule/6/paragraph/4) ; [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125) , [art. 2(s)](https://www.legislation.gov.uk/uksi/2010/125/article/2/s) ; S.I. 2010/507, art. 5(u)
+[^c-cb863626c4a1546d1a4feef489ca3d89]: Textual amendment: S. 25AA and cross-heading inserted (29.1.2010 for E.W.S., 1.4.2010 for N.I.) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26) , [s. 116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1) , [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/2009/26/schedule/6/paragraph/4) ; [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125) , [art. 2(s)](https://www.legislation.gov.uk/uksi/2010/125/article/2/s) ; S.I. 2010/507, art. 5(u)

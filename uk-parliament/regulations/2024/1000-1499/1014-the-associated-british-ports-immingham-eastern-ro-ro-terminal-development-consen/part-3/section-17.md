@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Recovery of costs of new connection[^key-5a66de8bcdfce2a1357cc8d0fca9ba5c]
+## 17. Recovery of costs of new connection[^c-5a66de8bcdfce2a1357cc8d0fca9ba5c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where any apparatus of a public utility undertaker or public communications prov
 
 ## Annotations
 
-[^key-5a66de8bcdfce2a1357cc8d0fca9ba5c]: Commencement: Art. 17 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-5a66de8bcdfce2a1357cc8d0fca9ba5c]: Commencement: Art. 17 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)

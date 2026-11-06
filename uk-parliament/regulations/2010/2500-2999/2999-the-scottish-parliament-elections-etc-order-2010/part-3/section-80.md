@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Rights of creditors[^key-055b9b094508add7f7b7e3439d4bbc27]
+## 80. Rights of creditors[^c-055b9b094508add7f7b7e3439d4bbc27]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ do not affect the right of any creditor, who, when the contract was made or the 
 
 ## Annotations
 
-[^key-055b9b094508add7f7b7e3439d4bbc27]: Commencement: Art. 80 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-055b9b094508add7f7b7e3439d4bbc27]: Commencement: Art. 80 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)

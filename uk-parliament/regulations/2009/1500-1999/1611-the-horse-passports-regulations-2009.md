@@ -32,7 +32,7 @@ summary: ''
 
 Animals, England
 
-The Horse Passports Regulations 2009 (revoked)[^key-9a5883079aa77f7e89b34fa24329ac2b]
+The Horse Passports Regulations 2009 (revoked)[^c-9a5883079aa77f7e89b34fa24329ac2b]
 
 Made
 
@@ -46,139 +46,139 @@ Coming into force
 
 1st August 2009
 
-[^key-9a5883079aa77f7e89b34fa24329ac2b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9a5883079aa77f7e89b34fa24329ac2b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — Introduction[^key-9a5883079aa77f7e89b34fa24329ac2b]
+## PART 1 — Introduction[^c-9a5883079aa77f7e89b34fa24329ac2b]
 
-### 1. Citation, application and commencement[^key-9a5883079aa77f7e89b34fa24329ac2b]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Meaning of “horse” and “passport”[^key-9a5883079aa77f7e89b34fa24329ac2b]
+### 1. Citation, application and commencement[^c-9a5883079aa77f7e89b34fa24329ac2b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — Enforcement of Commission Regulation [(EC) No. 504/2008](https://www.legislation.gov.uk/european/regulation/2008/0504)[^key-9a5883079aa77f7e89b34fa24329ac2b]
-
-### 3. Competent authority for Commission Regulation [(EC) No. 504/2008](https://www.legislation.gov.uk/european/regulation/2008/0504)[^key-9a5883079aa77f7e89b34fa24329ac2b]
+### 2. Meaning of “horse” and “passport”[^c-9a5883079aa77f7e89b34fa24329ac2b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Sale of horses[^key-9a5883079aa77f7e89b34fa24329ac2b]
+## PART 2 — Enforcement of Commission Regulation [(EC) No. 504/2008](https://www.legislation.gov.uk/european/regulation/2008/0504)[^c-9a5883079aa77f7e89b34fa24329ac2b]
+
+### 3. Competent authority for Commission Regulation [(EC) No. 504/2008](https://www.legislation.gov.uk/european/regulation/2008/0504)[^c-9a5883079aa77f7e89b34fa24329ac2b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Passports[^key-9a5883079aa77f7e89b34fa24329ac2b]
+### 4. Sale of horses[^c-9a5883079aa77f7e89b34fa24329ac2b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Application for duplicate and replacement passports[^key-9a5883079aa77f7e89b34fa24329ac2b]
+### 5. Passports[^c-9a5883079aa77f7e89b34fa24329ac2b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Importation[^key-9a5883079aa77f7e89b34fa24329ac2b]
+### 6. Application for duplicate and replacement passports[^c-9a5883079aa77f7e89b34fa24329ac2b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Detecting previous active marking of horses[^key-9a5883079aa77f7e89b34fa24329ac2b]
+### 7. Importation[^c-9a5883079aa77f7e89b34fa24329ac2b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Transponders[^key-9a5883079aa77f7e89b34fa24329ac2b]
+### 8. Detecting previous active marking of horses[^c-9a5883079aa77f7e89b34fa24329ac2b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Accompanying documentation[^key-9a5883079aa77f7e89b34fa24329ac2b]
+### 9. Transponders[^c-9a5883079aa77f7e89b34fa24329ac2b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Movement to slaughter[^key-9a5883079aa77f7e89b34fa24329ac2b]
+### 10. Accompanying documentation[^c-9a5883079aa77f7e89b34fa24329ac2b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Issue of duplicate and replacement passports[^key-9a5883079aa77f7e89b34fa24329ac2b]
+### 11. Movement to slaughter[^c-9a5883079aa77f7e89b34fa24329ac2b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Procedure on death[^key-9a5883079aa77f7e89b34fa24329ac2b]
+### 12. Issue of duplicate and replacement passports[^c-9a5883079aa77f7e89b34fa24329ac2b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Procedure by the passport issuing organisation on death[^key-9a5883079aa77f7e89b34fa24329ac2b]
+### 13. Procedure on death[^c-9a5883079aa77f7e89b34fa24329ac2b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Treatment with a veterinary medicinal product[^key-9a5883079aa77f7e89b34fa24329ac2b]
+### 14. Procedure by the passport issuing organisation on death[^c-9a5883079aa77f7e89b34fa24329ac2b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Databases[^key-9a5883079aa77f7e89b34fa24329ac2b]
+### 15. Treatment with a veterinary medicinal product[^c-9a5883079aa77f7e89b34fa24329ac2b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Prohibitions[^key-9a5883079aa77f7e89b34fa24329ac2b]
+### 16. Databases[^c-9a5883079aa77f7e89b34fa24329ac2b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Dartmoor, Exmoor and the New Forest[^key-9a5883079aa77f7e89b34fa24329ac2b]
+### 17. Prohibitions[^c-9a5883079aa77f7e89b34fa24329ac2b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — Powers and penalties[^key-9a5883079aa77f7e89b34fa24329ac2b]
-
-### 19. Enforcement[^key-9a5883079aa77f7e89b34fa24329ac2b]
+### 18. Dartmoor, Exmoor and the New Forest[^c-9a5883079aa77f7e89b34fa24329ac2b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 20. Powers of entry[^key-9a5883079aa77f7e89b34fa24329ac2b]
+## PART 3 — Powers and penalties[^c-9a5883079aa77f7e89b34fa24329ac2b]
+
+### 19. Enforcement[^c-9a5883079aa77f7e89b34fa24329ac2b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21. Obstruction[^key-9a5883079aa77f7e89b34fa24329ac2b]
+### 20. Powers of entry[^c-9a5883079aa77f7e89b34fa24329ac2b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 22. Penalties[^key-9a5883079aa77f7e89b34fa24329ac2b]
+### 21. Obstruction[^c-9a5883079aa77f7e89b34fa24329ac2b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 23. Offences by bodies corporate[^key-9a5883079aa77f7e89b34fa24329ac2b]
+### 22. Penalties[^c-9a5883079aa77f7e89b34fa24329ac2b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 24. Offences by partnerships and unincorporated associations[^key-9a5883079aa77f7e89b34fa24329ac2b]
+### 23. Offences by bodies corporate[^c-9a5883079aa77f7e89b34fa24329ac2b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 25. Revocations[^key-9a5883079aa77f7e89b34fa24329ac2b]
+### 24. Offences by partnerships and unincorporated associations[^c-9a5883079aa77f7e89b34fa24329ac2b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9a5883079aa77f7e89b34fa24329ac2b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 25. Revocations[^c-9a5883079aa77f7e89b34fa24329ac2b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-9a5883079aa77f7e89b34fa24329ac2b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Dartmoor, Exmoor and the New Forest[^key-9a5883079aa77f7e89b34fa24329ac2b]
+## SCHEDULE — Dartmoor, Exmoor and the New Forest[^c-9a5883079aa77f7e89b34fa24329ac2b]
 
 Regulation 18
 
-### 1. Application of this Schedule[^key-9a5883079aa77f7e89b34fa24329ac2b]
+### 1. Application of this Schedule[^c-9a5883079aa77f7e89b34fa24329ac2b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Veterinary treatment[^key-9a5883079aa77f7e89b34fa24329ac2b]
+### 2. Veterinary treatment[^c-9a5883079aa77f7e89b34fa24329ac2b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Movement off the designated area[^key-9a5883079aa77f7e89b34fa24329ac2b]
+### 3. Movement off the designated area[^c-9a5883079aa77f7e89b34fa24329ac2b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-9a5883079aa77f7e89b34fa24329ac2b]EXPLANATORY NOTE
+[^c-9a5883079aa77f7e89b34fa24329ac2b]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -190,11 +190,11 @@ Part 3 provides that the Regulations are enforced by the local authority, and gi
 
 Breach of the Regulations is an offence punishable—
 
-- (a)[^key-9a5883079aa77f7e89b34fa24329ac2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-9a5883079aa77f7e89b34fa24329ac2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-9a5883079aa77f7e89b34fa24329ac2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-9a5883079aa77f7e89b34fa24329ac2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 A full impact assessment has been prepared and placed in the libraries of both Houses of Parliament. It is available on the Defra website at www.defra.gov.uk
 
 ## Annotations
 
-[^key-9a5883079aa77f7e89b34fa24329ac2b]: Textual amendment: Regulations revoked (1.10.2018) by [The Equine Identification (England) Regulations 2018 (S.I. 2018/761)](https://www.legislation.gov.uk/uksi/2018/761), regs. 1(1), [50](https://www.legislation.gov.uk/uksi/2018/761/regulation/50)
+[^c-9a5883079aa77f7e89b34fa24329ac2b]: Textual amendment: Regulations revoked (1.10.2018) by [The Equine Identification (England) Regulations 2018 (S.I. 2018/761)](https://www.legislation.gov.uk/uksi/2018/761), regs. 1(1), [50](https://www.legislation.gov.uk/uksi/2018/761/regulation/50)

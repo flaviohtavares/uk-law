@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Repeal of requirement to give notice of detention to parent: England[^key-353379f64eccf368367d0c6848013843]
+## 5. Repeal of requirement to give notice of detention to parent: England[^c-353379f64eccf368367d0c6848013843]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In section 92 of EIA 2006 (enforcement of disciplinary penalties: detention outs
 
 ## Annotations
 
-[^key-353379f64eccf368367d0c6848013843]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2011/21/section/5) in force at 15.1.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 2](https://www.legislation.gov.uk/uksi/2012/84/article/2)
+[^c-353379f64eccf368367d0c6848013843]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2011/21/section/5) in force at 15.1.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 2](https://www.legislation.gov.uk/uksi/2012/84/article/2)

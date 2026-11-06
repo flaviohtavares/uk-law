@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 89. Sentences of imprisonment & matrimonial orders: bishops & archbishops[^key-6e1b4cc40e0d85a580e4a1e224a5c9ef]
+## 89. Sentences of imprisonment & matrimonial orders: bishops & archbishops[^c-6e1b4cc40e0d85a580e4a1e224a5c9ef]
 
 *Extent: E*
 
@@ -24,4 +24,4 @@ In rules 67 to 73 references to provisions in section 30 of the Measure shall be
 
 ## Annotations
 
-[^key-6e1b4cc40e0d85a580e4a1e224a5c9ef]: Commencement: [Rule 89](https://www.legislation.gov.uk/uksi/2005/2022/rule/89) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)
+[^c-6e1b4cc40e0d85a580e4a1e224a5c9ef]: Commencement: [Rule 89](https://www.legislation.gov.uk/uksi/2005/2022/rule/89) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)

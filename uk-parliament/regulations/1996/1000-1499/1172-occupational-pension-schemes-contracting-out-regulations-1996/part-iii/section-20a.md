@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 20A. Suspension of section 9(2B) rights[^key-7373901ae7c3a36226d0aa31b3fc14d6][^key-addbf8efc692332f94aec33da2dc6682]
+## 20A. Suspension of section 9(2B) rights[^c-7373901ae7c3a36226d0aa31b3fc14d6][^c-addbf8efc692332f94aec33da2dc6682]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7373901ae7c3a36226d0aa31b3fc14d6]: Textual amendment: Regs. 16-21 revoked (6.4.2016) by [The Occupational Pension Schemes (Schemes that were Contracted-out) (No.2) Regulations 2015 (S.I. 2015/1677)](https://www.legislation.gov.uk/uksi/2015/1677), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1677/regulation/1/2/b), [31(b)](https://www.legislation.gov.uk/uksi/2015/1677/regulation/31/b)
+[^c-7373901ae7c3a36226d0aa31b3fc14d6]: Textual amendment: Regs. 16-21 revoked (6.4.2016) by [The Occupational Pension Schemes (Schemes that were Contracted-out) (No.2) Regulations 2015 (S.I. 2015/1677)](https://www.legislation.gov.uk/uksi/2015/1677), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1677/regulation/1/2/b), [31(b)](https://www.legislation.gov.uk/uksi/2015/1677/regulation/31/b)
 
-[^key-addbf8efc692332f94aec33da2dc6682]: Textual amendment: Reg. 20A inserted (6.4.2002) by [The Occupational and Personal Pension Schemes (Contracting-out) (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/681)](https://www.legislation.gov.uk/uksi/2002/681) , [regs. 1](https://www.legislation.gov.uk/uksi/2002/681/regulation/1) , [2(9)](https://www.legislation.gov.uk/uksi/2002/681/regulation/2/9)
+[^c-addbf8efc692332f94aec33da2dc6682]: Textual amendment: Reg. 20A inserted (6.4.2002) by [The Occupational and Personal Pension Schemes (Contracting-out) (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/681)](https://www.legislation.gov.uk/uksi/2002/681) , [regs. 1](https://www.legislation.gov.uk/uksi/2002/681/regulation/1) , [2(9)](https://www.legislation.gov.uk/uksi/2002/681/regulation/2/9)

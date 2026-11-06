@@ -45,7 +45,7 @@ The Welsh Ministers, in exercise of the powers conferred on them by sections 74(
 
 ## PART 1 — Introduction
 
-### 1. Title and commencement[^key-ea26ea2c38a724716b5805db518f7116]
+### 1. Title and commencement[^c-ea26ea2c38a724716b5805db518f7116]
 
 (1) The title of these Regulations is the Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 3) Regulations 2022.
 
@@ -53,7 +53,7 @@ The Welsh Ministers, in exercise of the powers conferred on them by sections 74(
 
 (3) Regulations 7(4), 9(2) and (3), 10(3), (5), (7) and (8), 11(4), 13(3), 14(3), 15(2) and (3), 16(2) and (3), 17(2), and 19(2) and (3) provide the dates on which specific provisions of Part 2 (Consequential Amendments) come into force.
 
-### 2. Interpretation[^key-956eda7d3c36660685408397bed9a4c0]
+### 2. Interpretation[^c-956eda7d3c36660685408397bed9a4c0]
 
 (1) In these Regulations—
 
@@ -93,15 +93,15 @@ The Welsh Ministers, in exercise of the powers conferred on them by sections 74(
 
 ## PART 2 — Consequential Amendments
 
-### 3. The Education (School Curriculum and Related Information) Regulations 1989[^key-41615fd35ed4bff6508ef5db6fc1bd7d]
+### 3. The Education (School Curriculum and Related Information) Regulations 1989[^c-41615fd35ed4bff6508ef5db6fc1bd7d]
 
 In regulation 1(3) of the Education (School Curriculum and Related Information) Regulations 1989[^f00004] omit the words “and Wales”.
 
-### 4. The Education (National Curriculum) (Exceptions) (Wales) Regulations 1995[^key-2f95a604c8b1a66dddcf7aa2cb18f064]
+### 4. The Education (National Curriculum) (Exceptions) (Wales) Regulations 1995[^c-2f95a604c8b1a66dddcf7aa2cb18f064]
 
 The Education (National Curriculum) (Exceptions) (Wales) Regulations 1995[^f00005] are revoked.
 
-### 5. The Education (Special Educational Needs) (Information) (Wales) Regulations 1999[^key-33fc347fe1bf636e63edd2254ca1a4e5]
+### 5. The Education (Special Educational Needs) (Information) (Wales) Regulations 1999[^c-33fc347fe1bf636e63edd2254ca1a4e5]
 
 (1) The Education (Special Educational Needs) (Information) (Wales) Regulations 1999[^f00006] are amended as follows.
 
@@ -120,7 +120,7 @@ The Education (National Curriculum) (Exceptions) (Wales) Regulations 1995[^f0000
 
 .
 
-### 6. The Education (Special Educational Needs) (Wales) Regulations 2002[^key-a7886a59970415601937c53ada60b86e]
+### 6. The Education (Special Educational Needs) (Wales) Regulations 2002[^c-a7886a59970415601937c53ada60b86e]
 
 (1) The Education (Special Educational Needs) (Wales) Regulations 2002[^f00007] are amended as follows.
 
@@ -138,7 +138,7 @@ The Education (National Curriculum) (Exceptions) (Wales) Regulations 1995[^f0000
 
 .
 
-### 7. The Education Standards Grants (Wales) Regulations 2002[^key-49c41a40cb94c10d3b20d138e048f403]
+### 7. The Education Standards Grants (Wales) Regulations 2002[^c-49c41a40cb94c10d3b20d138e048f403]
 
 (1) The Education Standards Grants (Wales) Regulations 2002[^f00008] (“**the 2002 Regulations**”) are amended as follows.
 
@@ -238,11 +238,11 @@ The Education (National Curriculum) (Exceptions) (Wales) Regulations 1995[^f0000
 
 (6) In this regulation, “**maintained school**” has the same meaning as in regulation 2(1) of the 2002 Regulations[^f00009].
 
-### 8. The Single Education Plan (Wales) Regulations 2006[^key-be8d94765d704396fb01d01c812fe0f7]
+### 8. The Single Education Plan (Wales) Regulations 2006[^c-be8d94765d704396fb01d01c812fe0f7]
 
 The Single Education Plan (Wales) Regulations 2006[^f00010] are revoked.
 
-### 9. The Education (Pupil Referral Units) (Application of Enactments) (Wales) Regulations 2007[^key-0a838d949c521306ea6fd57578b6d064]
+### 9. The Education (Pupil Referral Units) (Application of Enactments) (Wales) Regulations 2007[^c-0a838d949c521306ea6fd57578b6d064]
 
 (1) The Education (Pupil Referral Units) (Application of Enactments) (Wales) Regulations 2007[^f00011] are amended as follows.
 
@@ -257,7 +257,7 @@ The Single Education Plan (Wales) Regulations 2006[^f00010] are revoked.
 
 (3) On 1 September 2026, paragraphs 1, 2 and 10 of Schedule 1 are revoked.
 
-### 10. The Education (Information About Individual Pupils) (Wales) Regulations 2007[^key-d2e4e9fee6ffa79a6a0c47d8988973f3]
+### 10. The Education (Information About Individual Pupils) (Wales) Regulations 2007[^c-d2e4e9fee6ffa79a6a0c47d8988973f3]
 
 (1) The Education (Information About Individual Pupils) (Wales) Regulations 2007[^f00012] (“**the 2007 Regulations**”) are amended as follows.
 
@@ -346,7 +346,7 @@ The Single Education Plan (Wales) Regulations 2006[^f00010] are revoked.
 
 (9) In this regulation “**maintained school**” means a “**school**” as defined in regulation 3 of the 2007 Regulations.
 
-### 11. The Education (Information About Children in Alternative Provision) (Wales) Regulations 2009[^key-b3846f0b368fbfa05ac823d1d6f9b2e5]
+### 11. The Education (Information About Children in Alternative Provision) (Wales) Regulations 2009[^c-b3846f0b368fbfa05ac823d1d6f9b2e5]
 
 (1) The Education (Information About Children in Alternative Provision) (Wales) Regulations 2009[^f00013] are amended as follows.
 
@@ -427,11 +427,11 @@ The Single Education Plan (Wales) Regulations 2006[^f00010] are revoked.
 
 .
 
-### 12. The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010[^key-03eac6ba563afd98d8c94c3969bce365]
+### 12. The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010[^c-03eac6ba563afd98d8c94c3969bce365]
 
 Paragraph 17 of Schedule 2 to the Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010[^f00016] is revoked.
 
-### 13. The Education (Pupil Registration) (Wales) Regulations 2010[^key-1840b84415de3f0ed065992bcc08859c]
+### 13. The Education (Pupil Registration) (Wales) Regulations 2010[^c-1840b84415de3f0ed065992bcc08859c]
 
 (1) The Education (Pupil Registration) (Wales) Regulations 2010[^f00017] are amended as follows.
 
@@ -463,7 +463,7 @@ Paragraph 17 of Schedule 2 to the Local Education Authorities and Children’s S
 
   .
 
-### 14. The Pupil Information (Wales) Regulations 2011[^key-bab96bf4fa7103a640d98ed86b977ccd]
+### 14. The Pupil Information (Wales) Regulations 2011[^c-bab96bf4fa7103a640d98ed86b977ccd]
 
 (1) The Pupil Information (Wales) Regulations 2011[^f00018] (“**the 2011 Regulations**”) are amended as follows.
 
@@ -485,7 +485,7 @@ Paragraph 17 of Schedule 2 to the Local Education Authorities and Children’s S
 
 (5) In this regulation, “**maintained school**” has the meaning in regulation 2(1) of the 2011 Regulations[^f00019].
 
-### 15. The School Performance Information (Wales) Regulations 2011[^key-6cdceca0c3969addabb7b762787e43d4]
+### 15. The School Performance Information (Wales) Regulations 2011[^c-6cdceca0c3969addabb7b762787e43d4]
 
 (1) The School Performance Information (Wales) Regulations 2011[^f00020] (“**the 2011 Regulations**”) apply as follows.
 
@@ -508,7 +508,7 @@ Paragraph 17 of Schedule 2 to the Local Education Authorities and Children’s S
 
 (4) In this regulation, “**maintained school**” has the meaning in regulation 2(1) of the 2011 Regulations[^f00021].
 
-### 16. The Education (Middle Schools) (Wales) Regulations 2012[^key-d70719f1c2b9c0d9c3611d654ee7ad35]
+### 16. The Education (Middle Schools) (Wales) Regulations 2012[^c-d70719f1c2b9c0d9c3611d654ee7ad35]
 
 (1) The Education (Middle Schools) (Wales) Regulations 2012[^f00022] apply as follows.
 
@@ -522,7 +522,7 @@ Paragraph 17 of Schedule 2 to the Local Education Authorities and Children’s S
 - (a) in regulation 3, the definitions of “2002 Act” and “fourth key stage”, and
 - (b) regulations 7 and 8.
 
-### 17. The Education (Penalty Notices) (Wales) Regulations 2013[^key-566fdbe4594914d01b029e1794e5e9f8]
+### 17. The Education (Penalty Notices) (Wales) Regulations 2013[^c-566fdbe4594914d01b029e1794e5e9f8]
 
 (1) The Education (Penalty Notices) (Wales) Regulations 2013[^f00023] are amended as follows.
 
@@ -538,11 +538,11 @@ Paragraph 17 of Schedule 2 to the Local Education Authorities and Children’s S
 
 (3) In regulation 2(1), in paragraph (a) of the definition of “alternative educational provision”, for “19” substitute “19A”.
 
-### 18. The National Curriculum (Amendments relating to Educational Programmes for the Foundation Phase and Programmes of Study for the Second and Third Key Stages) (Wales) Regulations 2013[^key-d9311336a07f3a3a49584791a0d7b172]
+### 18. The National Curriculum (Amendments relating to Educational Programmes for the Foundation Phase and Programmes of Study for the Second and Third Key Stages) (Wales) Regulations 2013[^c-d9311336a07f3a3a49584791a0d7b172]
 
 Omit regulation 5 of the National Curriculum (Amendments relating to Educational Programmes for the Foundation Phase and Programmes of Study for the Second and Third Key Stages) (Wales) Regulations 2013[^f00024].
 
-### 19. The National Curriculum (Miscellaneous Amendments) (Wales) Regulations 2016[^key-597274cefc8def16e26b5dc122b03738]
+### 19. The National Curriculum (Miscellaneous Amendments) (Wales) Regulations 2016[^c-597274cefc8def16e26b5dc122b03738]
 
 (1) The National Curriculum (Miscellaneous Amendments) (Wales) Regulations 2016[^f00025] are amended as follows.
 
@@ -553,11 +553,11 @@ Omit regulation 5 of the National Curriculum (Amendments relating to Educational
 
 (3) On 1 September 2026 omit regulation 2(a)(i).
 
-### 20. The Curriculum and Assessment (Wales) Act 2021 (Transitional and Saving Provision) Regulations 2022[^key-dc83790146f592c98bc83ca784c81b0c]
+### 20. The Curriculum and Assessment (Wales) Act 2021 (Transitional and Saving Provision) Regulations 2022[^c-dc83790146f592c98bc83ca784c81b0c]
 
 In regulation 2(1) of the Curriculum and Assessment (Wales) Act 2021 (Transitional and Saving Provision) Regulations 2022[^f00026], in the definition of “child” for “1996 Act” substitute “Education Act 1996”.
 
-### 21. The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 2) Regulations 2022[^key-f9fefb5f441e8aa171c9181aac6f893a]
+### 21. The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 2) Regulations 2022[^c-f9fefb5f441e8aa171c9181aac6f893a]
 
 (1) The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 2) Regulations 2022[^f00027] are amended as follows.
 
@@ -607,49 +607,49 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00001]: Footnote: [2021 asc 4](https://www.legislation.gov.uk/asc/2021/4). See section 82(1) for the definition of “regulations”.
 
-[^key-ea26ea2c38a724716b5805db518f7116]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2022/758/regulation/1) in force at 1.9.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2)
+[^c-ea26ea2c38a724716b5805db518f7116]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2022/758/regulation/1) in force at 1.9.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2)
 
-[^key-956eda7d3c36660685408397bed9a4c0]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2022/758/regulation/2) in force at 1.9.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2)
+[^c-956eda7d3c36660685408397bed9a4c0]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2022/758/regulation/2) in force at 1.9.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2)
 
 [^f00002]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56).
 
 [^f00003]: Footnote: Subsection (1) was amended by section 51(1) of, and paragraph 9 of Schedule 7 to, the Education Act [1997 (c. 44)](https://www.legislation.gov.uk/ukpga/1997/44) and subsections (1) and (1A) were further amended by section 215(1) of, and paragraph 34 of Schedule 21 to, the Education Act [2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32).
 
-[^key-41615fd35ed4bff6508ef5db6fc1bd7d]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2022/758/regulation/3) in force at 1.9.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2)
+[^c-41615fd35ed4bff6508ef5db6fc1bd7d]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2022/758/regulation/3) in force at 1.9.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2)
 
 [^f00004]: Footnote: [S.I. 1989/954](https://www.legislation.gov.uk/uksi/1989/954). There are amendments not relevant to these Regulations.
 
-[^key-2f95a604c8b1a66dddcf7aa2cb18f064]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2022/758/regulation/4) in force at 1.9.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2)
+[^c-2f95a604c8b1a66dddcf7aa2cb18f064]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2022/758/regulation/4) in force at 1.9.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2)
 
 [^f00005]: Footnote: [S.I. 1995/1574](https://www.legislation.gov.uk/uksi/1995/1574). Following the consolidation of the Education Reform Act 1988, these Regulations had effect as if made under sections 363 and 569(4) of the 1996 Act. Following the repeal of section 363, they now have effect as if made under sections 112, 117 and 210 of the Education Act 2002.
 
-[^key-33fc347fe1bf636e63edd2254ca1a4e5]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2022/758/regulation/5) in force at 1.9.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2)
+[^c-33fc347fe1bf636e63edd2254ca1a4e5]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2022/758/regulation/5) in force at 1.9.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2)
 
 [^f00006]: Footnote: [S.I. 1999/1442](https://www.legislation.gov.uk/uksi/1999/1442). There are amendments not relevant to these Regulations.
 
-[^key-a7886a59970415601937c53ada60b86e]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2022/758/regulation/6) in force at 1.9.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2)
+[^c-a7886a59970415601937c53ada60b86e]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2022/758/regulation/6) in force at 1.9.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2)
 
 [^f00007]: Footnote: [S.I. 2002/152 (W. 20)](https://www.legislation.gov.uk/wsi/2002/152) as amended by [S.I. 2010/1142 (W. 101)](https://www.legislation.gov.uk/wsi/2010/1142). There are amendments not relevant to these Regulations.
 
-[^key-49c41a40cb94c10d3b20d138e048f403]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2022/758/regulation/7) in force at 1.9.2022 but specified amendments come into force in accordance with reg. 7(4), see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/3)
+[^c-49c41a40cb94c10d3b20d138e048f403]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2022/758/regulation/7) in force at 1.9.2022 but specified amendments come into force in accordance with reg. 7(4), see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/3)
 
 [^f00008]: Footnote: [S.I. 2002/438 (W. 56)](https://www.legislation.gov.uk/wsi/2002/438) as amended by [S.I. 2010/1142 (W. 101)](https://www.legislation.gov.uk/wsi/2010/1142). There are other amendments not relevant to these Regulations.
 
 [^f00009]: Footnote: Maintained school means a school maintained by an education authority.
 
-[^key-be8d94765d704396fb01d01c812fe0f7]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2022/758/regulation/8) in force at 1.9.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2)
+[^c-be8d94765d704396fb01d01c812fe0f7]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2022/758/regulation/8) in force at 1.9.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2)
 
 [^f00010]: Footnote: [S.I. 2006/877 (W. 82)](https://www.legislation.gov.uk/wsi/2006/877).
 
-[^key-0a838d949c521306ea6fd57578b6d064]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2022/758/regulation/9) in force at 1.9.2022 but the amendments come into force in accordance with reg. 9(2)(3), see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/3)
+[^c-0a838d949c521306ea6fd57578b6d064]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2022/758/regulation/9) in force at 1.9.2022 but the amendments come into force in accordance with reg. 9(2)(3), see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/3)
 
 [^f00011]: Footnote: [S.I. 2007/1069 (W. 109)](https://www.legislation.gov.uk/wsi/2007/1069). There are amendments not relevant to these Regulations.
 
-[^key-d2e4e9fee6ffa79a6a0c47d8988973f3]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2022/758/regulation/10) in force at 1.9.2022 but specified amendments come into force in accordance with reg. 10(3)(5)(7)(8), see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/3)
+[^c-d2e4e9fee6ffa79a6a0c47d8988973f3]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2022/758/regulation/10) in force at 1.9.2022 but specified amendments come into force in accordance with reg. 10(3)(5)(7)(8), see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/3)
 
 [^f00012]: Footnote: [S.I. 2007/3562 (W. 312)](https://www.legislation.gov.uk/wsi/2007/3562) as amended by [S.I. 2016/837 (W. 211)](https://www.legislation.gov.uk/wsi/2016/837). There are other amendments not relevant to these Regulations.
 
-[^key-b3846f0b368fbfa05ac823d1d6f9b2e5]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2022/758/regulation/11) in force at 1.9.2022 but specified amendments come into force in accordance with reg. 11(4), see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/3)
+[^c-b3846f0b368fbfa05ac823d1d6f9b2e5]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2022/758/regulation/11) in force at 1.9.2022 but specified amendments come into force in accordance with reg. 11(4), see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/3)
 
 [^f00013]: Footnote: [S.I. 2009/3355 (W. 294)](https://www.legislation.gov.uk/wsi/2009/3355) as amended by [S.I. 2010/1142 (W. 101)](https://www.legislation.gov.uk/wsi/2010/1142) and [S.I. 2010/2431 (W. 209)](https://www.legislation.gov.uk/wsi/2010/2431). There are other amendments which are not relevant to these Regulations.
 
@@ -657,46 +657,46 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00015]: Footnote: [S.I. 2010/1954 (W. 187)](https://www.legislation.gov.uk/wsi/2010/1954).
 
-[^key-03eac6ba563afd98d8c94c3969bce365]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2022/758/regulation/12) in force at 1.9.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2)
+[^c-03eac6ba563afd98d8c94c3969bce365]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2022/758/regulation/12) in force at 1.9.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2)
 
 [^f00016]: Footnote: [S.I. 2010/1142 (W. 101)](https://www.legislation.gov.uk/wsi/2010/1142).
 
-[^key-1840b84415de3f0ed065992bcc08859c]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2022/758/regulation/13) in force at 1.9.2022 but specified amendments come into force in accordance with reg. 13(3), see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/3)
+[^c-1840b84415de3f0ed065992bcc08859c]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2022/758/regulation/13) in force at 1.9.2022 but specified amendments come into force in accordance with reg. 13(3), see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/3)
 
 [^f00017]: Footnote: [S.I. 2010/1954 (W. 187)](https://www.legislation.gov.uk/wsi/2010/1954).
 
-[^key-bab96bf4fa7103a640d98ed86b977ccd]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2022/758/regulation/14) in force at 1.9.2022 but specified amendments come into force in accordance with reg. 14(3), see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/3)
+[^c-bab96bf4fa7103a640d98ed86b977ccd]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2022/758/regulation/14) in force at 1.9.2022 but specified amendments come into force in accordance with reg. 14(3), see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/3)
 
 [^f00018]: Footnote: [S.I. 2011/1942 (W. 209)](https://www.legislation.gov.uk/wsi/2011/1942). There are amendments not relevant to these Regulations.
 
 [^f00019]: Footnote: “**maintained school**” means a community, foundation or voluntary school or a community or foundation special school (other than one established in a hospital) and, unless the context otherwise requires, a nursery school maintained by a local authority or pupil referral unit.
 
-[^key-6cdceca0c3969addabb7b762787e43d4]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2022/758/regulation/15) in force at 1.9.2022 but the amendments come into force in accordance with reg. 15(2)(3), see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/3)
+[^c-6cdceca0c3969addabb7b762787e43d4]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2022/758/regulation/15) in force at 1.9.2022 but the amendments come into force in accordance with reg. 15(2)(3), see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/3)
 
 [^f00020]: Footnote: [S.I. 2011/1963 (W. 217)](https://www.legislation.gov.uk/wsi/2011/1963) as amended by [S.I. 2013/437 (W. 53)](https://www.legislation.gov.uk/wsi/2013/437), [S.I. 2016/837 (W. 211)](https://www.legislation.gov.uk/wsi/2016/837) and [S.I. 2022/17 (W. 9)](https://www.legislation.gov.uk/wsi/2022/17). There are other amendments not relevant to these Regulations.
 
 [^f00021]: Footnote: “**maintained school**” means (i) any community, foundation or voluntary school, or (ii) any community or foundation special school which is not established in a hospital; but excludes any nursery school.
 
-[^key-d70719f1c2b9c0d9c3611d654ee7ad35]: Commencement: [Reg. 16](https://www.legislation.gov.uk/wsi/2022/758/regulation/16) in force at 1.9.2022 but the amendments come into force in accordance with reg. 16(2)(3), see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/3)
+[^c-d70719f1c2b9c0d9c3611d654ee7ad35]: Commencement: [Reg. 16](https://www.legislation.gov.uk/wsi/2022/758/regulation/16) in force at 1.9.2022 but the amendments come into force in accordance with reg. 16(2)(3), see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/3)
 
 [^f00022]: Footnote: [S.I. 2012/1797 (W. 227)](https://www.legislation.gov.uk/wsi/2012/1797).
 
-[^key-566fdbe4594914d01b029e1794e5e9f8]: Commencement: [Reg. 17](https://www.legislation.gov.uk/wsi/2022/758/regulation/17) in force at 1.9.2022 but the amendments come into force in accordance with reg. 17(2), see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/3)
+[^c-566fdbe4594914d01b029e1794e5e9f8]: Commencement: [Reg. 17](https://www.legislation.gov.uk/wsi/2022/758/regulation/17) in force at 1.9.2022 but the amendments come into force in accordance with reg. 17(2), see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/3)
 
 [^f00023]: Footnote: [S.I. 2013/1983 (W. 193)](https://www.legislation.gov.uk/wsi/2013/1983).
 
-[^key-d9311336a07f3a3a49584791a0d7b172]: Commencement: [Reg. 18](https://www.legislation.gov.uk/wsi/2022/758/regulation/18) in force at 1.9.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2)
+[^c-d9311336a07f3a3a49584791a0d7b172]: Commencement: [Reg. 18](https://www.legislation.gov.uk/wsi/2022/758/regulation/18) in force at 1.9.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2)
 
 [^f00024]: Footnote: [S.I. 2013/437 (W. 53)](https://www.legislation.gov.uk/wsi/2013/437).
 
-[^key-597274cefc8def16e26b5dc122b03738]: Commencement: [Reg. 19](https://www.legislation.gov.uk/wsi/2022/758/regulation/19) in force at 1.9.2022 but the amendments come into force in accordance with reg. 19(2)(3), see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/3)
+[^c-597274cefc8def16e26b5dc122b03738]: Commencement: [Reg. 19](https://www.legislation.gov.uk/wsi/2022/758/regulation/19) in force at 1.9.2022 but the amendments come into force in accordance with reg. 19(2)(3), see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/3)
 
 [^f00025]: Footnote: [S.I. 2016/837 (W. 211)](https://www.legislation.gov.uk/wsi/2016/837).
 
-[^key-dc83790146f592c98bc83ca784c81b0c]: Commencement: [Reg. 20](https://www.legislation.gov.uk/wsi/2022/758/regulation/20) in force at 1.9.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2)
+[^c-dc83790146f592c98bc83ca784c81b0c]: Commencement: [Reg. 20](https://www.legislation.gov.uk/wsi/2022/758/regulation/20) in force at 1.9.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2)
 
 [^f00026]: Footnote: [S.I. 2022/111 (W. 39)](https://www.legislation.gov.uk/wsi/2022/111).
 
-[^key-f9fefb5f441e8aa171c9181aac6f893a]: Commencement: [Reg. 21](https://www.legislation.gov.uk/wsi/2022/758/regulation/21) in force at 1.9.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2)
+[^c-f9fefb5f441e8aa171c9181aac6f893a]: Commencement: [Reg. 21](https://www.legislation.gov.uk/wsi/2022/758/regulation/21) in force at 1.9.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2)
 
 [^f00027]: Footnote: [S.I. 2022/679 (W. 155)](https://www.legislation.gov.uk/wsi/2022/679).

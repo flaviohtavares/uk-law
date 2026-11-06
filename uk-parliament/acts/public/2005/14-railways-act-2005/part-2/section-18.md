@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 18. Qualification of duty in respect of services funded by others[^key-218ef36e48a17a353fa334e27dd1d6ac]
+## 18. Qualification of duty in respect of services funded by others[^c-218ef36e48a17a353fa334e27dd1d6ac]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-218ef36e48a17a353fa334e27dd1d6ac]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2005/14/section/18) in force at 24.7.2005 by [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
+[^c-218ef36e48a17a353fa334e27dd1d6ac]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2005/14/section/18) in force at 24.7.2005 by [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)

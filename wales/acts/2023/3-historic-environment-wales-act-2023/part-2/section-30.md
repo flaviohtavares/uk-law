@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Offence of carrying out unauthorised works or breaching condition of consent[^key-af83329f92f0efbf36ab0bfd7c8e7b25][^key-6e49ef8a0e6b87c2545b08808b3edf8b]
+## 30. Offence of carrying out unauthorised works or breaching condition of consent[^c-af83329f92f0efbf36ab0bfd7c8e7b25][^c-6e49ef8a0e6b87c2545b08808b3edf8b]
 
 *Extent: E+W*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-af83329f92f0efbf36ab0bfd7c8e7b25]: Commencement: S. 30 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-af83329f92f0efbf36ab0bfd7c8e7b25]: Commencement: S. 30 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-6e49ef8a0e6b87c2545b08808b3edf8b]: Commencement: [S. 30](https://www.legislation.gov.uk/asc/2023/3/section/30) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)
+[^c-6e49ef8a0e6b87c2545b08808b3edf8b]: Commencement: [S. 30](https://www.legislation.gov.uk/asc/2023/3/section/30) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)

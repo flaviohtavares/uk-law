@@ -39,8 +39,8 @@ Section 37
 **3.** (1) In this Schedule—
 
 - “**CAA 2001**” means the Capital Allowances Act 2001 (c. 2);
-- “[^key-563584f8c8baaa1fbc0532e903674bd4] **CTA 2009** ” means the Corporation Tax Act 2009;
-- “[^key-c5c219410a567b2f6ac6ef2c292fb6ff] **CTA 2010** ” means the Corporation Tax Act 2010;
+- “[^c-563584f8c8baaa1fbc0532e903674bd4] **CTA 2009** ” means the Corporation Tax Act 2009;
+- “[^c-c5c219410a567b2f6ac6ef2c292fb6ff] **CTA 2010** ” means the Corporation Tax Act 2010;
 - “FA”, followed by a year, means the Finance Act of that year;
 - “**ICTA**” means the Income and Corporation Taxes Act 1988 (c. 1);
 - “**ITA 2007**” means the Income Tax Act 2007 (c. 3);
@@ -81,7 +81,7 @@ Section 37
 
 (4) This paragraph is subject to the other provisions of this Part of this Schedule.
 
-(5) In this paragraph “**relevant trading profits or losses**” means profits or losses under Part 3 of CTA 2009 in respect of the trade or part of a trade in question for periods in which the trade was carried on wholly or partly in the United Kingdom.[^key-f223703d4602db57718827ed9ed030d2]
+(5) In this paragraph “**relevant trading profits or losses**” means profits or losses under Part 3 of CTA 2009 in respect of the trade or part of a trade in question for periods in which the trade was carried on wholly or partly in the United Kingdom.[^c-f223703d4602db57718827ed9ed030d2]
 
 #### Transfers of trading stock
 
@@ -103,7 +103,7 @@ Section 37
 
 (4) The stock must be valued as if the disposal and acquisition had been for a consideration which in relation to the transferor would have resulted in neither a profit nor a loss being brought into account in respect of the disposal in the accounting period of the transferor which ends with, or is current at, the time when the transfer takes effect.
 
-(5) In this paragraph “**trading stock**” has the meaning given by section 163 of CTA 2009[^key-f14a86739cc7172a1b7360797835ba73].
+(5) In this paragraph “**trading stock**” has the meaning given by section 163 of CTA 2009[^c-f14a86739cc7172a1b7360797835ba73].
 
 #### Capital allowances: transfer of whole trade
 
@@ -207,24 +207,24 @@ is to be taken (in relation to the person to whom the disposal is made as well a
 
 #### Continuity in relation to transfer of intangible assets
 
-**13.** (1) For the purposes of Part 8 of CTA 2009[^key-cb1425fa32e1e4304976193c74102f37]—
+**13.** (1) For the purposes of Part 8 of CTA 2009[^c-cb1425fa32e1e4304976193c74102f37]—
 
 - (a) a relevant transfer of a chargeable intangible asset of the transferor is to be treated as a tax-neutral transfer, and
 - (b) an intangible fixed asset which is an existing asset of the transferor at the time of a relevant transfer is to be treated, on and after the transfer, as an existing asset in the hands of the transferee.
 
-(2) Expressions used in this paragraph and in that Part[^key-50aed92a456a700f588c71cd3f7fc499] have the same meanings in this paragraph as in that Part.
+(2) Expressions used in this paragraph and in that Part[^c-50aed92a456a700f588c71cd3f7fc499] have the same meanings in this paragraph as in that Part.
 
 #### Continuity in relation to loan relationships
 
-**14.** (1) For the purposes of the application of Part 5 of CTA 2009[^key-434d4ab954fb82f99b28512e1d0ae384] (loan relationships) in relation to a relevant transfer, the transferee and the transferor are to be treated as if, at the time of the transfer, they were members of the same group.
+**14.** (1) For the purposes of the application of Part 5 of CTA 2009[^c-434d4ab954fb82f99b28512e1d0ae384] (loan relationships) in relation to a relevant transfer, the transferee and the transferor are to be treated as if, at the time of the transfer, they were members of the same group.
 
-(2) In sub-paragraph (1) the reference to being members of the same group must be construed in accordance with section 335(6) of[^key-4d6f3c15c698f977d904e664d95a0e1d] that Act.
+(2) In sub-paragraph (1) the reference to being members of the same group must be construed in accordance with section 335(6) of[^c-4d6f3c15c698f977d904e664d95a0e1d] that Act.
 
 #### Continuity in relation to derivative contracts
 
-**15.** (1) For the purposes of the application of Part 7 of CTA 2009[^key-1daab7b9e3ce73be70086c7e293c1867] (derivative contracts) in relation to a relevant transfer, the transferee and the transferor are to be treated as if, at the time of the transfer, they were members of the same group.
+**15.** (1) For the purposes of the application of Part 7 of CTA 2009[^c-1daab7b9e3ce73be70086c7e293c1867] (derivative contracts) in relation to a relevant transfer, the transferee and the transferor are to be treated as if, at the time of the transfer, they were members of the same group.
 
-(2) In sub-paragraph (1) the reference to being members of the same group must be construed in accordance with section 624(3) of that Act[^key-b1e2ce155faf8a1d8721c423d55bc690].
+(2) In sub-paragraph (1) the reference to being members of the same group must be construed in accordance with section 624(3) of that Act[^c-b1e2ce155faf8a1d8721c423d55bc690].
 
 #### Leased assets
 
@@ -263,9 +263,9 @@ is to be taken (in relation to the person to whom the disposal is made as well a
 
 (5) For the purposes of this paragraph consideration given to a person connected with the transferor is to be treated as given to the transferor.
 
-(6) In this paragraph “**trading stock**” has the meaning given by section 163 of CTA 2009[^key-1f3c38316174f567eb85bcb293ae827f].
+(6) In this paragraph “**trading stock**” has the meaning given by section 163 of CTA 2009[^c-1f3c38316174f567eb85bcb293ae827f].
 
-(7) For the purposes of this paragraph whether a person is connected with another person is determined in accordance with section 1122 of CTA 2010[^key-04327d2472bc52bc90878d9a7cedb220] (connected persons).
+(7) For the purposes of this paragraph whether a person is connected with another person is determined in accordance with section 1122 of CTA 2010[^c-04327d2472bc52bc90878d9a7cedb220] (connected persons).
 
 #### Capital allowances: determination of disposal value of plant or machinery
 
@@ -333,16 +333,16 @@ is to be taken to be for a consideration such that no gain or loss accrues to th
 
 #### Neutral effect of transfer of intangible assets
 
-**23.** (1) For the purposes of Part 8 of CTA 2009[^key-42c6080cf4536a1bc5c729b2c06c8875], a relevant transfer of a chargeable intangible asset of the transferor is to be treated as not involving any realisation of the asset by the transferor.
+**23.** (1) For the purposes of Part 8 of CTA 2009[^c-42c6080cf4536a1bc5c729b2c06c8875], a relevant transfer of a chargeable intangible asset of the transferor is to be treated as not involving any realisation of the asset by the transferor.
 
-(2) Expressions used in this paragraph and in that Part[^key-c67f542e58c9b7312df29b40ececbe37] have the same meanings in this paragraph as in that Part.
+(2) Expressions used in this paragraph and in that Part[^c-c67f542e58c9b7312df29b40ececbe37] have the same meanings in this paragraph as in that Part.
 
 #### Neutral effect of transfer for loan relationships and derivative contracts
 
 **24.** No credit or debit shall be required or allowed, in respect of a relevant transfer, to be brought into account in the transferor's case—
 
-- (a) for the purposes of Part 5 of CTA 2009[^key-1613cebfbf183ede20638f9d19570bdb] (loan relationships), or
-- (b) for the purposes of Part 7 of that Act[^key-ccf3828d5fe0e2953ae74f669eeeba12] (derivative contracts).
+- (a) for the purposes of Part 5 of CTA 2009[^c-1613cebfbf183ede20638f9d19570bdb] (loan relationships), or
+- (b) for the purposes of Part 7 of that Act[^c-ccf3828d5fe0e2953ae74f669eeeba12] (derivative contracts).
 
 #### Leased assets
 
@@ -414,7 +414,7 @@ is to be taken to be for a consideration such that no gain or loss accrues to th
 
 **30.** (1) This paragraph applies to a relevant transfer of all the issued share capital of a company (the “transferred company”).
 
-(2) For the purposes of Chapters 2 to 5 of Part 14 of CTA 2010[^key-9dcbde041b0eaa42895a2d4a4b82dd97], the transfer is not to be taken to result in a change in the ownership of—
+(2) For the purposes of Chapters 2 to 5 of Part 14 of CTA 2010[^c-9dcbde041b0eaa42895a2d4a4b82dd97], the transfer is not to be taken to result in a change in the ownership of—
 
 - (a) the transferred company, or
 - (b) a company which is a wholly-owned subsidiary of the transferred company when the transfer takes effect.
@@ -489,9 +489,9 @@ it is to be regarded for those purposes as so doing by virtue of the relevant tr
 
 (5) For the purposes of this paragraph consideration given to a person connected with the transferor is to be treated as given to the transferor.
 
-(6) In this paragraph “**trading stock**” has the meaning given by section 174 of[^key-f7267be75c5b246c1f7a754b6a33f21e] ITTOIA 2005 (as respects income tax) or section 163 of CTA 2009 (as respects corporation tax).
+(6) In this paragraph “**trading stock**” has the meaning given by section 174 of[^c-f7267be75c5b246c1f7a754b6a33f21e] ITTOIA 2005 (as respects income tax) or section 163 of CTA 2009 (as respects corporation tax).
 
-(7) For the purposes of this paragraph whether a person is connected with another person is determined in accordance with section 1122 of CTA 2010[^key-485e0c695ef377dd3d78a272311bd967] (as respects corporation tax) or section 993 of ITA 2007 (as respects income tax).
+(7) For the purposes of this paragraph whether a person is connected with another person is determined in accordance with section 1122 of CTA 2010[^c-485e0c695ef377dd3d78a272311bd967] (as respects corporation tax) or section 993 of ITA 2007 (as respects income tax).
 
 #### Capital allowances: determination of disposal value of plant or machinery
 
@@ -570,9 +570,9 @@ but this sub-paragraph does not apply if the person making the disposal is conne
 
 #### Loan relationships
 
-**40.** (1) Section 444 of CTA 2009[^key-50cbe8946c04474a4bf49410fa967e39] (transactions not at arm's length) is not to have effect where, as a result of a relevant transfer, the transferee replaces the transferor as a party to a loan relationship.
+**40.** (1) Section 444 of CTA 2009[^c-50cbe8946c04474a4bf49410fa967e39] (transactions not at arm's length) is not to have effect where, as a result of a relevant transfer, the transferee replaces the transferor as a party to a loan relationship.
 
-(2) Expressions used in this paragraph and in Part 5 of CTA 2009[^key-a8bb65e126d619b8725fbee79c0a50e2] have the same meanings in this paragraph as in that Part.
+(2) Expressions used in this paragraph and in Part 5 of CTA 2009[^c-a8bb65e126d619b8725fbee79c0a50e2] have the same meanings in this paragraph as in that Part.
 
 ### Part 7 — Other provisions concerning transfers
 
@@ -584,8 +584,8 @@ but this sub-paragraph does not apply if the person making the disposal is conne
 
 **42.** The power of the Secretary of State to make a transfer scheme is not to be regarded as constituting—
 
-- (a) arrangements falling within section 154(3) or 155(3) of CTA 2010[^key-bb44c2c9979034fb4c43d3b2b79742bd] (arrangements for transfer of company to another group or consortium), or
-- (b) option arrangements for the purposes of section 173 of CTA 2010[^key-50ef5df5ddb41f1acf30bccbd41806f1].
+- (a) arrangements falling within section 154(3) or 155(3) of CTA 2010[^c-bb44c2c9979034fb4c43d3b2b79742bd] (arrangements for transfer of company to another group or consortium), or
+- (b) option arrangements for the purposes of section 173 of CTA 2010[^c-50ef5df5ddb41f1acf30bccbd41806f1].
 
 #### Modification of transfer schemes and determinations under paragraph 9(1)(d) or 27(1)(c): companies
 
@@ -684,48 +684,48 @@ but this sub-paragraph does not apply if the person making the disposal is conne
 
 ## Annotations
 
-[^key-563584f8c8baaa1fbc0532e903674bd4]: Textual amendment: Definition in Sch. 13 para. 3(1) inserted (with effect in accordance with s. 1329(1) of the commencing Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 739(2)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/739/2) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-563584f8c8baaa1fbc0532e903674bd4]: Textual amendment: Definition in Sch. 13 para. 3(1) inserted (with effect in accordance with s. 1329(1) of the commencing Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 739(2)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/739/2) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-c5c219410a567b2f6ac6ef2c292fb6ff]: Textual amendment: Definition in Sch. 13 para. 3(1) inserted (with effect in accordance with s. 1184(1) of the commencing Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 584(2)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/584/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-c5c219410a567b2f6ac6ef2c292fb6ff]: Textual amendment: Definition in Sch. 13 para. 3(1) inserted (with effect in accordance with s. 1184(1) of the commencing Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 584(2)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/584/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-f223703d4602db57718827ed9ed030d2]: Textual amendment: Words in [Sch. 13 para. 5(5)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/13/paragraph/5/5) substituted (with effect in accordance with s. 1329(1) of the commencing Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 739(3)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/739/3) (with [Sch. 2 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-f223703d4602db57718827ed9ed030d2]: Textual amendment: Words in [Sch. 13 para. 5(5)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/13/paragraph/5/5) substituted (with effect in accordance with s. 1329(1) of the commencing Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 739(3)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/739/3) (with [Sch. 2 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-f14a86739cc7172a1b7360797835ba73]: Textual amendment: Words in [Sch. 13 para. 6(5)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/13/paragraph/6/5) substituted (with effect in accordance with s. 1329(1) of the commencing Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 739(4)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/739/4) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-f14a86739cc7172a1b7360797835ba73]: Textual amendment: Words in [Sch. 13 para. 6(5)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/13/paragraph/6/5) substituted (with effect in accordance with s. 1329(1) of the commencing Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 739(4)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/739/4) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-cb1425fa32e1e4304976193c74102f37]: Textual amendment: Words in Sch. 13 para. 13(1) substituted (with effect in accordance with s. 1329(1) of the commencing Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 739(5)(a)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/739/5/a) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-cb1425fa32e1e4304976193c74102f37]: Textual amendment: Words in Sch. 13 para. 13(1) substituted (with effect in accordance with s. 1329(1) of the commencing Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 739(5)(a)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/739/5/a) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-50aed92a456a700f588c71cd3f7fc499]: Textual amendment: Word in Sch. 13 para. 13(2) substituted (with effect in accordance with s. 1329(1) of the commencing Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 739(5)(b)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/739/5/b) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-50aed92a456a700f588c71cd3f7fc499]: Textual amendment: Word in Sch. 13 para. 13(2) substituted (with effect in accordance with s. 1329(1) of the commencing Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 739(5)(b)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/739/5/b) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-434d4ab954fb82f99b28512e1d0ae384]: Textual amendment: Words in Sch. 13 para. 14(1) substituted (with effect in accordance with s. 1329(1) of the commencing Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 739(6)(a)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/739/6/a) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-434d4ab954fb82f99b28512e1d0ae384]: Textual amendment: Words in Sch. 13 para. 14(1) substituted (with effect in accordance with s. 1329(1) of the commencing Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 739(6)(a)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/739/6/a) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-4d6f3c15c698f977d904e664d95a0e1d]: Textual amendment: Words in Sch. 13 para. 14(2) substituted (with effect in accordance with s. 1329(1) of the commencing Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 739(6)(b)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/739/6/b) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-4d6f3c15c698f977d904e664d95a0e1d]: Textual amendment: Words in Sch. 13 para. 14(2) substituted (with effect in accordance with s. 1329(1) of the commencing Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 739(6)(b)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/739/6/b) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-1daab7b9e3ce73be70086c7e293c1867]: Textual amendment: Words in Sch. 13 para. 15(1) substituted (with effect in accordance with s. 1329(1) of the commencing Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 739(7)(a)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/739/7/a) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-1daab7b9e3ce73be70086c7e293c1867]: Textual amendment: Words in Sch. 13 para. 15(1) substituted (with effect in accordance with s. 1329(1) of the commencing Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 739(7)(a)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/739/7/a) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-b1e2ce155faf8a1d8721c423d55bc690]: Textual amendment: Words in Sch. 13 para. 15(2) substituted (with effect in accordance with s. 1329(1) of the commencing Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 739(7)(b)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/739/7/b) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-b1e2ce155faf8a1d8721c423d55bc690]: Textual amendment: Words in Sch. 13 para. 15(2) substituted (with effect in accordance with s. 1329(1) of the commencing Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 739(7)(b)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/739/7/b) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-1f3c38316174f567eb85bcb293ae827f]: Textual amendment: Words in Sch. 13 para. 18(6) substituted (with effect in accordance with s. 1329(1) of the commencing Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 739(8)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/739/8) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-1f3c38316174f567eb85bcb293ae827f]: Textual amendment: Words in Sch. 13 para. 18(6) substituted (with effect in accordance with s. 1329(1) of the commencing Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 739(8)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/739/8) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-04327d2472bc52bc90878d9a7cedb220]: Textual amendment: Words in [Sch. 13 para. 18(7)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/13/paragraph/18/7) substituted (with effect in accordance with s. 1184(1) of the commencing Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 584(3)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/584/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-04327d2472bc52bc90878d9a7cedb220]: Textual amendment: Words in [Sch. 13 para. 18(7)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/13/paragraph/18/7) substituted (with effect in accordance with s. 1184(1) of the commencing Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 584(3)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/584/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-42c6080cf4536a1bc5c729b2c06c8875]: Textual amendment: Words in [Sch. 13 para. 23(1)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/13/paragraph/23/1) substituted (with effect in accordance with s. 1329(1) of the commencing Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 739(9)(a)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/739/9/a) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-42c6080cf4536a1bc5c729b2c06c8875]: Textual amendment: Words in [Sch. 13 para. 23(1)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/13/paragraph/23/1) substituted (with effect in accordance with s. 1329(1) of the commencing Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 739(9)(a)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/739/9/a) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-c67f542e58c9b7312df29b40ececbe37]: Textual amendment: Word in [Sch. 13 para. 23(2)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/13/paragraph/23/2) substituted (with effect in accordance with s. 1329(1) of the commencing Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 739(9)(b)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/739/9/b) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-c67f542e58c9b7312df29b40ececbe37]: Textual amendment: Word in [Sch. 13 para. 23(2)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/13/paragraph/23/2) substituted (with effect in accordance with s. 1329(1) of the commencing Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 739(9)(b)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/739/9/b) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-1613cebfbf183ede20638f9d19570bdb]: Textual amendment: Words in [Sch. 13 para. 24(a)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/13/paragraph/24/a) substituted (with effect in accordance with s. 1329(1) of the commencing Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 739(10)(a)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/739/10/a) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-1613cebfbf183ede20638f9d19570bdb]: Textual amendment: Words in [Sch. 13 para. 24(a)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/13/paragraph/24/a) substituted (with effect in accordance with s. 1329(1) of the commencing Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 739(10)(a)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/739/10/a) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-ccf3828d5fe0e2953ae74f669eeeba12]: Textual amendment: Words in [Sch. 13 para. 24(b)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/13/paragraph/24/b) substituted (with effect in accordance with s. 1329(1) of the commencing Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 739(10)(b)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/739/10/b) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-ccf3828d5fe0e2953ae74f669eeeba12]: Textual amendment: Words in [Sch. 13 para. 24(b)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/13/paragraph/24/b) substituted (with effect in accordance with s. 1329(1) of the commencing Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 739(10)(b)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/739/10/b) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-9dcbde041b0eaa42895a2d4a4b82dd97]: Textual amendment: Words in [Sch. 13 para. 30(2)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/13/paragraph/30/2) substituted (with effect in accordance with s. 1184(1) of the commencing Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 584(4)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/584/4) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-9dcbde041b0eaa42895a2d4a4b82dd97]: Textual amendment: Words in [Sch. 13 para. 30(2)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/13/paragraph/30/2) substituted (with effect in accordance with s. 1184(1) of the commencing Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 584(4)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/584/4) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-f7267be75c5b246c1f7a754b6a33f21e]: Textual amendment: Words in Sch. 13 para. 34(6) substituted (with effect in accordance with s. 1329(1) of the commencing Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 739(11)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/739/11) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-f7267be75c5b246c1f7a754b6a33f21e]: Textual amendment: Words in Sch. 13 para. 34(6) substituted (with effect in accordance with s. 1329(1) of the commencing Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 739(11)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/739/11) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-485e0c695ef377dd3d78a272311bd967]: Textual amendment: Words in [Sch. 13 para. 34(7)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/13/paragraph/34/7) substituted (with effect in accordance with s. 1184(1) of the commencing Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 584(5)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/584/5) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-485e0c695ef377dd3d78a272311bd967]: Textual amendment: Words in [Sch. 13 para. 34(7)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/13/paragraph/34/7) substituted (with effect in accordance with s. 1184(1) of the commencing Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 584(5)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/584/5) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-50cbe8946c04474a4bf49410fa967e39]: Textual amendment: Words in [Sch. 13 para. 40(1)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/13/paragraph/40/1) substituted (with effect in accordance with s. 1329(1) of the commencing Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 739(12)(a)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/739/12/a) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-50cbe8946c04474a4bf49410fa967e39]: Textual amendment: Words in [Sch. 13 para. 40(1)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/13/paragraph/40/1) substituted (with effect in accordance with s. 1329(1) of the commencing Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 739(12)(a)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/739/12/a) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-a8bb65e126d619b8725fbee79c0a50e2]: Textual amendment: Words in [Sch. 13 para. 40(2)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/13/paragraph/40/2) substituted (with effect in accordance with s. 1329(1) of the commencing Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 739(12)(b)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/739/12/b) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-a8bb65e126d619b8725fbee79c0a50e2]: Textual amendment: Words in [Sch. 13 para. 40(2)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/13/paragraph/40/2) substituted (with effect in accordance with s. 1329(1) of the commencing Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 739(12)(b)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/739/12/b) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-bb44c2c9979034fb4c43d3b2b79742bd]: Textual amendment: Words in [Sch. 13 para. 42(a)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/13/paragraph/42/a) substituted (with effect in accordance with s. 1184(1) of the commencing Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 584(6)(a)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/584/6/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-bb44c2c9979034fb4c43d3b2b79742bd]: Textual amendment: Words in [Sch. 13 para. 42(a)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/13/paragraph/42/a) substituted (with effect in accordance with s. 1184(1) of the commencing Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 584(6)(a)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/584/6/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-50ef5df5ddb41f1acf30bccbd41806f1]: Textual amendment: Words in [Sch. 13 para. 42(b)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/13/paragraph/42/b) substituted (with effect in accordance with s. 1184(1) of the commencing Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 584(6)(b)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/584/6/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-50ef5df5ddb41f1acf30bccbd41806f1]: Textual amendment: Words in [Sch. 13 para. 42(b)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/13/paragraph/42/b) substituted (with effect in accordance with s. 1184(1) of the commencing Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 584(6)(b)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/584/6/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Publicity for resolution[^key-5f50ac9eb606d479b18e85212962d987]
+## 41. Publicity for resolution[^c-5f50ac9eb606d479b18e85212962d987]
 
 *Extent: E+W*
 
@@ -32,7 +32,7 @@ summary: ''
 (4) The council must publicise these matters—
 
 - (a) that the council has resolved to become subject to the new electoral scheme;
-- (b) that the Local Government Boundary Commission[^key-9c90cef595301d025ed6d84166c8981c] is to make provision by order about the operation of, and transition to, the new electoral scheme;
+- (b) that the Local Government Boundary Commission[^c-9c90cef595301d025ed6d84166c8981c] is to make provision by order about the operation of, and transition to, the new electoral scheme;
 - (c) how the explanatory document is available in accordance with subsection (3);
 - (d) the address of the council's principal office.
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5f50ac9eb606d479b18e85212962d987]: Commencement: S. 41 in force at 30.12.2007, see s. 245(2)
+[^c-5f50ac9eb606d479b18e85212962d987]: Commencement: S. 41 in force at 30.12.2007, see s. 245(2)
 
-[^key-9c90cef595301d025ed6d84166c8981c]: Textual amendment: Words in s. 41(4)(b) substituted (1.4.2010) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [s. 148(3)(b)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/3/b), [Sch. 4 para. 22](https://www.legislation.gov.uk/ukpga/2009/20/schedule/4/paragraph/22); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(ff)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/ff)
+[^c-9c90cef595301d025ed6d84166c8981c]: Textual amendment: Words in s. 41(4)(b) substituted (1.4.2010) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [s. 148(3)(b)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/3/b), [Sch. 4 para. 22](https://www.legislation.gov.uk/ukpga/2009/20/schedule/4/paragraph/22); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(ff)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/ff)

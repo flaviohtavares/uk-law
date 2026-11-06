@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Application of criminal law to renewable energy installations etc.[^key-b0bf49f8c2d584b1dc5c151dddbc70a9]
+## 85. Application of criminal law to renewable energy installations etc.[^c-b0bf49f8c2d584b1dc5c151dddbc70a9]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ all the powers and privileges that he has in the area of the force of which he i
 
 ## Annotations
 
-[^key-b0bf49f8c2d584b1dc5c151dddbc70a9]: Commencement: [S. 85](https://www.legislation.gov.uk/ukpga/2004/20/section/85) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-b0bf49f8c2d584b1dc5c151dddbc70a9]: Commencement: [S. 85](https://www.legislation.gov.uk/ukpga/2004/20/section/85) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1 — Arrangements for the future[^key-2dc30a7289653111191c5c46fd0ff1e9]
+## SCHEDULE 1 — Arrangements for the future[^c-2dc30a7289653111191c5c46fd0ff1e9]
 
 *Extent: E+W*
 
@@ -24,42 +24,42 @@ summary: ''
 
 Section 9(6).
 
-### The first exemption[^key-2dc30a7289653111191c5c46fd0ff1e9]
+### The first exemption[^c-2dc30a7289653111191c5c46fd0ff1e9]
 
-**1.**[^key-2dc30a7289653111191c5c46fd0ff1e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-2dc30a7289653111191c5c46fd0ff1e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### The second exemption[^key-2dc30a7289653111191c5c46fd0ff1e9]
+### The second exemption[^c-2dc30a7289653111191c5c46fd0ff1e9]
 
-**2.**[^key-2dc30a7289653111191c5c46fd0ff1e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-2dc30a7289653111191c5c46fd0ff1e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### The third exemption[^key-2dc30a7289653111191c5c46fd0ff1e9]
+### The third exemption[^c-2dc30a7289653111191c5c46fd0ff1e9]
 
-**3.**[^key-2dc30a7289653111191c5c46fd0ff1e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-2dc30a7289653111191c5c46fd0ff1e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### The fourth exemption[^key-2dc30a7289653111191c5c46fd0ff1e9]
+### The fourth exemption[^c-2dc30a7289653111191c5c46fd0ff1e9]
 
-**4.**[^key-2dc30a7289653111191c5c46fd0ff1e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-2dc30a7289653111191c5c46fd0ff1e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Court orders and agreements[^key-2dc30a7289653111191c5c46fd0ff1e9]
+### Court orders and agreements[^c-2dc30a7289653111191c5c46fd0ff1e9]
 
-**5.**[^key-2dc30a7289653111191c5c46fd0ff1e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-2dc30a7289653111191c5c46fd0ff1e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Financial arrangements[^key-2dc30a7289653111191c5c46fd0ff1e9]
+### Financial arrangements[^c-2dc30a7289653111191c5c46fd0ff1e9]
 
-**6.**[^key-2dc30a7289653111191c5c46fd0ff1e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-2dc30a7289653111191c5c46fd0ff1e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Negotiated agreements[^key-2dc30a7289653111191c5c46fd0ff1e9]
+### Negotiated agreements[^c-2dc30a7289653111191c5c46fd0ff1e9]
 
-**7.**[^key-2dc30a7289653111191c5c46fd0ff1e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-2dc30a7289653111191c5c46fd0ff1e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Declarations[^key-2dc30a7289653111191c5c46fd0ff1e9]
+### Declarations[^c-2dc30a7289653111191c5c46fd0ff1e9]
 
-**8.**[^key-2dc30a7289653111191c5c46fd0ff1e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-2dc30a7289653111191c5c46fd0ff1e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Interpretation[^key-2dc30a7289653111191c5c46fd0ff1e9]
+### Interpretation[^c-2dc30a7289653111191c5c46fd0ff1e9]
 
-**9.**[^key-2dc30a7289653111191c5c46fd0ff1e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-2dc30a7289653111191c5c46fd0ff1e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2dc30a7289653111191c5c46fd0ff1e9]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ukpga/1996/27/schedule/1) repealed (13.5.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 18(1)](https://www.legislation.gov.uk/ukpga/2014/6/section/18/1), [139(4)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/4)
+[^c-2dc30a7289653111191c5c46fd0ff1e9]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ukpga/1996/27/schedule/1) repealed (13.5.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 18(1)](https://www.legislation.gov.uk/ukpga/2014/6/section/18/1), [139(4)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 100. Notices otherwise advertised – other additional provisions[^key-5a89bb22d6a549e0c0c94fbd3d23b428]
+## 100. Notices otherwise advertised – other additional provisions[^c-5a89bb22d6a549e0c0c94fbd3d23b428]
 
 *Extent: S*
 
@@ -24,6 +24,6 @@ The information required to be contained in a notice to which Rule 98[^M_F_22cfd
 
 ## Annotations
 
-[^key-5a89bb22d6a549e0c0c94fbd3d23b428]: Commencement: Rule 100 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-5a89bb22d6a549e0c0c94fbd3d23b428]: Commencement: Rule 100 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
 
 [^M_F_22cfd8b2-5fb3-4e2b-cdd1-e328d34ba3da]: Textual amendment: Words in rule 100 substituted (13.4.2017) by virtue of [The Postal Administration (Scotland) (Amendment) Rules 2017 (S.I. 2017/441)](https://www.legislation.gov.uk/uksi/2017/441), [rules 1](https://www.legislation.gov.uk/uksi/2017/441/rule/1), [2(11)](https://www.legislation.gov.uk/uksi/2017/441/rule/2/11)

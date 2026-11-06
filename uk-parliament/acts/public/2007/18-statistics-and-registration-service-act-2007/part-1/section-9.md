@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Definitions etc for official statistics[^key-e107d344894d94f1a07bd914d6bab6fa]
+## 9. Definitions etc for official statistics[^c-e107d344894d94f1a07bd914d6bab6fa]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e107d344894d94f1a07bd914d6bab6fa]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2007/18/section/9) in force at 1.4.2008 by [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)
+[^c-e107d344894d94f1a07bd914d6bab6fa]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2007/18/section/9) in force at 1.4.2008 by [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)

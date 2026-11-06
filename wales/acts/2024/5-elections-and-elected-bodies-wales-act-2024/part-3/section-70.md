@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 70. General interpretation[^key-e0910815840fb1cb9c82317befb3747b]
+## 70. General interpretation[^c-e0910815840fb1cb9c82317befb3747b]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ In this Act—
 
 ## Annotations
 
-[^key-e0910815840fb1cb9c82317befb3747b]: Commencement: S. 70 in force at 10.9.2024, see [s. 72(1)(d)](https://www.legislation.gov.uk/asc/2024/5/section/72/1/d)
+[^c-e0910815840fb1cb9c82317befb3747b]: Commencement: S. 70 in force at 10.9.2024, see [s. 72(1)(d)](https://www.legislation.gov.uk/asc/2024/5/section/72/1/d)

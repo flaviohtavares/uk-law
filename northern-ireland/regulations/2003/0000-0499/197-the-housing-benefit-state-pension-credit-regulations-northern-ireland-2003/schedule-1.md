@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 1 — PROVISIONS CONFERRING POWERS EXERCISED IN MAKING THESE REGULATIONS[^key-80db45b195437402c555781ba07203c7]
+## SCHEDULE 1 — PROVISIONS CONFERRING POWERS EXERCISED IN MAKING THESE REGULATIONS[^c-80db45b195437402c555781ba07203c7]
 
 *Extent: N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-80db45b195437402c555781ba07203c7]: Commencement: Sch. 1 in operation at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2003/197/regulation/1/1/b)
+[^c-80db45b195437402c555781ba07203c7]: Commencement: Sch. 1 in operation at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2003/197/regulation/1/1/b)

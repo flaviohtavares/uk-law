@@ -44,15 +44,15 @@ Coming into operation
 
 The Department of Justice makes the following Regulations in exercise of the powers conferred by section 23(1), (7) and (8) of the Justice Act (Northern Ireland) 2016[^f00001].
 
-## 1. Citation and Commencement[^key-0b1908d683ade18850e006ed107d8cb9]
+## 1. Citation and Commencement[^c-0b1908d683ade18850e006ed107d8cb9]
 
 These Regulations may be cited as the Enforcement of Fines and Other Penalties (Amendment) Regulations (Northern Ireland) 2025 and shall come into operation on 10th November 2025.
 
-## 2. Amendment of the Enforcement of Fines and Other Penalties Regulations (Northern Ireland) 2018[^key-848559778356cc0e3177ca331da11eb0]
+## 2. Amendment of the Enforcement of Fines and Other Penalties Regulations (Northern Ireland) 2018[^c-848559778356cc0e3177ca331da11eb0]
 
 The Enforcement of Fines and Other Penalties Regulations (Northern Ireland) 2018 [^f00002] are amended as follows.
 
-**3.**[^key-33a3d768572baa2849f1f3470a884b74] In Schedule 3, after paragraph 2, for the table entitled “Table 1”, substitute the following table –
+**3.**[^c-33a3d768572baa2849f1f3470a884b74] In Schedule 3, after paragraph 2, for the table entitled “Table 1”, substitute the following table –
 
 > - Table 1- Removal Charges
 >
@@ -71,7 +71,7 @@ The Enforcement of Fines and Other Penalties Regulations (Northern Ireland) 2018
 >   </tbody>
 >   </table>
 
-**4.**[^key-66f5fb475d389f458c4d429308afb459] In Schedule 3, after paragraph 5, for the table entitled “Table 2”, substitute the following table–
+**4.**[^c-66f5fb475d389f458c4d429308afb459] In Schedule 3, after paragraph 5, for the table entitled “Table 2”, substitute the following table–
 
 > - Table 2 -Storage Charges
 >
@@ -79,7 +79,7 @@ The Enforcement of Fines and Other Penalties Regulations (Northern Ireland) 2018
 >   | --- | --- | --- | --- | --- |
 >   | £13 | £26 | £32 | £38 | £45 |
 
-**5.**[^key-914b32b303941dd7d4a3b27b3d5c0114] In Schedule 3, after paragraph 6, for the table entitled “Table 3”, substitute the following table–
+**5.**[^c-914b32b303941dd7d4a3b27b3d5c0114] In Schedule 3, after paragraph 6, for the table entitled “Table 3”, substitute the following table–
 
 > - Table 3 - Disposal Charges
 >
@@ -87,7 +87,7 @@ The Enforcement of Fines and Other Penalties Regulations (Northern Ireland) 2018
 >   | --- | --- | --- | --- | --- |
 >   | £64 | £96 | £128 | £160 | £192 |
 
-## 6. Transitional provision[^key-2f5906e4a5474abf6feee8474e04c5d0]
+## 6. Transitional provision[^c-2f5906e4a5474abf6feee8474e04c5d0]
 
 Regulations 3, 4 and 5 only have effect in respect of a vehicle seized on or after 10th November 2025
 
@@ -115,16 +115,16 @@ Regulation 6 provides that the amendments made by regulations 3, 4 and 5 only ha
 
 [^f00001]: Footnote: [2016 c.21 (N.I.)](https://www.legislation.gov.uk/nia/2016/21)
 
-[^key-0b1908d683ade18850e006ed107d8cb9]: Commencement: Reg. 1 in operation at 10.11.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/166/regulation/1)
+[^c-0b1908d683ade18850e006ed107d8cb9]: Commencement: Reg. 1 in operation at 10.11.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/166/regulation/1)
 
-[^key-848559778356cc0e3177ca331da11eb0]: Commencement: Reg. 2 in operation at 10.11.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/166/regulation/1)
+[^c-848559778356cc0e3177ca331da11eb0]: Commencement: Reg. 2 in operation at 10.11.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/166/regulation/1)
 
 [^f00002]: Footnote: [S.R. 2018 No. 102](https://www.legislation.gov.uk/nisr/2018/102)
 
-[^key-33a3d768572baa2849f1f3470a884b74]: Commencement: Reg. 3 in operation at 10.11.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/166/regulation/1)
+[^c-33a3d768572baa2849f1f3470a884b74]: Commencement: Reg. 3 in operation at 10.11.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/166/regulation/1)
 
-[^key-66f5fb475d389f458c4d429308afb459]: Commencement: Reg. 4 in operation at 10.11.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/166/regulation/1)
+[^c-66f5fb475d389f458c4d429308afb459]: Commencement: Reg. 4 in operation at 10.11.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/166/regulation/1)
 
-[^key-914b32b303941dd7d4a3b27b3d5c0114]: Commencement: Reg. 5 in operation at 10.11.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/166/regulation/1)
+[^c-914b32b303941dd7d4a3b27b3d5c0114]: Commencement: Reg. 5 in operation at 10.11.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/166/regulation/1)
 
-[^key-2f5906e4a5474abf6feee8474e04c5d0]: Commencement: Reg. 6 in operation at 10.11.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/166/regulation/1)
+[^c-2f5906e4a5474abf6feee8474e04c5d0]: Commencement: Reg. 6 in operation at 10.11.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/166/regulation/1)

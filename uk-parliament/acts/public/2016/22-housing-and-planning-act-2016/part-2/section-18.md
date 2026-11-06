@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Content of banning order: involvement in bodies corporate[^key-655674a5745f2ddfc88a068c516da9e1]
+## 18. Content of banning order: involvement in bodies corporate[^c-655674a5745f2ddfc88a068c516da9e1]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-655674a5745f2ddfc88a068c516da9e1]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2016/22/section/18) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/a)
+[^c-655674a5745f2ddfc88a068c516da9e1]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2016/22/section/18) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/a)

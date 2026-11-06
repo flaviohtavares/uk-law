@@ -35,101 +35,101 @@ on the approval of the use of the engine-on coasting function in passenger cars 
 
 (Text with EEA relevance) (revoked)
 
-[^key-6c62f9f97469af5df4eeaca6950b1118]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6c62f9f97469af5df4eeaca6950b1118]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Innovative technology[^key-6c62f9f97469af5df4eeaca6950b1118]
+## Article 1. Innovative technology[^c-6c62f9f97469af5df4eeaca6950b1118]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Application for certification of CO<sub>2</sub> savings[^key-6c62f9f97469af5df4eeaca6950b1118]
+## Article 2. Application for certification of CO<sub>2</sub> savings[^c-6c62f9f97469af5df4eeaca6950b1118]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Certification of CO<sub>2</sub> savings[^key-6c62f9f97469af5df4eeaca6950b1118]
+## Article 3. Certification of CO<sub>2</sub> savings[^c-6c62f9f97469af5df4eeaca6950b1118]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Eco-innovation code[^key-6c62f9f97469af5df4eeaca6950b1118]
+## Article 4. Eco-innovation code[^c-6c62f9f97469af5df4eeaca6950b1118]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Repeal[^key-6c62f9f97469af5df4eeaca6950b1118]
+## Article 5. Repeal[^c-6c62f9f97469af5df4eeaca6950b1118]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Entry into force[^key-6c62f9f97469af5df4eeaca6950b1118]
+## Article 6. Entry into force[^c-6c62f9f97469af5df4eeaca6950b1118]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6c62f9f97469af5df4eeaca6950b1118]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6c62f9f97469af5df4eeaca6950b1118]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX — METHODOLOGY TO DETERMINE THE CO<sub>2</sub> SAVINGS OF THE ENGINE-ON COASTING FUNCTION FOR INTERNAL COMBUSTION ENGINE VEHICLES AND CERTAIN NOT OFF-VEHICLE CHARGING HYBRID ELECTRIC VEHICLES[^key-6c62f9f97469af5df4eeaca6950b1118]
+## ANNEX — METHODOLOGY TO DETERMINE THE CO<sub>2</sub> SAVINGS OF THE ENGINE-ON COASTING FUNCTION FOR INTERNAL COMBUSTION ENGINE VEHICLES AND CERTAIN NOT OFF-VEHICLE CHARGING HYBRID ELECTRIC VEHICLES[^c-6c62f9f97469af5df4eeaca6950b1118]
 
-[^key-6c62f9f97469af5df4eeaca6950b1118]1.
+[^c-6c62f9f97469af5df4eeaca6950b1118]1.
 
 SYMBOLS, UNITS AND PARAMETERS
 
-[^key-6c62f9f97469af5df4eeaca6950b1118]**Latin symbols**
+[^c-6c62f9f97469af5df4eeaca6950b1118]**Latin symbols**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6c62f9f97469af5df4eeaca6950b1118]**Greek symbols**
+[^c-6c62f9f97469af5df4eeaca6950b1118]**Greek symbols**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6c62f9f97469af5df4eeaca6950b1118]2.
+[^c-6c62f9f97469af5df4eeaca6950b1118]2.
 
 TEST VEHICLES
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6c62f9f97469af5df4eeaca6950b1118]3.
+[^c-6c62f9f97469af5df4eeaca6950b1118]3.
 
 DEFINITION OF THE MODIFIED TESTING CONDITIONS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6c62f9f97469af5df4eeaca6950b1118]4.
+[^c-6c62f9f97469af5df4eeaca6950b1118]4.
 
 DETERMINATION OF THE ADDITIONAL PARAMETERS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6c62f9f97469af5df4eeaca6950b1118]5.
+[^c-6c62f9f97469af5df4eeaca6950b1118]5.
 
 DETERMINATION OF THE CO<sub>2</sub> EMISSIONS OF THE ECO-INNOVATIVE VEHICLE UNDER MODIFIED TESTING CONDITIONS (E<sub>MC</sub>)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6c62f9f97469af5df4eeaca6950b1118]6.
+[^c-6c62f9f97469af5df4eeaca6950b1118]6.
 
 DETERMINATION OF THE CO<sub>2</sub> EMISSIONS OF THE BASELINE VEHICLE UNDER MODIFIED CONDITIONS (B<sub>MC</sub>)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6c62f9f97469af5df4eeaca6950b1118]7.
+[^c-6c62f9f97469af5df4eeaca6950b1118]7.
 
 CALCULATION OF CO<sub>2</sub> SAVINGS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6c62f9f97469af5df4eeaca6950b1118]8.
+[^c-6c62f9f97469af5df4eeaca6950b1118]8.
 
 CALCULATION OF THE UNCERTAINTY
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6c62f9f97469af5df4eeaca6950b1118]9.
+[^c-6c62f9f97469af5df4eeaca6950b1118]9.
 
 CERTIFICATION OF CO<sub>2</sub> SAVINGS BY THE TYPE APPROVAL AUTHORITY
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6c62f9f97469af5df4eeaca6950b1118]10.
+[^c-6c62f9f97469af5df4eeaca6950b1118]10.
 
 ASSESSMENT AGAINST THE MINIMUM THRESHOLD
 
@@ -137,4 +137,4 @@ ASSESSMENT AGAINST THE MINIMUM THRESHOLD
 
 ## Annotations
 
-[^key-6c62f9f97469af5df4eeaca6950b1118]: Textual amendment: Decision revoked (31.12.2022 at 11.00 p.m.) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars, Vans and Heavy Duty Vehicles) (Amendment) Regulations 2022 (S.I. 2022/1361)](https://www.legislation.gov.uk/uksi/2022/1361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2022/1361/regulation/14)
+[^c-6c62f9f97469af5df4eeaca6950b1118]: Textual amendment: Decision revoked (31.12.2022 at 11.00 p.m.) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars, Vans and Heavy Duty Vehicles) (Amendment) Regulations 2022 (S.I. 2022/1361)](https://www.legislation.gov.uk/uksi/2022/1361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2022/1361/regulation/14)

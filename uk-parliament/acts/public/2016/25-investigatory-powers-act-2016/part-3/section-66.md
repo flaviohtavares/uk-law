@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Duties of telecommunications operators in relation to authorisations[^key-6c0dede0ee39b1bc6416d4f8b15caa3d]
+## 66. Duties of telecommunications operators in relation to authorisations[^c-6c0dede0ee39b1bc6416d4f8b15caa3d]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6c0dede0ee39b1bc6416d4f8b15caa3d]: Commencement: S. 66 in force at 5.2.2019 by [S.I. 2019/174](https://www.legislation.gov.uk/uksi/2019/174), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2019/174/regulation/2/d)
+[^c-6c0dede0ee39b1bc6416d4f8b15caa3d]: Commencement: S. 66 in force at 5.2.2019 by [S.I. 2019/174](https://www.legislation.gov.uk/uksi/2019/174), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2019/174/regulation/2/d)

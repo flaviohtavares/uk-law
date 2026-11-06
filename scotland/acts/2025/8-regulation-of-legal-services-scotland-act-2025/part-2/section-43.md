@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 43. Appeals in relation to authorisation decisions[^key-6a39a8575a60bb613fe651d57687920d][^key-fd742a5069723fba13bee652072008e7][^key-f4a150fce09ec0dbeff1df00437ff919]
+## 43. Appeals in relation to authorisation decisions[^c-6a39a8575a60bb613fe651d57687920d][^c-fd742a5069723fba13bee652072008e7][^c-f4a150fce09ec0dbeff1df00437ff919]
 
 *Extent: S*
 
@@ -45,8 +45,8 @@ summary: ''
 
 ## Annotations
 
-[^key-6a39a8575a60bb613fe651d57687920d]: Commencement: S. 43 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-6a39a8575a60bb613fe651d57687920d]: Commencement: S. 43 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-fd742a5069723fba13bee652072008e7]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2025/8/section/43) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
+[^c-fd742a5069723fba13bee652072008e7]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2025/8/section/43) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
 
-[^key-f4a150fce09ec0dbeff1df00437ff919]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2025/8/section/43) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)
+[^c-f4a150fce09ec0dbeff1df00437ff919]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2025/8/section/43) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 11. Application to practise as a restricted list or restricted services principal[^key-387eb20982a66b2a8ecf92844d1fcaba]
+## 11. Application to practise as a restricted list or restricted services principal[^c-387eb20982a66b2a8ecf92844d1fcaba]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-387eb20982a66b2a8ecf92844d1fcaba]: Commencement: Reg. 11 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-387eb20982a66b2a8ecf92844d1fcaba]: Commencement: Reg. 11 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)

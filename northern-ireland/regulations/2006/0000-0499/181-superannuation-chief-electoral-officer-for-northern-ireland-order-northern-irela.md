@@ -41,15 +41,15 @@ Coming into operation
 
 The Department of Finance and Personnel makes the following Order, in exercise of the powers conferred by Article 3(4) and (7) of the Superannuation (Northern Ireland) Order 1972[^f00001] and now vested in it[^f00002].
 
-## 1. Citation and commencement[^key-25eefb5ad0e747ca7f5ae97ea32eabca]
+## 1. Citation and commencement[^c-25eefb5ad0e747ca7f5ae97ea32eabca]
 
 This Order may be cited as the Superannuation (Chief Electoral Officer for Northern Ireland) Order (Northern Ireland) 2006 and shall come into operation on 28th April 2006.
 
-## 2. Addition to list of employments and offices[^key-4fccb847b67e7c91638903dfe117611f]
+## 2. Addition to list of employments and offices[^c-4fccb847b67e7c91638903dfe117611f]
 
 There shall be added to the employments listed in Schedule 1 to the Superannuation (Northern Ireland) Order 1972 with effect from 1st April 2006 employment in the office of the Chief Electoral Officer for Northern Ireland.
 
-## 3.[^key-5d1e6cb0dc096ab213f9f1752e7d5360][^key-2b8cd999325572b55271cb154598b1b1]
+## 3.[^c-5d1e6cb0dc096ab213f9f1752e7d5360][^c-2b8cd999325572b55271cb154598b1b1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -71,10 +71,10 @@ This Order adds employment in the office of the Chief Electoral Officer for Nort
 
 [^f00002]: Footnote: By [S.R. 1976 No. 281](https://www.legislation.gov.uk/nisr/1976/281) Art. 3 and Sch. 1 and S.I. [1982/338 (N.I. 6)](https://www.legislation.gov.uk/nisi/1982/338) Article 4
 
-[^key-25eefb5ad0e747ca7f5ae97ea32eabca]: Commencement: Art. 1 in operation at 28.4.2006, see [art. 1](https://www.legislation.gov.uk/nisr/2006/181/article/1)
+[^c-25eefb5ad0e747ca7f5ae97ea32eabca]: Commencement: Art. 1 in operation at 28.4.2006, see [art. 1](https://www.legislation.gov.uk/nisr/2006/181/article/1)
 
-[^key-4fccb847b67e7c91638903dfe117611f]: Commencement: Art. 2 in operation at 28.4.2006, see [art. 1](https://www.legislation.gov.uk/nisr/2006/181/article/1)
+[^c-4fccb847b67e7c91638903dfe117611f]: Commencement: Art. 2 in operation at 28.4.2006, see [art. 1](https://www.legislation.gov.uk/nisr/2006/181/article/1)
 
-[^key-5d1e6cb0dc096ab213f9f1752e7d5360]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/nisr/2006/181/article/3) revoked (25.10.2006) by [Superannuation (Chief Electoral Officer for Northern Ireland) (Amendment) Order (Northern Ireland) 2006 (S.R. 2006/393)](https://www.legislation.gov.uk/nisr/2006/393), [arts. 1](https://www.legislation.gov.uk/nisr/2006/393/article/1), [2](https://www.legislation.gov.uk/nisr/2006/393/article/2)
+[^c-5d1e6cb0dc096ab213f9f1752e7d5360]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/nisr/2006/181/article/3) revoked (25.10.2006) by [Superannuation (Chief Electoral Officer for Northern Ireland) (Amendment) Order (Northern Ireland) 2006 (S.R. 2006/393)](https://www.legislation.gov.uk/nisr/2006/393), [arts. 1](https://www.legislation.gov.uk/nisr/2006/393/article/1), [2](https://www.legislation.gov.uk/nisr/2006/393/article/2)
 
-[^key-2b8cd999325572b55271cb154598b1b1]: Commencement: Art. 3 in operation at 28.4.2006, see [art. 1](https://www.legislation.gov.uk/nisr/2006/181/article/1)
+[^c-2b8cd999325572b55271cb154598b1b1]: Commencement: Art. 3 in operation at 28.4.2006, see [art. 1](https://www.legislation.gov.uk/nisr/2006/181/article/1)

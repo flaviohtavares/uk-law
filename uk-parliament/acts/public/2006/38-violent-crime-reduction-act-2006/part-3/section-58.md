@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Power of entry and search of relevant offender's home address[^key-1f892b57fdf8f18e48ede248f20ad677]
+## 58. Power of entry and search of relevant offender's home address[^c-1f892b57fdf8f18e48ede248f20ad677]
 
 *Extent: E+W+N.I.*
 
@@ -74,4 +74,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1f892b57fdf8f18e48ede248f20ad677]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2006/38/section/58) in force at 31.5.2007 by [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 3(f)](https://www.legislation.gov.uk/uksi/2007/858/article/3/f)
+[^c-1f892b57fdf8f18e48ede248f20ad677]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2006/38/section/58) in force at 31.5.2007 by [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 3(f)](https://www.legislation.gov.uk/uksi/2007/858/article/3/f)

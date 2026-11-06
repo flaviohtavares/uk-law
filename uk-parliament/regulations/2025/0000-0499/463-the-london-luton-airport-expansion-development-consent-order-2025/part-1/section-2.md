@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Interpretation[^key-5d2b6683c4207a5049d172721bc3d80d]
+## 2. Interpretation[^c-5d2b6683c4207a5049d172721bc3d80d]
 
 *Extent: E+W*
 
@@ -43,7 +43,7 @@ summary: ''
 - “**apparatus**” has the same meaning as in Part 3 (street works in England and Wales) of the 1991 Act;
 - “**authorised development**” means the development described in Schedule 1 (authorised development) including any other development authorised by this Order, or any part of it, which is development within the meaning of section 32 (meaning of “**development**”) of the 2008 Act;
 - “**book of reference**” means the document of that description listed in Schedule 9 and certified by the Secretary of State as the book of reference for the purposes of the Order;
-- “**bridleway**” has the same meaning as in section 329(1) (further provision as to interpretation)[^key-27bf8b323865962fcc0a8f3870f788d3] of the 1980 Act;
+- “**bridleway**” has the same meaning as in section 329(1) (further provision as to interpretation)[^c-27bf8b323865962fcc0a8f3870f788d3] of the 1980 Act;
 - “**building**” includes any structure or erection or any part of a building, structure or erection;
 - “**carriageway**” has the same meaning as in section 329(1) of the 1980 Act and includes part of a carriageway;
 - “**code of construction practice**” means Appendix 4.2 of the environmental statement;
@@ -117,13 +117,13 @@ summary: ''
 
 (9) References in this Order to materially new or materially different environmental effects in comparison with those reported in the environmental statement must not be construed so as to include the avoidance, removal or reduction of an adverse environmental effect that was reported in the environmental statement as a result of the authorised development.
 
-(10) In this Order, the expression “**includes**” is to be construed without limitation, unless so construing would give rise to any materially new or materially different environmental effects in comparison to those reported[^key-1c5b0eb4d70c5e33940275386aba6534] in the environmental statement.
+(10) In this Order, the expression “**includes**” is to be construed without limitation, unless so construing would give rise to any materially new or materially different environmental effects in comparison to those reported[^c-1c5b0eb4d70c5e33940275386aba6534] in the environmental statement.
 
 (11) References in this Order to “part” of the authorised development are to be construed as references to stages, phases or elements of the authorised development in respect of which an application is made by the undertaker under Schedule 2, and references to commencement of part of the authorised development in Schedule 2 are to be construed accordingly.
 
 ## Annotations
 
-[^key-5d2b6683c4207a5049d172721bc3d80d]: Commencement: Art. 2 in force at 24.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/463/article/1)
+[^c-5d2b6683c4207a5049d172721bc3d80d]: Commencement: Art. 2 in force at 24.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/463/article/1)
 
 [^f00014]: Footnote: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33).
 
@@ -151,7 +151,7 @@ summary: ''
 
 [^f00026]: Footnote: [S.I. 2006/2665](https://www.legislation.gov.uk/uksi/2006/2665).
 
-[^key-27bf8b323865962fcc0a8f3870f788d3]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/uksi/2025/463/article/2) bracket inserted (21.3.2026) by [The London Luton Airport Expansion Development Consent (Correction) Order 2026 (S.I. 2026/328)](https://www.legislation.gov.uk/uksi/2026/328), [art. 1](https://www.legislation.gov.uk/uksi/2026/328/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/328/schedule)
+[^c-27bf8b323865962fcc0a8f3870f788d3]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/uksi/2025/463/article/2) bracket inserted (21.3.2026) by [The London Luton Airport Expansion Development Consent (Correction) Order 2026 (S.I. 2026/328)](https://www.legislation.gov.uk/uksi/2026/328), [art. 1](https://www.legislation.gov.uk/uksi/2026/328/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/328/schedule)
 
 [^f00027]: Footnote: The definition of “cycle track” was amended by section 1 of the Cycle Tracks Act [1984 (c. 39)](https://www.legislation.gov.uk/ukpga/1984/39) and paragraph 21(2) of Schedule 3 to the Road Traffic (Consequential Provisions) Act [1988 (c. 54)](https://www.legislation.gov.uk/ukpga/1988/54).
 
@@ -173,4 +173,4 @@ summary: ''
 
 [^f00036]: Footnote: Section 121A was inserted by 168(1) of, and paragraph 70 of Schedule 8 to, the New Roads and Street Works Act [1991 (c. 22)](https://www.legislation.gov.uk/ukpga/1991/22).
 
-[^key-1c5b0eb4d70c5e33940275386aba6534]: Textual amendment: Word in [art. 2(10)](https://www.legislation.gov.uk/uksi/2025/463/article/2/10) substituted (21.3.2026) by [The London Luton Airport Expansion Development Consent (Correction) Order 2026 (S.I. 2026/328)](https://www.legislation.gov.uk/uksi/2026/328), [art. 1](https://www.legislation.gov.uk/uksi/2026/328/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/328/schedule)
+[^c-1c5b0eb4d70c5e33940275386aba6534]: Textual amendment: Word in [art. 2(10)](https://www.legislation.gov.uk/uksi/2025/463/article/2/10) substituted (21.3.2026) by [The London Luton Airport Expansion Development Consent (Correction) Order 2026 (S.I. 2026/328)](https://www.legislation.gov.uk/uksi/2026/328), [art. 1](https://www.legislation.gov.uk/uksi/2026/328/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/328/schedule)

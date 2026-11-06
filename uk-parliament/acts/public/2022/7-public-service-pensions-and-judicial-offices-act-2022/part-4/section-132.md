@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 132. Short title[^key-0b6bb2d56648afd46fc96d6f1d0948ae]
+## 132. Short title[^c-0b6bb2d56648afd46fc96d6f1d0948ae]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ This Act may be cited as the Public Service Pensions and Judicial Offices Act 20
 
 ## Annotations
 
-[^key-0b6bb2d56648afd46fc96d6f1d0948ae]: Commencement: S. 132 in force at Royal Assent, see [s. 131(5)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/5)
+[^c-0b6bb2d56648afd46fc96d6f1d0948ae]: Commencement: S. 132 in force at Royal Assent, see [s. 131(5)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/5)

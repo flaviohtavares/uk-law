@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 64ZA. Patient online services: provision of online access to coded information in medical record and prospective medical records[^key-2f025a697b0f62ad2b40f6f350034bb2][^key-f463b11ae87abe2c3a38e9d0811be194]
+## 64ZA. Patient online services: provision of online access to coded information in medical record and prospective medical records[^c-2f025a697b0f62ad2b40f6f350034bb2][^c-f463b11ae87abe2c3a38e9d0811be194]
 
 *Extent: E+W*
 
@@ -78,6 +78,6 @@ the contractor must provide P with that facility by the end of the compliance pe
 
 ## Annotations
 
-[^key-2f025a697b0f62ad2b40f6f350034bb2]: Textual amendment: [Reg. 64ZA](https://www.legislation.gov.uk/uksi/2015/1879/regulation/64ZA) substituted (15.5.2023) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/449)](https://www.legislation.gov.uk/uksi/2023/449), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/449/regulation/1/2/b), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2023/449/schedule/2/paragraph/5)
+[^c-2f025a697b0f62ad2b40f6f350034bb2]: Textual amendment: [Reg. 64ZA](https://www.legislation.gov.uk/uksi/2015/1879/regulation/64ZA) substituted (15.5.2023) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/449)](https://www.legislation.gov.uk/uksi/2023/449), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/449/regulation/1/2/b), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2023/449/schedule/2/paragraph/5)
 
-[^key-f463b11ae87abe2c3a38e9d0811be194]: Textual amendment: Regs. 64ZA, 64ZB inserted (1.4.2020) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2020 (S.I. 2020/226)](https://www.legislation.gov.uk/uksi/2020/226), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/226/regulation/1/2), [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2020/226/schedule/2/paragraph/4)
+[^c-f463b11ae87abe2c3a38e9d0811be194]: Textual amendment: Regs. 64ZA, 64ZB inserted (1.4.2020) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2020 (S.I. 2020/226)](https://www.legislation.gov.uk/uksi/2020/226), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/226/regulation/1/2), [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2020/226/schedule/2/paragraph/4)

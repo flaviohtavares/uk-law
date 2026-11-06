@@ -24,7 +24,7 @@ summary: ''
 
 > (1) A higher education funding council shall have power to make payments, subject to such terms and conditions as the council think fit, to—
 >
-> - (a) any local authority[^key-5ca14e1c5c9fb4ff32ae914fdd63af76] in their area;
+> - (a) any local authority[^c-5ca14e1c5c9fb4ff32ae914fdd63af76] in their area;
 > - (b) the London Residuary Body;
 > - (c) the London Pensions Fund Authority; and
 > - (d) the governing body of any institution designated under section 129 of this Act, as originally enacted;
@@ -53,4 +53,4 @@ summary: ''
 
 [^c11066011]: Marginal citation: [1988 c. 40](https://www.legislation.gov.uk/ukpga/1988/40).
 
-[^key-5ca14e1c5c9fb4ff32ae914fdd63af76]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 5(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/5/2)
+[^c-5ca14e1c5c9fb4ff32ae914fdd63af76]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 5(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/5/2)

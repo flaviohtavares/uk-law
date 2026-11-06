@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 298. Service of notices.[^key-a2412634fd3881c4dba21a9d88956035]
+## 298. Service of notices.[^c-a2412634fd3881c4dba21a9d88956035]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a2412634fd3881c4dba21a9d88956035]: Textual amendment: [Pt. XIV](https://www.legislation.gov.uk/ukpga/1987/26/part/XIV) repealed (30.7.2018) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 99(1)](https://www.legislation.gov.uk/asp/2014/14/section/99/1), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2018/153](https://www.legislation.gov.uk/ssi/2018/153), [art. 2](https://www.legislation.gov.uk/ssi/2018/153/article/2), [sch.](https://www.legislation.gov.uk/ssi/2018/153/schedule)
+[^c-a2412634fd3881c4dba21a9d88956035]: Textual amendment: [Pt. XIV](https://www.legislation.gov.uk/ukpga/1987/26/part/XIV) repealed (30.7.2018) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 99(1)](https://www.legislation.gov.uk/asp/2014/14/section/99/1), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2018/153](https://www.legislation.gov.uk/ssi/2018/153), [art. 2](https://www.legislation.gov.uk/ssi/2018/153/article/2), [sch.](https://www.legislation.gov.uk/ssi/2018/153/schedule)

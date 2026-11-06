@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. Authorised providers in relation to superannuation schemes for civil servants etc.[^key-2e2ebe412b82c3c242f93f44169873b5]
+## 106. Authorised providers in relation to superannuation schemes for civil servants etc.[^c-2e2ebe412b82c3c242f93f44169873b5]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,6 +61,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2e2ebe412b82c3c242f93f44169873b5]: Commencement: Art. 106 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-2e2ebe412b82c3c242f93f44169873b5]: Commencement: Art. 106 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00099]: Footnote: Section 1(9) was inserted by the Pensions (Miscellaneous Provisions) Act [1990 (c. 7)](https://www.legislation.gov.uk/ukpga/1990/7) s. 8(2) and amended by the Pensions Schemes Act [1993 (c. 48)](https://www.legislation.gov.uk/ukpga/1993/48) Schedule 8 paragraph 6.

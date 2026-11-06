@@ -38,15 +38,15 @@ summary: ''
 
 **3.** (1) The judicial members comprise—
 
-- (a) two persons, each[^key-72c87fa3014a4aa05353a6189cf8c6ed] holding the office of judge of the Court of Session (other than the Lord President and the Lord Justice Clerk),
-- (b) one person holding the office of sheriff principal, [^key-9368ecf5ef8056ef7c56c4331e300803]...
-- (c) one person holding the office of sheriff , and[^key-bd1a6f796afb8734c65b6470bbabcaca]
+- (a) two persons, each[^c-72c87fa3014a4aa05353a6189cf8c6ed] holding the office of judge of the Court of Session (other than the Lord President and the Lord Justice Clerk),
+- (b) one person holding the office of sheriff principal, [^c-9368ecf5ef8056ef7c56c4331e300803]...
+- (c) one person holding the office of sheriff , and[^c-bd1a6f796afb8734c65b6470bbabcaca]
 - (d) one person holding the position of Chamber President or of Vice-President within the Scottish Tribunals.
 
 (2) The legal members comprise—
 
-- (a) one advocate practising as such in Scotland, [^key-1957efb4c060285f8123319166caf33d]...
-- (b) one solicitor practising as such in Scotland , and[^key-bf29f406f025f54d93fc319f2e24acfc]
+- (a) one advocate practising as such in Scotland, [^c-1957efb4c060285f8123319166caf33d]...
+- (b) one solicitor practising as such in Scotland , and[^c-bf29f406f025f54d93fc319f2e24acfc]
 - (c) one person who may be either—
   - (i) an advocate practising as such in Scotland, or
   - (ii) a solicitor practising as such in Scotland.
@@ -60,7 +60,7 @@ summary: ''
 
 (5) However, an order under sub-paragraph (4) may not remove any judicial or legal membership category other than one added by such an order.
 
-(6)[^key-3f169bee01e2a992d22f48271eb528ae] For the purposes of sub-paragraph (1)(d)—
+(6)[^c-3f169bee01e2a992d22f48271eb528ae] For the purposes of sub-paragraph (1)(d)—
 
 - “ **Scottish Tribunals** ” is to be construed in accordance with the Tribunals (Scotland) Act 2014,
 - “ **Chamber President** ” means Chamber President in the First-tier Tribunal as referred to in that Act and “ **Vice-President** ” means Vice-President of the Upper Tribunal as referred to in that Act.
@@ -248,7 +248,7 @@ may direct that the member is to continue to hold office for such period, not ex
 
 (3) The Scottish Ministers may determine different fees and expenses for different members.
 
-### Appointment of persons to assist the Board[^key-8a1b01b5135792f45ff5f70d729bf83f]
+### Appointment of persons to assist the Board[^c-8a1b01b5135792f45ff5f70d729bf83f]
 
 **13A.** (1) The Board may appoint persons (other than Board members) to assist the Board with the carrying out of its functions.
 
@@ -314,7 +314,7 @@ may direct that the member is to continue to hold office for such period, not ex
 
 (2) Sub-paragraph (1) does not affect the Board's responsibility for the carrying out of its functions.
 
-### Proceedings relating to the Scottish Tribunals[^key-01f0e3a7ad8057a3b5e22a77ebe9ea4d]
+### Proceedings relating to the Scottish Tribunals[^c-01f0e3a7ad8057a3b5e22a77ebe9ea4d]
 
 **16A.** (1) Sub-paragraph (2) applies where the Board is exercising any function under this Act in connection with a position mentioned in section 10(2A).
 
@@ -331,7 +331,7 @@ may direct that the member is to continue to hold office for such period, not ex
 - (a) sections 11 to 15 and 17, and
 - (b) paragraphs 5, 12 and 13 of this schedule.
 
-(6A)[^key-1649bed8fe2f610f9223b5c827b033b6] Sub-paragraph (6B) applies if—
+(6A)[^c-1649bed8fe2f610f9223b5c827b033b6] Sub-paragraph (6B) applies if—
 
 - (a) the Board is exercising any function under this Act in connection with a position mentioned in section 10(2A),
 - (b) the Board authorises a person appointed under paragraph 13A(1) to assist it in relation to any proceedings relating to the function, and
@@ -393,20 +393,20 @@ may direct that the member is to continue to hold office for such period, not ex
 
 ## Annotations
 
-[^key-72c87fa3014a4aa05353a6189cf8c6ed]: Textual amendment: Words in [sch. 1 para. 3(1)(a)](https://www.legislation.gov.uk/asp/2008/6/schedule/1/paragraph/3/1/a) substituted (4.11.2022) by [The Judicial Appointments Board for Scotland (Membership) Modification Order 2022 (S.S.I. 2022/268)](https://www.legislation.gov.uk/ssi/2022/268), [arts. 1](https://www.legislation.gov.uk/ssi/2022/268/article/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2022/268/article/2/2/a)
+[^c-72c87fa3014a4aa05353a6189cf8c6ed]: Textual amendment: Words in [sch. 1 para. 3(1)(a)](https://www.legislation.gov.uk/asp/2008/6/schedule/1/paragraph/3/1/a) substituted (4.11.2022) by [The Judicial Appointments Board for Scotland (Membership) Modification Order 2022 (S.S.I. 2022/268)](https://www.legislation.gov.uk/ssi/2022/268), [arts. 1](https://www.legislation.gov.uk/ssi/2022/268/article/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2022/268/article/2/2/a)
 
-[^key-9368ecf5ef8056ef7c56c4331e300803]: Textual amendment: Word in Sch. 1 para. 3(1) repealed (1.4.2015) by [Tribunals (Scotland) Act 2014 (asp 10)](https://www.legislation.gov.uk/asp/2014/10), [s. 83(2)](https://www.legislation.gov.uk/asp/2014/10/section/83/2), [Sch. 9 para. 12(4)(a)](https://www.legislation.gov.uk/asp/2014/10/schedule/9/paragraph/12/4/a) (with [Sch. 9 para. 8](https://www.legislation.gov.uk/asp/2014/10/schedule/9/paragraph/8)); [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-9368ecf5ef8056ef7c56c4331e300803]: Textual amendment: Word in Sch. 1 para. 3(1) repealed (1.4.2015) by [Tribunals (Scotland) Act 2014 (asp 10)](https://www.legislation.gov.uk/asp/2014/10), [s. 83(2)](https://www.legislation.gov.uk/asp/2014/10/section/83/2), [Sch. 9 para. 12(4)(a)](https://www.legislation.gov.uk/asp/2014/10/schedule/9/paragraph/12/4/a) (with [Sch. 9 para. 8](https://www.legislation.gov.uk/asp/2014/10/schedule/9/paragraph/8)); [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
 
-[^key-bd1a6f796afb8734c65b6470bbabcaca]: Textual amendment: Sch. 1 para. 3(1)(d) inserted (1.4.2015) by [Tribunals (Scotland) Act 2014 (asp 10)](https://www.legislation.gov.uk/asp/2014/10), [s. 83(2)](https://www.legislation.gov.uk/asp/2014/10/section/83/2), [Sch. 9 para. 12(4)(b)](https://www.legislation.gov.uk/asp/2014/10/schedule/9/paragraph/12/4/b) (with [Sch. 9 para. 8](https://www.legislation.gov.uk/asp/2014/10/schedule/9/paragraph/8)[10(1)(a)](https://www.legislation.gov.uk/asp/2014/10/schedule/9/paragraph/10/1/a)); [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-bd1a6f796afb8734c65b6470bbabcaca]: Textual amendment: Sch. 1 para. 3(1)(d) inserted (1.4.2015) by [Tribunals (Scotland) Act 2014 (asp 10)](https://www.legislation.gov.uk/asp/2014/10), [s. 83(2)](https://www.legislation.gov.uk/asp/2014/10/section/83/2), [Sch. 9 para. 12(4)(b)](https://www.legislation.gov.uk/asp/2014/10/schedule/9/paragraph/12/4/b) (with [Sch. 9 para. 8](https://www.legislation.gov.uk/asp/2014/10/schedule/9/paragraph/8)[10(1)(a)](https://www.legislation.gov.uk/asp/2014/10/schedule/9/paragraph/10/1/a)); [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
 
-[^key-1957efb4c060285f8123319166caf33d]: Textual amendment: Word in [sch. 1 para. 3(2)](https://www.legislation.gov.uk/asp/2008/6/schedule/1/paragraph/3/2) omitted (4.11.2022) by virtue of [The Judicial Appointments Board for Scotland (Membership) Modification Order 2022 (S.S.I. 2022/268)](https://www.legislation.gov.uk/ssi/2022/268), [arts. 1](https://www.legislation.gov.uk/ssi/2022/268/article/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2022/268/article/2/2/b)
+[^c-1957efb4c060285f8123319166caf33d]: Textual amendment: Word in [sch. 1 para. 3(2)](https://www.legislation.gov.uk/asp/2008/6/schedule/1/paragraph/3/2) omitted (4.11.2022) by virtue of [The Judicial Appointments Board for Scotland (Membership) Modification Order 2022 (S.S.I. 2022/268)](https://www.legislation.gov.uk/ssi/2022/268), [arts. 1](https://www.legislation.gov.uk/ssi/2022/268/article/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2022/268/article/2/2/b)
 
-[^key-bf29f406f025f54d93fc319f2e24acfc]: Textual amendment: [Sch. 1 para. 3(2)(c)](https://www.legislation.gov.uk/asp/2008/6/schedule/1/paragraph/3/2/c) and word inserted (4.11.2022) by [The Judicial Appointments Board for Scotland (Membership) Modification Order 2022 (S.S.I. 2022/268)](https://www.legislation.gov.uk/ssi/2022/268), [arts. 1](https://www.legislation.gov.uk/ssi/2022/268/article/1), [2(2)(c)](https://www.legislation.gov.uk/ssi/2022/268/article/2/2/c)
+[^c-bf29f406f025f54d93fc319f2e24acfc]: Textual amendment: [Sch. 1 para. 3(2)(c)](https://www.legislation.gov.uk/asp/2008/6/schedule/1/paragraph/3/2/c) and word inserted (4.11.2022) by [The Judicial Appointments Board for Scotland (Membership) Modification Order 2022 (S.S.I. 2022/268)](https://www.legislation.gov.uk/ssi/2022/268), [arts. 1](https://www.legislation.gov.uk/ssi/2022/268/article/1), [2(2)(c)](https://www.legislation.gov.uk/ssi/2022/268/article/2/2/c)
 
-[^key-3f169bee01e2a992d22f48271eb528ae]: Textual amendment: Sch. 1 para. 3(6) inserted (1.4.2015) by [Tribunals (Scotland) Act 2014 (asp 10)](https://www.legislation.gov.uk/asp/2014/10), [s. 83(2)](https://www.legislation.gov.uk/asp/2014/10/section/83/2), [Sch. 9 para. 12(4)(c)](https://www.legislation.gov.uk/asp/2014/10/schedule/9/paragraph/12/4/c) (with [Sch. 9 para. 8](https://www.legislation.gov.uk/asp/2014/10/schedule/9/paragraph/8)); [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-3f169bee01e2a992d22f48271eb528ae]: Textual amendment: Sch. 1 para. 3(6) inserted (1.4.2015) by [Tribunals (Scotland) Act 2014 (asp 10)](https://www.legislation.gov.uk/asp/2014/10), [s. 83(2)](https://www.legislation.gov.uk/asp/2014/10/section/83/2), [Sch. 9 para. 12(4)(c)](https://www.legislation.gov.uk/asp/2014/10/schedule/9/paragraph/12/4/c) (with [Sch. 9 para. 8](https://www.legislation.gov.uk/asp/2014/10/schedule/9/paragraph/8)); [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
 
-[^key-8a1b01b5135792f45ff5f70d729bf83f]: Textual amendment: Sch. 1 para. 13A, 13B and cross-headings inserted (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [ss. 131(1)(a)](https://www.legislation.gov.uk/asp/2014/18/section/131/1/a), [138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-8a1b01b5135792f45ff5f70d729bf83f]: Textual amendment: Sch. 1 para. 13A, 13B and cross-headings inserted (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [ss. 131(1)(a)](https://www.legislation.gov.uk/asp/2014/18/section/131/1/a), [138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
-[^key-01f0e3a7ad8057a3b5e22a77ebe9ea4d]: Textual amendment: Sch. 1 para. 16A and cross-heading inserted (1.4.2015) by [Tribunals (Scotland) Act 2014 (asp 10)](https://www.legislation.gov.uk/asp/2014/10), [s. 83(2)](https://www.legislation.gov.uk/asp/2014/10/section/83/2), [Sch. 9 para. 12(5)](https://www.legislation.gov.uk/asp/2014/10/schedule/9/paragraph/12/5) (with [Sch. 9 para. 8](https://www.legislation.gov.uk/asp/2014/10/schedule/9/paragraph/8)[10(1)(b)](https://www.legislation.gov.uk/asp/2014/10/schedule/9/paragraph/10/1/b)); [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-01f0e3a7ad8057a3b5e22a77ebe9ea4d]: Textual amendment: Sch. 1 para. 16A and cross-heading inserted (1.4.2015) by [Tribunals (Scotland) Act 2014 (asp 10)](https://www.legislation.gov.uk/asp/2014/10), [s. 83(2)](https://www.legislation.gov.uk/asp/2014/10/section/83/2), [Sch. 9 para. 12(5)](https://www.legislation.gov.uk/asp/2014/10/schedule/9/paragraph/12/5) (with [Sch. 9 para. 8](https://www.legislation.gov.uk/asp/2014/10/schedule/9/paragraph/8)[10(1)(b)](https://www.legislation.gov.uk/asp/2014/10/schedule/9/paragraph/10/1/b)); [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
 
-[^key-1649bed8fe2f610f9223b5c827b033b6]: Textual amendment: [Sch. 1 para. 16A(6A)](https://www.legislation.gov.uk/asp/2008/6/schedule/1/paragraph/16A/6A)[(6B)](https://www.legislation.gov.uk/asp/2008/6/schedule/1/paragraph/16A/6B) inserted (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [ss. 131(1)(b)](https://www.legislation.gov.uk/asp/2014/18/section/131/1/b), [138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-1649bed8fe2f610f9223b5c827b033b6]: Textual amendment: [Sch. 1 para. 16A(6A)](https://www.legislation.gov.uk/asp/2008/6/schedule/1/paragraph/16A/6A)[(6B)](https://www.legislation.gov.uk/asp/2008/6/schedule/1/paragraph/16A/6B) inserted (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [ss. 131(1)(b)](https://www.legislation.gov.uk/asp/2014/18/section/131/1/b), [138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)

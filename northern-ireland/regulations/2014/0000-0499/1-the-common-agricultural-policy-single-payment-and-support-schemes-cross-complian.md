@@ -40,66 +40,66 @@ Coming into operation
 
 10th February 2014
 
-The Department of Agriculture and Rural Development is a Department designated *(affected by repeal, see note)*[^key-4287226919bdcd7c9ae9d2493225f677] [^c21984091] for the purposes of section 2(2) of the European Communities Act 1972 *(affected by repeal, see note)*[^key-4287226919bdcd7c9ae9d2493225f677] [^c21984101] in relation to the common agricultural policy of the European Community and in relation to matters relating to the promotion of rural development. *(affected by repeal, see note)*[^key-4287226919bdcd7c9ae9d2493225f677]
+The Department of Agriculture and Rural Development is a Department designated *(affected by repeal, see note)*[^c-4287226919bdcd7c9ae9d2493225f677] [^c21984091] for the purposes of section 2(2) of the European Communities Act 1972 *(affected by repeal, see note)*[^c-4287226919bdcd7c9ae9d2493225f677] [^c21984101] in relation to the common agricultural policy of the European Community and in relation to matters relating to the promotion of rural development. *(affected by repeal, see note)*[^c-4287226919bdcd7c9ae9d2493225f677]
 
-The Department of Agriculture and Rural Development makes the following Regulations in exercise of the powers conferred on it by section 2(2) of that Act. *(affected by repeal, see note)*[^key-4287226919bdcd7c9ae9d2493225f677]
+The Department of Agriculture and Rural Development makes the following Regulations in exercise of the powers conferred on it by section 2(2) of that Act. *(affected by repeal, see note)*[^c-4287226919bdcd7c9ae9d2493225f677]
 
 ## 1. Title, commencement and interpretation
 
-(1) These Regulations may be cited as the Common Agricultural Policy Single Payment and Support Schemes (Cross Compliance) (Amendment) Regulations (Northern Ireland) 2014 and shall come into operation on 10th February 2014. *(affected by repeal, see note)*[^key-4287226919bdcd7c9ae9d2493225f677]
+(1) These Regulations may be cited as the Common Agricultural Policy Single Payment and Support Schemes (Cross Compliance) (Amendment) Regulations (Northern Ireland) 2014 and shall come into operation on 10th February 2014. *(affected by repeal, see note)*[^c-4287226919bdcd7c9ae9d2493225f677]
 
-(2) The Interpretation Act (Northern Ireland) 1954 *(affected by repeal, see note)*[^key-4287226919bdcd7c9ae9d2493225f677] [^c21984111] shall apply to these Regulations as it applies to an Act of the Assembly. *(affected by repeal, see note)*[^key-4287226919bdcd7c9ae9d2493225f677]
+(2) The Interpretation Act (Northern Ireland) 1954 *(affected by repeal, see note)*[^c-4287226919bdcd7c9ae9d2493225f677] [^c21984111] shall apply to these Regulations as it applies to an Act of the Assembly. *(affected by repeal, see note)*[^c-4287226919bdcd7c9ae9d2493225f677]
 
 ## 2. Amendment of the Common Agricultural Policy Single Payment and Support Schemes (Cross Compliance) Regulations (Northern Ireland) 2005
 
-The Common Agricultural Policy Single Payment and Support Schemes (Cross Compliance) Regulations (Northern Ireland) 2005 *(affected by repeal, see note)*[^key-4287226919bdcd7c9ae9d2493225f677] [^c21984121] are amended in accordance with regulations 3 to 5. *(affected by repeal, see note)*[^key-4287226919bdcd7c9ae9d2493225f677]
+The Common Agricultural Policy Single Payment and Support Schemes (Cross Compliance) Regulations (Northern Ireland) 2005 *(affected by repeal, see note)*[^c-4287226919bdcd7c9ae9d2493225f677] [^c21984121] are amended in accordance with regulations 3 to 5. *(affected by repeal, see note)*[^c-4287226919bdcd7c9ae9d2493225f677]
 
 ## 3.
 
-In regulation 2 (Interpretation)— *(affected by repeal, see note)*[^key-4287226919bdcd7c9ae9d2493225f677]
+In regulation 2 (Interpretation)— *(affected by repeal, see note)*[^c-4287226919bdcd7c9ae9d2493225f677]
 
-- (a) in paragraph (2) for the definition of “the Council Regulation” there shall be substituted the following definition— *(affected by repeal, see note)*[^key-4287226919bdcd7c9ae9d2493225f677]
+- (a) in paragraph (2) for the definition of “the Council Regulation” there shall be substituted the following definition— *(affected by repeal, see note)*[^c-4287226919bdcd7c9ae9d2493225f677]
 
-  > “**the Council Regulation *(affected by repeal, see note)*[^key-4287226919bdcd7c9ae9d2493225f677]**” means Council Regulation *(affected by repeal, see note)*[^key-4287226919bdcd7c9ae9d2493225f677] [(EC *(affected by repeal, see note)*) No. *(affected by repeal, see note)* 73/2009](https://www.legislation.gov.uk/european/regulation/2009/0073)[^key-4287226919bdcd7c9ae9d2493225f677][^key-4287226919bdcd7c9ae9d2493225f677] establishing common rules for direct support schemes for farmers under the common agricultural policy and establishing certain support schemes for farmers as last amended by Regulation ( *(affected by repeal, see note)*[^key-4287226919bdcd7c9ae9d2493225f677]EU *(affected by repeal, see note)*[^key-4287226919bdcd7c9ae9d2493225f677]) No 1310/2013 of the European Parliament and of the Council *(affected by repeal, see note)*[^key-4287226919bdcd7c9ae9d2493225f677] [^c21984131]**;**
+  > “**the Council Regulation *(affected by repeal, see note)*[^c-4287226919bdcd7c9ae9d2493225f677]**” means Council Regulation *(affected by repeal, see note)*[^c-4287226919bdcd7c9ae9d2493225f677] [(EC *(affected by repeal, see note)*) No. *(affected by repeal, see note)* 73/2009](https://www.legislation.gov.uk/european/regulation/2009/0073)[^c-4287226919bdcd7c9ae9d2493225f677][^c-4287226919bdcd7c9ae9d2493225f677] establishing common rules for direct support schemes for farmers under the common agricultural policy and establishing certain support schemes for farmers as last amended by Regulation ( *(affected by repeal, see note)*[^c-4287226919bdcd7c9ae9d2493225f677]EU *(affected by repeal, see note)*[^c-4287226919bdcd7c9ae9d2493225f677]) No 1310/2013 of the European Parliament and of the Council *(affected by repeal, see note)*[^c-4287226919bdcd7c9ae9d2493225f677] [^c21984131]**;**
 
   ;
-- (b) paragraph (3) is revoked. *(affected by repeal, see note)*[^key-4287226919bdcd7c9ae9d2493225f677]
+- (b) paragraph (3) is revoked. *(affected by repeal, see note)*[^c-4287226919bdcd7c9ae9d2493225f677]
 
 ## 4.
 
-In regulation 6(1)(a) (Competent Control Authority) there shall be added at the end the words *(affected by repeal, see note)*[^key-4287226919bdcd7c9ae9d2493225f677] “ and the requirements and standards set out in paragraph 9B of the Schedule ” *(affected by repeal, see note)*[^key-4287226919bdcd7c9ae9d2493225f677].
+In regulation 6(1)(a) (Competent Control Authority) there shall be added at the end the words *(affected by repeal, see note)*[^c-4287226919bdcd7c9ae9d2493225f677] “ and the requirements and standards set out in paragraph 9B of the Schedule ” *(affected by repeal, see note)*[^c-4287226919bdcd7c9ae9d2493225f677].
 
 ## 5.
 
-In the Schedule (STANDARDS OF GOOD AGRICULTURAL AND ENVIRONMENTAL CONDITION)— *(affected by repeal, see note)*[^key-4287226919bdcd7c9ae9d2493225f677]
+In the Schedule (STANDARDS OF GOOD AGRICULTURAL AND ENVIRONMENTAL CONDITION)— *(affected by repeal, see note)*[^c-4287226919bdcd7c9ae9d2493225f677]
 
-- (a) after paragraph 9A (Irrigation Authorisations) there shall be inserted the following paragraph— *(affected by repeal, see note)*[^key-4287226919bdcd7c9ae9d2493225f677]
+- (a) after paragraph 9A (Irrigation Authorisations) there shall be inserted the following paragraph— *(affected by repeal, see note)*[^c-4287226919bdcd7c9ae9d2493225f677]
 
-  > **9B. Protection of groundwater against pollution (affected by repeal, see note)[^key-4287226919bdcd7c9ae9d2493225f677]**
+  > **9B. Protection of groundwater against pollution (affected by repeal, see note)[^c-4287226919bdcd7c9ae9d2493225f677]**
   >
-  > (1) A contravention of— *(affected by repeal, see note)*[^key-4287226919bdcd7c9ae9d2493225f677]
+  > (1) A contravention of— *(affected by repeal, see note)*[^c-4287226919bdcd7c9ae9d2493225f677]
   >
-  > - (a) Article 7 of the Water Order *(affected by repeal, see note)*[^key-4287226919bdcd7c9ae9d2493225f677] [^c21984141] in so far as it relates to groundwater; or *(affected by repeal, see note)*[^key-4287226919bdcd7c9ae9d2493225f677]
-  > - (b) regulation 19(1) of the Groundwater Regulations, constitutes a failure of cross compliance for the purposes of the Council Regulation. *(affected by repeal, see note)*[^key-4287226919bdcd7c9ae9d2493225f677]
+  > - (a) Article 7 of the Water Order *(affected by repeal, see note)*[^c-4287226919bdcd7c9ae9d2493225f677] [^c21984141] in so far as it relates to groundwater; or *(affected by repeal, see note)*[^c-4287226919bdcd7c9ae9d2493225f677]
+  > - (b) regulation 19(1) of the Groundwater Regulations, constitutes a failure of cross compliance for the purposes of the Council Regulation. *(affected by repeal, see note)*[^c-4287226919bdcd7c9ae9d2493225f677]
   >
-  > (2) A contravention of, or a failure to comply with— *(affected by repeal, see note)*[^key-4287226919bdcd7c9ae9d2493225f677]
+  > (2) A contravention of, or a failure to comply with— *(affected by repeal, see note)*[^c-4287226919bdcd7c9ae9d2493225f677]
   >
-  > - (a) any condition of a consent under Article 7A(3)(a) of the Water Order in so far as the condition relates to groundwater; *(affected by repeal, see note)*[^key-4287226919bdcd7c9ae9d2493225f677]
-  > - (b) any condition of an authorisation under regulation 19 of the Groundwater Regulations; or *(affected by repeal, see note)*[^key-4287226919bdcd7c9ae9d2493225f677]
-  > - (c) a notice or any condition of a notice served under regulation 24 or 25 of the Groundwater Regulations, constitutes a failure of cross compliance for the purposes of the Council Regulation. *(affected by repeal, see note)*[^key-4287226919bdcd7c9ae9d2493225f677]
+  > - (a) any condition of a consent under Article 7A(3)(a) of the Water Order in so far as the condition relates to groundwater; *(affected by repeal, see note)*[^c-4287226919bdcd7c9ae9d2493225f677]
+  > - (b) any condition of an authorisation under regulation 19 of the Groundwater Regulations; or *(affected by repeal, see note)*[^c-4287226919bdcd7c9ae9d2493225f677]
+  > - (c) a notice or any condition of a notice served under regulation 24 or 25 of the Groundwater Regulations, constitutes a failure of cross compliance for the purposes of the Council Regulation. *(affected by repeal, see note)*[^c-4287226919bdcd7c9ae9d2493225f677]
   >
-  > (3) A farmer shall ensure that the requirements concerning the siting, operation and maintenance of sheep dipping facilities in the Code of Good Agricultural Practice for the Prevention of Pollution of Water, Air and Soil *(affected by repeal, see note)*[^key-4287226919bdcd7c9ae9d2493225f677] [^c21984151] are complied with. *(affected by repeal, see note)*[^key-4287226919bdcd7c9ae9d2493225f677]
+  > (3) A farmer shall ensure that the requirements concerning the siting, operation and maintenance of sheep dipping facilities in the Code of Good Agricultural Practice for the Prevention of Pollution of Water, Air and Soil *(affected by repeal, see note)*[^c-4287226919bdcd7c9ae9d2493225f677] [^c21984151] are complied with. *(affected by repeal, see note)*[^c-4287226919bdcd7c9ae9d2493225f677]
 
   ;
-- (b) in paragraph 10— *(affected by repeal, see note)*[^key-4287226919bdcd7c9ae9d2493225f677]
-  - (i) after the definition of “earthbank” there shall be inserted the following definition— *(affected by repeal, see note)*[^key-4287226919bdcd7c9ae9d2493225f677]
+- (b) in paragraph 10— *(affected by repeal, see note)*[^c-4287226919bdcd7c9ae9d2493225f677]
+  - (i) after the definition of “earthbank” there shall be inserted the following definition— *(affected by repeal, see note)*[^c-4287226919bdcd7c9ae9d2493225f677]
 
-    > “**the Groundwater Regulations *(affected by repeal, see note)*[^key-4287226919bdcd7c9ae9d2493225f677]**” means the Groundwater Regulations (Northern Ireland) 2009 *(affected by repeal, see note)*[^key-4287226919bdcd7c9ae9d2493225f677] [^c21984161];
+    > “**the Groundwater Regulations *(affected by repeal, see note)*[^c-4287226919bdcd7c9ae9d2493225f677]**” means the Groundwater Regulations (Northern Ireland) 2009 *(affected by repeal, see note)*[^c-4287226919bdcd7c9ae9d2493225f677] [^c21984161];
 
     ;
-  - (ii (affected by repeal, see note))[^key-4287226919bdcd7c9ae9d2493225f677] after the definition of “undergrazing” there shall be inserted the following definition— *(affected by repeal, see note)*[^key-4287226919bdcd7c9ae9d2493225f677]
+  - (ii (affected by repeal, see note))[^c-4287226919bdcd7c9ae9d2493225f677] after the definition of “undergrazing” there shall be inserted the following definition— *(affected by repeal, see note)*[^c-4287226919bdcd7c9ae9d2493225f677]
 
-    > “**the Water Order *(affected by repeal, see note)*[^key-4287226919bdcd7c9ae9d2493225f677]**” means the Water (Northern Ireland) Order 1999 *(affected by repeal, see note)*[^key-4287226919bdcd7c9ae9d2493225f677] [^c21984171];
+    > “**the Water Order *(affected by repeal, see note)*[^c-4287226919bdcd7c9ae9d2493225f677]**” means the Water (Northern Ireland) Order 1999 *(affected by repeal, see note)*[^c-4287226919bdcd7c9ae9d2493225f677] [^c21984171];
 
     .
 
@@ -121,7 +121,7 @@ The Code of Good Agricultural Practice for the Prevention of Pollution of Water,
 
 ## Annotations
 
-[^key-4287226919bdcd7c9ae9d2493225f677]: Textual amendment: Regulations revoked with savings (1.1.2015) by [The Common Agricultural Policy Direct Payments and Support Schemes (Cross Compliance) Regulations (Northern Ireland) 2014 (S.R. 2014/291)](https://www.legislation.gov.uk/nisr/2014/291), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/291/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/291/schedule/2) (with [reg. 8(2)](https://www.legislation.gov.uk/nisr/2014/291/regulation/8/2))
+[^c-4287226919bdcd7c9ae9d2493225f677]: Textual amendment: Regulations revoked with savings (1.1.2015) by [The Common Agricultural Policy Direct Payments and Support Schemes (Cross Compliance) Regulations (Northern Ireland) 2014 (S.R. 2014/291)](https://www.legislation.gov.uk/nisr/2014/291), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/291/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/291/schedule/2) (with [reg. 8(2)](https://www.legislation.gov.uk/nisr/2014/291/regulation/8/2))
 
 [^c21984091]: Marginal citation: [S.I.2000/2812](https://www.legislation.gov.uk/uksi/2000/2812) to which there are amendments not relevant to the subject matter of these Regulations and [S.I.2000/3238](https://www.legislation.gov.uk/uksi/2000/3238)
 

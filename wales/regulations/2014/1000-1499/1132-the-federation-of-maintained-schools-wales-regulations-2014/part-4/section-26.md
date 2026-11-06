@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Federation comprising only community, community special and maintained nursery schools[^key-6ae6a8c3006cb470026d428e854d3b83]
+## 26. Federation comprising only community, community special and maintained nursery schools[^c-6ae6a8c3006cb470026d428e854d3b83]
 
 *Extent: E+W*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6ae6a8c3006cb470026d428e854d3b83]: Commencement: Reg. 26 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-6ae6a8c3006cb470026d428e854d3b83]: Commencement: Reg. 26 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
 
 [^f00018]: Footnote: Within the meaning of section 20 of, and Schedule 2 to, the 1998 Act and section 39(1) of the 2002 Act.

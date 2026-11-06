@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Provision of goods or services for permanent establishment[^key-eb8bc367e81ffca2beb5dcd718535bb7]
+## 23. Provision of goods or services for permanent establishment[^c-eb8bc367e81ffca2beb5dcd718535bb7]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eb8bc367e81ffca2beb5dcd718535bb7]: Textual amendment: [S. 23](https://www.legislation.gov.uk/ukpga/2009/4/section/23) omitted (for chargeable periods beginning on or after 1.1.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 7 paras. 6(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/6/b), [30](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/30)
+[^c-eb8bc367e81ffca2beb5dcd718535bb7]: Textual amendment: [S. 23](https://www.legislation.gov.uk/ukpga/2009/4/section/23) omitted (for chargeable periods beginning on or after 1.1.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 7 paras. 6(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/6/b), [30](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/30)

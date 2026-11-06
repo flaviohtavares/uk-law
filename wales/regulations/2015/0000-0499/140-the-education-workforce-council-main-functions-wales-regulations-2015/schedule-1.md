@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 2
 
-### PART 1 — Revocations[^key-787e954bfbab5a24e1b2e075fa551a43]
+### PART 1 — Revocations[^c-787e954bfbab5a24e1b2e075fa551a43]
 
 | *Regulations revoked* | *References* | *Extent of revocation* |
 | --- | --- | --- |
@@ -44,18 +44,18 @@ Regulation 2
 
 ### PART 2 — Savings and general transitional provisions
 
-#### 1. Probation decisions[^key-25d61a86fa64c6a1ddb9d16939f789a8]
+#### 1. Probation decisions[^c-25d61a86fa64c6a1ddb9d16939f789a8]
 
 In the case of a person who on 1 September 1992 had commenced but not completed a period of probation under regulation 14 of, and Schedule 6 to, the 1989 Regulations, regulation 14 of, and Schedule 6 to, the 1989 Regulations are to continue to have effect until all their provisions have been complied with.
 
-**2.**[^key-a4d0b8780f77ad3b665702d81c805527] Teachers who—
+**2.**[^c-a4d0b8780f77ad3b665702d81c805527] Teachers who—
 
 - (a) have been determined to be unsuitable for further employment as qualified teachers pursuant to paragraph 2(c) of Schedule 2 to the 1959 Regulations; or
 - (b) have received written notice under paragraph 5(2) of Schedule 6 to the 1982 Regulations,
 
 are not to carry out specified work in regulation 16 without the consent of the Welsh Ministers.
 
-#### 3. Disciplinary proceedings[^key-0f01c1ab653bfca55de657233d605c48]
+#### 3. Disciplinary proceedings[^c-0f01c1ab653bfca55de657233d605c48]
 
 Notwithstanding the revocation of the General Teaching Council for Wales (Disciplinary Functions) Regulations 2001[^f00026] (“the 2001 Regulations”)—
 
@@ -64,12 +64,12 @@ Notwithstanding the revocation of the General Teaching Council for Wales (Discip
 
 ## Annotations
 
-[^key-787e954bfbab5a24e1b2e075fa551a43]: Commencement: [Sch. 1 Pt. 1](https://www.legislation.gov.uk/wsi/2015/140/schedule/1/part/1) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)
+[^c-787e954bfbab5a24e1b2e075fa551a43]: Commencement: [Sch. 1 Pt. 1](https://www.legislation.gov.uk/wsi/2015/140/schedule/1/part/1) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)
 
-[^key-25d61a86fa64c6a1ddb9d16939f789a8]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/wsi/2015/140/schedule/1/paragraph/1) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)
+[^c-25d61a86fa64c6a1ddb9d16939f789a8]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/wsi/2015/140/schedule/1/paragraph/1) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)
 
-[^key-a4d0b8780f77ad3b665702d81c805527]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/wsi/2015/140/schedule/1/paragraph/2) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)
+[^c-a4d0b8780f77ad3b665702d81c805527]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/wsi/2015/140/schedule/1/paragraph/2) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)
 
-[^key-0f01c1ab653bfca55de657233d605c48]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/wsi/2015/140/schedule/1/paragraph/3) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)
+[^c-0f01c1ab653bfca55de657233d605c48]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/wsi/2015/140/schedule/1/paragraph/3) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)
 
 [^f00026]: Footnote: [S.I. 2001/1424 (W. 99)](https://www.legislation.gov.uk/wsi/2001/1424).

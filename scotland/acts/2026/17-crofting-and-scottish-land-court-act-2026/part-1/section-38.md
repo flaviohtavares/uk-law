@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 38. Enlargement of croft[^key-a9ac1f2bdbd11e76a7b1f91f655bf945]
+## 38. Enlargement of croft[^c-a9ac1f2bdbd11e76a7b1f91f655bf945]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a9ac1f2bdbd11e76a7b1f91f655bf945]: Commencement: S. 38 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
+[^c-a9ac1f2bdbd11e76a7b1f91f655bf945]: Commencement: S. 38 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 142. General interpretation of Act.[^c22561161][^key-96d5e5c453e7464f8b570f3d595d3d00]
+## 142. General interpretation of Act.[^c22561161][^c-96d5e5c453e7464f8b570f3d595d3d00]
 
 *Extent: E+W+S*
 
@@ -39,10 +39,10 @@ summary: ''
 - [^c13567171]...
 - [^c13567171]...
 - “**magistrates’ court**” has the same meaning[^c13567201] as in the [^c13567211]Magistrates’ Courts Act 1980;
-- [^key-0637db656f803ca84c3f2fa0a87ac6ef]...
-- **“national authority”[^key-24115a09156e7efc38fe28cd6ead713e]**—
+- [^c-0637db656f803ca84c3f2fa0a87ac6ef]...
+- **“national authority”[^c-24115a09156e7efc38fe28cd6ead713e]**—
   - (a) in relation to a function so far as exercisable within devolved competence, within the meaning of the Scotland Act 1998, means the Scottish Ministers;
-  - (aa) in relation to Wales, means the Welsh Ministers;[^key-ea64497ae67e3fa8163373d3189e1384]
+  - (aa) in relation to Wales, means the Welsh Ministers;[^c-ea64497ae67e3fa8163373d3189e1384]
   - (b) otherwise, means the Secretary of State
 - subject to section 111(3) and (4) of, and paragraph 11(2) and (3) of Schedule 12 to, this Act, “**owner**”, in relation to a vehicle which is subject to a hiring agreement or hire-purchase agreement, means the person in possession of the vehicle under that agreement;
 - “[^c13567221]**off-street parking accommodation**” means parking accommodation for motor vehicles off the highway or, in Scotland, off the road;
@@ -58,7 +58,7 @@ summary: ''
 - [^c13567171]...
 - “special road”, in England and Wales, has the same meaning as in the Highways Act 1980, and in Scotland has the same meaning as in the Roads (Scotland) Act 1984;[^c13567291]
 - “**statutory**”, in relation to any prohibition, restriction, requirement or provision, means contained in, or having effect under, any enactment (including any enactment contained in this Act);
-- “[^key-ac65305feb70bde5ca228d70221f7f37]**strategic highways company**” means a company appointed under section 1 of the Infrastructure Act 2015;
+- “[^c-ac65305feb70bde5ca228d70221f7f37]**strategic highways company**” means a company appointed under section 1 of the Infrastructure Act 2015;
 - “street parking place” and “off-street parking place” refer respectively to parking places on land which does, and on land which does not, form part of a road;
 - “[^c13567301]**traffic authority**” and “**local traffic authority**” have the meaning given by section 121A of this Act;
 - “**traffic sign**” has the meaning assigned to it by section 64(1) of this Act; and
@@ -81,7 +81,7 @@ summary: ''
 
 [^c22561161]: Modification: S. 142 applied (2.5.2006 for E., 11.5.2006 for W.) by [The Restricted Byways (Application and Consequential Amendment of Provisions) Regulations 2006 (S.I. 2006/1177)](https://www.legislation.gov.uk/uksi/2006/1177), [regs. 1(2)(4)](https://www.legislation.gov.uk/uksi/2006/1177/regulation/1/2/4), [2(1)](https://www.legislation.gov.uk/uksi/2006/1177/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2006/1177/schedule/part/1); [S.I. 2006/1172](https://www.legislation.gov.uk/uksi/2006/1172); [S.I. 2006/1279](https://www.legislation.gov.uk/uksi/2006/1279)
 
-[^key-96d5e5c453e7464f8b570f3d595d3d00]: Modification: S. 142 modified (S.) (3.5.2017) by [The Road Traffic (Permitted Parking Area and Special Parking Area) (Angus Council) Designation Order 2017 (S.S.I. 2017/79)](https://www.legislation.gov.uk/ssi/2017/79), [arts. 1](https://www.legislation.gov.uk/ssi/2017/79/article/1), [5](https://www.legislation.gov.uk/ssi/2017/79/article/5), [sch. 3 para. 7](https://www.legislation.gov.uk/ssi/2017/79/schedule/3/paragraph/7)
+[^c-96d5e5c453e7464f8b570f3d595d3d00]: Modification: S. 142 modified (S.) (3.5.2017) by [The Road Traffic (Permitted Parking Area and Special Parking Area) (Angus Council) Designation Order 2017 (S.S.I. 2017/79)](https://www.legislation.gov.uk/ssi/2017/79), [arts. 1](https://www.legislation.gov.uk/ssi/2017/79/article/1), [5](https://www.legislation.gov.uk/ssi/2017/79/article/5), [sch. 3 para. 7](https://www.legislation.gov.uk/ssi/2017/79/schedule/3/paragraph/7)
 
 [^c13567111]: Textual amendment: Definition inserted by [Parking Act 1989 (c. 16, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1989/16), [s. 4](https://www.legislation.gov.uk/ukpga/1989/16/section/4), [Sch. para. 8(a)](https://www.legislation.gov.uk/ukpga/1989/16/schedule/paragraph/8/a)
 
@@ -97,11 +97,11 @@ summary: ''
 
 [^c13567211]: Marginal citation: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43)**(82).**
 
-[^key-0637db656f803ca84c3f2fa0a87ac6ef]: Textual amendment: Words in s. 142(1) omitted (23.5.2016) by virtue of [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [s. 72(7)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/7), [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2016/11/schedule/2/paragraph/13)
+[^c-0637db656f803ca84c3f2fa0a87ac6ef]: Textual amendment: Words in s. 142(1) omitted (23.5.2016) by virtue of [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [s. 72(7)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/7), [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2016/11/schedule/2/paragraph/13)
 
-[^key-24115a09156e7efc38fe28cd6ead713e]: Textual amendment: Words in s. 142(1) inserted (23.5.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 41(18)](https://www.legislation.gov.uk/ukpga/2016/11/section/41/18), [72(7)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/7) (with [Sch. 2 paras. 34(2)](https://www.legislation.gov.uk/ukpga/2016/11/schedule/2/paragraph/34/2), [35(2)](https://www.legislation.gov.uk/ukpga/2016/11/schedule/2/paragraph/35/2))
+[^c-24115a09156e7efc38fe28cd6ead713e]: Textual amendment: Words in s. 142(1) inserted (23.5.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 41(18)](https://www.legislation.gov.uk/ukpga/2016/11/section/41/18), [72(7)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/7) (with [Sch. 2 paras. 34(2)](https://www.legislation.gov.uk/ukpga/2016/11/schedule/2/paragraph/34/2), [35(2)](https://www.legislation.gov.uk/ukpga/2016/11/schedule/2/paragraph/35/2))
 
-[^key-ea64497ae67e3fa8163373d3189e1384]: Textual amendment: Words in s. 142(1) inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 26(8)](https://www.legislation.gov.uk/ukpga/2017/4/section/26/8), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6), [9](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/9)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/f)
+[^c-ea64497ae67e3fa8163373d3189e1384]: Textual amendment: Words in s. 142(1) inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 26(8)](https://www.legislation.gov.uk/ukpga/2017/4/section/26/8), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6), [9](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/9)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/f)
 
 [^c13567221]: Textual amendment: S. 142(1): definition of "off-street parking accommodation" inserted (1.11.1991) by [New Roads and Street Works Act 1991 (c. 22, SIF 59, 108)](https://www.legislation.gov.uk/ukpga/1991/22), [s. 168(1)](https://www.legislation.gov.uk/ukpga/1991/22/section/168/1), [Sch. 8 para. 78(3)](https://www.legislation.gov.uk/ukpga/1991/22/schedule/8/paragraph/78/3); which insertion is in force for Scotland only by [S.I. 1991/2286](https://www.legislation.gov.uk/uksi/1991/2286), [art. 2(2)](https://www.legislation.gov.uk/uksi/1991/2286/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/1991/2286/schedule/2) and for England and Wales only by [S.I. 1991/2288](https://www.legislation.gov.uk/uksi/1991/2288), [art. 3](https://www.legislation.gov.uk/uksi/1991/2288/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1991/2288/schedule)
 
@@ -119,7 +119,7 @@ summary: ''
 
 [^c13567291]: Textual amendment: S. 142(1): definition of "special road" substituted (1.11.1991) by [New Roads and Street Works Act 1991 (c. 22, SIF 59, 108)](https://www.legislation.gov.uk/ukpga/1991/22), [s. 168(1)](https://www.legislation.gov.uk/ukpga/1991/22/section/168/1), [Sch. 8 para. 78(5)](https://www.legislation.gov.uk/ukpga/1991/22/schedule/8/paragraph/78/5); which substitution is in force for Scotland only by [S.I. 1991/2286](https://www.legislation.gov.uk/uksi/1991/2286), [art. 2(2)](https://www.legislation.gov.uk/uksi/1991/2286/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/1991/2286/schedule/2) and for England and Wales only by [S.I. 1991/2288](https://www.legislation.gov.uk/uksi/1991/2288), [art. 3](https://www.legislation.gov.uk/uksi/1991/2288/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1991/2288/schedule)
 
-[^key-ac65305feb70bde5ca228d70221f7f37]: Textual amendment: S. 142(1): definition of “strategic highways company” inserted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 99](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/99); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-ac65305feb70bde5ca228d70221f7f37]: Textual amendment: S. 142(1): definition of “strategic highways company” inserted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 99](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/99); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
 
 [^c13567301]: Textual amendment: S. 142(1): definition of "traffic authority" and "local traffic authority" inserted (1.11.1991) by [New Roads and Street Works Act 1991 (c. 22, SIF 59, 108)](https://www.legislation.gov.uk/ukpga/1991/22), [s. 168(1)](https://www.legislation.gov.uk/ukpga/1991/22/section/168/1), [Sch. 8 para. 78(6)](https://www.legislation.gov.uk/ukpga/1991/22/schedule/8/paragraph/78/6); which insertion is in force for Scotland only by [S.I. 1991/2286](https://www.legislation.gov.uk/uksi/1991/2286), [art. 2(2)](https://www.legislation.gov.uk/uksi/1991/2286/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/1991/2286/schedule/2) and for England and Wales only by [S.I. 1991/2288](https://www.legislation.gov.uk/uksi/1991/2288), [art. 3](https://www.legislation.gov.uk/uksi/1991/2288/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1991/2288/schedule)
 

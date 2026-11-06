@@ -32,7 +32,7 @@ summary: ''
 
 Roads And Bridges
 
-The Scottish Road Works Register (Prescribed Fees) Regulations 2022 (revoked)[^key-6875f004848611594352ffc9cce7ef04]
+The Scottish Road Works Register (Prescribed Fees) Regulations 2022 (revoked)[^c-6875f004848611594352ffc9cce7ef04]
 
 Made
 
@@ -46,38 +46,38 @@ Coming into force
 
 1st April 2022
 
-[^key-6875f004848611594352ffc9cce7ef04]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6875f004848611594352ffc9cce7ef04]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-6875f004848611594352ffc9cce7ef04]
+## 1. Citation and commencement[^c-6875f004848611594352ffc9cce7ef04]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-6875f004848611594352ffc9cce7ef04]
+## 2. Interpretation[^c-6875f004848611594352ffc9cce7ef04]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prescribed fees[^key-6875f004848611594352ffc9cce7ef04]
+## 3. Prescribed fees[^c-6875f004848611594352ffc9cce7ef04]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocation[^key-6875f004848611594352ffc9cce7ef04]
+## 4. Revocation[^c-6875f004848611594352ffc9cce7ef04]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6875f004848611594352ffc9cce7ef04]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6875f004848611594352ffc9cce7ef04]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — FIGURES FOR ROADS AUTHORITIES IN RELATION TO FORMULAE FOR CALCULATION OF PRESCRIBED FEES UNDER REGULATION 3(4) and (6)[^key-6875f004848611594352ffc9cce7ef04]
+## SCHEDULE — FIGURES FOR ROADS AUTHORITIES IN RELATION TO FORMULAE FOR CALCULATION OF PRESCRIBED FEES UNDER REGULATION 3(4) and (6)[^c-6875f004848611594352ffc9cce7ef04]
 
 Regulation 3(4) and (6)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6875f004848611594352ffc9cce7ef04]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6875f004848611594352ffc9cce7ef04]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6875f004848611594352ffc9cce7ef04]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2022/9) revoked (1.4.2024) by [The Road Works (Scottish Road Works Register Fees and Miscellaneous Amendment) Regulations 2024 (S.S.I. 2024/23)](https://www.legislation.gov.uk/ssi/2024/23), [regs. 1](https://www.legislation.gov.uk/ssi/2024/23/regulation/1), [4](https://www.legislation.gov.uk/ssi/2024/23/regulation/4)
+[^c-6875f004848611594352ffc9cce7ef04]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2022/9) revoked (1.4.2024) by [The Road Works (Scottish Road Works Register Fees and Miscellaneous Amendment) Regulations 2024 (S.S.I. 2024/23)](https://www.legislation.gov.uk/ssi/2024/23), [regs. 1](https://www.legislation.gov.uk/ssi/2024/23/regulation/1), [4](https://www.legislation.gov.uk/ssi/2024/23/regulation/4)

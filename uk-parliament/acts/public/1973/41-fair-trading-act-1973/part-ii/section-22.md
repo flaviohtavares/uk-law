@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Order of Secretary of State in pursuance of report on reference to which s. 17 applies.[^key-c101391fc0ebe7e909cec866967e9507]
+## 22. Order of Secretary of State in pursuance of report on reference to which s. 17 applies.[^c-c101391fc0ebe7e909cec866967e9507]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c101391fc0ebe7e909cec866967e9507]: Textual amendment: S. 22 repealed (1.4.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [ss. 10(1)(c)](https://www.legislation.gov.uk/ukpga/2002/40/section/10/1/c), [279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26) (with [s. 10(2)](https://www.legislation.gov.uk/ukpga/2002/40/section/10/2)); [S.I. 2003/766](https://www.legislation.gov.uk/uksi/2003/766), [art. 2](https://www.legislation.gov.uk/uksi/2003/766/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/766/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/766/article/3)) (as amended (20.7.2007) by [S.I. 2007/1846](https://www.legislation.gov.uk/uksi/2007/1846), reg. 3(2), Sch.)
+[^c-c101391fc0ebe7e909cec866967e9507]: Textual amendment: S. 22 repealed (1.4.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [ss. 10(1)(c)](https://www.legislation.gov.uk/ukpga/2002/40/section/10/1/c), [279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26) (with [s. 10(2)](https://www.legislation.gov.uk/ukpga/2002/40/section/10/2)); [S.I. 2003/766](https://www.legislation.gov.uk/uksi/2003/766), [art. 2](https://www.legislation.gov.uk/uksi/2003/766/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/766/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/766/article/3)) (as amended (20.7.2007) by [S.I. 2007/1846](https://www.legislation.gov.uk/uksi/2007/1846), reg. 3(2), Sch.)

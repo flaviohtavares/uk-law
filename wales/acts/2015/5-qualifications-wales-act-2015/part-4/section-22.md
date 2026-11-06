@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Conditions of approval[^key-8a53663b053c9fec563656e25f04d1d6]
+## 22. Conditions of approval[^c-8a53663b053c9fec563656e25f04d1d6]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ it must give notice to the awarding body of the new (or varied) conditions.
 
 ## Annotations
 
-[^key-8a53663b053c9fec563656e25f04d1d6]: Commencement: [S. 22](https://www.legislation.gov.uk/anaw/2015/5/section/22) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-8a53663b053c9fec563656e25f04d1d6]: Commencement: [S. 22](https://www.legislation.gov.uk/anaw/2015/5/section/22) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))

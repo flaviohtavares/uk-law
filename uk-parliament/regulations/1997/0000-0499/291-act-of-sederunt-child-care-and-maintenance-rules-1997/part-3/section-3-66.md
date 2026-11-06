@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.66. Extent of application of this Part[^key-81be76e554a5ea29d5dd95bcaaf77647][^key-f3a34936d71d830ba99d7ba2732e222a]
+## 3.66. Extent of application of this Part[^c-81be76e554a5ea29d5dd95bcaaf77647][^c-f3a34936d71d830ba99d7ba2732e222a]
 
 *Extent: S*
 
@@ -28,6 +28,6 @@ This Part of Chapter 3 shall apply to proceedings where—
 
 ## Annotations
 
-[^key-81be76e554a5ea29d5dd95bcaaf77647]: Textual amendment: Rule 3.66 substituted (1.2.2016) by [Act of Sederunt (Sheriff Court Rules Amendment) (Miscellaneous) 2015 (S.S.I. 2015/424)](https://www.legislation.gov.uk/ssi/2015/424), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/424/paragraph/1/2), [3(8)](https://www.legislation.gov.uk/ssi/2015/424/paragraph/3/8)
+[^c-81be76e554a5ea29d5dd95bcaaf77647]: Textual amendment: Rule 3.66 substituted (1.2.2016) by [Act of Sederunt (Sheriff Court Rules Amendment) (Miscellaneous) 2015 (S.S.I. 2015/424)](https://www.legislation.gov.uk/ssi/2015/424), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/424/paragraph/1/2), [3(8)](https://www.legislation.gov.uk/ssi/2015/424/paragraph/3/8)
 
-[^key-f3a34936d71d830ba99d7ba2732e222a]: Textual amendment: Ch. 3 Pt. 11 inserted (1.4.2005) by [Act of Sederunt (Child Care and Maintenance Rules) Amendment (Vulnerable Witnesses (Scotland) Act 2004) 2005 (S.S.I. 2005/190)](https://www.legislation.gov.uk/ssi/2005/190), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2005/190/rule/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2005/190/rule/1/1)
+[^c-f3a34936d71d830ba99d7ba2732e222a]: Textual amendment: Ch. 3 Pt. 11 inserted (1.4.2005) by [Act of Sederunt (Child Care and Maintenance Rules) Amendment (Vulnerable Witnesses (Scotland) Act 2004) 2005 (S.S.I. 2005/190)](https://www.legislation.gov.uk/ssi/2005/190), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2005/190/rule/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2005/190/rule/1/1)

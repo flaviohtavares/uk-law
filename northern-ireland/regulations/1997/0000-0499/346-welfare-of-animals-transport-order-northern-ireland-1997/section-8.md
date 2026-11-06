@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 8. Feeding and watering, travelling times and rest periods[^key-4994a61d538ce1e8eb0ae099675689d4]
+## 8. Feeding and watering, travelling times and rest periods[^c-4994a61d538ce1e8eb0ae099675689d4]
 
 *Extent: N.I.*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4994a61d538ce1e8eb0ae099675689d4]: Commencement: Art. 8 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
+[^c-4994a61d538ce1e8eb0ae099675689d4]: Commencement: Art. 8 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
 
 [^f00008]: Footnote: O.J. No. L224, 18.8.90, p. 42 to which there are amendments not relevant to this Order

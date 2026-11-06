@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 50. Employed earnings (applicants with no award of universal credit)[^key-a70eb39cfe3e7688b4a8288baea94f99]
+## 50. Employed earnings (applicants with no award of universal credit)[^c-a70eb39cfe3e7688b4a8288baea94f99]
 
 *Extent: S*
 
@@ -35,8 +35,8 @@ summary: ''
 - (g) any award of compensation made under section 112(4) or 117(3)(a) of the Employment Rights Act 1996 (remedies and compensation for unfair dismissal)[^f00154],
 - (h) any payment or remuneration made under section 28, 34, 64, 68 or 70 of the Employment Rights Act 1996 (right to guarantee payments, remuneration on suspension on medical or maternity grounds, complaints to employment tribunals)[^f00155],
 - (i) any such sum as is referred to in section 112 of the 1992 Act (certain sums to be earnings for social security purposes)[^f00156],
-- (j) any statutory sick pay, statutory maternity pay, statutory paternity pay, statutory neonatal care pay,[^key-18056c58c3f237f3f09ca158ab6f6c9f] statutory shared parental pay, statutory parental bereavement pay or statutory adoption pay, or a corresponding payment under any enactment having effect in Northern Ireland,
-- (k) any remuneration paid by or on behalf of an employer to an applicant who for the time being is on maternity leave, paternity leave, neonatal care leave,[^key-0a50472e92c25aa80b9a13f845670914] shared parental leave, parental bereavement leave or adoption leave or is absent from work because the applicant is ill, and
+- (j) any statutory sick pay, statutory maternity pay, statutory paternity pay, statutory neonatal care pay,[^c-18056c58c3f237f3f09ca158ab6f6c9f] statutory shared parental pay, statutory parental bereavement pay or statutory adoption pay, or a corresponding payment under any enactment having effect in Northern Ireland,
+- (k) any remuneration paid by or on behalf of an employer to an applicant who for the time being is on maternity leave, paternity leave, neonatal care leave,[^c-0a50472e92c25aa80b9a13f845670914] shared parental leave, parental bereavement leave or adoption leave or is absent from work because the applicant is ill, and
 - (l) the amount of any payment by way of a non-cash voucher which has been taken into account in the computation of a person’s earnings in accordance with Part 5 of schedule 3 of the Social Security (Contributions) Regulations 2001[^f00157].
 
 (3) Earnings do not include—
@@ -64,7 +64,7 @@ summary: ''
 
 ## Annotations
 
-[^key-a70eb39cfe3e7688b4a8288baea94f99]: Commencement: [Reg. 50](https://www.legislation.gov.uk/ssi/2021/249/regulation/50) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-a70eb39cfe3e7688b4a8288baea94f99]: Commencement: [Reg. 50](https://www.legislation.gov.uk/ssi/2021/249/regulation/50) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
 
 [^f00154]: Footnote: [1996 c.18](https://www.legislation.gov.uk/ukpga/1996/18). Section 112(4) was amended by paragraph 36 of schedule 7 of the Employment Act [2002 (c.22)](https://www.legislation.gov.uk/ukpga/2002/22) and schedule 9 of the Employment Relations Act [1999 (c.26)](https://www.legislation.gov.uk/ukpga/1999/26). Section 117(3)(a) was amended by paragraph 37 of schedule 7 of the Employment Act 2002.
 
@@ -72,9 +72,9 @@ summary: ''
 
 [^f00156]: Footnote: Section 112 was amended by paragraph 21 of schedule 3 of the Social Security Contributions (Transfer of Functions, etc.) Act [1999 (c.2)](https://www.legislation.gov.uk/ukpga/1999/2) and paragraph 51 of schedule 1 of the Employment Rights Act [1996 (c.18)](https://www.legislation.gov.uk/ukpga/1996/18).
 
-[^key-18056c58c3f237f3f09ca158ab6f6c9f]: Textual amendment: Words in [reg. 50(2)(j)](https://www.legislation.gov.uk/ssi/2021/249/regulation/50/2/j) inserted (25.6.2025) by [The Council Tax Reduction (Miscellaneous Amendment) (Scotland) (No. 3) Regulations 2025 (S.S.I. 2025/150)](https://www.legislation.gov.uk/ssi/2025/150), [regs. 1](https://www.legislation.gov.uk/ssi/2025/150/regulation/1), [3(5)(a)](https://www.legislation.gov.uk/ssi/2025/150/regulation/3/5/a)
+[^c-18056c58c3f237f3f09ca158ab6f6c9f]: Textual amendment: Words in [reg. 50(2)(j)](https://www.legislation.gov.uk/ssi/2021/249/regulation/50/2/j) inserted (25.6.2025) by [The Council Tax Reduction (Miscellaneous Amendment) (Scotland) (No. 3) Regulations 2025 (S.S.I. 2025/150)](https://www.legislation.gov.uk/ssi/2025/150), [regs. 1](https://www.legislation.gov.uk/ssi/2025/150/regulation/1), [3(5)(a)](https://www.legislation.gov.uk/ssi/2025/150/regulation/3/5/a)
 
-[^key-0a50472e92c25aa80b9a13f845670914]: Textual amendment: Words in [reg. 50(2)(k)](https://www.legislation.gov.uk/ssi/2021/249/regulation/50/2/k) inserted (25.6.2025) by [The Council Tax Reduction (Miscellaneous Amendment) (Scotland) (No. 3) Regulations 2025 (S.S.I. 2025/150)](https://www.legislation.gov.uk/ssi/2025/150), [regs. 1](https://www.legislation.gov.uk/ssi/2025/150/regulation/1), [3(5)(b)](https://www.legislation.gov.uk/ssi/2025/150/regulation/3/5/b)
+[^c-0a50472e92c25aa80b9a13f845670914]: Textual amendment: Words in [reg. 50(2)(k)](https://www.legislation.gov.uk/ssi/2021/249/regulation/50/2/k) inserted (25.6.2025) by [The Council Tax Reduction (Miscellaneous Amendment) (Scotland) (No. 3) Regulations 2025 (S.S.I. 2025/150)](https://www.legislation.gov.uk/ssi/2025/150), [regs. 1](https://www.legislation.gov.uk/ssi/2025/150/regulation/1), [3(5)(b)](https://www.legislation.gov.uk/ssi/2025/150/regulation/3/5/b)
 
 [^f00157]: Footnote: [S.I. 2001/1004](https://www.legislation.gov.uk/uksi/2001/1004). Part 5 of schedule 3 was amended by section 46 of the Finance Act [1988 (c.39)](https://www.legislation.gov.uk/ukpga/1988/39), section 89 of the Finance Act [1994 (c.9)](https://www.legislation.gov.uk/ukpga/1994/9), schedule 13 of the Finance Act [2004 (c.12)](https://www.legislation.gov.uk/ukpga/2004/12), sections 60 and 62 of the Finance Act [2006 (c.25)](https://www.legislation.gov.uk/ukpga/2006/25), [S.I. 2001/2412](https://www.legislation.gov.uk/uksi/2001/2412), [S.I. 2002/307](https://www.legislation.gov.uk/uksi/2002/307), [S.I. 2003/2958](https://www.legislation.gov.uk/uksi/2003/2958), [S.I. 2004/770](https://www.legislation.gov.uk/uksi/2004/770), [S.I. 2005/778](https://www.legislation.gov.uk/uksi/2005/778), [S.I. 2006/883](https://www.legislation.gov.uk/uksi/2006/883). [S.I. 2006/2003](https://www.legislation.gov.uk/uksi/2006/2003), [S.I. 2007/2091](https://www.legislation.gov.uk/uksi/2007/2091), [S.I. 2008/607](https://www.legislation.gov.uk/uksi/2008/607), [S.I. 2009/600](https://www.legislation.gov.uk/uksi/2009/600), S.I 2011/1000, [S.I. 2011/2700](https://www.legislation.gov.uk/uksi/2011/2700), [S.I. 2013/622](https://www.legislation.gov.uk/uksi/2013/622), [S.I. 2014/3228](https://www.legislation.gov.uk/uksi/2014/3228), [S.I. 2016/1027](https://www.legislation.gov.uk/uksi/2016/1027) and [S.I. 2018/120](https://www.legislation.gov.uk/uksi/2018/120).
 

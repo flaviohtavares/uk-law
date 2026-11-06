@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## SCHEDULE 4 — Compensation of Office-holders[^key-e2cde5c41e4a07ad20d7370baa05c5a0]
+## SCHEDULE 4 — Compensation of Office-holders[^c-e2cde5c41e4a07ad20d7370baa05c5a0]
 
 *Extent: E*
 
@@ -41,7 +41,7 @@ summary: ''
 **3.** (1) The amount of compensation payable to a person under this Schedule is—
 
 - (a) twelve months' stipend, and
-- (b) the amount that would be required by way of contribution under section 9(2) of the Church of England Pensions Measure 2018[^key-457fd54e4aca49d863cece63c08205a7] for twelve months' service by the person in the office in question on that stipend.
+- (b) the amount that would be required by way of contribution under section 9(2) of the Church of England Pensions Measure 2018[^c-457fd54e4aca49d863cece63c08205a7] for twelve months' service by the person in the office in question on that stipend.
 
 (2) In sub-paragraph (1), the references to a stipend are to the stipend that the person was receiving immediately before ceasing to hold the office in question.
 
@@ -146,8 +146,8 @@ summary: ''
 
 ## Annotations
 
-[^key-e2cde5c41e4a07ad20d7370baa05c5a0]: Textual amendment: Sch. 4 substituted (1.7.2018) by [Mission and Pastoral etc. (Amendment) Measure 2018 (No. 4)](https://www.legislation.gov.uk/ukcm/2018/4), [ss. 6(2)](https://www.legislation.gov.uk/ukcm/2018/4/section/6/2), [14(3)](https://www.legislation.gov.uk/ukcm/2018/4/section/14/3); [S.I. 2018/722](https://www.legislation.gov.uk/uksi/2018/722), [art. 2(a)](https://www.legislation.gov.uk/uksi/2018/722/article/2/a) (with [Sch. para. 3](https://www.legislation.gov.uk/uksi/2018/722/schedule/paragraph/3))
+[^c-e2cde5c41e4a07ad20d7370baa05c5a0]: Textual amendment: Sch. 4 substituted (1.7.2018) by [Mission and Pastoral etc. (Amendment) Measure 2018 (No. 4)](https://www.legislation.gov.uk/ukcm/2018/4), [ss. 6(2)](https://www.legislation.gov.uk/ukcm/2018/4/section/6/2), [14(3)](https://www.legislation.gov.uk/ukcm/2018/4/section/14/3); [S.I. 2018/722](https://www.legislation.gov.uk/uksi/2018/722), [art. 2(a)](https://www.legislation.gov.uk/uksi/2018/722/article/2/a) (with [Sch. para. 3](https://www.legislation.gov.uk/uksi/2018/722/schedule/paragraph/3))
 
-[^key-457fd54e4aca49d863cece63c08205a7]: Textual amendment: Words in [Sch. 4 para. 3(1)(b)](https://www.legislation.gov.uk/ukcm/2011/3/schedule/4/paragraph/3/1/b) substituted (1.3.2019) by [Church of England Pensions Measure 2018 (No. 9)](https://www.legislation.gov.uk/ukcm/2018/9), [s. 61(2)](https://www.legislation.gov.uk/ukcm/2018/9/section/61/2), [Sch. 3 para. 6](https://www.legislation.gov.uk/ukcm/2018/9/schedule/3/paragraph/6); [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
+[^c-457fd54e4aca49d863cece63c08205a7]: Textual amendment: Words in [Sch. 4 para. 3(1)(b)](https://www.legislation.gov.uk/ukcm/2011/3/schedule/4/paragraph/3/1/b) substituted (1.3.2019) by [Church of England Pensions Measure 2018 (No. 9)](https://www.legislation.gov.uk/ukcm/2018/9), [s. 61(2)](https://www.legislation.gov.uk/ukcm/2018/9/section/61/2), [Sch. 3 para. 6](https://www.legislation.gov.uk/ukcm/2018/9/schedule/3/paragraph/6); [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
 
 [^M_F_cce44263-da5b-47ac-b95c-715f8828e27c]: Textual amendment: Words in Sch. 4 para. 7(5) substituted (retrospectively) by [Church of England (Miscellaneous Provisions) Measure 2018 (No. 7)](https://www.legislation.gov.uk/ukcm/2018/7), [ss. 8(9)](https://www.legislation.gov.uk/ukcm/2018/7/section/8/9), [11(8)(c)](https://www.legislation.gov.uk/ukcm/2018/7/section/11/8/c), [17(2)(b)](https://www.legislation.gov.uk/ukcm/2018/7/section/17/2/b)

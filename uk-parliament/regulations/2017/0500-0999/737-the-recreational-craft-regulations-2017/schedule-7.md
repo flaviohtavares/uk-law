@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 7 — (Annex VII of the Directive) — CONFORMITY OF PRODUCTION ASSESSMENT FOR EXHAUST AND NOISE EMISSIONS[^key-1baeaa1e1ccba077acb9f87abe6e2da6]
+## SCHEDULE 7 — (Annex VII of the Directive) — CONFORMITY OF PRODUCTION ASSESSMENT FOR EXHAUST AND NOISE EMISSIONS[^c-1baeaa1e1ccba077acb9f87abe6e2da6]
 
 *Extent: E+W+S+N.I.*
 
 Regulation 51
 
-- For verifying the conformity of an engine family, a sample of engines shall be taken from the series. The manufacturer shall decide the size (n) of the sample, in agreement with the notified *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-cc210378bf2a105eb4c5216ef398c1bc] approved *(Extent: E+W+S)* body.
+- For verifying the conformity of an engine family, a sample of engines shall be taken from the series. The manufacturer shall decide the size (n) of the sample, in agreement with the notified *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-cc210378bf2a105eb4c5216ef398c1bc] approved *(Extent: E+W+S)* body.
 - The arithmetical mean X of the results obtained from the sample shall be calculated for each regulated component of the exhaust and noise emission. The production of the series shall be deemed to conform to the requirements (‘pass decision’) if the following condition is met:
 
   [formula: see source](https://www.legislation.gov.uk/uksi/2017/737)
@@ -63,6 +63,6 @@ Regulation 51
 
 ## Annotations
 
-[^key-1baeaa1e1ccba077acb9f87abe6e2da6]: Commencement: Sch. 7 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)
+[^c-1baeaa1e1ccba077acb9f87abe6e2da6]: Commencement: Sch. 7 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)
 
-[^key-cc210378bf2a105eb4c5216ef398c1bc]: Textual amendment: Word in [Sch. 7 para. 1](https://www.legislation.gov.uk/uksi/2017/737/schedule/7/paragraph/1) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 28 para. 48](https://www.legislation.gov.uk/uksi/2019/696/schedule/28/paragraph/48) (with [Sch. 28 para. 41](https://www.legislation.gov.uk/uksi/2019/696/schedule/28/paragraph/41)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cc210378bf2a105eb4c5216ef398c1bc]: Textual amendment: Word in [Sch. 7 para. 1](https://www.legislation.gov.uk/uksi/2017/737/schedule/7/paragraph/1) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 28 para. 48](https://www.legislation.gov.uk/uksi/2019/696/schedule/28/paragraph/48) (with [Sch. 28 para. 41](https://www.legislation.gov.uk/uksi/2019/696/schedule/28/paragraph/41)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

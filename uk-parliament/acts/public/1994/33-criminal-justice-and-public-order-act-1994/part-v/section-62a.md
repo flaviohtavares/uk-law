@@ -50,7 +50,7 @@ summary: ''
   - (b) managed by a relevant site manager;
 - “ **relevant site manager** ” means—
   - (a) a local authority within whose area the land is situated;
-  - (aa) a private registered provider of social housing;[^key-12e9548c30e511b75b706a14e8968bca]
+  - (aa) a private registered provider of social housing;[^c-12e9548c30e511b75b706a14e8968bca]
   - (b) a registered social landlord;
 - “ **registered social landlord** ” means a body registered as a social landlord under Chapter 1 of Part 1 of the Housing Act 1996.
 
@@ -62,4 +62,4 @@ summary: ''
 
 [^c19808851]: Textual amendment: S. 62A inserted (E.W.) (27.2.2004) by Anti-social [Behaviour Act 2003 (c. 38)](https://www.legislation.gov.uk/ukpga/2003/38), [ss. 60](https://www.legislation.gov.uk/ukpga/2003/38/section/60), [93](https://www.legislation.gov.uk/ukpga/2003/38/section/93); [S.I. 2003/3300](https://www.legislation.gov.uk/uksi/2003/3300), [art. 3(b)](https://www.legislation.gov.uk/uksi/2003/3300/article/3/b)
 
-[^key-12e9548c30e511b75b706a14e8968bca]: Textual amendment: Words in [s. 62A(6)](https://www.legislation.gov.uk/ukpga/1994/33/section/62A/6) inserted (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 2 para. 80](https://www.legislation.gov.uk/uksi/2010/866/schedule/2/paragraph/80) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/866/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/866/schedule/3))
+[^c-12e9548c30e511b75b706a14e8968bca]: Textual amendment: Words in [s. 62A(6)](https://www.legislation.gov.uk/ukpga/1994/33/section/62A/6) inserted (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 2 para. 80](https://www.legislation.gov.uk/uksi/2010/866/schedule/2/paragraph/80) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/866/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/866/schedule/3))

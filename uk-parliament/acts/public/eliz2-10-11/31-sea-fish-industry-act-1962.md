@@ -43,7 +43,7 @@ An Act to make further provision, by way of financial assistance and otherwise, 
 
 ## 16. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c627338]
 
-## 17. Exemption for operations for scientific and other purposes.[^key-85056b8dc20b65e052da4f1788d346ee]
+## 17. Exemption for operations for scientific and other purposes.[^c-85056b8dc20b65e052da4f1788d346ee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -144,7 +144,7 @@ This Act may be cited as the Sea Fish Industry Act 1962.
 
 [^c627338]: Textual amendment: [Ss. 16](https://www.legislation.gov.uk/ukpga/Eliz2/10-11/31/section/16), [36(1)](https://www.legislation.gov.uk/ukpga/Eliz2/10-11/31/section/36/1) repealed by [Sea Fisheries Act 1968 (c. 77)](https://www.legislation.gov.uk/ukpga/1968/77), [Sch. 2 Pt. II](https://www.legislation.gov.uk/ukpga/1968/77/schedule/2/part/II)
 
-[^key-85056b8dc20b65e052da4f1788d346ee]: Textual amendment: S. 17 repealed (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/1) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-85056b8dc20b65e052da4f1788d346ee]: Textual amendment: S. 17 repealed (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/1) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
 [^c627345]: Textual amendment: [S. 18](https://www.legislation.gov.uk/ukpga/Eliz2/10-11/31/section/18) repealed (prosp.) by [Sea Fisheries Act 1968 (c. 77)](https://www.legislation.gov.uk/ukpga/1968/77), [s.23(2)](https://www.legislation.gov.uk/ukpga/1968/77/section/23/2), [Sch. 2 Pt. II](https://www.legislation.gov.uk/ukpga/1968/77/schedule/2/part/II)
 

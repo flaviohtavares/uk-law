@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 62. Penalties[^key-70680b79bae54c873f102ee3e20eac13]
+## 62. Penalties[^c-70680b79bae54c873f102ee3e20eac13]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ A person guilty of an offence under regulation 61 is liable—
 
 ## Annotations
 
-[^key-70680b79bae54c873f102ee3e20eac13]: Commencement: Reg. 62 in force at 8.12.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/1/1)
+[^c-70680b79bae54c873f102ee3e20eac13]: Commencement: Reg. 62 in force at 8.12.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Public interest interventions in markets investigations[^key-183f089e547308954febe9c7bfe27ccc]
+## 35. Public interest interventions in markets investigations[^c-183f089e547308954febe9c7bfe27ccc]
 
 *Extent: E+W+S+N.I.*
 
@@ -185,4 +185,4 @@ summary: ''
 
 ## Annotations
 
-[^key-183f089e547308954febe9c7bfe27ccc]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2013/24/section/35) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-183f089e547308954febe9c7bfe27ccc]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2013/24/section/35) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

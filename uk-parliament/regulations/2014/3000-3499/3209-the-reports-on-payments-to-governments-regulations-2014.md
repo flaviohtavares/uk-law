@@ -62,7 +62,7 @@ In accordance with paragraph 2(2) [^c22279781] of Schedule 2 to the European Com
 - “**affiliated undertakings**” means any two or more undertakings within a group;
 - “**Companies Act accounts**” has the meaning given by sections 395(1)(a) and 403(2)(a) of the Act;
 - “**consolidated report**” has the meaning given in regulation 8;
-- [^key-df6ab6467d1ede51f3aa802a347e03b0]...
+- [^c-df6ab6467d1ede51f3aa802a347e03b0]...
 - “**director**” means—
   - (a) in relation to a company—
     - (i) a director of the company, and any person occupying in relation to it the position of a director (by whatever name called), and
@@ -71,7 +71,7 @@ In accordance with paragraph 2(2) [^c22279781] of Schedule 2 to the European Com
   - (c) in relation to a limited partnership, a general partner; and
   - (d) in relation to a partnership, a partner;
 - “**electronic means**” has the meaning given in section 1168 of the Act;
-- “equivalent reporting requirements” are reporting requirements in any country or territory outside the United Kingdom that—[^key-67819451908136f9195bb86458473187]
+- “equivalent reporting requirements” are reporting requirements in any country or territory outside the United Kingdom that—[^c-67819451908136f9195bb86458473187]
   - ((a)) are equivalent to the reporting requirements in these Regulations, by virtue of regulation 12ZA(1); or
   - ((b)) are determined by the Secretary of State to be equivalent to the reporting requirements in these Regulations, in accordance with regulation 12ZA;
 - “**general partner**” has the same meaning as in the Limited Partnerships Act 1907 [^c22279801];
@@ -83,10 +83,10 @@ In accordance with paragraph 2(2) [^c22279781] of Schedule 2 to the European Com
   - (b) its net turnover on its balance sheet date exceeds £36 million;
   - (c) the average number of employees during the financial year to which the balance sheet relates exceeds 250;
 - “**limited partnership**” means a partnership formed in accordance with the Limited Partnerships Act 1907;
-- “[^key-970fa00618edfad3b46d61b8e616aeb1]**logging undertaking**” means an undertaking which undertakes in primary forests the activity referred to in the UK Standard Industrial Classification (SIC) by Economic Activity, as set out in Table 1 in the Schedule to these Regulations, issued under section 9 of the Statistics and Registration Services Act 2007 as updated from time to time;
-- “[^key-06d2aa28c4b14bb228e1c2d2a598f6c8]**mining or quarrying undertaking**” means an undertaking which performs any activity involving the exploration, prospection, discovery, development, and extraction of minerals, oil, natural gas deposits or other materials within the activities referred to in the UK Standard Industrial Classification (SIC) by Economic Activity, as set out in Table 2 in the Schedule to these Regulations, issued under section 9 of the Statistics and Registration Services Act 2007 as updated from time to time;
+- “[^c-970fa00618edfad3b46d61b8e616aeb1]**logging undertaking**” means an undertaking which undertakes in primary forests the activity referred to in the UK Standard Industrial Classification (SIC) by Economic Activity, as set out in Table 1 in the Schedule to these Regulations, issued under section 9 of the Statistics and Registration Services Act 2007 as updated from time to time;
+- “[^c-06d2aa28c4b14bb228e1c2d2a598f6c8]**mining or quarrying undertaking**” means an undertaking which performs any activity involving the exploration, prospection, discovery, development, and extraction of minerals, oil, natural gas deposits or other materials within the activities referred to in the UK Standard Industrial Classification (SIC) by Economic Activity, as set out in Table 2 in the Schedule to these Regulations, issued under section 9 of the Statistics and Registration Services Act 2007 as updated from time to time;
 - “**net turnover**” means the amounts derived from the sale of products and the provision of services after deducting sales rebates and value added tax and other taxes directly linked to turnover;
-- “**parent undertaking**” has the meaning given in the Act[^key-0938fe184ce7894ed81d47913986ab6f]...;
+- “**parent undertaking**” has the meaning given in the Act[^c-0938fe184ce7894ed81d47913986ab6f]...;
 - “**partnership**” means a partnership within the Partnership Act 1890 [^c22279821];
 - “**payment**” means an amount paid, whether in money or in kind, for relevant activities, where the payment is any of the following types—
   - (a) production entitlements;
@@ -102,7 +102,7 @@ In accordance with paragraph 2(2) [^c22279781] of Schedule 2 to the European Com
 - “**project**” means the operational activities which—
   - (a) are governed by a single contract, licence, lease, concession or similar legal agreement, and
   - (b) form the basis for payment liabilities with a government;
-- “[^key-d89862bf1cc22ef2c9bb7fe37fab6a9a]**public interest entity**” means an undertaking—
+- “[^c-d89862bf1cc22ef2c9bb7fe37fab6a9a]**public interest entity**” means an undertaking—
   - (a) whose transferable securities are admitted to trading on a UK regulated market;
   - (b) which is a credit institution within the meaning given by Article 4(1)(1) of Regulation (EU) No. 575/2013 of the European Parliament and of the Council, and a CRR firm within the meaning of Article 4(1)(2A) of that Regulation;
   - (c) which would be an insurance undertaking within the meaning of Article 2(1) of Council Directive [91/674/EEC](https://www.legislation.gov.uk/eudr/1991/674) of 19th December 1991 on the annual accounts of insurance undertakings were the United Kingdom a member State;
@@ -111,10 +111,10 @@ In accordance with paragraph 2(2) [^c22279781] of Schedule 2 to the European Com
   - (a) the activity as set out in Table 1 in the Schedule to these Regulations within primary forests; or
   - (b) any activity involving the exploration, prospection, discovery, development, and extraction of minerals, oil, natural gas deposits or other materials, within the activities listed in Table 2 in the Schedule to these Regulations;
 - “**report**” has the meaning given in regulation 4;
-- “**subsidiary undertaking**” has the meaning given in the Act[^key-504414652e8180af44af5de32d648ee2]...;
-- “[^key-d8b5d0f251877b881893b1c13f2c74c2]**transferable securities**” has the meaning given by section 1173 of the Act;
+- “**subsidiary undertaking**” has the meaning given in the Act[^c-504414652e8180af44af5de32d648ee2]...;
+- “[^c-d8b5d0f251877b881893b1c13f2c74c2]**transferable securities**” has the meaning given by section 1173 of the Act;
 - “**UK regulated market**” has the meaning given by section 1173 of the Act;
-- “UK undertaking” means—[^key-9ca22031e2b95843175ef983d0ab8ae0]
+- “UK undertaking” means—[^c-9ca22031e2b95843175ef983d0ab8ae0]
   - (a) a limited company;
   - (b) a limited liability partnership;
   - (c) a limited partnership, each of whose general partners is—
@@ -132,9 +132,9 @@ In accordance with paragraph 2(2) [^c22279781] of Schedule 2 to the European Com
     - (ii) an unlimited company each of whose members is a limited company,
     - (iii) a Scottish partnership which is not a limited partnership, each of whose members is a limited company, or
     - (iv) a Scottish partnership which is a limited partnership, each of whose general partners is a limited company;
-- “undertaking” has the meaning given in the Act.[^key-54459acfbb2c10441137f5b3333077d9]
+- “undertaking” has the meaning given in the Act.[^c-54459acfbb2c10441137f5b3333077d9]
 
-(2) The references in paragraphs (c)(i) to (iv), (d)(i) to (iv) and (e)(i) to (iv) of the definition of “[^key-c8ed07750945ab010f8f028f7c084c68]UK undertaking” to a limited company, an unlimited company, a Scottish partnership which is not a limited partnership or a Scottish partnership which is a limited partnership include a comparable undertaking incorporated in or formed under the law of a country or territory outside the United Kingdom; and in relation to such an undertaking the references in those paragraphs to the members and general partners are to be construed as references to the members of the undertaking comparable to members or general partners.
+(2) The references in paragraphs (c)(i) to (iv), (d)(i) to (iv) and (e)(i) to (iv) of the definition of “[^c-c8ed07750945ab010f8f028f7c084c68]UK undertaking” to a limited company, an unlimited company, a Scottish partnership which is not a limited partnership or a Scottish partnership which is a limited partnership include a comparable undertaking incorporated in or formed under the law of a country or territory outside the United Kingdom; and in relation to such an undertaking the references in those paragraphs to the members and general partners are to be construed as references to the members of the undertaking comparable to members or general partners.
 
 (3) An undertaking which is a large undertaking in a financial year does not cease to be a large undertaking because it no longer meets at least two of the criteria in the definition of “large undertaking” in the following financial year.
 
@@ -148,29 +148,29 @@ In accordance with paragraph 2(2) [^c22279781] of Schedule 2 to the European Com
 
 ## 3. Application and transitional provision
 
-(1) These Regulations apply in relation to a financial year of a[^key-a6d5e573a256b8f4aae98aef0f6ba48f] UK undertaking beginning on or after 1st January 2015 subject to paragraph (2).
+(1) These Regulations apply in relation to a financial year of a[^c-a6d5e573a256b8f4aae98aef0f6ba48f] UK undertaking beginning on or after 1st January 2015 subject to paragraph (2).
 
-(2) These Regulations do not apply in relation to a financial year beginning before 1st January 2016 of a[^key-4350b02b452b3c427e47c1e41c7b3faf] UK undertaking that is a subsidiary undertaking and whose parent undertaking is required to prepare consolidated group accounts in a member State other than the United Kingdom.
+(2) These Regulations do not apply in relation to a financial year beginning before 1st January 2016 of a[^c-4350b02b452b3c427e47c1e41c7b3faf] UK undertaking that is a subsidiary undertaking and whose parent undertaking is required to prepare consolidated group accounts in a member State other than the United Kingdom.
 
 ## PART 1 — REPORT ON PAYMENTS TO GOVERNMENTS
 
 ### 4. Duty to prepare report on payments to governments
 
-The directors of a[^key-67f958c061976d1b057d978d0636704c] UK undertaking must prepare a report annually on payments made to governments for each financial year of the undertaking (the “report”) if that undertaking is—
+The directors of a[^c-67f958c061976d1b057d978d0636704c] UK undertaking must prepare a report annually on payments made to governments for each financial year of the undertaking (the “report”) if that undertaking is—
 
 - (a) a large undertaking or a public interest entity; and
 - (b) a mining or quarrying undertaking or a logging undertaking.
 
 ### 5. Content of report
 
-(1) For each financial year, the report must state the following information in relation to the relevant activities of the[^key-1b789002621179fdc00052fed37741db] UK undertaking —
+(1) For each financial year, the report must state the following information in relation to the relevant activities of the[^c-1b789002621179fdc00052fed37741db] UK undertaking —
 
 - (a) the government to which each payment has been made, including the country of that government;
 - (b) the total amount of payments made to each government;
 - (c) the total amount per type of payment made to each government; and
 - (d) where those payments have been attributed to a specific project, the total amount per type of payment made for each such project and the total amount of payments for each such project.
 
-(2) Where a[^key-bf1a05385b5ede36497cfe75c096bb21] UK undertaking makes a payment that is not attributable to a specific project, that payment may be disclosed in the report without splitting or disaggregating the payment to allocate it to a specific project.
+(2) Where a[^c-bf1a05385b5ede36497cfe75c096bb21] UK undertaking makes a payment that is not attributable to a specific project, that payment may be disclosed in the report without splitting or disaggregating the payment to allocate it to a specific project.
 
 (3) A payment need not be taken into account in the report if—
 
@@ -185,9 +185,9 @@ The directors of a[^key-67f958c061976d1b057d978d0636704c] UK undertaking must pr
 
 ### 6. Exemption for subsidiaries or parent undertakings included in consolidated reports
 
-The directors of a[^key-3b083c31d661e8e9642395b07536cc5c] UK undertaking that is a subsidiary undertaking or a parent undertaking are exempt from preparing a report if the payments to governments made by the[^key-535aad3679d27d222073964575c7c87e] UK undertaking are included in the consolidated report drawn up by the parent undertaking in accordance with regulation 8.
+The directors of a[^c-3b083c31d661e8e9642395b07536cc5c] UK undertaking that is a subsidiary undertaking or a parent undertaking are exempt from preparing a report if the payments to governments made by the[^c-535aad3679d27d222073964575c7c87e] UK undertaking are included in the consolidated report drawn up by the parent undertaking in accordance with regulation 8.
 
-### 7.[^key-7182629d9fdffb8fd7dfec4242e4c55c]
+### 7.[^c-7182629d9fdffb8fd7dfec4242e4c55c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -195,13 +195,13 @@ The directors of a[^key-3b083c31d661e8e9642395b07536cc5c] UK undertaking that is
 
 ### 8. Duty to prepare a consolidated report
 
-(1) The directors of a parent undertaking which is a[^key-fecaded1b5ae833f4e7e665fe90d8707] UK undertaking must prepare a consolidated report annually on payments made to governments for each financial year of the parent undertaking (the “consolidated report”) if that undertaking is—
+(1) The directors of a parent undertaking which is a[^c-fecaded1b5ae833f4e7e665fe90d8707] UK undertaking must prepare a consolidated report annually on payments made to governments for each financial year of the parent undertaking (the “consolidated report”) if that undertaking is—
 
 - (a) a large undertaking or a public interest entity;
 - (b) a mining or quarrying undertaking or a logging undertaking; and
 - (c) obliged to prepare consolidated group accounts.
 
-(2) A parent undertaking which is a[^key-ce8610e49b390a35fcc2f21bc2137206] UK undertaking is a mining or quarrying undertaking or a logging undertaking if any of its subsidiary undertakings is a mining or quarrying undertaking or a logging undertaking.
+(2) A parent undertaking which is a[^c-ce8610e49b390a35fcc2f21bc2137206] UK undertaking is a mining or quarrying undertaking or a logging undertaking if any of its subsidiary undertakings is a mining or quarrying undertaking or a logging undertaking.
 
 ### 9. Content of consolidated report
 
@@ -236,7 +236,7 @@ The directors of a[^key-3b083c31d661e8e9642395b07536cc5c] UK undertaking that is
 
 - (a) a parent undertaking of a small group, except where any affiliated undertaking is a public interest entity;
 - (b) a parent undertaking of a medium-sized group, except where any affiliated undertaking is a public interest entity;
-- (c)[^key-e59c1a13463d058582de8a07b43aef93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-e59c1a13463d058582de8a07b43aef93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) A group is a “small group” if it consists of parent and subsidiary undertakings to be included in a consolidated report and which, on a consolidated basis, meets at least two of the three following criteria on the balance sheet date of the parent undertaking—
 
@@ -254,7 +254,7 @@ The directors of a[^key-3b083c31d661e8e9642395b07536cc5c] UK undertaking that is
 
 - “**net**” means after any set-offs and other adjustments made to eliminate group transactions—
   - (a) in the case of Companies Act accounts, in accordance with regulations under section 404 of the Act,
-  - (b) in the case of IAS accounts, in accordance with UK-adopted international accounting standards[^key-1b338431f3f30563717881cdcae2752d];
+  - (b) in the case of IAS accounts, in accordance with UK-adopted international accounting standards[^c-1b338431f3f30563717881cdcae2752d];
 - “**gross**” means without those set-offs and other adjustments.
 
 (5) A company may satisfy the criteria contained in paragraph (2) or (3) using either the net or the gross figure.
@@ -271,7 +271,7 @@ The directors of a[^key-3b083c31d661e8e9642395b07536cc5c] UK undertaking that is
 
 ## PART 3 — EQUIVALENT REPORTING REQUIREMENTS
 
-### 12ZA.[^key-84ceadd06c86e7dfe382f29cc91806a2]
+### 12ZA.[^c-84ceadd06c86e7dfe382f29cc91806a2]
 
 (1) Reporting requirements in any country or territory regarding the reporting of payments to governments that have been assessed by the European Commission as being equivalent to the requirements of Chapter 10 of Directive 2013/34/EU of the European Parliament and of the Council of 26th June 2013 on the annual financial statements, consolidated financial statements and related reports of certain types of undertakings , and were identified in an implementing act adopted before IP completion day by the European Commission in accordance with Article 47 of that Directive, are equivalent to the reporting requirements in these Regulations.
 
@@ -298,17 +298,17 @@ The directors of a[^key-3b083c31d661e8e9642395b07536cc5c] UK undertaking that is
 
 ### 12. Exemption from duty to prepare report
 
-The directors of a[^key-afcab66659707df54a59e55f801c08a0] UK undertaking are exempt from preparing a report if—
+The directors of a[^c-afcab66659707df54a59e55f801c08a0] UK undertaking are exempt from preparing a report if—
 
 - (a) the undertaking is subject to equivalent reporting requirements; and
 - (b) the payments to governments made by the undertaking are included in a report prepared in accordance with equivalent reporting requirements.
 
 ### 13. Exemption from duty to prepare report or consolidated report
 
-The directors of a[^key-9c62ab14931a289bfdaa7b215ad11d7e] UK undertaking that is a subsidiary undertaking or a parent undertaking are exempt from preparing a report or a consolidated report if—
+The directors of a[^c-9c62ab14931a289bfdaa7b215ad11d7e] UK undertaking that is a subsidiary undertaking or a parent undertaking are exempt from preparing a report or a consolidated report if—
 
 - (a) the parent undertaking is subject to equivalent reporting requirements; and
-- (b) the payments to governments made by the[^key-c21635d4e199ed11c332a83d7bde830c] UK undertaking are included in a consolidated report drawn up to the same date, or to an earlier date, in the same financial year, by that parent undertaking prepared in accordance with equivalent reporting requirements.
+- (b) the payments to governments made by the[^c-c21635d4e199ed11c332a83d7bde830c] UK undertaking are included in a consolidated report drawn up to the same date, or to an earlier date, in the same financial year, by that parent undertaking prepared in accordance with equivalent reporting requirements.
 
 ## PART 4 — DUTY TO DELIVER REPORTS AND INFORMATION
 
@@ -319,21 +319,21 @@ The directors of a[^key-9c62ab14931a289bfdaa7b215ad11d7e] UK undertaking that is
 - (a) a report in accordance with regulations 4 and 5; or
 - (b) a consolidated report prepared in accordance with regulations 8 and 9
 
-must deliver that report or consolidated report to the registrar within 11 months of the end of the financial year of the[^key-002299da72c03f2342e0b640fa6e91da] UK undertaking .
+must deliver that report or consolidated report to the registrar within 11 months of the end of the financial year of the[^c-002299da72c03f2342e0b640fa6e91da] UK undertaking .
 
-(2) For a[^key-90bf4e4678014afcbdf85d863a67fae8] UK undertaking that is a partnership or a limited partnership, the “financial year” is deemed to be the 12 calendar months ending on 5th April.
+(2) For a[^c-90bf4e4678014afcbdf85d863a67fae8] UK undertaking that is a partnership or a limited partnership, the “financial year” is deemed to be the 12 calendar months ending on 5th April.
 
 (3) A report or consolidated report delivered under this regulation must be delivered to the registrar by electronic means.
 
 ### 15. Duty to deliver equivalent reporting requirements information
 
-(1) The directors of a[^key-1ee190278877e98177b4688dd73294d0] UK undertaking that is exempt under regulation 12 or 13 from preparing a report or consolidated report must deliver to the registrar information contained in any report or consolidated report prepared in accordance with equivalent reporting requirements within 28 days after such report is made publicly available under the equivalent reporting requirements.
+(1) The directors of a[^c-1ee190278877e98177b4688dd73294d0] UK undertaking that is exempt under regulation 12 or 13 from preparing a report or consolidated report must deliver to the registrar information contained in any report or consolidated report prepared in accordance with equivalent reporting requirements within 28 days after such report is made publicly available under the equivalent reporting requirements.
 
 (2) Any document delivered under this regulation is specified for the purposes of section 1105(2)(d) of the Act as a document that may be drawn up and delivered to the registrar in a language other than English, but which must, when delivered to the registrar, be accompanied by a certified translation into English.
 
 (3) Information delivered under this regulation must be delivered to the registrar by electronic means.
 
-### 16. False statements: basic offence[^key-b03d7aa5e364dbdcd29fe73e558ab9e4]
+### 16. False statements: basic offence[^c-b03d7aa5e364dbdcd29fe73e558ab9e4]
 
 (1) It is an offence for a person, without reasonable excuse, to—
 
@@ -385,7 +385,7 @@ must deliver that report or consolidated report to the registrar within 11 month
 
 ### 17. Enforcement of undertaking's delivery obligations
 
-(1) This regulation applies where the registrar has reason to believe that a[^key-a40b7cfb45983333eaf13c454a9d8829] UK undertaking has failed to deliver a report or consolidated report in accordance with regulation 14.
+(1) This regulation applies where the registrar has reason to believe that a[^c-a40b7cfb45983333eaf13c454a9d8829] UK undertaking has failed to deliver a report or consolidated report in accordance with regulation 14.
 
 (2) The registrar must serve notice on the undertaking requiring it to—
 
@@ -412,10 +412,10 @@ must deliver that report or consolidated report to the registrar within 11 month
 - (b) it is not a mining or quarrying undertaking or a logging undertaking;
 - (c) it has not made any payments to a government that meet the threshold for inclusion in regulation 9(4);
 - (d) it is exempt under regulation 6 (inclusion in a consolidated report), and if so state the name of the undertaking that is delivering the consolidated report;
-- (e)[^key-c3c8c200407e15b175e7a59af8822089] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-c3c8c200407e15b175e7a59af8822089] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (f) it is exempt under regulation 10(1)(a) (being a parent undertaking of a small group);
 - (g) it is exempt under regulation 10(1)(b) (being a parent undertaking of a medium-sized group);
-- (h)[^key-e38f5f56b46463e89209f60cbbc0811d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (h)[^c-e38f5f56b46463e89209f60cbbc0811d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (i) it is excluded from a consolidated report because one of the conditions set out in regulation 11 applies, and if so state which condition and confirm that it has been excluded from the consolidated group accounts;
 - (j) it is exempt under regulation 12 (preparing a report in accordance with equivalent reporting requirements), and if so state which equivalent reporting requirements apply;
 - (k) it is exempt under regulation 13 (inclusion in a consolidated report prepared in accordance with equivalent reporting requirements), and if so state which equivalent reporting requirements apply and the name of the parent undertaking delivering the report.
@@ -439,7 +439,7 @@ must deliver that report or consolidated report to the registrar within 11 month
 
 ### 18.
 
-(1) This regulation applies where the registrar has reason to believe that a[^key-090b6554058668e5b279e0190f0029da] UK undertaking has failed to deliver equivalent reporting requirements information in accordance with regulation 15.
+(1) This regulation applies where the registrar has reason to believe that a[^c-090b6554058668e5b279e0190f0029da] UK undertaking has failed to deliver equivalent reporting requirements information in accordance with regulation 15.
 
 (2) The registrar must serve notice on the undertaking requiring it to—
 
@@ -475,7 +475,7 @@ must deliver that report or consolidated report to the registrar within 11 month
 
 ### 19. Default in delivering report: court order
 
-The court may, on the application of any member of the[^key-ca9827badc121eac259f4f7858f77539] UK undertaking or the registrar, make an order directing the directors (or any of them) within such time as may be specified in the order to make good a default if—
+The court may, on the application of any member of the[^c-ca9827badc121eac259f4f7858f77539] UK undertaking or the registrar, make an order directing the directors (or any of them) within such time as may be specified in the order to make good a default if—
 
 - (a) the requirements of regulation 14 or 15 have not been met; and
 - (b) the directors of the UK undertaking fail to make good the default within 28 days after the service of a notice on them requiring compliance.
@@ -498,7 +498,7 @@ The court may, on the application of any member of the[^key-ca9827badc121eac259f
 > </tbody>
 > </table>
 
-### 20A. Inspection etc. of records of documents delivered to the registrar under these Regulations by partnerships or limited partnerships[^key-f4947bb087ac253f29cd23ad5f1ff185]
+### 20A. Inspection etc. of records of documents delivered to the registrar under these Regulations by partnerships or limited partnerships[^c-f4947bb087ac253f29cd23ad5f1ff185]
 
 (1) The provisions of the Companies Act 2006 specified in the first column of Table A below, as modified in accordance with the third column of Table A, apply to partnerships and limited partnerships falling within the definition of “UK undertaking” in regulation 2(1); but in their application (or the application of any other provision by virtue of a modification set out in the third column of Table A) to such partnerships and limited partnerships they are to be read in accordance with paragraphs (2) and (3).
 
@@ -525,7 +525,7 @@ Table A
 | Section 1090(1), (2) and (4) | Form and manner in which copies to be provided | In subsection (2), omit the final sentence. |
 | Section 1091 | Certification of copies as accurate | For subsection (4) substitute—<br>“(4) Regulation 2 of the Companies (Registrar, Languages and Trading Disclosures) Regulations 2006 ([SI 2006/3429](https://www.legislation.gov.uk/uksi/2006/3429)) (certification of electronic copies by registrar) applies where the copy is provided in electronic form.”. |
 
-### 20B. Language requirements (translation) for documents delivered to the registrar under these Regulations by partnerships or limited partnerships[^key-f92247f9f42e7b543ebc2f1102c92f38]
+### 20B. Language requirements (translation) for documents delivered to the registrar under these Regulations by partnerships or limited partnerships[^c-f92247f9f42e7b543ebc2f1102c92f38]
 
 The provisions of the Companies Act 2006 specified in the first column of Table B below, as modified in accordance with the fourth column of Table B, apply in relation to the documents specified in the third column of Table B.
 
@@ -546,7 +546,7 @@ Table B
 - (b) set out the conclusions of the review in a report; and
 - (c) publish the report.
 
-(2)[^key-b092e2901924160ce7df3f19d42fc35c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-b092e2901924160ce7df3f19d42fc35c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The report must in particular—
 
@@ -568,13 +568,13 @@ Department for Business, Innovation and Skills
 
 Regulation 2(1)
 
-**[^key-3c685f5ef915c903167b1ab93d9050ec]...**
+**[^c-3c685f5ef915c903167b1ab93d9050ec]...**
 
 Table 1
 
 Section A - Agriculture, forestry and fishing
 
-| *Division* | *Group* | *Class* | *Description* | *UK Standard Industrial Classification of Economic Activities[^key-b2f6261dd48624d95782b69800cb0f8b]* |
+| *Division* | *Group* | *Class* | *Description* | *UK Standard Industrial Classification of Economic Activities[^c-b2f6261dd48624d95782b69800cb0f8b]* |
 | --- | --- | --- | --- | --- |
 | 02 | 02.2 | 02.20 | Logging | 0220 |
 
@@ -660,94 +660,94 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^c22279781]: Marginal citation: Paragraph 2(2) was amended by section 27(c) of the [Legislative and Regulatory Reform Act 2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51).
 
-[^key-df6ab6467d1ede51f3aa802a347e03b0]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/3209/regulation/2/1) omitted (31.12.2020 with effect in relation to financial years beginning on or after IP completion day) by virtue of [The Accounts and Reports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/145)](https://www.legislation.gov.uk/uksi/2019/145), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/145/regulation/1/2/b), [2](https://www.legislation.gov.uk/uksi/2019/145/regulation/2), [Sch. 3 para. 36(a)](https://www.legislation.gov.uk/uksi/2019/145/schedule/3/paragraph/36/a) (with [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/145/regulation/7/2)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2020/523/regulation/10), [11](https://www.legislation.gov.uk/uksi/2020/523/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-df6ab6467d1ede51f3aa802a347e03b0]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/3209/regulation/2/1) omitted (31.12.2020 with effect in relation to financial years beginning on or after IP completion day) by virtue of [The Accounts and Reports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/145)](https://www.legislation.gov.uk/uksi/2019/145), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/145/regulation/1/2/b), [2](https://www.legislation.gov.uk/uksi/2019/145/regulation/2), [Sch. 3 para. 36(a)](https://www.legislation.gov.uk/uksi/2019/145/schedule/3/paragraph/36/a) (with [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/145/regulation/7/2)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2020/523/regulation/10), [11](https://www.legislation.gov.uk/uksi/2020/523/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-67819451908136f9195bb86458473187]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/3209/regulation/2/1) substituted (31.12.2020 with effect in relation to financial years beginning on or after IP completion day) by [The Accounts and Reports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/145)](https://www.legislation.gov.uk/uksi/2019/145), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/145/regulation/1/2/b), [2](https://www.legislation.gov.uk/uksi/2019/145/regulation/2), [Sch. 3 para. 36(b)](https://www.legislation.gov.uk/uksi/2019/145/schedule/3/paragraph/36/b) (with [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/145/regulation/7/2)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2020/523/regulation/10), [11](https://www.legislation.gov.uk/uksi/2020/523/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-67819451908136f9195bb86458473187]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/3209/regulation/2/1) substituted (31.12.2020 with effect in relation to financial years beginning on or after IP completion day) by [The Accounts and Reports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/145)](https://www.legislation.gov.uk/uksi/2019/145), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/145/regulation/1/2/b), [2](https://www.legislation.gov.uk/uksi/2019/145/regulation/2), [Sch. 3 para. 36(b)](https://www.legislation.gov.uk/uksi/2019/145/schedule/3/paragraph/36/b) (with [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/145/regulation/7/2)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2020/523/regulation/10), [11](https://www.legislation.gov.uk/uksi/2020/523/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22279801]: Marginal citation: [1907 c.24](https://www.legislation.gov.uk/ukpga/1907/24).
 
-[^key-970fa00618edfad3b46d61b8e616aeb1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/3209/regulation/2/1) substituted (31.12.2020 with effect in relation to financial years beginning on or after IP completion day) by [The Accounts and Reports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/145)](https://www.legislation.gov.uk/uksi/2019/145), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/145/regulation/1/2/b), [2](https://www.legislation.gov.uk/uksi/2019/145/regulation/2), [Sch. 3 para. 36(c)](https://www.legislation.gov.uk/uksi/2019/145/schedule/3/paragraph/36/c) (with [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/145/regulation/7/2)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2020/523/regulation/10), [11](https://www.legislation.gov.uk/uksi/2020/523/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-970fa00618edfad3b46d61b8e616aeb1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/3209/regulation/2/1) substituted (31.12.2020 with effect in relation to financial years beginning on or after IP completion day) by [The Accounts and Reports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/145)](https://www.legislation.gov.uk/uksi/2019/145), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/145/regulation/1/2/b), [2](https://www.legislation.gov.uk/uksi/2019/145/regulation/2), [Sch. 3 para. 36(c)](https://www.legislation.gov.uk/uksi/2019/145/schedule/3/paragraph/36/c) (with [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/145/regulation/7/2)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2020/523/regulation/10), [11](https://www.legislation.gov.uk/uksi/2020/523/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-06d2aa28c4b14bb228e1c2d2a598f6c8]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/3209/regulation/2/1) substituted (31.12.2020 with effect in relation to financial years beginning on or after IP completion day) by [The Accounts and Reports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/145)](https://www.legislation.gov.uk/uksi/2019/145), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/145/regulation/1/2/b), [2](https://www.legislation.gov.uk/uksi/2019/145/regulation/2), [Sch. 3 para. 36(d)](https://www.legislation.gov.uk/uksi/2019/145/schedule/3/paragraph/36/d) (with [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/145/regulation/7/2)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2020/523/regulation/10), [11](https://www.legislation.gov.uk/uksi/2020/523/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-06d2aa28c4b14bb228e1c2d2a598f6c8]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/3209/regulation/2/1) substituted (31.12.2020 with effect in relation to financial years beginning on or after IP completion day) by [The Accounts and Reports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/145)](https://www.legislation.gov.uk/uksi/2019/145), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/145/regulation/1/2/b), [2](https://www.legislation.gov.uk/uksi/2019/145/regulation/2), [Sch. 3 para. 36(d)](https://www.legislation.gov.uk/uksi/2019/145/schedule/3/paragraph/36/d) (with [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/145/regulation/7/2)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2020/523/regulation/10), [11](https://www.legislation.gov.uk/uksi/2020/523/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0938fe184ce7894ed81d47913986ab6f]: Textual amendment: Words in reg. 2(1) omitted (18.12.2015) by virtue of [The Reports on Payments to Governments (Amendment) Regulations 2015 (S.I. 2015/1928)](https://www.legislation.gov.uk/uksi/2015/1928), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/2/2/a)
+[^c-0938fe184ce7894ed81d47913986ab6f]: Textual amendment: Words in reg. 2(1) omitted (18.12.2015) by virtue of [The Reports on Payments to Governments (Amendment) Regulations 2015 (S.I. 2015/1928)](https://www.legislation.gov.uk/uksi/2015/1928), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/2/2/a)
 
 [^c22279821]: Marginal citation: [1890 c.39](https://www.legislation.gov.uk/ukpga/1890/39).
 
-[^key-d89862bf1cc22ef2c9bb7fe37fab6a9a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/3209/regulation/2/1) substituted (31.12.2020 with effect in relation to financial years beginning on or after IP completion day) by [The Accounts and Reports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/145)](https://www.legislation.gov.uk/uksi/2019/145), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/145/regulation/1/2/b), [2](https://www.legislation.gov.uk/uksi/2019/145/regulation/2), [Sch. 3 para. 36(e)](https://www.legislation.gov.uk/uksi/2019/145/schedule/3/paragraph/36/e) (with [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/145/regulation/7/2)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2020/523/regulation/10), [11](https://www.legislation.gov.uk/uksi/2020/523/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d89862bf1cc22ef2c9bb7fe37fab6a9a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/3209/regulation/2/1) substituted (31.12.2020 with effect in relation to financial years beginning on or after IP completion day) by [The Accounts and Reports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/145)](https://www.legislation.gov.uk/uksi/2019/145), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/145/regulation/1/2/b), [2](https://www.legislation.gov.uk/uksi/2019/145/regulation/2), [Sch. 3 para. 36(e)](https://www.legislation.gov.uk/uksi/2019/145/schedule/3/paragraph/36/e) (with [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/145/regulation/7/2)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2020/523/regulation/10), [11](https://www.legislation.gov.uk/uksi/2020/523/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-504414652e8180af44af5de32d648ee2]: Textual amendment: Words in reg. 2(1) omitted (18.12.2015) by virtue of [The Reports on Payments to Governments (Amendment) Regulations 2015 (S.I. 2015/1928)](https://www.legislation.gov.uk/uksi/2015/1928), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/2/2/b)
+[^c-504414652e8180af44af5de32d648ee2]: Textual amendment: Words in reg. 2(1) omitted (18.12.2015) by virtue of [The Reports on Payments to Governments (Amendment) Regulations 2015 (S.I. 2015/1928)](https://www.legislation.gov.uk/uksi/2015/1928), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/2/2/b)
 
-[^key-d8b5d0f251877b881893b1c13f2c74c2]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/3209/regulation/2/1) inserted (31.12.2020 with effect in relation to financial years beginning on or after IP completion day) by [The Accounts and Reports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/145)](https://www.legislation.gov.uk/uksi/2019/145), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/145/regulation/1/2/b), [2](https://www.legislation.gov.uk/uksi/2019/145/regulation/2), [Sch. 3 para. 36(f)](https://www.legislation.gov.uk/uksi/2019/145/schedule/3/paragraph/36/f) (with [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/145/regulation/7/2)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2020/523/regulation/10), [11](https://www.legislation.gov.uk/uksi/2020/523/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d8b5d0f251877b881893b1c13f2c74c2]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/3209/regulation/2/1) inserted (31.12.2020 with effect in relation to financial years beginning on or after IP completion day) by [The Accounts and Reports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/145)](https://www.legislation.gov.uk/uksi/2019/145), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/145/regulation/1/2/b), [2](https://www.legislation.gov.uk/uksi/2019/145/regulation/2), [Sch. 3 para. 36(f)](https://www.legislation.gov.uk/uksi/2019/145/schedule/3/paragraph/36/f) (with [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/145/regulation/7/2)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2020/523/regulation/10), [11](https://www.legislation.gov.uk/uksi/2020/523/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9ca22031e2b95843175ef983d0ab8ae0]: Textual amendment: Words in reg. 2(1) substituted (18.12.2015) by [The Reports on Payments to Governments (Amendment) Regulations 2015 (S.I. 2015/1928)](https://www.legislation.gov.uk/uksi/2015/1928), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/2/2/c)
+[^c-9ca22031e2b95843175ef983d0ab8ae0]: Textual amendment: Words in reg. 2(1) substituted (18.12.2015) by [The Reports on Payments to Governments (Amendment) Regulations 2015 (S.I. 2015/1928)](https://www.legislation.gov.uk/uksi/2015/1928), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/2/2/c)
 
-[^key-54459acfbb2c10441137f5b3333077d9]: Textual amendment: Words in reg. 2(1) inserted (18.12.2015) by [The Reports on Payments to Governments (Amendment) Regulations 2015 (S.I. 2015/1928)](https://www.legislation.gov.uk/uksi/2015/1928), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/1/2), [2(2)(d)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/2/2/d)
+[^c-54459acfbb2c10441137f5b3333077d9]: Textual amendment: Words in reg. 2(1) inserted (18.12.2015) by [The Reports on Payments to Governments (Amendment) Regulations 2015 (S.I. 2015/1928)](https://www.legislation.gov.uk/uksi/2015/1928), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/1/2), [2(2)(d)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/2/2/d)
 
-[^key-c8ed07750945ab010f8f028f7c084c68]: Textual amendment: Words in reg. 2(2) substituted (18.12.2015) by [The Reports on Payments to Governments (Amendment) Regulations 2015 (S.I. 2015/1928)](https://www.legislation.gov.uk/uksi/2015/1928), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/2/3)
+[^c-c8ed07750945ab010f8f028f7c084c68]: Textual amendment: Words in reg. 2(2) substituted (18.12.2015) by [The Reports on Payments to Governments (Amendment) Regulations 2015 (S.I. 2015/1928)](https://www.legislation.gov.uk/uksi/2015/1928), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/2/3)
 
-[^key-a6d5e573a256b8f4aae98aef0f6ba48f]: Textual amendment: Words in reg. 3(1) substituted (18.12.2015) by [The Reports on Payments to Governments (Amendment) Regulations 2015 (S.I. 2015/1928)](https://www.legislation.gov.uk/uksi/2015/1928), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/2/4)
+[^c-a6d5e573a256b8f4aae98aef0f6ba48f]: Textual amendment: Words in reg. 3(1) substituted (18.12.2015) by [The Reports on Payments to Governments (Amendment) Regulations 2015 (S.I. 2015/1928)](https://www.legislation.gov.uk/uksi/2015/1928), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/2/4)
 
-[^key-4350b02b452b3c427e47c1e41c7b3faf]: Textual amendment: Words in reg. 3(2) substituted (18.12.2015) by [The Reports on Payments to Governments (Amendment) Regulations 2015 (S.I. 2015/1928)](https://www.legislation.gov.uk/uksi/2015/1928), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/2/4)
+[^c-4350b02b452b3c427e47c1e41c7b3faf]: Textual amendment: Words in reg. 3(2) substituted (18.12.2015) by [The Reports on Payments to Governments (Amendment) Regulations 2015 (S.I. 2015/1928)](https://www.legislation.gov.uk/uksi/2015/1928), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/2/4)
 
-[^key-67f958c061976d1b057d978d0636704c]: Textual amendment: Words in reg. 4 substituted (18.12.2015) by [The Reports on Payments to Governments (Amendment) Regulations 2015 (S.I. 2015/1928)](https://www.legislation.gov.uk/uksi/2015/1928), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/2/4)
+[^c-67f958c061976d1b057d978d0636704c]: Textual amendment: Words in reg. 4 substituted (18.12.2015) by [The Reports on Payments to Governments (Amendment) Regulations 2015 (S.I. 2015/1928)](https://www.legislation.gov.uk/uksi/2015/1928), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/2/4)
 
-[^key-1b789002621179fdc00052fed37741db]: Textual amendment: Words in reg. 5(1) substituted (18.12.2015) by [The Reports on Payments to Governments (Amendment) Regulations 2015 (S.I. 2015/1928)](https://www.legislation.gov.uk/uksi/2015/1928), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/2/5)
+[^c-1b789002621179fdc00052fed37741db]: Textual amendment: Words in reg. 5(1) substituted (18.12.2015) by [The Reports on Payments to Governments (Amendment) Regulations 2015 (S.I. 2015/1928)](https://www.legislation.gov.uk/uksi/2015/1928), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/2/5)
 
-[^key-bf1a05385b5ede36497cfe75c096bb21]: Textual amendment: Words in reg. 5(2) substituted (18.12.2015) by [The Reports on Payments to Governments (Amendment) Regulations 2015 (S.I. 2015/1928)](https://www.legislation.gov.uk/uksi/2015/1928), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/2/4)
+[^c-bf1a05385b5ede36497cfe75c096bb21]: Textual amendment: Words in reg. 5(2) substituted (18.12.2015) by [The Reports on Payments to Governments (Amendment) Regulations 2015 (S.I. 2015/1928)](https://www.legislation.gov.uk/uksi/2015/1928), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/2/4)
 
-[^key-3b083c31d661e8e9642395b07536cc5c]: Textual amendment: Words in reg. 6 substituted (18.12.2015) by [The Reports on Payments to Governments (Amendment) Regulations 2015 (S.I. 2015/1928)](https://www.legislation.gov.uk/uksi/2015/1928), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/2/4)
+[^c-3b083c31d661e8e9642395b07536cc5c]: Textual amendment: Words in reg. 6 substituted (18.12.2015) by [The Reports on Payments to Governments (Amendment) Regulations 2015 (S.I. 2015/1928)](https://www.legislation.gov.uk/uksi/2015/1928), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/2/4)
 
-[^key-535aad3679d27d222073964575c7c87e]: Textual amendment: Words in reg. 6 substituted (18.12.2015) by [The Reports on Payments to Governments (Amendment) Regulations 2015 (S.I. 2015/1928)](https://www.legislation.gov.uk/uksi/2015/1928), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/2/5)
+[^c-535aad3679d27d222073964575c7c87e]: Textual amendment: Words in reg. 6 substituted (18.12.2015) by [The Reports on Payments to Governments (Amendment) Regulations 2015 (S.I. 2015/1928)](https://www.legislation.gov.uk/uksi/2015/1928), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/2/5)
 
-[^key-7182629d9fdffb8fd7dfec4242e4c55c]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2014/3209/regulation/7) omitted (31.12.2020 with effect in relation to financial years beginning on or after IP completion day) by virtue of [The Accounts and Reports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/145)](https://www.legislation.gov.uk/uksi/2019/145), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/145/regulation/1/2/b), [2](https://www.legislation.gov.uk/uksi/2019/145/regulation/2), [Sch. 3 para. 38](https://www.legislation.gov.uk/uksi/2019/145/schedule/3/paragraph/38) (with [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/145/regulation/7/2)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2020/523/regulation/10), [11](https://www.legislation.gov.uk/uksi/2020/523/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7182629d9fdffb8fd7dfec4242e4c55c]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2014/3209/regulation/7) omitted (31.12.2020 with effect in relation to financial years beginning on or after IP completion day) by virtue of [The Accounts and Reports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/145)](https://www.legislation.gov.uk/uksi/2019/145), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/145/regulation/1/2/b), [2](https://www.legislation.gov.uk/uksi/2019/145/regulation/2), [Sch. 3 para. 38](https://www.legislation.gov.uk/uksi/2019/145/schedule/3/paragraph/38) (with [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/145/regulation/7/2)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2020/523/regulation/10), [11](https://www.legislation.gov.uk/uksi/2020/523/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-fecaded1b5ae833f4e7e665fe90d8707]: Textual amendment: Words in reg. 8(1) inserted (18.12.2015) by [The Reports on Payments to Governments (Amendment) Regulations 2015 (S.I. 2015/1928)](https://www.legislation.gov.uk/uksi/2015/1928), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/2/6)
+[^c-fecaded1b5ae833f4e7e665fe90d8707]: Textual amendment: Words in reg. 8(1) inserted (18.12.2015) by [The Reports on Payments to Governments (Amendment) Regulations 2015 (S.I. 2015/1928)](https://www.legislation.gov.uk/uksi/2015/1928), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/2/6)
 
-[^key-ce8610e49b390a35fcc2f21bc2137206]: Textual amendment: Words in reg. 8(2) inserted (18.12.2015) by [The Reports on Payments to Governments (Amendment) Regulations 2015 (S.I. 2015/1928)](https://www.legislation.gov.uk/uksi/2015/1928), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/2/6)
+[^c-ce8610e49b390a35fcc2f21bc2137206]: Textual amendment: Words in reg. 8(2) inserted (18.12.2015) by [The Reports on Payments to Governments (Amendment) Regulations 2015 (S.I. 2015/1928)](https://www.legislation.gov.uk/uksi/2015/1928), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/2/6)
 
-[^key-e59c1a13463d058582de8a07b43aef93]: Textual amendment: [Reg. 10(1)(c)](https://www.legislation.gov.uk/uksi/2014/3209/regulation/10/1/c) omitted (31.12.2020 with effect in relation to financial years beginning on or after IP completion day) by virtue of [The Accounts and Reports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/145)](https://www.legislation.gov.uk/uksi/2019/145), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/145/regulation/1/2/b), [2](https://www.legislation.gov.uk/uksi/2019/145/regulation/2), [Sch. 3 para. 39](https://www.legislation.gov.uk/uksi/2019/145/schedule/3/paragraph/39) (with [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/145/regulation/7/2)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2020/523/regulation/10), [11](https://www.legislation.gov.uk/uksi/2020/523/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e59c1a13463d058582de8a07b43aef93]: Textual amendment: [Reg. 10(1)(c)](https://www.legislation.gov.uk/uksi/2014/3209/regulation/10/1/c) omitted (31.12.2020 with effect in relation to financial years beginning on or after IP completion day) by virtue of [The Accounts and Reports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/145)](https://www.legislation.gov.uk/uksi/2019/145), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/145/regulation/1/2/b), [2](https://www.legislation.gov.uk/uksi/2019/145/regulation/2), [Sch. 3 para. 39](https://www.legislation.gov.uk/uksi/2019/145/schedule/3/paragraph/39) (with [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/145/regulation/7/2)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2020/523/regulation/10), [11](https://www.legislation.gov.uk/uksi/2020/523/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1b338431f3f30563717881cdcae2752d]: Textual amendment: Words in [reg. 10(4)](https://www.legislation.gov.uk/uksi/2014/3209/regulation/10/4) substituted (31.12.2020) by [The International Accounting Standards and European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/685)](https://www.legislation.gov.uk/uksi/2019/685), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/2), [Sch. 1 para. 61](https://www.legislation.gov.uk/uksi/2019/685/schedule/1/paragraph/61) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/4)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2020/523/regulation/22)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1b338431f3f30563717881cdcae2752d]: Textual amendment: Words in [reg. 10(4)](https://www.legislation.gov.uk/uksi/2014/3209/regulation/10/4) substituted (31.12.2020) by [The International Accounting Standards and European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/685)](https://www.legislation.gov.uk/uksi/2019/685), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/2), [Sch. 1 para. 61](https://www.legislation.gov.uk/uksi/2019/685/schedule/1/paragraph/61) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/4)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2020/523/regulation/22)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-84ceadd06c86e7dfe382f29cc91806a2]: Textual amendment: [Reg. 12ZA](https://www.legislation.gov.uk/uksi/2014/3209/regulation/12ZA) inserted (31.12.2020) by [The Accounts and Reports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/145)](https://www.legislation.gov.uk/uksi/2019/145), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/145/regulation/1/2/c), [Sch. 3 para. 37](https://www.legislation.gov.uk/uksi/2019/145/schedule/3/paragraph/37) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [12(b)](https://www.legislation.gov.uk/uksi/2020/523/regulation/12/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-84ceadd06c86e7dfe382f29cc91806a2]: Textual amendment: [Reg. 12ZA](https://www.legislation.gov.uk/uksi/2014/3209/regulation/12ZA) inserted (31.12.2020) by [The Accounts and Reports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/145)](https://www.legislation.gov.uk/uksi/2019/145), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/145/regulation/1/2/c), [Sch. 3 para. 37](https://www.legislation.gov.uk/uksi/2019/145/schedule/3/paragraph/37) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [12(b)](https://www.legislation.gov.uk/uksi/2020/523/regulation/12/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-afcab66659707df54a59e55f801c08a0]: Textual amendment: Words in reg. 12 substituted (18.12.2015) by [The Reports on Payments to Governments (Amendment) Regulations 2015 (S.I. 2015/1928)](https://www.legislation.gov.uk/uksi/2015/1928), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/2/4)
+[^c-afcab66659707df54a59e55f801c08a0]: Textual amendment: Words in reg. 12 substituted (18.12.2015) by [The Reports on Payments to Governments (Amendment) Regulations 2015 (S.I. 2015/1928)](https://www.legislation.gov.uk/uksi/2015/1928), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/2/4)
 
-[^key-9c62ab14931a289bfdaa7b215ad11d7e]: Textual amendment: Words in reg. 13 substituted (18.12.2015) by [The Reports on Payments to Governments (Amendment) Regulations 2015 (S.I. 2015/1928)](https://www.legislation.gov.uk/uksi/2015/1928), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/2/4)
+[^c-9c62ab14931a289bfdaa7b215ad11d7e]: Textual amendment: Words in reg. 13 substituted (18.12.2015) by [The Reports on Payments to Governments (Amendment) Regulations 2015 (S.I. 2015/1928)](https://www.legislation.gov.uk/uksi/2015/1928), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/2/4)
 
-[^key-c21635d4e199ed11c332a83d7bde830c]: Textual amendment: Words in reg. 13(b) substituted (18.12.2015) by [The Reports on Payments to Governments (Amendment) Regulations 2015 (S.I. 2015/1928)](https://www.legislation.gov.uk/uksi/2015/1928), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/2/5)
+[^c-c21635d4e199ed11c332a83d7bde830c]: Textual amendment: Words in reg. 13(b) substituted (18.12.2015) by [The Reports on Payments to Governments (Amendment) Regulations 2015 (S.I. 2015/1928)](https://www.legislation.gov.uk/uksi/2015/1928), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/2/5)
 
-[^key-002299da72c03f2342e0b640fa6e91da]: Textual amendment: Words in reg. 14(1) substituted (18.12.2015) by [The Reports on Payments to Governments (Amendment) Regulations 2015 (S.I. 2015/1928)](https://www.legislation.gov.uk/uksi/2015/1928), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/2/5)
+[^c-002299da72c03f2342e0b640fa6e91da]: Textual amendment: Words in reg. 14(1) substituted (18.12.2015) by [The Reports on Payments to Governments (Amendment) Regulations 2015 (S.I. 2015/1928)](https://www.legislation.gov.uk/uksi/2015/1928), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/2/5)
 
-[^key-90bf4e4678014afcbdf85d863a67fae8]: Textual amendment: Words in reg. 14(2) substituted (18.12.2015) by [The Reports on Payments to Governments (Amendment) Regulations 2015 (S.I. 2015/1928)](https://www.legislation.gov.uk/uksi/2015/1928), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/2/4)
+[^c-90bf4e4678014afcbdf85d863a67fae8]: Textual amendment: Words in reg. 14(2) substituted (18.12.2015) by [The Reports on Payments to Governments (Amendment) Regulations 2015 (S.I. 2015/1928)](https://www.legislation.gov.uk/uksi/2015/1928), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/2/4)
 
-[^key-1ee190278877e98177b4688dd73294d0]: Textual amendment: Words in reg. 15(1) substituted (18.12.2015) by [The Reports on Payments to Governments (Amendment) Regulations 2015 (S.I. 2015/1928)](https://www.legislation.gov.uk/uksi/2015/1928), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/2/4)
+[^c-1ee190278877e98177b4688dd73294d0]: Textual amendment: Words in reg. 15(1) substituted (18.12.2015) by [The Reports on Payments to Governments (Amendment) Regulations 2015 (S.I. 2015/1928)](https://www.legislation.gov.uk/uksi/2015/1928), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/2/4)
 
-[^key-b03d7aa5e364dbdcd29fe73e558ab9e4]: Textual amendment: [Regs. 16](https://www.legislation.gov.uk/uksi/2014/3209/regulation/16), [16BA](https://www.legislation.gov.uk/uksi/2014/3209/regulation/16BA) substituted for reg. 16 (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 212](https://www.legislation.gov.uk/ukpga/2023/56/section/212), [219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z65)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z65)
+[^c-b03d7aa5e364dbdcd29fe73e558ab9e4]: Textual amendment: [Regs. 16](https://www.legislation.gov.uk/uksi/2014/3209/regulation/16), [16BA](https://www.legislation.gov.uk/uksi/2014/3209/regulation/16BA) substituted for reg. 16 (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 212](https://www.legislation.gov.uk/ukpga/2023/56/section/212), [219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z65)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z65)
 
-[^key-a40b7cfb45983333eaf13c454a9d8829]: Textual amendment: Words in reg. 17(1) substituted (18.12.2015) by [The Reports on Payments to Governments (Amendment) Regulations 2015 (S.I. 2015/1928)](https://www.legislation.gov.uk/uksi/2015/1928), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/2/4)
+[^c-a40b7cfb45983333eaf13c454a9d8829]: Textual amendment: Words in reg. 17(1) substituted (18.12.2015) by [The Reports on Payments to Governments (Amendment) Regulations 2015 (S.I. 2015/1928)](https://www.legislation.gov.uk/uksi/2015/1928), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/2/4)
 
-[^key-c3c8c200407e15b175e7a59af8822089]: Textual amendment: [Reg. 17(7)(e)](https://www.legislation.gov.uk/uksi/2014/3209/regulation/17/7/e) omitted (31.12.2020 with effect in relation to financial years beginning on or after IP completion day) by virtue of [The Accounts and Reports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/145)](https://www.legislation.gov.uk/uksi/2019/145), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/145/regulation/1/2/b), [2](https://www.legislation.gov.uk/uksi/2019/145/regulation/2), [Sch. 3 para. 40(a)](https://www.legislation.gov.uk/uksi/2019/145/schedule/3/paragraph/40/a) (with [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/145/regulation/7/2)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2020/523/regulation/10), [11](https://www.legislation.gov.uk/uksi/2020/523/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c3c8c200407e15b175e7a59af8822089]: Textual amendment: [Reg. 17(7)(e)](https://www.legislation.gov.uk/uksi/2014/3209/regulation/17/7/e) omitted (31.12.2020 with effect in relation to financial years beginning on or after IP completion day) by virtue of [The Accounts and Reports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/145)](https://www.legislation.gov.uk/uksi/2019/145), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/145/regulation/1/2/b), [2](https://www.legislation.gov.uk/uksi/2019/145/regulation/2), [Sch. 3 para. 40(a)](https://www.legislation.gov.uk/uksi/2019/145/schedule/3/paragraph/40/a) (with [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/145/regulation/7/2)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2020/523/regulation/10), [11](https://www.legislation.gov.uk/uksi/2020/523/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e38f5f56b46463e89209f60cbbc0811d]: Textual amendment: [Reg. 17(7)(h)](https://www.legislation.gov.uk/uksi/2014/3209/regulation/17/7/h) omitted (31.12.2020 with effect in relation to financial years beginning on or after IP completion day) by virtue of [The Accounts and Reports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/145)](https://www.legislation.gov.uk/uksi/2019/145), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/145/regulation/1/2/b), [2](https://www.legislation.gov.uk/uksi/2019/145/regulation/2), [Sch. 3 para. 40(b)](https://www.legislation.gov.uk/uksi/2019/145/schedule/3/paragraph/40/b) (with [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/145/regulation/7/2)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2020/523/regulation/10), [11](https://www.legislation.gov.uk/uksi/2020/523/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e38f5f56b46463e89209f60cbbc0811d]: Textual amendment: [Reg. 17(7)(h)](https://www.legislation.gov.uk/uksi/2014/3209/regulation/17/7/h) omitted (31.12.2020 with effect in relation to financial years beginning on or after IP completion day) by virtue of [The Accounts and Reports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/145)](https://www.legislation.gov.uk/uksi/2019/145), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/145/regulation/1/2/b), [2](https://www.legislation.gov.uk/uksi/2019/145/regulation/2), [Sch. 3 para. 40(b)](https://www.legislation.gov.uk/uksi/2019/145/schedule/3/paragraph/40/b) (with [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/145/regulation/7/2)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2020/523/regulation/10), [11](https://www.legislation.gov.uk/uksi/2020/523/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-090b6554058668e5b279e0190f0029da]: Textual amendment: Words in reg. 18(1) substituted (18.12.2015) by [The Reports on Payments to Governments (Amendment) Regulations 2015 (S.I. 2015/1928)](https://www.legislation.gov.uk/uksi/2015/1928), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/2/4)
+[^c-090b6554058668e5b279e0190f0029da]: Textual amendment: Words in reg. 18(1) substituted (18.12.2015) by [The Reports on Payments to Governments (Amendment) Regulations 2015 (S.I. 2015/1928)](https://www.legislation.gov.uk/uksi/2015/1928), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/2/4)
 
-[^key-ca9827badc121eac259f4f7858f77539]: Textual amendment: Words in reg. 19 substituted (18.12.2015) by [The Reports on Payments to Governments (Amendment) Regulations 2015 (S.I. 2015/1928)](https://www.legislation.gov.uk/uksi/2015/1928), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/2/5)
+[^c-ca9827badc121eac259f4f7858f77539]: Textual amendment: Words in reg. 19 substituted (18.12.2015) by [The Reports on Payments to Governments (Amendment) Regulations 2015 (S.I. 2015/1928)](https://www.legislation.gov.uk/uksi/2015/1928), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/2/5)
 
 [^c22279871]: Marginal citation: Section 1078 was amended by [S.I. 2012/2301](https://www.legislation.gov.uk/uksi/2012/2301).
 
 [^c22279881]: Marginal citation: [S.I. 2009/1804](https://www.legislation.gov.uk/uksi/2009/1804), amended by [S.I. 2012/2301](https://www.legislation.gov.uk/uksi/2012/2301), there are other amending instruments but none are relevant.
 
-[^key-f4947bb087ac253f29cd23ad5f1ff185]: Textual amendment: Reg. 20A inserted (18.12.2015) by [The Reports on Payments to Governments (Amendment) Regulations 2015 (S.I. 2015/1928)](https://www.legislation.gov.uk/uksi/2015/1928), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2015/1928/regulation/3)
+[^c-f4947bb087ac253f29cd23ad5f1ff185]: Textual amendment: Reg. 20A inserted (18.12.2015) by [The Reports on Payments to Governments (Amendment) Regulations 2015 (S.I. 2015/1928)](https://www.legislation.gov.uk/uksi/2015/1928), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2015/1928/regulation/3)
 
-[^key-f92247f9f42e7b543ebc2f1102c92f38]: Textual amendment: Reg. 20B inserted (18.12.2015) by [The Reports on Payments to Governments (Amendment) Regulations 2015 (S.I. 2015/1928)](https://www.legislation.gov.uk/uksi/2015/1928), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2015/1928/regulation/4)
+[^c-f92247f9f42e7b543ebc2f1102c92f38]: Textual amendment: Reg. 20B inserted (18.12.2015) by [The Reports on Payments to Governments (Amendment) Regulations 2015 (S.I. 2015/1928)](https://www.legislation.gov.uk/uksi/2015/1928), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1928/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2015/1928/regulation/4)
 
-[^key-b092e2901924160ce7df3f19d42fc35c]: Textual amendment: [Reg. 21(2)](https://www.legislation.gov.uk/uksi/2014/3209/regulation/21/2) omitted (31.12.2020) by virtue of [The Accounts and Reports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/145)](https://www.legislation.gov.uk/uksi/2019/145), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/145/regulation/1/2/c), [Sch. 3 para. 41](https://www.legislation.gov.uk/uksi/2019/145/schedule/3/paragraph/41); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b092e2901924160ce7df3f19d42fc35c]: Textual amendment: [Reg. 21(2)](https://www.legislation.gov.uk/uksi/2014/3209/regulation/21/2) omitted (31.12.2020) by virtue of [The Accounts and Reports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/145)](https://www.legislation.gov.uk/uksi/2019/145), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/145/regulation/1/2/c), [Sch. 3 para. 41](https://www.legislation.gov.uk/uksi/2019/145/schedule/3/paragraph/41); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3c685f5ef915c903167b1ab93d9050ec]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2014/3209/schedule) omitted (31.12.2020 with effect in relation to financial years beginning on or after IP completion day) by virtue of [The Accounts and Reports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/145)](https://www.legislation.gov.uk/uksi/2019/145), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/145/regulation/1/2/b), [2](https://www.legislation.gov.uk/uksi/2019/145/regulation/2), [Sch. 3 para. 42(a)](https://www.legislation.gov.uk/uksi/2019/145/schedule/3/paragraph/42/a) (with [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/145/regulation/7/2)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2020/523/regulation/10), [11](https://www.legislation.gov.uk/uksi/2020/523/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3c685f5ef915c903167b1ab93d9050ec]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2014/3209/schedule) omitted (31.12.2020 with effect in relation to financial years beginning on or after IP completion day) by virtue of [The Accounts and Reports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/145)](https://www.legislation.gov.uk/uksi/2019/145), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/145/regulation/1/2/b), [2](https://www.legislation.gov.uk/uksi/2019/145/regulation/2), [Sch. 3 para. 42(a)](https://www.legislation.gov.uk/uksi/2019/145/schedule/3/paragraph/42/a) (with [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/145/regulation/7/2)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2020/523/regulation/10), [11](https://www.legislation.gov.uk/uksi/2020/523/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b2f6261dd48624d95782b69800cb0f8b]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2014/3209/schedule) substituted (31.12.2020 with effect in relation to financial years beginning on or after IP completion day) by [The Accounts and Reports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/145)](https://www.legislation.gov.uk/uksi/2019/145), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/145/regulation/1/2/b), [2](https://www.legislation.gov.uk/uksi/2019/145/regulation/2), [Sch. 3 para. 42(b)](https://www.legislation.gov.uk/uksi/2019/145/schedule/3/paragraph/42/b) (with [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/145/regulation/7/2)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2020/523/regulation/10), [11](https://www.legislation.gov.uk/uksi/2020/523/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b2f6261dd48624d95782b69800cb0f8b]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2014/3209/schedule) substituted (31.12.2020 with effect in relation to financial years beginning on or after IP completion day) by [The Accounts and Reports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/145)](https://www.legislation.gov.uk/uksi/2019/145), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/145/regulation/1/2/b), [2](https://www.legislation.gov.uk/uksi/2019/145/regulation/2), [Sch. 3 para. 42(b)](https://www.legislation.gov.uk/uksi/2019/145/schedule/3/paragraph/42/b) (with [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/145/regulation/7/2)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2020/523/regulation/10), [11](https://www.legislation.gov.uk/uksi/2020/523/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22279891]: Marginal citation: OJ L 182 29.06.2013 p.19.

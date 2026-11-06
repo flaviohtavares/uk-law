@@ -51,19 +51,19 @@ This Order may be cited as the Value Added Tax (Input Tax) (Specified Supplies) 
 
 ## 2.
 
-The supplies described in articles 3 , 3A[^key-ad2251545eca8bb8e581942911f455f6] and 4 below are hereby specified for the purposes of section 26(2)(c) of the Value Added Tax Act 1994.
+The supplies described in articles 3 , 3A[^c-ad2251545eca8bb8e581942911f455f6] and 4 below are hereby specified for the purposes of section 26(2)(c) of the Value Added Tax Act 1994.
 
 ## 3.
 
 Services–
 
-- (a) which are supplied to a person who belongs outside the United Kingdom[^key-1a8a825c8b7eaf031e8afcd98723dbb2];
-- (b) which are directly linked to the export of goods to a place outside the United Kingdom[^key-2ee5939c8df56f3749d432340ee5610c]; or
+- (a) which are supplied to a person who belongs outside the United Kingdom[^c-1a8a825c8b7eaf031e8afcd98723dbb2];
+- (b) which are directly linked to the export of goods to a place outside the United Kingdom[^c-2ee5939c8df56f3749d432340ee5610c]; or
 - (c) which consist of the provision of intermediary services within the meaning of item 4 of Group 2, or item 5 of Group 5, of Schedule 9 to the Value Added Tax Act 1994 in relation to any transaction specified in paragraph (a) or (b) above,
 
 provided the supply is exempt, or would have been exempt if made in the United Kingdom, by virtue of any item of Group 2, or any of items 1 to 6 and item 8 of Group 5, of Schedule 9 to the Value Added Tax Act 1994.
 
-## 3A.[^key-af878be5a93e6574f43b4b8581f3ac8d]
+## 3A.[^c-af878be5a93e6574f43b4b8581f3ac8d]
 
 Any services that are included within article 3 above by virtue of the fact that the supply is exempt, or would have been exempt if made in the United Kingdom, by virtue of item 4 of Group 2 of Schedule 9 to the Value Added Tax Act 1994 must be related to an insurance transaction or a reinsurance transaction where the party to be insured under the contract of insurance or reinsurance (whether or not a contract of insurance or reinsurance is finally concluded) is a person who belongs outside the United Kingdom.
 
@@ -101,12 +101,12 @@ Article 5 revokes the Value Added Tax (Input Tax) (Specified Supplies) Order 199
 
 [^c16479321]: Marginal citation: [1994 c. 23](https://www.legislation.gov.uk/ukpga/1994/23).
 
-[^key-ad2251545eca8bb8e581942911f455f6]: Textual amendment: Word in [art. 2](https://www.legislation.gov.uk/uksi/1999/3121/article/2) inserted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Value Added Tax (Input Tax) (Specified Supplies) (Amendment) Order 2018 (S.I. 2018/1328)](https://www.legislation.gov.uk/uksi/2018/1328), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/1328/article/1/1), [3](https://www.legislation.gov.uk/uksi/2018/1328/article/3)
+[^c-ad2251545eca8bb8e581942911f455f6]: Textual amendment: Word in [art. 2](https://www.legislation.gov.uk/uksi/1999/3121/article/2) inserted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Value Added Tax (Input Tax) (Specified Supplies) (Amendment) Order 2018 (S.I. 2018/1328)](https://www.legislation.gov.uk/uksi/2018/1328), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/1328/article/1/1), [3](https://www.legislation.gov.uk/uksi/2018/1328/article/3)
 
-[^key-1a8a825c8b7eaf031e8afcd98723dbb2]: Textual amendment: Words in [art. 3(a)](https://www.legislation.gov.uk/uksi/1999/3121/article/3/a) substituted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments, Northern Ireland Protocol and Savings and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1545)](https://www.legislation.gov.uk/uksi/2020/1545), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1545/regulation/1), [92](https://www.legislation.gov.uk/uksi/2020/1545/regulation/92) (with [regs. 109-131](https://www.legislation.gov.uk/uksi/2020/1545/regulation/109)); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-1a8a825c8b7eaf031e8afcd98723dbb2]: Textual amendment: Words in [art. 3(a)](https://www.legislation.gov.uk/uksi/1999/3121/article/3/a) substituted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments, Northern Ireland Protocol and Savings and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1545)](https://www.legislation.gov.uk/uksi/2020/1545), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1545/regulation/1), [92](https://www.legislation.gov.uk/uksi/2020/1545/regulation/92) (with [regs. 109-131](https://www.legislation.gov.uk/uksi/2020/1545/regulation/109)); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-2ee5939c8df56f3749d432340ee5610c]: Textual amendment: Words in [art. 3(b)](https://www.legislation.gov.uk/uksi/1999/3121/article/3/b) substituted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments, Northern Ireland Protocol and Savings and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1545)](https://www.legislation.gov.uk/uksi/2020/1545), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1545/regulation/1), [92](https://www.legislation.gov.uk/uksi/2020/1545/regulation/92) (with [regs. 109-131](https://www.legislation.gov.uk/uksi/2020/1545/regulation/109)); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-2ee5939c8df56f3749d432340ee5610c]: Textual amendment: Words in [art. 3(b)](https://www.legislation.gov.uk/uksi/1999/3121/article/3/b) substituted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments, Northern Ireland Protocol and Savings and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1545)](https://www.legislation.gov.uk/uksi/2020/1545), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1545/regulation/1), [92](https://www.legislation.gov.uk/uksi/2020/1545/regulation/92) (with [regs. 109-131](https://www.legislation.gov.uk/uksi/2020/1545/regulation/109)); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-af878be5a93e6574f43b4b8581f3ac8d]: Textual amendment: [Art. 3A](https://www.legislation.gov.uk/uksi/1999/3121/article/3A) inserted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Value Added Tax (Input Tax) (Specified Supplies) (Amendment) Order 2018 (S.I. 2018/1328)](https://www.legislation.gov.uk/uksi/2018/1328), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/1328/article/1/1), [4](https://www.legislation.gov.uk/uksi/2018/1328/article/4)
+[^c-af878be5a93e6574f43b4b8581f3ac8d]: Textual amendment: [Art. 3A](https://www.legislation.gov.uk/uksi/1999/3121/article/3A) inserted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Value Added Tax (Input Tax) (Specified Supplies) (Amendment) Order 2018 (S.I. 2018/1328)](https://www.legislation.gov.uk/uksi/2018/1328), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/1328/article/1/1), [4](https://www.legislation.gov.uk/uksi/2018/1328/article/4)
 
 [^c16479331]: Marginal citation: [S.I. 1992/3123](https://www.legislation.gov.uk/uksi/1992/3123).

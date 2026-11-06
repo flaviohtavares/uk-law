@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30D. Incapacity benefit: construction of references to days of entitlement.[^key-831ffeb43b64e35c50a914207b5373f8][^c16384051]
+## 30D. Incapacity benefit: construction of references to days of entitlement.[^c-831ffeb43b64e35c50a914207b5373f8][^c16384051]
 
 *Extent: N.I.*
 
@@ -40,6 +40,6 @@ the number of days for which a person has been entitled to short-term incapacity
 
 ## Annotations
 
-[^key-831ffeb43b64e35c50a914207b5373f8]: Modification: [S. 30D](https://www.legislation.gov.uk/ukpga/1992/7/section/30D) modified (6.4.2003) by [The Social Security Contributions and Benefits (Northern Ireland) Act 1992 (Modifications for Her Majestys Forces and Incapacity Benefit) Regulations 2003 (S.I. 2003/735)](https://www.legislation.gov.uk/uksi/2003/735), [regs. 1](https://www.legislation.gov.uk/uksi/2003/735/regulation/1), [3](https://www.legislation.gov.uk/uksi/2003/735/regulation/3)
+[^c-831ffeb43b64e35c50a914207b5373f8]: Modification: [S. 30D](https://www.legislation.gov.uk/ukpga/1992/7/section/30D) modified (6.4.2003) by [The Social Security Contributions and Benefits (Northern Ireland) Act 1992 (Modifications for Her Majestys Forces and Incapacity Benefit) Regulations 2003 (S.I. 2003/735)](https://www.legislation.gov.uk/uksi/2003/735), [regs. 1](https://www.legislation.gov.uk/uksi/2003/735/regulation/1), [3](https://www.legislation.gov.uk/uksi/2003/735/regulation/3)
 
 [^c16384051]: Textual amendment: [Ss. 30C-30E](https://www.legislation.gov.uk/ukpga/1992/7/section/30C) inserted (21.11.1994 for the purpose of making regulations and 13.4.1995 otherwise) by [S.I. 1994/1898 (N.I. 12)](https://www.legislation.gov.uk/nisi/1994/1898), [art. 5(1)](https://www.legislation.gov.uk/nisi/1994/1898/article/5/1); [S.R. 1994/450](https://www.legislation.gov.uk/nisr/1994/450), [art. 2(b)](https://www.legislation.gov.uk/nisr/1994/450/article/2/b), [Sch. Pt. II](https://www.legislation.gov.uk/nisr/1994/450/schedule/part/II)

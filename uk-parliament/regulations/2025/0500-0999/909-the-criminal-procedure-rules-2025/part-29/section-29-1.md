@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29.1. Representations about obligatory disqualification or endorsement[^key-89de91b0c18c3b9c96cf9b4f5d661c3f]
+## 29.1. Representations about obligatory disqualification or endorsement[^c-89de91b0c18c3b9c96cf9b4f5d661c3f]
 
 *Extent: E+W*
 
@@ -58,7 +58,7 @@ summary: ''
 
 ## Annotations
 
-[^key-89de91b0c18c3b9c96cf9b4f5d661c3f]: Commencement: [Rule 29.1](https://www.legislation.gov.uk/uksi/2025/909/rule/29.1) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-89de91b0c18c3b9c96cf9b4f5d661c3f]: Commencement: [Rule 29.1](https://www.legislation.gov.uk/uksi/2025/909/rule/29.1) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00699]: Footnote: [1988 c. 53](https://www.legislation.gov.uk/ukpga/1988/53); section 34 was amended by section 29 of the Road Traffic Act [1991 (c. 40)](https://www.legislation.gov.uk/ukpga/1991/40), section 3 of the Aggravated Vehicle-Taking Act [1992 (c. 11)](https://www.legislation.gov.uk/ukpga/1992/11), section 165 of, and paragraph 121 of Schedule 9 to, the Powers of Criminal Courts (Sentencing) Act [2000 (c. 6)](https://www.legislation.gov.uk/ukpga/2000/6), sections 56 and 107 of, and Schedule 8 to, the Police Reform Act [2002 (c. 30)](https://www.legislation.gov.uk/ukpga/2002/30), section 25 of the Road Safety Act [2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), article 2 of [S.I. 2007/3480](https://www.legislation.gov.uk/uksi/2007/3480), paragraphs 2 and 5 of Schedule 27 to the Legal Aid, Sentencing and Punishment of Offenders Act [2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), section 56 of, and paragraphs 9 and 12 of Schedule 22 to, the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22) and section 177 of, and paragraph 90 of Schedule 21 to, the Coroners and Justice Act [2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25).
 

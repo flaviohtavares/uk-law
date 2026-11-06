@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**137A.**[^key-2ebe17b468318c6510deaba7bc8f0dc1] Regulation 101A has effect as if—
+**137A.**[^c-2ebe17b468318c6510deaba7bc8f0dc1] Regulation 101A has effect as if—
 
 - (a) in the heading, for “Rejection of”, there were substituted “Decision not to give effect to”;
 - (b) in paragraph (1), for “rejects”, there were substituted “decides not to give effect to”;
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2ebe17b468318c6510deaba7bc8f0dc1]: Textual amendment: Regs. 134-137B substituted for regs. 134-137 (23.7.2019) by [The Trade Remedies (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1076)](https://www.legislation.gov.uk/uksi/2019/1076), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1076/regulation/1), [11(2)](https://www.legislation.gov.uk/uksi/2019/1076/regulation/11/2)
+[^c-2ebe17b468318c6510deaba7bc8f0dc1]: Textual amendment: Regs. 134-137B substituted for regs. 134-137 (23.7.2019) by [The Trade Remedies (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1076)](https://www.legislation.gov.uk/uksi/2019/1076), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1076/regulation/1), [11(2)](https://www.legislation.gov.uk/uksi/2019/1076/regulation/11/2)

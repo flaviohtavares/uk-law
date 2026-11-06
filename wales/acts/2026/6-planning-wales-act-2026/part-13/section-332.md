@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 332. Blight notice in respect of part of hereditament or unit[^key-0577d7f3f585ac79d3351bb427f6266c]
+## 332. Blight notice in respect of part of hereditament or unit[^c-0577d7f3f585ac79d3351bb427f6266c]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0577d7f3f585ac79d3351bb427f6266c]: Commencement: S. 332 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-0577d7f3f585ac79d3351bb427f6266c]: Commencement: S. 332 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

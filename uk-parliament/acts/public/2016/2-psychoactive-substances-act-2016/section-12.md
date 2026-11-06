@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Meaning of “prohibited activity”[^key-886a269f769a5bfb01cb92451978294a]
+## 12. Meaning of “prohibited activity”[^c-886a269f769a5bfb01cb92451978294a]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-886a269f769a5bfb01cb92451978294a]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2016/2/section/12) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
+[^c-886a269f769a5bfb01cb92451978294a]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2016/2/section/12) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)

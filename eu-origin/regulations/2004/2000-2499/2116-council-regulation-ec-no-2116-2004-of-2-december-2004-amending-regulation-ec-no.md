@@ -33,16 +33,16 @@ of 2 December 2004
 
 amending Regulation (EC) No 2201/2003 concerning jurisdiction and the recognition and enforcement of judgments in matrimonial matters and the matters of parental responsibility, repealing Regulation (EC) No 1347/2000, as regards treaties with the Holy See (revoked)
 
-[^key-68713b8de1e3a6475265831615333012]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-68713b8de1e3a6475265831615333012]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-68713b8de1e3a6475265831615333012] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-68713b8de1e3a6475265831615333012] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-68713b8de1e3a6475265831615333012] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-68713b8de1e3a6475265831615333012] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-68713b8de1e3a6475265831615333012]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-68713b8de1e3a6475265831615333012]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-68713b8de1e3a6475265831615333012]: Textual amendment: Regulation revoked (31.12.2020) by [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2019/519/regulation/5) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-68713b8de1e3a6475265831615333012]: Textual amendment: Regulation revoked (31.12.2020) by [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2019/519/regulation/5) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

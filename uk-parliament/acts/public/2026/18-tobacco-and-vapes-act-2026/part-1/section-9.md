@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Possession of snus etc with intent to supply[^key-fb8f3c329ff090b6bfd5539993b17fcc]
+## 9. Possession of snus etc with intent to supply[^c-fb8f3c329ff090b6bfd5539993b17fcc]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fb8f3c329ff090b6bfd5539993b17fcc]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2026/18/section/9) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-fb8f3c329ff090b6bfd5539993b17fcc]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2026/18/section/9) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)

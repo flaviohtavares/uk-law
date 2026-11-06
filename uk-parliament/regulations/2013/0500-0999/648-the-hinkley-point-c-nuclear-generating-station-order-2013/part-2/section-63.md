@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 63. Abatement of works abandoned or decayed[^key-801f8e87763d4728acc2eb6d7b430c83]
+## 63. Abatement of works abandoned or decayed[^c-801f8e87763d4728acc2eb6d7b430c83]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-801f8e87763d4728acc2eb6d7b430c83]: Commencement: Art. 63 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
+[^c-801f8e87763d4728acc2eb6d7b430c83]: Commencement: Art. 63 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)

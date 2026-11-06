@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.5. Notice of defendant in custody[^key-2558fdcdc8201ac0d14dfb401a44fa11]
+## 7.5. Notice of defendant in custody[^c-2558fdcdc8201ac0d14dfb401a44fa11]
 
 *Extent: E+W*
 
@@ -46,7 +46,7 @@ summary: ''
 
 ## Annotations
 
-[^key-2558fdcdc8201ac0d14dfb401a44fa11]: Commencement: [Rule 7.5](https://www.legislation.gov.uk/uksi/2025/909/rule/7.5) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-2558fdcdc8201ac0d14dfb401a44fa11]: Commencement: [Rule 7.5](https://www.legislation.gov.uk/uksi/2025/909/rule/7.5) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00249]: Footnote: [1984 c. 60](https://www.legislation.gov.uk/ukpga/1984/60); section 46 was amended by section 109 of, and paragraph 282 of Schedule 8 to, the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39).
 

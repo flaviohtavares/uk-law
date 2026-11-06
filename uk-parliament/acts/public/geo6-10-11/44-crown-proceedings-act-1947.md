@@ -31,7 +31,7 @@ Crown Proceedings Act 1947
 
 An Act to amend the law relating to the civil liabilities and rights of the Crown and to civil proceedings by and against the Crown, to amend the law relating to the civil liabilities of persons other than the Crown in certain cases involving the affairs or property of the Crown, and for purposes connected with the matters aforesaid.
 
-\[31st July 1947\][^c633562][^c633563][^c633564][^c633565][^c633566][^c633567][^c633568][^c633569][^key-49ff9ad11ad76036edaeba65988aa127]
+\[31st July 1947\][^c633562][^c633563][^c633564][^c633565][^c633566][^c633567][^c633568][^c633569][^c-49ff9ad11ad76036edaeba65988aa127]
 
 ## Part I — Substantive Law[^c633570][^c633571]
 
@@ -49,7 +49,7 @@ Where any person has a claim against the Crown after the commencement of this Ac
 
   Provided that no proceedings shall lie against the Crown by virtue of paragraph (a) of this subsection in respect of any act or omission of a servant or agent of the Crown unless the act or omission would apart from the provisions of this Act have given rise to a cause of action in tort against that servant or agent or his estate.
 
-(2)[^key-989ed77e31c024df9e50d9bc14409005] Where the Crown is bound by a statutory duty which is binding also upon persons other than the Crown and its officers, then, subject to the provisions of this Act, the Crown shall, in respect of a failure to comply with that duty, be subject to all those liabilities in tort (if any) to which it would be so subject if it were a private person of full age and capacity.
+(2)[^c-989ed77e31c024df9e50d9bc14409005] Where the Crown is bound by a statutory duty which is binding also upon persons other than the Crown and its officers, then, subject to the provisions of this Act, the Crown shall, in respect of a failure to comply with that duty, be subject to all those liabilities in tort (if any) to which it would be so subject if it were a private person of full age and capacity.
 
 (3) Where any functions are conferred or imposed upon an officer of the Crown as such either by any rule of the common law or by statute, and that officer commits a tort while performing or purporting to perform those functions, the liabilities of the Crown in respect of the tort shall be such as they would have been if those functions had been conferred or imposed solely by virtue of instructions lawfully given by the Crown.
 
@@ -161,7 +161,7 @@ In this section the expression “**rules of court**” means, in relation to an
 
 #### 15. Civil proceedings in the county court.
 
-(1) Subject to the provisions of this Act, and to any enactment limiting the jurisdiction of the county court[^key-df4076678b017e42c07fa5c8aa53e4f0] (whether by reference to the subject matter of the proceedings to be brought or the amount sought to be recovered in the proceedings or otherwise) any civil proceedings against the Crown may be instituted in the county court .
+(1) Subject to the provisions of this Act, and to any enactment limiting the jurisdiction of the county court[^c-df4076678b017e42c07fa5c8aa53e4f0] (whether by reference to the subject matter of the proceedings to be brought or the amount sought to be recovered in the proceedings or otherwise) any civil proceedings against the Crown may be instituted in the county court .
 
 (2) Any proceedings by or against the Crown in the county court shall be instituted and proceeded with in accordance with rules of court[^c2084586][^c2084586] and not otherwise.
 
@@ -206,7 +206,7 @@ Provided that:—[^c633642]
 - (a) an order for the transfer to the county court of any proceedings against the Crown in the High Court shall not be made without the consent of the Crown; and
 - (b) the duty of a judge to make an order under section forty-four of the[^c633643] [^c633644]County Courts Act 1959, for the transfer to the High Court of proceedings commenced against the Crown in the county court shall not be conditional upon the giving of security by the Crown.
 
-#### 21. Nature of relief.[^c633645][^c633646][^c2084620][^c2084623][^c2085071][^c2085103][^c2085105][^key-d497820765fae87991674bb1eeda5e7c][^key-4c9ff58b812fa66d1b614f0e646d7caa][^key-d09bbef956ca7eb7be6fbe49fec6cd3a][^key-72734b631fbb04bfc89b8c199612f96f][^key-aed8722069d5d22da773521e5b6a8f77][^key-eb25a12695727f3841158e529fb34a74][^key-1a06d0568c03ab49e04ca44bc7e633a8][^key-42e06d76f8b34e533abe5bc7138441eb][^key-0dc1a42b65c190dc02ab3986c1989f2d]
+#### 21. Nature of relief.[^c633645][^c633646][^c2084620][^c2084623][^c2085071][^c2085103][^c2085105][^c-d497820765fae87991674bb1eeda5e7c][^c-4c9ff58b812fa66d1b614f0e646d7caa][^c-d09bbef956ca7eb7be6fbe49fec6cd3a][^c-72734b631fbb04bfc89b8c199612f96f][^c-aed8722069d5d22da773521e5b6a8f77][^c-eb25a12695727f3841158e529fb34a74][^c-1a06d0568c03ab49e04ca44bc7e633a8][^c-42e06d76f8b34e533abe5bc7138441eb][^c-0dc1a42b65c190dc02ab3986c1989f2d]
 
 (1) In any civil proceedings by or against the Crown the court shall, subject to the provisions of this Act, have power to make all such orders as it has power to make in proceedings between subjects, and otherwise to give such appropriate relief as the case may require:
 
@@ -217,11 +217,11 @@ Provided that:—
 
 (2) The court shall not in any civil proceedings grant any injunction or make any order against an officer of the Crown if the effect of granting the injunction or making the order would be to give any relief against the Crown which could not have been obtained in proceedings against the Crown.
 
-#### 22. Appeals and stay of execution.[^key-eb25a12695727f3841158e529fb34a74]
+#### 22. Appeals and stay of execution.[^c-eb25a12695727f3841158e529fb34a74]
 
 Subject to the provisions of this Act, all enactments and rules of court[^c2084600][^c2084600] relating to appeals and stay of execution shall, with any necessary modification, apply to civil proceedings by or against the Crown as they apply to proceedings between subjects.
 
-#### 23. Scope of Part II.[^key-eb25a12695727f3841158e529fb34a74]
+#### 23. Scope of Part II.[^c-eb25a12695727f3841158e529fb34a74]
 
 (1) Subject to the provisions of this section, any reference in this Part of this Act to civil proceedings by the Crown shall be construed as a reference to the following proceedings only:—
 
@@ -252,17 +252,17 @@ and the expression “**civil proceedings by or against the Crown**” shall be 
 
 ## Part III — Judgments and Executions[^c2084520][^c2084508][^c2085025][^c2085030][^c2085037][^c2085058][^c633649][^c633650][^c633651][^c633652][^c2084584][^c2085033][^c2085114]
 
-### 24. Interest on debts damages and costs.[^key-eb25a12695727f3841158e529fb34a74]
+### 24. Interest on debts damages and costs.[^c-eb25a12695727f3841158e529fb34a74]
 
 (1) Section seventeen of the [^c633662]Judgments Act 1838 (which provides that a judgment debt shall carry interest) and section 44A of the Administration of Justice Act 1970 (which enables the court to order an appropriate rate for a judgment debt expressed in a currency other than sterling)[^c633663] shall apply to judgment debts due from or to the Crown.
 
-(2)[^key-a147393bf42026269895366c9e097cbe] Where any costs are awarded to or against the Crown in the High Court, interest shall be payable upon those costs unless the court otherwise orders, and any interest so payable shall be at the same rate as that at which interest is payable upon judgment debts due from or to the Crown.
+(2)[^c-a147393bf42026269895366c9e097cbe] Where any costs are awarded to or against the Crown in the High Court, interest shall be payable upon those costs unless the court otherwise orders, and any interest so payable shall be at the same rate as that at which interest is payable upon judgment debts due from or to the Crown.
 
-(3) Section 35A of the[^c633664] Senior Courts Act 1981[^c2094806][^c2094806] and section 69 of the County Courts Act 1984[^c633665] (which respectively empower the High Court and the county court[^key-22e5b538f9919f2402ca8d7923c8f2f8] to award interest on debts and damages) and section 3 of the Law Reform (Miscellaneous Provisions) Act 1934 (which empowers other courts of record to do so) shall apply to judgments given in proceedings by and against the Crown.
+(3) Section 35A of the[^c633664] Senior Courts Act 1981[^c2094806][^c2094806] and section 69 of the County Courts Act 1984[^c633665] (which respectively empower the High Court and the county court[^c-22e5b538f9919f2402ca8d7923c8f2f8] to award interest on debts and damages) and section 3 of the Law Reform (Miscellaneous Provisions) Act 1934 (which empowers other courts of record to do so) shall apply to judgments given in proceedings by and against the Crown.
 
 (4) This section shall apply both in relation to proceedings pending at the commencement of this Act and in relation to proceedings instituted thereafter.
 
-### 25. Satisfaction of orders against the Crown.[^key-eb25a12695727f3841158e529fb34a74]
+### 25. Satisfaction of orders against the Crown.[^c-eb25a12695727f3841158e529fb34a74]
 
 (1) Wherein any civil proceedings by or against the Crown, or in any proceedings on the Crown side of the King’s Bench Division, or in connection with any arbitration to which the Crown is a party, any order (including an order for costs) is made by any court in favour of any person against the Crown or against a Government department or against an officer of the Crown as such, the proper officer of the court shall, on an application in that behalf made by or on behalf of that person at any time after the expiration of twenty-one days from the date of the order or, in case the order provides for the payment of costs and the costs require to be taxed, at any time after the costs have been taxed, whichever is the later, issue to that person a certificate in the prescribed form containing particulars of the order:
 
@@ -278,7 +278,7 @@ Provided that the court by which any such order as aforesaid is made or any cour
 
 (5)[^c633666] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 26. Execution by the Crown.[^key-eb25a12695727f3841158e529fb34a74]
+### 26. Execution by the Crown.[^c-eb25a12695727f3841158e529fb34a74]
 
 (1) Subject to the provisions of this Act, any order made in favour of the Crown against any person in any civil proceedings to which the Crown is a party may be enforced in the same manner as an order made in an action between subjects, and not otherwise.
 
@@ -290,7 +290,7 @@ Provided that for the purpose of the application of the said section four to any
 
 (3) Nothing in this section shall affect any procedure which immediately before the commencement of this Act was available for enforcing an order made in favour of the Crown in proceedings brought by the Crown for the recovery of any fine or penalty, or the forfeiture or condemnation of any goods, or the forfeiture of any ship or any share in a ship.
 
-### 27. Attachment of moneys payable by the Crown.[^key-eb25a12695727f3841158e529fb34a74]
+### 27. Attachment of moneys payable by the Crown.[^c-eb25a12695727f3841158e529fb34a74]
 
 (1)[^c633672] Where any money is payable by the Crown to some person who, under any order of any court, is liable to pay any money to any other person, and that other person would, if the money so payable by the Crown were money payable by a subject, be entitled under rules of court to obtain an order for the attachment thereof as a debt due or accruing due, or an order for the appointment of a sequestrator or receiver to receive the money on his behalf, the High Court may, subject to the provisions of this Act and in accordance with rules of court, make an order restraining the first-mentioned person from receiving that money and directing payment thereof to that other person, or to the sequestrator or receiver:
 
@@ -300,7 +300,7 @@ Provided that no such order shall be made in respect of:—
 - (b) any money which is subject to the provisions of any enactment prohibiting or restricting assignment or charging or taking in execution; or[^c633673]
 - (c) any money payable by the Crown to any person on account of a deposit in the National Savings Bank[^c633675]
 
-(2)[^c633676] The provisions of the preceding subsection shall, so far as they relate to forms of relief falling within the jurisdiction of the county court , have effect in relation to the county court[^key-6a65925b95d4b955d7c4a3cbdefd1a23] as they have effect in relation to the High Court [^c2084602]....
+(2)[^c633676] The provisions of the preceding subsection shall, so far as they relate to forms of relief falling within the jurisdiction of the county court , have effect in relation to the county court[^c-6a65925b95d4b955d7c4a3cbdefd1a23] as they have effect in relation to the High Court [^c2084602]....
 
 (3)[^c633677] In their application to England and Wales the preceeding provisions of this section shall have effect subject to any order for the time being in force under section 139(2) of the Senior Courts Act 1981[^c2094809][^c2094809].
 
@@ -308,7 +308,7 @@ Provided that no such order shall be made in respect of:—
 
 ### Miscellaneous
 
-#### 28. Discovery.[^key-eb25a12695727f3841158e529fb34a74]
+#### 28. Discovery.[^c-eb25a12695727f3841158e529fb34a74]
 
 (1) Subject to and in accordance with rules of court [^c2084606]...:—
 
@@ -321,7 +321,7 @@ Any order of the court made under the powers conferred by paragraph (b) of this 
 
 (2) Without prejudice to the proviso to the preceding subsection, any rules made for the purposes of this section shall be such as to secure that the existence of a document will not be disclosed if, in the opinion of a Minister of the Crown, it would be injurious to the public interest to disclose the existence thereof.
 
-#### 29. Exclusion of proceedings in rem against the Crown.[^key-eb25a12695727f3841158e529fb34a74][^c633682]
+#### 29. Exclusion of proceedings in rem against the Crown.[^c-eb25a12695727f3841158e529fb34a74][^c633682]
 
 (1) Nothing in this Act shall authorise proceedings in rem in respect of any claim against the Crown, or the arrest, detention or sale of any of His Majesty’s ships or aircraft, or of any cargo or other property belonging to the Crown, or give to any person any lien on any such ship, aircraft, cargo or other property.
 
@@ -329,27 +329,27 @@ Any order of the court made under the powers conferred by paragraph (b) of this 
 
 Any such order may be made upon such terms, if any, as the court thinks just; and where the court makes any such order it may make such consequential orders as the court thinks expedient.
 
-#### 30. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c633692][^key-eb25a12695727f3841158e529fb34a74]
+#### 30. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c633692][^c-eb25a12695727f3841158e529fb34a74]
 
-#### 31. Application to the Crown of certain statutory provisions.[^key-eb25a12695727f3841158e529fb34a74]
+#### 31. Application to the Crown of certain statutory provisions.[^c-eb25a12695727f3841158e529fb34a74]
 
 (1) This Act shall not prejudice the right of the Crown to take advantage of the provisions of an Act of Parliament although not named therein; and it is hereby declared that in any civil proceedings against the Crown the provisions of any Act of Parliament which could, if the proceedings were between subjects, be relied upon by the defendant as a defence to the proceedings, whether in whole or in part, or otherwise, may, subject to any express provision to the contrary, be so relied upon by the Crown.
 
 (2) Section six of the [^c633693]Debtors Act 1869 (which empowers the court in certain circumstances to order the arrest of a defendant about to quit England) shall, with any necessary modifications, apply to civil proceedings in the High Court by the Crown.
 
-#### 32. No abatement on demise of Crown.[^key-eb25a12695727f3841158e529fb34a74]
+#### 32. No abatement on demise of Crown.[^c-eb25a12695727f3841158e529fb34a74]
 
 No claim by or against the Crown, and no proceedings for the enforcement of any such claim, shall abate or be affected by the demise of the Crown.
 
-#### 33. Abolition of certain writs.[^key-eb25a12695727f3841158e529fb34a74]
+#### 33. Abolition of certain writs.[^c-eb25a12695727f3841158e529fb34a74]
 
 No writ of extent or of diem clausit extremum shall issue after the commencement of this Act.
 
-#### 34. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-eb25a12695727f3841158e529fb34a74][^c633694]
+#### 34. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-eb25a12695727f3841158e529fb34a74][^c633694]
 
 ### Supplemental
 
-#### 35. Rules of court[^key-eb25a12695727f3841158e529fb34a74][^c2084527][^c2084527]
+#### 35. Rules of court[^c-eb25a12695727f3841158e529fb34a74][^c2084527][^c2084527]
 
 (1) Any power to make rules of court [^c2084529]... shall include power to make rules for the purpose of giving effect to the provisions of this Act, and any such rules may contain provisions to have effect in relation to any proceedings by or against the Crown in substitution for or by way of addition to any of the provisions of the rules applying to proceedings between subjects.
 
@@ -369,17 +369,17 @@ No writ of extent or of diem clausit extremum shall issue after the commencement
 
 (3) Provision may be made by rules of court for regulating any appeals to the High Court, whether by way of case, stated or otherwise, under enactments relating to the revenue, and any rules made under this subsection may revoke any enactments or rules in force immediately before the commencement of this Act so far as they regulate any such appeals, and may make provision for any matters for which provision was made by any enactments or rules so in force.
 
-#### 36. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c633697][^key-eb25a12695727f3841158e529fb34a74]
+#### 36. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c633697][^c-eb25a12695727f3841158e529fb34a74]
 
 *Extent: E+W+S*
 
-#### 37. Financial provisions.[^key-eb25a12695727f3841158e529fb34a74]
+#### 37. Financial provisions.[^c-eb25a12695727f3841158e529fb34a74]
 
 (1) Any expenditure incurred by or on behalf of the Crown in right of His Majesty’s Government in the United Kingdom by reason of the passing of this Act shall be defrayed out of money provided by Parliament.
 
 (2) Any sums payable to the Crown in right of His Majesty’s Government in the United Kingdom by reason of the passing of this Act shall be paid into the Exchequer.
 
-#### 38. Interpretation.[^c633714][^key-eb25a12695727f3841158e529fb34a74]
+#### 38. Interpretation.[^c633714][^c-eb25a12695727f3841158e529fb34a74]
 
 (1) Any reference in this Act to the provisions of this Act shall, unless the context otherwise requires, include a reference to rules of court [^c2084616]... made for the purposes of this Act.
 
@@ -396,7 +396,7 @@ No writ of extent or of diem clausit extremum shall issue after the commencement
 - “**Ship**” has the the same meaning as in the Merchant Shipping Act 1995;
 - “**Statutory duty**” means any duty imposed by or under any Act of Parliament. [^c633721]
 
-(3)[^c633722][^c633723][^c633724][^c633725][^c633726][^c633727][^c633728][^c633729][^c2085067][^c2085063][^c2085069][^c2085121][^key-af98a05d5fb4d5d52f39680f4ab0fdcb][^key-7df5f8cd92b2bdd95594f6328ce02b5e][^key-cfecc329a35688a7cb7dd764a8752a71][^key-8d8d964f484c55154ef4eb6f7003f805][^key-7d05b3563f00cfe5dc9607fd44a7e3a8][^key-c9622016ce7cf4f8d0452ba4f1bf0f9b][^key-371b0bc59edb00cf75fc3df54318bb86][^key-a50ab6972b5a2f3f5af612b56c04d667][^key-e14e3359913381e2c0c25499e9aff86b][^key-be726b9c1067fb0d3937e33fedd78085][^key-11b7363d1b45693efebacc575333a313][^key-601b641cce39ff5b35926fde14903c82][^key-70adac7f366d56aeffb054af370d3af2][^key-aa3248ac7e911b7d44a8f40bb428b82c][^key-bed905973a3e1c4cfc78094d432cd2c4][^key-377a866d26b847962750c6184ef77a86][^key-a7f7f118f6a39b16ada7ffe566f0202c] Any reference in this Act to His Majesty in His private capacity shall be construed as including a reference to His Majesty in right of His Duchy of Lancaster and to the Duke of Cornwall.
+(3)[^c633722][^c633723][^c633724][^c633725][^c633726][^c633727][^c633728][^c633729][^c2085067][^c2085063][^c2085069][^c2085121][^c-af98a05d5fb4d5d52f39680f4ab0fdcb][^c-7df5f8cd92b2bdd95594f6328ce02b5e][^c-cfecc329a35688a7cb7dd764a8752a71][^c-8d8d964f484c55154ef4eb6f7003f805][^c-7d05b3563f00cfe5dc9607fd44a7e3a8][^c-c9622016ce7cf4f8d0452ba4f1bf0f9b][^c-371b0bc59edb00cf75fc3df54318bb86][^c-a50ab6972b5a2f3f5af612b56c04d667][^c-e14e3359913381e2c0c25499e9aff86b][^c-be726b9c1067fb0d3937e33fedd78085][^c-11b7363d1b45693efebacc575333a313][^c-601b641cce39ff5b35926fde14903c82][^c-70adac7f366d56aeffb054af370d3af2][^c-aa3248ac7e911b7d44a8f40bb428b82c][^c-bed905973a3e1c4cfc78094d432cd2c4][^c-377a866d26b847962750c6184ef77a86][^c-a7f7f118f6a39b16ada7ffe566f0202c] Any reference in this Act to His Majesty in His private capacity shall be construed as including a reference to His Majesty in right of His Duchy of Lancaster and to the Duke of Cornwall.
 
 (4) Any reference in Parts III or IV of this Act to civil proceedings by or against the Crown, or to civil proceedings to which the Crown is a party, shall be construed as including a reference to civil proceedings to which the Attorney General, or any Government department, or any officer of the Crown as such is a party:
 
@@ -406,13 +406,13 @@ Provided that the Crown shall not for the purposes of Parts III and IV of this A
 
 (6) References in this Act to any enactment shall be construed as references to that enactment as amended by or under any other enactment, including this Act. [^c633731]
 
-#### 39.[^key-eb25a12695727f3841158e529fb34a74]
+#### 39.[^c-eb25a12695727f3841158e529fb34a74]
 
 (1) . . . [^c633732]
 
 (2) . . . [^c633733]
 
-#### 40. Savings.[^key-eb25a12695727f3841158e529fb34a74]
+#### 40. Savings.[^c-eb25a12695727f3841158e529fb34a74]
 
 (1) Nothing in this Act shall apply to proceedings by or against, or authorise proceedings in tort to be brought against, His Majesty in His private capacity.
 
@@ -449,11 +449,11 @@ shall, for the purposes of this Act, be conclusive as to that matter.
 
 ## Part V — Application to Scotland[^c633750][^c633749][^c2084522][^c2084517][^c2085027][^c2085039][^c2085056][^c2085116]
 
-### 41. Application of Act to Scotland.[^key-eb25a12695727f3841158e529fb34a74]
+### 41. Application of Act to Scotland.[^c-eb25a12695727f3841158e529fb34a74]
 
 The provisions of this Part of this Act shall have effect for the purpose of the application of this Act to Scotland.
 
-### 42. Exclusion of certain provisions.[^c633751][^c633752][^c2084622][^c2084625][^c2085100][^c2085102][^key-854bbc2505f99e63b6f906576ec7cf32][^key-fe7cc28240c30885265c240a89db8335][^key-db2268f7a78705c7f5f2c7c3c9b83f7e][^key-b1f1376346d4dd767bb3955565aa90d3][^key-eb25a12695727f3841158e529fb34a74][^key-4e89311a20424d4f103d21822d93c428]
+### 42. Exclusion of certain provisions.[^c633751][^c633752][^c2084622][^c2084625][^c2085100][^c2085102][^c-854bbc2505f99e63b6f906576ec7cf32][^c-fe7cc28240c30885265c240a89db8335][^c-db2268f7a78705c7f5f2c7c3c9b83f7e][^c-b1f1376346d4dd767bb3955565aa90d3][^c-eb25a12695727f3841158e529fb34a74][^c-4e89311a20424d4f103d21822d93c428]
 
 Section one, Part II (except section thirteen so far as relating to proceedings mentioned in the First Schedule and section twenty-one), Part III (except section twenty-six) and section twenty-eight of this Act shall not apply to Scotland.
 
@@ -610,7 +610,7 @@ Sections 13, 23.
 
 [^c633569]: Modification: Act extended (1.4.1999) by [S.I. 1978/1039 (N.I. 9)](https://www.legislation.gov.uk/nisi/1978/1039), [art. 12(6)](https://www.legislation.gov.uk/nisi/1978/1039/article/12/6) (which art. 12(6) was added (1.4.1999) by [S.I. 1998/2795 (N.I. 18)](https://www.legislation.gov.uk/nisi/1998/2795), [art. 3(2)(b)](https://www.legislation.gov.uk/nisi/1998/2795/article/3/2/b); [S.R. 1999/96](https://www.legislation.gov.uk/nisr/1999/96), [art. 2](https://www.legislation.gov.uk/nisr/1999/96/article/2)
 
-[^key-49ff9ad11ad76036edaeba65988aa127]: Modification: [Act](https://www.legislation.gov.uk/ukpga/Geo6/10-11/44) applied (4.4.2011) by [Budget Responsibility and National Audit Act 2011 (c. 4)](https://www.legislation.gov.uk/ukpga/2011/4), [s. 29](https://www.legislation.gov.uk/ukpga/2011/4/section/29), [Sch. 1 para. 7(2)(a)](https://www.legislation.gov.uk/ukpga/2011/4/schedule/1/paragraph/7/2/a); [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [art. 3](https://www.legislation.gov.uk/uksi/2011/892/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/892/schedule/2)
+[^c-49ff9ad11ad76036edaeba65988aa127]: Modification: [Act](https://www.legislation.gov.uk/ukpga/Geo6/10-11/44) applied (4.4.2011) by [Budget Responsibility and National Audit Act 2011 (c. 4)](https://www.legislation.gov.uk/ukpga/2011/4), [s. 29](https://www.legislation.gov.uk/ukpga/2011/4/section/29), [Sch. 1 para. 7(2)(a)](https://www.legislation.gov.uk/ukpga/2011/4/schedule/1/paragraph/7/2/a); [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [art. 3](https://www.legislation.gov.uk/uksi/2011/892/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/892/schedule/2)
 
 [^c633570]: Modification: Pt. I (ss. 1-12) extended (8.5.1998) by [1997 c. 66](https://www.legislation.gov.uk/ukpga/1997/66), [s. 39(3)](https://www.legislation.gov.uk/ukpga/1997/66/section/39/3); [S.I. 1998/1028](https://www.legislation.gov.uk/uksi/1998/1028), [art. 2](https://www.legislation.gov.uk/uksi/1998/1028/article/2)
 
@@ -618,7 +618,7 @@ Sections 13, 23.
 
 [^c633581]: Modification: S. 2 applied by [Occupiers' Liability Act 1957 (c. 31)](https://www.legislation.gov.uk/ukpga/1957/31), [s. 6](https://www.legislation.gov.uk/ukpga/1957/31/section/6) and [Occupiers' Liability (Scotland) Act 1960 (c. 30)](https://www.legislation.gov.uk/ukpga/1960/30), [s. 4](https://www.legislation.gov.uk/ukpga/1960/30/section/4)
 
-[^key-989ed77e31c024df9e50d9bc14409005]: Modification: [S. 2(2)](https://www.legislation.gov.uk/ukpga/Geo6/10-11/44/section/2/2) excluded (24.2.2025) by [Procurement Act 2023 (c. 54)](https://www.legislation.gov.uk/ukpga/2023/54), [ss. 100(8)](https://www.legislation.gov.uk/ukpga/2023/54/section/100/8), [127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2); [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by S.I. 2024/959, [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
+[^c-989ed77e31c024df9e50d9bc14409005]: Modification: [S. 2(2)](https://www.legislation.gov.uk/ukpga/Geo6/10-11/44/section/2/2) excluded (24.2.2025) by [Procurement Act 2023 (c. 54)](https://www.legislation.gov.uk/ukpga/2023/54), [ss. 100(8)](https://www.legislation.gov.uk/ukpga/2023/54/section/100/8), [127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2); [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by S.I. 2024/959, [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
 
 [^c633582]: Textual amendment: Words in s. 2(4) inserted (20.5.1999) by [S.I. 1999/1042](https://www.legislation.gov.uk/uksi/1999/1042), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/1999/1042/article/1/2/b), [4](https://www.legislation.gov.uk/uksi/1999/1042/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/1999/1042/schedule/2), [Pt. I para. 4(2)](https://www.legislation.gov.uk/uksi/1999/1042/part/I/paragraph/4/2); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 2(2)](https://www.legislation.gov.uk/uksi/1998/3178/article/2/2), [Sch. 4](https://www.legislation.gov.uk/uksi/1998/3178/schedule/4)
 
@@ -712,7 +712,7 @@ Sections 13, 23.
 
 [^c633636]: Textual amendment: Words substituted by [Finance Act 1972 (c. 41)](https://www.legislation.gov.uk/ukpga/1972/41),s. 55(1) but without prejudice to the operation of the section as originally enacted with respect to purchase tax becoming due before 1.4.73 or with respect to so much of the enactments relating to purchase tax as remains in force thereafter
 
-[^key-df4076678b017e42c07fa5c8aa53e4f0]: Textual amendment: Words in Act substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 20(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/20/a); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-df4076678b017e42c07fa5c8aa53e4f0]: Textual amendment: Words in Act substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 20(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/20/a); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c2084586]: Textual amendment: Words in s. 15(2) substituted (1.10.2005) by [The Civil Procedure (Modification of Crown Proceedings Act 1947) Order 2005 (S.I. 2005/2712)](https://www.legislation.gov.uk/uksi/2005/2712), [art. 2](https://www.legislation.gov.uk/uksi/2005/2712/article/2), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2005/2712/schedule/1/paragraph/1) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/2712/article/4))
 
@@ -752,23 +752,23 @@ Sections 13, 23.
 
 [^c2085105]: Modification: S. 21 restricted (20.12.2009) by [S.I. 2006/5](https://www.legislation.gov.uk/uksi/2006/5), [reg. 47P](https://www.legislation.gov.uk/uksi/2006/5/regulation/47P) (as substituted by [The Public Contracts (Amendment) Regulations 2009 (S.I. 2009/2992)](https://www.legislation.gov.uk/uksi/2009/2992), [reg. 10](https://www.legislation.gov.uk/uksi/2009/2992/regulation/10) (with [reg. 11](https://www.legislation.gov.uk/uksi/2009/2992/regulation/11)))
 
-[^key-d497820765fae87991674bb1eeda5e7c]: Modification: S. 21 modified (21.8.2011) by [The Defence and Security Public Contracts Regulations 2011 (S.I. 2011/1848)](https://www.legislation.gov.uk/uksi/2011/1848), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1848/regulation/1), [65](https://www.legislation.gov.uk/uksi/2011/1848/regulation/65)
+[^c-d497820765fae87991674bb1eeda5e7c]: Modification: S. 21 modified (21.8.2011) by [The Defence and Security Public Contracts Regulations 2011 (S.I. 2011/1848)](https://www.legislation.gov.uk/uksi/2011/1848), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1848/regulation/1), [65](https://www.legislation.gov.uk/uksi/2011/1848/regulation/65)
 
-[^key-4c9ff58b812fa66d1b614f0e646d7caa]: Modification: S. 21 excluded (S.) (1.5.2012) by [The Public Contracts (Scotland) Regulations 2012 (S.S.I. 2012/88)](https://www.legislation.gov.uk/ssi/2012/88), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/88/regulation/1/1), [48(8)](https://www.legislation.gov.uk/ssi/2012/88/regulation/48/8) (with [regs. 4](https://www.legislation.gov.uk/ssi/2012/88/regulation/4), [5](https://www.legislation.gov.uk/ssi/2012/88/regulation/5), [6](https://www.legislation.gov.uk/ssi/2012/88/regulation/6), [8](https://www.legislation.gov.uk/ssi/2012/88/regulation/8))
+[^c-4c9ff58b812fa66d1b614f0e646d7caa]: Modification: S. 21 excluded (S.) (1.5.2012) by [The Public Contracts (Scotland) Regulations 2012 (S.S.I. 2012/88)](https://www.legislation.gov.uk/ssi/2012/88), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/88/regulation/1/1), [48(8)](https://www.legislation.gov.uk/ssi/2012/88/regulation/48/8) (with [regs. 4](https://www.legislation.gov.uk/ssi/2012/88/regulation/4), [5](https://www.legislation.gov.uk/ssi/2012/88/regulation/5), [6](https://www.legislation.gov.uk/ssi/2012/88/regulation/6), [8](https://www.legislation.gov.uk/ssi/2012/88/regulation/8))
 
-[^key-d09bbef956ca7eb7be6fbe49fec6cd3a]: Modification: S. 21 excluded (S.) (1.5.2012) by [The Utilities Contracts (Scotland) Regulations 2012 (S.S.I. 2012/89)](https://www.legislation.gov.uk/ssi/2012/89), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/89/regulation/1/1), [45(11)](https://www.legislation.gov.uk/ssi/2012/89/regulation/45/11) (with [regs. 3-7](https://www.legislation.gov.uk/ssi/2012/89/regulation/3), [9](https://www.legislation.gov.uk/ssi/2012/89/regulation/9), [11](https://www.legislation.gov.uk/ssi/2012/89/regulation/11))
+[^c-d09bbef956ca7eb7be6fbe49fec6cd3a]: Modification: S. 21 excluded (S.) (1.5.2012) by [The Utilities Contracts (Scotland) Regulations 2012 (S.S.I. 2012/89)](https://www.legislation.gov.uk/ssi/2012/89), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/89/regulation/1/1), [45(11)](https://www.legislation.gov.uk/ssi/2012/89/regulation/45/11) (with [regs. 3-7](https://www.legislation.gov.uk/ssi/2012/89/regulation/3), [9](https://www.legislation.gov.uk/ssi/2012/89/regulation/9), [11](https://www.legislation.gov.uk/ssi/2012/89/regulation/11))
 
-[^key-72734b631fbb04bfc89b8c199612f96f]: Modification: S. 21 excluded (E.W.N.I) (26.2.2015) by [The Public Contracts Regulations 2015 (S.I. 2015/102)](https://www.legislation.gov.uk/uksi/2015/102), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/102/regulation/1/2), [104](https://www.legislation.gov.uk/uksi/2015/102/regulation/104)
+[^c-72734b631fbb04bfc89b8c199612f96f]: Modification: S. 21 excluded (E.W.N.I) (26.2.2015) by [The Public Contracts Regulations 2015 (S.I. 2015/102)](https://www.legislation.gov.uk/uksi/2015/102), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/102/regulation/1/2), [104](https://www.legislation.gov.uk/uksi/2015/102/regulation/104)
 
-[^key-aed8722069d5d22da773521e5b6a8f77]: Modification: S. 21 excluded (S.) (18.4.2016) by [The Public Contracts (Scotland) Regulations 2015 (S.S.I. 2015/446)](https://www.legislation.gov.uk/ssi/2015/446), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/446/regulation/1/2), [90(8)](https://www.legislation.gov.uk/ssi/2015/446/regulation/90/8) (with [regs. 3-18](https://www.legislation.gov.uk/ssi/2015/446/regulation/3), [99-101](https://www.legislation.gov.uk/ssi/2015/446/regulation/99))
+[^c-aed8722069d5d22da773521e5b6a8f77]: Modification: S. 21 excluded (S.) (18.4.2016) by [The Public Contracts (Scotland) Regulations 2015 (S.S.I. 2015/446)](https://www.legislation.gov.uk/ssi/2015/446), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/446/regulation/1/2), [90(8)](https://www.legislation.gov.uk/ssi/2015/446/regulation/90/8) (with [regs. 3-18](https://www.legislation.gov.uk/ssi/2015/446/regulation/3), [99-101](https://www.legislation.gov.uk/ssi/2015/446/regulation/99))
 
-[^key-eb25a12695727f3841158e529fb34a74]: Modification: Ss. 21-42 excluded (S.) (18.4.2016) by [The Utilities Contracts (Scotland) Regulations 2016 (S.S.I. 2016/49)](https://www.legislation.gov.uk/ssi/2016/49), [regs. 1](https://www.legislation.gov.uk/ssi/2016/49/regulation/1), [103(8)](https://www.legislation.gov.uk/ssi/2016/49/regulation/103/8)
+[^c-eb25a12695727f3841158e529fb34a74]: Modification: Ss. 21-42 excluded (S.) (18.4.2016) by [The Utilities Contracts (Scotland) Regulations 2016 (S.S.I. 2016/49)](https://www.legislation.gov.uk/ssi/2016/49), [regs. 1](https://www.legislation.gov.uk/ssi/2016/49/regulation/1), [103(8)](https://www.legislation.gov.uk/ssi/2016/49/regulation/103/8)
 
-[^key-1a06d0568c03ab49e04ca44bc7e633a8]: Modification: S. 21 excluded (S.) (18.4.2016) by [The Concession Contracts (Scotland) Regulations 2016 (S.S.I. 2016/65)](https://www.legislation.gov.uk/ssi/2016/65), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2), [54(8)](https://www.legislation.gov.uk/ssi/2016/65/regulation/54/8) (with [reg. 63](https://www.legislation.gov.uk/ssi/2016/65/regulation/63))
+[^c-1a06d0568c03ab49e04ca44bc7e633a8]: Modification: S. 21 excluded (S.) (18.4.2016) by [The Concession Contracts (Scotland) Regulations 2016 (S.S.I. 2016/65)](https://www.legislation.gov.uk/ssi/2016/65), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2), [54(8)](https://www.legislation.gov.uk/ssi/2016/65/regulation/54/8) (with [reg. 63](https://www.legislation.gov.uk/ssi/2016/65/regulation/63))
 
-[^key-42e06d76f8b34e533abe5bc7138441eb]: Modification: S. 21 excluded (E.W.N.I.) (18.4.2017) by [The Utilities Contracts Regulations 2016 (S.I. 2016/274)](https://www.legislation.gov.uk/uksi/2016/274), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/274/regulation/1/2), [119](https://www.legislation.gov.uk/uksi/2016/274/regulation/119)
+[^c-42e06d76f8b34e533abe5bc7138441eb]: Modification: S. 21 excluded (E.W.N.I.) (18.4.2017) by [The Utilities Contracts Regulations 2016 (S.I. 2016/274)](https://www.legislation.gov.uk/uksi/2016/274), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/274/regulation/1/2), [119](https://www.legislation.gov.uk/uksi/2016/274/regulation/119)
 
-[^key-0dc1a42b65c190dc02ab3986c1989f2d]: Modification: [S. 21](https://www.legislation.gov.uk/ukpga/Geo6/10-11/44/section/21) excluded (24.2.2025) by [Procurement Act 2023 (c. 54)](https://www.legislation.gov.uk/ukpga/2023/54), [ss. 100(8)](https://www.legislation.gov.uk/ukpga/2023/54/section/100/8), [127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2); [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by S.I. 2024/959, [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
+[^c-0dc1a42b65c190dc02ab3986c1989f2d]: Modification: [S. 21](https://www.legislation.gov.uk/ukpga/Geo6/10-11/44/section/21) excluded (24.2.2025) by [Procurement Act 2023 (c. 54)](https://www.legislation.gov.uk/ukpga/2023/54), [ss. 100(8)](https://www.legislation.gov.uk/ukpga/2023/54/section/100/8), [127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2); [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by S.I. 2024/959, [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
 
 [^c2084600]: Textual amendment: Words in s. 22 substituted (1.10.2005) by [The Civil Procedure (Modification of Crown Proceedings Act 1947) Order 2005 (S.I. 2005/2712)](https://www.legislation.gov.uk/uksi/2005/2712), [art. 2](https://www.legislation.gov.uk/uksi/2005/2712/article/2), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2005/2712/schedule/1/paragraph/5) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/2712/article/4))
 
@@ -808,7 +808,7 @@ Sections 13, 23.
 
 [^c633663]: Textual amendment: Words in s. 24(1) inserted (1.11.1996) by [1995 c. 42](https://www.legislation.gov.uk/ukpga/1995/42), [s. 4(1)](https://www.legislation.gov.uk/ukpga/1995/42/section/4/1); [S.I.1996/2515](https://www.legislation.gov.uk/uksi/1996/2515), [art. 2](https://www.legislation.gov.uk/uksi/1996/2515/article/2)
 
-[^key-a147393bf42026269895366c9e097cbe]: Modification: S. 24(2) modified (E.W.) (18.11.2015) (with effect in accordance with s. 52(12) of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 52(11)](https://www.legislation.gov.uk/ukpga/2015/33/section/52/11)
+[^c-a147393bf42026269895366c9e097cbe]: Modification: S. 24(2) modified (E.W.) (18.11.2015) (with effect in accordance with s. 52(12) of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 52(11)](https://www.legislation.gov.uk/ukpga/2015/33/section/52/11)
 
 [^c633664]: Textual amendment: Words in s. 24(3) substituted (E.W.) by [Administration of Justice Act 1982 (c. 52,SIF 37)](https://www.legislation.gov.uk/ukpga/1982/52), [s. 15(3)](https://www.legislation.gov.uk/ukpga/1982/52/section/15/3), [Sch. 1 Pt. III](https://www.legislation.gov.uk/ukpga/1982/52/schedule/1/part/III)
 
@@ -816,7 +816,7 @@ Sections 13, 23.
 
 [^c633665]: Textual amendment: Words substituted by [County Courts Act 1984 (c.28, SIF 34)](https://www.legislation.gov.uk/ukpga/1984/28), [s. 148(1)](https://www.legislation.gov.uk/ukpga/1984/28/section/148/1), [Sch. 2 para. 21](https://www.legislation.gov.uk/ukpga/1984/28/schedule/2/paragraph/21)
 
-[^key-22e5b538f9919f2402ca8d7923c8f2f8]: Textual amendment: Words in s. 24(3) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 20(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/20/b); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-22e5b538f9919f2402ca8d7923c8f2f8]: Textual amendment: Words in s. 24(3) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 20(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/20/b); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c633666]: Textual amendment: S. 25(5) repealed (5.11.1993) by [1993 c. 50](https://www.legislation.gov.uk/ukpga/1993/50), [s. 1(1)(2)](https://www.legislation.gov.uk/ukpga/1993/50/section/1/1/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/ukpga/1993/50/schedule/1/part/I) Gp. 1, Sch. 2 Pt. II para. 27.
 
@@ -834,7 +834,7 @@ Sections 13, 23.
 
 [^c633676]: Modification: S. 27(2) power to exclude conferred (E.W.) by [Supreme Court Act 1981 (c. 54, SIF 37)](https://www.legislation.gov.uk/ukpga/1981/54), [s.139(2)](https://www.legislation.gov.uk/ukpga/1981/54/section/139/2)
 
-[^key-6a65925b95d4b955d7c4a3cbdefd1a23]: Textual amendment: Words in [s. 27(2)](https://www.legislation.gov.uk/ukpga/Geo6/10-11/44/section/27/2) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 20(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/20/b); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-6a65925b95d4b955d7c4a3cbdefd1a23]: Textual amendment: Words in [s. 27(2)](https://www.legislation.gov.uk/ukpga/Geo6/10-11/44/section/27/2) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 20(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/20/b); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c2084602]: Textual amendment: Words in s. 27(2) repealed (1.10.2005) by [The Civil Procedure (Modification of Crown Proceedings Act 1947) Order 2005 (S.I. 2005/2712)](https://www.legislation.gov.uk/uksi/2005/2712), [art. 2](https://www.legislation.gov.uk/uksi/2005/2712/article/2), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2005/2712/schedule/1/paragraph/6) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/2712/article/4))
 
@@ -934,39 +934,39 @@ Sections 13, 23.
 
 [^c2085121]: Modification: S. 38(3) applied (25.3.2010) by [Cluster Munitions (Prohibitions) Act 2010 (c. 11)](https://www.legislation.gov.uk/ukpga/2010/11), [ss. 32(6)](https://www.legislation.gov.uk/ukpga/2010/11/section/32/6), [34(1)](https://www.legislation.gov.uk/ukpga/2010/11/section/34/1)
 
-[^key-af98a05d5fb4d5d52f39680f4ab0fdcb]: Modification: S. 38(3) applied (26.3.2012) by [The Iran (European Union Financial Sanctions) Regulations 2012 (S.I. 2012/925)](https://www.legislation.gov.uk/uksi/2012/925), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/925/regulation/1/1), [26(5)](https://www.legislation.gov.uk/uksi/2012/925/regulation/26/5) (with [reg. 26(1)](https://www.legislation.gov.uk/uksi/2012/925/regulation/26/1)[(2)](https://www.legislation.gov.uk/uksi/2012/925/regulation/26/2)[(4)](https://www.legislation.gov.uk/uksi/2012/925/regulation/26/4))
+[^c-af98a05d5fb4d5d52f39680f4ab0fdcb]: Modification: S. 38(3) applied (26.3.2012) by [The Iran (European Union Financial Sanctions) Regulations 2012 (S.I. 2012/925)](https://www.legislation.gov.uk/uksi/2012/925), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/925/regulation/1/1), [26(5)](https://www.legislation.gov.uk/uksi/2012/925/regulation/26/5) (with [reg. 26(1)](https://www.legislation.gov.uk/uksi/2012/925/regulation/26/1)[(2)](https://www.legislation.gov.uk/uksi/2012/925/regulation/26/2)[(4)](https://www.legislation.gov.uk/uksi/2012/925/regulation/26/4))
 
-[^key-7df5f8cd92b2bdd95594f6328ce02b5e]: Modification: S. 38(3) applied (5.7.2012) by [The Liberia (Asset-Freezing) Regulations 2012 (S.I. 2012/1516)](https://www.legislation.gov.uk/uksi/2012/1516), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1516/regulation/1/1), [17(5)](https://www.legislation.gov.uk/uksi/2012/1516/regulation/17/5) (with [reg. 17(1)-(4)](https://www.legislation.gov.uk/uksi/2012/1516/regulation/17/1))
+[^c-7df5f8cd92b2bdd95594f6328ce02b5e]: Modification: S. 38(3) applied (5.7.2012) by [The Liberia (Asset-Freezing) Regulations 2012 (S.I. 2012/1516)](https://www.legislation.gov.uk/uksi/2012/1516), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1516/regulation/1/1), [17(5)](https://www.legislation.gov.uk/uksi/2012/1516/regulation/17/5) (with [reg. 17(1)-(4)](https://www.legislation.gov.uk/uksi/2012/1516/regulation/17/1))
 
-[^key-cfecc329a35688a7cb7dd764a8752a71]: Modification: S. 38(3) applied (5.7.2012) by [The Lebanon and Syria (Asset-Freezing) Regulations 2012 (S.I. 2012/1517)](https://www.legislation.gov.uk/uksi/2012/1517), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1517/regulation/1/1), [17(5)](https://www.legislation.gov.uk/uksi/2012/1517/regulation/17/5) (with [reg. 17(1)-(4)](https://www.legislation.gov.uk/uksi/2012/1517/regulation/17/1))
+[^c-cfecc329a35688a7cb7dd764a8752a71]: Modification: S. 38(3) applied (5.7.2012) by [The Lebanon and Syria (Asset-Freezing) Regulations 2012 (S.I. 2012/1517)](https://www.legislation.gov.uk/uksi/2012/1517), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1517/regulation/1/1), [17(5)](https://www.legislation.gov.uk/uksi/2012/1517/regulation/17/5) (with [reg. 17(1)-(4)](https://www.legislation.gov.uk/uksi/2012/1517/regulation/17/1))
 
-[^key-8d8d964f484c55154ef4eb6f7003f805]: Modification: S. 38(3) applied (5.7.2012) by [The Eritrea (Asset-Freezing) Regulations 2012 (S.I. 2012/1515)](https://www.legislation.gov.uk/uksi/2012/1515), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1515/regulation/1/1), [17(5)](https://www.legislation.gov.uk/uksi/2012/1515/regulation/17/5) (with [reg. 17(1)-(4)](https://www.legislation.gov.uk/uksi/2012/1515/regulation/17/1))
+[^c-8d8d964f484c55154ef4eb6f7003f805]: Modification: S. 38(3) applied (5.7.2012) by [The Eritrea (Asset-Freezing) Regulations 2012 (S.I. 2012/1515)](https://www.legislation.gov.uk/uksi/2012/1515), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1515/regulation/1/1), [17(5)](https://www.legislation.gov.uk/uksi/2012/1515/regulation/17/5) (with [reg. 17(1)-(4)](https://www.legislation.gov.uk/uksi/2012/1515/regulation/17/1))
 
-[^key-7d05b3563f00cfe5dc9607fd44a7e3a8]: Modification: S. 38(3) applied (21.2.2013) by [The Belarus (Asset-Freezing) Regulations 2013 (S.I. 2013/164)](https://www.legislation.gov.uk/uksi/2013/164), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/164/regulation/1/1), [17(5)](https://www.legislation.gov.uk/uksi/2013/164/regulation/17/5) (with [reg. 17](https://www.legislation.gov.uk/uksi/2013/164/regulation/17))
+[^c-7d05b3563f00cfe5dc9607fd44a7e3a8]: Modification: S. 38(3) applied (21.2.2013) by [The Belarus (Asset-Freezing) Regulations 2013 (S.I. 2013/164)](https://www.legislation.gov.uk/uksi/2013/164), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/164/regulation/1/1), [17(5)](https://www.legislation.gov.uk/uksi/2013/164/regulation/17/5) (with [reg. 17](https://www.legislation.gov.uk/uksi/2013/164/regulation/17))
 
-[^key-c9622016ce7cf4f8d0452ba4f1bf0f9b]: Modification: S. 38(3) applied (6.4.2013) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [ss. 77(4)](https://www.legislation.gov.uk/ukpga/2012/19/section/77/4), [110(1)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/1) (with [s. 77(1)-(3)](https://www.legislation.gov.uk/ukpga/2012/19/section/77/1), [Sch. 10 paras. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17)); [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-c9622016ce7cf4f8d0452ba4f1bf0f9b]: Modification: S. 38(3) applied (6.4.2013) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [ss. 77(4)](https://www.legislation.gov.uk/ukpga/2012/19/section/77/4), [110(1)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/1) (with [s. 77(1)-(3)](https://www.legislation.gov.uk/ukpga/2012/19/section/77/1), [Sch. 10 paras. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17)); [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
 
-[^key-371b0bc59edb00cf75fc3df54318bb86]: Modification: S. 38(3) applied (16.8.2013) by [The Democratic People s Republic of Korea (European Union Financial Sanctions) Regulations 2013 (S.I. 2013/1877)](https://www.legislation.gov.uk/uksi/2013/1877), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1877/regulation/1/1), [21(5)](https://www.legislation.gov.uk/uksi/2013/1877/regulation/21/5) (with [reg. 21(1)-(4)](https://www.legislation.gov.uk/uksi/2013/1877/regulation/21/1))
+[^c-371b0bc59edb00cf75fc3df54318bb86]: Modification: S. 38(3) applied (16.8.2013) by [The Democratic People s Republic of Korea (European Union Financial Sanctions) Regulations 2013 (S.I. 2013/1877)](https://www.legislation.gov.uk/uksi/2013/1877), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1877/regulation/1/1), [21(5)](https://www.legislation.gov.uk/uksi/2013/1877/regulation/21/5) (with [reg. 21(1)-(4)](https://www.legislation.gov.uk/uksi/2013/1877/regulation/21/1))
 
-[^key-a50ab6972b5a2f3f5af612b56c04d667]: Modification: S. 38(3) applied (N.I.) (31.8.2013) by [The Electricity and Gas (Market Integrity and Transparency) (Enforcement etc.) Regulations (Northern Ireland) 2013 (S.R. 2013/208)](https://www.legislation.gov.uk/nisr/2013/208), [reg. 1](https://www.legislation.gov.uk/nisr/2013/208/regulation/1), [Sch. 1 para. 3(2)](https://www.legislation.gov.uk/nisr/2013/208/schedule/1/paragraph/3/2) (with [Sch. 1](https://www.legislation.gov.uk/nisr/2013/208/schedule/1))
+[^c-a50ab6972b5a2f3f5af612b56c04d667]: Modification: S. 38(3) applied (N.I.) (31.8.2013) by [The Electricity and Gas (Market Integrity and Transparency) (Enforcement etc.) Regulations (Northern Ireland) 2013 (S.R. 2013/208)](https://www.legislation.gov.uk/nisr/2013/208), [reg. 1](https://www.legislation.gov.uk/nisr/2013/208/regulation/1), [Sch. 1 para. 3(2)](https://www.legislation.gov.uk/nisr/2013/208/schedule/1/paragraph/3/2) (with [Sch. 1](https://www.legislation.gov.uk/nisr/2013/208/schedule/1))
 
-[^key-e14e3359913381e2c0c25499e9aff86b]: Modification: S. 38(3) applied (14.3.2014) by [The Central African Republic (European Union Financial Sanctions) Regulations 2014 (S.I. 2014/587)](https://www.legislation.gov.uk/uksi/2014/587), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/587/regulation/1/1), [17(5)](https://www.legislation.gov.uk/uksi/2014/587/regulation/17/5) (with [reg. 17(1)-(4)](https://www.legislation.gov.uk/uksi/2014/587/regulation/17/1))
+[^c-e14e3359913381e2c0c25499e9aff86b]: Modification: S. 38(3) applied (14.3.2014) by [The Central African Republic (European Union Financial Sanctions) Regulations 2014 (S.I. 2014/587)](https://www.legislation.gov.uk/uksi/2014/587), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/587/regulation/1/1), [17(5)](https://www.legislation.gov.uk/uksi/2014/587/regulation/17/5) (with [reg. 17(1)-(4)](https://www.legislation.gov.uk/uksi/2014/587/regulation/17/1))
 
-[^key-be726b9c1067fb0d3937e33fedd78085]: Modification: S. 38(3) applied (6.4.2014) by [The Ukraine (European Union Financial Sanctions) Regulations 2014 (S.I. 2014/507)](https://www.legislation.gov.uk/uksi/2014/507), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/507/regulation/1/1), [17(5)](https://www.legislation.gov.uk/uksi/2014/507/regulation/17/5) (with [reg. 17](https://www.legislation.gov.uk/uksi/2014/507/regulation/17))
+[^c-be726b9c1067fb0d3937e33fedd78085]: Modification: S. 38(3) applied (6.4.2014) by [The Ukraine (European Union Financial Sanctions) Regulations 2014 (S.I. 2014/507)](https://www.legislation.gov.uk/uksi/2014/507), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/507/regulation/1/1), [17(5)](https://www.legislation.gov.uk/uksi/2014/507/regulation/17/5) (with [reg. 17](https://www.legislation.gov.uk/uksi/2014/507/regulation/17))
 
-[^key-11b7363d1b45693efebacc575333a313]: Modification: S. 38(3) applied (11.7.2014) by [The South Sudan (European Union Financial Sanctions) Regulations 2014 (S.I. 2014/1827)](https://www.legislation.gov.uk/uksi/2014/1827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1827/regulation/1/1), [17(5)](https://www.legislation.gov.uk/uksi/2014/1827/regulation/17/5) (with [reg. 17(1)-(4)](https://www.legislation.gov.uk/uksi/2014/1827/regulation/17/1))
+[^c-11b7363d1b45693efebacc575333a313]: Modification: S. 38(3) applied (11.7.2014) by [The South Sudan (European Union Financial Sanctions) Regulations 2014 (S.I. 2014/1827)](https://www.legislation.gov.uk/uksi/2014/1827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1827/regulation/1/1), [17(5)](https://www.legislation.gov.uk/uksi/2014/1827/regulation/17/5) (with [reg. 17(1)-(4)](https://www.legislation.gov.uk/uksi/2014/1827/regulation/17/1))
 
-[^key-601b641cce39ff5b35926fde14903c82]: Modification: S. 38(3) applied (19.12.2014) by [The Yemen (European Union Financial Sanctions) Regulations 2014 (S.I. 2014/3349)](https://www.legislation.gov.uk/uksi/2014/3349), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3349/regulation/1/1), [17(5)](https://www.legislation.gov.uk/uksi/2014/3349/regulation/17/5) (with [reg. 17(1)-(4)](https://www.legislation.gov.uk/uksi/2014/3349/regulation/17/1))
+[^c-601b641cce39ff5b35926fde14903c82]: Modification: S. 38(3) applied (19.12.2014) by [The Yemen (European Union Financial Sanctions) Regulations 2014 (S.I. 2014/3349)](https://www.legislation.gov.uk/uksi/2014/3349), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3349/regulation/1/1), [17(5)](https://www.legislation.gov.uk/uksi/2014/3349/regulation/17/5) (with [reg. 17(1)-(4)](https://www.legislation.gov.uk/uksi/2014/3349/regulation/17/1))
 
-[^key-70adac7f366d56aeffb054af370d3af2]: Modification: S. 38(3) applied (2.10.2015) by [The Burundi (European Union Financial Sanctions) Regulations 2015 (S.I. 2015/1740)](https://www.legislation.gov.uk/uksi/2015/1740), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1740/regulation/1/1), [17(5)](https://www.legislation.gov.uk/uksi/2015/1740/regulation/17/5) (with [reg. 17(1)-(4)](https://www.legislation.gov.uk/uksi/2015/1740/regulation/17/1))
+[^c-70adac7f366d56aeffb054af370d3af2]: Modification: S. 38(3) applied (2.10.2015) by [The Burundi (European Union Financial Sanctions) Regulations 2015 (S.I. 2015/1740)](https://www.legislation.gov.uk/uksi/2015/1740), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1740/regulation/1/1), [17(5)](https://www.legislation.gov.uk/uksi/2015/1740/regulation/17/5) (with [reg. 17(1)-(4)](https://www.legislation.gov.uk/uksi/2015/1740/regulation/17/1))
 
-[^key-aa3248ac7e911b7d44a8f40bb428b82c]: Modification: S. 38(3) applied (23.2.2017) by [Cultural Property (Armed Conflicts) Act 2017 (c. 6)](https://www.legislation.gov.uk/ukpga/2017/6), [ss. 30(6)](https://www.legislation.gov.uk/ukpga/2017/6/section/30/6), [32(1)](https://www.legislation.gov.uk/ukpga/2017/6/section/32/1) (with [s. 30](https://www.legislation.gov.uk/ukpga/2017/6/section/30))
+[^c-aa3248ac7e911b7d44a8f40bb428b82c]: Modification: S. 38(3) applied (23.2.2017) by [Cultural Property (Armed Conflicts) Act 2017 (c. 6)](https://www.legislation.gov.uk/ukpga/2017/6), [ss. 30(6)](https://www.legislation.gov.uk/ukpga/2017/6/section/30/6), [32(1)](https://www.legislation.gov.uk/ukpga/2017/6/section/32/1) (with [s. 30](https://www.legislation.gov.uk/ukpga/2017/6/section/30))
 
-[^key-bed905973a3e1c4cfc78094d432cd2c4]: Modification: S. 38(3) applied (6.12.2017) by [The Venezuela (European Union Financial Sanctions) Regulations 2017 (S.I. 2017/1094)](https://www.legislation.gov.uk/uksi/2017/1094), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/1094/regulation/1/1), [17(5)](https://www.legislation.gov.uk/uksi/2017/1094/regulation/17/5) (with [reg. 17](https://www.legislation.gov.uk/uksi/2017/1094/regulation/17))
+[^c-bed905973a3e1c4cfc78094d432cd2c4]: Modification: S. 38(3) applied (6.12.2017) by [The Venezuela (European Union Financial Sanctions) Regulations 2017 (S.I. 2017/1094)](https://www.legislation.gov.uk/uksi/2017/1094), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/1094/regulation/1/1), [17(5)](https://www.legislation.gov.uk/uksi/2017/1094/regulation/17/5) (with [reg. 17](https://www.legislation.gov.uk/uksi/2017/1094/regulation/17))
 
-[^key-377a866d26b847962750c6184ef77a86]: Modification: S. 38(3) applied (21.5.2018) by [The Burma (European Union Financial Sanctions) Regulations 2018 (S.I. 2018/539)](https://www.legislation.gov.uk/uksi/2018/539), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/539/regulation/1/1), [17(5)](https://www.legislation.gov.uk/uksi/2018/539/regulation/17/5) (with [reg. 17](https://www.legislation.gov.uk/uksi/2018/539/regulation/17))
+[^c-377a866d26b847962750c6184ef77a86]: Modification: S. 38(3) applied (21.5.2018) by [The Burma (European Union Financial Sanctions) Regulations 2018 (S.I. 2018/539)](https://www.legislation.gov.uk/uksi/2018/539), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/539/regulation/1/1), [17(5)](https://www.legislation.gov.uk/uksi/2018/539/regulation/17/5) (with [reg. 17](https://www.legislation.gov.uk/uksi/2018/539/regulation/17))
 
-[^key-a7f7f118f6a39b16ada7ffe566f0202c]: Modification: S. 38(3) applied (8.8.2018) by [The Republic of Maldives (Asset-Freezing) Regulations 2018 (S.I. 2018/861)](https://www.legislation.gov.uk/uksi/2018/861), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/861/regulation/1/1), [17(5)](https://www.legislation.gov.uk/uksi/2018/861/regulation/17/5)
+[^c-a7f7f118f6a39b16ada7ffe566f0202c]: Modification: S. 38(3) applied (8.8.2018) by [The Republic of Maldives (Asset-Freezing) Regulations 2018 (S.I. 2018/861)](https://www.legislation.gov.uk/uksi/2018/861), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/861/regulation/1/1), [17(5)](https://www.legislation.gov.uk/uksi/2018/861/regulation/17/5)
 
 [^c633730]: Textual amendment: S.38(5) repealed (with saving) by [Armed Forces Act 1981 (c.55, SIF 7:1)](https://www.legislation.gov.uk/ukpga/1981/55), [s. 28(2)](https://www.legislation.gov.uk/ukpga/1981/55/section/28/2), [Sch. 5 Pt. I](https://www.legislation.gov.uk/ukpga/1981/55/schedule/5/part/I) note
 
@@ -1014,15 +1014,15 @@ Sections 13, 23.
 
 [^c2085102]: Modification: S. 42 excluded (20.12.2009) by [S.S.I. 2006/2](https://www.legislation.gov.uk/ssi/2006/2), [reg. 45A(11)](https://www.legislation.gov.uk/ssi/2006/2/regulation/45A/11) (as inserted by [The Public Contracts and Utilities Contracts (Scotland) Amendment Regulations 2009 (S.S.I. 2009/428)](https://www.legislation.gov.uk/ssi/2009/428), [reg. 4(12)](https://www.legislation.gov.uk/ssi/2009/428/regulation/4/12))
 
-[^key-854bbc2505f99e63b6f906576ec7cf32]: Modification: S. 42 modified (21.8.2011) by [The Defence and Security Public Contracts Regulations 2011 (S.I. 2011/1848)](https://www.legislation.gov.uk/uksi/2011/1848), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1848/regulation/1), [65](https://www.legislation.gov.uk/uksi/2011/1848/regulation/65)
+[^c-854bbc2505f99e63b6f906576ec7cf32]: Modification: S. 42 modified (21.8.2011) by [The Defence and Security Public Contracts Regulations 2011 (S.I. 2011/1848)](https://www.legislation.gov.uk/uksi/2011/1848), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1848/regulation/1), [65](https://www.legislation.gov.uk/uksi/2011/1848/regulation/65)
 
-[^key-fe7cc28240c30885265c240a89db8335]: Modification: S. 42 excluded (S.) (1.5.2012) by [The Utilities Contracts (Scotland) Regulations 2012 (S.S.I. 2012/89)](https://www.legislation.gov.uk/ssi/2012/89), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/89/regulation/1/1), [45(11)](https://www.legislation.gov.uk/ssi/2012/89/regulation/45/11) (with [regs. 3-7](https://www.legislation.gov.uk/ssi/2012/89/regulation/3), [9](https://www.legislation.gov.uk/ssi/2012/89/regulation/9), [11](https://www.legislation.gov.uk/ssi/2012/89/regulation/11))
+[^c-fe7cc28240c30885265c240a89db8335]: Modification: S. 42 excluded (S.) (1.5.2012) by [The Utilities Contracts (Scotland) Regulations 2012 (S.S.I. 2012/89)](https://www.legislation.gov.uk/ssi/2012/89), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/89/regulation/1/1), [45(11)](https://www.legislation.gov.uk/ssi/2012/89/regulation/45/11) (with [regs. 3-7](https://www.legislation.gov.uk/ssi/2012/89/regulation/3), [9](https://www.legislation.gov.uk/ssi/2012/89/regulation/9), [11](https://www.legislation.gov.uk/ssi/2012/89/regulation/11))
 
-[^key-db2268f7a78705c7f5f2c7c3c9b83f7e]: Modification: S. 42 excluded (S.) (1.5.2012) by [The Public Contracts (Scotland) Regulations 2012 (S.S.I. 2012/88)](https://www.legislation.gov.uk/ssi/2012/88), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/88/regulation/1/1), [48(8)](https://www.legislation.gov.uk/ssi/2012/88/regulation/48/8) (with [regs. 4](https://www.legislation.gov.uk/ssi/2012/88/regulation/4), [5](https://www.legislation.gov.uk/ssi/2012/88/regulation/5), [6](https://www.legislation.gov.uk/ssi/2012/88/regulation/6), [8](https://www.legislation.gov.uk/ssi/2012/88/regulation/8))
+[^c-db2268f7a78705c7f5f2c7c3c9b83f7e]: Modification: S. 42 excluded (S.) (1.5.2012) by [The Public Contracts (Scotland) Regulations 2012 (S.S.I. 2012/88)](https://www.legislation.gov.uk/ssi/2012/88), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/88/regulation/1/1), [48(8)](https://www.legislation.gov.uk/ssi/2012/88/regulation/48/8) (with [regs. 4](https://www.legislation.gov.uk/ssi/2012/88/regulation/4), [5](https://www.legislation.gov.uk/ssi/2012/88/regulation/5), [6](https://www.legislation.gov.uk/ssi/2012/88/regulation/6), [8](https://www.legislation.gov.uk/ssi/2012/88/regulation/8))
 
-[^key-b1f1376346d4dd767bb3955565aa90d3]: Modification: S. 42 excluded (S.) (18.4.2016) by [The Public Contracts (Scotland) Regulations 2015 (S.S.I. 2015/446)](https://www.legislation.gov.uk/ssi/2015/446), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/446/regulation/1/2), [90(8)](https://www.legislation.gov.uk/ssi/2015/446/regulation/90/8) (with [regs. 3-18](https://www.legislation.gov.uk/ssi/2015/446/regulation/3), [99-101](https://www.legislation.gov.uk/ssi/2015/446/regulation/99))
+[^c-b1f1376346d4dd767bb3955565aa90d3]: Modification: S. 42 excluded (S.) (18.4.2016) by [The Public Contracts (Scotland) Regulations 2015 (S.S.I. 2015/446)](https://www.legislation.gov.uk/ssi/2015/446), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/446/regulation/1/2), [90(8)](https://www.legislation.gov.uk/ssi/2015/446/regulation/90/8) (with [regs. 3-18](https://www.legislation.gov.uk/ssi/2015/446/regulation/3), [99-101](https://www.legislation.gov.uk/ssi/2015/446/regulation/99))
 
-[^key-4e89311a20424d4f103d21822d93c428]: Modification: S. 42 excluded (S.) (18.4.2016) by [The Concession Contracts (Scotland) Regulations 2016 (S.S.I. 2016/65)](https://www.legislation.gov.uk/ssi/2016/65), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2), [54(8)](https://www.legislation.gov.uk/ssi/2016/65/regulation/54/8) (with [reg. 63](https://www.legislation.gov.uk/ssi/2016/65/regulation/63))
+[^c-4e89311a20424d4f103d21822d93c428]: Modification: S. 42 excluded (S.) (18.4.2016) by [The Concession Contracts (Scotland) Regulations 2016 (S.S.I. 2016/65)](https://www.legislation.gov.uk/ssi/2016/65), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2), [54(8)](https://www.legislation.gov.uk/ssi/2016/65/regulation/54/8) (with [reg. 63](https://www.legislation.gov.uk/ssi/2016/65/regulation/63))
 
 [^c633753]: Marginal citation: [1935 c. 30](https://www.legislation.gov.uk/ukpga/1935/30).
 

@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Social Security Pensions (Northern Ireland) Order 1975[^key-f604b08a741d13054228d22790f89679]
+## 61. Social Security Pensions (Northern Ireland) Order 1975[^c-f604b08a741d13054228d22790f89679]
 
 *Extent: N.I.*
 
 (1) In the Social Security Pensions (Northern Ireland) Order 1975[^f00087], Article 69 is amended as follows.
 
-(2)[^key-50dc9de465b4b788ffe4dc59ba9aefaa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-50dc9de465b4b788ffe4dc59ba9aefaa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-50dc9de465b4b788ffe4dc59ba9aefaa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-50dc9de465b4b788ffe4dc59ba9aefaa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In paragraph (5ZC)—
 
@@ -37,8 +37,8 @@ summary: ''
 
 ## Annotations
 
-[^key-f604b08a741d13054228d22790f89679]: Commencement: Reg. 61 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-f604b08a741d13054228d22790f89679]: Commencement: Reg. 61 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00087]: Footnote: [S.I. 1975/1503 (N.I. 15)](https://www.legislation.gov.uk/nisi/1975/1503). In Article 69, paragraphs (5ZB) and (5ZC) were inserted by section 110 of the Pensions (No. 2) Act (Northern Ireland) [2008 (c.13 (N.I.)](https://www.legislation.gov.uk/nia/2008/13)).
 
-[^key-50dc9de465b4b788ffe4dc59ba9aefaa]: Textual amendment: [Reg. 61(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/61/2)[(3)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/61/3) omitted (7.12.2020) by virtue of [The Marriage and Civil Partnership (Northern Ireland) (No. 2) Regulations 2020 (S.I. 2020/1143)](https://www.legislation.gov.uk/uksi/2020/1143), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/1/2), [35(8)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/35/8)
+[^c-50dc9de465b4b788ffe4dc59ba9aefaa]: Textual amendment: [Reg. 61(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/61/2)[(3)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/61/3) omitted (7.12.2020) by virtue of [The Marriage and Civil Partnership (Northern Ireland) (No. 2) Regulations 2020 (S.I. 2020/1143)](https://www.legislation.gov.uk/uksi/2020/1143), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/1/2), [35(8)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/35/8)

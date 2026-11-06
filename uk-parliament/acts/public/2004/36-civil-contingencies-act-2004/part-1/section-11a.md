@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11A. Enforcement: Wales[^key-92b484998a4364369e86d3c3a85f0ef6]
+## 11A. Enforcement: Wales[^c-92b484998a4364369e86d3c3a85f0ef6]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-92b484998a4364369e86d3c3a85f0ef6]: Textual amendment: [S. 11A](https://www.legislation.gov.uk/ukpga/2004/36/section/11A) inserted (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [41(10)](https://www.legislation.gov.uk/uksi/2018/644/article/41/10)
+[^c-92b484998a4364369e86d3c3a85f0ef6]: Textual amendment: [S. 11A](https://www.legislation.gov.uk/ukpga/2004/36/section/11A) inserted (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [41(10)](https://www.legislation.gov.uk/uksi/2018/644/article/41/10)

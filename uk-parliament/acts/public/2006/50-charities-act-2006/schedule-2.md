@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2 — Establishment of the Charity Commission: supplementary[^key-056a71e51931f020f276ae63debacbae]
+## SCHEDULE 2 — Establishment of the Charity Commission: supplementary[^c-056a71e51931f020f276ae63debacbae]
 
 *Extent: E+W*
 
@@ -24,32 +24,32 @@ Section 6
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-056a71e51931f020f276ae63debacbae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-056a71e51931f020f276ae63debacbae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Appointments to Commission[^key-056a71e51931f020f276ae63debacbae]
-
-**No longer in force.**
-
-**2.**[^key-056a71e51931f020f276ae63debacbae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Effect of transfers under section 6[^key-056a71e51931f020f276ae63debacbae]
+### Appointments to Commission[^c-056a71e51931f020f276ae63debacbae]
 
 **No longer in force.**
 
-**3.**[^key-056a71e51931f020f276ae63debacbae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-056a71e51931f020f276ae63debacbae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### First annual report of Commission[^key-056a71e51931f020f276ae63debacbae]
-
-**No longer in force.**
-
-**4.**[^key-056a71e51931f020f276ae63debacbae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Resource accounts of Commission[^key-056a71e51931f020f276ae63debacbae]
+### Effect of transfers under section 6[^c-056a71e51931f020f276ae63debacbae]
 
 **No longer in force.**
 
-**5.**[^key-056a71e51931f020f276ae63debacbae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-056a71e51931f020f276ae63debacbae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### First annual report of Commission[^c-056a71e51931f020f276ae63debacbae]
+
+**No longer in force.**
+
+**4.**[^c-056a71e51931f020f276ae63debacbae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Resource accounts of Commission[^c-056a71e51931f020f276ae63debacbae]
+
+**No longer in force.**
+
+**5.**[^c-056a71e51931f020f276ae63debacbae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-056a71e51931f020f276ae63debacbae]: Textual amendment: Schs. 1, 2 repealed (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 10](https://www.legislation.gov.uk/ukpga/2011/25/schedule/10) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
+[^c-056a71e51931f020f276ae63debacbae]: Textual amendment: Schs. 1, 2 repealed (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 10](https://www.legislation.gov.uk/ukpga/2011/25/schedule/10) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))

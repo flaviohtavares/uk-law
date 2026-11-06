@@ -22,8 +22,8 @@ summary: ''
 
 The customs office referred to in Article 27 shall, after completing box 27, return the original export permit or re-export certificate (form 1) and the copy for the holder (form 2) to the (re‐)exporter or to his authorised representative.
 
-[^key-dc2e13e8c6ec9bb537414eea3bc552c7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dc2e13e8c6ec9bb537414eea3bc552c7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-dc2e13e8c6ec9bb537414eea3bc552c7]: Textual amendment: Words in [Art. 28](https://www.legislation.gov.uk/eur/2006/865/article/28) omitted (31.12.2020) by virtue of [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(23)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/23)
+[^c-dc2e13e8c6ec9bb537414eea3bc552c7]: Textual amendment: Words in [Art. 28](https://www.legislation.gov.uk/eur/2006/865/article/28) omitted (31.12.2020) by virtue of [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(23)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/23)

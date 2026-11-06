@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Provision of record of proceedings of the Court Martial.[^key-9fbd09972b3179f59d86a7af89777680][^key-b3e6cc59a4f484243dc643f5746214a1]
+## 37. Provision of record of proceedings of the Court Martial.[^c-9fbd09972b3179f59d86a7af89777680][^c-b3e6cc59a4f484243dc643f5746214a1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In the case of every appeal or application for leave to appeal to the Appeal Cou
 
 ## Annotations
 
-[^key-9fbd09972b3179f59d86a7af89777680]: Modification: S. 37 applied (with modifications) (24.4.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [The Armed Forces Act 2006 (Transitional Provisions etc) Order 2009 (S.I. 2009/1059)](https://www.legislation.gov.uk/uksi/2009/1059), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2009/1059/article/1/3), [125](https://www.legislation.gov.uk/uksi/2009/1059/article/125)
+[^c-9fbd09972b3179f59d86a7af89777680]: Modification: S. 37 applied (with modifications) (24.4.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [The Armed Forces Act 2006 (Transitional Provisions etc) Order 2009 (S.I. 2009/1059)](https://www.legislation.gov.uk/uksi/2009/1059), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2009/1059/article/1/3), [125](https://www.legislation.gov.uk/uksi/2009/1059/article/125)
 
-[^key-b3e6cc59a4f484243dc643f5746214a1]: Textual amendment: S. 37 substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 8 para. 39](https://www.legislation.gov.uk/ukpga/2006/52/schedule/8/paragraph/39); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-b3e6cc59a4f484243dc643f5746214a1]: Textual amendment: S. 37 substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 8 para. 39](https://www.legislation.gov.uk/ukpga/2006/52/schedule/8/paragraph/39); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

@@ -22,9 +22,9 @@ summary: ''
 
 Section 37(8)
 
-**1.**[^key-c9a0fe5bcd11afbb0cb32bcedb8a5921][^key-6c1a978521de048b450fdaa99fc669ce] In section 93 of the Representation of the People Act 1983 (broadcasting of local items during election period), in subsection (6), in the definition of “relevant services”, in paragraph (b), at the end insert “or services that are Tier 1 services within the meaning given by section 368HA of the Communications Act 2003”.
+**1.**[^c-c9a0fe5bcd11afbb0cb32bcedb8a5921][^c-6c1a978521de048b450fdaa99fc669ce] In section 93 of the Representation of the People Act 1983 (broadcasting of local items during election period), in subsection (6), in the definition of “relevant services”, in paragraph (b), at the end insert “or services that are Tier 1 services within the meaning given by section 368HA of the Communications Act 2003”.
 
-**2.**[^key-579e8f4a87aa31f34137318373d30300][^key-1e288663294fe2f2ad3cd32ddf8dad73] (1) The Broadcasting Act 1996 is amended as follows.
+**2.**[^c-579e8f4a87aa31f34137318373d30300][^c-1e288663294fe2f2ad3cd32ddf8dad73] (1) The Broadcasting Act 1996 is amended as follows.
 
 (2) In section 107 (preparation by OFCOM of code relating to avoidance of unjust or unfair treatment etc)—
 
@@ -114,7 +114,7 @@ Section 37(8)
 
 .
 
-**3.**[^key-e1f1438b105e23af69aedd461ce40be8][^key-6450aeac252cf576d7431018008743be] (1) The Communications Act 2003 is amended as follows.
+**3.**[^c-e1f1438b105e23af69aedd461ce40be8][^c-6450aeac252cf576d7431018008743be] (1) The Communications Act 2003 is amended as follows.
 
 (2) In section 361 (meaning of “**available for reception by members of the public**”), in subsection (2), at the end insert “or a non-UK on-demand programme service that is a Tier 1 service (see section 368HA)”.
 
@@ -135,7 +135,7 @@ Section 37(8)
 
 (5) In Schedule 11A (restrictions on product placement), in paragraph 3(2)(a), after “an on-demand programme service” insert “or a non-UK on-demand programme service that is a Tier 1 service”.
 
-**4.**[^key-ad38bbae28ff415ae5a8ee83719be230][^key-4b92d1608ae1f279f3d0c05fde318fec] (1) Section 9A of the Wireless Telegraphy Act 2006 (notice to satellite uplinkers) is amended as follows.
+**4.**[^c-ad38bbae28ff415ae5a8ee83719be230][^c-4b92d1608ae1f279f3d0c05fde318fec] (1) Section 9A of the Wireless Telegraphy Act 2006 (notice to satellite uplinkers) is amended as follows.
 
 (2) In subsection (3), in the words before paragraph (a), after “an on-demand programme service” insert “, or a non-UK on-demand programme service that is a Tier 1 service,”.
 
@@ -144,7 +144,7 @@ Section 37(8)
 - (a) in the definition of “on-demand programme service”, after “on-demand programme service” insert “, “non-UK on-demand programme service” and “Tier 1 service” each”;
 - (b) in the words in brackets, for “section 368A” substitute “sections 368A, 368AA and 368HA”.
 
-**5.**[^key-83104144413bfda06dcd1b4cfe29c757][^key-199f74e96d9c0e0e12e07f7e0cea04eb] (1) The Online Safety Act 2023 is amended as follows.
+**5.**[^c-83104144413bfda06dcd1b4cfe29c757][^c-199f74e96d9c0e0e12e07f7e0cea04eb] (1) The Online Safety Act 2023 is amended as follows.
 
 (2) In section 80 (scope of duties about regulated provider pornographic content)—
 
@@ -169,22 +169,22 @@ Section 37(8)
 
 ## Annotations
 
-[^key-c9a0fe5bcd11afbb0cb32bcedb8a5921]: Commencement: Sch. 7 para. 1 not in force at Royal Assent, see [s. 55(3)(d)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/d)
+[^c-c9a0fe5bcd11afbb0cb32bcedb8a5921]: Commencement: Sch. 7 para. 1 not in force at Royal Assent, see [s. 55(3)(d)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/d)
 
-[^key-6c1a978521de048b450fdaa99fc669ce]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2024/15/schedule/7/paragraph/1) in force at 23.8.2024 by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(z1)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/z1)
+[^c-6c1a978521de048b450fdaa99fc669ce]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2024/15/schedule/7/paragraph/1) in force at 23.8.2024 by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(z1)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/z1)
 
-[^key-579e8f4a87aa31f34137318373d30300]: Commencement: Sch. 7 para. 2 not in force at Royal Assent, see [s. 55(3)(d)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/d)
+[^c-579e8f4a87aa31f34137318373d30300]: Commencement: Sch. 7 para. 2 not in force at Royal Assent, see [s. 55(3)(d)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/d)
 
-[^key-1e288663294fe2f2ad3cd32ddf8dad73]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2024/15/schedule/7/paragraph/2) in force at 23.8.2024 by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(z1)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/z1)
+[^c-1e288663294fe2f2ad3cd32ddf8dad73]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2024/15/schedule/7/paragraph/2) in force at 23.8.2024 by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(z1)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/z1)
 
-[^key-e1f1438b105e23af69aedd461ce40be8]: Commencement: Sch. 7 para. 3 not in force at Royal Assent, see [s. 55(3)(d)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/d)
+[^c-e1f1438b105e23af69aedd461ce40be8]: Commencement: Sch. 7 para. 3 not in force at Royal Assent, see [s. 55(3)(d)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/d)
 
-[^key-6450aeac252cf576d7431018008743be]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2024/15/schedule/7/paragraph/3) in force at 23.8.2024 by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(z1)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/z1)
+[^c-6450aeac252cf576d7431018008743be]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2024/15/schedule/7/paragraph/3) in force at 23.8.2024 by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(z1)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/z1)
 
-[^key-ad38bbae28ff415ae5a8ee83719be230]: Commencement: Sch. 7 para. 4 not in force at Royal Assent, see [s. 55(3)(d)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/d)
+[^c-ad38bbae28ff415ae5a8ee83719be230]: Commencement: Sch. 7 para. 4 not in force at Royal Assent, see [s. 55(3)(d)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/d)
 
-[^key-4b92d1608ae1f279f3d0c05fde318fec]: Commencement: [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2024/15/schedule/7/paragraph/4) in force at 23.8.2024 by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(z1)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/z1)
+[^c-4b92d1608ae1f279f3d0c05fde318fec]: Commencement: [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2024/15/schedule/7/paragraph/4) in force at 23.8.2024 by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(z1)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/z1)
 
-[^key-83104144413bfda06dcd1b4cfe29c757]: Commencement: Sch. 7 para. 5 not in force at Royal Assent, see [s. 55(3)(d)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/d)
+[^c-83104144413bfda06dcd1b4cfe29c757]: Commencement: Sch. 7 para. 5 not in force at Royal Assent, see [s. 55(3)(d)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/d)
 
-[^key-199f74e96d9c0e0e12e07f7e0cea04eb]: Commencement: [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2024/15/schedule/7/paragraph/5) in force at 23.8.2024 by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(z1)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/z1)
+[^c-199f74e96d9c0e0e12e07f7e0cea04eb]: Commencement: [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2024/15/schedule/7/paragraph/5) in force at 23.8.2024 by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(z1)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/z1)

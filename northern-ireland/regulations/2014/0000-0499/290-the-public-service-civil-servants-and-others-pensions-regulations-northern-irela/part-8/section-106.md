@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 106. Meaning of “dependant’s added pension”[^key-66baea302afa669419b5bbae0972b550]
+## 106. Meaning of “dependant’s added pension”[^c-66baea302afa669419b5bbae0972b550]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ A dependant’s added pension is a pension payable on the death of a member of t
 
 ## Annotations
 
-[^key-66baea302afa669419b5bbae0972b550]: Commencement: [Reg. 106](https://www.legislation.gov.uk/nisr/2014/290/regulation/106) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-66baea302afa669419b5bbae0972b550]: Commencement: [Reg. 106](https://www.legislation.gov.uk/nisr/2014/290/regulation/106) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

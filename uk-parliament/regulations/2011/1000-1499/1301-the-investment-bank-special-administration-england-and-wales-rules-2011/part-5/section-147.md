@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 147. Treatment of late claimants[^key-7bf4a6cd536a86d38309b7eafe7fd92f]
+## 147. Treatment of late claimants[^c-7bf4a6cd536a86d38309b7eafe7fd92f]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7bf4a6cd536a86d38309b7eafe7fd92f]: Commencement: [Rule 147](https://www.legislation.gov.uk/uksi/2011/1301/rule/147) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-7bf4a6cd536a86d38309b7eafe7fd92f]: Commencement: [Rule 147](https://www.legislation.gov.uk/uksi/2011/1301/rule/147) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

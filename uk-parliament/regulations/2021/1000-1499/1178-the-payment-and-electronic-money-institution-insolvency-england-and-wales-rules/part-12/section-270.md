@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 270. Content of notices advertised other than in the Gazette[^key-807db8a5db8896e2fe4e7d07e4272392]
+## 270. Content of notices advertised other than in the Gazette[^c-807db8a5db8896e2fe4e7d07e4272392]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-807db8a5db8896e2fe4e7d07e4272392]: Commencement: Rule 270 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-807db8a5db8896e2fe4e7d07e4272392]: Commencement: Rule 270 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

@@ -31,22 +31,22 @@ Prices Act 1975 (repealed)
 
 1975 c.32
 
-[^key-3c296e228cb7a4493d5b4e4ec3b30d9b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3c296e228cb7a4493d5b4e4ec3b30d9b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1.[^key-3c296e228cb7a4493d5b4e4ec3b30d9b][^key-3c296e228cb7a4493d5b4e4ec3b30d9b]
+## 1.[^c-3c296e228cb7a4493d5b4e4ec3b30d9b][^c-3c296e228cb7a4493d5b4e4ec3b30d9b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Regulation of price of food et ceteralaetc.[^key-3c296e228cb7a4493d5b4e4ec3b30d9b][^key-3c296e228cb7a4493d5b4e4ec3b30d9b]
+## 2. Regulation of price of food et ceteralaetc.[^c-3c296e228cb7a4493d5b4e4ec3b30d9b][^c-3c296e228cb7a4493d5b4e4ec3b30d9b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Supplemental.[^key-3c296e228cb7a4493d5b4e4ec3b30d9b][^key-3c296e228cb7a4493d5b4e4ec3b30d9b]
+## 3. Supplemental.[^c-3c296e228cb7a4493d5b4e4ec3b30d9b][^c-3c296e228cb7a4493d5b4e4ec3b30d9b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3c296e228cb7a4493d5b4e4ec3b30d9b]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1975/32) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
+[^c-3c296e228cb7a4493d5b4e4ec3b30d9b]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1975/32) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2

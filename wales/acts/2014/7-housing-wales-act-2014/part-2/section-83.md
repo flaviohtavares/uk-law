@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 83. Cases referred from a local housing authority in England[^key-162a85a9403b7061ca757cc0bb75706a]
+## 83. Cases referred from a local housing authority in England[^c-162a85a9403b7061ca757cc0bb75706a]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ for provision about cases where it is decided that the conditions for referral a
 
 ## Annotations
 
-[^key-162a85a9403b7061ca757cc0bb75706a]: Commencement: [S. 83](https://www.legislation.gov.uk/anaw/2014/7/section/83) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 34](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/34)
+[^c-162a85a9403b7061ca757cc0bb75706a]: Commencement: [S. 83](https://www.legislation.gov.uk/anaw/2014/7/section/83) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 34](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/34)

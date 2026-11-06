@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72F. CMA notice of final breach decision[^key-cc7750a4cecdbd8f7ffe358cf96d7af4]
+## 72F. CMA notice of final breach decision[^c-cc7750a4cecdbd8f7ffe358cf96d7af4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The CMA shall notify the Tribunal and the parties in writing within seven days o
 
 ## Annotations
 
-[^key-cc7750a4cecdbd8f7ffe358cf96d7af4]: Textual amendment: [Pt. 4A](https://www.legislation.gov.uk/uksi/2015/1648/part/4A) inserted (1.10.2025) by [The Competition Appeal Tribunal (Amendment) Rules 2025 (S.I. 2025/999)](https://www.legislation.gov.uk/uksi/2025/999), [rules 1(2)](https://www.legislation.gov.uk/uksi/2025/999/rule/1/2), [6](https://www.legislation.gov.uk/uksi/2025/999/rule/6)
+[^c-cc7750a4cecdbd8f7ffe358cf96d7af4]: Textual amendment: [Pt. 4A](https://www.legislation.gov.uk/uksi/2015/1648/part/4A) inserted (1.10.2025) by [The Competition Appeal Tribunal (Amendment) Rules 2025 (S.I. 2025/999)](https://www.legislation.gov.uk/uksi/2025/999), [rules 1(2)](https://www.legislation.gov.uk/uksi/2025/999/rule/1/2), [6](https://www.legislation.gov.uk/uksi/2025/999/rule/6)

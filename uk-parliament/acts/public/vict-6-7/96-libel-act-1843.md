@@ -43,21 +43,21 @@ In an action for libel contained in any public newspaper or other periodical pub
 
 ## 3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c558019]
 
-## 4. False defamatory libel punishable by imprisonment and fine;[^key-1541531e08b51eeb32441530744417f8]
+## 4. False defamatory libel punishable by imprisonment and fine;[^c-1541531e08b51eeb32441530744417f8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Malicious defamatory libel, by imprisonment or fine.[^key-1541531e08b51eeb32441530744417f8]
+## 5. Malicious defamatory libel, by imprisonment or fine.[^c-1541531e08b51eeb32441530744417f8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Proceedings upon the trial of an indictment or information for a defamatory libel. Double plea. Proviso as to plea of not guilty in civil and criminal proceedings.[^key-1541531e08b51eeb32441530744417f8]
+## 6. Proceedings upon the trial of an indictment or information for a defamatory libel. Double plea. Proviso as to plea of not guilty in civil and criminal proceedings.[^c-1541531e08b51eeb32441530744417f8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 7. Evidence to rebut primâ facie case of publication by an agent.
 
-Whensoever in Northern Ireland[^key-e999758b1cc432b1bee894776ccef231], upon the trial of any indictment or information for the publication of a blasphemous[^key-a938acf8fb366cd9357cfcc785eaa0c6] libel, under the plea of not guilty, evidence shall have been given which shall establish a presumptive case of publication against the defendant by the act of any other person by his authority, it shall be competent to such defendant to prove that such publication was made without his authority, consent, or knowledge, and that the said publication did not arise from want of due care or caution on his part.
+Whensoever in Northern Ireland[^c-e999758b1cc432b1bee894776ccef231], upon the trial of any indictment or information for the publication of a blasphemous[^c-a938acf8fb366cd9357cfcc785eaa0c6] libel, under the plea of not guilty, evidence shall have been given which shall establish a presumptive case of publication against the defendant by the act of any other person by his authority, it shall be competent to such defendant to prove that such publication was made without his authority, consent, or knowledge, and that the said publication did not arise from want of due care or caution on his part.
 
 ## 8. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c558020]
 
@@ -83,10 +83,10 @@ Nothing in this Act contained shall extend to Scotland.
 
 [^c558019]: Textual amendment: S. 3 repealed by [Larceny Act 1916 (c. 50)](https://www.legislation.gov.uk/ukpga/1916/50), [Sch.](https://www.legislation.gov.uk/ukpga/1916/50/schedule)
 
-[^key-1541531e08b51eeb32441530744417f8]: Textual amendment: [Ss. 4-6](https://www.legislation.gov.uk/ukpga/Vict/6-7/96/section/4) repealed (12.1.2010) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [s. 182(2)(e)(iii)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/2/e/iii), [Sch. 23 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/25/schedule/23/part/2) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180))
+[^c-1541531e08b51eeb32441530744417f8]: Textual amendment: [Ss. 4-6](https://www.legislation.gov.uk/ukpga/Vict/6-7/96/section/4) repealed (12.1.2010) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [s. 182(2)(e)(iii)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/2/e/iii), [Sch. 23 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/25/schedule/23/part/2) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180))
 
-[^key-e999758b1cc432b1bee894776ccef231]: Textual amendment: Words in [s. 7](https://www.legislation.gov.uk/ukpga/Vict/6-7/96/section/7) inserted (12.1.2010) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [s. 182(2)(c)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/2/c), [Sch. 21 para. 66(a)](https://www.legislation.gov.uk/ukpga/2009/25/schedule/21/paragraph/66/a) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180))
+[^c-e999758b1cc432b1bee894776ccef231]: Textual amendment: Words in [s. 7](https://www.legislation.gov.uk/ukpga/Vict/6-7/96/section/7) inserted (12.1.2010) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [s. 182(2)(c)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/2/c), [Sch. 21 para. 66(a)](https://www.legislation.gov.uk/ukpga/2009/25/schedule/21/paragraph/66/a) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180))
 
-[^key-a938acf8fb366cd9357cfcc785eaa0c6]: Textual amendment: Word in [s. 7](https://www.legislation.gov.uk/ukpga/Vict/6-7/96/section/7) inserted (12.1.2010) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [s. 182(2)(c)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/2/c), [Sch. 21 para. 66(b)](https://www.legislation.gov.uk/ukpga/2009/25/schedule/21/paragraph/66/b) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180))
+[^c-a938acf8fb366cd9357cfcc785eaa0c6]: Textual amendment: Word in [s. 7](https://www.legislation.gov.uk/ukpga/Vict/6-7/96/section/7) inserted (12.1.2010) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [s. 182(2)(c)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/2/c), [Sch. 21 para. 66(b)](https://www.legislation.gov.uk/ukpga/2009/25/schedule/21/paragraph/66/b) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180))
 
 [^c558020]: Textual amendment: S. 8 repealed by Costs in [Criminal Cases Act 1908 (c. 15)](https://www.legislation.gov.uk/ukpga/1908/15), [Sch.](https://www.legislation.gov.uk/ukpga/1908/15/schedule)

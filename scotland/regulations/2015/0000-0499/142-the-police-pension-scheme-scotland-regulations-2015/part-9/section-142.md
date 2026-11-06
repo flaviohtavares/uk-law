@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 142. Nominations for lump sum death grants[^key-e5b60bb50f29680bbb62ae7d1e05b9a8]
+## 142. Nominations for lump sum death grants[^c-e5b60bb50f29680bbb62ae7d1e05b9a8]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e5b60bb50f29680bbb62ae7d1e05b9a8]: Commencement: Reg. 142 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-e5b60bb50f29680bbb62ae7d1e05b9a8]: Commencement: Reg. 142 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

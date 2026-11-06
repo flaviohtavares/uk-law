@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 127. Confirmation statements: Scottish partnerships[^key-4f631a8e0ddcf530d731d58ecc83070c]
+## 127. Confirmation statements: Scottish partnerships[^c-4f631a8e0ddcf530d731d58ecc83070c]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ In regulation 37 of the Scottish Partnerships (Register of People with Significa
 
 ## Annotations
 
-[^key-4f631a8e0ddcf530d731d58ecc83070c]: Commencement: S. 127 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-4f631a8e0ddcf530d731d58ecc83070c]: Commencement: S. 127 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)

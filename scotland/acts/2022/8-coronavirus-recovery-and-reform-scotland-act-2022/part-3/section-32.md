@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32. Alcohol licensing: how hearings may be held[^key-b4f5e7b0b7afc4a609e59b0229c36635]
+## 32. Alcohol licensing: how hearings may be held[^c-b4f5e7b0b7afc4a609e59b0229c36635]
 
 *Extent: S*
 
@@ -70,4 +70,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b4f5e7b0b7afc4a609e59b0229c36635]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2022/8/section/32) in force at 1.10.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
+[^c-b4f5e7b0b7afc4a609e59b0229c36635]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2022/8/section/32) in force at 1.10.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)

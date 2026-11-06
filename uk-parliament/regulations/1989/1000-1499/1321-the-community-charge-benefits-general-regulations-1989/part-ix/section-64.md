@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 64. Who is to make a determination[^key-c109f99ff71e0fde03273c88af6d3bed]
+## 64. Who is to make a determination[^c-c109f99ff71e0fde03273c88af6d3bed]
 
 *Extent: E+W+S*
 
@@ -29,10 +29,10 @@ summary: ''
 - (c) where the claim has been or is treated as withdrawn under regulation 62 (amendment and withdrawal of claim);
 - (d) made more than 13 benefit weeks prior to the expiry of the claimant’s current benefit period.
 
-(3)[^key-797f8687835545598d7c080f8637e186] Every claim shall be determined by the appropriate authority within 14 days of the provisions of regulations 60 and 61 being satisfied (time and manner for making claims and evidence and information required) or as soon as reasonably practicable thereafter.
+(3)[^c-797f8687835545598d7c080f8637e186] Every claim shall be determined by the appropriate authority within 14 days of the provisions of regulations 60 and 61 being satisfied (time and manner for making claims and evidence and information required) or as soon as reasonably practicable thereafter.
 
 ## Annotations
 
-[^key-c109f99ff71e0fde03273c88af6d3bed]: Commencement: [Reg. 64](https://www.legislation.gov.uk/uksi/1989/1321/regulation/64) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1321/regulation/1)
+[^c-c109f99ff71e0fde03273c88af6d3bed]: Commencement: [Reg. 64](https://www.legislation.gov.uk/uksi/1989/1321/regulation/64) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1321/regulation/1)
 
-[^key-797f8687835545598d7c080f8637e186]: Modification: [Reg. 64(3)](https://www.legislation.gov.uk/uksi/1989/1321/regulation/64/3) excluded (30.8.1989) by [The Community Charge Benefits (Transitional) Order 1989 (S.I. 1989/1322)](https://www.legislation.gov.uk/uksi/1989/1322), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1989/1322/article/1/1), [2(8)](https://www.legislation.gov.uk/uksi/1989/1322/article/2/8)
+[^c-797f8687835545598d7c080f8637e186]: Modification: [Reg. 64(3)](https://www.legislation.gov.uk/uksi/1989/1321/regulation/64/3) excluded (30.8.1989) by [The Community Charge Benefits (Transitional) Order 1989 (S.I. 1989/1322)](https://www.legislation.gov.uk/uksi/1989/1322), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1989/1322/article/1/1), [2(8)](https://www.legislation.gov.uk/uksi/1989/1322/article/2/8)

@@ -38,11 +38,11 @@ summary: ''
   - (i) Chapters 1 and 2,
   - (ii) sections 48 and 49 (denominational education in England),
   - (iii) Schedule 26 to the School Standards and Framework Act 1998 (c. 31) (nursery education), so far as relating to England, or
-  - (iv)[^key-a9bc8ecf6386fbdb7c7e6317ef83d135] sections 106 to 113 of the Education and Skills Act 2008 (independent educational institutions in England),
+  - (iv)[^c-a9bc8ecf6386fbdb7c7e6317ef83d135] sections 106 to 113 of the Education and Skills Act 2008 (independent educational institutions in England),
 - (b) a Welsh inspection provision is any provision of —
   - (i) Chapters 3 and 4,
   - (ii) section 50 and Schedule 6 (denominational education in Wales),
-  - (iii) section 52 (provision of inspection services by local authorities[^key-a2173b6f678e4942b640e80d5cd628b4] in Wales),
+  - (iii) section 52 (provision of inspection services by local authorities[^c-a2173b6f678e4942b640e80d5cd628b4] in Wales),
   - (iv) Schedule 26 to the School Standards and Framework Act 1998 (nursery education), so far as relating to Wales, or
   - (v) sections 163 and 164 of the Education Act 2002 (independent schools in Wales).
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a9bc8ecf6386fbdb7c7e6317ef83d135]: Textual amendment: [S. 62(4)(a)(iv)](https://www.legislation.gov.uk/ukpga/2005/18/section/62/4/a/iv) substituted (5.1.2015) by [Education and Skills Act 2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25), [s. 173(4)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/4), [Sch. 1 para. 29](https://www.legislation.gov.uk/ukpga/2008/25/schedule/1/paragraph/29); [S.I. 2014/3364](https://www.legislation.gov.uk/uksi/2014/3364), [art. 2(z)](https://www.legislation.gov.uk/uksi/2014/3364/article/2/z)
+[^c-a9bc8ecf6386fbdb7c7e6317ef83d135]: Textual amendment: [S. 62(4)(a)(iv)](https://www.legislation.gov.uk/ukpga/2005/18/section/62/4/a/iv) substituted (5.1.2015) by [Education and Skills Act 2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25), [s. 173(4)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/4), [Sch. 1 para. 29](https://www.legislation.gov.uk/ukpga/2008/25/schedule/1/paragraph/29); [S.I. 2014/3364](https://www.legislation.gov.uk/uksi/2014/3364), [art. 2(z)](https://www.legislation.gov.uk/uksi/2014/3364/article/2/z)
 
-[^key-a2173b6f678e4942b640e80d5cd628b4]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 13(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/13/3)
+[^c-a2173b6f678e4942b640e80d5cd628b4]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 13(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/13/3)

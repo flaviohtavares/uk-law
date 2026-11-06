@@ -31,7 +31,7 @@ summary: ''
 
 Distress, England And Wales
 
-The Distress for Rent (Amendment) Rules 2011 (revoked)[^key-763731aab7f872d5eb1cb933d400912a]
+The Distress for Rent (Amendment) Rules 2011 (revoked)[^c-763731aab7f872d5eb1cb933d400912a]
 
 Made
 
@@ -39,30 +39,30 @@ Made
 
 Coming into force in accordance with article 1
 
-[^key-763731aab7f872d5eb1cb933d400912a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-763731aab7f872d5eb1cb933d400912a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-763731aab7f872d5eb1cb933d400912a]
+## 1. Citation and commencement[^c-763731aab7f872d5eb1cb933d400912a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to Distress for Rent Rules 1988[^key-763731aab7f872d5eb1cb933d400912a]
+## 2. Amendments to Distress for Rent Rules 1988[^c-763731aab7f872d5eb1cb933d400912a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-763731aab7f872d5eb1cb933d400912a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-763731aab7f872d5eb1cb933d400912a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-763731aab7f872d5eb1cb933d400912a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-763731aab7f872d5eb1cb933d400912a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-763731aab7f872d5eb1cb933d400912a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-763731aab7f872d5eb1cb933d400912a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-763731aab7f872d5eb1cb933d400912a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-763731aab7f872d5eb1cb933d400912a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-763731aab7f872d5eb1cb933d400912a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-763731aab7f872d5eb1cb933d400912a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-763731aab7f872d5eb1cb933d400912a]: Textual amendment: Rules revoked (6.4.2014 immediately before [2007 c. 15](https://www.legislation.gov.uk/ukpga/2007/15), [Sch. 14 para. 19](https://www.legislation.gov.uk/ukpga/2007/15/schedule/14/paragraph/19), [Sch. 23 Pt. 4](https://www.legislation.gov.uk/ukpga/2007/15/schedule/23/part/4) come into force) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential, Transitional and Saving Provision) Order 2014 (S.I. 2014/600)](https://www.legislation.gov.uk/uksi/2014/600), [art. 2(2)](https://www.legislation.gov.uk/uksi/2014/600/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2014/600/schedule/part/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2014/600/article/3), [4](https://www.legislation.gov.uk/uksi/2014/600/article/4)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
+[^c-763731aab7f872d5eb1cb933d400912a]: Textual amendment: Rules revoked (6.4.2014 immediately before [2007 c. 15](https://www.legislation.gov.uk/ukpga/2007/15), [Sch. 14 para. 19](https://www.legislation.gov.uk/ukpga/2007/15/schedule/14/paragraph/19), [Sch. 23 Pt. 4](https://www.legislation.gov.uk/ukpga/2007/15/schedule/23/part/4) come into force) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential, Transitional and Saving Provision) Order 2014 (S.I. 2014/600)](https://www.legislation.gov.uk/uksi/2014/600), [art. 2(2)](https://www.legislation.gov.uk/uksi/2014/600/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2014/600/schedule/part/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2014/600/article/3), [4](https://www.legislation.gov.uk/uksi/2014/600/article/4)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)

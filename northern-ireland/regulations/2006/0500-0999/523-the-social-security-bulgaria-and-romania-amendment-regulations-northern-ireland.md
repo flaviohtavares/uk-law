@@ -31,7 +31,7 @@ summary: ''
 
 housing; rates; Social security
 
-The Social Security (Bulgaria and Romania) (Amendment) Regulations (Northern Ireland) 2006 (revoked)[^key-67b9ab84e7a578f911355e1447f8b5f6]
+The Social Security (Bulgaria and Romania) (Amendment) Regulations (Northern Ireland) 2006 (revoked)[^c-67b9ab84e7a578f911355e1447f8b5f6]
 
 Made
 
@@ -41,38 +41,38 @@ Coming into operation
 
 1st January 2007
 
-[^key-67b9ab84e7a578f911355e1447f8b5f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-67b9ab84e7a578f911355e1447f8b5f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-67b9ab84e7a578f911355e1447f8b5f6]
+## 1. Citation, commencement and interpretation[^c-67b9ab84e7a578f911355e1447f8b5f6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Income Support (General) Regulations[^key-67b9ab84e7a578f911355e1447f8b5f6]
+## 2. Amendment of the Income Support (General) Regulations[^c-67b9ab84e7a578f911355e1447f8b5f6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Jobseeker’s Allowance Regulations[^key-67b9ab84e7a578f911355e1447f8b5f6]
+## 3. Amendment of the Jobseeker’s Allowance Regulations[^c-67b9ab84e7a578f911355e1447f8b5f6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the State Pension Credit Regulations[^key-67b9ab84e7a578f911355e1447f8b5f6]
+## 4. Amendment of the State Pension Credit Regulations[^c-67b9ab84e7a578f911355e1447f8b5f6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of the Housing Benefit Regulations[^key-67b9ab84e7a578f911355e1447f8b5f6]
+## 5. Amendment of the Housing Benefit Regulations[^c-67b9ab84e7a578f911355e1447f8b5f6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations[^key-67b9ab84e7a578f911355e1447f8b5f6]
+## 6. Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations[^c-67b9ab84e7a578f911355e1447f8b5f6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-67b9ab84e7a578f911355e1447f8b5f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-67b9ab84e7a578f911355e1447f8b5f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-67b9ab84e7a578f911355e1447f8b5f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-67b9ab84e7a578f911355e1447f8b5f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-67b9ab84e7a578f911355e1447f8b5f6]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/523) revoked (1.7.2013) by [The Social Security (Croatia) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/167)](https://www.legislation.gov.uk/nisr/2013/167), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/167/regulation/1/1), [9](https://www.legislation.gov.uk/nisr/2013/167/regulation/9)
+[^c-67b9ab84e7a578f911355e1447f8b5f6]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/523) revoked (1.7.2013) by [The Social Security (Croatia) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/167)](https://www.legislation.gov.uk/nisr/2013/167), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/167/regulation/1/1), [9](https://www.legislation.gov.uk/nisr/2013/167/regulation/9)

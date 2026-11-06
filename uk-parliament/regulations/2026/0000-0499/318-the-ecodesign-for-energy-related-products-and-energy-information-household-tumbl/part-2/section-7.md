@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 7. Verification procedure for compliance purposes[^key-403f6c9b334f1c9a9bc43061b90708ab]
+## 7. Verification procedure for compliance purposes[^c-403f6c9b334f1c9a9bc43061b90708ab]
 
 *Extent: E+W+S*
 
@@ -27,6 +27,6 @@ The market surveillance authority[^f00011] must apply the following verification
 
 ## Annotations
 
-[^key-403f6c9b334f1c9a9bc43061b90708ab]: Commencement: Reg. 7 in force at 10.4.2026, see [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/1/a)
+[^c-403f6c9b334f1c9a9bc43061b90708ab]: Commencement: Reg. 7 in force at 10.4.2026, see [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/1/a)
 
 [^f00011]: Footnote: The meanings of “market surveillance” and “market surveillance authority” are set out in Article 2(17) and (18) respectively of [Regulation (EC) No 765/2008 of the European Parliament and of the Council](https://www.legislation.gov.uk/eur/2008/765/contents) of 9 July 2008 setting out the requirements for accreditation and market surveillance relating to the marketing of products (RAMS) ([EUR 2008/765](https://www.legislation.gov.uk/european/regulation/2008/0765), as amended by [S.I. 2019/696](https://www.legislation.gov.uk/uksi/2019/696/contents)). Definitions in RAMS are applied to [the 2010 Regulations](https://www.legislation.gov.uk/uksi/2010/2617/contents) by [regulation 2](https://www.legislation.gov.uk/uksi/2010/2617/regulation/2) [(2)](https://www.legislation.gov.uk/uksi/2010/2617/regulation/2) of [those Regulations](https://www.legislation.gov.uk/uksi/2010/2617/contents) (as amended by [S.I. 2019/539](https://www.legislation.gov.uk/uksi/2019/539)).

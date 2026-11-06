@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Removal of human remains[^key-020d91e5a72f0ed0fff5e9133b6c2943]
+## 23. Removal of human remains[^c-020d91e5a72f0ed0fff5e9133b6c2943]
 
 *Extent: E+W*
 
@@ -72,7 +72,7 @@ subject to paragraph (10) the undertaker shall remove the remains and cause them
 
 ## Annotations
 
-[^key-020d91e5a72f0ed0fff5e9133b6c2943]: Commencement: Art. 23 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-020d91e5a72f0ed0fff5e9133b6c2943]: Commencement: Art. 23 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
 
 [^f00025]: Footnote: [1857 c.81](https://www.legislation.gov.uk/ukpga/1857/81). There are amendments to this Act which are not relevant to this Order.
 

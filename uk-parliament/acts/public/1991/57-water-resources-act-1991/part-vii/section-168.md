@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Where the appropriate agency[^key-157dcd5fbac4e03601ac256176baddc2] is proposing, for the purposes of, or in connection with, the carrying out of any of its functions—
+(1) Where the appropriate agency[^c-157dcd5fbac4e03601ac256176baddc2] is proposing, for the purposes of, or in connection with, the carrying out of any of its functions—
 
 - (a) to carry out any engineering or building operations; or
 - (b) to discharge water into any inland waters or underground strata,
@@ -61,10 +61,10 @@ he may include in the order provision with respect to facilities for recreation 
 
 (8) In this section the reference to the relevant provisions of this Part is a reference to the provisions of this Part except sections 155 to 158 and 165 to 167 above.
 
-(9)[^key-1b39664e98c73cc167c4cfd4364f3abc] In this section, in relation to the NRBW, references to functions have effect as references to relevant transferred functions.
+(9)[^c-1b39664e98c73cc167c4cfd4364f3abc] In this section, in relation to the NRBW, references to functions have effect as references to relevant transferred functions.
 
 ## Annotations
 
-[^key-157dcd5fbac4e03601ac256176baddc2]: Textual amendment: Words in s. 168 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 288(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/288/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-157dcd5fbac4e03601ac256176baddc2]: Textual amendment: Words in s. 168 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 288(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/288/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-1b39664e98c73cc167c4cfd4364f3abc]: Textual amendment: S. 168(9) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 288(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/288/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-1b39664e98c73cc167c4cfd4364f3abc]: Textual amendment: S. 168(9) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 288(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/288/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

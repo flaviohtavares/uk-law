@@ -32,7 +32,7 @@ summary: ''
 
 PESTICIDES, ENGLAND AND WALES
 
-The Plant Protection Products (Amendment) Regulations 2004 (revoked)[^key-a80b11b07db2f6bf76db363d8ac88958]
+The Plant Protection Products (Amendment) Regulations 2004 (revoked)[^c-a80b11b07db2f6bf76db363d8ac88958]
 
 Made
 
@@ -46,23 +46,23 @@ Coming into force
 
 11th August 2004
 
-[^key-a80b11b07db2f6bf76db363d8ac88958]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a80b11b07db2f6bf76db363d8ac88958]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-a80b11b07db2f6bf76db363d8ac88958]
+## 1. Title and commencement[^c-a80b11b07db2f6bf76db363d8ac88958]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Plant Protection Products Regulations 2003[^key-a80b11b07db2f6bf76db363d8ac88958]
+## 2. Amendment to the Plant Protection Products Regulations 2003[^c-a80b11b07db2f6bf76db363d8ac88958]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a80b11b07db2f6bf76db363d8ac88958]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a80b11b07db2f6bf76db363d8ac88958]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — INSTRUMENTS AMENDING COUNCIL DIRECTIVE [91/414/EEC](https://www.legislation.gov.uk/eudr/1991/414)[^key-a80b11b07db2f6bf76db363d8ac88958]
+## SCHEDULE — INSTRUMENTS AMENDING COUNCIL DIRECTIVE [91/414/EEC](https://www.legislation.gov.uk/eudr/1991/414)[^c-a80b11b07db2f6bf76db363d8ac88958]
 
 Regulation 2
 
@@ -70,8 +70,8 @@ Regulation 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-a80b11b07db2f6bf76db363d8ac88958]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a80b11b07db2f6bf76db363d8ac88958]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a80b11b07db2f6bf76db363d8ac88958]: Textual amendment: Regulations revoked (1.7.2005) by [The Plant Protection Products Regulations 2005 (S.I. 2005/1435)](https://www.legislation.gov.uk/uksi/2005/1435), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1435/regulation/1), [28](https://www.legislation.gov.uk/uksi/2005/1435/regulation/28) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2005/1435/schedule/4))
+[^c-a80b11b07db2f6bf76db363d8ac88958]: Textual amendment: Regulations revoked (1.7.2005) by [The Plant Protection Products Regulations 2005 (S.I. 2005/1435)](https://www.legislation.gov.uk/uksi/2005/1435), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1435/regulation/1), [28](https://www.legislation.gov.uk/uksi/2005/1435/regulation/28) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2005/1435/schedule/4))

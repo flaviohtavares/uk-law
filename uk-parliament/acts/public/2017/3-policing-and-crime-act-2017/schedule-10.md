@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 10 — Schedule to be inserted as Schedule 3B to the Police Reform Act 2002[^c22720241][^key-335162d7cddab265e6e401d9d8934171]
+## SCHEDULE 10 — Schedule to be inserted as Schedule 3B to the Police Reform Act 2002[^c22720241][^c-335162d7cddab265e6e401d9d8934171]
 
 *Extent: E+W*
 
@@ -67,4 +67,4 @@ Section 38
 
 [^c22720241]: Commencement: [Sch. 10](https://www.legislation.gov.uk/ukpga/2017/3/schedule/10) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-335162d7cddab265e6e401d9d8934171]: Commencement: [Sch. 10](https://www.legislation.gov.uk/ukpga/2017/3/schedule/10) in force at 15.12.2017 in so far as not already in force by [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/d) (with [regs. 4](https://www.legislation.gov.uk/uksi/2017/1139/regulation/4), [5](https://www.legislation.gov.uk/uksi/2017/1139/regulation/5)) (as amended by S.I 2017/1162, reg. 2)
+[^c-335162d7cddab265e6e401d9d8934171]: Commencement: [Sch. 10](https://www.legislation.gov.uk/ukpga/2017/3/schedule/10) in force at 15.12.2017 in so far as not already in force by [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/d) (with [regs. 4](https://www.legislation.gov.uk/uksi/2017/1139/regulation/4), [5](https://www.legislation.gov.uk/uksi/2017/1139/regulation/5)) (as amended by S.I 2017/1162, reg. 2)

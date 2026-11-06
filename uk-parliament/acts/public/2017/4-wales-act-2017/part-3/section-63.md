@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Cross-deployment of tribunal members and judges[^key-fc6152c9194ea0813fa66d466c3a8512]
+## 63. Cross-deployment of tribunal members and judges[^c-fc6152c9194ea0813fa66d466c3a8512]
 
 *Extent: E+W+S+N.I.*
 
@@ -68,4 +68,4 @@ includes a reference to an individual designated by that person to exercise the 
 
 ## Annotations
 
-[^key-fc6152c9194ea0813fa66d466c3a8512]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2017/4/section/63) in force at 10.7.2017 or the first day on which regulations made under 2017 c. 4, Sch. 5 para. 7(1) come into force, whichever is the later by [S.I. 2017/351](https://www.legislation.gov.uk/uksi/2017/351), [reg. 2](https://www.legislation.gov.uk/uksi/2017/351/regulation/2)
+[^c-fc6152c9194ea0813fa66d466c3a8512]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2017/4/section/63) in force at 10.7.2017 or the first day on which regulations made under 2017 c. 4, Sch. 5 para. 7(1) come into force, whichever is the later by [S.I. 2017/351](https://www.legislation.gov.uk/uksi/2017/351), [reg. 2](https://www.legislation.gov.uk/uksi/2017/351/regulation/2)

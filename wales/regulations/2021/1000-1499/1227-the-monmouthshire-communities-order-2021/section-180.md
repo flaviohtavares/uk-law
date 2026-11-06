@@ -18,10 +18,10 @@ summary: ''
 
 *Extent: E+W*
 
-**180.**[^key-3b3394e63bf57fe9cfcf01fa63debacd][^key-61ec178d7f4896e4d7621b4ceb836293] The new electoral ward of Magor East is created which comprises the areas of the Magor East and Undy wards of the community of Magor with Undy
+**180.**[^c-3b3394e63bf57fe9cfcf01fa63debacd][^c-61ec178d7f4896e4d7621b4ceb836293] The new electoral ward of Magor East is created which comprises the areas of the Magor East and Undy wards of the community of Magor with Undy
 
 ## Annotations
 
-[^key-3b3394e63bf57fe9cfcf01fa63debacd]: Commencement: Art. 180 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
+[^c-3b3394e63bf57fe9cfcf01fa63debacd]: Commencement: Art. 180 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
 
-[^key-61ec178d7f4896e4d7621b4ceb836293]: Commencement: [Art. 180](https://www.legislation.gov.uk/wsi/2021/1227/article/180) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)
+[^c-61ec178d7f4896e4d7621b4ceb836293]: Commencement: [Art. 180](https://www.legislation.gov.uk/wsi/2021/1227/article/180) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Notice of proposed alterations in respect of an individually recognised scheme[^key-98616bc373dd4fcb9404edbd7278bf06]
+## 45. Notice of proposed alterations in respect of an individually recognised scheme[^c-98616bc373dd4fcb9404edbd7278bf06]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ the notice has effect after commencement as a notice given in accordance with se
 
 ## Annotations
 
-[^key-98616bc373dd4fcb9404edbd7278bf06]: Commencement: Art. 45 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-98616bc373dd4fcb9404edbd7278bf06]: Commencement: Art. 45 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

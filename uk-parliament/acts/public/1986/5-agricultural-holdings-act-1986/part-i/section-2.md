@@ -36,8 +36,8 @@ if the circumstances are such that if his interest were a tenancy from year to y
 
 (4) Any dispute arising as to the operation of this section in relation to any agreement shall be determined by arbitration under this Act.
 
-(5)[^key-9c09ecd8238fec6329dec3f435e9cdff] Notwithstanding subsection (4) above, the parties to the agreement may instead refer for third party determination under this Act the dispute that has arisen as to the operation of this section.
+(5)[^c-9c09ecd8238fec6329dec3f435e9cdff] Notwithstanding subsection (4) above, the parties to the agreement may instead refer for third party determination under this Act the dispute that has arisen as to the operation of this section.
 
 ## Annotations
 
-[^key-9c09ecd8238fec6329dec3f435e9cdff]: Textual amendment: S. 2(5) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e)[(3)(a)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/a), [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2015/20/schedule/4/paragraph/2)
+[^c-9c09ecd8238fec6329dec3f435e9cdff]: Textual amendment: S. 2(5) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e)[(3)(a)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/a), [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2015/20/schedule/4/paragraph/2)

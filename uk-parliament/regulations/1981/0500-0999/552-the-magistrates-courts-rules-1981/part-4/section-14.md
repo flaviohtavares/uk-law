@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Order of evidence and speeches: complaint[^key-39bd0bef07d5e2aedadb40e5a18cab69][^key-5b552ad0d18a1886ebf49e7d22d2c50f]
+## 14. Order of evidence and speeches: complaint[^c-39bd0bef07d5e2aedadb40e5a18cab69][^c-5b552ad0d18a1886ebf49e7d22d2c50f]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-39bd0bef07d5e2aedadb40e5a18cab69]: Commencement: [Rule 14](https://www.legislation.gov.uk/uksi/1981/552/rule/14) in force at 6.7.1981, see [rule 1(1)](https://www.legislation.gov.uk/uksi/1981/552/rule/1/1)
+[^c-39bd0bef07d5e2aedadb40e5a18cab69]: Commencement: [Rule 14](https://www.legislation.gov.uk/uksi/1981/552/rule/14) in force at 6.7.1981, see [rule 1(1)](https://www.legislation.gov.uk/uksi/1981/552/rule/1/1)
 
-[^key-5b552ad0d18a1886ebf49e7d22d2c50f]: Modification: [Rule 14](https://www.legislation.gov.uk/uksi/1981/552/rule/14) replaced (4.4.2005) by [The Criminal Procedure Rules 2005 (S.I. 2005/384)](https://www.legislation.gov.uk/uksi/2005/384), [rule 37.7](https://www.legislation.gov.uk/uksi/2005/384/rule/37.7) (with [rule 2.1](https://www.legislation.gov.uk/uksi/2005/384/rule/2.1)); \[Editorial note: This rule, the substance of which is reproduced in and referred to by the Criminal Procedure Rules, is revoked when those Rules come into force by virtue of the provisions of [2003 c. 39](https://www.legislation.gov.uk/ukpga/2003/39), [S.I. 2004/2066](https://www.legislation.gov.uk/uksi/2004/2066) and [S.I. 2004/2035](https://www.legislation.gov.uk/uksi/2004/2035), see CrimPR rule 2.1 note.\]
+[^c-5b552ad0d18a1886ebf49e7d22d2c50f]: Modification: [Rule 14](https://www.legislation.gov.uk/uksi/1981/552/rule/14) replaced (4.4.2005) by [The Criminal Procedure Rules 2005 (S.I. 2005/384)](https://www.legislation.gov.uk/uksi/2005/384), [rule 37.7](https://www.legislation.gov.uk/uksi/2005/384/rule/37.7) (with [rule 2.1](https://www.legislation.gov.uk/uksi/2005/384/rule/2.1)); \[Editorial note: This rule, the substance of which is reproduced in and referred to by the Criminal Procedure Rules, is revoked when those Rules come into force by virtue of the provisions of [2003 c. 39](https://www.legislation.gov.uk/ukpga/2003/39), [S.I. 2004/2066](https://www.legislation.gov.uk/uksi/2004/2066) and [S.I. 2004/2035](https://www.legislation.gov.uk/uksi/2004/2035), see CrimPR rule 2.1 note.\]

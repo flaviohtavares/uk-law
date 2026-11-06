@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Annual reports[^key-c6935072a117cd27a314cd589ab561e8]
+## 18. Annual reports[^c-c6935072a117cd27a314cd589ab561e8]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c6935072a117cd27a314cd589ab561e8]: Commencement: [S. 18](https://www.legislation.gov.uk/mwa/2011/1/section/18) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(h)](https://www.legislation.gov.uk/wsi/2012/969/article/2/h)
+[^c-c6935072a117cd27a314cd589ab561e8]: Commencement: [S. 18](https://www.legislation.gov.uk/mwa/2011/1/section/18) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(h)](https://www.legislation.gov.uk/wsi/2012/969/article/2/h)

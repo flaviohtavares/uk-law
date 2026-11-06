@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Age of sale for tobacco products etc[^key-d7e0d91fccca5fc2a609521619623213][^key-d9bc07026d56afad81d4264b0eac1833]
+## 72. Age of sale for tobacco products etc[^c-d7e0d91fccca5fc2a609521619623213][^c-d9bc07026d56afad81d4264b0eac1833]
 
 *Extent: N.I.*
 
@@ -41,6 +41,6 @@ For Article 3 of the Health and Personal Social Services (Northern Ireland) Orde
 
 ## Annotations
 
-[^key-d7e0d91fccca5fc2a609521619623213]: Commencement: S. 72 in force at Royal Assent for specified purposes, see [s. 175(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2)
+[^c-d7e0d91fccca5fc2a609521619623213]: Commencement: S. 72 in force at Royal Assent for specified purposes, see [s. 175(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2)
 
-[^key-d9bc07026d56afad81d4264b0eac1833]: Commencement: S. 72 in force at 1.1.2027 in so far as not already in force, see [s. 175(3)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/3)
+[^c-d9bc07026d56afad81d4264b0eac1833]: Commencement: S. 72 in force at 1.1.2027 in so far as not already in force, see [s. 175(3)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/3)

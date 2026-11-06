@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Amendments of subordinate legislation (references to the UK Listing Authority or the Competent Authority for Listing)[^key-b9c34a7e5c1817e479a3fd5505a63516]
+## 6. Amendments of subordinate legislation (references to the UK Listing Authority or the Competent Authority for Listing)[^c-b9c34a7e5c1817e479a3fd5505a63516]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b9c34a7e5c1817e479a3fd5505a63516]: Commencement: Art. 6 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)
+[^c-b9c34a7e5c1817e479a3fd5505a63516]: Commencement: Art. 6 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1)

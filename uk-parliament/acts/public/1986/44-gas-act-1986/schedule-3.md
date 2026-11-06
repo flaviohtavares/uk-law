@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3 — Acquisition of Land by Public Gas Suppliers[^key-7d3a1885bce9a84939aa70680145d59e][^key-f5c2e716223e29107d4476333cbac5a3]
+## SCHEDULE 3 — Acquisition of Land by Public Gas Suppliers[^c-7d3a1885bce9a84939aa70680145d59e][^c-f5c2e716223e29107d4476333cbac5a3]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,7 +59,7 @@ Section 9(3).
 
 > **7.** In assessing the compensation to be paid by the acquiring authority under this Act regard shall be had not only to the extent (if any) to which the value of the land over which the right is to be acquired is depreciated by the acquisition of the right but also to the damage (if any) to be sustained by the owner of the land by reason of its severance from other land of his, or injuriously affecting that other land by the exercise of the powers conferred by this or the special Act.
 
-**8.**[^key-e515acdb9479d19d890964c8597cd98c] Section 8(1) of the Compulsory Purchase Act 1965 has effect as if references to acquiring land were to acquiring a right in the land, and Schedule 2A to that Act is to be read as if, for that Schedule, there were substituted—
+**8.**[^c-e515acdb9479d19d890964c8597cd98c] Section 8(1) of the Compulsory Purchase Act 1965 has effect as if references to acquiring land were to acquiring a right in the land, and Schedule 2A to that Act is to be read as if, for that Schedule, there were substituted—
 
 > **SCHEDULE 2A — Counter-notice requiring purchase of land**
 >
@@ -178,7 +178,7 @@ shall be so modified as to secure that, as against persons with interests in the
 
 **21.** Paragraph 10 above shall have effect in relation to the said Act of 1947 with the substitution of a reference to paragraph 3(1) of the Second Schedule to that Act for the reference to section 11 of the [^c14441511]Compulsory Purchase Act 1965, and with the omission of the words from “and sections” to the end of the paragraph.
 
-**22.** For paragraph 4 of the Second Schedule to the said Act of 1947 (protection for owner against severance of property) there shall be substituted the provisions substituted by paragraph 8 of this Schedule for section 8(1) of the said Act of 1965, and any reference in those provisions to the Upper Tribunal[^key-c62dcab77f55203dfb67556dda5a3157] shall be construed as a reference to the Lands Tribunal for Scotland.
+**22.** For paragraph 4 of the Second Schedule to the said Act of 1947 (protection for owner against severance of property) there shall be substituted the provisions substituted by paragraph 8 of this Schedule for section 8(1) of the said Act of 1965, and any reference in those provisions to the Upper Tribunal[^c-c62dcab77f55203dfb67556dda5a3157] shall be construed as a reference to the Lands Tribunal for Scotland.
 
 #### Restrictions on application of paragraphs 15 to 20 above
 
@@ -210,9 +210,9 @@ shall be so modified as to secure that, as against persons with interests in the
 
 ## Annotations
 
-[^key-7d3a1885bce9a84939aa70680145d59e]: Modification: [Sch. 3](https://www.legislation.gov.uk/ukpga/1986/44/schedule/3) applied (11.8.2022) by [The Sizewell C (Nuclear Generating Station) Order 2022 (S.I. 2022/853)](https://www.legislation.gov.uk/uksi/2022/853), [art. 1](https://www.legislation.gov.uk/uksi/2022/853/article/1), [Sch. 18 para. 8(3)](https://www.legislation.gov.uk/uksi/2022/853/schedule/18/paragraph/8/3) (with [arts. 62](https://www.legislation.gov.uk/uksi/2022/853/article/62), [76](https://www.legislation.gov.uk/uksi/2022/853/article/76), [87](https://www.legislation.gov.uk/uksi/2022/853/article/87))
+[^c-7d3a1885bce9a84939aa70680145d59e]: Modification: [Sch. 3](https://www.legislation.gov.uk/ukpga/1986/44/schedule/3) applied (11.8.2022) by [The Sizewell C (Nuclear Generating Station) Order 2022 (S.I. 2022/853)](https://www.legislation.gov.uk/uksi/2022/853), [art. 1](https://www.legislation.gov.uk/uksi/2022/853/article/1), [Sch. 18 para. 8(3)](https://www.legislation.gov.uk/uksi/2022/853/schedule/18/paragraph/8/3) (with [arts. 62](https://www.legislation.gov.uk/uksi/2022/853/article/62), [76](https://www.legislation.gov.uk/uksi/2022/853/article/76), [87](https://www.legislation.gov.uk/uksi/2022/853/article/87))
 
-[^key-f5c2e716223e29107d4476333cbac5a3]: Modification: [Sch. 3](https://www.legislation.gov.uk/ukpga/1986/44/schedule/3) applied (13.11.2025) by [The Stonestreet Green Solar Order 2025 (S.I. 2025/1175)](https://www.legislation.gov.uk/uksi/2025/1175), [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1), [Sch. 12 para. 8(3)](https://www.legislation.gov.uk/uksi/2025/1175/schedule/12/paragraph/8/3) (with [art. 40](https://www.legislation.gov.uk/uksi/2025/1175/article/40), [Sch. 13](https://www.legislation.gov.uk/uksi/2025/1175/schedule/13))
+[^c-f5c2e716223e29107d4476333cbac5a3]: Modification: [Sch. 3](https://www.legislation.gov.uk/ukpga/1986/44/schedule/3) applied (13.11.2025) by [The Stonestreet Green Solar Order 2025 (S.I. 2025/1175)](https://www.legislation.gov.uk/uksi/2025/1175), [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1), [Sch. 12 para. 8(3)](https://www.legislation.gov.uk/uksi/2025/1175/schedule/12/paragraph/8/3) (with [art. 40](https://www.legislation.gov.uk/uksi/2025/1175/article/40), [Sch. 13](https://www.legislation.gov.uk/uksi/2025/1175/schedule/13))
 
 [^c14441151]: Modification: Sch. 3 Pt. I (ss. 1-3): Functions transferred (15.10.2000) to the Scottish Ministers by [S.I. 2000/3253](https://www.legislation.gov.uk/uksi/2000/3253), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2000/3253/article/1/1), [3](https://www.legislation.gov.uk/uksi/2000/3253/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2000/3253/schedule/2)
 
@@ -238,7 +238,7 @@ shall be so modified as to secure that, as against persons with interests in the
 
 [^c14441391]: Textual amendment: Words in Sch. 3 para. 6 substituted (1.10.2001) by [2000 c. 27](https://www.legislation.gov.uk/ukpga/2000/27), [s. 108](https://www.legislation.gov.uk/ukpga/2000/27/section/108), [Sch. 6](https://www.legislation.gov.uk/ukpga/2000/27/schedule/6), [Pt. I para. 2(2)](https://www.legislation.gov.uk/ukpga/2000/27/part/I/paragraph/2/2); [S.I. 2001/3266](https://www.legislation.gov.uk/uksi/2001/3266) arts. 1(2), 2, Sch. (subject to transitional provisions in arts. 3-20)
 
-[^key-e515acdb9479d19d890964c8597cd98c]: Textual amendment: Sch. 3 para. 8 substituted (3.2.2017) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 17 paras. 6](https://www.legislation.gov.uk/ukpga/2016/22/schedule/17/paragraph/6), [7](https://www.legislation.gov.uk/ukpga/2016/22/schedule/17/paragraph/7); [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/75/regulation/3/g) (with [reg. 5](https://www.legislation.gov.uk/uksi/2017/75/regulation/5))
+[^c-e515acdb9479d19d890964c8597cd98c]: Textual amendment: Sch. 3 para. 8 substituted (3.2.2017) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 17 paras. 6](https://www.legislation.gov.uk/ukpga/2016/22/schedule/17/paragraph/6), [7](https://www.legislation.gov.uk/ukpga/2016/22/schedule/17/paragraph/7); [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/75/regulation/3/g) (with [reg. 5](https://www.legislation.gov.uk/uksi/2017/75/regulation/5))
 
 [^M_F_8d61c9bc-020f-4e33-ead9-573492093108]: Textual amendment: Words in Sch. 3 para. 10 substituted (1.4.2008) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 22 para. 4](https://www.legislation.gov.uk/ukpga/2007/15/schedule/22/paragraph/4); [S.I. 2007/2709](https://www.legislation.gov.uk/uksi/2007/2709), [art. 5(b)](https://www.legislation.gov.uk/uksi/2007/2709/article/5/b)
 
@@ -262,7 +262,7 @@ shall be so modified as to secure that, as against persons with interests in the
 
 [^c14441511]: Marginal citation: [1965 c. 56](https://www.legislation.gov.uk/ukpga/1965/56).
 
-[^key-c62dcab77f55203dfb67556dda5a3157]: Textual amendment: Words in Sch. 3 para. 22 substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 179(b)](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/179/b) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
+[^c-c62dcab77f55203dfb67556dda5a3157]: Textual amendment: Words in Sch. 3 para. 22 substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 179(b)](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/179/b) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
 
 [^c14441521]: Marginal citation: [1965 c. 36](https://www.legislation.gov.uk/ukpga/1965/36).
 

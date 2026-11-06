@@ -32,7 +32,7 @@ summary: ''
 
 Representation Of The People
 
-The European Parliamentary Elections (Welsh Forms) Order 2009 (revoked)[^key-9382ae2cc944302eb80680ccebba036f]
+The European Parliamentary Elections (Welsh Forms) Order 2009 (revoked)[^c-9382ae2cc944302eb80680ccebba036f]
 
 Made
 
@@ -44,45 +44,45 @@ Laid before Parliament
 
 Coming into force in accordance with article 1
 
-[^key-9382ae2cc944302eb80680ccebba036f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9382ae2cc944302eb80680ccebba036f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-9382ae2cc944302eb80680ccebba036f]
+## 1. Citation and commencement[^c-9382ae2cc944302eb80680ccebba036f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-9382ae2cc944302eb80680ccebba036f]
+## 2. Interpretation[^c-9382ae2cc944302eb80680ccebba036f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-9382ae2cc944302eb80680ccebba036f]
+## 3. Revocation[^c-9382ae2cc944302eb80680ccebba036f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Welsh versions of forms of words[^key-9382ae2cc944302eb80680ccebba036f]
+## 4. Welsh versions of forms of words[^c-9382ae2cc944302eb80680ccebba036f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Welsh version of prescribed forms or forms of words[^key-9382ae2cc944302eb80680ccebba036f]
+## 5. Welsh version of prescribed forms or forms of words[^c-9382ae2cc944302eb80680ccebba036f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Welsh and English versions of prescribed forms[^key-9382ae2cc944302eb80680ccebba036f]
+## 6. Welsh and English versions of prescribed forms[^c-9382ae2cc944302eb80680ccebba036f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9382ae2cc944302eb80680ccebba036f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9382ae2cc944302eb80680ccebba036f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Welsh version of prescribed forms or forms of words[^key-9382ae2cc944302eb80680ccebba036f]
+## SCHEDULE 1 — Welsh version of prescribed forms or forms of words[^c-9382ae2cc944302eb80680ccebba036f]
 
 Article 5
 
 [image: see source](https://www.legislation.gov.uk/uksi/2009/781/images/uksi_20090781_en_001)[image: see source](https://www.legislation.gov.uk/uksi/2009/781/images/uksi_20090781_en_002)[image: see source](https://www.legislation.gov.uk/uksi/2009/781/images/uksi_20090781_en_003)[image: see source](https://www.legislation.gov.uk/uksi/2009/781/images/uksi_20090781_en_004)[image: see source](https://www.legislation.gov.uk/uksi/2009/781/images/uksi_20090781_en_005)
 
-## SCHEDULE 2 — Welsh and English versions of prescribed forms[^key-9382ae2cc944302eb80680ccebba036f]
+## SCHEDULE 2 — Welsh and English versions of prescribed forms[^c-9382ae2cc944302eb80680ccebba036f]
 
 Article 6
 
@@ -90,8 +90,8 @@ Article 6
 
 **May not be in force at this date. Check the source.**
 
-[^key-9382ae2cc944302eb80680ccebba036f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9382ae2cc944302eb80680ccebba036f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9382ae2cc944302eb80680ccebba036f]: Textual amendment: Order revoked (1.4.2014) by [The European Parliamentary Elections (Welsh Forms) Order 2014 (S.I. 2014/704)](https://www.legislation.gov.uk/uksi/2014/704), [arts. 1](https://www.legislation.gov.uk/uksi/2014/704/article/1), [3](https://www.legislation.gov.uk/uksi/2014/704/article/3)
+[^c-9382ae2cc944302eb80680ccebba036f]: Textual amendment: Order revoked (1.4.2014) by [The European Parliamentary Elections (Welsh Forms) Order 2014 (S.I. 2014/704)](https://www.legislation.gov.uk/uksi/2014/704), [arts. 1](https://www.legislation.gov.uk/uksi/2014/704/article/1), [3](https://www.legislation.gov.uk/uksi/2014/704/article/3)

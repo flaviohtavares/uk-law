@@ -56,7 +56,7 @@ The Secretary of State has considered the objections and representations made in
 
 The Secretary of State, in exercise of the powers conferred by sections 1, 3(1), 4(2) and (4) of, and Schedule 1 to, the Act, makes the following Order.
 
-## 1. Citation, commencement and extent[^key-3388d407112e14c2616c26dbd2cb6bdf][^key-3388d407112e14c2616c26dbd2cb6bdf]
+## 1. Citation, commencement and extent[^c-3388d407112e14c2616c26dbd2cb6bdf][^c-3388d407112e14c2616c26dbd2cb6bdf]
 
 This Order—
 
@@ -66,7 +66,7 @@ This Order—
   - (ii) otherwise, on 18th December 2024; and
 - (c) extends to England and Wales.
 
-## 2. Interpretation[^key-003c1aec3df745ffe67769d62c5db729]
+## 2. Interpretation[^c-003c1aec3df745ffe67769d62c5db729]
 
 In this Order—
 
@@ -83,13 +83,13 @@ In this Order—
 - “**relevant offence**” means any offence under the Sea Fisheries (Shellfish) Act 1967 or section 292 of the Marine and Coastal Access Act 2009;
 - “**transitional period licence**” means a licence to dredge, fish for or take cockles within the regulated fishery issued pursuant to article 6.
 
-## 3. Right of regulating a fishery and duration of right[^key-36bdeb48402ea1e66b27d33066693350]
+## 3. Right of regulating a fishery and duration of right[^c-36bdeb48402ea1e66b27d33066693350]
 
 (1) The Secretary of State confers on the Authority the right of regulating a fishery for cockles in relation to the regulated fishery for a period of 28 years beginning on 18th December 2024.
 
 (2) The Authority continues to be constituted as a body corporate for the purposes of this Order.
 
-## 4. Regulations and restrictions applicable in respect of the regulated fishery[^key-63e15a2f2b300dd4769b0f147e9d3319]
+## 4. Regulations and restrictions applicable in respect of the regulated fishery[^c-63e15a2f2b300dd4769b0f147e9d3319]
 
 (1) A person must not dredge, fish for or take cockles within the regulated fishery unless that person is permitted to do so under the terms of a licence issued by the Authority.
 
@@ -97,7 +97,7 @@ In this Order—
 
 (3) Schedule 2 (regulations and restrictions applicable to the fishery) has effect.
 
-## 5. Application for a licence, licence terms and duration of licences[^key-66436833431e1f48a82ada211d3c9cdc]
+## 5. Application for a licence, licence terms and duration of licences[^c-66436833431e1f48a82ada211d3c9cdc]
 
 (1) Applications to the Authority for a licence to dredge, fish for or take cockles within the regulated fishery (“**a licence**”) must be made within the application window and in such manner as the Authority may determine.
 
@@ -124,12 +124,12 @@ In this Order—
 
 (11) The Authority may attach conditions to a licence as set out in Schedule 3.
 
-(12)[^key-d3ba523aaae44cd8af4fbd40c772026b] A person (“**P**”) is not eligible to be issued with a licence or to have a licence renewed under this article before 18th December 2031 if—
+(12)[^c-d3ba523aaae44cd8af4fbd40c772026b] A person (“**P**”) is not eligible to be issued with a licence or to have a licence renewed under this article before 18th December 2031 if—
 
 - (a) P, or a shareholder or officer of P, was on 30th January 2024 a shareholder or officer of a company (“**C**”); and
 - (b) C has been issued with a transitional period licence under article 6.
 
-## 6. Transitional Period Licence[^key-2e026a842b60be2a7078b932cfcb0c4e]
+## 6. Transitional Period Licence[^c-2e026a842b60be2a7078b932cfcb0c4e]
 
 (1) The Authority may issue a transitional period licence within the first 7 years of the date of this Order, if the applicant—
 
@@ -164,7 +164,7 @@ In this Order—
 - (c) an application is made in writing to the Authority for the transitional period licence to continue, giving details of any changes to the legal or beneficial ownership of the company, and
 - (d) the Authority approves the application and the continuation of the transitional period licence.
 
-## 7. Tolls and fees payable[^key-257a247bbc40bdb68d053912e11a72da]
+## 7. Tolls and fees payable[^c-257a247bbc40bdb68d053912e11a72da]
 
 (1) An annual toll of £10,885 must be paid to the Authority by any person licensed by the Authority to dredge, fish for or take cockles within the regulated fishery.
 
@@ -172,7 +172,7 @@ In this Order—
 
 (3) The Authority may, with the consent of the Secretary of State, vary the toll from time to time.
 
-## 8. Power to create reserves[^key-71c62235dced98b326ac7ae9fefefc81]
+## 8. Power to create reserves[^c-71c62235dced98b326ac7ae9fefefc81]
 
 (1) The Authority may from time to time designate and mark out as reserves, such parts of the regulated fishery as it thinks necessary for—
 
@@ -183,15 +183,15 @@ In this Order—
 
 (2) The Authority may use such reserves for their designated purposes and prohibit their use for any other purpose connected with or ancillary to the dredging, fishing for or taking of cockles.
 
-## 9. Power to remove juvenile cockles[^key-fbefb1e5fd66c385ce7ff92c77c84317]
+## 9. Power to remove juvenile cockles[^c-fbefb1e5fd66c385ce7ff92c77c84317]
 
 For the purposes of cultivating the regulated fishery any person authorised by the Authority may remove any spat or small cockles from the regulated fishery, or from one part of the regulated fishery to any other part, at such times and in such quantities as the Authority may direct.
 
-## 10. Exemptions for scientific and fisheries management purposes[^key-9a9ad3027893373d45a8e3617cb3a8f1]
+## 10. Exemptions for scientific and fisheries management purposes[^c-9a9ad3027893373d45a8e3617cb3a8f1]
 
 The Authority may, by authority given in writing, exempt any person who is dredging, fishing for, or taking cockles for scientific or fisheries management purposes from any provision of, or made under, this Order.
 
-## 11. Accounts of income and expenditure and other information[^key-bc2001b5980cb6873611693a66e892e8]
+## 11. Accounts of income and expenditure and other information[^c-bc2001b5980cb6873611693a66e892e8]
 
 (1) The Authority must provide the Secretary of State with annual accounts of its income and expenditure under this Order.
 
@@ -199,17 +199,17 @@ The Authority may, by authority given in writing, exempt any person who is dredg
 
 (3) The Authority must allow any person authorised by the Secretary of State to inspect the fishery and all accounts and other documents in the possession of the Authority relating to this Order and to the regulated fishery and must give that person any information relating to these matters which that person may require.
 
-## 12. Rights of landowners and lessees[^key-10448719beed4d170281ecb92e75f74b]
+## 12. Rights of landowners and lessees[^c-10448719beed4d170281ecb92e75f74b]
 
 Nothing in this Order or in any restriction imposed under it or regulation made under it prejudicially affects any right of a person who owns any part of the fishery area or of any person to whom such a person has granted a lease in respect of the fishery area.
 
-## 13. Lawful activities of statutory undertakers[^key-440f9536b4cc2fffe0e2a3cd9c8993d6]
+## 13. Lawful activities of statutory undertakers[^c-440f9536b4cc2fffe0e2a3cd9c8993d6]
 
 (1) Nothing in this Order or in any restriction imposed under it or regulation made under it prejudicially affects the lawful activities of a statutory undertaker exercising its statutory functions or authority.
 
 (2) “**Statutory undertaker**” has the meaning given by article 2(1) of the Town and Country Planning (General Permitted Development) (England) Order 2015[^f00008].
 
-## 14. Revocation[^key-3a89d82a75d814d959ea9760e3fa1522][^key-3a89d82a75d814d959ea9760e3fa1522]
+## 14. Revocation[^c-3a89d82a75d814d959ea9760e3fa1522][^c-3a89d82a75d814d959ea9760e3fa1522]
 
 The Thames Estuary Cockle Fishery Order 2024[^f00009] is revoked.
 
@@ -221,11 +221,11 @@ Department for Environment, Food and Rural Affairs
 
 22nd November 2024
 
-## SCHEDULE 1 — THE REGULATED FISHERY[^key-e5d88bc4fe7ce5ff1cb1110241c6944e]
+## SCHEDULE 1 — THE REGULATED FISHERY[^c-e5d88bc4fe7ce5ff1cb1110241c6944e]
 
 Article 2
 
-[^key-e5d88bc4fe7ce5ff1cb1110241c6944e]
+[^c-e5d88bc4fe7ce5ff1cb1110241c6944e]
 
 The area in respect of which the right is conferred lies within the Thames Estuary, the boundary line of which is determined by joining by loxodromic lines, unless otherwise specified, each of the sequential sets of co-ordinates set out below and shown for explanatory purposes on the map.
 
@@ -235,17 +235,17 @@ The area in respect of which the right is conferred lies within the Thames Estua
 
 Article 4(3)
 
-**1.**[^key-cbe7cd8b6dfa4281e9937fb4569c4965] Any person in possession of cockles in breach of a provision of this Order must, if requested by an officer of the Authority, immediately redeposit them as close as possible to the location from which they were taken.
+**1.**[^c-cbe7cd8b6dfa4281e9937fb4569c4965] Any person in possession of cockles in breach of a provision of this Order must, if requested by an officer of the Authority, immediately redeposit them as close as possible to the location from which they were taken.
 
-**2.**[^key-30f4230adb8bb404278c4974227f4838] A person must not dredge, fish for or take cockles in or from any bed within the regulated fishery which the Authority has closed unless the Authority has given that person written consent.
+**2.**[^c-30f4230adb8bb404278c4974227f4838] A person must not dredge, fish for or take cockles in or from any bed within the regulated fishery which the Authority has closed unless the Authority has given that person written consent.
 
-**3.**[^key-577857ef3906b24b3231b92fc2c9a178] A person must not introduce any cockles into the regulated fishery, unless they do so as a result of a request under paragraph 1 or under section 3(1)(c) of the Act.
+**3.**[^c-577857ef3906b24b3231b92fc2c9a178] A person must not introduce any cockles into the regulated fishery, unless they do so as a result of a request under paragraph 1 or under section 3(1)(c) of the Act.
 
-## SCHEDULE 3 — CONDITIONS WHICH MAY BE ATTACHED TO A LICENCE[^key-330b1007ce2d9290cacf1a6f6227e019]
+## SCHEDULE 3 — CONDITIONS WHICH MAY BE ATTACHED TO A LICENCE[^c-330b1007ce2d9290cacf1a6f6227e019]
 
 Articles 5(11) & 6(4)
 
-[^key-330b1007ce2d9290cacf1a6f6227e019]
+[^c-330b1007ce2d9290cacf1a6f6227e019]
 
 Subject to any direction made under section 4(5) of the Act, the Authority may attach to the licence such conditions as appear to it to be necessary or expedient for the regulation of the regulated fishery including but not limited to the following—
 
@@ -335,9 +335,9 @@ A full impact assessment has not been produced for this instrument as no signifi
 
 [^f00001]: Footnote: [1967 c. 83](https://www.legislation.gov.uk/ukpga/1967/83). Section 1 of the Act was amended by sections 202(1) to (3), and 203 of the Marine and Coastal Access Act [2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23); section 15(1) and (2) of the Sea Fisheries Act [1968 (c. 77)](https://www.legislation.gov.uk/ukpga/1968/77); section 1 of the Sea Fisheries (Shellfish) (Amendment) Act [1997 (c. 3)](https://www.legislation.gov.uk/ukpga/1997/3); and section 9(1) of, and paragraph 15 of Schedule 2 to, the Fishery Limits Act [1976 (c. 86)](https://www.legislation.gov.uk/ukpga/1976/86). The Act is to be read with section 15(3) to (5) of the Sea Fisheries Act 1968. Schedule 1 to the Act was amended by section 15(7) of the Sea Fisheries Act 1968. The functions of the appropriate Minister as defined in section 22(1) of the Act, by virtue of article 2(2) of the Ministry of Agriculture, Fisheries and Food (Dissolution) Order 2002 ([S.I. 2002/794](https://www.legislation.gov.uk/uksi/2002/794)) the functions of the Minister were transferred to the Secretary of State.
 
-[^key-3388d407112e14c2616c26dbd2cb6bdf]: Commencement: Art. 1 in force at 3.12.2024, see [art. 1(b)(i)](https://www.legislation.gov.uk/uksi/2024/1211/article/1/b/i)
+[^c-3388d407112e14c2616c26dbd2cb6bdf]: Commencement: Art. 1 in force at 3.12.2024, see [art. 1(b)(i)](https://www.legislation.gov.uk/uksi/2024/1211/article/1/b/i)
 
-[^key-003c1aec3df745ffe67769d62c5db729]: Commencement: Art. 2 in force at 18.12.2024, see [art. 1(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1211/article/1/b/ii)
+[^c-003c1aec3df745ffe67769d62c5db729]: Commencement: Art. 2 in force at 18.12.2024, see [art. 1(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1211/article/1/b/ii)
 
 [^f00002]: Footnote: [2009 c. 23](https://www.legislation.gov.uk/ukpga/2009/23).
 
@@ -349,44 +349,44 @@ A full impact assessment has not been produced for this instrument as no signifi
 
 [^f00006]: Footnote: [2020 c. 22](https://www.legislation.gov.uk/ukpga/2020/22).
 
-[^key-36bdeb48402ea1e66b27d33066693350]: Commencement: Art. 3 in force at 18.12.2024, see [art. 1(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1211/article/1/b/ii)
+[^c-36bdeb48402ea1e66b27d33066693350]: Commencement: Art. 3 in force at 18.12.2024, see [art. 1(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1211/article/1/b/ii)
 
-[^key-63e15a2f2b300dd4769b0f147e9d3319]: Commencement: Art. 4 in force at 18.12.2024, see [art. 1(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1211/article/1/b/ii)
+[^c-63e15a2f2b300dd4769b0f147e9d3319]: Commencement: Art. 4 in force at 18.12.2024, see [art. 1(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1211/article/1/b/ii)
 
-[^key-66436833431e1f48a82ada211d3c9cdc]: Commencement: Art. 5 in force at 18.12.2024, see [art. 1(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1211/article/1/b/ii)
+[^c-66436833431e1f48a82ada211d3c9cdc]: Commencement: Art. 5 in force at 18.12.2024, see [art. 1(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1211/article/1/b/ii)
 
-[^key-d3ba523aaae44cd8af4fbd40c772026b]: Textual amendment: Art. 5(12) substituted (5.8.2025) by [The Thames Estuary Cockle Fishery (No. 2) (Variation) Order 2025 (S.I. 2025/855)](https://www.legislation.gov.uk/uksi/2025/855), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2025/855/article/1/b), [2(2)](https://www.legislation.gov.uk/uksi/2025/855/article/2/2)
+[^c-d3ba523aaae44cd8af4fbd40c772026b]: Textual amendment: Art. 5(12) substituted (5.8.2025) by [The Thames Estuary Cockle Fishery (No. 2) (Variation) Order 2025 (S.I. 2025/855)](https://www.legislation.gov.uk/uksi/2025/855), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2025/855/article/1/b), [2(2)](https://www.legislation.gov.uk/uksi/2025/855/article/2/2)
 
-[^key-2e026a842b60be2a7078b932cfcb0c4e]: Commencement: Art. 6 in force at 18.12.2024, see [art. 1(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1211/article/1/b/ii)
+[^c-2e026a842b60be2a7078b932cfcb0c4e]: Commencement: Art. 6 in force at 18.12.2024, see [art. 1(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1211/article/1/b/ii)
 
 [^f00007]: Footnote: [S.I. 1994/2329](https://www.legislation.gov.uk/uksi/1994/2329), as amended by the Marine and Coastal Access Act 2009 (Transitional and Savings Provisions) Order 2011, Schedule 2(1), paragraph 4 ([S.I. 2011/603](https://www.legislation.gov.uk/uksi/2011/603)).
 
-[^key-257a247bbc40bdb68d053912e11a72da]: Commencement: Art. 7 in force at 18.12.2024, see [art. 1(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1211/article/1/b/ii)
+[^c-257a247bbc40bdb68d053912e11a72da]: Commencement: Art. 7 in force at 18.12.2024, see [art. 1(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1211/article/1/b/ii)
 
-[^key-71c62235dced98b326ac7ae9fefefc81]: Commencement: Art. 8 in force at 18.12.2024, see [art. 1(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1211/article/1/b/ii)
+[^c-71c62235dced98b326ac7ae9fefefc81]: Commencement: Art. 8 in force at 18.12.2024, see [art. 1(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1211/article/1/b/ii)
 
-[^key-fbefb1e5fd66c385ce7ff92c77c84317]: Commencement: Art. 9 in force at 18.12.2024, see [art. 1(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1211/article/1/b/ii)
+[^c-fbefb1e5fd66c385ce7ff92c77c84317]: Commencement: Art. 9 in force at 18.12.2024, see [art. 1(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1211/article/1/b/ii)
 
-[^key-9a9ad3027893373d45a8e3617cb3a8f1]: Commencement: Art. 10 in force at 18.12.2024, see [art. 1(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1211/article/1/b/ii)
+[^c-9a9ad3027893373d45a8e3617cb3a8f1]: Commencement: Art. 10 in force at 18.12.2024, see [art. 1(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1211/article/1/b/ii)
 
-[^key-bc2001b5980cb6873611693a66e892e8]: Commencement: Art. 11 in force at 18.12.2024, see [art. 1(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1211/article/1/b/ii)
+[^c-bc2001b5980cb6873611693a66e892e8]: Commencement: Art. 11 in force at 18.12.2024, see [art. 1(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1211/article/1/b/ii)
 
-[^key-10448719beed4d170281ecb92e75f74b]: Commencement: Art. 12 in force at 18.12.2024, see [art. 1(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1211/article/1/b/ii)
+[^c-10448719beed4d170281ecb92e75f74b]: Commencement: Art. 12 in force at 18.12.2024, see [art. 1(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1211/article/1/b/ii)
 
-[^key-440f9536b4cc2fffe0e2a3cd9c8993d6]: Commencement: Art. 13 in force at 18.12.2024, see [art. 1(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1211/article/1/b/ii)
+[^c-440f9536b4cc2fffe0e2a3cd9c8993d6]: Commencement: Art. 13 in force at 18.12.2024, see [art. 1(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1211/article/1/b/ii)
 
 [^f00008]: Footnote: [S.I. 2015/596](https://www.legislation.gov.uk/uksi/2015/596).
 
-[^key-3a89d82a75d814d959ea9760e3fa1522]: Commencement: Art. 14 in force at 3.12.2024, see [art. 1(b)(i)](https://www.legislation.gov.uk/uksi/2024/1211/article/1/b/i)
+[^c-3a89d82a75d814d959ea9760e3fa1522]: Commencement: Art. 14 in force at 3.12.2024, see [art. 1(b)(i)](https://www.legislation.gov.uk/uksi/2024/1211/article/1/b/i)
 
 [^f00009]: Footnote: [S.I. 2024/1150](https://www.legislation.gov.uk/uksi/2024/1150). The instrument as made contained an inadvertent error in Schedule 1. That error caused the definition of “the regulated fishery” in article 2, on which the whole instrument relied, to lack the necessary legal certainty. To reflect the resulting issues relating to the validity of [S.I. 2024/1150](https://www.legislation.gov.uk/uksi/2024/1150), this instrument (which otherwise is made in substantively the same terms, with the Schedule 1 error corrected) contains a statement that [S.I. 2024/1150](https://www.legislation.gov.uk/uksi/2024/1150) is revoked.
 
-[^key-e5d88bc4fe7ce5ff1cb1110241c6944e]: Commencement: Sch. 1 in force at 18.12.2024, see [art. 1(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1211/article/1/b/ii)
+[^c-e5d88bc4fe7ce5ff1cb1110241c6944e]: Commencement: Sch. 1 in force at 18.12.2024, see [art. 1(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1211/article/1/b/ii)
 
-[^key-cbe7cd8b6dfa4281e9937fb4569c4965]: Commencement: Sch. 2 para. 1 in force at 18.12.2024, see [art. 1(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1211/article/1/b/ii)
+[^c-cbe7cd8b6dfa4281e9937fb4569c4965]: Commencement: Sch. 2 para. 1 in force at 18.12.2024, see [art. 1(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1211/article/1/b/ii)
 
-[^key-30f4230adb8bb404278c4974227f4838]: Commencement: Sch. 2 para. 2 in force at 18.12.2024, see [art. 1(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1211/article/1/b/ii)
+[^c-30f4230adb8bb404278c4974227f4838]: Commencement: Sch. 2 para. 2 in force at 18.12.2024, see [art. 1(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1211/article/1/b/ii)
 
-[^key-577857ef3906b24b3231b92fc2c9a178]: Commencement: Sch. 2 para. 3 in force at 18.12.2024, see [art. 1(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1211/article/1/b/ii)
+[^c-577857ef3906b24b3231b92fc2c9a178]: Commencement: Sch. 2 para. 3 in force at 18.12.2024, see [art. 1(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1211/article/1/b/ii)
 
-[^key-330b1007ce2d9290cacf1a6f6227e019]: Commencement: Sch. 3 in force at 18.12.2024, see [art. 1(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1211/article/1/b/ii)
+[^c-330b1007ce2d9290cacf1a6f6227e019]: Commencement: Sch. 3 in force at 18.12.2024, see [art. 1(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1211/article/1/b/ii)

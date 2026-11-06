@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 14. Systems and processes requirement[^key-b29902a301ff5494faf8713204b59aef]
+## 14. Systems and processes requirement[^c-b29902a301ff5494faf8713204b59aef]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 5 sets out the matters that the Regulator must take into account in dec
 
 ## Annotations
 
-[^key-b29902a301ff5494faf8713204b59aef]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2022/255/regulation/14) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
+[^c-b29902a301ff5494faf8713204b59aef]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2022/255/regulation/14) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)

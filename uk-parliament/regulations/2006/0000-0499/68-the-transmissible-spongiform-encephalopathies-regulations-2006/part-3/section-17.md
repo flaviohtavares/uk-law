@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Powers of entry[^key-b1561d35b4cf7832d14e3805a830edcd]
+## 17. Powers of entry[^c-b1561d35b4cf7832d14e3805a830edcd]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b1561d35b4cf7832d14e3805a830edcd]: Commencement: Reg. 17 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)
+[^c-b1561d35b4cf7832d14e3805a830edcd]: Commencement: Reg. 17 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)

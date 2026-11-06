@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Limitation of pre-candidacy election expenses: constituency and individual regional candidates at Scottish Parliament general elections[^key-5d0f7e5daa8ee2da09e5360cdc400bb0]
+## 43. Limitation of pre-candidacy election expenses: constituency and individual regional candidates at Scottish Parliament general elections[^c-5d0f7e5daa8ee2da09e5360cdc400bb0]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,4 +60,4 @@ shall be guilty of an illegal practice.
 
 ## Annotations
 
-[^key-5d0f7e5daa8ee2da09e5360cdc400bb0]: Commencement: Art. 43 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-5d0f7e5daa8ee2da09e5360cdc400bb0]: Commencement: Art. 43 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)

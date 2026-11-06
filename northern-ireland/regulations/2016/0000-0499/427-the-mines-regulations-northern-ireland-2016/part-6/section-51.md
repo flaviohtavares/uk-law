@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 51. Auxiliary equipment[^key-90114b033f16cc18eff63059999041f8]
+## 51. Auxiliary equipment[^c-90114b033f16cc18eff63059999041f8]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ The mine operator shall ensure that suitable auxiliary equipment is available fo
 
 ## Annotations
 
-[^key-90114b033f16cc18eff63059999041f8]: Commencement: [Reg. 51](https://www.legislation.gov.uk/nisr/2016/427/regulation/51) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-90114b033f16cc18eff63059999041f8]: Commencement: [Reg. 51](https://www.legislation.gov.uk/nisr/2016/427/regulation/51) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)

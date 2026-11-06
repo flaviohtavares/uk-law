@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 61. Personal liability for contracts and deeds[^key-db1034954ee371236a53494d55effbf3]
+## 61. Personal liability for contracts and deeds[^c-db1034954ee371236a53494d55effbf3]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-db1034954ee371236a53494d55effbf3]: Commencement: [Reg. 61](https://www.legislation.gov.uk/nisr/2004/335/regulation/61) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
+[^c-db1034954ee371236a53494d55effbf3]: Commencement: [Reg. 61](https://www.legislation.gov.uk/nisr/2004/335/regulation/61) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)

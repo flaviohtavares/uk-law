@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 77. Investigation of certification (regulation 16 of the Service Committees Regulations)[^key-4eb10fb3b1f17c8fc07e6e10e4b0a8ed]
+## 77. Investigation of certification (regulation 16 of the Service Committees Regulations)[^c-4eb10fb3b1f17c8fc07e6e10e4b0a8ed]
 
 *Extent: E+W*
 
@@ -59,4 +59,4 @@ that amount shall be recoverable by the appropriate Local Health Board, insofar 
 
 ## Annotations
 
-[^key-4eb10fb3b1f17c8fc07e6e10e4b0a8ed]: Commencement: Art. 77 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-4eb10fb3b1f17c8fc07e6e10e4b0a8ed]: Commencement: Art. 77 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)

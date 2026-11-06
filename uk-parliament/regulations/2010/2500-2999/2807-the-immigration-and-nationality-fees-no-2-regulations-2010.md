@@ -46,11 +46,11 @@ In accordance with section 42(6) of the Asylum and Immigration (Treatment of Cla
 
 In accordance with section 42(7) of that Act, a draft of these Regulations has been laid before and approved by a resolution of each House of Parliament.
 
-## 1. Citation, commencement and interpretation[^key-fc1f27c634cc73f4a01917224895fda5]
+## 1. Citation, commencement and interpretation[^c-fc1f27c634cc73f4a01917224895fda5]
 
 These Regulations may be cited as the Immigration and Nationality (Fees) (No.2) Regulations 2010 and shall come into force on the day after the day on which they are made.
 
-**2.**[^key-62b98686f2eddaf890dcbe83fe2ab648] In these Regulations—
+**2.**[^c-62b98686f2eddaf890dcbe83fe2ab648] In these Regulations—
 
 - “the 1981 Act” means the British Nationality Act 1981[^f00004];
 - “the 2007 Order” means the Immigration and Nationality (Fees) Order 2007[^f00005];
@@ -108,7 +108,7 @@ These Regulations may be cited as the Immigration and Nationality (Fees) (No.2) 
 - “unmarried or same sex partner” of a person means someone who is living with that person in a relationship akin to marriage or civil partnership which has subsisted for two years or more;
 - “work permit employment” means employment as a work permit holder under the immigration rules.
 
-## 3. Fees for applications for leave in the United Kingdom[^key-9697b8b049e225c5aa60767ecaa3adca]
+## 3. Fees for applications for leave in the United Kingdom[^c-9697b8b049e225c5aa60767ecaa3adca]
 
 (1) In the case of an application to which article 3(2)(a) or (b) of the 2007 Order applies, where the application is for limited leave to remain in the United Kingdom—
 
@@ -125,14 +125,14 @@ under the immigration rules, the fees are those specified in paragraph (2).
 
 (3) This regulation is subject to regulations 16, 17, 19 and 20.
 
-**4.**[^key-b343b7fbbcc37d7b3f0a6920203016ae] (1) In the case of an application to which article 3(2)(a) or (b) of the 2007 Order applies, where the application is for limited leave to remain in the United Kingdom for work permit employment the fee is—
+**4.**[^c-b343b7fbbcc37d7b3f0a6920203016ae] (1) In the case of an application to which article 3(2)(a) or (b) of the 2007 Order applies, where the application is for limited leave to remain in the United Kingdom for work permit employment the fee is—
 
 - (a) £800 where such application is made in person at a Public Enquiry Office of the UK Border Agency of the Home Office; or
 - (b) £500 where such an application is made by post or courier.
 
 (2) This regulation is subject to regulations 16, 17, 19 and 20.
 
-**5.**[^key-ca9960010c688a8816b6d33d26af2d81] (1) In the case of an application to which article 3(2)(a) or (b) of the 2007 Order applies, where the application is for limited leave to remain in the United Kingdom as—
+**5.**[^c-ca9960010c688a8816b6d33d26af2d81] (1) In the case of an application to which article 3(2)(a) or (b) of the 2007 Order applies, where the application is for limited leave to remain in the United Kingdom as—
 
 - (a) a retired person of independent means; or
 - (b) a sole representative,
@@ -141,7 +141,7 @@ under the immigration rules, the fee is £850.
 
 (2) This regulation is subject to regulations 17, 19 and 20.
 
-**6.**[^key-3a11cc3503560de02757b6ab659799e8] (1) In the case of an application to which article 3(2)(a) or (b) of the 2007 Order applies, where the application is for limited leave to remain in the United Kingdom as a Tier 1 migrant, the fees are those specified in paragraphs (2) and (3).
+**6.**[^c-3a11cc3503560de02757b6ab659799e8] (1) In the case of an application to which article 3(2)(a) or (b) of the 2007 Order applies, where the application is for limited leave to remain in the United Kingdom as a Tier 1 migrant, the fees are those specified in paragraphs (2) and (3).
 
 (2) Where the application is for limited leave to remain in the United Kingdom as a Tier 1 (General) migrant, a Tier 1 (Investor) migrant or a Tier 1 (Entrepreneur) migrant under the immigration rules, the fee is—
 
@@ -159,7 +159,7 @@ under the immigration rules, the fee is £850.
 
 (4) This regulation is subject to regulations 19 and 20.
 
-**7.**[^key-5fbf95db6bd0150e9682bf22f58eebc7] (1) In the case of an application to which article 3(2)(a) or (b) of the 2007 Order applies, where the application is for limited leave to remain in the United Kingdom, other than an application referred to in paragraph (2), the fee is—
+**7.**[^c-5fbf95db6bd0150e9682bf22f58eebc7] (1) In the case of an application to which article 3(2)(a) or (b) of the 2007 Order applies, where the application is for limited leave to remain in the United Kingdom, other than an application referred to in paragraph (2), the fee is—
 
 - (a) £800 where such application is made in person at a Public Enquiry Office of the UK Border Agency of the Home Office; or
 - (b) £500 for an application made by post.
@@ -183,7 +183,7 @@ under the immigration rules.
 
 (3) This regulation is subject to regulations 14, 18, 19 and 20.
 
-**8.**[^key-9d0c9c4d6c0f337d758169f2af0af775] (1) In the case of an application to which article 3(2)(a) or (b) of the 2007 Order applies, where the application is for limited leave to remain in the United Kingdom as a Tier 2 migrant, the fee is—
+**8.**[^c-9d0c9c4d6c0f337d758169f2af0af775] (1) In the case of an application to which article 3(2)(a) or (b) of the 2007 Order applies, where the application is for limited leave to remain in the United Kingdom as a Tier 2 migrant, the fee is—
 
 - (a) subject to sub-paragraph (b), £500 for an application made by post or courier;
 - (b) £450 where such application made by post or courier is in respect of a person who is a national of a state which has ratified the Council of Europe Social Charter;
@@ -192,18 +192,18 @@ under the immigration rules.
 
 (2) This regulation is subject to regulations 19 and 20.
 
-**9.**[^key-44e15077a52929ba933dc7449fb0903e] (1) In the case of an application to which article 3(2)(a) or (b) of the 2007 Order applies, where the application is for limited leave to remain in the United Kingdom as a Tier 4 migrant, the fee is £650 for an application made at a Public Enquiry Office of the UK Border Agency of the Home Office.
+**9.**[^c-44e15077a52929ba933dc7449fb0903e] (1) In the case of an application to which article 3(2)(a) or (b) of the 2007 Order applies, where the application is for limited leave to remain in the United Kingdom as a Tier 4 migrant, the fee is £650 for an application made at a Public Enquiry Office of the UK Border Agency of the Home Office.
 
 (2) This regulation is subject to regulations 17, 18, 19 and 20.
 
-**10.**[^key-792f242e081bc6ad3dc970e752e1f626] (1) In the case of an application to which article 3(2)(a) or (b) of the 2007 Order applies, where the application is for limited leave to remain in the United Kingdom as a Tier 5 (Temporary Worker) migrant and the application is made at a Public Enquiry Office of the UK Border Agency of the Home Office, the fee is—
+**10.**[^c-792f242e081bc6ad3dc970e752e1f626] (1) In the case of an application to which article 3(2)(a) or (b) of the 2007 Order applies, where the application is for limited leave to remain in the United Kingdom as a Tier 5 (Temporary Worker) migrant and the application is made at a Public Enquiry Office of the UK Border Agency of the Home Office, the fee is—
 
 - (a) subject to sub-paragraph (b), £600; or
 - (b) £550 where the application is in respect of a person who is a national of a state which has ratified the Council of Europe Social Charter.
 
 (2) This regulation is subject to regulations 17, 18, 19 and 20.
 
-## 11. Dependants of applicants for limited leave to remain[^key-21810c7e93cf4c4089cc74bbb36a85c0]
+## 11. Dependants of applicants for limited leave to remain[^c-21810c7e93cf4c4089cc74bbb36a85c0]
 
 (1) In the case of an application to which article 3(2)(a) or (b) of the 2007 Order applies, where the application is for limited leave to remain in the United Kingdom and the applicant applies as a dependant, the fee is—
 
@@ -232,7 +232,7 @@ under the immigration rules.
 
 (2) This regulation is subject to regulations 17, 19 and 20.
 
-## 12. Indefinite Leave to Remain[^key-4089b46c8aa9875dd3ef7a4a81ee1be6]
+## 12. Indefinite Leave to Remain[^c-4089b46c8aa9875dd3ef7a4a81ee1be6]
 
 (1) In the case of an application to which article 3(2)(a) or (b) of the 2007 Order applies, where the application is for indefinite leave to remain in the United Kingdom, the fee is—
 
@@ -259,7 +259,7 @@ under the immigration rules.
 
 (3) This regulation is subject to regulations 14, 15, 18, 19 and 20.
 
-**13.**[^key-c71e611ba61c6ccfe7662923bbe9cdba] (1) In the case of an application to which article 3(2)(a) or (b) of the 2007 Order applies, where the application is for indefinite leave to remain in the United Kingdom and the applicant applies as a dependant, the fee is—
+**13.**[^c-c71e611ba61c6ccfe7662923bbe9cdba] (1) In the case of an application to which article 3(2)(a) or (b) of the 2007 Order applies, where the application is for indefinite leave to remain in the United Kingdom and the applicant applies as a dependant, the fee is—
 
 - (a) £350 where the application is made as the dependant of an applicant referred to in regulation 12(1)(a) and is made at the same time, in person at a Public Enquiry Office of the UK Border Agency of the Home Office;
 - (b) £300 where the application is made as the dependant of an applicant referred to in regulation 12(1)(b) and is made at the same time, in person at a Public Enquiry Office of the UK Border Agency of the Home Office;
@@ -268,7 +268,7 @@ under the immigration rules.
 
 (2) This regulation is subject to regulations 14, 15, 19 and 20.
 
-## 14. Exceptions in respect of fees for leave to remain applications[^key-4c7f8e813c80781eb9b4413eff53ba46]
+## 14. Exceptions in respect of fees for leave to remain applications[^c-4c7f8e813c80781eb9b4413eff53ba46]
 
 No fee is payable in connection with an application for leave to remain in the United Kingdom, which is made on the basis that the applicant is—
 
@@ -277,26 +277,26 @@ No fee is payable in connection with an application for leave to remain in the U
 - (c) a person who has been granted limited leave to enter or remain in the United Kingdom outside the provisions of the immigration rules on the rejection of their claim for asylum; or
 - (d) a dependant of a person referred to in paragraph (a), (b) or (c).
 
-**15.**[^key-5c007edd39d656af97a7dd1811d150d8] No fee is payable in connection with an application referred to in regulations 12 and 13, where the application is for indefinite leave to remain in the United Kingdom as a victim of domestic violence under the immigration rules, where at the time of making the application, the applicant appears to the Secretary of State to be destitute.
+**15.**[^c-5c007edd39d656af97a7dd1811d150d8] No fee is payable in connection with an application referred to in regulations 12 and 13, where the application is for indefinite leave to remain in the United Kingdom as a victim of domestic violence under the immigration rules, where at the time of making the application, the applicant appears to the Secretary of State to be destitute.
 
-**16.**[^key-64cb2a6dd5a19d7be33696f07edd0967] No fee is payable in connection with applications referred to in—
+**16.**[^c-64cb2a6dd5a19d7be33696f07edd0967] No fee is payable in connection with applications referred to in—
 
 - (a) regulations 3 and 4;
 - (b) regulation 6(2)(c) and (f),
 
 where the application is in respect of a person who is a national of a state which has ratified the Council of Europe Social Charter or the Council of Europe Revised Social Charter.
 
-**17.**[^key-a987e865830f51551909b76c51f479d0] No fee is payable in respect of applications referred to in regulations 3, 4, 5, 9, 10 and 11 if the application is made to an immigration officer on arrival at a port of entry in the United Kingdom in respect of a person seeking variation of leave to enter or remain in the United Kingdom for a period of up to 6 months.
+**17.**[^c-a987e865830f51551909b76c51f479d0] No fee is payable in respect of applications referred to in regulations 3, 4, 5, 9, 10 and 11 if the application is made to an immigration officer on arrival at a port of entry in the United Kingdom in respect of a person seeking variation of leave to enter or remain in the United Kingdom for a period of up to 6 months.
 
-**18.**[^key-b2a15dffca8687042af6eb4d3fd74320] No fee is payable in respect of an application referred to in regulations 7, 9, 10 and 12 if the application is made in respect of a person who, at the time of making the application, is a child and is being provided with assistance by a local authority (or, in Northern Ireland, an authority, which has the meaning given in article 2(2) of the Children (Northern Ireland) Order 1995).
+**18.**[^c-b2a15dffca8687042af6eb4d3fd74320] No fee is payable in respect of an application referred to in regulations 7, 9, 10 and 12 if the application is made in respect of a person who, at the time of making the application, is a child and is being provided with assistance by a local authority (or, in Northern Ireland, an authority, which has the meaning given in article 2(2) of the Children (Northern Ireland) Order 1995).
 
-**19.**[^key-4057e1dc330839e706f526fa49a597e5] (1) Where two or more applications for limited leave to remain or indefinite leave to remain in the United Kingdom are made at the same time, or are being considered by the Secretary of State, in respect of the same person and fees are specified in respect of those applications, a single fee shall be payable.
+**19.**[^c-4057e1dc330839e706f526fa49a597e5] (1) Where two or more applications for limited leave to remain or indefinite leave to remain in the United Kingdom are made at the same time, or are being considered by the Secretary of State, in respect of the same person and fees are specified in respect of those applications, a single fee shall be payable.
 
 (2) The fee payable shall be the higher, or as the case may be, the highest of the fees specified in respect of those applications, where those fees are different.
 
-**20.**[^key-4ad38dea1225700ab4a62a603223853c] No fee is payable in respect of an application referred to in regulations 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 and 13 if it is made under the terms of a European Community Association Agreement.
+**20.**[^c-4ad38dea1225700ab4a62a603223853c] No fee is payable in respect of an application referred to in regulations 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 and 13 if it is made under the terms of a European Community Association Agreement.
 
-## 21. Fees for nationality applications[^key-9b5321d28f2944444cadf1431e0984e2]
+## 21. Fees for nationality applications[^c-9b5321d28f2944444cadf1431e0984e2]
 
 (1) In the case of an application to which article 3(2)(f) or (g) of the 2007 Order applies, namely an application for naturalisation, the fee is £700.
 
@@ -304,7 +304,7 @@ where the application is in respect of a person who is a national of a state whi
 
 (3) Paragraph (2) does not apply to any fee which is payable in respect of the arrangement of a citizenship ceremony.
 
-**22.**[^key-a35e8942d0f87c27290d5beb5835fd19] (1) Subject to paragraph (2), in the case of an application to which article 3(2)(h) to (l) of the 2007 Order applies, namely an application for registration of either an adult or a child, the fee is £500.
+**22.**[^c-a35e8942d0f87c27290d5beb5835fd19] (1) Subject to paragraph (2), in the case of an application to which article 3(2)(h) to (l) of the 2007 Order applies, namely an application for registration of either an adult or a child, the fee is £500.
 
 (2) Where an application for registration of two children is made and those children have the same parent, or parents, the total fee payable in respect of that application shall be £600, with an increase of £150 to the application fee for every additional child registered
 
@@ -312,7 +312,7 @@ where the application is in respect of a person who is a national of a state whi
 
 (4) In this regulation, “parent” includes a step-parent and an adoptive parent.
 
-## 23. Fees for sponsorship applications[^key-27fa1ef64fdbccc71eab00ee60705073]
+## 23. Fees for sponsorship applications[^c-27fa1ef64fdbccc71eab00ee60705073]
 
 (1) In the case of an application to which article 3(2)(p) of the 2007 Order applies, where the application is not in respect of a person who, if granted a sponsorship licence, would be a small sponsor, and the application is for a licence referred to in paragraph (2), the fee is £1,000.
 
@@ -323,7 +323,7 @@ where the application is in respect of a person who is a national of a state whi
 - (c) a sponsorship licence in respect of Tier 2 and Tier 5 migrants; and
 - (d) a sponsorship licence in respect of Tier 2, Tier 4 and Tier 5 migrants.
 
-## 24. Fees for entry clearance applications[^key-eebfd938524ba0def13db7e889fa9362]
+## 24. Fees for entry clearance applications[^c-eebfd938524ba0def13db7e889fa9362]
 
 (1) In the case of an application to which article 3(2)(aa) of the 2007 Order applies, namely an application for entry clearance —
 
@@ -351,7 +351,7 @@ where the application is in respect of a person who is a national of a state whi
 
 (2) This regulation is subject to regulations 25 and 26.
 
-## 25. Exceptions and waivers in respect of fees for entry clearance applications[^key-2a8e1bb700f4fe157ea0fa2c4a888273]
+## 25. Exceptions and waivers in respect of fees for entry clearance applications[^c-2a8e1bb700f4fe157ea0fa2c4a888273]
 
 No fee is payable by the applicant in relation to an application referred to in regulation 24 where—
 
@@ -359,33 +359,33 @@ No fee is payable by the applicant in relation to an application referred to in 
 - (b) it is for the purpose of family reunion under Part 11 of the immigration rules; or
 - (c) the Secretary of State determines that the fee should be waived.
 
-**26.**[^key-1a87c6aefecc8e411294f66153110986] The official determining the application may waive the payment of a fee or reduce the fee required under regulation 24 where—
+**26.**[^c-1a87c6aefecc8e411294f66153110986] The official determining the application may waive the payment of a fee or reduce the fee required under regulation 24 where—
 
 - (a) it is made by a candidate for or holder of a scholarship funded by Her Majesty’s Government and is in connection with such scholarship;
 - (b) where the official so decides as a matter of international courtesy; or
 - (c) where the applicant intends to visit the United Kingdom in connection with one of the Foreign and Commonwealth Office’s Strategic or Bilateral Programmes.
 
-## 27. Fee for the process of issuing a certificate of sponsorship[^key-c56e4f95e5b0b36e159eac23444631f3]
+## 27. Fee for the process of issuing a certificate of sponsorship[^c-c56e4f95e5b0b36e159eac23444631f3]
 
 (1) Subject to paragraph (2), in the case of a process to which article 5 of the 2007 Order applies, the fee is £170 where the process is the issuing of a certificate of sponsorship in respect of an application or potential application for leave to remain in or enter the United Kingdom as a Tier 2 migrant.
 
 (2) No fee is payable in respect of the process for which a fee is specified in paragraph (1) where the certificate is issued in respect of a person who is a national of a state which has ratified the Council of Europe Social Charter or the Council of Europe Revised Social Charter.
 
-## 28. Fees for transfer of conditions[^key-7add15d0ab38bb17c170625c77211112]
+## 28. Fees for transfer of conditions[^c-7add15d0ab38bb17c170625c77211112]
 
 (1) In the case of an application to which article 3(2)(c) of the 2007 Order applies where the application is made at a Public Enquiry Office of the UK Border Agency of the Home Office the fee is £600.
 
 (2) Where an application referred to in paragraph (1) is made by an applicant and at the same time a similar application is made on behalf of one of or more of his dependants, the fee in respect of each dependant’s application is £150.
 
-## 29. Fee for Premium Case Working Service[^key-92c6da41e78c8820a217468047761fb9]
+## 29. Fee for Premium Case Working Service[^c-92c6da41e78c8820a217468047761fb9]
 
 In respect of an application to which article 3(2)(a) or (b) of the 2007 Order applies, namely an application for limited leave to remain in the United Kingdom, where the applicant has opted to make the application on a premium case working basis involving the attendance of a representative of the Secretary of State at the applicant’s premises resulting in a same day decision, the fee is £15,000.
 
-## 30. Consequences of failing to pay the specified fee[^key-5b24f7d0c8fda3a998ba6e55a90d8307]
+## 30. Consequences of failing to pay the specified fee[^c-5b24f7d0c8fda3a998ba6e55a90d8307]
 
 Where an application to which these Regulations refer is to be accompanied by a specified fee, the application is not validly made unless it has been accompanied by that fee.
 
-## 31. Revocation[^key-5e63fa0d9c12054af87b799f1d791524]
+## 31. Revocation[^c-5e63fa0d9c12054af87b799f1d791524]
 
 These Regulations revoke the Immigration and Nationality (Fees) Regulations 2010 [^f00029].
 
@@ -477,9 +477,9 @@ A regulatory impact assessment of the effect that this instrument will have on t
 
 [^f00003]: Footnote: [2004 c. 19](https://www.legislation.gov.uk/ukpga/2004/19). Section 42(1) is amended by, and s.42(2A) is inserted by, section 20 of the UK Borders Act [2007 (c.30)](https://www.legislation.gov.uk/ukpga/2007/30).
 
-[^key-fc1f27c634cc73f4a01917224895fda5]: Commencement: Reg. 1 in force at 22.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2807/regulation/1)
+[^c-fc1f27c634cc73f4a01917224895fda5]: Commencement: Reg. 1 in force at 22.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2807/regulation/1)
 
-[^key-62b98686f2eddaf890dcbe83fe2ab648]: Commencement: Reg. 2 in force at 22.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2807/regulation/1)
+[^c-62b98686f2eddaf890dcbe83fe2ab648]: Commencement: Reg. 2 in force at 22.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2807/regulation/1)
 
 [^f00004]: Footnote: [1981 c. 61](https://www.legislation.gov.uk/ukpga/1981/61).
 
@@ -529,64 +529,64 @@ A regulatory impact assessment of the effect that this instrument will have on t
 
 [^f00027]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-9697b8b049e225c5aa60767ecaa3adca]: Commencement: Reg. 3 in force at 22.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2807/regulation/1)
+[^c-9697b8b049e225c5aa60767ecaa3adca]: Commencement: Reg. 3 in force at 22.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2807/regulation/1)
 
-[^key-b343b7fbbcc37d7b3f0a6920203016ae]: Commencement: Reg. 4 in force at 22.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2807/regulation/1)
+[^c-b343b7fbbcc37d7b3f0a6920203016ae]: Commencement: Reg. 4 in force at 22.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2807/regulation/1)
 
-[^key-ca9960010c688a8816b6d33d26af2d81]: Commencement: Reg. 5 in force at 22.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2807/regulation/1)
+[^c-ca9960010c688a8816b6d33d26af2d81]: Commencement: Reg. 5 in force at 22.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2807/regulation/1)
 
-[^key-3a11cc3503560de02757b6ab659799e8]: Commencement: Reg. 6 in force at 22.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2807/regulation/1)
+[^c-3a11cc3503560de02757b6ab659799e8]: Commencement: Reg. 6 in force at 22.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2807/regulation/1)
 
-[^key-5fbf95db6bd0150e9682bf22f58eebc7]: Commencement: Reg. 7 in force at 22.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2807/regulation/1)
+[^c-5fbf95db6bd0150e9682bf22f58eebc7]: Commencement: Reg. 7 in force at 22.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2807/regulation/1)
 
-[^key-9d0c9c4d6c0f337d758169f2af0af775]: Commencement: Reg. 8 in force at 22.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2807/regulation/1)
+[^c-9d0c9c4d6c0f337d758169f2af0af775]: Commencement: Reg. 8 in force at 22.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2807/regulation/1)
 
-[^key-44e15077a52929ba933dc7449fb0903e]: Commencement: Reg. 9 in force at 22.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2807/regulation/1)
+[^c-44e15077a52929ba933dc7449fb0903e]: Commencement: Reg. 9 in force at 22.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2807/regulation/1)
 
-[^key-792f242e081bc6ad3dc970e752e1f626]: Commencement: Reg. 10 in force at 22.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2807/regulation/1)
+[^c-792f242e081bc6ad3dc970e752e1f626]: Commencement: Reg. 10 in force at 22.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2807/regulation/1)
 
-[^key-21810c7e93cf4c4089cc74bbb36a85c0]: Commencement: Reg. 11 in force at 22.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2807/regulation/1)
+[^c-21810c7e93cf4c4089cc74bbb36a85c0]: Commencement: Reg. 11 in force at 22.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2807/regulation/1)
 
-[^key-4089b46c8aa9875dd3ef7a4a81ee1be6]: Commencement: Reg. 12 in force at 22.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2807/regulation/1)
+[^c-4089b46c8aa9875dd3ef7a4a81ee1be6]: Commencement: Reg. 12 in force at 22.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2807/regulation/1)
 
-[^key-c71e611ba61c6ccfe7662923bbe9cdba]: Commencement: Reg. 13 in force at 22.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2807/regulation/1)
+[^c-c71e611ba61c6ccfe7662923bbe9cdba]: Commencement: Reg. 13 in force at 22.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2807/regulation/1)
 
-[^key-4c7f8e813c80781eb9b4413eff53ba46]: Commencement: Reg. 14 in force at 22.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2807/regulation/1)
+[^c-4c7f8e813c80781eb9b4413eff53ba46]: Commencement: Reg. 14 in force at 22.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2807/regulation/1)
 
-[^key-5c007edd39d656af97a7dd1811d150d8]: Commencement: Reg. 15 in force at 22.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2807/regulation/1)
+[^c-5c007edd39d656af97a7dd1811d150d8]: Commencement: Reg. 15 in force at 22.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2807/regulation/1)
 
-[^key-64cb2a6dd5a19d7be33696f07edd0967]: Commencement: Reg. 16 in force at 22.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2807/regulation/1)
+[^c-64cb2a6dd5a19d7be33696f07edd0967]: Commencement: Reg. 16 in force at 22.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2807/regulation/1)
 
-[^key-a987e865830f51551909b76c51f479d0]: Commencement: Reg. 17 in force at 22.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2807/regulation/1)
+[^c-a987e865830f51551909b76c51f479d0]: Commencement: Reg. 17 in force at 22.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2807/regulation/1)
 
-[^key-b2a15dffca8687042af6eb4d3fd74320]: Commencement: Reg. 18 in force at 22.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2807/regulation/1)
+[^c-b2a15dffca8687042af6eb4d3fd74320]: Commencement: Reg. 18 in force at 22.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2807/regulation/1)
 
-[^key-4057e1dc330839e706f526fa49a597e5]: Commencement: Reg. 19 in force at 22.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2807/regulation/1)
+[^c-4057e1dc330839e706f526fa49a597e5]: Commencement: Reg. 19 in force at 22.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2807/regulation/1)
 
-[^key-4ad38dea1225700ab4a62a603223853c]: Commencement: Reg. 20 in force at 22.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2807/regulation/1)
+[^c-4ad38dea1225700ab4a62a603223853c]: Commencement: Reg. 20 in force at 22.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2807/regulation/1)
 
-[^key-9b5321d28f2944444cadf1431e0984e2]: Commencement: Reg. 21 in force at 22.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2807/regulation/1)
+[^c-9b5321d28f2944444cadf1431e0984e2]: Commencement: Reg. 21 in force at 22.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2807/regulation/1)
 
-[^key-a35e8942d0f87c27290d5beb5835fd19]: Commencement: Reg. 22 in force at 22.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2807/regulation/1)
+[^c-a35e8942d0f87c27290d5beb5835fd19]: Commencement: Reg. 22 in force at 22.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2807/regulation/1)
 
 [^f00028]: Footnote: [1981 c.61](https://www.legislation.gov.uk/ukpga/1981/61) inserted by section 13(1) of the Nationality, Immigration and Asylum Act 2002 as amended by section 45 of the Borders, Citizenship and Immigration Act 2009.
 
-[^key-27fa1ef64fdbccc71eab00ee60705073]: Commencement: Reg. 23 in force at 22.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2807/regulation/1)
+[^c-27fa1ef64fdbccc71eab00ee60705073]: Commencement: Reg. 23 in force at 22.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2807/regulation/1)
 
-[^key-eebfd938524ba0def13db7e889fa9362]: Commencement: Reg. 24 in force at 22.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2807/regulation/1)
+[^c-eebfd938524ba0def13db7e889fa9362]: Commencement: Reg. 24 in force at 22.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2807/regulation/1)
 
-[^key-2a8e1bb700f4fe157ea0fa2c4a888273]: Commencement: Reg. 25 in force at 22.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2807/regulation/1)
+[^c-2a8e1bb700f4fe157ea0fa2c4a888273]: Commencement: Reg. 25 in force at 22.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2807/regulation/1)
 
-[^key-1a87c6aefecc8e411294f66153110986]: Commencement: Reg. 26 in force at 22.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2807/regulation/1)
+[^c-1a87c6aefecc8e411294f66153110986]: Commencement: Reg. 26 in force at 22.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2807/regulation/1)
 
-[^key-c56e4f95e5b0b36e159eac23444631f3]: Commencement: Reg. 27 in force at 22.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2807/regulation/1)
+[^c-c56e4f95e5b0b36e159eac23444631f3]: Commencement: Reg. 27 in force at 22.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2807/regulation/1)
 
-[^key-7add15d0ab38bb17c170625c77211112]: Commencement: Reg. 28 in force at 22.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2807/regulation/1)
+[^c-7add15d0ab38bb17c170625c77211112]: Commencement: Reg. 28 in force at 22.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2807/regulation/1)
 
-[^key-92c6da41e78c8820a217468047761fb9]: Commencement: Reg. 29 in force at 22.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2807/regulation/1)
+[^c-92c6da41e78c8820a217468047761fb9]: Commencement: Reg. 29 in force at 22.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2807/regulation/1)
 
-[^key-5b24f7d0c8fda3a998ba6e55a90d8307]: Commencement: Reg. 30 in force at 22.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2807/regulation/1)
+[^c-5b24f7d0c8fda3a998ba6e55a90d8307]: Commencement: Reg. 30 in force at 22.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2807/regulation/1)
 
-[^key-5e63fa0d9c12054af87b799f1d791524]: Commencement: Reg. 31 in force at 22.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2807/regulation/1)
+[^c-5e63fa0d9c12054af87b799f1d791524]: Commencement: Reg. 31 in force at 22.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2807/regulation/1)
 
 [^f00029]: Footnote: [S.I. 2010/778](https://www.legislation.gov.uk/uksi/2010/778).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 176. Litigation expenses and property subject to a floating charge–application to court by the building society liquidator[^key-aa0f76b6717959cbf031ec00cd4bc4e7]
+## 176. Litigation expenses and property subject to a floating charge–application to court by the building society liquidator[^c-aa0f76b6717959cbf031ec00cd4bc4e7]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.218E of the 1986 Rules.
 
 ## Annotations
 
-[^key-aa0f76b6717959cbf031ec00cd4bc4e7]: Commencement: Rule 176 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-aa0f76b6717959cbf031ec00cd4bc4e7]: Commencement: Rule 176 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

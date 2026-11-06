@@ -32,7 +32,7 @@ summary: ''
 
 Roads And Bridges
 
-The Road Works (Inspection Fees) (Scotland) Amendment Regulations 2010 (revoked)[^key-82052494da740a1077d80c92c089d313]
+The Road Works (Inspection Fees) (Scotland) Amendment Regulations 2010 (revoked)[^c-82052494da740a1077d80c92c089d313]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 1st April 2010
 
-[^key-82052494da740a1077d80c92c089d313]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-82052494da740a1077d80c92c089d313]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 2. Citation and commencement[^key-82052494da740a1077d80c92c089d313]
+## 2. Citation and commencement[^c-82052494da740a1077d80c92c089d313]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Road Works (Inspection Fees) (Scotland) Regulations 2003[^key-82052494da740a1077d80c92c089d313]
+## 3. Amendment of the Road Works (Inspection Fees) (Scotland) Regulations 2003[^c-82052494da740a1077d80c92c089d313]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocation[^key-82052494da740a1077d80c92c089d313]
+## 4. Revocation[^c-82052494da740a1077d80c92c089d313]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-82052494da740a1077d80c92c089d313]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-82052494da740a1077d80c92c089d313]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-82052494da740a1077d80c92c089d313]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-82052494da740a1077d80c92c089d313]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-82052494da740a1077d80c92c089d313]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2010/68) revoked (1.4.2011) by [The Road Works (Inspection Fees) (Scotland) Amendment Regulations 2011 (S.S.I. 2011/91)](https://www.legislation.gov.uk/ssi/2011/91), [regs. 1](https://www.legislation.gov.uk/ssi/2011/91/regulation/1), [4](https://www.legislation.gov.uk/ssi/2011/91/regulation/4)
+[^c-82052494da740a1077d80c92c089d313]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2010/68) revoked (1.4.2011) by [The Road Works (Inspection Fees) (Scotland) Amendment Regulations 2011 (S.S.I. 2011/91)](https://www.legislation.gov.uk/ssi/2011/91), [regs. 1](https://www.legislation.gov.uk/ssi/2011/91/regulation/1), [4](https://www.legislation.gov.uk/ssi/2011/91/regulation/4)

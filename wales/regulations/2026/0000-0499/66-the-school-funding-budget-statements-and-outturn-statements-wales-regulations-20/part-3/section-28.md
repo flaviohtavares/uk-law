@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Arrangements approved by the Welsh Ministers[^key-a83e3d699117d83fd8e76f4517bdb0db]
+## 28. Arrangements approved by the Welsh Ministers[^c-a83e3d699117d83fd8e76f4517bdb0db]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ The Welsh Ministers may, where it appears to them to be expedient to do so, auth
 
 ## Annotations
 
-[^key-a83e3d699117d83fd8e76f4517bdb0db]: Commencement: Reg. 28 in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)
+[^c-a83e3d699117d83fd8e76f4517bdb0db]: Commencement: Reg. 28 in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Form, grounds and period for rejecting final certificate[^key-7d51fcf8bc960e4a36e9450d34b34f01]
+## 12. Form, grounds and period for rejecting final certificate[^c-7d51fcf8bc960e4a36e9450d34b34f01]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7d51fcf8bc960e4a36e9450d34b34f01]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2024/1268/regulation/12) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)
+[^c-7d51fcf8bc960e4a36e9450d34b34f01]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2024/1268/regulation/12) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)

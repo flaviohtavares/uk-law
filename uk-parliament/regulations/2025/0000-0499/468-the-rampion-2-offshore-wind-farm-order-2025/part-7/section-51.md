@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 51. Funding[^key-3e7caacfe44a393b90d77cb8ff7de071]
+## 51. Funding[^c-3e7caacfe44a393b90d77cb8ff7de071]
 
 *Extent: E+W+S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3e7caacfe44a393b90d77cb8ff7de071]: Commencement: Art. 51 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-3e7caacfe44a393b90d77cb8ff7de071]: Commencement: Art. 51 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)

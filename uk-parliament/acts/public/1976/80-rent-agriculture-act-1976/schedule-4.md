@@ -131,7 +131,7 @@ The tenant, or any person residing or lodging with him or sub-tenant of his, has
 
 - (a) himself, or
 - (b) any son or daughter of his over 18 years of age, or
-- (c) his father or mother, or the father or mother of his wife, or husband or civil partner[^key-f0523ea748d3ae53496f0796c7f8bf46], or
+- (c) his father or mother, or the father or mother of his wife, or husband or civil partner[^c-f0523ea748d3ae53496f0796c7f8bf46], or
 - (d) his grandfather or grandmother, or the grandfather or grandmother of his wife, or husband or civil partner,
 
 and the landlord did not become landlord by purchasing the dwelling-house, or any interest in it, after 12th April 1976.
@@ -200,7 +200,7 @@ The dwelling-house is overcrowded, within the meaning of Part X of the Housing A
 
 [^c13231261]: Modification: Case VIII modified by [Housing Act 1980 (c. 51)](https://www.legislation.gov.uk/ukpga/1980/51), [Sch. 8 paras. 6](https://www.legislation.gov.uk/ukpga/1980/51/schedule/8/paragraph/6), [8](https://www.legislation.gov.uk/ukpga/1980/51/schedule/8/paragraph/8)
 
-[^key-f0523ea748d3ae53496f0796c7f8bf46]: Textual amendment: Words in [Sch. 4 Pt. I](https://www.legislation.gov.uk/ukpga/1976/80/schedule/4/part/I) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/2), [Sch. 8 para. 12](https://www.legislation.gov.uk/ukpga/2004/33/schedule/8/paragraph/12); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+[^c-f0523ea748d3ae53496f0796c7f8bf46]: Textual amendment: Words in [Sch. 4 Pt. I](https://www.legislation.gov.uk/ukpga/1976/80/schedule/4/part/I) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/2), [Sch. 8 para. 12](https://www.legislation.gov.uk/ukpga/2004/33/schedule/8/paragraph/12); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
 
 [^c13231271]: Modification: Case X modified by [Housing Act 1980 (c. 51)](https://www.legislation.gov.uk/ukpga/1980/51), [Sch. 8 paras. 6](https://www.legislation.gov.uk/ukpga/1980/51/schedule/8/paragraph/6), [8](https://www.legislation.gov.uk/ukpga/1980/51/schedule/8/paragraph/8)
 

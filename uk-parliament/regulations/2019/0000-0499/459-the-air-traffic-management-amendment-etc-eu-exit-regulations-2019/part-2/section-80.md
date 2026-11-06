@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Article 4 of Regulation [(EC) No 1070/2009](https://www.legislation.gov.uk/eur/2009/1070)[^key-7fa036b38a21b8b370e38f36e5500714]
+## 80. Article 4 of Regulation [(EC) No 1070/2009](https://www.legislation.gov.uk/eur/2009/1070)[^c-7fa036b38a21b8b370e38f36e5500714]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Omit Article 5 (entry into force).
 
 ## Annotations
 
-[^key-7fa036b38a21b8b370e38f36e5500714]: Commencement: Reg. 80 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-7fa036b38a21b8b370e38f36e5500714]: Commencement: Reg. 80 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

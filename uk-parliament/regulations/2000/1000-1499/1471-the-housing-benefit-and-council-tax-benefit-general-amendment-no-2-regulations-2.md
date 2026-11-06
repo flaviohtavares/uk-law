@@ -27,7 +27,7 @@ summary: ''
 
 SOCIAL SECURITY
 
-The Housing Benefit and Council Tax Benefit (General) Amendment (No. 2) Regulations 2000 (revoked)[^key-3e2aadb9e30616f3c0acaf16815bd27f]
+The Housing Benefit and Council Tax Benefit (General) Amendment (No. 2) Regulations 2000 (revoked)[^c-3e2aadb9e30616f3c0acaf16815bd27f]
 
 Made
 
@@ -41,28 +41,28 @@ Coming into force
 
 3rd July 2000
 
-[^key-3e2aadb9e30616f3c0acaf16815bd27f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3e2aadb9e30616f3c0acaf16815bd27f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-3e2aadb9e30616f3c0acaf16815bd27f]
+## 1. Citation and commencement[^c-3e2aadb9e30616f3c0acaf16815bd27f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of regulation 21 of the Housing Benefit (General) Regulations[^key-3e2aadb9e30616f3c0acaf16815bd27f]
+## 2. Amendment of regulation 21 of the Housing Benefit (General) Regulations[^c-3e2aadb9e30616f3c0acaf16815bd27f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of regulation 13 of the Council Tax Benefit (General) Regulations[^key-3e2aadb9e30616f3c0acaf16815bd27f]
+## 3. Amendment of regulation 13 of the Council Tax Benefit (General) Regulations[^c-3e2aadb9e30616f3c0acaf16815bd27f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3e2aadb9e30616f3c0acaf16815bd27f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3e2aadb9e30616f3c0acaf16815bd27f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-3e2aadb9e30616f3c0acaf16815bd27f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3e2aadb9e30616f3c0acaf16815bd27f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3e2aadb9e30616f3c0acaf16815bd27f]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2000/1471) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-3e2aadb9e30616f3c0acaf16815bd27f]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2000/1471) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))

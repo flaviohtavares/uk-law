@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 173. Quorum at meeting of creditors[^key-11402e9fc4de298225f7751adee750b5]
+## 173. Quorum at meeting of creditors[^c-11402e9fc4de298225f7751adee750b5]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ the meeting must not commence until at least the expiry of 15 minutes after the 
 
 ## Annotations
 
-[^key-11402e9fc4de298225f7751adee750b5]: Commencement: [Rule 173](https://www.legislation.gov.uk/uksi/2013/3208/rule/173) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-11402e9fc4de298225f7751adee750b5]: Commencement: [Rule 173](https://www.legislation.gov.uk/uksi/2013/3208/rule/173) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

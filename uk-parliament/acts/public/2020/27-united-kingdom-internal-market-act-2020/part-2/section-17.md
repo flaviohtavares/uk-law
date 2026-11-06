@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Services: overview[^key-ba3c3bd50b97429bd158411cbdce4917]
+## 17. Services: overview[^c-ba3c3bd50b97429bd158411cbdce4917]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ba3c3bd50b97429bd158411cbdce4917]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2020/27/section/17) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/b)
+[^c-ba3c3bd50b97429bd158411cbdce4917]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2020/27/section/17) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/b)

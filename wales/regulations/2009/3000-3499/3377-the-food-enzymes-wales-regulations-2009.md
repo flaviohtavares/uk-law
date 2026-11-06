@@ -31,7 +31,7 @@ summary: ''
 
 FOOD, WALES
 
-The Food Enzymes (Wales) Regulations 2009 (revoked)[^key-5578a4c5daf12b342b8107e6a244fa51]
+The Food Enzymes (Wales) Regulations 2009 (revoked)[^c-5578a4c5daf12b342b8107e6a244fa51]
 
 Made
 
@@ -45,56 +45,56 @@ Coming into force
 
 20 January 2010
 
-[^key-5578a4c5daf12b342b8107e6a244fa51]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5578a4c5daf12b342b8107e6a244fa51]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-5578a4c5daf12b342b8107e6a244fa51]
+## 1. Title, application and commencement[^c-5578a4c5daf12b342b8107e6a244fa51]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-5578a4c5daf12b342b8107e6a244fa51]
+## 2. Interpretation[^c-5578a4c5daf12b342b8107e6a244fa51]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Offences, penalties and savings[^key-5578a4c5daf12b342b8107e6a244fa51]
+## 3. Offences, penalties and savings[^c-5578a4c5daf12b342b8107e6a244fa51]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Enforcement and competent authorities[^key-5578a4c5daf12b342b8107e6a244fa51]
+## 4. Enforcement and competent authorities[^c-5578a4c5daf12b342b8107e6a244fa51]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Application of various sections of the Food Safety Act 1990[^key-5578a4c5daf12b342b8107e6a244fa51]
+## 5. Application of various sections of the Food Safety Act 1990[^c-5578a4c5daf12b342b8107e6a244fa51]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Condemnation of Food[^key-5578a4c5daf12b342b8107e6a244fa51]
+## 6. Condemnation of Food[^c-5578a4c5daf12b342b8107e6a244fa51]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment of the Food Labelling Regulations[^key-5578a4c5daf12b342b8107e6a244fa51]
+## 7. Amendment of the Food Labelling Regulations[^c-5578a4c5daf12b342b8107e6a244fa51]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendment of the Caseins and Caseinates Regulations 1985[^key-5578a4c5daf12b342b8107e6a244fa51]
+## 8. Amendment of the Caseins and Caseinates Regulations 1985[^c-5578a4c5daf12b342b8107e6a244fa51]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Amendment of the Fruit Juices and Fruit Nectars (Wales) Regulations 2003[^key-5578a4c5daf12b342b8107e6a244fa51]
+## 9. Amendment of the Fruit Juices and Fruit Nectars (Wales) Regulations 2003[^c-5578a4c5daf12b342b8107e6a244fa51]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Amendment of the Novel Food and Novel Food Ingredients Regulations 1997[^key-5578a4c5daf12b342b8107e6a244fa51]
+## 10. Amendment of the Novel Food and Novel Food Ingredients Regulations 1997[^c-5578a4c5daf12b342b8107e6a244fa51]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5578a4c5daf12b342b8107e6a244fa51]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5578a4c5daf12b342b8107e6a244fa51]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-5578a4c5daf12b342b8107e6a244fa51]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5578a4c5daf12b342b8107e6a244fa51]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5578a4c5daf12b342b8107e6a244fa51]: Textual amendment: Regulations revoked (1.1.2018) by [The Novel Foods (Wales) Regulations 2017 (S.I. 2017/1103)](https://www.legislation.gov.uk/wsi/2017/1103), regs. 1(3), [6(c)](https://www.legislation.gov.uk/wsi/2017/1103/regulation/6/c)
+[^c-5578a4c5daf12b342b8107e6a244fa51]: Textual amendment: Regulations revoked (1.1.2018) by [The Novel Foods (Wales) Regulations 2017 (S.I. 2017/1103)](https://www.legislation.gov.uk/wsi/2017/1103), regs. 1(3), [6(c)](https://www.legislation.gov.uk/wsi/2017/1103/regulation/6/c)

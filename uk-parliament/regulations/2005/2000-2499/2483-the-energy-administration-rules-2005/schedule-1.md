@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 1 — FORMS[^key-c22a48fc4307b7df38cbcbd2fbfa1da2]
+## SCHEDULE 1 — FORMS[^c-c22a48fc4307b7df38cbcbd2fbfa1da2]
 
 *Extent: E+W*
 
@@ -396,4 +396,4 @@ Rule 175
 
 ## Annotations
 
-[^key-c22a48fc4307b7df38cbcbd2fbfa1da2]: Commencement: Sch. 1 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-c22a48fc4307b7df38cbcbd2fbfa1da2]: Commencement: Sch. 1 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

@@ -31,7 +31,7 @@ summary: ''
 
 animals
 
-The Zootechnical Standards (Amendment) Regulations (Northern Ireland) 2008 (revoked)[^key-e0adc3d93304488cacc24231641c0474]
+The Zootechnical Standards (Amendment) Regulations (Northern Ireland) 2008 (revoked)[^c-e0adc3d93304488cacc24231641c0474]
 
 Made
 
@@ -41,28 +41,28 @@ Coming into operation
 
 22nd February 2008
 
-[^key-e0adc3d93304488cacc24231641c0474]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e0adc3d93304488cacc24231641c0474]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-e0adc3d93304488cacc24231641c0474]
+## 1. Citation and commencement[^c-e0adc3d93304488cacc24231641c0474]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-e0adc3d93304488cacc24231641c0474]
+## 2. Interpretation[^c-e0adc3d93304488cacc24231641c0474]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Zootechnical Standards Regulations (Northern Ireland) 1992[^key-e0adc3d93304488cacc24231641c0474]
+## 3. Amendment of the Zootechnical Standards Regulations (Northern Ireland) 1992[^c-e0adc3d93304488cacc24231641c0474]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e0adc3d93304488cacc24231641c0474]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e0adc3d93304488cacc24231641c0474]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-e0adc3d93304488cacc24231641c0474]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e0adc3d93304488cacc24231641c0474]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e0adc3d93304488cacc24231641c0474]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2008/37) revoked (26.12.2018) by [The Zootechnical Standards Regulations (Northern Ireland) 2018 (S.R. 2018/204)](https://www.legislation.gov.uk/nisr/2018/204), [regs. 1](https://www.legislation.gov.uk/nisr/2018/204/regulation/1), [10(b)](https://www.legislation.gov.uk/nisr/2018/204/regulation/10/b)
+[^c-e0adc3d93304488cacc24231641c0474]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2008/37) revoked (26.12.2018) by [The Zootechnical Standards Regulations (Northern Ireland) 2018 (S.R. 2018/204)](https://www.legislation.gov.uk/nisr/2018/204), [regs. 1](https://www.legislation.gov.uk/nisr/2018/204/regulation/1), [10(b)](https://www.legislation.gov.uk/nisr/2018/204/regulation/10/b)

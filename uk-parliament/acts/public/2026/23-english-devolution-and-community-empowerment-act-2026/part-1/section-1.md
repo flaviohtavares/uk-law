@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Strategic authorities[^key-38fe5cc07fb2f4060a18295fae5db6b8]
+## 1. Strategic authorities[^c-38fe5cc07fb2f4060a18295fae5db6b8]
 
 *Extent: E+W*
 
@@ -62,4 +62,4 @@ Established mayoral strategic authorities
 
 ## Annotations
 
-[^key-38fe5cc07fb2f4060a18295fae5db6b8]: Commencement: S. 1 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-38fe5cc07fb2f4060a18295fae5db6b8]: Commencement: S. 1 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)

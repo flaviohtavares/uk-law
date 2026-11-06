@@ -35,16 +35,16 @@ amending Decision 2002/621/EC on the organisation and operation of the European 
 
 (2010/51/EU) (revoked)
 
-[^key-122ab55d0f5345cd19bedd19c77542be]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-122ab55d0f5345cd19bedd19c77542be]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-122ab55d0f5345cd19bedd19c77542be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-122ab55d0f5345cd19bedd19c77542be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Date of entry into force[^key-122ab55d0f5345cd19bedd19c77542be]
+## Article 2. Date of entry into force[^c-122ab55d0f5345cd19bedd19c77542be]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-122ab55d0f5345cd19bedd19c77542be]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-122ab55d0f5345cd19bedd19c77542be]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-122ab55d0f5345cd19bedd19c77542be]: Textual amendment: Decision revoked (31.12.2020) by [The European Institutions and Consular Protection (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1391)](https://www.legislation.gov.uk/uksi/2018/1391), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1391/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1391/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-122ab55d0f5345cd19bedd19c77542be]: Textual amendment: Decision revoked (31.12.2020) by [The European Institutions and Consular Protection (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1391)](https://www.legislation.gov.uk/uksi/2018/1391), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1391/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1391/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

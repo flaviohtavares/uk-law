@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 17. Education, employment and leisure activity[^key-a2c58161961652d5051d9ea63be83a39]
+## 17. Education, employment and leisure activity[^c-a2c58161961652d5051d9ea63be83a39]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a2c58161961652d5051d9ea63be83a39]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2005/176/regulation/17) in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/176/regulation/1)
+[^c-a2c58161961652d5051d9ea63be83a39]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2005/176/regulation/17) in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/176/regulation/1)

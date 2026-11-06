@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Deputy mayors etc[^key-9d0fd99d99e089192ad6eeb3834bc5c5]
+## 29. Deputy mayors etc[^c-9d0fd99d99e089192ad6eeb3834bc5c5]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ the other members of the CCA must act together in place of the mayor, taking dec
 
 ## Annotations
 
-[^key-9d0fd99d99e089192ad6eeb3834bc5c5]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2023/55/section/29) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)
+[^c-9d0fd99d99e089192ad6eeb3834bc5c5]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2023/55/section/29) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)

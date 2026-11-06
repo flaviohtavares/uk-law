@@ -34,22 +34,22 @@ An Act of the Scottish Parliament to amend section 2 of the Gender Representatio
 
 The Bill for this Act of the Scottish Parliament was passed by the Parliament on 20th June 2024 and received Royal Assent on 1st August 2024
 
-## 1. Amendment of the 2018 Act[^key-7e6832c0f44757aa6b53791cb7c32041]
+## 1. Amendment of the 2018 Act[^c-7e6832c0f44757aa6b53791cb7c32041]
 
 In section 2 (key definitions) of the Gender Representation on Public Boards (Scotland) Act 2018, the definition of “woman” is repealed.
 
-## 2. Commencement[^key-edcac68d7b7657cab6a52ccf492141cc]
+## 2. Commencement[^c-edcac68d7b7657cab6a52ccf492141cc]
 
 This Act comes into force on the day after Royal Assent.
 
-## 3. Short title[^key-32cdb6778976ab5837a2961e0c673d85]
+## 3. Short title[^c-32cdb6778976ab5837a2961e0c673d85]
 
 The short title of this Act is the Gender Representation on Public Boards (Amendment) (Scotland) Act 2024.
 
 ## Annotations
 
-[^key-7e6832c0f44757aa6b53791cb7c32041]: Commencement: S. 1 in force at 2.8.2024, see [s. 2](https://www.legislation.gov.uk/asp/2024/12/section/2)
+[^c-7e6832c0f44757aa6b53791cb7c32041]: Commencement: S. 1 in force at 2.8.2024, see [s. 2](https://www.legislation.gov.uk/asp/2024/12/section/2)
 
-[^key-edcac68d7b7657cab6a52ccf492141cc]: Commencement: S. 2 in force at 2.8.2024, see [s. 2](https://www.legislation.gov.uk/asp/2024/12/section/2)
+[^c-edcac68d7b7657cab6a52ccf492141cc]: Commencement: S. 2 in force at 2.8.2024, see [s. 2](https://www.legislation.gov.uk/asp/2024/12/section/2)
 
-[^key-32cdb6778976ab5837a2961e0c673d85]: Commencement: S. 3 in force at 2.8.2024, see [s. 2](https://www.legislation.gov.uk/asp/2024/12/section/2)
+[^c-32cdb6778976ab5837a2961e0c673d85]: Commencement: S. 3 in force at 2.8.2024, see [s. 2](https://www.legislation.gov.uk/asp/2024/12/section/2)

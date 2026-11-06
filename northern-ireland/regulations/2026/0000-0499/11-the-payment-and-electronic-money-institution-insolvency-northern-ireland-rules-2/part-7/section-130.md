@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 130. Discounts[^key-1a3e2aa7708b4ffbaabbf97b91678bb4]
+## 130. Discounts[^c-1a3e2aa7708b4ffbaabbf97b91678bb4]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ All trade and other discounts, except any discount for immediate, early or cash 
 
 ## Annotations
 
-[^key-1a3e2aa7708b4ffbaabbf97b91678bb4]: Commencement: [Rule 130](https://www.legislation.gov.uk/nisr/2026/11/rule/130) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-1a3e2aa7708b4ffbaabbf97b91678bb4]: Commencement: [Rule 130](https://www.legislation.gov.uk/nisr/2026/11/rule/130) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

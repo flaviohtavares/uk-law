@@ -24,7 +24,7 @@ Article 5
 
 ### PART 1 — Licensed marine activities
 
-#### 1. Interpretation[^key-7c58a9354b1b0431940d8408c422a6ae]
+#### 1. Interpretation[^c-7c58a9354b1b0431940d8408c422a6ae]
 
 (1) In this marine licence—
 
@@ -104,7 +104,7 @@ Article 5
 - “**VHF**” means very high frequency;
 - “**WGS84**” means the World Geodetic System 1984;
 - “wind turbine generator” or “**WTG**” means a structure comprising a tower, rotor with three blades connected at the hub, nacelle and ancillary electrical and other equipment which may include J- tube(s), transition piece, access and rest platforms, access ladders, boat access systems, corrosion protection systems, fenders and maintenance equipment, helicopter hoisting facilities and other associated equipment including communications equipment, fixed to a foundation or transition piece; and
-- “**working day**” means a day other than a Saturday or Sunday or a bank holiday or other public holiday[^key-3e09286f1ca2073e12660d282f2587d2] in England and Wales.
+- “**working day**” means a day other than a Saturday or Sunday or a bank holiday or other public holiday[^c-3e09286f1ca2073e12660d282f2587d2] in England and Wales.
 
 (2) In this licence a reference to any statute, order, regulation or similar instrument is a reference to a statute, order, regulation or instrument as amended by any subsequent statute, order, regulation or instrument or as contained in any subsequent re-enactment.
 
@@ -145,7 +145,7 @@ Article 5
 
   Marine Licensing Team
 
-  Tyneside House,[^key-e299883cfb55f95ff943cf46aa90ef3d]
+  Tyneside House,[^c-e299883cfb55f95ff943cf46aa90ef3d]
 
   Skinnerburn Rd,
 
@@ -220,7 +220,7 @@ Article 5
 
   Email: navwarnings@btconnect.com
 
-#### 2. Details of licensed marine activities[^key-5059c8b48215167063c8b7ff7adac4da]
+#### 2. Details of licensed marine activities[^c-5059c8b48215167063c8b7ff7adac4da]
 
 Subject to the licence conditions at Part 2, this licence authorises the undertaker (and any agent or contractor acting on its behalf) to carry out the following licensable marine activities under section 66(1) (licensable marine activities) of the 2009 Act—
 
@@ -228,9 +228,9 @@ Subject to the licence conditions at Part 2, this licence authorises the underta
 - (b) the construction of works in or over the sea or on or under the seabed;
 - (c) excavation for the purposes of seabed preparation for foundation works or cable works;
 - (d) site clearance and preparation works including debris, sandwave clearance, boulder clearance and the removal of out of service cables and static fishing equipment; and
-- (e) the disposal of up to 1,416,463 cubic metres of inert material of natural origin within the Order limits[^key-b1a9f79dbab8e20a0dceee9ed0ace5a1] produced during construction, operation and maintenance at disposal site references to be provided to the MMO within the Order limits.
+- (e) the disposal of up to 1,416,463 cubic metres of inert material of natural origin within the Order limits[^c-b1a9f79dbab8e20a0dceee9ed0ace5a1] produced during construction, operation and maintenance at disposal site references to be provided to the MMO within the Order limits.
 
-**3.**[^key-e6c23b8700aaf522093a986ac77d16d7] Such activities are authorised in relation to the construction, operation, maintenance and otherwise carrying on of—
+**3.**[^c-e6c23b8700aaf522093a986ac77d16d7] Such activities are authorised in relation to the construction, operation, maintenance and otherwise carrying on of—
 
 Work No. 1—
 
@@ -248,7 +248,7 @@ and in connection with the licensed activities in Work No. 1 and Work No. 2 furt
 
 - (a) scour protection around the foundations of the offshore structures;
 - (b) cable protection measures;
-- (c) the removal of material from the seabed and the disposal of inert material of natural origin within the Order limits[^key-e1a925b411c87cb1ff3e08f6b7bb380d] produced during seabed preparation for and installation of foundations and cables (including sandwave clearance and seabed levelling) and boulder clearance;
+- (c) the removal of material from the seabed and the disposal of inert material of natural origin within the Order limits[^c-e1a925b411c87cb1ff3e08f6b7bb380d] produced during seabed preparation for and installation of foundations and cables (including sandwave clearance and seabed levelling) and boulder clearance;
 - (d) removal of out of service cables and static fishing equipment; and
 - (e) disposal of drill arisings in connection with any foundation drilling up to a total of 55,865 cubic metres.
 
@@ -257,17 +257,17 @@ and the following ancillary works which are within the Order limits and which fa
 - (a) moorings or other means of accommodating vessels in the construction or maintenance of the authorised project; and
 - (b) marking buoys, beacons, fenders and other navigational warning or ship impact protection works.
 
-**4.**[^key-0dffd97f0cee6d03550023f53e5ed07b] The substances and objects authorised for deposit at sea are—
+**4.**[^c-0dffd97f0cee6d03550023f53e5ed07b] The substances and objects authorised for deposit at sea are—
 
 - (a) iron, steel, copper and aluminium;
 - (b) stone and rock;
 - (c) concrete and grout;
 - (d) sand and gravel;
 - (e) plastic and synthetic;
-- (f) material extracted from within the Order limits[^key-86c0f1101d247d0274f3fd6aaf552ec0] during construction drilling or seabed preparation for foundation works, cable preparation works (including sandwave clearance) and cable installation works; and
+- (f) material extracted from within the Order limits[^c-86c0f1101d247d0274f3fd6aaf552ec0] during construction drilling or seabed preparation for foundation works, cable preparation works (including sandwave clearance) and cable installation works; and
 - (g) marine coatings, other chemicals and timber.
 
-**5.**[^key-52418ada09bc5a6e5291bc8bb0310147] The activities set out in paragraph 3 are to be located within the area delineated by the coordinates shown on the offshore order limits and grid coordinates plan and listed in Table 3 below—
+**5.**[^c-52418ada09bc5a6e5291bc8bb0310147] The activities set out in paragraph 3 are to be located within the area delineated by the coordinates shown on the offshore order limits and grid coordinates plan and listed in Table 3 below—
 
 Table 3
 
@@ -280,15 +280,15 @@ Table 3
 | 5 | 53° 45′ 00.78002400″ N | 003° 36′ 04.79995593″ W |
 | 6 | 53° 46′ 45.95836718″ N | 003° 40′ 53.89383116″ W |
 
-**6.**[^key-6d155f26457266349703d2bebd06ee1a] This licence remains in force until the authorised project has been decommissioned in accordance with a decommissioning programme approved by the Secretary of State under section 106 (approval of decommissioning programmes) of the 2004 Act, including any modification to the programme under section 108 (reviews and revisions of decommissioning programmes), and the completion of such programme has been confirmed by the Secretary of State.
+**6.**[^c-6d155f26457266349703d2bebd06ee1a] This licence remains in force until the authorised project has been decommissioned in accordance with a decommissioning programme approved by the Secretary of State under section 106 (approval of decommissioning programmes) of the 2004 Act, including any modification to the programme under section 108 (reviews and revisions of decommissioning programmes), and the completion of such programme has been confirmed by the Secretary of State.
 
-**7.**[^key-8343d0568c01972c2a98967f475a28f4] The provisions of section 72 (variation, suspension, revocation and transfer) of the 2009 Act apply to this licence except that the provisions of section 72(7) and (8) relating to the transfer of the licence apply only to a transfer not falling within article 7 (benefit of order) of this Order.
+**7.**[^c-8343d0568c01972c2a98967f475a28f4] The provisions of section 72 (variation, suspension, revocation and transfer) of the 2009 Act apply to this licence except that the provisions of section 72(7) and (8) relating to the transfer of the licence apply only to a transfer not falling within article 7 (benefit of order) of this Order.
 
-**8.**[^key-f37b55e7b39ab4517ae0fbac5cb897d2] Should the undertaker become aware that any of the information on which the granting of this licence was based was materially false or misleading, the undertaker musty notify the MMO of this fact as soon as is reasonably practicable. The undertaker must explain in writing which information was materially false or misleading and must provide to the MMO the correct information.
+**8.**[^c-f37b55e7b39ab4517ae0fbac5cb897d2] Should the undertaker become aware that any of the information on which the granting of this licence was based was materially false or misleading, the undertaker musty notify the MMO of this fact as soon as is reasonably practicable. The undertaker must explain in writing which information was materially false or misleading and must provide to the MMO the correct information.
 
 ### PART 2 — Conditions
 
-#### 1. Design parameters[^key-f22f6a44a9d1e8dc01253eea1a475daf]
+#### 1. Design parameters[^c-f22f6a44a9d1e8dc01253eea1a475daf]
 
 (1) The authorised project must be constructed in accordance with the parameters assessed in the environmental statement and set out in Table 4.
 
@@ -329,7 +329,7 @@ Table 4
 | Maximum hammer energy (kilojoules or kJ) employed during installation of pin piles | 2,500 |
 | Maximum hammer energy (kilojoules or kJ) employed during installation of monopile foundations | 6,600 |
 
-#### 2. Maintenance of the authorised project[^key-fb6545883ac5842b46a50ab6e60f581e]
+#### 2. Maintenance of the authorised project[^c-fb6545883ac5842b46a50ab6e60f581e]
 
 (1) The undertaker may at any time maintain the authorised project, except to the extent that this deemed marine licence or an agreement made under this marine licence provides otherwise.
 
@@ -358,11 +358,11 @@ Table 4
 - (a) include a review of licensed activities undertaken during the preceding five years with reference to the reports submitted in accordance with sub-paragraph (5); and
 - (b) reconfirm the applicability of the methodologies and frequencies of the licensed activities permitted by this licence for the duration of this licence.
 
-#### 3. Extension of time periods[^key-819e3aa49c488c0ed4e4254d5d6b72de]
+#### 3. Extension of time periods[^c-819e3aa49c488c0ed4e4254d5d6b72de]
 
 Any time period given in this licence to either the undertaker or the MMO may be extended with the agreement of the other party such agreement not to be unreasonably withheld or delayed.
 
-#### 4. Notifications and inspections[^key-b83ac24418d996f6fdcd71d4f3d04164]
+#### 4. Notifications and inspections[^c-b83ac24418d996f6fdcd71d4f3d04164]
 
 (1) The undertaker must ensure that—
 
@@ -402,7 +402,7 @@ Any time period given in this licence to either the undertaker or the MMO may be
 
 (12) In case of the exposure of cables on or above the seabed, the undertaker must within three days following identification of a potential cable exposure, notify regional fisheries contacts and mariners and inform the Kingfisher Information Service of Seafish of the location and extent of exposure. Copies of all notices must be provided to the MMO, MCA, Trinity House, and UKHO within five days.
 
-#### 5. Aids to navigation[^key-632f13adde3da66429f9e12ed25addf1]
+#### 5. Aids to navigation[^c-632f13adde3da66429f9e12ed25addf1]
 
 (1) The undertaker must during the whole of the period from commencement of construction of the authorised project to completion of decommissioning of the authorised project exhibit such lights, marks, sounds, signals and other aids to navigation, and take such other steps for the prevention of danger to navigation, as Trinity House may from time to time direct.
 
@@ -420,13 +420,13 @@ Any time period given in this licence to either the undertaker or the MMO may be
 
 (6) Any jack up barges or vessels utilised during the licensed activities, when jacked up, must exhibit signals in accordance with the UK Standard Marking Schedule for Offshore Installations.
 
-#### 6. Colouring of Structures[^key-df710cea25d12a9419c7e40122ef1cf4]
+#### 6. Colouring of Structures[^c-df710cea25d12a9419c7e40122ef1cf4]
 
 (1) Except as otherwise required by Trinity House, the undertaker must paint all structures forming part of the authorised project yellow (colour code RAL 1023) from at least HAT to a height as directed by Trinity House.
 
 (2) Unless the MMO otherwise directs, the undertaker must paint the remainder of the structures grey (colour code RAL 7035).
 
-#### 7. Chemicals, drilling and debris[^key-511859a706616e602d42df33931beb52]
+#### 7. Chemicals, drilling and debris[^c-511859a706616e602d42df33931beb52]
 
 (1) The carriage and use of chemicals in the construction of the authorised project must comply with the International Convention for the Prevention of Pollution from Ships.
 
@@ -436,11 +436,11 @@ Any time period given in this licence to either the undertaker or the MMO may be
 
 (4) The undertaker must inform the MMO of the location and quantities of material disposed of each month under this licence by submission of a disposal return by 15 February each year for the months August to January inclusive, and by 15 August each year for the months February to July inclusive.
 
-(5) The undertaker must ensure that only inert material of natural origin, produced during the drilling installation of or seabed preparation for foundations, and drilling mud is disposed of within the Order limits[^key-7c8d471cf1ea36ae6eacca1f70c36362].
+(5) The undertaker must ensure that only inert material of natural origin, produced during the drilling installation of or seabed preparation for foundations, and drilling mud is disposed of within the Order limits[^c-7c8d471cf1ea36ae6eacca1f70c36362].
 
 (6) The undertaker must ensure that any rock material used in the construction of the authorised project is from a recognised source, free from contaminants and containing minimal fines.
 
-(7) In the event that any rock material used in the construction of the authorised project is misplaced or lost within the Order limits[^key-17f48af8b52288c9def739cf3501d6c6], the undertaker must report the loss in writing to the local enforcement office within 48 hours and if the MMO reasonably considers such material to constitute a navigation or environmental hazard (dependent on the size and nature of the material) the undertaker must, in that event, demonstrate to the MMO that reasonable attempts have been made to locate, remove or move any such material.
+(7) In the event that any rock material used in the construction of the authorised project is misplaced or lost within the Order limits[^c-17f48af8b52288c9def739cf3501d6c6], the undertaker must report the loss in writing to the local enforcement office within 48 hours and if the MMO reasonably considers such material to constitute a navigation or environmental hazard (dependent on the size and nature of the material) the undertaker must, in that event, demonstrate to the MMO that reasonable attempts have been made to locate, remove or move any such material.
 
 (8) The undertaker must ensure that no waste concrete slurry or wash water from concrete or cement works are discharged into the marine environment. Concrete and cement mixing and washing areas must be contained to prevent run off entering the water through the freeing ports.
 
@@ -452,13 +452,13 @@ Any time period given in this licence to either the undertaker or the MMO may be
 
 (12) On receipt of notification or the Dropped Object Procedure Form, the MMO may require relevant surveys to be carried out by the undertaker (such as side scan sonar) if reasonable to do so and the MMO may require obstructions to be removed from the marine environment at the undertaker’s expense if reasonable to do so.
 
-#### 8. Force majeure[^key-0ad7b71adec4fe165eb518ddc1a3aacd]
+#### 8. Force majeure[^c-0ad7b71adec4fe165eb518ddc1a3aacd]
 
-(1) If, due to stress of weather or any other unforeseeable cause, the master of a vessel determines that it is necessary to deposit the authorised deposits outside of the Order limits[^key-fd440d6e1bd49da144b502a2c35aba1e] because the safety of human life or of the vessel is threatened, within 48 hours the undertaker must notify full details of the circumstances of the deposit to the MMO.
+(1) If, due to stress of weather or any other unforeseeable cause, the master of a vessel determines that it is necessary to deposit the authorised deposits outside of the Order limits[^c-fd440d6e1bd49da144b502a2c35aba1e] because the safety of human life or of the vessel is threatened, within 48 hours the undertaker must notify full details of the circumstances of the deposit to the MMO.
 
 (2) The unauthorised deposits must be removed at the expense of the undertaker unless written approval is obtained from the MMO.
 
-#### 9. Pre-construction plans and documentation[^key-3a7be4e165c6458636b2a85d5c244d90]
+#### 9. Pre-construction plans and documentation[^c-3a7be4e165c6458636b2a85d5c244d90]
 
 (1) No part of the licensed activities may commence until the following (insofar as relevant to that activity or phase of activity) have been submitted to and approved by the MMO in consultation with the relevant statutory nature conservation body, Trinity House or the MCA, as appropriate—
 
@@ -500,7 +500,7 @@ Any time period given in this licence to either the undertaker or the MMO may be
   - (iv) the contact details and responsibilities of a fisheries liaison officer;
   - (v) measures to minimise disturbance to marine mammals and rafting birds from vessels;
   - (vi) measures to minimise the potential spread of invasive non-native species;
-- (f) an offshore archaeological written scheme of investigation in relation to the area within the Order limits[^key-65ffe2c5770db7892467257682adb81e], which must accord with the outline offshore written scheme of investigation and industry good practice, in consultation with the statutory historic body to include—
+- (f) an offshore archaeological written scheme of investigation in relation to the area within the Order limits[^c-65ffe2c5770db7892467257682adb81e], which must accord with the outline offshore written scheme of investigation and industry good practice, in consultation with the statutory historic body to include—
   - (i) details of responsibilities of the undertaker, archaeological consultant and contractor;
   - (ii) a methodology for further site investigation including any specifications for geophysical, geotechnical and diver or remotely operated vehicle investigations;
   - (iii) archaeological analysis of survey data, and timetable for reporting, which is to be submitted to the MMO within four months of any survey being completed;
@@ -526,21 +526,21 @@ Any time period given in this licence to either the undertaker or the MMO may be
 - “**preparation**” means a mixture or solution composed of two or more substances; and
 - “**substance**” means a chemical element and its compounds in the natural state or obtained by any manufacturing process, including any additive necessary to preserve its stability and any impurity deriving from the process used, but excluding any solvent which may be separated without affecting the stability of the substance or changing its composition.
 
-**10.**[^key-f10451532eeafba197a90164db34edab] (1) Each programme, statement, plan, protocol or scheme required to be approved under condition 9 must be submitted for approval at least four months before the intended commencement of licensed activities, except where otherwise stated or unless otherwise agreed by the MMO.
+**10.**[^c-f10451532eeafba197a90164db34edab] (1) Each programme, statement, plan, protocol or scheme required to be approved under condition 9 must be submitted for approval at least four months before the intended commencement of licensed activities, except where otherwise stated or unless otherwise agreed by the MMO.
 
 (2) The MMO must determine an application for approval made under condition 9 within a period of four months commencing on the date the application is received by the MMO, except where an application is required to be made no less than six months prior to the intended commencement of the authorised scheme or relevant activity in which case the MMO must determine the application for approval within the period of six months commencing on the date the application is received by the MMO, unless otherwise agreed with the undertaker such agreement not to be unreasonably withheld or delayed.
 
 (3) The licensed activities must be carried out in accordance with the plans, protocols, statements, schemes and details approved under condition 9.
 
-#### 11. Safety zones[^key-45e2757fc08a9a49e7b0b37373d84a87]
+#### 11. Safety zones[^c-45e2757fc08a9a49e7b0b37373d84a87]
 
 The licensed activities or relevant part thereof must not commence until (insofar as relevant to the licensed activity) an application has been made to the Secretary of State for a safety zone for the relevant activities pursuant to the 2004 Act.
 
-#### 12. Offshore safety management[^key-33089bfc6dc44fb202d16fae8d60baf8]
+#### 12. Offshore safety management[^c-33089bfc6dc44fb202d16fae8d60baf8]
 
 No part of the authorised project may commence until the MMO, in consultation with the MCA, has confirmed that the undertaker has taken into account and, so far as is applicable to that part of the authorised project, adequately addressed all MCA recommendations as appropriate to the authorised project contained within MGN654.
 
-#### 13. Reporting of engaged agents, contractors and vessels[^key-a6e460e8298a38d1ce069585a6ec49a0]
+#### 13. Reporting of engaged agents, contractors and vessels[^c-a6e460e8298a38d1ce069585a6ec49a0]
 
 (1) The undertaker must provide the name, address and function of any agent, contractor or subcontractor that will carry out any of the licensed activities on behalf of the undertaker to the MMO no less than 24 hours (or such other timescale as agreed with the MMO) before that agent, contractor or subcontractor carries out any such licensed activities.
 
@@ -550,17 +550,17 @@ No part of the authorised project may commence until the MMO, in consultation wi
 
 (4) The undertaker must ensure that a copy of this licence and any subsequent revisions or amendments has been provided to any agents, contractors, subcontractors or vessels that will carry on any licensed activities on behalf of the undertaker prior to them engaging in the licensed activities.
 
-#### 14. Pre-construction monitoring and surveys[^key-52467972fef9e5b1e4432612fd03e13e]
+#### 14. Pre-construction monitoring and surveys[^c-52467972fef9e5b1e4432612fd03e13e]
 
 (1) The undertaker must, in discharging condition 9(1)(c) submit a monitoring plan or plans in accordance with the in principle monitoring plan for written approval by the MMO in consultation with the relevant statutory nature conservation body, which must contain details of proposed pre-construction monitoring and surveys, including methodologies and timings.
 
 (2) The pre-construction survey proposals submitted under sub-paragraph (1) must be in general accordance with the principles set out in the in principle monitoring plan and must specify each survey’s objectives and explain how it will assist in either informing a useful and valid comparison with the post-construction position or will enable the validation or otherwise of key predictions in the environmental statement.
 
-(3) The pre-construction survey proposals referred to in sub-paragraph (1) must have due regard to, but not be limited to, the need to undertake a swath-bathymetry survey to IHO Order 1a standard that meets the requirements of MGN654 and its annexes, and side scan sonar, of the area(s) within the Order limits[^key-9541f7e6f357a0fd301466feebdd803e] in which it is proposed to carry out construction works.
+(3) The pre-construction survey proposals referred to in sub-paragraph (1) must have due regard to, but not be limited to, the need to undertake a swath-bathymetry survey to IHO Order 1a standard that meets the requirements of MGN654 and its annexes, and side scan sonar, of the area(s) within the Order limits[^c-9541f7e6f357a0fd301466feebdd803e] in which it is proposed to carry out construction works.
 
 (4) The undertaker must carry out the surveys specified within the monitoring plan or plans in accordance with that plan or plans.
 
-#### 15. Construction monitoring[^key-5168975c52de621d84655f8b7fabc0d5]
+#### 15. Construction monitoring[^c-5168975c52de621d84655f8b7fabc0d5]
 
 (1) The undertaker must, in discharging condition 9(1)(c), submit details (which accord with the in principle monitoring plan) for approval by the MMO in consultation with the relevant statutory nature conservation body of any proposed construction monitoring, including methodologies and timings, to be carried out during the construction of the authorised project. The monitoring proposals must specify each monitoring proposal’s objectives.
 
@@ -576,7 +576,7 @@ No part of the authorised project may commence until the MMO, in consultation wi
 
 (7) In the event that piled foundations are proposed to be used, the details submitted in accordance with the marine mammal mitigation protocol must include proposals for monitoring marine mammals to ensure the ongoing efficacy of the marine mammal mitigation protocol.
 
-#### 16. Post-construction monitoring[^key-9591535c736a9f0f5623dd0ab5b3fcf1]
+#### 16. Post-construction monitoring[^c-9591535c736a9f0f5623dd0ab5b3fcf1]
 
 (1) The undertaker must, in discharging condition 9(1)(c) submit details (which accord with the in principle monitoring plan) for approval by the MMO in consultation with the relevant statutory nature conservation body of proposed post-construction monitoring, including methodologies and timings, and a proposed format, content and timings for providing reports on the results.
 
@@ -584,14 +584,14 @@ No part of the authorised project may commence until the MMO, in consultation wi
 
 (3) The post-construction monitoring referred to in sub-paragraph (1) must have due regard to, but not be limited to, the need to—
 
-- (a) undertake a full sea floor coverage swath-bathymetry survey that meets the requirements of MGN654 and its annexes, and side scan sonar, of the area(s) within the Order limits[^key-b46331ca43ad724a469d122004331db4] in which construction works were carried out to assess any changes in bedform topography and such further monitoring or assessment as may be agreed to ensure that cables have been buried or protected; and
+- (a) undertake a full sea floor coverage swath-bathymetry survey that meets the requirements of MGN654 and its annexes, and side scan sonar, of the area(s) within the Order limits[^c-b46331ca43ad724a469d122004331db4] in which construction works were carried out to assess any changes in bedform topography and such further monitoring or assessment as may be agreed to ensure that cables have been buried or protected; and
 - (b) undertake post-construction vessel traffic monitoring in accordance with the in principle monitoring plan, including the provision of reports on the results of that monitoring to the MMO, MCA and Trinity House.
 
 (4) The undertaker must carry out the monitoring agreed under sub-paragraph (1) and provide the agreed reports to the MMO in the agreed format in accordance with the agreed timetable.
 
 (5) Following the installation of cables, details of cable monitoring required under 9(1)(d) must be updated with the results of the post installation surveys. The statement must be implemented until the authorised project is decommissioned and reviewed as specified within the statement, following cable burial surveys, or as instructed by the MMO.
 
-#### 17. Reporting of scour and cable protection[^key-4a8d9b382559436837a620dd9167c95d]
+#### 17. Reporting of scour and cable protection[^c-4a8d9b382559436837a620dd9167c95d]
 
 (1) Not more than four months following completion of the construction of the authorised project, the undertaker must provide the MMO and the relevant statutory nature conservation body with a report setting out details of the cable protection and scour protection used for the authorised project.
 
@@ -601,7 +601,7 @@ No part of the authorised project may commence until the MMO, in consultation wi
 - (b) the volume of cable protection and scour protection; and
 - (c) any other information relating to the cable protection and scour protection as agreed between the MMO and the undertaker.
 
-#### 18. Completion of construction[^key-15e761fd9ba6e24ca11ec377818f6d1a]
+#### 18. Completion of construction[^c-15e761fd9ba6e24ca11ec377818f6d1a]
 
 (1) The undertaker must submit a close-out report to the MMO, MCA, Trinity House, the UKHO and the relevant statutory nature conservation body within four months of the date of completion of construction. The close out report must confirm the date of completion of construction and must include the following details—
 
@@ -613,7 +613,7 @@ No part of the authorised project may commence until the MMO, in consultation wi
 
 (2) Following completion of construction, no further construction activities can be undertaken under this licence.
 
-#### 19. Marine Noise Registry[^key-4e792bb8d370c4dd6bb950528217987d]
+#### 19. Marine Noise Registry[^c-4e792bb8d370c4dd6bb950528217987d]
 
 (1) In the event that driven or part-driven pile foundations are proposed to be used as part of the foundation installation, the undertaker must provide the following information to the Marine Noise Registry—
 
@@ -626,7 +626,7 @@ No part of the authorised project may commence until the MMO, in consultation wi
 - “**Marine Noise Registry**” means the database of impulsive noise generating activities in UK seas maintained by the Joint Nature Conservation Committee or any successor database; and
 - “forward look” and “close out” requirements are as set out in the “UK Marine Noise Registry: Information Document, Version 1 (May 2016)” or any updated information document.
 
-#### 20. Underwater sound management strategy[^key-ba189862e321b030e1f81a12b3dcbf7a]
+#### 20. Underwater sound management strategy[^c-ba189862e321b030e1f81a12b3dcbf7a]
 
 (1) No piling activities shall commence until an underwater sound management strategy for those activities, which accords with the outline underwater sound management strategy, has been submitted to and approved by the MMO in consultation with the relevant statutory nature conservation body.
 
@@ -642,13 +642,13 @@ No part of the authorised project may commence until the MMO, in consultation wi
 
 (5) The piling activities must be carried out in accordance with the approved underwater sound management strategy for the duration of such activities.
 
-#### 21. Deployment of new cable protection and scour protection[^key-de6306c42bc76e4d4c621f5db3367baf]
+#### 21. Deployment of new cable protection and scour protection[^c-de6306c42bc76e4d4c621f5db3367baf]
 
 Any cable protection and scour protection (other than the replenishment or replacement of existing cable protection or scour protection) authorised under this licence must be deployed within ten years from the date on which operation of the authorised project commences unless otherwise agreed by the MMO.
 
 ## Annotations
 
-[^key-7c58a9354b1b0431940d8408c422a6ae]: Commencement: Sch. 6 Pt. 1 para. 1 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-7c58a9354b1b0431940d8408c422a6ae]: Commencement: Sch. 6 Pt. 1 para. 1 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
 [^f00027]: Footnote: [2004 c. 20](https://www.legislation.gov.uk/ukpga/2004/20). Section 105 was amended by section 69 of the Energy Act [2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32).
 
@@ -664,82 +664,82 @@ Any cable protection and scour protection (other than the replenishment or repla
 
 [^f00033]: Footnote: [S.I. 2017/1013](https://www.legislation.gov.uk/uksi/2017/1013).
 
-[^key-3e09286f1ca2073e12660d282f2587d2]: Textual amendment: Words in [Sch. 6 Pt. 1 para. 1(1)](https://www.legislation.gov.uk/uksi/2025/1366/schedule/6/part/1/paragraph/1/1) inserted (8.6.2026) by [The Morecambe Offshore Windfarm Generation Assets (Correction) Order 2026 (S.I. 2026/608)](https://www.legislation.gov.uk/uksi/2026/608), [art. 1](https://www.legislation.gov.uk/uksi/2026/608/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/608/schedule)
+[^c-3e09286f1ca2073e12660d282f2587d2]: Textual amendment: Words in [Sch. 6 Pt. 1 para. 1(1)](https://www.legislation.gov.uk/uksi/2025/1366/schedule/6/part/1/paragraph/1/1) inserted (8.6.2026) by [The Morecambe Offshore Windfarm Generation Assets (Correction) Order 2026 (S.I. 2026/608)](https://www.legislation.gov.uk/uksi/2026/608), [art. 1](https://www.legislation.gov.uk/uksi/2026/608/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/608/schedule)
 
-[^key-e299883cfb55f95ff943cf46aa90ef3d]: Textual amendment: Words in [Sch. 6 Pt. 1 para. 1(4)(c)](https://www.legislation.gov.uk/uksi/2025/1366/schedule/6/part/1/paragraph/1/4/c) substituted (8.6.2026) by [The Morecambe Offshore Windfarm Generation Assets (Correction) Order 2026 (S.I. 2026/608)](https://www.legislation.gov.uk/uksi/2026/608), [art. 1](https://www.legislation.gov.uk/uksi/2026/608/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/608/schedule)
+[^c-e299883cfb55f95ff943cf46aa90ef3d]: Textual amendment: Words in [Sch. 6 Pt. 1 para. 1(4)(c)](https://www.legislation.gov.uk/uksi/2025/1366/schedule/6/part/1/paragraph/1/4/c) substituted (8.6.2026) by [The Morecambe Offshore Windfarm Generation Assets (Correction) Order 2026 (S.I. 2026/608)](https://www.legislation.gov.uk/uksi/2026/608), [art. 1](https://www.legislation.gov.uk/uksi/2026/608/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/608/schedule)
 
-[^key-5059c8b48215167063c8b7ff7adac4da]: Commencement: Sch. 6 Pt. 1 para. 2 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-5059c8b48215167063c8b7ff7adac4da]: Commencement: Sch. 6 Pt. 1 para. 2 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-b1a9f79dbab8e20a0dceee9ed0ace5a1]: Textual amendment: Words in [Sch. 6 Pt. 1 para. 2(e)](https://www.legislation.gov.uk/uksi/2025/1366/schedule/6/part/1/paragraph/2/e) substituted (8.6.2026) by [The Morecambe Offshore Windfarm Generation Assets (Correction) Order 2026 (S.I. 2026/608)](https://www.legislation.gov.uk/uksi/2026/608), [art. 1](https://www.legislation.gov.uk/uksi/2026/608/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/608/schedule)
+[^c-b1a9f79dbab8e20a0dceee9ed0ace5a1]: Textual amendment: Words in [Sch. 6 Pt. 1 para. 2(e)](https://www.legislation.gov.uk/uksi/2025/1366/schedule/6/part/1/paragraph/2/e) substituted (8.6.2026) by [The Morecambe Offshore Windfarm Generation Assets (Correction) Order 2026 (S.I. 2026/608)](https://www.legislation.gov.uk/uksi/2026/608), [art. 1](https://www.legislation.gov.uk/uksi/2026/608/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/608/schedule)
 
-[^key-e6c23b8700aaf522093a986ac77d16d7]: Commencement: Sch. 6 Pt. 1 para. 3 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-e6c23b8700aaf522093a986ac77d16d7]: Commencement: Sch. 6 Pt. 1 para. 3 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-e1a925b411c87cb1ff3e08f6b7bb380d]: Textual amendment: Words in [Sch. 6 Pt. 1 para. 3](https://www.legislation.gov.uk/uksi/2025/1366/schedule/6/part/1/paragraph/3) substituted (8.6.2026) by [The Morecambe Offshore Windfarm Generation Assets (Correction) Order 2026 (S.I. 2026/608)](https://www.legislation.gov.uk/uksi/2026/608), [art. 1](https://www.legislation.gov.uk/uksi/2026/608/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/608/schedule)
+[^c-e1a925b411c87cb1ff3e08f6b7bb380d]: Textual amendment: Words in [Sch. 6 Pt. 1 para. 3](https://www.legislation.gov.uk/uksi/2025/1366/schedule/6/part/1/paragraph/3) substituted (8.6.2026) by [The Morecambe Offshore Windfarm Generation Assets (Correction) Order 2026 (S.I. 2026/608)](https://www.legislation.gov.uk/uksi/2026/608), [art. 1](https://www.legislation.gov.uk/uksi/2026/608/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/608/schedule)
 
-[^key-0dffd97f0cee6d03550023f53e5ed07b]: Commencement: Sch. 6 Pt. 1 para. 4 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-0dffd97f0cee6d03550023f53e5ed07b]: Commencement: Sch. 6 Pt. 1 para. 4 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-86c0f1101d247d0274f3fd6aaf552ec0]: Textual amendment: Words in [Sch. 6 Pt. 1 para. 4(f)](https://www.legislation.gov.uk/uksi/2025/1366/schedule/6/part/1/paragraph/4/f) substituted (8.6.2026) by [The Morecambe Offshore Windfarm Generation Assets (Correction) Order 2026 (S.I. 2026/608)](https://www.legislation.gov.uk/uksi/2026/608), [art. 1](https://www.legislation.gov.uk/uksi/2026/608/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/608/schedule)
+[^c-86c0f1101d247d0274f3fd6aaf552ec0]: Textual amendment: Words in [Sch. 6 Pt. 1 para. 4(f)](https://www.legislation.gov.uk/uksi/2025/1366/schedule/6/part/1/paragraph/4/f) substituted (8.6.2026) by [The Morecambe Offshore Windfarm Generation Assets (Correction) Order 2026 (S.I. 2026/608)](https://www.legislation.gov.uk/uksi/2026/608), [art. 1](https://www.legislation.gov.uk/uksi/2026/608/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/608/schedule)
 
-[^key-52418ada09bc5a6e5291bc8bb0310147]: Commencement: Sch. 6 Pt. 1 para. 5 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-52418ada09bc5a6e5291bc8bb0310147]: Commencement: Sch. 6 Pt. 1 para. 5 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-6d155f26457266349703d2bebd06ee1a]: Commencement: Sch. 6 Pt. 1 para. 6 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-6d155f26457266349703d2bebd06ee1a]: Commencement: Sch. 6 Pt. 1 para. 6 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-8343d0568c01972c2a98967f475a28f4]: Commencement: Sch. 6 Pt. 1 para. 7 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-8343d0568c01972c2a98967f475a28f4]: Commencement: Sch. 6 Pt. 1 para. 7 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-f37b55e7b39ab4517ae0fbac5cb897d2]: Commencement: Sch. 6 Pt. 1 para. 8 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-f37b55e7b39ab4517ae0fbac5cb897d2]: Commencement: Sch. 6 Pt. 1 para. 8 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-f22f6a44a9d1e8dc01253eea1a475daf]: Commencement: Sch. 6 Pt. 2 para. 1 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-f22f6a44a9d1e8dc01253eea1a475daf]: Commencement: Sch. 6 Pt. 2 para. 1 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-fb6545883ac5842b46a50ab6e60f581e]: Commencement: Sch. 6 Pt. 2 para. 2 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-fb6545883ac5842b46a50ab6e60f581e]: Commencement: Sch. 6 Pt. 2 para. 2 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-819e3aa49c488c0ed4e4254d5d6b72de]: Commencement: Sch. 6 Pt. 2 para. 3 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-819e3aa49c488c0ed4e4254d5d6b72de]: Commencement: Sch. 6 Pt. 2 para. 3 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-b83ac24418d996f6fdcd71d4f3d04164]: Commencement: Sch. 6 Pt. 2 para. 4 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-b83ac24418d996f6fdcd71d4f3d04164]: Commencement: Sch. 6 Pt. 2 para. 4 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-632f13adde3da66429f9e12ed25addf1]: Commencement: Sch. 6 Pt. 2 para. 5 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-632f13adde3da66429f9e12ed25addf1]: Commencement: Sch. 6 Pt. 2 para. 5 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-df710cea25d12a9419c7e40122ef1cf4]: Commencement: Sch. 6 Pt. 2 para. 6 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-df710cea25d12a9419c7e40122ef1cf4]: Commencement: Sch. 6 Pt. 2 para. 6 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-511859a706616e602d42df33931beb52]: Commencement: Sch. 6 Pt. 2 para. 7 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-511859a706616e602d42df33931beb52]: Commencement: Sch. 6 Pt. 2 para. 7 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-7c8d471cf1ea36ae6eacca1f70c36362]: Textual amendment: Words in [Sch. 6 Pt. 2 para. 7(5)](https://www.legislation.gov.uk/uksi/2025/1366/schedule/6/part/2/paragraph/7/5) substituted (8.6.2026) by [The Morecambe Offshore Windfarm Generation Assets (Correction) Order 2026 (S.I. 2026/608)](https://www.legislation.gov.uk/uksi/2026/608), [art. 1](https://www.legislation.gov.uk/uksi/2026/608/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/608/schedule)
+[^c-7c8d471cf1ea36ae6eacca1f70c36362]: Textual amendment: Words in [Sch. 6 Pt. 2 para. 7(5)](https://www.legislation.gov.uk/uksi/2025/1366/schedule/6/part/2/paragraph/7/5) substituted (8.6.2026) by [The Morecambe Offshore Windfarm Generation Assets (Correction) Order 2026 (S.I. 2026/608)](https://www.legislation.gov.uk/uksi/2026/608), [art. 1](https://www.legislation.gov.uk/uksi/2026/608/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/608/schedule)
 
-[^key-17f48af8b52288c9def739cf3501d6c6]: Textual amendment: Words in [Sch. 6 Pt. 2 para. 7(7)](https://www.legislation.gov.uk/uksi/2025/1366/schedule/6/part/2/paragraph/7/7) substituted (8.6.2026) by [The Morecambe Offshore Windfarm Generation Assets (Correction) Order 2026 (S.I. 2026/608)](https://www.legislation.gov.uk/uksi/2026/608), [art. 1](https://www.legislation.gov.uk/uksi/2026/608/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/608/schedule)
+[^c-17f48af8b52288c9def739cf3501d6c6]: Textual amendment: Words in [Sch. 6 Pt. 2 para. 7(7)](https://www.legislation.gov.uk/uksi/2025/1366/schedule/6/part/2/paragraph/7/7) substituted (8.6.2026) by [The Morecambe Offshore Windfarm Generation Assets (Correction) Order 2026 (S.I. 2026/608)](https://www.legislation.gov.uk/uksi/2026/608), [art. 1](https://www.legislation.gov.uk/uksi/2026/608/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/608/schedule)
 
-[^key-0ad7b71adec4fe165eb518ddc1a3aacd]: Commencement: Sch. 6 Pt. 2 para. 8 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-0ad7b71adec4fe165eb518ddc1a3aacd]: Commencement: Sch. 6 Pt. 2 para. 8 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-fd440d6e1bd49da144b502a2c35aba1e]: Textual amendment: Words in [Sch. 6 Pt. 2 para. 8(1)](https://www.legislation.gov.uk/uksi/2025/1366/schedule/6/part/2/paragraph/8/1) substituted (8.6.2026) by [The Morecambe Offshore Windfarm Generation Assets (Correction) Order 2026 (S.I. 2026/608)](https://www.legislation.gov.uk/uksi/2026/608), [art. 1](https://www.legislation.gov.uk/uksi/2026/608/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/608/schedule)
+[^c-fd440d6e1bd49da144b502a2c35aba1e]: Textual amendment: Words in [Sch. 6 Pt. 2 para. 8(1)](https://www.legislation.gov.uk/uksi/2025/1366/schedule/6/part/2/paragraph/8/1) substituted (8.6.2026) by [The Morecambe Offshore Windfarm Generation Assets (Correction) Order 2026 (S.I. 2026/608)](https://www.legislation.gov.uk/uksi/2026/608), [art. 1](https://www.legislation.gov.uk/uksi/2026/608/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/608/schedule)
 
-[^key-3a7be4e165c6458636b2a85d5c244d90]: Commencement: Sch. 6 Pt. 2 para. 9 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-3a7be4e165c6458636b2a85d5c244d90]: Commencement: Sch. 6 Pt. 2 para. 9 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
 [^f00034]: Footnote: [2006 c. 16](https://www.legislation.gov.uk/ukpga/2006/16). Section 41 was amended by section 102(8) of the Environment Act [2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30).
 
-[^key-65ffe2c5770db7892467257682adb81e]: Textual amendment: Words in [Sch. 6 Pt. 2 para. 9(1)(f)](https://www.legislation.gov.uk/uksi/2025/1366/schedule/6/part/2/paragraph/9/1/f) substituted (8.6.2026) by [The Morecambe Offshore Windfarm Generation Assets (Correction) Order 2026 (S.I. 2026/608)](https://www.legislation.gov.uk/uksi/2026/608), [art. 1](https://www.legislation.gov.uk/uksi/2026/608/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/608/schedule)
+[^c-65ffe2c5770db7892467257682adb81e]: Textual amendment: Words in [Sch. 6 Pt. 2 para. 9(1)(f)](https://www.legislation.gov.uk/uksi/2025/1366/schedule/6/part/2/paragraph/9/1/f) substituted (8.6.2026) by [The Morecambe Offshore Windfarm Generation Assets (Correction) Order 2026 (S.I. 2026/608)](https://www.legislation.gov.uk/uksi/2026/608), [art. 1](https://www.legislation.gov.uk/uksi/2026/608/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/608/schedule)
 
-[^key-f10451532eeafba197a90164db34edab]: Commencement: Sch. 6 Pt. 2 para. 10 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-f10451532eeafba197a90164db34edab]: Commencement: Sch. 6 Pt. 2 para. 10 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-45e2757fc08a9a49e7b0b37373d84a87]: Commencement: Sch. 6 Pt. 2 para. 11 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-45e2757fc08a9a49e7b0b37373d84a87]: Commencement: Sch. 6 Pt. 2 para. 11 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-33089bfc6dc44fb202d16fae8d60baf8]: Commencement: Sch. 6 Pt. 2 para. 12 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-33089bfc6dc44fb202d16fae8d60baf8]: Commencement: Sch. 6 Pt. 2 para. 12 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-a6e460e8298a38d1ce069585a6ec49a0]: Commencement: Sch. 6 Pt. 2 para. 13 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-a6e460e8298a38d1ce069585a6ec49a0]: Commencement: Sch. 6 Pt. 2 para. 13 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-52467972fef9e5b1e4432612fd03e13e]: Commencement: Sch. 6 Pt. 2 para. 14 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-52467972fef9e5b1e4432612fd03e13e]: Commencement: Sch. 6 Pt. 2 para. 14 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-9541f7e6f357a0fd301466feebdd803e]: Textual amendment: Words in [Sch. 6 Pt. 2 para. 14(3)](https://www.legislation.gov.uk/uksi/2025/1366/schedule/6/part/2/paragraph/14/3) substituted (8.6.2026) by [The Morecambe Offshore Windfarm Generation Assets (Correction) Order 2026 (S.I. 2026/608)](https://www.legislation.gov.uk/uksi/2026/608), [art. 1](https://www.legislation.gov.uk/uksi/2026/608/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/608/schedule)
+[^c-9541f7e6f357a0fd301466feebdd803e]: Textual amendment: Words in [Sch. 6 Pt. 2 para. 14(3)](https://www.legislation.gov.uk/uksi/2025/1366/schedule/6/part/2/paragraph/14/3) substituted (8.6.2026) by [The Morecambe Offshore Windfarm Generation Assets (Correction) Order 2026 (S.I. 2026/608)](https://www.legislation.gov.uk/uksi/2026/608), [art. 1](https://www.legislation.gov.uk/uksi/2026/608/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/608/schedule)
 
-[^key-5168975c52de621d84655f8b7fabc0d5]: Commencement: Sch. 6 Pt. 2 para. 15 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-5168975c52de621d84655f8b7fabc0d5]: Commencement: Sch. 6 Pt. 2 para. 15 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-9591535c736a9f0f5623dd0ab5b3fcf1]: Commencement: Sch. 6 Pt. 2 para. 16 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-9591535c736a9f0f5623dd0ab5b3fcf1]: Commencement: Sch. 6 Pt. 2 para. 16 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-b46331ca43ad724a469d122004331db4]: Textual amendment: Words in [Sch. 6 Pt. 2 para. 16(3)(a)](https://www.legislation.gov.uk/uksi/2025/1366/schedule/6/part/2/paragraph/16/3/a) substituted (8.6.2026) by [The Morecambe Offshore Windfarm Generation Assets (Correction) Order 2026 (S.I. 2026/608)](https://www.legislation.gov.uk/uksi/2026/608), [art. 1](https://www.legislation.gov.uk/uksi/2026/608/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/608/schedule)
+[^c-b46331ca43ad724a469d122004331db4]: Textual amendment: Words in [Sch. 6 Pt. 2 para. 16(3)(a)](https://www.legislation.gov.uk/uksi/2025/1366/schedule/6/part/2/paragraph/16/3/a) substituted (8.6.2026) by [The Morecambe Offshore Windfarm Generation Assets (Correction) Order 2026 (S.I. 2026/608)](https://www.legislation.gov.uk/uksi/2026/608), [art. 1](https://www.legislation.gov.uk/uksi/2026/608/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/608/schedule)
 
-[^key-4a8d9b382559436837a620dd9167c95d]: Commencement: Sch. 6 Pt. 2 para. 17 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-4a8d9b382559436837a620dd9167c95d]: Commencement: Sch. 6 Pt. 2 para. 17 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-15e761fd9ba6e24ca11ec377818f6d1a]: Commencement: Sch. 6 Pt. 2 para. 18 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-15e761fd9ba6e24ca11ec377818f6d1a]: Commencement: Sch. 6 Pt. 2 para. 18 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-4e792bb8d370c4dd6bb950528217987d]: Commencement: Sch. 6 Pt. 2 para. 19 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-4e792bb8d370c4dd6bb950528217987d]: Commencement: Sch. 6 Pt. 2 para. 19 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-ba189862e321b030e1f81a12b3dcbf7a]: Commencement: Sch. 6 Pt. 2 para. 20 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-ba189862e321b030e1f81a12b3dcbf7a]: Commencement: Sch. 6 Pt. 2 para. 20 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-de6306c42bc76e4d4c621f5db3367baf]: Commencement: Sch. 6 Pt. 2 para. 21 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-de6306c42bc76e4d4c621f5db3367baf]: Commencement: Sch. 6 Pt. 2 para. 21 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)

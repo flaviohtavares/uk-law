@@ -35,7 +35,7 @@ Sheriff Appeal Court
 
 Sheriff Court
 
-Act of Sederunt (Fees of Messengers-at-Arms, Sheriff Officers and Shorthand Writers) (Amendment) 2018 (revoked)[^key-11aaa10e5c5589c447e9100460431016]
+Act of Sederunt (Fees of Messengers-at-Arms, Sheriff Officers and Shorthand Writers) (Amendment) 2018 (revoked)[^c-11aaa10e5c5589c447e9100460431016]
 
 Made
 
@@ -49,58 +49,58 @@ Coming into force
 
 4th June 2018
 
-[^key-11aaa10e5c5589c447e9100460431016]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-11aaa10e5c5589c447e9100460431016]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement, etc.[^key-11aaa10e5c5589c447e9100460431016]
+## 1. Citation and commencement, etc.[^c-11aaa10e5c5589c447e9100460431016]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of Act of Sederunt (Fees of Witnesses and Shorthand Writers in the Sheriff Court) 1992[^key-11aaa10e5c5589c447e9100460431016]
+## 2. Amendment of Act of Sederunt (Fees of Witnesses and Shorthand Writers in the Sheriff Court) 1992[^c-11aaa10e5c5589c447e9100460431016]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Rules of the Court of Session 1994[^key-11aaa10e5c5589c447e9100460431016]
+## 3. Amendment of the Rules of the Court of Session 1994[^c-11aaa10e5c5589c447e9100460431016]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of Act of Sederunt (Fees of Messengers-at-Arms) (No. 2) 2002[^key-11aaa10e5c5589c447e9100460431016]
+## 4. Amendment of Act of Sederunt (Fees of Messengers-at-Arms) (No. 2) 2002[^c-11aaa10e5c5589c447e9100460431016]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of Act of Sederunt (Fees of Sheriff Officers) (No. 2) 2002[^key-11aaa10e5c5589c447e9100460431016]
+## 5. Amendment of Act of Sederunt (Fees of Sheriff Officers) (No. 2) 2002[^c-11aaa10e5c5589c447e9100460431016]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Saving[^key-11aaa10e5c5589c447e9100460431016]
+## 6. Saving[^c-11aaa10e5c5589c447e9100460431016]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-11aaa10e5c5589c447e9100460431016]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-11aaa10e5c5589c447e9100460431016]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1[^key-11aaa10e5c5589c447e9100460431016]
+## SCHEDULE 1[^c-11aaa10e5c5589c447e9100460431016]
 
 Paragraph 4
 
-> **TABLE OF FEES PAYABLE TO MESSENGERS-AT-ARMS[^key-11aaa10e5c5589c447e9100460431016]**
+> **TABLE OF FEES PAYABLE TO MESSENGERS-AT-ARMS[^c-11aaa10e5c5589c447e9100460431016]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2[^key-11aaa10e5c5589c447e9100460431016]
+## SCHEDULE 2[^c-11aaa10e5c5589c447e9100460431016]
 
 Paragraph 5
 
-> **TABLE OF FEES PAYABLE TO SHERIFF OFFICERS[^key-11aaa10e5c5589c447e9100460431016]**
+> **TABLE OF FEES PAYABLE TO SHERIFF OFFICERS[^c-11aaa10e5c5589c447e9100460431016]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-11aaa10e5c5589c447e9100460431016]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-11aaa10e5c5589c447e9100460431016]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-11aaa10e5c5589c447e9100460431016]: Textual amendment: [Instrument](https://www.legislation.gov.uk/ssi/2018/126) revoked (25.9.2026) by [Act of Sederunt (Fees of Messengers-at-Arms and Sheriff Officers) 2026 (S.S.I. 2026/208)](https://www.legislation.gov.uk/ssi/2026/208), [para. 1(2)](https://www.legislation.gov.uk/ssi/2026/208/paragraph/1/2), [sch. 2](https://www.legislation.gov.uk/ssi/2026/208/schedule/2) (with [paras. 5(1)](https://www.legislation.gov.uk/ssi/2026/208/paragraph/5/1), [6](https://www.legislation.gov.uk/ssi/2026/208/paragraph/6))
+[^c-11aaa10e5c5589c447e9100460431016]: Textual amendment: [Instrument](https://www.legislation.gov.uk/ssi/2018/126) revoked (25.9.2026) by [Act of Sederunt (Fees of Messengers-at-Arms and Sheriff Officers) 2026 (S.S.I. 2026/208)](https://www.legislation.gov.uk/ssi/2026/208), [para. 1(2)](https://www.legislation.gov.uk/ssi/2026/208/paragraph/1/2), [sch. 2](https://www.legislation.gov.uk/ssi/2026/208/schedule/2) (with [paras. 5(1)](https://www.legislation.gov.uk/ssi/2026/208/paragraph/5/1), [6](https://www.legislation.gov.uk/ssi/2026/208/paragraph/6))

@@ -51,7 +51,7 @@ The Department of Health [^c23932601], in exercise of the powers conferred by se
 (2) In these Regulations—
 
 - “**the Act**” means the Mental Capacity Act (Northern Ireland) 2016;
-- ”emergency” period means the period during which section 10(4) of and paragraphs 3, 4, 5, 6, 7, 8, 9 and 10 of Schedule 11 to the Coronavirus Act 2020 are in force;[^key-967548ecbf9ca60b664ce19edf3c2105]
+- ”emergency” period means the period during which section 10(4) of and paragraphs 3, 4, 5, 6, 7, 8, 9 and 10 of Schedule 11 to the Coronavirus Act 2020 are in force;[^c-967548ecbf9ca60b664ce19edf3c2105]
 - “**occupational therapist**” means a person entitled to use the title and currently registered with the Health and Care Professions Council under the Health and Social Work Professions Order 2001;
 - “**P**” means a person who is 16 or over who lacks capacity in relation to the deprivation of liberty;
 - “**panel**” means a panel constituted under Schedule 1 or 3 to the Act in accordance with section 297 of the Act;
@@ -68,7 +68,7 @@ The Department of Health [^c23932601], in exercise of the powers conferred by se
 
 ### 2. Suitably qualified person to make formal capacity assessments
 
-(1) Subject to regulation 2A, for[^key-7fcffd635e42cccb4c5093bca7cdc50e] the purposes of section 14(4) of the Act a person is a suitably qualified person to make a formal capacity assessment and provide a statement of incapacity if paragraph (2) and (3) are met.
+(1) Subject to regulation 2A, for[^c-7fcffd635e42cccb4c5093bca7cdc50e] the purposes of section 14(4) of the Act a person is a suitably qualified person to make a formal capacity assessment and provide a statement of incapacity if paragraph (2) and (3) are met.
 
 (2) The person must be one of the following—
 
@@ -87,7 +87,7 @@ The Department of Health [^c23932601], in exercise of the powers conferred by se
 - (c) have two years experience in a professional role, within the previous ten years, working with persons who lack capacity; and
 - (d) be appointed by his or her employer as a suitably qualified person to make formal capacity assessments.
 
-**2A.**[^key-cda53b49907e3c33c6c341071109ee75] (1) In an emergency period the requirements in regulation 2(3) do not need to be met.
+**2A.**[^c-cda53b49907e3c33c6c341071109ee75] (1) In an emergency period the requirements in regulation 2(3) do not need to be met.
 
 (2) If a person is acting as a suitably qualified person in reliance on this regulation, he or she must notify P and the nominated person that he or she is so acting.
 
@@ -149,14 +149,14 @@ For the purposes of section 79(4) of the Act if X has capacity to make an appoin
 
 #### 7. Persons who can make an application for Schedule 1 authorisation
 
-Subject to regulation 7A, for[^key-e3b4b416709bb46e3019f422b46a1725] the purposes of paragraph 5(1)(a) of Schedule 1 to the Act a person can make an application under Schedule 1 to the Act if he or she is—
+Subject to regulation 7A, for[^c-e3b4b416709bb46e3019f422b46a1725] the purposes of paragraph 5(1)(a) of Schedule 1 to the Act a person can make an application under Schedule 1 to the Act if he or she is—
 
 - (a) a suitably qualified person;
 - (b) involved in the care or treatment of P;
 - (c) not the person making the medical report required in paragraph 6(1)(b) of Schedule 1 to the Act; and
 - (d) unconnected with P.
 
-**7A.**[^key-6409a09444b75aa06c7096d83f851169] In an emergency period the requirements in regulation 7(b) and (c) do not need to be met.
+**7A.**[^c-6409a09444b75aa06c7096d83f851169] In an emergency period the requirements in regulation 7(b) and (c) do not need to be met.
 
 #### 8. Form of application
 
@@ -230,7 +230,7 @@ and furnish such information to those persons to facilitate the deprivation of l
 
 #### 14. Responsible Medical Practitioner, alternative medical practitioner and medical practitioner
 
-(1) Subject to regulation 14A, for[^key-b363b614f4e8da77d2bd739528e1aacc] the purposes of paragraph 1(2) of Schedule 2 to the Act a medical practitioner can only carry out the functions of the responsible medical practitioner as defined in paragraph (2) if he or she—
+(1) Subject to regulation 14A, for[^c-b363b614f4e8da77d2bd739528e1aacc] the purposes of paragraph 1(2) of Schedule 2 to the Act a medical practitioner can only carry out the functions of the responsible medical practitioner as defined in paragraph (2) if he or she—
 
 - (a) is a suitably qualified person; and
 - (b) has membership of a relevant Royal college and holds a full-time or part-time appointment at a Consultant level, Speciality Doctor level, Associate Specialist level or Post Membership Trainee level.
@@ -241,7 +241,7 @@ and furnish such information to those persons to facilitate the deprivation of l
 - (b) examination and report in accordance with paragraph 13(2) of Schedule 2 to the Act; and
 - (c) examination and report in accordance with paragraph 14(2) of Schedule 2 to the Act.
 
-**14A.**[^key-d08855dd8649c5c0eb3ccab8fad774c2] (1) In an emergency period the requirement in regulation 14(1)(b) does not need to be met.
+**14A.**[^c-d08855dd8649c5c0eb3ccab8fad774c2] (1) In an emergency period the requirement in regulation 14(1)(b) does not need to be met.
 
 (2) If a person is acting as the responsible medical practitioner in reliance on this regulation, he or she must notify P and the nominated person that he or she is so acting.
 
@@ -259,7 +259,7 @@ For the purpose of paragraph 9(2)(b) of Schedule 2 to the Act a person is a medi
 
 #### 17. Persons who can make a report
 
-(1) Subject to regulation 17A, for[^key-e6161127330abfb43ea8ae1fee324da3] the purposes of paragraph 3(1)(a) of Schedule 2 to the Act a person is an appropriate healthcare professional for the purpose of making a report under paragraph 2 of Schedule 2 to the Act if he or she is—
+(1) Subject to regulation 17A, for[^c-e6161127330abfb43ea8ae1fee324da3] the purposes of paragraph 3(1)(a) of Schedule 2 to the Act a person is an appropriate healthcare professional for the purpose of making a report under paragraph 2 of Schedule 2 to the Act if he or she is—
 
 - (a) an approved social worker; or
 - (b) a person who—
@@ -279,7 +279,7 @@ For the purpose of paragraph 9(2)(b) of Schedule 2 to the Act a person is a medi
 
 (2) A person cannot be an appropriate healthcare professional under paragraph (1) if he or she is the person who made the statement of incapacity relevant to the short-term detention authorisation.
 
-**17A.**[^key-b16de19efd9ef9426119bffe50ba018a] (1) In an emergency period the requirements in regulation 17(1)(b)(iv) and (2) do not need to be met.
+**17A.**[^c-b16de19efd9ef9426119bffe50ba018a] (1) In an emergency period the requirements in regulation 17(1)(b)(iv) and (2) do not need to be met.
 
 (2) If a person is making a report in reliance on this regulation, he or she must notify P and the nominated person that he or she is so acting.
 
@@ -403,14 +403,14 @@ If the extension report includes a statement under section 39(3) of the Act (a s
 
 #### 30. Schedule 3 application
 
-Subject to regulation 30A, for[^key-4635efbe9d01e04eca2dc7ce7941cdf9] the purposes of paragraph 3(1)(a) of Schedule 3 to the Act a person can make an application for a trust panel extension of a deprivation of liberty under Schedule 3 to the Act if he or she is—
+Subject to regulation 30A, for[^c-4635efbe9d01e04eca2dc7ce7941cdf9] the purposes of paragraph 3(1)(a) of Schedule 3 to the Act a person can make an application for a trust panel extension of a deprivation of liberty under Schedule 3 to the Act if he or she is—
 
 - (a) a suitably qualified person;
 - (b) involved in the care or treatment of P;
 - (c) not the person making the medical report required in paragraph 4(1)(c) of Schedule 3 to the Act; and
 - (d) unconnected with P.
 
-**30A.**[^key-95ad335a2ef635d036b1b0480da6a2f0] In an emergency period the requirements in regulation 30(b) and (c) do not need to be met.
+**30A.**[^c-95ad335a2ef635d036b1b0480da6a2f0] In an emergency period the requirements in regulation 30(b) and (c) do not need to be met.
 
 #### 31. Form of application
 
@@ -517,7 +517,7 @@ For the purposes of section 300(2) of the Act a medical practitioner making a re
 
 ### 41. Panel membership
 
-(1) Subject to paragraph (1A), for[^key-f24a8a5c4fb8e38b4aad81759a75a29a] the purposes of section 297(3) of the Act a panel must:
+(1) Subject to paragraph (1A), for[^c-f24a8a5c4fb8e38b4aad81759a75a29a] the purposes of section 297(3) of the Act a panel must:
 
 - (a) have three members, all of whom must be appointed by the relevant trust; and
 - (b) consist of—
@@ -525,7 +525,7 @@ For the purposes of section 300(2) of the Act a medical practitioner making a re
   - (ii) one approved social worker; and
   - (iii) one suitably qualified person.
 
-(1A)[^key-11eb93bee65a8cad873dcc805d240d52] In an emergency period the panel may consist of three suitably qualified persons.
+(1A)[^c-11eb93bee65a8cad873dcc805d240d52] In an emergency period the panel may consist of three suitably qualified persons.
 
 (2) In addition the panel members must—
 
@@ -582,7 +582,7 @@ A senior officer of the
 
 Department of Health.
 
-## SCHEDULE — Statutory Forms[^key-4cea3c918665b51d42fb52b1dca18059]
+## SCHEDULE — Statutory Forms[^c-4cea3c918665b51d42fb52b1dca18059]
 
 Regulation 37
 
@@ -636,7 +636,7 @@ Part 6 provides a transitional arrangement noting that if a person can be detain
 
 [^c23932611]: Marginal citation: [2016 c. 18 (NI)](https://www.legislation.gov.uk/nia/2016/18)
 
-[^key-967548ecbf9ca60b664ce19edf3c2105]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2019/199/regulation/1/2) inserted(temp) (2.4.2020) by [The Mental Capacity (Deprivation of Liberty) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/57)](https://www.legislation.gov.uk/nisr/2020/57), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/57/regulation/1/1), [2(a)](https://www.legislation.gov.uk/nisr/2020/57/regulation/2/a)
+[^c-967548ecbf9ca60b664ce19edf3c2105]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2019/199/regulation/1/2) inserted(temp) (2.4.2020) by [The Mental Capacity (Deprivation of Liberty) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/57)](https://www.legislation.gov.uk/nisr/2020/57), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/57/regulation/1/1), [2(a)](https://www.legislation.gov.uk/nisr/2020/57/regulation/2/a)
 
 [^c23932621]: Marginal citation: [S.I. 2002/254](https://www.legislation.gov.uk/uksi/2002/254)
 
@@ -646,32 +646,32 @@ Part 6 provides a transitional arrangement noting that if a person can be detain
 
 [^c23932651]: Marginal citation: [2001 c. 3 (NI)](https://www.legislation.gov.uk/nia/2001/3)
 
-[^key-7fcffd635e42cccb4c5093bca7cdc50e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2019/199/regulation/2/1) substituted(temp) (2.4.2020) by [The Mental Capacity (Deprivation of Liberty) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/57)](https://www.legislation.gov.uk/nisr/2020/57), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/57/regulation/1/1), [2(b)](https://www.legislation.gov.uk/nisr/2020/57/regulation/2/b)
+[^c-7fcffd635e42cccb4c5093bca7cdc50e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2019/199/regulation/2/1) substituted(temp) (2.4.2020) by [The Mental Capacity (Deprivation of Liberty) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/57)](https://www.legislation.gov.uk/nisr/2020/57), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/57/regulation/1/1), [2(b)](https://www.legislation.gov.uk/nisr/2020/57/regulation/2/b)
 
-[^key-cda53b49907e3c33c6c341071109ee75]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/nisr/2019/199/regulation/2A) inserted(temp) (2.4.2020) by [The Mental Capacity (Deprivation of Liberty) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/57)](https://www.legislation.gov.uk/nisr/2020/57), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/57/regulation/1/1), [2(c)](https://www.legislation.gov.uk/nisr/2020/57/regulation/2/c)
+[^c-cda53b49907e3c33c6c341071109ee75]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/nisr/2019/199/regulation/2A) inserted(temp) (2.4.2020) by [The Mental Capacity (Deprivation of Liberty) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/57)](https://www.legislation.gov.uk/nisr/2020/57), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/57/regulation/1/1), [2(c)](https://www.legislation.gov.uk/nisr/2020/57/regulation/2/c)
 
-[^key-e3b4b416709bb46e3019f422b46a1725]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/nisr/2019/199/regulation/7) substituted(temp) (2.4.2020) by [The Mental Capacity (Deprivation of Liberty) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/57)](https://www.legislation.gov.uk/nisr/2020/57), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/57/regulation/1/1), [2(d)](https://www.legislation.gov.uk/nisr/2020/57/regulation/2/d)
+[^c-e3b4b416709bb46e3019f422b46a1725]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/nisr/2019/199/regulation/7) substituted(temp) (2.4.2020) by [The Mental Capacity (Deprivation of Liberty) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/57)](https://www.legislation.gov.uk/nisr/2020/57), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/57/regulation/1/1), [2(d)](https://www.legislation.gov.uk/nisr/2020/57/regulation/2/d)
 
-[^key-6409a09444b75aa06c7096d83f851169]: Textual amendment: Reg. 7A inserted(temp) (2.4.2020) by [The Mental Capacity (Deprivation of Liberty) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/57)](https://www.legislation.gov.uk/nisr/2020/57), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/57/regulation/1/1), [2(e)](https://www.legislation.gov.uk/nisr/2020/57/regulation/2/e)
+[^c-6409a09444b75aa06c7096d83f851169]: Textual amendment: Reg. 7A inserted(temp) (2.4.2020) by [The Mental Capacity (Deprivation of Liberty) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/57)](https://www.legislation.gov.uk/nisr/2020/57), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/57/regulation/1/1), [2(e)](https://www.legislation.gov.uk/nisr/2020/57/regulation/2/e)
 
-[^key-b363b614f4e8da77d2bd739528e1aacc]: Textual amendment: Words in [reg. 14(1)](https://www.legislation.gov.uk/nisr/2019/199/regulation/14/1) substituted(temp) (2.4.2020) by [The Mental Capacity (Deprivation of Liberty) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/57)](https://www.legislation.gov.uk/nisr/2020/57), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/57/regulation/1/1), [2(f)](https://www.legislation.gov.uk/nisr/2020/57/regulation/2/f)
+[^c-b363b614f4e8da77d2bd739528e1aacc]: Textual amendment: Words in [reg. 14(1)](https://www.legislation.gov.uk/nisr/2019/199/regulation/14/1) substituted(temp) (2.4.2020) by [The Mental Capacity (Deprivation of Liberty) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/57)](https://www.legislation.gov.uk/nisr/2020/57), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/57/regulation/1/1), [2(f)](https://www.legislation.gov.uk/nisr/2020/57/regulation/2/f)
 
-[^key-d08855dd8649c5c0eb3ccab8fad774c2]: Textual amendment: [Reg. 14A](https://www.legislation.gov.uk/nisr/2019/199/regulation/14A) inserted(temp) (2.4.2020) by [The Mental Capacity (Deprivation of Liberty) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/57)](https://www.legislation.gov.uk/nisr/2020/57), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/57/regulation/1/1), [2(g)](https://www.legislation.gov.uk/nisr/2020/57/regulation/2/g)
+[^c-d08855dd8649c5c0eb3ccab8fad774c2]: Textual amendment: [Reg. 14A](https://www.legislation.gov.uk/nisr/2019/199/regulation/14A) inserted(temp) (2.4.2020) by [The Mental Capacity (Deprivation of Liberty) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/57)](https://www.legislation.gov.uk/nisr/2020/57), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/57/regulation/1/1), [2(g)](https://www.legislation.gov.uk/nisr/2020/57/regulation/2/g)
 
-[^key-e6161127330abfb43ea8ae1fee324da3]: Textual amendment: Words in [reg. 17(1)](https://www.legislation.gov.uk/nisr/2019/199/regulation/17/1) substituted(temp) (2.4.2020) by [The Mental Capacity (Deprivation of Liberty) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/57)](https://www.legislation.gov.uk/nisr/2020/57), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/57/regulation/1/1), [2(h)](https://www.legislation.gov.uk/nisr/2020/57/regulation/2/h)
+[^c-e6161127330abfb43ea8ae1fee324da3]: Textual amendment: Words in [reg. 17(1)](https://www.legislation.gov.uk/nisr/2019/199/regulation/17/1) substituted(temp) (2.4.2020) by [The Mental Capacity (Deprivation of Liberty) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/57)](https://www.legislation.gov.uk/nisr/2020/57), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/57/regulation/1/1), [2(h)](https://www.legislation.gov.uk/nisr/2020/57/regulation/2/h)
 
-[^key-b16de19efd9ef9426119bffe50ba018a]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/nisr/2019/199/regulation/17A) inserted(temp) (2.4.2020) by [The Mental Capacity (Deprivation of Liberty) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/57)](https://www.legislation.gov.uk/nisr/2020/57), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/57/regulation/1/1), [2(i)](https://www.legislation.gov.uk/nisr/2020/57/regulation/2/i)
+[^c-b16de19efd9ef9426119bffe50ba018a]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/nisr/2019/199/regulation/17A) inserted(temp) (2.4.2020) by [The Mental Capacity (Deprivation of Liberty) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/57)](https://www.legislation.gov.uk/nisr/2020/57), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/57/regulation/1/1), [2(i)](https://www.legislation.gov.uk/nisr/2020/57/regulation/2/i)
 
-[^key-4635efbe9d01e04eca2dc7ce7941cdf9]: Textual amendment: Words in reg. 30 substituted(temp) (2.4.2020) by [The Mental Capacity (Deprivation of Liberty) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/57)](https://www.legislation.gov.uk/nisr/2020/57), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/57/regulation/1/1), [2(j)](https://www.legislation.gov.uk/nisr/2020/57/regulation/2/j)
+[^c-4635efbe9d01e04eca2dc7ce7941cdf9]: Textual amendment: Words in reg. 30 substituted(temp) (2.4.2020) by [The Mental Capacity (Deprivation of Liberty) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/57)](https://www.legislation.gov.uk/nisr/2020/57), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/57/regulation/1/1), [2(j)](https://www.legislation.gov.uk/nisr/2020/57/regulation/2/j)
 
-[^key-95ad335a2ef635d036b1b0480da6a2f0]: Textual amendment: [Reg. 30A](https://www.legislation.gov.uk/nisr/2019/199/regulation/30A) inserted(temp) (2.4.2020) by [The Mental Capacity (Deprivation of Liberty) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/57)](https://www.legislation.gov.uk/nisr/2020/57), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/57/regulation/1/1), [2(k)](https://www.legislation.gov.uk/nisr/2020/57/regulation/2/k)
+[^c-95ad335a2ef635d036b1b0480da6a2f0]: Textual amendment: [Reg. 30A](https://www.legislation.gov.uk/nisr/2019/199/regulation/30A) inserted(temp) (2.4.2020) by [The Mental Capacity (Deprivation of Liberty) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/57)](https://www.legislation.gov.uk/nisr/2020/57), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/57/regulation/1/1), [2(k)](https://www.legislation.gov.uk/nisr/2020/57/regulation/2/k)
 
-[^key-f24a8a5c4fb8e38b4aad81759a75a29a]: Textual amendment: Words in [reg. 41(1)](https://www.legislation.gov.uk/nisr/2019/199/regulation/41/1) substituted(temp) (2.4.2020) by [The Mental Capacity (Deprivation of Liberty) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/57)](https://www.legislation.gov.uk/nisr/2020/57), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/57/regulation/1/1), [2(l)(i)](https://www.legislation.gov.uk/nisr/2020/57/regulation/2/l/i)
+[^c-f24a8a5c4fb8e38b4aad81759a75a29a]: Textual amendment: Words in [reg. 41(1)](https://www.legislation.gov.uk/nisr/2019/199/regulation/41/1) substituted(temp) (2.4.2020) by [The Mental Capacity (Deprivation of Liberty) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/57)](https://www.legislation.gov.uk/nisr/2020/57), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/57/regulation/1/1), [2(l)(i)](https://www.legislation.gov.uk/nisr/2020/57/regulation/2/l/i)
 
-[^key-11eb93bee65a8cad873dcc805d240d52]: Textual amendment: [Reg. 41(1A)](https://www.legislation.gov.uk/nisr/2019/199/regulation/41/1A) inserted(temp) (2.4.2020) by [The Mental Capacity (Deprivation of Liberty) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/57)](https://www.legislation.gov.uk/nisr/2020/57), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/57/regulation/1/1), [2(l)(ii)](https://www.legislation.gov.uk/nisr/2020/57/regulation/2/l/ii)
+[^c-11eb93bee65a8cad873dcc805d240d52]: Textual amendment: [Reg. 41(1A)](https://www.legislation.gov.uk/nisr/2019/199/regulation/41/1A) inserted(temp) (2.4.2020) by [The Mental Capacity (Deprivation of Liberty) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/57)](https://www.legislation.gov.uk/nisr/2020/57), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/57/regulation/1/1), [2(l)(ii)](https://www.legislation.gov.uk/nisr/2020/57/regulation/2/l/ii)
 
 [^c23932661]: Marginal citation: [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163) (C. 5)
 
 [^c23932671]: Marginal citation: [1986 No. 595](https://www.legislation.gov.uk/ukcm/1986/595) (NI 4)
 
-[^key-4cea3c918665b51d42fb52b1dca18059]: Textual amendment: [Sch. Form 6](https://www.legislation.gov.uk/nisr/2019/199/schedule/form/6) Form substituted (8.1.2020) by [The Mental Capacity (Deprivation of Liberty) (No. 2) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/232)](https://www.legislation.gov.uk/nisr/2019/232), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/232/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2019/232/regulation/2), [Sch.](https://www.legislation.gov.uk/nisr/2019/232/schedule)
+[^c-4cea3c918665b51d42fb52b1dca18059]: Textual amendment: [Sch. Form 6](https://www.legislation.gov.uk/nisr/2019/199/schedule/form/6) Form substituted (8.1.2020) by [The Mental Capacity (Deprivation of Liberty) (No. 2) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/232)](https://www.legislation.gov.uk/nisr/2019/232), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/232/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2019/232/regulation/2), [Sch.](https://www.legislation.gov.uk/nisr/2019/232/schedule)

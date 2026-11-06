@@ -29,10 +29,10 @@ summary: ''
 - “**the claimant**” has the meaning given in section 101(4);
 - “**cottar**” has the meaning given in section 12(5) of the [^c950138]Crofters (Scotland) Act 1993;
 - “**crofter**” has the meaning given in section 3(3) of that Act;
-- “[^key-a55c477c6fe3349a301644c4cb785b12]**cross-country pipe-line**” has the meaning given by section 66 of the Pipe-lines Act 1962 (c. 58);
+- “[^c-a55c477c6fe3349a301644c4cb785b12]**cross-country pipe-line**” has the meaning given by section 66 of the Pipe-lines Act 1962 (c. 58);
 - “**gas transporter**” has the same meaning as in Part 1 of the Gas Act 1986 (see section 7(1) of that Act);
 - “**hereditament**” means the aggregate of the lands and heritages (not being agricultural lands and heritages within the meaning of section 7 of the [^c950139]Valuation and Rating (Scotland) Act 1956) which form the subject of a single entry in the valuation roll for the time being in force for a valuation area;
-- “[^key-be9afe2dc6a97941ef2276a25519a5a6]**national policy statement**” has the meaning given by section 5(2) of the Planning Act 2008;
+- “[^c-be9afe2dc6a97941ef2276a25519a5a6]**national policy statement**” has the meaning given by section 5(2) of the Planning Act 2008;
 - “**special enactment**” means a local enactment, or a provision contained in an Act other than a local or private Act, which is a local enactment or provision authorising the compulsory acquisition of land specifically identified in it; and in this definition “**local enactment**” means a local or private Act, or an order confirmed by Parliament or brought into operation in accordance with special parliamentary procedure.
 
 (2) Where any land is on the boundary between two or more valuation areas, and accordingly—
@@ -52,8 +52,8 @@ the whole of that land shall be treated, for the purposes of the definition of �
 
 [^c950138]: Marginal citation: [1993 c. 44](https://www.legislation.gov.uk/ukpga/1993/44).
 
-[^key-a55c477c6fe3349a301644c4cb785b12]: Textual amendment: Words in s. 122 inserted (6.4.2009 for specified purposes, 1.3.2010 in so far as not already in force) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [ss. 176(9)(a)](https://www.legislation.gov.uk/ukpga/2008/29/section/176/9/a), [241(8)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/8) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 4(a)](https://www.legislation.gov.uk/uksi/2009/400/article/4/a), S.I. 2010/101, art. 5 (with art. 6)
+[^c-a55c477c6fe3349a301644c4cb785b12]: Textual amendment: Words in s. 122 inserted (6.4.2009 for specified purposes, 1.3.2010 in so far as not already in force) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [ss. 176(9)(a)](https://www.legislation.gov.uk/ukpga/2008/29/section/176/9/a), [241(8)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/8) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 4(a)](https://www.legislation.gov.uk/uksi/2009/400/article/4/a), S.I. 2010/101, art. 5 (with art. 6)
 
 [^c950139]: Marginal citation: [1956 c. 60](https://www.legislation.gov.uk/ukpga/1956/60).
 
-[^key-be9afe2dc6a97941ef2276a25519a5a6]: Textual amendment: Words in s. 122 inserted (6.4.2009 for specified purposes,1.3.2010 in so far as not already in force) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [ss. 176(9)(b)](https://www.legislation.gov.uk/ukpga/2008/29/section/176/9/b), [241(8)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/8) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 4(a)](https://www.legislation.gov.uk/uksi/2009/400/article/4/a), S.I. 2010/101, art. 5 (with art. 6)
+[^c-be9afe2dc6a97941ef2276a25519a5a6]: Textual amendment: Words in s. 122 inserted (6.4.2009 for specified purposes,1.3.2010 in so far as not already in force) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [ss. 176(9)(b)](https://www.legislation.gov.uk/ukpga/2008/29/section/176/9/b), [241(8)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/8) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 4(a)](https://www.legislation.gov.uk/uksi/2009/400/article/4/a), S.I. 2010/101, art. 5 (with art. 6)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Further provision about support under section 8[^key-c9a910ef3caa7623075b2ea002d7304e]
+## 9. Further provision about support under section 8[^c-c9a910ef3caa7623075b2ea002d7304e]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c9a910ef3caa7623075b2ea002d7304e]: Commencement: [S. 9](https://www.legislation.gov.uk/asc/2023/4/section/9) in force at 17.10.2023, see [s. 56(2)(b)](https://www.legislation.gov.uk/asc/2023/4/section/56/2/b)
+[^c-c9a910ef3caa7623075b2ea002d7304e]: Commencement: [S. 9](https://www.legislation.gov.uk/asc/2023/4/section/9) in force at 17.10.2023, see [s. 56(2)(b)](https://www.legislation.gov.uk/asc/2023/4/section/56/2/b)

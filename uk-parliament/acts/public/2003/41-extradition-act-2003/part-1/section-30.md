@@ -37,7 +37,7 @@ summary: ''
 - (c) at the end of the permitted period, which is 28 days starting with the day on which leave to appeal to the Supreme Court against the decision of the High Court on the appeal is granted , if no appeal to the[^c2086773] Supreme Court is brought before the end of that period;
 - (d) when there is no further step that can be taken by the authority which issued the Part 1 warrant in relation to the appeal (ignoring any power of a court to grant leave to take a step out of time).
 
-(5)[^key-5ffeb287bd82373ed43d66443c35091f] The preceding provisions of this section do not apply to Scotland.
+(5)[^c-5ffeb287bd82373ed43d66443c35091f] The preceding provisions of this section do not apply to Scotland.
 
 ## Annotations
 
@@ -51,4 +51,4 @@ summary: ''
 
 [^c2086773]: Textual amendment: Words in s. 30(4)(c) inserted (15.1.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [ss. 42](https://www.legislation.gov.uk/ukpga/2006/48/section/42), [53](https://www.legislation.gov.uk/ukpga/2006/48/section/53), [Sch. 13 para. 8(2)(b)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/13/paragraph/8/2/b); [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(d)(e)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/d/e)
 
-[^key-5ffeb287bd82373ed43d66443c35091f]: Textual amendment: S. 30(5) substituted (29.7.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 20 para. 17(1)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/17/1) (with [Sch. 20 para. 29](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/29)); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/1682/article/2/1/b) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2013/1682/article/4/1))
+[^c-5ffeb287bd82373ed43d66443c35091f]: Textual amendment: S. 30(5) substituted (29.7.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 20 para. 17(1)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/17/1) (with [Sch. 20 para. 29](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/29)); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/1682/article/2/1/b) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2013/1682/article/4/1))

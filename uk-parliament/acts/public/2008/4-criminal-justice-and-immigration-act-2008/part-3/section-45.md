@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Determination of prosecution appeals: Northern Ireland[^key-9b5cfdd208144c124cfea32c4c12f809]
+## 45. Determination of prosecution appeals: Northern Ireland[^c-9b5cfdd208144c124cfea32c4c12f809]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ In Article 20 of the Criminal Justice (Northern Ireland) Order 2004 (S.I. 2004/1
 
 ## Annotations
 
-[^key-9b5cfdd208144c124cfea32c4c12f809]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2008/4/section/45) in force at 14.7.2008 by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 24](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/24)
+[^c-9b5cfdd208144c124cfea32c4c12f809]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2008/4/section/45) in force at 14.7.2008 by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 24](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/24)

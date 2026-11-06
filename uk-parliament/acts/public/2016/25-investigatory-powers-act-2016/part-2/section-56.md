@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Exclusion of matters from legal proceedings etc.[^key-6c80fbd6a6c5a20d83fe137fdf46837a]
+## 56. Exclusion of matters from legal proceedings etc.[^c-6c80fbd6a6c5a20d83fe137fdf46837a]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,7 +42,7 @@ This is subject to Schedule 3 (exceptions).
 - (a) any person who is an intercepting authority (see section 18);
 - (b) any person holding office under the Crown;
 - (c) any person deemed to be the proper officer of Revenue and Customs by virtue of section 8(2) of the Customs and Excise Management Act 1979;
-- (d) any person employed by, or for the purposes of, a police force or the tri-service serious crime unit[^key-83174a343ea9ede84c3ff661e02bf0bd];
+- (d) any person employed by, or for the purposes of, a police force or the tri-service serious crime unit[^c-83174a343ea9ede84c3ff661e02bf0bd];
 - (e) any postal operator or telecommunications operator;
 - (f) any person employed or engaged for the purposes of the business of a postal operator or telecommunications operator.
 
@@ -67,6 +67,6 @@ This is subject to Schedule 3 (exceptions).
 
 ## Annotations
 
-[^key-6c80fbd6a6c5a20d83fe137fdf46837a]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2016/25/section/56) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 8(s)](https://www.legislation.gov.uk/uksi/2018/652/regulation/8/s) (with [reg. 17](https://www.legislation.gov.uk/uksi/2018/652/regulation/17))
+[^c-6c80fbd6a6c5a20d83fe137fdf46837a]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2016/25/section/56) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 8(s)](https://www.legislation.gov.uk/uksi/2018/652/regulation/8/s) (with [reg. 17](https://www.legislation.gov.uk/uksi/2018/652/regulation/17))
 
-[^key-83174a343ea9ede84c3ff661e02bf0bd]: Textual amendment: Words in [s. 56(3)(d)](https://www.legislation.gov.uk/ukpga/2016/25/section/56/3/d) inserted (1.5.2022 for specified purposes, 5.12.2022 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 5 para. 44](https://www.legislation.gov.uk/ukpga/2021/35/schedule/5/paragraph/44); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/e); [S.I. 2022/1095](https://www.legislation.gov.uk/uksi/2022/1095), [reg. 4](https://www.legislation.gov.uk/uksi/2022/1095/regulation/4)
+[^c-83174a343ea9ede84c3ff661e02bf0bd]: Textual amendment: Words in [s. 56(3)(d)](https://www.legislation.gov.uk/ukpga/2016/25/section/56/3/d) inserted (1.5.2022 for specified purposes, 5.12.2022 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 5 para. 44](https://www.legislation.gov.uk/ukpga/2021/35/schedule/5/paragraph/44); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/e); [S.I. 2022/1095](https://www.legislation.gov.uk/uksi/2022/1095), [reg. 4](https://www.legislation.gov.uk/uksi/2022/1095/regulation/4)

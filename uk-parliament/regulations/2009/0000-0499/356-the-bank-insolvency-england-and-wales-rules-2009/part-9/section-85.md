@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 85. Authentication of bank liquidator’s appointment[^key-174a199ca2983a4325645ab874de4d09]
+## 85. Authentication of bank liquidator’s appointment[^c-174a199ca2983a4325645ab874de4d09]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Apply rule 4.105 of the 1986 Rules[^f00034]). Leave out from “or (as” to “
 
 ## Annotations
 
-[^key-174a199ca2983a4325645ab874de4d09]: Commencement: Rule 85 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-174a199ca2983a4325645ab874de4d09]: Commencement: Rule 85 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
 
 [^f00034]: Footnote: Rule 4.105 was amended by [S.I. 2003/1730](https://www.legislation.gov.uk/uksi/2003/1730).

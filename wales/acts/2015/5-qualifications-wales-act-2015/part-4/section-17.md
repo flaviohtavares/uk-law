@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Approval of a restricted priority qualification in the absence of section 15 arrangements[^key-3a29d6ba40093b8c0e6ba2b8e2d004d5]
+## 17. Approval of a restricted priority qualification in the absence of section 15 arrangements[^c-3a29d6ba40093b8c0e6ba2b8e2d004d5]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3a29d6ba40093b8c0e6ba2b8e2d004d5]: Commencement: [S. 17](https://www.legislation.gov.uk/anaw/2015/5/section/17) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-3a29d6ba40093b8c0e6ba2b8e2d004d5]: Commencement: [S. 17](https://www.legislation.gov.uk/anaw/2015/5/section/17) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))

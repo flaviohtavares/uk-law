@@ -35,7 +35,7 @@ SEA FISH INDUSTRY
 
 FISH FARMING
 
-The Fish Producers' Organisations (Formation Grants) Regulations 1999 (revoked)[^key-813872e08def7d1d45f207cdceb45b15]
+The Fish Producers' Organisations (Formation Grants) Regulations 1999 (revoked)[^c-813872e08def7d1d45f207cdceb45b15]
 
 Made
 
@@ -49,50 +49,50 @@ Coming into force
 
 4th May 1999
 
-[^key-813872e08def7d1d45f207cdceb45b15]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-813872e08def7d1d45f207cdceb45b15]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-813872e08def7d1d45f207cdceb45b15]
+## 1. Title and commencement[^c-813872e08def7d1d45f207cdceb45b15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-813872e08def7d1d45f207cdceb45b15]
+## 2. Interpretation[^c-813872e08def7d1d45f207cdceb45b15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Payment of grant[^key-813872e08def7d1d45f207cdceb45b15]
+## 3. Payment of grant[^c-813872e08def7d1d45f207cdceb45b15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Application for grant[^key-813872e08def7d1d45f207cdceb45b15]
+## 4. Application for grant[^c-813872e08def7d1d45f207cdceb45b15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Conditions of grant[^key-813872e08def7d1d45f207cdceb45b15]
+## 5. Conditions of grant[^c-813872e08def7d1d45f207cdceb45b15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Recovery of grant[^key-813872e08def7d1d45f207cdceb45b15]
+## 6. Recovery of grant[^c-813872e08def7d1d45f207cdceb45b15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Offences and penalties[^key-813872e08def7d1d45f207cdceb45b15]
+## 7. Offences and penalties[^c-813872e08def7d1d45f207cdceb45b15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Prosecutions[^key-813872e08def7d1d45f207cdceb45b15]
+## 8. Prosecutions[^c-813872e08def7d1d45f207cdceb45b15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Revocations and transitional saving[^key-813872e08def7d1d45f207cdceb45b15]
+## 9. Revocations and transitional saving[^c-813872e08def7d1d45f207cdceb45b15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-813872e08def7d1d45f207cdceb45b15]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-813872e08def7d1d45f207cdceb45b15]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-813872e08def7d1d45f207cdceb45b15]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-813872e08def7d1d45f207cdceb45b15]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-813872e08def7d1d45f207cdceb45b15]: Textual amendment: Regulations revoked (29.3.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2019/526/schedule)
+[^c-813872e08def7d1d45f207cdceb45b15]: Textual amendment: Regulations revoked (29.3.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2019/526/schedule)

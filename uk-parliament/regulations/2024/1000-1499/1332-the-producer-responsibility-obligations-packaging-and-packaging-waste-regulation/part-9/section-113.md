@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113. Powers of entry etc: Northern Ireland[^key-9627fd58fb61a5899865410f883deb06]
+## 113. Powers of entry etc: Northern Ireland[^c-9627fd58fb61a5899865410f883deb06]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9627fd58fb61a5899865410f883deb06]: Commencement: Reg. 113 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-9627fd58fb61a5899865410f883deb06]: Commencement: Reg. 113 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
 
 [^f00069]: Footnote: [S.I. 1997/2778 (N.I. 19)](https://www.legislation.gov.uk/nisi/1997/2778). Section 72 has been amended by section 11(2) of, and Schedule 2 to, the Waste and Contaminated Land (Amendment) Act (Northern Ireland) [2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5) and by [S.I. 2007/611 (N.I. 3)](https://www.legislation.gov.uk/nisi/2007/611), There are other amendments to section 72 which are not relevant.

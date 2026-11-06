@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 81. Sending by post[^key-b949ae97c503c031a0ff5e28672e92fe]
+## 81. Sending by post[^c-b949ae97c503c031a0ff5e28672e92fe]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b949ae97c503c031a0ff5e28672e92fe]: Commencement: Rule 81 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-b949ae97c503c031a0ff5e28672e92fe]: Commencement: Rule 81 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)

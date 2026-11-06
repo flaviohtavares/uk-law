@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 142. Information to be included in notices under sections 140 and 141[^key-ed41b93384f8c75ce068c4ce19dec0e0][^key-fd858e70827834f3bdc19c84f295e9d4]
+## 142. Information to be included in notices under sections 140 and 141[^c-ed41b93384f8c75ce068c4ce19dec0e0][^c-fd858e70827834f3bdc19c84f295e9d4]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,6 +60,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ed41b93384f8c75ce068c4ce19dec0e0]: Commencement: S. 142 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-ed41b93384f8c75ce068c4ce19dec0e0]: Commencement: S. 142 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-fd858e70827834f3bdc19c84f295e9d4]: Commencement: [S. 142](https://www.legislation.gov.uk/ukpga/2023/50/section/142) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z17)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z17)
+[^c-fd858e70827834f3bdc19c84f295e9d4]: Commencement: [S. 142](https://www.legislation.gov.uk/ukpga/2023/50/section/142) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z17)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z17)

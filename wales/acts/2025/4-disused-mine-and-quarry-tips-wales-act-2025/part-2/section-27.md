@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Reviews of categorisation[^key-c904d7b24daff44e07e4cd6c2eebe429]
+## 27. Reviews of categorisation[^c-c904d7b24daff44e07e4cd6c2eebe429]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ the Authority must review the tip’s category as soon as practicable.
 
 ## Annotations
 
-[^key-c904d7b24daff44e07e4cd6c2eebe429]: Commencement: S. 27 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)
+[^c-c904d7b24daff44e07e4cd6c2eebe429]: Commencement: S. 27 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)

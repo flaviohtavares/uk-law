@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16A. Waiting days[^key-a1cdbb1a2067e2a63dae1e0520eace59]
+## 16A. Waiting days[^c-a1cdbb1a2067e2a63dae1e0520eace59]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a1cdbb1a2067e2a63dae1e0520eace59]: Textual amendment: Reg. 16A omitted (14.2.2018) by virtue of [The Universal Credit (Miscellaneous Amendments, Saving and Transitional Provision) Regulations 2018 (S.I. 2018/65)](https://www.legislation.gov.uk/uksi/2018/65), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/65/regulation/1/2), [6(11)](https://www.legislation.gov.uk/uksi/2018/65/regulation/6/11)
+[^c-a1cdbb1a2067e2a63dae1e0520eace59]: Textual amendment: Reg. 16A omitted (14.2.2018) by virtue of [The Universal Credit (Miscellaneous Amendments, Saving and Transitional Provision) Regulations 2018 (S.I. 2018/65)](https://www.legislation.gov.uk/uksi/2018/65), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/65/regulation/1/2), [6(11)](https://www.legislation.gov.uk/uksi/2018/65/regulation/6/11)

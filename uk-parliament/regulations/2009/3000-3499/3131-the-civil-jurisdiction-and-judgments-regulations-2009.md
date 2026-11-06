@@ -50,7 +50,7 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 
 The Secretary of State makes these Regulations under the powers conferred by section 2(2) of the European Communities Act 1972.
 
-## 1. Citation, commencement and extent[^key-a1d7c420480669247cbdd0094f5bb3d9]
+## 1. Citation, commencement and extent[^c-a1d7c420480669247cbdd0094f5bb3d9]
 
 (1) These Regulations may be cited as the Civil Jurisdiction and Judgments Regulations 2009, and come into force on 1st January 2010.
 
@@ -62,11 +62,11 @@ The Secretary of State makes these Regulations under the powers conferred by sec
 
 (5) Regulations 27 and 45 extend to Scotland only.
 
-## 2. Amendments to the Civil Jurisdiction and Judgments Act 1982[^key-b8e84d258e5ae07ac39680d083cf0b19]
+## 2. Amendments to the Civil Jurisdiction and Judgments Act 1982[^c-b8e84d258e5ae07ac39680d083cf0b19]
 
 The Civil Jurisdiction and Judgments Act 1982[^f00004] is amended in accordance with regulations 3 to 25.
 
-**3.**[^key-3a8bfc3349d7c5b8feedc06e525e3992] (1) Section 1 is amended as follows.
+**3.**[^c-3a8bfc3349d7c5b8feedc06e525e3992] (1) Section 1 is amended as follows.
 
 (2) In subsection (1) substitute for the definition of “the Lugano Convention”—
 
@@ -83,9 +83,9 @@ The Civil Jurisdiction and Judgments Act 1982[^f00004] is amended in accordance 
 
 (5) In subsection (4)(a) for “Article 54B” substitute “Article 64”.
 
-**4.**[^key-4ce2399c1259069ad469bd058bcc4620] Sections 3A and 3B are repealed.
+**4.**[^c-4ce2399c1259069ad469bd058bcc4620] Sections 3A and 3B are repealed.
 
-**5.**[^key-ce64611a336446257e28f0bddcc45900] (1) In section 4(1) omit “or of the Lugano Convention”.
+**5.**[^c-ce64611a336446257e28f0bddcc45900] (1) In section 4(1) omit “or of the Lugano Convention”.
 
 (2) After section 4 insert—
 
@@ -99,7 +99,7 @@ The Civil Jurisdiction and Judgments Act 1982[^f00004] is amended in accordance 
 
 .
 
-**6.**[^key-e63ad3b57a12579df5ad051a0ea80622] (1) In section 5(1) omit “or of the Lugano Convention”.
+**6.**[^c-e63ad3b57a12579df5ad051a0ea80622] (1) In section 5(1) omit “or of the Lugano Convention”.
 
 (2) After section 5 insert—
 
@@ -135,7 +135,7 @@ The Civil Jurisdiction and Judgments Act 1982[^f00004] is amended in accordance 
 
 .
 
-**7.**[^key-6b96194d2bcbaa9b21b285156d04c24e] (1) In section 6(1) omit “and the Lugano Convention”.
+**7.**[^c-6b96194d2bcbaa9b21b285156d04c24e] (1) In section 6(1) omit “and the Lugano Convention”.
 
 (2) In section 6(3) for “each of those Conventions” substitute “the 1968 Convention”.
 
@@ -158,17 +158,17 @@ The Civil Jurisdiction and Judgments Act 1982[^f00004] is amended in accordance 
 
 .
 
-**8.**[^key-624fa3f80388a970ff32ae7672abaca3] In section 7(1) and (5), for “4 or 5” substitute “4, 4A, 5 or 5A”.
+**8.**[^c-624fa3f80388a970ff32ae7672abaca3] In section 7(1) and (5), for “4 or 5” substitute “4, 4A, 5 or 5A”.
 
-**9.**[^key-a7e0ebbd864cc28be766e3231b821cb2] In section 8(1) after “section 5” insert “or 5A”.
+**9.**[^c-a7e0ebbd864cc28be766e3231b821cb2] In section 8(1) after “section 5” insert “or 5A”.
 
-**10.**[^key-21f5bbdf23dde2ca9633a633431093ec] (1) In section 9(1) for “Article 54B” substitute “Article 64”.
+**10.**[^c-21f5bbdf23dde2ca9633a633431093ec] (1) In section 9(1) for “Article 54B” substitute “Article 64”.
 
 (2) Omit section 9(2).
 
-**11.**[^key-582a7e41db32e596df924f9d23819539] In section 10(3) after “Article 14” insert “of the 1968 Convention or Article 16(1) of the Lugano Convention”.
+**11.**[^c-582a7e41db32e596df924f9d23819539] In section 10(3) after “Article 14” insert “of the 1968 Convention or Article 16(1) of the Lugano Convention”.
 
-**12.**[^key-435359d13231395bb1f2da77ab7a5925] (1) In section 11(1) omit “and the Lugano Convention”.
+**12.**[^c-435359d13231395bb1f2da77ab7a5925] (1) In section 11(1) omit “and the Lugano Convention”.
 
 (2) After section 11 insert—
 
@@ -188,17 +188,17 @@ The Civil Jurisdiction and Judgments Act 1982[^f00004] is amended in accordance 
 
 .
 
-**13.**[^key-b86015eb6aea7aa7e93e65a48623848d] In section 13(1) omit “or the Lugano Convention” and “or, as the case may be, Title IV of the Lugano Convention”.
+**13.**[^c-b86015eb6aea7aa7e93e65a48623848d] In section 13(1) omit “or the Lugano Convention” and “or, as the case may be, Title IV of the Lugano Convention”.
 
-**14.**[^key-a15102e99f58f3bbacb72b612621563a] In section 14 (1) and (3) omit “the Lugano Convention or”.
+**14.**[^c-a15102e99f58f3bbacb72b612621563a] In section 14 (1) and (3) omit “the Lugano Convention or”.
 
-**15.**[^key-39503cfbdf215a128022d933a035e73b] (1) In section 15(1) after “Article 25” insert “of the 1968 Convention or, as the case may be, Article 32 of the Lugano Convention”.
+**15.**[^c-39503cfbdf215a128022d933a035e73b] (1) In section 15(1) after “Article 25” insert “of the 1968 Convention or, as the case may be, Article 32 of the Lugano Convention”.
 
 (2) In section 15(2) for the words “section 4 or 5” substitute “sections 4, 4A, 5 or 5A”.
 
-**16.**[^key-fe206ae275c4ff33b276666e28e015f0] In section 24(1)(c) and (2)(c) after “the Regulation” insert “or the Lugano Convention”.
+**16.**[^c-fe206ae275c4ff33b276666e28e015f0] In section 24(1)(c) and (2)(c) after “the Regulation” insert “or the Lugano Convention”.
 
-**17.**[^key-aaa23ede641dd7213f187037550917bc] (1) Section 25 is amended as follows.
+**17.**[^c-aaa23ede641dd7213f187037550917bc] (1) Section 25 is amended as follows.
 
 (2) In subsections (1)(a) and (3)(a) for “or Lugano Contracting State” substitute “Contracting State or a State bound by the Lugano Convention”.
 
@@ -214,7 +214,7 @@ The Civil Jurisdiction and Judgments Act 1982[^f00004] is amended in accordance 
 
 .
 
-**18.**[^key-4fcd5072e371813f03cc1de8deb96f3a] (1) In section 41(1) omit “the Lugano Convention”.
+**18.**[^c-4fcd5072e371813f03cc1de8deb96f3a] (1) In section 41(1) omit “the Lugano Convention”.
 
 (2) After section 41 insert—
 
@@ -253,9 +253,9 @@ The Civil Jurisdiction and Judgments Act 1982[^f00004] is amended in accordance 
 
 .
 
-**19.**[^key-15eb359fc222a9f4891a4fd1feca3b7a] In section 42(2)(a) omit “or, as the case may be, the Lugano Convention”.
+**19.**[^c-15eb359fc222a9f4891a4fd1feca3b7a] In section 42(2)(a) omit “or, as the case may be, the Lugano Convention”.
 
-**20.**[^key-0198931231d3e2da9df4e44b629230c9] (1) In section 43(1)(a) omit “or of the Lugano Convention”.
+**20.**[^c-0198931231d3e2da9df4e44b629230c9] (1) In section 43(1)(a) omit “or of the Lugano Convention”.
 
 (2) After section 43 insert—
 
@@ -280,7 +280,7 @@ The Civil Jurisdiction and Judgments Act 1982[^f00004] is amended in accordance 
 
 .
 
-**21.**[^key-2a8d096877312294896a69526f69802c] (1) Section 44 is amended as follows.
+**21.**[^c-2a8d096877312294896a69526f69802c] (1) Section 44 is amended as follows.
 
 (2) In subsection (1)—
 
@@ -289,7 +289,7 @@ The Civil Jurisdiction and Judgments Act 1982[^f00004] is amended in accordance 
 
 (3) In subsection (2) omit “or, as the case may be, of the Lugano Convention”.
 
-**22.**[^key-588ec16313a30dd01d68d2ebc2a5dd89] After section 44 insert—
+**22.**[^c-588ec16313a30dd01d68d2ebc2a5dd89] After section 44 insert—
 
 > **44A. Persons deemed to be domiciled in the United Kingdom for certain purposes of the Lugano Convention**
 >
@@ -309,13 +309,13 @@ The Civil Jurisdiction and Judgments Act 1982[^f00004] is amended in accordance 
 
 .
 
-**23.**[^key-f639839b0bf3431eae87ea205fa46097] (1) Section 46 is amended as follows.
+**23.**[^c-f639839b0bf3431eae87ea205fa46097] (1) Section 46 is amended as follows.
 
 (2) In subsection (2)(a) for “and the Lugano Convention in each of which” substitute “in which”.
 
 (3) In subsection (4) omit “the Lugano Convention”.
 
-**24.**[^key-dfe2a3c7d40ada6cf07b68144460a19d] In section 50—
+**24.**[^c-dfe2a3c7d40ada6cf07b68144460a19d] In section 50—
 
 - (a) omit the definition of “ Lugano Contracting State”; and
 - (b) after the definition of rules of court insert—
@@ -324,33 +324,33 @@ The Civil Jurisdiction and Judgments Act 1982[^f00004] is amended in accordance 
 
   .
 
-**25.**[^key-62f474fe39d4ba5533c81d2b358a8b01] Omit Schedule 3C.
+**25.**[^c-62f474fe39d4ba5533c81d2b358a8b01] Omit Schedule 3C.
 
-## 26. Amendment to the Civil Jurisdiction and Judgments Act 1982 (Interim Relief) Order 1997[^key-bc0563464b0a376b1433417cbe22aaf0]
+## 26. Amendment to the Civil Jurisdiction and Judgments Act 1982 (Interim Relief) Order 1997[^c-bc0563464b0a376b1433417cbe22aaf0]
 
 *Extent: E+W+N.I.*
 
 In Article 2(a) of the Civil Jurisdiction and Judgments Act 1982 (Interim Relief) Order 1997[^f00006] for “or Lugano Contracting State or” substitute “Contracting State, a State bound by the Lugano Convention or a”.
 
-## 27. Amendment to the Civil Jurisdiction and Judgments Act 1982 (Provisional and Protective Measures) (Scotland) Order 1997[^key-c874e41dc3e69ad99a025807dd7c4b0e]
+## 27. Amendment to the Civil Jurisdiction and Judgments Act 1982 (Provisional and Protective Measures) (Scotland) Order 1997[^c-c874e41dc3e69ad99a025807dd7c4b0e]
 
 *Extent: S*
 
 In article 2(a) (interpretation) and article 3 (Court of Session power) of the Civil Jurisdiction and Judgments Act 1982 (Provisional and Protective Measures) (Scotland) Order 1997[^f00007], for “Lugano Contracting State” substitute “State bound by the Lugano Convention”.
 
-## 28. Amendments to the Civil Procedure Rules 1998[^key-75b7c132c0842a85184b7a709adffb89]
+## 28. Amendments to the Civil Procedure Rules 1998[^c-75b7c132c0842a85184b7a709adffb89]
 
 *Extent: E+W*
 
 The Civil Procedure Rules 1998 [^f00008] are amended in accordance with regulations 29 to 44.
 
-**29.**[^key-82b3d02275c8ca318e3a841d23849886] In rule 6.31 after the definition of “domicile” insert—
+**29.**[^c-82b3d02275c8ca318e3a841d23849886] In rule 6.31 after the definition of “domicile” insert—
 
 > - (j) “the Lugano Convention” means the Convention on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters, between the European Community and the Republic of Iceland, the Kingdom of Norway, the Swiss Confederation and the Kingdom of Denmark and signed by the European Community on 30<sup>th</sup> October 2007.
 
 .
 
-**30.**[^key-a2846848fd679ebb6b7b8c19bed35df2] In rule 6.33 for subsection (1) substitute—
+**30.**[^c-a2846848fd679ebb6b7b8c19bed35df2] In rule 6.33 for subsection (1) substitute—
 
 > (1) The claimant may serve the claim form on the defendant out of the United Kingdom where each claim against the defendant to be served and included in the claim form is a claim which the court has power to determine under the 1982 Act or the Lugano Convention and—
 >
@@ -362,27 +362,27 @@ The Civil Procedure Rules 1998 [^f00008] are amended in accordance with regulati
 
 .
 
-**31.**[^key-94f747756efe6db7abe741f84eacf47e] In rule 6.33(3) after “the 1982 Act or” insert “the Lugano Convention or”.
+**31.**[^c-94f747756efe6db7abe741f84eacf47e] In rule 6.33(3) after “the 1982 Act or” insert “the Lugano Convention or”.
 
-**32.**[^key-5e4760f5c655f673c8f972df7a444a00] In rule 12.11(4)(a) after “Judgments Act 1982 or” insert “the Lugano Convention or”.
+**32.**[^c-5e4760f5c655f673c8f972df7a444a00] In rule 12.11(4)(a) after “Judgments Act 1982 or” insert “the Lugano Convention or”.
 
-**33.**[^key-19c7e1c06edb2833fc393b7213d28255] In rule 12.11(6) after the definition of “the Judgments Regulation” insert—
-
-> - (f) “the Lugano Convention” means the Convention on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters, between the European Community and the Republic of Iceland, the Kingdom of Norway, the Swiss Confederation and the Kingdom of Denmark and signed by the European Community on 30<sup>th</sup> October 2007.
-
-.
-
-**34.**[^key-48194d7d5a7a8b339da929341a9caa58] In rule 25.13(2)(a)(ii) for “Lugano Contracting State” substitute “State bound by the Lugano Convention”.
-
-**35.**[^key-5e7c8f5bb487a18fad7c9b7c36c3c753] In rule 74.1(5) after the definition of “the EEO Regulation” insert—
+**33.**[^c-19c7e1c06edb2833fc393b7213d28255] In rule 12.11(6) after the definition of “the Judgments Regulation” insert—
 
 > - (f) “the Lugano Convention” means the Convention on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters, between the European Community and the Republic of Iceland, the Kingdom of Norway, the Swiss Confederation and the Kingdom of Denmark and signed by the European Community on 30<sup>th</sup> October 2007.
 
 .
 
-**36.**[^key-4419de17672555e7b5de3a4b9d59a407] In rule 74.2(2)(a) after “the 1982 Act” insert “or the Lugano Convention”.
+**34.**[^c-48194d7d5a7a8b339da929341a9caa58] In rule 25.13(2)(a)(ii) for “Lugano Contracting State” substitute “State bound by the Lugano Convention”.
 
-**37.**[^key-1c35afa42562b95bd1d5a023794f80df] In rule 74.3(1)(d) after “the Judgments Regulation” insert—
+**35.**[^c-5e7c8f5bb487a18fad7c9b7c36c3c753] In rule 74.1(5) after the definition of “the EEO Regulation” insert—
+
+> - (f) “the Lugano Convention” means the Convention on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters, between the European Community and the Republic of Iceland, the Kingdom of Norway, the Swiss Confederation and the Kingdom of Denmark and signed by the European Community on 30<sup>th</sup> October 2007.
+
+.
+
+**36.**[^c-4419de17672555e7b5de3a4b9d59a407] In rule 74.2(2)(a) after “the 1982 Act” insert “or the Lugano Convention”.
+
+**37.**[^c-1c35afa42562b95bd1d5a023794f80df] In rule 74.3(1)(d) after “the Judgments Regulation” insert—
 
 > ; and
 >
@@ -390,19 +390,19 @@ The Civil Procedure Rules 1998 [^f00008] are amended in accordance with regulati
 
 .
 
-**38.**[^key-6c31f01573cfebee095e188688be515b] For rule 74.4(6) substitute—
+**38.**[^c-6c31f01573cfebee095e188688be515b] For rule 74.4(6) substitute—
 
 > (6) An application for registration under the Judgments Regulation or the Lugano Convention must, in addition to the evidence required by that Regulation or that Convention, be supported by the evidence required by paragraphs (1)(b) and (2)(e) of this rule.
 
 .
 
-**39.**[^key-ebd287f79e7e35407d79433edaa1c3ba] In rule 74.5(2) after “the 1982 Act or” insert “,the Lugano Convention,”.
+**39.**[^c-ebd287f79e7e35407d79433edaa1c3ba] In rule 74.5(2) after “the 1982 Act or” insert “,the Lugano Convention,”.
 
-**40.**[^key-1198d20f0dd9ebacd44e25ab98c151f3] In rule 74.6(3)(c)(ii) for “ or under” substitute “,the Lugano Convention, or ”.
+**40.**[^c-1198d20f0dd9ebacd44e25ab98c151f3] In rule 74.6(3)(c)(ii) for “ or under” substitute “,the Lugano Convention, or ”.
 
-**41.**[^key-4842c466a528a99b74f8b973c1b62001] In rule 74.8(1) after “under the 1982 Act or the” insert “Lugano Convention or the”.
+**41.**[^c-4842c466a528a99b74f8b973c1b62001] In rule 74.8(1) after “under the 1982 Act or the” insert “Lugano Convention or the”.
 
-**42.**[^key-8588e06a2e42a17ddc3c53ed06eb9608] For paragraphs (1) and (2) of rule 74.10 substitute—
+**42.**[^c-8588e06a2e42a17ddc3c53ed06eb9608] For paragraphs (1) and (2) of rule 74.10 substitute—
 
 > (1) Registration of a judgment serves as a decision that the judgment is recognised for the purposes of the 1982 Act, the Lugano Convention and the Judgments Regulation.
 >
@@ -410,7 +410,7 @@ The Civil Procedure Rules 1998 [^f00008] are amended in accordance with regulati
 
 .
 
-**43.**[^key-ae855a93837b81613af1a29f0007c714] For rule 74.11 substitute—
+**43.**[^c-ae855a93837b81613af1a29f0007c714] For rule 74.11 substitute—
 
 > **74.11.** The rules governing the registration of judgments under the 1982 Act, the Lugano Convention or the Judgments Regulation apply as appropriate and with any necessary modifications for the enforcement of—
 >
@@ -425,9 +425,9 @@ The Civil Procedure Rules 1998 [^f00008] are amended in accordance with regulati
 
 .
 
-**44.**[^key-87f5a1df32340cfff9cd0ded292ed28e] In rule 74.12(1)(d) after “the Judgments Regulation” insert “or under article 54 of the Lugano Convention”.
+**44.**[^c-87f5a1df32340cfff9cd0ded292ed28e] In rule 74.12(1)(d) after “the Judgments Regulation” insert “or under article 54 of the Lugano Convention”.
 
-## 45. Amendment to the Employment Tribunals (Enforcement of Orders in Other Jurisdictions)(Scotland) Regulations 2002[^key-da12a5079901bd22664b426a58e9a88f]
+## 45. Amendment to the Employment Tribunals (Enforcement of Orders in Other Jurisdictions)(Scotland) Regulations 2002[^c-da12a5079901bd22664b426a58e9a88f]
 
 *Extent: S*
 
@@ -440,13 +440,13 @@ In the Employment Tribunals (Enforcement of Orders in Other Jurisdictions)(Scotl
   ; and
 - (b) omit Schedule 1.
 
-## 46. Provisions relating to Authentic Instruments and Court Settlements[^key-e0f9987163155da960a3447276561488]
+## 46. Provisions relating to Authentic Instruments and Court Settlements[^c-e0f9987163155da960a3447276561488]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**47.**[^key-3835c5e6da72f15756d9856a6364924f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**47.**[^c-3835c5e6da72f15756d9856a6364924f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 48. Savings provision[^key-ec0907e92f05fb169c36d88803bf5e16]
+## 48. Savings provision[^c-ec0907e92f05fb169c36d88803bf5e16]
 
 (1) Notwithstanding the amendments made by these Regulations, the relevant instruments continue to have effect as if the amendments had not been made, for the purposes of proceedings, judgments and authentic instruments to which the 1988 Convention continues to apply pursuant to article 63 of the 2007 Lugano Convention (transitional provision).
 
@@ -488,110 +488,110 @@ These Regulations shall come into force on 1st January 2010.
 
 [^f00003]: Footnote: The European Communities (Designation)(No. 2) Order 2008 ([S.I. 2008/1792](https://www.legislation.gov.uk/uksi/2008/1792)).
 
-[^key-a1d7c420480669247cbdd0094f5bb3d9]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
+[^c-a1d7c420480669247cbdd0094f5bb3d9]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
 
-[^key-b8e84d258e5ae07ac39680d083cf0b19]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2009/3131/regulation/2) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
+[^c-b8e84d258e5ae07ac39680d083cf0b19]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2009/3131/regulation/2) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
 
 [^f00004]: Footnote: [1982 c.27](https://www.legislation.gov.uk/ukpga/1982/27). There are relevant amendments in [S.I. 1989/1346](https://www.legislation.gov.uk/uksi/1989/1346), [S.I. 1990/2591](https://www.legislation.gov.uk/uksi/1990/2591), [S.I. 2000/1824](https://www.legislation.gov.uk/uksi/2000/1824), [S.I. 2001/3929](https://www.legislation.gov.uk/uksi/2001/3929) and [S.I. 2007/1655](https://www.legislation.gov.uk/uksi/2007/1655), and in the Civil Jurisdiction and Judgments Act 1991.
 
-[^key-3a8bfc3349d7c5b8feedc06e525e3992]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2009/3131/regulation/3) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
+[^c-3a8bfc3349d7c5b8feedc06e525e3992]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2009/3131/regulation/3) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
 
 [^f00005]: Footnote: OJ No. L339, 21.12.2007 at p.3.
 
-[^key-4ce2399c1259069ad469bd058bcc4620]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2009/3131/regulation/4) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
+[^c-4ce2399c1259069ad469bd058bcc4620]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2009/3131/regulation/4) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
 
-[^key-ce64611a336446257e28f0bddcc45900]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2009/3131/regulation/5) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
+[^c-ce64611a336446257e28f0bddcc45900]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2009/3131/regulation/5) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
 
-[^key-e63ad3b57a12579df5ad051a0ea80622]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2009/3131/regulation/6) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
+[^c-e63ad3b57a12579df5ad051a0ea80622]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2009/3131/regulation/6) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
 
-[^key-6b96194d2bcbaa9b21b285156d04c24e]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2009/3131/regulation/7) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
+[^c-6b96194d2bcbaa9b21b285156d04c24e]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2009/3131/regulation/7) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
 
-[^key-624fa3f80388a970ff32ae7672abaca3]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2009/3131/regulation/8) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
+[^c-624fa3f80388a970ff32ae7672abaca3]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2009/3131/regulation/8) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
 
-[^key-a7e0ebbd864cc28be766e3231b821cb2]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2009/3131/regulation/9) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
+[^c-a7e0ebbd864cc28be766e3231b821cb2]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2009/3131/regulation/9) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
 
-[^key-21f5bbdf23dde2ca9633a633431093ec]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2009/3131/regulation/10) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
+[^c-21f5bbdf23dde2ca9633a633431093ec]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2009/3131/regulation/10) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
 
-[^key-582a7e41db32e596df924f9d23819539]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2009/3131/regulation/11) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
+[^c-582a7e41db32e596df924f9d23819539]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2009/3131/regulation/11) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
 
-[^key-435359d13231395bb1f2da77ab7a5925]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2009/3131/regulation/12) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
+[^c-435359d13231395bb1f2da77ab7a5925]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2009/3131/regulation/12) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
 
-[^key-b86015eb6aea7aa7e93e65a48623848d]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2009/3131/regulation/13) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
+[^c-b86015eb6aea7aa7e93e65a48623848d]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2009/3131/regulation/13) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
 
-[^key-a15102e99f58f3bbacb72b612621563a]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2009/3131/regulation/14) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
+[^c-a15102e99f58f3bbacb72b612621563a]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2009/3131/regulation/14) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
 
-[^key-39503cfbdf215a128022d933a035e73b]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2009/3131/regulation/15) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
+[^c-39503cfbdf215a128022d933a035e73b]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2009/3131/regulation/15) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
 
-[^key-fe206ae275c4ff33b276666e28e015f0]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2009/3131/regulation/16) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
+[^c-fe206ae275c4ff33b276666e28e015f0]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2009/3131/regulation/16) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
 
-[^key-aaa23ede641dd7213f187037550917bc]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2009/3131/regulation/17) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
+[^c-aaa23ede641dd7213f187037550917bc]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2009/3131/regulation/17) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
 
-[^key-4fcd5072e371813f03cc1de8deb96f3a]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2009/3131/regulation/18) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
+[^c-4fcd5072e371813f03cc1de8deb96f3a]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2009/3131/regulation/18) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
 
-[^key-15eb359fc222a9f4891a4fd1feca3b7a]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2009/3131/regulation/19) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
+[^c-15eb359fc222a9f4891a4fd1feca3b7a]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2009/3131/regulation/19) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
 
-[^key-0198931231d3e2da9df4e44b629230c9]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2009/3131/regulation/20) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
+[^c-0198931231d3e2da9df4e44b629230c9]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2009/3131/regulation/20) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
 
-[^key-2a8d096877312294896a69526f69802c]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2009/3131/regulation/21) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
+[^c-2a8d096877312294896a69526f69802c]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2009/3131/regulation/21) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
 
-[^key-588ec16313a30dd01d68d2ebc2a5dd89]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2009/3131/regulation/22) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
+[^c-588ec16313a30dd01d68d2ebc2a5dd89]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2009/3131/regulation/22) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
 
-[^key-f639839b0bf3431eae87ea205fa46097]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2009/3131/regulation/23) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
+[^c-f639839b0bf3431eae87ea205fa46097]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2009/3131/regulation/23) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
 
-[^key-dfe2a3c7d40ada6cf07b68144460a19d]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2009/3131/regulation/24) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
+[^c-dfe2a3c7d40ada6cf07b68144460a19d]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2009/3131/regulation/24) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
 
-[^key-62f474fe39d4ba5533c81d2b358a8b01]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2009/3131/regulation/25) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
+[^c-62f474fe39d4ba5533c81d2b358a8b01]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2009/3131/regulation/25) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
 
-[^key-bc0563464b0a376b1433417cbe22aaf0]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2009/3131/regulation/26) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
+[^c-bc0563464b0a376b1433417cbe22aaf0]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2009/3131/regulation/26) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
 
 [^f00006]: Footnote: [S.I. 1997/302](https://www.legislation.gov.uk/uksi/1997/302).
 
-[^key-c874e41dc3e69ad99a025807dd7c4b0e]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2009/3131/regulation/27) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
+[^c-c874e41dc3e69ad99a025807dd7c4b0e]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2009/3131/regulation/27) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
 
 [^f00007]: Footnote: [S.I. 1997/2780](https://www.legislation.gov.uk/uksi/1997/2780).
 
-[^key-75b7c132c0842a85184b7a709adffb89]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2009/3131/regulation/28) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
+[^c-75b7c132c0842a85184b7a709adffb89]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2009/3131/regulation/28) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
 
 [^f00008]: Footnote: [S.I. 1998/3132](https://www.legislation.gov.uk/uksi/1998/3132).
 
-[^key-82b3d02275c8ca318e3a841d23849886]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2009/3131/regulation/29) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
+[^c-82b3d02275c8ca318e3a841d23849886]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2009/3131/regulation/29) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
 
-[^key-a2846848fd679ebb6b7b8c19bed35df2]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2009/3131/regulation/30) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
+[^c-a2846848fd679ebb6b7b8c19bed35df2]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2009/3131/regulation/30) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
 
-[^key-94f747756efe6db7abe741f84eacf47e]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2009/3131/regulation/31) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
+[^c-94f747756efe6db7abe741f84eacf47e]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2009/3131/regulation/31) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
 
-[^key-5e4760f5c655f673c8f972df7a444a00]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2009/3131/regulation/32) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
+[^c-5e4760f5c655f673c8f972df7a444a00]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2009/3131/regulation/32) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
 
-[^key-19c7e1c06edb2833fc393b7213d28255]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2009/3131/regulation/33) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
+[^c-19c7e1c06edb2833fc393b7213d28255]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2009/3131/regulation/33) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
 
-[^key-48194d7d5a7a8b339da929341a9caa58]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2009/3131/regulation/34) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
+[^c-48194d7d5a7a8b339da929341a9caa58]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2009/3131/regulation/34) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
 
-[^key-5e7c8f5bb487a18fad7c9b7c36c3c753]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/2009/3131/regulation/35) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
+[^c-5e7c8f5bb487a18fad7c9b7c36c3c753]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/2009/3131/regulation/35) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
 
-[^key-4419de17672555e7b5de3a4b9d59a407]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/2009/3131/regulation/36) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
+[^c-4419de17672555e7b5de3a4b9d59a407]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/2009/3131/regulation/36) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
 
-[^key-1c35afa42562b95bd1d5a023794f80df]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2009/3131/regulation/37) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
+[^c-1c35afa42562b95bd1d5a023794f80df]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2009/3131/regulation/37) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
 
-[^key-6c31f01573cfebee095e188688be515b]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2009/3131/regulation/38) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
+[^c-6c31f01573cfebee095e188688be515b]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2009/3131/regulation/38) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
 
-[^key-ebd287f79e7e35407d79433edaa1c3ba]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/2009/3131/regulation/39) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
+[^c-ebd287f79e7e35407d79433edaa1c3ba]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/2009/3131/regulation/39) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
 
-[^key-1198d20f0dd9ebacd44e25ab98c151f3]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/2009/3131/regulation/40) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
+[^c-1198d20f0dd9ebacd44e25ab98c151f3]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/2009/3131/regulation/40) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
 
-[^key-4842c466a528a99b74f8b973c1b62001]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/2009/3131/regulation/41) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
+[^c-4842c466a528a99b74f8b973c1b62001]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/2009/3131/regulation/41) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
 
-[^key-8588e06a2e42a17ddc3c53ed06eb9608]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/2009/3131/regulation/42) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
+[^c-8588e06a2e42a17ddc3c53ed06eb9608]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/2009/3131/regulation/42) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
 
-[^key-ae855a93837b81613af1a29f0007c714]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/2009/3131/regulation/43) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
+[^c-ae855a93837b81613af1a29f0007c714]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/2009/3131/regulation/43) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
 
-[^key-87f5a1df32340cfff9cd0ded292ed28e]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/2009/3131/regulation/44) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
+[^c-87f5a1df32340cfff9cd0ded292ed28e]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/2009/3131/regulation/44) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
 
-[^key-da12a5079901bd22664b426a58e9a88f]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/2009/3131/regulation/45) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
+[^c-da12a5079901bd22664b426a58e9a88f]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/2009/3131/regulation/45) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
 
 [^f00009]: Footnote: [S.S.I. 2002/2972](https://www.legislation.gov.uk/ssi/2002/2972) to which there is an amendment not relevant to these Regulations.
 
-[^key-e0f9987163155da960a3447276561488]: Textual amendment: [Reg. 46](https://www.legislation.gov.uk/uksi/2009/3131/regulation/46) omitted (31.12.2020) by virtue of [The Civil Jurisdiction and Judgments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/479)](https://www.legislation.gov.uk/uksi/2019/479), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/479/regulation/1/1), [79(2)](https://www.legislation.gov.uk/uksi/2019/479/regulation/79/2) (with [regs. 92-95](https://www.legislation.gov.uk/uksi/2019/479/regulation/92)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [5(2)-(5)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e0f9987163155da960a3447276561488]: Textual amendment: [Reg. 46](https://www.legislation.gov.uk/uksi/2009/3131/regulation/46) omitted (31.12.2020) by virtue of [The Civil Jurisdiction and Judgments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/479)](https://www.legislation.gov.uk/uksi/2019/479), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/479/regulation/1/1), [79(2)](https://www.legislation.gov.uk/uksi/2019/479/regulation/79/2) (with [regs. 92-95](https://www.legislation.gov.uk/uksi/2019/479/regulation/92)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [5(2)-(5)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3835c5e6da72f15756d9856a6364924f]: Textual amendment: [Reg. 47](https://www.legislation.gov.uk/uksi/2009/3131/regulation/47) omitted (31.12.2020) by virtue of [The Civil Jurisdiction and Judgments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/479)](https://www.legislation.gov.uk/uksi/2019/479), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/479/regulation/1/1), [79(2)](https://www.legislation.gov.uk/uksi/2019/479/regulation/79/2) (with [regs. 92-95](https://www.legislation.gov.uk/uksi/2019/479/regulation/92)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [5(2)-(5)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3835c5e6da72f15756d9856a6364924f]: Textual amendment: [Reg. 47](https://www.legislation.gov.uk/uksi/2009/3131/regulation/47) omitted (31.12.2020) by virtue of [The Civil Jurisdiction and Judgments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/479)](https://www.legislation.gov.uk/uksi/2019/479), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/479/regulation/1/1), [79(2)](https://www.legislation.gov.uk/uksi/2019/479/regulation/79/2) (with [regs. 92-95](https://www.legislation.gov.uk/uksi/2019/479/regulation/92)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [5(2)-(5)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ec0907e92f05fb169c36d88803bf5e16]: Commencement: [Reg. 48](https://www.legislation.gov.uk/uksi/2009/3131/regulation/48) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)
+[^c-ec0907e92f05fb169c36d88803bf5e16]: Commencement: [Reg. 48](https://www.legislation.gov.uk/uksi/2009/3131/regulation/48) in force at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3131/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80AA. Safe States for the purposes of section 80A[^key-2f247174422b8a65da1dfe8a61236128][^M_F_d1c15b53-b407-4c31-e629-bde039925299]
+## 80AA. Safe States for the purposes of section 80A[^c-2f247174422b8a65da1dfe8a61236128][^M_F_d1c15b53-b407-4c31-e629-bde039925299]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,12 +33,12 @@ summary: ''
 - (i) Estonia,
 - (j) Finland,
 - (k) France,
-- (ka)[^key-48cd44eb9235a715263727d140cd847a] Georgia,
+- (ka)[^c-48cd44eb9235a715263727d140cd847a] Georgia,
 - (l) Germany,
 - (m) Greece,
 - (n) Hungary,
 - (o) Iceland,
-- (oa)[^key-b1e0bb0cc975a6fb6362bb476ae95495] India,
+- (oa)[^c-b1e0bb0cc975a6fb6362bb476ae95495] India,
 - (p) Republic of Ireland,
 - (q) Italy,
 - (r) Latvia,
@@ -85,10 +85,10 @@ may not be made unless a draft of the instrument has been laid before and approv
 
 ## Annotations
 
-[^key-2f247174422b8a65da1dfe8a61236128]: Textual amendment: [S. 80AA](https://www.legislation.gov.uk/ukpga/2002/41/section/80AA) inserted (28.9.2023 for specified purposes) by [Illegal Migration Act 2023 (c. 37)](https://www.legislation.gov.uk/ukpga/2023/37), [ss. 59(3)](https://www.legislation.gov.uk/ukpga/2023/37/section/59/3), [68(1)](https://www.legislation.gov.uk/ukpga/2023/37/section/68/1) (with [s. 55(9)](https://www.legislation.gov.uk/ukpga/2023/37/section/55/9)); [S.I. 2023/989](https://www.legislation.gov.uk/uksi/2023/989), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2023/989/regulation/2/c)
+[^c-2f247174422b8a65da1dfe8a61236128]: Textual amendment: [S. 80AA](https://www.legislation.gov.uk/ukpga/2002/41/section/80AA) inserted (28.9.2023 for specified purposes) by [Illegal Migration Act 2023 (c. 37)](https://www.legislation.gov.uk/ukpga/2023/37), [ss. 59(3)](https://www.legislation.gov.uk/ukpga/2023/37/section/59/3), [68(1)](https://www.legislation.gov.uk/ukpga/2023/37/section/68/1) (with [s. 55(9)](https://www.legislation.gov.uk/ukpga/2023/37/section/55/9)); [S.I. 2023/989](https://www.legislation.gov.uk/uksi/2023/989), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2023/989/regulation/2/c)
 
 [^M_F_d1c15b53-b407-4c31-e629-bde039925299]: Textual amendment: Pt. 4A inserted (28.6.2022) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 15(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/15/1), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [reg. 2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/14) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/4/3))
 
-[^key-48cd44eb9235a715263727d140cd847a]: Textual amendment: [S. 80AA(1)(ka)](https://www.legislation.gov.uk/ukpga/2002/41/section/80AA/1/ka) inserted (17.4.2024) by [The Nationality, Immigration and Asylum Act 2002 (Amendment of List of Safe States) Regulations 2024 (S.I. 2024/523)](https://www.legislation.gov.uk/uksi/2024/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/523/regulation/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2024/523/regulation/2/a)
+[^c-48cd44eb9235a715263727d140cd847a]: Textual amendment: [S. 80AA(1)(ka)](https://www.legislation.gov.uk/ukpga/2002/41/section/80AA/1/ka) inserted (17.4.2024) by [The Nationality, Immigration and Asylum Act 2002 (Amendment of List of Safe States) Regulations 2024 (S.I. 2024/523)](https://www.legislation.gov.uk/uksi/2024/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/523/regulation/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2024/523/regulation/2/a)
 
-[^key-b1e0bb0cc975a6fb6362bb476ae95495]: Textual amendment: [S. 80AA(1)(oa)](https://www.legislation.gov.uk/ukpga/2002/41/section/80AA/1/oa) inserted (17.4.2024) by [The Nationality, Immigration and Asylum Act 2002 (Amendment of List of Safe States) Regulations 2024 (S.I. 2024/523)](https://www.legislation.gov.uk/uksi/2024/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/523/regulation/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2024/523/regulation/2/b)
+[^c-b1e0bb0cc975a6fb6362bb476ae95495]: Textual amendment: [S. 80AA(1)(oa)](https://www.legislation.gov.uk/ukpga/2002/41/section/80AA/1/oa) inserted (17.4.2024) by [The Nationality, Immigration and Asylum Act 2002 (Amendment of List of Safe States) Regulations 2024 (S.I. 2024/523)](https://www.legislation.gov.uk/uksi/2024/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/523/regulation/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2024/523/regulation/2/b)

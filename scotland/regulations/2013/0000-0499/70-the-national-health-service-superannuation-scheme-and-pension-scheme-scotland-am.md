@@ -32,7 +32,7 @@ summary: ''
 
 National Health Service
 
-The National Health Service (Superannuation Scheme and Pension Scheme) (Scotland) Amendment Regulations 2013 (revoked)[^key-ff8cab2d44468cf889f26de259db49e3]
+The National Health Service (Superannuation Scheme and Pension Scheme) (Scotland) Amendment Regulations 2013 (revoked)[^c-ff8cab2d44468cf889f26de259db49e3]
 
 Made
 
@@ -46,38 +46,38 @@ Coming into force
 
 1st April 2013
 
-[^key-ff8cab2d44468cf889f26de259db49e3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ff8cab2d44468cf889f26de259db49e3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-ff8cab2d44468cf889f26de259db49e3]
+## 1. Citation and commencement[^c-ff8cab2d44468cf889f26de259db49e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the National Health Service Superannuation Scheme (Scotland) Regulations 2011[^key-ff8cab2d44468cf889f26de259db49e3]
+## 2. Amendment of the National Health Service Superannuation Scheme (Scotland) Regulations 2011[^c-ff8cab2d44468cf889f26de259db49e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-ff8cab2d44468cf889f26de259db49e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-ff8cab2d44468cf889f26de259db49e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-ff8cab2d44468cf889f26de259db49e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-ff8cab2d44468cf889f26de259db49e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of the National Health Service Pension Scheme (Scotland) Regulations 2008[^key-ff8cab2d44468cf889f26de259db49e3]
+## 5. Amendment of the National Health Service Pension Scheme (Scotland) Regulations 2008[^c-ff8cab2d44468cf889f26de259db49e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-ff8cab2d44468cf889f26de259db49e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-ff8cab2d44468cf889f26de259db49e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-ff8cab2d44468cf889f26de259db49e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-ff8cab2d44468cf889f26de259db49e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-ff8cab2d44468cf889f26de259db49e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-ff8cab2d44468cf889f26de259db49e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ff8cab2d44468cf889f26de259db49e3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ff8cab2d44468cf889f26de259db49e3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ff8cab2d44468cf889f26de259db49e3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ff8cab2d44468cf889f26de259db49e3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ff8cab2d44468cf889f26de259db49e3]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2013/70) revoked (1.7.2013) by [The National Health Service Superannuation Scheme (2008 Section) (Scotland) Regulations 2013 (S.S.I. 2013/174)](https://www.legislation.gov.uk/ssi/2013/174), [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2013/174/part/1/chapter/1.A/regulation/1n1), [sch.](https://www.legislation.gov.uk/ssi/2013/174/schedule) (with [reg. 5.B.1(2)](https://www.legislation.gov.uk/ssi/2013/174/part/5/chapter/5.B/regulation/5))
+[^c-ff8cab2d44468cf889f26de259db49e3]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2013/70) revoked (1.7.2013) by [The National Health Service Superannuation Scheme (2008 Section) (Scotland) Regulations 2013 (S.S.I. 2013/174)](https://www.legislation.gov.uk/ssi/2013/174), [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2013/174/part/1/chapter/1.A/regulation/1n1), [sch.](https://www.legislation.gov.uk/ssi/2013/174/schedule) (with [reg. 5.B.1(2)](https://www.legislation.gov.uk/ssi/2013/174/part/5/chapter/5.B/regulation/5))

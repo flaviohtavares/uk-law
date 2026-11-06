@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-01.
 
-## SCHEDULE 2B — Community treatment and care services[^key-2b7629beeee661ce7a793c92f32c0596]
+## SCHEDULE 2B — Community treatment and care services[^c-2b7629beeee661ce7a793c92f32c0596]
 
 Regulation 18A(1)
 
@@ -44,4 +44,4 @@ whichever date is earlier.
 
 ## Annotations
 
-[^key-2b7629beeee661ce7a793c92f32c0596]: Textual amendment: [Sch. 2B](https://www.legislation.gov.uk/ssi/2018/66/schedule/2B) inserted (14.3.2026) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/37)](https://www.legislation.gov.uk/ssi/2026/37), [regs. 1](https://www.legislation.gov.uk/ssi/2026/37/regulation/1), [5](https://www.legislation.gov.uk/ssi/2026/37/regulation/5)
+[^c-2b7629beeee661ce7a793c92f32c0596]: Textual amendment: [Sch. 2B](https://www.legislation.gov.uk/ssi/2018/66/schedule/2B) inserted (14.3.2026) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/37)](https://www.legislation.gov.uk/ssi/2026/37), [regs. 1](https://www.legislation.gov.uk/ssi/2026/37/regulation/1), [5](https://www.legislation.gov.uk/ssi/2026/37/regulation/5)

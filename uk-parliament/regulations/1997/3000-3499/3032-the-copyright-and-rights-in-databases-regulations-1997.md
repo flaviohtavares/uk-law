@@ -46,7 +46,7 @@ Now, therefore, the Secretary of State, being a Minister designated for the purp
 
 ## PART I — INTRODUCTORY PROVISIONS
 
-### 1. Citation, commencement and extent[^key-a5d03d89b828f0ca49d85ed451b4a293]
+### 1. Citation, commencement and extent[^c-a5d03d89b828f0ca49d85ed451b4a293]
 
 (1) These Regulations may be cited as the Copyright and Rights in Databases Regulations 1997.
 
@@ -54,21 +54,21 @@ Now, therefore, the Secretary of State, being a Minister designated for the purp
 
 (3) These Regulations extend to the whole of the United Kingdom.
 
-### 2. Implementation of Directive[^key-248037a0c39600c12724ac0013b1dda2]
+### 2. Implementation of Directive[^c-248037a0c39600c12724ac0013b1dda2]
 
 (1) These Regulations make provision for the purpose of implementing—
 
-- (a) Council Directive No. [96/9/EC](https://www.legislation.gov.uk/european/directive/1996/0009) of 11 March 1996[^f00004] on the legal protection of databases, [^key-18281a0b431f02c907617d039d16092f]...
-- (b) certain obligations of the United Kingdom created by or arising under the EEA Agreement so far as relating to the implementation of that Directive , and[^key-89a347b74085488abace1f9af9387664]
-- (c)[^key-cb7bf4c73fe73e552b0b3ce93b6b9ed6] an Agreement[^f00005] in the form of an exchange of letters between the United Kingdom of Great Britain and Northern Ireland on behalf of the Isle of Man and the European Community extending to the Isle of Man the legal protection of databases as provided for in Chapter III of that Directive.
+- (a) Council Directive No. [96/9/EC](https://www.legislation.gov.uk/european/directive/1996/0009) of 11 March 1996[^f00004] on the legal protection of databases, [^c-18281a0b431f02c907617d039d16092f]...
+- (b) certain obligations of the United Kingdom created by or arising under the EEA Agreement so far as relating to the implementation of that Directive , and[^c-89a347b74085488abace1f9af9387664]
+- (c)[^c-cb7bf4c73fe73e552b0b3ce93b6b9ed6] an Agreement[^f00005] in the form of an exchange of letters between the United Kingdom of Great Britain and Northern Ireland on behalf of the Isle of Man and the European Community extending to the Isle of Man the legal protection of databases as provided for in Chapter III of that Directive.
 
 (2) In this Regulation “the EEA Agreement” means the Agreement on the European Economic Area signed at Oporto on 2nd May 1992[^f00005], as adjusted by the Protocol signed at Brussels on 17th March 1993[^f00006].
 
-### 3. Interpretation[^key-0ccd0e81eb0b158a1d6c389105e0466e]
+### 3. Interpretation[^c-0ccd0e81eb0b158a1d6c389105e0466e]
 
 In these Regulations “the 1988 Act” means the Copyright, Designs and Patents Act 1988[^f00007].
 
-### 4. Scheme of the Regulations[^key-13846299fea2c1eacd5616612f031ed8]
+### 4. Scheme of the Regulations[^c-13846299fea2c1eacd5616612f031ed8]
 
 (1) The 1988 Act is amended in accordance with the provisions of Part II of these Regulations, subject to the savings and transitional provisions in Part IV of these Regulations.
 
@@ -76,7 +76,7 @@ In these Regulations “the 1988 Act” means the Copyright, Designs and Patents
 
 ## PART II — AMENDMENT OF THE COPYRIGHT, DESIGNS AND PATENTS ACT 1988
 
-### 5. Copyright in databases[^key-1eac8bfcf6e496747cd4e2b4dbfadf0e]
+### 5. Copyright in databases[^c-1eac8bfcf6e496747cd4e2b4dbfadf0e]
 
 In section 3(1), in the definition of “literary work”—
 
@@ -84,7 +84,7 @@ In section 3(1), in the definition of “literary work”—
 - (b) at the end of paragraph (b) leave out “and”;
 - (c) at the end of paragraph (c) insert “and (d) a database;”.
 
-### 6. Meaning of “database”[^key-bdd6ad868592620c98e68ec359236be3]
+### 6. Meaning of “database”[^c-bdd6ad868592620c98e68ec359236be3]
 
 After section 3 insert—
 
@@ -99,7 +99,7 @@ After section 3 insert—
 
 .
 
-### 7. Meaning of “adaptation” in relation to database[^key-5ee9247a7aa3caa974af91c6ef916e32]
+### 7. Meaning of “adaptation” in relation to database[^c-5ee9247a7aa3caa974af91c6ef916e32]
 
 In section 21 (infringement by making adaptation or act done in relation to adaptation), in subsection (3)—
 
@@ -110,7 +110,7 @@ In section 21 (infringement by making adaptation or act done in relation to adap
 
   .
 
-### 8. Research[^key-e627e7d4eae892a8e88b43991a3cf9ea]
+### 8. Research[^c-e627e7d4eae892a8e88b43991a3cf9ea]
 
 (1) In section 29 (research and private study), in subsection (1), after “literary” insert “work, other than a database, or a”.
 
@@ -126,7 +126,7 @@ In section 21 (infringement by making adaptation or act done in relation to adap
 
 .
 
-### 9. Permitted acts in relation to databases[^key-f9c69cdbcfe110b19b44860e190c1afb]
+### 9. Permitted acts in relation to databases[^c-f9c69cdbcfe110b19b44860e190c1afb]
 
 After section 50C insert—
 
@@ -140,7 +140,7 @@ After section 50C insert—
 
 .
 
-### 10. Avoidance of certain terms[^key-cc02393f56bfbf474e042871efb83388]
+### 10. Avoidance of certain terms[^c-cc02393f56bfbf474e042871efb83388]
 
 After section 296A insert—
 
@@ -152,7 +152,7 @@ After section 296A insert—
 
 .
 
-### 11. Defined expressions[^key-c9da25fc96d0d47c8bd070a8b05d3632]
+### 11. Defined expressions[^c-c9da25fc96d0d47c8bd070a8b05d3632]
 
 In section 179 (index of defined expressions), in the appropriate place in alphabetical order insert—
 
@@ -168,7 +168,7 @@ In section 179 (index of defined expressions), in the appropriate place in alpha
 
 ## PART III — DATABASE RIGHT
 
-### 12. Interpretation[^key-ff7c4474fb8335b6554e1ac6b26adbee]
+### 12. Interpretation[^c-ff7c4474fb8335b6554e1ac6b26adbee]
 
 (1) In this Part—
 
@@ -179,8 +179,8 @@ In section 179 (index of defined expressions), in the appropriate place in alpha
 - “jointly”, in relation to the making of a database, shall be construed in accordance with Regulation 14(6);
 - “lawful user”, in relation to a database, means any person who (whether under a licence to do any of the acts restricted by any database right in the database or otherwise) has a right to use the database;
 - “maker”, in relation to a database, shall be construed in accordance with Regulation 14;
-- “[^key-ab34ce1d8a2b983cc9ca6325304e16ac]**Marrakesh beneficiary**” has the meaning given by section 296ZE(1) of the 1988 Act;
-- “[^key-ea031841431194b275dc724b0b39b9a5]**national of the United Kingdom**” has the meaning given by section 178 of the 1988 Act;
+- “[^c-ab34ce1d8a2b983cc9ca6325304e16ac]**Marrakesh beneficiary**” has the meaning given by section 296ZE(1) of the 1988 Act;
+- “[^c-ea031841431194b275dc724b0b39b9a5]**national of the United Kingdom**” has the meaning given by section 178 of the 1988 Act;
 - “re-utilisation”, in relation to any contents of a database, means making those contents available to the public by any means;
 - “substantial”, in relation to any investment, extraction or re-utilisation, means substantial in terms of quantity or quality or a combination of both.
 
@@ -190,9 +190,9 @@ In section 179 (index of defined expressions), in the appropriate place in alpha
 
 (4) Paragraph (2) does not apply to the making of a copy of a database available for on-the-spot reference use.
 
-(5) Where a copy of a database has been sold within the EEA , the United Kingdom[^key-1f2af636d61b2d72044e7d1650215e0a] or the Isle of Man[^key-96662f90df490cf8fd828acca90595c3] by, or with the consent of, the owner of the database right in the database, the further sale within the EEA , the United Kingdom or the Isle of Man of that copy shall not be taken for the purposes of this Part to constitute extraction or re-utilisation of the contents of the database.
+(5) Where a copy of a database has been sold within the EEA , the United Kingdom[^c-1f2af636d61b2d72044e7d1650215e0a] or the Isle of Man[^c-96662f90df490cf8fd828acca90595c3] by, or with the consent of, the owner of the database right in the database, the further sale within the EEA , the United Kingdom or the Isle of Man of that copy shall not be taken for the purposes of this Part to constitute extraction or re-utilisation of the contents of the database.
 
-### 13. Database right[^key-15a67a3542a027e67ea167034eea10fb]
+### 13. Database right[^c-15a67a3542a027e67ea167034eea10fb]
 
 (1) A property right (“database right”) subsists, in accordance with this Part, in a database if there has been a substantial investment in obtaining, verifying or presenting the contents of the database.
 
@@ -200,7 +200,7 @@ In section 179 (index of defined expressions), in the appropriate place in alpha
 
 (3) This Regulation has effect subject to Regulation 18.
 
-### 14. The maker of a database[^key-b17f79d658797379df9f7aaed1c0d577]
+### 14. The maker of a database[^c-b17f79d658797379df9f7aaed1c0d577]
 
 (1) Subject to paragraphs (2) to (4), the person who takes the initiative in obtaining, verifying or presenting the contents of a database and assumes the risk of investing in that obtaining, verification or presentation shall be regarded as the maker of, and as having made, the database.
 
@@ -213,23 +213,23 @@ In section 179 (index of defined expressions), in the appropriate place in alpha
 - (a) the House by whom, or under whose direction or control, the database is made shall be regarded as the maker of the database, and
 - (b) if the database is made by or under the direction or control of both Houses, the two Houses shall be regarded as the joint makers of the database.
 
-(4A)[^key-a25e50fd87034098b5b4001db36d84bd] Where a database is made by or under the direction or control of the Scottish Parliament, the Scottish Parliamentary Corporate Body shall be regarded as the maker of the database.
+(4A)[^c-a25e50fd87034098b5b4001db36d84bd] Where a database is made by or under the direction or control of the Scottish Parliament, the Scottish Parliamentary Corporate Body shall be regarded as the maker of the database.
 
 (5) For the purposes of this Part a database is made jointly if two or more persons acting together in collaboration take the initiative in obtaining, verifying or presenting the contents of the database and assume the risk of investing in that obtaining, verification or presentation.
 
 (6) References in this Part to the maker of a database shall, except as otherwise provided, be construed, in relation to a database which is made jointly, as references to all the makers of the database.
 
-### 15. First ownership of database right[^key-c2afdbcede8d3dba8720bd893ca84fdc]
+### 15. First ownership of database right[^c-c2afdbcede8d3dba8720bd893ca84fdc]
 
 The maker of a database is the first owner of database right in it.
 
-### 16. Acts infringing database right[^key-8191fb68626ef26465c5321c6a0e5f65]
+### 16. Acts infringing database right[^c-8191fb68626ef26465c5321c6a0e5f65]
 
 (1) Subject to the provisions of this Part, a person infringes database right in a database if, without the consent of the owner of the right, he extracts or re-utilises all or a substantial part of the contents of the database.
 
 (2) For the purposes of this Part, the repeated and systematic extraction or re-utilisation of insubstantial parts of the contents of a database may amount to the extraction or re-utilisation of a substantial part of those contents.
 
-### 17. Term of protection[^key-f2b06f4e49a2e4359632d5971e68b4a3]
+### 17. Term of protection[^c-f2b06f4e49a2e4359632d5971e68b4a3]
 
 (1) Database right in a database expires at the end of the period of fifteen years from the end of the calendar year in which the making of the database was completed.
 
@@ -239,23 +239,23 @@ The maker of a database is the first owner of database right in it.
 
 (4) This Regulation has effect subject to Regulation 30.
 
-### 18. Qualification for database right[^key-844cbd621e9fc810ac9465cc801fad11]
+### 18. Qualification for database right[^c-844cbd621e9fc810ac9465cc801fad11]
 
 (1) Database right does not subsist in a database unless, at the material time, its maker, or if it was made jointly, one or more of its makers, was—
 
-- (a) an individual who was a national of the United Kingdom[^key-8bc846f2f50a2ccdeb57fbdb251c58bf] or habitually resident within the United Kingdom[^key-4bad7ff54ad4adc4f7008469ffa0f8ee],
-- (b) a body which was incorporated under the law of any part of the United Kingdom[^key-a3607d2052dd95a5b1cabc3b79983072] and which, at that time, satisfied one of the conditions in paragraph (2), [^key-cc094f15f12f3b588fa24b0e5d19456e]...
-- (c) a partnership or other unincorporated body which was formed under the law of any part of the United Kingdom[^key-8c31776cf009ab5c5a9e7807a8fb776b] and which, at that time, satisfied the condition in paragraph (2)(a),[^key-e9210283067f5935fac9a76077eff10e]
-- (d)[^key-e95768a2a6041ed83363c1306b93f3c1] an individual who was habitually resident within the Isle of Man,
+- (a) an individual who was a national of the United Kingdom[^c-8bc846f2f50a2ccdeb57fbdb251c58bf] or habitually resident within the United Kingdom[^c-4bad7ff54ad4adc4f7008469ffa0f8ee],
+- (b) a body which was incorporated under the law of any part of the United Kingdom[^c-a3607d2052dd95a5b1cabc3b79983072] and which, at that time, satisfied one of the conditions in paragraph (2), [^c-cc094f15f12f3b588fa24b0e5d19456e]...
+- (c) a partnership or other unincorporated body which was formed under the law of any part of the United Kingdom[^c-8c31776cf009ab5c5a9e7807a8fb776b] and which, at that time, satisfied the condition in paragraph (2)(a),[^c-e9210283067f5935fac9a76077eff10e]
+- (d)[^c-e95768a2a6041ed83363c1306b93f3c1] an individual who was habitually resident within the Isle of Man,
 - (e) a body which was incorporated under the law of the Isle of Man and which, at that time, satisfied one of the conditions in paragraph (2A), or
 - (f) a partnership or other unincorporated body which was formed under the law of the Isle of Man and which, at that time, satisfied the condition in paragraph (2A)(a).
 
 (2) The conditions mentioned in paragraphs (1)(b) and (c) are—
 
-- (a) that the body has its central administration or principal place of business within the United Kingdom[^key-c8603f466be7c4c0dd6f0f69fee4e4cc], or
+- (a) that the body has its central administration or principal place of business within the United Kingdom[^c-c8603f466be7c4c0dd6f0f69fee4e4cc], or
 - (b) that the body has its registered office within the United Kingdom and the body’s operations are linked on an ongoing basis with the economy of the United Kingdom.
 
-(2A)[^key-43bcf4e35b261ae1deb0a587181e0721] The conditions mentioned in paragraphs (1)(e) and (f) are—
+(2A)[^c-43bcf4e35b261ae1deb0a587181e0721] The conditions mentioned in paragraphs (1)(e) and (f) are—
 
 - (a) that the body has its central administration or principal place of business within the Isle of Man, or
 - (b) that the body has its registered office within the Isle of Man and the body’s operations are linked on an ongoing basis with the economy of the Isle of Man.
@@ -264,16 +264,16 @@ The maker of a database is the first owner of database right in it.
 
 (4) In this Regulation—
 
-- (a)[^key-d74946f253d831b9c0df4d6e62b042d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-d74946f253d831b9c0df4d6e62b042d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) “the material time” means the time when the database was made, or if the making extended over a period, a substantial part of that period.
 
-### 19. Avoidance of certain terms affecting lawful users[^key-ed6235d989e34a4746a28d9f7a57dd64]
+### 19. Avoidance of certain terms affecting lawful users[^c-ed6235d989e34a4746a28d9f7a57dd64]
 
 (1) A lawful user of a database which has been made available to the public in any manner shall be entitled to extract or re-utilise insubstantial parts of the contents of the database for any purpose.
 
 (2) Where under an agreement a person has a right to use a database, or part of a database, which has been made available to the public in any manner, any term or condition in the agreement shall be void in so far as it purports to prevent that person from extracting or re-utilising insubstantial parts of the contents of the database, or of that part of the database, for any purpose.
 
-### 20. Exceptions to database right[^key-43bf1124ac4b2ae437c336ea5b851d39]
+### 20. Exceptions to database right[^c-43bf1124ac4b2ae437c336ea5b851d39]
 
 (1) Database right in a database which has been made available to the public in any manner is not infringed by fair dealing with a substantial part of its contents if—
 
@@ -283,7 +283,7 @@ The maker of a database is the first owner of database right in it.
 
 (2) The provisions of Schedule 1 specify other acts which may be done in relation to a database notwithstanding the existence of database right.
 
-### 20A. Exceptions to database right: deposit libraries[^key-0d1006eef935a2f1ce23f8105382ca7c]
+### 20A. Exceptions to database right: deposit libraries[^c-0d1006eef935a2f1ce23f8105382ca7c]
 
 (1) Database right in a database is not infringed by the copying of a work from the internet by a deposit library or person acting on its behalf if—
 
@@ -300,11 +300,11 @@ The maker of a database is the first owner of database right in it.
 - (a) “**the 2003 Act**” means the Legal Deposit Libraries Act 2003;
 - (b) “**deposit library**” and “**relevant material**” have the same meaning as in section 7 of the 2003 Act.
 
-### 20B. Exceptions to database right: Marrakesh beneficiaries[^key-ec2d82c7cdc5a61f6c639e23fd5fb06d]
+### 20B. Exceptions to database right: Marrakesh beneficiaries[^c-ec2d82c7cdc5a61f6c639e23fd5fb06d]
 
 Database right in a database is not infringed by the making of an accessible copy of a work under sections 31A, 31B or 31BA of, or paragraphs 3A, 3B or 3C of Schedule 2 to, the 1988 Act for the benefit of a Marrakesh beneficiary.
 
-### 21. Acts permitted on assumption as to expiry of database right[^key-e23b069dc36514c243b42494a61e8483]
+### 21. Acts permitted on assumption as to expiry of database right[^c-e23b069dc36514c243b42494a61e8483]
 
 (1) Database right in a database is not infringed by the extraction or re-utilisation of a substantial part of the contents of the database at a time when, or in pursuance of arrangements made at a time when—
 
@@ -313,7 +313,7 @@ Database right in a database is not infringed by the making of an accessible cop
 
 (2) In the case of a database alleged to have been made jointly, paragraph (1) applies in relation to each person alleged to be one of the makers.
 
-### 22. Presumptions relevant to database right[^key-9beb52fa29546da777efb8fb58143a66][^key-2878ad73a7e66fedae9d83e29f576600][^key-7b33b3191d923bd983fb3e375b96ee94][^key-c0803c544cb9c357c4db32af368b2987]
+### 22. Presumptions relevant to database right[^c-9beb52fa29546da777efb8fb58143a66][^c-2878ad73a7e66fedae9d83e29f576600][^c-7b33b3191d923bd983fb3e375b96ee94][^c-c0803c544cb9c357c4db32af368b2987]
 
 (1) The following presumptions apply in proceedings brought by virtue of this Part of these Regulations with respect to a database.
 
@@ -331,7 +331,7 @@ the label or mark shall be admissible as evidence of the facts stated and shall 
 
 (4) In the case of a database alleged to have been made jointly, paragraphs (2) and (3), so far as is applicable, apply in relation to each person alleged to be one of the makers.
 
-### 23. Application of copyright provisions to database right[^key-11d19cb90fe39c08e9950a415b2b1ff8][^key-3696c723b5469c41686378aebf84861c]
+### 23. Application of copyright provisions to database right[^c-11d19cb90fe39c08e9950a415b2b1ff8][^c-3696c723b5469c41686378aebf84861c]
 
 The following provisions of the 1988 Act apply in relation to database right and databases in which that right subsists as they apply in relation to copyright and copyright works—
 
@@ -340,11 +340,11 @@ The following provisions of the 1988 Act apply in relation to database right and
 - sections 113 and 114 (supplementary provisions relating to delivery up)
 - section 115 (jurisdiction of county court and sheriff court).
 
-### 24. Licensing of database right[^key-62a39c73e275d4ff34f0065fcbede35a]
+### 24. Licensing of database right[^c-62a39c73e275d4ff34f0065fcbede35a]
 
 The provisions of Schedule 2 have effect with respect to the licensing of database right.
 
-### 25. Database right: jurisdiction of Copyright Tribunal[^key-663634f45c4a83159ff0edd99cd6792d]
+### 25. Database right: jurisdiction of Copyright Tribunal[^c-663634f45c4a83159ff0edd99cd6792d]
 
 (1) The Copyright Tribunal has jurisdiction under this Part to hear and determine proceedings under the following provisions of Schedule 2—
 
@@ -358,15 +358,15 @@ The provisions of Schedule 2 have effect with respect to the licensing of databa
 
 ## PART IV — SAVINGS AND TRANSITIONAL PROVISIONS
 
-### 26. Introductory[^key-14e973e43ec3990fa7d1d388127f2e1c][^key-da4cccc691090052fbd67d62745b715d]
+### 26. Introductory[^c-14e973e43ec3990fa7d1d388127f2e1c][^c-da4cccc691090052fbd67d62745b715d]
 
 Expressions used in this Part which are defined for the purposes of Part I of the 1988 Act have the same meaning as in that Part.
 
-### 27. General rule[^key-f9219c1bdb85e00b74b3a9e79ffdb7c6]
+### 27. General rule[^c-f9219c1bdb85e00b74b3a9e79ffdb7c6]
 
-Subject to Regulations 28 and 29, these Regulations apply to databases made before or after 1st January 1998[^key-cb061a8ec228d3d68475d06376e6dddb].
+Subject to Regulations 28 and 29, these Regulations apply to databases made before or after 1st January 1998[^c-cb061a8ec228d3d68475d06376e6dddb].
 
-### 28. General savings[^key-858549178afc9a42a814e73e8b902e14][^key-755995f48e1d8deb7d87c8a2732d0245]
+### 28. General savings[^c-858549178afc9a42a814e73e8b902e14][^c-755995f48e1d8deb7d87c8a2732d0245]
 
 (1) Nothing in these Regulations affects any agreement made before 1st January 1998.
 
@@ -386,18 +386,18 @@ shall be regarded as an infringement of database right in the database.
 
 shall be regarded as an infringement of database right in the database.
 
-### 29. Saving for copyright in certain existing databases[^key-e648b1a4f9d3c6bc252102f24003d9c4]
+### 29. Saving for copyright in certain existing databases[^c-e648b1a4f9d3c6bc252102f24003d9c4]
 
 (1) Where a database—
 
 - (a) was created on or before 27th March 1996, and
-- (b) is a copyright work immediately before 1st January 1998[^key-141c89b77b2efd83091567836c6268d6],
+- (b) is a copyright work immediately before 1st January 1998[^c-141c89b77b2efd83091567836c6268d6],
 
 copyright shall continue to subsist in the database for the remainder of its copyright term.
 
 (2) In this Regulation “copyright term” means the period of the duration of copyright under section 12 of the 1988 Act (duration of copyright in literary, dramatic, musical or artistic works).
 
-### 30. Database right: term applicable to certain existing databases[^key-a05e8f0960d3976ac1cec79f9be92af2][^key-6994f1955ce9554d6b9f07cadc77c53b]
+### 30. Database right: term applicable to certain existing databases[^c-a05e8f0960d3976ac1cec79f9be92af2][^c-6994f1955ce9554d6b9f07cadc77c53b]
 
 Where—
 
@@ -420,11 +420,11 @@ Regulation 20(2).
 
 ### Parliamentary and judicial proceedings
 
-**1.**[^key-14a58840ac407f47f32670ab00790d4f] Database right in a database is not infringed by anything done for the purposes of parliamentary or judicial proceedings or for the purposes of reporting such proceedings.
+**1.**[^c-14a58840ac407f47f32670ab00790d4f] Database right in a database is not infringed by anything done for the purposes of parliamentary or judicial proceedings or for the purposes of reporting such proceedings.
 
 ### Royal Commissions and statutory inquiries
 
-**2.**[^key-ab56a14039281045108a1b5ddfcdf885] (1) Database right in a database is not infringed by anything done for—
+**2.**[^c-ab56a14039281045108a1b5ddfcdf885] (1) Database right in a database is not infringed by anything done for—
 
 - (a) the purposes of the proceedings of a Royal Commission or statutory inquiry, or
 - (b) the purpose of reporting any such proceedings held in public.
@@ -435,7 +435,7 @@ Regulation 20(2).
 
 ### Material open to public inspection or on official register
 
-**3.**[^key-3708c747a7cd2ce8567125e28a84982e] (1) Where the contents of a database are open to public inspection pursuant to a statutory requirement, or are on a statutory register, database right in the database is not infringed by the extraction of all or a substantial part of the contents containing factual information of any description, by or with the authority of the appropriate person, for a purpose which does not involve re-utilisation of all or a substantial part of the contents.
+**3.**[^c-3708c747a7cd2ce8567125e28a84982e] (1) Where the contents of a database are open to public inspection pursuant to a statutory requirement, or are on a statutory register, database right in the database is not infringed by the extraction of all or a substantial part of the contents containing factual information of any description, by or with the authority of the appropriate person, for a purpose which does not involve re-utilisation of all or a substantial part of the contents.
 
 (2) Where the contents of a database are open to public inspection pursuant to a statutory requirement, database right in the database is not infringed by the extraction or re-utilisation of all or a substantial part of the contents, by or with the authority of the appropriate person, for the purpose of enabling the contents to be inspected at a more convenient time or place or otherwise facilitating the exercise of any right for the purpose of which the requirement is imposed.
 
@@ -447,11 +447,11 @@ Regulation 20(2).
 - “statutory register” means a register maintained in pursuance of a statutory requirement; and
 - “statutory requirement” means a requirement imposed by provision made by or under an enactment.
 
-(5)[^key-82de01b4c89e267884df177246986f77] In sub-paragraph (4) the reference to an enactment includes any enactment contained in Part 3 of the Regulatory Reform (Scotland) Act 2014.
+(5)[^c-82de01b4c89e267884df177246986f77] In sub-paragraph (4) the reference to an enactment includes any enactment contained in Part 3 of the Regulatory Reform (Scotland) Act 2014.
 
 ### Material communicated to the Crown in the course of public business
 
-**4.**[^key-739ea86dcf10ff6cf524351dc97ffef1] (1) This paragraph applies where the contents of a database have in the course of public business been communicated to the Crown for any purpose, by or with the licence of the owner of the database right and a document or other material thing recording or embodying the contents of the database is owned by or in the custody or control of the Crown.
+**4.**[^c-739ea86dcf10ff6cf524351dc97ffef1] (1) This paragraph applies where the contents of a database have in the course of public business been communicated to the Crown for any purpose, by or with the licence of the owner of the database right and a document or other material thing recording or embodying the contents of the database is owned by or in the custody or control of the Crown.
 
 (2) The Crown may, for the purpose for which the contents of the database were communicated to it, or any related purpose which could reasonably have been anticipated by the owner of the database right in the database, extract or re-utilise all or a substantial part of the contents without infringing database right in the database.
 
@@ -463,17 +463,17 @@ Regulation 20(2).
 
 ### Public records
 
-**5.**[^key-5b3977273df973be1c6d0de9a0f4a69f] The contents of a database which are comprised in public records within the meaning of the Public Records Act 1958[^f00008], the Public Records (Scotland) Act 1937[^f00009] or the Public Records Act (Northern Ireland) 1923[^f00010] which are open to public inspection in pursuance of that Act, may be re-utilised by or with the authority of any officer appointed under that Act, without infringement of database right in the database.
+**5.**[^c-5b3977273df973be1c6d0de9a0f4a69f] The contents of a database which are comprised in public records within the meaning of the Public Records Act 1958[^f00008], the Public Records (Scotland) Act 1937[^f00009] or the Public Records Act (Northern Ireland) 1923[^f00010] which are open to public inspection in pursuance of that Act, may be re-utilised by or with the authority of any officer appointed under that Act, without infringement of database right in the database.
 
 ### Acts done under statutory authority
 
-**6.**[^key-647a3b98133d50e9ab40ffeb47708716][^key-0ea476579924409479c972dae5da69e8] (1) Where the doing of a particular act is specifically authorised by an Act of Parliament, whenever passed, then, unless the Act provides otherwise, the doing of that act does not infringe database right in a database.
+**6.**[^c-647a3b98133d50e9ab40ffeb47708716][^c-0ea476579924409479c972dae5da69e8] (1) Where the doing of a particular act is specifically authorised by an Act of Parliament, whenever passed, then, unless the Act provides otherwise, the doing of that act does not infringe database right in a database.
 
 (2) Sub-paragraph (1) applies in relation to an enactment contained in Northern Ireland legislation as it applies in relation to an Act of Parliament.
 
-(2A)[^key-9bbb11e780b99c7cec42352ed3966756] Sub-paragraph (1) applies in relation to an enactment contained in Part 3 of the Regulatory Reform (Scotland) Act 2014 as it applies in relation to an Act of Parliament.
+(2A)[^c-9bbb11e780b99c7cec42352ed3966756] Sub-paragraph (1) applies in relation to an enactment contained in Part 3 of the Regulatory Reform (Scotland) Act 2014 as it applies in relation to an Act of Parliament.
 
-(3) Nothing in this paragraph shall be construed as excluding any defence of statutory authority otherwise available under or by virtue of any enactment or other statutory provision[^key-f808fd6fe2a45d74ca974c051e22f67e].
+(3) Nothing in this paragraph shall be construed as excluding any defence of statutory authority otherwise available under or by virtue of any enactment or other statutory provision[^c-f808fd6fe2a45d74ca974c051e22f67e].
 
 ## SCHEDULE 2 — LICENSING OF DATABASE RIGHT
 
@@ -481,7 +481,7 @@ Regulation 24.
 
 ### Licensing scheme and licensing bodies
 
-**1.**[^key-d002c1a11dde2ec8e5cad792e5a92030] (1) In this Schedule a “licensing scheme” means a scheme setting out—
+**1.**[^c-d002c1a11dde2ec8e5cad792e5a92030] (1) In this Schedule a “licensing scheme” means a scheme setting out—
 
 - (a) the classes of case in which the operator of the scheme, or the person on whose behalf he acts, is willing to grant database right licences, and
 - (b) the terms on which licences would be granted in those classes of case;
@@ -492,11 +492,11 @@ and for this purpose a “scheme” includes anything in the nature of a scheme,
 
 (3) In this paragraph “database right licences” means licences to do, or authorise the doing of, any of the things for which consent is required under Regulation 16.
 
-**2.**[^key-35a4c0190bc31c4c3ea8d43b761a1dba] Paragraphs 3 to 8 apply to licensing schemes which are operated by licensing bodies and cover databases of more than one maker so far as they relate to licences for extracting or re-utilising all or a substantial part of the contents of a database; and references in those paragraphs to a licensing scheme shall be construed accordingly.
+**2.**[^c-35a4c0190bc31c4c3ea8d43b761a1dba] Paragraphs 3 to 8 apply to licensing schemes which are operated by licensing bodies and cover databases of more than one maker so far as they relate to licences for extracting or re-utilising all or a substantial part of the contents of a database; and references in those paragraphs to a licensing scheme shall be construed accordingly.
 
 ### Reference of proposed licensing scheme to tribunal
 
-**3.**[^key-56fa241c99e4051d62851ec3532dc3f2] (1) The terms of a licensing scheme proposed to be operated by a licensing body may be referred to the Copyright Tribunal by an organisation claiming to be representative of persons claiming that they require licences in cases of a description to which the scheme would apply, either generally or in relation to any description of case.
+**3.**[^c-56fa241c99e4051d62851ec3532dc3f2] (1) The terms of a licensing scheme proposed to be operated by a licensing body may be referred to the Copyright Tribunal by an organisation claiming to be representative of persons claiming that they require licences in cases of a description to which the scheme would apply, either generally or in relation to any description of case.
 
 (2) The Tribunal shall first decide whether to entertain the reference, and may decline to do so on the ground that the reference is premature.
 
@@ -506,7 +506,7 @@ and for this purpose a “scheme” includes anything in the nature of a scheme,
 
 ### Reference of licensing scheme to tribunal
 
-**4.**[^key-010efa405572c76864dd52f938647a67] (1) If while a licensing scheme is in operation a dispute arises between the operator of the scheme and—
+**4.**[^c-010efa405572c76864dd52f938647a67] (1) If while a licensing scheme is in operation a dispute arises between the operator of the scheme and—
 
 - (a) a person claiming that he requires a licence in a case of a description to which the scheme applies, or
 - (b) an organisation claiming to be representative of such persons,
@@ -521,7 +521,7 @@ that person or organisation may refer the scheme to the Copyright Tribunal in so
 
 ### Further reference of scheme to tribunal
 
-**5.**[^key-e13a8e41b058ff5ff2180f145b767857] (1) Where the Copyright Tribunal has on a previous reference of a licensing scheme under paragraph 3 or 4, or under this paragraph, made an order with respect to the scheme, then, while the order remains in force—
+**5.**[^c-e13a8e41b058ff5ff2180f145b767857] (1) Where the Copyright Tribunal has on a previous reference of a licensing scheme under paragraph 3 or 4, or under this paragraph, made an order with respect to the scheme, then, while the order remains in force—
 
 - (a) the operator of the scheme,
 - (b) a person claiming that he requires a licence in a case of the description to which the order applies, or
@@ -542,7 +542,7 @@ may refer the scheme again to the Tribunal so far as it relates to cases of that
 
 ### Application for grant of licence in connection with licensing scheme
 
-**6.**[^key-99a3fe46bffbb296a17ad986ba31315a] (1) A person who claims, in a case covered by a licensing scheme, that the operator of the scheme has refused to grant him or procure the grant to him of a licence in accordance with the scheme, or has failed to do so within a reasonable time after being asked, may apply to the Copyright Tribunal.
+**6.**[^c-99a3fe46bffbb296a17ad986ba31315a] (1) A person who claims, in a case covered by a licensing scheme, that the operator of the scheme has refused to grant him or procure the grant to him of a licence in accordance with the scheme, or has failed to do so within a reasonable time after being asked, may apply to the Copyright Tribunal.
 
 (2) A person who claims, in a case excluded from a licensing scheme, that the operator of the scheme either—
 
@@ -562,7 +562,7 @@ may apply to the Copyright Tribunal.
 
 ### Application for review of order as to entitlement to licence
 
-**7.**[^key-559af5e4e0febc0baf1b8b35f10ec6d1] (1) Where the Copyright Tribunal has made an order under paragraph 6 that a person is entitled to a licence under a licensing scheme, the operator of the scheme or the original applicant may apply to the Tribunal to review its order.
+**7.**[^c-559af5e4e0febc0baf1b8b35f10ec6d1] (1) Where the Copyright Tribunal has made an order under paragraph 6 that a person is entitled to a licence under a licensing scheme, the operator of the scheme or the original applicant may apply to the Tribunal to review its order.
 
 (2) An application shall not be made, except with the special leave of the Tribunal—
 
@@ -573,7 +573,7 @@ may apply to the Copyright Tribunal.
 
 ### Effect of order of tribunal as to licensing scheme
 
-**8.**[^key-c9a4d26ce08620431b7cb0349bb96171] (1) A licensing scheme which has been confirmed or varied by the Copyright Tribunal—
+**8.**[^c-c9a4d26ce08620431b7cb0349bb96171] (1) A licensing scheme which has been confirmed or varied by the Copyright Tribunal—
 
 - (a) under paragraph 3 (reference of terms of proposed scheme), or
 - (b) under paragraph 4 or 5 (reference of existing scheme to Tribunal),
@@ -603,11 +603,11 @@ be in the same position as regards infringement of database right as if he had a
 
 ### References and applications with respect to licences by licensing bodies
 
-**9.**[^key-b10ee1f4e6e7475803ccb2877b4b8f08] Paragraphs 10 to 13 (references and applications with respect to licensing by licensing bodies) apply to licences relating to database right which cover databases of more than one maker granted by a licensing body otherwise than in pursuance of a licensing scheme, so far as the licences authorise extracting or re-utilising all or a substantial part of the contents of a database; and references in those paragraphs to a licence shall be construed accordingly.
+**9.**[^c-b10ee1f4e6e7475803ccb2877b4b8f08] Paragraphs 10 to 13 (references and applications with respect to licensing by licensing bodies) apply to licences relating to database right which cover databases of more than one maker granted by a licensing body otherwise than in pursuance of a licensing scheme, so far as the licences authorise extracting or re-utilising all or a substantial part of the contents of a database; and references in those paragraphs to a licence shall be construed accordingly.
 
 ### Reference to tribunal of proposed licence
 
-**10.**[^key-96fe89512169948bca0cd299ffcf9d3f] (1) The terms on which a licensing body proposes to grant a licence may be referred to the Copyright Tribunal by the prospective licensee.
+**10.**[^c-96fe89512169948bca0cd299ffcf9d3f] (1) The terms on which a licensing body proposes to grant a licence may be referred to the Copyright Tribunal by the prospective licensee.
 
 (2) The Tribunal shall first decide whether to entertain the reference, and may decline to do so on the ground that the reference is premature.
 
@@ -617,7 +617,7 @@ be in the same position as regards infringement of database right as if he had a
 
 ### Reference to tribunal of expiring licence
 
-**11.**[^key-2091696ade43411635083977e7df0a74] (1) A licensee under a licence which is due to expire, by effluxion of time or as a result of notice given by the licensing body, may apply to the Copyright Tribunal on the ground that it is unreasonable in the circumstances that the licence should cease to be in force.
+**11.**[^c-2091696ade43411635083977e7df0a74] (1) A licensee under a licence which is due to expire, by effluxion of time or as a result of notice given by the licensing body, may apply to the Copyright Tribunal on the ground that it is unreasonable in the circumstances that the licence should cease to be in force.
 
 (2) Such an application may not be made until the last three months before the licence is due to expire.
 
@@ -629,7 +629,7 @@ be in the same position as regards infringement of database right as if he had a
 
 ### Application for review of order as to licence
 
-**12.**[^key-b100ba803c7da9a53659bbe76f8345ac] (1) Where the Copyright Tribunal has made an order under paragraph 10 or 11, the licensing body or the person entitled to the benefit of the order may apply to the Tribunal to review its order.
+**12.**[^c-b100ba803c7da9a53659bbe76f8345ac] (1) Where the Copyright Tribunal has made an order under paragraph 10 or 11, the licensing body or the person entitled to the benefit of the order may apply to the Tribunal to review its order.
 
 (2) An application shall not be made, except with the special leave of the Tribunal—
 
@@ -640,7 +640,7 @@ be in the same position as regards infringement of database right as if he had a
 
 ### Effect of order of tribunal as to licence
 
-**13.**[^key-2e39fe4a07aa68146198bfe1273240f5] (1) Where the Copyright Tribunal has made an order under paragraph 10 or 11 and the order remains in force, the person entitled to the benefit of the order shall if he—
+**13.**[^c-2e39fe4a07aa68146198bfe1273240f5] (1) Where the Copyright Tribunal has made an order under paragraph 10 or 11 and the order remains in force, the person entitled to the benefit of the order shall if he—
 
 - (a) pays to the licensing body any charges payable in accordance with the order or, if the amount cannot be ascertained, gives an undertaking to pay the charges when ascertained, and
 - (b) complies with the other terms specified in the order,
@@ -660,7 +660,7 @@ be in the same position as regards infringement of database right as if he had a
 
 ### General considerations: unreasonable discrimination
 
-**14.**[^key-b4706f9467550490dd6ba96507509b76] In determining what is reasonable on a reference or application under this Schedule relating to a licensing scheme or licence, the Copyright Tribunal shall have regard to—
+**14.**[^c-b4706f9467550490dd6ba96507509b76] In determining what is reasonable on a reference or application under this Schedule relating to a licensing scheme or licence, the Copyright Tribunal shall have regard to—
 
 - (a) the availability of other schemes, or the granting of other licences, to other persons in similar circumstances, and
 - (b) the terms of those schemes or licences,
@@ -669,7 +669,7 @@ and shall exercise its powers so as to secure that there is no unreasonable disc
 
 ### Powers exercisable in consequence of competition report
 
-**15.**[^key-8d18fc3c1a1a91f417e404938d8d966c] (1)[^key-eff7fdf61d7e48c8d812396a1a0a5b38] Sub-paragraph (1A) applies where whatever needs to be remedied, mitigated or prevented by the Secretary of State or (as the case may be) the Competition and Markets Authority[^key-ce76ee27eb0a9b1a3e59494ef462c145] under section 12(5) of the Competition Act 1980 or section 41(2), 55(2), 66(6), 75(2), 83(2), 138(2), 147(2) , 147A(2)[^key-f8fea14eb496a1e384d741bb10988a66] or 160(2) of, or paragraph 5(2) or 10(2) of Schedule 7 to, the Enterprise Act 2002 (powers to take remedial action following references to the chair of the Competition and Markets Authority for the constitution of a group[^key-69546d114c65ae9bcb8ac64db10a6a88] in connection with public bodies and certain other persons, mergers or market investigations) or article 12(7) of, or paragraph 5(2) or 10(2) of Schedule 2 to, the Enterprise Act 2002 (Protection of Legitimate Interests) Order 2003 (power to take remedial action following references to the chair of the Competition and Markets Authority for the constitution of a group in connection with European mergers) consists of or includes—
+**15.**[^c-8d18fc3c1a1a91f417e404938d8d966c] (1)[^c-eff7fdf61d7e48c8d812396a1a0a5b38] Sub-paragraph (1A) applies where whatever needs to be remedied, mitigated or prevented by the Secretary of State or (as the case may be) the Competition and Markets Authority[^c-ce76ee27eb0a9b1a3e59494ef462c145] under section 12(5) of the Competition Act 1980 or section 41(2), 55(2), 66(6), 75(2), 83(2), 138(2), 147(2) , 147A(2)[^c-f8fea14eb496a1e384d741bb10988a66] or 160(2) of, or paragraph 5(2) or 10(2) of Schedule 7 to, the Enterprise Act 2002 (powers to take remedial action following references to the chair of the Competition and Markets Authority for the constitution of a group[^c-69546d114c65ae9bcb8ac64db10a6a88] in connection with public bodies and certain other persons, mergers or market investigations) or article 12(7) of, or paragraph 5(2) or 10(2) of Schedule 2 to, the Enterprise Act 2002 (Protection of Legitimate Interests) Order 2003 (power to take remedial action following references to the chair of the Competition and Markets Authority for the constitution of a group in connection with European mergers) consists of or includes—
 
 - (a) conditions in licences granted by the owner of database right in a database restricting the use of the database by the licensee or the right of the owner of the database right to grant other licences; or
 - (b) a refusal of an owner of database right to grant licences on reasonable terms.
@@ -727,143 +727,143 @@ A Compliance Cost Assessment is available, copies of which have been placed in t
 
 [^f00003]: Footnote: S.I. [1996/3155](https://www.legislation.gov.uk/uksi/1996/3155).
 
-[^key-a5d03d89b828f0ca49d85ed451b4a293]: Commencement: Reg. 1 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
+[^c-a5d03d89b828f0ca49d85ed451b4a293]: Commencement: Reg. 1 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
 
-[^key-248037a0c39600c12724ac0013b1dda2]: Commencement: Reg. 2 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
+[^c-248037a0c39600c12724ac0013b1dda2]: Commencement: Reg. 2 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
 
 [^f00004]: Footnote: O.J. No. L77, 27.3.96 p.20.
 
-[^key-18281a0b431f02c907617d039d16092f]: Textual amendment: Word in [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/2/1/a) omitted (1.11.2003) by virtue of [The Copyright and Rights in Databases (Amendment) Regulations 2003 (S.I. 2003/2501)](https://www.legislation.gov.uk/uksi/2003/2501), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/2501/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2003/2501/regulation/3/a)
+[^c-18281a0b431f02c907617d039d16092f]: Textual amendment: Word in [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/2/1/a) omitted (1.11.2003) by virtue of [The Copyright and Rights in Databases (Amendment) Regulations 2003 (S.I. 2003/2501)](https://www.legislation.gov.uk/uksi/2003/2501), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/2501/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2003/2501/regulation/3/a)
 
-[^key-89a347b74085488abace1f9af9387664]: Textual amendment: Word in [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/2/1/b) substituted for full stop (1.11.2003) by [The Copyright and Rights in Databases (Amendment) Regulations 2003 (S.I. 2003/2501)](https://www.legislation.gov.uk/uksi/2003/2501), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/2501/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2003/2501/regulation/3/b)
+[^c-89a347b74085488abace1f9af9387664]: Textual amendment: Word in [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/2/1/b) substituted for full stop (1.11.2003) by [The Copyright and Rights in Databases (Amendment) Regulations 2003 (S.I. 2003/2501)](https://www.legislation.gov.uk/uksi/2003/2501), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/2501/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2003/2501/regulation/3/b)
 
-[^key-cb7bf4c73fe73e552b0b3ce93b6b9ed6]: Textual amendment: [Reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/2/1/c) inserted (1.11.2003) by [The Copyright and Rights in Databases (Amendment) Regulations 2003 (S.I. 2003/2501)](https://www.legislation.gov.uk/uksi/2003/2501), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/2501/regulation/1/2), [3(c)](https://www.legislation.gov.uk/uksi/2003/2501/regulation/3/c)
+[^c-cb7bf4c73fe73e552b0b3ce93b6b9ed6]: Textual amendment: [Reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/2/1/c) inserted (1.11.2003) by [The Copyright and Rights in Databases (Amendment) Regulations 2003 (S.I. 2003/2501)](https://www.legislation.gov.uk/uksi/2003/2501), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/2501/regulation/1/2), [3(c)](https://www.legislation.gov.uk/uksi/2003/2501/regulation/3/c)
 
 [^f00005]: Footnote: Cm 2073.
 
 [^f00006]: Footnote: Cm 2183.
 
-[^key-0ccd0e81eb0b158a1d6c389105e0466e]: Commencement: Reg. 3 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
+[^c-0ccd0e81eb0b158a1d6c389105e0466e]: Commencement: Reg. 3 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
 
 [^f00007]: Footnote: [1988 c. 48](https://www.legislation.gov.uk/ukpga/1988/48).
 
-[^key-13846299fea2c1eacd5616612f031ed8]: Commencement: Reg. 4 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
+[^c-13846299fea2c1eacd5616612f031ed8]: Commencement: Reg. 4 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
 
-[^key-1eac8bfcf6e496747cd4e2b4dbfadf0e]: Commencement: Reg. 5 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
+[^c-1eac8bfcf6e496747cd4e2b4dbfadf0e]: Commencement: Reg. 5 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
 
-[^key-bdd6ad868592620c98e68ec359236be3]: Commencement: Reg. 6 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
+[^c-bdd6ad868592620c98e68ec359236be3]: Commencement: Reg. 6 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
 
-[^key-5ee9247a7aa3caa974af91c6ef916e32]: Commencement: Reg. 7 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
+[^c-5ee9247a7aa3caa974af91c6ef916e32]: Commencement: Reg. 7 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
 
-[^key-e627e7d4eae892a8e88b43991a3cf9ea]: Commencement: Reg. 8 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
+[^c-e627e7d4eae892a8e88b43991a3cf9ea]: Commencement: Reg. 8 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
 
-[^key-f9c69cdbcfe110b19b44860e190c1afb]: Commencement: Reg. 9 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
+[^c-f9c69cdbcfe110b19b44860e190c1afb]: Commencement: Reg. 9 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
 
-[^key-cc02393f56bfbf474e042871efb83388]: Commencement: Reg. 10 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
+[^c-cc02393f56bfbf474e042871efb83388]: Commencement: Reg. 10 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
 
-[^key-c9da25fc96d0d47c8bd070a8b05d3632]: Commencement: Reg. 11 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
+[^c-c9da25fc96d0d47c8bd070a8b05d3632]: Commencement: Reg. 11 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
 
-[^key-ff7c4474fb8335b6554e1ac6b26adbee]: Commencement: Reg. 12 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
+[^c-ff7c4474fb8335b6554e1ac6b26adbee]: Commencement: Reg. 12 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
 
-[^key-ab34ce1d8a2b983cc9ca6325304e16ac]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/uksi/1997/3032/regulation/12) inserted (11.10.2018) by [The Copyright and Related Rights (Marrakesh Treaty etc.) (Amendment) Regulations 2018 (S.I. 2018/995)](https://www.legislation.gov.uk/uksi/2018/995), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/995/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2018/995/regulation/18)
+[^c-ab34ce1d8a2b983cc9ca6325304e16ac]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/uksi/1997/3032/regulation/12) inserted (11.10.2018) by [The Copyright and Related Rights (Marrakesh Treaty etc.) (Amendment) Regulations 2018 (S.I. 2018/995)](https://www.legislation.gov.uk/uksi/2018/995), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/995/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2018/995/regulation/18)
 
-[^key-ea031841431194b275dc724b0b39b9a5]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/12/1) inserted (31.12.2020) by [The Intellectual Property (Copyright and Related Rights) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/605)](https://www.legislation.gov.uk/uksi/2019/605), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/1/2), [28(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/28/2) (with [reg. 38](https://www.legislation.gov.uk/uksi/2019/605/regulation/38)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1050/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ea031841431194b275dc724b0b39b9a5]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/12/1) inserted (31.12.2020) by [The Intellectual Property (Copyright and Related Rights) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/605)](https://www.legislation.gov.uk/uksi/2019/605), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/1/2), [28(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/28/2) (with [reg. 38](https://www.legislation.gov.uk/uksi/2019/605/regulation/38)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1050/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1f2af636d61b2d72044e7d1650215e0a]: Textual amendment: Words in [reg. 12(5)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/12/5) inserted (31.12.2020) by [The Intellectual Property (Exhaustion of Rights) (EU Exit) Regulations 2019 (S.I. 2019/265)](https://www.legislation.gov.uk/uksi/2019/265), [regs. 1](https://www.legislation.gov.uk/uksi/2019/265/regulation/1), [7](https://www.legislation.gov.uk/uksi/2019/265/regulation/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1f2af636d61b2d72044e7d1650215e0a]: Textual amendment: Words in [reg. 12(5)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/12/5) inserted (31.12.2020) by [The Intellectual Property (Exhaustion of Rights) (EU Exit) Regulations 2019 (S.I. 2019/265)](https://www.legislation.gov.uk/uksi/2019/265), [regs. 1](https://www.legislation.gov.uk/uksi/2019/265/regulation/1), [7](https://www.legislation.gov.uk/uksi/2019/265/regulation/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-96662f90df490cf8fd828acca90595c3]: Textual amendment: Words in [reg. 12(5)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/12/5) inserted (1.11.2003) by [The Copyright and Rights in Databases (Amendment) Regulations 2003 (S.I. 2003/2501)](https://www.legislation.gov.uk/uksi/2003/2501), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/2501/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2003/2501/regulation/4)
+[^c-96662f90df490cf8fd828acca90595c3]: Textual amendment: Words in [reg. 12(5)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/12/5) inserted (1.11.2003) by [The Copyright and Rights in Databases (Amendment) Regulations 2003 (S.I. 2003/2501)](https://www.legislation.gov.uk/uksi/2003/2501), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/2501/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2003/2501/regulation/4)
 
-[^key-15a67a3542a027e67ea167034eea10fb]: Commencement: Reg. 13 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
+[^c-15a67a3542a027e67ea167034eea10fb]: Commencement: Reg. 13 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
 
-[^key-b17f79d658797379df9f7aaed1c0d577]: Commencement: Reg. 14 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
+[^c-b17f79d658797379df9f7aaed1c0d577]: Commencement: Reg. 14 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
 
-[^key-a25e50fd87034098b5b4001db36d84bd]: Textual amendment: [Reg. 14(4A)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/14/4A) inserted (6.5.1999) by [The Scotland Act 1998 (Consequential Modifications) (No.1) Order 1999 (S.I. 1999/1042)](https://www.legislation.gov.uk/uksi/1999/1042), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/1999/1042/article/1/2/a), [3](https://www.legislation.gov.uk/uksi/1999/1042/article/3), [Sch. 1 para. 26](https://www.legislation.gov.uk/uksi/1999/1042/schedule/1/paragraph/26)
+[^c-a25e50fd87034098b5b4001db36d84bd]: Textual amendment: [Reg. 14(4A)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/14/4A) inserted (6.5.1999) by [The Scotland Act 1998 (Consequential Modifications) (No.1) Order 1999 (S.I. 1999/1042)](https://www.legislation.gov.uk/uksi/1999/1042), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/1999/1042/article/1/2/a), [3](https://www.legislation.gov.uk/uksi/1999/1042/article/3), [Sch. 1 para. 26](https://www.legislation.gov.uk/uksi/1999/1042/schedule/1/paragraph/26)
 
-[^key-c2afdbcede8d3dba8720bd893ca84fdc]: Commencement: Reg. 15 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
+[^c-c2afdbcede8d3dba8720bd893ca84fdc]: Commencement: Reg. 15 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
 
-[^key-8191fb68626ef26465c5321c6a0e5f65]: Commencement: Reg. 16 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
+[^c-8191fb68626ef26465c5321c6a0e5f65]: Commencement: Reg. 16 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
 
-[^key-f2b06f4e49a2e4359632d5971e68b4a3]: Commencement: Reg. 17 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
+[^c-f2b06f4e49a2e4359632d5971e68b4a3]: Commencement: Reg. 17 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
 
-[^key-844cbd621e9fc810ac9465cc801fad11]: Commencement: Reg. 18 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
+[^c-844cbd621e9fc810ac9465cc801fad11]: Commencement: Reg. 18 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
 
-[^key-8bc846f2f50a2ccdeb57fbdb251c58bf]: Textual amendment: Words in [reg. 18(1)(a)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/18/1/a) substituted (31.12.2020) by [The Intellectual Property (Copyright and Related Rights) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/605)](https://www.legislation.gov.uk/uksi/2019/605), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/1/2), [28(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/605/regulation/28/3/a/ii) (with [reg. 38](https://www.legislation.gov.uk/uksi/2019/605/regulation/38)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1050/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8bc846f2f50a2ccdeb57fbdb251c58bf]: Textual amendment: Words in [reg. 18(1)(a)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/18/1/a) substituted (31.12.2020) by [The Intellectual Property (Copyright and Related Rights) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/605)](https://www.legislation.gov.uk/uksi/2019/605), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/1/2), [28(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/605/regulation/28/3/a/ii) (with [reg. 38](https://www.legislation.gov.uk/uksi/2019/605/regulation/38)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1050/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4bad7ff54ad4adc4f7008469ffa0f8ee]: Textual amendment: Words in [reg. 18(1)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/18/1) substituted (31.12.2020) by [The Intellectual Property (Copyright and Related Rights) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/605)](https://www.legislation.gov.uk/uksi/2019/605), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/1/2), [28(3)(a)(i)](https://www.legislation.gov.uk/uksi/2019/605/regulation/28/3/a/i) (with [reg. 38](https://www.legislation.gov.uk/uksi/2019/605/regulation/38)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1050/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4bad7ff54ad4adc4f7008469ffa0f8ee]: Textual amendment: Words in [reg. 18(1)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/18/1) substituted (31.12.2020) by [The Intellectual Property (Copyright and Related Rights) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/605)](https://www.legislation.gov.uk/uksi/2019/605), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/1/2), [28(3)(a)(i)](https://www.legislation.gov.uk/uksi/2019/605/regulation/28/3/a/i) (with [reg. 38](https://www.legislation.gov.uk/uksi/2019/605/regulation/38)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1050/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a3607d2052dd95a5b1cabc3b79983072]: Textual amendment: Words in [reg. 18(1)(b)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/18/1/b) substituted (31.12.2020) by [The Intellectual Property (Copyright and Related Rights) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/605)](https://www.legislation.gov.uk/uksi/2019/605), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/1/2), [28(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2019/605/regulation/28/3/a/iii) (with [reg. 38](https://www.legislation.gov.uk/uksi/2019/605/regulation/38)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1050/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a3607d2052dd95a5b1cabc3b79983072]: Textual amendment: Words in [reg. 18(1)(b)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/18/1/b) substituted (31.12.2020) by [The Intellectual Property (Copyright and Related Rights) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/605)](https://www.legislation.gov.uk/uksi/2019/605), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/1/2), [28(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2019/605/regulation/28/3/a/iii) (with [reg. 38](https://www.legislation.gov.uk/uksi/2019/605/regulation/38)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1050/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-cc094f15f12f3b588fa24b0e5d19456e]: Textual amendment: Word in [reg. 18(1)(b)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/18/1/b) omitted (1.11.2003) by virtue of [The Copyright and Rights in Databases (Amendment) Regulations 2003 (S.I. 2003/2501)](https://www.legislation.gov.uk/uksi/2003/2501), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/2501/regulation/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2003/2501/regulation/5/a)
+[^c-cc094f15f12f3b588fa24b0e5d19456e]: Textual amendment: Word in [reg. 18(1)(b)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/18/1/b) omitted (1.11.2003) by virtue of [The Copyright and Rights in Databases (Amendment) Regulations 2003 (S.I. 2003/2501)](https://www.legislation.gov.uk/uksi/2003/2501), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/2501/regulation/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2003/2501/regulation/5/a)
 
-[^key-8c31776cf009ab5c5a9e7807a8fb776b]: Textual amendment: Words in [reg. 18(1)(c)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/18/1/c) substituted (31.12.2020) by [The Intellectual Property (Copyright and Related Rights) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/605)](https://www.legislation.gov.uk/uksi/2019/605), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/1/2), [28(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2019/605/regulation/28/3/a/iii) (with [reg. 38](https://www.legislation.gov.uk/uksi/2019/605/regulation/38)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1050/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8c31776cf009ab5c5a9e7807a8fb776b]: Textual amendment: Words in [reg. 18(1)(c)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/18/1/c) substituted (31.12.2020) by [The Intellectual Property (Copyright and Related Rights) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/605)](https://www.legislation.gov.uk/uksi/2019/605), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/1/2), [28(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2019/605/regulation/28/3/a/iii) (with [reg. 38](https://www.legislation.gov.uk/uksi/2019/605/regulation/38)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1050/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e9210283067f5935fac9a76077eff10e]: Textual amendment: [Reg. 18(1)(c)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/18/1/c): comma substituted for full stop (1.11.2003) by [The Copyright and Rights in Databases (Amendment) Regulations 2003 (S.I. 2003/2501)](https://www.legislation.gov.uk/uksi/2003/2501), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/2501/regulation/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2003/2501/regulation/5/b)
+[^c-e9210283067f5935fac9a76077eff10e]: Textual amendment: [Reg. 18(1)(c)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/18/1/c): comma substituted for full stop (1.11.2003) by [The Copyright and Rights in Databases (Amendment) Regulations 2003 (S.I. 2003/2501)](https://www.legislation.gov.uk/uksi/2003/2501), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/2501/regulation/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2003/2501/regulation/5/b)
 
-[^key-e95768a2a6041ed83363c1306b93f3c1]: Textual amendment: [Reg. 18(1)(d)-(f)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/18/1/d) inserted (1.11.2003) by [The Copyright and Rights in Databases (Amendment) Regulations 2003 (S.I. 2003/2501)](https://www.legislation.gov.uk/uksi/2003/2501), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/2501/regulation/1/2), [5(c)](https://www.legislation.gov.uk/uksi/2003/2501/regulation/5/c)
+[^c-e95768a2a6041ed83363c1306b93f3c1]: Textual amendment: [Reg. 18(1)(d)-(f)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/18/1/d) inserted (1.11.2003) by [The Copyright and Rights in Databases (Amendment) Regulations 2003 (S.I. 2003/2501)](https://www.legislation.gov.uk/uksi/2003/2501), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/2501/regulation/1/2), [5(c)](https://www.legislation.gov.uk/uksi/2003/2501/regulation/5/c)
 
-[^key-c8603f466be7c4c0dd6f0f69fee4e4cc]: Textual amendment: Words in [reg. 18(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/18/2) substituted (31.12.2020) by [The Intellectual Property (Copyright and Related Rights) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/605)](https://www.legislation.gov.uk/uksi/2019/605), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/1/2), [28(3)(b)](https://www.legislation.gov.uk/uksi/2019/605/regulation/28/3/b) (with [reg. 38](https://www.legislation.gov.uk/uksi/2019/605/regulation/38)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1050/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c8603f466be7c4c0dd6f0f69fee4e4cc]: Textual amendment: Words in [reg. 18(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/18/2) substituted (31.12.2020) by [The Intellectual Property (Copyright and Related Rights) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/605)](https://www.legislation.gov.uk/uksi/2019/605), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/1/2), [28(3)(b)](https://www.legislation.gov.uk/uksi/2019/605/regulation/28/3/b) (with [reg. 38](https://www.legislation.gov.uk/uksi/2019/605/regulation/38)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1050/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-43bcf4e35b261ae1deb0a587181e0721]: Textual amendment: [Reg. 18(2A)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/18/2A) inserted (1.11.2003) by [The Copyright and Rights in Databases (Amendment) Regulations 2003 (S.I. 2003/2501)](https://www.legislation.gov.uk/uksi/2003/2501), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/2501/regulation/1/2), [5(d)](https://www.legislation.gov.uk/uksi/2003/2501/regulation/5/d)
+[^c-43bcf4e35b261ae1deb0a587181e0721]: Textual amendment: [Reg. 18(2A)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/18/2A) inserted (1.11.2003) by [The Copyright and Rights in Databases (Amendment) Regulations 2003 (S.I. 2003/2501)](https://www.legislation.gov.uk/uksi/2003/2501), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/2501/regulation/1/2), [5(d)](https://www.legislation.gov.uk/uksi/2003/2501/regulation/5/d)
 
-[^key-d74946f253d831b9c0df4d6e62b042d5]: Textual amendment: [Reg. 18(4)(a)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/18/4/a) omitted (31.12.2020) by virtue of [The Intellectual Property (Copyright and Related Rights) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/605)](https://www.legislation.gov.uk/uksi/2019/605), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/1/2), [28(3)(c)](https://www.legislation.gov.uk/uksi/2019/605/regulation/28/3/c) (with [reg. 38](https://www.legislation.gov.uk/uksi/2019/605/regulation/38)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1050/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d74946f253d831b9c0df4d6e62b042d5]: Textual amendment: [Reg. 18(4)(a)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/18/4/a) omitted (31.12.2020) by virtue of [The Intellectual Property (Copyright and Related Rights) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/605)](https://www.legislation.gov.uk/uksi/2019/605), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/1/2), [28(3)(c)](https://www.legislation.gov.uk/uksi/2019/605/regulation/28/3/c) (with [reg. 38](https://www.legislation.gov.uk/uksi/2019/605/regulation/38)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1050/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ed6235d989e34a4746a28d9f7a57dd64]: Commencement: Reg. 19 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
+[^c-ed6235d989e34a4746a28d9f7a57dd64]: Commencement: Reg. 19 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
 
-[^key-43bf1124ac4b2ae437c336ea5b851d39]: Commencement: Reg. 20 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
+[^c-43bf1124ac4b2ae437c336ea5b851d39]: Commencement: Reg. 20 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
 
-[^key-0d1006eef935a2f1ce23f8105382ca7c]: Textual amendment: [Reg. 20A](https://www.legislation.gov.uk/uksi/1997/3032/regulation/20A) inserted (30.10.2003 for specified purposes, 1.2.2004 in so far as not already in force) by [Legal Deposit Libraries Act 2003 (c. 28)](https://www.legislation.gov.uk/ukpga/2003/28), [ss. 8(2)](https://www.legislation.gov.uk/ukpga/2003/28/section/8/2), [16(1)](https://www.legislation.gov.uk/ukpga/2003/28/section/16/1) (with [s. 16(4)](https://www.legislation.gov.uk/ukpga/2003/28/section/16/4)); [S.I. 2004/130](https://www.legislation.gov.uk/uksi/2004/130), [art. 2](https://www.legislation.gov.uk/uksi/2004/130/article/2)
+[^c-0d1006eef935a2f1ce23f8105382ca7c]: Textual amendment: [Reg. 20A](https://www.legislation.gov.uk/uksi/1997/3032/regulation/20A) inserted (30.10.2003 for specified purposes, 1.2.2004 in so far as not already in force) by [Legal Deposit Libraries Act 2003 (c. 28)](https://www.legislation.gov.uk/ukpga/2003/28), [ss. 8(2)](https://www.legislation.gov.uk/ukpga/2003/28/section/8/2), [16(1)](https://www.legislation.gov.uk/ukpga/2003/28/section/16/1) (with [s. 16(4)](https://www.legislation.gov.uk/ukpga/2003/28/section/16/4)); [S.I. 2004/130](https://www.legislation.gov.uk/uksi/2004/130), [art. 2](https://www.legislation.gov.uk/uksi/2004/130/article/2)
 
-[^key-ec2d82c7cdc5a61f6c639e23fd5fb06d]: Textual amendment: [Reg. 20B](https://www.legislation.gov.uk/uksi/1997/3032/regulation/20B) inserted (11.10.2018) by [The Copyright and Related Rights (Marrakesh Treaty etc.) (Amendment) Regulations 2018 (S.I. 2018/995)](https://www.legislation.gov.uk/uksi/2018/995), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/995/regulation/1/2), [19](https://www.legislation.gov.uk/uksi/2018/995/regulation/19)
+[^c-ec2d82c7cdc5a61f6c639e23fd5fb06d]: Textual amendment: [Reg. 20B](https://www.legislation.gov.uk/uksi/1997/3032/regulation/20B) inserted (11.10.2018) by [The Copyright and Related Rights (Marrakesh Treaty etc.) (Amendment) Regulations 2018 (S.I. 2018/995)](https://www.legislation.gov.uk/uksi/2018/995), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/995/regulation/1/2), [19](https://www.legislation.gov.uk/uksi/2018/995/regulation/19)
 
-[^key-e23b069dc36514c243b42494a61e8483]: Commencement: Reg. 21 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
+[^c-e23b069dc36514c243b42494a61e8483]: Commencement: Reg. 21 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
 
-[^key-9beb52fa29546da777efb8fb58143a66]: Commencement: Reg. 22 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
+[^c-9beb52fa29546da777efb8fb58143a66]: Commencement: Reg. 22 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
 
-[^key-2878ad73a7e66fedae9d83e29f576600]: Modification: Reg. 22 applied (31.10.2003) by [1988 c. 48](https://www.legislation.gov.uk/ukpga/1988/48), [s. 296ZA(7)](https://www.legislation.gov.uk/ukpga/1988/48/section/296ZA/7) (as substituted by [The Copyright and Related Rights Regulations 2003 (S.I. 2003/2498)](https://www.legislation.gov.uk/uksi/2003/2498), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2498/regulation/1), [24](https://www.legislation.gov.uk/uksi/2003/2498/regulation/24) (with [regs. 31-40](https://www.legislation.gov.uk/uksi/2003/2498/regulation/31)))
+[^c-2878ad73a7e66fedae9d83e29f576600]: Modification: Reg. 22 applied (31.10.2003) by [1988 c. 48](https://www.legislation.gov.uk/ukpga/1988/48), [s. 296ZA(7)](https://www.legislation.gov.uk/ukpga/1988/48/section/296ZA/7) (as substituted by [The Copyright and Related Rights Regulations 2003 (S.I. 2003/2498)](https://www.legislation.gov.uk/uksi/2003/2498), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2498/regulation/1), [24](https://www.legislation.gov.uk/uksi/2003/2498/regulation/24) (with [regs. 31-40](https://www.legislation.gov.uk/uksi/2003/2498/regulation/31)))
 
-[^key-7b33b3191d923bd983fb3e375b96ee94]: Modification: Reg. 22 applied (31.10.2003) by [1988 c. 48](https://www.legislation.gov.uk/ukpga/1988/48), [s. 296ZG(9)](https://www.legislation.gov.uk/ukpga/1988/48/section/296ZG/9) (as inserted by [The Copyright and Related Rights Regulations 2003 (S.I. 2003/2498)](https://www.legislation.gov.uk/uksi/2003/2498), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2498/regulation/1), [25](https://www.legislation.gov.uk/uksi/2003/2498/regulation/25) (with [regs. 31-40](https://www.legislation.gov.uk/uksi/2003/2498/regulation/31)))
+[^c-7b33b3191d923bd983fb3e375b96ee94]: Modification: Reg. 22 applied (31.10.2003) by [1988 c. 48](https://www.legislation.gov.uk/ukpga/1988/48), [s. 296ZG(9)](https://www.legislation.gov.uk/ukpga/1988/48/section/296ZG/9) (as inserted by [The Copyright and Related Rights Regulations 2003 (S.I. 2003/2498)](https://www.legislation.gov.uk/uksi/2003/2498), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2498/regulation/1), [25](https://www.legislation.gov.uk/uksi/2003/2498/regulation/25) (with [regs. 31-40](https://www.legislation.gov.uk/uksi/2003/2498/regulation/31)))
 
-[^key-c0803c544cb9c357c4db32af368b2987]: Modification: Reg. 22 applied (31.10.2003) by [1988 c. 48](https://www.legislation.gov.uk/ukpga/1988/48), [s. 296ZD(9)](https://www.legislation.gov.uk/ukpga/1988/48/section/296ZD/9) (as substituted by [The Copyright and Related Rights Regulations 2003 (S.I. 2003/2498)](https://www.legislation.gov.uk/uksi/2003/2498), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2498/regulation/1), [24](https://www.legislation.gov.uk/uksi/2003/2498/regulation/24) (with [regs. 31-40](https://www.legislation.gov.uk/uksi/2003/2498/regulation/31)))
+[^c-c0803c544cb9c357c4db32af368b2987]: Modification: Reg. 22 applied (31.10.2003) by [1988 c. 48](https://www.legislation.gov.uk/ukpga/1988/48), [s. 296ZD(9)](https://www.legislation.gov.uk/ukpga/1988/48/section/296ZD/9) (as substituted by [The Copyright and Related Rights Regulations 2003 (S.I. 2003/2498)](https://www.legislation.gov.uk/uksi/2003/2498), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2498/regulation/1), [24](https://www.legislation.gov.uk/uksi/2003/2498/regulation/24) (with [regs. 31-40](https://www.legislation.gov.uk/uksi/2003/2498/regulation/31)))
 
-[^key-11d19cb90fe39c08e9950a415b2b1ff8]: Commencement: Reg. 23 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
+[^c-11d19cb90fe39c08e9950a415b2b1ff8]: Commencement: Reg. 23 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
 
-[^key-3696c723b5469c41686378aebf84861c]: Textual amendment: [Reg. 23](https://www.legislation.gov.uk/uksi/1997/3032/regulation/23) substituted (29.4.2006) by [The Intellectual Property (Enforcement, etc.) Regulations 2006 (S.I. 2006/1028)](https://www.legislation.gov.uk/uksi/2006/1028), [reg. 1](https://www.legislation.gov.uk/uksi/2006/1028/regulation/1), [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2006/1028/schedule/3/paragraph/6)
+[^c-3696c723b5469c41686378aebf84861c]: Textual amendment: [Reg. 23](https://www.legislation.gov.uk/uksi/1997/3032/regulation/23) substituted (29.4.2006) by [The Intellectual Property (Enforcement, etc.) Regulations 2006 (S.I. 2006/1028)](https://www.legislation.gov.uk/uksi/2006/1028), [reg. 1](https://www.legislation.gov.uk/uksi/2006/1028/regulation/1), [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2006/1028/schedule/3/paragraph/6)
 
-[^key-62a39c73e275d4ff34f0065fcbede35a]: Commencement: Reg. 24 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
+[^c-62a39c73e275d4ff34f0065fcbede35a]: Commencement: Reg. 24 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
 
-[^key-663634f45c4a83159ff0edd99cd6792d]: Commencement: Reg. 25 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
+[^c-663634f45c4a83159ff0edd99cd6792d]: Commencement: Reg. 25 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
 
-[^key-14e973e43ec3990fa7d1d388127f2e1c]: Commencement: Reg. 26 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
+[^c-14e973e43ec3990fa7d1d388127f2e1c]: Commencement: Reg. 26 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
 
-[^key-da4cccc691090052fbd67d62745b715d]: Textual amendment: [Reg. 26](https://www.legislation.gov.uk/uksi/1997/3032/regulation/26) substituted (1.11.2003) by [The Copyright and Rights in Databases (Amendment) Regulations 2003 (S.I. 2003/2501)](https://www.legislation.gov.uk/uksi/2003/2501), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/2501/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2003/2501/regulation/6)
+[^c-da4cccc691090052fbd67d62745b715d]: Textual amendment: [Reg. 26](https://www.legislation.gov.uk/uksi/1997/3032/regulation/26) substituted (1.11.2003) by [The Copyright and Rights in Databases (Amendment) Regulations 2003 (S.I. 2003/2501)](https://www.legislation.gov.uk/uksi/2003/2501), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/2501/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2003/2501/regulation/6)
 
-[^key-f9219c1bdb85e00b74b3a9e79ffdb7c6]: Commencement: Reg. 27 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
+[^c-f9219c1bdb85e00b74b3a9e79ffdb7c6]: Commencement: Reg. 27 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
 
-[^key-cb061a8ec228d3d68475d06376e6dddb]: Textual amendment: Words in [reg. 27](https://www.legislation.gov.uk/uksi/1997/3032/regulation/27) substituted (1.11.2003) by [The Copyright and Rights in Databases (Amendment) Regulations 2003 (S.I. 2003/2501)](https://www.legislation.gov.uk/uksi/2003/2501), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/2501/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2003/2501/regulation/7)
+[^c-cb061a8ec228d3d68475d06376e6dddb]: Textual amendment: Words in [reg. 27](https://www.legislation.gov.uk/uksi/1997/3032/regulation/27) substituted (1.11.2003) by [The Copyright and Rights in Databases (Amendment) Regulations 2003 (S.I. 2003/2501)](https://www.legislation.gov.uk/uksi/2003/2501), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/2501/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2003/2501/regulation/7)
 
-[^key-858549178afc9a42a814e73e8b902e14]: Commencement: Reg. 28 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
+[^c-858549178afc9a42a814e73e8b902e14]: Commencement: Reg. 28 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
 
-[^key-755995f48e1d8deb7d87c8a2732d0245]: Textual amendment: [Reg. 28](https://www.legislation.gov.uk/uksi/1997/3032/regulation/28) substituted (1.11.2003) by [The Copyright and Rights in Databases (Amendment) Regulations 2003 (S.I. 2003/2501)](https://www.legislation.gov.uk/uksi/2003/2501), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/2501/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2003/2501/regulation/8)
+[^c-755995f48e1d8deb7d87c8a2732d0245]: Textual amendment: [Reg. 28](https://www.legislation.gov.uk/uksi/1997/3032/regulation/28) substituted (1.11.2003) by [The Copyright and Rights in Databases (Amendment) Regulations 2003 (S.I. 2003/2501)](https://www.legislation.gov.uk/uksi/2003/2501), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/2501/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2003/2501/regulation/8)
 
-[^key-e648b1a4f9d3c6bc252102f24003d9c4]: Commencement: Reg. 29 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
+[^c-e648b1a4f9d3c6bc252102f24003d9c4]: Commencement: Reg. 29 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
 
-[^key-141c89b77b2efd83091567836c6268d6]: Textual amendment: Words in [reg. 29](https://www.legislation.gov.uk/uksi/1997/3032/regulation/29) substituted (1.11.2003) by [The Copyright and Rights in Databases (Amendment) Regulations 2003 (S.I. 2003/2501)](https://www.legislation.gov.uk/uksi/2003/2501), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/2501/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2003/2501/regulation/9)
+[^c-141c89b77b2efd83091567836c6268d6]: Textual amendment: Words in [reg. 29](https://www.legislation.gov.uk/uksi/1997/3032/regulation/29) substituted (1.11.2003) by [The Copyright and Rights in Databases (Amendment) Regulations 2003 (S.I. 2003/2501)](https://www.legislation.gov.uk/uksi/2003/2501), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/2501/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2003/2501/regulation/9)
 
-[^key-a05e8f0960d3976ac1cec79f9be92af2]: Commencement: Reg. 30 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
+[^c-a05e8f0960d3976ac1cec79f9be92af2]: Commencement: Reg. 30 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
 
-[^key-6994f1955ce9554d6b9f07cadc77c53b]: Textual amendment: [Reg. 30](https://www.legislation.gov.uk/uksi/1997/3032/regulation/30) substituted (1.11.2003) by [The Copyright and Rights in Databases (Amendment) Regulations 2003 (S.I. 2003/2501)](https://www.legislation.gov.uk/uksi/2003/2501), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/2501/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2003/2501/regulation/10)
+[^c-6994f1955ce9554d6b9f07cadc77c53b]: Textual amendment: [Reg. 30](https://www.legislation.gov.uk/uksi/1997/3032/regulation/30) substituted (1.11.2003) by [The Copyright and Rights in Databases (Amendment) Regulations 2003 (S.I. 2003/2501)](https://www.legislation.gov.uk/uksi/2003/2501), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/2501/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2003/2501/regulation/10)
 
-[^key-14a58840ac407f47f32670ab00790d4f]: Commencement: Sch. 1 para. 1 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
+[^c-14a58840ac407f47f32670ab00790d4f]: Commencement: Sch. 1 para. 1 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
 
-[^key-ab56a14039281045108a1b5ddfcdf885]: Commencement: Sch. 1 para. 2 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
+[^c-ab56a14039281045108a1b5ddfcdf885]: Commencement: Sch. 1 para. 2 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
 
-[^key-3708c747a7cd2ce8567125e28a84982e]: Commencement: Sch. 1 para. 3 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
+[^c-3708c747a7cd2ce8567125e28a84982e]: Commencement: Sch. 1 para. 3 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
 
-[^key-82de01b4c89e267884df177246986f77]: Textual amendment: [Sch. 1 para. 3(5)](https://www.legislation.gov.uk/uksi/1997/3032/schedule/1/paragraph/3/5) inserted (26.2.2015) by [The Regulatory Reform (Scotland) Act 2014 (Consequential Modifications) Order 2015 (S.I. 2015/374)](https://www.legislation.gov.uk/uksi/2015/374), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/374/article/1/1), [10(2)](https://www.legislation.gov.uk/uksi/2015/374/article/10/2)
+[^c-82de01b4c89e267884df177246986f77]: Textual amendment: [Sch. 1 para. 3(5)](https://www.legislation.gov.uk/uksi/1997/3032/schedule/1/paragraph/3/5) inserted (26.2.2015) by [The Regulatory Reform (Scotland) Act 2014 (Consequential Modifications) Order 2015 (S.I. 2015/374)](https://www.legislation.gov.uk/uksi/2015/374), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/374/article/1/1), [10(2)](https://www.legislation.gov.uk/uksi/2015/374/article/10/2)
 
-[^key-739ea86dcf10ff6cf524351dc97ffef1]: Commencement: Sch. 1 para. 4 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
+[^c-739ea86dcf10ff6cf524351dc97ffef1]: Commencement: Sch. 1 para. 4 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
 
-[^key-5b3977273df973be1c6d0de9a0f4a69f]: Commencement: Sch. 1 para. 5 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
+[^c-5b3977273df973be1c6d0de9a0f4a69f]: Commencement: Sch. 1 para. 5 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
 
 [^f00008]: Footnote: [1958 c. 51](https://www.legislation.gov.uk/ukpga/1958/51).
 
@@ -871,48 +871,48 @@ A Compliance Cost Assessment is available, copies of which have been placed in t
 
 [^f00010]: Footnote: [1923 c. 20 (N.I.)](https://www.legislation.gov.uk/apni/1923/20).
 
-[^key-647a3b98133d50e9ab40ffeb47708716]: Commencement: Sch. 1 para. 6 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
+[^c-647a3b98133d50e9ab40ffeb47708716]: Commencement: Sch. 1 para. 6 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
 
-[^key-0ea476579924409479c972dae5da69e8]: Modification: Sch. 1 para. 6 applied by [2000 c. 36](https://www.legislation.gov.uk/ukpga/2000/36), [s. 80(3)](https://www.legislation.gov.uk/ukpga/2000/36/section/80/3) (as added (1.1.2005) by [The Freedom of Information (Scotland) Act 2002 (Consequential Modifications) Order 2004 (S.I. 2004/3089)](https://www.legislation.gov.uk/uksi/2004/3089), [arts. 1](https://www.legislation.gov.uk/uksi/2004/3089/article/1), [3(3)](https://www.legislation.gov.uk/uksi/2004/3089/article/3/3))
+[^c-0ea476579924409479c972dae5da69e8]: Modification: Sch. 1 para. 6 applied by [2000 c. 36](https://www.legislation.gov.uk/ukpga/2000/36), [s. 80(3)](https://www.legislation.gov.uk/ukpga/2000/36/section/80/3) (as added (1.1.2005) by [The Freedom of Information (Scotland) Act 2002 (Consequential Modifications) Order 2004 (S.I. 2004/3089)](https://www.legislation.gov.uk/uksi/2004/3089), [arts. 1](https://www.legislation.gov.uk/uksi/2004/3089/article/1), [3(3)](https://www.legislation.gov.uk/uksi/2004/3089/article/3/3))
 
-[^key-9bbb11e780b99c7cec42352ed3966756]: Textual amendment: [Sch. 1 para. 6(2A)](https://www.legislation.gov.uk/uksi/1997/3032/schedule/1/paragraph/6/2A) inserted (26.2.2015) by [The Regulatory Reform (Scotland) Act 2014 (Consequential Modifications) Order 2015 (S.I. 2015/374)](https://www.legislation.gov.uk/uksi/2015/374), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/374/article/1/1), [10(3)](https://www.legislation.gov.uk/uksi/2015/374/article/10/3)
+[^c-9bbb11e780b99c7cec42352ed3966756]: Textual amendment: [Sch. 1 para. 6(2A)](https://www.legislation.gov.uk/uksi/1997/3032/schedule/1/paragraph/6/2A) inserted (26.2.2015) by [The Regulatory Reform (Scotland) Act 2014 (Consequential Modifications) Order 2015 (S.I. 2015/374)](https://www.legislation.gov.uk/uksi/2015/374), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/374/article/1/1), [10(3)](https://www.legislation.gov.uk/uksi/2015/374/article/10/3)
 
-[^key-f808fd6fe2a45d74ca974c051e22f67e]: Textual amendment: Words in [Sch. 1 para. 6(3)](https://www.legislation.gov.uk/uksi/1997/3032/schedule/1/paragraph/6/3) inserted (26.2.2015) by [The Regulatory Reform (Scotland) Act 2014 (Consequential Modifications) Order 2015 (S.I. 2015/374)](https://www.legislation.gov.uk/uksi/2015/374), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/374/article/1/1), [10(4)](https://www.legislation.gov.uk/uksi/2015/374/article/10/4)
+[^c-f808fd6fe2a45d74ca974c051e22f67e]: Textual amendment: Words in [Sch. 1 para. 6(3)](https://www.legislation.gov.uk/uksi/1997/3032/schedule/1/paragraph/6/3) inserted (26.2.2015) by [The Regulatory Reform (Scotland) Act 2014 (Consequential Modifications) Order 2015 (S.I. 2015/374)](https://www.legislation.gov.uk/uksi/2015/374), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/374/article/1/1), [10(4)](https://www.legislation.gov.uk/uksi/2015/374/article/10/4)
 
-[^key-d002c1a11dde2ec8e5cad792e5a92030]: Commencement: Sch. 2 para. 1 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
+[^c-d002c1a11dde2ec8e5cad792e5a92030]: Commencement: Sch. 2 para. 1 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
 
-[^key-35a4c0190bc31c4c3ea8d43b761a1dba]: Commencement: Sch. 2 para. 2 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
+[^c-35a4c0190bc31c4c3ea8d43b761a1dba]: Commencement: Sch. 2 para. 2 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
 
-[^key-56fa241c99e4051d62851ec3532dc3f2]: Commencement: Sch. 2 para. 3 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
+[^c-56fa241c99e4051d62851ec3532dc3f2]: Commencement: Sch. 2 para. 3 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
 
-[^key-010efa405572c76864dd52f938647a67]: Commencement: Sch. 2 para. 4 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
+[^c-010efa405572c76864dd52f938647a67]: Commencement: Sch. 2 para. 4 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
 
-[^key-e13a8e41b058ff5ff2180f145b767857]: Commencement: Sch. 2 para. 5 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
+[^c-e13a8e41b058ff5ff2180f145b767857]: Commencement: Sch. 2 para. 5 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
 
-[^key-99a3fe46bffbb296a17ad986ba31315a]: Commencement: Sch. 2 para. 6 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
+[^c-99a3fe46bffbb296a17ad986ba31315a]: Commencement: Sch. 2 para. 6 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
 
-[^key-559af5e4e0febc0baf1b8b35f10ec6d1]: Commencement: Sch. 2 para. 7 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
+[^c-559af5e4e0febc0baf1b8b35f10ec6d1]: Commencement: Sch. 2 para. 7 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
 
-[^key-c9a4d26ce08620431b7cb0349bb96171]: Commencement: Sch. 2 para. 8 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
+[^c-c9a4d26ce08620431b7cb0349bb96171]: Commencement: Sch. 2 para. 8 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
 
-[^key-b10ee1f4e6e7475803ccb2877b4b8f08]: Commencement: Sch. 2 para. 9 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
+[^c-b10ee1f4e6e7475803ccb2877b4b8f08]: Commencement: Sch. 2 para. 9 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
 
-[^key-96fe89512169948bca0cd299ffcf9d3f]: Commencement: Sch. 2 para. 10 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
+[^c-96fe89512169948bca0cd299ffcf9d3f]: Commencement: Sch. 2 para. 10 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
 
-[^key-2091696ade43411635083977e7df0a74]: Commencement: Sch. 2 para. 11 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
+[^c-2091696ade43411635083977e7df0a74]: Commencement: Sch. 2 para. 11 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
 
-[^key-b100ba803c7da9a53659bbe76f8345ac]: Commencement: Sch. 2 para. 12 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
+[^c-b100ba803c7da9a53659bbe76f8345ac]: Commencement: Sch. 2 para. 12 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
 
-[^key-2e39fe4a07aa68146198bfe1273240f5]: Commencement: Sch. 2 para. 13 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
+[^c-2e39fe4a07aa68146198bfe1273240f5]: Commencement: Sch. 2 para. 13 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
 
-[^key-b4706f9467550490dd6ba96507509b76]: Commencement: Sch. 2 para. 14 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
+[^c-b4706f9467550490dd6ba96507509b76]: Commencement: Sch. 2 para. 14 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
 
-[^key-8d18fc3c1a1a91f417e404938d8d966c]: Commencement: Sch. 2 para. 15 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
+[^c-8d18fc3c1a1a91f417e404938d8d966c]: Commencement: Sch. 2 para. 15 in force at 1.1.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/3032/regulation/1/2)
 
-[^key-eff7fdf61d7e48c8d812396a1a0a5b38]: Textual amendment: Sch. 2 para. 15(1)-(2) substituted for Sch. 2 para. 15(1)(2) (20.6.2003) by [The Enterprise Act 2002 (Consequential and Supplemental Provisions) Order 2003 (S.I. 2003/1398)](https://www.legislation.gov.uk/uksi/2003/1398), [art. 1](https://www.legislation.gov.uk/uksi/2003/1398/article/1), [Sch. para. 31(2)](https://www.legislation.gov.uk/uksi/2003/1398/schedule/paragraph/31/2) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/1398/article/3/1))
+[^c-eff7fdf61d7e48c8d812396a1a0a5b38]: Textual amendment: Sch. 2 para. 15(1)-(2) substituted for Sch. 2 para. 15(1)(2) (20.6.2003) by [The Enterprise Act 2002 (Consequential and Supplemental Provisions) Order 2003 (S.I. 2003/1398)](https://www.legislation.gov.uk/uksi/2003/1398), [art. 1](https://www.legislation.gov.uk/uksi/2003/1398/article/1), [Sch. para. 31(2)](https://www.legislation.gov.uk/uksi/2003/1398/schedule/paragraph/31/2) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/1398/article/3/1))
 
-[^key-ce76ee27eb0a9b1a3e59494ef462c145]: Textual amendment: Word in [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/1997/3032/schedule/2/paragraph/15) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 27(a)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/27/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+[^c-ce76ee27eb0a9b1a3e59494ef462c145]: Textual amendment: Word in [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/1997/3032/schedule/2/paragraph/15) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 27(a)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/27/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
 
-[^key-f8fea14eb496a1e384d741bb10988a66]: Textual amendment: Words in [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/1997/3032/schedule/2/paragraph/15) inserted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 27(b)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/27/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+[^c-f8fea14eb496a1e384d741bb10988a66]: Textual amendment: Words in [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/1997/3032/schedule/2/paragraph/15) inserted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 27(b)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/27/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
 
-[^key-69546d114c65ae9bcb8ac64db10a6a88]: Textual amendment: Words in Sch. 2 para. 15 substituted (1.4.2014) by virtue of [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 27(c)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/27/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+[^c-69546d114c65ae9bcb8ac64db10a6a88]: Textual amendment: Words in Sch. 2 para. 15 substituted (1.4.2014) by virtue of [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 27(c)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/27/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))

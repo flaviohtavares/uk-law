@@ -326,11 +326,11 @@ Classification
 
 ### PART 1 — Application for a marketing authorisation
 
-#### 1. Application for a marketing authorisation[^key-57e5fbfaa5924ac35c114d3842b8510b]
+#### 1. Application for a marketing authorisation[^c-57e5fbfaa5924ac35c114d3842b8510b]
 
 An application under these Regulations for a marketing authorisation for a veterinary medicinal product shall be made to the Secretary of State.
 
-#### 2. Information with the application[^key-53ec5ec0f13d82742d3608869bbe4e52]
+#### 2. Information with the application[^c-53ec5ec0f13d82742d3608869bbe4e52]
 
 (1) An application must include all necessary administrative information, and all scientific documentation necessary for demonstrating the safety, quality and efficacy of the product.
 
@@ -368,7 +368,7 @@ An application under these Regulations for a marketing authorisation for a veter
 
 (5) In the case of immunological products, the applicant must submit a description of the methods used to establish that the manufacturing process will consistently produce a veterinary medicinal product that is in accordance with the marketing authorisation.
 
-#### 3. Summary of product characteristics[^key-8ff79080cbb78e26744ef6b33773e4c3]
+#### 3. Summary of product characteristics[^c-8ff79080cbb78e26744ef6b33773e4c3]
 
 The summary of product characteristics required under the preceding paragraph shall include the following information, set out in the same format—
 
@@ -410,21 +410,21 @@ The summary of product characteristics required under the preceding paragraph sh
 </tbody>
 </table>
 
-#### 4. Supply of a copy of the summary of product characteristics[^key-57ec7129319c9176488f93bbf80273d3]
+#### 4. Supply of a copy of the summary of product characteristics[^c-57ec7129319c9176488f93bbf80273d3]
 
 A holder of a marketing authorisation must supply a copy of the summary of product characteristics to any person on demand.
 
-#### 5. Time limits for applications for products for use in food-producing animals[^key-6f2f8d4d54d68ca0c0347a20c6082800]
+#### 5. Time limits for applications for products for use in food-producing animals[^c-6f2f8d4d54d68ca0c0347a20c6082800]
 
 In the case of a veterinary medicinal product for food-producing animals (including food-producing horses), a marketing authorisation may not be applied for until at least six months after a valid application has been made for the establishment of a maximum residue limit in accordance with Council Regulation [(EEC) No. 2377/90](https://www.legislation.gov.uk/european/regulation/1990/2377).
 
 ### PART 2 — Derogations from some of the requirements in Part 1
 
-#### 6. Scope[^key-6992af9292b49d21470159fbc4bc51e8]
+#### 6. Scope[^c-6992af9292b49d21470159fbc4bc51e8]
 
 This Part provides for applications for marketing authorisations in which not all the information required in Part 1 is required, but for the avoidance of doubt any applicant may apply for a marketing authorisation using Part 1 if he wishes to do so.
 
-#### 7. Bibliographic application[^key-029b63ef45ca73fd86526525afe73092]
+#### 7. Bibliographic application[^c-029b63ef45ca73fd86526525afe73092]
 
 (1) An applicant for a marketing authorisation need not provide the results of safety tests, residue tests, pre-clinical trials or clinical trials if the active substance of the veterinary medicinal product has been in an authorised veterinary medicinal product for that species in the Community for at least ten years, and the applicant provides appropriate scientific literature to demonstrate this.
 
@@ -432,15 +432,15 @@ This Part provides for applications for marketing authorisations in which not al
 
 (3) If an applicant makes use of scientific literature to obtain authorisation for a food-producing species, and submits, in respect of the same medicinal product and with a view to obtaining authorisation for another food-producing species, new residue studies, together with further clinical trials, a third party may not use those studies or trials in an application for a pharmacologically equivalent product for a period of three years from the grant of the authorisation for the additional species.
 
-#### 8. Application for a product using a new combination of active substances[^key-f8c9feb25a987271d65c4ba166fb1b40]
+#### 8. Application for a product using a new combination of active substances[^c-f8c9feb25a987271d65c4ba166fb1b40]
 
 If an application is for a veterinary medicinal product containing active substances already used in an authorised veterinary medicinal product but not previously used in that combination in a veterinary medicinal product, he need not provide the safety and efficacy data for the individual active substances.
 
-#### 9. Application using existing data[^key-b966a850a538ff405397cf4ba31d8025]
+#### 9. Application using existing data[^c-b966a850a538ff405397cf4ba31d8025]
 
 If the Secretary of State has granted a marketing authorisation, the holder may permit him to use data submitted in support of that marketing authorisation when assessing an application for another marketing authorisation.
 
-#### 10. Application for a pharmacologically equivalent medicinal product[^key-b7cca4650a2bbe8a799360742d0a4119]
+#### 10. Application for a pharmacologically equivalent medicinal product[^c-b7cca4650a2bbe8a799360742d0a4119]
 
 (1) An applicant need not provide the results of safety tests, residue tests, pre-clinical trials or clinical trials if he can demonstrate that the veterinary medicinal product is pharmacologically equivalent to a veterinary medicinal product already authorised in the Community.
 
@@ -461,7 +461,7 @@ If the Secretary of State has granted a marketing authorisation, the holder may 
 
 (6) In the case of a reference product authorised in another member State but not in the United Kingdom, the Secretary of State must be satisfied that the risk-benefit balance of the original product is appropriate for the product to be placed on the market in the United Kingdom, and if the data provided under Article 13, third paragraph of Directive [2001/82/EC](https://www.legislation.gov.uk/european/directive/2001/0082) by the member State in which the product is authorised are insufficient for him to be satisfied of this, he may notify the applicant and require the applicant to provide further data.
 
-#### 11. Time limits for marketing authorisations granted under the procedure for a pharmacologically equivalent product[^key-773ee642079f5e98f1cdc63a1e6374e0]
+#### 11. Time limits for marketing authorisations granted under the procedure for a pharmacologically equivalent product[^c-773ee642079f5e98f1cdc63a1e6374e0]
 
 (1) This paragraph establishes the time limits relating to granting a marketing authorisation under the procedure for a pharmacologically equivalent product.
 
@@ -471,7 +471,7 @@ If the Secretary of State has granted a marketing authorisation, the holder may 
 
 (4) Time limits in this paragraph shall be calculated from the first grant of the marketing authorisation for the reference product.
 
-#### 12. Extension of time limits[^key-36e3e6caefc42de9ba042a9a7b41b063]
+#### 12. Extension of time limits[^c-36e3e6caefc42de9ba042a9a7b41b063]
 
 (1) This paragraph applies in relation to veterinary medicinal products that—
 
@@ -484,7 +484,7 @@ If the Secretary of State has granted a marketing authorisation, the holder may 
 
 (4) The extension applies only if the marketing authorisation holder originally applied for determination of the maximum residue limits for the active substance.
 
-#### 13. Parallel imports[^key-1bff2361d13573c6633dd135f5edea49]
+#### 13. Parallel imports[^c-1bff2361d13573c6633dd135f5edea49]
 
 (1) The Secretary of State may grant a marketing authorisation in relation to a veterinary medicinal product authorised in another member State and imported into the United Kingdom from that member State in accordance with this paragraph without the data required in Part 1 if the applicant can demonstrate compliance with this paragraph.
 
@@ -500,7 +500,7 @@ If the Secretary of State has granted a marketing authorisation, the holder may 
 
 (7) If re-labelling is to take place in the United Kingdom the applicant must also be (or have a contract with) the holder of a suitable manufacturing authorisation in the United Kingdom.
 
-#### 14. Specific batch control scheme[^key-dc0d0f68f91fe522254e2e49d358d8b2]
+#### 14. Specific batch control scheme[^c-dc0d0f68f91fe522254e2e49d358d8b2]
 
 (1) Where a veterinary medicinal product (other than a biological veterinary medicinal product) has been granted a marketing authorisation or an animal test certificate, and any starting material (active substance, excipient or packaging) or any batch of the product does not fully meet the requirements of the authorisation or animal test certificate, the holder may apply to the Secretary of State to place one or more batches on the market notwithstanding this.
 
@@ -510,41 +510,41 @@ If the Secretary of State has granted a marketing authorisation, the holder may 
 
 (4) In this paragraph a biological veterinary medicinal product is a veterinary medicinal product, the active substance of which is a biological substance; and a biological substance is a substance that is produced by or extracted from a biological source and for which a combination of physico-chemical-biological testing and the production process and its control is needed for its characterisation and the determination of its quality.
 
-#### 15. Similar immunological products[^key-20c02f2a023ec0bea01518600e719965]
+#### 15. Similar immunological products[^c-20c02f2a023ec0bea01518600e719965]
 
 Where an immunological veterinary medicinal product is pharmacologically equivalent to a reference product other than differences in raw materials or in the manufacturing process, the results of the appropriate pre-clinical tests or clinical trials must be provided, but the applicant need not provide the results of safety tests or residue tests.
 
-#### 16. Marketing in exceptional circumstances[^key-7cb68e3b019eb043b01e314c2e688659]
+#### 16. Marketing in exceptional circumstances[^c-7cb68e3b019eb043b01e314c2e688659]
 
 Where the health situation so requires, the Secretary of State may authorise the placing on the market of a veterinary medicinal product that has been authorised by another member State or, if there is no such authorised product, authorised in a third country.
 
 ### PART 3 — Grant of a marketing authorisation
 
-#### 17. Time limits[^key-121ed2334cd939470d593699d561e23c]
+#### 17. Time limits[^c-121ed2334cd939470d593699d561e23c]
 
 The Secretary of State shall ensure that the procedure for granting a marketing authorisation for a veterinary medicinal product is completed within a maximum of 210 days after the submission of the application.
 
-#### 18. Place of establishment of applicant[^key-beabca5d8a7b22f1ce72c38d614ecdc3]
+#### 18. Place of establishment of applicant[^c-beabca5d8a7b22f1ce72c38d614ecdc3]
 
 Only an applicant established in a member State may be granted a marketing authorisation.
 
-#### 19. Procedure[^key-3c5b9e454ad5570fa340fff1780e1ed8]
+#### 19. Procedure[^c-3c5b9e454ad5570fa340fff1780e1ed8]
 
 The Secretary of State may require the applicant to provide additional information or to generate additional data, including laboratory testing, or may require the applicant to provide samples of any medicinal product, its starting materials and intermediate products or other constituent materials so that he can test them in a laboratory.
 
-#### 20. Products authorised in another member State[^key-10f7d05f704c1d8d4efcf8eb5f9c8663]
+#### 20. Products authorised in another member State[^c-10f7d05f704c1d8d4efcf8eb5f9c8663]
 
 Where the Secretary of State is informed or discovers that another member State has authorised a veterinary medicinal product that is the subject of an application for authorisation by the Secretary of State, he shall reject the application unless it was submitted in accordance with the mutual recognition procedure or the decentralised procedure in Part 6.
 
-#### 21. Assessment reports[^key-bcebcb1ea5da75361a1f50965afbb518]
+#### 21. Assessment reports[^c-bcebcb1ea5da75361a1f50965afbb518]
 
 The Secretary of State shall produce an assessment of the dossier, consisting of an evaluation of the results of the pharmaceutical, safety and residue tests and the pre-clinical and clinical trials of the veterinary medicinal product concerned, and any additional related information.
 
-#### 22. Grant of a marketing authorisation[^key-a7c3dddd098ec67f0be328cf576dfda2]
+#### 22. Grant of a marketing authorisation[^c-a7c3dddd098ec67f0be328cf576dfda2]
 
 When granting a marketing authorisation, the Secretary of State shall inform the applicant of the summary of product characteristics that he has approved, and the distribution category of the product.
 
-#### 23. Marketing authorisations for food-producing species[^key-bbb0288e167e846d3ceca45b74d39132]
+#### 23. Marketing authorisations for food-producing species[^c-bbb0288e167e846d3ceca45b74d39132]
 
 (1) The Secretary of State shall not grant a marketing authorisation for a veterinary medicinal product for food-producing species unless all its pharmacologically active substances appear in Annex I, II or III to Council Regulation [(EEC) No. 2377/90](https://www.legislation.gov.uk/european/regulation/1990/2377).
 
@@ -559,7 +559,7 @@ but the product must not include an active substance that appears in Annex IV to
 
 (3) In this paragraph “horse” includes any member of the equidae family.
 
-#### 24. Refusal of a marketing authorisation[^key-e3d397dc59be8f1226abc74efac74317]
+#### 24. Refusal of a marketing authorisation[^c-e3d397dc59be8f1226abc74efac74317]
 
 (1) The Secretary of State shall refuse to grant a marketing authorisation if the application does not comply with these Regulations.
 
@@ -577,7 +577,7 @@ but the product must not include an active substance that appears in Annex IV to
 - (a) if there is Community legislation pending that is incompatible with the requested authorisation; or
 - (b) if he requests additional data and those data are not provided within such time limit as he may stipulate.
 
-#### 25. Publication following the grant of a marketing authorisation[^key-ea08ad33396e40cbec1e3fac4e145918]
+#### 25. Publication following the grant of a marketing authorisation[^c-ea08ad33396e40cbec1e3fac4e145918]
 
 (1) When he grants a marketing authorisation the Secretary of State shall publish—
 
@@ -589,13 +589,13 @@ but the product must not include an active substance that appears in Annex IV to
 
 (3) He shall send a copy of the assessment report, and any update, to the holder of the marketing authorisation before he publishes it to enable the holder to make representations to him concerning any confidential or personal information that may be in it, and may specify a date by which representations must be made.
 
-#### 26. Provisional marketing authorisation[^key-d05159de9823e500187266aaf75db190]
+#### 26. Provisional marketing authorisation[^c-d05159de9823e500187266aaf75db190]
 
 (1) In exceptional circumstances, the Secretary of State may grant a provisional marketing authorisation subject to a requirement for the applicant to provide further data.
 
 (2) The Secretary of State shall reassess the authorisation annually.
 
-#### 27. Provisions of samples and expertise[^key-4f8b59f82d2320ae1a2cf9aa1ae49132]
+#### 27. Provisions of samples and expertise[^c-4f8b59f82d2320ae1a2cf9aa1ae49132]
 
 (1) The Secretary of State may require a marketing authorisation holder to provide, at any time and at any stage of the manufacturing process, samples of starting materials or the veterinary medicinal product for testing.
 
@@ -603,7 +603,7 @@ but the product must not include an active substance that appears in Annex IV to
 
 (3) It is an offence to fail to comply with this paragraph or a requirement under it.
 
-#### 28. Supply of information[^key-e56c02d254192ec6e351f53ca5fa3bad]
+#### 28. Supply of information[^c-e56c02d254192ec6e351f53ca5fa3bad]
 
 (1) A marketing authorisation holder must immediately inform the Secretary of State if he receives any new information that might adversely affect the risk-benefit balance of the veterinary medicinal product.
 
@@ -613,19 +613,19 @@ but the product must not include an active substance that appears in Annex IV to
 
 (4) It is an offence to fail to comply with this paragraph or a requirement under it.
 
-#### 29. Duties on the holder of a marketing authorisation relating to an immunological product[^key-01d7842acd44a4a55bb2bef81b788939]
+#### 29. Duties on the holder of a marketing authorisation relating to an immunological product[^c-01d7842acd44a4a55bb2bef81b788939]
 
 (1) The holder of a marketing authorisation for an immunological product must submit to the Secretary of State the results of all tests carried out on each batch of the product at least fifteen days before he places the product on the market.
 
 (2) It is an offence to fail to comply with this paragraph.
 
-#### 30. Control tests[^key-ddec462afb927ca6bf41e598769f0643]
+#### 30. Control tests[^c-ddec462afb927ca6bf41e598769f0643]
 
 (1) The holder of a marketing authorisation must give to the Secretary of State on demand evidence that he has carried out all control tests required under the marketing authorisation, and the results of those tests.
 
 (2) It is an offence to fail to comply with this paragraph.
 
-#### 31. Placing on the market[^key-b0cdd2f117f0ebc86bdb82d8940f9aa5]
+#### 31. Placing on the market[^c-b0cdd2f117f0ebc86bdb82d8940f9aa5]
 
 (1) When a holder of a marketing authorisation first places the veterinary medicinal product on the market in the United Kingdom he must notify the Secretary of State that he has done so, and the date on which it was placed on the market.
 
@@ -638,7 +638,7 @@ but the product must not include an active substance that appears in Annex IV to
 
 (4) It is an offence to fail to comply with this paragraph.
 
-#### 32. Duration and validity of a marketing authorisation[^key-f5174e24154a83200e885061d6f506fb]
+#### 32. Duration and validity of a marketing authorisation[^c-f5174e24154a83200e885061d6f506fb]
 
 (1) A marketing authorisation is initially valid for five years.
 
@@ -662,11 +662,11 @@ but the product must not include an active substance that appears in Annex IV to
 
 ### PART 4 — Variations of marketing authorisations on the application of the holder
 
-#### 33. Variation of a marketing authorisation for a mutually recognised veterinary medicinal product[^key-102ae3cd1579294ea92d4ec336aa179d]
+#### 33. Variation of a marketing authorisation for a mutually recognised veterinary medicinal product[^c-102ae3cd1579294ea92d4ec336aa179d]
 
 Where a veterinary medicinal product is authorised in more than one member State, the Secretary of State is the competent authority for the purposes of Commission Regulation [(EC) No. 1084/2003](https://www.legislation.gov.uk/european/regulation/2003/1084) (concerning the examination of variations to the terms of a marketing authorisation for medicinal products for human use and veterinary medicinal products granted by a competent authority of a member State)[^f00022].
 
-#### 34. Variation of a marketing authorisation not authorised in another member State[^key-e6ad2d12087d2e4b14f6af1692b2c2be]
+#### 34. Variation of a marketing authorisation not authorised in another member State[^c-e6ad2d12087d2e4b14f6af1692b2c2be]
 
 (1) Where a veterinary medicinal product is not authorised in another member State, an application to vary it shall be made by the holder to the Secretary of State.
 
@@ -674,17 +674,17 @@ Where a veterinary medicinal product is authorised in more than one member State
 
 (3) In granting a variation of a veterinary medicinal product the Secretary of State shall (unless there are exceptional circumstances necessary to protect human or animal health or the environment) specify transitional measures to enable products produced in accordance with the previous authorisation to continue to be marketed for the transitional period.
 
-#### 35. Administrative variations[^key-5805defe424757f67c31bf8071be3d39]
+#### 35. Administrative variations[^c-5805defe424757f67c31bf8071be3d39]
 
 (1) The holder of a marketing authorisation may apply for a minor change in a marketing authorisation to be made without the Secretary of State considering any scientific data (an “administrative variation”).
 
 (2) If the Secretary of State grants an administrative variation, and subsequently establishes that this should have been a variation requiring consideration of scientific data, he shall notify the marketing authorisation holder, require him to submit an application for a variation enabling data to be assessed and revoke the administrative variation.
 
-#### 36. Changes after a marketing authorisation has been issued[^key-31b2cf10d4c5d01339c5cba106688391]
+#### 36. Changes after a marketing authorisation has been issued[^c-31b2cf10d4c5d01339c5cba106688391]
 
 After a marketing authorisation has been issued, the holder must take account of scientific and technical progress in manufacturing and control methods, and apply to the Secretary of State for any variation in the marketing authorisation that may be required to enable that veterinary medicinal product to be manufactured and checked by means of generally accepted scientific methods.
 
-#### 37. Compulsory variation[^key-3f39543206dffe0d87c52fb3e5d381fb]
+#### 37. Compulsory variation[^c-3f39543206dffe0d87c52fb3e5d381fb]
 
 (1) If the Secretary of State decides, in order to protect human or animal heath or the environment, that a variation to a marketing authorisation is necessary, he shall notify the marketing authorisation holder in writing of the required variation, together with his reasons.
 
@@ -694,7 +694,7 @@ After a marketing authorisation has been issued, the holder must take account of
 
 ### PART 5 — Suspension, etc. of a marketing authorisation
 
-#### 38. Suspension, etc. of a marketing authorisation[^key-dfec1fae56244a1271423d554d2ad0d7]
+#### 38. Suspension, etc. of a marketing authorisation[^c-dfec1fae56244a1271423d554d2ad0d7]
 
 (1) The Secretary of State may suspend, vary or revoke a marketing authorisation at any time if he is satisfied that—
 
@@ -717,13 +717,13 @@ After a marketing authorisation has been issued, the holder must take account of
 
 (5) He shall publicise a revocation in such manner as he sees fit.
 
-#### 39. Suspension, etc. of a marketing authorisation of a product authorised in more than one member State[^key-2bc7446cdc446c65b4bc945a14ff2c6e]
+#### 39. Suspension, etc. of a marketing authorisation of a product authorised in more than one member State[^c-2bc7446cdc446c65b4bc945a14ff2c6e]
 
 (1) In the case of a veterinary medicinal product that is authorised in more than one member State, where the Secretary of State considers that a variation, suspension or revocation is necessary for the protection of human or animal health or the environment, he shall immediately refer the matter to the Agency, and shall comply with a decision of the Commission within 30 days of the decision.
 
 (2) Where the Secretary of State considers that immediate suspension is necessary to protect human or animal health or the environment, he may suspend the marketing and the use of the veterinary medicinal product concerned in the United Kingdom pending a decision of the Agency, and in this case he shall inform the Commission and the other member States no later than the following working day of the reasons for his action.
 
-#### 40. Prohibiting the supply of veterinary medicinal products[^key-082ff6291583b16515b603c715d451dd]
+#### 40. Prohibiting the supply of veterinary medicinal products[^c-082ff6291583b16515b603c715d451dd]
 
 (1) In addition to his powers to suspend a marketing authorisation, if he is satisfied that a product has not been manufactured in accordance with the marketing authorisation the Secretary of State may prohibit the supply of a veterinary medicinal product, and if necessary require the marketing authorisation holder to recall it, and failure to comply with a requirement or prohibition under this sub-paragraph is an offence.
 
@@ -733,7 +733,7 @@ After a marketing authorisation has been issued, the holder must take account of
 
 ### PART 6 — Mutual recognition and multiple applications
 
-#### 41. Application for a marketing authorisation where one already exists in another member State[^key-3b6dc29fc6b80907195c3d1d748661a8]
+#### 41. Application for a marketing authorisation where one already exists in another member State[^c-3b6dc29fc6b80907195c3d1d748661a8]
 
 (1) If a veterinary medicinal product has already received a marketing authorisation in another member State at the time of application, and the holder of the marketing authorisation applies for a marketing authorisation in the United Kingdom, the following procedure (“the mutual recognition procedure”) applies.
 
@@ -763,7 +763,7 @@ the Secretary of State shall within 30 days comply with the decision of the coor
 
 (10) The Secretary of State may grant the marketing authorisation even though not all member States have agreed to grant it, but shall revoke or vary the authorisation if this is necessary to comply with the decision of the Commission when it is received.
 
-#### 42. Application in another member State[^key-23db1edce0081515739ad091329dd602]
+#### 42. Application in another member State[^c-23db1edce0081515739ad091329dd602]
 
 (1) When the Secretary of State has granted a marketing authorisation for a veterinary medicinal product and he is notified by the marketing authorisation holder that he has applied to have that veterinary medicinal product authorised in another member State, he shall prepare an assessment report for the product within 90 days of the notification and send it to the member State or States concerned.
 
@@ -773,7 +773,7 @@ the Secretary of State shall within 30 days comply with the decision of the coor
 
 (4) The Secretary of State shall within 30 days comply with the decision of the coordination group or, if the coordination group refers the matter to the Agency, the decision of the Commission.
 
-#### 43. Application for a marketing authorisation in multiple member States where a marketing authorisation does not exist in any member State[^key-55139ba9ab52597976920b875378b598]
+#### 43. Application for a marketing authorisation in multiple member States where a marketing authorisation does not exist in any member State[^c-55139ba9ab52597976920b875378b598]
 
 (1) If an applicant wishes to apply for a marketing authorisation in more than one member State, and a marketing authorisation does not exist in any member State for the product (“the decentralised procedure”), he must—
 
@@ -801,21 +801,21 @@ the Secretary of State shall within 30 days comply with the decision of the coor
 
 ### PART 7 — Labelling and package leaflets
 
-#### 44. Approval by the Secretary of State[^key-fb575b2895838f385c40991b4d96a08b]
+#### 44. Approval by the Secretary of State[^c-fb575b2895838f385c40991b4d96a08b]
 
 When the Secretary of State issues the marketing authorisation he shall approve all containers, packaging, labels and package leaflets.
 
-#### 45. Reference to being authorised[^key-df8f82b7487e38cb85df4f3fe5d994da]
+#### 45. Reference to being authorised[^c-df8f82b7487e38cb85df4f3fe5d994da]
 
 A label and package leaflet of an authorised veterinary medicinal product may contain in legible characters the words “UK authorised veterinary medicinal product” or, if the marketing authorisation provides, other wording specified in the authorisation indicating that the product is authorised in the United Kingdom.
 
-#### 46. Language[^key-ef16054906a39d53d292b101ba15c171]
+#### 46. Language[^c-ef16054906a39d53d292b101ba15c171]
 
 (1) All labels and package leaflets must be in English, but may contain other languages provided that the information given is identical in all the languages.
 
 (2) This requirement does not apply in the case of a product imported by a veterinary surgeon and administered by or under the supervision of that same veterinary surgeon.
 
-#### 47. Labelling with all the information on the immediate packaging[^key-8f10a49f3cf9a7a9ad5c22cf7f70d5be]
+#### 47. Labelling with all the information on the immediate packaging[^c-8f10a49f3cf9a7a9ad5c22cf7f70d5be]
 
 (1) If it is reasonably practicable to do so, the following must be provided on the immediate packaging, in legible characters—
 
@@ -845,7 +845,7 @@ A label and package leaflet of an authorised veterinary medicinal product may co
 
 (2) If all this is on the immediate packaging, there is no need for any outer packaging or a package leaflet.
 
-#### 48. Products with immediate and outer packaging[^key-208430ee0d2f51640398f7a0dd31f17d]
+#### 48. Products with immediate and outer packaging[^c-208430ee0d2f51640398f7a0dd31f17d]
 
 (1) If it is not reasonably practicable to have all the information on the immediate packaging then this paragraph applies.
 
@@ -863,7 +863,7 @@ A label and package leaflet of an authorised veterinary medicinal product may co
 
 (4) The outer packaging must contain all the information in paragraph 47 if it is reasonably practicable to do this, and if it is not reasonably practicable to do this a package leaflet must be supplied with the product in accordance with the following paragraph.
 
-#### 49. Package leaflets[^key-1c482c068da2e70252e4c426ae51a9ae]
+#### 49. Package leaflets[^c-1c482c068da2e70252e4c426ae51a9ae]
 
 (1) If it is not reasonably practicable to have all the information in paragraph 47 on the immediate packaging or all of this information on the outer packaging, there must be a package leaflet supplied with the product, containing all the information in paragraph 47 except for the batch number and the expiry date, and including the name of both the marketing authorisation holder and, if different, the name of the distributor named in the marketing authorisation.
 
@@ -875,7 +875,7 @@ A label and package leaflet of an authorised veterinary medicinal product may co
 
 (5) Only a package leaflet approved in the marketing authorisation may be included with the veterinary medicinal product.
 
-#### 50. Ampoules[^key-bb816e9628f10cdf68f7490de3de8361]
+#### 50. Ampoules[^c-bb816e9628f10cdf68f7490de3de8361]
 
 (1) In the case of ampoules or other unit dose forms, where the container cannot bear legibly the required information, only the following information must be shown on the immediate packaging—
 
@@ -888,11 +888,11 @@ A label and package leaflet of an authorised veterinary medicinal product may co
 
 (2) The outer packaging must contain all the information in paragraph 47 if it is reasonably practicable to do this, and if it is not reasonably practicable to do this a package leaflet must be supplied with the product, except that the ampoule need not refer to the package leaflet.
 
-#### 51. Small containers other than ampoules[^key-a771ce4616f7fd1e4c6feb4b424b496c]
+#### 51. Small containers other than ampoules[^c-a771ce4616f7fd1e4c6feb4b424b496c]
 
 As regards small immediate packaging containing a single dose, other than ampoules, on which it is impossible to give the particulars mentioned in paragraph 47, all the information in paragraph 47 must appear on the outer packaging or outer packaging and package leaflet, but the immediate packaging must be labelled with the batch number and the expiry date and, if there is room, the other information in the preceding paragraph.
 
-#### 52. Homeopathic remedies[^key-795e733dfc05a177f9d40dd0274da873]
+#### 52. Homeopathic remedies[^c-795e733dfc05a177f9d40dd0274da873]
 
 (1) A homeopathic remedy registered under these Regulations must be labelled in accordance with this paragraph.
 
@@ -913,19 +913,19 @@ As regards small immediate packaging containing a single dose, other than ampoul
 - (k) the batch number; and
 - (l) the registration number.
 
-#### 53. Variations[^key-7609dbfc7ddbca78fcca11954b1415f8]
+#### 53. Variations[^c-7609dbfc7ddbca78fcca11954b1415f8]
 
 The Secretary of State may permit variations in the above in any individual marketing authorisation if this is necessary for public or animal health purposes or the protection of the environment.
 
 ### PART 8 — Pharmacovigilance
 
-#### 54. Qualified persons responsible for pharmacovigilance[^key-f63dea4b8a1b1a2196b7a38a88434902]
+#### 54. Qualified persons responsible for pharmacovigilance[^c-f63dea4b8a1b1a2196b7a38a88434902]
 
 (1) A marketing authorisation holder must have permanently and continuously at his disposal an appropriately qualified person responsible for pharmacovigilance (“a qualified person (pharmacovigilance)”) who resides in a member State.
 
 (2) It is an offence to fail to comply with this paragraph.
 
-#### 55. Duties relating to the qualified person[^key-c3aff4d2a1cbe0d1c213ac9d81f76be3]
+#### 55. Duties relating to the qualified person[^c-c3aff4d2a1cbe0d1c213ac9d81f76be3]
 
 (1) The marketing authorisation holder must ensure that the qualified person (pharmacovigilance)—
 
@@ -935,7 +935,7 @@ The Secretary of State may permit variations in the above in any individual mark
 
 (2) It is an offence to fail to comply with this paragraph.
 
-#### 56. Adverse reactions to a veterinary medicinal product administered in the United Kingdom[^key-6a355aeb100a3e6364873449ecfc1440]
+#### 56. Adverse reactions to a veterinary medicinal product administered in the United Kingdom[^c-6a355aeb100a3e6364873449ecfc1440]
 
 (1) A marketing authorisation holder must act in accordance with this paragraph if he learns of any suspected—
 
@@ -958,7 +958,7 @@ following the administration of the product in the United Kingdom.
 
 (6) It is an offence to fail to comply with this paragraph.
 
-#### 57. Adverse reactions to a veterinary medicinal product administered in a third country[^key-adc88a1e82cd697be0048f84eea610b8]
+#### 57. Adverse reactions to a veterinary medicinal product administered in a third country[^c-adc88a1e82cd697be0048f84eea610b8]
 
 (1) A marketing authorisation holder for a veterinary medicinal product authorised in the United Kingdom must act in accordance with this paragraph if he learns of any suspected—
 
@@ -976,7 +976,7 @@ following the administration of the product in a third country.
 
 (5) It is an offence to fail to comply with this paragraph.
 
-#### 58. Periodic safety update reports[^key-a76930c06cf3942e6d97eef8fbd025ef]
+#### 58. Periodic safety update reports[^c-a76930c06cf3942e6d97eef8fbd025ef]
 
 (1) The marketing authorisation holder must submit to the Secretary of State records of all adverse reactions (including nil reports) in the form of a periodic safety update report for each marketing authorisation in accordance with this paragraph, including a summary of each incident and a list of all the symptoms using internationally recognised veterinary and medical terminology.
 
@@ -1008,7 +1008,7 @@ following the administration of the product in a third country.
 
 (9) It is an offence to fail to comply with this paragraph.
 
-#### 59. Release of information by the marketing authorisation holder[^key-6e7bdc4016aae0d4be9f917796057e08]
+#### 59. Release of information by the marketing authorisation holder[^c-6e7bdc4016aae0d4be9f917796057e08]
 
 (1) A marketing authorisation holder must not communicate information relating to pharmacovigilance concerns to the general public in relation to its authorised veterinary medicinal product without giving prior or simultaneous notification to the Secretary of State.
 
@@ -1016,7 +1016,7 @@ following the administration of the product in a third country.
 
 (3) It is an offence to fail to comply with this paragraph.
 
-#### 60. Action taken on account of pharmacovigilance[^key-631f4473ac08bf74a32c7507b3a6e59e]
+#### 60. Action taken on account of pharmacovigilance[^c-631f4473ac08bf74a32c7507b3a6e59e]
 
 (1) Where, as a result of the evaluation of veterinary pharmacovigilance data, the Secretary of State considers that a marketing authorisation should be—
 
@@ -1039,11 +1039,11 @@ he shall forthwith inform the Agency, all other member States (irrespective of w
 
 ### PART 9 — Homeopathic remedies
 
-#### 61. Meaning of “homeopathic remedy”[^key-80894896948fba5f1476bcfd1c397728]
+#### 61. Meaning of “homeopathic remedy”[^c-80894896948fba5f1476bcfd1c397728]
 
 For the purposes of these Regulations, a homeopathic remedy is a veterinary medicinal product (which may contain a number of principles) prepared from homeopathic stocks in accordance with a homeopathic manufacturing procedure described in the European Pharmacopoeia[^f00024] or, if it is not described there, in a pharmacopoeia published by the British Pharmacopoeial Commission or by the competent authority of any member State.
 
-#### 62. Placing a homeopathic remedy on the market in accordance with a registration[^key-c86902c37fb97033ef4d7c0d76f085e4]
+#### 62. Placing a homeopathic remedy on the market in accordance with a registration[^c-c86902c37fb97033ef4d7c0d76f085e4]
 
 (1) By way of derogation from the provisions of these Regulations requiring a marketing authorisation for a veterinary medicinal product, a homeopathic remedy may be placed on the market in accordance with a registration by the Secretary of State instead of in accordance with a marketing authorisation if it complies with this paragraph.
 
@@ -1055,7 +1055,7 @@ For the purposes of these Regulations, a homeopathic remedy is a veterinary medi
 
 (5) All other provisions relating to marketing authorisations apply in the same way to registrations of a homeopathic remedy.
 
-#### 63. Application for registration[^key-a4f41e7ae7128e86ad4d407492a0509f]
+#### 63. Application for registration[^c-a4f41e7ae7128e86ad4d407492a0509f]
 
 (1) An applicant for registration must submit the following to the Secretary of State—
 
@@ -1075,7 +1075,7 @@ For the purposes of these Regulations, a homeopathic remedy is a veterinary medi
 
 (4) If a product is registered in another member State, the Secretary of State may waive some or all of the requirements of this paragraph if he is satisfied that it is reasonable to do so.
 
-#### 64. Procedure for registration[^key-8dcbf072910feefaed5bce4a428b26c2]
+#### 64. Procedure for registration[^c-8dcbf072910feefaed5bce4a428b26c2]
 
 (1) The procedure for registration is the same as the procedure for granting a marketing authorisation in accordance with Part 3, except—
 
@@ -1085,65 +1085,65 @@ For the purposes of these Regulations, a homeopathic remedy is a veterinary medi
 
 (2) The procedure for variation, suspension and revocation is the same as for a marketing authorisation.
 
-#### 65. Products on the market before 1994[^key-314d041194e4dbe12a48ea7a9e606150]
+#### 65. Products on the market before 1994[^c-314d041194e4dbe12a48ea7a9e606150]
 
 A homeopathic remedy that was on the market before 1st January 1994 may be placed on the market without being registered.
 
-#### 66. Classification[^key-5b9d27e756f9954f0bb8f7deade2ed72]
+#### 66. Classification[^c-5b9d27e756f9954f0bb8f7deade2ed72]
 
 The registration must specify the classification of the homeopathic remedy, which must be one of the classifications specified for a veterinary medicinal product in Schedule 3.
 
 ## Annotations
 
-[^key-57e5fbfaa5924ac35c114d3842b8510b]: Commencement: Sch. 1 para. 1 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-57e5fbfaa5924ac35c114d3842b8510b]: Commencement: Sch. 1 para. 1 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-53ec5ec0f13d82742d3608869bbe4e52]: Commencement: Sch. 1 para. 2 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-53ec5ec0f13d82742d3608869bbe4e52]: Commencement: Sch. 1 para. 2 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
 [^f00016]: Footnote: OJ No. L 311, 28.11.2001, p. 1 as amended by Directive [2004/28/EC](https://www.legislation.gov.uk/european/directive/2004/0028) of the European Parliament and of the Council (OJ No. L 136, 30.4.2004, p. 58).
 
 [^f00017]: Footnote: OJ No. L 224, 18.8.1990, p. 1 as last amended by Commission Regulation [(EC) No. 869/2005](https://www.legislation.gov.uk/european/regulation/2005/0869) (OJ No. L 145, 9.6.2005, p. 19).
 
-[^key-8ff79080cbb78e26744ef6b33773e4c3]: Commencement: Sch. 1 para. 3 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-8ff79080cbb78e26744ef6b33773e4c3]: Commencement: Sch. 1 para. 3 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-57ec7129319c9176488f93bbf80273d3]: Commencement: Sch. 1 para. 4 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-57ec7129319c9176488f93bbf80273d3]: Commencement: Sch. 1 para. 4 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-6f2f8d4d54d68ca0c0347a20c6082800]: Commencement: Sch. 1 para. 5 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-6f2f8d4d54d68ca0c0347a20c6082800]: Commencement: Sch. 1 para. 5 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-6992af9292b49d21470159fbc4bc51e8]: Commencement: Sch. 1 para. 6 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-6992af9292b49d21470159fbc4bc51e8]: Commencement: Sch. 1 para. 6 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-029b63ef45ca73fd86526525afe73092]: Commencement: Sch. 1 para. 7 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-029b63ef45ca73fd86526525afe73092]: Commencement: Sch. 1 para. 7 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-f8c9feb25a987271d65c4ba166fb1b40]: Commencement: Sch. 1 para. 8 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-f8c9feb25a987271d65c4ba166fb1b40]: Commencement: Sch. 1 para. 8 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-b966a850a538ff405397cf4ba31d8025]: Commencement: Sch. 1 para. 9 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-b966a850a538ff405397cf4ba31d8025]: Commencement: Sch. 1 para. 9 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-b7cca4650a2bbe8a799360742d0a4119]: Commencement: Sch. 1 para. 10 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-b7cca4650a2bbe8a799360742d0a4119]: Commencement: Sch. 1 para. 10 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-773ee642079f5e98f1cdc63a1e6374e0]: Commencement: Sch. 1 para. 11 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-773ee642079f5e98f1cdc63a1e6374e0]: Commencement: Sch. 1 para. 11 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-36e3e6caefc42de9ba042a9a7b41b063]: Commencement: Sch. 1 para. 12 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-36e3e6caefc42de9ba042a9a7b41b063]: Commencement: Sch. 1 para. 12 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-1bff2361d13573c6633dd135f5edea49]: Commencement: Sch. 1 para. 13 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-1bff2361d13573c6633dd135f5edea49]: Commencement: Sch. 1 para. 13 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-dc0d0f68f91fe522254e2e49d358d8b2]: Commencement: Sch. 1 para. 14 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-dc0d0f68f91fe522254e2e49d358d8b2]: Commencement: Sch. 1 para. 14 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-20c02f2a023ec0bea01518600e719965]: Commencement: Sch. 1 para. 15 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-20c02f2a023ec0bea01518600e719965]: Commencement: Sch. 1 para. 15 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-7cb68e3b019eb043b01e314c2e688659]: Commencement: Sch. 1 para. 16 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-7cb68e3b019eb043b01e314c2e688659]: Commencement: Sch. 1 para. 16 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-121ed2334cd939470d593699d561e23c]: Commencement: Sch. 1 para. 17 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-121ed2334cd939470d593699d561e23c]: Commencement: Sch. 1 para. 17 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-beabca5d8a7b22f1ce72c38d614ecdc3]: Commencement: Sch. 1 para. 18 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-beabca5d8a7b22f1ce72c38d614ecdc3]: Commencement: Sch. 1 para. 18 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-3c5b9e454ad5570fa340fff1780e1ed8]: Commencement: Sch. 1 para. 19 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-3c5b9e454ad5570fa340fff1780e1ed8]: Commencement: Sch. 1 para. 19 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-10f7d05f704c1d8d4efcf8eb5f9c8663]: Commencement: Sch. 1 para. 20 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-10f7d05f704c1d8d4efcf8eb5f9c8663]: Commencement: Sch. 1 para. 20 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-bcebcb1ea5da75361a1f50965afbb518]: Commencement: Sch. 1 para. 21 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-bcebcb1ea5da75361a1f50965afbb518]: Commencement: Sch. 1 para. 21 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-a7c3dddd098ec67f0be328cf576dfda2]: Commencement: Sch. 1 para. 22 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-a7c3dddd098ec67f0be328cf576dfda2]: Commencement: Sch. 1 para. 22 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-bbb0288e167e846d3ceca45b74d39132]: Commencement: Sch. 1 para. 23 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-bbb0288e167e846d3ceca45b74d39132]: Commencement: Sch. 1 para. 23 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
 [^f00018]: Footnote: S.I. [2004/1397](https://www.legislation.gov.uk/uksi/2004/1397).
 
@@ -1153,94 +1153,94 @@ The registration must specify the classification of the homeopathic remedy, whic
 
 [^f00021]: Footnote: S.I. [2005/231 (W. 21)](https://www.legislation.gov.uk/wsi/2005/231).
 
-[^key-e3d397dc59be8f1226abc74efac74317]: Commencement: Sch. 1 para. 24 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-e3d397dc59be8f1226abc74efac74317]: Commencement: Sch. 1 para. 24 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-ea08ad33396e40cbec1e3fac4e145918]: Commencement: Sch. 1 para. 25 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-ea08ad33396e40cbec1e3fac4e145918]: Commencement: Sch. 1 para. 25 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-d05159de9823e500187266aaf75db190]: Commencement: Sch. 1 para. 26 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-d05159de9823e500187266aaf75db190]: Commencement: Sch. 1 para. 26 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-4f8b59f82d2320ae1a2cf9aa1ae49132]: Commencement: Sch. 1 para. 27 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-4f8b59f82d2320ae1a2cf9aa1ae49132]: Commencement: Sch. 1 para. 27 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-e56c02d254192ec6e351f53ca5fa3bad]: Commencement: Sch. 1 para. 28 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-e56c02d254192ec6e351f53ca5fa3bad]: Commencement: Sch. 1 para. 28 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-01d7842acd44a4a55bb2bef81b788939]: Commencement: Sch. 1 para. 29 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-01d7842acd44a4a55bb2bef81b788939]: Commencement: Sch. 1 para. 29 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-ddec462afb927ca6bf41e598769f0643]: Commencement: Sch. 1 para. 30 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-ddec462afb927ca6bf41e598769f0643]: Commencement: Sch. 1 para. 30 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-b0cdd2f117f0ebc86bdb82d8940f9aa5]: Commencement: Sch. 1 para. 31 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-b0cdd2f117f0ebc86bdb82d8940f9aa5]: Commencement: Sch. 1 para. 31 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-f5174e24154a83200e885061d6f506fb]: Commencement: Sch. 1 para. 32 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-f5174e24154a83200e885061d6f506fb]: Commencement: Sch. 1 para. 32 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-102ae3cd1579294ea92d4ec336aa179d]: Commencement: Sch. 1 para. 33 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-102ae3cd1579294ea92d4ec336aa179d]: Commencement: Sch. 1 para. 33 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
 [^f00022]: Footnote: OJ No. L 159, 27.6.2003, p. 1.
 
-[^key-e6ad2d12087d2e4b14f6af1692b2c2be]: Commencement: Sch. 1 para. 34 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-e6ad2d12087d2e4b14f6af1692b2c2be]: Commencement: Sch. 1 para. 34 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-5805defe424757f67c31bf8071be3d39]: Commencement: Sch. 1 para. 35 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-5805defe424757f67c31bf8071be3d39]: Commencement: Sch. 1 para. 35 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-31b2cf10d4c5d01339c5cba106688391]: Commencement: Sch. 1 para. 36 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-31b2cf10d4c5d01339c5cba106688391]: Commencement: Sch. 1 para. 36 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-3f39543206dffe0d87c52fb3e5d381fb]: Commencement: Sch. 1 para. 37 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-3f39543206dffe0d87c52fb3e5d381fb]: Commencement: Sch. 1 para. 37 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-dfec1fae56244a1271423d554d2ad0d7]: Commencement: Sch. 1 para. 38 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-dfec1fae56244a1271423d554d2ad0d7]: Commencement: Sch. 1 para. 38 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-2bc7446cdc446c65b4bc945a14ff2c6e]: Commencement: Sch. 1 para. 39 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-2bc7446cdc446c65b4bc945a14ff2c6e]: Commencement: Sch. 1 para. 39 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-082ff6291583b16515b603c715d451dd]: Commencement: Sch. 1 para. 40 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-082ff6291583b16515b603c715d451dd]: Commencement: Sch. 1 para. 40 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-3b6dc29fc6b80907195c3d1d748661a8]: Commencement: Sch. 1 para. 41 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-3b6dc29fc6b80907195c3d1d748661a8]: Commencement: Sch. 1 para. 41 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-23db1edce0081515739ad091329dd602]: Commencement: Sch. 1 para. 42 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-23db1edce0081515739ad091329dd602]: Commencement: Sch. 1 para. 42 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-55139ba9ab52597976920b875378b598]: Commencement: Sch. 1 para. 43 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-55139ba9ab52597976920b875378b598]: Commencement: Sch. 1 para. 43 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-fb575b2895838f385c40991b4d96a08b]: Commencement: Sch. 1 para. 44 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-fb575b2895838f385c40991b4d96a08b]: Commencement: Sch. 1 para. 44 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-df8f82b7487e38cb85df4f3fe5d994da]: Commencement: Sch. 1 para. 45 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-df8f82b7487e38cb85df4f3fe5d994da]: Commencement: Sch. 1 para. 45 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-ef16054906a39d53d292b101ba15c171]: Commencement: Sch. 1 para. 46 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-ef16054906a39d53d292b101ba15c171]: Commencement: Sch. 1 para. 46 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-8f10a49f3cf9a7a9ad5c22cf7f70d5be]: Commencement: Sch. 1 para. 47 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-8f10a49f3cf9a7a9ad5c22cf7f70d5be]: Commencement: Sch. 1 para. 47 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-208430ee0d2f51640398f7a0dd31f17d]: Commencement: Sch. 1 para. 48 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-208430ee0d2f51640398f7a0dd31f17d]: Commencement: Sch. 1 para. 48 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-1c482c068da2e70252e4c426ae51a9ae]: Commencement: Sch. 1 para. 49 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-1c482c068da2e70252e4c426ae51a9ae]: Commencement: Sch. 1 para. 49 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-bb816e9628f10cdf68f7490de3de8361]: Commencement: Sch. 1 para. 50 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-bb816e9628f10cdf68f7490de3de8361]: Commencement: Sch. 1 para. 50 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-a771ce4616f7fd1e4c6feb4b424b496c]: Commencement: Sch. 1 para. 51 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-a771ce4616f7fd1e4c6feb4b424b496c]: Commencement: Sch. 1 para. 51 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-795e733dfc05a177f9d40dd0274da873]: Commencement: Sch. 1 para. 52 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-795e733dfc05a177f9d40dd0274da873]: Commencement: Sch. 1 para. 52 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-7609dbfc7ddbca78fcca11954b1415f8]: Commencement: Sch. 1 para. 53 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-7609dbfc7ddbca78fcca11954b1415f8]: Commencement: Sch. 1 para. 53 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-f63dea4b8a1b1a2196b7a38a88434902]: Commencement: Sch. 1 para. 54 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-f63dea4b8a1b1a2196b7a38a88434902]: Commencement: Sch. 1 para. 54 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-c3aff4d2a1cbe0d1c213ac9d81f76be3]: Commencement: Sch. 1 para. 55 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-c3aff4d2a1cbe0d1c213ac9d81f76be3]: Commencement: Sch. 1 para. 55 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-6a355aeb100a3e6364873449ecfc1440]: Commencement: Sch. 1 para. 56 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-6a355aeb100a3e6364873449ecfc1440]: Commencement: Sch. 1 para. 56 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
 [^f00023]: Footnote: A list of clinical terms for reporting suspected adverse reactions to veterinary medicinal products (the Veterinary Dictionary for Drug Regulatory Activities) is published by the Committee for Medicinal Products for Veterinary Use. It is available at www.veddra.org
 
-[^key-adc88a1e82cd697be0048f84eea610b8]: Commencement: Sch. 1 para. 57 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-adc88a1e82cd697be0048f84eea610b8]: Commencement: Sch. 1 para. 57 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-a76930c06cf3942e6d97eef8fbd025ef]: Commencement: Sch. 1 para. 58 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-a76930c06cf3942e6d97eef8fbd025ef]: Commencement: Sch. 1 para. 58 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-6e7bdc4016aae0d4be9f917796057e08]: Commencement: Sch. 1 para. 59 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-6e7bdc4016aae0d4be9f917796057e08]: Commencement: Sch. 1 para. 59 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-631f4473ac08bf74a32c7507b3a6e59e]: Commencement: Sch. 1 para. 60 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-631f4473ac08bf74a32c7507b3a6e59e]: Commencement: Sch. 1 para. 60 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-80894896948fba5f1476bcfd1c397728]: Commencement: Sch. 1 para. 61 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-80894896948fba5f1476bcfd1c397728]: Commencement: Sch. 1 para. 61 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
 [^f00024]: Footnote: ISBN 9287145873.
 
-[^key-c86902c37fb97033ef4d7c0d76f085e4]: Commencement: Sch. 1 para. 62 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-c86902c37fb97033ef4d7c0d76f085e4]: Commencement: Sch. 1 para. 62 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-a4f41e7ae7128e86ad4d407492a0509f]: Commencement: Sch. 1 para. 63 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-a4f41e7ae7128e86ad4d407492a0509f]: Commencement: Sch. 1 para. 63 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-8dcbf072910feefaed5bce4a428b26c2]: Commencement: Sch. 1 para. 64 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-8dcbf072910feefaed5bce4a428b26c2]: Commencement: Sch. 1 para. 64 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-314d041194e4dbe12a48ea7a9e606150]: Commencement: Sch. 1 para. 65 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-314d041194e4dbe12a48ea7a9e606150]: Commencement: Sch. 1 para. 65 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-5b9d27e756f9954f0bb8f7deade2ed72]: Commencement: Sch. 1 para. 66 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-5b9d27e756f9954f0bb8f7deade2ed72]: Commencement: Sch. 1 para. 66 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)

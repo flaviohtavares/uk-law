@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 207. Extent[^key-0988287cacf47d7b02989745f37429b4]
+## 207. Extent[^c-0988287cacf47d7b02989745f37429b4]
 
 *Extent: E+W+S+N.I.*
 
@@ -70,4 +70,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0988287cacf47d7b02989745f37429b4]: Commencement: S. 207 in force at Royal Assent, see [s. 208(4)(ac)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/ac)
+[^c-0988287cacf47d7b02989745f37429b4]: Commencement: S. 207 in force at Royal Assent, see [s. 208(4)(ac)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/ac)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 88. Subordinate legislation[^key-1051a08db32ce084dc5c38ce02f5be3a][^key-c3e6e7b6c2beb860427b6f679b34db3b]
+## 88. Subordinate legislation[^c-1051a08db32ce084dc5c38ce02f5be3a][^c-c3e6e7b6c2beb860427b6f679b34db3b]
 
 *Extent: E+W*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1051a08db32ce084dc5c38ce02f5be3a]: Commencement: S. 88 in force at 6.8.2004 for specified purposes by [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2)
+[^c-1051a08db32ce084dc5c38ce02f5be3a]: Commencement: S. 88 in force at 6.8.2004 for specified purposes by [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2)
 
-[^key-c3e6e7b6c2beb860427b6f679b34db3b]: Commencement: S. 88 in force at 7.6.2006 in so far as not already in force by [S.I. 2006/1281](https://www.legislation.gov.uk/uksi/2006/1281), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1281/article/2/a)
+[^c-c3e6e7b6c2beb860427b6f679b34db3b]: Commencement: S. 88 in force at 7.6.2006 in so far as not already in force by [S.I. 2006/1281](https://www.legislation.gov.uk/uksi/2006/1281), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1281/article/2/a)

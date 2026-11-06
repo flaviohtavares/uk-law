@@ -24,7 +24,7 @@ Section 144
 
 ### Operation of this Schedule
 
-**1.**[^key-e0c28ee0cd6e5567be0bd5d8b77c550e] (1) This Schedule has effect in relation to regulations under section 144 designating a body (referred to in this Schedule as “**the Regulations**”) as follows—
+**1.**[^c-e0c28ee0cd6e5567be0bd5d8b77c550e] (1) This Schedule has effect in relation to regulations under section 144 designating a body (referred to in this Schedule as “**the Regulations**”) as follows—
 
 - (a) paragraphs 2 to 13 have effect where the Regulations establish the body;
 - (b) paragraphs 6, 7 and 9 to 13 have effect where the Regulations designate an existing body (see section 144(2)(b));
@@ -37,7 +37,7 @@ Section 144
 
 ### Name, members and chair
 
-**2.**[^key-7c0f3937ac3c0474e92e4553396d89a9] (1) The Regulations must prescribe the name by which the body is to be known.
+**2.**[^c-7c0f3937ac3c0474e92e4553396d89a9] (1) The Regulations must prescribe the name by which the body is to be known.
 
 (2) The Regulations must provide that the members of the body must be appointed by the Secretary of State after such consultation as the Secretary of State thinks appropriate.
 
@@ -50,7 +50,7 @@ Section 144
 
 ### Remuneration etc.
 
-**3.**[^key-f6f5cc24a3ab692192c97e91b80d21ae] (1) The Regulations must provide that the body must pay to its chair and members such remuneration and allowances in respect of expenses properly incurred by them in the exercise of their functions as the Secretary of State may determine.
+**3.**[^c-f6f5cc24a3ab692192c97e91b80d21ae] (1) The Regulations must provide that the body must pay to its chair and members such remuneration and allowances in respect of expenses properly incurred by them in the exercise of their functions as the Secretary of State may determine.
 
 (2) The Regulations must provide that, as regards any member (including the chair) in whose case the Secretary of State so determines, the body must pay or make provision for the payment of—
 
@@ -66,14 +66,14 @@ the body must make a payment to the person by way of compensation of such amount
 
 ### Staff
 
-**4.**[^key-1818f83824da77a263bbd41bd04fd2be] The Regulations must provide that—
+**4.**[^c-1818f83824da77a263bbd41bd04fd2be] The Regulations must provide that—
 
 - (a) the body may appoint such persons to be its employees as the body considers appropriate, and
 - (b) the employees are to be appointed on such terms and conditions as the body may determine.
 
 ### Proceedings
 
-**5.**[^key-6c666ee11ea77a3a46f0c2388590b148] (1) The Regulations may make provision about the proceedings of the body.
+**5.**[^c-6c666ee11ea77a3a46f0c2388590b148] (1) The Regulations may make provision about the proceedings of the body.
 
 (2) The Regulations may, in particular—
 
@@ -82,7 +82,7 @@ the body must make a payment to the person by way of compensation of such amount
 
 ### Fees
 
-**6.**[^key-8cadb453f6219363f9578f9a042cf8be] (1) The Regulations may make provision—
+**6.**[^c-8cadb453f6219363f9578f9a042cf8be] (1) The Regulations may make provision—
 
 - (a) about the setting and charging of fees by the body in connection with the exercise of its functions;
 - (b) for the retention by the body of any such fees payable to it;
@@ -97,11 +97,11 @@ the body must make a payment to the person by way of compensation of such amount
 
 ### Consultation
 
-**7.**[^key-c5baaeea2c4fe3794dd6e001a09a4e15] The Regulations may make provision as to the circumstances and manner in which the body must consult others before exercising any function conferred on it by the Regulations.
+**7.**[^c-c5baaeea2c4fe3794dd6e001a09a4e15] The Regulations may make provision as to the circumstances and manner in which the body must consult others before exercising any function conferred on it by the Regulations.
 
 ### Training and other services
 
-**8.**[^key-8278115349a431e994326a9d68b1189b] (1) The Regulations may make provision authorising the body to provide training or other services to any person.
+**8.**[^c-8278115349a431e994326a9d68b1189b] (1) The Regulations may make provision authorising the body to provide training or other services to any person.
 
 (2) The Regulations may make provision authorising the body—
 
@@ -110,7 +110,7 @@ the body must make a payment to the person by way of compensation of such amount
 
 ### Report and accounts
 
-**9.**[^key-bd00ae60faffaf9ae02c9f12048f5bc1] (1) The Regulations must require the body, at least once in each 12 month period, to report to the Secretary of State on—
+**9.**[^c-bd00ae60faffaf9ae02c9f12048f5bc1] (1) The Regulations must require the body, at least once in each 12 month period, to report to the Secretary of State on—
 
 - (a) the exercise of the functions conferred on it by the Regulations, and
 - (b) such other matters as may be prescribed in the Regulations.
@@ -130,11 +130,11 @@ the body must make a payment to the person by way of compensation of such amount
 
 ### Funding
 
-**10.**[^key-454a7781f245184c0655a67583d48ffc] The Regulations may provide that the Secretary of State may make grants to the body.
+**10.**[^c-454a7781f245184c0655a67583d48ffc] The Regulations may provide that the Secretary of State may make grants to the body.
 
 ### Financial penalties
 
-**11.**[^key-79e85466792c8d232d64be6b7019ccfd] (1) This paragraph applies where the Regulations include provision enabling the body to impose a financial penalty on a person who is, or has been, authorised to act as an insolvency practitioner (see section 144(5)).
+**11.**[^c-79e85466792c8d232d64be6b7019ccfd] (1) This paragraph applies where the Regulations include provision enabling the body to impose a financial penalty on a person who is, or has been, authorised to act as an insolvency practitioner (see section 144(5)).
 
 (2) The Regulations—
 
@@ -150,14 +150,14 @@ the body must make a payment to the person by way of compensation of such amount
 
 ### Status etc.
 
-**12.**[^key-52f836be6bb7c0dac402bc52e9a1b480] The Regulations must provide that—
+**12.**[^c-52f836be6bb7c0dac402bc52e9a1b480] The Regulations must provide that—
 
 - (a) the body is not to be regarded as acting on behalf of the Crown, and
 - (b) its members, officers and employees are not to be regarded as Crown servants.
 
 ### Transfer schemes
 
-**13.**[^key-0fdbe88a061eecf16acbb4d4d4f6eacd] (1) This paragraph applies if the Regulations make provision designating a body (whether one established by the Regulations or one already in existence) in place of a body designated by earlier regulations under section 144; and those bodies are referred to as the “**new body**” and the “former body” respectively.
+**13.**[^c-0fdbe88a061eecf16acbb4d4d4f6eacd] (1) This paragraph applies if the Regulations make provision designating a body (whether one established by the Regulations or one already in existence) in place of a body designated by earlier regulations under section 144; and those bodies are referred to as the “**new body**” and the “former body” respectively.
 
 (2) The Regulations may make provision authorising the Secretary of State to make a scheme (a “transfer scheme”) for the transfer of property, rights and liabilities from the former body to the new body.
 
@@ -189,7 +189,7 @@ the body must make a payment to the person by way of compensation of such amount
 
 ### Additional provision where body is unincorporated association
 
-**14.**[^key-1d328599ec2dfc11d6ee17ab58b987b1] (1) This paragraph applies where the body is an unincorporated association.
+**14.**[^c-1d328599ec2dfc11d6ee17ab58b987b1] (1) This paragraph applies where the body is an unincorporated association.
 
 (2) The Regulations must provide that any relevant proceedings may be brought by or against the body in the name of any body corporate whose constitution provides for the establishment of the body.
 
@@ -197,30 +197,30 @@ the body must make a payment to the person by way of compensation of such amount
 
 ## Annotations
 
-[^key-e0c28ee0cd6e5567be0bd5d8b77c550e]: Commencement: [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2015/26/schedule/11/paragraph/1) in force at 1.10.2015 immediately after 2015 c. 20, s. 17 comes into force by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/3/b)
+[^c-e0c28ee0cd6e5567be0bd5d8b77c550e]: Commencement: [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2015/26/schedule/11/paragraph/1) in force at 1.10.2015 immediately after 2015 c. 20, s. 17 comes into force by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/3/b)
 
-[^key-7c0f3937ac3c0474e92e4553396d89a9]: Commencement: [Sch. 11 para. 2](https://www.legislation.gov.uk/ukpga/2015/26/schedule/11/paragraph/2) in force at 1.10.2015 immediately after 2015 c. 20, s. 17 comes into force by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/3/b)
+[^c-7c0f3937ac3c0474e92e4553396d89a9]: Commencement: [Sch. 11 para. 2](https://www.legislation.gov.uk/ukpga/2015/26/schedule/11/paragraph/2) in force at 1.10.2015 immediately after 2015 c. 20, s. 17 comes into force by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/3/b)
 
-[^key-f6f5cc24a3ab692192c97e91b80d21ae]: Commencement: [Sch. 11 para. 3](https://www.legislation.gov.uk/ukpga/2015/26/schedule/11/paragraph/3) in force at 1.10.2015 immediately after 2015 c. 20, s. 17 comes into force by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/3/b)
+[^c-f6f5cc24a3ab692192c97e91b80d21ae]: Commencement: [Sch. 11 para. 3](https://www.legislation.gov.uk/ukpga/2015/26/schedule/11/paragraph/3) in force at 1.10.2015 immediately after 2015 c. 20, s. 17 comes into force by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/3/b)
 
-[^key-1818f83824da77a263bbd41bd04fd2be]: Commencement: [Sch. 11 para. 4](https://www.legislation.gov.uk/ukpga/2015/26/schedule/11/paragraph/4) in force at 1.10.2015 immediately after 2015 c. 20, s. 17 comes into force by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/3/b)
+[^c-1818f83824da77a263bbd41bd04fd2be]: Commencement: [Sch. 11 para. 4](https://www.legislation.gov.uk/ukpga/2015/26/schedule/11/paragraph/4) in force at 1.10.2015 immediately after 2015 c. 20, s. 17 comes into force by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/3/b)
 
-[^key-6c666ee11ea77a3a46f0c2388590b148]: Commencement: [Sch. 11 para. 5](https://www.legislation.gov.uk/ukpga/2015/26/schedule/11/paragraph/5) in force at 1.10.2015 immediately after 2015 c. 20, s. 17 comes into force by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/3/b)
+[^c-6c666ee11ea77a3a46f0c2388590b148]: Commencement: [Sch. 11 para. 5](https://www.legislation.gov.uk/ukpga/2015/26/schedule/11/paragraph/5) in force at 1.10.2015 immediately after 2015 c. 20, s. 17 comes into force by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/3/b)
 
-[^key-8cadb453f6219363f9578f9a042cf8be]: Commencement: [Sch. 11 para. 6](https://www.legislation.gov.uk/ukpga/2015/26/schedule/11/paragraph/6) in force at 1.10.2015 immediately after 2015 c. 20, s. 17 comes into force by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/3/b)
+[^c-8cadb453f6219363f9578f9a042cf8be]: Commencement: [Sch. 11 para. 6](https://www.legislation.gov.uk/ukpga/2015/26/schedule/11/paragraph/6) in force at 1.10.2015 immediately after 2015 c. 20, s. 17 comes into force by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/3/b)
 
-[^key-c5baaeea2c4fe3794dd6e001a09a4e15]: Commencement: [Sch. 11 para. 7](https://www.legislation.gov.uk/ukpga/2015/26/schedule/11/paragraph/7) in force at 1.10.2015 immediately after 2015 c. 20, s. 17 comes into force by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/3/b)
+[^c-c5baaeea2c4fe3794dd6e001a09a4e15]: Commencement: [Sch. 11 para. 7](https://www.legislation.gov.uk/ukpga/2015/26/schedule/11/paragraph/7) in force at 1.10.2015 immediately after 2015 c. 20, s. 17 comes into force by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/3/b)
 
-[^key-8278115349a431e994326a9d68b1189b]: Commencement: [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2015/26/schedule/11/paragraph/8) in force at 1.10.2015 immediately after 2015 c. 20, s. 17 comes into force by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/3/b)
+[^c-8278115349a431e994326a9d68b1189b]: Commencement: [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2015/26/schedule/11/paragraph/8) in force at 1.10.2015 immediately after 2015 c. 20, s. 17 comes into force by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/3/b)
 
-[^key-bd00ae60faffaf9ae02c9f12048f5bc1]: Commencement: [Sch. 11 para. 9](https://www.legislation.gov.uk/ukpga/2015/26/schedule/11/paragraph/9) in force at 1.10.2015 immediately after 2015 c. 20, s. 17 comes into force by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/3/b)
+[^c-bd00ae60faffaf9ae02c9f12048f5bc1]: Commencement: [Sch. 11 para. 9](https://www.legislation.gov.uk/ukpga/2015/26/schedule/11/paragraph/9) in force at 1.10.2015 immediately after 2015 c. 20, s. 17 comes into force by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/3/b)
 
-[^key-454a7781f245184c0655a67583d48ffc]: Commencement: [Sch. 11 para. 10](https://www.legislation.gov.uk/ukpga/2015/26/schedule/11/paragraph/10) in force at 1.10.2015 immediately after 2015 c. 20, s. 17 comes into force by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/3/b)
+[^c-454a7781f245184c0655a67583d48ffc]: Commencement: [Sch. 11 para. 10](https://www.legislation.gov.uk/ukpga/2015/26/schedule/11/paragraph/10) in force at 1.10.2015 immediately after 2015 c. 20, s. 17 comes into force by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/3/b)
 
-[^key-79e85466792c8d232d64be6b7019ccfd]: Commencement: [Sch. 11 para. 11](https://www.legislation.gov.uk/ukpga/2015/26/schedule/11/paragraph/11) in force at 1.10.2015 immediately after 2015 c. 20, s. 17 comes into force by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/3/b)
+[^c-79e85466792c8d232d64be6b7019ccfd]: Commencement: [Sch. 11 para. 11](https://www.legislation.gov.uk/ukpga/2015/26/schedule/11/paragraph/11) in force at 1.10.2015 immediately after 2015 c. 20, s. 17 comes into force by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/3/b)
 
-[^key-52f836be6bb7c0dac402bc52e9a1b480]: Commencement: [Sch. 11 para. 12](https://www.legislation.gov.uk/ukpga/2015/26/schedule/11/paragraph/12) in force at 1.10.2015 immediately after 2015 c. 20, s. 17 comes into force by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/3/b)
+[^c-52f836be6bb7c0dac402bc52e9a1b480]: Commencement: [Sch. 11 para. 12](https://www.legislation.gov.uk/ukpga/2015/26/schedule/11/paragraph/12) in force at 1.10.2015 immediately after 2015 c. 20, s. 17 comes into force by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/3/b)
 
-[^key-0fdbe88a061eecf16acbb4d4d4f6eacd]: Commencement: [Sch. 11 para. 13](https://www.legislation.gov.uk/ukpga/2015/26/schedule/11/paragraph/13) in force at 1.10.2015 immediately after 2015 c. 20, s. 17 comes into force by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/3/b)
+[^c-0fdbe88a061eecf16acbb4d4d4f6eacd]: Commencement: [Sch. 11 para. 13](https://www.legislation.gov.uk/ukpga/2015/26/schedule/11/paragraph/13) in force at 1.10.2015 immediately after 2015 c. 20, s. 17 comes into force by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/3/b)
 
-[^key-1d328599ec2dfc11d6ee17ab58b987b1]: Commencement: [Sch. 11 para. 14](https://www.legislation.gov.uk/ukpga/2015/26/schedule/11/paragraph/14) in force at 1.10.2015 immediately after 2015 c. 20, s. 17 comes into force by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/3/b)
+[^c-1d328599ec2dfc11d6ee17ab58b987b1]: Commencement: [Sch. 11 para. 14](https://www.legislation.gov.uk/ukpga/2015/26/schedule/11/paragraph/14) in force at 1.10.2015 immediately after 2015 c. 20, s. 17 comes into force by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/3/b)

@@ -45,7 +45,7 @@ An Act to make provision with respect to the fluoridation of water supplies.
 
 (2) For the purposes of subsection (1) above, an application shall remain in force until the health authority, after giving reasonable notice to the statutory water undertaker in writing withdraw it.
 
-(2A)[^key-d8e0be9aaa49dced1c181e8eeb61721f] An application or the withdrawal of it may be made or done by electronic communication (within the meaning of section 15(1) of the Electronic Communications Act [2000 (c. 7)](https://www.legislation.gov.uk/ukpga/2000/7) ), which has been recorded and is consequently capable of being reproduced.
+(2A)[^c-d8e0be9aaa49dced1c181e8eeb61721f] An application or the withdrawal of it may be made or done by electronic communication (within the meaning of section 15(1) of the Electronic Communications Act [2000 (c. 7)](https://www.legislation.gov.uk/ukpga/2000/7) ), which has been recorded and is consequently capable of being reproduced.
 
 (3) The area specified in an application may be the whole, or any part, of the area or district of the authority making the application.
 
@@ -61,7 +61,7 @@ An Act to make provision with respect to the fluoridation of water supplies.
 - (a) for the purpose of dealing with an emergency, or
 - (b) in connection with the carrying out of any works (including cleaning and maintenance) by any of them.
 
-(7)[^c767677] In subsection (6) above, the reference to water to which fluoride has been added by a statutory water undertaker in exercise of the power conferred by this section includes a reference to water to which fluoride has been added pursuant to arrangements—[^key-f1f7469741bc95320337b0b010561218]
+(7)[^c767677] In subsection (6) above, the reference to water to which fluoride has been added by a statutory water undertaker in exercise of the power conferred by this section includes a reference to water to which fluoride has been added pursuant to arrangements—[^c-f1f7469741bc95320337b0b010561218]
 
 - (a) entered into under section 87(1) of the Water Industry Act 1991; or
 - (b) treated, for the purposes of Chapter 4 of Part 3 of that Act, as if entered into under that section.
@@ -89,10 +89,10 @@ An Act to make provision with respect to the fluoridation of water supplies.
 
 - (a) publish details of the proposal in one or more newspapers circulating within the area affected by the proposal; and
 - (b)[^c767688] give notice of the proposal to—
-  - (i) the Water Industry[^c767689] Commission[^key-5404846c0e0d8536646f15f8b3cce80d] for Scotland; and
+  - (i) the Water Industry[^c767689] Commission[^c-5404846c0e0d8536646f15f8b3cce80d] for Scotland; and
   - (ii) every local authority whose area falls wholly or partly within the area affected by the proposal.
 
-(3) Before implementing the proposal the health authority shall consult the[^c767690] Commission[^key-f35afd1f954afab72c6fce28ddf55cdf] and each local authority to whom they are required by subsection (2)(b) above to give notice of the proposal.
+(3) Before implementing the proposal the health authority shall consult the[^c767690] Commission[^c-f35afd1f954afab72c6fce28ddf55cdf] and each local authority to whom they are required by subsection (2)(b) above to give notice of the proposal.
 
 (4) The health authority shall, not earlier than seven days after publishing details of the proposal in the manner required by subsection (2)(a) above, republish them in that manner.
 
@@ -138,13 +138,13 @@ An Act to make provision with respect to the fluoridation of water supplies.
 
 [^c767674]: Modification: Act repealed (E.W.) (1.12.1991) by [Water Consolidation (Consequential Provisions) Act 1991 (c. 60, SIF 130)](https://www.legislation.gov.uk/ukpga/1991/60), [ss. 3](https://www.legislation.gov.uk/ukpga/1991/60/section/3), [4(2)](https://www.legislation.gov.uk/ukpga/1991/60/section/4/2), [Sch. 3 Pt. I](https://www.legislation.gov.uk/ukpga/1991/60/schedule/3/part/I) (with [s. 2](https://www.legislation.gov.uk/ukpga/1991/60/section/2), [Sch. 2](https://www.legislation.gov.uk/ukpga/1991/60/schedule/2), [paras. 10](https://www.legislation.gov.uk/ukpga/1991/60/paragraph/10), [14(1)](https://www.legislation.gov.uk/ukpga/1991/60/paragraph/14/1), [15](https://www.legislation.gov.uk/ukpga/1991/60/paragraph/15))
 
-[^key-d8e0be9aaa49dced1c181e8eeb61721f]: Textual amendment: S. 1(2A) inserted (23.6.2006) by [Electronic Communications (Scotland) Order 2006 (S.S.I. 2006/367)](https://www.legislation.gov.uk/ssi/2006/367) , [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/367/article/1/1) , [6](https://www.legislation.gov.uk/ssi/2006/367/article/6)
+[^c-d8e0be9aaa49dced1c181e8eeb61721f]: Textual amendment: S. 1(2A) inserted (23.6.2006) by [Electronic Communications (Scotland) Order 2006 (S.S.I. 2006/367)](https://www.legislation.gov.uk/ssi/2006/367) , [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/367/article/1/1) , [6](https://www.legislation.gov.uk/ssi/2006/367/article/6)
 
 [^c767676]: Textual amendment: Words in s. 1(6) inserted (S.) (1.4.1996) by [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39) , [s. 180(1)](https://www.legislation.gov.uk/ukpga/1994/39/section/180/1) , [Sch. 13 para. 140(2)(a)](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/140/2/a) ; [S.I. 1996/323](https://www.legislation.gov.uk/uksi/1996/323) , [art. 4(1)(b)(c)](https://www.legislation.gov.uk/uksi/1996/323/article/4/1/b/c)
 
 [^c767677]: Textual amendment: S. 1(7) inserted (S.) (1.12.1991) by [Water Consolidation (Consequential Provisions) Act 1991 (c. 60, SIF 130)](https://www.legislation.gov.uk/ukpga/1991/60) , [ss. 2](https://www.legislation.gov.uk/ukpga/1991/60/section/2) , [4(2)](https://www.legislation.gov.uk/ukpga/1991/60/section/4/2) , [Sch. 1 para. 42](https://www.legislation.gov.uk/ukpga/1991/60/schedule/1/paragraph/42)
 
-[^key-f1f7469741bc95320337b0b010561218]: Textual amendment: Words in [s. 1(7)](https://www.legislation.gov.uk/ukpga/1985/63/section/1/7) substituted (25.2.2009) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 58(10)](https://www.legislation.gov.uk/ukpga/2003/37/section/58/10), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2009/359](https://www.legislation.gov.uk/uksi/2009/359), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/359/article/2/d)
+[^c-f1f7469741bc95320337b0b010561218]: Textual amendment: Words in [s. 1(7)](https://www.legislation.gov.uk/ukpga/1985/63/section/1/7) substituted (25.2.2009) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 58(10)](https://www.legislation.gov.uk/ukpga/2003/37/section/58/10), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2009/359](https://www.legislation.gov.uk/uksi/2009/359), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/359/article/2/d)
 
 [^c767679]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukpga/1985/63/section/3) repealed (S.) (1.4.1996) by [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39), [s. 180(1)(2)](https://www.legislation.gov.uk/ukpga/1994/39/section/180/1/2), [Sch. 13 para. 140(3)](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/140/3), [Sch. 14](https://www.legislation.gov.uk/ukpga/1994/39/schedule/14); [S.I. 1996/323](https://www.legislation.gov.uk/uksi/1996/323), [art. 4(1)(b)(c)(d)](https://www.legislation.gov.uk/uksi/1996/323/article/4/1/b/c/d), [Sch. 2](https://www.legislation.gov.uk/uksi/1996/323/schedule/2)
 
@@ -154,11 +154,11 @@ An Act to make provision with respect to the fluoridation of water supplies.
 
 [^c767689]: Textual amendment: Words in s. 4(2)(b)(i) substituted (S.) (1.11.1999) by [1999 c. 9](https://www.legislation.gov.uk/ukpga/1999/9), [s. 15(1)](https://www.legislation.gov.uk/ukpga/1999/9/section/15/1), [Sch. 3 Pt. II para. 6(2)(a)](https://www.legislation.gov.uk/ukpga/1999/9/schedule/3/part/II/paragraph/6/2/a); [S.S.I. 1999/133](https://www.legislation.gov.uk/ssi/1999/133), [art. 2(b)(e)](https://www.legislation.gov.uk/ssi/1999/133/article/2/b/e)
 
-[^key-5404846c0e0d8536646f15f8b3cce80d]: Textual amendment: Words in [s. 4(2)(b)(i)](https://www.legislation.gov.uk/ukpga/1985/63/section/4/2/b/i) substituted (1.7.2005) by [Water Services etc. (Scotland) Act 2005 (asp 3)](https://www.legislation.gov.uk/asp/2005/3), [s. 37(2)](https://www.legislation.gov.uk/asp/2005/3/section/37/2), [Sch. 5 para. 4](https://www.legislation.gov.uk/asp/2005/3/schedule/5/paragraph/4) (with [s. 36](https://www.legislation.gov.uk/asp/2005/3/section/36)); [S.S.I. 2005/351](https://www.legislation.gov.uk/ssi/2005/351), [art. 2](https://www.legislation.gov.uk/ssi/2005/351/article/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/351/schedule/2)
+[^c-5404846c0e0d8536646f15f8b3cce80d]: Textual amendment: Words in [s. 4(2)(b)(i)](https://www.legislation.gov.uk/ukpga/1985/63/section/4/2/b/i) substituted (1.7.2005) by [Water Services etc. (Scotland) Act 2005 (asp 3)](https://www.legislation.gov.uk/asp/2005/3), [s. 37(2)](https://www.legislation.gov.uk/asp/2005/3/section/37/2), [Sch. 5 para. 4](https://www.legislation.gov.uk/asp/2005/3/schedule/5/paragraph/4) (with [s. 36](https://www.legislation.gov.uk/asp/2005/3/section/36)); [S.S.I. 2005/351](https://www.legislation.gov.uk/ssi/2005/351), [art. 2](https://www.legislation.gov.uk/ssi/2005/351/article/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/351/schedule/2)
 
 [^c767690]: Textual amendment: Words in s. 4(3) substituted (S.) (1.11.1999) by [1999 c. 9](https://www.legislation.gov.uk/ukpga/1999/9), [s. 15(1)](https://www.legislation.gov.uk/ukpga/1999/9/section/15/1), [Sch. 3 Pt. II para. 6(2)(b)](https://www.legislation.gov.uk/ukpga/1999/9/schedule/3/part/II/paragraph/6/2/b); [S.S.I. 1999/133](https://www.legislation.gov.uk/ssi/1999/133), [art. 2(b)(e)](https://www.legislation.gov.uk/ssi/1999/133/article/2/b/e)
 
-[^key-f35afd1f954afab72c6fce28ddf55cdf]: Textual amendment: Words in [s. 4(3)](https://www.legislation.gov.uk/ukpga/1985/63/section/4/3) substituted (1.7.2005) by [Water Services etc. (Scotland) Act 2005 (asp 3)](https://www.legislation.gov.uk/asp/2005/3), [s. 37(2)](https://www.legislation.gov.uk/asp/2005/3/section/37/2), [Sch. 5 para. 4](https://www.legislation.gov.uk/asp/2005/3/schedule/5/paragraph/4) (with [s. 36](https://www.legislation.gov.uk/asp/2005/3/section/36)); [S.S.I. 2005/351](https://www.legislation.gov.uk/ssi/2005/351), [art. 2](https://www.legislation.gov.uk/ssi/2005/351/article/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/351/schedule/2)
+[^c-f35afd1f954afab72c6fce28ddf55cdf]: Textual amendment: Words in [s. 4(3)](https://www.legislation.gov.uk/ukpga/1985/63/section/4/3) substituted (1.7.2005) by [Water Services etc. (Scotland) Act 2005 (asp 3)](https://www.legislation.gov.uk/asp/2005/3), [s. 37(2)](https://www.legislation.gov.uk/asp/2005/3/section/37/2), [Sch. 5 para. 4](https://www.legislation.gov.uk/asp/2005/3/schedule/5/paragraph/4) (with [s. 36](https://www.legislation.gov.uk/asp/2005/3/section/36)); [S.S.I. 2005/351](https://www.legislation.gov.uk/ssi/2005/351), [art. 2](https://www.legislation.gov.uk/ssi/2005/351/article/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/351/schedule/2)
 
 [^c767691]: Textual amendment: Words in s. 4(6)(7) repealed (S.) (1.4.1996) by [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39), [s. 180(1)](https://www.legislation.gov.uk/ukpga/1994/39/section/180/1), [Sch. 13 para. 140(4)(d)](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/140/4/d); [S.I. 1996/323](https://www.legislation.gov.uk/uksi/1996/323), [art. 4(1)(b)(c)(d)](https://www.legislation.gov.uk/uksi/1996/323/article/4/1/b/c/d), [Sch. 2](https://www.legislation.gov.uk/uksi/1996/323/schedule/2)
 

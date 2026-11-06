@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Orders under section 22 of FSMA 2000[^key-a5116d56f486f265b9e078687c2f0c5d]
+## 8. Orders under section 22 of FSMA 2000[^c-a5116d56f486f265b9e078687c2f0c5d]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a5116d56f486f265b9e078687c2f0c5d]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2012/21/section/8) in force at 24.1.2013 by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/1)
+[^c-a5116d56f486f265b9e078687c2f0c5d]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2012/21/section/8) in force at 24.1.2013 by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/1)

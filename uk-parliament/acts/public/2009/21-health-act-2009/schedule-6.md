@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 6 — Repeals and revocations[^c2006730][^key-a870ffb57095bd6d877de64d16038e59][^key-cde9bc644f9e3c77f198cd32cf1aa42b][^key-30e57a0fdf954b04b6f5d74da27a664c][^key-c29709d2707e9fa6405074e7036caf65]
+## Schedule 6 — Repeals and revocations[^c2006730][^c-a870ffb57095bd6d877de64d16038e59][^c-cde9bc644f9e3c77f198cd32cf1aa42b][^c-30e57a0fdf954b04b6f5d74da27a664c][^c-c29709d2707e9fa6405074e7036caf65]
 
 *Extent: E+W*
 
@@ -44,18 +44,18 @@ Section 38
 </tbody>
 </table>
 
-[^key-a1f24de3236d94928c93a966126deeaf]
+[^c-a1f24de3236d94928c93a966126deeaf]
 
 ## Annotations
 
 [^c2006730]: Commencement: Sch. 6 partly in force; Sch. 6 in force for specified purposes at Royal Assent see [s. 40(5)(b)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/5/b)
 
-[^key-a870ffb57095bd6d877de64d16038e59]: Commencement: Sch. 6 in force at 1.10.2011 for specified purposes by [S.I. 2010/1068](https://www.legislation.gov.uk/uksi/2010/1068), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2010/1068/article/2/1/b)
+[^c-a870ffb57095bd6d877de64d16038e59]: Commencement: Sch. 6 in force at 1.10.2011 for specified purposes by [S.I. 2010/1068](https://www.legislation.gov.uk/uksi/2010/1068), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2010/1068/article/2/1/b)
 
-[^key-cde9bc644f9e3c77f198cd32cf1aa42b]: Commencement: Sch. 6 in force at 6.4.2012 for specified purposes by [S.I. 2010/1068](https://www.legislation.gov.uk/uksi/2010/1068), [art. 2(1A)(c)](https://www.legislation.gov.uk/uksi/2010/1068/article/2/1A/c)
+[^c-cde9bc644f9e3c77f198cd32cf1aa42b]: Commencement: Sch. 6 in force at 6.4.2012 for specified purposes by [S.I. 2010/1068](https://www.legislation.gov.uk/uksi/2010/1068), [art. 2(1A)(c)](https://www.legislation.gov.uk/uksi/2010/1068/article/2/1A/c)
 
-[^key-30e57a0fdf954b04b6f5d74da27a664c]: Commencement: Sch. 6 in force at 1.9.2012 for specified purposes by [S.I. 2012/1902](https://www.legislation.gov.uk/uksi/2012/1902), [art. 2(f)](https://www.legislation.gov.uk/uksi/2012/1902/article/2/f)
+[^c-30e57a0fdf954b04b6f5d74da27a664c]: Commencement: Sch. 6 in force at 1.9.2012 for specified purposes by [S.I. 2012/1902](https://www.legislation.gov.uk/uksi/2012/1902), [art. 2(f)](https://www.legislation.gov.uk/uksi/2012/1902/article/2/f)
 
-[^key-c29709d2707e9fa6405074e7036caf65]: Commencement: Sch. 6 in force at 31.10.2012 for specified purposes by [S.I. 2012/2647](https://www.legislation.gov.uk/uksi/2012/2647), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/2647/article/2/b)
+[^c-c29709d2707e9fa6405074e7036caf65]: Commencement: Sch. 6 in force at 31.10.2012 for specified purposes by [S.I. 2012/2647](https://www.legislation.gov.uk/uksi/2012/2647), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/2647/article/2/b)
 
-[^key-a1f24de3236d94928c93a966126deeaf]: Textual amendment: Words in [Sch. 6](https://www.legislation.gov.uk/ukpga/2009/21/schedule/6) omitted (1.4.2019) by virtue of [Public Health (Wales) Act 2017 (anaw 2)](https://www.legislation.gov.uk/anaw/2017/2), [ss. 112(12)](https://www.legislation.gov.uk/anaw/2017/2/section/112/12), [126(2)](https://www.legislation.gov.uk/anaw/2017/2/section/126/2); [S.I. 2019/829](https://www.legislation.gov.uk/wsi/2019/829), [art. 2](https://www.legislation.gov.uk/wsi/2019/829/article/2)
+[^c-a1f24de3236d94928c93a966126deeaf]: Textual amendment: Words in [Sch. 6](https://www.legislation.gov.uk/ukpga/2009/21/schedule/6) omitted (1.4.2019) by virtue of [Public Health (Wales) Act 2017 (anaw 2)](https://www.legislation.gov.uk/anaw/2017/2), [ss. 112(12)](https://www.legislation.gov.uk/anaw/2017/2/section/112/12), [126(2)](https://www.legislation.gov.uk/anaw/2017/2/section/126/2); [S.I. 2019/829](https://www.legislation.gov.uk/wsi/2019/829), [art. 2](https://www.legislation.gov.uk/wsi/2019/829/article/2)

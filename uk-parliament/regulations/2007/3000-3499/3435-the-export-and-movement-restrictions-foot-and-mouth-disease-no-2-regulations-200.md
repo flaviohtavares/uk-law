@@ -34,7 +34,7 @@ ANIMALS, ENGLAND
 
 ANIMAL HEALTH
 
-The Export and Movement Restrictions (Foot-and-Mouth Disease) (No.2) Regulations 2007 (revoked)[^key-fccd38d6129d0ce207872488ae57853a]
+The Export and Movement Restrictions (Foot-and-Mouth Disease) (No.2) Regulations 2007 (revoked)[^c-fccd38d6129d0ce207872488ae57853a]
 
 Made
 
@@ -48,189 +48,189 @@ Coming into force
 
 6.00 p.m. on 5th December 2007
 
-[^key-fccd38d6129d0ce207872488ae57853a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fccd38d6129d0ce207872488ae57853a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — General provisions[^key-fccd38d6129d0ce207872488ae57853a]
+## PART 1 — General provisions[^c-fccd38d6129d0ce207872488ae57853a]
 
-### 1. Title, application, commencement and cessation[^key-fccd38d6129d0ce207872488ae57853a]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Interpretation[^key-fccd38d6129d0ce207872488ae57853a]
+### 1. Title, application, commencement and cessation[^c-fccd38d6129d0ce207872488ae57853a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — Animal movement restrictions[^key-fccd38d6129d0ce207872488ae57853a]
-
-### 3. Movement of live animals[^key-fccd38d6129d0ce207872488ae57853a]
+### 2. Interpretation[^c-fccd38d6129d0ce207872488ae57853a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — Export Restrictions[^key-fccd38d6129d0ce207872488ae57853a]
+## PART 2 — Animal movement restrictions[^c-fccd38d6129d0ce207872488ae57853a]
 
-### 4. Export of live animals[^key-fccd38d6129d0ce207872488ae57853a]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 5. Export of fresh meat, minced meat, mechanically separated meat and meat preparations[^key-fccd38d6129d0ce207872488ae57853a]
+### 3. Movement of live animals[^c-fccd38d6129d0ce207872488ae57853a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Marking meat not eligible for export[^key-fccd38d6129d0ce207872488ae57853a]
+## PART 3 — Export Restrictions[^c-fccd38d6129d0ce207872488ae57853a]
+
+### 4. Export of live animals[^c-fccd38d6129d0ce207872488ae57853a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Export of meat products[^key-fccd38d6129d0ce207872488ae57853a]
+### 5. Export of fresh meat, minced meat, mechanically separated meat and meat preparations[^c-fccd38d6129d0ce207872488ae57853a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Export of milk[^key-fccd38d6129d0ce207872488ae57853a]
+### 6. Marking meat not eligible for export[^c-fccd38d6129d0ce207872488ae57853a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Export of dairy products[^key-fccd38d6129d0ce207872488ae57853a]
+### 7. Export of meat products[^c-fccd38d6129d0ce207872488ae57853a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Export of semen, ova and embryos[^key-fccd38d6129d0ce207872488ae57853a]
+### 8. Export of milk[^c-fccd38d6129d0ce207872488ae57853a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Export of hides and skins[^key-fccd38d6129d0ce207872488ae57853a]
+### 9. Export of dairy products[^c-fccd38d6129d0ce207872488ae57853a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Export of animal products[^key-fccd38d6129d0ce207872488ae57853a]
+### 10. Export of semen, ova and embryos[^c-fccd38d6129d0ce207872488ae57853a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Exemptions[^key-fccd38d6129d0ce207872488ae57853a]
+### 11. Export of hides and skins[^c-fccd38d6129d0ce207872488ae57853a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Endorsement of commercial documents[^key-fccd38d6129d0ce207872488ae57853a]
+### 12. Export of animal products[^c-fccd38d6129d0ce207872488ae57853a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Duties of slaughterhouses and other establishments[^key-fccd38d6129d0ce207872488ae57853a]
+### 13. Exemptions[^c-fccd38d6129d0ce207872488ae57853a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Offers to dispatch or export[^key-fccd38d6129d0ce207872488ae57853a]
+### 14. Endorsement of commercial documents[^c-fccd38d6129d0ce207872488ae57853a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 4 — Administration and enforcement[^key-fccd38d6129d0ce207872488ae57853a]
-
-### 17. Approvals[^key-fccd38d6129d0ce207872488ae57853a]
+### 15. Duties of slaughterhouses and other establishments[^c-fccd38d6129d0ce207872488ae57853a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Licences[^key-fccd38d6129d0ce207872488ae57853a]
+### 16. Offers to dispatch or export[^c-fccd38d6129d0ce207872488ae57853a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Notices[^key-fccd38d6129d0ce207872488ae57853a]
+## PART 4 — Administration and enforcement[^c-fccd38d6129d0ce207872488ae57853a]
+
+### 17. Approvals[^c-fccd38d6129d0ce207872488ae57853a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 20. Powers of inspectors[^key-fccd38d6129d0ce207872488ae57853a]
+### 18. Licences[^c-fccd38d6129d0ce207872488ae57853a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21. Powers of officers of Revenue and Customs[^key-fccd38d6129d0ce207872488ae57853a]
+### 19. Notices[^c-fccd38d6129d0ce207872488ae57853a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 22. Illegal consignments of products[^key-fccd38d6129d0ce207872488ae57853a]
+### 20. Powers of inspectors[^c-fccd38d6129d0ce207872488ae57853a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 23. Obstruction[^key-fccd38d6129d0ce207872488ae57853a]
+### 21. Powers of officers of Revenue and Customs[^c-fccd38d6129d0ce207872488ae57853a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 24. Offences by bodies corporate[^key-fccd38d6129d0ce207872488ae57853a]
+### 22. Illegal consignments of products[^c-fccd38d6129d0ce207872488ae57853a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 25. Penalties[^key-fccd38d6129d0ce207872488ae57853a]
+### 23. Obstruction[^c-fccd38d6129d0ce207872488ae57853a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 26. Authorisations, certificates, etc. issued in another part of the United Kingdom[^key-fccd38d6129d0ce207872488ae57853a]
+### 24. Offences by bodies corporate[^c-fccd38d6129d0ce207872488ae57853a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 27. Sharing information[^key-fccd38d6129d0ce207872488ae57853a]
+### 25. Penalties[^c-fccd38d6129d0ce207872488ae57853a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 28. Enforcement[^key-fccd38d6129d0ce207872488ae57853a]
+### 26. Authorisations, certificates, etc. issued in another part of the United Kingdom[^c-fccd38d6129d0ce207872488ae57853a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 29. Revocations[^key-fccd38d6129d0ce207872488ae57853a]
+### 27. Sharing information[^c-fccd38d6129d0ce207872488ae57853a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fccd38d6129d0ce207872488ae57853a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 28. Enforcement[^c-fccd38d6129d0ce207872488ae57853a]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 29. Revocations[^c-fccd38d6129d0ce207872488ae57853a]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-fccd38d6129d0ce207872488ae57853a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Areas subject to export restrictions[^key-fccd38d6129d0ce207872488ae57853a]
+## SCHEDULE 1 — Areas subject to export restrictions[^c-fccd38d6129d0ce207872488ae57853a]
 
 Regulation 3
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Additional requirements for meat[^key-fccd38d6129d0ce207872488ae57853a]
+## SCHEDULE 2 — Additional requirements for meat[^c-fccd38d6129d0ce207872488ae57853a]
 
 Regulation 5
 
-**1.**[^key-fccd38d6129d0ce207872488ae57853a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-fccd38d6129d0ce207872488ae57853a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-fccd38d6129d0ce207872488ae57853a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-fccd38d6129d0ce207872488ae57853a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-fccd38d6129d0ce207872488ae57853a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-fccd38d6129d0ce207872488ae57853a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — Premises from which an animal may be transported for slaughter[^key-fccd38d6129d0ce207872488ae57853a]
+## SCHEDULE 3 — Premises from which an animal may be transported for slaughter[^c-fccd38d6129d0ce207872488ae57853a]
 
 Regulation 5
 
-**1.**[^key-fccd38d6129d0ce207872488ae57853a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-fccd38d6129d0ce207872488ae57853a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-fccd38d6129d0ce207872488ae57853a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-fccd38d6129d0ce207872488ae57853a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 4 — Semen and Embryos[^key-fccd38d6129d0ce207872488ae57853a]
+## SCHEDULE 4 — Semen and Embryos[^c-fccd38d6129d0ce207872488ae57853a]
 
 Regulation 10
 
-### PART 1 — Centres or premises from which semen or embryos may be collected[^key-fccd38d6129d0ce207872488ae57853a]
+### PART 1 — Centres or premises from which semen or embryos may be collected[^c-fccd38d6129d0ce207872488ae57853a]
 
-**1.**[^key-fccd38d6129d0ce207872488ae57853a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-fccd38d6129d0ce207872488ae57853a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-fccd38d6129d0ce207872488ae57853a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-fccd38d6129d0ce207872488ae57853a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Storage conditions for frozen semen and embryos[^key-fccd38d6129d0ce207872488ae57853a]
+### PART 2 — Storage conditions for frozen semen and embryos[^c-fccd38d6129d0ce207872488ae57853a]
 
-**1.**[^key-fccd38d6129d0ce207872488ae57853a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-fccd38d6129d0ce207872488ae57853a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-fccd38d6129d0ce207872488ae57853a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-fccd38d6129d0ce207872488ae57853a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-fccd38d6129d0ce207872488ae57853a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-fccd38d6129d0ce207872488ae57853a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-fccd38d6129d0ce207872488ae57853a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-fccd38d6129d0ce207872488ae57853a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-fccd38d6129d0ce207872488ae57853a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-fccd38d6129d0ce207872488ae57853a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-fccd38d6129d0ce207872488ae57853a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-fccd38d6129d0ce207872488ae57853a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-fccd38d6129d0ce207872488ae57853a]EXPLANATORY NOTE
+[^c-fccd38d6129d0ce207872488ae57853a]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -238,11 +238,11 @@ These Regulations revoke and remake The Export and Movement Restrictions (Foot-a
 
 They regulate—
 
-- (a)[^key-fccd38d6129d0ce207872488ae57853a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-fccd38d6129d0ce207872488ae57853a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-fccd38d6129d0ce207872488ae57853a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-fccd38d6129d0ce207872488ae57853a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (e)[^key-fccd38d6129d0ce207872488ae57853a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-fccd38d6129d0ce207872488ae57853a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-fccd38d6129d0ce207872488ae57853a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-fccd38d6129d0ce207872488ae57853a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-fccd38d6129d0ce207872488ae57853a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-fccd38d6129d0ce207872488ae57853a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 They create an offence of offering to export anything which it is prohibited to export under the Regulations (regulation 16).
 
@@ -256,4 +256,4 @@ An impact assessment has not been prepared for these Regulations.
 
 ## Annotations
 
-[^key-fccd38d6129d0ce207872488ae57853a]: Textual amendment: Regulations revoked (13.12.2007 at 6:30 p.m) by [The Export Restrictions (Foot-and-Mouth Disease) Regulations 2007 (S.I. 2007/3513)](https://www.legislation.gov.uk/uksi/2007/3513), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2007/3513/regulation/1/c), [15](https://www.legislation.gov.uk/uksi/2007/3513/regulation/15)
+[^c-fccd38d6129d0ce207872488ae57853a]: Textual amendment: Regulations revoked (13.12.2007 at 6:30 p.m) by [The Export Restrictions (Foot-and-Mouth Disease) Regulations 2007 (S.I. 2007/3513)](https://www.legislation.gov.uk/uksi/2007/3513), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2007/3513/regulation/1/c), [15](https://www.legislation.gov.uk/uksi/2007/3513/regulation/15)

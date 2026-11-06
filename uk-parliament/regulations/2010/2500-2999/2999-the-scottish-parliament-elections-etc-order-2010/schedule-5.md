@@ -24,7 +24,7 @@ Article 13(5)
 
 ### PART 1 — GENERAL
 
-#### 1. Returning officers and polling stations[^key-c624cf9c5f133576e491ad3cfc4abc7e]
+#### 1. Returning officers and polling stations[^c-c624cf9c5f133576e491ad3cfc4abc7e]
 
 (1) Where the polls at a Scottish parliamentary general election and an ordinary local government election are taken together under article 13(1)—
 
@@ -36,7 +36,7 @@ Article 13(5)
 - (a) the returning officers for those elections shall decide which returning officer shall discharge in the area in which the polls are combined (“the combined area”) those functions of the other which are specified in paragraph 2; and
 - (b) the only polling stations which shall be used in the combined area at such elections are the polling stations used at the election for which the returning officer who discharges the functions referred to above acts as returning officer.
 
-#### 2. Functions at combined polls[^key-cc5cca482f0613f80b0691678ed9b9af]
+#### 2. Functions at combined polls[^c-cc5cca482f0613f80b0691678ed9b9af]
 
 (1) The functions referred to in paragraph 1 are the functions conferred or imposed—
 
@@ -57,7 +57,7 @@ and, where the proceedings on the issue and receipt of postal ballot papers at t
 - (h) rule 42(2)(b) (authorisation to order removal from polling station); and
 - (i) in rule 55 paragraph (1) (the count) (as substituted by paragraph 18 of this Schedule) and paragraph (5).
 
-#### 3. Modification of provisions about expenses in this Order and the 1983 Act[^key-e4d603fc27755d0ae246b63caa362060]
+#### 3. Modification of provisions about expenses in this Order and the 1983 Act[^c-e4d603fc27755d0ae246b63caa362060]
 
 (1) Where those functions of a returning officer at an election which are specified in paragraph 2 are discharged by the returning officer at another election under paragraph 1, references to the returning officer or his charges or expenditure—
 
@@ -73,11 +73,11 @@ shall, to the extent that such functions are so discharged, be construed as refe
 
 ### PART 2 — MODIFICATIONS OF THE SCOTTISH PARLIAMENTARY ELECTION RULES
 
-#### 4. Modifications of the Scottish Parliamentary Election Rules: general provision[^key-05c9ce2cc37f7f49d5decb749178d804]
+#### 4. Modifications of the Scottish Parliamentary Election Rules: general provision[^c-05c9ce2cc37f7f49d5decb749178d804]
 
 Where the poll at a Scottish parliamentary election is taken with the poll at a local government election under article 13(1) or (2), the Scottish Parliamentary Election Rules shall have effect subject to the modifications set out in the remaining paragraphs of this Part.
 
-#### 5. Colour of ballot papers where polls combined[^key-9868cb640d273e8293840d70edd8ca53]
+#### 5. Colour of ballot papers where polls combined[^c-9868cb640d273e8293840d70edd8ca53]
 
 After rule 28 there shall be inserted—
 
@@ -87,7 +87,7 @@ After rule 28 there shall be inserted—
 
 .
 
-#### 6. Rule 33 (notice of poll)[^key-a4b4c49df3f829f4c15798415085b15f]
+#### 6. Rule 33 (notice of poll)[^c-a4b4c49df3f829f4c15798415085b15f]
 
 At the end of rule 33 there shall be added—
 
@@ -99,7 +99,7 @@ At the end of rule 33 there shall be added—
 
 .
 
-#### 7. Rule 37 (issue of official poll cards)[^key-9da280845419e4487a44bc223db51d32]
+#### 7. Rule 37 (issue of official poll cards)[^c-9da280845419e4487a44bc223db51d32]
 
 At the end of rule 37 there shall be added—
 
@@ -107,7 +107,7 @@ At the end of rule 37 there shall be added—
 
 .
 
-#### 8. Rule 38 (equipment of polling stations)[^key-3d51897168baca5f609564071f525a08]
+#### 8. Rule 38 (equipment of polling stations)[^c-3d51897168baca5f609564071f525a08]
 
 (1) After paragraph (1) of rule 38 there shall be inserted—
 
@@ -117,7 +117,7 @@ At the end of rule 37 there shall be added—
 
 (3) In paragraph (12) of that rule, for “form P” there shall be substituted “form X”.
 
-#### 9. Rule 39 (appointment of polling and counting agents)[^key-5e58f4d5a387788bd86df90a501d9ddf]
+#### 9. Rule 39 (appointment of polling and counting agents)[^c-5e58f4d5a387788bd86df90a501d9ddf]
 
 After paragraph (6) of rule 39 there shall be inserted—
 
@@ -125,13 +125,13 @@ After paragraph (6) of rule 39 there shall be inserted—
 
 .
 
-#### 10. Rule 44 (questions to be put to voters)[^key-6182147211bfd0894da722208f7ffa80]
+#### 10. Rule 44 (questions to be put to voters)[^c-6182147211bfd0894da722208f7ffa80]
 
 (1) In paragraph (1) of rule 44, in questions 1(b), 2(b) and 4 before “election” there shall be inserted “Scottish parliamentary”.
 
 (2) In paragraph (1) of rule 44, in question 3(b) after “elsewhere” there shall be inserted “at this Scottish parliamentary election”.
 
-#### 11. Rule 46 (voting procedure)[^key-922f179d7996ddfe65d84f0034c4c9c0]
+#### 11. Rule 46 (voting procedure)[^c-922f179d7996ddfe65d84f0034c4c9c0]
 
 At the end of rule 46 there shall be added—
 
@@ -139,7 +139,7 @@ At the end of rule 46 there shall be added—
 
 .
 
-#### 12. Rule 47 (votes marked by presiding officer)[^key-1b33ad176899a5af84238a1ea8e59f9e]
+#### 12. Rule 47 (votes marked by presiding officer)[^c-1b33ad176899a5af84238a1ea8e59f9e]
 
 At the end of rule 47 there shall be added—
 
@@ -147,7 +147,7 @@ At the end of rule 47 there shall be added—
 
 .
 
-#### 13. Rule 48 (voting by persons with disabilities)[^key-41976f632f1c3beb910c117a39c66512]
+#### 13. Rule 48 (voting by persons with disabilities)[^c-41976f632f1c3beb910c117a39c66512]
 
 At the end of rule 48 there shall be added—
 
@@ -155,7 +155,7 @@ At the end of rule 48 there shall be added—
 
 .
 
-#### 14. Rule 49 (tendered ballot papers)[^key-8ba865f5cc5fab0abb41c7cc235e30d8]
+#### 14. Rule 49 (tendered ballot papers)[^c-8ba865f5cc5fab0abb41c7cc235e30d8]
 
 At the end of rule 49 there shall be added—
 
@@ -163,7 +163,7 @@ At the end of rule 49 there shall be added—
 
 .
 
-#### 15. Rule 52 (adjournment of poll in case of riot)[^key-63692b81ee9bfafe4f2f64aca549962a]
+#### 15. Rule 52 (adjournment of poll in case of riot)[^c-63692b81ee9bfafe4f2f64aca549962a]
 
 In rule 52(1) for the words “CRO” there shall be substituted—
 
@@ -171,7 +171,7 @@ In rule 52(1) for the words “CRO” there shall be substituted—
 
 .
 
-#### 16. Rule 53 (procedure on close of poll)[^key-e1062fa9271e85196e2936f7f82452eb]
+#### 16. Rule 53 (procedure on close of poll)[^c-e1062fa9271e85196e2936f7f82452eb]
 
 After rule 53(2) there shall be inserted—
 
@@ -181,7 +181,7 @@ After rule 53(2) there shall be inserted—
 
 .
 
-#### 17. Rule 54 (attendance at counting of votes)[^key-e5654f21f3210131378b36320acfd30a]
+#### 17. Rule 54 (attendance at counting of votes)[^c-e5654f21f3210131378b36320acfd30a]
 
 (1) For paragraph (1) of rule 54 there shall be substituted the following paragraphs—
 
@@ -205,7 +205,7 @@ After rule 53(2) there shall be inserted—
 
 .
 
-#### 18. Rule 55 (the count)[^key-27f0b8aa80cc195ab69a6ba0c8e5f3ea]
+#### 18. Rule 55 (the count)[^c-27f0b8aa80cc195ab69a6ba0c8e5f3ea]
 
 For rule 55(1) there shall be substituted—
 
@@ -234,7 +234,7 @@ For rule 55(1) there shall be substituted—
 
 .
 
-#### 19. Rule 70 (orders for production of documents and records)[^key-12a52c1de1db4b84b64d0b4031ec1c1d]
+#### 19. Rule 70 (orders for production of documents and records)[^c-12a52c1de1db4b84b64d0b4031ec1c1d]
 
 After paragraph (8) of rule 70 there shall be added—
 
@@ -242,7 +242,7 @@ After paragraph (8) of rule 70 there shall be added—
 
 .
 
-#### 20. Countermand or abandonment of poll etc. on death of candidate[^key-9d3497911ab774dd7df7f0d9b0189e89]
+#### 20. Countermand or abandonment of poll etc. on death of candidate[^c-9d3497911ab774dd7df7f0d9b0189e89]
 
 (1) After rule 77 (regional election: death of candidate) there shall be added—
 
@@ -266,13 +266,13 @@ After paragraph (8) of rule 70 there shall be added—
 
 ### PART 3 — MODIFICATIONS OF THE SCOTTISH LOCAL GOVERNMENT ELECTIONS RULES
 
-#### 21. Modifications of the local elections rules: general provision[^key-6a9dc937a49c5500f7da4e72690bfb9b]
+#### 21. Modifications of the local elections rules: general provision[^c-6a9dc937a49c5500f7da4e72690bfb9b]
 
 (1) Where the poll at a local government election is taken together with the poll at a Scottish parliamentary election under article 13(1) or (2), the rules comprised in Schedule 1 to the Scottish Local Government Elections Order 2007[^f00107] shall have effect subject to the modifications set out in the remaining paragraphs of this Part.
 
 (2) In this Part the rules referred to in sub-paragraph (1) are referred to as “the local elections rules”.
 
-#### 22. Rule 14 of the local elections rules (the ballot papers)[^key-6367b3f48836217bbd443091b5314253]
+#### 22. Rule 14 of the local elections rules (the ballot papers)[^c-6367b3f48836217bbd443091b5314253]
 
 (1) After rule 14(2) of the local elections rules there shall be inserted—
 
@@ -286,7 +286,7 @@ After paragraph (8) of rule 70 there shall be added—
 
 .
 
-#### 23. Rule 19 of the local elections rules (notice of poll)[^key-05f4547766b6f2f1e55183d4364d854d]
+#### 23. Rule 19 of the local elections rules (notice of poll)[^c-05f4547766b6f2f1e55183d4364d854d]
 
 At the end of rule 19 of the local elections rules there shall be added—
 
@@ -298,7 +298,7 @@ At the end of rule 19 of the local elections rules there shall be added—
 
 .
 
-#### 24. Rule 23 of the local elections rules (issue of official poll cards and notifications)[^key-95bc7300deb17ce474861c1115fe943d]
+#### 24. Rule 23 of the local elections rules (issue of official poll cards and notifications)[^c-95bc7300deb17ce474861c1115fe943d]
 
 At the end of rule 23 of the local elections rules there shall be added—
 
@@ -306,7 +306,7 @@ At the end of rule 23 of the local elections rules there shall be added—
 
 .
 
-#### 25. Rule 24 of the local elections rules (equipment of polling stations)[^key-a730d89343d7fe2578d6da77dbed02df]
+#### 25. Rule 24 of the local elections rules (equipment of polling stations)[^c-a730d89343d7fe2578d6da77dbed02df]
 
 (1) After paragraph (1) of rule 24 of the local elections rules there shall be inserted—
 
@@ -324,7 +324,7 @@ At the end of rule 23 of the local elections rules there shall be added—
 
 .
 
-#### 26. Rule 25 of the local elections rules (appointment of polling and counting agents)[^key-eb9295fb83d19a809d7e4c05e10fdcaf]
+#### 26. Rule 25 of the local elections rules (appointment of polling and counting agents)[^c-eb9295fb83d19a809d7e4c05e10fdcaf]
 
 After rule 25(5) of the local elections rules there shall be inserted—
 
@@ -332,13 +332,13 @@ After rule 25(5) of the local elections rules there shall be inserted—
 
 .
 
-#### 27. Rule 30 of the local elections rules (questions to be put to voters)[^key-0771b7cf5fdddb173c7883ac0f887842]
+#### 27. Rule 30 of the local elections rules (questions to be put to voters)[^c-0771b7cf5fdddb173c7883ac0f887842]
 
 (1) In paragraph (3) of rule 30 of the local elections rules, in questions 1(b), 2(b) and 4 after the words “this election” there shall be added “for this local government area”.
 
 (2) In paragraph (3) of rule 30 of the local elections rules, in question 3(b) after “elsewhere” there shall be inserted “at the election for this local government area”.
 
-#### 28. Rule 32 of the local elections rules (voting procedure)[^key-9316f3cc44ed925c1d045a25b05da2c8]
+#### 28. Rule 32 of the local elections rules (voting procedure)[^c-9316f3cc44ed925c1d045a25b05da2c8]
 
 At the end of rule 32 of the local elections rules there shall be added—
 
@@ -346,7 +346,7 @@ At the end of rule 32 of the local elections rules there shall be added—
 
 .
 
-#### 29. Rule 33 of the local elections rules (votes marked by presiding officer)[^key-276cc22a83674787fe0168e658793753]
+#### 29. Rule 33 of the local elections rules (votes marked by presiding officer)[^c-276cc22a83674787fe0168e658793753]
 
 After rule 33(2) of the local elections rules there shall be inserted—
 
@@ -354,7 +354,7 @@ After rule 33(2) of the local elections rules there shall be inserted—
 
 .
 
-#### 30. Rule 34 of the local elections rules (voting by persons with disabilities)[^key-cd204352c45cea4c0190416d2687702a]
+#### 30. Rule 34 of the local elections rules (voting by persons with disabilities)[^c-cd204352c45cea4c0190416d2687702a]
 
 After rule 34(4) of the local elections rules there shall be inserted—
 
@@ -362,7 +362,7 @@ After rule 34(4) of the local elections rules there shall be inserted—
 
 .
 
-#### 31. Rule 35 of the local elections rules (tendered ballot papers)[^key-bf8ee145cf7995ae1c39f5ae0f9a14e8]
+#### 31. Rule 35 of the local elections rules (tendered ballot papers)[^c-bf8ee145cf7995ae1c39f5ae0f9a14e8]
 
 After rule 35(8) of the local election rules there shall be inserted—
 
@@ -370,11 +370,11 @@ After rule 35(8) of the local election rules there shall be inserted—
 
 .
 
-#### 32. Rule 38 of the local elections rules (adjournment of poll in case of riot)[^key-d9e1bf7a31c15a2669ec062380ccb91a]
+#### 32. Rule 38 of the local elections rules (adjournment of poll in case of riot)[^c-d9e1bf7a31c15a2669ec062380ccb91a]
 
 At the end of paragraph (1) of rule 38 of the local elections rules there shall be inserted the words “who discharges the functions specified in paragraph 2 of Schedule 5 to the Scottish Parliament (Elections etc.) Order 2010”.
 
-#### 33. Rule 39 of the local elections rules (procedure on close of poll)[^key-9d16a2d7f3cb5b7b3114dc007bd7ded5]
+#### 33. Rule 39 of the local elections rules (procedure on close of poll)[^c-9d16a2d7f3cb5b7b3114dc007bd7ded5]
 
 After rule 39(1) of the local elections rules there shall be inserted—
 
@@ -384,7 +384,7 @@ After rule 39(1) of the local elections rules there shall be inserted—
 
 .
 
-#### 34. Rule 40 of the local elections rules (attendance at counting of votes)[^key-cdddab4a44293e80d343942949a5a69d]
+#### 34. Rule 40 of the local elections rules (attendance at counting of votes)[^c-cdddab4a44293e80d343942949a5a69d]
 
 For rule 40(1) of the local elections rules there shall be substituted—
 
@@ -398,7 +398,7 @@ For rule 40(1) of the local elections rules there shall be substituted—
 
 .
 
-#### 35. Rule 42 of the local elections rules (the count)[^key-3dd697871eb2c24d3f7012c234b45e5b]
+#### 35. Rule 42 of the local elections rules (the count)[^c-3dd697871eb2c24d3f7012c234b45e5b]
 
 For paragraph (1) of rule 42 of the local elections rules there shall be substituted the following paragraphs—
 
@@ -427,7 +427,7 @@ For paragraph (1) of rule 42 of the local elections rules there shall be substit
 
 .
 
-#### 36. Rule 57 of the local elections rules (delivery of documents)[^key-950ded7bb250ec098404e31c2d43cecc]
+#### 36. Rule 57 of the local elections rules (delivery of documents)[^c-950ded7bb250ec098404e31c2d43cecc]
 
 Rule 57 of the local elections rules shall be renumbered as paragraph (1) of that rule and after paragraph (1) as so renumbered there shall be added—
 
@@ -435,7 +435,7 @@ Rule 57 of the local elections rules shall be renumbered as paragraph (1) of tha
 
 .
 
-#### 37. Rule 58 of the local election rules (orders for production of documents)[^key-e3f01f9ad1ab34b1cc83a368211d2ef5]
+#### 37. Rule 58 of the local election rules (orders for production of documents)[^c-e3f01f9ad1ab34b1cc83a368211d2ef5]
 
 (1) In rule 58 of the local elections rules, after paragraph (1)(b) (immediately before the word “or” following it), there shall be inserted—
 
@@ -462,7 +462,7 @@ Rule 57 of the local elections rules shall be renumbered as paragraph (1) of tha
 
 .
 
-#### 38. Rule 60 of local elections rules (countermand or abandonment of poll on death of candidate)[^key-0c937cdd1394d2aeb51696822c4a3d3d]
+#### 38. Rule 60 of local elections rules (countermand or abandonment of poll on death of candidate)[^c-0c937cdd1394d2aeb51696822c4a3d3d]
 
 (1) At the end of rule 60(1) of the local elections rules there shall be added—
 
@@ -479,102 +479,102 @@ Rule 57 of the local elections rules shall be renumbered as paragraph (1) of tha
 
 .
 
-#### 39. Local elections rules: postal voting statement[^key-5727ef07fafe577b72afebabb52cf389]
+#### 39. Local elections rules: postal voting statement[^c-5727ef07fafe577b72afebabb52cf389]
 
 In Part 6 of Schedule 1 to the local elections rules (forms for use at Scottish local government elections), for Form 8 (form of postal voting statement) there shall be substituted form U or, as the case may be, form Y set out in the Appendix (which may be used with such variations as the circumstances may require).
 
-#### 40. Local elections rules: declaration by the companion of a voter with disabilities[^key-f4ea6ae77f539c99e02d09d78dfa8ebf]
+#### 40. Local elections rules: declaration by the companion of a voter with disabilities[^c-f4ea6ae77f539c99e02d09d78dfa8ebf]
 
 In Part 6 of Schedule 1 to the local elections rules (forms for use at Scottish local government elections), in Form 15 (form of declaration by the companion of a voter with disabilities), after “this election” wherever occurring add “and the election now being held in this Scottish parliamentary constituency”.
 
 ## Annotations
 
-[^key-c624cf9c5f133576e491ad3cfc4abc7e]: Commencement: Sch. 5 para. 1 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-c624cf9c5f133576e491ad3cfc4abc7e]: Commencement: Sch. 5 para. 1 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-cc5cca482f0613f80b0691678ed9b9af]: Commencement: Sch. 5 para. 2 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-cc5cca482f0613f80b0691678ed9b9af]: Commencement: Sch. 5 para. 2 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
 [^f00103]: Footnote: [2004 asp 9](https://www.legislation.gov.uk/asp/2004/9); section 3 was amended by the [Local Electoral Administration and Registration Services (Scotland) Act 2006, (asp 14)](https://www.legislation.gov.uk/asp/2006/14), section 34(6); section 16 was amended by the Scottish Local Government (Elections) Act [2009 (asp 10)](https://www.legislation.gov.uk/asp/2009/10), section 2. The current rules are the Scottish Local Government Elections Rules 2007, comprising Schedule 1 to the Scottish Local Government Elections Order 2007 ([S.S.I. 2007/42](https://www.legislation.gov.uk/ssi/2007/42)).
 
 [^f00104]: Footnote: Part 5 has been amended by [S.I. 2002/1872](https://www.legislation.gov.uk/uksi/2002/1872), [2006/834](https://www.legislation.gov.uk/uksi/2006/834), [2007/925](https://www.legislation.gov.uk/uksi/2007/925), [2008/305](https://www.legislation.gov.uk/uksi/2008/305) and [2010/930](https://www.legislation.gov.uk/uksi/2010/930).
 
-[^key-e4d603fc27755d0ae246b63caa362060]: Commencement: Sch. 5 para. 3 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-e4d603fc27755d0ae246b63caa362060]: Commencement: Sch. 5 para. 3 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
 [^f00105]: Footnote: Section 29 was amended by the Representation of the People Act [1991 (c.11)](https://www.legislation.gov.uk/ukpga/1991/11), section 1; the 2006 Act, section 68 and [S.I. 1991/1728](https://www.legislation.gov.uk/uksi/1991/1728), article 3. It will be amended by the 2000 Political Parties Act, Schedule 21, paragraph 6(3) and the 2006 Act, Schedule 1, paragraph 107(2); but these amendments are not yet in force.
 
-[^key-05c9ce2cc37f7f49d5decb749178d804]: Commencement: Sch. 5 para. 4 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-05c9ce2cc37f7f49d5decb749178d804]: Commencement: Sch. 5 para. 4 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-9868cb640d273e8293840d70edd8ca53]: Commencement: Sch. 5 para. 5 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-9868cb640d273e8293840d70edd8ca53]: Commencement: Sch. 5 para. 5 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-a4b4c49df3f829f4c15798415085b15f]: Commencement: Sch. 5 para. 6 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-a4b4c49df3f829f4c15798415085b15f]: Commencement: Sch. 5 para. 6 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-9da280845419e4487a44bc223db51d32]: Commencement: Sch. 5 para. 7 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-9da280845419e4487a44bc223db51d32]: Commencement: Sch. 5 para. 7 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-3d51897168baca5f609564071f525a08]: Commencement: Sch. 5 para. 8 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-3d51897168baca5f609564071f525a08]: Commencement: Sch. 5 para. 8 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-5e58f4d5a387788bd86df90a501d9ddf]: Commencement: Sch. 5 para. 9 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-5e58f4d5a387788bd86df90a501d9ddf]: Commencement: Sch. 5 para. 9 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-6182147211bfd0894da722208f7ffa80]: Commencement: Sch. 5 para. 10 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-6182147211bfd0894da722208f7ffa80]: Commencement: Sch. 5 para. 10 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-922f179d7996ddfe65d84f0034c4c9c0]: Commencement: Sch. 5 para. 11 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-922f179d7996ddfe65d84f0034c4c9c0]: Commencement: Sch. 5 para. 11 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-1b33ad176899a5af84238a1ea8e59f9e]: Commencement: Sch. 5 para. 12 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-1b33ad176899a5af84238a1ea8e59f9e]: Commencement: Sch. 5 para. 12 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-41976f632f1c3beb910c117a39c66512]: Commencement: Sch. 5 para. 13 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-41976f632f1c3beb910c117a39c66512]: Commencement: Sch. 5 para. 13 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-8ba865f5cc5fab0abb41c7cc235e30d8]: Commencement: Sch. 5 para. 14 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-8ba865f5cc5fab0abb41c7cc235e30d8]: Commencement: Sch. 5 para. 14 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-63692b81ee9bfafe4f2f64aca549962a]: Commencement: Sch. 5 para. 15 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-63692b81ee9bfafe4f2f64aca549962a]: Commencement: Sch. 5 para. 15 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-e1062fa9271e85196e2936f7f82452eb]: Commencement: Sch. 5 para. 16 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-e1062fa9271e85196e2936f7f82452eb]: Commencement: Sch. 5 para. 16 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-e5654f21f3210131378b36320acfd30a]: Commencement: Sch. 5 para. 17 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-e5654f21f3210131378b36320acfd30a]: Commencement: Sch. 5 para. 17 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-27f0b8aa80cc195ab69a6ba0c8e5f3ea]: Commencement: Sch. 5 para. 18 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-27f0b8aa80cc195ab69a6ba0c8e5f3ea]: Commencement: Sch. 5 para. 18 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-12a52c1de1db4b84b64d0b4031ec1c1d]: Commencement: Sch. 5 para. 19 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-12a52c1de1db4b84b64d0b4031ec1c1d]: Commencement: Sch. 5 para. 19 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
 [^f00106]: Footnote: [S.S.I. 2007/42](https://www.legislation.gov.uk/ssi/2007/42), amended by [S.S.I. 2007/379](https://www.legislation.gov.uk/ssi/2007/379); there are other amendments but none is relevant.
 
-[^key-9d3497911ab774dd7df7f0d9b0189e89]: Commencement: Sch. 5 para. 20 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-9d3497911ab774dd7df7f0d9b0189e89]: Commencement: Sch. 5 para. 20 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-6a9dc937a49c5500f7da4e72690bfb9b]: Commencement: Sch. 5 para. 21 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-6a9dc937a49c5500f7da4e72690bfb9b]: Commencement: Sch. 5 para. 21 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
 [^f00107]: Footnote: [S.S.I. 2007/42](https://www.legislation.gov.uk/ssi/2007/42), amended by [S.S.I. 2007/379](https://www.legislation.gov.uk/ssi/2007/379); there are other amending instruments but none is relevant.
 
-[^key-6367b3f48836217bbd443091b5314253]: Commencement: Sch. 5 para. 22 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-6367b3f48836217bbd443091b5314253]: Commencement: Sch. 5 para. 22 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-05f4547766b6f2f1e55183d4364d854d]: Commencement: Sch. 5 para. 23 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-05f4547766b6f2f1e55183d4364d854d]: Commencement: Sch. 5 para. 23 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-95bc7300deb17ce474861c1115fe943d]: Commencement: Sch. 5 para. 24 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-95bc7300deb17ce474861c1115fe943d]: Commencement: Sch. 5 para. 24 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-a730d89343d7fe2578d6da77dbed02df]: Commencement: Sch. 5 para. 25 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-a730d89343d7fe2578d6da77dbed02df]: Commencement: Sch. 5 para. 25 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-eb9295fb83d19a809d7e4c05e10fdcaf]: Commencement: Sch. 5 para. 26 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-eb9295fb83d19a809d7e4c05e10fdcaf]: Commencement: Sch. 5 para. 26 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-0771b7cf5fdddb173c7883ac0f887842]: Commencement: Sch. 5 para. 27 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-0771b7cf5fdddb173c7883ac0f887842]: Commencement: Sch. 5 para. 27 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-9316f3cc44ed925c1d045a25b05da2c8]: Commencement: Sch. 5 para. 28 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-9316f3cc44ed925c1d045a25b05da2c8]: Commencement: Sch. 5 para. 28 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-276cc22a83674787fe0168e658793753]: Commencement: Sch. 5 para. 29 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-276cc22a83674787fe0168e658793753]: Commencement: Sch. 5 para. 29 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-cd204352c45cea4c0190416d2687702a]: Commencement: Sch. 5 para. 30 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-cd204352c45cea4c0190416d2687702a]: Commencement: Sch. 5 para. 30 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-bf8ee145cf7995ae1c39f5ae0f9a14e8]: Commencement: Sch. 5 para. 31 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-bf8ee145cf7995ae1c39f5ae0f9a14e8]: Commencement: Sch. 5 para. 31 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-d9e1bf7a31c15a2669ec062380ccb91a]: Commencement: Sch. 5 para. 32 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-d9e1bf7a31c15a2669ec062380ccb91a]: Commencement: Sch. 5 para. 32 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-9d16a2d7f3cb5b7b3114dc007bd7ded5]: Commencement: Sch. 5 para. 33 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-9d16a2d7f3cb5b7b3114dc007bd7ded5]: Commencement: Sch. 5 para. 33 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-cdddab4a44293e80d343942949a5a69d]: Commencement: Sch. 5 para. 34 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-cdddab4a44293e80d343942949a5a69d]: Commencement: Sch. 5 para. 34 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-3dd697871eb2c24d3f7012c234b45e5b]: Commencement: Sch. 5 para. 35 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-3dd697871eb2c24d3f7012c234b45e5b]: Commencement: Sch. 5 para. 35 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-950ded7bb250ec098404e31c2d43cecc]: Commencement: Sch. 5 para. 36 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-950ded7bb250ec098404e31c2d43cecc]: Commencement: Sch. 5 para. 36 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-e3f01f9ad1ab34b1cc83a368211d2ef5]: Commencement: Sch. 5 para. 37 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-e3f01f9ad1ab34b1cc83a368211d2ef5]: Commencement: Sch. 5 para. 37 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-0c937cdd1394d2aeb51696822c4a3d3d]: Commencement: Sch. 5 para. 38 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-0c937cdd1394d2aeb51696822c4a3d3d]: Commencement: Sch. 5 para. 38 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-5727ef07fafe577b72afebabb52cf389]: Commencement: Sch. 5 para. 39 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-5727ef07fafe577b72afebabb52cf389]: Commencement: Sch. 5 para. 39 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-f4ea6ae77f539c99e02d09d78dfa8ebf]: Commencement: Sch. 5 para. 40 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-f4ea6ae77f539c99e02d09d78dfa8ebf]: Commencement: Sch. 5 para. 40 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)

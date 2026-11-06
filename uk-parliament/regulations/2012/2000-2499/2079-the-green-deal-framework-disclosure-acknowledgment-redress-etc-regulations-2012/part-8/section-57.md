@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 57. Eligible complaints – breach of the relevant requirements by the green deal provider or the green deal installer[^key-e5c1bd44c270b6e5b4e342414fb3e4c0]
+## 57. Eligible complaints – breach of the relevant requirements by the green deal provider or the green deal installer[^c-e5c1bd44c270b6e5b4e342414fb3e4c0]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ An eligible complaint in respect of a breach of the relevant requirements by the
 
 ## Annotations
 
-[^key-e5c1bd44c270b6e5b4e342414fb3e4c0]: Textual amendment: [Reg. 57](https://www.legislation.gov.uk/uksi/2012/2079/regulation/57) substituted (28.1.2013) by [The Green Deal Framework (Disclosure, Acknowledgment, Redress etc.) (Amendment) Regulations 2013 (S.I. 2013/139)](https://www.legislation.gov.uk/uksi/2013/139), [regs. 1](https://www.legislation.gov.uk/uksi/2013/139/regulation/1), [9](https://www.legislation.gov.uk/uksi/2013/139/regulation/9)
+[^c-e5c1bd44c270b6e5b4e342414fb3e4c0]: Textual amendment: [Reg. 57](https://www.legislation.gov.uk/uksi/2012/2079/regulation/57) substituted (28.1.2013) by [The Green Deal Framework (Disclosure, Acknowledgment, Redress etc.) (Amendment) Regulations 2013 (S.I. 2013/139)](https://www.legislation.gov.uk/uksi/2013/139), [regs. 1](https://www.legislation.gov.uk/uksi/2013/139/regulation/1), [9](https://www.legislation.gov.uk/uksi/2013/139/regulation/9)

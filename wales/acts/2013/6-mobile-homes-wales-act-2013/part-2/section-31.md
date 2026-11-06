@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Terms of appointment and powers of interim manager[^key-928bd851aa25884ba8f562f54eeceaf6]
+## 31. Terms of appointment and powers of interim manager[^c-928bd851aa25884ba8f562f54eeceaf6]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-928bd851aa25884ba8f562f54eeceaf6]: Commencement: [S. 31](https://www.legislation.gov.uk/anaw/2013/6/section/31) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(b)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/b) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-928bd851aa25884ba8f562f54eeceaf6]: Commencement: [S. 31](https://www.legislation.gov.uk/anaw/2013/6/section/31) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(b)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/b) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))

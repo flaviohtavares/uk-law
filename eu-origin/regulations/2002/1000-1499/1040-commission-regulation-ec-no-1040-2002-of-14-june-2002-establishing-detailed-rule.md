@@ -26,7 +26,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-[^key-79292550f944f96bf87a1b3b1b94e18f]Commission Regulation (EC) No 1040/2002
+[^c-79292550f944f96bf87a1b3b1b94e18f]Commission Regulation (EC) No 1040/2002
 
 of 14 June 2002
 
@@ -121,7 +121,7 @@ This Regulation shall be binding in its entirety and directly applicable in all 
 
 ## Annotations
 
-[^key-79292550f944f96bf87a1b3b1b94e18f]: Textual amendment: Regulation revoked (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2020/1482/schedule/3/paragraph/7) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
+[^c-79292550f944f96bf87a1b3b1b94e18f]: Textual amendment: Regulation revoked (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2020/1482/schedule/3/paragraph/7) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
 
 [^f00001]: Footnote: [OJ L 169, 10.7.2000, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2000.169.01.0001.01.ENG).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Relevant requirements for the purposes of section 2[^key-05bf82496fe222cff04eab6021479779]
+## 3. Relevant requirements for the purposes of section 2[^c-05bf82496fe222cff04eab6021479779]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,4 +58,4 @@ This subsection would apply, for example, where a manner of sale requirement inv
 
 ## Annotations
 
-[^key-05bf82496fe222cff04eab6021479779]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2020/27/section/3) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/a)
+[^c-05bf82496fe222cff04eab6021479779]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2020/27/section/3) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/a)

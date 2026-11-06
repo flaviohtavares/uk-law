@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Review[^key-1ffe5bc2c2491826771d66e1f3e8554b]
+## 55. Review[^c-1ffe5bc2c2491826771d66e1f3e8554b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1ffe5bc2c2491826771d66e1f3e8554b]: Textual amendment: [Art. 55](https://www.legislation.gov.uk/uksi/2002/253/article/55) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 4 para. 18](https://www.legislation.gov.uk/uksi/2019/593/schedule/4/paragraph/18) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/4/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [12(3)-(10)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/12/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1ffe5bc2c2491826771d66e1f3e8554b]: Textual amendment: [Art. 55](https://www.legislation.gov.uk/uksi/2002/253/article/55) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 4 para. 18](https://www.legislation.gov.uk/uksi/2019/593/schedule/4/paragraph/18) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/4/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [12(3)-(10)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/12/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

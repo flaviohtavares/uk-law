@@ -31,18 +31,18 @@ British Shipbuilders (Borrowing Powers) Act 1983 (repealed)
 
 1983 c. 58
 
-[^key-579dc3d4d883e2887b3e036edcba2b7a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-579dc3d4d883e2887b3e036edcba2b7a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Limit on borrowing et ceteralaetc. of British Shipbuilders.[^key-579dc3d4d883e2887b3e036edcba2b7a][^key-579dc3d4d883e2887b3e036edcba2b7a]
+## 1. Limit on borrowing et ceteralaetc. of British Shipbuilders.[^c-579dc3d4d883e2887b3e036edcba2b7a][^c-579dc3d4d883e2887b3e036edcba2b7a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Short title and extent.[^key-579dc3d4d883e2887b3e036edcba2b7a][^key-579dc3d4d883e2887b3e036edcba2b7a]
+## 2. Short title and extent.[^c-579dc3d4d883e2887b3e036edcba2b7a][^c-579dc3d4d883e2887b3e036edcba2b7a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-579dc3d4d883e2887b3e036edcba2b7a]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1983/58) repealed (22.3.2013) by [The Public Bodies (Abolition of British Shipbuilders) Order 2013 (S.I. 2013/687)](https://www.legislation.gov.uk/uksi/2013/687), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/687/article/1/2), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2013/687/schedule/1/paragraph/9)
+[^c-579dc3d4d883e2887b3e036edcba2b7a]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1983/58) repealed (22.3.2013) by [The Public Bodies (Abolition of British Shipbuilders) Order 2013 (S.I. 2013/687)](https://www.legislation.gov.uk/uksi/2013/687), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/687/article/1/2), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2013/687/schedule/1/paragraph/9)

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 15. Decisions[^key-8962013fd4d2a5b510fa280d497418e0]
+## 15. Decisions[^c-8962013fd4d2a5b510fa280d497418e0]
 
 *Extent: N.I.*
 
-(1) Subject to paragraph (3), in respect of a claim for rent allowance where a maximum rent (LHA) does not fall to be determined under regulation 14C[^key-b21ec49913db8de5ebce2f3c85da0c14] the Executive shall—
+(1) Subject to paragraph (3), in respect of a claim for rent allowance where a maximum rent (LHA) does not fall to be determined under regulation 14C[^c-b21ec49913db8de5ebce2f3c85da0c14] the Executive shall—
 
 - (a) make the decision in accordance with Part I of Schedule 2; and
 - (b) comply with Part II of Schedule 2 when making the decision.
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8962013fd4d2a5b510fa280d497418e0]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2006/405/regulation/15) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
+[^c-8962013fd4d2a5b510fa280d497418e0]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2006/405/regulation/15) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
 
-[^key-b21ec49913db8de5ebce2f3c85da0c14]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/15/1) inserted (with application in accordance with reg. 1(3)(4) of the amending Rule) by [The Housing Benefit (Local Housing Allowance) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/101)](https://www.legislation.gov.uk/nisr/2008/101), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/101/regulation/1/1), [2(8)](https://www.legislation.gov.uk/nisr/2008/101/regulation/2/8)
+[^c-b21ec49913db8de5ebce2f3c85da0c14]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/15/1) inserted (with application in accordance with reg. 1(3)(4) of the amending Rule) by [The Housing Benefit (Local Housing Allowance) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/101)](https://www.legislation.gov.uk/nisr/2008/101), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/101/regulation/1/1), [2(8)](https://www.legislation.gov.uk/nisr/2008/101/regulation/2/8)

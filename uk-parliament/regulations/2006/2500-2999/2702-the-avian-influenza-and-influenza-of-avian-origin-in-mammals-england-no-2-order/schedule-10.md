@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 10 — Measures on premises where influenza of avian origin is confirmed[^key-daf119567a3a7320a3e6b0eba16dd65d]
+## SCHEDULE 10 — Measures on premises where influenza of avian origin is confirmed[^c-daf119567a3a7320a3e6b0eba16dd65d]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ The occupier must not restock the premises with poultry, other captive birds or 
 
 ## Annotations
 
-[^key-daf119567a3a7320a3e6b0eba16dd65d]: Textual amendment: [Schs. 9](https://www.legislation.gov.uk/uksi/2006/2702/schedule/9), [10](https://www.legislation.gov.uk/uksi/2006/2702/schedule/10) inserted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [4(46)](https://www.legislation.gov.uk/uksi/2023/1415/article/4/46)
+[^c-daf119567a3a7320a3e6b0eba16dd65d]: Textual amendment: [Schs. 9](https://www.legislation.gov.uk/uksi/2006/2702/schedule/9), [10](https://www.legislation.gov.uk/uksi/2006/2702/schedule/10) inserted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [4(46)](https://www.legislation.gov.uk/uksi/2023/1415/article/4/46)

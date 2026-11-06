@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 194C. Sections 194 to 194B: the prescribed charity[^key-d3c065883e1cb452141e1d7ff9f2df19]
+## 194C. Sections 194 to 194B: the prescribed charity[^c-d3c065883e1cb452141e1d7ff9f2df19]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d3c065883e1cb452141e1d7ff9f2df19]: Textual amendment: [S. 194C](https://www.legislation.gov.uk/ukpga/2007/29/section/194C) inserted (28.6.2022) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [ss. 48(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/48/4), [51(3)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/3)
+[^c-d3c065883e1cb452141e1d7ff9f2df19]: Textual amendment: [S. 194C](https://www.legislation.gov.uk/ukpga/2007/29/section/194C) inserted (28.6.2022) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [ss. 48(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/48/4), [51(3)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/3)

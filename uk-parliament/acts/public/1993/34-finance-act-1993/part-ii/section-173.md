@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 173. Assessment and collection of tax.[^key-5eb5fcc7f5e7471f3eb427bc4602d396]
+## 173. Assessment and collection of tax.[^c-5eb5fcc7f5e7471f3eb427bc4602d396]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5eb5fcc7f5e7471f3eb427bc4602d396]: Textual amendment: [S. 173](https://www.legislation.gov.uk/ukpga/1993/34/section/173) repealed (20.7.2005 for specified purposes, 6.4.2006 in so far as not already in force) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [s. 45(1)](https://www.legislation.gov.uk/ukpga/2005/22/section/45/1)[(8)](https://www.legislation.gov.uk/ukpga/2005/22/section/45/8)[(9)](https://www.legislation.gov.uk/ukpga/2005/22/section/45/9), [Sch. 11 Pt. 2(11)](https://www.legislation.gov.uk/ukpga/2005/22/schedule/11/part/2/11); [S.I. 2005/3337](https://www.legislation.gov.uk/uksi/2005/3337), [art. 3](https://www.legislation.gov.uk/uksi/2005/3337/article/3)
+[^c-5eb5fcc7f5e7471f3eb427bc4602d396]: Textual amendment: [S. 173](https://www.legislation.gov.uk/ukpga/1993/34/section/173) repealed (20.7.2005 for specified purposes, 6.4.2006 in so far as not already in force) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [s. 45(1)](https://www.legislation.gov.uk/ukpga/2005/22/section/45/1)[(8)](https://www.legislation.gov.uk/ukpga/2005/22/section/45/8)[(9)](https://www.legislation.gov.uk/ukpga/2005/22/section/45/9), [Sch. 11 Pt. 2(11)](https://www.legislation.gov.uk/ukpga/2005/22/schedule/11/part/2/11); [S.I. 2005/3337](https://www.legislation.gov.uk/uksi/2005/3337), [art. 3](https://www.legislation.gov.uk/uksi/2005/3337/article/3)

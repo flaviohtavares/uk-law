@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.9.6. Appeals to the Court of Session[^key-70bde836319612a99949b233bb0ce0f7]
+## 3.9.6. Appeals to the Court of Session[^c-70bde836319612a99949b233bb0ce0f7]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-70bde836319612a99949b233bb0ce0f7]: Commencement: Rule 3.9.6 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-70bde836319612a99949b233bb0ce0f7]: Commencement: Rule 3.9.6 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)

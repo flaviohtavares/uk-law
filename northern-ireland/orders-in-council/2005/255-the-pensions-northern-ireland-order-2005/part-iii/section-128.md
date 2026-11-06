@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: N.I.*
 
-(1)[^c17104281] [^c17104291]This Article applies where the Board obtains a valuation in respect of a scheme under Article 127(2)(b)[^key-e7f44dbd7bd439479641860ddc833d5f].
+(1)[^c17104281] [^c17104291]This Article applies where the Board obtains a valuation in respect of a scheme under Article 127(2)(b)[^c-e7f44dbd7bd439479641860ddc833d5f].
 
-(2) Where the Board is satisfied that the valuation has been prepared in accordance with Article 127[^key-81aec372e507be363ca27517b971be57], it must—
+(2) Where the Board is satisfied that the valuation has been prepared in accordance with Article 127[^c-81aec372e507be363ca27517b971be57], it must—
 
 - (a) approve the valuation, and
 - (b) give a copy of the valuation to—
@@ -38,6 +38,6 @@ summary: ''
 
 [^c17104291]: Textual amendment: mod. by SR 2005/91
 
-[^key-e7f44dbd7bd439479641860ddc833d5f]: Textual amendment: Word in [art. 128(1)](https://www.legislation.gov.uk/nisi/2005/255/article/128/1) substituted (23.7.2012) by [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [s. 34(3)](https://www.legislation.gov.uk/nia/2012/3/section/34/3), [Sch. 4 para. 7(2)](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/7/2); [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(4)(a)(ii)](https://www.legislation.gov.uk/nisr/2012/265/article/2/4/a/ii)
+[^c-e7f44dbd7bd439479641860ddc833d5f]: Textual amendment: Word in [art. 128(1)](https://www.legislation.gov.uk/nisi/2005/255/article/128/1) substituted (23.7.2012) by [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [s. 34(3)](https://www.legislation.gov.uk/nia/2012/3/section/34/3), [Sch. 4 para. 7(2)](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/7/2); [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(4)(a)(ii)](https://www.legislation.gov.uk/nisr/2012/265/article/2/4/a/ii)
 
-[^key-81aec372e507be363ca27517b971be57]: Textual amendment: Words in [art. 128(2)](https://www.legislation.gov.uk/nisi/2005/255/article/128/2) substituted (23.7.2012) by [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [s. 34(3)](https://www.legislation.gov.uk/nia/2012/3/section/34/3), [Sch. 4 para. 7(3)](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/7/3); [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(4)(a)(ii)](https://www.legislation.gov.uk/nisr/2012/265/article/2/4/a/ii)
+[^c-81aec372e507be363ca27517b971be57]: Textual amendment: Words in [art. 128(2)](https://www.legislation.gov.uk/nisi/2005/255/article/128/2) substituted (23.7.2012) by [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [s. 34(3)](https://www.legislation.gov.uk/nia/2012/3/section/34/3), [Sch. 4 para. 7(3)](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/7/3); [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(4)(a)(ii)](https://www.legislation.gov.uk/nisr/2012/265/article/2/4/a/ii)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 47. Personal lamps[^key-3b3343d3b4a8ce4b86814ae1e60cf880]
+## 47. Personal lamps[^c-3b3343d3b4a8ce4b86814ae1e60cf880]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ The mine operator shall—
 
 ## Annotations
 
-[^key-3b3343d3b4a8ce4b86814ae1e60cf880]: Commencement: [Reg. 47](https://www.legislation.gov.uk/nisr/2016/427/regulation/47) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-3b3343d3b4a8ce4b86814ae1e60cf880]: Commencement: [Reg. 47](https://www.legislation.gov.uk/nisr/2016/427/regulation/47) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)

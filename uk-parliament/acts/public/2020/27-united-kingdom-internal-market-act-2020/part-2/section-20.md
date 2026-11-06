@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Direct discrimination in the regulation of services[^key-640febe899f99a903b9673750d2471a8]
+## 20. Direct discrimination in the regulation of services[^c-640febe899f99a903b9673750d2471a8]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-640febe899f99a903b9673750d2471a8]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2020/27/section/20) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/b)
+[^c-640febe899f99a903b9673750d2471a8]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2020/27/section/20) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/b)

@@ -33,7 +33,7 @@ supplementing Directive 2014/59/EU of the European Parliament and of the Council
 
 (Text with EEA relevance)
 
-[^key-0b313b449677378c568a6844a2b1b4b7]
+[^c-0b313b449677378c568a6844a2b1b4b7]
 
 THE EUROPEAN COMMISSION,
 
@@ -103,11 +103,11 @@ HAS ADOPTED THIS REGULATION:
 
 This Regulation lays down rules specifying:
 
-- ((a)) [^key-6be24d5f1f42baa1722cd76ef82199e8]...
-- ((b)) the criteria for the determination of the activities, services and operations referred to in the definition of “critical functions” in section 3(1) of the Banking Act 2009 (including as applied by that Act in relation to persons other than a bank)[^key-c05fc85b855553f03c298d0c290fef1a];
-- ((c)) the criteria for the determination of the business lines and associated services referred to in the definition of “core business lines” in section 48B(14) of the Banking Act 2009 (including as applied in relation to other persons by that Act)[^key-251a0434031d45dc7e58987bdcf18031].
+- ((a)) [^c-6be24d5f1f42baa1722cd76ef82199e8]...
+- ((b)) the criteria for the determination of the activities, services and operations referred to in the definition of “critical functions” in section 3(1) of the Banking Act 2009 (including as applied by that Act in relation to persons other than a bank)[^c-c05fc85b855553f03c298d0c290fef1a];
+- ((c)) the criteria for the determination of the business lines and associated services referred to in the definition of “core business lines” in section 48B(14) of the Banking Act 2009 (including as applied in relation to other persons by that Act)[^c-251a0434031d45dc7e58987bdcf18031].
 
-[^key-fdab0c82b99e1c0dec5ae6f2be78aea2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fdab0c82b99e1c0dec5ae6f2be78aea2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Article 2. Definitions
 
@@ -116,11 +116,11 @@ For the purposes of this Regulation, the following definitions shall apply:
 - ((1)) ‘deferral period’ means a period of up to six months;
 - ((2)) ‘function’ means a structured set of activities, services or operations that are delivered by the institution or group to third parties irrespective from the internal organisation of the institution;
 - ((3)) ‘business line’ means as a structured set of activities, processes or operations that are developed by the institution or group for third parties to achieve the organisation's goals.
-- ((4)) ‘resolution authority’ means the Bank of England;[^key-2f71dcd2c87ed45fbaef2e7053592ace]
+- ((4)) ‘resolution authority’ means the Bank of England;[^c-2f71dcd2c87ed45fbaef2e7053592ace]
 - ((5)) ‘institution’ has the meaning given in section 3A(8) of the Banking Act 2009;
 - ((6)) ‘group’ has the meaning given in section 3(2)(b) of the Banking Act 2009.
 
-## CHAPTER II — DEFERRAL OF EX POST CONTRIBUTIONS[^key-2b0b49b2b95d945f4669260bb30d2b90]
+## CHAPTER II — DEFERRAL OF EX POST CONTRIBUTIONS[^c-2b0b49b2b95d945f4669260bb30d2b90]
 
 **No longer in force.**
 
@@ -150,7 +150,7 @@ For the purposes of this Regulation, the following definitions shall apply:
 The assessment criteria for the impact on third parties shall include at least the following elements:
 
 - (a) the nature and reach of the activity, the global, national or regional reach, volume and number of transactions; the number of customers and counterparties; the number of customers for which the institution is the only or principal banking partner;
-- (b) the relevance of the institution, on a local, regional or national[^key-d5275be7ea0f8bde44d3a874744883ea] level, as appropriate for the market concerned. The relevance of the institution may be assessed on the basis of the market share, the interconnectedness, the complexity and cross border activities;
+- (b) the relevance of the institution, on a local, regional or national[^c-d5275be7ea0f8bde44d3a874744883ea] level, as appropriate for the market concerned. The relevance of the institution may be assessed on the basis of the market share, the interconnectedness, the complexity and cross border activities;
 - (c) the nature of the customers and stakeholders affected by the function, such as but not limited to retail customers, corporate customers, interbank customers, central clearing houses and public entities;
 - (d) the potential disruption of the function on markets, infrastructures, customers and public services. In particular, the assessment may include the effect on the liquidity of markets concerned, the impact and extent of disruption to customer business, and short-term liquidity needs; the perceptibility to counterparties, customers and the public; the capacity and speed of customer reaction; the relevance to the functioning of other markets; the effect on the liquidity, operations, structure of another market; the effect on other counterparties related to the main customers and the interrelation of the function with other services.
 
@@ -193,7 +193,7 @@ Future expected revenues, growth outlooks and franchise value may be considered 
 
 This Regulation shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.
 
-[^key-9d3427bf3c25be805a39db3f437f9ccf]...
+[^c-9d3427bf3c25be805a39db3f437f9ccf]...
 
 Done at Brussels, 2 February 2016.
 
@@ -205,22 +205,22 @@ Jean-Claude Juncker
 
 ## Annotations
 
-[^key-0b313b449677378c568a6844a2b1b4b7]: Modification: Regulation: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-0b313b449677378c568a6844a2b1b4b7]: Modification: Regulation: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
 [^f00001]: Footnote: [OJ L 173, 12.6.2014, p. 190](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2014.173.01.0190.01.ENG).
 
-[^key-6be24d5f1f42baa1722cd76ef82199e8]: Textual amendment: [Art. 1(a)](https://www.legislation.gov.uk/eur/2016/778/article/1/a) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 5 para. 1(2)(a)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/5/paragraph/1/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6be24d5f1f42baa1722cd76ef82199e8]: Textual amendment: [Art. 1(a)](https://www.legislation.gov.uk/eur/2016/778/article/1/a) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 5 para. 1(2)(a)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/5/paragraph/1/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c05fc85b855553f03c298d0c290fef1a]: Textual amendment: Words in [Art. 1(b)](https://www.legislation.gov.uk/eur/2016/778/article/1/b) substituted (31.12.2020) by [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 5 para. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/5/paragraph/1/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c05fc85b855553f03c298d0c290fef1a]: Textual amendment: Words in [Art. 1(b)](https://www.legislation.gov.uk/eur/2016/778/article/1/b) substituted (31.12.2020) by [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 5 para. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/5/paragraph/1/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-251a0434031d45dc7e58987bdcf18031]: Textual amendment: Words in [Art. 1(c)](https://www.legislation.gov.uk/eur/2016/778/article/1/c) substituted (31.12.2020) by [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 5 para. 1(2)(c)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/5/paragraph/1/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-251a0434031d45dc7e58987bdcf18031]: Textual amendment: Words in [Art. 1(c)](https://www.legislation.gov.uk/eur/2016/778/article/1/c) substituted (31.12.2020) by [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 5 para. 1(2)(c)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/5/paragraph/1/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-fdab0c82b99e1c0dec5ae6f2be78aea2]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eur/2016/778/article/1) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 5 para. 1(2)(d)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/5/paragraph/1/2/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fdab0c82b99e1c0dec5ae6f2be78aea2]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eur/2016/778/article/1) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 5 para. 1(2)(d)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/5/paragraph/1/2/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2f71dcd2c87ed45fbaef2e7053592ace]: Textual amendment: [Art. 2(4)-(6)](https://www.legislation.gov.uk/eur/2016/778/article/2/4) inserted (31.12.2020) by [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 5 para. 1(3)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/5/paragraph/1/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2f71dcd2c87ed45fbaef2e7053592ace]: Textual amendment: [Art. 2(4)-(6)](https://www.legislation.gov.uk/eur/2016/778/article/2/4) inserted (31.12.2020) by [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 5 para. 1(3)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/5/paragraph/1/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2b0b49b2b95d945f4669260bb30d2b90]: Textual amendment: [Ch. 2](https://www.legislation.gov.uk/eur/2016/778/chapter/II) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 5 para. 1(4)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/5/paragraph/1/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2b0b49b2b95d945f4669260bb30d2b90]: Textual amendment: [Ch. 2](https://www.legislation.gov.uk/eur/2016/778/chapter/II) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 5 para. 1(4)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/5/paragraph/1/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d5275be7ea0f8bde44d3a874744883ea]: Textual amendment: Words in [Art. 6(2)(b)](https://www.legislation.gov.uk/eur/2016/778/article/6/2/b) substituted (31.12.2020) by [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 5 para. 1(5)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/5/paragraph/1/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d5275be7ea0f8bde44d3a874744883ea]: Textual amendment: Words in [Art. 6(2)(b)](https://www.legislation.gov.uk/eur/2016/778/article/6/2/b) substituted (31.12.2020) by [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 5 para. 1(5)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/5/paragraph/1/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9d3427bf3c25be805a39db3f437f9ccf]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2016/778/signature) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 5 para. 1(6)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/5/paragraph/1/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9d3427bf3c25be805a39db3f437f9ccf]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2016/778/signature) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 5 para. 1(6)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/5/paragraph/1/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

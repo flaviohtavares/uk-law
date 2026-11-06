@@ -104,7 +104,7 @@ A child falls within this section in a financial year if the child—
 
 (1) The Poverty and Inequality Commission (in this Act, referred to as “**the Commission**”) is established.
 
-(2)[^key-44355f59ef99b51844cec879730a2883] In addition to the functions conferred on it by this Act, the functions of the Commission are—
+(2)[^c-44355f59ef99b51844cec879730a2883] In addition to the functions conferred on it by this Act, the functions of the Commission are—
 
 - (a) to advise the Scottish Ministers on any matter relating to poverty or inequality in Scotland, including the impact of their policies and use of resources in reducing such poverty and inequality,
 - (b) to monitor progress in reducing poverty and inequality in Scotland,
@@ -336,13 +336,13 @@ The short title of this Act is the Child Poverty (Scotland) Act 2017.
 **1.** (1) The Commission is to consist of—
 
 - (a) a member to chair the Commission, and
-- (b) at least 4 but no more than 8[^key-ec7f86618d8c195e9e7a69917b643233] other members.
+- (b) at least 4 but no more than 8[^c-ec7f86618d8c195e9e7a69917b643233] other members.
 
 (2) The Scottish Ministers are to appoint the members.
 
 (3) The Scottish Ministers may appoint a person as a member only if the Scottish Parliament has approved the appointment.
 
-(4) In proposing persons to the Scottish Parliament for approval for appointment to the Commission, the Scottish Ministers must have regard to the desirability of —[^key-9ce89785ab4d705a1b6212dfbefe25da]
+(4) In proposing persons to the Scottish Parliament for approval for appointment to the Commission, the Scottish Ministers must have regard to the desirability of —[^c-9ce89785ab4d705a1b6212dfbefe25da]
 
 - (a) securing that the Commission (taken as a whole) has experience in and knowledge of—
   - (i) the formulation, implementation and evaluation of policy relating to poverty and inequality,
@@ -483,8 +483,8 @@ The short title of this Act is the Child Poverty (Scotland) Act 2017.
 
 ## Annotations
 
-[^key-44355f59ef99b51844cec879730a2883]: Textual amendment: [S. 8(2)-(2B)](https://www.legislation.gov.uk/asp/2017/6/section/8/2) substituted for [s. 8(2)](https://www.legislation.gov.uk/asp/2017/6/section/8/2) (1.7.2019) by [The Public Services Reform (Poverty and Inequality Commission) (Scotland) Order 2018 (S.S.I. 2018/316)](https://www.legislation.gov.uk/ssi/2018/316), [arts. 1](https://www.legislation.gov.uk/ssi/2018/316/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2018/316/article/2/2)
+[^c-44355f59ef99b51844cec879730a2883]: Textual amendment: [S. 8(2)-(2B)](https://www.legislation.gov.uk/asp/2017/6/section/8/2) substituted for [s. 8(2)](https://www.legislation.gov.uk/asp/2017/6/section/8/2) (1.7.2019) by [The Public Services Reform (Poverty and Inequality Commission) (Scotland) Order 2018 (S.S.I. 2018/316)](https://www.legislation.gov.uk/ssi/2018/316), [arts. 1](https://www.legislation.gov.uk/ssi/2018/316/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2018/316/article/2/2)
 
-[^key-ec7f86618d8c195e9e7a69917b643233]: Textual amendment: Words in sch. para. 1(1)(b) substituted (1.7.2019) by [The Public Services Reform (Poverty and Inequality Commission) (Scotland) Order 2018 (S.S.I. 2018/316)](https://www.legislation.gov.uk/ssi/2018/316), [arts. 1](https://www.legislation.gov.uk/ssi/2018/316/article/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2018/316/article/2/3/a)
+[^c-ec7f86618d8c195e9e7a69917b643233]: Textual amendment: Words in sch. para. 1(1)(b) substituted (1.7.2019) by [The Public Services Reform (Poverty and Inequality Commission) (Scotland) Order 2018 (S.S.I. 2018/316)](https://www.legislation.gov.uk/ssi/2018/316), [arts. 1](https://www.legislation.gov.uk/ssi/2018/316/article/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2018/316/article/2/3/a)
 
-[^key-9ce89785ab4d705a1b6212dfbefe25da]: Textual amendment: Sch. para. 1(4)(a)(b) substituted for words in sch. para. 1(4) (1.7.2019) by [The Public Services Reform (Poverty and Inequality Commission) (Scotland) Order 2018 (S.S.I. 2018/316)](https://www.legislation.gov.uk/ssi/2018/316), [arts. 1](https://www.legislation.gov.uk/ssi/2018/316/article/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2018/316/article/2/3/b)
+[^c-9ce89785ab4d705a1b6212dfbefe25da]: Textual amendment: Sch. para. 1(4)(a)(b) substituted for words in sch. para. 1(4) (1.7.2019) by [The Public Services Reform (Poverty and Inequality Commission) (Scotland) Order 2018 (S.S.I. 2018/316)](https://www.legislation.gov.uk/ssi/2018/316), [arts. 1](https://www.legislation.gov.uk/ssi/2018/316/article/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2018/316/article/2/3/b)

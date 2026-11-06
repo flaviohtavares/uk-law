@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Particulars registrable under Part III of Data Protection Act 1998.[^key-48ce2b2f8090cd7f310954528bae8e3b]
+## 71. Particulars registrable under Part III of Data Protection Act 1998.[^c-48ce2b2f8090cd7f310954528bae8e3b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-48ce2b2f8090cd7f310954528bae8e3b]: Textual amendment: [S. 71](https://www.legislation.gov.uk/ukpga/2000/36/section/71) repealed (25.5.2018) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 111(9)(a)](https://www.legislation.gov.uk/ukpga/2017/30/section/111/9/a), [118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6); [S.I. 2018/624](https://www.legislation.gov.uk/uksi/2018/624), [reg. 2](https://www.legislation.gov.uk/uksi/2018/624/regulation/2)
+[^c-48ce2b2f8090cd7f310954528bae8e3b]: Textual amendment: [S. 71](https://www.legislation.gov.uk/ukpga/2000/36/section/71) repealed (25.5.2018) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 111(9)(a)](https://www.legislation.gov.uk/ukpga/2017/30/section/111/9/a), [118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6); [S.I. 2018/624](https://www.legislation.gov.uk/uksi/2018/624), [reg. 2](https://www.legislation.gov.uk/uksi/2018/624/regulation/2)

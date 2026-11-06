@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Applications for adoption[^key-43a8fec774fb56e8826f662f46c0da9b][^key-fdfa2b8f6e6419caad5ed83ea9b824c2]
+## 49. Applications for adoption[^c-43a8fec774fb56e8826f662f46c0da9b][^c-fdfa2b8f6e6419caad5ed83ea9b824c2]
 
 *Extent: E+W*
 
@@ -37,6 +37,6 @@ but only if it is made under section 50 or 51 and one of the following condition
 
 ## Annotations
 
-[^key-43a8fec774fb56e8826f662f46c0da9b]: Commencement: S. 49 in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(c)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/c) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
+[^c-43a8fec774fb56e8826f662f46c0da9b]: Commencement: S. 49 in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(c)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/c) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
 
-[^key-fdfa2b8f6e6419caad5ed83ea9b824c2]: Modification: S. 49 applied (with modifications) (30.12.2005) by [The Adoptions with a Foreign Element Regulations 2005 (S.I. 2005/392)](https://www.legislation.gov.uk/uksi/2005/392), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/392/regulation/1/1), [52](https://www.legislation.gov.uk/uksi/2005/392/regulation/52), [58](https://www.legislation.gov.uk/uksi/2005/392/regulation/58)
+[^c-fdfa2b8f6e6419caad5ed83ea9b824c2]: Modification: S. 49 applied (with modifications) (30.12.2005) by [The Adoptions with a Foreign Element Regulations 2005 (S.I. 2005/392)](https://www.legislation.gov.uk/uksi/2005/392), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/392/regulation/1/1), [52](https://www.legislation.gov.uk/uksi/2005/392/regulation/52), [58](https://www.legislation.gov.uk/uksi/2005/392/regulation/58)

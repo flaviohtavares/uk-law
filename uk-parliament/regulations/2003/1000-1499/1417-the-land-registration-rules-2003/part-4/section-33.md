@@ -29,8 +29,8 @@ the registrar is satisfied that the right subsists as a legal estate and benefit
 
 (2) If the registrar is not satisfied that the right subsists as a legal interest benefiting the registered estate, he may enter details of the right claimed in the property register with such qualification as he considers appropriate.
 
-(3)[^key-6f4223aa0700adf1ab6ac84f1bd575fc] The evidence referred to in paragraph (1)(b) may consist of, or include, a statement of truth, which may be made in Form ST4 if appropriate.
+(3)[^c-6f4223aa0700adf1ab6ac84f1bd575fc] The evidence referred to in paragraph (1)(b) may consist of, or include, a statement of truth, which may be made in Form ST4 if appropriate.
 
 ## Annotations
 
-[^key-6f4223aa0700adf1ab6ac84f1bd575fc]: Textual amendment: Rule 33(3) added (10.11.2008) by [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/9) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))
+[^c-6f4223aa0700adf1ab6ac84f1bd575fc]: Textual amendment: Rule 33(3) added (10.11.2008) by [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/9) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))

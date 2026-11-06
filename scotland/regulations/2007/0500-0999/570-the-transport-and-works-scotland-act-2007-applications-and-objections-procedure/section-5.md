@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5. EIA application and screening decision[^key-053ca893acdff5c1a4f27dc5e5d2956f]
+## 5. EIA application and screening decision[^c-053ca893acdff5c1a4f27dc5e5d2956f]
 
 *Extent: S*
 
-(1) The occurrence of an event mentioned in paragraph (2) determines for the purpose of rules 2A, 3(3) and (4), 4 to 6, 8(2)(h) and (i), 9, 11(4) and (7)(d), 12(10) to (12), 14 to 15A, 26(2), schedule 1, and paragraphs 3 to 10, 11A, 12 (as it applies to paragraph 11A), 12A, 16(f), 19, 20 (as it applies to paragraph 19), 21 (as it applies to paragraph 11A), 30, 31, 33 (except for the reference to paragraph 29 in paragraph 33) and 35(2) of schedule 5[^key-5df134b87757f00e0806b085cb16c6c5] that an application is an EIA application.
+(1) The occurrence of an event mentioned in paragraph (2) determines for the purpose of rules 2A, 3(3) and (4), 4 to 6, 8(2)(h) and (i), 9, 11(4) and (7)(d), 12(10) to (12), 14 to 15A, 26(2), schedule 1, and paragraphs 3 to 10, 11A, 12 (as it applies to paragraph 11A), 12A, 16(f), 19, 20 (as it applies to paragraph 19), 21 (as it applies to paragraph 11A), 30, 31, 33 (except for the reference to paragraph 29 in paragraph 33) and 35(2) of schedule 5[^c-5df134b87757f00e0806b085cb16c6c5] that an application is an EIA application.
 
 (2) The events are—
 
@@ -92,6 +92,6 @@ and the Scottish Ministers must include in each such notice the information prov
 
 ## Annotations
 
-[^key-053ca893acdff5c1a4f27dc5e5d2956f]: Textual amendment: Rule 5 substituted (16.5.2017) by [The Transport and Works (Scotland) Act 2007 (Applications and Objections Procedure) Amendment Rules 2017 (S.S.I. 2017/74)](https://www.legislation.gov.uk/ssi/2017/74), [rules 1](https://www.legislation.gov.uk/ssi/2017/74/rule/1), [6](https://www.legislation.gov.uk/ssi/2017/74/rule/6) (with [rule 19](https://www.legislation.gov.uk/ssi/2017/74/rule/19))
+[^c-053ca893acdff5c1a4f27dc5e5d2956f]: Textual amendment: Rule 5 substituted (16.5.2017) by [The Transport and Works (Scotland) Act 2007 (Applications and Objections Procedure) Amendment Rules 2017 (S.S.I. 2017/74)](https://www.legislation.gov.uk/ssi/2017/74), [rules 1](https://www.legislation.gov.uk/ssi/2017/74/rule/1), [6](https://www.legislation.gov.uk/ssi/2017/74/rule/6) (with [rule 19](https://www.legislation.gov.uk/ssi/2017/74/rule/19))
 
-[^key-5df134b87757f00e0806b085cb16c6c5]: Textual amendment: Words in rule 5(3) substituted (7.12.2019) by [The Environmental Impact Assessment (Transport) (Scotland) Regulations 2019 (S.S.I. 2019/322)](https://www.legislation.gov.uk/ssi/2019/322), [regs. 1](https://www.legislation.gov.uk/ssi/2019/322/regulation/1), [4(4)](https://www.legislation.gov.uk/ssi/2019/322/regulation/4/4)
+[^c-5df134b87757f00e0806b085cb16c6c5]: Textual amendment: Words in rule 5(3) substituted (7.12.2019) by [The Environmental Impact Assessment (Transport) (Scotland) Regulations 2019 (S.S.I. 2019/322)](https://www.legislation.gov.uk/ssi/2019/322), [regs. 1](https://www.legislation.gov.uk/ssi/2019/322/regulation/1), [4(4)](https://www.legislation.gov.uk/ssi/2019/322/regulation/4/4)

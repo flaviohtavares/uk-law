@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 129. Summary sheriffs to sit in justice of the peace courts[^key-57426e179bbf8a92ed1a1f28c125dedf]
+## 129. Summary sheriffs to sit in justice of the peace courts[^c-57426e179bbf8a92ed1a1f28c125dedf]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ A summary sheriff of a sheriffdom may constitute, and exercise the jurisdiction 
 
 ## Annotations
 
-[^key-57426e179bbf8a92ed1a1f28c125dedf]: Commencement: [S. 129](https://www.legislation.gov.uk/asp/2014/18/section/129) in force at 1.4.2016 by [S.S.I. 2016/13](https://www.legislation.gov.uk/ssi/2016/13), [art. 2](https://www.legislation.gov.uk/ssi/2016/13/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/13/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/13/article/3))
+[^c-57426e179bbf8a92ed1a1f28c125dedf]: Commencement: [S. 129](https://www.legislation.gov.uk/asp/2014/18/section/129) in force at 1.4.2016 by [S.S.I. 2016/13](https://www.legislation.gov.uk/ssi/2016/13), [art. 2](https://www.legislation.gov.uk/ssi/2016/13/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/13/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/13/article/3))

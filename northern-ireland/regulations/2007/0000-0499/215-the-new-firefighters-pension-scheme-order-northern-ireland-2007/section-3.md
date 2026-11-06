@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 3. New pension scheme for firefighters in Northern Ireland[^key-e9bb061c731e35d5b3a61bf724bfce10]
+## 3. New pension scheme for firefighters in Northern Ireland[^c-e9bb061c731e35d5b3a61bf724bfce10]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ The New Firefighters’ Pension Scheme (Northern Ireland), set out in the Annex,
 
 ## Annotations
 
-[^key-e9bb061c731e35d5b3a61bf724bfce10]: Commencement: Art. 3 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-e9bb061c731e35d5b3a61bf724bfce10]: Commencement: Art. 3 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)

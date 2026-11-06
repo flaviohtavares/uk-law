@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. Notification of results of the assignment stage[^key-7c31fb3a692f7712f9810bbf3fa38082]
+## 106. Notification of results of the assignment stage[^c-7c31fb3a692f7712f9810bbf3fa38082]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ After the determination of the assignment of the 3.6 GHz lots or the winning 3.6
 
 ## Annotations
 
-[^key-7c31fb3a692f7712f9810bbf3fa38082]: Commencement: Reg. 106 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-7c31fb3a692f7712f9810bbf3fa38082]: Commencement: Reg. 106 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

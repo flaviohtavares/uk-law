@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 112. Requirements to make reparation to be specified in order[^key-dc66fd991f57ee64f1599dbf5f754c38]
+## 112. Requirements to make reparation to be specified in order[^c-dc66fd991f57ee64f1599dbf5f754c38]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ This is subject to subsections (5) and (6).
 
 ## Annotations
 
-[^key-dc66fd991f57ee64f1599dbf5f754c38]: Commencement: S. 112 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-dc66fd991f57ee64f1599dbf5f754c38]: Commencement: S. 112 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

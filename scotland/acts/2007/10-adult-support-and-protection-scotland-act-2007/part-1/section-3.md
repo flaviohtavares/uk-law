@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3. Adults at risk[^key-fdb194cb5ae4fb1f91ef62e7301443ea]
+## 3. Adults at risk[^c-fdb194cb5ae4fb1f91ef62e7301443ea]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fdb194cb5ae4fb1f91ef62e7301443ea]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2007/10/section/3) in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)
+[^c-fdb194cb5ae4fb1f91ef62e7301443ea]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2007/10/section/3) in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)

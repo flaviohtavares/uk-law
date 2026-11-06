@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5A. Delegation of document-signing function[^key-524967473e5f2cf55dedfd502db8dab7]
+## 5A. Delegation of document-signing function[^c-524967473e5f2cf55dedfd502db8dab7]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-524967473e5f2cf55dedfd502db8dab7]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/uksi/2009/890/regulation/5A) inserted (1.1.2016) by [The Waste Batteries and Accumulators (Amendment) Regulations 2015 (S.I. 2015/1935)](https://www.legislation.gov.uk/uksi/2015/1935), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1935/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2015/1935/regulation/2)
+[^c-524967473e5f2cf55dedfd502db8dab7]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/uksi/2009/890/regulation/5A) inserted (1.1.2016) by [The Waste Batteries and Accumulators (Amendment) Regulations 2015 (S.I. 2015/1935)](https://www.legislation.gov.uk/uksi/2015/1935), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1935/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2015/1935/regulation/2)

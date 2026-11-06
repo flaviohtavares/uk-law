@@ -24,7 +24,7 @@ summary: ''
 
 Section 42
 
-### 1. Children Act 1989[^key-a8c050eee235e66804639a896fbe01aa]
+### 1. Children Act 1989[^c-a8c050eee235e66804639a896fbe01aa]
 
 (1) The [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41/contents) is amended as follows.
 
@@ -34,7 +34,7 @@ Section 42
 
 (4) In [Schedule 3](https://www.legislation.gov.uk/ukpga/1989/41/schedule/3) (supervision orders), in [paragraph 13](https://www.legislation.gov.uk/ukpga/1989/41/schedule/3/paragraph/13)[(2)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/3/paragraph/13)[(a)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/3/paragraph/13)[(i)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/3/paragraph/13) and [(b)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/3/paragraph/13)[(i)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/3/paragraph/13), for “437” substitute “436I”.
 
-### 2. Education Act 1996[^key-6f73c153e29b40975dd985890775962b]
+### 2. Education Act 1996[^c-6f73c153e29b40975dd985890775962b]
 
 (1) The [Education Act 1996](https://www.legislation.gov.uk/ukpga/1996/56/contents) is amended as follows.
 
@@ -67,11 +67,11 @@ Section 42
 
 (7) In [section 580](https://www.legislation.gov.uk/ukpga/1996/56/section/580) (index), in the second column of the entry relating to “school attendance order”, for “section 437(3)” substitute “section 436I”.
 
-### 3. School Standards and Framework Act 1998[^key-55bf1703bd5cb06863fc73dd57a39522]
+### 3. School Standards and Framework Act 1998[^c-55bf1703bd5cb06863fc73dd57a39522]
 
 In [section 86](https://www.legislation.gov.uk/ukpga/1998/31/section/86) of the [School Standards and Framework Act 1998](https://www.legislation.gov.uk/ukpga/1998/31/contents) (parental preferences), in [subsection (8)](https://www.legislation.gov.uk/ukpga/1998/31/section/86)[(b)](https://www.legislation.gov.uk/ukpga/1998/31/section/86), for “438(4) or 440(2)” substitute “436L(4) or 436O(2)”.
 
-### 4. Sentencing Act 2020[^key-dce83956c26223f9bd4ef83796591df2]
+### 4. Sentencing Act 2020[^c-dce83956c26223f9bd4ef83796591df2]
 
 In [section 369](https://www.legislation.gov.uk/ukpga/2020/17/section/369) of the [Sentencing Act 2020](https://www.legislation.gov.uk/ukpga/2020/17/contents) (parenting order in respect of certain offences under the Education Act 1996)—
 
@@ -80,10 +80,10 @@ In [section 369](https://www.legislation.gov.uk/ukpga/2020/17/section/369) of th
 
 ## Annotations
 
-[^key-a8c050eee235e66804639a896fbe01aa]: Commencement: Sch. 2 para. 1 not in force at Royal Assent, see [s. 78(3)(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
+[^c-a8c050eee235e66804639a896fbe01aa]: Commencement: Sch. 2 para. 1 not in force at Royal Assent, see [s. 78(3)(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
 
-[^key-6f73c153e29b40975dd985890775962b]: Commencement: Sch. 2 para. 2 not in force at Royal Assent, see [s. 78(3)(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
+[^c-6f73c153e29b40975dd985890775962b]: Commencement: Sch. 2 para. 2 not in force at Royal Assent, see [s. 78(3)(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
 
-[^key-55bf1703bd5cb06863fc73dd57a39522]: Commencement: Sch. 2 para. 3 not in force at Royal Assent, see [s. 78(3)(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
+[^c-55bf1703bd5cb06863fc73dd57a39522]: Commencement: Sch. 2 para. 3 not in force at Royal Assent, see [s. 78(3)(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
 
-[^key-dce83956c26223f9bd4ef83796591df2]: Commencement: Sch. 2 para. 4 not in force at Royal Assent, see [s. 78(3)(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
+[^c-dce83956c26223f9bd4ef83796591df2]: Commencement: Sch. 2 para. 4 not in force at Royal Assent, see [s. 78(3)(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)

@@ -27,8 +27,8 @@ summary: ''
 
 (2) In the case of a merger involving the transfer of property of any charity—
 
-- (a) which has both [^key-3c05750189c6aec68b884e9fa1e641ed]... permanent endowment and other property (“unrestricted property”), [^key-fea45112a7a63ca87d3f9ea57f0c0131]...
-- (b)[^key-fea45112a7a63ca87d3f9ea57f0c0131] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) which has both [^c-3c05750189c6aec68b884e9fa1e641ed]... permanent endowment and other property (“unrestricted property”), [^c-fea45112a7a63ca87d3f9ea57f0c0131]...
+- (b)[^c-fea45112a7a63ca87d3f9ea57f0c0131] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 subsection (1)(a) or (b) applies subject to the modifications in subsection (3).
 
@@ -44,6 +44,6 @@ subsection (1)(a) or (b) applies subject to the modifications in subsection (3).
 
 ## Annotations
 
-[^key-3c05750189c6aec68b884e9fa1e641ed]: Textual amendment: Word in [s. 306(2)(a)](https://www.legislation.gov.uk/ukpga/2011/25/section/306/2/a) omitted (14.6.2023) by virtue of [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [ss. 35(a)](https://www.legislation.gov.uk/ukpga/2022/6/section/35/a), [41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4); [S.I. 2023/643](https://www.legislation.gov.uk/uksi/2023/643), [Sch. para. 16](https://www.legislation.gov.uk/uksi/2023/643/schedule/paragraph/16)
+[^c-3c05750189c6aec68b884e9fa1e641ed]: Textual amendment: Word in [s. 306(2)(a)](https://www.legislation.gov.uk/ukpga/2011/25/section/306/2/a) omitted (14.6.2023) by virtue of [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [ss. 35(a)](https://www.legislation.gov.uk/ukpga/2022/6/section/35/a), [41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4); [S.I. 2023/643](https://www.legislation.gov.uk/uksi/2023/643), [Sch. para. 16](https://www.legislation.gov.uk/uksi/2023/643/schedule/paragraph/16)
 
-[^key-fea45112a7a63ca87d3f9ea57f0c0131]: Textual amendment: S. 306(2)(b) and word omitted (7.3.2024) by virtue of [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [ss. 35(b)](https://www.legislation.gov.uk/ukpga/2022/6/section/35/b), [41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4); [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 3](https://www.legislation.gov.uk/uksi/2024/265/regulation/3), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2024/265/schedule/1/paragraph/10)
+[^c-fea45112a7a63ca87d3f9ea57f0c0131]: Textual amendment: S. 306(2)(b) and word omitted (7.3.2024) by virtue of [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [ss. 35(b)](https://www.legislation.gov.uk/ukpga/2022/6/section/35/b), [41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4); [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 3](https://www.legislation.gov.uk/uksi/2024/265/regulation/3), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2024/265/schedule/1/paragraph/10)

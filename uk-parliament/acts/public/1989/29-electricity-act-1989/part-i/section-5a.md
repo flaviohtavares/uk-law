@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5A. Duties of distribution exemption holders[^key-bc458ebeb2209bee46e514406d19595b]
+## 5A. Duties of distribution exemption holders[^c-bc458ebeb2209bee46e514406d19595b]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 2ZA (which relates to the duties of distribution exemption holders) has
 
 ## Annotations
 
-[^key-bc458ebeb2209bee46e514406d19595b]: Textual amendment: Ss. 5A, 5B inserted (10.11.2011) by [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [21(2)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/21/2)
+[^c-bc458ebeb2209bee46e514406d19595b]: Textual amendment: Ss. 5A, 5B inserted (10.11.2011) by [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [21(2)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/21/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Restrictions on exercise of maritime enforcement powers[^key-abb6a4b80379c2b3032893078c0edab7][^key-99252e0dd13781bf6d764965da5df1cb]
+## 62. Restrictions on exercise of maritime enforcement powers[^c-abb6a4b80379c2b3032893078c0edab7][^c-99252e0dd13781bf6d764965da5df1cb]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,8 +35,8 @@ summary: ''
 
 ## Annotations
 
-[^key-abb6a4b80379c2b3032893078c0edab7]: Commencement: Reg. 62 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/433/regulation/1/2)
+[^c-abb6a4b80379c2b3032893078c0edab7]: Commencement: Reg. 62 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/433/regulation/1/2)
 
-[^key-99252e0dd13781bf6d764965da5df1cb]: Commencement: [Reg. 62](https://www.legislation.gov.uk/uksi/2019/433/regulation/62) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 5(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-99252e0dd13781bf6d764965da5df1cb]: Commencement: [Reg. 62](https://www.legislation.gov.uk/uksi/2019/433/regulation/62) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 5(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23619471]: Marginal citation: Cmnd 8941.

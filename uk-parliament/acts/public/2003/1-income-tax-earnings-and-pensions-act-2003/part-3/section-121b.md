@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 121B. Meaning of “modified cash equivalent”[^key-8fc70087b019bc61502973036b26a21a]
+## 121B. Meaning of “modified cash equivalent”[^c-8fc70087b019bc61502973036b26a21a]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8fc70087b019bc61502973036b26a21a]: Textual amendment: Ss. 121A, 121B inserted (with effect in accordance with Sch. 2 para. 62 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 2 para. 23](https://www.legislation.gov.uk/ukpga/2017/10/schedule/2/paragraph/23)
+[^c-8fc70087b019bc61502973036b26a21a]: Textual amendment: Ss. 121A, 121B inserted (with effect in accordance with Sch. 2 para. 62 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 2 para. 23](https://www.legislation.gov.uk/ukpga/2017/10/schedule/2/paragraph/23)

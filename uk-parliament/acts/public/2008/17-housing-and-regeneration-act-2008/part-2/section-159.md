@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 159. Applications to court[^key-36c3a54d4f610e2a65a219951a9ddfe0]
+## 159. Applications to court[^c-36c3a54d4f610e2a65a219951a9ddfe0]
 
 *Extent: E+W*
 
-(1) A private registered provider[^key-d48d42c8a7c576e5f0a6f0515fcfc8dd] may apply to the High Court where the registered provider thinks that action taken by a manager is not in accordance with the agreed proposals.
+(1) A private registered provider[^c-d48d42c8a7c576e5f0a6f0515fcfc8dd] may apply to the High Court where the registered provider thinks that action taken by a manager is not in accordance with the agreed proposals.
 
-(2) A creditor of a private registered provider[^key-db34c6bd794c7014caf641f306d66d03] may apply to the High Court where the creditor thinks that action taken by a manager is not in accordance with the agreed proposals.
+(2) A creditor of a private registered provider[^c-db34c6bd794c7014caf641f306d66d03] may apply to the High Court where the creditor thinks that action taken by a manager is not in accordance with the agreed proposals.
 
 (3) The High Court may—
 
@@ -39,8 +39,8 @@ summary: ''
 
 ## Annotations
 
-[^key-36c3a54d4f610e2a65a219951a9ddfe0]: Commencement: S. 159 in force at 1.4.2010 by [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
+[^c-36c3a54d4f610e2a65a219951a9ddfe0]: Commencement: S. 159 in force at 1.4.2010 by [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
 
-[^key-d48d42c8a7c576e5f0a6f0515fcfc8dd]: Textual amendment: Words in s. 159(1) substituted (1.4.2010) by [The Housing and Regeneration Act 2008 (Registration of Local Authorities) Order 2010 (S.I. 2010/844)](https://www.legislation.gov.uk/uksi/2010/844), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/844/article/1/2), [Sch. 1 para. 32(a)](https://www.legislation.gov.uk/uksi/2010/844/schedule/1/paragraph/32/a)
+[^c-d48d42c8a7c576e5f0a6f0515fcfc8dd]: Textual amendment: Words in s. 159(1) substituted (1.4.2010) by [The Housing and Regeneration Act 2008 (Registration of Local Authorities) Order 2010 (S.I. 2010/844)](https://www.legislation.gov.uk/uksi/2010/844), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/844/article/1/2), [Sch. 1 para. 32(a)](https://www.legislation.gov.uk/uksi/2010/844/schedule/1/paragraph/32/a)
 
-[^key-db34c6bd794c7014caf641f306d66d03]: Textual amendment: Words in s. 159(2) substituted (1.4.2010) by [The Housing and Regeneration Act 2008 (Registration of Local Authorities) Order 2010 (S.I. 2010/844)](https://www.legislation.gov.uk/uksi/2010/844), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/844/article/1/2), [Sch. 1 para. 32(b)](https://www.legislation.gov.uk/uksi/2010/844/schedule/1/paragraph/32/b)
+[^c-db34c6bd794c7014caf641f306d66d03]: Textual amendment: Words in s. 159(2) substituted (1.4.2010) by [The Housing and Regeneration Act 2008 (Registration of Local Authorities) Order 2010 (S.I. 2010/844)](https://www.legislation.gov.uk/uksi/2010/844), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/844/article/1/2), [Sch. 1 para. 32(b)](https://www.legislation.gov.uk/uksi/2010/844/schedule/1/paragraph/32/b)

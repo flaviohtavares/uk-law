@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. References to Tribunal[^key-8f92708dbe909b86c7f1e851737a1db3]
+## 49. References to Tribunal[^c-8f92708dbe909b86c7f1e851737a1db3]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ these Regulations do not affect the reference to the Tribunal or any related app
 
 ## Annotations
 
-[^key-8f92708dbe909b86c7f1e851737a1db3]: Commencement: Reg. 49 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)
+[^c-8f92708dbe909b86c7f1e851737a1db3]: Commencement: Reg. 49 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)

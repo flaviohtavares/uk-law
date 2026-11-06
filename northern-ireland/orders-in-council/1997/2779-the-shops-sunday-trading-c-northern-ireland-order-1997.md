@@ -89,7 +89,7 @@ This Order may be cited as the Shops (Sunday Trading &c.) (Northern Ireland) Ord
 
 (3) In this Article—
 
-- “medicinal product” and “registered pharmacy” have the same meaning as in the the Human Medicines Regulations 2012[^key-5b728cf75b9b755fd076f70372d93f70]; and
+- “medicinal product” and “registered pharmacy” have the same meaning as in the the Human Medicines Regulations 2012[^c-5b728cf75b9b755fd076f70372d93f70]; and
 - “Stand”, in relation to an exhibition, means any platform, structure, space or other area provided for exhibition purposes.
 
 #### 5. Permitted Sunday opening hours for large shops
@@ -594,7 +594,7 @@ and, in the absence of evidence establishing the contrary, an employer shall be 
 
 [^m00003]: Marginal citation: 1993 NI 15.
 
-[^key-5b728cf75b9b755fd076f70372d93f70]: Textual amendment: Words in [art. 4(3)](https://www.legislation.gov.uk/nisi/1997/2779/article/4/3) substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 51](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/51) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
+[^c-5b728cf75b9b755fd076f70372d93f70]: Textual amendment: Words in [art. 4(3)](https://www.legislation.gov.uk/nisi/1997/2779/article/4/3) substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 51](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/51) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
 
 [^m00005]: Marginal citation: 1954 c. 33 (N.I.).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 126. Implementation of warrants[^key-3b34188ad8091af89b40c311b6faac2c]
+## 126. Implementation of warrants[^c-3b34188ad8091af89b40c311b6faac2c]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3b34188ad8091af89b40c311b6faac2c]: Commencement: [S. 126](https://www.legislation.gov.uk/ukpga/2016/25/section/126) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 9(n)](https://www.legislation.gov.uk/uksi/2018/652/regulation/9/n)
+[^c-3b34188ad8091af89b40c311b6faac2c]: Commencement: [S. 126](https://www.legislation.gov.uk/ukpga/2016/25/section/126) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 9(n)](https://www.legislation.gov.uk/uksi/2018/652/regulation/9/n)

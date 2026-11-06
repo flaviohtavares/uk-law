@@ -31,38 +31,38 @@ summary: ''
 
 Copyright
 
-The Enterprise and Regulatory Reform Act 2013 (Commencement No. 8 and Saving Provisions) Order 2015 (revoked)[^key-56b2b3d33efcdb8b95b60f92f173cddc]
+The Enterprise and Regulatory Reform Act 2013 (Commencement No. 8 and Saving Provisions) Order 2015 (revoked)[^c-56b2b3d33efcdb8b95b60f92f173cddc]
 
 Made
 
 10th March 2015
 
-[^key-56b2b3d33efcdb8b95b60f92f173cddc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-56b2b3d33efcdb8b95b60f92f173cddc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation[^key-56b2b3d33efcdb8b95b60f92f173cddc]
+## 1. Citation[^c-56b2b3d33efcdb8b95b60f92f173cddc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Day appointed for the coming into force of section 74[^key-56b2b3d33efcdb8b95b60f92f173cddc]
+## 2. Day appointed for the coming into force of section 74[^c-56b2b3d33efcdb8b95b60f92f173cddc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Saving provisions – articles made in, or imported into, the United Kingdom[^key-56b2b3d33efcdb8b95b60f92f173cddc]
+## 3. Saving provisions – articles made in, or imported into, the United Kingdom[^c-56b2b3d33efcdb8b95b60f92f173cddc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56b2b3d33efcdb8b95b60f92f173cddc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-56b2b3d33efcdb8b95b60f92f173cddc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-56b2b3d33efcdb8b95b60f92f173cddc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-56b2b3d33efcdb8b95b60f92f173cddc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-56b2b3d33efcdb8b95b60f92f173cddc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-56b2b3d33efcdb8b95b60f92f173cddc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-56b2b3d33efcdb8b95b60f92f173cddc]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2015/641) revoked (20.7.2015) by [The Enterprise and Regulatory Reform Act 2013 (Commencement No. 8 and Saving Provisions) (Revocation) Order 2015 (S.I. 2015/1558)](https://www.legislation.gov.uk/uksi/2015/1558), [art. 2](https://www.legislation.gov.uk/uksi/2015/1558/article/2)
+[^c-56b2b3d33efcdb8b95b60f92f173cddc]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2015/641) revoked (20.7.2015) by [The Enterprise and Regulatory Reform Act 2013 (Commencement No. 8 and Saving Provisions) (Revocation) Order 2015 (S.I. 2015/1558)](https://www.legislation.gov.uk/uksi/2015/1558), [art. 2](https://www.legislation.gov.uk/uksi/2015/1558/article/2)

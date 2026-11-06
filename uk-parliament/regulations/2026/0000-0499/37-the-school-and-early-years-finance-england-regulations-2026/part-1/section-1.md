@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation, commencement, extent, application and interpretation[^key-f5c5a02e2bc8655589d4f73e230930a8]
+## 1. Citation, commencement, extent, application and interpretation[^c-f5c5a02e2bc8655589d4f73e230930a8]
 
 *Extent: E+W*
 
@@ -152,7 +152,7 @@ summary: ''
 
 ## Annotations
 
-[^key-f5c5a02e2bc8655589d4f73e230930a8]: Commencement: Reg. 1 in force at 11.2.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/37/regulation/1/2)
+[^c-f5c5a02e2bc8655589d4f73e230930a8]: Commencement: Reg. 1 in force at 11.2.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/37/regulation/1/2)
 
 [^f00016]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41).
 

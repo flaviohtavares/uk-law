@@ -27,7 +27,7 @@ summary: ''
 - (a) define “depositary interest”, “UK depositary interest” and “foreign securities” for this purpose; and
 - (b) exempt such descriptions of UK depositary interests in foreign securities (as so defined) as may from time to time be specified in the regulations.
 
-(3) The regulations shall not make provision for the exemption of a depositary interest unless the terms of issue of the interest are such that it can only be transferred in accordance with regulations under section 785[^key-c9621c127533e9ce78b200a79fb61cf9] of the [^c1126350]Companies Act 2006 (transfer of securities without written instrument) or by means of a transfer within section 186(1) of the [^c1126351]Finance Act 1996 (transfer of securities to member of electronic transfer system).
+(3) The regulations shall not make provision for the exemption of a depositary interest unless the terms of issue of the interest are such that it can only be transferred in accordance with regulations under section 785[^c-c9621c127533e9ce78b200a79fb61cf9] of the [^c1126350]Companies Act 2006 (transfer of securities without written instrument) or by means of a transfer within section 186(1) of the [^c1126351]Finance Act 1996 (transfer of securities to member of electronic transfer system).
 
 (4) The regulations may contain such incidental, supplementary, consequential and transitional provision as appears to the Treasury to be appropriate.
 
@@ -41,7 +41,7 @@ This may include provision modifying the enactments relating to stamp duty reser
 
 [^c1126349]: Marginal citation: [1986 c.41](https://www.legislation.gov.uk/ukpga/1986/41).
 
-[^key-c9621c127533e9ce78b200a79fb61cf9]: Textual amendment: Words in s. 119(3) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments) (Taxes and National Insurance) Order 2009 (S.I. 2009/1890)](https://www.legislation.gov.uk/uksi/2009/1890), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/1890/article/1/1), [11(a)](https://www.legislation.gov.uk/uksi/2009/1890/article/11/a)
+[^c-c9621c127533e9ce78b200a79fb61cf9]: Textual amendment: Words in s. 119(3) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments) (Taxes and National Insurance) Order 2009 (S.I. 2009/1890)](https://www.legislation.gov.uk/uksi/2009/1890), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/1890/article/1/1), [11(a)](https://www.legislation.gov.uk/uksi/2009/1890/article/11/a)
 
 [^c1126350]: Marginal citation: [1989 c.40](https://www.legislation.gov.uk/ukpga/1989/40).
 

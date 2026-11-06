@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 137. Validity of acts[^key-fcf4b89c0104921644eb47e0f3cec406]
+## 137. Validity of acts[^c-fcf4b89c0104921644eb47e0f3cec406]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The validity of an act of a relevant office holder is not affected by a failure 
 
 ## Annotations
 
-[^key-fcf4b89c0104921644eb47e0f3cec406]: Commencement: [S. 137](https://www.legislation.gov.uk/mwa/2011/1/section/137) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(m)](https://www.legislation.gov.uk/wsi/2012/969/article/2/m)
+[^c-fcf4b89c0104921644eb47e0f3cec406]: Commencement: [S. 137](https://www.legislation.gov.uk/mwa/2011/1/section/137) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(m)](https://www.legislation.gov.uk/wsi/2012/969/article/2/m)

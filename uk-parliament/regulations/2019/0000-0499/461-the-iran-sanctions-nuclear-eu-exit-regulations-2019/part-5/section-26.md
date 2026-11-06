@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Financial services and funds relating to restricted goods and restricted technology[^key-87a806b37d5df49751f7c74d54913cc8][^key-fa5865f0ed87c13dbadda104c12b0cfc]
+## 26. Financial services and funds relating to restricted goods and restricted technology[^c-87a806b37d5df49751f7c74d54913cc8][^c-fa5865f0ed87c13dbadda104c12b0cfc]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-87a806b37d5df49751f7c74d54913cc8]: Commencement: Reg. 26 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/461/regulation/1/2)
+[^c-87a806b37d5df49751f7c74d54913cc8]: Commencement: Reg. 26 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/461/regulation/1/2)
 
-[^key-fa5865f0ed87c13dbadda104c12b0cfc]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2019/461/regulation/26) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 8(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fa5865f0ed87c13dbadda104c12b0cfc]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2019/461/regulation/26) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 8(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

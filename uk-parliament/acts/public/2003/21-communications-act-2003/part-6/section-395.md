@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 395. Notifications and documents in electronic form[^key-c993fa3402a0a6bb00c036b532f5a909][^key-0febef8fb87fb3215c03b25e858c1ae0][^key-c0fb726a4a52b37917f0d1dfc34d68f7]
+## 395. Notifications and documents in electronic form[^c-c993fa3402a0a6bb00c036b532f5a909][^c-0febef8fb87fb3215c03b25e858c1ae0][^c-c0fb726a4a52b37917f0d1dfc34d68f7]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,7 +54,7 @@ must have indicated to the person making the transmission the recipient’s will
 - (c) must state the address to be used and must be accompanied by such other information as that person requires for the making of the transmission; and
 - (d) may be modified or withdrawn at any time by a notice given to that person in such manner as he may require.
 
-(6A)[^key-626c61a071f5f3667a625bfd01f188a6] Subsections (5) and (6) do not apply in relation to a notification or other document given by OFCOM under Part 1 or Chapter 1 of Part 2 to the European Commission, BEREC or the regulatory authorities of member States (within the meaning of that Chapter).
+(6A)[^c-626c61a071f5f3667a625bfd01f188a6] Subsections (5) and (6) do not apply in relation to a notification or other document given by OFCOM under Part 1 or Chapter 1 of Part 2 to the European Commission, BEREC or the regulatory authorities of member States (within the meaning of that Chapter).
 
 (7) An indication, requirement or determination given, imposed or made by OFCOM for the purposes of this section is to be given, imposed or made by being published in such manner as they consider appropriate for bringing it to the attention of the persons who, in their opinion, are likely to be affected by it.
 
@@ -62,10 +62,10 @@ must have indicated to the person making the transmission the recipient’s will
 
 ## Annotations
 
-[^key-c993fa3402a0a6bb00c036b532f5a909]: Commencement: S. 395 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
+[^c-c993fa3402a0a6bb00c036b532f5a909]: Commencement: S. 395 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
 
-[^key-0febef8fb87fb3215c03b25e858c1ae0]: Commencement: S. 395 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-0febef8fb87fb3215c03b25e858c1ae0]: Commencement: S. 395 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-c0fb726a4a52b37917f0d1dfc34d68f7]: Modification: Ss. 394, 395 applied (31.7.2016) by [The Communications (Access to Infrastructure) Regulations 2016 (S.I. 2016/700)](https://www.legislation.gov.uk/uksi/2016/700), [regs. 1](https://www.legislation.gov.uk/uksi/2016/700/regulation/1), [23](https://www.legislation.gov.uk/uksi/2016/700/regulation/23)
+[^c-c0fb726a4a52b37917f0d1dfc34d68f7]: Modification: Ss. 394, 395 applied (31.7.2016) by [The Communications (Access to Infrastructure) Regulations 2016 (S.I. 2016/700)](https://www.legislation.gov.uk/uksi/2016/700), [regs. 1](https://www.legislation.gov.uk/uksi/2016/700/regulation/1), [23](https://www.legislation.gov.uk/uksi/2016/700/regulation/23)
 
-[^key-626c61a071f5f3667a625bfd01f188a6]: Textual amendment: [S. 395(6A)](https://www.legislation.gov.uk/ukpga/2003/21/section/395/6A) inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 98](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/98) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2))
+[^c-626c61a071f5f3667a625bfd01f188a6]: Textual amendment: [S. 395(6A)](https://www.legislation.gov.uk/ukpga/2003/21/section/395/6A) inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 98](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/98) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2))

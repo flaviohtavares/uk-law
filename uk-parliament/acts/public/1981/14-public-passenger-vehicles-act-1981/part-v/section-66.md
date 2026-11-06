@@ -27,7 +27,7 @@ A person who knowingly makes a false statement for the purpose of—
 - (c) obtaining the issue of a certificate under section 10 of this Act that a vehicle conforms to a type vehicle;
 - (d) obtaining the issue of an operator’s disc under section 18 of this Act; [^c2522071]...
 - (e) obtaining the issue of a certificate under section 21 of this Act as to the repute, financial standing or professional competence of any person; or[^c2522081]
-- (f) obtaining the issue of a control document in pursuance of regulation 4 of the Road Transport (International Passenger Services) Regulations 2018;[^key-2764efa4e1146319503e0e38eac0365d]
+- (f) obtaining the issue of a control document in pursuance of regulation 4 of the Road Transport (International Passenger Services) Regulations 2018;[^c-2764efa4e1146319503e0e38eac0365d]
 
 shall be liable on summary conviction to a fine not exceeding level 4 on the standard scale[^c2522091].
 
@@ -43,6 +43,6 @@ shall be liable on summary conviction to a fine not exceeding level 4 on the sta
 
 [^c2522081]: Textual amendment: S. 65(f) and the word “or” preceding it inserted (28.1.2000) by [S.I. 1999/3413](https://www.legislation.gov.uk/uksi/1999/3413), [reg. 10(4)](https://www.legislation.gov.uk/uksi/1999/3413/regulation/10/4)
 
-[^key-2764efa4e1146319503e0e38eac0365d]: Textual amendment: Words in [s. 66(f)](https://www.legislation.gov.uk/ukpga/1981/14/section/66/f) substituted (1.4.2025) by [The Road Transport (International Passenger Services) (Amendment) Regulations 2024 (S.I. 2024/1370)](https://www.legislation.gov.uk/uksi/2024/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/6/3)
+[^c-2764efa4e1146319503e0e38eac0365d]: Textual amendment: Words in [s. 66(f)](https://www.legislation.gov.uk/ukpga/1981/14/section/66/f) substituted (1.4.2025) by [The Road Transport (International Passenger Services) (Amendment) Regulations 2024 (S.I. 2024/1370)](https://www.legislation.gov.uk/uksi/2024/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/6/3)
 
 [^c2522091]: Textual amendment: Words substituted by virtue of (E.W.) [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [s. 46](https://www.legislation.gov.uk/ukpga/1982/48/section/46) and (S.) [Criminal Procedure (Scotland) Act 1975 (c. 21, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1975/21), [s. 289G](https://www.legislation.gov.uk/ukpga/1975/21/section/289G)

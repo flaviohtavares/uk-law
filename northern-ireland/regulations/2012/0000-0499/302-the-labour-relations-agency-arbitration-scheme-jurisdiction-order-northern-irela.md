@@ -79,7 +79,7 @@ Article 2
 - Article 6 of the Industrial Tribunals Extension of Jurisdiction Order (Northern Ireland) 1994 [^c21335971];
 - Article 52 of the Race Relations (Northern Ireland) Order 1997 [^c21335981];
 - section 11, 20(1)(b) or 24 of the National Minimum Wage Act 1998 [^c21335991];
-- regulation 43 of the Working Time Regulations (Northern Ireland) 2016[^key-22896e700d450d8126d0ffad847e7951] [^c21336001];
+- regulation 43 of the Working Time Regulations (Northern Ireland) 2016[^c-22896e700d450d8126d0ffad847e7951] [^c21336001];
 - regulation 27 or 32 of the Transnational Information and Consultation of Employees Regulations 1999 [^c21336011];
 - regulation 8 of the Part-time Workers (Prevention of Less Favourable Treatment) Regulations (Northern Ireland) 2000 [^c21336021];
 - regulation 7 or 9(5) of the Fixed-term Employees (Prevention of Less Favourable Treatment) Regulations (Northern Ireland) 2002 [^c21336031];
@@ -131,7 +131,7 @@ The Department has not prepared a specific impact assessment in respect of this 
 
 [^c21335991]: Marginal citation: [1998 c. 39](https://www.legislation.gov.uk/ukpga/1998/39)
 
-[^key-22896e700d450d8126d0ffad847e7951]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/2012/302/schedule) substituted (28.2.2016) by [The Working Time Regulations (Northern Ireland) 2016 (S.R. 2016/49)](https://www.legislation.gov.uk/nisr/2016/49), [regs. 1](https://www.legislation.gov.uk/nisr/2016/49/regulation/1), [53(8)](https://www.legislation.gov.uk/nisr/2016/49/regulation/53/8) (with [reg. 22(1)](https://www.legislation.gov.uk/nisr/2016/49/regulation/22/1))
+[^c-22896e700d450d8126d0ffad847e7951]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/2012/302/schedule) substituted (28.2.2016) by [The Working Time Regulations (Northern Ireland) 2016 (S.R. 2016/49)](https://www.legislation.gov.uk/nisr/2016/49), [regs. 1](https://www.legislation.gov.uk/nisr/2016/49/regulation/1), [53(8)](https://www.legislation.gov.uk/nisr/2016/49/regulation/53/8) (with [reg. 22(1)](https://www.legislation.gov.uk/nisr/2016/49/regulation/22/1))
 
 [^c21336001]: Marginal citation: S.R. [1998 No. 386](https://www.legislation.gov.uk/ukcm/1998/386)
 

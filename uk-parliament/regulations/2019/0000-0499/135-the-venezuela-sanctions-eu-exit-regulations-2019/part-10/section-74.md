@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Transitional Provisions: prior obligations[^key-dd755d00d3d6b4d96144cdbe6d72ac9a]
+## 74. Transitional Provisions: prior obligations[^c-dd755d00d3d6b4d96144cdbe6d72ac9a]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ any reference in a provision mentioned in paragraph (2) to the date on which a p
 (2) The provisions referred to in paragraph (1) are—
 
 - (a) regulation 33(5) (finance: exceptions from prohibitions), and
-- (b) paragraph[^key-f6dde2bafb143f247921dff6b3207be4] 9(a) of Schedule 4 (Treasury licences: purposes).
+- (b) paragraph[^c-f6dde2bafb143f247921dff6b3207be4] 9(a) of Schedule 4 (Treasury licences: purposes).
 
 (3) In this regulation—
 
@@ -41,6 +41,6 @@ any reference in a provision mentioned in paragraph (2) to the date on which a p
 
 ## Annotations
 
-[^key-dd755d00d3d6b4d96144cdbe6d72ac9a]: Commencement: Reg. 74 in force at 31.12.2020 on IP completion day by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 3(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dd755d00d3d6b4d96144cdbe6d72ac9a]: Commencement: Reg. 74 in force at 31.12.2020 on IP completion day by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 3(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f6dde2bafb143f247921dff6b3207be4]: Textual amendment: Word in [reg. 74(2)(b)](https://www.legislation.gov.uk/uksi/2019/135/regulation/74/2/b) substituted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [2(11)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/2/11)
+[^c-f6dde2bafb143f247921dff6b3207be4]: Textual amendment: Word in [reg. 74(2)(b)](https://www.legislation.gov.uk/uksi/2019/135/regulation/74/2/b) substituted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [2(11)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/2/11)

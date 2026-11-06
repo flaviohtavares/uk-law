@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 20. Opting into this scheme[^key-ce80d262d43a66dc42b2fcffaefae526]
+## 20. Opting into this scheme[^c-ce80d262d43a66dc42b2fcffaefae526]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ce80d262d43a66dc42b2fcffaefae526]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2014/290/regulation/20) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-ce80d262d43a66dc42b2fcffaefae526]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2014/290/regulation/20) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

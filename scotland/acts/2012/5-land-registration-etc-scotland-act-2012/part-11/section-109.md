@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 109. Performance of Keeper's functions during vacancy in office etc.[^key-32d4d82ba9c67e12220e4e15ea57ee9e]
+## 109. Performance of Keeper's functions during vacancy in office etc.[^c-32d4d82ba9c67e12220e4e15ea57ee9e]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-32d4d82ba9c67e12220e4e15ea57ee9e]: Commencement: [S. 109](https://www.legislation.gov.uk/asp/2012/5/section/109) in force at 1.11.2012 by [S.S.I. 2012/265](https://www.legislation.gov.uk/ssi/2012/265), [art. 2](https://www.legislation.gov.uk/ssi/2012/265/article/2)
+[^c-32d4d82ba9c67e12220e4e15ea57ee9e]: Commencement: [S. 109](https://www.legislation.gov.uk/asp/2012/5/section/109) in force at 1.11.2012 by [S.S.I. 2012/265](https://www.legislation.gov.uk/ssi/2012/265), [art. 2](https://www.legislation.gov.uk/ssi/2012/265/article/2)

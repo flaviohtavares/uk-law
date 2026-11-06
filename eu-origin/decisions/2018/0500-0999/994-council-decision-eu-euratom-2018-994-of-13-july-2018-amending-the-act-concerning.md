@@ -33,16 +33,16 @@ of 13 July 2018
 
 amending the Act concerning the election of the members of the European Parliament by direct universal suffrage, annexed to Council Decision 76/787/ECSC, EEC, Euratom of 20 September 1976 (revoked)
 
-[^key-ae1f5ae260836bfd9b7371f5b57493ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ae1f5ae260836bfd9b7371f5b57493ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-ae1f5ae260836bfd9b7371f5b57493ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-ae1f5ae260836bfd9b7371f5b57493ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-ae1f5ae260836bfd9b7371f5b57493ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-ae1f5ae260836bfd9b7371f5b57493ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ae1f5ae260836bfd9b7371f5b57493ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ae1f5ae260836bfd9b7371f5b57493ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ae1f5ae260836bfd9b7371f5b57493ef]: Textual amendment: Decision revoked (1.11.2022) by [The European Parliamentary Elections (Amendment and Revocation) (United Kingdom and Gibraltar) (EU Exit) Regulations 2022 (S.I. 2022/885)](https://www.legislation.gov.uk/uksi/2022/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/885/regulation/1/2), [6(1)(c)](https://www.legislation.gov.uk/uksi/2022/885/regulation/6/1/c)
+[^c-ae1f5ae260836bfd9b7371f5b57493ef]: Textual amendment: Decision revoked (1.11.2022) by [The European Parliamentary Elections (Amendment and Revocation) (United Kingdom and Gibraltar) (EU Exit) Regulations 2022 (S.I. 2022/885)](https://www.legislation.gov.uk/uksi/2022/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/885/regulation/1/2), [6(1)(c)](https://www.legislation.gov.uk/uksi/2022/885/regulation/6/1/c)

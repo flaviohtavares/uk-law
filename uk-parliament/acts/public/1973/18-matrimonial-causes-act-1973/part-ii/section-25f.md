@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25F. Attachment of pension compensation[^key-9972a948de239329dcd3cd8049509e92]
+## 25F. Attachment of pension compensation[^c-9972a948de239329dcd3cd8049509e92]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9972a948de239329dcd3cd8049509e92]: Textual amendment: [Ss. 25F](https://www.legislation.gov.uk/ukpga/1973/18/section/25F), [25G](https://www.legislation.gov.uk/ukpga/1973/18/section/25G) inserted (6.3.2011 for the insertion of s. 25G and 6.4.2011 otherwise) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [s. 149(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/1), [Sch. 6 para. 7](https://www.legislation.gov.uk/ukpga/2008/30/schedule/6/paragraph/7); [S.I. 2011/664](https://www.legislation.gov.uk/uksi/2011/664), [art. 2(2)(3)](https://www.legislation.gov.uk/uksi/2011/664/article/2/2), [Sch. Pts. 1](https://www.legislation.gov.uk/uksi/2011/664/schedule/part/1), [2](https://www.legislation.gov.uk/uksi/2011/664/schedule/part/2)
+[^c-9972a948de239329dcd3cd8049509e92]: Textual amendment: [Ss. 25F](https://www.legislation.gov.uk/ukpga/1973/18/section/25F), [25G](https://www.legislation.gov.uk/ukpga/1973/18/section/25G) inserted (6.3.2011 for the insertion of s. 25G and 6.4.2011 otherwise) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [s. 149(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/1), [Sch. 6 para. 7](https://www.legislation.gov.uk/ukpga/2008/30/schedule/6/paragraph/7); [S.I. 2011/664](https://www.legislation.gov.uk/uksi/2011/664), [art. 2(2)(3)](https://www.legislation.gov.uk/uksi/2011/664/article/2/2), [Sch. Pts. 1](https://www.legislation.gov.uk/uksi/2011/664/schedule/part/1), [2](https://www.legislation.gov.uk/uksi/2011/664/schedule/part/2)

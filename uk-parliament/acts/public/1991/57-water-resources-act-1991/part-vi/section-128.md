@@ -29,10 +29,10 @@ summary: ''
 - (c) the applicant ceases to be the occupier of the relevant land or, if he has previously ceased to be the occupier of a part or parts of that land, ceases to be the occupier of the remainder of it;
 - (d) the agreement is terminated under subsection (4) below.
 
-(3) At any time while an agreement under section 127 above is in force, the applicant may apply to the appropriate agency[^key-21423ce0d47eaa650fb851bfceea3f8e] to terminate the agreement.
+(3) At any time while an agreement under section 127 above is in force, the applicant may apply to the appropriate agency[^c-21423ce0d47eaa650fb851bfceea3f8e] to terminate the agreement.
 
 (4) If, on an application for the termination of an agreement under section 127 above, the appropriate agency is satisfied that, by reason of any change of circumstances since the agreement was made, it ought to be terminated, it may terminate the agreement, either unconditionally or subject to such conditions (whether as to any payment to be made by the applicant or otherwise) as the appropriate agency and the applicant may agree.
 
 ## Annotations
 
-[^key-21423ce0d47eaa650fb851bfceea3f8e]: Textual amendment: Words in ss. 120-143 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 276](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/276) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-21423ce0d47eaa650fb851bfceea3f8e]: Textual amendment: Words in ss. 120-143 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 276](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/276) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

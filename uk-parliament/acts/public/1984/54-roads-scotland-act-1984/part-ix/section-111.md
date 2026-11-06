@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 111. Concurrent proceedings for special and trunk roads schemes and orders.[^key-a38930988c5127b02f6fd9fcbf27eed5]
+## 111. Concurrent proceedings for special and trunk roads schemes and orders.[^c-a38930988c5127b02f6fd9fcbf27eed5]
 
 *Extent: S*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a38930988c5127b02f6fd9fcbf27eed5]: Modification: [Ss. 103-111](https://www.legislation.gov.uk/ukpga/1984/54/section/103) excluded (18.3.2011) by [Forth Crossing Act 2011 (asp 2)](https://www.legislation.gov.uk/asp/2011/2), [ss. 20(4)](https://www.legislation.gov.uk/asp/2011/2/section/20/4), [80(2)](https://www.legislation.gov.uk/asp/2011/2/section/80/2) (with [ss. 69](https://www.legislation.gov.uk/asp/2011/2/section/69), [78](https://www.legislation.gov.uk/asp/2011/2/section/78)); [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-a38930988c5127b02f6fd9fcbf27eed5]: Modification: [Ss. 103-111](https://www.legislation.gov.uk/ukpga/1984/54/section/103) excluded (18.3.2011) by [Forth Crossing Act 2011 (asp 2)](https://www.legislation.gov.uk/asp/2011/2), [ss. 20(4)](https://www.legislation.gov.uk/asp/2011/2/section/20/4), [80(2)](https://www.legislation.gov.uk/asp/2011/2/section/80/2) (with [ss. 69](https://www.legislation.gov.uk/asp/2011/2/section/69), [78](https://www.legislation.gov.uk/asp/2011/2/section/78)); [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
 [^c1610835]: Marginal citation: [1947 c. 42](https://www.legislation.gov.uk/ukpga/1947/42).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 176. Meaning of “service address”[^key-0ff83c098c154c3e48516ac82f0919a1][^key-445e1faf4930099d4476a7ef23ecdc68]
+## 176. Meaning of “service address”[^c-0ff83c098c154c3e48516ac82f0919a1][^c-445e1faf4930099d4476a7ef23ecdc68]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ In section 44 of the Economic Crime (Transparency and Enforcement) Act 2022 (int
 
 ## Annotations
 
-[^key-0ff83c098c154c3e48516ac82f0919a1]: Commencement: S. 176 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-0ff83c098c154c3e48516ac82f0919a1]: Commencement: S. 176 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-445e1faf4930099d4476a7ef23ecdc68]: Commencement: [S. 176](https://www.legislation.gov.uk/ukpga/2023/56/section/176) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z59)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z59)
+[^c-445e1faf4930099d4476a7ef23ecdc68]: Commencement: [S. 176](https://www.legislation.gov.uk/ukpga/2023/56/section/176) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z59)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z59)

@@ -35,14 +35,14 @@ recognizing Australia as being free from Erwinia amylovora (Burr.) Winsl. et al.
 
 (91/261/EEC) (revoked)
 
-[^key-721c8f7e72a79431a68ffe87ae33497c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-721c8f7e72a79431a68ffe87ae33497c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-721c8f7e72a79431a68ffe87ae33497c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-721c8f7e72a79431a68ffe87ae33497c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-721c8f7e72a79431a68ffe87ae33497c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-721c8f7e72a79431a68ffe87ae33497c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-721c8f7e72a79431a68ffe87ae33497c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-721c8f7e72a79431a68ffe87ae33497c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-721c8f7e72a79431a68ffe87ae33497c]: Textual amendment: Decision revoked (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/2/2/b), [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2020/1482/schedule/3/paragraph/1) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
+[^c-721c8f7e72a79431a68ffe87ae33497c]: Textual amendment: Decision revoked (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/2/2/b), [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2020/1482/schedule/3/paragraph/1) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Interpretation[^key-45b8feccf58bdc927a8b910001199baa]
+## 77. Interpretation[^c-45b8feccf58bdc927a8b910001199baa]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-45b8feccf58bdc927a8b910001199baa]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/ukpga/2019/1/part/3) omitted (10.6.2021) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 112(1)](https://www.legislation.gov.uk/ukpga/2021/26/section/112/1)
+[^c-45b8feccf58bdc927a8b910001199baa]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/ukpga/2019/1/part/3) omitted (10.6.2021) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 112(1)](https://www.legislation.gov.uk/ukpga/2021/26/section/112/1)

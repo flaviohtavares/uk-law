@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 205ZA. Serious terrorism sentence[^key-51381b14d02b169bc73d2dcc98f183fb]
+## 205ZA. Serious terrorism sentence[^c-51381b14d02b169bc73d2dcc98f183fb]
 
 *Extent: E+W+S*
 
@@ -87,4 +87,4 @@ summary: ''
 
 ## Annotations
 
-[^key-51381b14d02b169bc73d2dcc98f183fb]: Textual amendment: [S. 205ZA](https://www.legislation.gov.uk/ukpga/1995/46/section/205ZA) inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 6(1)](https://www.legislation.gov.uk/ukpga/2021/11/section/6/1), [50(2)(d)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/d)
+[^c-51381b14d02b169bc73d2dcc98f183fb]: Textual amendment: [S. 205ZA](https://www.legislation.gov.uk/ukpga/1995/46/section/205ZA) inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 6(1)](https://www.legislation.gov.uk/ukpga/2021/11/section/6/1), [50(2)(d)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/d)

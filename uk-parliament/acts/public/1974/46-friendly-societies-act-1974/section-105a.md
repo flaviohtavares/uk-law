@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105A. Exemption from stamp duty land tax[^key-939cd94640edb15941568a7ba067bf38]
+## 105A. Exemption from stamp duty land tax[^c-939cd94640edb15941568a7ba067bf38]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ is exempt from charge for the purposes of stamp duty land tax.
 
 ## Annotations
 
-[^key-939cd94640edb15941568a7ba067bf38]: Textual amendment: [S. 105A](https://www.legislation.gov.uk/ukpga/1974/46/section/105A) inserted (1.12.2003) by [The Stamp Duty Land Tax (Consequential Amendment of Enactments) Regulations 2003 (S.I. 2003/2867)](https://www.legislation.gov.uk/uksi/2003/2867), [reg. 1](https://www.legislation.gov.uk/uksi/2003/2867/regulation/1), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2003/2867/schedule/paragraph/7)
+[^c-939cd94640edb15941568a7ba067bf38]: Textual amendment: [S. 105A](https://www.legislation.gov.uk/ukpga/1974/46/section/105A) inserted (1.12.2003) by [The Stamp Duty Land Tax (Consequential Amendment of Enactments) Regulations 2003 (S.I. 2003/2867)](https://www.legislation.gov.uk/uksi/2003/2867), [reg. 1](https://www.legislation.gov.uk/uksi/2003/2867/regulation/1), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2003/2867/schedule/paragraph/7)

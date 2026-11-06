@@ -107,7 +107,7 @@ is to be treated as lawfully imposed if the only ground or grounds for treating 
 - “**the 2013 Regulations**” means the Jobseeker's Allowance (Schemes for Assisting Persons to Obtain Employment) Regulations 2013 (S.I. 2013/276);
 - “**the Mandatory Work Activity Scheme Regulations**” means the Jobseeker's Allowance (Mandatory Work Activity Scheme) Regulations 2011 (S.I. 2011/688).
 
-## 1A. Certain appeals against penalties under the 2011 Regulations[^key-4a5ff5fef2df512c7fa0bf2712f9cd9b]
+## 1A. Certain appeals against penalties under the 2011 Regulations[^c-4a5ff5fef2df512c7fa0bf2712f9cd9b]
 
 (1) This section applies where—
 
@@ -207,4 +207,4 @@ the Secretary of State must make a decision superseding the tribunal’s decisio
 
 ## Annotations
 
-[^key-4a5ff5fef2df512c7fa0bf2712f9cd9b]: Textual amendment: Ss. 1A, 1B inserted (3.10.2020) by [The Jobseekers (Back to Work Schemes) Act 2013 (Remedial) Order 2020 (S.I. 2020/1085)](https://www.legislation.gov.uk/uksi/2020/1085), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1085/article/1/1), [2](https://www.legislation.gov.uk/uksi/2020/1085/article/2)
+[^c-4a5ff5fef2df512c7fa0bf2712f9cd9b]: Textual amendment: Ss. 1A, 1B inserted (3.10.2020) by [The Jobseekers (Back to Work Schemes) Act 2013 (Remedial) Order 2020 (S.I. 2020/1085)](https://www.legislation.gov.uk/uksi/2020/1085), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1085/article/1/1), [2](https://www.legislation.gov.uk/uksi/2020/1085/article/2)

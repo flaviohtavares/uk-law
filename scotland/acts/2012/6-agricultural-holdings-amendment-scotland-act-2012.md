@@ -36,7 +36,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Succession
 
-### 1. Succession by near relatives[^key-d2ab36c402f62c6605afc5be340efbe2]
+### 1. Succession by near relatives[^c-d2ab36c402f62c6605afc5be340efbe2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -87,4 +87,4 @@ The short title of this Act is the Agricultural Holdings (Amendment) (Scotland) 
 
 ## Annotations
 
-[^key-d2ab36c402f62c6605afc5be340efbe2]: Textual amendment: [S. 1](https://www.legislation.gov.uk/asp/2012/6/section/1) repealed (23.12.2016) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [s. 130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1), [sch. 2 para. 17(2)](https://www.legislation.gov.uk/asp/2016/18/schedule/2/paragraph/17/2) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule) (with [regs. 5-8](https://www.legislation.gov.uk/ssi/2016/365/regulation/5))
+[^c-d2ab36c402f62c6605afc5be340efbe2]: Textual amendment: [S. 1](https://www.legislation.gov.uk/asp/2012/6/section/1) repealed (23.12.2016) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [s. 130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1), [sch. 2 para. 17(2)](https://www.legislation.gov.uk/asp/2016/18/schedule/2/paragraph/17/2) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule) (with [regs. 5-8](https://www.legislation.gov.uk/ssi/2016/365/regulation/5))

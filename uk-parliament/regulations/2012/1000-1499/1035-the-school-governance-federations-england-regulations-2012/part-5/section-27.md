@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Information for the governing body of a federation[^key-5ba672b06557572c96bd7f391c31df7f]
+## 27. Information for the governing body of a federation[^c-5ba672b06557572c96bd7f391c31df7f]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5ba672b06557572c96bd7f391c31df7f]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2012/1035/regulation/27) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1035/regulation/1)
+[^c-5ba672b06557572c96bd7f391c31df7f]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2012/1035/regulation/27) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1035/regulation/1)

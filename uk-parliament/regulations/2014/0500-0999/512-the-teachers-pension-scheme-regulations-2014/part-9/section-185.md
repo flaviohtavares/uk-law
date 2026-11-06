@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 185. Members' contributions[^key-99e8eb6db1603f1976682a3be5419fef]
+## 185. Members' contributions[^c-99e8eb6db1603f1976682a3be5419fef]
 
 *Extent: E+W*
 
@@ -36,7 +36,7 @@ Table
 
 | **Column 1**<br>**Annual salary rate for the eligible employment** | *Column 2*<br>*Members’ contributions rate* |
 | --- | --- |
-| £0 - £25,999 | 7.4%[^key-608b5381e471148b90ee4fc36b6ac327] |
+| £0 - £25,999 | 7.4%[^c-608b5381e471148b90ee4fc36b6ac327] |
 | £26,000 - £34,999 | 8.9% |
 | £35,000 - £41,499 | 9.9% |
 | £41,500 - £54,999 | 10.5% |
@@ -45,6 +45,6 @@ Table
 
 ## Annotations
 
-[^key-99e8eb6db1603f1976682a3be5419fef]: Textual amendment: Reg. 185 substituted (1.4.2015) by [The Teachers Pension Scheme (Amendment) Regulations 2014 (S.I. 2014/2652)](https://www.legislation.gov.uk/uksi/2014/2652), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2652/regulation/1), [16](https://www.legislation.gov.uk/uksi/2014/2652/regulation/16)
+[^c-99e8eb6db1603f1976682a3be5419fef]: Textual amendment: Reg. 185 substituted (1.4.2015) by [The Teachers Pension Scheme (Amendment) Regulations 2014 (S.I. 2014/2652)](https://www.legislation.gov.uk/uksi/2014/2652), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2652/regulation/1), [16](https://www.legislation.gov.uk/uksi/2014/2652/regulation/16)
 
-[^key-608b5381e471148b90ee4fc36b6ac327]: Textual amendment: Words in [reg. 185](https://www.legislation.gov.uk/uksi/2014/512/regulation/185) table substituted (1.4.2025) by [The Teachers’ Pensions Schemes (Amendment) Regulations 2025 (S.I. 2025/284)](https://www.legislation.gov.uk/uksi/2025/284), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2025/284/regulation/1/c), [4](https://www.legislation.gov.uk/uksi/2025/284/regulation/4)
+[^c-608b5381e471148b90ee4fc36b6ac327]: Textual amendment: Words in [reg. 185](https://www.legislation.gov.uk/uksi/2014/512/regulation/185) table substituted (1.4.2025) by [The Teachers’ Pensions Schemes (Amendment) Regulations 2025 (S.I. 2025/284)](https://www.legislation.gov.uk/uksi/2025/284), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2025/284/regulation/1/c), [4](https://www.legislation.gov.uk/uksi/2025/284/regulation/4)

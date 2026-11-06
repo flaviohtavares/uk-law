@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Commissioner’s power to act in individual cases relevant to public policy[^key-36c6f7bbd0563fdf308f1f0e812fd76a]
+## 8. Commissioner’s power to act in individual cases relevant to public policy[^c-36c6f7bbd0563fdf308f1f0e812fd76a]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-36c6f7bbd0563fdf308f1f0e812fd76a]: Commencement: S. 8 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
+[^c-36c6f7bbd0563fdf308f1f0e812fd76a]: Commencement: S. 8 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)

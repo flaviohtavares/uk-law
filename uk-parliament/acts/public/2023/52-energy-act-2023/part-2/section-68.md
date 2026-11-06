@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Direction to offer to contract with eligible carbon capture entity[^key-d3ad330078a884a3a44e757c15be3f67]
+## 68. Direction to offer to contract with eligible carbon capture entity[^c-d3ad330078a884a3a44e757c15be3f67]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d3ad330078a884a3a44e757c15be3f67]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2023/52/section/68) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-d3ad330078a884a3a44e757c15be3f67]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2023/52/section/68) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)

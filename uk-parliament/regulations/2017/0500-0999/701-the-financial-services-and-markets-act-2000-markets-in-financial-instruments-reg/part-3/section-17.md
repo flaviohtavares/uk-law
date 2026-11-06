@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Exemption for non-financial entities[^key-fbea615209ae222e1d681b09a26463e3]
+## 17. Exemption for non-financial entities[^c-fbea615209ae222e1d681b09a26463e3]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fbea615209ae222e1d681b09a26463e3]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/uksi/2017/701/regulation/17) revoked (6.7.2026) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 2 para. 50(b)(i)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/50/b/i) (with [s. 2(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/2/3)); [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 9(b)(v)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/9/b/v)
+[^c-fbea615209ae222e1d681b09a26463e3]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/uksi/2017/701/regulation/17) revoked (6.7.2026) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 2 para. 50(b)(i)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/50/b/i) (with [s. 2(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/2/3)); [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 9(b)(v)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/9/b/v)

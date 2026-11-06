@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 111. Forfeiture of pension rights after conviction of employment-related offences[^key-47abc1b54ed38ffa3bf432c75f9c4628]
+## 111. Forfeiture of pension rights after conviction of employment-related offences[^c-47abc1b54ed38ffa3bf432c75f9c4628]
 
 *Extent: E+W+S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-47abc1b54ed38ffa3bf432c75f9c4628]: Commencement: Reg. 111 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-47abc1b54ed38ffa3bf432c75f9c4628]: Commencement: Reg. 111 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

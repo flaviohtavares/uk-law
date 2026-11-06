@@ -20,15 +20,15 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-dc2466c6159ed2c4483cdcb9df24afd9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-dc2466c6159ed2c4483cdcb9df24afd9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2)[^c12683581] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3)[^c12683581] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-f60d964d93da4023f2bbc00a244f7aca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-f60d964d93da4023f2bbc00a244f7aca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-3fa1301aa2e5dd025091a85569cbf445] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-3fa1301aa2e5dd025091a85569cbf445] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6)[^c12683601] Except as provided above in this section, this Act shall come into force on such date or dates as the Secretary of State may by order appoint.
 
@@ -40,12 +40,12 @@ summary: ''
 
 ## Annotations
 
-[^key-dc2466c6159ed2c4483cdcb9df24afd9]: Textual amendment: S. 236(1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 7](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/7)
+[^c-dc2466c6159ed2c4483cdcb9df24afd9]: Textual amendment: S. 236(1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 7](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/7)
 
 [^c12683581]: Textual amendment: S. 236(2)(3) repealed (1.11.1996) by [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56), [ss. 582(2)](https://www.legislation.gov.uk/ukpga/1996/56/section/582/2), [583](https://www.legislation.gov.uk/ukpga/1996/56/section/583), [Sch. 38 Pt. I](https://www.legislation.gov.uk/ukpga/1996/56/schedule/38/part/I) (with [ss. 1(4)](https://www.legislation.gov.uk/ukpga/1996/56/section/1/4), [561](https://www.legislation.gov.uk/ukpga/1996/56/section/561), [562](https://www.legislation.gov.uk/ukpga/1996/56/section/562), [Sch. 39](https://www.legislation.gov.uk/ukpga/1996/56/schedule/39)).
 
-[^key-f60d964d93da4023f2bbc00a244f7aca]: Textual amendment: S. 236(4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 7](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/7)
+[^c-f60d964d93da4023f2bbc00a244f7aca]: Textual amendment: S. 236(4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 7](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/7)
 
-[^key-3fa1301aa2e5dd025091a85569cbf445]: Textual amendment: S. 236(5) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 7](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/7)
+[^c-3fa1301aa2e5dd025091a85569cbf445]: Textual amendment: S. 236(5) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 7](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/7)
 
 [^c12683601]: Modification: Power of appointment conferred by s. 236(6) partly exercised: [S.I. 1988/1459](https://www.legislation.gov.uk/uksi/1988/1459), 1794, 2002, 2271; 1989/164, 501, 719; 1990/391

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Amendments to Part 1 of Schedule 4 (form and content of non-IAS group accounts)[^key-20579253364ed0661676ae88e48a04a4]
+## 43. Amendments to Part 1 of Schedule 4 (form and content of non-IAS group accounts)[^c-20579253364ed0661676ae88e48a04a4]
 
 *Extent: E+W+S+N.I.*
 
@@ -83,4 +83,4 @@ In Part 1 of Schedule 4 (form and content of non-IAS group accounts)—
 
 ## Annotations
 
-[^key-20579253364ed0661676ae88e48a04a4]: Commencement: Reg. 43 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
+[^c-20579253364ed0661676ae88e48a04a4]: Commencement: Reg. 43 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)

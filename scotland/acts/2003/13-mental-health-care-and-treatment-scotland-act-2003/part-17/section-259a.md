@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 259A. Information gathering[^key-2376dc067e7d5c175bfff86a65bbf562]
+## 259A. Information gathering[^c-2376dc067e7d5c175bfff86a65bbf562]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2376dc067e7d5c175bfff86a65bbf562]: Textual amendment: [S. 259A](https://www.legislation.gov.uk/asp/2003/13/section/259A) inserted (30.6.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 27(2)](https://www.legislation.gov.uk/asp/2015/9/section/27/2), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
+[^c-2376dc067e7d5c175bfff86a65bbf562]: Textual amendment: [S. 259A](https://www.legislation.gov.uk/asp/2003/13/section/259A) inserted (30.6.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 27(2)](https://www.legislation.gov.uk/asp/2015/9/section/27/2), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)

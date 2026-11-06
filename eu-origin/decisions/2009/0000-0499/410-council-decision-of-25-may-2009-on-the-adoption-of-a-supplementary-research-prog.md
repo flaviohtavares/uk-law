@@ -35,34 +35,34 @@ on the adoption of a supplementary research programme to be implemented by the J
 
 (2009/410/Euratom) (revoked)
 
-[^key-2cba1be2a053fc46b083f6d04a795e2d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2cba1be2a053fc46b083f6d04a795e2d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-2cba1be2a053fc46b083f6d04a795e2d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-2cba1be2a053fc46b083f6d04a795e2d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-2cba1be2a053fc46b083f6d04a795e2d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-2cba1be2a053fc46b083f6d04a795e2d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-2cba1be2a053fc46b083f6d04a795e2d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-2cba1be2a053fc46b083f6d04a795e2d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-2cba1be2a053fc46b083f6d04a795e2d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-2cba1be2a053fc46b083f6d04a795e2d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-2cba1be2a053fc46b083f6d04a795e2d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-2cba1be2a053fc46b083f6d04a795e2d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-2cba1be2a053fc46b083f6d04a795e2d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-2cba1be2a053fc46b083f6d04a795e2d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2cba1be2a053fc46b083f6d04a795e2d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2cba1be2a053fc46b083f6d04a795e2d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I — SCIENTIFIC AND TECHNICAL OBJECTIVES[^key-2cba1be2a053fc46b083f6d04a795e2d]
+## ANNEX I — SCIENTIFIC AND TECHNICAL OBJECTIVES[^c-2cba1be2a053fc46b083f6d04a795e2d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — BREAKDOWN OF THE CONTRIBUTIONS[^key-2cba1be2a053fc46b083f6d04a795e2d]
+## ANNEX II — BREAKDOWN OF THE CONTRIBUTIONS[^c-2cba1be2a053fc46b083f6d04a795e2d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2cba1be2a053fc46b083f6d04a795e2d]: Textual amendment: Decision revoked (16.5.2025) by [The Energy (Euratom Decisions and Miscellaneous Provisions) (Amendment and Revocation) Regulations 2025 (S.I. 2025/514)](https://www.legislation.gov.uk/uksi/2025/514), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/514/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2025/514/schedule)
+[^c-2cba1be2a053fc46b083f6d04a795e2d]: Textual amendment: Decision revoked (16.5.2025) by [The Energy (Euratom Decisions and Miscellaneous Provisions) (Amendment and Revocation) Regulations 2025 (S.I. 2025/514)](https://www.legislation.gov.uk/uksi/2025/514), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/514/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2025/514/schedule)

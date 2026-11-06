@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Withdrawal of approval of premises under paragraph 29A of Schedule 2 to the 1992 Regulations[^key-12fbd5e6947f9bf5de496256e1309088]
+## 21. Withdrawal of approval of premises under paragraph 29A of Schedule 2 to the 1992 Regulations[^c-12fbd5e6947f9bf5de496256e1309088]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ that appeal shall be dealt with or continue to be dealt, with as if paragraph 29
 
 ## Annotations
 
-[^key-12fbd5e6947f9bf5de496256e1309088]: Commencement: Art. 21 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-12fbd5e6947f9bf5de496256e1309088]: Commencement: Art. 21 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5.18. Provisional order made with a view to transmission to a reciprocating country[^key-c9d23e073582c4ec9f0f3b1579ededcb]
+## 5.18. Provisional order made with a view to transmission to a reciprocating country[^c-c9d23e073582c4ec9f0f3b1579ededcb]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ A certificate signed by the sheriff clerk in terms of section 3(5)(c) of the 197
 
 ## Annotations
 
-[^key-c9d23e073582c4ec9f0f3b1579ededcb]: Commencement: Rule 5.18 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
+[^c-c9d23e073582c4ec9f0f3b1579ededcb]: Commencement: Rule 5.18 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)

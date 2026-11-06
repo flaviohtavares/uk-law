@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 119C. Section 119A: unremitted Part 7A income[^key-e82ae11844a45af18eaad6f28938a82e]
+## 119C. Section 119A: unremitted Part 7A income[^c-e82ae11844a45af18eaad6f28938a82e]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e82ae11844a45af18eaad6f28938a82e]: Textual amendment: S. 119C inserted (with effect in accordance with Sch . 2 paras. 52-59 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 2 para. 49(3)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/2/paragraph/49/3)
+[^c-e82ae11844a45af18eaad6f28938a82e]: Textual amendment: S. 119C inserted (with effect in accordance with Sch . 2 paras. 52-59 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 2 para. 49(3)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/2/paragraph/49/3)

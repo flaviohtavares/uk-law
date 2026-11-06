@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Discontinuance or suspension at the request of the issuer: procedure[^key-c42e9003dca45e83d8c3cc366ebc74a1][^key-76a725bfb6f13619daa5a8a012fe2e05]
+## 17. Discontinuance or suspension at the request of the issuer: procedure[^c-c42e9003dca45e83d8c3cc366ebc74a1][^c-76a725bfb6f13619daa5a8a012fe2e05]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c42e9003dca45e83d8c3cc366ebc74a1]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2012/21/section/17) in force at 19.3.2013 for specified purposes by [S.I. 2013/651](https://www.legislation.gov.uk/uksi/2013/651), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/651/article/2/a)
+[^c-c42e9003dca45e83d8c3cc366ebc74a1]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2012/21/section/17) in force at 19.3.2013 for specified purposes by [S.I. 2013/651](https://www.legislation.gov.uk/uksi/2013/651), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/651/article/2/a)
 
-[^key-76a725bfb6f13619daa5a8a012fe2e05]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2012/21/section/17) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-76a725bfb6f13619daa5a8a012fe2e05]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2012/21/section/17) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

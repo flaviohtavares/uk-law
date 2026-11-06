@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8C. Requirement for certain gas transporters and operators of gas interconnectors to be certified as independent[^key-762125c0c176f82ef3ca3b8a42776ac8]
+## 8C. Requirement for certain gas transporters and operators of gas interconnectors to be certified as independent[^c-762125c0c176f82ef3ca3b8a42776ac8]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-762125c0c176f82ef3ca3b8a42776ac8]: Textual amendment: Ss. 8C-8Q and cross-heading inserted (10.11.2011) by [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2011/2704/regulation/4)
+[^c-762125c0c176f82ef3ca3b8a42776ac8]: Textual amendment: Ss. 8C-8Q and cross-heading inserted (10.11.2011) by [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2011/2704/regulation/4)

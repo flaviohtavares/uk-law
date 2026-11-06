@@ -37,11 +37,11 @@ Made
 
 The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 84(3) and 84(4) of the Energy Act 2016[^f00001].
 
-## 1. Citation[^key-ef65f1922d30a4d887cfb1b740d9fbe1]
+## 1. Citation[^c-ef65f1922d30a4d887cfb1b740d9fbe1]
 
 These Regulations may be cited as the Energy Act 2016 (Commencement No. 1 and Savings Provisions) Regulations 2016.
 
-## 2. Provisions coming into force on the day after the day on which this instrument is made[^key-dcc0be1b48d04cc5ba709bc0f5cfd917]
+## 2. Provisions coming into force on the day after the day on which this instrument is made[^c-dcc0be1b48d04cc5ba709bc0f5cfd917]
 
 The following provisions of the Energy Act 2016 come into force on the day after the day on which this instrument is made —
 
@@ -49,7 +49,7 @@ The following provisions of the Energy Act 2016 come into force on the day after
 - (b) subsections (2) to (6) of section 2 (transfer of functions to the OGA), and
 - (c) subsections (3) and (4) of section 66 (disclosure after specified period).
 
-## 3. Provisions coming into force on 12 July 2016[^key-3e4e9d65737baa0eae151e3483717b12]
+## 3. Provisions coming into force on 12 July 2016[^c-3e4e9d65737baa0eae151e3483717b12]
 
 The following provisions of the Energy Act 2016 come into force on 12th July 2016—
 
@@ -61,7 +61,7 @@ The following provisions of the Energy Act 2016 come into force on 12th July 201
 - (f) section 14 (the licensing levy: regulations), and
 - (g) section 78 (onshore wind generating stations in England and Wales).
 
-## 4. Savings[^key-fb94d786a782f40931f2f9342cd04e0d]
+## 4. Savings[^c-fb94d786a782f40931f2f9342cd04e0d]
 
 (1) The coming into force of section 78 does not affect the continuing application of—
 
@@ -108,13 +108,13 @@ An impact assessment of the effect that the Act will have on the costs of busine
 
 [^f00001]: Footnote: [2016 c. 20](https://www.legislation.gov.uk/ukpga/2016/20).
 
-[^key-ef65f1922d30a4d887cfb1b740d9fbe1]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2016/602/regulation/1) in force at made date
+[^c-ef65f1922d30a4d887cfb1b740d9fbe1]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2016/602/regulation/1) in force at made date
 
-[^key-dcc0be1b48d04cc5ba709bc0f5cfd917]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2016/602/regulation/2) in force at made date
+[^c-dcc0be1b48d04cc5ba709bc0f5cfd917]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2016/602/regulation/2) in force at made date
 
-[^key-3e4e9d65737baa0eae151e3483717b12]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2016/602/regulation/3) substituted (5.7.2016) by [The Energy Act 2016 (Commencement No. 1 and Savings Provisions) (Amendment) Regulations 2016 (S.I. 2016/710)](https://www.legislation.gov.uk/uksi/2016/710), [reg. 2](https://www.legislation.gov.uk/uksi/2016/710/regulation/2)
+[^c-3e4e9d65737baa0eae151e3483717b12]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2016/602/regulation/3) substituted (5.7.2016) by [The Energy Act 2016 (Commencement No. 1 and Savings Provisions) (Amendment) Regulations 2016 (S.I. 2016/710)](https://www.legislation.gov.uk/uksi/2016/710), [reg. 2](https://www.legislation.gov.uk/uksi/2016/710/regulation/2)
 
-[^key-fb94d786a782f40931f2f9342cd04e0d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2016/602/regulation/4) in force at made date
+[^c-fb94d786a782f40931f2f9342cd04e0d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2016/602/regulation/4) in force at made date
 
 [^f00002]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29). Relevant amendments to section 36 were made by: the Planning Act [2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29) (Schedule 2, paragraphs 31, 32(1) to (3)); the Marine and Coastal Access Act [2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23) (section 12(7)(a), (8)); and the Energy Act [2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20) (sections 93(1) and (3)).
 

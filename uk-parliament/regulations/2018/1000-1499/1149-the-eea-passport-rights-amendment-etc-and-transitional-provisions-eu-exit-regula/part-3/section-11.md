@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Deemed variation under Part 4A of the Financial Services and Markets Act 2000[^key-3bf627cbb033110a4214d27b0729dc21]
+## 11. Deemed variation under Part 4A of the Financial Services and Markets Act 2000[^c-3bf627cbb033110a4214d27b0729dc21]
 
 *Extent: E+W+S+N.I.*
 
 (1) A person to whom this regulation applies shall be treated as if the person's permission to carry on a regulated activity in the United Kingdom under Part 4A of the 2000 Act were varied.
 
-(2) The variation is that the regulated activity the person is permitted to carry on includes one which, immediately before IP completion day[^key-4e6c3018202df0730d315362e915fe90], the person is authorised to carry on in the United Kingdom by virtue of section 31(1)(b) or (c) of the 2000 Act.
+(2) The variation is that the regulated activity the person is permitted to carry on includes one which, immediately before IP completion day[^c-4e6c3018202df0730d315362e915fe90], the person is authorised to carry on in the United Kingdom by virtue of section 31(1)(b) or (c) of the 2000 Act.
 
 (3) Reference in an enactment to a person's permission under Part 4A of the 2000 Act (however expressed) is to be read, unless the contrary intention appears, as including a regulated activity which is included in the person's permission by virtue of this regulation.
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3bf627cbb033110a4214d27b0729dc21]: Modification: Reg. 11 applied (31.12.2020) by [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [36(1)](https://www.legislation.gov.uk/uksi/2019/689/regulation/36/1)[(3)](https://www.legislation.gov.uk/uksi/2019/689/regulation/36/3) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3bf627cbb033110a4214d27b0729dc21]: Modification: Reg. 11 applied (31.12.2020) by [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [36(1)](https://www.legislation.gov.uk/uksi/2019/689/regulation/36/1)[(3)](https://www.legislation.gov.uk/uksi/2019/689/regulation/36/3) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4e6c3018202df0730d315362e915fe90]: Textual amendment: Words in reg. 11 substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [6(2)(f)](https://www.legislation.gov.uk/uksi/2020/56/regulation/6/2/f)
+[^c-4e6c3018202df0730d315362e915fe90]: Textual amendment: Words in reg. 11 substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [6(2)(f)](https://www.legislation.gov.uk/uksi/2020/56/regulation/6/2/f)

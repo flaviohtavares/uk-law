@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 44. Standards of service[^key-6fb6f4f329d6c4ba9923188f3a584ca2][^key-ed950b162dabeee20c63f6b2ca169161]
+## 44. Standards of service[^c-6fb6f4f329d6c4ba9923188f3a584ca2][^c-ed950b162dabeee20c63f6b2ca169161]
 
 *Extent: S*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6fb6f4f329d6c4ba9923188f3a584ca2]: Commencement: S. 44 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-6fb6f4f329d6c4ba9923188f3a584ca2]: Commencement: S. 44 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
 
-[^key-ed950b162dabeee20c63f6b2ca169161]: Commencement: [S. 44](https://www.legislation.gov.uk/asp/2025/12/section/44) in force at 1.10.2026 by [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)
+[^c-ed950b162dabeee20c63f6b2ca169161]: Commencement: [S. 44](https://www.legislation.gov.uk/asp/2025/12/section/44) in force at 1.10.2026 by [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)

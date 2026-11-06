@@ -24,7 +24,7 @@ summary: ''
 
 (2) If any person, after the right in a registered design[^c9555] has expired, marks any product to which the design has been applied or in which it has been incorporated[^c9557] with the word “registered”, or any word or words implying that there is a subsisting right in the design under this Act[^c9558], or causes any such product to be so marked, he shall be liable on summary conviction to a fine not exceeding level 1 on the standard scale[^c9560]
 
-(3)[^key-52b2cc5ad043bfc57d18a7b5fe36bd04] For the purposes of this section, the use in the United Kingdom in relation to a design—
+(3)[^c-52b2cc5ad043bfc57d18a7b5fe36bd04] For the purposes of this section, the use in the United Kingdom in relation to a design—
 
 - (a) of the word “registered”, or
 - (b) of any other word or symbol importing a reference (express or implied) to registration,
@@ -47,4 +47,4 @@ shall be deemed to be a representation as to registration under this Act unless 
 
 [^c9560]: Textual amendment: Words substituted by [Copyright, Designs and Patents Act 1988 (c. 48, SIF 67A)](https://www.legislation.gov.uk/ukpga/1988/48), [s. 272](https://www.legislation.gov.uk/ukpga/1988/48/section/272), [Sch. 3 para. 24(3)(c)](https://www.legislation.gov.uk/ukpga/1988/48/schedule/3/paragraph/24/3/c)
 
-[^key-52b2cc5ad043bfc57d18a7b5fe36bd04]: Textual amendment: S. 35(3) inserted (1.10.2005) by [Community Design Regulations 2005 (S.I. 2005/2339)](https://www.legislation.gov.uk/uksi/2005/2339), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2339/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2005/2339/regulation/6)
+[^c-52b2cc5ad043bfc57d18a7b5fe36bd04]: Textual amendment: S. 35(3) inserted (1.10.2005) by [Community Design Regulations 2005 (S.I. 2005/2339)](https://www.legislation.gov.uk/uksi/2005/2339), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2339/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2005/2339/regulation/6)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 107. Reduction in pension debit member’s benefits[^key-eb3f95ca68c2ec8b367bb458125deed2]
+## 107. Reduction in pension debit member’s benefits[^c-eb3f95ca68c2ec8b367bb458125deed2]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The benefits to which a pension debit member is entitled under these Regulations
 
 ## Annotations
 
-[^key-eb3f95ca68c2ec8b367bb458125deed2]: Commencement: [Reg. 107](https://www.legislation.gov.uk/ssi/2015/19/regulation/107) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-eb3f95ca68c2ec8b367bb458125deed2]: Commencement: [Reg. 107](https://www.legislation.gov.uk/ssi/2015/19/regulation/107) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

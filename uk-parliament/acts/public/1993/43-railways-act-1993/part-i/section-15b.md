@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15B. Making of modifications by CMA .[^c14099041][^c18904131][^key-953cde7e01eeba1527033a90fcbd03f0]
+## 15B. Making of modifications by CMA .[^c14099041][^c18904131][^c-953cde7e01eeba1527033a90fcbd03f0]
 
 *Extent: E+W+S*
 
-(1) If the CMA[^key-556e8255fbc898a43842330a78545f20] give a direction under section 15A above, they shall themselves make such modifications of the conditions of the licence as appear to them requisite for the purpose of remedying or preventing—
+(1) If the CMA[^c-556e8255fbc898a43842330a78545f20] give a direction under section 15A above, they shall themselves make such modifications of the conditions of the licence as appear to them requisite for the purpose of remedying or preventing—
 
 - (a) the adverse effects specified in their report on the reference under section 13 above; or
 - (b) such of those adverse effects as would not be remedied or prevented by the modifications made by the Office of Rail Regulation[^c18775111], [^c18903611]. . . , under section 15(4D) above.
 
-(2)[^c18903811] In exercising the function conferred by subsection (1) above, the CMA shall have regard to the matters as respects which duties are imposed on the Office of Rail and Road[^key-0e139c00e354fdae9da9247e1d30bbac] by section 4 above.
+(2)[^c18903811] In exercising the function conferred by subsection (1) above, the CMA shall have regard to the matters as respects which duties are imposed on the Office of Rail and Road[^c-0e139c00e354fdae9da9247e1d30bbac] by section 4 above.
 
 (3) Before making modifications under this section, the CMA shall give notice—
 
@@ -48,9 +48,9 @@ and shall consider any representations or objections which are duly made and not
 
 [^c18904131]: Modification: S. 15B applied (with modifications) (28.11.2005) by [The Railway (Licensing of Railway Undertakings) Regulations 2005 (S.I. 2005/3050)](https://www.legislation.gov.uk/uksi/2005/3050), [reg. 14](https://www.legislation.gov.uk/uksi/2005/3050/regulation/14), [Sch. 3 para. 1(b)](https://www.legislation.gov.uk/uksi/2005/3050/schedule/3/paragraph/1/b)
 
-[^key-953cde7e01eeba1527033a90fcbd03f0]: Textual amendment: Word in s. 15B heading substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 76(3)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/76/3); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-953cde7e01eeba1527033a90fcbd03f0]: Textual amendment: Word in s. 15B heading substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 76(3)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/76/3); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-556e8255fbc898a43842330a78545f20]: Textual amendment: Words in ss. 15B(1)-(5) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 76(2)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/76/2); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-556e8255fbc898a43842330a78545f20]: Textual amendment: Words in ss. 15B(1)-(5) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 76(2)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/76/2); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
 [^c18775111]: Textual amendment: Words in s. 15B substituted (5.7.2004) by [Railways and Transport Safety Act 2003 (c. 20)](https://www.legislation.gov.uk/ukpga/2003/20), [ss. 16](https://www.legislation.gov.uk/ukpga/2003/20/section/16), [120](https://www.legislation.gov.uk/ukpga/2003/20/section/120), {Sch. 2 para. 3(a) Table}; [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 4(g)](https://www.legislation.gov.uk/uksi/2004/827/article/4/g)
 
@@ -58,6 +58,6 @@ and shall consider any representations or objections which are duly made and not
 
 [^c18903811]: Modification: S. 15B(2) modified (28.11.2005) by [The Railway (Licensing of Railway Undertakings) Regulations 2005 (S.I. 2005/3050)](https://www.legislation.gov.uk/uksi/2005/3050), [reg. 14](https://www.legislation.gov.uk/uksi/2005/3050/regulation/14), [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2005/3050/schedule/3/paragraph/5)
 
-[^key-0e139c00e354fdae9da9247e1d30bbac]: Textual amendment: Words in s. 15B(2)(5) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 1(m)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/1/m)
+[^c-0e139c00e354fdae9da9247e1d30bbac]: Textual amendment: Words in s. 15B(2)(5) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 1(m)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/1/m)
 
 [^c19296761]: Textual amendment: Words in s. 15B(5) repealed (24.7.2005 for certain purposes and otherwise prosp.) by [Railways Act 2005 (c. 16)](https://www.legislation.gov.uk/ukpga/2005/16), [ss. 59](https://www.legislation.gov.uk/ukpga/2005/16/section/59), [60](https://www.legislation.gov.uk/ukpga/2005/16/section/60), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/16/schedule/13/part/1) (with [s. 14(4)(5)](https://www.legislation.gov.uk/ukpga/2005/16/section/14/4/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/16/schedule/11/paragraph/11/2)); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)

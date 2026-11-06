@@ -45,13 +45,13 @@ In accordance with Article 350N(1) of the Insolvency (Northern Ireland) Order 19
 
 In accordance with Article 350N(3) of the Insolvency (Northern Ireland) Order 1989 the Department published a notice specifying that the Order is to take effect from 19th February 2025 and the reasons for making the Order.
 
-## 1. Citation and commencement and effect[^key-6d8594d8e4b7c5f3c64c4412b6c999da]
+## 1. Citation and commencement and effect[^c-6d8594d8e4b7c5f3c64c4412b6c999da]
 
 (1) This Order may be cited as the Insolvency Practitioners (Recognised Professional Bodies) (Revocation of Recognition) Order (Northern Ireland) 2025 and comes into operation on 19th February 2025.
 
 (2) This Order has effect from 19th February 2025
 
-## 2. Amendment of the Insolvency Practitioners (Recognised Professional Bodies) Order (Northern Ireland) 1991[^key-59148875a38402fdaa9a8bc2e023eb57]
+## 2. Amendment of the Insolvency Practitioners (Recognised Professional Bodies) Order (Northern Ireland) 1991[^c-59148875a38402fdaa9a8bc2e023eb57]
 
 In the Schedule to the Insolvency Practitioners (Recognised Professional Bodies) Order (Northern Ireland) 1991, omit “The Institute of Chartered Accountants in Ireland”
 
@@ -81,6 +81,6 @@ A regulatory impact assessment has not been produced for this instrument as it d
 
 [^f00003]: Footnote: [S.R. 1991 No. 301](https://www.legislation.gov.uk/nisr/1991/301) is treated as made under Article 350(1) and (5) of the Insolvency (Northern Ireland) Order 1989 as substituted by section 14(4) of the Insolvency (Amendment) Act (Northern Ireland) 2016; as amended by [SR 2017/ No.4](https://www.legislation.gov.uk/nisr/2017/4); SR [2021 No.304](https://www.legislation.gov.uk/nisr/2021/304) (revoked); [SR 2022 No. 2](https://www.legislation.gov.uk/nisr/2022/2); and SR [2022 No.34](https://www.legislation.gov.uk/nisr/2022/34).
 
-[^key-6d8594d8e4b7c5f3c64c4412b6c999da]: Commencement: Art. 1 in operation at 19.2.2025 with effect in accordance with art. 1(1)(2)
+[^c-6d8594d8e4b7c5f3c64c4412b6c999da]: Commencement: Art. 1 in operation at 19.2.2025 with effect in accordance with art. 1(1)(2)
 
-[^key-59148875a38402fdaa9a8bc2e023eb57]: Commencement: Art. 2 in operation at 19.2.2025 with effect in accordance with art. 1(1)(2)
+[^c-59148875a38402fdaa9a8bc2e023eb57]: Commencement: Art. 2 in operation at 19.2.2025 with effect in accordance with art. 1(1)(2)

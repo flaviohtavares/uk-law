@@ -46,11 +46,11 @@ The Treasury, in exercise of the powers conferred by sections 22(1A)[^f00004] an
 
 In the opinion of the Treasury, one of the effects of the following Order is that an activity which is not a regulated activity (within the meaning of the Financial Services and Markets Act 2000) will become a regulated activity and a benchmark that is not a relevant benchmark (within the meaning of section 93(4) of the Financial Services Act 2012) will become a relevant benchmark.
 
-## 1. Citation and commencement[^key-817fa9394f4fab2dee512a3522fecd54]
+## 1. Citation and commencement[^c-817fa9394f4fab2dee512a3522fecd54]
 
 This Order may be cited as the Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2015 and comes into force on 1st April 2015.
 
-## 2. Interpretation[^key-1037175b886a452ab17ba69a864cc605]
+## 2. Interpretation[^c-1037175b886a452ab17ba69a864cc605]
 
 In this Order—
 
@@ -59,7 +59,7 @@ In this Order—
 - “providing information” in relation to a specified benchmark has the meaning given in paragraph (2)(a) of article 63O of the Regulated Activities Order; and
 - “the Regulated Activities Order” means the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001[^f00007].
 
-## 3. Amendment of the Regulated Activities Order[^key-f6931c854570d08d897e1e1d91b9960f]
+## 3. Amendment of the Regulated Activities Order[^c-f6931c854570d08d897e1e1d91b9960f]
 
 For Schedule 5 to the Regulated Activities Order substitute—
 
@@ -87,7 +87,7 @@ For Schedule 5 to the Regulated Activities Order substitute—
 
 .
 
-## 4. Transitional provisions[^key-6ecf24801ec607f4ecbf2208bb02e017]
+## 4. Transitional provisions[^c-6ecf24801ec607f4ecbf2208bb02e017]
 
 (1) Paragraph (2) applies to a person (“A”) who, on the last working day before 1st April 2015, was an authorised person whose Part 4A permission did not include either of the activities specified in article 63O of the Regulated Activities Order in relation to a specified benchmark and—
 
@@ -107,7 +107,7 @@ For Schedule 5 to the Regulated Activities Order substitute—
 - (b) collecting, analysing or processing information or expressions of opinion provided by third parties for the purpose of determining the benchmark; or
 - (c) determining the benchmark through the application of a formula or other method of calculation to the information or expressions of opinion provided for that purpose.
 
-## 5. Interim permission[^key-48b12e809887666048570bfa0484fa09]
+## 5. Interim permission[^c-48b12e809887666048570bfa0484fa09]
 
 (1) Paragraph (2) applies to a person (“B”) who is not an authorised person and who on the last working day before 1st April 2015 was carrying on the activities of providing information in relation to or administering a benchmark that on 1st April 2015 would be the activities of providing information in relation to or administering a specified benchmark (“S”).
 
@@ -133,7 +133,7 @@ For Schedule 5 to the Regulated Activities Order substitute—
 
 (7) For the purposes of paragraph (4)(a), section 55Z[^f00012] of the Act (cancellation of Part 4A permission: procedure) does not apply.
 
-## 6. Application of the FCA’s rules etc. to persons with interim permission[^key-4b97b0337a13ee360fcf759f42e0bd45]
+## 6. Application of the FCA’s rules etc. to persons with interim permission[^c-4b97b0337a13ee360fcf759f42e0bd45]
 
 (1) The FCA may direct in writing that any relevant provision which would otherwise apply to a person by virtue of an interim permission is not to apply, or is to apply to that person as modified in the way specified in the direction.
 
@@ -145,7 +145,7 @@ For Schedule 5 to the Regulated Activities Order substitute—
 
 (3) For the purpose of paragraph (1), a “relevant provision” is any provision made as a result of the exercise by the FCA of any of its legislative functions mentioned in paragraph 8(3) of Schedule 1ZA[^f00016] to the Act (the financial conduct authority).
 
-## 7. Application of the Act to persons with interim permission[^key-8250671d9a539c2b1ee976e9b5f79b5f]
+## 7. Application of the Act to persons with interim permission[^c-8250671d9a539c2b1ee976e9b5f79b5f]
 
 (1) This article applies to every person with an interim permission under article 5(2) of this Order.
 
@@ -164,13 +164,13 @@ For Schedule 5 to the Regulated Activities Order substitute—
 - (c) section 55E[^f00021] (giving permission: the FCA); and
 - (d) section 55F[^f00022] (giving permission: the PRA).
 
-## 8. Imposition of requirements by the FCA[^key-696f1911c9535c6c52075cddf1a3ce3b]
+## 8. Imposition of requirements by the FCA[^c-696f1911c9535c6c52075cddf1a3ce3b]
 
 (1) The FCA may exercise its power under section 55L(3) of the Act (imposition of requirements by FCA) in relation to a person who immediately before 1st April 2015 had a Part 4A permission to carry on any of the activities in article 63O of the Regulated Activities Order, if it appears to the FCA that it is necessary to ensure regulation of any specified benchmark.
 
 (2) Where the FCA exercises its power under section 55L(3) in accordance with paragraph (1), section 55Y[^f00023] of the Act (exercise of own-initiative power: procedure) does not apply.
 
-## 9. Amendments to the Financial Services 2012 (Misleading Statements and Impressions) Order 2013[^key-a84fee390513a5a67d95bacd0c844c1a]
+## 9. Amendments to the Financial Services 2012 (Misleading Statements and Impressions) Order 2013[^c-a84fee390513a5a67d95bacd0c844c1a]
 
 For article 3 of the Financial Services 2012 (Misleading Statements and Impressions) Order 2013[^f00024] substitute—
 
@@ -231,23 +231,23 @@ A full impact assessment of the effect that these Regulations will have on the c
 
 [^f00005]: Footnote: Paragraph 25 was amended by the Financial Services Act 2012, section 8(1), (2).
 
-[^key-817fa9394f4fab2dee512a3522fecd54]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2015/369/article/1) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/369/article/1)
+[^c-817fa9394f4fab2dee512a3522fecd54]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2015/369/article/1) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/369/article/1)
 
-[^key-1037175b886a452ab17ba69a864cc605]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2015/369/article/2) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/369/article/1)
+[^c-1037175b886a452ab17ba69a864cc605]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2015/369/article/2) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/369/article/1)
 
 [^f00006]: Footnote: Article 63O was inserted by the Financial Services and Markets Act 2000 (Regulated Activities (Amendment) Order 2013, [SI 2013/655](https://www.legislation.gov.uk/uksi/2013/655), arts 4, 5.
 
 [^f00007]: Footnote: [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544). The relevant amending instruments are [S.I. 2009/1389](https://www.legislation.gov.uk/uksi/2009/1389) and [S.I. 2013/655](https://www.legislation.gov.uk/uksi/2013/655)
 
-[^key-f6931c854570d08d897e1e1d91b9960f]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2015/369/article/3) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/369/article/1)
+[^c-f6931c854570d08d897e1e1d91b9960f]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2015/369/article/3) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/369/article/1)
 
 [^f00008]: Footnote: It is proposed that ISDAFIX will be known as ICE Swap Rate from some time in 2015.
 
 [^f00009]: Footnote: It is proposed that the London Gold Fixing benchmark will be known as LBMA Gold Price from some time in 2015.
 
-[^key-6ecf24801ec607f4ecbf2208bb02e017]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2015/369/article/4) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/369/article/1)
+[^c-6ecf24801ec607f4ecbf2208bb02e017]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2015/369/article/4) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/369/article/1)
 
-[^key-48b12e809887666048570bfa0484fa09]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2015/369/article/5) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/369/article/1)
+[^c-48b12e809887666048570bfa0484fa09]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2015/369/article/5) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/369/article/1)
 
 [^f00010]: Footnote: Inserted by the Financial Services Act 2012, section 11(2).
 
@@ -255,7 +255,7 @@ A full impact assessment of the effect that these Regulations will have on the c
 
 [^f00012]: Footnote: Inserted by the Financial Services Act 2012, section 11(2).
 
-[^key-4b97b0337a13ee360fcf759f42e0bd45]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2015/369/article/6) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/369/article/1)
+[^c-4b97b0337a13ee360fcf759f42e0bd45]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2015/369/article/6) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/369/article/1)
 
 [^f00013]: Footnote: Inserted by the Financial Services Act 2010, section 11 and amended by the Financial Services Act 2012, Schedule 5, paragraphs 11(2)(a), (b), 11(3), 11(4)(a), (b).
 
@@ -265,7 +265,7 @@ A full impact assessment of the effect that these Regulations will have on the c
 
 [^f00016]: Footnote: Inserted by the Financial Services Act 2012, section 6(2), Schedule 3 and amended by the Financial Services (Banking Reform) Act [2013 (c.33)](https://www.legislation.gov.uk/ukpga/2013/33), section 35, Schedule 3, paragraph 16 and section 4(6); and the Collective Investment in Transferable Securities (Contractual Scheme) Regulations 2013 and [S.I. 2013/1388](https://www.legislation.gov.uk/uksi/2013/1388).
 
-[^key-8250671d9a539c2b1ee976e9b5f79b5f]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2015/369/article/7) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/369/article/1)
+[^c-8250671d9a539c2b1ee976e9b5f79b5f]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2015/369/article/7) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/369/article/1)
 
 [^f00017]: Footnote: Inserted by the Financial Services Act 2012, Schedule 9(2) paragraphs 2(2)(a), (b), (c), 2(3), 2(4), 2(5), 2(6).
 
@@ -279,11 +279,11 @@ A full impact assessment of the effect that these Regulations will have on the c
 
 [^f00022]: Footnote: Inserted by the Financial Services Act 2012, section 11(2).
 
-[^key-696f1911c9535c6c52075cddf1a3ce3b]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2015/369/article/8) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/369/article/1)
+[^c-696f1911c9535c6c52075cddf1a3ce3b]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2015/369/article/8) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/369/article/1)
 
 [^f00023]: Footnote: Inserted by the Financial Services Act 2012, section 11(2).
 
-[^key-a84fee390513a5a67d95bacd0c844c1a]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2015/369/article/9) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/369/article/1)
+[^c-a84fee390513a5a67d95bacd0c844c1a]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2015/369/article/9) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/369/article/1)
 
 [^f00024]: Footnote: [S.I. 2013/637](https://www.legislation.gov.uk/uksi/2013/637).
 

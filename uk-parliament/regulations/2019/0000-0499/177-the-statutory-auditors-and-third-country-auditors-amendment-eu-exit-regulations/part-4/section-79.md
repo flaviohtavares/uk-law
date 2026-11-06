@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79.[^key-7d583531f69c3104c1cc2f8ce7bd8503]
+## 79.[^c-7d583531f69c3104c1cc2f8ce7bd8503]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ In Article 4 (audit fees)—
 
 ## Annotations
 
-[^key-7d583531f69c3104c1cc2f8ce7bd8503]: Commencement: Reg. 79 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+[^c-7d583531f69c3104c1cc2f8ce7bd8503]: Commencement: Reg. 79 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)

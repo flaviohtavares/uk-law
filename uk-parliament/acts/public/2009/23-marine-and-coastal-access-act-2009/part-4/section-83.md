@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Requirements for Admiralty consent under local legislation[^key-4a19f5e0c2c6f47daa5ed11f72f19595]
+## 83. Requirements for Admiralty consent under local legislation[^c-4a19f5e0c2c6f47daa5ed11f72f19595]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ the requirement for Admiralty consent does not apply in relation to that work.
 
 ## Annotations
 
-[^key-4a19f5e0c2c6f47daa5ed11f72f19595]: Commencement: S. 83 in force at 6.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
+[^c-4a19f5e0c2c6f47daa5ed11f72f19595]: Commencement: S. 83 in force at 6.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)

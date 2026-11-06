@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 43A. Prisoners’ welfare - coronavirus[^key-9039f2261ab78e2cc3abc14ca5d3ded6]
+## 43A. Prisoners’ welfare - coronavirus[^c-9039f2261ab78e2cc3abc14ca5d3ded6]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9039f2261ab78e2cc3abc14ca5d3ded6]: Textual amendment: Rule 43A omitted (29.9.2021) by virtue of [The Prisons and Young Offenders Institutions (Coronavirus) (Scotland) Amendment (No. 2) Rules 2021 (S.S.I. 2021/289)](https://www.legislation.gov.uk/ssi/2021/289), [rules 1](https://www.legislation.gov.uk/ssi/2021/289/rule/1), [4(d)](https://www.legislation.gov.uk/ssi/2021/289/rule/4/d)
+[^c-9039f2261ab78e2cc3abc14ca5d3ded6]: Textual amendment: Rule 43A omitted (29.9.2021) by virtue of [The Prisons and Young Offenders Institutions (Coronavirus) (Scotland) Amendment (No. 2) Rules 2021 (S.S.I. 2021/289)](https://www.legislation.gov.uk/ssi/2021/289), [rules 1](https://www.legislation.gov.uk/ssi/2021/289/rule/1), [4(d)](https://www.legislation.gov.uk/ssi/2021/289/rule/4/d)

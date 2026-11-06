@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 5A. Additional duties on owners and keepers of laying hens[^key-3823bfdeaa573ad722ab877e4278600a]
+## 5A. Additional duties on owners and keepers of laying hens[^c-3823bfdeaa573ad722ab877e4278600a]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3823bfdeaa573ad722ab877e4278600a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2000/270) revoked (2.4.2012) by [Welfare of Farmed Animals Regulations (Northern Ireland) 2012 (S.R. 2012/156)](https://www.legislation.gov.uk/nisr/2012/156), [regs. 1](https://www.legislation.gov.uk/nisr/2012/156/regulation/1), [8](https://www.legislation.gov.uk/nisr/2012/156/regulation/8)
+[^c-3823bfdeaa573ad722ab877e4278600a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2000/270) revoked (2.4.2012) by [Welfare of Farmed Animals Regulations (Northern Ireland) 2012 (S.R. 2012/156)](https://www.legislation.gov.uk/nisr/2012/156), [regs. 1](https://www.legislation.gov.uk/nisr/2012/156/regulation/1), [8](https://www.legislation.gov.uk/nisr/2012/156/regulation/8)

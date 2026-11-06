@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 33. Offences by bodies corporate etc.[^key-124d50abc4b63b01169178456b2dd383]
+## 33. Offences by bodies corporate etc.[^c-124d50abc4b63b01169178456b2dd383]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-124d50abc4b63b01169178456b2dd383]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2015/10/section/33) in force at 1.7.2016 by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 2](https://www.legislation.gov.uk/ssi/2016/130/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/130/schedule) (with [arts. 5](https://www.legislation.gov.uk/ssi/2016/130/article/5), [6](https://www.legislation.gov.uk/ssi/2016/130/article/6))
+[^c-124d50abc4b63b01169178456b2dd383]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2015/10/section/33) in force at 1.7.2016 by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 2](https://www.legislation.gov.uk/ssi/2016/130/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/130/schedule) (with [arts. 5](https://www.legislation.gov.uk/ssi/2016/130/article/5), [6](https://www.legislation.gov.uk/ssi/2016/130/article/6))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Disqualification orders[^key-5929e2245eeab8848eab014aa1d2fd48][^key-46b3372d1714300238b38477eb6c86ce]
+## 38. Disqualification orders[^c-5929e2245eeab8848eab014aa1d2fd48][^c-46b3372d1714300238b38477eb6c86ce]
 
 *Extent: E+W*
 
@@ -46,6 +46,6 @@ and must have regard to any representations which are duly made.
 
 ## Annotations
 
-[^key-5929e2245eeab8848eab014aa1d2fd48]: Commencement: S. 38 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-5929e2245eeab8848eab014aa1d2fd48]: Commencement: S. 38 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-46b3372d1714300238b38477eb6c86ce]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2025/21/section/38) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(a)(vii)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/a/vii)
+[^c-46b3372d1714300238b38477eb6c86ce]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2025/21/section/38) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(a)(vii)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/a/vii)

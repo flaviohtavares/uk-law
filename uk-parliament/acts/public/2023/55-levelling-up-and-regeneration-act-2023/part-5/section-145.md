@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 145. Use of CLA receipts in an area to which section 144(1) duty does not relate[^key-b3688ae8d9ae0c5ac28387a64e8280b0]
+## 145. Use of CLA receipts in an area to which section 144(1) duty does not relate[^c-b3688ae8d9ae0c5ac28387a64e8280b0]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b3688ae8d9ae0c5ac28387a64e8280b0]: Commencement: S. 145 not in force at Royal Assent, see [s. 255(4)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/4)
+[^c-b3688ae8d9ae0c5ac28387a64e8280b0]: Commencement: S. 145 not in force at Royal Assent, see [s. 255(4)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/4)

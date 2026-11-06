@@ -30,17 +30,17 @@ summary: ''
 - “**analyse**”, in relation to any sample of land, water or effluent, includes subjecting the sample to a test of any description;
 - “**the Appeals Commission**” means the Water Appeals Commission for Northern Ireland;
 - “**the Authority**” means the Northern Ireland Authority for Utility Regulation;
-- “[^key-79c2411a4b808fd77e93572859b1cc01]**the CMA**” means the Competition and Markets Authority;
+- “[^c-79c2411a4b808fd77e93572859b1cc01]**the CMA**” means the Competition and Markets Authority;
 - “**consumers**” includes both existing consumers and future consumers;
 - “**contravention**” includes a failure to comply;
 - “**the Council**” means the General Consumer Council for Northern Ireland;
 - “**customer or potential customer**”, in relation to a company holding an appointment under Chapter I of Part III, means—
   - (a) any person for or to whom that company provides any services in the course of carrying out the functions of a water undertaker or sewerage undertaker; or
   - (b) any person who might become such a person on making an application for the purpose to the company;
-- “DAERA” means the Department of Agriculture, Environment and Rural Affairs;[^key-86bfd94450b315a66ba7e1a17947844f]
+- “DAERA” means the Department of Agriculture, Environment and Rural Affairs;[^c-86bfd94450b315a66ba7e1a17947844f]
 - “**DARD**” means the Department of Agriculture and Rural Development;
 - “**damage**”, in relation to individuals, includes death and any personal injury, including any disease or impairment of physical or mental condition;
-- [^key-b5b10497b195161a344e4bc9894e36e8]...
+- [^c-b5b10497b195161a344e4bc9894e36e8]...
 - “**the Department**” means the Department for Regional Development;
 - “disposal”—
   - (a) in relation to land, includes the creation of any estate in the land and a disposal effected by means of the surrender or other termination of any such estate; and
@@ -83,7 +83,7 @@ summary: ''
 - “**owner**”, in relation to any premises, means the person who—
   - (a) is for the time being receiving the rack-rent of the premises, whether on his own account or as agent or trustee for another person; or
   - (b) would receive the rack-rent if the premises were let at a rack-rent;
-- [^key-d757f53f8735768ea5192cc4d0cf21cb]...
+- [^c-d757f53f8735768ea5192cc4d0cf21cb]...
 - “**prescribed**” means prescribed by regulations;
 - “**protected land**”, in relation to a company holding an appointment under Chapter I of Part III, means any land which—
   - (a) was transferred to that company in accordance with a scheme under Article 270;
@@ -136,7 +136,7 @@ summary: ''
 
 and, accordingly, references to the laying of a pipe shall include references to the construction of such a tunnel or conduit, to the construction or installation of any such accessories and to the making of a connection between one pipe and another.
 
-(3A)[^key-a4a53aebae0dda2c874436237aa02e7f] In this Order “**sustainable drainage system**” means any structure or part of a structure that is designed to receive surface water from premises and—
+(3A)[^c-a4a53aebae0dda2c874436237aa02e7f] In this Order “**sustainable drainage system**” means any structure or part of a structure that is designed to receive surface water from premises and—
 
 - (a) to discharge that water at a rate which is (whether in all circumstances or only in some circumstances) less than the rate at which the water enters the structure, or
 - (b) to reduce the volume of surface water entering public sewers or watercourses.
@@ -148,7 +148,7 @@ and, accordingly, references to the laying of a pipe shall include references to
   - (ii) a watercourse; and
 - (b) the definition of “watercourse” in paragraph (2) (same meaning as in the Drainage Order) does not apply.
 
-(3C)[^key-5d230da11f66da7c519211953955b4ee] In this Order—
+(3C)[^c-5d230da11f66da7c519211953955b4ee] In this Order—
 
 - (a) references to a sustainable drainage system include references to a tunnel or conduit which serves or is to serve as the system in question or part of it, and to any machinery or equipment of the system, and
 - (b) accordingly, references to the construction of a sustainable drainage system include references to the construction of such a tunnel or conduit and to the construction or installation of any such machinery or equipment.
@@ -190,16 +190,16 @@ and, accordingly, references to the laying of a pipe shall include references to
 
 ## Annotations
 
-[^key-79c2411a4b808fd77e93572859b1cc01]: Textual amendment: Words in art. 2(2) inserted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 182(a)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/182/a); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-79c2411a4b808fd77e93572859b1cc01]: Textual amendment: Words in art. 2(2) inserted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 182(a)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/182/a); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-86bfd94450b315a66ba7e1a17947844f]: Textual amendment: Words in art. 2(2) inserted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 74(b)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/74/b) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-86bfd94450b315a66ba7e1a17947844f]: Textual amendment: Words in art. 2(2) inserted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 74(b)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/74/b) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-b5b10497b195161a344e4bc9894e36e8]: Textual amendment: Words in art. 2(2) omitted (8.5.2016) by virtue of [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 74(a)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/74/a) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-b5b10497b195161a344e4bc9894e36e8]: Textual amendment: Words in art. 2(2) omitted (8.5.2016) by virtue of [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 74(a)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/74/a) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
 [^c21463531]: Textual amendment: Art. 2(2): definition of "limited company" substituted (1.10.2009) by [Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/1941/article/2/1), [Sch. 1 para. 263(2)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/263/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-d757f53f8735768ea5192cc4d0cf21cb]: Textual amendment: Words in art. 2(2) omitted (1.4.2014) by virtue of [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 182(b)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/182/b); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-d757f53f8735768ea5192cc4d0cf21cb]: Textual amendment: Words in art. 2(2) omitted (1.4.2014) by virtue of [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 182(b)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/182/b); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-a4a53aebae0dda2c874436237aa02e7f]: Textual amendment: Art. 2(3A)(3B) inserted (24.5.2016 with application as mentioned in s. 8(1) of the amending Act) by [Water and Sewerage Services Act (Northern Ireland) 2016 (c. 7)](https://www.legislation.gov.uk/nia/2016/7), [ss. 4(2)](https://www.legislation.gov.uk/nia/2016/7/section/4/2), [8](https://www.legislation.gov.uk/nia/2016/7/section/8)
+[^c-a4a53aebae0dda2c874436237aa02e7f]: Textual amendment: Art. 2(3A)(3B) inserted (24.5.2016 with application as mentioned in s. 8(1) of the amending Act) by [Water and Sewerage Services Act (Northern Ireland) 2016 (c. 7)](https://www.legislation.gov.uk/nia/2016/7), [ss. 4(2)](https://www.legislation.gov.uk/nia/2016/7/section/4/2), [8](https://www.legislation.gov.uk/nia/2016/7/section/8)
 
-[^key-5d230da11f66da7c519211953955b4ee]: Textual amendment: [Art. 2(3C)](https://www.legislation.gov.uk/nisi/2006/3336/article/2/3C) inserted (24.5.2016 with application as mentioned in s. 8(1) of the amending Act) by [Water and Sewerage Services Act (Northern Ireland) 2016 (c. 7)](https://www.legislation.gov.uk/nia/2016/7), [s. 8](https://www.legislation.gov.uk/nia/2016/7/section/8), [Sch. 2 para. 2](https://www.legislation.gov.uk/nia/2016/7/schedule/2/paragraph/2)
+[^c-5d230da11f66da7c519211953955b4ee]: Textual amendment: [Art. 2(3C)](https://www.legislation.gov.uk/nisi/2006/3336/article/2/3C) inserted (24.5.2016 with application as mentioned in s. 8(1) of the amending Act) by [Water and Sewerage Services Act (Northern Ireland) 2016 (c. 7)](https://www.legislation.gov.uk/nia/2016/7), [s. 8](https://www.legislation.gov.uk/nia/2016/7/section/8), [Sch. 2 para. 2](https://www.legislation.gov.uk/nia/2016/7/schedule/2/paragraph/2)

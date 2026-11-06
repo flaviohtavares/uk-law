@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17A. Specific measures applicable to retail premises[^key-daf7edb61465904817bfa95b30e2cd4f]
+## 17A. Specific measures applicable to retail premises[^c-daf7edb61465904817bfa95b30e2cd4f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-daf7edb61465904817bfa95b30e2cd4f]: Textual amendment: Reg. 17A omitted (7.8.2021 at 6.00 a.m.) by virtue of [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 15) Regulations 2021 (S.I. 2021/925)](https://www.legislation.gov.uk/wsi/2021/925), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2021/925/regulation/1/3), [2(13)](https://www.legislation.gov.uk/wsi/2021/925/regulation/2/13)
+[^c-daf7edb61465904817bfa95b30e2cd4f]: Textual amendment: Reg. 17A omitted (7.8.2021 at 6.00 a.m.) by virtue of [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 15) Regulations 2021 (S.I. 2021/925)](https://www.legislation.gov.uk/wsi/2021/925), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2021/925/regulation/1/3), [2(13)](https://www.legislation.gov.uk/wsi/2021/925/regulation/2/13)

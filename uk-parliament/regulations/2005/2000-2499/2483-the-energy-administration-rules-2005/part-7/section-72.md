@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 72. Assignment of right to dividend[^key-5f8965d7b63930328ba96e5c913cb956]
+## 72. Assignment of right to dividend[^c-5f8965d7b63930328ba96e5c913cb956]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5f8965d7b63930328ba96e5c913cb956]: Commencement: Rule 72 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-5f8965d7b63930328ba96e5c913cb956]: Commencement: Rule 72 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

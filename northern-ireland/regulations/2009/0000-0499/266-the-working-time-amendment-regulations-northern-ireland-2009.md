@@ -32,7 +32,7 @@ summary: ''
 
 Employment
 
-The Working Time (Amendment) Regulations (Northern Ireland) 2009 (revoked)[^key-126c090335f14f5a996e016b50143a7c]
+The Working Time (Amendment) Regulations (Northern Ireland) 2009 (revoked)[^c-126c090335f14f5a996e016b50143a7c]
 
 Made
 
@@ -42,26 +42,26 @@ Coming into operation
 
 1st August 2009
 
-[^key-126c090335f14f5a996e016b50143a7c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-126c090335f14f5a996e016b50143a7c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-126c090335f14f5a996e016b50143a7c]
+## 1. Citation, commencement and interpretation[^c-126c090335f14f5a996e016b50143a7c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to regulation 25A of the Working Time Regulations (Northern Ireland) 1998[^key-126c090335f14f5a996e016b50143a7c]
+## 2. Amendments to regulation 25A of the Working Time Regulations (Northern Ireland) 1998[^c-126c090335f14f5a996e016b50143a7c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. New Schedule 2A to the Working Time Regulations (Northern Ireland) 1998[^key-126c090335f14f5a996e016b50143a7c]
+## 3. New Schedule 2A to the Working Time Regulations (Northern Ireland) 1998[^c-126c090335f14f5a996e016b50143a7c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-126c090335f14f5a996e016b50143a7c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-126c090335f14f5a996e016b50143a7c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-126c090335f14f5a996e016b50143a7c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-126c090335f14f5a996e016b50143a7c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-126c090335f14f5a996e016b50143a7c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2009/266) revoked with savings (28.2.2016) by [The Working Time Regulations (Northern Ireland) 2016 (S.R. 2016/49)](https://www.legislation.gov.uk/nisr/2016/49), [reg. 54(1)(k)](https://www.legislation.gov.uk/nisr/2016/49/regulation/54/1/k) (with [regs. 22(1)](https://www.legislation.gov.uk/nisr/2016/49/regulation/22/1), [54(2)](https://www.legislation.gov.uk/nisr/2016/49/regulation/54/2)[(3)](https://www.legislation.gov.uk/nisr/2016/49/regulation/54/3))
+[^c-126c090335f14f5a996e016b50143a7c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2009/266) revoked with savings (28.2.2016) by [The Working Time Regulations (Northern Ireland) 2016 (S.R. 2016/49)](https://www.legislation.gov.uk/nisr/2016/49), [reg. 54(1)(k)](https://www.legislation.gov.uk/nisr/2016/49/regulation/54/1/k) (with [regs. 22(1)](https://www.legislation.gov.uk/nisr/2016/49/regulation/22/1), [54(2)](https://www.legislation.gov.uk/nisr/2016/49/regulation/54/2)[(3)](https://www.legislation.gov.uk/nisr/2016/49/regulation/54/3))

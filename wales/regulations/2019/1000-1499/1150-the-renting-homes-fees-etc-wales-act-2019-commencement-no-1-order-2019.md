@@ -37,13 +37,13 @@ Made
 
 The Welsh Ministers make the following Order in exercise of the power conferred on them by section 30(2) of the Renting Homes (Fees etc.) (Wales) Act 2019[^f00001].
 
-## 1. Title and interpretation[^key-5319fe803390b00c95cba49ce17daa67]
+## 1. Title and interpretation[^c-5319fe803390b00c95cba49ce17daa67]
 
 (1) The title of this Order is the Renting Homes (Fees etc.) (Wales) Act 2019 (Commencement No. 1) Order 2019.
 
 (2) In this Order, “the Act” means the Renting Homes (Fees etc.) (Wales) Act 2019.
 
-## 2. Appointed day[^key-980ad8ef61b8380ff025c59df139edcc]
+## 2. Appointed day[^c-980ad8ef61b8380ff025c59df139edcc]
 
 1 September 2019 is the appointed day for the coming into force of the following provisions of the Act—
 
@@ -68,6 +68,6 @@ Article 2 of this Order commences certain provisions of the Act on 1 September 2
 
 [^f00001]: Footnote: [2019 anaw 2](https://www.legislation.gov.uk/anaw/2019/2).
 
-[^key-5319fe803390b00c95cba49ce17daa67]: Commencement: Art. 1 in force at made date
+[^c-5319fe803390b00c95cba49ce17daa67]: Commencement: Art. 1 in force at made date
 
-[^key-980ad8ef61b8380ff025c59df139edcc]: Commencement: Art. 2 in force at made date
+[^c-980ad8ef61b8380ff025c59df139edcc]: Commencement: Art. 2 in force at made date

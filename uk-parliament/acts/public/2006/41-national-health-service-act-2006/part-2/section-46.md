@@ -22,9 +22,9 @@ summary: ''
 
 (1) An NHS foundation trust may borrow money for the purposes of or in connection with its functions.
 
-(2)[^key-7860c169c7df0acf6a94b0707f244234] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-7860c169c7df0acf6a94b0707f244234] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-7860c169c7df0acf6a94b0707f244234] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-7860c169c7df0acf6a94b0707f244234] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) An NHS foundation trust may invest money (other than money held by it as trustee) for the purposes of or in connection with its functions.
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7860c169c7df0acf6a94b0707f244234]: Textual amendment: [S. 46(2)](https://www.legislation.gov.uk/ukpga/2006/41/section/46/2)[(3)](https://www.legislation.gov.uk/ukpga/2006/41/section/46/3) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 163(8)](https://www.legislation.gov.uk/ukpga/2012/7/section/163/8), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/671](https://www.legislation.gov.uk/uksi/2013/671), [art. 2(3)](https://www.legislation.gov.uk/uksi/2013/671/article/2/3)
+[^c-7860c169c7df0acf6a94b0707f244234]: Textual amendment: [S. 46(2)](https://www.legislation.gov.uk/ukpga/2006/41/section/46/2)[(3)](https://www.legislation.gov.uk/ukpga/2006/41/section/46/3) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 163(8)](https://www.legislation.gov.uk/ukpga/2012/7/section/163/8), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/671](https://www.legislation.gov.uk/uksi/2013/671), [art. 2(3)](https://www.legislation.gov.uk/uksi/2013/671/article/2/3)

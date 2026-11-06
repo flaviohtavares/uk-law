@@ -123,7 +123,7 @@ and in force immediately before paragraph 20 of Schedule 4 to the JPA 1997 is re
 
 ### Inspectors of court administration
 
-**14.**[^key-3a07ecadf98566d965a39697a93d1025] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-3a07ecadf98566d965a39697a93d1025] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Collection of fines and discharge of fines by unpaid work
 
@@ -137,6 +137,6 @@ and in force immediately before paragraph 20 of Schedule 4 to the JPA 1997 is re
 
 ## Annotations
 
-[^key-3a07ecadf98566d965a39697a93d1025]: Textual amendment: [Sch. 9 para. 14](https://www.legislation.gov.uk/ukpga/2003/39/schedule/9/paragraph/14) repealed (18.9.2012) by [The Public Bodies (Abolition of Her Majesty s Inspectorate of Courts Administration and the Public Guardian Board) Order 2012 (S.I. 2012/2401)](https://www.legislation.gov.uk/uksi/2012/2401), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2401/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2012/2401/article/1/3), [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2012/2401/schedule/1/paragraph/15) (with [art. 2](https://www.legislation.gov.uk/uksi/2012/2401/article/2))
+[^c-3a07ecadf98566d965a39697a93d1025]: Textual amendment: [Sch. 9 para. 14](https://www.legislation.gov.uk/ukpga/2003/39/schedule/9/paragraph/14) repealed (18.9.2012) by [The Public Bodies (Abolition of Her Majesty s Inspectorate of Courts Administration and the Public Guardian Board) Order 2012 (S.I. 2012/2401)](https://www.legislation.gov.uk/uksi/2012/2401), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2401/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2012/2401/article/1/3), [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2012/2401/schedule/1/paragraph/15) (with [art. 2](https://www.legislation.gov.uk/uksi/2012/2401/article/2))
 
 [^c19100911]: Commencement: [Sch. 9 para. 15](https://www.legislation.gov.uk/ukpga/2003/39/schedule/9/paragraph/15) wholly in force at 5.4.2004; [Sch. 9 para. 15](https://www.legislation.gov.uk/ukpga/2003/39/schedule/9/paragraph/15) not in force at Royal Assent see [s. 110(1)(2)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1/2); [Sch. 9 para. 15](https://www.legislation.gov.uk/ukpga/2003/39/schedule/9/paragraph/15) in force for certain purposes at 23.2.2004 by [S.I. 2004/174](https://www.legislation.gov.uk/uksi/2004/174), [art. 4(a)](https://www.legislation.gov.uk/uksi/2004/174/article/4/a); [Sch. 9 para. 15](https://www.legislation.gov.uk/ukpga/2003/39/schedule/9/paragraph/15) in force for certain further purposes at 29.3.2004 by [S.I. 2004/174](https://www.legislation.gov.uk/uksi/2004/174), [art. 4(b)](https://www.legislation.gov.uk/uksi/2004/174/article/4/b); [Sch. 9 para. 15](https://www.legislation.gov.uk/ukpga/2003/39/schedule/9/paragraph/15) in force for all purposes 5.4.2004 by [S.I. 2004/174](https://www.legislation.gov.uk/uksi/2004/174), [art. 4(c)](https://www.legislation.gov.uk/uksi/2004/174/article/4/c)

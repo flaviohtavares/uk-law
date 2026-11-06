@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 65. Designated religious charities[^key-32efa5fa6b6e22c4247183270798186a]
+## 65. Designated religious charities[^c-32efa5fa6b6e22c4247183270798186a]
 
 *Extent: S*
 
@@ -50,7 +50,7 @@ summary: ''
 
 - subsections (1) and (6) of section 16 (in so far as those subsections relate to any action set out in subsection (2)(b) to (d) of that section),
 - section 28(3),
-- section 30B,[^key-38199618697c224772ba1e04ccac47f0]
+- section 30B,[^c-38199618697c224772ba1e04ccac47f0]
 - section 31(4) and (6),
 - section 34(5)(c) to (e),
 - section 69.
@@ -62,6 +62,6 @@ summary: ''
 
 ## Annotations
 
-[^key-32efa5fa6b6e22c4247183270798186a]: Commencement: S. 65 in force at 1.4.2006 by [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(1)](https://www.legislation.gov.uk/ssi/2006/189/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/1)
+[^c-32efa5fa6b6e22c4247183270798186a]: Commencement: S. 65 in force at 1.4.2006 by [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(1)](https://www.legislation.gov.uk/ssi/2006/189/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/1)
 
-[^key-38199618697c224772ba1e04ccac47f0]: Textual amendment: Words in [s. 65(4)](https://www.legislation.gov.uk/asp/2005/10/section/65/4) inserted (1.4.2024) by [Charities (Regulation and Administration) (Scotland) Act 2023 (asp 5)](https://www.legislation.gov.uk/asp/2023/5), [ss. 17(8)](https://www.legislation.gov.uk/asp/2023/5/section/17/8), [21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2); [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1) (with [reg. 4](https://www.legislation.gov.uk/ssi/2024/63/regulation/4))
+[^c-38199618697c224772ba1e04ccac47f0]: Textual amendment: Words in [s. 65(4)](https://www.legislation.gov.uk/asp/2005/10/section/65/4) inserted (1.4.2024) by [Charities (Regulation and Administration) (Scotland) Act 2023 (asp 5)](https://www.legislation.gov.uk/asp/2023/5), [ss. 17(8)](https://www.legislation.gov.uk/asp/2023/5/section/17/8), [21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2); [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1) (with [reg. 4](https://www.legislation.gov.uk/ssi/2024/63/regulation/4))

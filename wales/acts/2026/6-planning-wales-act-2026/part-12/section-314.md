@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 314. Removal notices: ending rights over land etc. of statutory undertakers and network operators[^key-c8cd6b4597e7470daeb9431a9136a649]
+## 314. Removal notices: ending rights over land etc. of statutory undertakers and network operators[^c-c8cd6b4597e7470daeb9431a9136a649]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c8cd6b4597e7470daeb9431a9136a649]: Commencement: S. 314 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-c8cd6b4597e7470daeb9431a9136a649]: Commencement: S. 314 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

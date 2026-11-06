@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 131. Winding up limited partnerships on grounds of public interest[^key-d11897570b3be74cd6dc788487cafc22]
+## 131. Winding up limited partnerships on grounds of public interest[^c-d11897570b3be74cd6dc788487cafc22]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ After section 27 of the Limited Partnerships Act 1907 (inserted by section 144 o
 
 ## Annotations
 
-[^key-d11897570b3be74cd6dc788487cafc22]: Commencement: S. 131 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-d11897570b3be74cd6dc788487cafc22]: Commencement: S. 131 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)

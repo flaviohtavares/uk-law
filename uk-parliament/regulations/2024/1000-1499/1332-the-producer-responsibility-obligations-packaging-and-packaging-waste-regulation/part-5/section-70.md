@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Assessment by the scheme administrator: relevant authority disposal costs[^key-0b8fc290e0b06fe3fe837e356ad7bf6f]
+## 70. Assessment by the scheme administrator: relevant authority disposal costs[^c-0b8fc290e0b06fe3fe837e356ad7bf6f]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,13 +48,13 @@ summary: ''
 
 (6) In this regulation, the “efficient disposal costs” of a relevant authority are the disposal costs the relevant authority would incur if it provided an efficient waste management service.
 
-(7) For the purpose of paragraph (6), a relevant authority provides an efficient waste management service if the disposal costs of the authority are as low as reasonably possible while facilitating achievement of the environmental effects set out in the policy statement published under regulation 127[^key-04a3ae687d990af10b32134cd7d193f9], taking into account—
+(7) For the purpose of paragraph (6), a relevant authority provides an efficient waste management service if the disposal costs of the authority are as low as reasonably possible while facilitating achievement of the environmental effects set out in the policy statement published under regulation 127[^c-04a3ae687d990af10b32134cd7d193f9], taking into account—
 
 - (a) the waste management service provided by the authority; and
 - (b) any other factors specific to that authority, or to the area in relation to which it exercises its waste management functions, which in the opinion of the scheme administrator are likely to affect its disposal costs.
 
 ## Annotations
 
-[^key-0b8fc290e0b06fe3fe837e356ad7bf6f]: Commencement: Reg. 70 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-0b8fc290e0b06fe3fe837e356ad7bf6f]: Commencement: Reg. 70 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
 
-[^key-04a3ae687d990af10b32134cd7d193f9]: Textual amendment: Words in [reg. 70(7)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/70/7) inserted (1.1.2026) by [The Producer Responsibility Obligations (Packaging and Packaging Waste) (Amendment) Regulations 2025 (S.I. 2025/1369)](https://www.legislation.gov.uk/uksi/2025/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/1/2), [7(8)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/7/8) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2025/1369/schedule/4))
+[^c-04a3ae687d990af10b32134cd7d193f9]: Textual amendment: Words in [reg. 70(7)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/70/7) inserted (1.1.2026) by [The Producer Responsibility Obligations (Packaging and Packaging Waste) (Amendment) Regulations 2025 (S.I. 2025/1369)](https://www.legislation.gov.uk/uksi/2025/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/1/2), [7(8)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/7/8) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2025/1369/schedule/4))

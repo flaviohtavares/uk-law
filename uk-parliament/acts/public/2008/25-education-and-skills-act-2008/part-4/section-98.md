@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. Applications for registration[^key-49b1902651dd78a2dc59fbccfa3de62c][^key-f4dc7f3e8b38aa047848ad852107cf4b]
+## 98. Applications for registration[^c-49b1902651dd78a2dc59fbccfa3de62c][^c-f4dc7f3e8b38aa047848ad852107cf4b]
 
 *Extent: E+W*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-49b1902651dd78a2dc59fbccfa3de62c]: Commencement: S. 98 in force at 19.6.2009 for specified purposes by [S.I. 2009/1513](https://www.legislation.gov.uk/uksi/2009/1513), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/1513/article/2/2)
+[^c-49b1902651dd78a2dc59fbccfa3de62c]: Commencement: S. 98 in force at 19.6.2009 for specified purposes by [S.I. 2009/1513](https://www.legislation.gov.uk/uksi/2009/1513), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/1513/article/2/2)
 
-[^key-f4dc7f3e8b38aa047848ad852107cf4b]: Commencement: S. 98 in force at 1.1.2011 in so far as not already in force by [S.I. 2010/2906](https://www.legislation.gov.uk/uksi/2010/2906), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2906/article/2/a) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2010/2906/article/3/2)) (which transitional provisions in art. 3 are revoked (22.12.2014) by [S.I. 2014/3364](https://www.legislation.gov.uk/uksi/2014/3364), art. 3(3), Sch.)
+[^c-f4dc7f3e8b38aa047848ad852107cf4b]: Commencement: S. 98 in force at 1.1.2011 in so far as not already in force by [S.I. 2010/2906](https://www.legislation.gov.uk/uksi/2010/2906), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2906/article/2/a) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2010/2906/article/3/2)) (which transitional provisions in art. 3 are revoked (22.12.2014) by [S.I. 2014/3364](https://www.legislation.gov.uk/uksi/2014/3364), art. 3(3), Sch.)

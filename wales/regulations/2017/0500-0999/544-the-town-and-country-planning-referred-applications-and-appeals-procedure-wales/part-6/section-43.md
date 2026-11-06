@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Public notice of inquiry[^key-922592bf89a5c0663902f3c5d0b6f253]
+## 43. Public notice of inquiry[^c-922592bf89a5c0663902f3c5d0b6f253]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-922592bf89a5c0663902f3c5d0b6f253]: Commencement: [Reg. 43](https://www.legislation.gov.uk/wsi/2017/544/regulation/43) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)
+[^c-922592bf89a5c0663902f3c5d0b6f253]: Commencement: [Reg. 43](https://www.legislation.gov.uk/wsi/2017/544/regulation/43) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)

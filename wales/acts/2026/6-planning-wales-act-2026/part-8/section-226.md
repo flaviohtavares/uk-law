@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 226. Compensation[^key-ea4046bb5eb3350ac500d78e74a7ae61]
+## 226. Compensation[^c-ea4046bb5eb3350ac500d78e74a7ae61]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ea4046bb5eb3350ac500d78e74a7ae61]: Commencement: S. 226 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-ea4046bb5eb3350ac500d78e74a7ae61]: Commencement: S. 226 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

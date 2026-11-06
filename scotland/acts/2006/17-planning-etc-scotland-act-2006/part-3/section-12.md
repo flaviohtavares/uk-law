@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 12. Public availability of information as to how planning applications have been dealt with[^key-fa1d849132212e01e24eba2292305504][^key-225b2686782b7464496ea406a6fea572]
+## 12. Public availability of information as to how planning applications have been dealt with[^c-fa1d849132212e01e24eba2292305504][^c-225b2686782b7464496ea406a6fea572]
 
 *Extent: S*
 
@@ -32,8 +32,8 @@ In section 36 of the principal Act (registers of applications etc.)—
 
     ,
   - (ii) in paragraph (b), for the words “such applications have been dealt with” substitute “ each such application has been dealt with and a copy of any notice given by virtue of paragraph (d) or (e) of section 43(1) in respect of an application (or, in the case of an application in respect of which notice does not fall to be so given, a statement of the reasons on which the authority based their decision on the application) ”,
-  - (iii)[^key-6a9a63227782f6d7bdc259341330147a] the word “ and ” which immediately follows paragraph (b) is repealed,
-  - (iv)[^key-6a9a63227782f6d7bdc259341330147a] after paragraph (b) insert—
+  - (iii)[^c-6a9a63227782f6d7bdc259341330147a] the word “ and ” which immediately follows paragraph (b) is repealed,
+  - (iv)[^c-6a9a63227782f6d7bdc259341330147a] after paragraph (b) insert—
 
     > - (ba) applications under section 242A(2) for planning permission in respect of development in the district of that authority,
 
@@ -51,8 +51,8 @@ In section 36 of the principal Act (registers of applications etc.)—
 
 ## Annotations
 
-[^key-fa1d849132212e01e24eba2292305504]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2006/17/section/12) in force at 3.8.2009 in so far as not already in force by [S.S.I. 2009/219](https://www.legislation.gov.uk/ssi/2009/219), [art. 2](https://www.legislation.gov.uk/ssi/2009/219/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/219/schedule)
+[^c-fa1d849132212e01e24eba2292305504]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2006/17/section/12) in force at 3.8.2009 in so far as not already in force by [S.S.I. 2009/219](https://www.legislation.gov.uk/ssi/2009/219), [art. 2](https://www.legislation.gov.uk/ssi/2009/219/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/219/schedule)
 
-[^key-225b2686782b7464496ea406a6fea572]: Commencement: [S. 12(a(i)(ii)(v)(b)](https://www.legislation.gov.uk/asp/2006/17/section/12/a/b) in force at 12.12.2008 for specified purposes by [S.S.I. 2008/411](https://www.legislation.gov.uk/ssi/2008/411), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/411/article/2/2)[(3)(a)](https://www.legislation.gov.uk/ssi/2008/411/article/2/3/a)
+[^c-225b2686782b7464496ea406a6fea572]: Commencement: [S. 12(a(i)(ii)(v)(b)](https://www.legislation.gov.uk/asp/2006/17/section/12/a/b) in force at 12.12.2008 for specified purposes by [S.S.I. 2008/411](https://www.legislation.gov.uk/ssi/2008/411), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/411/article/2/2)[(3)(a)](https://www.legislation.gov.uk/ssi/2008/411/article/2/3/a)
 
-[^key-6a9a63227782f6d7bdc259341330147a]: Commencement: S. 12(a)(iii)(iv) in force at 1.4.2007 by [S.S.I. 2007/130](https://www.legislation.gov.uk/ssi/2007/130), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/130/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2007/130/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/130/schedule)
+[^c-6a9a63227782f6d7bdc259341330147a]: Commencement: S. 12(a)(iii)(iv) in force at 1.4.2007 by [S.S.I. 2007/130](https://www.legislation.gov.uk/ssi/2007/130), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/130/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2007/130/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/130/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 247. Application[^key-9d1a153fd2819e7acd2a5141113242fd]
+## 247. Application[^c-9d1a153fd2819e7acd2a5141113242fd]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9d1a153fd2819e7acd2a5141113242fd]: Commencement: [Rule 247](https://www.legislation.gov.uk/nisr/2026/11/rule/247) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-9d1a153fd2819e7acd2a5141113242fd]: Commencement: [Rule 247](https://www.legislation.gov.uk/nisr/2026/11/rule/247) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

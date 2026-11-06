@@ -48,7 +48,7 @@ Coming into force
 
 The Secretary of State for Health makes the following Regulations in exercise of the powers conferred by sections 7(1), 199(2) to (5), 209(4) and 273(4) of the National Health Service Act 2006[^f00001].
 
-## 1. Citation, commencement, application and interpretation[^key-6f79ef74c779a308c807630e367d8129]
+## 1. Citation, commencement, application and interpretation[^c-6f79ef74c779a308c807630e367d8129]
 
 (1) These Regulations may be cited as the National Health Service Delegation of Functions to the NHS Business Services Authority (Awdurdod Gwasanaethau Busnes y GIG) (Counter Fraud and Security Management) Regulations 2008 and shall come into force on 26th May 2008.
 
@@ -65,7 +65,7 @@ The Secretary of State for Health makes the following Regulations in exercise of
 - “the delegated functions” means the functions delegated to the Authority under regulation 2;
 - “designated officer” shall be construed in accordance with regulation 9.
 
-## 2. Delegation of functions[^key-67e5c7a99364f8d2a8816f35ba766680]
+## 2. Delegation of functions[^c-67e5c7a99364f8d2a8816f35ba766680]
 
 (1) Subject to paragraph (2), the functions of the Secretary of State under sections 197 (notice requiring production of documents) and 198 (production of documents) of the Act (in these Regulations referred to as “the delegated functions”) are to be exercisable by the Authority.
 
@@ -76,7 +76,7 @@ The Secretary of State for Health makes the following Regulations in exercise of
 - (a) of a grade within or above Agenda for Change pay band 7[^f00006], and
 - (b) either an accredited Counter Fraud Specialist or an accredited Security Management Specialist.
 
-## 3. Authorising senior officers[^key-0256ad2ec1f9388ffadbbc56773e67f8]
+## 3. Authorising senior officers[^c-0256ad2ec1f9388ffadbbc56773e67f8]
 
 (1) Subject to regulation 4, the Authority shall authorise such senior officers of the CFSMS as are required to act on its behalf in the exercise of the delegated functions.
 
@@ -84,14 +84,14 @@ The Secretary of State for Health makes the following Regulations in exercise of
 
 (3) The functions of the Authority under paragraphs (1) and (2) shall be exercised on its behalf by an officer of the CFSMS of a grade above Agenda for Change pay band 8b.
 
-## 4. Fitness of authorised officers[^key-ccfd03e9dbb6be990e596d91f4847716]
+## 4. Fitness of authorised officers[^c-ccfd03e9dbb6be990e596d91f4847716]
 
 An officer of the CFSMS shall not be authorised as an authorised officer unless the officer granting the authorisation on behalf of the Authority is satisfied that the officer to be authorised has the knowledge, skills and experience necessary to exercise the delegated functions and—
 
 - (a) if the delegated functions are to be exercised in relation to counter fraud, the officer is an accredited Counter Fraud Specialist; or
 - (b) if the delegated functions are to be exercised in relation to security management, the officer is an accredited Security Management Specialist.
 
-## 5. Records of authorised officers[^key-2e7ac5f8e2fadef86598cf25392d7ea5]
+## 5. Records of authorised officers[^c-2e7ac5f8e2fadef86598cf25392d7ea5]
 
 (1) The Authority must establish and maintain a record in respect of all authorised officers.
 
@@ -103,7 +103,7 @@ An officer of the CFSMS shall not be authorised as an authorised officer unless 
 - (d) the date that the authorisation was granted; and
 - (e) where appropriate, the date on which the authorisation was revoked.
 
-## 6. Statement of authority[^key-4d241d830ad20d65777cd6ab9edb4a2b]
+## 6. Statement of authority[^c-4d241d830ad20d65777cd6ab9edb4a2b]
 
 (1) The Authority must issue an authorised officer with a written statement providing evidence of that officer’s authority to act in the exercise of the delegated functions.
 
@@ -115,14 +115,14 @@ An officer of the CFSMS shall not be authorised as an authorised officer unless 
 - (d) the name and logo of the Authority; and
 - (e) a reference to Part 10 of the Act.
 
-## 7. Production of statement[^key-6cd3d0c8788bebba8afaf8aa1b4fbfe4]
+## 7. Production of statement[^c-6cd3d0c8788bebba8afaf8aa1b4fbfe4]
 
 An authorised officer exercising the delegated functions must produce the statement issued to that officer in accordance with regulation 6, or a copy of it—
 
 - (a) at the time of serving a notice under section 197(2) of the Act; or
 - (b) when requiring a person under section 198(6) of the Act to state, to the best of his knowledge and belief, where documents are.
 
-## 8. Requirement for specific authorisations in relation to personal records[^key-4e5342d2e8e951f25bf26ff30dbd7116]
+## 8. Requirement for specific authorisations in relation to personal records[^c-4e5342d2e8e951f25bf26ff30dbd7116]
 
 (1) An authorised officer must obtain a specific authorisation from a designated officer (other than that authorised officer) before acting in the exercise of the delegated functions in relation to personal records.
 
@@ -132,7 +132,7 @@ An authorised officer exercising the delegated functions must produce the statem
 
 (4) An authorised officer must comply with any conditions imposed by a specific authorisation in relation to personal records.
 
-## 9. Designated officers[^key-7d85d19c7631815e39264795d2c248c4]
+## 9. Designated officers[^c-7d85d19c7631815e39264795d2c248c4]
 
 (1) The Authority shall appoint designated officers for the purpose of granting specific authorisations in relation to personal records.
 
@@ -140,7 +140,7 @@ An authorised officer exercising the delegated functions must produce the statem
 
 (3) The functions of the Authority under paragraph (1) shall be exercised on its behalf by an officer of the CFSMS of a grade above Agenda for Change pay band 8b.
 
-## 10. Procedure for specific authorisations[^key-907290b6dfb52b79d95963ed925f3887]
+## 10. Procedure for specific authorisations[^c-907290b6dfb52b79d95963ed925f3887]
 
 (1) An authorised officer seeking a specific authorisation in relation to personal records must complete a form provided to that authorised officer for that purpose by a designated officer.
 
@@ -155,18 +155,18 @@ An authorised officer exercising the delegated functions must produce the statem
 
 (4) Where the personal records sought relate to the exercise of security management functions the designated officer considering the application for a specific authorisation must be an accredited Security Management Specialist.
 
-## 11. Records of specific authorisations in relation to personal records[^key-e7ef21b277133784a6bcd0fe01f23bf2]
+## 11. Records of specific authorisations in relation to personal records[^c-e7ef21b277133784a6bcd0fe01f23bf2]
 
 The Authority must establish and maintain records of all applications for specific authorisations in relation to personal records including details of whether or not the specific authorisation was granted.
 
-## 12. Production of evidence of specific authorisation in relation to personal records[^key-ee771e5499a8bbb7ef5b628f1e945c4b]
+## 12. Production of evidence of specific authorisation in relation to personal records[^c-ee771e5499a8bbb7ef5b628f1e945c4b]
 
 Where an authorised officer has a specific authorisation to act in the exercise of the delegated functions in relation to personal records, that officer must, in addition to producing the statement issued to that officer in accordance with regulation 6, or a copy of it, produce evidence of that specific authorisation—
 
 - (a) at the time of serving a notice under section 197(2) of the Act; or
 - (b) when requiring a person under section 198(6) of the Act to state, to the best of that person’s knowledge and belief, where documents are.
 
-## 13. Content of notices[^key-f01daee0cc6ef39744e61e886b46c168]
+## 13. Content of notices[^c-f01daee0cc6ef39744e61e886b46c168]
 
 A notice to be served under section 197 of the Act by the Authority must in addition to meeting the requirements of section 197(4) and (6) of the Act, include—
 
@@ -214,7 +214,7 @@ A full impact assessment has not been produced for these Regulations as they hav
 
 [^f00001]: Footnote: [2006 c.41](https://www.legislation.gov.uk/ukpga/2006/41).
 
-[^key-6f79ef74c779a308c807630e367d8129]: Commencement: Reg. 1 in force at 26.5.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1148/regulation/1/1)
+[^c-6f79ef74c779a308c807630e367d8129]: Commencement: Reg. 1 in force at 26.5.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1148/regulation/1/1)
 
 [^f00002]: Footnote: The Counter Fraud Professional Accreditation Board is a non-statutory regulatory body financed and run by representatives from the Department of Work and Pensions and its agencies, the Department of Health, the Local Government Association, the Abbey Bank, HM Revenue and Customs, UK Passport Agency and the Charity Commission. Its purposes are to ensure the delivery of professional, accredited counter fraud training and academic study and that, once qualified, those who are accredited maintain their professional standards.
 
@@ -222,30 +222,30 @@ A full impact assessment has not been produced for these Regulations as they hav
 
 [^f00004]: Footnote: Established by [S.I. 2005/2414](https://www.legislation.gov.uk/uksi/2005/2414).
 
-[^key-67e5c7a99364f8d2a8816f35ba766680]: Commencement: Reg. 2 in force at 26.5.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1148/regulation/1/1)
+[^c-67e5c7a99364f8d2a8816f35ba766680]: Commencement: Reg. 2 in force at 26.5.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1148/regulation/1/1)
 
 [^f00005]: Footnote: Officers who are authorised officers for the purpose of these Regulations will be authorised officers for the purpose of Part 10 of the Act by virtue of section 210(5) of the Act.
 
 [^f00006]: Footnote: Agenda for Change paybands are as set out in “Agenda for Change, NHS Terms and Conditions of Service Handbook” published in January 2005. This was published by the Department of Health ( http://www.dh.gov.uk/en/Publicationsandstatistics/Publications/PublicationsPolicyAndGuidance/DH\_4095947 ).
 
-[^key-0256ad2ec1f9388ffadbbc56773e67f8]: Commencement: Reg. 3 in force at 26.5.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1148/regulation/1/1)
+[^c-0256ad2ec1f9388ffadbbc56773e67f8]: Commencement: Reg. 3 in force at 26.5.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1148/regulation/1/1)
 
-[^key-ccfd03e9dbb6be990e596d91f4847716]: Commencement: Reg. 4 in force at 26.5.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1148/regulation/1/1)
+[^c-ccfd03e9dbb6be990e596d91f4847716]: Commencement: Reg. 4 in force at 26.5.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1148/regulation/1/1)
 
-[^key-2e7ac5f8e2fadef86598cf25392d7ea5]: Commencement: Reg. 5 in force at 26.5.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1148/regulation/1/1)
+[^c-2e7ac5f8e2fadef86598cf25392d7ea5]: Commencement: Reg. 5 in force at 26.5.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1148/regulation/1/1)
 
-[^key-4d241d830ad20d65777cd6ab9edb4a2b]: Commencement: Reg. 6 in force at 26.5.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1148/regulation/1/1)
+[^c-4d241d830ad20d65777cd6ab9edb4a2b]: Commencement: Reg. 6 in force at 26.5.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1148/regulation/1/1)
 
-[^key-6cd3d0c8788bebba8afaf8aa1b4fbfe4]: Commencement: Reg. 7 in force at 26.5.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1148/regulation/1/1)
+[^c-6cd3d0c8788bebba8afaf8aa1b4fbfe4]: Commencement: Reg. 7 in force at 26.5.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1148/regulation/1/1)
 
-[^key-4e5342d2e8e951f25bf26ff30dbd7116]: Commencement: Reg. 8 in force at 26.5.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1148/regulation/1/1)
+[^c-4e5342d2e8e951f25bf26ff30dbd7116]: Commencement: Reg. 8 in force at 26.5.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1148/regulation/1/1)
 
-[^key-7d85d19c7631815e39264795d2c248c4]: Commencement: Reg. 9 in force at 26.5.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1148/regulation/1/1)
+[^c-7d85d19c7631815e39264795d2c248c4]: Commencement: Reg. 9 in force at 26.5.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1148/regulation/1/1)
 
-[^key-907290b6dfb52b79d95963ed925f3887]: Commencement: Reg. 10 in force at 26.5.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1148/regulation/1/1)
+[^c-907290b6dfb52b79d95963ed925f3887]: Commencement: Reg. 10 in force at 26.5.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1148/regulation/1/1)
 
-[^key-e7ef21b277133784a6bcd0fe01f23bf2]: Commencement: Reg. 11 in force at 26.5.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1148/regulation/1/1)
+[^c-e7ef21b277133784a6bcd0fe01f23bf2]: Commencement: Reg. 11 in force at 26.5.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1148/regulation/1/1)
 
-[^key-ee771e5499a8bbb7ef5b628f1e945c4b]: Commencement: Reg. 12 in force at 26.5.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1148/regulation/1/1)
+[^c-ee771e5499a8bbb7ef5b628f1e945c4b]: Commencement: Reg. 12 in force at 26.5.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1148/regulation/1/1)
 
-[^key-f01daee0cc6ef39744e61e886b46c168]: Commencement: Reg. 13 in force at 26.5.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1148/regulation/1/1)
+[^c-f01daee0cc6ef39744e61e886b46c168]: Commencement: Reg. 13 in force at 26.5.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1148/regulation/1/1)

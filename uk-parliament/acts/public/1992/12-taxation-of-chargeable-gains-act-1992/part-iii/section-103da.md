@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103DA. Tax transparent funds: share pooling etc[^key-10e5a4b765ba64891ffc65bfb13aa63d]
+## 103DA. Tax transparent funds: share pooling etc[^c-10e5a4b765ba64891ffc65bfb13aa63d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A unit in a transparent fund is to be regarded as a security for the purposes of
 
 ## Annotations
 
-[^key-10e5a4b765ba64891ffc65bfb13aa63d]: Textual amendment: Ss. 103D, 103DA substituted for s. 103D (with effect in accordance with reg. 1(2)(3) of the amending S.I.) by [The Collective Investment Schemes and Offshore Funds (Amendment of the Taxation of Chargeable Gains Act 1992) Regulations 2017 (S.I. 2017/1204)](https://www.legislation.gov.uk/uksi/2017/1204), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/1204/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2017/1204/regulation/6)
+[^c-10e5a4b765ba64891ffc65bfb13aa63d]: Textual amendment: Ss. 103D, 103DA substituted for s. 103D (with effect in accordance with reg. 1(2)(3) of the amending S.I.) by [The Collective Investment Schemes and Offshore Funds (Amendment of the Taxation of Chargeable Gains Act 1992) Regulations 2017 (S.I. 2017/1204)](https://www.legislation.gov.uk/uksi/2017/1204), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/1204/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2017/1204/regulation/6)

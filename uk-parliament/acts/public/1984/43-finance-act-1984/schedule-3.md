@@ -96,7 +96,7 @@ Section 7.
 
 (11)[^c10408551] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(12)[^key-c2af6b013af1d7e7972849421e8cefda] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(12)[^c-c2af6b013af1d7e7972849421e8cefda] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (13) In paragraph 18, for the words from “either" to the end of paragraph (b) there shall be substituted “the officer is satisfied, having regard to the number and description of—
 
@@ -146,6 +146,6 @@ References in this Table to named regions shall be construed as in section 21 of
 
 [^c10408551]: Textual amendment: Sch. 3 para. 7(3)-(7) and (9)-(11) repealed (3.5.1994 with effect in accordance with Sch. 3 of the repealing Act) by [1994 c. 9](https://www.legislation.gov.uk/ukpga/1994/9), [s. 258](https://www.legislation.gov.uk/ukpga/1994/9/section/258), [Sch. 3](https://www.legislation.gov.uk/ukpga/1994/9/schedule/3), [Sch. 26 Pt. II](https://www.legislation.gov.uk/ukpga/1994/9/schedule/26/part/II), note
 
-[^key-c2af6b013af1d7e7972849421e8cefda]: Textual amendment: [Sch. 3 para. 7(12)](https://www.legislation.gov.uk/ukpga/1984/43/schedule/3/paragraph/7/12) repealed (8.11.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 84(5)](https://www.legislation.gov.uk/ukpga/2007/11/section/84/5), [Sch. 27 Pt. 5(1)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/5/1); [S.I. 2007/3166](https://www.legislation.gov.uk/uksi/2007/3166), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/3166/article/2/c)
+[^c-c2af6b013af1d7e7972849421e8cefda]: Textual amendment: [Sch. 3 para. 7(12)](https://www.legislation.gov.uk/ukpga/1984/43/schedule/3/paragraph/7/12) repealed (8.11.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 84(5)](https://www.legislation.gov.uk/ukpga/2007/11/section/84/5), [Sch. 27 Pt. 5(1)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/5/1); [S.I. 2007/3166](https://www.legislation.gov.uk/uksi/2007/3166), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/3166/article/2/c)
 
 [^c10408631]: Marginal citation: [1981 c. 63](https://www.legislation.gov.uk/ukpga/1981/63).

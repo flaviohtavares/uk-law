@@ -45,7 +45,7 @@ Coming into force
 
 The Secretary of State makes this Order in exercise of the powers conferred by sections 109(4), 118 and 125(8) of the Care Act 2014[^f00001].
 
-## 1. Citation, commencement and interpretation[^key-0dd3d0ff8cbf4eb6f3660082f079555b]
+## 1. Citation, commencement and interpretation[^c-0dd3d0ff8cbf4eb6f3660082f079555b]
 
 (1) This Order may be cited as the Health Research Authority (Transfer of Staff, Property and Liabilities) and Care Act 2014 (Consequential Amendments) Order 2014 and comes into force on 1st January 2015[^f00002].
 
@@ -55,7 +55,7 @@ The Secretary of State makes this Order in exercise of the powers conferred by s
 - “the Authority” means the Special Health Authority known as the Health Research Authority[^f00003];
 - “transfer date” means 1st January 2015.
 
-## 2. Transfer of staff[^key-d7e41fd03513938f1635e204cb5eec42]
+## 2. Transfer of staff[^c-d7e41fd03513938f1635e204cb5eec42]
 
 (1) This paragraph applies in relation to any person who—
 
@@ -86,7 +86,7 @@ The Secretary of State makes this Order in exercise of the powers conferred by s
 
 (10) Paragraphs (2), (3) and (5) to (8) are without prejudice to any right of a person arising apart from this article to terminate that person’s contract of employment without notice in acceptance of a repudiatory breach of contract by the employer.
 
-## 3. Transfer of property, rights and liabilities[^key-3a4449fac3152e3642845faba9a11994]
+## 3. Transfer of property, rights and liabilities[^c-3a4449fac3152e3642845faba9a11994]
 
 (1) On the transfer date, all the property, rights and liabilities of the Authority, not mentioned in article 2 above, are transferred to the HRA.
 
@@ -95,7 +95,7 @@ The Secretary of State makes this Order in exercise of the powers conferred by s
 - (a) whether or not they would otherwise be capable of being transferred; and
 - (b) irrespective of any requirement for consent that would otherwise apply.
 
-## 4. Winding up of affairs of the Authority[^key-505af8042437fea523a6c697cb959970]
+## 4. Winding up of affairs of the Authority[^c-505af8042437fea523a6c697cb959970]
 
 (1) The HRA must prepare accounts and audits in respect of the period commencing on 1st April 2014 and ending on 31st December 2014 in accordance with Schedule 15 (accounts and audit) of the National Health Service Act 2006[^f00005] and must ensure that accounts are kept, audited and transmitted in accordance with that Schedule as if, in that Schedule—
 
@@ -109,19 +109,19 @@ The Secretary of State makes this Order in exercise of the powers conferred by s
 
 (3) In respect of property, rights and liabilities of the Authority which have transferred to the HRA on the transfer date, the HRA must take such other steps as may be appropriate and necessary to secure the winding up of the affairs of the Authority.
 
-## 5. Investigation by the Health Service Commissioner[^key-ed17c4b86347e1e062c6e4a0108637de]
+## 5. Investigation by the Health Service Commissioner[^c-ed17c4b86347e1e062c6e4a0108637de]
 
 (1) A complaint made in relation to the Authority under the Health Service Commissioners Act 1993 to the Health Service Commissioner[^f00008] whether made before, on or after the transfer date, may be investigated by the Commissioner, notwithstanding the abolition of the Authority, as if it had been made in relation to the HRA.
 
 (2) The Commissioner must send a copy of the report of the investigation referred to in paragraph (1) to the HRA.
 
-## 6. Handling of complaints[^key-8bca30cd404746ef38b91593a4ccd647]
+## 6. Handling of complaints[^c-8bca30cd404746ef38b91593a4ccd647]
 
 (1) This paragraph applies to a complaint made in accordance with the provisions of the Local Authority Social Services and National Health Service Complaints (England) Regulations 2009[^f00009] (“the 2009 Regulations”) in relation to the Authority, whether made before, on or after the transfer date.
 
 (2) The HRA must, on or after the transfer date, handle any complaint to which paragraph (1) applies, in accordance with the 2009 Regulations, as if the complaint had been made in relation to it.
 
-## 7. Continuity of functions and supplementary provision[^key-2662eca3f7ade0c5b66b2b48a29693cc]
+## 7. Continuity of functions and supplementary provision[^c-2662eca3f7ade0c5b66b2b48a29693cc]
 
 (1) Anything done, by, or in relation to, the Authority before the transfer date in connection with—
 
@@ -145,7 +145,7 @@ is deemed to have effect as if done by, or in relation to, the HRA and may be co
 
 (6) No right to terminate or vary a contract, agreement or instrument is to operate or become exercisable, and no provision of any contract, agreement or instrument is to operate or become exercisable or be contravened, by reason of the transfer of any property, rights or liabilities under this Order.
 
-## 8. Amendments and revocations consequential on the abolition of the Authority[^key-d17dead8beb9ef9546bc1799ccdcb856]
+## 8. Amendments and revocations consequential on the abolition of the Authority[^c-d17dead8beb9ef9546bc1799ccdcb856]
 
 The consequential amendments and revocations in the Schedule have effect.
 
@@ -163,17 +163,17 @@ Department of Health
 
 Article 8
 
-### 1. Amendments[^key-390b0296853350618d3895d4b12c0d0c]
+### 1. Amendments[^c-390b0296853350618d3895d4b12c0d0c]
 
 This paragraph makes consequential amendments to the following—
 
 - (a) In regulation 11(5) of the National Health Service Trusts (Membership and Procedure) Regulations 1990[^f00010] (disqualification for appointment of chairman and non-executive directors), omit paragraph (j);
 - (b) In article 1(2) (citation, commencement and interpretation) of the National Health Service Litigation Authority (Establishment and Constitution) Order 1995[^f00011], in the definition of “NHS body”, after “clinical commissioning group,” insert “the Health Research Authority,”;
-- (c (Extent: E) (affected by repeal, see note))[^key-67e2367814ee6e045723f633c6a72fec] In regulation 3(1) (eligible bodies) of the National Health Service (Clinical Negligence Scheme) Regulations 1996 *(Extent: E)* *(affected by repeal, see note)*[^key-67e2367814ee6e045723f633c6a72fec][^f00012], after sub-paragraph (f), insert— *(Extent: E)* *(affected by repeal, see note)*[^key-67e2367814ee6e045723f633c6a72fec]
+- (c (Extent: E) (affected by repeal, see note))[^c-67e2367814ee6e045723f633c6a72fec] In regulation 3(1) (eligible bodies) of the National Health Service (Clinical Negligence Scheme) Regulations 1996 *(Extent: E)* *(affected by repeal, see note)*[^c-67e2367814ee6e045723f633c6a72fec][^f00012], after sub-paragraph (f), insert— *(Extent: E)* *(affected by repeal, see note)*[^c-67e2367814ee6e045723f633c6a72fec]
 
-  > - (fa (Extent: E) (affected by repeal, see note))[^key-67e2367814ee6e045723f633c6a72fec] the Health Research Authority, *(Extent: E)* *(affected by repeal, see note)*[^key-67e2367814ee6e045723f633c6a72fec]
+  > - (fa (Extent: E) (affected by repeal, see note))[^c-67e2367814ee6e045723f633c6a72fec] the Health Research Authority, *(Extent: E)* *(affected by repeal, see note)*[^c-67e2367814ee6e045723f633c6a72fec]
 
-  ; *(Extent: E)* *(affected by repeal, see note)*[^key-67e2367814ee6e045723f633c6a72fec]
+  ; *(Extent: E)* *(affected by repeal, see note)*[^c-67e2367814ee6e045723f633c6a72fec]
 - (d) In regulation 3 (eligible bodies) of the National Health Service (Liabilities to Third Parties Scheme) Regulations 1999[^f00013], after sub-paragraph (c), insert—
 
   > - (ca) the Health Research Authority.
@@ -186,7 +186,7 @@ This paragraph makes consequential amendments to the following—
   ;
 - (f) In the Equality Act 2010 (Specific Duties) Regulations 2011[^f00015], in Schedule 1 (public authorities required to publish information by 31st January 2012), under the heading “Health, social care and social security”, after the entry “The National Institute for Health and Care Excellence” insert “The Health Research Authority.”.
 
-### 2. Revocations[^key-ce6f68acd9909e774f1fa3995b6a454f]
+### 2. Revocations[^c-ce6f68acd9909e774f1fa3995b6a454f]
 
 This paragraph revokes the following—
 
@@ -205,19 +205,19 @@ A full impact assessment has not been produced for this instrument as the Order 
 
 [^f00001]: Footnote: [2014 c.23](https://www.legislation.gov.uk/ukpga/2014/23).
 
-[^key-0dd3d0ff8cbf4eb6f3660082f079555b]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2014/3090/article/1) in force at 1.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/3090/article/1/1)
+[^c-0dd3d0ff8cbf4eb6f3660082f079555b]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2014/3090/article/1) in force at 1.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/3090/article/1/1)
 
 [^f00002]: Footnote: Section 109(4) and 118 are commenced as of 1st October 2014 for the purpose of making orders by articles 4(1)(d) and (2)(b) of the Care Act 2014 (Commencement No. 2) Order 2014 ([S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473)).
 
 [^f00003]: Footnote: The Health Research Authority was established by article 2 of the Health Research Authority (Establishment and Constitution) Order 2011 ([S.I. 2011/2323](https://www.legislation.gov.uk/uksi/2011/2323) as amended by [S.I. 2012/1109](https://www.legislation.gov.uk/uksi/2012/1109)) and is abolished by section 109(3) of the Care Act 2014 (“the Act”). Section 109(3) of the Act is to come into force on 1st January 2015 (*see* article 5 of the Care Act 2014 (Commencement No.2) Order 2014, [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473)).
 
-[^key-d7e41fd03513938f1635e204cb5eec42]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2014/3090/article/2) in force at 1.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/3090/article/1/1)
+[^c-d7e41fd03513938f1635e204cb5eec42]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2014/3090/article/2) in force at 1.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/3090/article/1/1)
 
 [^f00004]: Footnote: Section 109(1) of the Act establishes a body corporate known as the Health Research Authority (“the HRA”).
 
-[^key-3a4449fac3152e3642845faba9a11994]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2014/3090/article/3) in force at 1.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/3090/article/1/1)
+[^c-3a4449fac3152e3642845faba9a11994]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2014/3090/article/3) in force at 1.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/3090/article/1/1)
 
-[^key-505af8042437fea523a6c697cb959970]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2014/3090/article/4) in force at 1.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/3090/article/1/1)
+[^c-505af8042437fea523a6c697cb959970]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2014/3090/article/4) in force at 1.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/3090/article/1/1)
 
 [^f00005]: Footnote: [2006 c.41](https://www.legislation.gov.uk/ukpga/2006/41).
 
@@ -225,25 +225,25 @@ A full impact assessment has not been produced for this instrument as the Order 
 
 [^f00007]: Footnote: By way of the Health Research Authority Directions 2013 signed on 28th March 2013, the Secretary of State directed the Authority to prepare and send to the Secretary of State an annual report in relation to its activities by 30th November in the financial year following the financial year to which the report relates; *see* direction 4.
 
-[^key-ed17c4b86347e1e062c6e4a0108637de]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2014/3090/article/5) in force at 1.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/3090/article/1/1)
+[^c-ed17c4b86347e1e062c6e4a0108637de]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2014/3090/article/5) in force at 1.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/3090/article/1/1)
 
 [^f00008]: Footnote: [1993 c.46](https://www.legislation.gov.uk/ukpga/1993/46). The Health Service Commissioner is established by section 1.
 
-[^key-8bca30cd404746ef38b91593a4ccd647]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2014/3090/article/6) in force at 1.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/3090/article/1/1)
+[^c-8bca30cd404746ef38b91593a4ccd647]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2014/3090/article/6) in force at 1.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/3090/article/1/1)
 
 [^f00009]: Footnote: [S.I. 2009/309](https://www.legislation.gov.uk/uksi/2009/309) to which relevant amendments have been made by [S.I. 2009/1768](https://www.legislation.gov.uk/uksi/2009/1768) and [S.I. 2013/235](https://www.legislation.gov.uk/uksi/2013/235).
 
-[^key-2662eca3f7ade0c5b66b2b48a29693cc]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2014/3090/article/7) in force at 1.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/3090/article/1/1)
+[^c-2662eca3f7ade0c5b66b2b48a29693cc]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2014/3090/article/7) in force at 1.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/3090/article/1/1)
 
-[^key-d17dead8beb9ef9546bc1799ccdcb856]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2014/3090/article/8) in force at 1.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/3090/article/1/1)
+[^c-d17dead8beb9ef9546bc1799ccdcb856]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2014/3090/article/8) in force at 1.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/3090/article/1/1)
 
-[^key-390b0296853350618d3895d4b12c0d0c]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2014/3090/schedule/paragraph/1) in force at 1.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/3090/article/1/1)
+[^c-390b0296853350618d3895d4b12c0d0c]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2014/3090/schedule/paragraph/1) in force at 1.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/3090/article/1/1)
 
 [^f00010]: Footnote: [S.I. 1990/2024](https://www.legislation.gov.uk/uksi/1990/2024) to which relevant amendments have been made by [S.I. 1997/2990](https://www.legislation.gov.uk/uksi/1997/2990), [S.I. 1999/945](https://www.legislation.gov.uk/uksi/1999/945), [S.I. 2000/603](https://www.legislation.gov.uk/uksi/2000/603), [S.I. 2000/2434](https://www.legislation.gov.uk/uksi/2000/2434), [S.I. 2001/2629](https://www.legislation.gov.uk/uksi/2001/2629), [S.I. 2004/696](https://www.legislation.gov.uk/uksi/2004/696), [S.I. 2005/502](https://www.legislation.gov.uk/uksi/2005/502), [S.I. 2005/1446](https://www.legislation.gov.uk/uksi/2005/1446), [S.I. 2005/2529](https://www.legislation.gov.uk/uksi/2005/2529), [S.I. 2005/2532](https://www.legislation.gov.uk/uksi/2005/2532), [S.I. 2006/635](https://www.legislation.gov.uk/uksi/2006/635), [S.I. 2011/2237](https://www.legislation.gov.uk/uksi/2011/2237), [S.I. 2012/1109](https://www.legislation.gov.uk/uksi/2012/1109), [S.I. 2012/1641](https://www.legislation.gov.uk/uksi/2012/1641) and [S.I. 2013/235](https://www.legislation.gov.uk/uksi/2013/235).
 
 [^f00011]: Footnote: [S.I. 1995/2800](https://www.legislation.gov.uk/uksi/1995/2800) to which relevant amendments have been made by [S.I. 2013/295](https://www.legislation.gov.uk/uksi/2013/295).
 
-[^key-67e2367814ee6e045723f633c6a72fec]: Textual amendment: [Sch. para. 1(c)](https://www.legislation.gov.uk/uksi/2014/3090/schedule/paragraph/1/c) revoked (E.) (1.4.2015) by [The National Health Service (Clinical Negligence Scheme) Regulations 2015 (S.I. 2015/559)](https://www.legislation.gov.uk/uksi/2015/559), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2015/559/regulation/22), [Sch.](https://www.legislation.gov.uk/uksi/2015/559/schedule)
+[^c-67e2367814ee6e045723f633c6a72fec]: Textual amendment: [Sch. para. 1(c)](https://www.legislation.gov.uk/uksi/2014/3090/schedule/paragraph/1/c) revoked (E.) (1.4.2015) by [The National Health Service (Clinical Negligence Scheme) Regulations 2015 (S.I. 2015/559)](https://www.legislation.gov.uk/uksi/2015/559), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2015/559/regulation/22), [Sch.](https://www.legislation.gov.uk/uksi/2015/559/schedule)
 
 [^f00012]: Footnote: [S.I. 1996/251](https://www.legislation.gov.uk/uksi/1996/251) to which relevant amendments have been made by [S.I. 1997/527](https://www.legislation.gov.uk/uksi/1997/527), [S.I. 2000/2341](https://www.legislation.gov.uk/uksi/2000/2341), [S.I. 2002/1073](https://www.legislation.gov.uk/uksi/2002/1073), [S.I. 2002/2469](https://www.legislation.gov.uk/uksi/2002/2469), [S.I. 2004/696](https://www.legislation.gov.uk/uksi/2004/696), [S.I. 2005/604](https://www.legislation.gov.uk/uksi/2005/604), [S.I. 2012/1641](https://www.legislation.gov.uk/uksi/2012/1641), [S.I. 2013/497](https://www.legislation.gov.uk/uksi/2013/497) and [S.I. 2014/933](https://www.legislation.gov.uk/uksi/2014/933).
 
@@ -253,7 +253,7 @@ A full impact assessment has not been produced for this instrument as the Order 
 
 [^f00015]: Footnote: [S.I. 2011/2260](https://www.legislation.gov.uk/uksi/2011/2260) to which relevant amendments have been made by [S.I. 2012/1641](https://www.legislation.gov.uk/uksi/2012/1641) and [S.I. 2013/235](https://www.legislation.gov.uk/uksi/2013/235).
 
-[^key-ce6f68acd9909e774f1fa3995b6a454f]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2014/3090/schedule/paragraph/2) in force at 1.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/3090/article/1/1)
+[^c-ce6f68acd9909e774f1fa3995b6a454f]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2014/3090/schedule/paragraph/2) in force at 1.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/3090/article/1/1)
 
 [^f00016]: Footnote: [S.I. 2012/1108](https://www.legislation.gov.uk/uksi/2012/1108).
 

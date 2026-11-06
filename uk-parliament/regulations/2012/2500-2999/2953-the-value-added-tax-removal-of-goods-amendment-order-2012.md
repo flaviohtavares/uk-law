@@ -46,11 +46,11 @@ Coming into force
 
 The Treasury, in exercise of the powers conferred by section 5(3) of the Value Added Tax Act 1994[^f00001], make the following Order:
 
-## 1. Citation and commencement[^key-6e4af7ec3fe6f42abb95eefd7bfd6908]
+## 1. Citation and commencement[^c-6e4af7ec3fe6f42abb95eefd7bfd6908]
 
 This Order may be cited as the Value Added Tax (Removal of Goods) (Amendment) Order 2012 and comes into force on 1st January 2013.
 
-## 2. Amendment of the Value Added Tax (Removal of Goods) Order 1992[^key-0b0253fbd4fb21e9f32376b9f910269c]
+## 2. Amendment of the Value Added Tax (Removal of Goods) Order 1992[^c-0b0253fbd4fb21e9f32376b9f910269c]
 
 (1) The Value Added Tax (Removal of Goods) Order 1992[^f00002] is amended as follows.
 
@@ -91,8 +91,8 @@ A Tax Information and Impact Note covering this instrument will be published on 
 
 [^f00001]: Footnote: [1994 c. 23](https://www.legislation.gov.uk/ukpga/1994/23).
 
-[^key-6e4af7ec3fe6f42abb95eefd7bfd6908]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2012/2953/article/1) in force at 1.1.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2953/article/1)
+[^c-6e4af7ec3fe6f42abb95eefd7bfd6908]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2012/2953/article/1) in force at 1.1.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2953/article/1)
 
-[^key-0b0253fbd4fb21e9f32376b9f910269c]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2012/2953/article/2) in force at 1.1.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2953/article/1)
+[^c-0b0253fbd4fb21e9f32376b9f910269c]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2012/2953/article/2) in force at 1.1.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2953/article/1)
 
 [^f00002]: Footnote: [S.I. 1992/3111](https://www.legislation.gov.uk/uksi/1992/3111).

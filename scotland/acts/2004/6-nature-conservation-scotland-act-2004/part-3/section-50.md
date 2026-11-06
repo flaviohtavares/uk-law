@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 50. Protection of wildlife[^key-7caa1fc885fc82b04d6c5f4286274817]
+## 50. Protection of wildlife[^c-7caa1fc885fc82b04d6c5f4286274817]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Schedule 6 sets out amendments and repeals to the 1981 Act and to the Protection
 
 ## Annotations
 
-[^key-7caa1fc885fc82b04d6c5f4286274817]: Commencement: S. 50 in force at 1.10.2004 by [S.S.I. 2004/407](https://www.legislation.gov.uk/ssi/2004/407), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/407/article/2/b)
+[^c-7caa1fc885fc82b04d6c5f4286274817]: Commencement: S. 50 in force at 1.10.2004 by [S.S.I. 2004/407](https://www.legislation.gov.uk/ssi/2004/407), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/407/article/2/b)

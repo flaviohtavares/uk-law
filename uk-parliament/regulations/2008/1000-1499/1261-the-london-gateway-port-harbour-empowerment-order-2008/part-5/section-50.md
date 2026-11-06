@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 50. Agreements with Network Rail[^key-e8e89b86cf94c9c45233a0d90ca5ff86]
+## 50. Agreements with Network Rail[^c-e8e89b86cf94c9c45233a0d90ca5ff86]
 
 *Extent: E+W+S*
 
@@ -45,4 +45,4 @@ together with any rights and obligations (whether or not statutory) of Network R
 
 ## Annotations
 
-[^key-e8e89b86cf94c9c45233a0d90ca5ff86]: Commencement: Art. 50 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-e8e89b86cf94c9c45233a0d90ca5ff86]: Commencement: Art. 50 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)

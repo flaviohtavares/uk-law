@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1117. Registrar's rules[^c18910071][^c20604691][^c20615141][^c20619141][^key-0eb533aa3975056f7d08834d56b3055c]
+## 1117. Registrar's rules[^c18910071][^c20604691][^c20615141][^c20619141][^c-0eb533aa3975056f7d08834d56b3055c]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ This is without prejudice to the making of such provision or the imposing of suc
 
 [^c20619141]: Modification: Ss. 1114-1119 applied (with modifications) (1.10.2009) by [The Unregistered Companies Regulations 2009 (S.I. 2009/2436)](https://www.legislation.gov.uk/uksi/2009/2436), {regs. 3-5, Sch. 1 para. 17(2)(g)} (with transitional provisions and savings in regs. 7, 9, Sch. 2)
 
-[^key-0eb533aa3975056f7d08834d56b3055c]: Modification: S. 1117 modified (31.1.2019) by [The Further Education Bodies (Insolvency) Regulations 2019 (S.I. 2019/138)](https://www.legislation.gov.uk/uksi/2019/138), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/138/regulation/1/1), [40](https://www.legislation.gov.uk/uksi/2019/138/regulation/40) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/138/regulation/1/2), [3(c)](https://www.legislation.gov.uk/uksi/2019/138/regulation/3/c))
+[^c-0eb533aa3975056f7d08834d56b3055c]: Modification: S. 1117 modified (31.1.2019) by [The Further Education Bodies (Insolvency) Regulations 2019 (S.I. 2019/138)](https://www.legislation.gov.uk/uksi/2019/138), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/138/regulation/1/1), [40](https://www.legislation.gov.uk/uksi/2019/138/regulation/40) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/138/regulation/1/2), [3(c)](https://www.legislation.gov.uk/uksi/2019/138/regulation/3/c))

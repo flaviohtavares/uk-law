@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 15. Pay reference period[^c19557721][^key-a675a1cc535417ed3ed6be1042e4e49f]
+## 15. Pay reference period[^c19557721][^c-a675a1cc535417ed3ed6be1042e4e49f]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 [^c19557721]: Commencement: S. 15 partly in force; s. 15 in force for certain purposes at Royal Assent see s. 118(2)
 
-[^key-a675a1cc535417ed3ed6be1042e4e49f]: Commencement: S. 15 in operation at 30.6.2012 in so far as not already in operation by [S.R. 2012/266](https://www.legislation.gov.uk/nisr/2012/266), [art. 2](https://www.legislation.gov.uk/nisr/2012/266/article/2), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2012/266/schedule/part/1)
+[^c-a675a1cc535417ed3ed6be1042e4e49f]: Commencement: S. 15 in operation at 30.6.2012 in so far as not already in operation by [S.R. 2012/266](https://www.legislation.gov.uk/nisr/2012/266), [art. 2](https://www.legislation.gov.uk/nisr/2012/266/article/2), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2012/266/schedule/part/1)

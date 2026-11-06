@@ -31,7 +31,7 @@ summary: ''
 
 CRIMINAL LAW
 
-The Zimbabwe (Freezing of Funds and Economic Resources) Regulations 2004 (revoked)[^key-d3df841be87cb26c6facc29ce729e09d]
+The Zimbabwe (Freezing of Funds and Economic Resources) Regulations 2004 (revoked)[^c-d3df841be87cb26c6facc29ce729e09d]
 
 Made
 
@@ -45,48 +45,48 @@ Coming into force
 
 19th March 2004
 
-[^key-d3df841be87cb26c6facc29ce729e09d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d3df841be87cb26c6facc29ce729e09d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-d3df841be87cb26c6facc29ce729e09d]
+## 1. Citation, commencement and interpretation[^c-d3df841be87cb26c6facc29ce729e09d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Breaches of the EC Regulation[^key-d3df841be87cb26c6facc29ce729e09d]
+## 2. Breaches of the EC Regulation[^c-d3df841be87cb26c6facc29ce729e09d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Requests for authorisations etc[^key-d3df841be87cb26c6facc29ce729e09d]
+## 3. Requests for authorisations etc[^c-d3df841be87cb26c6facc29ce729e09d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Information[^key-d3df841be87cb26c6facc29ce729e09d]
+## 4. Information[^c-d3df841be87cb26c6facc29ce729e09d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Penalties and proceedings[^key-d3df841be87cb26c6facc29ce729e09d]
+## 5. Penalties and proceedings[^c-d3df841be87cb26c6facc29ce729e09d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d3df841be87cb26c6facc29ce729e09d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d3df841be87cb26c6facc29ce729e09d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — INFORMATION[^key-d3df841be87cb26c6facc29ce729e09d]
+## SCHEDULE — INFORMATION[^c-d3df841be87cb26c6facc29ce729e09d]
 
 Regulation 4
 
-**1.**[^key-d3df841be87cb26c6facc29ce729e09d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-d3df841be87cb26c6facc29ce729e09d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-d3df841be87cb26c6facc29ce729e09d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-d3df841be87cb26c6facc29ce729e09d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-d3df841be87cb26c6facc29ce729e09d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-d3df841be87cb26c6facc29ce729e09d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-d3df841be87cb26c6facc29ce729e09d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d3df841be87cb26c6facc29ce729e09d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d3df841be87cb26c6facc29ce729e09d]: Textual amendment: Regulations revoked (24.4.2009) by [The Zimbabwe (Financial Sanctions) Regulations 2009 (S.I. 2009/847)](https://www.legislation.gov.uk/uksi/2009/847), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/847/regulation/1/1), [17(c)](https://www.legislation.gov.uk/uksi/2009/847/regulation/17/c)
+[^c-d3df841be87cb26c6facc29ce729e09d]: Textual amendment: Regulations revoked (24.4.2009) by [The Zimbabwe (Financial Sanctions) Regulations 2009 (S.I. 2009/847)](https://www.legislation.gov.uk/uksi/2009/847), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/847/regulation/1/1), [17(c)](https://www.legislation.gov.uk/uksi/2009/847/regulation/17/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Amendments to Commission Regulation (EU) No 1158/2010 on a common safety method for assessing conformity with the requirements for obtaining railway safety certificates[^key-316c7e1f5ff6df785788b99de199a2ef]
+## 17. Amendments to Commission Regulation (EU) No 1158/2010 on a common safety method for assessing conformity with the requirements for obtaining railway safety certificates[^c-316c7e1f5ff6df785788b99de199a2ef]
 
 *Extent: N.I.*
 
@@ -57,7 +57,7 @@ summary: ''
 (7) In Annex I (procedure for assessing conformity with requirements for obtaining safety certificates to be issued in accordance with Article 10(2)(a) and (b) of Directive [2004/49/EC](https://www.legislation.gov.uk/eudr/2004/49))—
 
 - (a) in the heading, for “Article 10(2)(a) and (b) of Directive [2004/49/EC](https://www.legislation.gov.uk/eudr/2004/49)” substitute “ regulations 5, 6 and 7 of the Railways (Safety Management) Regulations (Northern Ireland) 2006 ”;
-- (b) in paragraph (2), for “complies with Commission Regulation [(EC) No 653/2007](https://www.legislation.gov.uk/eur/2007/653)” substitute “ is in the format specified in Part 4 of Schedule 6[^key-05f66d626fc767b77cfaf3db6fb54d8c] to the Railways (Safety Management) Regulations (Northern Ireland) 2006 ”;
+- (b) in paragraph (2), for “complies with Commission Regulation [(EC) No 653/2007](https://www.legislation.gov.uk/eur/2007/653)” substitute “ is in the format specified in Part 4 of Schedule 6[^c-05f66d626fc767b77cfaf3db6fb54d8c] to the Railways (Safety Management) Regulations (Northern Ireland) 2006 ”;
 - (c) in paragraph 6—
   - (i) after “Part A” in the first place it occurs, insert “ safety certificates ”;
   - (ii) after “Part A” in the second place it occurs, insert “ safety ”;
@@ -92,8 +92,8 @@ summary: ''
 
 ## Annotations
 
-[^key-316c7e1f5ff6df785788b99de199a2ef]: Commencement: Reg. 17 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-316c7e1f5ff6df785788b99de199a2ef]: Commencement: Reg. 17 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23831701]: Marginal citation: S.R. [2006 No. 237](https://www.legislation.gov.uk/ukcm/2006/237); relevant amending instruments are S.R. [2011 No. 261](https://www.legislation.gov.uk/ukcm/2011/261), [S.I](https://www.legislation.gov.uk/ukcm/2011/261/section/I). 2011/343, S.R. [2013 No. 237](https://www.legislation.gov.uk/ukcm/2013/237) and S.R. [2016 No. 420](https://www.legislation.gov.uk/ukcm/2016/420).
 
-[^key-05f66d626fc767b77cfaf3db6fb54d8c]: Textual amendment: Words in reg. 17(7)(b) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Safety, Access, Management and Interoperability) (Miscellaneous Amendments and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/1310)](https://www.legislation.gov.uk/uksi/2019/1310), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/1310/regulation/1/2/c), [7(5)](https://www.legislation.gov.uk/uksi/2019/1310/regulation/7/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-05f66d626fc767b77cfaf3db6fb54d8c]: Textual amendment: Words in reg. 17(7)(b) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Safety, Access, Management and Interoperability) (Miscellaneous Amendments and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/1310)](https://www.legislation.gov.uk/uksi/2019/1310), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/1310/regulation/1/2/c), [7(5)](https://www.legislation.gov.uk/uksi/2019/1310/regulation/7/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

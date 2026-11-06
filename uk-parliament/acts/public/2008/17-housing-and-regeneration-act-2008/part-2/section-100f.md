@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100F. Cooperation with the HCA[^key-c2f32c731aaf6dc75f5313058aea74c5]
+## 100F. Cooperation with the HCA[^c-c2f32c731aaf6dc75f5313058aea74c5]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c2f32c731aaf6dc75f5313058aea74c5]: Textual amendment: Ss. 100A-100G inserted (1.10.2018) by [The Legislative Reform (Regulator of Social Housing) (England) Order 2018 (S.I. 2018/1040)](https://www.legislation.gov.uk/uksi/2018/1040), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1040/article/1/2), [Sch. para. 20](https://www.legislation.gov.uk/uksi/2018/1040/schedule/paragraph/20) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2018/1040/part/4))
+[^c-c2f32c731aaf6dc75f5313058aea74c5]: Textual amendment: Ss. 100A-100G inserted (1.10.2018) by [The Legislative Reform (Regulator of Social Housing) (England) Order 2018 (S.I. 2018/1040)](https://www.legislation.gov.uk/uksi/2018/1040), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1040/article/1/2), [Sch. para. 20](https://www.legislation.gov.uk/uksi/2018/1040/schedule/paragraph/20) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2018/1040/part/4))

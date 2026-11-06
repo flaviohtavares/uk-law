@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 194. Tribunal’s powers etc. when varying compulsion order[^key-31df96b185d3ccf1395c7e07474b1cc6]
+## 194. Tribunal’s powers etc. when varying compulsion order[^c-31df96b185d3ccf1395c7e07474b1cc6]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Where the Tribunal makes an order under section 193(6) of this Act varying a com
 
 ## Annotations
 
-[^key-31df96b185d3ccf1395c7e07474b1cc6]: Commencement: [S. 194](https://www.legislation.gov.uk/asp/2003/13/section/194) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
+[^c-31df96b185d3ccf1395c7e07474b1cc6]: Commencement: [S. 194](https://www.legislation.gov.uk/asp/2003/13/section/194) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)

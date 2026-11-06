@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Timeframe for determination of appeal brought by appellant receiving accommodation support[^key-7c9d7d4383507484f63d1c9e955fe094][^key-9928872089b18d8d78bd95f58062d2e2]
+## 49. Timeframe for determination of appeal brought by appellant receiving accommodation support[^c-7c9d7d4383507484f63d1c9e955fe094][^c-9928872089b18d8d78bd95f58062d2e2]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ After section 86 of the Nationality, Immigration and Asylum Act 2002 insert—
 
 ## Annotations
 
-[^key-7c9d7d4383507484f63d1c9e955fe094]: Commencement: S. 49 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
+[^c-7c9d7d4383507484f63d1c9e955fe094]: Commencement: S. 49 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
 
-[^key-9928872089b18d8d78bd95f58062d2e2]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2025/31/section/49) in force at 12.8.2026 by [S.I. 2026/766](https://www.legislation.gov.uk/uksi/2026/766), [reg. 2](https://www.legislation.gov.uk/uksi/2026/766/regulation/2)
+[^c-9928872089b18d8d78bd95f58062d2e2]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2025/31/section/49) in force at 12.8.2026 by [S.I. 2026/766](https://www.legislation.gov.uk/uksi/2026/766), [reg. 2](https://www.legislation.gov.uk/uksi/2026/766/regulation/2)

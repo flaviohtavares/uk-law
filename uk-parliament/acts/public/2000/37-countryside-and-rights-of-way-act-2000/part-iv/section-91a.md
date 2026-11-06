@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91A. Regulations under Part 4[^key-b3805f2d032ea996239a0153128a5c78]
+## 91A. Regulations under Part 4[^c-b3805f2d032ea996239a0153128a5c78]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b3805f2d032ea996239a0153128a5c78]: Textual amendment: [S. 91A](https://www.legislation.gov.uk/ukpga/2000/37/section/91A) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 245(10)](https://www.legislation.gov.uk/ukpga/2023/55/section/245/10), [255(9)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-b3805f2d032ea996239a0153128a5c78]: Textual amendment: [S. 91A](https://www.legislation.gov.uk/ukpga/2000/37/section/91A) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 245(10)](https://www.legislation.gov.uk/ukpga/2023/55/section/245/10), [255(9)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Crown land[^key-bfd7a3661760cd664859f395d82a025f]
+## 23. Crown land[^c-bfd7a3661760cd664859f395d82a025f]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ The undertaker may exercise any right under this Order to acquire compulsorily a
 
 ## Annotations
 
-[^key-bfd7a3661760cd664859f395d82a025f]: Commencement: Art. 23 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
+[^c-bfd7a3661760cd664859f395d82a025f]: Commencement: Art. 23 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)

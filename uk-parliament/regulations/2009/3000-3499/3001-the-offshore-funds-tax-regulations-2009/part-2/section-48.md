@@ -27,7 +27,7 @@ summary: ''
 - (a) as disposing of the interest owned by the participant in the non-reporting fund at its market value on the disposal date, and
 - (b) as acquiring a holding in the reporting fund at the beginning of the reporting fund's first period of account.
 
-This is subject to paragraphs (5) and (5A)[^key-4f113c21f9bb1f3172b0d116f788889b].
+This is subject to paragraphs (5) and (5A)[^c-4f113c21f9bb1f3172b0d116f788889b].
 
 (3) Chapter 5 of this Part applies to determine the offshore income gain arising on the deemed disposal referred to in paragraph (2)(a).
 
@@ -35,7 +35,7 @@ This is subject to paragraphs (5) and (5A)[^key-4f113c21f9bb1f3172b0d116f788889b
 
 (5) An election may not be made under paragraph (2) unless the offshore income gain arising on the deemed disposal referred to in paragraph (2)(a) (determined in accordance with paragraph (3)) is greater than zero.
 
-(5A)[^key-07e8861a9d6d71d949724b457e7f397d] If the interest owned by the participant represents variable remuneration represented by profit allocated under section 863I of ITTOIA 2005 (allocation of profit to the AIFM firm), an election may not be made under paragraph (2) if the fund ceases to be a non-reporting fund and becomes a reporting fund before the remuneration has vested in the participant.
+(5A)[^c-07e8861a9d6d71d949724b457e7f397d] If the interest owned by the participant represents variable remuneration represented by profit allocated under section 863I of ITTOIA 2005 (allocation of profit to the AIFM firm), an election may not be made under paragraph (2) if the fund ceases to be a non-reporting fund and becomes a reporting fund before the remuneration has vested in the participant.
 
 (6) If the participant is chargeable to income tax, the election mentioned in paragraph (2) must be made by being included in a return made for the tax year which includes the disposal date.
 
@@ -47,8 +47,8 @@ This is subject to paragraphs (5) and (5A)[^key-4f113c21f9bb1f3172b0d116f788889b
 
 ## Annotations
 
-[^key-4f113c21f9bb1f3172b0d116f788889b]: Textual amendment: Words in [reg. 48(2)](https://www.legislation.gov.uk/uksi/2009/3001/regulation/48/2) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Offshore Funds (Tax) (Amendment) Regulations 2014 (S.I. 2014/1931)](https://www.legislation.gov.uk/uksi/2014/1931), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1931/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2014/1931/regulation/2/3/a)
+[^c-4f113c21f9bb1f3172b0d116f788889b]: Textual amendment: Words in [reg. 48(2)](https://www.legislation.gov.uk/uksi/2009/3001/regulation/48/2) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Offshore Funds (Tax) (Amendment) Regulations 2014 (S.I. 2014/1931)](https://www.legislation.gov.uk/uksi/2014/1931), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1931/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2014/1931/regulation/2/3/a)
 
-[^key-07e8861a9d6d71d949724b457e7f397d]: Textual amendment: [Reg. 48(5A)](https://www.legislation.gov.uk/uksi/2009/3001/regulation/48/5A) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Offshore Funds (Tax) (Amendment) Regulations 2014 (S.I. 2014/1931)](https://www.legislation.gov.uk/uksi/2014/1931), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1931/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2014/1931/regulation/2/3/b)
+[^c-07e8861a9d6d71d949724b457e7f397d]: Textual amendment: [Reg. 48(5A)](https://www.legislation.gov.uk/uksi/2009/3001/regulation/48/5A) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Offshore Funds (Tax) (Amendment) Regulations 2014 (S.I. 2014/1931)](https://www.legislation.gov.uk/uksi/2014/1931), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1931/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2014/1931/regulation/2/3/b)
 
 [^c19952241]: Marginal citation: [1998 c. 36](https://www.legislation.gov.uk/ukpga/1998/36).

@@ -46,7 +46,7 @@ The Department of Agriculture, Environment and Rural Affairs, in exercise of the
 
 ## PART 1 — Introductory
 
-### 1. Citation, commencement and interpretation[^key-759a52039ca0d402f6db1bb30ff91ae3]
+### 1. Citation, commencement and interpretation[^c-759a52039ca0d402f6db1bb30ff91ae3]
 
 (1) These Regulations may be cited as the Farming with Nature Scheme (Amendment) Regulations (Northern Ireland) 2026 and shall come into operation on 25 June 2026.
 
@@ -54,7 +54,7 @@ The Department of Agriculture, Environment and Rural Affairs, in exercise of the
 
 ## PART 2 — Amendments to the Farming with Nature Scheme
 
-### 2. Amendments to the Farming with Nature Scheme Regulations (Northern Ireland) 2025[^key-9eaea34b4c7c0b0a8aec0d26098d20c1]
+### 2. Amendments to the Farming with Nature Scheme Regulations (Northern Ireland) 2025[^c-9eaea34b4c7c0b0a8aec0d26098d20c1]
 
 (1) The Farming with Nature Scheme Regulations (Northern Ireland) 2025[^f00004] are amended as follows.
 
@@ -540,7 +540,7 @@ The Department of Agriculture, Environment and Rural Affairs, in exercise of the
 
 ## PART 3 — Amendments to assimilated law
 
-### 3. Amendment of the Horizontal Regulation[^key-9b4a68ece88432c09c5d1beeeac65b96]
+### 3. Amendment of the Horizontal Regulation[^c-9b4a68ece88432c09c5d1beeeac65b96]
 
 (1) [Regulation (EU) No 1306/2013](https://www.legislation.gov.uk/european/regulation/2013/1306) of the European Parliament and of the Council on the financing, management and monitoring of the common agricultural policy (the Horizontal Regulation)[^f00008] is amended as follows.
 
@@ -564,7 +564,7 @@ The Department of Agriculture, Environment and Rural Affairs, in exercise of the
 
   .
 
-### 4. Amendment of the Commission Implementing Regulation[^key-db2606b579175a500030a8b1e54c18b6]
+### 4. Amendment of the Commission Implementing Regulation[^c-db2606b579175a500030a8b1e54c18b6]
 
 (1) Commission Implementing [Regulation (EU) No 809/2014](https://www.legislation.gov.uk/european/regulation/2014/0809) laying down rules for the application of [Regulation (EU) 1306/2013](https://www.legislation.gov.uk/european/regulation/2013/1306) of the European Parliament and of the Council with regard to the integrated administration and control system, rural development measures and cross compliance[^f00009] (the Commission Implementing Regulation) is amended as follows.
 
@@ -601,11 +601,11 @@ Regulation 4 amends the Commission Implementing Regulation.
 
 [^f00002]: Footnote: [EUR 1305/2013](https://www.legislation.gov.uk/european/regulation/2013/1305)
 
-[^key-759a52039ca0d402f6db1bb30ff91ae3]: Commencement: Reg. 1 in operation at 25.6.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/105/regulation/1/1)
+[^c-759a52039ca0d402f6db1bb30ff91ae3]: Commencement: Reg. 1 in operation at 25.6.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/105/regulation/1/1)
 
 [^f00003]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-9eaea34b4c7c0b0a8aec0d26098d20c1]: Commencement: Reg. 2 in operation at 25.6.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/105/regulation/1/1)
+[^c-9eaea34b4c7c0b0a8aec0d26098d20c1]: Commencement: Reg. 2 in operation at 25.6.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/105/regulation/1/1)
 
 [^f00004]: Footnote: [S.R. 2025, No. 101](https://www.legislation.gov.uk/nisr/2025/101)
 
@@ -615,10 +615,10 @@ Regulation 4 amends the Commission Implementing Regulation.
 
 [^f00007]: Footnote: [Directive 92/43/EEC](https://www.legislation.gov.uk/european/directive/1992/0043)
 
-[^key-9b4a68ece88432c09c5d1beeeac65b96]: Commencement: Reg. 3 in operation at 25.6.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/105/regulation/1/1)
+[^c-9b4a68ece88432c09c5d1beeeac65b96]: Commencement: Reg. 3 in operation at 25.6.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/105/regulation/1/1)
 
 [^f00008]: Footnote: [EUR 1306/2013](https://www.legislation.gov.uk/european/regulation/2013/1306)
 
-[^key-db2606b579175a500030a8b1e54c18b6]: Commencement: Reg. 4 in operation at 25.6.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/105/regulation/1/1)
+[^c-db2606b579175a500030a8b1e54c18b6]: Commencement: Reg. 4 in operation at 25.6.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/105/regulation/1/1)
 
 [^f00009]: Footnote: [EUR 809/2014](https://www.legislation.gov.uk/european/regulation/2014/0809)

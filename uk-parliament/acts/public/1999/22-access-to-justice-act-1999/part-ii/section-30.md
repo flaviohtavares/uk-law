@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Recovery where body undertakes to meet costs liabilities.[^key-beadf7892f2f8c22b8587d029481c4a6]
+## 30. Recovery where body undertakes to meet costs liabilities.[^c-beadf7892f2f8c22b8587d029481c4a6]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-beadf7892f2f8c22b8587d029481c4a6]: Textual amendment: S. 30 omitted (1.4.2013) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 47(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/47/1), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1) (with [s. 47(2)](https://www.legislation.gov.uk/ukpga/2012/10/section/47/2)); [S.I. 2013/77](https://www.legislation.gov.uk/uksi/2013/77), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/77/article/3/d)
+[^c-beadf7892f2f8c22b8587d029481c4a6]: Textual amendment: S. 30 omitted (1.4.2013) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 47(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/47/1), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1) (with [s. 47(2)](https://www.legislation.gov.uk/ukpga/2012/10/section/47/2)); [S.I. 2013/77](https://www.legislation.gov.uk/uksi/2013/77), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/77/article/3/d)

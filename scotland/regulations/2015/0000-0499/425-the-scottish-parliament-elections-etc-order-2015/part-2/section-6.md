@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6. Rules for Scottish parliamentary elections[^key-67b4f36df90e599726e92fd4e9e06ae3]
+## 6. Rules for Scottish parliamentary elections[^c-67b4f36df90e599726e92fd4e9e06ae3]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-67b4f36df90e599726e92fd4e9e06ae3]: Commencement: Art. 6 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-67b4f36df90e599726e92fd4e9e06ae3]: Commencement: Art. 6 in force at 16.12.2015 in accordance with art. 1(1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33A. Agreements as to compensation for improvements[^key-e8fa0933e69de5a0a2318f5a658c4b1e]
+## 33A. Agreements as to compensation for improvements[^c-e8fa0933e69de5a0a2318f5a658c4b1e]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ any term of the lease or of an agreement between the landlord and tenant made be
 
 ## Annotations
 
-[^key-e8fa0933e69de5a0a2318f5a658c4b1e]: Textual amendment: S. 33A inserted (27.11.2003) by [Agricultural Holdings (Scotland) Act 2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11), [ss. 43(1)](https://www.legislation.gov.uk/asp/2003/11/section/43/1), [95(3)](https://www.legislation.gov.uk/asp/2003/11/section/95/3), [95(4)](https://www.legislation.gov.uk/asp/2003/11/section/95/4) (with [s. 95(2)](https://www.legislation.gov.uk/asp/2003/11/section/95/2)); [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(d)](https://www.legislation.gov.uk/ssi/2003/548/article/2/d) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+[^c-e8fa0933e69de5a0a2318f5a658c4b1e]: Textual amendment: S. 33A inserted (27.11.2003) by [Agricultural Holdings (Scotland) Act 2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11), [ss. 43(1)](https://www.legislation.gov.uk/asp/2003/11/section/43/1), [95(3)](https://www.legislation.gov.uk/asp/2003/11/section/95/3), [95(4)](https://www.legislation.gov.uk/asp/2003/11/section/95/4) (with [s. 95(2)](https://www.legislation.gov.uk/asp/2003/11/section/95/2)); [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(d)](https://www.legislation.gov.uk/ssi/2003/548/article/2/d) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))

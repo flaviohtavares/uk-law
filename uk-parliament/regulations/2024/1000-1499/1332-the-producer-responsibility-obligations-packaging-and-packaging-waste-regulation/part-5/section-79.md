@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Recalculation of disposal and administration fees[^key-929bc760f3877edc90fd04bec0d12c7e]
+## 79. Recalculation of disposal and administration fees[^c-929bc760f3877edc90fd04bec0d12c7e]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,7 +54,7 @@ summary: ''
 - (b) the outcome of any complaint or appeal by the producer relating to the calculation of the producer’s administration fee for the assessment year;
 - (c) any other matters which the scheme administrator considers relevant.
 
-(5) Where the scheme administrator determines upon a recalculation under this regulation that the amount of the disposal fee or the administration fee which a liable producer is liable to pay in relation to an assessment year is materially[^key-a880cc9912b496437fd4d1fbf31528ac] greater or less than the amount previously notified to the producer—
+(5) Where the scheme administrator determines upon a recalculation under this regulation that the amount of the disposal fee or the administration fee which a liable producer is liable to pay in relation to an assessment year is materially[^c-a880cc9912b496437fd4d1fbf31528ac] greater or less than the amount previously notified to the producer—
 
 - (a) the scheme administrator must serve on the producer a notice under regulation 82;
 - (b) if the producer’s recalculated disposal fee is greater than the amount paid by the producer to the scheme administrator in relation to the assessment year, the producer is liable to pay to the scheme administrator the difference between those amounts;
@@ -62,6 +62,6 @@ summary: ''
 
 ## Annotations
 
-[^key-929bc760f3877edc90fd04bec0d12c7e]: Commencement: Reg. 79 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-929bc760f3877edc90fd04bec0d12c7e]: Commencement: Reg. 79 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
 
-[^key-a880cc9912b496437fd4d1fbf31528ac]: Textual amendment: Word in [reg. 79(5)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/79/5) inserted (1.1.2026) by [The Producer Responsibility Obligations (Packaging and Packaging Waste) (Amendment) Regulations 2025 (S.I. 2025/1369)](https://www.legislation.gov.uk/uksi/2025/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/1/2), [7(10)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/7/10) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2025/1369/schedule/4))
+[^c-a880cc9912b496437fd4d1fbf31528ac]: Textual amendment: Word in [reg. 79(5)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/79/5) inserted (1.1.2026) by [The Producer Responsibility Obligations (Packaging and Packaging Waste) (Amendment) Regulations 2025 (S.I. 2025/1369)](https://www.legislation.gov.uk/uksi/2025/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/1/2), [7(10)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/7/10) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2025/1369/schedule/4))

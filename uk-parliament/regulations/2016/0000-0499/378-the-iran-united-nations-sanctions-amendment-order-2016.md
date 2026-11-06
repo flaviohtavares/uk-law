@@ -32,7 +32,7 @@ summary: ''
 
 United Nations
 
-The Iran (United Nations Sanctions) (Amendment) Order 2016 (revoked)[^key-622cf7c240b9ac3efb74ef8a51e9be28]
+The Iran (United Nations Sanctions) (Amendment) Order 2016 (revoked)[^c-622cf7c240b9ac3efb74ef8a51e9be28]
 
 Made
 
@@ -46,19 +46,19 @@ Coming into force
 
 13th April 2016
 
-[^key-622cf7c240b9ac3efb74ef8a51e9be28]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-622cf7c240b9ac3efb74ef8a51e9be28]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, interpretation and extent[^key-622cf7c240b9ac3efb74ef8a51e9be28]
+## 1. Citation, commencement, interpretation and extent[^c-622cf7c240b9ac3efb74ef8a51e9be28]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the principal Order[^key-622cf7c240b9ac3efb74ef8a51e9be28]
+## 2. Amendment of the principal Order[^c-622cf7c240b9ac3efb74ef8a51e9be28]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-622cf7c240b9ac3efb74ef8a51e9be28]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-622cf7c240b9ac3efb74ef8a51e9be28]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
@@ -66,4 +66,4 @@ Coming into force
 
 ## Annotations
 
-[^key-622cf7c240b9ac3efb74ef8a51e9be28]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2016/378) revoked (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/591)](https://www.legislation.gov.uk/uksi/2020/591), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/591/regulation/1/2), [8(e)](https://www.legislation.gov.uk/uksi/2020/591/regulation/8/e); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 5](https://www.legislation.gov.uk/uksi/2020/1514/regulation/5)
+[^c-622cf7c240b9ac3efb74ef8a51e9be28]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2016/378) revoked (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/591)](https://www.legislation.gov.uk/uksi/2020/591), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/591/regulation/1/2), [8(e)](https://www.legislation.gov.uk/uksi/2020/591/regulation/8/e); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 5](https://www.legislation.gov.uk/uksi/2020/1514/regulation/5)

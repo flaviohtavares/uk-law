@@ -44,20 +44,20 @@ The Department of Health[^f00001] makes the following Regulations in exercise of
 
 In accordance with Article 62(3) of that Order it has consulted with such organisations as appear to it to be representative of medical practitioners practising as ophthalmic medical practitioners and ophthalmic opticians.
 
-## 1. Citation, commencement and interpretation[^key-ff22b45b853b86c767221fb1cbe34aaf]
+## 1. Citation, commencement and interpretation[^c-ff22b45b853b86c767221fb1cbe34aaf]
 
 (1) These Regulations may be cited as the Optical Charges and Payments (Amendment) Regulations (Northern Ireland) 2025 and shall come into operation on 1st April 2025.
 
 (2) In these Regulations “**the principal Regulations**” means the Health and Personal Social Services (Optical Charges and Payments) Regulations (Northern Ireland) 1997[^f00003].
 
-## 2. Amendment of regulation 19 of the principal Regulations[^key-3a844adabbe4adccc2a9343b06aa5f99]
+## 2. Amendment of regulation 19 of the principal Regulations[^c-3a844adabbe4adccc2a9343b06aa5f99]
 
 (1) In regulation 19 of the principal Regulations (redemption value of voucher for replacement or repair)—
 
 - (a) in paragraph (1)(b) for “£61.40” substitute “£65.08”; and
 - (b) in paragraph (3) for “£15.88” substitute “£16.83”.
 
-## 3. Amendments of the Schedules to the principal Regulations[^key-2f56afd4db0a6b16b8a52851c4b17640]
+## 3. Amendments of the Schedules to the principal Regulations[^c-2f56afd4db0a6b16b8a52851c4b17640]
 
 (1) In Schedule 1 to the principal Regulations (voucher letter codes and face values – supply and replacement)[^f00004], in column 3 (face value of voucher), for each amount specified in column 1 of the Table below (old amount) substitute the amount specified in relation to it in column 2 of that Table (new amount).
 
@@ -94,7 +94,7 @@ Table
 
 (3) For Schedule 3 to the principal Regulations (voucher value repair)[^f00006], substitute the Schedule 3 as set out in the Schedule to these Regulations.
 
-## 4. Application of Regulations 2 and 3[^key-a399cb7583122c2c4bc4cf7256b170b0]
+## 4. Application of Regulations 2 and 3[^c-a399cb7583122c2c4bc4cf7256b170b0]
 
 The amendments made in regulations 2 and 3 apply only in relation to a voucher accepted or used pursuant to regulation 12 or regulation 17 of the principal Regulations on or after 1 April 2025.
 
@@ -110,7 +110,7 @@ Patrick Neeson
 
 A senior officer of the Department of Finance
 
-## SCHEDULE — SCHEDULE 3 TO THE PRINCIPAL REGULATIONS AS SUBSTITUTED BY THESE REGULATIONS[^key-2c037a0da425c955086c5883792f48ff]
+## SCHEDULE — SCHEDULE 3 TO THE PRINCIPAL REGULATIONS AS SUBSTITUTED BY THESE REGULATIONS[^c-2c037a0da425c955086c5883792f48ff]
 
 Regulation 3(3)
 
@@ -149,13 +149,13 @@ Regulation 4 provides that the increases contained in regulation 2 and 3 apply o
 
 [^f00002]: Footnote: [S.I. 1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265) as amended by Articles 3 and 17 of, and Schedules 1 and 6 to, the Health and Social Security (Northern Ireland) Order 1984 ([S.I. 1984/1158 (N.I. 8))](https://www.legislation.gov.uk/nisi/1984/1158); Article 14(2) of the Social Security (Northern Ireland) Order 1988 ([S.I. 1998/594 (N.I. 1))](https://www.legislation.gov.uk/nisi/1998/594); Article 8 of the Health and Medicines (Northern Ireland) Order 1988 ([S.I. 1988/2249 (N.I. 24))](https://www.legislation.gov.uk/nisi/1988/2249); Article 34 of, and Part II of Schedule 5 to, the Health and Personal Social Services (Northern Ireland) Order 1991 ([S.I. 1991/194 (N.I. 1))](https://www.legislation.gov.uk/nisi/1991/194), there are other amendments which are not relevant
 
-[^key-ff22b45b853b86c767221fb1cbe34aaf]: Commencement: Reg. 1 in operation at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/46/regulation/1/1)
+[^c-ff22b45b853b86c767221fb1cbe34aaf]: Commencement: Reg. 1 in operation at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/46/regulation/1/1)
 
 [^f00003]: Footnote: [S.R. 1997 No. 191](https://www.legislation.gov.uk/nisr/1997/191): relevant amending Regulations are [S.R. 1998 No. 86](https://www.legislation.gov.uk/nisr/1998/86); S.R. 1999 Nos. [111](https://www.legislation.gov.uk/nisr/1999/111) and [394](https://www.legislation.gov.uk/nisr/1999/394), [S.R. 2000 No. 51](https://www.legislation.gov.uk/nisr/2000/51), [S.R. 2001 No. 133](https://www.legislation.gov.uk/nisr/2001/133), [S.R. 2002 No. 85](https://www.legislation.gov.uk/nisr/2002/85), S.R. 2003 Nos. [176](https://www.legislation.gov.uk/nisr/2003/176) and [424](https://www.legislation.gov.uk/nisr/2003/424), S.R. 2004 Nos. [92](https://www.legislation.gov.uk/nisr/2004/92), [113](https://www.legislation.gov.uk/nisr/2004/113), [162](https://www.legislation.gov.uk/nisr/2004/162) and [188](https://www.legislation.gov.uk/nisr/2004/188), [S.R. 2005 No. 71](https://www.legislation.gov.uk/nisr/2005/71), [S.R. 2006 No. 106](https://www.legislation.gov.uk/nisr/2006/106), [S.R. 2007 No. 141](https://www.legislation.gov.uk/nisr/2007/141), [S.R. 2008 No. 128](https://www.legislation.gov.uk/nisr/2008/128), [2009](https://www.legislation.gov.uk/nisr/2008/2009) c. 1, [S.R. 2009 No. 153](https://www.legislation.gov.uk/nisr/2009/153), [S.R. 2012 No. 259](https://www.legislation.gov.uk/nisr/2012/259), [S.R. 2013 No. 204](https://www.legislation.gov.uk/nisr/2013/204), [S.R. 2014 No.154](https://www.legislation.gov.uk/nisr/2014/154), [S.R. 2015 No. 266](https://www.legislation.gov.uk/nisr/2015/266), [S.R. 2016 No. 335](https://www.legislation.gov.uk/nisr/2016/335), [S.R. 2018 No. 211](https://www.legislation.gov.uk/nisr/2018/211), [S.R. 2023 No. 40](https://www.legislation.gov.uk/nisr/2023/40) and [S.R. 2004 No. 127](https://www.legislation.gov.uk/nisr/2004/127)
 
-[^key-3a844adabbe4adccc2a9343b06aa5f99]: Commencement: Reg. 2 in operation at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/46/regulation/1/1)
+[^c-3a844adabbe4adccc2a9343b06aa5f99]: Commencement: Reg. 2 in operation at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/46/regulation/1/1)
 
-[^key-2f56afd4db0a6b16b8a52851c4b17640]: Commencement: Reg. 3 in operation at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/46/regulation/1/1)
+[^c-2f56afd4db0a6b16b8a52851c4b17640]: Commencement: Reg. 3 in operation at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/46/regulation/1/1)
 
 [^f00004]: Footnote: Schedule 1 was substituted by the Schedule to [S.R. 1999 No. 111](https://www.legislation.gov.uk/nisr/1999/111), and last amended by regulation 3(1) of [S.R. 2024 No. 1274](https://www.legislation.gov.uk/nisr/2024/1274)
 
@@ -163,6 +163,6 @@ Regulation 4 provides that the increases contained in regulation 2 and 3 apply o
 
 [^f00006]: Footnote: Schedule 3 was substituted by regulation 3(3) of, and the Schedule to, [S.R. 2024 No. 127](https://www.legislation.gov.uk/nisr/2024/127)
 
-[^key-a399cb7583122c2c4bc4cf7256b170b0]: Commencement: Reg. 4 in operation at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/46/regulation/1/1)
+[^c-a399cb7583122c2c4bc4cf7256b170b0]: Commencement: Reg. 4 in operation at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/46/regulation/1/1)
 
-[^key-2c037a0da425c955086c5883792f48ff]: Commencement: Sch. in operation at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/46/regulation/1/1)
+[^c-2c037a0da425c955086c5883792f48ff]: Commencement: Sch. in operation at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/46/regulation/1/1)

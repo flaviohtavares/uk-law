@@ -32,7 +32,7 @@ summary: ''
 
 Health And Safety
 
-The Explosives (Hazard Information and Packaging for Supply) (Amendment) Regulations (Northern Ireland) 2014 (revoked)[^key-5b1ab094b4451c7ee6876ffbf996f5ed]
+The Explosives (Hazard Information and Packaging for Supply) (Amendment) Regulations (Northern Ireland) 2014 (revoked)[^c-5b1ab094b4451c7ee6876ffbf996f5ed]
 
 Made
 
@@ -42,15 +42,15 @@ Coming into operation
 
 1st March 2014
 
-[^key-5b1ab094b4451c7ee6876ffbf996f5ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5b1ab094b4451c7ee6876ffbf996f5ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation and commencement[^key-5b1ab094b4451c7ee6876ffbf996f5ed]
+## 1. Citation and commencement[^c-5b1ab094b4451c7ee6876ffbf996f5ed]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of Regulations[^key-5b1ab094b4451c7ee6876ffbf996f5ed]
+## 2. Amendment of Regulations[^c-5b1ab094b4451c7ee6876ffbf996f5ed]
 
 **Not yet in force.**
 
@@ -58,12 +58,12 @@ Coming into operation
 
 **May not be in force at this date. Check the source.**
 
-[^key-5b1ab094b4451c7ee6876ffbf996f5ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5b1ab094b4451c7ee6876ffbf996f5ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-5b1ab094b4451c7ee6876ffbf996f5ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5b1ab094b4451c7ee6876ffbf996f5ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5b1ab094b4451c7ee6876ffbf996f5ed]: Textual amendment: Regulations revoked (28.2.2014) by [The Explosives (Hazard Information and Packaging for Supply) (Amendment No. 2) Regulations (Northern Ireland) 2014 (S.R. 2014/47)](https://www.legislation.gov.uk/nisr/2014/47), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/47/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2014/47/regulation/3)
+[^c-5b1ab094b4451c7ee6876ffbf996f5ed]: Textual amendment: Regulations revoked (28.2.2014) by [The Explosives (Hazard Information and Packaging for Supply) (Amendment No. 2) Regulations (Northern Ireland) 2014 (S.R. 2014/47)](https://www.legislation.gov.uk/nisr/2014/47), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/47/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2014/47/regulation/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 269. Power to seize fishing gear for purposes of forfeiture[^key-370649776345588cb6e4c51899e64a0f]
+## 269. Power to seize fishing gear for purposes of forfeiture[^c-370649776345588cb6e4c51899e64a0f]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ to secure that the fishing gear is not removed or otherwise interfered with unti
 
 ## Annotations
 
-[^key-370649776345588cb6e4c51899e64a0f]: Commencement: [S. 269](https://www.legislation.gov.uk/ukpga/2009/23/section/269) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 22](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/22)
+[^c-370649776345588cb6e4c51899e64a0f]: Commencement: [S. 269](https://www.legislation.gov.uk/ukpga/2009/23/section/269) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 22](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/22)

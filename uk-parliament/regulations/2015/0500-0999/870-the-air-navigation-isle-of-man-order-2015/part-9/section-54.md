@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Requirement to load in accordance with loading instructions[^key-06f5ab188dc5490e94e1fa6236f4d44f]
+## 54. Requirement to load in accordance with loading instructions[^c-06f5ab188dc5490e94e1fa6236f4d44f]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-06f5ab188dc5490e94e1fa6236f4d44f]: Commencement: [Art. 54](https://www.legislation.gov.uk/uksi/2015/870/article/54) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-06f5ab188dc5490e94e1fa6236f4d44f]: Commencement: [Art. 54](https://www.legislation.gov.uk/uksi/2015/870/article/54) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

@@ -22,7 +22,7 @@ summary: ''
 
 (1) A person is a “**voluntary leaver**” for the purposes of this section if—
 
-- (a) he is not a British citizen [^key-70e6d7b2e7b71c37171b4d489287cbe1]...,
+- (a) he is not a British citizen [^c-70e6d7b2e7b71c37171b4d489287cbe1]...,
 - (b) he leaves the United Kingdom for a place where he hopes to take up permanent residence (his “**new place of residence**”), and
 - (c) the Secretary of State thinks that it is in the person’s interest to leave the United Kingdom and that the person wishes to leave.
 
@@ -38,7 +38,7 @@ summary: ''
 - (c) the provision of services designed to assist a voluntary leaver, or a member of his family or household, to settle in his new place of residence;
 - (d) expenses in connection with a journey undertaken by a person (with or without his family or household) to prepare for, or to assess the possibility of, his becoming a voluntary leaver.
 
-(4)[^key-33cba399d5e7ad446446ae10d28b8369] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-33cba399d5e7ad446446ae10d28b8369] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) The following provisions of the Immigration Act 1971 (c. 77) shall cease to have effect—
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-70e6d7b2e7b71c37171b4d489287cbe1]: Textual amendment: Words in [s. 58(1)(a)](https://www.legislation.gov.uk/ukpga/2002/41/section/58/1/a) omitted (31.12.2020) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [13(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/13/2/a)
+[^c-70e6d7b2e7b71c37171b4d489287cbe1]: Textual amendment: Words in [s. 58(1)(a)](https://www.legislation.gov.uk/ukpga/2002/41/section/58/1/a) omitted (31.12.2020) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [13(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/13/2/a)
 
-[^key-33cba399d5e7ad446446ae10d28b8369]: Textual amendment: [S. 58(4)](https://www.legislation.gov.uk/ukpga/2002/41/section/58/4) omitted (31.12.2020) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [13(2)(b)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/13/2/b)
+[^c-33cba399d5e7ad446446ae10d28b8369]: Textual amendment: [S. 58(4)](https://www.legislation.gov.uk/ukpga/2002/41/section/58/4) omitted (31.12.2020) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [13(2)(b)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/13/2/b)

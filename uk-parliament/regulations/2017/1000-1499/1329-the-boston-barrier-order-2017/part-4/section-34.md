@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. Power to acquire new rights[^key-447000a1e3bae36883d49bb94201de0f]
+## 34. Power to acquire new rights[^c-447000a1e3bae36883d49bb94201de0f]
 
 *Extent: E+W*
 
@@ -34,7 +34,7 @@ summary: ''
 
 ## Annotations
 
-[^key-447000a1e3bae36883d49bb94201de0f]: Commencement: Art. 34 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-447000a1e3bae36883d49bb94201de0f]: Commencement: Art. 34 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
 
 [^f00052]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29).
 

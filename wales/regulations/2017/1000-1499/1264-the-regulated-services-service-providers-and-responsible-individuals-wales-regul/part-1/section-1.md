@@ -29,15 +29,15 @@ summary: ''
 - “**the Act**” (“***y Ddeddf***”) means the Regulation and Inspection of Social Care (Wales) Act 2016;
 - “**the 2014 Act**” (“***Deddf 2014***”) means the Social Services and Well-being (Wales) Act 2014 [^c23886691];
 - “**care and support plan**” (“***cynllun gofal a chymorth***”) means a plan under section 54 or section 83 of the 2014 Act;
-- [^key-cce57d972c0eb7083607f7304c9474c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c-cce57d972c0eb7083607f7304c9474c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - “**child**” (“***plentyn***”) means a person who is aged under 18;
 - “**child who is looked after by a local authority**” (“***plentyn sy'n derbyn gofal gan awdurdod lleol***”) has the same meaning as in section 74 of the 2014 Act;
-- [^key-cce57d972c0eb7083607f7304c9474c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c-cce57d972c0eb7083607f7304c9474c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - “**general practitioner**” (“***ymarferydd cyffredinol***”) means a registered medical practitioner [^c23886701] who—
   - (a) provides primary medical services under Part 4 of the National Health Service (Wales) Act 2006 [^c23886711], or
   - (b) provides services which correspond to services provided under Part 4 of the National Health Service (Wales) Act 2006, otherwise than in pursuance of that Act;
 - “**health care professional**” (“***proffesiynolyn gofal iechyd***”) means a person who is registered as a member of any profession to which section 60(2) of the Health Act 1999 [^c23886721] applies;
-- “[^key-fe951260d953062b10f0653491691ca6]**nurse**” (“***nyrs***”) means a qualified nurse or qualified midwife registered with the Nursing and Midwifery Council in accordance with article 5 of the Nursing and Midwifery Order 2001;
+- “[^c-fe951260d953062b10f0653491691ca6]**nurse**” (“***nyrs***”) means a qualified nurse or qualified midwife registered with the Nursing and Midwifery Council in accordance with article 5 of the Nursing and Midwifery Order 2001;
 - “**personal outcomes**” (“***canlyniadau personol***”)—
   - (a) in relation to an adult, means the outcomes that the adult wishes to achieve in day to day life;
   - (b) in relation to a child, means—
@@ -58,7 +58,7 @@ summary: ''
   - (a) provides primary dental services under Part 5 of the National Health Service (Wales) Act 2006, or
   - (b) provides services which correspond to services provided under Part 5 of the National Health Service (Wales) Act 2006, otherwise than in pursuance of that Act;
 - “**registered professional**” (“***proffesiynolyn cofrestredig***”) has the meaning given in paragraph 1 of Schedule 3 to the Health Professions Order 2001;
-- “[^key-f3f455b25afabb36ab32d18020b63c1a]**regulated services**” (“***gwasanaethau rheoleiddiedig***”) means care home services, domiciliary support services, secure accommodation services or residential family centre services;
+- “[^c-f3f455b25afabb36ab32d18020b63c1a]**regulated services**” (“***gwasanaethau rheoleiddiedig***”) means care home services, domiciliary support services, secure accommodation services or residential family centre services;
 - “**representative**” (“***cynrychiolydd***”) means any person having legal authority, or the consent of the individual to act on the individual's behalf;
 - “**service commissioner**” (“***comisiynydd y gwasanaeth***”) means the local authority or NHS body which is responsible for making arrangements with the provider for care and support to be provided to an individual;
 - “**service provider**” (“***darparwr gwasanaeth***”) has the same meaning as in section 3(1)(c) of the Act;
@@ -85,7 +85,7 @@ summary: ''
 
 [^c23886691]: Marginal citation: [2014 anaw 4](https://www.legislation.gov.uk/anaw/2014/4).
 
-[^key-cce57d972c0eb7083607f7304c9474c1]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/1264/regulation/1/3) omitted (1.11.2022) by virtue of [The Regulated Services (Service Providers and Responsible Individuals) (Wales) (Amendment) and (Coronavirus) (Revocation) Regulations 2022 (S.I. 2022/1074)](https://www.legislation.gov.uk/wsi/2022/1074), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1074/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2022/1074/regulation/3)
+[^c-cce57d972c0eb7083607f7304c9474c1]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/1264/regulation/1/3) omitted (1.11.2022) by virtue of [The Regulated Services (Service Providers and Responsible Individuals) (Wales) (Amendment) and (Coronavirus) (Revocation) Regulations 2022 (S.I. 2022/1074)](https://www.legislation.gov.uk/wsi/2022/1074), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1074/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2022/1074/regulation/3)
 
 [^c23886701]: Marginal citation: The definition of a “registered medical practitioner” in Schedule 1 to the [Interpretation Act 1978 (c. 30)](https://www.legislation.gov.uk/ukpga/1978/30) was substituted by [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135), Schedule 1, paragraph 10 with effect from 16 November 2009.
 
@@ -93,7 +93,7 @@ summary: ''
 
 [^c23886721]: Marginal citation: [1999 c. 8](https://www.legislation.gov.uk/ukpga/1999/8).
 
-[^key-fe951260d953062b10f0653491691ca6]: Textual amendment: Words in reg. 1(3) inserted (1.4.2020) by [The Regulation and Inspection of Social Care (Wales) Act 2016 and Regulated Services (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/389)](https://www.legislation.gov.uk/wsi/2020/389), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/389/regulation/1/2), [11](https://www.legislation.gov.uk/wsi/2020/389/regulation/11)
+[^c-fe951260d953062b10f0653491691ca6]: Textual amendment: Words in reg. 1(3) inserted (1.4.2020) by [The Regulation and Inspection of Social Care (Wales) Act 2016 and Regulated Services (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/389)](https://www.legislation.gov.uk/wsi/2020/389), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/389/regulation/1/2), [11](https://www.legislation.gov.uk/wsi/2020/389/regulation/11)
 
 [^c23886731]: Marginal citation: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56).
 
@@ -101,7 +101,7 @@ summary: ''
 
 [^c23886751]: Marginal citation: [1984 c. 24](https://www.legislation.gov.uk/ukpga/1984/24).
 
-[^key-f3f455b25afabb36ab32d18020b63c1a]: Textual amendment: Words in reg. 1(3) inserted (1.4.2019) by [The Regulated Services (Service Providers and Responsible Individuals) (Wales) (Amendment) Regulations 2019 (S.I. 2019/757)](https://www.legislation.gov.uk/wsi/2019/757), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/757/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2019/757/regulation/3)
+[^c-f3f455b25afabb36ab32d18020b63c1a]: Textual amendment: Words in reg. 1(3) inserted (1.4.2019) by [The Regulated Services (Service Providers and Responsible Individuals) (Wales) (Amendment) Regulations 2019 (S.I. 2019/757)](https://www.legislation.gov.uk/wsi/2019/757), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/757/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2019/757/regulation/3)
 
 [^c23886761]: Marginal citation: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18).
 

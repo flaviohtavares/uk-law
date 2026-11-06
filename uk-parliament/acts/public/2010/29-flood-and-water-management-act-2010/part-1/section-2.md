@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 2. “Risk”[^key-309a6991cfa98be5ddab21aa2f5b5e59][^key-06e4c882815e7ce97f91631bb6d47703][^key-522e21a73ecae077384a6171cd0ebc90]
+## 2. “Risk”[^c-309a6991cfa98be5ddab21aa2f5b5e59][^c-06e4c882815e7ce97f91631bb6d47703][^c-522e21a73ecae077384a6171cd0ebc90]
 
 *Extent: E+W*
 
@@ -35,8 +35,8 @@ summary: ''
 
 ## Annotations
 
-[^key-309a6991cfa98be5ddab21aa2f5b5e59]: Commencement: S. 2 in force at 1.9.2010 for specified purposes by [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2010/2169/article/3/2/b)
+[^c-309a6991cfa98be5ddab21aa2f5b5e59]: Commencement: S. 2 in force at 1.9.2010 for specified purposes by [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2010/2169/article/3/2/b)
 
-[^key-06e4c882815e7ce97f91631bb6d47703]: Commencement: S. 2 in force at 1.10.2010 in so far as not already in force by [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 4](https://www.legislation.gov.uk/uksi/2010/2169/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/2169/schedule)
+[^c-06e4c882815e7ce97f91631bb6d47703]: Commencement: S. 2 in force at 1.10.2010 in so far as not already in force by [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 4](https://www.legislation.gov.uk/uksi/2010/2169/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/2169/schedule)
 
-[^key-522e21a73ecae077384a6171cd0ebc90]: Modification: Ss. 1-3 applied by 2005 c. 5, s. 86B(4) (as inserted (with effect in accordance with Sch. 5 para. 9 of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2015/11/schedule/5/paragraph/1))
+[^c-522e21a73ecae077384a6171cd0ebc90]: Modification: Ss. 1-3 applied by 2005 c. 5, s. 86B(4) (as inserted (with effect in accordance with Sch. 5 para. 9 of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2015/11/schedule/5/paragraph/1))

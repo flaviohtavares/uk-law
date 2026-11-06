@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Penalties where a person fails to apply for removal from the register[^key-e9b9ffba989e812a76ac68ac0de9fb71]
+## 15. Penalties where a person fails to apply for removal from the register[^c-e9b9ffba989e812a76ac68ac0de9fb71]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ that person is liable to a penalty, to be calculated under subsection (3).
 
 ## Annotations
 
-[^key-e9b9ffba989e812a76ac68ac0de9fb71]: Commencement: S. 15 not in force at Royal Assent, see [s. 67(2)](https://www.legislation.gov.uk/asc/2025/5/section/67/2)
+[^c-e9b9ffba989e812a76ac68ac0de9fb71]: Commencement: S. 15 not in force at Royal Assent, see [s. 67(2)](https://www.legislation.gov.uk/asc/2025/5/section/67/2)

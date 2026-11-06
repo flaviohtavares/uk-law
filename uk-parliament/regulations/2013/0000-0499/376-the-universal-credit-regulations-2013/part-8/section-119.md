@@ -22,7 +22,7 @@ summary: ''
 
 (1) Subject to paragraphs (2) and (3), hardship payments are recoverable in accordance with section 71ZH of the Social Security Administration Act 1992 [^c2165974].
 
-(2)[^key-945caec686c728e4ead9538cead14624] Paragraph (1) does not apply in relation to any assessment period in which—
+(2)[^c-945caec686c728e4ead9538cead14624] Paragraph (1) does not apply in relation to any assessment period in which—
 
 - (a) the single claimant, or each joint claimant, falls within section 19 of the Act by virtue of regulation 90 (claimants subject to no work-related requirements – the earnings threshold);
 - (b) where regulation 90 applies to one of the joint claimants only, the joint claimants’ combined monthly earnings are equal to or exceed the amount of the individual threshold; or
@@ -40,4 +40,4 @@ for a period of, or more than one period where the total of those periods amount
 
 [^c2165974]: Marginal citation: [1992 c.5](https://www.legislation.gov.uk/ukpga/1992/5). Section 71ZH was inserted by section 105(1) of the [Welfare Reform Act 2012 (c.5)](https://www.legislation.gov.uk/ukpga/2012/5).
 
-[^key-945caec686c728e4ead9538cead14624]: Textual amendment: [Reg. 119(2)](https://www.legislation.gov.uk/uksi/2013/376/regulation/119/2)[(3)](https://www.legislation.gov.uk/uksi/2013/376/regulation/119/3) substituted (25.7.2016) by [The Social Security (Jobseeker's Allowance, Employment and Support Allowance and Universal Credit) (Amendment) Regulations 2016 (S.I. 2016/678)](https://www.legislation.gov.uk/uksi/2016/678), [regs. 1](https://www.legislation.gov.uk/uksi/2016/678/regulation/1), [5(11)](https://www.legislation.gov.uk/uksi/2016/678/regulation/5/11)
+[^c-945caec686c728e4ead9538cead14624]: Textual amendment: [Reg. 119(2)](https://www.legislation.gov.uk/uksi/2013/376/regulation/119/2)[(3)](https://www.legislation.gov.uk/uksi/2013/376/regulation/119/3) substituted (25.7.2016) by [The Social Security (Jobseeker's Allowance, Employment and Support Allowance and Universal Credit) (Amendment) Regulations 2016 (S.I. 2016/678)](https://www.legislation.gov.uk/uksi/2016/678), [regs. 1](https://www.legislation.gov.uk/uksi/2016/678/regulation/1), [5(11)](https://www.legislation.gov.uk/uksi/2016/678/regulation/5/11)

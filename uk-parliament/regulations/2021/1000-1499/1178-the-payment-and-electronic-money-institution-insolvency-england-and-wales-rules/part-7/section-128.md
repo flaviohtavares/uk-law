@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 128. Estimate of quantum[^key-1e458df51d7ff4f6fe15ed28ce7de99e]
+## 128. Estimate of quantum[^c-1e458df51d7ff4f6fe15ed28ce7de99e]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1e458df51d7ff4f6fe15ed28ce7de99e]: Commencement: Rule 128 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-1e458df51d7ff4f6fe15ed28ce7de99e]: Commencement: Rule 128 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

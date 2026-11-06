@@ -35,16 +35,16 @@ identifying the priorities of the Union for enforcement and control policy in th
 
 (2014/464/EU) (revoked)
 
-[^key-afe1f9e4809b2c057c5fc9cd0794ad91]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-afe1f9e4809b2c057c5fc9cd0794ad91]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-afe1f9e4809b2c057c5fc9cd0794ad91] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-afe1f9e4809b2c057c5fc9cd0794ad91] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-afe1f9e4809b2c057c5fc9cd0794ad91] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-afe1f9e4809b2c057c5fc9cd0794ad91] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-afe1f9e4809b2c057c5fc9cd0794ad91]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-afe1f9e4809b2c057c5fc9cd0794ad91]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-afe1f9e4809b2c057c5fc9cd0794ad91]: Textual amendment: Decision revoked (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2020/1542/schedule/part/2)
+[^c-afe1f9e4809b2c057c5fc9cd0794ad91]: Textual amendment: Decision revoked (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2020/1542/schedule/part/2)

@@ -33,7 +33,7 @@ WATER, ENGLAND AND WALES
 
 WATER SUPPLY, SCOTLAND
 
-The Reservoirs (Panels of Civil Engineers) (Application and Fees) (Amendment) Regulations 2005 (revoked)[^key-1e65ae95b16e78b599c4bd5ad91eb462]
+The Reservoirs (Panels of Civil Engineers) (Application and Fees) (Amendment) Regulations 2005 (revoked)[^c-1e65ae95b16e78b599c4bd5ad91eb462]
 
 Made
 
@@ -43,28 +43,28 @@ Coming into force
 
 13th February 2005
 
-[^key-1e65ae95b16e78b599c4bd5ad91eb462]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1e65ae95b16e78b599c4bd5ad91eb462]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-1e65ae95b16e78b599c4bd5ad91eb462]
+## 1. Citation and commencement[^c-1e65ae95b16e78b599c4bd5ad91eb462]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Application Fees[^key-1e65ae95b16e78b599c4bd5ad91eb462]
+## 2. Application Fees[^c-1e65ae95b16e78b599c4bd5ad91eb462]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-1e65ae95b16e78b599c4bd5ad91eb462]
+## 3. Revocation[^c-1e65ae95b16e78b599c4bd5ad91eb462]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e65ae95b16e78b599c4bd5ad91eb462]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1e65ae95b16e78b599c4bd5ad91eb462]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-1e65ae95b16e78b599c4bd5ad91eb462]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1e65ae95b16e78b599c4bd5ad91eb462]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1e65ae95b16e78b599c4bd5ad91eb462]: Textual amendment: Regulations revoked (1.1.2022) by [The Reservoirs Act (Panels of Civil Engineers) (Applications and Fees) Regulations 2021 (S.I. 2021/1362)](https://www.legislation.gov.uk/uksi/2021/1362), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1362/regulation/1), [4(1)(b)](https://www.legislation.gov.uk/uksi/2021/1362/regulation/4/1/b) (with [reg. 4(2)(3)](https://www.legislation.gov.uk/uksi/2021/1362/regulation/4/2/3))
+[^c-1e65ae95b16e78b599c4bd5ad91eb462]: Textual amendment: Regulations revoked (1.1.2022) by [The Reservoirs Act (Panels of Civil Engineers) (Applications and Fees) Regulations 2021 (S.I. 2021/1362)](https://www.legislation.gov.uk/uksi/2021/1362), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1362/regulation/1), [4(1)(b)](https://www.legislation.gov.uk/uksi/2021/1362/regulation/4/1/b) (with [reg. 4(2)(3)](https://www.legislation.gov.uk/uksi/2021/1362/regulation/4/2/3))

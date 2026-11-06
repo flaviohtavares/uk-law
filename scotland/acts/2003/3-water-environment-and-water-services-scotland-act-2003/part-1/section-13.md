@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13. River basin management plans: approval[^key-f1f0bb34f5f1554ac1bc2ccdb086c512]
+## 13. River basin management plans: approval[^c-f1f0bb34f5f1554ac1bc2ccdb086c512]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ by such time (if any) as the direction may specify.
 
 ## Annotations
 
-[^key-f1f0bb34f5f1554ac1bc2ccdb086c512]: Commencement: S. 13 in force at 14.12.2007 by [S.S.I. 2007/530](https://www.legislation.gov.uk/ssi/2007/530), [art. 2(a)](https://www.legislation.gov.uk/ssi/2007/530/article/2/a)
+[^c-f1f0bb34f5f1554ac1bc2ccdb086c512]: Commencement: S. 13 in force at 14.12.2007 by [S.S.I. 2007/530](https://www.legislation.gov.uk/ssi/2007/530), [art. 2(a)](https://www.legislation.gov.uk/ssi/2007/530/article/2/a)

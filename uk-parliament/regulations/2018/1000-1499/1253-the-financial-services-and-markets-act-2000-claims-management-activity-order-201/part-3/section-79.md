@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 79. Information and reports[^key-0867830419eb2c78477ec63018f42edb][^key-d8f7fb075814f5b9c4a74f9c76a714b0]
+## 79. Information and reports[^c-0867830419eb2c78477ec63018f42edb][^c-d8f7fb075814f5b9c4a74f9c76a714b0]
 
 *Extent: E+W+S*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0867830419eb2c78477ec63018f42edb]: Commencement: Art. 79 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
+[^c-0867830419eb2c78477ec63018f42edb]: Commencement: Art. 79 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
 
-[^key-d8f7fb075814f5b9c4a74f9c76a714b0]: Commencement: [Art. 79](https://www.legislation.gov.uk/uksi/2018/1253/article/79) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
+[^c-d8f7fb075814f5b9c4a74f9c76a714b0]: Commencement: [Art. 79](https://www.legislation.gov.uk/uksi/2018/1253/article/79) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 84. Replacement of bank liquidator by creditors[^key-e85837b2585b59b11738a5ebc2c33b31]
+## 84. Replacement of bank liquidator by creditors[^c-e85837b2585b59b11738a5ebc2c33b31]
 
 *Extent: E+W*
 
@@ -31,13 +31,13 @@ summary: ''
 > (4) The chairman of the meeting shall—
 >
 > - (a) send the certificate to the new bank liquidator,
-> - (b) send a copy of the certificate to the Bank of England and the appropriate regulator[^key-d3bc7214a78daf56d267a9a24d024431], and
+> - (b) send a copy of the certificate to the Bank of England and the appropriate regulator[^c-d3bc7214a78daf56d267a9a24d024431], and
 > - (c) file a copy of the certificate in court .
 
 ## Annotations
 
-[^key-e85837b2585b59b11738a5ebc2c33b31]: Commencement: Rule 84 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-e85837b2585b59b11738a5ebc2c33b31]: Commencement: Rule 84 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
 
 [^f00033]: Footnote: Paragraphs (3) to (5) were substituted by [S.I. 1987/1919](https://www.legislation.gov.uk/uksi/1987/1919).
 
-[^key-d3bc7214a78daf56d267a9a24d024431]: Textual amendment: Words in [Rules](https://www.legislation.gov.uk/uksi/2009/356) substituted (1.4.2013) by virtue of [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 163(f)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/163/f)
+[^c-d3bc7214a78daf56d267a9a24d024431]: Textual amendment: Words in [Rules](https://www.legislation.gov.uk/uksi/2009/356) substituted (1.4.2013) by virtue of [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 163(f)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/163/f)

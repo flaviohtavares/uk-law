@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 108. Voluntary arrangements of insolvent partnerships[^key-e10e616e441e2bcac0d3cdf0b4e113f6]
+## 108. Voluntary arrangements of insolvent partnerships[^c-e10e616e441e2bcac0d3cdf0b4e113f6]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ In Article 4 of the 1995 Order, in paragraph (3)—
 
 ## Annotations
 
-[^key-e10e616e441e2bcac0d3cdf0b4e113f6]: Commencement: S. 108 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-e10e616e441e2bcac0d3cdf0b4e113f6]: Commencement: S. 108 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

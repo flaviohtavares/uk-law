@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 134B. Quality contracts: application of TUPE[^key-c05adb8597f2acc398b3fefbd54794ff][^key-88f80460dd8db1408ca2aa5d13dd6426]
+## 134B. Quality contracts: application of TUPE[^c-c05adb8597f2acc398b3fefbd54794ff][^c-88f80460dd8db1408ca2aa5d13dd6426]
 
 *Extent: E+W*
 
@@ -88,6 +88,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c05adb8597f2acc398b3fefbd54794ff]: Modification: Ss. 112-159: transfer of functions (5.2.2025) by [The Hull and East Yorkshire Combined Authority Order 2025 (S.I. 2025/113)](https://www.legislation.gov.uk/uksi/2025/113), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/113/article/1/2), [7](https://www.legislation.gov.uk/uksi/2025/113/article/7)
+[^c-c05adb8597f2acc398b3fefbd54794ff]: Modification: Ss. 112-159: transfer of functions (5.2.2025) by [The Hull and East Yorkshire Combined Authority Order 2025 (S.I. 2025/113)](https://www.legislation.gov.uk/uksi/2025/113), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/113/article/1/2), [7](https://www.legislation.gov.uk/uksi/2025/113/article/7)
 
-[^key-88f80460dd8db1408ca2aa5d13dd6426]: Textual amendment: S. 134B inserted (26.11.2008 for specified purposes, 11.1.2010 for E. in so far as not already in force) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [ss. 44(1)](https://www.legislation.gov.uk/ukpga/2008/26/section/44/1), [134(1)(c)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/1/c)[(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4); [S.I. 2009/3242](https://www.legislation.gov.uk/uksi/2009/3242), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2009/3242/article/2/1/a)
+[^c-88f80460dd8db1408ca2aa5d13dd6426]: Textual amendment: S. 134B inserted (26.11.2008 for specified purposes, 11.1.2010 for E. in so far as not already in force) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [ss. 44(1)](https://www.legislation.gov.uk/ukpga/2008/26/section/44/1), [134(1)(c)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/1/c)[(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4); [S.I. 2009/3242](https://www.legislation.gov.uk/uksi/2009/3242), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2009/3242/article/2/1/a)

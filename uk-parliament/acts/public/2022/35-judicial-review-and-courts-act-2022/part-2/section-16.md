@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Documents to be served in accordance with Criminal Procedure Rules[^key-3f4f1ea03b5adf39f3eb069dad3a8465]
+## 16. Documents to be served in accordance with Criminal Procedure Rules[^c-3f4f1ea03b5adf39f3eb069dad3a8465]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 1 amends various provisions to do with the service or delivery of docum
 
 ## Annotations
 
-[^key-3f4f1ea03b5adf39f3eb069dad3a8465]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2022/35/section/16) in force at 28.6.2022, see [s. 51(3)(b)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/3/b)
+[^c-3f4f1ea03b5adf39f3eb069dad3a8465]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2022/35/section/16) in force at 28.6.2022, see [s. 51(3)(b)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/3/b)

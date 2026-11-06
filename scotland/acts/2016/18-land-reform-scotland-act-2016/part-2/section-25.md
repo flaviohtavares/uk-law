@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 25. Tenant Farming Commissioner: delegation of functions[^key-10bc9b94c9f48818f7faadc68f97576e]
+## 25. Tenant Farming Commissioner: delegation of functions[^c-10bc9b94c9f48818f7faadc68f97576e]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-10bc9b94c9f48818f7faadc68f97576e]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2016/18/section/25) in force at 1.4.2017 by [S.S.I. 2016/250](https://www.legislation.gov.uk/ssi/2016/250), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2016/250/regulation/2/3), [sch. 2](https://www.legislation.gov.uk/ssi/2016/250/schedule/2)
+[^c-10bc9b94c9f48818f7faadc68f97576e]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2016/18/section/25) in force at 1.4.2017 by [S.S.I. 2016/250](https://www.legislation.gov.uk/ssi/2016/250), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2016/250/regulation/2/3), [sch. 2](https://www.legislation.gov.uk/ssi/2016/250/schedule/2)

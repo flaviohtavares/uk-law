@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 42. Appeals to Social Security Appeal Tribunal[^key-5f2f5f53a59f1965953ae30104a5596a]
+## 42. Appeals to Social Security Appeal Tribunal[^c-5f2f5f53a59f1965953ae30104a5596a]
 
 *Extent: N.I.*
 
@@ -32,6 +32,6 @@ Parts I and II and in Part III regulations 22(1) to (3) and 23 and 24 of the Soc
 
 ## Annotations
 
-[^key-5f2f5f53a59f1965953ae30104a5596a]: Commencement: Reg. 42 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-5f2f5f53a59f1965953ae30104a5596a]: Commencement: Reg. 42 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
 [^f00044]: Footnote: [S.R. 1995 No. 293](https://www.legislation.gov.uk/nisr/1995/293)

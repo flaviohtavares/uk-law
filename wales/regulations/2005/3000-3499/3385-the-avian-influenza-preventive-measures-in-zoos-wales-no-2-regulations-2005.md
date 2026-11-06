@@ -43,11 +43,11 @@ Coming into force
 
 The National Assembly for Wales, is designated for the purposes of section 2(2) of the European Communities Act 1972[^f00001] in relation to the common agricultural policy of the European Community[^f00002]. Exercising the powers conferred upon it by that section, the National Assembly for Wales makes the following Regulations:
 
-## 1. Title, commencement and application[^key-727c1c74ca4b287361208b3fcaf8be04]
+## 1. Title, commencement and application[^c-727c1c74ca4b287361208b3fcaf8be04]
 
 The title of these Regulations is the Avian Influenza (Preventive Measures in Zoos) (Wales)(No2) Regulations 2005; they apply in relation to Wales and come into force on 9 December 2005.
 
-## 2. Interpretation[^key-5703d2abfe81544d8468c22715614916]
+## 2. Interpretation[^c-5703d2abfe81544d8468c22715614916]
 
 In these Regulations —
 
@@ -65,13 +65,13 @@ In these Regulations —
   - (i) a permanent establishment where animals of wild species are kept for exhibition to the public for seven or more days a year, with the exception of circuses and pet shops; and
   - (ii) an "approved body, institute or centre", as defined in point (c) of Article 2(1) of Council Directive [92/65/EC](https://www.legislation.gov.uk/european/directive/1992/0065) laying down animal health requirements governing trade in and imports into the Community of animals, semen, ova and embryos not subject to animal health requirements laid down in specific Community rules referred to in Annex A(I) to Directive [90/425/EEC](https://www.legislation.gov.uk/european/directive/1990/0425)[^f00005].
 
-## 3. Licences, notices and declarations[^key-34060fe7d320defe6cc12b58646c9e65]
+## 3. Licences, notices and declarations[^c-34060fe7d320defe6cc12b58646c9e65]
 
 (1) Licences, notices and declarations granted under these Regulations must be in writing, may be subject to conditions and may be amended, suspended or revoked in writing at any time.
 
 (2) The National Assembly must take such steps as it considers necessary to ensure that licences, notices and declarations are brought to the attention of those who may be affected by them and, in particular, must ensure that the extent of any zone declared under these Regulations, the nature of the restrictions and requirements applicable within it and the dates of its declaration and withdrawal (and any suspension of it) are publicised.
 
-## 4. Risk assessment and imposition of restrictions[^key-bffdad73c9aeb494d30968bd58b1ff22]
+## 4. Risk assessment and imposition of restrictions[^c-bffdad73c9aeb494d30968bd58b1ff22]
 
 (1) The National Assembly must evaluate the risk of the transmission of avian influenza virus (in particular virus of the sub-type H5N1) from wild birds to susceptible birds in zoos, taking into account the criteria and risk factors set out in Annex I to the Commission Decision.
 
@@ -96,13 +96,13 @@ In these Regulations —
 
 (6) Any person the subject of a declaration or a notice under these Regulations must comply with the declaration or notice, except to the extent that he or she is authorised to do otherwise by a licence issued by a veterinary inspector.
 
-## 5. Vaccination of Susceptible Birds[^key-54a7e9a6e7d0cf1a30ed7b4cd7495257]
+## 5. Vaccination of Susceptible Birds[^c-54a7e9a6e7d0cf1a30ed7b4cd7495257]
 
 (1) Following a risk assessment, the National Assembly must, if it considers it necessary to reduce the risk of transmission of avian influenza, vaccinate or require the vaccination of susceptible birds in zoos.
 
 (2) If vaccination is not carried out by the National Assembly, it must be carried out in accordance with instructions issued by it.
 
-## 6. Powers of inspectors[^key-e266cb90395797b33a3bc84775bcfa5b]
+## 6. Powers of inspectors[^c-e266cb90395797b33a3bc84775bcfa5b]
 
 (1) A veterinary inspector or an inspector may enter any premises for the purpose of ascertaining whether these Regulations (or any declaration, notice or licence under them) are being or have been complied with and may —
 
@@ -115,7 +115,7 @@ In these Regulations —
 
 (3) If a veterinary inspector or an inspector enters any unoccupied premises he or she must leave them as effectively secured against unauthorised entry as he or she found them.
 
-## 7. Enforcement and offences[^key-08882395ddc89e544d6e9f8051b537bd]
+## 7. Enforcement and offences[^c-08882395ddc89e544d6e9f8051b537bd]
 
 (1) The following provisions of the Act apply as if these Regulations were an Order made under the Act—
 
@@ -145,7 +145,7 @@ he or she, as well as the body corporate, is guilty of the offence and liable to
 
 (6) The National Assembly may direct, in relation to cases of a particular description or a particular case, that any duty imposed on a local authority under paragraph (5) is to be discharged by the National Assembly and not by the local authority.
 
-## 8. Powers of inspectors in case of default[^key-18cb6fb29b239df53252ca56851e0563]
+## 8. Powers of inspectors in case of default[^c-18cb6fb29b239df53252ca56851e0563]
 
 (1) If a person fails to comply with a requirement of these Regulations or of a declaration, notice or licence under them, a veterinary inspector or an inspector may take any steps he or she considers necessary to ensure the requirement is met, including —
 
@@ -156,7 +156,7 @@ he or she, as well as the body corporate, is guilty of the offence and liable to
 
 (3) The person in default must reimburse any reasonable expenses incurred by the National Assembly or the local authority in taking such steps and any such reimbursement is recoverable summarily.
 
-## 9. Revocation of The Avian Influenza (Preventive Measures in Zoos)(Wales) Regulations 2005[^key-52363d36d83a5dc1fd2731882cffe673]
+## 9. Revocation of The Avian Influenza (Preventive Measures in Zoos)(Wales) Regulations 2005[^c-52363d36d83a5dc1fd2731882cffe673]
 
 The Avian Influenza (Preventive Measures in Zoos)(Wales) Regulations 2005[^f00006] are revoked.
 
@@ -192,9 +192,9 @@ A regulatory appraisal has not been prepared in respect of these Regulations.
 
 [^f00002]: Footnote: S.I. [2005/2766](https://www.legislation.gov.uk/uksi/2005/2766).
 
-[^key-727c1c74ca4b287361208b3fcaf8be04]: Commencement: Reg. 1 in force at 9.12.2005, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3385/regulation/1)
+[^c-727c1c74ca4b287361208b3fcaf8be04]: Commencement: Reg. 1 in force at 9.12.2005, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3385/regulation/1)
 
-[^key-5703d2abfe81544d8468c22715614916]: Commencement: Reg. 2 in force at 9.12.2005, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3385/regulation/1)
+[^c-5703d2abfe81544d8468c22715614916]: Commencement: Reg. 2 in force at 9.12.2005, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3385/regulation/1)
 
 [^f00003]: Footnote: [1981, c. 22](https://www.legislation.gov.uk/ukpga/1981/22).
 
@@ -202,19 +202,19 @@ A regulatory appraisal has not been prepared in respect of these Regulations.
 
 [^f00005]: Footnote: OJ No L268, 14.9.1992, p.54, as last amended by Council Regulation [(EC) No 1398/2003](https://www.legislation.gov.uk/european/regulation/2003/1398) (OJ No L198, 6.8.2003, p.3.).
 
-[^key-34060fe7d320defe6cc12b58646c9e65]: Commencement: Reg. 3 in force at 9.12.2005, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3385/regulation/1)
+[^c-34060fe7d320defe6cc12b58646c9e65]: Commencement: Reg. 3 in force at 9.12.2005, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3385/regulation/1)
 
-[^key-bffdad73c9aeb494d30968bd58b1ff22]: Commencement: Reg. 4 in force at 9.12.2005, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3385/regulation/1)
+[^c-bffdad73c9aeb494d30968bd58b1ff22]: Commencement: Reg. 4 in force at 9.12.2005, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3385/regulation/1)
 
-[^key-54a7e9a6e7d0cf1a30ed7b4cd7495257]: Commencement: Reg. 5 in force at 9.12.2005, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3385/regulation/1)
+[^c-54a7e9a6e7d0cf1a30ed7b4cd7495257]: Commencement: Reg. 5 in force at 9.12.2005, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3385/regulation/1)
 
-[^key-e266cb90395797b33a3bc84775bcfa5b]: Commencement: Reg. 6 in force at 9.12.2005, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3385/regulation/1)
+[^c-e266cb90395797b33a3bc84775bcfa5b]: Commencement: Reg. 6 in force at 9.12.2005, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3385/regulation/1)
 
-[^key-08882395ddc89e544d6e9f8051b537bd]: Commencement: Reg. 7 in force at 9.12.2005, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3385/regulation/1)
+[^c-08882395ddc89e544d6e9f8051b537bd]: Commencement: Reg. 7 in force at 9.12.2005, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3385/regulation/1)
 
-[^key-18cb6fb29b239df53252ca56851e0563]: Commencement: Reg. 8 in force at 9.12.2005, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3385/regulation/1)
+[^c-18cb6fb29b239df53252ca56851e0563]: Commencement: Reg. 8 in force at 9.12.2005, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3385/regulation/1)
 
-[^key-52363d36d83a5dc1fd2731882cffe673]: Commencement: Reg. 9 in force at 9.12.2005, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3385/regulation/1)
+[^c-52363d36d83a5dc1fd2731882cffe673]: Commencement: Reg. 9 in force at 9.12.2005, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3385/regulation/1)
 
 [^f00006]: Footnote: S.I. [2005/2984 (W.218)](https://www.legislation.gov.uk/wsi/2005/2984).
 

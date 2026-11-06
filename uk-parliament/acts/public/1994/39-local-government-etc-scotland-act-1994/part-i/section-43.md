@@ -47,8 +47,8 @@ the Secretary of State may issue guidance to an authority as to the exercise of 
 
 (4) Before issuing guidance under this section the Secretary of State shall consult
 
-- (a)[^key-96797887490d3ad0e323aeebe68e5868] the Common Services Agency for the Scottish Health Service in respect of the provision by them of an ambulance service by virtue of the National Health Service (Functions of the [^c12266051]Common Services Agency) (Scotland) Order 1974
-- (b)[^key-816f867ae40a918a1f0da0a33a5f4432] the chief constable of the Police Service of Scotland,
+- (a)[^c-96797887490d3ad0e323aeebe68e5868] the Common Services Agency for the Scottish Health Service in respect of the provision by them of an ambulance service by virtue of the National Health Service (Functions of the [^c12266051]Common Services Agency) (Scotland) Order 1974
+- (b)[^c-816f867ae40a918a1f0da0a33a5f4432] the chief constable of the Police Service of Scotland,
 - (c) the Scottish Fire and Rescue Service, and
 - (d) the authorities for the areas to which the guidance relates.
 
@@ -88,11 +88,11 @@ the Secretary of State may, after consulting the authority, direct the authority
 
 [^c12266041]: Marginal citation: [1984 c. 54](https://www.legislation.gov.uk/ukpga/1984/54).
 
-[^key-96797887490d3ad0e323aeebe68e5868]: Textual amendment: Words in s. 43(4) become s. 43(4)(a) (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 75(a)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/75/a); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-96797887490d3ad0e323aeebe68e5868]: Textual amendment: Words in s. 43(4) become s. 43(4)(a) (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 75(a)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/75/a); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
 [^c12266051]: Marginal citation: [S.I. 1974/467](https://www.legislation.gov.uk/uksi/1974/467).
 
-[^key-816f867ae40a918a1f0da0a33a5f4432]: Textual amendment: Words in s. 43(4) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 75(b)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/75/b); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-816f867ae40a918a1f0da0a33a5f4432]: Textual amendment: Words in s. 43(4) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 75(b)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/75/b); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
 [^c12266071]: Marginal citation: [1984 c. 27](https://www.legislation.gov.uk/ukpga/1984/27).
 

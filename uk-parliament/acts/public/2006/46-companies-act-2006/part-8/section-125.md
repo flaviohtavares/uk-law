@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-1941511cdcbf18b3079a8024cb2cb2d5] If a company’s register of members—
+(1)[^c-1941511cdcbf18b3079a8024cb2cb2d5] If a company’s register of members—
 
 - (a) does not include information that it is required to include, or
 - (b) includes information that it is not required to include,
@@ -35,4 +35,4 @@ the person aggrieved, or any member of the company, or the company, may apply to
 
 ## Annotations
 
-[^key-1941511cdcbf18b3079a8024cb2cb2d5]: Textual amendment: [S. 125(1)](https://www.legislation.gov.uk/ukpga/2006/46/section/125/1) substituted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 47](https://www.legislation.gov.uk/ukpga/2023/56/section/47), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z8)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z8)
+[^c-1941511cdcbf18b3079a8024cb2cb2d5]: Textual amendment: [S. 125(1)](https://www.legislation.gov.uk/ukpga/2006/46/section/125/1) substituted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 47](https://www.legislation.gov.uk/ukpga/2023/56/section/47), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z8)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z8)

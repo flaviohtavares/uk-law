@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Certain proposals to establish new schools: publication requirements etc[^key-8ed2744777c6e743d2507bac72f06256][^key-23e6807149650e232111cc840b8e11c9]
+## 66. Certain proposals to establish new schools: publication requirements etc[^c-8ed2744777c6e743d2507bac72f06256][^c-23e6807149650e232111cc840b8e11c9]
 
 *Extent: E+W*
 
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8ed2744777c6e743d2507bac72f06256]: Commencement: S. 66 not in force at Royal Assent, see [s. 78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
+[^c-8ed2744777c6e743d2507bac72f06256]: Commencement: S. 66 not in force at Royal Assent, see [s. 78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
 
-[^key-23e6807149650e232111cc840b8e11c9]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2026/21/section/66) in force at 1.9.2026 by [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 5(d)](https://www.legislation.gov.uk/uksi/2026/803/regulation/5/d)
+[^c-23e6807149650e232111cc840b8e11c9]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2026/21/section/66) in force at 1.9.2026 by [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 5(d)](https://www.legislation.gov.uk/uksi/2026/803/regulation/5/d)

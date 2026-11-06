@@ -46,7 +46,7 @@ Coming into force
 
 6th March 2019
 
-The Secretary of State for International Trade, in exercise of the powers conferred by sections 13, 32(7) and (8), 51 and 56 of, and Schedule 5 to, the Taxation (Cross-border Trade) Act 2018 [^c23757631], makes the following Regulations.[^key-c7ac55f6dfd72923300245ebf7e8ece5]
+The Secretary of State for International Trade, in exercise of the powers conferred by sections 13, 32(7) and (8), 51 and 56 of, and Schedule 5 to, the Taxation (Cross-border Trade) Act 2018 [^c23757631], makes the following Regulations.[^c-c7ac55f6dfd72923300245ebf7e8ece5]
 
 ## Contents
 
@@ -158,26 +158,26 @@ The Secretary of State for International Trade, in exercise of the powers confer
 - [Section 42 — Reinstatement of a definitive safeguarding remedy](part-7/section-42.md)
 - [Section 42ZA — Power to request assistance etc from TRA](part-7/section-42za.md)
 
-### PART 7A — Investigation in light of an international dispute decision[^key-00f86e4c54f9730392b505827865b475]
+### PART 7A — Investigation in light of an international dispute decision[^c-00f86e4c54f9730392b505827865b475]
 
-#### General[^key-00f86e4c54f9730392b505827865b475]
+#### General[^c-00f86e4c54f9730392b505827865b475]
 
 - [Section 42A — Investigation in light of an international dispute decision](part-7a/section-42a.md)
 - [Section 42B — Suspension of a definitive safeguarding remedy](part-7a/section-42b.md)
 
-#### Investigation[^key-00f86e4c54f9730392b505827865b475]
+#### Investigation[^c-00f86e4c54f9730392b505827865b475]
 
 - [Section 42C — Initiation](part-7a/section-42c.md)
 - [Section 42D — Conduct](part-7a/section-42d.md)
 - [Section 42E — Determination](part-7a/section-42e.md)
 
-#### Determination[^key-00f86e4c54f9730392b505827865b475]
+#### Determination[^c-00f86e4c54f9730392b505827865b475]
 
 - [Section 42F — Determination to maintain](part-7a/section-42f.md)
 - [Section 42G — Determination to vary](part-7a/section-42g.md)
 - [Section 42H — Determination to revoke](part-7a/section-42h.md)
 
-#### Recommendation[^key-00f86e4c54f9730392b505827865b475]
+#### Recommendation[^c-00f86e4c54f9730392b505827865b475]
 
 - [Section 42I — Powers of the Secretary of State in relation to TRA’s recommendation](part-7a/section-42i.md)
 - [Section 42J — Power to request assistance etc from TRA](part-7a/section-42j.md)
@@ -212,7 +212,7 @@ The Secretary of State for International Trade, in exercise of the powers confer
 
 *Extent: E+W+S+N.I.*
 
-#### CHAPTER 1 — General modifications[^key-8ff86097c07c4c992129779a47dfdc49]
+#### CHAPTER 1 — General modifications[^c-8ff86097c07c4c992129779a47dfdc49]
 
 *Extent: E+W+S+N.I.*
 
@@ -309,11 +309,11 @@ A copy of the Explanatory Memorandum is published alongside this instrument on w
 
 [^c23757631]: Marginal citation: [2018 c.22](https://www.legislation.gov.uk/ukpga/2018/22).
 
-[^key-c7ac55f6dfd72923300245ebf7e8ece5]: Modification: Regulations modified (30.6.2021 at 6.00 p.m.) by [The Trade Remedies (Extension of Tariff Rate Quota) (EU Exit) Regulations 2021 (S.I. 2021/783)](https://www.legislation.gov.uk/uksi/2021/783), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/783/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2021/783/regulation/4)
+[^c-c7ac55f6dfd72923300245ebf7e8ece5]: Modification: Regulations modified (30.6.2021 at 6.00 p.m.) by [The Trade Remedies (Extension of Tariff Rate Quota) (EU Exit) Regulations 2021 (S.I. 2021/783)](https://www.legislation.gov.uk/uksi/2021/783), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/783/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2021/783/regulation/4)
 
-[^key-00f86e4c54f9730392b505827865b475]: Textual amendment: Pt. 7A inserted (1.3.2020) by [The Trade Remedies (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/99)](https://www.legislation.gov.uk/uksi/2020/99), [regs. 1](https://www.legislation.gov.uk/uksi/2020/99/regulation/1), [10](https://www.legislation.gov.uk/uksi/2020/99/regulation/10)
+[^c-00f86e4c54f9730392b505827865b475]: Textual amendment: Pt. 7A inserted (1.3.2020) by [The Trade Remedies (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/99)](https://www.legislation.gov.uk/uksi/2020/99), [regs. 1](https://www.legislation.gov.uk/uksi/2020/99/regulation/1), [10](https://www.legislation.gov.uk/uksi/2020/99/regulation/10)
 
-[^key-8ff86097c07c4c992129779a47dfdc49]: Commencement: Pt. 10 Ch. 1 in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)
+[^c-8ff86097c07c4c992129779a47dfdc49]: Commencement: Pt. 10 Ch. 1 in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)
 
 [^c23757671]: Marginal citation: [2018 c.22](https://www.legislation.gov.uk/ukpga/2018/22)
 

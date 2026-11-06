@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 13. Sums specified for child benefit[^key-04b8963a0bf28a3bcb0d95ea0327e30a]
+## 13. Sums specified for child benefit[^c-04b8963a0bf28a3bcb0d95ea0327e30a]
 
 *Extent: N.I.*
 
@@ -30,6 +30,6 @@ In regulation 2 of the Child Benefit and Social Security (Fixing and Adjustment 
 
 ## Annotations
 
-[^key-04b8963a0bf28a3bcb0d95ea0327e30a]: Commencement: Art. 13 in operation at 8.4.1996, see [art. 1(1)(d)](https://www.legislation.gov.uk/nisr/1996/73/article/1/1/d)
+[^c-04b8963a0bf28a3bcb0d95ea0327e30a]: Commencement: Art. 13 in operation at 8.4.1996, see [art. 1(1)(d)](https://www.legislation.gov.uk/nisr/1996/73/article/1/1/d)
 
 [^f00022]: Footnote: [S.R. 1976 No. 223](https://www.legislation.gov.uk/nisr/1976/223); relevant amending provisions are [S.R. 1977 No. 248](https://www.legislation.gov.uk/nisr/1977/248), [S.R. 1980 No. 37](https://www.legislation.gov.uk/nisr/1980/37), [S.R. 1991 No. 82](https://www.legislation.gov.uk/nisr/1991/82), [S.R. 1993 No. 169](https://www.legislation.gov.uk/nisr/1993/169) and [S.R. 1995 No. 71](https://www.legislation.gov.uk/nisr/1995/71)

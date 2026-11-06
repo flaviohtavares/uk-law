@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.15. Standard contents of notice relating to the office of housing administrator[^key-dd7a8dd3aecc19573e5dbf7776d876d3]
+## 7.15. Standard contents of notice relating to the office of housing administrator[^c-dd7a8dd3aecc19573e5dbf7776d876d3]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ A notice relating to the office of the housing administrator must also identify 
 
 ## Annotations
 
-[^key-dd7a8dd3aecc19573e5dbf7776d876d3]: Commencement: Rule 7.15 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-dd7a8dd3aecc19573e5dbf7776d876d3]: Commencement: Rule 7.15 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

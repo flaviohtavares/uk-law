@@ -20,15 +20,15 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-8e03d4203ed041b6f789f41a44c17301][^key-1fd8d586dbb6014ab26e4b7120bd069d] Part 2 of the Children Act 2004 (c. 31) (children's services in England) is amended as set out in subsections (2) to (5).
+(1)[^c-8e03d4203ed041b6f789f41a44c17301][^c-1fd8d586dbb6014ab26e4b7120bd069d] Part 2 of the Children Act 2004 (c. 31) (children's services in England) is amended as set out in subsections (2) to (5).
 
-(2)[^key-8e03d4203ed041b6f789f41a44c17301][^key-1fd8d586dbb6014ab26e4b7120bd069d] After section 12 insert—
+(2)[^c-8e03d4203ed041b6f789f41a44c17301][^c-1fd8d586dbb6014ab26e4b7120bd069d] After section 12 insert—
 
 > **Children's Trust Boards**
 >
 > **12A. Establishment of CTBs**
 >
-> (1) Arrangements made by a local authority[^key-302f07392b9ca5dbb1ff16b8e47bcc4d] in England under section 10 must include arrangements for the establishment of a Children's Trust Board for their area.
+> (1) Arrangements made by a local authority[^c-302f07392b9ca5dbb1ff16b8e47bcc4d] in England under section 10 must include arrangements for the establishment of a Children's Trust Board for their area.
 >
 > (2) A Children's Trust Board must include a representative of each of the following—
 >
@@ -94,7 +94,7 @@ summary: ''
 > - (b) a function of that person or body, or
 > - (c) a person in respect of whom a function is exercisable by that person or body.
 
-(3)[^key-8e03d4203ed041b6f789f41a44c17301][^key-1fd8d586dbb6014ab26e4b7120bd069d] For section 17 substitute—
+(3)[^c-8e03d4203ed041b6f789f41a44c17301][^c-1fd8d586dbb6014ab26e4b7120bd069d] For section 17 substitute—
 
 > **17. Children and young people's plans**
 >
@@ -127,15 +127,15 @@ summary: ''
 > - (a) monitor the extent to which the persons and bodies whose strategy for co-operation is set out in the plan are acting in accordance with the plan;
 > - (b) prepare and publish an annual report about the extent to which, during the year to which the report relates, those persons and bodies have acted in accordance with the plan.
 
-(4)[^key-5c9e79459e62e83182ccaaaf84eeddc7] In section 18(2) (functions of local authority[^key-d6de4b14d2533689f648710c6d588abb] exercisable by director of children's services) in paragraph (d) for “and 17” substitute “ , 12C, 12D and 17A ”.
+(4)[^c-5c9e79459e62e83182ccaaaf84eeddc7] In section 18(2) (functions of local authority[^c-d6de4b14d2533689f648710c6d588abb] exercisable by director of children's services) in paragraph (d) for “and 17” substitute “ , 12C, 12D and 17A ”.
 
-(5)[^key-5c9e79459e62e83182ccaaaf84eeddc7] In section 23(3) (sections 20 to 22: meaning of “children's services”) in paragraph (b) for “13” substitute “ 12B ”.
+(5)[^c-5c9e79459e62e83182ccaaaf84eeddc7] In section 23(3) (sections 20 to 22: meaning of “children's services”) in paragraph (b) for “13” substitute “ 12B ”.
 
-(6)[^key-5c9e79459e62e83182ccaaaf84eeddc7] In section 50(2) of the Children Act 2004 (c. 31) (intervention: relevant functions) in paragraph (c) for “and 17” substitute “ , 12C, 12D and 17A ”.
+(6)[^c-5c9e79459e62e83182ccaaaf84eeddc7] In section 50(2) of the Children Act 2004 (c. 31) (intervention: relevant functions) in paragraph (c) for “and 17” substitute “ , 12C, 12D and 17A ”.
 
-(7)[^key-5c9e79459e62e83182ccaaaf84eeddc7] In section 66(3) of that Act (regulations and orders subject to affirmative procedure) after “12” insert “ , 12B(1)(b) ”.
+(7)[^c-5c9e79459e62e83182ccaaaf84eeddc7] In section 66(3) of that Act (regulations and orders subject to affirmative procedure) after “12” insert “ , 12B(1)(b) ”.
 
-(8)[^key-5c9e79459e62e83182ccaaaf84eeddc7] In section 47A of the School Standards and Framework Act 1998 (schools forums)—
+(8)[^c-5c9e79459e62e83182ccaaaf84eeddc7] In section 47A of the School Standards and Framework Act 1998 (schools forums)—
 
 - (a) after subsection (3) insert—
 
@@ -147,9 +147,9 @@ summary: ''
   > (10) In this section—
   >
   > - (a) a “**children and young people's plan**” means a plan published by a Children's Trust Board under section 17 of the Children Act 2004;
-  > - (b) “**the local Children's Trust Board**”, in relation to a schools forum, is the Children's Trust Board established by arrangements made under section 10 of that Act by the relevant authority [^key-e9a3275085f408e99e9c239cc039992b]....
+  > - (b) “**the local Children's Trust Board**”, in relation to a schools forum, is the Children's Trust Board established by arrangements made under section 10 of that Act by the relevant authority [^c-e9a3275085f408e99e9c239cc039992b]....
 
-(9)[^key-5c9e79459e62e83182ccaaaf84eeddc7] In section 21 of the Education Act 2002 (c. 32)—
+(9)[^c-5c9e79459e62e83182ccaaaf84eeddc7] In section 21 of the Education Act 2002 (c. 32)—
 
 - (a) in subsection (9) for paragraph (a) (but not the “and” immediately after it) substitute—
 
@@ -159,22 +159,22 @@ summary: ''
 
 - (b) after subsection (9) insert—
 
-  > (10) In subsection (9)(a), “**the relevant Children's Trust Board**” means the Children's Trust Board established by arrangements made under section 10 of the Children Act 2004 by the local authority[^key-539a148a152b679b0b2f5402f58a05e0] [^key-0871c8b282e2bed02003beef440fba38]....
+  > (10) In subsection (9)(a), “**the relevant Children's Trust Board**” means the Children's Trust Board established by arrangements made under section 10 of the Children Act 2004 by the local authority[^c-539a148a152b679b0b2f5402f58a05e0] [^c-0871c8b282e2bed02003beef440fba38]....
 
 ## Annotations
 
-[^key-8e03d4203ed041b6f789f41a44c17301]: Commencement: S. 194(1)(2)(3) in force at 26.2.2010 for specified purposes by [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 2](https://www.legislation.gov.uk/uksi/2010/303/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/303/schedule/1) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2010/303/article/9))
+[^c-8e03d4203ed041b6f789f41a44c17301]: Commencement: S. 194(1)(2)(3) in force at 26.2.2010 for specified purposes by [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 2](https://www.legislation.gov.uk/uksi/2010/303/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/303/schedule/1) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2010/303/article/9))
 
-[^key-1fd8d586dbb6014ab26e4b7120bd069d]: Commencement: S. 194(1)-(3) in force at 1.4.2010 in so far as not already in force by [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 3](https://www.legislation.gov.uk/uksi/2010/303/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/303/schedule/2) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2010/303/article/9))
+[^c-1fd8d586dbb6014ab26e4b7120bd069d]: Commencement: S. 194(1)-(3) in force at 1.4.2010 in so far as not already in force by [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 3](https://www.legislation.gov.uk/uksi/2010/303/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/303/schedule/2) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2010/303/article/9))
 
-[^key-302f07392b9ca5dbb1ff16b8e47bcc4d]: Textual amendment: Words in s. 194(2) substituted (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 16(7)(a)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/16/7/a) (with [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2010/1158/schedule/4/paragraph/2))
+[^c-302f07392b9ca5dbb1ff16b8e47bcc4d]: Textual amendment: Words in s. 194(2) substituted (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 16(7)(a)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/16/7/a) (with [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2010/1158/schedule/4/paragraph/2))
 
-[^key-5c9e79459e62e83182ccaaaf84eeddc7]: Commencement: S. 194(4)-(9) in force at 1.4.2010 by [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 3](https://www.legislation.gov.uk/uksi/2010/303/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/303/schedule/2) (with [arts. 9-12](https://www.legislation.gov.uk/uksi/2010/303/article/9))
+[^c-5c9e79459e62e83182ccaaaf84eeddc7]: Commencement: S. 194(4)-(9) in force at 1.4.2010 by [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 3](https://www.legislation.gov.uk/uksi/2010/303/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/303/schedule/2) (with [arts. 9-12](https://www.legislation.gov.uk/uksi/2010/303/article/9))
 
-[^key-d6de4b14d2533689f648710c6d588abb]: Textual amendment: Words in s. 194(4) substituted (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 16(7)(b)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/16/7/b) (with [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2010/1158/schedule/4/paragraph/2))
+[^c-d6de4b14d2533689f648710c6d588abb]: Textual amendment: Words in s. 194(4) substituted (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 16(7)(b)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/16/7/b) (with [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2010/1158/schedule/4/paragraph/2))
 
-[^key-e9a3275085f408e99e9c239cc039992b]: Textual amendment: Words in s. 194(8)(b) repealed (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 16(7)(c)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/16/7/c), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2010/1158/schedule/3/part/1) (with [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2010/1158/schedule/4/paragraph/2))
+[^c-e9a3275085f408e99e9c239cc039992b]: Textual amendment: Words in s. 194(8)(b) repealed (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 16(7)(c)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/16/7/c), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2010/1158/schedule/3/part/1) (with [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2010/1158/schedule/4/paragraph/2))
 
-[^key-539a148a152b679b0b2f5402f58a05e0]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158) , [Sch. 2 para. 16(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/16/2)
+[^c-539a148a152b679b0b2f5402f58a05e0]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158) , [Sch. 2 para. 16(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/16/2)
 
-[^key-0871c8b282e2bed02003beef440fba38]: Textual amendment: Words in s. 194(9)(b) repealed (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 16(7)(d)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/16/7/d), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2010/1158/schedule/3/part/1) (with [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2010/1158/schedule/4/paragraph/2))
+[^c-0871c8b282e2bed02003beef440fba38]: Textual amendment: Words in s. 194(9)(b) repealed (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 16(7)(d)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/16/7/d), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2010/1158/schedule/3/part/1) (with [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2010/1158/schedule/4/paragraph/2))

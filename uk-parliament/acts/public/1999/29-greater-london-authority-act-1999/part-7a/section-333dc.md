@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 333DC. Tax consequences of transfers under section 333DA[^key-87be3430ee854c0591f6f7ec394f6ddb]
+## 333DC. Tax consequences of transfers under section 333DA[^c-87be3430ee854c0591f6f7ec394f6ddb]
 
 *Extent: E+W*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-87be3430ee854c0591f6f7ec394f6ddb]: Textual amendment: Ss. 333DA-333DC inserted (12.4.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [ss. 31(6)](https://www.legislation.gov.uk/ukpga/2015/7/section/31/6), [57(5)(e)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/5/e)
+[^c-87be3430ee854c0591f6f7ec394f6ddb]: Textual amendment: Ss. 333DA-333DC inserted (12.4.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [ss. 31(6)](https://www.legislation.gov.uk/ukpga/2015/7/section/31/6), [57(5)(e)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/5/e)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Enforcement powers: Northern Ireland[^key-fdec8fd427da6e17c5d028e2eb70e4b8][^key-dc869b45323488977c5cba0837343e01]
+## 67. Enforcement powers: Northern Ireland[^c-fdec8fd427da6e17c5d028e2eb70e4b8][^c-dc869b45323488977c5cba0837343e01]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,6 +61,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fdec8fd427da6e17c5d028e2eb70e4b8]: Commencement: S. 67 not in force at Royal Assent, see [s. 147(6)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6)
+[^c-fdec8fd427da6e17c5d028e2eb70e4b8]: Commencement: S. 67 not in force at Royal Assent, see [s. 147(6)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6)
 
-[^key-dc869b45323488977c5cba0837343e01]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2021/30/section/67) in force at 28.2.2022 by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(l)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/l)
+[^c-dc869b45323488977c5cba0837343e01]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2021/30/section/67) in force at 28.2.2022 by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(l)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/l)

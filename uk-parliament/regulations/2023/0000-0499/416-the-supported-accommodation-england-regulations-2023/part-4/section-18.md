@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Employment of staff[^key-36f15abb3ab2276f0489f6c0c8b24483]
+## 18. Employment of staff[^c-36f15abb3ab2276f0489f6c0c8b24483]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-36f15abb3ab2276f0489f6c0c8b24483]: Commencement: Reg. 18 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)
+[^c-36f15abb3ab2276f0489f6c0c8b24483]: Commencement: Reg. 18 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)

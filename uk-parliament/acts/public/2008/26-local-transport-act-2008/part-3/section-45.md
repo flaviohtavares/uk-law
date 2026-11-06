@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Power to make traffic regulation orders[^key-7e966372d3834b2d1702be9e6ab89c2c]
+## 45. Power to make traffic regulation orders[^c-7e966372d3834b2d1702be9e6ab89c2c]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7e966372d3834b2d1702be9e6ab89c2c]: Commencement: S. 45 in force at 11.1.2010 for E. by [S.I. 2009/3242](https://www.legislation.gov.uk/uksi/2009/3242), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2009/3242/article/2/1/a)
+[^c-7e966372d3834b2d1702be9e6ab89c2c]: Commencement: S. 45 in force at 11.1.2010 for E. by [S.I. 2009/3242](https://www.legislation.gov.uk/uksi/2009/3242), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2009/3242/article/2/1/a)

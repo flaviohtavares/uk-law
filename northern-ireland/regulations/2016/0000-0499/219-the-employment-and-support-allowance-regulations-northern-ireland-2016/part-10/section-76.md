@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 76. Calculation of earnings derived from employed earner’s employment and income other than earnings[^key-27e5a923c9f81107587db334ab9edca6]
+## 76. Calculation of earnings derived from employed earner’s employment and income other than earnings[^c-27e5a923c9f81107587db334ab9edca6]
 
 *Extent: N.I.*
 
@@ -63,4 +63,4 @@ those earnings are to be taken into account over a period equal to the aggregate
 
 ## Annotations
 
-[^key-27e5a923c9f81107587db334ab9edca6]: Commencement: [Reg. 76](https://www.legislation.gov.uk/nisr/2016/219/regulation/76) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-27e5a923c9f81107587db334ab9edca6]: Commencement: [Reg. 76](https://www.legislation.gov.uk/nisr/2016/219/regulation/76) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)

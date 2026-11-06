@@ -41,22 +41,22 @@ Coming into operation
 
 The Department of Health, Social Services and Public Safety makes the following Order in exercise of the powers conferred by sections 7(4) and (5) of the Misuse of Drugs Act 1971[^f00001], as adapted by section 7(9) of the Act and now vested in it [^f00002] and after consultation with the Advisory Council on the Misuse of Drugs in accordance with section 7(7) of that Act.
 
-## 1. Citation and commencement[^key-1b3bb9c2a00958f7f1069943827ca454]
+## 1. Citation and commencement[^c-1b3bb9c2a00958f7f1069943827ca454]
 
 This Order may be cited as the Misuse of Drugs (Designation) (Amendment) Order (Northern Ireland) 2010 and shall come into operation on 16th April 2010.
 
-## 2. Interpretation[^key-a0cc1bdfdf51465bee37fe9ccac8457c]
+## 2. Interpretation[^c-a0cc1bdfdf51465bee37fe9ccac8457c]
 
 (1) In this Order “the 2001 Order” means the Misuse of Drugs (Designation) Order (Northern Ireland) 2001[^f00003].
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00004] shall apply to this Order as it applies to an Act of the Assembly.
 
-## 3. Amendments to the 2001 Order[^key-5d0d4072cbbf024a00dab7221e022aad]
+## 3. Amendments to the 2001 Order[^c-5d0d4072cbbf024a00dab7221e022aad]
 
 In Part 1 of the Schedule to the 2001 Order—
 
-- (a)[^key-ecdb5bb1bc6bd7430a1640c7d2424bca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-ecdb5bb1bc6bd7430a1640c7d2424bca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-ecdb5bb1bc6bd7430a1640c7d2424bca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-ecdb5bb1bc6bd7430a1640c7d2424bca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) after paragraph 1(p), insert—
 
   > - (q) Any compound (not being bupropion, diethylpropion, pyrovalerone or a compound for the time being specified in sub-paragraph (a) above) structurally derived from 2–amino-1-phenyl-1–propanone by modification in any of the following ways, that is to say,
@@ -86,14 +86,14 @@ Section 7(3) of the Misuse of Drugs Act 1971 (“the 1971 Act”) requires regul
 
 [^f00002]: Footnote: S.R. & O. [(N.I.) 1973 No. 504](https://www.legislation.gov.uk/nisro/1973/504), Article 5(a) and [S.I.1999/283 (N.I. 1)](https://www.legislation.gov.uk/nisi/1999/283), Article 3(6)
 
-[^key-1b3bb9c2a00958f7f1069943827ca454]: Commencement: Art. 1 in operation at 16.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/149/article/1)
+[^c-1b3bb9c2a00958f7f1069943827ca454]: Commencement: Art. 1 in operation at 16.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/149/article/1)
 
-[^key-a0cc1bdfdf51465bee37fe9ccac8457c]: Commencement: Art. 2 in operation at 16.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/149/article/1)
+[^c-a0cc1bdfdf51465bee37fe9ccac8457c]: Commencement: Art. 2 in operation at 16.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/149/article/1)
 
 [^f00003]: Footnote: [S.R. 2001 No. 431](https://www.legislation.gov.uk/nisr/2001/431). Relevant amending Orders are [S.R. 2005 No. 359](https://www.legislation.gov.uk/nisr/2005/359) and [S.R. 2009 No. 389](https://www.legislation.gov.uk/nisr/2009/389)
 
 [^f00004]: Footnote: [1954 c.33 (N.I)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-5d0d4072cbbf024a00dab7221e022aad]: Commencement: Art. 3 in operation at 16.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/149/article/1)
+[^c-5d0d4072cbbf024a00dab7221e022aad]: Commencement: Art. 3 in operation at 16.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/149/article/1)
 
-[^key-ecdb5bb1bc6bd7430a1640c7d2424bca]: Textual amendment: [Art. 3(a)](https://www.legislation.gov.uk/nisr/2010/149/article/3/a)[(b)](https://www.legislation.gov.uk/nisr/2010/149/article/3/b) revoked (28.3.2011) by [The Misuse of Drugs (Designation) (Amendment) Order (Northern Ireland) 2011 (S.R. 2011/154)](https://www.legislation.gov.uk/nisr/2011/154), [arts. 1](https://www.legislation.gov.uk/nisr/2011/154/article/1), [4](https://www.legislation.gov.uk/nisr/2011/154/article/4)
+[^c-ecdb5bb1bc6bd7430a1640c7d2424bca]: Textual amendment: [Art. 3(a)](https://www.legislation.gov.uk/nisr/2010/149/article/3/a)[(b)](https://www.legislation.gov.uk/nisr/2010/149/article/3/b) revoked (28.3.2011) by [The Misuse of Drugs (Designation) (Amendment) Order (Northern Ireland) 2011 (S.R. 2011/154)](https://www.legislation.gov.uk/nisr/2011/154), [arts. 1](https://www.legislation.gov.uk/nisr/2011/154/article/1), [4](https://www.legislation.gov.uk/nisr/2011/154/article/4)

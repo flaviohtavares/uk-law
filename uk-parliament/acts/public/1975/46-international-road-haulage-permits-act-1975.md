@@ -31,32 +31,32 @@ International Road Haulage Permits Act 1975 (repealed)
 
 1975 c. 46
 
-[^key-ea8b3436f3cdabe73bc11992a0265b4e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ea8b3436f3cdabe73bc11992a0265b4e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Carriage on United Kingdom vehicles, and production, of international road haulage permits.[^key-ea8b3436f3cdabe73bc11992a0265b4e]
+## 1. Carriage on United Kingdom vehicles, and production, of international road haulage permits.[^c-ea8b3436f3cdabe73bc11992a0265b4e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Power to prohibit vehicle or trailer being taken out of the United Kingdom.[^key-ea8b3436f3cdabe73bc11992a0265b4e]
+## 2. Power to prohibit vehicle or trailer being taken out of the United Kingdom.[^c-ea8b3436f3cdabe73bc11992a0265b4e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-ea8b3436f3cdabe73bc11992a0265b4e]
+## 3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-ea8b3436f3cdabe73bc11992a0265b4e]
 
 *Extent: E+W+S*
 
-## 4. Application of Transport Act (Northern Ireland) 1967 to international road haulage permits.[^key-ea8b3436f3cdabe73bc11992a0265b4e]
+## 4. Application of Transport Act (Northern Ireland) 1967 to international road haulage permits.[^c-ea8b3436f3cdabe73bc11992a0265b4e]
 
 *Extent: N.I.*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Short title, commencement and extent.[^key-ea8b3436f3cdabe73bc11992a0265b4e]
+## 5. Short title, commencement and extent.[^c-ea8b3436f3cdabe73bc11992a0265b4e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ea8b3436f3cdabe73bc11992a0265b4e]: Textual amendment: Act repealed (19.7.2018) by [Haulage Permits and Trailer Registration Act 2018 (c. 19)](https://www.legislation.gov.uk/ukpga/2018/19), [s. 27(1)](https://www.legislation.gov.uk/ukpga/2018/19/section/27/1), [Sch. para. 1](https://www.legislation.gov.uk/ukpga/2018/19/schedule/paragraph/1)
+[^c-ea8b3436f3cdabe73bc11992a0265b4e]: Textual amendment: Act repealed (19.7.2018) by [Haulage Permits and Trailer Registration Act 2018 (c. 19)](https://www.legislation.gov.uk/ukpga/2018/19), [s. 27(1)](https://www.legislation.gov.uk/ukpga/2018/19/section/27/1), [Sch. para. 1](https://www.legislation.gov.uk/ukpga/2018/19/schedule/paragraph/1)

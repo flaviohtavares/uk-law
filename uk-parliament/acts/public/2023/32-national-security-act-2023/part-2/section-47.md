@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Review of ongoing necessity[^key-040cabfdaeb3ace7f47532e39c043361][^key-339284e45fee64d759c633019f40b029]
+## 47. Review of ongoing necessity[^c-040cabfdaeb3ace7f47532e39c043361][^c-339284e45fee64d759c633019f40b029]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ During the period that a Part 2 notice is in force, the Secretary of State must 
 
 ## Annotations
 
-[^key-040cabfdaeb3ace7f47532e39c043361]: Commencement: S. 47 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-040cabfdaeb3ace7f47532e39c043361]: Commencement: S. 47 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
 
-[^key-339284e45fee64d759c633019f40b029]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2023/32/section/47) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-339284e45fee64d759c633019f40b029]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2023/32/section/47) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)

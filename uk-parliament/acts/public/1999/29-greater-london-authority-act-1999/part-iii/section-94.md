@@ -56,7 +56,7 @@ summary: ''
 
 > (3A) In making substitute calculations under section 88(2) or 89(3) of the Greater London Authority Act 1999, the authority must use any amount determined in the previous calculations for item P1 or T in section 88(2) of that Act or for item P2 or item TP2 in section 89(4) of that Act.
 
-(5)[^key-21ed7e0a644ed8edfa76b04d57d04fdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-21ed7e0a644ed8edfa76b04d57d04fdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) After subsection (5) (cases where previous calculations quashed for non-compliance with sections 43 to 48) there shall be inserted—
 
@@ -75,4 +75,4 @@ summary: ''
 
 [^c12801651]: Marginal citation: [1992 c. 14](https://www.legislation.gov.uk/ukpga/1992/14).
 
-[^key-21ed7e0a644ed8edfa76b04d57d04fdc]: Textual amendment: S. 94(5) repealed (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 13](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/13); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(ee)(iii)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/ee/iii)
+[^c-21ed7e0a644ed8edfa76b04d57d04fdc]: Textual amendment: S. 94(5) repealed (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 13](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/13); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(ee)(iii)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/ee/iii)

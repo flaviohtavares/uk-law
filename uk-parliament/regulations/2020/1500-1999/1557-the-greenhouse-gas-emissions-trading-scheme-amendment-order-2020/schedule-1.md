@@ -22,21 +22,21 @@ summary: ''
 
 Article 46
 
-### 1. Free Allocation Regulation amended[^key-4f44e42177d3f373765395659ec46806]
+### 1. Free Allocation Regulation amended[^c-4f44e42177d3f373765395659ec46806]
 
 Commission Delegated Regulation (EU) 2019/331 is amended in accordance with this Schedule.
 
-### 2. “Regulator” substituted for “competent authority”[^key-989f7317db572bc4f7116ef54c30c83d]
+### 2. “Regulator” substituted for “competent authority”[^c-989f7317db572bc4f7116ef54c30c83d]
 
 For “competent authority” in each place substitute “ regulator ”.
 
-### 3. Article 1 amended (scope)[^key-86bb46009b72f828da405a147c4b985e]
+### 3. Article 1 amended (scope)[^c-86bb46009b72f828da405a147c4b985e]
 
 (1) Article 1 is amended as follows.
 
 (2) For the words from “emission allowances under Chapter III” to the end substitute “ allowances to installations under the UK ETS ”.
 
-### 4. Article 2 amended (definitions)[^key-a348ecc08c89851f7892d780f7b2a533]
+### 4. Article 2 amended (definitions)[^c-a348ecc08c89851f7892d780f7b2a533]
 
 (1) Article 2 is amended as follows.
 
@@ -88,7 +88,7 @@ For “competent authority” in each place substitute “ regulator ”.
 
 .
 
-### 5. Article 2a inserted[^key-c49e77d5d7b7e54f60290d11dd806824]
+### 5. Article 2a inserted[^c-c49e77d5d7b7e54f60290d11dd806824]
 
 After Article 2 insert—
 
@@ -113,11 +113,11 @@ After Article 2 insert—
 
 .
 
-### 6. Article 3 omitted[^key-f9cfbca01a479967008759d89f61b8bb]
+### 6. Article 3 omitted[^c-f9cfbca01a479967008759d89f61b8bb]
 
 Article 3 is omitted.
 
-### 7. Article 3a inserted[^key-bdd8b28ed4fa570010a2fd637f8a849e]
+### 7. Article 3a inserted[^c-bdd8b28ed4fa570010a2fd637f8a849e]
 
 After Article 2 and the cross-heading to Chapter 2 (application, data reporting and monitoring rules) insert—
 
@@ -137,7 +137,7 @@ After Article 2 and the cross-heading to Chapter 2 (application, data reporting 
 
 .
 
-### 8. Article 4 amended (application for free allocation in 2026-2030 allocation period by operators of incumbent installations)[^key-9fe18745ac590da9471bccf3e8405c68]
+### 8. Article 4 amended (application for free allocation in 2026-2030 allocation period by operators of incumbent installations)[^c-9fe18745ac590da9471bccf3e8405c68]
 
 (1) Article 4 is amended as follows.
 
@@ -183,7 +183,7 @@ After Article 2 and the cross-heading to Chapter 2 (application, data reporting 
 
 .
 
-### 9. Article 5 substituted[^key-4158668d4897900cd725d2309e372809]
+### 9. Article 5 substituted[^c-4158668d4897900cd725d2309e372809]
 
 For Article 5 substitute—
 
@@ -220,7 +220,7 @@ For Article 5 substitute—
 
 .
 
-### 10. Article 6 amended (general obligation to monitor)[^key-37ca102b522ed8b6a671fd0b17bd653d]
+### 10. Article 6 amended (general obligation to monitor)[^c-37ca102b522ed8b6a671fd0b17bd653d]
 
 (1) Article 6 is amended as follows.
 
@@ -228,13 +228,13 @@ For Article 5 substitute—
 
 (3) For “by 31 December 2020” substitute “ under Article 8 ”.
 
-### 11. Article 7 amended (monitoring principles)[^key-da839e0c3416109e9d62309838d367da]
+### 11. Article 7 amended (monitoring principles)[^c-da839e0c3416109e9d62309838d367da]
 
 (1) Article 7 is amended as follows.
 
 (2) In paragraph 3 after “application for free allocation” insert “ (including a deemed application for free allocation in the 2021-2025 allocation period) ”.
 
-### 12. Article 8 amended (content and submission of the monitoring methodology plan)[^key-9147ecc4cbde7af32f9103eafe354d1c]
+### 12. Article 8 amended (content and submission of the monitoring methodology plan)[^c-9147ecc4cbde7af32f9103eafe354d1c]
 
 (1) Article 8 is amended as follows.
 
@@ -256,7 +256,7 @@ For Article 5 substitute—
 > - (a) where the monitoring methodology plan is submitted with an application for free allocation in the 2026-2030 allocation period under Article 4, on or before 31 December 2025;
 > - (b) where the monitoring methodology plan is submitted with an application for free allocation under Article 5, as soon as reasonably practicable after the application is made.
 
-### 13. Article 9 amended (changes to the monitoring methodology plan)[^key-811cbfe9166afac359ce0d200589f21c]
+### 13. Article 9 amended (changes to the monitoring methodology plan)[^c-811cbfe9166afac359ce0d200589f21c]
 
 (1) Article 9 is amended as follows.
 
@@ -269,7 +269,7 @@ For Article 5 substitute—
 
 .
 
-### 14. Article 10 amended (division into sub-installations)[^key-c450906ab7a632f6f82f701183725891]
+### 14. Article 10 amended (division into sub-installations)[^c-c450906ab7a632f6f82f701183725891]
 
 (1) Article 10 is amended as follows.
 
@@ -300,17 +300,17 @@ For Article 5 substitute—
   - (i) after “EU ETS” insert “ or UK ETS ”;
   - (ii) for “non-EU ETS” substitute “ non-ETS ”.
 
-### 15. Article 12 amended (data gaps)[^key-edb3f6e27353e27692c6e51685dfb437]
+### 15. Article 12 amended (data gaps)[^c-edb3f6e27353e27692c6e51685dfb437]
 
 (1) Article 12 is amended as follows.
 
 (2) In paragraph 3 for “Article 5(2)” substitute “ Article 5(5)(a) ”.
 
-### 16. Articles 13 and 14 omitted[^key-a97f42d89295b6d25d29e2f451f77a37]
+### 16. Articles 13 and 14 omitted[^c-a97f42d89295b6d25d29e2f451f77a37]
 
 Articles 13 and 14 are omitted.
 
-### 17. Article 15 amended (historical activity level for incumbent installations)[^key-a5d95f32a1eee8e455787ec1a50c219d]
+### 17. Article 15 amended (historical activity level for incumbent installations)[^c-a5d95f32a1eee8e455787ec1a50c219d]
 
 (1) Article 15 is amended as follows.
 
@@ -344,7 +344,7 @@ Articles 13 and 14 are omitted.
 
 (6) In paragraph 8 for “Member States” substitute “ the regulator ”.
 
-### 18. Article 15a inserted[^key-300cc44e96121f184f61375a52730a57]
+### 18. Article 15a inserted[^c-300cc44e96121f184f61375a52730a57]
 
 After Article 15 insert—
 
@@ -380,7 +380,7 @@ After Article 15 insert—
 
 .
 
-### 19. Article 16 amended (preliminary allocation at installation level for incumbent installations)[^key-93de34029e2902aa3f055a4796990914]
+### 19. Article 16 amended (preliminary allocation at installation level for incumbent installations)[^c-93de34029e2902aa3f055a4796990914]
 
 (1) Article 16 is amended as follows.
 
@@ -433,7 +433,7 @@ After Article 15 insert—
 
 .
 
-### 20. Articles 16a and 16b inserted[^key-7ddbc0efe0c3861eff12efba8d2376a8]
+### 20. Articles 16a and 16b inserted[^c-7ddbc0efe0c3861eff12efba8d2376a8]
 
 After Article 16 insert—
 
@@ -514,7 +514,7 @@ After Article 16 insert—
 
 .
 
-### 21. Article 17 amended (historical activity level for new entrants)[^key-3255566a34b80fe3de3e7f70570d55ef]
+### 21. Article 17 amended (historical activity level for new entrants)[^c-3255566a34b80fe3de3e7f70570d55ef]
 
 (1) Article 17 is amended as follows.
 
@@ -533,7 +533,7 @@ After Article 16 insert—
 
 .
 
-### 22. Article 18 amended (preliminary allocation to new entrants)[^key-cd67be17be3714a0a75eab5c5f2ff971]
+### 22. Article 18 amended (preliminary allocation to new entrants)[^c-cd67be17be3714a0a75eab5c5f2ff971]
 
 (1) Article 18 is amended as follows.
 
@@ -584,7 +584,7 @@ After Article 16 insert—
 
 .
 
-### 23. Article 18a inserted[^key-29d5d2c20025bdeb12e8b4279e8b590a]
+### 23. Article 18a inserted[^c-29d5d2c20025bdeb12e8b4279e8b590a]
 
 After Article 18 insert—
 
@@ -652,25 +652,25 @@ After Article 18 insert—
 
 .
 
-### 24. Article 19 amended (allocation in respect of steam cracking)[^key-f13e0db737ce59b2e1d749e5de04ecdf]
+### 24. Article 19 amended (allocation in respect of steam cracking)[^c-f13e0db737ce59b2e1d749e5de04ecdf]
 
 (1) Article 19 is amended as follows.
 
 (2) For “Article 17(a)” in both places substitute “ Article 17(1)(a) ”.
 
-### 25. Article 20 amended (allocation in respect of vinyl chloride monomer)[^key-938a6b63659a4bcd1eb7b0f6e1d1fd4b]
+### 25. Article 20 amended (allocation in respect of vinyl chloride monomer)[^c-938a6b63659a4bcd1eb7b0f6e1d1fd4b]
 
 (1) Article 20 is amended as follows.
 
 (2) For “Article 17(a)” in both places substitute “ Article 17(1)(a) ”.
 
-### 26. Article 21 amended (heat flows between installations)[^key-ccf6ce3099002596b91e97c1f4e70d42]
+### 26. Article 21 amended (heat flows between installations)[^c-ccf6ce3099002596b91e97c1f4e70d42]
 
 (1) Article 21 is amended as follows.
 
 (2) After “EU ETS” in both places insert “ or UK ETS ”.
 
-### 27. Article 22 amended (exchangeability of fuel and electricity)[^key-2d1216c27200fe45c6d8e2f2c49b9995]
+### 27. Article 22 amended (exchangeability of fuel and electricity)[^c-2d1216c27200fe45c6d8e2f2c49b9995]
 
 (1) Article 22 is amended as follows.
 
@@ -678,11 +678,11 @@ After Article 18 insert—
 
 (3) In paragraph 2 after “EU ETS” insert “ or UK ETS ”.
 
-### 28. Article 23 omitted[^key-2ec6fa98f2f9520ca987ca55e2e63aa3]
+### 28. Article 23 omitted[^c-2ec6fa98f2f9520ca987ca55e2e63aa3]
 
 Article 23 is omitted.
 
-### 29. Article 24 substituted[^key-96408cff4dd0303346f5be0babeed8af]
+### 29. Article 24 substituted[^c-96408cff4dd0303346f5be0babeed8af]
 
 For Article 24 substitute—
 
@@ -718,7 +718,7 @@ For Article 24 substitute—
 
 .
 
-### 30. Article 25 substituted[^key-843b246fb0d855f5d1c18447e0383f25]
+### 30. Article 25 substituted[^c-843b246fb0d855f5d1c18447e0383f25]
 
 For Article 25 substitute—
 
@@ -780,7 +780,7 @@ For Article 25 substitute—
 
 .
 
-### 31. Articles 26 substituted[^key-9ef83576a3596771c344b52ffb94b6fc]
+### 31. Articles 26 substituted[^c-9ef83576a3596771c344b52ffb94b6fc]
 
 For Article 26 substitute—
 
@@ -807,17 +807,17 @@ For Article 26 substitute—
 
 .
 
-### 32. Final text omitted[^key-d13fd77218ddfaa355c087d961b377c0]
+### 32. Final text omitted[^c-d13fd77218ddfaa355c087d961b377c0]
 
 Omit “This Regulation shall be binding in its entirety and directly applicable in all Member States.” (which follows Article 28).
 
-### 33. Annex 3 amended (historical activity level for specific benchmarks referred to in Articles 15(8) and 17(1)(f))[^key-d377c91e867a96661dec5d330e50bb6d]
+### 33. Annex 3 amended (historical activity level for specific benchmarks referred to in Articles 15(8) and 17(1)(f))[^c-d377c91e867a96661dec5d330e50bb6d]
 
 (1) Annex 3 is amended as follows.
 
 (2) In the heading for “17(f)” substitute “ 17(1)(f) ”.
 
-### 34. Annex 4 amended (parameters for baseline data collection)[^key-00fe4e38bcdc69a9898aaabed509a525]
+### 34. Annex 4 amended (parameters for baseline data collection)[^c-00fe4e38bcdc69a9898aaabed509a525]
 
 (1) Annex 4 is amended as follows.
 
@@ -877,13 +877,13 @@ Omit “This Regulation shall be binding in its entirety and directly applicable
     - (bb) after “EU ETS” insert “ or UK ETS ”;
 - (d) in section 2.7 in point (b) for “delegated acts adopted pursuant to Article 10b(5) of Directive [2003/87/EC](https://www.legislation.gov.uk/european/directive/2003/0087)” substitute “ Commission Delegated Decision (EU) 2019/708 ”.
 
-### 35. Annex 5 amended (factors applicable for reducing free allocation)[^key-b8438e47070c470a4ab71db3faba308e]
+### 35. Annex 5 amended (factors applicable for reducing free allocation)[^c-b8438e47070c470a4ab71db3faba308e]
 
 (1) Annex 5 is amended as follows.
 
 (2) In the heading omit “pursuant to Article 10b(4) of Directive [2003/87/EC](https://www.legislation.gov.uk/european/directive/2003/0087)”.
 
-### 36. Annex 6 amended (minimum content of the monitoring methodology plan)[^key-e9a0bd02b0ded79a220e5626d7310189]
+### 36. Annex 6 amended (minimum content of the monitoring methodology plan)[^c-e9a0bd02b0ded79a220e5626d7310189]
 
 (1) Annex 6 is amended as follows.
 
@@ -896,7 +896,7 @@ Omit “This Regulation shall be binding in its entirety and directly applicable
 
 (3) In section 4 in the first subparagraph in point (a) for “Regulation (EU) No 601/2012” substitute “ the Monitoring and Reporting Regulation 2018 ”.
 
-### 37. Annex 7 amended (data monitoring methods)[^key-084530825b8f14879e7c5b5bc67a4040]
+### 37. Annex 7 amended (data monitoring methods)[^c-084530825b8f14879e7c5b5bc67a4040]
 
 (1) Annex 7 is amended as follows.
 
@@ -948,83 +948,83 @@ Omit “This Regulation shall be binding in its entirety and directly applicable
 
 ## Annotations
 
-[^key-4f44e42177d3f373765395659ec46806]: Commencement: Sch. 1 para. 1 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)
+[^c-4f44e42177d3f373765395659ec46806]: Commencement: Sch. 1 para. 1 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)
 
-[^key-989f7317db572bc4f7116ef54c30c83d]: Commencement: Sch. 1 para. 2 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)
+[^c-989f7317db572bc4f7116ef54c30c83d]: Commencement: Sch. 1 para. 2 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)
 
-[^key-86bb46009b72f828da405a147c4b985e]: Commencement: Sch. 1 para. 3 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)
+[^c-86bb46009b72f828da405a147c4b985e]: Commencement: Sch. 1 para. 3 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)
 
-[^key-a348ecc08c89851f7892d780f7b2a533]: Commencement: Sch. 1 para. 4 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)
+[^c-a348ecc08c89851f7892d780f7b2a533]: Commencement: Sch. 1 para. 4 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)
 
-[^key-c49e77d5d7b7e54f60290d11dd806824]: Commencement: Sch. 1 para. 5 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)
+[^c-c49e77d5d7b7e54f60290d11dd806824]: Commencement: Sch. 1 para. 5 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)
 
 [^c24385371]: Marginal citation: OJ No L 315, 14.11.2012, p. 1.
 
 [^c24385381]: Marginal citation: Details of the Combined Heat and Power Quality Assurance Programme are available at https://www.gov.uk/guidance/combined-heat-power-quality-assurance-programme. The current and previous standards can be accessed at https://www.gov.uk/government/publications/chpqa-standard. Copies may be inspected at the Department for Business, Energy and Industrial Strategy,1 Victoria Street, London SW1H 0ET.
 
-[^key-f9cfbca01a479967008759d89f61b8bb]: Commencement: Sch. 1 para. 6 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)
+[^c-f9cfbca01a479967008759d89f61b8bb]: Commencement: Sch. 1 para. 6 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)
 
-[^key-bdd8b28ed4fa570010a2fd637f8a849e]: Commencement: Sch. 1 para. 7 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)
+[^c-bdd8b28ed4fa570010a2fd637f8a849e]: Commencement: Sch. 1 para. 7 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)
 
-[^key-9fe18745ac590da9471bccf3e8405c68]: Commencement: Sch. 1 para. 8 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)
+[^c-9fe18745ac590da9471bccf3e8405c68]: Commencement: Sch. 1 para. 8 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)
 
-[^key-4158668d4897900cd725d2309e372809]: Commencement: Sch. 1 para. 9 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)
+[^c-4158668d4897900cd725d2309e372809]: Commencement: Sch. 1 para. 9 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)
 
-[^key-37ca102b522ed8b6a671fd0b17bd653d]: Commencement: Sch. 1 para. 10 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)
+[^c-37ca102b522ed8b6a671fd0b17bd653d]: Commencement: Sch. 1 para. 10 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)
 
-[^key-da839e0c3416109e9d62309838d367da]: Commencement: Sch. 1 para. 11 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)
+[^c-da839e0c3416109e9d62309838d367da]: Commencement: Sch. 1 para. 11 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)
 
-[^key-9147ecc4cbde7af32f9103eafe354d1c]: Commencement: Sch. 1 para. 12 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)
+[^c-9147ecc4cbde7af32f9103eafe354d1c]: Commencement: Sch. 1 para. 12 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)
 
-[^key-811cbfe9166afac359ce0d200589f21c]: Commencement: Sch. 1 para. 13 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)
+[^c-811cbfe9166afac359ce0d200589f21c]: Commencement: Sch. 1 para. 13 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)
 
-[^key-c450906ab7a632f6f82f701183725891]: Commencement: Sch. 1 para. 14 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)
+[^c-c450906ab7a632f6f82f701183725891]: Commencement: Sch. 1 para. 14 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)
 
-[^key-edb3f6e27353e27692c6e51685dfb437]: Commencement: Sch. 1 para. 15 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)
+[^c-edb3f6e27353e27692c6e51685dfb437]: Commencement: Sch. 1 para. 15 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)
 
-[^key-a97f42d89295b6d25d29e2f451f77a37]: Commencement: Sch. 1 para. 16 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)
+[^c-a97f42d89295b6d25d29e2f451f77a37]: Commencement: Sch. 1 para. 16 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)
 
-[^key-a5d95f32a1eee8e455787ec1a50c219d]: Commencement: Sch. 1 para. 17 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)
+[^c-a5d95f32a1eee8e455787ec1a50c219d]: Commencement: Sch. 1 para. 17 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)
 
-[^key-300cc44e96121f184f61375a52730a57]: Commencement: Sch. 1 para. 18 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)
+[^c-300cc44e96121f184f61375a52730a57]: Commencement: Sch. 1 para. 18 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)
 
-[^key-93de34029e2902aa3f055a4796990914]: Commencement: Sch. 1 para. 19 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)
+[^c-93de34029e2902aa3f055a4796990914]: Commencement: Sch. 1 para. 19 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)
 
-[^key-7ddbc0efe0c3861eff12efba8d2376a8]: Commencement: Sch. 1 para. 20 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)
+[^c-7ddbc0efe0c3861eff12efba8d2376a8]: Commencement: Sch. 1 para. 20 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)
 
-[^key-3255566a34b80fe3de3e7f70570d55ef]: Commencement: Sch. 1 para. 21 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)
+[^c-3255566a34b80fe3de3e7f70570d55ef]: Commencement: Sch. 1 para. 21 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)
 
-[^key-cd67be17be3714a0a75eab5c5f2ff971]: Commencement: Sch. 1 para. 22 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)
+[^c-cd67be17be3714a0a75eab5c5f2ff971]: Commencement: Sch. 1 para. 22 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)
 
-[^key-29d5d2c20025bdeb12e8b4279e8b590a]: Commencement: Sch. 1 para. 23 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)
+[^c-29d5d2c20025bdeb12e8b4279e8b590a]: Commencement: Sch. 1 para. 23 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)
 
-[^key-f13e0db737ce59b2e1d749e5de04ecdf]: Commencement: Sch. 1 para. 24 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)
+[^c-f13e0db737ce59b2e1d749e5de04ecdf]: Commencement: Sch. 1 para. 24 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)
 
-[^key-938a6b63659a4bcd1eb7b0f6e1d1fd4b]: Commencement: Sch. 1 para. 25 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)
+[^c-938a6b63659a4bcd1eb7b0f6e1d1fd4b]: Commencement: Sch. 1 para. 25 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)
 
-[^key-ccf6ce3099002596b91e97c1f4e70d42]: Commencement: Sch. 1 para. 26 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)
+[^c-ccf6ce3099002596b91e97c1f4e70d42]: Commencement: Sch. 1 para. 26 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)
 
-[^key-2d1216c27200fe45c6d8e2f2c49b9995]: Commencement: Sch. 1 para. 27 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)
+[^c-2d1216c27200fe45c6d8e2f2c49b9995]: Commencement: Sch. 1 para. 27 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)
 
-[^key-2ec6fa98f2f9520ca987ca55e2e63aa3]: Commencement: Sch. 1 para. 28 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)
+[^c-2ec6fa98f2f9520ca987ca55e2e63aa3]: Commencement: Sch. 1 para. 28 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)
 
-[^key-96408cff4dd0303346f5be0babeed8af]: Commencement: Sch. 1 para. 29 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)
+[^c-96408cff4dd0303346f5be0babeed8af]: Commencement: Sch. 1 para. 29 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)
 
-[^key-843b246fb0d855f5d1c18447e0383f25]: Commencement: Sch. 1 para. 30 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)
+[^c-843b246fb0d855f5d1c18447e0383f25]: Commencement: Sch. 1 para. 30 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)
 
-[^key-9ef83576a3596771c344b52ffb94b6fc]: Commencement: Sch. 1 para. 31 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)
+[^c-9ef83576a3596771c344b52ffb94b6fc]: Commencement: Sch. 1 para. 31 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)
 
-[^key-d13fd77218ddfaa355c087d961b377c0]: Commencement: Sch. 1 para. 32 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)
+[^c-d13fd77218ddfaa355c087d961b377c0]: Commencement: Sch. 1 para. 32 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)
 
-[^key-d377c91e867a96661dec5d330e50bb6d]: Commencement: Sch. 1 para. 33 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)
+[^c-d377c91e867a96661dec5d330e50bb6d]: Commencement: Sch. 1 para. 33 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)
 
-[^key-00fe4e38bcdc69a9898aaabed509a525]: Commencement: Sch. 1 para. 34 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)
+[^c-00fe4e38bcdc69a9898aaabed509a525]: Commencement: Sch. 1 para. 34 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)
 
-[^key-b8438e47070c470a4ab71db3faba308e]: Commencement: Sch. 1 para. 35 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)
+[^c-b8438e47070c470a4ab71db3faba308e]: Commencement: Sch. 1 para. 35 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)
 
-[^key-e9a0bd02b0ded79a220e5626d7310189]: Commencement: Sch. 1 para. 36 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)
+[^c-e9a0bd02b0ded79a220e5626d7310189]: Commencement: Sch. 1 para. 36 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)
 
-[^key-084530825b8f14879e7c5b5bc67a4040]: Commencement: Sch. 1 para. 37 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)
+[^c-084530825b8f14879e7c5b5bc67a4040]: Commencement: Sch. 1 para. 37 in force at 31.12.2020 on IP completion day, see [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/2/a)
 
 [^c24385391]: Marginal citation: [S.I. 2016/1152](https://www.legislation.gov.uk/uksi/2016/1152).
 

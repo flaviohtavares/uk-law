@@ -48,13 +48,13 @@ In accordance with section 26(5) of that Act, the Scottish Ministers have consul
 
 In accordance with section 51(3) of that Act, a draft of this instrument has been laid before, and approved by resolution of, the Scottish Parliament[^f00002].
 
-## 1. Citation and commencement[^key-605eb854571bdc548ab8c7266fc5859d]
+## 1. Citation and commencement[^c-605eb854571bdc548ab8c7266fc5859d]
 
 (1) These Regulations may be cited as the Microchipping of Dogs (Scotland) Regulations 2016.
 
 (2) These Regulations come into force on the day after the day on which they are made.
 
-## 2. Interpretation[^key-f3a80afa9d095ea6521696435dfc9a5c]
+## 2. Interpretation[^c-f3a80afa9d095ea6521696435dfc9a5c]
 
 In these Regulations—
 
@@ -81,7 +81,7 @@ In these Regulations—
 - “unique number” means the unique number referred to in regulation 4(a); and
 - “veterinary nurse” and “student veterinary nurse” have the same meanings as given by paragraphs 6 and 7 of Part 1 of Schedule 3 to the Veterinary Surgeons Act 1966[^f00005] respectively.
 
-## 3. Implanter requirements as regards implanting any microchip[^key-d385076797801ff8b8a8844568b14026]
+## 3. Implanter requirements as regards implanting any microchip[^c-d385076797801ff8b8a8844568b14026]
 
 (1) No individual other than an implanter may implant a microchip of any kind in a dog.
 
@@ -103,7 +103,7 @@ In these Regulations—
 
 (6) An individual prohibited from implanting microchips in dogs by virtue of paragraph (3) is not an “implanter” for so long as the individual is so prohibited.
 
-## 4. Compliant microchip[^key-73d62303361baab462767c437b1afc57]
+## 4. Compliant microchip[^c-73d62303361baab462767c437b1afc57]
 
 A compliant microchip means a microchip which meets the following requirements—
 
@@ -112,7 +112,7 @@ A compliant microchip means a microchip which meets the following requirements�
 - (c) it must be compliant with ISO standard 11785:1996 (radio frequency identification of animals – technical concept) of the International Standards Organisation’s standards for microchips apart from Annex A; and
 - (d) it must respond to a transceiver which operates at 134.2 kilohertz and conforms with the FDXB protocol set out in ISO standards 11784:1996 and 11785:1996.
 
-## 5. Adverse reaction, migration and failure of a compliant microchip[^key-820cccd58c6f59a8c14de8834d4f0342]
+## 5. Adverse reaction, migration and failure of a compliant microchip[^c-820cccd58c6f59a8c14de8834d4f0342]
 
 An individual who identifies any of the following in respect of a compliant microchip implanted in a dog must report it to the Scottish Ministers within 21 days beginning with the day of so identifying—
 
@@ -120,7 +120,7 @@ An individual who identifies any of the following in respect of a compliant micr
 - (b) a migration; or
 - (c) a failure of a microchip.
 
-## 6. Obligation to microchip[^key-73637037fbcb05a646d738a9180f4388]
+## 6. Obligation to microchip[^c-73637037fbcb05a646d738a9180f4388]
 
 (1) Subject to paragraphs (2) and (3), from 6th April 2016 every keeper of a dog which is older than 8 weeks must ensure that it is microchipped.
 
@@ -141,7 +141,7 @@ An individual who identifies any of the following in respect of a compliant micr
 
 (8) Where the keeper of a dog to whom paragraph (1) applies becomes aware of the failure of a microchip, the keeper must have the dog implanted with a compliant microchip.
 
-## 7. Details to be recorded on databases[^key-3341098122d7f4afa157e36093d9e864]
+## 7. Details to be recorded on databases[^c-3341098122d7f4afa157e36093d9e864]
 
 The details to be recorded on a database are—
 
@@ -155,7 +155,7 @@ The details to be recorded on a database are—
 - (f) where applicable, the fact that the keeper of the dog is licensed by a local authority under the Licensing of Animal Dealers (Young Cats and Young Dogs) (Scotland) Regulations 2009[^f00008] and, if so—
   - (i) the number of the animal dealing licence (if any); and
   - (ii) the name of the local authority which issued the animal dealing licence;
-- (fa)[^key-2502ab28ea45d55b8669b6327b13797c] where applicable, the fact that the keeper of the dog is a person who holds a licence under the Animal Welfare (Licensing of Activities Involving Animals) (Scotland) Regulations 2021 for the licensable activity of breeding dogs described in paragraph 14 of schedule 1 of those Regulations and, if so—
+- (fa)[^c-2502ab28ea45d55b8669b6327b13797c] where applicable, the fact that the keeper of the dog is a person who holds a licence under the Animal Welfare (Licensing of Activities Involving Animals) (Scotland) Regulations 2021 for the licensable activity of breeding dogs described in paragraph 14 of schedule 1 of those Regulations and, if so—
   - (i) the name of the local authority which issued the licence;
   - (ii) the number of the person’s licence;
 - (g) the sex of the dog;
@@ -165,7 +165,7 @@ The details to be recorded on a database are—
 - (k) the unique number of the compliant microchip implanted in the dog; and
 - (l) where applicable, the name or identification number given to the dog.
 
-## 8. Conditions to be met by a database operator[^key-76faa2683383e6517f8fbfeb79f5f2a9]
+## 8. Conditions to be met by a database operator[^c-76faa2683383e6517f8fbfeb79f5f2a9]
 
 (1) A database operator must—
 
@@ -202,7 +202,7 @@ The details to be recorded on a database are—
 
 (2) In this regulation “on-line request” means a request submitted to a database operator on-line in the manner provided for by the database operator’s website.
 
-## 9. Powers of the Scottish Ministers[^key-afe9e035060b36994e53be31f67f0551]
+## 9. Powers of the Scottish Ministers[^c-afe9e035060b36994e53be31f67f0551]
 
 (1) The Scottish Ministers may serve a notice on a database operator requiring it to provide—
 
@@ -216,7 +216,7 @@ The details to be recorded on a database are—
 
 (3) A notice served under paragraph (1) or (2) must state the date on which it takes effect, which date may not be less than 21 days after the day on which it is served.
 
-## 10. Change of keeper[^key-d1d88fbfb0585559bf1333e9e9095ef9]
+## 10. Change of keeper[^c-d1d88fbfb0585559bf1333e9e9095ef9]
 
 (1) From 6th April 2016, where a dog is transferred to a new keeper, the new keeper must, unless the previous keeper has already done so, notify their full name, address and contact telephone number (if any) and any change in the dog’s name to the database operator of the database on which the dog’s details are recorded by virtue of regulation 6(5)(b).
 
@@ -227,7 +227,7 @@ The details to be recorded on a database are—
 
 (3) Paragraph (2) does not apply where on the date of transfer a certificate issued under regulation 6(2) certifies that the dog should not be microchipped for reasons of the dog’s health.
 
-## 11. Authorised person[^key-b01533f3abc5e8b7648db67f8d54ac6e]
+## 11. Authorised person[^c-b01533f3abc5e8b7648db67f8d54ac6e]
 
 (1) Subject to paragraph (2), the following persons are “authorised persons” for the purposes of these Regulations—
 
@@ -237,7 +237,7 @@ The details to be recorded on a database are—
 
 (2) A person authorised under paragraph (1)(a) or (b) is only authorised for the purposes of these Regulations to the extent of the purposes mentioned in the authorisation.
 
-## 12. Powers of an authorised person[^key-5409c4377f005ca6d97f634786349f01]
+## 12. Powers of an authorised person[^c-5409c4377f005ca6d97f634786349f01]
 
 (1) From 6th April 2016, on producing (if required to do so) the written authorisation mentioned in regulation 11(1)(a) or (b) or other official identity document in the case of a constable, an authorised person may—
 
@@ -281,7 +281,7 @@ The details to be recorded on a database are—
 
 (7) If an authorised person enters any unoccupied premises, the authorised person must leave them as effectively secured against entry as the authorised person found them.
 
-## 13. Offences[^key-d05c556ef11e29757134f7e87b85d561]
+## 13. Offences[^c-d05c556ef11e29757134f7e87b85d561]
 
 (1) It is an offence for a database operator to—
 
@@ -306,7 +306,7 @@ The details to be recorded on a database are—
 
 (7) An offence under paragraph (3) or (5) is punishable on summary conviction by a fine not exceeding level 2 on the standard scale.
 
-## 14. Appeals[^key-5f4bb057157dda201f2b25461581cdf8]
+## 14. Appeals[^c-5f4bb057157dda201f2b25461581cdf8]
 
 (1) An individual may appeal to the sheriff against a notice served on that individual under regulation 3(3).
 
@@ -394,9 +394,9 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00002]: Footnote: Section 51(3) has been modified by paragraph 5 of schedule 3 to the Interpretation and Legislative Reform (Scotland) Act [2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10).
 
-[^key-605eb854571bdc548ab8c7266fc5859d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 29.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/58/regulation/1/2)
+[^c-605eb854571bdc548ab8c7266fc5859d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 29.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/58/regulation/1/2)
 
-[^key-f3a80afa9d095ea6521696435dfc9a5c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 29.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/58/regulation/1/2)
+[^c-f3a80afa9d095ea6521696435dfc9a5c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 29.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/58/regulation/1/2)
 
 [^f00003]: Footnote: [2010 c.15](https://www.legislation.gov.uk/ukpga/2010/15).
 
@@ -404,34 +404,34 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00005]: Footnote: [1966 c.36](https://www.legislation.gov.uk/ukpga/1966/36); paragraph 6 was inserted by [S.I. 1991/1412](https://www.legislation.gov.uk/uksi/1991/1412), substituted by [S.I. 2002/1479](https://www.legislation.gov.uk/uksi/2002/1479) and amended by [S.I. 2008/1824](https://www.legislation.gov.uk/uksi/2008/1824); paragraph 7 was inserted by [S.I. 2002/1479](https://www.legislation.gov.uk/uksi/2002/1479).
 
-[^key-d385076797801ff8b8a8844568b14026]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 29.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/58/regulation/1/2)
+[^c-d385076797801ff8b8a8844568b14026]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 29.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/58/regulation/1/2)
 
-[^key-73d62303361baab462767c437b1afc57]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 29.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/58/regulation/1/2)
+[^c-73d62303361baab462767c437b1afc57]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 29.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/58/regulation/1/2)
 
 [^f00006]: Footnote: ISO Central Secretariat, International Organization for Standardization (ISO), 1 rue de Varembé, Case postale 56, CH-1211, Genève 20, Switzerland.
 
-[^key-820cccd58c6f59a8c14de8834d4f0342]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 29.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/58/regulation/1/2)
+[^c-820cccd58c6f59a8c14de8834d4f0342]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 29.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/58/regulation/1/2)
 
-[^key-73637037fbcb05a646d738a9180f4388]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 29.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/58/regulation/1/2)
+[^c-73637037fbcb05a646d738a9180f4388]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 29.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/58/regulation/1/2)
 
-[^key-3341098122d7f4afa157e36093d9e864]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 29.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/58/regulation/1/2)
+[^c-3341098122d7f4afa157e36093d9e864]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 29.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/58/regulation/1/2)
 
 [^f00007]: Footnote: [1973 c.60](https://www.legislation.gov.uk/ukpga/1973/60).
 
 [^f00008]: Footnote: [S.S.I. 2009/141](https://www.legislation.gov.uk/ssi/2009/141).
 
-[^key-2502ab28ea45d55b8669b6327b13797c]: Textual amendment: [Reg. 7(fa)](https://www.legislation.gov.uk/ssi/2016/58/regulation/7/fa) inserted (8.6.2022) by [The Animal Health and Welfare (Scotland) Act 2006 (Consequential Provisions) Order 2022 (S.S.I. 2022/195)](https://www.legislation.gov.uk/ssi/2022/195), [art. 1(2)](https://www.legislation.gov.uk/ssi/2022/195/article/1/2), [sch. 1 para. 5](https://www.legislation.gov.uk/ssi/2022/195/schedule/1/paragraph/5)
+[^c-2502ab28ea45d55b8669b6327b13797c]: Textual amendment: [Reg. 7(fa)](https://www.legislation.gov.uk/ssi/2016/58/regulation/7/fa) inserted (8.6.2022) by [The Animal Health and Welfare (Scotland) Act 2006 (Consequential Provisions) Order 2022 (S.S.I. 2022/195)](https://www.legislation.gov.uk/ssi/2022/195), [art. 1(2)](https://www.legislation.gov.uk/ssi/2022/195/article/1/2), [sch. 1 para. 5](https://www.legislation.gov.uk/ssi/2022/195/schedule/1/paragraph/5)
 
-[^key-76faa2683383e6517f8fbfeb79f5f2a9]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 29.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/58/regulation/1/2)
+[^c-76faa2683383e6517f8fbfeb79f5f2a9]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 29.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/58/regulation/1/2)
 
-[^key-afe9e035060b36994e53be31f67f0551]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 29.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/58/regulation/1/2)
+[^c-afe9e035060b36994e53be31f67f0551]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 29.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/58/regulation/1/2)
 
-[^key-d1d88fbfb0585559bf1333e9e9095ef9]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 29.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/58/regulation/1/2)
+[^c-d1d88fbfb0585559bf1333e9e9095ef9]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 29.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/58/regulation/1/2)
 
-[^key-b01533f3abc5e8b7648db67f8d54ac6e]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 29.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/58/regulation/1/2)
+[^c-b01533f3abc5e8b7648db67f8d54ac6e]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 29.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/58/regulation/1/2)
 
-[^key-5409c4377f005ca6d97f634786349f01]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 29.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/58/regulation/1/2)
+[^c-5409c4377f005ca6d97f634786349f01]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 29.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/58/regulation/1/2)
 
-[^key-d05c556ef11e29757134f7e87b85d561]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 29.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/58/regulation/1/2)
+[^c-d05c556ef11e29757134f7e87b85d561]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 29.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/58/regulation/1/2)
 
-[^key-5f4bb057157dda201f2b25461581cdf8]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 29.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/58/regulation/1/2)
+[^c-5f4bb057157dda201f2b25461581cdf8]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 29.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/58/regulation/1/2)

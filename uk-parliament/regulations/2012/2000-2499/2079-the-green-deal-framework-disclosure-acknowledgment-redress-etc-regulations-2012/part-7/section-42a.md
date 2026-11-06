@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 42A. Circumstances in which green deal information in disclosure document must be updated[^key-f8f60f70bca526dee54a3c9b3d2b10be]
+## 42A. Circumstances in which green deal information in disclosure document must be updated[^c-f8f60f70bca526dee54a3c9b3d2b10be]
 
 *Extent: E+W+S*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f8f60f70bca526dee54a3c9b3d2b10be]: Textual amendment: [Pt. 7 Ch. 1A](https://www.legislation.gov.uk/uksi/2012/2079/part/7/chapter/1A) inserted (28.1.2013) by [The Green Deal Framework (Disclosure, Acknowledgment, Redress etc.) (Amendment) Regulations 2013 (S.I. 2013/139)](https://www.legislation.gov.uk/uksi/2013/139), [regs. 1](https://www.legislation.gov.uk/uksi/2013/139/regulation/1), [7](https://www.legislation.gov.uk/uksi/2013/139/regulation/7)
+[^c-f8f60f70bca526dee54a3c9b3d2b10be]: Textual amendment: [Pt. 7 Ch. 1A](https://www.legislation.gov.uk/uksi/2012/2079/part/7/chapter/1A) inserted (28.1.2013) by [The Green Deal Framework (Disclosure, Acknowledgment, Redress etc.) (Amendment) Regulations 2013 (S.I. 2013/139)](https://www.legislation.gov.uk/uksi/2013/139), [regs. 1](https://www.legislation.gov.uk/uksi/2013/139/regulation/1), [7](https://www.legislation.gov.uk/uksi/2013/139/regulation/7)

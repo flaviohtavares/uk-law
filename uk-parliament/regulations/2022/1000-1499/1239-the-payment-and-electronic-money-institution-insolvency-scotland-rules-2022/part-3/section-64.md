@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 64. Complaint[^key-afc321323492f1e54e7dbafa12189155]
+## 64. Complaint[^c-afc321323492f1e54e7dbafa12189155]
 
 *Extent: S*
 
@@ -64,4 +64,4 @@ and, where satisfied that there has been prejudice, take such action as the rele
 
 ## Annotations
 
-[^key-afc321323492f1e54e7dbafa12189155]: Commencement: Rule 64 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-afc321323492f1e54e7dbafa12189155]: Commencement: Rule 64 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

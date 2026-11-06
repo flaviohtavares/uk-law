@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 71. Fit and proper person considerations[^key-0740b6b74c30f3ca7b6b5f63205fc72e]
+## 71. Fit and proper person considerations[^c-0740b6b74c30f3ca7b6b5f63205fc72e]
 
 *Extent: S*
 
@@ -62,4 +62,4 @@ After section 32N of the 1960 Act (inserted by section 70), insert—
 
 ## Annotations
 
-[^key-0740b6b74c30f3ca7b6b5f63205fc72e]: Commencement: [S. 71](https://www.legislation.gov.uk/asp/2014/14/section/71) in force at 1.5.2017 by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
+[^c-0740b6b74c30f3ca7b6b5f63205fc72e]: Commencement: [S. 71](https://www.legislation.gov.uk/asp/2014/14/section/71) in force at 1.5.2017 by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)

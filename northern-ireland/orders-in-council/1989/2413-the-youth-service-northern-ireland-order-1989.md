@@ -62,7 +62,7 @@ The Youth Service (Northern Ireland) Order 1989
 
 (1) In accordance with arrangements approved by the Department, the Youth Council shall—
 
-- (a) advise the Department, the Education Authority[^key-7b3e1e015fb244097a1dc7501b9c7a9d] and other bodies on the development of the youth service;
+- (a) advise the Department, the Education Authority[^c-7b3e1e015fb244097a1dc7501b9c7a9d] and other bodies on the development of the youth service;
 - (b) encourage cross‐community activity by the youth service;
 - (c) encourage the provision of facilities for the youth service and facilities which are especially beneficial to young persons; and
 - (d) encourage and assist the co‐ordination and efficient use of the resources of the youth service.
@@ -201,7 +201,7 @@ Article 3(2).
 
 (2) The Youth Council shall not acquire, hold or dispose of land without the consent of the Department.
 
-**2.** (1) The Youth Council shall consist of such persons as the Head of the Department, after consultation with such persons as appear to him to represent district councils, the Education Authority[^key-f9cebf5847ab30ee782d3edad0733ed7] and voluntary youth organisations, may appoint and the persons so appointed shall hold office for such terms and upon such conditions as to retirement, ceasing to hold office and re‐appointment as the Head of the Department may from time to time determine.
+**2.** (1) The Youth Council shall consist of such persons as the Head of the Department, after consultation with such persons as appear to him to represent district councils, the Education Authority[^c-f9cebf5847ab30ee782d3edad0733ed7] and voluntary youth organisations, may appoint and the persons so appointed shall hold office for such terms and upon such conditions as to retirement, ceasing to hold office and re‐appointment as the Head of the Department may from time to time determine.
 
 (2) A member shall be deemed to have vacated his office and the Youth Council shall declare his place vacant in the following circumstances—
 
@@ -250,7 +250,7 @@ Article 3(2).
 
 [^c11678061]: Textual amendment: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-7b3e1e015fb244097a1dc7501b9c7a9d]: Textual amendment: Words in [art. 4(1)(a)](https://www.legislation.gov.uk/nisi/1989/2413/article/4/1/a) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [s. 7(2)(c)](https://www.legislation.gov.uk/nia/2014/12/section/7/2/c), [Sch. 3 para. 12(1)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/12/1) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-7b3e1e015fb244097a1dc7501b9c7a9d]: Textual amendment: Words in [art. 4(1)(a)](https://www.legislation.gov.uk/nisi/1989/2413/article/4/1/a) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [s. 7(2)(c)](https://www.legislation.gov.uk/nia/2014/12/section/7/2/c), [Sch. 3 para. 12(1)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/12/1) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
 [^c11678071]: Textual amendment: [1972 c. 9 (N.I.)](https://www.legislation.gov.uk/apni/1972/9)
 
@@ -268,6 +268,6 @@ Article 3(2).
 
 [^c11678141]: Textual amendment: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-f9cebf5847ab30ee782d3edad0733ed7]: Textual amendment: Words in [Sch. para. 2(1)](https://www.legislation.gov.uk/nisi/1989/2413/schedule/paragraph/2/1) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [s. 7(2)(c)](https://www.legislation.gov.uk/nia/2014/12/section/7/2/c), [Sch. 3 para. 12(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/12/2) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-f9cebf5847ab30ee782d3edad0733ed7]: Textual amendment: Words in [Sch. para. 2(1)](https://www.legislation.gov.uk/nisi/1989/2413/schedule/paragraph/2/1) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [s. 7(2)(c)](https://www.legislation.gov.uk/nia/2014/12/section/7/2/c), [Sch. 3 para. 12(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/12/2) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
 [^c11678151]: Textual amendment: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)

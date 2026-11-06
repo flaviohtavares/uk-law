@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 68. Time and manner of payment[^key-c6116b3ff9b8bef87334816825e4c092]
+## 68. Time and manner of payment[^c-c6116b3ff9b8bef87334816825e4c092]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c6116b3ff9b8bef87334816825e4c092]: Commencement: [Reg. 68](https://www.legislation.gov.uk/nisr/2006/406/regulation/68) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
+[^c-c6116b3ff9b8bef87334816825e4c092]: Commencement: [Reg. 68](https://www.legislation.gov.uk/nisr/2006/406/regulation/68) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)

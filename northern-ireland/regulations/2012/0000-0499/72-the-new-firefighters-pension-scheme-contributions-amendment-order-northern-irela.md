@@ -33,7 +33,7 @@ Fire And Rescue Services
 
 Pensions
 
-The New Firefighters' Pension Scheme (Contributions) (Amendment) Order (Northern Ireland) 2012 (revoked)[^key-1846baf5c79cbb8193ea2e09702b5dbb]
+The New Firefighters' Pension Scheme (Contributions) (Amendment) Order (Northern Ireland) 2012 (revoked)[^c-1846baf5c79cbb8193ea2e09702b5dbb]
 
 Made
 
@@ -43,21 +43,21 @@ Coming into force
 
 1st April 2012
 
-[^key-1846baf5c79cbb8193ea2e09702b5dbb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1846baf5c79cbb8193ea2e09702b5dbb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation and commencement[^key-1846baf5c79cbb8193ea2e09702b5dbb]
-
-**Not yet in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Amendment of the New Firefighters' Pension Scheme Order (Northern Ireland) 2007[^key-1846baf5c79cbb8193ea2e09702b5dbb]
+## 1. Citation and commencement[^c-1846baf5c79cbb8193ea2e09702b5dbb]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-1846baf5c79cbb8193ea2e09702b5dbb]
+## 2. Amendment of the New Firefighters' Pension Scheme Order (Northern Ireland) 2007[^c-1846baf5c79cbb8193ea2e09702b5dbb]
+
+**Not yet in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3.[^c-1846baf5c79cbb8193ea2e09702b5dbb]
 
 **Not yet in force.**
 
@@ -65,12 +65,12 @@ Coming into force
 
 **May not be in force at this date. Check the source.**
 
-[^key-1846baf5c79cbb8193ea2e09702b5dbb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1846baf5c79cbb8193ea2e09702b5dbb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-1846baf5c79cbb8193ea2e09702b5dbb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1846baf5c79cbb8193ea2e09702b5dbb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1846baf5c79cbb8193ea2e09702b5dbb]: Textual amendment: Order revoked (31.3.2012) by [The New Firefighters Pension Scheme (Contributions) (Revocation) Order (Northern Ireland) 2012 (S.R. 2012/152)](https://www.legislation.gov.uk/nisr/2012/152), [arts. 1](https://www.legislation.gov.uk/nisr/2012/152/article/1), [2](https://www.legislation.gov.uk/nisr/2012/152/article/2)
+[^c-1846baf5c79cbb8193ea2e09702b5dbb]: Textual amendment: Order revoked (31.3.2012) by [The New Firefighters Pension Scheme (Contributions) (Revocation) Order (Northern Ireland) 2012 (S.R. 2012/152)](https://www.legislation.gov.uk/nisr/2012/152), [arts. 1](https://www.legislation.gov.uk/nisr/2012/152/article/1), [2](https://www.legislation.gov.uk/nisr/2012/152/article/2)

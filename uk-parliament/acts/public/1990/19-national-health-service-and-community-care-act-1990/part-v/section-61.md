@@ -24,13 +24,13 @@ summary: ''
 
 (2)[^c1358768] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-c7348e44d3dc9e3c3c003f8efe9f705a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-c7348e44d3dc9e3c3c003f8efe9f705a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3A)[^key-c7348e44d3dc9e3c3c003f8efe9f705a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3A)[^c-c7348e44d3dc9e3c3c003f8efe9f705a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3B)[^key-c7348e44d3dc9e3c3c003f8efe9f705a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3B)[^c-c7348e44d3dc9e3c3c003f8efe9f705a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3C)[^key-c7348e44d3dc9e3c3c003f8efe9f705a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3C)[^c-c7348e44d3dc9e3c3c003f8efe9f705a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4)[^c1358774] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -46,6 +46,6 @@ summary: ''
 
 [^c1358768]: Textual amendment: S. 61(2) repealed by [Finance Act 1990 (c. 29, SIF 63:1)](https://www.legislation.gov.uk/ukpga/1990/29), [s. 132](https://www.legislation.gov.uk/ukpga/1990/29/section/132), [Sch. 19 Pt. IV](https://www.legislation.gov.uk/ukpga/1990/29/schedule/19/part/IV)
 
-[^key-c7348e44d3dc9e3c3c003f8efe9f705a]: Textual amendment: S. 61(3)-(3C) repealed (with effect in accordance with s. 216(3)(4) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 216(2)(a)](https://www.legislation.gov.uk/ukpga/2012/14/section/216/2/a)
+[^c-c7348e44d3dc9e3c3c003f8efe9f705a]: Textual amendment: S. 61(3)-(3C) repealed (with effect in accordance with s. 216(3)(4) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 216(2)(a)](https://www.legislation.gov.uk/ukpga/2012/14/section/216/2/a)
 
 [^c1358774]: Textual amendment: S. 61(4) repealed (1.9.1994) by [1994 c. 23](https://www.legislation.gov.uk/ukpga/1994/23), [ss. 100(2)](https://www.legislation.gov.uk/ukpga/1994/23/section/100/2), [101(1)](https://www.legislation.gov.uk/ukpga/1994/23/section/101/1), [Sch. 15](https://www.legislation.gov.uk/ukpga/1994/23/schedule/15)

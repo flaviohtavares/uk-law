@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16. Validity of things done[^key-738d65999c9d4eaf9b90285a98092ca1]
+## 16. Validity of things done[^c-738d65999c9d4eaf9b90285a98092ca1]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ The validity of anything done by the Commission is not affected by—
 
 ## Annotations
 
-[^key-738d65999c9d4eaf9b90285a98092ca1]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2016/18/section/16) in force at 1.11.2016 by [S.S.I. 2016/250](https://www.legislation.gov.uk/ssi/2016/250), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/250/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2016/250/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2016/250/schedule/1) (with [reg. 3](https://www.legislation.gov.uk/ssi/2016/250/regulation/3))
+[^c-738d65999c9d4eaf9b90285a98092ca1]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2016/18/section/16) in force at 1.11.2016 by [S.S.I. 2016/250](https://www.legislation.gov.uk/ssi/2016/250), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/250/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2016/250/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2016/250/schedule/1) (with [reg. 3](https://www.legislation.gov.uk/ssi/2016/250/regulation/3))

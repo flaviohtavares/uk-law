@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Amendment of the Novel Foods (England) Regulations 2018[^key-b8e9fd100752f54c2ef16ac20e975c1e]
+## 3. Amendment of the Novel Foods (England) Regulations 2018[^c-b8e9fd100752f54c2ef16ac20e975c1e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The Novel Foods (England) Regulations 2018 [^c23678621] are amended as follows.
 
 ## Annotations
 
-[^key-b8e9fd100752f54c2ef16ac20e975c1e]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-b8e9fd100752f54c2ef16ac20e975c1e]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23678621]: Marginal citation: [S.I. 2018/154](https://www.legislation.gov.uk/uksi/2018/154).

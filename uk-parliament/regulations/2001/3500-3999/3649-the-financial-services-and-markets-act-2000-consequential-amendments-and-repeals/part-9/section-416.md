@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 416. Access to medical reports: “insurance purposes”[^key-93458d15190337668caefd044301e2d6]
+## 416. Access to medical reports: “insurance purposes”[^c-93458d15190337668caefd044301e2d6]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-93458d15190337668caefd044301e2d6]: Commencement: Art. 416 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-93458d15190337668caefd044301e2d6]: Commencement: Art. 416 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

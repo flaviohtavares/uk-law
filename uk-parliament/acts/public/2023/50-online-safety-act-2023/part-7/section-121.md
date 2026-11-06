@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 121. Notices to deal with terrorism content or CSEA content (or both)[^key-0da5ec31a4f1e341e7b157cd3bb4ae75][^key-2b96187b417be2a514bb75766d113e9e]
+## 121. Notices to deal with terrorism content or CSEA content (or both)[^c-0da5ec31a4f1e341e7b157cd3bb4ae75][^c-2b96187b417be2a514bb75766d113e9e]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,6 +65,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0da5ec31a4f1e341e7b157cd3bb4ae75]: Commencement: S. 121 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-0da5ec31a4f1e341e7b157cd3bb4ae75]: Commencement: S. 121 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-2b96187b417be2a514bb75766d113e9e]: Commencement: [S. 121](https://www.legislation.gov.uk/ukpga/2023/50/section/121) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z16)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z16)
+[^c-2b96187b417be2a514bb75766d113e9e]: Commencement: [S. 121](https://www.legislation.gov.uk/ukpga/2023/50/section/121) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z16)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z16)

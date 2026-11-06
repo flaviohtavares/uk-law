@@ -22,7 +22,7 @@ summary: ''
 
 (1) A society which has any withdrawable share capital may not be registered with the object of carrying on the business of banking.
 
-(2)[^key-e2e804e9a5b56f723517f78b195b785d] Section 67(2) (taking of deposits below limits specified there not to be treated as carrying on the business of banking) applies for the purposes of subsection (1).
+(2)[^c-e2e804e9a5b56f723517f78b195b785d] Section 67(2) (taking of deposits below limits specified there not to be treated as carrying on the business of banking) applies for the purposes of subsection (1).
 
 (3) For the prohibition on registering a society whose objects are wholly or substantially those of a credit union otherwise than as a credit union, see section 2(3) of the Credit Unions Act 1979.
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e2e804e9a5b56f723517f78b195b785d]: Modification: [S. 4(2)](https://www.legislation.gov.uk/ukpga/2014/14/section/4/2) excluded by 1979 c. 34, s. 2(1) (as substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 3(2)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/3/2) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5)))
+[^c-e2e804e9a5b56f723517f78b195b785d]: Modification: [S. 4(2)](https://www.legislation.gov.uk/ukpga/2014/14/section/4/2) excluded by 1979 c. 34, s. 2(1) (as substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 3(2)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/3/2) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5)))

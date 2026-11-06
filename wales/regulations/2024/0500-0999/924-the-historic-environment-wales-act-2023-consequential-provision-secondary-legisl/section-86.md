@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 86. The Town and Country Planning (Enforcement Notices and Appeals) (Wales) Regulations 2017[^key-f6210ad003f9d67539b01c5a7e7c376e]
+## 86. The Town and Country Planning (Enforcement Notices and Appeals) (Wales) Regulations 2017[^c-f6210ad003f9d67539b01c5a7e7c376e]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ The Town and Country Planning (Enforcement Notices and Appeals) (Wales) Regulati
 
 ## Annotations
 
-[^key-f6210ad003f9d67539b01c5a7e7c376e]: Commencement: [Reg. 86](https://www.legislation.gov.uk/wsi/2024/924/regulation/86) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-f6210ad003f9d67539b01c5a7e7c376e]: Commencement: [Reg. 86](https://www.legislation.gov.uk/wsi/2024/924/regulation/86) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
 
 [^f00049]: Footnote: [S.I. 2017/530 (W. 113)](https://www.legislation.gov.uk/wsi/2017/530).

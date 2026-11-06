@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Gambling[^key-007aaf3e334dbf6b866086eebd1bbd26]
+## 3. Gambling[^c-007aaf3e334dbf6b866086eebd1bbd26]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ In this Act “**gambling**” means—
 
 ## Annotations
 
-[^key-007aaf3e334dbf6b866086eebd1bbd26]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2005/19/section/3) in force at 1.10.2005 by [S.I. 2005/2455](https://www.legislation.gov.uk/uksi/2005/2455), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/2455/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/2455/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2455/article/3))
+[^c-007aaf3e334dbf6b866086eebd1bbd26]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2005/19/section/3) in force at 1.10.2005 by [S.I. 2005/2455](https://www.legislation.gov.uk/uksi/2005/2455), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/2455/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/2455/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2455/article/3))

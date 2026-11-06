@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 12. Termination of responsibility for temporary residents[^key-68810627ed3f5e38417360938e57fd88]
+## 12. Termination of responsibility for temporary residents[^c-68810627ed3f5e38417360938e57fd88]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Where, on or before 31st March 2004, a relevant medical practitioner had informe
 
 ## Annotations
 
-[^key-68810627ed3f5e38417360938e57fd88]: Commencement: Art. 12 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-68810627ed3f5e38417360938e57fd88]: Commencement: Art. 12 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)

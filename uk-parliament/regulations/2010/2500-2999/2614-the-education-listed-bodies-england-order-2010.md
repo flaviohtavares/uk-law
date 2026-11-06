@@ -31,7 +31,7 @@ summary: ''
 
 Education, England
 
-The Education (Listed Bodies) (England) Order 2010 (revoked)[^key-2b8ae595543507edf30d08be5049e7fd]
+The Education (Listed Bodies) (England) Order 2010 (revoked)[^c-2b8ae595543507edf30d08be5049e7fd]
 
 Made
 
@@ -41,44 +41,44 @@ Coming into force
 
 30th November 2010
 
-[^key-2b8ae595543507edf30d08be5049e7fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2b8ae595543507edf30d08be5049e7fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, application and revocation[^key-2b8ae595543507edf30d08be5049e7fd]
+## 1. Citation, commencement, application and revocation[^c-2b8ae595543507edf30d08be5049e7fd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Listed Bodies[^key-2b8ae595543507edf30d08be5049e7fd]
+## 2. Listed Bodies[^c-2b8ae595543507edf30d08be5049e7fd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2b8ae595543507edf30d08be5049e7fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2b8ae595543507edf30d08be5049e7fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1[^key-2b8ae595543507edf30d08be5049e7fd]
+## SCHEDULE 1[^c-2b8ae595543507edf30d08be5049e7fd]
 
 Article 2
 
-### PART 1 — Bodies Providing Courses in Preparation for a Degree[^key-2b8ae595543507edf30d08be5049e7fd]
+### PART 1 — Bodies Providing Courses in Preparation for a Degree[^c-2b8ae595543507edf30d08be5049e7fd]
 
-#### SECTION 1 — Generally[^key-2b8ae595543507edf30d08be5049e7fd]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### SECTION 2 — In respect of foundation degrees only[^key-2b8ae595543507edf30d08be5049e7fd]
+#### SECTION 1 — Generally[^c-2b8ae595543507edf30d08be5049e7fd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Institutions of a University[^key-2b8ae595543507edf30d08be5049e7fd]
+#### SECTION 2 — In respect of foundation degrees only[^c-2b8ae595543507edf30d08be5049e7fd]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART 2 — Institutions of a University[^c-2b8ae595543507edf30d08be5049e7fd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-2b8ae595543507edf30d08be5049e7fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2b8ae595543507edf30d08be5049e7fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2b8ae595543507edf30d08be5049e7fd]: Textual amendment: Order revoked (30.12.2013) by [The Education (Listed Bodies) (England) Order 2013 (S.I. 2013/2993)](https://www.legislation.gov.uk/uksi/2013/2993), [art. 1](https://www.legislation.gov.uk/uksi/2013/2993/article/1)
+[^c-2b8ae595543507edf30d08be5049e7fd]: Textual amendment: Order revoked (30.12.2013) by [The Education (Listed Bodies) (England) Order 2013 (S.I. 2013/2993)](https://www.legislation.gov.uk/uksi/2013/2993), [art. 1](https://www.legislation.gov.uk/uksi/2013/2993/article/1)

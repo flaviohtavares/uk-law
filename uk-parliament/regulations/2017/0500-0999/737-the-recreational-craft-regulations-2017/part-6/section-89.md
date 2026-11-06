@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Transitional provisions[^key-4ce364a7671dda9dfe2328df9f88980f]
+## 89. Transitional provisions[^c-4ce364a7671dda9dfe2328df9f88980f]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4ce364a7671dda9dfe2328df9f88980f]: Commencement: Reg. 89 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)
+[^c-4ce364a7671dda9dfe2328df9f88980f]: Commencement: Reg. 89 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)
 
 [^f00021]: Footnote: OJ No L 164, 30.6.1994, p.15.

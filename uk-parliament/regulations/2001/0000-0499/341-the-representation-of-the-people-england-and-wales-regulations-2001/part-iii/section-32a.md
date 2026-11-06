@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32A. Representations regarding clerical errors[^key-0652fc765dd25b9b8afef477f0ced7c7][^key-02a7d23711bf133a22a438b2039fc049]
+## 32A. Representations regarding clerical errors[^c-0652fc765dd25b9b8afef477f0ced7c7][^c-02a7d23711bf133a22a438b2039fc049]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0652fc765dd25b9b8afef477f0ced7c7]: Modification: [Reg. 32A](https://www.legislation.gov.uk/uksi/2001/341/regulation/32A) applied (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 2(e)](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/2/e)
+[^c-0652fc765dd25b9b8afef477f0ced7c7]: Modification: [Reg. 32A](https://www.legislation.gov.uk/uksi/2001/341/regulation/32A) applied (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 2(e)](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/2/e)
 
-[^key-02a7d23711bf133a22a438b2039fc049]: Textual amendment: [Reg. 32A](https://www.legislation.gov.uk/uksi/2001/341/regulation/32A) inserted (1.1.2007) by [The Representation of the People (England and Wales) (Amendment) (No. 2) Regulations 2006 (S.I. 2006/2910)](https://www.legislation.gov.uk/uksi/2006/2910), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1), [24(4)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/24/4) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/2)[(3)(a)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/3/a))
+[^c-02a7d23711bf133a22a438b2039fc049]: Textual amendment: [Reg. 32A](https://www.legislation.gov.uk/uksi/2001/341/regulation/32A) inserted (1.1.2007) by [The Representation of the People (England and Wales) (Amendment) (No. 2) Regulations 2006 (S.I. 2006/2910)](https://www.legislation.gov.uk/uksi/2006/2910), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1), [24(4)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/24/4) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/2)[(3)(a)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/3/a))

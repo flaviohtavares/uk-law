@@ -37,8 +37,8 @@ Table 1
 </tbody>
 </table>
 
-[^key-563d81f74eeb2423f6d7e9be052061ba]
+[^c-563d81f74eeb2423f6d7e9be052061ba]
 
 ## Annotations
 
-[^key-563d81f74eeb2423f6d7e9be052061ba]: Textual amendment: Words in [reg. 33](https://www.legislation.gov.uk/wsi/2018/191/regulation/33) Table 1 substituted (5.2.2026 with application in accordance with reg. 2 of the amending S.I.) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/3)](https://www.legislation.gov.uk/wsi/2026/3), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/3/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2026/3/regulation/2), [30](https://www.legislation.gov.uk/wsi/2026/3/regulation/30)
+[^c-563d81f74eeb2423f6d7e9be052061ba]: Textual amendment: Words in [reg. 33](https://www.legislation.gov.uk/wsi/2018/191/regulation/33) Table 1 substituted (5.2.2026 with application in accordance with reg. 2 of the amending S.I.) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/3)](https://www.legislation.gov.uk/wsi/2026/3), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/3/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2026/3/regulation/2), [30](https://www.legislation.gov.uk/wsi/2026/3/regulation/30)

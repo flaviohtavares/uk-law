@@ -34,7 +34,7 @@ summary: ''
 - (h) a register created under section 57(1);
 - (i) a document containing census information which is personal census information (“census information” and “personal census information” having the meanings given to those expressions by section 8(7) of the Census Act 1920 (c. 41));
 - (j) a document containing information obtained by virtue of the Population Statistics Act 1938 (c. 12);
-- (k)[^key-cfe2585ba6997458c912655039d81a41][^key-7a34b5e21c3f6f850e0489de7bc5a5f1] the Adopted Children Register maintained under section 53(1) of the[^key-c1f982783d15d2673074634ea4f4a697] [Adoption and Children (Scotland) Act 2007 (asp 4](https://www.legislation.gov.uk/asp/2007/4)) or any register or book maintained in pursuance of section 55(1) of that Act ;
+- (k)[^c-cfe2585ba6997458c912655039d81a41][^c-7a34b5e21c3f6f850e0489de7bc5a5f1] the Adopted Children Register maintained under section 53(1) of the[^c-c1f982783d15d2673074634ea4f4a697] [Adoption and Children (Scotland) Act 2007 (asp 4](https://www.legislation.gov.uk/asp/2007/4)) or any register or book maintained in pursuance of section 55(1) of that Act ;
 - (l) the Gender Recognition Register.
 
 (3) The Registrar General is to prepare and maintain an index of the accessible material.
@@ -63,8 +63,8 @@ summary: ''
 
 ## Annotations
 
-[^key-cfe2585ba6997458c912655039d81a41]: Modification: [S. 58(2)(k)](https://www.legislation.gov.uk/asp/2006/14/section/58/2/k) modified (6.4.2010) by [The Human Fertilisation and Embryology (Parental Orders) Regulations 2010 (S.I. 2010/985)](https://www.legislation.gov.uk/uksi/2010/985), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/985/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2010/985/regulation/5), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/985/schedule/4)
+[^c-cfe2585ba6997458c912655039d81a41]: Modification: [S. 58(2)(k)](https://www.legislation.gov.uk/asp/2006/14/section/58/2/k) modified (6.4.2010) by [The Human Fertilisation and Embryology (Parental Orders) Regulations 2010 (S.I. 2010/985)](https://www.legislation.gov.uk/uksi/2010/985), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/985/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2010/985/regulation/5), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/985/schedule/4)
 
-[^key-7a34b5e21c3f6f850e0489de7bc5a5f1]: Modification: [S. 58(2)(k)](https://www.legislation.gov.uk/asp/2006/14/section/58/2/k) modified (21.12.2018) by [The Human Fertilisation and Embryology (Parental Orders) Regulations 2018 (S.I. 2018/1412)](https://www.legislation.gov.uk/uksi/2018/1412), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/2), [Sch. 4 para. 22](https://www.legislation.gov.uk/uksi/2018/1412/schedule/4/paragraph/22)
+[^c-7a34b5e21c3f6f850e0489de7bc5a5f1]: Modification: [S. 58(2)(k)](https://www.legislation.gov.uk/asp/2006/14/section/58/2/k) modified (21.12.2018) by [The Human Fertilisation and Embryology (Parental Orders) Regulations 2018 (S.I. 2018/1412)](https://www.legislation.gov.uk/uksi/2018/1412), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/2), [Sch. 4 para. 22](https://www.legislation.gov.uk/uksi/2018/1412/schedule/4/paragraph/22)
 
-[^key-c1f982783d15d2673074634ea4f4a697]: Textual amendment: Words in s. 58(2)(k) substituted (27.1.2010) by [The Adoption and Children (Scotland) Act 2007 (Modification of Enactments) Order 2010 (S.S.I. 2010/21)](https://www.legislation.gov.uk/ssi/2010/21), [art. 1](https://www.legislation.gov.uk/ssi/2010/21/article/1), [sch. para. 7](https://www.legislation.gov.uk/ssi/2010/21/schedule/paragraph/7)
+[^c-c1f982783d15d2673074634ea4f4a697]: Textual amendment: Words in s. 58(2)(k) substituted (27.1.2010) by [The Adoption and Children (Scotland) Act 2007 (Modification of Enactments) Order 2010 (S.S.I. 2010/21)](https://www.legislation.gov.uk/ssi/2010/21), [art. 1](https://www.legislation.gov.uk/ssi/2010/21/article/1), [sch. para. 7](https://www.legislation.gov.uk/ssi/2010/21/schedule/paragraph/7)

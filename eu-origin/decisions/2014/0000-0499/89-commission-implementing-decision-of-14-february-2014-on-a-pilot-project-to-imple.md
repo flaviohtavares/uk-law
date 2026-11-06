@@ -37,50 +37,50 @@ on a pilot project to implement the administrative cooperation obligations set o
 
 (2014/89/EU) (revoked)
 
-[^key-54c7d6955919c33a092cdef89984ebd5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-54c7d6955919c33a092cdef89984ebd5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Scope and objectives of the pilot project[^key-54c7d6955919c33a092cdef89984ebd5]
+## Article 1. Scope and objectives of the pilot project[^c-54c7d6955919c33a092cdef89984ebd5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Competent authorities[^key-54c7d6955919c33a092cdef89984ebd5]
+## Article 2. Competent authorities[^c-54c7d6955919c33a092cdef89984ebd5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Monitoring and reporting[^key-54c7d6955919c33a092cdef89984ebd5]
+## Article 3. Monitoring and reporting[^c-54c7d6955919c33a092cdef89984ebd5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Administrative cooperation between competent authorities[^key-54c7d6955919c33a092cdef89984ebd5]
+## Article 4. Administrative cooperation between competent authorities[^c-54c7d6955919c33a092cdef89984ebd5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Administrative cooperation between competent authorities and the Commission[^key-54c7d6955919c33a092cdef89984ebd5]
+## Article 5. Administrative cooperation between competent authorities and the Commission[^c-54c7d6955919c33a092cdef89984ebd5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Evaluation[^key-54c7d6955919c33a092cdef89984ebd5]
+## Article 6. Evaluation[^c-54c7d6955919c33a092cdef89984ebd5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Entry into force[^key-54c7d6955919c33a092cdef89984ebd5]
+## Article 7. Entry into force[^c-54c7d6955919c33a092cdef89984ebd5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-54c7d6955919c33a092cdef89984ebd5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-54c7d6955919c33a092cdef89984ebd5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I — INFORMATION REQUEST PROCEDURE[^key-54c7d6955919c33a092cdef89984ebd5]
+## ANNEX I — INFORMATION REQUEST PROCEDURE[^c-54c7d6955919c33a092cdef89984ebd5]
 
 [image: see source](https://www.legislation.gov.uk/eudn/2014/89/images/eudn_20140089_2014-02-14_en_001)
 
-## ANNEX II — NOTIFICATION PROCEDURE[^key-54c7d6955919c33a092cdef89984ebd5]
+## ANNEX II — NOTIFICATION PROCEDURE[^c-54c7d6955919c33a092cdef89984ebd5]
 
 [image: see source](https://www.legislation.gov.uk/eudn/2014/89/images/eudn_20140089_2014-02-14_en_002)
 
 ## Annotations
 
-[^key-54c7d6955919c33a092cdef89984ebd5]: Textual amendment: Decision revoked (9.12.2022) by [The Internal Market Information System Regulation (Amendment etc.) Regulations 2022 (S.I. 2022/1306)](https://www.legislation.gov.uk/uksi/2022/1306), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1306/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2022/1306/regulation/4/2)
+[^c-54c7d6955919c33a092cdef89984ebd5]: Textual amendment: Decision revoked (9.12.2022) by [The Internal Market Information System Regulation (Amendment etc.) Regulations 2022 (S.I. 2022/1306)](https://www.legislation.gov.uk/uksi/2022/1306), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1306/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2022/1306/regulation/4/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7. Debt payment programmes: power to make further provision[^key-63d2937cc1ff9778f7e2f19e2e3f0b71]
+## 7. Debt payment programmes: power to make further provision[^c-63d2937cc1ff9778f7e2f19e2e3f0b71]
 
 *Extent: S*
 
@@ -31,14 +31,14 @@ summary: ''
 
 - (a) the class of person who may or may not make an application for the approval, or the variation, of a debt payment programme;
 - (b) the class of debt in respect of which such an application may or may not be made;
-- (ba)[^key-ce73756b0c9846e3e160d32191c51549] circumstances in which some or all of the functions of a money adviser under section 3 above may instead be carried out by an approved intermediary;
+- (ba)[^c-ce73756b0c9846e3e160d32191c51549] circumstances in which some or all of the functions of a money adviser under section 3 above may instead be carried out by an approved intermediary;
 - (bb) circumstances in which a debtor is entitled to make an application for the approval, or the variation, of a debt payment programme where the debtor has not obtained advice under section 3(1) above;
 - (bc) the manner in which—
   - (i) the seeking of the consent of creditors to applications for approval of debt payment programmes; or
   - (ii) the making of such applications,
 
   affects the rights and remedies of creditors or other third parties;
-- (bd)[^key-2210fd319325b6764d90b319cfccb937] the method of assessing the amount of a debtor's assets, income, liabilities and expenditure in considering applications for the approval, or the variation, of a debt payment programme,
+- (bd)[^c-2210fd319325b6764d90b319cfccb937] the method of assessing the amount of a debtor's assets, income, liabilities and expenditure in considering applications for the approval, or the variation, of a debt payment programme,
 - (c) the matters to which the Scottish Ministers are to have regard in determining whether to approve such an application;
 - (d) the conditions which may or may not be attached to an approval of such an application;
 - (e) circumstances in which such an application will not be approved;
@@ -60,11 +60,11 @@ summary: ''
 - (q) circumstances in which creditors are to notify debtors of the right to make such an application and the effect of the failure of a creditor to provide that notice;
 - (r) the class of person who may act as a payments distributor;
 - (s) the class of person who may act as a money adviser;
-- (sa)[^key-34dba749118bcdd5f2dec12f490f151b] the class of person who may act as an approved intermediary;
+- (sa)[^c-34dba749118bcdd5f2dec12f490f151b] the class of person who may act as an approved intermediary;
 - (t) the functions of a payments distributor;
 - (u) the functions of a money adviser;
-- (ua)[^key-6e6d4800270d0a1acac1ad94c9ff2559] the functions of an approved intermediary;
-- (ub)[^key-7056b6a26f075e6f7f9eb00322bc7702] the remuneration of payments distributors and money advisers,
+- (ua)[^c-6e6d4800270d0a1acac1ad94c9ff2559] the functions of an approved intermediary;
+- (ub)[^c-7056b6a26f075e6f7f9eb00322bc7702] the remuneration of payments distributors and money advisers,
 - (v) the establishment and maintenance by the Scottish Ministers of a register of debt payment programmes and applications for the approval, and variation, of such programmes;
 - (w) the information which is to be kept in such a register;
 - (x) the manner in which that information is to be kept and in which it, or any part of it, is to be made available to the public; and
@@ -85,14 +85,14 @@ summary: ''
 
 ## Annotations
 
-[^key-63d2937cc1ff9778f7e2f19e2e3f0b71]: Commencement: S. 7 in force at 24.9.2004 by [S.S.I. 2004/416](https://www.legislation.gov.uk/ssi/2004/416), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2004/416/article/2/1/b)
+[^c-63d2937cc1ff9778f7e2f19e2e3f0b71]: Commencement: S. 7 in force at 24.9.2004 by [S.S.I. 2004/416](https://www.legislation.gov.uk/ssi/2004/416), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2004/416/article/2/1/b)
 
-[^key-ce73756b0c9846e3e160d32191c51549]: Textual amendment: S. 7(2)(ba)-(bc) inserted (8.3.2007) by [Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3), [ss. 212(5)(a)](https://www.legislation.gov.uk/asp/2007/3/section/212/5/a), [227(3)](https://www.legislation.gov.uk/asp/2007/3/section/227/3) (with [s. 223](https://www.legislation.gov.uk/asp/2007/3/section/223)); [S.S.I. 2007/82](https://www.legislation.gov.uk/ssi/2007/82), [art. 3(b)](https://www.legislation.gov.uk/ssi/2007/82/article/3/b)
+[^c-ce73756b0c9846e3e160d32191c51549]: Textual amendment: S. 7(2)(ba)-(bc) inserted (8.3.2007) by [Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3), [ss. 212(5)(a)](https://www.legislation.gov.uk/asp/2007/3/section/212/5/a), [227(3)](https://www.legislation.gov.uk/asp/2007/3/section/227/3) (with [s. 223](https://www.legislation.gov.uk/asp/2007/3/section/223)); [S.S.I. 2007/82](https://www.legislation.gov.uk/ssi/2007/82), [art. 3(b)](https://www.legislation.gov.uk/ssi/2007/82/article/3/b)
 
-[^key-2210fd319325b6764d90b319cfccb937]: Textual amendment: [S. 7(2)(bd)](https://www.legislation.gov.uk/asp/2002/17/section/7/2/bd) inserted (30.6.2014) by [Bankruptcy and Debt Advice (Scotland) Act 2014 (asp 11)](https://www.legislation.gov.uk/asp/2014/11), [ss. 3(2)](https://www.legislation.gov.uk/asp/2014/11/section/3/2), [57(2)](https://www.legislation.gov.uk/asp/2014/11/section/57/2); [S.S.I. 2014/172](https://www.legislation.gov.uk/ssi/2014/172), [art. 2](https://www.legislation.gov.uk/ssi/2014/172/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/172/schedule)
+[^c-2210fd319325b6764d90b319cfccb937]: Textual amendment: [S. 7(2)(bd)](https://www.legislation.gov.uk/asp/2002/17/section/7/2/bd) inserted (30.6.2014) by [Bankruptcy and Debt Advice (Scotland) Act 2014 (asp 11)](https://www.legislation.gov.uk/asp/2014/11), [ss. 3(2)](https://www.legislation.gov.uk/asp/2014/11/section/3/2), [57(2)](https://www.legislation.gov.uk/asp/2014/11/section/57/2); [S.S.I. 2014/172](https://www.legislation.gov.uk/ssi/2014/172), [art. 2](https://www.legislation.gov.uk/ssi/2014/172/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/172/schedule)
 
-[^key-34dba749118bcdd5f2dec12f490f151b]: Textual amendment: S. 7(2)(sa) inserted (8.3.2007) by [Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3), [ss. 212(5)(b)](https://www.legislation.gov.uk/asp/2007/3/section/212/5/b), [227(3)](https://www.legislation.gov.uk/asp/2007/3/section/227/3) (with [s. 223](https://www.legislation.gov.uk/asp/2007/3/section/223)); [S.S.I. 2007/82](https://www.legislation.gov.uk/ssi/2007/82), [art. 3(b)](https://www.legislation.gov.uk/ssi/2007/82/article/3/b)
+[^c-34dba749118bcdd5f2dec12f490f151b]: Textual amendment: S. 7(2)(sa) inserted (8.3.2007) by [Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3), [ss. 212(5)(b)](https://www.legislation.gov.uk/asp/2007/3/section/212/5/b), [227(3)](https://www.legislation.gov.uk/asp/2007/3/section/227/3) (with [s. 223](https://www.legislation.gov.uk/asp/2007/3/section/223)); [S.S.I. 2007/82](https://www.legislation.gov.uk/ssi/2007/82), [art. 3(b)](https://www.legislation.gov.uk/ssi/2007/82/article/3/b)
 
-[^key-6e6d4800270d0a1acac1ad94c9ff2559]: Textual amendment: S. 7(2)(ua) inserted (8.3.2007) by [Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3), [ss. 212(5)(c)](https://www.legislation.gov.uk/asp/2007/3/section/212/5/c), [227(3)](https://www.legislation.gov.uk/asp/2007/3/section/227/3) (with [s. 223](https://www.legislation.gov.uk/asp/2007/3/section/223)); [S.S.I. 2007/82](https://www.legislation.gov.uk/ssi/2007/82), [art. 3(b)](https://www.legislation.gov.uk/ssi/2007/82/article/3/b)
+[^c-6e6d4800270d0a1acac1ad94c9ff2559]: Textual amendment: S. 7(2)(ua) inserted (8.3.2007) by [Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3), [ss. 212(5)(c)](https://www.legislation.gov.uk/asp/2007/3/section/212/5/c), [227(3)](https://www.legislation.gov.uk/asp/2007/3/section/227/3) (with [s. 223](https://www.legislation.gov.uk/asp/2007/3/section/223)); [S.S.I. 2007/82](https://www.legislation.gov.uk/ssi/2007/82), [art. 3(b)](https://www.legislation.gov.uk/ssi/2007/82/article/3/b)
 
-[^key-7056b6a26f075e6f7f9eb00322bc7702]: Textual amendment: [S. 7(2)(ub)](https://www.legislation.gov.uk/asp/2002/17/section/7/2/ub) inserted (30.6.2014) by [Bankruptcy and Debt Advice (Scotland) Act 2014 (asp 11)](https://www.legislation.gov.uk/asp/2014/11), [ss. 53(3)](https://www.legislation.gov.uk/asp/2014/11/section/53/3), [57(2)](https://www.legislation.gov.uk/asp/2014/11/section/57/2); [S.S.I. 2014/172](https://www.legislation.gov.uk/ssi/2014/172), [art. 2](https://www.legislation.gov.uk/ssi/2014/172/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/172/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2014/172/article/3))
+[^c-7056b6a26f075e6f7f9eb00322bc7702]: Textual amendment: [S. 7(2)(ub)](https://www.legislation.gov.uk/asp/2002/17/section/7/2/ub) inserted (30.6.2014) by [Bankruptcy and Debt Advice (Scotland) Act 2014 (asp 11)](https://www.legislation.gov.uk/asp/2014/11), [ss. 53(3)](https://www.legislation.gov.uk/asp/2014/11/section/53/3), [57(2)](https://www.legislation.gov.uk/asp/2014/11/section/57/2); [S.S.I. 2014/172](https://www.legislation.gov.uk/ssi/2014/172), [art. 2](https://www.legislation.gov.uk/ssi/2014/172/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/172/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2014/172/article/3))

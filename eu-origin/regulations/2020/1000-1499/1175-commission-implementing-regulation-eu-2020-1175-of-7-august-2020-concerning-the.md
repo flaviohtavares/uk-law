@@ -36,18 +36,18 @@ concerning the authorisation of L-cysteine hydrochloride monohydrate produced by
 
 (Text with EEA relevance) (revoked)
 
-[^key-2df95002949b0d2eb4fc4eae63650b24]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2df95002949b0d2eb4fc4eae63650b24]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-2df95002949b0d2eb4fc4eae63650b24] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-2df95002949b0d2eb4fc4eae63650b24] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-2df95002949b0d2eb4fc4eae63650b24] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-2df95002949b0d2eb4fc4eae63650b24] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2df95002949b0d2eb4fc4eae63650b24]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2df95002949b0d2eb4fc4eae63650b24]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-2df95002949b0d2eb4fc4eae63650b24]
+## ANNEX[^c-2df95002949b0d2eb4fc4eae63650b24]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2df95002949b0d2eb4fc4eae63650b24]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 380](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/380) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-2df95002949b0d2eb4fc4eae63650b24]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 380](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/380) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

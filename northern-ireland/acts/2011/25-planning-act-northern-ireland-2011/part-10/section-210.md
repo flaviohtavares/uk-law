@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 210. Report of assessment[^key-998afa8f16ef7dd446044bd9f9488a8e][^key-1ab3224cf440fe0b4211230c94af0d63]
+## 210. Report of assessment[^c-998afa8f16ef7dd446044bd9f9488a8e][^c-1ab3224cf440fe0b4211230c94af0d63]
 
 *Extent: N.I.*
 
@@ -66,6 +66,6 @@ the Department may issue a direction to the council requiring it to take such ac
 
 ## Annotations
 
-[^key-998afa8f16ef7dd446044bd9f9488a8e]: Commencement: S. 210 in operation at 13.2.2015 for specified purposes by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1)
+[^c-998afa8f16ef7dd446044bd9f9488a8e]: Commencement: S. 210 in operation at 13.2.2015 for specified purposes by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1)
 
-[^key-1ab3224cf440fe0b4211230c94af0d63]: Commencement: S. 210 in operation at 1.4.2015 in so far as not already in operation by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by [S.R. 2016/159](https://www.legislation.gov.uk/nisr/2016/159), art. 2)
+[^c-1ab3224cf440fe0b4211230c94af0d63]: Commencement: S. 210 in operation at 1.4.2015 in so far as not already in operation by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by [S.R. 2016/159](https://www.legislation.gov.uk/nisr/2016/159), art. 2)

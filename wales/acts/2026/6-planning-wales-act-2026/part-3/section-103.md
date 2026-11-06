@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 103. Giving effect to minerals permissions relating to dormant sites[^key-f477abe8798d0a1357ed4bf3b6207b88]
+## 103. Giving effect to minerals permissions relating to dormant sites[^c-f477abe8798d0a1357ed4bf3b6207b88]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f477abe8798d0a1357ed4bf3b6207b88]: Commencement: S. 103 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-f477abe8798d0a1357ed4bf3b6207b88]: Commencement: S. 103 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

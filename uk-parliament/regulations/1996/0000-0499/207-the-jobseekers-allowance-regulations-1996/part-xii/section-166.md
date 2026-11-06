@@ -18,7 +18,7 @@ summary: ''
 
 (1) The Social Security (Mariners’ Benefits) Regulations 1975 [^c1774333] shall be amended in accordance with the following provisions of this regulation.
 
-(2) In regulation 2 for the words from “no day" to the end of the regulation there shall be substituted the words “he shall not be regarded[^key-f31ca74c9a7b13373391dfd74ae1dc5b] as available for employment on any day in that period of leave.”.
+(2) In regulation 2 for the words from “no day" to the end of the regulation there shall be substituted the words “he shall not be regarded[^c-f31ca74c9a7b13373391dfd74ae1dc5b] as available for employment on any day in that period of leave.”.
 
 (3) After regulation 4 there shall be inserted the following regulation–
 
@@ -47,7 +47,7 @@ summary: ''
 
 [^c1774333]: Textual amendment: [S.I. 1975/529](https://www.legislation.gov.uk/uksi/1975/529).
 
-[^key-f31ca74c9a7b13373391dfd74ae1dc5b]: Textual amendment: Word in reg. 166(2) substituted (7.10.1996) by [The Jobseeker’s Allowance (Amendment) Regulations 1996 (S.I. 1996/1516)](https://www.legislation.gov.uk/uksi/1996/1516), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1996/1516/regulation/1/1), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/1996/1516/schedule/part/2)
+[^c-f31ca74c9a7b13373391dfd74ae1dc5b]: Textual amendment: Word in reg. 166(2) substituted (7.10.1996) by [The Jobseeker’s Allowance (Amendment) Regulations 1996 (S.I. 1996/1516)](https://www.legislation.gov.uk/uksi/1996/1516), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1996/1516/regulation/1/1), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/1996/1516/schedule/part/2)
 
 [^c1774334]: Textual amendment: [1995 c.18](https://www.legislation.gov.uk/ukpga/1995/18).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Access to schools, post-16 institutions and other institutions[^key-813dbd95f3c2584f35a29d28258f2617]
+## 65. Access to schools, post-16 institutions and other institutions[^c-813dbd95f3c2584f35a29d28258f2617]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-813dbd95f3c2584f35a29d28258f2617]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2014/6/section/65) in force at 1.9.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a) (with savings and transitional provisions in S.I. 2014/2270 (as amended (1.4.2015) by S.I. 2015/505 and (1.9.2015) by S.I. 2015/1619)
+[^c-813dbd95f3c2584f35a29d28258f2617]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2014/6/section/65) in force at 1.9.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a) (with savings and transitional provisions in S.I. 2014/2270 (as amended (1.4.2015) by S.I. 2015/505 and (1.9.2015) by S.I. 2015/1619)

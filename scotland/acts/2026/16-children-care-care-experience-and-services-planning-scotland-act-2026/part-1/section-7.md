@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7. Consequential modifications of enactments[^key-51abe2ae73227f0c0f0f2f0d32233e6a]
+## 7. Consequential modifications of enactments[^c-51abe2ae73227f0c0f0f2f0d32233e6a]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-51abe2ae73227f0c0f0f2f0d32233e6a]: Commencement: S. 7 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)
+[^c-51abe2ae73227f0c0f0f2f0d32233e6a]: Commencement: S. 7 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)

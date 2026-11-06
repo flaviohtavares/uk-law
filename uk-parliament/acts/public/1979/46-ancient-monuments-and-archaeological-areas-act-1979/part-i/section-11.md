@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 11. Acquisition by agreement or gift of ancient monuments.[^key-b903a030775929612d2e7f7205a83e7f][^key-f764d8e6362d47172ac6e594a7a22b45]
+## 11. Acquisition by agreement or gift of ancient monuments.[^c-b903a030775929612d2e7f7205a83e7f][^c-f764d8e6362d47172ac6e594a7a22b45]
 
 *Extent: E+W+S*
 
@@ -46,9 +46,9 @@ summary: ''
 
 ## Annotations
 
-[^key-b903a030775929612d2e7f7205a83e7f]: Modification: S. 11: functions made exercisable concurrently (E.W.) (with effect in accordance with art. 25(1) of the amending S.I.) by [The Cotswolds Area of Outstanding Natural Beauty (Establishment of Conservation Board) Order 2004 (S.I. 2004/1777)](https://www.legislation.gov.uk/uksi/2004/1777), [arts. 1](https://www.legislation.gov.uk/uksi/2004/1777/article/1), [25(2)(xxv)](https://www.legislation.gov.uk/uksi/2004/1777/article/25/2/xxv) (with [art. 35](https://www.legislation.gov.uk/uksi/2004/1777/article/35))
+[^c-b903a030775929612d2e7f7205a83e7f]: Modification: S. 11: functions made exercisable concurrently (E.W.) (with effect in accordance with art. 25(1) of the amending S.I.) by [The Cotswolds Area of Outstanding Natural Beauty (Establishment of Conservation Board) Order 2004 (S.I. 2004/1777)](https://www.legislation.gov.uk/uksi/2004/1777), [arts. 1](https://www.legislation.gov.uk/uksi/2004/1777/article/1), [25(2)(xxv)](https://www.legislation.gov.uk/uksi/2004/1777/article/25/2/xxv) (with [art. 35](https://www.legislation.gov.uk/uksi/2004/1777/article/35))
 
-[^key-f764d8e6362d47172ac6e594a7a22b45]: Modification: [S. 11](https://www.legislation.gov.uk/ukpga/1979/46/section/11): functions made exercisable concurrently (E.W.) (with effect in accordance with art. 25(1) of the amending S.I.) by [The Chilterns Area of Outstanding Natural Beauty (Establishment of Conservation Board) Order 2004 (S.I. 2004/1778)](https://www.legislation.gov.uk/uksi/2004/1778), [arts. 2](https://www.legislation.gov.uk/uksi/2004/1778/article/2), [25(2)(xxv)](https://www.legislation.gov.uk/uksi/2004/1778/article/25/2/xxv) (with [art. 35](https://www.legislation.gov.uk/uksi/2004/1778/article/35))
+[^c-f764d8e6362d47172ac6e594a7a22b45]: Modification: [S. 11](https://www.legislation.gov.uk/ukpga/1979/46/section/11): functions made exercisable concurrently (E.W.) (with effect in accordance with art. 25(1) of the amending S.I.) by [The Chilterns Area of Outstanding Natural Beauty (Establishment of Conservation Board) Order 2004 (S.I. 2004/1778)](https://www.legislation.gov.uk/uksi/2004/1778), [arts. 2](https://www.legislation.gov.uk/uksi/2004/1778/article/2), [25(2)(xxv)](https://www.legislation.gov.uk/uksi/2004/1778/article/25/2/xxv) (with [art. 35](https://www.legislation.gov.uk/uksi/2004/1778/article/35))
 
 [^c250822]: Textual amendment: Words inserted by [National Heritage Act 1983 (c. 47, SIF 78)](https://www.legislation.gov.uk/ukpga/1983/47), [s. 41](https://www.legislation.gov.uk/ukpga/1983/47/section/41), [Sch. 4 para. 37(2)](https://www.legislation.gov.uk/ukpga/1983/47/schedule/4/paragraph/37/2)
 

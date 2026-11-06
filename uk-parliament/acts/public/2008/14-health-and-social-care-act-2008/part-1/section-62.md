@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Entry and inspection[^key-ccf706eb819aa9ff0db9302f4255e7f6][^key-6a53c64b4548a4d85ce489ee029520bb][^key-1e28ec148890d74561a7d1afd4597ac8][^key-34d30c48fe83376a82b39dfc49e02f81][^key-f16008b18af000ff01aea21acba55129][^key-1e28ec148890d74561a7d1afd4597ac8][^key-34d30c48fe83376a82b39dfc49e02f81]
+## 62. Entry and inspection[^c-ccf706eb819aa9ff0db9302f4255e7f6][^c-6a53c64b4548a4d85ce489ee029520bb][^c-1e28ec148890d74561a7d1afd4597ac8][^c-34d30c48fe83376a82b39dfc49e02f81][^c-f16008b18af000ff01aea21acba55129][^c-1e28ec148890d74561a7d1afd4597ac8][^c-34d30c48fe83376a82b39dfc49e02f81]
 
 *Extent: E+W*
 
@@ -41,12 +41,12 @@ summary: ''
 
 ## Annotations
 
-[^key-ccf706eb819aa9ff0db9302f4255e7f6]: Commencement: S. 62 in force at 12.1.2009 for specified purposes by [S.I. 2008/3168](https://www.legislation.gov.uk/uksi/2008/3168), [art. 2](https://www.legislation.gov.uk/uksi/2008/3168/article/2)
+[^c-ccf706eb819aa9ff0db9302f4255e7f6]: Commencement: S. 62 in force at 12.1.2009 for specified purposes by [S.I. 2008/3168](https://www.legislation.gov.uk/uksi/2008/3168), [art. 2](https://www.legislation.gov.uk/uksi/2008/3168/article/2)
 
-[^key-6a53c64b4548a4d85ce489ee029520bb]: Commencement: S. 62 in force at 6.4.2010 in so far as not already in force by [S.I. 2010/807](https://www.legislation.gov.uk/uksi/2010/807), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/807/article/2/1), [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2010/807/schedule/1/paragraph/13) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2010/807/part/3))
+[^c-6a53c64b4548a4d85ce489ee029520bb]: Commencement: S. 62 in force at 6.4.2010 in so far as not already in force by [S.I. 2010/807](https://www.legislation.gov.uk/uksi/2010/807), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/807/article/2/1), [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2010/807/schedule/1/paragraph/13) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2010/807/part/3))
 
-[^key-1e28ec148890d74561a7d1afd4597ac8]: Modification: Pt. 1 excluded (6.4.2010) by [The Health and Social Care Act 2008 (Commencement No.16, Transitory and Transitional Provisions) Order 2010 (S.I. 2010/807)](https://www.legislation.gov.uk/uksi/2010/807), [arts. 1(1)(a)](https://www.legislation.gov.uk/uksi/2010/807/article/1/1/a), [17(4)(c)](https://www.legislation.gov.uk/uksi/2010/807/article/17/4/c) [(5)(b)](https://www.legislation.gov.uk/uksi/2010/807/article/17/5/b)
+[^c-1e28ec148890d74561a7d1afd4597ac8]: Modification: Pt. 1 excluded (6.4.2010) by [The Health and Social Care Act 2008 (Commencement No.16, Transitory and Transitional Provisions) Order 2010 (S.I. 2010/807)](https://www.legislation.gov.uk/uksi/2010/807), [arts. 1(1)(a)](https://www.legislation.gov.uk/uksi/2010/807/article/1/1/a), [17(4)(c)](https://www.legislation.gov.uk/uksi/2010/807/article/17/4/c) [(5)(b)](https://www.legislation.gov.uk/uksi/2010/807/article/17/5/b)
 
-[^key-34d30c48fe83376a82b39dfc49e02f81]: Modification: Pt. 1 excluded (6.4.2010) by [The Health and Social Care Act 2008 (Commencement No.16, Transitory and Transitional Provisions) Order 2010 (S.I. 2010/807)](https://www.legislation.gov.uk/uksi/2010/807), [arts. 1(1)(a)](https://www.legislation.gov.uk/uksi/2010/807/article/1/1/a), [14(4)(c)](https://www.legislation.gov.uk/uksi/2010/807/article/14/4/c)
+[^c-34d30c48fe83376a82b39dfc49e02f81]: Modification: Pt. 1 excluded (6.4.2010) by [The Health and Social Care Act 2008 (Commencement No.16, Transitory and Transitional Provisions) Order 2010 (S.I. 2010/807)](https://www.legislation.gov.uk/uksi/2010/807), [arts. 1(1)(a)](https://www.legislation.gov.uk/uksi/2010/807/article/1/1/a), [14(4)(c)](https://www.legislation.gov.uk/uksi/2010/807/article/14/4/c)
 
-[^key-f16008b18af000ff01aea21acba55129]: Modification: [S. 62](https://www.legislation.gov.uk/ukpga/2008/14/section/62) applied (9.11.2015) by [The Children Act 2004 (Joint Area Reviews) Regulations 2015 (S.I. 2015/1792)](https://www.legislation.gov.uk/uksi/2015/1792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1792/regulation/1/1), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2015/1792/schedule/paragraph/5)
+[^c-f16008b18af000ff01aea21acba55129]: Modification: [S. 62](https://www.legislation.gov.uk/ukpga/2008/14/section/62) applied (9.11.2015) by [The Children Act 2004 (Joint Area Reviews) Regulations 2015 (S.I. 2015/1792)](https://www.legislation.gov.uk/uksi/2015/1792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1792/regulation/1/1), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2015/1792/schedule/paragraph/5)

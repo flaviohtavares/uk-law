@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Cash accounting scheme[^key-8202945767843225e61a0e883d7b967b]
+## 57. Cash accounting scheme[^c-8202945767843225e61a0e883d7b967b]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ A taxable person may, subject to this Part and to such conditions as are describ
 
 ## Annotations
 
-[^key-8202945767843225e61a0e883d7b967b]: Commencement: Reg. 57 in force at 20.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2518/regulation/1)
+[^c-8202945767843225e61a0e883d7b967b]: Commencement: Reg. 57 in force at 20.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2518/regulation/1)

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 1 — ACTIVITIES CONSTITUTING WORKS[^key-f539a68c6f6dadf6f424d95ec314b9f0]
+## SCHEDULE 1 — ACTIVITIES CONSTITUTING WORKS[^c-f539a68c6f6dadf6f424d95ec314b9f0]
 
 *Extent: S*
 
 Regulation 2(1)
 
-[^key-f539a68c6f6dadf6f424d95ec314b9f0]In this Schedule, ‘NACE Rev.1’ has the same meaning as in [Council Regulation (EEC) No 3037/90](https://www.legislation.gov.uk/european/regulation/1990/3037) on the statistical classification of economic activities in the European Community[^f00049] as that Regulation had effect in EU law immediately before IP completion day[^key-6534818fcdba19f4ad1b3c3688acab71] and numerical references in the columns relating to the NACE Rev.1 relate to the Annex to that Regulation. In the event of any difference of interpretation between the CPV and the NACE Rev.1, the CPV nomenclature shall apply.
+[^c-f539a68c6f6dadf6f424d95ec314b9f0]In this Schedule, ‘NACE Rev.1’ has the same meaning as in [Council Regulation (EEC) No 3037/90](https://www.legislation.gov.uk/european/regulation/1990/3037) on the statistical classification of economic activities in the European Community[^f00049] as that Regulation had effect in EU law immediately before IP completion day[^c-6534818fcdba19f4ad1b3c3688acab71] and numerical references in the columns relating to the NACE Rev.1 relate to the Annex to that Regulation. In the event of any difference of interpretation between the CPV and the NACE Rev.1, the CPV nomenclature shall apply.
 
 <table>
 <thead>
@@ -65,8 +65,8 @@ Regulation 2(1)
 
 ## Annotations
 
-[^key-f539a68c6f6dadf6f424d95ec314b9f0]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2016/49/schedule/1) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
+[^c-f539a68c6f6dadf6f424d95ec314b9f0]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2016/49/schedule/1) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
 
 [^f00049]: Footnote: OJ L 293, 24.10.1990, p.1; last amended by Regulation [(EC) No 1893/2006](https://www.legislation.gov.uk/european/regulation/2006/1893) of the European Parliament and of the Council (OJ L 393, 30.12.2006, p.1).
 
-[^key-6534818fcdba19f4ad1b3c3688acab71]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2016/49/schedule/1) inserted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [6(60)](https://www.legislation.gov.uk/ssi/2020/468/regulation/6/60) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+[^c-6534818fcdba19f4ad1b3c3688acab71]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2016/49/schedule/1) inserted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [6(60)](https://www.legislation.gov.uk/ssi/2020/468/regulation/6/60) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))

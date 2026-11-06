@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61B. Certificates as to reduced pollution.[^key-c12418773e58eccfd5e25dbfc1b18dde]
+## 61B. Certificates as to reduced pollution.[^c-c12418773e58eccfd5e25dbfc1b18dde]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c12418773e58eccfd5e25dbfc1b18dde]: Textual amendment: [S. 61B](https://www.legislation.gov.uk/ukpga/1994/22/section/61B) omitted (1.1.2017) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 18 paras. 2](https://www.legislation.gov.uk/ukpga/2014/26/schedule/18/paragraph/2), [19](https://www.legislation.gov.uk/ukpga/2014/26/schedule/18/paragraph/19)
+[^c-c12418773e58eccfd5e25dbfc1b18dde]: Textual amendment: [S. 61B](https://www.legislation.gov.uk/ukpga/1994/22/section/61B) omitted (1.1.2017) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 18 paras. 2](https://www.legislation.gov.uk/ukpga/2014/26/schedule/18/paragraph/2), [19](https://www.legislation.gov.uk/ukpga/2014/26/schedule/18/paragraph/19)

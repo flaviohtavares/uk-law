@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 106. General power of transfer[^key-4ae28dffa710dd0fbd07f9adf5b472be]
+## 106. General power of transfer[^c-4ae28dffa710dd0fbd07f9adf5b472be]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4ae28dffa710dd0fbd07f9adf5b472be]: Commencement: [Rule 106](https://www.legislation.gov.uk/uksi/2013/3208/rule/106) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-4ae28dffa710dd0fbd07f9adf5b472be]: Commencement: [Rule 106](https://www.legislation.gov.uk/uksi/2013/3208/rule/106) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

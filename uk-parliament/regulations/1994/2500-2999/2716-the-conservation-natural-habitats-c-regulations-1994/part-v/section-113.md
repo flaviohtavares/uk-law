@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 113. Amendment of Schedules[^key-cc32a5b873bd5e57926dad5605e38883]
+## 113. Amendment of Schedules[^c-cc32a5b873bd5e57926dad5605e38883]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cc32a5b873bd5e57926dad5605e38883]: Textual amendment: [Regs. 112-115](https://www.legislation.gov.uk/uksi/1994/2716/regulation/112) inserted (31.12.2020) by [The Conservation (Natural Habitats, &c.) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/113)](https://www.legislation.gov.uk/ssi/2019/113), [regs. 1](https://www.legislation.gov.uk/ssi/2019/113/regulation/1), [25](https://www.legislation.gov.uk/ssi/2019/113/regulation/25); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cc32a5b873bd5e57926dad5605e38883]: Textual amendment: [Regs. 112-115](https://www.legislation.gov.uk/uksi/1994/2716/regulation/112) inserted (31.12.2020) by [The Conservation (Natural Habitats, &c.) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/113)](https://www.legislation.gov.uk/ssi/2019/113), [regs. 1](https://www.legislation.gov.uk/ssi/2019/113/regulation/1), [25](https://www.legislation.gov.uk/ssi/2019/113/regulation/25); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

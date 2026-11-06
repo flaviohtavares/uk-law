@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 111. Restrictions on use of public sewers.[^c13219611][^key-7d52e1cac9184ef2e2f7e374d670ef98][^key-3afca36206b41b1508c98a2b9a8e5e25]
+## 111. Restrictions on use of public sewers.[^c13219611][^c-7d52e1cac9184ef2e2f7e374d670ef98][^c-3afca36206b41b1508c98a2b9a8e5e25]
 
 *Extent: E+W*
 
@@ -54,9 +54,9 @@ as, when tested in the manner prescribed by or under the [^c13219621]Petroleum (
 
 [^c13219611]: Modification: S. 111 amended (27.8.1993) by [1993 c. 12](https://www.legislation.gov.uk/ukpga/1993/12), [ss. 40](https://www.legislation.gov.uk/ukpga/1993/12/section/40), [51(2)](https://www.legislation.gov.uk/ukpga/1993/12/section/51/2), [Sch. 3 Pt. I para. 8](https://www.legislation.gov.uk/ukpga/1993/12/schedule/3/part/I/paragraph/8) (with [ss. 42](https://www.legislation.gov.uk/ukpga/1993/12/section/42), [46](https://www.legislation.gov.uk/ukpga/1993/12/section/46)).
 
-[^key-7d52e1cac9184ef2e2f7e374d670ef98]: Modification: S. 111 modified by S.I. 2010/675, Sch. 23 Pt. 8 para. 3 Table 9 (as substituted (1.10.2011) by [The Environmental Permitting (England and Wales) (Amendment) Regulations 2011 (S.I. 2011/2043)](https://www.legislation.gov.uk/uksi/2011/2043), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/2043/regulation/1/b), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/2043/schedule/1))
+[^c-7d52e1cac9184ef2e2f7e374d670ef98]: Modification: S. 111 modified by S.I. 2010/675, Sch. 23 Pt. 8 para. 3 Table 9 (as substituted (1.10.2011) by [The Environmental Permitting (England and Wales) (Amendment) Regulations 2011 (S.I. 2011/2043)](https://www.legislation.gov.uk/uksi/2011/2043), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/2043/regulation/1/b), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/2043/schedule/1))
 
-[^key-3afca36206b41b1508c98a2b9a8e5e25]: Modification: S. 111 modified (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 23 paras. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/23/paragraph/1/3), [2](https://www.legislation.gov.uk/uksi/2016/1154/schedule/23/paragraph/2) Table 9 (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-3afca36206b41b1508c98a2b9a8e5e25]: Modification: S. 111 modified (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 23 paras. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/23/paragraph/1/3), [2](https://www.legislation.gov.uk/uksi/2016/1154/schedule/23/paragraph/2) Table 9 (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
 
 [^c19838911]: Textual amendment: Words in s. 111(1)(b) substituted (1.4.2007) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 101(1)](https://www.legislation.gov.uk/ukpga/2003/37/section/101/1), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3), [Sch. 7 para. 39(2)(a)](https://www.legislation.gov.uk/ukpga/2003/37/schedule/7/paragraph/39/2/a); [S.I. 2007/1021](https://www.legislation.gov.uk/uksi/2007/1021), [art. 2(d)](https://www.legislation.gov.uk/uksi/2007/1021/article/2/d)
 

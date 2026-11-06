@@ -45,13 +45,13 @@ Coming into force
 
 The Welsh Ministers, in exercise of the powers conferred by sections 97(1)(b) and (c), (2) and (4) and 196(2) of the Social Services and Well-being (Wales) Act 2014[^f00001], make the following Regulations[^f00002]:
 
-## 1. Title, commencement and application[^key-4530d0e85276e4c12f310d8d0a2504d4]
+## 1. Title, commencement and application[^c-4530d0e85276e4c12f310d8d0a2504d4]
 
 (1) The title of these Regulations is the Visits to Children in Detention (Wales) Regulations 2015 and they come into force on 6 April 2016.
 
 (2) These Regulations apply in relation to Wales.
 
-## 2. Interpretation[^key-6d43bcab2b2d888d66eb9886c98c4c55]
+## 2. Interpretation[^c-6d43bcab2b2d888d66eb9886c98c4c55]
 
 (1) In these Regulations—
 
@@ -80,14 +80,14 @@ The Welsh Ministers, in exercise of the powers conferred by sections 97(1)(b) an
 - (d) a relevant child for the purposes of section 23A of the 1989 Act[^f00013]; or
 - (e) a former looked after child who, having been convicted of an offence by a court, is detained in youth detention accommodation or in prison, or is residing in approved premises and, immediately before being convicted, was provided with accommodation by a local authority in England under section 20 of the 1989 Act[^f00014].
 
-## 3. Circumstances specified for the purposes of section 97(1)(b) of the 2014 Act[^key-b7cf1a8d7ff5fd7cb50bc6f698f59ffb]
+## 3. Circumstances specified for the purposes of section 97(1)(b) of the 2014 Act[^c-b7cf1a8d7ff5fd7cb50bc6f698f59ffb]
 
 The circumstances prescribed for the purposes of section 97(1)(b) of the 2014 Act[^f00015] are that a child, having been convicted of an offence by a court, is—
 
 - (a) detained pursuant to an order of a court in youth detention accommodation[^f00016] or in prison[^f00017], or
 - (b) is residing in approved premises[^f00018].
 
-## 4. Categories specified for the purposes of section 97(1)(c) of the 2014 Act[^key-2a46c68c3436e4003000520742478c88]
+## 4. Categories specified for the purposes of section 97(1)(c) of the 2014 Act[^c-2a46c68c3436e4003000520742478c88]
 
 (1) The following categories are specified for the purposes of section 97(1)(c) of the 2014 Act—
 
@@ -100,7 +100,7 @@ The circumstances prescribed for the purposes of section 97(1)(b) of the 2014 Ac
 
 (2) Paragraph (1) does not apply in relation to a child who falls within a description set out in sub-paragraphs (a) to (e) of regulation 2(2).
 
-## 5. Local authority specified for the purposes of section 97(2) of the 2014 Act[^key-9ca93877d907f7486b3786657d830a4d]
+## 5. Local authority specified for the purposes of section 97(2) of the 2014 Act[^c-9ca93877d907f7486b3786657d830a4d]
 
 (1) Paragraph (2) specifies, in accordance with section 97(2) of the 2014 Act, the local authority which must discharge the duties imposed by section 97 of the 2014 Act or under these Regulations in relation to a child who falls within a category specified in regulation 4.
 
@@ -109,7 +109,7 @@ The circumstances prescribed for the purposes of section 97(1)(b) of the 2014 Ac
 - (a) regulation 4(1)(a), the local authority in which the child is ordinarily resident[^f00020];
 - (b) regulation 4(1)(b), the local authority in whose area the youth detention accommodation, prison, or approved premises is situate.
 
-## 6. Frequency of visits[^key-c98aae232dd4f3e2a822c2c07ffc868e]
+## 6. Frequency of visits[^c-c98aae232dd4f3e2a822c2c07ffc868e]
 
 (1) The responsible local authority must ensure that R visits A—
 
@@ -122,7 +122,7 @@ The circumstances prescribed for the purposes of section 97(1)(b) of the 2014 Ac
 
 (2) The responsible local authority may arrange for R to make additional visits to A, having regard to any recommendation made by R in accordance with regulation 8(1)(b).
 
-## 7. Conduct of visits[^key-bd677123ac88dc4e5354f5c1b43670ff]
+## 7. Conduct of visits[^c-bd677123ac88dc4e5354f5c1b43670ff]
 
 On each visit, R must speak to A in private unless—
 
@@ -130,7 +130,7 @@ On each visit, R must speak to A in private unless—
 - (b) R considers it inappropriate to do so, having regard to A’s age and understanding, or
 - (c) R is unable to do so.
 
-## 8. Reports of visits[^key-74183fb6e59e46eec7bb3de970d565e3]
+## 8. Reports of visits[^c-74183fb6e59e46eec7bb3de970d565e3]
 
 (1) R must provide a written report of each visit which must include—
 
@@ -150,12 +150,12 @@ On each visit, R must speak to A in private unless—
 
 - (a) A, unless it would not be appropriate to do so,
 - (b) a person falling within paragraph (2)(a), unless to do so would not be in A’s best interests,
-- (c) the governor, director or manager[^key-11843f96fb9028f09d1de543f2149ba1] of the institution where A is being detained or the person responsible for the approved premises in which A is residing,
+- (c) the governor, director or manager[^c-11843f96fb9028f09d1de543f2149ba1] of the institution where A is being detained or the person responsible for the approved premises in which A is residing,
 - (d) the relevant youth offending team case manager,
 - (e) where different from the responsible local authority, the local authority in whose area A is detained, and
 - (f) any other person whom the responsible local authority considers should be given a copy of the report having regard to R’s assessment.
 
-## 9. Advice and other support[^key-db93c4a2193dc9173edad0f26fe4ff4c]
+## 9. Advice and other support[^c-db93c4a2193dc9173edad0f26fe4ff4c]
 
 When making arrangements in accordance with section 97(3)(b) of the 2014 Act for appropriate advice and other support to be available to A, the responsible local authority must ensure that—
 
@@ -214,9 +214,9 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00002]: Footnote: See section 197(1) for the definitions of “specified” and “regulations”.
 
-[^key-4530d0e85276e4c12f310d8d0a2504d4]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2015/1823/regulation/1) in force at 6.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1823/regulation/1/1)
+[^c-4530d0e85276e4c12f310d8d0a2504d4]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2015/1823/regulation/1) in force at 6.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1823/regulation/1/1)
 
-[^key-6d43bcab2b2d888d66eb9886c98c4c55]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2015/1823/regulation/2) in force at 6.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1823/regulation/1/1)
+[^c-6d43bcab2b2d888d66eb9886c98c4c55]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2015/1823/regulation/2) in force at 6.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1823/regulation/1/1)
 
 [^f00003]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41).
 
@@ -242,7 +242,7 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00014]: Footnote: The responsible local authority in England has duties in relation to such former looked after child under the Looked After Children in Detention (England) Regulations 2010 ([S.I. 2010/ 2797](https://www.legislation.gov.uk/uksi/2010/2797)).
 
-[^key-b7cf1a8d7ff5fd7cb50bc6f698f59ffb]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2015/1823/regulation/3) in force at 6.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1823/regulation/1/1)
+[^c-b7cf1a8d7ff5fd7cb50bc6f698f59ffb]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2015/1823/regulation/3) in force at 6.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1823/regulation/1/1)
 
 [^f00015]: Footnote: Section 97(3) of the 2014 Act places a duty on a local authority to ensure that a child to whom the section applies is visited by a representative of the authority and to arrange for appropriate advice and other support to be available to a child to whom the section applies.
 
@@ -268,22 +268,22 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00018]: Footnote: “Approved premises” is defined in section 188(1) of the 2014 as having the meaning given by section 13 of the Offenders Management Act [2007 (c. 21)](https://www.legislation.gov.uk/ukpga/2007/21).
 
-[^key-2a46c68c3436e4003000520742478c88]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2015/1823/regulation/4) in force at 6.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1823/regulation/1/1)
+[^c-2a46c68c3436e4003000520742478c88]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2015/1823/regulation/4) in force at 6.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1823/regulation/1/1)
 
 [^f00019]: Footnote: Section 194 and section 186(2) of the 2014 Act make provision about the ordinary residence status of a child who is detained in youth detention accommodation or in prison or who is residing in approved premises.
 
-[^key-9ca93877d907f7486b3786657d830a4d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2015/1823/regulation/5) in force at 6.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1823/regulation/1/1)
+[^c-9ca93877d907f7486b3786657d830a4d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2015/1823/regulation/5) in force at 6.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1823/regulation/1/1)
 
 [^f00020]: Footnote: Section 194 and section 186(2) of the 2014 Act make provision about the ordinary residence status of a child who is detained in youth detention accommodation or in prison or who is residing in approved premises.
 
-[^key-c98aae232dd4f3e2a822c2c07ffc868e]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2015/1823/regulation/6) in force at 6.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1823/regulation/1/1)
+[^c-c98aae232dd4f3e2a822c2c07ffc868e]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2015/1823/regulation/6) in force at 6.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1823/regulation/1/1)
 
-[^key-bd677123ac88dc4e5354f5c1b43670ff]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2015/1823/regulation/7) in force at 6.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1823/regulation/1/1)
+[^c-bd677123ac88dc4e5354f5c1b43670ff]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2015/1823/regulation/7) in force at 6.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1823/regulation/1/1)
 
-[^key-74183fb6e59e46eec7bb3de970d565e3]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2015/1823/regulation/8) in force at 6.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1823/regulation/1/1)
+[^c-74183fb6e59e46eec7bb3de970d565e3]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2015/1823/regulation/8) in force at 6.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1823/regulation/1/1)
 
-[^key-11843f96fb9028f09d1de543f2149ba1]: Textual amendment: Word in [reg. 8(3)(c)](https://www.legislation.gov.uk/wsi/2015/1823/regulation/8/3/c) substituted (2.4.2018) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2018 (S.I. 2018/48)](https://www.legislation.gov.uk/wsi/2018/48), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/48/regulation/1/2), [Sch. 1 para. 36(2)](https://www.legislation.gov.uk/wsi/2018/48/schedule/1/paragraph/36/2)
+[^c-11843f96fb9028f09d1de543f2149ba1]: Textual amendment: Word in [reg. 8(3)(c)](https://www.legislation.gov.uk/wsi/2015/1823/regulation/8/3/c) substituted (2.4.2018) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2018 (S.I. 2018/48)](https://www.legislation.gov.uk/wsi/2018/48), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/48/regulation/1/2), [Sch. 1 para. 36(2)](https://www.legislation.gov.uk/wsi/2018/48/schedule/1/paragraph/36/2)
 
-[^key-db93c4a2193dc9173edad0f26fe4ff4c]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2015/1823/regulation/9) in force at 6.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1823/regulation/1/1)
+[^c-db93c4a2193dc9173edad0f26fe4ff4c]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2015/1823/regulation/9) in force at 6.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1823/regulation/1/1)
 
 [^f00022]: Footnote: “Disability” is defined in section 3(5) of the 2014 Act.

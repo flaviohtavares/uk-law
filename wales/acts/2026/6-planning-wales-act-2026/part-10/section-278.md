@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 278. Further provision about regulations under sections 276 and 277[^key-eb57dfb61ee41fbe8574852d48b2aa6f]
+## 278. Further provision about regulations under sections 276 and 277[^c-eb57dfb61ee41fbe8574852d48b2aa6f]
 
 *Extent: E+W*
 
@@ -61,4 +61,4 @@ but this is subject to any provision to the contrary made by the regulations.
 
 ## Annotations
 
-[^key-eb57dfb61ee41fbe8574852d48b2aa6f]: Commencement: S. 278 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-eb57dfb61ee41fbe8574852d48b2aa6f]: Commencement: S. 278 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

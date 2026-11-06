@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 75. Completion of enquiry[^key-da2c5229df35edb43bca0852d962e9ee][^key-01bbbdf3cb698058845380c94b1e49fb]
+## 75. Completion of enquiry[^c-da2c5229df35edb43bca0852d962e9ee][^c-01bbbdf3cb698058845380c94b1e49fb]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-da2c5229df35edb43bca0852d962e9ee]: Commencement: S. 75 in force at 1.4.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 3](https://www.legislation.gov.uk/wsi/2018/33/article/3)
+[^c-da2c5229df35edb43bca0852d962e9ee]: Commencement: S. 75 in force at 1.4.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 3](https://www.legislation.gov.uk/wsi/2018/33/article/3)
 
-[^key-01bbbdf3cb698058845380c94b1e49fb]: Modification: Ss. 74-77 applied (with modifications) (1.4.2018) by [The Landfill Disposals Tax (Administration) (Wales) Regulations 2018 (S.I. 2018/101)](https://www.legislation.gov.uk/wsi/2018/101), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/101/regulation/1/2), [27](https://www.legislation.gov.uk/wsi/2018/101/regulation/27)
+[^c-01bbbdf3cb698058845380c94b1e49fb]: Modification: Ss. 74-77 applied (with modifications) (1.4.2018) by [The Landfill Disposals Tax (Administration) (Wales) Regulations 2018 (S.I. 2018/101)](https://www.legislation.gov.uk/wsi/2018/101), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/101/regulation/1/2), [27](https://www.legislation.gov.uk/wsi/2018/101/regulation/27)

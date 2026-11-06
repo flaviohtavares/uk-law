@@ -44,34 +44,34 @@ recognising protected zones exposed to particular plant health risks in the Comm
 
 (Recast) (repealed) (revoked)
 
-[^key-c4a5fd805240b10c51802124f410e54b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c4a5fd805240b10c51802124f410e54b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-c4a5fd805240b10c51802124f410e54b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-c4a5fd805240b10c51802124f410e54b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-c4a5fd805240b10c51802124f410e54b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-c4a5fd805240b10c51802124f410e54b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-c4a5fd805240b10c51802124f410e54b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-c4a5fd805240b10c51802124f410e54b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c4a5fd805240b10c51802124f410e54b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c4a5fd805240b10c51802124f410e54b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX I — Zones in the community recognised as ‘protected zones’, in respect of harmful organism(s) listed against their names[^key-c4a5fd805240b10c51802124f410e54b]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## ANNEX II[^key-c4a5fd805240b10c51802124f410e54b]
-
-### PART A[^key-c4a5fd805240b10c51802124f410e54b]
+## ANNEX I — Zones in the community recognised as ‘protected zones’, in respect of harmful organism(s) listed against their names[^c-c4a5fd805240b10c51802124f410e54b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART B[^key-c4a5fd805240b10c51802124f410e54b]
+## ANNEX II[^c-c4a5fd805240b10c51802124f410e54b]
+
+### PART A[^c-c4a5fd805240b10c51802124f410e54b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III[^key-c4a5fd805240b10c51802124f410e54b]
+### PART B[^c-c4a5fd805240b10c51802124f410e54b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX III[^c-c4a5fd805240b10c51802124f410e54b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c4a5fd805240b10c51802124f410e54b]: Textual amendment: Regulation revoked (31.12.2020) by [The Forestry (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/130)](https://www.legislation.gov.uk/ssi/2019/130), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/130/regulation/1/1), [79](https://www.legislation.gov.uk/ssi/2019/130/regulation/79), [80](https://www.legislation.gov.uk/ssi/2019/130/regulation/80); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c4a5fd805240b10c51802124f410e54b]: Textual amendment: Regulation revoked (31.12.2020) by [The Forestry (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/130)](https://www.legislation.gov.uk/ssi/2019/130), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/130/regulation/1/1), [79](https://www.legislation.gov.uk/ssi/2019/130/regulation/79), [80](https://www.legislation.gov.uk/ssi/2019/130/regulation/80); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

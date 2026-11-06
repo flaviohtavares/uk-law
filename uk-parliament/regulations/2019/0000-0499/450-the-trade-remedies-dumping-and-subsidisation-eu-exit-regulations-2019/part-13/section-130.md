@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 130. Modifications to Part 9[^key-6406bb4a790727760eb424c8a484287b]
+## 130. Modifications to Part 9[^c-6406bb4a790727760eb424c8a484287b]
 
 *Extent: E+W+S+N.I.*
 
@@ -141,4 +141,4 @@ Part 9 of these Regulations has effect as if, for that Part, there were substitu
 
 ## Annotations
 
-[^key-6406bb4a790727760eb424c8a484287b]: Commencement: Reg. 130 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-6406bb4a790727760eb424c8a484287b]: Commencement: Reg. 130 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

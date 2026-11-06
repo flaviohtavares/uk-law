@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Time limit for exercise of authority to acquire land compulsorily[^key-b726a03d8a49dc27d169c4936ab66d3a]
+## 30. Time limit for exercise of authority to acquire land compulsorily[^c-b726a03d8a49dc27d169c4936ab66d3a]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ in relation to any part of the Order land.
 
 ## Annotations
 
-[^key-b726a03d8a49dc27d169c4936ab66d3a]: Commencement: Art. 30 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
+[^c-b726a03d8a49dc27d169c4936ab66d3a]: Commencement: Art. 30 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)

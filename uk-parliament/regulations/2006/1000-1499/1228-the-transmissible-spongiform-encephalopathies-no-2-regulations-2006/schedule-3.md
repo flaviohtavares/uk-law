@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, NI.
 
-## SCHEDULE 3 — Control and eradication of TSE in bovine animals[^key-e0faddaa55fe6f8ffc46128ef987d71c]
+## SCHEDULE 3 — Control and eradication of TSE in bovine animals[^c-e0faddaa55fe6f8ffc46128ef987d71c]
 
 *Extent: E+W+S+NI*
 
@@ -24,46 +24,46 @@ summary: ''
 
 Regulation 5
 
-### 1. Control and eradication of TSE - notification[^key-e0faddaa55fe6f8ffc46128ef987d71c]
+### 1. Control and eradication of TSE - notification[^c-e0faddaa55fe6f8ffc46128ef987d71c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Restriction of a notified animal[^key-e0faddaa55fe6f8ffc46128ef987d71c]
+### 2. Restriction of a notified animal[^c-e0faddaa55fe6f8ffc46128ef987d71c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Slaughter of a suspect animal[^key-e0faddaa55fe6f8ffc46128ef987d71c]
+### 3. Slaughter of a suspect animal[^c-e0faddaa55fe6f8ffc46128ef987d71c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Identification and restriction of offspring and cohorts[^key-e0faddaa55fe6f8ffc46128ef987d71c]
+### 4. Identification and restriction of offspring and cohorts[^c-e0faddaa55fe6f8ffc46128ef987d71c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Action following confirmation[^key-e0faddaa55fe6f8ffc46128ef987d71c]
+### 5. Action following confirmation[^c-e0faddaa55fe6f8ffc46128ef987d71c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Death while under restriction[^key-e0faddaa55fe6f8ffc46128ef987d71c]
+### 6. Death while under restriction[^c-e0faddaa55fe6f8ffc46128ef987d71c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Placing on the market of bovine progeny[^key-e0faddaa55fe6f8ffc46128ef987d71c]
+### 7. Placing on the market of bovine progeny[^c-e0faddaa55fe6f8ffc46128ef987d71c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. When compensation is payable[^key-e0faddaa55fe6f8ffc46128ef987d71c]
+### 8. When compensation is payable[^c-e0faddaa55fe6f8ffc46128ef987d71c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Amount of compensation payable[^key-e0faddaa55fe6f8ffc46128ef987d71c]
+### 9. Amount of compensation payable[^c-e0faddaa55fe6f8ffc46128ef987d71c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Exceptions[^key-e0faddaa55fe6f8ffc46128ef987d71c]
+### 10. Exceptions[^c-e0faddaa55fe6f8ffc46128ef987d71c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e0faddaa55fe6f8ffc46128ef987d71c]: Textual amendment: Regulations revoked (7.8.2008) by [The Transmissible Spongiform Encephalopathies (England) Regulations 2008 (S.I. 2008/1881)](https://www.legislation.gov.uk/uksi/2008/1881), regs. 1(c), [21(a)](https://www.legislation.gov.uk/uksi/2008/1881/regulation/21/a)
+[^c-e0faddaa55fe6f8ffc46128ef987d71c]: Textual amendment: Regulations revoked (7.8.2008) by [The Transmissible Spongiform Encephalopathies (England) Regulations 2008 (S.I. 2008/1881)](https://www.legislation.gov.uk/uksi/2008/1881), regs. 1(c), [21(a)](https://www.legislation.gov.uk/uksi/2008/1881/regulation/21/a)

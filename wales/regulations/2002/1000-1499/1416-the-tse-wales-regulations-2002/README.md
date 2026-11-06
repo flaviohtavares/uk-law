@@ -33,7 +33,7 @@ ANIMALS, WALES
 
 ANIMAL HEALTH
 
-The TSE (Wales) Regulations 2002 (revoked)[^key-34dfdee5c06ef0f6690edd54fa454f44]
+The TSE (Wales) Regulations 2002 (revoked)[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 Made
 
@@ -43,11 +43,11 @@ Coming into force
 
 27 May 2002
 
-[^key-34dfdee5c06ef0f6690edd54fa454f44]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-34dfdee5c06ef0f6690edd54fa454f44]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### Part I — Introductory provisions[^key-34dfdee5c06ef0f6690edd54fa454f44]
+### Part I — Introductory provisions[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 **No longer in force.**
 
@@ -55,7 +55,7 @@ Coming into force
 - [Section 2 — Application](part-i/section-2.md)
 - [Section 3 — Interpretation](part-i/section-3.md)
 
-### Part II — TSE monitoring[^key-34dfdee5c06ef0f6690edd54fa454f44]
+### Part II — TSE monitoring[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 **No longer in force.**
 
@@ -69,11 +69,11 @@ Coming into force
 - [Section 10A — Slaughter of bovine animals over 30 months of age](part-ii/section-10a.md)
 - [Section 10B — Consignment of over-age animals to a slaughterhouse](part-ii/section-10b.md)
 
-### Part III — Animal feeding[^key-34dfdee5c06ef0f6690edd54fa454f44]
+### Part III — Animal feeding[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 **No longer in force.**
 
-#### Mammalian protein and mammalian meat and bone meal[^key-34dfdee5c06ef0f6690edd54fa454f44]
+#### Mammalian protein and mammalian meat and bone meal[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 **No longer in force.**
 
@@ -81,7 +81,7 @@ Coming into force
 - [Section 12 — Mammalian meat and bone meal for use in feeding stuffs for livestock](part-iii/section-12.md)
 - [Section 13 — Mammalian meat and bone meal for use in fertilisers on agricultural land](part-iii/section-13.md)
 
-#### Processed animal protein[^key-34dfdee5c06ef0f6690edd54fa454f44]
+#### Processed animal protein[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 **No longer in force.**
 
@@ -91,7 +91,7 @@ Coming into force
 - [Section 17 — Production of dicalcium phosphate and hydrolysed protein for feeding to farmed animals other than ruminants](part-iii/section-17.md)
 - [Section 18 — Transport and storage of processed animal protein](part-iii/section-18.md)
 
-#### Approvals of premises[^key-34dfdee5c06ef0f6690edd54fa454f44]
+#### Approvals of premises[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 **No longer in force.**
 
@@ -99,7 +99,7 @@ Coming into force
 - [Section 20 — Suspension and withdrawal of approvals](part-iii/section-20.md)
 - [Section 21 — Appeals](part-iii/section-21.md)
 
-#### Feeding stuffs[^key-34dfdee5c06ef0f6690edd54fa454f44]
+#### Feeding stuffs[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 **No longer in force.**
 
@@ -110,7 +110,7 @@ Coming into force
 - [Section 25A — Use and storage of feeding stuffs containing fishmeal](part-iii/section-25a.md)
 - [Section 25B — Samples sent to laboratories and reporting requirements](part-iii/section-25b.md)
 
-#### Administration and enforcement[^key-34dfdee5c06ef0f6690edd54fa454f44]
+#### Administration and enforcement[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 **No longer in force.**
 
@@ -119,11 +119,11 @@ Coming into force
 - [Section 28 — Powers of inspectors](part-iii/section-28.md)
 - [Section 29 — Disposal and recall of mammalian meat and bone meal and MBM products](part-iii/section-29.md)
 
-### Part IV — Specified Risk Material[^key-34dfdee5c06ef0f6690edd54fa454f44]
+### Part IV — Specified Risk Material[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 **No longer in force.**
 
-#### Introductory provisions[^key-34dfdee5c06ef0f6690edd54fa454f44]
+#### Introductory provisions[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 **No longer in force.**
 
@@ -131,7 +131,7 @@ Coming into force
 - [Section 31 — Extended meaning of sale etc.](part-iv/section-31.md)
 - [Section 32 — Presumption that food is intended for human consumption](part-iv/section-32.md)
 
-#### Carcases and specified risk material[^key-34dfdee5c06ef0f6690edd54fa454f44]
+#### Carcases and specified risk material[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 **No longer in force.**
 
@@ -146,7 +146,7 @@ Coming into force
 - [Section 40 — Consignment of specified risk material after removal from carcases](part-iv/section-40.md)
 - [Section 41 — Presence of an OVS](part-iv/section-41.md)
 
-#### Prohibitions: slaughter and carcases[^key-34dfdee5c06ef0f6690edd54fa454f44]
+#### Prohibitions: slaughter and carcases[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 **No longer in force.**
 
@@ -157,7 +157,7 @@ Coming into force
 - [Section 46 — Transport of unmarked carcases of sheep and goats](part-iv/section-46.md)
 - [Section 47 — Possession of unmarked carcases of sheep and goats](part-iv/section-47.md)
 
-#### Prohibitions on sale and use of specified risk material[^key-34dfdee5c06ef0f6690edd54fa454f44]
+#### Prohibitions on sale and use of specified risk material[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 **No longer in force.**
 
@@ -166,7 +166,7 @@ Coming into force
 - [Section 50 — Specified risk material for use in cosmetic, pharmaceutical and medical products](part-iv/section-50.md)
 - [Section 51 — Mechanically recovered meat](part-iv/section-51.md)
 
-#### Prohibitions on collection, transport, rendering, incineration etc. and storage of specified risk material[^key-34dfdee5c06ef0f6690edd54fa454f44]
+#### Prohibitions on collection, transport, rendering, incineration etc. and storage of specified risk material[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 **No longer in force.**
 
@@ -175,7 +175,7 @@ Coming into force
 - [Section 54 — Transport of specified risk material](part-iv/section-54.md)
 - [Section 55 — Procedure for bringing in specified risk material from England, Scotland or Northern Ireland](part-iv/section-55.md)
 
-#### Licensing[^key-34dfdee5c06ef0f6690edd54fa454f44]
+#### Licensing[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 **No longer in force.**
 
@@ -187,14 +187,14 @@ Coming into force
 - [Section 61 — Revocation of licences](part-iv/section-61.md)
 - [Section 62 — Appeals against suspension, refusal and revocation of licences](part-iv/section-62.md)
 
-#### Collection centres and incinerators[^key-34dfdee5c06ef0f6690edd54fa454f44]
+#### Collection centres and incinerators[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 **No longer in force.**
 
 - [Section 63 — Collection centres](part-iv/section-63.md)
 - [Section 64 — Incinerators](part-iv/section-64.md)
 
-#### Rendering plants[^key-34dfdee5c06ef0f6690edd54fa454f44]
+#### Rendering plants[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 **No longer in force.**
 
@@ -203,7 +203,7 @@ Coming into force
 - [Section 67 — Rendering of specified risk material](part-iv/section-67.md)
 - [Section 68 — Rendered material](part-iv/section-68.md)
 
-#### Administration and enforcement[^key-34dfdee5c06ef0f6690edd54fa454f44]
+#### Administration and enforcement[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 **No longer in force.**
 
@@ -217,7 +217,7 @@ Coming into force
 - [Section 76 — Occupier’s duty and offences](part-iv/section-76.md)
 - [Section 77 — Inspection and seizure of suspected food](part-iv/section-77.md)
 
-### Part V — Control and eradication of TSEs: Chapter IV of the Community TSE Regulation[^key-34dfdee5c06ef0f6690edd54fa454f44]
+### Part V — Control and eradication of TSEs: Chapter IV of the Community TSE Regulation[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 **No longer in force.**
 
@@ -232,7 +232,7 @@ Coming into force
 - [Section 86 — Cleansing and disinfection](part-v/section-86.md)
 - [Section 86A — Enforcement of Annex VII to the Community TSE Regulation](part-v/section-86a.md)
 
-### Part VI — Article 15(2) of and Chapter B of Annex VIII to the Community TSE Regulation[^key-34dfdee5c06ef0f6690edd54fa454f44]
+### Part VI — Article 15(2) of and Chapter B of Annex VIII to the Community TSE Regulation[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 **No longer in force.**
 
@@ -246,13 +246,13 @@ Coming into force
 - [Section 94 — Offspring slaughter](part-vi/section-94.md)
 - [Section 95 — Cleansing and disinfection](part-vi/section-95.md)
 
-### Part VII — Sampling and laboratory methods[^key-34dfdee5c06ef0f6690edd54fa454f44]
+### Part VII — Sampling and laboratory methods[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 **No longer in force.**
 
 - [Section 96 — Sampling and laboratory methods](part-vii/section-96.md)
 
-### Part VIII — Community controls, offences, penalties and enforcement[^key-34dfdee5c06ef0f6690edd54fa454f44]
+### Part VIII — Community controls, offences, penalties and enforcement[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 **No longer in force.**
 
@@ -262,7 +262,7 @@ Coming into force
 - [Section 100 — Offences due to fault of another person and defence of due diligence](part-viii/section-100.md)
 - [Section 101 — Enforcement](part-viii/section-101.md)
 
-### Part IX — Supplementary provisions[^key-34dfdee5c06ef0f6690edd54fa454f44]
+### Part IX — Supplementary provisions[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 **No longer in force.**
 
@@ -286,16 +286,16 @@ Coming into force
 
 **No longer in force.**
 
-[^key-34dfdee5c06ef0f6690edd54fa454f44]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-34dfdee5c06ef0f6690edd54fa454f44]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
 **May not be in force at this date. Check the source.**
 
-[^key-34dfdee5c06ef0f6690edd54fa454f44]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-34dfdee5c06ef0f6690edd54fa454f44]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-34dfdee5c06ef0f6690edd54fa454f44]: Textual amendment: Regulations revoked (except regs. 8, 9, 84, 93, Sch. 1 Pt. 3, Sch. 6A para. 17, Sch. 7 paras. 4, 8) (3.5.2006) by [The Transmissible Spongiform Encephalopathies (Wales) Regulations 2006 (S.I. 2006/1226)](https://www.legislation.gov.uk/uksi/2006/1226), [reg. 1](https://www.legislation.gov.uk/uksi/2006/1226/regulation/1), [Sch. 8](https://www.legislation.gov.uk/uksi/2006/1226/schedule/8)
+[^c-34dfdee5c06ef0f6690edd54fa454f44]: Textual amendment: Regulations revoked (except regs. 8, 9, 84, 93, Sch. 1 Pt. 3, Sch. 6A para. 17, Sch. 7 paras. 4, 8) (3.5.2006) by [The Transmissible Spongiform Encephalopathies (Wales) Regulations 2006 (S.I. 2006/1226)](https://www.legislation.gov.uk/uksi/2006/1226), [reg. 1](https://www.legislation.gov.uk/uksi/2006/1226/regulation/1), [Sch. 8](https://www.legislation.gov.uk/uksi/2006/1226/schedule/8)
 
     Regulations revoked in so far as not already revoked (14.6.2006) by [The Sheep and Goats Transmissible Spongiform Encephalopathy (TSE) Compensation (Wales) Regulations 2006 (S.I. 2006/1513)](https://www.legislation.gov.uk/uksi/2006/1513), [regs. 1](https://www.legislation.gov.uk/uksi/2006/1513/regulation/1), [6](https://www.legislation.gov.uk/uksi/2006/1513/regulation/6)

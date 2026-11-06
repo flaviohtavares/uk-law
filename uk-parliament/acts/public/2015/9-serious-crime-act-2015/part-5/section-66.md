@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Child cruelty offence[^key-9370117e47a15ea9dc5348dc3bc6df95]
+## 66. Child cruelty offence[^c-9370117e47a15ea9dc5348dc3bc6df95]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9370117e47a15ea9dc5348dc3bc6df95]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2015/9/section/66) in force at 3.5.2015 by [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/k)
+[^c-9370117e47a15ea9dc5348dc3bc6df95]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2015/9/section/66) in force at 3.5.2015 by [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/k)

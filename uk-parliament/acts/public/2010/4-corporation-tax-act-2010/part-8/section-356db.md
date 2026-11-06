@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 356DB. Companies with both field allowances and onshore allowance[^key-0f74bb793c613226883989c504fb1da6]
+## 356DB. Companies with both field allowances and onshore allowance[^c-0f74bb793c613226883989c504fb1da6]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0f74bb793c613226883989c504fb1da6]: Textual amendment: S. 356DB omitted (with effect in accordance with Sch. 14 para. 10 of the amending Act) by virtue of [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 14 para. 6](https://www.legislation.gov.uk/ukpga/2015/11/schedule/14/paragraph/6)
+[^c-0f74bb793c613226883989c504fb1da6]: Textual amendment: S. 356DB omitted (with effect in accordance with Sch. 14 para. 10 of the amending Act) by virtue of [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 14 para. 6](https://www.legislation.gov.uk/ukpga/2015/11/schedule/14/paragraph/6)

@@ -31,7 +31,7 @@ summary: ''
 
 CRIMINAL LAW
 
-The Burma (Freezing of Funds) (Amendment) Regulations 2003 (revoked)[^key-895997fdbd89e449dd454dd3f81fd741]
+The Burma (Freezing of Funds) (Amendment) Regulations 2003 (revoked)[^c-895997fdbd89e449dd454dd3f81fd741]
 
 Made
 
@@ -45,24 +45,24 @@ Coming into force
 
 6th August 2003
 
-[^key-895997fdbd89e449dd454dd3f81fd741]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-895997fdbd89e449dd454dd3f81fd741]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-895997fdbd89e449dd454dd3f81fd741]
+## 1. Citation and commencement[^c-895997fdbd89e449dd454dd3f81fd741]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Burma (Freezing of Funds) Regulations 2000[^key-895997fdbd89e449dd454dd3f81fd741]
+## 2. Amendment of the Burma (Freezing of Funds) Regulations 2000[^c-895997fdbd89e449dd454dd3f81fd741]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-895997fdbd89e449dd454dd3f81fd741]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-895997fdbd89e449dd454dd3f81fd741]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-895997fdbd89e449dd454dd3f81fd741]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-895997fdbd89e449dd454dd3f81fd741]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-895997fdbd89e449dd454dd3f81fd741]: Textual amendment: Regulations revoked (18.6.2009) by [The Burma/Myanmar (Financial Restrictions) Regulations 2009 (S.I. 2009/1495)](https://www.legislation.gov.uk/uksi/2009/1495), [reg. 24](https://www.legislation.gov.uk/uksi/2009/1495/regulation/24)
+[^c-895997fdbd89e449dd454dd3f81fd741]: Textual amendment: Regulations revoked (18.6.2009) by [The Burma/Myanmar (Financial Restrictions) Regulations 2009 (S.I. 2009/1495)](https://www.legislation.gov.uk/uksi/2009/1495), [reg. 24](https://www.legislation.gov.uk/uksi/2009/1495/regulation/24)

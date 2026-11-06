@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 63. Secretary of State to indemnify appropriate agency in certain cases.[^key-10cb63648592ab083a21d61d5b309c6f]
+## 63. Secretary of State to indemnify appropriate agency in certain cases.[^c-10cb63648592ab083a21d61d5b309c6f]
 
 *Extent: E+W*
 
@@ -49,10 +49,10 @@ the Secretary of State may, if he thinks fit, pay to the appropriate agency the 
 (4) In this section “**the relevant amount**” means—
 
 - (a) for the purposes of subsection (1) above, the amount of the sum paid by the appropriate agency and, if an action has been brought against the appropriate agency in respect of the liability mentioned in that subsection, the amount of any costs reasonably incurred by the appropriate agency in connection with the action (including any costs of the plaintiff which the appropriate agency was required to pay); and
-- (b) for the purposes of subsections (2) and (3) above, the amount of the compensation and, if any question relating to that compensation is referred to the Upper Tribunal[^key-c1bfb458168d78d12e42d6ebb4d04918], the amount of any costs reasonably incurred by the appropriate agency in connection with that reference (including any costs of the claimant which the appropriate agency is required to pay).
+- (b) for the purposes of subsections (2) and (3) above, the amount of the compensation and, if any question relating to that compensation is referred to the Upper Tribunal[^c-c1bfb458168d78d12e42d6ebb4d04918], the amount of any costs reasonably incurred by the appropriate agency in connection with that reference (including any costs of the claimant which the appropriate agency is required to pay).
 
 ## Annotations
 
-[^key-10cb63648592ab083a21d61d5b309c6f]: Textual amendment: Words in [s. 63 and heading](https://www.legislation.gov.uk/ukpga/1991/57/part/II/chapter/II/crossheading/remedies-and-compensation-in-respect-of-infringement-of-protected-rights-etc) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 270(k)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/270/k) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-10cb63648592ab083a21d61d5b309c6f]: Textual amendment: Words in [s. 63 and heading](https://www.legislation.gov.uk/ukpga/1991/57/part/II/chapter/II/crossheading/remedies-and-compensation-in-respect-of-infringement-of-protected-rights-etc) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 270(k)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/270/k) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-c1bfb458168d78d12e42d6ebb4d04918]: Textual amendment: Words in s. 63(4)(b) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 230](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/230) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
+[^c-c1bfb458168d78d12e42d6ebb4d04918]: Textual amendment: Words in s. 63(4)(b) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 230](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/230) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))

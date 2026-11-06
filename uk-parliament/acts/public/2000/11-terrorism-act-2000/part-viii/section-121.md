@@ -25,7 +25,7 @@ In this Act—
 - “act” and “action” include omission,
 - “**article**” includes substance and any other thing,
 - “[^c16704201]**British Transport Police Force**” means the constables appointed under section 53 of the British Transport Commission Act 1949 (c. xxix),
-- “counter-terrorism financial investigator” is to be read in accordance with section 63F;[^key-55f13ae93cb4e0525fae9c8e242083b1]
+- “counter-terrorism financial investigator” is to be read in accordance with section 63F;[^c-55f13ae93cb4e0525fae9c8e242083b1]
 - “[^c16704551]**customs officer**” means an officer of Revenue and Customs,
 - “**dwelling**” means a building or part of a building used as a dwelling, and a vehicle which is habitually stationary and which is used as a dwelling,
 - “**explosive**” means—
@@ -53,7 +53,7 @@ In this Act—
 
 [^c16704201]: Textual amendment: In s. 121 definition of "British Transport Police Force" ceased to have effect (1.7.2004) by virtue of [Railways and Transport Safety Act 2003 (c. 20)](https://www.legislation.gov.uk/ukpga/2003/20), [s. 73(1)](https://www.legislation.gov.uk/ukpga/2003/20/section/73/1), [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2003/20/schedule/5/paragraph/4) (with [s. 72](https://www.legislation.gov.uk/ukpga/2003/20/section/72)); [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(ddd)(jjj)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/ddd/jjj)
 
-[^key-55f13ae93cb4e0525fae9c8e242083b1]: Textual amendment: Words in s. 121 inserted (27.4.2017 for specified purposes, 31.10.2017 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [s. 58(5)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/5)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6), [Sch. 5 para. 12](https://www.legislation.gov.uk/ukpga/2017/22/schedule/5/paragraph/12); [S.I. 2017/991](https://www.legislation.gov.uk/uksi/2017/991), [reg. 2(o)](https://www.legislation.gov.uk/uksi/2017/991/regulation/2/o)
+[^c-55f13ae93cb4e0525fae9c8e242083b1]: Textual amendment: Words in s. 121 inserted (27.4.2017 for specified purposes, 31.10.2017 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [s. 58(5)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/5)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6), [Sch. 5 para. 12](https://www.legislation.gov.uk/ukpga/2017/22/schedule/5/paragraph/12); [S.I. 2017/991](https://www.legislation.gov.uk/uksi/2017/991), [reg. 2(o)](https://www.legislation.gov.uk/uksi/2017/991/regulation/2/o)
 
 [^c16704551]: Textual amendment: In s. 121 definition of "customs officer" substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 50(6)](https://www.legislation.gov.uk/ukpga/2005/11/section/50/6), [Sch. 4 para. 78](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/78); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
 

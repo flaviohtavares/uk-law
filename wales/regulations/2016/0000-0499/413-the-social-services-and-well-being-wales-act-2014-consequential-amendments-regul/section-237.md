@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**237.**[^key-7f99610ee58708e0927052e178e3a798] The National Health Service Act 2006 is amended as follows.
+**237.**[^c-7f99610ee58708e0927052e178e3a798] The National Health Service Act 2006 is amended as follows.
 
 ## Annotations
 
-[^key-7f99610ee58708e0927052e178e3a798]: Commencement: Reg. 237 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-7f99610ee58708e0927052e178e3a798]: Commencement: Reg. 237 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

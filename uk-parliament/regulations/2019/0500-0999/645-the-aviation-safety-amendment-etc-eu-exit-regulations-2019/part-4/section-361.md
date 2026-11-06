@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 361. Amendment of Subpart DEC of Annex 3 to [Commission Regulation (EU) No 965/2012](https://www.legislation.gov.uk/eur/2012/0965)[^key-691026a1b176b3186987bd45cf11d77b]
+## 361. Amendment of Subpart DEC of Annex 3 to [Commission Regulation (EU) No 965/2012](https://www.legislation.gov.uk/eur/2012/0965)[^c-691026a1b176b3186987bd45cf11d77b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Subpart DEC, in point ORO.DEC.100, in each place the words occur, for “comp
 
 ## Annotations
 
-[^key-691026a1b176b3186987bd45cf11d77b]: Commencement: Reg. 361 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-691026a1b176b3186987bd45cf11d77b]: Commencement: Reg. 361 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

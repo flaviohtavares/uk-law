@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. The Administrative Justice and Tribunals Council[^key-8de8034ee4d4d0b71d8b9235252e9ac8]
+## 44. The Administrative Justice and Tribunals Council[^c-8de8034ee4d4d0b71d8b9235252e9ac8]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8de8034ee4d4d0b71d8b9235252e9ac8]: Textual amendment: S. 44 omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 33](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/33)
+[^c-8de8034ee4d4d0b71d8b9235252e9ac8]: Textual amendment: S. 44 omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 33](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/33)

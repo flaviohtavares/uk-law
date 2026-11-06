@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19A. Electronic copies[^key-2038460fcb3f5c28ac050bf8b7b8c76d]
+## 19A. Electronic copies[^c-2038460fcb3f5c28ac050bf8b7b8c76d]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ as the Public Guardian may from time to time direct.
 
 ## Annotations
 
-[^key-2038460fcb3f5c28ac050bf8b7b8c76d]: Textual amendment: [S. 19A](https://www.legislation.gov.uk/asp/2000/4/section/19A) inserted (31.10.2008) by [Adults with Incapacity (Electronic Communications) (Scotland) Order 2008 (S.S.I. 2008/380)](https://www.legislation.gov.uk/ssi/2008/380), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2008/380/article/1/1), [2](https://www.legislation.gov.uk/ssi/2008/380/article/2)
+[^c-2038460fcb3f5c28ac050bf8b7b8c76d]: Textual amendment: [S. 19A](https://www.legislation.gov.uk/asp/2000/4/section/19A) inserted (31.10.2008) by [Adults with Incapacity (Electronic Communications) (Scotland) Order 2008 (S.S.I. 2008/380)](https://www.legislation.gov.uk/ssi/2008/380), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2008/380/article/1/1), [2](https://www.legislation.gov.uk/ssi/2008/380/article/2)

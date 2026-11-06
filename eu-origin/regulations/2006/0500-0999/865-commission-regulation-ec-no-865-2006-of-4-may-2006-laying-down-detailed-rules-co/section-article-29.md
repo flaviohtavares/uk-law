@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-Where, in compliance with the guidelines adopted by the Conference of the Parties to the Convention, the management authority[^key-451052137c788efb5b1418e1dcbfcd76] registers nurseries which export artificially propagated specimens of species included in Annex A to Regulation (EC) No 338/97, it may make pre‐issued export permits for species listed in Annexes A or B to that Regulation available to the nurseries concerned.
+Where, in compliance with the guidelines adopted by the Conference of the Parties to the Convention, the management authority[^c-451052137c788efb5b1418e1dcbfcd76] registers nurseries which export artificially propagated specimens of species included in Annex A to Regulation (EC) No 338/97, it may make pre‐issued export permits for species listed in Annexes A or B to that Regulation available to the nurseries concerned.
 
 In box 23 of those pre-issued export permits, the registration number of the nursery shall be indicated, as well as the following statement:
 
@@ -28,4 +28,4 @@ In box 23 of those pre-issued export permits, the registration number of the nur
 
 ## Annotations
 
-[^key-451052137c788efb5b1418e1dcbfcd76]: Textual amendment: Words in [Art. 29](https://www.legislation.gov.uk/eur/2006/865/article/29) substituted (31.12.2020) by [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(24)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/24)
+[^c-451052137c788efb5b1418e1dcbfcd76]: Textual amendment: Words in [Art. 29](https://www.legislation.gov.uk/eur/2006/865/article/29) substituted (31.12.2020) by [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(24)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/24)

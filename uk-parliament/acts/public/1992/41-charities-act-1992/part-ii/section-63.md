@@ -29,7 +29,7 @@ he shall be guilty of an offence and liable on summary conviction to a fine not 
 
 (1A)[^c10232761] In any proceedings for an offence under subsection (1), it shall be a defence for the accused to prove that he believed on reasonable grounds that the institution was a registered charity.
 
-(2) In this section[^c10232771] “**registered charity**” means a charity which is for the time being registered in the register of charities kept under section 29 of the Charities Act 2011[^key-2d25f21dd2f26b5208ca14339ab32364].
+(2) In this section[^c10232771] “**registered charity**” means a charity which is for the time being registered in the register of charities kept under section 29 of the Charities Act 2011[^c-2d25f21dd2f26b5208ca14339ab32364].
 
 ## Annotations
 
@@ -39,4 +39,4 @@ he shall be guilty of an offence and liable on summary conviction to a fine not 
 
 [^c10232771]: Textual amendment: Words in s. 63(2) substituted (3.11.1994) by [1994 c. 40](https://www.legislation.gov.uk/ukpga/1994/40), [ss. 26(3)](https://www.legislation.gov.uk/ukpga/1994/40/section/26/3), [82(2)](https://www.legislation.gov.uk/ukpga/1994/40/section/82/2)
 
-[^key-2d25f21dd2f26b5208ca14339ab32364]: Textual amendment: Words in s. 63(2) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 66](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/66) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
+[^c-2d25f21dd2f26b5208ca14339ab32364]: Textual amendment: Words in s. 63(2) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 66](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/66) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))

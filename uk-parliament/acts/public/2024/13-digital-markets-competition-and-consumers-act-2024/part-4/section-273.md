@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 273. Terms of a subscription contract which are of no effect[^key-ad1f65862a8f5b0a689db6808e998429]
+## 273. Terms of a subscription contract which are of no effect[^c-ad1f65862a8f5b0a689db6808e998429]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ad1f65862a8f5b0a689db6808e998429]: Commencement: S. 273 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-ad1f65862a8f5b0a689db6808e998429]: Commencement: S. 273 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)

@@ -48,28 +48,28 @@ Coming into force
 
 23rd December 2016
 
-[^key-880fc5ba9978809f03db34e116c6afb2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-880fc5ba9978809f03db34e116c6afb2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-880fc5ba9978809f03db34e116c6afb2]
+## 1. Citation, commencement and interpretation[^c-880fc5ba9978809f03db34e116c6afb2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. The Organic Aid (Scotland) Regulations 1994[^key-880fc5ba9978809f03db34e116c6afb2]
+## 2. The Organic Aid (Scotland) Regulations 1994[^c-880fc5ba9978809f03db34e116c6afb2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Savings[^key-880fc5ba9978809f03db34e116c6afb2]
+## 3. Savings[^c-880fc5ba9978809f03db34e116c6afb2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-880fc5ba9978809f03db34e116c6afb2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-880fc5ba9978809f03db34e116c6afb2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-880fc5ba9978809f03db34e116c6afb2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-880fc5ba9978809f03db34e116c6afb2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-880fc5ba9978809f03db34e116c6afb2]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2016/366) revoked (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2018/391/schedule/part/2)
+[^c-880fc5ba9978809f03db34e116c6afb2]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2016/366) revoked (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2018/391/schedule/part/2)

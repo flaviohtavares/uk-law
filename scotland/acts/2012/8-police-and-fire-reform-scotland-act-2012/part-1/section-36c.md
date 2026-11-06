@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 36C. Vetting code of practice[^key-3d062bde67f9ae78ea882abfe177f627]
+## 36C. Vetting code of practice[^c-3d062bde67f9ae78ea882abfe177f627]
 
 *Extent: S*
 
@@ -75,4 +75,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3d062bde67f9ae78ea882abfe177f627]: Textual amendment: [Pt. 1 Ch. 4B](https://www.legislation.gov.uk/asp/2012/8/part/1/chapter/4B) inserted (25.6.2025) by [Police (Ethics, Conduct and Scrutiny) (Scotland) Act 2025 (asp 5)](https://www.legislation.gov.uk/asp/2025/5), [ss. 4(2)](https://www.legislation.gov.uk/asp/2025/5/section/4/2), [22(2)](https://www.legislation.gov.uk/asp/2025/5/section/22/2); [S.S.I. 2025/175](https://www.legislation.gov.uk/ssi/2025/175), [reg. 2(d)](https://www.legislation.gov.uk/ssi/2025/175/regulation/2/d)
+[^c-3d062bde67f9ae78ea882abfe177f627]: Textual amendment: [Pt. 1 Ch. 4B](https://www.legislation.gov.uk/asp/2012/8/part/1/chapter/4B) inserted (25.6.2025) by [Police (Ethics, Conduct and Scrutiny) (Scotland) Act 2025 (asp 5)](https://www.legislation.gov.uk/asp/2025/5), [ss. 4(2)](https://www.legislation.gov.uk/asp/2025/5/section/4/2), [22(2)](https://www.legislation.gov.uk/asp/2025/5/section/22/2); [S.S.I. 2025/175](https://www.legislation.gov.uk/ssi/2025/175), [reg. 2(d)](https://www.legislation.gov.uk/ssi/2025/175/regulation/2/d)

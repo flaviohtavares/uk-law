@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 809CZC. Tax charged on income transferred[^key-0dc537fcc683c7aa67f68cbdbb72de6d]
+## 809CZC. Tax charged on income transferred[^c-0dc537fcc683c7aa67f68cbdbb72de6d]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0dc537fcc683c7aa67f68cbdbb72de6d]: Textual amendment: Pt. 13 Ch. 5C inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2010/8/schedule/5/paragraph/7) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-0dc537fcc683c7aa67f68cbdbb72de6d]: Textual amendment: Pt. 13 Ch. 5C inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2010/8/schedule/5/paragraph/7) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))

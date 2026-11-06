@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47.33. Application for warrant under section 160 of the Extradition Act 2003[^key-91568a121b16439610cf3218b7b858e1]
+## 47.33. Application for warrant under section 160 of the Extradition Act 2003[^c-91568a121b16439610cf3218b7b858e1]
 
 *Extent: E+W*
 
@@ -65,6 +65,6 @@ summary: ''
 
 ## Annotations
 
-[^key-91568a121b16439610cf3218b7b858e1]: Commencement: Rule 47.33 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-91568a121b16439610cf3218b7b858e1]: Commencement: Rule 47.33 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01226]: Footnote: [2003 c. 41](https://www.legislation.gov.uk/ukpga/2003/41); section 160 was amended by section 174 of the Anti-social Behaviour, Crime and Policing Act [2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12).

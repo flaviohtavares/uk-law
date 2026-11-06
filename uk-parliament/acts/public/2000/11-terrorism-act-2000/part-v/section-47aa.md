@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47AA. Code of practice relating to sections 43, 43A , 43C and 47A[^key-bebeaffb41b606a484ff4eb46c3b1efe][^key-56ce1e176261b3634b8ca2812326ce61]
+## 47AA. Code of practice relating to sections 43, 43A , 43C and 47A[^c-bebeaffb41b606a484ff4eb46c3b1efe][^c-56ce1e176261b3634b8ca2812326ce61]
 
 *Extent: E+W+S+N.I.*
 
 (1) The Secretary of State must prepare a code of practice containing guidance about—
 
-- (a) the exercise of the powers conferred by sections 43 , 43A and 43C[^key-18ba45bce1fae731f615befc7631efd9],
+- (a) the exercise of the powers conferred by sections 43 , 43A and 43C[^c-18ba45bce1fae731f615befc7631efd9],
 - (b) the exercise of the powers to give an authorisation under section 47A(2) or (3),
 - (c) the exercise of the powers conferred by such an authorisation and section 47A(6), and
 - (d) such other matters in connection with the exercise of any of the powers mentioned in paragraphs (a) to (c) as the Secretary of State considers appropriate.
@@ -33,8 +33,8 @@ summary: ''
 
 ## Annotations
 
-[^key-bebeaffb41b606a484ff4eb46c3b1efe]: Textual amendment: Ss. 47AA-47AE and cross-heading inserted (9.5.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [ss. 62](https://www.legislation.gov.uk/ukpga/2012/9/section/62), [120](https://www.legislation.gov.uk/ukpga/2012/9/section/120) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 2](https://www.legislation.gov.uk/uksi/2012/1205/article/2)
+[^c-bebeaffb41b606a484ff4eb46c3b1efe]: Textual amendment: Ss. 47AA-47AE and cross-heading inserted (9.5.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [ss. 62](https://www.legislation.gov.uk/ukpga/2012/9/section/62), [120](https://www.legislation.gov.uk/ukpga/2012/9/section/120) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 2](https://www.legislation.gov.uk/uksi/2012/1205/article/2)
 
-[^key-56ce1e176261b3634b8ca2812326ce61]: Textual amendment: Word in s. 47AA heading inserted (1.7.2022) by [The Police, Crime, Sentencing and Courts Act 2022 (Consequential Provision) Regulations 2022 (S.I. 2022/746)](https://www.legislation.gov.uk/uksi/2022/746), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/746/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2022/746/regulation/2/2)
+[^c-56ce1e176261b3634b8ca2812326ce61]: Textual amendment: Word in s. 47AA heading inserted (1.7.2022) by [The Police, Crime, Sentencing and Courts Act 2022 (Consequential Provision) Regulations 2022 (S.I. 2022/746)](https://www.legislation.gov.uk/uksi/2022/746), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/746/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2022/746/regulation/2/2)
 
-[^key-18ba45bce1fae731f615befc7631efd9]: Textual amendment: Words in [s. 47AA(1)(a)](https://www.legislation.gov.uk/ukpga/2000/11/section/47AA/1/a) substituted (1.7.2022) by [The Police, Crime, Sentencing and Courts Act 2022 (Consequential Provision) Regulations 2022 (S.I. 2022/746)](https://www.legislation.gov.uk/uksi/2022/746), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/746/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2022/746/regulation/2/3)
+[^c-18ba45bce1fae731f615befc7631efd9]: Textual amendment: Words in [s. 47AA(1)(a)](https://www.legislation.gov.uk/ukpga/2000/11/section/47AA/1/a) substituted (1.7.2022) by [The Police, Crime, Sentencing and Courts Act 2022 (Consequential Provision) Regulations 2022 (S.I. 2022/746)](https://www.legislation.gov.uk/uksi/2022/746), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/746/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2022/746/regulation/2/3)

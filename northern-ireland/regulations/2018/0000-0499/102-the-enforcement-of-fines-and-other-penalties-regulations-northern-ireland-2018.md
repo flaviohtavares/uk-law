@@ -46,11 +46,11 @@ The Department of Justice makes the following Regulations in exercise of the pow
 
 ## PART 1 — INTRODUCTORY
 
-### 1. Citation and commencement[^key-6e6ade1d9fc60d5d2ef9c3c266c10c51]
+### 1. Citation and commencement[^c-6e6ade1d9fc60d5d2ef9c3c266c10c51]
 
 These Regulations may be cited as the Enforcement of Fines and Other Penalties Regulations (Northern Ireland) 2018 and shall come into operation on the 1st June 2018.
 
-### 2. Interpretation[^key-b413352285eba2e95b6943aae4fee45f]
+### 2. Interpretation[^c-b413352285eba2e95b6943aae4fee45f]
 
 In these Regulations—
 
@@ -62,7 +62,7 @@ In these Regulations—
 
 ## PART 2 — APPLICATIONS FOR DEDUCTION FROM BENEFITS
 
-### 3. Content of application for deduction from benefits[^key-011bd4fc0454b34c0a64036f8667cb97]
+### 3. Content of application for deduction from benefits[^c-011bd4fc0454b34c0a64036f8667cb97]
 
 An application for deduction from benefits made under section 6(3)(a) or in accordance with an order made under section 4(1)(a) or 9(1)(c) of the Act shall specify—
 
@@ -73,13 +73,13 @@ An application for deduction from benefits made under section 6(3)(a) or in acco
 - (e) the debtor’s date of birth; and
 - (f) the amount to which the application relates.
 
-### 4. Notification of payment[^key-e706dbbc7b15863da02dcd9e647f7fc0]
+### 4. Notification of payment[^c-e706dbbc7b15863da02dcd9e647f7fc0]
 
 Where the amount to which the application relates has been paid in full, the court shall notify the Department for Communities[^f00002] and the debtor accordingly, in writing, as soon as is practicable.
 
 ## PART 3 — ATTACHMENT OF EARNINGS ORDERS
 
-### 5. Interpretation of this Part[^key-02e447c9695cbad0670f2c715694b186]
+### 5. Interpretation of this Part[^c-02e447c9695cbad0670f2c715694b186]
 
 In this Part—
 
@@ -94,7 +94,7 @@ In this Part—
 - “pay-day” means an occasion on which earnings are paid to the debtor or the day on which such earnings would normally fall to be paid;
 - “protected earnings proportion” is 60 per cent of the debtor’s net earnings during the period to which a deduction from the debtor’s earnings under the Act relates, as calculated by the employer on the applicable pay-day.
 
-### 6. Meaning of “earnings”[^key-288df7f1dc30065fd460d2f0c40835eb]
+### 6. Meaning of “earnings”[^c-288df7f1dc30065fd460d2f0c40835eb]
 
 (1) In sections 6(12) and 18 of the Act and in this Part, subject to paragraph (2), “earnings” are any sums payable to a person by way of—
 
@@ -112,7 +112,7 @@ In this Part—
 - (f) working tax credit payable under section 10 of the Tax Credits Act 2002[^f00006];
 - (g) sums paid to reimburse expenses wholly and necessarily incurred in the course of the employment.
 
-### 7. Statement of earnings[^key-84c3e2067700f8e9632aee05ad76f861]
+### 7. Statement of earnings[^c-84c3e2067700f8e9632aee05ad76f861]
 
 (1) A direction given under section 19(2) of the Act shall require the debtor to provide, in addition to the information required under section 19(2)(a), the following information—
 
@@ -135,7 +135,7 @@ In this Part—
 
 (3) For the purposes of section 19(2) and 19(3) of the Act, the specified period is 14 days from the date of the direction.
 
-### 8. Content of attachment of earnings order[^key-7ba8224c6e399a9ac6087cee70047f62]
+### 8. Content of attachment of earnings order[^c-7ba8224c6e399a9ac6087cee70047f62]
 
 An attachment of earnings order shall be in Form 1 as set out in Schedule 1 and shall specify—
 
@@ -150,7 +150,7 @@ An attachment of earnings order shall be in Form 1 as set out in Schedule 1 and 
 - (i) the protected earnings proportion; and
 - (j) how to make payments.
 
-### 9. Rate of deductions[^key-2643921e7bab33dacb4ec9c2e538cd60]
+### 9. Rate of deductions[^c-2643921e7bab33dacb4ec9c2e538cd60]
 
 The rate at which amounts are to be deducted from the debtor’s earnings under an attachment of earnings order, or any variation of it, is—
 
@@ -158,11 +158,11 @@ The rate at which amounts are to be deducted from the debtor’s earnings under 
 - (b) where the earnings are payable monthly, the percentage of the debtor’s earnings specified in column 2 of Table B in Schedule 2 opposite the band in column 1 of that Table within which the net earnings payable on the pay-day fall; or
 - (c) a higher weekly or monthly rate than that which would be payable under paragraph (a) or (b), as agreed between the appropriate authority and the debtor.
 
-### 10. Service of attachment of earnings order[^key-af3f18f3f2439bee8a18f120cd47f518]
+### 10. Service of attachment of earnings order[^c-af3f18f3f2439bee8a18f120cd47f518]
 
 The collection officer shall serve an attachment of earnings order on the employer and a copy on the debtor as soon as is practicable.
 
-### 11. Applications to determine whether payments are earnings[^key-4d5786005822ec3df558ce51412cf30a]
+### 11. Applications to determine whether payments are earnings[^c-4d5786005822ec3df558ce51412cf30a]
 
 (1) An application under paragraph 3 of Schedule 1 to the Act to determine whether payments are earnings shall be made in writing and a copy shall be served by the applicant on the employer or the debtor as the case may be.
 
@@ -175,7 +175,7 @@ The collection officer shall serve an attachment of earnings order on the employ
 
 (4) The proper officer shall, as soon as is practicable, notify the employer and the debtor of the court’s decision.
 
-### 12. Compliance with attachment of earnings order[^key-c67d1294667dfd7f1bef162db26e58a4]
+### 12. Compliance with attachment of earnings order[^c-c67d1294667dfd7f1bef162db26e58a4]
 
 (1) Subject to the following provisions of this regulation, where the employer has received an attachment of earnings order from the appropriate authority, the employer shall, each pay-day, make a deduction in accordance with the order from the net earnings which the employer would otherwise pay to the debtor on that pay-day.
 
@@ -213,13 +213,13 @@ The collection officer shall serve an attachment of earnings order on the employ
 
 (11) The employer shall keep a record of every payment made under this regulation and of the debtor in respect of whom each such payment is made.
 
-### 13. Administrative costs of employer[^key-f04eb78d75b720afaa7689383dd5e77f]
+### 13. Administrative costs of employer[^c-f04eb78d75b720afaa7689383dd5e77f]
 
 (1) Where, on any pay-day, an employer makes a deduction from the debtor’s earnings in accordance with an attachment of earnings order, the employer may also deduct an additional amount not exceeding £1.00 in respect of administrative costs and such deduction may reduce the amount which the employer pays to the debtor on that pay-day below the protected earnings proportion.
 
 (2) On each occasion that an employer deducts an additional amount in accordance with paragraph (1), the employer shall, as soon as is practicable, notify the debtor in writing of the total amount of deductions made and how the total amount was calculated.
 
-### 14. Variation of order[^key-aa91e7366ac93c6a95f1215a5a6a97c0]
+### 14. Variation of order[^c-aa91e7366ac93c6a95f1215a5a6a97c0]
 
 (1) An application for the variation of an attachment of earnings order shall be made in Form 2, as set out in Schedule 1.
 
@@ -245,7 +245,7 @@ The collection officer shall serve an attachment of earnings order on the employ
 
 (8) Where the collection officer varies an attachment of earnings order, the officer shall, in addition to serving the order as varied on the employer, as soon as is practicable, notify the debtor of the officer’s decision.
 
-### 15. Discharge of order[^key-31f9b83edfef4d4c0085940be1d7ec38]
+### 15. Discharge of order[^c-31f9b83edfef4d4c0085940be1d7ec38]
 
 (1) For the purpose of paragraph 7(5) of Schedule 1 to the Act, an attachment of earnings order is to be regarded as failing if—
 
@@ -287,7 +287,7 @@ The collection officer shall serve an attachment of earnings order on the employ
 
 ## PART 4 — BANK ACCOUNT ORDERS
 
-### 16. Interpretation of this Part[^key-b11be0871464e185194ceb817445511a]
+### 16. Interpretation of this Part[^c-b11be0871464e185194ceb817445511a]
 
 In this Part—
 
@@ -299,7 +299,7 @@ In this Part—
   as the case may be;
 - “working days” means any days other than a Saturday, a Sunday, or a public holiday.
 
-### 17. Information to be provided to the collection officer[^key-a5dae4d5b9f8bc270849363a59c56de8]
+### 17. Information to be provided to the collection officer[^c-a5dae4d5b9f8bc270849363a59c56de8]
 
 Where the collection officer is considering making or has made an interim bank account order under section 6(5) of the Act, the officer may require a deposit-taker to provide any of the following information—
 
@@ -309,7 +309,7 @@ Where the collection officer is considering making or has made an interim bank a
 - (d) the current balance of the account; and
 - (e) whether the deposit-taker asserts a right to any money in the account, whether pursuant to a right of set-off or otherwise, and if so giving details and the grounds for that assertion.
 
-### 18. Content of interim bank account order[^key-c95f1f08c99841bf15dc1d79909993ba]
+### 18. Content of interim bank account order[^c-c95f1f08c99841bf15dc1d79909993ba]
 
 An interim bank account order shall be in Form 4, as set out in Schedule 1 and shall include—
 
@@ -319,7 +319,7 @@ An interim bank account order shall be in Form 4, as set out in Schedule 1 and s
 - (d) details of the debtor’s account with the deposit-taker which is subject to the interim bank account order; and
 - (e) details of the specified amount.
 
-### 19. Service of interim bank account order[^key-919714d60562a3d29c83d5e64e732939]
+### 19. Service of interim bank account order[^c-919714d60562a3d29c83d5e64e732939]
 
 (1) An interim bank account order shall be served by the collection officer on—
 
@@ -328,7 +328,7 @@ An interim bank account order shall be in Form 4, as set out in Schedule 1 and s
 
 (2) At the same time as serving the order under paragraph 1(b), the collection officer shall provide the debtor with information on how the order may be discharged and hardship payments.
 
-### 20. Obligations of deposit-taker served with interim bank account order[^key-d50de869ade984c2a627a5f3e1b2c7b8]
+### 20. Obligations of deposit-taker served with interim bank account order[^c-d50de869ade984c2a627a5f3e1b2c7b8]
 
 (1) A deposit-taker served with an interim bank account order shall contact the collection officer immediately upon receipt of the order to confirm its implementation or to advise that the order cannot be implemented.
 
@@ -338,13 +338,13 @@ An interim bank account order shall be in Form 4, as set out in Schedule 1 and s
 
 (4) The deposit-taker shall complete Annex A of Form 5 and return it to the collection officer within 5 working days of service of the order.
 
-### 21. Debtor’s request for release of the specified amount[^key-b97e6d5861bd7a36f27ffc1b95284c22]
+### 21. Debtor’s request for release of the specified amount[^c-b97e6d5861bd7a36f27ffc1b95284c22]
 
 (1) A request under section 20(2) of the Act for the deposit-taker to release to the responsible court the whole of the specified amount shall be made in Form 6, as set out in Schedule 1, and shall be given by the debtor to the deposit-taker.
 
 (2) Where such a request is made, the debtor shall inform the collection officer.
 
-### 22. Application for a hardship payment order[^key-0ad7138ac44a0e1f17ee711ed6f08c33]
+### 22. Application for a hardship payment order[^c-0ad7138ac44a0e1f17ee711ed6f08c33]
 
 (1) An application for a hardship payment order under section 21 of the Act shall be made in writing and shall include—
 
@@ -359,7 +359,7 @@ An interim bank account order shall be in Form 4, as set out in Schedule 1 and s
 
 (4) The collection officer, in determining an application for a hardship payment order, shall take into account the evidence provided under paragraph (1)(d).
 
-### 23. Hardship payment order[^key-43df98ef8f25e093a331075885865916]
+### 23. Hardship payment order[^c-43df98ef8f25e093a331075885865916]
 
 (1) A hardship payment order shall be in Form 7, as set out in Schedule 1, and shall specify—
 
@@ -372,13 +372,13 @@ An interim bank account order shall be in Form 4, as set out in Schedule 1 and s
 
 (2) A hardship payment order shall be served by the collection officer on the debtor and the deposit-taker.
 
-### 24. Notice of and arrangements for referral hearing where interim bank account order made[^key-ee5db81196d3927168ceef5a4aa900fe]
+### 24. Notice of and arrangements for referral hearing where interim bank account order made[^c-ee5db81196d3927168ceef5a4aa900fe]
 
 (1) Where an interim bank account order has been made, the collection officer shall notify the deposit-taker of the date, time and place of the referral hearing, and that it is entitled to attend and be heard.
 
 (2) The referral hearing shall be listed within 28 days of implementation of the order.
 
-### 25. Information to be provided to the court[^key-fee59f36b29e284fb9eb1db3624d3de2]
+### 25. Information to be provided to the court[^c-fee59f36b29e284fb9eb1db3624d3de2]
 
 Where the responsible court is considering making a bank account order, whether an interim bank account order has been made or not, it may require a deposit-taker to provide any of the following information—
 
@@ -390,7 +390,7 @@ Where the responsible court is considering making a bank account order, whether 
   - (iv) the current balance in the account; and
   - (v) whether the deposit-taker asserts a right to any money in the account, whether pursuant to a right of set-off or otherwise, and if so giving details and the grounds for that assertion.
 
-### 26. Content of bank account order[^key-82d06a4a1263fccd5ce761ea77651a3e]
+### 26. Content of bank account order[^c-82d06a4a1263fccd5ce761ea77651a3e]
 
 (1) A bank account order shall be in Form 8, as set out in Schedule 1, and shall include—
 
@@ -403,7 +403,7 @@ Where the responsible court is considering making a bank account order, whether 
 - (g) requirements for implementation of the order in accordance with regulation 28; and
 - (h) details of how the specified amount is to be paid.
 
-### 27. Service of bank account order[^key-e6e3f07b2c92148cb91ac74592222057]
+### 27. Service of bank account order[^c-e6e3f07b2c92148cb91ac74592222057]
 
 A bank account order shall be served, as soon as is practicable, by the proper officer on—
 
@@ -411,7 +411,7 @@ A bank account order shall be served, as soon as is practicable, by the proper o
 - (b) the deposit-taker; and, where a collection order was made,
 - (c) the collection officer.
 
-### 28. Implementation of bank account order[^key-1b955e4ff1c28aa62c5e0d05516b2834]
+### 28. Implementation of bank account order[^c-1b955e4ff1c28aa62c5e0d05516b2834]
 
 (1) A bank account order shall be implemented within 10 working days of its service on the deposit-taker.
 
@@ -422,13 +422,13 @@ A bank account order shall be served, as soon as is practicable, by the proper o
 
 (3) A bank account order may not operate to require the making of a payment which would reduce the credit balance of the account to which the order relates below £5.00.
 
-### 29. Administrative charges[^key-5bb07bd8f2f9830bc03d4a0817e8c43b]
+### 29. Administrative charges[^c-5bb07bd8f2f9830bc03d4a0817e8c43b]
 
 A deposit-taker may impose an administrative charge on the debtor of equivalent value to the costs incurred by it in complying with any interim bank account order or bank account order.
 
 ## PART 5 — VEHICLE SEIZURE ORDERS
 
-### 30. Interpretation of this Part[^key-83dab70146608e559da63456f3facbc9]
+### 30. Interpretation of this Part[^c-83dab70146608e559da63456f3facbc9]
 
 In this Part—
 
@@ -438,11 +438,11 @@ In this Part—
 - “authorised person” means a person authorised by the Department of Justice under section 23(2) of the Act;
 - “charges due” means charges which are payable in accordance with Schedule 3 in respect of the removal, storage or disposal of the vehicle.
 
-### 31. Matters to be taken into account by the collection officer[^key-e973ec7a192e5cd34c31afb3b26a5e95]
+### 31. Matters to be taken into account by the collection officer[^c-e973ec7a192e5cd34c31afb3b26a5e95]
 
 Before making a request on a referral under section 6(6) of the Act, in addition to the matters specified in section 6(7), the collection officer must be satisfied that the debtor is the sole owner of the vehicle to which the request refers.
 
-### 32. Content of a vehicle seizure order[^key-6b4b07af0b224a404b771e01bb73a553]
+### 32. Content of a vehicle seizure order[^c-6b4b07af0b224a404b771e01bb73a553]
 
 A vehicle seizure order shall be in Form 9, as set out in Schedule 1, and shall include—
 
@@ -458,13 +458,13 @@ A vehicle seizure order shall be in Form 9, as set out in Schedule 1, and shall 
 - (j) notice that the vehicle may be sold or otherwise disposed of if payment of the outstanding amount and any charges due is not made in full within 28 days of its seizure; and
 - (k) the contact details of the appropriate officer.
 
-### 33. Procedure on making a vehicle seizure order[^key-84d01039f0bf23a387574e4df489358f]
+### 33. Procedure on making a vehicle seizure order[^c-84d01039f0bf23a387574e4df489358f]
 
 (1) Where a vehicle seizure order is made, the appropriate officer shall serve a copy, as soon as is practicable, on the debtor.
 
 (2) If payment of the outstanding amount is not made within 28 days of service of the order on the debtor, the appropriate officer shall serve a copy of the order on the Police Service of Northern Ireland who may then seize the vehicle and arrange its removal to storage by an authorised person.
 
-### 34. Places where vehicles may be seized[^key-3584a1bf02fcb3d1810545cd18800e74]
+### 34. Places where vehicles may be seized[^c-3584a1bf02fcb3d1810545cd18800e74]
 
 (1) A vehicle which is the subject of a vehicle seizure order may be seized—
 
@@ -476,7 +476,7 @@ A vehicle seizure order shall be in Form 9, as set out in Schedule 1, and shall 
 - (a) enter any such premises or property on which the officer has reasonable grounds for believing the vehicle to be; and
 - (b) use reasonable force if necessary in the exercise of that power.
 
-### 35. Defect in vehicle seizure order or irregularity in its execution[^key-d73864702b37cafb75859842ad75f525]
+### 35. Defect in vehicle seizure order or irregularity in its execution[^c-d73864702b37cafb75859842ad75f525]
 
 (1) A vehicle seizure order shall not be held void by reason of any defect in the order.
 
@@ -484,7 +484,7 @@ A vehicle seizure order shall be in Form 9, as set out in Schedule 1, and shall 
 
 (3) Nothing in this regulation shall prejudice the claim of any person for special damages in respect of any loss caused by a defect in the vehicle seizure order or irregularity in its execution.
 
-### 36. Removal of vehicle to storage[^key-77cd5cc9148e3bbc6a4163aa52b67d4f]
+### 36. Removal of vehicle to storage[^c-77cd5cc9148e3bbc6a4163aa52b67d4f]
 
 Where a vehicle is seized and removed to storage the appropriate officer shall serve written notice on the debtor specifying—
 
@@ -500,7 +500,7 @@ Where a vehicle is seized and removed to storage the appropriate officer shall s
 - (j) that if the vehicle is sold, the charges due and the outstanding amount will be deducted from the proceeds of sale before any balance is sent to the debtor; and
 - (k) the contact details of the appropriate officer.
 
-### 37. Storage of vehicle[^key-bb985357fb81c0a743355f3579cdbe56]
+### 37. Storage of vehicle[^c-bb985357fb81c0a743355f3579cdbe56]
 
 (1) Premises used for the storage of seized vehicles shall be secure and such as to protect them from damage or unreasonable deterioration.
 
@@ -510,7 +510,7 @@ Where a vehicle is seized and removed to storage the appropriate officer shall s
 - (b) released in accordance with regulation 39; or
 - (c) sold or otherwise disposed of in accordance with regulation 40.
 
-### 38. Release of vehicle wrongly seized[^key-1f581a7153f5c0f018f00971404338e7]
+### 38. Release of vehicle wrongly seized[^c-1f581a7153f5c0f018f00971404338e7]
 
 (1) Where a vehicle is seized, removed or stored in breach of any provision of this Part, a person may apply to the responsible court for the release of the vehicle.
 
@@ -535,7 +535,7 @@ Where a vehicle is seized and removed to storage the appropriate officer shall s
 - (c) the date of payment; and
 - (d) the name of person issuing the receipt.
 
-### 39. Release of vehicle on payment of outstanding amount and charges[^key-e9ff458630423b9f20b2395f169ee838]
+### 39. Release of vehicle on payment of outstanding amount and charges[^c-e9ff458630423b9f20b2395f169ee838]
 
 (1) A vehicle which has been seized and removed to storage may be released in accordance with this regulation upon payment of the outstanding amount and the charges due.
 
@@ -552,7 +552,7 @@ Where a vehicle is seized and removed to storage the appropriate officer shall s
 - (c) the date of payment; and
 - (d) the name of person issuing the receipt.
 
-### 40. Sale or disposal of seized vehicle[^key-b38842257a4ec0bfb166a3abf8bca0af]
+### 40. Sale or disposal of seized vehicle[^c-b38842257a4ec0bfb166a3abf8bca0af]
 
 (1) A vehicle which has been seized and removed to storage shall not be sold or otherwise disposed of—
 
@@ -563,11 +563,11 @@ whichever is later.
 
 (2) A vehicle which is to be sold or disposed of may be sold or disposed of in such manner as the authorised person thinks fit.
 
-### 41. Ownership of the vehicle on sale[^key-c1b1cd317f26ebde097d55a13beb4daa]
+### 41. Ownership of the vehicle on sale[^c-c1b1cd317f26ebde097d55a13beb4daa]
 
 On the sale of a vehicle which is subject to a vehicle seizure order, its ownership shall vest solely in the purchaser.
 
-### 42. Treatment of proceeds of sale of a seized vehicle[^key-450776ede94a07c28abda847539e4aa3]
+### 42. Treatment of proceeds of sale of a seized vehicle[^c-450776ede94a07c28abda847539e4aa3]
 
 (1) Where a seized vehicle has been sold, the authorised person shall first deduct from the proceeds of sale the amount of the charges due and shall then send the remaining balance to the Police Service for Northern Ireland as soon as is practicable.
 
@@ -577,7 +577,7 @@ On the sale of a vehicle which is subject to a vehicle seizure order, its owners
 
 (4) If a seized vehicle is sold and the proceeds of sale are not sufficient to meet the outstanding amount and any charges due, the proceeds of sale shall first be applied towards meeting the charges due and then, if a balance remains, towards discharging the debtor’s liability in respect of the outstanding amount.
 
-### 43. Charges[^key-15659b633ea935de5631ff5fdab89018]
+### 43. Charges[^c-15659b633ea935de5631ff5fdab89018]
 
 The charges payable to the authorised person in connection with the removal, storage and disposal of the vehicle are those prescribed in Schedule 3.
 
@@ -589,7 +589,7 @@ A senior officer of the
 
 Department of Justice
 
-## SCHEDULE 1[^key-219f0a9e2eae4c732954414752fe6e49]
+## SCHEDULE 1[^c-219f0a9e2eae4c732954414752fe6e49]
 
 Table 1
 
@@ -614,7 +614,7 @@ Removal, Storage and Disposal Charges
 </tbody>
 </table>
 
-## SCHEDULE 2 — Attachment of Earnings Deduction Rates[^key-0966adc0ac7d0025a8f25589928a9492]
+## SCHEDULE 2 — Attachment of Earnings Deduction Rates[^c-0966adc0ac7d0025a8f25589928a9492]
 
 Regulation 9
 
@@ -650,15 +650,15 @@ WHERE EARNINGS ARE PAID MONTHLY
 
 Regulation 43
 
-### 1. Interpretation[^key-2c079ecf44ad0f8f3bc566d268893dc2]
+### 1. Interpretation[^c-2c079ecf44ad0f8f3bc566d268893dc2]
 
 In this Schedule “MAM” means maximum authorised mass, and, in relation to any vehicle, includes the MAM of any trailer attached to that vehicle.
 
-### 2. Charges in relation to the removal of vehicles[^key-34a2e54429b57d51cf66277bfe6b2c62]
+### 2. Charges in relation to the removal of vehicles[^c-34a2e54429b57d51cf66277bfe6b2c62]
 
 The amount payable for the removal of vehicles shall be the charges specified in Table 1.
 
-Table 1- Removal Charges[^key-50705d7ef91158eb7a178908d5d97c26]
+Table 1- Removal Charges[^c-50705d7ef91158eb7a178908d5d97c26]
 
 <table>
 <thead>
@@ -675,29 +675,29 @@ Table 1- Removal Charges[^key-50705d7ef91158eb7a178908d5d97c26]
 </tbody>
 </table>
 
-### 3.[^key-531206f9aab76c46bbad13ef14a02c22]
+### 3.[^c-531206f9aab76c46bbad13ef14a02c22]
 
 For the purposes of Table 1 a vehicle is considered to be upright if all parts of the vehicle are upright.
 
-### 4. Charges in relation to the storage of vehicles[^key-6d07542ed17166004412896decf5054e]
+### 4. Charges in relation to the storage of vehicles[^c-6d07542ed17166004412896decf5054e]
 
 The amount payable for the storage of vehicles, for each period of 24 hours or part thereof during which a vehicle is in the custody of the authorised person, shall be the charges specified in Table 2.
 
-### 5.[^key-a669ccfd8baf7fb7d2a5b9d8d365cc13]
+### 5.[^c-a669ccfd8baf7fb7d2a5b9d8d365cc13]
 
 For the purposes of paragraph 4, each period of 24 hours shall be reckoned from noon on the first day after removal during which the place at which the vehicle is stored is open for the claiming of the vehicles before noon.
 
-Table 2 -Storage Charges[^key-b1bf6611062eb93d850d9213f555d651]
+Table 2 -Storage Charges[^c-b1bf6611062eb93d850d9213f555d651]
 
 | Two wheeled vehicle | Vehicle, not including a two wheeled vehicle, equal to or less than 3.5 tonnes MAM | Vehicle exceeding 3.5 tonnes MAM but equal to or less than 7.5 tonnes MAM | Vehicle exceeding 7.5 tonnes MAM but equal to or less than 18 tonnes MAM | Vehicle exceeding 18 tonnes MAM |
 | --- | --- | --- | --- | --- |
 | £13 | £26 | £32 | £38 | £45 |
 
-### 6. Charges in relation to the disposal of vehicles[^key-2cfa6a8b52cd0d33cdfe5d8be0ad9424]
+### 6. Charges in relation to the disposal of vehicles[^c-2cfa6a8b52cd0d33cdfe5d8be0ad9424]
 
 The amount payable for the disposal of vehicles shall be the charges specified in Table 3.
 
-Table 3 - Disposal Charges[^key-a627762f5deb5d4d4bdf4925e4fd352c]
+Table 3 - Disposal Charges[^c-a627762f5deb5d4d4bdf4925e4fd352c]
 
 | Two wheeled vehicle | Vehicle, not including a two wheeled vehicle, equal to or less than 3.5 tonnes MAM | Vehicle exceeding 3.5 tonnes MAM but equal to or less than 7.5 tonnes MAM | Vehicle exceeding 7.5 tonnes MAM but equal to or less than 18 tonnes MAM | Vehicle exceeding 18 tonnes MAM |
 | --- | --- | --- | --- | --- |
@@ -775,21 +775,21 @@ An Explanatory Memorandum has been produced and is available from Criminal Justi
 
 [^f00001]: Footnote: [2016 c.21 (N.I.)](https://www.legislation.gov.uk/nia/2016/21)
 
-[^key-6e6ade1d9fc60d5d2ef9c3c266c10c51]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
+[^c-6e6ade1d9fc60d5d2ef9c3c266c10c51]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
 
-[^key-b413352285eba2e95b6943aae4fee45f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2018/102/regulation/2) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
+[^c-b413352285eba2e95b6943aae4fee45f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2018/102/regulation/2) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
 
-[^key-011bd4fc0454b34c0a64036f8667cb97]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2018/102/regulation/3) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
+[^c-011bd4fc0454b34c0a64036f8667cb97]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2018/102/regulation/3) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
 
-[^key-e706dbbc7b15863da02dcd9e647f7fc0]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2018/102/regulation/4) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
+[^c-e706dbbc7b15863da02dcd9e647f7fc0]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2018/102/regulation/4) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
 
 [^f00002]: Footnote: [2016 c.5 (N.I.)](https://www.legislation.gov.uk/nia/2016/5), section 1(7); the Department for Communities was formerly known as the Department for Social Development
 
-[^key-02e447c9695cbad0670f2c715694b186]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2018/102/regulation/5) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
+[^c-02e447c9695cbad0670f2c715694b186]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2018/102/regulation/5) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
 
 [^f00003]: Footnote: [1992 c.7](https://www.legislation.gov.uk/ukpga/1992/7)
 
-[^key-288df7f1dc30065fd460d2f0c40835eb]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2018/102/regulation/6) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
+[^c-288df7f1dc30065fd460d2f0c40835eb]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2018/102/regulation/6) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
 
 [^f00004]: Footnote: [1996 c.14](https://www.legislation.gov.uk/ukpga/1996/14)
 
@@ -797,98 +797,98 @@ An Explanatory Memorandum has been produced and is available from Criminal Justi
 
 [^f00006]: Footnote: [2002 c.21](https://www.legislation.gov.uk/ukpga/2002/21)
 
-[^key-84c3e2067700f8e9632aee05ad76f861]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2018/102/regulation/7) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
+[^c-84c3e2067700f8e9632aee05ad76f861]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2018/102/regulation/7) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
 
-[^key-7ba8224c6e399a9ac6087cee70047f62]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2018/102/regulation/8) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
+[^c-7ba8224c6e399a9ac6087cee70047f62]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2018/102/regulation/8) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
 
-[^key-2643921e7bab33dacb4ec9c2e538cd60]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2018/102/regulation/9) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
+[^c-2643921e7bab33dacb4ec9c2e538cd60]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2018/102/regulation/9) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
 
-[^key-af3f18f3f2439bee8a18f120cd47f518]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2018/102/regulation/10) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
+[^c-af3f18f3f2439bee8a18f120cd47f518]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2018/102/regulation/10) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
 
-[^key-4d5786005822ec3df558ce51412cf30a]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2018/102/regulation/11) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
+[^c-4d5786005822ec3df558ce51412cf30a]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2018/102/regulation/11) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
 
-[^key-c67d1294667dfd7f1bef162db26e58a4]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2018/102/regulation/12) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
+[^c-c67d1294667dfd7f1bef162db26e58a4]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2018/102/regulation/12) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
 
-[^key-f04eb78d75b720afaa7689383dd5e77f]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2018/102/regulation/13) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
+[^c-f04eb78d75b720afaa7689383dd5e77f]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2018/102/regulation/13) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
 
-[^key-aa91e7366ac93c6a95f1215a5a6a97c0]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2018/102/regulation/14) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
+[^c-aa91e7366ac93c6a95f1215a5a6a97c0]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2018/102/regulation/14) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
 
-[^key-31f9b83edfef4d4c0085940be1d7ec38]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2018/102/regulation/15) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
+[^c-31f9b83edfef4d4c0085940be1d7ec38]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2018/102/regulation/15) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
 
-[^key-b11be0871464e185194ceb817445511a]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2018/102/regulation/16) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
+[^c-b11be0871464e185194ceb817445511a]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2018/102/regulation/16) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
 
-[^key-a5dae4d5b9f8bc270849363a59c56de8]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2018/102/regulation/17) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
+[^c-a5dae4d5b9f8bc270849363a59c56de8]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2018/102/regulation/17) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
 
-[^key-c95f1f08c99841bf15dc1d79909993ba]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2018/102/regulation/18) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
+[^c-c95f1f08c99841bf15dc1d79909993ba]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2018/102/regulation/18) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
 
-[^key-919714d60562a3d29c83d5e64e732939]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2018/102/regulation/19) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
+[^c-919714d60562a3d29c83d5e64e732939]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2018/102/regulation/19) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
 
-[^key-d50de869ade984c2a627a5f3e1b2c7b8]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2018/102/regulation/20) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
+[^c-d50de869ade984c2a627a5f3e1b2c7b8]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2018/102/regulation/20) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
 
-[^key-b97e6d5861bd7a36f27ffc1b95284c22]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2018/102/regulation/21) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
+[^c-b97e6d5861bd7a36f27ffc1b95284c22]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2018/102/regulation/21) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
 
-[^key-0ad7138ac44a0e1f17ee711ed6f08c33]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2018/102/regulation/22) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
+[^c-0ad7138ac44a0e1f17ee711ed6f08c33]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2018/102/regulation/22) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
 
-[^key-43df98ef8f25e093a331075885865916]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2018/102/regulation/23) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
+[^c-43df98ef8f25e093a331075885865916]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2018/102/regulation/23) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
 
-[^key-ee5db81196d3927168ceef5a4aa900fe]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2018/102/regulation/24) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
+[^c-ee5db81196d3927168ceef5a4aa900fe]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2018/102/regulation/24) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
 
-[^key-fee59f36b29e284fb9eb1db3624d3de2]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2018/102/regulation/25) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
+[^c-fee59f36b29e284fb9eb1db3624d3de2]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2018/102/regulation/25) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
 
-[^key-82d06a4a1263fccd5ce761ea77651a3e]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2018/102/regulation/26) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
+[^c-82d06a4a1263fccd5ce761ea77651a3e]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2018/102/regulation/26) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
 
-[^key-e6e3f07b2c92148cb91ac74592222057]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2018/102/regulation/27) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
+[^c-e6e3f07b2c92148cb91ac74592222057]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2018/102/regulation/27) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
 
-[^key-1b955e4ff1c28aa62c5e0d05516b2834]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2018/102/regulation/28) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
+[^c-1b955e4ff1c28aa62c5e0d05516b2834]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2018/102/regulation/28) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
 
-[^key-5bb07bd8f2f9830bc03d4a0817e8c43b]: Commencement: [Reg. 29](https://www.legislation.gov.uk/nisr/2018/102/regulation/29) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
+[^c-5bb07bd8f2f9830bc03d4a0817e8c43b]: Commencement: [Reg. 29](https://www.legislation.gov.uk/nisr/2018/102/regulation/29) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
 
-[^key-83dab70146608e559da63456f3facbc9]: Commencement: [Reg. 30](https://www.legislation.gov.uk/nisr/2018/102/regulation/30) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
+[^c-83dab70146608e559da63456f3facbc9]: Commencement: [Reg. 30](https://www.legislation.gov.uk/nisr/2018/102/regulation/30) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
 
-[^key-e973ec7a192e5cd34c31afb3b26a5e95]: Commencement: [Reg. 31](https://www.legislation.gov.uk/nisr/2018/102/regulation/31) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
+[^c-e973ec7a192e5cd34c31afb3b26a5e95]: Commencement: [Reg. 31](https://www.legislation.gov.uk/nisr/2018/102/regulation/31) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
 
-[^key-6b4b07af0b224a404b771e01bb73a553]: Commencement: [Reg. 32](https://www.legislation.gov.uk/nisr/2018/102/regulation/32) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
+[^c-6b4b07af0b224a404b771e01bb73a553]: Commencement: [Reg. 32](https://www.legislation.gov.uk/nisr/2018/102/regulation/32) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
 
-[^key-84d01039f0bf23a387574e4df489358f]: Commencement: [Reg. 33](https://www.legislation.gov.uk/nisr/2018/102/regulation/33) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
+[^c-84d01039f0bf23a387574e4df489358f]: Commencement: [Reg. 33](https://www.legislation.gov.uk/nisr/2018/102/regulation/33) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
 
-[^key-3584a1bf02fcb3d1810545cd18800e74]: Commencement: [Reg. 34](https://www.legislation.gov.uk/nisr/2018/102/regulation/34) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
+[^c-3584a1bf02fcb3d1810545cd18800e74]: Commencement: [Reg. 34](https://www.legislation.gov.uk/nisr/2018/102/regulation/34) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
 
-[^key-d73864702b37cafb75859842ad75f525]: Commencement: [Reg. 35](https://www.legislation.gov.uk/nisr/2018/102/regulation/35) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
+[^c-d73864702b37cafb75859842ad75f525]: Commencement: [Reg. 35](https://www.legislation.gov.uk/nisr/2018/102/regulation/35) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
 
-[^key-77cd5cc9148e3bbc6a4163aa52b67d4f]: Commencement: [Reg. 36](https://www.legislation.gov.uk/nisr/2018/102/regulation/36) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
+[^c-77cd5cc9148e3bbc6a4163aa52b67d4f]: Commencement: [Reg. 36](https://www.legislation.gov.uk/nisr/2018/102/regulation/36) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
 
-[^key-bb985357fb81c0a743355f3579cdbe56]: Commencement: [Reg. 37](https://www.legislation.gov.uk/nisr/2018/102/regulation/37) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
+[^c-bb985357fb81c0a743355f3579cdbe56]: Commencement: [Reg. 37](https://www.legislation.gov.uk/nisr/2018/102/regulation/37) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
 
-[^key-1f581a7153f5c0f018f00971404338e7]: Commencement: [Reg. 38](https://www.legislation.gov.uk/nisr/2018/102/regulation/38) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
+[^c-1f581a7153f5c0f018f00971404338e7]: Commencement: [Reg. 38](https://www.legislation.gov.uk/nisr/2018/102/regulation/38) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
 
-[^key-e9ff458630423b9f20b2395f169ee838]: Commencement: [Reg. 39](https://www.legislation.gov.uk/nisr/2018/102/regulation/39) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
+[^c-e9ff458630423b9f20b2395f169ee838]: Commencement: [Reg. 39](https://www.legislation.gov.uk/nisr/2018/102/regulation/39) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
 
-[^key-b38842257a4ec0bfb166a3abf8bca0af]: Commencement: [Reg. 40](https://www.legislation.gov.uk/nisr/2018/102/regulation/40) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
+[^c-b38842257a4ec0bfb166a3abf8bca0af]: Commencement: [Reg. 40](https://www.legislation.gov.uk/nisr/2018/102/regulation/40) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
 
-[^key-c1b1cd317f26ebde097d55a13beb4daa]: Commencement: [Reg. 41](https://www.legislation.gov.uk/nisr/2018/102/regulation/41) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
+[^c-c1b1cd317f26ebde097d55a13beb4daa]: Commencement: [Reg. 41](https://www.legislation.gov.uk/nisr/2018/102/regulation/41) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
 
-[^key-450776ede94a07c28abda847539e4aa3]: Commencement: [Reg. 42](https://www.legislation.gov.uk/nisr/2018/102/regulation/42) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
+[^c-450776ede94a07c28abda847539e4aa3]: Commencement: [Reg. 42](https://www.legislation.gov.uk/nisr/2018/102/regulation/42) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
 
-[^key-15659b633ea935de5631ff5fdab89018]: Commencement: [Reg. 43](https://www.legislation.gov.uk/nisr/2018/102/regulation/43) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
+[^c-15659b633ea935de5631ff5fdab89018]: Commencement: [Reg. 43](https://www.legislation.gov.uk/nisr/2018/102/regulation/43) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
 
-[^key-219f0a9e2eae4c732954414752fe6e49]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2018/102/schedule/1) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
+[^c-219f0a9e2eae4c732954414752fe6e49]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2018/102/schedule/1) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
 
-[^key-0966adc0ac7d0025a8f25589928a9492]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/2018/102/schedule/2) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
+[^c-0966adc0ac7d0025a8f25589928a9492]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/2018/102/schedule/2) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
 
-[^key-2c079ecf44ad0f8f3bc566d268893dc2]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/nisr/2018/102/schedule/3/paragraph/1) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
+[^c-2c079ecf44ad0f8f3bc566d268893dc2]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/nisr/2018/102/schedule/3/paragraph/1) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
 
-[^key-34a2e54429b57d51cf66277bfe6b2c62]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/nisr/2018/102/schedule/3/paragraph/2) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
+[^c-34a2e54429b57d51cf66277bfe6b2c62]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/nisr/2018/102/schedule/3/paragraph/2) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
 
-[^key-50705d7ef91158eb7a178908d5d97c26]: Textual amendment: [Sch. 3 para. 2](https://www.legislation.gov.uk/nisr/2018/102/schedule/3/paragraph/2) Table substituted (10.11.2025) by [The Enforcement of Fines and Other Penalties (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/166)](https://www.legislation.gov.uk/nisr/2025/166), [regs. 1](https://www.legislation.gov.uk/nisr/2025/166/regulation/1), [3](https://www.legislation.gov.uk/nisr/2025/166/regulation/3) (with [reg. 6](https://www.legislation.gov.uk/nisr/2025/166/regulation/6))
+[^c-50705d7ef91158eb7a178908d5d97c26]: Textual amendment: [Sch. 3 para. 2](https://www.legislation.gov.uk/nisr/2018/102/schedule/3/paragraph/2) Table substituted (10.11.2025) by [The Enforcement of Fines and Other Penalties (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/166)](https://www.legislation.gov.uk/nisr/2025/166), [regs. 1](https://www.legislation.gov.uk/nisr/2025/166/regulation/1), [3](https://www.legislation.gov.uk/nisr/2025/166/regulation/3) (with [reg. 6](https://www.legislation.gov.uk/nisr/2025/166/regulation/6))
 
-[^key-531206f9aab76c46bbad13ef14a02c22]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/nisr/2018/102/schedule/3/paragraph/3) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
+[^c-531206f9aab76c46bbad13ef14a02c22]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/nisr/2018/102/schedule/3/paragraph/3) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
 
-[^key-6d07542ed17166004412896decf5054e]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/nisr/2018/102/schedule/3/paragraph/4) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
+[^c-6d07542ed17166004412896decf5054e]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/nisr/2018/102/schedule/3/paragraph/4) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
 
-[^key-a669ccfd8baf7fb7d2a5b9d8d365cc13]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/nisr/2018/102/schedule/3/paragraph/5) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
+[^c-a669ccfd8baf7fb7d2a5b9d8d365cc13]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/nisr/2018/102/schedule/3/paragraph/5) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
 
-[^key-b1bf6611062eb93d850d9213f555d651]: Textual amendment: [Sch. 3 para. 5](https://www.legislation.gov.uk/nisr/2018/102/schedule/3/paragraph/5) Table substituted (10.11.2025) by [The Enforcement of Fines and Other Penalties (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/166)](https://www.legislation.gov.uk/nisr/2025/166), [regs. 1](https://www.legislation.gov.uk/nisr/2025/166/regulation/1), [4](https://www.legislation.gov.uk/nisr/2025/166/regulation/4) (with [reg. 6](https://www.legislation.gov.uk/nisr/2025/166/regulation/6))
+[^c-b1bf6611062eb93d850d9213f555d651]: Textual amendment: [Sch. 3 para. 5](https://www.legislation.gov.uk/nisr/2018/102/schedule/3/paragraph/5) Table substituted (10.11.2025) by [The Enforcement of Fines and Other Penalties (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/166)](https://www.legislation.gov.uk/nisr/2025/166), [regs. 1](https://www.legislation.gov.uk/nisr/2025/166/regulation/1), [4](https://www.legislation.gov.uk/nisr/2025/166/regulation/4) (with [reg. 6](https://www.legislation.gov.uk/nisr/2025/166/regulation/6))
 
-[^key-2cfa6a8b52cd0d33cdfe5d8be0ad9424]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/nisr/2018/102/schedule/3/paragraph/6) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
+[^c-2cfa6a8b52cd0d33cdfe5d8be0ad9424]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/nisr/2018/102/schedule/3/paragraph/6) in operation at 1.6.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2018/102/regulation/1)
 
-[^key-a627762f5deb5d4d4bdf4925e4fd352c]: Textual amendment: [Sch. 3 para. 6](https://www.legislation.gov.uk/nisr/2018/102/schedule/3/paragraph/6) Table substituted (10.11.2025) by [The Enforcement of Fines and Other Penalties (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/166)](https://www.legislation.gov.uk/nisr/2025/166), [regs. 1](https://www.legislation.gov.uk/nisr/2025/166/regulation/1), [5](https://www.legislation.gov.uk/nisr/2025/166/regulation/5) (with [reg. 6](https://www.legislation.gov.uk/nisr/2025/166/regulation/6))
+[^c-a627762f5deb5d4d4bdf4925e4fd352c]: Textual amendment: [Sch. 3 para. 6](https://www.legislation.gov.uk/nisr/2018/102/schedule/3/paragraph/6) Table substituted (10.11.2025) by [The Enforcement of Fines and Other Penalties (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/166)](https://www.legislation.gov.uk/nisr/2025/166), [regs. 1](https://www.legislation.gov.uk/nisr/2025/166/regulation/1), [5](https://www.legislation.gov.uk/nisr/2025/166/regulation/5) (with [reg. 6](https://www.legislation.gov.uk/nisr/2025/166/regulation/6))

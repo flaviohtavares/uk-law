@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Verification and filing[^key-8616f09aadcd2d31ef09c3d76af1cc79]
+## 28. Verification and filing[^c-8616f09aadcd2d31ef09c3d76af1cc79]
 
 *Extent: E+W*
 
-(1) Apply rule 4.33 of the 1986 Rules. For “official receiver” substitute “bank liquidator”[^key-dac61eb13076eb662f2a2019cd15191f].
+(1) Apply rule 4.33 of the 1986 Rules. For “official receiver” substitute “bank liquidator”[^c-dac61eb13076eb662f2a2019cd15191f].
 
 (2) For paragraph (6), substitute—
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8616f09aadcd2d31ef09c3d76af1cc79]: Commencement: Rule 28 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-8616f09aadcd2d31ef09c3d76af1cc79]: Commencement: Rule 28 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
 
-[^key-dac61eb13076eb662f2a2019cd15191f]: Textual amendment: Words in [rule 28](https://www.legislation.gov.uk/uksi/2009/356/rule/28) inserted (15.11.2010) by [The Bank Insolvency (England and Wales) (Amendment) Rules 2010 (S.I. 2010/2579)](https://www.legislation.gov.uk/uksi/2010/2579), [rules 1](https://www.legislation.gov.uk/uksi/2010/2579/article/1), [18](https://www.legislation.gov.uk/uksi/2010/2579/rule/18)
+[^c-dac61eb13076eb662f2a2019cd15191f]: Textual amendment: Words in [rule 28](https://www.legislation.gov.uk/uksi/2009/356/rule/28) inserted (15.11.2010) by [The Bank Insolvency (England and Wales) (Amendment) Rules 2010 (S.I. 2010/2579)](https://www.legislation.gov.uk/uksi/2010/2579), [rules 1](https://www.legislation.gov.uk/uksi/2010/2579/article/1), [18](https://www.legislation.gov.uk/uksi/2010/2579/rule/18)

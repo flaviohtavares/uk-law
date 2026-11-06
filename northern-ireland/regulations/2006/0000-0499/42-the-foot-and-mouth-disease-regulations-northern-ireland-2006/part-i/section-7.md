@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 7. Disinfection[^key-c2def1072d31160106cb61d12d04fd2d]
+## 7. Disinfection[^c-c2def1072d31160106cb61d12d04fd2d]
 
 *Extent: N.I.*
 
@@ -27,6 +27,6 @@ Disinfection under this Order shall be carried out with a disinfectant which isâ
 
 ## Annotations
 
-[^key-c2def1072d31160106cb61d12d04fd2d]: Commencement: Reg. 7 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-c2def1072d31160106cb61d12d04fd2d]: Commencement: Reg. 7 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
 
 [^f00013]: Footnote: [S.R. 1972 No. 16](https://www.legislation.gov.uk/nisr/1972/16) as amended by [S.R.&O 1975 No. 69](https://www.legislation.gov.uk/nisr/1975/69), [S.R. 1995 No. 467](https://www.legislation.gov.uk/nisr/1995/467) and [S.R. 2006 No. 42](https://www.legislation.gov.uk/nisr/2006/42)

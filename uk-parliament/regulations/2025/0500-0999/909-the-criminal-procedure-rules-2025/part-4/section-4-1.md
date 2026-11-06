@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.1. When this Part applies[^key-507e50f8d1e4af5899fae319b60279ae]
+## 4.1. When this Part applies[^c-507e50f8d1e4af5899fae319b60279ae]
 
 *Extent: E+W*
 
@@ -62,7 +62,7 @@ summary: ''
 
 ## Annotations
 
-[^key-507e50f8d1e4af5899fae319b60279ae]: Commencement: [Rule 4.1](https://www.legislation.gov.uk/uksi/2025/909/rule/4.1) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-507e50f8d1e4af5899fae319b60279ae]: Commencement: [Rule 4.1](https://www.legislation.gov.uk/uksi/2025/909/rule/4.1) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00157]: Footnote: [1960 c. 16](https://www.legislation.gov.uk/ukpga/1960/16); section 243 was amended by section 109 of, and paragraph 107 of Schedule 8 to, the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39) and paragraph 1 of Schedule 1 to the Judicial Review and Courts Act [2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35).
 

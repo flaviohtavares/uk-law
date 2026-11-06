@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 69. Constitution of the Electoral Management Board for Scotland[^key-8ad110568c5f6ed1e85a7866edfd1759][^key-71043d4f9e6faacaf36082fee3be4421]
+## 69. Constitution of the Electoral Management Board for Scotland[^c-8ad110568c5f6ed1e85a7866edfd1759][^c-71043d4f9e6faacaf36082fee3be4421]
 
 *Extent: S*
 
@@ -379,6 +379,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8ad110568c5f6ed1e85a7866edfd1759]: Commencement: S. 69 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
+[^c-8ad110568c5f6ed1e85a7866edfd1759]: Commencement: S. 69 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
 
-[^key-71043d4f9e6faacaf36082fee3be4421]: Commencement: S. 69 in force at 1.4.2026 by [S.S.I. 2025/260](https://www.legislation.gov.uk/ssi/2025/260), [reg. 3](https://www.legislation.gov.uk/ssi/2025/260/regulation/3), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/260/schedule/part/2)
+[^c-71043d4f9e6faacaf36082fee3be4421]: Commencement: S. 69 in force at 1.4.2026 by [S.S.I. 2025/260](https://www.legislation.gov.uk/ssi/2025/260), [reg. 3](https://www.legislation.gov.uk/ssi/2025/260/regulation/3), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/260/schedule/part/2)

@@ -16,12 +16,12 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 121. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-ecf9fe48f3f0f271a83c59abe50d484d][^M_F_87f34e44-863e-4e66-948b-6e527538260d]
+## 121. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-ecf9fe48f3f0f271a83c59abe50d484d][^M_F_87f34e44-863e-4e66-948b-6e527538260d]
 
 *Extent: E+W+S+N.I.*
 
 ## Annotations
 
-[^key-ecf9fe48f3f0f271a83c59abe50d484d]: Textual amendment: Ss. 119-121 repealed (N.I.) (1.12.2006) by [The Manufacture and Storage of Explosives Regulations (Northern Ireland) 2006 (S.R. 2006/425)](https://www.legislation.gov.uk/nisr/2006/425), [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1), [Sch. 6 para. 1(14)](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/1/14), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/nisr/2006/425/schedule/7/part/1) (with [reg. 26](https://www.legislation.gov.uk/nisr/2006/425/regulation/26))
+[^c-ecf9fe48f3f0f271a83c59abe50d484d]: Textual amendment: Ss. 119-121 repealed (N.I.) (1.12.2006) by [The Manufacture and Storage of Explosives Regulations (Northern Ireland) 2006 (S.R. 2006/425)](https://www.legislation.gov.uk/nisr/2006/425), [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1), [Sch. 6 para. 1(14)](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/1/14), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/nisr/2006/425/schedule/7/part/1) (with [reg. 26](https://www.legislation.gov.uk/nisr/2006/425/regulation/26))
 
 [^M_F_87f34e44-863e-4e66-948b-6e527538260d]: Textual amendment: S. 121 repealed (5.11.1993) by [1993 c. 50](https://www.legislation.gov.uk/ukpga/1993/50), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1993/50/section/1/1), [Sch. 1 Pt.VII](https://www.legislation.gov.uk/ukpga/1993/50/schedule/1/part/VII).

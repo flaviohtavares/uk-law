@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 179. Amendments to do with sections 172 to 178[^key-b30aebe669ac146389ae9142428d4882]
+## 179. Amendments to do with sections 172 to 178[^c-b30aebe669ac146389ae9142428d4882]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 14 amends legislation conferring rights of entry relating to the acquis
 
 ## Annotations
 
-[^key-b30aebe669ac146389ae9142428d4882]: Commencement: [S. 179](https://www.legislation.gov.uk/ukpga/2016/22/section/179) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/h) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/733/regulation/6))
+[^c-b30aebe669ac146389ae9142428d4882]: Commencement: [S. 179](https://www.legislation.gov.uk/ukpga/2016/22/section/179) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/h) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/733/regulation/6))

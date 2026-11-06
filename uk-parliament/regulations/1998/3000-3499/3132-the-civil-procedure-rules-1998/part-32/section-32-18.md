@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32.18. Notice to admit facts[^key-216b4928faf562a01e8f670d6b5c455e]
+## 32.18. Notice to admit facts[^c-216b4928faf562a01e8f670d6b5c455e]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-216b4928faf562a01e8f670d6b5c455e]: Commencement: [Rule 32.18](https://www.legislation.gov.uk/uksi/1998/3132/rule/32.18) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-216b4928faf562a01e8f670d6b5c455e]: Commencement: [Rule 32.18](https://www.legislation.gov.uk/uksi/1998/3132/rule/32.18) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)

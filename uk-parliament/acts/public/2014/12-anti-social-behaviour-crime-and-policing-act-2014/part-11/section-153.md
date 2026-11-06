@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 153. Use of amplified noise equipment in vicinity of the Palace of Westminster[^key-31abfaa65d2930c694a90b9148e8654d]
+## 153. Use of amplified noise equipment in vicinity of the Palace of Westminster[^c-31abfaa65d2930c694a90b9148e8654d]
 
 *Extent: E+W*
 
@@ -102,4 +102,4 @@ summary: ''
 
 ## Annotations
 
-[^key-31abfaa65d2930c694a90b9148e8654d]: Commencement: [S. 153](https://www.legislation.gov.uk/ukpga/2014/12/section/153) in force at 13.5.2014 by [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 16](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/16)
+[^c-31abfaa65d2930c694a90b9148e8654d]: Commencement: [S. 153](https://www.legislation.gov.uk/ukpga/2014/12/section/153) in force at 13.5.2014 by [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 16](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/16)

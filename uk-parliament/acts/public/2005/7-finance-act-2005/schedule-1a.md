@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1A — Meaning of “disabled person”[^key-dcac304aac40fa88fb34a44e0d2a07a6]
+## SCHEDULE 1A — Meaning of “disabled person”[^c-dcac304aac40fa88fb34a44e0d2a07a6]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,18 +28,18 @@ Section 38
 
 - (a) a person who by reason of mental disorder within the meaning of the Mental Health Act 1983 is incapable of administering his or her property or managing his or her affairs,
 - (b) a person in receipt of attendance allowance,
-- (ba)[^key-5724db941ca41af4f4e154b97e79142e] a person in receipt of disability assistance for older people,
-- (c)[^key-d4a2e7a885ba3d2909ae1b0de3568de4] a person in receipt of a disability living allowance by virtue of entitlement to—
+- (ba)[^c-5724db941ca41af4f4e154b97e79142e] a person in receipt of disability assistance for older people,
+- (c)[^c-d4a2e7a885ba3d2909ae1b0de3568de4] a person in receipt of a disability living allowance by virtue of entitlement to—
   - (i) the care component at the highest or middle rate, or
   - (ii) the mobility component at the higher rate,
-- (ca)[^key-7451397f6dddaac7f6577f5f13c70b32] a person in receipt of disability assistance for children and young people by virtue of entitlement to—
+- (ca)[^c-7451397f6dddaac7f6577f5f13c70b32] a person in receipt of disability assistance for children and young people by virtue of entitlement to—
   - (i) the care component at the highest or middle rate in accordance with regulations made under section 31 of the SS(S)A 2018, or
   - (ii) the mobility component at the higher rate in accordance with regulations made under section 31 of the SS(S)A 2018,
-- (cb)[^key-9bf8371cccf86eb3e771a5049175a32d] a person in receipt of Scottish adult disability living allowance by virtue of entitlement to—
+- (cb)[^c-9bf8371cccf86eb3e771a5049175a32d] a person in receipt of Scottish adult disability living allowance by virtue of entitlement to—
   - (i) the care component at the highest or middle rate in accordance with regulations made under section 31 of the SS(S)A 2018, or
   - (ii) the mobility component at the higher rate in accordance with regulations made under section 31 of the SS(S)A 2018,
-- (d) a person in receipt of personal independence payment [^key-7ba9dc0cc56bba607fcc842c135110c5]...,
-- (da)[^key-42075eabefb40b3b595768c9811bc08f] a person in receipt of disability assistance for working age people by virtue of entitlement to—
+- (d) a person in receipt of personal independence payment [^c-7ba9dc0cc56bba607fcc842c135110c5]...,
+- (da)[^c-42075eabefb40b3b595768c9811bc08f] a person in receipt of disability assistance for working age people by virtue of entitlement to—
   - (i) the daily living component at the standard or enhanced rate in accordance with regulations made under section 31 of the SS(S)A 2018, or
   - (ii) the mobility component in accordance with regulations made under section 31 of the SS(S)A 2018,
 - (e) a person in receipt of an increased disablement pension,
@@ -54,7 +54,7 @@ Section 38
 - (b) provision made by regulations under section 67(1) or (2) of SSCBA 1992 or section 67(1) or (2) of SSCB(NI)A 1992 (non-satisfaction of conditions for attendance allowance where person is undergoing treatment for renal failure in hospital or is provided with certain accommodation), or
 - (c) section 113(1) of SSCBA 1992 or section 113(1) of SSCB(NI)A 1992 or provision made by regulations under section 113(2) of SSCBA 1992 or section 113(2) of SSCB(NI)A 1992 (general provisions as to disqualification and suspension).
 
-### Disability assistance for older people[^key-9d88f3afe46d7de6f358607796278dd6]
+### Disability assistance for older people[^c-9d88f3afe46d7de6f358607796278dd6]
 
 **2A.** A person is to be treated as a disabled person under paragraph 1(ba) if they satisfy HMRC that they would be entitled to receive disability assistance for older people but for provision made by regulations under section 31 of the SS(S)A 2018 for—
 
@@ -67,13 +67,13 @@ Section 38
 
 ### Disability living allowance
 
-**3.** A person is to be treated as a disabled person under paragraph 1(c) if he or she satisfies HMRC that he or she would be entitled to receive a disability living allowance by virtue of entitlement to the care component at the highest or middle rate , or to the mobility component at the higher rate,[^key-8ad803d97b391fdcdb0e81f1b2410516] but for—
+**3.** A person is to be treated as a disabled person under paragraph 1(c) if he or she satisfies HMRC that he or she would be entitled to receive a disability living allowance by virtue of entitlement to the care component at the highest or middle rate , or to the mobility component at the higher rate,[^c-8ad803d97b391fdcdb0e81f1b2410516] but for—
 
 - (a) the conditions as to residence and presence prescribed under section 71(6) of SSCBA 1992 or section 71(6) of SSCB(NI)A 1992,
 - (b) provision made by regulations under section 72(8) of SSCBA 1992 or section 72(8) of SSCB(NI)A 1992 (no payment of disability allowance for persons for whom certain accommodation is provided), or
 - (c) section 113(1) of SSCBA 1992 or section 113(1) of SSCB(NI)A 1992 or provision made by regulations under section 113(2) of SSCBA 1992 or section 113(2) of SSCB(NI)A 1992 (general provisions as to disqualification and suspension).
 
-### Disability assistance for children and young people[^key-dd1c5898287fea8832837c2050ca54ec]
+### Disability assistance for children and young people[^c-dd1c5898287fea8832837c2050ca54ec]
 
 **3A.** A person (“A”) is to be treated as a disabled person under paragraph 1(ca) if A satisfies HMRC that A would be entitled to receive disability assistance for children and young people by virtue of entitlement to the care component at the highest or middle rate, or to the mobility component at the higher rate, but for provision made by regulations under section 31 of the SS(S)A 2018 for—
 
@@ -83,7 +83,7 @@ Section 38
   - (ii) resident in an educational establishment, or
   - (iii) undergoing detention in legal custody.
 
-### Scottish adult disability living allowance[^key-9be73bd6ee309a8cfa000724411937fd]
+### Scottish adult disability living allowance[^c-9be73bd6ee309a8cfa000724411937fd]
 
 **3B.** A person is to be treated as a disabled person under paragraph 1(cb) if they satisfy HMRC that they would be entitled to receive Scottish adult disability living allowance by virtue of entitlement to the care component at the highest or middle rate, or the mobility component at the higher rate, but for provision made by regulations under section 31 of the SS(S)A 2018 for—
 
@@ -96,14 +96,14 @@ Section 38
 
 ### Personal independence payment
 
-**4.** A person is to be treated as a disabled person under paragraph 1(d) if he or she satisfies HMRC that he or she would be entitled to receive personal independence payment [^key-a0a673b335591b36d82600ed66e77f38]... but for—
+**4.** A person is to be treated as a disabled person under paragraph 1(d) if he or she satisfies HMRC that he or she would be entitled to receive personal independence payment [^c-a0a673b335591b36d82600ed66e77f38]... but for—
 
 - (a) the conditions as to residence and presence prescribed under section 77(3) of WRA 2012 or the corresponding provision having effect in Northern Ireland,
 - (b) provision made by regulations under section 85 of WRA 2012 (exclusion of certain care home residents) or the corresponding provision having effect in Northern Ireland,
 - (c) provision made by regulations under section 86 of WRA 2012 (exclusion of certain hospital in-patients) or the corresponding provision having effect in Northern Ireland, or
 - (d) section 87 of WRA 2012 (exclusion of prisoners and detainees) or the corresponding provision having effect in Northern Ireland.
 
-### Disability assistance for working age people[^key-0a7647219e163b8bf08ee7ac0e043878]
+### Disability assistance for working age people[^c-0a7647219e163b8bf08ee7ac0e043878]
 
 **4A.** A person (“**A**”) is to be treated as a disabled person under paragraph 1(da) if A satisfies HMRC that A would be entitled to receive disability assistance for working age people but for provision made by regulations under section 31 of the SS(S)A 2018 for—
 
@@ -141,10 +141,10 @@ Section 38
 - “**constant attendance allowance**” means an allowance under—
   - (a) article 14 of the Personal Injuries (Civilians) Scheme 1983 (S.I. 1983/686), or
   - (b) article 8 of the Naval, Military and Air Forces etc. (Disablement and Death) Service Pensions Order 2006 (S.I. 2006/606),
-- “disability assistance” means disability assistance given in accordance with regulations made under section 31 of the SS(S)A 2018,[^key-2789ae9c33da8ea9a6b499925a6620ca]
+- “disability assistance” means disability assistance given in accordance with regulations made under section 31 of the SS(S)A 2018,[^c-2789ae9c33da8ea9a6b499925a6620ca]
 - “disability assistance for children and young people” means a category of disability assistance specifically for children and young people,
-- “[^key-d36a5454f6b0330bd82bbe382853d79d]**disability assistance for older people**” means a category of disability assistance specifically for older people,
-- “[^key-ab8de3c060bc0217dc8d69bb504ffdd3]**disability assistance for working age people**” means a category of disability assistance specifically for working age people,
+- “[^c-d36a5454f6b0330bd82bbe382853d79d]**disability assistance for older people**” means a category of disability assistance specifically for older people,
+- “[^c-ab8de3c060bc0217dc8d69bb504ffdd3]**disability assistance for working age people**” means a category of disability assistance specifically for working age people,
 - “**disability living allowance**” means a disability living allowance under section 71 of SSCBA 1992 or section 71 of SSCB(NI)A 1992,
 - “**HMRC**” means Her Majesty's Revenue and Customs,
 - “**increased disablement pension**” means an increase of disablement pension under—
@@ -153,46 +153,46 @@ Section 38
 - “**personal independence payment**” means personal independence payment under—
   - (a) WRA 2012, or
   - (b) the corresponding provision having effect in Northern Ireland,
-- “[^key-54b71703531a07db2eef725de43b5d8b]**Scottish adult disability living allowance**” means a category of disability assistance specifically for adults which takes the form of a living allowance,
+- “[^c-54b71703531a07db2eef725de43b5d8b]**Scottish adult disability living allowance**” means a category of disability assistance specifically for adults which takes the form of a living allowance,
 - “**SSCBA 1992**” means the Social Security Contributions and Benefits Act 1992,
 - “**SSCB(NI)A 1992**” means the Social Security Contributions and Benefits (Northern Ireland) Act 1992,
-- “SS(S)A 2018” means the Social Security (Scotland) Act 2018,[^key-b0462ff96674d95398958e406e01fd1e]
+- “SS(S)A 2018” means the Social Security (Scotland) Act 2018,[^c-b0462ff96674d95398958e406e01fd1e]
 - “**WRA 2012**” means the Welfare Reform Act 2012.
 
 ## Annotations
 
-[^key-dcac304aac40fa88fb34a44e0d2a07a6]: Textual amendment: Sch. 1A inserted (17.7.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 44 para. 19](https://www.legislation.gov.uk/ukpga/2013/29/schedule/44/paragraph/19)
+[^c-dcac304aac40fa88fb34a44e0d2a07a6]: Textual amendment: Sch. 1A inserted (17.7.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 44 para. 19](https://www.legislation.gov.uk/ukpga/2013/29/schedule/44/paragraph/19)
 
-[^key-5724db941ca41af4f4e154b97e79142e]: Textual amendment: Sch. 1A para. 1(ba) inserted (21.10.2024) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Modifications) Order 2024 (S.I. 2024/1048)](https://www.legislation.gov.uk/uksi/2024/1048), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1048/article/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2024/1048/article/8/2)
+[^c-5724db941ca41af4f4e154b97e79142e]: Textual amendment: Sch. 1A para. 1(ba) inserted (21.10.2024) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Modifications) Order 2024 (S.I. 2024/1048)](https://www.legislation.gov.uk/uksi/2024/1048), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1048/article/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2024/1048/article/8/2)
 
-[^key-d4a2e7a885ba3d2909ae1b0de3568de4]: Textual amendment: Sch. 1A para. 1(c) substituted (with effect in accordance with s. 291(5) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 291(2)(a)](https://www.legislation.gov.uk/ukpga/2014/26/section/291/2/a)
+[^c-d4a2e7a885ba3d2909ae1b0de3568de4]: Textual amendment: Sch. 1A para. 1(c) substituted (with effect in accordance with s. 291(5) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 291(2)(a)](https://www.legislation.gov.uk/ukpga/2014/26/section/291/2/a)
 
-[^key-7451397f6dddaac7f6577f5f13c70b32]: Textual amendment: Sch. 1A para. 1(ca) inserted (26.7.2021) by [The Social Security (Scotland) Act 2018 (Disability Assistance, Young Carer Grants, Short-term Assistance and Winter Heating Assistance) (Consequential Provision and Modifications) Order 2021 (S.I. 2021/886)](https://www.legislation.gov.uk/uksi/2021/886), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/886/article/1/2), [6(2)(a)](https://www.legislation.gov.uk/uksi/2021/886/article/6/2/a)
+[^c-7451397f6dddaac7f6577f5f13c70b32]: Textual amendment: Sch. 1A para. 1(ca) inserted (26.7.2021) by [The Social Security (Scotland) Act 2018 (Disability Assistance, Young Carer Grants, Short-term Assistance and Winter Heating Assistance) (Consequential Provision and Modifications) Order 2021 (S.I. 2021/886)](https://www.legislation.gov.uk/uksi/2021/886), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/886/article/1/2), [6(2)(a)](https://www.legislation.gov.uk/uksi/2021/886/article/6/2/a)
 
-[^key-9bf8371cccf86eb3e771a5049175a32d]: Textual amendment: Sch. 1A para. 1(cb) inserted (21.3.2025) by [The Social Security (Scotland) Act 2018 (Scottish Adult Disability Living Allowance) (Consequential Modifications) Order 2025 (S.I. 2025/224)](https://www.legislation.gov.uk/uksi/2025/224), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/224/article/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2025/224/article/9/2)
+[^c-9bf8371cccf86eb3e771a5049175a32d]: Textual amendment: Sch. 1A para. 1(cb) inserted (21.3.2025) by [The Social Security (Scotland) Act 2018 (Scottish Adult Disability Living Allowance) (Consequential Modifications) Order 2025 (S.I. 2025/224)](https://www.legislation.gov.uk/uksi/2025/224), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/224/article/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2025/224/article/9/2)
 
-[^key-7ba9dc0cc56bba607fcc842c135110c5]: Textual amendment: Words in Sch. 1A para. 1(d) omitted (with effect in accordance with s. 291(5) of the amending Act) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 291(2)(b)](https://www.legislation.gov.uk/ukpga/2014/26/section/291/2/b)
+[^c-7ba9dc0cc56bba607fcc842c135110c5]: Textual amendment: Words in Sch. 1A para. 1(d) omitted (with effect in accordance with s. 291(5) of the amending Act) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 291(2)(b)](https://www.legislation.gov.uk/ukpga/2014/26/section/291/2/b)
 
-[^key-42075eabefb40b3b595768c9811bc08f]: Textual amendment: Sch. 1A para. 1(da) inserted (21.3.2022) by [The Social Security (Scotland) Act 2018 (Disability Assistance and Information-Sharing) (Consequential Provision and Modifications) Order 2022 (S.I. 2022/332)](https://www.legislation.gov.uk/uksi/2022/332), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/332/article/1/2), [4(2)(a)](https://www.legislation.gov.uk/uksi/2022/332/article/4/2/a)
+[^c-42075eabefb40b3b595768c9811bc08f]: Textual amendment: Sch. 1A para. 1(da) inserted (21.3.2022) by [The Social Security (Scotland) Act 2018 (Disability Assistance and Information-Sharing) (Consequential Provision and Modifications) Order 2022 (S.I. 2022/332)](https://www.legislation.gov.uk/uksi/2022/332), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/332/article/1/2), [4(2)(a)](https://www.legislation.gov.uk/uksi/2022/332/article/4/2/a)
 
-[^key-9d88f3afe46d7de6f358607796278dd6]: Textual amendment: Sch. 1A para. 2A and cross-heading inserted (21.10.2024) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Modifications) Order 2024 (S.I. 2024/1048)](https://www.legislation.gov.uk/uksi/2024/1048), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1048/article/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2024/1048/article/8/3)
+[^c-9d88f3afe46d7de6f358607796278dd6]: Textual amendment: Sch. 1A para. 2A and cross-heading inserted (21.10.2024) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Modifications) Order 2024 (S.I. 2024/1048)](https://www.legislation.gov.uk/uksi/2024/1048), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1048/article/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2024/1048/article/8/3)
 
-[^key-8ad803d97b391fdcdb0e81f1b2410516]: Textual amendment: Words in Sch. 1A para. 3 inserted (with effect in accordance with s. 291(5) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 291(3)](https://www.legislation.gov.uk/ukpga/2014/26/section/291/3)
+[^c-8ad803d97b391fdcdb0e81f1b2410516]: Textual amendment: Words in Sch. 1A para. 3 inserted (with effect in accordance with s. 291(5) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 291(3)](https://www.legislation.gov.uk/ukpga/2014/26/section/291/3)
 
-[^key-dd1c5898287fea8832837c2050ca54ec]: Textual amendment: Sch. 1A para. 3A and cross-heading inserted (26.7.2021) by [The Social Security (Scotland) Act 2018 (Disability Assistance, Young Carer Grants, Short-term Assistance and Winter Heating Assistance) (Consequential Provision and Modifications) Order 2021 (S.I. 2021/886)](https://www.legislation.gov.uk/uksi/2021/886), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/886/article/1/2), [6(2)(b)](https://www.legislation.gov.uk/uksi/2021/886/article/6/2/b)
+[^c-dd1c5898287fea8832837c2050ca54ec]: Textual amendment: Sch. 1A para. 3A and cross-heading inserted (26.7.2021) by [The Social Security (Scotland) Act 2018 (Disability Assistance, Young Carer Grants, Short-term Assistance and Winter Heating Assistance) (Consequential Provision and Modifications) Order 2021 (S.I. 2021/886)](https://www.legislation.gov.uk/uksi/2021/886), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/886/article/1/2), [6(2)(b)](https://www.legislation.gov.uk/uksi/2021/886/article/6/2/b)
 
-[^key-9be73bd6ee309a8cfa000724411937fd]: Textual amendment: Sch. 1A para. 3B inserted (21.3.2025) by [The Social Security (Scotland) Act 2018 (Scottish Adult Disability Living Allowance) (Consequential Modifications) Order 2025 (S.I. 2025/224)](https://www.legislation.gov.uk/uksi/2025/224), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/224/article/1/2), [9(3)](https://www.legislation.gov.uk/uksi/2025/224/article/9/3)
+[^c-9be73bd6ee309a8cfa000724411937fd]: Textual amendment: Sch. 1A para. 3B inserted (21.3.2025) by [The Social Security (Scotland) Act 2018 (Scottish Adult Disability Living Allowance) (Consequential Modifications) Order 2025 (S.I. 2025/224)](https://www.legislation.gov.uk/uksi/2025/224), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/224/article/1/2), [9(3)](https://www.legislation.gov.uk/uksi/2025/224/article/9/3)
 
-[^key-a0a673b335591b36d82600ed66e77f38]: Textual amendment: Words in Sch. 1A para. 4 omitted (with effect in accordance with s. 291(5) of the amending Act) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 291(4)](https://www.legislation.gov.uk/ukpga/2014/26/section/291/4)
+[^c-a0a673b335591b36d82600ed66e77f38]: Textual amendment: Words in Sch. 1A para. 4 omitted (with effect in accordance with s. 291(5) of the amending Act) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 291(4)](https://www.legislation.gov.uk/ukpga/2014/26/section/291/4)
 
-[^key-0a7647219e163b8bf08ee7ac0e043878]: Textual amendment: Sch. 1A para. 4A and cross-heading inserted (21.3.2022) by [The Social Security (Scotland) Act 2018 (Disability Assistance and Information-Sharing) (Consequential Provision and Modifications) Order 2022 (S.I. 2022/332)](https://www.legislation.gov.uk/uksi/2022/332), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/332/article/1/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2022/332/article/4/2/b)
+[^c-0a7647219e163b8bf08ee7ac0e043878]: Textual amendment: Sch. 1A para. 4A and cross-heading inserted (21.3.2022) by [The Social Security (Scotland) Act 2018 (Disability Assistance and Information-Sharing) (Consequential Provision and Modifications) Order 2022 (S.I. 2022/332)](https://www.legislation.gov.uk/uksi/2022/332), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/332/article/1/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2022/332/article/4/2/b)
 
-[^key-2789ae9c33da8ea9a6b499925a6620ca]: Textual amendment: Words in Sch. 1A para. 8 inserted (26.7.2021) by [The Social Security (Scotland) Act 2018 (Disability Assistance, Young Carer Grants, Short-term Assistance and Winter Heating Assistance) (Consequential Provision and Modifications) Order 2021 (S.I. 2021/886)](https://www.legislation.gov.uk/uksi/2021/886), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/886/article/1/2), [6(2)(c)(i)](https://www.legislation.gov.uk/uksi/2021/886/article/6/2/c/i)
+[^c-2789ae9c33da8ea9a6b499925a6620ca]: Textual amendment: Words in Sch. 1A para. 8 inserted (26.7.2021) by [The Social Security (Scotland) Act 2018 (Disability Assistance, Young Carer Grants, Short-term Assistance and Winter Heating Assistance) (Consequential Provision and Modifications) Order 2021 (S.I. 2021/886)](https://www.legislation.gov.uk/uksi/2021/886), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/886/article/1/2), [6(2)(c)(i)](https://www.legislation.gov.uk/uksi/2021/886/article/6/2/c/i)
 
-[^key-d36a5454f6b0330bd82bbe382853d79d]: Textual amendment: Words in Sch. 1A para. 8 inserted (21.10.2024) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Modifications) Order 2024 (S.I. 2024/1048)](https://www.legislation.gov.uk/uksi/2024/1048), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1048/article/1/2), [8(4)](https://www.legislation.gov.uk/uksi/2024/1048/article/8/4)
+[^c-d36a5454f6b0330bd82bbe382853d79d]: Textual amendment: Words in Sch. 1A para. 8 inserted (21.10.2024) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Modifications) Order 2024 (S.I. 2024/1048)](https://www.legislation.gov.uk/uksi/2024/1048), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1048/article/1/2), [8(4)](https://www.legislation.gov.uk/uksi/2024/1048/article/8/4)
 
-[^key-ab8de3c060bc0217dc8d69bb504ffdd3]: Textual amendment: Words in Sch. 1A para. 8 inserted (21.3.2022) by [The Social Security (Scotland) Act 2018 (Disability Assistance and Information-Sharing) (Consequential Provision and Modifications) Order 2022 (S.I. 2022/332)](https://www.legislation.gov.uk/uksi/2022/332), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/332/article/1/2), [4(2)(c)](https://www.legislation.gov.uk/uksi/2022/332/article/4/2/c)
+[^c-ab8de3c060bc0217dc8d69bb504ffdd3]: Textual amendment: Words in Sch. 1A para. 8 inserted (21.3.2022) by [The Social Security (Scotland) Act 2018 (Disability Assistance and Information-Sharing) (Consequential Provision and Modifications) Order 2022 (S.I. 2022/332)](https://www.legislation.gov.uk/uksi/2022/332), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/332/article/1/2), [4(2)(c)](https://www.legislation.gov.uk/uksi/2022/332/article/4/2/c)
 
-[^key-54b71703531a07db2eef725de43b5d8b]: Textual amendment: Words in Sch. 1A para. 8 inserted (21.3.2025) by [The Social Security (Scotland) Act 2018 (Scottish Adult Disability Living Allowance) (Consequential Modifications) Order 2025 (S.I. 2025/224)](https://www.legislation.gov.uk/uksi/2025/224), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/224/article/1/2), [9(4)](https://www.legislation.gov.uk/uksi/2025/224/article/9/4)
+[^c-54b71703531a07db2eef725de43b5d8b]: Textual amendment: Words in Sch. 1A para. 8 inserted (21.3.2025) by [The Social Security (Scotland) Act 2018 (Scottish Adult Disability Living Allowance) (Consequential Modifications) Order 2025 (S.I. 2025/224)](https://www.legislation.gov.uk/uksi/2025/224), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/224/article/1/2), [9(4)](https://www.legislation.gov.uk/uksi/2025/224/article/9/4)
 
-[^key-b0462ff96674d95398958e406e01fd1e]: Textual amendment: Words in Sch. 1A para. 8 inserted (26.7.2021) by [The Social Security (Scotland) Act 2018 (Disability Assistance, Young Carer Grants, Short-term Assistance and Winter Heating Assistance) (Consequential Provision and Modifications) Order 2021 (S.I. 2021/886)](https://www.legislation.gov.uk/uksi/2021/886), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/886/article/1/2), [6(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2021/886/article/6/2/c/ii)
+[^c-b0462ff96674d95398958e406e01fd1e]: Textual amendment: Words in Sch. 1A para. 8 inserted (26.7.2021) by [The Social Security (Scotland) Act 2018 (Disability Assistance, Young Carer Grants, Short-term Assistance and Winter Heating Assistance) (Consequential Provision and Modifications) Order 2021 (S.I. 2021/886)](https://www.legislation.gov.uk/uksi/2021/886), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/886/article/1/2), [6(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2021/886/article/6/2/c/ii)

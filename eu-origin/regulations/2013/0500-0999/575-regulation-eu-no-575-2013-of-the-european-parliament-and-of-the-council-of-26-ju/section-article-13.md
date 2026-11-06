@@ -16,10 +16,10 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 13. Application of disclosure requirements on a consolidated basis[^key-74a69b7e9a33b84d391b33230072e2ad]
+## Article 13. Application of disclosure requirements on a consolidated basis[^c-74a69b7e9a33b84d391b33230072e2ad]
 
 *Extent: E+W+S+N.I.*
 
 ## Annotations
 
-[^key-74a69b7e9a33b84d391b33230072e2ad]: Textual amendment: Art. 13 omitted (1.1.2022) by [S.I. 2021/1078](https://www.legislation.gov.uk/uksi/2021/1078), [reg. 4(6)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/4/6) (as substituted by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/2), [32(2)(c)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/32/2/c))
+[^c-74a69b7e9a33b84d391b33230072e2ad]: Textual amendment: Art. 13 omitted (1.1.2022) by [S.I. 2021/1078](https://www.legislation.gov.uk/uksi/2021/1078), [reg. 4(6)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/4/6) (as substituted by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/2), [32(2)(c)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/32/2/c))

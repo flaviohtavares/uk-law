@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 73. Compulsory retirement of member who was required to continue to serve[^key-1a1c6b47f1885d36885dafeca78821b0]
+## 73. Compulsory retirement of member who was required to continue to serve[^c-1a1c6b47f1885d36885dafeca78821b0]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1a1c6b47f1885d36885dafeca78821b0]: Commencement: Reg. 73 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-1a1c6b47f1885d36885dafeca78821b0]: Commencement: Reg. 73 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

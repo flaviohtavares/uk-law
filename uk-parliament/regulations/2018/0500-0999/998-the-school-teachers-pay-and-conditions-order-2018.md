@@ -32,7 +32,7 @@ summary: ''
 
 Education, England And Wales
 
-The School Teachers' Pay and Conditions Order 2018 (revoked)[^key-2109d81d10ca002ef0b3600033ea4128]
+The School Teachers' Pay and Conditions Order 2018 (revoked)[^c-2109d81d10ca002ef0b3600033ea4128]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 5th October 2018
 
-[^key-2109d81d10ca002ef0b3600033ea4128]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2109d81d10ca002ef0b3600033ea4128]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, application and interpretation[^key-2109d81d10ca002ef0b3600033ea4128]
+## 1. Citation, commencement, application and interpretation[^c-2109d81d10ca002ef0b3600033ea4128]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. The Document[^key-2109d81d10ca002ef0b3600033ea4128]
+## 2. The Document[^c-2109d81d10ca002ef0b3600033ea4128]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-2109d81d10ca002ef0b3600033ea4128]
+## 3. Revocation[^c-2109d81d10ca002ef0b3600033ea4128]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2109d81d10ca002ef0b3600033ea4128]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2109d81d10ca002ef0b3600033ea4128]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-2109d81d10ca002ef0b3600033ea4128]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2109d81d10ca002ef0b3600033ea4128]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2109d81d10ca002ef0b3600033ea4128]: Textual amendment: Order revoked (11.10.2019 for E., 12.11.2019 for W.) by [The School Teachers Pay and Conditions (England) Order 2019 (S.I. 2019/1267)](https://www.legislation.gov.uk/uksi/2019/1267), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2019/1267/article/1/1), [3](https://www.legislation.gov.uk/uksi/2019/1267/article/3); [The School Teachers Pay and Conditions (Wales) Order 2019 (S.I. 2019/1363)](https://www.legislation.gov.uk/wsi/2019/1363), [art. 3](https://www.legislation.gov.uk/wsi/2019/1363/article/3)
+[^c-2109d81d10ca002ef0b3600033ea4128]: Textual amendment: Order revoked (11.10.2019 for E., 12.11.2019 for W.) by [The School Teachers Pay and Conditions (England) Order 2019 (S.I. 2019/1267)](https://www.legislation.gov.uk/uksi/2019/1267), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2019/1267/article/1/1), [3](https://www.legislation.gov.uk/uksi/2019/1267/article/3); [The School Teachers Pay and Conditions (Wales) Order 2019 (S.I. 2019/1363)](https://www.legislation.gov.uk/wsi/2019/1363), [art. 3](https://www.legislation.gov.uk/wsi/2019/1363/article/3)

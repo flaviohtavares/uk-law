@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Authority of commander of an aircraft[^key-3fefffe482b96c5b8c4736170499dcae]
+## 77. Authority of commander of an aircraft[^c-3fefffe482b96c5b8c4736170499dcae]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A person in an aircraft must obey all lawful commands that the commander of the 
 
 ## Annotations
 
-[^key-3fefffe482b96c5b8c4736170499dcae]: Commencement: [Art. 77](https://www.legislation.gov.uk/uksi/2015/870/article/77) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-3fefffe482b96c5b8c4736170499dcae]: Commencement: [Art. 77](https://www.legislation.gov.uk/uksi/2015/870/article/77) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 30. Temporary use of land for carrying out the authorised development[^key-1990f177c2c74d48637552af866d1189]
+## 30. Temporary use of land for carrying out the authorised development[^c-1990f177c2c74d48637552af866d1189]
 
 *Extent: E+W+S*
 
 (1) The undertaker may, in connection with the construction of the authorised development—
 
-- (a) enter on and take temporary possession of any land within the Order land in respect of which no notice of entry has been served under section 11 (powers of entry) of the 1965 Act and no declaration has been made under section 4 (execution of declaration) of the 1981 Act[^f00050][^key-6d058a0e59b965fcb5256090e942f8a4]...;
+- (a) enter on and take temporary possession of any land within the Order land in respect of which no notice of entry has been served under section 11 (powers of entry) of the 1965 Act and no declaration has been made under section 4 (execution of declaration) of the 1981 Act[^f00050][^c-6d058a0e59b965fcb5256090e942f8a4]...;
 - (b) remove any electric line, electrical plant, structures, apparatus, fences, debris, buildings and vegetation from that land;
 - (c) construct temporary works, haul roads, security fencing, bridges, structures and buildings comprised within the authorised development on that land;
 - (d) use the land for the purposes of a temporary working site with access to the working site in connection with the authorised development;
@@ -59,10 +59,10 @@ summary: ''
 
 ## Annotations
 
-[^key-1990f177c2c74d48637552af866d1189]: Commencement: Art. 30 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
+[^c-1990f177c2c74d48637552af866d1189]: Commencement: Art. 30 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
 
 [^f00050]: Footnote: [1981 c. 66](https://www.legislation.gov.uk/ukpga/1981/66). Section 4 was amended by section 184 and 185 of, and paragraphs 1 and 2 of Schedule 18 to, the Housing and Planning Act [2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22).
 
-[^key-6d058a0e59b965fcb5256090e942f8a4]: Textual amendment: [Art. 30(1)(a)](https://www.legislation.gov.uk/uksi/2025/1175/article/30/1/a): bracket omitted (6.2.2026) by virtue of [The Stonestreet Green Solar (Correction) Order 2026 (S.I. 2026/131)](https://www.legislation.gov.uk/uksi/2026/131), [art. 1](https://www.legislation.gov.uk/uksi/2026/131/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/131/schedule)
+[^c-6d058a0e59b965fcb5256090e942f8a4]: Textual amendment: [Art. 30(1)(a)](https://www.legislation.gov.uk/uksi/2025/1175/article/30/1/a): bracket omitted (6.2.2026) by virtue of [The Stonestreet Green Solar (Correction) Order 2026 (S.I. 2026/131)](https://www.legislation.gov.uk/uksi/2026/131), [art. 1](https://www.legislation.gov.uk/uksi/2026/131/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/131/schedule)
 
 [^f00051]: Footnote: [2008 c. 29](https://www.legislation.gov.uk/ukpga/2008/29). Section 152 was amended by [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).

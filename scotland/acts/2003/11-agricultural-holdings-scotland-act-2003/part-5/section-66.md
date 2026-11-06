@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 66. Assignation and subletting of tenancy[^key-29ecee625865efcf3d64b315213f7e3c]
+## 66. Assignation and subletting of tenancy[^c-29ecee625865efcf3d64b315213f7e3c]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ After section 10 (power of landlord to enter on holding) of the 1991 Act there i
 
 ## Annotations
 
-[^key-29ecee625865efcf3d64b315213f7e3c]: Commencement: S. 66 in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(e)](https://www.legislation.gov.uk/ssi/2003/548/article/2/e) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+[^c-29ecee625865efcf3d64b315213f7e3c]: Commencement: S. 66 in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(e)](https://www.legislation.gov.uk/ssi/2003/548/article/2/e) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))

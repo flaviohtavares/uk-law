@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Manner in which disclosure notice may be given[^key-05fb2dd611f306edc090e0598b5660c2][^key-2b61d5efa17e13fc985dd1056260f2d2]
+## 69. Manner in which disclosure notice may be given[^c-05fb2dd611f306edc090e0598b5660c2][^c-2b61d5efa17e13fc985dd1056260f2d2]
 
 *Extent: E+W*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-05fb2dd611f306edc090e0598b5660c2]: Commencement: S. 69 in force at 1.4.2006 except to the extent that it extends to S. by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 5(1)](https://www.legislation.gov.uk/uksi/2005/1521/article/5/1)
+[^c-05fb2dd611f306edc090e0598b5660c2]: Commencement: S. 69 in force at 1.4.2006 except to the extent that it extends to S. by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 5(1)](https://www.legislation.gov.uk/uksi/2005/1521/article/5/1)
 
-[^key-2b61d5efa17e13fc985dd1056260f2d2]: Modification: S. 69 extended (Northern Ireland) (1.12.2006) by [Northern Ireland (Miscellaneous Provisions) Act 2006 (c. 33)](https://www.legislation.gov.uk/ukpga/2006/33), [ss. 26(1)](https://www.legislation.gov.uk/ukpga/2006/33/section/26/1), [31(3)](https://www.legislation.gov.uk/ukpga/2006/33/section/31/3); [S.I. 2006/2966](https://www.legislation.gov.uk/uksi/2006/2966), [art. 3](https://www.legislation.gov.uk/uksi/2006/2966/article/3)
+[^c-2b61d5efa17e13fc985dd1056260f2d2]: Modification: S. 69 extended (Northern Ireland) (1.12.2006) by [Northern Ireland (Miscellaneous Provisions) Act 2006 (c. 33)](https://www.legislation.gov.uk/ukpga/2006/33), [ss. 26(1)](https://www.legislation.gov.uk/ukpga/2006/33/section/26/1), [31(3)](https://www.legislation.gov.uk/ukpga/2006/33/section/31/3); [S.I. 2006/2966](https://www.legislation.gov.uk/uksi/2006/2966), [art. 3](https://www.legislation.gov.uk/uksi/2006/2966/article/3)

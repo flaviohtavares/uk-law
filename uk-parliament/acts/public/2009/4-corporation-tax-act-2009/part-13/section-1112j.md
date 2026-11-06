@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1112J. Chapter 2 relief for Northern Ireland companies[^key-f33bb242ac1a2489ef7db54a8b57011d]
+## 1112J. Chapter 2 relief for Northern Ireland companies[^c-f33bb242ac1a2489ef7db54a8b57011d]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f33bb242ac1a2489ef7db54a8b57011d]: Textual amendment: [S. 1112J and cross-heading](https://www.legislation.gov.uk/ukpga/2009/4/part/13/chapter/8/crossheading/additional-limits) substituted (with effect in accordance with s. 29(9) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 29(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/29/3)[(9)](https://www.legislation.gov.uk/ukpga/2025/8/section/29/9)
+[^c-f33bb242ac1a2489ef7db54a8b57011d]: Textual amendment: [S. 1112J and cross-heading](https://www.legislation.gov.uk/ukpga/2009/4/part/13/chapter/8/crossheading/additional-limits) substituted (with effect in accordance with s. 29(9) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 29(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/29/3)[(9)](https://www.legislation.gov.uk/ukpga/2025/8/section/29/9)

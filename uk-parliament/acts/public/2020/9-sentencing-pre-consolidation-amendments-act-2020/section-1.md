@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Consolidation of sentencing legislation: amendment of law for old offences[^c24230941][^key-f6d882c76955fac510d537930e077de1]
+## 1. Consolidation of sentencing legislation: amendment of law for old offences[^c24230941][^c-f6d882c76955fac510d537930e077de1]
 
 *Extent: E+W*
 
@@ -32,7 +32,7 @@ summary: ''
 
 (2) Subsection (3) applies if a person is convicted of an offence on or after the consolidation date.
 
-(3)[^key-fb0506d6552db87ed72e1ed7cba95d1f] Where—
+(3)[^c-fb0506d6552db87ed72e1ed7cba95d1f] Where—
 
 - (a) the application to the offence of a repealed provision depends on the time at which a particular trigger event occurred in relation to a particular transition time, and
 - (b) the transition time fell after the trigger event occurred,
@@ -73,6 +73,6 @@ with which the offence is punishable.
 
 [^c24230941]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2020/9/section/1) in force for specified purposes at Royal Assent, see. [s. 5(1)-(3)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/1)
 
-[^key-f6d882c76955fac510d537930e077de1]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2020/9/section/1) in force at 1.12.2020 in so far as not already in force immediately before "the consolidation date" by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-f6d882c76955fac510d537930e077de1]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2020/9/section/1) in force at 1.12.2020 in so far as not already in force immediately before "the consolidation date" by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-fb0506d6552db87ed72e1ed7cba95d1f]: Modification: [S. 1(3)](https://www.legislation.gov.uk/ukpga/2020/9/section/1/3) excluded (coming into force in accordance with reg. 1 of the amending S.I.) by [The Sentencing (Pre-consolidation Amendments) Act 2020 (Exception) Regulations 2020 (S.I. 2020/1081)](https://www.legislation.gov.uk/uksi/2020/1081), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1081/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1081/regulation/2)
+[^c-fb0506d6552db87ed72e1ed7cba95d1f]: Modification: [S. 1(3)](https://www.legislation.gov.uk/ukpga/2020/9/section/1/3) excluded (coming into force in accordance with reg. 1 of the amending S.I.) by [The Sentencing (Pre-consolidation Amendments) Act 2020 (Exception) Regulations 2020 (S.I. 2020/1081)](https://www.legislation.gov.uk/uksi/2020/1081), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1081/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1081/regulation/2)

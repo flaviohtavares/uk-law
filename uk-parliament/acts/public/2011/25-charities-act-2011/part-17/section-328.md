@@ -30,8 +30,8 @@ summary: ''
 - (a) begins with the date on which the question is referred to the Tribunal, and
 - (b) ends with the date on which paragraphs (a) and (b) of section 327(2) are satisfied.
 
-(3)[^key-32d9256abef6ff9264158cd27d0a573f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-32d9256abef6ff9264158cd27d0a573f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-32d9256abef6ff9264158cd27d0a573f]: Textual amendment: S. 328(3) omitted (7.3.2024) by virtue of [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4), [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2022/6/schedule/2/paragraph/4); [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 3](https://www.legislation.gov.uk/uksi/2024/265/regulation/3), [Sch. 1 para. 13(d)](https://www.legislation.gov.uk/uksi/2024/265/schedule/1/paragraph/13/d)
+[^c-32d9256abef6ff9264158cd27d0a573f]: Textual amendment: S. 328(3) omitted (7.3.2024) by virtue of [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4), [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2022/6/schedule/2/paragraph/4); [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 3](https://www.legislation.gov.uk/uksi/2024/265/regulation/3), [Sch. 1 para. 13(d)](https://www.legislation.gov.uk/uksi/2024/265/schedule/1/paragraph/13/d)

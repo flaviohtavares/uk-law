@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 12A. Additional functions of the Authority in relation to electricity[^key-7102d0093058bebc2bfb3f4486c5ac4d]
+## 12A. Additional functions of the Authority in relation to electricity[^c-7102d0093058bebc2bfb3f4486c5ac4d]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ In relation to electricity and where required for the purpose of setting a relia
 
 ## Annotations
 
-[^key-7102d0093058bebc2bfb3f4486c5ac4d]: Textual amendment: [Art. 12A](https://www.legislation.gov.uk/nisi/2003/419/article/12A) inserted (25.2.2020) by [The Electricity and Gas (Internal Markets) Regulations 2020 (S.I. 2020/96)](https://www.legislation.gov.uk/uksi/2020/96), [regs. 1](https://www.legislation.gov.uk/uksi/2020/96/regulation/1), [7(6)](https://www.legislation.gov.uk/uksi/2020/96/regulation/7/6)
+[^c-7102d0093058bebc2bfb3f4486c5ac4d]: Textual amendment: [Art. 12A](https://www.legislation.gov.uk/nisi/2003/419/article/12A) inserted (25.2.2020) by [The Electricity and Gas (Internal Markets) Regulations 2020 (S.I. 2020/96)](https://www.legislation.gov.uk/uksi/2020/96), [regs. 1](https://www.legislation.gov.uk/uksi/2020/96/regulation/1), [7(6)](https://www.legislation.gov.uk/uksi/2020/96/regulation/7/6)

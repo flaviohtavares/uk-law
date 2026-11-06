@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 128 (affected by repeal, see note). Cooperation with audit authorities (affected by repeal, see note)[^key-b676935048cfd925335e1c66c82fd0d4][^key-b676935048cfd925335e1c66c82fd0d4]
+## Article 128 (affected by repeal, see note). Cooperation with audit authorities (affected by repeal, see note)[^c-b676935048cfd925335e1c66c82fd0d4][^c-b676935048cfd925335e1c66c82fd0d4]
 
 *Extent: E+W+S+N.I.*
 
-1. The Commission shall cooperate with audit authorities to coordinate their audit plans and methods and shall immediately exchange with those authorities the results of audits carried out on management and control systems. *(affected by repeal, see note)*[^key-b676935048cfd925335e1c66c82fd0d4]
+1. The Commission shall cooperate with audit authorities to coordinate their audit plans and methods and shall immediately exchange with those authorities the results of audits carried out on management and control systems. *(affected by repeal, see note)*[^c-b676935048cfd925335e1c66c82fd0d4]
 
-2. To facilitate this cooperation in cases where a Member State designates more than one audit authority, the Member State may designate a coordination body. *(affected by repeal, see note)*[^key-b676935048cfd925335e1c66c82fd0d4]
+2. To facilitate this cooperation in cases where a Member State designates more than one audit authority, the Member State may designate a coordination body. *(affected by repeal, see note)*[^c-b676935048cfd925335e1c66c82fd0d4]
 
-3. The Commission, the audit authorities and any coordination body shall meet on a regular basis and, as a general rule, at least once a year, unless otherwise agreed, to examine the annual control report, the audit opinion and the audit strategy, and to exchange views on issues relating to improvement of the management and control systems. *(affected by repeal, see note)*[^key-b676935048cfd925335e1c66c82fd0d4]
+3. The Commission, the audit authorities and any coordination body shall meet on a regular basis and, as a general rule, at least once a year, unless otherwise agreed, to examine the annual control report, the audit opinion and the audit strategy, and to exchange views on issues relating to improvement of the management and control systems. *(affected by repeal, see note)*[^c-b676935048cfd925335e1c66c82fd0d4]
 
 ## Annotations
 
-[^key-b676935048cfd925335e1c66c82fd0d4]: Textual amendment: Regulation revoked in so far as relating to the European Maritime and Fisheries Fund (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2020/1542/schedule/part/2)
+[^c-b676935048cfd925335e1c66c82fd0d4]: Textual amendment: Regulation revoked in so far as relating to the European Maritime and Fisheries Fund (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2020/1542/schedule/part/2)

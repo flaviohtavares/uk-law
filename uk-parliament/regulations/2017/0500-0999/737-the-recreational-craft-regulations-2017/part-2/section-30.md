@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Storage and transport[^key-22980c8591bd75878ba355697ede4e73]
+## 30. Storage and transport[^c-22980c8591bd75878ba355697ede4e73]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A distributor must ensure that, while a product is the distributor’s responsib
 
 ## Annotations
 
-[^key-22980c8591bd75878ba355697ede4e73]: Commencement: Reg. 30 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)
+[^c-22980c8591bd75878ba355697ede4e73]: Commencement: Reg. 30 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)

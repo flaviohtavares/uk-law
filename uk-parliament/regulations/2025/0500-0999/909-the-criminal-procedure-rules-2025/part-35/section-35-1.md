@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35.1. When this Part applies[^key-7a4163cbff8e38b3953d80502cc89953]
+## 35.1. When this Part applies[^c-7a4163cbff8e38b3953d80502cc89953]
 
 *Extent: E+W*
 
@@ -33,7 +33,7 @@ This Part applies where a person wants to appeal to the High Court by case state
 
 ## Annotations
 
-[^key-7a4163cbff8e38b3953d80502cc89953]: Commencement: [Rule 35.1](https://www.legislation.gov.uk/uksi/2025/909/rule/35.1) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-7a4163cbff8e38b3953d80502cc89953]: Commencement: [Rule 35.1](https://www.legislation.gov.uk/uksi/2025/909/rule/35.1) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00897]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
 

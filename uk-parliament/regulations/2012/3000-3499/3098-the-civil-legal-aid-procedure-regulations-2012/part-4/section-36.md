@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Determinations: contributions[^key-754ffcf7a2c9d2a02e1d4e8b8cfc49c4]
+## 36. Determinations: contributions[^c-754ffcf7a2c9d2a02e1d4e8b8cfc49c4]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-754ffcf7a2c9d2a02e1d4e8b8cfc49c4]: Textual amendment: Reg. 36 omitted (27.6.2025) by virtue of [The Criminal and Civil Legal Aid (Amendment) Regulations 2025 (S.I. 2025/750)](https://www.legislation.gov.uk/uksi/2025/750), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/750/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2025/750/regulation/2/2) (with [reg. 6](https://www.legislation.gov.uk/uksi/2025/750/regulation/6))
+[^c-754ffcf7a2c9d2a02e1d4e8b8cfc49c4]: Textual amendment: Reg. 36 omitted (27.6.2025) by virtue of [The Criminal and Civil Legal Aid (Amendment) Regulations 2025 (S.I. 2025/750)](https://www.legislation.gov.uk/uksi/2025/750), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/750/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2025/750/regulation/2/2) (with [reg. 6](https://www.legislation.gov.uk/uksi/2025/750/regulation/6))

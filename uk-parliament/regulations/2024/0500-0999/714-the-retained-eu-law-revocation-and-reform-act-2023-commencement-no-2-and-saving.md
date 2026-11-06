@@ -31,38 +31,38 @@ summary: ''
 
 RETAINED EU LAW REFORM
 
-The Retained EU Law (Revocation and Reform) Act 2023 (Commencement No. 2 and Saving Provisions) Regulations 2024 (revoked)[^key-81f92d7c2a7ec84e9c674ef53ff6060a]
+The Retained EU Law (Revocation and Reform) Act 2023 (Commencement No. 2 and Saving Provisions) Regulations 2024 (revoked)[^c-81f92d7c2a7ec84e9c674ef53ff6060a]
 
 Made
 
 24th May 2024
 
-[^key-81f92d7c2a7ec84e9c674ef53ff6060a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-81f92d7c2a7ec84e9c674ef53ff6060a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and interpretation[^key-81f92d7c2a7ec84e9c674ef53ff6060a]
+## 1. Citation and interpretation[^c-81f92d7c2a7ec84e9c674ef53ff6060a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Provision coming into force on 1st October 2024[^key-81f92d7c2a7ec84e9c674ef53ff6060a]
+## 2. Provision coming into force on 1st October 2024[^c-81f92d7c2a7ec84e9c674ef53ff6060a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Saving provisions[^key-81f92d7c2a7ec84e9c674ef53ff6060a]
+## 3. Saving provisions[^c-81f92d7c2a7ec84e9c674ef53ff6060a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-81f92d7c2a7ec84e9c674ef53ff6060a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-81f92d7c2a7ec84e9c674ef53ff6060a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-81f92d7c2a7ec84e9c674ef53ff6060a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-81f92d7c2a7ec84e9c674ef53ff6060a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-81f92d7c2a7ec84e9c674ef53ff6060a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-81f92d7c2a7ec84e9c674ef53ff6060a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-81f92d7c2a7ec84e9c674ef53ff6060a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2024/714) revoked (18.9.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Commencement No. 2 and Saving Provisions) (Revocation) Regulations 2024 (S.I. 2024/976)](https://www.legislation.gov.uk/uksi/2024/976), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/976/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2024/976/regulation/2)
+[^c-81f92d7c2a7ec84e9c674ef53ff6060a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2024/714) revoked (18.9.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Commencement No. 2 and Saving Provisions) (Revocation) Regulations 2024 (S.I. 2024/976)](https://www.legislation.gov.uk/uksi/2024/976), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/976/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2024/976/regulation/2)

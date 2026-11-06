@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Register of members: removal of option to use central register[^key-d6f29755ed5de91f4a9751a3ef6a9592][^key-efdbe35db87984a2d300f410284d3f1b]
+## 49. Register of members: removal of option to use central register[^c-d6f29755ed5de91f4a9751a3ef6a9592][^c-efdbe35db87984a2d300f410284d3f1b]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d6f29755ed5de91f4a9751a3ef6a9592]: Commencement: S. 49 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-d6f29755ed5de91f4a9751a3ef6a9592]: Commencement: S. 49 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-efdbe35db87984a2d300f410284d3f1b]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2023/56/section/49) in force at 26.1.2026 in so far as not already in force by [S.I. 2026/57](https://www.legislation.gov.uk/uksi/2026/57), [reg. 2](https://www.legislation.gov.uk/uksi/2026/57/regulation/2)
+[^c-efdbe35db87984a2d300f410284d3f1b]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2023/56/section/49) in force at 26.1.2026 in so far as not already in force by [S.I. 2026/57](https://www.legislation.gov.uk/uksi/2026/57), [reg. 2](https://www.legislation.gov.uk/uksi/2026/57/regulation/2)

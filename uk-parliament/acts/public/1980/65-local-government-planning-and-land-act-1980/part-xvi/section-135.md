@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 135. Urban development corporations.[^key-28beb83e468556154b11b9a2a9008665]
+## 135. Urban development corporations.[^c-28beb83e468556154b11b9a2a9008665]
 
 *Extent: E+W+S+N.I.*
 
 (1) For the purposes of regenerating an urban development area, the Secretary of State shall by order made by statutory instrument establish a corporation (an urban development corporation) for the area.
 
-(1A)[^key-acfcd149a6de8935d47e9c859f040593] Before making an order under this section in relation to an urban development area in England, the Secretary of State must consult the following persons—
+(1A)[^c-acfcd149a6de8935d47e9c859f040593] Before making an order under this section in relation to an urban development area in England, the Secretary of State must consult the following persons—
 
 - (a) persons who appear to the Secretary of State to represent those living within, or in the vicinity of, the urban development area;
 - (b) persons who appear to the Secretary of State to represent businesses with any premises within, or in the vicinity of, the urban development area;
@@ -31,7 +31,7 @@ summary: ''
 
 (2) An order under this section may be made at the same time as an order under section 134(1)[^c13878401] above.
 
-(3)[^key-5f300a5d30fb32556377e324b9f316ec] A statutory instrument containing an order made by the Secretary of State under this section does not have effect until approved by a resolution of each House of Parliament.
+(3)[^c-5f300a5d30fb32556377e324b9f316ec] A statutory instrument containing an order made by the Secretary of State under this section does not have effect until approved by a resolution of each House of Parliament.
 
 (3A) If a draft of an instrument containing an order by the Secretary of State under this section would, but for this subsection, be treated for the purposes of the standing orders of either House of Parliament as a hybrid instrument, it is to proceed in that House as if it were not a hybrid instrument.
 
@@ -47,10 +47,10 @@ summary: ''
 
 ## Annotations
 
-[^key-28beb83e468556154b11b9a2a9008665]: Modification: S. 135 modified (26.3.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 47](https://www.legislation.gov.uk/ukpga/2015/20/section/47), [115(1)(c)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/1/c)
+[^c-28beb83e468556154b11b9a2a9008665]: Modification: S. 135 modified (26.3.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 47](https://www.legislation.gov.uk/ukpga/2015/20/section/47), [115(1)(c)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/1/c)
 
-[^key-acfcd149a6de8935d47e9c859f040593]: Textual amendment: S. 135(1A) inserted (12.5.2016) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [ss. 167(2)](https://www.legislation.gov.uk/ukpga/2016/22/section/167/2), [216(1)(e)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/1/e)
+[^c-acfcd149a6de8935d47e9c859f040593]: Textual amendment: S. 135(1A) inserted (12.5.2016) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [ss. 167(2)](https://www.legislation.gov.uk/ukpga/2016/22/section/167/2), [216(1)(e)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/1/e)
 
 [^c13878401]: Textual amendment: Words in s. 135(2) substituted (11.10.1993) by [1993 c. 28](https://www.legislation.gov.uk/ukpga/1993/28), [s. 179(4)](https://www.legislation.gov.uk/ukpga/1993/28/section/179/4); [S.I. 1993/2134](https://www.legislation.gov.uk/uksi/1993/2134), [art.4](https://www.legislation.gov.uk/uksi/1993/2134/article/4)
 
-[^key-5f300a5d30fb32556377e324b9f316ec]: Textual amendment: S. 135(3)-(3C) substituted for [s. 135(3)](https://www.legislation.gov.uk/ukpga/1980/65/section/135/3) (12.5.2016) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [ss. 167(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/167/3), [216(1)(e)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/1/e)
+[^c-5f300a5d30fb32556377e324b9f316ec]: Textual amendment: S. 135(3)-(3C) substituted for [s. 135(3)](https://www.legislation.gov.uk/ukpga/1980/65/section/135/3) (12.5.2016) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [ss. 167(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/167/3), [216(1)(e)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/1/e)

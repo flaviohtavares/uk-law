@@ -30,7 +30,7 @@ summary: ''
 
 ANIMALS
 
-The Destructive Imported Animals Act 1932 (Amendment) Regulations 1992 (revoked)[^key-d8f9f0ed883b951f3311df2c1c230d06]
+The Destructive Imported Animals Act 1932 (Amendment) Regulations 1992 (revoked)[^c-d8f9f0ed883b951f3311df2c1c230d06]
 
 Made
 
@@ -44,22 +44,22 @@ Coming into force
 
 20th January 1993
 
-[^key-d8f9f0ed883b951f3311df2c1c230d06]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d8f9f0ed883b951f3311df2c1c230d06]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-d8f9f0ed883b951f3311df2c1c230d06]
+## 1. Title and commencement[^c-d8f9f0ed883b951f3311df2c1c230d06]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Destructive Imported Animals Act 1932[^key-d8f9f0ed883b951f3311df2c1c230d06]
+## 2. Amendment of the Destructive Imported Animals Act 1932[^c-d8f9f0ed883b951f3311df2c1c230d06]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d8f9f0ed883b951f3311df2c1c230d06]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d8f9f0ed883b951f3311df2c1c230d06]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d8f9f0ed883b951f3311df2c1c230d06]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d8f9f0ed883b951f3311df2c1c230d06]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d8f9f0ed883b951f3311df2c1c230d06]: Textual amendment: Regulations revoked (31.12.2020) by The Invasive Non-native [Species (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/223)](https://www.legislation.gov.uk/uksi/2019/223), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2019/223/regulation/1/1/b), [12(a)](https://www.legislation.gov.uk/uksi/2019/223/regulation/12/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d8f9f0ed883b951f3311df2c1c230d06]: Textual amendment: Regulations revoked (31.12.2020) by The Invasive Non-native [Species (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/223)](https://www.legislation.gov.uk/uksi/2019/223), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2019/223/regulation/1/1/b), [12(a)](https://www.legislation.gov.uk/uksi/2019/223/regulation/12/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

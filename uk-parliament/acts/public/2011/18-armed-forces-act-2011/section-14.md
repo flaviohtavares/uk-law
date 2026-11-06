@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Court Martial sentencing powers[^key-d34312593ca909f44168882c7440de1d]
+## 14. Court Martial sentencing powers[^c-d34312593ca909f44168882c7440de1d]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d34312593ca909f44168882c7440de1d]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2011/18/section/14) in force at 2.4.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(b)](https://www.legislation.gov.uk/uksi/2012/669/article/4/b)
+[^c-d34312593ca909f44168882c7440de1d]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2011/18/section/14) in force at 2.4.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(b)](https://www.legislation.gov.uk/uksi/2012/669/article/4/b)

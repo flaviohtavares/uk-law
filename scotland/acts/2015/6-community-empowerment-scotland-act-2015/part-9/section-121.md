@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 121. Annual allotments report[^key-698f337b92b2c3e2f5c1746c34d46e99]
+## 121. Annual allotments report[^c-698f337b92b2c3e2f5c1746c34d46e99]
 
 *Extent: S*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-698f337b92b2c3e2f5c1746c34d46e99]: Commencement: [S. 121](https://www.legislation.gov.uk/asp/2015/6/section/121) in force at 1.4.2018 by [S.S.I. 2017/458](https://www.legislation.gov.uk/ssi/2017/458), [art. 2](https://www.legislation.gov.uk/ssi/2017/458/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/458/schedule) (with [art. 18](https://www.legislation.gov.uk/ssi/2017/458/article/18))
+[^c-698f337b92b2c3e2f5c1746c34d46e99]: Commencement: [S. 121](https://www.legislation.gov.uk/asp/2015/6/section/121) in force at 1.4.2018 by [S.S.I. 2017/458](https://www.legislation.gov.uk/ssi/2017/458), [art. 2](https://www.legislation.gov.uk/ssi/2017/458/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/458/schedule) (with [art. 18](https://www.legislation.gov.uk/ssi/2017/458/article/18))

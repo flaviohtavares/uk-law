@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Contributory negligence.[^key-680ee16b48d757f39c3bd8682fba4551][^key-8ee85266dd5afd54a0b4317ad45f990d]
+## 6. Contributory negligence.[^c-680ee16b48d757f39c3bd8682fba4551][^c-8ee85266dd5afd54a0b4317ad45f990d]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,9 +30,9 @@ summary: ''
 
 ## Annotations
 
-[^key-680ee16b48d757f39c3bd8682fba4551]: Modification: [S. 6](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/27/section/6) applied (with modifications) (6.8.2004) by [The Carriage by Air Acts (Application of Provisions) Order 2004 (S.I. 2004/1899)](https://www.legislation.gov.uk/uksi/2004/1899), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/1899/article/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2004/1899/article/7/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/1899/schedule/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2004/1899/schedule/3) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2004/1899/article/1/3), [3](https://www.legislation.gov.uk/uksi/2004/1899/article/3))
+[^c-680ee16b48d757f39c3bd8682fba4551]: Modification: [S. 6](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/27/section/6) applied (with modifications) (6.8.2004) by [The Carriage by Air Acts (Application of Provisions) Order 2004 (S.I. 2004/1899)](https://www.legislation.gov.uk/uksi/2004/1899), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/1899/article/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2004/1899/article/7/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/1899/schedule/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2004/1899/schedule/3) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2004/1899/article/1/3), [3](https://www.legislation.gov.uk/uksi/2004/1899/article/3))
 
-[^key-8ee85266dd5afd54a0b4317ad45f990d]: Modification: [S. 6](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/27/section/6) applied (with modifications) (6.8.2004) by [The Carriage by Air Acts (Application of Provisions) Order 2004 (S.I. 2004/1899)](https://www.legislation.gov.uk/uksi/2004/1899), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/1899/article/1/2), [7(1)](https://www.legislation.gov.uk/uksi/2004/1899/article/7/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/1899/schedule/1) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2004/1899/article/1/3), [3](https://www.legislation.gov.uk/uksi/2004/1899/article/3))
+[^c-8ee85266dd5afd54a0b4317ad45f990d]: Modification: [S. 6](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/27/section/6) applied (with modifications) (6.8.2004) by [The Carriage by Air Acts (Application of Provisions) Order 2004 (S.I. 2004/1899)](https://www.legislation.gov.uk/uksi/2004/1899), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/1899/article/1/2), [7(1)](https://www.legislation.gov.uk/uksi/2004/1899/article/7/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/1899/schedule/1) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2004/1899/article/1/3), [3](https://www.legislation.gov.uk/uksi/2004/1899/article/3))
 
 [^c12407221]: Textual amendment: [S. 6](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/27/section/6): the existing provision becomes subsection (1) (coming into force in accordance with art. 1(2)) by [S.I. 2002/263](https://www.legislation.gov.uk/uksi/2002/263), [art. 2(18)(a)](https://www.legislation.gov.uk/uksi/2002/263/article/2/18/a) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2002/263/article/1/3))
 

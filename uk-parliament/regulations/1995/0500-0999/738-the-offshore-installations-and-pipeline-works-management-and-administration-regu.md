@@ -52,60 +52,60 @@ regulation 23(2)
 
 The Secretary of State, in exercise of the powers conferred on him by sections 15(1), (2), (3)(a) and (5)(b), and 82(3)(a) of, and paragraphs 6, 14, 15(1) and 16 of Schedule 3 to, the Health and Safety at Work etc. Act 1974[^f00001] and of all other powers enabling him in that behalf and for the purpose of giving effect without modifications to proposals submitted to him by the Health and Safety Commission under section 11(2)(d) of the 1974 Act after the carrying out by the said Commission of consultations in accordance with section 50(3) of that Act, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-1bd0fc8105bc532ebe6f67958dc0a811]
+## 1. Citation and commencement[^c-1bd0fc8105bc532ebe6f67958dc0a811]
 
 These Regulations may be cited as the Offshore Installations and Pipeline Works (Management and Administration) Regulations 1995 and shall come into force on 20th June 1995, except regulation 23(2), which shall come into force on 20th June 1997.
 
-## 2. Interpretation[^key-0c2d24b5c3b9777fa45245e4c6e147c1]
+## 2. Interpretation[^c-0c2d24b5c3b9777fa45245e4c6e147c1]
 
 (1) In these Regulations, unless the context otherwise requires—
 
 - “the 1969 Act” means the Employers' Liability (Compulsory Insurance) Act 1969[^f00002];
 - “the 1971 Act” means the Mineral Workings (Offshore Installations) Act 1971[^f00003];
-- [^key-7da71733aa5d5cd606560aed6d0035e7]...
-- “[^key-381bf285326fb6d8924beb3d626fc9db]**the 2005 Regulations**” means the Offshore Installations (Safety Case) Regulations 2005;
+- [^c-7da71733aa5d5cd606560aed6d0035e7]...
+- “[^c-381bf285326fb6d8924beb3d626fc9db]**the 2005 Regulations**” means the Offshore Installations (Safety Case) Regulations 2005;
 - “**the 2013 Order**” means the Health and Safety at Work etc. Act 1974 (Application outside Great Britain) Order 2013;
 - “**the 2015 Regulations**” means the Offshore Installations (Offshore Safety Directive) (Safety case etc.) Regulations 2015;
 - “apparatus or works” means—
   - (a) apparatus or works described in paragraphs (a) to (f); and
   - (b) a structure described in paragraph (g),
 
-  of the definition of “pipeline” in article 6(2) of the 2013[^key-cb2bcb1702beed6e359c1bb1a2acc9c9] Order;
+  of the definition of “pipeline” in article 6(2) of the 2013[^c-cb2bcb1702beed6e359c1bb1a2acc9c9] Order;
 - “associated structure” means, in relation to an offshore installation, a vessel, aircraft or hovercraft attendant on the installation or any floating structure used in connection with the installation;
-- “[^key-ec0eebac37cd60274b16dbce04be6fb7]**carbon capture, utilisation and storage**” means the capture, utilisation and storage of carbon dioxide, including its injection into geological formations beneath the seabed or onshore;
-- [^key-d7a0bf008f588a0c45ca8fb1b2daf4f8]...
-- “[^key-edbc459124b7fae5a3ca719e91a0b866]**duty holder**” means—
+- “[^c-ec0eebac37cd60274b16dbce04be6fb7]**carbon capture, utilisation and storage**” means the capture, utilisation and storage of carbon dioxide, including its injection into geological formations beneath the seabed or onshore;
+- [^c-d7a0bf008f588a0c45ca8fb1b2daf4f8]...
+- “[^c-edbc459124b7fae5a3ca719e91a0b866]**duty holder**” means—
   - (a) in relation to a production installation, the operator; and
   - (b) in relation to a non-production installation, the owner;
-- “[^key-72d9a9c3c3a1502ef4b00df9c4eb949e]**external waters**” means the territorial sea adjacent to Great Britain and any area designated by order under section 1(7) of the Continental Shelf Act 1964;
-- [^key-32bc9673b1cfae21e15afb4581848718]...
+- “[^c-72d9a9c3c3a1502ef4b00df9c4eb949e]**external waters**” means the territorial sea adjacent to Great Britain and any area designated by order under section 1(7) of the Continental Shelf Act 1964;
+- [^c-32bc9673b1cfae21e15afb4581848718]...
 - “installation manager” means, in relation to an offshore installation, the person appointed for the purposes of regulation 6(1)(a) who is for the time being in charge of it;
-- “[^key-6814f63e341a76bbfbd717afb6cc0200]**internal waters**” means tidal waters and parts of the sea in, or adjacent to, Great Britain up to the landward limits of the territorial sea;
-- “licensee”—[^key-0da5ebf45c7ed239cdb38719f466fa3b]
+- “[^c-6814f63e341a76bbfbd717afb6cc0200]**internal waters**” means tidal waters and parts of the sea in, or adjacent to, Great Britain up to the landward limits of the territorial sea;
+- “licensee”—[^c-0da5ebf45c7ed239cdb38719f466fa3b]
   - (a) in relation to carbon capture, utilisation and storage, means a person who holds a “**licence**” as defined in—
     - (i) regulation 1(3) of the Storage of Carbon Dioxide (Licensing etc.) Regulations 2010[^f00003]; or
     - (ii) regulation 1(3) of the Storage of Carbon Dioxide (Licensing etc.) (Scotland) Regulations 2011;
   - (b) in relation to offshore hydrogen production, means the person in control of the offshore installation;
   - (c) in relation to internal waters, with the exception of carbon capture, utilisation and storage and offshore hydrogen production, means any person to whom a licence to search and bore for and get petroleum in respect of any area within internal waters is granted pursuant to section 2 of the Petroleum (Production) Act 1934 or section 3 of the Petroleum Act 1998; and
   - (d) in relation to external waters, with the exception of carbon capture, utilisation and storage and offshore hydrogen production, means an “**offshore licensee**” as defined in regulation 2(1) of the Offshore Petroleum Licensing (Offshore Safety Directive) Regulations 2015;
-- [^key-1a30cc8453ed3c74bab0d8bfcaab8050]...
-- “non-production installation” means an installation other than a production installation;[^key-9e034db2611b500476bc6ce3a0e3cf0f]
-- “[^key-0205f0be40387c789d83d074e1cfd691]**offshore hydrogen production**” means the production of hydrogen including any processes involved in its production;
+- [^c-1a30cc8453ed3c74bab0d8bfcaab8050]...
+- “non-production installation” means an installation other than a production installation;[^c-9e034db2611b500476bc6ce3a0e3cf0f]
+- “[^c-0205f0be40387c789d83d074e1cfd691]**offshore hydrogen production**” means the production of hydrogen including any processes involved in its production;
 - “offshore installation” shall be construed in accordance with regulation 3;
-- “operator”—[^key-11e11ac396a469eee24ae4ca29512123]
+- “operator”—[^c-11e11ac396a469eee24ae4ca29512123]
   - (a) in relation to carbon capture, utilisation and storage, has the meaning given in regulation 2(1) of the 2015 Regulations;
   - (b) in relation to offshore hydrogen production, has the meaning given in regulation 2(1) of the 2015 Regulations;
   - (c) in relation to anything in internal waters other than carbon capture, utilisation and storage and offshore hydrogen production—
     - (i) in relation to the dismantling of a fixed installation (within the meaning given in the 2005 Regulations), has the meaning given in regulation 11(4) of the 2005 Regulations; and
     - (ii) otherwise, has the meaning given in regulation 2(1) of the 2005 Regulations in relation to a production installation; and
   - (d) in relation to anything in external waters other than carbon capture, utilisation and storage and offshore hydrogen production, has the meaning given in regulation 2(1) of the 2015 Regulations;
-- “owner” means the person who controls[^key-1b21f759b1d0667246b02bbf6987f994] or is entitled to control[^key-6ce3bcc41e415fcab8d2a73d58a384e2] the operation of a non-production installation;
-- “petroleum”—[^key-9ff6da76a4feaa3c9599456d2dbf0271]
+- “owner” means the person who controls[^c-1b21f759b1d0667246b02bbf6987f994] or is entitled to control[^c-6ce3bcc41e415fcab8d2a73d58a384e2] the operation of a non-production installation;
+- “petroleum”—[^c-9ff6da76a4feaa3c9599456d2dbf0271]
   - (a) includes any mineral oil or relative hydrocarbon and natural gas, whether or not existing in its natural condition in strata; and
   - (b) does not include coal or bituminous shales or other stratified deposits from which oil can be extracted by destructive distillation;
-- “pipeline” means a pipeline within the meaning of article 6(2) of the 2013[^key-967e9064fb88d6018393281e6c8f169f] Order;
+- “pipeline” means a pipeline within the meaning of article 6(2) of the 2013[^c-967e9064fb88d6018393281e6c8f169f] Order;
 - “pipeline works” means pipeline works within the meaning of article 6(2) of the 2013 Order;
-- “[^key-784ce86e496be4cfb2836a76e7a773b7]**production installation**” in relation to—
+- “[^c-784ce86e496be4cfb2836a76e7a773b7]**production installation**” in relation to—
   - (a) carbon capture, utilisation and storage, has the meaning given in regulation 2(1) of the 2015 Regulations;
   - (b) offshore hydrogen production, has the meaning given in regulation 2(1) of the 2015 Regulations;
   - (c) internal waters, with the exception of carbon capture, utilisation and storage and offshore hydrogen production, has the meaning given in regulation 2(1) of the 2005 Regulations; and
@@ -113,8 +113,8 @@ These Regulations may be cited as the Offshore Installations and Pipeline Works 
 - “relevant employee” means an employee—
   - (a) who is ordinarily resident in the United Kingdom, or
   - (b) who is not ordinarily resident in the United Kingdom but who has been present in the United Kingdom and relevant waters in the course of employment there for a continuous period of not less than 7 days;
-- “[^key-9f18a66255b9125fd6b8f870cc291af4]**relevant waters**” means internal waters and external waters;
-- “supplementary unit” means a fixed or floating structure, other than a vessel, for providing energy, information or substances to an offshore installation; and[^key-6b096d3bdf26f58328131953edc462bd]
+- “[^c-9f18a66255b9125fd6b8f870cc291af4]**relevant waters**” means internal waters and external waters;
+- “supplementary unit” means a fixed or floating structure, other than a vessel, for providing energy, information or substances to an offshore installation; and[^c-6b096d3bdf26f58328131953edc462bd]
 - “vessel” includes a hovercraft and any floating structure which is capable of being staffed.
 
 (2) Any reference in these Regulations to operating an offshore installation is a reference to using the installation for any of the purposes described in regulation 3(1).
@@ -127,27 +127,27 @@ These Regulations may be cited as the Offshore Installations and Pipeline Works 
 - (b) a numbered paragraph is a reference to the paragraph so numbered in the regulation in which the reference appears; and
 - (c) a numbered Schedule is a reference to the Schedule in these Regulations so numbered.
 
-## 3. Meaning of “offshore installation”[^key-4449a7b2485e6737d2e1de7d5cdfca12]
+## 3. Meaning of “offshore installation”[^c-4449a7b2485e6737d2e1de7d5cdfca12]
 
 (1) Subject to the provisions of this regulation, in these Regulations the expression “offshore installation” means a structure which is, or is to be, or has been used, while standing or stationed in relevant waters, or on the foreshore or other land intermittently covered with water—
 
 - (a) for the exploitation, or exploration with a view to exploitation, of mineral resources by means of a well;
-- (aa)[^key-a25a739b69a66bb1be07f3464d8f255a] for offshore hydrogen production;
+- (aa)[^c-a25a739b69a66bb1be07f3464d8f255a] for offshore hydrogen production;
 - (b) for the storage of gas in or under the shore or bed of relevant waters or the recovery of gas so stored;
 - (c) for the conveyance of things by means of a pipe;
-- (ca)[^key-a0bf8fd65f989cad4aca2129d1bdbfe2] for undertaking activities that involve mechanically entering the pressure containment boundary of a well; or
-- (d) primarily[^key-f2ff97dbd633e8a201ce6c3a28905bc8] for the provision of accommodation for persons who work on or from a structure falling within any of the provisions of this paragraph,
+- (ca)[^c-a0bf8fd65f989cad4aca2129d1bdbfe2] for undertaking activities that involve mechanically entering the pressure containment boundary of a well; or
+- (d) primarily[^c-f2ff97dbd633e8a201ce6c3a28905bc8] for the provision of accommodation for persons who work on or from a structure falling within any of the provisions of this paragraph,
 
-together with any supplementary unit which is ordinarily connected to it or any part of it (including those parts described in paragraph (3) below) and all of the connections[^key-7c7672787b0ec53c746d0dab3c56b8bc].
+together with any supplementary unit which is ordinarily connected to it or any part of it (including those parts described in paragraph (3) below) and all of the connections[^c-7c7672787b0ec53c746d0dab3c56b8bc].
 
-(2) Any reference in paragraph (1) to a structure or unit does not include[^key-3f3e83a7d6a8e24c919f558675f7b9e3]—
+(2) Any reference in paragraph (1) to a structure or unit does not include[^c-3f3e83a7d6a8e24c919f558675f7b9e3]—
 
 - (a) a structure which is connected with dry land by a permanent structure providing access at all times and for all purposes;
 - (b) a well;
 - (c) a structure or device which does not project above the sea at any state of the tide;
-- (d)[^key-cf8335fa7dbe39609dbc47cd294dc2b8] a mobile structure which has ceased to be used for any of the purposes specified in paragraph (1), and has since been used for a purpose not so specified;
+- (d)[^c-cf8335fa7dbe39609dbc47cd294dc2b8] a mobile structure which has ceased to be used for any of the purposes specified in paragraph (1), and has since been used for a purpose not so specified;
 - (da) a fixed structure which has ceased to be used for any of the purposes specified in paragraph (1), for so long as it is used for a purpose not so specified;
-- (e) a mobile structure which has been taken out of use and is not yet being moved with a view to its being[^key-a241752deb7e0b8ebc0dc37be64e78a9] used for any of the purposes specified in paragraph (1); and
+- (e) a mobile structure which has been taken out of use and is not yet being moved with a view to its being[^c-a241752deb7e0b8ebc0dc37be64e78a9] used for any of the purposes specified in paragraph (1); and
 - (f) any part of a pipeline.
 
 (3) For the purposes of these Regulations there shall be deemed to be part of an offshore installation—
@@ -160,28 +160,28 @@ together with any supplementary unit which is ordinarily connected to it or any 
 
 (4) Where two or more structures are, or are to be, connected permanently above the sea at high tide they shall for the purposes of these Regulations be deemed to comprise a single offshore installation.
 
-(5)[^key-7817b7a9c853ab33cdc986127d310e1f] In this regulation “**gas**” means any substance which is gaseous at a temperature of 15°C and a pressure of 101.325 kPa (1013.25 mb).
+(5)[^c-7817b7a9c853ab33cdc986127d310e1f] In this regulation “**gas**” means any substance which is gaseous at a temperature of 15°C and a pressure of 101.325 kPa (1013.25 mb).
 
-## 4. Application[^key-bd31935db91a2833cd716ff3effe9cd4]
+## 4. Application[^c-bd31935db91a2833cd716ff3effe9cd4]
 
-(1) Except for regulations 21F and 21G (which provide for their own application),[^key-288d6feced4f5b4781d12bf7bdc2138f] these Regulations shall apply—
+(1) Except for regulations 21F and 21G (which provide for their own application),[^c-288d6feced4f5b4781d12bf7bdc2138f] these Regulations shall apply—
 
 - (a) in Great Britain; and
-- (b) to and in relation to offshore installations, wells, pipelines and activities outside Great Britain to which sections 1 to 59 and 80 to 82 of the Health and Safety at Work etc. Act 1974 apply by virtue of articles 4(1) and (2)[^key-158f09fa0520dc5f3bfab4bf645b29d9], 5 and 6 of the 2013[^key-9abce8d8bf14451168f5111e9ef8b83b] Order.
+- (b) to and in relation to offshore installations, wells, pipelines and activities outside Great Britain to which sections 1 to 59 and 80 to 82 of the Health and Safety at Work etc. Act 1974 apply by virtue of articles 4(1) and (2)[^c-158f09fa0520dc5f3bfab4bf645b29d9], 5 and 6 of the 2013[^c-9abce8d8bf14451168f5111e9ef8b83b] Order.
 
 (2) Regulations 6 to 21 shall not apply in relation to an offshore installation which is in transit to or from a location; and an offshore installation is not in transit to or from a location while it is being manoeuvred at the location.
 
 (3) Save where otherwise expressly provided, nothing in regulations 6 to 13 or 15 to 18 shall impose a duty in relation to an offshore installation while there are no persons aboard.
 
-(4)[^key-ae082fae8779351e4e6645e2d31f17ed] Regulations 21A to 21E do not apply to an offshore installation—
+(4)[^c-ae082fae8779351e4e6645e2d31f17ed] Regulations 21A to 21E do not apply to an offshore installation—
 
 - (a) registered as a vessel (whether registered in the United Kingdom or elsewhere); or
 - (b) which is in transit to or from a station; or
 - (c) which is unmanned.
 
-## 5. Notification concerning offshore installations[^key-a043846bf5ba3ea7f32ce5f10377d835]
+## 5. Notification concerning offshore installations[^c-a043846bf5ba3ea7f32ce5f10377d835]
 
-(1) The duty holder shall, before[^key-6f8fb3df84e18b4d621c4aedde6dc938] the date on which an offshore installation is due to enter or leave relevant waters, notify the Executive in writing of the date of its intended entry into or departure from such waters.
+(1) The duty holder shall, before[^c-6f8fb3df84e18b4d621c4aedde6dc938] the date on which an offshore installation is due to enter or leave relevant waters, notify the Executive in writing of the date of its intended entry into or departure from such waters.
 
 (2) Where there is a change of duty holder in relation to an offshore installation, the new duty holder shall ensure that it is not operated until the Executive has been notified in writing of—
 
@@ -189,7 +189,7 @@ together with any supplementary unit which is ordinarily connected to it or any 
 - (b) the name and address of the new duty holder; and
 - (c) where the address furnished pursuant to sub-paragraph (b) is outside Great Britain, an address in Great Britain to which communications to him may be sent.
 
-## 6. Managers[^key-5a0717da14c7676742310e7b9f8148ef]
+## 6. Managers[^c-5a0717da14c7676742310e7b9f8148ef]
 
 (1) The duty holder shall ensure that—
 
@@ -199,7 +199,7 @@ together with any supplementary unit which is ordinarily connected to it or any 
 
 (2) For the purpose of paragraph (1)(a), a person is not in charge of an offshore installation when he is not on it unless he remains in communication with it and, in a case where it might be necessary to exercise his functions, is able to reach it promptly.
 
-## 7. Restraint and putting ashore[^key-12aa1ece3faf81fbc698190fe935587e]
+## 7. Restraint and putting ashore[^c-12aa1ece3faf81fbc698190fe935587e]
 
 (1) If an installation manager has reasonable cause to believe that it is necessary or expedient to do so for the purpose of securing the safety of the offshore installation or the safety or health of persons on or near it, he may take such measures against a person on the installation, including—
 
@@ -210,7 +210,7 @@ as are reasonable.
 
 (2) If it appears likely that a person will not be put ashore within twenty-four hours of being put under restraint, the installation manager shall forthwith give notice to the duty holder of his being kept under restraint and of the reason for it.
 
-## 8. Co-operation[^key-1c03382d52bdb899e58215fe55b26d44]
+## 8. Co-operation[^c-1c03382d52bdb899e58215fe55b26d44]
 
 (1) Every person shall co-operate—
 
@@ -222,7 +222,7 @@ as are reasonable.
 
 (3) The duty in paragraph (1) is without prejudice to any duty owed by a master, captain or person in charge of any vessel or aircraft.
 
-## 9. Records[^key-5eb70652aabe7591e3a99a790f412e15]
+## 9. Records[^c-5eb70652aabe7591e3a99a790f412e15]
 
 (1) The duty holder shall ensure that there is kept on the offshore installation or at a suitable place nearby a record of the persons who are for the time being on, or working from the installation, and containing, in relation to each such person—
 
@@ -242,7 +242,7 @@ in another record, in this regulation referred to as “the onshore record”.
 
 (3) The duty holder shall ensure that an entry in the onshore record relating to any person is thereafter kept readily available at an address in Great Britain until 28 days after he ceases to be on or to work from the installation.
 
-## 10. Permits to work[^key-ee6bf243db1d92159f7592e4c133d8aa]
+## 10. Permits to work[^c-ee6bf243db1d92159f7592e4c133d8aa]
 
 In cases where, because of—
 
@@ -251,14 +251,14 @@ In cases where, because of—
 
 it is necessary for the health or safety of persons to do so, the duty holder shall introduce arrangements for securing that, in such a case, a person does not do such work save in accordance with the terms of a permit in writing, given by a competent person authorised by or on behalf of the duty holder.
 
-## 11. Instructions[^key-fe8bd5eb04fefc1bab11bbdc01972edb]
+## 11. Instructions[^c-fe8bd5eb04fefc1bab11bbdc01972edb]
 
 The duty holder shall ensure that, where necessary for the health and safety of persons—
 
 - (a) comprehensible instructions on procedures to be observed on the offshore installation are put in writing; and
 - (b) the relevant part of such instructions is brought to the attention of every person who is to do anything to which that part relates.
 
-## 12. Communication[^key-862b2eff08975d483f3c1f19a75b1bd2]
+## 12. Communication[^c-862b2eff08975d483f3c1f19a75b1bd2]
 
 The duty holder shall ensure that arrangements, which are appropriate for health and safety purposes, are in place for effective communication—
 
@@ -267,7 +267,7 @@ The duty holder shall ensure that arrangements, which are appropriate for health
   - (i) a suitable offshore installation with persons on board; or
   - (ii) where there is no such installation, suitable premises ashore.
 
-## 13. Helicopters[^key-5ef11e90b80dbd2dfcf3833675b63fcb]
+## 13. Helicopters[^c-5ef11e90b80dbd2dfcf3833675b63fcb]
 
 The duty holder shall ensure that—
 
@@ -275,7 +275,7 @@ The duty holder shall ensure that—
 - (b) such person is in control throughout such operations; and
 - (c) such procedures are established, and plant provided, as will secure, so far as is reasonably practicable, that helideck operations, including the landing and take-off of helicopters, are without risks to health and safety.
 
-## 14. Operational information[^key-e432cc9a0c6784ee718fc6fdb062897a]
+## 14. Operational information[^c-e432cc9a0c6784ee718fc6fdb062897a]
 
 The duty holder shall make arrangements for the collection and keeping of—
 
@@ -284,7 +284,7 @@ The duty holder shall make arrangements for the collection and keeping of—
 
 as is necessary for securing, so far as is reasonably practicable, the safe operation of the installation and the safety of persons on or near it.
 
-## 15. Information to persons[^key-7ae9d65420ba62b1012135dfb9a50c85]
+## 15. Information to persons[^c-7ae9d65420ba62b1012135dfb9a50c85]
 
 (1) The duty holder shall ensure that the address and telephone number of the office of the Executive for the sector in which the offshore installation is situated is known to or readily ascertainable by every person on the installation.
 
@@ -301,33 +301,33 @@ as is necessary for securing, so far as is reasonably practicable, the safe oper
 
   shall ensure that the address and telephone number of the office of the Executive for the sector in which the installation or well is situated, or the pipeline works, or activity described in sub-paragraph (d) above, is or are carried out, is known to or readily ascertainable by such person.
 
-## 16. Health surveillance[^key-6e3f0ba82793350d5292329fa251cd0d]
+## 16. Health surveillance[^c-6e3f0ba82793350d5292329fa251cd0d]
 
 (1) An employer of a person engaged in work on an offshore installation shall ensure that he is provided with such health surveillance as is appropriate to the health and safety risks incurred in the work; and, where that person is assigned to the work after the coming into force of these Regulations (apart from regulation 23(2)), the health surveillance shall be commenced before he is so assigned.
 
 (2) In this regulation “appropriate” means appropriate having regard to the nature and magnitude of the risks to the safety and health of the employee created by the relevant work.
 
-## 17. Drinking water[^key-4b304ffda632fc231dd3e1cee43a9237]
+## 17. Drinking water[^c-4b304ffda632fc231dd3e1cee43a9237]
 
 The duty holder shall ensure that—
 
 - (a) an adequate supply of clean, wholesome drinking water is available at suitable locations on the offshore installation; and
 - (b) such locations are clearly marked to show that drinking water is there.
 
-## 18. Provisions[^key-feba183df2095f3e5bf936d4fc341af9]
+## 18. Provisions[^c-feba183df2095f3e5bf936d4fc341af9]
 
 The duty holder shall ensure that all provisions for consumption by persons on the offshore installation are fit for human consumption, palatable and of good quality.
 
-## 19. Identification of the offshore installation[^key-52587990cca8a248a614bbf5ad395588]
+## 19. Identification of the offshore installation[^c-52587990cca8a248a614bbf5ad395588]
 
 Save where the nature of the structure makes it impracticable to do so, the duty holder shall ensure that the offshore installation—
 
 - (a) displays its name or other designation in such a manner as to make the installation readily identifiable on approach by sea or air; and
 - (b) displays no name, letters or figures likely to be confused with the name or other designation of another offshore installation.
 
-## 20. Certificates of exemption[^key-bd6066c5b93db5759b6b8c53d5b41766]
+## 20. Certificates of exemption[^c-bd6066c5b93db5759b6b8c53d5b41766]
 
-(1) Subject to paragraph (2) and to any of the provisions imposed by the European Union[^key-c3f994a5618dae4cc80e46b01dc0d78c] (as they had effect immediately before IP completion day)[^key-7c333263c517cd40c5fbe81d4f29672d] in respect of the encouragement of improvements in the safety and health of workers at work , and in particular, of Directive 2013/30/[^key-b20e3474704d19b24939e0beb4a964ff]EU of the European Parliament and of the Council of 12 June 2013 on safety of offshore oil and gas operations and amending Directive [2004/35/EC](https://www.legislation.gov.uk/european/directive/2004/0035), the Executive may, by a certificate in writing, exempt any person, offshore installation or class of persons or offshore installations from any requirement or prohibition imposed by these Regulations and any such exemption may be granted subject to conditions and with or without limit of time and may be revoked by a certificate in writing at any time.
+(1) Subject to paragraph (2) and to any of the provisions imposed by the European Union[^c-c3f994a5618dae4cc80e46b01dc0d78c] (as they had effect immediately before IP completion day)[^c-7c333263c517cd40c5fbe81d4f29672d] in respect of the encouragement of improvements in the safety and health of workers at work , and in particular, of Directive 2013/30/[^c-b20e3474704d19b24939e0beb4a964ff]EU of the European Parliament and of the Council of 12 June 2013 on safety of offshore oil and gas operations and amending Directive [2004/35/EC](https://www.legislation.gov.uk/european/directive/2004/0035), the Executive may, by a certificate in writing, exempt any person, offshore installation or class of persons or offshore installations from any requirement or prohibition imposed by these Regulations and any such exemption may be granted subject to conditions and with or without limit of time and may be revoked by a certificate in writing at any time.
 
 (2) The Executive shall not grant any such exemption unless, having regard to the circumstances of the case and, in particular, to—
 
@@ -336,7 +336,7 @@ Save where the nature of the structure makes it impracticable to do so, the duty
 
 it is satisfied that the health and safety of persons who are likely to be affected by the exemption will not be prejudiced in consequence of it.
 
-## 21. Application of the Employers' Liability (Compulsory Insurance) Act 1969[^key-04533009d4b82d066b58283851fc1127]
+## 21. Application of the Employers' Liability (Compulsory Insurance) Act 1969[^c-04533009d4b82d066b58283851fc1127]
 
 (1) The 1969 Act shall apply to employers of relevant employees employed for work on or from offshore installations, or on or from associated structures in the course of activities undertaken on or in connection with such installations, subject to such modifications and extensions as are hereafter in this regulation prescribed.
 
@@ -375,7 +375,7 @@ it is satisfied that the health and safety of persons who are likely to be affec
 >
 > **5B.** No proceedings shall be instituted in England and Wales for any offence under this Act in respect of an offshore installation except by the Secretary of State or by a person authorised in that behalf by the Secretary of State.
 
-## 21A. Obligation to notify death or loss of person[^key-35973c9217c2beeef84d56abdcd4a4d8]
+## 21A. Obligation to notify death or loss of person[^c-35973c9217c2beeef84d56abdcd4a4d8]
 
 (1) Where any person—
 
@@ -433,13 +433,13 @@ When a person dies or is lost in circumstances in which an obligation to make a 
 - (a) that the person exercised all due diligence to prevent the commission of the offence; and
 - (b) that the relevant contravention was committed without the person's consent, connivance or wilful default.
 
-## 21F. Power of inspectors of offshore installations and offshore wind or marine energy installations; duty to provide accommodation and subsistence for inspectors[^key-228c2245e336a9d9692b29de1982fd54]
+## 21F. Power of inspectors of offshore installations and offshore wind or marine energy installations; duty to provide accommodation and subsistence for inspectors[^c-228c2245e336a9d9692b29de1982fd54]
 
 (1) An inspector may exercise the powers in paragraph (2) for the purpose of carrying into effect the relevant statutory provisions within the field of responsibility of the enforcing authority that appointed the inspector.
 
 (2) The powers are—
 
-- (a) to require a duty holder to convey to and from an offshore installation, an offshore wind or marine energy installation or a vessel associated with offshore oil and gas operations, CCUS operations, offshore hydrogen operations or offshore wind or marine energy operations, at any reasonable time, by a reasonable method—[^key-75400b9944b6e4a0fb23e70fd34d92cd]
+- (a) to require a duty holder to convey to and from an offshore installation, an offshore wind or marine energy installation or a vessel associated with offshore oil and gas operations, CCUS operations, offshore hydrogen operations or offshore wind or marine energy operations, at any reasonable time, by a reasonable method—[^c-75400b9944b6e4a0fb23e70fd34d92cd]
   - (i) the inspector;
   - (ii) the equipment or materials of the inspector; and
   - (iii) any article or substance of which the inspector has taken possession pursuant to section 20 of the Health and Safety at Work etc. Act 1974;
@@ -455,7 +455,7 @@ When a person dies or is lost in circumstances in which an obligation to make a 
 - (a) proceedings on indictment are excluded; and
 - (b) the punishment which can be imposed is restricted to a fine not exceeding level 3 on the standard scale.
 
-(6)[^key-f7bb4302219c1607adafb62614324371] In this regulation—
+(6)[^c-f7bb4302219c1607adafb62614324371] In this regulation—
 
 - “**CCUS operations**” means all activities associated with an offshore installation relating to carbon capture, utilisation and storage, including the design, planning, construction, operation and decommissioning of the installation;
 - “**energy structure**” has the meaning given in article 9 (production of energy from water or wind) of the 2013 Order;
@@ -523,19 +523,19 @@ The prohibition under section 23(1) of the Petroleum Act 1987 on a vessel enteri
 - (f) when in distress; or
 - (g) if there is consent from the duty holder.
 
-## 22. Repeals and modifications of the 1971 Act[^key-e6e2f0e45663ea285d24559d4dec1045]
+## 22. Repeals and modifications of the 1971 Act[^c-e6e2f0e45663ea285d24559d4dec1045]
 
 (1) The provisions of the 1971 Act specified in column 1 of Part I of Schedule 1 are repealed to the extent specified in the corresponding entry in column 3 of that Part.
 
 (2) Section 12(1) of the 1971 Act shall have effect subject to the modifications specified in Part II of Schedule 1.
 
-## 23. Revocation and modification of instruments[^key-6cfe8df9fe498e2f7c06816c090d5584]
+## 23. Revocation and modification of instruments[^c-6cfe8df9fe498e2f7c06816c090d5584]
 
-(1)[^key-6cfe8df9fe498e2f7c06816c090d5584] The instruments specified in column 1 of Part I of Schedule 2 shall be revoked to the extent specified in column 3 of that Part.
+(1)[^c-6cfe8df9fe498e2f7c06816c090d5584] The instruments specified in column 1 of Part I of Schedule 2 shall be revoked to the extent specified in column 3 of that Part.
 
-(2)[^key-5b8eedbbf4aeef0a70f386abeac04d23] Regulation 29 of the Offshore Installations (Operational Safety, Health and Welfare) Regulations 1976[^f00006] shall be revoked.
+(2)[^c-5b8eedbbf4aeef0a70f386abeac04d23] Regulation 29 of the Offshore Installations (Operational Safety, Health and Welfare) Regulations 1976[^f00006] shall be revoked.
 
-(3)[^key-6cfe8df9fe498e2f7c06816c090d5584] The instruments specified in Part II of Schedule 2 shall have effect subject to the modifications specified in that Part.
+(3)[^c-6cfe8df9fe498e2f7c06816c090d5584] The instruments specified in Part II of Schedule 2 shall have effect subject to the modifications specified in that Part.
 
 Signed by order of the Secretary of State.
 
@@ -551,7 +551,7 @@ Department of Employment
 
 Regulation 22
 
-### PART I — REPEALS[^key-5bfa998dce6a0a3d73c22042f4df7816]
+### PART I — REPEALS[^c-5bfa998dce6a0a3d73c22042f4df7816]
 
 <table>
 <thead>
@@ -571,13 +571,13 @@ Regulation 22
 
 ### PART II — AMENDMENTS TO SECTION 12(1)
 
-**1.**[^key-c9893fc50c617003209f8bdfc4042c37] Before the definition of “controlled waters” there shall be inserted the following definition:
+**1.**[^c-c9893fc50c617003209f8bdfc4042c37] Before the definition of “controlled waters” there shall be inserted the following definition:
 
 > - “the 1995 Regulations” means the Offshore Installations and Pipeline Works (Management and Administration) Regulations 1995;
 
 .
 
-**2.**[^key-20fdfeec2af4217069ce74a2025ec227] For the definition of “controlled waters” there shall be substituted the following definition:
+**2.**[^c-20fdfeec2af4217069ce74a2025ec227] For the definition of “controlled waters” there shall be substituted the following definition:
 
 > - “controlled waters” means—
 >   - (a) tidal waters and parts of the sea in or adjacent to Great Britain up to the seaward limits of territorial waters; and
@@ -585,19 +585,19 @@ Regulation 22
 
 .
 
-**3.**[^key-b792b4a5687b61ac16d8f4b69750f5f6] For the definition of “installation manager” there shall be substituted the following definition:
+**3.**[^c-b792b4a5687b61ac16d8f4b69750f5f6] For the definition of “installation manager” there shall be substituted the following definition:
 
 > - “installation manager” has the meaning given by regulation 2(1) of the 1995 Regulations;
 
 .
 
-**4.**[^key-0231a8151cc0b105b809b9a98f345d5e] For the definition of “offshore installation” there shall be substituted the following definition:
+**4.**[^c-0231a8151cc0b105b809b9a98f345d5e] For the definition of “offshore installation” there shall be substituted the following definition:
 
 > - “offshore installation” has the same meaning as in regulation 3 of the 1995 Regulations;
 
 .
 
-**5.**[^key-25827f0ba1afd926e45a5f9b9d11737a] For the definition of “owner” there shall be substituted the following definition:
+**5.**[^c-25827f0ba1afd926e45a5f9b9d11737a] For the definition of “owner” there shall be substituted the following definition:
 
 > - “owner”, in relation to an offshore installation, means the person who is, in relation to the installation, the duty holder as defined by regulation 2(1) of the 1995 Regulations in relation to that installation;
 
@@ -607,7 +607,7 @@ Regulation 22
 
 Regulation 23
 
-### PART I — REVOCATIONS OF INSTRUMENTS[^key-51552950c99c3d0e297f32db62b99f4a]
+### PART I — REVOCATIONS OF INSTRUMENTS[^c-51552950c99c3d0e297f32db62b99f4a]
 
 <table>
 <thead>
@@ -632,21 +632,21 @@ Regulation 23
 
 ### PART II — MODIFICATIONS OF INSTRUMENTS
 
-#### 1. The Offshore Installations (Operational Safety, Health and Welfare) Regulations 1976[^key-573c19d1feb3997012e93a2099cfd109]
+#### 1. The Offshore Installations (Operational Safety, Health and Welfare) Regulations 1976[^c-573c19d1feb3997012e93a2099cfd109]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 2. The Offshore Installations (Well Control) Regulations 1980[^key-16ca47f8258eeca0b80ec993ed339db8]
+#### 2. The Offshore Installations (Well Control) Regulations 1980[^c-16ca47f8258eeca0b80ec993ed339db8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3. The Diving Operations at Work Regulations 1981[^key-53ab576b34e8d994bba1cae13d6fa1c8]
+#### 3. The Diving Operations at Work Regulations 1981[^c-53ab576b34e8d994bba1cae13d6fa1c8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-f972bec82dd251a56057fb4d313f338e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-f972bec82dd251a56057fb4d313f338e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 5. The Offshore Installations (Safety Representatives and Safety Committees) Regulations 1989[^key-fca82f7a0d7b8494ac6cc3b91b6c7e0b]
+#### 5. The Offshore Installations (Safety Representatives and Safety Committees) Regulations 1989[^c-fca82f7a0d7b8494ac6cc3b91b6c7e0b]
 
 In regulation 2 (interpretation) of the Offshore Installations (Safety Representatives and Safety Committees) Regulations 1989[^f00010] (“the 1989 Regulations”):
 
@@ -666,19 +666,19 @@ In regulation 2 (interpretation) of the Offshore Installations (Safety Represent
 
   .
 
-**6.**[^key-dc855adcf81d822ed1fdeb873483893f] For regulation 3 (application) of the 1989 Regulations there shall be substituted the following regulation:
+**6.**[^c-dc855adcf81d822ed1fdeb873483893f] For regulation 3 (application) of the 1989 Regulations there shall be substituted the following regulation:
 
 > **3.** These Regulations shall apply to an offshore installation at a working station in controlled waters which normally has persons on board;
 
 .
 
-**7.**[^key-6c856a36acf1c4b2ec69bb58b9d1c3c8] In regulations 11, 17, 20, 22, 24, 25 and 28 of the 1989 Regulations, in place of the words “installation owner” wherever they occur, there shall be substituted the words “duty holder”.
+**7.**[^c-6c856a36acf1c4b2ec69bb58b9d1c3c8] In regulations 11, 17, 20, 22, 24, 25 and 28 of the 1989 Regulations, in place of the words “installation owner” wherever they occur, there shall be substituted the words “duty holder”.
 
-**8.**[^key-7979df335e42082cb34ed2ee365c42a1] In regulation 19 of the 1989 Regulations, in place of the words “owner of an offshore installation” there shall be substituted the words “duty holder in relation to an offshore installation”.
+**8.**[^c-7979df335e42082cb34ed2ee365c42a1] In regulation 19 of the 1989 Regulations, in place of the words “owner of an offshore installation” there shall be substituted the words “duty holder in relation to an offshore installation”.
 
-**9.**[^key-8d072c639e994002f1302b2b1f21d3b2] In regulation 22 (safety committee— functions) of the 1989 Regulations, in paragraph (1)(c), in place of the word “employers” there shall be substituted the words “duty holder”.
+**9.**[^c-8d072c639e994002f1302b2b1f21d3b2] In regulation 22 (safety committee— functions) of the 1989 Regulations, in paragraph (1)(c), in place of the word “employers” there shall be substituted the words “duty holder”.
 
-**10.**[^key-2dbddf23517828380eef285a54c44cd3] For regulation 23 (duties of installation owners and installation managers) of the 1989 Regulations there shall be substituted the following regulation:
+**10.**[^c-2dbddf23517828380eef285a54c44cd3] For regulation 23 (duties of installation owners and installation managers) of the 1989 Regulations there shall be substituted the following regulation:
 
 > **23. Duties of installation operators and owners, and employers**
 >
@@ -702,7 +702,7 @@ In regulation 2 (interpretation) of the Offshore Installations (Safety Represent
 
 .
 
-**11.**[^key-fc044e96916b1d46d4549a85c604c391] For regulation 27 (training) of the 1989 Regulations there shall be substituted the following regulation:
+**11.**[^c-fc044e96916b1d46d4549a85c604c391] For regulation 27 (training) of the 1989 Regulations there shall be substituted the following regulation:
 
 > **27. Training**
 >
@@ -711,11 +711,11 @@ In regulation 2 (interpretation) of the Offshore Installations (Safety Represent
 > - (a) a safety representative for the installation is provided with such training in aspects of the functions of a safety representative as are reasonable in all the circumstances; and
 > - (b) any costs associated with such training, including travel and subsistence costs, are not borne by the safety representative.
 
-#### 12. The Offshore Installations (Emergency Pipe-line Valve) Regulations 1989[^key-3f78431d8520b403c03308ed986df230]
+#### 12. The Offshore Installations (Emergency Pipe-line Valve) Regulations 1989[^c-3f78431d8520b403c03308ed986df230]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 13. The Offshore Installations and Pipeline Works (First-Aid) Regulations 1989[^key-56204a77e18e84cf6d5885dc4ba61768]
+#### 13. The Offshore Installations and Pipeline Works (First-Aid) Regulations 1989[^c-56204a77e18e84cf6d5885dc4ba61768]
 
 In regulation 2 (interpretation) of the Offshore Installations and Pipeline Works (First-Aid) Regulations 1989[^f00012]—
 
@@ -743,15 +743,15 @@ In regulation 2 (interpretation) of the Offshore Installations and Pipeline Work
 
   .
 
-#### 14. The Offshore Installations (Safety Case) Regulations 1992[^key-173c5ec7886d5ab714e8b614810162e1]
+#### 14. The Offshore Installations (Safety Case) Regulations 1992[^c-173c5ec7886d5ab714e8b614810162e1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-173c5ec7886d5ab714e8b614810162e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-173c5ec7886d5ab714e8b614810162e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-173c5ec7886d5ab714e8b614810162e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-173c5ec7886d5ab714e8b614810162e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — Form to notify the death or loss of a person pursuant to regulation 21B[^key-943bf045f4f6d67a3c87d50e7a5632fa]
+## SCHEDULE 3 — Form to notify the death or loss of a person pursuant to regulation 21B[^c-943bf045f4f6d67a3c87d50e7a5632fa]
 
 Regulation 21B
 
@@ -817,186 +817,186 @@ The Regulations also make other provision.
 
 [^f00001]: Footnote: [1974 c. 37](https://www.legislation.gov.uk/ukpga/1974/37). Sections 15 and 50 were amended by the Employment Protection Act [1975 (c. 71)](https://www.legislation.gov.uk/ukpga/1975/71) Schedule 15, paragraphs 6 and 16 respectively; the general purposes of Part I referred to in section 15(1) were extended by section 1(1) of the Offshore Safety Act 1992 ([1992 c. 15)](https://www.legislation.gov.uk/ukpga/1992/15); and section 15 was extended by section 1(2) of the 1992 Act.
 
-[^key-1bd0fc8105bc532ebe6f67958dc0a811]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
+[^c-1bd0fc8105bc532ebe6f67958dc0a811]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
 
-[^key-0c2d24b5c3b9777fa45245e4c6e147c1]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1995/738/regulation/2) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
+[^c-0c2d24b5c3b9777fa45245e4c6e147c1]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1995/738/regulation/2) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
 
 [^f00002]: Footnote: [1969 c. 57](https://www.legislation.gov.uk/ukpga/1969/57).
 
 [^f00003]: Footnote: [1971 c. 61](https://www.legislation.gov.uk/ukpga/1971/61); amended by the Oil and Gas (Enterprise) Act [1982 (c. 23)](https://www.legislation.gov.uk/ukpga/1982/23); certain provisions were repealed by [S.I. 1993/1823](https://www.legislation.gov.uk/uksi/1993/1823).
 
-[^key-7da71733aa5d5cd606560aed6d0035e7]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1995/738/regulation/2/1) omitted (19.7.2015) by virtue of [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 Pt. 1 para. 9(a)](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/9/a), [Pt. 2](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/part/2) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
+[^c-7da71733aa5d5cd606560aed6d0035e7]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1995/738/regulation/2/1) omitted (19.7.2015) by virtue of [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 Pt. 1 para. 9(a)](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/9/a), [Pt. 2](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/part/2) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
 
-[^key-381bf285326fb6d8924beb3d626fc9db]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1995/738/regulation/2/1) inserted (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 para. 9(b)](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/9/b) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
+[^c-381bf285326fb6d8924beb3d626fc9db]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1995/738/regulation/2/1) inserted (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 para. 9(b)](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/9/b) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
 
-[^key-cb2bcb1702beed6e359c1bb1a2acc9c9]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1995/738/regulation/2/1) substituted (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 para. 9(c)](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/9/c) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
+[^c-cb2bcb1702beed6e359c1bb1a2acc9c9]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1995/738/regulation/2/1) substituted (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 para. 9(c)](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/9/c) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
 
-[^key-ec0eebac37cd60274b16dbce04be6fb7]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1995/738/regulation/2/1) inserted (6.4.2026) by [The Carbon Capture Utilisation and Storage and Offshore Hydrogen Production (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/185)](https://www.legislation.gov.uk/uksi/2026/185), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/185/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2026/185/regulation/2/2/a)
+[^c-ec0eebac37cd60274b16dbce04be6fb7]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1995/738/regulation/2/1) inserted (6.4.2026) by [The Carbon Capture Utilisation and Storage and Offshore Hydrogen Production (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/185)](https://www.legislation.gov.uk/uksi/2026/185), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/185/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2026/185/regulation/2/2/a)
 
-[^key-d7a0bf008f588a0c45ca8fb1b2daf4f8]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1995/738/regulation/2/1) omitted (6.4.2006) by virtue of [The Offshore Installations (Safety Case) Regulations 2005 (S.I. 2005/3117)](https://www.legislation.gov.uk/uksi/2005/3117), [reg. 1](https://www.legislation.gov.uk/uksi/2005/3117/regulation/1), [Sch. 9 para. 2(a)(i)](https://www.legislation.gov.uk/uksi/2005/3117/schedule/9/paragraph/2/a/i) (with [reg. 27](https://www.legislation.gov.uk/uksi/2005/3117/regulation/27))
+[^c-d7a0bf008f588a0c45ca8fb1b2daf4f8]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1995/738/regulation/2/1) omitted (6.4.2006) by virtue of [The Offshore Installations (Safety Case) Regulations 2005 (S.I. 2005/3117)](https://www.legislation.gov.uk/uksi/2005/3117), [reg. 1](https://www.legislation.gov.uk/uksi/2005/3117/regulation/1), [Sch. 9 para. 2(a)(i)](https://www.legislation.gov.uk/uksi/2005/3117/schedule/9/paragraph/2/a/i) (with [reg. 27](https://www.legislation.gov.uk/uksi/2005/3117/regulation/27))
 
-[^key-edbc459124b7fae5a3ca719e91a0b866]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1995/738/regulation/2/1) substituted (6.4.2006) by [The Offshore Installations (Safety Case) Regulations 2005 (S.I. 2005/3117)](https://www.legislation.gov.uk/uksi/2005/3117), [reg. 1](https://www.legislation.gov.uk/uksi/2005/3117/regulation/1), [Sch. 9 para. 2(a)(ii)](https://www.legislation.gov.uk/uksi/2005/3117/schedule/9/paragraph/2/a/ii) (with [reg. 27](https://www.legislation.gov.uk/uksi/2005/3117/regulation/27))
+[^c-edbc459124b7fae5a3ca719e91a0b866]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1995/738/regulation/2/1) substituted (6.4.2006) by [The Offshore Installations (Safety Case) Regulations 2005 (S.I. 2005/3117)](https://www.legislation.gov.uk/uksi/2005/3117), [reg. 1](https://www.legislation.gov.uk/uksi/2005/3117/regulation/1), [Sch. 9 para. 2(a)(ii)](https://www.legislation.gov.uk/uksi/2005/3117/schedule/9/paragraph/2/a/ii) (with [reg. 27](https://www.legislation.gov.uk/uksi/2005/3117/regulation/27))
 
-[^key-72d9a9c3c3a1502ef4b00df9c4eb949e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1995/738/regulation/2/1) inserted (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 para. 9(d)](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/9/d) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
+[^c-72d9a9c3c3a1502ef4b00df9c4eb949e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1995/738/regulation/2/1) inserted (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 para. 9(d)](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/9/d) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
 
-[^key-32bc9673b1cfae21e15afb4581848718]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1995/738/regulation/2/1) omitted (6.4.2006) by virtue of [The Offshore Installations (Safety Case) Regulations 2005 (S.I. 2005/3117)](https://www.legislation.gov.uk/uksi/2005/3117), [reg. 1](https://www.legislation.gov.uk/uksi/2005/3117/regulation/1), [Sch. 9 para. 2(a)(iii)](https://www.legislation.gov.uk/uksi/2005/3117/schedule/9/paragraph/2/a/iii) (with [reg. 27](https://www.legislation.gov.uk/uksi/2005/3117/regulation/27))
+[^c-32bc9673b1cfae21e15afb4581848718]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1995/738/regulation/2/1) omitted (6.4.2006) by virtue of [The Offshore Installations (Safety Case) Regulations 2005 (S.I. 2005/3117)](https://www.legislation.gov.uk/uksi/2005/3117), [reg. 1](https://www.legislation.gov.uk/uksi/2005/3117/regulation/1), [Sch. 9 para. 2(a)(iii)](https://www.legislation.gov.uk/uksi/2005/3117/schedule/9/paragraph/2/a/iii) (with [reg. 27](https://www.legislation.gov.uk/uksi/2005/3117/regulation/27))
 
-[^key-6814f63e341a76bbfbd717afb6cc0200]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1995/738/regulation/2/1) inserted (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 para. 9(e)](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/9/e) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
+[^c-6814f63e341a76bbfbd717afb6cc0200]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1995/738/regulation/2/1) inserted (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 para. 9(e)](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/9/e) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
 
-[^key-0da5ebf45c7ed239cdb38719f466fa3b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1995/738/regulation/2/1) substituted (6.4.2026) by [The Carbon Capture Utilisation and Storage and Offshore Hydrogen Production (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/185)](https://www.legislation.gov.uk/uksi/2026/185), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/185/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2026/185/regulation/2/2/b)
+[^c-0da5ebf45c7ed239cdb38719f466fa3b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1995/738/regulation/2/1) substituted (6.4.2026) by [The Carbon Capture Utilisation and Storage and Offshore Hydrogen Production (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/185)](https://www.legislation.gov.uk/uksi/2026/185), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/185/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2026/185/regulation/2/2/b)
 
-[^key-1a30cc8453ed3c74bab0d8bfcaab8050]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1995/738/regulation/2/1) omitted (6.4.2006) by virtue of [The Offshore Installations (Safety Case) Regulations 2005 (S.I. 2005/3117)](https://www.legislation.gov.uk/uksi/2005/3117), [reg. 1](https://www.legislation.gov.uk/uksi/2005/3117/regulation/1), [Sch. 9 para. 2(a)(v)](https://www.legislation.gov.uk/uksi/2005/3117/schedule/9/paragraph/2/a/v) (with [reg. 27](https://www.legislation.gov.uk/uksi/2005/3117/regulation/27))
+[^c-1a30cc8453ed3c74bab0d8bfcaab8050]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1995/738/regulation/2/1) omitted (6.4.2006) by virtue of [The Offshore Installations (Safety Case) Regulations 2005 (S.I. 2005/3117)](https://www.legislation.gov.uk/uksi/2005/3117), [reg. 1](https://www.legislation.gov.uk/uksi/2005/3117/regulation/1), [Sch. 9 para. 2(a)(v)](https://www.legislation.gov.uk/uksi/2005/3117/schedule/9/paragraph/2/a/v) (with [reg. 27](https://www.legislation.gov.uk/uksi/2005/3117/regulation/27))
 
-[^key-9e034db2611b500476bc6ce3a0e3cf0f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1995/738/regulation/2/1) inserted (6.4.2006) by [The Offshore Installations (Safety Case) Regulations 2005 (S.I. 2005/3117)](https://www.legislation.gov.uk/uksi/2005/3117), [reg. 1](https://www.legislation.gov.uk/uksi/2005/3117/regulation/1), [Sch. 9 para. 2(a)(vi)](https://www.legislation.gov.uk/uksi/2005/3117/schedule/9/paragraph/2/a/vi) (with [reg. 27](https://www.legislation.gov.uk/uksi/2005/3117/regulation/27))
+[^c-9e034db2611b500476bc6ce3a0e3cf0f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1995/738/regulation/2/1) inserted (6.4.2006) by [The Offshore Installations (Safety Case) Regulations 2005 (S.I. 2005/3117)](https://www.legislation.gov.uk/uksi/2005/3117), [reg. 1](https://www.legislation.gov.uk/uksi/2005/3117/regulation/1), [Sch. 9 para. 2(a)(vi)](https://www.legislation.gov.uk/uksi/2005/3117/schedule/9/paragraph/2/a/vi) (with [reg. 27](https://www.legislation.gov.uk/uksi/2005/3117/regulation/27))
 
-[^key-0205f0be40387c789d83d074e1cfd691]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1995/738/regulation/2/1) inserted (6.4.2026) by [The Carbon Capture Utilisation and Storage and Offshore Hydrogen Production (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/185)](https://www.legislation.gov.uk/uksi/2026/185), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/185/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2026/185/regulation/2/2/c)
+[^c-0205f0be40387c789d83d074e1cfd691]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1995/738/regulation/2/1) inserted (6.4.2026) by [The Carbon Capture Utilisation and Storage and Offshore Hydrogen Production (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/185)](https://www.legislation.gov.uk/uksi/2026/185), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/185/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2026/185/regulation/2/2/c)
 
-[^key-11e11ac396a469eee24ae4ca29512123]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1995/738/regulation/2/1) substituted (6.4.2026) by [The Carbon Capture Utilisation and Storage and Offshore Hydrogen Production (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/185)](https://www.legislation.gov.uk/uksi/2026/185), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/185/regulation/1/1), [2(2)(d)](https://www.legislation.gov.uk/uksi/2026/185/regulation/2/2/d)
+[^c-11e11ac396a469eee24ae4ca29512123]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1995/738/regulation/2/1) substituted (6.4.2026) by [The Carbon Capture Utilisation and Storage and Offshore Hydrogen Production (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/185)](https://www.legislation.gov.uk/uksi/2026/185), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/185/regulation/1/1), [2(2)(d)](https://www.legislation.gov.uk/uksi/2026/185/regulation/2/2/d)
 
-[^key-1b21f759b1d0667246b02bbf6987f994]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1995/738/regulation/2/1) substituted (6.4.2006) by [The Offshore Installations (Safety Case) Regulations 2005 (S.I. 2005/3117)](https://www.legislation.gov.uk/uksi/2005/3117), [reg. 1](https://www.legislation.gov.uk/uksi/2005/3117/regulation/1), [Sch. 9 para. 2(a)(viii)](https://www.legislation.gov.uk/uksi/2005/3117/schedule/9/paragraph/2/a/viii) (with [reg. 27](https://www.legislation.gov.uk/uksi/2005/3117/regulation/27))
+[^c-1b21f759b1d0667246b02bbf6987f994]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1995/738/regulation/2/1) substituted (6.4.2006) by [The Offshore Installations (Safety Case) Regulations 2005 (S.I. 2005/3117)](https://www.legislation.gov.uk/uksi/2005/3117), [reg. 1](https://www.legislation.gov.uk/uksi/2005/3117/regulation/1), [Sch. 9 para. 2(a)(viii)](https://www.legislation.gov.uk/uksi/2005/3117/schedule/9/paragraph/2/a/viii) (with [reg. 27](https://www.legislation.gov.uk/uksi/2005/3117/regulation/27))
 
-[^key-6ce3bcc41e415fcab8d2a73d58a384e2]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1995/738/regulation/2/1) inserted (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 para. 9(h)](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/9/h) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
+[^c-6ce3bcc41e415fcab8d2a73d58a384e2]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1995/738/regulation/2/1) inserted (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 para. 9(h)](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/9/h) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
 
-[^key-9ff6da76a4feaa3c9599456d2dbf0271]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1995/738/regulation/2/1) inserted (6.4.2006) by [The Offshore Installations (Safety Case) Regulations 2005 (S.I. 2005/3117)](https://www.legislation.gov.uk/uksi/2005/3117), [reg. 1](https://www.legislation.gov.uk/uksi/2005/3117/regulation/1), [Sch. 9 para. 2(a)(ix)](https://www.legislation.gov.uk/uksi/2005/3117/schedule/9/paragraph/2/a/ix) (with [reg. 27](https://www.legislation.gov.uk/uksi/2005/3117/regulation/27))
+[^c-9ff6da76a4feaa3c9599456d2dbf0271]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1995/738/regulation/2/1) inserted (6.4.2006) by [The Offshore Installations (Safety Case) Regulations 2005 (S.I. 2005/3117)](https://www.legislation.gov.uk/uksi/2005/3117), [reg. 1](https://www.legislation.gov.uk/uksi/2005/3117/regulation/1), [Sch. 9 para. 2(a)(ix)](https://www.legislation.gov.uk/uksi/2005/3117/schedule/9/paragraph/2/a/ix) (with [reg. 27](https://www.legislation.gov.uk/uksi/2005/3117/regulation/27))
 
-[^key-967e9064fb88d6018393281e6c8f169f]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1995/738/regulation/2/1) substituted (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 para. 9(i)](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/9/i) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
+[^c-967e9064fb88d6018393281e6c8f169f]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1995/738/regulation/2/1) substituted (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 para. 9(i)](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/9/i) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
 
-[^key-784ce86e496be4cfb2836a76e7a773b7]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1995/738/regulation/2/1) substituted (6.4.2026) by [The Carbon Capture Utilisation and Storage and Offshore Hydrogen Production (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/185)](https://www.legislation.gov.uk/uksi/2026/185), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/185/regulation/1/1), [2(2)(e)](https://www.legislation.gov.uk/uksi/2026/185/regulation/2/2/e)
+[^c-784ce86e496be4cfb2836a76e7a773b7]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1995/738/regulation/2/1) substituted (6.4.2026) by [The Carbon Capture Utilisation and Storage and Offshore Hydrogen Production (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/185)](https://www.legislation.gov.uk/uksi/2026/185), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/185/regulation/1/1), [2(2)(e)](https://www.legislation.gov.uk/uksi/2026/185/regulation/2/2/e)
 
-[^key-9f18a66255b9125fd6b8f870cc291af4]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1995/738/regulation/2/1) substituted (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 para. 9(k)](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/9/k) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
+[^c-9f18a66255b9125fd6b8f870cc291af4]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1995/738/regulation/2/1) substituted (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 para. 9(k)](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/9/k) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
 
-[^key-6b096d3bdf26f58328131953edc462bd]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1995/738/regulation/2/1) inserted (17.9.2002) by [The Offshore Safety (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2175)](https://www.legislation.gov.uk/uksi/2002/2175), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/2175/regulation/1/1), [2(1)(b)](https://www.legislation.gov.uk/uksi/2002/2175/regulation/2/1/b)
+[^c-6b096d3bdf26f58328131953edc462bd]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1995/738/regulation/2/1) inserted (17.9.2002) by [The Offshore Safety (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2175)](https://www.legislation.gov.uk/uksi/2002/2175), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/2175/regulation/1/1), [2(1)(b)](https://www.legislation.gov.uk/uksi/2002/2175/regulation/2/1/b)
 
-[^key-4449a7b2485e6737d2e1de7d5cdfca12]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1995/738/regulation/3) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
+[^c-4449a7b2485e6737d2e1de7d5cdfca12]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1995/738/regulation/3) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
 
-[^key-a25a739b69a66bb1be07f3464d8f255a]: Textual amendment: [Reg. 3(1)(aa)](https://www.legislation.gov.uk/uksi/1995/738/regulation/3/1/aa) inserted (6.4.2026) by [The Carbon Capture Utilisation and Storage and Offshore Hydrogen Production (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/185)](https://www.legislation.gov.uk/uksi/2026/185), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/185/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2026/185/regulation/2/3/a)
+[^c-a25a739b69a66bb1be07f3464d8f255a]: Textual amendment: [Reg. 3(1)(aa)](https://www.legislation.gov.uk/uksi/1995/738/regulation/3/1/aa) inserted (6.4.2026) by [The Carbon Capture Utilisation and Storage and Offshore Hydrogen Production (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/185)](https://www.legislation.gov.uk/uksi/2026/185), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/185/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2026/185/regulation/2/3/a)
 
-[^key-a0bf8fd65f989cad4aca2129d1bdbfe2]: Textual amendment: [Reg. 3(1)(ca)](https://www.legislation.gov.uk/uksi/1995/738/regulation/3/1/ca) inserted (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 para. 10(2)(a)](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/10/2/a) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
+[^c-a0bf8fd65f989cad4aca2129d1bdbfe2]: Textual amendment: [Reg. 3(1)(ca)](https://www.legislation.gov.uk/uksi/1995/738/regulation/3/1/ca) inserted (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 para. 10(2)(a)](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/10/2/a) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
 
-[^key-f2ff97dbd633e8a201ce6c3a28905bc8]: Textual amendment: Word in [reg. 3(1)(d)](https://www.legislation.gov.uk/uksi/1995/738/regulation/3/1/d) substituted (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 para. 10(2)(b)](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/10/2/b) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
+[^c-f2ff97dbd633e8a201ce6c3a28905bc8]: Textual amendment: Word in [reg. 3(1)(d)](https://www.legislation.gov.uk/uksi/1995/738/regulation/3/1/d) substituted (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 para. 10(2)(b)](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/10/2/b) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
 
-[^key-7c7672787b0ec53c746d0dab3c56b8bc]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1995/738/regulation/3/1) substituted (17.9.2002) by [The Offshore Safety (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2175)](https://www.legislation.gov.uk/uksi/2002/2175), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/2175/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2002/2175/regulation/2/2/a)
+[^c-7c7672787b0ec53c746d0dab3c56b8bc]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1995/738/regulation/3/1) substituted (17.9.2002) by [The Offshore Safety (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2175)](https://www.legislation.gov.uk/uksi/2002/2175), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/2175/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2002/2175/regulation/2/2/a)
 
-[^key-3f3e83a7d6a8e24c919f558675f7b9e3]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/1995/738/regulation/3/2) substituted (17.9.2002) by [The Offshore Safety (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2175)](https://www.legislation.gov.uk/uksi/2002/2175), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/2175/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2002/2175/regulation/2/2/b)
+[^c-3f3e83a7d6a8e24c919f558675f7b9e3]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/1995/738/regulation/3/2) substituted (17.9.2002) by [The Offshore Safety (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2175)](https://www.legislation.gov.uk/uksi/2002/2175), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/2175/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2002/2175/regulation/2/2/b)
 
-[^key-cf8335fa7dbe39609dbc47cd294dc2b8]: Textual amendment: [Reg. 3(2)(d)(da)](https://www.legislation.gov.uk/uksi/1995/738/regulation/3/2/d) substituted for [reg. 3(2)(d)](https://www.legislation.gov.uk/uksi/1995/738/regulation/3/2/d) (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 para. 10(3)](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/10/3) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
+[^c-cf8335fa7dbe39609dbc47cd294dc2b8]: Textual amendment: [Reg. 3(2)(d)(da)](https://www.legislation.gov.uk/uksi/1995/738/regulation/3/2/d) substituted for [reg. 3(2)(d)](https://www.legislation.gov.uk/uksi/1995/738/regulation/3/2/d) (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 para. 10(3)](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/10/3) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
 
-[^key-a241752deb7e0b8ebc0dc37be64e78a9]: Textual amendment: Words in [reg. 3(2)(e)](https://www.legislation.gov.uk/uksi/1995/738/regulation/3/2/e) substituted (17.9.2002) by [The Offshore Safety (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2175)](https://www.legislation.gov.uk/uksi/2002/2175), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/2175/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2002/2175/regulation/2/2/c)
+[^c-a241752deb7e0b8ebc0dc37be64e78a9]: Textual amendment: Words in [reg. 3(2)(e)](https://www.legislation.gov.uk/uksi/1995/738/regulation/3/2/e) substituted (17.9.2002) by [The Offshore Safety (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2175)](https://www.legislation.gov.uk/uksi/2002/2175), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/2175/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2002/2175/regulation/2/2/c)
 
-[^key-7817b7a9c853ab33cdc986127d310e1f]: Textual amendment: [Reg. 3(5)](https://www.legislation.gov.uk/uksi/1995/738/regulation/3/5) inserted (6.4.2026) by [The Carbon Capture Utilisation and Storage and Offshore Hydrogen Production (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/185)](https://www.legislation.gov.uk/uksi/2026/185), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/185/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2026/185/regulation/2/3/b)
+[^c-7817b7a9c853ab33cdc986127d310e1f]: Textual amendment: [Reg. 3(5)](https://www.legislation.gov.uk/uksi/1995/738/regulation/3/5) inserted (6.4.2026) by [The Carbon Capture Utilisation and Storage and Offshore Hydrogen Production (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/185)](https://www.legislation.gov.uk/uksi/2026/185), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/185/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2026/185/regulation/2/3/b)
 
-[^key-bd31935db91a2833cd716ff3effe9cd4]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1995/738/regulation/4) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
+[^c-bd31935db91a2833cd716ff3effe9cd4]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1995/738/regulation/4) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
 
-[^key-288d6feced4f5b4781d12bf7bdc2138f]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/1995/738/regulation/4/1) inserted (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 para. 11(2)](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/11/2) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
+[^c-288d6feced4f5b4781d12bf7bdc2138f]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/1995/738/regulation/4/1) inserted (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 para. 11(2)](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/11/2) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
 
-[^key-158f09fa0520dc5f3bfab4bf645b29d9]: Textual amendment: Words in [reg. 4(1)(b)](https://www.legislation.gov.uk/uksi/1995/738/regulation/4/1/b) substituted (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 para. 11(3)(a)](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/11/3/a) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
+[^c-158f09fa0520dc5f3bfab4bf645b29d9]: Textual amendment: Words in [reg. 4(1)(b)](https://www.legislation.gov.uk/uksi/1995/738/regulation/4/1/b) substituted (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 para. 11(3)(a)](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/11/3/a) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
 
-[^key-9abce8d8bf14451168f5111e9ef8b83b]: Textual amendment: Word in [reg. 4(1)(b)](https://www.legislation.gov.uk/uksi/1995/738/regulation/4/1/b) substituted (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 para. 11(3)(b)](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/11/3/b) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
+[^c-9abce8d8bf14451168f5111e9ef8b83b]: Textual amendment: Word in [reg. 4(1)(b)](https://www.legislation.gov.uk/uksi/1995/738/regulation/4/1/b) substituted (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 para. 11(3)(b)](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/11/3/b) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
 
-[^key-ae082fae8779351e4e6645e2d31f17ed]: Textual amendment: [Reg. 4(4)](https://www.legislation.gov.uk/uksi/1995/738/regulation/4/4) inserted (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 para. 11(4)](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/11/4) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
+[^c-ae082fae8779351e4e6645e2d31f17ed]: Textual amendment: [Reg. 4(4)](https://www.legislation.gov.uk/uksi/1995/738/regulation/4/4) inserted (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 para. 11(4)](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/11/4) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
 
-[^key-a043846bf5ba3ea7f32ce5f10377d835]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1995/738/regulation/5) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
+[^c-a043846bf5ba3ea7f32ce5f10377d835]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1995/738/regulation/5) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
 
-[^key-6f8fb3df84e18b4d621c4aedde6dc938]: Textual amendment: Word in [reg. 5(1)](https://www.legislation.gov.uk/uksi/1995/738/regulation/5/1) substituted (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 para. 12](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/12) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
+[^c-6f8fb3df84e18b4d621c4aedde6dc938]: Textual amendment: Word in [reg. 5(1)](https://www.legislation.gov.uk/uksi/1995/738/regulation/5/1) substituted (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 para. 12](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/12) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
 
-[^key-5a0717da14c7676742310e7b9f8148ef]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1995/738/regulation/6) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
+[^c-5a0717da14c7676742310e7b9f8148ef]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1995/738/regulation/6) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
 
-[^key-12aa1ece3faf81fbc698190fe935587e]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1995/738/regulation/7) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
+[^c-12aa1ece3faf81fbc698190fe935587e]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1995/738/regulation/7) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
 
-[^key-1c03382d52bdb899e58215fe55b26d44]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1995/738/regulation/8) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
+[^c-1c03382d52bdb899e58215fe55b26d44]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1995/738/regulation/8) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
 
-[^key-5eb70652aabe7591e3a99a790f412e15]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1995/738/regulation/9) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
+[^c-5eb70652aabe7591e3a99a790f412e15]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1995/738/regulation/9) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
 
-[^key-ee6bf243db1d92159f7592e4c133d8aa]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1995/738/regulation/10) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
+[^c-ee6bf243db1d92159f7592e4c133d8aa]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1995/738/regulation/10) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
 
-[^key-fe8bd5eb04fefc1bab11bbdc01972edb]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1995/738/regulation/11) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
+[^c-fe8bd5eb04fefc1bab11bbdc01972edb]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1995/738/regulation/11) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
 
-[^key-862b2eff08975d483f3c1f19a75b1bd2]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1995/738/regulation/12) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
+[^c-862b2eff08975d483f3c1f19a75b1bd2]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1995/738/regulation/12) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
 
-[^key-5ef11e90b80dbd2dfcf3833675b63fcb]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/1995/738/regulation/13) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
+[^c-5ef11e90b80dbd2dfcf3833675b63fcb]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/1995/738/regulation/13) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
 
-[^key-e432cc9a0c6784ee718fc6fdb062897a]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/1995/738/regulation/14) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
+[^c-e432cc9a0c6784ee718fc6fdb062897a]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/1995/738/regulation/14) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
 
-[^key-7ae9d65420ba62b1012135dfb9a50c85]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/1995/738/regulation/15) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
+[^c-7ae9d65420ba62b1012135dfb9a50c85]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/1995/738/regulation/15) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
 
-[^key-6e3f0ba82793350d5292329fa251cd0d]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/1995/738/regulation/16) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
+[^c-6e3f0ba82793350d5292329fa251cd0d]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/1995/738/regulation/16) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
 
-[^key-4b304ffda632fc231dd3e1cee43a9237]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/1995/738/regulation/17) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
+[^c-4b304ffda632fc231dd3e1cee43a9237]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/1995/738/regulation/17) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
 
-[^key-feba183df2095f3e5bf936d4fc341af9]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/1995/738/regulation/18) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
+[^c-feba183df2095f3e5bf936d4fc341af9]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/1995/738/regulation/18) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
 
-[^key-52587990cca8a248a614bbf5ad395588]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/1995/738/regulation/19) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
+[^c-52587990cca8a248a614bbf5ad395588]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/1995/738/regulation/19) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
 
-[^key-bd6066c5b93db5759b6b8c53d5b41766]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/1995/738/regulation/20) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
+[^c-bd6066c5b93db5759b6b8c53d5b41766]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/1995/738/regulation/20) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
 
-[^key-c3f994a5618dae4cc80e46b01dc0d78c]: Textual amendment: Words in [reg. 20](https://www.legislation.gov.uk/uksi/1995/738/regulation/20) substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [4](https://www.legislation.gov.uk/uksi/2011/1043/article/4)
+[^c-c3f994a5618dae4cc80e46b01dc0d78c]: Textual amendment: Words in [reg. 20](https://www.legislation.gov.uk/uksi/1995/738/regulation/20) substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [4](https://www.legislation.gov.uk/uksi/2011/1043/article/4)
 
-[^key-7c333263c517cd40c5fbe81d4f29672d]: Textual amendment: Words in [reg. 20(1)](https://www.legislation.gov.uk/uksi/1995/738/regulation/20/1) inserted (31.12.2020) by [The Health and Safety (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1370)](https://www.legislation.gov.uk/uksi/2018/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/2/2) (as amended by [S.I. 2020/660](https://www.legislation.gov.uk/uksi/2020/660), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/660/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2020/660/regulation/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7c333263c517cd40c5fbe81d4f29672d]: Textual amendment: Words in [reg. 20(1)](https://www.legislation.gov.uk/uksi/1995/738/regulation/20/1) inserted (31.12.2020) by [The Health and Safety (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1370)](https://www.legislation.gov.uk/uksi/2018/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/2/2) (as amended by [S.I. 2020/660](https://www.legislation.gov.uk/uksi/2020/660), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/660/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2020/660/regulation/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b20e3474704d19b24939e0beb4a964ff]: Textual amendment: Words in [reg. 20(1)](https://www.legislation.gov.uk/uksi/1995/738/regulation/20/1) inserted (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 para. 13](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/13) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
+[^c-b20e3474704d19b24939e0beb4a964ff]: Textual amendment: Words in [reg. 20(1)](https://www.legislation.gov.uk/uksi/1995/738/regulation/20/1) inserted (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 para. 13](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/13) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
 
-[^key-04533009d4b82d066b58283851fc1127]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/1995/738/regulation/21) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
+[^c-04533009d4b82d066b58283851fc1127]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/1995/738/regulation/21) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
 
-[^key-35973c9217c2beeef84d56abdcd4a4d8]: Textual amendment: [Regs. 21A-21H](https://www.legislation.gov.uk/uksi/1995/738/regulation/21A) inserted (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 para. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/14) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
+[^c-35973c9217c2beeef84d56abdcd4a4d8]: Textual amendment: [Regs. 21A-21H](https://www.legislation.gov.uk/uksi/1995/738/regulation/21A) inserted (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 para. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/14) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
 
-[^key-228c2245e336a9d9692b29de1982fd54]: Textual amendment: Words in [reg. 21F](https://www.legislation.gov.uk/uksi/1995/738/regulation/21F) heading inserted (6.4.2026) by [The Carbon Capture Utilisation and Storage and Offshore Hydrogen Production (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/185)](https://www.legislation.gov.uk/uksi/2026/185), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/185/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2026/185/regulation/2/4/a)
+[^c-228c2245e336a9d9692b29de1982fd54]: Textual amendment: Words in [reg. 21F](https://www.legislation.gov.uk/uksi/1995/738/regulation/21F) heading inserted (6.4.2026) by [The Carbon Capture Utilisation and Storage and Offshore Hydrogen Production (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/185)](https://www.legislation.gov.uk/uksi/2026/185), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/185/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2026/185/regulation/2/4/a)
 
-[^key-75400b9944b6e4a0fb23e70fd34d92cd]: Textual amendment: Words in [reg. 21F(2)(a)](https://www.legislation.gov.uk/uksi/1995/738/regulation/21F/2/a) substituted (6.4.2026) by [The Carbon Capture Utilisation and Storage and Offshore Hydrogen Production (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/185)](https://www.legislation.gov.uk/uksi/2026/185), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/185/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2026/185/regulation/2/4/b)
+[^c-75400b9944b6e4a0fb23e70fd34d92cd]: Textual amendment: Words in [reg. 21F(2)(a)](https://www.legislation.gov.uk/uksi/1995/738/regulation/21F/2/a) substituted (6.4.2026) by [The Carbon Capture Utilisation and Storage and Offshore Hydrogen Production (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/185)](https://www.legislation.gov.uk/uksi/2026/185), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/185/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2026/185/regulation/2/4/b)
 
-[^key-f7bb4302219c1607adafb62614324371]: Textual amendment: [Reg. 21F(6)](https://www.legislation.gov.uk/uksi/1995/738/regulation/21F/6) substituted (6.4.2026) by [The Carbon Capture Utilisation and Storage and Offshore Hydrogen Production (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/185)](https://www.legislation.gov.uk/uksi/2026/185), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/185/regulation/1/1), [2(4)(c)](https://www.legislation.gov.uk/uksi/2026/185/regulation/2/4/c)
+[^c-f7bb4302219c1607adafb62614324371]: Textual amendment: [Reg. 21F(6)](https://www.legislation.gov.uk/uksi/1995/738/regulation/21F/6) substituted (6.4.2026) by [The Carbon Capture Utilisation and Storage and Offshore Hydrogen Production (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/185)](https://www.legislation.gov.uk/uksi/2026/185), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/185/regulation/1/1), [2(4)(c)](https://www.legislation.gov.uk/uksi/2026/185/regulation/2/4/c)
 
-[^key-e6e2f0e45663ea285d24559d4dec1045]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/1995/738/regulation/22) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
+[^c-e6e2f0e45663ea285d24559d4dec1045]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/1995/738/regulation/22) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
 
-[^key-6cfe8df9fe498e2f7c06816c090d5584]: Commencement: [Reg. 23(1)](https://www.legislation.gov.uk/uksi/1995/738/regulation/23/1)[(3)](https://www.legislation.gov.uk/uksi/1995/738/regulation/23/3) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
+[^c-6cfe8df9fe498e2f7c06816c090d5584]: Commencement: [Reg. 23(1)](https://www.legislation.gov.uk/uksi/1995/738/regulation/23/1)[(3)](https://www.legislation.gov.uk/uksi/1995/738/regulation/23/3) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
 
-[^key-5b8eedbbf4aeef0a70f386abeac04d23]: Commencement: [Reg. 23(2)](https://www.legislation.gov.uk/uksi/1995/738/regulation/23/2) in force at 20.6.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
+[^c-5b8eedbbf4aeef0a70f386abeac04d23]: Commencement: [Reg. 23(2)](https://www.legislation.gov.uk/uksi/1995/738/regulation/23/2) in force at 20.6.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
 
 [^f00006]: Footnote: [S.I. 1976/1019](https://www.legislation.gov.uk/uksi/1976/1019).
 
-[^key-5bfa998dce6a0a3d73c22042f4df7816]: Commencement: [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/1995/738/schedule/1/part/I) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
+[^c-5bfa998dce6a0a3d73c22042f4df7816]: Commencement: [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/1995/738/schedule/1/part/I) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
 
-[^key-c9893fc50c617003209f8bdfc4042c37]: Commencement: [Sch. 1 Pt. 2 para. 1](https://www.legislation.gov.uk/uksi/1995/738/schedule/1/paragraph/1) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
+[^c-c9893fc50c617003209f8bdfc4042c37]: Commencement: [Sch. 1 Pt. 2 para. 1](https://www.legislation.gov.uk/uksi/1995/738/schedule/1/paragraph/1) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
 
-[^key-20fdfeec2af4217069ce74a2025ec227]: Commencement: [Sch. 1 Pt. 2 para. 2](https://www.legislation.gov.uk/uksi/1995/738/schedule/1/paragraph/2) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
+[^c-20fdfeec2af4217069ce74a2025ec227]: Commencement: [Sch. 1 Pt. 2 para. 2](https://www.legislation.gov.uk/uksi/1995/738/schedule/1/paragraph/2) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
 
-[^key-b792b4a5687b61ac16d8f4b69750f5f6]: Commencement: [Sch. 1 Pt. 2 para. 3](https://www.legislation.gov.uk/uksi/1995/738/schedule/1/paragraph/3) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
+[^c-b792b4a5687b61ac16d8f4b69750f5f6]: Commencement: [Sch. 1 Pt. 2 para. 3](https://www.legislation.gov.uk/uksi/1995/738/schedule/1/paragraph/3) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
 
-[^key-0231a8151cc0b105b809b9a98f345d5e]: Commencement: [Sch. 1 Pt. 2 para. 4](https://www.legislation.gov.uk/uksi/1995/738/schedule/1/paragraph/4) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
+[^c-0231a8151cc0b105b809b9a98f345d5e]: Commencement: [Sch. 1 Pt. 2 para. 4](https://www.legislation.gov.uk/uksi/1995/738/schedule/1/paragraph/4) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
 
-[^key-25827f0ba1afd926e45a5f9b9d11737a]: Commencement: [Sch. 1 Pt. 2 para. 5](https://www.legislation.gov.uk/uksi/1995/738/schedule/1/paragraph/5) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
+[^c-25827f0ba1afd926e45a5f9b9d11737a]: Commencement: [Sch. 1 Pt. 2 para. 5](https://www.legislation.gov.uk/uksi/1995/738/schedule/1/paragraph/5) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
 
-[^key-51552950c99c3d0e297f32db62b99f4a]: Commencement: [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/1995/738/schedule/2/part/I) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
+[^c-51552950c99c3d0e297f32db62b99f4a]: Commencement: [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/1995/738/schedule/2/part/I) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
 
-[^key-573c19d1feb3997012e93a2099cfd109]: Textual amendment: [Sch. 2 Pt. 2 para. 1](https://www.legislation.gov.uk/uksi/1995/738/schedule/2/paragraph/1) revoked (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 Pt. 2](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/part/2) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
+[^c-573c19d1feb3997012e93a2099cfd109]: Textual amendment: [Sch. 2 Pt. 2 para. 1](https://www.legislation.gov.uk/uksi/1995/738/schedule/2/paragraph/1) revoked (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 Pt. 2](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/part/2) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
 
-[^key-16ca47f8258eeca0b80ec993ed339db8]: Textual amendment: [Sch. 2 Pt. 2 para. 2](https://www.legislation.gov.uk/uksi/1995/738/schedule/2/paragraph/2) revoked (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 Pt. 2](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/part/2) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
+[^c-16ca47f8258eeca0b80ec993ed339db8]: Textual amendment: [Sch. 2 Pt. 2 para. 2](https://www.legislation.gov.uk/uksi/1995/738/schedule/2/paragraph/2) revoked (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 Pt. 2](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/part/2) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
 
-[^key-53ab576b34e8d994bba1cae13d6fa1c8]: Textual amendment: [Sch. 2 Pt. 2 para. 3](https://www.legislation.gov.uk/uksi/1995/738/schedule/2/paragraph/3) revoked (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 Pt. 2](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/part/2) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
+[^c-53ab576b34e8d994bba1cae13d6fa1c8]: Textual amendment: [Sch. 2 Pt. 2 para. 3](https://www.legislation.gov.uk/uksi/1995/738/schedule/2/paragraph/3) revoked (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 Pt. 2](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/part/2) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
 
-[^key-f972bec82dd251a56057fb4d313f338e]: Textual amendment: [Sch. 2 Pt. 2 para. 4](https://www.legislation.gov.uk/uksi/1995/738/schedule/2/paragraph/4) revoked (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 Pt. 2](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/part/2) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
+[^c-f972bec82dd251a56057fb4d313f338e]: Textual amendment: [Sch. 2 Pt. 2 para. 4](https://www.legislation.gov.uk/uksi/1995/738/schedule/2/paragraph/4) revoked (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 Pt. 2](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/part/2) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
 
-[^key-fca82f7a0d7b8494ac6cc3b91b6c7e0b]: Commencement: [Sch. 2 Pt. 2 para. 5](https://www.legislation.gov.uk/uksi/1995/738/schedule/2/paragraph/5) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
+[^c-fca82f7a0d7b8494ac6cc3b91b6c7e0b]: Commencement: [Sch. 2 Pt. 2 para. 5](https://www.legislation.gov.uk/uksi/1995/738/schedule/2/paragraph/5) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
 
 [^f00010]: Footnote: [S.I. 1989/971](https://www.legislation.gov.uk/uksi/1989/971); amended by [S.I. 1992/2885](https://www.legislation.gov.uk/uksi/1992/2885).
 
-[^key-dc855adcf81d822ed1fdeb873483893f]: Commencement: [Sch. 2 Pt. 2 para. 6](https://www.legislation.gov.uk/uksi/1995/738/schedule/2/paragraph/6) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
+[^c-dc855adcf81d822ed1fdeb873483893f]: Commencement: [Sch. 2 Pt. 2 para. 6](https://www.legislation.gov.uk/uksi/1995/738/schedule/2/paragraph/6) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
 
-[^key-6c856a36acf1c4b2ec69bb58b9d1c3c8]: Commencement: [Sch. 2 Pt. 2 para. 7](https://www.legislation.gov.uk/uksi/1995/738/schedule/2/paragraph/7) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
+[^c-6c856a36acf1c4b2ec69bb58b9d1c3c8]: Commencement: [Sch. 2 Pt. 2 para. 7](https://www.legislation.gov.uk/uksi/1995/738/schedule/2/paragraph/7) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
 
-[^key-7979df335e42082cb34ed2ee365c42a1]: Commencement: [Sch. 2 Pt. 2 para. 8](https://www.legislation.gov.uk/uksi/1995/738/schedule/2/paragraph/8) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
+[^c-7979df335e42082cb34ed2ee365c42a1]: Commencement: [Sch. 2 Pt. 2 para. 8](https://www.legislation.gov.uk/uksi/1995/738/schedule/2/paragraph/8) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
 
-[^key-8d072c639e994002f1302b2b1f21d3b2]: Commencement: [Sch. 2 Pt. 2 para. 9](https://www.legislation.gov.uk/uksi/1995/738/schedule/2/paragraph/9) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
+[^c-8d072c639e994002f1302b2b1f21d3b2]: Commencement: [Sch. 2 Pt. 2 para. 9](https://www.legislation.gov.uk/uksi/1995/738/schedule/2/paragraph/9) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
 
-[^key-2dbddf23517828380eef285a54c44cd3]: Commencement: [Sch. 2 Pt. 2 para. 10](https://www.legislation.gov.uk/uksi/1995/738/schedule/2/paragraph/10) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
+[^c-2dbddf23517828380eef285a54c44cd3]: Commencement: [Sch. 2 Pt. 2 para. 10](https://www.legislation.gov.uk/uksi/1995/738/schedule/2/paragraph/10) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
 
-[^key-fc044e96916b1d46d4549a85c604c391]: Commencement: [Sch. 2 Pt. 2 para. 11](https://www.legislation.gov.uk/uksi/1995/738/schedule/2/paragraph/11) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
+[^c-fc044e96916b1d46d4549a85c604c391]: Commencement: [Sch. 2 Pt. 2 para. 11](https://www.legislation.gov.uk/uksi/1995/738/schedule/2/paragraph/11) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
 
-[^key-3f78431d8520b403c03308ed986df230]: Textual amendment: [Sch. 2 Pt. 2 para. 12](https://www.legislation.gov.uk/uksi/1995/738/schedule/2/paragraph/12) revoked (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 Pt. 2](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/part/2) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
+[^c-3f78431d8520b403c03308ed986df230]: Textual amendment: [Sch. 2 Pt. 2 para. 12](https://www.legislation.gov.uk/uksi/1995/738/schedule/2/paragraph/12) revoked (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 Pt. 2](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/part/2) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
 
-[^key-56204a77e18e84cf6d5885dc4ba61768]: Commencement: [Sch. 2 Pt. 2 para. 13](https://www.legislation.gov.uk/uksi/1995/738/schedule/2/paragraph/13) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
+[^c-56204a77e18e84cf6d5885dc4ba61768]: Commencement: [Sch. 2 Pt. 2 para. 13](https://www.legislation.gov.uk/uksi/1995/738/schedule/2/paragraph/13) in force at 20.6.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/738/regulation/1)
 
 [^f00012]: Footnote: [1989/1671](https://www.legislation.gov.uk/uksi/1989/1671).
 
-[^key-173c5ec7886d5ab714e8b614810162e1]: Textual amendment: [Sch. 2 Pt. 2 paras. 14-16](https://www.legislation.gov.uk/uksi/1995/738/schedule/2/paragraph/14) omitted (6.4.2006) by virtue of [The Offshore Installations (Safety Case) Regulations 2005 (S.I. 2005/3117)](https://www.legislation.gov.uk/uksi/2005/3117), [reg. 1](https://www.legislation.gov.uk/uksi/2005/3117/regulation/1), [Sch. 9 para. 2(b)](https://www.legislation.gov.uk/uksi/2005/3117/schedule/9/paragraph/2/b) (with [reg. 27](https://www.legislation.gov.uk/uksi/2005/3117/regulation/27))
+[^c-173c5ec7886d5ab714e8b614810162e1]: Textual amendment: [Sch. 2 Pt. 2 paras. 14-16](https://www.legislation.gov.uk/uksi/1995/738/schedule/2/paragraph/14) omitted (6.4.2006) by virtue of [The Offshore Installations (Safety Case) Regulations 2005 (S.I. 2005/3117)](https://www.legislation.gov.uk/uksi/2005/3117), [reg. 1](https://www.legislation.gov.uk/uksi/2005/3117/regulation/1), [Sch. 9 para. 2(b)](https://www.legislation.gov.uk/uksi/2005/3117/schedule/9/paragraph/2/b) (with [reg. 27](https://www.legislation.gov.uk/uksi/2005/3117/regulation/27))
 
-[^key-943bf045f4f6d67a3c87d50e7a5632fa]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/1995/738/schedule/3) inserted (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 para. 15](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/15) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
+[^c-943bf045f4f6d67a3c87d50e7a5632fa]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/1995/738/schedule/3) inserted (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 para. 15](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/15) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))

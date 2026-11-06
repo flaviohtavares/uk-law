@@ -32,7 +32,7 @@ summary: ''
 
 National Health Service
 
-The National Health Service (General Medical Services Contracts) (Scotland) Amendment Regulations 2010 (revoked)[^key-3d8b7d1055f0bc3b6dded8578364636e]
+The National Health Service (General Medical Services Contracts) (Scotland) Amendment Regulations 2010 (revoked)[^c-3d8b7d1055f0bc3b6dded8578364636e]
 
 Made
 
@@ -46,68 +46,68 @@ Coming into force
 
 22nd December 2010
 
-[^key-3d8b7d1055f0bc3b6dded8578364636e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3d8b7d1055f0bc3b6dded8578364636e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-3d8b7d1055f0bc3b6dded8578364636e]
+## 1. Citation, commencement and interpretation[^c-3d8b7d1055f0bc3b6dded8578364636e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the 2004 Regulations[^key-3d8b7d1055f0bc3b6dded8578364636e]
+## 2. Amendment of the 2004 Regulations[^c-3d8b7d1055f0bc3b6dded8578364636e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-3d8b7d1055f0bc3b6dded8578364636e]
+## 3.[^c-3d8b7d1055f0bc3b6dded8578364636e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-3d8b7d1055f0bc3b6dded8578364636e]
+## 4.[^c-3d8b7d1055f0bc3b6dded8578364636e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-3d8b7d1055f0bc3b6dded8578364636e]
+## 5.[^c-3d8b7d1055f0bc3b6dded8578364636e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-3d8b7d1055f0bc3b6dded8578364636e]
+## 6.[^c-3d8b7d1055f0bc3b6dded8578364636e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7.[^key-3d8b7d1055f0bc3b6dded8578364636e]
+## 7.[^c-3d8b7d1055f0bc3b6dded8578364636e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8.[^key-3d8b7d1055f0bc3b6dded8578364636e]
+## 8.[^c-3d8b7d1055f0bc3b6dded8578364636e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9.[^key-3d8b7d1055f0bc3b6dded8578364636e]
+## 9.[^c-3d8b7d1055f0bc3b6dded8578364636e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10.[^key-3d8b7d1055f0bc3b6dded8578364636e]
+## 10.[^c-3d8b7d1055f0bc3b6dded8578364636e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11.[^key-3d8b7d1055f0bc3b6dded8578364636e]
+## 11.[^c-3d8b7d1055f0bc3b6dded8578364636e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12.[^key-3d8b7d1055f0bc3b6dded8578364636e]
+## 12.[^c-3d8b7d1055f0bc3b6dded8578364636e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13.[^key-3d8b7d1055f0bc3b6dded8578364636e]
+## 13.[^c-3d8b7d1055f0bc3b6dded8578364636e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3d8b7d1055f0bc3b6dded8578364636e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3d8b7d1055f0bc3b6dded8578364636e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-3d8b7d1055f0bc3b6dded8578364636e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3d8b7d1055f0bc3b6dded8578364636e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3d8b7d1055f0bc3b6dded8578364636e]: Textual amendment: Regulations revoked (1.4.2018) by [The National Health Service (General Medical Services Contracts) (Scotland) Regulations 2018 (S.S.I. 2018/66)](https://www.legislation.gov.uk/ssi/2018/66), [reg. 1](https://www.legislation.gov.uk/ssi/2018/66/regulation/1), [sch. 9](https://www.legislation.gov.uk/ssi/2018/66/schedule/9) (with [reg. 2](https://www.legislation.gov.uk/ssi/2018/66/regulation/2))
+[^c-3d8b7d1055f0bc3b6dded8578364636e]: Textual amendment: Regulations revoked (1.4.2018) by [The National Health Service (General Medical Services Contracts) (Scotland) Regulations 2018 (S.S.I. 2018/66)](https://www.legislation.gov.uk/ssi/2018/66), [reg. 1](https://www.legislation.gov.uk/ssi/2018/66/regulation/1), [sch. 9](https://www.legislation.gov.uk/ssi/2018/66/schedule/9) (with [reg. 2](https://www.legislation.gov.uk/ssi/2018/66/regulation/2))

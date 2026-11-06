@@ -41,7 +41,7 @@ summary: ''
 
 (6) In the case of Crown employment, the reference in subsection (5)(a) to an undertaking is to be construed in accordance with section 191(4) of the Employment Rights Act 1996.
 
-(7)[^key-c72d5c7d6fc0d5545698575cbeb5acf8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-c72d5c7d6fc0d5545698575cbeb5acf8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) Schedule 7 (exceptions) has effect.
 
@@ -49,4 +49,4 @@ summary: ''
 
 [^c21154391]: Commencement: S. 80 wholly in force; s. 80 not in force at Royal Assent see s. 216; s. 80(8) in force for certain purposes at 4.8.2010 by [S.I. 2010/1966](https://www.legislation.gov.uk/uksi/2010/1966), [art. 2](https://www.legislation.gov.uk/uksi/2010/1966/article/2); s. 80 in force at 1.10.2010 in so far as not already in force by [S.I. 2010/2317](https://www.legislation.gov.uk/uksi/2010/2317), [art. 2(1)(5)(e)](https://www.legislation.gov.uk/uksi/2010/2317/article/2/1/5/e) (with [art. 15](https://www.legislation.gov.uk/uksi/2010/2317/article/15))
 
-[^key-c72d5c7d6fc0d5545698575cbeb5acf8]: Textual amendment: S. 80(7) omitted (13.3.2014) by virtue of [The Marriage (Same Sex Couples) Act 2013 (Consequential and Contrary Provisions and Scotland) Order 2014 (S.I. 2014/560)](https://www.legislation.gov.uk/uksi/2014/560), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2), [Sch. 1 para. 35(3)](https://www.legislation.gov.uk/uksi/2014/560/schedule/1/paragraph/35/3)
+[^c-c72d5c7d6fc0d5545698575cbeb5acf8]: Textual amendment: S. 80(7) omitted (13.3.2014) by virtue of [The Marriage (Same Sex Couples) Act 2013 (Consequential and Contrary Provisions and Scotland) Order 2014 (S.I. 2014/560)](https://www.legislation.gov.uk/uksi/2014/560), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2), [Sch. 1 para. 35(3)](https://www.legislation.gov.uk/uksi/2014/560/schedule/1/paragraph/35/3)

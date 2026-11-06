@@ -30,10 +30,10 @@ summary: ''
 
 > (3A) Subsection (3) applies in relation to any purpose connected with the supply to any premises of any gas or liquid subjected to a cooling effect produced in association with electricity as it applies to a purpose mentioned in that subsection.
 
-(5)[^key-adcef2e525395f97695bab3425230e2d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-adcef2e525395f97695bab3425230e2d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
 [^c1259048]: Commencement: S. 53 wholly in force at 1.10.2001; s. 53 not in force at Royal Assent see s. 110(2); s. 53 in force at 1.10.2001 by [S.I. 2001/3266](https://www.legislation.gov.uk/uksi/2001/3266), [art. 2](https://www.legislation.gov.uk/uksi/2001/3266/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/3266/schedule) (subject to transitional provisions in [arts. 3-20](https://www.legislation.gov.uk/uksi/2001/3266/article/3))
 
-[^key-adcef2e525395f97695bab3425230e2d]: Textual amendment: [S. 53(5)](https://www.legislation.gov.uk/ukpga/2000/27/section/53/5) repealed (1.9.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [s. 198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2), [Sch. 23 Pt. 1](https://www.legislation.gov.uk/ukpga/2004/20/schedule/23/part/1); [S.I. 2004/2184](https://www.legislation.gov.uk/uksi/2004/2184), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/2184/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/2184/schedule/2)
+[^c-adcef2e525395f97695bab3425230e2d]: Textual amendment: [S. 53(5)](https://www.legislation.gov.uk/ukpga/2000/27/section/53/5) repealed (1.9.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [s. 198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2), [Sch. 23 Pt. 1](https://www.legislation.gov.uk/ukpga/2004/20/schedule/23/part/1); [S.I. 2004/2184](https://www.legislation.gov.uk/uksi/2004/2184), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/2184/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/2184/schedule/2)

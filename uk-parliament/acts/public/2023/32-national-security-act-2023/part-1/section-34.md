@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Interpretation[^key-8539e2bba18c22ccdd40c02a2a2321f0][^key-5ea8623e8f56bdd34681885c6e97a74c]
+## 34. Interpretation[^c-8539e2bba18c22ccdd40c02a2a2321f0][^c-5ea8623e8f56bdd34681885c6e97a74c]
 
 *Extent: E+W+S+N.I.*
 
 (1) In this Part—
 
-- “[^key-ee8109a6d85607047f5791663c059eeb]**the Commission**” means the Proscribed Organisations Appeal Commission established under section 5(1) of the Terrorism Act 2000;
+- “[^c-ee8109a6d85607047f5791663c059eeb]**the Commission**” means the Proscribed Organisations Appeal Commission established under section 5(1) of the Terrorism Act 2000;
 - “**conduct**” includes omissions and statements;
 - “**designated body**” has the meaning given by section 33A(3);
 - “**the designated body condition**” has the meaning given by section 33B;
@@ -49,8 +49,8 @@ summary: ''
 
 ## Annotations
 
-[^key-8539e2bba18c22ccdd40c02a2a2321f0]: Commencement: S. 34 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-8539e2bba18c22ccdd40c02a2a2321f0]: Commencement: S. 34 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
 
-[^key-5ea8623e8f56bdd34681885c6e97a74c]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2023/32/section/34) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-5ea8623e8f56bdd34681885c6e97a74c]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2023/32/section/34) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
 
-[^key-ee8109a6d85607047f5791663c059eeb]: Textual amendment: Words in [s. 34(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/34/1) inserted (8.7.2026) by [National Security (State Threats) Act 2026 (c. 24)](https://www.legislation.gov.uk/ukpga/2026/24), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1), [Sch. para. 25](https://www.legislation.gov.uk/ukpga/2026/24/schedule/paragraph/25)
+[^c-ee8109a6d85607047f5791663c059eeb]: Textual amendment: Words in [s. 34(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/34/1) inserted (8.7.2026) by [National Security (State Threats) Act 2026 (c. 24)](https://www.legislation.gov.uk/ukpga/2026/24), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1), [Sch. para. 25](https://www.legislation.gov.uk/ukpga/2026/24/schedule/paragraph/25)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 661E. Tax treatment of gifts of money from companies[^key-37ac5cb2f8a447f7933520f03a795e92]
+## 661E. Tax treatment of gifts of money from companies[^c-37ac5cb2f8a447f7933520f03a795e92]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ If a registered club receives a gift of a sum of money from a company which is n
 
 ## Annotations
 
-[^key-37ac5cb2f8a447f7933520f03a795e92]: Textual amendment: S. 661E inserted (with effect in accordance with s. 35(13) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 35(9)](https://www.legislation.gov.uk/ukpga/2014/26/section/35/9)
+[^c-37ac5cb2f8a447f7933520f03a795e92]: Textual amendment: S. 661E inserted (with effect in accordance with s. 35(13) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 35(9)](https://www.legislation.gov.uk/ukpga/2014/26/section/35/9)

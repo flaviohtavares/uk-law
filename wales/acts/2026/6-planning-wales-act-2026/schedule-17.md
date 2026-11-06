@@ -26,11 +26,11 @@ summary: ''
 
 ### PART 1 — PROCEDURE FOR ORDERS MADE BY THE WELSH MINISTERS
 
-#### 1. Application of this Part[^key-7319fd46c40cc16548499f5bb5906382]
+#### 1. Application of this Part[^c-7319fd46c40cc16548499f5bb5906382]
 
 This Part applies to orders under sections 280, 281, 286, 287 and 297.
 
-#### 2. Publication of notice of proposed order[^key-ed529138b3c716237d7fef6b4159df50]
+#### 2. Publication of notice of proposed order[^c-ed529138b3c716237d7fef6b4159df50]
 
 (1) Before making an order, the Welsh Ministers must publish notice that they propose to make the order in—
 
@@ -50,7 +50,7 @@ This Part applies to orders under sections 280, 281, 286, 287 and 297.
 - “**the objection period**” (“***y cyfnod gwrthwynebu***”) means 28 days beginning with the day after the day the notice is published;
 - “**the relevant area**” (“***yr ardal berthnasol***”) means the area in which any highway or land to which the order relates is situated.
 
-#### 3. Service and display of notice of proposed order[^key-b9e46b1a8604269c4da219707b5d6c8d]
+#### 3. Service and display of notice of proposed order[^c-b9e46b1a8604269c4da219707b5d6c8d]
 
 (1) On or before the day they publish a notice under paragraph 2, the Welsh Ministers must serve on the persons mentioned in sub-paragraph (2) copies of—
 
@@ -96,7 +96,7 @@ This Part applies to orders under sections 280, 281, 286, 287 and 297.
   - (e) Natural Resources Wales;
   - (f) the Environment Agency.
 
-#### 4. Consideration of objections and making of order[^key-32218d40ab404d0b8d64f32bc536d3b0]
+#### 4. Consideration of objections and making of order[^c-32218d40ab404d0b8d64f32bc536d3b0]
 
 (1) The Welsh Ministers must cause a local inquiry to be held if—
 
@@ -117,7 +117,7 @@ This Part applies to orders under sections 280, 281, 286, 287 and 297.
 
 (4) The Welsh Ministers may make the order with or without modifications.
 
-#### 5. Certain orders to be subject to special Senedd procedure[^key-0a485fe1629198853992b4b1762918e9]
+#### 5. Certain orders to be subject to special Senedd procedure[^c-0a485fe1629198853992b4b1762918e9]
 
 An order under section 280, 281, 286 or 287 is subject to special Senedd procedure if—
 
@@ -125,7 +125,7 @@ An order under section 280, 281, 286 or 287 is subject to special Senedd procedu
 - (b) a person who would be required to make the payment or contribution objects to the provision before the end of the objection period, and
 - (c) the objection is not withdrawn.
 
-#### 6. Notice of making of order[^key-b00e084eaf66bef76c1623d797732ce5]
+#### 6. Notice of making of order[^c-b00e084eaf66bef76c1623d797732ce5]
 
 (1) Immediately after making an order, the Welsh Ministers must publish notice that they have made the order in—
 
@@ -136,7 +136,7 @@ An order under section 280, 281, 286 or 287 is subject to special Senedd procedu
 
 (3) Paragraph 3 applies to a notice under this paragraph as it applies to a notice under paragraph 2.
 
-#### 7. Interpretation[^key-ae77046ed0dbc81781b6f708f3c9caf2]
+#### 7. Interpretation[^c-ae77046ed0dbc81781b6f708f3c9caf2]
 
 (1) In this Part “the objection period” and “the relevant area” have the meanings given by paragraph 2(4).
 
@@ -144,15 +144,15 @@ An order under section 280, 281, 286 or 287 is subject to special Senedd procedu
 
 ### PART 2 — PROCEDURE FOR ORDERS MADE BY PLANNING AUTHORITIES AND OTHER LOCAL AUTHORITIES
 
-#### 8. Application of this Part[^key-2aa5ef1c9b8441b22fbd7948f75f84e5]
+#### 8. Application of this Part[^c-2aa5ef1c9b8441b22fbd7948f75f84e5]
 
 This Part applies to orders made under sections 293 and 300.
 
-#### 9. Duties of planning authority or local authority[^key-d32cd5b2d772fce4ae0fef1340f8dee5]
+#### 9. Duties of planning authority or local authority[^c-d32cd5b2d772fce4ae0fef1340f8dee5]
 
 Before submitting an order to the Welsh Ministers for confirmation or confirming an order as an unopposed order, the authority that made the order must comply with paragraphs 10 and 11.
 
-#### 10. Publication of notice of order[^key-7c41b9c4ebf51e428e64318515effa7a]
+#### 10. Publication of notice of order[^c-7c41b9c4ebf51e428e64318515effa7a]
 
 (1) The authority must publish in at least one newspaper circulating in the relevant area notice that it has made the order and that it intends to submit the order for confirmation or confirm it as an unopposed order.
 
@@ -168,7 +168,7 @@ Before submitting an order to the Welsh Ministers for confirmation or confirming
 
 (4) In this Part “**the relevant area**” means the area in which the land to which the order relates is situated.
 
-#### 11. Service and display of notice of order[^key-6f49b55d9804b0d1d24b15d9c205b801]
+#### 11. Service and display of notice of order[^c-6f49b55d9804b0d1d24b15d9c205b801]
 
 (1) At least 28 days before the end of the period specified in the notice published under paragraph 10, the authority must—
 
@@ -220,7 +220,7 @@ and in this sub-paragraph “**specified**” means specified in the request.
   - (a) a tenant for a month or less;
   - (b) a statutory tenant within the meaning of the Rent Act [1977 (c. 42)](https://www.legislation.gov.uk/ukpga/1977/42) (see section 2 of that Act).
 
-#### 12. Confirmation of order as unopposed order[^key-4dfa4139eb4e4e52a236e4dbf076a66f]
+#### 12. Confirmation of order as unopposed order[^c-4dfa4139eb4e4e52a236e4dbf076a66f]
 
 (1) This paragraph applies if—
 
@@ -231,7 +231,7 @@ and in this sub-paragraph “**specified**” means specified in the request.
 
 (3) The authority must confirm the order without any modifications.
 
-#### 13. Consideration of objections[^key-4c3ce14c59658d9c989f8f5d424fa3d0]
+#### 13. Consideration of objections[^c-4c3ce14c59658d9c989f8f5d424fa3d0]
 
 (1) This paragraph applies if—
 
@@ -269,7 +269,7 @@ and in this sub-paragraph “**specified**” means specified in the request.
 - (a) a local authority, within the meaning given by section 336(1) of the Town and Country Planning Act [1990 (c. 8)](https://www.legislation.gov.uk/ukpga/1990/8), for an area in England, and
 - (b) a National Park authority for a National Park in England.
 
-#### 14. Decisions to be made by inspectors[^key-989ee1d9b2ac4f48af559dd35a0eb26a]
+#### 14. Decisions to be made by inspectors[^c-989ee1d9b2ac4f48af559dd35a0eb26a]
 
 (1) A decision under paragraph 13 is to be made by an inspector instead of by the Welsh Ministers unless—
 
@@ -291,7 +291,7 @@ and in this sub-paragraph “**specified**” means specified in the request.
 
 (5) Where by virtue of sub-paragraph (1)(b) or (4) a decision is to be made by the Welsh Ministers or a new inspector instead of by the inspector who was first appointed to make it, anything done by or in relation to the first inspector is to be treated as having been done by or in relation to the Welsh Ministers or the new inspector (as the case may be).
 
-#### 15. Special provision about orders under section 293 affecting statutory undertakers[^key-bf1fd28c6919fef26884f6f34574bf37]
+#### 15. Special provision about orders under section 293 affecting statutory undertakers[^c-bf1fd28c6919fef26884f6f34574bf37]
 
 (1) An order under section 293 is subject to special Senedd procedure if—
 
@@ -306,7 +306,7 @@ and in this sub-paragraph “**specified**” means specified in the request.
 
 (5) If a question arises under this paragraph about whether the withholding of consent is unreasonable, or whether any requirement of a statutory undertaker is reasonable, the question is to be determined by the appropriate Minister.
 
-#### 16. Notice of confirmation of order[^key-dfe6448601c80c9f9c6c6aadce1d2937]
+#### 16. Notice of confirmation of order[^c-dfe6448601c80c9f9c6c6aadce1d2937]
 
 (1) As soon as possible after an order is confirmed, the authority that made the order must comply with the following provisions of this paragraph.
 
@@ -331,11 +331,11 @@ and in this sub-paragraph “**specified**” means specified in the request.
 
 (6) The authority must cause copies of the notice that the order has been confirmed to be displayed in the ways described in paragraph 11(4).
 
-#### 17. Notice of decision not to confirm order[^key-7bf7afbdc46e4153192418216a2a1d1c]
+#### 17. Notice of decision not to confirm order[^c-7bf7afbdc46e4153192418216a2a1d1c]
 
 As soon as possible after a decision is made not to confirm an order, the authority that made the order must serve notice of the decision on every person on whom paragraph 11 required it to serve a notice.
 
-#### 18. Notice that order has come into force[^key-d34f6c63b6bb8a8f37aab2d48cf4ff59]
+#### 18. Notice that order has come into force[^c-d34f6c63b6bb8a8f37aab2d48cf4ff59]
 
 (1) This paragraph applies where an order comes into force otherwise than—
 
@@ -344,52 +344,52 @@ As soon as possible after a decision is made not to confirm an order, the author
 
 (2) As soon as possible after the order comes into force, the authority that made the order must publish notice that it has come into force in at least one newspaper circulating in the relevant area.
 
-#### 19. Power to make further provision about procedure[^key-de2b0a02710fd2434e349224618af819]
+#### 19. Power to make further provision about procedure[^c-de2b0a02710fd2434e349224618af819]
 
 Regulations may make further provision about the procedure to be followed in connection with the making, submission and confirmation of orders under sections 293 and 300.
 
-#### 20. Interpretation[^key-91ac0c097da34b19d734bec60f1032d7]
+#### 20. Interpretation[^c-91ac0c097da34b19d734bec60f1032d7]
 
 In this Part “**the relevant area**” has the meaning given by paragraph 10(4).
 
 ## Annotations
 
-[^key-7319fd46c40cc16548499f5bb5906382]: Commencement: Sch. 17 para. 1 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-7319fd46c40cc16548499f5bb5906382]: Commencement: Sch. 17 para. 1 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-ed529138b3c716237d7fef6b4159df50]: Commencement: Sch. 17 para. 2 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-ed529138b3c716237d7fef6b4159df50]: Commencement: Sch. 17 para. 2 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-b9e46b1a8604269c4da219707b5d6c8d]: Commencement: Sch. 17 para. 3 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-b9e46b1a8604269c4da219707b5d6c8d]: Commencement: Sch. 17 para. 3 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-32218d40ab404d0b8d64f32bc536d3b0]: Commencement: Sch. 17 para. 4 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-32218d40ab404d0b8d64f32bc536d3b0]: Commencement: Sch. 17 para. 4 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-0a485fe1629198853992b4b1762918e9]: Commencement: Sch. 17 para. 5 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-0a485fe1629198853992b4b1762918e9]: Commencement: Sch. 17 para. 5 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-b00e084eaf66bef76c1623d797732ce5]: Commencement: Sch. 17 para. 6 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-b00e084eaf66bef76c1623d797732ce5]: Commencement: Sch. 17 para. 6 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-ae77046ed0dbc81781b6f708f3c9caf2]: Commencement: Sch. 17 para. 7 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-ae77046ed0dbc81781b6f708f3c9caf2]: Commencement: Sch. 17 para. 7 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-2aa5ef1c9b8441b22fbd7948f75f84e5]: Commencement: Sch. 17 para. 8 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-2aa5ef1c9b8441b22fbd7948f75f84e5]: Commencement: Sch. 17 para. 8 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-d32cd5b2d772fce4ae0fef1340f8dee5]: Commencement: Sch. 17 para. 9 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-d32cd5b2d772fce4ae0fef1340f8dee5]: Commencement: Sch. 17 para. 9 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-7c41b9c4ebf51e428e64318515effa7a]: Commencement: Sch. 17 para. 10 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-7c41b9c4ebf51e428e64318515effa7a]: Commencement: Sch. 17 para. 10 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-6f49b55d9804b0d1d24b15d9c205b801]: Commencement: Sch. 17 para. 11 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-6f49b55d9804b0d1d24b15d9c205b801]: Commencement: Sch. 17 para. 11 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-4dfa4139eb4e4e52a236e4dbf076a66f]: Commencement: Sch. 17 para. 12 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-4dfa4139eb4e4e52a236e4dbf076a66f]: Commencement: Sch. 17 para. 12 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-4c3ce14c59658d9c989f8f5d424fa3d0]: Commencement: Sch. 17 para. 13 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-4c3ce14c59658d9c989f8f5d424fa3d0]: Commencement: Sch. 17 para. 13 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-989ee1d9b2ac4f48af559dd35a0eb26a]: Commencement: Sch. 17 para. 14 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-989ee1d9b2ac4f48af559dd35a0eb26a]: Commencement: Sch. 17 para. 14 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-bf1fd28c6919fef26884f6f34574bf37]: Commencement: Sch. 17 para. 15 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-bf1fd28c6919fef26884f6f34574bf37]: Commencement: Sch. 17 para. 15 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-dfe6448601c80c9f9c6c6aadce1d2937]: Commencement: Sch. 17 para. 16 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-dfe6448601c80c9f9c6c6aadce1d2937]: Commencement: Sch. 17 para. 16 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-7bf7afbdc46e4153192418216a2a1d1c]: Commencement: Sch. 17 para. 17 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-7bf7afbdc46e4153192418216a2a1d1c]: Commencement: Sch. 17 para. 17 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-d34f6c63b6bb8a8f37aab2d48cf4ff59]: Commencement: Sch. 17 para. 18 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-d34f6c63b6bb8a8f37aab2d48cf4ff59]: Commencement: Sch. 17 para. 18 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-de2b0a02710fd2434e349224618af819]: Commencement: Sch. 17 para. 19 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-de2b0a02710fd2434e349224618af819]: Commencement: Sch. 17 para. 19 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-91ac0c097da34b19d734bec60f1032d7]: Commencement: Sch. 17 para. 20 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-91ac0c097da34b19d734bec60f1032d7]: Commencement: Sch. 17 para. 20 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

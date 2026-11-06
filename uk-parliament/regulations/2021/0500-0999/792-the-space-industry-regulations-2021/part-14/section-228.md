@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 228. Information notices[^key-8cafcb941c969917a88df544c78f1d1c]
+## 228. Information notices[^c-8cafcb941c969917a88df544c78f1d1c]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8cafcb941c969917a88df544c78f1d1c]: Commencement: Reg. 228 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-8cafcb941c969917a88df544c78f1d1c]: Commencement: Reg. 228 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 259HA. Circumstances in which the Chapter applies[^key-e6cb61b3ef4cc5200df455650e5d69a3]
+## 259HA. Circumstances in which the Chapter applies[^c-e6cb61b3ef4cc5200df455650e5d69a3]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,7 +31,7 @@ summary: ''
 - (a) it is resident in a territory (“the parent jurisdiction”) for tax purposes under the law of that territory, and
 - (b) it is regarded as carrying on a business in another territory (“the PE jurisdiction”) through a permanent establishment in that territory (whether it is so regarded under the law of the parent jurisdiction, the PE jurisdiction or any other territory).
 
-(5)[^key-e0c93efc869b3c0d0199f688cf474e64] Condition C is that—
+(5)[^c-e0c93efc869b3c0d0199f688cf474e64] Condition C is that—
 
 - (a) the payer is within the charge to corporation tax for the payment period, or
 - (b) the multinational company—
@@ -64,8 +64,8 @@ summary: ''
 
 ## Annotations
 
-[^key-e6cb61b3ef4cc5200df455650e5d69a3]: Textual amendment: Pt. 6A inserted (with effect in accordance with Sch. 10 paras. 18-21 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/10/paragraph/1)
+[^c-e6cb61b3ef4cc5200df455650e5d69a3]: Textual amendment: Pt. 6A inserted (with effect in accordance with Sch. 10 paras. 18-21 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/10/paragraph/1)
 
-[^key-e0c93efc869b3c0d0199f688cf474e64]: Textual amendment: S. 259HA(5) substituted (with effect in accordance with s. 19(5)(6) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 19(2)(a)](https://www.legislation.gov.uk/ukpga/2019/1/section/19/2/a)
+[^c-e0c93efc869b3c0d0199f688cf474e64]: Textual amendment: S. 259HA(5) substituted (with effect in accordance with s. 19(5)(6) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 19(2)(a)](https://www.legislation.gov.uk/ukpga/2019/1/section/19/2/a)
 
 [^M_F_cdad0e84-e6d0-45b3-cf40-cd3c60853296]: Textual amendment: Word in s. 259HA(9)(a) substituted (retrospective to 15.9.2016) by the [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 19(2)(b)(7)](https://www.legislation.gov.uk/ukpga/2019/1/section/19/2/b/7)

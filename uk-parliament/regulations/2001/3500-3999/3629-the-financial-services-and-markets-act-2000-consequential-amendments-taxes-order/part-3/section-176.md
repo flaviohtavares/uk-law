@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 176. Account manager ceasing to qualify[^key-71281002cf8ed6a004dbe79631977e7c]
+## 176. Account manager ceasing to qualify[^c-71281002cf8ed6a004dbe79631977e7c]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In regulation 20(1)(d) (account manager ceasing to qualify)—
 
 ## Annotations
 
-[^key-71281002cf8ed6a004dbe79631977e7c]: Commencement: Art. 176 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
+[^c-71281002cf8ed6a004dbe79631977e7c]: Commencement: Art. 176 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)

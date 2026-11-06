@@ -27,7 +27,7 @@ summary: ''
 - (a) shall make a declaration to that effect, and
 - (b) shall make an award to be paid by the employer to the complainant in respect of the offer complained of.
 
-(3) The amount of the award shall be £5,993[^key-986f29f85160708c975049c4aed2b6d0] (subject to any adjustment of the award that may fall to be made under Part 3 of the Employment Act 2002).
+(3) The amount of the award shall be £5,993[^c-986f29f85160708c975049c4aed2b6d0] (subject to any adjustment of the award that may fall to be made under Part 3 of the Employment Act 2002).
 
 (4) Where an offer made in contravention of section 145A or 145B is accepted—
 
@@ -45,4 +45,4 @@ summary: ''
 
 [^c20383931]: Textual amendment: Ss. 145A-145F and cross-heading inserted (1.10.2004) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 29](https://www.legislation.gov.uk/ukpga/2004/24/section/29), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2); [S.I. 2004/2566](https://www.legislation.gov.uk/uksi/2004/2566), [art. 3(a)](https://www.legislation.gov.uk/uksi/2004/2566/article/3/a) (with [arts. 4-8](https://www.legislation.gov.uk/uksi/2004/2566/article/4))
 
-[^key-986f29f85160708c975049c4aed2b6d0]: Textual amendment: Sum in s. 145E(3) substituted (6.4.2026) by [The Employment Rights (Increase of Limits) Order 2026 (S.I. 2026/310)](https://www.legislation.gov.uk/uksi/2026/310), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/310/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2026/310/schedule) (with [art. 4](https://www.legislation.gov.uk/uksi/2026/310/article/4))
+[^c-986f29f85160708c975049c4aed2b6d0]: Textual amendment: Sum in s. 145E(3) substituted (6.4.2026) by [The Employment Rights (Increase of Limits) Order 2026 (S.I. 2026/310)](https://www.legislation.gov.uk/uksi/2026/310), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/310/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2026/310/schedule) (with [art. 4](https://www.legislation.gov.uk/uksi/2026/310/article/4))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33A. Winding up of a master UCITS[^key-8fe4d2911b02d39e0acbf2c7c82fa581]
+## 33A. Winding up of a master UCITS[^c-8fe4d2911b02d39e0acbf2c7c82fa581]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,10 +29,10 @@ summary: ''
 (4) The conditions set out in paragraphs (2) and (3) are—
 
 - (a) the Authority approves under section 283A of the Act the investment by the feeder UCITS of at least 85% of its assets in units of another UCITS or master UCITS; or
-- (b) the Authority approves under regulation 22A an amendment of the instrument of incorporation of the company which would enable it to convert into a UK[^key-98756d922ca7938e37afe7ec7c9c2cf3] UCITS which is not a feeder UCITS.
+- (b) the Authority approves under regulation 22A an amendment of the instrument of incorporation of the company which would enable it to convert into a UK[^c-98756d922ca7938e37afe7ec7c9c2cf3] UCITS which is not a feeder UCITS.
 
 ## Annotations
 
-[^key-8fe4d2911b02d39e0acbf2c7c82fa581]: Textual amendment: Regs. 33A, 33B inserted (1.7.2011) by [The Undertakings for Collective Investment in Transferable Securities Regulations 2011 (S.I. 2011/1613)](https://www.legislation.gov.uk/uksi/2011/1613), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1613/regulation/1), [3(6)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/3/6)
+[^c-8fe4d2911b02d39e0acbf2c7c82fa581]: Textual amendment: Regs. 33A, 33B inserted (1.7.2011) by [The Undertakings for Collective Investment in Transferable Securities Regulations 2011 (S.I. 2011/1613)](https://www.legislation.gov.uk/uksi/2011/1613), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1613/regulation/1), [3(6)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/3/6)
 
-[^key-98756d922ca7938e37afe7ec7c9c2cf3]: Textual amendment: Word in [reg. 33A(4)(b)](https://www.legislation.gov.uk/uksi/2001/1228/regulation/33A/4/b) inserted (31.12.2020) by [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [52(10)](https://www.legislation.gov.uk/uksi/2019/325/regulation/52/10) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-98756d922ca7938e37afe7ec7c9c2cf3]: Textual amendment: Word in [reg. 33A(4)(b)](https://www.legislation.gov.uk/uksi/2001/1228/regulation/33A/4/b) inserted (31.12.2020) by [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [52(10)](https://www.legislation.gov.uk/uksi/2019/325/regulation/52/10) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

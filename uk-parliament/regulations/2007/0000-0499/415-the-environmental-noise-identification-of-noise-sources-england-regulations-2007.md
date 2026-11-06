@@ -32,7 +32,7 @@ summary: ''
 
 Environmental protection, England
 
-The Environmental Noise (Identification of Noise Sources) (England) Regulations 2007 (revoked)[^key-3a1b139f15e0d2c6e73aa61142a250cb]
+The Environmental Noise (Identification of Noise Sources) (England) Regulations 2007 (revoked)[^c-3a1b139f15e0d2c6e73aa61142a250cb]
 
 Made
 
@@ -46,57 +46,57 @@ Coming into force
 
 19th March 2007
 
-[^key-3a1b139f15e0d2c6e73aa61142a250cb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3a1b139f15e0d2c6e73aa61142a250cb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-3a1b139f15e0d2c6e73aa61142a250cb]
+## 1. Citation, commencement and application[^c-3a1b139f15e0d2c6e73aa61142a250cb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-3a1b139f15e0d2c6e73aa61142a250cb]
+## 2. Interpretation[^c-3a1b139f15e0d2c6e73aa61142a250cb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. First round agglomerations[^key-3a1b139f15e0d2c6e73aa61142a250cb]
+## 3. First round agglomerations[^c-3a1b139f15e0d2c6e73aa61142a250cb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. First round major roads[^key-3a1b139f15e0d2c6e73aa61142a250cb]
+## 4. First round major roads[^c-3a1b139f15e0d2c6e73aa61142a250cb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. First round major railways[^key-3a1b139f15e0d2c6e73aa61142a250cb]
+## 5. First round major railways[^c-3a1b139f15e0d2c6e73aa61142a250cb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Major airports[^key-3a1b139f15e0d2c6e73aa61142a250cb]
+## 6. Major airports[^c-3a1b139f15e0d2c6e73aa61142a250cb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3a1b139f15e0d2c6e73aa61142a250cb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3a1b139f15e0d2c6e73aa61142a250cb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — First round agglomerations[^key-3a1b139f15e0d2c6e73aa61142a250cb]
+## SCHEDULE 1 — First round agglomerations[^c-3a1b139f15e0d2c6e73aa61142a250cb]
 
 Regulation 3
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — First round major roads[^key-3a1b139f15e0d2c6e73aa61142a250cb]
+## SCHEDULE 2 — First round major roads[^c-3a1b139f15e0d2c6e73aa61142a250cb]
 
 Regulation 4
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — First round major railways[^key-3a1b139f15e0d2c6e73aa61142a250cb]
+## SCHEDULE 3 — First round major railways[^c-3a1b139f15e0d2c6e73aa61142a250cb]
 
 Regulation 5
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 4 — Major airports[^key-3a1b139f15e0d2c6e73aa61142a250cb]
+## SCHEDULE 4 — Major airports[^c-3a1b139f15e0d2c6e73aa61142a250cb]
 
 Regulation 6
 
@@ -104,7 +104,7 @@ Regulation 6
 
 **No longer in force.**
 
-[^key-3a1b139f15e0d2c6e73aa61142a250cb]EXPLANATORY NOTE
+[^c-3a1b139f15e0d2c6e73aa61142a250cb]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -116,4 +116,4 @@ A regulatory impact assessment has not been carried out in relation to these Reg
 
 ## Annotations
 
-[^key-3a1b139f15e0d2c6e73aa61142a250cb]: Textual amendment: Regulations revoked (1.12.2013) by [The Environmental Noise, Site Waste Management Plans and Spreadable Fats etc. (Revocations and Amendments) Regulations 2013 (S.I. 2013/2854)](https://www.legislation.gov.uk/uksi/2013/2854), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2013/2854/regulation/2/a)
+[^c-3a1b139f15e0d2c6e73aa61142a250cb]: Textual amendment: Regulations revoked (1.12.2013) by [The Environmental Noise, Site Waste Management Plans and Spreadable Fats etc. (Revocations and Amendments) Regulations 2013 (S.I. 2013/2854)](https://www.legislation.gov.uk/uksi/2013/2854), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2013/2854/regulation/2/a)

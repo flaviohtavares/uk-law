@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 15. Withdrawal of privilege against self–incrimination in certain proceedings relating to intellectual property.[^c1004330][^key-d41325e414825063ac45c04c19346656][^key-bf68f6ac6a831b794e9e2288af704ca7][^c1004329]
+## 15. Withdrawal of privilege against self–incrimination in certain proceedings relating to intellectual property.[^c1004330][^c-d41325e414825063ac45c04c19346656][^c-bf68f6ac6a831b794e9e2288af704ca7][^c1004329]
 
 *Extent: S*
 
@@ -64,9 +64,9 @@ Provided that this subsection shall not render ant such statement or admission i
 
 [^c1004330]: Modification: S. 15 extended (with modifications) by [S.I. 1987/1497](https://www.legislation.gov.uk/uksi/1987/1497)
 
-[^key-d41325e414825063ac45c04c19346656]: Modification: S. 15 applied (31.10.2003) by 1988 c. 48, ss. 296(7)(b), 296ZA(5)(b), 296ZD(6)(b) (as inserted by [The Copyright and Related Rights Regulations 2003 (S.I. 2003/2498)](https://www.legislation.gov.uk/uksi/2003/2498), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2498/regulation/1), [24(1)](https://www.legislation.gov.uk/uksi/2003/2498/regulation/24/1) (with [regs. 31-40](https://www.legislation.gov.uk/uksi/2003/2498/regulation/31)))
+[^c-d41325e414825063ac45c04c19346656]: Modification: S. 15 applied (31.10.2003) by 1988 c. 48, ss. 296(7)(b), 296ZA(5)(b), 296ZD(6)(b) (as inserted by [The Copyright and Related Rights Regulations 2003 (S.I. 2003/2498)](https://www.legislation.gov.uk/uksi/2003/2498), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2498/regulation/1), [24(1)](https://www.legislation.gov.uk/uksi/2003/2498/regulation/24/1) (with [regs. 31-40](https://www.legislation.gov.uk/uksi/2003/2498/regulation/31)))
 
-[^key-bf68f6ac6a831b794e9e2288af704ca7]: Modification: S. 15 applied (31.10.2003) by 1988 c. 48, s. 296ZG(6) (as inserted by [The Copyright and Related Rights Regulations 2003 (S.I. 2003/2498)](https://www.legislation.gov.uk/uksi/2003/2498), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2498/regulation/1), [25](https://www.legislation.gov.uk/uksi/2003/2498/regulation/25) (with [regs. 31-40](https://www.legislation.gov.uk/uksi/2003/2498/regulation/31)))
+[^c-bf68f6ac6a831b794e9e2288af704ca7]: Modification: S. 15 applied (31.10.2003) by 1988 c. 48, s. 296ZG(6) (as inserted by [The Copyright and Related Rights Regulations 2003 (S.I. 2003/2498)](https://www.legislation.gov.uk/uksi/2003/2498), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2498/regulation/1), [25](https://www.legislation.gov.uk/uksi/2003/2498/regulation/25) (with [regs. 31-40](https://www.legislation.gov.uk/uksi/2003/2498/regulation/31)))
 
 [^c1004329]: Modification: S. 15 extended by [Copyright, Designs and Patents Act 1988 (c. 48, SIF 67A)](https://www.legislation.gov.uk/ukpga/1988/48), [ss. 296(6)](https://www.legislation.gov.uk/ukpga/1988/48/section/296/6)(*b*), 298(4)
 

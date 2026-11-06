@@ -28,7 +28,7 @@ summary: ''
 - (aa)[^c17009571] an institution of further education;
 - (b) a college of education;
 - (c) a grant=aided institution or establishment; or
-- (d) an institution or establishment which is established, maintained or managed by the Authority[^key-b411148a1ff6ad3f10e8cd22b37183f6] or the activities of which are organised by the Authority .
+- (d) an institution or establishment which is established, maintained or managed by the Authority[^c-b411148a1ff6ad3f10e8cd22b37183f6] or the activities of which are organised by the Authority .
 
 (3) Inspections under this Article shall be conducted by—
 
@@ -58,6 +58,6 @@ summary: ''
 
 [^c17009571]: Textual amendment: [1997 NI 15](https://www.legislation.gov.uk/nisi/1997)
 
-[^key-b411148a1ff6ad3f10e8cd22b37183f6]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-b411148a1ff6ad3f10e8cd22b37183f6]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
 [^c19592781]: Textual amendment: Words in art. 102(7) substituted (1.8.2006) by [Education (Northern Ireland) Order 2006 (S.I. 2006/1915 (N.I. 11))](https://www.legislation.gov.uk/nisi/2006/1915), [arts. 1(2)](https://www.legislation.gov.uk/nisi/2006/1915/article/1/2), [44(1)](https://www.legislation.gov.uk/nisi/2006/1915/article/44/1), [Sch. 2 para. 5](https://www.legislation.gov.uk/nisi/2006/1915/schedule/2/paragraph/5)

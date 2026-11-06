@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 120. Regulation of cosmetic piercing and skin-colouring businesses[^key-8b19533d00f909a570460f0e326f29c5][^key-d5b529267a2670cc81f3668aa3da0756]
+## 120. Regulation of cosmetic piercing and skin-colouring businesses[^c-8b19533d00f909a570460f0e326f29c5][^c-d5b529267a2670cc81f3668aa3da0756]
 
 *Extent: E+W*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8b19533d00f909a570460f0e326f29c5]: Commencement: [S. 120](https://www.legislation.gov.uk/ukpga/2003/26/section/120) in force at 1.4.2004 for W. by [S.I. 2003/3034](https://www.legislation.gov.uk/wsi/2003/3034), [art. 2](https://www.legislation.gov.uk/wsi/2003/3034/article/2), [Sch. 1 Pt. II](https://www.legislation.gov.uk/wsi/2003/3034/schedule/1/part/II)
+[^c-8b19533d00f909a570460f0e326f29c5]: Commencement: [S. 120](https://www.legislation.gov.uk/ukpga/2003/26/section/120) in force at 1.4.2004 for W. by [S.I. 2003/3034](https://www.legislation.gov.uk/wsi/2003/3034), [art. 2](https://www.legislation.gov.uk/wsi/2003/3034/article/2), [Sch. 1 Pt. II](https://www.legislation.gov.uk/wsi/2003/3034/schedule/1/part/II)
 
-[^key-d5b529267a2670cc81f3668aa3da0756]: Commencement: [S. 120](https://www.legislation.gov.uk/ukpga/2003/26/section/120) in force at 1.4.2004 for E. by [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 7(a)](https://www.legislation.gov.uk/uksi/2003/2938/article/7/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule))
+[^c-d5b529267a2670cc81f3668aa3da0756]: Commencement: [S. 120](https://www.legislation.gov.uk/ukpga/2003/26/section/120) in force at 1.4.2004 for E. by [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 7(a)](https://www.legislation.gov.uk/uksi/2003/2938/article/7/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule))

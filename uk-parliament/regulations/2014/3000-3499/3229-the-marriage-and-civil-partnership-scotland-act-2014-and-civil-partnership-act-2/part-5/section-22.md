@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Power to dispense with requirements[^key-39724c96a3f5c5e281402de25c268875]
+## 22. Power to dispense with requirements[^c-39724c96a3f5c5e281402de25c268875]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-39724c96a3f5c5e281402de25c268875]: Commencement: Art. 22 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-39724c96a3f5c5e281402de25c268875]: Commencement: Art. 22 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)

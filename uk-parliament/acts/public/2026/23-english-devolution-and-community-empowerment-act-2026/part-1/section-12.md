@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Mayoral combined authorities and CCAs: precepts[^key-d6d6fe3f2db50401d27086ff71f590b5]
+## 12. Mayoral combined authorities and CCAs: precepts[^c-d6d6fe3f2db50401d27086ff71f590b5]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d6d6fe3f2db50401d27086ff71f590b5]: Commencement: S. 12 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-d6d6fe3f2db50401d27086ff71f590b5]: Commencement: S. 12 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)

@@ -111,7 +111,7 @@ These Regulations may be cited as the Water Supply (Water Quality) Regulations (
 
 (4) The Interpretation Act (Northern Ireland) 1954 shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly [^c22857321].
 
-(5)[^key-d0396518636f6cd43bcdbfe53449987f] In these Regulations, a reference to a Directive or an Euratom Directive is to be read as if any reference in that Directive to one or more Member States in a provision imposing an obligation or conferring a discretion on a Member State or Member States were a reference to the Department.
+(5)[^c-d0396518636f6cd43bcdbfe53449987f] In these Regulations, a reference to a Directive or an Euratom Directive is to be read as if any reference in that Directive to one or more Member States in a provision imposing an obligation or conferring a discretion on a Member State or Member States were a reference to the Department.
 
 ### 3. Water Supplies to which these Regulations apply
 
@@ -412,7 +412,7 @@ A water undertaker must take, or cause to be taken, from each of its service res
 
 (17) The Department may at any time, by notice in writing served on the water undertaker to which an authorisation under paragraphs (12) and (13) has been given, revoke the authorisation, but no such notice must be served later than three months before the date on which the revocation is stated to take effect.
 
-(18)[^key-05b6c74f3d33d7c9bccd322ca87a9fba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(18)[^c-05b6c74f3d33d7c9bccd322ca87a9fba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 6 — DEVIATION FROM MONITORING REQUIREMENTS OF GROUP A AND GROUP B MONITORING
 
@@ -456,7 +456,7 @@ A water undertaker must take, or cause to be taken, from each of its service res
 - (b) contains levels of tritium that are well below the specification; or
 - (c) contains levels of radon that are well below the specification.
 
-the Department must, by notice in writing, inform the water undertaker that the indicative dose parameter (item 10 in Schedule 2) or as the case may be the radon parameter (item 8 in that Schedule) or the tritium parameter (item 12 in that Schedule), need not be monitored and notice of this decision and supporting evidence must be published, in such manner as the Department considers appropriate[^key-1cd737ce3c6ce89e8a0f8f55676c3a53].
+the Department must, by notice in writing, inform the water undertaker that the indicative dose parameter (item 10 in Schedule 2) or as the case may be the radon parameter (item 8 in that Schedule) or the tritium parameter (item 12 in that Schedule), need not be monitored and notice of this decision and supporting evidence must be published, in such manner as the Department considers appropriate[^c-1cd737ce3c6ce89e8a0f8f55676c3a53].
 
 (8) A representative survey must be designed in such a way−
 
@@ -684,13 +684,13 @@ a copy of the application and of the statement, scheme and summary referred to i
 
 the particulars to be specified in the authorisation must be those required by paragraph (3)(a) (iii) and (ix), and sub-paragraphs (b) to (d) of that paragraph shall not apply.
 
-(5) Where it appears to the Department that a supply of water that fully satisfies the requirements of Part 3 cannot be restored by the end of the departure period, it may authorise a further two departures[^key-90e86e3a4d939b7db48db9d82df0e7c5].
+(5) Where it appears to the Department that a supply of water that fully satisfies the requirements of Part 3 cannot be restored by the end of the departure period, it may authorise a further two departures[^c-90e86e3a4d939b7db48db9d82df0e7c5].
 
 (6) Paragraphs (1) to (5) shall apply to a further departure as they apply to a departure authorised under regulation 24.
 
-(7)[^key-8a8127ce46d0aaa8ca691c3e8180b02f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-8a8127ce46d0aaa8ca691c3e8180b02f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-8a8127ce46d0aaa8ca691c3e8180b02f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-8a8127ce46d0aaa8ca691c3e8180b02f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 26. Authorisations: other limitations
 
@@ -868,15 +868,15 @@ the water undertaker must modify or replace its part of the pipe.
 
 (2) A substance or product which, at the time of its application or introduction—
 
-- (a)[^key-3aec53a32fcc014ed6ca3ff34f79c852] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) conforms to an appropriate British Standard or some other appropriate standard [^key-d96daeeef6a00f85dbc168beecb9c12b]... which provides an equivalent level of protection and performance,
+- (a)[^c-3aec53a32fcc014ed6ca3ff34f79c852] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) conforms to an appropriate British Standard or some other appropriate standard [^c-d96daeeef6a00f85dbc168beecb9c12b]... which provides an equivalent level of protection and performance,
 
 may be applied or introduced, notwithstanding that none of the requirements of paragraph (4) is satisfied.
 
 (3) Paragraph (2) applies only if such an application or introduction complies with—
 
 - (a) such conditions of use restricting the dosing concentration as are for the time being in force in relation to such substances and products pursuant to a determination of the Department by an notice in writing; and
-- (b)[^key-c2374f1e8d34938d43c60278ab720a31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-c2374f1e8d34938d43c60278ab720a31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The requirements of this paragraph are that—
 
@@ -918,7 +918,7 @@ may be applied or introduced, notwithstanding that none of the requirements of p
 - (a) by notice served on the person who makes an application for approval under paragraph (4)(a), require the person to pay the Department a charge which reflects the administrative expenses incurred or likely to be incurred by the Department in connection with the application; and
 - (b) in determining the amount of any such charge, adopt such methods and principles for its calculation as appear to the Department to be appropriate.
 
-- [^key-cf5377f1b4626bd6837e51fa0f618997]...
+- [^c-cf5377f1b4626bd6837e51fa0f618997]...
 
 ### 34. Use of processes
 
@@ -1497,7 +1497,7 @@ The radionuclides to be measured must be based on all relevant information about
 
 **2.** Calculation of the ID
 
-The ID must be calculated from the measured radionuclide concentrations and the dose coefficients referred to as “standard values and relationships” in Article 13, and recommended for the estimation of doses from internal exposure in the definition of “standard values and relationships” in Article 4(96), of the Council Directive 2013/59/Euratom laying down basic safety standards for the protection against the dangers arising from exposure to ionising radiation[^key-9f0c978c111a6985f26a08e644d3167a] or more recent information recognised by the Department, on the basis of the annual intake of water (730l for adults). Where the following formula is satisfied, it can be assumed that the ID is less than the parametric value if 0.1mSv and no further investigation is required.
+The ID must be calculated from the measured radionuclide concentrations and the dose coefficients referred to as “standard values and relationships” in Article 13, and recommended for the estimation of doses from internal exposure in the definition of “standard values and relationships” in Article 4(96), of the Council Directive 2013/59/Euratom laying down basic safety standards for the protection against the dangers arising from exposure to ionising radiation[^c-9f0c978c111a6985f26a08e644d3167a] or more recent information recognised by the Department, on the basis of the annual intake of water (730l for adults). Where the following formula is satisfied, it can be assumed that the ID is less than the parametric value if 0.1mSv and no further investigation is required.
 
 [formula: see source](https://www.legislation.gov.uk/nisr/2017/212)
 
@@ -1538,7 +1538,7 @@ Derived concentration for radioactivity in water intended for human consumption<
 </tbody>
 </table>
 
-[^key-991a32ce0ef3927865eaa995d50777f6]
+[^c-991a32ce0ef3927865eaa995d50777f6]
 
 **3.** Performance characteristics and method of analysis.
 
@@ -1646,15 +1646,15 @@ A regulatory impact assessment of the costs and benefits and the effect that thi
 
 [^c22857321]: Marginal citation: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-d0396518636f6cd43bcdbfe53449987f]: Textual amendment: [Reg. 2(5)](https://www.legislation.gov.uk/nisr/2017/212/regulation/2/5) inserted (31.12.2020) by [The Water (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/112)](https://www.legislation.gov.uk/uksi/2019/112), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/112/regulation/1/1), [14(2)](https://www.legislation.gov.uk/uksi/2019/112/regulation/14/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d0396518636f6cd43bcdbfe53449987f]: Textual amendment: [Reg. 2(5)](https://www.legislation.gov.uk/nisr/2017/212/regulation/2/5) inserted (31.12.2020) by [The Water (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/112)](https://www.legislation.gov.uk/uksi/2019/112), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/112/regulation/1/1), [14(2)](https://www.legislation.gov.uk/uksi/2019/112/regulation/14/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-05b6c74f3d33d7c9bccd322ca87a9fba]: Textual amendment: [Reg. 18(18)](https://www.legislation.gov.uk/nisr/2017/212/regulation/18/18) omitted (31.12.2020) by virtue of [The Water (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/112)](https://www.legislation.gov.uk/uksi/2019/112), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/112/regulation/1/1), [14(3)](https://www.legislation.gov.uk/uksi/2019/112/regulation/14/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-05b6c74f3d33d7c9bccd322ca87a9fba]: Textual amendment: [Reg. 18(18)](https://www.legislation.gov.uk/nisr/2017/212/regulation/18/18) omitted (31.12.2020) by virtue of [The Water (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/112)](https://www.legislation.gov.uk/uksi/2019/112), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/112/regulation/1/1), [14(3)](https://www.legislation.gov.uk/uksi/2019/112/regulation/14/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1cd737ce3c6ce89e8a0f8f55676c3a53]: Textual amendment: Words in [reg. 19(7)](https://www.legislation.gov.uk/nisr/2017/212/regulation/19/7) substituted (31.12.2020) by [The Water (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/112)](https://www.legislation.gov.uk/uksi/2019/112), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/112/regulation/1/1), [14(4)](https://www.legislation.gov.uk/uksi/2019/112/regulation/14/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1cd737ce3c6ce89e8a0f8f55676c3a53]: Textual amendment: Words in [reg. 19(7)](https://www.legislation.gov.uk/nisr/2017/212/regulation/19/7) substituted (31.12.2020) by [The Water (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/112)](https://www.legislation.gov.uk/uksi/2019/112), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/112/regulation/1/1), [14(4)](https://www.legislation.gov.uk/uksi/2019/112/regulation/14/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-90e86e3a4d939b7db48db9d82df0e7c5]: Textual amendment: Words in [reg. 25(5)](https://www.legislation.gov.uk/nisr/2017/212/regulation/25/5) substituted (31.12.2020) by [The Water (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/112)](https://www.legislation.gov.uk/uksi/2019/112), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/112/regulation/1/1), [14(5)(a)](https://www.legislation.gov.uk/uksi/2019/112/regulation/14/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-90e86e3a4d939b7db48db9d82df0e7c5]: Textual amendment: Words in [reg. 25(5)](https://www.legislation.gov.uk/nisr/2017/212/regulation/25/5) substituted (31.12.2020) by [The Water (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/112)](https://www.legislation.gov.uk/uksi/2019/112), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/112/regulation/1/1), [14(5)(a)](https://www.legislation.gov.uk/uksi/2019/112/regulation/14/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8a8127ce46d0aaa8ca691c3e8180b02f]: Textual amendment: [Reg. 25(7)](https://www.legislation.gov.uk/nisr/2017/212/regulation/25/7)[(8)](https://www.legislation.gov.uk/nisr/2017/212/regulation/25/8) omitted (31.12.2020) by virtue of [The Water (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/112)](https://www.legislation.gov.uk/uksi/2019/112), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/112/regulation/1/1), [14(5)(b)](https://www.legislation.gov.uk/uksi/2019/112/regulation/14/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8a8127ce46d0aaa8ca691c3e8180b02f]: Textual amendment: [Reg. 25(7)](https://www.legislation.gov.uk/nisr/2017/212/regulation/25/7)[(8)](https://www.legislation.gov.uk/nisr/2017/212/regulation/25/8) omitted (31.12.2020) by virtue of [The Water (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/112)](https://www.legislation.gov.uk/uksi/2019/112), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/112/regulation/1/1), [14(5)(b)](https://www.legislation.gov.uk/uksi/2019/112/regulation/14/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22857331]: Marginal citation: This standard was approved by the European Committee for Standardization (CEN) on 5th July 2013. Under reference BS
 
@@ -1662,16 +1662,16 @@ A regulatory impact assessment of the costs and benefits and the effect that thi
 
 [^c22857341]: Marginal citation: S.R. [2017 No.81](https://www.legislation.gov.uk/ukcm/2017/81)
 
-[^key-3aec53a32fcc014ed6ca3ff34f79c852]: Textual amendment: [Reg. 33(2)(a)](https://www.legislation.gov.uk/nisr/2017/212/regulation/33/2/a) and word omitted (31.12.2020) by virtue of [The Water (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/112)](https://www.legislation.gov.uk/uksi/2019/112), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/112/regulation/1/1), [14(6)(a)](https://www.legislation.gov.uk/uksi/2019/112/regulation/14/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3aec53a32fcc014ed6ca3ff34f79c852]: Textual amendment: [Reg. 33(2)(a)](https://www.legislation.gov.uk/nisr/2017/212/regulation/33/2/a) and word omitted (31.12.2020) by virtue of [The Water (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/112)](https://www.legislation.gov.uk/uksi/2019/112), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/112/regulation/1/1), [14(6)(a)](https://www.legislation.gov.uk/uksi/2019/112/regulation/14/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d96daeeef6a00f85dbc168beecb9c12b]: Textual amendment: Words in [reg. 33(2)(b)](https://www.legislation.gov.uk/nisr/2017/212/regulation/33/2/b) omitted (31.12.2020) by virtue of [The Water (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/112)](https://www.legislation.gov.uk/uksi/2019/112), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/112/regulation/1/1), [14(6)(b)](https://www.legislation.gov.uk/uksi/2019/112/regulation/14/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d96daeeef6a00f85dbc168beecb9c12b]: Textual amendment: Words in [reg. 33(2)(b)](https://www.legislation.gov.uk/nisr/2017/212/regulation/33/2/b) omitted (31.12.2020) by virtue of [The Water (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/112)](https://www.legislation.gov.uk/uksi/2019/112), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/112/regulation/1/1), [14(6)(b)](https://www.legislation.gov.uk/uksi/2019/112/regulation/14/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c2374f1e8d34938d43c60278ab720a31]: Textual amendment: [Reg. 33(3)(b)](https://www.legislation.gov.uk/nisr/2017/212/regulation/33/3/b) omitted (31.12.2020) by virtue of [The Water (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/112)](https://www.legislation.gov.uk/uksi/2019/112), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/112/regulation/1/1), [14(6)(c)](https://www.legislation.gov.uk/uksi/2019/112/regulation/14/6/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c2374f1e8d34938d43c60278ab720a31]: Textual amendment: [Reg. 33(3)(b)](https://www.legislation.gov.uk/nisr/2017/212/regulation/33/3/b) omitted (31.12.2020) by virtue of [The Water (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/112)](https://www.legislation.gov.uk/uksi/2019/112), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/112/regulation/1/1), [14(6)(c)](https://www.legislation.gov.uk/uksi/2019/112/regulation/14/6/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-cf5377f1b4626bd6837e51fa0f618997]: Textual amendment: Words in [reg. 33(14)](https://www.legislation.gov.uk/nisr/2017/212/regulation/33/14) omitted (31.12.2020) by virtue of [The Water (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/112)](https://www.legislation.gov.uk/uksi/2019/112), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/112/regulation/1/1), [14(6)(d)](https://www.legislation.gov.uk/uksi/2019/112/regulation/14/6/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cf5377f1b4626bd6837e51fa0f618997]: Textual amendment: Words in [reg. 33(14)](https://www.legislation.gov.uk/nisr/2017/212/regulation/33/14) omitted (31.12.2020) by virtue of [The Water (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/112)](https://www.legislation.gov.uk/uksi/2019/112), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/112/regulation/1/1), [14(6)(d)](https://www.legislation.gov.uk/uksi/2019/112/regulation/14/6/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22857371]: Marginal citation: Where appropriate gross beta activity may be replaced by residual beta activity after subtraction of the K-40 activity concentration.
 
-[^key-9f0c978c111a6985f26a08e644d3167a]: Textual amendment: Words in Sch. 5 para. 2 substituted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 2 para. 17(a)](https://www.legislation.gov.uk/nisr/2018/200/schedule/2/paragraph/17/a)
+[^c-9f0c978c111a6985f26a08e644d3167a]: Textual amendment: Words in Sch. 5 para. 2 substituted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 2 para. 17(a)](https://www.legislation.gov.uk/nisr/2018/200/schedule/2/paragraph/17/a)
 
-[^key-991a32ce0ef3927865eaa995d50777f6]: Textual amendment: Words in [Sch. 5 Table 1](https://www.legislation.gov.uk/nisr/2017/212/schedule/5) substituted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 2 para. 17(b)](https://www.legislation.gov.uk/nisr/2018/200/schedule/2/paragraph/17/b)
+[^c-991a32ce0ef3927865eaa995d50777f6]: Textual amendment: Words in [Sch. 5 Table 1](https://www.legislation.gov.uk/nisr/2017/212/schedule/5) substituted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 2 para. 17(b)](https://www.legislation.gov.uk/nisr/2018/200/schedule/2/paragraph/17/b)

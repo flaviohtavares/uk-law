@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Amendment of the Local Authorities (Mayoral Elections) (England and Wales) Regulations 2007[^key-1afa890e46869fa7b2a6d09336c41d1f]
+## 42. Amendment of the Local Authorities (Mayoral Elections) (England and Wales) Regulations 2007[^c-1afa890e46869fa7b2a6d09336c41d1f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The Local Authorities (Mayoral Elections) (England and Wales) Regulations 2007 a
 
 ## Annotations
 
-[^key-1afa890e46869fa7b2a6d09336c41d1f]: Commencement: Reg. 42 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-1afa890e46869fa7b2a6d09336c41d1f]: Commencement: Reg. 42 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)

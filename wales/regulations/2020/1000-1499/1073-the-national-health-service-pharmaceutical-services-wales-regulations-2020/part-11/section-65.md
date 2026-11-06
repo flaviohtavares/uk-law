@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 65. Revocation[^key-b8e51e49fe0de5cb57c1ba58fe74ecc0]
+## 65. Revocation[^c-b8e51e49fe0de5cb57c1ba58fe74ecc0]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b8e51e49fe0de5cb57c1ba58fe74ecc0]: Commencement: Reg. 65 in force at 1.10.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/c)
+[^c-b8e51e49fe0de5cb57c1ba58fe74ecc0]: Commencement: Reg. 65 in force at 1.10.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/c)

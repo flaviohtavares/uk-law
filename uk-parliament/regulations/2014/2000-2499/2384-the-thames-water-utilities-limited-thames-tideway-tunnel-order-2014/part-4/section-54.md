@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 54. Discharge of requirements etc.[^key-29d4d8c16a8c0c0963d47ba800626b54]
+## 54. Discharge of requirements etc.[^c-29d4d8c16a8c0c0963d47ba800626b54]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-29d4d8c16a8c0c0963d47ba800626b54]: Commencement: Art. 54 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-29d4d8c16a8c0c0963d47ba800626b54]: Commencement: Art. 54 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)

@@ -24,11 +24,11 @@ Regulation 38
 
 ### PART 1 — AMENDMENTS
 
-#### 1. Offshore Installations (Safety Representatives and Safety Committees) Regulations 1989[^key-12b7beef86ffa51b3710f39ea88edfce]
+#### 1. Offshore Installations (Safety Representatives and Safety Committees) Regulations 1989[^c-12b7beef86ffa51b3710f39ea88edfce]
 
 The Offshore Installations (Safety Representatives and Safety Committees) Regulations 1989[^f00044] are amended as follows.
 
-**2.**[^key-377f0d8850015bbc8424f9468caf24b3] In regulation 2 (Interpretation)—
+**2.**[^c-377f0d8850015bbc8424f9468caf24b3] In regulation 2 (Interpretation)—
 
 - (a) after the definition of “the 2007 Regulations” insert—
 
@@ -37,25 +37,25 @@ The Offshore Installations (Safety Representatives and Safety Committees) Regula
   ; and
 - (b) at the end of the definition of “current safety case” insert “or regulation 2(1) of the 2016 Regulations;”.
 
-**3.**[^key-c730e6bf5ef52a4213ad2142d30e2784] In regulation 18A(1)(a) (Safety representative entitlement to summary of current safety case), after “the 2007 Regulations” insert “or the 2016 Regulations”.
+**3.**[^c-c730e6bf5ef52a4213ad2142d30e2784] In regulation 18A(1)(a) (Safety representative entitlement to summary of current safety case), after “the 2007 Regulations” insert “or the 2016 Regulations”.
 
-**4.**[^key-ee9c91f8f177e56cbc74a6858dba6bf1] In regulation 23(2)(c)(i) (Duties of installation operators and owners, and employers) for “the Offshore Installations (Safety Case) Regulations (Northern Ireland) 1993” substitute “the 2007 Regulations or the 2016 Regulations”.
+**4.**[^c-ee9c91f8f177e56cbc74a6858dba6bf1] In regulation 23(2)(c)(i) (Duties of installation operators and owners, and employers) for “the Offshore Installations (Safety Case) Regulations (Northern Ireland) 1993” substitute “the 2007 Regulations or the 2016 Regulations”.
 
-#### 5. Offshore Installations and Pipeline Works (First-Aid) Regulations (Northern Ireland) 1993[^key-a61058354bd2ab8550157bf4594eb89d]
+#### 5. Offshore Installations and Pipeline Works (First-Aid) Regulations (Northern Ireland) 1993[^c-a61058354bd2ab8550157bf4594eb89d]
 
 The Offshore Installations and Pipeline Works (First-Aid) Regulations (Northern Ireland) 1993[^f00045] are amended as follows.
 
-**6.**[^key-84d90857593b32cda268e103a2f46412] In regulation 2 (Interpretation)—
+**6.**[^c-84d90857593b32cda268e103a2f46412] In regulation 2 (Interpretation)—
 
 - in paragraph (b) of the definition of “person in control”—
   - (i) for “section 33(3) of the Petroleum and Submarine Pipe-lines Act 1975” substitute “section 27(1) of the Petroleum Act 1998”; and
   - (ii) for “the said section 33(3)” substitute “that section”.
 
-#### 7. Offshore Installations and Pipeline Works (Management and Administration) Regulations (Northern Ireland) 1995[^key-dcd17e90bb5540e43defb53b470aaa54]
+#### 7. Offshore Installations and Pipeline Works (Management and Administration) Regulations (Northern Ireland) 1995[^c-dcd17e90bb5540e43defb53b470aaa54]
 
 The Offshore Installations and Pipeline Works (Management and Administration) Regulations (Northern Ireland) 1995[^f00046] are amended as follows.
 
-**8.**[^key-26e90b25c4d72a89675c01483977d7cf] In regulation 2(1) (Interpretation)—
+**8.**[^c-26e90b25c4d72a89675c01483977d7cf] In regulation 2(1) (Interpretation)—
 
 - (a) before the definition of “activity” insert—
 
@@ -122,7 +122,7 @@ The Offshore Installations and Pipeline Works (Management and Administration) Re
 
   .
 
-**9.**[^key-1b855b0cb72043fbd2364884fbd079ae] (1) Regulation 3 (Meaning of “offshore installation”) is amended as follows.
+**9.**[^c-1b855b0cb72043fbd2364884fbd079ae] (1) Regulation 3 (Meaning of “offshore installation”) is amended as follows.
 
 (2) In paragraph (1)—
 
@@ -140,7 +140,7 @@ The Offshore Installations and Pipeline Works (Management and Administration) Re
 
 .
 
-**10.**[^key-d488b45d3d54dfa18989022df5667ecc] (1) Regulation 4 (Application) is amended as follows.
+**10.**[^c-d488b45d3d54dfa18989022df5667ecc] (1) Regulation 4 (Application) is amended as follows.
 
 (2) At the start of paragraph (1) insert “Except for regulations 21F and 21G (which provide for their own application),” and after the words “territorial sea” insert “or a designated area”.
 
@@ -154,11 +154,11 @@ The Offshore Installations and Pipeline Works (Management and Administration) Re
 
 .
 
-**11.**[^key-79f3b0bb0fdd2f9b0a5b022da55e6a35] In regulation 5(1) (Notification concerning offshore installations) for “no later than” substitute “before”.
+**11.**[^c-79f3b0bb0fdd2f9b0a5b022da55e6a35] In regulation 5(1) (Notification concerning offshore installations) for “no later than” substitute “before”.
 
-**12.**[^key-93163664695d3d71f3ecd3cce62b39ba] In regulation 20(1) (Certificates of exemption) after “workers at work” insert “, and in particular, of [Directive 2013/30/EU](https://www.legislation.gov.uk/european/directive/2013/0030) of the European Parliament and of the Council of 12 June 2013 on safety of offshore oil and gas operations and amending [Directive 2004/35/EC](https://www.legislation.gov.uk/european/directive/2004/0035)[^f00047]”.
+**12.**[^c-93163664695d3d71f3ecd3cce62b39ba] In regulation 20(1) (Certificates of exemption) after “workers at work” insert “, and in particular, of [Directive 2013/30/EU](https://www.legislation.gov.uk/european/directive/2013/0030) of the European Parliament and of the Council of 12 June 2013 on safety of offshore oil and gas operations and amending [Directive 2004/35/EC](https://www.legislation.gov.uk/european/directive/2004/0035)[^f00047]”.
 
-**13.**[^key-15b3e6992f09218e5b78277779c881c6] After regulation 21 insert—
+**13.**[^c-15b3e6992f09218e5b78277779c881c6] After regulation 21 insert—
 
 > **21A. Obligation to notify death or loss of person**
 >
@@ -283,7 +283,7 @@ The Offshore Installations and Pipeline Works (Management and Administration) Re
 > - (b) to the territorial sea adjacent to Northern Ireland up to the seaward limits of the territorial sea and to the waters in any area designated by order under section 1(7) of the Continental Shelf Act 1964; and
 > - (c) to places above and below the territorial sea and waters in any area so designated.
 
-**14.**[^key-ab9f340cd1276fb77e765da4d9c85c83] For Schedule 1 substitute—
+**14.**[^c-ab9f340cd1276fb77e765da4d9c85c83] For Schedule 1 substitute—
 
 > **SCHEDULE 1 — PREMISES AND ACTIVITIES WITHIN THE TERRITORIAL SEA OR A DESIGNATED AREA**
 >
@@ -448,17 +448,17 @@ The Offshore Installations and Pipeline Works (Management and Administration) Re
 > - (a) to a case where paragraph 2, 3, 4, 5, 6, 7 or 8 applies; or
 > - (b) to vessels which are registered outside the United Kingdom and are on passage through the territorial sea.
 
-**15.**[^key-e3196daaccbafe491a98d90e116c4219] After Schedule 2 insert—
+**15.**[^c-e3196daaccbafe491a98d90e116c4219] After Schedule 2 insert—
 
 > **SCHEDULE 3 — FORM TO NOTIFY THE DEATH OR LOSS OF A PERSON PURSUANT TO REGULATION 21B**
 >
 > Regulation 21B
 
-#### 16. Offshore Installations (Prevention of Fire and Explosion, and Emergency Response) Regulations (Northern Ireland) 1995[^key-689d8cdd6b6b28019fe808f1779e2f87]
+#### 16. Offshore Installations (Prevention of Fire and Explosion, and Emergency Response) Regulations (Northern Ireland) 1995[^c-689d8cdd6b6b28019fe808f1779e2f87]
 
 The Offshore Installations (Prevention of Fire and Explosion, and Emergency Response) Regulations (Northern Ireland) 1995[^f00052] are amended as follows.
 
-**17.**[^key-b27966640922cafcaea1a76c7970a884] In regulation 2(1) (Interpretation)—
+**17.**[^c-b27966640922cafcaea1a76c7970a884] In regulation 2(1) (Interpretation)—
 
 - (a) after the definition of “the 1995 Regulations” insert—
 
@@ -514,15 +514,15 @@ The Offshore Installations (Prevention of Fire and Explosion, and Emergency Resp
 
   .
 
-**18.**[^key-e6cb7ba003e3485d6e293f7e841b1b74] (1) Regulation 3 (Application) is amended as follows.
+**18.**[^c-e6cb7ba003e3485d6e293f7e841b1b74] (1) Regulation 3 (Application) is amended as follows.
 
 (2) In paragraph (1) after “territorial sea” insert “or a designated area”.
 
 (3) In paragraph (2) after “4 to 22” insert “and 22A to 22C”.
 
-**19.**[^key-b39dbed2b8f8beaf936097223f410fcf] In regulation 4(2) (General duty) after “regulations 6 to 21” insert “and 22A to 22C”.
+**19.**[^c-b39dbed2b8f8beaf936097223f410fcf] In regulation 4(2) (General duty) after “regulations 6 to 21” insert “and 22A to 22C”.
 
-**20.**[^key-df6659966d9a41152535e0d49dbfc39b] For regulation 5(3)(c) (Assessment) substitute—
+**20.**[^c-df6659966d9a41152535e0d49dbfc39b] For regulation 5(3)(c) (Assessment) substitute—
 
 > - (c) notify—
 >   - (i) in the case of an installation in internal waters, the Executive;
@@ -530,7 +530,7 @@ The Offshore Installations (Prevention of Fire and Explosion, and Emergency Resp
 >
 >   of such address.
 
-**21.**[^key-33d5547d06d9786e8e159bc7f9c9bde9] (1) Regulation 6 (Preparation for emergencies) is amended as follows.
+**21.**[^c-33d5547d06d9786e8e159bc7f9c9bde9] (1) Regulation 6 (Preparation for emergencies) is amended as follows.
 
 (2) In paragraph (1)—
 
@@ -541,9 +541,9 @@ The Offshore Installations (Prevention of Fire and Explosion, and Emergency Resp
 
 (3) In paragraph (2)(a) after “emergency” insert “, including how to co-ordinate with persons responding to an emergency who are not on the installation when the emergency begins”.
 
-**22.**[^key-e2000f8d1f77be30e505de5b6b0077d6] In regulation 22(1) (Certificates of exemption) after “workers at work” insert “ or by [Directive 2013/30/EU](https://www.legislation.gov.uk/european/directive/2013/0030) of the European Parliament and of the Council of 12 June 2013 on safety of offshore oil and gas operations and amending [Directive 2004/35/EC](https://www.legislation.gov.uk/european/directive/2004/0035)”.
+**22.**[^c-e2000f8d1f77be30e505de5b6b0077d6] In regulation 22(1) (Certificates of exemption) after “workers at work” insert “ or by [Directive 2013/30/EU](https://www.legislation.gov.uk/european/directive/2013/0030) of the European Parliament and of the Council of 12 June 2013 on safety of offshore oil and gas operations and amending [Directive 2004/35/EC](https://www.legislation.gov.uk/european/directive/2004/0035)”.
 
-**23.**[^key-5789b183b21119786d5f5fbec1264a58] After regulation 22 insert—
+**23.**[^c-5789b183b21119786d5f5fbec1264a58] After regulation 22 insert—
 
 > **22A. Inventory of equipment etc.**
 >
@@ -576,7 +576,7 @@ The Offshore Installations (Prevention of Fire and Explosion, and Emergency Resp
 >
 > but nothing in this paragraph is to be taken as imposing a requirement which is imposed by regulation 4(3)(c) and paragraph 2(k) of Schedule 2 to the Merchant Shipping (Oil Pollution Preparedness, Response and Co-operation Convention) Regulations 1998 (Arrangements for early warning of major environmental incidents).
 
-**24.**[^key-e3538c730cb126c7e9f13ab834f547ed] For Schedule 1 substitute—
+**24.**[^c-e3538c730cb126c7e9f13ab834f547ed] For Schedule 1 substitute—
 
 > **SCHEDULE 1 — PREMISES AND ACTIVITIES WITHIN THE TERRITORIAL SEA OR A DESIGNATED AREA**
 >
@@ -741,11 +741,11 @@ The Offshore Installations (Prevention of Fire and Explosion, and Emergency Resp
 > - (a) to a case where paragraph 2, 3, 4, 5, 6, 7 or 8 applies; or
 > - (b) to vessels which are registered outside the United Kingdom and are on passage through the territorial sea.
 
-#### 25. Offshore Installations and Wells (Design and Construction, etc.) Regulations (Northern Ireland) 1996[^key-cf25241df04a74c6489e7a9ebfc0bcdf]
+#### 25. Offshore Installations and Wells (Design and Construction, etc.) Regulations (Northern Ireland) 1996[^c-cf25241df04a74c6489e7a9ebfc0bcdf]
 
 The Offshore Installations and Wells (Design and Construction, etc.) Regulations (Northern Ireland) 1996[^f00056] are amended as follows.
 
-**26.**[^key-1813a0adf96545163f3f88be8146a40e] In regulation 2(1) (Interpretation)—
+**26.**[^c-1813a0adf96545163f3f88be8146a40e] In regulation 2(1) (Interpretation)—
 
 - (a) after the definition of “the 1995 Regulations” insert—
 
@@ -779,12 +779,12 @@ The Offshore Installations and Wells (Design and Construction, etc.) Regulations
 
   .
 
-**27.**[^key-dd2f1d9fc2cd27352caecfa32095053d] In regulation 3 (Application)
+**27.**[^c-dd2f1d9fc2cd27352caecfa32095053d] In regulation 3 (Application)
 
 - (a) in paragraph (1) after “territorial sea” insert “or a designated area” and after “Regulations” insert “except for regulation 18,”; and
 - (b) in paragraph (3) after “comprise” insert “the” and after “sea” insert “or a designated area”.
 
-**28.**[^key-4b06f517a824877a7d112cdc930109c3] In regulation 9 (Reporting of danger to an installation)—
+**28.**[^c-4b06f517a824877a7d112cdc930109c3] In regulation 9 (Reporting of danger to an installation)—
 
 - (a) in paragraph (1) omit “within 10 days”; and
 - (b) after paragraph (2) insert—
@@ -796,20 +796,20 @@ The Offshore Installations and Wells (Design and Construction, etc.) Regulations
   >
   > (4) In paragraph (3) “working days” means any day other than a Saturday, a Sunday, Christmas Day, Good Friday or a day which is a bank holiday under the Banking and Financial Dealings Act 1971[^f00057] in Northern Ireland.
 
-**29.**[^key-bf586ce482df26225bd0ffd6aeda9c7b] In regulation 12 (Additional requirements)—
+**29.**[^c-bf586ce482df26225bd0ffd6aeda9c7b] In regulation 12 (Additional requirements)—
 
 - (a) in paragraph (1) omit “Subject to paragraph (3),”; and
 - (b) omit paragraph (3).
 
-**30.**[^key-020c1ed2476429c2b265d8d0180e359c] In regulation 13(2) (General duty) after “regulations 14 to 19 and 21,” insert “and regulations 11 and 12 of the 2016 Regulations (examination of wells in external waters)”.
+**30.**[^c-020c1ed2476429c2b265d8d0180e359c] In regulation 13(2) (General duty) after “regulations 14 to 19 and 21,” insert “and regulations 11 and 12 of the 2016 Regulations (examination of wells in external waters)”.
 
-**31.**[^key-dac332d9698a7b0f0666a1ae034f671e] In regulation 18 (Arrangements for examination) omit paragraphs (5), (6) and (8).
+**31.**[^c-dac332d9698a7b0f0666a1ae034f671e] In regulation 18 (Arrangements for examination) omit paragraphs (5), (6) and (8).
 
-**32.**[^key-2fa38f82e142e39cbd640f620f6531d3] In regulation 23(1) (Certificates of exemption) after “safety and health of workers at work” insert “or under [Directive 2013/30/EU](https://www.legislation.gov.uk/european/directive/2013/0030) of the European Parliament and of the Council of 12 June 2013 on safety of offshore oil and gas operations and amending [Directive 2004/35/EC](https://www.legislation.gov.uk/european/directive/2004/0035)”.
+**32.**[^c-2fa38f82e142e39cbd640f620f6531d3] In regulation 23(1) (Certificates of exemption) after “safety and health of workers at work” insert “or under [Directive 2013/30/EU](https://www.legislation.gov.uk/european/directive/2013/0030) of the European Parliament and of the Council of 12 June 2013 on safety of offshore oil and gas operations and amending [Directive 2004/35/EC](https://www.legislation.gov.uk/european/directive/2004/0035)”.
 
-**33.**[^key-8d73950a8f4b15f8483f8e7a231d33ff] Omit regulation 24 (Transitional provision).
+**33.**[^c-8d73950a8f4b15f8483f8e7a231d33ff] Omit regulation 24 (Transitional provision).
 
-#### 34. Reporting of Injuries, Diseases and Dangerous Occurrences Regulations (Northern Ireland) 1997[^key-0a7b16d6cd6d1c888133aabc4fad88ae]
+#### 34. Reporting of Injuries, Diseases and Dangerous Occurrences Regulations (Northern Ireland) 1997[^c-0a7b16d6cd6d1c888133aabc4fad88ae]
 
 (1) The Reporting of Injuries, Diseases and Dangerous Occurrences Regulations (Northern Ireland 1997[^f00058] are amended as follows.
 
@@ -846,11 +846,11 @@ The Offshore Installations and Wells (Design and Construction, etc.) Regulations
 
   .
 
-#### 35. Offshore Installations (Safety Case) Regulations (Northern Ireland) 2007[^key-d638628cf2a66bae0950469135bb7304]
+#### 35. Offshore Installations (Safety Case) Regulations (Northern Ireland) 2007[^c-d638628cf2a66bae0950469135bb7304]
 
 The Offshore Installations (Safety Case) Regulations (Northern Ireland) 2007[^f00059] are amended as follows.
 
-**36.**[^key-d2d4125d83c612bece2cb117f51f9982] (1) Subject to paragraph (2), for “relevant waters” substitute “internal waters” in each place occurring.
+**36.**[^c-d2d4125d83c612bece2cb117f51f9982] (1) Subject to paragraph (2), for “relevant waters” substitute “internal waters” in each place occurring.
 
 (2) Paragraph (1) does not apply to—
 
@@ -861,7 +861,7 @@ The Offshore Installations (Safety Case) Regulations (Northern Ireland) 2007[^f0
 
 (4) Paragraph (3) does not apply to Schedule 10.
 
-**37.**[^key-c383d1495a2b8bce1c851f9b73c3908c] (1) Regulation 2 (Interpretation) is amended as follows.
+**37.**[^c-c383d1495a2b8bce1c851f9b73c3908c] (1) Regulation 2 (Interpretation) is amended as follows.
 
 (2) In paragraph (1)—
 
@@ -872,17 +872,17 @@ The Offshore Installations (Safety Case) Regulations (Northern Ireland) 2007[^f0
   ; and
 - (b) omit the definition of “relevant waters”.
 
-**38.**[^key-fae4cdcbc1cba8d2bad9cbf453da5d2e] In regulation 4 (Application) omit paragraph (1).
+**38.**[^c-fae4cdcbc1cba8d2bad9cbf453da5d2e] In regulation 4 (Application) omit paragraph (1).
 
-**39.**[^key-fb71356a226e670b7c17246a7e16a795] In regulation 6(2) (Design and relocation notifications for production installation) after “new location” insert “within internal waters”.
+**39.**[^c-fb71356a226e670b7c17246a7e16a795] In regulation 6(2) (Design and relocation notifications for production installation) after “new location” insert “within internal waters”.
 
-**40.**[^key-214e859677e86eba6acb932d2a62e495] In regulation 7(1) (Safety case for production installation) in the opening words after “operated” insert “within internal waters”.
+**40.**[^c-214e859677e86eba6acb932d2a62e495] In regulation 7(1) (Safety case for production installation) in the opening words after “operated” insert “within internal waters”.
 
-**41.**[^key-54f4a6876ad70fa9bf3ac67d36db67fd] In regulation 14(3)(c) (Revision of safety case) after “location” insert “within internal waters”.
+**41.**[^c-54f4a6876ad70fa9bf3ac67d36db67fd] In regulation 14(3)(c) (Revision of safety case) after “location” insert “within internal waters”.
 
-**42.**[^key-f56ae8af81611156a19eead578fe8897] In paragraph 10 of Schedule 2 (Particulars to be included in a design notification etc.) after “location” insert “within internal waters”.
+**42.**[^c-f56ae8af81611156a19eead578fe8897] In paragraph 10 of Schedule 2 (Particulars to be included in a design notification etc.) after “location” insert “within internal waters”.
 
-#### 43. Health and Safety (Fees) Regulations (Northern Ireland) 2012[^key-089c0cb57b367e33ee533f40a36185d4]
+#### 43. Health and Safety (Fees) Regulations (Northern Ireland) 2012[^c-089c0cb57b367e33ee533f40a36185d4]
 
 (1) The Health and Safety (Fees) Regulations (Northern Ireland) 2012[^f00060] are amended as follows.
 
@@ -912,7 +912,7 @@ The Offshore Installations (Safety Case) Regulations (Northern Ireland) 2007[^f0
 > | Providing advice with respect to the preparation of a safety case or a revision to a current safety case which is proposed to be sent to the competent authority pursuant to any provision of the 2016 Regulations | The operator or owner who has requested that advice |
 > | Assessing whether to grant an exemption pursuant to regulation 35 of the 2016 Regulations and granting any such exemption | The operator or owner who has requested the exemption |
 
-### PART 2 — REVOCATIONS OF REGULATIONS[^key-f7e80e3c656e36ef98b9bd1d314f9c17]
+### PART 2 — REVOCATIONS OF REGULATIONS[^c-f7e80e3c656e36ef98b9bd1d314f9c17]
 
 | *(1)*<br>*Regulations revoked* | *(2)*<br>*References* | *(3)*<br>*Extent of revocation* |
 | --- | --- | --- |
@@ -925,124 +925,124 @@ The Offshore Installations (Safety Case) Regulations (Northern Ireland) 2007[^f0
 
 ## Annotations
 
-[^key-12b7beef86ffa51b3710f39ea88edfce]: Commencement: Sch. 14 para. 1 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-12b7beef86ffa51b3710f39ea88edfce]: Commencement: Sch. 14 para. 1 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
 [^f00044]: Footnote: [S.I. 1989/971](https://www.legislation.gov.uk/uksi/1989/971) as amended by, [S.I 1992/ 2885](https://www.legislation.gov.uk/uksi/1992/2885) [S.R. 1995 No. 340](https://www.legislation.gov.uk/nisr/1995/340) and [S.I. 2005/ 3117](https://www.legislation.gov.uk/uksi/2005/3117). There are other amendments not relevant to these Regulations
 
-[^key-377f0d8850015bbc8424f9468caf24b3]: Commencement: Sch. 14 para. 2 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-377f0d8850015bbc8424f9468caf24b3]: Commencement: Sch. 14 para. 2 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
-[^key-c730e6bf5ef52a4213ad2142d30e2784]: Commencement: Sch. 14 para. 3 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-c730e6bf5ef52a4213ad2142d30e2784]: Commencement: Sch. 14 para. 3 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
-[^key-ee9c91f8f177e56cbc74a6858dba6bf1]: Commencement: Sch. 14 para. 4 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-ee9c91f8f177e56cbc74a6858dba6bf1]: Commencement: Sch. 14 para. 4 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
-[^key-a61058354bd2ab8550157bf4594eb89d]: Commencement: Sch. 14 para. 5 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-a61058354bd2ab8550157bf4594eb89d]: Commencement: Sch. 14 para. 5 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
 [^f00045]: Footnote: [S.R. 1993 No. 323](https://www.legislation.gov.uk/nisr/1993/323) as amended by, [S.R. 1995 No. 340](https://www.legislation.gov.uk/nisr/1995/340) and [S.R. 1999 No. 150](https://www.legislation.gov.uk/nisr/1999/150). There are other amendments not relevant to these Regulations
 
-[^key-84d90857593b32cda268e103a2f46412]: Commencement: Sch. 14 para. 6 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-84d90857593b32cda268e103a2f46412]: Commencement: Sch. 14 para. 6 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
-[^key-dcd17e90bb5540e43defb53b470aaa54]: Commencement: Sch. 14 para. 7 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-dcd17e90bb5540e43defb53b470aaa54]: Commencement: Sch. 14 para. 7 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
 [^f00046]: Footnote: [S.R. 1995 No. 340](https://www.legislation.gov.uk/nisr/1995/340) as amended by, [S.R. 2007 No. 165](https://www.legislation.gov.uk/nisr/2007/165) and [S.R. 2007 No. 247](https://www.legislation.gov.uk/nisr/2007/247). There are other amendments not relevant to these Regulations
 
-[^key-26e90b25c4d72a89675c01483977d7cf]: Commencement: Sch. 14 para. 8 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-26e90b25c4d72a89675c01483977d7cf]: Commencement: Sch. 14 para. 8 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
-[^key-1b855b0cb72043fbd2364884fbd079ae]: Commencement: Sch. 14 para. 9 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-1b855b0cb72043fbd2364884fbd079ae]: Commencement: Sch. 14 para. 9 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
-[^key-d488b45d3d54dfa18989022df5667ecc]: Commencement: Sch. 14 para. 10 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-d488b45d3d54dfa18989022df5667ecc]: Commencement: Sch. 14 para. 10 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
-[^key-79f3b0bb0fdd2f9b0a5b022da55e6a35]: Commencement: Sch. 14 para. 11 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-79f3b0bb0fdd2f9b0a5b022da55e6a35]: Commencement: Sch. 14 para. 11 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
-[^key-93163664695d3d71f3ecd3cce62b39ba]: Commencement: Sch. 14 para. 12 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-93163664695d3d71f3ecd3cce62b39ba]: Commencement: Sch. 14 para. 12 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
 [^f00047]: Footnote: O.J. No. L178, 28.06.13, p.66
 
-[^key-15b3e6992f09218e5b78277779c881c6]: Commencement: Sch. 14 para. 13 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-15b3e6992f09218e5b78277779c881c6]: Commencement: Sch. 14 para. 13 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
 [^f00048]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21)
 
 [^f00049]: Footnote: The Registrar General of Shipping and Seamen is the officer so known who continues in existence under section 295(1) of the Merchant Shipping Act 1995
 
-[^key-ab9f340cd1276fb77e765da4d9c85c83]: Commencement: Sch. 14 para. 14 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-ab9f340cd1276fb77e765da4d9c85c83]: Commencement: Sch. 14 para. 14 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
 [^f00050]: Footnote: [S.R. 2005 No. 45](https://www.legislation.gov.uk/nisr/2005/45), as amended by [S.R. 2007 No. 247](https://www.legislation.gov.uk/nisr/2007/247)
 
 [^f00051]: Footnote: [1969 c. 6 (N.I.)](https://www.legislation.gov.uk/nia/1969/6)
 
-[^key-e3196daaccbafe491a98d90e116c4219]: Commencement: Sch. 14 para. 15 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-e3196daaccbafe491a98d90e116c4219]: Commencement: Sch. 14 para. 15 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
-[^key-689d8cdd6b6b28019fe808f1779e2f87]: Commencement: Sch. 14 para. 16 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-689d8cdd6b6b28019fe808f1779e2f87]: Commencement: Sch. 14 para. 16 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
 [^f00052]: Footnote: [S.R. 1995 No. 345](https://www.legislation.gov.uk/nisr/1995/345), as amended by [S.R. 1996 No. 228](https://www.legislation.gov.uk/nisr/1996/228), [S.R. 1999 No. 150](https://www.legislation.gov.uk/nisr/1999/150), [S.R. 2007 No. 165](https://www.legislation.gov.uk/nisr/2007/165) and [S.R. 2007 No. 247](https://www.legislation.gov.uk/nisr/2007/247)
 
-[^key-b27966640922cafcaea1a76c7970a884]: Commencement: Sch. 14 para. 17 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-b27966640922cafcaea1a76c7970a884]: Commencement: Sch. 14 para. 17 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
-[^key-e6cb7ba003e3485d6e293f7e841b1b74]: Commencement: Sch. 14 para. 18 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-e6cb7ba003e3485d6e293f7e841b1b74]: Commencement: Sch. 14 para. 18 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
-[^key-b39dbed2b8f8beaf936097223f410fcf]: Commencement: Sch. 14 para. 19 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-b39dbed2b8f8beaf936097223f410fcf]: Commencement: Sch. 14 para. 19 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
-[^key-df6659966d9a41152535e0d49dbfc39b]: Commencement: Sch. 14 para. 20 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-df6659966d9a41152535e0d49dbfc39b]: Commencement: Sch. 14 para. 20 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
-[^key-33d5547d06d9786e8e159bc7f9c9bde9]: Commencement: Sch. 14 para. 21 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-33d5547d06d9786e8e159bc7f9c9bde9]: Commencement: Sch. 14 para. 21 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
-[^key-e2000f8d1f77be30e505de5b6b0077d6]: Commencement: Sch. 14 para. 22 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-e2000f8d1f77be30e505de5b6b0077d6]: Commencement: Sch. 14 para. 22 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
-[^key-5789b183b21119786d5f5fbec1264a58]: Commencement: Sch. 14 para. 23 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-5789b183b21119786d5f5fbec1264a58]: Commencement: Sch. 14 para. 23 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
 [^f00053]: Footnote: The Maritime and Coastguard Agency is an executive agency of the Department for Transport
 
-[^key-e3538c730cb126c7e9f13ab834f547ed]: Commencement: Sch. 14 para. 24 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-e3538c730cb126c7e9f13ab834f547ed]: Commencement: Sch. 14 para. 24 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
 [^f00054]: Footnote: [S.R. 2005 No. 45](https://www.legislation.gov.uk/nisr/2005/45), as amended by [S.R. 2007 No. 247](https://www.legislation.gov.uk/nisr/2007/247)
 
 [^f00055]: Footnote: [1969 c. 6 (N.I.)](https://www.legislation.gov.uk/apni/1969/6)
 
-[^key-cf25241df04a74c6489e7a9ebfc0bcdf]: Commencement: Sch. 14 para. 25 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-cf25241df04a74c6489e7a9ebfc0bcdf]: Commencement: Sch. 14 para. 25 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
 [^f00056]: Footnote: [S.R. 1996 No. 228](https://www.legislation.gov.uk/nisr/1996/228), as amended by [S.R. 1999 No. 150](https://www.legislation.gov.uk/nisr/1999/150), [S.R. 2005 No. 397](https://www.legislation.gov.uk/nisr/2005/397), [S.R. 2007 No. 165](https://www.legislation.gov.uk/nisr/2007/165), [S.R. 2007 No. 247](https://www.legislation.gov.uk/nisr/2007/247) and revoked in part by [S.R. 1998 No. 47](https://www.legislation.gov.uk/nisr/1998/47) and [S.R. 2006 No. 1](https://www.legislation.gov.uk/nisr/2006/1)
 
-[^key-1813a0adf96545163f3f88be8146a40e]: Commencement: Sch. 14 para. 26 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-1813a0adf96545163f3f88be8146a40e]: Commencement: Sch. 14 para. 26 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
-[^key-dd2f1d9fc2cd27352caecfa32095053d]: Commencement: Sch. 14 para. 27 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-dd2f1d9fc2cd27352caecfa32095053d]: Commencement: Sch. 14 para. 27 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
-[^key-4b06f517a824877a7d112cdc930109c3]: Commencement: Sch. 14 para. 28 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-4b06f517a824877a7d112cdc930109c3]: Commencement: Sch. 14 para. 28 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
 [^f00057]: Footnote: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80)
 
-[^key-bf586ce482df26225bd0ffd6aeda9c7b]: Commencement: Sch. 14 para. 29 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-bf586ce482df26225bd0ffd6aeda9c7b]: Commencement: Sch. 14 para. 29 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
-[^key-020c1ed2476429c2b265d8d0180e359c]: Commencement: Sch. 14 para. 30 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-020c1ed2476429c2b265d8d0180e359c]: Commencement: Sch. 14 para. 30 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
-[^key-dac332d9698a7b0f0666a1ae034f671e]: Commencement: Sch. 14 para. 31 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-dac332d9698a7b0f0666a1ae034f671e]: Commencement: Sch. 14 para. 31 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
-[^key-2fa38f82e142e39cbd640f620f6531d3]: Commencement: Sch. 14 para. 32 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-2fa38f82e142e39cbd640f620f6531d3]: Commencement: Sch. 14 para. 32 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
-[^key-8d73950a8f4b15f8483f8e7a231d33ff]: Commencement: Sch. 14 para. 33 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-8d73950a8f4b15f8483f8e7a231d33ff]: Commencement: Sch. 14 para. 33 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
-[^key-0a7b16d6cd6d1c888133aabc4fad88ae]: Commencement: Sch. 14 para. 34 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-0a7b16d6cd6d1c888133aabc4fad88ae]: Commencement: Sch. 14 para. 34 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
 [^f00058]: Footnote: [S.R. 1997 No. 455](https://www.legislation.gov.uk/nisr/1997/455), as amended by [S.R. 1998 No. 375](https://www.legislation.gov.uk/nisr/1998/375), [S.R. 1999 No. 150](https://www.legislation.gov.uk/nisr/1999/150), [S.R. 2000 No. 375](https://www.legislation.gov.uk/nisr/2000/375), [S.R. 2001 No. 436](https://www.legislation.gov.uk/nisr/2001/436), [S.R. 2004 No. 196](https://www.legislation.gov.uk/nisr/2004/196), [S.R. 2005 No. 45](https://www.legislation.gov.uk/nisr/2005/45), [S.R. 2006 No. 173](https://www.legislation.gov.uk/nisr/2006/173), [S.R. 2006 No. 205](https://www.legislation.gov.uk/nisr/2006/205), [S.R. 2006 No. 425](https://www.legislation.gov.uk/nisr/2006/425), [S.R. 2007 No. 247](https://www.legislation.gov.uk/nisr/2007/247), [S.R. 2010 No. 160](https://www.legislation.gov.uk/nisr/2010/160) and revoked in part by [S.R. 2006 No. 425](https://www.legislation.gov.uk/nisr/2006/425)
 
-[^key-d638628cf2a66bae0950469135bb7304]: Commencement: Sch. 14 para. 35 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-d638628cf2a66bae0950469135bb7304]: Commencement: Sch. 14 para. 35 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
 [^f00059]: Footnote: [S.R. 2007 No. 247](https://www.legislation.gov.uk/nisr/2007/247), revoked in part by [S.R. 2008 No. 21](https://www.legislation.gov.uk/nisr/2008/21)
 
-[^key-d2d4125d83c612bece2cb117f51f9982]: Commencement: Sch. 14 para. 36 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-d2d4125d83c612bece2cb117f51f9982]: Commencement: Sch. 14 para. 36 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
-[^key-c383d1495a2b8bce1c851f9b73c3908c]: Commencement: Sch. 14 para. 37 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-c383d1495a2b8bce1c851f9b73c3908c]: Commencement: Sch. 14 para. 37 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
-[^key-fae4cdcbc1cba8d2bad9cbf453da5d2e]: Commencement: Sch. 14 para. 38 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-fae4cdcbc1cba8d2bad9cbf453da5d2e]: Commencement: Sch. 14 para. 38 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
-[^key-fb71356a226e670b7c17246a7e16a795]: Commencement: Sch. 14 para. 39 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-fb71356a226e670b7c17246a7e16a795]: Commencement: Sch. 14 para. 39 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
-[^key-214e859677e86eba6acb932d2a62e495]: Commencement: Sch. 14 para. 40 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-214e859677e86eba6acb932d2a62e495]: Commencement: Sch. 14 para. 40 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
-[^key-54f4a6876ad70fa9bf3ac67d36db67fd]: Commencement: Sch. 14 para. 41 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-54f4a6876ad70fa9bf3ac67d36db67fd]: Commencement: Sch. 14 para. 41 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
-[^key-f56ae8af81611156a19eead578fe8897]: Commencement: Sch. 14 para. 42 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-f56ae8af81611156a19eead578fe8897]: Commencement: Sch. 14 para. 42 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
-[^key-089c0cb57b367e33ee533f40a36185d4]: Commencement: Sch. 14 para. 43 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-089c0cb57b367e33ee533f40a36185d4]: Commencement: Sch. 14 para. 43 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
 [^f00060]: Footnote: [S.R. 2012 No. 255](https://www.legislation.gov.uk/nisr/2012/255), as amended by [S.R. 2014 No. 280](https://www.legislation.gov.uk/nisr/2014/280)
 
-[^key-f7e80e3c656e36ef98b9bd1d314f9c17]: Commencement: Sch. 14 Pt. 2 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-f7e80e3c656e36ef98b9bd1d314f9c17]: Commencement: Sch. 14 Pt. 2 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)

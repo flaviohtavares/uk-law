@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Information sharing and consistent identifiers[^key-2b13c20b263d0a9189421d42e0688b2e][^key-c413414310fc1533d02c5efc9bcc2365]
+## 4. Information sharing and consistent identifiers[^c-2b13c20b263d0a9189421d42e0688b2e][^c-c413414310fc1533d02c5efc9bcc2365]
 
 *Extent: E+W*
 
@@ -140,6 +140,6 @@ After [section 16L](https://www.legislation.gov.uk/ukpga/2004/31/section/16L) of
 
 ## Annotations
 
-[^key-2b13c20b263d0a9189421d42e0688b2e]: Commencement: S. 4 in force at Royal Assent for specified purposes, see [s. 78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)(5)
+[^c-2b13c20b263d0a9189421d42e0688b2e]: Commencement: S. 4 in force at Royal Assent for specified purposes, see [s. 78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)(5)
 
-[^key-c413414310fc1533d02c5efc9bcc2365]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2026/21/section/4) in force at 30.9.2026 for specified purposes by [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 6(a)](https://www.legislation.gov.uk/uksi/2026/803/regulation/6/a)
+[^c-c413414310fc1533d02c5efc9bcc2365]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2026/21/section/4) in force at 30.9.2026 for specified purposes by [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 6(a)](https://www.legislation.gov.uk/uksi/2026/803/regulation/6/a)

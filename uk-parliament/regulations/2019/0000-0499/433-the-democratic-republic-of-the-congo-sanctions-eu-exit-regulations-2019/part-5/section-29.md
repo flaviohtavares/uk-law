@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Circumventing etc prohibitions[^key-756ca03e9c3a20e43b13eef3dc8e242d][^key-1546b8e53da8a81b1378846716001163]
+## 29. Circumventing etc prohibitions[^c-756ca03e9c3a20e43b13eef3dc8e242d][^c-1546b8e53da8a81b1378846716001163]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-756ca03e9c3a20e43b13eef3dc8e242d]: Commencement: Reg. 29 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/433/regulation/1/2)
+[^c-756ca03e9c3a20e43b13eef3dc8e242d]: Commencement: Reg. 29 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/433/regulation/1/2)
 
-[^key-1546b8e53da8a81b1378846716001163]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2019/433/regulation/29) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 5(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1546b8e53da8a81b1378846716001163]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2019/433/regulation/29) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 5(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

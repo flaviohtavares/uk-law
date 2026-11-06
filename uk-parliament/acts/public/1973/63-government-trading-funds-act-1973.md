@@ -224,7 +224,7 @@ and that maximum (or that maximum as varied by a subsequent order) shall be obse
 - (a) apply the excess for such purposes of the funded operations as he may determine, or
 - (b) pay the whole or part of the excess into the Consolidated Fund.
 
-(5)[^c880605][^key-4c19247d32aabe399cac250d43935031] Any money in the fund which appears to the responsible Minister not to be immediately required for the funded operations may be invested by him in such securities of the Government of the United Kingdom or of the Government of Northern Ireland as the Treasury may approve, including Treasury Bills and Ways and Means advances.
+(5)[^c880605][^c-4c19247d32aabe399cac250d43935031] Any money in the fund which appears to the responsible Minister not to be immediately required for the funded operations may be invested by him in such securities of the Government of the United Kingdom or of the Government of Northern Ireland as the Treasury may approve, including Treasury Bills and Ways and Means advances.
 
 (6) The Treasury shall appoint an accounting officer for the fund, with responsibility for keeping its accounts and proper records in relation thereto, and preparing and signing a statement of the accounts in respect of each financial year; and—
 
@@ -404,7 +404,7 @@ This Act may be cited as the Government Trading Funds Act 1973.
 
 [^c880611]: Textual amendment: [S. 4(4)](https://www.legislation.gov.uk/ukpga/1973/63/section/4/4) substituted by [Government Trading Act 1990 (c. 30, SIF 99:1)](https://www.legislation.gov.uk/ukpga/1990/30), [s. 2(2)(c)](https://www.legislation.gov.uk/ukpga/1990/30/section/2/2/c)
 
-[^key-4c19247d32aabe399cac250d43935031]: Modification: [S. 4(5)](https://www.legislation.gov.uk/ukpga/1973/63/section/4/5) extended (24.6.2003) by [The Uncertificated Securities (Amendment) (Eligible Debt Securities) Regulations 2003 (S.I. 2003/1633)](https://www.legislation.gov.uk/uksi/2003/1633), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1633/regulation/1/1), [Sch. 2 para. 2(d)](https://www.legislation.gov.uk/uksi/2003/1633/schedule/2/paragraph/2/d)
+[^c-4c19247d32aabe399cac250d43935031]: Modification: [S. 4(5)](https://www.legislation.gov.uk/ukpga/1973/63/section/4/5) extended (24.6.2003) by [The Uncertificated Securities (Amendment) (Eligible Debt Securities) Regulations 2003 (S.I. 2003/1633)](https://www.legislation.gov.uk/uksi/2003/1633), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1633/regulation/1/1), [Sch. 2 para. 2(d)](https://www.legislation.gov.uk/uksi/2003/1633/schedule/2/paragraph/2/d)
 
 [^c880613]: Textual amendment: Words substituted by [Government Trading Act 1990 (c. 30, SIF 99:1)](https://www.legislation.gov.uk/ukpga/1990/30), [s. 2(2)(d)](https://www.legislation.gov.uk/ukpga/1990/30/section/2/2/d)
 

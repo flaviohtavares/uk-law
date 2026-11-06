@@ -40,8 +40,8 @@ and it appears to the tribunal to be just and equitable that the employee should
 - (a) the reason shown by the employee for his failure to take any such step as is referred to in paragraph (2) within the period mentioned in paragraph (1), and
 - (b) all the other relevant circumstances.
 
-(4)[^key-32e710774ce0b2eb46dc943f649b853d] Article 249B (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraphs (1)(c) and (2).
+(4)[^c-32e710774ce0b2eb46dc943f649b853d] Article 249B (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraphs (1)(c) and (2).
 
 ## Annotations
 
-[^key-32e710774ce0b2eb46dc943f649b853d]: Textual amendment: [Art. 199(4)](https://www.legislation.gov.uk/nisi/1996/1919/article/199/4) added (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [s. 29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2), [Sch. 2 para. 38](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/38); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
+[^c-32e710774ce0b2eb46dc943f649b853d]: Textual amendment: [Art. 199(4)](https://www.legislation.gov.uk/nisi/1996/1919/article/199/4) added (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [s. 29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2), [Sch. 2 para. 38](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/38); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)

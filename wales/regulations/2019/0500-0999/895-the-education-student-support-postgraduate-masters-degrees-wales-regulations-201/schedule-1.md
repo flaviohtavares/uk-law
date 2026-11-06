@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 4(1)
 
-### 1. Meaning of academic year[^key-14bfc94ae112f4a4aa8b654a064cdcff]
+### 1. Meaning of academic year[^c-14bfc94ae112f4a4aa8b654a064cdcff]
 
 (1) An “academic year”, in respect of a course, is determined as follows—
 
@@ -40,7 +40,7 @@ Table 1
 | 1 April | On or after 1 April but before 1 July |
 | 1 July | On or after 1 July but before 1 August |
 
-### 2. Educational institutions[^key-0af77b3a9254b59b0961ad4c1deca65d]
+### 2. Educational institutions[^c-0af77b3a9254b59b0961ad4c1deca65d]
 
 (1) In these Regulations—
 
@@ -53,18 +53,18 @@ Table 1
 
 (2) In this paragraph, any reference to the register is a reference to the register established and maintained by the Office for Students under section 3 of the Higher Education and Research Act 2017.
 
-### 3. Interpretation of other key terms[^key-3604870f1b8718c644a72c764b4604c9]
+### 3. Interpretation of other key terms[^c-3604870f1b8718c644a72c764b4604c9]
 
 (1) In these Regulations—
 
 - “**academic authority**” (“***awdurdod academaidd***”) means, in relation to an institution, the governing body or other body having the functions of a governing body and includes a person acting with the authority of that body;
-- “the 2020 Citizens’ Rights Regulations” (“[^key-0a931367653bf44a6fe15d0c4a0bce54]*Rheoliadau Hawliau Dinasyddion 2020*”) means the Citizens’ Rights (Application Deadline and Temporary Protection) (EU Exit) Regulations 2020;
+- “the 2020 Citizens’ Rights Regulations” (“[^c-0a931367653bf44a6fe15d0c4a0bce54]*Rheoliadau Hawliau Dinasyddion 2020*”) means the Citizens’ Rights (Application Deadline and Temporary Protection) (EU Exit) Regulations 2020;
 - “**close relative**” (“***perthynas agos***”) (in relation to a person (“P”)) means—
   - (a) P's spouse or civil partner;
   - (b) a person ordinarily living with P as if the person were P's spouse or civil partner;
   - (c) P's parent, where P is under the age of 25;
   - (d) P's child, where P is dependent on that child;
-- [^key-00c68c7eba7b2557e1fca24b2819b141]...
+- [^c-00c68c7eba7b2557e1fca24b2819b141]...
 - “**course**” (“***cwrs***”) means, unless the context otherwise requires, a taught programme of study, a programme of research, or a combination of both, and which may include one or more periods of work experience, and which leads, on successful completion, to the award of a postgraduate master's degree;
 - “**current academic year**” (“***blwyddyn academaidd gyfredol***”) means the academic year of the designated course in which the student applies for support;
 - “**distance learning course**” (“***cwrs dysgu o bell***”) means a course in relation to which a student undertaking the course is not required to be in attendance by the institution providing the course, other than to satisfy any requirement imposed by the institution to attend any institution—
@@ -77,10 +77,10 @@ Table 1
 - “**equivalent or higher qualification**” (“***cymhwyster cyfatebol neu uwch***”) means a qualification determined in accordance with paragraph (2) to be an equivalent or higher qualification;
 - “**EU national**” (“***gwladolyn UE***”) means a national of a member State of the EU;
 - “**fees**” (“***ffioedd***”) has the meaning given in section 57(1) of the Higher Education (Wales) Act 2015 [^c23728221];
-- [^key-ef4da76b39d3a6906bdf9a1ea8d955ad]...
+- [^c-ef4da76b39d3a6906bdf9a1ea8d955ad]...
 - “**healthcare bursary**” (“***bwrsari gofal iechyd***”) means a bursary or award of similar description under section 63(6) of the Health Services and Public Health Act 1968 [^c23728231] or Article 44 of the Health and Personal Social Services (Northern Ireland) Order 1972 [^c23728241];
 - “**information**” (“***gwybodaeth***”) includes documents;
-- [^key-b93b29733f07b440dae11f2f8bc9aeac]...
+- [^c-b93b29733f07b440dae11f2f8bc9aeac]...
 - “**member of the armed forces**” (“***aelod o'r lluoedd arfog***”) means a member of the regular naval, military or air forces of the Crown;
 - “**periods of work experience**” (“***cyfnodau o brofiad gwaith***”) means—
   - (a) periods of industrial, professional or commercial experience associated with the designated course at an institution, but at a place outside that institution;
@@ -90,18 +90,18 @@ Table 1
     - a person within the personal scope of the citizens’ rights provisions who—
       - (i) has leave to enter or remain in the United Kingdom granted by virtue of residence scheme immigration rules,
       - (ii) is an Irish citizen who, pursuant to section 3ZA of the Immigration Act 1971, does not require leave to enter or remain in the United Kingdom,
-      - (iii) [^key-31b76b1584f05bcae991625e64d1cd53]...
+      - (iii) [^c-31b76b1584f05bcae991625e64d1cd53]...
       - (iv) is an applicant for the purposes of regulation 4 of the 2020 Citizens’ Rights Regulations where the relevant period has not expired, or
-      - (v) otherwise has rights deemed to apply by virtue of any citizens’ rights deeming provisions, or[^key-5e1cb46d3da9574211d40fc4abdde334]
+      - (v) otherwise has rights deemed to apply by virtue of any citizens’ rights deeming provisions, or[^c-5e1cb46d3da9574211d40fc4abdde334]
     - a family member of a relevant person of Northern Ireland for the purposes of residence scheme immigration rules, where that family member has leave to enter or remain in the United Kingdom granted by virtue of residence scheme immigration rules;
-  - ((2)) In sub-paragraph (1)(a)(v) “[^key-e89d62edce2812a63db6a8c1abe84be2]**citizens’ rights deeming provisions**” means—
+  - ((2)) In sub-paragraph (1)(a)(v) “[^c-e89d62edce2812a63db6a8c1abe84be2]**citizens’ rights deeming provisions**” means—
     - Article 18(2) and (3) (issuance of residence documents) of the EU withdrawal agreement,
     - Article 17(2) and (3) (issuance of residence documents) of the EEA EFTA separation agreement (as defined in section 39(1) of the European Union (Withdrawal Agreement) Act 2020), or
     - Article 16(2) and (3) (issuance of residence documents) of the Swiss citizens’ rights agreement.
-- [^key-0df4224406ef2bdf76ae812a5dfda072]...
+- [^c-0df4224406ef2bdf76ae812a5dfda072]...
 - “prisoner” (“*carcharor*') means a person who is serving a sentence of imprisonment in the United Kingdom including a person who is detained in a young offender institution (and “**prison**” is to be construed accordingly);
 - “**public funds**” (“***cronfeydd cyhoeddus***”) means moneys provided by Parliament including funds provided by the Welsh Ministers;
-- “[^key-31839ec72669df8533eaea691f05f7ab]**relevant day**” (“***diwrnod perthnasol***”) means—
+- “[^c-31839ec72669df8533eaea691f05f7ab]**relevant day**” (“***diwrnod perthnasol***”) means—
   - (a) the first day of the first academic year of the designated course (“the AY1 start date”); or
   - (b) if the relevant status or period for which a person is allowed to stay in the United Kingdom expires on or after AY1 start date, the first day of the academic year which begins immediately after the academic year during which the status or period expires.
 - “relevant period” (“*cyfnod perthnasol*”) has the meaning given by regulation 4 of the 2020 Citizens’ Rights Regulations;
@@ -119,7 +119,7 @@ Table 1
 - (a) an eligible student holds a higher qualification from any institution whether or not in the United Kingdom, and
 - (b) the qualification referred to in paragraph (a) is a postgraduate master's degree from an institution in the United Kingdom or is of an academic level which, in the opinion of the Welsh Ministers, is equivalent to or higher than a qualification to which the designated course leads.
 
-(3)[^key-0754db7e5462c4a44a2ce504397a4e0e] For the purposes of these Regulations, a person is within the personal scope of the citizens’ rights provisions if that person falls within—
+(3)[^c-0754db7e5462c4a44a2ce504397a4e0e] For the purposes of these Regulations, a person is within the personal scope of the citizens’ rights provisions if that person falls within—
 
 - (a) Article 10 (personal scope) of the EU withdrawal agreement,
 - (b) Article 9 (personal scope) of the EEA EFTA separation agreement (as defined in section 39(1) of the European Union (Withdrawal Agreement) Act 2020), or
@@ -127,41 +127,41 @@ Table 1
 
 ## Annotations
 
-[^key-14bfc94ae112f4a4aa8b654a064cdcff]: Commencement: Sch. 1 para. 1 in force at 27.5.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/895/regulation/1/2)
+[^c-14bfc94ae112f4a4aa8b654a064cdcff]: Commencement: Sch. 1 para. 1 in force at 27.5.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/895/regulation/1/2)
 
-[^key-0af77b3a9254b59b0961ad4c1deca65d]: Commencement: Sch. 1 para. 2 in force at 27.5.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/895/regulation/1/2)
+[^c-0af77b3a9254b59b0961ad4c1deca65d]: Commencement: Sch. 1 para. 2 in force at 27.5.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/895/regulation/1/2)
 
 [^c23728201]: Marginal citation: [2017 c. 29](https://www.legislation.gov.uk/ukpga/2017/29).
 
 [^c23728211]: Marginal citation: The Office for Students is a body corporate established under [section 1](https://www.legislation.gov.uk/ukpga/2017/29/section/1) of the [Higher Education and Research Act 2017](https://www.legislation.gov.uk/ukpga/2017/29).
 
-[^key-3604870f1b8718c644a72c764b4604c9]: Commencement: Sch. 1 para. 3 in force at 27.5.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/895/regulation/1/2)
+[^c-3604870f1b8718c644a72c764b4604c9]: Commencement: Sch. 1 para. 3 in force at 27.5.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/895/regulation/1/2)
 
-[^key-0a931367653bf44a6fe15d0c4a0bce54]: Textual amendment: Words in Sch. 1 para. 3(1) inserted (25.4.2021) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/wsi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/481/regulation/1/2), [182(a)](https://www.legislation.gov.uk/wsi/2021/481/regulation/182/a) (with [reg. 2](https://www.legislation.gov.uk/wsi/2021/481/regulation/2))
+[^c-0a931367653bf44a6fe15d0c4a0bce54]: Textual amendment: Words in Sch. 1 para. 3(1) inserted (25.4.2021) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/wsi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/481/regulation/1/2), [182(a)](https://www.legislation.gov.uk/wsi/2021/481/regulation/182/a) (with [reg. 2](https://www.legislation.gov.uk/wsi/2021/481/regulation/2))
 
-[^key-00c68c7eba7b2557e1fca24b2819b141]: Textual amendment: Word in [Sch. 1 para. 3(1)](https://www.legislation.gov.uk/wsi/2019/895/schedule/1/paragraph/3/1) omitted (5.2.2026 with application in accordance with reg. 2 of the amending S.I.) by virtue of [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/3)](https://www.legislation.gov.uk/wsi/2026/3), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/3/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2026/3/regulation/2), [51](https://www.legislation.gov.uk/wsi/2026/3/regulation/51)
+[^c-00c68c7eba7b2557e1fca24b2819b141]: Textual amendment: Word in [Sch. 1 para. 3(1)](https://www.legislation.gov.uk/wsi/2019/895/schedule/1/paragraph/3/1) omitted (5.2.2026 with application in accordance with reg. 2 of the amending S.I.) by virtue of [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/3)](https://www.legislation.gov.uk/wsi/2026/3), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/3/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2026/3/regulation/2), [51](https://www.legislation.gov.uk/wsi/2026/3/regulation/51)
 
 [^c23728221]: Marginal citation: [2015 anaw 1](https://www.legislation.gov.uk/anaw/2015/1).
 
-[^key-ef4da76b39d3a6906bdf9a1ea8d955ad]: Textual amendment: Words in Sch. 1 para. 3(1) omitted (6.5.2022) by virtue of [The Education (Postgraduate Student Support) (Miscellaneous Amendments) (Wales) Regulations 2022 (S.I. 2022/403)](https://www.legislation.gov.uk/wsi/2022/403), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/403/regulation/1/2), [18(a)](https://www.legislation.gov.uk/wsi/2022/403/regulation/18/a) (with [reg. 2](https://www.legislation.gov.uk/wsi/2022/403/regulation/2))
+[^c-ef4da76b39d3a6906bdf9a1ea8d955ad]: Textual amendment: Words in Sch. 1 para. 3(1) omitted (6.5.2022) by virtue of [The Education (Postgraduate Student Support) (Miscellaneous Amendments) (Wales) Regulations 2022 (S.I. 2022/403)](https://www.legislation.gov.uk/wsi/2022/403), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/403/regulation/1/2), [18(a)](https://www.legislation.gov.uk/wsi/2022/403/regulation/18/a) (with [reg. 2](https://www.legislation.gov.uk/wsi/2022/403/regulation/2))
 
 [^c23728231]: Marginal citation: [1968 c. 46](https://www.legislation.gov.uk/ukpga/1968/46).
 
 [^c23728241]: Marginal citation: [S.I. 1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265).
 
-[^key-b93b29733f07b440dae11f2f8bc9aeac]: Textual amendment: Words in Sch. 1 para. 3(1) omitted (3.2.2025) by virtue of [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/16)](https://www.legislation.gov.uk/wsi/2025/16), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2), [50](https://www.legislation.gov.uk/wsi/2025/16/regulation/50)
+[^c-b93b29733f07b440dae11f2f8bc9aeac]: Textual amendment: Words in Sch. 1 para. 3(1) omitted (3.2.2025) by virtue of [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/16)](https://www.legislation.gov.uk/wsi/2025/16), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2), [50](https://www.legislation.gov.uk/wsi/2025/16/regulation/50)
 
 [^M_F_0948cf73-3bd5-471e-ecdf-5b64a40dcb8d]: Textual amendment: Words in Sch. 1 para. 3(1) renumbered (31.12.2021) by [The Education (Student Fees, Awards and Support) (Amendment) (Wales) Regulations 2021 (S.I. 2021/1365)](https://www.legislation.gov.uk/wsi/2021/1365), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1365/regulation/1/2), [51(a)](https://www.legislation.gov.uk/wsi/2021/1365/regulation/51/a)
 
-[^key-31b76b1584f05bcae991625e64d1cd53]: Textual amendment: Words in Sch. 1 para. 3(1) omitted (6.5.2022) by virtue of [The Education (Postgraduate Student Support) (Miscellaneous Amendments) (Wales) Regulations 2022 (S.I. 2022/403)](https://www.legislation.gov.uk/wsi/2022/403), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/403/regulation/1/2), [18(b)](https://www.legislation.gov.uk/wsi/2022/403/regulation/18/b) (with [reg. 2](https://www.legislation.gov.uk/wsi/2022/403/regulation/2))
+[^c-31b76b1584f05bcae991625e64d1cd53]: Textual amendment: Words in Sch. 1 para. 3(1) omitted (6.5.2022) by virtue of [The Education (Postgraduate Student Support) (Miscellaneous Amendments) (Wales) Regulations 2022 (S.I. 2022/403)](https://www.legislation.gov.uk/wsi/2022/403), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/403/regulation/1/2), [18(b)](https://www.legislation.gov.uk/wsi/2022/403/regulation/18/b) (with [reg. 2](https://www.legislation.gov.uk/wsi/2022/403/regulation/2))
 
-[^key-5e1cb46d3da9574211d40fc4abdde334]: Textual amendment: Words in Sch. 1 para. 3(1) inserted (31.12.2021) by [The Education (Student Fees, Awards and Support) (Amendment) (Wales) Regulations 2021 (S.I. 2021/1365)](https://www.legislation.gov.uk/wsi/2021/1365), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1365/regulation/1/2), [51(b)](https://www.legislation.gov.uk/wsi/2021/1365/regulation/51/b)
+[^c-5e1cb46d3da9574211d40fc4abdde334]: Textual amendment: Words in Sch. 1 para. 3(1) inserted (31.12.2021) by [The Education (Student Fees, Awards and Support) (Amendment) (Wales) Regulations 2021 (S.I. 2021/1365)](https://www.legislation.gov.uk/wsi/2021/1365), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1365/regulation/1/2), [51(b)](https://www.legislation.gov.uk/wsi/2021/1365/regulation/51/b)
 
-[^key-e89d62edce2812a63db6a8c1abe84be2]: Textual amendment: Words in Sch. 1 para. 3(1) inserted (31.12.2021) by [The Education (Student Fees, Awards and Support) (Amendment) (Wales) Regulations 2021 (S.I. 2021/1365)](https://www.legislation.gov.uk/wsi/2021/1365), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1365/regulation/1/2), [51(c)](https://www.legislation.gov.uk/wsi/2021/1365/regulation/51/c)
+[^c-e89d62edce2812a63db6a8c1abe84be2]: Textual amendment: Words in Sch. 1 para. 3(1) inserted (31.12.2021) by [The Education (Student Fees, Awards and Support) (Amendment) (Wales) Regulations 2021 (S.I. 2021/1365)](https://www.legislation.gov.uk/wsi/2021/1365), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1365/regulation/1/2), [51(c)](https://www.legislation.gov.uk/wsi/2021/1365/regulation/51/c)
 
-[^key-0df4224406ef2bdf76ae812a5dfda072]: Textual amendment: Words in Sch. 1 para. 3(1) omitted (8.5.2024) by virtue of [The Education (Student Support) (Postgraduate Master’s Degrees) (Wales) (Amendment) Regulations 2024 (S.I. 2024/501)](https://www.legislation.gov.uk/wsi/2024/501), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/501/regulation/1/2), [13](https://www.legislation.gov.uk/wsi/2024/501/regulation/13) (with [reg. 1(3)](https://www.legislation.gov.uk/wsi/2024/501/regulation/1/3))
+[^c-0df4224406ef2bdf76ae812a5dfda072]: Textual amendment: Words in Sch. 1 para. 3(1) omitted (8.5.2024) by virtue of [The Education (Student Support) (Postgraduate Master’s Degrees) (Wales) (Amendment) Regulations 2024 (S.I. 2024/501)](https://www.legislation.gov.uk/wsi/2024/501), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/501/regulation/1/2), [13](https://www.legislation.gov.uk/wsi/2024/501/regulation/13) (with [reg. 1(3)](https://www.legislation.gov.uk/wsi/2024/501/regulation/1/3))
 
-[^key-31839ec72669df8533eaea691f05f7ab]: Textual amendment: Words in Sch. 1 para. 3(1) inserted (4.1.2024) by [The Education (Student Finance) (Miscellaneous Amendments) (No. 3) (Wales) Regulations 2023 (S.I. 2023/1349)](https://www.legislation.gov.uk/wsi/2023/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2), [75](https://www.legislation.gov.uk/wsi/2023/1349/regulation/75) (with [reg. 2](https://www.legislation.gov.uk/wsi/2023/1349/regulation/2))
+[^c-31839ec72669df8533eaea691f05f7ab]: Textual amendment: Words in Sch. 1 para. 3(1) inserted (4.1.2024) by [The Education (Student Finance) (Miscellaneous Amendments) (No. 3) (Wales) Regulations 2023 (S.I. 2023/1349)](https://www.legislation.gov.uk/wsi/2023/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2), [75](https://www.legislation.gov.uk/wsi/2023/1349/regulation/75) (with [reg. 2](https://www.legislation.gov.uk/wsi/2023/1349/regulation/2))
 
 [^c23728261]: Marginal citation: [1962 c. 12 (now repealed)](https://www.legislation.gov.uk/ukpga/1962/12).
 
@@ -173,4 +173,4 @@ Table 1
 
 [^c23728301]: Marginal citation: [S.I. 1998/1760 (N.I. 14)](https://www.legislation.gov.uk/nisi/1998/1760) to which there have been amendments not relevant to these Regulations.
 
-[^key-0754db7e5462c4a44a2ce504397a4e0e]: Textual amendment: Sch. 1 para. 3(3) inserted (25.4.2021) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/wsi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/481/regulation/1/2), [182(b)](https://www.legislation.gov.uk/wsi/2021/481/regulation/182/b) (with [reg. 2](https://www.legislation.gov.uk/wsi/2021/481/regulation/2))
+[^c-0754db7e5462c4a44a2ce504397a4e0e]: Textual amendment: Sch. 1 para. 3(3) inserted (25.4.2021) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/wsi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/481/regulation/1/2), [182(b)](https://www.legislation.gov.uk/wsi/2021/481/regulation/182/b) (with [reg. 2](https://www.legislation.gov.uk/wsi/2021/481/regulation/2))

@@ -68,7 +68,7 @@ In accordance with sections 473(3)(a) and 1290 of the Companies Act 2006 and sec
 
 (1) The amendments made by these Regulations to any provision of the 2006 Act or the 2008 Regulations do not have effect in relation to the application of any such provision—
 
-- (a)[^key-ee5c54788dd119dddfdca56f97745c2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-ee5c54788dd119dddfdca56f97745c2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) to limited liability partnerships by the Limited Liability Partnerships (Accounts and Audit) (Application of Companies Act 2006) Regulations 2008 [^c21952221];
 - (c) to limited liability partnerships by the Small Limited Liability Partnerships (Accounts) Regulations 2008 [^c21952231];
 - (d) to overseas companies by Chapter 3 of Part 5 or Chapter 3 of Part 6 of the Overseas Companies Regulations 2009 [^c21952241];
@@ -459,7 +459,7 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c21952201]: Marginal citation: [S.I. 2008/409](https://www.legislation.gov.uk/uksi/2008/409), to which there are amendments not relevant to these Regulations.
 
-[^key-ee5c54788dd119dddfdca56f97745c2e]: Textual amendment: [Reg. 3(1)(a)](https://www.legislation.gov.uk/uksi/2013/3008/regulation/3/1/a) omitted (with effect in accordance with reg. 2(6) of the amending S.I.) by virtue of [The Limited Liability Partnerships, Partnerships and Groups (Accounts and Audit) Regulations 2016 (S.I. 2016/575)](https://www.legislation.gov.uk/uksi/2016/575), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1), [63(2)](https://www.legislation.gov.uk/uksi/2016/575/regulation/63/2)
+[^c-ee5c54788dd119dddfdca56f97745c2e]: Textual amendment: [Reg. 3(1)(a)](https://www.legislation.gov.uk/uksi/2013/3008/regulation/3/1/a) omitted (with effect in accordance with reg. 2(6) of the amending S.I.) by virtue of [The Limited Liability Partnerships, Partnerships and Groups (Accounts and Audit) Regulations 2016 (S.I. 2016/575)](https://www.legislation.gov.uk/uksi/2016/575), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1), [63(2)](https://www.legislation.gov.uk/uksi/2016/575/regulation/63/2)
 
 [^c21952221]: Marginal citation: [S.I. 2008/1911](https://www.legislation.gov.uk/uksi/2008/1911), to which there are amendments not relevant to these Regulations.
 

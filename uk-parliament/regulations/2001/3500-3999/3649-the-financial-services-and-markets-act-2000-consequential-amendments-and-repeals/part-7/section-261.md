@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 261. Additional voluntary contributions[^key-187721aa984dded65fae30c88a5b6912]
+## 261. Additional voluntary contributions[^c-187721aa984dded65fae30c88a5b6912]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-187721aa984dded65fae30c88a5b6912]: Commencement: Art. 261 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-187721aa984dded65fae30c88a5b6912]: Commencement: Art. 261 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

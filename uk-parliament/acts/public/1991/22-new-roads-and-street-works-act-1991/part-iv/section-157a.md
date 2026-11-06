@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 157A. Regulations prescribing manner of settlement of disputes[^key-9b2ceb1e8227886d391ff3af07a87663]
+## 157A. Regulations prescribing manner of settlement of disputes[^c-9b2ceb1e8227886d391ff3af07a87663]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ Regulations under this Part prescribing the manner in which any question or disp
 
 ## Annotations
 
-[^key-9b2ceb1e8227886d391ff3af07a87663]: Textual amendment: [S. 157A](https://www.legislation.gov.uk/ukpga/1991/22/section/157A) inserted (S.) (1.4.2008) by [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12), [ss. 36(4)](https://www.legislation.gov.uk/asp/2005/12/section/36/4), [54(2)](https://www.legislation.gov.uk/asp/2005/12/section/54/2); [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/15/article/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2008/15/schedule/1)
+[^c-9b2ceb1e8227886d391ff3af07a87663]: Textual amendment: [S. 157A](https://www.legislation.gov.uk/ukpga/1991/22/section/157A) inserted (S.) (1.4.2008) by [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12), [ss. 36(4)](https://www.legislation.gov.uk/asp/2005/12/section/36/4), [54(2)](https://www.legislation.gov.uk/asp/2005/12/section/54/2); [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/15/article/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2008/15/schedule/1)

@@ -66,7 +66,7 @@ and it is C’s duty to comply with that requirement.
 - (b) the director of a body incorporated by virtue of regulations under section 262 which is under investigation;
 - (c) any other person whose own affairs are under investigation.
 
-(11) “**Investigating authority**” means the FCA[^key-3cf0188c7e8e1fceeeacd141fac71e9c] or the Secretary of State.
+(11) “**Investigating authority**” means the FCA[^c-3cf0188c7e8e1fceeeacd141fac71e9c] or the Secretary of State.
 
 ## Annotations
 
@@ -74,4 +74,4 @@ and it is C’s duty to comply with that requirement.
 
 [^c1709578]: Modification: S. 284(1) extended (with modifications) (1.12.2001) by [S.I. 2001/3646](https://www.legislation.gov.uk/uksi/2001/3646), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/3646/article/1/2), [8](https://www.legislation.gov.uk/uksi/2001/3646/article/8)
 
-[^key-3cf0188c7e8e1fceeeacd141fac71e9c]: Textual amendment: Words in s. 284 substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 17](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/17) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-3cf0188c7e8e1fceeeacd141fac71e9c]: Textual amendment: Words in s. 284 substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 17](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/17) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

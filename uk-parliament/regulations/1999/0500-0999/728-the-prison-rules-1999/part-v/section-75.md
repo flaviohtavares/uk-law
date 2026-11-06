@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 75. Independent monitoring board[^key-565dd07eaaff0d261e08d830359829e2]
+## 75. Independent monitoring board[^c-565dd07eaaff0d261e08d830359829e2]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) A member—
 
-- (a) appointed for the first time to the independent monitoring board[^key-2dcad6aa83fe72b17d05e6626fc6170c] for a particular prison; or
+- (a) appointed for the first time to the independent monitoring board[^c-2dcad6aa83fe72b17d05e6626fc6170c] for a particular prison; or
 - (b) reappointed to the board following a gap of a year or more in his membership of it,
 
 shall, during the period of 12 months following the date on which he is so appointed or (as the case may be) reappointed, undertake such training as may reasonably be required by the Secretary of State.
@@ -39,7 +39,7 @@ shall, during the period of 12 months following the date on which he is so appoi
 
 (4) Where the Secretary of State:
 
-- (a) has reason to suspect that a member of the independent monitoring board[^key-9a6547e9c5ab6aa0d441d9b62776c71f] for a prison may have so conducted himself that his appointment may be liable to be terminated under paragraph (3)(a) or (d); and
+- (a) has reason to suspect that a member of the independent monitoring board[^c-9a6547e9c5ab6aa0d441d9b62776c71f] for a prison may have so conducted himself that his appointment may be liable to be terminated under paragraph (3)(a) or (d); and
 - (b) is of the opinion that the suspected conduct is of such a serious nature that the member cannot be permitted to continue to perform his functions as a member of the board pending the completion of the Secretary of State’s investigations into the matter and any decision as to whether the member’s appointment should be terminated,
 
 he may suspend the member from office for such period or periods as he may reasonably require in order to complete his investigations and determine whether or not the appointment of the member should be so terminated; and a member so suspended shall not, during the period of his suspension, be regarded as being a member of the board, other than for the purposes of this paragraph and paragraphs (1) and (3).
@@ -59,10 +59,10 @@ he may suspend the member from office for such period or periods as he may reaso
 
 ## Annotations
 
-[^key-565dd07eaaff0d261e08d830359829e2]: Textual amendment: Rule 75 heading substituted (1.4.2008) by [The Prison (Amendment) Rules 2008 (S.I. 2008/597)](https://www.legislation.gov.uk/uksi/2008/597), [rules 1](https://www.legislation.gov.uk/uksi/2008/597/rule/1), [4(b)](https://www.legislation.gov.uk/uksi/2008/597/rule/4/b)
+[^c-565dd07eaaff0d261e08d830359829e2]: Textual amendment: Rule 75 heading substituted (1.4.2008) by [The Prison (Amendment) Rules 2008 (S.I. 2008/597)](https://www.legislation.gov.uk/uksi/2008/597), [rules 1](https://www.legislation.gov.uk/uksi/2008/597/rule/1), [4(b)](https://www.legislation.gov.uk/uksi/2008/597/rule/4/b)
 
 [^c16513781]: Marginal citation: [1952 c. 52](https://www.legislation.gov.uk/ukpga/1952/52).
 
-[^key-2dcad6aa83fe72b17d05e6626fc6170c]: Textual amendment: Words in rule 75(2) substituted (1.4.2008) by [The Prison (Amendment) Rules 2008 (S.I. 2008/597)](https://www.legislation.gov.uk/uksi/2008/597), [rules 1](https://www.legislation.gov.uk/uksi/2008/597/rule/1), [4(a)](https://www.legislation.gov.uk/uksi/2008/597/rule/4/a)
+[^c-2dcad6aa83fe72b17d05e6626fc6170c]: Textual amendment: Words in rule 75(2) substituted (1.4.2008) by [The Prison (Amendment) Rules 2008 (S.I. 2008/597)](https://www.legislation.gov.uk/uksi/2008/597), [rules 1](https://www.legislation.gov.uk/uksi/2008/597/rule/1), [4(a)](https://www.legislation.gov.uk/uksi/2008/597/rule/4/a)
 
-[^key-9a6547e9c5ab6aa0d441d9b62776c71f]: Textual amendment: Words in rule 75(4) substituted (1.4.2008) by [The Prison (Amendment) Rules 2008 (S.I. 2008/597)](https://www.legislation.gov.uk/uksi/2008/597), [rules 1](https://www.legislation.gov.uk/uksi/2008/597/rule/1), [4(a)](https://www.legislation.gov.uk/uksi/2008/597/rule/4/a)
+[^c-9a6547e9c5ab6aa0d441d9b62776c71f]: Textual amendment: Words in rule 75(4) substituted (1.4.2008) by [The Prison (Amendment) Rules 2008 (S.I. 2008/597)](https://www.legislation.gov.uk/uksi/2008/597), [rules 1](https://www.legislation.gov.uk/uksi/2008/597/rule/1), [4(a)](https://www.legislation.gov.uk/uksi/2008/597/rule/4/a)

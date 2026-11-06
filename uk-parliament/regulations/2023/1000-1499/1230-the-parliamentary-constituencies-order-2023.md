@@ -54,7 +54,7 @@ In accordance with sections 4(1) and (4B) and 4A(6) of the Parliamentary Constit
 
 Therefore, His Majesty is pleased, by and with the advice of His Privy Council, to make the following Order in exercise of the powers conferred upon Him by section 4(5) of the Act.
 
-## 1. Citation, commencement, extent and interpretation[^key-da66704fb65d6e80f8f546ba7064cccf]
+## 1. Citation, commencement, extent and interpretation[^c-da66704fb65d6e80f8f546ba7064cccf]
 
 (1) This Order may be cited as the Parliamentary Constituencies Order 2023.
 
@@ -72,7 +72,7 @@ Therefore, His Majesty is pleased, by and with the advice of His Privy Council, 
 - (a) in respect of England and Wales, section 203(1) of the Representation of the People Act 1983[^f00007];
 - (b) in respect of Scotland, section 204(1) of that Act[^f00008].
 
-## 2. Parliamentary constituencies in England[^key-051b5fe7a05a3cdeac8c5095927e5f75]
+## 2. Parliamentary constituencies in England[^c-051b5fe7a05a3cdeac8c5095927e5f75]
 
 England is divided into the parliamentary constituencies—
 
@@ -80,7 +80,7 @@ England is divided into the parliamentary constituencies—
 - (b) which are designated in that column as being either county constituencies or borough constituencies, and
 - (c) which comprise the areas which are set out in column 2 of those tables opposite the name of the constituency[^f00009].
 
-## 3. Parliamentary constituencies in Northern Ireland[^key-5f9c4c1bb2d9f74a980be39d9f002760]
+## 3. Parliamentary constituencies in Northern Ireland[^c-5f9c4c1bb2d9f74a980be39d9f002760]
 
 Northern Ireland is divided into the parliamentary constituencies—
 
@@ -88,7 +88,7 @@ Northern Ireland is divided into the parliamentary constituencies—
 - (b) which are designated in that column as being either county constituencies or borough constituencies, and
 - (c) which comprise the areas which are set out in column 2 of that Table opposite the name of the constituency[^f00010].
 
-## 4. Parliamentary constituencies in Scotland[^key-23e13244dbc6984d872aed147b9e7ff0]
+## 4. Parliamentary constituencies in Scotland[^c-23e13244dbc6984d872aed147b9e7ff0]
 
 Scotland is divided into the parliamentary constituencies—
 
@@ -96,7 +96,7 @@ Scotland is divided into the parliamentary constituencies—
 - (b) which are designated in that column as being either county constituencies or burgh constituencies, and
 - (c) which comprise the areas which are set out in column 2 of that Table opposite the name of the constituency[^f00011].
 
-## 5. Parliamentary constituencies in Wales[^key-b8b0a2b601e493980c27a70308727106]
+## 5. Parliamentary constituencies in Wales[^c-b8b0a2b601e493980c27a70308727106]
 
 Wales is divided into the parliamentary constituencies—
 
@@ -104,11 +104,11 @@ Wales is divided into the parliamentary constituencies—
 - (b) which are designated in that column as being either county constituencies or borough constituencies, and
 - (c) which comprise the areas which are set out in column 2 of that Table opposite the name of the constituency[^f00012].
 
-## 6. Electoral registers[^key-2872bb3aaad8c572664a7b6afeae3d31]
+## 6. Electoral registers[^c-2872bb3aaad8c572664a7b6afeae3d31]
 
 Each electoral registration officer[^f00013] for the constituencies referred to in articles 2 to 5 must make such re-arrangement or adaptation of the registers of parliamentary electors as may be necessary to give effect to this Order.
 
-## 7. Amendment of the Parliamentary Constituencies and Assembly Electoral Regions (Wales) Order 2006[^key-47a06b6f1f1abdfe821718b10e733bdd]
+## 7. Amendment of the Parliamentary Constituencies and Assembly Electoral Regions (Wales) Order 2006[^c-47a06b6f1f1abdfe821718b10e733bdd]
 
 In the Parliamentary Constituencies and Assembly Electoral Regions (Wales) Order 2006[^f00014]—
 
@@ -121,7 +121,7 @@ In the Parliamentary Constituencies and Assembly Electoral Regions (Wales) Order
   - (i) in the heading, for “, designation and composition of parliamentary constituencies and” substitute “and composition of”;
   - (ii) in each table, in the heading for column 1 omit “and Designation”.
 
-## 8. Revocations[^key-e0b3bf3d77c3e37bdb78532600a15763]
+## 8. Revocations[^c-e0b3bf3d77c3e37bdb78532600a15763]
 
 The following are revoked—
 
@@ -139,7 +139,7 @@ Clerk of the Privy Council
 
 Article 2
 
-### PART 1 — East Midlands region[^key-3721ff8a56980e075d7d948e7bf33a9a]
+### PART 1 — East Midlands region[^c-3721ff8a56980e075d7d948e7bf33a9a]
 
 <table>
 <thead>
@@ -202,7 +202,7 @@ Article 2
 
 [^f00032][^f00020][^f01000][^f00021][^f00022][^f01000][^f01001][^f00023][^f01000][^f00024][^f00025][^f00026][^f00027][^f01001][^f01001][^f01000][^f00028][^f01001][^f00029][^f01000][^f00030][^f00031]
 
-### PART 2 — Eastern region[^key-ea6b5a07f5e655bc0072c395aa06963e]
+### PART 2 — Eastern region[^c-ea6b5a07f5e655bc0072c395aa06963e]
 
 | Name and designation | Composition |
 | --- | --- |
@@ -268,7 +268,7 @@ Article 2
 | West Suffolk<br>(county constituency) | The following wards of the District of West Suffolk—<br>Barrow;<br>Brandon Central;<br>Brandon East;<br>Brandon West;<br>Chedburgh & Chevington;<br>Clare, Hundon & Kedington;<br>Exning;<br>Haverhill Central;<br>Haverhill East;<br>Haverhill North;<br>Haverhill South;<br>Haverhill South East;<br>Haverhill West;<br>Horringer;<br>Iceni;<br>Kentford & Moulton;<br>Lakenheath;<br>Manor;<br>Mildenhall Great Heath;<br>Mildenhall Kingsway & Market;<br>Mildenhall Queensway;<br>Newmarket East;<br>Newmarket North;<br>Newmarket West;<br>Risby;<br>The Rows;<br>Whepstead & Wickhambrook;<br>Withersfield. |
 | Witham<br>(county constituency) | The following wards of the District of Braintree—<br>Coggeshall;<br>Hatfield Peverel & Terling;<br>Kelvedon & Feering;<br>Silver End & Cressing;<br>The Colnes;<br>Witham Central;<br>Witham North;<br>Witham South;<br>Witham West.<br>The following wards of the City of Colchester—<br>Marks Tey & Layer;<br>Stanway;<br>Tiptree.<br>The following wards of the District of Maldon—<br>Great Totham;<br>Tollesbury;<br>Tollesbury D’arcy;<br>Wickham Bishops and Woodham. |
 
-### PART 3 — London region[^key-2cbc2d55dafe45df8436adcb4e9d126c]
+### PART 3 — London region[^c-2cbc2d55dafe45df8436adcb4e9d126c]
 
 <table>
 <thead>
@@ -379,7 +379,7 @@ Article 2
 
 [^f00051][^f00052][^f00053][^f00054][^f00055][^f00056][^f00057][^f00058][^f00059][^f00060][^f00061][^f00062][^f00063][^f00064][^f00065][^f00066][^f00067][^f00068][^f00069][^f00037][^f01002][^f01002][^f01003][^f01004][^f00038][^f01005][^f01006][^f01007][^f01008][^f01009][^f01010][^f00039][^f00040][^f00041][^f01011][^f01012][^f01008][^f01012][^f01012][^f01013][^f01013][^f01003][^f01009][^f01008][^f01003][^f01014][^f00042][^f01015][^f01002][^f01016][^f01016][^f01017][^f01009][^f01014][^f00043][^f01018][^f01019][^f01020][^f00044][^f00045][^f01011][^f00046][^f01009][^f01015][^f01021][^f01021][^f01010][^f01022][^f01022][^f01022][^f01023][^f01005][^f01006][^f00047][^f00048][^f01002][^f01010][^f01004][^f00049][^f01018][^f01019][^f01020][^f00050][^f01016][^f01017][^f01013][^f01015][^f01007][^f01015][^f01004][^f01017][^f01023]
 
-### PART 4 — North East region[^key-11e5ed7bf0ef4446200a5e98d471b036]
+### PART 4 — North East region[^c-11e5ed7bf0ef4446200a5e98d471b036]
 
 <table>
 <thead>
@@ -422,7 +422,7 @@ Article 2
 
 [^f00078][^f01024][^f00070][^f01025][^f00071][^f00072][^f00073][^f00074][^f00075][^f00076][^f00077]
 
-### PART 5 — North West region[^key-7e015f12ed3c4e9883d551ec8d81bc1e]
+### PART 5 — North West region[^c-7e015f12ed3c4e9883d551ec8d81bc1e]
 
 <table>
 <thead>
@@ -510,7 +510,7 @@ Article 2
 
 [^f00079][^f01026][^f00080][^f00081][^f00082][^f01026][^f00083][^f00084][^f00085][^f00086][^f00087][^f00088][^f00089][^f00090][^f00091][^f00092]
 
-### PART 6 — South East region[^key-fb8ff460334e8ade105dc97766d38e7f]
+### PART 6 — South East region[^c-fb8ff460334e8ade105dc97766d38e7f]
 
 <table>
 <thead>
@@ -616,7 +616,7 @@ Article 2
 
 [^f00109][^f00093][^f00094][^f00095][^f00096][^f00097][^f00098][^f00099][^f00100][^f00101][^f00102][^f00103][^f00104][^f00105][^f01027][^f01027][^f00106][^f00107][^f00108]
 
-### PART 7 — South West region[^key-b29dfc45b4e06de6682167d32b727849]
+### PART 7 — South West region[^c-b29dfc45b4e06de6682167d32b727849]
 
 <table>
 <thead>
@@ -690,7 +690,7 @@ Article 2
 
 [^f00116][^f00117][^f01028][^f01029][^f00110][^f01029][^f01029][^f00111][^f01028][^f00112][^f00113][^f01029][^f01029][^f00114][^f01028][^f01029][^f01028][^f01028][^f00115][^f01028]
 
-### PART 8 — West Midlands region[^key-9e664b5e90a97dee017691a3a942d5b5]
+### PART 8 — West Midlands region[^c-9e664b5e90a97dee017691a3a942d5b5]
 
 | Name and designation | Composition |
 | --- | --- |
@@ -752,7 +752,7 @@ Article 2
 | Worcester<br>(borough constituency) | The City of Worcester. |
 | Wyre Forest<br>(county constituency) | The District of Wyre Forest. |
 
-### PART 9 — Yorkshire and the Humber region[^key-6bf2789d03146b16974efa490669a428]
+### PART 9 — Yorkshire and the Humber region[^c-6bf2789d03146b16974efa490669a428]
 
 | Name and designation | Composition |
 | --- | --- |
@@ -811,7 +811,7 @@ Article 2
 | York Central<br>(borough constituency) | The following wards of the District of York—<br>Acomb;<br>Clifton;<br>Fishergate;<br>Guildhall;<br>Heworth;<br>Holgate;<br>Hull Road;<br>Micklegate;<br>Westfield. |
 | York Outer<br>(county constituency) | The following wards of the District of York—<br>Bishopthorpe;<br>Copmanthorpe;<br>Dringhouses & Woodthorpe;<br>Fulford & Heslington;<br>Haxby & Wigginton;<br>Heworth Without;<br>Huntington & New Earswick;<br>Osbaldwick & Derwent;<br>Rawcliffe & Clifton Without;<br>Rural West York;<br>Strensall;<br>Wheldrake. |
 
-## SCHEDULE 2 — Name, designation and composition of constituencies in Northern Ireland[^key-0ba20732e8410a170c4a50bc38087052]
+## SCHEDULE 2 — Name, designation and composition of constituencies in Northern Ireland[^c-0ba20732e8410a170c4a50bc38087052]
 
 Article 3
 
@@ -847,9 +847,9 @@ Article 3
 </tbody>
 </table>
 
-[^f01030][^f01030][^f01030][^f01030][^f01030][^f01030][^f01030][^key-c6f23a96afe08a326ec982619c40e02d][^f01030][^f01030][^f01030][^f01030][^f01030][^f01031][^f01032][^f01033][^f01030][^f01030][^f01031][^f01032][^f01033][^f01030][^f01030][^f01030][^f01030]
+[^f01030][^f01030][^f01030][^f01030][^f01030][^f01030][^f01030][^c-c6f23a96afe08a326ec982619c40e02d][^f01030][^f01030][^f01030][^f01030][^f01030][^f01031][^f01032][^f01033][^f01030][^f01030][^f01031][^f01032][^f01033][^f01030][^f01030][^f01030][^f01030]
 
-## SCHEDULE 3 — Name, designation and composition of constituencies in Scotland[^key-74d45e9e6588dc5830cac300b27ca349]
+## SCHEDULE 3 — Name, designation and composition of constituencies in Scotland[^c-74d45e9e6588dc5830cac300b27ca349]
 
 Article 4
 
@@ -978,7 +978,7 @@ Article 4
 
 [^f01034][^f01034][^f01035][^f01036][^f01037][^f01038][^f01039][^f01040][^f01041][^f01042][^f01043][^f01044][^f01045][^f01046][^f01047][^f01048][^f01049][^f01050][^f01051][^f01052][^f01046][^f01047][^f01036][^f01053][^f01054][^f01055][^f01056][^f01056][^f01049][^f01043][^f01041][^f01056][^f01058][^f01059][^f01060][^f01061][^f01062][^f01063][^f01058][^f01059][^f01064][^f01065][^f01066][^f01060][^f01067][^f01069][^f01070][^f01064][^f01065][^f01066][^f01068][^f01067][^f01069][^f01062][^f01070][^f01057][^f01063][^f01068][^f01071][^f01072][^f01073][^f01074][^f01073][^f01075][^f01076][^f01077][^f01072][^f01075][^f01076][^f01074][^f01078][^f01071][^f01078][^f01079][^f01080][^f01077][^f01053][^f01035][^f01081][^f01082][^f01082][^f01082][^f01082][^f01083][^f01084][^f01085][^f01050][^f01051][^f01086][^f01044][^f01045][^f01048][^f01061][^f01054][^f01055][^f01086][^f01037][^f01038][^f01039][^f01040][^f01083][^f01052][^f01079][^f01087][^f01084][^f01085][^f01087][^f01042][^f01088][^f01089][^f01088][^f01089][^f01081][^f01082][^f01082][^f01082][^f01082][^f01080]
 
-## SCHEDULE 4 — Name, designation and composition of constituencies in Wales[^key-e2d2f1c8eb3145efd4c9de7c0c18eab3]
+## SCHEDULE 4 — Name, designation and composition of constituencies in Wales[^c-e2d2f1c8eb3145efd4c9de7c0c18eab3]
 
 Article 5
 
@@ -1054,37 +1054,37 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00006]: Footnote: A copy of the statement of modifications is available at: https://www.bcomm-scotland.independent.gov.uk/sites/default/files/Statement\_modification.pdf.
 
-[^key-da66704fb65d6e80f8f546ba7064cccf]: Commencement: Art. 1 in force at 29.11.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1230/article/1/2)
+[^c-da66704fb65d6e80f8f546ba7064cccf]: Commencement: Art. 1 in force at 29.11.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1230/article/1/2)
 
 [^f00007]: Footnote: [1983 c. 2](https://www.legislation.gov.uk/ukpga/1983/2). The definition of “local government area” was amended by Part 1 of Schedule 9 to the Local Government Act [1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51), by Part 1 of Schedule 13 to the Education Reform Act [1988 (c. 40)](https://www.legislation.gov.uk/ukpga/1988/40); by paragraph 68(16) of Schedule 16 to the Local Government (Wales) Act [1994 (c. 19)](https://www.legislation.gov.uk/ukpga/1994/19), and by paragraph 39 of Schedule 3 to the Greater London Authority Act [1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29).
 
 [^f00008]: Footnote: The definition of “local government area” was substituted by paragraph 130(8) of Schedule 13 to the Local Government etc (Scotland) Act [1994 (c. 39)](https://www.legislation.gov.uk/ukpga/1994/39).
 
-[^key-051b5fe7a05a3cdeac8c5095927e5f75]: Commencement: Art. 2 in force at 29.11.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1230/article/1/2)
+[^c-051b5fe7a05a3cdeac8c5095927e5f75]: Commencement: Art. 2 in force at 29.11.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1230/article/1/2)
 
 [^f00009]: Footnote: Maps of the individual constituencies into which the Boundary Commission for England recommended that England is divided are available at https://boundarycommissionforengland.independent.gov.uk/2023-review/2023-review-volume-three-maps/. An interactive map of all constituencies in England is available at https://www.bcereviews.org.uk/.
 
-[^key-5f9c4c1bb2d9f74a980be39d9f002760]: Commencement: Art. 3 in force at 29.11.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1230/article/1/2)
+[^c-5f9c4c1bb2d9f74a980be39d9f002760]: Commencement: Art. 3 in force at 29.11.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1230/article/1/2)
 
 [^f00010]: Footnote: An interactive map of the constituencies into which the Boundary Commission for Northern Ireland recommended that Northern Ireland is divided into is available at https://apps.spatialni.gov.uk/BoundaryCommission/BCNI2023FinalRecommendations/index.html.
 
-[^key-23e13244dbc6984d872aed147b9e7ff0]: Commencement: Art. 4 in force at 29.11.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1230/article/1/2)
+[^c-23e13244dbc6984d872aed147b9e7ff0]: Commencement: Art. 4 in force at 29.11.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1230/article/1/2)
 
 [^f00011]: Footnote: Maps of the individual constituencies into which the Boundary Commission for Scotland recommended that Scotland is divided are available at https://www.bcomm-scotland.independent.gov.uk/?q=reviews/2023-review-uk-parliament-constituencies. An interactive map of all constituencies in Scotland is available at https://www.bcs2023review.com/.
 
-[^key-b8b0a2b601e493980c27a70308727106]: Commencement: Art. 5 in force at 29.11.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1230/article/1/2)
+[^c-b8b0a2b601e493980c27a70308727106]: Commencement: Art. 5 in force at 29.11.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1230/article/1/2)
 
 [^f00012]: Footnote: Maps of the individual constituencies into which the Boundary Commission for Wales recommended that Wales is divided are available at https://bcomm-wales.gov.uk/reviews/06-23/2023-parliamentary-review-final-recommendations.
 
-[^key-2872bb3aaad8c572664a7b6afeae3d31]: Commencement: Art. 6 in force at 29.11.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1230/article/1/2)
+[^c-2872bb3aaad8c572664a7b6afeae3d31]: Commencement: Art. 6 in force at 29.11.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1230/article/1/2)
 
 [^f00013]: Footnote: Electoral registration officers are appointed in accordance with section 8 of the Representation of the People Act [1983 (c. 2)](https://www.legislation.gov.uk/ukpga/1983/2).
 
-[^key-47a06b6f1f1abdfe821718b10e733bdd]: Commencement: Art. 7 in force at 29.11.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1230/article/1/2)
+[^c-47a06b6f1f1abdfe821718b10e733bdd]: Commencement: Art. 7 in force at 29.11.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1230/article/1/2)
 
 [^f00014]: Footnote: [S.I. 2006/1041](https://www.legislation.gov.uk/uksi/2006/1041), amended by [S.I. 2008/1791](https://www.legislation.gov.uk/uksi/2008/1791), [2011/2987](https://www.legislation.gov.uk/uksi/2011/2987).
 
-[^key-e0b3bf3d77c3e37bdb78532600a15763]: Commencement: Art. 8 in force at 29.11.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1230/article/1/2)
+[^c-e0b3bf3d77c3e37bdb78532600a15763]: Commencement: Art. 8 in force at 29.11.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1230/article/1/2)
 
 [^f00015]: Footnote: [S.I. 2005/250](https://www.legislation.gov.uk/uksi/2005/250).
 
@@ -1096,7 +1096,7 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00019]: Footnote: [S.I. 2009/698](https://www.legislation.gov.uk/uksi/2009/698).
 
-[^key-3721ff8a56980e075d7d948e7bf33a9a]: Commencement: Sch. 1 Pt. 1 in force at 29.11.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1230/article/1/2)
+[^c-3721ff8a56980e075d7d948e7bf33a9a]: Commencement: Sch. 1 Pt. 1 in force at 29.11.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1230/article/1/2)
 
 [^f00032]: Footnote: [S.I. 2020/156](https://www.legislation.gov.uk/uksi/2020/156), amended by [S.I. 2020/426](https://www.legislation.gov.uk/uksi/2020/426).
 
@@ -1132,7 +1132,7 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00031]: Footnote: The area of polling districts SD and SF is shown as the area marked “7” on the map of the Wellingborough and Rushden constituency produced by the Boundary Commission for England, which was published on 28th June 2023 at: https://boundarycommissionforengland.independent.gov.uk/2023-review/2023-review-volume-three-maps/page/2/.
 
-[^key-ea6b5a07f5e655bc0072c395aa06963e]: Commencement: Sch. 1 Pt. 2 in force at 29.11.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1230/article/1/2)
+[^c-ea6b5a07f5e655bc0072c395aa06963e]: Commencement: Sch. 1 Pt. 2 in force at 29.11.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1230/article/1/2)
 
 [^f00033]: Footnote: The area of polling district DN is shown as the area marked “10” on the map of the Castle Point constituency produced by the Boundary Commission for England, which was published on 28th June 2023 at: https://boundarycommissionforengland.independent.gov.uk/2023-review/2023-review-volume-three-maps/page/3/.
 
@@ -1142,7 +1142,7 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00036]: Footnote: The area of polling districts DO, DP, DQ and DR is shown as the area marked “8” on the map of the South Basildon and East Thurrock constituency produced by the Boundary Commission for England, which was published on 28th June 2023 at: https://boundarycommissionforengland.independent.gov.uk/2023-review/2023-review-volume-three-maps/page/3/.
 
-[^key-2cbc2d55dafe45df8436adcb4e9d126c]: Commencement: Sch. 1 Pt. 3 in force at 29.11.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1230/article/1/2)
+[^c-2cbc2d55dafe45df8436adcb4e9d126c]: Commencement: Sch. 1 Pt. 3 in force at 29.11.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1230/article/1/2)
 
 [^f00051]: Footnote: [S.I. 2020/66](https://www.legislation.gov.uk/uksi/2020/66).
 
@@ -1298,7 +1298,7 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00050]: Footnote: The three areas in polling district EM4 which form part of the Romford constituency are shown as the three eastern areas marked “2” on the map of the Romford constituency produced by the Boundary Commission for England, which was published on 28th June 2023 at: https://boundarycommissionforengland.independent.gov.uk/2023-review/2023-review-volume-three-maps/page/4/.
 
-[^key-11e5ed7bf0ef4446200a5e98d471b036]: Commencement: Sch. 1 Pt. 4 in force at 29.11.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1230/article/1/2)
+[^c-11e5ed7bf0ef4446200a5e98d471b036]: Commencement: Sch. 1 Pt. 4 in force at 29.11.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1230/article/1/2)
 
 [^f00078]: Footnote: [S.I. 2020/73](https://www.legislation.gov.uk/uksi/2020/73).
 
@@ -1326,7 +1326,7 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00077]: Footnote: The area of polling districts FC, FD, FE, FF, FG and FH is shown as the area marked “7” on the map of the Tynemouth constituency produced by the Boundary Commission for England, which was published on 28th June 2023 at: https://boundarycommissionforengland.independent.gov.uk/2023-review/2023-review-volume-three-maps/page/5/.
 
-[^key-7e015f12ed3c4e9883d551ec8d81bc1e]: Commencement: Sch. 1 Pt. 5 in force at 29.11.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1230/article/1/2)
+[^c-7e015f12ed3c4e9883d551ec8d81bc1e]: Commencement: Sch. 1 Pt. 5 in force at 29.11.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1230/article/1/2)
 
 [^f00079]: Footnote: The area of polling districts AHA, AHB, AHC, BZ, CA, CB, CL and CY is shown as the area marked “3” on the map of the Barrow and Furness constituency produced by the Boundary Commission for England, which was published on 28th June 2023 at: https://boundarycommissionforengland.independent.gov.uk/2023-review/2023-review-volume-three-maps/page/6/.
 
@@ -1360,7 +1360,7 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00092]: Footnote: The area of polling districts MC, MD and ME is shown as the area marked “6” on the map of the Wirral West constituency produced by the Boundary Commission for England, which was published on 28th June 2023 at: https://boundarycommissionforengland.independent.gov.uk/2023-review/2023-review-volume-three-maps/page/6/.
 
-[^key-fb8ff460334e8ade105dc97766d38e7f]: Commencement: Sch. 1 Pt. 6 in force at 29.11.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1230/article/1/2)
+[^c-fb8ff460334e8ade105dc97766d38e7f]: Commencement: Sch. 1 Pt. 6 in force at 29.11.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1230/article/1/2)
 
 [^f00109]: Footnote: [S.I. 2020/64](https://www.legislation.gov.uk/uksi/2020/64).
 
@@ -1400,7 +1400,7 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00108]: Footnote: The area of polling district BC is shown as the area marked “6” on the map of the Reading West and Mid Berkshire constituency produced by the Boundary Commission for England, which was published on 28th June 2023 at: https://boundarycommissionforengland.independent.gov.uk/2023-review/2023-review-volume-three-maps/page/7/.
 
-[^key-b29dfc45b4e06de6682167d32b727849]: Commencement: Sch. 1 Pt. 7 in force at 29.11.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1230/article/1/2)
+[^c-b29dfc45b4e06de6682167d32b727849]: Commencement: Sch. 1 Pt. 7 in force at 29.11.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1230/article/1/2)
 
 [^f00116]: Footnote: [S.I. 2019/1088](https://www.legislation.gov.uk/uksi/2019/1088).
 
@@ -1426,7 +1426,7 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00115]: Footnote: The area of polling districts CLA, CLC and CLD is shown as the area marked “2” on the map of the Swindon South constituency produced by the Boundary Commission for England, which was published on 28th June 2023 at: https://boundarycommissionforengland.independent.gov.uk/2023-review/2023-review-volume-three-maps/page/8/.
 
-[^key-9e664b5e90a97dee017691a3a942d5b5]: Commencement: Sch. 1 Pt. 8 in force at 29.11.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1230/article/1/2)
+[^c-9e664b5e90a97dee017691a3a942d5b5]: Commencement: Sch. 1 Pt. 8 in force at 29.11.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1230/article/1/2)
 
 [^f00118]: Footnote: The area of polling districts UE and UF is shown as the area marked “4” on the map of the Aldridge-Brownhills constituency produced by the Boundary Commission for England, which was published on 28th June 2023 at: https://boundarycommissionforengland.independent.gov.uk/2023-review/2023-review-volume-three-maps/page/9/.
 
@@ -1452,7 +1452,7 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00129]: Footnote: The area of polling districts UA, UB, UC and UD is shown as the area marked “5” on the map of the Walsall and Bloxwich constituency produced by the Boundary Commission for England, which was published on 28th June 2023 at: https://boundarycommissionforengland.independent.gov.uk/2023-review/2023-review-volume-three-maps/page/9/.
 
-[^key-6bf2789d03146b16974efa490669a428]: Commencement: Sch. 1 Pt. 9 in force at 29.11.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1230/article/1/2)
+[^c-6bf2789d03146b16974efa490669a428]: Commencement: Sch. 1 Pt. 9 in force at 29.11.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1230/article/1/2)
 
 [^f00130]: Footnote: The area of polling districts 5A, 5B, 5C, 5D, 5E, 5G and 5H is shown as the area marked “2” on the map of the Bradford East constituency produced by the Boundary Commission for England, which was published on 28th June 2023 at: https://boundarycommissionforengland.independent.gov.uk/2023-review/2023-review-volume-three-maps/page/10/.
 
@@ -1482,13 +1482,13 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00143]: Footnote: The area of polling district DA06 is shown as the area marked “3” on the map of the Spen Valley constituency produced by the Boundary Commission for England, which was published on 28th June 2023 at: https://boundarycommissionforengland.independent.gov.uk/2023-review/2023-review-volume-three-maps/page/10/.
 
-[^key-0ba20732e8410a170c4a50bc38087052]: Commencement: Sch. 2 in force at 29.11.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1230/article/1/2)
+[^c-0ba20732e8410a170c4a50bc38087052]: Commencement: Sch. 2 in force at 29.11.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1230/article/1/2)
 
 [^f01030]: Footnote: (1)
 
     A reference to a particular 2008 constituency is a reference to the constituency of that name described in Schedule 1 to the Parliamentary Constituencies (Northern Ireland) Order 2008 as it had effect immediately before the coming into force of this Order.
 
-[^key-c6f23a96afe08a326ec982619c40e02d]: Textual amendment: Word in [Sch. 2](https://www.legislation.gov.uk/uksi/2023/1230/schedule/2) substituted (14.3.2024) by [The Parliamentary Constituencies (Amendment) Order 2024 (S.I. 2024/375)](https://www.legislation.gov.uk/uksi/2024/375), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/375/article/1/2), [2](https://www.legislation.gov.uk/uksi/2024/375/article/2)
+[^c-c6f23a96afe08a326ec982619c40e02d]: Textual amendment: Word in [Sch. 2](https://www.legislation.gov.uk/uksi/2023/1230/schedule/2) substituted (14.3.2024) by [The Parliamentary Constituencies (Amendment) Order 2024 (S.I. 2024/375)](https://www.legislation.gov.uk/uksi/2024/375), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/375/article/1/2), [2](https://www.legislation.gov.uk/uksi/2024/375/article/2)
 
 [^f01031]: Footnote: (2)
 
@@ -1502,7 +1502,7 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
     The “relevant area” is that part of the Strangford ward to the south of a line starting at the point on the ward boundary at Irish grid reference system 350653.122 E, 345872.095 N, and then drawn from that point to at Irish grid reference system 350646.759 E, 345876.357 N; then in a north-westerly direction along the property boundary to the northern corner of that boundary at Irish grid reference system 350628.081 E, 345893.946 N; then in a south-westerly direction along the property boundary to the western corner of that property; and then along the northern boundary of the field which is immediately to the north of the northern boundaries of the northernmost properties on Saul Acre View and Saul Acre to the ward boundary.
 
-[^key-74d45e9e6588dc5830cac300b27ca349]: Commencement: Sch. 3 in force at 29.11.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1230/article/1/2)
+[^c-74d45e9e6588dc5830cac300b27ca349]: Commencement: Sch. 3 in force at 29.11.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1230/article/1/2)
 
 [^f01034]: Footnote: (1)
 
@@ -1728,4 +1728,4 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
     “Strathallen area B” is that part of ward 7 (Strathallen) to the east of a line starting at the point on the northern ward boundary which is in the centre of the A9 road, and then drawn in a south-westerly direction along the centre of the A9 road until the point at Ordnance Survey national grid reference NN 97302 14407 which is in the centre of a stream; then in an easterly direction along the centre of that stream to Ordnance Survey national grid reference NN 97953 14034; then to Ordnance Survey national grid reference NN 98079 13888; then to Ordnance Survey national grid reference NN 98193 13905 on the western boundary of polling district SLQ; and then in a southerly direction along that western polling district boundary to the ward boundary.
 
-[^key-e2d2f1c8eb3145efd4c9de7c0c18eab3]: Commencement: Sch. 4 in force at 29.11.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1230/article/1/2)
+[^c-e2d2f1c8eb3145efd4c9de7c0c18eab3]: Commencement: Sch. 4 in force at 29.11.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1230/article/1/2)

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 60. Inspections[^key-939a3bf6d2e8bb9e0855850a980d1500][^key-966d1154867a365249fc3823a2472739]
+## 60. Inspections[^c-939a3bf6d2e8bb9e0855850a980d1500][^c-966d1154867a365249fc3823a2472739]
 
 *Extent: E+W*
 
-(1) This section applies to later years provision in respect of which the provider is registered in Part A of the general childcare register[^key-fe99ebead56aa3bf5aa06110449ed536].
+(1) This section applies to later years provision in respect of which the provider is registered in Part A of the general childcare register[^c-fe99ebead56aa3bf5aa06110449ed536].
 
 (2) The Chief Inspector—
 
@@ -33,8 +33,8 @@ summary: ''
 
 ## Annotations
 
-[^key-939a3bf6d2e8bb9e0855850a980d1500]: Commencement: S. 60 in force at 1.10.2007 for specified purposes by [S.I. 2007/2717](https://www.legislation.gov.uk/uksi/2007/2717), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/2717/article/2/c)
+[^c-939a3bf6d2e8bb9e0855850a980d1500]: Commencement: S. 60 in force at 1.10.2007 for specified purposes by [S.I. 2007/2717](https://www.legislation.gov.uk/uksi/2007/2717), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/2717/article/2/c)
 
-[^key-966d1154867a365249fc3823a2472739]: Commencement: S. 60 in force at 1.9.2008 in so far as not already in force by [S.I. 2008/2261](https://www.legislation.gov.uk/uksi/2008/2261), [art. 2](https://www.legislation.gov.uk/uksi/2008/2261/article/2) (with [Schs. 1](https://www.legislation.gov.uk/uksi/2008/2261/schedule/1), [2](https://www.legislation.gov.uk/uksi/2008/2261/schedule/2))
+[^c-966d1154867a365249fc3823a2472739]: Commencement: S. 60 in force at 1.9.2008 in so far as not already in force by [S.I. 2008/2261](https://www.legislation.gov.uk/uksi/2008/2261), [art. 2](https://www.legislation.gov.uk/uksi/2008/2261/article/2) (with [Schs. 1](https://www.legislation.gov.uk/uksi/2008/2261/schedule/1), [2](https://www.legislation.gov.uk/uksi/2008/2261/schedule/2))
 
-[^key-fe99ebead56aa3bf5aa06110449ed536]: Textual amendment: Words in s. 60(1) substituted (1.4.2014 for specified purposes, 1.9.2014 in so far as not already in force) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 4 para. 25](https://www.legislation.gov.uk/ukpga/2014/6/schedule/4/paragraph/25); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [arts. 3(m)](https://www.legislation.gov.uk/uksi/2014/889/article/3/m), [7(e)](https://www.legislation.gov.uk/uksi/2014/889/article/7/e)
+[^c-fe99ebead56aa3bf5aa06110449ed536]: Textual amendment: Words in s. 60(1) substituted (1.4.2014 for specified purposes, 1.9.2014 in so far as not already in force) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 4 para. 25](https://www.legislation.gov.uk/ukpga/2014/6/schedule/4/paragraph/25); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [arts. 3(m)](https://www.legislation.gov.uk/uksi/2014/889/article/3/m), [7(e)](https://www.legislation.gov.uk/uksi/2014/889/article/7/e)

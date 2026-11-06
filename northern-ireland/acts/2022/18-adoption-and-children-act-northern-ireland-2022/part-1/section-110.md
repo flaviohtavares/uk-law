@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 110. Effect of certain orders made in England and Wales[^key-0ae8e32d800e3cca79ed4544adb602b1]
+## 110. Effect of certain orders made in England and Wales[^c-0ae8e32d800e3cca79ed4544adb602b1]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0ae8e32d800e3cca79ed4544adb602b1]: Commencement: S. 110 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-0ae8e32d800e3cca79ed4544adb602b1]: Commencement: S. 110 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

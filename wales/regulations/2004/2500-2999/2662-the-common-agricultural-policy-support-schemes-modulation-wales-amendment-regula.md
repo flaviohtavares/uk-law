@@ -30,7 +30,7 @@ summary: ''
 
 AGRICULTURE, WALES
 
-The Common Agricultural Policy Support Schemes (Modulation)(Wales) (Amendment) Regulations 2004 (revoked)[^key-79dcf91bcb1a556f7666fa30a344d2e0]
+The Common Agricultural Policy Support Schemes (Modulation)(Wales) (Amendment) Regulations 2004 (revoked)[^c-79dcf91bcb1a556f7666fa30a344d2e0]
 
 Made
 
@@ -40,24 +40,24 @@ Coming into force
 
 16 October 2004
 
-[^key-79dcf91bcb1a556f7666fa30a344d2e0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-79dcf91bcb1a556f7666fa30a344d2e0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-79dcf91bcb1a556f7666fa30a344d2e0]
+## 1. Title and commencement[^c-79dcf91bcb1a556f7666fa30a344d2e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Common Agricultural Policy Support Schemes (Modulation) (Wales) Regulations 2000[^key-79dcf91bcb1a556f7666fa30a344d2e0]
+## 2. Amendment of the Common Agricultural Policy Support Schemes (Modulation) (Wales) Regulations 2000[^c-79dcf91bcb1a556f7666fa30a344d2e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-79dcf91bcb1a556f7666fa30a344d2e0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-79dcf91bcb1a556f7666fa30a344d2e0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-79dcf91bcb1a556f7666fa30a344d2e0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-79dcf91bcb1a556f7666fa30a344d2e0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-79dcf91bcb1a556f7666fa30a344d2e0]: Textual amendment: Regulations revoked (1.3.2005) by [The Common Agricultural Policy Single Payment and Support Schemes (Wales) Regulations 2005 (S.I. 2005/360)](https://www.legislation.gov.uk/uksi/2005/360), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/360/regulation/1/1), [14(1)](https://www.legislation.gov.uk/uksi/2005/360/regulation/14/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/360/regulation/1/2), [14(2)](https://www.legislation.gov.uk/uksi/2005/360/regulation/14/2))
+[^c-79dcf91bcb1a556f7666fa30a344d2e0]: Textual amendment: Regulations revoked (1.3.2005) by [The Common Agricultural Policy Single Payment and Support Schemes (Wales) Regulations 2005 (S.I. 2005/360)](https://www.legislation.gov.uk/uksi/2005/360), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/360/regulation/1/1), [14(1)](https://www.legislation.gov.uk/uksi/2005/360/regulation/14/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/360/regulation/1/2), [14(2)](https://www.legislation.gov.uk/uksi/2005/360/regulation/14/2))

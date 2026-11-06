@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 120. Measures in LME undertakings[^key-d8264f4308b2db8450ffda6d276c0987][^key-b428bd29e1aaa578adcd331503b8e16c]
+## 120. Measures in LME undertakings[^c-d8264f4308b2db8450ffda6d276c0987][^c-b428bd29e1aaa578adcd331503b8e16c]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,6 +55,6 @@ unless the Secretary of State believes that at least one measure in the undertak
 
 ## Annotations
 
-[^key-d8264f4308b2db8450ffda6d276c0987]: Commencement: S. 120 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-d8264f4308b2db8450ffda6d276c0987]: Commencement: S. 120 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-b428bd29e1aaa578adcd331503b8e16c]: Commencement: [S. 120](https://www.legislation.gov.uk/ukpga/2025/36/section/120) in force at 7.4.2026 for specified purposes by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(2)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/2)[(21)(b)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/21/b)
+[^c-b428bd29e1aaa578adcd331503b8e16c]: Commencement: [S. 120](https://www.legislation.gov.uk/ukpga/2025/36/section/120) in force at 7.4.2026 for specified purposes by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(2)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/2)[(21)(b)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/21/b)

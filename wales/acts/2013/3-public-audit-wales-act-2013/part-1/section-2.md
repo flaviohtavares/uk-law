@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Office of Auditor General for Wales[^key-8a0a01b144955eb6f9436998ede2d8af]
+## 2. Office of Auditor General for Wales[^c-8a0a01b144955eb6f9436998ede2d8af]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8a0a01b144955eb6f9436998ede2d8af]: Commencement: [S. 2](https://www.legislation.gov.uk/anaw/2013/3/section/2) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
+[^c-8a0a01b144955eb6f9436998ede2d8af]: Commencement: [S. 2](https://www.legislation.gov.uk/anaw/2013/3/section/2) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)

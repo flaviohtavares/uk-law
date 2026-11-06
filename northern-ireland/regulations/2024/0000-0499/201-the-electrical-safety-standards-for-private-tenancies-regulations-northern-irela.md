@@ -55,7 +55,7 @@ In accordance with Article 72(3A) of the 2006 Order, a draft of these regulation
 
 ## PART 1
 
-### 1. Citation and commencement[^key-02f21dd35318eb35e5c1346fab6c182b]
+### 1. Citation and commencement[^c-02f21dd35318eb35e5c1346fab6c182b]
 
 (1) These regulations may be cited as the Electrical Safety Standards for Private Tenancies Regulations (Northern Ireland) 2024.
 
@@ -63,7 +63,7 @@ In accordance with Article 72(3A) of the 2006 Order, a draft of these regulation
 
 (3) These regulations apply to a private tenancy from the date the first inspection and testing is carried out as provided for under Regulation 3(1)(c).
 
-### 2. Interpretation[^key-b4257525ba7b8544825abe3edbf788b7]
+### 2. Interpretation[^c-b4257525ba7b8544825abe3edbf788b7]
 
 In these regulations—
 
@@ -80,7 +80,7 @@ In these regulations—
 
 ## PART 2
 
-### 3. Duties of landlords in relation to electrical installations[^key-60fe537d35489cff6f783833bfe9e89a]
+### 3. Duties of landlords in relation to electrical installations[^c-60fe537d35489cff6f783833bfe9e89a]
 
 (1) A landlord who grants or intends to grant a private tenancy must—
 
@@ -131,7 +131,7 @@ within 28 days of completion of the further investigative or remedial work.
 
 ## PART 3
 
-### 4. Duty of council to serve a remedial notice[^key-9364876aba2e64944f50611a5c7a6198]
+### 4. Duty of council to serve a remedial notice[^c-9364876aba2e64944f50611a5c7a6198]
 
 (1) Where the council has reasonable grounds to believe that, a landlord has failed to comply with one or more of the duties under regulation 3(1)(a), (1)(b), (1)(c), (4), (5) and (6), and the most recent report under regulation 3(3)(a) does not indicate that urgent remedial action is required, the council must serve a remedial notice on the landlord.
 
@@ -160,7 +160,7 @@ within 28 days of completion of the further investigative or remedial work.
 
 (8) The council may withdraw the remedial notice at any time.
 
-### 5. Duty of landlord to comply with a remedial notice[^key-8f9154bc555f230976453ede444071ea]
+### 5. Duty of landlord to comply with a remedial notice[^c-8f9154bc555f230976453ede444071ea]
 
 (1) Where a remedial notice is served on a landlord, the landlord must take the remedial action specified in the notice within—
 
@@ -171,7 +171,7 @@ within 28 days of completion of the further investigative or remedial work.
 
 (3) For the purposes of paragraph (2), where a landlord is prevented from entering the dwelling-house to which the duty under paragraph (1) relates by the tenant of the dwelling-house, the landlord will not be considered to have failed to have taken all reasonable steps to comply with the duty under paragraph (1) solely by reason of a failure to bring legal proceedings with a view to securing entry to the dwelling-house.
 
-### 6. Power of council to arrange remedial action[^key-1d2b631fca626662a45188113bba7f89]
+### 6. Power of council to arrange remedial action[^c-1d2b631fca626662a45188113bba7f89]
 
 (1) Where the council is satisfied that a landlord on whom it has served a remedial notice is in breach of the duty under regulation 5(1), the council may, with the consent of the tenant of the dwelling-house in relation to which the remedial action is to be taken, arrange for an authorised person to enter the dwelling-house to take the remedial action specified in the remedial notice.
 
@@ -192,7 +192,7 @@ within 28 days of completion of the further investigative or remedial work.
 - (a) give not less than 48 hours notice of the remedial action to the tenant of the dwelling-house on which it is to be taken; and
 - (b) if required to do so by or on behalf of the landlord or tenant, produce evidence of identity and authority.
 
-### 7. Appeals relating to remedial action by council[^key-35c7388a4d863b298b8b1c9e268a5e78]
+### 7. Appeals relating to remedial action by council[^c-35c7388a4d863b298b8b1c9e268a5e78]
 
 (1) A landlord on whom a notice under regulation 6(2) has been served may appeal to the County Court against the decision of the council to take that action.
 
@@ -206,7 +206,7 @@ within 28 days of completion of the further investigative or remedial work.
 
 (6) The County Court may confirm, quash or vary the decision of the council.
 
-### 8. Recovery of remedial costs[^key-cb74aa0e8005cec67e1666b2354a9f4a]
+### 8. Recovery of remedial costs[^c-cb74aa0e8005cec67e1666b2354a9f4a]
 
 (1) The council may recover remedial costs reasonably incurred by it in taking action—
 
@@ -217,7 +217,7 @@ within 28 days of completion of the further investigative or remedial work.
 
 (3) If no appeal is brought under regulation 9, the remedial costs become payable at the end of the period of 21 days beginning with the day on which the demand is served.
 
-### 9. Appeal against recovery of remedial costs[^key-df31403cd6f2629d72e3494f4894aea5]
+### 9. Appeal against recovery of remedial costs[^c-df31403cd6f2629d72e3494f4894aea5]
 
 (1) A landlord on whom a demand for the recovery of remedial costs has been served may appeal to the County Court against the demand.
 
@@ -238,7 +238,7 @@ within 28 days of completion of the further investigative or remedial work.
 
 (8) No question may be raised on appeal under this regulation which might have been raised on an appeal against the remedial notice.
 
-### 10. Enforcement of remedial costs[^key-4c839796714c69f97095e0dcf1f9ca04]
+### 10. Enforcement of remedial costs[^c-4c839796714c69f97095e0dcf1f9ca04]
 
 (1) Any remedial costs payable under regulations 8(3) or 9(6) are, until recovered, deemed to be charged on and payable out of the estate of the landlord in the land in relation to which the remedial costs were incurred and the estate in that land or any person deriving title from the landlord.
 
@@ -248,7 +248,7 @@ within 28 days of completion of the further investigative or remedial work.
 
 ## PART 4
 
-### 11. Power of council to arrange urgent remedial action[^key-a2f39961154da6a5dd9baf896bc836f3]
+### 11. Power of council to arrange urgent remedial action[^c-a2f39961154da6a5dd9baf896bc836f3]
 
 (1) Where—
 
@@ -290,7 +290,7 @@ within the period of the 7 days beginning with the day on which the authorised p
 
 ## PART 5
 
-### 12. Offences of non-compliance with duties by landlords[^key-df5f261d96b04d1ae79f1839d6ea4310]
+### 12. Offences of non-compliance with duties by landlords[^c-df5f261d96b04d1ae79f1839d6ea4310]
 
 (1) A landlord who fails to comply with a duty imposed on the landlord by regulation 3 commits an offence.
 
@@ -298,7 +298,7 @@ within the period of the 7 days beginning with the day on which the authorised p
 
 ## PART 6
 
-### 13. Consequential amendment for registration of charges[^key-17130fcaafc579226938ecf01990fe1f]
+### 13. Consequential amendment for registration of charges[^c-17130fcaafc579226938ecf01990fe1f]
 
 In Schedule 11 to the Land Registration Act (Northern Ireland) 1970(b)[^f00004] (matters which require to be registered in the Statutory Charges Register), after paragraph 53 insert—
 
@@ -370,34 +370,34 @@ Guidance on the implementation of The Electrical Safety Standards for Private Te
 
 [^f00001]: Footnote: [2006 No. 1459 (N.I. 10)](https://www.legislation.gov.uk/nisi/2006/1459) as amended by the Private Tenancies Act (Northern Ireland) [2022 c. 20 (N.I.)](https://www.legislation.gov.uk/nia/2022/20).
 
-[^key-02f21dd35318eb35e5c1346fab6c182b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2024/201/regulation/1) in operation at 1.4.2025 with application in accordance with, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2024/201/regulation/1/3)
+[^c-02f21dd35318eb35e5c1346fab6c182b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2024/201/regulation/1) in operation at 1.4.2025 with application in accordance with, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2024/201/regulation/1/3)
 
-[^key-b4257525ba7b8544825abe3edbf788b7]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2024/201/regulation/2) in operation at 1.4.2025 with application in accordance with, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2024/201/regulation/1/3)
+[^c-b4257525ba7b8544825abe3edbf788b7]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2024/201/regulation/2) in operation at 1.4.2025 with application in accordance with, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2024/201/regulation/1/3)
 
 [^f00002]: Footnote: ISBN-13: 978-1-78561-170-4. Copies can be obtained from the Institution of Engineering and Technology, Michael Faraday House, Six Hill Way, Stevenage SG1 2AY.
 
-[^key-60fe537d35489cff6f783833bfe9e89a]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2024/201/regulation/3) in operation at 1.4.2025 with application in accordance with, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2024/201/regulation/1/3)
+[^c-60fe537d35489cff6f783833bfe9e89a]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2024/201/regulation/3) in operation at 1.4.2025 with application in accordance with, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2024/201/regulation/1/3)
 
-[^key-9364876aba2e64944f50611a5c7a6198]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2024/201/regulation/4) in operation at 1.4.2025 with application in accordance with, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2024/201/regulation/1/3)
+[^c-9364876aba2e64944f50611a5c7a6198]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2024/201/regulation/4) in operation at 1.4.2025 with application in accordance with, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2024/201/regulation/1/3)
 
-[^key-8f9154bc555f230976453ede444071ea]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2024/201/regulation/5) in operation at 1.4.2025 with application in accordance with, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2024/201/regulation/1/3)
+[^c-8f9154bc555f230976453ede444071ea]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2024/201/regulation/5) in operation at 1.4.2025 with application in accordance with, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2024/201/regulation/1/3)
 
-[^key-1d2b631fca626662a45188113bba7f89]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2024/201/regulation/6) in operation at 1.4.2025 with application in accordance with, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2024/201/regulation/1/3)
+[^c-1d2b631fca626662a45188113bba7f89]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2024/201/regulation/6) in operation at 1.4.2025 with application in accordance with, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2024/201/regulation/1/3)
 
-[^key-35c7388a4d863b298b8b1c9e268a5e78]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2024/201/regulation/7) in operation at 1.4.2025 with application in accordance with, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2024/201/regulation/1/3)
+[^c-35c7388a4d863b298b8b1c9e268a5e78]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2024/201/regulation/7) in operation at 1.4.2025 with application in accordance with, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2024/201/regulation/1/3)
 
-[^key-cb74aa0e8005cec67e1666b2354a9f4a]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2024/201/regulation/8) in operation at 1.4.2025 with application in accordance with, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2024/201/regulation/1/3)
+[^c-cb74aa0e8005cec67e1666b2354a9f4a]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2024/201/regulation/8) in operation at 1.4.2025 with application in accordance with, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2024/201/regulation/1/3)
 
-[^key-df31403cd6f2629d72e3494f4894aea5]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2024/201/regulation/9) in operation at 1.4.2025 with application in accordance with, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2024/201/regulation/1/3)
+[^c-df31403cd6f2629d72e3494f4894aea5]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2024/201/regulation/9) in operation at 1.4.2025 with application in accordance with, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2024/201/regulation/1/3)
 
-[^key-4c839796714c69f97095e0dcf1f9ca04]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2024/201/regulation/10) in operation at 1.4.2025 with application in accordance with, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2024/201/regulation/1/3)
+[^c-4c839796714c69f97095e0dcf1f9ca04]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2024/201/regulation/10) in operation at 1.4.2025 with application in accordance with, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2024/201/regulation/1/3)
 
 [^f00003]: Footnote: [1881 c. 41](https://www.legislation.gov.uk/ukpga/1881/41).
 
-[^key-a2f39961154da6a5dd9baf896bc836f3]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2024/201/regulation/11) in operation at 1.4.2025 with application in accordance with, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2024/201/regulation/1/3)
+[^c-a2f39961154da6a5dd9baf896bc836f3]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2024/201/regulation/11) in operation at 1.4.2025 with application in accordance with, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2024/201/regulation/1/3)
 
-[^key-df5f261d96b04d1ae79f1839d6ea4310]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2024/201/regulation/12) in operation at 1.4.2025 with application in accordance with, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2024/201/regulation/1/3)
+[^c-df5f261d96b04d1ae79f1839d6ea4310]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2024/201/regulation/12) in operation at 1.4.2025 with application in accordance with, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2024/201/regulation/1/3)
 
-[^key-17130fcaafc579226938ecf01990fe1f]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2024/201/regulation/13) in operation at 1.4.2025 with application in accordance with, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2024/201/regulation/1/3)
+[^c-17130fcaafc579226938ecf01990fe1f]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2024/201/regulation/13) in operation at 1.4.2025 with application in accordance with, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2024/201/regulation/1/3)
 
 [^f00004]: Footnote: [1970 c. 18 (N.I.)](https://www.legislation.gov.uk/apni/1970/18).

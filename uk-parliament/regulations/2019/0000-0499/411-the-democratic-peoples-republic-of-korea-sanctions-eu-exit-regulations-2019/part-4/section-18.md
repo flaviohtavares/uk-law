@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. UK credit or financial institutions: accounts and correspondent banking relationships etc.[^key-90c44ab8e5889f72d13f18547d6d518a][^key-70fd4c75a56cb7cc2473f9ce8355dc02]
+## 18. UK credit or financial institutions: accounts and correspondent banking relationships etc.[^c-90c44ab8e5889f72d13f18547d6d518a][^c-70fd4c75a56cb7cc2473f9ce8355dc02]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,6 +46,6 @@ a person falling within paragraph (2), if the UK credit or financial institution
 
 ## Annotations
 
-[^key-90c44ab8e5889f72d13f18547d6d518a]: Commencement: Reg. 18 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
+[^c-90c44ab8e5889f72d13f18547d6d518a]: Commencement: Reg. 18 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
 
-[^key-70fd4c75a56cb7cc2473f9ce8355dc02]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2019/411/regulation/18) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-70fd4c75a56cb7cc2473f9ce8355dc02]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2019/411/regulation/18) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

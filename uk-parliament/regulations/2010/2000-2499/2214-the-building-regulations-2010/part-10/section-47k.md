@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47K. Stop notices: contents: Wales[^key-54b3ad987fc2073ebbaef26b5155c213]
+## 47K. Stop notices: contents: Wales[^c-54b3ad987fc2073ebbaef26b5155c213]
 
 *Extent: E+W*
 
@@ -35,7 +35,7 @@ summary: ''
   - (ii) in a case within section 35C(1)(b) of the Act, the compliance notice to which the stop notice relates;
   - (iii) in a case within section 35C(1)(c) of the Act, the provision of building regulations or requirement imposed by virtue of building regulations to which the stop notice relates,
 - (c) provide details of the nature of the contravention (including, in a case within section 35C(1)(c) of the Act, the nature of the serious harm that is anticipated),
-- (d) state that the recipient may appeal to the magistrates’ court under section 39A(5) of the Act and state that any appeal must be made within 15 [^key-7cdc141c7c32034c7a244d0d98be4c37]... days of the date the notice is given, and
+- (d) state that the recipient may appeal to the magistrates’ court under section 39A(5) of the Act and state that any appeal must be made within 15 [^c-7cdc141c7c32034c7a244d0d98be4c37]... days of the date the notice is given, and
 - (e) state that the recipient may apply to the magistrates’ court under section 39A(6) of the Act for a direction.
 
 (3) A stop notice must relate to—
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-54b3ad987fc2073ebbaef26b5155c213]: Textual amendment: [Regs. 47I-47P](https://www.legislation.gov.uk/uksi/2010/2214/regulation/47I) inserted (W.) (1.7.2026) by [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2025 (S.I. 2025/1320)](https://www.legislation.gov.uk/wsi/2025/1320), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1/2), [14(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/14/2) (with [reg. 19](https://www.legislation.gov.uk/wsi/2025/1320/regulation/19))
+[^c-54b3ad987fc2073ebbaef26b5155c213]: Textual amendment: [Regs. 47I-47P](https://www.legislation.gov.uk/uksi/2010/2214/regulation/47I) inserted (W.) (1.7.2026) by [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2025 (S.I. 2025/1320)](https://www.legislation.gov.uk/wsi/2025/1320), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1/2), [14(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/14/2) (with [reg. 19](https://www.legislation.gov.uk/wsi/2025/1320/regulation/19))
 
-[^key-7cdc141c7c32034c7a244d0d98be4c37]: Textual amendment: Word in [reg. 47K(2)(d)](https://www.legislation.gov.uk/uksi/2010/2214/regulation/47K/2/d) omitted (20.7.2026) by virtue of [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2026 (W.S.I. 2026/112)](https://www.legislation.gov.uk/wsi/2026/112), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/112/regulation/1/2), [3(19)](https://www.legislation.gov.uk/wsi/2026/112/regulation/3/19)
+[^c-7cdc141c7c32034c7a244d0d98be4c37]: Textual amendment: Word in [reg. 47K(2)(d)](https://www.legislation.gov.uk/uksi/2010/2214/regulation/47K/2/d) omitted (20.7.2026) by virtue of [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2026 (W.S.I. 2026/112)](https://www.legislation.gov.uk/wsi/2026/112), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/112/regulation/1/2), [3(19)](https://www.legislation.gov.uk/wsi/2026/112/regulation/3/19)

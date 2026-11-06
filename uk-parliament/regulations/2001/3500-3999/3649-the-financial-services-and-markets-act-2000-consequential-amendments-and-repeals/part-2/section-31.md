@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Table of defined expressions[^key-0e6a28b691c68976e0faaf281a744647]
+## 31. Table of defined expressions[^c-0e6a28b691c68976e0faaf281a744647]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,6 +46,6 @@ In the Table in section 744A (index of defined expressions)[^f00034]—
 
 ## Annotations
 
-[^key-0e6a28b691c68976e0faaf281a744647]: Commencement: Art. 31 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-0e6a28b691c68976e0faaf281a744647]: Commencement: Art. 31 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00034]: Footnote: Inserted by the Companies Act [1989 (c. 40)](https://www.legislation.gov.uk/ukpga/1989/40), section 145, Schedule 19, paragraph 20.

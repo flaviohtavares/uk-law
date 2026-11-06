@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 120. Amendment to regulation 270[^key-437043812e677d3e5100f72b0952d04e]
+## 120. Amendment to regulation 270[^c-437043812e677d3e5100f72b0952d04e]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,6 +27,6 @@ In regulation 270 (non-compliance with requirements of Part)[^f00127]—
 
 ## Annotations
 
-[^key-437043812e677d3e5100f72b0952d04e]: Commencement: [Reg. 120](https://www.legislation.gov.uk/uksi/2024/832/regulation/120) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-437043812e677d3e5100f72b0952d04e]: Commencement: [Reg. 120](https://www.legislation.gov.uk/uksi/2024/832/regulation/120) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00127]: Footnote: Regulation 270 was amended by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Default pension benefit solutions[^key-add6ade06afb8f2b91de2e18913a27c3]
+## 50. Default pension benefit solutions[^c-add6ade06afb8f2b91de2e18913a27c3]
 
 *Extent: E+W+S*
 
@@ -73,4 +73,4 @@ summary: ''
 
 ## Annotations
 
-[^key-add6ade06afb8f2b91de2e18913a27c3]: Commencement: S. 50 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)
+[^c-add6ade06afb8f2b91de2e18913a27c3]: Commencement: S. 50 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)

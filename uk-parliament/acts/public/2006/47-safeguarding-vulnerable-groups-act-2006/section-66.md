@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Extent[^key-a2caed62a524fa479076e1ec17761a0b]
+## 66. Extent[^c-a2caed62a524fa479076e1ec17761a0b]
 
 *Extent: E+W+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a2caed62a524fa479076e1ec17761a0b]: Commencement: S. 66 in force at 31.12.2007 by [S.I. 2007/3545](https://www.legislation.gov.uk/uksi/2007/3545), [art. 2(l)](https://www.legislation.gov.uk/uksi/2007/3545/article/2/l)
+[^c-a2caed62a524fa479076e1ec17761a0b]: Commencement: S. 66 in force at 31.12.2007 by [S.I. 2007/3545](https://www.legislation.gov.uk/uksi/2007/3545), [art. 2(l)](https://www.legislation.gov.uk/uksi/2007/3545/article/2/l)

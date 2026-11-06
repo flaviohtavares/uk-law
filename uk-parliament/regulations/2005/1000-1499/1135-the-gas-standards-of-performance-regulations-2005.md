@@ -43,70 +43,70 @@ The Gas and Electricity Markets Authority[^f00001] in exercise of the powers con
 
 ## PART I — General
 
-### 1. Citation, commencement and transitional provisions[^key-20bc83c6f615f61d8da25be187fb0399]
+### 1. Citation, commencement and transitional provisions[^c-20bc83c6f615f61d8da25be187fb0399]
 
-(1) These Regulations may be cited as the Gas (Standards of Performance) Regulations 2005 and shall come into force on 1<sup>st</sup> May[^key-08a4c72999d33a50533fa1e8b4e4ac31] 2005.
+(1) These Regulations may be cited as the Gas (Standards of Performance) Regulations 2005 and shall come into force on 1<sup>st</sup> May[^c-08a4c72999d33a50533fa1e8b4e4ac31] 2005.
 
 (2) Where, in relation to any occasion upon which a regulation would otherwise apply, the applicable date falls before the date on which these Regulations come into force, the Gas (Standards of Performance) Regulations 2002[^f00005] shall continue to apply to the exclusion of these Regulations.
 
-### 2. Revocation[^key-a21879c18f2f955aa58ad72378db179a]
+### 2. Revocation[^c-a21879c18f2f955aa58ad72378db179a]
 
 Subject to regulations 1 and 12, the Gas (Standards of Performance) Regulations 2002 are revoked.
 
-### 3. Interpretation[^key-aabb1096642d10b9a2be9a541566fad5]
+### 3. Interpretation[^c-aabb1096642d10b9a2be9a541566fad5]
 
 (1) In these Regulations, unless the context otherwise requires,
 
 - “the Act” means the Gas Act 1986;
 - “accurate” means:
-  - (i) in respect of a standard quotation for the provision of a connection or alteration of an existing connection[^key-5a39ba127e7cd87294a8277cd9698f90] up to and including 275 kWh per hour within 5% or £150 (whichever is greater) of the correct amount as calculated in accordance with the relevant gas transporter’s connection charging statement issued in accordance with [^key-8fb4fab530269d2704ef5a1cb1fdd3fd]... its licence; or
-  - (ii) in respect of a non-standard quotation for the provision of a connection or alteration of an existing connection[^key-ec28210784928d9e372d47c17ce45c1c] up to and including 275 kWh per hour within 5% or £150 (whichever is the greater) of the correct amount as calculated in accordance with the relevant gas transporter’s connection charging statement issued in accordance with [^key-8fb4fab530269d2704ef5a1cb1fdd3fd]... its licence; or
-  - (iii) in respect of a non-standard quotation for the provision of a connection greater than 275 kWh per hour within 5% or £300 (whichever is the greater) of the correct amount as calculated in accordance with the relevant gas transporter’s connection statement issued in accordance with [^key-8fb4fab530269d2704ef5a1cb1fdd3fd]... its licence;
-- [^key-7d78973264f039fde2145d735bd070ea]...
-- “apparent authority” means[^key-31c52f5cb3be624fc6ca61d2027ca2b3] that the name and address of the customer have been provided to the relevant operator together with confirmation that the relevant person is acting on behalf of the customer;
+  - (i) in respect of a standard quotation for the provision of a connection or alteration of an existing connection[^c-5a39ba127e7cd87294a8277cd9698f90] up to and including 275 kWh per hour within 5% or £150 (whichever is greater) of the correct amount as calculated in accordance with the relevant gas transporter’s connection charging statement issued in accordance with [^c-8fb4fab530269d2704ef5a1cb1fdd3fd]... its licence; or
+  - (ii) in respect of a non-standard quotation for the provision of a connection or alteration of an existing connection[^c-ec28210784928d9e372d47c17ce45c1c] up to and including 275 kWh per hour within 5% or £150 (whichever is the greater) of the correct amount as calculated in accordance with the relevant gas transporter’s connection charging statement issued in accordance with [^c-8fb4fab530269d2704ef5a1cb1fdd3fd]... its licence; or
+  - (iii) in respect of a non-standard quotation for the provision of a connection greater than 275 kWh per hour within 5% or £300 (whichever is the greater) of the correct amount as calculated in accordance with the relevant gas transporter’s connection statement issued in accordance with [^c-8fb4fab530269d2704ef5a1cb1fdd3fd]... its licence;
+- [^c-7d78973264f039fde2145d735bd070ea]...
+- “apparent authority” means[^c-31c52f5cb3be624fc6ca61d2027ca2b3] that the name and address of the customer have been provided to the relevant operator together with confirmation that the relevant person is acting on behalf of the customer;
 - “applicable date” means, in relation to each occasion upon which a regulation applies, the day upon which that regulation first applies, or, where a prescribed period in a paragraph of a regulation is expressed in hours, the time on that day when that regulation first applies;
-- [^key-f17439eec0f43c98d0e3c71607c3128a]...
-- “the Authority” means the Gas and Electricity Markets Authority established under section[^key-f32ad97bdebc19bac8a52a1a81e075df] 1 of the Utilities Act 2000[^f00007];
-- “complex connection” means a connection of sufficient complexity as described in a statement issued from time to time by the relevant gas transporter pursuant to its licence[^key-73216e2cfce3c56b3f282c7aa1d3422c] and agreed with the Authority after such consultation as the Authority directs;
+- [^c-f17439eec0f43c98d0e3c71607c3128a]...
+- “the Authority” means the Gas and Electricity Markets Authority established under section[^c-f32ad97bdebc19bac8a52a1a81e075df] 1 of the Utilities Act 2000[^f00007];
+- “complex connection” means a connection of sufficient complexity as described in a statement issued from time to time by the relevant gas transporter pursuant to its licence[^c-73216e2cfce3c56b3f282c7aa1d3422c] and agreed with the Authority after such consultation as the Authority directs;
 - “connection” means the provision of pipe-work from the gas pipe-line system of the relevant gas transporter to the emergency control valve at the relevant premises;
 - “the Council” means the Gas and Electricity Consumer Council established under section 2 of the Utilities Act 2000;
 - “customer” means an owner or occupier of premises in Great Britain who is supplied or requires to be supplied with gas conveyed to those premises through pipes;
-- “disconnection” means the isolation of pipe-work or gas assets from the gas pipe-line system of the relevant gas transporter to the emergency control valve at the relevant premises;[^key-62ff5618caab862d54ec3917fa2c32be]
+- “disconnection” means the isolation of pipe-work or gas assets from the gas pipe-line system of the relevant gas transporter to the emergency control valve at the relevant premises;[^c-62ff5618caab862d54ec3917fa2c32be]
 - “diversion” means work to relocate gas assets connected to the gas pipe-line system of the relevant gas transporter;
 - “domestic customer” means a customer supplied or requiring to be supplied with gas at domestic premises (but excluding such customer in so far as he is supplied or requires to be supplied at premises other than domestic premises);
 - “domestic development” means a development of at least 5 new build domestic premises where there is no existing connection to the relevant gas transporter’s pipe-line system;
 - “domestic premises” means premises at which a supply is taken or to be taken wholly or mainly for domestic purposes;
-- “excluded connection” means a connection described as such in a statement issued from time to time by the relevant gas transporter pursuant to its licence and agreed with the Authority after such consultation as the Authority directs;[^key-bcfa5ecc1afbd946fc12619a7fabdbde]
+- “excluded connection” means a connection described as such in a statement issued from time to time by the relevant gas transporter pursuant to its licence and agreed with the Authority after such consultation as the Authority directs;[^c-bcfa5ecc1afbd946fc12619a7fabdbde]
 - “gas supplier” means, in relation to any premises, a gas supplier who supplies to those premises gas which is conveyed thereto (or, where the premises are secondary sub-deduct premises, to the relevant primary sub-deduct premises) by a gas transporter;
-- [^key-2d27e9b9e579059d7cb4723aa14e1a01]...
-- “land enquiry” means a request by a customer for an indication of the availability of gas, an estimate of pressure, an estimate of the cost of the relevant proposed connection and, where appropriate, the approval of a design for the provision of a new connection[^key-5c341bcd65eeddc49ba5932b45a62948] ,[^key-00c9502835858b4e96fc4fcc16d98b31] alteration of an existing connection or for carrying out of a disconnection[^key-d8a5b51d350c93c65bcb3655d75dc1d6];
-- [^key-f17439eec0f43c98d0e3c71607c3128a]...
+- [^c-2d27e9b9e579059d7cb4723aa14e1a01]...
+- “land enquiry” means a request by a customer for an indication of the availability of gas, an estimate of pressure, an estimate of the cost of the relevant proposed connection and, where appropriate, the approval of a design for the provision of a new connection[^c-5c341bcd65eeddc49ba5932b45a62948] ,[^c-00c9502835858b4e96fc4fcc16d98b31] alteration of an existing connection or for carrying out of a disconnection[^c-d8a5b51d350c93c65bcb3655d75dc1d6];
+- [^c-f17439eec0f43c98d0e3c71607c3128a]...
 - “non-domestic customer” means any customer other than a domestic customer;
 - “non domestic development” means a development of at least 5 new build non-domestic premises where there is no existing connection to the relevant gas transporter’s pipeline system;
 - “non-domestic premises” means any premises other than domestic premises;
-- “non-standard quotation” means a quotation other than a standard quotation (excluding a self quote)[^key-6f2a870b5648ea9a12a3f740a061cbdd];
+- “non-standard quotation” means a quotation other than a standard quotation (excluding a self quote)[^c-6f2a870b5648ea9a12a3f740a061cbdd];
 - “pay” includes crediting the account of the customer for charges incurred or to be incurred in respect of the supply of gas or in respect of the provision of any gas meter, and “payment” shall be construed accordingly;
-- “overcharge” means any sum exceeding the correct amount as calculated in accordance with the relevant gas transporter’s connection charging statement issued in accordance with [^key-8a4d217479e53def9b6fb2bb2158a752]... its licence;
+- “overcharge” means any sum exceeding the correct amount as calculated in accordance with the relevant gas transporter’s connection charging statement issued in accordance with [^c-8a4d217479e53def9b6fb2bb2158a752]... its licence;
 - “pipe-line system” means pipes upstream of any emergency control valve owned by the relevant gas transporter and used for the purpose of conveying gas;
-- “prescribed cap” means in relation to each of the regulations specified in column 1 of Part AI of Schedule 1, the sum specified in column 2 of Part AI of Schedule 1, or as adjusted in accordance with regulation 14A, multiplied by the figure specified in column 3 of Part AI of Schedule 1;[^key-11a43f224edc4ea4438bd9ee0c0ce648]
-- “prescribed period” means in relation to any paragraph or sub-paragraph of these regulations [^key-5f8395ee9afb8d5b060f0653836fb4ca]... the period specified[^key-580dd5a90c01f36b37f6ab8f5ae9bc97] in column 2 of Part I of Schedule 1 opposite the reference to that paragraph or sub-paragraph in column 1 of that Part I of the Schedule;
-- “prescribed sum” means where the customer is a domestic customer the amount specified[^key-65c7ca595079894fb7d4ac06a6244f11] in column 3 of Part I of Schedule 1, or where the customer is a non-domestic customer the amount specified in column 4 of Part I of Schedule 1 , or such other sum calculated in accordance with regulation 14A[^key-ed132955822b1b8fb5bef2de8f77a60b];
+- “prescribed cap” means in relation to each of the regulations specified in column 1 of Part AI of Schedule 1, the sum specified in column 2 of Part AI of Schedule 1, or as adjusted in accordance with regulation 14A, multiplied by the figure specified in column 3 of Part AI of Schedule 1;[^c-11a43f224edc4ea4438bd9ee0c0ce648]
+- “prescribed period” means in relation to any paragraph or sub-paragraph of these regulations [^c-5f8395ee9afb8d5b060f0653836fb4ca]... the period specified[^c-580dd5a90c01f36b37f6ab8f5ae9bc97] in column 2 of Part I of Schedule 1 opposite the reference to that paragraph or sub-paragraph in column 1 of that Part I of the Schedule;
+- “prescribed sum” means where the customer is a domestic customer the amount specified[^c-65c7ca595079894fb7d4ac06a6244f11] in column 3 of Part I of Schedule 1, or where the customer is a non-domestic customer the amount specified in column 4 of Part I of Schedule 1 , or such other sum calculated in accordance with regulation 14A[^c-ed132955822b1b8fb5bef2de8f77a60b];
 - “primary sub-deduct premises” means premises to which gas is conveyed by a gas transporter before being conveyed to secondary sub-deduct premises;
-- “priority domestic customer” means a domestic customer in respect of whom the relevant details included on the Priority Service Register [^key-e7bdaffe0f04064caf8cc9fc42980efc]... have been provided by gas suppliers[^key-4fd6479d9f59e23576240d0e1c226339] to the relevant gas transporter;
-- “Priority Service Register” means the register of certain domestic customers established and maintained by gas suppliers in accordance with the standard conditions of all gas supply licences granted or treated as granted under section 7A(1) of the Gas Act 1986;[^key-1aba2f6569ef76fb6c1ae67e56c15828]
-- “published accuracy scheme” means a scheme, including a process through which a customer can challenge whether it has received an accurate quotation for a connection or alteration of an existing connection[^key-e186e16fdd1807548e9f0eaf22bbe2b1], published by the relevant gas transporter pursuant to its licence[^key-827dd570c78f3540522bcd5a5993cb93] as agreed from time to time with the Authority;
-- “quotation” means a cost estimate for a connection , diversion or disconnection[^key-1fddc5d0986e1925a2543f6e3b20d51d];
+- “priority domestic customer” means a domestic customer in respect of whom the relevant details included on the Priority Service Register [^c-e7bdaffe0f04064caf8cc9fc42980efc]... have been provided by gas suppliers[^c-4fd6479d9f59e23576240d0e1c226339] to the relevant gas transporter;
+- “Priority Service Register” means the register of certain domestic customers established and maintained by gas suppliers in accordance with the standard conditions of all gas supply licences granted or treated as granted under section 7A(1) of the Gas Act 1986;[^c-1aba2f6569ef76fb6c1ae67e56c15828]
+- “published accuracy scheme” means a scheme, including a process through which a customer can challenge whether it has received an accurate quotation for a connection or alteration of an existing connection[^c-e186e16fdd1807548e9f0eaf22bbe2b1], published by the relevant gas transporter pursuant to its licence[^c-827dd570c78f3540522bcd5a5993cb93] as agreed from time to time with the Authority;
+- “quotation” means a cost estimate for a connection , diversion or disconnection[^c-1fddc5d0986e1925a2543f6e3b20d51d];
 - “relevant event” means the occurrence as a result of which a regulation applies;
 - “relevant gas transporter” means, in relation to a customer, the gas transporter to whose pipe-line system the premises of the customer are directly connected, or who has a duty to connect those premises under section 10 of the Act[^f00010], or in relation to secondary sub-deduct premises, the gas transporter to whose pipeline system the primary sub-deduct premises are directly connected, or would be directly connected in accordance with the duty to connect under section 10 of the Act;
-- “relevant operator” means the relevant gas transporter or the gas transporter according to the circumstances of the relevant customer’s case;[^key-f418d57341278c1bcfae583c838fe2e0]
+- “relevant operator” means the relevant gas transporter or the gas transporter according to the circumstances of the relevant customer’s case;[^c-f418d57341278c1bcfae583c838fe2e0]
 - “secondary sub-deduct premises” means premises to which gas is conveyed in pursuance of an exemption from section 5(1)(a) of the Act[^f00011] granted under section 6A of the Act[^f00012], for supply by the gas supplier;
-- “self-quote” means a quotation produced by the customer for the provision of a new connection[^key-513d0a9c2c58e30a05269fd1868ee1f2] or alteration of an existing connection in accordance with any conditions published by the relevant gas transporter to enable the customer to calculate the cost of those works;
-- [^key-f17439eec0f43c98d0e3c71607c3128a]...
-- “standard quotation” means a standard quotation (excluding a self-quote) that does not require a site visit as defined in the connection charges statement issued from time to time by the relevant gas transporter in accordance with [^key-ff0404017bcd2001ee19761ffaf7ce14]... its licence;
+- “self-quote” means a quotation produced by the customer for the provision of a new connection[^c-513d0a9c2c58e30a05269fd1868ee1f2] or alteration of an existing connection in accordance with any conditions published by the relevant gas transporter to enable the customer to calculate the cost of those works;
+- [^c-f17439eec0f43c98d0e3c71607c3128a]...
+- “standard quotation” means a standard quotation (excluding a self-quote) that does not require a site visit as defined in the connection charges statement issued from time to time by the relevant gas transporter in accordance with [^c-ff0404017bcd2001ee19761ffaf7ce14]... its licence;
 - “substantial completion” means that the connection to the premises has been installed, commissioned and left safe;
-- [^key-9a72a9ab7437ea0a533d4313ee630d0e]...
+- [^c-9a72a9ab7437ea0a533d4313ee630d0e]...
 - “working day”means any day other than a Saturday, a Sunday, Christmas Day, Good Friday or a day which is a bank holiday within the meaning of the Banking and Financial Dealings Act 1971[^f00014]; and
-- “working hours” means the period between the hours specified in Part II of [^key-0dd2a771fa2eeb04262d866a019339e6]... Schedule I.
+- “working hours” means the period between the hours specified in Part II of [^c-0dd2a771fa2eeb04262d866a019339e6]... Schedule I.
 
 (2) In these Regulations “Schedule 1” and “Schedule 2” means in either case that Schedule to these Regulations.
 
@@ -119,23 +119,23 @@ Subject to regulations 1 and 12, the Gas (Standards of Performance) Regulations 
 - (c) any reference to the dispatch by a relevant operator of an explanation or reply within a particular period shall not require that the explanation or reply (if in writing) is received by the customer within that period and shall be satisfied if the relevant operator provides the explanation or reply orally to the customer within that period;
 - (d) any reference to a customer shall (except in relation to the entitlement to any payment due from a relevant operator under these Regulations) include any person having apparent authority to represent the customer unless the context otherwise requires.
 
-## PART II — Gas transporter’s individual standards of performance[^key-d5978707ed5081202d9bb4ab11f748c8]
+## PART II — Gas transporter’s individual standards of performance[^c-d5978707ed5081202d9bb4ab11f748c8]
 
-### 4. Meter disputes[^key-d6841143e4e21a83abd72905bb38fa41]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 5. Pre-payment meters[^key-191613c4117e5b560e45e138b9a90902]
+### 4. Meter disputes[^c-d6841143e4e21a83abd72905bb38fa41]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Appointments[^key-0448a440762a7f0c4867692850f241a9]
+### 5. Pre-payment meters[^c-191613c4117e5b560e45e138b9a90902]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Supply restoration[^key-dacada8edfa016411e6b4a3774af35ea]
+### 6. Appointments[^c-0448a440762a7f0c4867692850f241a9]
 
-(1) This regulation applies where the conveyance of gas to a [^key-351320c7b271c399a37a4520e0825c1e]... customer’s premises is discontinued as a result of a failure of, fault in or damage to the pipe-line system operated by the relevant gas transporter.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 7. Supply restoration[^c-dacada8edfa016411e6b4a3774af35ea]
+
+(1) This regulation applies where the conveyance of gas to a [^c-351320c7b271c399a37a4520e0825c1e]... customer’s premises is discontinued as a result of a failure of, fault in or damage to the pipe-line system operated by the relevant gas transporter.
 
 (2) Where this regulation applies, the relevant gas transporter shall, except in any of the circumstances described in paragraph (3), pay the prescribed sum to the customer—
 
@@ -146,32 +146,32 @@ Subject to regulations 1 and 12, the Gas (Standards of Performance) Regulations 
 
 - (a) each of the circumstances described in regulation 13;
 - (b) that the relevant event was caused by the act or default of the customer;
-- (c) that the relevant event resulted in the discontinuance of conveyance of gas to more than 30,000[^key-0475fc5b25737fe4bb4ae5e4e8fac924] premises of customers (whether domestic or non-domestic) of the relevant gas transporter;
-- (d)[^key-5c08d6e8f89ed5be9fcedc8b91da3719] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (e)[^key-240923b1f363c3befb656cfca03e9536] that the discontinuance of conveyance of gas to the customer’s premises would not have occurred but for a failure of, fault in or damage to the pipe-line system of another gas transporter and the relevant gas transporter has so notified the other gas transporter within 5 working days from the end of the relevant event specifying—
+- (c) that the relevant event resulted in the discontinuance of conveyance of gas to more than 30,000[^c-0475fc5b25737fe4bb4ae5e4e8fac924] premises of customers (whether domestic or non-domestic) of the relevant gas transporter;
+- (d)[^c-5c08d6e8f89ed5be9fcedc8b91da3719] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-240923b1f363c3befb656cfca03e9536] that the discontinuance of conveyance of gas to the customer’s premises would not have occurred but for a failure of, fault in or damage to the pipe-line system of another gas transporter and the relevant gas transporter has so notified the other gas transporter within 5 working days from the end of the relevant event specifying—
   - (i) the number of customers affected;
   - (ii) whether each of the customers affected is a domestic customer or a non-domestic customer; and
   - (iii) the duration of the discontinuance of conveyance of gas for each of the customers affected.
-- (f) that the relevant event was caused by severe weather conditions or other circumstances of an exceptional nature beyond the control of the gas transporter and the gas transporter had taken all such steps as it was reasonable to take both to prevent the circumstances from occurring and to prevent them from having that effect ; and[^key-d9721883529894a763d1e93bd02005eb]
-- (g)[^key-bbfd5c495802cb754f871af891eeda7d] that the customer’s premises are premises to which the conveyance of gas is at a rate in excess of 73,200 kWh a year.
+- (f) that the relevant event was caused by severe weather conditions or other circumstances of an exceptional nature beyond the control of the gas transporter and the gas transporter had taken all such steps as it was reasonable to take both to prevent the circumstances from occurring and to prevent them from having that effect ; and[^c-d9721883529894a763d1e93bd02005eb]
+- (g)[^c-bbfd5c495802cb754f871af891eeda7d] that the customer’s premises are premises to which the conveyance of gas is at a rate in excess of 73,200 kWh a year.
 
-(4)[^key-6af86865dd3d4421eaf88b02a2d249c8] In the circumstance described in paragraph (3)(e) this regulation shall apply to the other gas transporter as if he were the relevant gas transporter.
+(4)[^c-6af86865dd3d4421eaf88b02a2d249c8] In the circumstance described in paragraph (3)(e) this regulation shall apply to the other gas transporter as if he were the relevant gas transporter.
 
-### 8. Reinstatement of customer’s premises[^key-ac318947c99f3b020abc83bb11cd3610]
+### 8. Reinstatement of customer’s premises[^c-ac318947c99f3b020abc83bb11cd3610]
 
 (1) This regulation applies where the relevant gas transporter has completed work to a service pipe to the customer’s premises and any associated work to a distribution main where such pipe or main is situated under or within the premises of the customer.
 
 (2) Where this regulation applies, the relevant gas transporter shall, except in any of the circumstances described in paragraph (3), pay the prescribed sum to the customer where the relevant gas transporter has not completed the reinstatement of the customer’s premises–
 
 - (a) within the prescribed period from the applicable date; and
-- (b)[^key-bb8a01bd9f4a218571edbc29ad964a32] upon the expiry of each succeeding period of—
+- (b)[^c-bb8a01bd9f4a218571edbc29ad964a32] upon the expiry of each succeeding period of—
   - (i) three working days where the customer has been a priority domestic customer for more than thirty days prior to the start of the relevant event; or
   - (ii) five working days in all other circumstances.
 
 (3) The circumstances described in this paragraph are—
 
 - (a) each of the circumstances described in regulation 13;
-- (b)[^key-d4f2f41113035cad2f028fd400369198] that the work was requested by the customer to whom a payment under this regulation would otherwise be required to be made and related to the connection or an alteration to the connection to the customer’s premises; and
+- (b)[^c-d4f2f41113035cad2f028fd400369198] that the work was requested by the customer to whom a payment under this regulation would otherwise be required to be made and related to the connection or an alteration to the connection to the customer’s premises; and
 - (c) that the work resulted from the act or default of the customer or persons under his control.
 
 (4) For the purposes of paragraph (2), the customer’s premises shall be deemed to have been reinstated where—
@@ -181,7 +181,7 @@ Subject to regulations 1 and 12, the Gas (Standards of Performance) Regulations 
 
 (5) In this regulation, “premises” includes any land or structure within the curtilage of the premises to which the gas is conveyed.
 
-### 9. Priority domestic customers[^key-11ba917e646c160e949622e5dcceb093]
+### 9. Priority domestic customers[^c-11ba917e646c160e949622e5dcceb093]
 
 (1) This regulation applies (in addition to regulation 7) where the conveyance of gas to a priority domestic customer’s premises or to gas fittings at those premises is discontinued.
 
@@ -192,7 +192,7 @@ Subject to regulations 1 and 12, the Gas (Standards of Performance) Regulations 
   - (i) less than 250 customers' premises (whether domestic or non-domestic) are affected by the relevant event, within the prescribed period from the relevant time; or
   - (ii) 250 or more customers' premises (whether domestic or non-domestic) are affected by the relevant event, within the prescribed period from the relevant time.
 
-(2A)[^key-4763463aaa4062db91fcedea3475994d] Where the relevant gas transporter must pay a prescribed sum under paragraph (2), the relevant gas transporter must make subsequent payments of the prescribed sum to the customer for each 24 hour period that the relevant event continues after the expiry of the prescribed period, except in any of the circumstances described in paragraph (3).
+(2A)[^c-4763463aaa4062db91fcedea3475994d] Where the relevant gas transporter must pay a prescribed sum under paragraph (2), the relevant gas transporter must make subsequent payments of the prescribed sum to the customer for each 24 hour period that the relevant event continues after the expiry of the prescribed period, except in any of the circumstances described in paragraph (3).
 
 (2B) Where this regulation applies and 250 or more customers’ premises (whether domestic or non-domestic) are affected by the relevant event for longer than 48 hours, the relevant gas transporter must, except in any of the circumstances described in paragraphs (3)(a) to (d), provide each priority domestic customer access to—
 
@@ -209,13 +209,13 @@ from 48 hours after the relevant event commenced until it ends.
 (3) The circumstances described in this paragraph are—
 
 - (a) each of the circumstances described in regulation 13;
-- (b) that , in respect of the relevant obligation,[^key-11f1a5eb33e9a64cd693987426f22b31] the customer had alternative heating ,[^key-dd1061dcb9b01f4511bffdb031b82183] cooking facilities , access to hot meals or access to hot water[^key-590c1107e41ee65066a72d527c450c21] (as the case may be);
-- (c) that , in respect of the relevant obligation[^key-95e989d3e8974e385f65d019a93bd659]—
-  - (i) alternative heating and cooking facilities were made available for collection , or access to hot meals or access to hot water was made available (as the case may be)[^key-fb716dde84b13545081ef8932186291b] from a place reasonably conveniently situated to the customer’s premises;
+- (b) that , in respect of the relevant obligation,[^c-11f1a5eb33e9a64cd693987426f22b31] the customer had alternative heating ,[^c-dd1061dcb9b01f4511bffdb031b82183] cooking facilities , access to hot meals or access to hot water[^c-590c1107e41ee65066a72d527c450c21] (as the case may be);
+- (c) that , in respect of the relevant obligation[^c-95e989d3e8974e385f65d019a93bd659]—
+  - (i) alternative heating and cooking facilities were made available for collection , or access to hot meals or access to hot water was made available (as the case may be)[^c-fb716dde84b13545081ef8932186291b] from a place reasonably conveniently situated to the customer’s premises;
   - (ii) the location of that place was notified to the customer within the prescribed period from the applicable date or the relevant time (as the case may be); and
-  - (iii) that it was reasonable for the relevant gas transporter to expect the customer to collect or arrange for the collection of the alternative heating and cooking facilities , or to access hot meals or hot water (as the case may be)[^key-b6a66197e113c2e1fc3220d286863d56] from that place having regard to all relevant circumstances, including the information which was available, or could have reasonably been[^key-2c93e88abe58f0dad61c7eb085fdae7e] obtained by, the relevant gas transporter in relation to the customer ;[^key-f44b5801e8a08b2f50b2671c0d253dc5]
-- (d)[^key-2027c08058f2c62502dc608f5d8e6a20] that , in respect of the relevant obligation,[^key-43a725cb70a391485700ef0337989032] the customer declined alternative heating ,[^key-ddbf39e68b9e6575bd517fc7f030c2bd] cooking facilities , access to hot meals or access to hot water[^key-ecdfda857c27e40e19d162a025c112d8] (as the case may be) offered by the relevant gas transporter; and
-- (e)[^key-f3208aba748372bf4c6c373ecbe202d4] that the making of an additional payment of the prescribed sum in respect of the continuation of a breach under paragraphs (2), (2A) and (2C) would cause the aggregate of the payments to the customer to exceed the prescribed cap.
+  - (iii) that it was reasonable for the relevant gas transporter to expect the customer to collect or arrange for the collection of the alternative heating and cooking facilities , or to access hot meals or hot water (as the case may be)[^c-b6a66197e113c2e1fc3220d286863d56] from that place having regard to all relevant circumstances, including the information which was available, or could have reasonably been[^c-2c93e88abe58f0dad61c7eb085fdae7e] obtained by, the relevant gas transporter in relation to the customer ;[^c-f44b5801e8a08b2f50b2671c0d253dc5]
+- (d)[^c-2027c08058f2c62502dc608f5d8e6a20] that , in respect of the relevant obligation,[^c-43a725cb70a391485700ef0337989032] the customer declined alternative heating ,[^c-ddbf39e68b9e6575bd517fc7f030c2bd] cooking facilities , access to hot meals or access to hot water[^c-ecdfda857c27e40e19d162a025c112d8] (as the case may be) offered by the relevant gas transporter; and
+- (e)[^c-f3208aba748372bf4c6c373ecbe202d4] that the making of an additional payment of the prescribed sum in respect of the continuation of a breach under paragraphs (2), (2A) and (2C) would cause the aggregate of the payments to the customer to exceed the prescribed cap.
 
 (4) For the purposes of this regulation—
 
@@ -224,26 +224,26 @@ from 48 hours after the relevant event commenced until it ends.
   - (ii) in respect of cooking, a single ring electric or bottled gas appliance,
 
   or, in either case, any reasonably equivalent appliance, having regard to the expected duration of the discontinuance and the weather conditions expected during that period;
-- (b) in calculating the prescribed period, the period between 10:00 p.m. and 6:00 a.m.[^key-7d267dc698da3356fcc9fa48072b9b1a] shall be ignored;
+- (b) in calculating the prescribed period, the period between 10:00 p.m. and 6:00 a.m.[^c-7d267dc698da3356fcc9fa48072b9b1a] shall be ignored;
 - (c) a relevant gas transporter shall be deemed to have been notified of a relevant event where the relevant event is notified to any person operating a service for receipt of such information on behalf of the relevant gas transporter; and
 - (d) “the relevant time” means–
   - (i) the time when the relevant event occurred; or if later
   - (ii) the time when the relevant gas transporter was notified or became aware that the relevant event had occurred or of circumstances in which a prudent operator would expect that a relevant event had or was likely to occur in respect of the customer’s premises.
 
-### 10. Connections[^key-9fa3ec0f484cc580feb0388e08cbfa89]
+### 10. Connections[^c-9fa3ec0f484cc580feb0388e08cbfa89]
 
 (1) This regulation applies where–
 
-- (a) in respect of paragraphs 3(a) and (b), a relevant gas transporter receives a request for a quotation for obtaining a new connection ,[^key-a777023626b781f13ea30d252b48b3a9] altering an existing connection , arranging a diversion or carrying out a disconnection[^key-79577103218658da6fefc336299f729f] from a customer; or
-- (b) in respect of paragraph (3A)[^key-7830f680669beaf8da87e0b2e5f075bf], a customer challenges a quotation with regards to the provision of a connection or alteration of an existing connection[^key-bfb5511e9270cf183295e974bd2fbde1] under the relevant gas transporter’s published accuracy scheme; or
-- (c) in respect of paragraph (3)(c)[^key-648f51659604e7d44046693250740f06] a relevant gas transporter receives a land enquiry from a customer; or
-- (d)[^key-24333c62100316742979f214b76371d0] in respect of paragraphs (3)(d) and (e)[^key-1e151b38ea10fe042931e71b63a1330b] a relevant gas transporter receives acceptance of a quotation (including a self-quote) for the provision of a new connection or alteration of an existing connection from a customer
+- (a) in respect of paragraphs 3(a) and (b), a relevant gas transporter receives a request for a quotation for obtaining a new connection ,[^c-a777023626b781f13ea30d252b48b3a9] altering an existing connection , arranging a diversion or carrying out a disconnection[^c-79577103218658da6fefc336299f729f] from a customer; or
+- (b) in respect of paragraph (3A)[^c-7830f680669beaf8da87e0b2e5f075bf], a customer challenges a quotation with regards to the provision of a connection or alteration of an existing connection[^c-bfb5511e9270cf183295e974bd2fbde1] under the relevant gas transporter’s published accuracy scheme; or
+- (c) in respect of paragraph (3)(c)[^c-648f51659604e7d44046693250740f06] a relevant gas transporter receives a land enquiry from a customer; or
+- (d)[^c-24333c62100316742979f214b76371d0] in respect of paragraphs (3)(d) and (e)[^c-1e151b38ea10fe042931e71b63a1330b] a relevant gas transporter receives acceptance of a quotation (including a self-quote) for the provision of a new connection or alteration of an existing connection from a customer
 
-in each case in respect of gas conveyed to premises at a pressure of less than 7 bar gauge and excluding domestic developments, non domestic developments, complex connections and excluded connections.[^key-78778b2e95cd1e895da65f024101ff16]
+in each case in respect of gas conveyed to premises at a pressure of less than 7 bar gauge and excluding domestic developments, non domestic developments, complex connections and excluded connections.[^c-78778b2e95cd1e895da65f024101ff16]
 
 (2) For the purposes of paragraph (1) where the relevant gas transporter receives a request for a quotation, a land enquiry or the acceptance of a quotation after 5pm on a working day or at any time on any other day, the request for a quotation, land enquiry or acceptance of the quotation shall be deemed to have been received on the next following working day.
 
-(3)[^key-b8b69c8fd276c5b36c74647094bafce5] Where this regulation applies and the relevant gas transporter fails—
+(3)[^c-b8b69c8fd276c5b36c74647094bafce5] Where this regulation applies and the relevant gas transporter fails—
 
 - (a) within the prescribed period from the applicable date to issue to a customer a standard quotation for—
   - (i) a new connection up to and including 275kWh per hour;
@@ -280,14 +280,14 @@ the relevant gas transporter must, except in the circumstances described in para
 
 (3A) Where this regulation applies and the relevant gas transporter fails to provide the customer with an accurate quotation with regards to the provision of a new connection or alteration of an existing connection, the relevant gas transporter must, except in the circumstances described in paragraph (6), refund the customer any overcharge that has been paid.
 
-(4) In the event that the customer challenges a quotation with regards to the provision of a connection or alteration of an existing connection[^key-e59b37c5b3f8208a640d0971f40833df] provided by the relevant gas transporter in accordance with any published accuracy scheme and such quotation is found not to be accurate, the quotation will be deemed invalid and the provisions of paragraph 3(a) and 3(b) shall apply until the relevant gas transporter issues a revised quotation to the customer.
+(4) In the event that the customer challenges a quotation with regards to the provision of a connection or alteration of an existing connection[^c-e59b37c5b3f8208a640d0971f40833df] provided by the relevant gas transporter in accordance with any published accuracy scheme and such quotation is found not to be accurate, the quotation will be deemed invalid and the provisions of paragraph 3(a) and 3(b) shall apply until the relevant gas transporter issues a revised quotation to the customer.
 
 (5) Notwithstanding paragraph (4), the relevant transporter shall refund to the customer any overcharge.
 
 (6) The circumstances described in this paragraph are—
 
 - (a) each of the circumstances described in regulation 13 provided that in relation to paragraph (6) of that regulation, the relevant gas transporter gave the customer not less than one working day’s prior warning (whether or not in writing) that he would be unable to keep the timed appointment or the circumstances referred to in that paragraph occurred at a time when it was not reasonably practicable to give such a warning;
-- (b)[^key-4f3953fdc73cd4e85e7d818c0dfe8adb] that the making of an additional payment of the prescribed sum in respect of the continuation of any one breach under paragraph (3)(a) or any of paragraphs (3)(b)(i) to (iii) would cause the aggregate of payments of the prescribed sum to the customer in respect of that breach to exceed the lesser of the prescribed cap or the quotation sum;
+- (b)[^c-4f3953fdc73cd4e85e7d818c0dfe8adb] that the making of an additional payment of the prescribed sum in respect of the continuation of any one breach under paragraph (3)(a) or any of paragraphs (3)(b)(i) to (iii) would cause the aggregate of payments of the prescribed sum to the customer in respect of that breach to exceed the lesser of the prescribed cap or the quotation sum;
 - (ba) that the making of an additional payment of the prescribed sum in respect of the continuation of any one breach under any of paragraphs (3)(b)(iv) to (vii) would cause the aggregate of payments of the prescribed sum to the customer in respect of that breach to exceed the lesser of the prescribed cap or the quotation sum;
 - (c) that the making of an additional payment of the prescribed sum in respect of the continuation of any one breach under any of paragraphs (3)(c)(i) to (iii) would cause the aggregate of payments of the prescribed sum to the customer in respect of that breach to exceed the prescribed cap;
 - (ca) that the making of an additional payment of the prescribed sum in respect of the continuation of any one breach under any of paragraphs (3)(c)(iv) to (vi) would cause the aggregate of payments of the prescribed sum to the customer in respect of that breach to exceed the prescribed cap;
@@ -307,10 +307,10 @@ the relevant gas transporter must, except in the circumstances described in para
 (7) In this regulation—
 
 - (a) “specified day” means a day within a reasonable period from the applicable date;
-- (b) “quotation sum” means the price originally quoted for the connection , alteration, diversion or disconnection[^key-7c13aea29ef98f6dd6fa96157b0c4a31]; and
-- (c) “contract sum” means the accurate quotation for the connection or alteration[^key-ff9fb3eb4d9b9943831d347a04d1c8da].
+- (b) “quotation sum” means the price originally quoted for the connection , alteration, diversion or disconnection[^c-7c13aea29ef98f6dd6fa96157b0c4a31]; and
+- (c) “contract sum” means the accurate quotation for the connection or alteration[^c-ff9fb3eb4d9b9943831d347a04d1c8da].
 
-### 10A. Notice of planned interruption[^key-c7039e92e93e83d934df37adca6ba83b]
+### 10A. Notice of planned interruption[^c-c7039e92e93e83d934df37adca6ba83b]
 
 (1) This regulation applies where the conveyance of gas to a customer’s premises is discontinued for the purpose of carrying out planned maintenance or replacement work to the pipe-line system operated by the relevant gas transporter.
 
@@ -318,10 +318,10 @@ the relevant gas transporter must, except in the circumstances described in para
 
 (3) The circumstances described in this paragraph are—
 
-- (a) each of the circumstances described in paragraphs (2), (3), (6), (8) and (9) of regulation 13 .[^key-64d44e9f240e3e6bc6e64afd3c2e8b06]
-- (b)[^key-bedbd4453e9ede4c7d5ee7b52ab382f2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) each of the circumstances described in paragraphs (2), (3), (6), (8) and (9) of regulation 13 .[^c-64d44e9f240e3e6bc6e64afd3c2e8b06]
+- (b)[^c-bedbd4453e9ede4c7d5ee7b52ab382f2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10B. Responding to complaints[^key-30f1c849b2c699800483407b357f681f]
+### 10B. Responding to complaints[^c-30f1c849b2c699800483407b357f681f]
 
 (1) This regulation applies where a relevant gas transporter receives from or on behalf of a customer, in his capacity as such, a verbal complaint (by use of a telephone number) or written complaint relating to its activities to which the relevant gas transporter reasonably expects the customer will anticipate a response.
 
@@ -342,30 +342,30 @@ the relevant gas transporter shall, except in any of the circumstances described
 - (b) where paragraph (3) applies, that the relevant gas transporter was either unable to contact the customer and/or persons other than officers, employees or agents of the relevant gas transporter, or had contacted persons other than such officers, employees or agents but had not received a reply, and has so notified the customer, within the prescribed period from receipt of the complaint, and the relevant gas transporter has demonstrated that it had taken all such steps as it was reasonable to take to make contact;
 - (c) where paragraph (3) applies, that the customer requested an appointment for visiting the customer’s premises outside of the prescribed period from receipt of the complaint;
 - (d) that the relevant gas transporter reasonably considers that the complaint was frivolous or vexatious; and
-- (e) that the making of an additional payment of the prescribed sum in respect of the continuation of any one breach under paragraph (2)(a)(i) or (2)(a)(ii) or (2)(b) would cause the aggregate of the prescribed payments to the customer in respect of that breach under that paragraph to exceed the prescribed cap[^key-d6b812fcbb1892782867b2fa2e7ed682].
+- (e) that the making of an additional payment of the prescribed sum in respect of the continuation of any one breach under paragraph (2)(a)(i) or (2)(a)(ii) or (2)(b) would cause the aggregate of the prescribed payments to the customer in respect of that breach under that paragraph to exceed the prescribed cap[^c-d6b812fcbb1892782867b2fa2e7ed682].
 
 (5) For the purposes of paragraph (1) the relevant gas transporter may advise the customer of a telephone number to use for the purpose of making a verbal complaint and the reasonable hours during which the telephone number will be available for receipt of complaints.
 
-### 11. Disputes[^key-5899bbc8246d51d03046ee9db8ee6b67]
+### 11. Disputes[^c-5899bbc8246d51d03046ee9db8ee6b67]
 
 Where a dispute under any provision of these regulations is referred to the Authority for determination under sub-section 33AB(1) of the Act[^f00018], the dispute shall be determined in accordance with the practice and procedure set out in Schedule 2 to these Regulations.
 
-### 12. Payments[^key-d784c39c6eff3d4c6f1713af95807969]
+### 12. Payments[^c-d784c39c6eff3d4c6f1713af95807969]
 
-(1)[^key-a63c83627bbfb2ec5f77c79d560047a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-a63c83627bbfb2ec5f77c79d560047a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(1A)[^key-d12b365e5ee4756310835483e7fdd351] Paragraph (3A) applies where a gas transporter is obliged to make a payment to a customer whose premises are directly connected to the pipe-line system of another gas transporter under regulation 7.
+(1A)[^c-d12b365e5ee4756310835483e7fdd351] Paragraph (3A) applies where a gas transporter is obliged to make a payment to a customer whose premises are directly connected to the pipe-line system of another gas transporter under regulation 7.
 
-(2)[^key-e83f54bc36155aa4fdd22cb50fe894bd] Paragraph (4) applies—
+(2)[^c-e83f54bc36155aa4fdd22cb50fe894bd] Paragraph (4) applies—
 
 - (a) where a gas transporter is obliged to make a payment to a customer whose premises are directly connected to its pipe-line system under any of regulations 7 to 10B (inclusive); or
 - (b) where a gas transporter receives a payment from another gas transporter for onward transmission to a customer whose premises are directly connected to its pipe-line system.
 
-(3)[^key-662642aaded964e86a89aa6cd78a4a63] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-662642aaded964e86a89aa6cd78a4a63] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3A)[^key-c30ebd7dc2dae1ba8cce8d78a3fc2fdd] Where this paragraph applies and the gas transporter fails within the prescribed period from the applicable date to make the payment to the customer, or to the other gas transporter for onward transmission to the customer of the sum to which he is entitled, the gas transporter shall, except in any of the circumstances described in paragraph (5), pay the prescribed sum to the customer or to that other gas transporter for onward transmission to the customer.
+(3A)[^c-c30ebd7dc2dae1ba8cce8d78a3fc2fdd] Where this paragraph applies and the gas transporter fails within the prescribed period from the applicable date to make the payment to the customer, or to the other gas transporter for onward transmission to the customer of the sum to which he is entitled, the gas transporter shall, except in any of the circumstances described in paragraph (5), pay the prescribed sum to the customer or to that other gas transporter for onward transmission to the customer.
 
-(4)[^key-de0456dab2e7dec2e532bd57c52b9c3c] Where this paragraph applies and the gas transporter fails to make payment to the customer of the sum to which he is entitled—
+(4)[^c-de0456dab2e7dec2e532bd57c52b9c3c] Where this paragraph applies and the gas transporter fails to make payment to the customer of the sum to which he is entitled—
 
 - (a) within the prescribed period from the applicable date, where paragraph 2(a) applies; or
 - (b) within the prescribed period from the applicable date, where paragraph 2(b) applies,
@@ -380,12 +380,12 @@ the gas transporter shall, except in any of the circumstances described in parag
 (6) Where a relevant operator is required to make a payment under these Regulations–
 
 - (a) in relation to any premises of which more than one person is a customer, a payment to any one or more of the customers in respect of those premises shall be a complete discharge of the obligation of the relevant operator to make the payment to all the customers of those premises;
-- (b) nothing in, or done by a relevant operator in consequence of, these Regulations shall determine who is beneficially entitled to any payment made in pursuance of these Regulations; [^key-da2317ab3f9f7e11be064acc6719686e]...
+- (b) nothing in, or done by a relevant operator in consequence of, these Regulations shall determine who is beneficially entitled to any payment made in pursuance of these Regulations; [^c-da2317ab3f9f7e11be064acc6719686e]...
 - (c) nothing in these Regulations shall permit a relevant operator to make a payment other than by means of;
-  - (i) a cheque or cash or BACS transfer [^key-4eef1ed04eb37c132179ca4ec1f4c72d]..., or
-  - (ii)[^key-12d2905d82ba5bb4f58cac9daa850689] an account credit for charges incurred or to be incurred in respect of the supply of gas or the provision of any gas meter or the provision of any connection;
-- (d)[^key-0decab2ad406b10f981a2538b6a396b1] where a gas transporter elects to make any payment directly to a customer, the payment by the gas transporter to a person whom it reasonably believes to be the customer in respect of the premises in relation to which the entitlement arises shall be a complete discharge of the obligation of the gas transporter to make the payment to the customer of those premises; and
-- (e)[^key-0a92934613fd5b798e9b58b4b47c4e3b] in relation to a customer whose premises are directly connected to the pipe-line system of another gas transporter, a payment to that other gas transporter for onward transmission to the customer shall be a complete discharge of the obligation of the gas transporter to make the payment to the customer.
+  - (i) a cheque or cash or BACS transfer [^c-4eef1ed04eb37c132179ca4ec1f4c72d]..., or
+  - (ii)[^c-12d2905d82ba5bb4f58cac9daa850689] an account credit for charges incurred or to be incurred in respect of the supply of gas or the provision of any gas meter or the provision of any connection;
+- (d)[^c-0decab2ad406b10f981a2538b6a396b1] where a gas transporter elects to make any payment directly to a customer, the payment by the gas transporter to a person whom it reasonably believes to be the customer in respect of the premises in relation to which the entitlement arises shall be a complete discharge of the obligation of the gas transporter to make the payment to the customer of those premises; and
+- (e)[^c-0a92934613fd5b798e9b58b4b47c4e3b] in relation to a customer whose premises are directly connected to the pipe-line system of another gas transporter, a payment to that other gas transporter for onward transmission to the customer shall be a complete discharge of the obligation of the gas transporter to make the payment to the customer.
 
 (7) Where all or part of the prescribed sum is paid by a gas transporter to a customer under these regulations, such a payment shall not prevent that gas transporter from recovering that payment (or part of that payment) from another gas transporter where that other gas transporter is wholly or partly responsible for the liability arising under these regulations.
 
@@ -394,17 +394,17 @@ the gas transporter shall, except in any of the circumstances described in parag
 - (a) “payment” means, in respect of regulations 7, 8, 10 and 10B, the aggregate of payments due to a customer under each of those regulations; and
 - (b) “applicable date” means—
   - (i) in relation to paragraph (3A), the day upon which the gas transporter receives notification from the other gas transporter in accordance with regulation 7(3)(e); and
-  - (ii) in relation to paragraph (4), in respect of regulation 9 and regulation 10A, the day after the relevant event ends[^key-7a1357a9f400250f18379f57b61b43df].
+  - (ii) in relation to paragraph (4), in respect of regulation 9 and regulation 10A, the day after the relevant event ends[^c-7a1357a9f400250f18379f57b61b43df].
 
-### 13. Exemptions[^key-2f1eb32c3439919ba82f95214395a1de]
+### 13. Exemptions[^c-2f1eb32c3439919ba82f95214395a1de]
 
 (1) The circumstances described in this regulation are those set out in paragraphs (2) to (4) and (6) to (9).
 
-(2) The customer informs the relevant operator before the contravention time that the customer does not wish the relevant operator to take any action, [^key-db885328566b238e6d7fb32711a923ff]... in relation to the matter.
+(2) The customer informs the relevant operator before the contravention time that the customer does not wish the relevant operator to take any action, [^c-db885328566b238e6d7fb32711a923ff]... in relation to the matter.
 
 (3) The customer agrees with the relevant operator that the action taken by the relevant operator before the contravention time shall be treated as the taking by the relevant operator of the action required by the regulation and, where the action taken by the relevant operator includes a promise to perform any action (whether before or after the contravention time), the relevant operator duly performs that promise.
 
-(4) Where information is or is required to be provided by the customer to the relevant operator, the customer has failed to provide that information or the information is provided to an address or by use of a telephone number other than the address or telephone number which the relevant operator has advised the customer is appropriate for receipt of information of that type or, in the case of information given by telephone for the purpose of regulation 10(1)(d)[^key-1f4bed3d76613ff1e5522ed920088ec4] was given outside such reasonable hours as the relevant operator has advised the customer are the hours during which the telephone number will be available for the receipt of information of that type.
+(4) Where information is or is required to be provided by the customer to the relevant operator, the customer has failed to provide that information or the information is provided to an address or by use of a telephone number other than the address or telephone number which the relevant operator has advised the customer is appropriate for receipt of information of that type or, in the case of information given by telephone for the purpose of regulation 10(1)(d)[^c-1f4bed3d76613ff1e5522ed920088ec4] was given outside such reasonable hours as the relevant operator has advised the customer are the hours during which the telephone number will be available for the receipt of information of that type.
 
 (5) For the purposes of paragraph (4) the relevant operator may advise the customer by publishing the address, the telephone number or the hours in such a manner as may be appropriate for the purpose of bringing the advice to the attention of customers likely to be affected by it.
 
@@ -437,11 +437,11 @@ and the action taken or not taken by the relevant operator was in exercise of hi
 - (a) in relation to regulations 7 and 8, the expiry of the relevant period referred to in paragraph 2(a) of each regulation and (where applicable) of each period referred to in paragraph 2(b) of each regulation; and
 - (b) in relation to any other regulation, the time at which, if this regulation and any other exemption contained in that regulation did not apply, the relevant operator would become liable to pay the prescribed sum to the customer.
 
-### 14. Timing of notification[^key-42eedc2ac65e8bfeee120d194cb2460b]
+### 14. Timing of notification[^c-42eedc2ac65e8bfeee120d194cb2460b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14A. Indexation of prescribed sums and prescribed caps[^key-b19209f8a5a0d265491aea39d2013721]
+### 14A. Indexation of prescribed sums and prescribed caps[^c-b19209f8a5a0d265491aea39d2013721]
 
 (1) The prescribed sums for each financial year beginning with 1 April 2022 are calculated by—
 
@@ -455,9 +455,9 @@ and the action taken or not taken by the relevant operator was in exercise of hi
 
 (3) In this regulation, “CPIH” means the consumer prices index including owner occupiers’ housing costs (all items) published by the Office for National Statistics.
 
-### 15. Notice of rights[^key-c5c0e9955c3a46008ac82fb66f5e6103]
+### 15. Notice of rights[^c-c5c0e9955c3a46008ac82fb66f5e6103]
 
-(1)[^key-5d780dc0935a5a9e0fd6d31b777bb3cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-5d780dc0935a5a9e0fd6d31b777bb3cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In respect of the rights prescribed for the benefit of customers under regulations 7 to 14 (inclusive) a relevant gas transporter shall prepare and from time to time revise a statement describing those rights and the effect of section 33AA(5) of the Act[^f00024] in a form and having a content which a gas transporter could reasonably expect would be within the understanding of customers to whom the statement relates and shall –
 
@@ -466,13 +466,13 @@ and the action taken or not taken by the relevant operator was in exercise of hi
 - (c) make a copy of the statement (in its current form) available for inspection by any person at any offices fixed as appropriate by the relevant gas transporter for the purposes of section 46(3) of the Act[^f00025] or, if none, at any premises of or occupied by the relevant gas transporter open to the public in the normal course of the relevant gas transporter’s business during the normal opening hours of the premises; and
 - (d) dispatch a copy of the statement (in its current form) to any person who requests it.
 
-(3)[^key-f940d4e745968200e6c0a707a9065a54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-f940d4e745968200e6c0a707a9065a54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-23ba788b97f381251d5150022fab1db7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-23ba788b97f381251d5150022fab1db7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART III — OVERALL STANDARDS OF PERFORMANCE
 
-### 16. Information to be given to customers about overall performance[^key-249f0c5f50dec933e309ad87ddf48e74]
+### 16. Information to be given to customers about overall performance[^c-249f0c5f50dec933e309ad87ddf48e74]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -496,7 +496,7 @@ Department of Trade and Industry
 
 ## SCHEDULE 1
 
-### PART AI — Prescribed Caps Applicable to all Gas Transporters[^key-6665853192e24226ed7de3ff5dae671e]
+### PART AI — Prescribed Caps Applicable to all Gas Transporters[^c-6665853192e24226ed7de3ff5dae671e]
 
 | *(1)*<br>*Regulation* | *(2)*<br>*Sum* | *(3)*<br>*Multiplier* |
 | --- | --- | --- |
@@ -512,11 +512,11 @@ Department of Trade and Industry
 | 10(6)(h) | £300 | 60 |
 | 10B(4)(e) | £40 | 5 |
 
-### PART I — Prescribed Periods and Prescribed Sums Applicable to all Gas Transporters[^key-7ada0ca604c1bf8ef168dd55a4726eb2][^key-e5408720bbc0f33e9484269558f06ac3]
+### PART I — Prescribed Periods and Prescribed Sums Applicable to all Gas Transporters[^c-7ada0ca604c1bf8ef168dd55a4726eb2][^c-e5408720bbc0f33e9484269558f06ac3]
 
 | *(1)*<br>*Regulation* | *(2)*<br>*Prescribed period* | *(3)*<br>*Prescribed sum*<br>*domestic customers* | *(4)*<br>*Prescribed sum*<br>*non-domestic customers* |
 | --- | --- | --- | --- |
-| 7(2)[^key-51fe042b514645619cbea3bb4f27ebf3] | 24 hours | £60 | £100 |
+| 7(2)[^c-51fe042b514645619cbea3bb4f27ebf3] | 24 hours | £60 | £100 |
 | 8(2) | 3 working days where the customer has been a priority domestic customer for more than 30 days prior to the start of the relevant event; or<br>5 working days in all other circumstances | £100 | £200 |
 | 9(2) |  | £50 |  |
 | 9(2)(a) | 4 hours |  |  |
@@ -554,7 +554,7 @@ Department of Trade and Industry
 | 12(4)(a) | 10 working days | £40 | £40 |
 | 12(4)(b) | 5 working days | £40 | £40 |
 
-### PART II — Working Hours[^key-919cc12c5e16d22336468f969b0145b9]
+### PART II — Working Hours[^c-919cc12c5e16d22336468f969b0145b9]
 
 8.00 am to 8.00 pm on each working day and 9.00am to 5.00pm on any other day.
 
@@ -562,7 +562,7 @@ Department of Trade and Industry
 
 ### Determination of disputes
 
-**1.**[^key-698805246ab4babc8e514fc51543dbb0] (1) This Schedule applies where a dispute to which regulation 11 applies has arisen under any provision of these Regulations between a relevant operator and a customer or between relevant operators.
+**1.**[^c-698805246ab4babc8e514fc51543dbb0] (1) This Schedule applies where a dispute to which regulation 11 applies has arisen under any provision of these Regulations between a relevant operator and a customer or between relevant operators.
 
 (2) A dispute to which this Schedule applies–
 
@@ -573,13 +573,13 @@ Department of Trade and Industry
 
 ### Timetable for the determination of individual disputes
 
-**2.**[^key-e732e60b2ce157ca860d61637b6026b7] (1) The Authority shall determine a dispute to which this Schedule applies before the end of eighty working days from the date when the dispute was referred to the Authority.
+**2.**[^c-e732e60b2ce157ca860d61637b6026b7] (1) The Authority shall determine a dispute to which this Schedule applies before the end of eighty working days from the date when the dispute was referred to the Authority.
 
 (2) If the Authority is satisfied that there are good reasons for departing from the requirements of sub-paragraph (1), the period in which a dispute may be determined may be extended with the consent of the referring party or parties.
 
 ### Procedure for the determination of individual disputes
 
-**3.**[^key-dfb0438d70df205a81b25b8b1e1b737a] (1) Where an individual dispute is referred to the Authority, the Authority shall, at the outset, send to the parties a notice of procedure for the determination of individual disputes.
+**3.**[^c-dfb0438d70df205a81b25b8b1e1b737a] (1) Where an individual dispute is referred to the Authority, the Authority shall, at the outset, send to the parties a notice of procedure for the determination of individual disputes.
 
 (2) The notice under sub-paragraph (1) shall–
 
@@ -607,19 +607,19 @@ Department of Trade and Industry
 
 ### Determination of multiple disputes
 
-**4.**[^key-512811f4171d3b2aecc2a9633366ab62] (1) The Authority may, if it considers it appropriate to do so, consolidate into one or more categories (in each case a “consolidated group”) similar or related disputes for the purposes of determining those disputes.
+**4.**[^c-512811f4171d3b2aecc2a9633366ab62] (1) The Authority may, if it considers it appropriate to do so, consolidate into one or more categories (in each case a “consolidated group”) similar or related disputes for the purposes of determining those disputes.
 
 (2) A determination made by the Authority for one or more consolidated groups shall apply, in respect of each consolidated group, to each individual dispute in that group.
 
 ### Timetable for determination of multiple disputes
 
-**5.**[^key-176ef6dd7f5d02bac992b4106f89f6ee] (1) The Authority, when determining disputes falling within a consolidated group, shall determine those disputes before the end of six months from the date when they were consolidated into that group by the Authority under paragraph 4.
+**5.**[^c-176ef6dd7f5d02bac992b4106f89f6ee] (1) The Authority, when determining disputes falling within a consolidated group, shall determine those disputes before the end of six months from the date when they were consolidated into that group by the Authority under paragraph 4.
 
 (2) If the Authority is satisfied that there are good reasons for departing from the requirements of sub-paragraph (1), the period in which disputes falling within a consolidated group may be determined may be extended by notice to the representatives of any such group nominated under paragraph 10.
 
 ### Procedure for the determination of multiple disputes
 
-**6.**[^key-2986e33b7a9d93f102e04974963d2d1f] (1) Where the Authority considers it appropriate to consolidate disputes under paragraph 4, the Authority shall send to the parties a notice of procedure for the determination of those disputes.
+**6.**[^c-2986e33b7a9d93f102e04974963d2d1f] (1) Where the Authority considers it appropriate to consolidate disputes under paragraph 4, the Authority shall send to the parties a notice of procedure for the determination of those disputes.
 
 (2) The notices under sub-paragraph (1) shall–
 
@@ -660,7 +660,7 @@ Department of Trade and Industry
 
 ### Written statements
 
-**7.**[^key-4c3aac93ab3393fa201d420affd43c3f] (1) The Authority may, by notice, ask any party to a dispute to produce a written statement with respect to a matter specified in the notice.
+**7.**[^c-4c3aac93ab3393fa201d420affd43c3f] (1) The Authority may, by notice, ask any party to a dispute to produce a written statement with respect to a matter specified in the notice.
 
 (2) The power to ask for the production of a written statement includes power to specify the time and place at which it is to be produced.
 
@@ -670,7 +670,7 @@ Department of Trade and Industry
 
 ### Production of documents and other evidence
 
-**8.**[^key-a169137a471389545c1082f289620113] (1) The Authority may, by notice, ask a party to a dispute to produce such documentation (including other evidence), in such form and at such time as it directs, as the Authority may reasonably require to enable it to make the determination decision.
+**8.**[^c-a169137a471389545c1082f289620113] (1) The Authority may, by notice, ask a party to a dispute to produce such documentation (including other evidence), in such form and at such time as it directs, as the Authority may reasonably require to enable it to make the determination decision.
 
 (2) The power to ask for the production of a document is a power to ask for its production–
 
@@ -683,7 +683,7 @@ Department of Trade and Industry
 
 ### Oral hearings
 
-**9.**[^key-d02c153b4585666f41dfb76482cb7586] (1) For the purposes of this Schedule, an oral hearing may be held, and evidence may be heard at such a hearing from any party to a dispute.
+**9.**[^c-d02c153b4585666f41dfb76482cb7586] (1) For the purposes of this Schedule, an oral hearing may be held, and evidence may be heard at such a hearing from any party to a dispute.
 
 (2) The Authority may, by notice, request any party to a dispute–
 
@@ -698,13 +698,13 @@ Department of Trade and Industry
 
 ### Customer representatives for multiple disputes
 
-**10.**[^key-2e6d298644453840c0a501e0183f2497] (1) Where disputes are consolidated into categories under paragraph 4, the Authority shall nominate one or more customers to be representatives of each consolidated group.
+**10.**[^c-2e6d298644453840c0a501e0183f2497] (1) Where disputes are consolidated into categories under paragraph 4, the Authority shall nominate one or more customers to be representatives of each consolidated group.
 
 (2) A customer nominated to be a representative of a consolidated group under this paragraph shall only become a representative if he consents to do so.
 
 ### Collection of information in multiple disputes
 
-**11.**[^key-4e5460d70abd7862a341f899c389bb55] (1) The Authority may by notice ask any customer who is a party to a dispute falling within a consolidated group to produce such information with respect to a matter specified in the notice as the Authority may reasonably require to enable it to make the determination decision.
+**11.**[^c-4e5460d70abd7862a341f899c389bb55] (1) The Authority may by notice ask any customer who is a party to a dispute falling within a consolidated group to produce such information with respect to a matter specified in the notice as the Authority may reasonably require to enable it to make the determination decision.
 
 (2) The power to require the production of information under this paragraph includes the power to specify the time and place at which it is to be produced.
 
@@ -712,15 +712,15 @@ Department of Trade and Industry
 
 ### Payments to customers
 
-**12.**[^key-9a6cfc67698a0ba0b2c4f5c74fe0a3ce] An order determining a dispute shall not (where there is more than one customer at the premises) determine who is beneficially entitled to any payment required to be made by the order.
+**12.**[^c-9a6cfc67698a0ba0b2c4f5c74fe0a3ce] An order determining a dispute shall not (where there is more than one customer at the premises) determine who is beneficially entitled to any payment required to be made by the order.
 
 ### Set-off
 
-**13.**[^key-3cfd26f6eec6ea9bafc6678a6db7572e] Where a dispute is determined by an order requiring a relevant operator to make a payment to the customer and the relevant operator fails to make that payment, the customer may set off the amount so ordered to be paid against any charges that are owed by the customer to the relevant operator.
+**13.**[^c-3cfd26f6eec6ea9bafc6678a6db7572e] Where a dispute is determined by an order requiring a relevant operator to make a payment to the customer and the relevant operator fails to make that payment, the customer may set off the amount so ordered to be paid against any charges that are owed by the customer to the relevant operator.
 
 ### Costs
 
-**14.**[^key-90fefa5b381fe4e59d1288369907be60] (1) An order determining a dispute may include a provision requiring the relevant operator or the customer to pay a sum in respect of the costs or expenses incurred by the Authority.
+**14.**[^c-90fefa5b381fe4e59d1288369907be60] (1) An order determining a dispute may include a provision requiring the relevant operator or the customer to pay a sum in respect of the costs or expenses incurred by the Authority.
 
 (2) In including in an order under sub-paragraph (1) any such provision as to costs, the Authority shall have regard to the conduct and means of the parties and any other relevant circumstances.
 
@@ -753,229 +753,229 @@ The Gas (Standards of Performance) Regulations 2002 and the Gas (Standards of Pe
 
 [^f00004]: Footnote: [1986 c. 44](https://www.legislation.gov.uk/ukpga/1986/44): Section 33A(2) was amended by paragraph 13 of Schedule 6 to the Utilities Act 2000.
 
-[^key-20bc83c6f615f61d8da25be187fb0399]: Commencement: Reg. 1 in force at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1136/regulation/1/1) (as amended by [S.I. 2005/1136](https://www.legislation.gov.uk/uksi/2005/1136), [reg. 2](https://www.legislation.gov.uk/uksi/2005/1136/regulation/2))
+[^c-20bc83c6f615f61d8da25be187fb0399]: Commencement: Reg. 1 in force at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1136/regulation/1/1) (as amended by [S.I. 2005/1136](https://www.legislation.gov.uk/uksi/2005/1136), [reg. 2](https://www.legislation.gov.uk/uksi/2005/1136/regulation/2))
 
-[^key-08a4c72999d33a50533fa1e8b4e4ac31]: Textual amendment: Word in reg. 1(1) substituted (21.3.2005) by [The Gas (Standards of Performance) (Amendment) Regulations 2005 (S.I. 2005/1136)](https://www.legislation.gov.uk/uksi/2005/1136), [reg. 2](https://www.legislation.gov.uk/uksi/2005/1136/regulation/2)
+[^c-08a4c72999d33a50533fa1e8b4e4ac31]: Textual amendment: Word in reg. 1(1) substituted (21.3.2005) by [The Gas (Standards of Performance) (Amendment) Regulations 2005 (S.I. 2005/1136)](https://www.legislation.gov.uk/uksi/2005/1136), [reg. 2](https://www.legislation.gov.uk/uksi/2005/1136/regulation/2)
 
 [^f00005]: Footnote: S.I. [2002/475](https://www.legislation.gov.uk/uksi/2002/475)
 
-[^key-a21879c18f2f955aa58ad72378db179a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2005/1135/regulation/2) in force at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1136/regulation/1/1) (as amended by [S.I. 2005/1136](https://www.legislation.gov.uk/uksi/2005/1136), [reg. 2](https://www.legislation.gov.uk/uksi/2005/1136/regulation/2))
+[^c-a21879c18f2f955aa58ad72378db179a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2005/1135/regulation/2) in force at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1136/regulation/1/1) (as amended by [S.I. 2005/1136](https://www.legislation.gov.uk/uksi/2005/1136), [reg. 2](https://www.legislation.gov.uk/uksi/2005/1136/regulation/2))
 
-[^key-aabb1096642d10b9a2be9a541566fad5]: Commencement: Reg. 3 in force at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1136/regulation/1/1) (as amended by [S.I. 2005/1136](https://www.legislation.gov.uk/uksi/2005/1136), [reg. 2](https://www.legislation.gov.uk/uksi/2005/1136/regulation/2))
+[^c-aabb1096642d10b9a2be9a541566fad5]: Commencement: Reg. 3 in force at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1136/regulation/1/1) (as amended by [S.I. 2005/1136](https://www.legislation.gov.uk/uksi/2005/1136), [reg. 2](https://www.legislation.gov.uk/uksi/2005/1136/regulation/2))
 
-[^key-5a39ba127e7cd87294a8277cd9698f90]: Textual amendment: Words in reg. 3(1) inserted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2021/257/regulation/2/2/a)
+[^c-5a39ba127e7cd87294a8277cd9698f90]: Textual amendment: Words in reg. 3(1) inserted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2021/257/regulation/2/2/a)
 
-[^key-8fb4fab530269d2704ef5a1cb1fdd3fd]: Textual amendment: Words in reg. 3(1) omitted (1.4.2008) by virtue of [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2008/696/regulation/2/2/a)
+[^c-8fb4fab530269d2704ef5a1cb1fdd3fd]: Textual amendment: Words in reg. 3(1) omitted (1.4.2008) by virtue of [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2008/696/regulation/2/2/a)
 
-[^key-ec28210784928d9e372d47c17ce45c1c]: Textual amendment: Words in reg. 3(1) inserted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2021/257/regulation/2/2/b)
+[^c-ec28210784928d9e372d47c17ce45c1c]: Textual amendment: Words in reg. 3(1) inserted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2021/257/regulation/2/2/b)
 
-[^key-7d78973264f039fde2145d735bd070ea]: Textual amendment: Words in reg. 3(1) omitted (1.4.2008) by virtue of [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2008/696/regulation/2/2/b)
+[^c-7d78973264f039fde2145d735bd070ea]: Textual amendment: Words in reg. 3(1) omitted (1.4.2008) by virtue of [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2008/696/regulation/2/2/b)
 
-[^key-31c52f5cb3be624fc6ca61d2027ca2b3]: Textual amendment: Words in reg. 3(1) substituted (1.4.2008) by [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2008/696/regulation/2/2/c)
+[^c-31c52f5cb3be624fc6ca61d2027ca2b3]: Textual amendment: Words in reg. 3(1) substituted (1.4.2008) by [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2008/696/regulation/2/2/c)
 
-[^key-f17439eec0f43c98d0e3c71607c3128a]: Textual amendment: Words in reg. 3 omitted (1.1.2016) by virtue of [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [12(a)(ii)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/12/a/ii) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
+[^c-f17439eec0f43c98d0e3c71607c3128a]: Textual amendment: Words in reg. 3 omitted (1.1.2016) by virtue of [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [12(a)(ii)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/12/a/ii) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
 
-[^key-f32ad97bdebc19bac8a52a1a81e075df]: Textual amendment: Word in reg. 3(1) substituted (1.4.2008) by [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [2(2)(d)](https://www.legislation.gov.uk/uksi/2008/696/regulation/2/2/d)
+[^c-f32ad97bdebc19bac8a52a1a81e075df]: Textual amendment: Word in reg. 3(1) substituted (1.4.2008) by [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [2(2)(d)](https://www.legislation.gov.uk/uksi/2008/696/regulation/2/2/d)
 
 [^f00007]: Footnote: [2000 c. 27](https://www.legislation.gov.uk/ukpga/2000/27).
 
-[^key-73216e2cfce3c56b3f282c7aa1d3422c]: Textual amendment: Words in reg. 3(1) inserted (1.4.2008) by [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [2(2)(e)](https://www.legislation.gov.uk/uksi/2008/696/regulation/2/2/e)
+[^c-73216e2cfce3c56b3f282c7aa1d3422c]: Textual amendment: Words in reg. 3(1) inserted (1.4.2008) by [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [2(2)(e)](https://www.legislation.gov.uk/uksi/2008/696/regulation/2/2/e)
 
-[^key-62ff5618caab862d54ec3917fa2c32be]: Textual amendment: Words in reg. 3(1) inserted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2021/257/regulation/2/3)
+[^c-62ff5618caab862d54ec3917fa2c32be]: Textual amendment: Words in reg. 3(1) inserted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2021/257/regulation/2/3)
 
-[^key-bcfa5ecc1afbd946fc12619a7fabdbde]: Textual amendment: Words in reg. 3(1) substituted (1.4.2008) by [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [2(2)(f)](https://www.legislation.gov.uk/uksi/2008/696/regulation/2/2/f)
+[^c-bcfa5ecc1afbd946fc12619a7fabdbde]: Textual amendment: Words in reg. 3(1) substituted (1.4.2008) by [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [2(2)(f)](https://www.legislation.gov.uk/uksi/2008/696/regulation/2/2/f)
 
-[^key-2d27e9b9e579059d7cb4723aa14e1a01]: Textual amendment: Words in reg. 3(1) omitted (1.4.2008) by virtue of [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [2(2)(g)](https://www.legislation.gov.uk/uksi/2008/696/regulation/2/2/g)
+[^c-2d27e9b9e579059d7cb4723aa14e1a01]: Textual amendment: Words in reg. 3(1) omitted (1.4.2008) by virtue of [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [2(2)(g)](https://www.legislation.gov.uk/uksi/2008/696/regulation/2/2/g)
 
-[^key-5c341bcd65eeddc49ba5932b45a62948]: Textual amendment: Word in reg. 3(1) inserted (1.4.2008) by [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [2(2)(h)](https://www.legislation.gov.uk/uksi/2008/696/regulation/2/2/h)
+[^c-5c341bcd65eeddc49ba5932b45a62948]: Textual amendment: Word in reg. 3(1) inserted (1.4.2008) by [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [2(2)(h)](https://www.legislation.gov.uk/uksi/2008/696/regulation/2/2/h)
 
-[^key-00c9502835858b4e96fc4fcc16d98b31]: Textual amendment: Word in reg. 3(1) substituted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2021/257/regulation/2/4/a)
+[^c-00c9502835858b4e96fc4fcc16d98b31]: Textual amendment: Word in reg. 3(1) substituted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2021/257/regulation/2/4/a)
 
-[^key-d8a5b51d350c93c65bcb3655d75dc1d6]: Textual amendment: Words in reg. 3(1) inserted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2021/257/regulation/2/4/b)
+[^c-d8a5b51d350c93c65bcb3655d75dc1d6]: Textual amendment: Words in reg. 3(1) inserted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2021/257/regulation/2/4/b)
 
-[^key-6f2a870b5648ea9a12a3f740a061cbdd]: Textual amendment: Words in reg. 3(1) substituted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2021/257/regulation/2/5)
+[^c-6f2a870b5648ea9a12a3f740a061cbdd]: Textual amendment: Words in reg. 3(1) substituted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2021/257/regulation/2/5)
 
-[^key-8a4d217479e53def9b6fb2bb2158a752]: Textual amendment: Words in reg. 3(1) omitted (1.4.2008) by virtue of [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [2(2)(i)](https://www.legislation.gov.uk/uksi/2008/696/regulation/2/2/i)
+[^c-8a4d217479e53def9b6fb2bb2158a752]: Textual amendment: Words in reg. 3(1) omitted (1.4.2008) by virtue of [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [2(2)(i)](https://www.legislation.gov.uk/uksi/2008/696/regulation/2/2/i)
 
-[^key-11a43f224edc4ea4438bd9ee0c0ce648]: Textual amendment: Words in reg. 3(1) inserted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2021/257/regulation/2/6)
+[^c-11a43f224edc4ea4438bd9ee0c0ce648]: Textual amendment: Words in reg. 3(1) inserted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2021/257/regulation/2/6)
 
-[^key-5f8395ee9afb8d5b060f0653836fb4ca]: Textual amendment: Word in reg. 3(1) omitted (1.4.2008) by virtue of [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [2(2)(j)](https://www.legislation.gov.uk/uksi/2008/696/regulation/2/2/j)
+[^c-5f8395ee9afb8d5b060f0653836fb4ca]: Textual amendment: Word in reg. 3(1) omitted (1.4.2008) by virtue of [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [2(2)(j)](https://www.legislation.gov.uk/uksi/2008/696/regulation/2/2/j)
 
-[^key-580dd5a90c01f36b37f6ab8f5ae9bc97]: Textual amendment: Word in reg. 3(1) inserted (1.4.2008) by [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [2(2)(j)](https://www.legislation.gov.uk/uksi/2008/696/regulation/2/2/j)
+[^c-580dd5a90c01f36b37f6ab8f5ae9bc97]: Textual amendment: Word in reg. 3(1) inserted (1.4.2008) by [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [2(2)(j)](https://www.legislation.gov.uk/uksi/2008/696/regulation/2/2/j)
 
-[^key-65c7ca595079894fb7d4ac06a6244f11]: Textual amendment: Word in reg. 3(1) inserted (1.4.2008) by [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [2(2)(k)](https://www.legislation.gov.uk/uksi/2008/696/regulation/2/2/k)
+[^c-65c7ca595079894fb7d4ac06a6244f11]: Textual amendment: Word in reg. 3(1) inserted (1.4.2008) by [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [2(2)(k)](https://www.legislation.gov.uk/uksi/2008/696/regulation/2/2/k)
 
-[^key-ed132955822b1b8fb5bef2de8f77a60b]: Textual amendment: Words in reg. 3(1) inserted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [2(7)](https://www.legislation.gov.uk/uksi/2021/257/regulation/2/7)
+[^c-ed132955822b1b8fb5bef2de8f77a60b]: Textual amendment: Words in reg. 3(1) inserted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [2(7)](https://www.legislation.gov.uk/uksi/2021/257/regulation/2/7)
 
-[^key-e7bdaffe0f04064caf8cc9fc42980efc]: Textual amendment: Words in reg. 3(1) omitted (1.4.2021) by virtue of [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [2(8)(a)](https://www.legislation.gov.uk/uksi/2021/257/regulation/2/8/a)
+[^c-e7bdaffe0f04064caf8cc9fc42980efc]: Textual amendment: Words in reg. 3(1) omitted (1.4.2021) by virtue of [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [2(8)(a)](https://www.legislation.gov.uk/uksi/2021/257/regulation/2/8/a)
 
-[^key-4fd6479d9f59e23576240d0e1c226339]: Textual amendment: Words in reg. 3(1) inserted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [2(8)(b)](https://www.legislation.gov.uk/uksi/2021/257/regulation/2/8/b)
+[^c-4fd6479d9f59e23576240d0e1c226339]: Textual amendment: Words in reg. 3(1) inserted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [2(8)(b)](https://www.legislation.gov.uk/uksi/2021/257/regulation/2/8/b)
 
-[^key-1aba2f6569ef76fb6c1ae67e56c15828]: Textual amendment: Words in reg. 3(1) inserted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [2(9)](https://www.legislation.gov.uk/uksi/2021/257/regulation/2/9)
+[^c-1aba2f6569ef76fb6c1ae67e56c15828]: Textual amendment: Words in reg. 3(1) inserted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [2(9)](https://www.legislation.gov.uk/uksi/2021/257/regulation/2/9)
 
-[^key-e186e16fdd1807548e9f0eaf22bbe2b1]: Textual amendment: Words in reg. 3(1) inserted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [2(10)](https://www.legislation.gov.uk/uksi/2021/257/regulation/2/10)
+[^c-e186e16fdd1807548e9f0eaf22bbe2b1]: Textual amendment: Words in reg. 3(1) inserted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [2(10)](https://www.legislation.gov.uk/uksi/2021/257/regulation/2/10)
 
-[^key-827dd570c78f3540522bcd5a5993cb93]: Textual amendment: Words in reg. 3(1) inserted (1.4.2008) by [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [2(2)(m)](https://www.legislation.gov.uk/uksi/2008/696/regulation/2/2/m)
+[^c-827dd570c78f3540522bcd5a5993cb93]: Textual amendment: Words in reg. 3(1) inserted (1.4.2008) by [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [2(2)(m)](https://www.legislation.gov.uk/uksi/2008/696/regulation/2/2/m)
 
-[^key-1fddc5d0986e1925a2543f6e3b20d51d]: Textual amendment: Words in reg. 3(1) inserted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [2(11)](https://www.legislation.gov.uk/uksi/2021/257/regulation/2/11)
+[^c-1fddc5d0986e1925a2543f6e3b20d51d]: Textual amendment: Words in reg. 3(1) inserted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [2(11)](https://www.legislation.gov.uk/uksi/2021/257/regulation/2/11)
 
 [^f00010]: Footnote: [1986 c. 44](https://www.legislation.gov.uk/ukpga/1986/44): section 10 was substituted by paragraph 4 of Schedule 3 to the Gas Act 1995.
 
-[^key-f418d57341278c1bcfae583c838fe2e0]: Textual amendment: Words in reg. 3 substituted (1.1.2016) by [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [12(a)(i)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/12/a/i) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
+[^c-f418d57341278c1bcfae583c838fe2e0]: Textual amendment: Words in reg. 3 substituted (1.1.2016) by [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [12(a)(i)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/12/a/i) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
 
 [^f00011]: Footnote: [1986 c. 44](https://www.legislation.gov.uk/ukpga/1986/44): Subsection 5(1)(a) was amended by Schedule 6, Schedule 2 and section 75 of the Utilities Act 2000.
 
 [^f00012]: Footnote: [1986 c. 44](https://www.legislation.gov.uk/ukpga/1986/44): section 6A was amended by section 4 of the Gas Act 1995.
 
-[^key-513d0a9c2c58e30a05269fd1868ee1f2]: Textual amendment: Word in reg. 3(1) inserted (1.4.2008) by [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [2(2)(o)](https://www.legislation.gov.uk/uksi/2008/696/regulation/2/2/o)
+[^c-513d0a9c2c58e30a05269fd1868ee1f2]: Textual amendment: Word in reg. 3(1) inserted (1.4.2008) by [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [2(2)(o)](https://www.legislation.gov.uk/uksi/2008/696/regulation/2/2/o)
 
-[^key-ff0404017bcd2001ee19761ffaf7ce14]: Textual amendment: Words in reg. 3(1) omitted (1.4.2008) by virtue of [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [2(2)(p)](https://www.legislation.gov.uk/uksi/2008/696/regulation/2/2/p)
+[^c-ff0404017bcd2001ee19761ffaf7ce14]: Textual amendment: Words in reg. 3(1) omitted (1.4.2008) by virtue of [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [2(2)(p)](https://www.legislation.gov.uk/uksi/2008/696/regulation/2/2/p)
 
-[^key-9a72a9ab7437ea0a533d4313ee630d0e]: Textual amendment: Words in reg. 3(1) omitted (1.4.2008) by virtue of [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [2(2)(q)](https://www.legislation.gov.uk/uksi/2008/696/regulation/2/2/q)
+[^c-9a72a9ab7437ea0a533d4313ee630d0e]: Textual amendment: Words in reg. 3(1) omitted (1.4.2008) by virtue of [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [2(2)(q)](https://www.legislation.gov.uk/uksi/2008/696/regulation/2/2/q)
 
 [^f00014]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-0dd2a771fa2eeb04262d866a019339e6]: Textual amendment: Word in reg. 3(1) omitted (1.4.2008) by virtue of [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [2(2)(r)](https://www.legislation.gov.uk/uksi/2008/696/regulation/2/2/r)
+[^c-0dd2a771fa2eeb04262d866a019339e6]: Textual amendment: Word in reg. 3(1) omitted (1.4.2008) by virtue of [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [2(2)(r)](https://www.legislation.gov.uk/uksi/2008/696/regulation/2/2/r)
 
-[^key-d5978707ed5081202d9bb4ab11f748c8]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/uksi/2005/1135/part/2) heading substituted (1.1.2016) by [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [12(b)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/12/b) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
+[^c-d5978707ed5081202d9bb4ab11f748c8]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/uksi/2005/1135/part/2) heading substituted (1.1.2016) by [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [12(b)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/12/b) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
 
-[^key-d6841143e4e21a83abd72905bb38fa41]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2005/1135/regulation/4) omitted (1.1.2016) by virtue of [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [12(c)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/12/c) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
+[^c-d6841143e4e21a83abd72905bb38fa41]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2005/1135/regulation/4) omitted (1.1.2016) by virtue of [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [12(c)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/12/c) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
 
-[^key-191613c4117e5b560e45e138b9a90902]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2005/1135/regulation/5) omitted (1.1.2016) by virtue of [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [12(c)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/12/c) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
+[^c-191613c4117e5b560e45e138b9a90902]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2005/1135/regulation/5) omitted (1.1.2016) by virtue of [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [12(c)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/12/c) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
 
-[^key-0448a440762a7f0c4867692850f241a9]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2005/1135/regulation/6) omitted (1.1.2016) by virtue of [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [12(c)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/12/c) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
+[^c-0448a440762a7f0c4867692850f241a9]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2005/1135/regulation/6) omitted (1.1.2016) by virtue of [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [12(c)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/12/c) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
 
-[^key-dacada8edfa016411e6b4a3774af35ea]: Commencement: Reg. 7 in force at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1136/regulation/1/1) (as amended by [S.I. 2005/1136](https://www.legislation.gov.uk/uksi/2005/1136), [reg. 2](https://www.legislation.gov.uk/uksi/2005/1136/regulation/2))
+[^c-dacada8edfa016411e6b4a3774af35ea]: Commencement: Reg. 7 in force at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1136/regulation/1/1) (as amended by [S.I. 2005/1136](https://www.legislation.gov.uk/uksi/2005/1136), [reg. 2](https://www.legislation.gov.uk/uksi/2005/1136/regulation/2))
 
-[^key-351320c7b271c399a37a4520e0825c1e]: Textual amendment: Word in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/7/1) omitted (1.4.2008) by virtue of [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2008/696/regulation/3/2)
+[^c-351320c7b271c399a37a4520e0825c1e]: Textual amendment: Word in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/7/1) omitted (1.4.2008) by virtue of [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2008/696/regulation/3/2)
 
-[^key-0475fc5b25737fe4bb4ae5e4e8fac924]: Textual amendment: Sum in [Reg. 7(3)(c)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/7/3/c) substituted (1.4.2008) by [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2008/696/regulation/3/3)
+[^c-0475fc5b25737fe4bb4ae5e4e8fac924]: Textual amendment: Sum in [Reg. 7(3)(c)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/7/3/c) substituted (1.4.2008) by [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2008/696/regulation/3/3)
 
-[^key-5c08d6e8f89ed5be9fcedc8b91da3719]: Textual amendment: [Reg. 7(3)(d)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/7/3/d) omitted (1.4.2021) by virtue of [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2021/257/regulation/3)
+[^c-5c08d6e8f89ed5be9fcedc8b91da3719]: Textual amendment: [Reg. 7(3)(d)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/7/3/d) omitted (1.4.2021) by virtue of [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2021/257/regulation/3)
 
-[^key-240923b1f363c3befb656cfca03e9536]: Textual amendment: [Reg. 7(3)(d)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/7/3/d)[(e)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/7/3/e) substituted (1.4.2008) by [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2008/696/regulation/3/4)
+[^c-240923b1f363c3befb656cfca03e9536]: Textual amendment: [Reg. 7(3)(d)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/7/3/d)[(e)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/7/3/e) substituted (1.4.2008) by [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2008/696/regulation/3/4)
 
-[^key-d9721883529894a763d1e93bd02005eb]: Textual amendment: Word in [reg. 7(3)(f)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/7/3/f) substituted for full stop (1.4.2008) by virtue of [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [3(5)](https://www.legislation.gov.uk/uksi/2008/696/regulation/3/5)
+[^c-d9721883529894a763d1e93bd02005eb]: Textual amendment: Word in [reg. 7(3)(f)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/7/3/f) substituted for full stop (1.4.2008) by virtue of [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [3(5)](https://www.legislation.gov.uk/uksi/2008/696/regulation/3/5)
 
-[^key-bbfd5c495802cb754f871af891eeda7d]: Textual amendment: [Reg. 7(3)(g)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/7/3/g) inserted (1.4.2008) by [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [3(6)](https://www.legislation.gov.uk/uksi/2008/696/regulation/3/6)
+[^c-bbfd5c495802cb754f871af891eeda7d]: Textual amendment: [Reg. 7(3)(g)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/7/3/g) inserted (1.4.2008) by [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [3(6)](https://www.legislation.gov.uk/uksi/2008/696/regulation/3/6)
 
-[^key-6af86865dd3d4421eaf88b02a2d249c8]: Textual amendment: [Reg. 7(4)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/7/4) inserted (1.4.2008) by [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [3(7)](https://www.legislation.gov.uk/uksi/2008/696/regulation/3/7)
+[^c-6af86865dd3d4421eaf88b02a2d249c8]: Textual amendment: [Reg. 7(4)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/7/4) inserted (1.4.2008) by [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [3(7)](https://www.legislation.gov.uk/uksi/2008/696/regulation/3/7)
 
-[^key-ac318947c99f3b020abc83bb11cd3610]: Commencement: Reg. 8 in force at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1136/regulation/1/1) (as amended by [S.I. 2005/1136](https://www.legislation.gov.uk/uksi/2005/1136), [reg. 2](https://www.legislation.gov.uk/uksi/2005/1136/regulation/2))
+[^c-ac318947c99f3b020abc83bb11cd3610]: Commencement: Reg. 8 in force at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1136/regulation/1/1) (as amended by [S.I. 2005/1136](https://www.legislation.gov.uk/uksi/2005/1136), [reg. 2](https://www.legislation.gov.uk/uksi/2005/1136/regulation/2))
 
-[^key-bb8a01bd9f4a218571edbc29ad964a32]: Textual amendment: [Reg. 8(2)(b)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/8/2/b) substituted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2021/257/regulation/4)
+[^c-bb8a01bd9f4a218571edbc29ad964a32]: Textual amendment: [Reg. 8(2)(b)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/8/2/b) substituted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2021/257/regulation/4)
 
-[^key-d4f2f41113035cad2f028fd400369198]: Textual amendment: [Reg. 8(3)(b)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/8/3/b) substituted (1.4.2008) by [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2008/696/regulation/4/2)
+[^c-d4f2f41113035cad2f028fd400369198]: Textual amendment: [Reg. 8(3)(b)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/8/3/b) substituted (1.4.2008) by [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2008/696/regulation/4/2)
 
-[^key-11ba917e646c160e949622e5dcceb093]: Commencement: Reg. 9 in force at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1136/regulation/1/1) (as amended by [S.I. 2005/1136](https://www.legislation.gov.uk/uksi/2005/1136), [reg. 2](https://www.legislation.gov.uk/uksi/2005/1136/regulation/2))
+[^c-11ba917e646c160e949622e5dcceb093]: Commencement: Reg. 9 in force at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1136/regulation/1/1) (as amended by [S.I. 2005/1136](https://www.legislation.gov.uk/uksi/2005/1136), [reg. 2](https://www.legislation.gov.uk/uksi/2005/1136/regulation/2))
 
-[^key-4763463aaa4062db91fcedea3475994d]: Textual amendment: [Reg. 9(2A)-(2C)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/9/2A) inserted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2021/257/regulation/5/2)
+[^c-4763463aaa4062db91fcedea3475994d]: Textual amendment: [Reg. 9(2A)-(2C)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/9/2A) inserted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2021/257/regulation/5/2)
 
-[^key-11f1a5eb33e9a64cd693987426f22b31]: Textual amendment: Words in [reg. 9(3)(b)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/9/3/b) inserted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [5(3)(a)](https://www.legislation.gov.uk/uksi/2021/257/regulation/5/3/a)
+[^c-11f1a5eb33e9a64cd693987426f22b31]: Textual amendment: Words in [reg. 9(3)(b)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/9/3/b) inserted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [5(3)(a)](https://www.legislation.gov.uk/uksi/2021/257/regulation/5/3/a)
 
-[^key-dd1061dcb9b01f4511bffdb031b82183]: Textual amendment: Word in [reg. 9(3)(b)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/9/3/b) substituted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [5(3)(b)](https://www.legislation.gov.uk/uksi/2021/257/regulation/5/3/b)
+[^c-dd1061dcb9b01f4511bffdb031b82183]: Textual amendment: Word in [reg. 9(3)(b)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/9/3/b) substituted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [5(3)(b)](https://www.legislation.gov.uk/uksi/2021/257/regulation/5/3/b)
 
-[^key-590c1107e41ee65066a72d527c450c21]: Textual amendment: Words in [reg. 9(3)(b)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/9/3/b) inserted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [5(3)(c)](https://www.legislation.gov.uk/uksi/2021/257/regulation/5/3/c)
+[^c-590c1107e41ee65066a72d527c450c21]: Textual amendment: Words in [reg. 9(3)(b)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/9/3/b) inserted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [5(3)(c)](https://www.legislation.gov.uk/uksi/2021/257/regulation/5/3/c)
 
-[^key-95e989d3e8974e385f65d019a93bd659]: Textual amendment: Words in [reg. 9(3)(c)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/9/3/c) inserted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [5(4)](https://www.legislation.gov.uk/uksi/2021/257/regulation/5/4)
+[^c-95e989d3e8974e385f65d019a93bd659]: Textual amendment: Words in [reg. 9(3)(c)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/9/3/c) inserted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [5(4)](https://www.legislation.gov.uk/uksi/2021/257/regulation/5/4)
 
-[^key-fb716dde84b13545081ef8932186291b]: Textual amendment: Words in [reg. 9(3)(c)(i)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/9/3/c/i) inserted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [5(5)](https://www.legislation.gov.uk/uksi/2021/257/regulation/5/5)
+[^c-fb716dde84b13545081ef8932186291b]: Textual amendment: Words in [reg. 9(3)(c)(i)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/9/3/c/i) inserted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [5(5)](https://www.legislation.gov.uk/uksi/2021/257/regulation/5/5)
 
-[^key-b6a66197e113c2e1fc3220d286863d56]: Textual amendment: Words in [reg. 9(3)(c)(iii)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/9/3/c/iii) inserted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [5(6)](https://www.legislation.gov.uk/uksi/2021/257/regulation/5/6)
+[^c-b6a66197e113c2e1fc3220d286863d56]: Textual amendment: Words in [reg. 9(3)(c)(iii)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/9/3/c/iii) inserted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [5(6)](https://www.legislation.gov.uk/uksi/2021/257/regulation/5/6)
 
-[^key-2c93e88abe58f0dad61c7eb085fdae7e]: Textual amendment: Word in [reg. 9(3)(c)(iii)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/9/3/c/iii) inserted (1.4.2008) by [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2008/696/regulation/5/2/a)
+[^c-2c93e88abe58f0dad61c7eb085fdae7e]: Textual amendment: Word in [reg. 9(3)(c)(iii)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/9/3/c/iii) inserted (1.4.2008) by [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2008/696/regulation/5/2/a)
 
-[^key-f44b5801e8a08b2f50b2671c0d253dc5]: Textual amendment: [Reg. 9(3)(c)(iii)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/9/3/c/iii): semicolon substituted for full stop (1.4.2008) by virtue of [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2008/696/regulation/5/2/b)
+[^c-f44b5801e8a08b2f50b2671c0d253dc5]: Textual amendment: [Reg. 9(3)(c)(iii)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/9/3/c/iii): semicolon substituted for full stop (1.4.2008) by virtue of [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2008/696/regulation/5/2/b)
 
-[^key-2027c08058f2c62502dc608f5d8e6a20]: Textual amendment: [Reg. 9(3)(d)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/9/3/d)[(e)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/9/3/e) inserted (1.4.2008) by [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2008/696/regulation/5/3)
+[^c-2027c08058f2c62502dc608f5d8e6a20]: Textual amendment: [Reg. 9(3)(d)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/9/3/d)[(e)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/9/3/e) inserted (1.4.2008) by [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2008/696/regulation/5/3)
 
-[^key-43a725cb70a391485700ef0337989032]: Textual amendment: Words in [reg. 9(3)(d)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/9/3/d) inserted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [5(7)(a)](https://www.legislation.gov.uk/uksi/2021/257/regulation/5/7/a)
+[^c-43a725cb70a391485700ef0337989032]: Textual amendment: Words in [reg. 9(3)(d)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/9/3/d) inserted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [5(7)(a)](https://www.legislation.gov.uk/uksi/2021/257/regulation/5/7/a)
 
-[^key-ddbf39e68b9e6575bd517fc7f030c2bd]: Textual amendment: Word in [reg. 9(3)(d)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/9/3/d) substituted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [5(7)(b)](https://www.legislation.gov.uk/uksi/2021/257/regulation/5/7/b)
+[^c-ddbf39e68b9e6575bd517fc7f030c2bd]: Textual amendment: Word in [reg. 9(3)(d)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/9/3/d) substituted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [5(7)(b)](https://www.legislation.gov.uk/uksi/2021/257/regulation/5/7/b)
 
-[^key-ecdfda857c27e40e19d162a025c112d8]: Textual amendment: Words in [reg. 9(3)(d)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/9/3/d) inserted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [5(7)(c)](https://www.legislation.gov.uk/uksi/2021/257/regulation/5/7/c)
+[^c-ecdfda857c27e40e19d162a025c112d8]: Textual amendment: Words in [reg. 9(3)(d)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/9/3/d) inserted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [5(7)(c)](https://www.legislation.gov.uk/uksi/2021/257/regulation/5/7/c)
 
-[^key-f3208aba748372bf4c6c373ecbe202d4]: Textual amendment: [Reg. 9(3)(e)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/9/3/e) substituted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [5(8)](https://www.legislation.gov.uk/uksi/2021/257/regulation/5/8)
+[^c-f3208aba748372bf4c6c373ecbe202d4]: Textual amendment: [Reg. 9(3)(e)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/9/3/e) substituted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [5(8)](https://www.legislation.gov.uk/uksi/2021/257/regulation/5/8)
 
-[^key-7d267dc698da3356fcc9fa48072b9b1a]: Textual amendment: Words in [reg. 9(4)(b)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/9/4/b) substituted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [5(9)](https://www.legislation.gov.uk/uksi/2021/257/regulation/5/9)
+[^c-7d267dc698da3356fcc9fa48072b9b1a]: Textual amendment: Words in [reg. 9(4)(b)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/9/4/b) substituted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [5(9)](https://www.legislation.gov.uk/uksi/2021/257/regulation/5/9)
 
-[^key-9fa3ec0f484cc580feb0388e08cbfa89]: Commencement: Reg. 10 in force at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1136/regulation/1/1) (as amended by [S.I. 2005/1136](https://www.legislation.gov.uk/uksi/2005/1136), [reg. 2](https://www.legislation.gov.uk/uksi/2005/1136/regulation/2))
+[^c-9fa3ec0f484cc580feb0388e08cbfa89]: Commencement: Reg. 10 in force at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1136/regulation/1/1) (as amended by [S.I. 2005/1136](https://www.legislation.gov.uk/uksi/2005/1136), [reg. 2](https://www.legislation.gov.uk/uksi/2005/1136/regulation/2))
 
-[^key-a777023626b781f13ea30d252b48b3a9]: Textual amendment: Word in [reg. 10(1)(a)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/10/1/a) substituted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2021/257/regulation/6/2/a)
+[^c-a777023626b781f13ea30d252b48b3a9]: Textual amendment: Word in [reg. 10(1)(a)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/10/1/a) substituted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2021/257/regulation/6/2/a)
 
-[^key-79577103218658da6fefc336299f729f]: Textual amendment: Words in [reg. 10(1)(a)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/10/1/a) inserted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2021/257/regulation/6/2/b)
+[^c-79577103218658da6fefc336299f729f]: Textual amendment: Words in [reg. 10(1)(a)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/10/1/a) inserted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2021/257/regulation/6/2/b)
 
-[^key-7830f680669beaf8da87e0b2e5f075bf]: Textual amendment: Words in [reg. 10(1)(b)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/10/1/b) substituted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [6(3)(a)](https://www.legislation.gov.uk/uksi/2021/257/regulation/6/3/a)
+[^c-7830f680669beaf8da87e0b2e5f075bf]: Textual amendment: Words in [reg. 10(1)(b)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/10/1/b) substituted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [6(3)(a)](https://www.legislation.gov.uk/uksi/2021/257/regulation/6/3/a)
 
-[^key-bfb5511e9270cf183295e974bd2fbde1]: Textual amendment: Words in [reg. 10(1)(b)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/10/1/b) inserted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [6(3)(b)](https://www.legislation.gov.uk/uksi/2021/257/regulation/6/3/b)
+[^c-bfb5511e9270cf183295e974bd2fbde1]: Textual amendment: Words in [reg. 10(1)(b)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/10/1/b) inserted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [6(3)(b)](https://www.legislation.gov.uk/uksi/2021/257/regulation/6/3/b)
 
-[^key-648f51659604e7d44046693250740f06]: Textual amendment: Words in [reg. 10(1)(c)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/10/1/c) substituted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [6(4)](https://www.legislation.gov.uk/uksi/2021/257/regulation/6/4)
+[^c-648f51659604e7d44046693250740f06]: Textual amendment: Words in [reg. 10(1)(c)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/10/1/c) substituted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [6(4)](https://www.legislation.gov.uk/uksi/2021/257/regulation/6/4)
 
-[^key-24333c62100316742979f214b76371d0]: Textual amendment: Reg. 10(1)(d) substituted (1.4.2008) by [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2008/696/regulation/6/2/a)
+[^c-24333c62100316742979f214b76371d0]: Textual amendment: Reg. 10(1)(d) substituted (1.4.2008) by [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2008/696/regulation/6/2/a)
 
-[^key-1e151b38ea10fe042931e71b63a1330b]: Textual amendment: Words in [reg. 10(1)(d)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/10/1/d) substituted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [6(5)](https://www.legislation.gov.uk/uksi/2021/257/regulation/6/5)
+[^c-1e151b38ea10fe042931e71b63a1330b]: Textual amendment: Words in [reg. 10(1)(d)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/10/1/d) substituted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [6(5)](https://www.legislation.gov.uk/uksi/2021/257/regulation/6/5)
 
-[^key-78778b2e95cd1e895da65f024101ff16]: Textual amendment: Reg. 10(1) full stop inserted (1.4.2008) by [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2008/696/regulation/6/2/b)
+[^c-78778b2e95cd1e895da65f024101ff16]: Textual amendment: Reg. 10(1) full stop inserted (1.4.2008) by [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2008/696/regulation/6/2/b)
 
-[^key-b8b69c8fd276c5b36c74647094bafce5]: Textual amendment: [Reg. 10(3)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/10/3)[(3A)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/10/3A) substituted for reg. 310(3) [reg. 10(3)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/10/3) (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [6(6)](https://www.legislation.gov.uk/uksi/2021/257/regulation/6/6)
+[^c-b8b69c8fd276c5b36c74647094bafce5]: Textual amendment: [Reg. 10(3)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/10/3)[(3A)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/10/3A) substituted for reg. 310(3) [reg. 10(3)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/10/3) (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [6(6)](https://www.legislation.gov.uk/uksi/2021/257/regulation/6/6)
 
-[^key-e59b37c5b3f8208a640d0971f40833df]: Textual amendment: Words in [reg. 10(4)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/10/4) inserted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [6(7)](https://www.legislation.gov.uk/uksi/2021/257/regulation/6/7)
+[^c-e59b37c5b3f8208a640d0971f40833df]: Textual amendment: Words in [reg. 10(4)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/10/4) inserted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [6(7)](https://www.legislation.gov.uk/uksi/2021/257/regulation/6/7)
 
-[^key-4f3953fdc73cd4e85e7d818c0dfe8adb]: Textual amendment: [Reg. 10(6)(b)-(h)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/10/6/b) substituted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [6(8)](https://www.legislation.gov.uk/uksi/2021/257/regulation/6/8)
+[^c-4f3953fdc73cd4e85e7d818c0dfe8adb]: Textual amendment: [Reg. 10(6)(b)-(h)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/10/6/b) substituted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [6(8)](https://www.legislation.gov.uk/uksi/2021/257/regulation/6/8)
 
 [^f00016]: Footnote: [1986 c. 44](https://www.legislation.gov.uk/ukpga/1986/44): section 7(1)(a) and (2) were amended and former paragraphs 7(3)(a) and (b) of Schedule 2B were substituted by paragraphs 7(3)(a) and (b) under section 84(3) of the Utilities Act [2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27).
 
 [^f00017]: Footnote: [1986 c. 44](https://www.legislation.gov.uk/ukpga/1986/44): section 7 was substituted by section 5 of the Gas Act [1995 (c. 45)](https://www.legislation.gov.uk/ukpga/1995/45).
 
-[^key-7c13aea29ef98f6dd6fa96157b0c4a31]: Textual amendment: Words in [reg. 10(7)(b)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/10/7/b) inserted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [6(9)](https://www.legislation.gov.uk/uksi/2021/257/regulation/6/9)
+[^c-7c13aea29ef98f6dd6fa96157b0c4a31]: Textual amendment: Words in [reg. 10(7)(b)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/10/7/b) inserted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [6(9)](https://www.legislation.gov.uk/uksi/2021/257/regulation/6/9)
 
-[^key-ff9fb3eb4d9b9943831d347a04d1c8da]: Textual amendment: Words in [reg. 10(7)(c)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/10/7/c) inserted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [6(10)](https://www.legislation.gov.uk/uksi/2021/257/regulation/6/10)
+[^c-ff9fb3eb4d9b9943831d347a04d1c8da]: Textual amendment: Words in [reg. 10(7)(c)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/10/7/c) inserted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [6(10)](https://www.legislation.gov.uk/uksi/2021/257/regulation/6/10)
 
-[^key-c7039e92e93e83d934df37adca6ba83b]: Textual amendment: Reg. 10A inserted (1.4.2008) by [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2008/696/regulation/7/2)
+[^c-c7039e92e93e83d934df37adca6ba83b]: Textual amendment: Reg. 10A inserted (1.4.2008) by [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2008/696/regulation/7/2)
 
-[^key-64d44e9f240e3e6bc6e64afd3c2e8b06]: Textual amendment: Reg. 10A(3)(a): full stop substituted for word (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [7(a)](https://www.legislation.gov.uk/uksi/2021/257/regulation/7/a)
+[^c-64d44e9f240e3e6bc6e64afd3c2e8b06]: Textual amendment: Reg. 10A(3)(a): full stop substituted for word (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [7(a)](https://www.legislation.gov.uk/uksi/2021/257/regulation/7/a)
 
-[^key-bedbd4453e9ede4c7d5ee7b52ab382f2]: Textual amendment: Reg. 10A(3)(b) omitted (1.4.2021) by virtue of [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [7(b)](https://www.legislation.gov.uk/uksi/2021/257/regulation/7/b)
+[^c-bedbd4453e9ede4c7d5ee7b52ab382f2]: Textual amendment: Reg. 10A(3)(b) omitted (1.4.2021) by virtue of [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [7(b)](https://www.legislation.gov.uk/uksi/2021/257/regulation/7/b)
 
-[^key-30f1c849b2c699800483407b357f681f]: Textual amendment: [Reg. 10B](https://www.legislation.gov.uk/uksi/2005/1135/regulation/10B) inserted (1.4.2008) by [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [8(2)](https://www.legislation.gov.uk/uksi/2008/696/regulation/8/2)
+[^c-30f1c849b2c699800483407b357f681f]: Textual amendment: [Reg. 10B](https://www.legislation.gov.uk/uksi/2005/1135/regulation/10B) inserted (1.4.2008) by [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [8(2)](https://www.legislation.gov.uk/uksi/2008/696/regulation/8/2)
 
-[^key-d6b812fcbb1892782867b2fa2e7ed682]: Textual amendment: Words in [reg. 10B(4)(e)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/10B/4/e) substituted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2021/257/regulation/8)
+[^c-d6b812fcbb1892782867b2fa2e7ed682]: Textual amendment: Words in [reg. 10B(4)(e)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/10B/4/e) substituted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2021/257/regulation/8)
 
-[^key-5899bbc8246d51d03046ee9db8ee6b67]: Commencement: Reg. 11 in force at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1136/regulation/1/1) (as amended by [S.I. 2005/1136](https://www.legislation.gov.uk/uksi/2005/1136), [reg. 2](https://www.legislation.gov.uk/uksi/2005/1136/regulation/2))
+[^c-5899bbc8246d51d03046ee9db8ee6b67]: Commencement: Reg. 11 in force at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1136/regulation/1/1) (as amended by [S.I. 2005/1136](https://www.legislation.gov.uk/uksi/2005/1136), [reg. 2](https://www.legislation.gov.uk/uksi/2005/1136/regulation/2))
 
 [^f00018]: Footnote: [1986 c. 44](https://www.legislation.gov.uk/ukpga/1986/44): section 33AB(1) was inserted by section 90(2) of the Utilities Act 2000.
 
-[^key-d784c39c6eff3d4c6f1713af95807969]: Commencement: Reg. 12 in force at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1136/regulation/1/1) (as amended by [S.I. 2005/1136](https://www.legislation.gov.uk/uksi/2005/1136), [reg. 2](https://www.legislation.gov.uk/uksi/2005/1136/regulation/2))
+[^c-d784c39c6eff3d4c6f1713af95807969]: Commencement: Reg. 12 in force at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1136/regulation/1/1) (as amended by [S.I. 2005/1136](https://www.legislation.gov.uk/uksi/2005/1136), [reg. 2](https://www.legislation.gov.uk/uksi/2005/1136/regulation/2))
 
-[^key-a63c83627bbfb2ec5f77c79d560047a8]: Textual amendment: [Reg. 12(1)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/12/1) omitted (1.1.2016) by virtue of [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [12(c)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/12/c) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
+[^c-a63c83627bbfb2ec5f77c79d560047a8]: Textual amendment: [Reg. 12(1)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/12/1) omitted (1.1.2016) by virtue of [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [12(c)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/12/c) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
 
-[^key-d12b365e5ee4756310835483e7fdd351]: Textual amendment: [Reg. 12(1A)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/12/1A) inserted (1.4.2008) by [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [9(2)](https://www.legislation.gov.uk/uksi/2008/696/regulation/9/2)
+[^c-d12b365e5ee4756310835483e7fdd351]: Textual amendment: [Reg. 12(1A)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/12/1A) inserted (1.4.2008) by [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [9(2)](https://www.legislation.gov.uk/uksi/2008/696/regulation/9/2)
 
-[^key-e83f54bc36155aa4fdd22cb50fe894bd]: Textual amendment: [Reg. 12(2)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/12/2) substituted (1.4.2008) by [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [9(3)](https://www.legislation.gov.uk/uksi/2008/696/regulation/9/3)
+[^c-e83f54bc36155aa4fdd22cb50fe894bd]: Textual amendment: [Reg. 12(2)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/12/2) substituted (1.4.2008) by [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [9(3)](https://www.legislation.gov.uk/uksi/2008/696/regulation/9/3)
 
-[^key-662642aaded964e86a89aa6cd78a4a63]: Textual amendment: [Reg. 12(3)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/12/3) omitted (1.1.2016) by virtue of [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [12(c)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/12/c) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
+[^c-662642aaded964e86a89aa6cd78a4a63]: Textual amendment: [Reg. 12(3)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/12/3) omitted (1.1.2016) by virtue of [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [12(c)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/12/c) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
 
-[^key-c30ebd7dc2dae1ba8cce8d78a3fc2fdd]: Textual amendment: [Reg. 12(3A)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/12/3A) inserted (1.4.2008) by [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [9(4)](https://www.legislation.gov.uk/uksi/2008/696/regulation/9/4)
+[^c-c30ebd7dc2dae1ba8cce8d78a3fc2fdd]: Textual amendment: [Reg. 12(3A)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/12/3A) inserted (1.4.2008) by [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [9(4)](https://www.legislation.gov.uk/uksi/2008/696/regulation/9/4)
 
-[^key-de0456dab2e7dec2e532bd57c52b9c3c]: Textual amendment: [Reg. 12(4)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/12/4) substituted (1.4.2008) by [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [9(5)](https://www.legislation.gov.uk/uksi/2008/696/regulation/9/5)
+[^c-de0456dab2e7dec2e532bd57c52b9c3c]: Textual amendment: [Reg. 12(4)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/12/4) substituted (1.4.2008) by [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [9(5)](https://www.legislation.gov.uk/uksi/2008/696/regulation/9/5)
 
-[^key-da2317ab3f9f7e11be064acc6719686e]: Textual amendment: Word in [reg. 12(6)(b)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/12/6/b) omitted (1.4.2008) by virtue of [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [9(6)(a)](https://www.legislation.gov.uk/uksi/2008/696/regulation/9/6/a)
+[^c-da2317ab3f9f7e11be064acc6719686e]: Textual amendment: Word in [reg. 12(6)(b)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/12/6/b) omitted (1.4.2008) by virtue of [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [9(6)(a)](https://www.legislation.gov.uk/uksi/2008/696/regulation/9/6/a)
 
-[^key-4eef1ed04eb37c132179ca4ec1f4c72d]: Textual amendment: Words in [reg. 12(6)(c)(i)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/12/6/c/i) omitted (1.4.2008) by virtue of [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [9(6)(b)](https://www.legislation.gov.uk/uksi/2008/696/regulation/9/6/b)
+[^c-4eef1ed04eb37c132179ca4ec1f4c72d]: Textual amendment: Words in [reg. 12(6)(c)(i)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/12/6/c/i) omitted (1.4.2008) by virtue of [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [9(6)(b)](https://www.legislation.gov.uk/uksi/2008/696/regulation/9/6/b)
 
-[^key-12d2905d82ba5bb4f58cac9daa850689]: Textual amendment: [Reg. 12(6)(c)(ii)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/12/6/c/ii) substituted (1.4.2008) by [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [9(6)(c)](https://www.legislation.gov.uk/uksi/2008/696/regulation/9/6/c)
+[^c-12d2905d82ba5bb4f58cac9daa850689]: Textual amendment: [Reg. 12(6)(c)(ii)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/12/6/c/ii) substituted (1.4.2008) by [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [9(6)(c)](https://www.legislation.gov.uk/uksi/2008/696/regulation/9/6/c)
 
-[^key-0decab2ad406b10f981a2538b6a396b1]: Textual amendment: [Reg. 12(6)(d)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/12/6/d) substituted (1.4.2008) by [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [9(6)(d)](https://www.legislation.gov.uk/uksi/2008/696/regulation/9/6/d)
+[^c-0decab2ad406b10f981a2538b6a396b1]: Textual amendment: [Reg. 12(6)(d)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/12/6/d) substituted (1.4.2008) by [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [9(6)(d)](https://www.legislation.gov.uk/uksi/2008/696/regulation/9/6/d)
 
-[^key-0a92934613fd5b798e9b58b4b47c4e3b]: Textual amendment: [Reg. 12(6)(e)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/12/6/e)[(7)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/12/7)[(8)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/12/8) inserted (1.4.2008) by [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [9(7)](https://www.legislation.gov.uk/uksi/2008/696/regulation/9/7)
+[^c-0a92934613fd5b798e9b58b4b47c4e3b]: Textual amendment: [Reg. 12(6)(e)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/12/6/e)[(7)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/12/7)[(8)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/12/8) inserted (1.4.2008) by [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [9(7)](https://www.legislation.gov.uk/uksi/2008/696/regulation/9/7)
 
-[^key-7a1357a9f400250f18379f57b61b43df]: Textual amendment: Words in [reg. 12(8)(b)(ii)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/12/8/b/ii) substituted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2021/257/regulation/9)
+[^c-7a1357a9f400250f18379f57b61b43df]: Textual amendment: Words in [reg. 12(8)(b)(ii)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/12/8/b/ii) substituted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2021/257/regulation/9)
 
-[^key-2f1eb32c3439919ba82f95214395a1de]: Commencement: Reg. 13 in force at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1136/regulation/1/1) (as amended by [S.I. 2005/1136](https://www.legislation.gov.uk/uksi/2005/1136), [reg. 2](https://www.legislation.gov.uk/uksi/2005/1136/regulation/2))
+[^c-2f1eb32c3439919ba82f95214395a1de]: Commencement: Reg. 13 in force at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1136/regulation/1/1) (as amended by [S.I. 2005/1136](https://www.legislation.gov.uk/uksi/2005/1136), [reg. 2](https://www.legislation.gov.uk/uksi/2005/1136/regulation/2))
 
-[^key-db885328566b238e6d7fb32711a923ff]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/13/2) omitted (1.4.2008) by virtue of [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [10(2)](https://www.legislation.gov.uk/uksi/2008/696/regulation/10/2)
+[^c-db885328566b238e6d7fb32711a923ff]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/13/2) omitted (1.4.2008) by virtue of [The Gas (Standards of Performance) (Amendment) Regulations 2008 (S.I. 2008/696)](https://www.legislation.gov.uk/uksi/2008/696), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/696/regulation/1/1), [10(2)](https://www.legislation.gov.uk/uksi/2008/696/regulation/10/2)
 
-[^key-1f4bed3d76613ff1e5522ed920088ec4]: Textual amendment: Words in [reg. 13(4)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/13/4) substituted (1.1.2016) by [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [12(d)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/12/d) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
+[^c-1f4bed3d76613ff1e5522ed920088ec4]: Textual amendment: Words in [reg. 13(4)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/13/4) substituted (1.1.2016) by [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [12(d)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/12/d) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
 
 [^f00019]: Footnote: [2004 c. 36](https://www.legislation.gov.uk/ukpga/2004/36).
 
@@ -985,58 +985,58 @@ The Gas (Standards of Performance) Regulations 2002 and the Gas (Standards of Pe
 
 [^f00022]: Footnote: [1986 c. 44](https://www.legislation.gov.uk/ukpga/1986/44): Schedule 2B was inserted by paragraph 9(2) of Schedule 2 to the Gas Act 1995.
 
-[^key-42eedc2ac65e8bfeee120d194cb2460b]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/uksi/2005/1135/regulation/14) omitted (1.1.2016) by virtue of [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [12(c)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/12/c) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
+[^c-42eedc2ac65e8bfeee120d194cb2460b]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/uksi/2005/1135/regulation/14) omitted (1.1.2016) by virtue of [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [12(c)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/12/c) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
 
-[^key-b19209f8a5a0d265491aea39d2013721]: Textual amendment: [Reg. 14A](https://www.legislation.gov.uk/uksi/2005/1135/regulation/14A) inserted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2021/257/regulation/10)
+[^c-b19209f8a5a0d265491aea39d2013721]: Textual amendment: [Reg. 14A](https://www.legislation.gov.uk/uksi/2005/1135/regulation/14A) inserted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2021/257/regulation/10)
 
-[^key-c5c0e9955c3a46008ac82fb66f5e6103]: Commencement: Reg. 15 in force at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1136/regulation/1/1) (as amended by [S.I. 2005/1136](https://www.legislation.gov.uk/uksi/2005/1136), [reg. 2](https://www.legislation.gov.uk/uksi/2005/1136/regulation/2))
+[^c-c5c0e9955c3a46008ac82fb66f5e6103]: Commencement: Reg. 15 in force at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1136/regulation/1/1) (as amended by [S.I. 2005/1136](https://www.legislation.gov.uk/uksi/2005/1136), [reg. 2](https://www.legislation.gov.uk/uksi/2005/1136/regulation/2))
 
-[^key-5d780dc0935a5a9e0fd6d31b777bb3cf]: Textual amendment: [Reg. 15(1)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/15/1) omitted (1.1.2016) by virtue of [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [12(c)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/12/c) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
+[^c-5d780dc0935a5a9e0fd6d31b777bb3cf]: Textual amendment: [Reg. 15(1)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/15/1) omitted (1.1.2016) by virtue of [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [12(c)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/12/c) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
 
 [^f00024]: Footnote: [1986 c. 44](https://www.legislation.gov.uk/ukpga/1986/44): section 33AA(5) was inserted by section 90(2) of the Utilities Act [2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27).
 
 [^f00025]: Footnote: [1986 c. 44](https://www.legislation.gov.uk/ukpga/1986/44): section 46(3) was amended by paragraphs 2 and 18 of Schedule 6 to the Utilities Act 2000.
 
-[^key-f940d4e745968200e6c0a707a9065a54]: Textual amendment: [Reg. 15(3)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/15/3) omitted (1.1.2016) by virtue of [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [12(c)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/12/c) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
+[^c-f940d4e745968200e6c0a707a9065a54]: Textual amendment: [Reg. 15(3)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/15/3) omitted (1.1.2016) by virtue of [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [12(c)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/12/c) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
 
-[^key-23ba788b97f381251d5150022fab1db7]: Textual amendment: [Reg. 15(4)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/15/4) omitted (1.1.2016) by virtue of [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [12(c)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/12/c) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
+[^c-23ba788b97f381251d5150022fab1db7]: Textual amendment: [Reg. 15(4)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/15/4) omitted (1.1.2016) by virtue of [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [12(c)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/12/c) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
 
-[^key-249f0c5f50dec933e309ad87ddf48e74]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/uksi/2005/1135/regulation/16) omitted (1.1.2016) by virtue of [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [12(c)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/12/c) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
+[^c-249f0c5f50dec933e309ad87ddf48e74]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/uksi/2005/1135/regulation/16) omitted (1.1.2016) by virtue of [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [12(c)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/12/c) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
 
-[^key-6665853192e24226ed7de3ff5dae671e]: Textual amendment: [Sch. 1 Pt. A1](https://www.legislation.gov.uk/uksi/2005/1135/schedule/1/part/A1) inserted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2021/257/regulation/11)
+[^c-6665853192e24226ed7de3ff5dae671e]: Textual amendment: [Sch. 1 Pt. A1](https://www.legislation.gov.uk/uksi/2005/1135/schedule/1/part/A1) inserted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2021/257/regulation/11)
 
-[^key-7ada0ca604c1bf8ef168dd55a4726eb2]: Commencement: Sch. 1 Pt. 1 in force at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1136/regulation/1/1) (as amended by [S.I. 2005/1136](https://www.legislation.gov.uk/uksi/2005/1136), [reg. 2](https://www.legislation.gov.uk/uksi/2005/1136/regulation/2))
+[^c-7ada0ca604c1bf8ef168dd55a4726eb2]: Commencement: Sch. 1 Pt. 1 in force at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1136/regulation/1/1) (as amended by [S.I. 2005/1136](https://www.legislation.gov.uk/uksi/2005/1136), [reg. 2](https://www.legislation.gov.uk/uksi/2005/1136/regulation/2))
 
-[^key-e5408720bbc0f33e9484269558f06ac3]: Textual amendment: Sch. 1 Pt. 1 heading substituted (1.1.2016) by [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [12(e)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/12/e) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
+[^c-e5408720bbc0f33e9484269558f06ac3]: Textual amendment: Sch. 1 Pt. 1 heading substituted (1.1.2016) by [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [12(e)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/12/e) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
 
-[^key-51fe042b514645619cbea3bb4f27ebf3]: Textual amendment: [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2005/1135/schedule/1/part/1) Table substituted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2021/257/regulation/12)
+[^c-51fe042b514645619cbea3bb4f27ebf3]: Textual amendment: [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2005/1135/schedule/1/part/1) Table substituted (1.4.2021) by [The Gas (Standards of Performance) (Amendment) Regulations 2021 (S.I. 2021/257)](https://www.legislation.gov.uk/uksi/2021/257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/257/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2021/257/regulation/12)
 
-[^key-919cc12c5e16d22336468f969b0145b9]: Commencement: Sch. 1 Pt. 2 in force at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1136/regulation/1/1) (as amended by [S.I. 2005/1136](https://www.legislation.gov.uk/uksi/2005/1136), [reg. 2](https://www.legislation.gov.uk/uksi/2005/1136/regulation/2))
+[^c-919cc12c5e16d22336468f969b0145b9]: Commencement: Sch. 1 Pt. 2 in force at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1136/regulation/1/1) (as amended by [S.I. 2005/1136](https://www.legislation.gov.uk/uksi/2005/1136), [reg. 2](https://www.legislation.gov.uk/uksi/2005/1136/regulation/2))
 
-[^key-698805246ab4babc8e514fc51543dbb0]: Commencement: Sch. 2 para. 1 in force at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1136/regulation/1/1) (as amended by [S.I. 2005/1136](https://www.legislation.gov.uk/uksi/2005/1136), [reg. 2](https://www.legislation.gov.uk/uksi/2005/1136/regulation/2))
+[^c-698805246ab4babc8e514fc51543dbb0]: Commencement: Sch. 2 para. 1 in force at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1136/regulation/1/1) (as amended by [S.I. 2005/1136](https://www.legislation.gov.uk/uksi/2005/1136), [reg. 2](https://www.legislation.gov.uk/uksi/2005/1136/regulation/2))
 
-[^key-e732e60b2ce157ca860d61637b6026b7]: Commencement: Sch. 2 para. 2 in force at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1136/regulation/1/1) (as amended by [S.I. 2005/1136](https://www.legislation.gov.uk/uksi/2005/1136), [reg. 2](https://www.legislation.gov.uk/uksi/2005/1136/regulation/2))
+[^c-e732e60b2ce157ca860d61637b6026b7]: Commencement: Sch. 2 para. 2 in force at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1136/regulation/1/1) (as amended by [S.I. 2005/1136](https://www.legislation.gov.uk/uksi/2005/1136), [reg. 2](https://www.legislation.gov.uk/uksi/2005/1136/regulation/2))
 
-[^key-dfb0438d70df205a81b25b8b1e1b737a]: Commencement: Sch. 2 para. 3 in force at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1136/regulation/1/1) (as amended by [S.I. 2005/1136](https://www.legislation.gov.uk/uksi/2005/1136), [reg. 2](https://www.legislation.gov.uk/uksi/2005/1136/regulation/2))
+[^c-dfb0438d70df205a81b25b8b1e1b737a]: Commencement: Sch. 2 para. 3 in force at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1136/regulation/1/1) (as amended by [S.I. 2005/1136](https://www.legislation.gov.uk/uksi/2005/1136), [reg. 2](https://www.legislation.gov.uk/uksi/2005/1136/regulation/2))
 
-[^key-512811f4171d3b2aecc2a9633366ab62]: Commencement: Sch. 2 para. 4 in force at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1136/regulation/1/1) (as amended by [S.I. 2005/1136](https://www.legislation.gov.uk/uksi/2005/1136), [reg. 2](https://www.legislation.gov.uk/uksi/2005/1136/regulation/2))
+[^c-512811f4171d3b2aecc2a9633366ab62]: Commencement: Sch. 2 para. 4 in force at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1136/regulation/1/1) (as amended by [S.I. 2005/1136](https://www.legislation.gov.uk/uksi/2005/1136), [reg. 2](https://www.legislation.gov.uk/uksi/2005/1136/regulation/2))
 
-[^key-176ef6dd7f5d02bac992b4106f89f6ee]: Commencement: Sch. 2 para. 5 in force at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1136/regulation/1/1) (as amended by [S.I. 2005/1136](https://www.legislation.gov.uk/uksi/2005/1136), [reg. 2](https://www.legislation.gov.uk/uksi/2005/1136/regulation/2))
+[^c-176ef6dd7f5d02bac992b4106f89f6ee]: Commencement: Sch. 2 para. 5 in force at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1136/regulation/1/1) (as amended by [S.I. 2005/1136](https://www.legislation.gov.uk/uksi/2005/1136), [reg. 2](https://www.legislation.gov.uk/uksi/2005/1136/regulation/2))
 
-[^key-2986e33b7a9d93f102e04974963d2d1f]: Commencement: Sch. 2 para. 6 in force at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1136/regulation/1/1) (as amended by [S.I. 2005/1136](https://www.legislation.gov.uk/uksi/2005/1136), [reg. 2](https://www.legislation.gov.uk/uksi/2005/1136/regulation/2))
+[^c-2986e33b7a9d93f102e04974963d2d1f]: Commencement: Sch. 2 para. 6 in force at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1136/regulation/1/1) (as amended by [S.I. 2005/1136](https://www.legislation.gov.uk/uksi/2005/1136), [reg. 2](https://www.legislation.gov.uk/uksi/2005/1136/regulation/2))
 
-[^key-4c3aac93ab3393fa201d420affd43c3f]: Commencement: Sch. 2 para. 7 in force at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1136/regulation/1/1) (as amended by [S.I. 2005/1136](https://www.legislation.gov.uk/uksi/2005/1136), [reg. 2](https://www.legislation.gov.uk/uksi/2005/1136/regulation/2))
+[^c-4c3aac93ab3393fa201d420affd43c3f]: Commencement: Sch. 2 para. 7 in force at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1136/regulation/1/1) (as amended by [S.I. 2005/1136](https://www.legislation.gov.uk/uksi/2005/1136), [reg. 2](https://www.legislation.gov.uk/uksi/2005/1136/regulation/2))
 
-[^key-a169137a471389545c1082f289620113]: Commencement: Sch. 2 para. 8 in force at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1136/regulation/1/1) (as amended by [S.I. 2005/1136](https://www.legislation.gov.uk/uksi/2005/1136), [reg. 2](https://www.legislation.gov.uk/uksi/2005/1136/regulation/2))
+[^c-a169137a471389545c1082f289620113]: Commencement: Sch. 2 para. 8 in force at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1136/regulation/1/1) (as amended by [S.I. 2005/1136](https://www.legislation.gov.uk/uksi/2005/1136), [reg. 2](https://www.legislation.gov.uk/uksi/2005/1136/regulation/2))
 
-[^key-d02c153b4585666f41dfb76482cb7586]: Commencement: Sch. 2 para. 9 in force at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1136/regulation/1/1) (as amended by [S.I. 2005/1136](https://www.legislation.gov.uk/uksi/2005/1136), [reg. 2](https://www.legislation.gov.uk/uksi/2005/1136/regulation/2))
+[^c-d02c153b4585666f41dfb76482cb7586]: Commencement: Sch. 2 para. 9 in force at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1136/regulation/1/1) (as amended by [S.I. 2005/1136](https://www.legislation.gov.uk/uksi/2005/1136), [reg. 2](https://www.legislation.gov.uk/uksi/2005/1136/regulation/2))
 
-[^key-2e6d298644453840c0a501e0183f2497]: Commencement: Sch. 2 para. 10 in force at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1136/regulation/1/1) (as amended by [S.I. 2005/1136](https://www.legislation.gov.uk/uksi/2005/1136), [reg. 2](https://www.legislation.gov.uk/uksi/2005/1136/regulation/2))
+[^c-2e6d298644453840c0a501e0183f2497]: Commencement: Sch. 2 para. 10 in force at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1136/regulation/1/1) (as amended by [S.I. 2005/1136](https://www.legislation.gov.uk/uksi/2005/1136), [reg. 2](https://www.legislation.gov.uk/uksi/2005/1136/regulation/2))
 
-[^key-4e5460d70abd7862a341f899c389bb55]: Commencement: Sch. 2 para. 11 in force at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1136/regulation/1/1) (as amended by [S.I. 2005/1136](https://www.legislation.gov.uk/uksi/2005/1136), [reg. 2](https://www.legislation.gov.uk/uksi/2005/1136/regulation/2))
+[^c-4e5460d70abd7862a341f899c389bb55]: Commencement: Sch. 2 para. 11 in force at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1136/regulation/1/1) (as amended by [S.I. 2005/1136](https://www.legislation.gov.uk/uksi/2005/1136), [reg. 2](https://www.legislation.gov.uk/uksi/2005/1136/regulation/2))
 
-[^key-9a6cfc67698a0ba0b2c4f5c74fe0a3ce]: Commencement: Sch. 2 para. 12 in force at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1136/regulation/1/1) (as amended by [S.I. 2005/1136](https://www.legislation.gov.uk/uksi/2005/1136), [reg. 2](https://www.legislation.gov.uk/uksi/2005/1136/regulation/2))
+[^c-9a6cfc67698a0ba0b2c4f5c74fe0a3ce]: Commencement: Sch. 2 para. 12 in force at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1136/regulation/1/1) (as amended by [S.I. 2005/1136](https://www.legislation.gov.uk/uksi/2005/1136), [reg. 2](https://www.legislation.gov.uk/uksi/2005/1136/regulation/2))
 
-[^key-3cfd26f6eec6ea9bafc6678a6db7572e]: Commencement: Sch. 2 para. 13 in force at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1136/regulation/1/1) (as amended by [S.I. 2005/1136](https://www.legislation.gov.uk/uksi/2005/1136), [reg. 2](https://www.legislation.gov.uk/uksi/2005/1136/regulation/2))
+[^c-3cfd26f6eec6ea9bafc6678a6db7572e]: Commencement: Sch. 2 para. 13 in force at 1.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1136/regulation/1/1) (as amended by [S.I. 2005/1136](https://www.legislation.gov.uk/uksi/2005/1136), [reg. 2](https://www.legislation.gov.uk/uksi/2005/1136/regulation/2))
 
-[^key-90fefa5b381fe4e59d1288369907be60]: Commencement: Sch. 2 para. 14 in force at 1.5.2005 (as amended by S.I. 2005/1136, reg. 2) , see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/1/1)
+[^c-90fefa5b381fe4e59d1288369907be60]: Commencement: Sch. 2 para. 14 in force at 1.5.2005 (as amended by S.I. 2005/1136, reg. 2) , see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1135/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 212. Abolition of function of assigning television frequencies[^key-efb9d8016039b70cc8ad4a4400e970e7][^key-3ed08a781151dcbd15b42c46f8dd5828][^key-45cb27ae430e1c2da44e8f6a76ec7deb]
+## 212. Abolition of function of assigning television frequencies[^c-efb9d8016039b70cc8ad4a4400e970e7][^c-3ed08a781151dcbd15b42c46f8dd5828][^c-45cb27ae430e1c2da44e8f6a76ec7deb]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,8 +28,8 @@ The Secretary of State shall cease to have any function under the 1990 Act or th
 
 ## Annotations
 
-[^key-efb9d8016039b70cc8ad4a4400e970e7]: Commencement: S. 212 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-efb9d8016039b70cc8ad4a4400e970e7]: Commencement: S. 212 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-3ed08a781151dcbd15b42c46f8dd5828]: Textual amendment: S. 212 amendment to earlier affecting provision SI 2003/3197 art. 6 Sch. 2 (31.3.2005) by [Communications (Jersey) (Amendment) Order 2005 (S.I. 2005/855)](https://www.legislation.gov.uk/uksi/2005/855), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/855/article/1/1), [2(a)(i)](https://www.legislation.gov.uk/uksi/2005/855/article/2/a/i)
+[^c-3ed08a781151dcbd15b42c46f8dd5828]: Textual amendment: S. 212 amendment to earlier affecting provision SI 2003/3197 art. 6 Sch. 2 (31.3.2005) by [Communications (Jersey) (Amendment) Order 2005 (S.I. 2005/855)](https://www.legislation.gov.uk/uksi/2005/855), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/855/article/1/1), [2(a)(i)](https://www.legislation.gov.uk/uksi/2005/855/article/2/a/i)
 
-[^key-45cb27ae430e1c2da44e8f6a76ec7deb]: Textual amendment: S. 212 amendment to earlier affecting provision SI 2003/3195 art. 6 Sch. 2 (31.3.2005) by [Communications (Bailiwick of Guernsey) (Amendment) Order 2005 (S.I. 2005/856)](https://www.legislation.gov.uk/uksi/2005/856), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/856/article/1/1), [2(a)(i)](https://www.legislation.gov.uk/uksi/2005/856/article/2/a/i)
+[^c-45cb27ae430e1c2da44e8f6a76ec7deb]: Textual amendment: S. 212 amendment to earlier affecting provision SI 2003/3195 art. 6 Sch. 2 (31.3.2005) by [Communications (Bailiwick of Guernsey) (Amendment) Order 2005 (S.I. 2005/856)](https://www.legislation.gov.uk/uksi/2005/856), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/856/article/1/1), [2(a)(i)](https://www.legislation.gov.uk/uksi/2005/856/article/2/a/i)

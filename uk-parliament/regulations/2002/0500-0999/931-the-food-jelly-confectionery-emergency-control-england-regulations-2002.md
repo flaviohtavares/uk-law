@@ -31,7 +31,7 @@ summary: ''
 
 FOOD, ENGLAND
 
-The Food (Jelly Confectionery) (Emergency Control) (England) Regulations 2002 (revoked)[^key-360829bbe4db7365f5a1eccccb8a898c]
+The Food (Jelly Confectionery) (Emergency Control) (England) Regulations 2002 (revoked)[^c-360829bbe4db7365f5a1eccccb8a898c]
 
 Made
 
@@ -45,36 +45,36 @@ Coming into force
 
 4th April 2002
 
-[^key-360829bbe4db7365f5a1eccccb8a898c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-360829bbe4db7365f5a1eccccb8a898c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and extent[^key-360829bbe4db7365f5a1eccccb8a898c]
+## 1. Title, commencement and extent[^c-360829bbe4db7365f5a1eccccb8a898c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-360829bbe4db7365f5a1eccccb8a898c]
+## 2. Interpretation[^c-360829bbe4db7365f5a1eccccb8a898c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prohibitions[^key-360829bbe4db7365f5a1eccccb8a898c]
+## 3. Prohibitions[^c-360829bbe4db7365f5a1eccccb8a898c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Enforcement[^key-360829bbe4db7365f5a1eccccb8a898c]
+## 4. Enforcement[^c-360829bbe4db7365f5a1eccccb8a898c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Application etc. of various provisions of the Act[^key-360829bbe4db7365f5a1eccccb8a898c]
+## 5. Application etc. of various provisions of the Act[^c-360829bbe4db7365f5a1eccccb8a898c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-360829bbe4db7365f5a1eccccb8a898c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-360829bbe4db7365f5a1eccccb8a898c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-360829bbe4db7365f5a1eccccb8a898c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-360829bbe4db7365f5a1eccccb8a898c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-360829bbe4db7365f5a1eccccb8a898c]: Textual amendment: Regulations revoked (20.1.2010) by [The Food (Jelly Mini-Cups) (Emergency Control) (England) Regulations 2009 (S.I. 2009/3230)](https://www.legislation.gov.uk/uksi/2009/3230), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/3230/regulation/1), [6](https://www.legislation.gov.uk/uksi/2009/3230/regulation/6)
+[^c-360829bbe4db7365f5a1eccccb8a898c]: Textual amendment: Regulations revoked (20.1.2010) by [The Food (Jelly Mini-Cups) (Emergency Control) (England) Regulations 2009 (S.I. 2009/3230)](https://www.legislation.gov.uk/uksi/2009/3230), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/3230/regulation/1), [6](https://www.legislation.gov.uk/uksi/2009/3230/regulation/6)

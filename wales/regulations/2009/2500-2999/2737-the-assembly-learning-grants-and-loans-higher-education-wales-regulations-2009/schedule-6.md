@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 6 — FINANCIAL ASSESSMENT — PART-TIME GRANTS FOR DEPENDANTS[^key-a81c12180d050b83c8aa5002982e3a1d]
+## SCHEDULE 6 — FINANCIAL ASSESSMENT — PART-TIME GRANTS FOR DEPENDANTS[^c-a81c12180d050b83c8aa5002982e3a1d]
 
 *Extent: E+W*
 
@@ -24,30 +24,30 @@ summary: ''
 
 Regulation 97
 
-### 1. Definitions[^key-a81c12180d050b83c8aa5002982e3a1d]
+### 1. Definitions[^c-a81c12180d050b83c8aa5002982e3a1d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Household income[^key-a81c12180d050b83c8aa5002982e3a1d]
+### 2. Household income[^c-a81c12180d050b83c8aa5002982e3a1d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Calculation of eligible part-time student’s residual income[^key-a81c12180d050b83c8aa5002982e3a1d]
+### 3. Calculation of eligible part-time student’s residual income[^c-a81c12180d050b83c8aa5002982e3a1d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Calculation of eligible part-time student’s partner’s residual income[^key-a81c12180d050b83c8aa5002982e3a1d]
+### 4. Calculation of eligible part-time student’s partner’s residual income[^c-a81c12180d050b83c8aa5002982e3a1d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Calculation of contribution[^key-a81c12180d050b83c8aa5002982e3a1d]
+### 5. Calculation of contribution[^c-a81c12180d050b83c8aa5002982e3a1d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Split contributions[^key-a81c12180d050b83c8aa5002982e3a1d]
+### 6. Split contributions[^c-a81c12180d050b83c8aa5002982e3a1d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a81c12180d050b83c8aa5002982e3a1d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2009/2737) revoked (1.9.2011) by [The Assembly Learning Grants and Loans (Higher Education) (Wales) Regulations 2011 (S.I. 2011/148)](https://www.legislation.gov.uk/wsi/2011/148), [reg. 3(1)](https://www.legislation.gov.uk/wsi/2011/148/regulation/3/1) (with [reg. 3(9)](https://www.legislation.gov.uk/wsi/2011/148/regulation/3/9)[(11)](https://www.legislation.gov.uk/wsi/2011/148/regulation/3/11))
+[^c-a81c12180d050b83c8aa5002982e3a1d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2009/2737) revoked (1.9.2011) by [The Assembly Learning Grants and Loans (Higher Education) (Wales) Regulations 2011 (S.I. 2011/148)](https://www.legislation.gov.uk/wsi/2011/148), [reg. 3(1)](https://www.legislation.gov.uk/wsi/2011/148/regulation/3/1) (with [reg. 3(9)](https://www.legislation.gov.uk/wsi/2011/148/regulation/3/9)[(11)](https://www.legislation.gov.uk/wsi/2011/148/regulation/3/11))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 7. Benefit of this Order[^key-fe54224959c423ce0ee163407a637655]
+## 7. Benefit of this Order[^c-fe54224959c423ce0ee163407a637655]
 
 *Extent: E+W+S*
 
@@ -64,4 +64,4 @@ except where paragraph (5) applies, in which case the consent of the Secretary o
 
 ## Annotations
 
-[^key-fe54224959c423ce0ee163407a637655]: Commencement: Art. 7 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-fe54224959c423ce0ee163407a637655]: Commencement: Art. 7 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)

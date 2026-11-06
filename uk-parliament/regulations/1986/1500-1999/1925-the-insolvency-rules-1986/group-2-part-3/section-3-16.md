@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.16. Constitution of committee[^key-9d504a15bcbe36372bb3d6e23f67bd7e]
+## 3.16. Constitution of committee[^c-9d504a15bcbe36372bb3d6e23f67bd7e]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9d504a15bcbe36372bb3d6e23f67bd7e]: Commencement: [Rule 3.16](https://www.legislation.gov.uk/uksi/1986/1925/rule/3.16) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-9d504a15bcbe36372bb3d6e23f67bd7e]: Commencement: [Rule 3.16](https://www.legislation.gov.uk/uksi/1986/1925/rule/3.16) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 19 — CAPITAL ALLOWANCES: CONVERSION OF PARTS OF BUSINESS PREMISES INTO FLATS[^key-f16f253d37534fd26efc87c4b01a38d6]
+## SCHEDULE 19 — CAPITAL ALLOWANCES: CONVERSION OF PARTS OF BUSINESS PREMISES INTO FLATS[^c-f16f253d37534fd26efc87c4b01a38d6]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,30 +24,30 @@ summary: ''
 
 Section 67.
 
-### Part 1 — NEW PART 4A OF THE CAPITAL ALLOWANCES ACT 2001[^key-f16f253d37534fd26efc87c4b01a38d6]
+### Part 1 — NEW PART 4A OF THE CAPITAL ALLOWANCES ACT 2001[^c-f16f253d37534fd26efc87c4b01a38d6]
 
-[^key-f16f253d37534fd26efc87c4b01a38d6]
+[^c-f16f253d37534fd26efc87c4b01a38d6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part 2 — CONSEQUENTIAL AMENDMENTS[^key-f16f253d37534fd26efc87c4b01a38d6]
+### Part 2 — CONSEQUENTIAL AMENDMENTS[^c-f16f253d37534fd26efc87c4b01a38d6]
 
-**1.**[^key-f16f253d37534fd26efc87c4b01a38d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-f16f253d37534fd26efc87c4b01a38d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-f16f253d37534fd26efc87c4b01a38d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-f16f253d37534fd26efc87c4b01a38d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-f16f253d37534fd26efc87c4b01a38d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-f16f253d37534fd26efc87c4b01a38d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-f16f253d37534fd26efc87c4b01a38d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-f16f253d37534fd26efc87c4b01a38d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-f16f253d37534fd26efc87c4b01a38d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-f16f253d37534fd26efc87c4b01a38d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-f16f253d37534fd26efc87c4b01a38d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-f16f253d37534fd26efc87c4b01a38d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-f16f253d37534fd26efc87c4b01a38d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-f16f253d37534fd26efc87c4b01a38d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-f16f253d37534fd26efc87c4b01a38d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-f16f253d37534fd26efc87c4b01a38d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f16f253d37534fd26efc87c4b01a38d6]: Textual amendment: [Sch. 19](https://www.legislation.gov.uk/ukpga/2001/9/schedule/19) repealed (with effect in accordance with Sch. 39 para. 40 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 39(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/39/a) (with [Sch. 39 paras. 41](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/41), [42](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/42))
+[^c-f16f253d37534fd26efc87c4b01a38d6]: Textual amendment: [Sch. 19](https://www.legislation.gov.uk/ukpga/2001/9/schedule/19) repealed (with effect in accordance with Sch. 39 para. 40 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 39(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/39/a) (with [Sch. 39 paras. 41](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/41), [42](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/42))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84B. Power to direct winding up[^key-b9d880bc2c65db9135357985882c7ce0]
+## 84B. Power to direct winding up[^c-b9d880bc2c65db9135357985882c7ce0]
 
 *Extent: E+W*
 
@@ -41,7 +41,7 @@ to take any action specified in the order for the purpose of having the charity 
 - (a) may require action to be taken whether or not it would otherwise be within the powers exercisable by the person or persons concerned, or by the charity, in relation to the winding up and dissolution of the charity or to its property, and
 - (b) in particular, may require the person or persons concerned to do anything for the purpose of having the charity wound up and dissolved and its property transferred that could otherwise only be done by the members of the charity or any of them,
 
-but may not require any action to be taken which is prohibited by any Act or Measure[^key-e8d4271a7ae419315f5a2af681554a71].
+but may not require any action to be taken which is prohibited by any Act or Measure[^c-e8d4271a7ae419315f5a2af681554a71].
 
 (4) Before making an order under this section the Commission must give public notice of its intention to make the order, inviting representations to be made to it within a period specified in the notice.
 
@@ -58,6 +58,6 @@ but may not require any action to be taken which is prohibited by any Act or Mea
 
 ## Annotations
 
-[^key-b9d880bc2c65db9135357985882c7ce0]: Textual amendment: S. 84B inserted (31.7.2016) by [Charities (Protection and Social Investment) Act 2016 (c. 4)](https://www.legislation.gov.uk/ukpga/2016/4), [ss. 7(2)](https://www.legislation.gov.uk/ukpga/2016/4/section/7/2), [17(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/17/4); [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2016/815/regulation/2/f)
+[^c-b9d880bc2c65db9135357985882c7ce0]: Textual amendment: S. 84B inserted (31.7.2016) by [Charities (Protection and Social Investment) Act 2016 (c. 4)](https://www.legislation.gov.uk/ukpga/2016/4), [ss. 7(2)](https://www.legislation.gov.uk/ukpga/2016/4/section/7/2), [17(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/17/4); [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2016/815/regulation/2/f)
 
-[^key-e8d4271a7ae419315f5a2af681554a71]: Textual amendment: Words in s. 84B(3) inserted (coming into force in accordance with [s. 53(6)(7)](https://www.legislation.gov.uk/ukcm/2021/2/section/53/6) of the amending Measure) by [Cathedrals Measure 2021 (No. 2)](https://www.legislation.gov.uk/ukcm/2021/2), [s. 8(2)](https://www.legislation.gov.uk/ukcm/2021/2/section/8/2) (with [ss. 42(4)](https://www.legislation.gov.uk/ukcm/2021/2/section/42/4), [48](https://www.legislation.gov.uk/ukcm/2021/2/section/48), [52(1)](https://www.legislation.gov.uk/ukcm/2021/2/section/52/1))
+[^c-e8d4271a7ae419315f5a2af681554a71]: Textual amendment: Words in s. 84B(3) inserted (coming into force in accordance with [s. 53(6)(7)](https://www.legislation.gov.uk/ukcm/2021/2/section/53/6) of the amending Measure) by [Cathedrals Measure 2021 (No. 2)](https://www.legislation.gov.uk/ukcm/2021/2), [s. 8(2)](https://www.legislation.gov.uk/ukcm/2021/2/section/8/2) (with [ss. 42(4)](https://www.legislation.gov.uk/ukcm/2021/2/section/42/4), [48](https://www.legislation.gov.uk/ukcm/2021/2/section/48), [52(1)](https://www.legislation.gov.uk/ukcm/2021/2/section/52/1))

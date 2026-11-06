@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Levy under FSMA 2000 for debt advice expenses of devolved authorities[^key-f3f40774df22c78af9022708f5f22fdc]
+## 14. Levy under FSMA 2000 for debt advice expenses of devolved authorities[^c-f3f40774df22c78af9022708f5f22fdc]
 
 *Extent: E+W+S+N.I.*
 
@@ -73,4 +73,4 @@ may be satisfied by things done before the day on which this section comes into 
 
 ## Annotations
 
-[^key-f3f40774df22c78af9022708f5f22fdc]: Commencement: S. 14 in force at 1.10.2018 by [S.I. 2018/1003](https://www.legislation.gov.uk/uksi/2018/1003), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/1003/regulation/2/a)
+[^c-f3f40774df22c78af9022708f5f22fdc]: Commencement: S. 14 in force at 1.10.2018 by [S.I. 2018/1003](https://www.legislation.gov.uk/uksi/2018/1003), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/1003/regulation/2/a)

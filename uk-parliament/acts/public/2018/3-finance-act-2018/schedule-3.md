@@ -148,7 +148,7 @@ Section 13
 - (b) is not an occupational pension scheme, and
 - (c) was registered under Chapter 2 of Part 4 of FA 2004 before the passing of this Act.
 
-(2) Section 274ZA(2) of FA 2004[^key-ae08049197d93ce984a6a5ca09d86c93] is treated as always having had effect in relation to the pension scheme.
+(2) Section 274ZA(2) of FA 2004[^c-ae08049197d93ce984a6a5ca09d86c93] is treated as always having had effect in relation to the pension scheme.
 
 (3) In this paragraph, “**Master Trust scheme**” and “**occupational pension scheme**” have the same meaning as in Part 4 of FA 2004.
 
@@ -156,4 +156,4 @@ Section 13
 
 [^c23067151]: Commencement: [Sch. 3 para. 1(1)(2)(5)(8)(9)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/3/paragraph/1/1/2/5/8/9) in force at Royal Assent, Sch. 3 para. 1(3)(4)(6)(7) in force at Royal Assent for specified purposes and in force at 6.4.2018 for further specified purposes, see [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2018/3/schedule/3/paragraph/2)
 
-[^key-ae08049197d93ce984a6a5ca09d86c93]: Textual amendment: Words in [Sch. 3 para. 4(2)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/3/paragraph/4/2) substituted (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 60(10)](https://www.legislation.gov.uk/ukpga/2026/11/section/60/10)
+[^c-ae08049197d93ce984a6a5ca09d86c93]: Textual amendment: Words in [Sch. 3 para. 4(2)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/3/paragraph/4/2) substituted (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 60(10)](https://www.legislation.gov.uk/ukpga/2026/11/section/60/10)

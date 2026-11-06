@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 56. Churches, churchyards and articles[^key-05362b5acd6135c91879511c4cc9b0e6]
+## 56. Churches, churchyards and articles[^c-05362b5acd6135c91879511c4cc9b0e6]
 
 *Extent: E*
 
@@ -24,4 +24,4 @@ For the avoidance of doubt and without prejudice to the jurisdiction of consisto
 
 ## Annotations
 
-[^key-05362b5acd6135c91879511c4cc9b0e6]: Commencement: [S. 56](https://www.legislation.gov.uk/ukcm/2018/3/section/56) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-05362b5acd6135c91879511c4cc9b0e6]: Commencement: [S. 56](https://www.legislation.gov.uk/ukcm/2018/3/section/56) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)

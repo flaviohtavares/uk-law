@@ -22,13 +22,13 @@ summary: ''
 
 (1) The following provisions come into force on the day on which this Act is passed—
 
-- (a)[^key-a3beb4c22bba1153aba7d3fb5b5bbc3f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-a3beb4c22bba1153aba7d3fb5b5bbc3f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-a3beb4c22bba1153aba7d3fb5b5bbc3f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-a3beb4c22bba1153aba7d3fb5b5bbc3f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (e)[^key-a3beb4c22bba1153aba7d3fb5b5bbc3f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (f)[^key-a3beb4c22bba1153aba7d3fb5b5bbc3f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (g)[^key-a3beb4c22bba1153aba7d3fb5b5bbc3f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-a3beb4c22bba1153aba7d3fb5b5bbc3f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-a3beb4c22bba1153aba7d3fb5b5bbc3f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-a3beb4c22bba1153aba7d3fb5b5bbc3f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-a3beb4c22bba1153aba7d3fb5b5bbc3f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-a3beb4c22bba1153aba7d3fb5b5bbc3f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-a3beb4c22bba1153aba7d3fb5b5bbc3f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^c-a3beb4c22bba1153aba7d3fb5b5bbc3f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (h) section 75;
 - (i) section 76;
 - (j) this section;
@@ -48,7 +48,7 @@ as the Secretary of State considers necessary or expedient in connection with th
 
 ## Annotations
 
-[^key-a3beb4c22bba1153aba7d3fb5b5bbc3f]: Textual amendment: [S. 77(1)(a)-(g)](https://www.legislation.gov.uk/ukpga/2006/22/section/77/1/a) repealed (2.4.2013) by [Electoral Registration and Administration Act 2013 (c. 6)](https://www.legislation.gov.uk/ukpga/2013/6), [ss. 23(2)](https://www.legislation.gov.uk/ukpga/2013/6/section/23/2), [27(1)](https://www.legislation.gov.uk/ukpga/2013/6/section/27/1); [S.I. 2013/702](https://www.legislation.gov.uk/uksi/2013/702), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/702/article/3/e)
+[^c-a3beb4c22bba1153aba7d3fb5b5bbc3f]: Textual amendment: [S. 77(1)(a)-(g)](https://www.legislation.gov.uk/ukpga/2006/22/section/77/1/a) repealed (2.4.2013) by [Electoral Registration and Administration Act 2013 (c. 6)](https://www.legislation.gov.uk/ukpga/2013/6), [ss. 23(2)](https://www.legislation.gov.uk/ukpga/2013/6/section/23/2), [27(1)](https://www.legislation.gov.uk/ukpga/2013/6/section/27/1); [S.I. 2013/702](https://www.legislation.gov.uk/uksi/2013/702), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/702/article/3/e)
 
 [^c19307161]: Subordinate legislation: S. 77(2) power partly exercised: 11.9.2006 appointed for specified provisions by {[S.I. 2006/1972](https://www.legislation.gov.uk/uksi/2006/1972)}, art. 3 (subject to transitional provisions in art. 4, Sch. 2) (as amended (17.8.2006) by [S.I. 2006/2268](https://www.legislation.gov.uk/uksi/2006/2268), [art. 3](https://www.legislation.gov.uk/uksi/2006/2268/article/3))
 

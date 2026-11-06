@@ -48,17 +48,17 @@ Coming into force
 
 The Secretary of State makes these Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972[^f00001]. The Secretary of State has been designated for the purposes of section 2(2) of the European Communities Act 1972 in relation to the prevention of money laundering and terrorist financing[^f00002].
 
-## 1. Citation and commencement[^key-372cc649d3fb32fd60215f7067d680c1]
+## 1. Citation and commencement[^c-372cc649d3fb32fd60215f7067d680c1]
 
 (1) These Regulations may be cited as the Terrorism Act 2000 and Proceeds of Crime Act 2002 (Amendment) Regulations 2007.
 
 (2) They come into force on 26th December 2007.
 
-## 2. Amendments of the Terrorism Act 2000[^key-a0310f6e011ef2d52f95c2ab2e31bb45]
+## 2. Amendments of the Terrorism Act 2000[^c-a0310f6e011ef2d52f95c2ab2e31bb45]
 
 Schedule 1 contains amendments of the Terrorism Act 2000[^f00003].
 
-## 3. Amendments of the Proceeds of Crime Act 2002[^key-0727e1dd3d5e99e0e8d5a053018e1f06]
+## 3. Amendments of the Proceeds of Crime Act 2002[^c-0727e1dd3d5e99e0e8d5a053018e1f06]
 
 Schedule 2 contains amendments of the Proceeds of Crime Act 2002[^f00004].
 
@@ -74,9 +74,9 @@ Home Office
 
 Regulation 2
 
-**1.**[^key-79be8b39e9ad3772a313d19d9e227526] The Terrorism Act 2000 is amended as follows.
+**1.**[^c-79be8b39e9ad3772a313d19d9e227526] The Terrorism Act 2000 is amended as follows.
 
-**2.**[^key-c4a8a8d73bb13919e10cec4ebec2ac2e] After section 21 (cooperation with police) insert—
+**2.**[^c-c4a8a8d73bb13919e10cec4ebec2ac2e] After section 21 (cooperation with police) insert—
 
 > **21ZA. Arrangements with prior consent**
 >
@@ -123,7 +123,7 @@ Regulation 2
 > - (a) the person intended to make a disclosure of the kind mentioned in section 21ZA or 21ZB, and
 > - (b) there is a reasonable excuse for the person’s failure to do so.
 
-**3.**[^key-6e8d525f89956ae01e2223fc0e8932dc] (1) Section 21A (failure to disclose: regulated sector)[^f00005] is amended as follows.
+**3.**[^c-6e8d525f89956ae01e2223fc0e8932dc] (1) Section 21A (failure to disclose: regulated sector)[^f00005] is amended as follows.
 
 (2) In subsection (2), after “committed” insert “or attempted to commit”.
 
@@ -153,9 +153,9 @@ Regulation 2
 > - (a) testing the competence of those seeking admission to membership of such a body as a condition for such admission; and
 > - (b) imposing and maintaining professional and ethical standards for its members, as well as imposing sanctions for non-compliance with those standards.
 
-**4.**[^key-f852efbf6fbd605e6aeb6b4bb66bb073] In section 21B(3) (protected disclosures)[^f00006], after “committed” insert “or attempted to commit”.
+**4.**[^c-f852efbf6fbd605e6aeb6b4bb66bb073] In section 21B(3) (protected disclosures)[^f00006], after “committed” insert “or attempted to commit”.
 
-**5.**[^key-56666ea167759179e574fd7bae7f02b4] After that section insert—
+**5.**[^c-56666ea167759179e574fd7bae7f02b4] After that section insert—
 
 > **21C. Disclosures to SOCA**
 >
@@ -276,7 +276,7 @@ Regulation 2
 > - (a) testing the competence of those seeking admission to membership of such a body as a condition for such admission; and
 > - (b) imposing and maintaining professional and ethical standards for its members, as well as imposing sanctions for non-compliance with those standards.
 
-**6.**[^key-5e002ddab63ab0e52b77263a3e2b0894] (1) Section 39 (disclosure of information etc) is amended as follows.
+**6.**[^c-5e002ddab63ab0e52b77263a3e2b0894] (1) Section 39 (disclosure of information etc) is amended as follows.
 
 (2) In subsection (3), for “21” substitute “21B”.
 
@@ -295,13 +295,13 @@ Regulation 2
 
 Regulation 3
 
-**1.**[^key-282dca712fb791079ee74eca654dca47] The Proceeds of Crime Act 2002 is amended as follows.
+**1.**[^c-282dca712fb791079ee74eca654dca47] The Proceeds of Crime Act 2002 is amended as follows.
 
-**2.**[^key-5db5e772062eb67a653811726ff016fb] In section 330 (failure to disclose: regulated sector)[^f00011], in each of subsections (6)(b), (9A)(a) and (10), before “relevant professional adviser” omit “other”.
+**2.**[^c-5db5e772062eb67a653811726ff016fb] In section 330 (failure to disclose: regulated sector)[^f00011], in each of subsections (6)(b), (9A)(a) and (10), before “relevant professional adviser” omit “other”.
 
-**3.**[^key-fcbc06023c82502523945deb4aa088d2] Omit section 333 (tipping off).
+**3.**[^c-fcbc06023c82502523945deb4aa088d2] Omit section 333 (tipping off).
 
-**4.**[^key-4ffe6caacc037c947f74de7babf61d7b] After section 333 insert—
+**4.**[^c-4ffe6caacc037c947f74de7babf61d7b] After section 333 insert—
 
 > **333A. Tipping off: regulated sector**
 >
@@ -414,11 +414,11 @@ Regulation 3
 > - (a) testing the competence of those seeking admission to membership of such a body as a condition for such admission; and
 > - (b) imposing and maintaining professional and ethical standards for its members, as well as imposing sanctions for non-compliance with those standards.
 
-**5.**[^key-c0ad7776daaa4ea2594e6d4ee8084f67] In section 334(2) (penalties for offences under sections 330 to 333) for “, 332 or 333” substitute “or 332”.
+**5.**[^c-c0ad7776daaa4ea2594e6d4ee8084f67] In section 334(2) (penalties for offences under sections 330 to 333) for “, 332 or 333” substitute “or 332”.
 
-**6.**[^key-a77a207ccd0bc8b434550570ab7f19d1] In section 338(3)(b) (disclosure after prohibited act: requirement for good reason for failure to disclose beforehand) for “there is a good reason” substitute “he has a reasonable excuse”.
+**6.**[^c-a77a207ccd0bc8b434550570ab7f19d1] In section 338(3)(b) (disclosure after prohibited act: requirement for good reason for failure to disclose beforehand) for “there is a good reason” substitute “he has a reasonable excuse”.
 
-**7.**[^key-bcf284c977dd1c70aa3e5e2f85838e89] After section 339 (form and manner of disclosures)[^f00012] insert—
+**7.**[^c-bcf284c977dd1c70aa3e5e2f85838e89] After section 339 (form and manner of disclosures)[^f00012] insert—
 
 > **339ZA. Disclosures to SOCA**
 >
@@ -426,7 +426,7 @@ Regulation 3
 
 .
 
-**8.**[^key-957df93d5d415873ecfefe62869a9271] (1) Section 342 (offences of prejudicing investigation) is amended as follows.
+**8.**[^c-957df93d5d415873ecfefe62869a9271] (1) Section 342 (offences of prejudicing investigation) is amended as follows.
 
 (2) In subsection (3), at the end of paragraph (b) insert—
 
@@ -460,29 +460,29 @@ The remaining amendments to the Terrorism Act 2000 and the Proceeds of Crime Act
 
 [^f00002]: Footnote: See the European Communities (Designation) (No. 4) Order 2007 ([S.I. 2007/2133](https://www.legislation.gov.uk/uksi/2007/2133)).
 
-[^key-372cc649d3fb32fd60215f7067d680c1]: Commencement: Reg. 1 in force at 26.12.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/3398/regulation/1/2)
+[^c-372cc649d3fb32fd60215f7067d680c1]: Commencement: Reg. 1 in force at 26.12.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/3398/regulation/1/2)
 
-[^key-a0310f6e011ef2d52f95c2ab2e31bb45]: Commencement: Reg. 2 in force at 26.12.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/3398/regulation/1/2)
+[^c-a0310f6e011ef2d52f95c2ab2e31bb45]: Commencement: Reg. 2 in force at 26.12.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/3398/regulation/1/2)
 
 [^f00003]: Footnote: [2000 c.11](https://www.legislation.gov.uk/ukpga/2000/11).
 
-[^key-0727e1dd3d5e99e0e8d5a053018e1f06]: Commencement: Reg. 3 in force at 26.12.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/3398/regulation/1/2)
+[^c-0727e1dd3d5e99e0e8d5a053018e1f06]: Commencement: Reg. 3 in force at 26.12.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/3398/regulation/1/2)
 
 [^f00004]: Footnote: [2002 c.29](https://www.legislation.gov.uk/ukpga/2002/29).
 
-[^key-79be8b39e9ad3772a313d19d9e227526]: Commencement: Sch. 1 para. 1 in force at 26.12.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/3398/regulation/1/2)
+[^c-79be8b39e9ad3772a313d19d9e227526]: Commencement: Sch. 1 para. 1 in force at 26.12.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/3398/regulation/1/2)
 
-[^key-c4a8a8d73bb13919e10cec4ebec2ac2e]: Commencement: Sch. 1 para. 2 in force at 26.12.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/3398/regulation/1/2)
+[^c-c4a8a8d73bb13919e10cec4ebec2ac2e]: Commencement: Sch. 1 para. 2 in force at 26.12.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/3398/regulation/1/2)
 
-[^key-6e8d525f89956ae01e2223fc0e8932dc]: Commencement: Sch. 1 para. 3 in force at 26.12.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/3398/regulation/1/2)
+[^c-6e8d525f89956ae01e2223fc0e8932dc]: Commencement: Sch. 1 para. 3 in force at 26.12.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/3398/regulation/1/2)
 
 [^f00005]: Footnote: Section 21A was inserted by Schedule 2 to the Anti-terrorism, Crime and Security Act [2001 (c.24)](https://www.legislation.gov.uk/ukpga/2001/24).
 
-[^key-f852efbf6fbd605e6aeb6b4bb66bb073]: Commencement: Sch. 1 para. 4 in force at 26.12.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/3398/regulation/1/2)
+[^c-f852efbf6fbd605e6aeb6b4bb66bb073]: Commencement: Sch. 1 para. 4 in force at 26.12.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/3398/regulation/1/2)
 
 [^f00006]: Footnote: Section 21B was inserted by Schedule 2 to the Anti-terrorism, Crime and Security Act 2001.
 
-[^key-56666ea167759179e574fd7bae7f02b4]: Commencement: Sch. 1 para. 5 in force at 26.12.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/3398/regulation/1/2)
+[^c-56666ea167759179e574fd7bae7f02b4]: Commencement: Sch. 1 para. 5 in force at 26.12.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/3398/regulation/1/2)
 
 [^f00007]: Footnote: OJ L 35, 11.2.2003, p.1.
 
@@ -492,24 +492,24 @@ The remaining amendments to the Terrorism Act 2000 and the Proceeds of Crime Act
 
 [^f00010]: Footnote: OJ L 309, 25.11.2005, p.15.
 
-[^key-5e002ddab63ab0e52b77263a3e2b0894]: Commencement: Sch. 1 para. 6 in force at 26.12.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/3398/regulation/1/2)
+[^c-5e002ddab63ab0e52b77263a3e2b0894]: Commencement: Sch. 1 para. 6 in force at 26.12.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/3398/regulation/1/2)
 
-[^key-282dca712fb791079ee74eca654dca47]: Commencement: Sch. 2 para. 1 in force at 26.12.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/3398/regulation/1/2)
+[^c-282dca712fb791079ee74eca654dca47]: Commencement: Sch. 2 para. 1 in force at 26.12.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/3398/regulation/1/2)
 
-[^key-5db5e772062eb67a653811726ff016fb]: Commencement: Sch. 2 para. 2 in force at 26.12.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/3398/regulation/1/2)
+[^c-5db5e772062eb67a653811726ff016fb]: Commencement: Sch. 2 para. 2 in force at 26.12.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/3398/regulation/1/2)
 
 [^f00011]: Footnote: As amended by sections 102 and 104 to 106 of, and Schedule 17 to, the Serious Organised Crime and Police Act [2005 (c.15)](https://www.legislation.gov.uk/ukpga/2005/15) and [S.I. 2006/308](https://www.legislation.gov.uk/uksi/2006/308).
 
-[^key-fcbc06023c82502523945deb4aa088d2]: Commencement: Sch. 2 para. 3 in force at 26.12.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/3398/regulation/1/2)
+[^c-fcbc06023c82502523945deb4aa088d2]: Commencement: Sch. 2 para. 3 in force at 26.12.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/3398/regulation/1/2)
 
-[^key-4ffe6caacc037c947f74de7babf61d7b]: Commencement: Sch. 2 para. 4 in force at 26.12.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/3398/regulation/1/2)
+[^c-4ffe6caacc037c947f74de7babf61d7b]: Commencement: Sch. 2 para. 4 in force at 26.12.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/3398/regulation/1/2)
 
-[^key-c0ad7776daaa4ea2594e6d4ee8084f67]: Commencement: Sch. 2 para. 5 in force at 26.12.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/3398/regulation/1/2)
+[^c-c0ad7776daaa4ea2594e6d4ee8084f67]: Commencement: Sch. 2 para. 5 in force at 26.12.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/3398/regulation/1/2)
 
-[^key-a77a207ccd0bc8b434550570ab7f19d1]: Commencement: Sch. 2 para. 6 in force at 26.12.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/3398/regulation/1/2)
+[^c-a77a207ccd0bc8b434550570ab7f19d1]: Commencement: Sch. 2 para. 6 in force at 26.12.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/3398/regulation/1/2)
 
-[^key-bcf284c977dd1c70aa3e5e2f85838e89]: Commencement: Sch. 2 para. 7 in force at 26.12.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/3398/regulation/1/2)
+[^c-bcf284c977dd1c70aa3e5e2f85838e89]: Commencement: Sch. 2 para. 7 in force at 26.12.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/3398/regulation/1/2)
 
 [^f00012]: Footnote: Section 339A was inserted by section 103 of the Serious Organised Crime and Police Act [2005 (c.15)](https://www.legislation.gov.uk/ukpga/2005/15).
 
-[^key-957df93d5d415873ecfefe62869a9271]: Commencement: Sch. 2 para. 8 in force at 26.12.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/3398/regulation/1/2)
+[^c-957df93d5d415873ecfefe62869a9271]: Commencement: Sch. 2 para. 8 in force at 26.12.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/3398/regulation/1/2)

@@ -52,13 +52,13 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdrawal) Act 2018 (relating to the appropriate Parliamentary procedure for these Regulations) have been satisfied.
 
-## 1. Citation, commencement and extent[^key-cdb17bea616b2c33ef6cf2e70b9c1a2e]
+## 1. Citation, commencement and extent[^c-cdb17bea616b2c33ef6cf2e70b9c1a2e]
 
 (1) These Regulations may be cited as the Zoonotic Disease Eradication and Control (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 and come into force on exit day.
 
 (2) These Regulations extend to Northern Ireland only.
 
-## 2. Zoonoses (Monitoring) Regulations (Northern Ireland) 2008[^key-2b96a94f5127a5d11b329828eeffff58]
+## 2. Zoonoses (Monitoring) Regulations (Northern Ireland) 2008[^c-2b96a94f5127a5d11b329828eeffff58]
 
 (1) The Zoonoses (Monitoring) Regulations (Northern Ireland) 2008 [^c23520971] are amended as follows.
 
@@ -71,7 +71,7 @@ The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdraw
 
   .
 
-(3)[^key-00b0e4be7728f361313010c5715b4520] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-00b0e4be7728f361313010c5715b4520] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In regulation 5—
 
@@ -96,12 +96,12 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23520961]: Marginal citation: [2018 c.16](https://www.legislation.gov.uk/ukpga/2018/16)
 
-[^key-cdb17bea616b2c33ef6cf2e70b9c1a2e]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-cdb17bea616b2c33ef6cf2e70b9c1a2e]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-2b96a94f5127a5d11b329828eeffff58]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-2b96a94f5127a5d11b329828eeffff58]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23520971]: Marginal citation: S.R. [2008 No.340](https://www.legislation.gov.uk/ukcm/2008/340)
 
 [^c23520981]: Marginal citation: OJ No. L 325, 12.12.2003, p 31, as last amended by Council Directive (EU) 2013/20/EU (OJ No. L 158, 10.6.2013, p 234).
 
-[^key-00b0e4be7728f361313010c5715b4520]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/uksi/2019/76/regulation/2/3) revoked (31.12.2020 immediately before IP completion day) by [The Agriculture, Animals and Aquaculture (Health, Identification, Welfare, Trade etc.) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/324)](https://www.legislation.gov.uk/nisr/2020/324), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/324/regulation/1/2), [Sch.](https://www.legislation.gov.uk/nisr/2020/324/schedule)
+[^c-00b0e4be7728f361313010c5715b4520]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/uksi/2019/76/regulation/2/3) revoked (31.12.2020 immediately before IP completion day) by [The Agriculture, Animals and Aquaculture (Health, Identification, Welfare, Trade etc.) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/324)](https://www.legislation.gov.uk/nisr/2020/324), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/324/regulation/1/2), [Sch.](https://www.legislation.gov.uk/nisr/2020/324/schedule)

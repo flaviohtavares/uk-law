@@ -32,7 +32,7 @@ summary: ''
 
 United Nations
 
-The North Korea (United Nations Sanctions) (Amendment) (No. 3) Order 2017 (revoked)[^key-4f69e99b6faf6810a4cfce51974b3d68]
+The North Korea (United Nations Sanctions) (Amendment) (No. 3) Order 2017 (revoked)[^c-4f69e99b6faf6810a4cfce51974b3d68]
 
 Made
 
@@ -46,35 +46,35 @@ Coming into force
 
 10th January 2018
 
-[^key-4f69e99b6faf6810a4cfce51974b3d68]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4f69e99b6faf6810a4cfce51974b3d68]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, interpretation and extent[^key-4f69e99b6faf6810a4cfce51974b3d68]
+## 1. Citation, commencement, interpretation and extent[^c-4f69e99b6faf6810a4cfce51974b3d68]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the principal Order[^key-4f69e99b6faf6810a4cfce51974b3d68]
+## 2. Amendment of the principal Order[^c-4f69e99b6faf6810a4cfce51974b3d68]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-4f69e99b6faf6810a4cfce51974b3d68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-4f69e99b6faf6810a4cfce51974b3d68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-4f69e99b6faf6810a4cfce51974b3d68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-4f69e99b6faf6810a4cfce51974b3d68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-4f69e99b6faf6810a4cfce51974b3d68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-4f69e99b6faf6810a4cfce51974b3d68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-4f69e99b6faf6810a4cfce51974b3d68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-4f69e99b6faf6810a4cfce51974b3d68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-4f69e99b6faf6810a4cfce51974b3d68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-4f69e99b6faf6810a4cfce51974b3d68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-4f69e99b6faf6810a4cfce51974b3d68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-4f69e99b6faf6810a4cfce51974b3d68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-4f69e99b6faf6810a4cfce51974b3d68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-4f69e99b6faf6810a4cfce51974b3d68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-4f69e99b6faf6810a4cfce51974b3d68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-4f69e99b6faf6810a4cfce51974b3d68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4f69e99b6faf6810a4cfce51974b3d68]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4f69e99b6faf6810a4cfce51974b3d68]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
@@ -82,4 +82,4 @@ Coming into force
 
 ## Annotations
 
-[^key-4f69e99b6faf6810a4cfce51974b3d68]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2017/1278) revoked (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/591)](https://www.legislation.gov.uk/uksi/2020/591), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/591/regulation/1/2), [8(p)](https://www.legislation.gov.uk/uksi/2020/591/regulation/8/p); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 5](https://www.legislation.gov.uk/uksi/2020/1514/regulation/5)
+[^c-4f69e99b6faf6810a4cfce51974b3d68]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2017/1278) revoked (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/591)](https://www.legislation.gov.uk/uksi/2020/591), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/591/regulation/1/2), [8(p)](https://www.legislation.gov.uk/uksi/2020/591/regulation/8/p); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 5](https://www.legislation.gov.uk/uksi/2020/1514/regulation/5)

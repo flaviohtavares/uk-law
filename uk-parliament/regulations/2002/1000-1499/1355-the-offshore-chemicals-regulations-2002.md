@@ -51,9 +51,9 @@ These Regulations may be cited as the Offshore Chemicals Regulations 2002 and sh
 
 ## 2. Interpretation
 
-(1)[^key-4a546a90b67135fd299c55f8ecfedb83] In these Regulations—
+(1)[^c-4a546a90b67135fd299c55f8ecfedb83] In these Regulations—
 
-- [^key-1e873cf90e51f71cefb6844e32f247d4]...
+- [^c-1e873cf90e51f71cefb6844e32f247d4]...
 - “business day” means any day, except a Saturday, a Sunday, Christmas Day, Good Friday or a day which is a bank holiday in any part of the United Kingdom by virtue of the Banking and Financial Dealings Act 1971 [^c9513681];
 - “consultation parties” means, having regard to the part of the relevant area to which any permit would relate—
   - (a) the Centre for Environment, Fisheries and Aquaculture Science;
@@ -62,26 +62,26 @@ These Regulations may be cited as the Offshore Chemicals Regulations 2002 and sh
   together with any Contracting State which the Secretary of State considers may be affected by the use or discharge of any offshore chemical to which an application under these Regulations relates;
 - “Contracting State” means a State which the Secretary of State considers to be a contracting party to the Convention;
 - “Convention” means the Convention for the Protection of the Marine Environment of the North-East Atlantic 1992 [^c9513691];
-- “discharge”, in relation to an offshore chemical, means any intentional emission of the chemical, or any of its degradation or transformation products, from an offshore installation into the relevant area;[^key-49752d949a652acf4d84694e2d78c1a3]
-- “enforcement notice” means a notice served under regulation 16A(1) or (1A);[^key-d8d8a87db8c3416677b0081acab0cbd3]
-- [^key-1e873cf90e51f71cefb6844e32f247d4]...
+- “discharge”, in relation to an offshore chemical, means any intentional emission of the chemical, or any of its degradation or transformation products, from an offshore installation into the relevant area;[^c-49752d949a652acf4d84694e2d78c1a3]
+- “enforcement notice” means a notice served under regulation 16A(1) or (1A);[^c-d8d8a87db8c3416677b0081acab0cbd3]
+- [^c-1e873cf90e51f71cefb6844e32f247d4]...
 - “the Gazettes” means the London, Edinburgh and Belfast Gazettes;
-- “installation” includes any floating structure or device maintained on a station by whatever means;[^key-aef83bb56d9a46bc110a63bffadff9ef]
+- “installation” includes any floating structure or device maintained on a station by whatever means;[^c-aef83bb56d9a46bc110a63bffadff9ef]
 - “notice” means notice in writing;
-- “[^key-be1437313e10830b77cf02bc54adbf66]**offshore activities**” means—
+- “[^c-be1437313e10830b77cf02bc54adbf66]**offshore activities**” means—
   - (a) offshore petroleum activities; or
   - (b) offshore storage or unloading activities;
-- “offshore chemical” means any chemical, whether comprising a substance or a preparation, [^key-cdb7e56b5bb764031760673114cb8593]... used , or intended to be used,[^key-af231487b9afbd41fba42355a1c3ad2d] in connection with offshore activities;
-- “offshore installation” means an installation or pipeline which is used for the purposes of, or in connection with, offshore petroleum activities or offshore storage and unloading activities;[^key-ef219da733ea309ea4d90d74a9783631]
-- “offshore petroleum activities”—[^key-d4e5d3a650c09d6db59df82b6fdd1eaa]
-  - (a) means any activities in respect of which the Secretary of State or the Oil and Gas Authority[^key-d7a2930b3d6c53e73382a34aecf3e35b] exercises functions under the Petroleum Act 1998, being activities carried out in the relevant area; but
+- “offshore chemical” means any chemical, whether comprising a substance or a preparation, [^c-cdb7e56b5bb764031760673114cb8593]... used , or intended to be used,[^c-af231487b9afbd41fba42355a1c3ad2d] in connection with offshore activities;
+- “offshore installation” means an installation or pipeline which is used for the purposes of, or in connection with, offshore petroleum activities or offshore storage and unloading activities;[^c-ef219da733ea309ea4d90d74a9783631]
+- “offshore petroleum activities”—[^c-d4e5d3a650c09d6db59df82b6fdd1eaa]
+  - (a) means any activities in respect of which the Secretary of State or the Oil and Gas Authority[^c-d7a2930b3d6c53e73382a34aecf3e35b] exercises functions under the Petroleum Act 1998, being activities carried out in the relevant area; but
   - (b) does not include activities (“decommissioning activities”) carried out in connection with the abandonment of an offshore installation that, at the time of that abandonment, had last been used for the purposes of or in connection with offshore storage or unloading activities, unless those decommissioning activities are carried out in the reserved area;
 - “**offshore storage or unloading activities**” means any activities in respect of which the Secretary of State exercises functions under Part 1 of the Energy Act 2008, being activities carried out in the reserved area;
 - “operator” means any person who operates an offshore installation;
 - “permit” means an authorisation granted by the Secretary of State pursuant to these Regulations to use or discharge any offshore chemical in the relevant area;
 - “permit application” means an application for a permit, being an application which satisfies the requirements of regulation 6(1) and “permit applicant” shall be construed accordingly;
-- “permit holder” means the holder from time to time of a permit;[^key-7f840dfa831b6cde46c4aa8a2fbca2fd]
-- [^key-b56b8e5974047a892381b69ab13a07b5]...
+- “permit holder” means the holder from time to time of a permit;[^c-7f840dfa831b6cde46c4aa8a2fbca2fd]
+- [^c-b56b8e5974047a892381b69ab13a07b5]...
 - “pollution” means the introduction by man, directly or indirectly, of substances or energy into the relevant area which results, or is likely to result, in hazards to human health, harm to living resources and marine ecosystems, damage to amenities or interference with other legitimate uses of the sea;
 - “preparation” means a mixture or solution composed of two or more substances;
 - “prescribed date” means the date after the day on which the period of three months commencing on the day on which these Regulations come into force expires, save that when a permit application is made before that date it means—
@@ -90,40 +90,40 @@ These Regulations may be cited as the Offshore Chemicals Regulations 2002 and sh
   - (c) the date after the day on which the period provided for under regulation 17(6) expires,
 
   as the case may be;
-- “prohibition notice” means a notice served under regulation 16B(1);[^key-d3613c927a83878fb392d7c5bd7639b2]
+- “prohibition notice” means a notice served under regulation 16B(1);[^c-d3613c927a83878fb392d7c5bd7639b2]
 - “release”, in relation to an offshore chemical, means the emission (other than by way of discharge) of the chemical, or any of its degradation or transformation products, from an offshore installation into the relevant area;
 - “relevant area” means that area (together with places above and below it) comprising—
-  - (a) those parts of the sea adjacent to England [^key-4862ad2af7897f61ecce827d3ff5da10]... from the low water mark to the landward baseline of the United Kingdom territorial sea;
-  - (b) the United Kingdom territorial sea apart from those areas comprised in Scottish controlled waters and Welsh controlled waters[^key-39a6b8cf00f3a2c03c90fa49ccd16ada]; and
+  - (a) those parts of the sea adjacent to England [^c-4862ad2af7897f61ecce827d3ff5da10]... from the low water mark to the landward baseline of the United Kingdom territorial sea;
+  - (b) the United Kingdom territorial sea apart from those areas comprised in Scottish controlled waters and Welsh controlled waters[^c-39a6b8cf00f3a2c03c90fa49ccd16ada]; and
   - (c) those areas of sea in any area for the time being designated under section 1(7) of the Continental Shelf Act 1964 [^c9513721];
-- [^key-9984600c629f3391fdb5c4ad7835f616]...
-- “[^key-200d65b68874e3a6d9ad70ff062ac858]**reserved area**” means the area (together with the places above and below it) comprising—
+- [^c-9984600c629f3391fdb5c4ad7835f616]...
+- “[^c-200d65b68874e3a6d9ad70ff062ac858]**reserved area**” means the area (together with the places above and below it) comprising—
   - (a) those parts of the sea adjacent to England from the low water mark to the landward baseline of the United Kingdom territorial sea;
   - (b) so much of the United Kingdom territorial sea as is adjacent to England or Northern Ireland; and
   - (c) those areas of sea in a Gas Importation and Storage Zone (within the meaning of section 1(5) of the Energy Act 2008);
 - “Scottish controlled waters” means any waters which are controlled waters within the meaning of section 30A(1) of the Control of Pollution Act 1974 [^c9513741];
 - “substance” means a chemical element or compound, in the natural state or obtained by any production process, including any additive necessary to preserve the stability of the product or any impurity deriving from the process used, but excluding any solvent which may be separated without affecting the stability of the substance or changing its composition;
 - “substantial change” means a change in the type, quantity, frequency or location of the use or discharge of an offshore chemical which may have significant negative effects on people or the environment;
-- “use”, in relation to an offshore chemical, means any intentional application of the chemical in the carrying out of offshore activities under normal operating conditions;[^key-fdba638211698447a162402e8a9359a8]
+- “use”, in relation to an offshore chemical, means any intentional application of the chemical in the carrying out of offshore activities under normal operating conditions;[^c-fdba638211698447a162402e8a9359a8]
 - “Welsh controlled waters” means those parts of the territorial sea adjacent to Wales which are controlled waters within the meaning of section 104 of the Water Resources Act 1991.
 
-(2)[^key-e63ce878f49265f85fee9a50c96b68bf] In these Regulations, in relation to an offshore storage or unloading activity—
+(2)[^c-e63ce878f49265f85fee9a50c96b68bf] In these Regulations, in relation to an offshore storage or unloading activity—
 
 - (a) any reference to the use, discharge or release of an offshore chemical is to be read as a reference to its use in, or discharge or release into, the reserved area;
 - (b) any reference to pollution is to be read as a reference to pollution introduced into the reserved area.
 
 ## 3. Requirement for permit to use or discharge offshore chemicals
 
-(1) Subject to paragraphs (2) and (3), no person shall use or discharge any offshore chemical [^key-0abbfa524668d44cdc589b3341652ba7]... after the prescribed date otherwise than in accordance with the terms of, and conditions attached to, a permit.
+(1) Subject to paragraphs (2) and (3), no person shall use or discharge any offshore chemical [^c-0abbfa524668d44cdc589b3341652ba7]... after the prescribed date otherwise than in accordance with the terms of, and conditions attached to, a permit.
 
 (2) Where a person is using or discharging any offshore chemical in connection with any offshore activity that began on or before the date on which these Regulations come into force, that person may continue to use or discharge that offshore chemical until—
 
 - (a) such time as the Secretary of State may specify by notice; or
 - (b) (if no notice is given by the Secretary of State in accordance with sub-paragraph (a)) the date after the day on which the period of two years commencing on the prescribed date expires.
 
-(3)[^key-13eb2795b5126114e69d28158acc78c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-13eb2795b5126114e69d28158acc78c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3A. Prohibition on the release of offshore chemicals[^key-cd4bdecf83d0d5cd1713f02ee789bc3f]
+## 3A. Prohibition on the release of offshore chemicals[^c-cd4bdecf83d0d5cd1713f02ee789bc3f]
 
 No person shall—
 
@@ -152,9 +152,9 @@ No person shall—
 (2) Without prejudice to the generality of paragraph (1), the Secretary of State may attach to any permit such conditions as in her opinion are calculated to ensure that—
 
 - (a) the quantity, frequency, location and duration of any permitted use or discharge of offshore chemicals are subject to appropriate restrictions;
-- (b) any permit granted for the use or discharge of any offshore chemical requires the permit holder[^key-3a26acc39484dba1a3db032ee23eda5c] to seek a suitable, less hazardous substitute;
+- (b) any permit granted for the use or discharge of any offshore chemical requires the permit holder[^c-3a26acc39484dba1a3db032ee23eda5c] to seek a suitable, less hazardous substitute;
 - (c) all appropriate measures are taken to prevent pollution in particular through the appropriate use of technology to limit discharge, emissions and waste;
-- (d) necessary measures are taken to prevent incidents[^key-1fc8e9f761b272b68562dbf48809e83f] affecting the environment or, where they occur, to limit their consequences in relation to the environment;
+- (d) necessary measures are taken to prevent incidents[^c-1fc8e9f761b272b68562dbf48809e83f] affecting the environment or, where they occur, to limit their consequences in relation to the environment;
 - (e) the appropriate monitoring of the use and discharge of offshore chemicals is facilitated, and such conditions may include—
   - (i) provisions relating to measurement techniques, technology and frequency and to evaluation procedures; and
   - (ii) obligations to supply the Secretary of State with data required for checking compliance with the permit, including any data setting out the actual quantity, frequency and location of the use and discharge of any offshore chemicals which has occurred during a specified period;
@@ -191,8 +191,8 @@ No person shall—
 
 (2) This paragraph applies to permit applications made—
 
-- (a)[^key-cf844eb84e9b4147f572e3d9be2b7779] in connection with a project for which the Secretary of State serves a direction that an environmental impact assessment is not required pursuant to regulation 6 of the Offshore Oil and Gas Exploration, Production, Unloading and Storage (Environmental Impact Assessment) Regulations 2020 or regulation 6 of the Offshore Petroleum Production and Pipe-lines (Assessment of Environmental Effects) Regulations 1999;
-- (b) in connection with a discharge from a pipeline, being a discharge to which the Oil and Gas Authority[^key-207c61310e3e15137b124cc4c2a033e3] gives a consent pursuant to an authorisation issued under Part III of the Petroleum Act 1998 [^c9513761]; or
+- (a)[^c-cf844eb84e9b4147f572e3d9be2b7779] in connection with a project for which the Secretary of State serves a direction that an environmental impact assessment is not required pursuant to regulation 6 of the Offshore Oil and Gas Exploration, Production, Unloading and Storage (Environmental Impact Assessment) Regulations 2020 or regulation 6 of the Offshore Petroleum Production and Pipe-lines (Assessment of Environmental Effects) Regulations 1999;
+- (b) in connection with a discharge from a pipeline, being a discharge to which the Oil and Gas Authority[^c-207c61310e3e15137b124cc4c2a033e3] gives a consent pursuant to an authorisation issued under Part III of the Petroleum Act 1998 [^c9513761]; or
 - (c) in connection with activities carried out in accordance with an abandonment programme approved by the Secretary of State under Part IV of the Petroleum Act 1998.
 
 (3) Where a permit applicant is subject to an obligation to supply a copy of a permit application pursuant to a request made under paragraph (1)(c), he—
@@ -200,7 +200,7 @@ No person shall—
 - (a) shall supply a copy of the permit application to the person requesting it as soon as reasonably practicable after receipt of the request; and
 - (b) may make the supply of a copy of the permit application conditional on the receipt by the permit applicant of a sum calculated by reference to the cost of printing and distributing copies of the permit application, subject to a maximum of £10 for each copy requested.
 
-## 7A. Coronavirus: temporary modifications[^key-aac9ccbbb5734cffb03c35a3be2bab73]
+## 7A. Coronavirus: temporary modifications[^c-aac9ccbbb5734cffb03c35a3be2bab73]
 
 *Extent: E. W. S.*
 
@@ -236,19 +236,19 @@ No person shall—
 
 ## 8. Fees
 
-(1) The Secretary of State may, in accordance with a charging scheme made by her for this purpose, charge permit applicants, permit holders and[^key-8b7b176343032534b9b1dbc2c735f5cf] operators fees in respect of any of the matters to which this paragraph applies.
+(1) The Secretary of State may, in accordance with a charging scheme made by her for this purpose, charge permit applicants, permit holders and[^c-8b7b176343032534b9b1dbc2c735f5cf] operators fees in respect of any of the matters to which this paragraph applies.
 
 (2) The matters to which paragraph (1) applies are—
 
-- (a)[^key-72e53bad52c4e2d70df70577614dc731] an application for the grant or renewal of a permit;
+- (a)[^c-72e53bad52c4e2d70df70577614dc731] an application for the grant or renewal of a permit;
 - (b) an application for the variation of a permit or the conditions to which it is subject, or a review of a permit and its conditions;
 - (c) a request for the Secretary of State’s consent to the transfer of a permit;
 - (ca) the revocation or surrender of a permit;
 - (d) the subsistence of a permit;
 - (e) the testing or analysis of substances;
-- (f) the validating of, or of the results of, any testing or analysis of substances; [^key-508541fb8cb53d2274dbb0b12e30a367]...
-- (g) assessing how the environment might be affected by the release or discharge[^key-bb7b1da5d462ea34f2f0d531883e26be] into it of any substances ; and[^key-dd4438d7e12dd2e3338fc3c7589a0c13]
-- (h)[^key-96a8e45ee24be7a7a2a4f71b4cca0237] the provision of advice in respect of—
+- (f) the validating of, or of the results of, any testing or analysis of substances; [^c-508541fb8cb53d2274dbb0b12e30a367]...
+- (g) assessing how the environment might be affected by the release or discharge[^c-bb7b1da5d462ea34f2f0d531883e26be] into it of any substances ; and[^c-dd4438d7e12dd2e3338fc3c7589a0c13]
+- (h)[^c-96a8e45ee24be7a7a2a4f71b4cca0237] the provision of advice in respect of—
   - (i) an application or potential application for the grant or renewal of a permit;
   - (ii) an application or potential application for the variation of a permit or the conditions to which it is subject, or a review of a permit and its conditions;
   - (iii) a request or potential request for the Secretary of State’s consent to the transfer of a permit;
@@ -257,7 +257,7 @@ No person shall—
   - (vi) the validating of, or of the results of, any testing or analysis of substances; and
   - (vii) assessing how the environment might be affected by the release or discharge into it of any substances,
 
-but paragraph (1) only applies to the matters referred to in sub-paragraphs (e) to (g) and (h)(v) to (h)(vii)[^key-47d2a96af074f7b2036cbec24f579012] in cases where the testing, analysis, validating or assessing is in any way in anticipation of, or otherwise in connection with, the making of permit applications or is carried out in pursuance of conditions to which any permit is subject.
+but paragraph (1) only applies to the matters referred to in sub-paragraphs (e) to (g) and (h)(v) to (h)(vii)[^c-47d2a96af074f7b2036cbec24f579012] in cases where the testing, analysis, validating or assessing is in any way in anticipation of, or otherwise in connection with, the making of permit applications or is carried out in pursuance of conditions to which any permit is subject.
 
 (3) A charging scheme made under this regulation shall be so framed that the fees and charges payable under the scheme are sufficient, taking one year with another, to cover such expenditure as may be incurred by or on behalf of the Secretary of State in connection with any of the matters to which paragraph (1) applies.
 
@@ -267,25 +267,25 @@ A permit may be granted for a period specified in the permit or without limit of
 
 ## 10. Application for renewal of an existing permit
 
-(1) Where a permit holder[^key-6b3b522e42f4ab8a75340ec84b791a6d] proposes to continue to use or discharge from an offshore installation an offshore chemical after the expiry of any period specified in the permit, he may, subject to paragraph (2), apply to the Secretary of State to renew the permit.
+(1) Where a permit holder[^c-6b3b522e42f4ab8a75340ec84b791a6d] proposes to continue to use or discharge from an offshore installation an offshore chemical after the expiry of any period specified in the permit, he may, subject to paragraph (2), apply to the Secretary of State to renew the permit.
 
 (2) An application for renewal of a permit pursuant to paragraph (1) shall be made in writing prior to, but no more than three months before, the expiry of the permit in question.
 
-(3) The Secretary of State may renew a permit pursuant to an application under this regulation [^key-e7e7b508d8a7480049215474b28c29c2]....
+(3) The Secretary of State may renew a permit pursuant to an application under this regulation [^c-e7e7b508d8a7480049215474b28c29c2]....
 
 (4) Where the Secretary of State refuses an application under this regulation she shall serve a notice on the applicant which states that the application is refused.
 
 (5) Where the Secretary of State grants an application pursuant to paragraph (3) she may make the granting of the application subject to such further terms and conditions as she shall think fit and, once a notice giving details of such further terms and conditions has been served on the applicant, they shall have effect.
 
-## 11. Variation of permit ...[^key-2241f0ff4de7213fb38c1832e2edfb92]
+## 11. Variation of permit ...[^c-2241f0ff4de7213fb38c1832e2edfb92]
 
-(1) A permit holder[^key-8ba43ed4347461fa546117ffb5d75131] may apply in writing for a variation of the terms and conditions of a permit [^key-77f058c82dbfdbdd6b1100691567aff6]....
+(1) A permit holder[^c-8ba43ed4347461fa546117ffb5d75131] may apply in writing for a variation of the terms and conditions of a permit [^c-77f058c82dbfdbdd6b1100691567aff6]....
 
-(2) Where the Secretary of State determines that a variation applied for [^key-1ca8092099b47307b5afb7dbad47b3e1]... would not be a substantial change, she may grant the application and vary the terms and conditions of the permit accordingly [^key-07d56783ac4170397e801d2ef61876fe]....
+(2) Where the Secretary of State determines that a variation applied for [^c-1ca8092099b47307b5afb7dbad47b3e1]... would not be a substantial change, she may grant the application and vary the terms and conditions of the permit accordingly [^c-07d56783ac4170397e801d2ef61876fe]....
 
 (3) Where the Secretary of State grants an application pursuant to paragraph (2), she may make the granting of the application subject to such further conditions as she shall think fit.
 
-(4) Where the Secretary of State determines that a variation of the terms and conditions as specified in the application[^key-6d2324e072282f6b91bb22749de02191] would be a substantial change she shall refuse the application and serve a notice on the applicant which states that—
+(4) Where the Secretary of State determines that a variation of the terms and conditions as specified in the application[^c-6d2324e072282f6b91bb22749de02191] would be a substantial change she shall refuse the application and serve a notice on the applicant which states that—
 
 - (a) the proposed change would be in the opinion of the Secretary of State a substantial change; and
 - (b) the application is refused.
@@ -294,16 +294,16 @@ A permit may be granted for a period specified in the permit or without limit of
 
 ## 12. Reconsideration of permits and permit conditions
 
-(1) The Secretary of State may at such intervals as she shall think fit review any permit [^key-63bf129e0909735f1701633660f7be8f]..., together with the conditions attached to the permit.
+(1) The Secretary of State may at such intervals as she shall think fit review any permit [^c-63bf129e0909735f1701633660f7be8f]..., together with the conditions attached to the permit.
 
 (2) The Secretary of State shall review the conditions of a permit where in her opinion the pollution or risk of pollution caused by the use or discharge of an offshore chemical is of such significance that any existing restrictions on the quantity, frequency or location of the use or discharge of such offshore chemical contained in a permit should be revised or new restrictions on the quantity, frequency or location should be included in the permit.
 
-(3) Where the Secretary of State considers that the conditions of a permit should be revised she shall give notice to the permit holder[^key-002f373986641b3b5a30f7387284b18f] of her intention to revise the permit and such notice shall—
+(3) Where the Secretary of State considers that the conditions of a permit should be revised she shall give notice to the permit holder[^c-002f373986641b3b5a30f7387284b18f] of her intention to revise the permit and such notice shall—
 
 - (a) give details of the conditions of the revised permit; and
 - (b) specify a day (not less than 14 days after the day on which such notice is given) on which the revised permit will have effect.
 
-(4) The permit holder[^key-2e7bcd5364df96f00ce5cae8c0448a0b] may make representations in writing as to whether the permit should be revised and as to the conditions of the revised permit.
+(4) The permit holder[^c-2e7bcd5364df96f00ce5cae8c0448a0b] may make representations in writing as to whether the permit should be revised and as to the conditions of the revised permit.
 
 (5) Where no representations are received prior to the day specified under paragraph (3)(b), the permit shall be revised with effect from that day.
 
@@ -312,30 +312,30 @@ A permit may be granted for a period specified in the permit or without limit of
 - (a) that the permit shall be revised with effect from a later day than the day specified under paragraph (3)(b); and
 - (b) that the permit shall be revised otherwise than as originally notified.
 
-(7)[^key-72bc69384f80aa013f1a12844225ee3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-72bc69384f80aa013f1a12844225ee3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12A. Transfer of permit[^key-2242ed0c2fb788b93a76a0a44dcd601d]
+## 12A. Transfer of permit[^c-2242ed0c2fb788b93a76a0a44dcd601d]
 
 A permit holder shall not, except with the prior consent in writing of the Secretary of State and in accordance with the conditions (if any) of the consent, transfer the permit or any rights granted by the permit, to another person.
 
 ## 13. Revocation and surrender of permits
 
-(1) The Secretary of State may by notice revoke a permit [^key-3263e53fb6d12c33cbea985405e65efa]... where she is of the opinion that an application for the grant, renewal or variation of the permit in question contained any information or statement which was false or misleading in a material particular or where the permit holder[^key-5b466059663b758067a657b08cf0f2dd] has been guilty of a breach of any condition attached to the permit.
+(1) The Secretary of State may by notice revoke a permit [^c-3263e53fb6d12c33cbea985405e65efa]... where she is of the opinion that an application for the grant, renewal or variation of the permit in question contained any information or statement which was false or misleading in a material particular or where the permit holder[^c-5b466059663b758067a657b08cf0f2dd] has been guilty of a breach of any condition attached to the permit.
 
-(2) A permit holder[^key-75ff5adeec58015bcc8d6af6bbb212ff] may surrender the permit by notice to the Secretary of State.
+(2) A permit holder[^c-75ff5adeec58015bcc8d6af6bbb212ff] may surrender the permit by notice to the Secretary of State.
 
 ## 14. Register to be kept by the Secretary of State
 
 (1) The Secretary of State shall keep a register at a place in the United Kingdom in which she shall cause to be entered—
 
-- (a) the terms and conditions of any permits [^key-e105ad560237c1c1dc98820f990f2a6d]...; and
+- (a) the terms and conditions of any permits [^c-e105ad560237c1c1dc98820f990f2a6d]...; and
 - (b) the results of any monitoring information required to be sent to her under the conditions of any permit.
 
 (2) The register referred to in paragraph (1) shall be open to public inspection on business days from 10 a.m. until 4 p.m.
 
 ## 15. Provision of information to the Secretary of State
 
-(1)[^key-1383e63ab9b599593f7eeeec02753653] A person who uses, discharges or releases an offshore chemical shall provide the Secretary of State with such information as the Secretary of State may reasonably require for the purposes of performing the Secretary of State’s functions under these Regulations.
+(1)[^c-1383e63ab9b599593f7eeeec02753653] A person who uses, discharges or releases an offshore chemical shall provide the Secretary of State with such information as the Secretary of State may reasonably require for the purposes of performing the Secretary of State’s functions under these Regulations.
 
 (1A) The permit holder or, if there is no permit holder, the operator shall without delay provide the Secretary of State with information, in such form and in such manner as the Secretary of State may direct, of—
 
@@ -350,13 +350,13 @@ A permit holder shall not, except with the prior consent in writing of the Secre
 (1) The Secretary of State may, if she thinks fit, appoint one or more inspectors—
 
 - (a) to investigate whether the requirements, restrictions or prohibitions imposed by or under these Regulations have been, or are being complied with; or
-- (b) to monitor the use, discharge or release[^key-9573aba9e4d43cae55c0b86005e93b5d] of any offshore chemical.
+- (b) to monitor the use, discharge or release[^c-9573aba9e4d43cae55c0b86005e93b5d] of any offshore chemical.
 
-(2) The inspectors shall report [^key-1b2a3c758e0155dcde245dd3e6a53df7]... to the Secretary of State in such manner as the Secretary of State may direct.
+(2) The inspectors shall report [^c-1b2a3c758e0155dcde245dd3e6a53df7]... to the Secretary of State in such manner as the Secretary of State may direct.
 
 (3) An inspector appointed under paragraph (1) may for any of the purposes mentioned in that paragraph and on producing evidence of his appointment—
 
-- (a) at any reasonable time (or, in a situation which in his opinion may give rise to a risk of significant pollution to the environment as a result of the use, discharge or release[^key-2665037e69f7b0a684e4f62ca07621f5] from an offshore installation of an offshore chemical, at any time) board any offshore installation;
+- (a) at any reasonable time (or, in a situation which in his opinion may give rise to a risk of significant pollution to the environment as a result of the use, discharge or release[^c-2665037e69f7b0a684e4f62ca07621f5] from an offshore installation of an offshore chemical, at any time) board any offshore installation;
 - (b) on boarding an offshore installation take with him any other person authorised for those purposes by the Secretary of State and any equipment or materials that he thinks he may require;
 - (c) make such examination or investigation as he considers necessary (including any examination or investigation of an offshore installation, for which purpose he may install or maintain monitoring or other apparatus on the offshore installation);
 - (d) give a direction requiring that any part of the offshore installation be left undisturbed (whether generally or in particular respects) for so long as reasonably necessary for the purposes of any examination or investigation under sub-paragraph (c);
@@ -372,11 +372,11 @@ A permit holder shall not, except with the prior consent in writing of the Secre
   - (ii) to answer (in the absence of any person other than persons whom the inspector may allow to be present and a person nominated to be present by the person on whom the requirement is imposed) such questions as the inspector thinks fit to ask; and
   - (iii) to sign a declaration of truth of his answers;
 - (j) require the production of, and inspect and take copies of or of any entry in—
-  - (i) any records which by virtue of any provision of any permit [^key-824116ce60299d3b9d0a0ecbd6c27398]... are required to be kept;
+  - (i) any records which by virtue of any provision of any permit [^c-824116ce60299d3b9d0a0ecbd6c27398]... are required to be kept;
   - (ii) any records which he considers it necessary for him to see for the purposes of any examination or investigation under sub-paragraph (c); and
 - (k) require any person to afford him such facilities and assistance with respect to any matters or things within that person’s control or in relation to which that person has responsibilities as the inspector considers are necessary to enable him to exercise any of the powers conferred on him by this regulation.
 
-(4)[^key-b720de50d09f41423406725bdc5a9602] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-b720de50d09f41423406725bdc5a9602] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) An answer given by a person in compliance with a requirement imposed under paragraph (3)(i) shall be admissible in evidence in England and Wales or Northern Ireland against that person in any proceedings or, in Scotland, against that person in criminal proceedings.
 
@@ -391,16 +391,16 @@ A permit holder shall not, except with the prior consent in writing of the Secre
 
 (8) Nothing in this regulation shall be taken to compel the production by any person of a document of which he would on ground of legal professional privilege be entitled to withhold production on an order for disclosure or discovery in an action in the High Court or the High Court in Northern Ireland or, in relation to Scotland, on an order for the production of documents in an action in the Court of Session.
 
-## 16A. Enforcement notices[^key-fe60536c3cdb1fbdad3f23da62081e9b]
+## 16A. Enforcement notices[^c-fe60536c3cdb1fbdad3f23da62081e9b]
 
-(1) If the Secretary of State is of the opinion that any person has contravened or is contravening any condition of a permit or is likely to contravene any such condition, the Secretary of State or an inspector appointed by her under regulation 16 may serve on the permit holder[^key-4c0ff234d6ee3d276277bac7e7c4e06c] a notice [^key-4c3adef9727b16aba6b043231ff3510c]... which—
+(1) If the Secretary of State is of the opinion that any person has contravened or is contravening any condition of a permit or is likely to contravene any such condition, the Secretary of State or an inspector appointed by her under regulation 16 may serve on the permit holder[^c-4c0ff234d6ee3d276277bac7e7c4e06c] a notice [^c-4c3adef9727b16aba6b043231ff3510c]... which—
 
 - (a) states that the Secretary of State is of the opinion mentioned in paragraph (1);
 - (b) specifies the matters which constitute, constituted or, as the case may be, are likely to constitute the contravention;
 - (c) specifies the steps that must be taken to remedy or, as the case maybe, prevent the contravention; and
 - (d) specifies the period within which those steps must be taken.
 
-(1A)[^key-cd0a4c047e1c036b198009dcd9c31301] If the Secretary of State is of the opinion that a release, use without a permit or discharge without a permit has occurred, is occurring, or is likely to occur, the Secretary of State or an inspector appointed under regulation 16 may serve on the permit holder or, if there is no permit holder, the operator, a notice which—
+(1A)[^c-cd0a4c047e1c036b198009dcd9c31301] If the Secretary of State is of the opinion that a release, use without a permit or discharge without a permit has occurred, is occurring, or is likely to occur, the Secretary of State or an inspector appointed under regulation 16 may serve on the permit holder or, if there is no permit holder, the operator, a notice which—
 
 - (a) states that the Secretary of State is of that opinion;
 - (b) specifies the matters which constituted, constitute, or are likely to constitute the release, use or discharge;
@@ -409,28 +409,28 @@ A permit holder shall not, except with the prior consent in writing of the Secre
 
 (1B) The Secretary of State may serve a notice on the permit holder to vary the period within which remedial steps must be taken under an enforcement notice.
 
-(2)[^key-3e80509f821b768cb17c0aa2eed59d6f] The steps that may be specified under paragraphs (1)(c) and (1A)(c) include steps that must be taken to remedy any pollution caused by a contravention, release, use or discharge.
+(2)[^c-3e80509f821b768cb17c0aa2eed59d6f] The steps that may be specified under paragraphs (1)(c) and (1A)(c) include steps that must be taken to remedy any pollution caused by a contravention, release, use or discharge.
 
 (3) Where a person to whom an enforcement notice is addressed has failed to take the action required by it within such time as may be specified by it and such a notice has not been revoked, the Secretary of State may undertake any action so required and the reasonable costs and expenses of the Secretary of State’s so doing shall be recoverable as a debt from that person.
 
 (4) A person to whom an enforcement notice is addressed shall afford such assistance as the Secretary of State may reasonably require for the purpose of facilitating the exercise of any powers conferred on the Secretary of State by paragraph (3).
 
-(5) The Secretary of State or an inspector appointed by her under regulation 16 may revoke an enforcement notice [^key-acd9ae540043b3855e501063775e3615]....
+(5) The Secretary of State or an inspector appointed by her under regulation 16 may revoke an enforcement notice [^c-acd9ae540043b3855e501063775e3615]....
 
-(6) The exercise by the Secretary of State of any power conferred by paragraph (1) , (1A)[^key-15cf676aa7e7161677feb06d74d747e9] or (3) shall be without prejudice to the exercise by her of any other power under any other provision of these Regulations.
+(6) The exercise by the Secretary of State of any power conferred by paragraph (1) , (1A)[^c-15cf676aa7e7161677feb06d74d747e9] or (3) shall be without prejudice to the exercise by her of any other power under any other provision of these Regulations.
 
 ## 16B. Prohibition notices
 
-(1) If the Secretary of State is of the opinion that the operation of an offshore installation involves an imminent risk of serious pollution as a consequence of any use, discharge or release of an offshore chemical, the Secretary of State or an inspector appointed under regulation 16 may serve a notice on the permit holder or, if there is no permit holder, the operator.[^key-ebb3223f96116cb9ddca0640e38c1ba8]
+(1) If the Secretary of State is of the opinion that the operation of an offshore installation involves an imminent risk of serious pollution as a consequence of any use, discharge or release of an offshore chemical, the Secretary of State or an inspector appointed under regulation 16 may serve a notice on the permit holder or, if there is no permit holder, the operator.[^c-ebb3223f96116cb9ddca0640e38c1ba8]
 
-(2) A prohibition notice may be served whether or not the risk relates to the contravention of a permit and may relate to any aspects of the operation of the offshore installation, whether or not regulated by the conditions of[^key-f586b943e1f7278d0e9653cdb9797cf7] such a permit.
+(2) A prohibition notice may be served whether or not the risk relates to the contravention of a permit and may relate to any aspects of the operation of the offshore installation, whether or not regulated by the conditions of[^c-f586b943e1f7278d0e9653cdb9797cf7] such a permit.
 
 (3) A prohibition notice—
 
 - (a) shall state that the Secretary of State is of the opinion mentioned in paragraph (1) above;
 - (b) shall specify the risk involved in the operation of the offshore installation;
-- (c) shall specify the steps that must be taken to remove it [^key-1b83ae299ebd7e5c30c1bf3f9b6edf72]...; [^key-fd5e2efca5da90d7a263d701f399c08a]...
-- (ca)[^key-797e04f138e93f77d092f2652239df80] may specify the period within which such steps must be taken; and
+- (c) shall specify the steps that must be taken to remove it [^c-1b83ae299ebd7e5c30c1bf3f9b6edf72]...; [^c-fd5e2efca5da90d7a263d701f399c08a]...
+- (ca)[^c-797e04f138e93f77d092f2652239df80] may specify the period within which such steps must be taken; and
 - (d) may direct that any permit shall, until the notice is withdrawn wholly or in part, cease to have effect and, where the direction applies to part only of the operation of the offshore installation, it may impose conditions to be observed in carrying on that part of the operation which is authorised under the relevant permit.
 
 (4) The Secretary of State or an inspector appointed by her under regulation 16 may by notice withdraw a prohibition notice wholly or in part at any time and shall withdraw a notice when the Secretary of State is satisfied that the steps required by the notice have been taken.
@@ -441,17 +441,17 @@ A permit holder shall not, except with the prior consent in writing of the Secre
 
 ## 17. Appeal to High Court, Court of Session or High Court in Northern Ireland
 
-(1) Subject to paragraph (6), any permit applicant, permit holder or operator[^key-be8edc8242c2128a1a942780f24f360e] aggrieved by a decision of the Secretary of State made under these Regulations may appeal to the court.
+(1) Subject to paragraph (6), any permit applicant, permit holder or operator[^c-be8edc8242c2128a1a942780f24f360e] aggrieved by a decision of the Secretary of State made under these Regulations may appeal to the court.
 
 (2) Subject to paragraph (4), the expression “the court” means—
 
-- (a) in respect of a decision relating to the use, discharge or release[^key-03954533f5a4b678e80800a4aa53f072] of an offshore chemical in the English area, the High Court;
-- (b) in respect of a decision relating to the use, discharge or release[^key-bb9fb5cfb981ee3dca4c5142f2d94880] of an offshore chemical in the Scottish area [^key-688d07a055de0f7fd7107e694c0cbe6b]..., the Court of Session;
-- (c) in respect of a decision relating to the use, discharge or release[^key-597f2b56a6b67c9a774c64ff2c5cf034] of an offshore chemical in the Northern Irish area, the High Court in Northern Ireland.
+- (a) in respect of a decision relating to the use, discharge or release[^c-03954533f5a4b678e80800a4aa53f072] of an offshore chemical in the English area, the High Court;
+- (b) in respect of a decision relating to the use, discharge or release[^c-bb9fb5cfb981ee3dca4c5142f2d94880] of an offshore chemical in the Scottish area [^c-688d07a055de0f7fd7107e694c0cbe6b]..., the Court of Session;
+- (c) in respect of a decision relating to the use, discharge or release[^c-597f2b56a6b67c9a774c64ff2c5cf034] of an offshore chemical in the Northern Irish area, the High Court in Northern Ireland.
 
 (3) In this regulation the expressions “the English area”, “the Scottish area” and “the Northern Irish area” shall have the same meanings as in the Civil Jurisdiction (Offshore Activities) Order 1987 [^c9513801].
 
-(4) Where an offshore chemical is used, discharged or released[^key-a0fc10ed2915a5d32b34fda0ba0e1be1] or is to be used or discharged in more than one of the areas referred to in paragraph (2)[^key-309abe77b1d254de8774fbf5f6991d0d], any of the courts having jurisdiction in the area or areas where the offshore chemical is used, discharged or released or is to be used or discharged shall have jurisdiction in relation to the decision in question.
+(4) Where an offshore chemical is used, discharged or released[^c-a0fc10ed2915a5d32b34fda0ba0e1be1] or is to be used or discharged in more than one of the areas referred to in paragraph (2)[^c-309abe77b1d254de8774fbf5f6991d0d], any of the courts having jurisdiction in the area or areas where the offshore chemical is used, discharged or released or is to be used or discharged shall have jurisdiction in relation to the decision in question.
 
 (5) Unless the court otherwise orders, any decision of the Secretary of State which is the subject of an appeal under paragraph (1) shall remain in force pending a final disposal of that appeal.
 
@@ -462,22 +462,22 @@ A permit holder shall not, except with the prior consent in writing of the Secre
 (1) Subject to paragraph (2), a person is guilty of an offence if he—
 
 - (a) contravenes regulation 3(1);
-- (b)[^key-6a1eae9f0d19706980bb8997f13070c8] contravenes regulation 3A;
-- (c) fails to supply any information required to be supplied by virtue of regulation [^key-a018b079337e0b4c010d77a254d37eee]... 15;
-- (d) fails to supply any information required to be supplied by virtue of the terms of any permit [^key-ee89d60cb5cc834a990e31f26666b5ba]...;
+- (b)[^c-6a1eae9f0d19706980bb8997f13070c8] contravenes regulation 3A;
+- (c) fails to supply any information required to be supplied by virtue of regulation [^c-a018b079337e0b4c010d77a254d37eee]... 15;
+- (d) fails to supply any information required to be supplied by virtue of the terms of any permit [^c-ee89d60cb5cc834a990e31f26666b5ba]...;
 - (e) knowingly or recklessly makes a statement which he knows to be false or misleading in a material particular where such a statement—
-  - (i) is made in connection with or for the purposes of any permit application , permit transfer[^key-12086024b2abe22f16932d1aba4666e5] or any application under regulations 10 or 11; or
+  - (i) is made in connection with or for the purposes of any permit application , permit transfer[^c-12086024b2abe22f16932d1aba4666e5] or any application under regulations 10 or 11; or
   - (ii) is made for the purposes of satisfying any requirement under these Regulations for the supply of information to the Secretary of State or an inspector appointed pursuant to regulation 16;
-- (f) wilfully obstructs an inspector appointed under regulation 16; [^key-c4846e63265f46d2d2500d9b5f311df8]...
-- (g) without reasonable excuse fails to comply with a requirement imposed in pursuance of regulation 16 or prevents another person from complying with such a requirement ; or[^key-a330d3229e67759aa3c35add3f55cb7c]
-- (h)[^key-88e634446a9fcf7664ca1f5c5257336f] fails to comply with the terms of an enforcement notice or a prohibition notice.
+- (f) wilfully obstructs an inspector appointed under regulation 16; [^c-c4846e63265f46d2d2500d9b5f311df8]...
+- (g) without reasonable excuse fails to comply with a requirement imposed in pursuance of regulation 16 or prevents another person from complying with such a requirement ; or[^c-a330d3229e67759aa3c35add3f55cb7c]
+- (h)[^c-88e634446a9fcf7664ca1f5c5257336f] fails to comply with the terms of an enforcement notice or a prohibition notice.
 
 (2) Where a person is charged with an offence under paragraph (1)(a) or (1)(b), it is a defence to prove that the contravention—
 
 - (a) arose as a result of something which could not have been reasonably prevented by him; or
 - (b) was due to something done as a matter of urgency for the purposes of securing the safety of any person.
 
-(2A)[^key-3aea3a3d601357d4a9aea4968d0439e6] A person does not have the defence provided by paragraph (2)(b) if the court is satisfied—
+(2A)[^c-3aea3a3d601357d4a9aea4968d0439e6] A person does not have the defence provided by paragraph (2)(b) if the court is satisfied—
 
 - (a) that the thing done was not a reasonable step to take in the circumstances; or
 - (b) that it was a reasonable step to take for the purpose mentioned in that paragraph but the necessity of taking that step was due to the fault of the defendant.
@@ -494,11 +494,11 @@ A permit holder shall not, except with the prior consent in writing of the Secre
 
 (8) Section 3 of the Territorial Waters Jurisdiction Act 1878 (restriction on prosecutions) [^c9513811] shall not apply to any proceedings for an offence under this regulation.
 
-(9)[^key-982d93d806c8301a05a58cf2e7cd1f4d] Proceedings in England and Wales for an offence under this regulation may be brought only by, or with the consent of, the Secretary of State or the Director of Public Prosecutions.
+(9)[^c-982d93d806c8301a05a58cf2e7cd1f4d] Proceedings in England and Wales for an offence under this regulation may be brought only by, or with the consent of, the Secretary of State or the Director of Public Prosecutions.
 
 (10) Proceedings in Northern Ireland for an offence under this regulation may be brought only by, or with the consent of, the Secretary of State or the Director of Public Prosecutions for Northern Ireland.
 
-## 19. Service of Notices[^key-9d8db6f2c383c08bad242dde270f56c4]
+## 19. Service of Notices[^c-9d8db6f2c383c08bad242dde270f56c4]
 
 (1) In this regulation—
 
@@ -537,7 +537,7 @@ A permit holder shall not, except with the prior consent in writing of the Secre
 
 (8) This regulation is without prejudice to any other lawful method of giving or serving notice.
 
-## 19A. Review[^key-8c0bb6f16ac5460d7b7b71fbe94f454d]
+## 19A. Review[^c-8c0bb6f16ac5460d7b7b71fbe94f454d]
 
 (1) The Secretary of State must from time to time—
 
@@ -555,18 +555,18 @@ A permit holder shall not, except with the prior consent in writing of the Secre
 
 (4) Subsequent reports under this regulation must be published at intervals not exceeding five years.
 
-## 20 (Extent: N.I.) (affected by repeal, see note). Amendment of the Deposits in the Sea (Exemptions) Order 1985 (Extent: N.I.) (affected by repeal, see note)[^key-4a92aab0f58e612fc53273e4cded57a2][^key-4a92aab0f58e612fc53273e4cded57a2]
+## 20 (Extent: N.I.) (affected by repeal, see note). Amendment of the Deposits in the Sea (Exemptions) Order 1985 (Extent: N.I.) (affected by repeal, see note)[^c-4a92aab0f58e612fc53273e4cded57a2][^c-4a92aab0f58e612fc53273e4cded57a2]
 
-(1 (Extent: N.I.) (affected by repeal, see note))[^key-4a92aab0f58e612fc53273e4cded57a2] The Deposits in the Sea (Exemptions) Order 1985 *(Extent: N.I.)* *(affected by repeal, see note)*[^key-4a92aab0f58e612fc53273e4cded57a2] [^c9513821] is amended in accordance with the following provisions of this regulation. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-4a92aab0f58e612fc53273e4cded57a2]
+(1 (Extent: N.I.) (affected by repeal, see note))[^c-4a92aab0f58e612fc53273e4cded57a2] The Deposits in the Sea (Exemptions) Order 1985 *(Extent: N.I.)* *(affected by repeal, see note)*[^c-4a92aab0f58e612fc53273e4cded57a2] [^c9513821] is amended in accordance with the following provisions of this regulation. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-4a92aab0f58e612fc53273e4cded57a2]
 
-(2 (Extent: N.I.) (affected by repeal, see note))[^key-4a92aab0f58e612fc53273e4cded57a2] In paragraph 14 of the Schedule, the word “chemicals,” shall be deleted. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-4a92aab0f58e612fc53273e4cded57a2]
+(2 (Extent: N.I.) (affected by repeal, see note))[^c-4a92aab0f58e612fc53273e4cded57a2] In paragraph 14 of the Schedule, the word “chemicals,” shall be deleted. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-4a92aab0f58e612fc53273e4cded57a2]
 
-(3 (Extent: N.I.) (affected by repeal, see note))[^key-4a92aab0f58e612fc53273e4cded57a2] After paragraph 15 of the Schedule, the following paragraph shall be added— *(Extent: N.I.)* *(affected by repeal, see note)*[^key-4a92aab0f58e612fc53273e4cded57a2]
+(3 (Extent: N.I.) (affected by repeal, see note))[^c-4a92aab0f58e612fc53273e4cded57a2] After paragraph 15 of the Schedule, the following paragraph shall be added— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-4a92aab0f58e612fc53273e4cded57a2]
 
-> 15A (Extent: N.I.) (affected by repeal, see note)[^key-4a92aab0f58e612fc53273e4cded57a2] Deposit for which a permit is required under the Offshore Chemicals Regulations 2002, or for which a permit would be required but for— *(Extent: N.I.)* *(affected by repeal, see note)*[^key-4a92aab0f58e612fc53273e4cded57a2]
+> 15A (Extent: N.I.) (affected by repeal, see note)[^c-4a92aab0f58e612fc53273e4cded57a2] Deposit for which a permit is required under the Offshore Chemicals Regulations 2002, or for which a permit would be required but for— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-4a92aab0f58e612fc53273e4cded57a2]
 >
-> - (a (Extent: N.I.) (affected by repeal, see note))[^key-4a92aab0f58e612fc53273e4cded57a2] the provisions of regulation 3(2) of those Regulations, or *(Extent: N.I.)* *(affected by repeal, see note)*[^key-4a92aab0f58e612fc53273e4cded57a2]
-> - (b (Extent: N.I.) (affected by repeal, see note))[^key-4a92aab0f58e612fc53273e4cded57a2] the fact that the deposit (being a deposit made on or after the day on which those Regulations came into force) was made before the prescribed date within the meaning of those Regulations. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-4a92aab0f58e612fc53273e4cded57a2]
+> - (a (Extent: N.I.) (affected by repeal, see note))[^c-4a92aab0f58e612fc53273e4cded57a2] the provisions of regulation 3(2) of those Regulations, or *(Extent: N.I.)* *(affected by repeal, see note)*[^c-4a92aab0f58e612fc53273e4cded57a2]
+> - (b (Extent: N.I.) (affected by repeal, see note))[^c-4a92aab0f58e612fc53273e4cded57a2] the fact that the deposit (being a deposit made on or after the day on which those Regulations came into force) was made before the prescribed date within the meaning of those Regulations. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-4a92aab0f58e612fc53273e4cded57a2]
 
 ## 21. Amendment of the Deposits in the Sea (Exemptions) Order (Northern Ireland) 1995
 
@@ -611,131 +611,131 @@ These Regulations have been notified to the European Commission and the other me
 
 [^c9513671]: Marginal citation: [1999 c.24](https://www.legislation.gov.uk/ukpga/1999/24).
 
-[^key-4a546a90b67135fd299c55f8ecfedb83]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2002/1355/regulation/2) renumbered as reg. 2(1) (1.7.2010) by [The Energy Act 2008 (Consequential Modifications) (Offshore Environmental Protection) Order 2010 (S.I. 2010/1513)](https://www.legislation.gov.uk/uksi/2010/1513), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1513/article/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2010/1513/article/6/2)
+[^c-4a546a90b67135fd299c55f8ecfedb83]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2002/1355/regulation/2) renumbered as reg. 2(1) (1.7.2010) by [The Energy Act 2008 (Consequential Modifications) (Offshore Environmental Protection) Order 2010 (S.I. 2010/1513)](https://www.legislation.gov.uk/uksi/2010/1513), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1513/article/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2010/1513/article/6/2)
 
-[^key-1e873cf90e51f71cefb6844e32f247d4]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/1355/regulation/2) omitted (20.8.2005) by virtue of [The Offshore Petroleum Activities (Oil Pollution Prevention and Control) Regulations 2005 (S.I. 2005/2055)](https://www.legislation.gov.uk/uksi/2005/2055), [reg. 1](https://www.legislation.gov.uk/uksi/2005/2055/regulation/1), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2005/2055/schedule/2/paragraph/1)
+[^c-1e873cf90e51f71cefb6844e32f247d4]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/1355/regulation/2) omitted (20.8.2005) by virtue of [The Offshore Petroleum Activities (Oil Pollution Prevention and Control) Regulations 2005 (S.I. 2005/2055)](https://www.legislation.gov.uk/uksi/2005/2055), [reg. 1](https://www.legislation.gov.uk/uksi/2005/2055/regulation/1), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2005/2055/schedule/2/paragraph/1)
 
 [^c9513681]: Marginal citation: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
 
 [^c9513691]: Marginal citation: Cm 2265: Presented to Parliament by the Secretary of State for Foreign and Commonwealth Affairs. Made at Paris, 22nd September 1992.
 
-[^key-49752d949a652acf4d84694e2d78c1a3]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/1355/regulation/2) substituted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2011/982/regulation/4/a)
+[^c-49752d949a652acf4d84694e2d78c1a3]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/1355/regulation/2) substituted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2011/982/regulation/4/a)
 
-[^key-d8d8a87db8c3416677b0081acab0cbd3]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/1355/regulation/2) inserted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2011/982/regulation/4/b)
+[^c-d8d8a87db8c3416677b0081acab0cbd3]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/1355/regulation/2) inserted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2011/982/regulation/4/b)
 
-[^key-aef83bb56d9a46bc110a63bffadff9ef]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/1355/regulation/2) inserted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [4(c)](https://www.legislation.gov.uk/uksi/2011/982/regulation/4/c)
+[^c-aef83bb56d9a46bc110a63bffadff9ef]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/1355/regulation/2) inserted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [4(c)](https://www.legislation.gov.uk/uksi/2011/982/regulation/4/c)
 
-[^key-be1437313e10830b77cf02bc54adbf66]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/1355/regulation/2) substituted (1.7.2010) by [The Energy Act 2008 (Consequential Modifications) (Offshore Environmental Protection) Order 2010 (S.I. 2010/1513)](https://www.legislation.gov.uk/uksi/2010/1513), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1513/article/1/1), [6(1)(a)](https://www.legislation.gov.uk/uksi/2010/1513/article/6/1/a)
+[^c-be1437313e10830b77cf02bc54adbf66]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/1355/regulation/2) substituted (1.7.2010) by [The Energy Act 2008 (Consequential Modifications) (Offshore Environmental Protection) Order 2010 (S.I. 2010/1513)](https://www.legislation.gov.uk/uksi/2010/1513), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1513/article/1/1), [6(1)(a)](https://www.legislation.gov.uk/uksi/2010/1513/article/6/1/a)
 
-[^key-cdb7e56b5bb764031760673114cb8593]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/uksi/2002/1355/regulation/2) omitted (30.3.2011) by virtue of [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [4(d)](https://www.legislation.gov.uk/uksi/2011/982/regulation/4/d)
+[^c-cdb7e56b5bb764031760673114cb8593]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/uksi/2002/1355/regulation/2) omitted (30.3.2011) by virtue of [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [4(d)](https://www.legislation.gov.uk/uksi/2011/982/regulation/4/d)
 
-[^key-af231487b9afbd41fba42355a1c3ad2d]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/1355/regulation/2) inserted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [4(d)](https://www.legislation.gov.uk/uksi/2011/982/regulation/4/d)
+[^c-af231487b9afbd41fba42355a1c3ad2d]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/1355/regulation/2) inserted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [4(d)](https://www.legislation.gov.uk/uksi/2011/982/regulation/4/d)
 
-[^key-ef219da733ea309ea4d90d74a9783631]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/1355/regulation/2) substituted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [4(e)](https://www.legislation.gov.uk/uksi/2011/982/regulation/4/e)
+[^c-ef219da733ea309ea4d90d74a9783631]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/1355/regulation/2) substituted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [4(e)](https://www.legislation.gov.uk/uksi/2011/982/regulation/4/e)
 
-[^key-d4e5d3a650c09d6db59df82b6fdd1eaa]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/1355/regulation/2) inserted (1.7.2010) by [The Energy Act 2008 (Consequential Modifications) (Offshore Environmental Protection) Order 2010 (S.I. 2010/1513)](https://www.legislation.gov.uk/uksi/2010/1513), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1513/article/1/1), [6(1)(c)](https://www.legislation.gov.uk/uksi/2010/1513/article/6/1/c)
+[^c-d4e5d3a650c09d6db59df82b6fdd1eaa]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/1355/regulation/2) inserted (1.7.2010) by [The Energy Act 2008 (Consequential Modifications) (Offshore Environmental Protection) Order 2010 (S.I. 2010/1513)](https://www.legislation.gov.uk/uksi/2010/1513), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1513/article/1/1), [6(1)(c)](https://www.legislation.gov.uk/uksi/2010/1513/article/6/1/c)
 
-[^key-d7a2930b3d6c53e73382a34aecf3e35b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/2/1) inserted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [9(2)](https://www.legislation.gov.uk/uksi/2016/912/regulation/9/2)
+[^c-d7a2930b3d6c53e73382a34aecf3e35b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/2/1) inserted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [9(2)](https://www.legislation.gov.uk/uksi/2016/912/regulation/9/2)
 
-[^key-7f840dfa831b6cde46c4aa8a2fbca2fd]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/1355/regulation/2) inserted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [4(f)](https://www.legislation.gov.uk/uksi/2011/982/regulation/4/f)
+[^c-7f840dfa831b6cde46c4aa8a2fbca2fd]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/1355/regulation/2) inserted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [4(f)](https://www.legislation.gov.uk/uksi/2011/982/regulation/4/f)
 
-[^key-b56b8e5974047a892381b69ab13a07b5]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/1355/regulation/2) omitted (30.3.2011) by virtue of [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [4(g)](https://www.legislation.gov.uk/uksi/2011/982/regulation/4/g)
+[^c-b56b8e5974047a892381b69ab13a07b5]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/1355/regulation/2) omitted (30.3.2011) by virtue of [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [4(g)](https://www.legislation.gov.uk/uksi/2011/982/regulation/4/g)
 
-[^key-d3613c927a83878fb392d7c5bd7639b2]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/1355/regulation/2) inserted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [4(h)](https://www.legislation.gov.uk/uksi/2011/982/regulation/4/h)
+[^c-d3613c927a83878fb392d7c5bd7639b2]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/1355/regulation/2) inserted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [4(h)](https://www.legislation.gov.uk/uksi/2011/982/regulation/4/h)
 
-[^key-4862ad2af7897f61ecce827d3ff5da10]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/1355/regulation/2) omitted (30.3.2011) by virtue of [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [4(i)(i)](https://www.legislation.gov.uk/uksi/2011/982/regulation/4/i)
+[^c-4862ad2af7897f61ecce827d3ff5da10]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/1355/regulation/2) omitted (30.3.2011) by virtue of [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [4(i)(i)](https://www.legislation.gov.uk/uksi/2011/982/regulation/4/i)
 
-[^key-39a6b8cf00f3a2c03c90fa49ccd16ada]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/1355/regulation/2) inserted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [4(i)(ii)](https://www.legislation.gov.uk/uksi/2011/982/regulation/4/i/ii)
+[^c-39a6b8cf00f3a2c03c90fa49ccd16ada]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/1355/regulation/2) inserted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [4(i)(ii)](https://www.legislation.gov.uk/uksi/2011/982/regulation/4/i/ii)
 
 [^c9513721]: Marginal citation: [1964 c.29](https://www.legislation.gov.uk/ukpga/1964/29).
 
-[^key-9984600c629f3391fdb5c4ad7835f616]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/1355/regulation/2) omitted (31.12.2020 immediately before 11 p.m.) by virtue of [The Offshore Oil and Gas Exploration, Production, Unloading and Storage (Environmental Impact Assessment) Regulations 2020 (S.I. 2020/1497)](https://www.legislation.gov.uk/uksi/2020/1497), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1), [Sch. 7 para. 2(2)](https://www.legislation.gov.uk/uksi/2020/1497/schedule/7/paragraph/2/2) (with [regs. 1(2)-(6)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2020/1497/regulation/20))
+[^c-9984600c629f3391fdb5c4ad7835f616]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/1355/regulation/2) omitted (31.12.2020 immediately before 11 p.m.) by virtue of [The Offshore Oil and Gas Exploration, Production, Unloading and Storage (Environmental Impact Assessment) Regulations 2020 (S.I. 2020/1497)](https://www.legislation.gov.uk/uksi/2020/1497), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1), [Sch. 7 para. 2(2)](https://www.legislation.gov.uk/uksi/2020/1497/schedule/7/paragraph/2/2) (with [regs. 1(2)-(6)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2020/1497/regulation/20))
 
-[^key-200d65b68874e3a6d9ad70ff062ac858]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/1355/regulation/2) inserted (1.7.2010) by [The Energy Act 2008 (Consequential Modifications) (Offshore Environmental Protection) Order 2010 (S.I. 2010/1513)](https://www.legislation.gov.uk/uksi/2010/1513), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1513/article/1/1), [6(1)(d)](https://www.legislation.gov.uk/uksi/2010/1513/article/6/1/d)
+[^c-200d65b68874e3a6d9ad70ff062ac858]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/1355/regulation/2) inserted (1.7.2010) by [The Energy Act 2008 (Consequential Modifications) (Offshore Environmental Protection) Order 2010 (S.I. 2010/1513)](https://www.legislation.gov.uk/uksi/2010/1513), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1513/article/1/1), [6(1)(d)](https://www.legislation.gov.uk/uksi/2010/1513/article/6/1/d)
 
 [^c9513741]: Marginal citation: [1974 c.40](https://www.legislation.gov.uk/ukpga/1974/40). The provisions of section 30A(1) were inserted into the 1974 Act by section 169 of, and Schedule 23 to, the [Water Act 1989 (1989 c.15)](https://www.legislation.gov.uk/ukpga/1989/15).
 
-[^key-fdba638211698447a162402e8a9359a8]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/1355/regulation/2) substituted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [4(j)](https://www.legislation.gov.uk/uksi/2011/982/regulation/4/j)
+[^c-fdba638211698447a162402e8a9359a8]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/1355/regulation/2) substituted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [4(j)](https://www.legislation.gov.uk/uksi/2011/982/regulation/4/j)
 
-[^key-e63ce878f49265f85fee9a50c96b68bf]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/2/2) substituted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [4(k)](https://www.legislation.gov.uk/uksi/2011/982/regulation/4/k)
+[^c-e63ce878f49265f85fee9a50c96b68bf]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/2/2) substituted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [4(k)](https://www.legislation.gov.uk/uksi/2011/982/regulation/4/k)
 
-[^key-0abbfa524668d44cdc589b3341652ba7]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/3/1) omitted (30.3.2011) by virtue of [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2011/982/regulation/5/a)
+[^c-0abbfa524668d44cdc589b3341652ba7]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/3/1) omitted (30.3.2011) by virtue of [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2011/982/regulation/5/a)
 
-[^key-13eb2795b5126114e69d28158acc78c1]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/3/3) omitted (30.3.2011) by virtue of [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2011/982/regulation/5/b)
+[^c-13eb2795b5126114e69d28158acc78c1]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/3/3) omitted (30.3.2011) by virtue of [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2011/982/regulation/5/b)
 
-[^key-cd4bdecf83d0d5cd1713f02ee789bc3f]: Textual amendment: [Reg. 3A](https://www.legislation.gov.uk/uksi/2002/1355/regulation/3A) inserted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [6](https://www.legislation.gov.uk/uksi/2011/982/regulation/6)
+[^c-cd4bdecf83d0d5cd1713f02ee789bc3f]: Textual amendment: [Reg. 3A](https://www.legislation.gov.uk/uksi/2002/1355/regulation/3A) inserted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [6](https://www.legislation.gov.uk/uksi/2011/982/regulation/6)
 
-[^key-3a26acc39484dba1a3db032ee23eda5c]: Textual amendment: Words in [reg. 5(2)(b)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/5/2/b) substituted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [7(a)](https://www.legislation.gov.uk/uksi/2011/982/regulation/7/a)
+[^c-3a26acc39484dba1a3db032ee23eda5c]: Textual amendment: Words in [reg. 5(2)(b)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/5/2/b) substituted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [7(a)](https://www.legislation.gov.uk/uksi/2011/982/regulation/7/a)
 
-[^key-1fc8e9f761b272b68562dbf48809e83f]: Textual amendment: Word in [reg. 5(2)(d)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/5/2/d) substituted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [7(b)](https://www.legislation.gov.uk/uksi/2011/982/regulation/7/b)
+[^c-1fc8e9f761b272b68562dbf48809e83f]: Textual amendment: Word in [reg. 5(2)(d)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/5/2/d) substituted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [7(b)](https://www.legislation.gov.uk/uksi/2011/982/regulation/7/b)
 
-[^key-cf844eb84e9b4147f572e3d9be2b7779]: Textual amendment: [Reg. 7(2)(a)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/7/2/a) substituted (31.12.2020 immediately before 11 p.m.) by [The Offshore Oil and Gas Exploration, Production, Unloading and Storage (Environmental Impact Assessment) Regulations 2020 (S.I. 2020/1497)](https://www.legislation.gov.uk/uksi/2020/1497), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1), [Sch. 7 para. 2(3)](https://www.legislation.gov.uk/uksi/2020/1497/schedule/7/paragraph/2/3) (with [regs. 1(2)-(6)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2020/1497/regulation/20))
+[^c-cf844eb84e9b4147f572e3d9be2b7779]: Textual amendment: [Reg. 7(2)(a)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/7/2/a) substituted (31.12.2020 immediately before 11 p.m.) by [The Offshore Oil and Gas Exploration, Production, Unloading and Storage (Environmental Impact Assessment) Regulations 2020 (S.I. 2020/1497)](https://www.legislation.gov.uk/uksi/2020/1497), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1), [Sch. 7 para. 2(3)](https://www.legislation.gov.uk/uksi/2020/1497/schedule/7/paragraph/2/3) (with [regs. 1(2)-(6)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2020/1497/regulation/20))
 
-[^key-207c61310e3e15137b124cc4c2a033e3]: Textual amendment: Words in [reg. 7(2)(b)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/7/2/b) substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [9(3)](https://www.legislation.gov.uk/uksi/2016/912/regulation/9/3)
+[^c-207c61310e3e15137b124cc4c2a033e3]: Textual amendment: Words in [reg. 7(2)(b)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/7/2/b) substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [9(3)](https://www.legislation.gov.uk/uksi/2016/912/regulation/9/3)
 
 [^c9513761]: Marginal citation: [1998 c.17](https://www.legislation.gov.uk/ukpga/1998/17).
 
-[^key-aac9ccbbb5734cffb03c35a3be2bab73]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/uksi/2002/1355/regulation/7A) inserted (E.W.S.) (5.9.2020) by [The Offshore Chemicals and Offshore Petroleum Activities (Oil Pollution Prevention and Control) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/855)](https://www.legislation.gov.uk/uksi/2020/855), [regs. 1](https://www.legislation.gov.uk/uksi/2020/855/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/855/regulation/3)
+[^c-aac9ccbbb5734cffb03c35a3be2bab73]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/uksi/2002/1355/regulation/7A) inserted (E.W.S.) (5.9.2020) by [The Offshore Chemicals and Offshore Petroleum Activities (Oil Pollution Prevention and Control) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/855)](https://www.legislation.gov.uk/uksi/2020/855), [regs. 1](https://www.legislation.gov.uk/uksi/2020/855/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/855/regulation/3)
 
-[^key-8b7b176343032534b9b1dbc2c735f5cf]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/8/1) inserted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [8(a)](https://www.legislation.gov.uk/uksi/2011/982/regulation/8/a)
+[^c-8b7b176343032534b9b1dbc2c735f5cf]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/8/1) inserted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [8(a)](https://www.legislation.gov.uk/uksi/2011/982/regulation/8/a)
 
-[^key-72e53bad52c4e2d70df70577614dc731]: Textual amendment: [Reg. 8(2)(a)-(ca)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/8/2/a) substituted for reg. 8(2)(a)-(c) (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [8(b)](https://www.legislation.gov.uk/uksi/2011/982/regulation/8/b)
+[^c-72e53bad52c4e2d70df70577614dc731]: Textual amendment: [Reg. 8(2)(a)-(ca)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/8/2/a) substituted for reg. 8(2)(a)-(c) (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [8(b)](https://www.legislation.gov.uk/uksi/2011/982/regulation/8/b)
 
-[^key-508541fb8cb53d2274dbb0b12e30a367]: Textual amendment: Word in [reg. 8(2)(f)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/8/2/f) omitted (6.4.2017) by virtue of [The Pollution Prevention and Control (Fees) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/404)](https://www.legislation.gov.uk/uksi/2017/404), [regs. 1](https://www.legislation.gov.uk/uksi/2017/404/regulation/1), [2(1)](https://www.legislation.gov.uk/uksi/2017/404/regulation/2/1)
+[^c-508541fb8cb53d2274dbb0b12e30a367]: Textual amendment: Word in [reg. 8(2)(f)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/8/2/f) omitted (6.4.2017) by virtue of [The Pollution Prevention and Control (Fees) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/404)](https://www.legislation.gov.uk/uksi/2017/404), [regs. 1](https://www.legislation.gov.uk/uksi/2017/404/regulation/1), [2(1)](https://www.legislation.gov.uk/uksi/2017/404/regulation/2/1)
 
-[^key-bb7b1da5d462ea34f2f0d531883e26be]: Textual amendment: Words in [reg. 8(2)(g)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/8/2/g) inserted (6.4.2017) by [The Pollution Prevention and Control (Fees) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/404)](https://www.legislation.gov.uk/uksi/2017/404), [regs. 1](https://www.legislation.gov.uk/uksi/2017/404/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2017/404/regulation/2/2/a)
+[^c-bb7b1da5d462ea34f2f0d531883e26be]: Textual amendment: Words in [reg. 8(2)(g)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/8/2/g) inserted (6.4.2017) by [The Pollution Prevention and Control (Fees) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/404)](https://www.legislation.gov.uk/uksi/2017/404), [regs. 1](https://www.legislation.gov.uk/uksi/2017/404/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2017/404/regulation/2/2/a)
 
-[^key-dd4438d7e12dd2e3338fc3c7589a0c13]: Textual amendment: Word in [reg. 8(2)(g)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/8/2/g) substituted (6.4.2017) by [The Pollution Prevention and Control (Fees) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/404)](https://www.legislation.gov.uk/uksi/2017/404), [regs. 1](https://www.legislation.gov.uk/uksi/2017/404/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2017/404/regulation/2/2/b)
+[^c-dd4438d7e12dd2e3338fc3c7589a0c13]: Textual amendment: Word in [reg. 8(2)(g)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/8/2/g) substituted (6.4.2017) by [The Pollution Prevention and Control (Fees) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/404)](https://www.legislation.gov.uk/uksi/2017/404), [regs. 1](https://www.legislation.gov.uk/uksi/2017/404/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2017/404/regulation/2/2/b)
 
-[^key-96a8e45ee24be7a7a2a4f71b4cca0237]: Textual amendment: [Reg. 8(2)(h)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/8/2/h) inserted (6.4.2017) by [The Pollution Prevention and Control (Fees) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/404)](https://www.legislation.gov.uk/uksi/2017/404), [regs. 1](https://www.legislation.gov.uk/uksi/2017/404/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2017/404/regulation/2/3)
+[^c-96a8e45ee24be7a7a2a4f71b4cca0237]: Textual amendment: [Reg. 8(2)(h)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/8/2/h) inserted (6.4.2017) by [The Pollution Prevention and Control (Fees) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/404)](https://www.legislation.gov.uk/uksi/2017/404), [regs. 1](https://www.legislation.gov.uk/uksi/2017/404/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2017/404/regulation/2/3)
 
-[^key-47d2a96af074f7b2036cbec24f579012]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/8/2) inserted (6.4.2017) by [The Pollution Prevention and Control (Fees) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/404)](https://www.legislation.gov.uk/uksi/2017/404), [regs. 1](https://www.legislation.gov.uk/uksi/2017/404/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2017/404/regulation/2/4)
+[^c-47d2a96af074f7b2036cbec24f579012]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/8/2) inserted (6.4.2017) by [The Pollution Prevention and Control (Fees) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/404)](https://www.legislation.gov.uk/uksi/2017/404), [regs. 1](https://www.legislation.gov.uk/uksi/2017/404/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2017/404/regulation/2/4)
 
-[^key-6b3b522e42f4ab8a75340ec84b791a6d]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/10/1) substituted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [9(a)](https://www.legislation.gov.uk/uksi/2011/982/regulation/9/a)
+[^c-6b3b522e42f4ab8a75340ec84b791a6d]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/10/1) substituted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [9(a)](https://www.legislation.gov.uk/uksi/2011/982/regulation/9/a)
 
-[^key-e7e7b508d8a7480049215474b28c29c2]: Textual amendment: Words in [reg. 10(3)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/10/3) omitted (30.3.2011) by virtue of [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [9(b)](https://www.legislation.gov.uk/uksi/2011/982/regulation/9/b)
+[^c-e7e7b508d8a7480049215474b28c29c2]: Textual amendment: Words in [reg. 10(3)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/10/3) omitted (30.3.2011) by virtue of [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [9(b)](https://www.legislation.gov.uk/uksi/2011/982/regulation/9/b)
 
-[^key-2241f0ff4de7213fb38c1832e2edfb92]: Textual amendment: Words in [reg. 11](https://www.legislation.gov.uk/uksi/2002/1355/regulation/11) heading omitted (30.3.2011) by virtue of [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [10(1)](https://www.legislation.gov.uk/uksi/2011/982/regulation/10/1)
+[^c-2241f0ff4de7213fb38c1832e2edfb92]: Textual amendment: Words in [reg. 11](https://www.legislation.gov.uk/uksi/2002/1355/regulation/11) heading omitted (30.3.2011) by virtue of [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [10(1)](https://www.legislation.gov.uk/uksi/2011/982/regulation/10/1)
 
-[^key-8ba43ed4347461fa546117ffb5d75131]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/11/1) substituted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [10(2)(a)(i)](https://www.legislation.gov.uk/uksi/2011/982/regulation/10/2/a/i)
+[^c-8ba43ed4347461fa546117ffb5d75131]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/11/1) substituted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [10(2)(a)(i)](https://www.legislation.gov.uk/uksi/2011/982/regulation/10/2/a/i)
 
-[^key-77f058c82dbfdbdd6b1100691567aff6]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/11/1) omitted (30.3.2011) by virtue of [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [10(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2011/982/regulation/10/2/a/ii)
+[^c-77f058c82dbfdbdd6b1100691567aff6]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/11/1) omitted (30.3.2011) by virtue of [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [10(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2011/982/regulation/10/2/a/ii)
 
-[^key-1ca8092099b47307b5afb7dbad47b3e1]: Textual amendment: Words in [reg. 11(2)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/11/2) omitted (30.3.2011) by virtue of [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [10(2)(b)(i)](https://www.legislation.gov.uk/uksi/2011/982/regulation/10/2/b/i)
+[^c-1ca8092099b47307b5afb7dbad47b3e1]: Textual amendment: Words in [reg. 11(2)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/11/2) omitted (30.3.2011) by virtue of [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [10(2)(b)(i)](https://www.legislation.gov.uk/uksi/2011/982/regulation/10/2/b/i)
 
-[^key-07d56783ac4170397e801d2ef61876fe]: Textual amendment: Words in [reg. 11(2)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/11/2) omitted (30.3.2011) by virtue of [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [10(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2011/982/regulation/10/2/b/ii)
+[^c-07d56783ac4170397e801d2ef61876fe]: Textual amendment: Words in [reg. 11(2)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/11/2) omitted (30.3.2011) by virtue of [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [10(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2011/982/regulation/10/2/b/ii)
 
-[^key-6d2324e072282f6b91bb22749de02191]: Textual amendment: Words in [reg. 11(4)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/11/4) substituted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [10(2)(c)](https://www.legislation.gov.uk/uksi/2011/982/regulation/10/2/c)
+[^c-6d2324e072282f6b91bb22749de02191]: Textual amendment: Words in [reg. 11(4)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/11/4) substituted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [10(2)(c)](https://www.legislation.gov.uk/uksi/2011/982/regulation/10/2/c)
 
-[^key-63bf129e0909735f1701633660f7be8f]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/12/1) omitted (30.3.2011) by virtue of [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [11(a)](https://www.legislation.gov.uk/uksi/2011/982/regulation/11/a)
+[^c-63bf129e0909735f1701633660f7be8f]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/12/1) omitted (30.3.2011) by virtue of [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [11(a)](https://www.legislation.gov.uk/uksi/2011/982/regulation/11/a)
 
-[^key-002f373986641b3b5a30f7387284b18f]: Textual amendment: Words in [reg. 12(3)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/12/3) substituted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [11(b)](https://www.legislation.gov.uk/uksi/2011/982/regulation/11/b)
+[^c-002f373986641b3b5a30f7387284b18f]: Textual amendment: Words in [reg. 12(3)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/12/3) substituted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [11(b)](https://www.legislation.gov.uk/uksi/2011/982/regulation/11/b)
 
-[^key-2e7bcd5364df96f00ce5cae8c0448a0b]: Textual amendment: Words in [reg. 12(4)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/12/4) substituted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [11(c)](https://www.legislation.gov.uk/uksi/2011/982/regulation/11/c)
+[^c-2e7bcd5364df96f00ce5cae8c0448a0b]: Textual amendment: Words in [reg. 12(4)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/12/4) substituted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [11(c)](https://www.legislation.gov.uk/uksi/2011/982/regulation/11/c)
 
-[^key-72bc69384f80aa013f1a12844225ee3a]: Textual amendment: [Reg. 12(7)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/12/7) omitted (30.3.2011) by virtue of [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [11(d)](https://www.legislation.gov.uk/uksi/2011/982/regulation/11/d)
+[^c-72bc69384f80aa013f1a12844225ee3a]: Textual amendment: [Reg. 12(7)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/12/7) omitted (30.3.2011) by virtue of [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [11(d)](https://www.legislation.gov.uk/uksi/2011/982/regulation/11/d)
 
-[^key-2242ed0c2fb788b93a76a0a44dcd601d]: Textual amendment: [Reg. 12A](https://www.legislation.gov.uk/uksi/2002/1355/regulation/12A) inserted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [12](https://www.legislation.gov.uk/uksi/2011/982/regulation/12)
+[^c-2242ed0c2fb788b93a76a0a44dcd601d]: Textual amendment: [Reg. 12A](https://www.legislation.gov.uk/uksi/2002/1355/regulation/12A) inserted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [12](https://www.legislation.gov.uk/uksi/2011/982/regulation/12)
 
-[^key-3263e53fb6d12c33cbea985405e65efa]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/13/1) omitted (30.3.2011) by virtue of [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [13(a)(i)](https://www.legislation.gov.uk/uksi/2011/982/regulation/13/a/i)
+[^c-3263e53fb6d12c33cbea985405e65efa]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/13/1) omitted (30.3.2011) by virtue of [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [13(a)(i)](https://www.legislation.gov.uk/uksi/2011/982/regulation/13/a/i)
 
-[^key-5b466059663b758067a657b08cf0f2dd]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/13/1) substituted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [13(a)(ii)](https://www.legislation.gov.uk/uksi/2011/982/regulation/13/a/ii)
+[^c-5b466059663b758067a657b08cf0f2dd]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/13/1) substituted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [13(a)(ii)](https://www.legislation.gov.uk/uksi/2011/982/regulation/13/a/ii)
 
-[^key-75ff5adeec58015bcc8d6af6bbb212ff]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/13/2) substituted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [13(b)](https://www.legislation.gov.uk/uksi/2011/982/regulation/13/b)
+[^c-75ff5adeec58015bcc8d6af6bbb212ff]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/13/2) substituted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [13(b)](https://www.legislation.gov.uk/uksi/2011/982/regulation/13/b)
 
-[^key-e105ad560237c1c1dc98820f990f2a6d]: Textual amendment: Words in [reg. 14(1)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/14/1) omitted (30.3.2011) by virtue of [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [14](https://www.legislation.gov.uk/uksi/2011/982/regulation/14)
+[^c-e105ad560237c1c1dc98820f990f2a6d]: Textual amendment: Words in [reg. 14(1)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/14/1) omitted (30.3.2011) by virtue of [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [14](https://www.legislation.gov.uk/uksi/2011/982/regulation/14)
 
-[^key-1383e63ab9b599593f7eeeec02753653]: Textual amendment: [Reg. 15(1)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/15/1)[(1A)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/15/1A) substituted for [reg. 15(1)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/15/1) (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [15](https://www.legislation.gov.uk/uksi/2011/982/regulation/15)
+[^c-1383e63ab9b599593f7eeeec02753653]: Textual amendment: [Reg. 15(1)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/15/1)[(1A)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/15/1A) substituted for [reg. 15(1)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/15/1) (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [15](https://www.legislation.gov.uk/uksi/2011/982/regulation/15)
 
-[^key-9573aba9e4d43cae55c0b86005e93b5d]: Textual amendment: Words in [reg. 16(1)(b)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/16/1/b) substituted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [16(a)](https://www.legislation.gov.uk/uksi/2011/982/regulation/16/a)
+[^c-9573aba9e4d43cae55c0b86005e93b5d]: Textual amendment: Words in [reg. 16(1)(b)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/16/1/b) substituted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [16(a)](https://www.legislation.gov.uk/uksi/2011/982/regulation/16/a)
 
-[^key-1b2a3c758e0155dcde245dd3e6a53df7]: Textual amendment: Words in [reg. 16(2)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/16/2) omitted (20.8.2005) by virtue of [The Offshore Petroleum Activities (Oil Pollution Prevention and Control) Regulations 2005 (S.I. 2005/2055)](https://www.legislation.gov.uk/uksi/2005/2055), [reg. 1](https://www.legislation.gov.uk/uksi/2005/2055/regulation/1), [Sch. 2 para. 2(1)](https://www.legislation.gov.uk/uksi/2005/2055/schedule/2/paragraph/2/1)
+[^c-1b2a3c758e0155dcde245dd3e6a53df7]: Textual amendment: Words in [reg. 16(2)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/16/2) omitted (20.8.2005) by virtue of [The Offshore Petroleum Activities (Oil Pollution Prevention and Control) Regulations 2005 (S.I. 2005/2055)](https://www.legislation.gov.uk/uksi/2005/2055), [reg. 1](https://www.legislation.gov.uk/uksi/2005/2055/regulation/1), [Sch. 2 para. 2(1)](https://www.legislation.gov.uk/uksi/2005/2055/schedule/2/paragraph/2/1)
 
-[^key-2665037e69f7b0a684e4f62ca07621f5]: Textual amendment: Words in [reg. 16(3)(a)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/16/3/a) substituted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [16(a)](https://www.legislation.gov.uk/uksi/2011/982/regulation/16/a)
+[^c-2665037e69f7b0a684e4f62ca07621f5]: Textual amendment: Words in [reg. 16(3)(a)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/16/3/a) substituted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [16(a)](https://www.legislation.gov.uk/uksi/2011/982/regulation/16/a)
 
-[^key-824116ce60299d3b9d0a0ecbd6c27398]: Textual amendment: Words in [reg. 16(3)(j)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/16/3/j) omitted (30.3.2011) by virtue of [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [16(b)](https://www.legislation.gov.uk/uksi/2011/982/regulation/16/b)
+[^c-824116ce60299d3b9d0a0ecbd6c27398]: Textual amendment: Words in [reg. 16(3)(j)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/16/3/j) omitted (30.3.2011) by virtue of [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [16(b)](https://www.legislation.gov.uk/uksi/2011/982/regulation/16/b)
 
-[^key-b720de50d09f41423406725bdc5a9602]: Textual amendment: [Reg. 16(4)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/16/4) omitted (20.8.2005) by virtue of [The Offshore Petroleum Activities (Oil Pollution Prevention and Control) Regulations 2005 (S.I. 2005/2055)](https://www.legislation.gov.uk/uksi/2005/2055), [reg. 1](https://www.legislation.gov.uk/uksi/2005/2055/regulation/1), [Sch. 2 para. 2(2)](https://www.legislation.gov.uk/uksi/2005/2055/schedule/2/paragraph/2/2)
+[^c-b720de50d09f41423406725bdc5a9602]: Textual amendment: [Reg. 16(4)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/16/4) omitted (20.8.2005) by virtue of [The Offshore Petroleum Activities (Oil Pollution Prevention and Control) Regulations 2005 (S.I. 2005/2055)](https://www.legislation.gov.uk/uksi/2005/2055), [reg. 1](https://www.legislation.gov.uk/uksi/2005/2055/regulation/1), [Sch. 2 para. 2(2)](https://www.legislation.gov.uk/uksi/2005/2055/schedule/2/paragraph/2/2)
 
 [^c9513771]: Marginal citation: [1911 c.6](https://www.legislation.gov.uk/ukpga/1911/6).
 
@@ -743,71 +743,71 @@ These Regulations have been notified to the European Commission and the other me
 
 [^c9513791]: Marginal citation: [S.I. 1979/1714 (N.I. 19)](https://www.legislation.gov.uk/nisi/1979/1714).
 
-[^key-fe60536c3cdb1fbdad3f23da62081e9b]: Textual amendment: [Regs. 16A](https://www.legislation.gov.uk/uksi/2002/1355/regulation/16A), [16B](https://www.legislation.gov.uk/uksi/2002/1355/regulation/16B) inserted (20.8.2005) by [The Offshore Petroleum Activities (Oil Pollution Prevention and Control) Regulations 2005 (S.I. 2005/2055)](https://www.legislation.gov.uk/uksi/2005/2055), [reg. 1](https://www.legislation.gov.uk/uksi/2005/2055/regulation/1), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2005/2055/schedule/2/paragraph/3)
+[^c-fe60536c3cdb1fbdad3f23da62081e9b]: Textual amendment: [Regs. 16A](https://www.legislation.gov.uk/uksi/2002/1355/regulation/16A), [16B](https://www.legislation.gov.uk/uksi/2002/1355/regulation/16B) inserted (20.8.2005) by [The Offshore Petroleum Activities (Oil Pollution Prevention and Control) Regulations 2005 (S.I. 2005/2055)](https://www.legislation.gov.uk/uksi/2005/2055), [reg. 1](https://www.legislation.gov.uk/uksi/2005/2055/regulation/1), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2005/2055/schedule/2/paragraph/3)
 
-[^key-4c0ff234d6ee3d276277bac7e7c4e06c]: Textual amendment: Words in [reg. 16A(1)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/16A/1) substituted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [17(a)(i)](https://www.legislation.gov.uk/uksi/2011/982/regulation/17/a/i)
+[^c-4c0ff234d6ee3d276277bac7e7c4e06c]: Textual amendment: Words in [reg. 16A(1)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/16A/1) substituted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [17(a)(i)](https://www.legislation.gov.uk/uksi/2011/982/regulation/17/a/i)
 
-[^key-4c3adef9727b16aba6b043231ff3510c]: Textual amendment: Words in [reg. 16A(1)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/16A/1) omitted (30.3.2011) by virtue of [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [17(a)(ii)](https://www.legislation.gov.uk/uksi/2011/982/regulation/17/a/ii)
+[^c-4c3adef9727b16aba6b043231ff3510c]: Textual amendment: Words in [reg. 16A(1)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/16A/1) omitted (30.3.2011) by virtue of [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [17(a)(ii)](https://www.legislation.gov.uk/uksi/2011/982/regulation/17/a/ii)
 
-[^key-cd0a4c047e1c036b198009dcd9c31301]: Textual amendment: [Reg. 16A(1A)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/16A/1A)[(1B)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/16A/1B) inserted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [17(b)](https://www.legislation.gov.uk/uksi/2011/982/regulation/17/b)
+[^c-cd0a4c047e1c036b198009dcd9c31301]: Textual amendment: [Reg. 16A(1A)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/16A/1A)[(1B)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/16A/1B) inserted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [17(b)](https://www.legislation.gov.uk/uksi/2011/982/regulation/17/b)
 
-[^key-3e80509f821b768cb17c0aa2eed59d6f]: Textual amendment: [Reg. 16A(2)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/16A/2) substituted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [17(c)](https://www.legislation.gov.uk/uksi/2011/982/regulation/17/c)
+[^c-3e80509f821b768cb17c0aa2eed59d6f]: Textual amendment: [Reg. 16A(2)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/16A/2) substituted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [17(c)](https://www.legislation.gov.uk/uksi/2011/982/regulation/17/c)
 
-[^key-acd9ae540043b3855e501063775e3615]: Textual amendment: Words in [reg. 16A(5)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/16A/5) omitted (30.3.2011) by virtue of [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [17(d)](https://www.legislation.gov.uk/uksi/2011/982/regulation/17/d)
+[^c-acd9ae540043b3855e501063775e3615]: Textual amendment: Words in [reg. 16A(5)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/16A/5) omitted (30.3.2011) by virtue of [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [17(d)](https://www.legislation.gov.uk/uksi/2011/982/regulation/17/d)
 
-[^key-15cf676aa7e7161677feb06d74d747e9]: Textual amendment: Word in [reg. 16A(6)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/16A/6) inserted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [17(e)](https://www.legislation.gov.uk/uksi/2011/982/regulation/17/e)
+[^c-15cf676aa7e7161677feb06d74d747e9]: Textual amendment: Word in [reg. 16A(6)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/16A/6) inserted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [17(e)](https://www.legislation.gov.uk/uksi/2011/982/regulation/17/e)
 
-[^key-ebb3223f96116cb9ddca0640e38c1ba8]: Textual amendment: Words in [reg. 16B(1)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/16B/1) substituted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [18(a)](https://www.legislation.gov.uk/uksi/2011/982/regulation/18/a)
+[^c-ebb3223f96116cb9ddca0640e38c1ba8]: Textual amendment: Words in [reg. 16B(1)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/16B/1) substituted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [18(a)](https://www.legislation.gov.uk/uksi/2011/982/regulation/18/a)
 
-[^key-f586b943e1f7278d0e9653cdb9797cf7]: Textual amendment: Word in [reg. 16B(2)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/16B/2) inserted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [18(b)](https://www.legislation.gov.uk/uksi/2011/982/regulation/18/b)
+[^c-f586b943e1f7278d0e9653cdb9797cf7]: Textual amendment: Word in [reg. 16B(2)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/16B/2) inserted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [18(b)](https://www.legislation.gov.uk/uksi/2011/982/regulation/18/b)
 
-[^key-1b83ae299ebd7e5c30c1bf3f9b6edf72]: Textual amendment: Words in [reg. 16B(3)(c)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/16B/3/c) omitted (30.3.2011) by virtue of [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [18(c)(i)](https://www.legislation.gov.uk/uksi/2011/982/regulation/18/c/i)
+[^c-1b83ae299ebd7e5c30c1bf3f9b6edf72]: Textual amendment: Words in [reg. 16B(3)(c)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/16B/3/c) omitted (30.3.2011) by virtue of [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [18(c)(i)](https://www.legislation.gov.uk/uksi/2011/982/regulation/18/c/i)
 
-[^key-fd5e2efca5da90d7a263d701f399c08a]: Textual amendment: Word in [reg. 16B(3)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/16B/3) omitted (30.3.2011) by virtue of [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [18(c)(ii)(aa)](https://www.legislation.gov.uk/uksi/2011/982/regulation/18/c/ii/aa)
+[^c-fd5e2efca5da90d7a263d701f399c08a]: Textual amendment: Word in [reg. 16B(3)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/16B/3) omitted (30.3.2011) by virtue of [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [18(c)(ii)(aa)](https://www.legislation.gov.uk/uksi/2011/982/regulation/18/c/ii/aa)
 
-[^key-797e04f138e93f77d092f2652239df80]: Textual amendment: [Reg. 16B(3)(ca)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/16B/3/ca) inserted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [18(c)(ii)(bb)](https://www.legislation.gov.uk/uksi/2011/982/regulation/18/c/ii/bb)
+[^c-797e04f138e93f77d092f2652239df80]: Textual amendment: [Reg. 16B(3)(ca)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/16B/3/ca) inserted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [18(c)(ii)(bb)](https://www.legislation.gov.uk/uksi/2011/982/regulation/18/c/ii/bb)
 
-[^key-be8edc8242c2128a1a942780f24f360e]: Textual amendment: Words in [reg. 17(1)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/17/1) substituted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [19(a)](https://www.legislation.gov.uk/uksi/2011/982/regulation/19/a)
+[^c-be8edc8242c2128a1a942780f24f360e]: Textual amendment: Words in [reg. 17(1)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/17/1) substituted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [19(a)](https://www.legislation.gov.uk/uksi/2011/982/regulation/19/a)
 
-[^key-03954533f5a4b678e80800a4aa53f072]: Textual amendment: Words in [reg. 17(2)(a)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/17/2/a) substituted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [19(b)(i)](https://www.legislation.gov.uk/uksi/2011/982/regulation/19/b/i)
+[^c-03954533f5a4b678e80800a4aa53f072]: Textual amendment: Words in [reg. 17(2)(a)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/17/2/a) substituted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [19(b)(i)](https://www.legislation.gov.uk/uksi/2011/982/regulation/19/b/i)
 
-[^key-bb9fb5cfb981ee3dca4c5142f2d94880]: Textual amendment: Words in [reg. 17(2)(b)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/17/2/b) substituted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [19(b)(i)](https://www.legislation.gov.uk/uksi/2011/982/regulation/19/b/i)
+[^c-bb9fb5cfb981ee3dca4c5142f2d94880]: Textual amendment: Words in [reg. 17(2)(b)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/17/2/b) substituted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [19(b)(i)](https://www.legislation.gov.uk/uksi/2011/982/regulation/19/b/i)
 
-[^key-688d07a055de0f7fd7107e694c0cbe6b]: Textual amendment: Words in [reg. 17(2)(b)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/17/2/b) omitted (30.3.2011) by virtue of [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [19(b)(ii)](https://www.legislation.gov.uk/uksi/2011/982/regulation/19/b/ii)
+[^c-688d07a055de0f7fd7107e694c0cbe6b]: Textual amendment: Words in [reg. 17(2)(b)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/17/2/b) omitted (30.3.2011) by virtue of [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [19(b)(ii)](https://www.legislation.gov.uk/uksi/2011/982/regulation/19/b/ii)
 
-[^key-597f2b56a6b67c9a774c64ff2c5cf034]: Textual amendment: Words in [reg. 17(2)(c)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/17/2/c) substituted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [19(b)(i)](https://www.legislation.gov.uk/uksi/2011/982/regulation/19/b/i)
+[^c-597f2b56a6b67c9a774c64ff2c5cf034]: Textual amendment: Words in [reg. 17(2)(c)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/17/2/c) substituted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [19(b)(i)](https://www.legislation.gov.uk/uksi/2011/982/regulation/19/b/i)
 
 [^c9513801]: Marginal citation: [S.I. 1987/2197](https://www.legislation.gov.uk/uksi/1987/2197).
 
-[^key-a0fc10ed2915a5d32b34fda0ba0e1be1]: Textual amendment: Words in [reg. 17(4)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/17/4) substituted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [19(c)(i)](https://www.legislation.gov.uk/uksi/2011/982/regulation/19/c/i)
+[^c-a0fc10ed2915a5d32b34fda0ba0e1be1]: Textual amendment: Words in [reg. 17(4)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/17/4) substituted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [19(c)(i)](https://www.legislation.gov.uk/uksi/2011/982/regulation/19/c/i)
 
-[^key-309abe77b1d254de8774fbf5f6991d0d]: Textual amendment: Words in [reg. 17(4)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/17/4) substituted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [19(c)(ii)](https://www.legislation.gov.uk/uksi/2011/982/regulation/19/c/ii)
+[^c-309abe77b1d254de8774fbf5f6991d0d]: Textual amendment: Words in [reg. 17(4)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/17/4) substituted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [19(c)(ii)](https://www.legislation.gov.uk/uksi/2011/982/regulation/19/c/ii)
 
-[^key-6a1eae9f0d19706980bb8997f13070c8]: Textual amendment: [Reg. 18(1)(b)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/18/1/b) substituted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [20(a)(i)](https://www.legislation.gov.uk/uksi/2011/982/regulation/20/a/i)
+[^c-6a1eae9f0d19706980bb8997f13070c8]: Textual amendment: [Reg. 18(1)(b)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/18/1/b) substituted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [20(a)(i)](https://www.legislation.gov.uk/uksi/2011/982/regulation/20/a/i)
 
-[^key-a018b079337e0b4c010d77a254d37eee]: Textual amendment: Words in [reg. 18(1)(c)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/18/1/c) omitted (30.3.2011) by virtue of [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [20(a)(ii)](https://www.legislation.gov.uk/uksi/2011/982/regulation/20/a/ii)
+[^c-a018b079337e0b4c010d77a254d37eee]: Textual amendment: Words in [reg. 18(1)(c)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/18/1/c) omitted (30.3.2011) by virtue of [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [20(a)(ii)](https://www.legislation.gov.uk/uksi/2011/982/regulation/20/a/ii)
 
-[^key-ee89d60cb5cc834a990e31f26666b5ba]: Textual amendment: Words in [reg. 18(1)(d)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/18/1/d) omitted (30.3.2011) by virtue of [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [20(a)(iii)](https://www.legislation.gov.uk/uksi/2011/982/regulation/20/a/iii)
+[^c-ee89d60cb5cc834a990e31f26666b5ba]: Textual amendment: Words in [reg. 18(1)(d)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/18/1/d) omitted (30.3.2011) by virtue of [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [20(a)(iii)](https://www.legislation.gov.uk/uksi/2011/982/regulation/20/a/iii)
 
-[^key-12086024b2abe22f16932d1aba4666e5]: Textual amendment: Words in [reg. 18(1)(e)(i)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/18/1/e/i) inserted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [20(a)(iv)](https://www.legislation.gov.uk/uksi/2011/982/regulation/20/a/iv)
+[^c-12086024b2abe22f16932d1aba4666e5]: Textual amendment: Words in [reg. 18(1)(e)(i)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/18/1/e/i) inserted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [20(a)(iv)](https://www.legislation.gov.uk/uksi/2011/982/regulation/20/a/iv)
 
-[^key-c4846e63265f46d2d2500d9b5f311df8]: Textual amendment: Word in [reg. 18(1)(f)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/18/1/f) omitted (20.8.2005) by virtue of [The Offshore Petroleum Activities (Oil Pollution Prevention and Control) Regulations 2005 (S.I. 2005/2055)](https://www.legislation.gov.uk/uksi/2005/2055), [reg. 1](https://www.legislation.gov.uk/uksi/2005/2055/regulation/1), [Sch. 2 para. 4(a)](https://www.legislation.gov.uk/uksi/2005/2055/schedule/2/paragraph/4/a)
+[^c-c4846e63265f46d2d2500d9b5f311df8]: Textual amendment: Word in [reg. 18(1)(f)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/18/1/f) omitted (20.8.2005) by virtue of [The Offshore Petroleum Activities (Oil Pollution Prevention and Control) Regulations 2005 (S.I. 2005/2055)](https://www.legislation.gov.uk/uksi/2005/2055), [reg. 1](https://www.legislation.gov.uk/uksi/2005/2055/regulation/1), [Sch. 2 para. 4(a)](https://www.legislation.gov.uk/uksi/2005/2055/schedule/2/paragraph/4/a)
 
-[^key-a330d3229e67759aa3c35add3f55cb7c]: Textual amendment: Word in [reg. 18(1)(g)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/18/1/g) inserted (20.8.2005) by virtue of [The Offshore Petroleum Activities (Oil Pollution Prevention and Control) Regulations 2005 (S.I. 2005/2055)](https://www.legislation.gov.uk/uksi/2005/2055), [reg. 1](https://www.legislation.gov.uk/uksi/2005/2055/regulation/1), [Sch. 2 para. 4(b)](https://www.legislation.gov.uk/uksi/2005/2055/schedule/2/paragraph/4/b)
+[^c-a330d3229e67759aa3c35add3f55cb7c]: Textual amendment: Word in [reg. 18(1)(g)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/18/1/g) inserted (20.8.2005) by virtue of [The Offshore Petroleum Activities (Oil Pollution Prevention and Control) Regulations 2005 (S.I. 2005/2055)](https://www.legislation.gov.uk/uksi/2005/2055), [reg. 1](https://www.legislation.gov.uk/uksi/2005/2055/regulation/1), [Sch. 2 para. 4(b)](https://www.legislation.gov.uk/uksi/2005/2055/schedule/2/paragraph/4/b)
 
-[^key-88e634446a9fcf7664ca1f5c5257336f]: Textual amendment: [Reg. 18(1)(h)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/18/1/h) inserted (20.8.2005) by [The Offshore Petroleum Activities (Oil Pollution Prevention and Control) Regulations 2005 (S.I. 2005/2055)](https://www.legislation.gov.uk/uksi/2005/2055), [reg. 1](https://www.legislation.gov.uk/uksi/2005/2055/regulation/1), [Sch. 2 para. 4(c)](https://www.legislation.gov.uk/uksi/2005/2055/schedule/2/paragraph/4/c)
+[^c-88e634446a9fcf7664ca1f5c5257336f]: Textual amendment: [Reg. 18(1)(h)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/18/1/h) inserted (20.8.2005) by [The Offshore Petroleum Activities (Oil Pollution Prevention and Control) Regulations 2005 (S.I. 2005/2055)](https://www.legislation.gov.uk/uksi/2005/2055), [reg. 1](https://www.legislation.gov.uk/uksi/2005/2055/regulation/1), [Sch. 2 para. 4(c)](https://www.legislation.gov.uk/uksi/2005/2055/schedule/2/paragraph/4/c)
 
-[^key-3aea3a3d601357d4a9aea4968d0439e6]: Textual amendment: [Reg. 18(2A)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/18/2A) inserted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [20(b)](https://www.legislation.gov.uk/uksi/2011/982/regulation/20/b) (with [reg. 21](https://www.legislation.gov.uk/uksi/2011/982/regulation/21))
+[^c-3aea3a3d601357d4a9aea4968d0439e6]: Textual amendment: [Reg. 18(2A)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/18/2A) inserted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [20(b)](https://www.legislation.gov.uk/uksi/2011/982/regulation/20/b) (with [reg. 21](https://www.legislation.gov.uk/uksi/2011/982/regulation/21))
 
 [^c9513811]: Marginal citation: 1878 41 & 42 Vict. c.73.
 
-[^key-982d93d806c8301a05a58cf2e7cd1f4d]: Textual amendment: [Reg. 18(9)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/18/9)[(10)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/18/10) inserted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [20(c)](https://www.legislation.gov.uk/uksi/2011/982/regulation/20/c) (with [reg. 21](https://www.legislation.gov.uk/uksi/2011/982/regulation/21))
+[^c-982d93d806c8301a05a58cf2e7cd1f4d]: Textual amendment: [Reg. 18(9)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/18/9)[(10)](https://www.legislation.gov.uk/uksi/2002/1355/regulation/18/10) inserted (30.3.2011) by [The Offshore Chemicals (Amendment) Regulations 2011 (S.I. 2011/982)](https://www.legislation.gov.uk/uksi/2011/982), [regs. 1](https://www.legislation.gov.uk/uksi/2011/982/regulation/1), [20(c)](https://www.legislation.gov.uk/uksi/2011/982/regulation/20/c) (with [reg. 21](https://www.legislation.gov.uk/uksi/2011/982/regulation/21))
 
-[^key-9d8db6f2c383c08bad242dde270f56c4]: Textual amendment: [Reg. 19](https://www.legislation.gov.uk/uksi/2002/1355/regulation/19) substituted (20.8.2005) by virtue of [The Offshore Petroleum Activities (Oil Pollution Prevention and Control) Regulations 2005 (S.I. 2005/2055)](https://www.legislation.gov.uk/uksi/2005/2055), [reg. 1](https://www.legislation.gov.uk/uksi/2005/2055/regulation/1), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2005/2055/schedule/1/paragraph/7), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2005/2055/schedule/2/paragraph/5)
+[^c-9d8db6f2c383c08bad242dde270f56c4]: Textual amendment: [Reg. 19](https://www.legislation.gov.uk/uksi/2002/1355/regulation/19) substituted (20.8.2005) by virtue of [The Offshore Petroleum Activities (Oil Pollution Prevention and Control) Regulations 2005 (S.I. 2005/2055)](https://www.legislation.gov.uk/uksi/2005/2055), [reg. 1](https://www.legislation.gov.uk/uksi/2005/2055/regulation/1), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2005/2055/schedule/1/paragraph/7), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2005/2055/schedule/2/paragraph/5)
 
-[^key-8c0bb6f16ac5460d7b7b71fbe94f454d]: Textual amendment: [Reg. 19A](https://www.legislation.gov.uk/uksi/2002/1355/regulation/19A) inserted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [9(4)](https://www.legislation.gov.uk/uksi/2016/912/regulation/9/4)
+[^c-8c0bb6f16ac5460d7b7b71fbe94f454d]: Textual amendment: [Reg. 19A](https://www.legislation.gov.uk/uksi/2002/1355/regulation/19A) inserted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [9(4)](https://www.legislation.gov.uk/uksi/2016/912/regulation/9/4)
 
-[^key-4a92aab0f58e612fc53273e4cded57a2]: Textual amendment: [Reg. 20](https://www.legislation.gov.uk/uksi/2002/1355/regulation/20) revoked (N.I.) (6.4.2011) by [The Marine Licensing (Exempted Activities) Order (Northern Ireland) 2011 (S.R. 2011/78)](https://www.legislation.gov.uk/nisr/2011/78), [arts. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1), [36(c)](https://www.legislation.gov.uk/nisr/2011/78/article/36/c)
+[^c-4a92aab0f58e612fc53273e4cded57a2]: Textual amendment: [Reg. 20](https://www.legislation.gov.uk/uksi/2002/1355/regulation/20) revoked (N.I.) (6.4.2011) by [The Marine Licensing (Exempted Activities) Order (Northern Ireland) 2011 (S.R. 2011/78)](https://www.legislation.gov.uk/nisr/2011/78), [arts. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1), [36(c)](https://www.legislation.gov.uk/nisr/2011/78/article/36/c)
 
 [^c9513821]: Marginal citation: [S.I. 1985/1699](https://www.legislation.gov.uk/uksi/1985/1699).
 

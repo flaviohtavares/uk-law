@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 289. Remote attendance at meetings and place[^key-7948fa2d8dc6aeeb7310c00008888025]
+## 289. Remote attendance at meetings and place[^c-7948fa2d8dc6aeeb7310c00008888025]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ Reference to a “venue”—
 
 ## Annotations
 
-[^key-7948fa2d8dc6aeeb7310c00008888025]: Commencement: [Rule 289](https://www.legislation.gov.uk/nisr/2026/11/rule/289) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-7948fa2d8dc6aeeb7310c00008888025]: Commencement: [Rule 289](https://www.legislation.gov.uk/nisr/2026/11/rule/289) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

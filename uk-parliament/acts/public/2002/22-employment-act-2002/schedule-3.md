@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3 — Tribunal jurisdictions to which section 31 applies[^key-429b1fecc9d7f406b5c3474fc24c88db]
+## SCHEDULE 3 — Tribunal jurisdictions to which section 31 applies[^c-429b1fecc9d7f406b5c3474fc24c88db]
 
 *Extent: E+W+S*
 
@@ -52,4 +52,4 @@ Section 31
 
 ## Annotations
 
-[^key-429b1fecc9d7f406b5c3474fc24c88db]: Textual amendment: Schs. 2-4 repealed (6.4.2009) by [Employment Act 2008 (c. 24)](https://www.legislation.gov.uk/ukpga/2008/24), [ss. 1](https://www.legislation.gov.uk/ukpga/2008/24/section/1), [22(1)(a)](https://www.legislation.gov.uk/ukpga/2008/24/section/22/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/ukpga/2008/24/schedule/part/1); [S.I. 2008/3232](https://www.legislation.gov.uk/uksi/2008/3232), [art. 2](https://www.legislation.gov.uk/uksi/2008/3232/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/3232/article/3) [Sch.](https://www.legislation.gov.uk/uksi/2008/3232/schedule))
+[^c-429b1fecc9d7f406b5c3474fc24c88db]: Textual amendment: Schs. 2-4 repealed (6.4.2009) by [Employment Act 2008 (c. 24)](https://www.legislation.gov.uk/ukpga/2008/24), [ss. 1](https://www.legislation.gov.uk/ukpga/2008/24/section/1), [22(1)(a)](https://www.legislation.gov.uk/ukpga/2008/24/section/22/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/ukpga/2008/24/schedule/part/1); [S.I. 2008/3232](https://www.legislation.gov.uk/uksi/2008/3232), [art. 2](https://www.legislation.gov.uk/uksi/2008/3232/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/3232/article/3) [Sch.](https://www.legislation.gov.uk/uksi/2008/3232/schedule))

@@ -28,7 +28,7 @@ In this Schedule—
 
 - “**airport**” means an airport which complies with the definition in the 1944 Chicago Convention setting up the International Civil Aviation Organisation (Annex 14) [^c23017041];
 - “**express road**” means a road which complies with the definition in the European Agreement on Main International Traffic Arteries of 15th November 1975 [^c23017051]; and
-- “nuclear power station” and “other nuclear reactor” do not include an installation from the site of which all nuclear fuel and other radioactive contaminated materials have been permanently removed; and development for the purpose of dismantling or decommissioning a nuclear power station or other nuclear reactor is not[^key-0c13193925a48080eca71ba4cf5165c8] to be treated as development of the description mentioned in paragraph 2(2) of this Schedule.
+- “nuclear power station” and “other nuclear reactor” do not include an installation from the site of which all nuclear fuel and other radioactive contaminated materials have been permanently removed; and development for the purpose of dismantling or decommissioning a nuclear power station or other nuclear reactor is not[^c-0c13193925a48080eca71ba4cf5165c8] to be treated as development of the description mentioned in paragraph 2(2) of this Schedule.
 
 ### 1. Descriptions of development
 
@@ -79,7 +79,7 @@ Crude‑oil refineries (excluding undertakings manufacturing only lubricants fro
 
 (2) Trading ports, piers for loading and unloading connected to land and outside ports (excluding ferry piers) which can take vessels of over 1,350 tonnes.
 
-**9.** Waste disposal installations for the incineration, chemical treatment (as defined in Annex I to Directive [2008/98/EC](https://www.legislation.gov.uk/eudr/2008/98) of the European Parliament and of the Council on waste, as last amended by[^key-5120c4bed0d82529263b501a85832c40] Directive (EU) 2018/851[^M_F_e8a3837f-af41-47f9-ab1a-c93398c25ced], under heading D9), or landfill of hazardous waste as defined in Article 3(2) of that Directive.
+**9.** Waste disposal installations for the incineration, chemical treatment (as defined in Annex I to Directive [2008/98/EC](https://www.legislation.gov.uk/eudr/2008/98) of the European Parliament and of the Council on waste, as last amended by[^c-5120c4bed0d82529263b501a85832c40] Directive (EU) 2018/851[^M_F_e8a3837f-af41-47f9-ab1a-c93398c25ced], under heading D9), or landfill of hazardous waste as defined in Article 3(2) of that Directive.
 
 **10.** Waste disposal installations for the incineration or chemical treatment (as defined in Annex I to Directive [2008/98/EC](https://www.legislation.gov.uk/eudr/2008/98) under heading D9) of non‑hazardous waste with a capacity exceeding 100 tonnes per day.
 
@@ -129,9 +129,9 @@ Crude‑oil refineries (excluding undertakings manufacturing only lubricants fro
 
 [^c23017051]: Marginal citation: Command Paper 6993.
 
-[^key-0c13193925a48080eca71ba4cf5165c8]: Textual amendment: Word in Sch. 1 inserted (6.8.2018) by [The Nuclear Reactors (Environmental Impact Assessment for Decommissioning) (Amendment) Regulations 2018 (S.I. 2018/834)](https://www.legislation.gov.uk/uksi/2018/834), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/834/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2018/834/regulation/20) (with [reg. 22](https://www.legislation.gov.uk/uksi/2018/834/regulation/22))
+[^c-0c13193925a48080eca71ba4cf5165c8]: Textual amendment: Word in Sch. 1 inserted (6.8.2018) by [The Nuclear Reactors (Environmental Impact Assessment for Decommissioning) (Amendment) Regulations 2018 (S.I. 2018/834)](https://www.legislation.gov.uk/uksi/2018/834), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/834/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2018/834/regulation/20) (with [reg. 22](https://www.legislation.gov.uk/uksi/2018/834/regulation/22))
 
-[^key-5120c4bed0d82529263b501a85832c40]: Textual amendment: Words in Sch. 1 para. 9 substituted (5.7.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 (S.I. 2018/575)](https://www.legislation.gov.uk/uksi/2018/575), [regs. 1(2)(e)](https://www.legislation.gov.uk/uksi/2018/575/regulation/1/2/e), [13](https://www.legislation.gov.uk/uksi/2018/575/regulation/13)
+[^c-5120c4bed0d82529263b501a85832c40]: Textual amendment: Words in Sch. 1 para. 9 substituted (5.7.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 (S.I. 2018/575)](https://www.legislation.gov.uk/uksi/2018/575), [regs. 1(2)(e)](https://www.legislation.gov.uk/uksi/2018/575/regulation/1/2/e), [13](https://www.legislation.gov.uk/uksi/2018/575/regulation/13)
 
 [^M_F_e8a3837f-af41-47f9-ab1a-c93398c25ced]: Textual amendment: Words in Sch. 1 para. 9 substituted (1.10.2020) by [The Waste (Circular Economy) (Amendment) Regulations 2020 (S.I. 2020/904)](https://www.legislation.gov.uk/uksi/2020/904), regs. 1(1), 22
 

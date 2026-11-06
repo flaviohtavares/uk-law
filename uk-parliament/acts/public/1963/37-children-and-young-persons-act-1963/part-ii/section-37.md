@@ -30,9 +30,9 @@ except under the authority of a licence granted by the local authority in whose 
 (2) This subsection[^c6539461] applies to—
 
 - (a) any performance in connection with which a charge is made (whether for admission or otherwise);
-- (b)[^key-74234d57126df9cfb84c3a6508341c4e] any performance in premises—
+- (b)[^c-74234d57126df9cfb84c3a6508341c4e] any performance in premises—
   - (i) which, by virtue of an authorisation (within the meaning of section 136 of the Licensing Act 2003), may be used for the supply of alcohol (within the meaning of section 14 of that Act), or
-  - (ii) which are licensed premises (within the meaning of the Licensing (Scotland) Act 2005 (asp 16)) *(Extent: S)*[^key-96868192ba66167c99ee483bfe4a7703];
+  - (ii) which are licensed premises (within the meaning of the Licensing (Scotland) Act 2005 (asp 16)) *(Extent: S)*[^c-96868192ba66167c99ee483bfe4a7703];
 - (c) any broadcast performance;
 - (d)[^c6539531][^c6539521] any performance not falling within paragraph ( *c* ) above but included in a programme service (within the meaning of the Broadcasting Act 1990);
 - (e) any performance recorded (by whatever means) with a view to its use in a broadcast or such a service or in a film intended for public exhibition;
@@ -62,9 +62,9 @@ but the Secretary of State may by regulations made by statutory instrument presc
 
 [^c6539461]: Textual amendment: Words in s. 37(2) substituted (4.8.1998) by [S.I. 1998/276](https://www.legislation.gov.uk/uksi/1998/276), [reg. 12(1)(3)](https://www.legislation.gov.uk/uksi/1998/276/regulation/12/1/3)
 
-[^key-74234d57126df9cfb84c3a6508341c4e]: Textual amendment: S. 37(2)(b) substituted (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 6 para. 32](https://www.legislation.gov.uk/ukpga/2003/17/schedule/6/paragraph/32) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2)
+[^c-74234d57126df9cfb84c3a6508341c4e]: Textual amendment: S. 37(2)(b) substituted (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 6 para. 32](https://www.legislation.gov.uk/ukpga/2003/17/schedule/6/paragraph/32) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2)
 
-[^key-96868192ba66167c99ee483bfe4a7703]: Textual amendment: Words in s. 37(2)(b)(ii) substituted (S.) (1.9.2009 at 5.00 a.m.) by [Licensing (Scotland) Act 2005 (asp 16)](https://www.legislation.gov.uk/asp/2005/16), [s. 150(2)](https://www.legislation.gov.uk/asp/2005/16/section/150/2), [Sch. 6 para. 1](https://www.legislation.gov.uk/asp/2005/16/schedule/6/paragraph/1) (with [s. 143](https://www.legislation.gov.uk/asp/2005/16/section/143)); [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)
+[^c-96868192ba66167c99ee483bfe4a7703]: Textual amendment: Words in s. 37(2)(b)(ii) substituted (S.) (1.9.2009 at 5.00 a.m.) by [Licensing (Scotland) Act 2005 (asp 16)](https://www.legislation.gov.uk/asp/2005/16), [s. 150(2)](https://www.legislation.gov.uk/asp/2005/16/section/150/2), [Sch. 6 para. 1](https://www.legislation.gov.uk/asp/2005/16/schedule/6/paragraph/1) (with [s. 143](https://www.legislation.gov.uk/asp/2005/16/section/143)); [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)
 
 [^c6539531]: Textual amendment: Para. (*d*) substituted by virtue of [Broadcasting Act 1990 (c. 42, SIF 96)](https://www.legislation.gov.uk/ukpga/1990/42), [s. 203(1)](https://www.legislation.gov.uk/ukpga/1990/42/section/203/1), [Sch. 20 para. 6](https://www.legislation.gov.uk/ukpga/1990/42/schedule/20/paragraph/6)
 

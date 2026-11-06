@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Public notice of hearing[^key-172e31a648954e25668d12aebcfe10b5]
+## 30. Public notice of hearing[^c-172e31a648954e25668d12aebcfe10b5]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-172e31a648954e25668d12aebcfe10b5]: Commencement: [Reg. 30](https://www.legislation.gov.uk/wsi/2017/544/regulation/30) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)
+[^c-172e31a648954e25668d12aebcfe10b5]: Commencement: [Reg. 30](https://www.legislation.gov.uk/wsi/2017/544/regulation/30) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)

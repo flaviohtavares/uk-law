@@ -24,7 +24,7 @@ Article 2
 
 ### PART 1 — Authorised development
 
-#### 1.[^key-beaa55c6d4e11ec242a229dd4dbe37cd]
+#### 1.[^c-beaa55c6d4e11ec242a229dd4dbe37cd]
 
 Nationally significant infrastructure projects as defined in sections 14 and 15 of the 2008 Act located in the North Sea approximately 14 kilometres and 25 kilometres to the north of the north Norfolk coast, comprising—
 
@@ -76,7 +76,7 @@ and associated development within the meaning of section 115(2) (development for
 
 *Work No. 13A*— temporary vehicular access tracks to serve Work Nos. 7A, 8A, 9A, 11A, 12A, 13A and 14A in the event of scenario 1, scenario 2 or scenario 3 or Work Nos. 7C, 8C, 9C, 10A, 11A, 12C and 14A in the event of scenario 4;
 
-*Work No. 14A*— construction compound areas to assist with the construction of Work Nos. 8A, 9A, 10A, 11A, 12A and 13A in the event of scenario 1, scenario 2 or scenario 3 or Work Nos. 8C, 9C, 10C, 11A, 12A and 13C in[^key-bf0c923f2e65f7c86b545f246a716fa5] the event of scenario 4;
+*Work No. 14A*— construction compound areas to assist with the construction of Work Nos. 8A, 9A, 10A, 11A, 12A and 13A in the event of scenario 1, scenario 2 or scenario 3 or Work Nos. 8C, 9C, 10C, 11A, 12A and 13C in[^c-bf0c923f2e65f7c86b545f246a716fa5] the event of scenario 4;
 
 *Work No. 15A*—
 
@@ -307,7 +307,7 @@ The grid coordinates for that part of the authorised development which is seawar
 
 | Point ID | Latitude (DMS) | Longitude (DMS) |
 | --- | --- | --- |
-| 1[^key-25543e4c3c197170f71540ded57c484c] | 52° 56′ 57,591″ N | 1° 8′ 23,453″ E |
+| 1[^c-25543e4c3c197170f71540ded57c484c] | 52° 56′ 57,591″ N | 1° 8′ 23,453″ E |
 | 2 | 52° 56′ 57,607″ N | 1° 8′ 23,312″ E |
 | 3 | 52° 56′ 57,696″ N | 1° 8′ 22,616″ E |
 | 4 | 52° 56′ 57,819″ N | 1° 8′ 21,510″ E |
@@ -1112,7 +1112,7 @@ The grid coordinates for that part of the authorised development which is seawar
 
 ### PART 2 — Ancillary works
 
-**1.**[^key-04aca88766d6ff314db29f8149b05006] Works within the Order limits which have been subject to an environmental assessment recorded in the environmental statement comprising—
+**1.**[^c-04aca88766d6ff314db29f8149b05006] Works within the Order limits which have been subject to an environmental assessment recorded in the environmental statement comprising—
 
 - (a) temporary landing places, moorings or other means of accommodating vessels in the construction or maintenance of the authorised development;
 - (b) temporary or permanent buoys, beacons, fenders and other navigational warning or ship impact protection works; and
@@ -1120,12 +1120,12 @@ The grid coordinates for that part of the authorised development which is seawar
 
 ## Annotations
 
-[^key-beaa55c6d4e11ec242a229dd4dbe37cd]: Commencement: Sch. 1 Pt. 1 para. 1 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)
+[^c-beaa55c6d4e11ec242a229dd4dbe37cd]: Commencement: Sch. 1 Pt. 1 para. 1 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)
 
-[^key-bf0c923f2e65f7c86b545f246a716fa5]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2024/564/schedule/1/part/1) substituted (11.12.2024) by [The Sheringham Shoal and Dudgeon Extensions Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/1338)](https://www.legislation.gov.uk/uksi/2024/1338), [art. 1](https://www.legislation.gov.uk/uksi/2024/1338/article/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2024/1338/schedule/part/1) table
+[^c-bf0c923f2e65f7c86b545f246a716fa5]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2024/564/schedule/1/part/1) substituted (11.12.2024) by [The Sheringham Shoal and Dudgeon Extensions Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/1338)](https://www.legislation.gov.uk/uksi/2024/1338), [art. 1](https://www.legislation.gov.uk/uksi/2024/1338/article/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2024/1338/schedule/part/1) table
 
 [^M_I_fa354394-ea83-4285-e0ec-4fd5f9164518]: Commencement: Sch. 1 Pt. 1 para. 2 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)
 
-[^key-25543e4c3c197170f71540ded57c484c]: Textual amendment: [Sch. 1 Pt. 1 para. 2](https://www.legislation.gov.uk/uksi/2024/564/schedule/1/part/1/paragraph/2) table substituted (11.12.2024) by [The Sheringham Shoal and Dudgeon Extensions Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/1338)](https://www.legislation.gov.uk/uksi/2024/1338), [art. 1](https://www.legislation.gov.uk/uksi/2024/1338/article/1), [Sch. Pt. 2 para. 1](https://www.legislation.gov.uk/uksi/2024/1338/schedule/part/2/paragraph/1) table
+[^c-25543e4c3c197170f71540ded57c484c]: Textual amendment: [Sch. 1 Pt. 1 para. 2](https://www.legislation.gov.uk/uksi/2024/564/schedule/1/part/1/paragraph/2) table substituted (11.12.2024) by [The Sheringham Shoal and Dudgeon Extensions Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/1338)](https://www.legislation.gov.uk/uksi/2024/1338), [art. 1](https://www.legislation.gov.uk/uksi/2024/1338/article/1), [Sch. Pt. 2 para. 1](https://www.legislation.gov.uk/uksi/2024/1338/schedule/part/2/paragraph/1) table
 
-[^key-04aca88766d6ff314db29f8149b05006]: Commencement: Sch. 1 Pt. 2 para. 1 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)
+[^c-04aca88766d6ff314db29f8149b05006]: Commencement: Sch. 1 Pt. 2 para. 1 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)

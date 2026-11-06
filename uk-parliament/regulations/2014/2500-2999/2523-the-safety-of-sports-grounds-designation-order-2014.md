@@ -32,7 +32,7 @@ summary: ''
 
 Sports Grounds And Sporting Events, England And Wales
 
-The Safety of Sports Grounds (Designation) Order 2014 (revoked)[^key-cdf5795d2ab4e29eb0dc07a2eb27d9cd]
+The Safety of Sports Grounds (Designation) Order 2014 (revoked)[^c-cdf5795d2ab4e29eb0dc07a2eb27d9cd]
 
 Made
 
@@ -46,23 +46,23 @@ Coming into force
 
 10th October 2014
 
-[^key-cdf5795d2ab4e29eb0dc07a2eb27d9cd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cdf5795d2ab4e29eb0dc07a2eb27d9cd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and Commencement[^key-cdf5795d2ab4e29eb0dc07a2eb27d9cd]
+## 1. Citation and Commencement[^c-cdf5795d2ab4e29eb0dc07a2eb27d9cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Designation[^key-cdf5795d2ab4e29eb0dc07a2eb27d9cd]
+## 2. Designation[^c-cdf5795d2ab4e29eb0dc07a2eb27d9cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cdf5795d2ab4e29eb0dc07a2eb27d9cd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cdf5795d2ab4e29eb0dc07a2eb27d9cd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-cdf5795d2ab4e29eb0dc07a2eb27d9cd]
+## SCHEDULE[^c-cdf5795d2ab4e29eb0dc07a2eb27d9cd]
 
 Article 2
 
@@ -70,8 +70,8 @@ Article 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-cdf5795d2ab4e29eb0dc07a2eb27d9cd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cdf5795d2ab4e29eb0dc07a2eb27d9cd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cdf5795d2ab4e29eb0dc07a2eb27d9cd]: Textual amendment: Order revoked (1.10.2015) by [The Safety of Sports Grounds (Designation) Order 2015 (S.I. 2015/661)](https://www.legislation.gov.uk/uksi/2015/661), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/661/article/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2015/661/schedule/3)
+[^c-cdf5795d2ab4e29eb0dc07a2eb27d9cd]: Textual amendment: Order revoked (1.10.2015) by [The Safety of Sports Grounds (Designation) Order 2015 (S.I. 2015/661)](https://www.legislation.gov.uk/uksi/2015/661), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/661/article/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2015/661/schedule/3)

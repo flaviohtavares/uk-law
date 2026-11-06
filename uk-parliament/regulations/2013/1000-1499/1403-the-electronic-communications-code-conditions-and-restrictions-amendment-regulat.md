@@ -48,19 +48,19 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 In accordance with section 109(4) of the Act the Secretary of State has consulted Ofcom and such other persons as she considers appropriate.
 
-## 1. Citation andcommencement[^key-2cd2fffff296a0da466d2054fe0adead]
+## 1. Citation andcommencement[^c-2cd2fffff296a0da466d2054fe0adead]
 
 These Regulations may be cited as the Electronic Communications Code (Conditions and Restrictions) (Amendment) Regulations 2013 and come into force on 27th June 2013.
 
-## 2. Amendments[^key-3379baf9f73c837b43f0a3315196904e]
+## 2. Amendments[^c-3379baf9f73c837b43f0a3315196904e]
 
 The Electronic Communications Code (Conditions and Restrictions) Regulations 2003[^f00002] are amended as set out in the Schedule.
 
-## 3. Expiry and Transitional provisions[^key-a39b9461aaf7f4f2fd85eefef70c106d]
+## 3. Expiry and Transitional provisions[^c-a39b9461aaf7f4f2fd85eefef70c106d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Interpretation[^key-f24dc51c240d325b688977a8e949d407]
+## 4. Interpretation[^c-f24dc51c240d325b688977a8e949d407]
 
 In these Regulations—
 
@@ -81,7 +81,7 @@ Department for Culture, Media and Sport
 
 Regulation 2
 
-**1.**[^key-fe71cdcbaca3fa482c097a174d811e78] In regulation 2(2) (interpretation)—
+**1.**[^c-fe71cdcbaca3fa482c097a174d811e78] In regulation 2(2) (interpretation)—
 
 - (a) in the definition of “area of special scientific interest”–
   - (i) for “Great Britain” substitute “England and Wales”;
@@ -120,7 +120,7 @@ Regulation 2
 
   .
 
-**2.**[^key-826bb5fa6ffac25869ce8c905327160b] In regulation 4 (lines)—
+**2.**[^c-826bb5fa6ffac25869ce8c905327160b] In regulation 4 (lines)—
 
 - (a) in paragraph (1)(d) delete “or”
 - (b) after paragraph (1)(d) insert–
@@ -129,7 +129,7 @@ Regulation 2
 
   .
 
-**3.**[^key-74e5549b670fc410395faa95d733756e] In regulation 5 (installation of electronic communications apparatus)—
+**3.**[^c-74e5549b670fc410395faa95d733756e] In regulation 5 (installation of electronic communications apparatus)—
 
 - (a) for paragraph (1)(a) substitute–
 
@@ -155,9 +155,9 @@ Regulation 2
 
   .
 
-**4.**[^key-02f1e2f4ab834938dfd4b9d57188eeae] In paragraph (1) of regulation 6 (conservation areas) after “paragraph (2)” insert “or regulation 6A”.
+**4.**[^c-02f1e2f4ab834938dfd4b9d57188eeae] In paragraph (1) of regulation 6 (conservation areas) after “paragraph (2)” insert “or regulation 6A”.
 
-**5.**[^key-6492791795522c40d313d7b6070f6459] After regulation 6 (conservation areas), insert–
+**5.**[^c-6492791795522c40d313d7b6070f6459] After regulation 6 (conservation areas), insert–
 
 > **6A.** (1) Electronic communications apparatus installed by a code operator in a conservation area is not required to be installed underground where—
 >
@@ -170,13 +170,13 @@ Regulation 2
 
 .
 
-**6.**[^key-e887d301ee0209b4f51d65a9bb867298] In regulation 7 (listed buildings and ancient monuments), in paragraph (1) before “code operator may install” for “A” substitute–
+**6.**[^c-e887d301ee0209b4f51d65a9bb867298] In regulation 7 (listed buildings and ancient monuments), in paragraph (1) before “code operator may install” for “A” substitute–
 
 > - Subject to regulation 7A, a
 
 .
 
-**7.**[^key-7e492e7bbaf4aecaca7b872524b25e3c] After regulation 7 (listed buildings and ancient monuments), insert–
+**7.**[^c-7e492e7bbaf4aecaca7b872524b25e3c] After regulation 7 (listed buildings and ancient monuments), insert–
 
 > **7A.** (1) A code operator may install fixed-line broadband lines, fixed-line broadband cabinets, and fixed-line broadband poles in proximity to, or in the case of a fixed-line broadband service line affixed to, a building shown as grade 1 or category A in the statutory list of buildings only if the code operator gives one month’s notice in writing to the planning authority.
 >
@@ -186,7 +186,7 @@ Regulation 2
 
 .
 
-**8.**[^key-7a08fde544d45055e9416d1c4dc8c114] In regulation 8 (protected areas) after paragraph (5) insert–
+**8.**[^c-7a08fde544d45055e9416d1c4dc8c114] In regulation 8 (protected areas) after paragraph (5) insert–
 
 > (6) This regulation does not apply to fixed-line broadband electronic communications apparatus–
 >
@@ -195,7 +195,7 @@ Regulation 2
 
 .
 
-**9.**[^key-e540478aefb08cb0a2106422f98c996f] After regulation 8 (protected areas), insert–
+**9.**[^c-e540478aefb08cb0a2106422f98c996f] After regulation 8 (protected areas), insert–
 
 > **8A.** (1) When a code operator intends to install fixed-line broadband lines, fixed-line broadband cabinets or fixed-line broadband poles in—
 >
@@ -239,19 +239,19 @@ An impact assessment has been prepared in relation to these Regulations. With th
 
 [^f00001]: Footnote: [2003 c.21](https://www.legislation.gov.uk/ukpga/2003/21). Section 109 was amended by section 9 of the Growth and Infrastructure Act [2013 (c.27)](https://www.legislation.gov.uk/ukpga/2013/27).
 
-[^key-2cd2fffff296a0da466d2054fe0adead]: Commencement: Reg. 1 in force at 27.6.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1403/regulation/1)
+[^c-2cd2fffff296a0da466d2054fe0adead]: Commencement: Reg. 1 in force at 27.6.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1403/regulation/1)
 
-[^key-3379baf9f73c837b43f0a3315196904e]: Commencement: Reg. 2 in force at 27.6.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1403/regulation/1)
+[^c-3379baf9f73c837b43f0a3315196904e]: Commencement: Reg. 2 in force at 27.6.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1403/regulation/1)
 
 [^f00002]: Footnote: [S.I. 2003/2533](https://www.legislation.gov.uk/uksi/2003/2533), as amended by [S.I. 2009/584](https://www.legislation.gov.uk/uksi/2009/584).
 
-[^key-a39b9461aaf7f4f2fd85eefef70c106d]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2013/1403/regulation/3) omitted (7.8.2017) by virtue of [The Electronic Communications Code (Conditions and Restrictions) (Amendment) Regulations 2017 (S.I. 2017/753)](https://www.legislation.gov.uk/uksi/2017/753), [regs. 1](https://www.legislation.gov.uk/uksi/2017/753/regulation/1), [7](https://www.legislation.gov.uk/uksi/2017/753/regulation/7)
+[^c-a39b9461aaf7f4f2fd85eefef70c106d]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2013/1403/regulation/3) omitted (7.8.2017) by virtue of [The Electronic Communications Code (Conditions and Restrictions) (Amendment) Regulations 2017 (S.I. 2017/753)](https://www.legislation.gov.uk/uksi/2017/753), [regs. 1](https://www.legislation.gov.uk/uksi/2017/753/regulation/1), [7](https://www.legislation.gov.uk/uksi/2017/753/regulation/7)
 
-[^key-f24dc51c240d325b688977a8e949d407]: Commencement: Reg. 4 in force at 27.6.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1403/regulation/1)
+[^c-f24dc51c240d325b688977a8e949d407]: Commencement: Reg. 4 in force at 27.6.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1403/regulation/1)
 
 [^f00003]: Footnote: [1984 c.12](https://www.legislation.gov.uk/ukpga/1984/12).
 
-[^key-fe71cdcbaca3fa482c097a174d811e78]: Commencement: Sch. para. 1 in force at 27.6.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1403/regulation/1)
+[^c-fe71cdcbaca3fa482c097a174d811e78]: Commencement: Sch. para. 1 in force at 27.6.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1403/regulation/1)
 
 [^f00004]: Footnote: Section 28 of the Wildlife and Countryside Act [1981 (c.69)](https://www.legislation.gov.uk/ukpga/1981/69) was repealed as respects Scotland by the [Nature Conservation (Scotland) Act 2004](https://www.legislation.gov.uk/asp/2004/6), Schedule 7, paragraph 4 ([asp 6](https://www.legislation.gov.uk/asp/2004/6)).
 
@@ -259,18 +259,18 @@ An impact assessment has been prepared in relation to these Regulations. With th
 
 [^f00006]: Footnote: Section 36(1) of the Wildlife and Countryside Act 1981 (marine nature reserves) was repealed by the Marine (Scotland) Act [2010 (asp 5)](https://www.legislation.gov.uk/asp/2010/5), Schedule 4(2), paragraph 5(b) in relation to Scotland, and by the Marine and Coastal Access Act [2009 (c.23)](https://www.legislation.gov.uk/ukpga/2009/23), Schedule 22, Part 3 in relation to England and Wales. The repeal has not yet been brought into force in relation to Wales.
 
-[^key-826bb5fa6ffac25869ce8c905327160b]: Commencement: Sch. para. 2 in force at 27.6.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1403/regulation/1)
+[^c-826bb5fa6ffac25869ce8c905327160b]: Commencement: Sch. para. 2 in force at 27.6.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1403/regulation/1)
 
-[^key-74e5549b670fc410395faa95d733756e]: Commencement: Sch. para. 3 in force at 27.6.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1403/regulation/1)
+[^c-74e5549b670fc410395faa95d733756e]: Commencement: Sch. para. 3 in force at 27.6.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1403/regulation/1)
 
-[^key-02f1e2f4ab834938dfd4b9d57188eeae]: Commencement: Sch. para. 4 in force at 27.6.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1403/regulation/1)
+[^c-02f1e2f4ab834938dfd4b9d57188eeae]: Commencement: Sch. para. 4 in force at 27.6.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1403/regulation/1)
 
-[^key-6492791795522c40d313d7b6070f6459]: Commencement: Sch. para. 5 in force at 27.6.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1403/regulation/1)
+[^c-6492791795522c40d313d7b6070f6459]: Commencement: Sch. para. 5 in force at 27.6.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1403/regulation/1)
 
-[^key-e887d301ee0209b4f51d65a9bb867298]: Commencement: Sch. para. 6 in force at 27.6.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1403/regulation/1)
+[^c-e887d301ee0209b4f51d65a9bb867298]: Commencement: Sch. para. 6 in force at 27.6.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1403/regulation/1)
 
-[^key-7e492e7bbaf4aecaca7b872524b25e3c]: Commencement: Sch. para. 7 in force at 27.6.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1403/regulation/1)
+[^c-7e492e7bbaf4aecaca7b872524b25e3c]: Commencement: Sch. para. 7 in force at 27.6.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1403/regulation/1)
 
-[^key-7a08fde544d45055e9416d1c4dc8c114]: Commencement: Sch. para. 8 in force at 27.6.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1403/regulation/1)
+[^c-7a08fde544d45055e9416d1c4dc8c114]: Commencement: Sch. para. 8 in force at 27.6.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1403/regulation/1)
 
-[^key-e540478aefb08cb0a2106422f98c996f]: Commencement: Sch. para. 9 in force at 27.6.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1403/regulation/1)
+[^c-e540478aefb08cb0a2106422f98c996f]: Commencement: Sch. para. 9 in force at 27.6.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1403/regulation/1)

@@ -24,7 +24,7 @@ Regulations 3, 44, 45,144 and 180
 
 ### PART 1 — General
 
-#### 1. Interpretation of Schedule[^key-e64596aa4f4f63e598a35f501d691afb]
+#### 1. Interpretation of Schedule[^c-e64596aa4f4f63e598a35f501d691afb]
 
 This Schedule—
 
@@ -55,7 +55,7 @@ This Schedule—
   - (a) for contributions paid by lump sum, means the date on which the scheme manager receives the lump sum; and
   - (b) for monthly payments, means the first day of the second month after the month in which the election is accepted.
 
-#### 2. Meaning of “amount of extra pension”[^key-72475cf3046e0c4ae91c78ebcec06fb5]
+#### 2. Meaning of “amount of extra pension”[^c-72475cf3046e0c4ae91c78ebcec06fb5]
 
 The amount of extra pension for a person (P) at any given time is the sum of the following—
 
@@ -63,7 +63,7 @@ The amount of extra pension for a person (P) at any given time is the sum of the
 - (b) the amount of accrued additional pension (if any) at that time;
 - (c) the buy-out value at that time, if P has elected to buy out the standard reduction.
 
-#### 3. Meaning of “overall amount of extra pension”[^key-3de3b083f1e08e3755f2b53ced7bfaa1]
+#### 3. Meaning of “overall amount of extra pension”[^c-3de3b083f1e08e3755f2b53ced7bfaa1]
 
 (1) The overall amount of extra pension is—
 
@@ -72,12 +72,12 @@ The amount of extra pension for a person (P) at any given time is the sum of the
   - (i) an amount determined by the Treasury for that financial year; or
   - (ii) if the Treasury has not determined an amount for that financial year, the amount calculated under sub-paragraph (2).
 
-(2) If the Treasury has not determined an amount under sub-paragraph (1)(b)(i) for any financial year, the overall amount for that financial year is the amount to which the annual rate of a pension of an amount equal to the overall amount for the previous financial year would have been increased under PIA 1971 rounded to the nearest £100[^key-c0398d3c307d0a3efc4003c701b38b5a] if—
+(2) If the Treasury has not determined an amount under sub-paragraph (1)(b)(i) for any financial year, the overall amount for that financial year is the amount to which the annual rate of a pension of an amount equal to the overall amount for the previous financial year would have been increased under PIA 1971 rounded to the nearest £100[^c-c0398d3c307d0a3efc4003c701b38b5a] if—
 
 - (a) that pension were eligible to be so increased; and
 - (b) the beginning date for that pension were the first day of the previous financial year.
 
-#### 4. Limit on elections[^key-10a7762556c70385baf50b69ac9f3d99]
+#### 4. Limit on elections[^c-10a7762556c70385baf50b69ac9f3d99]
 
 (1) The scheme manager must not accept an additional pension election or a faster accrual election in relation to a member (P) at any time if—
 
@@ -86,7 +86,7 @@ The amount of extra pension for a person (P) at any given time is the sum of the
 
 (2) The scheme manager must not accept an additional pension election or a faster accrual election that would result in the amount of extra pension exceeding the overall amount of extra pension.
 
-#### 5. Actuarial advice[^key-82ab6ceb48a5a93578b2d03df7b8c5e7]
+#### 5. Actuarial advice[^c-82ab6ceb48a5a93578b2d03df7b8c5e7]
 
 The scheme manager must take advice from the scheme actuary before determining any amount under this Part.
 
@@ -94,7 +94,7 @@ The scheme manager must take advice from the scheme actuary before determining a
 
 #### CHAPTER 1 — Making an additional pension election
 
-##### 6. Election to pay contributions for additional pension[^key-adbd17bb0d8050e6cfb4b33d625d6714]
+##### 6. Election to pay contributions for additional pension[^c-adbd17bb0d8050e6cfb4b33d625d6714]
 
 (1) A member (P), or P’s employer with the consent of P, may elect to pay contributions for an additional pension in respect of P (“additional pension election”).
 
@@ -105,20 +105,20 @@ The scheme manager must take advice from the scheme actuary before determining a
   - (ii) an additional (self only) pension and an additional (surviving adult) pension; and
 - (b) specify the annual rate of additional (self only) pension to be paid with P’s retirement pension.
 
-##### 7. Annual rate of additional (self only) pension[^key-be7e3363f87eb97717c55c6c114ba495]
+##### 7. Annual rate of additional (self only) pension[^c-be7e3363f87eb97717c55c6c114ba495]
 
 The annual rate of additional (self only) pension specified in an additional pension election must be a multiple of—
 
 - (a) £250; or
 - (b) any other amount determined by the scheme manager.
 
-##### 8. Lump sum or monthly payments[^key-3d0f7c418c0810c10edd2525df3f6455]
+##### 8. Lump sum or monthly payments[^c-3d0f7c418c0810c10edd2525df3f6455]
 
 (1) An employer’s contributions for additional pension must be made by lump sum.
 
 (2) A member’s additional pension contributions may be paid by lump sum or by monthly payments.
 
-##### 9. Making an additional pension election[^key-1fa5af7c4dcc4b860dba0ee7f58560ff]
+##### 9. Making an additional pension election[^c-1fa5af7c4dcc4b860dba0ee7f58560ff]
 
 (1) An additional pension election in relation to a member (P)—
 
@@ -142,7 +142,7 @@ The annual rate of additional (self only) pension specified in an additional pen
 
 (5) The scheme manager may request further information to be provided.
 
-##### 10. Accepting an additional pension election[^key-88c48ae98fff92be7aecbe757a45ffbd]
+##### 10. Accepting an additional pension election[^c-88c48ae98fff92be7aecbe757a45ffbd]
 
 (1) The scheme manager may accept an additional pension election by giving written notice to the person who made the election (P).
 
@@ -150,7 +150,7 @@ The annual rate of additional (self only) pension specified in an additional pen
 
 #### CHAPTER 2 — Amount of additional pension contributions
 
-##### 11. Determination of contributions payable[^key-9fe1c8a296ad62af3412bbaa35b71194]
+##### 11. Determination of contributions payable[^c-9fe1c8a296ad62af3412bbaa35b71194]
 
 (1) The scheme manager must determine the amount to be paid as a lump sum or as a monthly payment.
 
@@ -172,7 +172,7 @@ The annual rate of additional (self only) pension specified in an additional pen
 
 #### CHAPTER 3 — Additional pension contributions paid by lump sum
 
-##### 12. Lump sum contributions: payment of contributions and credit of additional pension[^key-5f7b9559bf80d9857c512f83e806bbc1]
+##### 12. Lump sum contributions: payment of contributions and credit of additional pension[^c-5f7b9559bf80d9857c512f83e806bbc1]
 
 (1) This paragraph applies to a member—
 
@@ -183,7 +183,7 @@ The annual rate of additional (self only) pension specified in an additional pen
 
 (3) The member’s additional pension account is not to be credited with the amount of additional pension unless the lump sum contribution is paid within that time.
 
-##### 13. Refund of lump sum contribution[^key-bc9485722528ffe60ca0a042d52bae6b]
+##### 13. Refund of lump sum contribution[^c-bc9485722528ffe60ca0a042d52bae6b]
 
 (1) This paragraph applies if a member (P) has paid a lump sum contribution for additional pension.
 
@@ -195,14 +195,14 @@ The annual rate of additional (self only) pension specified in an additional pen
 
 #### CHAPTER 4 — Additional pension contributions by monthly payments
 
-##### 14. Application of Chapter[^key-161b2faf53f92be9800ae5ed729a9e9d]
+##### 14. Application of Chapter[^c-161b2faf53f92be9800ae5ed729a9e9d]
 
 This Chapter applies to a member (P)—
 
 - (a) in respect of whom an additional pension election is accepted; and
 - (b) whose notice of election states that contributions are to be paid by monthly payments.
 
-##### 15. Payment of contributions[^key-3ba847836b0c5a098f025a7e13d800af]
+##### 15. Payment of contributions[^c-3ba847836b0c5a098f025a7e13d800af]
 
 (1) P must—
 
@@ -218,7 +218,7 @@ This Chapter applies to a member (P)—
 - (a) a monthly payment is missed; and
 - (b) the payment is not made within 3 months after P receives a written demand from the scheme manager.
 
-##### 16. Member leaves all pensionable service before end of contributions payment period[^key-743827ee3ec9095356ab81c90f529929]
+##### 16. Member leaves all pensionable service before end of contributions payment period[^c-743827ee3ec9095356ab81c90f529929]
 
 (1) This paragraph applies if P leaves all pensionable service before the end of the contributions payment period.
 
@@ -234,7 +234,7 @@ This Chapter applies to a member (P)—
 - (a) during the one-month period, P begins a period of non-pensionable sick leave; and
 - (b) during the period of non-pensionable sick leave, an ill-health pension becomes payable to P.
 
-##### 17. Retirement pension (other than ill health pension) becomes payable before end of contributions payment period[^key-33f487f6146b2ad24ede88ee4bef74b2]
+##### 17. Retirement pension (other than ill health pension) becomes payable before end of contributions payment period[^c-33f487f6146b2ad24ede88ee4bef74b2]
 
 (1) This paragraph applies if any of the following retirement pensions becomes payable to a member (P) before the end of the contributions payment period—
 
@@ -250,7 +250,7 @@ This Chapter applies to a member (P)—
 
 #### CHAPTER 5 — Revocation and refund
 
-##### 18. Revoking an additional pension election[^key-70912322f541e875b228fdfccdd25624]
+##### 18. Revoking an additional pension election[^c-70912322f541e875b228fdfccdd25624]
 
 (1) P may revoke an additional pension election at any time before the end of the contributions payment period.
 
@@ -268,7 +268,7 @@ This Chapter applies to a member (P)—
 
 (5) A revocation has effect from the date it is received by the scheme manager (“date of revocation”).
 
-##### 19. Ill health pension becomes payable before end of contributions payment period[^key-9882749ceb6a95b617eb46529c85193c]
+##### 19. Ill health pension becomes payable before end of contributions payment period[^c-9882749ceb6a95b617eb46529c85193c]
 
 (1) This regulation applies if an ill-health pension becomes payable to a member (P) before the end of the contributions payment period for an additional pension election.
 
@@ -288,7 +288,7 @@ This Chapter applies to a member (P)—
 
 (4) If P re-enters pensionable service when an ill health pension ceases to be payable under regulation 111, P may choose to resume the monthly payments.
 
-##### 20. Death in service before end of contributions payment period[^key-1ba7a0ab525dedec5a6a7d6e08e2de3e]
+##### 20. Death in service before end of contributions payment period[^c-1ba7a0ab525dedec5a6a7d6e08e2de3e]
 
 (1) This paragraph applies on the death of a member (D)—
 
@@ -307,7 +307,7 @@ This Chapter applies to a member (P)—
   - (i) if the declaration that accompanied the additional pension election was made in good faith, the amount of accrued additional pension calculated under regulation 44 or 45 as at the day of D’s death; or
   - (ii) if that declaration was not made in good faith, an amount determined by the scheme manager having regard to the contributions paid or treated as being paid.
 
-##### 21. Member leaves all pensionable service before qualifying for retirement benefits[^key-d294669e18cf1fbce8d3640e286854b7]
+##### 21. Member leaves all pensionable service before qualifying for retirement benefits[^c-d294669e18cf1fbce8d3640e286854b7]
 
 If a member (P) leaves all pensionable service before P is qualified for retirement benefits in respect of that service—
 
@@ -318,7 +318,7 @@ If a member (P) leaves all pensionable service before P is qualified for retirem
 
 #### CHAPTER 1 — Making the election
 
-##### 22. Faster accrual election[^key-e9f0f4c83c27dbc85d27f98e7b07a8d9]
+##### 22. Faster accrual election[^c-e9f0f4c83c27dbc85d27f98e7b07a8d9]
 
 (1) A member (P) may elect, in relation to pensionable service in an eligible employment, to pay contributions to accrue earned pension at a faster accrual rate in a financial year (“faster accrual election”).
 
@@ -339,7 +339,7 @@ If a member (P) leaves all pensionable service before P is qualified for retirem
 - (a) in pensionable service; and
 - (b) under normal pension age.
 
-##### 23. Making a faster accrual election[^key-312cce0ecaae7547c903593b3fe815a1]
+##### 23. Making a faster accrual election[^c-312cce0ecaae7547c903593b3fe815a1]
 
 (1) A faster accrual election must be made by written notice to the scheme manager.
 
@@ -352,7 +352,7 @@ If a member (P) leaves all pensionable service before P is qualified for retirem
 
 (3) The scheme manager may request further information to be provided.
 
-##### 24. Accepting a faster accrual election[^key-e03a69fe2fdbac7d08fe50936e56e0c3]
+##### 24. Accepting a faster accrual election[^c-e03a69fe2fdbac7d08fe50936e56e0c3]
 
 The scheme manager may accept a faster accrual election by giving written notice to—
 
@@ -363,11 +363,11 @@ The scheme manager may accept a faster accrual election by giving written notice
 
 #### CHAPTER 2 — Payment of contributions
 
-##### 25. Determination of contributions payable[^key-ccaa7e18538af71529d62ffbb021fdda]
+##### 25. Determination of contributions payable[^c-ccaa7e18538af71529d62ffbb021fdda]
 
 The scheme manager must determine the amount of the monthly payment to be paid in respect of a faster accrual election.
 
-##### 26. Payment of contributions[^key-09b31d002d4656939c3b369581b79dab]
+##### 26. Payment of contributions[^c-09b31d002d4656939c3b369581b79dab]
 
 (1) A member (P)—
 
@@ -383,7 +383,7 @@ The scheme manager must determine the amount of the monthly payment to be paid i
 
 #### CHAPTER 3 — Revocation and refund
 
-##### 27. Revoking a faster accrual election[^key-62731b36ab2859c1d8fe12e76552e85a]
+##### 27. Revoking a faster accrual election[^c-62731b36ab2859c1d8fe12e76552e85a]
 
 (1) A member (P) may revoke a faster accrual election at any time before the end of the contributions payment period.
 
@@ -403,7 +403,7 @@ The scheme manager must determine the amount of the monthly payment to be paid i
 
 (6) A revocation has effect from the date it is received by the scheme manager (“date of revocation”).
 
-##### 28. Member leaves all pensionable service before qualifying for retirement benefits[^key-db401980a5f94d234dd855d4b9f1649b]
+##### 28. Member leaves all pensionable service before qualifying for retirement benefits[^c-db401980a5f94d234dd855d4b9f1649b]
 
 (1) This paragraph applies if a member (P) leaves all pensionable service before qualifying for retirement benefits in respect of that service.
 
@@ -413,13 +413,13 @@ The scheme manager must determine the amount of the monthly payment to be paid i
 
 #### CHAPTER 1 — General
 
-##### 29. When the standard reduction applies[^key-33f178e138d666ad627a3162c2f4c05a]
+##### 29. When the standard reduction applies[^c-33f178e138d666ad627a3162c2f4c05a]
 
 (1) The standard reduction applies in respect of a member (P) to a maximum of 3 years from age 65 to P’s normal pension age (“the maximum”).
 
 (2) If a retirement pension becomes payable to P on or after P reaches 65, the standard reduction applies to a proportion of the time left until P reaches normal pension age, as determined by the scheme manager.
 
-##### 30. Determination of the buy-out value[^key-4829ab3f78e33c20aa149768eeb31c2e]
+##### 30. Determination of the buy-out value[^c-4829ab3f78e33c20aa149768eeb31c2e]
 
 (1) The buy-out value is an amount determined by the scheme manager.
 
@@ -430,9 +430,9 @@ The scheme manager must determine the amount of the monthly payment to be paid i
 
 #### CHAPTER 2 — Making a buy-out election
 
-##### 31. Eligible to make buy-out election[^key-55b186fe1376d15b3ed607805424f2ca]
+##### 31. Eligible to make buy-out election[^c-55b186fe1376d15b3ed607805424f2ca]
 
-(1) A member (P) who has a normal pension age over 65 may elect to pay contributions to buy out the standard reduction (“buy-out election”) for a period of up to 3 years insofar as this relates to P’s—[^key-ce614d606f5502eefac2d6746512e0bc]
+(1) A member (P) who has a normal pension age over 65 may elect to pay contributions to buy out the standard reduction (“buy-out election”) for a period of up to 3 years insofar as this relates to P’s—[^c-ce614d606f5502eefac2d6746512e0bc]
 
 - (a) standard earned pension; and
 - (b) faster accrual earned pension (if any).
@@ -445,7 +445,7 @@ The scheme manager must determine the amount of the monthly payment to be paid i
 - (b) a retirement pension other than a phased retirement pension becomes payable to P;
 - (c) P revokes the election or is taken to revoke the election.
 
-(4)[^key-7f2189eac9172075c200f761540bc586] A buy-out election may only be made within 6 months after P enters pensionable service under this scheme.
+(4)[^c-7f2189eac9172075c200f761540bc586] A buy-out election may only be made within 6 months after P enters pensionable service under this scheme.
 
 (5) When making a buy-out election, P must be—
 
@@ -454,7 +454,7 @@ The scheme manager must determine the amount of the monthly payment to be paid i
 
 (6) P may by written notice to the scheme manager vary a buy-out election if P’s normal pension age changes before a retirement pension becomes payable to P.
 
-##### 32. Making a buy-out election[^key-3c4aa60543332969addc00d674b3ec3b]
+##### 32. Making a buy-out election[^c-3c4aa60543332969addc00d674b3ec3b]
 
 (1) A buy-out election made by a member (P) must state the number of years in respect of which the standard reduction is to be bought out.
 
@@ -471,7 +471,7 @@ The scheme manager must determine the amount of the monthly payment to be paid i
 
 (4) The scheme manager may ask P to provide further information.
 
-##### 33. Accepting a buy-out election[^key-7ebfaea0f9ab7202182196e18a8fb5d5]
+##### 33. Accepting a buy-out election[^c-7ebfaea0f9ab7202182196e18a8fb5d5]
 
 (1) The scheme manager may accept a buy-out election by giving written notice to the person who made the election (P).
 
@@ -481,7 +481,7 @@ The scheme manager must determine the amount of the monthly payment to be paid i
 
 #### CHAPTER 3 — Payment of buy-out contributions
 
-##### 34. Determination of contributions payable[^key-52661d2d34026fae4c6f273685d62b69]
+##### 34. Determination of contributions payable[^c-52661d2d34026fae4c6f273685d62b69]
 
 (1) The scheme manager must determine the amount of the monthly payments to be paid in respect of a buy-out election.
 
@@ -492,7 +492,7 @@ The scheme manager must determine the amount of the monthly payment to be paid i
 
 (3) Unless the scheme manager re-determines the amount, monthly payments following a gap in service not exceeding 5 years are the same as before the gap.
 
-##### 35. Payment of buy-out contributions[^key-b7be8f925901c419c1c537ca09fc4fbd]
+##### 35. Payment of buy-out contributions[^c-b7be8f925901c419c1c537ca09fc4fbd]
 
 (1) P must—
 
@@ -508,7 +508,7 @@ The scheme manager must determine the amount of the monthly payment to be paid i
 - (a) a monthly payment is missed; and
 - (b) the payment is not made within 3 months after P receives a written demand from the scheme manager.
 
-##### 36. Monthly payments during gap in service[^key-536f7ef09d06626d9c01da521d9f2957]
+##### 36. Monthly payments during gap in service[^c-536f7ef09d06626d9c01da521d9f2957]
 
 (1) A member (P) who has a gap in service during the contributions payment period may choose to resume monthly payments on re-entering pensionable service.
 
@@ -516,7 +516,7 @@ The scheme manager must determine the amount of the monthly payment to be paid i
 
 #### CHAPTER 4 — Revocation and refund
 
-##### 37. Revoking a buy-out election[^key-40e70caf19eb09cfb376dba4a14c4be8]
+##### 37. Revoking a buy-out election[^c-40e70caf19eb09cfb376dba4a14c4be8]
 
 (1) A member (P) may revoke a buy-out election at any time before the end of the contributions payment period.
 
@@ -536,7 +536,7 @@ The scheme manager must determine the amount of the monthly payment to be paid i
 
 (6) A revocation has effect from the date it is received by the scheme manager (“date of revocation”).
 
-##### 38. Member leaves all pensionable service before qualifying for retirement benefits[^key-14ec1475f4e0da444a51c8ec7d2d1d55]
+##### 38. Member leaves all pensionable service before qualifying for retirement benefits[^c-14ec1475f4e0da444a51c8ec7d2d1d55]
 
 (1) This paragraph applies if a member (P) leaves all pensionable service under this scheme before qualifying for retirement benefits in respect of that service.
 
@@ -544,84 +544,84 @@ The scheme manager must determine the amount of the monthly payment to be paid i
 
 ## Annotations
 
-[^key-e64596aa4f4f63e598a35f501d691afb]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/1) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-e64596aa4f4f63e598a35f501d691afb]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/1) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
 
-[^key-72475cf3046e0c4ae91c78ebcec06fb5]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/2) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-72475cf3046e0c4ae91c78ebcec06fb5]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/2) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
 
-[^key-3de3b083f1e08e3755f2b53ced7bfaa1]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/3) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-3de3b083f1e08e3755f2b53ced7bfaa1]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/3) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
 
-[^key-c0398d3c307d0a3efc4003c701b38b5a]: Textual amendment: Words in [sch. 2 para. 3(2)](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/3/2) inserted (1.4.2015) by [The Teachers’ Pension Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/97)](https://www.legislation.gov.uk/ssi/2015/97), [regs. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1), [27](https://www.legislation.gov.uk/ssi/2015/97/regulation/27)
+[^c-c0398d3c307d0a3efc4003c701b38b5a]: Textual amendment: Words in [sch. 2 para. 3(2)](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/3/2) inserted (1.4.2015) by [The Teachers’ Pension Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/97)](https://www.legislation.gov.uk/ssi/2015/97), [regs. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1), [27](https://www.legislation.gov.uk/ssi/2015/97/regulation/27)
 
-[^key-10a7762556c70385baf50b69ac9f3d99]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/4) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-10a7762556c70385baf50b69ac9f3d99]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/4) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
 
-[^key-82ab6ceb48a5a93578b2d03df7b8c5e7]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/5) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-82ab6ceb48a5a93578b2d03df7b8c5e7]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/5) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
 
-[^key-adbd17bb0d8050e6cfb4b33d625d6714]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/6) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-adbd17bb0d8050e6cfb4b33d625d6714]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/6) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
 
-[^key-be7e3363f87eb97717c55c6c114ba495]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/7) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-be7e3363f87eb97717c55c6c114ba495]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/7) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
 
-[^key-3d0f7c418c0810c10edd2525df3f6455]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/8) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-3d0f7c418c0810c10edd2525df3f6455]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/8) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
 
-[^key-1fa5af7c4dcc4b860dba0ee7f58560ff]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/9) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-1fa5af7c4dcc4b860dba0ee7f58560ff]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/9) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
 
-[^key-88c48ae98fff92be7aecbe757a45ffbd]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/10) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-88c48ae98fff92be7aecbe757a45ffbd]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/10) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
 
-[^key-9fe1c8a296ad62af3412bbaa35b71194]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/11) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-9fe1c8a296ad62af3412bbaa35b71194]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/11) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
 
-[^key-5f7b9559bf80d9857c512f83e806bbc1]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/12) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-5f7b9559bf80d9857c512f83e806bbc1]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/12) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
 
-[^key-bc9485722528ffe60ca0a042d52bae6b]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/13) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-bc9485722528ffe60ca0a042d52bae6b]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/13) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
 
-[^key-161b2faf53f92be9800ae5ed729a9e9d]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/14) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-161b2faf53f92be9800ae5ed729a9e9d]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/14) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
 
-[^key-3ba847836b0c5a098f025a7e13d800af]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/15) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-3ba847836b0c5a098f025a7e13d800af]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/15) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
 
-[^key-743827ee3ec9095356ab81c90f529929]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/16) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-743827ee3ec9095356ab81c90f529929]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/16) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
 
-[^key-33f487f6146b2ad24ede88ee4bef74b2]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/17) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-33f487f6146b2ad24ede88ee4bef74b2]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/17) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
 
-[^key-70912322f541e875b228fdfccdd25624]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/18) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-70912322f541e875b228fdfccdd25624]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/18) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
 
-[^key-9882749ceb6a95b617eb46529c85193c]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/19) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-9882749ceb6a95b617eb46529c85193c]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/19) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
 
-[^key-1ba7a0ab525dedec5a6a7d6e08e2de3e]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/20) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-1ba7a0ab525dedec5a6a7d6e08e2de3e]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/20) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
 
-[^key-d294669e18cf1fbce8d3640e286854b7]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/21) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-d294669e18cf1fbce8d3640e286854b7]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/21) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
 
-[^key-e9f0f4c83c27dbc85d27f98e7b07a8d9]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/22) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-e9f0f4c83c27dbc85d27f98e7b07a8d9]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/22) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
 
-[^key-312cce0ecaae7547c903593b3fe815a1]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/23) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-312cce0ecaae7547c903593b3fe815a1]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/23) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
 
-[^key-e03a69fe2fdbac7d08fe50936e56e0c3]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/24) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-e03a69fe2fdbac7d08fe50936e56e0c3]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/24) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
 
-[^key-ccaa7e18538af71529d62ffbb021fdda]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/25) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-ccaa7e18538af71529d62ffbb021fdda]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/25) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
 
-[^key-09b31d002d4656939c3b369581b79dab]: Commencement: [Sch. 2 para. 26](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/26) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-09b31d002d4656939c3b369581b79dab]: Commencement: [Sch. 2 para. 26](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/26) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
 
-[^key-62731b36ab2859c1d8fe12e76552e85a]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/27) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-62731b36ab2859c1d8fe12e76552e85a]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/27) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
 
-[^key-db401980a5f94d234dd855d4b9f1649b]: Commencement: [Sch. 2 para. 28](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/28) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-db401980a5f94d234dd855d4b9f1649b]: Commencement: [Sch. 2 para. 28](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/28) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
 
-[^key-33f178e138d666ad627a3162c2f4c05a]: Commencement: [Sch. 2 para. 29](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/29) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-33f178e138d666ad627a3162c2f4c05a]: Commencement: [Sch. 2 para. 29](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/29) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
 
-[^key-4829ab3f78e33c20aa149768eeb31c2e]: Commencement: [Sch. 2 para. 30](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/30) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-4829ab3f78e33c20aa149768eeb31c2e]: Commencement: [Sch. 2 para. 30](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/30) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
 
-[^key-55b186fe1376d15b3ed607805424f2ca]: Commencement: [Sch. 2 para. 31](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/31) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-55b186fe1376d15b3ed607805424f2ca]: Commencement: [Sch. 2 para. 31](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/31) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
 
-[^key-ce614d606f5502eefac2d6746512e0bc]: Textual amendment: Words in [sch. 2 para. 31(1)](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/31/1) inserted (1.4.2015) by [The Teachers’ Pension Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/97)](https://www.legislation.gov.uk/ssi/2015/97), [regs. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1), [28](https://www.legislation.gov.uk/ssi/2015/97/regulation/28)
+[^c-ce614d606f5502eefac2d6746512e0bc]: Textual amendment: Words in [sch. 2 para. 31(1)](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/31/1) inserted (1.4.2015) by [The Teachers’ Pension Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/97)](https://www.legislation.gov.uk/ssi/2015/97), [regs. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1), [28](https://www.legislation.gov.uk/ssi/2015/97/regulation/28)
 
-[^key-7f2189eac9172075c200f761540bc586]: Modification: [Sch. 2 para. 31(4)](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/31/4) modified (1.10.2023) by [The Teachers’ Pensions (Remediable Service) (Scotland) Regulations 2023 (S.S.I. 2023/241)](https://www.legislation.gov.uk/ssi/2023/241), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2023/241/regulation/1/b), [31](https://www.legislation.gov.uk/ssi/2023/241/regulation/31)
+[^c-7f2189eac9172075c200f761540bc586]: Modification: [Sch. 2 para. 31(4)](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/31/4) modified (1.10.2023) by [The Teachers’ Pensions (Remediable Service) (Scotland) Regulations 2023 (S.S.I. 2023/241)](https://www.legislation.gov.uk/ssi/2023/241), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2023/241/regulation/1/b), [31](https://www.legislation.gov.uk/ssi/2023/241/regulation/31)
 
-[^key-3c4aa60543332969addc00d674b3ec3b]: Commencement: [Sch. 2 para. 32](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/32) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-3c4aa60543332969addc00d674b3ec3b]: Commencement: [Sch. 2 para. 32](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/32) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
 
-[^key-7ebfaea0f9ab7202182196e18a8fb5d5]: Commencement: [Sch. 2 para. 33](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/33) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-7ebfaea0f9ab7202182196e18a8fb5d5]: Commencement: [Sch. 2 para. 33](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/33) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
 
-[^key-52661d2d34026fae4c6f273685d62b69]: Commencement: [Sch. 2 para. 34](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/34) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-52661d2d34026fae4c6f273685d62b69]: Commencement: [Sch. 2 para. 34](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/34) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
 
-[^key-b7be8f925901c419c1c537ca09fc4fbd]: Commencement: [Sch. 2 para. 35](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/35) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-b7be8f925901c419c1c537ca09fc4fbd]: Commencement: [Sch. 2 para. 35](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/35) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
 
-[^key-536f7ef09d06626d9c01da521d9f2957]: Commencement: [Sch. 2 para. 36](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/36) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-536f7ef09d06626d9c01da521d9f2957]: Commencement: [Sch. 2 para. 36](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/36) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
 
-[^key-40e70caf19eb09cfb376dba4a14c4be8]: Commencement: [Sch. 2 para. 37](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/37) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-40e70caf19eb09cfb376dba4a14c4be8]: Commencement: [Sch. 2 para. 37](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/37) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
 
-[^key-14ec1475f4e0da444a51c8ec7d2d1d55]: Commencement: [Sch. 2 para. 38](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/38) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-14ec1475f4e0da444a51c8ec7d2d1d55]: Commencement: [Sch. 2 para. 38](https://www.legislation.gov.uk/ssi/2014/292/schedule/2/paragraph/38) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

@@ -36,7 +36,7 @@ summary: ''
 (3) This paragraph applies where a person is—
 
 - (a) a member of a family of a national of an European Economic Area state;
-- (b) a person who is lawfully working in Great Britain and is a national of a State with which the Community has concluded an agreement under Article 217 of the Treaty on the Functioning of the European Union[^key-53c04a0f435c723baf9af63bbe621a3f] providing, in the field of social security, for the equal treatment of workers who are nationals of the signatory State and their families;
+- (b) a person who is lawfully working in Great Britain and is a national of a State with which the Community has concluded an agreement under Article 217 of the Treaty on the Functioning of the European Union[^c-53c04a0f435c723baf9af63bbe621a3f] providing, in the field of social security, for the equal treatment of workers who are nationals of the signatory State and their families;
 - (c) a person who is a member of a family of, and living with, a person specified in sub-paragraph (b); or
 - (d) a person who has been given leave to enter, or remain in, the United Kingdom by the Secretary of State upon an undertaking by another person or persons pursuant to the immigration rules within the meaning of the Immigration Act 1971 [^c1918898] to be responsible for that person's maintenance and accommodation.
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-53c04a0f435c723baf9af63bbe621a3f]: Textual amendment: Words in Instrument substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3)
+[^c-53c04a0f435c723baf9af63bbe621a3f]: Textual amendment: Words in Instrument substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3)
 
 [^c1918898]: Textual amendment: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77).

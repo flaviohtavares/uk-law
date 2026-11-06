@@ -38,7 +38,7 @@ Section 57(7).
 
 (3) The Secretary of State may remove a member from office if that member—
 
-- (a) has become bankrupt or has had a debt relief order (under Part 7A of the Insolvency Act 1986) made in respect of him or[^key-88bc15aad69455132aadc1c627af21e3] made an arrangement with his creditors;
+- (a) has become bankrupt or has had a debt relief order (under Part 7A of the Insolvency Act 1986) made in respect of him or[^c-88bc15aad69455132aadc1c627af21e3] made an arrangement with his creditors;
 - (b) is incapacitated by physical or mental illness;
 - (c) has been absent from meetings of the body for a period of three months otherwise than for a reason approved by the body; or
 - (d) is in the opinion of the Secretary of State otherwise unable or unfit to discharge the functions of a member.
@@ -157,7 +157,7 @@ shall be liable on summary conviction to a fine not exceeding the third level on
 - (f) section 28 of the [^c3169561]Health and Safety at Work etc. Act 1974;
 - (g)[^c3169571] sections 30, 38 and 41 of the [^c3169581]Local Government (Miscellaneous Provisions) Act 1976;
 - (h)[^c3169591] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (i)[^key-6466035460e78fc4b96c2554676e6526] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (i)[^c-6466035460e78fc4b96c2554676e6526] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (j) section 41 of the [^c3169601]Local Government (Miscellaneous Provisions) Act 1982;
 - (k) paragraph 7 of Schedule 1 to the [^c3169611]Stock Transfer Act 1982; and
 - (l) section 60 of the [^c3169621]County Courts Act 1984.
@@ -214,7 +214,7 @@ sections 18 to 30 (service charges) , and paragraph 9(1) of the Schedule.[^c3169
 
 [^c3168851]: Modification: Sch. 13 para. 2 amended by [S.I. 1989/1815](https://www.legislation.gov.uk/uksi/1989/1815), [art. 2](https://www.legislation.gov.uk/uksi/1989/1815/article/2), [Sch. 1 para. 2(b)](https://www.legislation.gov.uk/uksi/1989/1815/schedule/1/paragraph/2/b)
 
-[^key-88bc15aad69455132aadc1c627af21e3]: Textual amendment: Words in [Sch. 13 para. 2(3)(a)](https://www.legislation.gov.uk/ukpga/1985/51/schedule/13/paragraph/2/3/a) inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 2 para. 19](https://www.legislation.gov.uk/uksi/2012/2404/schedule/2/paragraph/19) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/2404/article/5))
+[^c-88bc15aad69455132aadc1c627af21e3]: Textual amendment: Words in [Sch. 13 para. 2(3)(a)](https://www.legislation.gov.uk/ukpga/1985/51/schedule/13/paragraph/2/3/a) inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 2 para. 19](https://www.legislation.gov.uk/uksi/2012/2404/schedule/2/paragraph/19) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/2404/article/5))
 
 [^c3168871]: Modification: [Sch. 13 para. 3](https://www.legislation.gov.uk/ukpga/1985/51/schedule/13/paragraph/3) amended by [S.I. 1989/1815](https://www.legislation.gov.uk/uksi/1989/1815), [art. 2](https://www.legislation.gov.uk/uksi/1989/1815/article/2), [Sch. 1 para. 2(c)](https://www.legislation.gov.uk/uksi/1989/1815/schedule/1/paragraph/2/c)
 
@@ -256,7 +256,7 @@ sections 18 to 30 (service charges) , and paragraph 9(1) of the Schedule.[^c3169
 
 [^c3169591]: Textual amendment: Sch. 13 para. 13(h) repealed (2.4.2001) by [2000 c. 34](https://www.legislation.gov.uk/ukpga/2000/34), [s. 9(2)](https://www.legislation.gov.uk/ukpga/2000/34/section/9/2), [Sch. 3](https://www.legislation.gov.uk/ukpga/2000/34/schedule/3) (with [s. 10(5)](https://www.legislation.gov.uk/ukpga/2000/34/section/10/5)); [S.I. 2001/566](https://www.legislation.gov.uk/uksi/2001/566), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/566/article/2/1)
 
-[^key-6466035460e78fc4b96c2554676e6526]: Textual amendment: Sch. 13 para. 13(i) repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 292](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/292), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
+[^c-6466035460e78fc4b96c2554676e6526]: Textual amendment: Sch. 13 para. 13(i) repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 292](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/292), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
 
 [^c3169601]: Marginal citation: [1982 c. 30](https://www.legislation.gov.uk/ukpga/1982/30).
 

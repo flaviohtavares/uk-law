@@ -32,7 +32,7 @@ summary: ''
 
 (3) Section 2 of the [^c13106021]Sexual Offences Act 1967 (homosexual acts on merchant ships) is repealed.
 
-(4)[^key-d059e0d907872c7a2958426506eb14b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-d059e0d907872c7a2958426506eb14b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -42,4 +42,4 @@ summary: ''
 
 [^c13106021]: Marginal citation: [1967 c. 60](https://www.legislation.gov.uk/ukpga/1967/60).
 
-[^key-d059e0d907872c7a2958426506eb14b8]: Textual amendment: [S. 146(4)](https://www.legislation.gov.uk/ukpga/1994/33/section/146/4) omitted (27.4.2017) by virtue of [Merchant Shipping (Homosexual Conduct) Act 2017 (c. 26)](https://www.legislation.gov.uk/ukpga/2017/26), [ss. 1](https://www.legislation.gov.uk/ukpga/2017/26/section/1), [2(1)](https://www.legislation.gov.uk/ukpga/2017/26/section/2/1)
+[^c-d059e0d907872c7a2958426506eb14b8]: Textual amendment: [S. 146(4)](https://www.legislation.gov.uk/ukpga/1994/33/section/146/4) omitted (27.4.2017) by virtue of [Merchant Shipping (Homosexual Conduct) Act 2017 (c. 26)](https://www.legislation.gov.uk/ukpga/2017/26), [ss. 1](https://www.legislation.gov.uk/ukpga/2017/26/section/1), [2(1)](https://www.legislation.gov.uk/ukpga/2017/26/section/2/1)

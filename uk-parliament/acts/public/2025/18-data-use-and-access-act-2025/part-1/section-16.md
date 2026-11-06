@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. The FCA and financial services interfaces: penalties and levies[^key-ba2b95a831f8c2d67c6ba1c32df61366][^key-acc2a2f077fb5f33653443d2d3e66b46]
+## 16. The FCA and financial services interfaces: penalties and levies[^c-ba2b95a831f8c2d67c6ba1c32df61366][^c-acc2a2f077fb5f33653443d2d3e66b46]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ba2b95a831f8c2d67c6ba1c32df61366]: Commencement: S. 16 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
+[^c-ba2b95a831f8c2d67c6ba1c32df61366]: Commencement: S. 16 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
 
-[^key-acc2a2f077fb5f33653443d2d3e66b46]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2025/18/section/16) in force at 20.8.2025 in so far as not already in force by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/a)
+[^c-acc2a2f077fb5f33653443d2d3e66b46]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2025/18/section/16) in force at 20.8.2025 in so far as not already in force by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/a)

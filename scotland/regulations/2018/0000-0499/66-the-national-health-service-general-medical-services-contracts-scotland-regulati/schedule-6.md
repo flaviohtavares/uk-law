@@ -106,7 +106,7 @@ The contractor must ensure that—
 - (b) all refrigerators in which vaccines are stored have a calibrated maximum/minimum digital thermometer on which readings are taken on all working days to ensure the temperature remains within the specified range of +2°C to +8°C; and
 - (c) it has regard to Public Health Scotland[^M_F_d498aaec-3c43-4707-8a04-b619b05617af] guidance on Vaccine Storage and Handling[^f00105].
 
-#### 7A. Anaphylaxis training[^key-ad97281e90ebdbdad731aad879f1a9d0]
+#### 7A. Anaphylaxis training[^c-ad97281e90ebdbdad731aad879f1a9d0]
 
 The contractor must ensure that all registered medical practitioners and registered nurses routinely employed or engaged by the contractor are trained in the recognition and initial treatment of anaphylaxis.
 
@@ -114,12 +114,12 @@ The contractor must ensure that all registered medical practitioners and registe
 
 The contractor must ensure that it has appropriate arrangements for infection control and decontamination.
 
-#### 9. Duty of co-operation in relation to additional , enhanced services and vaccination services[^key-3a1c6c1ac955d4d0509a6f5c17fc7d16]
+#### 9. Duty of co-operation in relation to additional , enhanced services and vaccination services[^c-3a1c6c1ac955d4d0509a6f5c17fc7d16]
 
 (1) A contractor which does not provide to its registered patients or to persons whom it has accepted as temporary residents—
 
-- (a) a particular additional service; [^key-8f46359ae8b2af90ef04afa354402531]...
-- (b) a particular enhanced service; or[^key-14ecc06bd0744940d592e097427c8731]
+- (a) a particular additional service; [^c-8f46359ae8b2af90ef04afa354402531]...
+- (b) a particular enhanced service; or[^c-14ecc06bd0744940d592e097427c8731]
 - (c) a particular vaccination service;
 
 must comply with the requirements specified in sub-paragraph (2).
@@ -129,17 +129,17 @@ must comply with the requirements specified in sub-paragraph (2).
 - (a) co-operate, insofar as it is reasonable, with any person responsible for the provision of that service or those services; and
 - (b) comply in core hours with any reasonable request for information from such a person or from the Health Board relating to the provision of that service or those services.
 
-#### 10. Duty of co-operation in relation to additional , enhanced services and vaccination services[^key-df0e4a4f05941c78647274b99dfc7145]
+#### 10. Duty of co-operation in relation to additional , enhanced services and vaccination services[^c-df0e4a4f05941c78647274b99dfc7145]
 
 Where a contractor is to cease to be required to provide to its patients—
 
-- (a) a particular additional service; [^key-8c3ceb7e1feba69ae5d8f0a290ca9857]...
-- (b) a particular enhanced service, or[^key-3b996c3addb0f4220d1815edca17facb]
+- (a) a particular additional service; [^c-8c3ceb7e1feba69ae5d8f0a290ca9857]...
+- (b) a particular enhanced service, or[^c-3b996c3addb0f4220d1815edca17facb]
 - (c) a particular vaccination service;
 
 it must comply with any reasonable request for information relating to the provision of that service or those services made by the Health Board or by any person with whom the Board intends to enter into a contract for the provision of such services.
 
-#### 10A. Duty to co-operate with Health Board support for contractors[^key-3423d7c5e7a7dece035547d5faf53f5e]
+#### 10A. Duty to co-operate with Health Board support for contractors[^c-3423d7c5e7a7dece035547d5faf53f5e]
 
 Where a Health Board is providing support to a contractor under paragraph 1(1) of schedule 2B (community treatment and care services) or paragraph 1(1) of schedule 2C (pharmacotherapy services), the contractor must—
 
@@ -207,13 +207,13 @@ must notify the person either orally or in writing and its responsibility for th
 
 (1) The contractor may only refuse an application made under paragraph 12 or 13 if it has reasonable grounds for doing so which do not relate to the applicant’s race, gender, social class, age, religion, sexual orientation, appearance, disability or medical condition.
 
-(2) Subject to sub-paragraph (5), the[^key-375715f7a86d5a5f80ac3d12bab6ec04] reasonable grounds referred to in paragraph (1) may, in the case of applications made under paragraph 12, include the ground that the applicant does not live in the contractor’s practice area.
+(2) Subject to sub-paragraph (5), the[^c-375715f7a86d5a5f80ac3d12bab6ec04] reasonable grounds referred to in paragraph (1) may, in the case of applications made under paragraph 12, include the ground that the applicant does not live in the contractor’s practice area.
 
 (3) A contractor which refuses an application made under paragraph 12 or 13 must, within 14 days of its decision, notify the applicant (or, in the case of a child or incapable adult, the person making the application on their behalf) in writing of the refusal and the reason for it.
 
 (4) The contractor must keep a written record of refusals of applications made under paragraph 12 and of the reasons for them and must make this record available to the Health Board on request.
 
-(5)[^key-c979a94fd4ca9b1b15a5c9c6a58bf9ee] For the purpose of sub-paragraph (2), “reasonable grounds” do not include refusal of an application from a person who—
+(5)[^c-c979a94fd4ca9b1b15a5c9c6a58bf9ee] For the purpose of sub-paragraph (2), “reasonable grounds” do not include refusal of an application from a person who—
 
 - (a) at the time of making the application, is detained in a prison, a young offenders institution or the state hospital, and
 - (b) will live after their release from detention in the contractor’s practice area.
@@ -277,10 +277,10 @@ that the patient’s name will be or has been removed from the contractor’s li
 
 the reason given under sub-paragraph (1) may consist of a statement that there has been such a breakdown.
 
-(3) Except in the circumstances described in sub-paragraph (4), a contractor may only request a removal under sub‑paragraph (1) if, within the period of twelve months prior to the date of its request to the Health Board it has warned the patient that the patient is at risk of removal and explained to the patient the reasons for this.[^key-1e0d9f8f3e5e56b20eb7a6cc3fd49177]
+(3) Except in the circumstances described in sub-paragraph (4), a contractor may only request a removal under sub‑paragraph (1) if, within the period of twelve months prior to the date of its request to the Health Board it has warned the patient that the patient is at risk of removal and explained to the patient the reasons for this.[^c-1e0d9f8f3e5e56b20eb7a6cc3fd49177]
 
-- (a)[^key-e4e62fd608a5e3d5a4bd5a71c52c5957] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-e2e8169e11c58e98b69fde388455bd48] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-e4e62fd608a5e3d5a4bd5a71c52c5957] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-e2e8169e11c58e98b69fde388455bd48] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The circumstances referred to in sub‑paragraph (3) are that—
 
@@ -378,7 +378,7 @@ must notify the Health Board in accordance with sub-paragraph (3).
 (1) The Health Board must remove a patient from the contractor’s list of patients if—
 
 - (a) the patient has subsequently been registered with another provider of essential services (or their equivalent) in the area of the Health Board; or
-- (b) it has received notice from another Health Board, Local Health Board, NHS England[^key-d445d8dd178ceeedf13d47c89ea132e6], or Regional Health and Social Care Board, that the patient has subsequently been registered with a provider of essential services (or their equivalent) outside the area of the Health Board.
+- (b) it has received notice from another Health Board, Local Health Board, NHS England[^c-d445d8dd178ceeedf13d47c89ea132e6], or Regional Health and Social Care Board, that the patient has subsequently been registered with a provider of essential services (or their equivalent) outside the area of the Health Board.
 
 (2) A removal in accordance with sub-paragraph (1) will take effect—
 
@@ -690,11 +690,11 @@ that it has referred the matter to the assessment panel.
   > (19) The period of 21 days referred to in sub-paragraph (16) may be extended (even after it has expired) by a further specified number of days if an agreement to that effect is reached by—
   >
   > - (a) the adjudicator;
-  > - (b) the Health Board; and[^key-30ca040e06ea0bea49262d495720d2df]
+  > - (b) the Health Board; and[^c-30ca040e06ea0bea49262d495720d2df]
   > - (c) the contractor (or contractors) which referred the matter to dispute resolution.
 
   ; and
-- (e)[^key-5891daa283049a6c5db6fc83e1c3dbb5] paragraph 92(2) does not apply.
+- (e)[^c-5891daa283049a6c5db6fc83e1c3dbb5] paragraph 92(2) does not apply.
 
 #### 34. Assignments to closed lists: assignments of patients by a Health Board
 
@@ -795,7 +795,7 @@ and such a non-electronic prescription form or electronic prescription form must
 (6) In a case of urgency a prescriber may request a pharmacist to dispense an appliance before a prescription form is issued or created only if—
 
 - (a) that appliance does not contain a Scheduled drug or a controlled drug within the meaning of the Misuse of Drugs Act 1971, other than a drug which is for the time being specified in schedule 5 of the Misuse of Drugs Regulations 2001;
-- (b) in the case of a restricted availability appliance, the patient is a person, or it is for a purpose,[^key-74a6ae3d0f1d831c9ba8ec8a9d864020] specified in the Drug Tariff; and
+- (b) in the case of a restricted availability appliance, the patient is a person, or it is for a purpose,[^c-74a6ae3d0f1d831c9ba8ec8a9d864020] specified in the Drug Tariff; and
 - (c) the prescriber undertakes to furnish the pharmacist, within 72 hours, with a prescription form completed in accordance with sub‑paragraph (2) or with an electronic prescription form.
 
 (7) A prescriber may only order drugs, medicines or appliances by means of an electronic prescription form if the prescription is not for a controlled drug within the meaning of the Misuse of Drugs Act 1971, other than a drug which is for the time being specified in schedule 4 or 5 of the Misuse of Drugs Regulations 2001.
@@ -924,7 +924,7 @@ will have serious difficulty in obtaining from a pharmacist any drugs, medicines
 
 (10) Nothing in this paragraph prevents a contractor providing a Scheduled drug or a restricted availability appliance in the course of treating a patient under a private arrangement.
 
-(11)[^key-2deedaf217fe7f60c7c73f612c4ea2bb] A contractor who is required or authorised by the Health Board to supply drugs, medicines and appliances under sub-paragraph (2) may do so in accordance with a Scottish SSP.
+(11)[^c-2deedaf217fe7f60c7c73f612c4ea2bb] A contractor who is required or authorised by the Health Board to supply drugs, medicines and appliances under sub-paragraph (2) may do so in accordance with a Scottish SSP.
 
 #### 45. Provision of drugs, medicines and appliances for immediate treatment or personal administration
 
@@ -1022,17 +1022,17 @@ No health care professional may perform any clinical services unless the health 
 
 #### 54. Training
 
-(1)[^key-fad87fa19a2f597a13192475cc9adac0] Subject to sub-paragraph (2)[^key-28af6f9cb0c6e4241fcc8f3b50c01365] the contractor must ensure that for any health care professional who is—
+(1)[^c-fad87fa19a2f597a13192475cc9adac0] Subject to sub-paragraph (2)[^c-28af6f9cb0c6e4241fcc8f3b50c01365] the contractor must ensure that for any health care professional who is—
 
 - (a) performing clinical services under the contract; or
 - (b) employed or engaged to assist in the performance of such services,
 
 there are in place arrangements for the purpose of maintaining and updating the health care professional’s skills and knowledge in relation to the services which the health care professional is performing or assisting in performing.
 
-(2)[^key-e47dbcd3e1b8e26406e8a33bd087dcb7] Sub-paragraph (1) does not apply in respect of a health care professional who is—
+(2)[^c-e47dbcd3e1b8e26406e8a33bd087dcb7] Sub-paragraph (1) does not apply in respect of a health care professional who is—
 
 - (a) employed by the Health Board, and
-- (b) performing clinical services under the contract solely as part of the support which the Health Board is required to provide under paragraph 1(1) of schedule 2B (community treatment and care services) or paragraph 1(1) of schedule 2C (pharmacotherapy services)[^key-78fe83f980c09c980810ca41c890cb5d].
+- (b) performing clinical services under the contract solely as part of the support which the Health Board is required to provide under paragraph 1(1) of schedule 2B (community treatment and care services) or paragraph 1(1) of schedule 2C (pharmacotherapy services)[^c-78fe83f980c09c980810ca41c890cb5d].
 
 #### 55. Training
 
@@ -1050,7 +1050,7 @@ The contractor may only offer employment to a general medical practitioner on te
 
 (3) A contractor which employs or engages a GP Registrar is to—
 
-- (a) offer the GP Registrar terms of employment in accordance with the rates and subject to the conditions contained in any directions given by the Scottish Ministers to the Agency[^key-d525b5aaec9d7e5dd6fa4f0dc6455404] concerning the grants, fees, travelling and other allowances payable to GP Registrars; and
+- (a) offer the GP Registrar terms of employment in accordance with the rates and subject to the conditions contained in any directions given by the Scottish Ministers to the Agency[^c-d525b5aaec9d7e5dd6fa4f0dc6455404] concerning the grants, fees, travelling and other allowances payable to GP Registrars; and
 - (b) take into account any guidance issued by the Scottish Ministers in relation to the GP Registrar Scheme[^f00120].
 
 #### 58. Independent prescribers and supplementary prescribers
@@ -1062,7 +1062,7 @@ The contractor may only offer employment to a general medical practitioner on te
 - (c) a contractor is a company and one of the members is an independent prescriber or a supplementary prescriber whose functions will include prescribing; or
 - (d) the functions of a person who is an independent prescriber or a supplementary prescriber whom the contractor already employs or has already engaged are extended to include prescribing,
 
-the contractor must notify[^key-c6e4fa2760f93ed09f464e5457d1e7b1] the Health Board in writing within the period of 7 days beginning with the date on which the contractor employed or engaged the person, the person became a partner or member as the case may be of the partnership, limited liability partnership or company that is a party to the contract (unless, immediately before becoming such a partner or member of that partnership, limited liability partnership or company that is such a party, the person fell under sub-paragraph (1)(a)) or the person’s functions were extended as the case may be.
+the contractor must notify[^c-c6e4fa2760f93ed09f464e5457d1e7b1] the Health Board in writing within the period of 7 days beginning with the date on which the contractor employed or engaged the person, the person became a partner or member as the case may be of the partnership, limited liability partnership or company that is a party to the contract (unless, immediately before becoming such a partner or member of that partnership, limited liability partnership or company that is such a party, the person fell under sub-paragraph (1)(a)) or the person’s functions were extended as the case may be.
 
 (2) Where—
 
@@ -1072,7 +1072,7 @@ the contractor must notify[^key-c6e4fa2760f93ed09f464e5457d1e7b1] the Health Boa
 - (d) the functions of a person who is an independent prescriber or a supplementary prescriber whom the contractor employs or engages in its practice are changed so that they no longer include prescribing; or
 - (e) the contractor becomes aware that a person who is an independent prescriber or a supplementary prescriber whom the contractor employs or engages has been removed or suspended from the relevant register,
 
-the contractor must notify[^key-310f05af4ae4c3a920dffc81df0b465c] the Health Board in writing by the end of the second working day after the day when the event occurred.
+the contractor must notify[^c-310f05af4ae4c3a920dffc81df0b465c] the Health Board in writing by the end of the second working day after the day when the event occurred.
 
 (3) The contractor must provide the following information when it notifies the Health Board in accordance with sub‑paragraph (1)—
 
@@ -1170,7 +1170,7 @@ The contractor must carry out its obligations under the contract with reasonable
 
 - (a) owned wholly or partly by the contractor, or by any former or current employee of, or partner or member of the contractor;
 - (b) formed by or on behalf of the contractor, or from which it derives or may derive a pecuniary benefit; or
-- (c) formed by or on behalf of a former or current employee of, or partner [^key-e368a986453be5945a3a36bc137f60ce]... or member of the contractor, or from which such a person derives or may derive a pecuniary benefit,
+- (c) formed by or on behalf of a former or current employee of, or partner [^c-e368a986453be5945a3a36bc137f60ce]... or member of the contractor, or from which such a person derives or may derive a pecuniary benefit,
 
 where that company, partnership or limited liability partnership is or was formed wholly or partly for the purpose of avoiding the restrictions on the sale of goodwill of a medical practice in section 35 of the Act[^f00123] or any regulations made wholly or partly under that section.
 
@@ -1184,12 +1184,12 @@ where that company, partnership or limited liability partnership is or was forme
 - “patient records” means records of the contractor’s attendance on and treatment of its patients created by way of electronic patient records or on forms supplied by the Health Board to the contractor;
 - “practice data” means data about a contractor’s practice and which may include any information or data about employees, sub-contractors, remuneration, finances, workloads, and contracts other than personal data within patient records.
 
-(2) No provision of this Part is to be construed as creating a duty, obligation or right which is contrary to any duty, obligation or right created by —[^key-a5a50cea1e05c71e546b56a8b013a849]
+(2) No provision of this Part is to be construed as creating a duty, obligation or right which is contrary to any duty, obligation or right created by —[^c-a5a50cea1e05c71e546b56a8b013a849]
 
 - (a) the data protection legislation, or
 - (b) any directly applicable EU legislation which is not part of the data protection legislation but which relates to data protection.
 
-#### 64A. Meaning of controller etc.[^key-e9f75c5460b7059eaa2298451fa1bd6e]
+#### 64A. Meaning of controller etc.[^c-e9f75c5460b7059eaa2298451fa1bd6e]
 
 For the purposes of this Part—
 
@@ -1203,8 +1203,8 @@ For the purposes of this Part—
 
 (2) The Health Board and the contractor must include within the contract—
 
-- (a) terms which have the effect of the obligations mentioned in paragraphs 66 and 67[^key-761543c264f83ca606c6288c240bb9a7] ; and
-- (b) a term that requires the Health Board and the contractor to act jointly as controllers[^key-943e27b45c1ac3117be37444e070c833] in relation to the processing of patient records.
+- (a) terms which have the effect of the obligations mentioned in paragraphs 66 and 67[^c-761543c264f83ca606c6288c240bb9a7] ; and
+- (b) a term that requires the Health Board and the contractor to act jointly as controllers[^c-943e27b45c1ac3117be37444e070c833] in relation to the processing of patient records.
 
 #### 66. Contractor’s obligations – records etc.
 
@@ -1274,7 +1274,7 @@ The Health Board must—
 
 (2) A request under sub-paragraph (1) must be made—
 
-- (a) after consideration of whether the relevant information could be so provided in compliance with —[^key-079da1a5d53105eecb4aae3d5d156be7]
+- (a) after consideration of whether the relevant information could be so provided in compliance with —[^c-079da1a5d53105eecb4aae3d5d156be7]
   - (i) the data protection legislation, and
   - (ii) any directly applicable EU legislation which is not part of the data protection legislation but which relates to data protection;
 - (b) in accordance with directions given to the Health Board by the Scottish Ministers under section 2(5) of the Act that have been consulted upon by a body representative of general medical practitioners providing primary medical services in accordance with a general medical services contract or a section 17C arrangement; and
@@ -1300,7 +1300,7 @@ The Health Board must—
 
 (1) The Health Board must appoint a jointly designated data protection officer where it has agreed to do so with the contractor.
 
-(2) Where a jointly designated data protection officer mentioned in sub-paragraph (1) has not been appointed, the contractor must nominate a person with responsibility for working together with the Health Board’s data protection officer in matters relating to the protection of personal data and the implementation of the Health Board’s guidance, templates and policies on such matters set out under paragraph 67(b) and (c)[^key-f8a4b0133a58d643e84de23227eeedd2].
+(2) Where a jointly designated data protection officer mentioned in sub-paragraph (1) has not been appointed, the contractor must nominate a person with responsibility for working together with the Health Board’s data protection officer in matters relating to the protection of personal data and the implementation of the Health Board’s guidance, templates and policies on such matters set out under paragraph 67(b) and (c)[^c-f8a4b0133a58d643e84de23227eeedd2].
 
 #### 71. GP IT Services
 
@@ -1314,24 +1314,24 @@ The Health Board must—
 
 (1) A contractor must provide its registered patients with—
 
-- (a) an [^key-8a28d590381230708d40b8dcf577268c]... online appointment service;
-- (b) an [^key-dcc686cc5fc52a6d36b86050086e3bbb]... online repeat prescription service; and
-- (c) an [^key-9ce54e403394874cbb7feee83c5d3557]... online repeat prescription information service,
+- (a) an [^c-8a28d590381230708d40b8dcf577268c]... online appointment service;
+- (b) an [^c-dcc686cc5fc52a6d36b86050086e3bbb]... online repeat prescription service; and
+- (c) an [^c-9ce54e403394874cbb7feee83c5d3557]... online repeat prescription information service,
 
 in a manner which is capable of being electronically integrated with the computer systems of the contractor’s practice and using appropriate systems authorised by the Health Board.
 
-(2)[^key-996174b069bfa1ab3540a02d50baa9f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-996174b069bfa1ab3540a02d50baa9f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) [^key-94a88ad032da6b671ead50f40a2d1ea0]...The contractor must regularly consider whether it is desirable, in order to meet the reasonable needs of its registered patients, to increase the proportion of appointments which are made available to registered patients through that service and if it is so desirable, to increase the proportion of appointments accordingly.
+(3) [^c-94a88ad032da6b671ead50f40a2d1ea0]...The contractor must regularly consider whether it is desirable, in order to meet the reasonable needs of its registered patients, to increase the proportion of appointments which are made available to registered patients through that service and if it is so desirable, to increase the proportion of appointments accordingly.
 
-(4)[^key-a83de9917a96222482efd5a52c278c69] The contractor must promote the services referred to in sub-paragraph (1) to its registered patients—
+(4)[^c-a83de9917a96222482efd5a52c278c69] The contractor must promote the services referred to in sub-paragraph (1) to its registered patients—
 
 - (a) in practice leaflets in accordance with paragraph 11 of schedule 8; and
 - (b) on the practice website.
 
 (5) In this paragraph—
 
-- (a) “online appointment service” means a facility which allows patients to book,[^key-a9e5ac29477e9e913ba9b72ec490fd99] view, amend and cancel appointments online;
+- (a) “online appointment service” means a facility which allows patients to book,[^c-a9e5ac29477e9e913ba9b72ec490fd99] view, amend and cancel appointments online;
 - (b) “repeat prescription service” means a facility which allows patients to order repeat prescriptions for drugs, medicines or appliances online; and
 - (c) “online repeat prescription information service” means a facility which allows patients to view online, and print, a list of any drugs, medicines or appliances in respect of which the patient has a repeat prescription.
 
@@ -1347,7 +1347,7 @@ The contractor must—
 - (b) review its practice leaflet at least once in every period of twelve months and make any amendments necessary to maintain its accuracy; and
 - (c) make available a copy of the leaflet, and any subsequent updates, to its patients and prospective patients.
 
-#### 74A. Practice websites[^key-74f3dec7d2291dbe94c7769d3ff08730]
+#### 74A. Practice websites[^c-74f3dec7d2291dbe94c7769d3ff08730]
 
 (1) The contractor is required to publish a website for its practice which—
 
@@ -1376,7 +1376,7 @@ The contractor must—
 
 appointed in either case by the Health Board to assist the Board in the exercise of its functions under this paragraph and that person produces, on request, written evidence that the person is authorised by the Health Board to make such an inquiry on its behalf.
 
-#### 76. Provision of information to a medical officer etc.[^key-17d4a02a2768e742a356baa2ad429e50]
+#### 76. Provision of information to a medical officer etc.[^c-17d4a02a2768e742a356baa2ad429e50]
 
 (1) The contractor is to, if it is satisfied that the patient has given explicit consent—
 
@@ -1403,10 +1403,10 @@ appointed in either case by the Health Board to assist the Board in the exercise
 - (b) “nursing officer” means a health care professional who is registered on the Nursing and Midwifery Register and—
   - (i) employed or engaged by the Department for Work and Pensions; or
   - (ii) provided by an organisation under a contract entered into with the Secretary of State for Work and Pensions;
-- (c) “occupational therapist” means a health care professional who is registered in the part of the register maintained by the Health and Care Professions Council[^key-1f36b9bebda94454ee535a6e70954736] under article 5 of the Health Professions Order 2001[^key-40a9bc162594d05f81b99949f194cc0a] relating to occupational therapists and—
+- (c) “occupational therapist” means a health care professional who is registered in the part of the register maintained by the Health and Care Professions Council[^c-1f36b9bebda94454ee535a6e70954736] under article 5 of the Health Professions Order 2001[^c-40a9bc162594d05f81b99949f194cc0a] relating to occupational therapists and—
   - (i) employed or engaged by the Department for Work and Pensions; or
   - (ii) provided by an organisation under a contract entered into with the Secretary of State for Work and Pensions; and
-- (d) “physiotherapist” means a health care professional who is registered in the part of the register maintained by the Health and Care Professions Council[^key-0b6bd67858cf5a6b201e7782b0fe124d] under article 5 of the Health Professions Order 2001[^key-626f908c793de02ad9c00c75bd7f970e] relating to physiotherapists and—
+- (d) “physiotherapist” means a health care professional who is registered in the part of the register maintained by the Health and Care Professions Council[^c-0b6bd67858cf5a6b201e7782b0fe124d] under article 5 of the Health Professions Order 2001[^c-626f908c793de02ad9c00c75bd7f970e] relating to physiotherapists and—
   - (i) employed or engaged by the Department for Work and Pensions; or
   - (ii) provided by an organisation under a contract entered into with the Secretary of State for Work and Pensions.
 
@@ -1442,7 +1442,7 @@ appointed in either case by the Health Board to assist the Board in the exercise
 
 (7) Either the contractor or the Health Board may, if it wishes to do so, invite the area medical committee for the area of the Health Board to participate in the annual review.
 
-(8) The Health Board must prepare a draft record of the review referred to in sub-paragraph (6)[^key-9c5540936d851958599743149cf0661b] for comment by the contractor and, having regard to such comments, must produce a final written record of the review.
+(8) The Health Board must prepare a draft record of the review referred to in sub-paragraph (6)[^c-9c5540936d851958599743149cf0661b] for comment by the contractor and, having regard to such comments, must produce a final written record of the review.
 
 (9) A copy of the final record referred to in sub-paragraph (8) must be sent to the contractor.
 
@@ -1483,7 +1483,7 @@ The contractor must notify the Health Board in writing of any person other than 
 (2) A notice under sub-paragraph (1)(a) or (c) must—
 
 - (a) confirm that the new member, shareholder, or, as the case may be, the personal representative of a deceased shareholder—
-  - (i) satisfies the conditions specified in regulation 11(1) or (8)[^key-3768fb0d385e8dadaa1cfb117bd59980] ;
+  - (i) satisfies the conditions specified in regulation 11(1) or (8)[^c-3768fb0d385e8dadaa1cfb117bd59980] ;
   - (ii) meets the further conditions in regulation 10; and
   - (iii) does not fall within paragraph 103(2); and
 - (b) state the date the new member or shareholder became a member or shareholder of the company.
@@ -1562,7 +1562,7 @@ the Health Board must notify those patients in writing of the variation and its 
 
 #### 87. Complaints procedure
 
-The contractor must have arrangements in place which operate in accordance with section 15 of the Patient Rights (Scotland) Act 2011[^f00129], and any regulations or directions made under that section[^key-c37314e572945995cd44f99a348d6ce8].
+The contractor must have arrangements in place which operate in accordance with section 15 of the Patient Rights (Scotland) Act 2011[^f00129], and any regulations or directions made under that section[^c-c37314e572945995cd44f99a348d6ce8].
 
 #### 88. Co-operation with investigations
 
@@ -1575,7 +1575,7 @@ The contractor must have arrangements in place which operate in accordance with 
 
 (2) In sub-paragraph (1)—
 
-- “NHS body” means, in Scotland, any Health Board or Special Health Board or the Agency, in England and Wales, NHS England[^key-23b44b4e54168d0d41c9b70cdedf985e] or a Local Health Board, and, in Northern Ireland a Health and Social Care trust or Regional Health and Social Care Board;
+- “NHS body” means, in Scotland, any Health Board or Special Health Board or the Agency, in England and Wales, NHS England[^c-23b44b4e54168d0d41c9b70cdedf985e] or a Local Health Board, and, in Northern Ireland a Health and Social Care trust or Regional Health and Social Care Board;
 - “local authority” means—
   - (a) a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 (constitution of councils)[^f00131];
   - (b) any of the bodies listed in section 1 of the Local Authority Social Services Act 1970 (local authorities)[^f00132];
@@ -1599,7 +1599,7 @@ The contractor must have arrangements in place which operate in accordance with 
 - “local resolution approved mediator functions” means the functions of—
   - (a) facilitating, co-ordinating and mediating communication between the parties to a dispute arising out of or in connection with a contract with a view to helping the parties to reach a voluntary resolution to their dispute;
   - (b) assisting the parties to explore options for negotiating a resolution to the dispute; and
-  - (c) providing recommendations to facilitate resolution of the contractual dispute and reporting to the area medical committee, the local resolution panel and the parties to the dispute in accordance with sub-paragraph (9);[^key-8b55513ff96b7ed9c926e70716ffefa0]
+  - (c) providing recommendations to facilitate resolution of the contractual dispute and reporting to the area medical committee, the local resolution panel and the parties to the dispute in accordance with sub-paragraph (9);[^c-8b55513ff96b7ed9c926e70716ffefa0]
 - “local resolution panel” means a committee or a subcommittee of the first Health Board appointed by the first Health Board at the request of the second Health Board which must consist of—
   - (a) a person representative of patients in the area of the second Health Board;
   - (b) a person representative of the local medical committee, in the area of the second Health Board;
@@ -1610,8 +1610,8 @@ The contractor must have arrangements in place which operate in accordance with 
 
 (3) In the case of any dispute arising out of or in connection with the contract—
 
-- (a) the contractor and the second Health Board[^key-0998571fa47e79c762ec912f7be7ad43] must make every reasonable effort to communicate and co-operate with each other with a view to resolving the dispute in accordance with the local dispute resolution process, before referring the dispute for determination in accordance with the NHS dispute resolution procedure (or, where applicable, before commencing court proceedings); and
-- (b) neither the contractor nor the second Health Board[^key-62447ace8cbc10f270a1d4c8545b712d] may refer the dispute for determination in accordance with the NHS dispute resolution procedure (or, where applicable, before commencing court proceedings) until the local dispute resolution process has been completed.
+- (a) the contractor and the second Health Board[^c-0998571fa47e79c762ec912f7be7ad43] must make every reasonable effort to communicate and co-operate with each other with a view to resolving the dispute in accordance with the local dispute resolution process, before referring the dispute for determination in accordance with the NHS dispute resolution procedure (or, where applicable, before commencing court proceedings); and
+- (b) neither the contractor nor the second Health Board[^c-62447ace8cbc10f270a1d4c8545b712d] may refer the dispute for determination in accordance with the NHS dispute resolution procedure (or, where applicable, before commencing court proceedings) until the local dispute resolution process has been completed.
 
 (4) Either party to the contract may commence the local dispute resolution process by serving written notice on—
 
@@ -1633,7 +1633,7 @@ The contractor must have arrangements in place which operate in accordance with 
 
 (8) The local resolution approved mediator must complete their local resolution approved mediator functions within three months from service of the notice referred to in sub-paragraph (4).
 
-(9) Within the period specified in sub-paragraph (8), the local resolution approved mediator must provide a written report to the parties, the area medical committee and the local resolution panel referred to in sub-paragraph (6)[^key-0bfcc4934098c90f1ff713595e51fc55] which sets out the following—
+(9) Within the period specified in sub-paragraph (8), the local resolution approved mediator must provide a written report to the parties, the area medical committee and the local resolution panel referred to in sub-paragraph (6)[^c-0bfcc4934098c90f1ff713595e51fc55] which sets out the following—
 
 - (a) any agreement reached between the parties;
 - (b) the local resolution approved mediator’s recommendation on how to resolve any issues still in dispute; and
@@ -1725,7 +1725,7 @@ the procedure specified in the following sub‑paragraphs and paragraph 92 is mo
 
 #### 94. Variation of a contract: general
 
-(1) Subject to regulations 31 and 33A[^key-b7706494ccefb6e594ccbc7f69cf0880], schedule 2 , paragraph 1 of schedule 2A[^key-7d4327cdb2c92abb40e23bce35c57313] and paragraphs 62(8) and 108 of this schedule and sub-paragraph (2), no amendment or variation has effect unless it is in writing and signed by or on behalf of the Health Board and the contractor.
+(1) Subject to regulations 31 and 33A[^c-b7706494ccefb6e594ccbc7f69cf0880], schedule 2 , paragraph 1 of schedule 2A[^c-7d4327cdb2c92abb40e23bce35c57313] and paragraphs 62(8) and 108 of this schedule and sub-paragraph (2), no amendment or variation has effect unless it is in writing and signed by or on behalf of the Health Board and the contractor.
 
 (2) In addition to the specific provision made in paragraph 108 the Health Board may vary the contract without the contractor’s consent where it—
 
@@ -1737,10 +1737,10 @@ the procedure specified in the following sub‑paragraphs and paragraph 92 is mo
 (4) In this paragraph “relevant legislation” means—
 
 - (a) the Act;
-- (b)[^key-951fafd194347215a2c0be87aafdeaf9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c) the Patient Rights (Scotland) Act 2011[^key-2e9d6272a161ee7f98181a7bd6795402] [^f00136];
+- (b)[^c-951fafd194347215a2c0be87aafdeaf9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) the Patient Rights (Scotland) Act 2011[^c-2e9d6272a161ee7f98181a7bd6795402] [^f00136];
 - (d) Part 2 of the Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016[^f00137];
-- (da)[^key-6334e5d372b3f8c80a44d7181a593043] the data protection legislation;
+- (da)[^c-6334e5d372b3f8c80a44d7181a593043] the data protection legislation;
 - (db) any directly applicable EU legislation which is not part of the data protection legislation but which relates to data protection; and
 - (e) any regulations or any direction given by the Scottish Ministers made pursuant to the Acts mentioned in sub-paragraphs (a), (c) and (d).
 
@@ -1835,7 +1835,7 @@ The Health Board may serve notice in writing on the contractor terminating the c
 
 #### 103. Other grounds for termination by the Health Board
 
-(1) The Health Board may serve notice in writing on the contractor terminating the contract with immediate effect, or from such date as may be specified in the notice,[^key-a010a5b8c20e60bde4dd63e07568bb3f] if the contractor is in breach of regulation 11 or if—
+(1) The Health Board may serve notice in writing on the contractor terminating the contract with immediate effect, or from such date as may be specified in the notice,[^c-a010a5b8c20e60bde4dd63e07568bb3f] if the contractor is in breach of regulation 11 or if—
 
 - (a) in the case of a contract entered into on or after 22nd December 2010—
   - (i) with a medical practitioner, that medical practitioner;
@@ -2006,12 +2006,12 @@ the Health Board may serve notice on the contractor terminating the contract wit
 
 #### 109. Contract sanctions and the dispute resolution procedure
 
-(1) If there is a dispute between the Health Board and the contractor in relation to a contract sanction that the Health Board is proposing to impose, the Health Board must not, subject to sub‑paragraph (4), impose the proposed contract sanction except in the circumstances specified in sub‑paragraph (2)[^key-84a7de349060ce737969b99a7b8d4138]....
+(1) If there is a dispute between the Health Board and the contractor in relation to a contract sanction that the Health Board is proposing to impose, the Health Board must not, subject to sub‑paragraph (4), impose the proposed contract sanction except in the circumstances specified in sub‑paragraph (2)[^c-84a7de349060ce737969b99a7b8d4138]....
 
 (2) If the contractor refers the dispute relating to the contract sanction to the local dispute resolution process within 28 days beginning on the date on which the Health Board served notice on the contractor in accordance with paragraph 108(4) (or such longer period as may be agreed in writing with the Health Board), and notifies the Health Board in writing that it has done so, the Health Board must not impose the contract sanction unless—
 
 - (a) there has been a resolution of the dispute between the parties which allows the Scottish Ministers to impose the contract sanction;
-- (b) there has been no resolution of the dispute between the parties as a result of the local dispute resolution process and the contractor does not refer the matter to the Scottish Ministers under paragraph 90 or 91[^key-cf0277ede825d2e53e712431a2d5b7b2] within 28 days of the end of the period specified in—
+- (b) there has been no resolution of the dispute between the parties as a result of the local dispute resolution process and the contractor does not refer the matter to the Scottish Ministers under paragraph 90 or 91[^c-cf0277ede825d2e53e712431a2d5b7b2] within 28 days of the end of the period specified in—
   - (i) paragraph 89(8); or
   - (ii) the date on which the local dispute resolution process was completed,
 
@@ -2031,7 +2031,7 @@ the Health Board is entitled to impose the contract sanction with immediate effe
 
 #### 110. Termination and the NHS dispute resolution procedure
 
-(1) Where the Health Board is entitled to serve written notice on the contractor terminating the contract pursuant to paragraphs 101 to 107[^key-be768046b58773563e82572a9440671b] the Health Board must, in the notice served on the contractor pursuant to those provisions, specify a date on which the contract terminates that is not less than 28 days after the date on which the Health Board has served that notice on the contractor unless sub‑paragraph (2) applies.
+(1) Where the Health Board is entitled to serve written notice on the contractor terminating the contract pursuant to paragraphs 101 to 107[^c-be768046b58773563e82572a9440671b] the Health Board must, in the notice served on the contractor pursuant to those provisions, specify a date on which the contract terminates that is not less than 28 days after the date on which the Health Board has served that notice on the contractor unless sub‑paragraph (2) applies.
 
 (2) This sub‑paragraph applies if the Health Board is satisfied that a period of less than 28 days is necessary in order to—
 
@@ -2043,7 +2043,7 @@ the Health Board is entitled to impose the contract sanction with immediate effe
 (4) The contract may only terminate if and when—
 
 - (a) there has been a resolution of the dispute between the parties which allows the Health Board to terminate the contract;
-- (b) there has been no resolution of the dispute between the parties as a result of the local dispute resolution process and the contractor does not refer the matter to the Scottish Ministers under paragraph 90 or 91[^key-6f03beadf4823198ff852fa35445c69e] within 28 days of the end of the period specified in—
+- (b) there has been no resolution of the dispute between the parties as a result of the local dispute resolution process and the contractor does not refer the matter to the Scottish Ministers under paragraph 90 or 91[^c-6f03beadf4823198ff852fa35445c69e] within 28 days of the end of the period specified in—
   - (i) paragraph 89(8); or
   - (ii) the date on which the local dispute resolution process was completed,
 
@@ -2059,13 +2059,13 @@ whichever is the sooner.
 - (a) protect the safety of the contractor’s patients; or
 - (b) protect itself from material financial loss,
 
-sub‑paragraphs (3) and (4) will not apply and the Health Board is entitled to confirm, by written notice to be served on the contractor, that the contract will nevertheless terminate at the end of the period of the notice it served pursuant to paragraphs 101 to 107[^key-c6b1134c9094a5fec7d6037e06426418] .
+sub‑paragraphs (3) and (4) will not apply and the Health Board is entitled to confirm, by written notice to be served on the contractor, that the contract will nevertheless terminate at the end of the period of the notice it served pursuant to paragraphs 101 to 107[^c-c6b1134c9094a5fec7d6037e06426418] .
 
 #### 111. Consultation with the area medical committee
 
 (1) Whenever the Health Board is considering—
 
-- (a) terminating the contract pursuant to paragraphs 101 to 107[^key-90389283b68b768d6d3f86b9e5d2f2eb]; or
+- (a) terminating the contract pursuant to paragraphs 101 to 107[^c-90389283b68b768d6d3f86b9e5d2f2eb]; or
 - (b) imposing a contract sanction,
 
 it must, whenever it is reasonably practicable to do so, consult the area medical committee for its area before it terminates the contract or imposes a contract sanction.
@@ -2141,7 +2141,7 @@ and the notice must specify the changes which the Health Board consider are nece
 
 (3) The person nominated under sub‑paragraph (2) must be a person who performs or manages services under the contract.
 
-(3A)[^key-abd55ab3a9130f5f2c822b7e3c3cc559] Where a health care professional employed by the Health Board performs clinical services from the contractor’s practice premises—
+(3A)[^c-abd55ab3a9130f5f2c822b7e3c3cc559] Where a health care professional employed by the Health Board performs clinical services from the contractor’s practice premises—
 
 - (i) the contractor must provide the Health Board with information about its system of clinical governance which is sufficient to allow that health care professional to effectively co-operate with that system of clinical governance, and
 - (ii) the Health Board must ensure that any such health care professionals employed by the Health Board is aware of the contractor’s system of clinical governance.
@@ -2263,53 +2263,53 @@ The contract will not create any right enforceable by any person not a party to 
 
 [^f00105]: Footnote: The current version of the guidance is version 3.0, December 2017 and can be found at http://www.hps.scot.nhs.uk/resourcedocument.aspx?id=6330
 
-[^key-ad97281e90ebdbdad731aad879f1a9d0]: Textual amendment: [Sch. 6 para. 7A](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/7A) inserted (18.10.2021) by [The National Health Service (General Medical Services and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/302)](https://www.legislation.gov.uk/ssi/2021/302), [regs. 1](https://www.legislation.gov.uk/ssi/2021/302/regulation/1), [9(a)](https://www.legislation.gov.uk/ssi/2021/302/regulation/9/a)
+[^c-ad97281e90ebdbdad731aad879f1a9d0]: Textual amendment: [Sch. 6 para. 7A](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/7A) inserted (18.10.2021) by [The National Health Service (General Medical Services and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/302)](https://www.legislation.gov.uk/ssi/2021/302), [regs. 1](https://www.legislation.gov.uk/ssi/2021/302/regulation/1), [9(a)](https://www.legislation.gov.uk/ssi/2021/302/regulation/9/a)
 
-[^key-3a1c6c1ac955d4d0509a6f5c17fc7d16]: Textual amendment: Words in [sch. 6 para. 9](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/9) heading substituted (18.10.2021) by [The National Health Service (General Medical Services and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/302)](https://www.legislation.gov.uk/ssi/2021/302), [regs. 1](https://www.legislation.gov.uk/ssi/2021/302/regulation/1), [9(b)(i)](https://www.legislation.gov.uk/ssi/2021/302/regulation/9/b/i)
+[^c-3a1c6c1ac955d4d0509a6f5c17fc7d16]: Textual amendment: Words in [sch. 6 para. 9](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/9) heading substituted (18.10.2021) by [The National Health Service (General Medical Services and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/302)](https://www.legislation.gov.uk/ssi/2021/302), [regs. 1](https://www.legislation.gov.uk/ssi/2021/302/regulation/1), [9(b)(i)](https://www.legislation.gov.uk/ssi/2021/302/regulation/9/b/i)
 
-[^key-8f46359ae8b2af90ef04afa354402531]: Textual amendment: Word in [sch. 6 para. 9(1)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/9/1) omitted (18.10.2021) by virtue of [The National Health Service (General Medical Services and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/302)](https://www.legislation.gov.uk/ssi/2021/302), [regs. 1](https://www.legislation.gov.uk/ssi/2021/302/regulation/1), [9(b)(ii)(aa)](https://www.legislation.gov.uk/ssi/2021/302/regulation/9/b/ii/aa)
+[^c-8f46359ae8b2af90ef04afa354402531]: Textual amendment: Word in [sch. 6 para. 9(1)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/9/1) omitted (18.10.2021) by virtue of [The National Health Service (General Medical Services and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/302)](https://www.legislation.gov.uk/ssi/2021/302), [regs. 1](https://www.legislation.gov.uk/ssi/2021/302/regulation/1), [9(b)(ii)(aa)](https://www.legislation.gov.uk/ssi/2021/302/regulation/9/b/ii/aa)
 
-[^key-14ecc06bd0744940d592e097427c8731]: Textual amendment: [Sch. 6 para. 9(1)(c)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/9/1/c) and word inserted (18.10.2021) by [The National Health Service (General Medical Services and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/302)](https://www.legislation.gov.uk/ssi/2021/302), [regs. 1](https://www.legislation.gov.uk/ssi/2021/302/regulation/1), [9(b)(ii)(bb)](https://www.legislation.gov.uk/ssi/2021/302/regulation/9/b/ii/bb)
+[^c-14ecc06bd0744940d592e097427c8731]: Textual amendment: [Sch. 6 para. 9(1)(c)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/9/1/c) and word inserted (18.10.2021) by [The National Health Service (General Medical Services and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/302)](https://www.legislation.gov.uk/ssi/2021/302), [regs. 1](https://www.legislation.gov.uk/ssi/2021/302/regulation/1), [9(b)(ii)(bb)](https://www.legislation.gov.uk/ssi/2021/302/regulation/9/b/ii/bb)
 
-[^key-df0e4a4f05941c78647274b99dfc7145]: Textual amendment: Words in [sch. 6 para. 10](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/10) heading substituted (18.10.2021) by [The National Health Service (General Medical Services and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/302)](https://www.legislation.gov.uk/ssi/2021/302), [regs. 1](https://www.legislation.gov.uk/ssi/2021/302/regulation/1), [9(c)(i)](https://www.legislation.gov.uk/ssi/2021/302/regulation/9/c/i)
+[^c-df0e4a4f05941c78647274b99dfc7145]: Textual amendment: Words in [sch. 6 para. 10](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/10) heading substituted (18.10.2021) by [The National Health Service (General Medical Services and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/302)](https://www.legislation.gov.uk/ssi/2021/302), [regs. 1](https://www.legislation.gov.uk/ssi/2021/302/regulation/1), [9(c)(i)](https://www.legislation.gov.uk/ssi/2021/302/regulation/9/c/i)
 
-[^key-8c3ceb7e1feba69ae5d8f0a290ca9857]: Textual amendment: Word in [sch. 6 para. 10](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/10) omitted (18.10.2021) by virtue of [The National Health Service (General Medical Services and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/302)](https://www.legislation.gov.uk/ssi/2021/302), [regs. 1](https://www.legislation.gov.uk/ssi/2021/302/regulation/1), [9(c)(ii)](https://www.legislation.gov.uk/ssi/2021/302/regulation/9/c/ii)
+[^c-8c3ceb7e1feba69ae5d8f0a290ca9857]: Textual amendment: Word in [sch. 6 para. 10](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/10) omitted (18.10.2021) by virtue of [The National Health Service (General Medical Services and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/302)](https://www.legislation.gov.uk/ssi/2021/302), [regs. 1](https://www.legislation.gov.uk/ssi/2021/302/regulation/1), [9(c)(ii)](https://www.legislation.gov.uk/ssi/2021/302/regulation/9/c/ii)
 
-[^key-3b996c3addb0f4220d1815edca17facb]: Textual amendment: [Sch. 6 para. 10(c)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/10/c) and word inserted (18.10.2021) by [The National Health Service (General Medical Services and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/302)](https://www.legislation.gov.uk/ssi/2021/302), [regs. 1](https://www.legislation.gov.uk/ssi/2021/302/regulation/1), [9(c)(iii)](https://www.legislation.gov.uk/ssi/2021/302/regulation/9/c/iii)
+[^c-3b996c3addb0f4220d1815edca17facb]: Textual amendment: [Sch. 6 para. 10(c)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/10/c) and word inserted (18.10.2021) by [The National Health Service (General Medical Services and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/302)](https://www.legislation.gov.uk/ssi/2021/302), [regs. 1](https://www.legislation.gov.uk/ssi/2021/302/regulation/1), [9(c)(iii)](https://www.legislation.gov.uk/ssi/2021/302/regulation/9/c/iii)
 
-[^key-3423d7c5e7a7dece035547d5faf53f5e]: Textual amendment: [Sch. 6 para. 10A](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/10A) substituted (14.3.2026) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/37)](https://www.legislation.gov.uk/ssi/2026/37), [regs. 1](https://www.legislation.gov.uk/ssi/2026/37/regulation/1), [6(a)](https://www.legislation.gov.uk/ssi/2026/37/regulation/6/a)
+[^c-3423d7c5e7a7dece035547d5faf53f5e]: Textual amendment: [Sch. 6 para. 10A](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/10A) substituted (14.3.2026) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/37)](https://www.legislation.gov.uk/ssi/2026/37), [regs. 1](https://www.legislation.gov.uk/ssi/2026/37/regulation/1), [6(a)](https://www.legislation.gov.uk/ssi/2026/37/regulation/6/a)
 
 [^f00106]: Footnote: [1995 c.36](https://www.legislation.gov.uk/ukpga/1995/36).
 
 [^f00107]: Footnote: [2000 asp 4](https://www.legislation.gov.uk/asp/2000/4).
 
-[^key-375715f7a86d5a5f80ac3d12bab6ec04]: Textual amendment: Words in [sch. 6 para. 14(2)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/14/2) substituted (30.11.2023) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Miscellaneous Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/281)](https://www.legislation.gov.uk/ssi/2023/281), [regs. 1](https://www.legislation.gov.uk/ssi/2023/281/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2023/281/regulation/2/3/a)
+[^c-375715f7a86d5a5f80ac3d12bab6ec04]: Textual amendment: Words in [sch. 6 para. 14(2)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/14/2) substituted (30.11.2023) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Miscellaneous Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/281)](https://www.legislation.gov.uk/ssi/2023/281), [regs. 1](https://www.legislation.gov.uk/ssi/2023/281/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2023/281/regulation/2/3/a)
 
-[^key-c979a94fd4ca9b1b15a5c9c6a58bf9ee]: Textual amendment: [Sch. 6 para. 14(5)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/14/5)[(6)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/14/6) inserted (30.11.2023) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Miscellaneous Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/281)](https://www.legislation.gov.uk/ssi/2023/281), [regs. 1](https://www.legislation.gov.uk/ssi/2023/281/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2023/281/regulation/2/3/b)
+[^c-c979a94fd4ca9b1b15a5c9c6a58bf9ee]: Textual amendment: [Sch. 6 para. 14(5)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/14/5)[(6)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/14/6) inserted (30.11.2023) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Miscellaneous Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/281)](https://www.legislation.gov.uk/ssi/2023/281), [regs. 1](https://www.legislation.gov.uk/ssi/2023/281/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2023/281/regulation/2/3/b)
 
-[^key-1e0d9f8f3e5e56b20eb7a6cc3fd49177]: Textual amendment: Words in [sch. 6 para. 17(3)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/17/3) substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [7(a)(i)](https://www.legislation.gov.uk/ssi/2018/94/regulation/7/a/i)
+[^c-1e0d9f8f3e5e56b20eb7a6cc3fd49177]: Textual amendment: Words in [sch. 6 para. 17(3)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/17/3) substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [7(a)(i)](https://www.legislation.gov.uk/ssi/2018/94/regulation/7/a/i)
 
-[^key-e4e62fd608a5e3d5a4bd5a71c52c5957]: Textual amendment: [Sch. 6 para. 17(3)(a)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/17/3/a) omitted (1.4.2018) by virtue of [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [7(a)(ii)](https://www.legislation.gov.uk/ssi/2018/94/regulation/7/a/ii)
+[^c-e4e62fd608a5e3d5a4bd5a71c52c5957]: Textual amendment: [Sch. 6 para. 17(3)(a)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/17/3/a) omitted (1.4.2018) by virtue of [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [7(a)(ii)](https://www.legislation.gov.uk/ssi/2018/94/regulation/7/a/ii)
 
-[^key-e2e8169e11c58e98b69fde388455bd48]: Textual amendment: [Sch. 6 para. 17(3)(b)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/17/3/b) omitted (1.4.2018) by virtue of [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [7(a)(iii)](https://www.legislation.gov.uk/ssi/2018/94/regulation/7/a/iii)
+[^c-e2e8169e11c58e98b69fde388455bd48]: Textual amendment: [Sch. 6 para. 17(3)(b)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/17/3/b) omitted (1.4.2018) by virtue of [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [7(a)(iii)](https://www.legislation.gov.uk/ssi/2018/94/regulation/7/a/iii)
 
-[^key-d445d8dd178ceeedf13d47c89ea132e6]: Textual amendment: Words in [sch. 6 para. 19(1)(b)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/19/1/b) substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [94(2)(a)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/94/2/a)
+[^c-d445d8dd178ceeedf13d47c89ea132e6]: Textual amendment: Words in [sch. 6 para. 19(1)(b)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/19/1/b) substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [94(2)(a)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/94/2/a)
 
-[^key-30ca040e06ea0bea49262d495720d2df]: Textual amendment: Words in sch. 6 para. 33(3)(d) inserted (1.4.2018) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [7(b)(i)](https://www.legislation.gov.uk/ssi/2018/94/regulation/7/b/i)
+[^c-30ca040e06ea0bea49262d495720d2df]: Textual amendment: Words in sch. 6 para. 33(3)(d) inserted (1.4.2018) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [7(b)(i)](https://www.legislation.gov.uk/ssi/2018/94/regulation/7/b/i)
 
-[^key-5891daa283049a6c5db6fc83e1c3dbb5]: Textual amendment: Sch. 6 para. 33(3)(e) substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [7(b)(ii)](https://www.legislation.gov.uk/ssi/2018/94/regulation/7/b/ii)
+[^c-5891daa283049a6c5db6fc83e1c3dbb5]: Textual amendment: Sch. 6 para. 33(3)(e) substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [7(b)(ii)](https://www.legislation.gov.uk/ssi/2018/94/regulation/7/b/ii)
 
 [^f00109]: Footnote: [1971 c.38](https://www.legislation.gov.uk/ukpga/1971/38). Section 2 was relevantly amended by paragraph 2 of schedule 17 of the Police Reform and Social Responsibility Act [2011 (c.13)](https://www.legislation.gov.uk/ukpga/2011/13).
 
 [^f00110]: Footnote: [S.I. 2001/3998](https://www.legislation.gov.uk/uksi/2001/3998). Schedule 4 was amended by [S.I. 2009/3136](https://www.legislation.gov.uk/uksi/2009/3136), [S.I. 2013/625](https://www.legislation.gov.uk/uksi/2013/625), [S.I. 2014/3277](https://www.legislation.gov.uk/uksi/2014/3277), [S.I. 2015/891](https://www.legislation.gov.uk/uksi/2015/891) and [S.I. 2016/1125](https://www.legislation.gov.uk/uksi/2016/1125). Schedule 5 was amended by [S.I. 2005/2864](https://www.legislation.gov.uk/uksi/2005/2864).
 
-[^key-74a6ae3d0f1d831c9ba8ec8a9d864020]: Textual amendment: Word in [sch. 6 para. 39(6)(b)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/39/6/b) substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [7(c)](https://www.legislation.gov.uk/ssi/2018/94/regulation/7/c)
+[^c-74a6ae3d0f1d831c9ba8ec8a9d864020]: Textual amendment: Word in [sch. 6 para. 39(6)(b)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/39/6/b) substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [7(c)](https://www.legislation.gov.uk/ssi/2018/94/regulation/7/c)
 
 [^f00111]: Footnote: Section 17N was inserted by section 4 of the Primary Medical Services (Scotland) Act [2004 (asp 1)](https://www.legislation.gov.uk/asp/2004/1).
 
 [^f00112]: Footnote: [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916).
 
-[^key-2deedaf217fe7f60c7c73f612c4ea2bb]: Textual amendment: [Sch. 6 para. 44(11)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/44/11) inserted (31.10.2019) by [The National Health Service (Serious Shortage Protocols) (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/284)](https://www.legislation.gov.uk/ssi/2019/284), [regs. 1](https://www.legislation.gov.uk/ssi/2019/284/regulation/1), [7](https://www.legislation.gov.uk/ssi/2019/284/regulation/7)
+[^c-2deedaf217fe7f60c7c73f612c4ea2bb]: Textual amendment: [Sch. 6 para. 44(11)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/44/11) inserted (31.10.2019) by [The National Health Service (Serious Shortage Protocols) (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/284)](https://www.legislation.gov.uk/ssi/2019/284), [regs. 1](https://www.legislation.gov.uk/ssi/2019/284/regulation/1), [7](https://www.legislation.gov.uk/ssi/2019/284/regulation/7)
 
 [^f00113]: Footnote: [1968 c.67](https://www.legislation.gov.uk/ukpga/1968/67). Part 3 was amended by [S.I. 1984/187](https://www.legislation.gov.uk/uksi/1984/187), section 1 of the Medical Products: Prescription by Nurses etc. Act [1992 (c.28)](https://www.legislation.gov.uk/ukpga/1992/28), [S.I. 1993/2538](https://www.legislation.gov.uk/uksi/1993/2538), [S.I. 1994/105](https://www.legislation.gov.uk/uksi/1994/105), [S.I. 1994/3142](https://www.legislation.gov.uk/uksi/1994/3142) [S.I. 1994/3144](https://www.legislation.gov.uk/uksi/1994/3144), [S.I. 1997/322](https://www.legislation.gov.uk/uksi/1997/322), [S.I. 1998/108](https://www.legislation.gov.uk/uksi/1998/108), section 63 of the Health and Care Social Care Act [2001 (c.5)](https://www.legislation.gov.uk/ukpga/2001/5), [S.I. 2002/236](https://www.legislation.gov.uk/uksi/2002/236) [S.I. 2002/253](https://www.legislation.gov.uk/uksi/2002/253), [S.I. 2003/1590](https://www.legislation.gov.uk/uksi/2003/1590), [S.I. 2004/1771](https://www.legislation.gov.uk/uksi/2004/1771), [S.I. 2005/2789](https://www.legislation.gov.uk/uksi/2005/2789), [S.I. 2006/1916](https://www.legislation.gov.uk/uksi/2006/1916), [S.I. 2006/2407](https://www.legislation.gov.uk/uksi/2006/2407), section 220(c) of the Health and Social Care Act [2012 (c.7)](https://www.legislation.gov.uk/ukpga/2012/7) and [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916).
 
@@ -2321,83 +2321,83 @@ The contract will not create any right enforceable by any person not a party to 
 
 [^f00117]: Footnote: [S.S.I. 2004/114](https://www.legislation.gov.uk/ssi/2004/114) was relevantly amended by [S.I. 2010/234](https://www.legislation.gov.uk/uksi/2010/234).
 
-[^key-fad87fa19a2f597a13192475cc9adac0]: Textual amendment: [Sch. 6 para. 54](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/54/1) renumbered as sch. 6 para. 54(1) (28.5.2022) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/130)](https://www.legislation.gov.uk/ssi/2022/130), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/130/regulation/1/2), [9(a)](https://www.legislation.gov.uk/ssi/2022/130/regulation/9/a)
+[^c-fad87fa19a2f597a13192475cc9adac0]: Textual amendment: [Sch. 6 para. 54](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/54/1) renumbered as sch. 6 para. 54(1) (28.5.2022) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/130)](https://www.legislation.gov.uk/ssi/2022/130), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/130/regulation/1/2), [9(a)](https://www.legislation.gov.uk/ssi/2022/130/regulation/9/a)
 
-[^key-28af6f9cb0c6e4241fcc8f3b50c01365]: Textual amendment: Words in [sch. 6 para. 54(1)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/54/1) inserted (28.5.2022) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/130)](https://www.legislation.gov.uk/ssi/2022/130), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/130/regulation/1/2), [9(b)](https://www.legislation.gov.uk/ssi/2022/130/regulation/9/b)
+[^c-28af6f9cb0c6e4241fcc8f3b50c01365]: Textual amendment: Words in [sch. 6 para. 54(1)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/54/1) inserted (28.5.2022) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/130)](https://www.legislation.gov.uk/ssi/2022/130), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/130/regulation/1/2), [9(b)](https://www.legislation.gov.uk/ssi/2022/130/regulation/9/b)
 
-[^key-e47dbcd3e1b8e26406e8a33bd087dcb7]: Textual amendment: [Sch. 6 para. 54(2)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/54/2) inserted (28.5.2022) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/130)](https://www.legislation.gov.uk/ssi/2022/130), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/130/regulation/1/2), [9(c)](https://www.legislation.gov.uk/ssi/2022/130/regulation/9/c)
+[^c-e47dbcd3e1b8e26406e8a33bd087dcb7]: Textual amendment: [Sch. 6 para. 54(2)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/54/2) inserted (28.5.2022) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/130)](https://www.legislation.gov.uk/ssi/2022/130), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/130/regulation/1/2), [9(c)](https://www.legislation.gov.uk/ssi/2022/130/regulation/9/c)
 
-[^key-78fe83f980c09c980810ca41c890cb5d]: Textual amendment: Words in [sch. 6 para. 54(2)(b)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/54/2/b) substituted (14.3.2026) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/37)](https://www.legislation.gov.uk/ssi/2026/37), [regs. 1](https://www.legislation.gov.uk/ssi/2026/37/regulation/1), [6(b)](https://www.legislation.gov.uk/ssi/2026/37/regulation/6/b)
+[^c-78fe83f980c09c980810ca41c890cb5d]: Textual amendment: Words in [sch. 6 para. 54(2)(b)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/54/2/b) substituted (14.3.2026) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/37)](https://www.legislation.gov.uk/ssi/2026/37), [regs. 1](https://www.legislation.gov.uk/ssi/2026/37/regulation/1), [6(b)](https://www.legislation.gov.uk/ssi/2026/37/regulation/6/b)
 
 [^f00118]: Footnote: This document is published jointly by the General Practitioners Committee of the British Medical Association and the NHS Confederation.
 
-[^key-d525b5aaec9d7e5dd6fa4f0dc6455404]: Textual amendment: Words in [sch. 6 para. 57](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/57) substituted (1.4.2026) by [The National Health Service (Functions of the Common Services Agency) (Miscellaneous Amendments) (Scotland) Order 2026 (S.S.I. 2026/20)](https://www.legislation.gov.uk/ssi/2026/20), [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/20/article/1/1), [sch. para. 20](https://www.legislation.gov.uk/ssi/2026/20/schedule/paragraph/20) (with [art. 6](https://www.legislation.gov.uk/ssi/2026/20/article/6))
+[^c-d525b5aaec9d7e5dd6fa4f0dc6455404]: Textual amendment: Words in [sch. 6 para. 57](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/57) substituted (1.4.2026) by [The National Health Service (Functions of the Common Services Agency) (Miscellaneous Amendments) (Scotland) Order 2026 (S.S.I. 2026/20)](https://www.legislation.gov.uk/ssi/2026/20), [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/20/article/1/1), [sch. para. 20](https://www.legislation.gov.uk/ssi/2026/20/schedule/paragraph/20) (with [art. 6](https://www.legislation.gov.uk/ssi/2026/20/article/6))
 
 [^f00120]: Footnote: The current guidance is PCS(GPR) 2009/1, which is available at http://www.sehd.scot.nhs.uk/pcs/PCS2009(GPR)01.pdf, as amended by PCS(GPR) 2011/1, which is available at http://www.sehd.scot.nhs.uk/pcs/PCS2011(GPR)01.pdf and as amended by PCS(GPR) 2015/1, which is available at http://www.sehd.scot.nhs.uk/pcs/PCS2015(GPR)01.pdf.
 
-[^key-c6e4fa2760f93ed09f464e5457d1e7b1]: Textual amendment: Words in [sch. 6 para. 58(1)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/58/1) substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [7(d)(i)](https://www.legislation.gov.uk/ssi/2018/94/regulation/7/d/i)
+[^c-c6e4fa2760f93ed09f464e5457d1e7b1]: Textual amendment: Words in [sch. 6 para. 58(1)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/58/1) substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [7(d)(i)](https://www.legislation.gov.uk/ssi/2018/94/regulation/7/d/i)
 
-[^key-310f05af4ae4c3a920dffc81df0b465c]: Textual amendment: Words in [sch. 6 para. 58(2)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/58/2) substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [7(d)(ii)](https://www.legislation.gov.uk/ssi/2018/94/regulation/7/d/ii)
+[^c-310f05af4ae4c3a920dffc81df0b465c]: Textual amendment: Words in [sch. 6 para. 58(2)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/58/2) substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [7(d)(ii)](https://www.legislation.gov.uk/ssi/2018/94/regulation/7/d/ii)
 
 [^f00121]: Footnote: Published by the then Scottish Executive as NHS Circular PCA(M)(2001)(17), copies available at http://www.sehd.scot.nhs.uk/pca/pca2001(m)17.htm.
 
 [^f00122]: Footnote: Section 17L was substituted by section 39(1) of the Tobacco and Primary Medical Services (Scotland) Act [2010 (asp 3)](https://www.legislation.gov.uk/asp/2010/3).
 
-[^key-e368a986453be5945a3a36bc137f60ce]: Textual amendment: Words in [sch. 6 para. 62(10)(c)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/62/10/c) omitted (1.4.2018) by virtue of [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [7(e)](https://www.legislation.gov.uk/ssi/2018/94/regulation/7/e)
+[^c-e368a986453be5945a3a36bc137f60ce]: Textual amendment: Words in [sch. 6 para. 62(10)(c)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/62/10/c) omitted (1.4.2018) by virtue of [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [7(e)](https://www.legislation.gov.uk/ssi/2018/94/regulation/7/e)
 
 [^f00123]: Footnote: Section 35 was substituted by section 34(2) of the National Health Service (Primary Care) Act [1997 (c.46)](https://www.legislation.gov.uk/ukpga/1997/46) and amended by paragraph 1 of schedule 1 of the Primary Medical Services (Scotland) Act [2004 (asp 1)](https://www.legislation.gov.uk/asp/2004/1).
 
-[^key-a5a50cea1e05c71e546b56a8b013a849]: Textual amendment: Words in sch. 6 para. 63(2) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 425(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/425/2) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-a5a50cea1e05c71e546b56a8b013a849]: Textual amendment: Words in sch. 6 para. 63(2) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 425(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/425/2) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-e9f75c5460b7059eaa2298451fa1bd6e]: Textual amendment: sch. 6 para. 64A: sch. 6 para. 64A substituted for sch. 6 para. 64 (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 425(3)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/425/3) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-e9f75c5460b7059eaa2298451fa1bd6e]: Textual amendment: sch. 6 para. 64A: sch. 6 para. 64A substituted for sch. 6 para. 64 (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 425(3)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/425/3) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-761543c264f83ca606c6288c240bb9a7]: Textual amendment: Words in sch. 6 para. 65(2)(a) substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [7(f)](https://www.legislation.gov.uk/ssi/2018/94/regulation/7/f)
+[^c-761543c264f83ca606c6288c240bb9a7]: Textual amendment: Words in sch. 6 para. 65(2)(a) substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [7(f)](https://www.legislation.gov.uk/ssi/2018/94/regulation/7/f)
 
-[^key-943e27b45c1ac3117be37444e070c833]: Textual amendment: Word in sch. 6 para. 65(2)(b) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 425(4)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/425/4) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-943e27b45c1ac3117be37444e070c833]: Textual amendment: Word in sch. 6 para. 65(2)(b) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 425(4)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/425/4) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-079da1a5d53105eecb4aae3d5d156be7]: Textual amendment: Words in sch. 6 para. 69(2)(a) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 425(5)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/425/5) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-079da1a5d53105eecb4aae3d5d156be7]: Textual amendment: Words in sch. 6 para. 69(2)(a) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 425(5)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/425/5) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-f8a4b0133a58d643e84de23227eeedd2]: Textual amendment: Words in sch. 6 para. 70(2) inserted (1.4.2018) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [7(g)](https://www.legislation.gov.uk/ssi/2018/94/regulation/7/g)
+[^c-f8a4b0133a58d643e84de23227eeedd2]: Textual amendment: Words in sch. 6 para. 70(2) inserted (1.4.2018) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [7(g)](https://www.legislation.gov.uk/ssi/2018/94/regulation/7/g)
 
-[^key-8a28d590381230708d40b8dcf577268c]: Textual amendment: Word in [sch. 6 para. 72(1)(a)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/72/1/a) omitted (1.10.2022) by virtue of [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/130)](https://www.legislation.gov.uk/ssi/2022/130), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2022/130/regulation/1/3), [10(a)(i)](https://www.legislation.gov.uk/ssi/2022/130/regulation/10/a/i)
+[^c-8a28d590381230708d40b8dcf577268c]: Textual amendment: Word in [sch. 6 para. 72(1)(a)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/72/1/a) omitted (1.10.2022) by virtue of [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/130)](https://www.legislation.gov.uk/ssi/2022/130), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2022/130/regulation/1/3), [10(a)(i)](https://www.legislation.gov.uk/ssi/2022/130/regulation/10/a/i)
 
-[^key-dcc686cc5fc52a6d36b86050086e3bbb]: Textual amendment: Word in [sch. 6 para. 72(1)(b)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/72/1/b) omitted (1.10.2022) by virtue of [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/130)](https://www.legislation.gov.uk/ssi/2022/130), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2022/130/regulation/1/3), [10(a)(ii)](https://www.legislation.gov.uk/ssi/2022/130/regulation/10/a/ii)
+[^c-dcc686cc5fc52a6d36b86050086e3bbb]: Textual amendment: Word in [sch. 6 para. 72(1)(b)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/72/1/b) omitted (1.10.2022) by virtue of [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/130)](https://www.legislation.gov.uk/ssi/2022/130), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2022/130/regulation/1/3), [10(a)(ii)](https://www.legislation.gov.uk/ssi/2022/130/regulation/10/a/ii)
 
-[^key-9ce54e403394874cbb7feee83c5d3557]: Textual amendment: Word in [sch. 6 para. 72(1)(c)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/72/1/c) omitted (1.10.2022) by virtue of [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/130)](https://www.legislation.gov.uk/ssi/2022/130), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2022/130/regulation/1/3), [10(a)(iii)](https://www.legislation.gov.uk/ssi/2022/130/regulation/10/a/iii)
+[^c-9ce54e403394874cbb7feee83c5d3557]: Textual amendment: Word in [sch. 6 para. 72(1)(c)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/72/1/c) omitted (1.10.2022) by virtue of [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/130)](https://www.legislation.gov.uk/ssi/2022/130), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2022/130/regulation/1/3), [10(a)(iii)](https://www.legislation.gov.uk/ssi/2022/130/regulation/10/a/iii)
 
-[^key-996174b069bfa1ab3540a02d50baa9f8]: Textual amendment: [Sch. 6 para. 72(2)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/72/2) omitted (1.10.2022) by virtue of [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/130)](https://www.legislation.gov.uk/ssi/2022/130), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2022/130/regulation/1/3), [10(b)](https://www.legislation.gov.uk/ssi/2022/130/regulation/10/b)
+[^c-996174b069bfa1ab3540a02d50baa9f8]: Textual amendment: [Sch. 6 para. 72(2)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/72/2) omitted (1.10.2022) by virtue of [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/130)](https://www.legislation.gov.uk/ssi/2022/130), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2022/130/regulation/1/3), [10(b)](https://www.legislation.gov.uk/ssi/2022/130/regulation/10/b)
 
-[^key-94a88ad032da6b671ead50f40a2d1ea0]: Textual amendment: Words in [sch. 6 para. 72(3)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/72/3) omitted (1.10.2022) by virtue of [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/130)](https://www.legislation.gov.uk/ssi/2022/130), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2022/130/regulation/1/3), [10(c)](https://www.legislation.gov.uk/ssi/2022/130/regulation/10/c)
+[^c-94a88ad032da6b671ead50f40a2d1ea0]: Textual amendment: Words in [sch. 6 para. 72(3)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/72/3) omitted (1.10.2022) by virtue of [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/130)](https://www.legislation.gov.uk/ssi/2022/130), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2022/130/regulation/1/3), [10(c)](https://www.legislation.gov.uk/ssi/2022/130/regulation/10/c)
 
-[^key-a83de9917a96222482efd5a52c278c69]: Textual amendment: [Sch. 6 para. 72(4)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/72/4) substituted (1.10.2022) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/130)](https://www.legislation.gov.uk/ssi/2022/130), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2022/130/regulation/1/3), [10(d)](https://www.legislation.gov.uk/ssi/2022/130/regulation/10/d)
+[^c-a83de9917a96222482efd5a52c278c69]: Textual amendment: [Sch. 6 para. 72(4)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/72/4) substituted (1.10.2022) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/130)](https://www.legislation.gov.uk/ssi/2022/130), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2022/130/regulation/1/3), [10(d)](https://www.legislation.gov.uk/ssi/2022/130/regulation/10/d)
 
-[^key-a9e5ac29477e9e913ba9b72ec490fd99]: Textual amendment: Word in sch. 6 para. 72(5)(a) substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [7(h)(ii)](https://www.legislation.gov.uk/ssi/2018/94/regulation/7/h/ii)
+[^c-a9e5ac29477e9e913ba9b72ec490fd99]: Textual amendment: Word in sch. 6 para. 72(5)(a) substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [7(h)(ii)](https://www.legislation.gov.uk/ssi/2018/94/regulation/7/h/ii)
 
-[^key-74f3dec7d2291dbe94c7769d3ff08730]: Textual amendment: [Sch. 6 para. 74A](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/74A) inserted (1.10.2022) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/130)](https://www.legislation.gov.uk/ssi/2022/130), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2022/130/regulation/1/3), [11](https://www.legislation.gov.uk/ssi/2022/130/regulation/11)
+[^c-74f3dec7d2291dbe94c7769d3ff08730]: Textual amendment: [Sch. 6 para. 74A](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/74A) inserted (1.10.2022) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/130)](https://www.legislation.gov.uk/ssi/2022/130), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2022/130/regulation/1/3), [11](https://www.legislation.gov.uk/ssi/2022/130/regulation/11)
 
-[^key-17d4a02a2768e742a356baa2ad429e50]: Textual amendment: Sch. 6 para. 76 heading, full stop inserted (1.4.2018) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [7(i)(i)](https://www.legislation.gov.uk/ssi/2018/94/regulation/7/i/i)
+[^c-17d4a02a2768e742a356baa2ad429e50]: Textual amendment: Sch. 6 para. 76 heading, full stop inserted (1.4.2018) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [7(i)(i)](https://www.legislation.gov.uk/ssi/2018/94/regulation/7/i/i)
 
-[^key-1f36b9bebda94454ee535a6e70954736]: Textual amendment: Words in sch. 6 para. 76(4)(c) substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [7(i)(ii)](https://www.legislation.gov.uk/ssi/2018/94/regulation/7/i/ii)
+[^c-1f36b9bebda94454ee535a6e70954736]: Textual amendment: Words in sch. 6 para. 76(4)(c) substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [7(i)(ii)](https://www.legislation.gov.uk/ssi/2018/94/regulation/7/i/ii)
 
-[^key-40a9bc162594d05f81b99949f194cc0a]: Textual amendment: Words in [sch. 6 para. 76(4)(c)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/76/4/c) substituted (coming into force in accordance with reg. 1 of the amending S.I.) by [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [Sch. 2 para. 39(c)](https://www.legislation.gov.uk/uksi/2019/1094/schedule/2/paragraph/39/c)
+[^c-40a9bc162594d05f81b99949f194cc0a]: Textual amendment: Words in [sch. 6 para. 76(4)(c)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/76/4/c) substituted (coming into force in accordance with reg. 1 of the amending S.I.) by [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [Sch. 2 para. 39(c)](https://www.legislation.gov.uk/uksi/2019/1094/schedule/2/paragraph/39/c)
 
-[^key-0b6bd67858cf5a6b201e7782b0fe124d]: Textual amendment: Words in sch. 6 para. 76(4)(d) substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [7(i)(iii)](https://www.legislation.gov.uk/ssi/2018/94/regulation/7/i/iii)
+[^c-0b6bd67858cf5a6b201e7782b0fe124d]: Textual amendment: Words in sch. 6 para. 76(4)(d) substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [7(i)(iii)](https://www.legislation.gov.uk/ssi/2018/94/regulation/7/i/iii)
 
-[^key-626f908c793de02ad9c00c75bd7f970e]: Textual amendment: Words in [sch. 6 para. 76(4)(d)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/76/4/d) substituted (coming into force in accordance with reg. 1 of the amending S.I.) by [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [Sch. 2 para. 39(c)](https://www.legislation.gov.uk/uksi/2019/1094/schedule/2/paragraph/39/c)
+[^c-626f908c793de02ad9c00c75bd7f970e]: Textual amendment: Words in [sch. 6 para. 76(4)(d)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/76/4/d) substituted (coming into force in accordance with reg. 1 of the amending S.I.) by [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [Sch. 2 para. 39(c)](https://www.legislation.gov.uk/uksi/2019/1094/schedule/2/paragraph/39/c)
 
-[^key-9c5540936d851958599743149cf0661b]: Textual amendment: Word in sch. 6 para. 77(8) substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [7(j)](https://www.legislation.gov.uk/ssi/2018/94/regulation/7/j)
+[^c-9c5540936d851958599743149cf0661b]: Textual amendment: Word in sch. 6 para. 77(8) substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [7(j)](https://www.legislation.gov.uk/ssi/2018/94/regulation/7/j)
 
 [^f00127]: Footnote: Section 2C was inserted into the Act by section 1(2) of the Primary Medical Services (Scotland) Act [2004 (asp 1)](https://www.legislation.gov.uk/asp/2004/1).
 
 [^f00128]: Footnote: [1986 c.45](https://www.legislation.gov.uk/ukpga/1986/45).
 
-[^key-3768fb0d385e8dadaa1cfb117bd59980]: Textual amendment: Word in sch. 6 para. 81(2)(a)(i) substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [7(k)](https://www.legislation.gov.uk/ssi/2018/94/regulation/7/k)
+[^c-3768fb0d385e8dadaa1cfb117bd59980]: Textual amendment: Word in sch. 6 para. 81(2)(a)(i) substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [7(k)](https://www.legislation.gov.uk/ssi/2018/94/regulation/7/k)
 
 [^f00129]: Footnote: [2011 asp 5](https://www.legislation.gov.uk/asp/2011/5).
 
-[^key-c37314e572945995cd44f99a348d6ce8]: Textual amendment: Words in sch. 6 para. 87 substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [7(l)](https://www.legislation.gov.uk/ssi/2018/94/regulation/7/l)
+[^c-c37314e572945995cd44f99a348d6ce8]: Textual amendment: Words in sch. 6 para. 87 substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [7(l)](https://www.legislation.gov.uk/ssi/2018/94/regulation/7/l)
 
-[^key-23b44b4e54168d0d41c9b70cdedf985e]: Textual amendment: Words in [sch. 6 para. 88(2)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/88/2) substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [94(2)(b)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/94/2/b)
+[^c-23b44b4e54168d0d41c9b70cdedf985e]: Textual amendment: Words in [sch. 6 para. 88(2)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/88/2) substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [94(2)(b)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/94/2/b)
 
 [^f00131]: Footnote: [1994 c.39](https://www.legislation.gov.uk/ukpga/1994/39). Section 2 was amended by paragraph 232(1) of the Environment Act [1995 (c.25)](https://www.legislation.gov.uk/ukpga/1995/25).
 
@@ -2405,31 +2405,31 @@ The contract will not create any right enforceable by any person not a party to 
 
 [^f00133]: Footnote: https://www.bma.org.uk/about-us/how-we-work/local-representation/local-medical-committees.
 
-[^key-8b55513ff96b7ed9c926e70716ffefa0]: Textual amendment: Word in [sch. 6 para. 89(1)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/89/1) substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [7(m)(i)](https://www.legislation.gov.uk/ssi/2018/94/regulation/7/m/i)
+[^c-8b55513ff96b7ed9c926e70716ffefa0]: Textual amendment: Word in [sch. 6 para. 89(1)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/89/1) substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [7(m)(i)](https://www.legislation.gov.uk/ssi/2018/94/regulation/7/m/i)
 
-[^key-0998571fa47e79c762ec912f7be7ad43]: Textual amendment: Words in [sch. 6 para. 89(3)(a)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/89/3/a) substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [7(m)(ii)](https://www.legislation.gov.uk/ssi/2018/94/regulation/7/m/ii)
+[^c-0998571fa47e79c762ec912f7be7ad43]: Textual amendment: Words in [sch. 6 para. 89(3)(a)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/89/3/a) substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [7(m)(ii)](https://www.legislation.gov.uk/ssi/2018/94/regulation/7/m/ii)
 
-[^key-62447ace8cbc10f270a1d4c8545b712d]: Textual amendment: Words in [sch. 6 para. 89(3)(b)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/89/3/b) substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [7(m)(iii)](https://www.legislation.gov.uk/ssi/2018/94/regulation/7/m/iii)
+[^c-62447ace8cbc10f270a1d4c8545b712d]: Textual amendment: Words in [sch. 6 para. 89(3)(b)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/89/3/b) substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [7(m)(iii)](https://www.legislation.gov.uk/ssi/2018/94/regulation/7/m/iii)
 
-[^key-0bfcc4934098c90f1ff713595e51fc55]: Textual amendment: Word in [sch. 6 para. 89(9)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/89/9) substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [7(m)(iv)](https://www.legislation.gov.uk/ssi/2018/94/regulation/7/m/iv)
+[^c-0bfcc4934098c90f1ff713595e51fc55]: Textual amendment: Word in [sch. 6 para. 89(9)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/89/9) substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [7(m)(iv)](https://www.legislation.gov.uk/ssi/2018/94/regulation/7/m/iv)
 
 [^f00134]: Footnote: Section 17A was inserted by section 30 of the National Health Service and Community Care Act [1990 (c.19)](https://www.legislation.gov.uk/ukpga/1990/19). Section 17A was moved under a new heading entitled “NHS Contracts” by section 31 of the National Health Service (Primary Care) Act [1997 (c.46)](https://www.legislation.gov.uk/ukpga/1997/46).
 
-[^key-b7706494ccefb6e594ccbc7f69cf0880]: Textual amendment: Words in [sch. 6 para. 94(1)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/94/1) substituted (18.10.2021) by [The National Health Service (General Medical Services and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/302)](https://www.legislation.gov.uk/ssi/2021/302), [regs. 1](https://www.legislation.gov.uk/ssi/2021/302/regulation/1), [9(d)(i)](https://www.legislation.gov.uk/ssi/2021/302/regulation/9/d/i)
+[^c-b7706494ccefb6e594ccbc7f69cf0880]: Textual amendment: Words in [sch. 6 para. 94(1)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/94/1) substituted (18.10.2021) by [The National Health Service (General Medical Services and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/302)](https://www.legislation.gov.uk/ssi/2021/302), [regs. 1](https://www.legislation.gov.uk/ssi/2021/302/regulation/1), [9(d)(i)](https://www.legislation.gov.uk/ssi/2021/302/regulation/9/d/i)
 
-[^key-7d4327cdb2c92abb40e23bce35c57313]: Textual amendment: Words in [sch. 6 para. 94(1)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/94/1) inserted (18.10.2021) by [The National Health Service (General Medical Services and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/302)](https://www.legislation.gov.uk/ssi/2021/302), [regs. 1](https://www.legislation.gov.uk/ssi/2021/302/regulation/1), [9(d)(ii)](https://www.legislation.gov.uk/ssi/2021/302/regulation/9/d/ii)
+[^c-7d4327cdb2c92abb40e23bce35c57313]: Textual amendment: Words in [sch. 6 para. 94(1)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/94/1) inserted (18.10.2021) by [The National Health Service (General Medical Services and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/302)](https://www.legislation.gov.uk/ssi/2021/302), [regs. 1](https://www.legislation.gov.uk/ssi/2021/302/regulation/1), [9(d)(ii)](https://www.legislation.gov.uk/ssi/2021/302/regulation/9/d/ii)
 
-[^key-951fafd194347215a2c0be87aafdeaf9]: Textual amendment: Sch. 6 para. 94(4)(b) omitted (25.5.2018) by virtue of [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 425(6)(a)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/425/6/a) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-951fafd194347215a2c0be87aafdeaf9]: Textual amendment: Sch. 6 para. 94(4)(b) omitted (25.5.2018) by virtue of [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 425(6)(a)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/425/6/a) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-2e9d6272a161ee7f98181a7bd6795402]: Textual amendment: Word in sch. 6 para. 94(4)(c) substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [7(n)](https://www.legislation.gov.uk/ssi/2018/94/regulation/7/n)
+[^c-2e9d6272a161ee7f98181a7bd6795402]: Textual amendment: Word in sch. 6 para. 94(4)(c) substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [7(n)](https://www.legislation.gov.uk/ssi/2018/94/regulation/7/n)
 
 [^f00136]: Footnote: [2016 asp 14](https://www.legislation.gov.uk/asp/2016/14).
 
 [^f00137]: Footnote: [2016 asp 14](https://www.legislation.gov.uk/asp/2016/14).
 
-[^key-6334e5d372b3f8c80a44d7181a593043]: Textual amendment: Sch. 6 para. 94(4)(da)(db) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 425(6)(b)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/425/6/b) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-6334e5d372b3f8c80a44d7181a593043]: Textual amendment: Sch. 6 para. 94(4)(da)(db) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 425(6)(b)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/425/6/b) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-a010a5b8c20e60bde4dd63e07568bb3f]: Textual amendment: Word in sch. 6 para. 103(1) substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [7(o)](https://www.legislation.gov.uk/ssi/2018/94/regulation/7/o)
+[^c-a010a5b8c20e60bde4dd63e07568bb3f]: Textual amendment: Word in sch. 6 para. 103(1) substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [7(o)](https://www.legislation.gov.uk/ssi/2018/94/regulation/7/o)
 
 [^f00138]: Footnote: Sections 32A(2) and 32B(1) were inserted by section 8 of the National Health Service (Amendment) Act [1995 (c.31)](https://www.legislation.gov.uk/ukpga/1995/31). Section 32A(2) was amended by paragraph 51 of schedule 4 of the Health Act [1999 (c.8)](https://www.legislation.gov.uk/ukpga/1999/8) (“the 1999 Act”) and section 26(7) of the Smoking, Health and Social Care (Scotland) Act [2005 (asp 13)](https://www.legislation.gov.uk/asp/2005/13) (“the 2005 Act”). Section 32B(1) was amended by paragraph 52 of schedule 4 of the 1999 Act, and paragraph 1 of schedule 3 of the 2005 Act.
 
@@ -2457,19 +2457,19 @@ The contract will not create any right enforceable by any person not a party to 
 
 [^f00150]: Footnote: [S.I, 2015/1862](https://www.legislation.gov.uk/uksi/2015/1862).
 
-[^key-84a7de349060ce737969b99a7b8d4138]: Textual amendment: Words in [sch. 6 para. 109(1)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/109/1) omitted (1.4.2018) by virtue of [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [7(p)(i)](https://www.legislation.gov.uk/ssi/2018/94/regulation/7/p/i)
+[^c-84a7de349060ce737969b99a7b8d4138]: Textual amendment: Words in [sch. 6 para. 109(1)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/109/1) omitted (1.4.2018) by virtue of [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [7(p)(i)](https://www.legislation.gov.uk/ssi/2018/94/regulation/7/p/i)
 
-[^key-cf0277ede825d2e53e712431a2d5b7b2]: Textual amendment: Words in [sch. 6 para. 109(2)(b)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/109/2/b) substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [7(p)(ii)](https://www.legislation.gov.uk/ssi/2018/94/regulation/7/p/ii)
+[^c-cf0277ede825d2e53e712431a2d5b7b2]: Textual amendment: Words in [sch. 6 para. 109(2)(b)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/109/2/b) substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [7(p)(ii)](https://www.legislation.gov.uk/ssi/2018/94/regulation/7/p/ii)
 
-[^key-be768046b58773563e82572a9440671b]: Textual amendment: Word in [sch. 6 para. 110(1)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/110/1) substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [7(q)(i)](https://www.legislation.gov.uk/ssi/2018/94/regulation/7/q/i)
+[^c-be768046b58773563e82572a9440671b]: Textual amendment: Word in [sch. 6 para. 110(1)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/110/1) substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [7(q)(i)](https://www.legislation.gov.uk/ssi/2018/94/regulation/7/q/i)
 
-[^key-6f03beadf4823198ff852fa35445c69e]: Textual amendment: Words in [sch. 6 para. 110(4)(b)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/110/4/b) substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [7(q)(ii)](https://www.legislation.gov.uk/ssi/2018/94/regulation/7/q/ii)
+[^c-6f03beadf4823198ff852fa35445c69e]: Textual amendment: Words in [sch. 6 para. 110(4)(b)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/110/4/b) substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [7(q)(ii)](https://www.legislation.gov.uk/ssi/2018/94/regulation/7/q/ii)
 
-[^key-c6b1134c9094a5fec7d6037e06426418]: Textual amendment: Word in [sch. 6 para. 110(5)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/110/5) inserted (1.4.2018) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [7(q)(iii)](https://www.legislation.gov.uk/ssi/2018/94/regulation/7/q/iii)
+[^c-c6b1134c9094a5fec7d6037e06426418]: Textual amendment: Word in [sch. 6 para. 110(5)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/110/5) inserted (1.4.2018) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [7(q)(iii)](https://www.legislation.gov.uk/ssi/2018/94/regulation/7/q/iii)
 
-[^key-90389283b68b768d6d3f86b9e5d2f2eb]: Textual amendment: Word in sch. 6 para. 111(1)(a) substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [7(r)](https://www.legislation.gov.uk/ssi/2018/94/regulation/7/r)
+[^c-90389283b68b768d6d3f86b9e5d2f2eb]: Textual amendment: Word in sch. 6 para. 111(1)(a) substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [7(r)](https://www.legislation.gov.uk/ssi/2018/94/regulation/7/r)
 
-[^key-abd55ab3a9130f5f2c822b7e3c3cc559]: Textual amendment: [Sch. 6 para. 114(3A)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/114/3A)[(3B)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/114/3B) inserted (28.5.2022) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/130)](https://www.legislation.gov.uk/ssi/2022/130), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/130/regulation/1/2), [12](https://www.legislation.gov.uk/ssi/2022/130/regulation/12)
+[^c-abd55ab3a9130f5f2c822b7e3c3cc559]: Textual amendment: [Sch. 6 para. 114(3A)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/114/3A)[(3B)](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/114/3B) inserted (28.5.2022) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/130)](https://www.legislation.gov.uk/ssi/2022/130), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/130/regulation/1/2), [12](https://www.legislation.gov.uk/ssi/2022/130/regulation/12)
 
 [^f00151]: Footnote: [2016 asp 14](https://www.legislation.gov.uk/asp/2016/14).
 

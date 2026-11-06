@@ -42,21 +42,21 @@ Coming into force
 
 The Treasury, in exercise of the powers conferred by sections 3 and 45 of the Financial Services Act 2021[^f00001] and section 8(1) of, and paragraph 21 of Schedule 7 to, the European Union (Withdrawal) Act 2018[^f00002], make the following Regulations.
 
-The Treasury consider that the provisions revoked by these Regulations which are to be replaced by general rules to be made by the Prudential Regulation Authority will be adequately replaced; that where provisions revoked by these Regulations are not to be replaced by general rules, it is appropriate for those provisions not to be replaced; and that where a provision of the Capital Requirements Regulation connected with provision relating to a matter listed in section 3(2) of the Financial Services Act 2021 is revoked, the revocation is necessary or desirable in order to maintain or improve the coherence of the prudential regime concerned.[^key-adc9a1e77150e537df91dac95441af59]
+The Treasury consider that the provisions revoked by these Regulations which are to be replaced by general rules to be made by the Prudential Regulation Authority will be adequately replaced; that where provisions revoked by these Regulations are not to be replaced by general rules, it is appropriate for those provisions not to be replaced; and that where a provision of the Capital Requirements Regulation connected with provision relating to a matter listed in section 3(2) of the Financial Services Act 2021 is revoked, the revocation is necessary or desirable in order to maintain or improve the coherence of the prudential regime concerned.[^c-adc9a1e77150e537df91dac95441af59]
 
-A draft of these Regulations has been laid before and approved by a resolution of each House of Parliament, in accordance with section 3(7) of the Financial Services Act 2021 and paragraph 1(1) of Schedule 7 to the European Union (Withdrawal) Act 2018.[^key-adc9a1e77150e537df91dac95441af59]
+A draft of these Regulations has been laid before and approved by a resolution of each House of Parliament, in accordance with section 3(7) of the Financial Services Act 2021 and paragraph 1(1) of Schedule 7 to the European Union (Withdrawal) Act 2018.[^c-adc9a1e77150e537df91dac95441af59]
 
-## 1. Citation, commencement and extent[^key-491a9e37e93931f02e8aa78a8dcffe79]
+## 1. Citation, commencement and extent[^c-491a9e37e93931f02e8aa78a8dcffe79]
 
 (1) These Regulations may be cited as the Capital Requirements Regulation (Amendment) Regulations 2021 and come into force on 1st January 2022.
 
 (2) These Regulations extend to England and Wales, Scotland and Northern Ireland.
 
-## 2. Amendment of the Capital Requirements Regulation[^key-098acc37e78b81a11894de4912bcd03a]
+## 2. Amendment of the Capital Requirements Regulation[^c-098acc37e78b81a11894de4912bcd03a]
 
 The Capital Requirements Regulation[^f00003] is amended as follows.
 
-## 3. Title I of Part One: subject matter, scope and definitions[^key-2a34a123edd82108530701e23f94901c]
+## 3. Title I of Part One: subject matter, scope and definitions[^c-2a34a123edd82108530701e23f94901c]
 
 In Article 4 (definitions), in paragraph (1A)[^f00004], after the definition of “Bank” insert—
 
@@ -64,14 +64,14 @@ In Article 4 (definitions), in paragraph (1A)[^f00004], after the definition of 
 
 .
 
-## 4. Title II of Part One: level of application of requirements[^key-80f4933b9f1fb92b0bd19e39e5fc6929]
+## 4. Title II of Part One: level of application of requirements[^c-80f4933b9f1fb92b0bd19e39e5fc6929]
 
 (1) Title II of Part One (comprising Articles 6 to 24) (level of application requirements) is amended as follows.
 
 (2) In Article 6[^f00005] (application of requirements on an individual basis: general principles)—
 
-- (a) in paragraph 1, for “Parts Two to Five and Eight” substitute “Part Two, Part Three [^key-df23077a0e0adb223baf62d8c1e9d7cc]... and Chapter 2 of Regulation (EU) 2017/2402 of the European Parliament and of the Council of 12 December 2017 laying down a general framework for securitisation and creating a specific framework for simple, transparent and standardised securitisation[^f00006] (provisions applicable to all securitisations)”;
-- (b)[^key-abb768cf849949fd2062649bd3f1c751] omit paragraphs 3 to 5.
+- (a) in paragraph 1, for “Parts Two to Five and Eight” substitute “Part Two, Part Three [^c-df23077a0e0adb223baf62d8c1e9d7cc]... and Chapter 2 of Regulation (EU) 2017/2402 of the European Parliament and of the Council of 12 December 2017 laying down a general framework for securitisation and creating a specific framework for simple, transparent and standardised securitisation[^f00006] (provisions applicable to all securitisations)”;
+- (b)[^c-abb768cf849949fd2062649bd3f1c751] omit paragraphs 3 to 5.
 
 (3) In Article 7[^f00007] (derogation from the application of prudential requirements on an individual basis), in paragraph 3(a) and (b), for “parent institution in a Member State” substitute “UK parent institution”.
 
@@ -79,17 +79,17 @@ In Article 4 (definitions), in paragraph (1A)[^f00004], after the definition of 
 
 (5) In Article 11[^f00009] (application of prudential requirements on a consolidated basis: general treatment)—
 
-- (a)[^key-0c1032b787c7b98fdd711d777faa5b67] in paragraph 1, for “Parts Two, Three, Four, Seven and Seven A on the basis of their consolidated situation, with the exception of point (d) of Article 430(1)” substitute “Parts Two and Three on the basis of their consolidated situation”
+- (a)[^c-0c1032b787c7b98fdd711d777faa5b67] in paragraph 1, for “Parts Two, Three, Four, Seven and Seven A on the basis of their consolidated situation, with the exception of point (d) of Article 430(1)” substitute “Parts Two and Three on the basis of their consolidated situation”
 - (b) omit paragraph 4;
-- (c)[^key-93bc8981594eceab1b4e7dd5e81489d1] in paragraph 6, in point (a) of the third subparagraph, for “2, 3, 4, 6, 7, 7A and 8” substitute “Two and Three”.
+- (c)[^c-93bc8981594eceab1b4e7dd5e81489d1] in paragraph 6, in point (a) of the third subparagraph, for “2, 3, 4, 6, 7, 7A and 8” substitute “Two and Three”.
 
-(6)[^key-f6f9bd8379973a3401967f29d852bb1c] Omit Article 13 (application of disclosure requirements on a consolidated basis).
+(6)[^c-f6f9bd8379973a3401967f29d852bb1c] Omit Article 13 (application of disclosure requirements on a consolidated basis).
 
 (7) In Article 18(1) (methods of prudential consolidation), omit the second sentence.
 
 (8) Omit Article 22 (sub-consolidation in cases of entities in third countries).
 
-## 5. Chapter 2 of Title I of Part Two (own funds and eligible liabilities): Common Equity Tier 1 capital[^key-883dffef457abcea9a2285205f32c104]
+## 5. Chapter 2 of Title I of Part Two (own funds and eligible liabilities): Common Equity Tier 1 capital[^c-883dffef457abcea9a2285205f32c104]
 
 (1) Chapter 2 of Title I of Part Two (Common Equity Tier 1 capital) is amended as follows.
 
@@ -97,7 +97,7 @@ In Article 4 (definitions), in paragraph (1A)[^f00004], after the definition of 
 
 (3) Omit Article 41(2)[^f00012] (deduction of defined benefit pension fund assets).
 
-## 6. Part Three: capital requirements[^key-15862e03641fae7994a50d3534eafd30]
+## 6. Part Three: capital requirements[^c-15862e03641fae7994a50d3534eafd30]
 
 (1) Part Three (comprising Articles 92 to 386) (capital requirements) is amended as follows.
 
@@ -133,7 +133,7 @@ In Article 4 (definitions), in paragraph (1A)[^f00004], after the definition of 
 
 (5) In Title VI (own funds requirements for credit valuation adjustment risk), omit Article 385 (alternative to using CVA methods to calculating own funds requirements for credit valuation adjustment risk).
 
-## 7. Part Four: large exposures[^key-e1d3d2e24e8aea84793e933e56c69207]
+## 7. Part Four: large exposures[^c-e1d3d2e24e8aea84793e933e56c69207]
 
 In Part Four (comprising Articles 387 to 403)[^f00023] (large exposures)—
 
@@ -147,23 +147,23 @@ In Part Four (comprising Articles 387 to 403)[^f00023] (large exposures)—
 
     .
 
-## 8. Part Six: liquidity[^key-023cc8840b5c03f6b1c8582af79bbfbd]
+## 8. Part Six: liquidity[^c-023cc8840b5c03f6b1c8582af79bbfbd]
 
 Omit Part Six (comprising Articles 411 to 428)[^f00024] (liquidity).
 
-## 8A. Part Seven: leverage[^M_I_6305563c-a2f9-4ca4-d0bc-e5d5f6540fab][^key-c8647d14dd5e0b01b51593de5120a78e]
+## 8A. Part Seven: leverage[^M_I_6305563c-a2f9-4ca4-d0bc-e5d5f6540fab][^c-c8647d14dd5e0b01b51593de5120a78e]
 
 Omit Articles 429, 429a, 429b and 430(1).
 
-## 9. Part Seven A: reporting requirements[^key-014ea75d2c280e41473510b53a9f7018]
+## 9. Part Seven A: reporting requirements[^c-014ea75d2c280e41473510b53a9f7018]
 
 Omit Articles 430(7) and 430b[^f00025] (reporting requirements).
 
-## 10. Part Eight: disclosure by institutions[^key-286ff66de892c7562a4841f21dd274c7][^key-e978e8cd2a09ba16b18fd49e0aa64c9f]
+## 10. Part Eight: disclosure by institutions[^c-286ff66de892c7562a4841f21dd274c7][^c-e978e8cd2a09ba16b18fd49e0aa64c9f]
 
 Omit Part Eight (disclosure by institutions: comprising Articles 431 to 455).
 
-## 11. Part Nine: regulations, enhanced prudential measures and technical standards[^key-9a24358dd81f3798247db342090781b3]
+## 11. Part Nine: regulations, enhanced prudential measures and technical standards[^c-9a24358dd81f3798247db342090781b3]
 
 (1) Part Nine (comprising Articles 456 to 464B) (regulations, enhanced prudential measures and technical standards) is amended as follows.
 
@@ -173,7 +173,7 @@ Omit Part Eight (disclosure by institutions: comprising Articles 431 to 455).
   - (i) in point (a), for “, 300, 381 and 411” substitute “and 381”;
   - (ii) in point (b), for “, 300, 381 and 411” substitute “and 381”;
   - (iii) in point (h), omit “Articles 301 to 311 of this Regulation and”;
-  - (iv)[^key-7dc065d73f724dd73905d9048c463cac] omit points (i) and (j);
+  - (iv)[^c-7dc065d73f724dd73905d9048c463cac] omit points (i) and (j);
 - (b) in paragraph 2, for “and 383 to 386” substitute “, 383, 384 and 386”.
 
 (3) In Article 457[^f00028] (Treasury power to make regulations: technical adjustments and corrections)—
@@ -185,16 +185,16 @@ Omit Part Eight (disclosure by institutions: comprising Articles 431 to 455).
 
 (4) In Article 458[^f00029] (enhanced prudential measures directions and recommendations: interpretation), in paragraph 1—
 
-- (a)[^key-fdfc62e27b8157520fca9259033e850a] in the definition of “relevant prudential area”, omit points (ii) to (iv);
+- (a)[^c-fdfc62e27b8157520fca9259033e850a] in the definition of “relevant prudential area”, omit points (ii) to (iv);
 - (b) omit the definition of “the Liquidity Commission Delegated Regulation”.
 
-(5)[^key-f08cf5285d525e5eae8e630898b7f037] In Article 459 (Treasury power to make regulations: prudential requirements), omit points (b) and (c).
+(5)[^c-f08cf5285d525e5eae8e630898b7f037] In Article 459 (Treasury power to make regulations: prudential requirements), omit points (b) and (c).
 
 (6) Omit Article 460[^f00031] (Treasury power to make regulations: liquidity).
 
 (7) Omit Article 461 (review of the phasing-in of the liquidity coverage requirement).
 
-## 12. Part Ten: transitional provisions, reports, reviews and amendments[^key-a5a79162f2973c13e3b61549ddc43a0f]
+## 12. Part Ten: transitional provisions, reports, reviews and amendments[^c-a5a79162f2973c13e3b61549ddc43a0f]
 
 (1) Part Ten (comprising Articles 465 to 520) (transitional provisions, reports, reviews and amendments) is amended as follows.
 
@@ -206,11 +206,11 @@ Omit Part Eight (disclosure by institutions: comprising Articles 431 to 455).
 
 (5) In Article 497[^f00034] (own funds requirements for exposures to CCPs), in paragraph 3, for “once, by 12 months,” substitute “by 12 months on each occasion”.
 
-(5A)[^key-e62df4ec7f09b2c115d8e78e4308ffd3] Omit Articles 499 (leverage), 500b (temporary exclusion of certain exposures to central banks from the total exposure measure in view of the COVID-19 pandemic) and 500d (temporary calculation of the exposure value of regular-way purchases and sales awaiting settlement in view of the COVID-19 pandemic).
+(5A)[^c-e62df4ec7f09b2c115d8e78e4308ffd3] Omit Articles 499 (leverage), 500b (temporary exclusion of certain exposures to central banks from the total exposure measure in view of the COVID-19 pandemic) and 500d (temporary calculation of the exposure value of regular-way purchases and sales awaiting settlement in view of the COVID-19 pandemic).
 
 (6) Omit Article 501b[^f00035] (derogation from reporting requirements in Article 430).
 
-## 13. Revocation and amendment of other retained direct EU legislation[^key-4431c49a36ac112246bca6075737124d]
+## 13. Revocation and amendment of other retained direct EU legislation[^c-4431c49a36ac112246bca6075737124d]
 
 (1) The following instruments are revoked—
 
@@ -223,13 +223,13 @@ Omit Part Eight (disclosure by institutions: comprising Articles 431 to 455).
 (2) Part 2 (PRA) of the following instruments[^f00041] is revoked—
 
 - (a) Commission Implementing [Regulation (EU) No 1423/2013](https://www.legislation.gov.uk/european/regulation/2013/1423) of 20 December 2013 laying down implementing technical standards with regard to disclosure of own funds requirements for institutions according to [Regulation (EU) No 575/2013](https://www.legislation.gov.uk/european/regulation/2013/0575) of the European Parliament and of the Council[^f00042];
-- (aa)[^key-96e12f2b89bc3c602f737aef88a062bb] Commission Implementing [Regulation (EU) No 680/2014](https://www.legislation.gov.uk/european/regulation/2014/0680) of 16 April 2014 laying down implementing technical standards with regard to supervisory reporting of institutions according to [Regulation (EU) No 575/2013](https://www.legislation.gov.uk/european/regulation/2013/0575) of the European Parliament and of the Council;
+- (aa)[^c-96e12f2b89bc3c602f737aef88a062bb] Commission Implementing [Regulation (EU) No 680/2014](https://www.legislation.gov.uk/european/regulation/2014/0680) of 16 April 2014 laying down implementing technical standards with regard to supervisory reporting of institutions according to [Regulation (EU) No 575/2013](https://www.legislation.gov.uk/european/regulation/2013/0575) of the European Parliament and of the Council;
 - (b) Commission Implementing [Regulation (EU) No 1030/2014](https://www.legislation.gov.uk/european/regulation/2014/1030) of 29 September 2014 laying down implementing technical standards with regard to the uniform formats and date for the disclosure of the values used to identify global systemically important institutions according to [Regulation (EU) No 575/2013](https://www.legislation.gov.uk/european/regulation/2013/0575) of the European Parliament and of the Council[^f00043];
 - (c) Commission Delegated [Regulation (EU) No 1187/2014](https://www.legislation.gov.uk/european/regulation/2014/1187) of 2 October 2014 supplementing [Regulation (EU) No 575/2013](https://www.legislation.gov.uk/european/regulation/2013/0575) of the European Parliament and of the Council as regards regulatory technical standards for determining the overall exposure to a client or a group of connected clients in respect of transactions with underlying assets[^f00044];
 - (d) Commission Delegated Regulation (EU) 2015/585 of 18 December 2014 supplementing [Regulation (EU) No 575/2013](https://www.legislation.gov.uk/european/regulation/2013/0575) of the European Parliament and of the Council with regard to regulatory technical standards for the specification of margin periods of risk[^f00045];
 - (e) Commission Delegated Regulation (EU) 2015/1555 of 28 May 2015 supplementing [Regulation (EU) No 575/2013](https://www.legislation.gov.uk/european/regulation/2013/0575) of the European Parliament and of the Council with regard to regulatory technical standards for the disclosure of information in relation to the compliance of institutions with the requirement for a countercyclical capital buffer in accordance with Article 440[^f00046];
 - (f) Commission Delegated Regulation (EU) 2016/101 of 26 October 2015 supplementing [Regulation (EU) No 575/2013](https://www.legislation.gov.uk/european/regulation/2013/0575) of the European Parliament and of the Council with regard to regulatory technical standards for prudent valuation under Article 105(14)[^f00047];
-- (fa)[^key-0f11f0a2904f70a302f70d2bd7daf28b] Commission Implementing Regulation (EU) 2016/200 of 15 February 2016 laying down implementing technical standards with regard to disclosure of the leverage ratio for institutions, according to [Regulation (EU) No 575/2013](https://www.legislation.gov.uk/european/regulation/2013/0575) of the European Parliament and of the Council;
+- (fa)[^c-0f11f0a2904f70a302f70d2bd7daf28b] Commission Implementing Regulation (EU) 2016/200 of 15 February 2016 laying down implementing technical standards with regard to disclosure of the leverage ratio for institutions, according to [Regulation (EU) No 575/2013](https://www.legislation.gov.uk/european/regulation/2013/0575) of the European Parliament and of the Council;
 - (g) Commission Delegated Regulation (EU) 2017/2295 of 4 September 2017 supplementing [Regulation (EU) No 575/2013](https://www.legislation.gov.uk/european/regulation/2013/0575) of the European Parliament and of the Council with regard to regulatory technical standards for disclosure of encumbered and unencumbered assets[^f00048].
 
 (3) In Part 2 (PRA) of Commission Delegated Regulation (EU) 241/2014 of 7 January 2014 supplementing [Regulation (EU) No 575/2013](https://www.legislation.gov.uk/european/regulation/2013/0575) of the European Parliament and of the Council with regard to regulatory technical standards for Own Funds requirements for institutions[^f00049]—
@@ -237,9 +237,9 @@ Omit Part Eight (disclosure by institutions: comprising Articles 431 to 455).
 - (a) omit Article 1(f) and (g) (subject matter of the Regulation);
 - (b) omit Articles 13 to 19 (deductions from Common Equity Tier 1 items and deduction of defined benefit pension fund assets).
 
-(4)[^key-13dbfbd31d2537b166664ffa1d79dcad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-13dbfbd31d2537b166664ffa1d79dcad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Saving for amendment of existing technical standards instruments made by the Financial Conduct Authority[^M_I_2d0c63c7-462e-4b97-8b63-ab3e0b0f3ebc][^key-dd11c923482082f366db3e5543954f62]
+## 14. Saving for amendment of existing technical standards instruments made by the Financial Conduct Authority[^M_I_2d0c63c7-462e-4b97-8b63-ab3e0b0f3ebc][^c-dd11c923482082f366db3e5543954f62]
 
 Notwithstanding the revocation of Articles 390(8), 394(4), 415(3a) and 419(5) of the Capital Requirements Regulation made by regulations 7(a) and 8 of these Regulations, the Financial Conduct Authority (“**FCA**”) retains the power to modify, revoke or amend any technical standards in force immediately before 1 January 2022 which were—
 
@@ -328,27 +328,27 @@ No impact assessment has been published in respect of these Regulations because
 
 [^f00002]: Footnote: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16); section 8 was amended by section 27 of the European Union (Withdrawal Agreement) Act [2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1) and paragraph 21 of Schedule 7 was amended by paragraph 53 of Schedule 5 to that Act.
 
-[^key-adc9a1e77150e537df91dac95441af59]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2021/1078): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-adc9a1e77150e537df91dac95441af59]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2021/1078): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
-[^key-491a9e37e93931f02e8aa78a8dcffe79]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1) in force at 1.1.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1)
+[^c-491a9e37e93931f02e8aa78a8dcffe79]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1) in force at 1.1.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1)
 
-[^key-098acc37e78b81a11894de4912bcd03a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2021/1078/regulation/2) in force at 1.1.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1)
+[^c-098acc37e78b81a11894de4912bcd03a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2021/1078/regulation/2) in force at 1.1.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1)
 
 [^f00003]: Footnote: EUR 2013/575, amended, or prospectively amended by, sections 1 and 7 of, and Schedules 1 and 4 to, the Financial Services Act 2021 and [S.I. 2018/1401](https://www.legislation.gov.uk/uksi/2018/1401), [2019/264](https://www.legislation.gov.uk/uksi/2019/264), [660](https://www.legislation.gov.uk/uksi/2019/660), [710](https://www.legislation.gov.uk/uksi/2019/710) and [1232](https://www.legislation.gov.uk/uksi/2019/1232), [2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [1385](https://www.legislation.gov.uk/uksi/2020/1385) and [1470](https://www.legislation.gov.uk/uksi/2020/1470) and [2021/558](https://www.legislation.gov.uk/uksi/2020/558).
 
-[^key-2a34a123edd82108530701e23f94901c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2021/1078/regulation/3) in force at 1.1.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1)
+[^c-2a34a123edd82108530701e23f94901c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2021/1078/regulation/3) in force at 1.1.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1)
 
 [^f00004]: Footnote: Paragraph (1A) was inserted by [S.I. 2018/1401](https://www.legislation.gov.uk/uksi/2018/1401) and amended by [S.I. 2019/1232](https://www.legislation.gov.uk/uksi/2019/1232).
 
-[^key-80f4933b9f1fb92b0bd19e39e5fc6929]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2021/1078/regulation/4) in force at 1.1.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1)
+[^c-80f4933b9f1fb92b0bd19e39e5fc6929]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2021/1078/regulation/4) in force at 1.1.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1)
 
 [^f00005]: Footnote: Article 6 was amended by [S.I. 2018/1401](https://www.legislation.gov.uk/uksi/2018/1401) and [2019/1232](https://www.legislation.gov.uk/uksi/2019/1232).
 
-[^key-df23077a0e0adb223baf62d8c1e9d7cc]: Textual amendment: Words in [reg. 4(2)(a)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/4/2/a) omitted (8.12.2021) by virtue of [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/2), [32(2)(a)(i)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/32/2/a/i)
+[^c-df23077a0e0adb223baf62d8c1e9d7cc]: Textual amendment: Words in [reg. 4(2)(a)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/4/2/a) omitted (8.12.2021) by virtue of [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/2), [32(2)(a)(i)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/32/2/a/i)
 
 [^f00006]: Footnote: EUR 2017/2402 as amended by [S.I. 2019/660](https://www.legislation.gov.uk/uksi/2019/660) and [2019/876](https://www.legislation.gov.uk/uksi/2019/876).
 
-[^key-abb768cf849949fd2062649bd3f1c751]: Textual amendment: [Reg. 4(2)(b)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/4/2/b) substituted for [reg. 4(2)(b)(c)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/4/2/b) (8.12.2021) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/2), [32(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/32/2/a/ii)
+[^c-abb768cf849949fd2062649bd3f1c751]: Textual amendment: [Reg. 4(2)(b)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/4/2/b) substituted for [reg. 4(2)(b)(c)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/4/2/b) (8.12.2021) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/2), [32(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/32/2/a/ii)
 
 [^f00007]: Footnote: Article 7 was amended by [S.I. 2018/1401](https://www.legislation.gov.uk/uksi/2018/1401).
 
@@ -356,19 +356,19 @@ No impact assessment has been published in respect of these Regulations because
 
 [^f00009]: Footnote: Article 11 was amended by [S.I. 2020/1385](https://www.legislation.gov.uk/uksi/2020/1385); there is another amending instrument but it is not relevant.
 
-[^key-0c1032b787c7b98fdd711d777faa5b67]: Textual amendment: [Reg. 4(5)(a)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/4/5/a) substituted (8.12.2021) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/2), [32(2)(b)(i)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/32/2/b/i)
+[^c-0c1032b787c7b98fdd711d777faa5b67]: Textual amendment: [Reg. 4(5)(a)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/4/5/a) substituted (8.12.2021) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/2), [32(2)(b)(i)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/32/2/b/i)
 
-[^key-93bc8981594eceab1b4e7dd5e81489d1]: Textual amendment: [Reg. 4(5)(c)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/4/5/c) substituted (8.12.2021) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/2), [32(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/32/2/b/ii)
+[^c-93bc8981594eceab1b4e7dd5e81489d1]: Textual amendment: [Reg. 4(5)(c)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/4/5/c) substituted (8.12.2021) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/2), [32(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/32/2/b/ii)
 
-[^key-f6f9bd8379973a3401967f29d852bb1c]: Textual amendment: [Reg. 4(6)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/4/6) substituted (8.12.2021) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/2), [32(2)(c)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/32/2/c)
+[^c-f6f9bd8379973a3401967f29d852bb1c]: Textual amendment: [Reg. 4(6)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/4/6) substituted (8.12.2021) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/2), [32(2)(c)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/32/2/c)
 
-[^key-883dffef457abcea9a2285205f32c104]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2021/1078/regulation/5) in force at 1.1.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1)
+[^c-883dffef457abcea9a2285205f32c104]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2021/1078/regulation/5) in force at 1.1.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1)
 
 [^f00011]: Footnote: Article 36 was amended by [S.I. 2018/1401](https://www.legislation.gov.uk/uksi/2018/1401) and [2019/1232](https://www.legislation.gov.uk/uksi/2019/1232) and is prospectively amended by paragraph 47 of Schedule 1 to the Financial Services Act 2021.
 
 [^f00012]: Footnote: Article 41 was amended by [S.I. 2018/1401](https://www.legislation.gov.uk/uksi/2018/1401) and is prospectively amended by paragraph 47 of Schedule 1 to the Financial Services Act 2021.
 
-[^key-15862e03641fae7994a50d3534eafd30]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2021/1078/regulation/6) in force at 1.1.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1)
+[^c-15862e03641fae7994a50d3534eafd30]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2021/1078/regulation/6) in force at 1.1.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1)
 
 [^f00013]: Footnote: Chapter 1 originally contained Articles 92 to 98, which were amended by [S.I. 2018/1401](https://www.legislation.gov.uk/uksi/2018/1401) and [2019/710](https://www.legislation.gov.uk/uksi/2019/710) and [1232](https://www.legislation.gov.uk/uksi/2019/1232) and are prospectively amended by paragraphs 16 to 20 of Schedule 1 to the Financial Services Act 2021.
 
@@ -390,43 +390,43 @@ No impact assessment has been published in respect of these Regulations because
 
 [^f00022]: Footnote: Article 316 was amended by [S.I. 2018/1401](https://www.legislation.gov.uk/uksi/2018/1401).
 
-[^key-e1d3d2e24e8aea84793e933e56c69207]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2021/1078/regulation/7) in force at 1.1.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1)
+[^c-e1d3d2e24e8aea84793e933e56c69207]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2021/1078/regulation/7) in force at 1.1.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1)
 
 [^f00023]: Footnote: Articles 387 to 403 were amended by [S.I. 2018/1401](https://www.legislation.gov.uk/uksi/2018/1401) and [2019/264](https://www.legislation.gov.uk/uksi/2019/264) and [1232](https://www.legislation.gov.uk/uksi/2019/1232).
 
-[^key-023cc8840b5c03f6b1c8582af79bbfbd]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2021/1078/regulation/8) in force at 1.1.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1)
+[^c-023cc8840b5c03f6b1c8582af79bbfbd]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2021/1078/regulation/8) in force at 1.1.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1)
 
 [^f00024]: Footnote: Articles 411 to 428 were amended by [S.I. 2018/1401](https://www.legislation.gov.uk/uksi/2018/1401) and [2019/1232](https://www.legislation.gov.uk/uksi/2019/1232).
 
 [^M_I_6305563c-a2f9-4ca4-d0bc-e5d5f6540fab]: Commencement: Reg. 8A in force at 1.1.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1)
 
-[^key-c8647d14dd5e0b01b51593de5120a78e]: Textual amendment: [Reg. 8A](https://www.legislation.gov.uk/uksi/2021/1078/regulation/8A) inserted (8.12.2021) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/2), [32(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/32/3)
+[^c-c8647d14dd5e0b01b51593de5120a78e]: Textual amendment: [Reg. 8A](https://www.legislation.gov.uk/uksi/2021/1078/regulation/8A) inserted (8.12.2021) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/2), [32(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/32/3)
 
-[^key-014ea75d2c280e41473510b53a9f7018]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2021/1078/regulation/9) in force at 1.1.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1)
+[^c-014ea75d2c280e41473510b53a9f7018]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2021/1078/regulation/9) in force at 1.1.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1)
 
 [^f00025]: Footnote: Articles 430(7) and 430b were amended by [S.I. 2019/1232](https://www.legislation.gov.uk/uksi/2019/1232).
 
-[^key-286ff66de892c7562a4841f21dd274c7]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2021/1078/regulation/10) in force at 1.1.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1)
+[^c-286ff66de892c7562a4841f21dd274c7]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2021/1078/regulation/10) in force at 1.1.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1)
 
-[^key-e978e8cd2a09ba16b18fd49e0aa64c9f]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/2021/1078/regulation/10) substituted (8.12.2021) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/2), [32(4)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/32/4)
+[^c-e978e8cd2a09ba16b18fd49e0aa64c9f]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/2021/1078/regulation/10) substituted (8.12.2021) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/2), [32(4)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/32/4)
 
-[^key-9a24358dd81f3798247db342090781b3]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2021/1078/regulation/11) in force at 1.1.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1)
+[^c-9a24358dd81f3798247db342090781b3]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2021/1078/regulation/11) in force at 1.1.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1)
 
 [^f00027]: Footnote: Article 456 was amended by [S.I. 2018/1401](https://www.legislation.gov.uk/uksi/2018/1401).
 
-[^key-7dc065d73f724dd73905d9048c463cac]: Textual amendment: [Reg. 11(2)(a)(iv)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/11/2/a/iv) substituted (8.12.2021) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/2), [32(5)(a)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/32/5/a)
+[^c-7dc065d73f724dd73905d9048c463cac]: Textual amendment: [Reg. 11(2)(a)(iv)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/11/2/a/iv) substituted (8.12.2021) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/2), [32(5)(a)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/32/5/a)
 
 [^f00028]: Footnote: Article 457 was amended by [S.I. 2018/1401](https://www.legislation.gov.uk/uksi/2018/1401) and [2019/710](https://www.legislation.gov.uk/uksi/2019/710).
 
 [^f00029]: Footnote: Article 458 was substituted by [S.I. 2018/1401](https://www.legislation.gov.uk/uksi/2018/1401).
 
-[^key-fdfc62e27b8157520fca9259033e850a]: Textual amendment: [Reg. 11(4)(a)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/11/4/a) substituted (8.12.2021) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/2), [32(5)(b)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/32/5/b)
+[^c-fdfc62e27b8157520fca9259033e850a]: Textual amendment: [Reg. 11(4)(a)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/11/4/a) substituted (8.12.2021) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/2), [32(5)(b)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/32/5/b)
 
-[^key-f08cf5285d525e5eae8e630898b7f037]: Textual amendment: [Reg. 11(5)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/11/5) substituted (8.12.2021) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/2), [32(5)(c)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/32/5/c)
+[^c-f08cf5285d525e5eae8e630898b7f037]: Textual amendment: [Reg. 11(5)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/11/5) substituted (8.12.2021) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/2), [32(5)(c)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/32/5/c)
 
 [^f00031]: Footnote: Article 460 was amended by [S.I. 2019/1232](https://www.legislation.gov.uk/uksi/2019/1232).
 
-[^key-a5a79162f2973c13e3b61549ddc43a0f]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2021/1078/regulation/12) in force at 1.1.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1)
+[^c-a5a79162f2973c13e3b61549ddc43a0f]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2021/1078/regulation/12) in force at 1.1.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1)
 
 [^f00032]: Footnote: Article 492 was amended by [S.I. 2018/1401](https://www.legislation.gov.uk/uksi/2018/1401) and is prospectively amended by paragraph 47 of Schedule 1 to the Financial Services Act 2021.
 
@@ -434,11 +434,11 @@ No impact assessment has been published in respect of these Regulations because
 
 [^f00034]: Footnote: Article 497(3) was amended by [S.I. 2019/1232](https://www.legislation.gov.uk/uksi/2019/1232).
 
-[^key-e62df4ec7f09b2c115d8e78e4308ffd3]: Textual amendment: [Reg. 12(5A)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/12/5A) inserted (8.12.2021) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/2), [32(6)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/32/6)
+[^c-e62df4ec7f09b2c115d8e78e4308ffd3]: Textual amendment: [Reg. 12(5A)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/12/5A) inserted (8.12.2021) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/2), [32(6)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/32/6)
 
 [^f00035]: Footnote: Article 501b was amended by [S.I. 2019/1232](https://www.legislation.gov.uk/uksi/2019/1232).
 
-[^key-4431c49a36ac112246bca6075737124d]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2021/1078/regulation/13) in force at 1.1.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1)
+[^c-4431c49a36ac112246bca6075737124d]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2021/1078/regulation/13) in force at 1.1.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1)
 
 [^f00036]: Footnote: EUR 2015/61.
 
@@ -454,7 +454,7 @@ No impact assessment has been published in respect of these Regulations because
 
 [^f00042]: Footnote: EUR 2013/1423.
 
-[^key-96e12f2b89bc3c602f737aef88a062bb]: Textual amendment: [Reg. 13(2)(aa)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/13/2/aa) inserted (8.12.2021) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/2), [32(7)(a)(i)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/32/7/a/i)
+[^c-96e12f2b89bc3c602f737aef88a062bb]: Textual amendment: [Reg. 13(2)(aa)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/13/2/aa) inserted (8.12.2021) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/2), [32(7)(a)(i)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/32/7/a/i)
 
 [^f00043]: Footnote: EUR 2014/1030.
 
@@ -466,16 +466,16 @@ No impact assessment has been published in respect of these Regulations because
 
 [^f00047]: Footnote: EUR 2016/101.
 
-[^key-0f11f0a2904f70a302f70d2bd7daf28b]: Textual amendment: [Reg. 13(2)(fa)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/13/2/fa) inserted (8.12.2021) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/2), [32(7)(a)(ii)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/32/7/a/ii)
+[^c-0f11f0a2904f70a302f70d2bd7daf28b]: Textual amendment: [Reg. 13(2)(fa)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/13/2/fa) inserted (8.12.2021) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/2), [32(7)(a)(ii)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/32/7/a/ii)
 
 [^f00048]: Footnote: EUR 2017/2295.
 
 [^f00049]: Footnote: EUR 2014/241. This instrument was amended by the Technical Standards (Capital Requirements) (EU Exit) (No.3) Instrument 2019 made by the Prudential Regulation Authority under [S.I. 2018/1115](https://www.legislation.gov.uk/uksi/2018/1115) on 9th April 2019.
 
-[^key-13dbfbd31d2537b166664ffa1d79dcad]: Textual amendment: [Reg. 13(4)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/13/4) omitted (8.12.2021) by virtue of [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/2), [32(7)(b)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/32/7/b)
+[^c-13dbfbd31d2537b166664ffa1d79dcad]: Textual amendment: [Reg. 13(4)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/13/4) omitted (8.12.2021) by virtue of [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/2), [32(7)(b)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/32/7/b)
 
 [^M_I_2d0c63c7-462e-4b97-8b63-ab3e0b0f3ebc]: Commencement: Reg. 14 in force at 1.1.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1)
 
-[^key-dd11c923482082f366db3e5543954f62]: Textual amendment: [Regs. 14](https://www.legislation.gov.uk/uksi/2021/1078/regulation/14), [15](https://www.legislation.gov.uk/uksi/2021/1078/regulation/15) inserted (8.12.2021) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/2), [32(8)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/32/8)
+[^c-dd11c923482082f366db3e5543954f62]: Textual amendment: [Regs. 14](https://www.legislation.gov.uk/uksi/2021/1078/regulation/14), [15](https://www.legislation.gov.uk/uksi/2021/1078/regulation/15) inserted (8.12.2021) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/2), [32(8)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/32/8)
 
 [^M_I_fec68544-01a9-4eac-f639-30e4c2740f25]: Commencement: Reg. 15 in force at 1.1.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 299. Concurrent proceedings relating to orders and acquisitions[^key-21325621a0e121d76bd27a18f8a24786]
+## 299. Concurrent proceedings relating to orders and acquisitions[^c-21325621a0e121d76bd27a18f8a24786]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ Regulations may make provision enabling—
 
 ## Annotations
 
-[^key-21325621a0e121d76bd27a18f8a24786]: Commencement: S. 299 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-21325621a0e121d76bd27a18f8a24786]: Commencement: S. 299 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

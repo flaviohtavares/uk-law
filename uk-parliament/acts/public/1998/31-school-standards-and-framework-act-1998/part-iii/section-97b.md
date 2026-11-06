@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97B. Procedure for giving direction under section 97A[^key-a38429eb80db00a763df02af1548ec82]
+## 97B. Procedure for giving direction under section 97A[^c-a38429eb80db00a763df02af1548ec82]
 
 *Extent: E+W*
 
@@ -29,7 +29,7 @@ summary: ''
 - (a) they shall, before doing so, serve a notice in writing of their decision on—
   - (i) the admission authority for the school,
   - (ii) if the school is a community or voluntary controlled school and the governing body of the school are not the admission authority, the governing body of the school,
-  - (iii) if the school is maintained by a local authority[^key-5177265949adaa73e26402711f36dc2e] who are not the authority proposing to give the direction and are not the admission authority, the local authority who maintain the school, and
+  - (iii) if the school is maintained by a local authority[^c-5177265949adaa73e26402711f36dc2e] who are not the authority proposing to give the direction and are not the admission authority, the local authority who maintain the school, and
   - (iv) the head teacher of the school, and
 - (b) they shall not give the direction until the period for referring the matter to the adjudicator under subsection (4) has expired and, if it is so referred, until the adjudicator has made such determinations under this section as it appears to him to be appropriate to make in connection with the reference.
 
@@ -65,6 +65,6 @@ may, within the period of seven days beginning with the day on which the notice 
 
 ## Annotations
 
-[^key-a38429eb80db00a763df02af1548ec82]: Textual amendment: [Ss. 97A](https://www.legislation.gov.uk/ukpga/1998/31/section/97A), [97B](https://www.legislation.gov.uk/ukpga/1998/31/section/97B) inserted (8.1.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [ss. 50(1)](https://www.legislation.gov.uk/ukpga/2006/40/section/50/1), [188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3); [S.I. 2006/3400](https://www.legislation.gov.uk/uksi/2006/3400), [art. 3(c)](https://www.legislation.gov.uk/uksi/2006/3400/article/3/c)
+[^c-a38429eb80db00a763df02af1548ec82]: Textual amendment: [Ss. 97A](https://www.legislation.gov.uk/ukpga/1998/31/section/97A), [97B](https://www.legislation.gov.uk/ukpga/1998/31/section/97B) inserted (8.1.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [ss. 50(1)](https://www.legislation.gov.uk/ukpga/2006/40/section/50/1), [188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3); [S.I. 2006/3400](https://www.legislation.gov.uk/uksi/2006/3400), [art. 3(c)](https://www.legislation.gov.uk/uksi/2006/3400/article/3/c)
 
-[^key-5177265949adaa73e26402711f36dc2e]: Textual amendment: Words in Act substituted (5.5.2010) by The Local Education Authorities and Children’s [Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 10(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/2) (with [Sch. 2 para. 10(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/4))
+[^c-5177265949adaa73e26402711f36dc2e]: Textual amendment: Words in Act substituted (5.5.2010) by The Local Education Authorities and Children’s [Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 10(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/2) (with [Sch. 2 para. 10(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/4))

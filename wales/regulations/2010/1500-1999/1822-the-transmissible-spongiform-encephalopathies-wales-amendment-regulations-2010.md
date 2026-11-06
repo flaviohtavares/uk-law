@@ -31,7 +31,7 @@ summary: ''
 
 ANIMALS, WALES
 
-The Transmissible Spongiform Encephalopathies (Wales) (Amendment) Regulations 2010 (revoked)[^key-de3a96d80384d3bf04d6fc0c8765facf]
+The Transmissible Spongiform Encephalopathies (Wales) (Amendment) Regulations 2010 (revoked)[^c-de3a96d80384d3bf04d6fc0c8765facf]
 
 Made
 
@@ -45,24 +45,24 @@ Coming into force
 
 9 August 2010
 
-[^key-de3a96d80384d3bf04d6fc0c8765facf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-de3a96d80384d3bf04d6fc0c8765facf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-de3a96d80384d3bf04d6fc0c8765facf]
+## 1. Title, application and commencement[^c-de3a96d80384d3bf04d6fc0c8765facf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Transmissible Spongiform Encephalopathies (Wales) Regulations 2008[^key-de3a96d80384d3bf04d6fc0c8765facf]
+## 2. Amendment of the Transmissible Spongiform Encephalopathies (Wales) Regulations 2008[^c-de3a96d80384d3bf04d6fc0c8765facf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-de3a96d80384d3bf04d6fc0c8765facf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-de3a96d80384d3bf04d6fc0c8765facf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-de3a96d80384d3bf04d6fc0c8765facf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-de3a96d80384d3bf04d6fc0c8765facf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-de3a96d80384d3bf04d6fc0c8765facf]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2010/1822) revoked (1.10.2018) by [The Transmissible Spongiform Encephalopathies (Wales) Regulations 2018 (S.I. 2018/968)](https://www.legislation.gov.uk/wsi/2018/968), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/968/regulation/1/3), [24(d)](https://www.legislation.gov.uk/wsi/2018/968/regulation/24/d)
+[^c-de3a96d80384d3bf04d6fc0c8765facf]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2010/1822) revoked (1.10.2018) by [The Transmissible Spongiform Encephalopathies (Wales) Regulations 2018 (S.I. 2018/968)](https://www.legislation.gov.uk/wsi/2018/968), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/968/regulation/1/3), [24(d)](https://www.legislation.gov.uk/wsi/2018/968/regulation/24/d)

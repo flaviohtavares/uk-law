@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 17D. Switches[^key-6a8409ef79eab7e30c889040f55a74cc]
+## 17D. Switches[^c-6a8409ef79eab7e30c889040f55a74cc]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ A bus used to provide a school service shall be so constructed that each illumin
 
 ## Annotations
 
-[^key-6a8409ef79eab7e30c889040f55a74cc]: Textual amendment: [Regs. 17-17D](https://www.legislation.gov.uk/nisr/2000/169/regulation/17) substituted for [reg. 17](https://www.legislation.gov.uk/nisr/2000/169/regulation/17) (24.3.2011) by [The Road Vehicles Lighting (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/49)](https://www.legislation.gov.uk/nisr/2011/49), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/49/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2011/49/regulation/4)
+[^c-6a8409ef79eab7e30c889040f55a74cc]: Textual amendment: [Regs. 17-17D](https://www.legislation.gov.uk/nisr/2000/169/regulation/17) substituted for [reg. 17](https://www.legislation.gov.uk/nisr/2000/169/regulation/17) (24.3.2011) by [The Road Vehicles Lighting (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/49)](https://www.legislation.gov.uk/nisr/2011/49), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/49/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2011/49/regulation/4)

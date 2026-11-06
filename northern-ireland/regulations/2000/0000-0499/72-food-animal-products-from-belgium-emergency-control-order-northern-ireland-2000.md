@@ -31,7 +31,7 @@ summary: ''
 
 FOOD
 
-Food (Animal Products from Belgium) (Emergency Control) Order (Northern Ireland) 2000 (revoked)[^key-5cc7c1f5072de15e918010b8e75d3960]
+Food (Animal Products from Belgium) (Emergency Control) Order (Northern Ireland) 2000 (revoked)[^c-5cc7c1f5072de15e918010b8e75d3960]
 
 Made
 
@@ -41,40 +41,40 @@ Coming into operation
 
 13th March 2000
 
-[^key-5cc7c1f5072de15e918010b8e75d3960]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5cc7c1f5072de15e918010b8e75d3960]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-5cc7c1f5072de15e918010b8e75d3960]
+## 1. Citation, commencement and interpretation[^c-5cc7c1f5072de15e918010b8e75d3960]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Exemptions[^key-5cc7c1f5072de15e918010b8e75d3960]
+## 2. Exemptions[^c-5cc7c1f5072de15e918010b8e75d3960]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prohibitions[^key-5cc7c1f5072de15e918010b8e75d3960]
+## 3. Prohibitions[^c-5cc7c1f5072de15e918010b8e75d3960]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Enforcement[^key-5cc7c1f5072de15e918010b8e75d3960]
+## 4. Enforcement[^c-5cc7c1f5072de15e918010b8e75d3960]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Application and modification of various provisions of the 1991 Order[^key-5cc7c1f5072de15e918010b8e75d3960]
+## 5. Application and modification of various provisions of the 1991 Order[^c-5cc7c1f5072de15e918010b8e75d3960]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Revocation[^key-5cc7c1f5072de15e918010b8e75d3960]
+## 6. Revocation[^c-5cc7c1f5072de15e918010b8e75d3960]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5cc7c1f5072de15e918010b8e75d3960]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5cc7c1f5072de15e918010b8e75d3960]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-5cc7c1f5072de15e918010b8e75d3960]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5cc7c1f5072de15e918010b8e75d3960]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5cc7c1f5072de15e918010b8e75d3960]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2000/72) revoked (23.5.2000) by [Food (Animal Products from Belgium) (Emergency Control) (Revocation) Order (Northern Ireland) 2000 (S.R. 2000/185)](https://www.legislation.gov.uk/nisr/2000/185), [arts. 1](https://www.legislation.gov.uk/nisr/2000/185/article/1), [2](https://www.legislation.gov.uk/nisr/2000/185/article/2)
+[^c-5cc7c1f5072de15e918010b8e75d3960]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2000/72) revoked (23.5.2000) by [Food (Animal Products from Belgium) (Emergency Control) (Revocation) Order (Northern Ireland) 2000 (S.R. 2000/185)](https://www.legislation.gov.uk/nisr/2000/185), [arts. 1](https://www.legislation.gov.uk/nisr/2000/185/article/1), [2](https://www.legislation.gov.uk/nisr/2000/185/article/2)

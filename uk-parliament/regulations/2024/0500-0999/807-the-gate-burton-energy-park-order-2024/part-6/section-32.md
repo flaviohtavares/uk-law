@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Benefit of the Order[^key-2585258d62ad3f0123b09850d477f894]
+## 32. Benefit of the Order[^c-2585258d62ad3f0123b09850d477f894]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2585258d62ad3f0123b09850d477f894]: Commencement: Art. 32 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)
+[^c-2585258d62ad3f0123b09850d477f894]: Commencement: Art. 32 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)

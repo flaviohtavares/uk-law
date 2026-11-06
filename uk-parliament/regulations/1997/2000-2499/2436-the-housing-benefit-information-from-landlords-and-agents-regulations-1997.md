@@ -99,7 +99,7 @@ Pursuant to the section, where a claim is made to an authority, on which a rent 
     - (aa) who owns 20 per cent. or more of it; or
     - (bb) of whom it owns 20 per cent. or more; and
   - (v) the names and addresses of its major shareholders.
-- (d) where the landlord is a charity [^key-c3708350e551f7e80cdd4b01aed2659f]... the appropriate details relating to the landlord and particulars of the landlord’s registration as a charity.
+- (d) where the landlord is a charity [^c-c3708350e551f7e80cdd4b01aed2659f]... the appropriate details relating to the landlord and particulars of the landlord’s registration as a charity.
 
 (3) For a supplier who falls within subsection (2)(c) or paragraph (5) (“the agent"), the information is—
 
@@ -128,9 +128,9 @@ Pursuant to the section, where a claim is made to an authority, on which a rent 
 (6) For the purposes of this regulation, except where the context otherwise requires—
 
 - “appropriate details" means the name of the person and (in the case of a company) its registered office and, in any case, the full postal address, including post code, of the principal place of business of that person and the telephone and facsimile numbers (if any) of that place;
-- “charity” means, in England and Wales, a charity which is registered under section 3 of the Charities Act 1993 and is not an exempt charity within the meaning of that Act, and in Scotland, a body entered in the Scottish Charity Register;[^key-c687887b8151b938f3a38afc4227b50e]
+- “charity” means, in England and Wales, a charity which is registered under section 3 of the Charities Act 1993 and is not an exempt charity within the meaning of that Act, and in Scotland, a body entered in the Scottish Charity Register;[^c-c687887b8151b938f3a38afc4227b50e]
 - “major shareholder" means, where a body corporate is a company limited by shares, any person holding one tenth or more of the issued shares in that company and, in any other case, all the owners of that body;
-- [^key-86cf148f899505e7f1ee5d1ba087e0c3]...
+- [^c-86cf148f899505e7f1ee5d1ba087e0c3]...
 - “relevant particulars" means the full postal address, including post code, and number of current lettings of or within that residential property and, if that property includes two or more dwellings, that address and the number of such lettings for each such dwelling;
 - “residential property" includes any premises, situated within the United Kingdom—
   - (i) used or which has, within the last six months, been used; or
@@ -140,7 +140,7 @@ Pursuant to the section, where a claim is made to an authority, on which a rent 
 
 and other expressions used in this regulation and also in the Companies Act 1985 [^c1675012] shall have the same meaning in this regulation as they have in that Act.
 
-## 5. Manner of supply of information[^key-5fbd74655c041adcde999f1b1fee855c]
+## 5. Manner of supply of information[^c-5fbd74655c041adcde999f1b1fee855c]
 
 (1) Subject to paragraph (2) the relevant information shall be supplied–
 
@@ -191,12 +191,12 @@ An assessment of the costs to business of applying the provisions of section 11 
 
 [^c1675009]: Marginal citation: [Regulation 93](https://www.legislation.gov.uk/uksi/1997/2436/regulation/93) was amended by [S.I. 1990/546](https://www.legislation.gov.uk/uksi/1990/546), 1996/1510 and 1997/2434 and regulation 94 was amended by [S.I. 1994/2137](https://www.legislation.gov.uk/uksi/1994/2137), 1996/965 and 1997/2434.
 
-[^key-c3708350e551f7e80cdd4b01aed2659f]: Textual amendment: Words in [reg. 4(2)(d)](https://www.legislation.gov.uk/uksi/1997/2436/regulation/4/2/d) omitted (1.4.2006) by virtue of [Charities and Trustee Investment (Scotland) Act 2005 (Consequential Provisions and Modifications) Order 2006 (S.I. 2006/242)](https://www.legislation.gov.uk/uksi/2006/242), [art. 1(3)](https://www.legislation.gov.uk/uksi/2006/242/article/1/3), [Sch. para. 9(a)](https://www.legislation.gov.uk/uksi/2006/242/schedule/paragraph/9/a)
+[^c-c3708350e551f7e80cdd4b01aed2659f]: Textual amendment: Words in [reg. 4(2)(d)](https://www.legislation.gov.uk/uksi/1997/2436/regulation/4/2/d) omitted (1.4.2006) by virtue of [Charities and Trustee Investment (Scotland) Act 2005 (Consequential Provisions and Modifications) Order 2006 (S.I. 2006/242)](https://www.legislation.gov.uk/uksi/2006/242), [art. 1(3)](https://www.legislation.gov.uk/uksi/2006/242/article/1/3), [Sch. para. 9(a)](https://www.legislation.gov.uk/uksi/2006/242/schedule/paragraph/9/a)
 
-[^key-c687887b8151b938f3a38afc4227b50e]: Textual amendment: Words in [reg. 4(6)](https://www.legislation.gov.uk/uksi/1997/2436/regulation/4/6) substituted (1.4.2006) by [Charities and Trustee Investment (Scotland) Act 2005 (Consequential Provisions and Modifications) Order 2006 (S.I. 2006/242)](https://www.legislation.gov.uk/uksi/2006/242), [art. 1(3)](https://www.legislation.gov.uk/uksi/2006/242/article/1/3), [Sch. para. 9(b)(i)](https://www.legislation.gov.uk/uksi/2006/242/schedule/paragraph/9/b/i)
+[^c-c687887b8151b938f3a38afc4227b50e]: Textual amendment: Words in [reg. 4(6)](https://www.legislation.gov.uk/uksi/1997/2436/regulation/4/6) substituted (1.4.2006) by [Charities and Trustee Investment (Scotland) Act 2005 (Consequential Provisions and Modifications) Order 2006 (S.I. 2006/242)](https://www.legislation.gov.uk/uksi/2006/242), [art. 1(3)](https://www.legislation.gov.uk/uksi/2006/242/article/1/3), [Sch. para. 9(b)(i)](https://www.legislation.gov.uk/uksi/2006/242/schedule/paragraph/9/b/i)
 
-[^key-86cf148f899505e7f1ee5d1ba087e0c3]: Textual amendment: Words in [reg. 4(6)](https://www.legislation.gov.uk/uksi/1997/2436/regulation/4/6) omitted (1.4.2006) by virtue of [Charities and Trustee Investment (Scotland) Act 2005 (Consequential Provisions and Modifications) Order 2006 (S.I. 2006/242)](https://www.legislation.gov.uk/uksi/2006/242), [art. 1(3)](https://www.legislation.gov.uk/uksi/2006/242/article/1/3), [Sch. para. 9(b)(ii)](https://www.legislation.gov.uk/uksi/2006/242/schedule/paragraph/9/b/ii)
+[^c-86cf148f899505e7f1ee5d1ba087e0c3]: Textual amendment: Words in [reg. 4(6)](https://www.legislation.gov.uk/uksi/1997/2436/regulation/4/6) omitted (1.4.2006) by virtue of [Charities and Trustee Investment (Scotland) Act 2005 (Consequential Provisions and Modifications) Order 2006 (S.I. 2006/242)](https://www.legislation.gov.uk/uksi/2006/242), [art. 1(3)](https://www.legislation.gov.uk/uksi/2006/242/article/1/3), [Sch. para. 9(b)(ii)](https://www.legislation.gov.uk/uksi/2006/242/schedule/paragraph/9/b/ii)
 
 [^c1675012]: Marginal citation: [1985 c. 6](https://www.legislation.gov.uk/ukpga/1985/6).
 
-[^key-5fbd74655c041adcde999f1b1fee855c]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/1997/2436/regulation/5) substituted (3.2.2000) by [The Housing Benefit and Council Tax Benefit (General) Amendment Regulations 2000 (S.I. 2000/4)](https://www.legislation.gov.uk/uksi/2000/4), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2000/4/regulation/1/1/a), [2](https://www.legislation.gov.uk/uksi/2000/4/regulation/2)
+[^c-5fbd74655c041adcde999f1b1fee855c]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/1997/2436/regulation/5) substituted (3.2.2000) by [The Housing Benefit and Council Tax Benefit (General) Amendment Regulations 2000 (S.I. 2000/4)](https://www.legislation.gov.uk/uksi/2000/4), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2000/4/regulation/1/1/a), [2](https://www.legislation.gov.uk/uksi/2000/4/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 104. Nomination and appointment of shorthand writers[^key-bf75c950eecd5c44ca2285ef89d422c9]
+## 104. Nomination and appointment of shorthand writers[^c-bf75c950eecd5c44ca2285ef89d422c9]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bf75c950eecd5c44ca2285ef89d422c9]: Commencement: Rule 104 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-bf75c950eecd5c44ca2285ef89d422c9]: Commencement: Rule 104 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

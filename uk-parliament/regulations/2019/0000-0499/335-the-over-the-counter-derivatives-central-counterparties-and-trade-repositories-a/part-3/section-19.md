@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Reporting obligation[^key-8a1cb1e6c83eef726b770e7389eb1502]
+## 19. Reporting obligation[^c-8a1cb1e6c83eef726b770e7389eb1502]
 
 *Extent: E+W+S+N.I.*
 
@@ -64,10 +64,10 @@ summary: ''
 
 .
 
-(5)[^key-fc5b0840e0574cbe440ba5ab64c5343d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-fc5b0840e0574cbe440ba5ab64c5343d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8a1cb1e6c83eef726b770e7389eb1502]: Commencement: Reg. 19 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-8a1cb1e6c83eef726b770e7389eb1502]: Commencement: Reg. 19 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-fc5b0840e0574cbe440ba5ab64c5343d]: Textual amendment: Reg. 19(5) omitted (30.10.2019) by virtue of [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1416)](https://www.legislation.gov.uk/uksi/2019/1416), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1416/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2019/1416/regulation/16)
+[^c-fc5b0840e0574cbe440ba5ab64c5343d]: Textual amendment: Reg. 19(5) omitted (30.10.2019) by virtue of [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1416)](https://www.legislation.gov.uk/uksi/2019/1416), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1416/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2019/1416/regulation/16)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. OFCOM’s guidance about protecting women and girls[^key-7f1fbae362f124797574e8e2d7b80f49][^key-c326553499acc50a6c26ab52e64ca44f]
+## 54. OFCOM’s guidance about protecting women and girls[^c-7f1fbae362f124797574e8e2d7b80f49][^c-c326553499acc50a6c26ab52e64ca44f]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7f1fbae362f124797574e8e2d7b80f49]: Commencement: S. 54 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-7f1fbae362f124797574e8e2d7b80f49]: Commencement: S. 54 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-c326553499acc50a6c26ab52e64ca44f]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2023/50/section/54) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(q)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/q)
+[^c-c326553499acc50a6c26ab52e64ca44f]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2023/50/section/54) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(q)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/q)

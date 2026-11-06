@@ -46,22 +46,22 @@ Coming into operation
 
 The Department of Finance and Personnel makes the following Order in exercise of the powers conferred by Article 22(4) to (4D) of the Rates (Northern Ireland) Order 1977[^f00001].
 
-## 1. Citation and commencement[^key-546a33c76ba0ff1afbfa5f2716b17b02]
+## 1. Citation and commencement[^c-546a33c76ba0ff1afbfa5f2716b17b02]
 
 This Order may be cited as the Rates (Payments by Owners by Agreement) (Amendment) Order (Northern Ireland) 2011 and shall come into operation on 1st April 2012.
 
-## 2. Amendments[^key-178dc4b4ddcd7ae2d25b3a650d5259d6]
+## 2. Amendments[^c-178dc4b4ddcd7ae2d25b3a650d5259d6]
 
-(1)[^key-a76e637a56368aaa4e165a4e2ffe318c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-a76e637a56368aaa4e165a4e2ffe318c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) The Department of Finance and Personnel hereby directs that for any percentage specified in an existing agreement in respect of—
 
 - (a) a hereditament owned by a housing association, there shall be substituted 10 per cent;
-- (b)[^key-a76e637a56368aaa4e165a4e2ffe318c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-a76e637a56368aaa4e165a4e2ffe318c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In paragraph (2) “housing association” has the meaning assigned to it by Article 3 of the Housing (Northern Ireland) Order 1992[^f00003].
 
-## 3. Revocation[^key-892dc1da3be0ac436da3163f2f0ea67a]
+## 3. Revocation[^c-892dc1da3be0ac436da3163f2f0ea67a]
 
 The Rates (Payment by Owners by Agreement) (Amendment) Order (Northern Ireland) 2007[^f00004] is revoked.
 
@@ -88,14 +88,14 @@ This Order also makes a consequential revocation (Article 3).
 
 [^f00001]: Footnote: [S.I. 1977/2157 (N.I. 28)](https://www.legislation.gov.uk/nisi/1977/2157); paragraph (4) of Article 22 was inserted by Article 4 of the Local Government, Planning and Land (Northern Ireland) Order 1981 ([S.I. 1981/437 (N.I.13)](https://www.legislation.gov.uk/nisi/1981/437)) and paragraphs (4A) to (4D) of that Article were inserted by section 12 of the Rates (Amendment) Act (Northern Ireland) 2009 ([2009 c.8 (N.I)](https://www.legislation.gov.uk/nia/2009/8)).
 
-[^key-546a33c76ba0ff1afbfa5f2716b17b02]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2011/395/article/1) in operation at 1.4.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/395/article/1)
+[^c-546a33c76ba0ff1afbfa5f2716b17b02]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2011/395/article/1) in operation at 1.4.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/395/article/1)
 
-[^key-178dc4b4ddcd7ae2d25b3a650d5259d6]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2011/395/article/2) in operation at 1.4.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/395/article/1)
+[^c-178dc4b4ddcd7ae2d25b3a650d5259d6]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2011/395/article/2) in operation at 1.4.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/395/article/1)
 
-[^key-a76e637a56368aaa4e165a4e2ffe318c]: Textual amendment: [Art. 2(1)](https://www.legislation.gov.uk/nisr/2011/395/article/2/1)[(2)(b)](https://www.legislation.gov.uk/nisr/2011/395/article/2/2/b) revoked (1.4.2015) by [The Rates (Owners Allowances) Order (Northern Ireland) 2015 (S.R. 2015/46)](https://www.legislation.gov.uk/nisr/2015/46), [arts. 1](https://www.legislation.gov.uk/nisr/2015/46/article/1), [5](https://www.legislation.gov.uk/nisr/2015/46/article/5)
+[^c-a76e637a56368aaa4e165a4e2ffe318c]: Textual amendment: [Art. 2(1)](https://www.legislation.gov.uk/nisr/2011/395/article/2/1)[(2)(b)](https://www.legislation.gov.uk/nisr/2011/395/article/2/2/b) revoked (1.4.2015) by [The Rates (Owners Allowances) Order (Northern Ireland) 2015 (S.R. 2015/46)](https://www.legislation.gov.uk/nisr/2015/46), [arts. 1](https://www.legislation.gov.uk/nisr/2015/46/article/1), [5](https://www.legislation.gov.uk/nisr/2015/46/article/5)
 
 [^f00003]: Footnote: [S.I. 1992/1725 (N.I. 15)](https://www.legislation.gov.uk/nisi/1992/1725)
 
-[^key-892dc1da3be0ac436da3163f2f0ea67a]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2011/395/article/3) in operation at 1.4.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/395/article/1)
+[^c-892dc1da3be0ac436da3163f2f0ea67a]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2011/395/article/3) in operation at 1.4.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/395/article/1)
 
 [^f00004]: Footnote: [S.R. 2007 No. 2](https://www.legislation.gov.uk/nisr/2007/2).

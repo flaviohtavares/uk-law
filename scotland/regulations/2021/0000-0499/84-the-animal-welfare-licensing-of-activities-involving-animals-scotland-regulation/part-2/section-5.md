@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5. Authority of a licence[^key-0d5c2b090bf96f8924fd1e67f3800fbd]
+## 5. Authority of a licence[^c-0d5c2b090bf96f8924fd1e67f3800fbd]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0d5c2b090bf96f8924fd1e67f3800fbd]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2021/84/regulation/5) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
+[^c-0d5c2b090bf96f8924fd1e67f3800fbd]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2021/84/regulation/5) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)

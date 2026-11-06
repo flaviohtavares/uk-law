@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Household income[^key-597606af8390a7ce285318311125bead]
+## 28. Household income[^c-597606af8390a7ce285318311125bead]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ See Schedule 3 for provision about calculating an eligible student's household i
 
 ## Annotations
 
-[^key-597606af8390a7ce285318311125bead]: Commencement: Reg. 28 in force at 27.5.2019, see reg. 1(2)
+[^c-597606af8390a7ce285318311125bead]: Commencement: Reg. 28 in force at 27.5.2019, see reg. 1(2)

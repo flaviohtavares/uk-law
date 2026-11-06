@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 80. Payment on behalf of officers of lifetime allowance charge[^key-e3b5c37075bbcfdd20cd5ca7dba6776d]
+## 80. Payment on behalf of officers of lifetime allowance charge[^c-e3b5c37075bbcfdd20cd5ca7dba6776d]
 
 *Extent: N.I.*
 
@@ -31,7 +31,7 @@ summary: ''
 
 ## Annotations
 
-[^key-e3b5c37075bbcfdd20cd5ca7dba6776d]: Commencement: Reg. 80 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
+[^c-e3b5c37075bbcfdd20cd5ca7dba6776d]: Commencement: Reg. 80 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
 
 [^f00033]: Footnote: [2004 c.12](https://www.legislation.gov.uk/ukpga/2004/12)
 

@@ -56,7 +56,7 @@ Section 21(3) and (4).
   - (ii) from Class 2 contributions; or
 - (b) if the year in question is an earlier year, from the contributions referred to in paragraph (a) of that sub-paragraph.
 
-(6)[^key-d1e338fcfaaef417725d3c7b3240242d] For the purposes of these conditions—
+(6)[^c-d1e338fcfaaef417725d3c7b3240242d] For the purposes of these conditions—
 
 - (a) “**the relevant time**” is the day in respect of which benefit is claimed;
 - (b) “**the relevant benefit year**” is the benefit year in which there falls the beginning of the period of incapacity for work[^c16404211] which includes the relevant time.
@@ -92,17 +92,17 @@ shall be treated for the purposes of sub-paragraph (1) above as a week in respec
 
 (3) For the purposes of sub-paragraph (2) above, the amount of the claimant’s earnings for any week shall be determined in accordance with regulations.
 
-#### . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-2b90bad08a72a2781990dcef55dbf847]
+#### . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-2b90bad08a72a2781990dcef55dbf847]
 
-**4.**[^key-2b90bad08a72a2781990dcef55dbf847] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-2b90bad08a72a2781990dcef55dbf847] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Widowed mother’s allowance , widowed parent’s allowance, bereavement allowance and widow’s pension; retirement pensions (Categories A and B)[^c16404301]
 
-**5.** (1)[^key-4d10862cdece01025d907671e17ce473] This paragraph sets out the contribution conditions for—
+**5.** (1)[^c-4d10862cdece01025d907671e17ce473] This paragraph sets out the contribution conditions for—
 
 - (a) a widowed mother's allowance, a widowed parent's allowance or a widow's pension;
 - (b) a Category A retirement pension (other than one in relation to which paragraph 5A applies);
-- (c) a Category B retirement pension in the cases provided for by any of sections 48A to 51ZA[^key-feeb8d704e09149550b3ed700cf0cebc].
+- (c) a Category B retirement pension in the cases provided for by any of sections 48A to 51ZA[^c-feeb8d704e09149550b3ed700cf0cebc].
 
 (2) The first condition is that—
 
@@ -140,7 +140,7 @@ shall be treated for the purposes of sub-paragraph (1) above as a week in respec
 - (a) the year in which he attained pensionable age or died under that age, or
 - (b) the year immediately preceding that year.
 
-(6A)[^key-399b158dc448cf935d9d7ed7869a4215] The first condition shall be taken to be satisfied if the contributor concerned was entitled to main phase employment and support allowance at any time during—
+(6A)[^c-399b158dc448cf935d9d7ed7869a4215] The first condition shall be taken to be satisfied if the contributor concerned was entitled to main phase employment and support allowance at any time during—
 
 - (a) the year in which he attained pensionable age or died under that age, or
 - (b) the year immediately preceding that year.
@@ -152,7 +152,7 @@ shall be treated for the purposes of sub-paragraph (1) above as a week in respec
 - (a) those paragraphs are complied with as respects at least half that number of years [^c16404441]... ; and
 - (b) in each of the other years the contributor concerned was, within the meaning of regulations, precluded from regular employment by responsibilities at home.
 
-But nothing in this sub-paragraph applies in relation to any benefit to which section 23A above applies.[^key-7c6bdee789ea12917101571984056334]
+But nothing in this sub-paragraph applies in relation to any benefit to which section 23A above applies.[^c-7c6bdee789ea12917101571984056334]
 
 (7A)[^c16404451] Regulations may provide that a person is not to be taken for the purposes of sub-paragraph (7)(b) above as precluded from regular employment by responsibilities at home unless he meets the prescribed requirements as to the provision of information to the Department.
 
@@ -161,11 +161,11 @@ But nothing in this sub-paragraph applies in relation to any benefit to which se
 - (a) (inclusive) the tax year in which he attained the age of 16; and
 - (b) (exclusive) the tax year in which he attained pensionable age or died under that age.
 
-**5A.**[^key-6c2b0d952b8fca6bd69ae6b7ad94776c] (1) This paragraph applies to—
+**5A.**[^c-6c2b0d952b8fca6bd69ae6b7ad94776c] (1) This paragraph applies to—
 
 - (a) a Category A retirement pension in a case where the contributor concerned attains pensionable age on or after 6th April 2010;
-- (b)[^key-40dcbb8d753dc9dca5ca0faf7789cdf8] a Category B retirement pension in the cases provided for by any of sections 48A to 51ZA[^key-525a46dcbf7b18fd37beb347a7668474].
-- (c)[^key-40dcbb8d753dc9dca5ca0faf7789cdf8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-40dcbb8d753dc9dca5ca0faf7789cdf8] a Category B retirement pension in the cases provided for by any of sections 48A to 51ZA[^c-525a46dcbf7b18fd37beb347a7668474].
+- (c)[^c-40dcbb8d753dc9dca5ca0faf7789cdf8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) The contribution condition for a Category A or Category B retirement pension in relation to which this paragraph applies is that—
 
@@ -197,11 +197,11 @@ under the National Insurance Act (Northern Ireland) 1946 or the National Insuran
 
 ### Part II — Satisfaction of Conditions in Early Years of Contribution
 
-**7.**[^key-faba74b59724dc8340ade176f8166800] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-faba74b59724dc8340ade176f8166800] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **8.** Where a person claims short-term incapacity benefit[^c16404491], he shall be taken to satisfy the first contribution condition for the benefit if on a previous claim for any short-term benefit he has satisfied the first contribution condition for that benefit, by virtue of paragraph 8 of Schedule 3 to the 1975 Act, with contributions of a class relevant to short-term incapacity benefit.
 
-**9.**[^key-70984e6e59b53276e4a705f75e12ef40] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-70984e6e59b53276e4a705f75e12ef40] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -217,7 +217,7 @@ under the National Insurance Act (Northern Ireland) 1946 or the National Insuran
 
 [^c19104081]: Textual amendment: Words in [Sch. 3 para. 2(4)(a)(i)(5)(a)(i)](https://www.legislation.gov.uk/ukpga/1992/7/schedule/3/paragraph/2/4/a/i/5/a/i) substituted (with effect for 2003-04 and subsequent tax years) by [National Insurance Contributions Act 2002 (c. 19)](https://www.legislation.gov.uk/ukpga/2002/19), [ss. 6](https://www.legislation.gov.uk/ukpga/2002/19/section/6), [8(2)](https://www.legislation.gov.uk/ukpga/2002/19/section/8/2), [Sch. 1 para. 33(2)](https://www.legislation.gov.uk/ukpga/2002/19/schedule/1/paragraph/33/2)
 
-[^key-d1e338fcfaaef417725d3c7b3240242d]: Modification: [Sch. 3 para. 2(6)](https://www.legislation.gov.uk/ukpga/1992/7/schedule/3/paragraph/2/6) modified (5.5.2003) by [The Social Security Contributions and Benefits (Northern Ireland) Act 1992 (Modifications for Her Majestys Forces and Incapacity Benefit) Regulations 2003 (S.I. 2003/735)](https://www.legislation.gov.uk/uksi/2003/735), [regs. 1](https://www.legislation.gov.uk/uksi/2003/735/regulation/1), [4](https://www.legislation.gov.uk/uksi/2003/735/regulation/4)
+[^c-d1e338fcfaaef417725d3c7b3240242d]: Modification: [Sch. 3 para. 2(6)](https://www.legislation.gov.uk/ukpga/1992/7/schedule/3/paragraph/2/6) modified (5.5.2003) by [The Social Security Contributions and Benefits (Northern Ireland) Act 1992 (Modifications for Her Majestys Forces and Incapacity Benefit) Regulations 2003 (S.I. 2003/735)](https://www.legislation.gov.uk/uksi/2003/735), [regs. 1](https://www.legislation.gov.uk/uksi/2003/735/regulation/1), [4](https://www.legislation.gov.uk/uksi/2003/735/regulation/4)
 
 [^c16404211]: Textual amendment: Words in [Sch. 3 para. 2(6)(b)](https://www.legislation.gov.uk/ukpga/1992/7/schedule/3/paragraph/2/6/b) substituted (13.4.1995) by [S.I. 1994/1898 (N.I. 12)](https://www.legislation.gov.uk/nisi/1994/1898), [art. 13(1)](https://www.legislation.gov.uk/nisi/1994/1898/article/13/1), [Sch. 1 Pt. I para. 38(2)](https://www.legislation.gov.uk/nisi/1994/1898/schedule/1/part/I/paragraph/38/2) (with [art. 15(1)](https://www.legislation.gov.uk/nisi/1994/1898/article/15/1)); [S.R. 1994/450](https://www.legislation.gov.uk/nisr/1994/450), [art. 2(d)](https://www.legislation.gov.uk/nisr/1994/450/article/2/d), [Sch. Pt. IV](https://www.legislation.gov.uk/nisr/1994/450/schedule/part/IV)
 
@@ -231,13 +231,13 @@ under the National Insurance Act (Northern Ireland) 1946 or the National Insuran
 
 [^c16404271]: Textual amendment: Words in [Sch. 3 para. 3(1)(a)](https://www.legislation.gov.uk/ukpga/1992/7/schedule/3/paragraph/3/1/a) substituted (with effect in any case where the expected week of confinement begins on or after 16.10.1994) by [S.R. 1994/176](https://www.legislation.gov.uk/nisr/1994/176), [regs. 1(2)](https://www.legislation.gov.uk/nisr/1994/176/regulation/1/2), [2(4)](https://www.legislation.gov.uk/nisr/1994/176/regulation/2/4)
 
-[^key-2b90bad08a72a2781990dcef55dbf847]: Textual amendment: [Sch. 3 para. 4 and cross-heading](https://www.legislation.gov.uk/ukpga/1992/7/schedule/3/part/I/crossheading/widows-payment) omitted (6.4.2017) by virtue of [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(1)](https://www.legislation.gov.uk/nia/2015/5/section/53/1), [Sch. 16 para. 18(2)](https://www.legislation.gov.uk/nia/2015/5/schedule/16/paragraph/18/2); [S.R. 2017/44](https://www.legislation.gov.uk/nisr/2017/44), [art. 2(2)](https://www.legislation.gov.uk/nisr/2017/44/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/nisr/2017/44/article/3), [4](https://www.legislation.gov.uk/nisr/2017/44/article/4))
+[^c-2b90bad08a72a2781990dcef55dbf847]: Textual amendment: [Sch. 3 para. 4 and cross-heading](https://www.legislation.gov.uk/ukpga/1992/7/schedule/3/part/I/crossheading/widows-payment) omitted (6.4.2017) by virtue of [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(1)](https://www.legislation.gov.uk/nia/2015/5/section/53/1), [Sch. 16 para. 18(2)](https://www.legislation.gov.uk/nia/2015/5/schedule/16/paragraph/18/2); [S.R. 2017/44](https://www.legislation.gov.uk/nisr/2017/44), [art. 2(2)](https://www.legislation.gov.uk/nisr/2017/44/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/nisr/2017/44/article/3), [4](https://www.legislation.gov.uk/nisr/2017/44/article/4))
 
 [^c16404301]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/ukpga/1992/7/schedule/3): words in cross-heading preceding para. 5 inserted (24.4.2000 for specified purposes and 9.4.2001 otherwise) by [S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147), [art. 67](https://www.legislation.gov.uk/nisi/1999/3147/article/67), [Sch. 8 para. 12(3)](https://www.legislation.gov.uk/nisi/1999/3147/schedule/8/paragraph/12/3); [S.R. 2000/133](https://www.legislation.gov.uk/nisr/2000/133), [art. 2(3)(a)](https://www.legislation.gov.uk/nisr/2000/133/article/2/3/a), [Sch. Pt. I](https://www.legislation.gov.uk/nisr/2000/133/schedule/part/I)
 
-[^key-4d10862cdece01025d907671e17ce473]: Textual amendment: [Sch. 3 para. 5(1)](https://www.legislation.gov.uk/ukpga/1992/7/schedule/3/paragraph/5/1) substituted (6.4.2016) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 12 para. 58(2)](https://www.legislation.gov.uk/nia/2015/5/schedule/12/paragraph/58/2)
+[^c-4d10862cdece01025d907671e17ce473]: Textual amendment: [Sch. 3 para. 5(1)](https://www.legislation.gov.uk/ukpga/1992/7/schedule/3/paragraph/5/1) substituted (6.4.2016) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 12 para. 58(2)](https://www.legislation.gov.uk/nia/2015/5/schedule/12/paragraph/58/2)
 
-[^key-feeb8d704e09149550b3ed700cf0cebc]: Textual amendment: Figure in [Sch. 3 para. 5(1)(c)](https://www.legislation.gov.uk/ukpga/1992/7/schedule/3/paragraph/5/1/c) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [66(17)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/66/17) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-feeb8d704e09149550b3ed700cf0cebc]: Textual amendment: Figure in [Sch. 3 para. 5(1)(c)](https://www.legislation.gov.uk/ukpga/1992/7/schedule/3/paragraph/5/1/c) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [66(17)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/66/17) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
 [^c19104161]: Textual amendment: Words in [Sch. 3 para. 5(2)(b)(i)](https://www.legislation.gov.uk/ukpga/1992/7/schedule/3/paragraph/5/2/b/i) substituted (with effect for 2003-04 and subsequent tax years) by [National Insurance Contributions Act 2002 (c. 19)](https://www.legislation.gov.uk/ukpga/2002/19), [ss. 6](https://www.legislation.gov.uk/ukpga/2002/19/section/6), [8(2)](https://www.legislation.gov.uk/ukpga/2002/19/section/8/2), [Sch. 1 para. 33(4)](https://www.legislation.gov.uk/ukpga/2002/19/schedule/1/paragraph/33/4)
 
@@ -247,24 +247,24 @@ under the National Insurance Act (Northern Ireland) 1946 or the National Insuran
 
 [^c16404431]: Textual amendment: Words in [Sch. 3 para. 5(6)](https://www.legislation.gov.uk/ukpga/1992/7/schedule/3/paragraph/5/6) substituted (13.4.1995) by [S.I. 1994/1898 (N.I. 12)](https://www.legislation.gov.uk/nisi/1994/1898), [art. 13(1)](https://www.legislation.gov.uk/nisi/1994/1898/article/13/1), [Sch. 1 Pt. I para. 38(3)](https://www.legislation.gov.uk/nisi/1994/1898/schedule/1/part/I/paragraph/38/3) (with [art. 15(1)](https://www.legislation.gov.uk/nisi/1994/1898/article/15/1)); [S.R. 1994/450](https://www.legislation.gov.uk/nisr/1994/450), [art. 2(d)](https://www.legislation.gov.uk/nisr/1994/450/article/2/d), [Sch. Pt. IV](https://www.legislation.gov.uk/nisr/1994/450/schedule/part/IV)
 
-[^key-399b158dc448cf935d9d7ed7869a4215]: Textual amendment: [Sch. 3 para. 5(6A)](https://www.legislation.gov.uk/ukpga/1992/7/schedule/3/paragraph/5/6A)[(6B)](https://www.legislation.gov.uk/ukpga/1992/7/schedule/3/paragraph/5/6B) inserted (27.10.2008) by [Welfare Reform Act (Northern Ireland) 2007 (c. 2)](https://www.legislation.gov.uk/nia/2007/2), [s. 60(1)](https://www.legislation.gov.uk/nia/2007/2/section/60/1), [Sch. 3 para. 3(13)](https://www.legislation.gov.uk/nia/2007/2/schedule/3/paragraph/3/13); [S.R. 2008/276](https://www.legislation.gov.uk/nisr/2008/276), [art. 2(2)(d)](https://www.legislation.gov.uk/nisr/2008/276/article/2/2/d), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2008/276/schedule/part/2)
+[^c-399b158dc448cf935d9d7ed7869a4215]: Textual amendment: [Sch. 3 para. 5(6A)](https://www.legislation.gov.uk/ukpga/1992/7/schedule/3/paragraph/5/6A)[(6B)](https://www.legislation.gov.uk/ukpga/1992/7/schedule/3/paragraph/5/6B) inserted (27.10.2008) by [Welfare Reform Act (Northern Ireland) 2007 (c. 2)](https://www.legislation.gov.uk/nia/2007/2), [s. 60(1)](https://www.legislation.gov.uk/nia/2007/2/section/60/1), [Sch. 3 para. 3(13)](https://www.legislation.gov.uk/nia/2007/2/schedule/3/paragraph/3/13); [S.R. 2008/276](https://www.legislation.gov.uk/nisr/2008/276), [art. 2(2)(d)](https://www.legislation.gov.uk/nisr/2008/276/article/2/2/d), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2008/276/schedule/part/2)
 
 [^c16404441]: Textual amendment: Words in [Sch. 3 para. 5(7)(a)](https://www.legislation.gov.uk/ukpga/1992/7/schedule/3/paragraph/5/7/a) repealed (16.12.1995 with effect in relation to any person attaining pensionable age on or after 6.4.2010) by [S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213), [arts. 1(3)](https://www.legislation.gov.uk/nisi/1995/3213/article/1/3), [123](https://www.legislation.gov.uk/nisi/1995/3213/article/123), [168](https://www.legislation.gov.uk/nisi/1995/3213/article/168), [Sch. 2 Pt. II para. 4](https://www.legislation.gov.uk/nisi/1995/3213/schedule/2/part/II/paragraph/4), [Sch. 5 Pt. II](https://www.legislation.gov.uk/nisi/1995/3213/schedule/5/part/II)
 
-[^key-7c6bdee789ea12917101571984056334]: Textual amendment: Words in [Sch. 3 para. 5(7)](https://www.legislation.gov.uk/ukpga/1992/7/schedule/3/paragraph/5/7) inserted (11.2.2008) by [Pensions Act (Northern Ireland) 2008 (c. 1)](https://www.legislation.gov.uk/nia/2008/1), [s. 3(2)](https://www.legislation.gov.uk/nia/2008/1/section/3/2)
+[^c-7c6bdee789ea12917101571984056334]: Textual amendment: Words in [Sch. 3 para. 5(7)](https://www.legislation.gov.uk/ukpga/1992/7/schedule/3/paragraph/5/7) inserted (11.2.2008) by [Pensions Act (Northern Ireland) 2008 (c. 1)](https://www.legislation.gov.uk/nia/2008/1), [s. 3(2)](https://www.legislation.gov.uk/nia/2008/1/section/3/2)
 
 [^c16404451]: Textual amendment: [Sch. 3 para. 5(7A)](https://www.legislation.gov.uk/ukpga/1992/7/schedule/3/paragraph/5/7A) inserted (8.1.2001) by [2000 c. 4 (N.I.)](https://www.legislation.gov.uk/nia/2000/4), [s. 36](https://www.legislation.gov.uk/nia/2000/4/section/36); [S.R. 2000/374](https://www.legislation.gov.uk/nisr/2000/374), [art. 2(d)](https://www.legislation.gov.uk/nisr/2000/374/article/2/d)
 
 [^c16404461]: Textual amendment: Words in [Sch. 3 para. 5(8)](https://www.legislation.gov.uk/ukpga/1992/7/schedule/3/paragraph/5/8) substituted (16.12.1995 subject to Sch. 2 of the amending S.I.) by [S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213), [arts. 1(3)](https://www.legislation.gov.uk/nisi/1995/3213/article/1/3), [131(5)](https://www.legislation.gov.uk/nisi/1995/3213/article/131/5)
 
-[^key-6c2b0d952b8fca6bd69ae6b7ad94776c]: Textual amendment: [Sch. 3 para. 5A](https://www.legislation.gov.uk/ukpga/1992/7/schedule/3/paragraph/5/5A) inserted (11.2.2008) by [Pensions Act (Northern Ireland) 2008 (c. 1)](https://www.legislation.gov.uk/nia/2008/1), [s. 1(3)](https://www.legislation.gov.uk/nia/2008/1/section/1/3)
+[^c-6c2b0d952b8fca6bd69ae6b7ad94776c]: Textual amendment: [Sch. 3 para. 5A](https://www.legislation.gov.uk/ukpga/1992/7/schedule/3/paragraph/5/5A) inserted (11.2.2008) by [Pensions Act (Northern Ireland) 2008 (c. 1)](https://www.legislation.gov.uk/nia/2008/1), [s. 1(3)](https://www.legislation.gov.uk/nia/2008/1/section/1/3)
 
-[^key-40dcbb8d753dc9dca5ca0faf7789cdf8]: Textual amendment: [Sch. 3 para. 5A(1)(b)](https://www.legislation.gov.uk/ukpga/1992/7/schedule/3/paragraph/5A/1/b) substituted for Sch. 3 para. 5A(1)(b)(c) (6.4.2016) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 12 para. 58(3)](https://www.legislation.gov.uk/nia/2015/5/schedule/12/paragraph/58/3)
+[^c-40dcbb8d753dc9dca5ca0faf7789cdf8]: Textual amendment: [Sch. 3 para. 5A(1)(b)](https://www.legislation.gov.uk/ukpga/1992/7/schedule/3/paragraph/5A/1/b) substituted for Sch. 3 para. 5A(1)(b)(c) (6.4.2016) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 12 para. 58(3)](https://www.legislation.gov.uk/nia/2015/5/schedule/12/paragraph/58/3)
 
-[^key-525a46dcbf7b18fd37beb347a7668474]: Textual amendment: Figure in [Sch. 3 para. 5A(1)(b)](https://www.legislation.gov.uk/ukpga/1992/7/schedule/3/paragraph/5A/1/b) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [66(17)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/66/17) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-525a46dcbf7b18fd37beb347a7668474]: Textual amendment: Figure in [Sch. 3 para. 5A(1)(b)](https://www.legislation.gov.uk/ukpga/1992/7/schedule/3/paragraph/5A/1/b) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [66(17)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/66/17) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-faba74b59724dc8340ade176f8166800]: Textual amendment: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/1992/7/schedule/3/paragraph/7) omitted (6.4.2017) by virtue of [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(1)](https://www.legislation.gov.uk/nia/2015/5/section/53/1), [Sch. 16 para. 18(3)](https://www.legislation.gov.uk/nia/2015/5/schedule/16/paragraph/18/3); [S.R. 2017/44](https://www.legislation.gov.uk/nisr/2017/44), [art. 2(2)](https://www.legislation.gov.uk/nisr/2017/44/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/nisr/2017/44/article/3), [4](https://www.legislation.gov.uk/nisr/2017/44/article/4))
+[^c-faba74b59724dc8340ade176f8166800]: Textual amendment: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/1992/7/schedule/3/paragraph/7) omitted (6.4.2017) by virtue of [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(1)](https://www.legislation.gov.uk/nia/2015/5/section/53/1), [Sch. 16 para. 18(3)](https://www.legislation.gov.uk/nia/2015/5/schedule/16/paragraph/18/3); [S.R. 2017/44](https://www.legislation.gov.uk/nisr/2017/44), [art. 2(2)](https://www.legislation.gov.uk/nisr/2017/44/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/nisr/2017/44/article/3), [4](https://www.legislation.gov.uk/nisr/2017/44/article/4))
 
 [^c16404491]: Textual amendment: Words in [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/1992/7/schedule/3/paragraph/8) substituted (13.4.1995) by [S.I. 1994/1898 (N.I. 12)](https://www.legislation.gov.uk/nisi/1994/1898), [art. 13(1)](https://www.legislation.gov.uk/nisi/1994/1898/article/13/1), [Sch. 1 Pt. I para. 38(4)](https://www.legislation.gov.uk/nisi/1994/1898/schedule/1/part/I/paragraph/38/4) (with [art. 15(1)](https://www.legislation.gov.uk/nisi/1994/1898/article/15/1)); [S.R. 1994/450](https://www.legislation.gov.uk/nisr/1994/450), [art. 2(d)](https://www.legislation.gov.uk/nisr/1994/450/article/2/d), [Sch. Pt. IV](https://www.legislation.gov.uk/nisr/1994/450/schedule/part/IV)
 
-[^key-70984e6e59b53276e4a705f75e12ef40]: Textual amendment: [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/1992/7/schedule/3/paragraph/9) omitted (6.4.2017) by virtue of [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(1)](https://www.legislation.gov.uk/nia/2015/5/section/53/1), [Sch. 16 para. 18(3)](https://www.legislation.gov.uk/nia/2015/5/schedule/16/paragraph/18/3); [S.R. 2017/44](https://www.legislation.gov.uk/nisr/2017/44), [art. 2(2)](https://www.legislation.gov.uk/nisr/2017/44/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/nisr/2017/44/article/3), [4](https://www.legislation.gov.uk/nisr/2017/44/article/4))
+[^c-70984e6e59b53276e4a705f75e12ef40]: Textual amendment: [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/1992/7/schedule/3/paragraph/9) omitted (6.4.2017) by virtue of [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(1)](https://www.legislation.gov.uk/nia/2015/5/section/53/1), [Sch. 16 para. 18(3)](https://www.legislation.gov.uk/nia/2015/5/schedule/16/paragraph/18/3); [S.R. 2017/44](https://www.legislation.gov.uk/nisr/2017/44), [art. 2(2)](https://www.legislation.gov.uk/nisr/2017/44/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/nisr/2017/44/article/3), [4](https://www.legislation.gov.uk/nisr/2017/44/article/4))

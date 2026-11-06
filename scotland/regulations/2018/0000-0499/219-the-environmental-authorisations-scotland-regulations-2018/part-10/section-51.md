@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1) SEPA may serve a notice on a person specified in paragraph (2) requiring that person to pay the costs necessarily incurred by SEPA in relation to —[^key-bf2f950f319de6cca242580f0c1910f6]
+(1) SEPA may serve a notice on a person specified in paragraph (2) requiring that person to pay the costs necessarily incurred by SEPA in relation to —[^c-bf2f950f319de6cca242580f0c1910f6]
 
 - (a) a regulatory notice,
 - (b) a revocation notice,
@@ -30,10 +30,10 @@ up to the time of service of the notice (a “costs recovery notice”) under th
 
 (2) The persons specified are—
 
-- (a) a person on whom a regulatory notice has been served or to whom the duty to comply with the notice has transferred as a result of regulation 28(2),[^key-13e14f02239f618c633e5b562bf14c1e]
-- (b) a person on whom a revocation notice has been served or to whom the duty to comply with the notice has transferred as a result of regulation 29(5),[^key-4b47dc9313c7469d1a02228c7a5cb2f2]
+- (a) a person on whom a regulatory notice has been served or to whom the duty to comply with the notice has transferred as a result of regulation 28(2),[^c-13e14f02239f618c633e5b562bf14c1e]
+- (b) a person on whom a revocation notice has been served or to whom the duty to comply with the notice has transferred as a result of regulation 29(5),[^c-4b47dc9313c7469d1a02228c7a5cb2f2]
 - (c) where SEPA takes steps, or arranges for steps to be taken, to remove or reduce a risk of significant environmental harm under regulation 62(1), the authorised person;
-- (d)[^key-6012245001d7bbd32e9f649271169387] where SEPA takes steps, or arranges for steps to be taken, under regulation 62(2) or (3)—
+- (d)[^c-6012245001d7bbd32e9f649271169387] where SEPA takes steps, or arranges for steps to be taken, under regulation 62(2) or (3)—
   - (i) the person on whom the regulatory notice, surrender notice or revocation notice was served,
   - (ii) the person who would have been served with the regulatory notice, surrender notice or revocation notice, or
   - (iii) the person to whom a duty to comply with the regulatory notice, surrender notice or revocation notice has transferred under regulation 28(2) or 29(5).
@@ -60,10 +60,10 @@ up to the time of service of the notice (a “costs recovery notice”) under th
 
 ## Annotations
 
-[^key-bf2f950f319de6cca242580f0c1910f6]: Textual amendment: Words in reg. 51(1) substituted (1.6.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3), [23(a)](https://www.legislation.gov.uk/ssi/2025/165/regulation/23/a) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-bf2f950f319de6cca242580f0c1910f6]: Textual amendment: Words in reg. 51(1) substituted (1.6.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3), [23(a)](https://www.legislation.gov.uk/ssi/2025/165/regulation/23/a) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-13e14f02239f618c633e5b562bf14c1e]: Textual amendment: Words in reg. 51(2)(a) inserted (1.6.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3), [23(b)(i)](https://www.legislation.gov.uk/ssi/2025/165/regulation/23/b/i) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-13e14f02239f618c633e5b562bf14c1e]: Textual amendment: Words in reg. 51(2)(a) inserted (1.6.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3), [23(b)(i)](https://www.legislation.gov.uk/ssi/2025/165/regulation/23/b/i) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-4b47dc9313c7469d1a02228c7a5cb2f2]: Textual amendment: Words in reg. 51(2)(b) inserted (1.6.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3), [23(b)(ii)](https://www.legislation.gov.uk/ssi/2025/165/regulation/23/b/ii) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-4b47dc9313c7469d1a02228c7a5cb2f2]: Textual amendment: Words in reg. 51(2)(b) inserted (1.6.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3), [23(b)(ii)](https://www.legislation.gov.uk/ssi/2025/165/regulation/23/b/ii) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-6012245001d7bbd32e9f649271169387]: Textual amendment: Reg. 51(2)(d) substituted (1.6.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3), [23(b)(iii)](https://www.legislation.gov.uk/ssi/2025/165/regulation/23/b/iii) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-6012245001d7bbd32e9f649271169387]: Textual amendment: Reg. 51(2)(d) substituted (1.6.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3), [23(b)(iii)](https://www.legislation.gov.uk/ssi/2025/165/regulation/23/b/iii) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))

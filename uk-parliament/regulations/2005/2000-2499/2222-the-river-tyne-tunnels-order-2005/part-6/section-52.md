@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 52. Service of notices[^key-b7daaafb55fd912005cc432bc1506624]
+## 52. Service of notices[^c-b7daaafb55fd912005cc432bc1506624]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b7daaafb55fd912005cc432bc1506624]: Commencement: Art. 52 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)
+[^c-b7daaafb55fd912005cc432bc1506624]: Commencement: Art. 52 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)
 
 [^f00035]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).

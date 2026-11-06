@@ -41,11 +41,11 @@ Coming into operation
 
 The Department of Health, Social Services and Public Safety[^f00001], in exercise of the powers conferred on it by Articles 57G, 106(b) and 107(6) of, and paragraph 1(8)(a) of Schedule 11 to, the Health and Personal Social Services (Northern Ireland) Order 1972[^f00002] and of all other powers enabling it in that behalf, in conjunction with the Department of Finance and Personnel, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-f11c607d275cbf72aad5a6b5024ecb25]
+## 1. Citation and commencement[^c-f11c607d275cbf72aad5a6b5024ecb25]
 
 These Regulations may be cited as the Health and Personal Social Services (Primary Medical Services Performers Lists) Regulations (Northern Ireland) 2004 and shall come into operation on 1st April 2004.
 
-## 2. Interpretation[^key-219778baf0ab0a87787fd26edc50b72a]
+## 2. Interpretation[^c-219778baf0ab0a87787fd26edc50b72a]
 
 In these Regulations –
 
@@ -107,7 +107,7 @@ In these Regulations –
   - (b) after the coming into operation of Article 4 of the 2003 Order, post graduate medical education and training necessary for the award of a CCT under that Article; and
 - “writing” includes, except in regulation 6(1), electronic mail.
 
-## 3. Primary Medical Services Performers[^key-3f659403d99eacefc674438d61fad10b]
+## 3. Primary Medical Services Performers[^c-3f659403d99eacefc674438d61fad10b]
 
 (1) Subject to paragraphs (2), (3) and (4), a health care professional who is a medical practitioner may not perform any primary medical service which a Board is, under Article 56 of the Order[^f00026], under a duty to provide or secure the provision of unless that medical practitioner is included in a primary medical services performers list maintained by that Board.
 
@@ -120,7 +120,7 @@ In these Regulations –
 
 (4) Paragraph (1) shall not apply to the provision of any primary medical service by a medical practitioner not included in a list specified in paragraph (1) at any time prior to 1st October 2004.
 
-## 4. Primary Medical Services Performers Lists[^key-381f2c2758b3fc05230a0a39b246fdb7]
+## 4. Primary Medical Services Performers Lists[^c-381f2c2758b3fc05230a0a39b246fdb7]
 
 (1) Each Board shall prepare in accordance with these Regulations a primary medical services performers list of medical practitioners who may perform primary medical services for which that Board is, under Article 56 of the Order, under a duty to provide or secure the provision of.
 
@@ -132,7 +132,7 @@ In these Regulations –
 - (d) if the performer is a GP Registrar, that the performer is one; and
 - (e) if the performer is an armed forces GP, that the performer is one.
 
-## 5. Publication of primary medical services performers lists[^key-8b1782fb506b77b7760b38a6a0a753a1]
+## 5. Publication of primary medical services performers lists[^c-8b1782fb506b77b7760b38a6a0a753a1]
 
 (1) A Board shall publish and make available for inspection, at such places as appear to it convenient for informing all persons interested within the Board’s area, copies of the primary medical services performers list and shall keep them up-to-date.
 
@@ -145,7 +145,7 @@ In these Regulations –
 
 at intervals of not more than 3 months.
 
-## 6. Application for inclusion in the primary medical services performers list[^key-c02742a6c48913bd12d68e0402b357d5]
+## 6. Application for inclusion in the primary medical services performers list[^c-c02742a6c48913bd12d68e0402b357d5]
 
 (1) An application by a person for inclusion in a primary medical services performers list of a Board shall be made in writing to the Board and shall include the documents, information, undertakings and declarations specified in Schedule 1.
 
@@ -156,7 +156,7 @@ at intervals of not more than 3 months.
 
 (3) If a Board considers that further information or documents, in addition to the documents, information and undertakings provided by the applicant in accordance with paragraph (1), are necessary to determine the applicant’s application, the Board shall require the applicant to provide such further information or documents as are necessary before the Board shall determine an application in accordance with this regulation.
 
-## 7. Decisions and grounds for refusal and deferral[^key-ee8615a4cb3916c533e18a267674c987]
+## 7. Decisions and grounds for refusal and deferral[^c-ee8615a4cb3916c533e18a267674c987]
 
 (1) A Board shall refuse to include the name of an applicant in its primary medical services performers list if –
 
@@ -198,13 +198,13 @@ and the Board shall notify the applicant of the deferral and the reasons for the
 
 (8) In this regulation “the outcome of the relevant event” means the final determination of any proceedings (including proceedings pending the determination of which the applicant is suspended) or investigation referred to in paragraph 4(a) to (c).
 
-## 8. Requirements with which a medical practitioner included in a primary medical services performers list must comply[^key-def065215ea10cf40a1f9a6feda49270]
+## 8. Requirements with which a medical practitioner included in a primary medical services performers list must comply[^c-def065215ea10cf40a1f9a6feda49270]
 
 (1) A performer included in a primary medical services performers list shall comply with the undertakings specified in paragraph 3 of Schedule 1 and any other requirement of these Regulations.
 
 (2) A performer included in a primary medical services performers list shall comply with the undertakings specified in paragraph 3 of Schedule 1 whether or not those undertakings were included in an application by the performer under regulation 6.
 
-## 9. Removal from primary medical services performers lists[^key-a79cddef3ac0b5c900b765e76560da24]
+## 9. Removal from primary medical services performers lists[^c-a79cddef3ac0b5c900b765e76560da24]
 
 (1) In addition to any duty on a Board under the Order not to continue to include a performer by virtue of that performer’s disqualification or to remove the performer by virtue of the performer being suspended, where a Board determines that a performer who has been included in a primary medical services performers list –
 
@@ -225,7 +225,7 @@ the Board shall remove the performer from the primary medical services performer
 - (a) remove a performer from a primary medical services performers list by virtue of that performer being disqualified under paragraph 3(2) or 3 of Schedule 11 to the Order; or
 - (b) remove a performer from a primary medical services performers list by virtue of that applicant being suspended under paragraph 9 or 10 of Schedule 11 to the Order.
 
-## 10. Removal from the primary medical services performers list of medical practitioners not performing primary medical services[^key-4533d5d21e883b298062cda530572c57]
+## 10. Removal from the primary medical services performers list of medical practitioners not performing primary medical services[^c-4533d5d21e883b298062cda530572c57]
 
 (1) Where a Board has determined, in accordance with the provisions of this regulation, that a performer who is included in the primary medical services performers list has not, for the preceding 12 months, performed primary medical services which that Board is, under Article 56 of the Order[^f00032], under a duty to provide or secure the provision of, the Board may remove the performer from the primary medical services performers list, unless the Department directs to the contrary in accordance with regulation 13(11).
 
@@ -265,7 +265,7 @@ within 7 days of making that determination, and where the Board has determined t
 
 (8) No determination under this regulation shall be made in respect of any performer who has completed a period of relevant service in the armed forces until 12 months after the date when the performer completed that period of relevant service in the armed forces.
 
-## 11. Re-inclusion in a primary medical services performers list[^key-5c42ca2a049d11e3dbed6837be6ce494]
+## 11. Re-inclusion in a primary medical services performers list[^c-5c42ca2a049d11e3dbed6837be6ce494]
 
 Where a person’s name has been removed from a primary medical services performers list on grounds of conviction of a criminal offence and either –
 
@@ -274,7 +274,7 @@ Where a person’s name has been removed from a primary medical services perform
 
 the Board may include that person in the primary medical services performers list without an application being made in accordance with regulation 6 if the Board is satisfied that there is no further information which it should consider, and provided that the Board receives undertakings from the person to comply with these Regulations.
 
-## 12. Amendment or withdrawal from primary medical services performers lists[^key-8ab25fbfcc07a9cd36433fc826c7e7bb]
+## 12. Amendment or withdrawal from primary medical services performers lists[^c-8ab25fbfcc07a9cd36433fc826c7e7bb]
 
 (1) A performer shall, unless it is impracticable to do so, give notice in writing to the Board within 28 days from and including the date of any occurrence requiring a change in the information recorded on a primary medical services performers list.
 
@@ -293,7 +293,7 @@ the Board may include that person in the primary medical services performers lis
 
 (5) Where, in relation to a performer, representations are made to the Tribunal under paragraph 1 of Schedule 11 to the Order (the Tribunal), or a request for a review has been made to the Tribunal or a review is to be made by the Tribunal under paragraph 5 of Schedule 11 to the Order (review etc. of disqualification), that performer shall not, except with the consent of the Department and subject to such conditions as it may impose, be entitled to withdraw from the list until the proceedings on such representations, request for review or review have been determined.
 
-## 13. Appeal to the Department[^key-0feff13a489bd7324f125560a4081030]
+## 13. Appeal to the Department[^c-0feff13a489bd7324f125560a4081030]
 
 (1) A person may appeal –
 
@@ -325,7 +325,7 @@ to hear the appeal.
 
 (11) Where the Department allows an appeal referred to in paragraph (1)(b), it shall direct the Board not to remove the performer from the primary medical services performers list by reason of the determination appealed against, or, where the person has been removed, direct the Board to re-include the person in the primary medical services performers list, and not to remove the person by reason of the determination appealed against.
 
-## 14. Disclosure of information[^key-b75150377bc87d6477e15252053c0d42]
+## 14. Disclosure of information[^c-b75150377bc87d6477e15252053c0d42]
 
 (1) Where a Board decides to –
 
@@ -392,7 +392,7 @@ the Board shall notify the persons specified in paragraph (2) within 7 days of t
 
   of that corporate body, or that the corporate body was considering inviting the person to become such a person.
 
-## 15. Payments to suspended medical practitioners[^key-1ae7e93050261f0e8a77db54640b9d88]
+## 15. Payments to suspended medical practitioners[^c-1ae7e93050261f0e8a77db54640b9d88]
 
 (1) A Board shall make payments, in accordance with any determination by the Department, to any performer whose name appears on a primary medical services performers list and who is suspended.
 
@@ -425,7 +425,7 @@ Department of Finance and Personnel
 
 Regulation 6(1)
 
-**1.**[^key-3d702b9844c08f956bf47e3da27cdbe4] An application shall contain the following information –
+**1.**[^c-3d702b9844c08f956bf47e3da27cdbe4] An application shall contain the following information –
 
 - (a) the applicant’s full name, sex, date of birth and private address and telephone number;
 - (b) a full description of the applicant’s medical qualifications including the institution which awarded them;
@@ -446,7 +446,7 @@ Regulation 6(1)
 - (l) if the applicant is an armed forces GP, that he is one;
 - (m) if the applicant is a GP Registrar, the name and address of the GP Trainer.
 
-**2.**[^key-7fccf0ac4f21979dd500572d3838de06] An application shall contain the following declarations as to whether or not the applicant –
+**2.**[^c-7fccf0ac4f21979dd500572d3838de06] An application shall contain the following declarations as to whether or not the applicant –
 
 - (a) is a medical practitioner included in both registers;
 - (b) if the applicant is a GP Registrar, and is not a fully registered medical practitioner included in the register of medical practitioners, that the applicant is registered in that register with limited registration, with details of the limits of that registration, as defined in the direction by virtue of which the applicant is registered;
@@ -468,7 +468,7 @@ Regulation 6(1)
   - (iv) has been subject to any investigation into its provision of professional services by any licensing, regulatory or other body;
 - (o) that the applicant consents to a request being made by the Board to any employer or former employer, licensing, regulatory or other body in the United Kingdom or elsewhere, for information relating to a current investigation, or an investigation where the outcome was adverse, into the applicant or a body corporate referred to in this paragraph and, for the purposes of this sub-paragraph, “employer” includes any partnership of which the applicant is or was a member.
 
-**3.**[^key-8ad6ad2c848dd01a9ad800b3347bf6a2] An application shall include the following undertakings –
+**3.**[^c-8ad6ad2c848dd01a9ad800b3347bf6a2] An application shall include the following undertakings –
 
 - (a) that the performer will participate in appropriate and relevant appraisal procedures;
 - (b) that the performer will notify the Board in writing within 7 days of its occurrence if the performer –
@@ -500,7 +500,7 @@ Regulation 6(1)
   - (iv) after the coming into operation of Article 10 of the 2003 Order, provide the Board with evidence of the performer’s inclusion in the GP Register;
 - (f) that the performer shall consent to a request being made by the Board to any employer or former employer, licensing, regulatory or other body in the United Kingdom or elsewhere, for information relating to a current investigation, or an investigation where the outcome was adverse, into the applicant or a body corporate referred to in this paragraph and, for the purposes of this sub-paragraph, “employer” includes any partnership of which the applicant is or was a member.
 
-**4.**[^key-a4bc72877ab71c1e7e8ce9efa7f57ee4] The events to which this paragraph applies are –
+**4.**[^c-a4bc72877ab71c1e7e8ce9efa7f57ee4] The events to which this paragraph applies are –
 
 - (a) the conclusion of any period of training prescribed by regulation 6(3) of the Vocational Training Regulations or after the coming into operation of Articles 4 and 5 of the 2003 Order, any period of general practice training required pursuant to those Articles, unless –
   - (i) it forms part of a vocational training scheme which has not yet been concluded;
@@ -544,9 +544,9 @@ Regulation 15 provides for the making of payments by Boards to general medical p
 
 [^f00002]: Footnote: [S.I. 1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265) Article 57G was inserted by the Primary Medical Services (Northern Ireland) Order 2004 ([S.I. 2004/311 (N.I. 2)](https://www.legislation.gov.uk/nisi/2004/311)). Schedule 11 was substituted by Schedule 2 to the Health and Personal Social Services Act (Northern Ireland) [2001 c. 3 (N.I.)](https://www.legislation.gov.uk/nia/2001/3) and amended by Article 8(3) of [S.I. 2004/311 (N.I. 12)](https://www.legislation.gov.uk/nisi/2004/311)
 
-[^key-f11c607d275cbf72aad5a6b5024ecb25]: Commencement: Reg. 1 in operation at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/149/regulation/1)
+[^c-f11c607d275cbf72aad5a6b5024ecb25]: Commencement: Reg. 1 in operation at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/149/regulation/1)
 
-[^key-219778baf0ab0a87787fd26edc50b72a]: Commencement: Reg. 2 in operation at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/149/regulation/1)
+[^c-219778baf0ab0a87787fd26edc50b72a]: Commencement: Reg. 2 in operation at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/149/regulation/1)
 
 [^f00003]: Footnote: [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135)
 
@@ -594,17 +594,17 @@ Regulation 15 provides for the making of payments by Boards to general medical p
 
 [^f00025]: Footnote: [S.R. 1998 No. 13](https://www.legislation.gov.uk/nisr/1998/13)
 
-[^key-3f659403d99eacefc674438d61fad10b]: Commencement: Reg. 3 in operation at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/149/regulation/1)
+[^c-3f659403d99eacefc674438d61fad10b]: Commencement: Reg. 3 in operation at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/149/regulation/1)
 
 [^f00026]: Footnote: [S.I. 1972/1265 (N.I, 14)](https://www.legislation.gov.uk/uksi/1972/1265). Article 56 was inserted by Article 3 of the 2004 Order
 
-[^key-381f2c2758b3fc05230a0a39b246fdb7]: Commencement: Reg. 4 in operation at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/149/regulation/1)
+[^c-381f2c2758b3fc05230a0a39b246fdb7]: Commencement: Reg. 4 in operation at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/149/regulation/1)
 
-[^key-8b1782fb506b77b7760b38a6a0a753a1]: Commencement: Reg. 5 in operation at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/149/regulation/1)
+[^c-8b1782fb506b77b7760b38a6a0a753a1]: Commencement: Reg. 5 in operation at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/149/regulation/1)
 
-[^key-c02742a6c48913bd12d68e0402b357d5]: Commencement: Reg. 6 in operation at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/149/regulation/1)
+[^c-c02742a6c48913bd12d68e0402b357d5]: Commencement: Reg. 6 in operation at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/149/regulation/1)
 
-[^key-ee8615a4cb3916c533e18a267674c987]: Commencement: Reg. 7 in operation at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/149/regulation/1)
+[^c-ee8615a4cb3916c533e18a267674c987]: Commencement: Reg. 7 in operation at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/149/regulation/1)
 
 [^f00027]: Footnote: Section 36 was amended by the Medical (Professional Performance) Act [1995 (c. 51)](https://www.legislation.gov.uk/ukpga/1995/51) (“the 1995 Act”), Schedule, paragraph 5 and by [S.I. 2000/1803](https://www.legislation.gov.uk/uksi/2000/1803)
 
@@ -616,11 +616,11 @@ Regulation 15 provides for the making of payments by Boards to general medical p
 
 [^f00031]: Footnote: Schedule 11 was substituted by Schedule 2 of the Health and Personal Social Services Act (Northern Ireland) [2001 (c. 3)](https://www.legislation.gov.uk/nia/2001/3) and amended by paragraph 12 of Schedule 1 to the 2004 Order
 
-[^key-def065215ea10cf40a1f9a6feda49270]: Commencement: Reg. 8 in operation at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/149/regulation/1)
+[^c-def065215ea10cf40a1f9a6feda49270]: Commencement: Reg. 8 in operation at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/149/regulation/1)
 
-[^key-a79cddef3ac0b5c900b765e76560da24]: Commencement: Reg. 9 in operation at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/149/regulation/1)
+[^c-a79cddef3ac0b5c900b765e76560da24]: Commencement: Reg. 9 in operation at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/149/regulation/1)
 
-[^key-4533d5d21e883b298062cda530572c57]: Commencement: Reg. 10 in operation at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/149/regulation/1)
+[^c-4533d5d21e883b298062cda530572c57]: Commencement: Reg. 10 in operation at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/149/regulation/1)
 
 [^f00032]: Footnote: [S.I. 1972/1265 (N.I, 14)](https://www.legislation.gov.uk/uksi/1972/1265). Article 56 was inserted by Article 3 of the 2004 Order
 
@@ -628,19 +628,19 @@ Regulation 15 provides for the making of payments by Boards to general medical p
 
 [^f00034]: Footnote: Section 41A is substituted by Article 13 of the 2002 Order, with effect from such date as the Secretary of State may specify
 
-[^key-5c42ca2a049d11e3dbed6837be6ce494]: Commencement: Reg. 11 in operation at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/149/regulation/1)
+[^c-5c42ca2a049d11e3dbed6837be6ce494]: Commencement: Reg. 11 in operation at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/149/regulation/1)
 
-[^key-8ab25fbfcc07a9cd36433fc826c7e7bb]: Commencement: Reg. 12 in operation at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/149/regulation/1)
+[^c-8ab25fbfcc07a9cd36433fc826c7e7bb]: Commencement: Reg. 12 in operation at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/149/regulation/1)
 
-[^key-0feff13a489bd7324f125560a4081030]: Commencement: Reg. 13 in operation at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/149/regulation/1)
+[^c-0feff13a489bd7324f125560a4081030]: Commencement: Reg. 13 in operation at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/149/regulation/1)
 
-[^key-b75150377bc87d6477e15252053c0d42]: Commencement: Reg. 14 in operation at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/149/regulation/1)
+[^c-b75150377bc87d6477e15252053c0d42]: Commencement: Reg. 14 in operation at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/149/regulation/1)
 
-[^key-1ae7e93050261f0e8a77db54640b9d88]: Commencement: Reg. 15 in operation at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/149/regulation/1)
+[^c-1ae7e93050261f0e8a77db54640b9d88]: Commencement: Reg. 15 in operation at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/149/regulation/1)
 
-[^key-3d702b9844c08f956bf47e3da27cdbe4]: Commencement: Sch. 1 para. 1 in operation at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/149/regulation/1)
+[^c-3d702b9844c08f956bf47e3da27cdbe4]: Commencement: Sch. 1 para. 1 in operation at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/149/regulation/1)
 
-[^key-7fccf0ac4f21979dd500572d3838de06]: Commencement: Sch. 1 para. 2 in operation at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/149/regulation/1)
+[^c-7fccf0ac4f21979dd500572d3838de06]: Commencement: Sch. 1 para. 2 in operation at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/149/regulation/1)
 
 [^f00035]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8). Section 109A was inserted by Article 14 of [S.I. 1997/1182 (N.I. 11)](https://www.legislation.gov.uk/nisi/1997/1182)
 
@@ -648,8 +648,8 @@ Regulation 15 provides for the making of payments by Boards to general medical p
 
 [^f00037]: Footnote: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46)
 
-[^key-8ad6ad2c848dd01a9ad800b3347bf6a2]: Commencement: Sch. 1 para. 3 in operation at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/149/regulation/1)
+[^c-8ad6ad2c848dd01a9ad800b3347bf6a2]: Commencement: Sch. 1 para. 3 in operation at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/149/regulation/1)
 
 [^f00038]: Footnote: [S.I.1994/3130](https://www.legislation.gov.uk/uksi/1994/3130); relevant amending instrument is [S.I. 1998/669](https://www.legislation.gov.uk/uksi/1998/669)
 
-[^key-a4bc72877ab71c1e7e8ce9efa7f57ee4]: Commencement: Sch. 1 para. 4 in operation at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/149/regulation/1)
+[^c-a4bc72877ab71c1e7e8ce9efa7f57ee4]: Commencement: Sch. 1 para. 4 in operation at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/149/regulation/1)

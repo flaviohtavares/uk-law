@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 9 — LAND IN WHICH ONLY NEW RIGHTS ETC. MAY BE ACQUIRED[^key-c87218f2226d84902720436ccb994b6e]
+## SCHEDULE 9 — LAND IN WHICH ONLY NEW RIGHTS ETC. MAY BE ACQUIRED[^c-c87218f2226d84902720436ccb994b6e]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ Article 22
 
 ## Annotations
 
-[^key-c87218f2226d84902720436ccb994b6e]: Commencement: Sch. 9 in force at 27.9.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/943/article/1)
+[^c-c87218f2226d84902720436ccb994b6e]: Commencement: Sch. 9 in force at 27.9.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/943/article/1)

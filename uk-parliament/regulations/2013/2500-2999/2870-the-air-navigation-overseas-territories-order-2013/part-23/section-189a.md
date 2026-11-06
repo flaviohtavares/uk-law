@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 189A. Application of the Order to an aircraft the subject of an article 83 bis agreement[^key-03c60ee4c7a52d0e6cfd8441eeafdee9]
+## 189A. Application of the Order to an aircraft the subject of an article 83 bis agreement[^c-03c60ee4c7a52d0e6cfd8441eeafdee9]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ The provisions of this Order do not apply to an aircraft registered in the Terri
 
 ## Annotations
 
-[^key-03c60ee4c7a52d0e6cfd8441eeafdee9]: Textual amendment: [Art. 189A](https://www.legislation.gov.uk/uksi/2013/2870/article/189A) inserted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [21](https://www.legislation.gov.uk/uksi/2021/755/article/21)
+[^c-03c60ee4c7a52d0e6cfd8441eeafdee9]: Textual amendment: [Art. 189A](https://www.legislation.gov.uk/uksi/2013/2870/article/189A) inserted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [21](https://www.legislation.gov.uk/uksi/2021/755/article/21)

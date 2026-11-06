@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101. Meaning of “annualised final pay”[^key-86cc201790a6909203880ce715b192eb]
+## 101. Meaning of “annualised final pay”[^c-86cc201790a6909203880ce715b192eb]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ where—
 
 ## Annotations
 
-[^key-86cc201790a6909203880ce715b192eb]: Commencement: Reg. 101 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-86cc201790a6909203880ce715b192eb]: Commencement: Reg. 101 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

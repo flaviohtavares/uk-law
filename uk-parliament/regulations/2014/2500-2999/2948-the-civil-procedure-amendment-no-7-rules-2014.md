@@ -48,15 +48,15 @@ Coming into force
 
 The Civil Procedure Rule Committee, having power under section 2 of the Civil Procedure Act 1997[^f00001] to make rules of court under section 1 of that Act, after consulting in accordance with section 2(6)(a) of that Act, makes the following Rules:
 
-## 1. Citation, commencement and interpretation[^key-443341e8077d78582f1ac673d322fd0c]
+## 1. Citation, commencement and interpretation[^c-443341e8077d78582f1ac673d322fd0c]
 
 These Rules may be cited as the Civil Procedure (Amendment No. 7) Rules 2014.
 
-**2.**[^key-28a3866f4c156d68d038eb8ed5979f5f] These Rules shall come into force on 10th January 2015.
+**2.**[^c-28a3866f4c156d68d038eb8ed5979f5f] These Rules shall come into force on 10th January 2015.
 
-**3.**[^key-93d19282cd5ca748c698a9ee26bdadba] In these Rules, a reference to a Part or rule by number alone means the Part or rule so numbered in the Civil Procedure Rules 1998[^f00002].
+**3.**[^c-93d19282cd5ca748c698a9ee26bdadba] In these Rules, a reference to a Part or rule by number alone means the Part or rule so numbered in the Civil Procedure Rules 1998[^f00002].
 
-## 4. Amendments to the Civil Procedure Rules 1998[^key-8859de073f735f88e5a1d7a3bb742d59]
+## 4. Amendments to the Civil Procedure Rules 1998[^c-8859de073f735f88e5a1d7a3bb742d59]
 
 (1) Part 6 is amended as follows.
 
@@ -88,7 +88,7 @@ These Rules may be cited as the Civil Procedure (Amendment No. 7) Rules 2014.
 
   .
 
-**5.**[^key-351bb3532d1e9c181c2c81955bab69c9] (1) Part 74 is amended as follows.
+**5.**[^c-351bb3532d1e9c181c2c81955bab69c9] (1) Part 74 is amended as follows.
 
 (2) In the Table of Contents—
 
@@ -164,7 +164,7 @@ These Rules may be cited as the Civil Procedure (Amendment No. 7) Rules 2014.
 
 .
 
-(8) In rule rule 74.5(1)[^key-fac9ec7706c21490c7fd9c26899eea4b]—
+(8) In rule rule 74.5(1)[^c-fac9ec7706c21490c7fd9c26899eea4b]—
 
 - (a) at the end of sub-paragraph (b), omit “and”;
 - (b) at the end of sub-paragraph (c), for the comma substitute “; and”; and
@@ -176,7 +176,7 @@ These Rules may be cited as the Civil Procedure (Amendment No. 7) Rules 2014.
 
 (9) In rule 74.6(3)(c)(ii)—
 
-- (a) after “the 1982 Act”, insert[^key-7a987eb9efc97eb32b34acc8347b3526] “or”; and
+- (a) after “the 1982 Act”, insert[^c-7a987eb9efc97eb32b34acc8347b3526] “or”; and
 - (b) after “the Lugano Convention,”, omit “or the Judgments Regulation,”.
 
 (10) After rule 74.7, insert—
@@ -324,7 +324,7 @@ These Rules may be cited as the Civil Procedure (Amendment No. 7) Rules 2014.
 - (b) in the definition of “Euratom inspection order”, for “Communities” substitute “Union”; and
 - (c) in the definition of “European Court”, for “Communities” substitute “Union”.
 
-## 6. Transitional provisions[^key-5526ad652f08e2c73458280f2b5e630f]
+## 6. Transitional provisions[^c-5526ad652f08e2c73458280f2b5e630f]
 
 (1) For the purposes of proceedings, judgments and authentic instruments and court settlements to which, by virtue of article 66(2) of the Judgments Regulation, the previous Judgments Regulation continues to apply—
 
@@ -394,31 +394,31 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00001]: Footnote: [1997 c.12](https://www.legislation.gov.uk/ukpga/1997/12). Section 2(1) was substituted by the Constitutional Reform Act [2005 (c.4)](https://www.legislation.gov.uk/ukpga/2005/4), section 15 and Schedule 4 Part 1. Section 1(3) was substituted by section 82(1) of the Courts Act [2003 (c.39)](https://www.legislation.gov.uk/ukpga/2003/39) and further amended by the Constitutional Reform Act 2005 sections 15, 146, Schedule 4 Part 1 paragraphs 261 and 262 and Schedule 18, Part 2.
 
-[^key-443341e8077d78582f1ac673d322fd0c]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2014/2948/article/1) in force at 10.1.2015, see [art. 2](https://www.legislation.gov.uk/uksi/2014/2948/article/2)
+[^c-443341e8077d78582f1ac673d322fd0c]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2014/2948/article/1) in force at 10.1.2015, see [art. 2](https://www.legislation.gov.uk/uksi/2014/2948/article/2)
 
-[^key-28a3866f4c156d68d038eb8ed5979f5f]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2014/2948/article/2) in force at 10.1.2015, see [art. 2](https://www.legislation.gov.uk/uksi/2014/2948/article/2)
+[^c-28a3866f4c156d68d038eb8ed5979f5f]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2014/2948/article/2) in force at 10.1.2015, see [art. 2](https://www.legislation.gov.uk/uksi/2014/2948/article/2)
 
-[^key-93d19282cd5ca748c698a9ee26bdadba]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2014/2948/article/3) in force at 10.1.2015, see [art. 2](https://www.legislation.gov.uk/uksi/2014/2948/article/2)
+[^c-93d19282cd5ca748c698a9ee26bdadba]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2014/2948/article/3) in force at 10.1.2015, see [art. 2](https://www.legislation.gov.uk/uksi/2014/2948/article/2)
 
 [^f00002]: Footnote: [S.I. 1998/3132](https://www.legislation.gov.uk/uksi/1998/3132). Relevant amendments were made by [S.I. 2002/2058](https://www.legislation.gov.uk/uksi/2002/2058), [2007/1655](https://www.legislation.gov.uk/uksi/2007/1655), [2008/2178](https://www.legislation.gov.uk/uksi/2008/2178), [S.I. 2009/3131](https://www.legislation.gov.uk/uksi/2009/3131) and [2009/3390](https://www.legislation.gov.uk/uksi/2009/3390).
 
-[^key-8859de073f735f88e5a1d7a3bb742d59]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2014/2948/article/4) in force at 10.1.2015, see [art. 2](https://www.legislation.gov.uk/uksi/2014/2948/article/2)
+[^c-8859de073f735f88e5a1d7a3bb742d59]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2014/2948/article/4) in force at 10.1.2015, see [art. 2](https://www.legislation.gov.uk/uksi/2014/2948/article/2)
 
 [^f00003]: Footnote: OJ No. L 351, 20.12.2012, p.1
 
 [^f00004]: Footnote: OJ No. L 299, 16.11/2005, p62
 
-[^key-351bb3532d1e9c181c2c81955bab69c9]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2014/2948/article/5) in force at 10.1.2015, see [art. 2](https://www.legislation.gov.uk/uksi/2014/2948/article/2)
+[^c-351bb3532d1e9c181c2c81955bab69c9]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2014/2948/article/5) in force at 10.1.2015, see [art. 2](https://www.legislation.gov.uk/uksi/2014/2948/article/2)
 
 [^f00005]: Footnote: OJ No. L 351, 20.12.2012, p.1
 
 [^f00006]: Footnote: OJ No. L 299, 16.11/2005, p62
 
-[^key-fac9ec7706c21490c7fd9c26899eea4b]: Textual amendment: Words in [rule 5(8)](https://www.legislation.gov.uk/uksi/2014/2948/rule/5/8) substituted (9.1.2015) by [The Civil Procedure (Amendment No. 8) Rules 2014 (S.I. 2014/3299)](https://www.legislation.gov.uk/uksi/2014/3299), [rules 2(a)](https://www.legislation.gov.uk/uksi/2014/3299/rule/2/a), [17(a)](https://www.legislation.gov.uk/uksi/2014/3299/rule/17/a)
+[^c-fac9ec7706c21490c7fd9c26899eea4b]: Textual amendment: Words in [rule 5(8)](https://www.legislation.gov.uk/uksi/2014/2948/rule/5/8) substituted (9.1.2015) by [The Civil Procedure (Amendment No. 8) Rules 2014 (S.I. 2014/3299)](https://www.legislation.gov.uk/uksi/2014/3299), [rules 2(a)](https://www.legislation.gov.uk/uksi/2014/3299/rule/2/a), [17(a)](https://www.legislation.gov.uk/uksi/2014/3299/rule/17/a)
 
-[^key-7a987eb9efc97eb32b34acc8347b3526]: Textual amendment: Word in [rule 5(9)(a)](https://www.legislation.gov.uk/uksi/2014/2948/rule/5/9/a) substituted (9.1.2015) by [The Civil Procedure (Amendment No. 8) Rules 2014 (S.I. 2014/3299)](https://www.legislation.gov.uk/uksi/2014/3299), [rules 2(a)](https://www.legislation.gov.uk/uksi/2014/3299/rule/2/a), [17(b)](https://www.legislation.gov.uk/uksi/2014/3299/rule/17/b)
+[^c-7a987eb9efc97eb32b34acc8347b3526]: Textual amendment: Word in [rule 5(9)(a)](https://www.legislation.gov.uk/uksi/2014/2948/rule/5/9/a) substituted (9.1.2015) by [The Civil Procedure (Amendment No. 8) Rules 2014 (S.I. 2014/3299)](https://www.legislation.gov.uk/uksi/2014/3299), [rules 2(a)](https://www.legislation.gov.uk/uksi/2014/3299/rule/2/a), [17(b)](https://www.legislation.gov.uk/uksi/2014/3299/rule/17/b)
 
-[^key-5526ad652f08e2c73458280f2b5e630f]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2014/2948/article/6) in force at 10.1.2015, see [art. 2](https://www.legislation.gov.uk/uksi/2014/2948/article/2)
+[^c-5526ad652f08e2c73458280f2b5e630f]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2014/2948/article/6) in force at 10.1.2015, see [art. 2](https://www.legislation.gov.uk/uksi/2014/2948/article/2)
 
 [^f00007]: Footnote: OJ No. L 351, 20.12.2012, p.1
 

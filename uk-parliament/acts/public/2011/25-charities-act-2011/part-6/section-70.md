@@ -20,20 +20,20 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-9b0a745a462cc933b3d7bcdb9a16b40a] The Commission does not have jurisdiction under section 69 to try or determine—
+(1)[^c-9b0a745a462cc933b3d7bcdb9a16b40a] The Commission does not have jurisdiction under section 69 to try or determine—
 
 - (a) the title at law or in equity to any property as between—
   - (i) a charity or trustee for a charity, and
   - (ii) a person holding or claiming the property or an interest in it adversely to the charity, or
 - (b) any question as to the existence or extent of any charge or trust.
 
-(2)[^key-a7ca36fcc0c21e5cf868b672c352a853] Subject to the following subsections, the Commission must not exercise its jurisdiction under section 69 as respects any charity except—
+(2)[^c-a7ca36fcc0c21e5cf868b672c352a853] Subject to the following subsections, the Commission must not exercise its jurisdiction under section 69 as respects any charity except—
 
 - (a) on the application of the charity,
 - (b) on an order of the court under section 69(3), or
 - (c) on the application of the Attorney General.
 
-(3) In the case of a charity whose gross income does not exceed £1,000[^key-f2ec8be0acd668be83334ab13c0b8b26] a year, the Commission may exercise its jurisdiction under section 69 on the application of—
+(3) In the case of a charity whose gross income does not exceed £1,000[^c-f2ec8be0acd668be83334ab13c0b8b26] a year, the Commission may exercise its jurisdiction under section 69 on the application of—
 
 - (a) any one or more of the charity trustees,
 - (b) any person interested in the charity, or
@@ -69,8 +69,8 @@ the Commission may consider more fit to be adjudicated on by the court.
 
 ## Annotations
 
-[^key-9b0a745a462cc933b3d7bcdb9a16b40a]: Modification: S. 70(1) applied by 1987 c. 3, s. 5(8) (as substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 47(2)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/47/2) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8)))
+[^c-9b0a745a462cc933b3d7bcdb9a16b40a]: Modification: S. 70(1) applied by 1987 c. 3, s. 5(8) (as substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 47(2)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/47/2) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8)))
 
-[^key-a7ca36fcc0c21e5cf868b672c352a853]: Modification: S. 70(2) excluded by 1996 c. 14, Sch. 5 para. 6 (as substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 69(3)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/69/3) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8)))
+[^c-a7ca36fcc0c21e5cf868b672c352a853]: Modification: S. 70(2) excluded by 1996 c. 14, Sch. 5 para. 6 (as substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 69(3)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/69/3) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8)))
 
-[^key-f2ec8be0acd668be83334ab13c0b8b26]: Textual amendment: Sum in [s. 70(3)](https://www.legislation.gov.uk/ukpga/2011/25/section/70/3) substituted (30.9.2026) by [The Charities Acts 1992 and 2011 (Substitution of Sums) Order 2026 (S.I. 2026/427)](https://www.legislation.gov.uk/uksi/2026/427), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/427/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2026/427/article/3/2) (with [art. 5(5)](https://www.legislation.gov.uk/uksi/2026/427/article/5/5))
+[^c-f2ec8be0acd668be83334ab13c0b8b26]: Textual amendment: Sum in [s. 70(3)](https://www.legislation.gov.uk/ukpga/2011/25/section/70/3) substituted (30.9.2026) by [The Charities Acts 1992 and 2011 (Substitution of Sums) Order 2026 (S.I. 2026/427)](https://www.legislation.gov.uk/uksi/2026/427), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/427/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2026/427/article/3/2) (with [art. 5(5)](https://www.legislation.gov.uk/uksi/2026/427/article/5/5))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.21. Pre-trial hearings in the Crown Court: general rules[^key-cc0f4c29801654ba24d351e951cbbac7]
+## 3.21. Pre-trial hearings in the Crown Court: general rules[^c-cc0f4c29801654ba24d351e951cbbac7]
 
 *Extent: E+W*
 
@@ -60,6 +60,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cc0f4c29801654ba24d351e951cbbac7]: Commencement: [Rule 3.21](https://www.legislation.gov.uk/uksi/2025/909/rule/3.21) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-cc0f4c29801654ba24d351e951cbbac7]: Commencement: [Rule 3.21](https://www.legislation.gov.uk/uksi/2025/909/rule/3.21) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00126]: Footnote: [1996 c. 25](https://www.legislation.gov.uk/ukpga/1996/25).

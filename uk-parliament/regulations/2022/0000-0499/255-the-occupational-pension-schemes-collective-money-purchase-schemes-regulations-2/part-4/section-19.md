@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 19. Actuarial valuations[^key-c05435a84c1770c6450bf38a43b81dbd]
+## 19. Actuarial valuations[^c-c05435a84c1770c6450bf38a43b81dbd]
 
 *Extent: E+W+S*
 
@@ -36,8 +36,8 @@ summary: ''
 
 - (a) the methods and assumptions used for the actuarial valuation and how these have been derived;
 - (b) the scheme actuary’s certification that the matters mentioned in section 20(2) of the Act have been determined in accordance with the scheme rules;
-- (c) the total number of members enrolled in the scheme as at the effective date, including a breakdown of the number of active members, deferred members, pension credit members and pensioner members, and of survivors[^key-9e21e1e7b4f3c12a6c3335903fd0e97d] entitled to the payment of benefits under the scheme;
-- (d) the average age of the active members, deferred members , pension credit members[^key-124f804cfbb2ad3976f5a8e445e45511] and pensioner members in the scheme as at the effective date;
+- (c) the total number of members enrolled in the scheme as at the effective date, including a breakdown of the number of active members, deferred members, pension credit members and pensioner members, and of survivors[^c-9e21e1e7b4f3c12a6c3335903fd0e97d] entitled to the payment of benefits under the scheme;
+- (d) the average age of the active members, deferred members , pension credit members[^c-124f804cfbb2ad3976f5a8e445e45511] and pensioner members in the scheme as at the effective date;
 - (e) the amount of all benefits in payment as at the effective date;
 - (f) the effective date of the previous actuarial valuation;
 - (g) the value of the available assets of the scheme and the required amount set out in the previous actuarial valuation;
@@ -49,8 +49,8 @@ summary: ''
   - (ii) the rate of reduction for each year of the arrangement;
   - (iii) confirmation that previous reductions have been applied in accordance with the details of the arrangement;
   - (iv) the number of years remaining until the multi-annual reduction is applied in full;
-  - (v)[^key-6aba7c5d0359c18ac1c3e4c0e44e151c] any variation to the multi-annual reduction as a result of applying an increase to offset the planned reduction under the multi-annual reduction in accordance with regulation 17(10), including the effect of that offsetting increase on the planned reduction in the remaining years of the multi-annual reduction;
-- (ka)[^key-40a53b0cddc5e9e5ed12e9c0731384be] where a multi-annual reduction would have been in effect as at the effective date but has ceased to have effect in accordance with regulation 17(10C), the details of—
+  - (v)[^c-6aba7c5d0359c18ac1c3e4c0e44e151c] any variation to the multi-annual reduction as a result of applying an increase to offset the planned reduction under the multi-annual reduction in accordance with regulation 17(10), including the effect of that offsetting increase on the planned reduction in the remaining years of the multi-annual reduction;
+- (ka)[^c-40a53b0cddc5e9e5ed12e9c0731384be] where a multi-annual reduction would have been in effect as at the effective date but has ceased to have effect in accordance with regulation 17(10C), the details of—
   - (i) when such multi-annual reduction ceased to have effect;
   - (ii) any remaining increase that has been applied in accordance with regulation 17(10C);
 - (l) in relation to the methods and assumptions used for the actuarial valuation—
@@ -67,14 +67,14 @@ summary: ''
 
 ## Annotations
 
-[^key-c05435a84c1770c6450bf38a43b81dbd]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2022/255/regulation/19) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
+[^c-c05435a84c1770c6450bf38a43b81dbd]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2022/255/regulation/19) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
 
 [^f00019]: Footnote: See section 21 of the 2021 Act (certificate that actuarial valuation prepared in accordance with scheme rules).
 
-[^key-9e21e1e7b4f3c12a6c3335903fd0e97d]: Textual amendment: Words in [reg. 19(4)(c)](https://www.legislation.gov.uk/uksi/2022/255/regulation/19/4/c) substituted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [70(a)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/70/a)
+[^c-9e21e1e7b4f3c12a6c3335903fd0e97d]: Textual amendment: Words in [reg. 19(4)(c)](https://www.legislation.gov.uk/uksi/2022/255/regulation/19/4/c) substituted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [70(a)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/70/a)
 
-[^key-124f804cfbb2ad3976f5a8e445e45511]: Textual amendment: Words in [reg. 19(4)(d)](https://www.legislation.gov.uk/uksi/2022/255/regulation/19/4/d) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [70(b)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/70/b)
+[^c-124f804cfbb2ad3976f5a8e445e45511]: Textual amendment: Words in [reg. 19(4)(d)](https://www.legislation.gov.uk/uksi/2022/255/regulation/19/4/d) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [70(b)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/70/b)
 
-[^key-6aba7c5d0359c18ac1c3e4c0e44e151c]: Textual amendment: [Reg. 19(4)(k)(v)](https://www.legislation.gov.uk/uksi/2022/255/regulation/19/4/k/v) inserted (8.3.2024) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Amendment) Regulations 2024 (S.I. 2024/334)](https://www.legislation.gov.uk/uksi/2024/334), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/334/regulation/1/3), [4(2)](https://www.legislation.gov.uk/uksi/2024/334/regulation/4/2)
+[^c-6aba7c5d0359c18ac1c3e4c0e44e151c]: Textual amendment: [Reg. 19(4)(k)(v)](https://www.legislation.gov.uk/uksi/2022/255/regulation/19/4/k/v) inserted (8.3.2024) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Amendment) Regulations 2024 (S.I. 2024/334)](https://www.legislation.gov.uk/uksi/2024/334), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/334/regulation/1/3), [4(2)](https://www.legislation.gov.uk/uksi/2024/334/regulation/4/2)
 
-[^key-40a53b0cddc5e9e5ed12e9c0731384be]: Textual amendment: [Reg. 19(4)(ka)](https://www.legislation.gov.uk/uksi/2022/255/regulation/19/4/ka) inserted (8.3.2024) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Amendment) Regulations 2024 (S.I. 2024/334)](https://www.legislation.gov.uk/uksi/2024/334), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/334/regulation/1/3), [4(3)](https://www.legislation.gov.uk/uksi/2024/334/regulation/4/3)
+[^c-40a53b0cddc5e9e5ed12e9c0731384be]: Textual amendment: [Reg. 19(4)(ka)](https://www.legislation.gov.uk/uksi/2022/255/regulation/19/4/ka) inserted (8.3.2024) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Amendment) Regulations 2024 (S.I. 2024/334)](https://www.legislation.gov.uk/uksi/2024/334), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/334/regulation/1/3), [4(3)](https://www.legislation.gov.uk/uksi/2024/334/regulation/4/3)

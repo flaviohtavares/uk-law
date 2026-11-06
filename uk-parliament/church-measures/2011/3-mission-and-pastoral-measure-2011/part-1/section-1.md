@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 1. General duty[^key-ffa3c35aa6671097ee2bf6079f73fb8a]
+## 1. General duty[^c-ffa3c35aa6671097ee2bf6079f73fb8a]
 
 *Extent: E*
 
@@ -24,4 +24,4 @@ It shall be the duty of any person or body carrying out functions under this Mea
 
 ## Annotations
 
-[^key-ffa3c35aa6671097ee2bf6079f73fb8a]: Commencement: S. 1 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-ffa3c35aa6671097ee2bf6079f73fb8a]: Commencement: S. 1 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

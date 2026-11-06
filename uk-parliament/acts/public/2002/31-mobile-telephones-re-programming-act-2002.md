@@ -39,9 +39,9 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (1) A person commits an offence if—
 
-- (a) he changes a unique device identifier, [^key-b95e0f827d7b7b560e927525b21639de]...
+- (a) he changes a unique device identifier, [^c-b95e0f827d7b7b560e927525b21639de]...
 - (b) he interferes with the operation of a unique device identifier.
-- (c)[^key-a08e2820ac1b06653218a3597833a8f2] he offers or agrees to change, or interfere with the operation of, a unique device identifier, or
+- (c)[^c-a08e2820ac1b06653218a3597833a8f2] he offers or agrees to change, or interfere with the operation of, a unique device identifier, or
 - (d) he offers or agrees to arrange for another person to change, or interfere with the operation of, a unique device identifier.
 
 (2) A unique device identifier is an electronic equipment identifier which is unique to a mobile wireless communications device.
@@ -92,8 +92,8 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 ## Annotations
 
-[^key-b95e0f827d7b7b560e927525b21639de]: Textual amendment: Word in s. 1(1)(a) repealed (6.4.2007) by [Violent Crime Reduction Act 2006 (c. 38)](https://www.legislation.gov.uk/ukpga/2006/38), [ss. 62](https://www.legislation.gov.uk/ukpga/2006/38/section/62), [66(2)](https://www.legislation.gov.uk/ukpga/2006/38/section/66/2), [Schs. 5](https://www.legislation.gov.uk/ukpga/2006/38/schedule/5); [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(l)(n)(xiv)](https://www.legislation.gov.uk/uksi/2007/858/article/2/l/n/xiv)
+[^c-b95e0f827d7b7b560e927525b21639de]: Textual amendment: Word in s. 1(1)(a) repealed (6.4.2007) by [Violent Crime Reduction Act 2006 (c. 38)](https://www.legislation.gov.uk/ukpga/2006/38), [ss. 62](https://www.legislation.gov.uk/ukpga/2006/38/section/62), [66(2)](https://www.legislation.gov.uk/ukpga/2006/38/section/66/2), [Schs. 5](https://www.legislation.gov.uk/ukpga/2006/38/schedule/5); [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(l)(n)(xiv)](https://www.legislation.gov.uk/uksi/2007/858/article/2/l/n/xiv)
 
-[^key-a08e2820ac1b06653218a3597833a8f2]: Textual amendment: S. 1(1)(c)(d) inserted (6.4.2007) by [Violent Crime Reduction Act 2006 (c. 38)](https://www.legislation.gov.uk/ukpga/2006/38), [ss. 62](https://www.legislation.gov.uk/ukpga/2006/38/section/62), [66(2)](https://www.legislation.gov.uk/ukpga/2006/38/section/66/2); [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(l)](https://www.legislation.gov.uk/uksi/2007/858/article/2/l)
+[^c-a08e2820ac1b06653218a3597833a8f2]: Textual amendment: S. 1(1)(c)(d) inserted (6.4.2007) by [Violent Crime Reduction Act 2006 (c. 38)](https://www.legislation.gov.uk/ukpga/2006/38), [ss. 62](https://www.legislation.gov.uk/ukpga/2006/38/section/62), [66(2)](https://www.legislation.gov.uk/ukpga/2006/38/section/66/2); [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(l)](https://www.legislation.gov.uk/uksi/2007/858/article/2/l)
 
 [^c887470]: Subordinate legislation: [S. 3(2)](https://www.legislation.gov.uk/ukpga/2002/31/section/3/2) power fully exercised: 4.10.2002 appointed by [S.I. 2002/2294](https://www.legislation.gov.uk/uksi/2002/2294), [art. 2](https://www.legislation.gov.uk/uksi/2002/2294/article/2)

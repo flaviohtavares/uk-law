@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## E12. Duration of retirement pension[^key-7fe265f72b083d6b676827a55470159b]
+## E12. Duration of retirement pension[^c-7fe265f72b083d6b676827a55470159b]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ Subject to regulations E13 to E15 and E18, a retirement pension continues to be 
 
 ## Annotations
 
-[^key-7fe265f72b083d6b676827a55470159b]: Commencement: Reg. E12 in operation at 2.11.1998, see reg. A1
+[^c-7fe265f72b083d6b676827a55470159b]: Commencement: Reg. E12 in operation at 2.11.1998, see reg. A1

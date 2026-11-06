@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Duties of local probation boards in connection with victims of certain offences.[^key-60d05d6d847c4e640481631fe375bb1e]
+## 69. Duties of local probation boards in connection with victims of certain offences.[^c-60d05d6d847c4e640481631fe375bb1e]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-60d05d6d847c4e640481631fe375bb1e]: Textual amendment: S. 69 repealed (1.7.2005) by [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), [s. 60](https://www.legislation.gov.uk/ukpga/2004/28/section/60), [Sch. 10 para. 55](https://www.legislation.gov.uk/ukpga/2004/28/schedule/10/paragraph/55), [Sch. 11](https://www.legislation.gov.uk/ukpga/2004/28/schedule/11); [S.I. 2005/1705](https://www.legislation.gov.uk/uksi/2005/1705), [art. 2(d)(f)](https://www.legislation.gov.uk/uksi/2005/1705/article/2/d/f)
+[^c-60d05d6d847c4e640481631fe375bb1e]: Textual amendment: S. 69 repealed (1.7.2005) by [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), [s. 60](https://www.legislation.gov.uk/ukpga/2004/28/section/60), [Sch. 10 para. 55](https://www.legislation.gov.uk/ukpga/2004/28/schedule/10/paragraph/55), [Sch. 11](https://www.legislation.gov.uk/ukpga/2004/28/schedule/11); [S.I. 2005/1705](https://www.legislation.gov.uk/uksi/2005/1705), [art. 2(d)(f)](https://www.legislation.gov.uk/uksi/2005/1705/article/2/d/f)

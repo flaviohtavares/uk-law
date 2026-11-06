@@ -42,11 +42,11 @@ Coming into operation
 
 The Department of Economic Development, being the Department concerned[^f00001], in exercise of the powers conferred on it by Articles 17(1), (2), (3) and (5)[^f00002], 45 and 55(2) of, and paragraphs 1(1), (2) and (3), 13, 14(1) and 15 of Schedule 3 to, the Health and Safety at Work (Northern Ireland) Order 1978[^f00003] and of every other power enabling it in that behalf, after consultation in accordance with Article 46(1) of that Order with the Health and Safety Executive for Northern Ireland[^f00004] and such other bodies as appeared to the Department to be appropriate, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-4d406678f94c149ca731402e6bdeb27c]
+## 1. Citation and commencement[^c-4d406678f94c149ca731402e6bdeb27c]
 
 These Regulations may be cited as the Lifting Operations and Lifting Equipment Regulations (Northern Ireland) 1999 and shall come into operation on 20th September 1999.
 
-## 2. Interpretation[^key-bbf2f73373030f1562b17c50cd97ccb0]
+## 2. Interpretation[^c-bbf2f73373030f1562b17c50cd97ccb0]
 
 In these Regulations—
 
@@ -70,7 +70,7 @@ In these Regulations—
   and “thoroughly examined” shall be construed accordingly;
 - “work equipment” means any equipment, machinery, appliance, apparatus, tool or installation for use at work (whether exclusively or not).
 
-## 3. Application[^key-9223a38d0d14fd1b9b94543260d260bf]
+## 3. Application[^c-9223a38d0d14fd1b9b94543260d260bf]
 
 (1) Within territorial waters these Regulations shall apply only to and in relation to the premises and activities specified in paragraphs 2 to 6 of Schedule 1.
 
@@ -113,14 +113,14 @@ In these Regulations—
   - (a) by persons other than the master and crew; or
   - (b) where persons other than the master and crew are liable to be exposed to a risk to their health or safety from its use.
 
-## 4. Strength and stability[^key-723a52a3723007f6a7bfe82feb308ba8]
+## 4. Strength and stability[^c-723a52a3723007f6a7bfe82feb308ba8]
 
 Every employer shall ensure that—
 
 - (a) lifting equipment is of adequate strength and stability for each load, having regard in particular to the stress induced at its mounting or fixing point;
 - (b) every part of a load, and anything attached to it and used in lifting it, is of adequate strength.
 
-## 5. Lifting equipment for lifting persons[^key-6e7fd707bbb26ecd1a4c36f8fdcede07]
+## 5. Lifting equipment for lifting persons[^c-6e7fd707bbb26ecd1a4c36f8fdcede07]
 
 (1) Every employer shall ensure that lifting equipment for lifting persons—
 
@@ -134,7 +134,7 @@ Every employer shall ensure that—
 - (a) the carrier has an enhanced safety coefficient suspension rope or chain; and
 - (b) the rope or chain is inspected by a competent person every working day.
 
-## 6. Positioning and installation[^key-14962f8c31fd4303a9adc59aed026dfc]
+## 6. Positioning and installation[^c-14962f8c31fd4303a9adc59aed026dfc]
 
 (1) Every employer shall ensure that lifting equipment is positioned or installed in such a way as to reduce to as low as is reasonably practicable the risk—
 
@@ -148,7 +148,7 @@ Every employer shall ensure that—
 
 (2) Every employer shall ensure that there are suitable devices to prevent a person from falling down a shaft or hoistway.
 
-## 7. Marking of lifting equipment[^key-8a627731a1fc566076cd2eb88f3b9d9e]
+## 7. Marking of lifting equipment[^c-8a627731a1fc566076cd2eb88f3b9d9e]
 
 Every employer shall ensure that—
 
@@ -160,7 +160,7 @@ Every employer shall ensure that—
 - (d) lifting equipment which is designed for lifting persons is appropriately and clearly marked to this effect; and
 - (e) lifting equipment which is not designed for lifting persons but which might be so used in error is appropriately and clearly marked to the effect that it is not designed for lifting persons.
 
-## 8. Organisation of lifting operations[^key-f3c7970a2c07d95995302649ee03c306]
+## 8. Organisation of lifting operations[^c-f3c7970a2c07d95995302649ee03c306]
 
 (1) Every employer shall ensure that every lifting operation involving lifting equipment is—
 
@@ -170,7 +170,7 @@ Every employer shall ensure that—
 
 (2) In this regulation “lifting operation” means an operation concerned with the lifting or lowering of a load.
 
-## 9. Thorough examination and inspection[^key-4652cbff7f065614dbe36ea513446a3f]
+## 9. Thorough examination and inspection[^c-4652cbff7f065614dbe36ea513446a3f]
 
 (1) Every employer shall ensure that before lifting equipment is put into service for the first time by him it is thoroughly examined for any defect unless either—
 
@@ -223,7 +223,7 @@ apply.
 - (e) regulation 6(1)(c) of, and Part III of Schedule 1 to, the Offshore Installations (Operational Safety, Health and Welfare) Regulations 1976[^f00019];
 - (f) regulation 15 of the Docks Regulations (Northern Ireland) 1989[^f00020].
 
-## 10. Reports and defects[^key-2044445ef06da7488fbf90e401ef2448]
+## 10. Reports and defects[^c-2044445ef06da7488fbf90e401ef2448]
 
 (1) A person making a thorough examination for an employer under regulation 9 shall—
 
@@ -248,7 +248,7 @@ apply.
 - (a) where the defective equipment has been hired or leased by the employer, the Health and Safety Executive for Northern Ireland; and
 - (b) otherwise, the enforcing authority for the premises in which the defective lifting equipment was thoroughly examined.
 
-## 11. Keeping of information[^key-c13bbfda47540469c4b34f2c5de9172c]
+## 11. Keeping of information[^c-c13bbfda47540469c4b34f2c5de9172c]
 
 (1) Where, after the coming into operation of these Regulations, an employer obtaining lifting equipment to which these Regulations apply receives an EC declaration of conformity relating to it, he shall keep the declaration for so long as he operates the lifting equipment.
 
@@ -261,7 +261,7 @@ apply.
   - (iv) in the case of a thorough examination under paragraph (3) of regulation 9, until the next report is made under that paragraph or the expiration of two years, whichever is later;
 - (b) every record made under regulation 10(2) is kept available until the next such record is made.
 
-## 12. Exemption for the armed forces[^key-b5f12a52b969a5842412f1215cdbc133]
+## 12. Exemption for the armed forces[^c-b5f12a52b969a5842412f1215cdbc133]
 
 (1) The Secretary of State for Defence may, in the interests of national security, by a certificate in writing exempt any of the home forces, any visiting force or any headquarters from any of the requirements of these Regulations and any such exemption may be granted subject to conditions and to a limit of time and may be revoked by the said Secretary of State by a certificate in writing at any time.
 
@@ -271,14 +271,14 @@ apply.
 - (b) “headquarters” has the same meaning as in Article 3(2) of the Visiting Forces and International Headquarters (Application of Law) Order 1965[^f00022];
 - (c) “visiting force” has the same meaning as it does for the purposes of any provision of Part I of the Visiting Forces Act 1952.
 
-## 13. Amendment of the Shipbuilding and Ship-repairing Regulations (Northern Ireland) 1971[^key-651aa875b93bf000fd1e937f1dd1ff95]
+## 13. Amendment of the Shipbuilding and Ship-repairing Regulations (Northern Ireland) 1971[^c-651aa875b93bf000fd1e937f1dd1ff95]
 
 Regulation 2 (application) of the Shipbuilding and Ship-repairing Regulations (Northern Ireland) 1971 is amended—
 
 - (a) in paragraph (2) by substituting for the word “30” wherever occurring the word “47”; and
 - (b) in paragraph (4) by omitting the word “31”.
 
-## 14. Amendment of the Docks Regulations (Northern Ireland) 1989[^key-e18aac31fb5d19aa42e9c4a5c1267b0d]
+## 14. Amendment of the Docks Regulations (Northern Ireland) 1989[^c-e18aac31fb5d19aa42e9c4a5c1267b0d]
 
 The Docks Regulations (Northern Ireland) 1989 are amended—
 
@@ -287,19 +287,19 @@ The Docks Regulations (Northern Ireland) 1989 are amended—
 - (c) by revoking paragraphs (3), (4), (5), (7) and (8) of regulation 16; and
 - (d) by revoking regulation 17.
 
-## 15. Repeal of provisions of the Factories Act (Northern Ireland) 1965[^key-eb8aadc9dbdd47758beec93774ddfb0b]
+## 15. Repeal of provisions of the Factories Act (Northern Ireland) 1965[^c-eb8aadc9dbdd47758beec93774ddfb0b]
 
 Sections 23, 24 and 26 to 28 of the Factories Act (Northern Ireland) 1965 are hereby repealed.
 
-## 16. Repeal of section 85 of the Mines Act (Northern Ireland) 1969[^key-0f68944cf32d002d8f536026554b654d]
+## 16. Repeal of section 85 of the Mines Act (Northern Ireland) 1969[^c-0f68944cf32d002d8f536026554b654d]
 
 Section 85 of the Mines Act (Northern Ireland) 1969[^f00023] is hereby repealed.
 
-## 17. Repeal of paragraph (c) of Article 5 of the Quarries (Northern Ireland) Order 1983[^key-019a0194dbcd54c72cb3a42f392169aa]
+## 17. Repeal of paragraph (c) of Article 5 of the Quarries (Northern Ireland) Order 1983[^c-019a0194dbcd54c72cb3a42f392169aa]
 
 Paragraph (c) of Article 5 of the Quarries (Northern Ireland) Order 1983[^f00024] is hereby repealed.
 
-## 18. Revocation of statutory provisions[^key-5adc43a109b8e30fe816709744f1ec62]
+## 18. Revocation of statutory provisions[^c-5adc43a109b8e30fe816709744f1ec62]
 
 The statutory provisions specified in column 1 of Schedule 3 are hereby revoked to the extent specified in column 3 of that Schedule.
 
@@ -315,7 +315,7 @@ Assistant Secretary
 
 Regulation 3(1) and (10)
 
-### 1. Interpretation[^key-57615882d2e2c507a6f0f66df14a27c5]
+### 1. Interpretation[^c-57615882d2e2c507a6f0f66df14a27c5]
 
 (1) In this Schedule—
 
@@ -336,7 +336,7 @@ and diving operations include the activity of any person in connection with the 
 
 (4) Any reference in this Schedule to premises and activities (howsoever described) shall include a reference to any person, article or substance on those premises or engaged in or, as the case may be, used or for use in connection with any such activity, but does not include a reference to an aircraft which is airborne.
 
-### 2. Offshore installations[^key-42e054d83b3ddf821e7f6a74adcb0135]
+### 2. Offshore installations[^c-42e054d83b3ddf821e7f6a74adcb0135]
 
 (1) Any offshore installation and any activity on it.
 
@@ -364,7 +364,7 @@ and which is not an excepted structure.
 - (d) a mobile structure which has been taken out of use and is not for the time being intended to be used for any of the purposes specified in sub-paragraph (4); and
 - (e) any part of a pipeline.
 
-### 3. Wells[^key-89b96d57142f3a84c2a1b87802e6a26c]
+### 3. Wells[^c-89b96d57142f3a84c2a1b87802e6a26c]
 
 (1) Subject to sub-paragraph (2)—
 
@@ -373,7 +373,7 @@ and which is not an excepted structure.
 
 (2) Sub-paragraph (1) includes keeping a vessel on station for the purpose of working on a well but otherwise does not include navigation or an activity connected with navigation.
 
-### 4. Pipelines[^key-dc4e9d93cee6065b067cfc77e5008b5f]
+### 4. Pipelines[^c-dc4e9d93cee6065b067cfc77e5008b5f]
 
 (1) Any pipeline.
 
@@ -406,13 +406,13 @@ being in either case a vessel which is engaged in pipeline works.
   - (e) any activities incidental to the activities described in paragraphs (a) to (d);
   - (f) diving operations in connection with any of the works mentioned in paragraphs (a) to (e) or for the purpose of determining whether a place is suitable as part of the site of a proposed pipeline and the carrying out of surveying operations for settling the route of a proposed pipeline.
 
-### 5. Mines[^key-1eae692c604d7a4d87483ba61fd594bf]
+### 5. Mines[^c-1eae692c604d7a4d87483ba61fd594bf]
 
 (1) The working of a mine, and work for the purpose of or in connection with the working of any part of a mine.
 
 (2) In this paragraph “mine” and “working of a mine” have the same meaning as in the Mines Act (Northern Ireland) 1969[^f00026].
 
-### 6. Other activities[^key-9f1525e974370ed941c3868809c0aceb]
+### 6. Other activities[^c-9f1525e974370ed941c3868809c0aceb]
 
 (1) Subject to sub-paragraph (2)—
 
@@ -428,22 +428,22 @@ being in either case a vessel which is engaged in pipeline works.
 
 Regulation 10(1)
 
-**1.**[^key-65b0b45233656180187bed29f74923dc] The name and address of the employer for whom the thorough examination was made.
+**1.**[^c-65b0b45233656180187bed29f74923dc] The name and address of the employer for whom the thorough examination was made.
 
-**2.**[^key-3c6ae6a7714e183179199b7e8bf1e83d] The address of the premises at which the thorough examination was made.
+**2.**[^c-3c6ae6a7714e183179199b7e8bf1e83d] The address of the premises at which the thorough examination was made.
 
-**3.**[^key-75ff00500a90ec88fd3c46d1c9c10881] Particulars sufficient to identify the lifting equipment including where known its date of manufacture.
+**3.**[^c-75ff00500a90ec88fd3c46d1c9c10881] Particulars sufficient to identify the lifting equipment including where known its date of manufacture.
 
-**4.**[^key-f697bac99ee5f7879a593d5bc630fa48] The date of the last thorough examination.
+**4.**[^c-f697bac99ee5f7879a593d5bc630fa48] The date of the last thorough examination.
 
-**5.**[^key-22c8b8a2d4c7c0d9842ec694326feb47] The safe working load of the lifting equipment or (where its safe working load depends on the configuration of the lifting equipment) its safe working load for the last configuration in which it was thoroughly examined.
+**5.**[^c-22c8b8a2d4c7c0d9842ec694326feb47] The safe working load of the lifting equipment or (where its safe working load depends on the configuration of the lifting equipment) its safe working load for the last configuration in which it was thoroughly examined.
 
-**6.**[^key-f5ee73d1727c2b04af21cd792ab73eeb] In relation to the first thorough examination of lifting equipment after installation or after assembly at a new site or in a new location—
+**6.**[^c-f5ee73d1727c2b04af21cd792ab73eeb] In relation to the first thorough examination of lifting equipment after installation or after assembly at a new site or in a new location—
 
 - (a) that it is such thorough examination;
 - (b) (if such be the case) that it has been installed correctly and would be safe to operate.
 
-**7.**[^key-10e63ea03dd53c582c1dfbf298c2bbda] In relation to a thorough examination of lifting equipment other than a thorough examination to which paragraph 6 relates—
+**7.**[^c-10e63ea03dd53c582c1dfbf298c2bbda] In relation to a thorough examination of lifting equipment other than a thorough examination to which paragraph 6 relates—
 
 - (a) whether it is a thorough examination—
   - (i) within an interval of 6 months under regulation 9(3)(a)(i);
@@ -452,7 +452,7 @@ Regulation 10(1)
   - (iv) after the occurrence of exceptional circumstances under regulation 9(3)(a)(iv);
 - (b) (if such be the case) that the lifting equipment would be safe to operate.
 
-**8.**[^key-927bd46325544fcc05ecd33eb78abcb4] In relation to every thorough examination of lifting equipment—
+**8.**[^c-927bd46325544fcc05ecd33eb78abcb4] In relation to every thorough examination of lifting equipment—
 
 - (a) identification of any part found to have a defect which is or could become a danger to persons, and a description of the defect;
 - (b) particulars of any repair, renewal or alteration required to remedy a defect found to be a danger to persons;
@@ -463,13 +463,13 @@ Regulation 10(1)
 - (e) where the thorough examination included testing, particulars of any test;
 - (f) the date of the thorough examination.
 
-**9.**[^key-bb8fe812a64c2158dc48ee0f5f5a0f4f] The name, address and qualifications of the person making the report; that he is self-employed or, if employed, the name and address of his employer.
+**9.**[^c-bb8fe812a64c2158dc48ee0f5f5a0f4f] The name, address and qualifications of the person making the report; that he is self-employed or, if employed, the name and address of his employer.
 
-**10.**[^key-ef69e59d70516a538e31c82d0b92eb7e] The name and address of a person signing or authenticating the report on behalf of its author.
+**10.**[^c-ef69e59d70516a538e31c82d0b92eb7e] The name and address of a person signing or authenticating the report on behalf of its author.
 
-**11.**[^key-d901318f310862cbb916a94a21e3026d] The date of the report.
+**11.**[^c-d901318f310862cbb916a94a21e3026d] The date of the report.
 
-## SCHEDULE 3 — Revocation of statutory provisions[^key-0cb67ae6a9fe30218c0f122ab8b871b3]
+## SCHEDULE 3 — Revocation of statutory provisions[^c-0cb67ae6a9fe30218c0f122ab8b871b3]
 
 Regulation 18
 
@@ -538,9 +538,9 @@ Regulation 18
 
 [^f00004]: Footnote: Article 46(1) was amended by [S.I. 1998/2795 (N.I. 18)](https://www.legislation.gov.uk/nisi/1998/2795), Article 6(1) and Schedule 1, paragraphs 8 and 18
 
-[^key-4d406678f94c149ca731402e6bdeb27c]: Commencement: Reg. 1 in operation at 20.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/304/regulation/1)
+[^c-4d406678f94c149ca731402e6bdeb27c]: Commencement: Reg. 1 in operation at 20.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/304/regulation/1)
 
-[^key-bbf2f73373030f1562b17c50cd97ccb0]: Commencement: Reg. 2 in operation at 20.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/304/regulation/1)
+[^c-bbf2f73373030f1562b17c50cd97ccb0]: Commencement: Reg. 2 in operation at 20.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/304/regulation/1)
 
 [^f00005]: Footnote: [S.I. 1992/3073](https://www.legislation.gov.uk/uksi/1992/3073) to which there are amendments not relevant to these Regulations
 
@@ -550,7 +550,7 @@ Regulation 18
 
 [^f00008]: Footnote: [S.R. 1999 No. 305](https://www.legislation.gov.uk/nisr/1999/305)
 
-[^key-9223a38d0d14fd1b9b94543260d260bf]: Commencement: Reg. 3 in operation at 20.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/304/regulation/1)
+[^c-9223a38d0d14fd1b9b94543260d260bf]: Commencement: Reg. 3 in operation at 20.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/304/regulation/1)
 
 [^f00009]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21)
 
@@ -558,17 +558,17 @@ Regulation 18
 
 [^f00011]: Footnote: [S.I. 1988/1639](https://www.legislation.gov.uk/uksi/1988/1639), amended by [S.I. 1988/2274](https://www.legislation.gov.uk/uksi/1988/2274)
 
-[^key-723a52a3723007f6a7bfe82feb308ba8]: Commencement: Reg. 4 in operation at 20.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/304/regulation/1)
+[^c-723a52a3723007f6a7bfe82feb308ba8]: Commencement: Reg. 4 in operation at 20.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/304/regulation/1)
 
-[^key-6e7fd707bbb26ecd1a4c36f8fdcede07]: Commencement: Reg. 5 in operation at 20.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/304/regulation/1)
+[^c-6e7fd707bbb26ecd1a4c36f8fdcede07]: Commencement: Reg. 5 in operation at 20.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/304/regulation/1)
 
-[^key-14962f8c31fd4303a9adc59aed026dfc]: Commencement: Reg. 6 in operation at 20.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/304/regulation/1)
+[^c-14962f8c31fd4303a9adc59aed026dfc]: Commencement: Reg. 6 in operation at 20.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/304/regulation/1)
 
-[^key-8a627731a1fc566076cd2eb88f3b9d9e]: Commencement: Reg. 7 in operation at 20.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/304/regulation/1)
+[^c-8a627731a1fc566076cd2eb88f3b9d9e]: Commencement: Reg. 7 in operation at 20.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/304/regulation/1)
 
-[^key-f3c7970a2c07d95995302649ee03c306]: Commencement: Reg. 8 in operation at 20.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/304/regulation/1)
+[^c-f3c7970a2c07d95995302649ee03c306]: Commencement: Reg. 8 in operation at 20.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/304/regulation/1)
 
-[^key-4652cbff7f065614dbe36ea513446a3f]: Commencement: Reg. 9 in operation at 20.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/304/regulation/1)
+[^c-4652cbff7f065614dbe36ea513446a3f]: Commencement: Reg. 9 in operation at 20.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/304/regulation/1)
 
 [^f00012]: Footnote: [S.R. & O. (N.I.) 1970 No. 104](https://www.legislation.gov.uk/nisro/1970/104) to which there are amendments not relevant to these Regulations
 
@@ -588,68 +588,68 @@ Regulation 18
 
 [^f00020]: Footnote: [S.R. 1989 No. 320](https://www.legislation.gov.uk/nisr/1989/320); amended by [S.R. 1993 No. 366](https://www.legislation.gov.uk/nisr/1993/366)
 
-[^key-2044445ef06da7488fbf90e401ef2448]: Commencement: Reg. 10 in operation at 20.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/304/regulation/1)
+[^c-2044445ef06da7488fbf90e401ef2448]: Commencement: Reg. 10 in operation at 20.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/304/regulation/1)
 
-[^key-c13bbfda47540469c4b34f2c5de9172c]: Commencement: Reg. 11 in operation at 20.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/304/regulation/1)
+[^c-c13bbfda47540469c4b34f2c5de9172c]: Commencement: Reg. 11 in operation at 20.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/304/regulation/1)
 
-[^key-b5f12a52b969a5842412f1215cdbc133]: Commencement: Reg. 12 in operation at 20.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/304/regulation/1)
+[^c-b5f12a52b969a5842412f1215cdbc133]: Commencement: Reg. 12 in operation at 20.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/304/regulation/1)
 
 [^f00021]: Footnote: [1952 c. 67](https://www.legislation.gov.uk/ukpga/1952/67)
 
 [^f00022]: Footnote: [S.I. 1965/1536](https://www.legislation.gov.uk/uksi/1965/1536), to which there are amendments not relevant to these Regulations
 
-[^key-651aa875b93bf000fd1e937f1dd1ff95]: Commencement: Reg. 13 in operation at 20.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/304/regulation/1)
+[^c-651aa875b93bf000fd1e937f1dd1ff95]: Commencement: Reg. 13 in operation at 20.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/304/regulation/1)
 
-[^key-e18aac31fb5d19aa42e9c4a5c1267b0d]: Commencement: Reg. 14 in operation at 20.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/304/regulation/1)
+[^c-e18aac31fb5d19aa42e9c4a5c1267b0d]: Commencement: Reg. 14 in operation at 20.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/304/regulation/1)
 
-[^key-eb8aadc9dbdd47758beec93774ddfb0b]: Commencement: Reg. 15 in operation at 20.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/304/regulation/1)
+[^c-eb8aadc9dbdd47758beec93774ddfb0b]: Commencement: Reg. 15 in operation at 20.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/304/regulation/1)
 
-[^key-0f68944cf32d002d8f536026554b654d]: Commencement: Reg. 16 in operation at 20.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/304/regulation/1)
+[^c-0f68944cf32d002d8f536026554b654d]: Commencement: Reg. 16 in operation at 20.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/304/regulation/1)
 
 [^f00023]: Footnote: [1969 c. 6 (N.I.)](https://www.legislation.gov.uk/apni/1969/6)
 
-[^key-019a0194dbcd54c72cb3a42f392169aa]: Commencement: Reg. 17 in operation at 20.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/304/regulation/1)
+[^c-019a0194dbcd54c72cb3a42f392169aa]: Commencement: Reg. 17 in operation at 20.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/304/regulation/1)
 
 [^f00024]: Footnote: [S.I. 1983/150 (N.I. 4)](https://www.legislation.gov.uk/nisi/1983/150) to which there are amendments not relevant to these Regulations
 
-[^key-5adc43a109b8e30fe816709744f1ec62]: Commencement: Reg. 18 in operation at 20.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/304/regulation/1)
+[^c-5adc43a109b8e30fe816709744f1ec62]: Commencement: Reg. 18 in operation at 20.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/304/regulation/1)
 
-[^key-57615882d2e2c507a6f0f66df14a27c5]: Commencement: Sch. 1 para. 1 in operation at 20.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/304/regulation/1)
+[^c-57615882d2e2c507a6f0f66df14a27c5]: Commencement: Sch. 1 para. 1 in operation at 20.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/304/regulation/1)
 
 [^f00025]: Footnote: [1964 c. 29](https://www.legislation.gov.uk/ukpga/1964/29); section 1 was amended by the Oil and Gas (Enterprise) Act [1982 (c. 23)](https://www.legislation.gov.uk/ukpga/1982/23), Schedule 3, paragraph 1
 
-[^key-42e054d83b3ddf821e7f6a74adcb0135]: Commencement: Sch. 1 para. 2 in operation at 20.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/304/regulation/1)
+[^c-42e054d83b3ddf821e7f6a74adcb0135]: Commencement: Sch. 1 para. 2 in operation at 20.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/304/regulation/1)
 
-[^key-89b96d57142f3a84c2a1b87802e6a26c]: Commencement: Sch. 1 para. 3 in operation at 20.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/304/regulation/1)
+[^c-89b96d57142f3a84c2a1b87802e6a26c]: Commencement: Sch. 1 para. 3 in operation at 20.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/304/regulation/1)
 
-[^key-dc4e9d93cee6065b067cfc77e5008b5f]: Commencement: Sch. 1 para. 4 in operation at 20.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/304/regulation/1)
+[^c-dc4e9d93cee6065b067cfc77e5008b5f]: Commencement: Sch. 1 para. 4 in operation at 20.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/304/regulation/1)
 
-[^key-1eae692c604d7a4d87483ba61fd594bf]: Commencement: Sch. 1 para. 5 in operation at 20.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/304/regulation/1)
+[^c-1eae692c604d7a4d87483ba61fd594bf]: Commencement: Sch. 1 para. 5 in operation at 20.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/304/regulation/1)
 
 [^f00026]: Footnote: [1969 c. 6 (N.I.)](https://www.legislation.gov.uk/apni/1969/6)
 
-[^key-9f1525e974370ed941c3868809c0aceb]: Commencement: Sch. 1 para. 6 in operation at 20.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/304/regulation/1)
+[^c-9f1525e974370ed941c3868809c0aceb]: Commencement: Sch. 1 para. 6 in operation at 20.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/304/regulation/1)
 
-[^key-65b0b45233656180187bed29f74923dc]: Commencement: Sch. 2 para. 1 in operation at 20.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/304/regulation/1)
+[^c-65b0b45233656180187bed29f74923dc]: Commencement: Sch. 2 para. 1 in operation at 20.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/304/regulation/1)
 
-[^key-3c6ae6a7714e183179199b7e8bf1e83d]: Commencement: Sch. 2 para. 2 in operation at 20.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/304/regulation/1)
+[^c-3c6ae6a7714e183179199b7e8bf1e83d]: Commencement: Sch. 2 para. 2 in operation at 20.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/304/regulation/1)
 
-[^key-75ff00500a90ec88fd3c46d1c9c10881]: Commencement: Sch. 2 para. 3 in operation at 20.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/304/regulation/1)
+[^c-75ff00500a90ec88fd3c46d1c9c10881]: Commencement: Sch. 2 para. 3 in operation at 20.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/304/regulation/1)
 
-[^key-f697bac99ee5f7879a593d5bc630fa48]: Commencement: Sch. 2 para. 4 in operation at 20.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/304/regulation/1)
+[^c-f697bac99ee5f7879a593d5bc630fa48]: Commencement: Sch. 2 para. 4 in operation at 20.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/304/regulation/1)
 
-[^key-22c8b8a2d4c7c0d9842ec694326feb47]: Commencement: Sch. 2 para. 5 in operation at 20.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/304/regulation/1)
+[^c-22c8b8a2d4c7c0d9842ec694326feb47]: Commencement: Sch. 2 para. 5 in operation at 20.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/304/regulation/1)
 
-[^key-f5ee73d1727c2b04af21cd792ab73eeb]: Commencement: Sch. 2 para. 6 in operation at 20.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/304/regulation/1)
+[^c-f5ee73d1727c2b04af21cd792ab73eeb]: Commencement: Sch. 2 para. 6 in operation at 20.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/304/regulation/1)
 
-[^key-10e63ea03dd53c582c1dfbf298c2bbda]: Commencement: Sch. 2 para. 7 in operation at 20.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/304/regulation/1)
+[^c-10e63ea03dd53c582c1dfbf298c2bbda]: Commencement: Sch. 2 para. 7 in operation at 20.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/304/regulation/1)
 
-[^key-927bd46325544fcc05ecd33eb78abcb4]: Commencement: Sch. 2 para. 8 in operation at 20.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/304/regulation/1)
+[^c-927bd46325544fcc05ecd33eb78abcb4]: Commencement: Sch. 2 para. 8 in operation at 20.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/304/regulation/1)
 
-[^key-bb8fe812a64c2158dc48ee0f5f5a0f4f]: Commencement: Sch. 2 para. 9 in operation at 20.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/304/regulation/1)
+[^c-bb8fe812a64c2158dc48ee0f5f5a0f4f]: Commencement: Sch. 2 para. 9 in operation at 20.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/304/regulation/1)
 
-[^key-ef69e59d70516a538e31c82d0b92eb7e]: Commencement: Sch. 2 para. 10 in operation at 20.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/304/regulation/1)
+[^c-ef69e59d70516a538e31c82d0b92eb7e]: Commencement: Sch. 2 para. 10 in operation at 20.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/304/regulation/1)
 
-[^key-d901318f310862cbb916a94a21e3026d]: Commencement: Sch. 2 para. 11 in operation at 20.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/304/regulation/1)
+[^c-d901318f310862cbb916a94a21e3026d]: Commencement: Sch. 2 para. 11 in operation at 20.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/304/regulation/1)
 
-[^key-0cb67ae6a9fe30218c0f122ab8b871b3]: Commencement: Sch. 3 in operation at 20.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/304/regulation/1)
+[^c-0cb67ae6a9fe30218c0f122ab8b871b3]: Commencement: Sch. 3 in operation at 20.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/304/regulation/1)

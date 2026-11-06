@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 31. Calculation of weekly income[^key-92d138d32341dd69a29b5fd07b8ac399]
+## 31. Calculation of weekly income[^c-92d138d32341dd69a29b5fd07b8ac399]
 
 *Extent: N.I.*
 
-(1) Except where paragraphs (2) , (2A), (3A)[^key-3cea98b4a982b6be3a35171f01ef082c] and (4) apply, for the purposes of calculating the weekly income of the claimant, where the period in respect of which a payment is made—
+(1) Except where paragraphs (2) , (2A), (3A)[^c-3cea98b4a982b6be3a35171f01ef082c] and (4) apply, for the purposes of calculating the weekly income of the claimant, where the period in respect of which a payment is made—
 
 - (a) does not exceed a week, the whole of that payment shall be included in the claimant’s weekly income;
 - (b) exceeds a week, the amount to be included in the claimant’s weekly income shall be determined—
@@ -42,13 +42,13 @@ the weekly amount of that claimant’s income shall be determined—
   - (bb) the last 4 payments if the last 2 payments are less than one month apart; or
   - (cc) calculating or estimating such other payments as may, in the particular circumstances of the case, enable the claimant’s average weekly income to be determined more accurately.
 
-(3)[^key-02d21f190ae1da6ed801a6c39387c049] For the purposes of paragraph (2)(b) the last payments are the last payments before the date the claim was made or treated as made or, if there is a subsequent supersession under paragraph 4 of Schedule 7 to the Child Support, Pensions and Social Security Act (Northern Ireland) 2000[^f00107], the last payments before the date of the supersession.
+(3)[^c-02d21f190ae1da6ed801a6c39387c049] For the purposes of paragraph (2)(b) the last payments are the last payments before the date the claim was made or treated as made or, if there is a subsequent supersession under paragraph 4 of Schedule 7 to the Child Support, Pensions and Social Security Act (Northern Ireland) 2000[^f00107], the last payments before the date of the supersession.
 
-(4)[^key-8d0be0774f72863c1d4b393433b19dd4] If a claimant is entitled to receive a payment to which paragraph (5) applies, the amount of that payment shall be treated as if made in respect of a period of a year.
+(4)[^c-8d0be0774f72863c1d4b393433b19dd4] If a claimant is entitled to receive a payment to which paragraph (5) applies, the amount of that payment shall be treated as if made in respect of a period of a year.
 
 (5) This paragraph applies to—
 
-- (a)[^key-ce0c32582dec9b2af9f3781d2ebf2ddd] royalties or other sums paid as a consideration for the use of, or the right to use, any copyright, design, patent or trade mark;
+- (a)[^c-ce0c32582dec9b2af9f3781d2ebf2ddd] royalties or other sums paid as a consideration for the use of, or the right to use, any copyright, design, patent or trade mark;
 - (b) any payment in respect of any—
   - (i) book registered under the Public Lending Right Scheme 1982; or
   - (ii) work made under any international public lending right scheme that is analogous to the Public Lending Right Scheme 1982; and
@@ -61,9 +61,9 @@ the weekly amount of that claimant’s income shall be determined—
 (8) The sums specified in Schedule 5 shall be disregarded in calculating—
 
 - (a) the claimant’s earnings; and
-- (b)[^key-817d4aefcccb6372107f892d99b87a39] any amount to which paragraph (5) applies where the claimant is the first owner of the copyright, design, patent or trademark, or an original contributor to the book or work referred to in paragraph (5)(b).
+- (b)[^c-817d4aefcccb6372107f892d99b87a39] any amount to which paragraph (5) applies where the claimant is the first owner of the copyright, design, patent or trademark, or an original contributor to the book or work referred to in paragraph (5)(b).
 
-(8A)[^key-5baf52195c95d7021ed5101a25d003f0] For the purpose of paragraph (8)(b), and for that purpose only, the amounts specified in paragraph (5) shall be treated as though they were earnings.
+(8A)[^c-5baf52195c95d7021ed5101a25d003f0] For the purpose of paragraph (8)(b), and for that purpose only, the amounts specified in paragraph (5) shall be treated as though they were earnings.
 
 (9) Income specified in Schedule 6 is to be disregarded in the calculation of a claimant’s income.
 
@@ -76,18 +76,18 @@ the weekly amount of that claimant’s income shall be determined—
 
 ## Annotations
 
-[^key-92d138d32341dd69a29b5fd07b8ac399]: Commencement: [Reg. 31](https://www.legislation.gov.uk/nisr/2006/406/regulation/31) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
+[^c-92d138d32341dd69a29b5fd07b8ac399]: Commencement: [Reg. 31](https://www.legislation.gov.uk/nisr/2006/406/regulation/31) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
 
-[^key-3cea98b4a982b6be3a35171f01ef082c]: Textual amendment: Words in [reg. 31(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/31/1) inserted (18.2.2015) by [The Housing Benefit (Income from earnings) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/19)](https://www.legislation.gov.uk/nisr/2015/19), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/19/regulation/1/1), [3(2)](https://www.legislation.gov.uk/nisr/2015/19/regulation/3/2)
+[^c-3cea98b4a982b6be3a35171f01ef082c]: Textual amendment: Words in [reg. 31(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/31/1) inserted (18.2.2015) by [The Housing Benefit (Income from earnings) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/19)](https://www.legislation.gov.uk/nisr/2015/19), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/19/regulation/1/1), [3(2)](https://www.legislation.gov.uk/nisr/2015/19/regulation/3/2)
 
-[^key-02d21f190ae1da6ed801a6c39387c049]: Textual amendment: Words in [reg. 31(2A)](https://www.legislation.gov.uk/nisr/2006/406/regulation/31/2A) inserted (18.2.2015) by [The Housing Benefit (Income from earnings) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/19)](https://www.legislation.gov.uk/nisr/2015/19), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/19/regulation/1/1), [3(3)](https://www.legislation.gov.uk/nisr/2015/19/regulation/3/3)
+[^c-02d21f190ae1da6ed801a6c39387c049]: Textual amendment: Words in [reg. 31(2A)](https://www.legislation.gov.uk/nisr/2006/406/regulation/31/2A) inserted (18.2.2015) by [The Housing Benefit (Income from earnings) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/19)](https://www.legislation.gov.uk/nisr/2015/19), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/19/regulation/1/1), [3(3)](https://www.legislation.gov.uk/nisr/2015/19/regulation/3/3)
 
 [^f00107]: Footnote: [2000 c. 4 (N.I.)](https://www.legislation.gov.uk/nia/2000/4)
 
-[^key-8d0be0774f72863c1d4b393433b19dd4]: Textual amendment: Words in [reg. 31(3A)](https://www.legislation.gov.uk/nisr/2006/406/regulation/31/3A) inserted (18.2.2015) by [The Housing Benefit (Income from earnings) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/19)](https://www.legislation.gov.uk/nisr/2015/19), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/19/regulation/1/1), [3(4)](https://www.legislation.gov.uk/nisr/2015/19/regulation/3/4)
+[^c-8d0be0774f72863c1d4b393433b19dd4]: Textual amendment: Words in [reg. 31(3A)](https://www.legislation.gov.uk/nisr/2006/406/regulation/31/3A) inserted (18.2.2015) by [The Housing Benefit (Income from earnings) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/19)](https://www.legislation.gov.uk/nisr/2015/19), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/19/regulation/1/1), [3(4)](https://www.legislation.gov.uk/nisr/2015/19/regulation/3/4)
 
-[^key-ce0c32582dec9b2af9f3781d2ebf2ddd]: Textual amendment: [Reg. 31(5)(a)](https://www.legislation.gov.uk/nisr/2006/406/regulation/31/5/a)[(b)](https://www.legislation.gov.uk/nisr/2006/406/regulation/31/5/b) substituted (6.4.2009 for specified purposes) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/92)](https://www.legislation.gov.uk/nisr/2009/92), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/3), [7(4)(a)](https://www.legislation.gov.uk/nisr/2009/92/regulation/7/4/a)
+[^c-ce0c32582dec9b2af9f3781d2ebf2ddd]: Textual amendment: [Reg. 31(5)(a)](https://www.legislation.gov.uk/nisr/2006/406/regulation/31/5/a)[(b)](https://www.legislation.gov.uk/nisr/2006/406/regulation/31/5/b) substituted (6.4.2009 for specified purposes) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/92)](https://www.legislation.gov.uk/nisr/2009/92), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/3), [7(4)(a)](https://www.legislation.gov.uk/nisr/2009/92/regulation/7/4/a)
 
-[^key-817d4aefcccb6372107f892d99b87a39]: Textual amendment: [Reg. 31(8)(b)](https://www.legislation.gov.uk/nisr/2006/406/regulation/31/8/b) substituted (6.4.2009 for specified purposes) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/92)](https://www.legislation.gov.uk/nisr/2009/92), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/3), [7(4)(b)](https://www.legislation.gov.uk/nisr/2009/92/regulation/7/4/b)
+[^c-817d4aefcccb6372107f892d99b87a39]: Textual amendment: [Reg. 31(8)(b)](https://www.legislation.gov.uk/nisr/2006/406/regulation/31/8/b) substituted (6.4.2009 for specified purposes) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/92)](https://www.legislation.gov.uk/nisr/2009/92), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/3), [7(4)(b)](https://www.legislation.gov.uk/nisr/2009/92/regulation/7/4/b)
 
-[^key-5baf52195c95d7021ed5101a25d003f0]: Textual amendment: [Reg. 31(8A)](https://www.legislation.gov.uk/nisr/2006/406/regulation/31/8A) inserted (6.4.2009 for specified purposes) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/92)](https://www.legislation.gov.uk/nisr/2009/92), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/3), [7(4)(c)](https://www.legislation.gov.uk/nisr/2009/92/regulation/7/4/c)
+[^c-5baf52195c95d7021ed5101a25d003f0]: Textual amendment: [Reg. 31(8A)](https://www.legislation.gov.uk/nisr/2006/406/regulation/31/8A) inserted (6.4.2009 for specified purposes) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/92)](https://www.legislation.gov.uk/nisr/2009/92), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/3), [7(4)(c)](https://www.legislation.gov.uk/nisr/2009/92/regulation/7/4/c)

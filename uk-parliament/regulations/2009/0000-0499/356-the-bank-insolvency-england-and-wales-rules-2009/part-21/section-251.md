@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 251. Decision to declare dividend[^key-3096fbf4e313f4291a10ce3eca6bb149]
+## 251. Decision to declare dividend[^c-3096fbf4e313f4291a10ce3eca6bb149]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 11.5 of the 1986 Rules.
 
 ## Annotations
 
-[^key-3096fbf4e313f4291a10ce3eca6bb149]: Commencement: Rule 251 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-3096fbf4e313f4291a10ce3eca6bb149]: Commencement: Rule 251 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

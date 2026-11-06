@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Duty of person responsible for animal to ensure welfare[^key-d95adcb43db395f690e24b71b4164101][^key-2ff4cb36566aacc1f0754d18dba127ef]
+## 9. Duty of person responsible for animal to ensure welfare[^c-d95adcb43db395f690e24b71b4164101][^c-2ff4cb36566aacc1f0754d18dba127ef]
 
 *Extent: E+W*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d95adcb43db395f690e24b71b4164101]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2006/45/section/9) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(c)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/c)
+[^c-d95adcb43db395f690e24b71b4164101]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2006/45/section/9) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(c)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/c)
 
-[^key-2ff4cb36566aacc1f0754d18dba127ef]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2006/45/section/9) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/e)
+[^c-2ff4cb36566aacc1f0754d18dba127ef]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2006/45/section/9) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/e)

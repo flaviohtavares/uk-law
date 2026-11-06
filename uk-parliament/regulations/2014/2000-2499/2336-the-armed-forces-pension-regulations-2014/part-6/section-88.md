@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Provisional awards of children’s pensions: later adjustments[^key-ebc34387fe5584092ebdb4d47149f476]
+## 88. Provisional awards of children’s pensions: later adjustments[^c-ebc34387fe5584092ebdb4d47149f476]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ebc34387fe5584092ebdb4d47149f476]: Commencement: [Reg. 88](https://www.legislation.gov.uk/uksi/2014/2336/regulation/88) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-ebc34387fe5584092ebdb4d47149f476]: Commencement: [Reg. 88](https://www.legislation.gov.uk/uksi/2014/2336/regulation/88) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

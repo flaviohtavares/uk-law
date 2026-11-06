@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 15. Guidance in relation to children's services planning[^key-7729923dfa787bfb323ab1faa01e0f07]
+## 15. Guidance in relation to children's services planning[^c-7729923dfa787bfb323ab1faa01e0f07]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7729923dfa787bfb323ab1faa01e0f07]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2014/8/section/15) in force at 7.10.2016 by [S.S.I. 2016/254](https://www.legislation.gov.uk/ssi/2016/254), [art. 3(1)(a)](https://www.legislation.gov.uk/ssi/2016/254/article/3/1/a)
+[^c-7729923dfa787bfb323ab1faa01e0f07]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2014/8/section/15) in force at 7.10.2016 by [S.S.I. 2016/254](https://www.legislation.gov.uk/ssi/2016/254), [art. 3(1)(a)](https://www.legislation.gov.uk/ssi/2016/254/article/3/1/a)

@@ -70,7 +70,7 @@ Section 18
 
 ### Exchequer and Audit Departments Act 1957 (c. 45)
 
-**7.**[^key-333fb077096acf5d10080a6fda770a25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-333fb077096acf5d10080a6fda770a25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Ministerial and other Salaries Act 1975 (c. 27)
 
@@ -78,4 +78,4 @@ Section 18
 
 ## Annotations
 
-[^key-333fb077096acf5d10080a6fda770a25]: Textual amendment: [Sch. 6 para. 7](https://www.legislation.gov.uk/ukpga/2005/4/schedule/6/paragraph/7) omitted (1.4.2012) by virtue of [Budget Responsibility and National Audit Act 2011 (c. 4)](https://www.legislation.gov.uk/ukpga/2011/4), [s. 29](https://www.legislation.gov.uk/ukpga/2011/4/section/29), [Sch. 5 para. 25](https://www.legislation.gov.uk/ukpga/2011/4/schedule/5/paragraph/25); [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)
+[^c-333fb077096acf5d10080a6fda770a25]: Textual amendment: [Sch. 6 para. 7](https://www.legislation.gov.uk/ukpga/2005/4/schedule/6/paragraph/7) omitted (1.4.2012) by virtue of [Budget Responsibility and National Audit Act 2011 (c. 4)](https://www.legislation.gov.uk/ukpga/2011/4), [s. 29](https://www.legislation.gov.uk/ukpga/2011/4/section/29), [Sch. 5 para. 25](https://www.legislation.gov.uk/ukpga/2011/4/schedule/5/paragraph/25); [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)

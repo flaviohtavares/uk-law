@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) The Treasury may by regulations make provision about the application of the Taxes Acts[^key-b64e0ff42b3be545e3136d2a3a27dbf6] in relation to a securitisation company.
+(1) The Treasury may by regulations make provision about the application of the Taxes Acts[^c-b64e0ff42b3be545e3136d2a3a27dbf6] in relation to a securitisation company.
 
-(2) The regulations may, in particular, provide for the application, modification or non-application of any of the provisions of the Taxes Acts[^key-55540376fef89093752e0602466e08d9] .
+(2) The regulations may, in particular, provide for the application, modification or non-application of any of the provisions of the Taxes Acts[^c-55540376fef89093752e0602466e08d9] .
 
 (3) The regulations may, in particular, provide—
 
@@ -42,12 +42,12 @@ summary: ''
 
 (8) The regulations may, in particular, provide for the consequences of failing to meet any specified condition (which may include recalculating the company's profits for previous periods on the basis that the regulations did not apply).
 
-(9) In this section "the Taxes Acts” has the meaning given by section 118(1) of[^key-bda45861cea244745e43cace38e1d0a4] TMA 1970, and “**specified**” means specified in the regulations.
+(9) In this section "the Taxes Acts” has the meaning given by section 118(1) of[^c-bda45861cea244745e43cace38e1d0a4] TMA 1970, and “**specified**” means specified in the regulations.
 
 ## Annotations
 
-[^key-b64e0ff42b3be545e3136d2a3a27dbf6]: Textual amendment: Words in [s. 624(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/624/1) substituted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 65(2)](https://www.legislation.gov.uk/ukpga/2016/24/section/65/2)
+[^c-b64e0ff42b3be545e3136d2a3a27dbf6]: Textual amendment: Words in [s. 624(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/624/1) substituted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 65(2)](https://www.legislation.gov.uk/ukpga/2016/24/section/65/2)
 
-[^key-55540376fef89093752e0602466e08d9]: Textual amendment: Words in [s. 624(2)](https://www.legislation.gov.uk/ukpga/2010/4/section/624/2) substituted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 65(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/65/3)
+[^c-55540376fef89093752e0602466e08d9]: Textual amendment: Words in [s. 624(2)](https://www.legislation.gov.uk/ukpga/2010/4/section/624/2) substituted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 65(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/65/3)
 
-[^key-bda45861cea244745e43cace38e1d0a4]: Textual amendment: Words in [s. 624(9)](https://www.legislation.gov.uk/ukpga/2010/4/section/624/9) inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 65(4)](https://www.legislation.gov.uk/ukpga/2016/24/section/65/4)
+[^c-bda45861cea244745e43cace38e1d0a4]: Textual amendment: Words in [s. 624(9)](https://www.legislation.gov.uk/ukpga/2010/4/section/624/9) inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 65(4)](https://www.legislation.gov.uk/ukpga/2016/24/section/65/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 61. Failure to comply with direction: offences[^key-5785e26711e2e527de942f0247aaeb78]
+## 61. Failure to comply with direction: offences[^c-5785e26711e2e527de942f0247aaeb78]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ After section 62A of the Criminal Justice and Public Order Act 1994 (c. 33) (ins
 
 ## Annotations
 
-[^key-5785e26711e2e527de942f0247aaeb78]: Commencement: S. 61 in force at 27.2.2004 by [S.I. 2003/3300](https://www.legislation.gov.uk/uksi/2003/3300), [art. 3(b)](https://www.legislation.gov.uk/uksi/2003/3300/article/3/b)
+[^c-5785e26711e2e527de942f0247aaeb78]: Commencement: S. 61 in force at 27.2.2004 by [S.I. 2003/3300](https://www.legislation.gov.uk/uksi/2003/3300), [art. 3(b)](https://www.legislation.gov.uk/uksi/2003/3300/article/3/b)

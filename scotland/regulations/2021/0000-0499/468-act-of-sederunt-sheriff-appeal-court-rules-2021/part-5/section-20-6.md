@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20.6. Decree for expenses in name of solicitor[^key-1be580c7e447797838b6894f17b56d87]
+## 20.6. Decree for expenses in name of solicitor[^c-1be580c7e447797838b6894f17b56d87]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The Court may allow a decree for expenses to be extracted in the name of the sol
 
 ## Annotations
 
-[^key-1be580c7e447797838b6894f17b56d87]: Commencement: Para. 20.6 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-1be580c7e447797838b6894f17b56d87]: Commencement: Para. 20.6 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

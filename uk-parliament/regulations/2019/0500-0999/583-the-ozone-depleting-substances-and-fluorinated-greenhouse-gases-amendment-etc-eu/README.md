@@ -103,13 +103,13 @@ In accordance with paragraph 1(1) of Schedule 7 to that Act, a draft of this ins
 
 *Extent: E+W+S+N.I.*
 
-#### SECTION 1 — Amendment of subordinate legislation applying in England, Wales and Scotland[^key-851b94843d656bb23e278285baa5dbca]
+#### SECTION 1 — Amendment of subordinate legislation applying in England, Wales and Scotland[^c-851b94843d656bb23e278285baa5dbca]
 
 *Extent: E+W+S+N.I.*
 
 - [Section 35 — The Fluorinated Greenhouse Gases Regulations 2015](part-3/section-35.md)
 
-#### SECTION 1A — Amendment of subordinate legislation applying in Northern Ireland[^key-748e360285feb94142d8859c85d5e3b7]
+#### SECTION 1A — Amendment of subordinate legislation applying in Northern Ireland[^c-748e360285feb94142d8859c85d5e3b7]
 
 - [Section 35A — The Fluorinated Greenhouse Gases Regulations 2015](part-3/section-35a.md)
 
@@ -178,6 +178,6 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23643251]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-851b94843d656bb23e278285baa5dbca]: Textual amendment: Words in Pt. 3 Section 1 heading inserted (31.12.2020 immediately before IP completion day) by [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1616)](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(17)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/17)
+[^c-851b94843d656bb23e278285baa5dbca]: Textual amendment: Words in Pt. 3 Section 1 heading inserted (31.12.2020 immediately before IP completion day) by [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1616)](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(17)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/17)
 
-[^key-748e360285feb94142d8859c85d5e3b7]: Textual amendment: Pt. 3 Section 1A inserted (31.12.2020 immediately before IP completion day) by [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1616)](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(19)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/19)
+[^c-748e360285feb94142d8859c85d5e3b7]: Textual amendment: Pt. 3 Section 1A inserted (31.12.2020 immediately before IP completion day) by [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1616)](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(19)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/19)

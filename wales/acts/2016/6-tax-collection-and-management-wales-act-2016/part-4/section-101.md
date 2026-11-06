@@ -20,19 +20,19 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-ba5d09aa630bcea70ca7795529b2e270] An information notice may not require a person—
+(1)[^c-ba5d09aa630bcea70ca7795529b2e270] An information notice may not require a person—
 
 - (a) to provide privileged information, or
 - (b) to produce any part of a document that is privileged.
 
-(2)[^key-ba5d09aa630bcea70ca7795529b2e270] Information or a document is privileged if a claim for legal professional privilege could be maintained in respect of it in legal proceedings.
+(2)[^c-ba5d09aa630bcea70ca7795529b2e270] Information or a document is privileged if a claim for legal professional privilege could be maintained in respect of it in legal proceedings.
 
-(3)[^key-574f12880df546556e6f0b18d132af71] The Welsh Ministers may by regulations make provision for the resolution by the tribunal of any dispute as to whether any information or document is privileged.
+(3)[^c-574f12880df546556e6f0b18d132af71] The Welsh Ministers may by regulations make provision for the resolution by the tribunal of any dispute as to whether any information or document is privileged.
 
-(4)[^key-574f12880df546556e6f0b18d132af71] The regulations may, in particular, make provision for the custody of a document while its status is being determined.
+(4)[^c-574f12880df546556e6f0b18d132af71] The regulations may, in particular, make provision for the custody of a document while its status is being determined.
 
 ## Annotations
 
-[^key-ba5d09aa630bcea70ca7795529b2e270]: Commencement: S. 101(1)(2) in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(c)](https://www.legislation.gov.uk/wsi/2018/33/article/2/c)
+[^c-ba5d09aa630bcea70ca7795529b2e270]: Commencement: S. 101(1)(2) in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(c)](https://www.legislation.gov.uk/wsi/2018/33/article/2/c)
 
-[^key-574f12880df546556e6f0b18d132af71]: Commencement: S. 101(3)(4) in force at 18.10.2017 by [S.I. 2017/954](https://www.legislation.gov.uk/wsi/2017/954), [art. 2](https://www.legislation.gov.uk/wsi/2017/954/article/2)
+[^c-574f12880df546556e6f0b18d132af71]: Commencement: S. 101(3)(4) in force at 18.10.2017 by [S.I. 2017/954](https://www.legislation.gov.uk/wsi/2017/954), [art. 2](https://www.legislation.gov.uk/wsi/2017/954/article/2)

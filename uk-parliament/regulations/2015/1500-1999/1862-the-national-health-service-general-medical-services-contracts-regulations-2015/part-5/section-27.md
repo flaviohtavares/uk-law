@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) The contractor must publish each year on its practice website or online practice profile[^key-c1c3d8efdbe98521e958582ad046f039] the information specified in paragraph (2).
+(1) The contractor must publish each year on its practice website or online practice profile[^c-c1c3d8efdbe98521e958582ad046f039] the information specified in paragraph (2).
 
 (2) The information specified in this paragraph is—
 
@@ -36,10 +36,10 @@ summary: ''
 - (a) published by the contractor before the end of the financial year following the financial year to which that information relates; and
 - (b) made available by the contactor in hard copy form on request.
 
-(4) For the purposes of this regulation, mean net earnings are to be calculated by reference to the earnings of a general medical practitioner that, in the opinion of NHS England[^key-27a783e1510d45f884edbc32ee2f5c83], are attributable to the performance or provision by the practitioner under the contract of primary medical services, after having disregarded any expenses properly incurred in the course of performing or providing those services.
+(4) For the purposes of this regulation, mean net earnings are to be calculated by reference to the earnings of a general medical practitioner that, in the opinion of NHS England[^c-27a783e1510d45f884edbc32ee2f5c83], are attributable to the performance or provision by the practitioner under the contract of primary medical services, after having disregarded any expenses properly incurred in the course of performing or providing those services.
 
 ## Annotations
 
-[^key-c1c3d8efdbe98521e958582ad046f039]: Textual amendment: Words in [reg. 27(1)](https://www.legislation.gov.uk/uksi/2015/1862/regulation/27/1) substituted (1.4.2020) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2020 (S.I. 2020/226)](https://www.legislation.gov.uk/uksi/2020/226), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/226/regulation/1/2), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2020/226/schedule/1/paragraph/8)
+[^c-c1c3d8efdbe98521e958582ad046f039]: Textual amendment: Words in [reg. 27(1)](https://www.legislation.gov.uk/uksi/2015/1862/regulation/27/1) substituted (1.4.2020) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2020 (S.I. 2020/226)](https://www.legislation.gov.uk/uksi/2020/226), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/226/regulation/1/2), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2020/226/schedule/1/paragraph/8)
 
-[^key-27a783e1510d45f884edbc32ee2f5c83]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-27a783e1510d45f884edbc32ee2f5c83]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)

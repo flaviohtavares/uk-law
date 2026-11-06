@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Code of Practice for Statistics[^key-c5134607b6a336ef63df660a2db63877]
+## 10. Code of Practice for Statistics[^c-c5134607b6a336ef63df660a2db63877]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c5134607b6a336ef63df660a2db63877]: Commencement: S. 10 in force at 1.12.2007 by [S.I. 2007/3388](https://www.legislation.gov.uk/uksi/2007/3388), [art. 2(b)](https://www.legislation.gov.uk/uksi/2007/3388/article/2/b)
+[^c-c5134607b6a336ef63df660a2db63877]: Commencement: S. 10 in force at 1.12.2007 by [S.I. 2007/3388](https://www.legislation.gov.uk/uksi/2007/3388), [art. 2(b)](https://www.legislation.gov.uk/uksi/2007/3388/article/2/b)

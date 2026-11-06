@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 252. Notice of declaration[^key-6bd217be4af3f42723ed11b2a56c1288]
+## 252. Notice of declaration[^c-6bd217be4af3f42723ed11b2a56c1288]
 
 *Extent: E+W*
 
@@ -30,7 +30,7 @@ summary: ''
 
 ## Annotations
 
-[^key-6bd217be4af3f42723ed11b2a56c1288]: Commencement: Rule 252 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-6bd217be4af3f42723ed11b2a56c1288]: Commencement: Rule 252 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
 
 [^f00083]: Footnote: Paragraph (3)(b) was substituted by [S.I. 2002/1307](https://www.legislation.gov.uk/uksi/2002/1307).
 

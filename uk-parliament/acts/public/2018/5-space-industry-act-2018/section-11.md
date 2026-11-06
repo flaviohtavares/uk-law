@@ -20,31 +20,31 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-eb04588818c7537c896ab96276ba372b] This section applies to—
+(1)[^c-eb04588818c7537c896ab96276ba372b] This section applies to—
 
 - (a) a spaceport licence;
 - (b) an operator licence authorising launches of spacecraft or carrier aircraft.
 
-(2)[^key-eb04588818c7537c896ab96276ba372b] The regulator may not grant an application for a licence to which this section applies unless the applicant has submitted an assessment of environmental effects.
+(2)[^c-eb04588818c7537c896ab96276ba372b] The regulator may not grant an application for a licence to which this section applies unless the applicant has submitted an assessment of environmental effects.
 
-(3)[^key-151d7cb22388d6930da23ec290332d80] In this section “assessment of environmental effects”—
+(3)[^c-151d7cb22388d6930da23ec290332d80] In this section “assessment of environmental effects”—
 
 - (a) in relation to a spaceport licence, means an assessment of the effects that launches of spacecraft or carrier aircraft from the spaceport in question, or launches of spacecraft from carrier aircraft launched from the spaceport, are expected to have on the environment;
 - (b) in relation to an operator licence authorising launches of spacecraft or carrier aircraft, means an assessment of the effects that those launches are expected to have on the environment.
 
-(4)[^key-6823ae2e026665a52a5c2f4646b15944] If or to the extent that the regulator directs, the requirement imposed by subsection (2) to submit an assessment of environmental effects may be met by submitting—
+(4)[^c-6823ae2e026665a52a5c2f4646b15944] If or to the extent that the regulator directs, the requirement imposed by subsection (2) to submit an assessment of environmental effects may be met by submitting—
 
 - (a) an equivalent assessment prepared previously in compliance with a requirement imposed by or under another enactment, or
 - (b) an assessment of environmental effects prepared in connection with a previous application.
 
 The regulator may make a direction under this subsection only if satisfied that there has been no material change of circumstances since the previous assessment was prepared.
 
-(5)[^key-eb04588818c7537c896ab96276ba372b] The regulator must take into account the assessment of environmental effects (including any assessment submitted as mentioned in subsection (4)) in deciding—
+(5)[^c-eb04588818c7537c896ab96276ba372b] The regulator must take into account the assessment of environmental effects (including any assessment submitted as mentioned in subsection (4)) in deciding—
 
 - (a) whether to grant a licence to which this section applies;
 - (b) what conditions should be attached to such a licence under section 13.
 
-(6)[^key-6823ae2e026665a52a5c2f4646b15944] The regulator must issue guidance about—
+(6)[^c-6823ae2e026665a52a5c2f4646b15944] The regulator must issue guidance about—
 
 - (a) the form, contents and level of detail of an assessment of environmental effects;
 - (b) the time for submitting an assessment of environmental effects;
@@ -54,8 +54,8 @@ Guidance under paragraph (a) may specify matters that are to be dealt with in an
 
 ## Annotations
 
-[^key-eb04588818c7537c896ab96276ba372b]: Commencement: [S. 11(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/11/1)[(2)](https://www.legislation.gov.uk/ukpga/2018/5/section/11/2)[(5)](https://www.legislation.gov.uk/ukpga/2018/5/section/11/5) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 22](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/22) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-eb04588818c7537c896ab96276ba372b]: Commencement: [S. 11(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/11/1)[(2)](https://www.legislation.gov.uk/ukpga/2018/5/section/11/2)[(5)](https://www.legislation.gov.uk/ukpga/2018/5/section/11/5) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 22](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/22) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
 
-[^key-151d7cb22388d6930da23ec290332d80]: Commencement: [S. 11(3)](https://www.legislation.gov.uk/ukpga/2018/5/section/11/3) in force at 26.11.2018 by [S.I. 2018/1224](https://www.legislation.gov.uk/uksi/2018/1224), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2018/1224/regulation/2/r)
+[^c-151d7cb22388d6930da23ec290332d80]: Commencement: [S. 11(3)](https://www.legislation.gov.uk/ukpga/2018/5/section/11/3) in force at 26.11.2018 by [S.I. 2018/1224](https://www.legislation.gov.uk/uksi/2018/1224), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2018/1224/regulation/2/r)
 
-[^key-6823ae2e026665a52a5c2f4646b15944]: Commencement: [S. 11(4)](https://www.legislation.gov.uk/ukpga/2018/5/section/11/4)[(6)](https://www.legislation.gov.uk/ukpga/2018/5/section/11/6) in force at 26.11.2018 by [S.I. 2018/1224](https://www.legislation.gov.uk/uksi/2018/1224), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2018/1224/regulation/2/s)
+[^c-6823ae2e026665a52a5c2f4646b15944]: Commencement: [S. 11(4)](https://www.legislation.gov.uk/ukpga/2018/5/section/11/4)[(6)](https://www.legislation.gov.uk/ukpga/2018/5/section/11/6) in force at 26.11.2018 by [S.I. 2018/1224](https://www.legislation.gov.uk/uksi/2018/1224), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2018/1224/regulation/2/s)

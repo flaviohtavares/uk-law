@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 104. Power of any Northern Ireland department to direct council to make reports etc.[^key-cd5d4c1adb1fa8fe6cac725f1d00de95]
+## 104. Power of any Northern Ireland department to direct council to make reports etc.[^c-cd5d4c1adb1fa8fe6cac725f1d00de95]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ as may be specified in the direction.
 
 ## Annotations
 
-[^key-cd5d4c1adb1fa8fe6cac725f1d00de95]: Commencement: [S. 104](https://www.legislation.gov.uk/nia/2014/8/section/104) in operation at 1.4.2015 by [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)
+[^c-cd5d4c1adb1fa8fe6cac725f1d00de95]: Commencement: [S. 104](https://www.legislation.gov.uk/nia/2014/8/section/104) in operation at 1.4.2015 by [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)

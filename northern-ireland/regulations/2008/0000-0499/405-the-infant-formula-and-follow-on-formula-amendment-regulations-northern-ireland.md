@@ -45,14 +45,14 @@ In accordance with Article 47(3A) of the Food Safety (Northern Ireland) Order 19
 
 As required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00003] there has been open and transparent public consultation during the preparation and evaluation of these Regulations.
 
-## 1. Citation and commencement[^key-a308669ba51911e3eb2cdf796644f79b]
+## 1. Citation and commencement[^c-a308669ba51911e3eb2cdf796644f79b]
 
 These Regulations—
 
 - (a) may be cited as the Infant Formula and Follow-on Formula (Amendment) Regulations (Northern Ireland) 2008; and
 - (b) come into operation on 4th November 2008.
 
-## 2. Amendment of the Infant Formula and Follow-on Formula Regulations (Northern Ireland) 2007[^key-83099219059baacba8c5710ab9c7f114]
+## 2. Amendment of the Infant Formula and Follow-on Formula Regulations (Northern Ireland) 2007[^c-83099219059baacba8c5710ab9c7f114]
 
 (1) The Infant Formula and Follow-on Formula Regulations (Northern Ireland) 2007[^f00004] are amended in accordance with paragraphs (2) to (6).
 
@@ -117,15 +117,15 @@ These Regulations—
 
 .
 
-## 3. Amendment of the Medical Food Regulations (Northern Ireland) 2000[^key-c38b3a66d30266317ac28381fe57da68]
+## 3. Amendment of the Medical Food Regulations (Northern Ireland) 2000[^c-c38b3a66d30266317ac28381fe57da68]
 
-(1)[^key-33f04ff8a0ba93236ec9c85b7ac354ff] The Medical Food Regulations (Northern Ireland) 2000 *(affected by repeal, see note)*[^key-33f04ff8a0ba93236ec9c85b7ac354ff][^f00005] are amended in accordance with paragraph (2). *(affected by repeal, see note)*[^key-33f04ff8a0ba93236ec9c85b7ac354ff]
+(1)[^c-33f04ff8a0ba93236ec9c85b7ac354ff] The Medical Food Regulations (Northern Ireland) 2000 *(affected by repeal, see note)*[^c-33f04ff8a0ba93236ec9c85b7ac354ff][^f00005] are amended in accordance with paragraph (2). *(affected by repeal, see note)*[^c-33f04ff8a0ba93236ec9c85b7ac354ff]
 
-(2) The following regulation is inserted immediately after regulation 7 (application of various provisions of the Order)— *(affected by repeal, see note)*[^key-33f04ff8a0ba93236ec9c85b7ac354ff]
+(2) The following regulation is inserted immediately after regulation 7 (application of various provisions of the Order)— *(affected by repeal, see note)*[^c-33f04ff8a0ba93236ec9c85b7ac354ff]
 
-> **8. Transitional arrangements (affected by repeal, see note)[^key-33f04ff8a0ba93236ec9c85b7ac354ff]**
+> **8. Transitional arrangements (affected by repeal, see note)[^c-33f04ff8a0ba93236ec9c85b7ac354ff]**
 >
-> In respect of any contravention before 1st January 2010, a person does not commit an offence under regulation 5(a) consisting of a contravention of regulation 3(1)(a) where the action that would otherwise constitute the offence consists of selling a medical food whose composition fails to comply with Article 3 of the Directive as read with the row relating to manganese set out in the second part of Table I (minerals) in the Annex to the Directive if the composition of that medical food would have complied with Article 3 of the Directive as read with the row relating to manganese set out in the second part of Table I (minerals) in the Annex to the Directive as it stood before it was amended by Commission Directive *(affected by repeal, see note)*[^key-33f04ff8a0ba93236ec9c85b7ac354ff] [2006/141/EC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2006/0141)[^key-33f04ff8a0ba93236ec9c85b7ac354ff] on infant formulae and follow-on formulae and amending Directive *(affected by repeal, see note)*[^key-33f04ff8a0ba93236ec9c85b7ac354ff] [1999/21/EC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/1999/0021)[^key-33f04ff8a0ba93236ec9c85b7ac354ff].
+> In respect of any contravention before 1st January 2010, a person does not commit an offence under regulation 5(a) consisting of a contravention of regulation 3(1)(a) where the action that would otherwise constitute the offence consists of selling a medical food whose composition fails to comply with Article 3 of the Directive as read with the row relating to manganese set out in the second part of Table I (minerals) in the Annex to the Directive if the composition of that medical food would have complied with Article 3 of the Directive as read with the row relating to manganese set out in the second part of Table I (minerals) in the Annex to the Directive as it stood before it was amended by Commission Directive *(affected by repeal, see note)*[^c-33f04ff8a0ba93236ec9c85b7ac354ff] [2006/141/EC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2006/0141)[^c-33f04ff8a0ba93236ec9c85b7ac354ff] on infant formulae and follow-on formulae and amending Directive *(affected by repeal, see note)*[^c-33f04ff8a0ba93236ec9c85b7ac354ff] [1999/21/EC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/1999/0021)[^c-33f04ff8a0ba93236ec9c85b7ac354ff].
 
 .
 
@@ -167,14 +167,14 @@ A full impact assessment has not been produced for this rule as no impact on the
 
 [^f00003]: Footnote: OJ No. L31, 1.2.2002, p.1, as last amended by Commission Regulation [(EC) No. 202/2008](https://www.legislation.gov.uk/european/regulation/2008/0202) amending Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council as regards the number and names of the Scientific Panels of the European Food Safety Authority (OJ No. L60, 5.3.2008, p.17)
 
-[^key-a308669ba51911e3eb2cdf796644f79b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2008/405/regulation/1) in operation at 4.11.2008, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2008/405/regulation/1/b)
+[^c-a308669ba51911e3eb2cdf796644f79b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2008/405/regulation/1) in operation at 4.11.2008, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2008/405/regulation/1/b)
 
-[^key-83099219059baacba8c5710ab9c7f114]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2008/405/regulation/2) in operation at 4.11.2008, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2008/405/regulation/1/b)
+[^c-83099219059baacba8c5710ab9c7f114]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2008/405/regulation/2) in operation at 4.11.2008, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2008/405/regulation/1/b)
 
 [^f00004]: Footnote: [S.R. 2007 No. 506](https://www.legislation.gov.uk/nisr/2007/506)
 
-[^key-c38b3a66d30266317ac28381fe57da68]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2008/405/regulation/3) in operation at 4.11.2008, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2008/405/regulation/1/b)
+[^c-c38b3a66d30266317ac28381fe57da68]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2008/405/regulation/3) in operation at 4.11.2008, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2008/405/regulation/1/b)
 
-[^key-33f04ff8a0ba93236ec9c85b7ac354ff]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2008/405/regulation/3) revoked (22.2.2020) by [The Food Safety (Information and Compositional Requirements) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/16)](https://www.legislation.gov.uk/nisr/2020/16), [reg. 1](https://www.legislation.gov.uk/nisr/2020/16/regulation/1), [Sch. 2 reg. 7](https://www.legislation.gov.uk/nisr/2020/16/schedule/2/regulation/7) (with [reg. 7](https://www.legislation.gov.uk/nisr/2020/16/regulation/7))
+[^c-33f04ff8a0ba93236ec9c85b7ac354ff]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2008/405/regulation/3) revoked (22.2.2020) by [The Food Safety (Information and Compositional Requirements) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/16)](https://www.legislation.gov.uk/nisr/2020/16), [reg. 1](https://www.legislation.gov.uk/nisr/2020/16/regulation/1), [Sch. 2 reg. 7](https://www.legislation.gov.uk/nisr/2020/16/schedule/2/regulation/7) (with [reg. 7](https://www.legislation.gov.uk/nisr/2020/16/regulation/7))
 
 [^f00005]: Footnote: [S.R. 2000 No. 187](https://www.legislation.gov.uk/nisr/2000/187); the relevant amending instrument is [S.R. 2007 No. 506](https://www.legislation.gov.uk/nisr/2007/506)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 1. Citation, commencement and interpretation[^key-0155a9dbac4b1b2175f2b4a01d84f39f]
+## 1. Citation, commencement and interpretation[^c-0155a9dbac4b1b2175f2b4a01d84f39f]
 
 *Extent: N.I.*
 
@@ -32,7 +32,7 @@ summary: ''
 
 ## Annotations
 
-[^key-0155a9dbac4b1b2175f2b4a01d84f39f]: Commencement: Reg. 1 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
+[^c-0155a9dbac4b1b2175f2b4a01d84f39f]: Commencement: Reg. 1 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
 
 [^M_F_60aa13cd-ca91-411d-b165-4b77bb5aeef3]: Textual amendment: Reg. 1(4) omitted (21.7.2011) by virtue of [The Waste (Fees and Charges etc.) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/232)](https://www.legislation.gov.uk/nisr/2011/232), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/232/regulation/1/1), [3(2)](https://www.legislation.gov.uk/nisr/2011/232/regulation/3/2)
 

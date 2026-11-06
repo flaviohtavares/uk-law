@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69Z24E. Conversion to property AIF[^key-ab1d7c50d09ca8fc955840f12180887d][^key-228ceee17a63954421c7bcbab46e5182]
+## 69Z24E. Conversion to property AIF[^c-ab1d7c50d09ca8fc955840f12180887d][^c-228ceee17a63954421c7bcbab46e5182]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ab1d7c50d09ca8fc955840f12180887d]: Textual amendment: [Regs. 69Z24E-69Z24H](https://www.legislation.gov.uk/uksi/2006/964/regulation/69Z24E) and cross-heading inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2012 (S.I. 2012/1783)](https://www.legislation.gov.uk/uksi/2012/1783), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1783/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2012/1783/regulation/4)
+[^c-ab1d7c50d09ca8fc955840f12180887d]: Textual amendment: [Regs. 69Z24E-69Z24H](https://www.legislation.gov.uk/uksi/2006/964/regulation/69Z24E) and cross-heading inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2012 (S.I. 2012/1783)](https://www.legislation.gov.uk/uksi/2012/1783), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1783/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2012/1783/regulation/4)
 
-[^key-228ceee17a63954421c7bcbab46e5182]: Textual amendment: Pt. 4A inserted (6.4.2008) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2008 (S.I. 2008/705)](https://www.legislation.gov.uk/uksi/2008/705), [regs. 1](https://www.legislation.gov.uk/uksi/2008/705/regulation/1), [5](https://www.legislation.gov.uk/uksi/2008/705/regulation/5)
+[^c-228ceee17a63954421c7bcbab46e5182]: Textual amendment: Pt. 4A inserted (6.4.2008) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2008 (S.I. 2008/705)](https://www.legislation.gov.uk/uksi/2008/705), [regs. 1](https://www.legislation.gov.uk/uksi/2008/705/regulation/1), [5](https://www.legislation.gov.uk/uksi/2008/705/regulation/5)

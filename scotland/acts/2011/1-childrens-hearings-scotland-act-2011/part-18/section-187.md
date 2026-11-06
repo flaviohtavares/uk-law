@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 187. Rehabilitation of Offenders Act 1974: treatment of certain disposals by children's hearings[^key-45d2173ee38374be0bb457a84bde37ba]
+## 187. Rehabilitation of Offenders Act 1974: treatment of certain disposals by children's hearings[^c-45d2173ee38374be0bb457a84bde37ba]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-45d2173ee38374be0bb457a84bde37ba]: Textual amendment: [S. 187](https://www.legislation.gov.uk/asp/2011/1/section/187) repealed (1.4.2025) by [Disclosure (Scotland) Act 2020 (asp 13)](https://www.legislation.gov.uk/asp/2020/13), [s. 97](https://www.legislation.gov.uk/asp/2020/13/section/97), [sch. 5 para. 13(a)](https://www.legislation.gov.uk/asp/2020/13/schedule/5/paragraph/13/a) (with [s. 96](https://www.legislation.gov.uk/asp/2020/13/section/96)); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+[^c-45d2173ee38374be0bb457a84bde37ba]: Textual amendment: [S. 187](https://www.legislation.gov.uk/asp/2011/1/section/187) repealed (1.4.2025) by [Disclosure (Scotland) Act 2020 (asp 13)](https://www.legislation.gov.uk/asp/2020/13), [s. 97](https://www.legislation.gov.uk/asp/2020/13/section/97), [sch. 5 para. 13(a)](https://www.legislation.gov.uk/asp/2020/13/schedule/5/paragraph/13/a) (with [s. 96](https://www.legislation.gov.uk/asp/2020/13/section/96)); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)

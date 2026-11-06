@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1AB — Recovery of overpaid tax etc[^key-dfe1ee35f1f6935bcd34816056dcf80f][^key-f932326208a8886e7c98bce8bbec3e50][^key-191b3e263bf511836474f28e15e88b06]
+## SCHEDULE 1AB — Recovery of overpaid tax etc[^c-dfe1ee35f1f6935bcd34816056dcf80f][^c-f932326208a8886e7c98bce8bbec3e50][^c-191b3e263bf511836474f28e15e88b06]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,7 +46,7 @@ Section 33
 
 ### Cases in which Commissioners not liable to give effect to claim
 
-**2.** (1) The Commissioners are not liable to give effect to a claim under this Schedule if or to the extent that the claim falls within a case described in this paragraph (see also paragraphs 3A and 4(5)[^key-eb29e470409c222a873968802623f295]).
+**2.** (1) The Commissioners are not liable to give effect to a claim under this Schedule if or to the extent that the claim falls within a case described in this paragraph (see also paragraphs 3A and 4(5)[^c-eb29e470409c222a873968802623f295]).
 
 (2) Case A is where the amount paid, or liable to be paid, is excessive by reason of—
 
@@ -88,7 +88,7 @@ Section 33
 - (a) the amount paid, or liable to be paid, is excessive by reason of a mistake in a PAYE assessment or PAYE calculation, and
 - (b) the assessment or calculation was made in accordance with the practice generally prevailing at the end of the period of 12 months following the tax year for which the assessment or calculation was made.
 
-(9A)[^key-d76e9dd875dbb3ef0eac1e3d4a67a5ec] Cases G and H do not apply where the amount paid, or liable to be paid, is tax which has been charged contrary to EU law.
+(9A)[^c-d76e9dd875dbb3ef0eac1e3d4a67a5ec] Cases G and H do not apply where the amount paid, or liable to be paid, is tax which has been charged contrary to EU law.
 
 (9B) For the purposes of sub-paragraph (9A), an amount of tax is charged contrary to EU law if, in the circumstances in question, the charge to tax is contrary to—
 
@@ -109,16 +109,16 @@ Section 33
 - (a) where the amount paid, or liable to be paid, is excessive by reason of a mistake in a return or returns under section 8, 8A or 12AA of this Act, the tax year to which the return (or, if more than one, the first return) relates, and
 - (b) otherwise, the tax year in respect of which the payment was made.
 
-(3) In relation to a claim made in reliance on paragraph 1(1)(b), the relevant tax year is—[^key-a9d6e9fdc0155b06b133bf83daf1cd07]
+(3) In relation to a claim made in reliance on paragraph 1(1)(b), the relevant tax year is—[^c-a9d6e9fdc0155b06b133bf83daf1cd07]
 
 - (a) where the amount liable to be paid is excessive by reason of a mistake in a return or returns under section 8, 8A or 12AA, the tax year to which the return (or, if more than one, the first return) relates, and
 - (b) otherwise, the tax year to which the assessment, determination or direction relates.
 
 (4) A claim under this Schedule may not be made by being included in a return under section 8, 8A or 12AA of this Act.
 
-(5)[^key-2d5bbb5331c810a282e794eb39d157ff] Sub-paragraph (1) is subject to paragraph 3A.
+(5)[^c-2d5bbb5331c810a282e794eb39d157ff] Sub-paragraph (1) is subject to paragraph 3A.
 
-### Determinations under section 28C: special rules[^key-09432bb43b633220e3a89b2f6d407870]
+### Determinations under section 28C: special rules[^c-09432bb43b633220e3a89b2f6d407870]
 
 **3A.** (1) This paragraph applies where—
 
@@ -268,18 +268,18 @@ Section 33
 
 ## Annotations
 
-[^key-dfe1ee35f1f6935bcd34816056dcf80f]: Modification: [Sch. 1AB](https://www.legislation.gov.uk/ukpga/1970/9/schedule/1AB) excluded (14.9.2023) by [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) (No. 2) Regulations 2023 (S.I. 2023/912)](https://www.legislation.gov.uk/uksi/2023/912), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2), [41(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/41/2) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/3))
+[^c-dfe1ee35f1f6935bcd34816056dcf80f]: Modification: [Sch. 1AB](https://www.legislation.gov.uk/ukpga/1970/9/schedule/1AB) excluded (14.9.2023) by [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) (No. 2) Regulations 2023 (S.I. 2023/912)](https://www.legislation.gov.uk/uksi/2023/912), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2), [41(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/41/2) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/3))
 
-[^key-f932326208a8886e7c98bce8bbec3e50]: Modification: [Sch. 1AB](https://www.legislation.gov.uk/ukpga/1970/9/schedule/1AB) excluded (for the tax year 2023-24 and subsequent tax years) by [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2025 (S.I. 2025/419)](https://www.legislation.gov.uk/uksi/2025/419), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/419/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/419/regulation/1/3), [7(8)](https://www.legislation.gov.uk/uksi/2025/419/regulation/7/8)
+[^c-f932326208a8886e7c98bce8bbec3e50]: Modification: [Sch. 1AB](https://www.legislation.gov.uk/ukpga/1970/9/schedule/1AB) excluded (for the tax year 2023-24 and subsequent tax years) by [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2025 (S.I. 2025/419)](https://www.legislation.gov.uk/uksi/2025/419), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/419/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/419/regulation/1/3), [7(8)](https://www.legislation.gov.uk/uksi/2025/419/regulation/7/8)
 
-[^key-191b3e263bf511836474f28e15e88b06]: Textual amendment: Sch. 1AB inserted (with effect in accordance with s. 100(2) of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 52 para. 2](https://www.legislation.gov.uk/ukpga/2009/10/schedule/52/paragraph/2) (with [Sch. 52 paras. 10](https://www.legislation.gov.uk/ukpga/2009/10/schedule/52/paragraph/10), [11](https://www.legislation.gov.uk/ukpga/2009/10/schedule/52/paragraph/11))
+[^c-191b3e263bf511836474f28e15e88b06]: Textual amendment: Sch. 1AB inserted (with effect in accordance with s. 100(2) of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 52 para. 2](https://www.legislation.gov.uk/ukpga/2009/10/schedule/52/paragraph/2) (with [Sch. 52 paras. 10](https://www.legislation.gov.uk/ukpga/2009/10/schedule/52/paragraph/10), [11](https://www.legislation.gov.uk/ukpga/2009/10/schedule/52/paragraph/11))
 
-[^key-eb29e470409c222a873968802623f295]: Textual amendment: Words in Sch. 1AB para. 2(1) substituted (with effect in accordance with art. 5 of the amending S.I.) by [The Enactment of Extra-Statutory Concessions Order 2011 (S.I. 2011/1037)](https://www.legislation.gov.uk/uksi/2011/1037), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1037/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2011/1037/article/2/2)
+[^c-eb29e470409c222a873968802623f295]: Textual amendment: Words in Sch. 1AB para. 2(1) substituted (with effect in accordance with art. 5 of the amending S.I.) by [The Enactment of Extra-Statutory Concessions Order 2011 (S.I. 2011/1037)](https://www.legislation.gov.uk/uksi/2011/1037), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1037/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2011/1037/article/2/2)
 
-[^key-d76e9dd875dbb3ef0eac1e3d4a67a5ec]: Textual amendment: [Sch. 1AB para. 2(9A)](https://www.legislation.gov.uk/ukpga/1970/9/schedule/1AB/paragraph/2/9A)[(9B)](https://www.legislation.gov.uk/ukpga/1970/9/schedule/1AB/paragraph/2/9B) inserted (with effect in accordance with s. 231(5) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 231(1)](https://www.legislation.gov.uk/ukpga/2013/29/section/231/1)
+[^c-d76e9dd875dbb3ef0eac1e3d4a67a5ec]: Textual amendment: [Sch. 1AB para. 2(9A)](https://www.legislation.gov.uk/ukpga/1970/9/schedule/1AB/paragraph/2/9A)[(9B)](https://www.legislation.gov.uk/ukpga/1970/9/schedule/1AB/paragraph/2/9B) inserted (with effect in accordance with s. 231(5) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 231(1)](https://www.legislation.gov.uk/ukpga/2013/29/section/231/1)
 
-[^key-a9d6e9fdc0155b06b133bf83daf1cd07]: Textual amendment: Words in [Sch. 1AB para. 3(3)](https://www.legislation.gov.uk/ukpga/1970/9/schedule/1AB/paragraph/3/3) inserted (with effect in accordance with s. 232(4) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 232(1)](https://www.legislation.gov.uk/ukpga/2013/29/section/232/1)
+[^c-a9d6e9fdc0155b06b133bf83daf1cd07]: Textual amendment: Words in [Sch. 1AB para. 3(3)](https://www.legislation.gov.uk/ukpga/1970/9/schedule/1AB/paragraph/3/3) inserted (with effect in accordance with s. 232(4) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 232(1)](https://www.legislation.gov.uk/ukpga/2013/29/section/232/1)
 
-[^key-2d5bbb5331c810a282e794eb39d157ff]: Textual amendment: Sch. 1AB para. 3(5) inserted (with effect in accordance with art. 5 of the amending S.I.) by [The Enactment of Extra-Statutory Concessions Order 2011 (S.I. 2011/1037)](https://www.legislation.gov.uk/uksi/2011/1037), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1037/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2011/1037/article/2/3)
+[^c-2d5bbb5331c810a282e794eb39d157ff]: Textual amendment: Sch. 1AB para. 3(5) inserted (with effect in accordance with art. 5 of the amending S.I.) by [The Enactment of Extra-Statutory Concessions Order 2011 (S.I. 2011/1037)](https://www.legislation.gov.uk/uksi/2011/1037), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1037/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2011/1037/article/2/3)
 
-[^key-09432bb43b633220e3a89b2f6d407870]: Textual amendment: Sch. 1AB para. 3A and cross-heading inserted (with effect in accordance with arts. 4, 5 of the amending S.I.) by [The Enactment of Extra-Statutory Concessions Order 2011 (S.I. 2011/1037)](https://www.legislation.gov.uk/uksi/2011/1037), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1037/article/1), [2(4)](https://www.legislation.gov.uk/uksi/2011/1037/article/2/4)
+[^c-09432bb43b633220e3a89b2f6d407870]: Textual amendment: Sch. 1AB para. 3A and cross-heading inserted (with effect in accordance with arts. 4, 5 of the amending S.I.) by [The Enactment of Extra-Statutory Concessions Order 2011 (S.I. 2011/1037)](https://www.legislation.gov.uk/uksi/2011/1037), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1037/article/1), [2(4)](https://www.legislation.gov.uk/uksi/2011/1037/article/2/4)

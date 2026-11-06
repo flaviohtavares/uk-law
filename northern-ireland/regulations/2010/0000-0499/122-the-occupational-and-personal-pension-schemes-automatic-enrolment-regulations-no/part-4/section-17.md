@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 17. Information on the right to opt in to pension saving[^key-9593487ea239c00d107db5c6d025f12a]
+## 17. Information on the right to opt in to pension saving[^c-9593487ea239c00d107db5c6d025f12a]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9593487ea239c00d107db5c6d025f12a]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/nisr/2010/122/regulation/17) revoked (6.8.2015) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/310)](https://www.legislation.gov.uk/nisr/2015/310), [regs. 1](https://www.legislation.gov.uk/nisr/2015/310/regulation/1), [14(a)](https://www.legislation.gov.uk/nisr/2015/310/regulation/14/a)
+[^c-9593487ea239c00d107db5c6d025f12a]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/nisr/2010/122/regulation/17) revoked (6.8.2015) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/310)](https://www.legislation.gov.uk/nisr/2015/310), [regs. 1](https://www.legislation.gov.uk/nisr/2015/310/regulation/1), [14(a)](https://www.legislation.gov.uk/nisr/2015/310/regulation/14/a)

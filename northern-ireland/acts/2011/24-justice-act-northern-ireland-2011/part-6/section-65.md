@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 65. Payment of penalty[^key-8446b7d5a4e709a79bf957e80d2125b2]
+## 65. Payment of penalty[^c-8446b7d5a4e709a79bf957e80d2125b2]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8446b7d5a4e709a79bf957e80d2125b2]: Commencement: [S. 65](https://www.legislation.gov.uk/nia/2011/24/section/65) in operation at 6.6.2012 by [S.R. 2012/214](https://www.legislation.gov.uk/nisr/2012/214), [art. 2(m)](https://www.legislation.gov.uk/nisr/2012/214/article/2/m)
+[^c-8446b7d5a4e709a79bf957e80d2125b2]: Commencement: [S. 65](https://www.legislation.gov.uk/nia/2011/24/section/65) in operation at 6.6.2012 by [S.R. 2012/214](https://www.legislation.gov.uk/nisr/2012/214), [art. 2(m)](https://www.legislation.gov.uk/nisr/2012/214/article/2/m)

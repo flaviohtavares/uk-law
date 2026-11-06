@@ -16,19 +16,19 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 112. Meaning of “early tax year”[^key-06f5ca7ee37473a029ed15b411bc3e3b]
+## 112. Meaning of “early tax year”[^c-06f5ca7ee37473a029ed15b411bc3e3b]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-4c665c3973457e3f611bacaf7072684b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-4c665c3973457e3f611bacaf7072684b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-4c665c3973457e3f611bacaf7072684b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-4c665c3973457e3f611bacaf7072684b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-4c665c3973457e3f611bacaf7072684b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-4c665c3973457e3f611bacaf7072684b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-4c665c3973457e3f611bacaf7072684b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-4c665c3973457e3f611bacaf7072684b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-4c665c3973457e3f611bacaf7072684b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-4c665c3973457e3f611bacaf7072684b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) In this Chapter “**early tax year**” means, in relation to an individual carrying on a trade—
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-06f5ca7ee37473a029ed15b411bc3e3b]: Textual amendment: S. 112 heading substituted (retrospective to 6.4.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 4 paras. 13(b)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/13/b), [21](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/21)
+[^c-06f5ca7ee37473a029ed15b411bc3e3b]: Textual amendment: S. 112 heading substituted (retrospective to 6.4.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 4 paras. 13(b)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/13/b), [21](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/21)
 
-[^key-4c665c3973457e3f611bacaf7072684b]: Textual amendment: S. 112(1)-(5) repealed (retrospective to 6.4.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 4 paras. 13(a)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/13/a), [21](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/21), [Sch. 27 Pt. 2(1)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/1)
+[^c-4c665c3973457e3f611bacaf7072684b]: Textual amendment: S. 112(1)-(5) repealed (retrospective to 6.4.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 4 paras. 13(a)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/13/a), [21](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/21), [Sch. 27 Pt. 2(1)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/1)

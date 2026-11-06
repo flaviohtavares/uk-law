@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 248. Co-operation with a view to promoting good behaviour, etc.: England[^key-64c2226f53c3c3ac2927c500b189426a]
+## 248. Co-operation with a view to promoting good behaviour, etc.: England[^c-64c2226f53c3c3ac2927c500b189426a]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-64c2226f53c3c3ac2927c500b189426a]: Textual amendment: S. 248 repealed (15.1.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 6](https://www.legislation.gov.uk/ukpga/2011/21/section/6), [82(2)(a)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/2/a)
+[^c-64c2226f53c3c3ac2927c500b189426a]: Textual amendment: S. 248 repealed (15.1.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 6](https://www.legislation.gov.uk/ukpga/2011/21/section/6), [82(2)(a)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/2/a)

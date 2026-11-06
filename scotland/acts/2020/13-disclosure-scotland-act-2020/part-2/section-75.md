@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 75. Meaning of “protected adult”[^key-356445b656129e827b7ad395c7486778][^key-672839c816c8cf8223549b27a56cd444]
+## 75. Meaning of “protected adult”[^c-356445b656129e827b7ad395c7486778][^c-672839c816c8cf8223549b27a56cd444]
 
 *Extent: S*
 
@@ -75,6 +75,6 @@ summary: ''
 
 ## Annotations
 
-[^key-356445b656129e827b7ad395c7486778]: Commencement: [S. 75](https://www.legislation.gov.uk/asp/2020/13/section/75) in force at 30.9.2024 for specified purposes by [S.S.I. 2024/242](https://www.legislation.gov.uk/ssi/2024/242), [reg. 2](https://www.legislation.gov.uk/ssi/2024/242/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/242/schedule)
+[^c-356445b656129e827b7ad395c7486778]: Commencement: [S. 75](https://www.legislation.gov.uk/asp/2020/13/section/75) in force at 30.9.2024 for specified purposes by [S.S.I. 2024/242](https://www.legislation.gov.uk/ssi/2024/242), [reg. 2](https://www.legislation.gov.uk/ssi/2024/242/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/242/schedule)
 
-[^key-672839c816c8cf8223549b27a56cd444]: Commencement: [S. 75](https://www.legislation.gov.uk/asp/2020/13/section/75) in force at 1.4.2025 in so far as not already in force by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+[^c-672839c816c8cf8223549b27a56cd444]: Commencement: [S. 75](https://www.legislation.gov.uk/asp/2020/13/section/75) in force at 1.4.2025 in so far as not already in force by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)

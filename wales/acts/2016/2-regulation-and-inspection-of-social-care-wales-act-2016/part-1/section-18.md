@@ -16,18 +16,18 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Notice of proposal[^key-122e0a2a32a3f7ab4cba30f063edcbde]
+## 18. Notice of proposal[^c-122e0a2a32a3f7ab4cba30f063edcbde]
 
 *Extent: E+W*
 
 (1) This section applies where the Welsh Ministers propose to—
 
 - (a) grant an application for registration as a service provider subject to a condition that has not been agreed in writing with the applicant,
-- (b) refuse an application for registration or for variation of registration as a service provider, [^key-e3b007833cbf5ee1c27d848a7fa09e6a]...
+- (b) refuse an application for registration or for variation of registration as a service provider, [^c-e3b007833cbf5ee1c27d848a7fa09e6a]...
 - (c) vary the registration of a service provider other than—
   - (i) in accordance with an application for variation made under section 11, or
-  - (ii) under section 13(3)(b) or (4)(b), (ba) or (c), 23(1)(b) or 25(2)(a), or[^key-6d8d20b22ca384b1a5742a3745aa6526]
-- (d)[^key-f11f0d4e42640da5fbdfb2a2541ca58a] cancel the registration of a service provider‍ other than under section 15(1)(c), (d), (e) and (f).
+  - (ii) under section 13(3)(b) or (4)(b), (ba) or (c), 23(1)(b) or 25(2)(a), or[^c-6d8d20b22ca384b1a5742a3745aa6526]
+- (d)[^c-f11f0d4e42640da5fbdfb2a2541ca58a] cancel the registration of a service provider‍ other than under section 15(1)(c), (d), (e) and (f).
 
 (2) The Welsh Ministers must give a notice of the proposal to the service provider—
 
@@ -41,10 +41,10 @@ summary: ''
 
 ## Annotations
 
-[^key-122e0a2a32a3f7ab4cba30f063edcbde]: Commencement: S. 18 in force at 2.4.2018 by [S.I. 2017/1326](https://www.legislation.gov.uk/wsi/2017/1326), [art. 2(3)(d)](https://www.legislation.gov.uk/wsi/2017/1326/article/2/3/d)
+[^c-122e0a2a32a3f7ab4cba30f063edcbde]: Commencement: S. 18 in force at 2.4.2018 by [S.I. 2017/1326](https://www.legislation.gov.uk/wsi/2017/1326), [art. 2(3)(d)](https://www.legislation.gov.uk/wsi/2017/1326/article/2/3/d)
 
-[^key-e3b007833cbf5ee1c27d848a7fa09e6a]: Textual amendment: Word in [s. 18(1)(b)](https://www.legislation.gov.uk/anaw/2016/2/section/18/1/b) omitted (25.3.2025) by virtue of [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [s. 29(1)(a)(ii)](https://www.legislation.gov.uk/asc/2025/1/section/29/1/a/ii), [Sch. 1 para. 7(4)(a)](https://www.legislation.gov.uk/asc/2025/1/schedule/1/paragraph/7/4/a)
+[^c-e3b007833cbf5ee1c27d848a7fa09e6a]: Textual amendment: Word in [s. 18(1)(b)](https://www.legislation.gov.uk/anaw/2016/2/section/18/1/b) omitted (25.3.2025) by virtue of [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [s. 29(1)(a)(ii)](https://www.legislation.gov.uk/asc/2025/1/section/29/1/a/ii), [Sch. 1 para. 7(4)(a)](https://www.legislation.gov.uk/asc/2025/1/schedule/1/paragraph/7/4/a)
 
-[^key-6d8d20b22ca384b1a5742a3745aa6526]: Textual amendment: Words in [s. 18(1)(c)(ii)](https://www.legislation.gov.uk/anaw/2016/2/section/18/1/c/ii) substituted (25.3.2025) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [s. 29(1)(a)(ii)](https://www.legislation.gov.uk/asc/2025/1/section/29/1/a/ii), [Sch. 1 para. 7(4)(b)](https://www.legislation.gov.uk/asc/2025/1/schedule/1/paragraph/7/4/b)
+[^c-6d8d20b22ca384b1a5742a3745aa6526]: Textual amendment: Words in [s. 18(1)(c)(ii)](https://www.legislation.gov.uk/anaw/2016/2/section/18/1/c/ii) substituted (25.3.2025) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [s. 29(1)(a)(ii)](https://www.legislation.gov.uk/asc/2025/1/section/29/1/a/ii), [Sch. 1 para. 7(4)(b)](https://www.legislation.gov.uk/asc/2025/1/schedule/1/paragraph/7/4/b)
 
-[^key-f11f0d4e42640da5fbdfb2a2541ca58a]: Textual amendment: [S. 18(1)(d)](https://www.legislation.gov.uk/anaw/2016/2/section/18/1/d) inserted (25.3.2025) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [s. 29(1)(a)(ii)](https://www.legislation.gov.uk/asc/2025/1/section/29/1/a/ii), [Sch. 1 para. 7(4)(c)](https://www.legislation.gov.uk/asc/2025/1/schedule/1/paragraph/7/4/c)
+[^c-f11f0d4e42640da5fbdfb2a2541ca58a]: Textual amendment: [S. 18(1)(d)](https://www.legislation.gov.uk/anaw/2016/2/section/18/1/d) inserted (25.3.2025) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [s. 29(1)(a)(ii)](https://www.legislation.gov.uk/asc/2025/1/section/29/1/a/ii), [Sch. 1 para. 7(4)(c)](https://www.legislation.gov.uk/asc/2025/1/schedule/1/paragraph/7/4/c)

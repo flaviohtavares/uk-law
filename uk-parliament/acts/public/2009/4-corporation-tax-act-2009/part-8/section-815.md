@@ -42,8 +42,8 @@ have the same meaning as if this section were in CAA 2001.
 
 (7) Section 816 makes further provision about elections under this section.
 
-(8)[^key-a51e605e580146f2f738b37d493fd05c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-a51e605e580146f2f738b37d493fd05c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a51e605e580146f2f738b37d493fd05c]: Textual amendment: S. 815(8) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 177](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/177)
+[^c-a51e605e580146f2f738b37d493fd05c]: Textual amendment: S. 815(8) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 177](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/177)

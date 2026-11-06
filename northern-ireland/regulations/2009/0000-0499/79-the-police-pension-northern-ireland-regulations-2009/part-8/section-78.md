@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 78. Payment and duration of awards[^key-d22ae076f6eb055afa3d392cfc8f9f76]
+## 78. Payment and duration of awards[^c-d22ae076f6eb055afa3d392cfc8f9f76]
 
 *Extent: N.I.*
 
@@ -48,4 +48,4 @@ a pension shall be payable for life and shall be discharged by payments in advan
 
 ## Annotations
 
-[^key-d22ae076f6eb055afa3d392cfc8f9f76]: Commencement: Reg. 78 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
+[^c-d22ae076f6eb055afa3d392cfc8f9f76]: Commencement: Reg. 78 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)

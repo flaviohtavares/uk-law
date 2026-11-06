@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Meaning of “owned or controlled directly or indirectly”[^key-15d0ef125035683c25defa5c8bf3973b][^key-3668cc5a6383f53f97cbdf23e2c51e25]
+## 7. Meaning of “owned or controlled directly or indirectly”[^c-15d0ef125035683c25defa5c8bf3973b][^c-3668cc5a6383f53f97cbdf23e2c51e25]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-15d0ef125035683c25defa5c8bf3973b]: Commencement: Reg. 7 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/433/regulation/1/2)
+[^c-15d0ef125035683c25defa5c8bf3973b]: Commencement: Reg. 7 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/433/regulation/1/2)
 
-[^key-3668cc5a6383f53f97cbdf23e2c51e25]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2019/433/regulation/7) in force at 25.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 5(1)(f)](https://www.legislation.gov.uk/uksi/2019/627/regulation/5/1/f)
+[^c-3668cc5a6383f53f97cbdf23e2c51e25]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2019/433/regulation/7) in force at 25.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 5(1)(f)](https://www.legislation.gov.uk/uksi/2019/627/regulation/5/1/f)

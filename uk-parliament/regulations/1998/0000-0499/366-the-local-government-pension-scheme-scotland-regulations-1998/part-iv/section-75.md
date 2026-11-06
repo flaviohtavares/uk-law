@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 75. Accounts and audit[^key-7838c32e88985826595b30ac66aaeb86]
+## 75. Accounts and audit[^c-7838c32e88985826595b30ac66aaeb86]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ to each body whose employees are active members.
 
 ## Annotations
 
-[^key-7838c32e88985826595b30ac66aaeb86]: Commencement: Reg. 75 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-7838c32e88985826595b30ac66aaeb86]: Commencement: Reg. 75 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

@@ -31,28 +31,28 @@ summary: ''
 
 Pensions
 
-The Pensions Act 2004 (Code of Practice) (Governance and Administration of Occupational Trust-based Schemes Providing Money Purchase Benefits) Appointed Day Order 2016 (revoked)[^key-be7a781de82a0c6a9b12c5812e6f9f41]
+The Pensions Act 2004 (Code of Practice) (Governance and Administration of Occupational Trust-based Schemes Providing Money Purchase Benefits) Appointed Day Order 2016 (revoked)[^c-be7a781de82a0c6a9b12c5812e6f9f41]
 
 Made
 
 18th July 2016
 
-[^key-be7a781de82a0c6a9b12c5812e6f9f41]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-be7a781de82a0c6a9b12c5812e6f9f41]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation[^key-be7a781de82a0c6a9b12c5812e6f9f41]
+## 1. Citation[^c-be7a781de82a0c6a9b12c5812e6f9f41]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Appointed day[^key-be7a781de82a0c6a9b12c5812e6f9f41]
+## 2. Appointed day[^c-be7a781de82a0c6a9b12c5812e6f9f41]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-be7a781de82a0c6a9b12c5812e6f9f41]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-be7a781de82a0c6a9b12c5812e6f9f41]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-be7a781de82a0c6a9b12c5812e6f9f41]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-be7a781de82a0c6a9b12c5812e6f9f41]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-be7a781de82a0c6a9b12c5812e6f9f41]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2016/776) revoked (28.3.2024) by [The Pensions Act 2004 (General Code of Practice) (Appointed Day, Amendment and Revocations) Order 2024 (S.I. 2024/431)](https://www.legislation.gov.uk/uksi/2024/431), [art. 4(g)](https://www.legislation.gov.uk/uksi/2024/431/article/4/g)
+[^c-be7a781de82a0c6a9b12c5812e6f9f41]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2016/776) revoked (28.3.2024) by [The Pensions Act 2004 (General Code of Practice) (Appointed Day, Amendment and Revocations) Order 2024 (S.I. 2024/431)](https://www.legislation.gov.uk/uksi/2024/431), [art. 4(g)](https://www.legislation.gov.uk/uksi/2024/431/article/4/g)

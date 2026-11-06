@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 46. Significant events[^key-428c9ffab54561c19c0cdcdabd1fefc1]
+## 46. Significant events[^c-428c9ffab54561c19c0cdcdabd1fefc1]
 
 *Extent: N.I.*
 
@@ -107,7 +107,7 @@ summary: ''
 
 ## Annotations
 
-[^key-428c9ffab54561c19c0cdcdabd1fefc1]: Commencement: Reg. 46 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-428c9ffab54561c19c0cdcdabd1fefc1]: Commencement: Reg. 46 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
 [^f00044]: Footnote: Section 79(2) is amended by regulation 14 of these Regulations
 

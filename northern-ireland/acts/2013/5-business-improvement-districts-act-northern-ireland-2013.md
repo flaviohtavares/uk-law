@@ -231,7 +231,7 @@ The Department may by regulations make provision with respect to the imposition,
 
 ### 16. Duration of BID arrangements etc.
 
-(1)[^key-ab052d4844f0d3330815b66a4ae4a0b4][^key-f1330ae7ba2132ea3684cf434e19a9ae] BID arrangements are to have effect for such period (not exceeding 5 years) as may be specified in the arrangements.
+(1)[^c-ab052d4844f0d3330815b66a4ae4a0b4][^c-f1330ae7ba2132ea3684cf434e19a9ae] BID arrangements are to have effect for such period (not exceeding 5 years) as may be specified in the arrangements.
 
 (2) BID arrangements may be renewed for one or more periods each of which must not exceed 5 years, but only if the renewal of the arrangements on that or each occasion is approved by a ballot.
 
@@ -316,6 +316,6 @@ This Act may be cited as the Business Improvement Districts Act (Northern Irelan
 
 ## Annotations
 
-[^key-ab052d4844f0d3330815b66a4ae4a0b4]: Modification: S. 16(1) restricted (temp.) (25.3.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 80(1)-(4)](https://www.legislation.gov.uk/ukpga/2020/7/section/80/1), [87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1) (with [ss. 80(5)(7)](https://www.legislation.gov.uk/ukpga/2020/7/section/80/5), [88-90](https://www.legislation.gov.uk/ukpga/2020/7/section/88))
+[^c-ab052d4844f0d3330815b66a4ae4a0b4]: Modification: S. 16(1) restricted (temp.) (25.3.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 80(1)-(4)](https://www.legislation.gov.uk/ukpga/2020/7/section/80/1), [87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1) (with [ss. 80(5)(7)](https://www.legislation.gov.uk/ukpga/2020/7/section/80/5), [88-90](https://www.legislation.gov.uk/ukpga/2020/7/section/88))
 
-[^key-f1330ae7ba2132ea3684cf434e19a9ae]: Modification: [S. 16(1)](https://www.legislation.gov.uk/nia/2013/5/section/16/1) expiry of earlier affecting provision 2020 c. 7, s. 80 (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
+[^c-f1330ae7ba2132ea3684cf434e19a9ae]: Modification: [S. 16(1)](https://www.legislation.gov.uk/nia/2013/5/section/16/1) expiry of earlier affecting provision 2020 c. 7, s. 80 (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))

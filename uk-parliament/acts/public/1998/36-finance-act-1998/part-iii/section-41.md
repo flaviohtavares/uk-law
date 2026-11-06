@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-e6698e3e5f0c08dfab4a5b8661700918] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-e6698e3e5f0c08dfab4a5b8661700918] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In section 156 of the [^c16420081]Taxation of Chargeable Gains Act 1992 (replacement of business assets: buildings and land), for subsection (4) substitute—
 
@@ -35,18 +35,18 @@ In those provisions—
 - “**before commencement**” and “**after commencement**” mean, respectively, before 17th March 1998 and on or after that date; and
 - “**the new section 98**” means the section as substituted by subsection (1) above.
 
-(4)[^key-ddf535467b147a498ea95a4c7fa6dfc6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-ddf535467b147a498ea95a4c7fa6dfc6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-ddf535467b147a498ea95a4c7fa6dfc6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-ddf535467b147a498ea95a4c7fa6dfc6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-ddf535467b147a498ea95a4c7fa6dfc6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-ddf535467b147a498ea95a4c7fa6dfc6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-ddf535467b147a498ea95a4c7fa6dfc6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-ddf535467b147a498ea95a4c7fa6dfc6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e6698e3e5f0c08dfab4a5b8661700918]: Textual amendment: [S. 41(1)](https://www.legislation.gov.uk/ukpga/1998/36/section/41/1) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-e6698e3e5f0c08dfab4a5b8661700918]: Textual amendment: [S. 41(1)](https://www.legislation.gov.uk/ukpga/1998/36/section/41/1) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
 [^c16420081]: Marginal citation: [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12).
 
-[^key-ddf535467b147a498ea95a4c7fa6dfc6]: Textual amendment: [S. 41(4)-(7)](https://www.legislation.gov.uk/ukpga/1998/36/section/41/4) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-ddf535467b147a498ea95a4c7fa6dfc6]: Textual amendment: [S. 41(4)-(7)](https://www.legislation.gov.uk/ukpga/1998/36/section/41/4) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

@@ -33,7 +33,7 @@ An Act to amend the law relating to company accounts; to make new provision with
 
 \[16th November 1989\]
 
-[^c13686961]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-1272f1bec7174e5a05c79c89e7b92d2a][^key-e8d98d00c52e064a1114cc989b42abdb][^key-9dba2b872ebf219d8fc595329d41f496]
+[^c13686961]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-1272f1bec7174e5a05c79c89e7b92d2a][^c-e8d98d00c52e064a1114cc989b42abdb][^c-9dba2b872ebf219d8fc595329d41f496]
 
 ## Contents
 
@@ -192,19 +192,19 @@ An Act to amend the law relating to company accounts; to make new provision with
 - [Section 90 — Offences by bodies corporate, partnerships and unincorporated associations.](part-iii/section-90.md)
 - [Section 91 — Jurisdiction and procedure in respect of offences.](part-iii/section-91.md)
 
-### Part IV — Registration of Company Charges[^key-38d9a028e598d4ecb0ce53bd37b914e7]
+### Part IV — Registration of Company Charges[^c-38d9a028e598d4ecb0ce53bd37b914e7]
 
 *Extent: E+W+S+N.I.*
 
 **Not yet in force.**
 
-#### Introduction[^key-38d9a028e598d4ecb0ce53bd37b914e7]
+#### Introduction[^c-38d9a028e598d4ecb0ce53bd37b914e7]
 
 **Not yet in force.**
 
 - [Section 92 — Introduction.](part-iv/section-92.md)
 
-#### Registration in the companies charges register[^key-38d9a028e598d4ecb0ce53bd37b914e7]
+#### Registration in the companies charges register[^c-38d9a028e598d4ecb0ce53bd37b914e7]
 
 **Not yet in force.**
 
@@ -217,13 +217,13 @@ An Act to amend the law relating to company accounts; to make new provision with
 - [Section 99 — Further provisions with respect to voidness of charges.](part-iv/section-99.md)
 - [Section 100 — Additional information to be registered.](part-iv/section-100.md)
 
-#### Copies of instruments and register to be kept by the company[^key-38d9a028e598d4ecb0ce53bd37b914e7]
+#### Copies of instruments and register to be kept by the company[^c-38d9a028e598d4ecb0ce53bd37b914e7]
 
 **Not yet in force.**
 
 - [Section 101 — Copies of instruments and register to be kept by the company](part-iv/section-101.md)
 
-#### Supplementary provisions[^key-38d9a028e598d4ecb0ce53bd37b914e7]
+#### Supplementary provisions[^c-38d9a028e598d4ecb0ce53bd37b914e7]
 
 **Not yet in force.**
 
@@ -314,7 +314,7 @@ An Act to amend the law relating to company accounts; to make new provision with
 
 - [Section 154 — Introduction.](part-vii/section-154.md)
 
-#### Recognised bodies[^key-9614e90c637f3915b0c101967cb3c956]
+#### Recognised bodies[^c-9614e90c637f3915b0c101967cb3c956]
 
 *Extent: E+W+S+N.I.*
 
@@ -459,11 +459,11 @@ SCHEDULES
 
 [^c13686961]: Extent: Act extends to Great Britain, but for exceptions see [s. 213](https://www.legislation.gov.uk/ukpga/1989/40/section/213).
 
-[^key-1272f1bec7174e5a05c79c89e7b92d2a]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1989/40) modified (21.2.2009) by [The Banking Act 2009 (Parts 2 and 3 Consequential Amendments) Order 2009 (S.I. 2009/317)](https://www.legislation.gov.uk/uksi/2009/317), [arts. 1](https://www.legislation.gov.uk/uksi/2009/317/article/1), [3](https://www.legislation.gov.uk/uksi/2009/317/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2009/317/schedule)
+[^c-1272f1bec7174e5a05c79c89e7b92d2a]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1989/40) modified (21.2.2009) by [The Banking Act 2009 (Parts 2 and 3 Consequential Amendments) Order 2009 (S.I. 2009/317)](https://www.legislation.gov.uk/uksi/2009/317), [arts. 1](https://www.legislation.gov.uk/uksi/2009/317/article/1), [3](https://www.legislation.gov.uk/uksi/2009/317/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2009/317/schedule)
 
-[^key-e8d98d00c52e064a1114cc989b42abdb]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1989/40) applied (with modifications) (8.2.2011) by [The Investment Bank Special Administration Regulations 2011 (S.I. 2011/245)](https://www.legislation.gov.uk/uksi/2011/245), [reg. 1](https://www.legislation.gov.uk/uksi/2011/245/regulation/1), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2011/245/schedule/6/part/1) (with [reg. 27(a)](https://www.legislation.gov.uk/uksi/2011/245/regulation/27/a))
+[^c-e8d98d00c52e064a1114cc989b42abdb]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1989/40) applied (with modifications) (8.2.2011) by [The Investment Bank Special Administration Regulations 2011 (S.I. 2011/245)](https://www.legislation.gov.uk/uksi/2011/245), [reg. 1](https://www.legislation.gov.uk/uksi/2011/245/regulation/1), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2011/245/schedule/6/part/1) (with [reg. 27(a)](https://www.legislation.gov.uk/uksi/2011/245/regulation/27/a))
 
-[^key-9dba2b872ebf219d8fc595329d41f496]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1989/40) applied (with modifications) (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/2), [3](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5)) (as amended (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4))
+[^c-9dba2b872ebf219d8fc595329d41f496]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1989/40) applied (with modifications) (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/2), [3](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5)) (as amended (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4))
 
 [^c13687261]: Modification: [Pt. II](https://www.legislation.gov.uk/ukpga/1989/40/part/II) (ss. 24-54) applied (with modifications) (E.W.S.) (20.10.1993) by [1993 c. xi](https://www.legislation.gov.uk/ukla/1993/11), [ss. 1(2)](https://www.legislation.gov.uk/ukla/1993/11/section/1/2), [6(4)](https://www.legislation.gov.uk/ukla/1993/11/section/6/4)
 
@@ -481,7 +481,7 @@ SCHEDULES
 
 [^c18763411]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/1989/40/part/2) (ss. 24-54): functions of the Secretary of State transferred to the designated body (E.W.S) (5.9.2005) by [The Companies Act 1989 (Delegation) Order 2005 (S.I. 2005/2337)](https://www.legislation.gov.uk/uksi/2005/2337), [art. 3](https://www.legislation.gov.uk/uksi/2005/2337/article/3) (with [arts. 7-10](https://www.legislation.gov.uk/uksi/2005/2337/article/7))
 
-[^key-38d9a028e598d4ecb0ce53bd37b914e7]: Textual amendment: [Pt. IV](https://www.legislation.gov.uk/ukpga/1989/40/part/IV) repealed (1.10.2009) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [ss. 1180](https://www.legislation.gov.uk/ukpga/2006/46/section/1180), [1300(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/2), [Sch. 16](https://www.legislation.gov.uk/ukpga/2006/46/schedule/16); [S.I. 2008/2860](https://www.legislation.gov.uk/uksi/2008/2860), [art. 3(v)](https://www.legislation.gov.uk/uksi/2008/2860/article/3/v) (with [arts. 7](https://www.legislation.gov.uk/uksi/2008/2860/article/7), [8](https://www.legislation.gov.uk/uksi/2008/2860/article/8), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/1))
+[^c-38d9a028e598d4ecb0ce53bd37b914e7]: Textual amendment: [Pt. IV](https://www.legislation.gov.uk/ukpga/1989/40/part/IV) repealed (1.10.2009) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [ss. 1180](https://www.legislation.gov.uk/ukpga/2006/46/section/1180), [1300(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/2), [Sch. 16](https://www.legislation.gov.uk/ukpga/2006/46/schedule/16); [S.I. 2008/2860](https://www.legislation.gov.uk/uksi/2008/2860), [art. 3(v)](https://www.legislation.gov.uk/uksi/2008/2860/article/3/v) (with [arts. 7](https://www.legislation.gov.uk/uksi/2008/2860/article/7), [8](https://www.legislation.gov.uk/uksi/2008/2860/article/8), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/1))
 
 [^c13693561]: Modification: [Pt. VII](https://www.legislation.gov.uk/ukpga/1989/40/part/VII) (ss. 154-191): functions of the Secretary of State transferred (7.6.1992) to the Treasury by [S.I. 1992/1315](https://www.legislation.gov.uk/uksi/1992/1315), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/1992/1315/article/2/1/c) (with [art. 6](https://www.legislation.gov.uk/uksi/1992/1315/article/6))
 
@@ -489,6 +489,6 @@ SCHEDULES
 
 [^c13693571]: Modification: [Pt. VII](https://www.legislation.gov.uk/ukpga/1989/40/part/VII): power to apply conferred (1.12.2001) by [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8), [s. 301(1)(a)](https://www.legislation.gov.uk/ukpga/2000/8/section/301/1/a); [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/3538/article/2/1)
 
-[^key-9614e90c637f3915b0c101967cb3c956]: Textual amendment: [S. 155 cross-heading](https://www.legislation.gov.uk/ukpga/1989/40/part/VII/crossheading/recognised-investment-exchanges-and-clearing-houses) substituted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/3/2) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+[^c-9614e90c637f3915b0c101967cb3c956]: Textual amendment: [S. 155 cross-heading](https://www.legislation.gov.uk/ukpga/1989/40/part/VII/crossheading/recognised-investment-exchanges-and-clearing-houses) substituted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/3/2) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
 
 [^c13697441]: Modification: Part IX (s. 207): functions of the Secretary of State transferred (7.6.1992) to the Treasury by [S.I. 1992/1315](https://www.legislation.gov.uk/uksi/1992/1315), [art. 2(1)](https://www.legislation.gov.uk/uksi/1992/1315/article/2/1) (with [art. 6](https://www.legislation.gov.uk/uksi/1992/1315/article/6)).

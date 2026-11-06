@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 110. Disposal of interest in land in exchange for works on the land[^key-62b41aef9da097280b6f2e88512b61a6]
+## 110. Disposal of interest in land in exchange for works on the land[^c-62b41aef9da097280b6f2e88512b61a6]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ In the case of non-monetary consideration received in respect of a disposal of a
 
 ## Annotations
 
-[^key-62b41aef9da097280b6f2e88512b61a6]: Commencement: Reg. 110 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-62b41aef9da097280b6f2e88512b61a6]: Commencement: Reg. 110 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

@@ -29,12 +29,12 @@ summary: ''
 
 and shall be subject to any regulations and restrictions which may be imposed by the Common Council.
 
-(3)[^key-1eeb642188c86db3e5a45954c7bc5b1f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-1eeb642188c86db3e5a45954c7bc5b1f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-555ffe32d5870ef292a02fdec553da58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-555ffe32d5870ef292a02fdec553da58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1eeb642188c86db3e5a45954c7bc5b1f]: Textual amendment: [S. 224(3)](https://www.legislation.gov.uk/ukpga/1996/52/section/224/3) omitted (26.12.2023) by virtue of [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 83(2)](https://www.legislation.gov.uk/ukpga/2023/55/section/83/2), [255(2)(s)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/s) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-1eeb642188c86db3e5a45954c7bc5b1f]: Textual amendment: [S. 224(3)](https://www.legislation.gov.uk/ukpga/1996/52/section/224/3) omitted (26.12.2023) by virtue of [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 83(2)](https://www.legislation.gov.uk/ukpga/2023/55/section/83/2), [255(2)(s)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/s) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
-[^key-555ffe32d5870ef292a02fdec553da58]: Textual amendment: [S. 224(4)](https://www.legislation.gov.uk/ukpga/1996/52/section/224/4) omitted (26.12.2023) by virtue of [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 83(2)](https://www.legislation.gov.uk/ukpga/2023/55/section/83/2), [255(2)(s)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/s) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-555ffe32d5870ef292a02fdec553da58]: Textual amendment: [S. 224(4)](https://www.legislation.gov.uk/ukpga/1996/52/section/224/4) omitted (26.12.2023) by virtue of [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 83(2)](https://www.legislation.gov.uk/ukpga/2023/55/section/83/2), [255(2)(s)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/s) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))

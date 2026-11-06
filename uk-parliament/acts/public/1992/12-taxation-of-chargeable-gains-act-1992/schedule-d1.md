@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule D1 — Relief for new residents on foreign gains[^key-dd71dfaa894dec8fbfd9fd2aeafb3e65]
+## Schedule D1 — Relief for new residents on foreign gains[^c-dd71dfaa894dec8fbfd9fd2aeafb3e65]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,7 +44,7 @@ Section 1A(2)(za)
 
 (1) Where an individual makes a foreign gain claim for a tax year, the individual is entitled to relief for each qualifying foreign gain accruing to the individual in that year that is identified in the claim.
 
-(2) The relief is given by deducting an amount equal to the sum of those gains from the total amount of qualifying foreign[^key-46c9dbe4938017d48f7e137316519bfe] gains accruing to the individual in that tax year[^key-294385b9c4b4fd5a565c1a4834057df1].
+(2) The relief is given by deducting an amount equal to the sum of those gains from the total amount of qualifying foreign[^c-46c9dbe4938017d48f7e137316519bfe] gains accruing to the individual in that tax year[^c-294385b9c4b4fd5a565c1a4834057df1].
 
 ### 3. Relief in respect of deemed gains under section 86
 
@@ -98,19 +98,19 @@ In this Schedule—
 
   but a chargeable gain falling within paragraph (a) or (b) is not a qualifying foreign gain if it is a gain to which paragraph 1(2) of Schedule 1 applies (pre-2025-26 gains subject to the remittance basis);
 - “**qualifying foreign loss**” means a loss accruing on the disposal of an asset that is a qualifying foreign asset;
-- “**qualifying QAHC gain**” means the foreign proportion (see paragraph 46(4) to (6) of Schedule 2 to FA 2022) of a chargeable gain accruing to an individual who provided investment management services in connection with investment arrangements to which a QAHC is party[^key-b3c94dc4b1d78fe491e4555526f00fe7] on the disposal of shares in the QAHC that were acquired during the course of the provision of those services[^key-353761ab8a5f8f6a9d2689383e26a25e];
-- “[^key-30540ab5724f2c36944f4ac06675be5b]**QAHC**” and “investment management services” have the meanings they have in that Schedule.
+- “**qualifying QAHC gain**” means the foreign proportion (see paragraph 46(4) to (6) of Schedule 2 to FA 2022) of a chargeable gain accruing to an individual who provided investment management services in connection with investment arrangements to which a QAHC is party[^c-b3c94dc4b1d78fe491e4555526f00fe7] on the disposal of shares in the QAHC that were acquired during the course of the provision of those services[^c-353761ab8a5f8f6a9d2689383e26a25e];
+- “[^c-30540ab5724f2c36944f4ac06675be5b]**QAHC**” and “investment management services” have the meanings they have in that Schedule.
 
 ## Annotations
 
-[^key-dd71dfaa894dec8fbfd9fd2aeafb3e65]: Textual amendment: Sch. D1 inserted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 39(2)](https://www.legislation.gov.uk/ukpga/2025/8/section/39/2)[(11)](https://www.legislation.gov.uk/ukpga/2025/8/section/39/11)
+[^c-dd71dfaa894dec8fbfd9fd2aeafb3e65]: Textual amendment: Sch. D1 inserted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 39(2)](https://www.legislation.gov.uk/ukpga/2025/8/section/39/2)[(11)](https://www.legislation.gov.uk/ukpga/2025/8/section/39/11)
 
-[^key-46c9dbe4938017d48f7e137316519bfe]: Textual amendment: Words in Sch. D1 para. 2(2) substituted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 para. 1(4)(a)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/1/4/a)[(5)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/1/5)
+[^c-46c9dbe4938017d48f7e137316519bfe]: Textual amendment: Words in Sch. D1 para. 2(2) substituted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 para. 1(4)(a)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/1/4/a)[(5)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/1/5)
 
-[^key-294385b9c4b4fd5a565c1a4834057df1]: Textual amendment: Words in [Sch. D1 para. 2(2)](https://www.legislation.gov.uk/ukpga/1992/12/schedule/D1/paragraph/2/2) inserted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 para. 1(4)(b)(5)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/1/4/b/5)
+[^c-294385b9c4b4fd5a565c1a4834057df1]: Textual amendment: Words in [Sch. D1 para. 2(2)](https://www.legislation.gov.uk/ukpga/1992/12/schedule/D1/paragraph/2/2) inserted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 para. 1(4)(b)(5)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/1/4/b/5)
 
-[^key-b3c94dc4b1d78fe491e4555526f00fe7]: Textual amendment: Words in Sch. D1 para. 6 inserted (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 para. 2(2)(a)(i)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/2/2/a/i) (with [Sch. 3 para. 2(4)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/2/4))
+[^c-b3c94dc4b1d78fe491e4555526f00fe7]: Textual amendment: Words in Sch. D1 para. 6 inserted (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 para. 2(2)(a)(i)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/2/2/a/i) (with [Sch. 3 para. 2(4)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/2/4))
 
-[^key-353761ab8a5f8f6a9d2689383e26a25e]: Textual amendment: Words in Sch. D1 para. 6 substituted (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 para. 2(2)(a)(ii)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/2/2/a/ii) (with [Sch. 3 para. 2(4)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/2/4))
+[^c-353761ab8a5f8f6a9d2689383e26a25e]: Textual amendment: Words in Sch. D1 para. 6 substituted (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 para. 2(2)(a)(ii)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/2/2/a/ii) (with [Sch. 3 para. 2(4)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/2/4))
 
-[^key-30540ab5724f2c36944f4ac06675be5b]: Textual amendment: Words in Sch. D1 para. 6 inserted (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 para. 2(2)(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/2/2/b) (with [Sch. 3 para. 2(4)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/2/4))
+[^c-30540ab5724f2c36944f4ac06675be5b]: Textual amendment: Words in Sch. D1 para. 6 inserted (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 para. 2(2)(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/2/2/b) (with [Sch. 3 para. 2(4)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/2/4))

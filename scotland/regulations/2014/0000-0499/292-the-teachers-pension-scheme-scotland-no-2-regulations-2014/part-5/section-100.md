@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 100. Meaning of “entitlement day” (early retirement pension)[^key-172390e58c6ba88f08d118d6f3b52357]
+## 100. Meaning of “entitlement day” (early retirement pension)[^c-172390e58c6ba88f08d118d6f3b52357]
 
 *Extent: S*
 
@@ -33,11 +33,11 @@ summary: ''
 
 (5) Despite paragraphs (2) to (4), the entitlement day must not be before the day on which P—
 
-- (a) reaches normal minimum pension age[^key-e9f989711162a7758efe74bb824b9833]; or
+- (a) reaches normal minimum pension age[^c-e9f989711162a7758efe74bb824b9833]; or
 - (b) leaves all eligible employment.
 
 ## Annotations
 
-[^key-172390e58c6ba88f08d118d6f3b52357]: Commencement: [Reg. 100](https://www.legislation.gov.uk/ssi/2014/292/regulation/100) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-172390e58c6ba88f08d118d6f3b52357]: Commencement: [Reg. 100](https://www.legislation.gov.uk/ssi/2014/292/regulation/100) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
 
-[^key-e9f989711162a7758efe74bb824b9833]: Textual amendment: Words in [reg. 100(5)(a)](https://www.legislation.gov.uk/ssi/2014/292/regulation/100/5/a) substituted (1.4.2015) by [The Teachers’ Pension Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/97)](https://www.legislation.gov.uk/ssi/2015/97), [regs. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1), [10](https://www.legislation.gov.uk/ssi/2015/97/regulation/10)
+[^c-e9f989711162a7758efe74bb824b9833]: Textual amendment: Words in [reg. 100(5)(a)](https://www.legislation.gov.uk/ssi/2014/292/regulation/100/5/a) substituted (1.4.2015) by [The Teachers’ Pension Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/97)](https://www.legislation.gov.uk/ssi/2015/97), [regs. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1), [10](https://www.legislation.gov.uk/ssi/2015/97/regulation/10)

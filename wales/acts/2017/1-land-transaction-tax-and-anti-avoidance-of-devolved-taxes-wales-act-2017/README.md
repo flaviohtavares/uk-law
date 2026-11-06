@@ -38,7 +38,7 @@ An Act of the National Assembly for Wales to make provision about the taxation o
 
 \[24 May 2017\]
 
-**Having been passed by the National Assembly for Wales and having received the assent of Her Majesty, it is enacted as follows:**[^key-a3026e87adbfd809b1d35d109e57b573]
+**Having been passed by the National Assembly for Wales and having received the assent of Her Majesty, it is enacted as follows:**[^c-a3026e87adbfd809b1d35d109e57b573]
 
 ## Contents
 
@@ -248,4 +248,4 @@ An Act of the National Assembly for Wales to make provision about the taxation o
 
 ## Annotations
 
-[^key-a3026e87adbfd809b1d35d109e57b573]: Modification: Act: power to modify conferred (9.9.2022) by [Welsh Tax Acts etc. (Power to Modify) Act 2022 (asc 2)](https://www.legislation.gov.uk/asc/2022/2), [ss. 1](https://www.legislation.gov.uk/asc/2022/2/section/1), [9](https://www.legislation.gov.uk/asc/2022/2/section/9) (with [s. 2(4)-(6)](https://www.legislation.gov.uk/asc/2022/2/section/2/4))
+[^c-a3026e87adbfd809b1d35d109e57b573]: Modification: Act: power to modify conferred (9.9.2022) by [Welsh Tax Acts etc. (Power to Modify) Act 2022 (asc 2)](https://www.legislation.gov.uk/asc/2022/2), [ss. 1](https://www.legislation.gov.uk/asc/2022/2/section/1), [9](https://www.legislation.gov.uk/asc/2022/2/section/9) (with [s. 2(4)-(6)](https://www.legislation.gov.uk/asc/2022/2/section/2/4))

@@ -20,11 +20,11 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-684c16c7085142a2a844d6428d5d89e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-684c16c7085142a2a844d6428d5d89e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-cd8e945bc0da24cf90ac3957bc2df0fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-cd8e945bc0da24cf90ac3957bc2df0fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) Subject to paragraph (4), the conditions referred to in paragraph (5)(a)(i)[^key-e517c68039f220eb34ce8767eec225e3] are that—
+(3) Subject to paragraph (4), the conditions referred to in paragraph (5)(a)(i)[^c-e517c68039f220eb34ce8767eec225e3] are that—
 
 - (a) the person has been resident in Great Britain or Northern Ireland (as the case may be) for a continuous period of not less than three years at any time before the period for which the contributions are to be paid;
 - (b) there have been paid by or on behalf of that person contributions of the appropriate amount—
@@ -37,9 +37,9 @@ summary: ''
 
 - “contributions of the appropriate amount” means contributions under the Act the earnings factor derived from which is not less than 52 times the lower earnings limit for the time being for primary Class 1 contributions;
 - “contributions under either or both the Social Security Act 1975 or the National Insurance Act 1965” means contributions of any class under section 4, 7 or 8 of the Social Security Act 1975 or section 3 of the National Insurance Act 1965 in respect of any period; and
-- “the relevant period” means the period for which it is desired to pay the [^key-7e6b323d5c86e9866bd6d4113d4464e9]... Class 3 contributions specified in paragraph (5)(a)[^key-d868eca0b5389fee3158867e41975d5b].
+- “the relevant period” means the period for which it is desired to pay the [^c-7e6b323d5c86e9866bd6d4113d4464e9]... Class 3 contributions specified in paragraph (5)(a)[^c-d868eca0b5389fee3158867e41975d5b].
 
-(5)[^key-69538dea1fd221790a19424723be1a3a] Subject to paragraphs (8) to (10), regulations 148 and 148A and notwithstanding the provisions of regulation 145(1)(e), a person may pay Class 3 contributions in respect of any tax year beginning after 5th April 2026 which includes a period during which the person is outside the United Kingdom if—
+(5)[^c-69538dea1fd221790a19424723be1a3a] Subject to paragraphs (8) to (10), regulations 148 and 148A and notwithstanding the provisions of regulation 145(1)(e), a person may pay Class 3 contributions in respect of any tax year beginning after 5th April 2026 which includes a period during which the person is outside the United Kingdom if—
 
 - (a) the person—
   - (i) satisfies the conditions specified in paragraph (3),
@@ -111,14 +111,14 @@ summary: ''
 
 ## Annotations
 
-[^key-684c16c7085142a2a844d6428d5d89e5]: Textual amendment: [Reg. 147(1)](https://www.legislation.gov.uk/uksi/2001/1004/regulation/147/1) omitted (6.4.2026) by virtue of [The Social Security (Contributions) (Amendment No. 2) Regulations 2026 (S.I. 2026/294)](https://www.legislation.gov.uk/uksi/2026/294), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2026/294/regulation/1/b), [2(2)(a)](https://www.legislation.gov.uk/uksi/2026/294/regulation/2/2/a) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2026/294/regulation/1/c))
+[^c-684c16c7085142a2a844d6428d5d89e5]: Textual amendment: [Reg. 147(1)](https://www.legislation.gov.uk/uksi/2001/1004/regulation/147/1) omitted (6.4.2026) by virtue of [The Social Security (Contributions) (Amendment No. 2) Regulations 2026 (S.I. 2026/294)](https://www.legislation.gov.uk/uksi/2026/294), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2026/294/regulation/1/b), [2(2)(a)](https://www.legislation.gov.uk/uksi/2026/294/regulation/2/2/a) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2026/294/regulation/1/c))
 
-[^key-cd8e945bc0da24cf90ac3957bc2df0fa]: Textual amendment: [Reg. 147(2)](https://www.legislation.gov.uk/uksi/2001/1004/regulation/147/2) omitted (6.4.2026) by virtue of [The Social Security (Contributions) (Amendment No. 2) Regulations 2026 (S.I. 2026/294)](https://www.legislation.gov.uk/uksi/2026/294), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2026/294/regulation/1/b), [2(2)(a)](https://www.legislation.gov.uk/uksi/2026/294/regulation/2/2/a) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2026/294/regulation/1/c))
+[^c-cd8e945bc0da24cf90ac3957bc2df0fa]: Textual amendment: [Reg. 147(2)](https://www.legislation.gov.uk/uksi/2001/1004/regulation/147/2) omitted (6.4.2026) by virtue of [The Social Security (Contributions) (Amendment No. 2) Regulations 2026 (S.I. 2026/294)](https://www.legislation.gov.uk/uksi/2026/294), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2026/294/regulation/1/b), [2(2)(a)](https://www.legislation.gov.uk/uksi/2026/294/regulation/2/2/a) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2026/294/regulation/1/c))
 
-[^key-e517c68039f220eb34ce8767eec225e3]: Textual amendment: Words in [reg. 147(3)](https://www.legislation.gov.uk/uksi/2001/1004/regulation/147/3) substituted (6.4.2026) by [The Social Security (Contributions) (Amendment No. 2) Regulations 2026 (S.I. 2026/294)](https://www.legislation.gov.uk/uksi/2026/294), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2026/294/regulation/1/b), [2(2)(b)](https://www.legislation.gov.uk/uksi/2026/294/regulation/2/2/b) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2026/294/regulation/1/c))
+[^c-e517c68039f220eb34ce8767eec225e3]: Textual amendment: Words in [reg. 147(3)](https://www.legislation.gov.uk/uksi/2001/1004/regulation/147/3) substituted (6.4.2026) by [The Social Security (Contributions) (Amendment No. 2) Regulations 2026 (S.I. 2026/294)](https://www.legislation.gov.uk/uksi/2026/294), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2026/294/regulation/1/b), [2(2)(b)](https://www.legislation.gov.uk/uksi/2026/294/regulation/2/2/b) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2026/294/regulation/1/c))
 
-[^key-7e6b323d5c86e9866bd6d4113d4464e9]: Textual amendment: Words in [reg. 147(4)](https://www.legislation.gov.uk/uksi/2001/1004/regulation/147/4) omitted (6.4.2026) by virtue of [The Social Security (Contributions) (Amendment No. 2) Regulations 2026 (S.I. 2026/294)](https://www.legislation.gov.uk/uksi/2026/294), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2026/294/regulation/1/b), [2(2)(c)](https://www.legislation.gov.uk/uksi/2026/294/regulation/2/2/c) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2026/294/regulation/1/c))
+[^c-7e6b323d5c86e9866bd6d4113d4464e9]: Textual amendment: Words in [reg. 147(4)](https://www.legislation.gov.uk/uksi/2001/1004/regulation/147/4) omitted (6.4.2026) by virtue of [The Social Security (Contributions) (Amendment No. 2) Regulations 2026 (S.I. 2026/294)](https://www.legislation.gov.uk/uksi/2026/294), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2026/294/regulation/1/b), [2(2)(c)](https://www.legislation.gov.uk/uksi/2026/294/regulation/2/2/c) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2026/294/regulation/1/c))
 
-[^key-d868eca0b5389fee3158867e41975d5b]: Textual amendment: Word in [reg. 147(4)](https://www.legislation.gov.uk/uksi/2001/1004/regulation/147/4) substituted (6.4.2026) by [The Social Security (Contributions) (Amendment No. 2) Regulations 2026 (S.I. 2026/294)](https://www.legislation.gov.uk/uksi/2026/294), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2026/294/regulation/1/b), [2(2)(c)](https://www.legislation.gov.uk/uksi/2026/294/regulation/2/2/c) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2026/294/regulation/1/c))
+[^c-d868eca0b5389fee3158867e41975d5b]: Textual amendment: Word in [reg. 147(4)](https://www.legislation.gov.uk/uksi/2001/1004/regulation/147/4) substituted (6.4.2026) by [The Social Security (Contributions) (Amendment No. 2) Regulations 2026 (S.I. 2026/294)](https://www.legislation.gov.uk/uksi/2026/294), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2026/294/regulation/1/b), [2(2)(c)](https://www.legislation.gov.uk/uksi/2026/294/regulation/2/2/c) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2026/294/regulation/1/c))
 
-[^key-69538dea1fd221790a19424723be1a3a]: Textual amendment: [Reg. 147(5)-(12)](https://www.legislation.gov.uk/uksi/2001/1004/regulation/147/5) inserted (6.4.2026) by [The Social Security (Contributions) (Amendment No. 2) Regulations 2026 (S.I. 2026/294)](https://www.legislation.gov.uk/uksi/2026/294), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2026/294/regulation/1/b), [2(2)(d)](https://www.legislation.gov.uk/uksi/2026/294/regulation/2/2/d) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2026/294/regulation/1/c))
+[^c-69538dea1fd221790a19424723be1a3a]: Textual amendment: [Reg. 147(5)-(12)](https://www.legislation.gov.uk/uksi/2001/1004/regulation/147/5) inserted (6.4.2026) by [The Social Security (Contributions) (Amendment No. 2) Regulations 2026 (S.I. 2026/294)](https://www.legislation.gov.uk/uksi/2026/294), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2026/294/regulation/1/b), [2(2)(d)](https://www.legislation.gov.uk/uksi/2026/294/regulation/2/2/d) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2026/294/regulation/1/c))

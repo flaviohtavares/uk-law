@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 150. Offence of aiding or abetting etc a person to carry out hymenoplasty: England and Wales[^key-fd8723ecb3da738556ce3369e09e2b60][^key-f742d5e12ee960941253b40a173985dc]
+## 150. Offence of aiding or abetting etc a person to carry out hymenoplasty: England and Wales[^c-fd8723ecb3da738556ce3369e09e2b60][^c-f742d5e12ee960941253b40a173985dc]
 
 *Extent: E+W*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fd8723ecb3da738556ce3369e09e2b60]: Commencement: S. 150 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-fd8723ecb3da738556ce3369e09e2b60]: Commencement: S. 150 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-f742d5e12ee960941253b40a173985dc]: Commencement: [S. 150](https://www.legislation.gov.uk/ukpga/2022/31/section/150) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-f742d5e12ee960941253b40a173985dc]: Commencement: [S. 150](https://www.legislation.gov.uk/ukpga/2022/31/section/150) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

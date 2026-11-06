@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Duty to keep commitments under review[^key-199fb438561825348364dd5681d2fa32][^key-bf4b66c60256fd3909dc1bd894f2fc60]
+## 37. Duty to keep commitments under review[^c-199fb438561825348364dd5681d2fa32][^c-bf4b66c60256fd3909dc1bd894f2fc60]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ The CMA must keep under review—
 
 ## Annotations
 
-[^key-199fb438561825348364dd5681d2fa32]: Commencement: S. 37 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-199fb438561825348364dd5681d2fa32]: Commencement: S. 37 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-bf4b66c60256fd3909dc1bd894f2fc60]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2024/13/section/37) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-bf4b66c60256fd3909dc1bd894f2fc60]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2024/13/section/37) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

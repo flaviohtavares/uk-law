@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 62.16. Service out of the jurisdiction[^key-61ad487b8f6703fe6a308989f3dd26b8]
+## 62.16. Service out of the jurisdiction[^c-61ad487b8f6703fe6a308989f3dd26b8]
 
 *Extent: E+W*
 
@@ -37,12 +37,12 @@ may be served out of the jurisdiction with the permission of the court if the ar
 - (a) stating the grounds on which the application is made; and
 - (b) showing in what place or country the person to be served is, or probably may be found.
 
-(4) Rules 6.40 to 6.46[^key-22fa83e3fc8659702437b8cc9e1edcfd] apply to the service of an arbitration claim form under paragraph (1).
+(4) Rules 6.40 to 6.46[^c-22fa83e3fc8659702437b8cc9e1edcfd] apply to the service of an arbitration claim form under paragraph (1).
 
 (5) An order giving permission to serve an arbitration claim form out of the jursidiction must specify the period within which the defendant may file an acknowledgment of service.
 
 ## Annotations
 
-[^key-61ad487b8f6703fe6a308989f3dd26b8]: Textual amendment: Pt. 62 inserted (25.3.2002) by [The Civil Procedure (Amendment No. 5) Rules 2001 (S.I. 2001/4015)](https://www.legislation.gov.uk/uksi/2001/4015), [rule 1(c)](https://www.legislation.gov.uk/uksi/2001/4015/rule/1/c), [Sch. 6](https://www.legislation.gov.uk/uksi/2001/4015/schedule/6)
+[^c-61ad487b8f6703fe6a308989f3dd26b8]: Textual amendment: Pt. 62 inserted (25.3.2002) by [The Civil Procedure (Amendment No. 5) Rules 2001 (S.I. 2001/4015)](https://www.legislation.gov.uk/uksi/2001/4015), [rule 1(c)](https://www.legislation.gov.uk/uksi/2001/4015/rule/1/c), [Sch. 6](https://www.legislation.gov.uk/uksi/2001/4015/schedule/6)
 
-[^key-22fa83e3fc8659702437b8cc9e1edcfd]: Textual amendment: Words in [rule 62.16(4)](https://www.legislation.gov.uk/uksi/1998/3132/rule/62.16/4) substituted (1.10.2008) by [The Civil Procedure (Amendment) Rules 2008 (S.I. 2008/2178)](https://www.legislation.gov.uk/uksi/2008/2178), [rules 1(2)](https://www.legislation.gov.uk/uksi/2008/2178/rule/1/2), [34(b)](https://www.legislation.gov.uk/uksi/2008/2178/rule/34/b)
+[^c-22fa83e3fc8659702437b8cc9e1edcfd]: Textual amendment: Words in [rule 62.16(4)](https://www.legislation.gov.uk/uksi/1998/3132/rule/62.16/4) substituted (1.10.2008) by [The Civil Procedure (Amendment) Rules 2008 (S.I. 2008/2178)](https://www.legislation.gov.uk/uksi/2008/2178), [rules 1(2)](https://www.legislation.gov.uk/uksi/2008/2178/rule/1/2), [34(b)](https://www.legislation.gov.uk/uksi/2008/2178/rule/34/b)

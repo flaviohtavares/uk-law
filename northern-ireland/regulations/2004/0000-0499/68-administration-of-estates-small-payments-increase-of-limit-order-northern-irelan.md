@@ -31,7 +31,7 @@ summary: ''
 
 ADMINISTRATION OF ESTATES
 
-Administration of Estates (Small Payments) (Increase of Limit) Order (Northern Ireland) 2004 (revoked)[^key-3b688ed68b5339aefc4258b66014f0c4]
+Administration of Estates (Small Payments) (Increase of Limit) Order (Northern Ireland) 2004 (revoked)[^c-3b688ed68b5339aefc4258b66014f0c4]
 
 Mades
 
@@ -43,26 +43,26 @@ Coming into operation
 
 16th April 2004
 
-[^key-3b688ed68b5339aefc4258b66014f0c4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3b688ed68b5339aefc4258b66014f0c4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-3b688ed68b5339aefc4258b66014f0c4]
+## 1. Citation and commencement[^c-3b688ed68b5339aefc4258b66014f0c4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Increase of Limit[^key-3b688ed68b5339aefc4258b66014f0c4]
+## 2. Increase of Limit[^c-3b688ed68b5339aefc4258b66014f0c4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-3b688ed68b5339aefc4258b66014f0c4]
+## 3. Revocation[^c-3b688ed68b5339aefc4258b66014f0c4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3b688ed68b5339aefc4258b66014f0c4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3b688ed68b5339aefc4258b66014f0c4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3b688ed68b5339aefc4258b66014f0c4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3b688ed68b5339aefc4258b66014f0c4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3b688ed68b5339aefc4258b66014f0c4]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2004/68) revoked (8.12.2020) by [The Administration of Estates (Small Payments) (Increase of Limit) Order (Northern Ireland) 2020 (S.R. 2020/280)](https://www.legislation.gov.uk/nisr/2020/280), [art. 3](https://www.legislation.gov.uk/nisr/2020/280/article/3)
+[^c-3b688ed68b5339aefc4258b66014f0c4]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2004/68) revoked (8.12.2020) by [The Administration of Estates (Small Payments) (Increase of Limit) Order (Northern Ireland) 2020 (S.R. 2020/280)](https://www.legislation.gov.uk/nisr/2020/280), [art. 3](https://www.legislation.gov.uk/nisr/2020/280/article/3)

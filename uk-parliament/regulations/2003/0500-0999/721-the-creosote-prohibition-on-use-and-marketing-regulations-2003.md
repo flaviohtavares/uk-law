@@ -31,7 +31,7 @@ summary: ''
 
 CONSUMER PROTECTION
 
-The Creosote (Prohibition on Use and Marketing) Regulations 2003 (revoked)[^key-d960ed9b13220777e7b8e1d2e921cec0]
+The Creosote (Prohibition on Use and Marketing) Regulations 2003 (revoked)[^c-d960ed9b13220777e7b8e1d2e921cec0]
 
 Made
 
@@ -45,51 +45,51 @@ Coming into force
 
 30th June 2003
 
-[^key-d960ed9b13220777e7b8e1d2e921cec0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d960ed9b13220777e7b8e1d2e921cec0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation and commencement[^key-d960ed9b13220777e7b8e1d2e921cec0]
-
-**Not yet in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Revocation[^key-d960ed9b13220777e7b8e1d2e921cec0]
+## 1. Citation and commencement[^c-d960ed9b13220777e7b8e1d2e921cec0]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Interpretation[^key-d960ed9b13220777e7b8e1d2e921cec0]
+## 2. Revocation[^c-d960ed9b13220777e7b8e1d2e921cec0]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Prohibition of certain use of a dangerous substance or preparation[^key-d960ed9b13220777e7b8e1d2e921cec0]
+## 3. Interpretation[^c-d960ed9b13220777e7b8e1d2e921cec0]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Supply and marking of a dangerous substance or preparation[^key-d960ed9b13220777e7b8e1d2e921cec0]
+## 4. Prohibition of certain use of a dangerous substance or preparation[^c-d960ed9b13220777e7b8e1d2e921cec0]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Prohibition of use of treated wood[^key-d960ed9b13220777e7b8e1d2e921cec0]
+## 5. Supply and marking of a dangerous substance or preparation[^c-d960ed9b13220777e7b8e1d2e921cec0]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Second-hand treated wood[^key-d960ed9b13220777e7b8e1d2e921cec0]
+## 6. Prohibition of use of treated wood[^c-d960ed9b13220777e7b8e1d2e921cec0]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Regulations to be treated as safety regulations within the meaning of the 1987 Act[^key-d960ed9b13220777e7b8e1d2e921cec0]
+## 7. Second-hand treated wood[^c-d960ed9b13220777e7b8e1d2e921cec0]
+
+**Not yet in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 8. Regulations to be treated as safety regulations within the meaning of the 1987 Act[^c-d960ed9b13220777e7b8e1d2e921cec0]
 
 **Not yet in force.**
 
@@ -97,11 +97,11 @@ Coming into force
 
 **May not be in force at this date. Check the source.**
 
-[^key-d960ed9b13220777e7b8e1d2e921cec0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d960ed9b13220777e7b8e1d2e921cec0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
-## SCHEDULE — SUBSTANCES CONTAINED IN DANGEROUS SUBSTANCES OR PREPARATIONS[^key-d960ed9b13220777e7b8e1d2e921cec0]
+## SCHEDULE — SUBSTANCES CONTAINED IN DANGEROUS SUBSTANCES OR PREPARATIONS[^c-d960ed9b13220777e7b8e1d2e921cec0]
 
 Regulation 3
 
@@ -109,8 +109,8 @@ Regulation 3
 
 **May not be in force at this date. Check the source.**
 
-[^key-d960ed9b13220777e7b8e1d2e921cec0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d960ed9b13220777e7b8e1d2e921cec0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d960ed9b13220777e7b8e1d2e921cec0]: Textual amendment: Regulations revoked (9.6.2003) by [The Creosote (Prohibition on Use and Marketing)(No. 2) Regulations 2003 (S.I. 2003/1511)](https://www.legislation.gov.uk/uksi/2003/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/1511/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2003/1511/regulation/2)
+[^c-d960ed9b13220777e7b8e1d2e921cec0]: Textual amendment: Regulations revoked (9.6.2003) by [The Creosote (Prohibition on Use and Marketing)(No. 2) Regulations 2003 (S.I. 2003/1511)](https://www.legislation.gov.uk/uksi/2003/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/1511/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2003/1511/regulation/2)

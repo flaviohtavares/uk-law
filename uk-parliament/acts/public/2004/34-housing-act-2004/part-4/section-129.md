@@ -22,7 +22,7 @@ summary: ''
 
 (1) This section applies where an interim or final management order ceases to have effect for any reason.
 
-(2) If, on the termination date for an interim management order that is not made under section 102(7A)[^key-0d2f55cdde1406a405b70367f74bcd9d], the total amount of rent or other payments collected or recovered as mentioned in section 110(3) exceeds the total amount of—
+(2) If, on the termination date for an interim management order that is not made under section 102(7A)[^c-0d2f55cdde1406a405b70367f74bcd9d], the total amount of rent or other payments collected or recovered as mentioned in section 110(3) exceeds the total amount of—
 
 - (a) the local housing authority’s relevant expenditure, and
 - (b) any amounts of compensation payable to third parties by virtue of decisions of the authority under section 128,
@@ -79,4 +79,4 @@ as is provided by the scheme.
 
 [^c2052606]: Commencement: S. 129 wholly in force at 16.6.2006; s. 129 not in force at Royal Assent see s. 270(4)(5); s. 129 in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); s. 129 in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
 
-[^key-0d2f55cdde1406a405b70367f74bcd9d]: Textual amendment: Words in [s. 129(2)](https://www.legislation.gov.uk/ukpga/2004/34/section/129/2) inserted (6.4.2018) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 3 para. 11](https://www.legislation.gov.uk/ukpga/2016/22/schedule/3/paragraph/11); [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/b)
+[^c-0d2f55cdde1406a405b70367f74bcd9d]: Textual amendment: Words in [s. 129(2)](https://www.legislation.gov.uk/ukpga/2004/34/section/129/2) inserted (6.4.2018) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 3 para. 11](https://www.legislation.gov.uk/ukpga/2016/22/schedule/3/paragraph/11); [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/b)

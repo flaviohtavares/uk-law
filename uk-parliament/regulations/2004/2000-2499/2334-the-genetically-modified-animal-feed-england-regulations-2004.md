@@ -32,7 +32,7 @@ summary: ''
 
 AGRICULTURE, ENGLAND
 
-The Genetically Modified Animal Feed (England) Regulations 2004 (revoked)[^key-ac47cb6ff8ba08cad4bc3c5df2fb8b0a]
+The Genetically Modified Animal Feed (England) Regulations 2004 (revoked)[^c-ac47cb6ff8ba08cad4bc3c5df2fb8b0a]
 
 Made
 
@@ -46,66 +46,66 @@ Coming into force
 
 4th October 2004
 
-[^key-ac47cb6ff8ba08cad4bc3c5df2fb8b0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ac47cb6ff8ba08cad4bc3c5df2fb8b0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-ac47cb6ff8ba08cad4bc3c5df2fb8b0a]
+## 1. Title, commencement and application[^c-ac47cb6ff8ba08cad4bc3c5df2fb8b0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-ac47cb6ff8ba08cad4bc3c5df2fb8b0a]
+## 2. Interpretation[^c-ac47cb6ff8ba08cad4bc3c5df2fb8b0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Submission of applications for authorisation to market products[^key-ac47cb6ff8ba08cad4bc3c5df2fb8b0a]
+## 3. Submission of applications for authorisation to market products[^c-ac47cb6ff8ba08cad4bc3c5df2fb8b0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Enforcement[^key-ac47cb6ff8ba08cad4bc3c5df2fb8b0a]
+## 4. Enforcement[^c-ac47cb6ff8ba08cad4bc3c5df2fb8b0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Offences and Penalties[^key-ac47cb6ff8ba08cad4bc3c5df2fb8b0a]
+## 5. Offences and Penalties[^c-ac47cb6ff8ba08cad4bc3c5df2fb8b0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Application of various provisions of the Act[^key-ac47cb6ff8ba08cad4bc3c5df2fb8b0a]
+## 6. Application of various provisions of the Act[^c-ac47cb6ff8ba08cad4bc3c5df2fb8b0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Application of various provisions of the Feeding Stuffs (Sampling and Analysis) Regulations 1999[^key-ac47cb6ff8ba08cad4bc3c5df2fb8b0a]
+## 7. Application of various provisions of the Feeding Stuffs (Sampling and Analysis) Regulations 1999[^c-ac47cb6ff8ba08cad4bc3c5df2fb8b0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Inspection, seizure and detention of suspected animal feed[^key-ac47cb6ff8ba08cad4bc3c5df2fb8b0a]
+## 8. Inspection, seizure and detention of suspected animal feed[^c-ac47cb6ff8ba08cad4bc3c5df2fb8b0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-ac47cb6ff8ba08cad4bc3c5df2fb8b0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-ac47cb6ff8ba08cad4bc3c5df2fb8b0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Time Limit for prosecutions[^key-ac47cb6ff8ba08cad4bc3c5df2fb8b0a]
+## 10. Time Limit for prosecutions[^c-ac47cb6ff8ba08cad4bc3c5df2fb8b0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ac47cb6ff8ba08cad4bc3c5df2fb8b0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ac47cb6ff8ba08cad4bc3c5df2fb8b0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## THE SCHEDULE — SPECIFIED COMMUNITY PROVISIONS[^key-ac47cb6ff8ba08cad4bc3c5df2fb8b0a]
+## THE SCHEDULE — SPECIFIED COMMUNITY PROVISIONS[^c-ac47cb6ff8ba08cad4bc3c5df2fb8b0a]
 
 Regulations 2 and 5
 
-### PART I[^key-ac47cb6ff8ba08cad4bc3c5df2fb8b0a]
+### PART I[^c-ac47cb6ff8ba08cad4bc3c5df2fb8b0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II[^key-ac47cb6ff8ba08cad4bc3c5df2fb8b0a]
+### PART II[^c-ac47cb6ff8ba08cad4bc3c5df2fb8b0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ac47cb6ff8ba08cad4bc3c5df2fb8b0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ac47cb6ff8ba08cad4bc3c5df2fb8b0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ac47cb6ff8ba08cad4bc3c5df2fb8b0a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2004/2334) revoked (6.4.2015) by [The Animal Feed (Composition, Marketing and Use) (England) Regulations 2015 (S.I. 2015/255)](https://www.legislation.gov.uk/uksi/2015/255), [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/255/schedule/2)
+[^c-ac47cb6ff8ba08cad4bc3c5df2fb8b0a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2004/2334) revoked (6.4.2015) by [The Animal Feed (Composition, Marketing and Use) (England) Regulations 2015 (S.I. 2015/255)](https://www.legislation.gov.uk/uksi/2015/255), [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/255/schedule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Application for producer registration[^key-36b3bfa8c7008f9ce1f18748db964a6e]
+## 28. Application for producer registration[^c-36b3bfa8c7008f9ce1f18748db964a6e]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,7 +34,7 @@ summary: ''
 - (a) on or before the date on which the first producer referred to in regulation 27 would have been required to apply for registration under paragraph (1); or
 - (b) if later, before the end of a period of 28 days beginning with the day on which the producer begins to carry on the activities of the first producer.
 
-(2A)[^key-c28059d37fc797335ac48f95c6106db7] A producer who is required by regulation 27A(3) to register after a corporate merger must submit an application for producer registration to the appropriate agency—
+(2A)[^c-c28059d37fc797335ac48f95c6106db7] A producer who is required by regulation 27A(3) to register after a corporate merger must submit an application for producer registration to the appropriate agency—
 
 - (a) on or before the earliest date on which any of the merged bodies referred to in regulation 27A would have been required to apply for registration under paragraph (1) for the relevant year in which the merger takes place; or
 - (b) if later, before the end of a period of 28 days beginning with the day on which the merger takes place.
@@ -58,6 +58,6 @@ an application, or further application, for producer registration must be submit
 
 ## Annotations
 
-[^key-36b3bfa8c7008f9ce1f18748db964a6e]: Commencement: Reg. 28 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-36b3bfa8c7008f9ce1f18748db964a6e]: Commencement: Reg. 28 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
 
-[^key-c28059d37fc797335ac48f95c6106db7]: Textual amendment: [Reg. 28(2A)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/28/2A)[(2B)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/28/2B) inserted (1.1.2026) by [The Producer Responsibility Obligations (Packaging and Packaging Waste) (Amendment) Regulations 2025 (S.I. 2025/1369)](https://www.legislation.gov.uk/uksi/2025/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/1/2), [6(1)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/6/1) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2025/1369/schedule/4))
+[^c-c28059d37fc797335ac48f95c6106db7]: Textual amendment: [Reg. 28(2A)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/28/2A)[(2B)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/28/2B) inserted (1.1.2026) by [The Producer Responsibility Obligations (Packaging and Packaging Waste) (Amendment) Regulations 2025 (S.I. 2025/1369)](https://www.legislation.gov.uk/uksi/2025/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/1/2), [6(1)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/6/1) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2025/1369/schedule/4))

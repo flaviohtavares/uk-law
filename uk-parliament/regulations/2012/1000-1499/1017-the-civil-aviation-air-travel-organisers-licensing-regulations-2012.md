@@ -60,9 +60,9 @@ In accordance with sections 71(2) and 71B of that Act, the Secretary of State ha
 
 (1) These Regulations may be cited as the Civil Aviation (Air Travel Organisers' Licensing) Regulations 2012.
 
-(2) [^key-73d871b193af262053ac87d81ac6ef68]... These Regulations come into force on 30th April 2012.
+(2) [^c-73d871b193af262053ac87d81ac6ef68]... These Regulations come into force on 30th April 2012.
 
-(3)[^key-c683b8f9621db95b3111ca05e8e5ac4a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-c683b8f9621db95b3111ca05e8e5ac4a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 2. Review
 
@@ -72,7 +72,7 @@ In accordance with sections 71(2) and 71B of that Act, the Secretary of State ha
 - (b) set out the conclusions of the review in a report, and
 - (c) publish the report.
 
-(2) In carrying out the review the Secretary of State must, so far as is reasonable, have regard to how Directive ([^key-75564a205abfb31fa89eaa598726b8f3]EU) 2015/2302 of the European Parliament and of the Council of 25 November 2015 on package travel and linked travel arrangements, amending Regulation [(EC) No 2006/2004](https://www.legislation.gov.uk/eur/2004/2006) and [Directive 2011/83/EU](https://www.legislation.gov.uk/eudr/2011/0083) of the European Parliament and of the Council and repealing Council [Directive 90/314/EEC](https://www.legislation.gov.uk/eudr/1990/0314) is implemented in other member States.
+(2) In carrying out the review the Secretary of State must, so far as is reasonable, have regard to how Directive ([^c-75564a205abfb31fa89eaa598726b8f3]EU) 2015/2302 of the European Parliament and of the Council of 25 November 2015 on package travel and linked travel arrangements, amending Regulation [(EC) No 2006/2004](https://www.legislation.gov.uk/eur/2004/2006) and [Directive 2011/83/EU](https://www.legislation.gov.uk/eudr/2011/0083) of the European Parliament and of the Council and repealing Council [Directive 90/314/EEC](https://www.legislation.gov.uk/eudr/1990/0314) is implemented in other member States.
 
 (3) The report must in particular—
 
@@ -80,7 +80,7 @@ In accordance with sections 71(2) and 71B of that Act, the Secretary of State ha
 - (b) assess the extent to which those objectives are achieved, and
 - (c) assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved with a system that imposes less regulation.
 
-(4) The first report under this regulation must be published before the end of the period of five years beginning with the day on which these Regulations [^key-e121cca97ee4a23c2678b0d7b7d75d08]... come into force.
+(4) The first report under this regulation must be published before the end of the period of five years beginning with the day on which these Regulations [^c-e121cca97ee4a23c2678b0d7b7d75d08]... come into force.
 
 (5) Reports under this regulation are afterwards to be published at intervals not exceeding five years.
 
@@ -105,7 +105,7 @@ The Regulations specified in the Schedule are revoked.
 - “**ATOL number**” means the number provided for an ATOL by the CAA under regulation 31(6);
 - “**ATOL standard terms**” means the schedule of standard terms for an ATOL published by the CAA under regulation 40(1);
 - “**confirmed ticket**” means a document or information which gives to every person specified in the document or information access to the flight specified in the document or information without the need for any further payment;
-- “**consumer**” includes a traveller and[^key-df5534374fe210d47980d6ad1b78570d] means an individual who—
+- “**consumer**” includes a traveller and[^c-df5534374fe210d47980d6ad1b78570d] means an individual who—
   - (a) makes use of flight accommodation for travel in person or provides it to another person who uses that flight accommodation for travel in person;
   - (b) intends to make use of flight accommodation for travel in person or intends to provide it to another person to use that flight accommodation for travel in person; or
   - (c) makes use of flight accommodation for travel in person which has been provided to them by a person who is a consumer by reason of sub-paragraph (a);
@@ -119,7 +119,7 @@ The Regulations specified in the Schedule are revoked.
 - “**failure of an ATOL holder**” has the meaning specified in regulation 23;
 - “**flight accommodation**” means accommodation for the carriage of persons on flights in any part of the world;
 - “**Flight-Only provider**” means a person who as a principal or agent makes available flight accommodation only;
-- [^key-d9d687f4c3e50c850128c4e2551037d7]...
+- [^c-d9d687f4c3e50c850128c4e2551037d7]...
 - “insolvency” of a person occurs where any of the following steps, or an equivalent step, has been taken by or against the person under the law of a court having jurisdiction over the person's affairs—
   - (a) bankruptcy or insolvency is adjudicated against the person;
   - (b) the court approves a compromise, composition or similar arrangement of the person's debts on the basis of a receiving order;
@@ -130,10 +130,10 @@ The Regulations specified in the Schedule are revoked.
   - (g) a receiver, trustee, liquidator, administrator or similar person is appointed on behalf of the creditors of the person;
 - “**Member**” means a person appointed by the Secretary of State under section 2 of the Act to be a member of the CAA;
 - “**Official Record**” means a document of that name published on the website of the CAA;
-- “organiser”, in relation to a package means—[^key-dfc07b3310b59087982dfa2c1e442e79]
+- “organiser”, in relation to a package means—[^c-dfc07b3310b59087982dfa2c1e442e79]
   - (a) a trader who combines and sells, or offers for sale, packages, either directly or through another trader or together with another trader; or
   - (b) the trader who transmits the traveller’s data to another trader in accordance with regulation 4A(1)(b)(v);
-- “[^key-30c9d5e7d5c87ec8cd687256b2db7bc2]**package**” has the meaning specified in regulation 4A;
+- “[^c-30c9d5e7d5c87ec8cd687256b2db7bc2]**package**” has the meaning specified in regulation 4A;
 - “Package Travel Regulations” means the Package Travel and Linked Travel Arrangements Regulations 2018;
 - “retailer” means a trader other than the organiser who sells or offers for sale packages combined by an organiser;
 - “**schedule of agency terms**” means the schedule of terms to be included in a written agency agreement published by the CAA under regulation 22(1);
@@ -145,8 +145,8 @@ The Regulations specified in the Schedule are revoked.
   - (b) the provision of accommodation which is not intrinsically part of the carriage of passengers and is not for residential purposes;
   - (c) the rental of—
     - (i) cars;
-    - (ii) other motor vehicles within the meaning of Article 3(16) of Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles;[^key-f1f0b65885484e1d5d03617fb1a040ed] or
-    - (iii) motorcycles requiring a Category A driving licence in accordance with Part 1 of Schedule 2 to the Motor Vehicles (Driving Licences) Regulations 1999;[^key-e6ecb9c606ae53b031258be7eb362b80]
+    - (ii) other motor vehicles within the meaning of Article 3(16) of Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles;[^c-f1f0b65885484e1d5d03617fb1a040ed] or
+    - (iii) motorcycles requiring a Category A driving licence in accordance with Part 1 of Schedule 2 to the Motor Vehicles (Driving Licences) Regulations 1999;[^c-e6ecb9c606ae53b031258be7eb362b80]
   - (d) any other tourist service not intrinsically part of a travel service within the meaning of paragraph (a), (b), or (c);
 - “**traveller**” means any individual who is seeking to conclude a contract, or is entitled to travel on the basis of a contract concluded, within the scope of the Package Travel Regulations; and
 - “**worker for an ATOL holder**” means an individual who is—
@@ -158,9 +158,9 @@ The Regulations specified in the Schedule are revoked.
 
 (2) A reference in these Regulations to a document or any other thing in writing includes that document or thing in electronic form.
 
-(3) The periods of time specified in regulations 7(6), [^key-46c75671547bd5ee1185baffe9023928]... 36, 40(3), 44, 48(3), 53(2), 57(1), 57(3), 68(3) [^key-8503c795b9216aedfafb0c441764313d]... as a number of days are exclusive of the first day and inclusive of the last day, unless the last day falls on a Saturday, Sunday, Christmas Day, Good Friday or a bank holiday under the Banking and Financial Dealings Act 1971 [^c21235291] in any part of the United Kingdom, in which case the period of time is exclusive of that day also.
+(3) The periods of time specified in regulations 7(6), [^c-46c75671547bd5ee1185baffe9023928]... 36, 40(3), 44, 48(3), 53(2), 57(1), 57(3), 68(3) [^c-8503c795b9216aedfafb0c441764313d]... as a number of days are exclusive of the first day and inclusive of the last day, unless the last day falls on a Saturday, Sunday, Christmas Day, Good Friday or a bank holiday under the Banking and Financial Dealings Act 1971 [^c21235291] in any part of the United Kingdom, in which case the period of time is exclusive of that day also.
 
-### 4A. Definition of package[^key-7e8ddbd90f4322248db99112c848efba]
+### 4A. Definition of package[^c-7e8ddbd90f4322248db99112c848efba]
 
 (1) In these Regulations, subject to paragraph (2), a “package” means a combination of at least two different types of travel service for the purpose of the same trip or holiday, if—
 
@@ -255,7 +255,7 @@ as they apply to the activity of making available flight accommodation and refer
 
 ### 8. Manner of publication by the CAA
 
-(1) Any notice or other matter required by these Regulations to be published must be[^key-2b427a5d2b27cc50bac1d1e4f1e500cd] published by the CAA in its Official Record.
+(1) Any notice or other matter required by these Regulations to be published must be[^c-2b427a5d2b27cc50bac1d1e4f1e500cd] published by the CAA in its Official Record.
 
 (2) Where the CAA is required to publish any information or document, including its Official Record, it may do so electronically or otherwise.
 
@@ -265,16 +265,16 @@ as they apply to the activity of making available flight accommodation and refer
 
 ### 9. Who may make available flight accommodation
 
-(1)[^key-1fdbc5a8c01a1e09bc890f6caa87bff9] A person must not in the United Kingdom make available flight accommodation unless that person is—
+(1)[^c-1fdbc5a8c01a1e09bc890f6caa87bff9] A person must not in the United Kingdom make available flight accommodation unless that person is—
 
 - (a) the operator of the relevant aircraft;
 - (b) an ATOL holder acting in accordance with the terms of its ATOL;
 - (c) a person who is exempt from the need to hold an ATOL by reason of regulation 10; or
 - (d) a person who is exempted by the CAA under regulation 11 from the need to hold an ATOL.
 
-(2)[^key-4287ea0a732aaea66a35a4a3ecb63711] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-4287ea0a732aaea66a35a4a3ecb63711] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9A. Procuring flight accommodation as agent for the consumer[^key-f53437a0c5161ec4b890f29ea0690b76]
+### 9A. Procuring flight accommodation as agent for the consumer[^c-f53437a0c5161ec4b890f29ea0690b76]
 
 (1) Where this paragraph applies, a person (“A”) must not in the United Kingdom procure flight accommodation on behalf of a consumer (“B”) unless A is a person referred to in regulation 9(1)(b), (c) or (d).
 
@@ -283,9 +283,9 @@ as they apply to the activity of making available flight accommodation and refer
 - (a) A is acting in the course of business; and
 - (b) A is acting as agent for B.
 
-(3)[^key-2c74823b46bd62e3c031b91c63544adf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-2c74823b46bd62e3c031b91c63544adf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-082d0d9982d15be310b8aa4fec328b77] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-082d0d9982d15be310b8aa4fec328b77] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 9B. Facilitating the making available of flight accommodation by another person
 
@@ -305,24 +305,24 @@ as they apply to the activity of making available flight accommodation and refer
 - (b) arranges for a payment in connection with the flight accommodation to be made by a consumer directly to Q; or
 - (c) receives a payment from Q as a consequence of a flight accommodation booking made by a consumer.
 
-(4)[^key-8898d0467f23532611e702c6d8dd9efb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-8898d0467f23532611e702c6d8dd9efb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-e477cfd9a80c8ca91d3481c22aaade61] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-e477cfd9a80c8ca91d3481c22aaade61] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Persons exempt from requirement to hold an ATOL[^key-f0e32f8f8b49a9dfd7d58d17e7669025]
+### 10. Persons exempt from requirement to hold an ATOL[^c-f0e32f8f8b49a9dfd7d58d17e7669025]
 
 (1) The following persons are exempt from the need to hold an ATOL—
 
 - (a) subject to regulation 15, an agent for an ATOL holder;
 - (b) a person who acts as a member of an accredited body and in accordance with the conditions of membership of that accredited body;
 - (c) an airline ticket agent, except when making available flight accommodation which constitutes a component of a package;
-- (d)[^key-29f7b3940e136012cbbad40337c7fcc2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-29f7b3940e136012cbbad40337c7fcc2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) a worker for an ATOL holder;
 - (f) the CAA;
 - (g) the trustees of the Air Travel Trust acting in their capacity as trustees;
 - (h) a person who is making available flight accommodation under and in accordance with the terms of a general business travel agreement which includes all current terms that have been published by the CAA under paragraph (2);
 - (i) a person making available flight accommodation occasionally on a not-for-profit basis to a limited group of consumers;
-- (j)[^key-b28a3bdff0847bba5e3465df96a4419b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (j)[^c-b28a3bdff0847bba5e3465df96a4419b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) The CAA may—
 
@@ -335,7 +335,7 @@ as they apply to the activity of making available flight accommodation and refer
 
 (1) The CAA may exempt from the need to hold an ATOL any person or any class or description of persons.
 
-(2) The CAA may exempt from any of the provisions of these Regulations any person or class or description of persons [^key-fe4a32867d9552b86217cd20ca3f71f9]... provided the CAA is satisfied that consumers will receive a level of consumer protection equivalent to that which would otherwise be required under these Regulations.
+(2) The CAA may exempt from any of the provisions of these Regulations any person or class or description of persons [^c-fe4a32867d9552b86217cd20ca3f71f9]... provided the CAA is satisfied that consumers will receive a level of consumer protection equivalent to that which would otherwise be required under these Regulations.
 
 (3) Any exemption issued under paragraph (1) or (2)—
 
@@ -380,7 +380,7 @@ as they apply to the activity of making available flight accommodation and refer
 
 Where a member of an accredited body makes available flight accommodation, the accredited body is liable to the consumer to the same extent as if it were the member.
 
-### 15. Restrictions on when flight accommodation may be made available[^key-b307544d7a29b6918fca8b4ed729e2f6]
+### 15. Restrictions on when flight accommodation may be made available[^c-b307544d7a29b6918fca8b4ed729e2f6]
 
 (1) A person cannot, in the capacity of an agent for an ATOL holder, rely on the exemption in regulation 10(1)(a) when making available flight accommodation which constitutes a component of a package unless both of the conditions in paragraph (2) are met.
 
@@ -402,11 +402,11 @@ A person must not in the United Kingdom—
 
 ### 17. Supply of ATOL Certificate
 
-(1) Any person [^key-9225635902cb69958be28240b6c9ec9d]... who, in circumstances in which an ATOL is required to be held by them or another person under these Regulations,[^key-58ab9b92af84cc36ed3f3100aa8a8dc0] makes available flight accommodation to a consumer—
+(1) Any person [^c-9225635902cb69958be28240b6c9ec9d]... who, in circumstances in which an ATOL is required to be held by them or another person under these Regulations,[^c-58ab9b92af84cc36ed3f3100aa8a8dc0] makes available flight accommodation to a consumer—
 
-- (a) on its own, or[^key-df22270b5e63f30a88ebf19b8cfecedf]
-- (b) as a component of a package, [^key-d26a35520788bec447a638f12637bad2]...
-- (c)[^key-695092c2302fddbe3e0264574d3cd5c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) on its own, or[^c-df22270b5e63f30a88ebf19b8cfecedf]
+- (b) as a component of a package, [^c-d26a35520788bec447a638f12637bad2]...
+- (c)[^c-695092c2302fddbe3e0264574d3cd5c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 must supply an ATOL Certificate to the consumer by the specified method where paragraph (2) applies.
 
@@ -414,19 +414,19 @@ must supply an ATOL Certificate to the consumer by the specified method where pa
 
 - (a) accepts a first payment, whether in part or in full, for flight accommodation;
 - (b) makes a booking for the flight accommodation requested by the consumer where payment for such flight accommodation is made by the consumer to the aircraft operator or another ATOL holder; or
-- (c) accepts a first payment, whether in part or in full, for anything other than the flight accommodation which is or would be a component of a package[^key-fda9f083a22b0833842d499d9668801a].
+- (c) accepts a first payment, whether in part or in full, for anything other than the flight accommodation which is or would be a component of a package[^c-fda9f083a22b0833842d499d9668801a].
 
 (3) A person must not supply an ATOL Certificate unless they are required to do so by paragraph (1).
 
-### 18. Meaning of specified method[^key-ecf68c3729308b9e21e72f1e6b67cea9]
+### 18. Meaning of specified method[^c-ecf68c3729308b9e21e72f1e6b67cea9]
 
 The specified method means in relation to the supply of an ATOL Certificate or a confirmed ticket—
 
-- (a) in the case of a consumer who is present, providing the ATOL Certificate or the confirmed ticket to that consumer, or sending the ATOL Certificate or the confirmed ticket to that consumer by electronic communication,[^key-7d4b85f3f4e0139d410b55e99a846141] at the time such payment is made;
-- (b) in the case of a consumer who is not present, immediately sending to that consumer[^key-9eab47a76d5bb0beaf402cc9b69d0a3d] the ATOL Certificate or the confirmed ticket by electronic communication[^key-3d768823e149f4610a685969628ed434]; or
+- (a) in the case of a consumer who is present, providing the ATOL Certificate or the confirmed ticket to that consumer, or sending the ATOL Certificate or the confirmed ticket to that consumer by electronic communication,[^c-7d4b85f3f4e0139d410b55e99a846141] at the time such payment is made;
+- (b) in the case of a consumer who is not present, immediately sending to that consumer[^c-9eab47a76d5bb0beaf402cc9b69d0a3d] the ATOL Certificate or the confirmed ticket by electronic communication[^c-3d768823e149f4610a685969628ed434]; or
 - (c) in the case of a consumer who makes a booking by telephone, either the method specified in paragraph (b) or immediately posting the ATOL Certificate or the confirmed ticket to that consumer.
 
-(2)[^key-910dd3de9888d5f449b1c64dba05b78f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-910dd3de9888d5f449b1c64dba05b78f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 19. Form and content of an ATOL Certificate
 
@@ -436,13 +436,13 @@ The specified method means in relation to the supply of an ATOL Certificate or a
 
 ### 20. Information to be provided to the consumer when making available flight accommodation
 
-Where a person makes available flight accommodation in circumstances in which an ATOL is required to be held under these Regulations[^key-e15ba53a1bf2b5b400ab7e45bd513381], that person must provide to the consumer—
+Where a person makes available flight accommodation in circumstances in which an ATOL is required to be held under these Regulations[^c-e15ba53a1bf2b5b400ab7e45bd513381], that person must provide to the consumer—
 
 - (a) the name of the person who would be accepting the payment;
-- (b) the capacity in which that person is making available the flight accommodation; and[^key-473d8b1b61369ddb22db0161e5561b24]
-- (c)[^key-349e23da7fad8ca9317cebd2877eb165] the name of the ATOL holder and the ATOL number of the ATOL under which the flight accommodation is being made available.
-- (d)[^key-1a4b98aeb90ce5e5be302e7e5ce51c14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (e)[^key-1a4b98aeb90ce5e5be302e7e5ce51c14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) the capacity in which that person is making available the flight accommodation; and[^c-473d8b1b61369ddb22db0161e5561b24]
+- (c)[^c-349e23da7fad8ca9317cebd2877eb165] the name of the ATOL holder and the ATOL number of the ATOL under which the flight accommodation is being made available.
+- (d)[^c-1a4b98aeb90ce5e5be302e7e5ce51c14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-1a4b98aeb90ce5e5be302e7e5ce51c14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 21. Compliance
 
@@ -456,7 +456,7 @@ A person must not contravene any term or condition of an ATOL or of an accredita
 
 - (a) which authorises the transaction;
 - (b) under which the agent undertakes not to accept payment for the making available of flight accommodation unless the agent supplies to the consumer, by the specified method, an ATOL Certificate on behalf of the ATOL holder; and
-- (c) which includes [^key-2a92f11cf2d090dc68fa69596e3b8d2a]... the schedule of agency terms [^key-2a92f11cf2d090dc68fa69596e3b8d2a]... .
+- (c) which includes [^c-2a92f11cf2d090dc68fa69596e3b8d2a]... the schedule of agency terms [^c-2a92f11cf2d090dc68fa69596e3b8d2a]... .
 
 (3) The CAA may at any time propose to vary the schedule of agency terms or any part of that schedule and any such proposal is for the purposes of these Regulations to be treated as a proposal for the variation of every ATOL to which the schedule of agency terms or any part of that schedule applies.
 
@@ -474,35 +474,35 @@ A person must not contravene any term or condition of an ATOL or of an accredita
 
 (3) The date on which failure of an ATOL holder occurs is the date on which the relevant notice of the failure of the ATOL holder is published in the Register of Failed ATOL Holders.
 
-## PART 3 — REGULATION OF FLIGHT-PLUS[^key-0cae5d6ca40c47c9bef1e56601f3d752]
+## PART 3 — REGULATION OF FLIGHT-PLUS[^c-0cae5d6ca40c47c9bef1e56601f3d752]
 
 **No longer in force.**
 
-### 24. Definition of a Flight-Plus[^key-0cae5d6ca40c47c9bef1e56601f3d752]
+### 24. Definition of a Flight-Plus[^c-0cae5d6ca40c47c9bef1e56601f3d752]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 25. Definition of Flight-Plus arranger[^key-0cae5d6ca40c47c9bef1e56601f3d752]
+### 25. Definition of Flight-Plus arranger[^c-0cae5d6ca40c47c9bef1e56601f3d752]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 26. Obligations of a Flight-Plus arranger to provide alternative flight accommodation, living accommodation and self-drive car hire prior to departure[^key-0cae5d6ca40c47c9bef1e56601f3d752]
+### 26. Obligations of a Flight-Plus arranger to provide alternative flight accommodation, living accommodation and self-drive car hire prior to departure[^c-0cae5d6ca40c47c9bef1e56601f3d752]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 27. Obligations of a Flight-Plus arranger to provide alternative flight accommodation, living accommodation and self-drive car hire after departure[^key-0cae5d6ca40c47c9bef1e56601f3d752]
+### 27. Obligations of a Flight-Plus arranger to provide alternative flight accommodation, living accommodation and self-drive car hire after departure[^c-0cae5d6ca40c47c9bef1e56601f3d752]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 28. Extent of compensation to be provided for flight accommodation, living accommodation and self-drive car hire[^key-0cae5d6ca40c47c9bef1e56601f3d752]
+### 28. Extent of compensation to be provided for flight accommodation, living accommodation and self-drive car hire[^c-0cae5d6ca40c47c9bef1e56601f3d752]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 29. Obligations of a Flight-Plus arranger to provide a refund for tourist services other than flight accommodation, living accommodation and self-drive car hire[^key-0cae5d6ca40c47c9bef1e56601f3d752]
+### 29. Obligations of a Flight-Plus arranger to provide a refund for tourist services other than flight accommodation, living accommodation and self-drive car hire[^c-0cae5d6ca40c47c9bef1e56601f3d752]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 30. Limitation of obligations of Flight-Plus arranger[^key-0cae5d6ca40c47c9bef1e56601f3d752]
+### 30. Limitation of obligations of Flight-Plus arranger[^c-0cae5d6ca40c47c9bef1e56601f3d752]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -719,11 +719,11 @@ the CAA must serve on the accredited body or the applicant for the accreditation
 (1) This Part applies to the CAA's function of making a decision to—
 
 - (a) revoke, suspend or vary an ATOL or accreditation otherwise than on the application of the person concerned,
-- (b) grant or vary an ATOL or accreditation in terms other than those requested by the person concerned[^key-aeaa20c7805bfc146264bc6ad13b68f8],
+- (b) grant or vary an ATOL or accreditation in terms other than those requested by the person concerned[^c-aeaa20c7805bfc146264bc6ad13b68f8],
 - (c) refuse to grant an ATOL or accreditation, or
 - (d) provisionally vary an ATOL or accreditation.
 
-(2)[^key-89dffca555c550afd8f4946d7033593e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-89dffca555c550afd8f4946d7033593e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Where this Part applies, the quorum of the CAA is one Member.
 
@@ -852,7 +852,7 @@ seeking to avoid, where appropriate, formality and inflexibility in its proceedi
 
 (5) The CAA is not required to supply an electronic recording or transcript of the proceedings at any time more than one year after it has published or notified its decision.
 
-#### 66. Exclusions[^key-3059bb0e36c40ab754b94ffe8000db4c]
+#### 66. Exclusions[^c-3059bb0e36c40ab754b94ffe8000db4c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -892,14 +892,14 @@ seeking to avoid, where appropriate, formality and inflexibility in its proceedi
 
 (1) A person who contravenes regulation 13(2), 17 or 21 is guilty of an offence and is liable on summary conviction to a fine not exceeding the statutory maximum.
 
-(2) A person who contravenes regulation 9, 9A, 9B,[^key-3f13858c92e1dbfd60acf1a17204c7b5] [^key-acf5c81b3978a703620b3df95a590d04]... 16 or 41 is guilty of an offence and liable—
+(2) A person who contravenes regulation 9, 9A, 9B,[^c-3f13858c92e1dbfd60acf1a17204c7b5] [^c-acf5c81b3978a703620b3df95a590d04]... 16 or 41 is guilty of an offence and liable—
 
 - (a) on summary conviction, to a fine not exceeding the statutory maximum, or in Scotland, a fine not exceeding the statutory maximum; or
 - (b) on conviction on indictment, to a fine or imprisonment for a term not exceeding 2 years or both.
 
 ### 70. Due diligence defence
 
-(1) In any proceedings against a person for an offence under regulation 9, 9A, 9B,[^key-f34955495c25c20f59cdbc26cae8dafd] 13(2), [^key-5fab0141b491779d89cd1291a32fae85]... 16, 17 or 21 it is a defence for that person to prove that that person took all reasonable steps and exercised all due diligence to avoid committing the offence.
+(1) In any proceedings against a person for an offence under regulation 9, 9A, 9B,[^c-f34955495c25c20f59cdbc26cae8dafd] 13(2), [^c-5fab0141b491779d89cd1291a32fae85]... 16, 17 or 21 it is a defence for that person to prove that that person took all reasonable steps and exercised all due diligence to avoid committing the offence.
 
 (2) A person shall not be entitled to rely on the defence provided in paragraph (1) by reason of reliance on information supplied by another unless that person proves that it was reasonable in all the circumstances for that person to have relied on the information, having regard in particular to—
 
@@ -933,7 +933,7 @@ Regulation 2(1) of the Civil Aviation (Contributions to the Air Travel Trust) Re
 
   > “**consumer**” means an individual who—
   >
-  > - (a) [^key-8da35a5add18be5421fdff609e9b71ba]... makes use of flight accommodation for travel in person or provides it to another person who uses that flight accommodation for travel in person,
+  > - (a) [^c-8da35a5add18be5421fdff609e9b71ba]... makes use of flight accommodation for travel in person or provides it to another person who uses that flight accommodation for travel in person,
   > - (b) intends to make use of flight accommodation for travel in person or intends to provide it to another person to use that flight accommodation for travel in person; or
   > - (c) makes use of flight accommodation for travel in person which has been provided to them by a person who is a consumer by reason of sub-paragraph (a);
   >
@@ -980,7 +980,7 @@ Any licence granted by the CAA under the Civil Aviation (Air Travel Organisers' 
 - (a) has effect on and after that date as if it were granted under these Regulations; and
 - (b) subject to the provisions of these Regulations remains in force until the expiry of that licence.
 
-### 74. ATOL Certificates[^key-99d80452e6aa39945d5376d736d48848]
+### 74. ATOL Certificates[^c-99d80452e6aa39945d5376d736d48848]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -1038,125 +1038,125 @@ An impact assessment has been prepared in relation to these Regulations. The ass
 
 [^c21235231]: Marginal citation: [2007 c.15](https://www.legislation.gov.uk/ukpga/2007/15). The Civil Aviation Authority is a “**listed tribunal**” for the purposes of Schedule 7 to that Act by virtue of SI 2007/2951.
 
-[^key-73d871b193af262053ac87d81ac6ef68]: Textual amendment: Words in reg. 1(2) omitted (1.7.2018) by virtue of [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [3(1)(a)](https://www.legislation.gov.uk/uksi/2018/670/regulation/3/1/a)
+[^c-73d871b193af262053ac87d81ac6ef68]: Textual amendment: Words in reg. 1(2) omitted (1.7.2018) by virtue of [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [3(1)(a)](https://www.legislation.gov.uk/uksi/2018/670/regulation/3/1/a)
 
-[^key-c683b8f9621db95b3111ca05e8e5ac4a]: Textual amendment: Reg. 1(3) omitted (1.7.2018) by virtue of [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [3(1)(b)](https://www.legislation.gov.uk/uksi/2018/670/regulation/3/1/b)
+[^c-c683b8f9621db95b3111ca05e8e5ac4a]: Textual amendment: Reg. 1(3) omitted (1.7.2018) by virtue of [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [3(1)(b)](https://www.legislation.gov.uk/uksi/2018/670/regulation/3/1/b)
 
-[^key-75564a205abfb31fa89eaa598726b8f3]: Textual amendment: Words in reg. 2(2) substituted (1.7.2018) by [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [4(1)](https://www.legislation.gov.uk/uksi/2018/670/regulation/4/1)
+[^c-75564a205abfb31fa89eaa598726b8f3]: Textual amendment: Words in reg. 2(2) substituted (1.7.2018) by [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [4(1)](https://www.legislation.gov.uk/uksi/2018/670/regulation/4/1)
 
-[^key-e121cca97ee4a23c2678b0d7b7d75d08]: Textual amendment: Words in reg. 2(4) omitted (1.7.2018) by virtue of [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2018/670/regulation/4/2)
+[^c-e121cca97ee4a23c2678b0d7b7d75d08]: Textual amendment: Words in reg. 2(4) omitted (1.7.2018) by virtue of [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2018/670/regulation/4/2)
 
 [^c21235251]: Marginal citation: [S.I. 2007/2999](https://www.legislation.gov.uk/uksi/2007/2999).
 
 [^c21235261]: Marginal citation: [S.I. 2010/93](https://www.legislation.gov.uk/uksi/2010/93). Regulation 3 has been amended by regulation 2(1) and (2) of the [Agency Workers (Amendment) Regulations 2011 (S.I. 2011/1941)](https://www.legislation.gov.uk/uksi/2011/1941).
 
-[^key-df5534374fe210d47980d6ad1b78570d]: Textual amendment: Words in reg. 4(1) inserted (1.7.2018) by [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [5(1)(a)](https://www.legislation.gov.uk/uksi/2018/670/regulation/5/1/a)
+[^c-df5534374fe210d47980d6ad1b78570d]: Textual amendment: Words in reg. 4(1) inserted (1.7.2018) by [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [5(1)(a)](https://www.legislation.gov.uk/uksi/2018/670/regulation/5/1/a)
 
 [^c21235271]: Marginal citation: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
 
 [^c21235281]: Marginal citation: [2003 c.21](https://www.legislation.gov.uk/ukpga/2003/21). Section 32(1) has been amended by regulation 2(1) and paragraph 9 of Schedule 1 of the [Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210).
 
-[^key-d9d687f4c3e50c850128c4e2551037d7]: Textual amendment: Words in reg. 4(1) omitted (1.7.2018) by virtue of [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [5(1)(d)](https://www.legislation.gov.uk/uksi/2018/670/regulation/5/1/d)
+[^c-d9d687f4c3e50c850128c4e2551037d7]: Textual amendment: Words in reg. 4(1) omitted (1.7.2018) by virtue of [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [5(1)(d)](https://www.legislation.gov.uk/uksi/2018/670/regulation/5/1/d)
 
-[^key-dfc07b3310b59087982dfa2c1e442e79]: Textual amendment: Words in reg. 4(1) inserted (1.7.2018) by [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [5(1)(c)](https://www.legislation.gov.uk/uksi/2018/670/regulation/5/1/c)
+[^c-dfc07b3310b59087982dfa2c1e442e79]: Textual amendment: Words in reg. 4(1) inserted (1.7.2018) by [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [5(1)(c)](https://www.legislation.gov.uk/uksi/2018/670/regulation/5/1/c)
 
-[^key-30c9d5e7d5c87ec8cd687256b2db7bc2]: Textual amendment: Words in reg. 4(1) substituted (1.7.2018) by [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [5(1)(b)](https://www.legislation.gov.uk/uksi/2018/670/regulation/5/1/b)
+[^c-30c9d5e7d5c87ec8cd687256b2db7bc2]: Textual amendment: Words in reg. 4(1) substituted (1.7.2018) by [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [5(1)(b)](https://www.legislation.gov.uk/uksi/2018/670/regulation/5/1/b)
 
-[^key-f1f0b65885484e1d5d03617fb1a040ed]: Textual amendment: Words in reg. 4(1) substituted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 27(2)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/27/2) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
+[^c-f1f0b65885484e1d5d03617fb1a040ed]: Textual amendment: Words in reg. 4(1) substituted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 27(2)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/27/2) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
 
-[^key-e6ecb9c606ae53b031258be7eb362b80]: Textual amendment: Words in reg. 4(1) substituted (31.12.2020) by [S.I. 2019/278](https://www.legislation.gov.uk/uksi/2019/278), [reg. 6(2)](https://www.legislation.gov.uk/uksi/2019/278/regulation/6/2) (as amended by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 37(2)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/37/2) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e6ecb9c606ae53b031258be7eb362b80]: Textual amendment: Words in reg. 4(1) substituted (31.12.2020) by [S.I. 2019/278](https://www.legislation.gov.uk/uksi/2019/278), [reg. 6(2)](https://www.legislation.gov.uk/uksi/2019/278/regulation/6/2) (as amended by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 37(2)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/37/2) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-46c75671547bd5ee1185baffe9023928]: Textual amendment: Words in reg. 4(3) omitted (29.4.2012) by virtue of [The Civil Aviation (Air Travel Organisers’ Licensing) (Amendment) Regulations 2012 (S.I. 2012/1134)](https://www.legislation.gov.uk/uksi/2012/1134), regs. 1, 2(a)
+[^c-46c75671547bd5ee1185baffe9023928]: Textual amendment: Words in reg. 4(3) omitted (29.4.2012) by virtue of [The Civil Aviation (Air Travel Organisers’ Licensing) (Amendment) Regulations 2012 (S.I. 2012/1134)](https://www.legislation.gov.uk/uksi/2012/1134), regs. 1, 2(a)
 
-[^key-8503c795b9216aedfafb0c441764313d]: Textual amendment: Words in reg. 4(3) omitted (1.7.2018) by virtue of [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2018/670/regulation/5/2)
+[^c-8503c795b9216aedfafb0c441764313d]: Textual amendment: Words in reg. 4(3) omitted (1.7.2018) by virtue of [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2018/670/regulation/5/2)
 
 [^c21235291]: Marginal citation: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-7e8ddbd90f4322248db99112c848efba]: Textual amendment: Regs. 4A, 4B inserted (1.7.2018) by [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [6](https://www.legislation.gov.uk/uksi/2018/670/regulation/6)
+[^c-7e8ddbd90f4322248db99112c848efba]: Textual amendment: Regs. 4A, 4B inserted (1.7.2018) by [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [6](https://www.legislation.gov.uk/uksi/2018/670/regulation/6)
 
 [^c21235301]: Marginal citation: [2000 c.12](https://www.legislation.gov.uk/ukpga/2000/12). Section 18 cross-refers to section 8 of the Limited Liability Partnerships Act 2000 and section 8 has been amended by regulation 85 of [The Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 (S.I. 2009/1804)](https://www.legislation.gov.uk/uksi/2009/1804).
 
-[^key-2b427a5d2b27cc50bac1d1e4f1e500cd]: Textual amendment: Words in reg. 8(1) substituted (1.7.2018) by [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [7](https://www.legislation.gov.uk/uksi/2018/670/regulation/7)
+[^c-2b427a5d2b27cc50bac1d1e4f1e500cd]: Textual amendment: Words in reg. 8(1) substituted (1.7.2018) by [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [7](https://www.legislation.gov.uk/uksi/2018/670/regulation/7)
 
-[^key-1fdbc5a8c01a1e09bc890f6caa87bff9]: Textual amendment: Reg. 9 renumbered as reg. 9(1) (1.7.2018) by [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [8(1)](https://www.legislation.gov.uk/uksi/2018/670/regulation/8/1)
+[^c-1fdbc5a8c01a1e09bc890f6caa87bff9]: Textual amendment: Reg. 9 renumbered as reg. 9(1) (1.7.2018) by [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [8(1)](https://www.legislation.gov.uk/uksi/2018/670/regulation/8/1)
 
-[^key-4287ea0a732aaea66a35a4a3ecb63711]: Textual amendment: [Reg. 9(2)](https://www.legislation.gov.uk/uksi/2012/1017/regulation/9/2) omitted (31.12.2020) by virtue of [The Air Passenger Rights and Air Travel Organisers' Licensing (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/278)](https://www.legislation.gov.uk/uksi/2019/278), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/278/regulation/1/3), [6(3)](https://www.legislation.gov.uk/uksi/2019/278/regulation/6/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4287ea0a732aaea66a35a4a3ecb63711]: Textual amendment: [Reg. 9(2)](https://www.legislation.gov.uk/uksi/2012/1017/regulation/9/2) omitted (31.12.2020) by virtue of [The Air Passenger Rights and Air Travel Organisers' Licensing (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/278)](https://www.legislation.gov.uk/uksi/2019/278), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/278/regulation/1/3), [6(3)](https://www.legislation.gov.uk/uksi/2019/278/regulation/6/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f53437a0c5161ec4b890f29ea0690b76]: Textual amendment: Regs. 9A, 9B inserted (1.7.2018) by [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [8(3)](https://www.legislation.gov.uk/uksi/2018/670/regulation/8/3)
+[^c-f53437a0c5161ec4b890f29ea0690b76]: Textual amendment: Regs. 9A, 9B inserted (1.7.2018) by [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [8(3)](https://www.legislation.gov.uk/uksi/2018/670/regulation/8/3)
 
-[^key-2c74823b46bd62e3c031b91c63544adf]: Textual amendment: [Reg. 9A(3)](https://www.legislation.gov.uk/uksi/2012/1017/regulation/9A/3) omitted (31.12.2020) by virtue of [The Air Passenger Rights and Air Travel Organisers' Licensing (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/278)](https://www.legislation.gov.uk/uksi/2019/278), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/278/regulation/1/3), [6(4)](https://www.legislation.gov.uk/uksi/2019/278/regulation/6/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2c74823b46bd62e3c031b91c63544adf]: Textual amendment: [Reg. 9A(3)](https://www.legislation.gov.uk/uksi/2012/1017/regulation/9A/3) omitted (31.12.2020) by virtue of [The Air Passenger Rights and Air Travel Organisers' Licensing (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/278)](https://www.legislation.gov.uk/uksi/2019/278), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/278/regulation/1/3), [6(4)](https://www.legislation.gov.uk/uksi/2019/278/regulation/6/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-082d0d9982d15be310b8aa4fec328b77]: Textual amendment: [Reg. 9A(4)](https://www.legislation.gov.uk/uksi/2012/1017/regulation/9A/4) omitted (31.12.2020) by virtue of [The Air Passenger Rights and Air Travel Organisers' Licensing (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/278)](https://www.legislation.gov.uk/uksi/2019/278), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/278/regulation/1/3), [6(4)](https://www.legislation.gov.uk/uksi/2019/278/regulation/6/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-082d0d9982d15be310b8aa4fec328b77]: Textual amendment: [Reg. 9A(4)](https://www.legislation.gov.uk/uksi/2012/1017/regulation/9A/4) omitted (31.12.2020) by virtue of [The Air Passenger Rights and Air Travel Organisers' Licensing (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/278)](https://www.legislation.gov.uk/uksi/2019/278), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/278/regulation/1/3), [6(4)](https://www.legislation.gov.uk/uksi/2019/278/regulation/6/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8898d0467f23532611e702c6d8dd9efb]: Textual amendment: [Reg. 9B(4)](https://www.legislation.gov.uk/uksi/2012/1017/regulation/9B/4) omitted (31.12.2020) by virtue of [The Air Passenger Rights and Air Travel Organisers' Licensing (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/278)](https://www.legislation.gov.uk/uksi/2019/278), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/278/regulation/1/3), [6(5)](https://www.legislation.gov.uk/uksi/2019/278/regulation/6/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8898d0467f23532611e702c6d8dd9efb]: Textual amendment: [Reg. 9B(4)](https://www.legislation.gov.uk/uksi/2012/1017/regulation/9B/4) omitted (31.12.2020) by virtue of [The Air Passenger Rights and Air Travel Organisers' Licensing (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/278)](https://www.legislation.gov.uk/uksi/2019/278), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/278/regulation/1/3), [6(5)](https://www.legislation.gov.uk/uksi/2019/278/regulation/6/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e477cfd9a80c8ca91d3481c22aaade61]: Textual amendment: [Reg. 9B(5)](https://www.legislation.gov.uk/uksi/2012/1017/regulation/9B/5) omitted (31.12.2020) by virtue of [The Air Passenger Rights and Air Travel Organisers' Licensing (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/278)](https://www.legislation.gov.uk/uksi/2019/278), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/278/regulation/1/3), [6(5)](https://www.legislation.gov.uk/uksi/2019/278/regulation/6/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e477cfd9a80c8ca91d3481c22aaade61]: Textual amendment: [Reg. 9B(5)](https://www.legislation.gov.uk/uksi/2012/1017/regulation/9B/5) omitted (31.12.2020) by virtue of [The Air Passenger Rights and Air Travel Organisers' Licensing (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/278)](https://www.legislation.gov.uk/uksi/2019/278), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/278/regulation/1/3), [6(5)](https://www.legislation.gov.uk/uksi/2019/278/regulation/6/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f0e32f8f8b49a9dfd7d58d17e7669025]: Textual amendment: Reg. 10 substituted (1.7.2018) by [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [9](https://www.legislation.gov.uk/uksi/2018/670/regulation/9)
+[^c-f0e32f8f8b49a9dfd7d58d17e7669025]: Textual amendment: Reg. 10 substituted (1.7.2018) by [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [9](https://www.legislation.gov.uk/uksi/2018/670/regulation/9)
 
-[^key-29f7b3940e136012cbbad40337c7fcc2]: Textual amendment: [Reg. 10(1)(d)](https://www.legislation.gov.uk/uksi/2012/1017/regulation/10/1/d) omitted (31.12.2020) by virtue of [The Air Passenger Rights and Air Travel Organisers' Licensing (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/278)](https://www.legislation.gov.uk/uksi/2019/278), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/278/regulation/1/3), [6(6)](https://www.legislation.gov.uk/uksi/2019/278/regulation/6/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-29f7b3940e136012cbbad40337c7fcc2]: Textual amendment: [Reg. 10(1)(d)](https://www.legislation.gov.uk/uksi/2012/1017/regulation/10/1/d) omitted (31.12.2020) by virtue of [The Air Passenger Rights and Air Travel Organisers' Licensing (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/278)](https://www.legislation.gov.uk/uksi/2019/278), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/278/regulation/1/3), [6(6)](https://www.legislation.gov.uk/uksi/2019/278/regulation/6/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b28a3bdff0847bba5e3465df96a4419b]: Textual amendment: [Reg. 10(1)(j)](https://www.legislation.gov.uk/uksi/2012/1017/regulation/10/1/j) omitted (31.12.2020) by virtue of [The Air Passenger Rights and Air Travel Organisers' Licensing (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/278)](https://www.legislation.gov.uk/uksi/2019/278), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/278/regulation/1/3), [6(6)](https://www.legislation.gov.uk/uksi/2019/278/regulation/6/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b28a3bdff0847bba5e3465df96a4419b]: Textual amendment: [Reg. 10(1)(j)](https://www.legislation.gov.uk/uksi/2012/1017/regulation/10/1/j) omitted (31.12.2020) by virtue of [The Air Passenger Rights and Air Travel Organisers' Licensing (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/278)](https://www.legislation.gov.uk/uksi/2019/278), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/278/regulation/1/3), [6(6)](https://www.legislation.gov.uk/uksi/2019/278/regulation/6/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-fe4a32867d9552b86217cd20ca3f71f9]: Textual amendment: Words in reg. 11(2) omitted (1.7.2018) by virtue of [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [10](https://www.legislation.gov.uk/uksi/2018/670/regulation/10)
+[^c-fe4a32867d9552b86217cd20ca3f71f9]: Textual amendment: Words in reg. 11(2) omitted (1.7.2018) by virtue of [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [10](https://www.legislation.gov.uk/uksi/2018/670/regulation/10)
 
-[^key-b307544d7a29b6918fca8b4ed729e2f6]: Textual amendment: Reg. 15 substituted (1.7.2018) by [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [11(1)](https://www.legislation.gov.uk/uksi/2018/670/regulation/11/1)
+[^c-b307544d7a29b6918fca8b4ed729e2f6]: Textual amendment: Reg. 15 substituted (1.7.2018) by [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [11(1)](https://www.legislation.gov.uk/uksi/2018/670/regulation/11/1)
 
-[^key-9225635902cb69958be28240b6c9ec9d]: Textual amendment: Words in reg. 17(1) omitted (1.7.2018) by virtue of [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [12(2)(a)](https://www.legislation.gov.uk/uksi/2018/670/regulation/12/2/a)
+[^c-9225635902cb69958be28240b6c9ec9d]: Textual amendment: Words in reg. 17(1) omitted (1.7.2018) by virtue of [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [12(2)(a)](https://www.legislation.gov.uk/uksi/2018/670/regulation/12/2/a)
 
-[^key-58ab9b92af84cc36ed3f3100aa8a8dc0]: Textual amendment: Words in reg. 17(1) inserted (1.7.2018) by [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [12(2)(b)](https://www.legislation.gov.uk/uksi/2018/670/regulation/12/2/b)
+[^c-58ab9b92af84cc36ed3f3100aa8a8dc0]: Textual amendment: Words in reg. 17(1) inserted (1.7.2018) by [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [12(2)(b)](https://www.legislation.gov.uk/uksi/2018/670/regulation/12/2/b)
 
-[^key-df22270b5e63f30a88ebf19b8cfecedf]: Textual amendment: Word in reg. 17(1) inserted (1.7.2018) by [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [12(2)(c)](https://www.legislation.gov.uk/uksi/2018/670/regulation/12/2/c)
+[^c-df22270b5e63f30a88ebf19b8cfecedf]: Textual amendment: Word in reg. 17(1) inserted (1.7.2018) by [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [12(2)(c)](https://www.legislation.gov.uk/uksi/2018/670/regulation/12/2/c)
 
-[^key-d26a35520788bec447a638f12637bad2]: Textual amendment: Word in reg. 17(1) omitted (1.7.2018) by virtue of [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [12(2)(d)](https://www.legislation.gov.uk/uksi/2018/670/regulation/12/2/d)
+[^c-d26a35520788bec447a638f12637bad2]: Textual amendment: Word in reg. 17(1) omitted (1.7.2018) by virtue of [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [12(2)(d)](https://www.legislation.gov.uk/uksi/2018/670/regulation/12/2/d)
 
-[^key-695092c2302fddbe3e0264574d3cd5c3]: Textual amendment: Reg. 17(1)(c) omitted (1.7.2018) by virtue of [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [12(2)(e)](https://www.legislation.gov.uk/uksi/2018/670/regulation/12/2/e)
+[^c-695092c2302fddbe3e0264574d3cd5c3]: Textual amendment: Reg. 17(1)(c) omitted (1.7.2018) by virtue of [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [12(2)(e)](https://www.legislation.gov.uk/uksi/2018/670/regulation/12/2/e)
 
-[^key-fda9f083a22b0833842d499d9668801a]: Textual amendment: Word in reg. 17(2)(c) substituted (1.7.2018) by [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [12(3)](https://www.legislation.gov.uk/uksi/2018/670/regulation/12/3)
+[^c-fda9f083a22b0833842d499d9668801a]: Textual amendment: Word in reg. 17(2)(c) substituted (1.7.2018) by [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [12(3)](https://www.legislation.gov.uk/uksi/2018/670/regulation/12/3)
 
-[^key-ecf68c3729308b9e21e72f1e6b67cea9]: Textual amendment: Reg. 18(1) renumbered as reg. 18 (29.4.2012) by [The Civil Aviation (Air Travel Organisers’ Licensing) (Amendment) Regulations 2012 (S.I. 2012/1134)](https://www.legislation.gov.uk/uksi/2012/1134), regs. 1, 2(b)
+[^c-ecf68c3729308b9e21e72f1e6b67cea9]: Textual amendment: Reg. 18(1) renumbered as reg. 18 (29.4.2012) by [The Civil Aviation (Air Travel Organisers’ Licensing) (Amendment) Regulations 2012 (S.I. 2012/1134)](https://www.legislation.gov.uk/uksi/2012/1134), regs. 1, 2(b)
 
-[^key-7d4b85f3f4e0139d410b55e99a846141]: Textual amendment: Words in reg. 18(a) inserted (1.7.2018) by [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [13(2)](https://www.legislation.gov.uk/uksi/2018/670/regulation/13/2)
+[^c-7d4b85f3f4e0139d410b55e99a846141]: Textual amendment: Words in reg. 18(a) inserted (1.7.2018) by [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [13(2)](https://www.legislation.gov.uk/uksi/2018/670/regulation/13/2)
 
-[^key-9eab47a76d5bb0beaf402cc9b69d0a3d]: Textual amendment: Word in reg. 18(1)(b) substituted (29.4.2012) by [The Civil Aviation (Air Travel Organisers’ Licensing) (Amendment) Regulations 2012 (S.I. 2012/1134)](https://www.legislation.gov.uk/uksi/2012/1134), regs. 1, 2(b)
+[^c-9eab47a76d5bb0beaf402cc9b69d0a3d]: Textual amendment: Word in reg. 18(1)(b) substituted (29.4.2012) by [The Civil Aviation (Air Travel Organisers’ Licensing) (Amendment) Regulations 2012 (S.I. 2012/1134)](https://www.legislation.gov.uk/uksi/2012/1134), regs. 1, 2(b)
 
-[^key-3d768823e149f4610a685969628ed434]: Textual amendment: Words in reg. 18(b) substituted (1.7.2018) by [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [13(3)](https://www.legislation.gov.uk/uksi/2018/670/regulation/13/3)
+[^c-3d768823e149f4610a685969628ed434]: Textual amendment: Words in reg. 18(b) substituted (1.7.2018) by [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [13(3)](https://www.legislation.gov.uk/uksi/2018/670/regulation/13/3)
 
-[^key-910dd3de9888d5f449b1c64dba05b78f]: Textual amendment: Reg. 18(2) omitted (29.4.2012) by virtue of [The Civil Aviation (Air Travel Organisers’ Licensing) (Amendment) Regulations 2012 (S.I. 2012/1134)](https://www.legislation.gov.uk/uksi/2012/1134), regs. 1, 2(c)
+[^c-910dd3de9888d5f449b1c64dba05b78f]: Textual amendment: Reg. 18(2) omitted (29.4.2012) by virtue of [The Civil Aviation (Air Travel Organisers’ Licensing) (Amendment) Regulations 2012 (S.I. 2012/1134)](https://www.legislation.gov.uk/uksi/2012/1134), regs. 1, 2(c)
 
-[^key-e15ba53a1bf2b5b400ab7e45bd513381]: Textual amendment: Words in reg. 20 inserted (1.7.2018) by [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [14(2)](https://www.legislation.gov.uk/uksi/2018/670/regulation/14/2)
+[^c-e15ba53a1bf2b5b400ab7e45bd513381]: Textual amendment: Words in reg. 20 inserted (1.7.2018) by [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [14(2)](https://www.legislation.gov.uk/uksi/2018/670/regulation/14/2)
 
-[^key-473d8b1b61369ddb22db0161e5561b24]: Textual amendment: Word in reg. 20(b) inserted (1.7.2018) by [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [14(3)](https://www.legislation.gov.uk/uksi/2018/670/regulation/14/3)
+[^c-473d8b1b61369ddb22db0161e5561b24]: Textual amendment: Word in reg. 20(b) inserted (1.7.2018) by [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [14(3)](https://www.legislation.gov.uk/uksi/2018/670/regulation/14/3)
 
-[^key-349e23da7fad8ca9317cebd2877eb165]: Textual amendment: Reg. 20(c) substituted (1.7.2018) by [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [14(4)](https://www.legislation.gov.uk/uksi/2018/670/regulation/14/4)
+[^c-349e23da7fad8ca9317cebd2877eb165]: Textual amendment: Reg. 20(c) substituted (1.7.2018) by [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [14(4)](https://www.legislation.gov.uk/uksi/2018/670/regulation/14/4)
 
-[^key-1a4b98aeb90ce5e5be302e7e5ce51c14]: Textual amendment: Reg. 20(d)(e) omitted (1.7.2018) by virtue of [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [14(5)](https://www.legislation.gov.uk/uksi/2018/670/regulation/14/5)
+[^c-1a4b98aeb90ce5e5be302e7e5ce51c14]: Textual amendment: Reg. 20(d)(e) omitted (1.7.2018) by virtue of [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [14(5)](https://www.legislation.gov.uk/uksi/2018/670/regulation/14/5)
 
-[^key-2a92f11cf2d090dc68fa69596e3b8d2a]: Textual amendment: Words in reg. 22(2)(c) omitted (29.4.2012) by virtue of [The Civil Aviation (Air Travel Organisers’ Licensing) (Amendment) Regulations 2012 (S.I. 2012/1134)](https://www.legislation.gov.uk/uksi/2012/1134), regs. 1, [2(e)](https://www.legislation.gov.uk/uksi/2012/1134/regulation/2/e)
+[^c-2a92f11cf2d090dc68fa69596e3b8d2a]: Textual amendment: Words in reg. 22(2)(c) omitted (29.4.2012) by virtue of [The Civil Aviation (Air Travel Organisers’ Licensing) (Amendment) Regulations 2012 (S.I. 2012/1134)](https://www.legislation.gov.uk/uksi/2012/1134), regs. 1, [2(e)](https://www.legislation.gov.uk/uksi/2012/1134/regulation/2/e)
 
-[^key-0cae5d6ca40c47c9bef1e56601f3d752]: Textual amendment: Pt. 3 omitted (1.7.2018) by virtue of [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [15](https://www.legislation.gov.uk/uksi/2018/670/regulation/15)
+[^c-0cae5d6ca40c47c9bef1e56601f3d752]: Textual amendment: Pt. 3 omitted (1.7.2018) by virtue of [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [15](https://www.legislation.gov.uk/uksi/2018/670/regulation/15)
 
 [^c21235311]: Marginal citation: [S.I. 2007/2999](https://www.legislation.gov.uk/uksi/2007/2999).
 
-[^key-aeaa20c7805bfc146264bc6ad13b68f8]: Textual amendment: Words in reg. 50(1)(b) substituted (29.4.2012) by [The Civil Aviation (Air Travel Organisers’ Licensing) (Amendment) Regulations 2012 (S.I. 2012/1134)](https://www.legislation.gov.uk/uksi/2012/1134), regs. 1, [2(f)](https://www.legislation.gov.uk/uksi/2012/1134/regulation/2/f)
+[^c-aeaa20c7805bfc146264bc6ad13b68f8]: Textual amendment: Words in reg. 50(1)(b) substituted (29.4.2012) by [The Civil Aviation (Air Travel Organisers’ Licensing) (Amendment) Regulations 2012 (S.I. 2012/1134)](https://www.legislation.gov.uk/uksi/2012/1134), regs. 1, [2(f)](https://www.legislation.gov.uk/uksi/2012/1134/regulation/2/f)
 
-[^key-89dffca555c550afd8f4946d7033593e]: Textual amendment: Reg. 50(2) omitted (1.7.2018) by virtue of [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [16](https://www.legislation.gov.uk/uksi/2018/670/regulation/16)
+[^c-89dffca555c550afd8f4946d7033593e]: Textual amendment: Reg. 50(2) omitted (1.7.2018) by virtue of [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [16](https://www.legislation.gov.uk/uksi/2018/670/regulation/16)
 
 [^c21235321]: Marginal citation: [1998 c.29](https://www.legislation.gov.uk/ukpga/1998/29).
 
-[^key-3059bb0e36c40ab754b94ffe8000db4c]: Textual amendment: Reg. 66 omitted (1.7.2018) by virtue of [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [17](https://www.legislation.gov.uk/uksi/2018/670/regulation/17)
+[^c-3059bb0e36c40ab754b94ffe8000db4c]: Textual amendment: Reg. 66 omitted (1.7.2018) by virtue of [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [17](https://www.legislation.gov.uk/uksi/2018/670/regulation/17)
 
 [^c21235331]: Marginal citation: Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc Rules) 1999 [S.I. 1999/929](https://www.legislation.gov.uk/uksi/1999/929).
 
 [^c21235341]: Marginal citation: [S.I. 1980/397 (N.I. 3)](https://www.legislation.gov.uk/nisi/1980/397), to which there are amendments not relevant to these Regulations.
 
-[^key-3f13858c92e1dbfd60acf1a17204c7b5]: Textual amendment: Words in reg. 69(2) inserted (1.7.2018) by [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [18(a)](https://www.legislation.gov.uk/uksi/2018/670/regulation/18/a)
+[^c-3f13858c92e1dbfd60acf1a17204c7b5]: Textual amendment: Words in reg. 69(2) inserted (1.7.2018) by [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [18(a)](https://www.legislation.gov.uk/uksi/2018/670/regulation/18/a)
 
-[^key-acf5c81b3978a703620b3df95a590d04]: Textual amendment: Word in reg. 69(2) omitted (1.7.2018) by virtue of [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [18(b)](https://www.legislation.gov.uk/uksi/2018/670/regulation/18/b)
+[^c-acf5c81b3978a703620b3df95a590d04]: Textual amendment: Word in reg. 69(2) omitted (1.7.2018) by virtue of [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [18(b)](https://www.legislation.gov.uk/uksi/2018/670/regulation/18/b)
 
-[^key-f34955495c25c20f59cdbc26cae8dafd]: Textual amendment: Words in reg. 70(1) inserted (1.7.2018) by [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [19(a)](https://www.legislation.gov.uk/uksi/2018/670/regulation/19/a)
+[^c-f34955495c25c20f59cdbc26cae8dafd]: Textual amendment: Words in reg. 70(1) inserted (1.7.2018) by [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [19(a)](https://www.legislation.gov.uk/uksi/2018/670/regulation/19/a)
 
-[^key-5fab0141b491779d89cd1291a32fae85]: Textual amendment: Word in reg. 70(1) omitted (1.7.2018) by virtue of [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [19(b)](https://www.legislation.gov.uk/uksi/2018/670/regulation/19/b)
+[^c-5fab0141b491779d89cd1291a32fae85]: Textual amendment: Word in reg. 70(1) omitted (1.7.2018) by virtue of [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [19(b)](https://www.legislation.gov.uk/uksi/2018/670/regulation/19/b)
 
 [^c21235351]: Marginal citation: [1980 c.43](https://www.legislation.gov.uk/ukpga/1980/43).
 
@@ -1166,8 +1166,8 @@ An impact assessment has been prepared in relation to these Regulations. The ass
 
 [^c21235381]: Marginal citation: [S.I. 2007/2999](https://www.legislation.gov.uk/uksi/2007/2999).
 
-[^key-8da35a5add18be5421fdff609e9b71ba]: Textual amendment: Words in reg. 72(d) omitted (29.4.2012) by virtue of [The Civil Aviation (Air Travel Organisers’ Licensing) (Amendment) Regulations 2012 (S.I. 2012/1134)](https://www.legislation.gov.uk/uksi/2012/1134), regs. 1, [2(g)](https://www.legislation.gov.uk/uksi/2012/1134/regulation/2/g)
+[^c-8da35a5add18be5421fdff609e9b71ba]: Textual amendment: Words in reg. 72(d) omitted (29.4.2012) by virtue of [The Civil Aviation (Air Travel Organisers’ Licensing) (Amendment) Regulations 2012 (S.I. 2012/1134)](https://www.legislation.gov.uk/uksi/2012/1134), regs. 1, [2(g)](https://www.legislation.gov.uk/uksi/2012/1134/regulation/2/g)
 
 [^c21235391]: Marginal citation: [S.I. 1995/1054](https://www.legislation.gov.uk/uksi/1995/1054).
 
-[^key-99d80452e6aa39945d5376d736d48848]: Textual amendment: Reg. 74 omitted (1.7.2018) by virtue of [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [20](https://www.legislation.gov.uk/uksi/2018/670/regulation/20)
+[^c-99d80452e6aa39945d5376d736d48848]: Textual amendment: Reg. 74 omitted (1.7.2018) by virtue of [The Civil Aviation (Air Travel Organisers' Licensing) (Amendment) Regulations 2018 (S.I. 2018/670)](https://www.legislation.gov.uk/uksi/2018/670), [regs. 1](https://www.legislation.gov.uk/uksi/2018/670/regulation/1), [20](https://www.legislation.gov.uk/uksi/2018/670/regulation/20)

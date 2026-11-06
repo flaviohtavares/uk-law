@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 119. Coordination between regulators[^key-c46aeb3f28be441ac84fdd4f6f46a260]
+## 119. Coordination between regulators[^c-c46aeb3f28be441ac84fdd4f6f46a260]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c46aeb3f28be441ac84fdd4f6f46a260]: Commencement: S. 119 in force at 1.4.2021 by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(c)](https://www.legislation.gov.uk/uksi/2021/297/article/2/c)
+[^c-c46aeb3f28be441ac84fdd4f6f46a260]: Commencement: S. 119 in force at 1.4.2021 by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(c)](https://www.legislation.gov.uk/uksi/2021/297/article/2/c)

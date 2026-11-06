@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20. Revocation[^key-3c4404db0ae6603e325e0e4c460bebf3]
+## 20. Revocation[^c-3c4404db0ae6603e325e0e4c460bebf3]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3c4404db0ae6603e325e0e4c460bebf3]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2021/84/regulation/20) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
+[^c-3c4404db0ae6603e325e0e4c460bebf3]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2021/84/regulation/20) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)

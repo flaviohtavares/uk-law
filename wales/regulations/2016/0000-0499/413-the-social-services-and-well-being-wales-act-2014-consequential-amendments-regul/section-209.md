@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**209.**[^key-66af400c82ab142deb154e10f98a17ee] In Schedule 4, omit paragraph 77 (amendment to section 24C of the Children Act 1989).
+**209.**[^c-66af400c82ab142deb154e10f98a17ee] In Schedule 4, omit paragraph 77 (amendment to section 24C of the Children Act 1989).
 
 ## Annotations
 
-[^key-66af400c82ab142deb154e10f98a17ee]: Commencement: Reg. 209 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-66af400c82ab142deb154e10f98a17ee]: Commencement: Reg. 209 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

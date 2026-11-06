@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Surrender and extinguishment[^c1967944][^key-c320b60e5e348c276ea8141a4e9243e5][^key-82570807b268f341ad2d8f97f8249c8c]
+## 13. Surrender and extinguishment[^c1967944][^c-c320b60e5e348c276ea8141a4e9243e5][^c-82570807b268f341ad2d8f97f8249c8c]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ summary: ''
 
 [^c1967944]: Commencement: S. 13 partly in force; s. 13 not in force at Royal Assent see s. 56(1); s. 13(1)(a) in force for certain purposes for W. at 12.8.2007 by [S.I. 2007/2386](https://www.legislation.gov.uk/uksi/2007/2386), [art. 2](https://www.legislation.gov.uk/uksi/2007/2386/article/2)
 
-[^key-c320b60e5e348c276ea8141a4e9243e5]: Commencement: S. 13 in force at 1.10.2008 for specified purposes for E. by [S.I. 2008/1960](https://www.legislation.gov.uk/uksi/2008/1960), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2008/1960/article/2/1/b), [Sch.](https://www.legislation.gov.uk/uksi/2008/1960/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/1960/article/3))
+[^c-c320b60e5e348c276ea8141a4e9243e5]: Commencement: S. 13 in force at 1.10.2008 for specified purposes for E. by [S.I. 2008/1960](https://www.legislation.gov.uk/uksi/2008/1960), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2008/1960/article/2/1/b), [Sch.](https://www.legislation.gov.uk/uksi/2008/1960/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/1960/article/3))
 
-[^key-82570807b268f341ad2d8f97f8249c8c]: Commencement: S. 13 in force at 15.12.2014 for specified purposes for E. by [S.I. 2014/3026](https://www.legislation.gov.uk/uksi/2014/3026), [art. 3(1)(c)](https://www.legislation.gov.uk/uksi/2014/3026/article/3/1/c) (with [art. 5](https://www.legislation.gov.uk/uksi/2014/3026/article/5))
+[^c-82570807b268f341ad2d8f97f8249c8c]: Commencement: S. 13 in force at 15.12.2014 for specified purposes for E. by [S.I. 2014/3026](https://www.legislation.gov.uk/uksi/2014/3026), [art. 3(1)(c)](https://www.legislation.gov.uk/uksi/2014/3026/article/3/1/c) (with [art. 5](https://www.legislation.gov.uk/uksi/2014/3026/article/5))

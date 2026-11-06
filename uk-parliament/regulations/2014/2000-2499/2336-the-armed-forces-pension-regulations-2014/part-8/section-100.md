@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100. Applications for statements of entitlement[^key-d723aa16941f644cddcccbee82788281]
+## 100. Applications for statements of entitlement[^c-d723aa16941f644cddcccbee82788281]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d723aa16941f644cddcccbee82788281]: Commencement: [Reg. 100](https://www.legislation.gov.uk/uksi/2014/2336/regulation/100) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-d723aa16941f644cddcccbee82788281]: Commencement: [Reg. 100](https://www.legislation.gov.uk/uksi/2014/2336/regulation/100) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

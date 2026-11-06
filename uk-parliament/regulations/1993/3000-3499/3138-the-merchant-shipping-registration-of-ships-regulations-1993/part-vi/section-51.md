@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Change in registered particulars of ship[^key-e8f5dab5ec8b3a0b6a51cfeb39218bf6]
+## 51. Change in registered particulars of ship[^c-e8f5dab5ec8b3a0b6a51cfeb39218bf6]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,10 +33,10 @@ application shall be made as soon as practicable to the Registrar for the change
 
 (4) On recording the change in the registered particulars the Registrar shall cancel the existing certificate and issue to the owner a new certificate of registry expiring on the same date as the existing one.
 
-(5)[^key-db3a0979c72bb6ec227578c4c5853ac8] Any person who fails to make an application as required by paragraph (1) or (3) shall be guilty of an offence.
+(5)[^c-db3a0979c72bb6ec227578c4c5853ac8] Any person who fails to make an application as required by paragraph (1) or (3) shall be guilty of an offence.
 
 ## Annotations
 
-[^key-e8f5dab5ec8b3a0b6a51cfeb39218bf6]: Commencement: [Reg. 51](https://www.legislation.gov.uk/uksi/1993/3138/regulation/51) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
+[^c-e8f5dab5ec8b3a0b6a51cfeb39218bf6]: Commencement: [Reg. 51](https://www.legislation.gov.uk/uksi/1993/3138/regulation/51) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
 
-[^key-db3a0979c72bb6ec227578c4c5853ac8]: Textual amendment: [Reg. 51(5)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/51/5) added (10.1.2000) by [The Merchant Shipping (Registration of Ships, and Tonnage) (Amendment) Regulations 1999 (S.I. 1999/3206)](https://www.legislation.gov.uk/uksi/1999/3206), [regs. 1](https://www.legislation.gov.uk/uksi/1999/3206/regulation/1), [11](https://www.legislation.gov.uk/uksi/1999/3206/regulation/11)
+[^c-db3a0979c72bb6ec227578c4c5853ac8]: Textual amendment: [Reg. 51(5)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/51/5) added (10.1.2000) by [The Merchant Shipping (Registration of Ships, and Tonnage) (Amendment) Regulations 1999 (S.I. 1999/3206)](https://www.legislation.gov.uk/uksi/1999/3206), [regs. 1](https://www.legislation.gov.uk/uksi/1999/3206/regulation/1), [11](https://www.legislation.gov.uk/uksi/1999/3206/regulation/11)

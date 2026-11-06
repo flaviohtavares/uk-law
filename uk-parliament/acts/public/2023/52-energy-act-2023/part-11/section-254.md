@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 254. Energy savings opportunity schemes[^key-b5ff3e68aee2d7cdf81562d98ece7e91]
+## 254. Energy savings opportunity schemes[^c-b5ff3e68aee2d7cdf81562d98ece7e91]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b5ff3e68aee2d7cdf81562d98ece7e91]: Commencement: S. 254 in force at Royal Assent, see [s. 334(2)(m)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/m)
+[^c-b5ff3e68aee2d7cdf81562d98ece7e91]: Commencement: S. 254 in force at Royal Assent, see [s. 334(2)(m)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/m)

@@ -40,10 +40,10 @@ summary: ''
 
 (5) “**Relevant service**” has the meaning given in section 7.
 
-(8)[^key-1d48aee9b85bec23c00abd5b55a5d5e4] This section applies to a care home provider (see section 34R), a domiciliary care provider (see section 34S) or an independent palliative care provider (see section 34T) as it applies to a listed authority.
+(8)[^c-1d48aee9b85bec23c00abd5b55a5d5e4] This section applies to a care home provider (see section 34R), a domiciliary care provider (see section 34S) or an independent palliative care provider (see section 34T) as it applies to a listed authority.
 
 (9) But in its application in accordance with subsection (8), the reference to “relevant services” in subsection (2)(a)(i) is to be read as a reference to the matters to which Part 2A applies (see section 34A).
 
 ## Annotations
 
-[^key-1d48aee9b85bec23c00abd5b55a5d5e4]: Textual amendment: [S. 33(8)](https://www.legislation.gov.uk/ukpga/2005/10/section/33/8)[(9)](https://www.legislation.gov.uk/ukpga/2005/10/section/33/9) inserted (6.4.2016) by [Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2)](https://www.legislation.gov.uk/anaw/2016/2), [s. 188(1)](https://www.legislation.gov.uk/anaw/2016/2/section/188/1), [Sch. 3 para. 59](https://www.legislation.gov.uk/anaw/2016/2/schedule/3/paragraph/59); [S.I. 2016/467](https://www.legislation.gov.uk/wsi/2016/467), [art. 2](https://www.legislation.gov.uk/wsi/2016/467/article/2)
+[^c-1d48aee9b85bec23c00abd5b55a5d5e4]: Textual amendment: [S. 33(8)](https://www.legislation.gov.uk/ukpga/2005/10/section/33/8)[(9)](https://www.legislation.gov.uk/ukpga/2005/10/section/33/9) inserted (6.4.2016) by [Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2)](https://www.legislation.gov.uk/anaw/2016/2), [s. 188(1)](https://www.legislation.gov.uk/anaw/2016/2/section/188/1), [Sch. 3 para. 59](https://www.legislation.gov.uk/anaw/2016/2/schedule/3/paragraph/59); [S.I. 2016/467](https://www.legislation.gov.uk/wsi/2016/467), [art. 2](https://www.legislation.gov.uk/wsi/2016/467/article/2)

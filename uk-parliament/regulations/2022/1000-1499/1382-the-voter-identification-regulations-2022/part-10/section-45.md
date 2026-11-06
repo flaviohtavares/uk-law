@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Amendment of Schedule 3 (mayoral election combination of poll rules)[^key-46b427e34599b4b87a6f818d58726ff6]
+## 45. Amendment of Schedule 3 (mayoral election combination of poll rules)[^c-46b427e34599b4b87a6f818d58726ff6]
 
 *Extent: E+W+S+N.I.*
 
@@ -330,4 +330,4 @@ summary: ''
 
 ## Annotations
 
-[^key-46b427e34599b4b87a6f818d58726ff6]: Commencement: Reg. 45 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-46b427e34599b4b87a6f818d58726ff6]: Commencement: Reg. 45 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)

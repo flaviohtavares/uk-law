@@ -46,13 +46,13 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 28(2) of the Good Food Nation (Scotland) Act 2022[^f00001].
 
-## 1. Citation, commencement, and interpretation[^key-88af115e15476dd8a26278061db26a70]
+## 1. Citation, commencement, and interpretation[^c-88af115e15476dd8a26278061db26a70]
 
 (1) These Regulations may be cited as the Good Food Nation (Scotland) Act 2022 (Commencement No. 2) Regulations 2024 and come into force on 15 February 2024.
 
 (2) In these Regulations, “**the Act**” means the Good Food Nation (Scotland) Act 2022.
 
-## 2. Appointed days[^key-03aa821be8e5802d38247d29cc79be12]
+## 2. Appointed days[^c-03aa821be8e5802d38247d29cc79be12]
 
 (1) 15 February 2024 is the day appointed for the coming into force of the provisions of the Act specified in column 1 of the table in schedule 1 (the subject matter of which is described in column 2 of that table).
 
@@ -72,7 +72,7 @@ Edinburgh
 
 30th January 2024
 
-## SCHEDULE 1 — PROVISIONS OF THE ACT COMING INTO FORCE ON 15 February 2024[^key-1af9c6c07d84335e054d2367a0d34118]
+## SCHEDULE 1 — PROVISIONS OF THE ACT COMING INTO FORCE ON 15 February 2024[^c-1af9c6c07d84335e054d2367a0d34118]
 
 Regulation 2(1) and (2)
 
@@ -84,7 +84,7 @@ Regulation 2(1) and (2)
 | Schedule, paragraphs 18, 19 and 20 | Staff |  |
 | Schedule, paragraph 21 | Application of legislation relating to public bodies |  |
 
-## SCHEDULE 2 — PROVISIONS OF THE ACT COMING INTO FORCE ON 30 June 2025[^key-2468c2c2b27c7c7512331cf2f9eea1ef]
+## SCHEDULE 2 — PROVISIONS OF THE ACT COMING INTO FORCE ON 30 June 2025[^c-2468c2c2b27c7c7512331cf2f9eea1ef]
 
 Regulation 2(3) and (4)
 
@@ -92,11 +92,11 @@ Regulation 2(3) and (4)
 | --- | --- | --- |
 | Section 19 | Establishment of Scottish Food Commission | For all remaining purposes. |
 | Section 20 | Functions of the Commission |  |
-| [^key-50911e22e7b9d1444bcbaf529b0b917a]. . . | [^key-50911e22e7b9d1444bcbaf529b0b917a]. . . |  |
+| [^c-50911e22e7b9d1444bcbaf529b0b917a]. . . | [^c-50911e22e7b9d1444bcbaf529b0b917a]. . . |  |
 | Section 22 | Funding and financial assistance |  |
 | Section 23 | Publication of documents by the Commission: inclusive communication |  |
-| [^key-3556f4e3fde3ee13a70c97a070058e72]. . . | [^key-3556f4e3fde3ee13a70c97a070058e72]. . . |  |
-| Schedule, paragraphs 6 and 7[^key-211c1802e7a84e53c2e715389e765f2b] | Procedure |  |
+| [^c-3556f4e3fde3ee13a70c97a070058e72]. . . | [^c-3556f4e3fde3ee13a70c97a070058e72]. . . |  |
+| Schedule, paragraphs 6 and 7[^c-211c1802e7a84e53c2e715389e765f2b] | Procedure |  |
 | Schedule, paragraphs 9, 10 and 11 | Accountability |  |
 
 EXPLANATORY NOTE
@@ -124,16 +124,16 @@ The following provisions of the Good Food Nation (Scotland) Act 2022 have been b
 
 [^f00001]: Footnote: [2022 asp 5](https://www.legislation.gov.uk/asp/2022/5).
 
-[^key-88af115e15476dd8a26278061db26a70]: Commencement: Reg. 1 in force at 15.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2024/29/regulation/1/1)
+[^c-88af115e15476dd8a26278061db26a70]: Commencement: Reg. 1 in force at 15.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2024/29/regulation/1/1)
 
-[^key-03aa821be8e5802d38247d29cc79be12]: Commencement: Reg. 2 in force at 15.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2024/29/regulation/1/1)
+[^c-03aa821be8e5802d38247d29cc79be12]: Commencement: Reg. 2 in force at 15.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2024/29/regulation/1/1)
 
-[^key-1af9c6c07d84335e054d2367a0d34118]: Commencement: Sch. 1 in force at 15.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2024/29/regulation/1/1)
+[^c-1af9c6c07d84335e054d2367a0d34118]: Commencement: Sch. 1 in force at 15.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2024/29/regulation/1/1)
 
-[^key-2468c2c2b27c7c7512331cf2f9eea1ef]: Commencement: Sch. 2 in force at 15.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2024/29/regulation/1/1)
+[^c-2468c2c2b27c7c7512331cf2f9eea1ef]: Commencement: Sch. 2 in force at 15.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2024/29/regulation/1/1)
 
-[^key-50911e22e7b9d1444bcbaf529b0b917a]: Textual amendment: Words in [sch. 2](https://www.legislation.gov.uk/ssi/2024/29/schedule/2) omitted (10.3.2025) by virtue of [The Good Food Nation (Scotland) Act 2022 (Commencement No. 2 (Amendment) and Commencement No. 3) Regulations 2025 (S.S.I. 2025/49)](https://www.legislation.gov.uk/ssi/2025/49), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/49/regulation/1/1), [2(a)](https://www.legislation.gov.uk/ssi/2025/49/regulation/2/a)
+[^c-50911e22e7b9d1444bcbaf529b0b917a]: Textual amendment: Words in [sch. 2](https://www.legislation.gov.uk/ssi/2024/29/schedule/2) omitted (10.3.2025) by virtue of [The Good Food Nation (Scotland) Act 2022 (Commencement No. 2 (Amendment) and Commencement No. 3) Regulations 2025 (S.S.I. 2025/49)](https://www.legislation.gov.uk/ssi/2025/49), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/49/regulation/1/1), [2(a)](https://www.legislation.gov.uk/ssi/2025/49/regulation/2/a)
 
-[^key-3556f4e3fde3ee13a70c97a070058e72]: Textual amendment: Words in [sch. 2](https://www.legislation.gov.uk/ssi/2024/29/schedule/2) omitted (10.3.2025) by virtue of [The Good Food Nation (Scotland) Act 2022 (Commencement No. 2 (Amendment) and Commencement No. 3) Regulations 2025 (S.S.I. 2025/49)](https://www.legislation.gov.uk/ssi/2025/49), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/49/regulation/1/1), [2(b)](https://www.legislation.gov.uk/ssi/2025/49/regulation/2/b)
+[^c-3556f4e3fde3ee13a70c97a070058e72]: Textual amendment: Words in [sch. 2](https://www.legislation.gov.uk/ssi/2024/29/schedule/2) omitted (10.3.2025) by virtue of [The Good Food Nation (Scotland) Act 2022 (Commencement No. 2 (Amendment) and Commencement No. 3) Regulations 2025 (S.S.I. 2025/49)](https://www.legislation.gov.uk/ssi/2025/49), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/49/regulation/1/1), [2(b)](https://www.legislation.gov.uk/ssi/2025/49/regulation/2/b)
 
-[^key-211c1802e7a84e53c2e715389e765f2b]: Textual amendment: Words in [sch. 2](https://www.legislation.gov.uk/ssi/2024/29/schedule/2) substituted (10.3.2025) by [The Good Food Nation (Scotland) Act 2022 (Commencement No. 2 (Amendment) and Commencement No. 3) Regulations 2025 (S.S.I. 2025/49)](https://www.legislation.gov.uk/ssi/2025/49), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/49/regulation/1/1), [2(c)](https://www.legislation.gov.uk/ssi/2025/49/regulation/2/c)
+[^c-211c1802e7a84e53c2e715389e765f2b]: Textual amendment: Words in [sch. 2](https://www.legislation.gov.uk/ssi/2024/29/schedule/2) substituted (10.3.2025) by [The Good Food Nation (Scotland) Act 2022 (Commencement No. 2 (Amendment) and Commencement No. 3) Regulations 2025 (S.S.I. 2025/49)](https://www.legislation.gov.uk/ssi/2025/49), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/49/regulation/1/1), [2(c)](https://www.legislation.gov.uk/ssi/2025/49/regulation/2/c)

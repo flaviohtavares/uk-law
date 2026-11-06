@@ -357,7 +357,7 @@ After regulation 20A[^c23387141] insert—
 
 (3) Subsequent reports must be published at intervals not exceeding 5 years.
 
-(4)[^key-97842243cc928423e1aa2502155cd43c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-97842243cc928423e1aa2502155cd43c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Section 30(4) of the Small Business, Enterprise and Employment Act 2015 requires that a report published under this regulation must, in particular—
 
@@ -442,4 +442,4 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c23387141]: Marginal citation: [Regulation 20A](https://www.legislation.gov.uk/uksi/2018/995/regulation/20A) was inserted by [Legal Deposits Libraries Act 2003 (c. 28)](https://www.legislation.gov.uk/ukpga/2003/28), [section 8(2)](https://www.legislation.gov.uk/ukpga/2003/28/section/8/2).
 
-[^key-97842243cc928423e1aa2502155cd43c]: Textual amendment: [Reg. 20(4)](https://www.legislation.gov.uk/uksi/2018/995/regulation/20/4) omitted (31.12.2020) by virtue of [The Intellectual Property (Copyright and Related Rights) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/605)](https://www.legislation.gov.uk/uksi/2019/605), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/1/2), [35](https://www.legislation.gov.uk/uksi/2019/605/regulation/35) (with [reg. 38](https://www.legislation.gov.uk/uksi/2019/605/regulation/38)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1050/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-97842243cc928423e1aa2502155cd43c]: Textual amendment: [Reg. 20(4)](https://www.legislation.gov.uk/uksi/2018/995/regulation/20/4) omitted (31.12.2020) by virtue of [The Intellectual Property (Copyright and Related Rights) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/605)](https://www.legislation.gov.uk/uksi/2019/605), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/1/2), [35](https://www.legislation.gov.uk/uksi/2019/605/regulation/35) (with [reg. 38](https://www.legislation.gov.uk/uksi/2019/605/regulation/38)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1050/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

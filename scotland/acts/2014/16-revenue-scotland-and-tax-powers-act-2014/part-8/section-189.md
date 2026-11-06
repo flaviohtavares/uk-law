@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 189. Potential lost revenue: losses[^key-09713729079cb2332a199a0e9f31629e]
+## 189. Potential lost revenue: losses[^c-09713729079cb2332a199a0e9f31629e]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-09713729079cb2332a199a0e9f31629e]: Commencement: [S. 189](https://www.legislation.gov.uk/asp/2014/16/section/189) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-09713729079cb2332a199a0e9f31629e]: Commencement: [S. 189](https://www.legislation.gov.uk/asp/2014/16/section/189) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96. Miscellaneous amendments[^key-9352877cf30d640b84de420c4d7bab1d]
+## 96. Miscellaneous amendments[^c-9352877cf30d640b84de420c4d7bab1d]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9352877cf30d640b84de420c4d7bab1d]: Commencement: Art. 96 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-9352877cf30d640b84de420c4d7bab1d]: Commencement: Art. 96 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
 
 [^f00103]: Footnote: Schedule 11 was relevantly amended by section 109(8) of the Finance Act 2000.

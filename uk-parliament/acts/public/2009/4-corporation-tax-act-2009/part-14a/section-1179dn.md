@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1179DN. Disclosure of information for certification purposes[^key-2f0eac37ba158de991604259402344ab]
+## 1179DN. Disclosure of information for certification purposes[^c-2f0eac37ba158de991604259402344ab]
 
 *Extent: E+W+S+N.I.*
 
 (1) Section 18(1) of the Commissioners for Revenue and Customs Act 2005 (restriction on disclosure by Revenue and Customs officials) does not prevent disclosure to the Secretary of State for the purposes of the Secretary of State’s functions under—
 
 - (a) Schedule 1 to the Films Act 1985, or
-- (b) sections 1179DJA[^key-01681364e54169dbf35cba45ca251a5e] to 1179DM.
+- (b) sections 1179DJA[^c-01681364e54169dbf35cba45ca251a5e] to 1179DM.
 
 (2) Information disclosed to the Secretary of State for those purposes may be disclosed by the Secretary of State to the British Film Institute.
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2f0eac37ba158de991604259402344ab]: Textual amendment: Pt. 14A inserted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2024/3/schedule/2/paragraph/1) (with [Sch. 2 paras. 16(1)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/2/paragraph/16/1), [17-25](https://www.legislation.gov.uk/ukpga/2024/3/schedule/2/paragraph/17))
+[^c-2f0eac37ba158de991604259402344ab]: Textual amendment: Pt. 14A inserted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2024/3/schedule/2/paragraph/1) (with [Sch. 2 paras. 16(1)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/2/paragraph/16/1), [17-25](https://www.legislation.gov.uk/ukpga/2024/3/schedule/2/paragraph/17))
 
-[^key-01681364e54169dbf35cba45ca251a5e]: Textual amendment: Word in [s. 1179DN(1)(b)](https://www.legislation.gov.uk/ukpga/2009/4/section/1179DN/1/b) substituted (with effect in accordance with s. 15 of the amending Act) by [Finance (No. 2) Act 2024 (c. 12)](https://www.legislation.gov.uk/ukpga/2024/12), [s. 14(3)](https://www.legislation.gov.uk/ukpga/2024/12/section/14/3)
+[^c-01681364e54169dbf35cba45ca251a5e]: Textual amendment: Word in [s. 1179DN(1)(b)](https://www.legislation.gov.uk/ukpga/2009/4/section/1179DN/1/b) substituted (with effect in accordance with s. 15 of the amending Act) by [Finance (No. 2) Act 2024 (c. 12)](https://www.legislation.gov.uk/ukpga/2024/12), [s. 14(3)](https://www.legislation.gov.uk/ukpga/2024/12/section/14/3)

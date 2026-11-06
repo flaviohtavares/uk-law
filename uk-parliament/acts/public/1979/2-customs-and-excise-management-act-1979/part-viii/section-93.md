@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(A1)[^key-db2a5a2cc8f78513075e4eab1b609e8a] In their application to warehouses, this section and sections 94, 95, 97 and 98 apply only to excise warehouses.
+(A1)[^c-db2a5a2cc8f78513075e4eab1b609e8a] In their application to warehouses, this section and sections 94, 95, 97 and 98 apply only to excise warehouses.
 
 (1)[^c14776231] The Commissioners may by regulations under this section (referred to in this Act as “**warehousing regulations**”)—
 
@@ -84,7 +84,7 @@ In this subsection “[^c14776321]**relevant business or activity**” means, in
 
     S. 93: for previous exercise of this power, see Index to Government Orders
 
-[^key-db2a5a2cc8f78513075e4eab1b609e8a]: Textual amendment: [S. 93(A1)](https://www.legislation.gov.uk/ukpga/1979/2/section/93/A1) inserted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 85](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/85) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-db2a5a2cc8f78513075e4eab1b609e8a]: Textual amendment: [S. 93(A1)](https://www.legislation.gov.uk/ukpga/1979/2/section/93/A1) inserted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 85](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/85) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c14776231]: Textual amendment: S. 93(1) substituted (9.12.1992) by [Finance (No. 2) Act 1992 (c. 48)](https://www.legislation.gov.uk/ukpga/1992/48), [s. 3(1)](https://www.legislation.gov.uk/ukpga/1992/48/section/3/1), [Sch. 2 para. 2(1)](https://www.legislation.gov.uk/ukpga/1992/48/schedule/2/paragraph/2/1); [S.I. 1992/3104](https://www.legislation.gov.uk/uksi/1992/3104), [art. 2(1)](https://www.legislation.gov.uk/uksi/1992/3104/article/2/1).
 

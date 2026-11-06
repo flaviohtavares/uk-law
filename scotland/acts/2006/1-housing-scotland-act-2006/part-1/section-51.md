@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 51. Maintenance accounts: grants[^key-ad36e2a5327dd46af19016e408507aed]
+## 51. Maintenance accounts: grants[^c-ad36e2a5327dd46af19016e408507aed]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The local authority may pay grants in respect of any expenses incurred in connec
 
 ## Annotations
 
-[^key-ad36e2a5327dd46af19016e408507aed]: Commencement: S. 51 in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-ad36e2a5327dd46af19016e408507aed]: Commencement: S. 51 in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)

@@ -24,7 +24,7 @@ Regulation 52
 
 ### Interpretation and notices
 
-**1.**[^key-0c6a31de25e8b1098fd15e38f06de07f] (1) In this Schedule—
+**1.**[^c-0c6a31de25e8b1098fd15e38f06de07f] (1) In this Schedule—
 
 - “**arrangement**” has the meaning given in section 152 of the Finance Act 2004[^f00107];
 - “**default arrangement**” has the meaning given in regulation 3 of the Occupational Pension Schemes (Charges and Governance) Regulations (Northern Ireland) 2015[^f00108];
@@ -66,7 +66,7 @@ Regulation 52
 
 ### Alternative ways of discharging the scheme’s liability
 
-**2.**[^key-3c7be7d621f04861262335a29fd830ba] (1) The ways of discharging an unconnected multiple employer scheme’s liability to each beneficiary in respect of the beneficiary’s accrued rights to benefits under the scheme referred to in section 87(1)(b) of the Act (continuity option 1: discharge of liabilities and winding up) include—
+**2.**[^c-3c7be7d621f04861262335a29fd830ba] (1) The ways of discharging an unconnected multiple employer scheme’s liability to each beneficiary in respect of the beneficiary’s accrued rights to benefits under the scheme referred to in section 87(1)(b) of the Act (continuity option 1: discharge of liabilities and winding up) include—
 
 - (a) transferring the value of those rights to an occupational pension scheme;
 - (b) transferring the value of those rights to a member’s flexi-access drawdown fund in respect of an arrangement for the purposes of entitlement by the beneficiary to income withdrawal which is an authorised member payment for the purposes of Part 4 of the Finance Act 2004 (pension schemes etc.);
@@ -78,7 +78,7 @@ Regulation 52
 
 ### Requirements of rules of scheme
 
-**3.**[^key-ab86fd000bc90dcabe3f94462761b944] (1) The rules of an unconnected multiple employer scheme must make provision about how continuity option 1 is to be given effect in the event that the trustees are required or decide to pursue continuity option 1.
+**3.**[^c-ab86fd000bc90dcabe3f94462761b944] (1) The rules of an unconnected multiple employer scheme must make provision about how continuity option 1 is to be given effect in the event that the trustees are required or decide to pursue continuity option 1.
 
 (2) The rules must include the following—
 
@@ -92,7 +92,7 @@ Regulation 52
 
 ### Winding-up commencement time
 
-**4.**[^key-828d40b2a5b731dd3f5c745808022010] (1) Where the trustees of an unconnected multiple employer scheme are required to pursue continuity option 1 because a triggering event which is an item 1 or 2 triggering event has occurred in relation to the scheme, the winding-up commencement time must be on the date the decision to withdraw authorisation becomes final for the purposes of Part 2 of the Act (collective money purchase benefits: Northern Ireland).
+**4.**[^c-828d40b2a5b731dd3f5c745808022010] (1) Where the trustees of an unconnected multiple employer scheme are required to pursue continuity option 1 because a triggering event which is an item 1 or 2 triggering event has occurred in relation to the scheme, the winding-up commencement time must be on the date the decision to withdraw authorisation becomes final for the purposes of Part 2 of the Act (collective money purchase benefits: Northern Ireland).
 
 (2) Where the trustees of an unconnected multiple employer scheme are required to pursue continuity option 1 because a triggering event which is an item 3 triggering event has occurred in relation to the scheme, the winding-up commencement time must be on the date on which the Pensions Regulator gives a notification under section 58(3) of the Act (authorisation of collective money purchase schemes).
 
@@ -100,7 +100,7 @@ Regulation 52
 
 ### Quantification of the value of beneficiaries’ accrued rights to benefits
 
-**5.**[^key-54b92f66eeef10cae2ef4970d8130780] (1) Quantification must be carried out—
+**5.**[^c-54b92f66eeef10cae2ef4970d8130780] (1) Quantification must be carried out—
 
 - (a) in accordance with these Regulations and with the scheme rules,
 - (b) on an actuarial basis,
@@ -115,7 +115,7 @@ Regulation 52
 
 ### Winding-up period
 
-**6.**[^key-ad4a084dbac109e4364af2897969bf03] (1) Subject to sub-paragraph (5), no new members may be admitted to the scheme during the winding-up period.
+**6.**[^c-ad4a084dbac109e4364af2897969bf03] (1) Subject to sub-paragraph (5), no new members may be admitted to the scheme during the winding-up period.
 
 (2) No further contributions by or on behalf or in respect of members of the scheme may be paid towards the scheme (other than those due to be paid before the beginning of the winding-up period) during the winding-up period.
 
@@ -142,7 +142,7 @@ Regulation 52
 
 ### Periodic income
 
-**7.**[^key-6c1715e8311c7025abfa215ad2aadab1] (1) Where a person was a pensioner beneficiary of the scheme immediately prior to the beginning of the winding-up period, or would have become a pensioner beneficiary of the scheme during the winding-up period but for the provisions of this Schedule, the trustees must pay that person a periodic income under and in accordance with this paragraph.
+**7.**[^c-6c1715e8311c7025abfa215ad2aadab1] (1) Where a person was a pensioner beneficiary of the scheme immediately prior to the beginning of the winding-up period, or would have become a pensioner beneficiary of the scheme during the winding-up period but for the provisions of this Schedule, the trustees must pay that person a periodic income under and in accordance with this paragraph.
 
 (2) A payment of periodic income by a scheme under this paragraph is not a payment of benefits (including pension) under the scheme.
 
@@ -169,7 +169,7 @@ Regulation 52
 
 ### Information about periodic income
 
-**8.**[^key-abb4a491541246b81114cdeb13171efe] (1) The information mentioned in sub-paragraph (2) must be given in accordance with the provisions of this paragraph to each person who was a pensioner beneficiary of the scheme immediately prior to the beginning of the winding-up period and to each person who would have become a pensioner beneficiary of the scheme during the winding-up period but for the provisions of this Schedule.
+**8.**[^c-abb4a491541246b81114cdeb13171efe] (1) The information mentioned in sub-paragraph (2) must be given in accordance with the provisions of this paragraph to each person who was a pensioner beneficiary of the scheme immediately prior to the beginning of the winding-up period and to each person who would have become a pensioner beneficiary of the scheme during the winding-up period but for the provisions of this Schedule.
 
 (2) The information is—
 
@@ -189,7 +189,7 @@ Regulation 52
 
 ### Scheme to continue to be a collective money purchase scheme during winding-up
 
-**9.**[^key-fb0361d536f23d4b933f8ebd7a7f3876] (1) A “**collective money purchase scheme**” for the purposes of Part 2 of the Act (collective money purchase benefits: Northern Ireland) includes a scheme or section of a scheme during the winding-up period where the scheme or section was an unconnected multiple employer scheme immediately before the winding-up commencement time.
+**9.**[^c-fb0361d536f23d4b933f8ebd7a7f3876] (1) A “**collective money purchase scheme**” for the purposes of Part 2 of the Act (collective money purchase benefits: Northern Ireland) includes a scheme or section of a scheme during the winding-up period where the scheme or section was an unconnected multiple employer scheme immediately before the winding-up commencement time.
 
 (2) Sub-paragraph (1) applies irrespective of the fact that in accordance with the requirements of this Schedule the scheme or section has, during the winding-up period—
 
@@ -198,7 +198,7 @@ Regulation 52
 
 ### Trustees’ notice to employers
 
-**10.**[^key-965d860632800b872a8ca6c806a48b81] (1) The trustees of an unconnected multiple employer scheme that is pursuing continuity option 1 must send a notice to each employer in relation to the scheme containing the information mentioned in sub-paragraph (2), in accordance with sub-paragraph (3).
+**10.**[^c-965d860632800b872a8ca6c806a48b81] (1) The trustees of an unconnected multiple employer scheme that is pursuing continuity option 1 must send a notice to each employer in relation to the scheme containing the information mentioned in sub-paragraph (2), in accordance with sub-paragraph (3).
 
 (2) The information is—
 
@@ -215,7 +215,7 @@ Regulation 52
 
 ### Notice to receiving scheme
 
-**11.**[^key-9aa21112c1e1f7a5cd311a6a5db7bdb1] (1) The trustees of an unconnected multiple employer scheme that is pursuing continuity option 1 must send a notice to the trustees or managers of any occupational pension scheme to which they propose to transfer the value of beneficiaries’ accrued rights to benefits under the scheme under a default discharge option, the trustees or managers of which are able and willing to accept the transfer.
+**11.**[^c-9aa21112c1e1f7a5cd311a6a5db7bdb1] (1) The trustees of an unconnected multiple employer scheme that is pursuing continuity option 1 must send a notice to the trustees or managers of any occupational pension scheme to which they propose to transfer the value of beneficiaries’ accrued rights to benefits under the scheme under a default discharge option, the trustees or managers of which are able and willing to accept the transfer.
 
 (2) The notice sent under this paragraph must state that the scheme has been selected as a default discharge option for the purposes of section 87 of the Act (continuity option 1: discharge of liabilities and winding up), for the transfer of the value of beneficiaries’ accrued rights to benefits.
 
@@ -226,7 +226,7 @@ Regulation 52
 
 ### Trustees’ first notice to beneficiaries in respect of discharge options
 
-**12.**[^key-26b886c24eb0436473728b348283a1a2] (1) The trustees of an unconnected multiple employer scheme that is pursuing continuity option 1 must send a notice to each beneficiary of the scheme containing the information mentioned in sub-paragraph (2), in accordance with sub-paragraph (3).
+**12.**[^c-26b886c24eb0436473728b348283a1a2] (1) The trustees of an unconnected multiple employer scheme that is pursuing continuity option 1 must send a notice to each beneficiary of the scheme containing the information mentioned in sub-paragraph (2), in accordance with sub-paragraph (3).
 
 (2) The information is—
 
@@ -246,7 +246,7 @@ Regulation 52
 
 ### Trustees’ second notice to beneficiaries in respect of discharge options
 
-**13.**[^key-fa99c78ecc27cd54c3dbecc495bc50a5] (1) The trustees of an unconnected multiple employer scheme that is pursuing continuity option 1 must send a second notice to each beneficiary of the scheme containing the information mentioned in sub-paragraph (2), in accordance with sub-paragraph (3).
+**13.**[^c-fa99c78ecc27cd54c3dbecc495bc50a5] (1) The trustees of an unconnected multiple employer scheme that is pursuing continuity option 1 must send a second notice to each beneficiary of the scheme containing the information mentioned in sub-paragraph (2), in accordance with sub-paragraph (3).
 
 (2) The information is—
 
@@ -268,7 +268,7 @@ Regulation 52
 
 ### Beneficiaries’ response to trustees
 
-**14.**[^key-6ac422088f7f0a74fc5ea11f558d672c] (1) A beneficiary who has received notice from the trustees under paragraph 13 may give notice to the trustees requiring them to discharge the scheme’s liability to the beneficiary in respect of the value of the beneficiary’s accrued rights to benefits under the scheme—
+**14.**[^c-6ac422088f7f0a74fc5ea11f558d672c] (1) A beneficiary who has received notice from the trustees under paragraph 13 may give notice to the trustees requiring them to discharge the scheme’s liability to the beneficiary in respect of the value of the beneficiary’s accrued rights to benefits under the scheme—
 
 - (a) in the way set out in the default discharge option, or
 - (b) in an alternative way specified by the beneficiary.
@@ -294,14 +294,14 @@ Regulation 52
 
 ### Notice of expected discharge time
 
-**15.**[^key-d2e332aeb9e2b6086e071fe30dcd4b06] Not less than one month before the date of the expected discharge time, the trustees of an unconnected multiple employer scheme that is pursuing continuity option 1 must send a notice of the expected discharge time to—
+**15.**[^c-d2e332aeb9e2b6086e071fe30dcd4b06] Not less than one month before the date of the expected discharge time, the trustees of an unconnected multiple employer scheme that is pursuing continuity option 1 must send a notice of the expected discharge time to—
 
 - (a) each beneficiary of the scheme, and
 - (b) the employers in relation to the scheme.
 
 ### Trustees’ powers
 
-**16.**[^key-1181e2e405005db989051e325be93275] (1) This paragraph applies where the trustees of an unconnected multiple employer scheme that is pursuing continuity option 1 do not receive a notice from a beneficiary in accordance with paragraph 14.
+**16.**[^c-1181e2e405005db989051e325be93275] (1) This paragraph applies where the trustees of an unconnected multiple employer scheme that is pursuing continuity option 1 do not receive a notice from a beneficiary in accordance with paragraph 14.
 
 (2) The trustees may discharge the scheme’s liability to a beneficiary in respect of the beneficiary’s accrued rights to benefits under the scheme in the way set out in the default discharge option for the beneficiary without the consent of the beneficiary.
 
@@ -309,7 +309,7 @@ Regulation 52
 
 ### Trustees’ duty to transfer
 
-**17.**[^key-df8c04048835ec81dc7cc712b04f7fa9] (1) If the trustees of an unconnected multiple employer scheme that is pursuing continuity option 1 receive notice from a beneficiary in accordance with paragraph 14, they must arrange for the scheme’s liability to the beneficiary in respect of the beneficiary’s accrued rights to benefits under the scheme to be discharged as specified in the notice.
+**17.**[^c-df8c04048835ec81dc7cc712b04f7fa9] (1) If the trustees of an unconnected multiple employer scheme that is pursuing continuity option 1 receive notice from a beneficiary in accordance with paragraph 14, they must arrange for the scheme’s liability to the beneficiary in respect of the beneficiary’s accrued rights to benefits under the scheme to be discharged as specified in the notice.
 
 (2) If the trustees do not receive notice from a beneficiary in accordance with paragraph 14, they must arrange for the scheme’s liability to the beneficiary in respect of the beneficiary’s accrued rights to benefits under the scheme to be discharged in accordance with the default discharge option.
 
@@ -321,7 +321,7 @@ Regulation 52
 
 ### Administration charges
 
-**18.**[^key-e6dad0f5240ac15056ee45fa7ffa7244] (1) This paragraph applies to the trustees or managers of any occupational pension scheme (the “proposed receiving scheme”) to which the trustees of an unconnected multiple employer scheme that is pursuing continuity option 1 (the “transferring scheme”) propose to transfer the value of beneficiaries’ accrued rights to benefits under the scheme, under a default discharge option.
+**18.**[^c-e6dad0f5240ac15056ee45fa7ffa7244] (1) This paragraph applies to the trustees or managers of any occupational pension scheme (the “proposed receiving scheme”) to which the trustees of an unconnected multiple employer scheme that is pursuing continuity option 1 (the “transferring scheme”) propose to transfer the value of beneficiaries’ accrued rights to benefits under the scheme, under a default discharge option.
 
 (2) The trustees of the proposed receiving scheme must provide to the Pensions Regulator, in accordance with this paragraph, a document setting out the level of administration charges that applies in relation to members of the proposed receiving scheme.
 
@@ -355,25 +355,25 @@ Regulation 52
 
 ### Trustee discharge
 
-**19.**[^key-105e0d41ef3db878d4a688170a9a66e0] Where the trustees of an unconnected multiple employer scheme that is pursuing continuity option 1 have discharged the scheme’s liability in respect of a beneficiary’s accrued rights to benefits under the scheme in accordance with the requirements of section 87 of the Act (continuity option 1: discharge of liabilities and winding up), the trustees cease to have any further obligation to provide benefits in relation to those rights.
+**19.**[^c-105e0d41ef3db878d4a688170a9a66e0] Where the trustees of an unconnected multiple employer scheme that is pursuing continuity option 1 have discharged the scheme’s liability in respect of a beneficiary’s accrued rights to benefits under the scheme in accordance with the requirements of section 87 of the Act (continuity option 1: discharge of liabilities and winding up), the trustees cease to have any further obligation to provide benefits in relation to those rights.
 
 ### Winding up
 
-**20.**[^key-a2c7f9e4a83bae76bbd87b344de25ab5] As soon as practicable after the trustees of an unconnected multiple employer scheme that is pursuing continuity option 1 have, in accordance with section 87 of the Act, discharged the scheme’s liability in respect of beneficiaries’ accrued rights to benefits under the scheme, they must wind up the scheme.
+**20.**[^c-a2c7f9e4a83bae76bbd87b344de25ab5] As soon as practicable after the trustees of an unconnected multiple employer scheme that is pursuing continuity option 1 have, in accordance with section 87 of the Act, discharged the scheme’s liability in respect of beneficiaries’ accrued rights to benefits under the scheme, they must wind up the scheme.
 
 ### Regulator’s power to direct
 
-**21.**[^key-3663d64132d5339cef90c95ae57ed979] (1) The Pensions Regulator may direct the trustees of an unconnected multiple employer scheme to do anything they are permitted or required to do by this Schedule where continuity option 1 is being pursued.
+**21.**[^c-3663d64132d5339cef90c95ae57ed979] (1) The Pensions Regulator may direct the trustees of an unconnected multiple employer scheme to do anything they are permitted or required to do by this Schedule where continuity option 1 is being pursued.
 
 (2) The trustees of an unconnected multiple employer scheme must comply with a direction issued by the Pensions Regulator requiring them to do anything permitted or required by this Schedule.
 
 ### Civil penalties
 
-**22.**[^key-d06698d901a410a07f29a6a25b7b4e97] Article 10 of the Pensions (Northern Ireland) Order 1995 (civil penalties) applies to a person who fails to comply with a requirement imposed by this Schedule, including where the requirement is contained in a direction made under it.
+**22.**[^c-d06698d901a410a07f29a6a25b7b4e97] Article 10 of the Pensions (Northern Ireland) Order 1995 (civil penalties) applies to a person who fails to comply with a requirement imposed by this Schedule, including where the requirement is contained in a direction made under it.
 
 ## Annotations
 
-[^key-0c6a31de25e8b1098fd15e38f06de07f]: Commencement: Sch. 6 para. 1 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-0c6a31de25e8b1098fd15e38f06de07f]: Commencement: Sch. 6 para. 1 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
 [^f00107]: Footnote: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12); section 152 was amended by paragraph 2 of Schedule 5 to the Finance Act [2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26) and section 24(2) of the Finance (No. 2) Act [2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30)
 
@@ -401,52 +401,52 @@ Regulation 52
 
 [^f00119]: Footnote: Paragraph 27K was inserted by paragraph 3(1) of Schedule 2 to the Taxation of Pensions Act 2014 and amended by paragraph 13 of Schedule 4 to the Finance Act 2015
 
-[^key-3c7be7d621f04861262335a29fd830ba]: Commencement: Sch. 6 para. 2 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-3c7be7d621f04861262335a29fd830ba]: Commencement: Sch. 6 para. 2 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
-[^key-ab86fd000bc90dcabe3f94462761b944]: Commencement: Sch. 6 para. 3 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-ab86fd000bc90dcabe3f94462761b944]: Commencement: Sch. 6 para. 3 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
-[^key-828d40b2a5b731dd3f5c745808022010]: Commencement: Sch. 6 para. 4 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-828d40b2a5b731dd3f5c745808022010]: Commencement: Sch. 6 para. 4 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
 [^f00120]: Footnote: [S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213); paragraphs (4) to (7) were inserted by section 45(2) of the Child Support, Pensions and Social Security Act (Northern Ireland) 2000 and amended by paragraph 63(3) and (4) of Schedule 10 to the Pensions (Northern Ireland) Order 2005
 
-[^key-54b92f66eeef10cae2ef4970d8130780]: Commencement: Sch. 6 para. 5 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-54b92f66eeef10cae2ef4970d8130780]: Commencement: Sch. 6 para. 5 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
-[^key-ad4a084dbac109e4364af2897969bf03]: Commencement: Sch. 6 para. 6 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-ad4a084dbac109e4364af2897969bf03]: Commencement: Sch. 6 para. 6 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
 [^f00121]: Footnote: [S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147)
 
 [^f00122]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49); *see* paragraph 50 of Schedule 4 to the Pension Schemes Act 2015
 
-[^key-6c1715e8311c7025abfa215ad2aadab1]: Commencement: Sch. 6 para. 7 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-6c1715e8311c7025abfa215ad2aadab1]: Commencement: Sch. 6 para. 7 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
-[^key-abb4a491541246b81114cdeb13171efe]: Commencement: Sch. 6 para. 8 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-abb4a491541246b81114cdeb13171efe]: Commencement: Sch. 6 para. 8 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
-[^key-fb0361d536f23d4b933f8ebd7a7f3876]: Commencement: Sch. 6 para. 9 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-fb0361d536f23d4b933f8ebd7a7f3876]: Commencement: Sch. 6 para. 9 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
-[^key-965d860632800b872a8ca6c806a48b81]: Commencement: Sch. 6 para. 10 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-965d860632800b872a8ca6c806a48b81]: Commencement: Sch. 6 para. 10 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
-[^key-9aa21112c1e1f7a5cd311a6a5db7bdb1]: Commencement: Sch. 6 para. 11 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-9aa21112c1e1f7a5cd311a6a5db7bdb1]: Commencement: Sch. 6 para. 11 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
-[^key-26b886c24eb0436473728b348283a1a2]: Commencement: Sch. 6 para. 12 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-26b886c24eb0436473728b348283a1a2]: Commencement: Sch. 6 para. 12 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
-[^key-fa99c78ecc27cd54c3dbecc495bc50a5]: Commencement: Sch. 6 para. 13 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-fa99c78ecc27cd54c3dbecc495bc50a5]: Commencement: Sch. 6 para. 13 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
-[^key-6ac422088f7f0a74fc5ea11f558d672c]: Commencement: Sch. 6 para. 14 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-6ac422088f7f0a74fc5ea11f558d672c]: Commencement: Sch. 6 para. 14 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
-[^key-d2e332aeb9e2b6086e071fe30dcd4b06]: Commencement: Sch. 6 para. 15 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-d2e332aeb9e2b6086e071fe30dcd4b06]: Commencement: Sch. 6 para. 15 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
-[^key-1181e2e405005db989051e325be93275]: Commencement: Sch. 6 para. 16 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-1181e2e405005db989051e325be93275]: Commencement: Sch. 6 para. 16 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
-[^key-df8c04048835ec81dc7cc712b04f7fa9]: Commencement: Sch. 6 para. 17 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-df8c04048835ec81dc7cc712b04f7fa9]: Commencement: Sch. 6 para. 17 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
-[^key-e6dad0f5240ac15056ee45fa7ffa7244]: Commencement: Sch. 6 para. 18 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-e6dad0f5240ac15056ee45fa7ffa7244]: Commencement: Sch. 6 para. 18 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
 [^f00123]: Footnote: [2021 c. 6 (N.I.)](https://www.legislation.gov.uk/nia/2021/6)
 
-[^key-105e0d41ef3db878d4a688170a9a66e0]: Commencement: Sch. 6 para. 19 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-105e0d41ef3db878d4a688170a9a66e0]: Commencement: Sch. 6 para. 19 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
-[^key-a2c7f9e4a83bae76bbd87b344de25ab5]: Commencement: Sch. 6 para. 20 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-a2c7f9e4a83bae76bbd87b344de25ab5]: Commencement: Sch. 6 para. 20 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
-[^key-3663d64132d5339cef90c95ae57ed979]: Commencement: Sch. 6 para. 21 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-3663d64132d5339cef90c95ae57ed979]: Commencement: Sch. 6 para. 21 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
-[^key-d06698d901a410a07f29a6a25b7b4e97]: Commencement: Sch. 6 para. 22 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-d06698d901a410a07f29a6a25b7b4e97]: Commencement: Sch. 6 para. 22 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)

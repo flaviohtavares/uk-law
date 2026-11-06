@@ -41,7 +41,7 @@ Coming into force
 
 The Welsh Ministers, in exercise of the powers conferred upon them by sections 26, 27, 39 and 150(5) of the Welsh Language (Wales) Measure 2011[^f00001], having received the approval of the National Assembly for Wales in accordance with section 150(2) of that Measure, make the following Regulations:
 
-## 1. Title, commencement, application and interpretation[^key-1988ca3ac0ed6bc4ea3f9e11ec76ea83]
+## 1. Title, commencement, application and interpretation[^c-1988ca3ac0ed6bc4ea3f9e11ec76ea83]
 
 (1) The title of these Regulations is the Welsh Language Standards (No. 2) Regulations 2016.
 
@@ -60,7 +60,7 @@ The Welsh Ministers, in exercise of the powers conferred upon them by sections 2
 - (a) references to any activity being carried out by a body, or to any service being provided by a body, are to be read as including a reference to that activity being carried out on the body’s behalf or to that service being provided on the body’s behalf by a third party under arrangements made between the third party and the body;
 - (b) accordingly, unless a compliance notice provides to the contrary, a body will have failed to comply with a standard in respect of an activity or service it has arranged to be carried out or provided by a third party if that activity or service has not been carried out or provided in accordance with the standard.
 
-## 2. Standards specified[^key-2f05ca3883b8c5d36df3d414db6d5ead]
+## 2. Standards specified[^c-2f05ca3883b8c5d36df3d414db6d5ead]
 
 (1) In Schedule 1—
 
@@ -93,7 +93,7 @@ The Welsh Ministers, in exercise of the powers conferred upon them by sections 2
 - (d) Part 5 makes provision about interpreting the supplementary standards;
 - (dd) Part 6 makes supplementary provision.
 
-## 3. Standards that are specifically applicable[^key-c80bc7b960a8aee0e5ef85a204e77938]
+## 3. Standards that are specifically applicable[^c-c80bc7b960a8aee0e5ef85a204e77938]
 
 (1) The Welsh Ministers authorize [^f00002] the Welsh Language Commissioner to give a compliance notice to the persons listed in Schedule 6 requiring them to comply with any of the standards specified under regulation 2.
 
@@ -118,7 +118,7 @@ First Minister of Wales
 
 Regulation 2(1)
 
-### PART 1 — THE STANDARDS[^key-4deede17cb436e2420e6bb5e0322ed06]
+### PART 1 — THE STANDARDS[^c-4deede17cb436e2420e6bb5e0322ed06]
 
 |  |  |
 | --- | --- |
@@ -253,7 +253,7 @@ Regulation 2(1)
 | **21** | **Standard relating to public address systems used by a body** |
 | **Standard 83:** | When you announce a message over a public address system, you must make that announcement in Welsh and, if the announcement is made in Welsh and in English, the announcement must be made in Welsh first. |
 
-### PART 2 — STANDARDS THAT ARE RELIANT ON OTHER STANDARDS – SPECIAL CONDITIONS[^key-d815d72833fa8cf3361dc54e44b6e41d]
+### PART 2 — STANDARDS THAT ARE RELIANT ON OTHER STANDARDS – SPECIAL CONDITIONS[^c-d815d72833fa8cf3361dc54e44b6e41d]
 
 |  |  |
 | --- | --- |
@@ -319,7 +319,7 @@ TABLE 1
 </tbody>
 </table>
 
-### PART 3 — INTERPRETING THE STANDARDS[^key-9f7198f0aa8a8820fa945df0ca471581]
+### PART 3 — INTERPRETING THE STANDARDS[^c-9f7198f0aa8a8820fa945df0ca471581]
 
 |  |  |
 | --- | --- |
@@ -356,7 +356,7 @@ TABLE 1
 
 Regulation 2(2)
 
-### PART 1 — THE STANDARDS[^key-7d5491e106bf22baa591bc54633a0337]
+### PART 1 — THE STANDARDS[^c-7d5491e106bf22baa591bc54633a0337]
 
 |  |  |
 | --- | --- |
@@ -372,7 +372,7 @@ Regulation 2(2)
 | **Standard 92:** | When you commission or undertake research that is intended to assist you to make a policy decision, you must ensure that the research considers how the policy decision under consideration could be made so that it would have a positive effects, or so that it would have increased positive effects, on —<br>- (a) opportunities for persons to use the Welsh language, and<br>- (b) treating the Welsh language no less favourably than the English language. |
 | **Standard 93:** | When you commission or undertake research that is intended to assist you to make a policy decision, you must ensure that the research considers how the policy decision under consideration could be made so that it would not have adverse effects, or so that it would have decreased adverse effects, on —<br>- (a) opportunities for persons to use the Welsh language, and<br>- (b) treating the Welsh language no less favourably than the English language. |
 
-### PART 2 — INTERPRETING THE STANDARDS[^key-2393c61e6c777195af59464a2cfed1d1]
+### PART 2 — INTERPRETING THE STANDARDS[^c-2393c61e6c777195af59464a2cfed1d1]
 
 |  |  |
 | --- | --- |
@@ -383,7 +383,7 @@ Regulation 2(2)
 
 Regulation 2(3)
 
-### PART 1 — THE STANDARDS[^key-d2af7a36014a9e02accedcbb2a91ccc0]
+### PART 1 — THE STANDARDS[^c-d2af7a36014a9e02accedcbb2a91ccc0]
 
 |  |  |
 | --- | --- |
@@ -448,7 +448,7 @@ Regulation 2(3)
 | **8** | **Standard relating to audio announcements and messages in a body’s workplace** |
 | **Standard 140:** | When you make announcements in the workplace using audio equipment, that announcement must be made in Welsh, and if the announcement is made in Welsh and in English, the announcement must be made in Welsh first. |
 
-### PART 2 — STANDARDS THAT ARE RELIANT ON OTHER STANDARDS – SPECIAL CONDITIONS[^key-2bf8dc2a2830d335a29064229d17a108]
+### PART 2 — STANDARDS THAT ARE RELIANT ON OTHER STANDARDS – SPECIAL CONDITIONS[^c-2bf8dc2a2830d335a29064229d17a108]
 
 |  |  |
 | --- | --- |
@@ -478,7 +478,7 @@ TABLE 1
 </tbody>
 </table>
 
-### PART 3 — INTERPRETING THE STANDARDS[^key-41d6b1d43a031be97e7276e7cfba9cf9]
+### PART 3 — INTERPRETING THE STANDARDS[^c-41d6b1d43a031be97e7276e7cfba9cf9]
 
 |  |  |
 | --- | --- |
@@ -495,7 +495,7 @@ TABLE 1
 
 Regulation 2(4)
 
-### PART 1 — THE STANDARDS[^key-cdd14ba1bf1cc515f5196e5c8cea2a5c]
+### PART 1 — THE STANDARDS[^c-cdd14ba1bf1cc515f5196e5c8cea2a5c]
 
 |  |  |
 | --- | --- |
@@ -509,7 +509,7 @@ Regulation 2(4)
 | **Standard 147:** | You must keep a copy of every assessment that you carry out (in accordance with standard 132) in respect of the Welsh language skills that may be needed in relation to a new or vacant post. |
 | **Standard 148:** | You must keep a record, in relation to each financial year, of the number of new and vacant posts which were categorised (in accordance with standard 132) as posts where—<br>- (a) Welsh language skills are essential;<br>- (b) Welsh language skills need to be learnt when appointed to the post;<br>- (c) Welsh language skills are desirable; or<br>- (ch) Welsh language skills are not necessary. |
 
-### PART 2 — INTERPRETING THE STANDARDS[^key-070f7a5a2a6773d61416d6b8556bae95]
+### PART 2 — INTERPRETING THE STANDARDS[^c-070f7a5a2a6773d61416d6b8556bae95]
 
 |  |  |
 | --- | --- |
@@ -520,7 +520,7 @@ Regulation 2(4)
 
 Regulation 2(5)
 
-### PART 1 — SERVICE DELIVERY STANDARDS[^key-997377fc6afe3354a24a29f89935c04a]
+### PART 1 — SERVICE DELIVERY STANDARDS[^c-997377fc6afe3354a24a29f89935c04a]
 
 |  |  |
 | --- | --- |
@@ -537,7 +537,7 @@ Regulation 2(5)
 | **6** | **A body providing information to the Welsh Language Commissioner** |
 | **Standard 154:** | You must provide any information requested by the Welsh Language Commissioner which relates to your compliance with the service delivery standards with which you are under a duty to comply. |
 
-### PART 2 — POLICY MAKING STANDARDS[^key-6f029bd08275a2123274c6daefc77306]
+### PART 2 — POLICY MAKING STANDARDS[^c-6f029bd08275a2123274c6daefc77306]
 
 |  |  |
 | --- | --- |
@@ -554,7 +554,7 @@ Regulation 2(5)
 | **12** | **A body providing information to the Welsh Language Commissioner** |
 | **Standard 160:** | You must provide any information requested by the Welsh Language Commissioner which relates to compliance with the policy making standards with which you are under a duty to comply. |
 
-### PART 3 — OPERATIONAL STANDARDS[^key-9e47debdd41c1ac9559ce230fc899433]
+### PART 3 — OPERATIONAL STANDARDS[^c-9e47debdd41c1ac9559ce230fc899433]
 
 |  |  |
 | --- | --- |
@@ -571,7 +571,7 @@ Regulation 2(5)
 | **18** | **A body providing information to the Welsh Language Commissioner** |
 | **Standard 166:** | You must provide any information requested by the Welsh Language Commissioner which relates to compliance with the operational standards with which you are under a duty to comply. |
 
-### PART 4 — RECORD KEEPING STANDARDS[^key-93987b956497b16ace39c3ebc030c80f]
+### PART 4 — RECORD KEEPING STANDARDS[^c-93987b956497b16ace39c3ebc030c80f]
 
 |  |  |
 | --- | --- |
@@ -580,7 +580,7 @@ Regulation 2(5)
 | **20** | **A body providing information to the Welsh Language Commissioner** |
 | **Standard 168:** | You must provide any records you have kept in accordance with the record keeping standards with which you are under a duty to comply to the Welsh Language Commissioner, if the Commissioner asks for those records. |
 
-### PART 5 — INTERPRETING THE STANDARDS[^key-2e213dffb82df0208a4cfbe14be826b0]
+### PART 5 — INTERPRETING THE STANDARDS[^c-2e213dffb82df0208a4cfbe14be826b0]
 
 |  |  |
 | --- | --- |
@@ -588,7 +588,7 @@ Regulation 2(5)
 | **22** | For the purposes of standards 152, 158 and 164 “financial year” means the body’s own financial year. |
 | **23** | For the purpose of the standards a requirement to produce or publish any written material in Welsh does not mean that material should be produced or published in Welsh only, nor does it mean that the material should be produced in Welsh first (unless that is specifically stated in the standard). |
 
-### PART 6 — SUPPLEMENTARY PROVISION[^key-80c4a3ff0d992a23704e2cfed55785da]
+### PART 6 — SUPPLEMENTARY PROVISION[^c-80c4a3ff0d992a23704e2cfed55785da]
 
 |  |  |
 | --- | --- |
@@ -601,28 +601,28 @@ Regulation 2(5)
 | **27** | **Publicising the way in which a body intends to comply with standards** |
 |  | (1) When a body is under a duty to comply with one or more of the following standards, it may comply with them in one document.<br>(2) The standards are—<br>- (a) standard 153;<br>- (b) standard 159;<br>- (c) standard 165*.* |
 
-## SCHEDULE 6[^key-61ab41edcc1efb626ef88f7a8c5b2888]
+## SCHEDULE 6[^c-61ab41edcc1efb626ef88f7a8c5b2888]
 
 Regulation 3
 
-[^key-61ab41edcc1efb626ef88f7a8c5b2888]
+[^c-61ab41edcc1efb626ef88f7a8c5b2888]
 
 - The Arts Council of Wales (*“Cyngor Celfyddydau Cymru”*)
 - The Auditor General for Wales (*“Archwilydd Cyffredinol Cymru”*)
 - The Big Lottery Fund (*“Y Gronfa Loteri Fawr”*)
-- Boundary Commission for Wales (“[^key-f503f3c7f576a87362ac8d7f22b282f0]***Comisiwn Ffiniau i Gymru***”)
+- Boundary Commission for Wales (“[^c-f503f3c7f576a87362ac8d7f22b282f0]***Comisiwn Ffiniau i Gymru***”)
 - The British Broadcasting Corporation (*“Y Gorfforaeth Ddarlledu Brydeinig”)*
 - The Children’s Commissioner for Wales (*“Comisiynydd Plant Cymru”*)
 - Colleges Wales Limited (“Colegau Cymru Cyfyngedig”)
 - The Commission for Equality and Human Rights (*“Comisiwn Cydraddoldeb a Hawliau Dynol”*)
 - The Commissioner for Older People in Wales (*“Comisiynydd Pobl Hŷn Cymru”*)
-- Community Housing Cymru (“[^key-f8e173ce4cef63bafa16fb65c14c28fd]***Cartrefi Cymunedol Cymru***
-- The Democracy and Boundary Commission Cymru (“Comisiwn Democratiaeth a Ffiniau Cymru”)[^key-428ef2d6205acc911a9bb07280814a22]
+- Community Housing Cymru (“[^c-f8e173ce4cef63bafa16fb65c14c28fd]***Cartrefi Cymunedol Cymru***
+- The Democracy and Boundary Commission Cymru (“Comisiwn Democratiaeth a Ffiniau Cymru”)[^c-428ef2d6205acc911a9bb07280814a22]
 - Her Majesty’s Chief Inspector of Education and Training in Wales (“Prif Arolygydd ei Mawrhydi dros Addysg a Hyfforddiant yng Nghymru”)
 - The Electoral Commission (*“Y Comisiwn Etholiadol”*)
 - Future Generations Commissioner for Wales (“***Comisiynydd Cenedlaethau’r Dyfodol Cymru***”)
 - The Information Commissioner’s Office (*“Swyddfa’r Comisiynydd Gwybodaeth”*)
-- [^key-125a1d503812e69202840bcb4bd0e50e]...
+- [^c-125a1d503812e69202840bcb4bd0e50e]...
 - The Local Government Data Unit – Wales (*“Uned Ddata Llywodraeth Leol – Cymru”)*
 - National Botanic Garden of Wales (*“Gardd Fotaneg Genedlaethol Cymru”*)
 - The National Library of Wales (*“Llyfrgell Genedlaethol Cymru”*)
@@ -631,11 +631,11 @@ Regulation 3
 - The Natural Resources Body for Wales (*“Corff Adnoddau Naturiol Cymru”*)
 - NIACE
 - The Office of Communications (*“Y Swyddfa Gyfathrebiadau”*)
-- The Public Services Ombudsman for Wales (“[^key-02b3a7412fbb3e390890ee444d9d7a7f]*Ombwdsmon Gwasanaethau Cyhoeddus Cymru*”)
+- The Public Services Ombudsman for Wales (“[^c-02b3a7412fbb3e390890ee444d9d7a7f]*Ombwdsmon Gwasanaethau Cyhoeddus Cymru*”)
 - Qualifications Wales (“***Cymwysterau Cymru***”)
 - The Quality Assurance Agency for Higher Education (*“Asiantaeth Sicrwydd Ansawdd Addysg Uwch”*)
 - The Royal Commission on the Ancient and Historical Monuments of Wales (*“Comisiwn Brenhinol Henebion Cymru”*)
-- the Senedd Commissioner for Standards (“[^key-25d8f610d99a0a00773d12578bfe55a2]***Comisiynydd Safonau y Senedd***”)
+- the Senedd Commissioner for Standards (“[^c-25d8f610d99a0a00773d12578bfe55a2]***Comisiynydd Safonau y Senedd***”)
 - Sianel 4 Cymru
 - The Sports Council for Wales (*“Cyngor Chwaraeon Cymru”*)
 - Student Loans Company Limited (“Cwmni Benthyciadau Myfyrwyr Cyfyngedig”)
@@ -692,19 +692,19 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00001]: Footnote: [2011 nawm 1](https://www.legislation.gov.uk/mwa/2011/1).
 
-[^key-1988ca3ac0ed6bc4ea3f9e11ec76ea83]: Commencement: Reg. 1 in force at 16.2.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/182/regulation/1/2)
+[^c-1988ca3ac0ed6bc4ea3f9e11ec76ea83]: Commencement: Reg. 1 in force at 16.2.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/182/regulation/1/2)
 
-[^key-2f05ca3883b8c5d36df3d414db6d5ead]: Commencement: Reg. 2 in force at 16.2.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/182/regulation/1/2)
+[^c-2f05ca3883b8c5d36df3d414db6d5ead]: Commencement: Reg. 2 in force at 16.2.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/182/regulation/1/2)
 
-[^key-c80bc7b960a8aee0e5ef85a204e77938]: Commencement: Reg. 3 in force at 16.2.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/182/regulation/1/2)
+[^c-c80bc7b960a8aee0e5ef85a204e77938]: Commencement: Reg. 3 in force at 16.2.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/182/regulation/1/2)
 
 [^f00002]: Footnote: *See* section 67 of the Welsh Language (Wales) Measure 2011.
 
-[^key-4deede17cb436e2420e6bb5e0322ed06]: Commencement: Sch. 1 Pt. 1 in force at 16.2.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/182/regulation/1/2)
+[^c-4deede17cb436e2420e6bb5e0322ed06]: Commencement: Sch. 1 Pt. 1 in force at 16.2.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/182/regulation/1/2)
 
-[^key-d815d72833fa8cf3361dc54e44b6e41d]: Commencement: Sch. 1 Pt. 2 in force at 16.2.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/182/regulation/1/2)
+[^c-d815d72833fa8cf3361dc54e44b6e41d]: Commencement: Sch. 1 Pt. 2 in force at 16.2.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/182/regulation/1/2)
 
-[^key-9f7198f0aa8a8820fa945df0ca471581]: Commencement: Sch. 1 Pt. 3 in force at 16.2.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/182/regulation/1/2)
+[^c-9f7198f0aa8a8820fa945df0ca471581]: Commencement: Sch. 1 Pt. 3 in force at 16.2.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/182/regulation/1/2)
 
 [^f00003]: Footnote: [1993 c.38](https://www.legislation.gov.uk/ukpga/1993/38).
 
@@ -714,46 +714,46 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00006]: Footnote: [2000 c.36](https://www.legislation.gov.uk/ukpga/2000/36)
 
-[^key-7d5491e106bf22baa591bc54633a0337]: Commencement: Sch. 2 Pt. 1 in force at 16.2.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/182/regulation/1/2)
+[^c-7d5491e106bf22baa591bc54633a0337]: Commencement: Sch. 2 Pt. 1 in force at 16.2.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/182/regulation/1/2)
 
-[^key-2393c61e6c777195af59464a2cfed1d1]: Commencement: Sch. 2 Pt. 2 in force at 16.2.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/182/regulation/1/2)
+[^c-2393c61e6c777195af59464a2cfed1d1]: Commencement: Sch. 2 Pt. 2 in force at 16.2.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/182/regulation/1/2)
 
-[^key-d2af7a36014a9e02accedcbb2a91ccc0]: Commencement: Sch. 3 Pt. 1 in force at 16.2.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/182/regulation/1/2)
+[^c-d2af7a36014a9e02accedcbb2a91ccc0]: Commencement: Sch. 3 Pt. 1 in force at 16.2.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/182/regulation/1/2)
 
-[^key-2bf8dc2a2830d335a29064229d17a108]: Commencement: Sch. 3 Pt. 2 in force at 16.2.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/182/regulation/1/2)
+[^c-2bf8dc2a2830d335a29064229d17a108]: Commencement: Sch. 3 Pt. 2 in force at 16.2.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/182/regulation/1/2)
 
-[^key-41d6b1d43a031be97e7276e7cfba9cf9]: Commencement: Sch. 3 Pt. 3 in force at 16.2.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/182/regulation/1/2)
+[^c-41d6b1d43a031be97e7276e7cfba9cf9]: Commencement: Sch. 3 Pt. 3 in force at 16.2.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/182/regulation/1/2)
 
 [^f00007]: Footnote: [1993 c.38](https://www.legislation.gov.uk/ukpga/1993/38).
 
 [^f00008]: Footnote: [2006 c.32](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-cdd14ba1bf1cc515f5196e5c8cea2a5c]: Commencement: Sch. 4 Pt. 1 in force at 16.2.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/182/regulation/1/2)
+[^c-cdd14ba1bf1cc515f5196e5c8cea2a5c]: Commencement: Sch. 4 Pt. 1 in force at 16.2.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/182/regulation/1/2)
 
-[^key-070f7a5a2a6773d61416d6b8556bae95]: Commencement: Sch. 4 Pt. 2 in force at 16.2.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/182/regulation/1/2)
+[^c-070f7a5a2a6773d61416d6b8556bae95]: Commencement: Sch. 4 Pt. 2 in force at 16.2.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/182/regulation/1/2)
 
-[^key-997377fc6afe3354a24a29f89935c04a]: Commencement: Sch. 5 Pt. 1 in force at 16.2.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/182/regulation/1/2)
+[^c-997377fc6afe3354a24a29f89935c04a]: Commencement: Sch. 5 Pt. 1 in force at 16.2.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/182/regulation/1/2)
 
-[^key-6f029bd08275a2123274c6daefc77306]: Commencement: Sch. 5 Pt. 2 in force at 16.2.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/182/regulation/1/2)
+[^c-6f029bd08275a2123274c6daefc77306]: Commencement: Sch. 5 Pt. 2 in force at 16.2.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/182/regulation/1/2)
 
-[^key-9e47debdd41c1ac9559ce230fc899433]: Commencement: Sch. 5 Pt. 3 in force at 16.2.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/182/regulation/1/2)
+[^c-9e47debdd41c1ac9559ce230fc899433]: Commencement: Sch. 5 Pt. 3 in force at 16.2.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/182/regulation/1/2)
 
-[^key-93987b956497b16ace39c3ebc030c80f]: Commencement: Sch. 5 Pt. 4 in force at 16.2.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/182/regulation/1/2)
+[^c-93987b956497b16ace39c3ebc030c80f]: Commencement: Sch. 5 Pt. 4 in force at 16.2.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/182/regulation/1/2)
 
-[^key-2e213dffb82df0208a4cfbe14be826b0]: Commencement: Sch. 5 Pt. 5 in force at 16.2.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/182/regulation/1/2)
+[^c-2e213dffb82df0208a4cfbe14be826b0]: Commencement: Sch. 5 Pt. 5 in force at 16.2.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/182/regulation/1/2)
 
-[^key-80c4a3ff0d992a23704e2cfed55785da]: Commencement: Sch. 5 Pt. 6 in force at 16.2.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/182/regulation/1/2)
+[^c-80c4a3ff0d992a23704e2cfed55785da]: Commencement: Sch. 5 Pt. 6 in force at 16.2.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/182/regulation/1/2)
 
-[^key-61ab41edcc1efb626ef88f7a8c5b2888]: Commencement: Sch. 6 in force at 16.2.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/182/regulation/1/2)
+[^c-61ab41edcc1efb626ef88f7a8c5b2888]: Commencement: Sch. 6 in force at 16.2.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/182/regulation/1/2)
 
-[^key-f503f3c7f576a87362ac8d7f22b282f0]: Textual amendment: Words in Sch. 6 inserted (28.3.2025) by [The Welsh Language Standards (No. 1, No. 2, No. 4, No. 6 and No. 7) Regulations (Amendment) Regulations 2025 (S.I. 2025/339)](https://www.legislation.gov.uk/wsi/2025/339), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/339/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2025/339/regulation/3)
+[^c-f503f3c7f576a87362ac8d7f22b282f0]: Textual amendment: Words in Sch. 6 inserted (28.3.2025) by [The Welsh Language Standards (No. 1, No. 2, No. 4, No. 6 and No. 7) Regulations (Amendment) Regulations 2025 (S.I. 2025/339)](https://www.legislation.gov.uk/wsi/2025/339), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/339/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2025/339/regulation/3)
 
-[^key-f8e173ce4cef63bafa16fb65c14c28fd]: Textual amendment: Words in Sch. 6 inserted (31.3.2026) by [The Welsh Language Standards (No. 10) Regulations 2026 (W.S.I. 2026/99)](https://www.legislation.gov.uk/wsi/2026/99), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/99/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2026/99/regulation/4)
+[^c-f8e173ce4cef63bafa16fb65c14c28fd]: Textual amendment: Words in Sch. 6 inserted (31.3.2026) by [The Welsh Language Standards (No. 10) Regulations 2026 (W.S.I. 2026/99)](https://www.legislation.gov.uk/wsi/2026/99), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/99/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2026/99/regulation/4)
 
-[^key-428ef2d6205acc911a9bb07280814a22]: Textual amendment: Words in Sch. 6 inserted (25.6.2024) by [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [s. 25(1)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/a), [Sch. 1 para. 55(a)](https://www.legislation.gov.uk/asc/2024/4/schedule/1/paragraph/55/a)
+[^c-428ef2d6205acc911a9bb07280814a22]: Textual amendment: Words in Sch. 6 inserted (25.6.2024) by [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [s. 25(1)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/a), [Sch. 1 para. 55(a)](https://www.legislation.gov.uk/asc/2024/4/schedule/1/paragraph/55/a)
 
-[^key-125a1d503812e69202840bcb4bd0e50e]: Textual amendment: Words in Sch. 6 omitted (25.6.2024) by virtue of [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [s. 25(1)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/a), [Sch. 1 para. 55(b)](https://www.legislation.gov.uk/asc/2024/4/schedule/1/paragraph/55/b)
+[^c-125a1d503812e69202840bcb4bd0e50e]: Textual amendment: Words in Sch. 6 omitted (25.6.2024) by virtue of [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [s. 25(1)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/a), [Sch. 1 para. 55(b)](https://www.legislation.gov.uk/asc/2024/4/schedule/1/paragraph/55/b)
 
-[^key-02b3a7412fbb3e390890ee444d9d7a7f]: Textual amendment: Words in Sch. 6 inserted (23.7.2019) by [Public Services Ombudsman (Wales) Act 2019 (anaw 3)](https://www.legislation.gov.uk/anaw/2019/3), [ss. 72(1)](https://www.legislation.gov.uk/anaw/2019/3/section/72/1), [77(1)](https://www.legislation.gov.uk/anaw/2019/3/section/77/1) (with [s. 72(2)](https://www.legislation.gov.uk/anaw/2019/3/section/72/2)); [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)
+[^c-02b3a7412fbb3e390890ee444d9d7a7f]: Textual amendment: Words in Sch. 6 inserted (23.7.2019) by [Public Services Ombudsman (Wales) Act 2019 (anaw 3)](https://www.legislation.gov.uk/anaw/2019/3), [ss. 72(1)](https://www.legislation.gov.uk/anaw/2019/3/section/72/1), [77(1)](https://www.legislation.gov.uk/anaw/2019/3/section/77/1) (with [s. 72(2)](https://www.legislation.gov.uk/anaw/2019/3/section/72/2)); [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)
 
-[^key-25d8f610d99a0a00773d12578bfe55a2]: Textual amendment: Words in Sch. 6 inserted (28.4.2026) by [Senedd Cymru (Member Accountability and Elections) Act 2026 (asc 9)](https://www.legislation.gov.uk/asc/2026/9), [s. 26(1)](https://www.legislation.gov.uk/asc/2026/9/section/26/1), [Sch. para. 7](https://www.legislation.gov.uk/asc/2026/9/schedule/paragraph/7)
+[^c-25d8f610d99a0a00773d12578bfe55a2]: Textual amendment: Words in Sch. 6 inserted (28.4.2026) by [Senedd Cymru (Member Accountability and Elections) Act 2026 (asc 9)](https://www.legislation.gov.uk/asc/2026/9), [s. 26(1)](https://www.legislation.gov.uk/asc/2026/9/section/26/1), [Sch. para. 7](https://www.legislation.gov.uk/asc/2026/9/schedule/paragraph/7)

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 148A. Interview notices[^key-820044391a685be40d41c5c8cf8e22e4]
+## 148A. Interview notices[^c-820044391a685be40d41c5c8cf8e22e4]
 
 *Extent: E+W+S+N.I.*
 
-(1) This section applies where the Commission[^key-06791805b3201b08a84bc65454742b51] suspects that a controller or processor—
+(1) This section applies where the Commission[^c-06791805b3201b08a84bc65454742b51] suspects that a controller or processor—
 
 - (a) has failed or is failing as described in section 149(2), or
 - (b) has committed or is committing an offence under this Act.
@@ -50,7 +50,7 @@ summary: ''
 
 (8) If an interview notice—
 
-- (a) states that, in the Commission's[^key-3ad61fc008ed8ddb3010a544decee744] opinion, it is necessary for the individual to attend at the specified place and answer questions urgently, and
+- (a) states that, in the Commission's[^c-3ad61fc008ed8ddb3010a544decee744] opinion, it is necessary for the individual to attend at the specified place and answer questions urgently, and
 - (b) gives the Commission's reasons for reaching that opinion,
 
 subsections (6) and (7) do not apply but the notice must not require the individual to attend at the specified place and answer questions before the end of the period of 24 hours beginning when the notice is given.
@@ -59,8 +59,8 @@ subsections (6) and (7) do not apply but the notice must not require the individ
 
 ## Annotations
 
-[^key-820044391a685be40d41c5c8cf8e22e4]: Textual amendment: Ss. 148A-148C and cross-heading inserted (5.2.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 100(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/100/2), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/s)
+[^c-820044391a685be40d41c5c8cf8e22e4]: Textual amendment: Ss. 148A-148C and cross-heading inserted (5.2.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 100(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/100/2), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/s)
 
-[^key-06791805b3201b08a84bc65454742b51]: Textual amendment: Word in s. 148A(1)(2) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/2)[(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-06791805b3201b08a84bc65454742b51]: Textual amendment: Word in s. 148A(1)(2) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/2)[(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
 
-[^key-3ad61fc008ed8ddb3010a544decee744]: Textual amendment: Word in s. 148A(8)(9) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/2)[(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-3ad61fc008ed8ddb3010a544decee744]: Textual amendment: Word in s. 148A(8)(9) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/2)[(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)

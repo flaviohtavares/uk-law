@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation, Commencement and Revocation[^key-088083b6052eb934e6e7a8ed9935d62d]
+## 1. Citation, Commencement and Revocation[^c-088083b6052eb934e6e7a8ed9935d62d]
 
 *Extent: E+W*
 
@@ -32,7 +32,7 @@ summary: ''
 
 ## Annotations
 
-[^key-088083b6052eb934e6e7a8ed9935d62d]: Commencement: Reg. 1 in force at 27.3.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/1024/regulation/1/2)
+[^c-088083b6052eb934e6e7a8ed9935d62d]: Commencement: Reg. 1 in force at 27.3.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/1024/regulation/1/2)
 
 [^f00003]: Footnote: [S.I. 2002/185](https://www.legislation.gov.uk/uksi/2002/185).
 

@@ -16,62 +16,62 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 4 — The Asylum and Immigration Tribunal[^key-f2ea9647d993b0110158f732e9b3f6c0]
+## Schedule 4 — The Asylum and Immigration Tribunal[^c-f2ea9647d993b0110158f732e9b3f6c0]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-### Membership[^key-f2ea9647d993b0110158f732e9b3f6c0]
+### Membership[^c-f2ea9647d993b0110158f732e9b3f6c0]
 
-**1.**[^key-f2ea9647d993b0110158f732e9b3f6c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-f2ea9647d993b0110158f732e9b3f6c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-f2ea9647d993b0110158f732e9b3f6c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-f2ea9647d993b0110158f732e9b3f6c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-f2ea9647d993b0110158f732e9b3f6c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-f2ea9647d993b0110158f732e9b3f6c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-f2ea9647d993b0110158f732e9b3f6c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-f2ea9647d993b0110158f732e9b3f6c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Presidency[^key-f2ea9647d993b0110158f732e9b3f6c0]
+### Presidency[^c-f2ea9647d993b0110158f732e9b3f6c0]
 
-**5.**[^key-f2ea9647d993b0110158f732e9b3f6c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-f2ea9647d993b0110158f732e9b3f6c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Judicial Assistance[^key-f2ea9647d993b0110158f732e9b3f6c0]
+### Judicial Assistance[^c-f2ea9647d993b0110158f732e9b3f6c0]
 
-**5A.**[^key-f2ea9647d993b0110158f732e9b3f6c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5A.**[^c-f2ea9647d993b0110158f732e9b3f6c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5B.**[^key-f2ea9647d993b0110158f732e9b3f6c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5B.**[^c-f2ea9647d993b0110158f732e9b3f6c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Proceedings[^key-f2ea9647d993b0110158f732e9b3f6c0]
+### Proceedings[^c-f2ea9647d993b0110158f732e9b3f6c0]
 
-**6.**[^key-f2ea9647d993b0110158f732e9b3f6c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-f2ea9647d993b0110158f732e9b3f6c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-f2ea9647d993b0110158f732e9b3f6c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-f2ea9647d993b0110158f732e9b3f6c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-f2ea9647d993b0110158f732e9b3f6c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-f2ea9647d993b0110158f732e9b3f6c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Staff[^key-f2ea9647d993b0110158f732e9b3f6c0]
+### Staff[^c-f2ea9647d993b0110158f732e9b3f6c0]
 
-**9.**[^key-f2ea9647d993b0110158f732e9b3f6c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-f2ea9647d993b0110158f732e9b3f6c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Money[^key-f2ea9647d993b0110158f732e9b3f6c0]
+### Money[^c-f2ea9647d993b0110158f732e9b3f6c0]
 
-**10.**[^key-f2ea9647d993b0110158f732e9b3f6c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-f2ea9647d993b0110158f732e9b3f6c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-f2ea9647d993b0110158f732e9b3f6c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-f2ea9647d993b0110158f732e9b3f6c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Delegation[^key-f2ea9647d993b0110158f732e9b3f6c0]
+### Delegation[^c-f2ea9647d993b0110158f732e9b3f6c0]
 
-**12.**[^key-f2ea9647d993b0110158f732e9b3f6c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-f2ea9647d993b0110158f732e9b3f6c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Training etc.[^key-f2ea9647d993b0110158f732e9b3f6c0]
+### Training etc.[^c-f2ea9647d993b0110158f732e9b3f6c0]
 
-**13.**[^key-f2ea9647d993b0110158f732e9b3f6c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-f2ea9647d993b0110158f732e9b3f6c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Oaths[^key-f2ea9647d993b0110158f732e9b3f6c0]
+### Oaths[^c-f2ea9647d993b0110158f732e9b3f6c0]
 
-**14.**[^key-f2ea9647d993b0110158f732e9b3f6c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-f2ea9647d993b0110158f732e9b3f6c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f2ea9647d993b0110158f732e9b3f6c0]: Textual amendment: Sch. 4 omitted (15.2.2010) by virtue of [The Transfer of Functions of the Asylum and Immigration Tribunal Order 2010 (S.I. 2010/21)](https://www.legislation.gov.uk/uksi/2010/21), [art. 1](https://www.legislation.gov.uk/uksi/2010/21/article/1), [Sch. 1 para. 30](https://www.legislation.gov.uk/uksi/2010/21/schedule/1/paragraph/30) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2010/21/schedule/4))
+[^c-f2ea9647d993b0110158f732e9b3f6c0]: Textual amendment: Sch. 4 omitted (15.2.2010) by virtue of [The Transfer of Functions of the Asylum and Immigration Tribunal Order 2010 (S.I. 2010/21)](https://www.legislation.gov.uk/uksi/2010/21), [art. 1](https://www.legislation.gov.uk/uksi/2010/21/article/1), [Sch. 1 para. 30](https://www.legislation.gov.uk/uksi/2010/21/schedule/1/paragraph/30) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2010/21/schedule/4))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17.5. Application for summons to produce a document, etc.: special rules[^key-e0b1f4639fec264374bc00eb19c283b6]
+## 17.5. Application for summons to produce a document, etc.: special rules[^c-e0b1f4639fec264374bc00eb19c283b6]
 
 *Extent: E+W*
 
@@ -45,6 +45,6 @@ that relates to another person.
 
 ## Annotations
 
-[^key-e0b1f4639fec264374bc00eb19c283b6]: Commencement: [Rule 17.5](https://www.legislation.gov.uk/uksi/2025/909/rule/17.5) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-e0b1f4639fec264374bc00eb19c283b6]: Commencement: [Rule 17.5](https://www.legislation.gov.uk/uksi/2025/909/rule/17.5) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00433]: Footnote: [1965 c. 69](https://www.legislation.gov.uk/ukpga/1965/69); section 2A was inserted by section 66 of the Criminal Procedure and Investigations Act [1996 (c. 25)](https://www.legislation.gov.uk/ukpga/1996/25).

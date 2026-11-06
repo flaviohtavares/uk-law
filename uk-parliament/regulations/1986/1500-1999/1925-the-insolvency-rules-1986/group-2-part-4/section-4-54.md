@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.54. General power to call meetings[^key-a52f6891a5579521037863364513d281]
+## 4.54. General power to call meetings[^c-a52f6891a5579521037863364513d281]
 
 *Extent: E+W*
 
@@ -39,7 +39,7 @@ summary: ''
 
 ## Annotations
 
-[^key-a52f6891a5579521037863364513d281]: Commencement: [Rule 4.54](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.54) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-a52f6891a5579521037863364513d281]: Commencement: [Rule 4.54](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.54) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00050]: Marginal citation: \[FORM 4.22\]
 

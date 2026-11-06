@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 107. Extent[^key-2dcc2781de1cfbf303c47fb84d22346e]
+## 107. Extent[^c-2dcc2781de1cfbf303c47fb84d22346e]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2dcc2781de1cfbf303c47fb84d22346e]: Commencement: S. 107 in force at Royal Assent, see [s. 108(1)(a)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/a)
+[^c-2dcc2781de1cfbf303c47fb84d22346e]: Commencement: S. 107 in force at Royal Assent, see [s. 108(1)(a)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/a)

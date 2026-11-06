@@ -69,79 +69,79 @@ The Treasury, in exercise of the powers conferred by section 2(2) of, and paragr
   - (b) a British overseas territories citizen who acquired their citizenship from a connection with Gibraltar, or
   - (c) a British subject under Part 4 of the British Nationality Act 1981 [^c23420581] (British subjects) with the right of abode in the United Kingdom.
 
-### 2. Interpretation[^key-8559adbaa8f6523ac78e44c6dd93bfa4]
+### 2. Interpretation[^c-8559adbaa8f6523ac78e44c6dd93bfa4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — Funds and economic resources[^key-507f1e497326768f0247bd1a88dabd22]
+## PART 2 — Funds and economic resources[^c-507f1e497326768f0247bd1a88dabd22]
 
 **No longer in force.**
 
-### 3. Freezing of funds and economic resources[^key-507f1e497326768f0247bd1a88dabd22]
+### 3. Freezing of funds and economic resources[^c-507f1e497326768f0247bd1a88dabd22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Making funds available to a designated person[^key-507f1e497326768f0247bd1a88dabd22]
+### 4. Making funds available to a designated person[^c-507f1e497326768f0247bd1a88dabd22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Making funds available for the benefit of a designated person[^key-507f1e497326768f0247bd1a88dabd22]
+### 5. Making funds available for the benefit of a designated person[^c-507f1e497326768f0247bd1a88dabd22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Making economic resources available to a designated person[^key-507f1e497326768f0247bd1a88dabd22]
+### 6. Making economic resources available to a designated person[^c-507f1e497326768f0247bd1a88dabd22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Making economic resources available for the benefit of a designated person[^key-507f1e497326768f0247bd1a88dabd22]
+### 7. Making economic resources available for the benefit of a designated person[^c-507f1e497326768f0247bd1a88dabd22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Credits to a frozen account[^key-507f1e497326768f0247bd1a88dabd22]
+### 8. Credits to a frozen account[^c-507f1e497326768f0247bd1a88dabd22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Licences[^key-507f1e497326768f0247bd1a88dabd22]
+### 9. Licences[^c-507f1e497326768f0247bd1a88dabd22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — Offences[^key-507f1e497326768f0247bd1a88dabd22]
+## PART 3 — Offences[^c-507f1e497326768f0247bd1a88dabd22]
 
 **No longer in force.**
 
-### 10. Contravention and circumvention of prohibitions[^key-507f1e497326768f0247bd1a88dabd22]
+### 10. Contravention and circumvention of prohibitions[^c-507f1e497326768f0247bd1a88dabd22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Officers of a body corporate etc[^key-507f1e497326768f0247bd1a88dabd22]
+### 11. Officers of a body corporate etc[^c-507f1e497326768f0247bd1a88dabd22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Penalties[^key-507f1e497326768f0247bd1a88dabd22]
+### 12. Penalties[^c-507f1e497326768f0247bd1a88dabd22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Proceedings[^key-507f1e497326768f0247bd1a88dabd22]
+### 13. Proceedings[^c-507f1e497326768f0247bd1a88dabd22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Consent to prosecution[^key-507f1e497326768f0247bd1a88dabd22]
+### 14. Consent to prosecution[^c-507f1e497326768f0247bd1a88dabd22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 4 — Miscellaneous[^key-507f1e497326768f0247bd1a88dabd22]
+## PART 4 — Miscellaneous[^c-507f1e497326768f0247bd1a88dabd22]
 
 **No longer in force.**
 
-### 15. Information provisions[^key-507f1e497326768f0247bd1a88dabd22]
+### 15. Information provisions[^c-507f1e497326768f0247bd1a88dabd22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Notices[^key-507f1e497326768f0247bd1a88dabd22]
+### 16. Notices[^c-507f1e497326768f0247bd1a88dabd22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. The Crown[^key-507f1e497326768f0247bd1a88dabd22]
+### 17. The Crown[^c-507f1e497326768f0247bd1a88dabd22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -161,35 +161,35 @@ Mike Freer
 
 Two of the Lords Commissioners of Her Majesty's Treasury
 
-## SCHEDULE[^key-888274b409215269791945a449e8cfd8]
+## SCHEDULE[^c-888274b409215269791945a449e8cfd8]
 
 **No longer in force.**
 
 Regulation 15
 
-### INFORMATION PROVISIONS[^key-888274b409215269791945a449e8cfd8]
+### INFORMATION PROVISIONS[^c-888274b409215269791945a449e8cfd8]
 
-#### 1. Reporting obligations of relevant institutions and others[^key-888274b409215269791945a449e8cfd8]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 2. Powers to request information[^key-888274b409215269791945a449e8cfd8]
+#### 1. Reporting obligations of relevant institutions and others[^c-888274b409215269791945a449e8cfd8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3. Production of documents[^key-888274b409215269791945a449e8cfd8]
+#### 2. Powers to request information[^c-888274b409215269791945a449e8cfd8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 4. Failure to comply with request for information[^key-888274b409215269791945a449e8cfd8]
+#### 3. Production of documents[^c-888274b409215269791945a449e8cfd8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 5. General power to disclose information[^key-888274b409215269791945a449e8cfd8]
+#### 4. Failure to comply with request for information[^c-888274b409215269791945a449e8cfd8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 6. Application of provisions[^key-888274b409215269791945a449e8cfd8]
+#### 5. General power to disclose information[^c-888274b409215269791945a449e8cfd8]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 6. Application of provisions[^c-888274b409215269791945a449e8cfd8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -227,12 +227,12 @@ Further information is available at H.M. Treasury, 1 Horse Guards Road, London S
 
 [^c23420581]: Marginal citation: [1981 c.61](https://www.legislation.gov.uk/ukpga/1981/61). Part 4 was amended by the [British Overseas Territories Act 2002 (c.8)](https://www.legislation.gov.uk/ukpga/2002/8), [section 1(1)(b)](https://www.legislation.gov.uk/ukpga/2002/8/section/1/1/b) and the [Nationality, Immigration and Asylum Act 2002 (c.41)](https://www.legislation.gov.uk/ukpga/2002/41), [sections 15](https://www.legislation.gov.uk/ukpga/2002/41/section/15) and 161, Schedule 2, paragraph 1(i) and Schedule 9.
 
-[^key-8559adbaa8f6523ac78e44c6dd93bfa4]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2018/1090/regulation/2) omitted (31.12.2020) by virtue of [The Chemical Weapons (Sanctions) (EU Exit) Regulations 2019 (S.I. 2019/618)](https://www.legislation.gov.uk/uksi/2019/618), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/618/regulation/1/2), [39(2)](https://www.legislation.gov.uk/uksi/2019/618/regulation/39/2); [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 14(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/14/2) [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8559adbaa8f6523ac78e44c6dd93bfa4]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2018/1090/regulation/2) omitted (31.12.2020) by virtue of [The Chemical Weapons (Sanctions) (EU Exit) Regulations 2019 (S.I. 2019/618)](https://www.legislation.gov.uk/uksi/2019/618), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/618/regulation/1/2), [39(2)](https://www.legislation.gov.uk/uksi/2019/618/regulation/39/2); [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 14(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/14/2) [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-507f1e497326768f0247bd1a88dabd22]: Textual amendment: [Pts. 2-4](https://www.legislation.gov.uk/uksi/2018/1090/part/2) omitted (31.12.2020) by virtue of [The Chemical Weapons (Sanctions) (EU Exit) Regulations 2019 (S.I. 2019/618)](https://www.legislation.gov.uk/uksi/2019/618), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/618/regulation/1/2), [39(3)](https://www.legislation.gov.uk/uksi/2019/618/regulation/39/3); [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 14(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/14/2) [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-507f1e497326768f0247bd1a88dabd22]: Textual amendment: [Pts. 2-4](https://www.legislation.gov.uk/uksi/2018/1090/part/2) omitted (31.12.2020) by virtue of [The Chemical Weapons (Sanctions) (EU Exit) Regulations 2019 (S.I. 2019/618)](https://www.legislation.gov.uk/uksi/2019/618), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/618/regulation/1/2), [39(3)](https://www.legislation.gov.uk/uksi/2019/618/regulation/39/3); [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 14(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/14/2) [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23420691]: Marginal citation: [S.I. 2017/754](https://www.legislation.gov.uk/uksi/2017/754).
 
 [^c23420701]: Marginal citation: [S.I. 2014/507](https://www.legislation.gov.uk/uksi/2014/507); amended by [S.I. 2017/560](https://www.legislation.gov.uk/uksi/2017/560) and [S.I. 2017/754](https://www.legislation.gov.uk/uksi/2017/754).
 
-[^key-888274b409215269791945a449e8cfd8]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2018/1090/schedule) omitted (31.12.2020) by virtue of [The Chemical Weapons (Sanctions) (EU Exit) Regulations 2019 (S.I. 2019/618)](https://www.legislation.gov.uk/uksi/2019/618), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/618/regulation/1/2), [39(3)](https://www.legislation.gov.uk/uksi/2019/618/regulation/39/3); [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 14(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/14/2) [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-888274b409215269791945a449e8cfd8]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2018/1090/schedule) omitted (31.12.2020) by virtue of [The Chemical Weapons (Sanctions) (EU Exit) Regulations 2019 (S.I. 2019/618)](https://www.legislation.gov.uk/uksi/2019/618), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/618/regulation/1/2), [39(3)](https://www.legislation.gov.uk/uksi/2019/618/regulation/39/3); [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 14(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/14/2) [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

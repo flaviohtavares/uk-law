@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115B. Right to hard copy version[^key-2683b45f529e480f1cd3a7bcc72db109]
+## 115B. Right to hard copy version[^c-2683b45f529e480f1cd3a7bcc72db109]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2683b45f529e480f1cd3a7bcc72db109]: Textual amendment: Ss. 115A-115C inserted (18.2.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(2)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/2), [Sch. 9 para. 9](https://www.legislation.gov.uk/ukpga/2013/33/schedule/9/paragraph/9)
+[^c-2683b45f529e480f1cd3a7bcc72db109]: Textual amendment: Ss. 115A-115C inserted (18.2.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(2)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/2), [Sch. 9 para. 9](https://www.legislation.gov.uk/ukpga/2013/33/schedule/9/paragraph/9)

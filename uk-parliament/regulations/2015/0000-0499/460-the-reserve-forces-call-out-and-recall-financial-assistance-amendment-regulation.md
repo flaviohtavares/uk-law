@@ -44,17 +44,17 @@ Coming into force
 
 27th March 2015
 
-The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 83 and 84 of the Reserve Forces Act 1996[^f00001] and after consultation by him in accordance with section 85(3) of that Act.[^key-805034053cf757cd1e138b0c62209461]
+The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 83 and 84 of the Reserve Forces Act 1996[^f00001] and after consultation by him in accordance with section 85(3) of that Act.[^c-805034053cf757cd1e138b0c62209461]
 
-## 1. Citation and commencement[^key-3ea53c0f0cbb7d5fed76e5e98e633ca1]
+## 1. Citation and commencement[^c-3ea53c0f0cbb7d5fed76e5e98e633ca1]
 
 These Regulations may be cited as the Reserve Forces (Call-out and Recall) (Financial Assistance) (Amendment) Regulations 2015 and come into force on 27th March 2015.
 
-## 2. Interpretation[^key-8a908ed75373e6b8c42b8464e8439cf0]
+## 2. Interpretation[^c-8a908ed75373e6b8c42b8464e8439cf0]
 
 In these Regulations “the 2005 Regulations” means the Reserve Forces (Call-out and Recall) (Financial Assistance) Regulations 2005[^f00002].
 
-## 3. Amendments to Parts 1 and 2 of the 2005 Regulations[^key-a3c8363b0f937a11de205daaddf39d47]
+## 3. Amendments to Parts 1 and 2 of the 2005 Regulations[^c-a3c8363b0f937a11de205daaddf39d47]
 
 (1) In paragraph (1) of regulation 2 (general interpretation) of the 2005 Regulations—
 
@@ -105,7 +105,7 @@ In these Regulations “the 2005 Regulations” means the Reserve Forces (Call-o
 
 .
 
-## 4. Amendments to Part 3 of the 2005 Regulations[^key-b0917a278165b14c52b09e776969efa2]
+## 4. Amendments to Part 3 of the 2005 Regulations[^c-b0917a278165b14c52b09e776969efa2]
 
 (1) For paragraph (4) of regulation 6 (employer’s awards) of the 2005 Regulations substitute—
 
@@ -142,7 +142,7 @@ In these Regulations “the 2005 Regulations” means the Reserve Forces (Call-o
 
 .
 
-## 5. Amendments to Part 4 of the 2005 Regulations[^key-6bb10eaeccf4d4b56ffc8f985a421c16]
+## 5. Amendments to Part 4 of the 2005 Regulations[^c-6bb10eaeccf4d4b56ffc8f985a421c16]
 
 (1) After paragraph (3) of regulation 11 (information and documentation to be furnished in relation to claims) of the 2005 Regulations, insert—
 
@@ -178,7 +178,7 @@ In these Regulations “the 2005 Regulations” means the Reserve Forces (Call-o
 
 .
 
-## 6. Transitional provision[^key-4296ca59c7c223eaca0885e2f79b5746]
+## 6. Transitional provision[^c-4296ca59c7c223eaca0885e2f79b5746]
 
 The amendments made by these Regulations apply only to periods of relevant service that begin on or after 27th March 2015.
 
@@ -212,20 +212,20 @@ Regulation 6 provides that the changes made by these Regulations apply only to p
 
 [^f00001]: Footnote: [1996 c. 14](https://www.legislation.gov.uk/ukpga/1996/14).
 
-[^key-805034053cf757cd1e138b0c62209461]: Modification: Regulations applied (with modifications) (2.10.2018) by [S.I. 2010/2643](https://www.legislation.gov.uk/uksi/2010/2643), [reg. 2](https://www.legislation.gov.uk/uksi/2010/2643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2010/2643/schedule) (as amended by [The Reserve Forces Act 1996 (Isle of Man) (Amendment) Regulations 2018 (S.I. 2018/991)](https://www.legislation.gov.uk/uksi/2018/991), [regs. 1](https://www.legislation.gov.uk/uksi/2018/991/regulation/1), [2](https://www.legislation.gov.uk/uksi/2018/991/regulation/2))
+[^c-805034053cf757cd1e138b0c62209461]: Modification: Regulations applied (with modifications) (2.10.2018) by [S.I. 2010/2643](https://www.legislation.gov.uk/uksi/2010/2643), [reg. 2](https://www.legislation.gov.uk/uksi/2010/2643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2010/2643/schedule) (as amended by [The Reserve Forces Act 1996 (Isle of Man) (Amendment) Regulations 2018 (S.I. 2018/991)](https://www.legislation.gov.uk/uksi/2018/991), [regs. 1](https://www.legislation.gov.uk/uksi/2018/991/regulation/1), [2](https://www.legislation.gov.uk/uksi/2018/991/regulation/2))
 
-[^key-3ea53c0f0cbb7d5fed76e5e98e633ca1]: Commencement: Reg. 1 in force at 27.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/460/regulation/1)
+[^c-3ea53c0f0cbb7d5fed76e5e98e633ca1]: Commencement: Reg. 1 in force at 27.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/460/regulation/1)
 
-[^key-8a908ed75373e6b8c42b8464e8439cf0]: Commencement: Reg. 2 in force at 27.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/460/regulation/1)
+[^c-8a908ed75373e6b8c42b8464e8439cf0]: Commencement: Reg. 2 in force at 27.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/460/regulation/1)
 
 [^f00002]: Footnote: [S.I. 2005/859](https://www.legislation.gov.uk/uksi/2005/859).
 
-[^key-a3c8363b0f937a11de205daaddf39d47]: Commencement: Reg. 3 in force at 27.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/460/regulation/1)
+[^c-a3c8363b0f937a11de205daaddf39d47]: Commencement: Reg. 3 in force at 27.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/460/regulation/1)
 
 [^f00003]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-b0917a278165b14c52b09e776969efa2]: Commencement: Reg. 4 in force at 27.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/460/regulation/1)
+[^c-b0917a278165b14c52b09e776969efa2]: Commencement: Reg. 4 in force at 27.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/460/regulation/1)
 
-[^key-6bb10eaeccf4d4b56ffc8f985a421c16]: Commencement: Reg. 5 in force at 27.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/460/regulation/1)
+[^c-6bb10eaeccf4d4b56ffc8f985a421c16]: Commencement: Reg. 5 in force at 27.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/460/regulation/1)
 
-[^key-4296ca59c7c223eaca0885e2f79b5746]: Commencement: Reg. 6 in force at 27.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/460/regulation/1)
+[^c-4296ca59c7c223eaca0885e2f79b5746]: Commencement: Reg. 6 in force at 27.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/460/regulation/1)

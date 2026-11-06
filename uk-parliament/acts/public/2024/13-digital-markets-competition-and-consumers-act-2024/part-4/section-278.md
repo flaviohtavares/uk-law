@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 278. Consequential amendments to the Consumer Rights Act 2015[^key-d1b8b9bea78a5d2ad5b00c21811505ee]
+## 278. Consequential amendments to the Consumer Rights Act 2015[^c-d1b8b9bea78a5d2ad5b00c21811505ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -69,4 +69,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d1b8b9bea78a5d2ad5b00c21811505ee]: Commencement: S. 278 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-d1b8b9bea78a5d2ad5b00c21811505ee]: Commencement: S. 278 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)

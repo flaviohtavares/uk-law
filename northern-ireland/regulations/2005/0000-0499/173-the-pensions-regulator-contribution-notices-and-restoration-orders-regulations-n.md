@@ -41,7 +41,7 @@ Coming into operation
 
 The Department for Social Development, in exercise of the powers conferred on it by Articles 34(1)(b), 48(1)(b) and (7)(a) and 287(3) of the Pensions (Northern Ireland) Order 2005[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-32880eac898ee4e8e3cee4cde7c74447]
+## 1. Citation, commencement and interpretation[^c-32880eac898ee4e8e3cee4cde7c74447]
 
 (1) These Regulations may be cited as the Pensions Regulator (Contribution Notices and Restoration Orders) Regulations (Northern Ireland) 2005 and shall come into operation on 6th April 2005.
 
@@ -55,36 +55,36 @@ The Department for Social Development, in exercise of the powers conferred on it
 
 (3) In these Regulations any reference to a numbered Article is a reference to the Article of the Order bearing that number.
 
-## 2. Prescribed schemes[^key-94b89d4f734b39ec47c4836fefa793ec]
+## 2. Prescribed schemes[^c-94b89d4f734b39ec47c4836fefa793ec]
 
 (1)[^M_F_e4fddd83-0d2b-4fc5-c84f-3e000443d98c] For the purposes of Articles 34(1)(b) and 48(1)(b) (schemes to which Articles 34 (contribution notices) and 48 (restoration orders) do not apply), a prescribed scheme or a scheme of a prescribed description is –
 
-- (a)[^key-de43bb56f725175f93f6dc5b7cb88dce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-de43bb56f725175f93f6dc5b7cb88dce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) a public service pension scheme under the provisions of which there is no requirement for assets related to the intended rate or amount of benefit under the scheme to be set aside in advance (disregarding requirements relating to voluntary contributions);
 - (c) a scheme which is made under Article 9 of the Superannuation (Northern Ireland) Order 1972[^f00006] (superannuation of persons employed in local government service, etc.) and which provides pensions to persons mentioned in paragraph (1)(a) of that Article;
 - (d) a scheme which is established under section 48 of the Northern Ireland Act 1998[^f00007] (pensions of members), or which was established under Part II of the Ministerial Salaries and Members' Pensions Act (Northern Ireland) 1965[^f00008] or Article 3 of the Assembly Pensions (Northern Ireland) Order 1976[^f00009];
 - (e) a scheme in respect of which a relevant public authority has given a guarantee or made any other arrangements for the purpose of securing that the assets of the scheme are sufficient to meet its liabilities;
-- (f) a scheme which provides relevant benefits within the meaning of section 612(1) of the 1988 Act (interpretation) but which –[^key-c736555b257552f1cf4688fbdf962908]
+- (f) a scheme which provides relevant benefits within the meaning of section 612(1) of the 1988 Act (interpretation) but which –[^c-c736555b257552f1cf4688fbdf962908]
   - (i) has never been a tax approved scheme or registered for tax purposes, and
   - (ii) is not a relevant statutory scheme within the meaning of section 611A of the 1988 Act (definition of relevant statutory scheme);
 - (g) a scheme –
   - (i) which has been categorised by the Commissioners of Inland Revenue for the purposes of its approval, or registration, as a centralised scheme for non-associated employers;
-  - (ii) which was not contracted-out at any time before the second abolition date[^key-4cb3b5bb008b8400c241262a250ed21d], and
+  - (ii) which was not contracted-out at any time before the second abolition date[^c-4cb3b5bb008b8400c241262a250ed21d], and
   - (iii) under the provisions of which the only benefits that may be provided on or after retirement (other than money purchase benefits derived from the payment of voluntary contributions by any person) are lump sum benefits which are not calculated by reference to a member’s salary;
 - (h) a scheme –
   - (i) the only benefits provided by which (other than money purchase benefits) are death benefits, and
   - (ii) under the provisions of which no member has accrued rights (other than rights to money purchase benefits);
-- (i)[^key-73e493557c53c5060ec4f459aca36724] a scheme—
-  - (i) which has such a superannuation fund as is mentioned in section 615(6) of the 1988 Act (exemption from tax in respect of certain pensions), [^key-96f5a144318d685b4d38796ac3c5155b]...
-  - (ii)[^key-96f5a144318d685b4d38796ac3c5155b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (i)[^c-73e493557c53c5060ec4f459aca36724] a scheme—
+  - (i) which has such a superannuation fund as is mentioned in section 615(6) of the 1988 Act (exemption from tax in respect of certain pensions), [^c-96f5a144318d685b4d38796ac3c5155b]...
+  - (ii)[^c-96f5a144318d685b4d38796ac3c5155b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (j) the scheme established by the Salvation Army Act 1963[^f00012].
 
-(2)[^key-6699567866c7dd3866a4c049a7534a45] In this regulation—
+(2)[^c-6699567866c7dd3866a4c049a7534a45] In this regulation—
 
 - “contracted-out” is to be construed in accordance with section 3B(2) of the Pension Schemes Act;
 - “the second abolition date” has the meaning given in section 176(1) of the Pension Schemes Act.
 
-## 3. Person of a prescribed description[^key-6f7ace2bb8633624ceeeec882840df26]
+## 3. Person of a prescribed description[^c-6f7ace2bb8633624ceeeec882840df26]
 
 A person who is prescribed for the purposes of Article 48(7)(a) is any person whom the trustees or managers of the scheme have authorised to enter into transactions involving the assets of that scheme.
 
@@ -112,7 +112,7 @@ As these Regulations are made before the end of the period of six months beginni
 
 [^f00001]: Footnote: S.I. [2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255)
 
-[^key-32880eac898ee4e8e3cee4cde7c74447]: Commencement: Reg. 1 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/173/regulation/1/1)
+[^c-32880eac898ee4e8e3cee4cde7c74447]: Commencement: Reg. 1 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/173/regulation/1/1)
 
 [^f00002]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1)
 
@@ -122,11 +122,11 @@ As these Regulations are made before the end of the period of six months beginni
 
 [^f00005]: Footnote: Section 591 was amended by paragraph 6 of Schedule 13 to the Finance Act 1988 (*see also* paragraph 1 of that Schedule), section 107 of the Finance Act [1994 (c. 9)](https://www.legislation.gov.uk/ukpga/1994/9), section 59(2) of the Finance Act [1995 (c. 4)](https://www.legislation.gov.uk/ukpga/1995/4) and paragraph 3 of Schedule 10 to the Finance Act 1999 (*see also* paragraph 18(1) and (3) of that Schedule)
 
-[^key-94b89d4f734b39ec47c4836fefa793ec]: Commencement: Reg. 2 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/173/regulation/1/1)
+[^c-94b89d4f734b39ec47c4836fefa793ec]: Commencement: Reg. 2 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/173/regulation/1/1)
 
 [^M_F_e4fddd83-0d2b-4fc5-c84f-3e000443d98c]: Textual amendment: Reg. 2 renumbered as reg. 2(1) (6.4.2016) by [The Pensions (2015 Act) (Abolition of Contracting-out for Salary Related Pension Schemes) (Consequential Amendments and Savings) Order (Northern Ireland) 2016 (S.R. 2016/158)](https://www.legislation.gov.uk/nisr/2016/158), [arts. 1(a)](https://www.legislation.gov.uk/nisr/2016/158/article/1/a), [24(a)](https://www.legislation.gov.uk/nisr/2016/158/article/24/a)
 
-[^key-de43bb56f725175f93f6dc5b7cb88dce]: Textual amendment: [Reg. 2(a)](https://www.legislation.gov.uk/nisr/2005/173/regulation/2/a) omitted (6.4.2005) by virtue of [The Pension Protection Fund and Pensions Regulator (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/194)](https://www.legislation.gov.uk/nisr/2005/194), [regs. 1](https://www.legislation.gov.uk/nisr/2005/194/regulation/1), [5(2)(a)](https://www.legislation.gov.uk/nisr/2005/194/regulation/5/2/a)
+[^c-de43bb56f725175f93f6dc5b7cb88dce]: Textual amendment: [Reg. 2(a)](https://www.legislation.gov.uk/nisr/2005/173/regulation/2/a) omitted (6.4.2005) by virtue of [The Pension Protection Fund and Pensions Regulator (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/194)](https://www.legislation.gov.uk/nisr/2005/194), [regs. 1](https://www.legislation.gov.uk/nisr/2005/194/regulation/1), [5(2)(a)](https://www.legislation.gov.uk/nisr/2005/194/regulation/5/2/a)
 
 [^f00006]: Footnote: S.I. [1972/1073 (N.I. 10)](https://www.legislation.gov.uk/nisi/1972/1073)
 
@@ -136,16 +136,16 @@ As these Regulations are made before the end of the period of six months beginni
 
 [^f00009]: Footnote: S.I. [1976/1779](https://www.legislation.gov.uk/uksi/1976/1779)
 
-[^key-c736555b257552f1cf4688fbdf962908]: Textual amendment: Words in [reg. 2(f)](https://www.legislation.gov.uk/nisr/2005/173/regulation/2/f) substituted (6.4.2005) by [The Pension Protection Fund and Pensions Regulator (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/194)](https://www.legislation.gov.uk/nisr/2005/194), [regs. 1](https://www.legislation.gov.uk/nisr/2005/194/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/nisr/2005/194/regulation/5/2/b)
+[^c-c736555b257552f1cf4688fbdf962908]: Textual amendment: Words in [reg. 2(f)](https://www.legislation.gov.uk/nisr/2005/173/regulation/2/f) substituted (6.4.2005) by [The Pension Protection Fund and Pensions Regulator (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/194)](https://www.legislation.gov.uk/nisr/2005/194), [regs. 1](https://www.legislation.gov.uk/nisr/2005/194/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/nisr/2005/194/regulation/5/2/b)
 
-[^key-4cb3b5bb008b8400c241262a250ed21d]: Textual amendment: Words in [reg. 2(1)(g)(ii)](https://www.legislation.gov.uk/nisr/2005/173/regulation/2/1/g/ii) substituted (6.4.2016) by [The Pensions (2015 Act) (Abolition of Contracting-out for Salary Related Pension Schemes) (Consequential Amendments and Savings) Order (Northern Ireland) 2016 (S.R. 2016/158)](https://www.legislation.gov.uk/nisr/2016/158), [arts. 1(a)](https://www.legislation.gov.uk/nisr/2016/158/article/1/a), [24(b)](https://www.legislation.gov.uk/nisr/2016/158/article/24/b)
+[^c-4cb3b5bb008b8400c241262a250ed21d]: Textual amendment: Words in [reg. 2(1)(g)(ii)](https://www.legislation.gov.uk/nisr/2005/173/regulation/2/1/g/ii) substituted (6.4.2016) by [The Pensions (2015 Act) (Abolition of Contracting-out for Salary Related Pension Schemes) (Consequential Amendments and Savings) Order (Northern Ireland) 2016 (S.R. 2016/158)](https://www.legislation.gov.uk/nisr/2016/158), [arts. 1(a)](https://www.legislation.gov.uk/nisr/2016/158/article/1/a), [24(b)](https://www.legislation.gov.uk/nisr/2016/158/article/24/b)
 
-[^key-73e493557c53c5060ec4f459aca36724]: Textual amendment: [Reg. 2(i)](https://www.legislation.gov.uk/nisr/2005/173/regulation/2/i) substituted (30.3.2006) by [The Occupational Pension Schemes (Republic of Ireland Schemes Exemption (Revocation) and Tax Exempt Schemes (Miscellaneous Amendments)) Regulations (Northern Ireland) 2006 (S.R. 2006/65)](https://www.legislation.gov.uk/nisr/2006/65), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2006/65/regulation/1/2), [8](https://www.legislation.gov.uk/nisr/2006/65/regulation/8)
+[^c-73e493557c53c5060ec4f459aca36724]: Textual amendment: [Reg. 2(i)](https://www.legislation.gov.uk/nisr/2005/173/regulation/2/i) substituted (30.3.2006) by [The Occupational Pension Schemes (Republic of Ireland Schemes Exemption (Revocation) and Tax Exempt Schemes (Miscellaneous Amendments)) Regulations (Northern Ireland) 2006 (S.R. 2006/65)](https://www.legislation.gov.uk/nisr/2006/65), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2006/65/regulation/1/2), [8](https://www.legislation.gov.uk/nisr/2006/65/regulation/8)
 
-[^key-96f5a144318d685b4d38796ac3c5155b]: Textual amendment: [Reg. 2(1)(i)(ii)](https://www.legislation.gov.uk/nisr/2005/173/regulation/2/1/i/ii) and word omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [21(2)](https://www.legislation.gov.uk/uksi/2019/193/regulation/21/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-96f5a144318d685b4d38796ac3c5155b]: Textual amendment: [Reg. 2(1)(i)(ii)](https://www.legislation.gov.uk/nisr/2005/173/regulation/2/1/i/ii) and word omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [21(2)](https://www.legislation.gov.uk/uksi/2019/193/regulation/21/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00012]: Footnote: [1963 c.xxxii](https://www.legislation.gov.uk/ukla/1963/32)
 
-[^key-6699567866c7dd3866a4c049a7534a45]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/nisr/2005/173/regulation/2/2) added (6.4.2016) by [The Pensions (2015 Act) (Abolition of Contracting-out for Salary Related Pension Schemes) (Consequential Amendments and Savings) Order (Northern Ireland) 2016 (S.R. 2016/158)](https://www.legislation.gov.uk/nisr/2016/158), [arts. 1(a)](https://www.legislation.gov.uk/nisr/2016/158/article/1/a), [24(c)](https://www.legislation.gov.uk/nisr/2016/158/article/24/c)
+[^c-6699567866c7dd3866a4c049a7534a45]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/nisr/2005/173/regulation/2/2) added (6.4.2016) by [The Pensions (2015 Act) (Abolition of Contracting-out for Salary Related Pension Schemes) (Consequential Amendments and Savings) Order (Northern Ireland) 2016 (S.R. 2016/158)](https://www.legislation.gov.uk/nisr/2016/158), [arts. 1(a)](https://www.legislation.gov.uk/nisr/2016/158/article/1/a), [24(c)](https://www.legislation.gov.uk/nisr/2016/158/article/24/c)
 
-[^key-6f7ace2bb8633624ceeeec882840df26]: Commencement: Reg. 3 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/173/regulation/1/1)
+[^c-6f7ace2bb8633624ceeeec882840df26]: Commencement: Reg. 3 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/173/regulation/1/1)

@@ -51,12 +51,12 @@ summary: ''
 </tbody>
 </table>
 
-[^key-fa472b2ff481044a4661260af1946e6f][^key-f90e41bf41309a747a0829875023295a]
+[^c-fa472b2ff481044a4661260af1946e6f][^c-f90e41bf41309a747a0829875023295a]
 
 (4) Before making regulations under subsection (2), the person making them must consult the Commission.
 
 ## Annotations
 
-[^key-fa472b2ff481044a4661260af1946e6f]: Textual amendment: Words in s. 154(3) substituted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 44(3)](https://www.legislation.gov.uk/ukpga/2017/4/section/44/3), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/i)
+[^c-fa472b2ff481044a4661260af1946e6f]: Textual amendment: Words in s. 154(3) substituted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 44(3)](https://www.legislation.gov.uk/ukpga/2017/4/section/44/3), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/i)
 
-[^key-f90e41bf41309a747a0829875023295a]: Textual amendment: Words in s. 154(3) table substituted (23.5.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 37(8)](https://www.legislation.gov.uk/ukpga/2016/11/section/37/8), [72(7)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/7)
+[^c-f90e41bf41309a747a0829875023295a]: Textual amendment: Words in s. 154(3) table substituted (23.5.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 37(8)](https://www.legislation.gov.uk/ukpga/2016/11/section/37/8), [72(7)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/7)

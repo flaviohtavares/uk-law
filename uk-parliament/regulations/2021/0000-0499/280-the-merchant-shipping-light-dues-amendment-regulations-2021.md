@@ -32,7 +32,7 @@ summary: ''
 
 Merchant Shipping
 
-The Merchant Shipping (Light Dues) (Amendment) Regulations 2021 (revoked)[^key-9259bbbf2e4b5fd25f1f398aefb98c59]
+The Merchant Shipping (Light Dues) (Amendment) Regulations 2021 (revoked)[^c-9259bbbf2e4b5fd25f1f398aefb98c59]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 1st April 2021
 
-[^key-9259bbbf2e4b5fd25f1f398aefb98c59]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9259bbbf2e4b5fd25f1f398aefb98c59]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-9259bbbf2e4b5fd25f1f398aefb98c59]
+## 1. Citation, commencement and extent[^c-9259bbbf2e4b5fd25f1f398aefb98c59]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Merchant Shipping (Light Dues) Regulations 1997[^key-9259bbbf2e4b5fd25f1f398aefb98c59]
+## 2. Amendment to the Merchant Shipping (Light Dues) Regulations 1997[^c-9259bbbf2e4b5fd25f1f398aefb98c59]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9259bbbf2e4b5fd25f1f398aefb98c59]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9259bbbf2e4b5fd25f1f398aefb98c59]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-9259bbbf2e4b5fd25f1f398aefb98c59]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9259bbbf2e4b5fd25f1f398aefb98c59]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9259bbbf2e4b5fd25f1f398aefb98c59]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2021/280) revoked (1.4.2025) by [The Merchant Shipping (Light Dues) Regulations 2025 (S.I. 2025/278)](https://www.legislation.gov.uk/uksi/2025/278), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/278/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2025/278/schedule/2)
+[^c-9259bbbf2e4b5fd25f1f398aefb98c59]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2021/280) revoked (1.4.2025) by [The Merchant Shipping (Light Dues) Regulations 2025 (S.I. 2025/278)](https://www.legislation.gov.uk/uksi/2025/278), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/278/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2025/278/schedule/2)

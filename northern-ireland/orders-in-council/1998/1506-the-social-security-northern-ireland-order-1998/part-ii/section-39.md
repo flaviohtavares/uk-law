@@ -23,13 +23,13 @@ summary: ''
 (1)[^c17082181][^c17082191][^c17082201] In this Chapter—
 
 - “appeal tribunal” means an appeal tribunal constituted under Chapter I;
-- “[^key-021714a40145b7eb0fbf92ffb3674530]**claimant**”, in relation to a couple jointly claiming universal credit, means the couple or either member of the couple;
+- “[^c-021714a40145b7eb0fbf92ffb3674530]**claimant**”, in relation to a couple jointly claiming universal credit, means the couple or either member of the couple;
 - “claimant”, in relation to a joint‐claim couple claiming a joint‐claim jobseeker's allowance (within the meaning of Jobseekers Order), means the couple or either member of the couple;[^c17082211]
 - “Inland Revenue” means the Commissioners of Inland Revenue;[^c17082231]
 - “relevant benefit” has the meaning given by Article 9(3).
 - [^c22553191]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(1A)[^key-4e0a1e680f47ce5317dcd37123f375e9] In this Chapter—
+(1A)[^c-4e0a1e680f47ce5317dcd37123f375e9] In this Chapter—
 
 - (a) a reference to a benefit includes a reference to a loan under Article 13 of the Welfare Reform and Work (Northern Ireland) Order 2016;
 - (b) a reference to a claim for a benefit includes a reference to an application for a loan under Article 13 of the Welfare Reform and Work (Northern Ireland) Order 2016;
@@ -53,7 +53,7 @@ summary: ''
 
 [^c17082201]: Textual amendment: mod. by SI 2005/191
 
-[^key-021714a40145b7eb0fbf92ffb3674530]: Textual amendment: Words in [art. 39(1)](https://www.legislation.gov.uk/nisi/1998/1506/article/39/1) inserted (27.9.2017) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 2 para. 40](https://www.legislation.gov.uk/nisi/2015/2006/schedule/2/paragraph/40); [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 4(1)](https://www.legislation.gov.uk/nisr/2017/190/article/4/1)[(2)(g)(iii)](https://www.legislation.gov.uk/nisr/2017/190/article/4/2/g/iii)
+[^c-021714a40145b7eb0fbf92ffb3674530]: Textual amendment: Words in [art. 39(1)](https://www.legislation.gov.uk/nisi/1998/1506/article/39/1) inserted (27.9.2017) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 2 para. 40](https://www.legislation.gov.uk/nisi/2015/2006/schedule/2/paragraph/40); [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 4(1)](https://www.legislation.gov.uk/nisr/2017/190/article/4/1)[(2)(g)(iii)](https://www.legislation.gov.uk/nisr/2017/190/article/4/2/g/iii)
 
 [^c17082211]: Textual amendment: [1999 NI 11](https://www.legislation.gov.uk/nisi/1999)
 
@@ -61,4 +61,4 @@ summary: ''
 
 [^c22553191]: Textual amendment: Art. 39(1): definition of "tax appeal Commissioners" omitted (1.4.2009) by virtue of [Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 3(2)](https://www.legislation.gov.uk/uksi/2009/56/article/3/2), [Sch. 2 para. 44](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/44)
 
-[^key-4e0a1e680f47ce5317dcd37123f375e9]: Textual amendment: Art. 39(1A) inserted (4.9.2017) by [The Welfare Reform and Work (Northern Ireland) Order 2016 (S.I. 2016/999)](https://www.legislation.gov.uk/nisi/2016/999), [arts. 2(1)](https://www.legislation.gov.uk/nisi/2016/999/article/2/1), [15(8) (with art. 16)](https://www.legislation.gov.uk/nisi/2016/999/article/15/8); [S.R. 2017/166](https://www.legislation.gov.uk/nisr/2017/166), [art. 2(c)](https://www.legislation.gov.uk/nisr/2017/166/article/2/c)
+[^c-4e0a1e680f47ce5317dcd37123f375e9]: Textual amendment: Art. 39(1A) inserted (4.9.2017) by [The Welfare Reform and Work (Northern Ireland) Order 2016 (S.I. 2016/999)](https://www.legislation.gov.uk/nisi/2016/999), [arts. 2(1)](https://www.legislation.gov.uk/nisi/2016/999/article/2/1), [15(8) (with art. 16)](https://www.legislation.gov.uk/nisi/2016/999/article/15/8); [S.R. 2017/166](https://www.legislation.gov.uk/nisr/2017/166), [art. 2(c)](https://www.legislation.gov.uk/nisr/2017/166/article/2/c)

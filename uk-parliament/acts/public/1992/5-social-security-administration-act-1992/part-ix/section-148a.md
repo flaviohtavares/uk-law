@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 148A. Revaluation of low earnings threshold[^key-ba15afe7d2cc6187ca7a036d7ab95b3c]
+## 148A. Revaluation of low earnings threshold[^c-ba15afe7d2cc6187ca7a036d7ab95b3c]
 
 *Extent: E+W+S+N.I.*
 
-(1) The Secretary of State shall in the tax year preceding the first appointed year and in each subsequent tax year up to and including the tax year 2014-15[^key-27642a8c2023fa16a1d33475690331f1] review the general level of earnings obtaining in Great Britain and any changes in that level which have taken place during the review period.
+(1) The Secretary of State shall in the tax year preceding the first appointed year and in each subsequent tax year up to and including the tax year 2014-15[^c-27642a8c2023fa16a1d33475690331f1] review the general level of earnings obtaining in Great Britain and any changes in that level which have taken place during the review period.
 
 (2) In this section, “**the review period**” means—
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ba15afe7d2cc6187ca7a036d7ab95b3c]: Textual amendment: S. 148A inserted (8.1.2001 for specified purposes, 25.1.2001 for specified purposes, 6.4.2002 in so far as not already in force) by [Child Support, Pensions and Social Security Act 2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19), [ss. 33(1)](https://www.legislation.gov.uk/ukpga/2000/19/section/33/1), [86](https://www.legislation.gov.uk/ukpga/2000/19/section/86); [S.I. 2000/2950](https://www.legislation.gov.uk/uksi/2000/2950), [art. 6](https://www.legislation.gov.uk/uksi/2000/2950/article/6) (as amended by [S.I. 2000/3166](https://www.legislation.gov.uk/uksi/2000/3166), [art. 3](https://www.legislation.gov.uk/uksi/2000/3166/article/3)); [S.I. 2001/153](https://www.legislation.gov.uk/uksi/2001/153), [art. 2(c)](https://www.legislation.gov.uk/uksi/2001/153/article/2/c)
+[^c-ba15afe7d2cc6187ca7a036d7ab95b3c]: Textual amendment: S. 148A inserted (8.1.2001 for specified purposes, 25.1.2001 for specified purposes, 6.4.2002 in so far as not already in force) by [Child Support, Pensions and Social Security Act 2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19), [ss. 33(1)](https://www.legislation.gov.uk/ukpga/2000/19/section/33/1), [86](https://www.legislation.gov.uk/ukpga/2000/19/section/86); [S.I. 2000/2950](https://www.legislation.gov.uk/uksi/2000/2950), [art. 6](https://www.legislation.gov.uk/uksi/2000/2950/article/6) (as amended by [S.I. 2000/3166](https://www.legislation.gov.uk/uksi/2000/3166), [art. 3](https://www.legislation.gov.uk/uksi/2000/3166/article/3)); [S.I. 2001/153](https://www.legislation.gov.uk/uksi/2001/153), [art. 2(c)](https://www.legislation.gov.uk/uksi/2001/153/article/2/c)
 
-[^key-27642a8c2023fa16a1d33475690331f1]: Textual amendment: Words in [s. 148A(1)](https://www.legislation.gov.uk/ukpga/1992/5/section/148A/1) inserted (6.4.2016 with effect in accordance with art. 1(2) of the amending S.I.) by [The Pensions Act 2014 (Consequential and Supplementary Amendments) Order 2016 (S.I. 2016/224)](https://www.legislation.gov.uk/uksi/2016/224), [art. 3(2)](https://www.legislation.gov.uk/uksi/2016/224/article/3/2)
+[^c-27642a8c2023fa16a1d33475690331f1]: Textual amendment: Words in [s. 148A(1)](https://www.legislation.gov.uk/ukpga/1992/5/section/148A/1) inserted (6.4.2016 with effect in accordance with art. 1(2) of the amending S.I.) by [The Pensions Act 2014 (Consequential and Supplementary Amendments) Order 2016 (S.I. 2016/224)](https://www.legislation.gov.uk/uksi/2016/224), [art. 3(2)](https://www.legislation.gov.uk/uksi/2016/224/article/3/2)

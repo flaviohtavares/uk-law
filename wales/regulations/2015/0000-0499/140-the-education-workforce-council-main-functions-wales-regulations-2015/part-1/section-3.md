@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Interpretation[^key-64644368eee7dbe7ff27e488efad461a]
+## 3. Interpretation[^c-64644368eee7dbe7ff27e488efad461a]
 
 *Extent: E+W*
 
@@ -40,7 +40,7 @@ summary: ''
 - “Code of Practice” (“*Cod Ymarfer*”) means the code of practice prepared and published under section 24 of the 2014 Act;
 - “disciplinary proceedings” (“*achos disgyblu*”) in relation to a registered person in Wales means disciplinary proceedings under sections 26 to 32 of the 2014 Act;
 - “employer” (“*cyflogwr*”) means a person who employs or engages to provide a registered person to provide relevant services;
-- “Fitness to Practise[^key-a14784f8595f70c24685506dea86ea92] Committee” (“*Pwyllgor Addasrwydd i Ymarfer*”) means a committee established under regulation 22;
+- “Fitness to Practise[^c-a14784f8595f70c24685506dea86ea92] Committee” (“*Pwyllgor Addasrwydd i Ymarfer*”) means a committee established under regulation 22;
 - “further education teacher” (“*athro neu athrawes addysg bellach*”) means a person registered in the further education teacher category of registration;
 - “independent school” (“*ysgol annibynnol*”) has the same meaning as in section 463 of the Education Act 1996[^f00013];
 - “induction period” (“*cyfnod sefydlu*”) means an induction period served in accordance with regulations made in relation to England or Wales under—
@@ -51,7 +51,7 @@ summary: ''
 - “Investigating Committee” (“*Pwyllgor Ymchwilio*”) means a committee established under regulation 20;
 - “leading practitioner” (“*ymarferydd arweiniol*”) means a teacher who is paid on the leading practitioner pay range as determined by the Secretary of State and set out in a document given legal effect by order under section 122 of the 2002 Act[^f00014];
 - “main pay range” (“*prif ystod cyflog*”) means the main pay range determined by the Secretary of State and set out in a document given legal effect under section 122 of the 2002 Act[^f00015];
-- “nominated teacher” (“[^key-a75e858f2436cb342e790ca1b55e3838]*athro neu athrawes enwebedig*”) means a person who is mentioned in paragraphs 3, 4, 5, 6 or 7 of Schedule 3 to these Regulations and who is nominated by the head teacher where the head teacher considers that appropriate in the circumstances
+- “nominated teacher” (“[^c-a75e858f2436cb342e790ca1b55e3838]*athro neu athrawes enwebedig*”) means a person who is mentioned in paragraphs 3, 4, 5, 6 or 7 of Schedule 3 to these Regulations and who is nominated by the head teacher where the head teacher considers that appropriate in the circumstances
 - “post-threshold teacher” (“*athro neu athrawes ôl-drothwy*”) means a teacher who meets the criteria determined by the Secretary of State for that post and set out in a document given legal effect by order under section 122 of the 2002 Act[^f00016];
 - “qualified teacher” (“*athro neu athrawes gymwysedig*”) has the same meaning as in section 132(1) of the 2002 Act;
 - “the Register” (“*y Gofrestr*”) means the register established and maintained under section 9 of the 2014 Act, and “registration” (“*cofrestru*”) means registration on the Register;
@@ -59,7 +59,7 @@ summary: ''
 - “registered person” (“*person cofrestredig*”) has the meaning given to it in section 41(1) of the 2014 Act;
 - “relevant offence” (“*trosedd berthnasol*”) in relation to Wales has the same meaning as in section 27(1) of the 2014 Act and in relation to England has the same meaning as in section 141B(4) of the Education Act 2002;
 - “school maintained by a local authority” (“*ysgol a gynhelir gan awdurdod lleol*”) has the same meaning as in section 142(1) of the School Standards and Framework Act 1998;
-- “serious professional incompetence” (“*anghymhwysedd proffesiynol difrifol*”) means conduct which demonstrates a level of competence[^key-bf147cd0a157cc715c4ebfd09429ac22] which falls seriously below that expected of a registered person taking into account all the relevant circumstances;
+- “serious professional incompetence” (“*anghymhwysedd proffesiynol difrifol*”) means conduct which demonstrates a level of competence[^c-bf147cd0a157cc715c4ebfd09429ac22] which falls seriously below that expected of a registered person taking into account all the relevant circumstances;
 - “services (“*gwasanaethau*”) means services provided to a relevant employer in Wales and includes professional and voluntary services;
 - “special school” (“*ysgol arbennig*”) has the same meaning as in section 337 of the Education Act 1996;
 - “unacceptable professional conduct” (“*ymddygiad proffesiynol annerbyniol*”) means conduct which falls short of the standard expected of a registered person; and
@@ -77,7 +77,7 @@ summary: ''
 
 ## Annotations
 
-[^key-64644368eee7dbe7ff27e488efad461a]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2015/140/regulation/3) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)
+[^c-64644368eee7dbe7ff27e488efad461a]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2015/140/regulation/3) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)
 
 [^f00003]: Footnote: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18).
 
@@ -99,7 +99,7 @@ summary: ''
 
 [^f00012]: Footnote: [S.I. 2005/1818 (W. 146)](https://www.legislation.gov.uk/wsi/2005/1818). These Regulations will be revoked and re-made as a consequence of the commencement of the repeal of the enabling powers by the Education (Wales) Act 2014, but at the date the Regulations are made the Education (Induction Arrangements for School Teachers) (Wales) Regulations 2005 remain in force.
 
-[^key-a14784f8595f70c24685506dea86ea92]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/wsi/2015/140) substituted (1.3.2024) by [The Education Workforce Council (Main Functions) (Wales) (Amendment) Regulations 2024 (S.I. 2024/74)](https://www.legislation.gov.uk/wsi/2024/74), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/74/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2024/74/regulation/2/2)
+[^c-a14784f8595f70c24685506dea86ea92]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/wsi/2015/140) substituted (1.3.2024) by [The Education Workforce Council (Main Functions) (Wales) (Amendment) Regulations 2024 (S.I. 2024/74)](https://www.legislation.gov.uk/wsi/2024/74), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/74/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2024/74/regulation/2/2)
 
 [^f00013]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56).
 
@@ -107,10 +107,10 @@ summary: ''
 
 [^f00015]: Footnote: The current order is the School Teachers’ Pay and Conditions Order 2014 ([S.I. 2014/2045](https://www.legislation.gov.uk/uksi/2014/2045)) which gives legal effect to the document entitled “Teachers’ Pay and Conditions Document 2014 and Guidance on School Teachers’ Pay and Conditions” published on the gov.uk website.
 
-[^key-a75e858f2436cb342e790ca1b55e3838]: Textual amendment: Words in reg. 3(1) inserted (1.4.2016) by [The Education Workforce Council (Main Functions) (Wales) (Amendment) Regulations 2016 (S.I. 2016/6)](https://www.legislation.gov.uk/uksi/2016/6), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/6/regulation/1/1), [2(a)(i)](https://www.legislation.gov.uk/uksi/2016/6/regulation/2/a/i)
+[^c-a75e858f2436cb342e790ca1b55e3838]: Textual amendment: Words in reg. 3(1) inserted (1.4.2016) by [The Education Workforce Council (Main Functions) (Wales) (Amendment) Regulations 2016 (S.I. 2016/6)](https://www.legislation.gov.uk/uksi/2016/6), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/6/regulation/1/1), [2(a)(i)](https://www.legislation.gov.uk/uksi/2016/6/regulation/2/a/i)
 
 [^f00016]: Footnote: The current order is the School Teachers’ Pay and Conditions Order 2014 ([S.I. 2014/2045](https://www.legislation.gov.uk/uksi/2014/2045)) which gives legal effect to the document entitled “Teachers’ Pay and Conditions Document 2014 and Guidance on School Teachers’ Pay and Conditions” published on the gov.uk website.
 
-[^key-bf147cd0a157cc715c4ebfd09429ac22]: Textual amendment: Words in reg. 3(1) substituted (1.4.2016) by [The Education Workforce Council (Main Functions) (Wales) (Amendment) Regulations 2016 (S.I. 2016/6)](https://www.legislation.gov.uk/uksi/2016/6), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/6/regulation/1/1), [2(a)(ii)](https://www.legislation.gov.uk/uksi/2016/6/regulation/2/a/ii)
+[^c-bf147cd0a157cc715c4ebfd09429ac22]: Textual amendment: Words in reg. 3(1) substituted (1.4.2016) by [The Education Workforce Council (Main Functions) (Wales) (Amendment) Regulations 2016 (S.I. 2016/6)](https://www.legislation.gov.uk/uksi/2016/6), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/6/regulation/1/1), [2(a)(ii)](https://www.legislation.gov.uk/uksi/2016/6/regulation/2/a/ii)
 
 [^f00017]: Footnote: The current order is the School Teachers’ Pay and Conditions Order 2014 ([S.I. 2014/2045](https://www.legislation.gov.uk/uksi/2014/2045)) which gives legal effect to the document entitled “Teachers’ Pay and Conditions Document 2014 and Guidance on School Teachers’ Pay and Conditions” published on the gov.uk website.

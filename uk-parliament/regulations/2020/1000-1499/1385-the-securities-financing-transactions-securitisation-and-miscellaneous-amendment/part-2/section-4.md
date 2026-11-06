@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Determination of an advance application[^key-e4cc17fb4d7193da6662bcc927c7a42e]
+## 4. Determination of an advance application[^c-e4cc17fb4d7193da6662bcc927c7a42e]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e4cc17fb4d7193da6662bcc927c7a42e]: Commencement: Reg. 4 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2)
+[^c-e4cc17fb4d7193da6662bcc927c7a42e]: Commencement: Reg. 4 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2)

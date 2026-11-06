@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 2A. The Agency[^key-2e83aaff5f636d21d1863ae3d770318e][^c000001]
+## Article 2A. The Agency[^c-2e83aaff5f636d21d1863ae3d770318e][^c000001]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,12 +52,12 @@ The function of giving directions by virtue of this section is subject to the co
 - “ **REACH legislation** ” means—
   - (a) this Regulation,
   - (b) any instrument made under this Regulation, and
-  - (c) any assimilated direct[^key-436084ae0afdf511462d8421cdb272ea] legislation that was originally made under EU REACH.
+  - (c) any assimilated direct[^c-436084ae0afdf511462d8421cdb272ea] legislation that was originally made under EU REACH.
 
 ## Annotations
 
-[^key-2e83aaff5f636d21d1863ae3d770318e]: Textual amendment: Arts. 2A, 2B inserted (31.12.2020) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2019/758/schedule/1/paragraph/3) (as amended by [S.I. 2020/1577](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/b), [4(5)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/4/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2e83aaff5f636d21d1863ae3d770318e]: Textual amendment: Arts. 2A, 2B inserted (31.12.2020) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2019/758/schedule/1/paragraph/3) (as amended by [S.I. 2020/1577](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/b), [4(5)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/4/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000001]: Editorial: Substituted by [Corrigendum to Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC (Official Journal of the European Union L 396 of 30 December 2006)](https://www.legislation.gov.uk/eur/2006/1907/pdfs/eurcs_20061907_en_001.pdf).
 
-[^key-436084ae0afdf511462d8421cdb272ea]: Textual amendment: Words in [Art. 2A(5)](https://www.legislation.gov.uk/eur/2006/1907/article/2A/5) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 74(3)(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/74/3/b)
+[^c-436084ae0afdf511462d8421cdb272ea]: Textual amendment: Words in [Art. 2A(5)](https://www.legislation.gov.uk/eur/2006/1907/article/2A/5) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 74(3)(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/74/3/b)

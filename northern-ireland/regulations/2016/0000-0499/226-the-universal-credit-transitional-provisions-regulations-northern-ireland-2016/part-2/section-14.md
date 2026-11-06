@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 14. Modification of Claims and Payments Regulations in relation to universal credit claimants[^key-14efc24f6d38e2217dd10f90c956ef40]
+## 14. Modification of Claims and Payments Regulations in relation to universal credit claimants[^c-14efc24f6d38e2217dd10f90c956ef40]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-14efc24f6d38e2217dd10f90c956ef40]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2016/226/regulation/14) coming into operation in accordance with [reg. 1](https://www.legislation.gov.uk/nisr/2016/226/regulation/1)
+[^c-14efc24f6d38e2217dd10f90c956ef40]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2016/226/regulation/14) coming into operation in accordance with [reg. 1](https://www.legislation.gov.uk/nisr/2016/226/regulation/1)

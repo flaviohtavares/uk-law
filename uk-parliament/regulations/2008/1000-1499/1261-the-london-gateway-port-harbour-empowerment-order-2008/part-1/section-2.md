@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 2. Interpretation[^key-ca25513483c8f26c24d854548b90c467]
+## 2. Interpretation[^c-ca25513483c8f26c24d854548b90c467]
 
 *Extent: E+W+S*
 
@@ -92,7 +92,7 @@ summary: ''
   - (d) any operation under section 252 of the Merchant Shipping Act 1995[^f00015] or under section 56 of the 1847 Act as incorporated by article 3 (incorporation of the Harbours, Docks and Piers Clauses Act 1847);
 
   and a work ceases to be a tidal work when the land on which it is situated ceases to be below mean high water level;
-- “the tribunal” means the Upper Tribunal[^key-2e5237336018a6dc46f94c435c52be3b];
+- “the tribunal” means the Upper Tribunal[^c-2e5237336018a6dc46f94c435c52be3b];
 - “the Trinity House” means the Corporation of Trinity House of Deptford Strond;
 - “the undertaking” means the harbour undertaking of the Harbour Authority established within the area of jurisdiction by this Order;
 - “vessel” means every description of vessel, however propelled or moved, and includes a non-displacement craft, a personal watercraft, a seaplane on the surface of the water, a hydrofoil vessel, a hovercraft or any other amphibious vehicle and any other thing constructed or adapted for movement through, in, on or over water and is at the time in, on or over water; and
@@ -110,7 +110,7 @@ summary: ''
 
 ## Annotations
 
-[^key-ca25513483c8f26c24d854548b90c467]: Commencement: Art. 2 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-ca25513483c8f26c24d854548b90c467]: Commencement: Art. 2 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
 
 [^f00004]: Footnote: [1845 c. 20](https://www.legislation.gov.uk/ukpga/1845/20).
 
@@ -136,4 +136,4 @@ summary: ''
 
 [^f00015]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21).
 
-[^key-2e5237336018a6dc46f94c435c52be3b]: Textual amendment: Words in art. 2(1) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 2 para. 125](https://www.legislation.gov.uk/uksi/2009/1307/schedule/2/paragraph/125) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
+[^c-2e5237336018a6dc46f94c435c52be3b]: Textual amendment: Words in art. 2(1) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 2 para. 125](https://www.legislation.gov.uk/uksi/2009/1307/schedule/2/paragraph/125) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))

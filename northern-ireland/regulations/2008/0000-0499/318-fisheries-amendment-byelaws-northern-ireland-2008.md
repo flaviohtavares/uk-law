@@ -31,7 +31,7 @@ summary: ''
 
 Fisheries
 
-Fisheries (Amendment) Byelaws (Northern Ireland) 2008 (revoked)[^key-4a6f743e65f48f306e0f22a982dad559]
+Fisheries (Amendment) Byelaws (Northern Ireland) 2008 (revoked)[^c-4a6f743e65f48f306e0f22a982dad559]
 
 Made
 
@@ -41,26 +41,26 @@ Coming into operation
 
 15th September 2008
 
-[^key-4a6f743e65f48f306e0f22a982dad559]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4a6f743e65f48f306e0f22a982dad559]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-4a6f743e65f48f306e0f22a982dad559]
+## 1. Citation and commencement[^c-4a6f743e65f48f306e0f22a982dad559]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Fisheries Byelaws (Northern Ireland) 2003[^key-4a6f743e65f48f306e0f22a982dad559]
+## 2. Amendment of the Fisheries Byelaws (Northern Ireland) 2003[^c-4a6f743e65f48f306e0f22a982dad559]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Restrictions on numbers of pike to be taken by angling[^key-4a6f743e65f48f306e0f22a982dad559]
+## 3. Restrictions on numbers of pike to be taken by angling[^c-4a6f743e65f48f306e0f22a982dad559]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4a6f743e65f48f306e0f22a982dad559]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4a6f743e65f48f306e0f22a982dad559]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4a6f743e65f48f306e0f22a982dad559]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4a6f743e65f48f306e0f22a982dad559]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4a6f743e65f48f306e0f22a982dad559]: Textual amendment: Byelaws revoked (1.3.2014) by [Fisheries Regulations (Northern Ireland) 2014 (S.R. 2014/17)](https://www.legislation.gov.uk/nisr/2014/17), [regs. 1](https://www.legislation.gov.uk/nisr/2014/17/regulation/1), [3](https://www.legislation.gov.uk/nisr/2014/17/regulation/3), [Sch. 8](https://www.legislation.gov.uk/nisr/2014/17/schedule/8)
+[^c-4a6f743e65f48f306e0f22a982dad559]: Textual amendment: Byelaws revoked (1.3.2014) by [Fisheries Regulations (Northern Ireland) 2014 (S.R. 2014/17)](https://www.legislation.gov.uk/nisr/2014/17), [regs. 1](https://www.legislation.gov.uk/nisr/2014/17/regulation/1), [3](https://www.legislation.gov.uk/nisr/2014/17/regulation/3), [Sch. 8](https://www.legislation.gov.uk/nisr/2014/17/schedule/8)

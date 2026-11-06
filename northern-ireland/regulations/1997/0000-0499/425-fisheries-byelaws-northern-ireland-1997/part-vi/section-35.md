@@ -20,8 +20,8 @@ summary: ''
 
 **Not yet in force.**
 
-**35.**[^key-fd7a6692a40c5638ffff2312744183e7] A person shall not use for the purpose of taking or with intent to take salmon or freshwater fish, any net made from synthetic fibres (except a landing net used solely as an auxiliary to lawful angling) which contains any material not constructed of either two or more multifilament yarns twisted and plied together or three or more multifilament yarns braided together.
+**35.**[^c-fd7a6692a40c5638ffff2312744183e7] A person shall not use for the purpose of taking or with intent to take salmon or freshwater fish, any net made from synthetic fibres (except a landing net used solely as an auxiliary to lawful angling) which contains any material not constructed of either two or more multifilament yarns twisted and plied together or three or more multifilament yarns braided together.
 
 ## Annotations
 
-[^key-fd7a6692a40c5638ffff2312744183e7]: Commencement: S. 35 in operation at 1.11.1997, see byelaw 1
+[^c-fd7a6692a40c5638ffff2312744183e7]: Commencement: S. 35 in operation at 1.11.1997, see byelaw 1

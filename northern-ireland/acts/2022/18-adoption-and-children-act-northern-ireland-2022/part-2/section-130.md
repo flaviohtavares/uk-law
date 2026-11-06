@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 130. Inquiries into representations[^key-2de2ca038697894a4d33ed6fa28ceead]
+## 130. Inquiries into representations[^c-2de2ca038697894a4d33ed6fa28ceead]
 
 *Extent: N.I.*
 
@@ -79,4 +79,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2de2ca038697894a4d33ed6fa28ceead]: Commencement: S. 130 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-2de2ca038697894a4d33ed6fa28ceead]: Commencement: S. 130 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

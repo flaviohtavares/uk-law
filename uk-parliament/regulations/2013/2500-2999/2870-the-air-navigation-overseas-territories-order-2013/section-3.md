@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Interpretation[^key-6deb0f4884fb413158bb900b86fe834f]
+## 3. Interpretation[^c-6deb0f4884fb413158bb900b86fe834f]
 
 *Extent: E+W+S+N.I.*
 
@@ -128,9 +128,9 @@ summary: ''
 - “Instrument Flight Rules” means Instrument Flight Rules specified in the Rules of the Air;
 - “Instrument Meteorological Conditions” means weather that precludes flight in compliance with the Visual Flight Rules;
 - “international headquarters” means an international headquarters designated by Order in Council made under section 1 of the International Headquarters and Defence Organisations Act 1964[^f00009] as extended to the Territory;
-- “known consignor” means a person who consigns cargo for that person’s own account;[^key-06bda4efe76123e7018ef45c42f7e959]
+- “known consignor” means a person who consigns cargo for that person’s own account;[^c-06bda4efe76123e7018ef45c42f7e959]
 - “to land” in relation to aircraft includes alighting on the water;
-- “large unmanned aircraft” means any aircraft, having a maximum take-off mass exceeding 25 kg, operating or designed to operate autonomously or to be piloted remotely without a pilot on board;[^key-4439b8a57d7fe41305525c8a3ae5feb8]
+- “large unmanned aircraft” means any aircraft, having a maximum take-off mass exceeding 25 kg, operating or designed to operate autonomously or to be piloted remotely without a pilot on board;[^c-4439b8a57d7fe41305525c8a3ae5feb8]
 - “legal personal representative” means the person so constituted as the executor, administrator, or other representative, of a deceased person;
 - “let-down” means, in the case of an aircraft approaching an aerodrome to land, a defined procedure designed to enable an aircraft to descend safely to a point at which it can continue the approach visually;
 - “licence” includes any certificate of competency or certificate of validity issued with the licence or required to be held in connection with the licence by the law of the country in which the licence is granted;
@@ -174,30 +174,30 @@ summary: ''
 - “prescribed” means prescribed by regulations made by the Governor under this Order, and the expression “prescribe” shall be construed accordingly;
 - “pressurised aircraft” means an aircraft provided with means of maintaining in any compartment a pressure greater than that of the surrounding atmosphere;
 - “private flight” means a flight which is neither for the purpose of aerial work nor commercial air transport;
-- “psychoactive substance” means any alcohol, opioid, cannabinoid, sedative, hypnotic, cocaine, other psychostimulant, hallucinogen or volatile solvent, but does not include coffee or tobacco;[^key-434a408ef93cd25b718ea743c4881a3c]
+- “psychoactive substance” means any alcohol, opioid, cannabinoid, sedative, hypnotic, cocaine, other psychostimulant, hallucinogen or volatile solvent, but does not include coffee or tobacco;[^c-434a408ef93cd25b718ea743c4881a3c]
 - “record” includes, in addition to a record in writing—
   - (a) a disc, tape, sound-track or other device in which sounds or signals are embodied so as to be capable of being reproduced from it (with or without the aid of some other instrument);
   - (b) a film, tape or other device in which visual images are embodied so as to be capable of being reproduced from it (with or without the aid of some other instrument); and
   - (c) a photograph;
 
   and any reference to a copy of a record includes, in the case of a record falling within paragraph (a) only of this definition, a transcript of the sounds or signals embodied in the record, in the case of a record falling within paragraph (b) only of this definition, a still reproduction of the images embodied in the record, and in the case of a record falling within both those paragraphs, such a transcript together with such a still reproduction;
-- “regulated agent” means a person who acts as an agent for another person, to apply security controls to cargo or mail intended to be consigned by air;[^key-97cb41b9138f0aca4d6cf37c1cdf8dfd]
+- “regulated agent” means a person who acts as an agent for another person, to apply security controls to cargo or mail intended to be consigned by air;[^c-97cb41b9138f0aca4d6cf37c1cdf8dfd]
 - “released flight” means flight by an uncontrollable balloon during which it is not attached to the surface by any form of restraining device;
 - “replacement” in relation to any part of an aircraft or its equipment includes the removal and replacement of that part whether or not by the same part, and whether or not any work is done on it; but does not include the removal and replacement of a part which is designed to be removable solely for the purpose of enabling another part to be inspected, repaired, removed or replaced or cargo to be loaded;
 - “Rules of the Air” means the rules in Schedule 4 and any supplementary rules made by the Governor under article 67(1);
 - “runway visual range” in relation to a runway means the distance in the direction of take-off or landing over which the runway lights or surface markings may be seen from the touchdown zone as calculated by either human observation or instruments in the vicinity of the touchdown zone or where this is not reasonably practicable in the vicinity of the mid-point of the runway; and the distance, if any, communicated to the pilot-in-command of an aircraft by or on behalf of the person in charge of the aerodrome as being the runway visual range must be taken to be the runway visual range for the time being;
-- “safety management system” means a systematic approach to managing safety, including the necessary organisational structures, accountabilities, responsibilities,[^key-f6f3d5b9e2ff69cd57cd79e0482b587f] policies and procedures;
+- “safety management system” means a systematic approach to managing safety, including the necessary organisational structures, accountabilities, responsibilities,[^c-f6f3d5b9e2ff69cd57cd79e0482b587f] policies and procedures;
 - “scheduled journey” means one of a series of journeys that are undertaken between the same two places and which together amount to a systematic service;
 - “seaplane” includes a flying boat and any other aircraft designed to manoeuvre on water;
 - “sector” means part of the airspace controlled from an area control centre or other place;
 - “small balloon” means a balloon of not more than two metres in any linear dimension at any stage of its flight, including any basket or other equipment attached to the balloon;
-- “[^key-3448617c36d38687282a84194cfcd3f2]**small unmanned aircraft**” means any unmanned aircraft having a maximum mass not exceeding 25 kg;
+- “[^c-3448617c36d38687282a84194cfcd3f2]**small unmanned aircraft**” means any unmanned aircraft having a maximum mass not exceeding 25 kg;
 - “special VFR flight” means a flight which is a special VFR flight for the purposes of the Rules of the Air;
 - “specified requirements” means the OTARs;
 - “standard instrument arrival” means a designated IFR arrival route linking a significant point, normally on an air traffic service route, with a point from which a published instrument approach procedure can be commenced;
 - “standard instrument departure” means a designated IFR departure route linking the aerodrome or a specified runway of the aerodrome with a specified significant point, normally on a designated air traffic service route, at which the en-route phase of a flight commences;
 - “State of registry” means the Contracting State in which an aircraft is registered;
-- “State of the operator” means [^key-bbfcd9f92b9131b316296127011bc222]... the State in which the operator of an aircraft has its principal place of business (as defined in article 94(4)) or, if it has no such place of business, its permanent residence, in circumstances where—
+- “State of the operator” means [^c-bbfcd9f92b9131b316296127011bc222]... the State in which the operator of an aircraft has its principal place of business (as defined in article 94(4)) or, if it has no such place of business, its permanent residence, in circumstances where—
   - (a) that aircraft is registered in another Contracting State;
   - (b) the operator is operating that aircraft under an agreement for its lease, charter or interchange or any similar arrangement;
   - (c) the State in which the aircraft is registered has, by agreement with the State in which the operator of the aircraft has its principal place of business or, if it has no such place of business, its permanent residence, agreed to transfer to it its functions and duties as State of registry in respect of that aircraft in relation to, in the case of article 24(1), airworthiness, in the case of article 36(1), aircraft radio equipment, in the case of article 45, flight crew licensing or in the case of article 82(1), radio licensing; and
@@ -207,11 +207,11 @@ summary: ''
 - “task specialist” means a person assigned by the operator or a third party, or acting as an undertaking, who—
   - (a) performs tasks on the ground directly associated with a specialised task; or
   - (b) performs specialised tasks on board or from the aircraft;
-- “the Territory” has the meaning assigned to it by article 187 [^key-a759c240300c64c3c1c5be196c9b9021]...;
+- “the Territory” has the meaning assigned to it by article 187 [^c-a759c240300c64c3c1c5be196c9b9021]...;
 - “tethered flight” means flight by a controllable balloon throughout which it is flown within limits imposed by a restraining device that attaches the balloon to the surface;
 - “transition altitude” means the altitude at or below which the vertical position of an aircraft is controlled by reference to altitudes;
 - “uncontrollable balloon” means a balloon, not being a small balloon, which is not capable of free controlled flight;
-- ‘United Kingdom national’ means a British citizen, a British overseas territories citizen, a British Overseas citizen, a British National (overseas), a British subject under the British Nationality Act 1981 or a British protected person within the meaning of that Act;[^key-36d3a87f6ac36c1e73af806cf6788cfd]
+- ‘United Kingdom national’ means a British citizen, a British overseas territories citizen, a British Overseas citizen, a British National (overseas), a British subject under the British Nationality Act 1981 or a British protected person within the meaning of that Act;[^c-36d3a87f6ac36c1e73af806cf6788cfd]
 - “valuable consideration” means any right, interest, profit or benefit, forbearance, detriment, loss or responsibility accruing, given, suffered or undertaken under an agreement, which is of more than a nominal nature;
 - “VFR” means the Visual Flight Rules;
 - “Visual Flight Rules” means Visual Flight Rules prescribed by the Rules of the Air;
@@ -245,7 +245,7 @@ and the expressions “a flight” and “to fly” are construed accordingly.
 
 ## Annotations
 
-[^key-6deb0f4884fb413158bb900b86fe834f]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2013/2870/article/3) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-6deb0f4884fb413158bb900b86fe834f]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2013/2870/article/3) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
 [^f00005]: Footnote: [1981 c. 61](https://www.legislation.gov.uk/ukpga/1981/61).
 
@@ -257,20 +257,20 @@ and the expressions “a flight” and “to fly” are construed accordingly.
 
 [^f00009]: Footnote: [1964 c. 5](https://www.legislation.gov.uk/ukpga/1964/5).
 
-[^key-06bda4efe76123e7018ef45c42f7e959]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/uksi/2013/2870/article/3/1) inserted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2021/755/article/3/a)
+[^c-06bda4efe76123e7018ef45c42f7e959]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/uksi/2013/2870/article/3/1) inserted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2021/755/article/3/a)
 
-[^key-4439b8a57d7fe41305525c8a3ae5feb8]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/uksi/2013/2870/article/3/1) inserted (10.4.2024) by [The Air Navigation (Overseas Territories) (Amendment) Order 2024 (S.I. 2024/384)](https://www.legislation.gov.uk/uksi/2024/384), [arts. 1](https://www.legislation.gov.uk/uksi/2024/384/article/1), [3(a)](https://www.legislation.gov.uk/uksi/2024/384/article/3/a)
+[^c-4439b8a57d7fe41305525c8a3ae5feb8]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/uksi/2013/2870/article/3/1) inserted (10.4.2024) by [The Air Navigation (Overseas Territories) (Amendment) Order 2024 (S.I. 2024/384)](https://www.legislation.gov.uk/uksi/2024/384), [arts. 1](https://www.legislation.gov.uk/uksi/2024/384/article/1), [3(a)](https://www.legislation.gov.uk/uksi/2024/384/article/3/a)
 
-[^key-434a408ef93cd25b718ea743c4881a3c]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/uksi/2013/2870/article/3/1) inserted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2021/755/article/3/b)
+[^c-434a408ef93cd25b718ea743c4881a3c]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/uksi/2013/2870/article/3/1) inserted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2021/755/article/3/b)
 
-[^key-97cb41b9138f0aca4d6cf37c1cdf8dfd]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/uksi/2013/2870/article/3/1) inserted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [3(c)](https://www.legislation.gov.uk/uksi/2021/755/article/3/c)
+[^c-97cb41b9138f0aca4d6cf37c1cdf8dfd]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/uksi/2013/2870/article/3/1) inserted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [3(c)](https://www.legislation.gov.uk/uksi/2021/755/article/3/c)
 
-[^key-f6f3d5b9e2ff69cd57cd79e0482b587f]: Textual amendment: Word in [art. 3(1)](https://www.legislation.gov.uk/uksi/2013/2870/article/3/1) inserted (10.4.2024) by [The Air Navigation (Overseas Territories) (Amendment) Order 2024 (S.I. 2024/384)](https://www.legislation.gov.uk/uksi/2024/384), [arts. 1](https://www.legislation.gov.uk/uksi/2024/384/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2024/384/article/3/b)
+[^c-f6f3d5b9e2ff69cd57cd79e0482b587f]: Textual amendment: Word in [art. 3(1)](https://www.legislation.gov.uk/uksi/2013/2870/article/3/1) inserted (10.4.2024) by [The Air Navigation (Overseas Territories) (Amendment) Order 2024 (S.I. 2024/384)](https://www.legislation.gov.uk/uksi/2024/384), [arts. 1](https://www.legislation.gov.uk/uksi/2024/384/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2024/384/article/3/b)
 
-[^key-3448617c36d38687282a84194cfcd3f2]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/uksi/2013/2870/article/3/1) substituted (10.4.2024) by [The Air Navigation (Overseas Territories) (Amendment) Order 2024 (S.I. 2024/384)](https://www.legislation.gov.uk/uksi/2024/384), [arts. 1](https://www.legislation.gov.uk/uksi/2024/384/article/1), [3(c)](https://www.legislation.gov.uk/uksi/2024/384/article/3/c)
+[^c-3448617c36d38687282a84194cfcd3f2]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/uksi/2013/2870/article/3/1) substituted (10.4.2024) by [The Air Navigation (Overseas Territories) (Amendment) Order 2024 (S.I. 2024/384)](https://www.legislation.gov.uk/uksi/2024/384), [arts. 1](https://www.legislation.gov.uk/uksi/2024/384/article/1), [3(c)](https://www.legislation.gov.uk/uksi/2024/384/article/3/c)
 
-[^key-bbfcd9f92b9131b316296127011bc222]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/uksi/2013/2870/article/3/1) omitted (22.7.2021) by virtue of [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [3(e)](https://www.legislation.gov.uk/uksi/2021/755/article/3/e)
+[^c-bbfcd9f92b9131b316296127011bc222]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/uksi/2013/2870/article/3/1) omitted (22.7.2021) by virtue of [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [3(e)](https://www.legislation.gov.uk/uksi/2021/755/article/3/e)
 
-[^key-a759c240300c64c3c1c5be196c9b9021]: Textual amendment: Word in [art. 3](https://www.legislation.gov.uk/uksi/2013/2870/article/3) omitted (1.4.2015) by virtue of [The Air Navigation (Overseas Territories) (Amendment) Order 2014 (S.I. 2014/2925)](https://www.legislation.gov.uk/uksi/2014/2925), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/2925/article/1/1), [12(1)](https://www.legislation.gov.uk/uksi/2014/2925/article/12/1)
+[^c-a759c240300c64c3c1c5be196c9b9021]: Textual amendment: Word in [art. 3](https://www.legislation.gov.uk/uksi/2013/2870/article/3) omitted (1.4.2015) by virtue of [The Air Navigation (Overseas Territories) (Amendment) Order 2014 (S.I. 2014/2925)](https://www.legislation.gov.uk/uksi/2014/2925), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/2925/article/1/1), [12(1)](https://www.legislation.gov.uk/uksi/2014/2925/article/12/1)
 
-[^key-36d3a87f6ac36c1e73af806cf6788cfd]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/uksi/2013/2870/article/3/1) inserted (15.1.2015) by [The Air Navigation (Overseas Territories) (Amendment) Order 2014 (S.I. 2014/2925)](https://www.legislation.gov.uk/uksi/2014/2925), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/2925/article/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2014/2925/article/3/1)
+[^c-36d3a87f6ac36c1e73af806cf6788cfd]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/uksi/2013/2870/article/3/1) inserted (15.1.2015) by [The Air Navigation (Overseas Territories) (Amendment) Order 2014 (S.I. 2014/2925)](https://www.legislation.gov.uk/uksi/2014/2925), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/2925/article/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2014/2925/article/3/1)

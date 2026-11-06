@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Amendment of rule 20[^key-15adb3c53e906beddd2c165a3faf5bd4]
+## 84. Amendment of rule 20[^c-15adb3c53e906beddd2c165a3faf5bd4]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-15adb3c53e906beddd2c165a3faf5bd4]: Commencement: Reg. 84 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-15adb3c53e906beddd2c165a3faf5bd4]: Commencement: Reg. 84 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00065]: Footnote: Rule 20 was amended by [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101) and [2015/1923](https://www.legislation.gov.uk/uksi/2015/1923).

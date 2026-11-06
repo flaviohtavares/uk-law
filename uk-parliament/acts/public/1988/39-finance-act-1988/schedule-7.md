@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 7 — Exceptions to Rule in Section 66(1)[^key-5e1118ead81e586b0c87cd8625a493b6]
+## SCHEDULE 7 — Exceptions to Rule in Section 66(1)[^c-5e1118ead81e586b0c87cd8625a493b6]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,22 +24,22 @@ summary: ''
 
 Section 66.
 
-### Cases where rule does not apply[^key-5e1118ead81e586b0c87cd8625a493b6]
+### Cases where rule does not apply[^c-5e1118ead81e586b0c87cd8625a493b6]
 
-**1.**[^key-5e1118ead81e586b0c87cd8625a493b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-5e1118ead81e586b0c87cd8625a493b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-5e1118ead81e586b0c87cd8625a493b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-5e1118ead81e586b0c87cd8625a493b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Cases where rule does not apply until end of transitional period[^key-5e1118ead81e586b0c87cd8625a493b6]
+### Cases where rule does not apply until end of transitional period[^c-5e1118ead81e586b0c87cd8625a493b6]
 
-**3.**[^key-5e1118ead81e586b0c87cd8625a493b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-5e1118ead81e586b0c87cd8625a493b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-5e1118ead81e586b0c87cd8625a493b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-5e1118ead81e586b0c87cd8625a493b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Supplemental[^key-5e1118ead81e586b0c87cd8625a493b6]
+### Supplemental[^c-5e1118ead81e586b0c87cd8625a493b6]
 
-**5.**[^key-5e1118ead81e586b0c87cd8625a493b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-5e1118ead81e586b0c87cd8625a493b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5e1118ead81e586b0c87cd8625a493b6]: Textual amendment: [Sch. 7](https://www.legislation.gov.uk/ukpga/1988/39/schedule/7) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 336](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/336), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-5e1118ead81e586b0c87cd8625a493b6]: Textual amendment: [Sch. 7](https://www.legislation.gov.uk/ukpga/1988/39/schedule/7) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 336](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/336), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

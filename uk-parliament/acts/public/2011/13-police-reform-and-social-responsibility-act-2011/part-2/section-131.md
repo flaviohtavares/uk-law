@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 131. Application of net amount of levy payments[^key-8093b852e2f07a8271135810c489b96f]
+## 131. Application of net amount of levy payments[^c-8093b852e2f07a8271135810c489b96f]
 
 *Extent: E+W*
 
-(1) In relation to a late night levy requirement,[^key-2c7248162ac0d203d004455272501894] the net amount of levy payments for any levy year must be applied as follows.
+(1) In relation to a late night levy requirement,[^c-2c7248162ac0d203d004455272501894] the net amount of levy payments for any levy year must be applied as follows.
 
 (2) The licensing authority—
 
@@ -31,7 +31,7 @@ summary: ''
 
 (4) The specified proportion must be not less than 70 per cent.
 
-(4A)[^key-4c0b04e1c65064f7cb136b68c813c229] The licensing authority must publish information as to how it applies the remainder of the net amount mentioned in subsection (2)(b).
+(4A)[^c-4c0b04e1c65064f7cb136b68c813c229] The licensing authority must publish information as to how it applies the remainder of the net amount mentioned in subsection (2)(b).
 
 (4B) The information must be published at least once in each calendar year during which any part of the remainder is applied.
 
@@ -42,16 +42,16 @@ summary: ''
 (6) Regulations may make provision—
 
 - (a) as to the time or times at which payments are to be made by the licensing authority under subsection (2);
-- (b) for adjustments of payments in cases where payments or repayments are made in respect of a levy[^key-3099326375773a60949e2f8532107ba9] after the end of the levy year.
+- (b) for adjustments of payments in cases where payments or repayments are made in respect of a levy[^c-3099326375773a60949e2f8532107ba9] after the end of the levy year.
 
 (7) Regulations under this section may make provision conferring functions or a discretion on a licensing authority.
 
 ## Annotations
 
-[^key-8093b852e2f07a8271135810c489b96f]: Commencement: S. 131 in force at 31.10.2012 by [S.I. 2012/2670](https://www.legislation.gov.uk/uksi/2012/2670), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/2670/article/2/b)
+[^c-8093b852e2f07a8271135810c489b96f]: Commencement: S. 131 in force at 31.10.2012 by [S.I. 2012/2670](https://www.legislation.gov.uk/uksi/2012/2670), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/2670/article/2/b)
 
-[^key-2c7248162ac0d203d004455272501894]: Textual amendment: Words in [s. 131(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/131/1) inserted (31.1.2017 for specified purposes, 13.7.2023 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 18 para. 7(2)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/18/paragraph/7/2); [S.I. 2023/789](https://www.legislation.gov.uk/uksi/2023/789), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/789/regulation/2/b)
+[^c-2c7248162ac0d203d004455272501894]: Textual amendment: Words in [s. 131(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/131/1) inserted (31.1.2017 for specified purposes, 13.7.2023 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 18 para. 7(2)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/18/paragraph/7/2); [S.I. 2023/789](https://www.legislation.gov.uk/uksi/2023/789), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/789/regulation/2/b)
 
-[^key-4c0b04e1c65064f7cb136b68c813c229]: Textual amendment: [S. 131(4A)-(4C)](https://www.legislation.gov.uk/ukpga/2011/13/section/131/4A) inserted (31.1.2017 for specified purposes, 13.7.2023 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 18 para. 7(3)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/18/paragraph/7/3); [S.I. 2023/789](https://www.legislation.gov.uk/uksi/2023/789), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/789/regulation/2/b)
+[^c-4c0b04e1c65064f7cb136b68c813c229]: Textual amendment: [S. 131(4A)-(4C)](https://www.legislation.gov.uk/ukpga/2011/13/section/131/4A) inserted (31.1.2017 for specified purposes, 13.7.2023 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 18 para. 7(3)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/18/paragraph/7/3); [S.I. 2023/789](https://www.legislation.gov.uk/uksi/2023/789), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/789/regulation/2/b)
 
-[^key-3099326375773a60949e2f8532107ba9]: Textual amendment: Words in [s. 131(6)(b)](https://www.legislation.gov.uk/ukpga/2011/13/section/131/6/b) substituted (31.1.2017 for specified purposes, 13.7.2023 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 18 para. 7(4)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/18/paragraph/7/4); [S.I. 2023/789](https://www.legislation.gov.uk/uksi/2023/789), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/789/regulation/2/b)
+[^c-3099326375773a60949e2f8532107ba9]: Textual amendment: Words in [s. 131(6)(b)](https://www.legislation.gov.uk/ukpga/2011/13/section/131/6/b) substituted (31.1.2017 for specified purposes, 13.7.2023 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 18 para. 7(4)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/18/paragraph/7/4); [S.I. 2023/789](https://www.legislation.gov.uk/uksi/2023/789), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/789/regulation/2/b)

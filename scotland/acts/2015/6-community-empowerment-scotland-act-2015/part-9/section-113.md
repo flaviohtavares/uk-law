@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 113. Duty of tenant of allotment site to grant sublease[^key-2e8d748817aad9a519c7a079b3999983]
+## 113. Duty of tenant of allotment site to grant sublease[^c-2e8d748817aad9a519c7a079b3999983]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2e8d748817aad9a519c7a079b3999983]: Commencement: [S. 113](https://www.legislation.gov.uk/asp/2015/6/section/113) in force at 1.4.2018 by [S.S.I. 2017/458](https://www.legislation.gov.uk/ssi/2017/458), [art. 2](https://www.legislation.gov.uk/ssi/2017/458/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/458/schedule)
+[^c-2e8d748817aad9a519c7a079b3999983]: Commencement: [S. 113](https://www.legislation.gov.uk/asp/2015/6/section/113) in force at 1.4.2018 by [S.S.I. 2017/458](https://www.legislation.gov.uk/ssi/2017/458), [art. 2](https://www.legislation.gov.uk/ssi/2017/458/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/458/schedule)

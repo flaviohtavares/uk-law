@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 61. Reports by corporate parents[^key-57fd50f4c848a1f726ea089335f5c47f]
+## 61. Reports by corporate parents[^c-57fd50f4c848a1f726ea089335f5c47f]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-57fd50f4c848a1f726ea089335f5c47f]: Commencement: [S. 61](https://www.legislation.gov.uk/asp/2014/8/section/61) in force at 1.4.2015 by [S.S.I. 2015/61](https://www.legislation.gov.uk/ssi/2015/61), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/61/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2015/61/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/61/schedule)
+[^c-57fd50f4c848a1f726ea089335f5c47f]: Commencement: [S. 61](https://www.legislation.gov.uk/asp/2014/8/section/61) in force at 1.4.2015 by [S.S.I. 2015/61](https://www.legislation.gov.uk/ssi/2015/61), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/61/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2015/61/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/61/schedule)

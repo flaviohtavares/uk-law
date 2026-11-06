@@ -48,7 +48,7 @@ Stamp Duty Land Tax
 
 Stamp Duty Reserve Tax
 
-The Taxes (Definition of Charity) (Relevant Territories) Regulations 2010 (revoked)[^key-e5bb4be50875679d66ced7b58377cfe7]
+The Taxes (Definition of Charity) (Relevant Territories) Regulations 2010 (revoked)[^c-e5bb4be50875679d66ced7b58377cfe7]
 
 Made
 
@@ -62,19 +62,19 @@ Coming into force
 
 20th August 2010
 
-[^key-e5bb4be50875679d66ced7b58377cfe7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e5bb4be50875679d66ced7b58377cfe7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-e5bb4be50875679d66ced7b58377cfe7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-e5bb4be50875679d66ced7b58377cfe7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-e5bb4be50875679d66ced7b58377cfe7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-e5bb4be50875679d66ced7b58377cfe7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e5bb4be50875679d66ced7b58377cfe7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e5bb4be50875679d66ced7b58377cfe7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-e5bb4be50875679d66ced7b58377cfe7]
+## SCHEDULE[^c-e5bb4be50875679d66ced7b58377cfe7]
 
 Regulation 2
 
@@ -82,8 +82,8 @@ Regulation 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-e5bb4be50875679d66ced7b58377cfe7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e5bb4be50875679d66ced7b58377cfe7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e5bb4be50875679d66ced7b58377cfe7]: Textual amendment: Regulations revoked (with effect in accordance with s. 344(2)-(11) of the amending Act) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 344(13)(a)](https://www.legislation.gov.uk/ukpga/2023/30/section/344/13/a)
+[^c-e5bb4be50875679d66ced7b58377cfe7]: Textual amendment: Regulations revoked (with effect in accordance with s. 344(2)-(11) of the amending Act) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 344(13)(a)](https://www.legislation.gov.uk/ukpga/2023/30/section/344/13/a)

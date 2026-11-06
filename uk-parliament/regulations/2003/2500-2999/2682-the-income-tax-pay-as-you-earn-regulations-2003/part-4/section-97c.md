@@ -16,18 +16,18 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97C. Transfer of debt of managed service company[^key-7d4617430a0049f624fddf2d6c5ac8b1]
+## 97C. Transfer of debt of managed service company[^c-7d4617430a0049f624fddf2d6c5ac8b1]
 
 *Extent: E+W+S+N.I.*
 
 (1) This regulation applies if—
 
-- (a) a managed service company has a relevant PAYE debt or a relevant apprenticeship levy debt[^key-29d630d9cd66dcf4f4e8052f1c18287e], and
-- (b) an officer of Revenue and Customs is of the opinion that the relevant PAYE debt or the relevant apprenticeship levy debt[^key-9b0e58c6f701c1fa859cf1da0cab9e7a] or a part of the relevant PAYE debt or part of the relevant apprenticeship levy debt (the “specified amount”) is irrecoverable from the managed service company within a reasonable period.
+- (a) a managed service company has a relevant PAYE debt or a relevant apprenticeship levy debt[^c-29d630d9cd66dcf4f4e8052f1c18287e], and
+- (b) an officer of Revenue and Customs is of the opinion that the relevant PAYE debt or the relevant apprenticeship levy debt[^c-9b0e58c6f701c1fa859cf1da0cab9e7a] or a part of the relevant PAYE debt or part of the relevant apprenticeship levy debt (the “specified amount”) is irrecoverable from the managed service company within a reasonable period.
 
 (2) HM Revenue and Customs may make a direction authorising the recovery of the specified amount from the persons specified in section 688A(2) (managed service companies: recovery from other persons).
 
-(3) Upon the making of a direction under paragraph (2), the persons specified in section 688A(2) become jointly and severally liable for the relevant PAYE debt or the relevant apprenticeship levy debt[^key-63da95c0441cdb625da2068c50d9c018], but subject to what follows.
+(3) Upon the making of a direction under paragraph (2), the persons specified in section 688A(2) become jointly and severally liable for the relevant PAYE debt or the relevant apprenticeship levy debt[^c-63da95c0441cdb625da2068c50d9c018], but subject to what follows.
 
 (4) HM Revenue and Customs may not recover the specified amount from any person in accordance with a direction made under paragraph (2) until they have served a notice (a “transfer notice”) on the person in question (the “transferee”).
 
@@ -43,10 +43,10 @@ summary: ''
 
 ## Annotations
 
-[^key-7d4617430a0049f624fddf2d6c5ac8b1]: Textual amendment: Pt. 4 Ch. 4 inserted (6.8.2007) by [The Income Tax (Pay as You Earn) (Amendment No. 2) Regulations 2007 (S.I. 2007/2069)](https://www.legislation.gov.uk/uksi/2007/2069), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2069/regulation/1), [2](https://www.legislation.gov.uk/uksi/2007/2069/regulation/2)
+[^c-7d4617430a0049f624fddf2d6c5ac8b1]: Textual amendment: Pt. 4 Ch. 4 inserted (6.8.2007) by [The Income Tax (Pay as You Earn) (Amendment No. 2) Regulations 2007 (S.I. 2007/2069)](https://www.legislation.gov.uk/uksi/2007/2069), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2069/regulation/1), [2](https://www.legislation.gov.uk/uksi/2007/2069/regulation/2)
 
-[^key-29d630d9cd66dcf4f4e8052f1c18287e]: Textual amendment: Words in [reg. 97C(1)(a)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/97C/1/a) inserted (6.4.2017) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2017 (S.I. 2017/414)](https://www.legislation.gov.uk/uksi/2017/414), [regs. 1](https://www.legislation.gov.uk/uksi/2017/414/regulation/1), [2(7)(a)](https://www.legislation.gov.uk/uksi/2017/414/regulation/2/7/a)
+[^c-29d630d9cd66dcf4f4e8052f1c18287e]: Textual amendment: Words in [reg. 97C(1)(a)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/97C/1/a) inserted (6.4.2017) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2017 (S.I. 2017/414)](https://www.legislation.gov.uk/uksi/2017/414), [regs. 1](https://www.legislation.gov.uk/uksi/2017/414/regulation/1), [2(7)(a)](https://www.legislation.gov.uk/uksi/2017/414/regulation/2/7/a)
 
-[^key-9b0e58c6f701c1fa859cf1da0cab9e7a]: Textual amendment: Words in [reg. 97C(1)(b)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/97C/1/b) inserted (6.4.2017) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2017 (S.I. 2017/414)](https://www.legislation.gov.uk/uksi/2017/414), [regs. 1](https://www.legislation.gov.uk/uksi/2017/414/regulation/1), [2(7)(b)](https://www.legislation.gov.uk/uksi/2017/414/regulation/2/7/b)
+[^c-9b0e58c6f701c1fa859cf1da0cab9e7a]: Textual amendment: Words in [reg. 97C(1)(b)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/97C/1/b) inserted (6.4.2017) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2017 (S.I. 2017/414)](https://www.legislation.gov.uk/uksi/2017/414), [regs. 1](https://www.legislation.gov.uk/uksi/2017/414/regulation/1), [2(7)(b)](https://www.legislation.gov.uk/uksi/2017/414/regulation/2/7/b)
 
-[^key-63da95c0441cdb625da2068c50d9c018]: Textual amendment: Words in [reg. 97C(3)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/97C/3) inserted (6.4.2017) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2017 (S.I. 2017/414)](https://www.legislation.gov.uk/uksi/2017/414), [regs. 1](https://www.legislation.gov.uk/uksi/2017/414/regulation/1), [2(7)(c)](https://www.legislation.gov.uk/uksi/2017/414/regulation/2/7/c)
+[^c-63da95c0441cdb625da2068c50d9c018]: Textual amendment: Words in [reg. 97C(3)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/97C/3) inserted (6.4.2017) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2017 (S.I. 2017/414)](https://www.legislation.gov.uk/uksi/2017/414), [regs. 1](https://www.legislation.gov.uk/uksi/2017/414/regulation/1), [2(7)(c)](https://www.legislation.gov.uk/uksi/2017/414/regulation/2/7/c)

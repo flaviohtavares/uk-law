@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 68. Information about ownership etc. of land[^key-4c6029daf9693c9ae63e6ec2870428e8]
+## 68. Information about ownership etc. of land[^c-4c6029daf9693c9ae63e6ec2870428e8]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ commits an offence and is liable on summary conviction to a fine not exceeding l
 
 ## Annotations
 
-[^key-4c6029daf9693c9ae63e6ec2870428e8]: Commencement: [S. 68](https://www.legislation.gov.uk/asp/2009/6/section/68) in force at 24.12.2010 by [S.S.I. 2010/401](https://www.legislation.gov.uk/ssi/2010/401), [art. 3(c)](https://www.legislation.gov.uk/ssi/2010/401/article/3/c)
+[^c-4c6029daf9693c9ae63e6ec2870428e8]: Commencement: [S. 68](https://www.legislation.gov.uk/asp/2009/6/section/68) in force at 24.12.2010 by [S.S.I. 2010/401](https://www.legislation.gov.uk/ssi/2010/401), [art. 3(c)](https://www.legislation.gov.uk/ssi/2010/401/article/3/c)

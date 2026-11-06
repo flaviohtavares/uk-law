@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 30. Secretary of State to be informed of notifiable alterations[^key-9bf785465aef56e10ddf6ad6c0cf0942]
+## 30. Secretary of State to be informed of notifiable alterations[^c-9bf785465aef56e10ddf6ad6c0cf0942]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ In the event of a notifiable alteration being made to a vehicle in respect of wh
 
 ## Annotations
 
-[^key-9bf785465aef56e10ddf6ad6c0cf0942]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/1988/1478/regulation/30) in force at 23.9.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/1478/regulation/1)
+[^c-9bf785465aef56e10ddf6ad6c0cf0942]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/1988/1478/regulation/30) in force at 23.9.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/1478/regulation/1)

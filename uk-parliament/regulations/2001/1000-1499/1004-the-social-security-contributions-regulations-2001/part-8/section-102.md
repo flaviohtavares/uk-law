@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Subject to paragraph (2), any payment such as is specified in regulation 101 shall, except in so far as it is, under that regulation, treated by the Board as made on account of contributions under the Act, be repaid to the earner[^key-3b88e2c6eb0e5d9dbeb0bcb59bd89c0a], unless the net amount of such repayment would not exceed in value 50 pence.
+(1) Subject to paragraph (2), any payment such as is specified in regulation 101 shall, except in so far as it is, under that regulation, treated by the Board as made on account of contributions under the Act, be repaid to the earner[^c-3b88e2c6eb0e5d9dbeb0bcb59bd89c0a], unless the net amount of such repayment would not exceed in value 50 pence.
 
-(2)[^key-f1b41e1ccdc902d358beb073844162a7] It is a condition of repayment under this regulation that the earner makes an application for the repayment—
+(2)[^c-f1b41e1ccdc902d358beb073844162a7] It is a condition of repayment under this regulation that the earner makes an application for the repayment—
 
 - (a) in such form and manner as the Board may determine; and
 - (b) in the case of contributions falling within paragraph (b) of regulation 101, within the time prescribed in paragraph (3).
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3b88e2c6eb0e5d9dbeb0bcb59bd89c0a]: Textual amendment: Words in reg. 102(1) substituted (8.10.2002) by [The Social Security (Contributions) (Amendment No. 3) Regulations 2002 (S.I. 2002/2366)](https://www.legislation.gov.uk/uksi/2002/2366), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2366/regulation/1), [15(a)](https://www.legislation.gov.uk/uksi/2002/2366/regulation/15/a)
+[^c-3b88e2c6eb0e5d9dbeb0bcb59bd89c0a]: Textual amendment: Words in reg. 102(1) substituted (8.10.2002) by [The Social Security (Contributions) (Amendment No. 3) Regulations 2002 (S.I. 2002/2366)](https://www.legislation.gov.uk/uksi/2002/2366), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2366/regulation/1), [15(a)](https://www.legislation.gov.uk/uksi/2002/2366/regulation/15/a)
 
-[^key-f1b41e1ccdc902d358beb073844162a7]: Textual amendment: Reg. 102(2) substituted (8.10.2002) by [The Social Security (Contributions) (Amendment No. 3) Regulations 2002 (S.I. 2002/2366)](https://www.legislation.gov.uk/uksi/2002/2366), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2366/regulation/1), [15(b)](https://www.legislation.gov.uk/uksi/2002/2366/regulation/15/b)
+[^c-f1b41e1ccdc902d358beb073844162a7]: Textual amendment: Reg. 102(2) substituted (8.10.2002) by [The Social Security (Contributions) (Amendment No. 3) Regulations 2002 (S.I. 2002/2366)](https://www.legislation.gov.uk/uksi/2002/2366), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2366/regulation/1), [15(b)](https://www.legislation.gov.uk/uksi/2002/2366/regulation/15/b)

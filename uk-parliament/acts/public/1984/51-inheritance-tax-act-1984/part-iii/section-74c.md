@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74C. Interpretation of sections 74A and 74B[^key-adafed6ff8eb6683faece91f0247c876]
+## 74C. Interpretation of sections 74A and 74B[^c-adafed6ff8eb6683faece91f0247c876]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-adafed6ff8eb6683faece91f0247c876]: Textual amendment: Ss. 74A-74C inserted (20.6.2012 and with effect in accordance with s. 210(5) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 210(3)](https://www.legislation.gov.uk/ukpga/2012/14/section/210/3)
+[^c-adafed6ff8eb6683faece91f0247c876]: Textual amendment: Ss. 74A-74C inserted (20.6.2012 and with effect in accordance with s. 210(5) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 210(3)](https://www.legislation.gov.uk/ukpga/2012/14/section/210/3)

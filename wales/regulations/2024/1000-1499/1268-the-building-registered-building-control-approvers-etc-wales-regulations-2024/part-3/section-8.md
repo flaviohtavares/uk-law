@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Consultation with the fire and rescue authority[^key-91951d3967d4ab1622a48c3315ef11ed]
+## 8. Consultation with the fire and rescue authority[^c-91951d3967d4ab1622a48c3315ef11ed]
 
 *Extent: E+W*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-91951d3967d4ab1622a48c3315ef11ed]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2024/1268/regulation/8) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)
+[^c-91951d3967d4ab1622a48c3315ef11ed]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2024/1268/regulation/8) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)

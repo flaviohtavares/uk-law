@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 340B. Procedure for making a complaint and determining admissibility[^key-90ae8b9d401b11d41781b0bdcd186097]
+## 340B. Procedure for making a complaint and determining admissibility[^c-90ae8b9d401b11d41781b0bdcd186097]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,8 +35,8 @@ summary: ''
 (4) Service complaints regulations must make provision—
 
 - (a) for the officer to whom a service complaint is made to decide whether the complaint is admissible and to notify the complainant of that decision;
-- (b) for the Armed Forces Commissioner[^key-19482c9ace389c8fbac64c5af166d0b0], on an application by the complainant, to review a decision by the officer to whom a service complaint is made that the complaint is not admissible;
-- (c) for securing that the Commissioner’s[^key-b6eb1daa284711b9131cc70d5a109c8e] decision in relation to admissibility, on such a review, is binding on the complainant and the officer to whom the complaint was made.
+- (b) for the Armed Forces Commissioner[^c-19482c9ace389c8fbac64c5af166d0b0], on an application by the complainant, to review a decision by the officer to whom a service complaint is made that the complaint is not admissible;
+- (c) for securing that the Commissioner’s[^c-b6eb1daa284711b9131cc70d5a109c8e] decision in relation to admissibility, on such a review, is binding on the complainant and the officer to whom the complaint was made.
 
 (5) For the purposes of subsection (4), a service complaint is not admissible if—
 
@@ -48,8 +48,8 @@ summary: ''
 
 ## Annotations
 
-[^key-90ae8b9d401b11d41781b0bdcd186097]: Textual amendment: Pt. 14A inserted (1.1.2016) by [Armed Forces (Service Complaints and Financial Assistance) Act 2015 (c. 19)](https://www.legislation.gov.uk/ukpga/2015/19), [ss. 2(1)](https://www.legislation.gov.uk/ukpga/2015/19/section/2/1), [7(1)](https://www.legislation.gov.uk/ukpga/2015/19/section/7/1); [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in [S.I. 2015/1969](https://www.legislation.gov.uk/uksi/2015/1969))
+[^c-90ae8b9d401b11d41781b0bdcd186097]: Textual amendment: Pt. 14A inserted (1.1.2016) by [Armed Forces (Service Complaints and Financial Assistance) Act 2015 (c. 19)](https://www.legislation.gov.uk/ukpga/2015/19), [ss. 2(1)](https://www.legislation.gov.uk/ukpga/2015/19/section/2/1), [7(1)](https://www.legislation.gov.uk/ukpga/2015/19/section/7/1); [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in [S.I. 2015/1969](https://www.legislation.gov.uk/uksi/2015/1969))
 
-[^key-19482c9ace389c8fbac64c5af166d0b0]: Textual amendment: Words in [s. 340B(4)(b)](https://www.legislation.gov.uk/ukpga/2006/52/section/340B/4/b) substituted (1.4.2026) by [Armed Forces Commissioner Act 2025 (c. 23)](https://www.legislation.gov.uk/ukpga/2025/23), [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2), [Sch. 2 para. 10(a)](https://www.legislation.gov.uk/ukpga/2025/23/schedule/2/paragraph/10/a); [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [regs. 2](https://www.legislation.gov.uk/uksi/2026/14/regulation/2), [4(e)](https://www.legislation.gov.uk/uksi/2026/14/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
+[^c-19482c9ace389c8fbac64c5af166d0b0]: Textual amendment: Words in [s. 340B(4)(b)](https://www.legislation.gov.uk/ukpga/2006/52/section/340B/4/b) substituted (1.4.2026) by [Armed Forces Commissioner Act 2025 (c. 23)](https://www.legislation.gov.uk/ukpga/2025/23), [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2), [Sch. 2 para. 10(a)](https://www.legislation.gov.uk/ukpga/2025/23/schedule/2/paragraph/10/a); [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [regs. 2](https://www.legislation.gov.uk/uksi/2026/14/regulation/2), [4(e)](https://www.legislation.gov.uk/uksi/2026/14/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
 
-[^key-b6eb1daa284711b9131cc70d5a109c8e]: Textual amendment: Word in [s. 340B(4)(c)](https://www.legislation.gov.uk/ukpga/2006/52/section/340B/4/c) substituted (1.4.2026) by [Armed Forces Commissioner Act 2025 (c. 23)](https://www.legislation.gov.uk/ukpga/2025/23), [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2), [Sch. 2 para. 12(a)](https://www.legislation.gov.uk/ukpga/2025/23/schedule/2/paragraph/12/a); [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [regs. 2](https://www.legislation.gov.uk/uksi/2026/14/regulation/2), [4(e)](https://www.legislation.gov.uk/uksi/2026/14/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
+[^c-b6eb1daa284711b9131cc70d5a109c8e]: Textual amendment: Word in [s. 340B(4)(c)](https://www.legislation.gov.uk/ukpga/2006/52/section/340B/4/c) substituted (1.4.2026) by [Armed Forces Commissioner Act 2025 (c. 23)](https://www.legislation.gov.uk/ukpga/2025/23), [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2), [Sch. 2 para. 12(a)](https://www.legislation.gov.uk/ukpga/2025/23/schedule/2/paragraph/12/a); [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [regs. 2](https://www.legislation.gov.uk/uksi/2026/14/regulation/2), [4(e)](https://www.legislation.gov.uk/uksi/2026/14/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))

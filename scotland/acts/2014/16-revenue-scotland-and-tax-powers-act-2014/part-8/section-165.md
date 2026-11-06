@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 165. Scottish landfill tax and Scottish aggregates tax: multiple failures to make return[^key-695b913a215f516e482d35e4b83b237b][^key-9526b879a9bd5f8aa71dc5d624e24767]
+## 165. Scottish landfill tax and Scottish aggregates tax: multiple failures to make return[^c-695b913a215f516e482d35e4b83b237b][^c-9526b879a9bd5f8aa71dc5d624e24767]
 
 *Extent: S*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-695b913a215f516e482d35e4b83b237b]: Commencement: [S. 165](https://www.legislation.gov.uk/asp/2014/16/section/165) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-695b913a215f516e482d35e4b83b237b]: Commencement: [S. 165](https://www.legislation.gov.uk/asp/2014/16/section/165) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
 
-[^key-9526b879a9bd5f8aa71dc5d624e24767]: Textual amendment: [S. 165](https://www.legislation.gov.uk/asp/2014/16/part/8/chapter/2/crossheading/amounts-of-penalties-for-failure-to-make-returns-scottish-landfill-tax) heading substituted (1.4.2026) by [Aggregates Tax and Devolved Taxes Administration (Scotland) Act 2024 (asp 14)](https://www.legislation.gov.uk/asp/2024/14), [ss. 39(6)](https://www.legislation.gov.uk/asp/2024/14/section/39/6), [64(2)](https://www.legislation.gov.uk/asp/2024/14/section/64/2) (with [s. 63](https://www.legislation.gov.uk/asp/2024/14/section/63)); [S.S.I. 2026/84](https://www.legislation.gov.uk/ssi/2026/84), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2026/84/regulation/2/c)
+[^c-9526b879a9bd5f8aa71dc5d624e24767]: Textual amendment: [S. 165](https://www.legislation.gov.uk/asp/2014/16/part/8/chapter/2/crossheading/amounts-of-penalties-for-failure-to-make-returns-scottish-landfill-tax) heading substituted (1.4.2026) by [Aggregates Tax and Devolved Taxes Administration (Scotland) Act 2024 (asp 14)](https://www.legislation.gov.uk/asp/2024/14), [ss. 39(6)](https://www.legislation.gov.uk/asp/2024/14/section/39/6), [64(2)](https://www.legislation.gov.uk/asp/2024/14/section/64/2) (with [s. 63](https://www.legislation.gov.uk/asp/2024/14/section/63)); [S.S.I. 2026/84](https://www.legislation.gov.uk/ssi/2026/84), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2026/84/regulation/2/c)

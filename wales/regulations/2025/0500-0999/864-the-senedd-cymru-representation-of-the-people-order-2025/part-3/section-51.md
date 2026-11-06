@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 51. Time for sending in and paying claims[^key-c0ca11eb71f8ae8bb8b1d71fa1a1e1ca]
+## 51. Time for sending in and paying claims[^c-c0ca11eb71f8ae8bb8b1d71fa1a1e1ca]
 
 *Extent: E+W*
 
 (1) Every claim against an individual candidate or an individual candidate’s election agent in respect of election expenses which is not sent in to the election agent within 21 days after the day on which the result or results of the election are declared, will be barred and not paid.
 
-(2) All election expenses must be paid not later than 28 days after the day on which the result or results of the election are declared[^key-1fae3e670dfded040f09d7bb00c404ae].
+(2) All election expenses must be paid not later than 28 days after the day on which the result or results of the election are declared[^c-1fae3e670dfded040f09d7bb00c404ae].
 
 (3) Any person who pays a claim in contravention of paragraph (1), or makes a payment in contravention of paragraph (2), is guilty of an illegal practice.
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c0ca11eb71f8ae8bb8b1d71fa1a1e1ca]: Commencement: Art. 51 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-c0ca11eb71f8ae8bb8b1d71fa1a1e1ca]: Commencement: Art. 51 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-1fae3e670dfded040f09d7bb00c404ae]: Textual amendment: Words in [art. 51(2)](https://www.legislation.gov.uk/wsi/2025/864/article/51/2) substituted (24.3.2026) by [The Representation of the People (Absent Voting and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/91)](https://www.legislation.gov.uk/wsi/2026/91), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/91/regulation/1/2), [41(3)](https://www.legislation.gov.uk/wsi/2026/91/regulation/41/3)
+[^c-1fae3e670dfded040f09d7bb00c404ae]: Textual amendment: Words in [art. 51(2)](https://www.legislation.gov.uk/wsi/2025/864/article/51/2) substituted (24.3.2026) by [The Representation of the People (Absent Voting and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/91)](https://www.legislation.gov.uk/wsi/2026/91), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/91/regulation/1/2), [41(3)](https://www.legislation.gov.uk/wsi/2026/91/regulation/41/3)

@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: N.I.*
 
-**76A.**[^key-bb465b16d1829c8946f7b3944009b3e3][^key-bff7b63df790a27f26523cd97236a41f] (1) A person may, if the court so directs, take part in eligible magistrates' court proceedings through—
+**76A.**[^c-bb465b16d1829c8946f7b3944009b3e3][^c-bff7b63df790a27f26523cd97236a41f] (1) A person may, if the court so directs, take part in eligible magistrates' court proceedings through—
 
 - (a) a live audio link, or
 - (b) a live video link.
@@ -86,6 +86,6 @@ are to be regarded as taking place at the location where the district judge (mag
 
 ## Annotations
 
-[^key-bb465b16d1829c8946f7b3944009b3e3]: Modification: [Art. 76A](https://www.legislation.gov.uk/nisi/1981/1675/article/76A) expiry of earlier affecting provision 2020 c. 7, Sch. 27 para. 9 (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
+[^c-bb465b16d1829c8946f7b3944009b3e3]: Modification: [Art. 76A](https://www.legislation.gov.uk/nisi/1981/1675/article/76A) expiry of earlier affecting provision 2020 c. 7, Sch. 27 para. 9 (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
 
-[^key-bff7b63df790a27f26523cd97236a41f]: Textual amendment: Art. 76A and cross-heading inserted (temp.) (25.3.2020) by virtue of [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1), [Sch. 27 para. 9](https://www.legislation.gov.uk/ukpga/2020/7/schedule/27/paragraph/9) (with [ss. 88-90](https://www.legislation.gov.uk/ukpga/2020/7/section/88))
+[^c-bff7b63df790a27f26523cd97236a41f]: Textual amendment: Art. 76A and cross-heading inserted (temp.) (25.3.2020) by virtue of [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1), [Sch. 27 para. 9](https://www.legislation.gov.uk/ukpga/2020/7/schedule/27/paragraph/9) (with [ss. 88-90](https://www.legislation.gov.uk/ukpga/2020/7/section/88))

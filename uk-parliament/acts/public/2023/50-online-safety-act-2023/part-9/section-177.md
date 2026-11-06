@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 177. Annual report on the Secretary of State’s functions[^key-5e7816c338ecf5a2ad7ef0505823ead3][^key-1078b86b259ae595805e2f34669d22d3]
+## 177. Annual report on the Secretary of State’s functions[^c-5e7816c338ecf5a2ad7ef0505823ead3][^c-1078b86b259ae595805e2f34669d22d3]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ In section 390 of the Communications Act (annual report on the Secretary of Stat
 
 ## Annotations
 
-[^key-5e7816c338ecf5a2ad7ef0505823ead3]: Commencement: S. 177 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-5e7816c338ecf5a2ad7ef0505823ead3]: Commencement: S. 177 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-1078b86b259ae595805e2f34669d22d3]: Commencement: [S. 177](https://www.legislation.gov.uk/ukpga/2023/50/section/177) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z22)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z22)
+[^c-1078b86b259ae595805e2f34669d22d3]: Commencement: [S. 177](https://www.legislation.gov.uk/ukpga/2023/50/section/177) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z22)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z22)

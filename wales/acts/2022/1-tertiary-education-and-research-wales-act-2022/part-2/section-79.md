@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 79. Decision reviewer[^key-b5920e76583daf9a622d826f4848e771][^key-0a87e31e0be0f7fc07d78313ad125938]
+## 79. Decision reviewer[^c-b5920e76583daf9a622d826f4848e771][^c-0a87e31e0be0f7fc07d78313ad125938]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b5920e76583daf9a622d826f4848e771]: Commencement: S. 79 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-b5920e76583daf9a622d826f4848e771]: Commencement: S. 79 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-0a87e31e0be0f7fc07d78313ad125938]: Commencement: [S. 79](https://www.legislation.gov.uk/asc/2022/1/section/79) in force at 5.4.2025 by [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 2(bb)](https://www.legislation.gov.uk/wsi/2025/432/article/2/bb)
+[^c-0a87e31e0be0f7fc07d78313ad125938]: Commencement: [S. 79](https://www.legislation.gov.uk/asc/2022/1/section/79) in force at 5.4.2025 by [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 2(bb)](https://www.legislation.gov.uk/wsi/2025/432/article/2/bb)

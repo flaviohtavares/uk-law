@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. “Search content”, “search results” etc[^key-cb1699013309e9cd07a159ffdc532b25]
+## 57. “Search content”, “search results” etc[^c-cb1699013309e9cd07a159ffdc532b25]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cb1699013309e9cd07a159ffdc532b25]: Commencement: S. 57 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
+[^c-cb1699013309e9cd07a159ffdc532b25]: Commencement: S. 57 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)

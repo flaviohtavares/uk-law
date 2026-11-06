@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 4 — New Schedule 3A to the Government of Wales Act 2006[^key-1119ffcccbdc1501c51d23f6871c953f]
+## SCHEDULE 4 — New Schedule 3A to the Government of Wales Act 2006[^c-1119ffcccbdc1501c51d23f6871c953f]
 
 *Extent: E+W+S+N.I.*
 
 Section 21
 
-[^key-1119ffcccbdc1501c51d23f6871c953f]
+[^c-1119ffcccbdc1501c51d23f6871c953f]
 
 This Schedule sets out the new Schedule 3A to the Government of Wales Act 2006, to be inserted after Schedule 3 to that Act—
 
@@ -165,4 +165,4 @@ This Schedule sets out the new Schedule 3A to the Government of Wales Act 2006, 
 
 ## Annotations
 
-[^key-1119ffcccbdc1501c51d23f6871c953f]: Commencement: Sch. 4 in force at 1.4.2018 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/p)
+[^c-1119ffcccbdc1501c51d23f6871c953f]: Commencement: Sch. 4 in force at 1.4.2018 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/p)

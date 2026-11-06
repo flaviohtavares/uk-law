@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 148. Security in tribunal buildings[^key-114b3e506ef2dd04460c5109634a6fb4]
+## 148. Security in tribunal buildings[^c-114b3e506ef2dd04460c5109634a6fb4]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-114b3e506ef2dd04460c5109634a6fb4]: Commencement: [S. 148](https://www.legislation.gov.uk/ukpga/2009/25/section/148) in force at 18.11.2013 by [S.I. 2013/2908](https://www.legislation.gov.uk/uksi/2013/2908), [art. 2](https://www.legislation.gov.uk/uksi/2013/2908/article/2)
+[^c-114b3e506ef2dd04460c5109634a6fb4]: Commencement: [S. 148](https://www.legislation.gov.uk/ukpga/2009/25/section/148) in force at 18.11.2013 by [S.I. 2013/2908](https://www.legislation.gov.uk/uksi/2013/2908), [art. 2](https://www.legislation.gov.uk/uksi/2013/2908/article/2)

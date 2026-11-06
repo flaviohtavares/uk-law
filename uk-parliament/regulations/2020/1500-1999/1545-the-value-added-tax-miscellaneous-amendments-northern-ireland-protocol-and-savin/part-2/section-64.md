@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64.[^key-c31bdf05db2c82dccbc5b099fa35c379]
+## 64.[^c-c31bdf05db2c82dccbc5b099fa35c379]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,7 +43,7 @@ For regulation 119 (regulations excepted) substitute—
 
 ## Annotations
 
-[^key-c31bdf05db2c82dccbc5b099fa35c379]: Commencement: Reg. 64 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-c31bdf05db2c82dccbc5b099fa35c379]: Commencement: Reg. 64 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
 [^c24395331]: Marginal citation: [S.I. 1988/809](https://www.legislation.gov.uk/uksi/1988/809); relevantly amended by 1995/1046 and 2015/368.
 

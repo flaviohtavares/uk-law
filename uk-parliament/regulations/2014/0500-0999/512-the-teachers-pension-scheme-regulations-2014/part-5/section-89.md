@@ -22,7 +22,7 @@ summary: ''
 
 (1) In this Chapter—
 
-- “average annual rate” means the average rate of pensionable earnings in a 12 month period[^key-c7229f76e972e39c98bca20bbfdcd564];
+- “average annual rate” means the average rate of pensionable earnings in a 12 month period[^c-c7229f76e972e39c98bca20bbfdcd564];
 - “**increased annual rate**”, in relation to pensionable earnings, has the meaning given in regulation 97(2);
 - “**new employment**” has the meaning given in regulation 91(2);
 - “**new employment condition**” has the meaning given in regulation 91;
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c7229f76e972e39c98bca20bbfdcd564]: Textual amendment: Words in reg. 89(1) substituted (30.11.2017) by [The Teachers Pensions Schemes (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/1084)](https://www.legislation.gov.uk/uksi/2017/1084), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1084/regulation/1), [10](https://www.legislation.gov.uk/uksi/2017/1084/regulation/10)
+[^c-c7229f76e972e39c98bca20bbfdcd564]: Textual amendment: Words in reg. 89(1) substituted (30.11.2017) by [The Teachers Pensions Schemes (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/1084)](https://www.legislation.gov.uk/uksi/2017/1084), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1084/regulation/1), [10](https://www.legislation.gov.uk/uksi/2017/1084/regulation/10)
 
 [^c22421131]: Marginal citation: See the meaning of “standard increase” in Chapter 4 of Part 3.

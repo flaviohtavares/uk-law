@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 51. Account to specify amount of pension for a financial year[^key-381fa130aecb01eea1e1a82bb397d617]
+## 51. Account to specify amount of pension for a financial year[^c-381fa130aecb01eea1e1a82bb397d617]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-381fa130aecb01eea1e1a82bb397d617]: Commencement: [Reg. 51](https://www.legislation.gov.uk/ssi/2014/292/regulation/51) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-381fa130aecb01eea1e1a82bb397d617]: Commencement: [Reg. 51](https://www.legislation.gov.uk/ssi/2014/292/regulation/51) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

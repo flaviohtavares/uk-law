@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 68. Abolition of requirement to retain metal for 48 hours[^key-5768d2e9db0ea577a075a38b67c927c4]
+## 68. Abolition of requirement to retain metal for 48 hours[^c-5768d2e9db0ea577a075a38b67c927c4]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Section 31 of the 1982 Act (retention of metal) is repealed.
 
 ## Annotations
 
-[^key-5768d2e9db0ea577a075a38b67c927c4]: Commencement: S. 68 in force at 1.9.2016 by [S.S.I. 2016/85](https://www.legislation.gov.uk/ssi/2016/85), [art. 2](https://www.legislation.gov.uk/ssi/2016/85/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/85/schedule)
+[^c-5768d2e9db0ea577a075a38b67c927c4]: Commencement: S. 68 in force at 1.9.2016 by [S.S.I. 2016/85](https://www.legislation.gov.uk/ssi/2016/85), [art. 2](https://www.legislation.gov.uk/ssi/2016/85/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/85/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Key definitions[^key-5b476c35533bd9c24938224265c23066]
+## 2. Key definitions[^c-5b476c35533bd9c24938224265c23066]
 
 *Extent: E+W*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5b476c35533bd9c24938224265c23066]: Commencement: S. 2 in force at Royal Assent, see [s. 100(2)(a)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/a)
+[^c-5b476c35533bd9c24938224265c23066]: Commencement: S. 2 in force at Royal Assent, see [s. 100(2)(a)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/a)

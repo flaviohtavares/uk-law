@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90A. Section 90: transfers made for consideration in money or money's worth[^key-9e8bc05e6c5bbae2a541e2c553795735][^key-980b22bdd18817502efbb7436a0364ad]
+## 90A. Section 90: transfers made for consideration in money or money's worth[^c-9e8bc05e6c5bbae2a541e2c553795735][^c-980b22bdd18817502efbb7436a0364ad]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9e8bc05e6c5bbae2a541e2c553795735]: Modification: Ss. 87-90A applied (with modifications) (with effect in accordance with art. 1(2)(3), Sch. 1 of the amending S.I.) by [The Offshore Funds (Tax) Regulations 2009 (S.I. 2009/3001)](https://www.legislation.gov.uk/uksi/2009/3001), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/3001/regulation/1/1), [20(3)](https://www.legislation.gov.uk/uksi/2009/3001/regulation/20/3)[(4)](https://www.legislation.gov.uk/uksi/2009/3001/regulation/20/4)
+[^c-9e8bc05e6c5bbae2a541e2c553795735]: Modification: Ss. 87-90A applied (with modifications) (with effect in accordance with art. 1(2)(3), Sch. 1 of the amending S.I.) by [The Offshore Funds (Tax) Regulations 2009 (S.I. 2009/3001)](https://www.legislation.gov.uk/uksi/2009/3001), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/3001/regulation/1/1), [20(3)](https://www.legislation.gov.uk/uksi/2009/3001/regulation/20/3)[(4)](https://www.legislation.gov.uk/uksi/2009/3001/regulation/20/4)
 
-[^key-980b22bdd18817502efbb7436a0364ad]: Textual amendment: Ss. 90, 90A substituted for s. 90 (with effect in accordance with Sch. 7 para. 115 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 111](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/111)
+[^c-980b22bdd18817502efbb7436a0364ad]: Textual amendment: Ss. 90, 90A substituted for s. 90 (with effect in accordance with Sch. 7 para. 115 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 111](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/111)

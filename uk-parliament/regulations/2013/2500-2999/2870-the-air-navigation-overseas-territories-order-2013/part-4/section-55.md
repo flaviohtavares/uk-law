@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Licence holder not to act as member of flight crew when unfit[^key-20c1a91afffff2b59b1062496112d12e]
+## 55. Licence holder not to act as member of flight crew when unfit[^c-20c1a91afffff2b59b1062496112d12e]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ must inform the Governor in writing of such injury, illness or pregnancy as soon
 
 ## Annotations
 
-[^key-20c1a91afffff2b59b1062496112d12e]: Commencement: [Art. 55](https://www.legislation.gov.uk/uksi/2013/2870/article/55) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-20c1a91afffff2b59b1062496112d12e]: Commencement: [Art. 55](https://www.legislation.gov.uk/uksi/2013/2870/article/55) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

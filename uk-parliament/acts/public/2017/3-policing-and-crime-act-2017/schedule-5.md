@@ -26,9 +26,9 @@ Section 16
 
 *Extent: E+W*
 
-**1.**[^c22724321][^key-756113f7d83c8a9a84885ab45f84f978] Part 1 of Schedule 3 to the Police Reform Act 2002 (handling of complaints) is amended as follows.
+**1.**[^c22724321][^c-756113f7d83c8a9a84885ab45f84f978] Part 1 of Schedule 3 to the Police Reform Act 2002 (handling of complaints) is amended as follows.
 
-**2.**[^c22724331][^key-178e15dcc2688d6b03ddaf3018d94fbe] (1) Paragraph 2 (initial handling and recording of complaints) is amended as follows.
+**2.**[^c22724331][^c-178e15dcc2688d6b03ddaf3018d94fbe] (1) Paragraph 2 (initial handling and recording of complaints) is amended as follows.
 
 (2) In sub-paragraph (6), in the words following paragraph (c), for “record the complaint” substitute “ contact the complainant and seek the complainant's views on how the complaint should be handled ”.
 
@@ -64,9 +64,9 @@ Section 16
 >
 > (10) If a local policing body or chief officer determines that part of what has been received (whether directly or by virtue of a notification under this paragraph) is a complaint and part is not, the local policing body or chief officer must proceed under this paragraph as if those two parts had been separately received.
 
-**3.**[^c22724341][^key-a817daa3d71d7cabd040ae4ce16f0718] Omit paragraph 3 (failures to notify or record a complaint) and the italic heading before that paragraph.
+**3.**[^c22724341][^c-a817daa3d71d7cabd040ae4ce16f0718] Omit paragraph 3 (failures to notify or record a complaint) and the italic heading before that paragraph.
 
-**4.**[^c22724351][^key-6dfab173ef61e6a9496d96208d72f6a1] (1) Paragraph 4 (reference of complaints to the Commission) is amended as follows.
+**4.**[^c22724351][^c-6dfab173ef61e6a9496d96208d72f6a1] (1) Paragraph 4 (reference of complaints to the Commission) is amended as follows.
 
 (2) In sub-paragraph (6)(b), for “a possible future investigation of the complaint” substitute “ an investigation of the complaint (whether an existing investigation or a possible future one) ”.
 
@@ -84,9 +84,9 @@ Section 16
 
 *Extent: E+W*
 
-**5.**[^c22724361][^key-801aa1207632a1f81353f24b27cf07cc] Part 1 of Schedule 3 to the Police Reform Act 2002 (handling of complaints) is further amended as follows.
+**5.**[^c22724361][^c-801aa1207632a1f81353f24b27cf07cc] Part 1 of Schedule 3 to the Police Reform Act 2002 (handling of complaints) is further amended as follows.
 
-**6.**[^c22724371][^key-0154a1ec40da2f8971768685db457c1b] (1) Paragraph 6 (handling of complaints by the appropriate authority) is amended as follows.
+**6.**[^c22724371][^c-0154a1ec40da2f8971768685db457c1b] (1) Paragraph 6 (handling of complaints by the appropriate authority) is amended as follows.
 
 (2) In sub-paragraph (2), omit the “or” at the end of paragraph (a) and omit paragraph (b).
 
@@ -110,17 +110,17 @@ Section 16
 
 (4) Omit sub-paragraphs (3) to (11).
 
-**7.**[^c22724381][^key-d6f2fc94c2d21d113e4a2f9685008d1e] Omit paragraph 7 (disapplication of requirements of Schedule) and the italic heading before that paragraph.
+**7.**[^c22724381][^c-d6f2fc94c2d21d113e4a2f9685008d1e] Omit paragraph 7 (disapplication of requirements of Schedule) and the italic heading before that paragraph.
 
-**8.**[^c22724391][^key-f44d1b34332bbc23daafa9b9979d78ce] Omit paragraph 8 (local resolution of complaints) and the italic heading before that paragraph.
+**8.**[^c22724391][^c-f44d1b34332bbc23daafa9b9979d78ce] Omit paragraph 8 (local resolution of complaints) and the italic heading before that paragraph.
 
 ### Part 3 — Investigations and subsequent proceedings
 
 *Extent: E+W*
 
-**9.**[^c22724401][^key-34aa40680b1b5b33d22fbe8432d27dc7] Schedule 3 to the Police Reform Act 2002 (handling of complaints and conduct matters etc) is further amended as follows.
+**9.**[^c22724401][^c-34aa40680b1b5b33d22fbe8432d27dc7] Schedule 3 to the Police Reform Act 2002 (handling of complaints and conduct matters etc) is further amended as follows.
 
-**10.**[^c22724411][^key-4f5e7a1703973b5c96fc20b2251ebbdb] (1) Paragraph 5 (duties of Commission on references under paragraph 4: complaints) is amended as follows.
+**10.**[^c22724411][^c-4f5e7a1703973b5c96fc20b2251ebbdb] (1) Paragraph 5 (duties of Commission on references under paragraph 4: complaints) is amended as follows.
 
 (2) After sub-paragraph (1) insert—
 
@@ -137,11 +137,11 @@ Section 16
 
 (4) In sub-paragraph (3)(b), for “a possible future investigation of the complaint” substitute “ an investigation of the complaint (whether an existing investigation or a possible future one) ”.
 
-**11.**[^c22724421][^key-cd559f1412d8564a847ae1e48371960c] In paragraph 6 (handling of complaints by the appropriate authority), in sub-paragraph (2)(a), for “5” substitute “ 5(2)(b) ”.
+**11.**[^c22724421][^c-cd559f1412d8564a847ae1e48371960c] In paragraph 6 (handling of complaints by the appropriate authority), in sub-paragraph (2)(a), for “5” substitute “ 5(2)(b) ”.
 
-**12.**[^c22724431][^key-85562ab7a806d1659a16bc5def9b3eb4] In paragraph 13 (reference of conduct matters to the Commission), in sub-paragraph (6)(b), for “a possible future investigation of that matter” substitute “ an investigation of that matter (whether an existing investigation or a possible future one) ”.
+**12.**[^c22724431][^c-85562ab7a806d1659a16bc5def9b3eb4] In paragraph 13 (reference of conduct matters to the Commission), in sub-paragraph (6)(b), for “a possible future investigation of that matter” substitute “ an investigation of that matter (whether an existing investigation or a possible future one) ”.
 
-**13.**[^c22724441][^key-5525e827e7320153b4be1c89c620838e] (1) Paragraph 14 (duties of Commission on references under paragraph 13: recordable conduct matters) is amended as follows.
+**13.**[^c22724441][^c-5525e827e7320153b4be1c89c620838e] (1) Paragraph 14 (duties of Commission on references under paragraph 13: recordable conduct matters) is amended as follows.
 
 (2) After sub-paragraph (1) insert—
 
@@ -158,7 +158,7 @@ Section 16
 
 (4) In sub-paragraph (3)(b), for “a possible future investigation of that matter” substitute “ an investigation of that matter (whether an existing investigation or a possible future one) ”.
 
-**14.**[^c22724451][^key-8e9402a30076d3b98104f881cfa743e3] (1) Paragraph 14D (duties of Commission on references under paragraph 14C: DSI matters) is amended as follows.
+**14.**[^c22724451][^c-8e9402a30076d3b98104f881cfa743e3] (1) Paragraph 14D (duties of Commission on references under paragraph 14C: DSI matters) is amended as follows.
 
 (2) After sub-paragraph (1) insert—
 
@@ -175,7 +175,7 @@ Section 16
 > - (a) in a case where the DSI matter is already being investigated by the appropriate authority on its own behalf (and notwithstanding the Commission's determination), the Commission must refer the matter back to the appropriate authority for the investigation to be completed, and
 > - (b) in any other case, the Commission may, if it thinks fit, refer the matter back to the appropriate authority to be dealt with by that authority in such manner (if any) as that authority may determine.
 
-**15.**[^c22724461][^key-de8f74f78ef86dc5d988295e91f1160f] (1) Paragraph 15 (power of the Commission to determine the form of an investigation) is amended as follows.
+**15.**[^c22724461][^c-de8f74f78ef86dc5d988295e91f1160f] (1) Paragraph 15 (power of the Commission to determine the form of an investigation) is amended as follows.
 
 (2) In sub-paragraph (1)(b), after “determines” insert “ under paragraph 5(1), 14(1) or 14D(1) ”.
 
@@ -223,7 +223,7 @@ Section 16
 >
 > (11) Subsections (6) to (8) of section 20 apply for the purposes of sub-paragraph (10) as they apply for the purposes of that section.
 
-**16.**[^c22724471][^key-e00c3f76286df2e62a6c430ad122c519] (1) Paragraph 16 (investigations by the appropriate authority on its own behalf) is amended as follows.
+**16.**[^c22724471][^c-e00c3f76286df2e62a6c430ad122c519] (1) Paragraph 16 (investigations by the appropriate authority on its own behalf) is amended as follows.
 
 (2) Before sub-paragraph (1) insert—
 
@@ -234,11 +234,11 @@ Section 16
 - (a) in the words before paragraph (a), after “paragraph” insert “ also ”;
 - (b) omit paragraph (a) and the “or” following it.
 
-**17.**[^c22724481][^key-4308f00d980236de327cb260675aceef] Omit paragraph 17 (investigations supervised by the Commission) and the italic heading before that paragraph.
+**17.**[^c22724481][^c-4308f00d980236de327cb260675aceef] Omit paragraph 17 (investigations supervised by the Commission) and the italic heading before that paragraph.
 
-**18.**[^c22724491][^key-261f4fb0a75193a7fe889336a3fcd4d6] In the italic heading before paragraph 18, for “managed” substitute “ directed ”.
+**18.**[^c22724491][^c-261f4fb0a75193a7fe889336a3fcd4d6] In the italic heading before paragraph 18, for “managed” substitute “ directed ”.
 
-**19.**[^c22724501][^key-416a02026250ffd46ba662a5855ff71a] (1) Paragraph 18 (investigations managed by the Commission) is amended as follows.
+**19.**[^c22724501][^c-416a02026250ffd46ba662a5855ff71a] (1) Paragraph 18 (investigations managed by the Commission) is amended as follows.
 
 (2) In sub-paragraph (1), for “manage” substitute “ direct ”.
 
@@ -283,9 +283,9 @@ Section 16
 
 > (4) The person appointed to investigate the complaint or matter shall keep the Commission informed of the progress of the investigation.
 
-**20.**[^c22724511][^key-93c6432039d355d1c43105bf1c17237e] In paragraph 19 (investigations by the Commission itself), in sub-paragraph (7), omit paragraph (aa) and the “or” following it.
+**20.**[^c22724511][^c-93c6432039d355d1c43105bf1c17237e] In paragraph 19 (investigations by the Commission itself), in sub-paragraph (7), omit paragraph (aa) and the “or” following it.
 
-**21.**[^c22724521][^key-447658a4675d12110c6d4ca88fa34aba] For paragraphs 19A to 19E (special procedure where investigation relates to police officer or special constable) substitute—
+**21.**[^c22724521][^c-447658a4675d12110c6d4ca88fa34aba] For paragraphs 19A to 19E (special procedure where investigation relates to police officer or special constable) substitute—
 
 > **19A.** (1) This paragraph applies to an investigation where condition A, B or C is satisfied.
 >
@@ -318,7 +318,7 @@ Section 16
 
 *Extent: E+W+S+N.I.*
 
-**22.**[^c22724531][^key-d100a64b6ddb04b3b96f9f3d0e6b8635] (1) Paragraph 19F (interview of persons serving with the police etc during certain investigations) is amended as follows.
+**22.**[^c22724531][^c-d100a64b6ddb04b3b96f9f3d0e6b8635] (1) Paragraph 19F (interview of persons serving with the police etc during certain investigations) is amended as follows.
 
 (2) In sub-paragraph (2)—
 
@@ -334,7 +334,7 @@ Section 16
 
   .
 
-**23.**[^c22724541][^key-60847c1be0037d193d7c62df4f83316b] For paragraphs 20A to 20I (accelerated procedure in special cases) substitute—
+**23.**[^c22724541][^c-60847c1be0037d193d7c62df4f83316b] For paragraphs 20A to 20I (accelerated procedure in special cases) substitute—
 
 > **20A.** (1) This paragraph applies where—
 >
@@ -354,9 +354,9 @@ Section 16
 > - (b) for the person investigating to submit a report on the investigation to a point before its completion (not being a report under paragraph 22);
 > - (c) for the conduct to which the investigation relates to be certified for the purposes of paragraph 20(1)(a).
 
-**24.**[^c22724551][^key-0545a1fef20ed6707fd90d863164890d] Omit paragraph 21 (power to discontinue an investigation) and the italic heading before that paragraph.
+**24.**[^c22724551][^c-0545a1fef20ed6707fd90d863164890d] Omit paragraph 21 (power to discontinue an investigation) and the italic heading before that paragraph.
 
-**25.**[^c22724561][^key-235a5c5ad8f40f4e05f99f7f1a07dadf] (1) Paragraph 21A (procedure where conduct matter is revealed during investigation of DSI matter) is amended as follows.
+**25.**[^c22724561][^c-235a5c5ad8f40f4e05f99f7f1a07dadf] (1) Paragraph 21A (procedure where conduct matter is revealed during investigation of DSI matter) is amended as follows.
 
 (2) After sub-paragraph (2) insert—
 
@@ -369,7 +369,7 @@ Section 16
 
 (3) In sub-paragraph (5)(a), after “(2)” insert “ or (2A) ”.
 
-**26.**[^c22724571][^key-20c613d7ad0ac05a3c6b524f8fe1b581] (1) Paragraph 23 (action by the Commission in response to an investigation report under paragraph 22) is amended as follows.
+**26.**[^c22724571][^c-20c613d7ad0ac05a3c6b524f8fe1b581] (1) Paragraph 23 (action by the Commission in response to an investigation report under paragraph 22) is amended as follows.
 
 (2) After sub-paragraph (5) insert—
 
@@ -399,7 +399,7 @@ Section 16
 
 (3) Omit sub-paragraphs (6) to (8).
 
-**27.**[^c22724581][^key-5fa801ffffb11d9630c2a7eefaa77ad5] (1) Paragraph 24 (action by the appropriate authority in response to an investigation report under paragraph 22) is amended as follows.
+**27.**[^c22724581][^c-5fa801ffffb11d9630c2a7eefaa77ad5] (1) Paragraph 24 (action by the appropriate authority in response to an investigation report under paragraph 22) is amended as follows.
 
 (2) In sub-paragraph (6)—
 
@@ -416,7 +416,7 @@ Section 16
 
 > (6A) Where the report is a report of an investigation of a complaint and the appropriate authority is a local policing body, the appropriate authority may also, on receipt of the report, make a recommendation under paragraph 28ZA.
 
-**28.**[^c22724591][^key-43942170c57e64a3d6beb4b7d5ed4b74] In paragraph 24A (final reports on investigations: other DSI matters), at the end insert —
+**28.**[^c22724591][^c-43942170c57e64a3d6beb4b7d5ed4b74] In paragraph 24A (final reports on investigations: other DSI matters), at the end insert —
 
 > (5) On receipt of the report, the Commission shall also, if it considers it appropriate to do so, make a determination as to any matter dealt with in the report, being a determination other than one that it is required to make under sub-paragraph (4) or that the appropriate authority may be required to make by virtue of paragraph 24C(3).
 
@@ -424,13 +424,13 @@ Section 16
 
 *Extent: E+W*
 
-**29.**[^c22724601][^key-a434b7961eb343d4cdc95139a428e76a] Schedule 3 to the Police Reform Act 2002 (handling of complaints and conduct matters etc) is further amended as follows.
+**29.**[^c22724601][^c-a434b7961eb343d4cdc95139a428e76a] Schedule 3 to the Police Reform Act 2002 (handling of complaints and conduct matters etc) is further amended as follows.
 
-**30.**[^c22724611][^key-08e2136823e8aed0c6baf28942c5c314] In paragraph 4 (reference of complaints to the Commission), after sub-paragraph (5) insert—
+**30.**[^c22724611][^c-08e2136823e8aed0c6baf28942c5c314] In paragraph 4 (reference of complaints to the Commission), after sub-paragraph (5) insert—
 
 > (5A) The power of an appropriate authority to refer a complaint to the Commission under sub-paragraph (2) is also exercisable after a complaint has been handled in accordance with this Schedule if a recommendation is made under paragraph 6A(6)(a) or 25(4E)(b) (recommendation on a review).
 
-**31.**[^c22724621][^key-37ad284ea04a3e24774854334aeab13b] After paragraph 6 insert—
+**31.**[^c22724621][^c-37ad284ea04a3e24774854334aeab13b] After paragraph 6 insert—
 
 > **Reviews relating to complaints dealt with other than by investigation**
 >
@@ -470,11 +470,11 @@ Section 16
 >
 > (10) In this paragraph references to the outcome of a complaint do not include the outcome of any criminal or disciplinary proceedings brought in relation to any matter which was the subject of the complaint.
 
-**32.**[^c22724631][^key-568cd3ac344406eede32e54c9c6ce83d] Omit paragraph 8A (appeals relating to complaints dealt with other than by investigation) and the italic heading before that paragraph.
+**32.**[^c22724631][^c-568cd3ac344406eede32e54c9c6ce83d] Omit paragraph 8A (appeals relating to complaints dealt with other than by investigation) and the italic heading before that paragraph.
 
-**33.**[^c22724641][^key-aaad6d95be7a7c34aab6cb35a8519d7c] In the italic heading before paragraph 25, for “Appeals” substitute “ Reviews ”.
+**33.**[^c22724641][^c-aaad6d95be7a7c34aab6cb35a8519d7c] In the italic heading before paragraph 25, for “Appeals” substitute “ Reviews ”.
 
-**34.**[^c22724651][^key-6c202d4cbcb199930d171d4723190ae9] (1) Paragraph 25 (appeals with respect to an investigation) is amended as follows.
+**34.**[^c22724651][^c-6c202d4cbcb199930d171d4723190ae9] (1) Paragraph 25 (appeals with respect to an investigation) is amended as follows.
 
 (2) After sub-paragraph (1) insert—
 
@@ -575,7 +575,7 @@ Section 16
 
 > (14) In this paragraph references in relation to an investigation to the outcome of the complaint do not include the outcome of any criminal or disciplinary proceedings brought in relation to any matter which was the subject of the investigation.
 
-**35.**[^c22724661][^key-2b12989a58d18a3172518ea238c6d19b] After paragraph 25 insert—
+**35.**[^c22724661][^c-2b12989a58d18a3172518ea238c6d19b] After paragraph 25 insert—
 
 > **Information for complainant about disciplinary recommendations**
 >
@@ -595,9 +595,9 @@ Section 16
 > - (a) of any determination under sub-paragraph (3) not to take further steps, and
 > - (b) where the Commission determines under that sub-paragraph that it will take further steps, of the outcome of the taking of those steps.
 
-**36.**[^c22724671][^key-4c5e5110adee58f97c3d13753558b856] For the italic heading before paragraph 26, substitute “ Re-investigations following a review ”.
+**36.**[^c22724671][^c-4c5e5110adee58f97c3d13753558b856] For the italic heading before paragraph 26, substitute “ Re-investigations following a review ”.
 
-**37.**[^c22724681][^key-f82a30e67f0133c85661b333041364ea] (1) Paragraph 26 (reviews and re-investigations following an appeal) is amended as follows.
+**37.**[^c22724681][^c-f82a30e67f0133c85661b333041364ea] (1) Paragraph 26 (reviews and re-investigations following an appeal) is amended as follows.
 
 (2) Omit sub-paragraph (1).
 
@@ -635,12 +635,12 @@ Section 16
 
 (9) Omit sub-paragraph (6).
 
-**38.**[^c22724691][^key-27c8e0a1cc00f8e2c8d77ab337147054] In the italic heading before paragraph 30—
+**38.**[^c22724691][^c-27c8e0a1cc00f8e2c8d77ab337147054] In the italic heading before paragraph 30—
 
 - (a) for “Appeals” substitute “ Reviews ”;
 - (b) for “appeal” substitute “ review ”.
 
-**39.**[^c22724701][^key-3e5dc3b2fae7cf547237025a41884060] (1) Paragraph 30 (appeals: the relevant appeal body) is amended as follows.
+**39.**[^c22724701][^c-3e5dc3b2fae7cf547237025a41884060] (1) Paragraph 30 (appeals: the relevant appeal body) is amended as follows.
 
 (2) In sub-paragraph (1)—
 
@@ -660,7 +660,7 @@ Section 16
 > - “**relevant local policing body**”, in relation to a relevant complaint where a chief officer is the appropriate authority in relation to the complaint, means the local policing body for the area of the police force of which the chief officer is a member;
 > - “**review**” means a review applied for under paragraph 6A(2) or 25(1B).
 
-**40.**[^c22724711][^key-5e7dd2bc821d35eed09fc5570a1777bc] For paragraph 31 (appeal made to the Commission in error) substitute—
+**40.**[^c22724711][^c-5e7dd2bc821d35eed09fc5570a1777bc] For paragraph 31 (appeal made to the Commission in error) substitute—
 
 > **31.** (1) This paragraph applies in a case where—
 >
@@ -679,7 +679,7 @@ Section 16
 > - (a) made to the local policing body, and
 > - (b) so made at the time when it is forwarded to the local policing body.
 
-**41.**[^c22724721][^key-f8906659affbeb0e8cd4fd39c5424f7a] For paragraph 32 (appeal made to appropriate authority in error) substitute—
+**41.**[^c22724721][^c-f8906659affbeb0e8cd4fd39c5424f7a] For paragraph 32 (appeal made to appropriate authority in error) substitute—
 
 > **32.** (1) This paragraph applies in a case where—
 >
@@ -698,7 +698,7 @@ Section 16
 > - (a) made to the Commission, and
 > - (b) so made at the time when it is forwarded to the Commission.
 
-**42.**[^c22724731][^key-b6cc7b9408e5b4f6036baeba034b307e] In section 15 of the Police Reform Act 2002 (general duties of local policing bodies, chief officers and inspectors)—
+**42.**[^c22724731][^c-b6cc7b9408e5b4f6036baeba034b307e] In section 15 of the Police Reform Act 2002 (general duties of local policing bodies, chief officers and inspectors)—
 
 - (a) in subsection (4) (duty to provide the Commission with assistance), at the end insert “ or any review under paragraph 25 of Schedule 3 ”;
 - (b) in subsection (6)—
@@ -713,7 +713,7 @@ Section 16
 
     .
 
-**43.**[^c22724741][^key-0143684ee40bdf1fc8438b8686a6201a] In section 16 of the Police Reform Act 2002 (payment for assistance with investigations)—
+**43.**[^c22724741][^c-0143684ee40bdf1fc8438b8686a6201a] In section 16 of the Police Reform Act 2002 (payment for assistance with investigations)—
 
 - (a) in subsection (1)(b), for “in such a connection to the Commission.” substitute “ to the Commission in connection with an investigation under this Part or a review under paragraph 25 of Schedule 3. ”;
 - (b) in subsection (2)(b)—
@@ -725,7 +725,7 @@ Section 16
     >
     > - (iii) a review under paragraph 25 of Schedule 3 of the outcome of a complaint where the complainant expressed dissatisfaction with a force other than that force.
 
-**44.**[^c22724751][^key-3737601f13c3dd9c4cdc4477187f6ed9] In section 18 of the Police Reform Act 2002 (inspections of police premises on behalf of the Commission), in subsection (2), after paragraph (b) insert—
+**44.**[^c22724751][^c-3737601f13c3dd9c4cdc4477187f6ed9] In section 18 of the Police Reform Act 2002 (inspections of police premises on behalf of the Commission), in subsection (2), after paragraph (b) insert—
 
 > - (c) the purposes of any review by the Commission under paragraph 25 of Schedule 3.
 
@@ -733,7 +733,7 @@ Section 16
 
 *Extent: E+W*
 
-**45.**[^c22724761][^key-01d927dc65f0cb35159205e42231b311] In Part 3 of Schedule 3 to the Police Reform Act 2002, after paragraph 28 insert—
+**45.**[^c22724761][^c-01d927dc65f0cb35159205e42231b311] In Part 3 of Schedule 3 to the Police Reform Act 2002, after paragraph 28 insert—
 
 > **Recommendations by the Commission or a local policing body**
 >
@@ -755,7 +755,7 @@ Section 16
 > - (b) authorise the person making a recommendation under this paragraph (whether the Commission or a local policing body) to require a response to the recommendation;
 > - (c) require the person making a recommendation under this paragraph to send a copy of the recommendation, and any response to it, to any prescribed person or person of a prescribed description.
 
-**46.**[^c22724771][^key-9fcdbf4c5e2d2330062dd33e8112f1b9] In consequence of the insertion of paragraph 28ZA, in paragraph 28A of Schedule 3 to the Police Reform Act 2002, after sub-paragraph (3) insert—
+**46.**[^c22724771][^c-9fcdbf4c5e2d2330062dd33e8112f1b9] In consequence of the insertion of paragraph 28ZA, in paragraph 28A of Schedule 3 to the Police Reform Act 2002, after sub-paragraph (3) insert—
 
 > (3A) Where this paragraph applies—
 >
@@ -766,7 +766,7 @@ Section 16
 
 ### Part 6 — Consequential amendments
 
-**47.**[^c22724781][^key-8ed0166818366fafcd82bac8f38123be] In the Police Reform Act 2002—
+**47.**[^c22724781][^c-8ed0166818366fafcd82bac8f38123be] In the Police Reform Act 2002—
 
 - (a) in section 15—
   - (i) in subsection (3)(a), omit “, 17”;
@@ -832,252 +832,252 @@ Section 16
 
 *Extent: E+W*
 
-**48.**[^c22724791][^key-d57d122343b3e112195b6cac4cba4ca9] In the Serious Organised Crime and Police Act 2005—
+**48.**[^c22724791][^c-d57d122343b3e112195b6cac4cba4ca9] In the Serious Organised Crime and Police Act 2005—
 
 - (a) in Schedule 11, omit paragraphs 3 and 4;
 - (b) in Schedule 12, omit paragraphs 15, 16(3) and 19.
 
 *Extent: E+W*
 
-**49.**[^c22724801][^key-563f61f84c4fc2e379dc136a2d5380b3] In the Police and Justice Act 2006, in Part 7 of Schedule 1, omit paragraph 89(4).
+**49.**[^c22724801][^c-563f61f84c4fc2e379dc136a2d5380b3] In the Police and Justice Act 2006, in Part 7 of Schedule 1, omit paragraph 89(4).
 
 *Extent: E+W*
 
-**50.**[^c22724811][^key-3f599d932b845b1912fc18906f06e6bc] In the Criminal Justice and Immigration Act 2008, in Schedule 23, omit paragraphs 5 to 10, 14(5), 13(5) and (6), 17 and 18(3).
+**50.**[^c22724811][^c-3f599d932b845b1912fc18906f06e6bc] In the Criminal Justice and Immigration Act 2008, in Schedule 23, omit paragraphs 5 to 10, 14(5), 13(5) and (6), 17 and 18(3).
 
 *Extent: E+W*
 
-**51.**[^c22724821][^key-a2508ce608d0d23e29eac3272d028c42] In the Police Reform and Social Responsibility Act 2011—
+**51.**[^c22724821][^c-a2508ce608d0d23e29eac3272d028c42] In the Police Reform and Social Responsibility Act 2011—
 
 - (a) in Schedule 14, omit paragraphs 8(5), 9(2), 10, 13, 14(2), (4) and (5), 16, 17, 18, 19 and 20(3) to (11) and (13);
 - (b) in Schedule 16, omit paragraph 300(4).
 
 *Extent: E+W*
 
-**52.**[^c22724831][^key-c634c3bdbec16e8d7dc51a49e8a2335d] In the Police (Complaints and Conduct) Act 2012, omit section 1(3).
+**52.**[^c22724831][^c-c634c3bdbec16e8d7dc51a49e8a2335d] In the Police (Complaints and Conduct) Act 2012, omit section 1(3).
 
 *Extent: E+W*
 
-**53.**[^c22724841][^key-20f68a4141735025bfab04961124e292] In the Crime and Courts Act 2013, in Part 2 of Schedule 6, omit paragraph 17(3).
+**53.**[^c22724841][^c-20f68a4141735025bfab04961124e292] In the Crime and Courts Act 2013, in Part 2 of Schedule 6, omit paragraph 17(3).
 
 *Extent: E+W*
 
-**54.**[^c22724851][^key-5370390022d8efb5c3a7571452063b6f] In the Anti-social Behaviour, Crime and Policing Act 2014, in Part 3 of Schedule 11, omit paragraph 95(2) to (5).
+**54.**[^c22724851][^c-5370390022d8efb5c3a7571452063b6f] In the Anti-social Behaviour, Crime and Policing Act 2014, in Part 3 of Schedule 11, omit paragraph 95(2) to (5).
 
 ## Annotations
 
 [^c22724321]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/1) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-756113f7d83c8a9a84885ab45f84f978]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/1) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
+[^c-756113f7d83c8a9a84885ab45f84f978]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/1) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
 
 [^c22724331]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/2) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-178e15dcc2688d6b03ddaf3018d94fbe]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/2) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
+[^c-178e15dcc2688d6b03ddaf3018d94fbe]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/2) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
 
 [^c22724341]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/3) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-a817daa3d71d7cabd040ae4ce16f0718]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/3) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
+[^c-a817daa3d71d7cabd040ae4ce16f0718]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/3) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
 
 [^c22724351]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/4) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-6dfab173ef61e6a9496d96208d72f6a1]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/4) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
+[^c-6dfab173ef61e6a9496d96208d72f6a1]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/4) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
 
 [^c22724361]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/5) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-801aa1207632a1f81353f24b27cf07cc]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/5) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
+[^c-801aa1207632a1f81353f24b27cf07cc]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/5) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
 
 [^c22724371]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/1) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-0154a1ec40da2f8971768685db457c1b]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/6) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
+[^c-0154a1ec40da2f8971768685db457c1b]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/6) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
 
 [^c22724381]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/7) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-d6f2fc94c2d21d113e4a2f9685008d1e]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/7) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
+[^c-d6f2fc94c2d21d113e4a2f9685008d1e]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/7) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
 
 [^c22724391]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/8) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-f44d1b34332bbc23daafa9b9979d78ce]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/8) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
+[^c-f44d1b34332bbc23daafa9b9979d78ce]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/8) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
 
 [^c22724401]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/9) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-34aa40680b1b5b33d22fbe8432d27dc7]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/9) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
+[^c-34aa40680b1b5b33d22fbe8432d27dc7]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/9) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
 
 [^c22724411]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/10) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-4f5e7a1703973b5c96fc20b2251ebbdb]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/10) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
+[^c-4f5e7a1703973b5c96fc20b2251ebbdb]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/10) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
 
 [^c22724421]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/11) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-cd559f1412d8564a847ae1e48371960c]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/11) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
+[^c-cd559f1412d8564a847ae1e48371960c]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/11) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
 
 [^c22724431]: Commencement: [Sch. 5 para. 12](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/12) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-85562ab7a806d1659a16bc5def9b3eb4]: Commencement: [Sch. 5 para. 12](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/12) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
+[^c-85562ab7a806d1659a16bc5def9b3eb4]: Commencement: [Sch. 5 para. 12](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/12) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
 
 [^c22724441]: Commencement: [Sch. 5 para. 13](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/13) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-5525e827e7320153b4be1c89c620838e]: Commencement: [Sch. 5 para. 13](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/13) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
+[^c-5525e827e7320153b4be1c89c620838e]: Commencement: [Sch. 5 para. 13](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/13) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
 
 [^c22724451]: Commencement: [Sch. 5 para. 14](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/14) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-8e9402a30076d3b98104f881cfa743e3]: Commencement: [Sch. 5 para. 14](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/14) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
+[^c-8e9402a30076d3b98104f881cfa743e3]: Commencement: [Sch. 5 para. 14](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/14) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
 
 [^c22724461]: Commencement: [Sch. 5 para. 15](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/15) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-de8f74f78ef86dc5d988295e91f1160f]: Commencement: [Sch. 5 para. 15](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/15) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
+[^c-de8f74f78ef86dc5d988295e91f1160f]: Commencement: [Sch. 5 para. 15](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/15) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
 
 [^c22724471]: Commencement: [Sch. 5 para. 16](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/16) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-e00c3f76286df2e62a6c430ad122c519]: Commencement: [Sch. 5 para. 16](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/16) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
+[^c-e00c3f76286df2e62a6c430ad122c519]: Commencement: [Sch. 5 para. 16](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/16) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
 
 [^c22724481]: Commencement: [Sch. 5 para. 17](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/17) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-4308f00d980236de327cb260675aceef]: Commencement: [Sch. 5 para. 17](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/17) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
+[^c-4308f00d980236de327cb260675aceef]: Commencement: [Sch. 5 para. 17](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/17) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
 
 [^c22724491]: Commencement: [Sch. 5 para. 18](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/18) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-261f4fb0a75193a7fe889336a3fcd4d6]: Commencement: [Sch. 5 para. 18](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/18) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
+[^c-261f4fb0a75193a7fe889336a3fcd4d6]: Commencement: [Sch. 5 para. 18](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/18) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
 
 [^c22724501]: Commencement: [Sch. 5 para. 19](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/19) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-416a02026250ffd46ba662a5855ff71a]: Commencement: [Sch. 5 para. 19](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/19) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
+[^c-416a02026250ffd46ba662a5855ff71a]: Commencement: [Sch. 5 para. 19](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/19) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
 
 [^c22724511]: Commencement: [Sch. 5 para. 20](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/20) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-93c6432039d355d1c43105bf1c17237e]: Commencement: [Sch. 5 para. 20](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/20) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
+[^c-93c6432039d355d1c43105bf1c17237e]: Commencement: [Sch. 5 para. 20](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/20) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
 
 [^c22724521]: Commencement: [Sch. 5 para. 21](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/21) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-447658a4675d12110c6d4ca88fa34aba]: Commencement: [Sch. 5 para. 21](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/21) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
+[^c-447658a4675d12110c6d4ca88fa34aba]: Commencement: [Sch. 5 para. 21](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/21) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
 
 [^c22724531]: Commencement: [Sch. 5 para. 22](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/22) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-d100a64b6ddb04b3b96f9f3d0e6b8635]: Commencement: [Sch. 5 para. 22](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/22) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
+[^c-d100a64b6ddb04b3b96f9f3d0e6b8635]: Commencement: [Sch. 5 para. 22](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/22) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
 
 [^c22724541]: Commencement: [Sch. 5 para. 23](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/23) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-60847c1be0037d193d7c62df4f83316b]: Commencement: [Sch. 5 para. 23](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/23) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
+[^c-60847c1be0037d193d7c62df4f83316b]: Commencement: [Sch. 5 para. 23](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/23) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
 
 [^c22724551]: Commencement: [Sch. 5 para. 24](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/24) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-0545a1fef20ed6707fd90d863164890d]: Commencement: [Sch. 5 para. 24](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/24) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
+[^c-0545a1fef20ed6707fd90d863164890d]: Commencement: [Sch. 5 para. 24](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/24) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
 
 [^c22724561]: Commencement: [Sch. 5 para. 25](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/25) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-235a5c5ad8f40f4e05f99f7f1a07dadf]: Commencement: [Sch. 5 para. 25](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/25) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
+[^c-235a5c5ad8f40f4e05f99f7f1a07dadf]: Commencement: [Sch. 5 para. 25](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/25) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
 
 [^c22724571]: Commencement: [Sch. 5 para. 26](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/26) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-20c613d7ad0ac05a3c6b524f8fe1b581]: Commencement: [Sch. 5 para. 26](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/26) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
+[^c-20c613d7ad0ac05a3c6b524f8fe1b581]: Commencement: [Sch. 5 para. 26](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/26) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
 
 [^c22724581]: Commencement: [Sch. 5 para. 27](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/27) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-5fa801ffffb11d9630c2a7eefaa77ad5]: Commencement: [Sch. 5 para. 27](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/27) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
+[^c-5fa801ffffb11d9630c2a7eefaa77ad5]: Commencement: [Sch. 5 para. 27](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/27) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
 
 [^c22724591]: Commencement: [Sch. 5 para. 28](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/28) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-43942170c57e64a3d6beb4b7d5ed4b74]: Commencement: [Sch. 5 para. 28](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/28) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
+[^c-43942170c57e64a3d6beb4b7d5ed4b74]: Commencement: [Sch. 5 para. 28](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/28) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
 
 [^c22724601]: Commencement: [Sch. 5 para. 29](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/29) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-a434b7961eb343d4cdc95139a428e76a]: Commencement: [Sch. 5 para. 29](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/29) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
+[^c-a434b7961eb343d4cdc95139a428e76a]: Commencement: [Sch. 5 para. 29](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/29) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
 
 [^c22724611]: Commencement: [Sch. 5 para. 30](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/30) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-08e2136823e8aed0c6baf28942c5c314]: Commencement: [Sch. 5 para. 30](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/30) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
+[^c-08e2136823e8aed0c6baf28942c5c314]: Commencement: [Sch. 5 para. 30](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/30) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
 
 [^c22724621]: Commencement: [Sch. 5 para. 31](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/31) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-37ad284ea04a3e24774854334aeab13b]: Commencement: [Sch. 5 para. 31](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/31) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
+[^c-37ad284ea04a3e24774854334aeab13b]: Commencement: [Sch. 5 para. 31](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/31) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
 
 [^c22724631]: Commencement: [Sch. 5 para. 32](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/32) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-568cd3ac344406eede32e54c9c6ce83d]: Commencement: [Sch. 5 para. 32](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/32) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
+[^c-568cd3ac344406eede32e54c9c6ce83d]: Commencement: [Sch. 5 para. 32](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/32) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
 
 [^c22724641]: Commencement: [Sch. 5 para. 33](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/33) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-aaad6d95be7a7c34aab6cb35a8519d7c]: Commencement: [Sch. 5 para. 33](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/33) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
+[^c-aaad6d95be7a7c34aab6cb35a8519d7c]: Commencement: [Sch. 5 para. 33](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/33) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
 
 [^c22724651]: Commencement: [Sch. 5 para. 34](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/34) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-6c202d4cbcb199930d171d4723190ae9]: Commencement: [Sch. 5 para. 34](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/34) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
+[^c-6c202d4cbcb199930d171d4723190ae9]: Commencement: [Sch. 5 para. 34](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/34) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
 
 [^c22724661]: Commencement: [Sch. 5 para. 35](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/35) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-2b12989a58d18a3172518ea238c6d19b]: Commencement: [Sch. 5 para. 35](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/35) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
+[^c-2b12989a58d18a3172518ea238c6d19b]: Commencement: [Sch. 5 para. 35](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/35) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
 
 [^c22724671]: Commencement: [Sch. 5 para. 36](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/36) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-4c5e5110adee58f97c3d13753558b856]: Commencement: [Sch. 5 para. 36](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/36) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
+[^c-4c5e5110adee58f97c3d13753558b856]: Commencement: [Sch. 5 para. 36](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/36) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
 
 [^c22724681]: Commencement: [Sch. 5 para. 37](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/37) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-f82a30e67f0133c85661b333041364ea]: Commencement: [Sch. 5 para. 37](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/37) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
+[^c-f82a30e67f0133c85661b333041364ea]: Commencement: [Sch. 5 para. 37](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/37) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
 
 [^c22724691]: Commencement: [Sch. 5 para. 38](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/38) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-27c8e0a1cc00f8e2c8d77ab337147054]: Commencement: [Sch. 5 para. 38](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/38) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
+[^c-27c8e0a1cc00f8e2c8d77ab337147054]: Commencement: [Sch. 5 para. 38](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/38) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
 
 [^c22724701]: Commencement: [Sch. 5 para. 39](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/39) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-3e5dc3b2fae7cf547237025a41884060]: Commencement: [Sch. 5 para. 39](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/39) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
+[^c-3e5dc3b2fae7cf547237025a41884060]: Commencement: [Sch. 5 para. 39](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/39) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
 
 [^c22724711]: Commencement: [Sch. 5 para. 40](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/40) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-5e7dd2bc821d35eed09fc5570a1777bc]: Commencement: [Sch. 5 para. 40](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/40) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
+[^c-5e7dd2bc821d35eed09fc5570a1777bc]: Commencement: [Sch. 5 para. 40](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/40) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
 
 [^c22724721]: Commencement: [Sch. 5 para. 41](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/41) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-f8906659affbeb0e8cd4fd39c5424f7a]: Commencement: [Sch. 5 para. 41](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/41) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
+[^c-f8906659affbeb0e8cd4fd39c5424f7a]: Commencement: [Sch. 5 para. 41](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/41) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
 
 [^c22724731]: Commencement: [Sch. 5 para. 42](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/42) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-b6cc7b9408e5b4f6036baeba034b307e]: Commencement: [Sch. 5 para. 42](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/42) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
+[^c-b6cc7b9408e5b4f6036baeba034b307e]: Commencement: [Sch. 5 para. 42](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/42) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
 
 [^c22724741]: Commencement: [Sch. 5 para. 43](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/43) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-0143684ee40bdf1fc8438b8686a6201a]: Commencement: [Sch. 5 para. 43](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/43) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
+[^c-0143684ee40bdf1fc8438b8686a6201a]: Commencement: [Sch. 5 para. 43](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/43) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
 
 [^c22724751]: Commencement: [Sch. 5 para. 44](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/44) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-3737601f13c3dd9c4cdc4477187f6ed9]: Commencement: [Sch. 5 para. 44](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/44) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
+[^c-3737601f13c3dd9c4cdc4477187f6ed9]: Commencement: [Sch. 5 para. 44](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/44) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
 
 [^c22724761]: Commencement: [Sch. 5 para. 45](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/45) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-01d927dc65f0cb35159205e42231b311]: Commencement: [Sch. 5 para. 45](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/45) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
+[^c-01d927dc65f0cb35159205e42231b311]: Commencement: [Sch. 5 para. 45](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/45) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
 
 [^c22724771]: Commencement: [Sch. 5 para. 46](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/46) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-9fcdbf4c5e2d2330062dd33e8112f1b9]: Commencement: [Sch. 5 para. 46](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/46) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
+[^c-9fcdbf4c5e2d2330062dd33e8112f1b9]: Commencement: [Sch. 5 para. 46](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/46) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
 
 [^c22724781]: Commencement: [Sch. 5 para. 47](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/47) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-8ed0166818366fafcd82bac8f38123be]: Commencement: [Sch. 5 para. 47](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/47) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
+[^c-8ed0166818366fafcd82bac8f38123be]: Commencement: [Sch. 5 para. 47](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/47) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
 
 [^c22724791]: Commencement: [Sch. 5 para. 48](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/48) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-d57d122343b3e112195b6cac4cba4ca9]: Commencement: [Sch. 5 para. 48](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/48) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
+[^c-d57d122343b3e112195b6cac4cba4ca9]: Commencement: [Sch. 5 para. 48](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/48) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
 
 [^c22724801]: Commencement: [Sch. 5 para. 49](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/49) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-563f61f84c4fc2e379dc136a2d5380b3]: Commencement: [Sch. 5 para. 49](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/49) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
+[^c-563f61f84c4fc2e379dc136a2d5380b3]: Commencement: [Sch. 5 para. 49](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/49) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
 
 [^c22724811]: Commencement: [Sch. 5 para. 50](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/50) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-3f599d932b845b1912fc18906f06e6bc]: Commencement: [Sch. 5 para. 50](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/50) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
+[^c-3f599d932b845b1912fc18906f06e6bc]: Commencement: [Sch. 5 para. 50](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/50) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
 
 [^c22724821]: Commencement: [Sch. 5 para. 51](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/51) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-a2508ce608d0d23e29eac3272d028c42]: Commencement: [Sch. 5 para. 51](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/51) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
+[^c-a2508ce608d0d23e29eac3272d028c42]: Commencement: [Sch. 5 para. 51](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/51) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
 
 [^c22724831]: Commencement: [Sch. 5 para. 52](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/52) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-c634c3bdbec16e8d7dc51a49e8a2335d]: Commencement: [Sch. 5 para. 52](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/52) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
+[^c-c634c3bdbec16e8d7dc51a49e8a2335d]: Commencement: [Sch. 5 para. 52](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/52) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
 
 [^c22724841]: Commencement: [Sch. 5 para. 53](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/53) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-20f68a4141735025bfab04961124e292]: Commencement: [Sch. 5 para. 53](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/53) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
+[^c-20f68a4141735025bfab04961124e292]: Commencement: [Sch. 5 para. 53](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/53) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
 
 [^c22724851]: Commencement: [Sch. 5 para. 54](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/54) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-5370390022d8efb5c3a7571452063b6f]: Commencement: [Sch. 5 para. 54](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/54) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
+[^c-5370390022d8efb5c3a7571452063b6f]: Commencement: [Sch. 5 para. 54](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/54) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))

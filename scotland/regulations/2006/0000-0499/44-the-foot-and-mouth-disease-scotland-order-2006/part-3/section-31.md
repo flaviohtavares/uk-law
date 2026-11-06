@@ -22,7 +22,7 @@ summary: ''
 
 (1) This article applies if the Scottish Ministers are satisfied that the disease is present in England or Wales.
 
-(2) If the Scottish Ministers are satisfied that the disease is present at premises (other than a slaughterhouse or border control post[^key-adc40d540d6fcb6205eec4a6dbef1607]) in England which are within 10km of the border with Scotland they shall declare a surveillance zone in Scotland; if the premises are within 3km of the border they shall be under a duty also to declare a protection zone, otherwise, they may do so.
+(2) If the Scottish Ministers are satisfied that the disease is present at premises (other than a slaughterhouse or border control post[^c-adc40d540d6fcb6205eec4a6dbef1607]) in England which are within 10km of the border with Scotland they shall declare a surveillance zone in Scotland; if the premises are within 3km of the border they shall be under a duty also to declare a protection zone, otherwise, they may do so.
 
 (3) If the Scottish Ministers are satisfied that the disease is present at–
 
@@ -39,6 +39,6 @@ they may declare a protection zone, a surveillance zone, or both, in Scotland.
 
 ## Annotations
 
-[^key-adc40d540d6fcb6205eec4a6dbef1607]: Textual amendment: Words in [art. 31(2)](https://www.legislation.gov.uk/ssi/2006/44/article/31/2)[(3)](https://www.legislation.gov.uk/ssi/2006/44/article/31/3) substituted (14.12.2019) by [The Official Controls (Agriculture etc.) (Scotland) Regulations 2019 (S.S.I. 2019/412)](https://www.legislation.gov.uk/ssi/2019/412), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1), [17(8)(a)](https://www.legislation.gov.uk/ssi/2019/412/regulation/17/8/a)
+[^c-adc40d540d6fcb6205eec4a6dbef1607]: Textual amendment: Words in [art. 31(2)](https://www.legislation.gov.uk/ssi/2006/44/article/31/2)[(3)](https://www.legislation.gov.uk/ssi/2006/44/article/31/3) substituted (14.12.2019) by [The Official Controls (Agriculture etc.) (Scotland) Regulations 2019 (S.S.I. 2019/412)](https://www.legislation.gov.uk/ssi/2019/412), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1), [17(8)(a)](https://www.legislation.gov.uk/ssi/2019/412/regulation/17/8/a)
 
 [^M_F_797be1fa-d75a-49b2-dff8-00f5b0e48c19]: Textual amendment: Art. 31(6) omitted (14.12.2019) by virtue of [The Official Controls (Agriculture etc.) (Scotland) Regulations 2019 (S.S.I. 2019/412)](https://www.legislation.gov.uk/ssi/2019/412), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1), [17(8)(b)](https://www.legislation.gov.uk/ssi/2019/412/regulation/17/8/b)

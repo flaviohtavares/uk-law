@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Special category land[^key-ce2151bccf8f70f70e0767198e6682ea]
+## 38. Special category land[^c-ce2151bccf8f70f70e0767198e6682ea]
 
 *Extent: E+W*
 
@@ -30,7 +30,7 @@ summary: ''
 
 (5) On the date on which the land comprising plots numbered in the book of reference and on the land plans 11/16, 11/17, 11/17b, 11/17c (in so far as not required for the purpose of paragraph (7)) 11/17d, 11/17e, 11/17f, 11/17g, 11/17h, 11/17i and 11/17j is laid out and provided in accordance with the requirements at paragraph (1), the said land is to vest in the persons in whom the special category land identified in Part 1 and Part 2 of Schedule 10 (save for the land comprised in plots numbered 11/3a, 11/4a, 11/8 and 11/8a in the book of reference and on the land plans) was vested immediately before it was vested in the undertaker and is to be subject to the same rights, trusts and incidents as attached to that land.
 
-(6) On the date on which the land comprising plots[^key-3c30c39f379238dcd8423e22ffd6b88f] numbered 27/1 and 11/17a in the book of reference and on the land plans is laid out and provided in accordance with the scheme requirements at paragraph (1), the said land is to vest in the persons in whom the land comprised in plots numbered 11/3a and 11/4a in the book of reference and on the land plans was vested immediately before it was vested in the undertaker and is to be subject to the same rights, trusts and incidents as attached to that land.
+(6) On the date on which the land comprising plots[^c-3c30c39f379238dcd8423e22ffd6b88f] numbered 27/1 and 11/17a in the book of reference and on the land plans is laid out and provided in accordance with the scheme requirements at paragraph (1), the said land is to vest in the persons in whom the land comprised in plots numbered 11/3a and 11/4a in the book of reference and on the land plans was vested immediately before it was vested in the undertaker and is to be subject to the same rights, trusts and incidents as attached to that land.
 
 (7) On the date on which the land comprising so much of plot numbered 11/17c in the book of reference as is required for the purpose of providing replacement land to the persons in whom those parts of the special category land comprised in plots numbered 11/8, 11/8a and 28/2 in the book of reference and on the land plans was vested immediately before it was vested in the undertaker is laid out and provided in accordance with the scheme requirements at paragraph (1), the said land is to vest in the persons described in this paragraph and is to be subject to the same rights, trusts and incidents as attached to that land.
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ce2151bccf8f70f70e0767198e6682ea]: Commencement: Art. 38 in force at 2.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/549/article/1)
+[^c-ce2151bccf8f70f70e0767198e6682ea]: Commencement: Art. 38 in force at 2.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/549/article/1)
 
-[^key-3c30c39f379238dcd8423e22ffd6b88f]: Textual amendment: Word in [art. 38(6)](https://www.legislation.gov.uk/uksi/2022/549/article/38/6) substituted (19.1.2023) by [The M25 Junction 10/A3 Wisley Interchange Development Consent (Correction) Order 2023 (S.I. 2023/46)](https://www.legislation.gov.uk/uksi/2023/46), [arts. 1](https://www.legislation.gov.uk/uksi/2023/46/article/1), [2(8)](https://www.legislation.gov.uk/uksi/2023/46/article/2/8)
+[^c-3c30c39f379238dcd8423e22ffd6b88f]: Textual amendment: Word in [art. 38(6)](https://www.legislation.gov.uk/uksi/2022/549/article/38/6) substituted (19.1.2023) by [The M25 Junction 10/A3 Wisley Interchange Development Consent (Correction) Order 2023 (S.I. 2023/46)](https://www.legislation.gov.uk/uksi/2023/46), [arts. 1](https://www.legislation.gov.uk/uksi/2023/46/article/1), [2(8)](https://www.legislation.gov.uk/uksi/2023/46/article/2/8)

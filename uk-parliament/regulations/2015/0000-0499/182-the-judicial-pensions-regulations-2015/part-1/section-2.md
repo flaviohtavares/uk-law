@@ -16,19 +16,19 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Interpretation[^key-72c72b874c4a5f4799157df5803dd0b9]
+## 2. Interpretation[^c-72c72b874c4a5f4799157df5803dd0b9]
 
 *Extent: E+W+S+N.I.*
 
 In these Regulations—
 
-- “[^key-7109a02ba509c2d8d7f8ebdb6cf01738]**2023 Regulations**” means the Judicial Pensions (Remediable Service etc.) Regulations 2023;
+- “[^c-7109a02ba509c2d8d7f8ebdb6cf01738]**2023 Regulations**” means the Judicial Pensions (Remediable Service etc.) Regulations 2023;
 - “Act” means the Public Service Pensions Act 2013;
 - “FA 2004” means the Finance Act 2004[^f00006];
 - “PIA 1971” means the Pensions (Increase) Act 1971[^f00007];
 - “PSA 1993” means the Pension Schemes Act 1993[^f00008];
 - “PA 1995” means the Pensions Act 1995[^f00009];
-- “[^key-51d9af72d8b16f461c25faef94f1066c]**PSPJOA 2022**” means the Public Service Pensions and Judicial Offices Act 2022;
+- “[^c-51d9af72d8b16f461c25faef94f1066c]**PSPJOA 2022**” means the Public Service Pensions and Judicial Offices Act 2022;
 - “WRPA 1999” means the Welfare Reform and Pensions Act 1999[^f00010];
 - “accrued added pension” means—
   - (a) accrued added (self only) pension (if any); and
@@ -45,7 +45,7 @@ In these Regulations—
 - “accrued standard earned pension”—
   - (a) for the purpose of calculating the amount of a description of full retirement pension or the provisional amount of any description of deferred pension, has the meaning given in regulation 32(2);
   - (b) for the purpose of calculating the amount of a description of partial retirement pension, has the meaning given in regulation 33(2);
-- ”active member”, in relation to this scheme, means a person who is in pensionable service under this scheme;[^key-3ce6810030d65b4af7daf9bbe806cb0e]
+- ”active member”, in relation to this scheme, means a person who is in pensionable service under this scheme;[^c-3ce6810030d65b4af7daf9bbe806cb0e]
 - “active member’s account” has the meaning given in regulation 37(2);
 - “actuarial guidance” means guidance given by the scheme manager after consultation with the scheme actuary;
 - “actuarial reduction” in relation to reduction of pension payable to a member who has not reached normal pension age, means a reduction determined by the scheme manager after consultation with the scheme actuary or taking into account tables prepared by the scheme actuary;
@@ -60,7 +60,7 @@ In these Regulations—
 - “allocation amount” means the amount of pension allocated as a result of making an allocation election;
 - “allocation election” means an election under regulation 78(2);
 - “amount of added pension”, in relation to a scheme year, means an amount calculated in accordance with regulation 39(5);
-- “[^key-dbb42f3288aac60b84f4399f97ead474]**amount of credited pension**” means the sum of the pension credit calculated in accordance with regulations made under paragraph 5(b) of Schedule 5 (pension credits: mode of discharge) to WRPA 1999 and any remediable pension credit or remediable pension reduction, where—
+- “[^c-dbb42f3288aac60b84f4399f97ead474]**amount of credited pension**” means the sum of the pension credit calculated in accordance with regulations made under paragraph 5(b) of Schedule 5 (pension credits: mode of discharge) to WRPA 1999 and any remediable pension credit or remediable pension reduction, where—
   - (a) “remediable pension credit”, in the circumstances mentioned in—
     - (i) regulation 48 of the 2023 Regulations, has the meaning given in regulation 49(6) of those Regulations;
     - (ii) regulation 51 of the 2023 Regulations, has the meaning given in regulation 52(4) of those Regulations;
@@ -119,7 +119,7 @@ In these Regulations—
 - “eligible child” has the meaning given in regulation 103;
 - “eligible child’s pension” has the meaning given in regulation 102;
 - “employer” means the person responsible for the remuneration of a qualifying judicial officeholder;
-- “the Fee-Paid Judges Scheme” means the scheme established by Parts 1 to 11 of the FPJR 2017;[^key-ae2424e0598cacac1ed1447bb6e8c174]
+- “the Fee-Paid Judges Scheme” means the scheme established by Parts 1 to 11 of the FPJR 2017;[^c-ae2424e0598cacac1ed1447bb6e8c174]
 - “fee-paid office” means an office where service is remunerated by payment of fees, as opposed to the payment of salary;
 - “FPJR 2017” means the Judicial Pensions (Fee-Paid Judges) Regulations 2017;
 - “full retirement account” has the meaning given in regulation 47(4);
@@ -140,7 +140,7 @@ In these Regulations—
   - (b) in Scotland, the Lord President of the Court of Session, and
   - (c) in Northern Ireland, the Lord Chief Justice of Northern Ireland;
 - “ill-health pension” has the meaning given by regulation 68;
-- “index adjustment” means, in relation to the opening balance of a description of pension for any scheme year, the change in prices in the previous scheme year[^key-bbc733359949e06ebf3976a125d12243][^f00020];
+- “index adjustment” means, in relation to the opening balance of a description of pension for any scheme year, the change in prices in the previous scheme year[^c-bbc733359949e06ebf3976a125d12243][^f00020];
 - “in-service revaluation index”, in relation to a pension scheme, means the percentage increase or decrease by which the pensionable earnings of a person, or a proportion of those earnings accrued as a pension, are revalued whilst the person is in pensionable service in that pension scheme;
 - “last active scheme year” means the scheme year in which an active member of this scheme ceases to be in pensionable service under this scheme;
 - “last day of pensionable service” means the last day of a continuous period of pensionable service under this scheme;
@@ -191,14 +191,14 @@ In these Regulations—
 - “qualifying judicial service” has the meaning given in regulation 6 of the FPJR 2017;
 - “qualifying service” has the meaning given in regulation 55;
 - “registered”, in relation to a pension scheme, means registered under Chapter 2 of Part 4 (registration of pension schemes) of FA 2004;
-- “[^key-db27e29f9758736c830ebe86e2dd1c19]**relevant fee-paid judge**” has the meaning given in section 103 of PSPJOA 2022;
+- “[^c-db27e29f9758736c830ebe86e2dd1c19]**relevant fee-paid judge**” has the meaning given in section 103 of PSPJOA 2022;
 - “the relevant last day”, in relation to a continuous period of pensionable service, means—
   - (a) for a partially retired member, the day before the day on which the partial retirement option was exercised, and
   - (b) otherwise, the member’s last day of pensionable service;
 - “relevant scheme” means—
   - (i) an existing scheme;
   - (ii) the Fee-Paid Judges Scheme;
-- “[^key-798126ca31bbb07f985126590b7f4d47]**relevant service**” has the meaning given in regulation 29(2) of the 2023 Regulations;
+- “[^c-798126ca31bbb07f985126590b7f4d47]**relevant service**” has the meaning given in regulation 29(2) of the 2023 Regulations;
 - “retirement index adjustment”, in relation to an amount of accrued pension, has the meaning given in regulation 29;
 - “retirement benefits” means benefits payable under Part 6;
 - “retirement pension” means any of the following—
@@ -235,9 +235,9 @@ In these Regulations—
 
 ## Annotations
 
-[^key-72c72b874c4a5f4799157df5803dd0b9]: Commencement: Reg. 2 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)
+[^c-72c72b874c4a5f4799157df5803dd0b9]: Commencement: Reg. 2 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)
 
-[^key-7109a02ba509c2d8d7f8ebdb6cf01738]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/182/regulation/2) inserted (5.7.2023) by [The Judicial Pensions (Remediable Service etc.) Regulations 2023 (S.I. 2023/766)](https://www.legislation.gov.uk/uksi/2023/766), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/766/regulation/1/b), [Sch. para. 1(2)(a)](https://www.legislation.gov.uk/uksi/2023/766/schedule/paragraph/1/2/a)
+[^c-7109a02ba509c2d8d7f8ebdb6cf01738]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/182/regulation/2) inserted (5.7.2023) by [The Judicial Pensions (Remediable Service etc.) Regulations 2023 (S.I. 2023/766)](https://www.legislation.gov.uk/uksi/2023/766), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/766/regulation/1/b), [Sch. para. 1(2)(a)](https://www.legislation.gov.uk/uksi/2023/766/schedule/paragraph/1/2/a)
 
 [^f00006]: Footnote: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12).
 
@@ -247,17 +247,17 @@ In these Regulations—
 
 [^f00009]: Footnote: [1995 c. 26](https://www.legislation.gov.uk/ukpga/1995/26).
 
-[^key-51d9af72d8b16f461c25faef94f1066c]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/182/regulation/2) inserted (5.7.2023) by [The Judicial Pensions (Remediable Service etc.) Regulations 2023 (S.I. 2023/766)](https://www.legislation.gov.uk/uksi/2023/766), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/766/regulation/1/b), [Sch. para. 1(2)(d)](https://www.legislation.gov.uk/uksi/2023/766/schedule/paragraph/1/2/d)
+[^c-51d9af72d8b16f461c25faef94f1066c]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/182/regulation/2) inserted (5.7.2023) by [The Judicial Pensions (Remediable Service etc.) Regulations 2023 (S.I. 2023/766)](https://www.legislation.gov.uk/uksi/2023/766), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/766/regulation/1/b), [Sch. para. 1(2)(d)](https://www.legislation.gov.uk/uksi/2023/766/schedule/paragraph/1/2/d)
 
 [^f00010]: Footnote: [1999 c. 30](https://www.legislation.gov.uk/ukpga/1999/30).
 
-[^key-3ce6810030d65b4af7daf9bbe806cb0e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/182/regulation/2) substituted (24.1.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations 2024 (S.I. 2024/79)](https://www.legislation.gov.uk/uksi/2024/79), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2024/79/regulation/1/b), [2(2)](https://www.legislation.gov.uk/uksi/2024/79/regulation/2/2)
+[^c-3ce6810030d65b4af7daf9bbe806cb0e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/182/regulation/2) substituted (24.1.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations 2024 (S.I. 2024/79)](https://www.legislation.gov.uk/uksi/2024/79), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2024/79/regulation/1/b), [2(2)](https://www.legislation.gov.uk/uksi/2024/79/regulation/2/2)
 
 [^f00011]: Footnote: [S.I. 2010/1055](https://www.legislation.gov.uk/uksi/2010/1055).
 
 [^f00012]: Footnote: [S.I. 2002/2788](https://www.legislation.gov.uk/uksi/2002/2788).
 
-[^key-dbb42f3288aac60b84f4399f97ead474]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/182/regulation/2) substituted (5.7.2023) by [The Judicial Pensions (Remediable Service etc.) Regulations 2023 (S.I. 2023/766)](https://www.legislation.gov.uk/uksi/2023/766), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/766/regulation/1/b), [Sch. para. 1(2)(c)](https://www.legislation.gov.uk/uksi/2023/766/schedule/paragraph/1/2/c)
+[^c-dbb42f3288aac60b84f4399f97ead474]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/182/regulation/2) substituted (5.7.2023) by [The Judicial Pensions (Remediable Service etc.) Regulations 2023 (S.I. 2023/766)](https://www.legislation.gov.uk/uksi/2023/766), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/766/regulation/1/b), [Sch. para. 1(2)(c)](https://www.legislation.gov.uk/uksi/2023/766/schedule/paragraph/1/2/c)
 
 [^f00013]: Footnote: Section 228 was substituted by the Finance Act [2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), Schedule 17 paragraphs 1 and 4 were amended by the Finance Act [2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29) section 49.
 
@@ -265,7 +265,7 @@ In these Regulations—
 
 [^f00015]: Footnote: Section 8(2) was amended by the Pensions (Miscellaneous Provisions) Act [1990 (c. 7)](https://www.legislation.gov.uk/ukpga/1990/7) section 1(5) and the Welfare Reform and Pensions Act [1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30) section 39(1) and (4).
 
-[^key-ae2424e0598cacac1ed1447bb6e8c174]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/182/regulation/2) inserted (1.4.2017) by [The Judicial Pensions (Amendment) Regulations 2017 (S.I. 2017/508)](https://www.legislation.gov.uk/uksi/2017/508), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/508/regulation/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2017/508/regulation/5/a)
+[^c-ae2424e0598cacac1ed1447bb6e8c174]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/182/regulation/2) inserted (1.4.2017) by [The Judicial Pensions (Amendment) Regulations 2017 (S.I. 2017/508)](https://www.legislation.gov.uk/uksi/2017/508), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/508/regulation/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2017/508/regulation/5/a)
 
 [^f00016]: Footnote: Section 14 was amended by the Pensions Act [1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26) Schedule 5 paragraph 27 and Schedule 7 Part 3, the Social Security Contributions (Transfer of Functions, etc.) Act [1999 (c. 2)](https://www.legislation.gov.uk/ukpga/1999/2) Schedule 1 paragraph 38 and the Proceeds of Crime Act [2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29) Schedule 11 paragraphs 1 and 22.
 
@@ -275,7 +275,7 @@ In these Regulations—
 
 [^f00019]: Footnote: Section 15A was inserted by the Welfare Reform and Pensions Act [1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30) section 32(1) and (3).
 
-[^key-bbc733359949e06ebf3976a125d12243]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/182/regulation/2) substituted (31.3.2017) by [The Judicial Pensions (Amendment) Regulations 2017 (S.I. 2017/508)](https://www.legislation.gov.uk/uksi/2017/508), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2017/508/regulation/1/3), [5(b)](https://www.legislation.gov.uk/uksi/2017/508/regulation/5/b)
+[^c-bbc733359949e06ebf3976a125d12243]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/182/regulation/2) substituted (31.3.2017) by [The Judicial Pensions (Amendment) Regulations 2017 (S.I. 2017/508)](https://www.legislation.gov.uk/uksi/2017/508), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2017/508/regulation/1/3), [5(b)](https://www.legislation.gov.uk/uksi/2017/508/regulation/5/b)
 
 [^f00020]: Footnote: Under section 9 of the Public Services Pension Ac [2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), the change in prices to be applied in a period is the percentage increase or decrease as a Treasury order under that section may specify in relation to the period.
 
@@ -291,9 +291,9 @@ In these Regulations—
 
 [^f00026]: Footnote: Section 28 was amended by the Civil Partnership Act [2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33) Schedule 27 paragraph 159 and the Pensions Act [2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30) section 128(1) and (2).
 
-[^key-db27e29f9758736c830ebe86e2dd1c19]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/182/regulation/2) inserted (5.7.2023) by [The Judicial Pensions (Remediable Service etc.) Regulations 2023 (S.I. 2023/766)](https://www.legislation.gov.uk/uksi/2023/766), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/766/regulation/1/b), [Sch. para. 1(2)(e)](https://www.legislation.gov.uk/uksi/2023/766/schedule/paragraph/1/2/e)
+[^c-db27e29f9758736c830ebe86e2dd1c19]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/182/regulation/2) inserted (5.7.2023) by [The Judicial Pensions (Remediable Service etc.) Regulations 2023 (S.I. 2023/766)](https://www.legislation.gov.uk/uksi/2023/766), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/766/regulation/1/b), [Sch. para. 1(2)(e)](https://www.legislation.gov.uk/uksi/2023/766/schedule/paragraph/1/2/e)
 
-[^key-798126ca31bbb07f985126590b7f4d47]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/182/regulation/2) inserted (5.7.2023) by [The Judicial Pensions (Remediable Service etc.) Regulations 2023 (S.I. 2023/766)](https://www.legislation.gov.uk/uksi/2023/766), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/766/regulation/1/b), [Sch. para. 1(2)(f)](https://www.legislation.gov.uk/uksi/2023/766/schedule/paragraph/1/2/f)
+[^c-798126ca31bbb07f985126590b7f4d47]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/182/regulation/2) inserted (5.7.2023) by [The Judicial Pensions (Remediable Service etc.) Regulations 2023 (S.I. 2023/766)](https://www.legislation.gov.uk/uksi/2023/766), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/766/regulation/1/b), [Sch. para. 1(2)(f)](https://www.legislation.gov.uk/uksi/2023/766/schedule/paragraph/1/2/f)
 
 [^f00027]: Footnote: Section 1 was amended by the Pensions Act [2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35) section 285(1), (2), (3) and (4), the Pensions Act [2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22) Schedule 4 paragraph 37 and [S.I. 2006/745](https://www.legislation.gov.uk/uksi/2006/745).
 

@@ -56,8 +56,8 @@ is to be disregarded.
 
 (9) In subsection (1), “communication pipes” and “supply pipes” have the same meanings as in the 1980 Act.
 
-(10)[^key-564f9c66f696b4a210b3dec2749269b7] This section does not apply to or in relation to any services provided by Scottish Water under section 16 of the Water Services etc. (Scotland) Act 2005 (asp 3) except where the provision of the service is continued under section 17(1) or 20(1) or (3) of that Act.
+(10)[^c-564f9c66f696b4a210b3dec2749269b7] This section does not apply to or in relation to any services provided by Scottish Water under section 16 of the Water Services etc. (Scotland) Act 2005 (asp 3) except where the provision of the service is continued under section 17(1) or 20(1) or (3) of that Act.
 
 ## Annotations
 
-[^key-564f9c66f696b4a210b3dec2749269b7]: Textual amendment: S. 35(10) added (7.9.2006) by [Water Services etc. (Scotland) Act 2005 (asp 3)](https://www.legislation.gov.uk/asp/2005/3), [ss. 21(4)](https://www.legislation.gov.uk/asp/2005/3/section/21/4), [37(2)](https://www.legislation.gov.uk/asp/2005/3/section/37/2) (with [s. 36](https://www.legislation.gov.uk/asp/2005/3/section/36)); [S.S.I. 2006/445](https://www.legislation.gov.uk/ssi/2006/445), [art. 2](https://www.legislation.gov.uk/ssi/2006/445/article/2), [sch.](https://www.legislation.gov.uk/ssi/2006/445/schedule)
+[^c-564f9c66f696b4a210b3dec2749269b7]: Textual amendment: S. 35(10) added (7.9.2006) by [Water Services etc. (Scotland) Act 2005 (asp 3)](https://www.legislation.gov.uk/asp/2005/3), [ss. 21(4)](https://www.legislation.gov.uk/asp/2005/3/section/21/4), [37(2)](https://www.legislation.gov.uk/asp/2005/3/section/37/2) (with [s. 36](https://www.legislation.gov.uk/asp/2005/3/section/36)); [S.S.I. 2006/445](https://www.legislation.gov.uk/ssi/2006/445), [art. 2](https://www.legislation.gov.uk/ssi/2006/445/article/2), [sch.](https://www.legislation.gov.uk/ssi/2006/445/schedule)

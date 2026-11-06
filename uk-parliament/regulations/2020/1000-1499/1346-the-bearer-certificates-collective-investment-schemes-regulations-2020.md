@@ -42,11 +42,11 @@ Coming into force
 
 The Treasury are a government department designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the prevention of money laundering and terrorist financing.
 
-The Treasury make the following Regulations in exercise of the powers conferred by section 2(2) of that Act and by section 262 of the Financial Services and Markets Act 2000[^f00003].[^key-a40699a0f4f30f64e5a959bc6a1fd088]
+The Treasury make the following Regulations in exercise of the powers conferred by section 2(2) of that Act and by section 262 of the Financial Services and Markets Act 2000[^f00003].[^c-a40699a0f4f30f64e5a959bc6a1fd088]
 
-A draft of these Regulations has been approved by a resolution of each House of Parliament in accordance with paragraph 2(2) of Schedule 2 to the European Communities Act 1972 and section 429(2) of the Financial Services and Market Act 2000.[^key-a40699a0f4f30f64e5a959bc6a1fd088]
+A draft of these Regulations has been approved by a resolution of each House of Parliament in accordance with paragraph 2(2) of Schedule 2 to the European Communities Act 1972 and section 429(2) of the Financial Services and Market Act 2000.[^c-a40699a0f4f30f64e5a959bc6a1fd088]
 
-## 1. Citation, commencement and extent[^key-efc030b59dcb93607d3aba1370d3fe5c]
+## 1. Citation, commencement and extent[^c-efc030b59dcb93607d3aba1370d3fe5c]
 
 (1) These Regulations may be cited as the Bearer Certificates (Collective Investment Schemes) Regulations 2020.
 
@@ -54,7 +54,7 @@ A draft of these Regulations has been approved by a resolution of each House of 
 
 (3) These Regulations extend to the whole of the United Kingdom.
 
-## 2. Bearer shares, and other bearer units, in collective investment schemes[^key-561c35c01f41dbe25b117f52c3f6a7ee]
+## 2. Bearer shares, and other bearer units, in collective investment schemes[^c-561c35c01f41dbe25b117f52c3f6a7ee]
 
 In the Financial Services and Markets Act 2000, in Part 17 (collective investment schemes), after section 241 insert—
 
@@ -73,11 +73,11 @@ In the Financial Services and Markets Act 2000, in Part 17 (collective investmen
 >
 > (4) Subsection (1) does not apply to a collective investment scheme constituted by an open-ended investment company, but regulation 48 of the Open-Ended Investment Companies Regulations 2001 ([S.I. 2001/1228](https://www.legislation.gov.uk/uksi/2001/1228)) makes corresponding provision.
 
-**3.**[^key-f46cdf6fe1f70e3de705ff1e7f3ae590] In the Open-Ended Investment Companies Regulations 2001, in regulation 48 (OEIC authorised before 26 June 2017 may issue bearer shares if its instrument of incorporation so provides), after paragraph (1)[^f00004] insert—
+**3.**[^c-f46cdf6fe1f70e3de705ff1e7f3ae590] In the Open-Ended Investment Companies Regulations 2001, in regulation 48 (OEIC authorised before 26 June 2017 may issue bearer shares if its instrument of incorporation so provides), after paragraph (1)[^f00004] insert—
 
 > (1A) An open-ended investment company authorised before the relevant date may not issue, convert or cancel bearer shares after 1 January 2021 (irrespective of whether its instrument of incorporation purports to authorise it to do so).
 
-## 4. Transitional provision[^key-6a1685c2c55c397d5affc0280e5dced9]
+## 4. Transitional provision[^c-6a1685c2c55c397d5affc0280e5dced9]
 
 The Schedule makes transitional provision enabling the conversion and cancellation on or before 1 January 2022 of bearer shares in open-ended investment companies and bearer units in other collective investment schemes held at the end of the day on which these Regulations take effect.
 
@@ -95,7 +95,7 @@ Regulation 4
 
 ### PART 1 — CONVERSION AND CANCELLATION OF EXISTING BEARER SHARES IN OPEN-ENDED INVESTMENT COMPANIES ON OR BEFORE 1 JANUARY 2022
 
-**1.**[^key-a252607b022b65f7c917cf79579ed5dc] (1) An open-ended investment company may convert or cancel bearer shares on or before 1 January 2022 in accordance with this Part.
+**1.**[^c-a252607b022b65f7c917cf79579ed5dc] (1) An open-ended investment company may convert or cancel bearer shares on or before 1 January 2022 in accordance with this Part.
 
 (2) This Part applies as if it were contained in the Open-Ended Investment Companies Regulations 2001 and accordingly-
 
@@ -104,14 +104,14 @@ Regulation 4
 
 #### Meaning of “outstanding bearer share” and “the surrender year”
 
-**2.**[^key-64facfe38207cd8c4efb734bade3ea84] In this Part—
+**2.**[^c-64facfe38207cd8c4efb734bade3ea84] In this Part—
 
 - “outstanding bearer share” means a bearer share which has been issued by an open-ended investment company before the surrender year and has not been cancelled;
 - “the surrender year” means the year beginning with the end of 1 January 2021.
 
 #### Right to convert bearer share to registered share
 
-**3.**[^key-351a78a9e4cd34da7cbee844dbe7ae24] (1) Sub-paragraphs (2) and (3) apply where, at a time in the surrender year, the person who is the bearer of an outstanding bearer share delivers to the company—
+**3.**[^c-351a78a9e4cd34da7cbee844dbe7ae24] (1) Sub-paragraphs (2) and (3) apply where, at a time in the surrender year, the person who is the bearer of an outstanding bearer share delivers to the company—
 
 - (a) the instrument mentioned in regulation 48 relating to the share,
 - (b) a request for the share to be converted to a registered share, and
@@ -131,14 +131,14 @@ Regulation 4
 
 #### Cancellation of bearer shares held by the designated person
 
-**4.**[^key-8bd2148e0c84c4db13614ced634fb2b4] Where the bearer of any outstanding bearer shares is the designated person—
+**4.**[^c-8bd2148e0c84c4db13614ced634fb2b4] Where the bearer of any outstanding bearer shares is the designated person—
 
 - (a) the designated person may not, after the start of the surrender year, transfer the shares to any person other than the company, and
 - (b) the designated person must, as soon after the start of the surrender year as is reasonably practicable, transfer the shares to the company (so that the shares may be cancelled in accordance with paragraph 3).
 
 #### Payment of dividends and other distributions during the surrender year
 
-**5.**[^key-48d86cf6981c93fbf7e4f9fc0c8bc85a] (1) A dividend or other distribution paid in the surrender year in respect of an outstanding bearer share must be paid into the account opened by the company in accordance with sub-paragraph (3).
+**5.**[^c-48d86cf6981c93fbf7e4f9fc0c8bc85a] (1) A dividend or other distribution paid in the surrender year in respect of an outstanding bearer share must be paid into the account opened by the company in accordance with sub-paragraph (3).
 
 (2) Where a share is converted under paragraph 3, the person registered under paragraph 3(3) in respect of the share is entitled to—
 
@@ -154,7 +154,7 @@ Regulation 4
 
 #### Cancellation of bearer shares still held at the end of the surrender year
 
-**6.**[^key-bd8b519a79fe761666d7826dcf7b2daa] (1) Where a person is the bearer of an outstanding bearer share immediately before the end of the surrender year, the company must—
+**6.**[^c-bd8b519a79fe761666d7826dcf7b2daa] (1) Where a person is the bearer of an outstanding bearer share immediately before the end of the surrender year, the company must—
 
 - (a) cancel the share with effect from the end of that year, and
 - (b) pay the value (if any) of the share into the account opened by the company in accordance with paragraph 5(3).
@@ -168,7 +168,7 @@ Regulation 4
 
 #### Notifications
 
-**7.**[^key-c074d3f2761ec1a42d56f0b9e57c177d] (1) This paragraph applies to an open-ended investment company if, at the start of the surrender year, any persons other than the designated person are bearers of outstanding bearer shares issued by the company.
+**7.**[^c-c074d3f2761ec1a42d56f0b9e57c177d] (1) This paragraph applies to an open-ended investment company if, at the start of the surrender year, any persons other than the designated person are bearers of outstanding bearer shares issued by the company.
 
 (2) The company must, no later than 2 months after the start of the surrender year, give a notice to those persons—
 
@@ -202,7 +202,7 @@ Regulation 4
 
 ### PART 2 — CONVERSION AND CANCELLATION OF EXISTING BEARER UNITS IN OTHER COLLECTIVE INVESTMENT SCHEMES ON OR BEFORE 1 JANUARY 2022
 
-**8.**[^key-5857a252400d85518035f419fa6f7599] (1) The operator of a collective investment scheme which is not an open-ended investment company may convert or cancel bearer units on or before 1 January 2022 in accordance with this Part.
+**8.**[^c-5857a252400d85518035f419fa6f7599] (1) The operator of a collective investment scheme which is not an open-ended investment company may convert or cancel bearer units on or before 1 January 2022 in accordance with this Part.
 
 (2) This Part applies as if it were contained within Part 17 of the Financial Services and Markets Act 2000 (“Part 17”) and accordingly-
 
@@ -211,7 +211,7 @@ Regulation 4
 
 #### General definitions
 
-**9.**[^key-f17b9914fe779ee60e429d8a4a7c7aa7] In this Part—
+**9.**[^c-f17b9914fe779ee60e429d8a4a7c7aa7] In this Part—
 
 - “the Gazette” means—
   - (a) as respects companies registered in England and Wales, the London Gazette,
@@ -223,7 +223,7 @@ Regulation 4
 
 #### Right to convert bearer unit to registered unit
 
-**10.**[^key-c4e5c12749c3fe3ce3ecfa6eae964058] (1) Subparagraphs (2) and (3) apply where, at a time in the surrender year, the person who is the bearer of an outstanding bearer unit delivers to the scheme—
+**10.**[^c-c4e5c12749c3fe3ce3ecfa6eae964058] (1) Subparagraphs (2) and (3) apply where, at a time in the surrender year, the person who is the bearer of an outstanding bearer unit delivers to the scheme—
 
 - (a) the instrument mentioned in section 241A relating to the unit,
 - (b) a request for the unit to be converted to a registered unit, and
@@ -243,14 +243,14 @@ Regulation 4
 
 #### Cancellation of bearer units held by the operator of the scheme
 
-**11.**[^key-e24133a453c087fa18fb12dcf34af333] Where the bearer of any outstanding bearer units is the operator of the scheme—
+**11.**[^c-e24133a453c087fa18fb12dcf34af333] Where the bearer of any outstanding bearer units is the operator of the scheme—
 
 - (a) the operator may not, after the start of the surrender year, transfer the shares to any person other than the scheme, and
 - (b) the operator must, as soon after the start of the surrender year as is reasonably practicable, transfer the shares to the scheme (so that the shares may be cancelled in accordance with paragraph 10).
 
 #### Payment of dividends and other distributions during the surrender year
 
-**12.**[^key-34895566b2a16d6831722d915c4c3d61] (1) A dividend or other distribution paid in the surrender year in respect of an outstanding bearer unit must be paid by the operator into the account opened by the scheme in accordance with subparagraph (3).
+**12.**[^c-34895566b2a16d6831722d915c4c3d61] (1) A dividend or other distribution paid in the surrender year in respect of an outstanding bearer unit must be paid by the operator into the account opened by the scheme in accordance with subparagraph (3).
 
 (2) Where a unit is converted under paragraph 10, the person registered under paragraph 10(3) in respect of the unit is entitled to—
 
@@ -266,7 +266,7 @@ Regulation 4
 
 #### Cancellation of bearer units still held at the end of the surrender year
 
-**13.**[^key-b9d0b9360c284070a4028842ec027af6] (1) Where a person is the bearer of an outstanding bearer unit immediately before the end of the surrender year, the operator of the scheme must—
+**13.**[^c-b9d0b9360c284070a4028842ec027af6] (1) Where a person is the bearer of an outstanding bearer unit immediately before the end of the surrender year, the operator of the scheme must—
 
 - (a) cancel the unit with effect from the end of that year, and
 - (b) pay the value (if any) of the unit into the account opened by the scheme in accordance with paragraph 12(3).
@@ -280,11 +280,11 @@ Regulation 4
 
 #### Right to amend governing documents
 
-**14.**[^key-ae7ee9e234bba1ae4b2a3a1865c7738b] The operator of a scheme may amend any provision which is contained in its governing documents (including any trust deed) which enables the scheme to issue bearer units.
+**14.**[^c-ae7ee9e234bba1ae4b2a3a1865c7738b] The operator of a scheme may amend any provision which is contained in its governing documents (including any trust deed) which enables the scheme to issue bearer units.
 
 #### Notifications
 
-**15.**[^key-b84425ccc2283abf0cbb7ebc7dec289e] (1) This paragraph applies to the operator of a scheme if, at the start of the surrender year, any persons other than the operator of the scheme are bearers of outstanding bearer units issued by the scheme.
+**15.**[^c-b84425ccc2283abf0cbb7ebc7dec289e] (1) This paragraph applies to the operator of a scheme if, at the start of the surrender year, any persons other than the operator of the scheme are bearers of outstanding bearer units issued by the scheme.
 
 (2) The operator of the scheme must, no later than 2 months after the start of the surrender year, give a notice to those persons—
 
@@ -334,47 +334,47 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00003]: Footnote: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8).
 
-[^key-a40699a0f4f30f64e5a959bc6a1fd088]: Modification: Regulations: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-a40699a0f4f30f64e5a959bc6a1fd088]: Modification: Regulations: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
-[^key-efc030b59dcb93607d3aba1370d3fe5c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2020/1346/regulation/1) in force at 1.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1346/regulation/1/2)
+[^c-efc030b59dcb93607d3aba1370d3fe5c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2020/1346/regulation/1) in force at 1.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1346/regulation/1/2)
 
-[^key-561c35c01f41dbe25b117f52c3f6a7ee]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2020/1346/regulation/2) in force at 1.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1346/regulation/1/2)
+[^c-561c35c01f41dbe25b117f52c3f6a7ee]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2020/1346/regulation/2) in force at 1.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1346/regulation/1/2)
 
-[^key-f46cdf6fe1f70e3de705ff1e7f3ae590]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2020/1346/regulation/3) in force at 1.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1346/regulation/1/2)
+[^c-f46cdf6fe1f70e3de705ff1e7f3ae590]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2020/1346/regulation/3) in force at 1.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1346/regulation/1/2)
 
 [^f00004]: Footnote: [S.I. 2001/1228](https://www.legislation.gov.uk/uksi/2001/1228). Paragraph (1) of regulation 48 was numbered as such by the Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 ([S.I. 2017/692](https://www.legislation.gov.uk/uksi/2017/692)), regulation 109 and Schedule 7, Part 2, paragraph 18(a).
 
-[^key-6a1685c2c55c397d5affc0280e5dced9]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2020/1346/regulation/4) in force at 1.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1346/regulation/1/2)
+[^c-6a1685c2c55c397d5affc0280e5dced9]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2020/1346/regulation/4) in force at 1.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1346/regulation/1/2)
 
-[^key-a252607b022b65f7c917cf79579ed5dc]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2020/1346/schedule/paragraph/1) in force at 1.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1346/regulation/1/2)
+[^c-a252607b022b65f7c917cf79579ed5dc]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2020/1346/schedule/paragraph/1) in force at 1.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1346/regulation/1/2)
 
-[^key-64facfe38207cd8c4efb734bade3ea84]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2020/1346/schedule/paragraph/2) in force at 1.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1346/regulation/1/2)
+[^c-64facfe38207cd8c4efb734bade3ea84]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2020/1346/schedule/paragraph/2) in force at 1.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1346/regulation/1/2)
 
-[^key-351a78a9e4cd34da7cbee844dbe7ae24]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2020/1346/schedule/paragraph/3) in force at 1.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1346/regulation/1/2)
+[^c-351a78a9e4cd34da7cbee844dbe7ae24]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2020/1346/schedule/paragraph/3) in force at 1.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1346/regulation/1/2)
 
-[^key-8bd2148e0c84c4db13614ced634fb2b4]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2020/1346/schedule/paragraph/4) in force at 1.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1346/regulation/1/2)
+[^c-8bd2148e0c84c4db13614ced634fb2b4]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2020/1346/schedule/paragraph/4) in force at 1.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1346/regulation/1/2)
 
-[^key-48d86cf6981c93fbf7e4f9fc0c8bc85a]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2020/1346/schedule/paragraph/5) in force at 1.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1346/regulation/1/2)
+[^c-48d86cf6981c93fbf7e4f9fc0c8bc85a]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2020/1346/schedule/paragraph/5) in force at 1.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1346/regulation/1/2)
 
-[^key-bd8b519a79fe761666d7826dcf7b2daa]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2020/1346/schedule/paragraph/6) in force at 1.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1346/regulation/1/2)
+[^c-bd8b519a79fe761666d7826dcf7b2daa]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2020/1346/schedule/paragraph/6) in force at 1.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1346/regulation/1/2)
 
-[^key-c074d3f2761ec1a42d56f0b9e57c177d]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2020/1346/schedule/paragraph/7) in force at 1.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1346/regulation/1/2)
+[^c-c074d3f2761ec1a42d56f0b9e57c177d]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2020/1346/schedule/paragraph/7) in force at 1.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1346/regulation/1/2)
 
-[^key-5857a252400d85518035f419fa6f7599]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2020/1346/schedule/paragraph/8) in force at 1.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1346/regulation/1/2)
+[^c-5857a252400d85518035f419fa6f7599]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2020/1346/schedule/paragraph/8) in force at 1.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1346/regulation/1/2)
 
-[^key-f17b9914fe779ee60e429d8a4a7c7aa7]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2020/1346/schedule/paragraph/9) in force at 1.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1346/regulation/1/2)
+[^c-f17b9914fe779ee60e429d8a4a7c7aa7]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2020/1346/schedule/paragraph/9) in force at 1.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1346/regulation/1/2)
 
-[^key-c4e5c12749c3fe3ce3ecfa6eae964058]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2020/1346/schedule/paragraph/10) in force at 1.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1346/regulation/1/2)
+[^c-c4e5c12749c3fe3ce3ecfa6eae964058]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2020/1346/schedule/paragraph/10) in force at 1.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1346/regulation/1/2)
 
-[^key-e24133a453c087fa18fb12dcf34af333]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/uksi/2020/1346/schedule/paragraph/11) in force at 1.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1346/regulation/1/2)
+[^c-e24133a453c087fa18fb12dcf34af333]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/uksi/2020/1346/schedule/paragraph/11) in force at 1.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1346/regulation/1/2)
 
-[^key-34895566b2a16d6831722d915c4c3d61]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/uksi/2020/1346/schedule/paragraph/12) in force at 1.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1346/regulation/1/2)
+[^c-34895566b2a16d6831722d915c4c3d61]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/uksi/2020/1346/schedule/paragraph/12) in force at 1.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1346/regulation/1/2)
 
-[^key-b9d0b9360c284070a4028842ec027af6]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/uksi/2020/1346/schedule/paragraph/13) in force at 1.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1346/regulation/1/2)
+[^c-b9d0b9360c284070a4028842ec027af6]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/uksi/2020/1346/schedule/paragraph/13) in force at 1.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1346/regulation/1/2)
 
-[^key-ae7ee9e234bba1ae4b2a3a1865c7738b]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/uksi/2020/1346/schedule/paragraph/14) in force at 1.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1346/regulation/1/2)
+[^c-ae7ee9e234bba1ae4b2a3a1865c7738b]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/uksi/2020/1346/schedule/paragraph/14) in force at 1.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1346/regulation/1/2)
 
-[^key-b84425ccc2283abf0cbb7ebc7dec289e]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/uksi/2020/1346/schedule/paragraph/15) in force at 1.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1346/regulation/1/2)
+[^c-b84425ccc2283abf0cbb7ebc7dec289e]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/uksi/2020/1346/schedule/paragraph/15) in force at 1.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1346/regulation/1/2)
 
 [^f00005]: Footnote: [S.I. 2001/1228](https://www.legislation.gov.uk/uksi/2001/1228).
 

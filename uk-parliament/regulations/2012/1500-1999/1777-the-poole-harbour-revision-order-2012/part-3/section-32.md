@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 32. Deposit for charges[^key-0e86d6b70d2762f0ce81acfc9612aa39]
+## 32. Deposit for charges[^c-0e86d6b70d2762f0ce81acfc9612aa39]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0e86d6b70d2762f0ce81acfc9612aa39]: Commencement: Art. 32 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)
+[^c-0e86d6b70d2762f0ce81acfc9612aa39]: Commencement: Art. 32 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)

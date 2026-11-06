@@ -24,7 +24,7 @@ summary: ''
 
 (2) If the investor makes a claim for a relevant tax year, the investor is entitled to a tax reduction for that year of 5% of the invested amount in respect of the investment for the year.
 
-(3) For the purposes of this section and section 335A[^key-72cf85f5da75fb0961ea379c215aceee] the “relevant” tax years are—
+(3) For the purposes of this section and section 335A[^c-72cf85f5da75fb0961ea379c215aceee] the “relevant” tax years are—
 
 - (a) the tax year in which the investment date falls, and
 - (b) each of the 4 subsequent tax years.
@@ -46,4 +46,4 @@ but no claim may be made before the end of the tax year to which it relates.
 
 ## Annotations
 
-[^key-72cf85f5da75fb0961ea379c215aceee]: Textual amendment: Words in s. 335(3) substituted (with effect in accordance with Sch. 27 para. 6 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 27 para. 2](https://www.legislation.gov.uk/ukpga/2013/29/schedule/27/paragraph/2)
+[^c-72cf85f5da75fb0961ea379c215aceee]: Textual amendment: Words in s. 335(3) substituted (with effect in accordance with Sch. 27 para. 6 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 27 para. 2](https://www.legislation.gov.uk/ukpga/2013/29/schedule/27/paragraph/2)

@@ -34,7 +34,7 @@ An Act to make further provision in relation to local transport authorities, the
 
 \[26th November 2008\]
 
-Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-1d0520568d48ba13867d4036eb7f9c20][^key-e00b3d3245ba97596216c1f0f6f5fbfa]
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-1d0520568d48ba13867d4036eb7f9c20][^c-e00b3d3245ba97596216c1f0f6f5fbfa]
 
 ## Contents
 
@@ -260,23 +260,23 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 102 — Procedure for orders under section 101](part-5/section-102.md)
 - [Section 102A — Application of Chapter to combined authorities and combined county authorities](part-5/section-102a.md)
 
-#### CHAPTER 4 — General powers[^key-6c947fd084a0c5d36701b12fbe779010]
+#### CHAPTER 4 — General powers[^c-6c947fd084a0c5d36701b12fbe779010]
 
 - [Section 102B — Powers of Integrated Transport Authorities](part-5/section-102b.md)
 - [Section 102C — Boundaries of power under section 102B](part-5/section-102c.md)
 - [Section 102D — Power to make provision supplemental to section 102B](part-5/section-102d.md)
 
-### PART 5A — SUB-NATIONAL TRANSPORT BODIES[^key-6e2ee48c09053746a72efbd34e02c3e6]
+### PART 5A — SUB-NATIONAL TRANSPORT BODIES[^c-6e2ee48c09053746a72efbd34e02c3e6]
 
 *Extent: E+W*
 
-#### Establishment and constitution of (Extent: E+W) STBs (Extent: E+W)[^key-6e2ee48c09053746a72efbd34e02c3e6]
+#### Establishment and constitution of (Extent: E+W) STBs (Extent: E+W)[^c-6e2ee48c09053746a72efbd34e02c3e6]
 
 - [Section 102E — Power to establish STBs](part-5a/section-102e.md)
 - [Section 102F — Requirements in connection with regulations under section 102E](part-5a/section-102f.md)
 - [Section 102G — Constitution of STBs](part-5a/section-102g.md)
 
-#### Functions (Extent: E+W)[^key-6e2ee48c09053746a72efbd34e02c3e6]
+#### Functions (Extent: E+W)[^c-6e2ee48c09053746a72efbd34e02c3e6]
 
 - [Section 102H — General functions](part-5a/section-102h.md)
 - [Section 102I — Transport strategy of an STB](part-5a/section-102i.md)
@@ -284,19 +284,19 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 102K — Other public authority functions](part-5a/section-102k.md)
 - [Section 102L — Funding](part-5a/section-102l.md)
 
-#### General powers (Extent: E+W) etc (Extent: E+W)[^key-6e2ee48c09053746a72efbd34e02c3e6]
+#### General powers (Extent: E+W) etc (Extent: E+W)[^c-6e2ee48c09053746a72efbd34e02c3e6]
 
 - [Section 102M — General powers](part-5a/section-102m.md)
 - [Section 102N — Boundaries of power under section 102M](part-5a/section-102n.md)
 - [Section 102O — Power to make provision supplemental to section 102M](part-5a/section-102o.md)
 - [Section 102P — Power of direction](part-5a/section-102p.md)
 
-#### Boundary and name changes (Extent: E+W)[^key-6e2ee48c09053746a72efbd34e02c3e6]
+#### Boundary and name changes (Extent: E+W)[^c-6e2ee48c09053746a72efbd34e02c3e6]
 
 - [Section 102Q — Change to boundaries of an STB's area](part-5a/section-102q.md)
 - [Section 102R — Change of name](part-5a/section-102r.md)
 
-#### Supplementary (Extent: E+W)[^key-6e2ee48c09053746a72efbd34e02c3e6]
+#### Supplementary (Extent: E+W)[^c-6e2ee48c09053746a72efbd34e02c3e6]
 
 - [Section 102S — Incidental etc provision](part-5a/section-102s.md)
 - [Section 102T — Procedure for regulations under this Part](part-5a/section-102t.md)
@@ -387,10 +387,10 @@ SCHEDULES
 
 ## Annotations
 
-[^key-1d0520568d48ba13867d4036eb7f9c20]: Modification: Act: transfer of functions (1.9.2009) by [Transfer of Functions (Transport Tribunal and Appeal Panel) Order 2009 (S.I. 2009/1885)](https://www.legislation.gov.uk/uksi/2009/1885), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/1885/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2009/1885/article/2/3)
+[^c-1d0520568d48ba13867d4036eb7f9c20]: Modification: Act: transfer of functions (1.9.2009) by [Transfer of Functions (Transport Tribunal and Appeal Panel) Order 2009 (S.I. 2009/1885)](https://www.legislation.gov.uk/uksi/2009/1885), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/1885/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2009/1885/article/2/3)
 
-[^key-e00b3d3245ba97596216c1f0f6f5fbfa]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2008/26) applied (with modifications) (29.4.2026) by 2009 c. 20, s. 104(3A)-(3C) (as inserted by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 11 para. 5(2)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/11/paragraph/5/2) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102)))
+[^c-e00b3d3245ba97596216c1f0f6f5fbfa]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2008/26) applied (with modifications) (29.4.2026) by 2009 c. 20, s. 104(3A)-(3C) (as inserted by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 11 para. 5(2)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/11/paragraph/5/2) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102)))
 
-[^key-6c947fd084a0c5d36701b12fbe779010]: Textual amendment: Pt. 5 Ch. 4 inserted (18.2.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 11](https://www.legislation.gov.uk/ukpga/2011/20/section/11), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/411](https://www.legislation.gov.uk/uksi/2012/411), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/411/article/2/e)
+[^c-6c947fd084a0c5d36701b12fbe779010]: Textual amendment: Pt. 5 Ch. 4 inserted (18.2.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 11](https://www.legislation.gov.uk/ukpga/2011/20/section/11), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/411](https://www.legislation.gov.uk/uksi/2012/411), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/411/article/2/e)
 
-[^key-6e2ee48c09053746a72efbd34e02c3e6]: Textual amendment: Pt. 5A inserted (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [ss. 21](https://www.legislation.gov.uk/ukpga/2016/1/section/21), [25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2)
+[^c-6e2ee48c09053746a72efbd34e02c3e6]: Textual amendment: Pt. 5A inserted (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [ss. 21](https://www.legislation.gov.uk/ukpga/2016/1/section/21), [25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 130A. Appeals against review of sentence[^key-1ac924aceb26ae944b3a057aa10a95b0]
+## 130A. Appeals against review of sentence[^c-1ac924aceb26ae944b3a057aa10a95b0]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1ac924aceb26ae944b3a057aa10a95b0]: Textual amendment: [Pt. 15A](https://www.legislation.gov.uk/uksi/2009/1059/part/15A) inserted (17.4.2024) by [The Armed Forces (Appeals Against Review of Sentence) Regulations 2024 (S.I. 2024/619)](https://www.legislation.gov.uk/uksi/2024/619), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/619/regulation/1/2), [44(3)](https://www.legislation.gov.uk/uksi/2024/619/regulation/44/3); [S.I. 2024/562](https://www.legislation.gov.uk/uksi/2024/562), [reg. 2](https://www.legislation.gov.uk/uksi/2024/562/regulation/2)
+[^c-1ac924aceb26ae944b3a057aa10a95b0]: Textual amendment: [Pt. 15A](https://www.legislation.gov.uk/uksi/2009/1059/part/15A) inserted (17.4.2024) by [The Armed Forces (Appeals Against Review of Sentence) Regulations 2024 (S.I. 2024/619)](https://www.legislation.gov.uk/uksi/2024/619), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/619/regulation/1/2), [44(3)](https://www.legislation.gov.uk/uksi/2024/619/regulation/44/3); [S.I. 2024/562](https://www.legislation.gov.uk/uksi/2024/562), [reg. 2](https://www.legislation.gov.uk/uksi/2024/562/regulation/2)

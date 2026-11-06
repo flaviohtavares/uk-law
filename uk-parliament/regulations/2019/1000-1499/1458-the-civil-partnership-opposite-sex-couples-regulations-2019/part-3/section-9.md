@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Protection against compulsion in relation to religious involvement in civil partnership[^key-705ddab0962740479836222eed370369]
+## 9. Protection against compulsion in relation to religious involvement in civil partnership[^c-705ddab0962740479836222eed370369]
 
 *Extent: E+W*
 
@@ -52,7 +52,7 @@ summary: ''
 
 ## Annotations
 
-[^key-705ddab0962740479836222eed370369]: Commencement: Reg. 9 in force at 2.12.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2)
+[^c-705ddab0962740479836222eed370369]: Commencement: Reg. 9 in force at 2.12.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2)
 
 [^f00012]: Footnote: Section 6A was inserted by [S.I. 2005/2000](https://www.legislation.gov.uk/uksi/2005/2000) and amended by [S.I. 2008/678](https://www.legislation.gov.uk/uksi/2008/678) and the Equality Act 2010, section 202(3) and 4.
 

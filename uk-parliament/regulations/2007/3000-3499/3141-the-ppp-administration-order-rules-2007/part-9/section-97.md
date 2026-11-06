@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 97. Quorum at creditors’ meetings[^key-f632626a56f1473fe4fce735d38769b2]
+## 97. Quorum at creditors’ meetings[^c-f632626a56f1473fe4fce735d38769b2]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ the meeting shall not commence until at least the expiry of 15 minutes after the
 
 ## Annotations
 
-[^key-f632626a56f1473fe4fce735d38769b2]: Commencement: [Rule 97](https://www.legislation.gov.uk/uksi/2007/3141/rule/97) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-f632626a56f1473fe4fce735d38769b2]: Commencement: [Rule 97](https://www.legislation.gov.uk/uksi/2007/3141/rule/97) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

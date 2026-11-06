@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 24. Return of child removed in breach of certain provisions[^key-68a9733fe7cf8ce29b6cbdde5c2580b7][^key-2341f995b0937e46dbf756ec60f55c78][^key-1aa9b1ca6bb367ab31400e0712afec2e][^key-f5d6e46d6ff8b02bebd4cb6c3e35a3e2][^key-1aa9b1ca6bb367ab31400e0712afec2e]
+## 24. Return of child removed in breach of certain provisions[^c-68a9733fe7cf8ce29b6cbdde5c2580b7][^c-2341f995b0937e46dbf756ec60f55c78][^c-1aa9b1ca6bb367ab31400e0712afec2e][^c-f5d6e46d6ff8b02bebd4cb6c3e35a3e2][^c-1aa9b1ca6bb367ab31400e0712afec2e]
 
 *Extent: S*
 
@@ -39,10 +39,10 @@ summary: ''
 
 ## Annotations
 
-[^key-68a9733fe7cf8ce29b6cbdde5c2580b7]: Commencement: S. 24 in force at 28.9.2009 by [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2)
+[^c-68a9733fe7cf8ce29b6cbdde5c2580b7]: Commencement: S. 24 in force at 28.9.2009 by [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2)
 
-[^key-2341f995b0937e46dbf756ec60f55c78]: Modification: S. 24 excluded (28.9.2009) by [Adoptions with a Foreign Element (Scotland) Regulations 2009 (S.S.I. 2009/182)](https://www.legislation.gov.uk/ssi/2009/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2009/182/regulation/1/1), [9(4)(d)](https://www.legislation.gov.uk/ssi/2009/182/regulation/9/4/d)
+[^c-2341f995b0937e46dbf756ec60f55c78]: Modification: S. 24 excluded (28.9.2009) by [Adoptions with a Foreign Element (Scotland) Regulations 2009 (S.S.I. 2009/182)](https://www.legislation.gov.uk/ssi/2009/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2009/182/regulation/1/1), [9(4)(d)](https://www.legislation.gov.uk/ssi/2009/182/regulation/9/4/d)
 
-[^key-1aa9b1ca6bb367ab31400e0712afec2e]: Modification: Pt. 1 Ch. 2 applied in part (28.9.2009) by [Adoptions with a Foreign Element (Scotland) Regulations 2009 (S.S.I. 2009/182)](https://www.legislation.gov.uk/ssi/2009/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2009/182/regulation/1/1), [9(1)](https://www.legislation.gov.uk/ssi/2009/182/regulation/9/1)
+[^c-1aa9b1ca6bb367ab31400e0712afec2e]: Modification: Pt. 1 Ch. 2 applied in part (28.9.2009) by [Adoptions with a Foreign Element (Scotland) Regulations 2009 (S.S.I. 2009/182)](https://www.legislation.gov.uk/ssi/2009/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2009/182/regulation/1/1), [9(1)](https://www.legislation.gov.uk/ssi/2009/182/regulation/9/1)
 
-[^key-f5d6e46d6ff8b02bebd4cb6c3e35a3e2]: Modification: S. 24 applied (with modifications) (6.4.2010) by [The Human Fertilisation and Embryology (Parental Orders) Regulations 2010 (S.I. 2010/985)](https://www.legislation.gov.uk/uksi/2010/985), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/985/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2010/985/regulation/4), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/985/schedule/3)
+[^c-f5d6e46d6ff8b02bebd4cb6c3e35a3e2]: Modification: S. 24 applied (with modifications) (6.4.2010) by [The Human Fertilisation and Embryology (Parental Orders) Regulations 2010 (S.I. 2010/985)](https://www.legislation.gov.uk/uksi/2010/985), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/985/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2010/985/regulation/4), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/985/schedule/3)

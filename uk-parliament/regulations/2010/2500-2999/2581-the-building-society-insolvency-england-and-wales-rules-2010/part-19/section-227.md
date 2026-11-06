@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 227. Definition of “proxy”[^key-3768da51866e35f165a98b7e071a0355]
+## 227. Definition of “proxy”[^c-3768da51866e35f165a98b7e071a0355]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3768da51866e35f165a98b7e071a0355]: Commencement: Rule 227 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-3768da51866e35f165a98b7e071a0355]: Commencement: Rule 227 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
 
 [^f00080]: Footnote: All the rules applied by this Chapter were amended by [S.I. 1987/1919](https://www.legislation.gov.uk/uksi/1987/1919).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Commission Implementing Regulation (EU) 2017/218 on the Union fishing fleet register[^key-ef4e327152f388b0c3524b0ab743007e]
+## 33. Commission Implementing Regulation (EU) 2017/218 on the Union fishing fleet register[^c-ef4e327152f388b0c3524b0ab743007e]
 
 *Extent: E+W+S+N.I.*
 
@@ -115,4 +115,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ef4e327152f388b0c3524b0ab743007e]: Commencement: Reg. 33 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1)
+[^c-ef4e327152f388b0c3524b0ab743007e]: Commencement: Reg. 33 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1)

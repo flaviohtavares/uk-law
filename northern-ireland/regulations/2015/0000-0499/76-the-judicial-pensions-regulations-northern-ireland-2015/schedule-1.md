@@ -37,7 +37,7 @@ In this Schedule—
 - “**overall limit of extra pension**” has the meaning given in paragraph 3;
 - “**periodical payment period**” means the period for which periodical payments for added pension or an effective pension age are payable;
 - “**period of service**”, in relation to this scheme, means a continuous period of pensionable service under this scheme;
-- “[^key-e79f49ece41905f06d6a6707b16527ff]**purported added pension payment**” means a payment—
+- “[^c-e79f49ece41905f06d6a6707b16527ff]**purported added pension payment**” means a payment—
   - (a) which was made by either—
     - (i) a person “P” who has remediable service in a judicial office; or
     - (ii) a relevant fee-paid judge who has relevant service in a judicial office;
@@ -300,9 +300,9 @@ This Chapter applies in relation to an employer or third party who opts to make 
 
 (3) The amount credited to the account is an amount determined by the scheme manager, after consultation with the scheme actuary, having regard to the amount of the lump sum payment.
 
-### CHAPTER 5 — Deemed membership for added pension payments[^key-8fc408c6f467f8a4b8bfd2c6a11fde24]
+### CHAPTER 5 — Deemed membership for added pension payments[^c-8fc408c6f467f8a4b8bfd2c6a11fde24]
 
-#### 23A. Added pension payment or purported added pension payment in respect of judges with remediable service[^key-8ae4ce5086a5e724d6b718a3a14a838b]
+#### 23A. Added pension payment or purported added pension payment in respect of judges with remediable service[^c-8ae4ce5086a5e724d6b718a3a14a838b]
 
 (1) Sub-paragraph (2) applies where—
 
@@ -325,7 +325,7 @@ This Chapter applies in relation to an employer or third party who opts to make 
 
 (4) P is to be treated as an active member of this scheme for all purposes in connection with the added pension payments referred to in sub-paragraph (3)(b).
 
-#### 23B. Purported added pension in respect of relevant fee-paid judges[^key-dd738179acd18e9f1de88754935e392d]
+#### 23B. Purported added pension in respect of relevant fee-paid judges[^c-dd738179acd18e9f1de88754935e392d]
 
 (1)  Sub-paragraph (2) applies where—
 
@@ -460,12 +460,12 @@ The periodical payment period—
 
 ## Annotations
 
-[^key-e79f49ece41905f06d6a6707b16527ff]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2015/76/schedule/1/paragraph/1) inserted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [2(6)(a)](https://www.legislation.gov.uk/nisr/2024/106/regulation/2/6/a)
+[^c-e79f49ece41905f06d6a6707b16527ff]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2015/76/schedule/1/paragraph/1) inserted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [2(6)(a)](https://www.legislation.gov.uk/nisr/2024/106/regulation/2/6/a)
 
 [^c22374701]: Marginal citation: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7).
 
-[^key-8fc408c6f467f8a4b8bfd2c6a11fde24]: Textual amendment: [Sch. 1 paras. 23A-23B](https://www.legislation.gov.uk/nisr/2015/76/schedule/1/paragraph/23A) and cross-heading inserted (24.7.2023) by [The Judicial Pensions (Remediable Service etc.) Regulations (Northern Ireland) 2023 (S.R. 2023/107)](https://www.legislation.gov.uk/nisr/2023/107), [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b), [Sch. para. 6](https://www.legislation.gov.uk/nisr/2023/107/schedule/paragraph/6)
+[^c-8fc408c6f467f8a4b8bfd2c6a11fde24]: Textual amendment: [Sch. 1 paras. 23A-23B](https://www.legislation.gov.uk/nisr/2015/76/schedule/1/paragraph/23A) and cross-heading inserted (24.7.2023) by [The Judicial Pensions (Remediable Service etc.) Regulations (Northern Ireland) 2023 (S.R. 2023/107)](https://www.legislation.gov.uk/nisr/2023/107), [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b), [Sch. para. 6](https://www.legislation.gov.uk/nisr/2023/107/schedule/paragraph/6)
 
-[^key-8ae4ce5086a5e724d6b718a3a14a838b]: Textual amendment: [Sch. 1 para. 23A](https://www.legislation.gov.uk/nisr/2015/76/schedule/1/paragraph/23A) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [2(6)(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/2/6/b)
+[^c-8ae4ce5086a5e724d6b718a3a14a838b]: Textual amendment: [Sch. 1 para. 23A](https://www.legislation.gov.uk/nisr/2015/76/schedule/1/paragraph/23A) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [2(6)(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/2/6/b)
 
-[^key-dd738179acd18e9f1de88754935e392d]: Textual amendment: [Sch. 1 para. 23B](https://www.legislation.gov.uk/nisr/2015/76/schedule/1/paragraph/23B) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [2(6)(c)](https://www.legislation.gov.uk/nisr/2024/106/regulation/2/6/c)
+[^c-dd738179acd18e9f1de88754935e392d]: Textual amendment: [Sch. 1 para. 23B](https://www.legislation.gov.uk/nisr/2015/76/schedule/1/paragraph/23B) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [2(6)(c)](https://www.legislation.gov.uk/nisr/2024/106/regulation/2/6/c)

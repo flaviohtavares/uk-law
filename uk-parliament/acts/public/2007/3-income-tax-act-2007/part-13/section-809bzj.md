@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 809BZJ. Type 3 finance arrangement defined[^key-938e27ad2ec36b50afe307c184f2fb64]
+## 809BZJ. Type 3 finance arrangement defined[^c-938e27ad2ec36b50afe307c184f2fb64]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,7 +29,7 @@ summary: ''
 - (c) there is a relevant change in relation to the partnership (see section 809BZG), and
 - (d) under the arrangement the share in the partnership's profits of the person involved in the change is determined by reference (wholly or partly) to payments in respect of the security.
 
-(2A)[^key-03141e3353fca4e7d02482b2de33399d] For the purposes of subsection (2)(d) it does not matter if any determination of the share in the partnership's profits of the person involved in the relevant change as mentioned is subject to any condition.
+(2A)[^c-03141e3353fca4e7d02482b2de33399d] For the purposes of subsection (2)(d) it does not matter if any determination of the share in the partnership's profits of the person involved in the relevant change as mentioned is subject to any condition.
 
 (3) Condition B is that in accordance with generally accepted accounting practice—
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-938e27ad2ec36b50afe307c184f2fb64]: Textual amendment: Ss. 809BZJ-809BZL and cross-heading inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2010/8/schedule/5/paragraph/4) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-938e27ad2ec36b50afe307c184f2fb64]: Textual amendment: Ss. 809BZJ-809BZL and cross-heading inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2010/8/schedule/5/paragraph/4) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-03141e3353fca4e7d02482b2de33399d]: Textual amendment: S. 809BZJ(2A) inserted (17.7.2012) (with effect in accordance with Sch. 13 para. 42 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 13 para. 36](https://www.legislation.gov.uk/ukpga/2012/14/schedule/13/paragraph/36)
+[^c-03141e3353fca4e7d02482b2de33399d]: Textual amendment: S. 809BZJ(2A) inserted (17.7.2012) (with effect in accordance with Sch. 13 para. 42 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 13 para. 36](https://www.legislation.gov.uk/ukpga/2012/14/schedule/13/paragraph/36)

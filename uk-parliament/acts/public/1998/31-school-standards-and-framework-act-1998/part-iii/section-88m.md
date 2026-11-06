@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88M. Co-ordination of admission arrangements[^key-fff7d3364a51a0a8358573f4fba9676d]
+## 88M. Co-ordination of admission arrangements[^c-fff7d3364a51a0a8358573f4fba9676d]
 
 *Extent: E+W*
 
-(1) Regulations may require a local authority[^key-5177265949adaa73e26402711f36dc2e] in England—
+(1) Regulations may require a local authority[^c-5177265949adaa73e26402711f36dc2e] in England—
 
 - (a) to formulate, for any academic year in relation to which prescribed conditions are satisfied, a qualifying scheme for co-ordinating the arrangements for the admission of pupils to maintained schools in their area, and
 - (b) to take prescribed action with a view to securing the adoption of the scheme by themselves and each governing body who are the admission authority for a maintained school in their area.
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fff7d3364a51a0a8358573f4fba9676d]: Textual amendment: Ss. 88B-88Q inserted (2.12.2008 for specified purposes, 26.1.2009 in so far as not already in force) by [Education and Skills Act 2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25), [ss. 151(4)](https://www.legislation.gov.uk/ukpga/2008/25/section/151/4), [173(2)(b)(4)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/2/b/4); [S.I. 2008/3077](https://www.legislation.gov.uk/uksi/2008/3077), [arts. 2(a)](https://www.legislation.gov.uk/uksi/2008/3077/article/2/a), [4(d)](https://www.legislation.gov.uk/uksi/2008/3077/article/4/d)
+[^c-fff7d3364a51a0a8358573f4fba9676d]: Textual amendment: Ss. 88B-88Q inserted (2.12.2008 for specified purposes, 26.1.2009 in so far as not already in force) by [Education and Skills Act 2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25), [ss. 151(4)](https://www.legislation.gov.uk/ukpga/2008/25/section/151/4), [173(2)(b)(4)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/2/b/4); [S.I. 2008/3077](https://www.legislation.gov.uk/uksi/2008/3077), [arts. 2(a)](https://www.legislation.gov.uk/uksi/2008/3077/article/2/a), [4(d)](https://www.legislation.gov.uk/uksi/2008/3077/article/4/d)
 
-[^key-5177265949adaa73e26402711f36dc2e]: Textual amendment: Words in Act substituted (5.5.2010) by The Local Education Authorities and Children’s [Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 10(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/2) (with [Sch. 2 para. 10(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/4))
+[^c-5177265949adaa73e26402711f36dc2e]: Textual amendment: Words in Act substituted (5.5.2010) by The Local Education Authorities and Children’s [Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 10(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/2) (with [Sch. 2 para. 10(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/4))

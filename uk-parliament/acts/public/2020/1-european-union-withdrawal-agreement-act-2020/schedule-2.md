@@ -26,7 +26,7 @@ Section 15
 
 #### Status
 
-**1.**[^key-cc7385cb7206e600931f5e68450319e0] (1) The IMA is not to be regarded—
+**1.**[^c-cc7385cb7206e600931f5e68450319e0] (1) The IMA is not to be regarded—
 
 - (a) as the servant or agent of the Crown, or
 - (b) as enjoying any status, immunity or privilege of the Crown.
@@ -38,7 +38,7 @@ Section 15
 
 #### Membership
 
-**2.**[^key-1006b3b040853a99bc61812a46803997] (1) The IMA is to consist of the following members—
+**2.**[^c-1006b3b040853a99bc61812a46803997] (1) The IMA is to consist of the following members—
 
 - (a) a chair (who is to be a non-executive member),
 - (b) at least 2 but not more than 6 other non-executive members,
@@ -63,7 +63,7 @@ Section 15
 
 #### Interim chief executive
 
-**3.**[^key-97acc472d31a0aee5b6599ab85097660] (1) The Secretary of State may appoint a person to be the IMA's chief executive until the appointment of a chief executive by the non-executive members under paragraph 2(3) first takes effect.
+**3.**[^c-97acc472d31a0aee5b6599ab85097660] (1) The Secretary of State may appoint a person to be the IMA's chief executive until the appointment of a chief executive by the non-executive members under paragraph 2(3) first takes effect.
 
 (2) A chief executive appointed by the Secretary of State may incur expenditure and do other things in the name and on behalf of the IMA until the membership of the IMA is first constituted in accordance with paragraph 2(1).
 
@@ -71,7 +71,7 @@ Section 15
 
 #### Requirements relating to appointment
 
-**4.**[^key-26f0570e858f488a4c5ac24a4eb778ae] (1) In making appointments, the Secretary of State and the non-executive members must have regard to the desirability of the IMA's members (between them) having knowledge of conditions in the United Kingdom relating to matters in relation to which provision is made in Part 2 of the withdrawal agreement and Part 2 of the EEA EFTA separation agreement (“the relevant matters”).
+**4.**[^c-26f0570e858f488a4c5ac24a4eb778ae] (1) In making appointments, the Secretary of State and the non-executive members must have regard to the desirability of the IMA's members (between them) having knowledge of conditions in the United Kingdom relating to matters in relation to which provision is made in Part 2 of the withdrawal agreement and Part 2 of the EEA EFTA separation agreement (“the relevant matters”).
 
 (2) The Secretary of State must, so far as possible, ensure that the non-executive members of the IMA include—
 
@@ -87,7 +87,7 @@ Section 15
 
 #### Procedure for appointing members with knowledge of conditions in devolved areas etc.
 
-**5.**[^key-abb8c7a1bed5f273797203d785766560] (1) This paragraph applies in relation to the appointment of non-executive members for the purposes of paragraph 4(2) and (3).
+**5.**[^c-abb8c7a1bed5f273797203d785766560] (1) This paragraph applies in relation to the appointment of non-executive members for the purposes of paragraph 4(2) and (3).
 
 (2) Before making an appointment, the Secretary of State must tell the relevant authority who the Secretary of State proposes to appoint and why.
 
@@ -116,7 +116,7 @@ Section 15
 
 #### Non-executive members: terms of appointment and tenure etc.
 
-**6.**[^key-b8948bc0bad2ca58858243e2dc02e897] (1) A person holds and vacates office as a non-executive member of the IMA in accordance with the terms and conditions of the person's appointment.
+**6.**[^c-b8948bc0bad2ca58858243e2dc02e897] (1) A person holds and vacates office as a non-executive member of the IMA in accordance with the terms and conditions of the person's appointment.
 
 (2) The terms and conditions of a person's appointment as a non-executive member of the IMA are to be determined by the Secretary of State, subject to the following provisions of this Schedule.
 
@@ -138,7 +138,7 @@ Section 15
 
 #### Remuneration of non-executive members
 
-**7.**[^key-9495ac292c5d2a7efda7abac60ae8bcb] (1) The IMA must pay its non-executive members such remuneration as the Secretary of State may determine.
+**7.**[^c-9495ac292c5d2a7efda7abac60ae8bcb] (1) The IMA must pay its non-executive members such remuneration as the Secretary of State may determine.
 
 (2) The IMA must pay, or make provision for paying, to or in respect of any person who is or has been a non-executive member such sums as the Secretary of State may determine in respect of allowances and gratuities.
 
@@ -151,7 +151,7 @@ Section 15
 
 #### Staffing of the IMA
 
-**8.**[^key-e2d90af642e30057b8efeaf07d19ad97] (1) The IMA may—
+**8.**[^c-e2d90af642e30057b8efeaf07d19ad97] (1) The IMA may—
 
 - (a) appoint employees (in addition to the executive members), and
 - (b) make such other arrangements for the staffing of the IMA as it considers appropriate.
@@ -179,7 +179,7 @@ Section 15
 
 #### Procedure
 
-**9.**[^key-dcd1820044a09dcdf630c26f9e16f7c7] (1) The IMA may regulate its own procedure, subject to the following.
+**9.**[^c-dcd1820044a09dcdf630c26f9e16f7c7] (1) The IMA may regulate its own procedure, subject to the following.
 
 (2) The IMA must establish and maintain a register of members' interests.
 
@@ -202,7 +202,7 @@ Section 15
 
 #### Discharge of functions
 
-**10.**[^key-4c6075081d701a86e31e10924235b77a] (1) The IMA may authorise a committee, member or employee of the IMA to do anything the IMA may do apart from approving an annual report to be provided as mentioned in paragraph 31.
+**10.**[^c-4c6075081d701a86e31e10924235b77a] (1) The IMA may authorise a committee, member or employee of the IMA to do anything the IMA may do apart from approving an annual report to be provided as mentioned in paragraph 31.
 
 (2) A committee of the IMA may authorise the following to do anything which the committee may do under sub-paragraph (1)—
 
@@ -215,7 +215,7 @@ Section 15
 
 #### Seal and evidence
 
-**11.**[^key-b19b8b0fc50d05cc1d8f0744c0e029dd] (1) The application of the IMA's seal must be authenticated by the signature of—
+**11.**[^c-b19b8b0fc50d05cc1d8f0744c0e029dd] (1) The application of the IMA's seal must be authenticated by the signature of—
 
 - (a) the chief executive of the IMA, or
 - (b) some other person authorised for that purpose by the IMA.
@@ -229,18 +229,18 @@ Section 15
 
 #### Funding
 
-**12.**[^key-24eec17fb586aa8f764c03625e223165] The Secretary of State must pay to the IMA such sums as the Secretary of State considers appropriate for the purpose of enabling the IMA to exercise its functions.
+**12.**[^c-24eec17fb586aa8f764c03625e223165] The Secretary of State must pay to the IMA such sums as the Secretary of State considers appropriate for the purpose of enabling the IMA to exercise its functions.
 
 #### Operational independence
 
-**13.**[^key-11eb8c20b19edabeaf2bb8d63ee79d74] In exercising functions in respect of the IMA, the Secretary of State must have regard to the need to protect—
+**13.**[^c-11eb8c20b19edabeaf2bb8d63ee79d74] In exercising functions in respect of the IMA, the Secretary of State must have regard to the need to protect—
 
 - (a) its operational independence, and
 - (b) its ability to make impartial assessments when exercising its functions.
 
 #### Accounts and audit
 
-**14.**[^key-4ca584d1dfdaf34ec335d7c8390e247c] (1) The IMA must—
+**14.**[^c-4ca584d1dfdaf34ec335d7c8390e247c] (1) The IMA must—
 
 - (a) keep proper accounts and proper records in relation to them, and
 - (b) prepare a statement of accounts in respect of each financial year.
@@ -267,7 +267,7 @@ Section 15
 
 #### Annual plan
 
-**15.**[^key-f6ce1a6bd47d3a756ba99968323878c3] (1) The IMA—
+**15.**[^c-f6ce1a6bd47d3a756ba99968323878c3] (1) The IMA—
 
 - (a) must prepare, for each financial year, a plan for the exercise during that year of its functions (“the annual plan”), and
 - (b) may revise the annual plan.
@@ -283,27 +283,27 @@ Section 15
 
 #### Public records
 
-**16.**[^key-6c400f7a11b44cc845f3e2f463788486] In Part 2 of the Table in paragraph 3 of Schedule 1 to the Public Records Act 1958 (definition of public records), at the appropriate place, insert— “ Independent Monitoring Authority for the Citizens' Rights Agreements. ”
+**16.**[^c-6c400f7a11b44cc845f3e2f463788486] In Part 2 of the Table in paragraph 3 of Schedule 1 to the Public Records Act 1958 (definition of public records), at the appropriate place, insert— “ Independent Monitoring Authority for the Citizens' Rights Agreements. ”
 
 #### Investigation by the Parliamentary Commissioner
 
-**17.**[^key-2dd870f7b3b97f3ee0e4f67c9c3827ba] In Schedule 2 to the Parliamentary Commissioner Act 1967 (departments etc. subject to investigation), at the appropriate place, insert— “ Independent Monitoring Authority for the Citizens' Rights Agreements. ”
+**17.**[^c-2dd870f7b3b97f3ee0e4f67c9c3827ba] In Schedule 2 to the Parliamentary Commissioner Act 1967 (departments etc. subject to investigation), at the appropriate place, insert— “ Independent Monitoring Authority for the Citizens' Rights Agreements. ”
 
 #### House of Commons disqualification
 
-**18.**[^key-90fc06e83256375b5e5a7759b7c4c899] In Part 2 of Schedule 1 to the House of Commons Disqualification Act 1975 (bodies of which all members are disqualified), at the appropriate place, insert— “ The Independent Monitoring Authority for the Citizens' Rights Agreements. ”
+**18.**[^c-90fc06e83256375b5e5a7759b7c4c899] In Part 2 of Schedule 1 to the House of Commons Disqualification Act 1975 (bodies of which all members are disqualified), at the appropriate place, insert— “ The Independent Monitoring Authority for the Citizens' Rights Agreements. ”
 
 #### Northern Ireland Assembly disqualification
 
-**19.**[^key-72b1606e0aeaaebd245169d1ebf7bdbf] In Part 2 of Schedule 1 to the Northern Ireland Assembly Disqualification Act 1975 (bodies of which all members are disqualified), at the appropriate place, insert— “ The Independent Monitoring Authority for the Citizens' Rights Agreements. ”
+**19.**[^c-72b1606e0aeaaebd245169d1ebf7bdbf] In Part 2 of Schedule 1 to the Northern Ireland Assembly Disqualification Act 1975 (bodies of which all members are disqualified), at the appropriate place, insert— “ The Independent Monitoring Authority for the Citizens' Rights Agreements. ”
 
 #### Freedom of information
 
-**20.**[^key-0ffcf777dc2fa49cf9427d125c66b4bd] In Part 6 of Schedule 1 to the Freedom of Information Act 2000 (public authorities to which that Act applies), at the appropriate place, insert— “ The Independent Monitoring Authority for the Citizens' Rights Agreements. ”
+**20.**[^c-0ffcf777dc2fa49cf9427d125c66b4bd] In Part 6 of Schedule 1 to the Freedom of Information Act 2000 (public authorities to which that Act applies), at the appropriate place, insert— “ The Independent Monitoring Authority for the Citizens' Rights Agreements. ”
 
 #### Public sector equality duty
 
-**21.**[^key-adf2e0b988a88578fafbdcbc5b86b9a5] In Part 1 of Schedule 19 to the Equality Act 2010 (authorities subject to the public sector equality duty), after the group of entries under the heading “Broadcasting”, insert—
+**21.**[^c-adf2e0b988a88578fafbdcbc5b86b9a5] In Part 1 of Schedule 19 to the Equality Act 2010 (authorities subject to the public sector equality duty), after the group of entries under the heading “Broadcasting”, insert—
 
 > *Citizens' rights*
 >
@@ -313,14 +313,14 @@ Section 15
 
 #### General duties
 
-**22.** (1)[^key-a92861727908107f0e917546d68788af] The IMA must monitor the implementation and application in the United Kingdom of Part 2 of the withdrawal agreement and Part 2 of the EEA EFTA separation agreement.
+**22.** (1)[^c-a92861727908107f0e917546d68788af] The IMA must monitor the implementation and application in the United Kingdom of Part 2 of the withdrawal agreement and Part 2 of the EEA EFTA separation agreement.
 
-(2)[^key-a92861727908107f0e917546d68788af] The duty in sub-paragraph (1) includes keeping under review the adequacy and effectiveness of—
+(2)[^c-a92861727908107f0e917546d68788af] The duty in sub-paragraph (1) includes keeping under review the adequacy and effectiveness of—
 
 - (a) the legislative framework which implements or otherwise deals with matters arising out of, or related to, Part 2, and
 - (b) the exercise by relevant public authorities of functions in relation to Part 2.
 
-(3)[^key-78fbc7ec7cb276e08cd351ed1763d093] In this Schedule—
+(3)[^c-78fbc7ec7cb276e08cd351ed1763d093] In this Schedule—
 
 - “**Part 2**” means Part 2 of the withdrawal agreement or (as the case may be) Part 2 of the EEA EFTA separation agreement, so far as the Part in question applies to and in the United Kingdom;
 - “**relevant public authority**” means the Secretary of State or any other person who exercises functions of a public nature, apart from—
@@ -328,18 +328,18 @@ Section 15
   - (b) either House of Parliament or a person exercising functions in connection with proceedings in Parliament;
   - (c) the devolved legislatures or a person exercising functions in connection with proceedings in any of the devolved legislatures.
 
-**23.**[^key-11d2c0731d808d42d280aa278aa648bb] (1) The IMA must promote the adequate and effective implementation and application in the United Kingdom of Part 2 of the withdrawal agreement and Part 2 of the EEA EFTA separation agreement.
+**23.**[^c-11d2c0731d808d42d280aa278aa648bb] (1) The IMA must promote the adequate and effective implementation and application in the United Kingdom of Part 2 of the withdrawal agreement and Part 2 of the EEA EFTA separation agreement.
 
 (2) For related functions see—
 
 - (a) paragraph 27 (reports following an inquiry), and
 - (b) paragraph 30 (instituting or intervening in legal proceedings).
 
-**24.**[^key-24efe3ac0f37ae8af44d389465fe7ec8] In exercising its functions, the IMA must have regard to the importance of addressing general or systemic failings in the implementation or application of Part 2.
+**24.**[^c-24efe3ac0f37ae8af44d389465fe7ec8] In exercising its functions, the IMA must have regard to the importance of addressing general or systemic failings in the implementation or application of Part 2.
 
 #### Inquiries
 
-**25.**[^key-0abf159587dcf968b590c2075757ee20] (1) Subject to sub-paragraph (3), the IMA may carry out an inquiry—
+**25.**[^c-0abf159587dcf968b590c2075757ee20] (1) Subject to sub-paragraph (3), the IMA may carry out an inquiry—
 
 - (a) in response to a request from the Secretary of State,
 - (b) in response to a request from the Scottish Ministers relating to a relevant public authority which is a Scottish public authority with mixed functions or no reserved functions (within the meaning of the Scotland Act 1998),
@@ -366,7 +366,7 @@ Section 15
 
 (5) Among the reasons the IMA may decide not to carry out an inquiry is if it considers that there are no reasonable grounds to believe that the inquiry may identify general or systemic failings in the implementation or application of Part 2.
 
-**26.**[^key-c7eb64bfda6fc2820beb91fa9a9eec41] (1) The IMA must publish its intention to carry out an inquiry.
+**26.**[^c-c7eb64bfda6fc2820beb91fa9a9eec41] (1) The IMA must publish its intention to carry out an inquiry.
 
 (2) Where an inquiry is about matters raised in a complaint by a person under paragraph 29(1)(a) or (b), the IMA must invite representations from—
 
@@ -382,7 +382,7 @@ Section 15
 
 #### Reports following an inquiry
 
-**27.**[^key-ba1955dbdfdc0f1480c45aa2525ec94d] (1) When the IMA has carried out an inquiry under paragraph 25, it must—
+**27.**[^c-ba1955dbdfdc0f1480c45aa2525ec94d] (1) When the IMA has carried out an inquiry under paragraph 25, it must—
 
 - (a) prepare a written report of its conclusions, and
 - (b) include in the report any recommendations it considers appropriate to be made to a relevant public authority to promote the adequate and effective implementation or application of Part 2.
@@ -401,7 +401,7 @@ Section 15
 - (c) any relevant public authority to which a recommendation is made in the report, and
 - (d) any other relevant public authority the IMA considers appropriate.
 
-**28.**[^key-d9b9526ed8fe2f9edd422865ff99323f] (1) Where a report under paragraph 27 includes recommendations to a relevant public authority, the authority must—
+**28.**[^c-d9b9526ed8fe2f9edd422865ff99323f] (1) Where a report under paragraph 27 includes recommendations to a relevant public authority, the authority must—
 
 - (a) have regard to the recommendations, and
 - (b) publish a response to the recommendations expeditiously and, in any event, within the period of 3 months beginning with the day on which the IMA published its report.
@@ -413,7 +413,7 @@ Section 15
 
 #### Complaints
 
-**29.**[^key-ab8457e84639474d6a2202441992d1ad] (1) A person who claims to have a relevant right may complain to the IMA that—
+**29.**[^c-ab8457e84639474d6a2202441992d1ad] (1) A person who claims to have a relevant right may complain to the IMA that—
 
 - (a) the United Kingdom has failed to comply with Part 2;
 - (b) a relevant public authority has acted or is proposing to act in a way that prevents the person exercising the right in question.
@@ -429,7 +429,7 @@ Section 15
 
 #### Applying for review or intervening in legal proceedings
 
-**30.**[^key-179a12618b72d4cebfc7bb5a486e553d] (1) The IMA may, if it considers it appropriate to do so in order to promote the adequate and effective implementation or application of Part 2—
+**30.**[^c-179a12618b72d4cebfc7bb5a486e553d] (1) The IMA may, if it considers it appropriate to do so in order to promote the adequate and effective implementation or application of Part 2—
 
 - (a) make an application for review, or
 - (b) intervene in any legal proceedings (including proceedings on an application for review).
@@ -445,7 +445,7 @@ Section 15
 
 #### Annual reports for specialised committee etc.
 
-**31.**[^key-4dfd56ea956f9bd4bf1a8adb49000873] (1) The IMA must provide annual reports on the implementation and application of Part 2 of the withdrawal agreement to the specialised committee on citizens' rights established by Article 165(1)(a) of that agreement.
+**31.**[^c-4dfd56ea956f9bd4bf1a8adb49000873] (1) The IMA must provide annual reports on the implementation and application of Part 2 of the withdrawal agreement to the specialised committee on citizens' rights established by Article 165(1)(a) of that agreement.
 
 (2) The IMA must provide annual reports on the implementation and application of Part 2 of the EEA EFTA separation agreement to the Joint Committee established by Article 65(1) of that agreement.
 
@@ -478,7 +478,7 @@ Section 15
 
 #### Guidance
 
-**32.**[^key-73224905a79a9b729e8e467a02392374] (1) The IMA must publish guidance on how it will exercise its functions under paragraphs 22 to 30.
+**32.**[^c-73224905a79a9b729e8e467a02392374] (1) The IMA must publish guidance on how it will exercise its functions under paragraphs 22 to 30.
 
 (2) The guidance must explain how the IMA will give effect to the importance of addressing general or systemic failings in the implementation and application of Part 2.
 
@@ -491,14 +491,14 @@ Section 15
 
 #### Gibraltar
 
-**33.**[^key-805bba10125675e0fc72fd8e7c215a25] The IMA is to exercise any function in relation to Gibraltar which—
+**33.**[^c-805bba10125675e0fc72fd8e7c215a25] The IMA is to exercise any function in relation to Gibraltar which—
 
 - (a) the Gibraltar legislature confers on it, and
 - (b) corresponds to a function which the IMA has in relation to the United Kingdom by virtue of this Schedule.
 
 #### Supplementary power
 
-**34.**[^key-8fa072d48fc28015e94a27900606ae74] (1) Subject to sub-paragraph (2), the IMA may do anything which it thinks necessary or expedient for the purposes of, or in connection with, the exercise of its functions.
+**34.**[^c-8fa072d48fc28015e94a27900606ae74] (1) Subject to sub-paragraph (2), the IMA may do anything which it thinks necessary or expedient for the purposes of, or in connection with, the exercise of its functions.
 
 (2) The IMA may not—
 
@@ -507,13 +507,13 @@ Section 15
 
 #### Cooperation by relevant public authorities
 
-**35.**[^key-9d2100df61f6a4a50d315721a1c95288] A relevant public authority must, so far as reasonably practicable, comply with a request by the IMA to cooperate with it in the exercise of the IMA's functions (including a request to provide information or documents).
+**35.**[^c-9d2100df61f6a4a50d315721a1c95288] A relevant public authority must, so far as reasonably practicable, comply with a request by the IMA to cooperate with it in the exercise of the IMA's functions (including a request to provide information or documents).
 
 ### PART 3 — Further provisions
 
 #### Disclosure of HMRC's information
 
-**36.**[^key-554655f1762ef26b09c61e3ff740d451] (1) Her Majesty's Revenue and Customs (or anyone acting on their behalf) may disclose information for the purpose of—
+**36.**[^c-554655f1762ef26b09c61e3ff740d451] (1) Her Majesty's Revenue and Customs (or anyone acting on their behalf) may disclose information for the purpose of—
 
 - (a) facilitating the exercise by the IMA of any of its functions, or
 - (b) facilitating the exercise by the Secretary of State or another relevant public authority of functions relating to the IMA.
@@ -536,14 +536,14 @@ section 19 of the Commissioners for Revenue and Customs Act 2005 (offence of wro
 
 #### Data protection and disclosure of information
 
-**37.**[^key-b0cda6413e7c79b3fae54e64b885c407] Nothing in this Schedule authorises the making of a disclosure which—
+**37.**[^c-b0cda6413e7c79b3fae54e64b885c407] Nothing in this Schedule authorises the making of a disclosure which—
 
 - (a) contravenes the data protection legislation within the meaning of the Data Protection Act 2018 (see section 3 of that Act), or
 - (b) is prohibited by any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016.
 
 #### Disclosure of information to IMA: national security
 
-**38.**[^key-c6840969e38abaf24b3c82f18c943daf] (1) A relevant public authority must not disclose information to the IMA if a Minister of the Crown certifies that the disclosure would be undesirable for reasons of national security.
+**38.**[^c-c6840969e38abaf24b3c82f18c943daf] (1) A relevant public authority must not disclose information to the IMA if a Minister of the Crown certifies that the disclosure would be undesirable for reasons of national security.
 
 (2) The power conferred by sub-paragraph (1) on a Minister of the Crown is exercisable only by—
 
@@ -552,7 +552,7 @@ section 19 of the Commissioners for Revenue and Customs Act 2005 (offence of wro
 
 #### Transfer of IMA's functions and abolition
 
-**39.**[^key-c9835742ec518a4e7f252be98fe04f89] (1) The Secretary of State may by regulations—
+**39.**[^c-c9835742ec518a4e7f252be98fe04f89] (1) The Secretary of State may by regulations—
 
 - (a) transfer the functions of the IMA to another body that is a relevant public authority, and
 - (b) in view of that transfer of functions, make any modifications that the Secretary of State considers appropriate to the constitutional or funding arrangements or the functions of the transferee.
@@ -585,7 +585,7 @@ section 19 of the Commissioners for Revenue and Customs Act 2005 (offence of wro
 
 (8) In this paragraph “**constitutional arrangements**” has the meaning given by section 3(2) of the Public Bodies Act 2011.
 
-**40.**[^key-4a656ff67f2d159df8a35fb9d09dbded] (1) The Secretary of State may by regulations—
+**40.**[^c-4a656ff67f2d159df8a35fb9d09dbded] (1) The Secretary of State may by regulations—
 
 - (a) remove functions of the IMA, if it appears to the Secretary of State that, in accordance with Article 159(3) of the withdrawal agreement or Article 64(4) of the EEA EFTA separation agreement, it is no longer necessary for the IMA to continue to exercise those functions, or
 - (b) abolish the IMA, if it appears to the Secretary of State that, in accordance with Article 159(3) of the withdrawal agreement and Article 64(4) of the EEA EFTA separation agreement, it is no longer necessary for the IMA to continue to exist.
@@ -596,7 +596,7 @@ section 19 of the Commissioners for Revenue and Customs Act 2005 (offence of wro
 
 #### Interpretation
 
-**41.**[^key-ce704ec68a1a360383a72456e07f5d2b] (1) In this Schedule—
+**41.**[^c-ce704ec68a1a360383a72456e07f5d2b] (1) In this Schedule—
 
 - “**civil servant**” means a person employed in the civil service of the State;
 - “**devolved legislature**” means—
@@ -616,86 +616,86 @@ section 19 of the Commissioners for Revenue and Customs Act 2005 (offence of wro
 
 ## Annotations
 
-[^key-cc7385cb7206e600931f5e68450319e0]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/1) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(m)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/m)
+[^c-cc7385cb7206e600931f5e68450319e0]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/1) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(m)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/m)
 
-[^key-1006b3b040853a99bc61812a46803997]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/2) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(m)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/m)
+[^c-1006b3b040853a99bc61812a46803997]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/2) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(m)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/m)
 
-[^key-97acc472d31a0aee5b6599ab85097660]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/3) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(m)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/m)
+[^c-97acc472d31a0aee5b6599ab85097660]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/3) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(m)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/m)
 
-[^key-26f0570e858f488a4c5ac24a4eb778ae]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/4) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(m)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/m)
+[^c-26f0570e858f488a4c5ac24a4eb778ae]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/4) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(m)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/m)
 
-[^key-abb8c7a1bed5f273797203d785766560]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/5) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(m)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/m)
+[^c-abb8c7a1bed5f273797203d785766560]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/5) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(m)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/m)
 
-[^key-b8948bc0bad2ca58858243e2dc02e897]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/6) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(m)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/m)
+[^c-b8948bc0bad2ca58858243e2dc02e897]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/6) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(m)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/m)
 
-[^key-9495ac292c5d2a7efda7abac60ae8bcb]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/7) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(m)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/m)
+[^c-9495ac292c5d2a7efda7abac60ae8bcb]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/7) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(m)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/m)
 
-[^key-e2d90af642e30057b8efeaf07d19ad97]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/8) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(m)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/m)
+[^c-e2d90af642e30057b8efeaf07d19ad97]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/8) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(m)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/m)
 
-[^key-dcd1820044a09dcdf630c26f9e16f7c7]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/9) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(m)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/m)
+[^c-dcd1820044a09dcdf630c26f9e16f7c7]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/9) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(m)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/m)
 
-[^key-4c6075081d701a86e31e10924235b77a]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/10) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(m)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/m)
+[^c-4c6075081d701a86e31e10924235b77a]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/10) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(m)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/m)
 
-[^key-b19b8b0fc50d05cc1d8f0744c0e029dd]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/11) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(m)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/m)
+[^c-b19b8b0fc50d05cc1d8f0744c0e029dd]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/11) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(m)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/m)
 
-[^key-24eec17fb586aa8f764c03625e223165]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/12) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(m)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/m)
+[^c-24eec17fb586aa8f764c03625e223165]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/12) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(m)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/m)
 
-[^key-11eb8c20b19edabeaf2bb8d63ee79d74]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/13) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(m)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/m)
+[^c-11eb8c20b19edabeaf2bb8d63ee79d74]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/13) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(m)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/m)
 
-[^key-4ca584d1dfdaf34ec335d7c8390e247c]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/14) in force at 19.3.2020 by [S.I. 2020/317](https://www.legislation.gov.uk/uksi/2020/317), [reg. 3(b)(i)](https://www.legislation.gov.uk/uksi/2020/317/regulation/3/b/i)
+[^c-4ca584d1dfdaf34ec335d7c8390e247c]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/14) in force at 19.3.2020 by [S.I. 2020/317](https://www.legislation.gov.uk/uksi/2020/317), [reg. 3(b)(i)](https://www.legislation.gov.uk/uksi/2020/317/regulation/3/b/i)
 
-[^key-f6ce1a6bd47d3a756ba99968323878c3]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/15) in force at 19.3.2020 by [S.I. 2020/317](https://www.legislation.gov.uk/uksi/2020/317), [reg. 3(b)(i)](https://www.legislation.gov.uk/uksi/2020/317/regulation/3/b/i)
+[^c-f6ce1a6bd47d3a756ba99968323878c3]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/15) in force at 19.3.2020 by [S.I. 2020/317](https://www.legislation.gov.uk/uksi/2020/317), [reg. 3(b)(i)](https://www.legislation.gov.uk/uksi/2020/317/regulation/3/b/i)
 
-[^key-6c400f7a11b44cc845f3e2f463788486]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/16) in force at 19.3.2020 by [S.I. 2020/317](https://www.legislation.gov.uk/uksi/2020/317), [reg. 3(b)(i)](https://www.legislation.gov.uk/uksi/2020/317/regulation/3/b/i)
+[^c-6c400f7a11b44cc845f3e2f463788486]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/16) in force at 19.3.2020 by [S.I. 2020/317](https://www.legislation.gov.uk/uksi/2020/317), [reg. 3(b)(i)](https://www.legislation.gov.uk/uksi/2020/317/regulation/3/b/i)
 
-[^key-2dd870f7b3b97f3ee0e4f67c9c3827ba]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/17) in force at 19.3.2020 by [S.I. 2020/317](https://www.legislation.gov.uk/uksi/2020/317), [reg. 3(b)(i)](https://www.legislation.gov.uk/uksi/2020/317/regulation/3/b/i)
+[^c-2dd870f7b3b97f3ee0e4f67c9c3827ba]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/17) in force at 19.3.2020 by [S.I. 2020/317](https://www.legislation.gov.uk/uksi/2020/317), [reg. 3(b)(i)](https://www.legislation.gov.uk/uksi/2020/317/regulation/3/b/i)
 
-[^key-90fc06e83256375b5e5a7759b7c4c899]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/18) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(m)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/m)
+[^c-90fc06e83256375b5e5a7759b7c4c899]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/18) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(m)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/m)
 
-[^key-72b1606e0aeaaebd245169d1ebf7bdbf]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/19) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(m)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/m)
+[^c-72b1606e0aeaaebd245169d1ebf7bdbf]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/19) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(m)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/m)
 
-[^key-0ffcf777dc2fa49cf9427d125c66b4bd]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/20) in force at 19.3.2020 by [S.I. 2020/317](https://www.legislation.gov.uk/uksi/2020/317), [reg. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2020/317/regulation/3/b/ii)
+[^c-0ffcf777dc2fa49cf9427d125c66b4bd]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/20) in force at 19.3.2020 by [S.I. 2020/317](https://www.legislation.gov.uk/uksi/2020/317), [reg. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2020/317/regulation/3/b/ii)
 
-[^key-adf2e0b988a88578fafbdcbc5b86b9a5]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/21) in force at 19.3.2020 by [S.I. 2020/317](https://www.legislation.gov.uk/uksi/2020/317), [reg. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2020/317/regulation/3/b/ii)
+[^c-adf2e0b988a88578fafbdcbc5b86b9a5]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/21) in force at 19.3.2020 by [S.I. 2020/317](https://www.legislation.gov.uk/uksi/2020/317), [reg. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2020/317/regulation/3/b/ii)
 
-[^key-a92861727908107f0e917546d68788af]: Commencement: [Sch. 2 para. 22(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/22/1)[(2)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/22/2) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(h)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/h)
+[^c-a92861727908107f0e917546d68788af]: Commencement: [Sch. 2 para. 22(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/22/1)[(2)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/22/2) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(h)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/h)
 
-[^key-78fbc7ec7cb276e08cd351ed1763d093]: Commencement: [Sch. 2 para. 22(3)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/22/3) in force at 19.3.2020 for specified purposes by [S.I. 2020/317](https://www.legislation.gov.uk/uksi/2020/317), [reg. 3(b)(iii)](https://www.legislation.gov.uk/uksi/2020/317/regulation/3/b/iii)
+[^c-78fbc7ec7cb276e08cd351ed1763d093]: Commencement: [Sch. 2 para. 22(3)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/22/3) in force at 19.3.2020 for specified purposes by [S.I. 2020/317](https://www.legislation.gov.uk/uksi/2020/317), [reg. 3(b)(iii)](https://www.legislation.gov.uk/uksi/2020/317/regulation/3/b/iii)
 
-[^key-11d2c0731d808d42d280aa278aa648bb]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/23) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(h)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/h)
+[^c-11d2c0731d808d42d280aa278aa648bb]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/23) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(h)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/h)
 
-[^key-24efe3ac0f37ae8af44d389465fe7ec8]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/24) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(h)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/h)
+[^c-24efe3ac0f37ae8af44d389465fe7ec8]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/24) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(h)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/h)
 
-[^key-0abf159587dcf968b590c2075757ee20]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/25) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(h)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/h)
+[^c-0abf159587dcf968b590c2075757ee20]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/25) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(h)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/h)
 
-[^key-c7eb64bfda6fc2820beb91fa9a9eec41]: Commencement: [Sch. 2 para. 26](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/26) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(h)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/h)
+[^c-c7eb64bfda6fc2820beb91fa9a9eec41]: Commencement: [Sch. 2 para. 26](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/26) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(h)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/h)
 
-[^key-ba1955dbdfdc0f1480c45aa2525ec94d]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/27) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(h)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/h)
+[^c-ba1955dbdfdc0f1480c45aa2525ec94d]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/27) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(h)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/h)
 
-[^key-d9b9526ed8fe2f9edd422865ff99323f]: Commencement: [Sch. 2 para. 28](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/28) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(h)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/h)
+[^c-d9b9526ed8fe2f9edd422865ff99323f]: Commencement: [Sch. 2 para. 28](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/28) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(h)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/h)
 
-[^key-ab8457e84639474d6a2202441992d1ad]: Commencement: [Sch. 2 para. 29](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/29) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(h)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/h) (with [reg. 10](https://www.legislation.gov.uk/uksi/2020/1622/regulation/10))
+[^c-ab8457e84639474d6a2202441992d1ad]: Commencement: [Sch. 2 para. 29](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/29) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(h)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/h) (with [reg. 10](https://www.legislation.gov.uk/uksi/2020/1622/regulation/10))
 
-[^key-179a12618b72d4cebfc7bb5a486e553d]: Commencement: [Sch. 2 para. 30](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/30) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(h)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/h)
+[^c-179a12618b72d4cebfc7bb5a486e553d]: Commencement: [Sch. 2 para. 30](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/30) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(h)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/h)
 
-[^key-4dfd56ea956f9bd4bf1a8adb49000873]: Commencement: [Sch. 2 para. 31](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/31) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(h)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/h)
+[^c-4dfd56ea956f9bd4bf1a8adb49000873]: Commencement: [Sch. 2 para. 31](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/31) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(h)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/h)
 
-[^key-73224905a79a9b729e8e467a02392374]: Commencement: [Sch. 2 para. 32](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/32) in force at 19.3.2020 by [S.I. 2020/317](https://www.legislation.gov.uk/uksi/2020/317), [reg. 3(b)(iv)](https://www.legislation.gov.uk/uksi/2020/317/regulation/3/b/iv)
+[^c-73224905a79a9b729e8e467a02392374]: Commencement: [Sch. 2 para. 32](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/32) in force at 19.3.2020 by [S.I. 2020/317](https://www.legislation.gov.uk/uksi/2020/317), [reg. 3(b)(iv)](https://www.legislation.gov.uk/uksi/2020/317/regulation/3/b/iv)
 
-[^key-805bba10125675e0fc72fd8e7c215a25]: Commencement: [Sch. 2 para. 33](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/33) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(h)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/h)
+[^c-805bba10125675e0fc72fd8e7c215a25]: Commencement: [Sch. 2 para. 33](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/33) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(h)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/h)
 
-[^key-8fa072d48fc28015e94a27900606ae74]: Commencement: [Sch. 2 para. 34](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/34) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(m)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/m)
+[^c-8fa072d48fc28015e94a27900606ae74]: Commencement: [Sch. 2 para. 34](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/34) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(m)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/m)
 
-[^key-9d2100df61f6a4a50d315721a1c95288]: Commencement: [Sch. 2 para. 35](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/35) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(h)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/h)
+[^c-9d2100df61f6a4a50d315721a1c95288]: Commencement: [Sch. 2 para. 35](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/35) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(h)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/h)
 
-[^key-554655f1762ef26b09c61e3ff740d451]: Commencement: [Sch. 2 para. 36](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/36) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(h)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/h)
+[^c-554655f1762ef26b09c61e3ff740d451]: Commencement: [Sch. 2 para. 36](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/36) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(h)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/h)
 
-[^key-b0cda6413e7c79b3fae54e64b885c407]: Commencement: [Sch. 2 para. 37](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/37) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(h)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/h)
+[^c-b0cda6413e7c79b3fae54e64b885c407]: Commencement: [Sch. 2 para. 37](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/37) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(h)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/h)
 
-[^key-c6840969e38abaf24b3c82f18c943daf]: Commencement: [Sch. 2 para. 38](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/38) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(h)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/h)
+[^c-c6840969e38abaf24b3c82f18c943daf]: Commencement: [Sch. 2 para. 38](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/38) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(h)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/h)
 
-[^key-c9835742ec518a4e7f252be98fe04f89]: Commencement: [Sch. 2 para. 39](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/39) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(h)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/h)
+[^c-c9835742ec518a4e7f252be98fe04f89]: Commencement: [Sch. 2 para. 39](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/39) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(h)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/h)
 
-[^key-4a656ff67f2d159df8a35fb9d09dbded]: Commencement: [Sch. 2 para. 40](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/40) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(h)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/h)
+[^c-4a656ff67f2d159df8a35fb9d09dbded]: Commencement: [Sch. 2 para. 40](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/40) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(h)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/h)
 
-[^key-ce704ec68a1a360383a72456e07f5d2b]: Commencement: [Sch. 2 para. 41](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/41) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(m)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/m)
+[^c-ce704ec68a1a360383a72456e07f5d2b]: Commencement: [Sch. 2 para. 41](https://www.legislation.gov.uk/ukpga/2020/1/schedule/2/paragraph/41) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(m)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/m)

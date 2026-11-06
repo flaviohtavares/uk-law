@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## R11. Participators in pilot schemes[^key-b44d2e15ec811c4da0c72c057cc21a83]
+## R11. Participators in pilot schemes[^c-b44d2e15ec811c4da0c72c057cc21a83]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b44d2e15ec811c4da0c72c057cc21a83]: Textual amendment: [Reg. R11](https://www.legislation.gov.uk/uksi/1995/300/regulation/R11) omitted (1.4.2006) by virtue of [The National Health Service (Pension Scheme, Injury Benefits and Additional Voluntary Contributions) Amendment Regulations 2006 (S.I. 2006/600)](https://www.legislation.gov.uk/uksi/2006/600), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/600/regulation/1/2/a), [17](https://www.legislation.gov.uk/uksi/2006/600/regulation/17)
+[^c-b44d2e15ec811c4da0c72c057cc21a83]: Textual amendment: [Reg. R11](https://www.legislation.gov.uk/uksi/1995/300/regulation/R11) omitted (1.4.2006) by virtue of [The National Health Service (Pension Scheme, Injury Benefits and Additional Voluntary Contributions) Amendment Regulations 2006 (S.I. 2006/600)](https://www.legislation.gov.uk/uksi/2006/600), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/600/regulation/1/2/a), [17](https://www.legislation.gov.uk/uksi/2006/600/regulation/17)

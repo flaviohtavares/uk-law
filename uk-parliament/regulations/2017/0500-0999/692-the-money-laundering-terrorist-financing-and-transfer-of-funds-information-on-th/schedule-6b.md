@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 6B — Changes in Control of Registered Cryptoasset Businesses[^key-d39e71c9845ca8f30a02c5729aa53cd1]
+## Schedule 6B — Changes in Control of Registered Cryptoasset Businesses[^c-d39e71c9845ca8f30a02c5729aa53cd1]
 
 *Extent: E+W+S+N.I.*
 
@@ -239,4 +239,4 @@ In this Schedule—
 
 ## Annotations
 
-[^key-d39e71c9845ca8f30a02c5729aa53cd1]: Textual amendment: [Sch. 6B](https://www.legislation.gov.uk/uksi/2017/692/schedule/6B) substituted (30.6.2026 for the purposes of the substitution of Sch. 6B paras. 1, 2, 5) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2026 (S.I. 2026/621)](https://www.legislation.gov.uk/uksi/2026/621), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/621/regulation/1/2)[(5)](https://www.legislation.gov.uk/uksi/2026/621/regulation/1/5), [37](https://www.legislation.gov.uk/uksi/2026/621/regulation/37)
+[^c-d39e71c9845ca8f30a02c5729aa53cd1]: Textual amendment: [Sch. 6B](https://www.legislation.gov.uk/uksi/2017/692/schedule/6B) substituted (30.6.2026 for the purposes of the substitution of Sch. 6B paras. 1, 2, 5) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2026 (S.I. 2026/621)](https://www.legislation.gov.uk/uksi/2026/621), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/621/regulation/1/2)[(5)](https://www.legislation.gov.uk/uksi/2026/621/regulation/1/5), [37](https://www.legislation.gov.uk/uksi/2026/621/regulation/37)

@@ -45,11 +45,11 @@ The Department of the Environment, in exercise of the powers conferred on it by 
 
 ## PART I — PRELIMINARY
 
-### 1. Citation and commencement[^key-4459afd87b727c3209eb8495a051bafd]
+### 1. Citation and commencement[^c-4459afd87b727c3209eb8495a051bafd]
 
 These Regulations may be cited as the Public Service Vehicles Accessibility Regulations (Northern Ireland) 2003 and shall come into operation on 30th April 2003.
 
-### 2. Interpretation[^key-9982bce09a5c85b7eaf415e84b2b9347]
+### 2. Interpretation[^c-9982bce09a5c85b7eaf415e84b2b9347]
 
 (1) In these Regulations–
 
@@ -96,7 +96,7 @@ These Regulations may be cited as the Public Service Vehicles Accessibility Regu
 
 ## PART II — APPLICATION OF REGULATIONS, EXEMPTIONS AND RECOGNITION
 
-### 3. Application[^key-b74b75543725a48c3811a2f68e5b3135]
+### 3. Application[^c-b74b75543725a48c3811a2f68e5b3135]
 
 (1) These Regulations apply to public service vehicles of the types described respectively in paragraphs (2) to (7) (a “regulated public service vehicle”) in the manner and to the extent set out in this Part.
 
@@ -149,7 +149,7 @@ shall not require a certificate relating to Schedule 1 until 1st September 2022.
 - (a) “first used” is to be construed in accordance with regulation 2(2); and
 - (b) references to a vehicle being “used” or “in use” means the regulated public service vehicle is being used to provide a scheduled service.
 
-### 4. Exemptions[^key-6e92e55dbf70b31abdc15f5e1e9a2f24]
+### 4. Exemptions[^c-6e92e55dbf70b31abdc15f5e1e9a2f24]
 
 (1) The requirements specified in regulation 3 do not apply to a regulated public service vehicle which is–
 
@@ -167,17 +167,17 @@ shall not require a certificate relating to Schedule 1 until 1st September 2022.
 - (a) paragraph 5(3)(b) to (e) of Schedule 1 (boarding lifts and ramps); and
 - (b) paragraphs 7(3)(c) and 4(c) of Schedule 3 (to the extent that they apply to a route number display and destination display fitted in accordance with paragraph 7(1)(b) of that Schedule).
 
-### 5. Recognition of EEA equivalent requirements[^key-a60d8ebb1ab988bbde08ea387f813662]
+### 5. Recognition of EEA equivalent requirements[^c-a60d8ebb1ab988bbde08ea387f813662]
 
 Where there is produced to the Department evidence that satisfies it that a regulated public service vehicle has been found by the competent authority of another EEA State to conform with requirements that are equivalent to all, or some of the requirements prescribed for that vehicle under these Regulations, that vehicle shall, by virtue of that evidence, be regarded as conforming with those (and only those) requirements for the purposes of these Regulations.
 
 ## PART III — ACCESSIBILITY CERTIFICATES
 
-### 6. Introductory[^key-9df4cab0dc1e47e1e1adabbef2dca776]
+### 6. Introductory[^c-9df4cab0dc1e47e1e1adabbef2dca776]
 
 This Part has effect with respect to the issue by a vehicle examiner in respect of a particular regulated public service vehicle under section 41(1)(a) of the Act of a certificate that such provisions of these Regulations as relate to that vehicle are satisifed in respect of it, and in this Part, Part VII and Schedule 4 the certificate so issued is referred to as an “accessibility certificate”.
 
-### 7. Applications and fees for accessibility certificates[^key-ec3554a196f79c5fb651f351275d8514]
+### 7. Applications and fees for accessibility certificates[^c-ec3554a196f79c5fb651f351275d8514]
 
 (1) Every application for an accessibility certificate shall be made to the Department in writing.
 
@@ -190,17 +190,17 @@ This Part has effect with respect to the issue by a vehicle examiner in respect 
   - (i) where the vehicle is required to comply with only one of Schedules 1, 2 or 3, is £10·00, or
   - (ii) where the vehicle is required to comply with either Schedules 1 and 2, or Schedules 1 and 3, is £20·00.
 
-### 8. Accessibility certificate[^key-6acf75c09edd0927206c8034d636fafc]
+### 8. Accessibility certificate[^c-6acf75c09edd0927206c8034d636fafc]
 
 An accessibility certificate shall contain the information set out in Schedule 4.
 
 ## PART IV — APPROVAL OF A VEHICLE AS A TYPE VEHICLE
 
-### 9. Introductory[^key-1a38cee3a5c6e75f0c6f56b5d949105a]
+### 9. Introductory[^c-1a38cee3a5c6e75f0c6f56b5d949105a]
 
 This Part has effect with respect to the approval by the Department under section 42(1) of the Act of a particular regulated public service vehicle as satisfying the provisions of these Regulations, and in this Part and in Part V and Schedules 5 and 6 a vehicle which has been so approved is referred to as a “type vehicle” and an approval so given (which may be in such form as the Department may determine) is referred to as a “type vehicle approval”.
 
-### 10. Applications for type vehicle approval[^key-baa67e63d7ada80a268d1cc47015cc2a]
+### 10. Applications for type vehicle approval[^c-baa67e63d7ada80a268d1cc47015cc2a]
 
 (1) Every application for the approval of a vehicle as a type vehicle shall be made to the Department in writing.
 
@@ -216,11 +216,11 @@ the application may, with the approval of the Department, be made by way of refe
 
 (4) Every application mentioned in paragraphs (1) to (3) shall be accompanied by two sets of such working drawings and such detailed specifications and calculations as the Department may require, and the applicant shall, in respect of every such application, give the Department the facility to inspect and test the vehicle.
 
-### 11. Copies of drawings and specifications[^key-6a3f567b2d24cbe3aabf9b82a5b95381]
+### 11. Copies of drawings and specifications[^c-6a3f567b2d24cbe3aabf9b82a5b95381]
 
 On being given a type vehicle approval, the person who applied for it shall supply to the Department such number of copies of the relevant working drawings, specifications and calculations as the Department may require.
 
-### 12. Fees for approval as a type vehicle[^key-c75876f4335ea842b017ee23d16dd84a]
+### 12. Fees for approval as a type vehicle[^c-c75876f4335ea842b017ee23d16dd84a]
 
 (1) The prescribed fees for the approval of a vehicle as a type vehicle are as follows.
 
@@ -254,31 +254,31 @@ On being given a type vehicle approval, the person who applied for it shall supp
 
 ## PART V — DECLARATIONS OF CONFORMITY TO A TYPE VEHICLE
 
-### 13. Introductory[^key-fd21ec7d8d57259d28435a2f05e183c9]
+### 13. Introductory[^c-fd21ec7d8d57259d28435a2f05e183c9]
 
 This Part applies with respect to the making by an authorised person (being a person authorised by the Department for the purposes of section 42(3) of the Act) of a declaration under that section that a particular regulated public service vehicle conforms in design, construction and equipment with a type vehicle, and in this Part and in Schedule 5 a declaration so made is referred to as a “declaration of conformity”.
 
-### 14. Form of declaration of conformity[^key-77a13236018a60d67a9154bdf45d0584]
+### 14. Form of declaration of conformity[^c-77a13236018a60d67a9154bdf45d0584]
 
 A declaration of conformity shall be made in the form set out in Schedule 5.
 
 ## PART VI — CONFORMITY CERTIFICATES
 
-### 15. Introductory[^key-b9e8a98c0243f9cb9ff8dc8058f5abe5]
+### 15. Introductory[^c-b9e8a98c0243f9cb9ff8dc8058f5abe5]
 
 This Part has effect with respect to the issue by a vehicle examiner of a certificate under section 42(4) of the Act that a declaration of conformity has been issued in respect of a regulated public service vehicle, and a certificate so issued is referred to in this Part and in Part VII and Schedule 6 as a “conformity certificate”.
 
-### 16. Form of conformity certificate[^key-9dac7f735ee2d8cf53bff316a23d63e5]
+### 16. Form of conformity certificate[^c-9dac7f735ee2d8cf53bff316a23d63e5]
 
 A conformity certificate shall be issued in the form set out in Schedule 6.
 
-### 17. Fee for conformity certificate[^key-f99ea0b6b5d69943edbe0209d8e82a4e]
+### 17. Fee for conformity certificate[^c-f99ea0b6b5d69943edbe0209d8e82a4e]
 
 The prescribed fee for a conformity certificate is £15·00.
 
 ## PART VII — MISCELLANEOUS
 
-### 18. Issue of duplicate documentation[^key-c3181623aeafb633f5481bacb7e726bc]
+### 18. Issue of duplicate documentation[^c-c3181623aeafb633f5481bacb7e726bc]
 
 (1) If an accessibility certificate or a conformity certificate has been lost or destroyed, the owner of the vehicle to which it relates shall forthwith notify the Department and the Department, if satisfied that the certificate has been lost or destroyed, may issue a copy of the certificate marked as a duplicate.
 
@@ -290,7 +290,7 @@ The prescribed fee for a conformity certificate is £15·00.
 
 (5) The prescribed fee for the issue of a copy of a certificate under this regulation is £10·00.
 
-### 19. Reviews and appeals[^key-357d23162db44e001f53b139d917ae87]
+### 19. Reviews and appeals[^c-357d23162db44e001f53b139d917ae87]
 
 (1) This regulation applies where the Department refuses to issue a type vehicle approval under section 42(1) of the Act and where a vehicle examiner refuses to issue an accessibility certificate under section 41(1)(a) of the Act or a conformity certificate under section 42(4) of the Act.
 
@@ -322,7 +322,7 @@ Regulation 3
 
 ### PART I — wheelchair accessibility requirements
 
-#### 1. Definitions[^key-936510ff21890da19008c148a89506c4]
+#### 1. Definitions[^c-936510ff21890da19008c148a89506c4]
 
 In this Schedule–
 
@@ -349,7 +349,7 @@ In this Schedule–
 - “wheelchair user” means a disabled person using a wheelchair; and
 - “wheelchair user restraint” means a system which is designed to keep a wheelchair user restrained in the wheelchair.
 
-#### 2. Wheelchair spaces[^key-d43118b7bff67e7c21c5f46848fa0ac2]
+#### 2. Wheelchair spaces[^c-d43118b7bff67e7c21c5f46848fa0ac2]
 
 (1) A regulated public service vehicle shall be fitted with not less than one wheelchair space.
 
@@ -360,7 +360,7 @@ In this Schedule–
 - (a) shall comply with the requirements of paragraph 3; or
 - (b) where the vehicle is adapted to carry standing passengers and is not fitted with any seat belts for passengers which are required to be fitted by regulation, may comply with the requirements of paragraph 4 as an alternative to the requirements of paragraph 3.
 
-#### 3. Forward-facing wheelchairs[^key-d9269021398e24d7be9b3a889044d52e]
+#### 3. Forward-facing wheelchairs[^c-d9269021398e24d7be9b3a889044d52e]
 
 (1) Any wheelchair space fitted to a regulated public service vehicle shall comply with the following requirements–
 
@@ -433,7 +433,7 @@ In this Schedule–
 - (c) in the case of the test specified in sub-paragraph (7), the wheelchair shall not move more than 200mm in the longitudinal plane of the vehicle during the test; and
 - (d) no part of the system shall be deformed to such an extent after completion of the test that, because of sharp edges or other protrusions, the part is capable of causing injury.
 
-#### 4. Rearward-facing wheelchairs[^key-c5eb21d6704a6745a0f5aeeb946a4ecb]
+#### 4. Rearward-facing wheelchairs[^c-c5eb21d6704a6745a0f5aeeb946a4ecb]
 
 (1) Any wheelchair space fitted to a regulated public service vehicle shall comply with the following requirements–
 
@@ -488,7 +488,7 @@ In this Schedule–
 
 (8) In this paragraph, the phrase “front end of a wheelchair space” means the end of a wheelchair space that is closer to the front of the regulated public service vehicle to which the wheelchair space is fitted.
 
-#### 5. Boarding lifts and ramps[^key-e2ead11c961127f4c62a9c70824071c1]
+#### 5. Boarding lifts and ramps[^c-e2ead11c961127f4c62a9c70824071c1]
 
 (1) A regulated public service vehicle shall be fitted with not less than one boarding lift or one boarding ramp, or shall carry not less than one portable ramp.
 
@@ -559,7 +559,7 @@ In this Schedule–
 
 (11) In this paragraph “master control” means a control which enables another control to activate the relevant system, but which is not itself alone capable of activating that system.
 
-#### 6. Entrances and exits[^key-88f92f2add252a5b328ee532611888f1]
+#### 6. Entrances and exits[^c-88f92f2add252a5b328ee532611888f1]
 
 (1) Any entrance or exit which is intended to provide access for a wheelchair user shall have a clear unobstructed width of not less than 800mm.
 
@@ -570,7 +570,7 @@ In this Schedule–
 
 (3) Sub-paragraph (2) shall not apply to a power-operated boarding lift or a power-operated ramp which can only be operated by a control fitted in accordance with paragraph 5(5)(a)(ii).
 
-#### 7. Gangways[^key-f03e1ad73258406db9aad6bc9d882a78]
+#### 7. Gangways[^c-f03e1ad73258406db9aad6bc9d882a78]
 
 Any gangway between a wheelchair space and an entrance or exit intended to provide access for a wheelchair user–
 
@@ -578,7 +578,7 @@ Any gangway between a wheelchair space and an entrance or exit intended to provi
 - (b) shall not be less than 750mm wide at any point along the gangway; and
 - (c) where a vehicle is fitted with more than one wheelchair space, the requirement in (a) shall be met with any other wheelchair space occupied with a reference wheelchair.
 
-#### 8. Signs and markings[^key-d4265e27dcd7037e454f3bb3a7d0780e]
+#### 8. Signs and markings[^c-d4265e27dcd7037e454f3bb3a7d0780e]
 
 (1) A regulated public service vehicle shall have a sign conforming with diagram B in Part II of this Schedule, or a sign of equivalent meaning conforming to the dimensions in that diagram, which is–
 
@@ -598,7 +598,7 @@ Any gangway between a wheelchair space and an entrance or exit intended to provi
 
 (3) Where a regulated public service vehicle is fitted with a wheelchair space for a forward facing wheelchair in accordance with the requirements of paragraph 3, instructions on the use of the wheelchair restraint system and wheelchair user restraint shall be situated in a position readily visible to any person using the system.
 
-#### 9. Communication devices[^key-aa7199f6e0a2e04f0f657970ddaaaa38]
+#### 9. Communication devices[^c-aa7199f6e0a2e04f0f657970ddaaaa38]
 
 (1) A communication device shall be fitted to a regulated public service vehicle in the following positions–
 
@@ -625,13 +625,13 @@ Any gangway between a wheelchair space and an entrance or exit intended to provi
 - (a) shall not use only capital letters; and
 - (b) shall display illuminated the word “stopping” or a word or words to that effect immediately a communication device is activated and until at least one of the exits is open.
 
-#### 10. Lighting[^key-55c61affbac7f5b2b170d51ba5ad5308]
+#### 10. Lighting[^c-55c61affbac7f5b2b170d51ba5ad5308]
 
 (1) Lighting shall be fitted to illuminate the interior and exterior of a regulated public service vehicle sufficient to allow a wheelchair user to board and alight from the vehicle in safety.
 
 (2) Any lighting fitted to a regulated public service vehicle in accordance with sub-paragraph (1) shall have a means of preventing its operation when the vehicle is in motion if its use is likely to affect adversely the driver’s vision.
 
-### PART II[^key-405b02e5d5eba4ec8fb423348c8b4dc5]
+### PART II[^c-405b02e5d5eba4ec8fb423348c8b4dc5]
 
 Digram A – Wheelchair Dimensions
 
@@ -645,7 +645,7 @@ Diagram B – Wheelchair Sign
 
 Regulation 3
 
-### 1. Definitions[^key-cbd79747d0f9b4922538f30ddf2481a5]
+### 1. Definitions[^c-cbd79747d0f9b4922538f30ddf2481a5]
 
 In this Schedule–
 
@@ -668,7 +668,7 @@ In this Schedule–
 - “seat” means a seat intended for use by passengers and, accordingly, does not include the driver’s seat or any other seat intended for use solely by a crew member; and
 - “total floor area” means the total floor area of a regulated public service vehicle, or in the case of a double-deck bus the total floor area of the vehicle’s lower deck, excluding the driver’s cab, wheelboxes, stepwells, internal staircases and any space designated for the storage of luggage.
 
-### 2. Floor and gangways[^key-709ca1d59d3bec3726a1bd9d5abd7b52]
+### 2. Floor and gangways[^c-709ca1d59d3bec3726a1bd9d5abd7b52]
 
 (1) All floors within the total floor area of a regulated public service vehicle shall be slip-resistant.
 
@@ -684,7 +684,7 @@ In this Schedule–
 - (a) not less than 450mm up to a height of 1400mm measured vertically from the floor of the vehicle; and
 - (b) not less than 550mm at heights exceeding 1400mm measured vertically from the floor of the vehicle.
 
-### 3. Priority seats[^key-507f2130ac1821343ac6777cd8e14c4d]
+### 3. Priority seats[^c-507f2130ac1821343ac6777cd8e14c4d]
 
 (1) A regulated public service vehicle shall have not less than 4 seats designated by signs complying with sub-paragraph (3) as priority seats for use by disabled persons.
 
@@ -717,7 +717,7 @@ In this Schedule–
 
 (4) In sub-paragraph (2) the phrase “manufacturer’s nominal position for normal use” means the position of an adjustable seat which the manufacturer of the seat recommends, or has nominated, as being the normal position for using that seat.
 
-### 4. Steps[^key-292e2dc841f1631c3719a355a15409ec]
+### 4. Steps[^c-292e2dc841f1631c3719a355a15409ec]
 
 (1) Steps for use by passengers on a regulated public service vehicle shall (subject to sub-paragraph (6)) comply with the following requirements–
 
@@ -753,7 +753,7 @@ In this Schedule–
 
 (6) Sub-paragraphs (1)(d), (e) and (g) shall not apply to those steps in a double-deck bus which lead from the lower deck to the upper deck.
 
-### 5. Handrails and handholds[^key-d00da6a685852b69ab3d108155c9996a]
+### 5. Handrails and handholds[^c-d00da6a685852b69ab3d108155c9996a]
 
 (1) A handrail shall (subject to sub-paragraph (2)) be fitted in the following positions in a regulated public service vehicle–
 
@@ -800,7 +800,7 @@ a horizontal handrail or, at intervals of not more than 300mm, a series of handh
 - (a) it is unlikely to cause injury; and
 - (b) it is easily moveable to the extent required to permit unrestricted access by a disabled person to a priority seat or to the gangway.
 
-### 6. Communication devices[^key-c9a86f51b94cbbbe7fa0b713aaa218b0]
+### 6. Communication devices[^c-c9a86f51b94cbbbe7fa0b713aaa218b0]
 
 (1) A communication device shall be fitted in the following positions in a regulated public service vehicle–
 
@@ -826,7 +826,7 @@ a horizontal handrail or, at intervals of not more than 300mm, a series of handh
 - (a) shall not use only capital letters; and
 - (b) shall display illuminated the word “stopping” or a word or words to that effect immediately a communication device is activated and until at least one of the exits is open.
 
-### 7. Kneeling systems[^key-428c3c3a8b2a2242a56ef5e251acd48a]
+### 7. Kneeling systems[^c-428c3c3a8b2a2242a56ef5e251acd48a]
 
 (1) Where a regulated public service vehicle is fitted with a kneeling system, the vehicle and system shall comply with the following requirements–
 
@@ -841,7 +841,7 @@ a horizontal handrail or, at intervals of not more than 300mm, a series of handh
 
 (2) In this paragraph “emergency door” means an external door which is generally intended for use only in an emergency.
 
-### 8. Route and destination displays[^key-b6acbb68a1cc2b9f018c3f443fbefb64]
+### 8. Route and destination displays[^c-b6acbb68a1cc2b9f018c3f443fbefb64]
 
 (1) A regulated public service vehicle shall be fitted with a route number display and a destination display in the following positions–
 
@@ -876,7 +876,7 @@ a horizontal handrail or, at intervals of not more than 300mm, a series of handh
 
 Regulation 3
 
-### 1. Definitions[^key-d9ba8285a84a4c36596c1cc00cce745d]
+### 1. Definitions[^c-d9ba8285a84a4c36596c1cc00cce745d]
 
 In this Schedule–
 
@@ -893,13 +893,13 @@ In this Schedule–
 - “normal height of travel” means the height specified by the vehicle’s manufacturer for normal vehicle travel; and
 - “seat” means a seat intended for use by passengers and, accordingly, does not include the driver’s seat or any other seat intended for use solely by a crew member.
 
-### 2. Floors and gangways[^key-2d9e0f6ebc6a309fc199df93d83a8914]
+### 2. Floors and gangways[^c-2d9e0f6ebc6a309fc199df93d83a8914]
 
 (1) All floors within a regulated public service vehicle shall be slip-resistant.
 
 (2) Any gangway within a regulated public service vehicle shall have a slope of not more than 5° in any direction, when the vehicle is unladen standing on a level surface and in its normal condition of travel.
 
-### 3. Seats[^key-4932a0f4ddaf3e1ca8c6f48525c8b2d2]
+### 3. Seats[^c-4932a0f4ddaf3e1ca8c6f48525c8b2d2]
 
 (1) Any seat fitted to a regulated public service vehicle shall comply with the following requirements–
 
@@ -917,7 +917,7 @@ In this Schedule–
 
 (2) In this paragraph, “manufacturer’s nominal position for normal use” means the position of an adjustable seat which the manufacturer of the seat recommends, or has nominated, as being the normal position for using the seat.
 
-### 4. Steps[^key-d28388f58303d1787edbbc89460a34e1]
+### 4. Steps[^c-d28388f58303d1787edbbc89460a34e1]
 
 (1) Steps for use by passengers on a regulated public service vehicle shall, except as provided in sub-paragraph (4), comply with the following requirements–
 
@@ -959,7 +959,7 @@ the requirements of sub-paragraphs (1)(d) and (3) shall only apply to one of tho
 - (a) not be capable of operation whilst the vehicle is in motion; and
 - (b) be fitted with a safety device which stops the motion of the step if the step is subject to a reactive force not exceeding 150N in any direction and if that motion could cause injury to a passenger.
 
-### 5. Handrails[^key-e42726a7962963aad7d63dbc90c16747]
+### 5. Handrails[^c-e42726a7962963aad7d63dbc90c16747]
 
 (1) A handrail shall (subject to sub-paragraph (2)) be fitted in the following positions in a regulated public service vehicle–
 
@@ -984,7 +984,7 @@ the requirements of sub-paragraphs (1)(d) and (3) shall only apply to one of tho
 - (e) be capable of being easily and firmly gripped by a passenger; and
 - (f) contrast with the parts of the vehicle adjacent to the handrail.
 
-### 6. Kneeling systems[^key-7024078719e3850919ee9cee19d727f1]
+### 6. Kneeling systems[^c-7024078719e3850919ee9cee19d727f1]
 
 (1) Where a regulated public service vehicle is fitted with a kneeling system, the vehicle and system shall comply with the following requirements–
 
@@ -999,7 +999,7 @@ the requirements of sub-paragraphs (1)(d) and (3) shall only apply to one of tho
 
 (2) In this paragraph “emergency door” means an external door which is generally intended for use only in an emergency.
 
-### 7. Route and destination displays[^key-41209eab33015700e84667efd4b6bc63]
+### 7. Route and destination displays[^c-41209eab33015700e84667efd4b6bc63]
 
 (1) A regulated public service vehicle shall be fitted with a route number display and a destination display in the following positions–
 
@@ -1030,7 +1030,7 @@ the requirements of sub-paragraphs (1)(d) and (3) shall only apply to one of tho
 - “destination” means a word or words to describe the route or final destination; and
 - “route number” means any combination of numbers or letters which designate a coach route.
 
-## SCHEDULE 4[^key-64ed3b2f9880014765dd03683a9bc63f]
+## SCHEDULE 4[^c-64ed3b2f9880014765dd03683a9bc63f]
 
 Regulation 8
 
@@ -1038,7 +1038,7 @@ ACCESSIBILITY CERTIFICATE
 
 [image: see source](https://www.legislation.gov.uk/nisr/2003/37/images/nisr_20030037_en_003)
 
-## SCHEDULE 5[^key-396816cfac0b4ad049961f0a5f58192c]
+## SCHEDULE 5[^c-396816cfac0b4ad049961f0a5f58192c]
 
 Regulation 14
 
@@ -1048,7 +1048,7 @@ declaration of confirmity to an approved type vehicle
 
 [image: see source](https://www.legislation.gov.uk/nisr/2003/37/images/nisr_20030037_en_004)
 
-## SCHEDULE 6[^key-1c142448701cd5a3af22209116f694d6]
+## SCHEDULE 6[^c-1c142448701cd5a3af22209116f694d6]
 
 Regulation 16
 
@@ -1084,9 +1084,9 @@ Copies of the EEC and EC Directives and ECE Regulations referred to in these Reg
 
 [^f00001]: Footnote: [1995 c. 50](https://www.legislation.gov.uk/ukpga/1995/50); sections 40, 41, 44 and 45 are modified in their application to Northern Ireland by paragraphs 24, 25, 28 and 29 respectively of Schedule 8; *see* section 68(1) as substituted by paragraph 47(1) of the said Schedule 8 for the definition of “prescribed” and “regulations”
 
-[^key-4459afd87b727c3209eb8495a051bafd]: Commencement: Reg. 1 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
+[^c-4459afd87b727c3209eb8495a051bafd]: Commencement: Reg. 1 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
 
-[^key-9982bce09a5c85b7eaf415e84b2b9347]: Commencement: Reg. 2 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
+[^c-9982bce09a5c85b7eaf415e84b2b9347]: Commencement: Reg. 2 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
 
 [^f00002]: Footnote: O.J. No. L42, 23.2.70, p. 1
 
@@ -1118,100 +1118,100 @@ Copies of the EEC and EC Directives and ECE Regulations referred to in these Reg
 
 [^f00016]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-b74b75543725a48c3811a2f68e5b3135]: Commencement: Reg. 3 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
+[^c-b74b75543725a48c3811a2f68e5b3135]: Commencement: Reg. 3 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
 
-[^key-6e92e55dbf70b31abdc15f5e1e9a2f24]: Commencement: Reg. 4 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
+[^c-6e92e55dbf70b31abdc15f5e1e9a2f24]: Commencement: Reg. 4 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
 
 [^f00017]: Footnote: [1967 c. 37 (N.I.)](https://www.legislation.gov.uk/apni/1967/37); section 10B was inserted by S.I. [1990/994 (N.I. 7)](https://www.legislation.gov.uk/nisi/1990/994), Article 3
 
-[^key-a60d8ebb1ab988bbde08ea387f813662]: Commencement: Reg. 5 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
+[^c-a60d8ebb1ab988bbde08ea387f813662]: Commencement: Reg. 5 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
 
-[^key-9df4cab0dc1e47e1e1adabbef2dca776]: Commencement: Reg. 6 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
+[^c-9df4cab0dc1e47e1e1adabbef2dca776]: Commencement: Reg. 6 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
 
-[^key-ec3554a196f79c5fb651f351275d8514]: Commencement: Reg. 7 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
+[^c-ec3554a196f79c5fb651f351275d8514]: Commencement: Reg. 7 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
 
-[^key-6acf75c09edd0927206c8034d636fafc]: Commencement: Reg. 8 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
+[^c-6acf75c09edd0927206c8034d636fafc]: Commencement: Reg. 8 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
 
-[^key-1a38cee3a5c6e75f0c6f56b5d949105a]: Commencement: Reg. 9 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
+[^c-1a38cee3a5c6e75f0c6f56b5d949105a]: Commencement: Reg. 9 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
 
-[^key-baa67e63d7ada80a268d1cc47015cc2a]: Commencement: Reg. 10 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
+[^c-baa67e63d7ada80a268d1cc47015cc2a]: Commencement: Reg. 10 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
 
-[^key-6a3f567b2d24cbe3aabf9b82a5b95381]: Commencement: Reg. 11 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
+[^c-6a3f567b2d24cbe3aabf9b82a5b95381]: Commencement: Reg. 11 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
 
-[^key-c75876f4335ea842b017ee23d16dd84a]: Commencement: Reg. 12 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
+[^c-c75876f4335ea842b017ee23d16dd84a]: Commencement: Reg. 12 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
 
-[^key-fd21ec7d8d57259d28435a2f05e183c9]: Commencement: Reg. 13 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
+[^c-fd21ec7d8d57259d28435a2f05e183c9]: Commencement: Reg. 13 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
 
-[^key-77a13236018a60d67a9154bdf45d0584]: Commencement: Reg. 14 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
+[^c-77a13236018a60d67a9154bdf45d0584]: Commencement: Reg. 14 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
 
-[^key-b9e8a98c0243f9cb9ff8dc8058f5abe5]: Commencement: Reg. 15 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
+[^c-b9e8a98c0243f9cb9ff8dc8058f5abe5]: Commencement: Reg. 15 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
 
-[^key-9dac7f735ee2d8cf53bff316a23d63e5]: Commencement: Reg. 16 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
+[^c-9dac7f735ee2d8cf53bff316a23d63e5]: Commencement: Reg. 16 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
 
-[^key-f99ea0b6b5d69943edbe0209d8e82a4e]: Commencement: Reg. 17 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
+[^c-f99ea0b6b5d69943edbe0209d8e82a4e]: Commencement: Reg. 17 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
 
-[^key-c3181623aeafb633f5481bacb7e726bc]: Commencement: Reg. 18 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
+[^c-c3181623aeafb633f5481bacb7e726bc]: Commencement: Reg. 18 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
 
-[^key-357d23162db44e001f53b139d917ae87]: Commencement: Reg. 19 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
+[^c-357d23162db44e001f53b139d917ae87]: Commencement: Reg. 19 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
 
-[^key-936510ff21890da19008c148a89506c4]: Commencement: Sch. 1 para. 1 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
+[^c-936510ff21890da19008c148a89506c4]: Commencement: Sch. 1 para. 1 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
 
 [^f00018]: Footnote: O.J. No. L024, 30.01.76, p. 6; relevant amendments are Council Directives [81/575/EEC](https://www.legislation.gov.uk/european/directive/1981/0575) (O.J. No. L209, 29.07.81, p. 30), [82/318/EEC](https://www.legislation.gov.uk/european/directive/1982/0318) (O.J. No. L139, 19.05.82, p. 9) and [90/629/EEC](https://www.legislation.gov.uk/european/directive/1990/0629) (O.J. No. L341, 6.12.90, p. 14)
 
 [^f00019]: Footnote: O.J. No. L220, 29.08.77, p. 95; relevant amendments are Council Directives [81/576/EEC](https://www.legislation.gov.uk/european/directive/1981/0576) (O.J. No. L209, 29.07.81, p. 32), [82/319/EEC](https://www.legislation.gov.uk/european/directive/1982/0319) (O.J. No. L139, 19.05.82, p. 17) and [90/628/EEC](https://www.legislation.gov.uk/european/directive/1990/0628) (O.J. No. L341, 6.12.90, p. 1)
 
-[^key-d43118b7bff67e7c21c5f46848fa0ac2]: Commencement: Sch. 1 para. 2 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
+[^c-d43118b7bff67e7c21c5f46848fa0ac2]: Commencement: Sch. 1 para. 2 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
 
-[^key-d9269021398e24d7be9b3a889044d52e]: Commencement: Sch. 1 para. 3 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
+[^c-d9269021398e24d7be9b3a889044d52e]: Commencement: Sch. 1 para. 3 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
 
-[^key-c5eb21d6704a6745a0f5aeeb946a4ecb]: Commencement: Sch. 1 para. 4 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
+[^c-c5eb21d6704a6745a0f5aeeb946a4ecb]: Commencement: Sch. 1 para. 4 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
 
-[^key-e2ead11c961127f4c62a9c70824071c1]: Commencement: Sch. 1 para. 5 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
+[^c-e2ead11c961127f4c62a9c70824071c1]: Commencement: Sch. 1 para. 5 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
 
-[^key-88f92f2add252a5b328ee532611888f1]: Commencement: Sch. 1 para. 6 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
+[^c-88f92f2add252a5b328ee532611888f1]: Commencement: Sch. 1 para. 6 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
 
-[^key-f03e1ad73258406db9aad6bc9d882a78]: Commencement: Sch. 1 para. 7 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
+[^c-f03e1ad73258406db9aad6bc9d882a78]: Commencement: Sch. 1 para. 7 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
 
-[^key-d4265e27dcd7037e454f3bb3a7d0780e]: Commencement: Sch. 1 para. 8 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
+[^c-d4265e27dcd7037e454f3bb3a7d0780e]: Commencement: Sch. 1 para. 8 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
 
-[^key-aa7199f6e0a2e04f0f657970ddaaaa38]: Commencement: Sch. 1 para. 9 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
+[^c-aa7199f6e0a2e04f0f657970ddaaaa38]: Commencement: Sch. 1 para. 9 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
 
-[^key-55c61affbac7f5b2b170d51ba5ad5308]: Commencement: Sch. 1 para. 10 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
+[^c-55c61affbac7f5b2b170d51ba5ad5308]: Commencement: Sch. 1 para. 10 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
 
-[^key-405b02e5d5eba4ec8fb423348c8b4dc5]: Commencement: Sch. 1 Pt. II in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
+[^c-405b02e5d5eba4ec8fb423348c8b4dc5]: Commencement: Sch. 1 Pt. II in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
 
-[^key-cbd79747d0f9b4922538f30ddf2481a5]: Commencement: Sch. 2 para. 1 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
+[^c-cbd79747d0f9b4922538f30ddf2481a5]: Commencement: Sch. 2 para. 1 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
 
-[^key-709ca1d59d3bec3726a1bd9d5abd7b52]: Commencement: Sch. 2 para. 2 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
+[^c-709ca1d59d3bec3726a1bd9d5abd7b52]: Commencement: Sch. 2 para. 2 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
 
-[^key-507f2130ac1821343ac6777cd8e14c4d]: Commencement: Sch. 2 para. 3 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
+[^c-507f2130ac1821343ac6777cd8e14c4d]: Commencement: Sch. 2 para. 3 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
 
-[^key-292e2dc841f1631c3719a355a15409ec]: Commencement: Sch. 2 para. 4 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
+[^c-292e2dc841f1631c3719a355a15409ec]: Commencement: Sch. 2 para. 4 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
 
-[^key-d00da6a685852b69ab3d108155c9996a]: Commencement: Sch. 2 para. 5 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
+[^c-d00da6a685852b69ab3d108155c9996a]: Commencement: Sch. 2 para. 5 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
 
-[^key-c9a86f51b94cbbbe7fa0b713aaa218b0]: Commencement: Sch. 2 para. 6 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
+[^c-c9a86f51b94cbbbe7fa0b713aaa218b0]: Commencement: Sch. 2 para. 6 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
 
-[^key-428c3c3a8b2a2242a56ef5e251acd48a]: Commencement: Sch. 2 para. 7 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
+[^c-428c3c3a8b2a2242a56ef5e251acd48a]: Commencement: Sch. 2 para. 7 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
 
-[^key-b6acbb68a1cc2b9f018c3f443fbefb64]: Commencement: Sch. 2 para. 8 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
+[^c-b6acbb68a1cc2b9f018c3f443fbefb64]: Commencement: Sch. 2 para. 8 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
 
-[^key-d9ba8285a84a4c36596c1cc00cce745d]: Commencement: Sch. 3 para. 1 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
+[^c-d9ba8285a84a4c36596c1cc00cce745d]: Commencement: Sch. 3 para. 1 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
 
-[^key-2d9e0f6ebc6a309fc199df93d83a8914]: Commencement: Sch. 3 para. 2 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
+[^c-2d9e0f6ebc6a309fc199df93d83a8914]: Commencement: Sch. 3 para. 2 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
 
-[^key-4932a0f4ddaf3e1ca8c6f48525c8b2d2]: Commencement: Sch. 3 para. 3 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
+[^c-4932a0f4ddaf3e1ca8c6f48525c8b2d2]: Commencement: Sch. 3 para. 3 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
 
-[^key-d28388f58303d1787edbbc89460a34e1]: Commencement: Sch. 3 para. 4 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
+[^c-d28388f58303d1787edbbc89460a34e1]: Commencement: Sch. 3 para. 4 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
 
-[^key-e42726a7962963aad7d63dbc90c16747]: Commencement: Sch. 3 para. 5 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
+[^c-e42726a7962963aad7d63dbc90c16747]: Commencement: Sch. 3 para. 5 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
 
-[^key-7024078719e3850919ee9cee19d727f1]: Commencement: Sch. 3 para. 6 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
+[^c-7024078719e3850919ee9cee19d727f1]: Commencement: Sch. 3 para. 6 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
 
-[^key-41209eab33015700e84667efd4b6bc63]: Commencement: Sch. 3 para. 7 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
+[^c-41209eab33015700e84667efd4b6bc63]: Commencement: Sch. 3 para. 7 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
 
-[^key-64ed3b2f9880014765dd03683a9bc63f]: Commencement: Sch. 4 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
+[^c-64ed3b2f9880014765dd03683a9bc63f]: Commencement: Sch. 4 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
 
-[^key-396816cfac0b4ad049961f0a5f58192c]: Commencement: Sch. 5 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
+[^c-396816cfac0b4ad049961f0a5f58192c]: Commencement: Sch. 5 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
 
-[^key-1c142448701cd5a3af22209116f694d6]: Commencement: Sch. 6 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)
+[^c-1c142448701cd5a3af22209116f694d6]: Commencement: Sch. 6 in operation at 30.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/37/regulation/1)

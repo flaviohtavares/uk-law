@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Security[^key-0c29af03685ed3a2171a3e9e54ea1bfc]
+## 6. Security[^c-0c29af03685ed3a2171a3e9e54ea1bfc]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0c29af03685ed3a2171a3e9e54ea1bfc]: Textual amendment: [S. 6](https://www.legislation.gov.uk/ukpga/2006/12/section/6) repealed (2.12.2014) by [The Olympic Delivery Authority (Dissolution) Order 2014 (S.I. 2014/3184)](https://www.legislation.gov.uk/uksi/2014/3184), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3184/article/1/2), [Sch. para. 2(d)](https://www.legislation.gov.uk/uksi/2014/3184/schedule/paragraph/2/d)
+[^c-0c29af03685ed3a2171a3e9e54ea1bfc]: Textual amendment: [S. 6](https://www.legislation.gov.uk/ukpga/2006/12/section/6) repealed (2.12.2014) by [The Olympic Delivery Authority (Dissolution) Order 2014 (S.I. 2014/3184)](https://www.legislation.gov.uk/uksi/2014/3184), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3184/article/1/2), [Sch. para. 2(d)](https://www.legislation.gov.uk/uksi/2014/3184/schedule/paragraph/2/d)

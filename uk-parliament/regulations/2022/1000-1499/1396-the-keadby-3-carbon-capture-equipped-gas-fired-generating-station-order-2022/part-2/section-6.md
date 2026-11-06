@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 6. Benefit of the Order[^key-b08a8410a15342d67cf5e7dff1a10a97]
+## 6. Benefit of the Order[^c-b08a8410a15342d67cf5e7dff1a10a97]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ Subject to article 7 (consent to transfer the benefit of the Order), the provisi
 
 ## Annotations
 
-[^key-b08a8410a15342d67cf5e7dff1a10a97]: Commencement: Art. 6 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
+[^c-b08a8410a15342d67cf5e7dff1a10a97]: Commencement: Art. 6 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)

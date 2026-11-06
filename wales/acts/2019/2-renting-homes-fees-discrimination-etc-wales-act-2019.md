@@ -30,7 +30,7 @@ summary: ''
 
 *Extent: E+W*
 
-Renting Homes (Fees, Discrimination etc.) (Wales) Act 2019[^key-9e3da9f35196c02a7686783e9be01b5f]
+Renting Homes (Fees, Discrimination etc.) (Wales) Act 2019[^c-9e3da9f35196c02a7686783e9be01b5f]
 
 2019 anaw 2
 
@@ -40,15 +40,15 @@ An Act of the National Assembly for Wales prohibiting persons from requiring cer
 
 **Having been passed by the National Assembly for Wales and having received the assent of Her Majesty, it is enacted as follows:**
 
-## PART 1 — Overview[^key-edb385ee179717180215eb9ec68b3696]
+## PART 1 — Overview[^c-edb385ee179717180215eb9ec68b3696]
 
-### 1. Overview of Act[^key-44a99223cde1b3f5df5ae0128d5b802c][^key-edb385ee179717180215eb9ec68b3696][^key-edb385ee179717180215eb9ec68b3696]
+### 1. Overview of Act[^c-44a99223cde1b3f5df5ae0128d5b802c][^c-edb385ee179717180215eb9ec68b3696][^c-edb385ee179717180215eb9ec68b3696]
 
 (1) This section gives an overview of the main provisions of this Act.
 
 (2) Part 2 makes it an offence for a landlord or letting agent to require certain payments to be made or certain other steps to be taken in consideration of the grant, renewal or continuance of a standard occupation contract, or pursuant to a term of a standard occupation contract.
 
-(2A)[^key-b8920f2a2d81b82a215e328c5f74196d] Part 2A makes it an offence for a landlord or person acting or purporting to act on a landlord’s behalf to discriminate in relation to occupation contracts against persons who would have children live with or visit them or who are benefits claimants, and makes other provision about discrimination of that kind.
+(2A)[^c-b8920f2a2d81b82a215e328c5f74196d] Part 2A makes it an offence for a landlord or person acting or purporting to act on a landlord’s behalf to discriminate in relation to occupation contracts against persons who would have children live with or visit them or who are benefits claimants, and makes other provision about discrimination of that kind.
 
 (3) Part 3 makes provision about the repayment of holding deposits (as defined in Schedule 1).
 
@@ -60,9 +60,9 @@ An Act of the National Assembly for Wales prohibiting persons from requiring cer
 
 (7) Part 7 makes general provision, including provision about the procedural requirements for making regulations, and about Crown application.
 
-## PART 2 — Prohibition of certain payments etc.[^key-0a7c71ceff32de27719a24f6ba46054e]
+## PART 2 — Prohibition of certain payments etc.[^c-0a7c71ceff32de27719a24f6ba46054e]
 
-### 2. Prohibitions applying to landlords[^key-c86e36a3fe58f4d09cad65a8656d554d][^key-0a7c71ceff32de27719a24f6ba46054e][^key-0a7c71ceff32de27719a24f6ba46054e]
+### 2. Prohibitions applying to landlords[^c-c86e36a3fe58f4d09cad65a8656d554d][^c-0a7c71ceff32de27719a24f6ba46054e][^c-0a7c71ceff32de27719a24f6ba46054e]
 
 (1) It is an offence for a landlord to require a prohibited payment to be made to the landlord, or any other person—
 
@@ -85,7 +85,7 @@ An Act of the National Assembly for Wales prohibiting persons from requiring cer
 
 (6) The court by which a person (“the offender”) is convicted of an offence under subsection (1) may order the offender to pay the amount of the payment concerned or (in a case where part of the payment has been repaid) the outstanding amount of the payment to the person by whom it was paid.
 
-### 3. Prohibitions applying to letting agents[^key-b717dbc637f86ad61a479d761cd839e0][^key-0a7c71ceff32de27719a24f6ba46054e][^key-0a7c71ceff32de27719a24f6ba46054e]
+### 3. Prohibitions applying to letting agents[^c-b717dbc637f86ad61a479d761cd839e0][^c-0a7c71ceff32de27719a24f6ba46054e][^c-0a7c71ceff32de27719a24f6ba46054e]
 
 (1) It is an offence for a letting agent to require a prohibited payment to be made to the letting agent, or any other person—
 
@@ -108,7 +108,7 @@ An Act of the National Assembly for Wales prohibiting persons from requiring cer
 
 (6) The court by which a person (“the offender”) is convicted of an offence under subsection (1) may order the offender to pay the amount of the payment concerned or (in a case where part of the payment has been repaid) the outstanding amount of the payment to the person by whom it was paid.
 
-### 4. Prohibited and permitted payments[^key-26ffe6302cb8ccb23c309c014406e174][^key-0a7c71ceff32de27719a24f6ba46054e][^key-0a7c71ceff32de27719a24f6ba46054e]
+### 4. Prohibited and permitted payments[^c-26ffe6302cb8ccb23c309c014406e174][^c-0a7c71ceff32de27719a24f6ba46054e][^c-0a7c71ceff32de27719a24f6ba46054e]
 
 (1) Any payment of money is a prohibited payment unless—
 
@@ -125,36 +125,36 @@ An Act of the National Assembly for Wales prohibiting persons from requiring cer
 - (f) payments in respect of utilities;
 - (g) payments in respect of a television licence;
 - (h) payments in respect of communication services.
-- (i)[^key-3210f12dfd73a0f706f3fa2671f44d9f] service charges;
-- (j)[^key-c9203118513213f11862ce04e0bab6b8] payments in respect of further copies of a written statement.
+- (i)[^c-3210f12dfd73a0f706f3fa2671f44d9f] service charges;
+- (j)[^c-c9203118513213f11862ce04e0bab6b8] payments in respect of further copies of a written statement.
 
-### 5. Non-binding contract terms[^key-80836cfb60484e2f42d0b55d92911243][^key-0a7c71ceff32de27719a24f6ba46054e][^key-0a7c71ceff32de27719a24f6ba46054e]
+### 5. Non-binding contract terms[^c-80836cfb60484e2f42d0b55d92911243][^c-0a7c71ceff32de27719a24f6ba46054e][^c-0a7c71ceff32de27719a24f6ba46054e]
 
 (1) A term of a standard occupation contract is not binding on a contract-holder to the extent that (but for this section) it would require a prohibited payment to be made, or a contract for services to be entered into, or a loan to be made, as described in section 2 or 3.
 
 (2) But the contract continues, so far as practicable, to have effect in every other respect.
 
-### 6. Application of sections 2 to 5 to pre-existing requirements and contracts[^key-1bfd097af59c5dfdcb7de20bfab91df8][^key-0a7c71ceff32de27719a24f6ba46054e][^key-0a7c71ceff32de27719a24f6ba46054e]
+### 6. Application of sections 2 to 5 to pre-existing requirements and contracts[^c-1bfd097af59c5dfdcb7de20bfab91df8][^c-0a7c71ceff32de27719a24f6ba46054e][^c-0a7c71ceff32de27719a24f6ba46054e]
 
 Sections 2 to 5 do not apply in respect of—
 
 - (a) a requirement imposed before the coming into force of this Part;
-- (b)[^key-80d4081d0500e4d871599cfebb290c24] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-80d4081d0500e4d871599cfebb290c24] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Power to amend definition of “permitted payment”[^key-2826e701d9f7736d20159d2f6779d727][^key-0a7c71ceff32de27719a24f6ba46054e][^key-0a7c71ceff32de27719a24f6ba46054e]
+### 7. Power to amend definition of “permitted payment”[^c-2826e701d9f7736d20159d2f6779d727][^c-0a7c71ceff32de27719a24f6ba46054e][^c-0a7c71ceff32de27719a24f6ba46054e]
 
 (1) Regulations may amend this Act for the purposes of adding, modifying or removing a reference in Schedule 1 to a category of payment.
 
 (2) But the power in subsection (1) does not extend to removing the payment of rent from the categories of payment that are permitted payments under this Act.
 
-### 8. Meaning of “letting agent”, “lettings work” and “property management work”[^key-ff1127978b65ff27a8237cf7f0f9afc6][^key-0a7c71ceff32de27719a24f6ba46054e][^key-0a7c71ceff32de27719a24f6ba46054e]
+### 8. Meaning of “letting agent”, “lettings work” and “property management work”[^c-ff1127978b65ff27a8237cf7f0f9afc6][^c-0a7c71ceff32de27719a24f6ba46054e][^c-0a7c71ceff32de27719a24f6ba46054e]
 
 For the purposes of this Part and Parts 3 to 5—
 
 - “**letting agent**” (“***asiant gosod eiddo***”) means a person who carries out lettings work or property management work (whether or not the person carries out other work);
 - “**lettings work**” (“***gwaith gosod***”) and “**property management work**” (“***gwaith rheoli eiddo***”) have the same meaning as in Part 1 of the Housing (Wales) Act 2014 (anaw 7) (see sections 10 and 12 of that Part).
 
-## Part 2A — Prohibition of discrimination[^key-6643e2613bf9818b7172a72cd458e31d]
+## Part 2A — Prohibition of discrimination[^c-6643e2613bf9818b7172a72cd458e31d]
 
 ### 8A. Prohibition of discrimination relating to children
 
@@ -307,19 +307,19 @@ Nothing in this Part prohibits taking a person’s income into account when cons
 
 (2) In this Part a reference to doing something on the basis of particular facts includes reference to doing it on the basis of a belief in those facts.
 
-## PART 3 — TREATMENT OF HOLDING DEPOSITS[^key-06cad6e1af7cb81b3b3e4d1285c84a27]
+## PART 3 — TREATMENT OF HOLDING DEPOSITS[^c-06cad6e1af7cb81b3b3e4d1285c84a27]
 
-### 9. Treatment of holding deposits[^key-77571e1438ea66b1ce1ff99ebca9d2be][^key-06cad6e1af7cb81b3b3e4d1285c84a27][^key-06cad6e1af7cb81b3b3e4d1285c84a27]
+### 9. Treatment of holding deposits[^c-77571e1438ea66b1ce1ff99ebca9d2be][^c-06cad6e1af7cb81b3b3e4d1285c84a27][^c-06cad6e1af7cb81b3b3e4d1285c84a27]
 
 (1) A payment that is a permitted payment by virtue of paragraph 3 of Schedule 1 (which permits the payment of holding deposits) is to be treated as having been made on the terms set out in Schedule 2.
 
 (2) Subsection (1) does not apply in relation to a payment made before the coming into force of Schedule 2.
 
-## PART 4 — Enforcement[^key-37302dca9e799a2bb11cfe4a27df0377]
+## PART 4 — Enforcement[^c-37302dca9e799a2bb11cfe4a27df0377]
 
 ### Enforcement authority powers to require information etc.
 
-#### 10. Power to require documents or information[^key-5e674ab8e6942003ea95bfbd331047d6][^key-37302dca9e799a2bb11cfe4a27df0377][^key-37302dca9e799a2bb11cfe4a27df0377]
+#### 10. Power to require documents or information[^c-5e674ab8e6942003ea95bfbd331047d6][^c-37302dca9e799a2bb11cfe4a27df0377][^c-37302dca9e799a2bb11cfe4a27df0377]
 
 (1) An authorised officer of an enforcement authority may exercise the powers conferred by subsections (2) and (3) in relation to documents or information reasonably required by the authority for the purpose of investigating whether any offence under this Act has been committed in respect of a dwelling located in the enforcement authority's area.
 
@@ -335,16 +335,16 @@ Nothing in this Part prohibits taking a person’s income into account when cons
 
 (4) The persons within this section are—
 
-- (za)[^key-8e4a74844f3c3999ab01f2505f13eb1e] in respect of an offence under Part 2A or under regulations under section 47 or 48 of the Renters’ Rights Act 2025—
+- (za)[^c-8e4a74844f3c3999ab01f2505f13eb1e] in respect of an offence under Part 2A or under regulations under section 47 or 48 of the Renters’ Rights Act 2025—
   - (i) a person who is or has been a landlord under an occupation contract;
   - (ii) a person who is or has been a contract-holder under an occupation contract;
   - (iii) a person who is or has been a relevant person in relation to an occupation contract;
 - (zb) in respect of an offence under any other provision of this Act—
-  - (i)[^key-ecd08e367f89963382fb3feba2dd5f0f] a person who is or has been a landlord under a standard occupation contract;
+  - (i)[^c-ecd08e367f89963382fb3feba2dd5f0f] a person who is or has been a landlord under a standard occupation contract;
   - (ii) a person who is or has been a contract-holder under a standard occupation contract;
   - (iii) a person who is or has been a letting agent.
 
-(4A)[^key-28c81ad01beb44660ab6946805783be4] In subsection (4)—
+(4A)[^c-28c81ad01beb44660ab6946805783be4] In subsection (4)—
 
 - “**occupation contract**” (“*contract meddiannaeth*”) has the same meaning as in the [Renting Homes (Wales) Act 2016 (anaw 1)](https://www.legislation.gov.uk/anaw/2016/1) (see section 7 of [that Act](https://www.legislation.gov.uk/anaw/2016/1));
 - “**relevant person**” (“*person perthnasol*”) has the meaning given in section 8J.
@@ -357,7 +357,7 @@ Nothing in this Part prohibits taking a person’s income into account when cons
 
 (8) In this section, “**document**” includes information recorded otherwise than in legible form, and in relation to information so recorded, any reference to the production of a document is a reference to the production of a copy of the information in legible form.
 
-#### 11. Offence of failing to comply with a notice under section 10[^key-e29a55037d4d2748500dc45fbba2f09d][^key-37302dca9e799a2bb11cfe4a27df0377][^key-37302dca9e799a2bb11cfe4a27df0377]
+#### 11. Offence of failing to comply with a notice under section 10[^c-e29a55037d4d2748500dc45fbba2f09d][^c-37302dca9e799a2bb11cfe4a27df0377][^c-37302dca9e799a2bb11cfe4a27df0377]
 
 (1) It is an offence for a person to fail to do anything required of the person by a notice under section 10.
 
@@ -374,7 +374,7 @@ Nothing in this Part prohibits taking a person’s income into account when cons
 - (a) the reference in subsection (4) to the production of a document is a reference to the production of a copy of the information in legible form, and
 - (b) the reference in that subsection to suppressing a document includes a reference to destroying the means of reproducing the information.
 
-#### 12. Offence of providing false or misleading information in relation to a notice under section 10[^key-d1137e65d47827400100c6a86e23fabe][^key-37302dca9e799a2bb11cfe4a27df0377][^key-37302dca9e799a2bb11cfe4a27df0377]
+#### 12. Offence of providing false or misleading information in relation to a notice under section 10[^c-d1137e65d47827400100c6a86e23fabe][^c-37302dca9e799a2bb11cfe4a27df0377][^c-37302dca9e799a2bb11cfe4a27df0377]
 
 (1) It is an offence for a person given a notice under section 10, in purported compliance with the notice, to supply information that is false or misleading, if the person—
 
@@ -392,9 +392,9 @@ Nothing in this Part prohibits taking a person’s income into account when cons
 
 ### Fixed penalty notices
 
-#### 13. Fixed penalty notices[^key-d8439095be2edcdef75c850cceb992f2][^key-37302dca9e799a2bb11cfe4a27df0377][^key-37302dca9e799a2bb11cfe4a27df0377]
+#### 13. Fixed penalty notices[^c-d8439095be2edcdef75c850cceb992f2][^c-37302dca9e799a2bb11cfe4a27df0377][^c-37302dca9e799a2bb11cfe4a27df0377]
 
-(1) Where an authorised officer of an enforcement authority has reason to believe that a person has committed an offence under section 2 or 3 or Part 2A of this Act or under regulations under section 47 or 48 of the Renters’ Rights Act 2025[^key-15eade4b09df86fc58da60ec0a072014] in the authority's area, the officer may give that person a fixed penalty notice in respect of the offence.
+(1) Where an authorised officer of an enforcement authority has reason to believe that a person has committed an offence under section 2 or 3 or Part 2A of this Act or under regulations under section 47 or 48 of the Renters’ Rights Act 2025[^c-15eade4b09df86fc58da60ec0a072014] in the authority's area, the officer may give that person a fixed penalty notice in respect of the offence.
 
 (2) A fixed penalty notice, for the purposes of subsection (1), is a notice offering a person the opportunity to discharge any liability to conviction for the offence to which the notice relates by paying a penalty of £1000.
 
@@ -406,7 +406,7 @@ Nothing in this Part prohibits taking a person’s income into account when cons
 
 ### Notification of conviction to licensing authority
 
-#### 14. Duty of local housing authority to notify licensing authority of conviction[^key-8744e36e66acd2fe8e3e86a996e486e1][^key-37302dca9e799a2bb11cfe4a27df0377][^key-37302dca9e799a2bb11cfe4a27df0377]
+#### 14. Duty of local housing authority to notify licensing authority of conviction[^c-8744e36e66acd2fe8e3e86a996e486e1][^c-37302dca9e799a2bb11cfe4a27df0377][^c-37302dca9e799a2bb11cfe4a27df0377]
 
 (1) As soon as reasonably practicable after becoming aware that a person has been convicted of an offence under this Act in respect of a dwelling in its area, a local housing authority must comply with subsection (2).
 
@@ -416,19 +416,19 @@ Nothing in this Part prohibits taking a person’s income into account when cons
 
 ### Guidance
 
-#### 15. Duty to have regard to guidance[^key-ec0a8363cc1522b4b245182f76aa4aff][^key-37302dca9e799a2bb11cfe4a27df0377][^key-37302dca9e799a2bb11cfe4a27df0377]
+#### 15. Duty to have regard to guidance[^c-ec0a8363cc1522b4b245182f76aa4aff][^c-37302dca9e799a2bb11cfe4a27df0377][^c-37302dca9e799a2bb11cfe4a27df0377]
 
 In exercising its functions under this Part an enforcement authority must have regard to any guidance issued by the Welsh Ministers.
 
 ### Meaning of “authorised officer” in this Part
 
-#### 16. Meaning of “authorised officer”[^key-8cdc9a0c2fc29f46b48b0689615f92c1][^key-37302dca9e799a2bb11cfe4a27df0377][^key-37302dca9e799a2bb11cfe4a27df0377]
+#### 16. Meaning of “authorised officer”[^c-8cdc9a0c2fc29f46b48b0689615f92c1][^c-37302dca9e799a2bb11cfe4a27df0377][^c-37302dca9e799a2bb11cfe4a27df0377]
 
 Any reference in this Part to an authorised officer of an enforcement authority is a reference to a person (whether or not an officer of the authority) authorised in writing by the authority for the purposes of this Part.
 
 ### The enforcement authority for the purposes of this Part
 
-#### 17. Enforcement authorities[^key-0ce911aa256d0c89ffa60ceb8d710e68][^key-37302dca9e799a2bb11cfe4a27df0377][^key-37302dca9e799a2bb11cfe4a27df0377]
+#### 17. Enforcement authorities[^c-0ce911aa256d0c89ffa60ceb8d710e68][^c-37302dca9e799a2bb11cfe4a27df0377][^c-37302dca9e799a2bb11cfe4a27df0377]
 
 (1) For the purposes of this Part, each of the following is the enforcement authority in relation to the area of a local housing authority—
 
@@ -439,18 +439,18 @@ Any reference in this Part to an authorised officer of an enforcement authority 
 
 (3) Consent under subsection (2) may be given generally or in relation to specific cases or functions.
 
-(3A)[^key-f0caf6380322b9db439194236c901657] For the purposes of this Part as it relates to offences under Part 2A or under regulations under section 47 or 48 of the Renters’ Rights Act 2025, a local weights and measures authority is an additional enforcement authority in relation to the area for which it is the local weights and measures authority.
+(3A)[^c-f0caf6380322b9db439194236c901657] For the purposes of this Part as it relates to offences under Part 2A or under regulations under section 47 or 48 of the Renters’ Rights Act 2025, a local weights and measures authority is an additional enforcement authority in relation to the area for which it is the local weights and measures authority.
 
 (4) For the purposes of this section,
 
-- “[^key-e3bdfe37279977ccd05996fe2c3a1a3b]**licensing authority**” means a person designated as a licensing authority under section 3 of Part 1 of the Housing (Wales) Act 2014 (anaw 7).
-- “[^key-3c2f548e953c1a6330408417b52a1f14]**local weights and measures authority**” has the meaning given by section 69(2) of the [Weights and Measures Act 1985](https://www.legislation.gov.uk/ukpga/1985/72).
+- “[^c-e3bdfe37279977ccd05996fe2c3a1a3b]**licensing authority**” means a person designated as a licensing authority under section 3 of Part 1 of the Housing (Wales) Act 2014 (anaw 7).
+- “[^c-3c2f548e953c1a6330408417b52a1f14]**local weights and measures authority**” has the meaning given by section 69(2) of the [Weights and Measures Act 1985](https://www.legislation.gov.uk/ukpga/1985/72).
 
 (5) In this Part, references to the area of an enforcement authority are references to the area or, as the case may be, areas for which it is the enforcement authority.
 
 ### Information sharing and power to bring criminal proceedings
 
-#### 18. Supply and use of information by enforcement authorities[^key-67d7d4184d0c2e3c29b0859ac21ace2a][^key-37302dca9e799a2bb11cfe4a27df0377][^key-37302dca9e799a2bb11cfe4a27df0377]
+#### 18. Supply and use of information by enforcement authorities[^c-67d7d4184d0c2e3c29b0859ac21ace2a][^c-37302dca9e799a2bb11cfe4a27df0377][^c-37302dca9e799a2bb11cfe4a27df0377]
 
 (1) If an enforcement authority requests information from another enforcement authority, that other authority must comply with the request unless it considers that doing so would be incompatible with the exercise of its functions (including functions exercisable otherwise than under this Part).
 
@@ -471,7 +471,7 @@ Any reference in this Part to an authorised officer of an enforcement authority 
 
 (6) Section 17(2) does not apply in relation to the functions conferred on an enforcement authority by this section.
 
-#### 19. Power of licensing authority to bring criminal proceedings[^key-073cdc10e7a5c94e5f02cc66b918d768][^key-37302dca9e799a2bb11cfe4a27df0377][^key-37302dca9e799a2bb11cfe4a27df0377]
+#### 19. Power of licensing authority to bring criminal proceedings[^c-073cdc10e7a5c94e5f02cc66b918d768][^c-37302dca9e799a2bb11cfe4a27df0377][^c-37302dca9e799a2bb11cfe4a27df0377]
 
 An enforcement authority which is a licensing authority may bring criminal proceedings in respect of an offence alleged to have been committed under this Act in respect of a dwelling located in its area (but this is subject to section 17(2)).
 
@@ -479,21 +479,21 @@ An enforcement authority which is a licensing authority may bring criminal proce
 
 **Not yet in force.**
 
-#### 20. Restrictions on terminating standard occupation contracts[^key-3ca02ec0fb53e1a0e0665233e08c31f8]
+#### 20. Restrictions on terminating standard occupation contracts[^c-3ca02ec0fb53e1a0e0665233e08c31f8]
 
 Schedule 9A to the Renting Homes (Wales) Act 2016 (anaw 1) includes provision relating to standard occupation contracts preventing a landlord from giving a notice seeking possession of a dwelling under section 173 or 186 of that Act, or under a landlord's break clause, if the landlord has not complied with provisions of this Act relating to prohibited payments and retained holding deposits.
 
 ### Guidance to a licensing authority under Part 1 of the Housing (Wales) Act 2014
 
-#### 21. Amendment to section 41 of Housing (Wales) Act 2014[^key-8732dc05ca5b489c86db49c21d0b98c8][^key-37302dca9e799a2bb11cfe4a27df0377][^key-37302dca9e799a2bb11cfe4a27df0377]
+#### 21. Amendment to section 41 of Housing (Wales) Act 2014[^c-8732dc05ca5b489c86db49c21d0b98c8][^c-37302dca9e799a2bb11cfe4a27df0377][^c-37302dca9e799a2bb11cfe4a27df0377]
 
 In section 41 of the Housing (Wales) Act 2014 (anaw 7) (guidance under Part 1 of Act), after subsection (2) insert—
 
 > (2A) Guidance given to a licensing authority may (among other things) include provision about matters to be taken into account by a licensing authority in deciding whether a failure to repay the amount of any prohibited payment or holding deposit (within the meaning of the Renting Homes (Fees etc.) (Wales) Act 2019) affects a person's fitness to be licensed under this Part.
 
-## PART 5 — Recovery of amount by contract-holder[^key-18f7b25ad684a38cb7b31ba46f2d0c3b]
+## PART 5 — Recovery of amount by contract-holder[^c-18f7b25ad684a38cb7b31ba46f2d0c3b]
 
-### 22. Recovery of a prohibited payment or holding deposit[^key-a69f7c9b106fc5bc3f0c5789259e146a][^key-18f7b25ad684a38cb7b31ba46f2d0c3b][^key-18f7b25ad684a38cb7b31ba46f2d0c3b]
+### 22. Recovery of a prohibited payment or holding deposit[^c-a69f7c9b106fc5bc3f0c5789259e146a][^c-18f7b25ad684a38cb7b31ba46f2d0c3b][^c-18f7b25ad684a38cb7b31ba46f2d0c3b]
 
 (1) A person (the “claimant”) may apply to the county court for the recovery of the amount of—
 
@@ -520,7 +520,7 @@ order the repayment to the claimant, in accordance with the order, of the amount
 
 ## PART 6 — Publicising Letting agents' Fees
 
-### 23. Publicising letting agents' fees[^key-616547889fd37f3bcb0de223632fef47]
+### 23. Publicising letting agents' fees[^c-616547889fd37f3bcb0de223632fef47]
 
 (1) Regulations may amend Chapter 3 of Part 3 of the Consumer Rights Act 2015 (c.15) (duty to publicise fees etc.)—
 
@@ -532,19 +532,19 @@ order the repayment to the claimant, in accordance with the order, of the amount
 - (a) “**online advertiser**”, in relation to a letting agent, means a person who advertises, on the internet, services offered by the agent in relation to dwelling houses in Wales;
 - (b) “**dwelling house**”, “**letting agent**” and “**relevant fees**” have the same meaning as in Chapter 3 of Part 3 of the Consumer Rights Act 2015.
 
-## PART 7 — Final provisions[^key-4e770da283dd545df417d8833f1b59aa]
+## PART 7 — Final provisions[^c-4e770da283dd545df417d8833f1b59aa]
 
-### 24. Requirement for local housing authority to promote awareness of effect of Act[^key-54402916fb0f212b28aa9ecf2f44a53f][^key-4e770da283dd545df417d8833f1b59aa][^key-4e770da283dd545df417d8833f1b59aa]
+### 24. Requirement for local housing authority to promote awareness of effect of Act[^c-54402916fb0f212b28aa9ecf2f44a53f][^c-4e770da283dd545df417d8833f1b59aa][^c-4e770da283dd545df417d8833f1b59aa]
 
 (1) A local housing authority must make arrangements for information to be made publicly available in its area, in whatever way the authority thinks appropriate, about the effect of this Act, including about how prohibited payments and holding deposits may be recovered.
 
 (2) In making arrangements for the purposes of this section, a local housing authority must have regard to any guidance given by the Welsh Ministers.
 
-### 25. Power to make transitional provision in respect of assured tenancies[^key-520202f5a4f17cd0fbe169c19d043248][^key-b0a165ddeec435d8b425e42ccd09435a][^key-4e770da283dd545df417d8833f1b59aa][^key-4e770da283dd545df417d8833f1b59aa]
+### 25. Power to make transitional provision in respect of assured tenancies[^c-520202f5a4f17cd0fbe169c19d043248][^c-b0a165ddeec435d8b425e42ccd09435a][^c-4e770da283dd545df417d8833f1b59aa][^c-4e770da283dd545df417d8833f1b59aa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 26. Offences by bodies corporate[^key-37c067d8b39635d909d16eb2b4ac5390][^key-4e770da283dd545df417d8833f1b59aa][^key-4e770da283dd545df417d8833f1b59aa]
+### 26. Offences by bodies corporate[^c-37c067d8b39635d909d16eb2b4ac5390][^c-4e770da283dd545df417d8833f1b59aa][^c-4e770da283dd545df417d8833f1b59aa]
 
 (1) Where an offence under this Act committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of—
 
@@ -557,7 +557,7 @@ that senior officer or person (as well as the body corporate) is guilty of the o
 
 (3) But in the case of a body corporate whose affairs are managed by its members, “**director**” for the purposes of this section means a member of the body corporate.
 
-### 27. Regulations[^key-85fdef6786e8255ec0ba1022e871a226][^key-4e770da283dd545df417d8833f1b59aa][^key-4e770da283dd545df417d8833f1b59aa]
+### 27. Regulations[^c-85fdef6786e8255ec0ba1022e871a226][^c-4e770da283dd545df417d8833f1b59aa][^c-4e770da283dd545df417d8833f1b59aa]
 
 (1) A power to make regulations under this Act is to be exercised by statutory instrument.
 
@@ -566,11 +566,11 @@ that senior officer or person (as well as the body corporate) is guilty of the o
 - (a) to make different provision for different purposes;
 - (b) to make supplemental, incidental, consequential, transitional, transitory or saving provision.
 
-(3) A statutory instrument containing regulations under section 7, section 8C,[^key-8d14953642b3762116dd561c8e3571dc] section 13 or paragraphs 2 or 6 of Schedule 1 (whether or not it contains regulations made under any other provision of this Act) may not be made unless a draft of the regulations has been laid before, and approved by resolution of, the National Assembly for Wales.
+(3) A statutory instrument containing regulations under section 7, section 8C,[^c-8d14953642b3762116dd561c8e3571dc] section 13 or paragraphs 2 or 6 of Schedule 1 (whether or not it contains regulations made under any other provision of this Act) may not be made unless a draft of the regulations has been laid before, and approved by resolution of, the National Assembly for Wales.
 
 (4) Any other statutory instrument containing regulations under this Act is subject to annulment in pursuance of a resolution of the National Assembly for Wales.
 
-### 28. Interpretation[^key-6252befb6a9de69cd87633fdd03e7b72][^key-4e770da283dd545df417d8833f1b59aa][^key-4e770da283dd545df417d8833f1b59aa]
+### 28. Interpretation[^c-6252befb6a9de69cd87633fdd03e7b72][^c-4e770da283dd545df417d8833f1b59aa][^c-4e770da283dd545df417d8833f1b59aa]
 
 In this Act—
 
@@ -584,13 +584,13 @@ In this Act—
 - “**security deposit**” (“***blaendal sicrwydd***”) has the meaning given in Schedule 1;
 - “**standard occupation contract**” (“***contract meddiannaeth safonol***”) means a contract that is a standard contract for the purposes of the 2016 Act.
 
-### 29. Crown application[^key-bc62dfef40eb5aa5557b8d911391fa7c][^key-4e770da283dd545df417d8833f1b59aa][^key-4e770da283dd545df417d8833f1b59aa]
+### 29. Crown application[^c-bc62dfef40eb5aa5557b8d911391fa7c][^c-4e770da283dd545df417d8833f1b59aa][^c-4e770da283dd545df417d8833f1b59aa]
 
 (1) This Act applies to the Crown.
 
 (2) No contravention of any provision made by or under this Act makes the Crown criminally liable, but the High Court may declare unlawful any act or omission of the Crown which constitutes such a contravention.
 
-### 30. Coming into force[^key-4e770da283dd545df417d8833f1b59aa]
+### 30. Coming into force[^c-4e770da283dd545df417d8833f1b59aa]
 
 (1) This section and section 31 come into force on the day after the day this Act receives Royal Assent.
 
@@ -601,9 +601,9 @@ In this Act—
 - (a) appoint different days for different purposes;
 - (b) make transitory, transitional or saving provision.
 
-### 31. Short title[^key-4e770da283dd545df417d8833f1b59aa]
+### 31. Short title[^c-4e770da283dd545df417d8833f1b59aa]
 
-The short title of this Act is the Renting Homes (Fees , Discrimination[^key-c5b56a89a013a3f9f4b47df0b4345f73] etc.) (Wales) Act 2019.
+The short title of this Act is the Renting Homes (Fees , Discrimination[^c-c5b56a89a013a3f9f4b47df0b4345f73] etc.) (Wales) Act 2019.
 
 ## SCHEDULE 1 — Permitted Payments
 
@@ -611,7 +611,7 @@ The short title of this Act is the Renting Homes (Fees , Discrimination[^key-c5b
 
 ### Rent
 
-**1.**[^key-1e9ea022fce398072dd7219980d06a3f] (1) A payment of rent under a standard occupation contract is a permitted payment.
+**1.**[^c-1e9ea022fce398072dd7219980d06a3f] (1) A payment of rent under a standard occupation contract is a permitted payment.
 
 (2) But, subject as follows, if the amount of rent payable in respect of a relevant period (“P1”) is more than the amount of rent payable in respect of another relevant period (“P2”), the additional amount payable in respect of P1 is a prohibited payment.
 
@@ -656,7 +656,7 @@ P1 and P2 are to be treated for the purposes of Step 2 in sub-paragraph (4) as h
 
 ### Security deposit
 
-**2.**[^key-cf3e6852d16535c94360599f1e443145] (1) A payment of a security deposit is a permitted payment.
+**2.**[^c-cf3e6852d16535c94360599f1e443145] (1) A payment of a security deposit is a permitted payment.
 
 (2) In this Act, “**security deposit**” means money paid as security for—
 
@@ -671,19 +671,19 @@ arising under or in connection with an occupation contract.
 
 ### Holding deposit
 
-**3.**[^key-576719149d44371444cf724d86f21df2] A payment of a holding deposit is a permitted payment.
+**3.**[^c-576719149d44371444cf724d86f21df2] A payment of a holding deposit is a permitted payment.
 
-**4.**[^key-035e436282f7ebff4a3bcc0477bbd8e1] A holding deposit is an amount which—
+**4.**[^c-035e436282f7ebff4a3bcc0477bbd8e1] A holding deposit is an amount which—
 
 - (a) before the grant of a standard occupation contract, is paid to a landlord or a letting agent;
 - (b) is paid for the purpose of reserving a right of first refusal in relation to the granting of the contract, subject to suitability checks to be carried out as to the prospective contract-holder and agreement between the parties to enter into the contract;
 - (c) does not exceed an amount equivalent to one week's rent under the contract.
 
-**5.**[^key-b464863f0c746cba7ccb45e8f7cb52b1] Where an amount required in purported compliance with this paragraph exceeds an amount equivalent to one week's rent under the contract, the amount of the excess is a prohibited payment, with the remainder falling to be treated under Schedule 2.
+**5.**[^c-b464863f0c746cba7ccb45e8f7cb52b1] Where an amount required in purported compliance with this paragraph exceeds an amount equivalent to one week's rent under the contract, the amount of the excess is a prohibited payment, with the remainder falling to be treated under Schedule 2.
 
 ### Payment in the event of default
 
-**6.**[^key-da2ba7840778b1d11d2f841ec5aa838c] (1) A payment that is required, under a standard occupation contract, to be made in the event of a default by the contract-holder is a permitted payment, but this is subject to sub-paragraph (3).
+**6.**[^c-da2ba7840778b1d11d2f841ec5aa838c] (1) A payment that is required, under a standard occupation contract, to be made in the event of a default by the contract-holder is a permitted payment, but this is subject to sub-paragraph (3).
 
 (2) In this paragraph, “**default**” means—
 
@@ -701,13 +701,13 @@ arising under or in connection with an occupation contract.
 
 ### Payment in respect of council tax
 
-**7.**[^key-5271ca24ec008953daba534940a44921] (1) A payment that a contract-holder is required to make to a billing authority in respect of council tax is a permitted payment if the contract-holder is liable to make the payment by virtue of any of sections 6, 8 or 9 of the Local Government Finance Act 1992 (c. 14).
+**7.**[^c-5271ca24ec008953daba534940a44921] (1) A payment that a contract-holder is required to make to a billing authority in respect of council tax is a permitted payment if the contract-holder is liable to make the payment by virtue of any of sections 6, 8 or 9 of the Local Government Finance Act 1992 (c. 14).
 
 (2) In this paragraph “**billing authority**” has the same meaning as in Part 1 of the Local Government Finance Act 1992 (see section 1(2) of that Act).
 
 ### Payment in respect of provision of utilities
 
-**8.**[^key-434533c005d5bb721514fe1680c23544] (1) A payment for or in connection with the provision of a utility is a permitted payment if—
+**8.**[^c-434533c005d5bb721514fe1680c23544] (1) A payment for or in connection with the provision of a utility is a permitted payment if—
 
 - (a) it is required under a standard occupation contract, and
 - (b) it is made in respect of the dwelling subject to the contract.
@@ -724,13 +724,13 @@ arising under or in connection with an occupation contract.
 
 ### Payment in respect of television licence
 
-**9.**[^key-40760f2b135ad5079b9037f1c8d22758] (1) A payment that a contract-holder is required to make to the British Broadcasting Corporation in respect of a television licence is a permitted payment if the contract-holder is required by the contract to make the payment.
+**9.**[^c-40760f2b135ad5079b9037f1c8d22758] (1) A payment that a contract-holder is required to make to the British Broadcasting Corporation in respect of a television licence is a permitted payment if the contract-holder is required by the contract to make the payment.
 
 (2) In this paragraph “**television licence**” means a licence for the purposes of section 363 of the Communications Act 2003 (c. 21).
 
 ### Payment in respect of communication service
 
-**10.**[^key-b169a8ae5fe9dc98ecae8199259dc50d] (1) A payment for or in connection with a communication service is a permitted payment if⁠—
+**10.**[^c-b169a8ae5fe9dc98ecae8199259dc50d] (1) A payment for or in connection with a communication service is a permitted payment if⁠—
 
 - (a) it is required under a standard occupation contract, and
 - (b) it is made in respect of the dwelling subject to the contract.
@@ -742,7 +742,7 @@ arising under or in connection with an occupation contract.
 - (c) cable television;
 - (d) satellite television.
 
-### Service charges payable to community landlords etc.[^key-1b7413bff38d82b718f81dfdd4dd6241]
+### Service charges payable to community landlords etc.[^c-1b7413bff38d82b718f81dfdd4dd6241]
 
 **10A.** (1) A payment of a service charge is a permitted payment if—
 
@@ -763,13 +763,13 @@ arising under or in connection with an occupation contract.
 - “**service charge**” (“***tâl gwasanaeth***”) does not include a charge for a service where the payment for the charge would be permitted by virtue of another paragraph of this Schedule, and in relation to sub-paragraph (3) only, includes charges for the provision of support services;
 - “**support services**” (“***gwasnaethau cymorth***”) has the meaning given by section 143 of the 2016 Act (see, in particular, subsection (4) of that section).
 
-### Payment for further copy of written statement[^key-780e6b2672f0a0a754c426b284c66495]
+### Payment for further copy of written statement[^c-780e6b2672f0a0a754c426b284c66495]
 
 **10B.** A payment of a reasonable fee for a further written statement of a standard occupation contract is a permitted payment.
 
 ### Changing the meaning of “permitted variation” in paragraph 1
 
-**11.**[^key-8e90c4abbebf475d498c23caf661eb2f] If regulations made under section 7 amend this Schedule so as to change the meaning of “**permitted variation**” for the purposes of paragraph 1, they may also make consequential amendments to Chapter 3 of Part 6 and Chapter 3 of Part 7 of the Renting Homes (Wales) Act 2016 (anaw 1) (variation of standard occupation contracts).
+**11.**[^c-8e90c4abbebf475d498c23caf661eb2f] If regulations made under section 7 amend this Schedule so as to change the meaning of “**permitted variation**” for the purposes of paragraph 1, they may also make consequential amendments to Chapter 3 of Part 6 and Chapter 3 of Part 7 of the Renting Homes (Wales) Act 2016 (anaw 1) (variation of standard occupation contracts).
 
 ## SCHEDULE 2 — Treatment of Holding Deposit
 
@@ -777,13 +777,13 @@ arising under or in connection with an occupation contract.
 
 ### Application
 
-**1.**[^key-927959614a36b4267f6dcefc03dc059f] (1) This Schedule applies where a holding deposit is paid in respect of a standard occupation contract.
+**1.**[^c-927959614a36b4267f6dcefc03dc059f] (1) This Schedule applies where a holding deposit is paid in respect of a standard occupation contract.
 
 (2) References in this Schedule to a contract-holder, in relation to a holding deposit, are to the person whose right of first refusal has been reserved by the holding deposit.
 
 ### Meaning of “deadline for agreement”
 
-**2.**[^key-8eac7ec211ab295e9a530f31ebdc6cef] (1) In this Schedule, the “**deadline for agreement**” means the fifteenth day of the period beginning with the day on which the holding deposit is paid.
+**2.**[^c-8eac7ec211ab295e9a530f31ebdc6cef] (1) In this Schedule, the “**deadline for agreement**” means the fifteenth day of the period beginning with the day on which the holding deposit is paid.
 
 (2) But the parties may agree in writing that a different day is to be the deadline for agreement.
 
@@ -791,38 +791,38 @@ arising under or in connection with an occupation contract.
 
 ### Requirement to repay holding deposit
 
-**3.**[^key-ac43489270169bbaaed8af9162e4ad1d] Subject as follows, the person who received the holding deposit must repay it if—
+**3.**[^c-ac43489270169bbaaed8af9162e4ad1d] Subject as follows, the person who received the holding deposit must repay it if—
 
 - (a) the parties enter into the contract before the deadline for agreement, or
 - (b) the parties fail to enter into the contract before the deadline for agreement.
 
-**4.**[^key-132cd25fe66a142da58ab0a25e9c79b4] The deposit must be repaid within the period of 7 days beginning with—
+**4.**[^c-132cd25fe66a142da58ab0a25e9c79b4] The deposit must be repaid within the period of 7 days beginning with—
 
 - (a) where paragraph 3(a) applies, the day on which the contract is made, or
 - (b) where paragraph 3(b) applies, the deadline for agreement.
 
 ### Exceptions
 
-**5.**[^key-d90c6b5aff274750e3b566b68a542ee7] Paragraph 3(a) does not apply to the extent that the amount of the deposit is applied—
+**5.**[^c-d90c6b5aff274750e3b566b68a542ee7] Paragraph 3(a) does not apply to the extent that the amount of the deposit is applied—
 
 - (a) towards the first payment of rent under the contract, or
 - (b) towards the payment of a security deposit under the contract.
 
-**6.**[^key-a3181e64cdbca21160ba138d285df53a] If all or part of the holding deposit is applied in accordance with paragraph 5(b), the amount applied is treated for the purposes of section 45 of the Renting Homes (Wales) Act 2016 (anaw 1) (requirement to use deposit schemes) as having been paid on the date the contract is made.
+**6.**[^c-a3181e64cdbca21160ba138d285df53a] If all or part of the holding deposit is applied in accordance with paragraph 5(b), the amount applied is treated for the purposes of section 45 of the Renting Homes (Wales) Act 2016 (anaw 1) (requirement to use deposit schemes) as having been paid on the date the contract is made.
 
-**7.**[^key-12da208700e341375da2f3f1e97488f0] Paragraph 3(b) does not apply if the contract-holder provides false or misleading information to the landlord or letting agent and—
+**7.**[^c-12da208700e341375da2f3f1e97488f0] Paragraph 3(b) does not apply if the contract-holder provides false or misleading information to the landlord or letting agent and—
 
 - (a) the landlord is reasonably entitled to take into account the difference between the information provided by the contract-holder and the correct information in deciding whether to grant a contract to the contract-holder, or
 - (b) the landlord is reasonably entitled to take the contract-holder's action in providing false or misleading information into account in deciding whether to grant such a contract.
 
-**8.**[^key-d6fc4037a6ab7cd31578df4ec8060078] Paragraph 3(b) does not apply if the contract-holder notifies the landlord or letting agent before the deadline for agreement that the contract-holder has decided not to enter into a contract.
+**8.**[^c-d6fc4037a6ab7cd31578df4ec8060078] Paragraph 3(b) does not apply if the contract-holder notifies the landlord or letting agent before the deadline for agreement that the contract-holder has decided not to enter into a contract.
 
-**9.**[^key-49f15e919239438e8bfd2c8f4c0d302c] Paragraph 3(b) does not apply in relation to a holding deposit paid to a landlord if—
+**9.**[^c-49f15e919239438e8bfd2c8f4c0d302c] Paragraph 3(b) does not apply in relation to a holding deposit paid to a landlord if—
 
 - (a) the landlord takes all reasonable steps to enter into a contract before the deadline for agreement, but
 - (b) the contract-holder fails to take all reasonable steps to enter into a contract before that date.
 
-**10.**[^key-3b6e18cce7cc8164908b8baae1cbb61c] Paragraph 3(b) does not apply in relation to a holding deposit paid to a letting agent if—
+**10.**[^c-3b6e18cce7cc8164908b8baae1cbb61c] Paragraph 3(b) does not apply in relation to a holding deposit paid to a letting agent if—
 
 - (a) the agent takes all reasonable steps to assist the landlord to enter into a contract before the deadline for agreement, and
 - (b) the landlord takes all reasonable steps to enter into a contract before that date, but
@@ -830,7 +830,7 @@ arising under or in connection with an occupation contract.
 
 ### Supplemental provision about exceptions in paragraphs 8 to 10
 
-**11.**[^key-1bacc8227e370f0fc3b72779e009e7bf] (1) The exceptions specified in paragraphs 8, 9 and 10 may not be relied upon unless the condition in sub-paragraph (2) is met.
+**11.**[^c-1bacc8227e370f0fc3b72779e009e7bf] (1) The exceptions specified in paragraphs 8, 9 and 10 may not be relied upon unless the condition in sub-paragraph (2) is met.
 
 (2) The condition is that, before payment of the holding deposit, information within sub-paragraph (3) has been provided to the contract-holder by either the landlord or (if one has been instructed by the landlord in relation to the contract) the letting agent.
 
@@ -840,186 +840,186 @@ arising under or in connection with an occupation contract.
 
 (5) In a case where a landlord has instructed a letting agent in relation to a contract, the exception in paragraph 9 may, in addition, not be relied upon unless the agent takes all reasonable steps to assist the landlord to enter into a contract before the deadline for agreement.
 
-## SCHEDULE 3 — AMENDMENTS TO THE RENTING HOMES (WALES) ACT 2016[^key-dc0fb2a80b93d73914e2edb6fa993d8b]
+## SCHEDULE 3 — AMENDMENTS TO THE RENTING HOMES (WALES) ACT 2016[^c-dc0fb2a80b93d73914e2edb6fa993d8b]
 
 **Not yet in force.**
 
 (as introduced by section 20)
 
-**1.**[^key-dc0fb2a80b93d73914e2edb6fa993d8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-dc0fb2a80b93d73914e2edb6fa993d8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Restriction on giving notice for possession: periodic standard contracts[^key-dc0fb2a80b93d73914e2edb6fa993d8b]
+### Restriction on giving notice for possession: periodic standard contracts[^c-dc0fb2a80b93d73914e2edb6fa993d8b]
 
-**2.**[^key-dc0fb2a80b93d73914e2edb6fa993d8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-dc0fb2a80b93d73914e2edb6fa993d8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-dc0fb2a80b93d73914e2edb6fa993d8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-dc0fb2a80b93d73914e2edb6fa993d8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Restrictions on giving notice in connection with end of fixed term standard contracts[^key-dc0fb2a80b93d73914e2edb6fa993d8b]
+### Restrictions on giving notice in connection with end of fixed term standard contracts[^c-dc0fb2a80b93d73914e2edb6fa993d8b]
 
-**4.**[^key-dc0fb2a80b93d73914e2edb6fa993d8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-dc0fb2a80b93d73914e2edb6fa993d8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Restriction on using landlord's break clause in fixed term standard contracts[^key-dc0fb2a80b93d73914e2edb6fa993d8b]
+### Restriction on using landlord's break clause in fixed term standard contracts[^c-dc0fb2a80b93d73914e2edb6fa993d8b]
 
-**5.**[^key-dc0fb2a80b93d73914e2edb6fa993d8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-dc0fb2a80b93d73914e2edb6fa993d8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Restrictions on a court hearing landlord's claim for possession[^key-dc0fb2a80b93d73914e2edb6fa993d8b]
+### Restrictions on a court hearing landlord's claim for possession[^c-dc0fb2a80b93d73914e2edb6fa993d8b]
 
-**6.**[^key-dc0fb2a80b93d73914e2edb6fa993d8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-dc0fb2a80b93d73914e2edb6fa993d8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Miscellaneous consequential provision[^key-dc0fb2a80b93d73914e2edb6fa993d8b]
+### Miscellaneous consequential provision[^c-dc0fb2a80b93d73914e2edb6fa993d8b]
 
-**7.**[^key-dc0fb2a80b93d73914e2edb6fa993d8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-dc0fb2a80b93d73914e2edb6fa993d8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9e3da9f35196c02a7686783e9be01b5f]: Textual amendment: [Title](https://www.legislation.gov.uk/anaw/2019/2/title) substituted (1.6.2026) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 45(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/45/2), [145(3)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/3) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [W.S.I. 2026/6](https://www.legislation.gov.uk/wsi/2026/6), [art. 2(c)](https://www.legislation.gov.uk/wsi/2026/6/article/2/c)
+[^c-9e3da9f35196c02a7686783e9be01b5f]: Textual amendment: [Title](https://www.legislation.gov.uk/anaw/2019/2/title) substituted (1.6.2026) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 45(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/45/2), [145(3)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/3) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [W.S.I. 2026/6](https://www.legislation.gov.uk/wsi/2026/6), [art. 2(c)](https://www.legislation.gov.uk/wsi/2026/6/article/2/c)
 
-[^key-edb385ee179717180215eb9ec68b3696]: Modification: [Pt. 1](https://www.legislation.gov.uk/anaw/2019/2/part/1) applied (with modifications) (1.9.2019) by [The Renting Homes (Fees etc.) (Wales) Act 2019 (Transitional Provision for Assured Shorthold Tenancies) Regulations 2019 (S.I. 2019/1151)](https://www.legislation.gov.uk/wsi/2019/1151), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1151/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2019/1151/regulation/3)
+[^c-edb385ee179717180215eb9ec68b3696]: Modification: [Pt. 1](https://www.legislation.gov.uk/anaw/2019/2/part/1) applied (with modifications) (1.9.2019) by [The Renting Homes (Fees etc.) (Wales) Act 2019 (Transitional Provision for Assured Shorthold Tenancies) Regulations 2019 (S.I. 2019/1151)](https://www.legislation.gov.uk/wsi/2019/1151), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1151/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2019/1151/regulation/3)
 
-[^key-44a99223cde1b3f5df5ae0128d5b802c]: Commencement: [S. 1](https://www.legislation.gov.uk/anaw/2019/2/section/1) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(a)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/a)
+[^c-44a99223cde1b3f5df5ae0128d5b802c]: Commencement: [S. 1](https://www.legislation.gov.uk/anaw/2019/2/section/1) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(a)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/a)
 
-[^key-b8920f2a2d81b82a215e328c5f74196d]: Textual amendment: [S. 1(2A)](https://www.legislation.gov.uk/anaw/2019/2/section/1/2A) inserted (1.6.2026) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 44(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/44/2), [145(3)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/3) (with [ss. 49](https://www.legislation.gov.uk/ukpga/2025/26/section/49), [138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [W.S.I. 2026/6](https://www.legislation.gov.uk/wsi/2026/6), [art. 2(b)](https://www.legislation.gov.uk/wsi/2026/6/article/2/b)
+[^c-b8920f2a2d81b82a215e328c5f74196d]: Textual amendment: [S. 1(2A)](https://www.legislation.gov.uk/anaw/2019/2/section/1/2A) inserted (1.6.2026) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 44(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/44/2), [145(3)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/3) (with [ss. 49](https://www.legislation.gov.uk/ukpga/2025/26/section/49), [138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [W.S.I. 2026/6](https://www.legislation.gov.uk/wsi/2026/6), [art. 2(b)](https://www.legislation.gov.uk/wsi/2026/6/article/2/b)
 
-[^key-0a7c71ceff32de27719a24f6ba46054e]: Modification: [Part 2](https://www.legislation.gov.uk/anaw/2019/2/part/2) applied (with modifications) (1.9.2019) by the [Renting of Homes (Fees etc.) (Wales) Act 2019 (Transitional Provision for Assured Shorthold Tenancies) Regulations 2019 (S.I. 2019/1151)](https://www.legislation.gov.uk/uksi/2019/1151), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1151/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2019/1151/regulation/3)
+[^c-0a7c71ceff32de27719a24f6ba46054e]: Modification: [Part 2](https://www.legislation.gov.uk/anaw/2019/2/part/2) applied (with modifications) (1.9.2019) by the [Renting of Homes (Fees etc.) (Wales) Act 2019 (Transitional Provision for Assured Shorthold Tenancies) Regulations 2019 (S.I. 2019/1151)](https://www.legislation.gov.uk/uksi/2019/1151), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1151/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2019/1151/regulation/3)
 
-[^key-c86e36a3fe58f4d09cad65a8656d554d]: Commencement: [S. 2](https://www.legislation.gov.uk/anaw/2019/2/section/2) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(a)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/a)
+[^c-c86e36a3fe58f4d09cad65a8656d554d]: Commencement: [S. 2](https://www.legislation.gov.uk/anaw/2019/2/section/2) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(a)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/a)
 
-[^key-b717dbc637f86ad61a479d761cd839e0]: Commencement: [S. 3](https://www.legislation.gov.uk/anaw/2019/2/section/3) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(a)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/a)
+[^c-b717dbc637f86ad61a479d761cd839e0]: Commencement: [S. 3](https://www.legislation.gov.uk/anaw/2019/2/section/3) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(a)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/a)
 
-[^key-26ffe6302cb8ccb23c309c014406e174]: Commencement: S. 4 in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(a)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/a)
+[^c-26ffe6302cb8ccb23c309c014406e174]: Commencement: S. 4 in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(a)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/a)
 
-[^key-3210f12dfd73a0f706f3fa2671f44d9f]: Textual amendment: [S. 4(2)(i)](https://www.legislation.gov.uk/anaw/2019/2/section/4/2/i) inserted (with effect in accordance with [s.15(4)](https://www.legislation.gov.uk/asc/2021/3/section/15/4) of the amending Act) by the [Renting of Homes (Amendment) (Wales) Act 2021 (asc 3)](https://www.legislation.gov.uk/asc/2021/3), [s. 15(2)](https://www.legislation.gov.uk/asc/2021/3/section/15/2), [19(1)](https://www.legislation.gov.uk/asc/2021/3/section/19/1) (together with s. 15(5)-(7))
+[^c-3210f12dfd73a0f706f3fa2671f44d9f]: Textual amendment: [S. 4(2)(i)](https://www.legislation.gov.uk/anaw/2019/2/section/4/2/i) inserted (with effect in accordance with [s.15(4)](https://www.legislation.gov.uk/asc/2021/3/section/15/4) of the amending Act) by the [Renting of Homes (Amendment) (Wales) Act 2021 (asc 3)](https://www.legislation.gov.uk/asc/2021/3), [s. 15(2)](https://www.legislation.gov.uk/asc/2021/3/section/15/2), [19(1)](https://www.legislation.gov.uk/asc/2021/3/section/19/1) (together with s. 15(5)-(7))
 
-[^key-c9203118513213f11862ce04e0bab6b8]: Textual amendment: [S. 4(2)(j)](https://www.legislation.gov.uk/anaw/2019/2/section/4/2/j) inserted (7.6.2021) by [Renting Homes (Amendment) (Wales) Act 2021 (asc 3)](https://www.legislation.gov.uk/asc/2021/3), [ss. 16(3)](https://www.legislation.gov.uk/asc/2021/3/section/16/3), [19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3)
+[^c-c9203118513213f11862ce04e0bab6b8]: Textual amendment: [S. 4(2)(j)](https://www.legislation.gov.uk/anaw/2019/2/section/4/2/j) inserted (7.6.2021) by [Renting Homes (Amendment) (Wales) Act 2021 (asc 3)](https://www.legislation.gov.uk/asc/2021/3), [ss. 16(3)](https://www.legislation.gov.uk/asc/2021/3/section/16/3), [19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3)
 
-[^key-80836cfb60484e2f42d0b55d92911243]: Commencement: [S. 5](https://www.legislation.gov.uk/anaw/2019/2/section/5) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(a)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/a)
+[^c-80836cfb60484e2f42d0b55d92911243]: Commencement: [S. 5](https://www.legislation.gov.uk/anaw/2019/2/section/5) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(a)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/a)
 
-[^key-1bfd097af59c5dfdcb7de20bfab91df8]: Commencement: [S. 6](https://www.legislation.gov.uk/anaw/2019/2/section/6) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(a)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/a)
+[^c-1bfd097af59c5dfdcb7de20bfab91df8]: Commencement: [S. 6](https://www.legislation.gov.uk/anaw/2019/2/section/6) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(a)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/a)
 
-[^key-80d4081d0500e4d871599cfebb290c24]: Textual amendment: [S. 6(b)](https://www.legislation.gov.uk/anaw/2019/2/section/6/b) omitted (1.12.2022) by virtue of [Renting Homes (Amendment) (Wales) Act 2021 (asc 3)](https://www.legislation.gov.uk/asc/2021/3), [s. 19(2)](https://www.legislation.gov.uk/asc/2021/3/section/19/2), [Sch. 6 para. 28(2)](https://www.legislation.gov.uk/asc/2021/3/schedule/6/paragraph/28/2); [S.I. 2022/904](https://www.legislation.gov.uk/wsi/2022/904), [art. 2](https://www.legislation.gov.uk/wsi/2022/904/article/2)
+[^c-80d4081d0500e4d871599cfebb290c24]: Textual amendment: [S. 6(b)](https://www.legislation.gov.uk/anaw/2019/2/section/6/b) omitted (1.12.2022) by virtue of [Renting Homes (Amendment) (Wales) Act 2021 (asc 3)](https://www.legislation.gov.uk/asc/2021/3), [s. 19(2)](https://www.legislation.gov.uk/asc/2021/3/section/19/2), [Sch. 6 para. 28(2)](https://www.legislation.gov.uk/asc/2021/3/schedule/6/paragraph/28/2); [S.I. 2022/904](https://www.legislation.gov.uk/wsi/2022/904), [art. 2](https://www.legislation.gov.uk/wsi/2022/904/article/2)
 
-[^key-2826e701d9f7736d20159d2f6779d727]: Commencement: [S. 7](https://www.legislation.gov.uk/anaw/2019/2/section/7) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(a)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/a)
+[^c-2826e701d9f7736d20159d2f6779d727]: Commencement: [S. 7](https://www.legislation.gov.uk/anaw/2019/2/section/7) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(a)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/a)
 
-[^key-ff1127978b65ff27a8237cf7f0f9afc6]: Commencement: [S. 8](https://www.legislation.gov.uk/anaw/2019/2/section/8) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(a)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/a)
+[^c-ff1127978b65ff27a8237cf7f0f9afc6]: Commencement: [S. 8](https://www.legislation.gov.uk/anaw/2019/2/section/8) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(a)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/a)
 
-[^key-6643e2613bf9818b7172a72cd458e31d]: Textual amendment: [Pt. 2A](https://www.legislation.gov.uk/anaw/2019/2/part/2A) inserted (1.6.2026) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 44(3)](https://www.legislation.gov.uk/ukpga/2025/26/section/44/3), [145(3)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/3) (with [ss. 49](https://www.legislation.gov.uk/ukpga/2025/26/section/49), [138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [W.S.I. 2026/6](https://www.legislation.gov.uk/wsi/2026/6), [art. 2(b)](https://www.legislation.gov.uk/wsi/2026/6/article/2/b)
+[^c-6643e2613bf9818b7172a72cd458e31d]: Textual amendment: [Pt. 2A](https://www.legislation.gov.uk/anaw/2019/2/part/2A) inserted (1.6.2026) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 44(3)](https://www.legislation.gov.uk/ukpga/2025/26/section/44/3), [145(3)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/3) (with [ss. 49](https://www.legislation.gov.uk/ukpga/2025/26/section/49), [138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [W.S.I. 2026/6](https://www.legislation.gov.uk/wsi/2026/6), [art. 2(b)](https://www.legislation.gov.uk/wsi/2026/6/article/2/b)
 
-[^key-06cad6e1af7cb81b3b3e4d1285c84a27]: Modification: [Pt. 3](https://www.legislation.gov.uk/anaw/2019/2/part/3) applied (with modifications) (1.9.2019) by [The Renting Homes (Fees etc.) (Wales) Act 2019 (Transitional Provision for Assured Shorthold Tenancies) Regulations 2019 (S.I. 2019/1151)](https://www.legislation.gov.uk/wsi/2019/1151), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1151/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2019/1151/regulation/3)
+[^c-06cad6e1af7cb81b3b3e4d1285c84a27]: Modification: [Pt. 3](https://www.legislation.gov.uk/anaw/2019/2/part/3) applied (with modifications) (1.9.2019) by [The Renting Homes (Fees etc.) (Wales) Act 2019 (Transitional Provision for Assured Shorthold Tenancies) Regulations 2019 (S.I. 2019/1151)](https://www.legislation.gov.uk/wsi/2019/1151), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1151/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2019/1151/regulation/3)
 
-[^key-77571e1438ea66b1ce1ff99ebca9d2be]: Commencement: [S. 9](https://www.legislation.gov.uk/anaw/2019/2/section/9) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(a)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/a)
+[^c-77571e1438ea66b1ce1ff99ebca9d2be]: Commencement: [S. 9](https://www.legislation.gov.uk/anaw/2019/2/section/9) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(a)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/a)
 
-[^key-37302dca9e799a2bb11cfe4a27df0377]: Modification: [Pt. 4](https://www.legislation.gov.uk/anaw/2019/2/part/4) applied (with modifications) (1.9.2019) by [The Renting Homes (Fees etc.) (Wales) Act 2019 (Transitional Provision for Assured Shorthold Tenancies) Regulations 2019 (S.I. 2019/1151)](https://www.legislation.gov.uk/wsi/2019/1151), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1151/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2019/1151/regulation/3)
+[^c-37302dca9e799a2bb11cfe4a27df0377]: Modification: [Pt. 4](https://www.legislation.gov.uk/anaw/2019/2/part/4) applied (with modifications) (1.9.2019) by [The Renting Homes (Fees etc.) (Wales) Act 2019 (Transitional Provision for Assured Shorthold Tenancies) Regulations 2019 (S.I. 2019/1151)](https://www.legislation.gov.uk/wsi/2019/1151), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1151/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2019/1151/regulation/3)
 
-[^key-5e674ab8e6942003ea95bfbd331047d6]: Commencement: [S. 10](https://www.legislation.gov.uk/anaw/2019/2/section/10) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(a)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/a)
+[^c-5e674ab8e6942003ea95bfbd331047d6]: Commencement: [S. 10](https://www.legislation.gov.uk/anaw/2019/2/section/10) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(a)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/a)
 
-[^key-8e4a74844f3c3999ab01f2505f13eb1e]: Textual amendment: [S. 10(4)(za)](https://www.legislation.gov.uk/anaw/2019/2/section/10/4/za)[(zb)](https://www.legislation.gov.uk/anaw/2019/2/section/10/4/zb) inserted (1.6.2026) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 44(4)(a)](https://www.legislation.gov.uk/ukpga/2025/26/section/44/4/a), [145(3)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/3) (with [ss. 49](https://www.legislation.gov.uk/ukpga/2025/26/section/49), [138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [W.S.I. 2026/6](https://www.legislation.gov.uk/wsi/2026/6), [art. 2(b)](https://www.legislation.gov.uk/wsi/2026/6/article/2/b)
+[^c-8e4a74844f3c3999ab01f2505f13eb1e]: Textual amendment: [S. 10(4)(za)](https://www.legislation.gov.uk/anaw/2019/2/section/10/4/za)[(zb)](https://www.legislation.gov.uk/anaw/2019/2/section/10/4/zb) inserted (1.6.2026) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 44(4)(a)](https://www.legislation.gov.uk/ukpga/2025/26/section/44/4/a), [145(3)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/3) (with [ss. 49](https://www.legislation.gov.uk/ukpga/2025/26/section/49), [138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [W.S.I. 2026/6](https://www.legislation.gov.uk/wsi/2026/6), [art. 2(b)](https://www.legislation.gov.uk/wsi/2026/6/article/2/b)
 
-[^key-ecd08e367f89963382fb3feba2dd5f0f]: Textual amendment: S. 10(4)(a)-(c) renumbered as s. 10(4)(zb)(i)-(iii) (1.6.2026) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 44(4)(b)](https://www.legislation.gov.uk/ukpga/2025/26/section/44/4/b), [145(3)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/3) (with [ss. 49](https://www.legislation.gov.uk/ukpga/2025/26/section/49), [138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [W.S.I. 2026/6](https://www.legislation.gov.uk/wsi/2026/6), [art. 2(b)](https://www.legislation.gov.uk/wsi/2026/6/article/2/b)
+[^c-ecd08e367f89963382fb3feba2dd5f0f]: Textual amendment: S. 10(4)(a)-(c) renumbered as s. 10(4)(zb)(i)-(iii) (1.6.2026) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 44(4)(b)](https://www.legislation.gov.uk/ukpga/2025/26/section/44/4/b), [145(3)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/3) (with [ss. 49](https://www.legislation.gov.uk/ukpga/2025/26/section/49), [138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [W.S.I. 2026/6](https://www.legislation.gov.uk/wsi/2026/6), [art. 2(b)](https://www.legislation.gov.uk/wsi/2026/6/article/2/b)
 
-[^key-28c81ad01beb44660ab6946805783be4]: Textual amendment: [S. 10(4A)](https://www.legislation.gov.uk/anaw/2019/2/section/10/4A) inserted (1.6.2026) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 44(5)](https://www.legislation.gov.uk/ukpga/2025/26/section/44/5), [145(3)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/3) (with [ss. 49](https://www.legislation.gov.uk/ukpga/2025/26/section/49), [138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [W.S.I. 2026/6](https://www.legislation.gov.uk/wsi/2026/6), [art. 2(b)](https://www.legislation.gov.uk/wsi/2026/6/article/2/b)
+[^c-28c81ad01beb44660ab6946805783be4]: Textual amendment: [S. 10(4A)](https://www.legislation.gov.uk/anaw/2019/2/section/10/4A) inserted (1.6.2026) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 44(5)](https://www.legislation.gov.uk/ukpga/2025/26/section/44/5), [145(3)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/3) (with [ss. 49](https://www.legislation.gov.uk/ukpga/2025/26/section/49), [138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [W.S.I. 2026/6](https://www.legislation.gov.uk/wsi/2026/6), [art. 2(b)](https://www.legislation.gov.uk/wsi/2026/6/article/2/b)
 
-[^key-e29a55037d4d2748500dc45fbba2f09d]: Commencement: [S. 11](https://www.legislation.gov.uk/anaw/2019/2/section/11) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(a)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/a)
+[^c-e29a55037d4d2748500dc45fbba2f09d]: Commencement: [S. 11](https://www.legislation.gov.uk/anaw/2019/2/section/11) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(a)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/a)
 
-[^key-d1137e65d47827400100c6a86e23fabe]: Commencement: [S. 12](https://www.legislation.gov.uk/anaw/2019/2/section/12) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(a)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/a)
+[^c-d1137e65d47827400100c6a86e23fabe]: Commencement: [S. 12](https://www.legislation.gov.uk/anaw/2019/2/section/12) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(a)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/a)
 
-[^key-d8439095be2edcdef75c850cceb992f2]: Commencement: [S. 13](https://www.legislation.gov.uk/anaw/2019/2/section/13) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(a)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/a)
+[^c-d8439095be2edcdef75c850cceb992f2]: Commencement: [S. 13](https://www.legislation.gov.uk/anaw/2019/2/section/13) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(a)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/a)
 
-[^key-15eade4b09df86fc58da60ec0a072014]: Textual amendment: Words in [s. 13(1)](https://www.legislation.gov.uk/anaw/2019/2/section/13/1) inserted (1.6.2026) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 44(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/44/6), [145(3)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/3) (with [ss. 49](https://www.legislation.gov.uk/ukpga/2025/26/section/49), [138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [W.S.I. 2026/6](https://www.legislation.gov.uk/wsi/2026/6), [art. 2(b)](https://www.legislation.gov.uk/wsi/2026/6/article/2/b)
+[^c-15eade4b09df86fc58da60ec0a072014]: Textual amendment: Words in [s. 13(1)](https://www.legislation.gov.uk/anaw/2019/2/section/13/1) inserted (1.6.2026) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 44(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/44/6), [145(3)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/3) (with [ss. 49](https://www.legislation.gov.uk/ukpga/2025/26/section/49), [138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [W.S.I. 2026/6](https://www.legislation.gov.uk/wsi/2026/6), [art. 2(b)](https://www.legislation.gov.uk/wsi/2026/6/article/2/b)
 
-[^key-8744e36e66acd2fe8e3e86a996e486e1]: Commencement: [S. 14](https://www.legislation.gov.uk/anaw/2019/2/section/14) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(a)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/a)
+[^c-8744e36e66acd2fe8e3e86a996e486e1]: Commencement: [S. 14](https://www.legislation.gov.uk/anaw/2019/2/section/14) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(a)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/a)
 
-[^key-ec0a8363cc1522b4b245182f76aa4aff]: Commencement: [S. 15](https://www.legislation.gov.uk/anaw/2019/2/section/15) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(a)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/a)
+[^c-ec0a8363cc1522b4b245182f76aa4aff]: Commencement: [S. 15](https://www.legislation.gov.uk/anaw/2019/2/section/15) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(a)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/a)
 
-[^key-8cdc9a0c2fc29f46b48b0689615f92c1]: Commencement: [S. 16](https://www.legislation.gov.uk/anaw/2019/2/section/16) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(a)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/a)
+[^c-8cdc9a0c2fc29f46b48b0689615f92c1]: Commencement: [S. 16](https://www.legislation.gov.uk/anaw/2019/2/section/16) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(a)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/a)
 
-[^key-0ce911aa256d0c89ffa60ceb8d710e68]: Commencement: [S. 17](https://www.legislation.gov.uk/anaw/2019/2/section/17) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(a)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/a)
+[^c-0ce911aa256d0c89ffa60ceb8d710e68]: Commencement: [S. 17](https://www.legislation.gov.uk/anaw/2019/2/section/17) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(a)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/a)
 
-[^key-f0caf6380322b9db439194236c901657]: Textual amendment: [S. 17(3A)](https://www.legislation.gov.uk/anaw/2019/2/section/17/3A) inserted (1.6.2026) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 44(7)(a)](https://www.legislation.gov.uk/ukpga/2025/26/section/44/7/a), [145(3)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/3) (with [ss. 49](https://www.legislation.gov.uk/ukpga/2025/26/section/49), [138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [W.S.I. 2026/6](https://www.legislation.gov.uk/wsi/2026/6), [art. 2(b)](https://www.legislation.gov.uk/wsi/2026/6/article/2/b)
+[^c-f0caf6380322b9db439194236c901657]: Textual amendment: [S. 17(3A)](https://www.legislation.gov.uk/anaw/2019/2/section/17/3A) inserted (1.6.2026) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 44(7)(a)](https://www.legislation.gov.uk/ukpga/2025/26/section/44/7/a), [145(3)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/3) (with [ss. 49](https://www.legislation.gov.uk/ukpga/2025/26/section/49), [138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [W.S.I. 2026/6](https://www.legislation.gov.uk/wsi/2026/6), [art. 2(b)](https://www.legislation.gov.uk/wsi/2026/6/article/2/b)
 
-[^key-e3bdfe37279977ccd05996fe2c3a1a3b]: Textual amendment: Words in [s. 17(4)](https://www.legislation.gov.uk/anaw/2019/2/section/17/4) become a definition (1.6.2026) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 44(7)(b)](https://www.legislation.gov.uk/ukpga/2025/26/section/44/7/b), [145(3)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/3) (with [ss. 49](https://www.legislation.gov.uk/ukpga/2025/26/section/49), [138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [W.S.I. 2026/6](https://www.legislation.gov.uk/wsi/2026/6), [art. 2(b)](https://www.legislation.gov.uk/wsi/2026/6/article/2/b)
+[^c-e3bdfe37279977ccd05996fe2c3a1a3b]: Textual amendment: Words in [s. 17(4)](https://www.legislation.gov.uk/anaw/2019/2/section/17/4) become a definition (1.6.2026) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 44(7)(b)](https://www.legislation.gov.uk/ukpga/2025/26/section/44/7/b), [145(3)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/3) (with [ss. 49](https://www.legislation.gov.uk/ukpga/2025/26/section/49), [138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [W.S.I. 2026/6](https://www.legislation.gov.uk/wsi/2026/6), [art. 2(b)](https://www.legislation.gov.uk/wsi/2026/6/article/2/b)
 
-[^key-3c2f548e953c1a6330408417b52a1f14]: Textual amendment: Words in [s. 17(4)](https://www.legislation.gov.uk/anaw/2019/2/section/17/4) inserted (1.6.2026) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 44(7)(c)](https://www.legislation.gov.uk/ukpga/2025/26/section/44/7/c), [145(3)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/3) (with [ss. 49](https://www.legislation.gov.uk/ukpga/2025/26/section/49), [138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [W.S.I. 2026/6](https://www.legislation.gov.uk/wsi/2026/6), [art. 2(b)](https://www.legislation.gov.uk/wsi/2026/6/article/2/b)
+[^c-3c2f548e953c1a6330408417b52a1f14]: Textual amendment: Words in [s. 17(4)](https://www.legislation.gov.uk/anaw/2019/2/section/17/4) inserted (1.6.2026) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 44(7)(c)](https://www.legislation.gov.uk/ukpga/2025/26/section/44/7/c), [145(3)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/3) (with [ss. 49](https://www.legislation.gov.uk/ukpga/2025/26/section/49), [138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [W.S.I. 2026/6](https://www.legislation.gov.uk/wsi/2026/6), [art. 2(b)](https://www.legislation.gov.uk/wsi/2026/6/article/2/b)
 
-[^key-67d7d4184d0c2e3c29b0859ac21ace2a]: Commencement: [S. 18](https://www.legislation.gov.uk/anaw/2019/2/section/18) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(a)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/a)
+[^c-67d7d4184d0c2e3c29b0859ac21ace2a]: Commencement: [S. 18](https://www.legislation.gov.uk/anaw/2019/2/section/18) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(a)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/a)
 
-[^key-073cdc10e7a5c94e5f02cc66b918d768]: Commencement: [S. 19](https://www.legislation.gov.uk/anaw/2019/2/section/19) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(a)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/a)
+[^c-073cdc10e7a5c94e5f02cc66b918d768]: Commencement: [S. 19](https://www.legislation.gov.uk/anaw/2019/2/section/19) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(a)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/a)
 
-[^key-3ca02ec0fb53e1a0e0665233e08c31f8]: Textual amendment: S. 20 substituted (7.6.2021) by [Renting Homes (Amendment) (Wales) Act 2021 (asc 3)](https://www.legislation.gov.uk/asc/2021/3), [ss. 6(5)(a)](https://www.legislation.gov.uk/asc/2021/3/section/6/5/a), [19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3)
+[^c-3ca02ec0fb53e1a0e0665233e08c31f8]: Textual amendment: S. 20 substituted (7.6.2021) by [Renting Homes (Amendment) (Wales) Act 2021 (asc 3)](https://www.legislation.gov.uk/asc/2021/3), [ss. 6(5)(a)](https://www.legislation.gov.uk/asc/2021/3/section/6/5/a), [19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3)
 
-[^key-8732dc05ca5b489c86db49c21d0b98c8]: Commencement: [S. 21](https://www.legislation.gov.uk/anaw/2019/2/section/21) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(b)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/b)
+[^c-8732dc05ca5b489c86db49c21d0b98c8]: Commencement: [S. 21](https://www.legislation.gov.uk/anaw/2019/2/section/21) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(b)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/b)
 
-[^key-18f7b25ad684a38cb7b31ba46f2d0c3b]: Modification: [Pt. 5](https://www.legislation.gov.uk/anaw/2019/2/part/5) applied (with modifications) (1.9.2019) by [The Renting Homes (Fees etc.) (Wales) Act 2019 (Transitional Provision for Assured Shorthold Tenancies) Regulations 2019 (S.I. 2019/1151)](https://www.legislation.gov.uk/wsi/2019/1151), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1151/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2019/1151/regulation/3)
+[^c-18f7b25ad684a38cb7b31ba46f2d0c3b]: Modification: [Pt. 5](https://www.legislation.gov.uk/anaw/2019/2/part/5) applied (with modifications) (1.9.2019) by [The Renting Homes (Fees etc.) (Wales) Act 2019 (Transitional Provision for Assured Shorthold Tenancies) Regulations 2019 (S.I. 2019/1151)](https://www.legislation.gov.uk/wsi/2019/1151), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1151/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2019/1151/regulation/3)
 
-[^key-a69f7c9b106fc5bc3f0c5789259e146a]: Commencement: [S. 22](https://www.legislation.gov.uk/anaw/2019/2/section/22) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(b)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/b)
+[^c-a69f7c9b106fc5bc3f0c5789259e146a]: Commencement: [S. 22](https://www.legislation.gov.uk/anaw/2019/2/section/22) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(b)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/b)
 
-[^key-616547889fd37f3bcb0de223632fef47]: Commencement: [S. 23](https://www.legislation.gov.uk/anaw/2019/2/section/23) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(b)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/b)
+[^c-616547889fd37f3bcb0de223632fef47]: Commencement: [S. 23](https://www.legislation.gov.uk/anaw/2019/2/section/23) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(b)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/b)
 
-[^key-4e770da283dd545df417d8833f1b59aa]: Modification: [Pt. 7](https://www.legislation.gov.uk/anaw/2019/2/part/7) applied (with modifications) (1.9.2019) by [The Renting Homes (Fees etc.) (Wales) Act 2019 (Transitional Provision for Assured Shorthold Tenancies) Regulations 2019 (S.I. 2019/1151)](https://www.legislation.gov.uk/wsi/2019/1151), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1151/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2019/1151/regulation/3)
+[^c-4e770da283dd545df417d8833f1b59aa]: Modification: [Pt. 7](https://www.legislation.gov.uk/anaw/2019/2/part/7) applied (with modifications) (1.9.2019) by [The Renting Homes (Fees etc.) (Wales) Act 2019 (Transitional Provision for Assured Shorthold Tenancies) Regulations 2019 (S.I. 2019/1151)](https://www.legislation.gov.uk/wsi/2019/1151), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1151/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2019/1151/regulation/3)
 
-[^key-54402916fb0f212b28aa9ecf2f44a53f]: Commencement: [S. 24](https://www.legislation.gov.uk/anaw/2019/2/section/24) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(b)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/b)
+[^c-54402916fb0f212b28aa9ecf2f44a53f]: Commencement: [S. 24](https://www.legislation.gov.uk/anaw/2019/2/section/24) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(b)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/b)
 
-[^key-520202f5a4f17cd0fbe169c19d043248]: Textual amendment: [S. 25](https://www.legislation.gov.uk/anaw/2019/2/section/25) omitted (1.12.2022) by virtue of [Renting Homes (Amendment) (Wales) Act 2021 (asc 3)](https://www.legislation.gov.uk/asc/2021/3), [s. 19(2)](https://www.legislation.gov.uk/asc/2021/3/section/19/2), [Sch. 6 para. 28(3)](https://www.legislation.gov.uk/asc/2021/3/schedule/6/paragraph/28/3); [S.I. 2022/904](https://www.legislation.gov.uk/wsi/2022/904), [art. 2](https://www.legislation.gov.uk/wsi/2022/904/article/2)
+[^c-520202f5a4f17cd0fbe169c19d043248]: Textual amendment: [S. 25](https://www.legislation.gov.uk/anaw/2019/2/section/25) omitted (1.12.2022) by virtue of [Renting Homes (Amendment) (Wales) Act 2021 (asc 3)](https://www.legislation.gov.uk/asc/2021/3), [s. 19(2)](https://www.legislation.gov.uk/asc/2021/3/section/19/2), [Sch. 6 para. 28(3)](https://www.legislation.gov.uk/asc/2021/3/schedule/6/paragraph/28/3); [S.I. 2022/904](https://www.legislation.gov.uk/wsi/2022/904), [art. 2](https://www.legislation.gov.uk/wsi/2022/904/article/2)
 
-[^key-b0a165ddeec435d8b425e42ccd09435a]: Commencement: [S. 25](https://www.legislation.gov.uk/anaw/2019/2/section/25) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(b)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/b)
+[^c-b0a165ddeec435d8b425e42ccd09435a]: Commencement: [S. 25](https://www.legislation.gov.uk/anaw/2019/2/section/25) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(b)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/b)
 
-[^key-37c067d8b39635d909d16eb2b4ac5390]: Commencement: [S. 26](https://www.legislation.gov.uk/anaw/2019/2/section/26) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(b)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/b)
+[^c-37c067d8b39635d909d16eb2b4ac5390]: Commencement: [S. 26](https://www.legislation.gov.uk/anaw/2019/2/section/26) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(b)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/b)
 
-[^key-85fdef6786e8255ec0ba1022e871a226]: Commencement: [S. 27](https://www.legislation.gov.uk/anaw/2019/2/section/27) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(b)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/b)
+[^c-85fdef6786e8255ec0ba1022e871a226]: Commencement: [S. 27](https://www.legislation.gov.uk/anaw/2019/2/section/27) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(b)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/b)
 
-[^key-8d14953642b3762116dd561c8e3571dc]: Textual amendment: Words in [s. 27(3)](https://www.legislation.gov.uk/anaw/2019/2/section/27/3) inserted (1.6.2026) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 44(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/44/8), [145(3)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/3) (with [ss. 49](https://www.legislation.gov.uk/ukpga/2025/26/section/49), [138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [W.S.I. 2026/6](https://www.legislation.gov.uk/wsi/2026/6), [art. 2(b)](https://www.legislation.gov.uk/wsi/2026/6/article/2/b)
+[^c-8d14953642b3762116dd561c8e3571dc]: Textual amendment: Words in [s. 27(3)](https://www.legislation.gov.uk/anaw/2019/2/section/27/3) inserted (1.6.2026) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 44(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/44/8), [145(3)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/3) (with [ss. 49](https://www.legislation.gov.uk/ukpga/2025/26/section/49), [138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [W.S.I. 2026/6](https://www.legislation.gov.uk/wsi/2026/6), [art. 2(b)](https://www.legislation.gov.uk/wsi/2026/6/article/2/b)
 
-[^key-6252befb6a9de69cd87633fdd03e7b72]: Commencement: [S. 28](https://www.legislation.gov.uk/anaw/2019/2/section/28) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(b)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/b)
+[^c-6252befb6a9de69cd87633fdd03e7b72]: Commencement: [S. 28](https://www.legislation.gov.uk/anaw/2019/2/section/28) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(b)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/b)
 
-[^key-bc62dfef40eb5aa5557b8d911391fa7c]: Commencement: [S. 29](https://www.legislation.gov.uk/anaw/2019/2/section/29) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(b)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/b)
+[^c-bc62dfef40eb5aa5557b8d911391fa7c]: Commencement: [S. 29](https://www.legislation.gov.uk/anaw/2019/2/section/29) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(b)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/b)
 
-[^key-c5b56a89a013a3f9f4b47df0b4345f73]: Textual amendment: Word in [s. 31](https://www.legislation.gov.uk/anaw/2019/2/section/31) inserted (1.6.2026) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 45(5)(b)](https://www.legislation.gov.uk/ukpga/2025/26/section/45/5/b), [145(3)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/3) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [W.S.I. 2026/6](https://www.legislation.gov.uk/wsi/2026/6), [art. 2(c)](https://www.legislation.gov.uk/wsi/2026/6/article/2/c)
+[^c-c5b56a89a013a3f9f4b47df0b4345f73]: Textual amendment: Word in [s. 31](https://www.legislation.gov.uk/anaw/2019/2/section/31) inserted (1.6.2026) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 45(5)(b)](https://www.legislation.gov.uk/ukpga/2025/26/section/45/5/b), [145(3)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/3) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [W.S.I. 2026/6](https://www.legislation.gov.uk/wsi/2026/6), [art. 2(c)](https://www.legislation.gov.uk/wsi/2026/6/article/2/c)
 
-[^key-1e9ea022fce398072dd7219980d06a3f]: Commencement: Sch. 1 para. 1 in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(c)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/c)
+[^c-1e9ea022fce398072dd7219980d06a3f]: Commencement: Sch. 1 para. 1 in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(c)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/c)
 
-[^key-cf3e6852d16535c94360599f1e443145]: Commencement: Sch. 1 para. 2 in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(c)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/c)
+[^c-cf3e6852d16535c94360599f1e443145]: Commencement: Sch. 1 para. 2 in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(c)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/c)
 
-[^key-576719149d44371444cf724d86f21df2]: Commencement: Sch. 1 para. 3 in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(c)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/c)
+[^c-576719149d44371444cf724d86f21df2]: Commencement: Sch. 1 para. 3 in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(c)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/c)
 
-[^key-035e436282f7ebff4a3bcc0477bbd8e1]: Commencement: Sch. 1 para. 4 in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(c)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/c)
+[^c-035e436282f7ebff4a3bcc0477bbd8e1]: Commencement: Sch. 1 para. 4 in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(c)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/c)
 
-[^key-b464863f0c746cba7ccb45e8f7cb52b1]: Commencement: Sch. 1 para. 5 in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(c)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/c)
+[^c-b464863f0c746cba7ccb45e8f7cb52b1]: Commencement: Sch. 1 para. 5 in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(c)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/c)
 
-[^key-da2ba7840778b1d11d2f841ec5aa838c]: Commencement: Sch. 1 para. 6 in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(c)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/c)
+[^c-da2ba7840778b1d11d2f841ec5aa838c]: Commencement: Sch. 1 para. 6 in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(c)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/c)
 
-[^key-5271ca24ec008953daba534940a44921]: Commencement: Sch. 1 para. 7 in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(c)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/c)
+[^c-5271ca24ec008953daba534940a44921]: Commencement: Sch. 1 para. 7 in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(c)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/c)
 
-[^key-434533c005d5bb721514fe1680c23544]: Commencement: Sch. 1 para. 8 in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(c)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/c)
+[^c-434533c005d5bb721514fe1680c23544]: Commencement: Sch. 1 para. 8 in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(c)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/c)
 
-[^key-40760f2b135ad5079b9037f1c8d22758]: Commencement: Sch. 1 para. 9 in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(c)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/c)
+[^c-40760f2b135ad5079b9037f1c8d22758]: Commencement: Sch. 1 para. 9 in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(c)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/c)
 
-[^key-b169a8ae5fe9dc98ecae8199259dc50d]: Commencement: Sch. 1 para. 10 in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(c)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/c)
+[^c-b169a8ae5fe9dc98ecae8199259dc50d]: Commencement: Sch. 1 para. 10 in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(c)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/c)
 
-[^key-1b7413bff38d82b718f81dfdd4dd6241]: Textual amendment: Sch. 1 para. 10A inserted (with effect in accordance with s.15(4) of the amending Act) by [Renting Homes (Amendment) (Wales) Act 2021 (asc 3)](https://www.legislation.gov.uk/asc/2021/3), [ss. 15(1)](https://www.legislation.gov.uk/asc/2021/3/section/15/1), [19(1)](https://www.legislation.gov.uk/asc/2021/3/section/19/1) (with [s. 15(5)-(7)](https://www.legislation.gov.uk/asc/2021/3/section/15/5))
+[^c-1b7413bff38d82b718f81dfdd4dd6241]: Textual amendment: Sch. 1 para. 10A inserted (with effect in accordance with s.15(4) of the amending Act) by [Renting Homes (Amendment) (Wales) Act 2021 (asc 3)](https://www.legislation.gov.uk/asc/2021/3), [ss. 15(1)](https://www.legislation.gov.uk/asc/2021/3/section/15/1), [19(1)](https://www.legislation.gov.uk/asc/2021/3/section/19/1) (with [s. 15(5)-(7)](https://www.legislation.gov.uk/asc/2021/3/section/15/5))
 
-[^key-780e6b2672f0a0a754c426b284c66495]: Textual amendment: Sch. 1 para. 10B and cross-heading inserted (7.6.2021) by [Renting Homes (Amendment) (Wales) Act 2021 (asc 3)](https://www.legislation.gov.uk/asc/2021/3), [ss. 16(2)](https://www.legislation.gov.uk/asc/2021/3/section/16/2), [19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3)
+[^c-780e6b2672f0a0a754c426b284c66495]: Textual amendment: Sch. 1 para. 10B and cross-heading inserted (7.6.2021) by [Renting Homes (Amendment) (Wales) Act 2021 (asc 3)](https://www.legislation.gov.uk/asc/2021/3), [ss. 16(2)](https://www.legislation.gov.uk/asc/2021/3/section/16/2), [19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3)
 
-[^key-8e90c4abbebf475d498c23caf661eb2f]: Commencement: Sch. 1 para. 11 in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(c)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/c)
+[^c-8e90c4abbebf475d498c23caf661eb2f]: Commencement: Sch. 1 para. 11 in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(c)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/c)
 
-[^key-927959614a36b4267f6dcefc03dc059f]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/anaw/2019/2/schedule/2/paragraph/1) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(d)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/d)
+[^c-927959614a36b4267f6dcefc03dc059f]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/anaw/2019/2/schedule/2/paragraph/1) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(d)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/d)
 
-[^key-8eac7ec211ab295e9a530f31ebdc6cef]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/anaw/2019/2/schedule/2/paragraph/2) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(d)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/d)
+[^c-8eac7ec211ab295e9a530f31ebdc6cef]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/anaw/2019/2/schedule/2/paragraph/2) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(d)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/d)
 
-[^key-ac43489270169bbaaed8af9162e4ad1d]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/anaw/2019/2/schedule/2/paragraph/3) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(d)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/d)
+[^c-ac43489270169bbaaed8af9162e4ad1d]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/anaw/2019/2/schedule/2/paragraph/3) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(d)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/d)
 
-[^key-132cd25fe66a142da58ab0a25e9c79b4]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/anaw/2019/2/schedule/2/paragraph/4) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(d)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/d)
+[^c-132cd25fe66a142da58ab0a25e9c79b4]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/anaw/2019/2/schedule/2/paragraph/4) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(d)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/d)
 
-[^key-d90c6b5aff274750e3b566b68a542ee7]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/anaw/2019/2/schedule/2/paragraph/5) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(d)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/d)
+[^c-d90c6b5aff274750e3b566b68a542ee7]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/anaw/2019/2/schedule/2/paragraph/5) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(d)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/d)
 
-[^key-a3181e64cdbca21160ba138d285df53a]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/anaw/2019/2/schedule/2/paragraph/6) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(d)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/d)
+[^c-a3181e64cdbca21160ba138d285df53a]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/anaw/2019/2/schedule/2/paragraph/6) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(d)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/d)
 
-[^key-12da208700e341375da2f3f1e97488f0]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/anaw/2019/2/schedule/2/paragraph/7) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(d)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/d)
+[^c-12da208700e341375da2f3f1e97488f0]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/anaw/2019/2/schedule/2/paragraph/7) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(d)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/d)
 
-[^key-d6fc4037a6ab7cd31578df4ec8060078]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/anaw/2019/2/schedule/2/paragraph/8) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(d)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/d)
+[^c-d6fc4037a6ab7cd31578df4ec8060078]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/anaw/2019/2/schedule/2/paragraph/8) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(d)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/d)
 
-[^key-49f15e919239438e8bfd2c8f4c0d302c]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/anaw/2019/2/schedule/2/paragraph/9) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(d)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/d)
+[^c-49f15e919239438e8bfd2c8f4c0d302c]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/anaw/2019/2/schedule/2/paragraph/9) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(d)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/d)
 
-[^key-3b6e18cce7cc8164908b8baae1cbb61c]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/anaw/2019/2/schedule/2/paragraph/10) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(d)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/d)
+[^c-3b6e18cce7cc8164908b8baae1cbb61c]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/anaw/2019/2/schedule/2/paragraph/10) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(d)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/d)
 
-[^key-1bacc8227e370f0fc3b72779e009e7bf]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/anaw/2019/2/schedule/2/paragraph/11) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(d)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/d)
+[^c-1bacc8227e370f0fc3b72779e009e7bf]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/anaw/2019/2/schedule/2/paragraph/11) in force at 1.9.2019 by [S.I. 2019/1150](https://www.legislation.gov.uk/wsi/2019/1150), [art. 2(d)](https://www.legislation.gov.uk/wsi/2019/1150/article/2/d)
 
-[^key-dc0fb2a80b93d73914e2edb6fa993d8b]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/anaw/2019/2/schedule/3) omitted (7.6.2021) by virtue of [Renting Homes (Amendment) (Wales) Act 2021 (asc 3)](https://www.legislation.gov.uk/asc/2021/3), [ss. 6(5)(b)](https://www.legislation.gov.uk/asc/2021/3/section/6/5/b), [19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3)
+[^c-dc0fb2a80b93d73914e2edb6fa993d8b]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/anaw/2019/2/schedule/3) omitted (7.6.2021) by virtue of [Renting Homes (Amendment) (Wales) Act 2021 (asc 3)](https://www.legislation.gov.uk/asc/2021/3), [ss. 6(5)(b)](https://www.legislation.gov.uk/asc/2021/3/section/6/5/b), [19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3)

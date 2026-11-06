@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Enforcement of certain provisions[^key-ccf20466be1e36c471da13b5ab328e50]
+## 49. Enforcement of certain provisions[^c-ccf20466be1e36c471da13b5ab328e50]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ccf20466be1e36c471da13b5ab328e50]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2003/37/section/49) in force at 1.10.2004 by [S.I. 2004/2528](https://www.legislation.gov.uk/uksi/2004/2528), [art. 2(f)](https://www.legislation.gov.uk/uksi/2004/2528/article/2/f) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2004/2528/schedule/paragraph/8))
+[^c-ccf20466be1e36c471da13b5ab328e50]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2003/37/section/49) in force at 1.10.2004 by [S.I. 2004/2528](https://www.legislation.gov.uk/uksi/2004/2528), [art. 2(f)](https://www.legislation.gov.uk/uksi/2004/2528/article/2/f) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2004/2528/schedule/paragraph/8))

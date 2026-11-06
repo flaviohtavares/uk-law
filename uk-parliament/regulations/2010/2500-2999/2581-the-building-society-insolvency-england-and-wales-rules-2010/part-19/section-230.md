@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 230. Retention of proxies[^key-b3c6ee97b6c1eb45eefbb96d53b848ae]
+## 230. Retention of proxies[^c-b3c6ee97b6c1eb45eefbb96d53b848ae]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 8.4 of the 1986 Rules.
 
 ## Annotations
 
-[^key-b3c6ee97b6c1eb45eefbb96d53b848ae]: Commencement: Rule 230 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-b3c6ee97b6c1eb45eefbb96d53b848ae]: Commencement: Rule 230 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

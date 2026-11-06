@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 60. Flood protection schemes[^key-cc1a7fa8011a992a2041ccb6b802bc78]
+## 60. Flood protection schemes[^c-cc1a7fa8011a992a2041ccb6b802bc78]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cc1a7fa8011a992a2041ccb6b802bc78]: Commencement: [S. 60](https://www.legislation.gov.uk/asp/2009/6/section/60) in force at 29.11.2010 by [S.S.I. 2010/401](https://www.legislation.gov.uk/ssi/2010/401), [art. 2(a)](https://www.legislation.gov.uk/ssi/2010/401/article/2/a)
+[^c-cc1a7fa8011a992a2041ccb6b802bc78]: Commencement: [S. 60](https://www.legislation.gov.uk/asp/2009/6/section/60) in force at 29.11.2010 by [S.S.I. 2010/401](https://www.legislation.gov.uk/ssi/2010/401), [art. 2(a)](https://www.legislation.gov.uk/ssi/2010/401/article/2/a)

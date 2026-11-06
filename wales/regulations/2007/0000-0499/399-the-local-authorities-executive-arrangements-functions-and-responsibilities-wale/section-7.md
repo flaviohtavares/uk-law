@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Revocation[^key-d88b7bbd13151a4b7846b786ee76e24b]
+## 7. Revocation[^c-d88b7bbd13151a4b7846b786ee76e24b]
 
 *Extent: E+W*
 
@@ -29,7 +29,7 @@ The following are revoked—
 
 ## Annotations
 
-[^key-d88b7bbd13151a4b7846b786ee76e24b]: Commencement: Reg. 7 in force at 16.2.2007, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/399/regulation/1/1)
+[^c-d88b7bbd13151a4b7846b786ee76e24b]: Commencement: Reg. 7 in force at 16.2.2007, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/399/regulation/1/1)
 
 [^f00007]: Footnote: [SI. 2001 / 2291 (W.179)](https://www.legislation.gov.uk/wsi/2001/2291).
 

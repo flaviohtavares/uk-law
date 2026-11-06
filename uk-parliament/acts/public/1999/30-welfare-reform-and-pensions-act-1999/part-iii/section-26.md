@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Interpretation of Part III.[^c1314259][^key-a4f3c9b7bf65354eec35d792ade21b23]
+## 26. Interpretation of Part III.[^c1314259][^c-a4f3c9b7bf65354eec35d792ade21b23]
 
 *Extent: E+W+S*
 
@@ -31,7 +31,7 @@ summary: ''
   - (e) an annuity purchased, or entered into, for the purpose of discharging liability in respect of a pension credit under section 29(1)(b) or under corresponding Northern Ireland legislation;
 - “**personal pension scheme**” has the same meaning as in the Pension Schemes Act 1993;
 - “**prescribed**” means prescribed by regulations made by the Secretary of State;
-- “retirement annuity contract” means an annuity contract or trust scheme approved under section 620 or 621 of the Income and Corporation Taxes Act 1988 or a substituted contract within the meaning of section 622(3) of that Act which became a registered pension scheme by virtue of paragraph 1(1)(f) of Schedule 36 to the Finance Act 2004,[^key-b269722a4b59bbc3d3bd05ad08af3303]
+- “retirement annuity contract” means an annuity contract or trust scheme approved under section 620 or 621 of the Income and Corporation Taxes Act 1988 or a substituted contract within the meaning of section 622(3) of that Act which became a registered pension scheme by virtue of paragraph 1(1)(f) of Schedule 36 to the Finance Act 2004,[^c-b269722a4b59bbc3d3bd05ad08af3303]
 - “**trustees or managers**”, in relation to an occupational pension scheme or a personal pension scheme, means—
   - (a) in the case of a scheme established under a trust, the trustees of the scheme, and
   - (b) in any other case, the managers of the scheme.
@@ -46,8 +46,8 @@ summary: ''
 
 [^c1314259]: Commencement: S. 26 wholly in force at 1.12.2000; s. 26 in force for certain purposes at Royal Assent see s. 89(1); s. 26 in force at 1.12.2000 insofar as not already in force by [S.I. 2000/1047](https://www.legislation.gov.uk/uksi/2000/1047), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2000/1047/article/2/2/d), [Sch. Pt. IV](https://www.legislation.gov.uk/uksi/2000/1047/schedule/part/IV)
 
-[^key-a4f3c9b7bf65354eec35d792ade21b23]: Modification: S. 26 applied (15.4.2005 for specified purposes, 5.12.2005 in so far as not already in force) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/2), [Sch. 5 para. 29(3)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/5/paragraph/29/3); [S.I. 2005/1112](https://www.legislation.gov.uk/uksi/2005/1112), [art. 2](https://www.legislation.gov.uk/uksi/2005/1112/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1112/schedule/1); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+[^c-a4f3c9b7bf65354eec35d792ade21b23]: Modification: S. 26 applied (15.4.2005 for specified purposes, 5.12.2005 in so far as not already in force) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/2), [Sch. 5 para. 29(3)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/5/paragraph/29/3); [S.I. 2005/1112](https://www.legislation.gov.uk/uksi/2005/1112), [art. 2](https://www.legislation.gov.uk/uksi/2005/1112/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1112/schedule/1); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
 
 [^c1314260]: Marginal citation: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48).
 
-[^key-b269722a4b59bbc3d3bd05ad08af3303]: Textual amendment: Words in s. 26(1) substituted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments) Order 2006 (S.I. 2006/745)](https://www.legislation.gov.uk/uksi/2006/745), [arts. 1](https://www.legislation.gov.uk/uksi/2006/745/article/1), [15(4)](https://www.legislation.gov.uk/uksi/2006/745/article/15/4)
+[^c-b269722a4b59bbc3d3bd05ad08af3303]: Textual amendment: Words in s. 26(1) substituted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments) Order 2006 (S.I. 2006/745)](https://www.legislation.gov.uk/uksi/2006/745), [arts. 1](https://www.legislation.gov.uk/uksi/2006/745/article/1), [15(4)](https://www.legislation.gov.uk/uksi/2006/745/article/15/4)

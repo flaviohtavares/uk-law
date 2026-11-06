@@ -42,10 +42,10 @@ summary: ''
 - (a) pay in respect of a holiday actually taken by the employee, or
 - (b) any accrued holiday pay which, under the employee’s contract of employment, would in the ordinary course have become payable to him in respect of the period of a holiday if his employment with the employer had continued until he became entitled to a holiday.
 
-(4) A sum shall be taken to be reasonable for the purposes of subsection (1)(e) in a case where a trustee in bankruptcy, or (in Scotland) a trustee or interim trustee in the sequestration of an estate under the Bankruptcy (Scotland) Act 2016[^key-e1ff456c640174406275e02689a1368e], or liquidator has been or is required to be appointed—
+(4) A sum shall be taken to be reasonable for the purposes of subsection (1)(e) in a case where a trustee in bankruptcy, or (in Scotland) a trustee or interim trustee in the sequestration of an estate under the Bankruptcy (Scotland) Act 2016[^c-e1ff456c640174406275e02689a1368e], or liquidator has been or is required to be appointed—
 
 - (a) as respects England and Wales, if it is admitted to be reasonable by the trustee in bankruptcy or liquidator under section 348 of the [^c16333921]Insolvency Act 1986 (effect of bankruptcy on apprenticeships etc.), whether as originally enacted or as applied to the winding up of a company by rules under section 411 of that Act, and
-- (b) as respects Scotland, if it is accepted by the trustee[^key-c1e2613e824ddf23ecb2339e6502a507] or interim trustee or liquidator for the purposes of the sequestration or winding up.
+- (b) as respects Scotland, if it is accepted by the trustee[^c-c1e2613e824ddf23ecb2339e6502a507] or interim trustee or liquidator for the purposes of the sequestration or winding up.
 
 ## Annotations
 
@@ -59,8 +59,8 @@ summary: ''
 
 [^c16333901]: Marginal citation: [1992 c. 52](https://www.legislation.gov.uk/ukpga/1992/52).
 
-[^key-e1ff456c640174406275e02689a1368e]: Textual amendment: Words in s. 184(4) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 16(2)(a)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/16/2/a)
+[^c-e1ff456c640174406275e02689a1368e]: Textual amendment: Words in s. 184(4) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 16(2)(a)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/16/2/a)
 
 [^c16333921]: Marginal citation: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45).
 
-[^key-c1e2613e824ddf23ecb2339e6502a507]: Textual amendment: Word in s. 184(4)(b) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 16(2)(b)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/16/2/b)
+[^c-c1e2613e824ddf23ecb2339e6502a507]: Textual amendment: Word in s. 184(4)(b) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 16(2)(b)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/16/2/b)

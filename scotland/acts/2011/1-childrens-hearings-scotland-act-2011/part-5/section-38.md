@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 38. Consideration by sheriff: application by local authority only[^key-9ec39e218a0e19d73b73e0e57a9ecb45]
+## 38. Consideration by sheriff: application by local authority only[^c-9ec39e218a0e19d73b73e0e57a9ecb45]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9ec39e218a0e19d73b73e0e57a9ecb45]: Commencement: S. 38 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-9ec39e218a0e19d73b73e0e57a9ecb45]: Commencement: S. 38 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

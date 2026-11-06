@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 2A. Approval of subsequent versions of standards[^key-727e948be352f06527040022c798c72b]
+## 2A. Approval of subsequent versions of standards[^c-727e948be352f06527040022c798c72b]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ The Secretary of State may, in relation to a standard specified in a provision o
 
 ## Annotations
 
-[^key-727e948be352f06527040022c798c72b]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/uksi/2018/611/regulation/2A) inserted (1.4.2022) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2022 (S.I. 2022/159)](https://www.legislation.gov.uk/uksi/2022/159), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/159/regulation/1/3), [33](https://www.legislation.gov.uk/uksi/2022/159/regulation/33)
+[^c-727e948be352f06527040022c798c72b]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/uksi/2018/611/regulation/2A) inserted (1.4.2022) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2022 (S.I. 2022/159)](https://www.legislation.gov.uk/uksi/2022/159), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/159/regulation/1/3), [33](https://www.legislation.gov.uk/uksi/2022/159/regulation/33)

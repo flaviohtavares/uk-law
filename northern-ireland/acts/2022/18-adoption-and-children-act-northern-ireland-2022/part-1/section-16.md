@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 16. Placing children with parental consent[^key-231f1c4ef4dfc7767b6acf7d832fb96e]
+## 16. Placing children with parental consent[^c-231f1c4ef4dfc7767b6acf7d832fb96e]
 
 *Extent: N.I.*
 
@@ -42,4 +42,4 @@ and has not withdrawn that consent, the agency is authorised to place the child 
 
 ## Annotations
 
-[^key-231f1c4ef4dfc7767b6acf7d832fb96e]: Commencement: S. 16 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-231f1c4ef4dfc7767b6acf7d832fb96e]: Commencement: S. 16 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

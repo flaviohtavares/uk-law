@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Return and certificate if tax may be unpaid : amounts due under regulation 68[^key-b50a1be25db0c922d387684029e73188]
+## 77. Return and certificate if tax may be unpaid : amounts due under regulation 68[^c-b50a1be25db0c922d387684029e73188]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b50a1be25db0c922d387684029e73188]: Textual amendment: Words in [reg. 77 heading](https://www.legislation.gov.uk/uksi/2003/2682/part/4/chapter/1/crossheading/failure-to-account-for-deductible-tax) inserted (6.4.2012) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2012 (S.I. 2012/822)](https://www.legislation.gov.uk/uksi/2012/822), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1), [36](https://www.legislation.gov.uk/uksi/2012/822/regulation/36)
+[^c-b50a1be25db0c922d387684029e73188]: Textual amendment: Words in [reg. 77 heading](https://www.legislation.gov.uk/uksi/2003/2682/part/4/chapter/1/crossheading/failure-to-account-for-deductible-tax) inserted (6.4.2012) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2012 (S.I. 2012/822)](https://www.legislation.gov.uk/uksi/2012/822), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1), [36](https://www.legislation.gov.uk/uksi/2012/822/regulation/36)

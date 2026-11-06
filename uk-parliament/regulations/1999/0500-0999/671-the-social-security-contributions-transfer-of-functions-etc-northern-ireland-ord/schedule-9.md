@@ -22,7 +22,7 @@ summary: ''
 
 Article 24(3)
 
-### PART I — REPEALS[^key-c908b97f1808a875ad7a7050ec26ce95][^key-6acce05a566d55d4593eede1255d4911][^key-acc226b729eb1423375ae9da54cb9408][^key-c8786ddb9bf71cbcd98ead56249b8b05]
+### PART I — REPEALS[^c-c908b97f1808a875ad7a7050ec26ce95][^c-6acce05a566d55d4593eede1255d4911][^c-acc226b729eb1423375ae9da54cb9408][^c-c8786ddb9bf71cbcd98ead56249b8b05]
 
 | Chapter | Short title | Extent of repeal |
 | --- | --- | --- |
@@ -64,7 +64,7 @@ Article 24(3)
 |  |  | In Schedule 3, paragraphs 10 to 15 and 18 to 29. |
 |  |  | In Schedule 6, paragraphs 58(10) and (13), 98(1), 100 and 117. |
 
-### Part II — Revocations[^key-98237980d593aa98afce127fe7db9cb8][^key-8b9a4cb64b3c47930e85b06e2d144bbd]
+### Part II — Revocations[^c-98237980d593aa98afce127fe7db9cb8][^c-8b9a4cb64b3c47930e85b06e2d144bbd]
 
 | Number | Title | Extent of revocation |
 | --- | --- | --- |
@@ -73,14 +73,14 @@ Article 24(3)
 
 ## Annotations
 
-[^key-c908b97f1808a875ad7a7050ec26ce95]: Commencement: Sch. 9 Pt. 1 not in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/1999/671/article/1)
+[^c-c908b97f1808a875ad7a7050ec26ce95]: Commencement: Sch. 9 Pt. 1 not in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/1999/671/article/1)
 
-[^key-6acce05a566d55d4593eede1255d4911]: Commencement: [Sch. 9 Pt. 1](https://www.legislation.gov.uk/uksi/1999/671/schedule/9/part/I) in force at 1.4.1999 for specified purposes by [S.R. 1999/149](https://www.legislation.gov.uk/nisr/1999/149), [art. 2(c)](https://www.legislation.gov.uk/nisr/1999/149/article/2/c), [Sch. 2](https://www.legislation.gov.uk/nisr/1999/149/schedule/2) (with [arts. 3-6](https://www.legislation.gov.uk/nisr/1999/149/article/3))
+[^c-6acce05a566d55d4593eede1255d4911]: Commencement: [Sch. 9 Pt. 1](https://www.legislation.gov.uk/uksi/1999/671/schedule/9/part/I) in force at 1.4.1999 for specified purposes by [S.R. 1999/149](https://www.legislation.gov.uk/nisr/1999/149), [art. 2(c)](https://www.legislation.gov.uk/nisr/1999/149/article/2/c), [Sch. 2](https://www.legislation.gov.uk/nisr/1999/149/schedule/2) (with [arts. 3-6](https://www.legislation.gov.uk/nisr/1999/149/article/3))
 
-[^key-acc226b729eb1423375ae9da54cb9408]: Commencement: [Sch. 9 Pt. 1](https://www.legislation.gov.uk/uksi/1999/671/schedule/9/part/I) in force at 6.4.1999 for specified purposes by [S.R. 1999/149](https://www.legislation.gov.uk/nisr/1999/149), [art. 2(d)](https://www.legislation.gov.uk/nisr/1999/149/article/2/d), [Sch. 3](https://www.legislation.gov.uk/nisr/1999/149/schedule/3) (with [arts. 3-6](https://www.legislation.gov.uk/nisr/1999/149/article/3))
+[^c-acc226b729eb1423375ae9da54cb9408]: Commencement: [Sch. 9 Pt. 1](https://www.legislation.gov.uk/uksi/1999/671/schedule/9/part/I) in force at 6.4.1999 for specified purposes by [S.R. 1999/149](https://www.legislation.gov.uk/nisr/1999/149), [art. 2(d)](https://www.legislation.gov.uk/nisr/1999/149/article/2/d), [Sch. 3](https://www.legislation.gov.uk/nisr/1999/149/schedule/3) (with [arts. 3-6](https://www.legislation.gov.uk/nisr/1999/149/article/3))
 
-[^key-c8786ddb9bf71cbcd98ead56249b8b05]: Commencement: [Sch. 9 Pt. 1](https://www.legislation.gov.uk/uksi/1999/671/schedule/9/part/I) in force at 5.7.1999 for specified purposes by [S.R. 1999/271](https://www.legislation.gov.uk/nisr/1999/271), [art. 2(b)](https://www.legislation.gov.uk/nisr/1999/271/article/2/b), [Sch. Pt. II](https://www.legislation.gov.uk/nisr/1999/271/schedule/part/II) (with [art. 4](https://www.legislation.gov.uk/nisr/1999/271/article/4))
+[^c-c8786ddb9bf71cbcd98ead56249b8b05]: Commencement: [Sch. 9 Pt. 1](https://www.legislation.gov.uk/uksi/1999/671/schedule/9/part/I) in force at 5.7.1999 for specified purposes by [S.R. 1999/271](https://www.legislation.gov.uk/nisr/1999/271), [art. 2(b)](https://www.legislation.gov.uk/nisr/1999/271/article/2/b), [Sch. Pt. II](https://www.legislation.gov.uk/nisr/1999/271/schedule/part/II) (with [art. 4](https://www.legislation.gov.uk/nisr/1999/271/article/4))
 
-[^key-98237980d593aa98afce127fe7db9cb8]: Commencement: Sch. 9 Pt. 2 not in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/1999/671/article/1)
+[^c-98237980d593aa98afce127fe7db9cb8]: Commencement: Sch. 9 Pt. 2 not in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/1999/671/article/1)
 
-[^key-8b9a4cb64b3c47930e85b06e2d144bbd]: Commencement: [Sch. 9 Pt. 2](https://www.legislation.gov.uk/uksi/1999/671/schedule/9/part/II) in force at 1.4.1999 by [S.R. 1999/149](https://www.legislation.gov.uk/nisr/1999/149), [art. 2(c)](https://www.legislation.gov.uk/nisr/1999/149/article/2/c), [Sch. 2](https://www.legislation.gov.uk/nisr/1999/149/schedule/2) (with [arts. 3-6](https://www.legislation.gov.uk/nisr/1999/149/article/3))
+[^c-8b9a4cb64b3c47930e85b06e2d144bbd]: Commencement: [Sch. 9 Pt. 2](https://www.legislation.gov.uk/uksi/1999/671/schedule/9/part/II) in force at 1.4.1999 by [S.R. 1999/149](https://www.legislation.gov.uk/nisr/1999/149), [art. 2(c)](https://www.legislation.gov.uk/nisr/1999/149/article/2/c), [Sch. 2](https://www.legislation.gov.uk/nisr/1999/149/schedule/2) (with [arts. 3-6](https://www.legislation.gov.uk/nisr/1999/149/article/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47I. Compliance notices: excluded provisions: Wales[^key-54b3ad987fc2073ebbaef26b5155c213]
+## 47I. Compliance notices: excluded provisions: Wales[^c-54b3ad987fc2073ebbaef26b5155c213]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ The following provisions of these Regulations are prescribed as provisions in re
 
 ## Annotations
 
-[^key-54b3ad987fc2073ebbaef26b5155c213]: Textual amendment: [Regs. 47I-47P](https://www.legislation.gov.uk/uksi/2010/2214/regulation/47I) inserted (W.) (1.7.2026) by [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2025 (S.I. 2025/1320)](https://www.legislation.gov.uk/wsi/2025/1320), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1/2), [14(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/14/2) (with [reg. 19](https://www.legislation.gov.uk/wsi/2025/1320/regulation/19))
+[^c-54b3ad987fc2073ebbaef26b5155c213]: Textual amendment: [Regs. 47I-47P](https://www.legislation.gov.uk/uksi/2010/2214/regulation/47I) inserted (W.) (1.7.2026) by [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2025 (S.I. 2025/1320)](https://www.legislation.gov.uk/wsi/2025/1320), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1/2), [14(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/14/2) (with [reg. 19](https://www.legislation.gov.uk/wsi/2025/1320/regulation/19))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 119. Launch director’s or safety manager’s obligations to a spaceflight participant about stations[^key-bad566533562c375effdd336fb589989]
+## 119. Launch director’s or safety manager’s obligations to a spaceflight participant about stations[^c-bad566533562c375effdd336fb589989]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ must ensure that each spaceflight participant is seated at the spaceflight parti
 
 ## Annotations
 
-[^key-bad566533562c375effdd336fb589989]: Commencement: Reg. 119 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-bad566533562c375effdd336fb589989]: Commencement: Reg. 119 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

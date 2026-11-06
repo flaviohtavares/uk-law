@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Seizure of substances under search and seizure warrant[^key-7963a3d5521eafa788b696cc5a080cf8]
+## 55. Seizure of substances under search and seizure warrant[^c-7963a3d5521eafa788b696cc5a080cf8]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A police or customs officer searching premises under a search and seizure warran
 
 ## Annotations
 
-[^key-7963a3d5521eafa788b696cc5a080cf8]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2015/9/section/55) in force at 3.5.2015 by [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/j)
+[^c-7963a3d5521eafa788b696cc5a080cf8]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2015/9/section/55) in force at 3.5.2015 by [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/j)

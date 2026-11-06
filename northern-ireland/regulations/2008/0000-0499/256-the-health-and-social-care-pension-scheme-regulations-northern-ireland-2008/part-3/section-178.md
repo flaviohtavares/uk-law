@@ -33,8 +33,8 @@ is increased.
 
 (4) In preparing that guidance and those tables the Scheme actuary must use such factors as the Scheme actuary considers appropriate, having regard, in particular, to the period after reaching the age of 65 before the member becomes entitled to immediate payment of the pension and the life expectancy of the member.
 
-(5)[^key-1a50f729639fc4f9e93d1959ab7608bc] In the case of a 2008 Section Optant, this regulation is subject to regulation 260Q.
+(5)[^c-1a50f729639fc4f9e93d1959ab7608bc] In the case of a 2008 Section Optant, this regulation is subject to regulation 260Q.
 
 ## Annotations
 
-[^key-1a50f729639fc4f9e93d1959ab7608bc]: Textual amendment: [Reg. 178(5)](https://www.legislation.gov.uk/nisr/2008/256/regulation/178/5) added (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [70](https://www.legislation.gov.uk/nisr/2010/22/regulation/70)
+[^c-1a50f729639fc4f9e93d1959ab7608bc]: Textual amendment: [Reg. 178(5)](https://www.legislation.gov.uk/nisr/2008/256/regulation/178/5) added (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [70](https://www.legislation.gov.uk/nisr/2010/22/regulation/70)

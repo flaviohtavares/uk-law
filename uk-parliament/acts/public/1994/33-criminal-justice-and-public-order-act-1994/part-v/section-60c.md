@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60C. Offence relating to residing on land without consent in or with a vehicle[^key-39ddeb6bd16cacf7f1dfb59dc413f246]
+## 60C. Offence relating to residing on land without consent in or with a vehicle[^c-39ddeb6bd16cacf7f1dfb59dc413f246]
 
 *Extent: E+W*
 
@@ -36,7 +36,7 @@ summary: ''
   - (i) enters (or having left, re-enters) the land within the prohibited period with the intention of residing there without the consent of the occupier of the land, and
   - (ii) has, or intends to have, at least one vehicle with them on the land.
 
-(3) The prohibited period is the period of three[^key-05ccab11c71d05c03beb8be0b7c69ca1] months beginning with the day on which the request was made.
+(3) The prohibited period is the period of three[^c-05ccab11c71d05c03beb8be0b7c69ca1] months beginning with the day on which the request was made.
 
 (4) The conditions are—
 
@@ -73,7 +73,7 @@ summary: ''
   - (b) a supply of water, energy or fuel;
 - “land” does not include buildings other than—
   - (a) agricultural buildings within the meaning of paragraphs 3 to 8 of Schedule 5 to the Local Government Finance Act 1988, or
-  - (b) scheduled monuments within the meaning of the Ancient Monuments and Archaeological Areas Act 1979 or the Historic Environment (Wales) Act 2023[^key-d1b878c5e11363f9aa84553bb7505923];
+  - (b) scheduled monuments within the meaning of the Ancient Monuments and Archaeological Areas Act 1979 or the Historic Environment (Wales) Act 2023[^c-d1b878c5e11363f9aa84553bb7505923];
 - “the local authority”, in relation to common land, has the same meaning as in section 61;
 - “occupier” means the person entitled to possession of the land by virtue of an estate or interest held by the person;
 - “offensive conduct” means—
@@ -87,8 +87,8 @@ summary: ''
 
 ## Annotations
 
-[^key-39ddeb6bd16cacf7f1dfb59dc413f246]: Textual amendment: Ss. 60C-60E and cross-heading inserted (E.W.) (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 83(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/83/1), [208(5)(i)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/i)
+[^c-39ddeb6bd16cacf7f1dfb59dc413f246]: Textual amendment: Ss. 60C-60E and cross-heading inserted (E.W.) (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 83(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/83/1), [208(5)(i)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/i)
 
-[^key-05ccab11c71d05c03beb8be0b7c69ca1]: Textual amendment: Word in s. 60C(3) substituted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 168(2)](https://www.legislation.gov.uk/ukpga/2026/20/section/168/2), [255(3)(f)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/f)
+[^c-05ccab11c71d05c03beb8be0b7c69ca1]: Textual amendment: Word in s. 60C(3) substituted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 168(2)](https://www.legislation.gov.uk/ukpga/2026/20/section/168/2), [255(3)(f)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/f)
 
-[^key-d1b878c5e11363f9aa84553bb7505923]: Textual amendment: Words in s. 60C(8) inserted (W.) (4.11.2024) by [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 172](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/172) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/uksi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/uksi/2024/860/article/3/d)
+[^c-d1b878c5e11363f9aa84553bb7505923]: Textual amendment: Words in s. 60C(8) inserted (W.) (4.11.2024) by [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 172](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/172) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/uksi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/uksi/2024/860/article/3/d)

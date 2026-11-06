@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE[^key-c4bef88ce530443474338617a0882366]
+## SCHEDULE[^c-c4bef88ce530443474338617a0882366]
 
 *Extent: E+W*
 
@@ -1366,7 +1366,7 @@ Rule 36
 
 ## Annotations
 
-[^key-c4bef88ce530443474338617a0882366]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2014/407/schedule) in force at 6.4.2014, see [rule 2(3)](https://www.legislation.gov.uk/uksi/2014/407/rule/2/3)
+[^c-c4bef88ce530443474338617a0882366]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2014/407/schedule) in force at 6.4.2014, see [rule 2(3)](https://www.legislation.gov.uk/uksi/2014/407/rule/2/3)
 
 [^f00011]: Footnote: [2001 c.15](https://www.legislation.gov.uk/ukpga/2001/15).
 

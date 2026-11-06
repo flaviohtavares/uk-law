@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33BDA. Scottish Ministers' promotion of reductions in home-heating costs: gas suppliers[^key-d5cfe59914cd4d258aabb752938828cd]
+## 33BDA. Scottish Ministers' promotion of reductions in home-heating costs: gas suppliers[^c-d5cfe59914cd4d258aabb752938828cd]
 
 *Extent: E+W+S*
 
@@ -28,15 +28,15 @@ summary: ''
 
 - (a) for subsection (1) there is substituted a power by order to specify how gas suppliers may meet their obligations to achieve the home-heating cost reduction target through measures carried out in Scotland;
 - (b) subsection (3) is omitted;
-- (c) subsections (3), (5)(a), (7)(a) , (7C), (7E)[^key-7ab003cbef1141f691d6a9592056637f] and (10A) of section 33BC as applied by subsection (4) are omitted;
+- (c) subsections (3), (5)(a), (7)(a) , (7C), (7E)[^c-7ab003cbef1141f691d6a9592056637f] and (10A) of section 33BC as applied by subsection (4) are omitted;
 - (d) in subsection (2)(a) at the beginning of sub-paragraph (ii) there is inserted “where the Secretary of State has apportioned the overall home-heating cost reduction target under section 103A(3A) of the Utilities Act 2000, and”;
-- (da)[^key-46569e9c695a3eb39781bd74c5fd1f9a] in section 33BC(7F) as applied by subsection (4), for “order makes” is substituted “Secretary of State has made”;
+- (da)[^c-46569e9c695a3eb39781bd74c5fd1f9a] in section 33BC(7F) as applied by subsection (4), for “order makes” is substituted “Secretary of State has made”;
 - (db) in section 33BC(7G) as applied by subsection (4), for “(7C)” is substituted “(7F)”;
 - (dc) in section 33BC(7H) as applied by subsection (4), for “an order includes” is substituted “the Secretary of State has made”;
 - (e) in section 33BC(11) as applied by subsection (4) “Citizens Advice” and “gas transporters” are omitted;
 - (f) in section 33BC(12) as applied by subsection (4) for the words from “shall not be made” to the end is substituted “ is subject to the affirmative procedure ”;
 - (g) in section 33BC(12A) as applied by subsection (4) for the words from “shall be subject to” to the end is substituted “ is subject to the negative procedure ”;
-- (h) for “Secretary of State” in each place (including any references in section 33BC that apply by virtue of subsection (4) other than in section 33BC(7D)(a)[^key-d2d1590a8d8c7d0c6c47a9e4377a3e93]), is substituted “ Scottish Ministers ”.
+- (h) for “Secretary of State” in each place (including any references in section 33BC that apply by virtue of subsection (4) other than in section 33BC(7D)(a)[^c-d2d1590a8d8c7d0c6c47a9e4377a3e93]), is substituted “ Scottish Ministers ”.
 
 (4) The power of the Scottish Ministers under section 33BD does not include power to make provision in relation to the subject-matter of sections 88 to 90 of the Energy Act 2008 (smart meters).
 
@@ -60,7 +60,7 @@ summary: ''
 (9) Subsection (1) does not prevent the Secretary of State from making provision under—
 
 - (a) section 33BD(3),
-- (b) section 33BC(3), (5)(a) (7)(a), (7C) or (7E)[^key-64441a8ba5a704c01fdc47811fb74401] as applied by section 33BD(4), or
+- (b) section 33BC(3), (5)(a) (7)(a), (7C) or (7E)[^c-64441a8ba5a704c01fdc47811fb74401] as applied by section 33BD(4), or
 - (c) section 33BD(2)(a) where an overall home-heating cost reduction target has not been apportioned under section 103A(3A) of the Utilities Act 2000.
 
 (10) Subsection (1) does not prevent the Secretary of State from making any other provision under section 33BD or from varying or revoking an order made by the Scottish Ministers under that section—
@@ -86,12 +86,12 @@ and the Scottish Ministers have failed to comply with a request made to them by 
 
 ## Annotations
 
-[^key-d5cfe59914cd4d258aabb752938828cd]: Textual amendment: [S. 33BDA](https://www.legislation.gov.uk/ukpga/1986/44/section/33BDA) inserted (1.12.2017 for specified purposes, 1.10.2018 in so far as not already in force) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 59(3)](https://www.legislation.gov.uk/ukpga/2016/11/section/59/3), [72(4)(d)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/d) (with [s. 59(7)](https://www.legislation.gov.uk/ukpga/2016/11/section/59/7)); [S.I. 2017/1157](https://www.legislation.gov.uk/uksi/2017/1157), [regs. 3(b)](https://www.legislation.gov.uk/uksi/2017/1157/regulation/3/b), [5(a)](https://www.legislation.gov.uk/uksi/2017/1157/regulation/5/a)
+[^c-d5cfe59914cd4d258aabb752938828cd]: Textual amendment: [S. 33BDA](https://www.legislation.gov.uk/ukpga/1986/44/section/33BDA) inserted (1.12.2017 for specified purposes, 1.10.2018 in so far as not already in force) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 59(3)](https://www.legislation.gov.uk/ukpga/2016/11/section/59/3), [72(4)(d)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/d) (with [s. 59(7)](https://www.legislation.gov.uk/ukpga/2016/11/section/59/7)); [S.I. 2017/1157](https://www.legislation.gov.uk/uksi/2017/1157), [regs. 3(b)](https://www.legislation.gov.uk/uksi/2017/1157/regulation/3/b), [5(a)](https://www.legislation.gov.uk/uksi/2017/1157/regulation/5/a)
 
-[^key-7ab003cbef1141f691d6a9592056637f]: Textual amendment: Words in [s. 33BDA(3)(c)](https://www.legislation.gov.uk/ukpga/1986/44/section/33BDA/3/c) inserted (26.12.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 214(3)(a)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/214/3/a/i), [334(3)(g)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/g)
+[^c-7ab003cbef1141f691d6a9592056637f]: Textual amendment: Words in [s. 33BDA(3)(c)](https://www.legislation.gov.uk/ukpga/1986/44/section/33BDA/3/c) inserted (26.12.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 214(3)(a)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/214/3/a/i), [334(3)(g)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/g)
 
-[^key-46569e9c695a3eb39781bd74c5fd1f9a]: Textual amendment: [S. 33BDA(3)(da)-(dc)](https://www.legislation.gov.uk/ukpga/1986/44/section/33BDA/3/da) inserted (26.12.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 214(3)(a)(ii)](https://www.legislation.gov.uk/ukpga/2023/52/section/214/3/a/ii), [334(3)(g)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/g)
+[^c-46569e9c695a3eb39781bd74c5fd1f9a]: Textual amendment: [S. 33BDA(3)(da)-(dc)](https://www.legislation.gov.uk/ukpga/1986/44/section/33BDA/3/da) inserted (26.12.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 214(3)(a)(ii)](https://www.legislation.gov.uk/ukpga/2023/52/section/214/3/a/ii), [334(3)(g)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/g)
 
-[^key-d2d1590a8d8c7d0c6c47a9e4377a3e93]: Textual amendment: Words in [s. 33BDA(3)(h)](https://www.legislation.gov.uk/ukpga/1986/44/section/33BDA/3/h) inserted (26.12.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 214(3)(a)(iii)](https://www.legislation.gov.uk/ukpga/2023/52/section/214/3/a/iii), [334(3)(g)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/g)
+[^c-d2d1590a8d8c7d0c6c47a9e4377a3e93]: Textual amendment: Words in [s. 33BDA(3)(h)](https://www.legislation.gov.uk/ukpga/1986/44/section/33BDA/3/h) inserted (26.12.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 214(3)(a)(iii)](https://www.legislation.gov.uk/ukpga/2023/52/section/214/3/a/iii), [334(3)(g)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/g)
 
-[^key-64441a8ba5a704c01fdc47811fb74401]: Textual amendment: Words in [s. 33BDA(9)(b)](https://www.legislation.gov.uk/ukpga/1986/44/section/33BDA/9/b) substituted (26.12.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 214(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/214/3/b), [334(3)(g)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/g)
+[^c-64441a8ba5a704c01fdc47811fb74401]: Textual amendment: Words in [s. 33BDA(9)(b)](https://www.legislation.gov.uk/ukpga/1986/44/section/33BDA/9/b) substituted (26.12.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 214(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/214/3/b), [334(3)(g)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/g)

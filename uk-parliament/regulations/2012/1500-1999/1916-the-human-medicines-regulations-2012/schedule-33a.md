@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 33A — Transitional provision in relation to EU Exit[^key-6754900c0a8785b8561e7e59215d8d7e]
+## SCHEDULE 33A — Transitional provision in relation to EU Exit[^c-6754900c0a8785b8561e7e59215d8d7e]
 
 *Extent: E+W+S+N.I.*
 
@@ -581,7 +581,7 @@ is to be treated, for the transitional period, as satisfying the requirements of
 - (a) a marketing authorisation or a UK marketing authorisation is to be read as a reference to a parallel import licence for a medicinal product, and
 - (b) the holder of a UK marketing authorisation is to be read as a reference to the holder of a parallel import licence.
 
-#### 29A. Application of the batch testing requirement to relevant EU marketing authorisations, and batch testing of biological medicinal products in the EEA before IP completion day (regulation 60B)[^key-b77a6ac130d073386c531a10e89d034b]
+#### 29A. Application of the batch testing requirement to relevant EU marketing authorisations, and batch testing of biological medicinal products in the EEA before IP completion day (regulation 60B)[^c-b77a6ac130d073386c531a10e89d034b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -1245,6 +1245,6 @@ within such time period as the licensing authority specifies in that written req
 
 ## Annotations
 
-[^key-6754900c0a8785b8561e7e59215d8d7e]: Textual amendment: Sch. 33A inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 7](https://www.legislation.gov.uk/uksi/2019/775/schedule/7) (as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6754900c0a8785b8561e7e59215d8d7e]: Textual amendment: Sch. 33A inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 7](https://www.legislation.gov.uk/uksi/2019/775/schedule/7) (as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b77a6ac130d073386c531a10e89d034b]: Textual amendment: [Sch. 33A para. 29A](https://www.legislation.gov.uk/uksi/2012/1916/schedule/33A/paragraph/29A) omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [145](https://www.legislation.gov.uk/uksi/2024/832/regulation/145)
+[^c-b77a6ac130d073386c531a10e89d034b]: Textual amendment: [Sch. 33A para. 29A](https://www.legislation.gov.uk/uksi/2012/1916/schedule/33A/paragraph/29A) omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [145](https://www.legislation.gov.uk/uksi/2024/832/regulation/145)

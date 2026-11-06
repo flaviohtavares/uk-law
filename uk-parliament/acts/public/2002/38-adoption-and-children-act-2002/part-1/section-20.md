@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Advance consent to adoption[^key-a502ae3b9bf09d3074cc01aa48eab374][^key-c5e58f90023a0970fe38004c24a35bef]
+## 20. Advance consent to adoption[^c-a502ae3b9bf09d3074cc01aa48eab374][^c-c5e58f90023a0970fe38004c24a35bef]
 
 *Extent: E+W*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a502ae3b9bf09d3074cc01aa48eab374]: Commencement: S. 20 in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(c)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/c) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
+[^c-a502ae3b9bf09d3074cc01aa48eab374]: Commencement: S. 20 in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(c)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/c) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
 
-[^key-c5e58f90023a0970fe38004c24a35bef]: Modification: S. 20 restricted by 1978 c. 28, s. 16(3D) (as inserted (30.12.2005) by [Adoption and Children Act 2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2002/38/section/148/1), [Sch. 3 para. 23](https://www.legislation.gov.uk/ukpga/2002/38/schedule/3/paragraph/23) (with [Sch. 4 paras. 6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.S.I. 2005/643](https://www.legislation.gov.uk/ssi/2005/643), [art. 2(c)](https://www.legislation.gov.uk/ssi/2005/643/article/2/c))
+[^c-c5e58f90023a0970fe38004c24a35bef]: Modification: S. 20 restricted by 1978 c. 28, s. 16(3D) (as inserted (30.12.2005) by [Adoption and Children Act 2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2002/38/section/148/1), [Sch. 3 para. 23](https://www.legislation.gov.uk/ukpga/2002/38/schedule/3/paragraph/23) (with [Sch. 4 paras. 6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.S.I. 2005/643](https://www.legislation.gov.uk/ssi/2005/643), [art. 2(c)](https://www.legislation.gov.uk/ssi/2005/643/article/2/c))

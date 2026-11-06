@@ -47,7 +47,7 @@ In accordance with section 4 of the Scottish Civil Justice Council and Criminal 
 
 The Court of Session therefore makes this Act of Sederunt under the powers conferred by section 104(1) of the Courts Reform (Scotland) Act 2014[^f00002] and all other powers enabling it to do so.
 
-## 1. Citation and commencement, etc.[^key-8416f9b918d569208b17689594fc3e81]
+## 1. Citation and commencement, etc.[^c-8416f9b918d569208b17689594fc3e81]
 
 (1) This Act of Sederunt may be cited as the Act of Sederunt (Sheriff Court Rules Amendment) (Personal Injury Pre-Action Protocol) 2016.
 
@@ -55,7 +55,7 @@ The Court of Session therefore makes this Act of Sederunt under the powers confe
 
 (3) A certified copy is to be inserted in the Books of Sederunt.
 
-## 2. Amendment of the Ordinary Cause Rules 1993[^key-5607cbfe3a89f99bd37398c519355c24]
+## 2. Amendment of the Ordinary Cause Rules 1993[^c-5607cbfe3a89f99bd37398c519355c24]
 
 (1) The Ordinary Cause Rules 1993[^f00003] are amended in accordance with this paragraph.
 
@@ -107,7 +107,7 @@ The Court of Session therefore makes this Act of Sederunt under the powers confe
 
 (3) After Appendix 3 (schedule of timetable under personal injuries procedure) insert Appendix 4 as set out in schedule 1 of this Act of Sederunt.
 
-## 3. Amendment of the Summary Cause Rules 2002[^key-4e59ad0fc9a76bb3dda7a1e859ee0d62]
+## 3. Amendment of the Summary Cause Rules 2002[^c-4e59ad0fc9a76bb3dda7a1e859ee0d62]
 
 (1) The Summary Cause Rules 2002[^f00004] are amended in accordance with this paragraph.
 
@@ -119,7 +119,7 @@ The Court of Session therefore makes this Act of Sederunt under the powers confe
 >
 > (1) This Chapter applies to an action of damages for, or arising from, personal injuries.
 >
-> (2) In this Chapter “the Protocol” means the Personal Injury Pre-Action Protocol set out in Appendix[^key-858e92345fc11f032d0aca927ea43d57] 1B, and references to the “aims of the Protocol”, “requirements of the Protocol” and “stages of the Protocol” are to be construed accordingly.
+> (2) In this Chapter “the Protocol” means the Personal Injury Pre-Action Protocol set out in Appendix[^c-858e92345fc11f032d0aca927ea43d57] 1B, and references to the “aims of the Protocol”, “requirements of the Protocol” and “stages of the Protocol” are to be construed accordingly.
 >
 > **4A.2. Requirement to comply with the Protocol**
 >
@@ -155,9 +155,9 @@ The Court of Session therefore makes this Act of Sederunt under the powers confe
 >
 > (6) This rule does not affect any other enactment or rule of law allowing the sheriff to make or modify awards regarding expenses and interest.
 
-(3)[^key-e8a982638d2f81ca3abc67068680dcaa] After Appendix 1A (schedule of timetable under personal injuries procedure) insert Appendix 1B as set out in schedule 2 of this Act of Sederunt.
+(3)[^c-e8a982638d2f81ca3abc67068680dcaa] After Appendix 1A (schedule of timetable under personal injuries procedure) insert Appendix 1B as set out in schedule 2 of this Act of Sederunt.
 
-## 4. Saving[^key-e849ad1fc54fcf11c242cd7660147c37]
+## 4. Saving[^c-e849ad1fc54fcf11c242cd7660147c37]
 
 Paragraphs 2 and 3 do not apply to an action where the accident or other circumstance giving rise to the liability to which the action relates occurred before 28th November 2016.
 
@@ -175,7 +175,7 @@ Edinburgh
 
 Paragraph 2(3)
 
-### APPENDIX 4 — THE PERSONAL INJURY PRE-ACTION PROTOCOL[^key-e4de3b8d23db47b4ea7d787eb3598ac6]
+### APPENDIX 4 — THE PERSONAL INJURY PRE-ACTION PROTOCOL[^c-e4de3b8d23db47b4ea7d787eb3598ac6]
 
 <table>
 <tbody>
@@ -457,7 +457,7 @@ Paragraph 2(3)
 
 Paragraph 3(3)
 
-### APPENDIX 1B — THE PERSONAL INJURY PRE-ACTION PROTOCOL[^key-3128c971b519ce9322a59299fa3a206f][^key-76e71bbc42edf60ee551fef00d028488]
+### APPENDIX 1B — THE PERSONAL INJURY PRE-ACTION PROTOCOL[^c-3128c971b519ce9322a59299fa3a206f][^c-76e71bbc42edf60ee551fef00d028488]
 
 <table>
 <tbody>
@@ -755,24 +755,24 @@ Saving provision is included in paragraph 4 to preserve the existing law as rega
 
 [^f00002]: Footnote: [2014 asp 18](https://www.legislation.gov.uk/asp/2014/18).
 
-[^key-8416f9b918d569208b17689594fc3e81]: Commencement: [Para. 1](https://www.legislation.gov.uk/ssi/2016/215/paragraph/1) in force at 28.11.2016, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2016/215/paragraph/1/2)
+[^c-8416f9b918d569208b17689594fc3e81]: Commencement: [Para. 1](https://www.legislation.gov.uk/ssi/2016/215/paragraph/1) in force at 28.11.2016, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2016/215/paragraph/1/2)
 
-[^key-5607cbfe3a89f99bd37398c519355c24]: Commencement: [Para. 2](https://www.legislation.gov.uk/ssi/2016/215/paragraph/2) in force at 28.11.2016, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2016/215/paragraph/1/2)
+[^c-5607cbfe3a89f99bd37398c519355c24]: Commencement: [Para. 2](https://www.legislation.gov.uk/ssi/2016/215/paragraph/2) in force at 28.11.2016, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2016/215/paragraph/1/2)
 
 [^f00003]: Footnote: The Ordinary Cause Rules 1993 are in schedule 1 of the Sheriff Courts (Scotland) Act [1907 (c.51)](https://www.legislation.gov.uk/ukpga/1907/51). Schedule 1 was substituted by [S.I. 1993/1956](https://www.legislation.gov.uk/uksi/1993/1956) and last amended by [S.S.I. 2016/194](https://www.legislation.gov.uk/ssi/2016/194).
 
-[^key-4e59ad0fc9a76bb3dda7a1e859ee0d62]: Commencement: [Para. 3](https://www.legislation.gov.uk/ssi/2016/215/paragraph/3) in force at 28.11.2016, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2016/215/paragraph/1/2)
+[^c-4e59ad0fc9a76bb3dda7a1e859ee0d62]: Commencement: [Para. 3](https://www.legislation.gov.uk/ssi/2016/215/paragraph/3) in force at 28.11.2016, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2016/215/paragraph/1/2)
 
 [^f00004]: Footnote: The Summary Cause Rules 2002 are in schedule 1 of the Act of Sederunt (Summary Cause Rules) 2002 ([SSI 2002/132](https://www.legislation.gov.uk/ssi/2002/132)), last amended by [S.S.I. 2015/419](https://www.legislation.gov.uk/ssi/2015/419).
 
-[^key-858e92345fc11f032d0aca927ea43d57]: Textual amendment: Words in [para. 3(2)](https://www.legislation.gov.uk/ssi/2016/215/paragraph/3/2) substituted (28.11.2016) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Miscellaneous) 2016 (S.S.I. 2016/229)](https://www.legislation.gov.uk/ssi/2016/229), [rules 1(2)](https://www.legislation.gov.uk/ssi/2016/229/rule/1/2), [5(2)](https://www.legislation.gov.uk/ssi/2016/229/rule/5/2)
+[^c-858e92345fc11f032d0aca927ea43d57]: Textual amendment: Words in [para. 3(2)](https://www.legislation.gov.uk/ssi/2016/215/paragraph/3/2) substituted (28.11.2016) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Miscellaneous) 2016 (S.S.I. 2016/229)](https://www.legislation.gov.uk/ssi/2016/229), [rules 1(2)](https://www.legislation.gov.uk/ssi/2016/229/rule/1/2), [5(2)](https://www.legislation.gov.uk/ssi/2016/229/rule/5/2)
 
-[^key-e8a982638d2f81ca3abc67068680dcaa]: Textual amendment: [Para. 3(3)](https://www.legislation.gov.uk/ssi/2016/215/paragraph/3/3) substituted (28.11.2016) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Miscellaneous) 2016 (S.S.I. 2016/229)](https://www.legislation.gov.uk/ssi/2016/229), [rules 1(2)](https://www.legislation.gov.uk/ssi/2016/229/rule/1/2), [5(3)](https://www.legislation.gov.uk/ssi/2016/229/rule/5/3)
+[^c-e8a982638d2f81ca3abc67068680dcaa]: Textual amendment: [Para. 3(3)](https://www.legislation.gov.uk/ssi/2016/215/paragraph/3/3) substituted (28.11.2016) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Miscellaneous) 2016 (S.S.I. 2016/229)](https://www.legislation.gov.uk/ssi/2016/229), [rules 1(2)](https://www.legislation.gov.uk/ssi/2016/229/rule/1/2), [5(3)](https://www.legislation.gov.uk/ssi/2016/229/rule/5/3)
 
-[^key-e849ad1fc54fcf11c242cd7660147c37]: Commencement: [Para. 4](https://www.legislation.gov.uk/ssi/2016/215/paragraph/4) in force at 28.11.2016, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2016/215/paragraph/1/2)
+[^c-e849ad1fc54fcf11c242cd7660147c37]: Commencement: [Para. 4](https://www.legislation.gov.uk/ssi/2016/215/paragraph/4) in force at 28.11.2016, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2016/215/paragraph/1/2)
 
-[^key-e4de3b8d23db47b4ea7d787eb3598ac6]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2016/215/schedule/1) in force at 28.11.2016, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2016/215/paragraph/1/2)
+[^c-e4de3b8d23db47b4ea7d787eb3598ac6]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2016/215/schedule/1) in force at 28.11.2016, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2016/215/paragraph/1/2)
 
-[^key-3128c971b519ce9322a59299fa3a206f]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2016/215/schedule/2) in force at 28.11.2016, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2016/215/paragraph/1/2)
+[^c-3128c971b519ce9322a59299fa3a206f]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2016/215/schedule/2) in force at 28.11.2016, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2016/215/paragraph/1/2)
 
-[^key-76e71bbc42edf60ee551fef00d028488]: Textual amendment: Words in [sch. 2](https://www.legislation.gov.uk/ssi/2016/215/schedule/2) heading substituted (28.11.2016) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Miscellaneous) 2016 (S.S.I. 2016/229)](https://www.legislation.gov.uk/ssi/2016/229), [rules 1(2)](https://www.legislation.gov.uk/ssi/2016/229/rule/1/2), [5(4)](https://www.legislation.gov.uk/ssi/2016/229/rule/5/4)
+[^c-76e71bbc42edf60ee551fef00d028488]: Textual amendment: Words in [sch. 2](https://www.legislation.gov.uk/ssi/2016/215/schedule/2) heading substituted (28.11.2016) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 2) (Miscellaneous) 2016 (S.S.I. 2016/229)](https://www.legislation.gov.uk/ssi/2016/229), [rules 1(2)](https://www.legislation.gov.uk/ssi/2016/229/rule/1/2), [5(4)](https://www.legislation.gov.uk/ssi/2016/229/rule/5/4)

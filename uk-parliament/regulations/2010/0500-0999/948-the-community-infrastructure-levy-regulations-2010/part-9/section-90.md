@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 90. Service of CIL stop notice[^key-2e9c2d8d7d50fcc359f8b8e781e5c16d]
+## 90. Service of CIL stop notice[^c-2e9c2d8d7d50fcc359f8b8e781e5c16d]
 
 *Extent: E+W*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2e9c2d8d7d50fcc359f8b8e781e5c16d]: Commencement: Reg. 90 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
+[^c-2e9c2d8d7d50fcc359f8b8e781e5c16d]: Commencement: Reg. 90 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)

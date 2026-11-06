@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Directions in respect of failure to comply with ongoing registration conditions[^key-79190085fa13a8ce09390889779915fb][^key-56ee3cf5c993aa7b48fa46007d48a6f4]
+## 39. Directions in respect of failure to comply with ongoing registration conditions[^c-79190085fa13a8ce09390889779915fb][^c-56ee3cf5c993aa7b48fa46007d48a6f4]
 
 *Extent: E+W*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-79190085fa13a8ce09390889779915fb]: Commencement: S. 39 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-79190085fa13a8ce09390889779915fb]: Commencement: S. 39 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-56ee3cf5c993aa7b48fa46007d48a6f4]: Commencement: [S. 39](https://www.legislation.gov.uk/asc/2022/1/section/39) in force at 5.4.2025 by [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 2(l)](https://www.legislation.gov.uk/wsi/2025/432/article/2/l)
+[^c-56ee3cf5c993aa7b48fa46007d48a6f4]: Commencement: [S. 39](https://www.legislation.gov.uk/asc/2022/1/section/39) in force at 5.4.2025 by [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 2(l)](https://www.legislation.gov.uk/wsi/2025/432/article/2/l)

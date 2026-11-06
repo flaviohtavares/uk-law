@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 23. Orders and regulations[^key-bde816ac3f412dcb548ef2b88763bb14]
+## 23. Orders and regulations[^c-bde816ac3f412dcb548ef2b88763bb14]
 
 *Extent: N.I.*
 
@@ -48,7 +48,7 @@ summary: ''
 
 ## Annotations
 
-[^key-bde816ac3f412dcb548ef2b88763bb14]: Commencement: Art. 23 not in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/1999/671/article/1)
+[^c-bde816ac3f412dcb548ef2b88763bb14]: Commencement: Art. 23 not in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/1999/671/article/1)
 
 [^M_F_f5dd836e-4868-4b40-a28c-3138bd007fc1]: Textual amendment: Words in art. 23(1)(2) inserted (8.12.2002) by [The Employment (Northern Ireland) Order 2002 (S.I. 2002/2836)](https://www.legislation.gov.uk/uksi/2002/2836), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2002/2836/article/1/2), [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2002/2836/schedule/2/paragraph/7); [S.R. 2002/356](https://www.legislation.gov.uk/nisr/2002/356), [art. 2(2)](https://www.legislation.gov.uk/nisr/2002/356/article/2/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/nisr/2002/356/schedule/1/part/2)
 

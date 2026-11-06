@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105. Enforcement of 1989 Act in Scotland and Northern Ireland[^key-b14307771a33bfb1ab7161508d669e70]
+## 105. Enforcement of 1989 Act in Scotland and Northern Ireland[^c-b14307771a33bfb1ab7161508d669e70]
 
 *Extent: S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b14307771a33bfb1ab7161508d669e70]: Commencement: [S. 105](https://www.legislation.gov.uk/ukpga/2009/26/section/105) in force at 1.4.2010 by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(o)](https://www.legislation.gov.uk/uksi/2010/507/article/5/o)
+[^c-b14307771a33bfb1ab7161508d669e70]: Commencement: [S. 105](https://www.legislation.gov.uk/ukpga/2009/26/section/105) in force at 1.4.2010 by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(o)](https://www.legislation.gov.uk/uksi/2010/507/article/5/o)

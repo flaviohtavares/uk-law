@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 38. Admissibility of evidence[^key-ccf4497d8c496e7ff43ec95d32032544]
+## 38. Admissibility of evidence[^c-ccf4497d8c496e7ff43ec95d32032544]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ that fact shall be admissible as evidence that that condition has not been obser
 
 ## Annotations
 
-[^key-ccf4497d8c496e7ff43ec95d32032544]: Commencement: Reg. 38 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-ccf4497d8c496e7ff43ec95d32032544]: Commencement: Reg. 38 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)

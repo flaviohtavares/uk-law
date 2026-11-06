@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 24. Statutory undertakers[^key-59ace8f2456ab2061244ea8415b4fe8a]
+## 24. Statutory undertakers[^c-59ace8f2456ab2061244ea8415b4fe8a]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ Subject to the provisions of Schedule 7 (protective provisions), Network Rail ma
 
 ## Annotations
 
-[^key-59ace8f2456ab2061244ea8415b4fe8a]: Commencement: Art. 24 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)
+[^c-59ace8f2456ab2061244ea8415b4fe8a]: Commencement: Art. 24 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)

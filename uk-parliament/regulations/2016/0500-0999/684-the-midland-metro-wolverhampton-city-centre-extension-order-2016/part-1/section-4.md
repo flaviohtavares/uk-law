@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Application of the Midland Metro Acts[^key-0929ea27ac0c2abf1aa4e759cbfe664b]
+## 4. Application of the Midland Metro Acts[^c-0929ea27ac0c2abf1aa4e759cbfe664b]
 
 *Extent: E+W*
 
@@ -68,7 +68,7 @@ but it is not to be so treated for—
 
 ## Annotations
 
-[^key-0929ea27ac0c2abf1aa4e759cbfe664b]: Commencement: Art. 4 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)
+[^c-0929ea27ac0c2abf1aa4e759cbfe664b]: Commencement: Art. 4 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)
 
 [^f00016]: Footnote: [1991 c. ii](https://www.legislation.gov.uk/ukla/1991/2).
 

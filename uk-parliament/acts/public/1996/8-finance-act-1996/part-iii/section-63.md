@@ -31,7 +31,7 @@ summary: ''
 
 (4) If a direction under subsection (3) above applies to a disposal any direction under subsection (2) above shall not apply to it.
 
-(4A)[^key-62ada8497fa6648322f1c184d270a781] Subsections (2) to (4) do not apply where the material disposed of consists of qualifying fines.
+(4A)[^c-62ada8497fa6648322f1c184d270a781] Subsections (2) to (4) do not apply where the material disposed of consists of qualifying fines.
 
 (5) An order may provide that material must not be treated as qualifying material unless prescribed conditions are met.
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-62ada8497fa6648322f1c184d270a781]: Textual amendment: [S. 63(4A)](https://www.legislation.gov.uk/ukpga/1996/8/section/63/4A) inserted (with effect in accordance with Sch. 15 para. 8 of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 15 para. 3](https://www.legislation.gov.uk/ukpga/2015/11/schedule/15/paragraph/3)
+[^c-62ada8497fa6648322f1c184d270a781]: Textual amendment: [S. 63(4A)](https://www.legislation.gov.uk/ukpga/1996/8/section/63/4A) inserted (with effect in accordance with Sch. 15 para. 8 of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 15 para. 3](https://www.legislation.gov.uk/ukpga/2015/11/schedule/15/paragraph/3)

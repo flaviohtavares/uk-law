@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 51. Complaints initiated by, or continued by, the Commission[^key-0e27591f182cc73da89cce034c395c22]
+## 51. Complaints initiated by, or continued by, the Commission[^c-0e27591f182cc73da89cce034c395c22]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0e27591f182cc73da89cce034c395c22]: Commencement: S. 51 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-0e27591f182cc73da89cce034c395c22]: Commencement: S. 51 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)

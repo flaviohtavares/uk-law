@@ -178,9 +178,9 @@ insert “ or qualifying young person ”.
 
 (11) In subsection (11), after “child”, in both places, insert “ or qualifying young person ”.
 
-**5.** [^key-48b68c8a380873281325fe189b5e7703]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.** [^c-48b68c8a380873281325fe189b5e7703]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.** [^key-da062861ccd76e4dd330eb781a77773b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.** [^c-da062861ccd76e4dd330eb781a77773b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **7.**[^c994766] (1) Section 114 (persons maintaining dependants etc.) is amended as follows.
 
@@ -423,9 +423,9 @@ insert “ or qualifying young person ”.
 
 (11) In subsection (11), after “child”, in both places, insert “ or qualifying young person ”.
 
-**31.** [^key-187f11470ef017936fa754071a66931d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**31.** [^c-187f11470ef017936fa754071a66931d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**32.** [^key-f88a4ffd193ed9a2c0f97cbe6f4c8840]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**32.** [^c-f88a4ffd193ed9a2c0f97cbe6f4c8840]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **33.**[^c994792] (1) Section 114 (persons maintaining dependants etc.) is amended as follows.
 
@@ -651,9 +651,9 @@ Section 3
 
 [^c994763]: Commencement: Act wholly in force at 10.4.2006; Act in force for certain purposes at Royal Assent and otherwise in force at 10.4.2006, see [s. 6](https://www.legislation.gov.uk/ukpga/2005/6/section/6)
 
-[^key-48b68c8a380873281325fe189b5e7703]: Textual amendment: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2005/6/schedule/1/paragraph/5) repealed (12.1.2010) by [Welfare Reform Act 2009 (c. 24)](https://www.legislation.gov.uk/ukpga/2009/24), [ss. 61(2)](https://www.legislation.gov.uk/ukpga/2009/24/section/61/2), [(3)](https://www.legislation.gov.uk/ukpga/2009/24/section/61/3), [Sch. 7 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/24/schedule/7/part/2)
+[^c-48b68c8a380873281325fe189b5e7703]: Textual amendment: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2005/6/schedule/1/paragraph/5) repealed (12.1.2010) by [Welfare Reform Act 2009 (c. 24)](https://www.legislation.gov.uk/ukpga/2009/24), [ss. 61(2)](https://www.legislation.gov.uk/ukpga/2009/24/section/61/2), [(3)](https://www.legislation.gov.uk/ukpga/2009/24/section/61/3), [Sch. 7 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/24/schedule/7/part/2)
 
-[^key-da062861ccd76e4dd330eb781a77773b]: Textual amendment: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2005/6/schedule/1/paragraph/6) repealed (26.9.2007) by [Pensions Act 2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), [ss. 4(1)](https://www.legislation.gov.uk/ukpga/2007/22/section/4/1), [30(3)](https://www.legislation.gov.uk/ukpga/2007/22/section/30/3), [Sch. 7 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/22/schedule/7/part/2) (with [s. 4(5)](https://www.legislation.gov.uk/ukpga/2007/22/section/4/5))
+[^c-da062861ccd76e4dd330eb781a77773b]: Textual amendment: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2005/6/schedule/1/paragraph/6) repealed (26.9.2007) by [Pensions Act 2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), [ss. 4(1)](https://www.legislation.gov.uk/ukpga/2007/22/section/4/1), [30(3)](https://www.legislation.gov.uk/ukpga/2007/22/section/30/3), [Sch. 7 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/22/schedule/7/part/2) (with [s. 4(5)](https://www.legislation.gov.uk/ukpga/2007/22/section/4/5))
 
 [^c994766]: Commencement: Act wholly in force at 10.4.2006; Act in force for certain purposes at Royal Assent and otherwise in force at 10.4.2006, see [s. 6](https://www.legislation.gov.uk/ukpga/2005/6/section/6)
 
@@ -703,9 +703,9 @@ Section 3
 
 [^c994789]: Commencement: Act wholly in force at 10.4.2006; Act in force for certain purposes at Royal Assent and otherwise in force at 10.4.2006, see [s. 6](https://www.legislation.gov.uk/ukpga/2005/6/section/6)
 
-[^key-187f11470ef017936fa754071a66931d]: Textual amendment: [Sch. 1 para. 31](https://www.legislation.gov.uk/ukpga/2005/6/schedule/1/paragraph/31) repealed (13.8.2010) by [Welfare Reform Act (Northern Ireland) 2010 (c. 13)](https://www.legislation.gov.uk/nia/2010/13), [ss. 36(1)(m)](https://www.legislation.gov.uk/nia/2010/13/section/36/1/m), [(p)](https://www.legislation.gov.uk/nia/2010/13/section/36/1/p), [(2)](https://www.legislation.gov.uk/nia/2010/13/section/36/2), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/nia/2010/13/schedule/4/part/2) (with [s. 14(2)](https://www.legislation.gov.uk/nia/2010/13/section/14/2))
+[^c-187f11470ef017936fa754071a66931d]: Textual amendment: [Sch. 1 para. 31](https://www.legislation.gov.uk/ukpga/2005/6/schedule/1/paragraph/31) repealed (13.8.2010) by [Welfare Reform Act (Northern Ireland) 2010 (c. 13)](https://www.legislation.gov.uk/nia/2010/13), [ss. 36(1)(m)](https://www.legislation.gov.uk/nia/2010/13/section/36/1/m), [(p)](https://www.legislation.gov.uk/nia/2010/13/section/36/1/p), [(2)](https://www.legislation.gov.uk/nia/2010/13/section/36/2), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/nia/2010/13/schedule/4/part/2) (with [s. 14(2)](https://www.legislation.gov.uk/nia/2010/13/section/14/2))
 
-[^key-f88a4ffd193ed9a2c0f97cbe6f4c8840]: Textual amendment: [Sch. 1 para. 32](https://www.legislation.gov.uk/ukpga/2005/6/schedule/1/paragraph/32) repealed (6.4.2010) by [Pensions Act (Northern Ireland) 2008 (c. 1)](https://www.legislation.gov.uk/nia/2008/1), [s. 19(4)(b)](https://www.legislation.gov.uk/nia/2008/1/section/19/4/b), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/nia/2008/1/schedule/6/part/2) (with [ss. 4(5)-(8)](https://www.legislation.gov.uk/nia/2008/1/section/4/5))
+[^c-f88a4ffd193ed9a2c0f97cbe6f4c8840]: Textual amendment: [Sch. 1 para. 32](https://www.legislation.gov.uk/ukpga/2005/6/schedule/1/paragraph/32) repealed (6.4.2010) by [Pensions Act (Northern Ireland) 2008 (c. 1)](https://www.legislation.gov.uk/nia/2008/1), [s. 19(4)(b)](https://www.legislation.gov.uk/nia/2008/1/section/19/4/b), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/nia/2008/1/schedule/6/part/2) (with [ss. 4(5)-(8)](https://www.legislation.gov.uk/nia/2008/1/section/4/5))
 
 [^c994792]: Commencement: Act wholly in force at 10.4.2006; Act in force for certain purposes at Royal Assent and otherwise in force at 10.4.2006, see [s. 6](https://www.legislation.gov.uk/ukpga/2005/6/section/6)
 

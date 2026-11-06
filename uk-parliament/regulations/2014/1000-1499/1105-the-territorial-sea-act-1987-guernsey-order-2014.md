@@ -32,7 +32,7 @@ summary: ''
 
 Territorial Sea
 
-The Territorial Sea Act 1987 (Guernsey) Order 2014 (revoked)[^key-92e5a5f955168c9e0ad49c68668a36d8]
+The Territorial Sea Act 1987 (Guernsey) Order 2014 (revoked)[^c-92e5a5f955168c9e0ad49c68668a36d8]
 
 Made
 
@@ -48,19 +48,19 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-92e5a5f955168c9e0ad49c68668a36d8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-92e5a5f955168c9e0ad49c68668a36d8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-92e5a5f955168c9e0ad49c68668a36d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-92e5a5f955168c9e0ad49c68668a36d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-92e5a5f955168c9e0ad49c68668a36d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-92e5a5f955168c9e0ad49c68668a36d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-92e5a5f955168c9e0ad49c68668a36d8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-92e5a5f955168c9e0ad49c68668a36d8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Exception, adaptations and modifications in the extension of sections 1 and 4(1) of the Territorial Sea Act 1987 to the Bailiwick of Guernsey[^key-92e5a5f955168c9e0ad49c68668a36d8]
+## SCHEDULE — Exception, adaptations and modifications in the extension of sections 1 and 4(1) of the Territorial Sea Act 1987 to the Bailiwick of Guernsey[^c-92e5a5f955168c9e0ad49c68668a36d8]
 
 Article 2
 
@@ -68,8 +68,8 @@ Article 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-92e5a5f955168c9e0ad49c68668a36d8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-92e5a5f955168c9e0ad49c68668a36d8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-92e5a5f955168c9e0ad49c68668a36d8]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2014/1105) revoked (23.7.2019) by [The Territorial Sea Act 1987 (Guernsey) Order 2019 (S.I. 2019/1108)](https://www.legislation.gov.uk/uksi/2019/1108), [art. 3(a)](https://www.legislation.gov.uk/uksi/2019/1108/article/3/a)
+[^c-92e5a5f955168c9e0ad49c68668a36d8]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2014/1105) revoked (23.7.2019) by [The Territorial Sea Act 1987 (Guernsey) Order 2019 (S.I. 2019/1108)](https://www.legislation.gov.uk/uksi/2019/1108), [art. 3(a)](https://www.legislation.gov.uk/uksi/2019/1108/article/3/a)

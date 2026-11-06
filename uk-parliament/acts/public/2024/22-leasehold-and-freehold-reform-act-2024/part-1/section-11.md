@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Prescribed statements in new long leases[^key-27f49b86c33fcad37fce8a3b94b70fbc]
+## 11. Prescribed statements in new long leases[^c-27f49b86c33fcad37fce8a3b94b70fbc]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-27f49b86c33fcad37fce8a3b94b70fbc]: Commencement: S. 11 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-27f49b86c33fcad37fce8a3b94b70fbc]: Commencement: S. 11 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

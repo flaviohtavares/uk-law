@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42.[^key-68bf9a857c888476af141c92aa153851]
+## 42.[^c-68bf9a857c888476af141c92aa153851]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,6 +27,6 @@ In section 15D(4) (permitted disclosure of information obtained under compulsory
 
 ## Annotations
 
-[^key-68bf9a857c888476af141c92aa153851]: Commencement: Reg. 42 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+[^c-68bf9a857c888476af141c92aa153851]: Commencement: Reg. 42 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
 
 [^c23586811]: Marginal citation: Section 15D(4)(aa)(i) was inserted by paragraph 232(2) of Schedule 1 to [S.I. 2008/948](https://www.legislation.gov.uk/uksi/2008/948), and substituted by paragraph 1(2)(a) of Schedule 5 to [S.I. 2016/649](https://www.legislation.gov.uk/uksi/2016/649).

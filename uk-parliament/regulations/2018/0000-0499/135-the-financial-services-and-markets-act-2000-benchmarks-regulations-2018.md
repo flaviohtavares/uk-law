@@ -42,9 +42,9 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 1(2)
 
-[^key-eea4861d234c5a767f8a434ce47a981a][^c22911881][^c22911891]The Treasury are designated for the purposes of section 2(2) of the European Communities Act 1972 in relation to financial services.
+[^c-eea4861d234c5a767f8a434ce47a981a][^c22911881][^c22911891]The Treasury are designated for the purposes of section 2(2) of the European Communities Act 1972 in relation to financial services.
 
-The Treasury make the following Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972.[^key-93c2c9b6968e5033003c5c34231f2c4c]
+The Treasury make the following Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972.[^c-93c2c9b6968e5033003c5c34231f2c4c]
 
 ## PART 1 — Introductory provisions
 
@@ -62,31 +62,31 @@ The Treasury make the following Regulations in exercise of the powers conferred 
 (1) In these Regulations—
 
 - “**the Act**” means the Financial Services and Markets Act 2000 [^c22911911];
-- “**the EU Benchmarks Regulation 2016**” means Regulation EU 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives [2008/48/EC](https://www.legislation.gov.uk/european/directive/2008/0048) and 2014/17/EU and Regulation (EU) No 596/2014 as it forms part of[^key-164d94ca3cf9a0769256e675e46082be] assimilated[^key-e9b2e74fa29db26af1b81a95e52b1b3c] law;
+- “**the EU Benchmarks Regulation 2016**” means Regulation EU 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives [2008/48/EC](https://www.legislation.gov.uk/european/directive/2008/0048) and 2014/17/EU and Regulation (EU) No 596/2014 as it forms part of[^c-164d94ca3cf9a0769256e675e46082be] assimilated[^c-e9b2e74fa29db26af1b81a95e52b1b3c] law;
 - “**benchmark administrator**” means a person who acts as an administrator of a benchmark within the meaning of Article 3 of the EU Benchmarks Regulation 2016;
 - “**competent authority**” means an authority designated under Article 40 of the EU Benchmarks Regulation 2016;
 - “**the FCA**” means the Financial Conduct Authority;
 - “**non-authorised person**” means a person who is not an authorised person;
 - “**the RAO**” means the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 [^c22911961];
 - “**relevant requirement**” means a requirement imposed by or under these Regulations or by or under the EU Benchmarks Regulation 2016; and
-- “[^key-d43b25800090f7ce4216bfb540f9b6ee]**third country**” means a country other than the United Kingdom.
+- “[^c-d43b25800090f7ce4216bfb540f9b6ee]**third country**” means a country other than the United Kingdom.
 
 (2) In Part 2 of these Regulations—
 
 - “**overseas regulator**” means an authority in a country or territory outside the United Kingdom which has functions corresponding to those of the FCA under the EU Benchmarks Regulation 2016;
 - “**own-initiative requirement powers**” means the FCA's powers in regulation 6(2); and
-- “**senior management**” has the meaning given in Article 4.1.37 of Directive 2014/65/EU off the European Parliament and of the Council of 16 April 2014 on Markets in Financial Instruments (recast) as it had effect immediately before IP completion day[^key-aa720a6f81da5a3f0b6d113ef2e8e50f].
+- “**senior management**” has the meaning given in Article 4.1.37 of Directive 2014/65/EU off the European Parliament and of the Council of 16 April 2014 on Markets in Financial Instruments (recast) as it had effect immediately before IP completion day[^c-aa720a6f81da5a3f0b6d113ef2e8e50f].
 
 (3) Except as provided by paragraphs (1) and (2)—
 
 - (a) any expression used in these Regulations which is defined for the purposes of the EU Benchmarks Regulation 2016 has the meaning which it has in the EU Benchmarks Regulation 2016; and
 - (b) any other expression used in these Regulations which is defined for the purposes of the Act has the meaning given by the Act.
 
-### 3. Assimilated direct legislation[^key-bf4e1d9e1c10e8c6f7ca6fa1218f3def][^key-f987ad940442d61b3380d269135e0a15]
+### 3. Assimilated direct legislation[^c-bf4e1d9e1c10e8c6f7ca6fa1218f3def][^c-f987ad940442d61b3380d269135e0a15]
 
-In these Regulations, a reference to an Article of the EU Benchmarks Regulation 2016 includes a reference to any assimilated direct[^key-476ec3447dbca5a30d20150147ecf216][^key-0f6880085e54e8fa9a1afe0521249041] legislation made under that Article.
+In these Regulations, a reference to an Article of the EU Benchmarks Regulation 2016 includes a reference to any assimilated direct[^c-476ec3447dbca5a30d20150147ecf216][^c-0f6880085e54e8fa9a1afe0521249041] legislation made under that Article.
 
-### 4. Designation of competent authority[^key-c1e137253719417e6dc9c2e4273707ed]
+### 4. Designation of competent authority[^c-c1e137253719417e6dc9c2e4273707ed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -102,7 +102,7 @@ In these Regulations, a reference to an Article of the EU Benchmarks Regulation 
 - (b) a service provider to whom functions or any relevant services and activities in the provision of a benchmark have been outsourced;
 - (c) a person who is not the service provider but who is or has been party to a contract in relation to the outsourcing of functions or any relevant services and activities in the provision of a benchmark;
 - (d) a legal representative of a benchmark administrator located in a third country which has obtained or has applied for prior recognition as referred to in Article 32(1) and as provided for in Article 32(3) of the EU Benchmarks Regulation 2016;
-- (e) a person who administers a benchmark relying on Article 46(8) or[^key-0fb0833cac63ab6b69d846204f426a62] Article 51(4) of the EU Benchmarks Regulation 2016; or
+- (e) a person who administers a benchmark relying on Article 46(8) or[^c-0fb0833cac63ab6b69d846204f426a62] Article 51(4) of the EU Benchmarks Regulation 2016; or
 - (f) a supervised entity.
 
 ### 6. FCA's power to impose requirements
@@ -110,7 +110,7 @@ In these Regulations, a reference to an Article of the EU Benchmarks Regulation 
 (1) The FCA may exercise its power under paragraph (2) in relation to a Miscellaneous BM person if it appears to the FCA that—
 
 - (a) the Miscellaneous BM person has contravened or is likely to contravene a relevant requirement;
-- (b) it is desirable for the FCA to exercise its powers in order to advance any of its operational objectives but only in respect of a Miscellaneous BM person coming within regulation 5(2)(d) or (e)[^key-0b6452c5bb45b99a1db4ab74a65c9f93]; or
+- (b) it is desirable for the FCA to exercise its powers in order to advance any of its operational objectives but only in respect of a Miscellaneous BM person coming within regulation 5(2)(d) or (e)[^c-0b6452c5bb45b99a1db4ab74a65c9f93]; or
 - (c) it is desirable for the FCA to exercise its powers order to facilitate the performance of its functions under the EU Benchmarks Regulation 2016.
 
 (2) The FCA's power under this paragraph is a power to—
@@ -153,9 +153,9 @@ A Miscellaneous BM person who is aggrieved by the exercise of the FCA's powers u
 
 (1) The FCA's own-initiative requirement powers may be exercised in respect of a Miscellaneous BM person at the request of, or for the purpose of, assisting an overseas regulator.
 
-(2) If a request to the FCA for the exercise of its own-initiative requirement powers has been made by an overseas regulator, the FCA must, in deciding whether or not to exercise those powers in response to the request, consider whether it is necessary to do so in order to comply with an assimilated[^key-ac11be51716931244b2974b8a05bba3f][^key-ed624215eef7c8b5de8acef5a7c07c55] obligation.
+(2) If a request to the FCA for the exercise of its own-initiative requirement powers has been made by an overseas regulator, the FCA must, in deciding whether or not to exercise those powers in response to the request, consider whether it is necessary to do so in order to comply with an assimilated[^c-ac11be51716931244b2974b8a05bba3f][^c-ed624215eef7c8b5de8acef5a7c07c55] obligation.
 
-(3) In deciding whether or not to do so, in any case in which the FCA does not consider that the exercise of its own-initiative requirement powers is necessary in order to comply with an assimilated[^key-0ae006f7a182d2de63a945dcd8426640][^key-dd191fd8e56f4055228e6e2def97ade1] obligation, it may take into account in particular—
+(3) In deciding whether or not to do so, in any case in which the FCA does not consider that the exercise of its own-initiative requirement powers is necessary in order to comply with an assimilated[^c-0ae006f7a182d2de63a945dcd8426640][^c-dd191fd8e56f4055228e6e2def97ade1] obligation, it may take into account in particular—
 
 - (a) whether in the country or territory of the overseas regulator concerned, corresponding assistance would be given to a United Kingdom regulatory authority;
 - (b) whether the case concerns the breach of a law, or other requirement, which has no close parallel in the United Kingdom or involves the assertion of a jurisdiction not recognised by the United Kingdom;
@@ -167,7 +167,7 @@ A Miscellaneous BM person who is aggrieved by the exercise of the FCA's powers u
 - (a) The FCA may decide not to exercise its own-initiative requirement powers in response to a request unless the overseas regulator concerned undertakes to make such contribution towards the cost of their exercise as the FCA considers appropriate.
 - (b) in subparagraph (a) “**request**” means a request of a kind mentioned in paragraph (1).
 
-(5) Paragraph (4) does not apply if the FCA decides that it is necessary for it to exercise its own-initiative requirement powers in order to comply with an assimilated[^key-e7e475cc70f881a76cb8ee2af35ca9a8][^key-f3ed0eb572936382e75a81153f78e410] obligation.
+(5) Paragraph (4) does not apply if the FCA decides that it is necessary for it to exercise its own-initiative requirement powers in order to comply with an assimilated[^c-e7e475cc70f881a76cb8ee2af35ca9a8][^c-f3ed0eb572936382e75a81153f78e410] obligation.
 
 ### 9. Reporting requirements
 
@@ -761,7 +761,7 @@ Section 413 of the Act (protected items) applies for the purposes of Part 2 of t
 
 (1) An application for prior recognition of a benchmark administrator located in a third country under Article 32 of the EU Benchmarks Regulation 2016 must be made in such manner as the FCA may direct.
 
-(2)[^key-bb584e8e7f1674f386537332ee8744d4] The FCA must determine the application within 90 working days of receipt of the completed application.
+(2)[^c-bb584e8e7f1674f386537332ee8744d4] The FCA must determine the application within 90 working days of receipt of the completed application.
 
 (3) The FCA must make a recognition order granting the administrator prior recognition if the conditions in Article 32 of the EU Benchmarks Regulation 2016 are met.
 
@@ -808,7 +808,7 @@ by giving the administrator a written notice of its decision.
 
 ### 35. Endorsement of benchmarks provided in a third country
 
-(1) An administrator authorised by the FCA or any other supervised entity [^c22912481] which is entitled to apply to the FCA under Article 33 of the EU Benchmarks Regulation 2016 (“the endorser”) may apply to the FCA for approval of its decision to endorse a benchmark or a family of benchmarks administered by an administrator located in a third country[^key-6dbc3e38ea36f9dc3676b4466fb7fb1c].
+(1) An administrator authorised by the FCA or any other supervised entity [^c22912481] which is entitled to apply to the FCA under Article 33 of the EU Benchmarks Regulation 2016 (“the endorser”) may apply to the FCA for approval of its decision to endorse a benchmark or a family of benchmarks administered by an administrator located in a third country[^c-6dbc3e38ea36f9dc3676b4466fb7fb1c].
 
 (2) The application for approval of its decision must be made in such manner as the FCA may direct.
 
@@ -870,7 +870,7 @@ may refer the matter to the Tribunal.
 
 ## PART 5 — Amendments to the Act
 
-### 37. Amendments to section 1H[^c23407221][^key-bdc5fd17715f7a1dedc5ae9afaa8c7ab]
+### 37. Amendments to section 1H[^c23407221][^c-bdc5fd17715f7a1dedc5ae9afaa8c7ab]
 
 In subsection (7A) [^c22912491] of section 1H [^c22912501] of the Act (further interpretative provisions for sections 1B to 1G)—
 
@@ -901,7 +901,7 @@ Section 22 [^c22912511] of the Act (regulated activities) is amended as follows�
 
   .
 
-### 39.[^key-42246c338a52b2b3886d8c8c3308b2e5]
+### 39.[^c-42246c338a52b2b3886d8c8c3308b2e5]
 
 In section 22 of the Act (regulated activities)—
 
@@ -1100,7 +1100,7 @@ After section 122H of the Act (publication of corrective statements generally) i
   > “**benchmark**” means a benchmark within the meaning of section 22(6) or (6A);
 
   ,
-- (b)[^key-8f436661d7a27f459b490cebb82c4ff6] in subsection (4) in the definition of “benchmark” omit “(6) or”.
+- (b)[^c-8f436661d7a27f459b490cebb82c4ff6] in subsection (4) in the definition of “benchmark” omit “(6) or”.
 
 ### 44. Amendment to section 178 of the Act (obligation to notify the appropriate regulator: acquisitions of control)
 
@@ -1156,10 +1156,10 @@ In subsection (13) of section 395 [^c22912631] of the Act (the FCA's and PRA's p
 
 - (a) after “section 22(6)” insert “ or (6A) ”,
 - (b) after “section 22(1A)(b)” insert “ or (c) ”,
-- (c)[^key-4101589b1ae95cf12467dabaa5370672] omit “(6) or”, and
-- (d)[^key-4101589b1ae95cf12467dabaa5370672] omit “(b) or”.
+- (c)[^c-4101589b1ae95cf12467dabaa5370672] omit “(6) or”, and
+- (d)[^c-4101589b1ae95cf12467dabaa5370672] omit “(b) or”.
 
-### 50. Omission of Part 2B of Schedule 2 to the Act (regulated activities relating to the setting of benchmarks)[^key-b186aaaf0f1216e7a4a180cc56542cfb]
+### 50. Omission of Part 2B of Schedule 2 to the Act (regulated activities relating to the setting of benchmarks)[^c-b186aaaf0f1216e7a4a180cc56542cfb]
 
 In Schedule 2 [^c22912661] to the Act (regulated activities relating to the setting of benchmarks) omit Part 2B.
 
@@ -1188,7 +1188,7 @@ In article 64 (agreeing to carry on specified kinds of activity)—
 - (a) omit “and” and insert “ , ”;
 - (b) after “63N” insert “ and 63S ”.
 
-### 53.[^key-695eaa1b4c1a878dbf78803d9a23e23c]
+### 53.[^c-695eaa1b4c1a878dbf78803d9a23e23c]
 
 The following provisions of the RAO are revoked—
 
@@ -1234,7 +1234,7 @@ Article 4 [^c22912751] of the Financial Services and Markets Act 2000 (Professio
 
 .
 
-### 57. Amendments to the Consumer Credit (Disclosure of Information) Regulations 2010[^key-cf7995a5c716481918302b1de775dac5]
+### 57. Amendments to the Consumer Credit (Disclosure of Information) Regulations 2010[^c-cf7995a5c716481918302b1de775dac5]
 
 (1) The Consumer Credit (Disclosure of Information) Regulations 2010 [^c22912831] are amended as follows.
 
@@ -1336,7 +1336,7 @@ if the administrator of that benchmark has a Part 4A permission in relation to t
 
 ### 61. Existing administrators as at 30th June 2016: transitional provision
 
-(1) A person who does not have a Part 4A permission in relation to the activity specified in article 63S(1) of the RAO and who was administering one or more benchmarks on or before 30th June 2016 does not , subject to paragraph (3),[^key-dea134632fb2c736da55fc3274eacce9] [^key-8b597629712f801fae4b4bb77a7da610]...—
+(1) A person who does not have a Part 4A permission in relation to the activity specified in article 63S(1) of the RAO and who was administering one or more benchmarks on or before 30th June 2016 does not , subject to paragraph (3),[^c-dea134632fb2c736da55fc3274eacce9] [^c-8b597629712f801fae4b4bb77a7da610]...—
 
 - (a) contravene the general prohibition in section 19 of the Act (the general prohibition), or
 - (b) contravene a requirement imposed by the FCA or PRA by virtue of section 20(1) or (1A) of the Act (authorised person acting without permission)
@@ -1348,7 +1348,7 @@ in respect of carrying on the activity in article 63S(1) of the RAO until the re
 - (a) where the person has not applied for permission to carry on the activity in article 63S(1) of the RAO before 1st January 2020, 1st January 2020; and
 - (b) where the person has applied for permission to carry on the activity in article 63S(1) of the RAO before 1st January 2020, the date on which the application is determined.
 
-(3)[^key-48e3d097e2b8410868cc51b09e957629] Paragraph (1) does not apply if the benchmark may not be used by virtue of Article 51(1C) of the EU Benchmarks Regulation 2016.
+(3)[^c-48e3d097e2b8410868cc51b09e957629] Paragraph (1) does not apply if the benchmark may not be used by virtue of Article 51(1C) of the EU Benchmarks Regulation 2016.
 
 ### 62. Existing administrators as at 1st of January 2018: transitional provision
 
@@ -1358,11 +1358,11 @@ in respect of carrying on the activity in article 63S(1) of the RAO until the re
 - (b) began to administer one or more benchmarks between 30th June 2016 and 1st of January 2018; and
 - (c) has not started to administer any new benchmarks since 1st January 2018;
 
-does not , subject to paragraph (3),[^key-f84412e80f88d5ba109f04a03e3e91ff] breach the general prohibition in section 19 of the Act (the general prohibition) or contravene a requirement imposed by the FCA or PRA as defined in section 20(1) or (1A) of the Act (authorised person acting without permission) in respect of carrying on the activity in article 63S(1) of the RAO until the relevant date.
+does not , subject to paragraph (3),[^c-f84412e80f88d5ba109f04a03e3e91ff] breach the general prohibition in section 19 of the Act (the general prohibition) or contravene a requirement imposed by the FCA or PRA as defined in section 20(1) or (1A) of the Act (authorised person acting without permission) in respect of carrying on the activity in article 63S(1) of the RAO until the relevant date.
 
 (2) The relevant date in paragraph (1) is the relevant date as defined in regulation 61(2).
 
-(3)[^key-0d3f46e9b8fa92cb1e58ec771924008a] Paragraph (1) does not apply if the benchmark may not be used by virtue of Article 51(1C) of the EU Benchmarks Regulation 2016.
+(3)[^c-0d3f46e9b8fa92cb1e58ec771924008a] Paragraph (1) does not apply if the benchmark may not be used by virtue of Article 51(1C) of the EU Benchmarks Regulation 2016.
 
 ### 63. New administrators: transitional provision
 
@@ -1430,7 +1430,7 @@ shall be deemed to have their permission varied by the FCA on 27th February 2018
 
 In subsection (3) of section 293 [^c22913081] of the Act (notification requirements), for “under”, in the second place where it appears, substitute “ for the purposes of ”.
 
-### 68. Review[^key-eea4861d234c5a767f8a434ce47a981a]
+### 68. Review[^c-eea4861d234c5a767f8a434ce47a981a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -1464,57 +1464,57 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 ## Annotations
 
-[^key-eea4861d234c5a767f8a434ce47a981a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2018/135) revoked (14.12.2023 for the revocation of reg. 68) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 2(c)(xxi)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/2/c/xxi)
+[^c-eea4861d234c5a767f8a434ce47a981a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2018/135) revoked (14.12.2023 for the revocation of reg. 68) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 2(c)(xxi)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/2/c/xxi)
 
 [^c22911881]: Marginal citation: [S.I. 2012/1759](https://www.legislation.gov.uk/uksi/2012/1759).
 
 [^c22911891]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68); [section 2(2)](https://www.legislation.gov.uk/uksi/2018/135/section/2/2) was amended by section 27 of the [Legislative and Regulatory Reform Act 2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) and by section 3 of, and the Schedule to, the [European Union (Amendment) Act 2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7). By virtue of the amendment of section 1(2) by section 1 of the [European Economic Area Act 1993 (c.51)](https://www.legislation.gov.uk/ukpga/1993/51) regulations may be made under section 2(2) of the European Communities Act to implement obligations of the United Kingdom created or arising by or under the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 (Cm 2073) and the Protocol adjusting the Agreement signed at Brussels on 17th March 1993 (Cm 2183).
 
-[^key-93c2c9b6968e5033003c5c34231f2c4c]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2018/135): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-93c2c9b6968e5033003c5c34231f2c4c]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2018/135): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
 [^c22911901]: Marginal citation: [S.I. 2010/1013](https://www.legislation.gov.uk/uksi/2010/1013).
 
 [^c22911911]: Marginal citation: 2000 c .8.
 
-[^key-164d94ca3cf9a0769256e675e46082be]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/135/regulation/2/1) inserted (31.12.2020 immediately before IP completion day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [42](https://www.legislation.gov.uk/uksi/2020/1385/regulation/42)
+[^c-164d94ca3cf9a0769256e675e46082be]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/135/regulation/2/1) inserted (31.12.2020 immediately before IP completion day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [42](https://www.legislation.gov.uk/uksi/2020/1385/regulation/42)
 
-[^key-e9b2e74fa29db26af1b81a95e52b1b3c]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/135/regulation/2/1) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 9 para. 26(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/9/paragraph/26/a)
+[^c-e9b2e74fa29db26af1b81a95e52b1b3c]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/135/regulation/2/1) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 9 para. 26(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/9/paragraph/26/a)
 
 [^c22911961]: Marginal citation: [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544).
 
-[^key-d43b25800090f7ce4216bfb540f9b6ee]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/135/regulation/2/1) substituted (31.12.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [12(2)(a)](https://www.legislation.gov.uk/uksi/2019/710/regulation/12/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d43b25800090f7ce4216bfb540f9b6ee]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/135/regulation/2/1) substituted (31.12.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [12(2)(a)](https://www.legislation.gov.uk/uksi/2019/710/regulation/12/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-aa720a6f81da5a3f0b6d113ef2e8e50f]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/135/regulation/2/2) inserted (31.12.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [12(2)(b)](https://www.legislation.gov.uk/uksi/2019/710/regulation/12/2/b) (as amended by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 43(b)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/43/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-aa720a6f81da5a3f0b6d113ef2e8e50f]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/135/regulation/2/2) inserted (31.12.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [12(2)(b)](https://www.legislation.gov.uk/uksi/2019/710/regulation/12/2/b) (as amended by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 43(b)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/43/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-bf4e1d9e1c10e8c6f7ca6fa1218f3def]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2018/135/regulation/3) heading substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 9 para. 26(b)(i)](https://www.legislation.gov.uk/uksi/2025/82/schedule/9/paragraph/26/b/i)
+[^c-bf4e1d9e1c10e8c6f7ca6fa1218f3def]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2018/135/regulation/3) heading substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 9 para. 26(b)(i)](https://www.legislation.gov.uk/uksi/2025/82/schedule/9/paragraph/26/b/i)
 
-[^key-f987ad940442d61b3380d269135e0a15]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2018/135/regulation/3) heading substituted (31.12.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [12(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/12/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f987ad940442d61b3380d269135e0a15]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2018/135/regulation/3) heading substituted (31.12.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [12(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/12/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-476ec3447dbca5a30d20150147ecf216]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2018/135/regulation/3) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 9 para. 26(b)(ii)](https://www.legislation.gov.uk/uksi/2025/82/schedule/9/paragraph/26/b/ii)
+[^c-476ec3447dbca5a30d20150147ecf216]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2018/135/regulation/3) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 9 para. 26(b)(ii)](https://www.legislation.gov.uk/uksi/2025/82/schedule/9/paragraph/26/b/ii)
 
-[^key-0f6880085e54e8fa9a1afe0521249041]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2018/135/regulation/3) substituted (31.12.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [12(4)](https://www.legislation.gov.uk/uksi/2019/710/regulation/12/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0f6880085e54e8fa9a1afe0521249041]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2018/135/regulation/3) substituted (31.12.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [12(4)](https://www.legislation.gov.uk/uksi/2019/710/regulation/12/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c1e137253719417e6dc9c2e4273707ed]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2018/135/regulation/4) omitted (31.12.2020) by virtue of [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [12(5)](https://www.legislation.gov.uk/uksi/2019/710/regulation/12/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c1e137253719417e6dc9c2e4273707ed]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2018/135/regulation/4) omitted (31.12.2020) by virtue of [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [12(5)](https://www.legislation.gov.uk/uksi/2019/710/regulation/12/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0fb0833cac63ab6b69d846204f426a62]: Textual amendment: Words in [reg. 5(2)(e)](https://www.legislation.gov.uk/uksi/2018/135/regulation/5/2/e) inserted (14.10.2019) by [The Financial Services and Markets Act 2000 (Benchmarks) (Amendment) Regulations 2019 (S.I. 2019/1256)](https://www.legislation.gov.uk/uksi/2019/1256), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1256/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1256/regulation/2/2)
+[^c-0fb0833cac63ab6b69d846204f426a62]: Textual amendment: Words in [reg. 5(2)(e)](https://www.legislation.gov.uk/uksi/2018/135/regulation/5/2/e) inserted (14.10.2019) by [The Financial Services and Markets Act 2000 (Benchmarks) (Amendment) Regulations 2019 (S.I. 2019/1256)](https://www.legislation.gov.uk/uksi/2019/1256), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1256/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1256/regulation/2/2)
 
-[^key-0b6452c5bb45b99a1db4ab74a65c9f93]: Textual amendment: Words in [reg. 6(1)(b)](https://www.legislation.gov.uk/uksi/2018/135/regulation/6/1/b) inserted (14.10.2019) by [The Financial Services and Markets Act 2000 (Benchmarks) (Amendment) Regulations 2019 (S.I. 2019/1256)](https://www.legislation.gov.uk/uksi/2019/1256), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1256/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2019/1256/regulation/2/3)
+[^c-0b6452c5bb45b99a1db4ab74a65c9f93]: Textual amendment: Words in [reg. 6(1)(b)](https://www.legislation.gov.uk/uksi/2018/135/regulation/6/1/b) inserted (14.10.2019) by [The Financial Services and Markets Act 2000 (Benchmarks) (Amendment) Regulations 2019 (S.I. 2019/1256)](https://www.legislation.gov.uk/uksi/2019/1256), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1256/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2019/1256/regulation/2/3)
 
 [^c22911981]: Marginal citation: Section 55Y was inserted by section 11(2) of the [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21).
 
 [^c22911991]: Marginal citation: Subsection (12) of section 55Y of the Act was inserted by section 11(2) of the Financial Services Act 2012.
 
-[^key-ac11be51716931244b2974b8a05bba3f]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/uksi/2018/135/regulation/8/2) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 9 para. 26(c)](https://www.legislation.gov.uk/uksi/2025/82/schedule/9/paragraph/26/c)
+[^c-ac11be51716931244b2974b8a05bba3f]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/uksi/2018/135/regulation/8/2) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 9 para. 26(c)](https://www.legislation.gov.uk/uksi/2025/82/schedule/9/paragraph/26/c)
 
-[^key-ed624215eef7c8b5de8acef5a7c07c55]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/uksi/2018/135/regulation/8/2) substituted (31.12.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [12(6)](https://www.legislation.gov.uk/uksi/2019/710/regulation/12/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ed624215eef7c8b5de8acef5a7c07c55]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/uksi/2018/135/regulation/8/2) substituted (31.12.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [12(6)](https://www.legislation.gov.uk/uksi/2019/710/regulation/12/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0ae006f7a182d2de63a945dcd8426640]: Textual amendment: Words in [reg. 8(3)](https://www.legislation.gov.uk/uksi/2018/135/regulation/8/3) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 9 para. 26(c)](https://www.legislation.gov.uk/uksi/2025/82/schedule/9/paragraph/26/c)
+[^c-0ae006f7a182d2de63a945dcd8426640]: Textual amendment: Words in [reg. 8(3)](https://www.legislation.gov.uk/uksi/2018/135/regulation/8/3) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 9 para. 26(c)](https://www.legislation.gov.uk/uksi/2025/82/schedule/9/paragraph/26/c)
 
-[^key-dd191fd8e56f4055228e6e2def97ade1]: Textual amendment: Words in [reg. 8(3)](https://www.legislation.gov.uk/uksi/2018/135/regulation/8/3) substituted (31.12.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [12(6)](https://www.legislation.gov.uk/uksi/2019/710/regulation/12/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dd191fd8e56f4055228e6e2def97ade1]: Textual amendment: Words in [reg. 8(3)](https://www.legislation.gov.uk/uksi/2018/135/regulation/8/3) substituted (31.12.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [12(6)](https://www.legislation.gov.uk/uksi/2019/710/regulation/12/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e7e475cc70f881a76cb8ee2af35ca9a8]: Textual amendment: Words in [reg. 8(5)](https://www.legislation.gov.uk/uksi/2018/135/regulation/8/5) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 9 para. 26(c)](https://www.legislation.gov.uk/uksi/2025/82/schedule/9/paragraph/26/c)
+[^c-e7e475cc70f881a76cb8ee2af35ca9a8]: Textual amendment: Words in [reg. 8(5)](https://www.legislation.gov.uk/uksi/2018/135/regulation/8/5) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 9 para. 26(c)](https://www.legislation.gov.uk/uksi/2025/82/schedule/9/paragraph/26/c)
 
-[^key-f3ed0eb572936382e75a81153f78e410]: Textual amendment: Words in [reg. 8(5)](https://www.legislation.gov.uk/uksi/2018/135/regulation/8/5) substituted (31.12.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [12(6)](https://www.legislation.gov.uk/uksi/2019/710/regulation/12/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f3ed0eb572936382e75a81153f78e410]: Textual amendment: Words in [reg. 8(5)](https://www.legislation.gov.uk/uksi/2018/135/regulation/8/5) substituted (31.12.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [12(6)](https://www.legislation.gov.uk/uksi/2019/710/regulation/12/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22912001]: Marginal citation: “management body” is defined in point (20) of paragraph 1 of Article 3 of the EU Benchmarks Regulation 2016 (OJ No. L171 29.06.2016, p.1.).
 
@@ -1612,15 +1612,15 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c22912471]: Marginal citation: [Paragraph 8(3)](https://www.legislation.gov.uk/uksi/2018/135/paragraph/8/3) was inserted by Schedule 3 to the Financial Services Act 2012 and amended by paragraph 16(b)(ii) of Schedule 3 to the Financial Services (Banking Reform) Act 2013 and [S.I. 2016/680](https://www.legislation.gov.uk/uksi/2016/680).
 
-[^key-bb584e8e7f1674f386537332ee8744d4]: Textual amendment: [Reg. 34(2)](https://www.legislation.gov.uk/uksi/2018/135/regulation/34/2) substituted (31.12.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [12(7)](https://www.legislation.gov.uk/uksi/2019/710/regulation/12/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bb584e8e7f1674f386537332ee8744d4]: Textual amendment: [Reg. 34(2)](https://www.legislation.gov.uk/uksi/2018/135/regulation/34/2) substituted (31.12.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [12(7)](https://www.legislation.gov.uk/uksi/2019/710/regulation/12/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22912481]: Marginal citation: “Supervised entity” is defined in point 17 of paragraph 1 of Article 1 to the EU Benchmarks Regulation 2016 (OJ No. L171 29.06.2016, p.1.).
 
-[^key-6dbc3e38ea36f9dc3676b4466fb7fb1c]: Textual amendment: Words in [reg. 35(1)](https://www.legislation.gov.uk/uksi/2018/135/regulation/35/1) substituted (31.12.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [12(8)](https://www.legislation.gov.uk/uksi/2019/710/regulation/12/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6dbc3e38ea36f9dc3676b4466fb7fb1c]: Textual amendment: Words in [reg. 35(1)](https://www.legislation.gov.uk/uksi/2018/135/regulation/35/1) substituted (31.12.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [12(8)](https://www.legislation.gov.uk/uksi/2019/710/regulation/12/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23407221]: Commencement: Reg. 37(a)(b) in force at 27.2.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/135/regulation/1/2)
 
-[^key-bdc5fd17715f7a1dedc5ae9afaa8c7ab]: Commencement: Reg. 37(c)(d) in force at 1.5.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/135/regulation/1/2/b)
+[^c-bdc5fd17715f7a1dedc5ae9afaa8c7ab]: Commencement: Reg. 37(c)(d) in force at 1.5.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/135/regulation/1/2/b)
 
 [^c22912491]: Marginal citation: Subsection (7A) was inserted by [S.I. 2013/655](https://www.legislation.gov.uk/uksi/2013/655).
 
@@ -1628,7 +1628,7 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c22912511]: Marginal citation: [Section 22](https://www.legislation.gov.uk/uksi/2018/135/section/22) was amended by section 7(1) of the Financial Services Act 2012.
 
-[^key-42246c338a52b2b3886d8c8c3308b2e5]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/2018/135/regulation/39) in force at 1.5.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/135/regulation/1/2/b)
+[^c-42246c338a52b2b3886d8c8c3308b2e5]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/2018/135/regulation/39) in force at 1.5.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/135/regulation/1/2/b)
 
 [^c22912521]: Marginal citation: [Part 4A](https://www.legislation.gov.uk/uksi/2018/135/part/4A) (sections 55A to 55Z4) of the Act was inserted by section 11(2) of the Financial Services Act 2012.
 
@@ -1648,7 +1648,7 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c23407231]: Commencement: [Reg. 43(a)](https://www.legislation.gov.uk/uksi/2018/135/regulation/43/a) in force at 27.2.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/135/regulation/1/2)
 
-[^key-8f436661d7a27f459b490cebb82c4ff6]: Commencement: [Reg. 43(b)](https://www.legislation.gov.uk/uksi/2018/135/regulation/43/b) in force at 1.5.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/135/regulation/1/2/b)
+[^c-8f436661d7a27f459b490cebb82c4ff6]: Commencement: [Reg. 43(b)](https://www.legislation.gov.uk/uksi/2018/135/regulation/43/b) in force at 1.5.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/135/regulation/1/2/b)
 
 [^c22912601]: Marginal citation: [Section 178](https://www.legislation.gov.uk/uksi/2018/135/section/178) was inserted by [S.I. 2009/534](https://www.legislation.gov.uk/uksi/2009/534) and amended by section 26 of the Financial Services Act 2012.
 
@@ -1664,9 +1664,9 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c22912651]: Marginal citation: [Section 425A](https://www.legislation.gov.uk/uksi/2018/135/section/425A) was inserted by paragraph 32 of Schedule 2(1) to the Financial Services Act 2010 and amended by [S.I. 2013/655](https://www.legislation.gov.uk/uksi/2013/655) and [S.I. 2013/3115](https://www.legislation.gov.uk/uksi/2013/3115).
 
-[^key-4101589b1ae95cf12467dabaa5370672]: Commencement: [Reg. 49(2)(c)](https://www.legislation.gov.uk/uksi/2018/135/regulation/49/2/c)[(d)](https://www.legislation.gov.uk/uksi/2018/135/regulation/49/2/d) in force at 1.5.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/135/regulation/1/2/b)
+[^c-4101589b1ae95cf12467dabaa5370672]: Commencement: [Reg. 49(2)(c)](https://www.legislation.gov.uk/uksi/2018/135/regulation/49/2/c)[(d)](https://www.legislation.gov.uk/uksi/2018/135/regulation/49/2/d) in force at 1.5.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/135/regulation/1/2/b)
 
-[^key-b186aaaf0f1216e7a4a180cc56542cfb]: Commencement: [Reg. 50](https://www.legislation.gov.uk/uksi/2018/135/regulation/50) in force at 1.5.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/135/regulation/1/2/b)
+[^c-b186aaaf0f1216e7a4a180cc56542cfb]: Commencement: [Reg. 50](https://www.legislation.gov.uk/uksi/2018/135/regulation/50) in force at 1.5.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/135/regulation/1/2/b)
 
 [^c22912661]: Marginal citation: [Part 2B](https://www.legislation.gov.uk/uksi/2018/135/part/2B) of Schedule 2 to the Act was inserted by section 7(5) of the Financial Services Act 2012. There are other amendments to Part 2B of Schedule 2 but none is relevant to these Regulations.
 
@@ -1678,7 +1678,7 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c22912701]: Marginal citation: OJ No. L173, 12.06.2014, p.1.
 
-[^key-695eaa1b4c1a878dbf78803d9a23e23c]: Commencement: [Reg. 53](https://www.legislation.gov.uk/uksi/2018/135/regulation/53) in force at 1.5.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/135/regulation/1/2/b)
+[^c-695eaa1b4c1a878dbf78803d9a23e23c]: Commencement: [Reg. 53](https://www.legislation.gov.uk/uksi/2018/135/regulation/53) in force at 1.5.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/135/regulation/1/2/b)
 
 [^c22912711]: Marginal citation: [S.I. 2001/1201](https://www.legislation.gov.uk/uksi/2001/1201).
 
@@ -1704,7 +1704,7 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c22912821]: Marginal citation: OJ No. L173, 12.06.2014, p.1.
 
-[^key-cf7995a5c716481918302b1de775dac5]: Commencement: [Reg. 57](https://www.legislation.gov.uk/uksi/2018/135/regulation/57) in force at 1.7.2018 by [S.I. 2018/135](https://www.legislation.gov.uk/uksi/2018/135), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2018/135/regulation/1/2/a)
+[^c-cf7995a5c716481918302b1de775dac5]: Commencement: [Reg. 57](https://www.legislation.gov.uk/uksi/2018/135/regulation/57) in force at 1.7.2018 by [S.I. 2018/135](https://www.legislation.gov.uk/uksi/2018/135), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2018/135/regulation/1/2/a)
 
 [^c22912831]: Marginal citation: [S.I. 2010/1013](https://www.legislation.gov.uk/uksi/2010/1013).
 
@@ -1752,15 +1752,15 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c22913051]: Marginal citation: [Article 6(2)](https://www.legislation.gov.uk/uksi/2018/135/article/6/2) was amended by [S.I. 2013/1773](https://www.legislation.gov.uk/uksi/2013/1773), [S.I](https://www.legislation.gov.uk/uksi/2013/1773/section/I). 2014/2879, [S.I. 2014/3348](https://www.legislation.gov.uk/uksi/2014/3348), [S.I](https://www.legislation.gov.uk/uksi/2014/3348/section/I). 1025/1882, S.I 2016/680, [S.I. 2016/715](https://www.legislation.gov.uk/uksi/2016/715) and [S.I. 2017/1127](https://www.legislation.gov.uk/uksi/2017/1127).
 
-[^key-dea134632fb2c736da55fc3274eacce9]: Textual amendment: Words in [reg. 61(1)](https://www.legislation.gov.uk/uksi/2018/135/regulation/61/1) inserted (31.12.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [12(9)(a)](https://www.legislation.gov.uk/uksi/2019/710/regulation/12/9/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dea134632fb2c736da55fc3274eacce9]: Textual amendment: Words in [reg. 61(1)](https://www.legislation.gov.uk/uksi/2018/135/regulation/61/1) inserted (31.12.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [12(9)(a)](https://www.legislation.gov.uk/uksi/2019/710/regulation/12/9/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8b597629712f801fae4b4bb77a7da610]: Textual amendment: Words in reg. 61(1) omitted (26.2.2018) by virtue of [The Financial Services and Markets Act 2000 (Benchmarks) (Amendment) Regulations 2018 (S.I. 2018/204)](https://www.legislation.gov.uk/uksi/2018/204), regs. 1(2), 2
+[^c-8b597629712f801fae4b4bb77a7da610]: Textual amendment: Words in reg. 61(1) omitted (26.2.2018) by virtue of [The Financial Services and Markets Act 2000 (Benchmarks) (Amendment) Regulations 2018 (S.I. 2018/204)](https://www.legislation.gov.uk/uksi/2018/204), regs. 1(2), 2
 
-[^key-48e3d097e2b8410868cc51b09e957629]: Textual amendment: [Reg. 61(3)](https://www.legislation.gov.uk/uksi/2018/135/regulation/61/3) inserted (31.12.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [12(9)(b)](https://www.legislation.gov.uk/uksi/2019/710/regulation/12/9/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-48e3d097e2b8410868cc51b09e957629]: Textual amendment: [Reg. 61(3)](https://www.legislation.gov.uk/uksi/2018/135/regulation/61/3) inserted (31.12.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [12(9)(b)](https://www.legislation.gov.uk/uksi/2019/710/regulation/12/9/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f84412e80f88d5ba109f04a03e3e91ff]: Textual amendment: Words in [reg. 62(1)](https://www.legislation.gov.uk/uksi/2018/135/regulation/62/1) inserted (31.12.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [12(10)(a)](https://www.legislation.gov.uk/uksi/2019/710/regulation/12/10/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f84412e80f88d5ba109f04a03e3e91ff]: Textual amendment: Words in [reg. 62(1)](https://www.legislation.gov.uk/uksi/2018/135/regulation/62/1) inserted (31.12.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [12(10)(a)](https://www.legislation.gov.uk/uksi/2019/710/regulation/12/10/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0d3f46e9b8fa92cb1e58ec771924008a]: Textual amendment: [Reg. 62(3)](https://www.legislation.gov.uk/uksi/2018/135/regulation/62/3) inserted (31.12.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [12(10)(b)](https://www.legislation.gov.uk/uksi/2019/710/regulation/12/10/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0d3f46e9b8fa92cb1e58ec771924008a]: Textual amendment: [Reg. 62(3)](https://www.legislation.gov.uk/uksi/2018/135/regulation/62/3) inserted (31.12.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [12(10)(b)](https://www.legislation.gov.uk/uksi/2019/710/regulation/12/10/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22913071]: Marginal citation: [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544).
 

@@ -96,27 +96,27 @@ HAS ADOPTED THIS DECISION:
 
 ## Article 1. Subject matter and scope
 
-This Decision provides rules for the analytical methods to be used in the testing of official samples taken pursuant to relevant[^key-e83bc76ceb38ec61673d6307641fe575] assimilated[^key-daa1eb974cb69c73f77a2078d027a5cc] law and specifies common criteria for the interpretation of analytical results of official control laboratories for such samples.
+This Decision provides rules for the analytical methods to be used in the testing of official samples taken pursuant to relevant[^c-e83bc76ceb38ec61673d6307641fe575] assimilated[^c-daa1eb974cb69c73f77a2078d027a5cc] law and specifies common criteria for the interpretation of analytical results of official control laboratories for such samples.
 
-This Decision shall not apply to substances for which more specific rules have been laid down in other [^key-a924dd40f465605b05f1ca283e1715a8]... legislation.
+This Decision shall not apply to substances for which more specific rules have been laid down in other [^c-a924dd40f465605b05f1ca283e1715a8]... legislation.
 
 ## Article 2. Definitions
 
 For the purpose of this Decision the definitions in [Directive 96/23/EC](https://www.legislation.gov.uk/eudr/1996/23) and in the Annex I[^M_F_c9d4f8d2-3668-49df-e07f-9fbf177dda42] to this decision shall apply.
 
-In this Decision—[^key-7d3da81a175ff070cae6a7ad35608ef4]
+In this Decision—[^c-7d3da81a175ff070cae6a7ad35608ef4]
 
 - “appropriate authority” means—
   - (a) as regards England, the Secretary of State;
   - (b) as regards Scotland, the Scottish Ministers;
   - (c) as regards Wales, the Welsh Ministers;
-- “relevant assimilated[^key-68e309aea4c05aa9d170db34dd652a2c] law” means—
+- “relevant assimilated[^c-68e309aea4c05aa9d170db34dd652a2c] law” means—
   - (a) as regards England and Scotland, the Animals and Animal Products (Examination for Residues and Maximum Residue Limits) (England and Scotland) Regulations 2015;
   - (b) as regards Wales, the Animals and Animal Products (Examination for Residues and Maximum Residue Limits) (Wales) Regulations 2019.
 
 ## Article 3. Analytical methods
 
-The appropriate authority[^key-25b3eaee39fd3b0b42c07ff7c44ea0c0] shall ensure that official samples taken pursuant to [relevant assimilated law](https://www.legislation.gov.uk/eudr/1996/23)[^key-e390eefd2307b5c5c633ac4c39df89df][^key-1ab081af9de0bf59beefe5505d9534a5] are analysed using methods that:
+The appropriate authority[^c-25b3eaee39fd3b0b42c07ff7c44ea0c0] shall ensure that official samples taken pursuant to [relevant assimilated law](https://www.legislation.gov.uk/eudr/1996/23)[^c-e390eefd2307b5c5c633ac4c39df89df][^c-1ab081af9de0bf59beefe5505d9534a5] are analysed using methods that:
 
 - (a) are documented in test instructions, preferably according to ISO 78-2 (6);
 - (b) comply with Part 2 of the Annex I[^M_F_3077b8da-24d6-4421-ee9d-46c299b0c767] to this Decision;
@@ -125,7 +125,7 @@ The appropriate authority[^key-25b3eaee39fd3b0b42c07ff7c44ea0c0] shall ensure th
 
 ## Article 4. Minimum required performance limits[^M_F_c7b01b91-d576-4134-e80c-764f8667115c]
 
-The appropriate authority[^key-68aae32c40eecf8c1b9bd23ce1018047] shall ensure that the analytical methods used for detecting the following substances meet the minimum required performance limits (MRPLs) set out in Annex II, against the matrixes referred to in that Annex:
+The appropriate authority[^c-68aae32c40eecf8c1b9bd23ce1018047] shall ensure that the analytical methods used for detecting the following substances meet the minimum required performance limits (MRPLs) set out in Annex II, against the matrixes referred to in that Annex:
 
 - (a) chloramphenicol;
 - (b) nitrofuran metabolites;
@@ -134,7 +134,7 @@ The appropriate authority[^key-68aae32c40eecf8c1b9bd23ce1018047] shall ensure th
 
 ## Article 5. Quality control
 
-The appropriate authority[^key-8eb285ba6b9e205fd29b9e5b56ad36a8] shall ensure the quality of the results of the analysis of samples taken pursuant to [relevant assimilated law](https://www.legislation.gov.uk/eudr/1996/23)[^key-16edd5ef1f96572950e9fdacd944349b][^key-9003bae3aaac1270695d9d2b72d8ce3a], in particular by monitoring tests and/or calibration results according to Chapter 5.9 of ISO 17025 (1).
+The appropriate authority[^c-8eb285ba6b9e205fd29b9e5b56ad36a8] shall ensure the quality of the results of the analysis of samples taken pursuant to [relevant assimilated law](https://www.legislation.gov.uk/eudr/1996/23)[^c-16edd5ef1f96572950e9fdacd944349b][^c-9003bae3aaac1270695d9d2b72d8ce3a], in particular by monitoring tests and/or calibration results according to Chapter 5.9 of ISO 17025 (1).
 
 ## Article 6. Interpretation of results
 
@@ -146,7 +146,7 @@ The appropriate authority[^key-8eb285ba6b9e205fd29b9e5b56ad36a8] shall ensure th
 
 4. For substances listed in Group A of Annex I to [Directive 96/23/EC](https://www.legislation.gov.uk/eudr/1996/23), the ɑ error shall be 1 % or lower. For all other substances, the ɑ error shall be 5 % or lower.
 
-## Article 7. Repeal[^key-21a954e372f893ed0bf6d011aa7d5031]
+## Article 7. Repeal[^c-21a954e372f893ed0bf6d011aa7d5031]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -158,7 +158,7 @@ The methods for the analysis of official samples of substances listed in Group A
 
 This Decision shall apply from 1 September 2002.
 
-## Article 10. Addressees[^key-a76acebc44a1748ea46c1fdd85c0dba9]
+## Article 10. Addressees[^c-a76acebc44a1748ea46c1fdd85c0dba9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -1325,39 +1325,39 @@ All conditions of application and details have been described (18).
 
 [^f00007]: Footnote: OJ L 251, 11.9.1998, p. 39.
 
-[^key-e83bc76ceb38ec61673d6307641fe575]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eudn/2002/657/article/1) substituted (31.12.2020) by [The Veterinary Medicines and Residues (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1461)](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/b), [6(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/6/2/a)
+[^c-e83bc76ceb38ec61673d6307641fe575]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eudn/2002/657/article/1) substituted (31.12.2020) by [The Veterinary Medicines and Residues (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1461)](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/b), [6(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/6/2/a)
 
-[^key-daa1eb974cb69c73f77a2078d027a5cc]: Textual amendment: Word in [Art. 1](https://www.legislation.gov.uk/eudn/2002/657/article/1) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 62(2)(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/62/2/a)
+[^c-daa1eb974cb69c73f77a2078d027a5cc]: Textual amendment: Word in [Art. 1](https://www.legislation.gov.uk/eudn/2002/657/article/1) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 62(2)(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/62/2/a)
 
-[^key-a924dd40f465605b05f1ca283e1715a8]: Textual amendment: Word in [Art. 1](https://www.legislation.gov.uk/eudn/2002/657/article/1) omitted (31.12.2020) by virtue of [The Veterinary Medicines and Residues (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1461)](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/b), [6(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/6/2/b)
+[^c-a924dd40f465605b05f1ca283e1715a8]: Textual amendment: Word in [Art. 1](https://www.legislation.gov.uk/eudn/2002/657/article/1) omitted (31.12.2020) by virtue of [The Veterinary Medicines and Residues (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1461)](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/b), [6(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/6/2/b)
 
 [^M_F_c9d4f8d2-3668-49df-e07f-9fbf177dda42]: Textual amendment: Replaced by [2003/181/EC: Commission Decision of 13 March 2003 amending Decision 2002/657/EC as regards the setting of minimum required performance limits (MRPLs) for certain residues in food of animal origin (Text with EEA relevance) (notified under document number C(2003) 764)](https://www.legislation.gov.uk/eud/2003/181)
 
-[^key-7d3da81a175ff070cae6a7ad35608ef4]: Textual amendment: Words in [Art. 2](https://www.legislation.gov.uk/eudn/2002/657/article/2) inserted (31.12.2020) by [The Veterinary Medicines and Residues (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1461)](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/b), [6(3)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/6/3)
+[^c-7d3da81a175ff070cae6a7ad35608ef4]: Textual amendment: Words in [Art. 2](https://www.legislation.gov.uk/eudn/2002/657/article/2) inserted (31.12.2020) by [The Veterinary Medicines and Residues (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1461)](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/b), [6(3)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/6/3)
 
-[^key-68e309aea4c05aa9d170db34dd652a2c]: Textual amendment: Word in [Art. 2](https://www.legislation.gov.uk/eudn/2002/657/article/2) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 62(2)(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/62/2/b)
+[^c-68e309aea4c05aa9d170db34dd652a2c]: Textual amendment: Word in [Art. 2](https://www.legislation.gov.uk/eudn/2002/657/article/2) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 62(2)(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/62/2/b)
 
-[^key-25b3eaee39fd3b0b42c07ff7c44ea0c0]: Textual amendment: Words in [Art. 3](https://www.legislation.gov.uk/eudn/2002/657/article/3) substituted (31.12.2020) by [The Veterinary Medicines and Residues (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1461)](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/b), [6(4)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/6/4/a)
+[^c-25b3eaee39fd3b0b42c07ff7c44ea0c0]: Textual amendment: Words in [Art. 3](https://www.legislation.gov.uk/eudn/2002/657/article/3) substituted (31.12.2020) by [The Veterinary Medicines and Residues (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1461)](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/b), [6(4)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/6/4/a)
 
-[^key-e390eefd2307b5c5c633ac4c39df89df]: Textual amendment: Words in [Art. 3](https://www.legislation.gov.uk/eudn/2002/657/article/3) substituted (31.12.2020) by [The Veterinary Medicines and Residues (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1461)](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/b), [6(4)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/6/4/b)
+[^c-e390eefd2307b5c5c633ac4c39df89df]: Textual amendment: Words in [Art. 3](https://www.legislation.gov.uk/eudn/2002/657/article/3) substituted (31.12.2020) by [The Veterinary Medicines and Residues (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1461)](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/b), [6(4)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/6/4/b)
 
-[^key-1ab081af9de0bf59beefe5505d9534a5]: Textual amendment: Word in [Art. 3](https://www.legislation.gov.uk/eudn/2002/657/article/3) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 62(2)(c)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/62/2/c)
+[^c-1ab081af9de0bf59beefe5505d9534a5]: Textual amendment: Word in [Art. 3](https://www.legislation.gov.uk/eudn/2002/657/article/3) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 62(2)(c)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/62/2/c)
 
 [^M_F_3077b8da-24d6-4421-ee9d-46c299b0c767]: Textual amendment: Replaced by [2003/181/EC: Commission Decision of 13 March 2003 amending Decision 2002/657/EC as regards the setting of minimum required performance limits (MRPLs) for certain residues in food of animal origin (Text with EEA relevance) (notified under document number C(2003) 764)](https://www.legislation.gov.uk/eud/2003/181)
 
 [^M_F_c7b01b91-d576-4134-e80c-764f8667115c]: Textual amendment: Replaced by [2004/25/EC: Commission Decision of 22 December 2003 amending Decision 2002/657/EC as regards the setting of minimum required performance limits (MRPLs) for certain residues in food of animal origin (Text with EEA relevance) (notified under document number C(2003) 4961)](https://www.legislation.gov.uk/eud/2003/181)
 
-[^key-68aae32c40eecf8c1b9bd23ce1018047]: Textual amendment: Words in [Art. 4](https://www.legislation.gov.uk/eudn/2002/657/article/4) substituted (31.12.2020) by [The Veterinary Medicines and Residues (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1461)](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/b), [6(5)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/6/5)
+[^c-68aae32c40eecf8c1b9bd23ce1018047]: Textual amendment: Words in [Art. 4](https://www.legislation.gov.uk/eudn/2002/657/article/4) substituted (31.12.2020) by [The Veterinary Medicines and Residues (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1461)](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/b), [6(5)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/6/5)
 
-[^key-8eb285ba6b9e205fd29b9e5b56ad36a8]: Textual amendment: Words in [Art. 5](https://www.legislation.gov.uk/eudn/2002/657/article/5) substituted (31.12.2020) by [The Veterinary Medicines and Residues (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1461)](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/b), [6(6)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/6/6/a)
+[^c-8eb285ba6b9e205fd29b9e5b56ad36a8]: Textual amendment: Words in [Art. 5](https://www.legislation.gov.uk/eudn/2002/657/article/5) substituted (31.12.2020) by [The Veterinary Medicines and Residues (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1461)](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/b), [6(6)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/6/6/a)
 
-[^key-16edd5ef1f96572950e9fdacd944349b]: Textual amendment: Words in [Art. 5](https://www.legislation.gov.uk/eudn/2002/657/article/5) substituted (31.12.2020) by [The Veterinary Medicines and Residues (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1461)](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/b), [6(6)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/6/6/b)
+[^c-16edd5ef1f96572950e9fdacd944349b]: Textual amendment: Words in [Art. 5](https://www.legislation.gov.uk/eudn/2002/657/article/5) substituted (31.12.2020) by [The Veterinary Medicines and Residues (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1461)](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/b), [6(6)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/6/6/b)
 
-[^key-9003bae3aaac1270695d9d2b72d8ce3a]: Textual amendment: Word in [Art. 5](https://www.legislation.gov.uk/eudn/2002/657/article/5) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 62(2)(d)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/62/2/d)
+[^c-9003bae3aaac1270695d9d2b72d8ce3a]: Textual amendment: Word in [Art. 5](https://www.legislation.gov.uk/eudn/2002/657/article/5) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 62(2)(d)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/62/2/d)
 
-[^key-21a954e372f893ed0bf6d011aa7d5031]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/eudn/2002/657/article/7) omitted (31.12.2020) by virtue of [The Veterinary Medicines and Residues (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1461)](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/b), [6(7)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/6/7)
+[^c-21a954e372f893ed0bf6d011aa7d5031]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/eudn/2002/657/article/7) omitted (31.12.2020) by virtue of [The Veterinary Medicines and Residues (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1461)](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/b), [6(7)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/6/7)
 
-[^key-a76acebc44a1748ea46c1fdd85c0dba9]: Textual amendment: [Art. 10](https://www.legislation.gov.uk/eudn/2002/657/article/10) omitted (31.12.2020) by virtue of [The Veterinary Medicines and Residues (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1461)](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/b), [6(7)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/6/7)
+[^c-a76acebc44a1748ea46c1fdd85c0dba9]: Textual amendment: [Art. 10](https://www.legislation.gov.uk/eudn/2002/657/article/10) omitted (31.12.2020) by virtue of [The Veterinary Medicines and Residues (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1461)](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/b), [6(7)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/6/7)
 
 [^M_F_3e714447-0b18-46f0-c15c-abe4b40f918b]: Textual amendment: Replaced by virtue of [2003/181/EC: Commission Decision of 13 March 2003 amending Decision 2002/657/EC as regards the setting of minimum required performance limits (MRPLs) for certain residues in food of animal origin (Text with EEA relevance) (notified under document number C(2003) 764)](https://www.legislation.gov.uk/eud/2003/181)
 

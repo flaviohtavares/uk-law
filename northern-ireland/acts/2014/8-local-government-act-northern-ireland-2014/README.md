@@ -33,7 +33,7 @@ An Act to amend the law relating to local government.
 
 \[12th May 2014\]
 
-BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to by Her Majesty as follows:[^key-03c6c4d027e49d2276d429f0ba1db27f][^key-02817d3654c0d24ad6e0ec73e5e787e5]
+BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to by Her Majesty as follows:[^c-03c6c4d027e49d2276d429f0ba1db27f][^c-02817d3654c0d24ad6e0ec73e5e787e5]
 
 ## Contents
 
@@ -162,7 +162,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 - [Section 55 — Investigations](part-9/section-55.md)
 - [Section 56 — Investigations: further provisions](part-9/section-56.md)
 
-#### Adjudication hearings[^key-0fb9161accd395024f35e869cc2d7652]
+#### Adjudication hearings[^c-0fb9161accd395024f35e869cc2d7652]
 
 - [Section 56A — Adjudication hearings](part-9/section-56a.md)
 
@@ -222,7 +222,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 - [Section 82 — Powers to make supplemental provision](part-11/section-82.md)
 - [Section 83 — Limits on power conferred by section 82(1)](part-11/section-83.md)
 
-### PART 12 — PERFORMANCE IMPROVEMENT[^key-4b63129673665beb051ff289cbc91ad4][^key-5a5fe433fe9900c5972fa758456b7fff][^key-29ee7fa9be49d212ffc6a6c47f4d0cb4][^key-3a7306aa0937200b536dfb74f728e990]
+### PART 12 — PERFORMANCE IMPROVEMENT[^c-4b63129673665beb051ff289cbc91ad4][^c-5a5fe433fe9900c5972fa758456b7fff][^c-29ee7fa9be49d212ffc6a6c47f4d0cb4][^c-3a7306aa0937200b536dfb74f728e990]
 
 #### General duty
 
@@ -360,16 +360,16 @@ SCHEDULES
 
 ## Annotations
 
-[^key-03c6c4d027e49d2276d429f0ba1db27f]: Modification: Act modified (28.5.2014) by [The Local Government (Transitional, Supplementary, Incidental Provisions and Modifications) Regulations (Northern Ireland) 2014 (S.R. 2014/148)](https://www.legislation.gov.uk/nisr/2014/148), [reg.](https://www.legislation.gov.uk/nisr/2014/148/regulation) 6(4(a)
+[^c-03c6c4d027e49d2276d429f0ba1db27f]: Modification: Act modified (28.5.2014) by [The Local Government (Transitional, Supplementary, Incidental Provisions and Modifications) Regulations (Northern Ireland) 2014 (S.R. 2014/148)](https://www.legislation.gov.uk/nisr/2014/148), [reg.](https://www.legislation.gov.uk/nisr/2014/148/regulation) 6(4(a)
 
-[^key-02817d3654c0d24ad6e0ec73e5e787e5]: Modification: [Act](https://www.legislation.gov.uk/nia/2014/8): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/1) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-02817d3654c0d24ad6e0ec73e5e787e5]: Modification: [Act](https://www.legislation.gov.uk/nia/2014/8): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/1) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-0fb9161accd395024f35e869cc2d7652]: Textual amendment: S. 56A inserted (1.4.2016) by [Public Services Ombudsman Act (Northern Ireland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 7 para. 2](https://www.legislation.gov.uk/nia/2016/4/schedule/7/paragraph/2) (with [Sch. 2 para. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/2/paragraph/9))
+[^c-0fb9161accd395024f35e869cc2d7652]: Textual amendment: S. 56A inserted (1.4.2016) by [Public Services Ombudsman Act (Northern Ireland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 7 para. 2](https://www.legislation.gov.uk/nia/2016/4/schedule/7/paragraph/2) (with [Sch. 2 para. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/2/paragraph/9))
 
-[^key-4b63129673665beb051ff289cbc91ad4]: Modification: Pt. 12 (except ss. 85, 87, 90(1)(a), 92(2)(a)(ii)(4)(5)) applied (27.8.2021) by [Local Government (Meetings and Performance) Act (Northern Ireland) 2021 (c. 8)](https://www.legislation.gov.uk/nia/2021/8), [ss. 3(3)](https://www.legislation.gov.uk/nia/2021/8/section/3/3), [6(1)](https://www.legislation.gov.uk/nia/2021/8/section/6/1)
+[^c-4b63129673665beb051ff289cbc91ad4]: Modification: Pt. 12 (except ss. 85, 87, 90(1)(a), 92(2)(a)(ii)(4)(5)) applied (27.8.2021) by [Local Government (Meetings and Performance) Act (Northern Ireland) 2021 (c. 8)](https://www.legislation.gov.uk/nia/2021/8), [ss. 3(3)](https://www.legislation.gov.uk/nia/2021/8/section/3/3), [6(1)](https://www.legislation.gov.uk/nia/2021/8/section/6/1)
 
-[^key-5a5fe433fe9900c5972fa758456b7fff]: Modification: Pt. 12 applied (27.8.2021) by [Local Government (Meetings and Performance) Act (Northern Ireland) 2021 (c. 8)](https://www.legislation.gov.uk/nia/2021/8), [ss. 4(2)](https://www.legislation.gov.uk/nia/2021/8/section/4/2), [6(1)](https://www.legislation.gov.uk/nia/2021/8/section/6/1)
+[^c-5a5fe433fe9900c5972fa758456b7fff]: Modification: Pt. 12 applied (27.8.2021) by [Local Government (Meetings and Performance) Act (Northern Ireland) 2021 (c. 8)](https://www.legislation.gov.uk/nia/2021/8), [ss. 4(2)](https://www.legislation.gov.uk/nia/2021/8/section/4/2), [6(1)](https://www.legislation.gov.uk/nia/2021/8/section/6/1)
 
-[^key-29ee7fa9be49d212ffc6a6c47f4d0cb4]: Modification: Pt. 12: power to disapply conferred (27.8.2021) by [Local Government (Meetings and Performance) Act (Northern Ireland) 2021 (c. 8)](https://www.legislation.gov.uk/nia/2021/8), [ss. 4(1)](https://www.legislation.gov.uk/nia/2021/8/section/4/1), [6(1)](https://www.legislation.gov.uk/nia/2021/8/section/6/1)
+[^c-29ee7fa9be49d212ffc6a6c47f4d0cb4]: Modification: Pt. 12: power to disapply conferred (27.8.2021) by [Local Government (Meetings and Performance) Act (Northern Ireland) 2021 (c. 8)](https://www.legislation.gov.uk/nia/2021/8), [ss. 4(1)](https://www.legislation.gov.uk/nia/2021/8/section/4/1), [6(1)](https://www.legislation.gov.uk/nia/2021/8/section/6/1)
 
-[^key-3a7306aa0937200b536dfb74f728e990]: Modification: Pt. 12: power to modify conferred (27.8.2021) by [Local Government (Meetings and Performance) Act (Northern Ireland) 2021 (c. 8)](https://www.legislation.gov.uk/nia/2021/8), [ss. 4(1)](https://www.legislation.gov.uk/nia/2021/8/section/4/1), [6(1)](https://www.legislation.gov.uk/nia/2021/8/section/6/1)
+[^c-3a7306aa0937200b536dfb74f728e990]: Modification: Pt. 12: power to modify conferred (27.8.2021) by [Local Government (Meetings and Performance) Act (Northern Ireland) 2021 (c. 8)](https://www.legislation.gov.uk/nia/2021/8), [ss. 4(1)](https://www.legislation.gov.uk/nia/2021/8/section/4/1), [6(1)](https://www.legislation.gov.uk/nia/2021/8/section/6/1)

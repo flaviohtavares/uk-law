@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 32I. Notification of decision on Part 1A site licence[^key-a3c3d2dfd99d0abedb063324f4625a4f]
+## 32I. Notification of decision on Part 1A site licence[^c-a3c3d2dfd99d0abedb063324f4625a4f]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a3c3d2dfd99d0abedb063324f4625a4f]: Textual amendment: Ss. 32D-32I inserted (20.11.2014 for specified purposes, 1.5.2017 in so far as not already in force) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 65](https://www.legislation.gov.uk/asp/2014/14/section/65), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule); [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
+[^c-a3c3d2dfd99d0abedb063324f4625a4f]: Textual amendment: Ss. 32D-32I inserted (20.11.2014 for specified purposes, 1.5.2017 in so far as not already in force) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 65](https://www.legislation.gov.uk/asp/2014/14/section/65), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule); [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. False representations for obtaining benefit etc.[^c14897971][^key-25caa9eba9c02ffdd88eb8c706936e74]
+## 106. False representations for obtaining benefit etc.[^c14897971][^c-25caa9eba9c02ffdd88eb8c706936e74]
 
 *Extent: N.I.*
 
@@ -65,7 +65,7 @@ he shall be guilty of an offence.
 
 [^c14897971]: Modification: S. 106 restricted (5.10.1999) by [1999 c. 10](https://www.legislation.gov.uk/ukpga/1999/10), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/1999/10/section/2/3), [20(2)](https://www.legislation.gov.uk/ukpga/1999/10/section/20/2), [Sch. 2 Pt. IV para. 13](https://www.legislation.gov.uk/ukpga/1999/10/schedule/2/part/IV/paragraph/13)
 
-[^key-25caa9eba9c02ffdd88eb8c706936e74]: Modification: S. 106 applied (with modifications) (27.11.2006) by [The Healthy Start Scheme and Day Care Food Scheme Regulations (Northern Ireland) 2006 (S.R. 2006/478)](https://www.legislation.gov.uk/nisr/2006/478), [reg. 1](https://www.legislation.gov.uk/nisr/2006/478/regulation/1), [Sch. 5](https://www.legislation.gov.uk/nisr/2006/478/schedule/5)
+[^c-25caa9eba9c02ffdd88eb8c706936e74]: Modification: S. 106 applied (with modifications) (27.11.2006) by [The Healthy Start Scheme and Day Care Food Scheme Regulations (Northern Ireland) 2006 (S.R. 2006/478)](https://www.legislation.gov.uk/nisr/2006/478), [reg. 1](https://www.legislation.gov.uk/nisr/2006/478/regulation/1), [Sch. 5](https://www.legislation.gov.uk/nisr/2006/478/schedule/5)
 
 [^c14897981]: Textual amendment: Words in s. 106(1) inserted (2.4.2001) by [2000 c. 4](https://www.legislation.gov.uk/ukpga/2000/4), [s. 58](https://www.legislation.gov.uk/ukpga/2000/4/section/58), [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2000/4/schedule/6/paragraph/6) (with [s. 66(6)](https://www.legislation.gov.uk/ukpga/2000/4/section/66/6)); [S.R. 2001/141](https://www.legislation.gov.uk/nisr/2001/141), [art. 2(1)](https://www.legislation.gov.uk/nisr/2001/141/article/2/1), [Sch. Pt. I](https://www.legislation.gov.uk/nisr/2001/141/schedule/part/I)
 

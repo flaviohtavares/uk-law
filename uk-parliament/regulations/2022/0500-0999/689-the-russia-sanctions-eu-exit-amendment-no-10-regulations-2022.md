@@ -34,7 +34,7 @@ Regulations made by the Secretary of State, laid before Parliament under section
 
 Sanctions
 
-The Russia (Sanctions) (EU Exit) (Amendment) (No. 10) Regulations 2022 (revoked)[^key-ba10267f4f7ac44b673ff1f7b44cd761]
+The Russia (Sanctions) (EU Exit) (Amendment) (No. 10) Regulations 2022 (revoked)[^c-ba10267f4f7ac44b673ff1f7b44cd761]
 
 Made
 
@@ -48,187 +48,187 @@ Coming into force
 
 23rd June 2022
 
-[^key-ba10267f4f7ac44b673ff1f7b44cd761]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ba10267f4f7ac44b673ff1f7b44cd761]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-ba10267f4f7ac44b673ff1f7b44cd761]
+## 1. Citation and commencement[^c-ba10267f4f7ac44b673ff1f7b44cd761]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Russia (Sanctions) (EU Exit) Regulations 2019[^key-ba10267f4f7ac44b673ff1f7b44cd761]
+## 2. Amendment of the Russia (Sanctions) (EU Exit) Regulations 2019[^c-ba10267f4f7ac44b673ff1f7b44cd761]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Interpretation of Part 5[^key-ba10267f4f7ac44b673ff1f7b44cd761]
+## 3. Interpretation of Part 5[^c-ba10267f4f7ac44b673ff1f7b44cd761]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Definition of “interception and monitoring services”[^key-ba10267f4f7ac44b673ff1f7b44cd761]
+## 4. Definition of “interception and monitoring services”[^c-ba10267f4f7ac44b673ff1f7b44cd761]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Maritime goods and maritime technology[^key-ba10267f4f7ac44b673ff1f7b44cd761]
+## 5. Maritime goods and maritime technology[^c-ba10267f4f7ac44b673ff1f7b44cd761]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Goods and technology relating to non-government controlled Ukrainian territory[^key-ba10267f4f7ac44b673ff1f7b44cd761]
+## 6. Goods and technology relating to non-government controlled Ukrainian territory[^c-ba10267f4f7ac44b673ff1f7b44cd761]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Iron and steel products[^key-ba10267f4f7ac44b673ff1f7b44cd761]
+## 7. Iron and steel products[^c-ba10267f4f7ac44b673ff1f7b44cd761]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Further prohibitions relating to certain goods and services[^key-ba10267f4f7ac44b673ff1f7b44cd761]
+## 8. Further prohibitions relating to certain goods and services[^c-ba10267f4f7ac44b673ff1f7b44cd761]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Application of prohibitions in Chapter 2 of Part 5[^key-ba10267f4f7ac44b673ff1f7b44cd761]
+## 9. Application of prohibitions in Chapter 2 of Part 5[^c-ba10267f4f7ac44b673ff1f7b44cd761]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Exceptions[^key-ba10267f4f7ac44b673ff1f7b44cd761]
+## 10. Exceptions[^c-ba10267f4f7ac44b673ff1f7b44cd761]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Trade offences in CEMA: modification of penalty[^key-ba10267f4f7ac44b673ff1f7b44cd761]
+## 11. Trade offences in CEMA: modification of penalty[^c-ba10267f4f7ac44b673ff1f7b44cd761]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Amendment and insertion of Schedules[^key-ba10267f4f7ac44b673ff1f7b44cd761]
+## 12. Amendment and insertion of Schedules[^c-ba10267f4f7ac44b673ff1f7b44cd761]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ba10267f4f7ac44b673ff1f7b44cd761]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ba10267f4f7ac44b673ff1f7b44cd761]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Insertion of Parts 1A and 1B into Schedule 2A[^key-ba10267f4f7ac44b673ff1f7b44cd761]
+## SCHEDULE 1 — Insertion of Parts 1A and 1B into Schedule 2A[^c-ba10267f4f7ac44b673ff1f7b44cd761]
 
 Regulation 12(3)
 
-> **PART 1A — Special materials and related equipment[^key-ba10267f4f7ac44b673ff1f7b44cd761]**
+> **PART 1A — Special materials and related equipment[^c-ba10267f4f7ac44b673ff1f7b44cd761]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **PART 1B — MATERIALS PROCESSING[^key-ba10267f4f7ac44b673ff1f7b44cd761]**
+> **PART 1B — MATERIALS PROCESSING[^c-ba10267f4f7ac44b673ff1f7b44cd761]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Insertion into Part 8 of Schedule 2A[^key-ba10267f4f7ac44b673ff1f7b44cd761]
+## SCHEDULE 2 — Insertion into Part 8 of Schedule 2A[^c-ba10267f4f7ac44b673ff1f7b44cd761]
 
 Regulation 12(5)
 
-> **Jet fuel and fuel additives[^key-ba10267f4f7ac44b673ff1f7b44cd761]**
+> **Jet fuel and fuel additives[^c-ba10267f4f7ac44b673ff1f7b44cd761]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — Insertion of Schedules 3C and 3D[^key-ba10267f4f7ac44b673ff1f7b44cd761]
+## SCHEDULE 3 — Insertion of Schedules 3C and 3D[^c-ba10267f4f7ac44b673ff1f7b44cd761]
 
 Regulation 12(8)
 
-> **SCHEDULE 3C — DEFENCE AND SECURITY GOODS AND DEFENCE AND SECURITY TECHNOLOGY[^key-ba10267f4f7ac44b673ff1f7b44cd761]**
+> **SCHEDULE 3C — DEFENCE AND SECURITY GOODS AND DEFENCE AND SECURITY TECHNOLOGY[^c-ba10267f4f7ac44b673ff1f7b44cd761]**
 >
 > Regulation 21
 >
-> **PART 1 — PRELIMINARY[^key-ba10267f4f7ac44b673ff1f7b44cd761]**
+> **PART 1 — PRELIMINARY[^c-ba10267f4f7ac44b673ff1f7b44cd761]**
 >
-> **1. Application to non-government controlled Ukrainian territory[^key-ba10267f4f7ac44b673ff1f7b44cd761]**
->
-> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **2. CAS numbers[^key-ba10267f4f7ac44b673ff1f7b44cd761]**
+> **1. Application to non-government controlled Ukrainian territory[^c-ba10267f4f7ac44b673ff1f7b44cd761]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **PART 2 — Interception and monitoring goods and interception and monitoring technology[^key-ba10267f4f7ac44b673ff1f7b44cd761]**
->
-> **1. Interception and monitoring equipment[^key-ba10267f4f7ac44b673ff1f7b44cd761]**
+> **2. CAS numbers[^c-ba10267f4f7ac44b673ff1f7b44cd761]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **2.**[^key-ba10267f4f7ac44b673ff1f7b44cd761] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **PART 2 — Interception and monitoring goods and interception and monitoring technology[^c-ba10267f4f7ac44b673ff1f7b44cd761]**
 >
-> **3. Other software and other technology[^key-ba10267f4f7ac44b673ff1f7b44cd761]**
->
-> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **4. Interpretation[^key-ba10267f4f7ac44b673ff1f7b44cd761]**
+> **1. Interception and monitoring equipment[^c-ba10267f4f7ac44b673ff1f7b44cd761]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **PART 3 — Internal repression goods and internal repression technology[^key-ba10267f4f7ac44b673ff1f7b44cd761]**
+> **2.**[^c-ba10267f4f7ac44b673ff1f7b44cd761] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **1. Firearms and related goods[^key-ba10267f4f7ac44b673ff1f7b44cd761]**
->
-> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **2.**[^key-ba10267f4f7ac44b673ff1f7b44cd761] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **3.**[^key-ba10267f4f7ac44b673ff1f7b44cd761] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **4. Vehicles[^key-ba10267f4f7ac44b673ff1f7b44cd761]**
+> **3. Other software and other technology[^c-ba10267f4f7ac44b673ff1f7b44cd761]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **5. Explosive substances and related goods[^key-ba10267f4f7ac44b673ff1f7b44cd761]**
+> **4. Interpretation[^c-ba10267f4f7ac44b673ff1f7b44cd761]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **6. Other goods[^key-ba10267f4f7ac44b673ff1f7b44cd761]**
+> **PART 3 — Internal repression goods and internal repression technology[^c-ba10267f4f7ac44b673ff1f7b44cd761]**
+>
+> **1. Firearms and related goods[^c-ba10267f4f7ac44b673ff1f7b44cd761]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **7.**[^key-ba10267f4f7ac44b673ff1f7b44cd761] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **2.**[^c-ba10267f4f7ac44b673ff1f7b44cd761] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **8.**[^key-ba10267f4f7ac44b673ff1f7b44cd761] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **3.**[^c-ba10267f4f7ac44b673ff1f7b44cd761] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **9.**[^key-ba10267f4f7ac44b673ff1f7b44cd761] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **10.**[^key-ba10267f4f7ac44b673ff1f7b44cd761] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **11.**[^key-ba10267f4f7ac44b673ff1f7b44cd761] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **12.**[^key-ba10267f4f7ac44b673ff1f7b44cd761] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **13.**[^key-ba10267f4f7ac44b673ff1f7b44cd761] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **14.**[^key-ba10267f4f7ac44b673ff1f7b44cd761] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **15.**[^key-ba10267f4f7ac44b673ff1f7b44cd761] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **16.**[^key-ba10267f4f7ac44b673ff1f7b44cd761] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **17. Production equipment[^key-ba10267f4f7ac44b673ff1f7b44cd761]**
+> **4. Vehicles[^c-ba10267f4f7ac44b673ff1f7b44cd761]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **18. Software and technology[^key-ba10267f4f7ac44b673ff1f7b44cd761]**
+> **5. Explosive substances and related goods[^c-ba10267f4f7ac44b673ff1f7b44cd761]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **19.**[^key-ba10267f4f7ac44b673ff1f7b44cd761] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **20. Interpretation[^key-ba10267f4f7ac44b673ff1f7b44cd761]**
+> **6. Other goods[^c-ba10267f4f7ac44b673ff1f7b44cd761]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **PART 4 — Chemicals and equipment[^key-ba10267f4f7ac44b673ff1f7b44cd761]**
+> **7.**[^c-ba10267f4f7ac44b673ff1f7b44cd761] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **8.**[^c-ba10267f4f7ac44b673ff1f7b44cd761] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **9.**[^c-ba10267f4f7ac44b673ff1f7b44cd761] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **10.**[^c-ba10267f4f7ac44b673ff1f7b44cd761] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **11.**[^c-ba10267f4f7ac44b673ff1f7b44cd761] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **12.**[^c-ba10267f4f7ac44b673ff1f7b44cd761] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **13.**[^c-ba10267f4f7ac44b673ff1f7b44cd761] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **14.**[^c-ba10267f4f7ac44b673ff1f7b44cd761] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **15.**[^c-ba10267f4f7ac44b673ff1f7b44cd761] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **16.**[^c-ba10267f4f7ac44b673ff1f7b44cd761] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **17. Production equipment[^c-ba10267f4f7ac44b673ff1f7b44cd761]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **SCHEDULE 3D — Revenue generating goods[^key-ba10267f4f7ac44b673ff1f7b44cd761]**
+> **18. Software and technology[^c-ba10267f4f7ac44b673ff1f7b44cd761]**
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **19.**[^c-ba10267f4f7ac44b673ff1f7b44cd761] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **20. Interpretation[^c-ba10267f4f7ac44b673ff1f7b44cd761]**
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **PART 4 — Chemicals and equipment[^c-ba10267f4f7ac44b673ff1f7b44cd761]**
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **SCHEDULE 3D — Revenue generating goods[^c-ba10267f4f7ac44b673ff1f7b44cd761]**
 >
 > Regulation 46S
 >
-> **1.**[^key-ba10267f4f7ac44b673ff1f7b44cd761] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **1.**[^c-ba10267f4f7ac44b673ff1f7b44cd761] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **2.**[^key-ba10267f4f7ac44b673ff1f7b44cd761] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **2.**[^c-ba10267f4f7ac44b673ff1f7b44cd761] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-ba10267f4f7ac44b673ff1f7b44cd761]EXPLANATORY NOTE
+[^c-ba10267f4f7ac44b673ff1f7b44cd761]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -259,4 +259,4 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 ## Annotations
 
-[^key-ba10267f4f7ac44b673ff1f7b44cd761]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2022/689) revoked (15.7.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 11) Regulations 2022 (S.I. 2022/792)](https://www.legislation.gov.uk/uksi/2022/792), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/792/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2022/792/regulation/13)
+[^c-ba10267f4f7ac44b673ff1f7b44cd761]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2022/689) revoked (15.7.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 11) Regulations 2022 (S.I. 2022/792)](https://www.legislation.gov.uk/uksi/2022/792), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/792/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2022/792/regulation/13)

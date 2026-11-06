@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Traffic regulation[^key-820719c13e9e89c64e93990c0344bd10]
+## 17. Traffic regulation[^c-820719c13e9e89c64e93990c0344bd10]
 
 *Extent: E+W*
 
@@ -54,6 +54,6 @@ either at all times or at times, on days or during such periods as may be specif
 
 ## Annotations
 
-[^key-820719c13e9e89c64e93990c0344bd10]: Commencement: Art. 17 in force at 1.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/509/article/1/2)
+[^c-820719c13e9e89c64e93990c0344bd10]: Commencement: Art. 17 in force at 1.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/509/article/1/2)
 
 [^f00029]: Footnote: [2004 c. 18](https://www.legislation.gov.uk/ukpga/2004/18).

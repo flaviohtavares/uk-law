@@ -22,7 +22,7 @@ summary: ''
 
 (1) The [^c10222281]Statutory Instruments Act 1946 shall apply to a statutory instrument containing regulations made by the Council under this Act in like manner as if the regulations had been made by a Minister of the Crown.
 
-(1A)[^key-7b5573cc89b6c20946b81e76853c144d] Any power to make regulations under this Act may be exercised—
+(1A)[^c-7b5573cc89b6c20946b81e76853c144d] Any power to make regulations under this Act may be exercised—
 
 - (a) so as to make different provision with respect to different cases or different classes of case or different provision in respect of the same case or class of case for different purposes of this Act; and
 - (b) either in relation to all cases to which the power extends or in relation to all those cases subject to specified exceptions.
@@ -37,4 +37,4 @@ summary: ''
 
 [^c10222281]: Marginal citation: [1946 c. 36](https://www.legislation.gov.uk/ukpga/1946/36).
 
-[^key-7b5573cc89b6c20946b81e76853c144d]: Textual amendment: [S. 52(1A)](https://www.legislation.gov.uk/ukpga/1984/24/section/52/1A)[(1B)](https://www.legislation.gov.uk/ukpga/1984/24/section/52/1B) inserted (19.7.2005) by [The Dentists Act 1984 (Amendment) Order 2005 (S.I. 2005/2011)](https://www.legislation.gov.uk/uksi/2005/2011), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/3), [45](https://www.legislation.gov.uk/uksi/2005/2011/article/45) (with [Sch. 7](https://www.legislation.gov.uk/uksi/2005/2011/schedule/7)) (with transitional provisions in [S.I. 2006/1671](https://www.legislation.gov.uk/uksi/2006/1671))
+[^c-7b5573cc89b6c20946b81e76853c144d]: Textual amendment: [S. 52(1A)](https://www.legislation.gov.uk/ukpga/1984/24/section/52/1A)[(1B)](https://www.legislation.gov.uk/ukpga/1984/24/section/52/1B) inserted (19.7.2005) by [The Dentists Act 1984 (Amendment) Order 2005 (S.I. 2005/2011)](https://www.legislation.gov.uk/uksi/2005/2011), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/3), [45](https://www.legislation.gov.uk/uksi/2005/2011/article/45) (with [Sch. 7](https://www.legislation.gov.uk/uksi/2005/2011/schedule/7)) (with transitional provisions in [S.I. 2006/1671](https://www.legislation.gov.uk/uksi/2006/1671))

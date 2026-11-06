@@ -35,22 +35,22 @@ concerning the conclusion of an Agreement between the European Community and the
 
 (97/361/EC) (revoked)
 
-[^key-9ffffc1a83a99ad65d9d2fc1ec4f6e5b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9ffffc1a83a99ad65d9d2fc1ec4f6e5b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-9ffffc1a83a99ad65d9d2fc1ec4f6e5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-9ffffc1a83a99ad65d9d2fc1ec4f6e5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-9ffffc1a83a99ad65d9d2fc1ec4f6e5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-9ffffc1a83a99ad65d9d2fc1ec4f6e5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-9ffffc1a83a99ad65d9d2fc1ec4f6e5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-9ffffc1a83a99ad65d9d2fc1ec4f6e5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-9ffffc1a83a99ad65d9d2fc1ec4f6e5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-9ffffc1a83a99ad65d9d2fc1ec4f6e5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-9ffffc1a83a99ad65d9d2fc1ec4f6e5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-9ffffc1a83a99ad65d9d2fc1ec4f6e5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-9ffffc1a83a99ad65d9d2fc1ec4f6e5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-9ffffc1a83a99ad65d9d2fc1ec4f6e5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9ffffc1a83a99ad65d9d2fc1ec4f6e5b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9ffffc1a83a99ad65d9d2fc1ec4f6e5b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9ffffc1a83a99ad65d9d2fc1ec4f6e5b]: Textual amendment: Decision revoked (31.12.2020) by [The Food and Drink, Veterinary Medicines and Residues (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/865)](https://www.legislation.gov.uk/uksi/2019/865), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/865/regulation/1/2), [Sch. 7 para. 2](https://www.legislation.gov.uk/uksi/2019/865/schedule/7/paragraph/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9ffffc1a83a99ad65d9d2fc1ec4f6e5b]: Textual amendment: Decision revoked (31.12.2020) by [The Food and Drink, Veterinary Medicines and Residues (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/865)](https://www.legislation.gov.uk/uksi/2019/865), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/865/regulation/1/2), [Sch. 7 para. 2](https://www.legislation.gov.uk/uksi/2019/865/schedule/7/paragraph/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

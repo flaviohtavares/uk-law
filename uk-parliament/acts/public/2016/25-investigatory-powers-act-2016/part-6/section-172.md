@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 172. Safeguards relating to examination of data[^key-334bd817461924550cbf8da7067e3879]
+## 172. Safeguards relating to examination of data[^c-334bd817461924550cbf8da7067e3879]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-334bd817461924550cbf8da7067e3879]: Commencement: [S. 172](https://www.legislation.gov.uk/ukpga/2016/25/section/172) in force at 25.7.2018 by [S.I. 2018/873](https://www.legislation.gov.uk/uksi/2018/873), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2018/873/regulation/2/g) (with [reg. 7](https://www.legislation.gov.uk/uksi/2018/873/regulation/7))
+[^c-334bd817461924550cbf8da7067e3879]: Commencement: [S. 172](https://www.legislation.gov.uk/ukpga/2016/25/section/172) in force at 25.7.2018 by [S.I. 2018/873](https://www.legislation.gov.uk/uksi/2018/873), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2018/873/regulation/2/g) (with [reg. 7](https://www.legislation.gov.uk/uksi/2018/873/regulation/7))

@@ -28,7 +28,7 @@ summary: ''
 - (d) former care home providers in Wales;
 - (e) former domiciliary care providers in Wales;
 - (f) former independent palliative care providers in Wales;
-- (g)[^key-d8b71c276a930addac7b925c4fa4f544] former direct payment service providers.
+- (g)[^c-d8b71c276a930addac7b925c4fa4f544] former direct payment service providers.
 
 (2) “**Former family health service provider in Wales**” means a person who—
 
@@ -65,7 +65,7 @@ summary: ''
 - (a) at the relevant time, provided a palliative care service of a particular description in Wales, and
 - (b) subsequently ceased to do so (whether or not the person has later started to do so again).
 
-(7A)[^key-974a50964da4f4ab80eae0fc351412bf] “**Former direct payment service provider**” means a person who—
+(7A)[^c-974a50964da4f4ab80eae0fc351412bf] “**Former direct payment service provider**” means a person who—
 
 - (a) at the relevant time, provided direct payment services of a particular description, and
 - (b) subsequently ceased to do so (whether or not the person has later started to do so again).
@@ -76,6 +76,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d8b71c276a930addac7b925c4fa4f544]: Textual amendment: [S. 79(1)(g)](https://www.legislation.gov.uk/anaw/2019/3/section/79/1/g) inserted (1.1.2026) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2), [Sch. 2 para. 6(9)(a)](https://www.legislation.gov.uk/asc/2025/1/schedule/2/paragraph/6/9/a); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 4(b)](https://www.legislation.gov.uk/wsi/2025/1257/article/4/b)
+[^c-d8b71c276a930addac7b925c4fa4f544]: Textual amendment: [S. 79(1)(g)](https://www.legislation.gov.uk/anaw/2019/3/section/79/1/g) inserted (1.1.2026) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2), [Sch. 2 para. 6(9)(a)](https://www.legislation.gov.uk/asc/2025/1/schedule/2/paragraph/6/9/a); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 4(b)](https://www.legislation.gov.uk/wsi/2025/1257/article/4/b)
 
-[^key-974a50964da4f4ab80eae0fc351412bf]: Textual amendment: [S. 79(7A)](https://www.legislation.gov.uk/anaw/2019/3/section/79/7A) inserted (1.1.2026) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2), [Sch. 2 para. 6(9)(b)](https://www.legislation.gov.uk/asc/2025/1/schedule/2/paragraph/6/9/b); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 4(b)](https://www.legislation.gov.uk/wsi/2025/1257/article/4/b)
+[^c-974a50964da4f4ab80eae0fc351412bf]: Textual amendment: [S. 79(7A)](https://www.legislation.gov.uk/anaw/2019/3/section/79/7A) inserted (1.1.2026) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2), [Sch. 2 para. 6(9)(b)](https://www.legislation.gov.uk/asc/2025/1/schedule/2/paragraph/6/9/b); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 4(b)](https://www.legislation.gov.uk/wsi/2025/1257/article/4/b)

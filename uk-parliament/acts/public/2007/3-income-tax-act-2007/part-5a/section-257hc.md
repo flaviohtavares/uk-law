@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 257HC. Carry over of obligations etc where SEIS relief attributed to new shares[^key-86ceadf9ebe4ce15f761ac0cdcdbfb33]
+## 257HC. Carry over of obligations etc where SEIS relief attributed to new shares[^c-86ceadf9ebe4ce15f761ac0cdcdbfb33]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ has been done, or is required to be done, by or in relation to the old company h
 
 ## Annotations
 
-[^key-86ceadf9ebe4ce15f761ac0cdcdbfb33]: Textual amendment: Pt. 5A inserted (17.7.2012) (with effect in accordance with Sch. 6 para. 24(1) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/6/paragraph/1)
+[^c-86ceadf9ebe4ce15f761ac0cdcdbfb33]: Textual amendment: Pt. 5A inserted (17.7.2012) (with effect in accordance with Sch. 6 para. 24(1) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/6/paragraph/1)

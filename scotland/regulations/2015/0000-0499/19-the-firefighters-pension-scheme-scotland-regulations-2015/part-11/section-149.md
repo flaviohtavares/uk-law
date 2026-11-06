@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 149. Reconsideration by the board[^key-1f06329cc22fe1618ea23a004ae15b06]
+## 149. Reconsideration by the board[^c-1f06329cc22fe1618ea23a004ae15b06]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ invite the board to reconsider its decision.
 
 ## Annotations
 
-[^key-1f06329cc22fe1618ea23a004ae15b06]: Commencement: [Reg. 149](https://www.legislation.gov.uk/ssi/2015/19/regulation/149) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-1f06329cc22fe1618ea23a004ae15b06]: Commencement: [Reg. 149](https://www.legislation.gov.uk/ssi/2015/19/regulation/149) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

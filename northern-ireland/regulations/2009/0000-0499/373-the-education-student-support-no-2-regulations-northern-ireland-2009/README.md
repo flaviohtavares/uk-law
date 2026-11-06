@@ -375,7 +375,7 @@ The Department for Employment and Learning[^f00001] makes the following Regulati
 - [Section 147 — Payment of grant](part-12/section-147.md)
 - [Section 148 — Overpayments](part-12/section-148.md)
 
-### PART 13 — MASTER’S, ETC. FEE LOAN[^key-b18dabf49e521af0022cc55757f7307f]
+### PART 13 — MASTER’S, ETC. FEE LOAN[^c-b18dabf49e521af0022cc55757f7307f]
 
 - [Section 149 — Eligible Master’s, etc. Students](part-13/section-149.md)
 - [Section 150 — Students becoming eligible during the course of an academic year](part-13/section-150.md)
@@ -440,4 +440,4 @@ An impact assessment has not been produced for this instrument as it has no impa
 
 [^f00003]: Footnote: [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481) *see* Article 5(b) and Schedule 3 Part II
 
-[^key-b18dabf49e521af0022cc55757f7307f]: Textual amendment: [Pt. 13](https://www.legislation.gov.uk/nisr/2009/373/regulation/149) inserted (with application in accordance with reg. 1(2) of the amending Rule) by [The Education (Student Support) (No.2) (Amendment) and Education (Student Loan) (Repayment) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/7)](https://www.legislation.gov.uk/nisr/2017/7), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/7/regulation/1/1), [43](https://www.legislation.gov.uk/nisr/2017/7/regulation/43), [Sch. 1](https://www.legislation.gov.uk/nisr/2017/7/schedule/1)
+[^c-b18dabf49e521af0022cc55757f7307f]: Textual amendment: [Pt. 13](https://www.legislation.gov.uk/nisr/2009/373/regulation/149) inserted (with application in accordance with reg. 1(2) of the amending Rule) by [The Education (Student Support) (No.2) (Amendment) and Education (Student Loan) (Repayment) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/7)](https://www.legislation.gov.uk/nisr/2017/7), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/7/regulation/1/1), [43](https://www.legislation.gov.uk/nisr/2017/7/regulation/43), [Sch. 1](https://www.legislation.gov.uk/nisr/2017/7/schedule/1)

@@ -33,11 +33,11 @@ summary: ''
 
 (3) The operator of an aircraft to which this article applies must not cause or permit any person to fly in the aircraft as a member of its flight crew unless the operator possesses an accurate and up-to-date record for that person and for the 28 days immediately preceding the flight showing—
 
-- (a) all flight times, duty periods and rest periods[^key-2d70834ab4ed9ce1e5b26e2ca3e68dc8]; and
+- (a) all flight times, duty periods and rest periods[^c-2d70834ab4ed9ce1e5b26e2ca3e68dc8]; and
 - (b) brief details of the nature of the functions performed in the course of those flight times.
 
 (4) Subject to article 238, the record referred to in paragraph (3) must be preserved by the operator of the aircraft for at least 12 months after the flight referred to in that paragraph.
 
 ## Annotations
 
-[^key-2d70834ab4ed9ce1e5b26e2ca3e68dc8]: Textual amendment: Words in [art. 175(3)(a)](https://www.legislation.gov.uk/uksi/2016/765/article/175/3/a) inserted (14.12.2017) by [The Air Navigation (Amendment) Order 2017 (S.I. 2017/1112)](https://www.legislation.gov.uk/uksi/2017/1112), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1), [33](https://www.legislation.gov.uk/uksi/2017/1112/article/33)
+[^c-2d70834ab4ed9ce1e5b26e2ca3e68dc8]: Textual amendment: Words in [art. 175(3)(a)](https://www.legislation.gov.uk/uksi/2016/765/article/175/3/a) inserted (14.12.2017) by [The Air Navigation (Amendment) Order 2017 (S.I. 2017/1112)](https://www.legislation.gov.uk/uksi/2017/1112), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1), [33](https://www.legislation.gov.uk/uksi/2017/1112/article/33)

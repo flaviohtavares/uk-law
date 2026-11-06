@@ -26,11 +26,11 @@ summary: ''
 
 (3) In this section—
 
-- “**design**” means the design of [^key-5fe5e5f3bd2aa59d9ea00af684fd440d]...the shape or configuration (whether internal or external) of the whole or part of an article, other than surface decoration; and
+- “**design**” means the design of [^c-5fe5e5f3bd2aa59d9ea00af684fd440d]...the shape or configuration (whether internal or external) of the whole or part of an article, other than surface decoration; and
 - “**design document**” means any record of a design, whether in the form of a drawing, a written description, a photograph, data stored in a computer or otherwise.
 
 ## Annotations
 
 [^c19322111]: Textual amendment: Words in s. 51(2) substituted (31.10.2003) by [The Copyright and Related Rights Regulations 2003 (S.I. 2003/2498)](https://www.legislation.gov.uk/uksi/2003/2498), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2003/2498/regulation/2/1), [Sch. 1 para. 8(3)](https://www.legislation.gov.uk/uksi/2003/2498/schedule/1/paragraph/8/3) (with [regs. 31-40](https://www.legislation.gov.uk/uksi/2003/2498/regulation/31))
 
-[^key-5fe5e5f3bd2aa59d9ea00af684fd440d]: Textual amendment: Words in s. 51(3) omitted (1.10.2014) by virtue of [Intellectual Property Act 2014 (c. 18)](https://www.legislation.gov.uk/ukpga/2014/18), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2014/18/section/1/2), [24(1)](https://www.legislation.gov.uk/ukpga/2014/18/section/24/1); [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule)
+[^c-5fe5e5f3bd2aa59d9ea00af684fd440d]: Textual amendment: Words in s. 51(3) omitted (1.10.2014) by virtue of [Intellectual Property Act 2014 (c. 18)](https://www.legislation.gov.uk/ukpga/2014/18), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2014/18/section/1/2), [24(1)](https://www.legislation.gov.uk/ukpga/2014/18/section/24/1); [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule)

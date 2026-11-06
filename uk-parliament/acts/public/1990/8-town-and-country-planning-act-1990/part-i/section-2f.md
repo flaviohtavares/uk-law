@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2F. Representation hearings[^key-70b74d43e4dcc18b57c55d8ff1afccd3][^key-8f86eed30192f7fcde3176395a120da9][^c19468381]
+## 2F. Representation hearings[^c-70b74d43e4dcc18b57c55d8ff1afccd3][^c-8f86eed30192f7fcde3176395a120da9][^c19468381]
 
 *Extent: E+W*
 
@@ -49,8 +49,8 @@ an opportunity to make oral representations at a hearing (“**a representation 
 
 ## Annotations
 
-[^key-70b74d43e4dcc18b57c55d8ff1afccd3]: Modification: S. 2F applied (8.5.2017) by [The Liverpool City Region Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/430)](https://www.legislation.gov.uk/uksi/2017/430), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2017/430/article/1/3), [5(2)](https://www.legislation.gov.uk/uksi/2017/430/article/5/2)
+[^c-70b74d43e4dcc18b57c55d8ff1afccd3]: Modification: S. 2F applied (8.5.2017) by [The Liverpool City Region Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/430)](https://www.legislation.gov.uk/uksi/2017/430), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2017/430/article/1/3), [5(2)](https://www.legislation.gov.uk/uksi/2017/430/article/5/2)
 
-[^key-8f86eed30192f7fcde3176395a120da9]: Modification: S. 2F applied (8.5.2018) by [The West of England Combined Authority Order 2017 (S.I. 2017/126)](https://www.legislation.gov.uk/uksi/2017/126), [arts. 1(5)](https://www.legislation.gov.uk/uksi/2017/126/article/1/5), [12(2)](https://www.legislation.gov.uk/uksi/2017/126/article/12/2)
+[^c-8f86eed30192f7fcde3176395a120da9]: Modification: S. 2F applied (8.5.2018) by [The West of England Combined Authority Order 2017 (S.I. 2017/126)](https://www.legislation.gov.uk/uksi/2017/126), [arts. 1(5)](https://www.legislation.gov.uk/uksi/2017/126/article/1/5), [12(2)](https://www.legislation.gov.uk/uksi/2017/126/article/12/2)
 
 [^c19468381]: Textual amendment: S. 2F inserted (6.4.2008) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 35](https://www.legislation.gov.uk/ukpga/2007/24/section/35), [59](https://www.legislation.gov.uk/ukpga/2007/24/section/59); [S.I. 2008/582](https://www.legislation.gov.uk/uksi/2008/582), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/582/article/2/a)

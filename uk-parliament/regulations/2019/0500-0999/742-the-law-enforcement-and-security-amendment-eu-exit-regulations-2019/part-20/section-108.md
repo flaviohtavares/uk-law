@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 108. Amendment of the Serious Organised Crime and Police Act 2005[^key-49aadefc74a198852be6d63e05005e76]
+## 108. Amendment of the Serious Organised Crime and Police Act 2005[^c-49aadefc74a198852be6d63e05005e76]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-49aadefc74a198852be6d63e05005e76]: Commencement: Reg. 108 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-49aadefc74a198852be6d63e05005e76]: Commencement: Reg. 108 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23692131]: Marginal citation: [2005 c. 15](https://www.legislation.gov.uk/ukpga/2005/15).

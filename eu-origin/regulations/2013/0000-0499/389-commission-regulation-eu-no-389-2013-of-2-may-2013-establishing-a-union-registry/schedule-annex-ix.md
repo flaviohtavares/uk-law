@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## ANNEX IX — Formats for submitting annual emissions data (Article 35)[^key-386e32276fff30c2f91a8c6e95689b6c]
+## ANNEX IX — Formats for submitting annual emissions data (Article 35)[^c-386e32276fff30c2f91a8c6e95689b6c]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-[^key-386e32276fff30c2f91a8c6e95689b6c]1.
+[^c-386e32276fff30c2f91a8c6e95689b6c]1.
 
 Emissions data for operators shall contain the information set out in Table IX-I, having regard to the electronic format for submitting emissions data described in the data exchange and technical specifications provided for in Article 105.
 
@@ -30,4 +30,4 @@ Emissions data for operators shall contain the information set out in Table IX-I
 
 ## Annotations
 
-[^key-386e32276fff30c2f91a8c6e95689b6c]: Textual amendment: Annexes 9-14 omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [10(8)](https://www.legislation.gov.uk/uksi/2021/511/regulation/10/8)
+[^c-386e32276fff30c2f91a8c6e95689b6c]: Textual amendment: Annexes 9-14 omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [10(8)](https://www.legislation.gov.uk/uksi/2021/511/regulation/10/8)

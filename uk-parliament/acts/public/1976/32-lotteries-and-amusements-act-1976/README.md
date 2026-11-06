@@ -31,22 +31,22 @@ Lotteries and Amusements Act 1976 (repealed)
 
 1976 c.32
 
-[^key-2be9524bd13e4e0649d955d7d695fbac]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2be9524bd13e4e0649d955d7d695fbac]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### Part I — Legal and Illegal Lotteries[^key-2be9524bd13e4e0649d955d7d695fbac]
+### Part I — Legal and Illegal Lotteries[^c-2be9524bd13e4e0649d955d7d695fbac]
 
 **No longer in force.**
 
-#### General illegality of lotteries[^key-2be9524bd13e4e0649d955d7d695fbac]
+#### General illegality of lotteries[^c-2be9524bd13e4e0649d955d7d695fbac]
 
 **No longer in force.**
 
 - [Section 1 — Illegality of lotteries.](part-i/section-1.md)
 - [Section 2 — General lottery offences.](part-i/section-2.md)
 
-#### Exceptions[^key-2be9524bd13e4e0649d955d7d695fbac]
+#### Exceptions[^c-2be9524bd13e4e0649d955d7d695fbac]
 
 **No longer in force.**
 
@@ -55,18 +55,18 @@ Lotteries and Amusements Act 1976 (repealed)
 - [Section 5 — Societies’ lotteries.](part-i/section-5.md)
 - [Section 6 — Local lotteries.](part-i/section-6.md)
 
-### Part II — Provisions Relating to Societies’ Lotteries and Local Lotteries[^key-2be9524bd13e4e0649d955d7d695fbac]
+### Part II — Provisions Relating to Societies’ Lotteries and Local Lotteries[^c-2be9524bd13e4e0649d955d7d695fbac]
 
 **No longer in force.**
 
-#### Provisions relating to local lotteries[^key-2be9524bd13e4e0649d955d7d695fbac]
+#### Provisions relating to local lotteries[^c-2be9524bd13e4e0649d955d7d695fbac]
 
 **No longer in force.**
 
 - [Section 7 — Purposes of a local lottery.](part-ii/section-7.md)
 - [Section 8 — Proceeds of local lotteries.](part-ii/section-8.md)
 
-#### Provisions relating to societies’ lotteries and local lotteries[^key-2be9524bd13e4e0649d955d7d695fbac]
+#### Provisions relating to societies’ lotteries and local lotteries[^c-2be9524bd13e4e0649d955d7d695fbac]
 
 *Extent: E+W+S*
 
@@ -79,17 +79,17 @@ Lotteries and Amusements Act 1976 (repealed)
 - [Section 12 — Regulations.](part-ii/section-12.md)
 - [Section 13 — Offences relating to societies’ lotteries and local lotteries.](part-ii/section-13.md)
 
-### Part III — Competitions and Amusements[^key-2be9524bd13e4e0649d955d7d695fbac]
+### Part III — Competitions and Amusements[^c-2be9524bd13e4e0649d955d7d695fbac]
 
 **No longer in force.**
 
-#### Newspaper and other competitions[^key-2be9524bd13e4e0649d955d7d695fbac]
+#### Newspaper and other competitions[^c-2be9524bd13e4e0649d955d7d695fbac]
 
 **No longer in force.**
 
 - [Section 14 — Prize competitions.](part-iii/section-14.md)
 
-#### Amusements with prizes[^key-2be9524bd13e4e0649d955d7d695fbac]
+#### Amusements with prizes[^c-2be9524bd13e4e0649d955d7d695fbac]
 
 **No longer in force.**
 
@@ -97,7 +97,7 @@ Lotteries and Amusements Act 1976 (repealed)
 - [Section 16 — Provision of amusements with prizes at certain commercial entertainments.](part-iii/section-16.md)
 - [Section 17 — Restriction on grant and provisions as to duration and forfeiture of permits.](part-iii/section-17.md)
 
-### Part IV — Supplementary[^key-2be9524bd13e4e0649d955d7d695fbac]
+### Part IV — Supplementary[^c-2be9524bd13e4e0649d955d7d695fbac]
 
 **No longer in force.**
 
@@ -114,7 +114,7 @@ Lotteries and Amusements Act 1976 (repealed)
 
 **No longer in force.**
 
-[^key-2be9524bd13e4e0649d955d7d695fbac] SCHEDULES
+[^c-2be9524bd13e4e0649d955d7d695fbac] SCHEDULES
 
 - [SCHEDULE 1](schedule-1.md)
 - [Schedule 1A](schedule-1a.md)
@@ -126,4 +126,4 @@ Lotteries and Amusements Act 1976 (repealed)
 
 ## Annotations
 
-[^key-2be9524bd13e4e0649d955d7d695fbac]: Textual amendment: Act repealed (1.9.2007) by [Gambling Act 2005 (c. 19)](https://www.legislation.gov.uk/ukpga/2005/19), [ss. 356(3)](https://www.legislation.gov.uk/ukpga/2005/19/section/356/3), [358(1)](https://www.legislation.gov.uk/ukpga/2005/19/section/358/1), [Sch. 17](https://www.legislation.gov.uk/ukpga/2005/19/schedule/17) (with [ss. 352](https://www.legislation.gov.uk/ukpga/2005/19/section/352), [354](https://www.legislation.gov.uk/ukpga/2005/19/section/354)); [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 5](https://www.legislation.gov.uk/uksi/2006/3272/article/5) (with [arts. 7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4))
+[^c-2be9524bd13e4e0649d955d7d695fbac]: Textual amendment: Act repealed (1.9.2007) by [Gambling Act 2005 (c. 19)](https://www.legislation.gov.uk/ukpga/2005/19), [ss. 356(3)](https://www.legislation.gov.uk/ukpga/2005/19/section/356/3), [358(1)](https://www.legislation.gov.uk/ukpga/2005/19/section/358/1), [Sch. 17](https://www.legislation.gov.uk/ukpga/2005/19/schedule/17) (with [ss. 352](https://www.legislation.gov.uk/ukpga/2005/19/section/352), [354](https://www.legislation.gov.uk/ukpga/2005/19/section/354)); [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 5](https://www.legislation.gov.uk/uksi/2006/3272/article/5) (with [arts. 7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4))

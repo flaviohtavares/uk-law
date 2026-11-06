@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Specified proportion[^key-56836d3859a46576caaacb5fff774c86]
+## 89. Specified proportion[^c-56836d3859a46576caaacb5fff774c86]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-56836d3859a46576caaacb5fff774c86]: Commencement: [Reg. 89](https://www.legislation.gov.uk/uksi/2014/2848/regulation/89) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-56836d3859a46576caaacb5fff774c86]: Commencement: [Reg. 89](https://www.legislation.gov.uk/uksi/2014/2848/regulation/89) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

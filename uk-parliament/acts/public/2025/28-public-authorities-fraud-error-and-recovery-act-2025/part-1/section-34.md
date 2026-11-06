@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 34. Reviews[^key-3a383dae0644d31fa65445f7d4e2621a][^key-7df4bb28d30fb614f2696afd40638223]
+## 34. Reviews[^c-3a383dae0644d31fa65445f7d4e2621a][^c-7df4bb28d30fb614f2696afd40638223]
 
 *Extent: E+W*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3a383dae0644d31fa65445f7d4e2621a]: Commencement: S. 34 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-3a383dae0644d31fa65445f7d4e2621a]: Commencement: S. 34 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-7df4bb28d30fb614f2696afd40638223]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2025/28/section/34) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)
+[^c-7df4bb28d30fb614f2696afd40638223]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2025/28/section/34) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)

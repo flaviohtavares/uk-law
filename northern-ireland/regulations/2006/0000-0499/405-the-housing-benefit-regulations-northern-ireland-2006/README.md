@@ -56,7 +56,7 @@ The Regulations are made with the consent of the Department of Finance and Perso
 - [Section 5 — Persons who have attained the qualifying age for state pension credit](part-i/section-5.md)
 - [Section 6 — Remunerative work](part-i/section-6.md)
 
-### PART II — Provisions affecting entitlement to housing benefit[^key-5acb9083f90d5059d39755d5dd8d8fc6]
+### PART II — Provisions affecting entitlement to housing benefit[^c-5acb9083f90d5059d39755d5dd8d8fc6]
 
 *Extent: N.I.*
 
@@ -65,7 +65,7 @@ The Regulations are made with the consent of the Department of Finance and Perso
 - [Section 9 — Circumstances in which a person is to be treated as not liable to make payments in respect of a dwelling](part-ii/section-9.md)
 - [Section 10 — Persons from abroad](part-ii/section-10.md)
 
-### PART III — Payments in respect of a dwelling[^key-94e77558a65427473a9068b2020b5cb9]
+### PART III — Payments in respect of a dwelling[^c-94e77558a65427473a9068b2020b5cb9]
 
 *Extent: N.I.*
 
@@ -89,7 +89,7 @@ The Regulations are made with the consent of the Department of Finance and Perso
 - [Section 15 — Decisions](part-iii/section-15.md)
 - [Section 16 — Pre-tenancy decisions](part-iii/section-16.md)
 
-### PART IV — Membership of a family[^key-dde21019b432fa3d41884727de60e7b0]
+### PART IV — Membership of a family[^c-dde21019b432fa3d41884727de60e7b0]
 
 *Extent: N.I.*
 
@@ -97,14 +97,14 @@ The Regulations are made with the consent of the Department of Finance and Perso
 - [Section 18 — Circumstances in which a person is to be treated as responsible or not responsible for another](part-iv/section-18.md)
 - [Section 19 — Circumstances in which a person is to be treated as being or not being a member of the household](part-iv/section-19.md)
 
-### PART V — Applicable amounts[^key-32d9051f387960736a927621f470eb80]
+### PART V — Applicable amounts[^c-32d9051f387960736a927621f470eb80]
 
 *Extent: N.I.*
 
 - [Section 20 — Applicable amounts](part-v/section-20.md)
 - [Section 21 — Polygamous marriages](part-v/section-21.md)
 
-### PART VI — Income and capital[^key-ec4c3962cddb7fb97869b2aa2b93144c]
+### PART VI — Income and capital[^c-ec4c3962cddb7fb97869b2aa2b93144c]
 
 *Extent: N.I.*
 
@@ -167,7 +167,7 @@ The Regulations are made with the consent of the Department of Finance and Perso
 - [Section 48 — Capital jointly held](part-vi/section-48.md)
 - [Section 49 — Calculation of tariff income from capital](part-vi/section-49.md)
 
-### PART VII — Students[^key-cdfc17c6c1c87f45d217bfecc2ed07a0]
+### PART VII — Students[^c-cdfc17c6c1c87f45d217bfecc2ed07a0]
 
 *Extent: N.I.*
 
@@ -205,7 +205,7 @@ The Regulations are made with the consent of the Department of Finance and Perso
 - [Section 66 — Amounts treated as capital](part-vii/section-66.md)
 - [Section 67 — Disregard of changes occurring during summer vacation](part-vii/section-67.md)
 
-### PART VIII — Amount of benefit[^key-7f521572b49331340214f47ac53affde]
+### PART VIII — Amount of benefit[^c-7f521572b49331340214f47ac53affde]
 
 *Extent: N.I.*
 
@@ -224,7 +224,7 @@ The Regulations are made with the consent of the Department of Finance and Perso
 - [Section 72 — Non-dependant deductions](part-viii/section-72.md)
 - [Section 73 — Minimum housing benefit](part-viii/section-73.md)
 
-### Part VIIIA — Benefit cap[^key-03e6a9fe44a05c3fa8bd78f00b59e7f4]
+### Part VIIIA — Benefit cap[^c-03e6a9fe44a05c3fa8bd78f00b59e7f4]
 
 - [Section 73A — Circumstances in which a benefit cap will apply](part-viiia/section-73a.md)
 - [Section 73B — Determinations](part-viiia/section-73b.md)
@@ -236,7 +236,7 @@ The Regulations are made with the consent of the Department of Finance and Perso
 - [Section 73G — Interpretation](part-viiia/section-73g.md)
 - [Section 73H — Specified accommodation](part-viiia/section-73h.md)
 
-### PART IX — Calculation of weekly amounts and changes of circumstances[^key-ad47ee647a3fb1cd278d94fe0d25c5a4]
+### PART IX — Calculation of weekly amounts and changes of circumstances[^c-ad47ee647a3fb1cd278d94fe0d25c5a4]
 
 *Extent: N.I.*
 
@@ -247,7 +247,7 @@ The Regulations are made with the consent of the Department of Finance and Perso
 - [Section 78 — Calculation of weekly amounts](part-ix/section-78.md)
 - [Section 79 — Rent and rate-free periods](part-ix/section-79.md)
 
-### PART X — Claims[^key-81f34483468887e3aafa2693c7576263]
+### PART X — Claims[^c-81f34483468887e3aafa2693c7576263]
 
 *Extent: N.I.*
 
@@ -259,14 +259,14 @@ The Regulations are made with the consent of the Department of Finance and Perso
 - [Section 84 — Duty to notify changes of circumstances](part-x/section-84.md)
 - [Section 84A — Notice of change of circumstances given electronically](part-x/section-84a.md)
 
-### PART XI — Decisions on questions[^key-cb9b79312807fb8e9c488bb3dedca0f6]
+### PART XI — Decisions on questions[^c-cb9b79312807fb8e9c488bb3dedca0f6]
 
 *Extent: N.I.*
 
 - [Section 85 — Decisions by a relevant authority](part-xi/section-85.md)
 - [Section 86 — Notification of decisions](part-xi/section-86.md)
 
-### PART XII — Payments[^key-8a705e9e4d7fe7764a1c41f69e7c9a88]
+### PART XII — Payments[^c-8a705e9e4d7fe7764a1c41f69e7c9a88]
 
 *Extent: N.I.*
 
@@ -280,7 +280,7 @@ The Regulations are made with the consent of the Department of Finance and Perso
 - [Section 94 — Payment on death of the person entitled](part-xii/section-94.md)
 - [Section 95 — Offsetting](part-xii/section-95.md)
 
-### PART XIII — Overpayments[^key-cdac7939ea493af414039fca4bfc19aa]
+### PART XIII — Overpayments[^c-cdac7939ea493af414039fca4bfc19aa]
 
 *Extent: N.I.*
 
@@ -296,11 +296,11 @@ The Regulations are made with the consent of the Department of Finance and Perso
 - [Section 103A — Recovery by deduction from earnings](part-xiii/section-103a.md)
 - [Section 104 — Restrictions on recovery of rent and consequent modifications](part-xiii/section-104.md)
 
-### PART XIV — Information ...[^key-64692703c7a55e907d77d44bbb5cd7ce]
+### PART XIV — Information ...[^c-64692703c7a55e907d77d44bbb5cd7ce]
 
 *Extent: N.I.*
 
-#### SECTION 1 — Claims and information[^key-7de7b28f6c44c0efd16a5bd919db7991]
+#### SECTION 1 — Claims and information[^c-7de7b28f6c44c0efd16a5bd919db7991]
 
 - [Section 104A — Interpretation](part-xiv/section-104a.md)
 - [Section 104B — Collection of information](part-xiv/section-104b.md)
@@ -309,7 +309,7 @@ The Regulations are made with the consent of the Department of Finance and Perso
 - [Section 104E — Forwarding of information](part-xiv/section-104e.md)
 - [Section 104F — Request for information](part-xiv/section-104f.md)
 
-#### SECTION 2 — Information from landlords and agents[^key-7de7b28f6c44c0efd16a5bd919db7991]
+#### SECTION 2 — Information from landlords and agents[^c-7de7b28f6c44c0efd16a5bd919db7991]
 
 - [Section 105 — Interpretation](part-xiv/section-105.md)
 - [Section 106 — Requiring information](part-xiv/section-106.md)
@@ -396,32 +396,32 @@ These Regulations are to be read, where appropriate, with the Consequential Prov
 
 [^f00005]: Footnote: *See* section 171(6A) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 as inserted by Article 3(3) of the Social Security (Amendment) (Northern Ireland) Order 1993; *see also* Article 6(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-5acb9083f90d5059d39755d5dd8d8fc6]: Modification: [Pt. II](https://www.legislation.gov.uk/nisr/2006/405/part/II) applied (with modifications) (1.4.2007) by [The Rate Relief (General) Regulations (Northern Ireland) 2007 (S.R. 2007/204)](https://www.legislation.gov.uk/nisr/2007/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1), [11(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/11/1)
+[^c-5acb9083f90d5059d39755d5dd8d8fc6]: Modification: [Pt. II](https://www.legislation.gov.uk/nisr/2006/405/part/II) applied (with modifications) (1.4.2007) by [The Rate Relief (General) Regulations (Northern Ireland) 2007 (S.R. 2007/204)](https://www.legislation.gov.uk/nisr/2007/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1), [11(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/11/1)
 
-[^key-94e77558a65427473a9068b2020b5cb9]: Modification: [Pt. III](https://www.legislation.gov.uk/nisr/2006/405/part/III) applied (with modifications) (1.4.2007) by [The Rate Relief (General) Regulations (Northern Ireland) 2007 (S.R. 2007/204)](https://www.legislation.gov.uk/nisr/2007/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1), [14](https://www.legislation.gov.uk/nisr/2007/204/regulation/14)
+[^c-94e77558a65427473a9068b2020b5cb9]: Modification: [Pt. III](https://www.legislation.gov.uk/nisr/2006/405/part/III) applied (with modifications) (1.4.2007) by [The Rate Relief (General) Regulations (Northern Ireland) 2007 (S.R. 2007/204)](https://www.legislation.gov.uk/nisr/2007/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1), [14](https://www.legislation.gov.uk/nisr/2007/204/regulation/14)
 
-[^key-dde21019b432fa3d41884727de60e7b0]: Modification: [Pt. IV](https://www.legislation.gov.uk/nisr/2006/405/part/IV) applied (with modifications) (1.4.2007) by [The Rate Relief (General) Regulations (Northern Ireland) 2007 (S.R. 2007/204)](https://www.legislation.gov.uk/nisr/2007/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1), [16](https://www.legislation.gov.uk/nisr/2007/204/regulation/16)
+[^c-dde21019b432fa3d41884727de60e7b0]: Modification: [Pt. IV](https://www.legislation.gov.uk/nisr/2006/405/part/IV) applied (with modifications) (1.4.2007) by [The Rate Relief (General) Regulations (Northern Ireland) 2007 (S.R. 2007/204)](https://www.legislation.gov.uk/nisr/2007/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1), [16](https://www.legislation.gov.uk/nisr/2007/204/regulation/16)
 
-[^key-32d9051f387960736a927621f470eb80]: Modification: [Pt. V](https://www.legislation.gov.uk/nisr/2006/405/part/V) applied (with modifications) (1.4.2007) by [The Rate Relief (General) Regulations (Northern Ireland) 2007 (S.R. 2007/204)](https://www.legislation.gov.uk/nisr/2007/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1), [17(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/17/1)
+[^c-32d9051f387960736a927621f470eb80]: Modification: [Pt. V](https://www.legislation.gov.uk/nisr/2006/405/part/V) applied (with modifications) (1.4.2007) by [The Rate Relief (General) Regulations (Northern Ireland) 2007 (S.R. 2007/204)](https://www.legislation.gov.uk/nisr/2007/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1), [17(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/17/1)
 
-[^key-ec4c3962cddb7fb97869b2aa2b93144c]: Modification: [Pt. VI](https://www.legislation.gov.uk/nisr/2006/405/part/VI) applied (with modifications) (1.4.2007) by [The Rate Relief (General) Regulations (Northern Ireland) 2007 (S.R. 2007/204)](https://www.legislation.gov.uk/nisr/2007/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1), [19(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/19/1)
+[^c-ec4c3962cddb7fb97869b2aa2b93144c]: Modification: [Pt. VI](https://www.legislation.gov.uk/nisr/2006/405/part/VI) applied (with modifications) (1.4.2007) by [The Rate Relief (General) Regulations (Northern Ireland) 2007 (S.R. 2007/204)](https://www.legislation.gov.uk/nisr/2007/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1), [19(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/19/1)
 
-[^key-cdfc17c6c1c87f45d217bfecc2ed07a0]: Modification: [Pt. VII](https://www.legislation.gov.uk/nisr/2006/405/part/VII) applied (with modifications) (1.4.2007) by [The Rate Relief (General) Regulations (Northern Ireland) 2007 (S.R. 2007/204)](https://www.legislation.gov.uk/nisr/2007/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1), [21](https://www.legislation.gov.uk/nisr/2007/204/regulation/21)
+[^c-cdfc17c6c1c87f45d217bfecc2ed07a0]: Modification: [Pt. VII](https://www.legislation.gov.uk/nisr/2006/405/part/VII) applied (with modifications) (1.4.2007) by [The Rate Relief (General) Regulations (Northern Ireland) 2007 (S.R. 2007/204)](https://www.legislation.gov.uk/nisr/2007/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1), [21](https://www.legislation.gov.uk/nisr/2007/204/regulation/21)
 
-[^key-7f521572b49331340214f47ac53affde]: Modification: [Pt. VIII](https://www.legislation.gov.uk/nisr/2006/405/part/VIII) applied (with modifications) (1.4.2007) by [The Rate Relief (General) Regulations (Northern Ireland) 2007 (S.R. 2007/204)](https://www.legislation.gov.uk/nisr/2007/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1), [22(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/22/1)
+[^c-7f521572b49331340214f47ac53affde]: Modification: [Pt. VIII](https://www.legislation.gov.uk/nisr/2006/405/part/VIII) applied (with modifications) (1.4.2007) by [The Rate Relief (General) Regulations (Northern Ireland) 2007 (S.R. 2007/204)](https://www.legislation.gov.uk/nisr/2007/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1), [22(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/22/1)
 
-[^key-03e6a9fe44a05c3fa8bd78f00b59e7f4]: Textual amendment: [Pt. 8A](https://www.legislation.gov.uk/nisr/2006/405/part/8A) inserted (31.5.2016) by [The Benefit Cap (Housing Benefit) Regulations (Northern Ireland) 2016 (S.R. 2016/55)](https://www.legislation.gov.uk/nisr/2016/55), [regs. 1](https://www.legislation.gov.uk/nisr/2016/55/regulation/1), [3(5)](https://www.legislation.gov.uk/nisr/2016/55/regulation/3/5)
+[^c-03e6a9fe44a05c3fa8bd78f00b59e7f4]: Textual amendment: [Pt. 8A](https://www.legislation.gov.uk/nisr/2006/405/part/8A) inserted (31.5.2016) by [The Benefit Cap (Housing Benefit) Regulations (Northern Ireland) 2016 (S.R. 2016/55)](https://www.legislation.gov.uk/nisr/2016/55), [regs. 1](https://www.legislation.gov.uk/nisr/2016/55/regulation/1), [3(5)](https://www.legislation.gov.uk/nisr/2016/55/regulation/3/5)
 
-[^key-ad47ee647a3fb1cd278d94fe0d25c5a4]: Modification: [Pt. IX](https://www.legislation.gov.uk/nisr/2006/405/part/IX) applied (with modifications) (1.4.2007) by [The Rate Relief (General) Regulations (Northern Ireland) 2007 (S.R. 2007/204)](https://www.legislation.gov.uk/nisr/2007/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1), [24](https://www.legislation.gov.uk/nisr/2007/204/regulation/24)
+[^c-ad47ee647a3fb1cd278d94fe0d25c5a4]: Modification: [Pt. IX](https://www.legislation.gov.uk/nisr/2006/405/part/IX) applied (with modifications) (1.4.2007) by [The Rate Relief (General) Regulations (Northern Ireland) 2007 (S.R. 2007/204)](https://www.legislation.gov.uk/nisr/2007/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1), [24](https://www.legislation.gov.uk/nisr/2007/204/regulation/24)
 
-[^key-81f34483468887e3aafa2693c7576263]: Modification: [Pt. X](https://www.legislation.gov.uk/nisr/2006/405/part/X) applied (with modifications) (1.4.2007) by [The Rate Relief (General) Regulations (Northern Ireland) 2007 (S.R. 2007/204)](https://www.legislation.gov.uk/nisr/2007/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1), [26(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/26/1)
+[^c-81f34483468887e3aafa2693c7576263]: Modification: [Pt. X](https://www.legislation.gov.uk/nisr/2006/405/part/X) applied (with modifications) (1.4.2007) by [The Rate Relief (General) Regulations (Northern Ireland) 2007 (S.R. 2007/204)](https://www.legislation.gov.uk/nisr/2007/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1), [26(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/26/1)
 
-[^key-cb9b79312807fb8e9c488bb3dedca0f6]: Modification: [Pt. XI](https://www.legislation.gov.uk/nisr/2006/405/part/XI) applied (with modifications) (1.4.2007) by [The Rate Relief (General) Regulations (Northern Ireland) 2007 (S.R. 2007/204)](https://www.legislation.gov.uk/nisr/2007/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1), [30(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/30/1)
+[^c-cb9b79312807fb8e9c488bb3dedca0f6]: Modification: [Pt. XI](https://www.legislation.gov.uk/nisr/2006/405/part/XI) applied (with modifications) (1.4.2007) by [The Rate Relief (General) Regulations (Northern Ireland) 2007 (S.R. 2007/204)](https://www.legislation.gov.uk/nisr/2007/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1), [30(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/30/1)
 
-[^key-8a705e9e4d7fe7764a1c41f69e7c9a88]: Modification: [Pt. XII](https://www.legislation.gov.uk/nisr/2006/405/part/XII) applied (with modifications) (1.4.2007) by [The Rate Relief (General) Regulations (Northern Ireland) 2007 (S.R. 2007/204)](https://www.legislation.gov.uk/nisr/2007/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1), [31](https://www.legislation.gov.uk/nisr/2007/204/regulation/31)
+[^c-8a705e9e4d7fe7764a1c41f69e7c9a88]: Modification: [Pt. XII](https://www.legislation.gov.uk/nisr/2006/405/part/XII) applied (with modifications) (1.4.2007) by [The Rate Relief (General) Regulations (Northern Ireland) 2007 (S.R. 2007/204)](https://www.legislation.gov.uk/nisr/2007/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1), [31](https://www.legislation.gov.uk/nisr/2007/204/regulation/31)
 
-[^key-cdac7939ea493af414039fca4bfc19aa]: Modification: [Pt. XIII](https://www.legislation.gov.uk/nisr/2006/405/part/XIII) applied (with modifications) (1.4.2007) by [The Rate Relief (General) Regulations (Northern Ireland) 2007 (S.R. 2007/204)](https://www.legislation.gov.uk/nisr/2007/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1), [33](https://www.legislation.gov.uk/nisr/2007/204/regulation/33)
+[^c-cdac7939ea493af414039fca4bfc19aa]: Modification: [Pt. XIII](https://www.legislation.gov.uk/nisr/2006/405/part/XIII) applied (with modifications) (1.4.2007) by [The Rate Relief (General) Regulations (Northern Ireland) 2007 (S.R. 2007/204)](https://www.legislation.gov.uk/nisr/2007/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1), [33](https://www.legislation.gov.uk/nisr/2007/204/regulation/33)
 
-[^key-64692703c7a55e907d77d44bbb5cd7ce]: Textual amendment: Words in [Pt. XIV](https://www.legislation.gov.uk/nisr/2006/405/part/XIV) heading omitted (10.12.2007) by virtue of [The Social Security (Claims and Information) Regulations (Northern Ireland) 2007 (S.R. 2007/467)](https://www.legislation.gov.uk/nisr/2007/467), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/467/regulation/1/1), [7(2)](https://www.legislation.gov.uk/nisr/2007/467/regulation/7/2)
+[^c-64692703c7a55e907d77d44bbb5cd7ce]: Textual amendment: Words in [Pt. XIV](https://www.legislation.gov.uk/nisr/2006/405/part/XIV) heading omitted (10.12.2007) by virtue of [The Social Security (Claims and Information) Regulations (Northern Ireland) 2007 (S.R. 2007/467)](https://www.legislation.gov.uk/nisr/2007/467), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/467/regulation/1/1), [7(2)](https://www.legislation.gov.uk/nisr/2007/467/regulation/7/2)
 
-[^key-7de7b28f6c44c0efd16a5bd919db7991]: Textual amendment: [Pt. XIV](https://www.legislation.gov.uk/nisr/2006/405/part/XIV) SECTION 1 and Pt. XIV SECTION 2 heading inserted (10.12.2007) by [The Social Security (Claims and Information) Regulations (Northern Ireland) 2007 (S.R. 2007/467)](https://www.legislation.gov.uk/nisr/2007/467), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/467/regulation/1/1), [7(2)](https://www.legislation.gov.uk/nisr/2007/467/regulation/7/2)
+[^c-7de7b28f6c44c0efd16a5bd919db7991]: Textual amendment: [Pt. XIV](https://www.legislation.gov.uk/nisr/2006/405/part/XIV) SECTION 1 and Pt. XIV SECTION 2 heading inserted (10.12.2007) by [The Social Security (Claims and Information) Regulations (Northern Ireland) 2007 (S.R. 2007/467)](https://www.legislation.gov.uk/nisr/2007/467), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/467/regulation/1/1), [7(2)](https://www.legislation.gov.uk/nisr/2007/467/regulation/7/2)

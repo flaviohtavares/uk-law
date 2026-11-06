@@ -48,11 +48,11 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 ## GENERAL
 
-### 1. Citation and commencement[^key-c56770c088fbdc81aae9966c20addf92]
+### 1. Citation and commencement[^c-c56770c088fbdc81aae9966c20addf92]
 
 These Regulations may be cited as the Education (School and Placing Information) (Scotland) Regulations 2012 and come into force on 8th December 2012.
 
-### 2. Interpretation[^key-f043393676c49ebfd441817265eb20ee]
+### 2. Interpretation[^c-f043393676c49ebfd441817265eb20ee]
 
 In these Regulations, unless the context otherwise requires—
 
@@ -72,7 +72,7 @@ In these Regulations, unless the context otherwise requires—
 - “working day” means in relation to an office of an authority, school or public library, a day on which the office, school or public library is open for business purposes;
 - “working hours” means in relation to an office of an authority, school or public library, the hours during which the office, school or public library is open for business purposes.
 
-### 3. Application of these Regulations to young persons and others[^key-753ffc07208f728bceb564b265978bb7]
+### 3. Application of these Regulations to young persons and others[^c-753ffc07208f728bceb564b265978bb7]
 
 (1) These Regulations apply to a young person and a young person having additional support needs in accordance with paragraph (2).
 
@@ -84,7 +84,7 @@ In these Regulations, unless the context otherwise requires—
   - (i) in the case of a young person with additional support needs who an authority are satisfied is not capable of expressing that young person’s views, to the parent of that young person as it applies to the parent of a child; and
   - (ii) in the case of any other young person, to the young person as it applies to the parent of a child.
 
-### 4. Kinds of information to be published, supplied or made available by an authority[^key-20130a70f816e399493e8844c80a93d2]
+### 4. Kinds of information to be published, supplied or made available by an authority[^c-20130a70f816e399493e8844c80a93d2]
 
 The kinds of information to be published, supplied or otherwise made available to parents by an authority under section 28B of the 1980 Act are—
 
@@ -95,7 +95,7 @@ The kinds of information to be published, supplied or otherwise made available t
 
 ## PROVISIONS FOR PUBLICATION OF, OR MAKING AVAILABLE BASIC, SCHOOL AND SUPPLEMENTARY INFORMATION
 
-### 5. The duties and powers of an authority to supply certain basic information to certain parents[^key-b9f2fb46a5e737e0ba0349575bc17568]
+### 5. The duties and powers of an authority to supply certain basic information to certain parents[^c-b9f2fb46a5e737e0ba0349575bc17568]
 
 (1) Subject to the provisions of these Regulations, an authority must in the case of any duty to do so, or may, in the case of any power, supply basic information to a parent to whom this regulation applies, on receiving a request from the parent.
 
@@ -130,7 +130,7 @@ The kinds of information to be published, supplied or otherwise made available t
 
 (9) An authority must supply basic information of the kinds specified in Schedule 1 Part I paragraphs 1(b) and (d) to (h) to a parent making a request under paragraph (1).
 
-### 6. Duty to make basic information available at certain places[^key-fb54c619b704e44475f07436c070189c]
+### 6. Duty to make basic information available at certain places[^c-fb54c619b704e44475f07436c070189c]
 
 (1) Subject to paragraph (3), an authority must make basic information available to a parent requesting it for reference, at—
 
@@ -142,7 +142,7 @@ The kinds of information to be published, supplied or otherwise made available t
 
 (3) Where basic information of the kinds specified in Schedule 1 Part I paragraph 1(a) is made available under paragraph (1) at a public library or school, it may be limited to basic information of that kind relating to schools in that part of the area of the authority in which the public library or school is situated.
 
-### 7. Form in which basic information to be supplied and made available[^key-d1e1a7063bdaa9c75aa622c1ae409f7a]
+### 7. Form in which basic information to be supplied and made available[^c-d1e1a7063bdaa9c75aa622c1ae409f7a]
 
 (1) This regulation applies to basic information supplied or made available under regulations 5 and 6.
 
@@ -155,7 +155,7 @@ The kinds of information to be published, supplied or otherwise made available t
 - (a) a statement by the authority that similar basic information is available in relation to other parts of their area or to other schools; and
 - (b) one or more addresses, telephone numbers and email addresses where an enquiry relating to that similar basic information may be made.
 
-### 8. Duty to supply or make school information available to certain persons at certain places[^key-cce8a633fe1d9e7f3d91521ff47cdfb4]
+### 8. Duty to supply or make school information available to certain persons at certain places[^c-cce8a633fe1d9e7f3d91521ff47cdfb4]
 
 (1) Where an authority are required by section 28B(1)(b)(i) of the 1980 Act to inform a parent of the particular school in which the authority propose to place the parent’s child, the authority—
 
@@ -178,7 +178,7 @@ who requests it.
 
 (5) In carrying out the duty imposed by paragraph (4), an authority may supply or make available such other information as they think fit.
 
-### 9. Form in which school information to be published, supplied or otherwise made available[^key-71e4749f64af4c1754c6ddd4f7454f28]
+### 9. Form in which school information to be published, supplied or otherwise made available[^c-71e4749f64af4c1754c6ddd4f7454f28]
 
 (1) School information required to be supplied or made available in accordance with regulation 8 must be so supplied or made available in writing in the form of a document to be known as the School Handbook.
 
@@ -191,7 +191,7 @@ who requests it.
 
 the authority must, if they consider it reasonable to do so, provide the handbook to the parent in that form.
 
-### 10. Duty to make supplementary information available to certain parents[^key-7e248012c1465b575fa034e7cd7ffab8]
+### 10. Duty to make supplementary information available to certain parents[^c-7e248012c1465b575fa034e7cd7ffab8]
 
 (1) Subject to the provisions of regulation 11, on receiving a request from a parent to whom this regulation applies, an authority—
 
@@ -205,7 +205,7 @@ the authority must, if they consider it reasonable to do so, provide the handboo
 
 (3) Information provided under paragraph (1) must be provided free of charge.
 
-### 11. Form in which certain supplementary information is to be made available at certain places[^key-2f4bd7c353a6ad98a09f6616f5ea760c]
+### 11. Form in which certain supplementary information is to be made available at certain places[^c-2f4bd7c353a6ad98a09f6616f5ea760c]
 
 (1) The delineated area for a school must be shown on a map and made available by an authority for reference—
 
@@ -229,7 +229,7 @@ the authority must, if they consider it reasonable to do so, provide the handboo
 
 (5) Supplementary information relating to a school must be made available at the school.
 
-### 12. Duty to review and revise basic and school information[^key-40de8b38ef98d340e485ba46e6c9bd74]
+### 12. Duty to review and revise basic and school information[^c-40de8b38ef98d340e485ba46e6c9bd74]
 
 (1) This regulation applies to a document in so far as it contains basic or school information which requires to be published, made available or supplied under these Regulations.
 
@@ -258,19 +258,19 @@ the authority must, if they consider it reasonable to do so, provide the handboo
 
 (6) If the area of an authority contains a part where a language other than English or Gaelic is widely used the authority must, if they consider it necessary, ensure that basic information and school information for the schools in that area is made available, published or supplied in accordance with these Regulations in that part in that language, as well as in the English language.
 
-### 13. Duty to review and revise supplementary information[^key-f9ab8d708e4f84a13136da8cf0493c37]
+### 13. Duty to review and revise supplementary information[^c-f9ab8d708e4f84a13136da8cf0493c37]
 
 (1) An authority must take all reasonable steps to ensure that supplementary information which they are required to publish, otherwise make available or supply in accordance with section 28B(1)(a) and (d) of the 1980 Act and these Regulations is kept up to date so far as possible.
 
 (2) If it appears necessary to an authority so to do, the authority may make such supplementary information available in a language other than English to a parent requesting it.
 
-### 14. Supply of basic information[^key-7b313216ac6bcda0d5c14bf357c9a1e0]
+### 14. Supply of basic information[^c-7b313216ac6bcda0d5c14bf357c9a1e0]
 
 Nothing in regulations 5 or 12 will require an authority to supply the same basic information to the same person on more than one occasion in a school year.
 
 ## PROVISIONS AS TO INFORMATION ABOUT PLACING REQUESTS
 
-### 15. Advertisement[^key-8d6a79f56805679312f3a19a8141ac27]
+### 15. Advertisement[^c-8d6a79f56805679312f3a19a8141ac27]
 
 (1) For the purposes of their consideration of placing requests, an authority must, as respects each school year commencing with school year 2013/14, place in a newspaper circulating at least weekly in their area an advertisement stating the matters specified in paragraph (4).
 
@@ -288,7 +288,7 @@ Nothing in regulations 5 or 12 will require an authority to supply the same basi
 
 (5) In this regulation “transfer date” means a date fixed by an authority as a date upon which the transfer of pupils from one stage of school education and their admission to a subsequent stage of school education will take place for a school year.
 
-### 16. Notification of right to make a placing request in respect of certain children[^key-2b7df01898f7389cc2335ce99a7e34eb]
+### 16. Notification of right to make a placing request in respect of certain children[^c-2b7df01898f7389cc2335ce99a7e34eb]
 
 (1) This regulation applies where an authority are required by section 28B(1)(b), as read with section 28B(4), of the 1980 Act, to inform a parent—
 
@@ -320,7 +320,7 @@ Nothing in regulations 5 or 12 will require an authority to supply the same basi
 
 (7) Nothing in this regulation applies in respect of a child having additional support needs.
 
-### 17. Notification of right to make a placing request and other information relating to children having additional support needs[^key-fa7480d28c9917d4d00347588188b6d9]
+### 17. Notification of right to make a placing request and other information relating to children having additional support needs[^c-fa7480d28c9917d4d00347588188b6d9]
 
 (1) This regulation applies in respect of a child having additional support needs.
 
@@ -347,13 +347,13 @@ the authority must inform the parent by notification in writing.
 
 (6) A notification to a parent under paragraph (4) must be given at least 2 months before any date upon which the authority propose that a child should commence attendance at a school or transfer from one school to another; but nothing in this paragraph will prevent such commencement or transfer taking place at such earlier date as may be agreed between the authority and the parent.
 
-### 18. Information to be given on receipt of a placing request[^key-764b79ded784a0ff231dc75b73a59d95]
+### 18. Information to be given on receipt of a placing request[^c-764b79ded784a0ff231dc75b73a59d95]
 
 (1) Subject to paragraph (2), an authority must, within 5 working days of receiving a placing request, send in writing to the parent making the placing request, free of charge, information of the kinds specified in Schedule 2.
 
 (2) Paragraph (1) does not apply where, within 5 working days of receiving a placing request, an authority notify the parent in writing of the authority’s acceptance of the placing request.
 
-### 19. Revocation[^key-bd00a085a715e96a9b2aa501ef2c4ccf]
+### 19. Revocation[^c-bd00a085a715e96a9b2aa501ef2c4ccf]
 
 The Regulations set out in column 1 of Schedule 3 are revoked to the extent specified in the corresponding entry relating to those Regulations in column 3 of Schedule 3.
 
@@ -373,7 +373,7 @@ Regulation 2
 
 ### PART I — (BASIC INFORMATION)
 
-**1.**[^key-9e8ebcb1ec1a2ef3202172c425990526] The information specified in this Part is basic information—
+**1.**[^c-9e8ebcb1ec1a2ef3202172c425990526] The information specified in this Part is basic information—
 
 - (a) information relating to primary, secondary and special schools including in relation to each—
   - (i) the name;
@@ -401,11 +401,11 @@ and nothing in this Part of this Schedule applies to a nursery school or nursery
 
 ### PART II — (SCHOOL INFORMATION)
 
-**2.**[^key-ac938f1ae1ee2344ec1d39029d5d311b] The information specified in this Part is school information.
+**2.**[^c-ac938f1ae1ee2344ec1d39029d5d311b] The information specified in this Part is school information.
 
 #### Contact Details
 
-**3.**[^key-d89c93620f3a3e3ad7d03cccade9aae7] In relation to a school—
+**3.**[^c-d89c93620f3a3e3ad7d03cccade9aae7] In relation to a school—
 
 - (a) the name;
 - (b) the address;
@@ -426,14 +426,14 @@ and nothing in this Part of this Schedule applies to a nursery school or nursery
 
 #### Parental Involvement
 
-**4.**[^key-a59872b5f24928943a8c38add7ffe2a3] In relation to a school—
+**4.**[^c-a59872b5f24928943a8c38add7ffe2a3] In relation to a school—
 
 - (a) the opportunities provided for a pupil’s parent to become involved in the school;
 - (b) details of how the school involves a pupil’s parent in the pupil’s education including how information, support and advice is given to a parent to help the parent support the pupil’s learning and help the pupil at key stages, particularly when choices are being made.
 
 #### School Ethos
 
-**5.**[^key-19f12409a4b3c527816027786712c7dd] In relation to a school—
+**5.**[^c-19f12409a4b3c527816027786712c7dd] In relation to a school—
 
 - (a) a statement of the school’s culture, ethos and values, its aspirations for pupils and how it celebrates their achievements;
 - (b) details of the school’s partnerships with denominational bodies at local and national level (if any);
@@ -441,7 +441,7 @@ and nothing in this Part of this Schedule applies to a nursery school or nursery
 
 #### The curriculum
 
-**6.**[^key-8c1be7cb88c9b6c4735fe59d7d8a6810] How the curriculum is planned and provided at a school, including—
+**6.**[^c-8c1be7cb88c9b6c4735fe59d7d8a6810] How the curriculum is planned and provided at a school, including—
 
 - (a) the different subjects and learning opportunities that are available for pupils and when these are available;
 - (b) the opportunities for pupils to develop skills for learning, life and work, including literacy, numeracy and health and well-being in and out of the classroom;
@@ -456,15 +456,15 @@ and nothing in this Part of this Schedule applies to a nursery school or nursery
 
 #### Assessment
 
-**7.**[^key-16da7139839ebfd82b224b5b15a72d2b] The school’s arrangements and approaches for tracking and assessing pupils’ progress and planning their future learning.
+**7.**[^c-16da7139839ebfd82b224b5b15a72d2b] The school’s arrangements and approaches for tracking and assessing pupils’ progress and planning their future learning.
 
 #### Reporting
 
-**8.**[^key-2e93ba9ad8c51c6d23a85f1b3b13dd2c] The school’s arrangements for ongoing and end of year reporting to a pupil’s parent on that pupil’s progress in curriculum areas, achievements and their future learning.
+**8.**[^c-2e93ba9ad8c51c6d23a85f1b3b13dd2c] The school’s arrangements for ongoing and end of year reporting to a pupil’s parent on that pupil’s progress in curriculum areas, achievements and their future learning.
 
 #### Transitions
 
-**9.**[^key-1caa8f7ab7a1eedd766a4a78d26956a2] In relation to a school—
+**9.**[^c-1caa8f7ab7a1eedd766a4a78d26956a2] In relation to a school—
 
 - (a) the arrangements that are in place to support pupils making transitions and what role their parents can play;
 - (b) the contact details of the school to which pupils will normally transfer for the subsequent stages of their education (on completion of the stages of education provided for at the school to which the school information relates);
@@ -472,7 +472,7 @@ and nothing in this Part of this Schedule applies to a nursery school or nursery
 
 #### Support for Pupils
 
-**10.**[^key-b1c64a3b77a0e51f1d05aef7fef5975b] In relation to a school—
+**10.**[^c-b1c64a3b77a0e51f1d05aef7fef5975b] In relation to a school—
 
 - (a) where and how a parent can find more information about how pupils’ additional support needs will be identified and addressed;
 - (b) the provisions made for pupils having additional support needs, whether the school is a special school or has a special class or unit, or a developmental nursery for observation;
@@ -482,7 +482,7 @@ and nothing in this Part of this Schedule applies to a nursery school or nursery
 
 #### School Improvement
 
-**11.**[^key-b9d5b28aa96a4ea52d5fd3f8454ab64a] In relation to a school—
+**11.**[^c-b9d5b28aa96a4ea52d5fd3f8454ab64a] In relation to a school—
 
 - (a) the main achievements of the school over the last 12 months, or details of where this can be obtained;
 - (b) the trends and information which give an overall picture of how the school is performing including achievements at SCQF Levels and other awards, leaver destinations, and any other significant achievements, over the past 3 years;
@@ -492,7 +492,7 @@ and nothing in this Part of this Schedule applies to a nursery school or nursery
 
 #### School Policies and Practical Information
 
-**12.**[^key-df0e1f71543d45eea5d1f91635c12fa7] In relation to a school—
+**12.**[^c-df0e1f71543d45eea5d1f91635c12fa7] In relation to a school—
 
 - (a) a list of the available school and authority policies and how they can be accessed, or a link to another source where the policies are listed;
 - (b) information on activities, groups, clubs and opportunities for pupils to be involved in the school including sports and outdoor activities;
@@ -502,7 +502,7 @@ and nothing in this Part of this Schedule applies to a nursery school or nursery
 
 ### PART III — (SUPPLEMENTARY INFORMATION)
 
-**13.**[^key-c0bb01691e6f6e56ea8e003f757d7584] The information specified in this Part is supplementary information—
+**13.**[^c-c0bb01691e6f6e56ea8e003f757d7584] The information specified in this Part is supplementary information—
 
 - (a) the delineated area (if any) relating to a school;
 - (b) the secondary school to which pupils will normally be transferred from a primary school;
@@ -512,7 +512,7 @@ and nothing in this Part of this Schedule applies to a nursery school or nursery
 - (f) the general effect of section 28A(1) and (2) of the 1980 Act and a parent’s right to make a placing request[^f00005];
 - (g) the circumstances in which a placing request may be refused in terms of section 28A(3) of the 1980 Act;
 - (h) the general effect of sections 28A(4) and (5) and 28C to 28G of the 1980 Act[^f00006];
-- (i) the general effect of sections 18 to 22[^key-7a130366994cfa38f24b4a6c4795415b] of, and schedule 2 to the 2004 Act, (children and young persons with additional support needs placing requests relating to placing requests in relation to children having additional support needs);
+- (i) the general effect of sections 18 to 22[^c-7a130366994cfa38f24b4a6c4795415b] of, and schedule 2 to the 2004 Act, (children and young persons with additional support needs placing requests relating to placing requests in relation to children having additional support needs);
 - (j) the name, address and email address of the person to whom a reference to an appeal committee should be sent;
 - (k) any guidelines formulated by an authority as respects placing in a particular school or nursery class in accordance with section 28B(1)(c) of the 1980 Act;
 - (l) the general policy or practice with regard to fixing the maximum number of pupils who the authority consider should be—
@@ -542,7 +542,7 @@ and nothing in this Part of this Schedule applies to a nursery school or nursery
 
 ### PART IV — (GENERAL)
 
-**14.**[^key-eb71dba2c0465e5a7e25ebabd007e03e] In this Schedule—
+**14.**[^c-eb71dba2c0465e5a7e25ebabd007e03e] In this Schedule—
 
 - “appeal committee” means an appeal committee set up and maintained under section 28D(1)(a) (appeal committee) of the 1980 Act[^f00007];
 - “nursery school” in relation to an authority means a nursery school under their management and “nursery class” is to be construed accordingly;
@@ -572,7 +572,7 @@ and nothing in this Part of this Schedule applies to a nursery school or nursery
 
 Regulations 2, 4(d) and 18
 
-**1.**[^key-aee60ada8010205dba232f98b3a1347f] The kinds of information specified for the purposes of regulation 18 are—
+**1.**[^c-aee60ada8010205dba232f98b3a1347f] The kinds of information specified for the purposes of regulation 18 are—
 
 - (a) the person or body who will, in accordance with arrangements made by an authority, discharge their function of considering a placing request;
 - (b) whether the parent making the request will have an opportunity of presenting the parent’s case in support of the request orally or in writing to that person or body;
@@ -585,7 +585,7 @@ Regulations 2, 4(d) and 18
 
   the authority is deemed to have refused the placing request.
 
-## SCHEDULE 3 — REVOCATIONS[^key-1dc4dc4354cd50ca135a2af7efd571fe]
+## SCHEDULE 3 — REVOCATIONS[^c-1dc4dc4354cd50ca135a2af7efd571fe]
 
 Regulation 19
 
@@ -642,88 +642,88 @@ Regulation 19 revokes the Education (School and Placing Information) (Scotland) 
 
 [^f00001]: Footnote: [1980 c.44](https://www.legislation.gov.uk/ukpga/1980/44) (“the 1980 Act”). Section 2 was amended by Schedule 6 to the Education (Scotland) Act [1996 (c.43)](https://www.legislation.gov.uk/ukpga/1996/43). Section 28B was inserted by section 1(1) of the Education (Scotland) Act [1981 (c.58)](https://www.legislation.gov.uk/ukpga/1981/58) (“the 1981 Act”) and amended by schedule 3, paragraph 3(6) to the Education (Additional Support for Learning) (Scotland) Act [2004 (asp 4)](https://www.legislation.gov.uk/asp/2004/4) (“the 2004 Act”). Section 135(1) of the 1980 Act sets out the definition of “prescribed” relevant to the exercise of the statutory powers under which these Regulations are made. The functions of the Secretary of State under the 1980 Act were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-c56770c088fbdc81aae9966c20addf92]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2012/130/regulation/1) in force at 8.12.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/130/regulation/1)
+[^c-c56770c088fbdc81aae9966c20addf92]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2012/130/regulation/1) in force at 8.12.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/130/regulation/1)
 
-[^key-f043393676c49ebfd441817265eb20ee]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2012/130/regulation/2) in force at 8.12.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/130/regulation/1)
+[^c-f043393676c49ebfd441817265eb20ee]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2012/130/regulation/2) in force at 8.12.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/130/regulation/1)
 
 [^f00002]: Footnote: [2004 asp 4](https://www.legislation.gov.uk/asp/2004/4). Paragraph 1 of schedule 3 was repealed by paragraph 1 of Schedule 7 to the Public Services Reform (General Teaching Council for Scotland) Order 2011 ([S.S.I. 2011/215](https://www.legislation.gov.uk/ssi/2011/215)).
 
 [^f00003]: Footnote: Section 28A of the 1980 Act was inserted by section 1(1) of the 1981 Act and amended by section 33(2) of the Education (Scotland) Act [1996 c.43](https://www.legislation.gov.uk/ukpga/1996/43), section 43(2) of the Standards in Scotland’s Schools etc. Act [2000 asp 6](https://www.legislation.gov.uk/asp/2000/6) and section 1(1)(a)(i) of the School Education (Amendment) (Scotland) Act [2002 asp 2](https://www.legislation.gov.uk/asp/2002/2). Schedule 2, paragraph 1 to the 2004 Act disapplied, in relation to children and young persons having additional support needs, sections 28A, 28C and 28E to 28G of the 1980 Act and instead applies the provisions of that schedule.
 
-[^key-753ffc07208f728bceb564b265978bb7]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2012/130/regulation/3) in force at 8.12.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/130/regulation/1)
+[^c-753ffc07208f728bceb564b265978bb7]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2012/130/regulation/3) in force at 8.12.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/130/regulation/1)
 
-[^key-20130a70f816e399493e8844c80a93d2]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2012/130/regulation/4) in force at 8.12.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/130/regulation/1)
+[^c-20130a70f816e399493e8844c80a93d2]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2012/130/regulation/4) in force at 8.12.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/130/regulation/1)
 
-[^key-b9f2fb46a5e737e0ba0349575bc17568]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2012/130/regulation/5) in force at 8.12.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/130/regulation/1)
+[^c-b9f2fb46a5e737e0ba0349575bc17568]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2012/130/regulation/5) in force at 8.12.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/130/regulation/1)
 
-[^key-fb54c619b704e44475f07436c070189c]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2012/130/regulation/6) in force at 8.12.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/130/regulation/1)
+[^c-fb54c619b704e44475f07436c070189c]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2012/130/regulation/6) in force at 8.12.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/130/regulation/1)
 
-[^key-d1e1a7063bdaa9c75aa622c1ae409f7a]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2012/130/regulation/7) in force at 8.12.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/130/regulation/1)
+[^c-d1e1a7063bdaa9c75aa622c1ae409f7a]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2012/130/regulation/7) in force at 8.12.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/130/regulation/1)
 
-[^key-cce8a633fe1d9e7f3d91521ff47cdfb4]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2012/130/regulation/8) in force at 8.12.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/130/regulation/1)
+[^c-cce8a633fe1d9e7f3d91521ff47cdfb4]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2012/130/regulation/8) in force at 8.12.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/130/regulation/1)
 
-[^key-71e4749f64af4c1754c6ddd4f7454f28]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2012/130/regulation/9) in force at 8.12.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/130/regulation/1)
+[^c-71e4749f64af4c1754c6ddd4f7454f28]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2012/130/regulation/9) in force at 8.12.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/130/regulation/1)
 
-[^key-7e248012c1465b575fa034e7cd7ffab8]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2012/130/regulation/10) in force at 8.12.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/130/regulation/1)
+[^c-7e248012c1465b575fa034e7cd7ffab8]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2012/130/regulation/10) in force at 8.12.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/130/regulation/1)
 
-[^key-2f4bd7c353a6ad98a09f6616f5ea760c]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2012/130/regulation/11) in force at 8.12.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/130/regulation/1)
+[^c-2f4bd7c353a6ad98a09f6616f5ea760c]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2012/130/regulation/11) in force at 8.12.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/130/regulation/1)
 
-[^key-40de8b38ef98d340e485ba46e6c9bd74]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2012/130/regulation/12) in force at 8.12.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/130/regulation/1)
+[^c-40de8b38ef98d340e485ba46e6c9bd74]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2012/130/regulation/12) in force at 8.12.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/130/regulation/1)
 
-[^key-f9ab8d708e4f84a13136da8cf0493c37]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2012/130/regulation/13) in force at 8.12.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/130/regulation/1)
+[^c-f9ab8d708e4f84a13136da8cf0493c37]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2012/130/regulation/13) in force at 8.12.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/130/regulation/1)
 
-[^key-7b313216ac6bcda0d5c14bf357c9a1e0]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2012/130/regulation/14) in force at 8.12.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/130/regulation/1)
+[^c-7b313216ac6bcda0d5c14bf357c9a1e0]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2012/130/regulation/14) in force at 8.12.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/130/regulation/1)
 
-[^key-8d6a79f56805679312f3a19a8141ac27]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2012/130/regulation/15) in force at 8.12.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/130/regulation/1)
+[^c-8d6a79f56805679312f3a19a8141ac27]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2012/130/regulation/15) in force at 8.12.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/130/regulation/1)
 
-[^key-2b7df01898f7389cc2335ce99a7e34eb]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2012/130/regulation/16) in force at 8.12.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/130/regulation/1)
+[^c-2b7df01898f7389cc2335ce99a7e34eb]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2012/130/regulation/16) in force at 8.12.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/130/regulation/1)
 
-[^key-fa7480d28c9917d4d00347588188b6d9]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2012/130/regulation/17) in force at 8.12.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/130/regulation/1)
+[^c-fa7480d28c9917d4d00347588188b6d9]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2012/130/regulation/17) in force at 8.12.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/130/regulation/1)
 
-[^key-764b79ded784a0ff231dc75b73a59d95]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2012/130/regulation/18) in force at 8.12.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/130/regulation/1)
+[^c-764b79ded784a0ff231dc75b73a59d95]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2012/130/regulation/18) in force at 8.12.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/130/regulation/1)
 
-[^key-bd00a085a715e96a9b2aa501ef2c4ccf]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2012/130/regulation/19) in force at 8.12.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/130/regulation/1)
+[^c-bd00a085a715e96a9b2aa501ef2c4ccf]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2012/130/regulation/19) in force at 8.12.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/130/regulation/1)
 
-[^key-9e8ebcb1ec1a2ef3202172c425990526]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ssi/2012/130/schedule/1/paragraph/1) in force at 8.12.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/130/regulation/1)
+[^c-9e8ebcb1ec1a2ef3202172c425990526]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ssi/2012/130/schedule/1/paragraph/1) in force at 8.12.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/130/regulation/1)
 
 [^f00004]: Footnote: Section 50 of the Education (Scotland) Act [1980 c.44](https://www.legislation.gov.uk/ukpga/1980/44) (“the 1980 Act”) was amended by section 2(2) of the Education (Scotland) Act [1981 c.58](https://www.legislation.gov.uk/ukpga/1981/58) (“the 1981 Act”), section 82 and Schedules 10 and 11 of the Self-Governing Schools etc. (Scotland) Act [1989 c.39](https://www.legislation.gov.uk/ukpga/1989/39), section 145(2) of the Local Government etc. (Scotland) Act [1994 c.39](https://www.legislation.gov.uk/ukpga/1994/39), section 5(2) of the [Schools (Health Promotion and Nutrition (Scotland) Act 2007 asp 15](https://www.legislation.gov.uk/asp/2007/15) and Schedule 2 to the [Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158). Section 51 of the 1980 Act was amended by section 2(3) of the 1981 Act, section 145(3) of the Local Government etc. (Scotland) Act [1994 c.39](https://www.legislation.gov.uk/ukpga/1994/39), Schedule 5 to the Education (Scotland) Act [1996 c.43](https://www.legislation.gov.uk/ukpga/1996/43), section 37(3) and schedule 3 to the [Standards in Scotland’s Schools etc. Act 2000 asp 6](https://www.legislation.gov.uk/asp/2000/6), section 45 of the [Local Government in Scotland Act 2003 asp 1](https://www.legislation.gov.uk/asp/2003/1) and Schedule 2 to the Local Education Authorities and Children’s Services Authorities (Integration of Functions Order) [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158).
 
-[^key-ac938f1ae1ee2344ec1d39029d5d311b]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ssi/2012/130/schedule/1/paragraph/2) in force at 8.12.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/130/regulation/1)
+[^c-ac938f1ae1ee2344ec1d39029d5d311b]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ssi/2012/130/schedule/1/paragraph/2) in force at 8.12.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/130/regulation/1)
 
-[^key-d89c93620f3a3e3ad7d03cccade9aae7]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ssi/2012/130/schedule/1/paragraph/3) in force at 8.12.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/130/regulation/1)
+[^c-d89c93620f3a3e3ad7d03cccade9aae7]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ssi/2012/130/schedule/1/paragraph/3) in force at 8.12.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/130/regulation/1)
 
-[^key-a59872b5f24928943a8c38add7ffe2a3]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ssi/2012/130/schedule/1/paragraph/4) in force at 8.12.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/130/regulation/1)
+[^c-a59872b5f24928943a8c38add7ffe2a3]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ssi/2012/130/schedule/1/paragraph/4) in force at 8.12.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/130/regulation/1)
 
-[^key-19f12409a4b3c527816027786712c7dd]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ssi/2012/130/schedule/1/paragraph/5) in force at 8.12.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/130/regulation/1)
+[^c-19f12409a4b3c527816027786712c7dd]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ssi/2012/130/schedule/1/paragraph/5) in force at 8.12.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/130/regulation/1)
 
-[^key-8c1be7cb88c9b6c4735fe59d7d8a6810]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ssi/2012/130/schedule/1/paragraph/6) in force at 8.12.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/130/regulation/1)
+[^c-8c1be7cb88c9b6c4735fe59d7d8a6810]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ssi/2012/130/schedule/1/paragraph/6) in force at 8.12.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/130/regulation/1)
 
-[^key-16da7139839ebfd82b224b5b15a72d2b]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ssi/2012/130/schedule/1/paragraph/7) in force at 8.12.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/130/regulation/1)
+[^c-16da7139839ebfd82b224b5b15a72d2b]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ssi/2012/130/schedule/1/paragraph/7) in force at 8.12.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/130/regulation/1)
 
-[^key-2e93ba9ad8c51c6d23a85f1b3b13dd2c]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ssi/2012/130/schedule/1/paragraph/8) in force at 8.12.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/130/regulation/1)
+[^c-2e93ba9ad8c51c6d23a85f1b3b13dd2c]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ssi/2012/130/schedule/1/paragraph/8) in force at 8.12.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/130/regulation/1)
 
-[^key-1caa8f7ab7a1eedd766a4a78d26956a2]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ssi/2012/130/schedule/1/paragraph/9) in force at 8.12.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/130/regulation/1)
+[^c-1caa8f7ab7a1eedd766a4a78d26956a2]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ssi/2012/130/schedule/1/paragraph/9) in force at 8.12.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/130/regulation/1)
 
-[^key-b1c64a3b77a0e51f1d05aef7fef5975b]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ssi/2012/130/schedule/1/paragraph/10) in force at 8.12.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/130/regulation/1)
+[^c-b1c64a3b77a0e51f1d05aef7fef5975b]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ssi/2012/130/schedule/1/paragraph/10) in force at 8.12.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/130/regulation/1)
 
-[^key-b9d5b28aa96a4ea52d5fd3f8454ab64a]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ssi/2012/130/schedule/1/paragraph/11) in force at 8.12.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/130/regulation/1)
+[^c-b9d5b28aa96a4ea52d5fd3f8454ab64a]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ssi/2012/130/schedule/1/paragraph/11) in force at 8.12.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/130/regulation/1)
 
-[^key-df0e1f71543d45eea5d1f91635c12fa7]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ssi/2012/130/schedule/1/paragraph/12) in force at 8.12.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/130/regulation/1)
+[^c-df0e1f71543d45eea5d1f91635c12fa7]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ssi/2012/130/schedule/1/paragraph/12) in force at 8.12.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/130/regulation/1)
 
-[^key-c0bb01691e6f6e56ea8e003f757d7584]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ssi/2012/130/schedule/1/paragraph/13) in force at 8.12.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/130/regulation/1)
+[^c-c0bb01691e6f6e56ea8e003f757d7584]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ssi/2012/130/schedule/1/paragraph/13) in force at 8.12.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/130/regulation/1)
 
 [^f00005]: Footnote: Section 28A of the 1980 Act (duty to comply with parents requests as to schools) was inserted by section 1(1) of the 1981 Act.
 
 [^f00006]: Footnote: Sections 28C to 28G of the 1980 Act (reference to appeal committee of refusal of a placing request; appeal committees; appeal committees – supplementary provisions; appeal to sheriff from appeal committee; application of sections 28A to 28F of, and Schedule A1 to the Act to young persons) were inserted by section 1(1) of the 1981 Act. Section 28C was amended by section 43(3) of the Standards in Scotland’s Schools etc. Act [2000 asp 6](https://www.legislation.gov.uk/asp/2000/6). Section 28D was amended by paragraph 3(7)(b) of schedule 3 to the Education (Additional Support for Learning) (Scotland) Act [2004 asp 4](https://www.legislation.gov.uk/asp/2004/4) (“the 2004 Act”). Section 28E was amended by paragraph 3(8) of schedule 3 to the 2004 Act. Section 28G was amended by section 1(3)(a) and (b) of the School Education (Amendment) (Scotland) Act [2002 asp 2](https://www.legislation.gov.uk/asp/2002/2).
 
-[^key-7a130366994cfa38f24b4a6c4795415b]: Textual amendment: Words in [sch. 1 para. 13(i)](https://www.legislation.gov.uk/ssi/2012/130/schedule/1/paragraph/13/i) substituted (12.1.2018) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Additional Support Needs Tribunals for Scotland) Regulations 2018 (S.S.I. 2018/4)](https://www.legislation.gov.uk/ssi/2018/4), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/4/regulation/1/1), [sch. 2 para. 11(2)](https://www.legislation.gov.uk/ssi/2018/4/schedule/2/paragraph/11/2)
+[^c-7a130366994cfa38f24b4a6c4795415b]: Textual amendment: Words in [sch. 1 para. 13(i)](https://www.legislation.gov.uk/ssi/2012/130/schedule/1/paragraph/13/i) substituted (12.1.2018) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Additional Support Needs Tribunals for Scotland) Regulations 2018 (S.S.I. 2018/4)](https://www.legislation.gov.uk/ssi/2018/4), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/4/regulation/1/1), [sch. 2 para. 11(2)](https://www.legislation.gov.uk/ssi/2018/4/schedule/2/paragraph/11/2)
 
-[^key-eb71dba2c0465e5a7e25ebabd007e03e]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/ssi/2012/130/schedule/1/paragraph/14) in force at 8.12.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/130/regulation/1)
+[^c-eb71dba2c0465e5a7e25ebabd007e03e]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/ssi/2012/130/schedule/1/paragraph/14) in force at 8.12.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/130/regulation/1)
 
 [^f00007]: Footnote: Section 28D of the 1980 Act was inserted by section 1(1) of the 1981 Act and amended by schedule 3, paragraph 3(7)(b) of the 2004 Act.
 
 [^f00008]: Footnote: [2006 asp 8](https://www.legislation.gov.uk/asp/2006/8).
 
-[^key-aee60ada8010205dba232f98b3a1347f]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2012/130/schedule/2/paragraph/1) in force at 8.12.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/130/regulation/1)
+[^c-aee60ada8010205dba232f98b3a1347f]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2012/130/schedule/2/paragraph/1) in force at 8.12.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/130/regulation/1)
 
-[^key-1dc4dc4354cd50ca135a2af7efd571fe]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ssi/2012/130/schedule/3) in force at 8.12.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/130/regulation/1)
+[^c-1dc4dc4354cd50ca135a2af7efd571fe]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ssi/2012/130/schedule/3) in force at 8.12.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/130/regulation/1)

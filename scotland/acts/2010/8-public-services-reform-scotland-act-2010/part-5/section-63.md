@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 63. Special provision for certain care services provided by local authorities[^key-81341983d403b823f6aaaf4abc27b7d7][^key-6a3dfc90b08df1e1d867eb97fac3660f]
+## 63. Special provision for certain care services provided by local authorities[^c-81341983d403b823f6aaaf4abc27b7d7][^c-6a3dfc90b08df1e1d867eb97fac3660f]
 
 *Extent: S*
 
@@ -38,6 +38,6 @@ the authority must within 14 days after receiving the notice notify that determi
 
 ## Annotations
 
-[^key-81341983d403b823f6aaaf4abc27b7d7]: Commencement: S. 63 in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-81341983d403b823f6aaaf4abc27b7d7]: Commencement: S. 63 in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
 
-[^key-6a3dfc90b08df1e1d867eb97fac3660f]: Commencement: S. 63 in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
+[^c-6a3dfc90b08df1e1d867eb97fac3660f]: Commencement: S. 63 in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)

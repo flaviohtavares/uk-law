@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 97. Payments into the Consolidated Fund[^key-660aff35b91ed5397e33123ccc654605]
+## 97. Payments into the Consolidated Fund[^c-660aff35b91ed5397e33123ccc654605]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-660aff35b91ed5397e33123ccc654605]: Commencement: [S. 97](https://www.legislation.gov.uk/ukpga/2025/21/section/97) in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-660aff35b91ed5397e33123ccc654605]: Commencement: [S. 97](https://www.legislation.gov.uk/ukpga/2025/21/section/97) in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)

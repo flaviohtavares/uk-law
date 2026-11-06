@@ -46,7 +46,7 @@ Coming into force
 
 The Commissioners for Her Majesty’s Revenue and Customs make the following Regulations in exercise of the powers conferred by sections 60A and 93 of the Customs and Excise Management Act 1979[^f00001] and section 1 of the Finance (No. 2) Act 1992[^f00002];
 
-## 1. Citation, commencement and effect[^key-521e5d96c21c7c104440364adfa88ec6]
+## 1. Citation, commencement and effect[^c-521e5d96c21c7c104440364adfa88ec6]
 
 (1) These Regulations may be cited as the Excise Goods (Aircraft and Ship’s Stores) Regulations 2015 and come into force on 1st April 2015.
 
@@ -56,7 +56,7 @@ The Commissioners for Her Majesty’s Revenue and Customs make the following Reg
 - (b) shipped as stores on or after 1st April 2015; or
 - (c) carried as stores on or after 1st April 2015, where they were shipped on or after that date.
 
-## 2. Interpretation[^key-1656d19284fd4f362836a497c2f357a5]
+## 2. Interpretation[^c-1656d19284fd4f362836a497c2f357a5]
 
 In these Regulations—
 
@@ -65,27 +65,27 @@ In these Regulations—
 - “duty” means a duty of excise;
 - “excise goods” means goods, other than hydrocarbon oil[^f00004] and biofuel, of a class or description subject to any duty whether or not those goods are in fact chargeable with that duty and whether or not that duty has been paid;
 - “fuel substitute” means a liquid that is charged with duty by section 6A of the Hydrocarbon Oil Duties Act 1979[^f00005];
-- “operator of the railway vehicle” means the person designated as train manager by the person operating the international service on which the railway vehicle is engaged;[^key-e348a6eaae5f280e20e2f85a95b15e68]
+- “operator of the railway vehicle” means the person designated as train manager by the person operating the international service on which the railway vehicle is engaged;[^c-e348a6eaae5f280e20e2f85a95b15e68]
 - “published notice” refers to a notice published by the Commissioners and not withdrawn by a further notice.
 
-## 3. Duty free stores[^key-5c9634e2f685e660fcded8c0eaa60e9b][^key-f00fdc90df50756404e68c83d5f3bed1]
+## 3. Duty free stores[^c-5c9634e2f685e660fcded8c0eaa60e9b][^c-f00fdc90df50756404e68c83d5f3bed1]
 
 (1) Excise goods may be shipped or carried for use on a ship, aircraft or railway vehicle as stores without payment of duty or on drawback in such circumstances as the Commissioners may specify in a published notice.
 
 (2) The power for the Commissioners to specify circumstances in a published notice under paragraph (1) includes power to make different provision in relation to a ship, aircraft or railway vehicle which is on a journey to, from or via Northern Ireland.
 
-## 4. Authorisation to ship or carry duty free stores[^key-2cfb80fd91a0f7e51821e824b8f26734]
+## 4. Authorisation to ship or carry duty free stores[^c-2cfb80fd91a0f7e51821e824b8f26734]
 
 In such circumstances as the Commissioners may specify in a published notice, authorisation must be obtained from them before any excise goods are shipped or carried as stores without payment of duty or on drawback.
 
-**5.**[^key-d8e4bcc220ab0ca4c3d3ba311986830a] The authorisation must be obtained by the master of the ship, operator of the aircraft or operator of the railway vehicle[^key-b94d6c10a0034d06b51c2b36f503738e] on which the excise goods are to be shipped or carried.
+**5.**[^c-d8e4bcc220ab0ca4c3d3ba311986830a] The authorisation must be obtained by the master of the ship, operator of the aircraft or operator of the railway vehicle[^c-b94d6c10a0034d06b51c2b36f503738e] on which the excise goods are to be shipped or carried.
 
-**6.**[^key-52840389debfbbec552d267971d54f29] The authorisation may authorise the shipment or carriage of excise goods as stores —
+**6.**[^c-52840389debfbbec552d267971d54f29] The authorisation may authorise the shipment or carriage of excise goods as stores —
 
-- (a) on a single voyage, flight or railway journey[^key-221b4a46ea17e70a120ff4eba09cf5ac] of a description specified in the authorisation; or
+- (a) on a single voyage, flight or railway journey[^c-221b4a46ea17e70a120ff4eba09cf5ac] of a description specified in the authorisation; or
 - (b) for such a period as the Commissioners may specify in the authorisation.
 
-**7.**[^key-ae4bfc864de77c123551fe75c8843834] (1) An application for authorisation must be made on a form prescribed by the Commissioners in a published notice (“prescribed form”).
+**7.**[^c-ae4bfc864de77c123551fe75c8843834] (1) An application for authorisation must be made on a form prescribed by the Commissioners in a published notice (“prescribed form”).
 
 (2) The person making the application must provide in it accurate information about every matter that the prescribed form requires.
 
@@ -93,35 +93,35 @@ In such circumstances as the Commissioners may specify in a published notice, au
 
 (4) An application for authorisation must be made no later than the time specified in regulation 8.
 
-**8.**[^key-cf9ee48ce2ada9f0c0d6a2313ad42932] The time referred to in regulation 7(4) is—
+**8.**[^c-cf9ee48ce2ada9f0c0d6a2313ad42932] The time referred to in regulation 7(4) is—
 
-- (a) in the case of an application for an authorisation mentioned in regulation 6(a), 24 hours before the voyage, flight or railway journey[^key-d951c5ad444ebb674d8e6963f6a0f419] commences; or
+- (a) in the case of an application for an authorisation mentioned in regulation 6(a), 24 hours before the voyage, flight or railway journey[^c-d951c5ad444ebb674d8e6963f6a0f419] commences; or
 - (b) in the case of an application for an authorisation mentioned in regulation 6(b), 24 hours before the time at which the period in relation to which the application is made commences.
 
-**9.**[^key-ac64b8576decb347603a221480ca39ed] The Commissioners may withdraw an authorisation given under these regulations where the authorised person fails to comply with—
+**9.**[^c-ac64b8576decb347603a221480ca39ed] The Commissioners may withdraw an authorisation given under these regulations where the authorised person fails to comply with—
 
 - (a) any provision made by or under the regulations; or
 - (b) any condition or restriction imposed under the regulations.
 
-## 10. Conditions and restrictions[^key-32ae845a3b19fd8e5a38b9cffd7846ab]
+## 10. Conditions and restrictions[^c-32ae845a3b19fd8e5a38b9cffd7846ab]
 
 The supply, shipping or carriage of excise goods as stores without payment of duty or on drawback is subject to any conditions and restrictions which the Commissioners may specify in a published notice.
 
-## 11. Goods consumed in a port or on a flight in the United Kingdom-payment of duty[^key-af5fd5988871b85fc314a6489b15b2b3]
+## 11. Goods consumed in a port or on a flight in the United Kingdom-payment of duty[^c-af5fd5988871b85fc314a6489b15b2b3]
 
 (1) Where excise goods shipped or carried as stores without payment of duty or on drawback are—
 
-- (a) consumed on board an aircraft on a journey of a description specified by the Commissioners in a published notice; [^key-15cf7d0dce8136068a6188a4f3dc183f]...
-- (b) consumed on board a ship in a port in the United Kingdom in circumstances specified by the Commissioners in a published notice, or[^key-0cae91bf1093a1637cde99875783e9c8]
-- (c)[^key-954743d92c59d4aff2c0a4b55cdd1b8e] consumed on board a railway vehicle in the United Kingdom in circumstances specified by the Commissioners in a published notice,
+- (a) consumed on board an aircraft on a journey of a description specified by the Commissioners in a published notice; [^c-15cf7d0dce8136068a6188a4f3dc183f]...
+- (b) consumed on board a ship in a port in the United Kingdom in circumstances specified by the Commissioners in a published notice, or[^c-0cae91bf1093a1637cde99875783e9c8]
+- (c)[^c-954743d92c59d4aff2c0a4b55cdd1b8e] consumed on board a railway vehicle in the United Kingdom in circumstances specified by the Commissioners in a published notice,
 
 duty must be paid on the goods consumed in accordance with regulation 12.
 
-(2) The Commissioners may specify in a published notice circumstances when goods are to be treated as consumed on a journey, in port or on board a railway vehicle in the United Kingdom.[^key-14a0ff2d3ef4ff58c85b56331cffa6fa]
+(2) The Commissioners may specify in a published notice circumstances when goods are to be treated as consumed on a journey, in port or on board a railway vehicle in the United Kingdom.[^c-14a0ff2d3ef4ff58c85b56331cffa6fa]
 
 (3) The rate of duty shall be the rate in force at the time the goods are consumed or treated as consumed.
 
-**12.**[^key-8171ab47ca784187d5a7d2b095c06b6e] (1) The authorised person must make a return to the Commissioners for each month in which excise goods are consumed or treated as consumed.
+**12.**[^c-8171ab47ca784187d5a7d2b095c06b6e] (1) The authorised person must make a return to the Commissioners for each month in which excise goods are consumed or treated as consumed.
 
 (2) The return must be made no later than the 15th day of the month next following.
 
@@ -143,11 +143,11 @@ duty must be paid on the goods consumed in accordance with regulation 12.
 
 (11) In this regulation “business day” means any day other than a Saturday, Sunday, Christmas Day, Good Friday or a day which is a bank holiday.
 
-## 13. Amendments to the Excise Warehousing (Etc.) Regulations 1988[^key-0300292cf0d48916fdc103601a379e22]
+## 13. Amendments to the Excise Warehousing (Etc.) Regulations 1988[^c-0300292cf0d48916fdc103601a379e22]
 
 The Excise Warehousing (Etc.) Regulations 1988[^f00006] are amended as follows.
 
-**14.**[^key-54f72e795da5cc717e994050d7b4a138] In regulation 15 (removal from warehouse-occupiers responsibilities)—
+**14.**[^c-54f72e795da5cc717e994050d7b4a138] In regulation 15 (removal from warehouse-occupiers responsibilities)—
 
 - (a) at the end of paragraph (e) omit “and”;
 - (b) at the end of paragraph (f) for the full stop substitute “; and”; and
@@ -157,13 +157,13 @@ The Excise Warehousing (Etc.) Regulations 1988[^f00006] are amended as follows.
 
   .
 
-**15.**[^key-6abcd163bfeb0cec0d0f0db90660d8b2] In regulation 16 (removal from warehouse-entry), after paragraph (5) insert—
+**15.**[^c-6abcd163bfeb0cec0d0f0db90660d8b2] In regulation 16 (removal from warehouse-entry), after paragraph (5) insert—
 
 > (6) In any case where, in accordance with regulations made under section 60A of the Customs and Excise Management Act 1979, authorisation is required to ship goods as stores without payment of duty, goods entered for shipment as stores may be removed from warehouse without payment of duty only if a copy of the authorisation has been given to the occupier.
 
 .
 
-**16.**[^key-b88b8e74a4e74cb41230d9e62b25205a] In Schedule 2 (records to be kept by the occupier), after paragraph (j) insert—
+**16.**[^c-b88b8e74a4e74cb41230d9e62b25205a] In Schedule 2 (records to be kept by the occupier), after paragraph (j) insert—
 
 > - (jj) a copy of any authorisation which is required, in accordance with regulations made under section 60A of the Customs and Excise Management Act 1979, to ship goods as stores without payment of duty;
 
@@ -179,11 +179,11 @@ The Excise Warehousing (Etc.) Regulations 1988[^f00006] are amended as follows.
 
 **20.**[^M_F_62b0c37e-ab95-4b24-d81e-17139143f055] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 21. Amendments to the Excise Goods (Holding, Movement and Duty Point) Regulations 2010[^key-17daee92460a0386a2cea6ed0f9a6b36]
+## 21. Amendments to the Excise Goods (Holding, Movement and Duty Point) Regulations 2010[^c-17daee92460a0386a2cea6ed0f9a6b36]
 
 The Excise Goods (Holding, Movement and Duty Point) Regulations 2010 are amended as follows.
 
-**22.**[^key-6e8d49a55d5cf8dda54406a3778640ab] In regulation 7 (goods released for consumption in the United Kingdom-excise duty point), in paragraph (2)(a) before “delivered” insert “lawfully”.
+**22.**[^c-6e8d49a55d5cf8dda54406a3778640ab] In regulation 7 (goods released for consumption in the United Kingdom-excise duty point), in paragraph (2)(a) before “delivered” insert “lawfully”.
 
 Jim Harra
 
@@ -213,9 +213,9 @@ A Tax Information and Impact Note covering this instrument is available on the G
 
 [^f00002]: Footnote: [1992 c. 48](https://www.legislation.gov.uk/ukpga/1992/48).
 
-[^key-521e5d96c21c7c104440364adfa88ec6]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/368/regulation/1) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/368/regulation/1/1)
+[^c-521e5d96c21c7c104440364adfa88ec6]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/368/regulation/1) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/368/regulation/1/1)
 
-[^key-1656d19284fd4f362836a497c2f357a5]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/368/regulation/2) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/368/regulation/1/1)
+[^c-1656d19284fd4f362836a497c2f357a5]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/368/regulation/2) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/368/regulation/1/1)
 
 [^f00003]: Footnote: “Biodiesel” and “bioethanol” have the meaning given in sections 2AA and 2AB of the Hydrocarbon Oil Duties Act 1979 (c. 5), as inserted by section 5(1) of the Finance Act 2002 (c. 23) and section 10(1) of the Finance Act 2004 (c. 12), respectively. Section 1(3) of the Customs and Excise Management Act 1979 (c. 2) provides that any expression used in any instrument made under the Act which is given a meaning in any other Act included in the Customs and Excise Acts 1979 has, except where the context otherwise requires, the same meaning in any such instrument as in that Act. “The Customs and Excise Acts 1979” is defined in section 1(1) of the Customs and Excise Management Act 1979 and includes the Hydrocarbon Oil Duties Act 1979.
 
@@ -223,56 +223,56 @@ A Tax Information and Impact Note covering this instrument is available on the G
 
 [^f00005]: Footnote: 1979 c. 5: section 6A was inserted by the Finance Act 1993 (c. 34), section 11(1) and has been amended by the Finance Act 2000 (c. 17), section 11, the Finance Act 2002 (c. 23), section 7(1) and the Finance Act 2004 (c. 12), sections 10(4) and 12.
 
-[^key-e348a6eaae5f280e20e2f85a95b15e68]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/368/regulation/2) inserted (31.12.2020) by [The Travellers’ Allowances and Miscellaneous Provisions (EU Exit) Regulations 2020 (S.I. 2020/1412)](https://www.legislation.gov.uk/uksi/2020/1412), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1), [21(2)](https://www.legislation.gov.uk/uksi/2020/1412/regulation/21/2)
+[^c-e348a6eaae5f280e20e2f85a95b15e68]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/368/regulation/2) inserted (31.12.2020) by [The Travellers’ Allowances and Miscellaneous Provisions (EU Exit) Regulations 2020 (S.I. 2020/1412)](https://www.legislation.gov.uk/uksi/2020/1412), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1), [21(2)](https://www.legislation.gov.uk/uksi/2020/1412/regulation/21/2)
 
-[^key-5c9634e2f685e660fcded8c0eaa60e9b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/368/regulation/3) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/368/regulation/1/1)
+[^c-5c9634e2f685e660fcded8c0eaa60e9b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/368/regulation/3) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/368/regulation/1/1)
 
-[^key-f00fdc90df50756404e68c83d5f3bed1]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/368/regulation/3) substituted (31.12.2020) by [The Travellers’ Allowances and Miscellaneous Provisions (EU Exit) Regulations 2020 (S.I. 2020/1412)](https://www.legislation.gov.uk/uksi/2020/1412), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1), [21(3)](https://www.legislation.gov.uk/uksi/2020/1412/regulation/21/3)
+[^c-f00fdc90df50756404e68c83d5f3bed1]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/368/regulation/3) substituted (31.12.2020) by [The Travellers’ Allowances and Miscellaneous Provisions (EU Exit) Regulations 2020 (S.I. 2020/1412)](https://www.legislation.gov.uk/uksi/2020/1412), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1), [21(3)](https://www.legislation.gov.uk/uksi/2020/1412/regulation/21/3)
 
-[^key-2cfb80fd91a0f7e51821e824b8f26734]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/368/regulation/4) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/368/regulation/1/1)
+[^c-2cfb80fd91a0f7e51821e824b8f26734]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/368/regulation/4) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/368/regulation/1/1)
 
-[^key-d8e4bcc220ab0ca4c3d3ba311986830a]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2015/368/regulation/5) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/368/regulation/1/1)
+[^c-d8e4bcc220ab0ca4c3d3ba311986830a]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2015/368/regulation/5) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/368/regulation/1/1)
 
-[^key-b94d6c10a0034d06b51c2b36f503738e]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/2015/368/regulation/5) substituted (31.12.2020) by [The Travellers’ Allowances and Miscellaneous Provisions (EU Exit) Regulations 2020 (S.I. 2020/1412)](https://www.legislation.gov.uk/uksi/2020/1412), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1), [21(4)](https://www.legislation.gov.uk/uksi/2020/1412/regulation/21/4)
+[^c-b94d6c10a0034d06b51c2b36f503738e]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/2015/368/regulation/5) substituted (31.12.2020) by [The Travellers’ Allowances and Miscellaneous Provisions (EU Exit) Regulations 2020 (S.I. 2020/1412)](https://www.legislation.gov.uk/uksi/2020/1412), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1), [21(4)](https://www.legislation.gov.uk/uksi/2020/1412/regulation/21/4)
 
-[^key-52840389debfbbec552d267971d54f29]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2015/368/regulation/6) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/368/regulation/1/1)
+[^c-52840389debfbbec552d267971d54f29]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2015/368/regulation/6) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/368/regulation/1/1)
 
-[^key-221b4a46ea17e70a120ff4eba09cf5ac]: Textual amendment: Words in [reg. 6(a)](https://www.legislation.gov.uk/uksi/2015/368/regulation/6/a) substituted (31.12.2020) by [The Travellers’ Allowances and Miscellaneous Provisions (EU Exit) Regulations 2020 (S.I. 2020/1412)](https://www.legislation.gov.uk/uksi/2020/1412), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1), [21(5)](https://www.legislation.gov.uk/uksi/2020/1412/regulation/21/5)
+[^c-221b4a46ea17e70a120ff4eba09cf5ac]: Textual amendment: Words in [reg. 6(a)](https://www.legislation.gov.uk/uksi/2015/368/regulation/6/a) substituted (31.12.2020) by [The Travellers’ Allowances and Miscellaneous Provisions (EU Exit) Regulations 2020 (S.I. 2020/1412)](https://www.legislation.gov.uk/uksi/2020/1412), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1), [21(5)](https://www.legislation.gov.uk/uksi/2020/1412/regulation/21/5)
 
-[^key-ae4bfc864de77c123551fe75c8843834]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2015/368/regulation/7) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/368/regulation/1/1)
+[^c-ae4bfc864de77c123551fe75c8843834]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2015/368/regulation/7) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/368/regulation/1/1)
 
-[^key-cf9ee48ce2ada9f0c0d6a2313ad42932]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2015/368/regulation/8) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/368/regulation/1/1)
+[^c-cf9ee48ce2ada9f0c0d6a2313ad42932]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2015/368/regulation/8) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/368/regulation/1/1)
 
-[^key-d951c5ad444ebb674d8e6963f6a0f419]: Textual amendment: Words in [reg. 8(a)](https://www.legislation.gov.uk/uksi/2015/368/regulation/8/a) substituted (31.12.2020) by [The Travellers’ Allowances and Miscellaneous Provisions (EU Exit) Regulations 2020 (S.I. 2020/1412)](https://www.legislation.gov.uk/uksi/2020/1412), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1), [21(6)](https://www.legislation.gov.uk/uksi/2020/1412/regulation/21/6)
+[^c-d951c5ad444ebb674d8e6963f6a0f419]: Textual amendment: Words in [reg. 8(a)](https://www.legislation.gov.uk/uksi/2015/368/regulation/8/a) substituted (31.12.2020) by [The Travellers’ Allowances and Miscellaneous Provisions (EU Exit) Regulations 2020 (S.I. 2020/1412)](https://www.legislation.gov.uk/uksi/2020/1412), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1), [21(6)](https://www.legislation.gov.uk/uksi/2020/1412/regulation/21/6)
 
-[^key-ac64b8576decb347603a221480ca39ed]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2015/368/regulation/9) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/368/regulation/1/1)
+[^c-ac64b8576decb347603a221480ca39ed]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2015/368/regulation/9) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/368/regulation/1/1)
 
-[^key-32ae845a3b19fd8e5a38b9cffd7846ab]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2015/368/regulation/10) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/368/regulation/1/1)
+[^c-32ae845a3b19fd8e5a38b9cffd7846ab]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2015/368/regulation/10) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/368/regulation/1/1)
 
-[^key-af5fd5988871b85fc314a6489b15b2b3]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2015/368/regulation/11) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/368/regulation/1/1)
+[^c-af5fd5988871b85fc314a6489b15b2b3]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2015/368/regulation/11) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/368/regulation/1/1)
 
-[^key-15cf7d0dce8136068a6188a4f3dc183f]: Textual amendment: Word in [reg. 11(1)(a)](https://www.legislation.gov.uk/uksi/2015/368/regulation/11/1/a) omitted (31.12.2020) by virtue of [The Travellers’ Allowances and Miscellaneous Provisions (EU Exit) Regulations 2020 (S.I. 2020/1412)](https://www.legislation.gov.uk/uksi/2020/1412), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1), [21(7)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1412/regulation/21/7/a/i)
+[^c-15cf7d0dce8136068a6188a4f3dc183f]: Textual amendment: Word in [reg. 11(1)(a)](https://www.legislation.gov.uk/uksi/2015/368/regulation/11/1/a) omitted (31.12.2020) by virtue of [The Travellers’ Allowances and Miscellaneous Provisions (EU Exit) Regulations 2020 (S.I. 2020/1412)](https://www.legislation.gov.uk/uksi/2020/1412), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1), [21(7)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1412/regulation/21/7/a/i)
 
-[^key-0cae91bf1093a1637cde99875783e9c8]: Textual amendment: Word in [reg. 11(1)(b)](https://www.legislation.gov.uk/uksi/2015/368/regulation/11/1/b) inserted (31.12.2020) by [The Travellers’ Allowances and Miscellaneous Provisions (EU Exit) Regulations 2020 (S.I. 2020/1412)](https://www.legislation.gov.uk/uksi/2020/1412), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1), [21(7)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1412/regulation/21/7/a/ii)
+[^c-0cae91bf1093a1637cde99875783e9c8]: Textual amendment: Word in [reg. 11(1)(b)](https://www.legislation.gov.uk/uksi/2015/368/regulation/11/1/b) inserted (31.12.2020) by [The Travellers’ Allowances and Miscellaneous Provisions (EU Exit) Regulations 2020 (S.I. 2020/1412)](https://www.legislation.gov.uk/uksi/2020/1412), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1), [21(7)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1412/regulation/21/7/a/ii)
 
-[^key-954743d92c59d4aff2c0a4b55cdd1b8e]: Textual amendment: [Reg. 11(1)(c)](https://www.legislation.gov.uk/uksi/2015/368/regulation/11/1/c) inserted (31.12.2020) by [The Travellers’ Allowances and Miscellaneous Provisions (EU Exit) Regulations 2020 (S.I. 2020/1412)](https://www.legislation.gov.uk/uksi/2020/1412), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1), [21(7)(a)(iii)](https://www.legislation.gov.uk/uksi/2020/1412/regulation/21/7/a/iii)
+[^c-954743d92c59d4aff2c0a4b55cdd1b8e]: Textual amendment: [Reg. 11(1)(c)](https://www.legislation.gov.uk/uksi/2015/368/regulation/11/1/c) inserted (31.12.2020) by [The Travellers’ Allowances and Miscellaneous Provisions (EU Exit) Regulations 2020 (S.I. 2020/1412)](https://www.legislation.gov.uk/uksi/2020/1412), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1), [21(7)(a)(iii)](https://www.legislation.gov.uk/uksi/2020/1412/regulation/21/7/a/iii)
 
-[^key-14a0ff2d3ef4ff58c85b56331cffa6fa]: Textual amendment: Words in [reg. 11(2)](https://www.legislation.gov.uk/uksi/2015/368/regulation/11/2) substituted (31.12.2020) by [The Travellers’ Allowances and Miscellaneous Provisions (EU Exit) Regulations 2020 (S.I. 2020/1412)](https://www.legislation.gov.uk/uksi/2020/1412), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1), [21(7)(b)](https://www.legislation.gov.uk/uksi/2020/1412/regulation/21/7/b)
+[^c-14a0ff2d3ef4ff58c85b56331cffa6fa]: Textual amendment: Words in [reg. 11(2)](https://www.legislation.gov.uk/uksi/2015/368/regulation/11/2) substituted (31.12.2020) by [The Travellers’ Allowances and Miscellaneous Provisions (EU Exit) Regulations 2020 (S.I. 2020/1412)](https://www.legislation.gov.uk/uksi/2020/1412), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1), [21(7)(b)](https://www.legislation.gov.uk/uksi/2020/1412/regulation/21/7/b)
 
-[^key-8171ab47ca784187d5a7d2b095c06b6e]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2015/368/regulation/12) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/368/regulation/1/1)
+[^c-8171ab47ca784187d5a7d2b095c06b6e]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2015/368/regulation/12) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/368/regulation/1/1)
 
-[^key-0300292cf0d48916fdc103601a379e22]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2015/368/regulation/13) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/368/regulation/1/1)
+[^c-0300292cf0d48916fdc103601a379e22]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2015/368/regulation/13) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/368/regulation/1/1)
 
 [^f00006]: Footnote: S.I. 1988/809; relevant amending instruments are S.I. 1995/1046 and 2010/593.
 
-[^key-54f72e795da5cc717e994050d7b4a138]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2015/368/regulation/14) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/368/regulation/1/1)
+[^c-54f72e795da5cc717e994050d7b4a138]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2015/368/regulation/14) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/368/regulation/1/1)
 
-[^key-6abcd163bfeb0cec0d0f0db90660d8b2]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2015/368/regulation/15) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/368/regulation/1/1)
+[^c-6abcd163bfeb0cec0d0f0db90660d8b2]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2015/368/regulation/15) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/368/regulation/1/1)
 
-[^key-b88b8e74a4e74cb41230d9e62b25205a]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2015/368/regulation/16) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/368/regulation/1/1)
+[^c-b88b8e74a4e74cb41230d9e62b25205a]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2015/368/regulation/16) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/368/regulation/1/1)
 
 [^M_F_62b0c37e-ab95-4b24-d81e-17139143f055]: Textual amendment: Regs. 17-20 revoked (31.12.2020) by [The Travellers’ Allowances and Miscellaneous Provisions (EU Exit) Regulations 2020 (S.I. 2020/1412)](https://www.legislation.gov.uk/uksi/2020/1412), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1), [19](https://www.legislation.gov.uk/uksi/2020/1412/regulation/19)
 
-[^key-17daee92460a0386a2cea6ed0f9a6b36]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2015/368/regulation/21) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/368/regulation/1/1)
+[^c-17daee92460a0386a2cea6ed0f9a6b36]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2015/368/regulation/21) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/368/regulation/1/1)
 
-[^key-6e8d49a55d5cf8dda54406a3778640ab]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2015/368/regulation/22) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/368/regulation/1/1)
+[^c-6e8d49a55d5cf8dda54406a3778640ab]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2015/368/regulation/22) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/368/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Refusal to issue postal signing sheet[^key-c93bb917e52a875fc8b71f6cd7bcabc2]
+## 88. Refusal to issue postal signing sheet[^c-c93bb917e52a875fc8b71f6cd7bcabc2]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Where the petition officer is satisfied that two or more entries in the postal s
 
 ## Annotations
 
-[^key-c93bb917e52a875fc8b71f6cd7bcabc2]: Commencement: Reg. 88 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-c93bb917e52a875fc8b71f6cd7bcabc2]: Commencement: Reg. 88 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

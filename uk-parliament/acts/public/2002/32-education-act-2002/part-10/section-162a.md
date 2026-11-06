@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 162A. Power to inspect registered schools in England[^key-a79a9a357ea520464e1d25a46f5349d7]
+## 162A. Power to inspect registered schools in England[^c-a79a9a357ea520464e1d25a46f5349d7]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a79a9a357ea520464e1d25a46f5349d7]: Textual amendment: S. 162A repealed (5.1.2015) by [Education and Skills Act 2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25), [s. 173(4)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/4), [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2008/25/schedule/1/paragraph/18), [Sch. 2](https://www.legislation.gov.uk/ukpga/2008/25/schedule/2) (with [s. 139](https://www.legislation.gov.uk/ukpga/2008/25/section/139)); [S.I. 2014/3364](https://www.legislation.gov.uk/uksi/2014/3364), [art. 2(z)(aa)](https://www.legislation.gov.uk/uksi/2014/3364/article/2/z/aa) (with [art. 4](https://www.legislation.gov.uk/uksi/2014/3364/article/4))
+[^c-a79a9a357ea520464e1d25a46f5349d7]: Textual amendment: S. 162A repealed (5.1.2015) by [Education and Skills Act 2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25), [s. 173(4)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/4), [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2008/25/schedule/1/paragraph/18), [Sch. 2](https://www.legislation.gov.uk/ukpga/2008/25/schedule/2) (with [s. 139](https://www.legislation.gov.uk/ukpga/2008/25/section/139)); [S.I. 2014/3364](https://www.legislation.gov.uk/uksi/2014/3364), [art. 2(z)(aa)](https://www.legislation.gov.uk/uksi/2014/3364/article/2/z/aa) (with [art. 4](https://www.legislation.gov.uk/uksi/2014/3364/article/4))

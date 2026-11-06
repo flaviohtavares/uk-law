@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 79A. Wales: exercise of powers under sections 77 and 79 in relation to listed buildings, buildings in conservation areas etc.[^key-168b69c81c8d135d6e7037c3c0d47fd4]
+## 79A. Wales: exercise of powers under sections 77 and 79 in relation to listed buildings, buildings in conservation areas etc.[^c-168b69c81c8d135d6e7037c3c0d47fd4]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ a local authority in Wales must consider whether it should instead exercise its 
 
 ## Annotations
 
-[^key-168b69c81c8d135d6e7037c3c0d47fd4]: Textual amendment: [S. 79A](https://www.legislation.gov.uk/ukpga/1984/55/section/79A) inserted (4.11.2024) by [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 65](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/65) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+[^c-168b69c81c8d135d6e7037c3c0d47fd4]: Textual amendment: [S. 79A](https://www.legislation.gov.uk/ukpga/1984/55/section/79A) inserted (4.11.2024) by [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 65](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/65) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)

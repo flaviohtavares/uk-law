@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 11. Saving for Trinity House[^key-00e604632d8800b6a9434d0fd6d18123]
+## 11. Saving for Trinity House[^c-00e604632d8800b6a9434d0fd6d18123]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Nothing in this Order prejudices or derogates from any of the rights, duties or 
 
 ## Annotations
 
-[^key-00e604632d8800b6a9434d0fd6d18123]: Commencement: Art. 11 in force at 15.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1203/article/1)
+[^c-00e604632d8800b6a9434d0fd6d18123]: Commencement: Art. 11 in force at 15.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1203/article/1)

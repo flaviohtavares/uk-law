@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65Z4. Consolidated accounts for NHS trusts and NHS foundation trusts[^key-c5cb390cb88a3d0d97ea4fb5a2034eb4]
+## 65Z4. Consolidated accounts for NHS trusts and NHS foundation trusts[^c-c5cb390cb88a3d0d97ea4fb5a2034eb4]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c5cb390cb88a3d0d97ea4fb5a2034eb4]: Textual amendment: [S. 65Z4](https://www.legislation.gov.uk/ukpga/2006/41/section/65Z4) and cross-heading inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 14](https://www.legislation.gov.uk/ukpga/2022/31/section/14), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [15](https://www.legislation.gov.uk/uksi/2022/734/regulation/15), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-c5cb390cb88a3d0d97ea4fb5a2034eb4]: Textual amendment: [S. 65Z4](https://www.legislation.gov.uk/ukpga/2006/41/section/65Z4) and cross-heading inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 14](https://www.legislation.gov.uk/ukpga/2022/31/section/14), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [15](https://www.legislation.gov.uk/uksi/2022/734/regulation/15), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 120. Rent increase for certain improvements by landlord[^key-065ecb86baf2c81c05a2ad461783f556]
+## 120. Rent increase for certain improvements by landlord[^c-065ecb86baf2c81c05a2ad461783f556]
 
 *Extent: S*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-065ecb86baf2c81c05a2ad461783f556]: Commencement: [S. 120](https://www.legislation.gov.uk/asp/2016/18/section/120) in force at 23.12.2016 by [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule) (with [regs. 3-15](https://www.legislation.gov.uk/ssi/2016/365/regulation/3))
+[^c-065ecb86baf2c81c05a2ad461783f556]: Commencement: [S. 120](https://www.legislation.gov.uk/asp/2016/18/section/120) in force at 23.12.2016 by [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule) (with [regs. 3-15](https://www.legislation.gov.uk/ssi/2016/365/regulation/3))

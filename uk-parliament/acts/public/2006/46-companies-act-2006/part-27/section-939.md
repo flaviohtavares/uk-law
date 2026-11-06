@@ -23,7 +23,7 @@ summary: ''
 (1) Where the court sanctions the compromise or arrangement, it must—
 
 - (a) in the order sanctioning the compromise or arrangement, or
-- (b) in a subsequent order under section 900 or, as the case may be, section 901J[^key-12944fe22c7aa35eac746a55567cb763] (powers of court to facilitate reconstruction or amalgamation),
+- (b) in a subsequent order under section 900 or, as the case may be, section 901J[^c-12944fe22c7aa35eac746a55567cb763] (powers of court to facilitate reconstruction or amalgamation),
 
 fix a date on which the transfer (or transfers) to the transferee company (or transferee companies) of the undertaking, property and liabilities of the transferor company is (or are) to take place.
 
@@ -37,4 +37,4 @@ fix a date on which the transfer (or transfers) to the transferee company (or tr
 
 ## Annotations
 
-[^key-12944fe22c7aa35eac746a55567cb763]: Textual amendment: Words in [s. 939(1)(b)](https://www.legislation.gov.uk/ukpga/2006/46/section/939/1/b) inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 9 para. 36(16)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/9/paragraph/36/16) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-12944fe22c7aa35eac746a55567cb763]: Textual amendment: Words in [s. 939(1)(b)](https://www.legislation.gov.uk/ukpga/2006/46/section/939/1/b) inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 9 para. 36(16)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/9/paragraph/36/16) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))

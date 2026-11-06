@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 107. Limit on Tribunal’s power to make interim orders[^key-3144ed30bd355520a07d85ff469a5571]
+## 107. Limit on Tribunal’s power to make interim orders[^c-3144ed30bd355520a07d85ff469a5571]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The Tribunal may not make an interim order under section 105 or 106 of this Act 
 
 ## Annotations
 
-[^key-3144ed30bd355520a07d85ff469a5571]: Commencement: [S. 107](https://www.legislation.gov.uk/asp/2003/13/section/107) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
+[^c-3144ed30bd355520a07d85ff469a5571]: Commencement: [S. 107](https://www.legislation.gov.uk/asp/2003/13/section/107) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)

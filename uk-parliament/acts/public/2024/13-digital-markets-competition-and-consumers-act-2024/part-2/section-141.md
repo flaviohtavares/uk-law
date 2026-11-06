@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 141. Production of information authorised by warrant[^key-34f3425d5568341135a14fa0f84c7e2f][^key-1465fedf4a81c36391b4117bb52ab16d]
+## 141. Production of information authorised by warrant[^c-34f3425d5568341135a14fa0f84c7e2f][^c-1465fedf4a81c36391b4117bb52ab16d]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-34f3425d5568341135a14fa0f84c7e2f]: Commencement: S. 141 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-34f3425d5568341135a14fa0f84c7e2f]: Commencement: S. 141 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-1465fedf4a81c36391b4117bb52ab16d]: Commencement: [S. 141](https://www.legislation.gov.uk/ukpga/2024/13/section/141) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1/2) (with [Sch. paras. 12](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/12), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
+[^c-1465fedf4a81c36391b4117bb52ab16d]: Commencement: [S. 141](https://www.legislation.gov.uk/ukpga/2024/13/section/141) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1/2) (with [Sch. paras. 12](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/12), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))

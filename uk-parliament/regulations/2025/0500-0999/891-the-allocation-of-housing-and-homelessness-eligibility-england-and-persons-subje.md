@@ -56,7 +56,7 @@ Coming into force
 
 The Secretary of State makes these Regulations in exercise of the powers conferred by sections 160ZA(2) and (4), 172(4), 185(2) and (3) and 215(2) of the Housing Act 1996[^f00001] and sections 118(1)(a), 119(1) and 166(3) of the Immigration and Asylum Act 1999[^f00002].
 
-## 1. Citation, commencement and extent[^key-d62bc520373e81e10d662a10103cb678]
+## 1. Citation, commencement and extent[^c-d62bc520373e81e10d662a10103cb678]
 
 (1) These Regulations may be cited as the Allocation of Housing and Homelessness (Eligibility) (England) and Persons Subject to Immigration Control (Housing Authority Accommodation and Homelessness) (Amendment) Regulations 2025 and come into force on 18th July 2025.
 
@@ -64,7 +64,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 (3) The amendments made by regulations 2 and 3 have the same extent as the provisions which they amend.
 
-## 2. Amendment of the Allocation of Housing and Homelessness (Eligibility) (England) Regulations 2006[^key-089a820dbf4aeb25417c8fe49952060e]
+## 2. Amendment of the Allocation of Housing and Homelessness (Eligibility) (England) Regulations 2006[^c-089a820dbf4aeb25417c8fe49952060e]
 
 *Extent: E+W*
 
@@ -114,7 +114,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 .
 
-## 3. Amendment of the Persons subject to Immigration Control (Housing Authority Accommodation and Homelessness) Order 2000[^key-8ebb9292143d2423c632083142f8588a]
+## 3. Amendment of the Persons subject to Immigration Control (Housing Authority Accommodation and Homelessness) Order 2000[^c-8ebb9292143d2423c632083142f8588a]
 
 (1) The Persons subject to Immigration Control (Housing Authority Accommodation and Homelessness) Order 2000[^f00006] is amended as follows.
 
@@ -168,9 +168,9 @@ A full regulatory impact assessment has not been prepared for this instrument be
 
 [^f00002]: Footnote: [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33); section 119(1) was amended by paragraph 22 of Schedule 15 to the Housing and Regeneration Act [2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17).
 
-[^key-d62bc520373e81e10d662a10103cb678]: Commencement: Reg. 1 in force at 18.7.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/891/regulation/1/1)
+[^c-d62bc520373e81e10d662a10103cb678]: Commencement: Reg. 1 in force at 18.7.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/891/regulation/1/1)
 
-[^key-089a820dbf4aeb25417c8fe49952060e]: Commencement: Reg. 2 in force at 18.7.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/891/regulation/1/1)
+[^c-089a820dbf4aeb25417c8fe49952060e]: Commencement: Reg. 2 in force at 18.7.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/891/regulation/1/1)
 
 [^f00003]: Footnote: [S.I. 2006/1294](https://www.legislation.gov.uk/uksi/2006/1294); relevant amending instruments are [S.I. 2006/2007](https://www.legislation.gov.uk/uksi/2006/2007), [2527](https://www.legislation.gov.uk/uksi/2006/2527), [2009/358](https://www.legislation.gov.uk/uksi/2009/358), [2013/1467](https://www.legislation.gov.uk/uksi/2013/1467), [2014/435](https://www.legislation.gov.uk/uksi/2014/435), [2016/965](https://www.legislation.gov.uk/uksi/2016/965), [2018/730](https://www.legislation.gov.uk/uksi/2018/730), [1056](https://www.legislation.gov.uk/uksi/2018/1056), [2019/861](https://www.legislation.gov.uk/uksi/2019/861), [2020/667](https://www.legislation.gov.uk/uksi/2020/667), [1309](https://www.legislation.gov.uk/uksi/2020/1309), [2021/665](https://www.legislation.gov.uk/uksi/2021/665), [1045](https://www.legislation.gov.uk/uksi/2021/1045), [2022/339](https://www.legislation.gov.uk/uksi/2022/339), [601](https://www.legislation.gov.uk/uksi/2022/601), [1371](https://www.legislation.gov.uk/uksi/2022/1371), [2023/530](https://www.legislation.gov.uk/uksi/2023/530), [1142](https://www.legislation.gov.uk/uksi/2023/1142), [2024/647](https://www.legislation.gov.uk/uksi/2024/647).
 
@@ -178,7 +178,7 @@ A full regulatory impact assessment has not been prepared for this instrument be
 
 [^f00005]: Footnote: “The 1996 Act” is defined in regulation 2(1) of [S.I. 2006/1294](https://www.legislation.gov.uk/uksi/2006/1294).
 
-[^key-8ebb9292143d2423c632083142f8588a]: Commencement: Reg. 3 in force at 18.7.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/891/regulation/1/1)
+[^c-8ebb9292143d2423c632083142f8588a]: Commencement: Reg. 3 in force at 18.7.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/891/regulation/1/1)
 
 [^f00006]: Footnote: [S.I. 2000/706](https://www.legislation.gov.uk/uksi/2000/706); relevant amending instruments are [S.I. 2006/2521](https://www.legislation.gov.uk/uksi/2006/2521), [2008/1768](https://www.legislation.gov.uk/uksi/2008/1768), [2018/729](https://www.legislation.gov.uk/uksi/2018/729), [2020/825](https://www.legislation.gov.uk/uksi/2020/825), [2021/1045](https://www.legislation.gov.uk/uksi/2021/1045), [2022/242](https://www.legislation.gov.uk/uksi/2022/242), [339](https://www.legislation.gov.uk/uksi/2022/339), [601](https://www.legislation.gov.uk/uksi/2022/601), [1371](https://www.legislation.gov.uk/uksi/2022/1371), [2023/530](https://www.legislation.gov.uk/uksi/2023/530), [1142](https://www.legislation.gov.uk/uksi/2023/1142), [2024/647](https://www.legislation.gov.uk/uksi/2024/647).
 

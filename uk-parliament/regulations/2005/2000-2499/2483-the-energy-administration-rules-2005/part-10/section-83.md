@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 83. Notice of resignation[^key-3ca7d02a39777ab527ba3f43bf7649a6]
+## 83. Notice of resignation[^c-3ca7d02a39777ab527ba3f43bf7649a6]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3ca7d02a39777ab527ba3f43bf7649a6]: Commencement: Rule 83 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-3ca7d02a39777ab527ba3f43bf7649a6]: Commencement: Rule 83 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

@@ -32,7 +32,7 @@ summary: ''
 
 National Health Service, England
 
-The Care Quality Commission (Additional Functions) Regulations 2009 (revoked)[^key-1d6f991ee72c23a396b14010fe7c01ef]
+The Care Quality Commission (Additional Functions) Regulations 2009 (revoked)[^c-1d6f991ee72c23a396b14010fe7c01ef]
 
 Made
 
@@ -46,36 +46,36 @@ Coming into force
 
 1st April 2009
 
-[^key-1d6f991ee72c23a396b14010fe7c01ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1d6f991ee72c23a396b14010fe7c01ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-1d6f991ee72c23a396b14010fe7c01ef]
+## 1. Citation, commencement and interpretation[^c-1d6f991ee72c23a396b14010fe7c01ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Review of decision to withhold an item brought to a High Secure Hospital for a patient[^key-1d6f991ee72c23a396b14010fe7c01ef]
+## 2. Review of decision to withhold an item brought to a High Secure Hospital for a patient[^c-1d6f991ee72c23a396b14010fe7c01ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Review of decision to withhold internal post in High Secure Hospitals[^key-1d6f991ee72c23a396b14010fe7c01ef]
+## 3. Review of decision to withhold internal post in High Secure Hospitals[^c-1d6f991ee72c23a396b14010fe7c01ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Review of decisions to record and monitor telephone calls in High Secure Hospitals[^key-1d6f991ee72c23a396b14010fe7c01ef]
+## 4. Review of decisions to record and monitor telephone calls in High Secure Hospitals[^c-1d6f991ee72c23a396b14010fe7c01ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Transitional provision[^key-1d6f991ee72c23a396b14010fe7c01ef]
+## 5. Transitional provision[^c-1d6f991ee72c23a396b14010fe7c01ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1d6f991ee72c23a396b14010fe7c01ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1d6f991ee72c23a396b14010fe7c01ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-1d6f991ee72c23a396b14010fe7c01ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1d6f991ee72c23a396b14010fe7c01ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1d6f991ee72c23a396b14010fe7c01ef]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/410) revoked (1.8.2011) by [The Care Quality Commission (Additional Functions) Regulations 2011 (S.I. 2011/1551)](https://www.legislation.gov.uk/uksi/2011/1551), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1551/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2011/1551/regulation/5)
+[^c-1d6f991ee72c23a396b14010fe7c01ef]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/410) revoked (1.8.2011) by [The Care Quality Commission (Additional Functions) Regulations 2011 (S.I. 2011/1551)](https://www.legislation.gov.uk/uksi/2011/1551), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1551/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2011/1551/regulation/5)

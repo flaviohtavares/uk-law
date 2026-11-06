@@ -30,7 +30,7 @@ summary: ''
 
 ROAD TRAFFIC AND VEHICLES
 
-Goods Vehicles (Testing) (Amendment) (Fees) Regulations (Northern Ireland) 1999 (revoked)[^key-0a6789985378553d9536138cf2f47638]
+Goods Vehicles (Testing) (Amendment) (Fees) Regulations (Northern Ireland) 1999 (revoked)[^c-0a6789985378553d9536138cf2f47638]
 
 Made
 
@@ -40,24 +40,24 @@ Coming into operation
 
 1st April 1999
 
-[^key-0a6789985378553d9536138cf2f47638]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0a6789985378553d9536138cf2f47638]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-0a6789985378553d9536138cf2f47638]
+## 1. Citation and commencement[^c-0a6789985378553d9536138cf2f47638]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Goods Vehicles (Testing) Regulations (Northern Ireland) 1995[^key-0a6789985378553d9536138cf2f47638]
+## 2. Amendment of the Goods Vehicles (Testing) Regulations (Northern Ireland) 1995[^c-0a6789985378553d9536138cf2f47638]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0a6789985378553d9536138cf2f47638]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0a6789985378553d9536138cf2f47638]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-0a6789985378553d9536138cf2f47638]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0a6789985378553d9536138cf2f47638]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0a6789985378553d9536138cf2f47638]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1999/79) revoked (19.6.2000) by [Goods Vehicles (Testing) (Fees) (Amendment) Regulations (Northern Ireland) 2000 (S.R. 2000/152)](https://www.legislation.gov.uk/nisr/2000/152), [reg. 1](https://www.legislation.gov.uk/nisr/2000/152/regulation/1), [3](https://www.legislation.gov.uk/nisr/2000/152/regulation/3)
+[^c-0a6789985378553d9536138cf2f47638]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1999/79) revoked (19.6.2000) by [Goods Vehicles (Testing) (Fees) (Amendment) Regulations (Northern Ireland) 2000 (S.R. 2000/152)](https://www.legislation.gov.uk/nisr/2000/152), [reg. 1](https://www.legislation.gov.uk/nisr/2000/152/regulation/1), [3](https://www.legislation.gov.uk/nisr/2000/152/regulation/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49A. Amount of fixed penalty: international travel requirements[^key-9843e63de277df858c7332fa1801e820]
+## 49A. Amount of fixed penalty: international travel requirements[^c-9843e63de277df858c7332fa1801e820]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9843e63de277df858c7332fa1801e820]: Textual amendment: [Reg. 49A](https://www.legislation.gov.uk/wsi/2020/1609/regulation/49A) omitted (17.5.2021 at 6.00 a.m.) by virtue of [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 10) Regulations 2021 (S.I. 2021/583)](https://www.legislation.gov.uk/wsi/2021/583), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/583/regulation/1/2), [2(9)](https://www.legislation.gov.uk/wsi/2021/583/regulation/2/9)
+[^c-9843e63de277df858c7332fa1801e820]: Textual amendment: [Reg. 49A](https://www.legislation.gov.uk/wsi/2020/1609/regulation/49A) omitted (17.5.2021 at 6.00 a.m.) by virtue of [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 10) Regulations 2021 (S.I. 2021/583)](https://www.legislation.gov.uk/wsi/2021/583), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/583/regulation/1/2), [2(9)](https://www.legislation.gov.uk/wsi/2021/583/regulation/2/9)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Differential funding[^key-0b7b8d5bcc9921cad3a096b771a6bc35]
+## 17. Differential funding[^c-0b7b8d5bcc9921cad3a096b771a6bc35]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A local authority must not use in their formula any factors or criteria which di
 
 ## Annotations
 
-[^key-0b7b8d5bcc9921cad3a096b771a6bc35]: Commencement: [Reg. 17](https://www.legislation.gov.uk/wsi/2010/824/regulation/17) in force at 1.9.2010 for the financial years beginning on or after 1.4.2011, see [reg. 1(1)(2)](https://www.legislation.gov.uk/wsi/2010/824/regulation/1/1)
+[^c-0b7b8d5bcc9921cad3a096b771a6bc35]: Commencement: [Reg. 17](https://www.legislation.gov.uk/wsi/2010/824/regulation/17) in force at 1.9.2010 for the financial years beginning on or after 1.4.2011, see [reg. 1(1)(2)](https://www.legislation.gov.uk/wsi/2010/824/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 184. Money laundering: offences of failing to disclose[^key-78c47ec52be00737279b4d3d7d678956]
+## 184. Money laundering: offences of failing to disclose[^c-78c47ec52be00737279b4d3d7d678956]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-78c47ec52be00737279b4d3d7d678956]: Commencement: S. 184 in force at Royal Assent, see [s. 219(2)(g)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/g)
+[^c-78c47ec52be00737279b4d3d7d678956]: Commencement: S. 184 in force at Royal Assent, see [s. 219(2)(g)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/g)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Withdrawal rights[^key-41faed69f6367192d44bb81c8a69059c]
+## 32. Withdrawal rights[^c-41faed69f6367192d44bb81c8a69059c]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-41faed69f6367192d44bb81c8a69059c]: Commencement: Reg. 32 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)
+[^c-41faed69f6367192d44bb81c8a69059c]: Commencement: Reg. 32 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)

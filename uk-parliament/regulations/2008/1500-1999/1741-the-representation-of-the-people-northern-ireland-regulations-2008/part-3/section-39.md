@@ -24,7 +24,7 @@ summary: ''
 
 - (a) the decision of the registration officer regarding an application for registration under section 58(1)(a) of the 1983 Act[^f00034];
 - (b) the decision of the registration officer made under section 58(1)(b) of the 1983 Act in accordance with regulations 35 to 38 that a person was not entitled to be registered, or as the case may be, has ceased to satisfy the conditions for registration set out in section 4 of the 1983 Act.
-- (c)[^key-e23be7c79a925faf83585e93b002405c] a determination of the registration officer under section 9B(2) of the 1983 Act made in accordance with regulation 38B; or
+- (c)[^c-e23be7c79a925faf83585e93b002405c] a determination of the registration officer under section 9B(2) of the 1983 Act made in accordance with regulation 38B; or
 - (d) a determination of the registration officer under section 9C(1B) of the 1983 Act made in accordance with regulation 38E.
 
 (2) A person desiring to appeal must—
@@ -43,4 +43,4 @@ summary: ''
 
 [^f00034]: Footnote: [1983 c.2](https://www.legislation.gov.uk/ukpga/1983/2); section 58 was substituted by Schedule 4 to the Miscellaneous Provisions Act [2006 (c.33)](https://www.legislation.gov.uk/ukpga/2006/33).
 
-[^key-e23be7c79a925faf83585e93b002405c]: Textual amendment: [Reg. 39(1)(c)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/39/1/c)[(d)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/39/1/d) inserted (15.9.2014) by [The Representation of the People (Northern Ireland) (Amendment) Regulations 2014 (S.I. 2014/1808)](https://www.legislation.gov.uk/uksi/2014/1808), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1808/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2014/1808/regulation/11)
+[^c-e23be7c79a925faf83585e93b002405c]: Textual amendment: [Reg. 39(1)(c)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/39/1/c)[(d)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/39/1/d) inserted (15.9.2014) by [The Representation of the People (Northern Ireland) (Amendment) Regulations 2014 (S.I. 2014/1808)](https://www.legislation.gov.uk/uksi/2014/1808), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1808/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2014/1808/regulation/11)

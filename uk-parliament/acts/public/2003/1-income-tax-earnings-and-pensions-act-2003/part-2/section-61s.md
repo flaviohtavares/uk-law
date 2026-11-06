@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61S. Deductions from chain payments[^key-c5ed4a8550671f87f70e726d21948b20]
+## 61S. Deductions from chain payments[^c-c5ed4a8550671f87f70e726d21948b20]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,12 +28,12 @@ summary: ''
 
 (3) Where a person in the chain other than the intermediary receives a chain payment from which an amount has been deducted in reliance on subsection (2) or this subsection, that person may deduct the same amount from the chain payment made by them.
 
-(4) This section does not apply in a case to which 61V(2) applies (relevant person[^key-8f60e68b32cafdb71bdeb39c0bd86f1b] treated as making deemed direct payment).
+(4) This section does not apply in a case to which 61V(2) applies (relevant person[^c-8f60e68b32cafdb71bdeb39c0bd86f1b] treated as making deemed direct payment).
 
 (5) In subsection (2) “**the underlying chain payment**” means the chain payment whose amount is used at Step 1 of section 61Q(1) as the starting point for calculating the amount of the deemed direct payment.
 
 ## Annotations
 
-[^key-c5ed4a8550671f87f70e726d21948b20]: Textual amendment: Pt. 2 Ch. 10 inserted (with effect in accordance with Sch. 1 para. 16 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2017/10/schedule/1/paragraph/9)
+[^c-c5ed4a8550671f87f70e726d21948b20]: Textual amendment: Pt. 2 Ch. 10 inserted (with effect in accordance with Sch. 1 para. 16 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2017/10/schedule/1/paragraph/9)
 
-[^key-8f60e68b32cafdb71bdeb39c0bd86f1b]: Textual amendment: Words in [s. 61S(4)](https://www.legislation.gov.uk/ukpga/2003/1/section/61S/4) substituted (with effect in accordance with s. 21(10) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 21(4)](https://www.legislation.gov.uk/ukpga/2021/26/section/21/4)
+[^c-8f60e68b32cafdb71bdeb39c0bd86f1b]: Textual amendment: Words in [s. 61S(4)](https://www.legislation.gov.uk/ukpga/2003/1/section/61S/4) substituted (with effect in accordance with s. 21(10) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 21(4)](https://www.legislation.gov.uk/ukpga/2021/26/section/21/4)

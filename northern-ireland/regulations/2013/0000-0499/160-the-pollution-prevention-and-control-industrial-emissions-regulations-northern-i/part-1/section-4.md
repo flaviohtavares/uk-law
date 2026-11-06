@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 4. Fit and proper person[^key-b17d4baec280cad7018d64a66cadb337]
+## 4. Fit and proper person[^c-b17d4baec280cad7018d64a66cadb337]
 
 *Extent: N.I.*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b17d4baec280cad7018d64a66cadb337]: Commencement: Reg. 4 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-b17d4baec280cad7018d64a66cadb337]: Commencement: Reg. 4 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
 [^f00013]: Footnote: [S.I. 1997 No. 2778 (N.I. 19)](https://www.legislation.gov.uk/nisi/1997/2778)

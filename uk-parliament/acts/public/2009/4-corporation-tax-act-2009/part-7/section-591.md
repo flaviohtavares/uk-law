@@ -24,8 +24,8 @@ summary: ''
 
 (2) Condition A is that the relevant contract—
 
-- (a) is a plain vanilla contract entered into or acquired by a company carrying on long-term business[^key-cbe205d8446e9463c7f947c0674e7561],
-- (b) is an approved derivative for the purposes of Rule 3.2.5 of the Prudential Sourcebook for Insurers[^key-2e8c0baeacf8ffe3bad772f1275a4e3d] (within the meaning given by section 139(4) of FA 2012)[^key-9d5dd27e422b8cffbdd9c0b720dbf063], and
+- (a) is a plain vanilla contract entered into or acquired by a company carrying on long-term business[^c-cbe205d8446e9463c7f947c0674e7561],
+- (b) is an approved derivative for the purposes of Rule 3.2.5 of the Prudential Sourcebook for Insurers[^c-2e8c0baeacf8ffe3bad772f1275a4e3d] (within the meaning given by section 139(4) of FA 2012)[^c-9d5dd27e422b8cffbdd9c0b720dbf063], and
 - (c) does not meet the condition in section 579(1)(b) (contract which is or forms part of a financial asset or liability for accounting purposes).
 
 (3) Condition B is that—
@@ -70,8 +70,8 @@ summary: ''
 
 ## Annotations
 
-[^key-cbe205d8446e9463c7f947c0674e7561]: Textual amendment: Words in s. 591(2)(a) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 167(2)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/167/2)
+[^c-cbe205d8446e9463c7f947c0674e7561]: Textual amendment: Words in s. 591(2)(a) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 167(2)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/167/2)
 
-[^key-2e8c0baeacf8ffe3bad772f1275a4e3d]: Textual amendment: Words in s. 591(2)(b) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments) Order 2013 (S.I. 2013/636)](https://www.legislation.gov.uk/uksi/2013/636), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/636/article/1/2), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2013/636/schedule/paragraph/11)
+[^c-2e8c0baeacf8ffe3bad772f1275a4e3d]: Textual amendment: Words in s. 591(2)(b) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments) Order 2013 (S.I. 2013/636)](https://www.legislation.gov.uk/uksi/2013/636), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/636/article/1/2), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2013/636/schedule/paragraph/11)
 
-[^key-9d5dd27e422b8cffbdd9c0b720dbf063]: Textual amendment: Words in s. 591(2)(b) inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 167(3)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/167/3)
+[^c-9d5dd27e422b8cffbdd9c0b720dbf063]: Textual amendment: Words in s. 591(2)(b) inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 167(3)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/167/3)

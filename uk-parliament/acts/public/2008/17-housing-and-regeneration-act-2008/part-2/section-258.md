@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 258. Restrictions on dealings: supplemental[^key-ae64e7de4ae33bfeadeda588e33a54f4]
+## 258. Restrictions on dealings: supplemental[^c-ae64e7de4ae33bfeadeda588e33a54f4]
 
 *Extent: E+W*
 
@@ -27,7 +27,7 @@ summary: ''
 
 (2) Contravention of an order under section 256(4) or 257(2) is an offence.
 
-(3) A person guilty of an offence is liable on summary conviction to a fine [^key-5495194bdfbbd00f2762c024166cbd24]....
+(3) A person guilty of an offence is liable on summary conviction to a fine [^c-5495194bdfbbd00f2762c024166cbd24]....
 
 (4) Proceedings for an offence may be brought only by or with the consent of—
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ae64e7de4ae33bfeadeda588e33a54f4]: Commencement: S. 258 in force at 1.4.2010 by [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
+[^c-ae64e7de4ae33bfeadeda588e33a54f4]: Commencement: S. 258 in force at 1.4.2010 by [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
 
-[^key-5495194bdfbbd00f2762c024166cbd24]: Textual amendment: Words in [s. 258(3)](https://www.legislation.gov.uk/ukpga/2008/17/section/258/3) omitted (20.9.2023) by virtue of [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3), [Sch. 5 para. 35](https://www.legislation.gov.uk/ukpga/2023/36/schedule/5/paragraph/35); [S.I. 2023/1001](https://www.legislation.gov.uk/uksi/2023/1001), [reg. 2(y)(ix)](https://www.legislation.gov.uk/uksi/2023/1001/regulation/2/y/ix)
+[^c-5495194bdfbbd00f2762c024166cbd24]: Textual amendment: Words in [s. 258(3)](https://www.legislation.gov.uk/ukpga/2008/17/section/258/3) omitted (20.9.2023) by virtue of [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3), [Sch. 5 para. 35](https://www.legislation.gov.uk/ukpga/2023/36/schedule/5/paragraph/35); [S.I. 2023/1001](https://www.legislation.gov.uk/uksi/2023/1001), [reg. 2(y)(ix)](https://www.legislation.gov.uk/uksi/2023/1001/regulation/2/y/ix)

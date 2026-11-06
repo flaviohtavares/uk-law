@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 265E. Offences: tethered small unmanned aircraft[^key-1d352a7e4c05c6154e729baa2ffa036c]
+## 265E. Offences: tethered small unmanned aircraft[^c-1d352a7e4c05c6154e729baa2ffa036c]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,10 +42,10 @@ summary: ''
 - (b) where the tethered small unmanned aircraft has a MTOM 250g or more, the following provisions of Part A of that Annex—
   - (i) point UAS.OPEN.010(2) (maximum operating height);
   - (ii) point UAS.OPEN.020(4)(b) (competency);
-  - (iia)[^key-224ca56754dd73fc2da1e7be236958bf] point UAS.OPEN.040(A1) (horizontal distance from uninvolved persons);
+  - (iia)[^c-224ca56754dd73fc2da1e7be236958bf] point UAS.OPEN.040(A1) (horizontal distance from uninvolved persons);
   - (iii) point UAS.OPEN.040(1) (overflight of people);
-  - (iv) point UAS.OPEN.040(2) (horizontal distance from certain areas[^key-28ab02cff78d5255d59d4f14c555a5ef]);
-  - (iva)[^key-414e82eb09ce27d40befb83b52d8dd77] point UAS.OPEN.040(2A) (horizontal distance from buildings);
+  - (iv) point UAS.OPEN.040(2) (horizontal distance from certain areas[^c-28ab02cff78d5255d59d4f14c555a5ef]);
+  - (iva)[^c-414e82eb09ce27d40befb83b52d8dd77] point UAS.OPEN.040(2A) (horizontal distance from buildings);
   - (v) point UAS.OPEN.060(1)(a) insofar as relates to carrying proof of competency;
   - (vi) point UAS.OPEN.060(1)(d) (certain safety checks);
   - (vii) point UAS.OPEN.060(2)(a) (fitness to fly);
@@ -54,7 +54,7 @@ summary: ''
   - (x) point UAS.OPEN.060(2)(c) (geographical zones);
   - (xi) point UAS.OPEN.060(3) (flights close to emergency response).
 
-(3) A remote pilot may fly a tethered small unmanned aircraft in a manner not in compliance with the requirements specified in paragraphs (2)(a)(i), (2)(a)(ii), (2)(a)(v), (2)(b)(i), (2)(b)(iia),[^key-0b3a006417ef8881b7057c8cd735a162] (2)(b)(iii), (2)(b)(iv) , (2)(b)(iva)[^key-7199c09ca14f99a69022d710efcd3911] and (2)(b)(viii) provided that flight or that part of that flight is in accordance with a permission issued by the CAA to the UAS operator.
+(3) A remote pilot may fly a tethered small unmanned aircraft in a manner not in compliance with the requirements specified in paragraphs (2)(a)(i), (2)(a)(ii), (2)(a)(v), (2)(b)(i), (2)(b)(iia),[^c-0b3a006417ef8881b7057c8cd735a162] (2)(b)(iii), (2)(b)(iv) , (2)(b)(iva)[^c-7199c09ca14f99a69022d710efcd3911] and (2)(b)(viii) provided that flight or that part of that flight is in accordance with a permission issued by the CAA to the UAS operator.
 
 (4) For the purposes of paragraphs (1) and (2), any reference to an “unmanned aircraft” or “UAS” in the Unmanned Aircraft Implementing Regulation is to be read as if it includes a tethered small unmanned aircraft or a system that includes such an aircraft.
 
@@ -65,7 +65,7 @@ summary: ''
 
 other than in accordance with a permission issued by the CAA to the UAS operator.
 
-(6) The UAS operator must not cause or permit a tethered small unmanned aircraft[^key-dcb8d2db450554003d8627bc8ea2b2bf] to be flown unless the UAS operator has reasonably formed the view that the remote pilot of the aircraft complies with the requirement specified in paragraph (2)(b)(ii) in relation to that flight.
+(6) The UAS operator must not cause or permit a tethered small unmanned aircraft[^c-dcb8d2db450554003d8627bc8ea2b2bf] to be flown unless the UAS operator has reasonably formed the view that the remote pilot of the aircraft complies with the requirement specified in paragraph (2)(b)(ii) in relation to that flight.
 
 (7) Any person who contravenes paragraph (1), (2), (5) or (6) is guilty of an offence.
 
@@ -73,16 +73,16 @@ other than in accordance with a permission issued by the CAA to the UAS operator
 
 ## Annotations
 
-[^key-1d352a7e4c05c6154e729baa2ffa036c]: Textual amendment: Arts. 265A-265F inserted (31.12.2020) by [The Air Navigation (Amendment) Order 2020 (S.I. 2020/1555)](https://www.legislation.gov.uk/uksi/2020/1555), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/1555/article/1/2), [9](https://www.legislation.gov.uk/uksi/2020/1555/article/9) (with [art. 13](https://www.legislation.gov.uk/uksi/2020/1555/article/13))
+[^c-1d352a7e4c05c6154e729baa2ffa036c]: Textual amendment: Arts. 265A-265F inserted (31.12.2020) by [The Air Navigation (Amendment) Order 2020 (S.I. 2020/1555)](https://www.legislation.gov.uk/uksi/2020/1555), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/1555/article/1/2), [9](https://www.legislation.gov.uk/uksi/2020/1555/article/9) (with [art. 13](https://www.legislation.gov.uk/uksi/2020/1555/article/13))
 
-[^key-224ca56754dd73fc2da1e7be236958bf]: Textual amendment: Art. 265E(2)(b)(iia) inserted (3.3.2026) by [The Air Navigation (Amendment) Order 2026 (S.I. 2026/99)](https://www.legislation.gov.uk/uksi/2026/99), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/99/article/1/2), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2026/99/article/2/2/a/i)
+[^c-224ca56754dd73fc2da1e7be236958bf]: Textual amendment: Art. 265E(2)(b)(iia) inserted (3.3.2026) by [The Air Navigation (Amendment) Order 2026 (S.I. 2026/99)](https://www.legislation.gov.uk/uksi/2026/99), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/99/article/1/2), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2026/99/article/2/2/a/i)
 
-[^key-28ab02cff78d5255d59d4f14c555a5ef]: Textual amendment: Words in art. 265E(2)(b)(iv) substituted (3.3.2026) by [The Air Navigation (Amendment) Order 2026 (S.I. 2026/99)](https://www.legislation.gov.uk/uksi/2026/99), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/99/article/1/2), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/99/article/2/2/a/ii)
+[^c-28ab02cff78d5255d59d4f14c555a5ef]: Textual amendment: Words in art. 265E(2)(b)(iv) substituted (3.3.2026) by [The Air Navigation (Amendment) Order 2026 (S.I. 2026/99)](https://www.legislation.gov.uk/uksi/2026/99), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/99/article/1/2), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/99/article/2/2/a/ii)
 
-[^key-414e82eb09ce27d40befb83b52d8dd77]: Textual amendment: Art. 265E(2)(b)(iva) inserted (3.3.2026) by [The Air Navigation (Amendment) Order 2026 (S.I. 2026/99)](https://www.legislation.gov.uk/uksi/2026/99), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/99/article/1/2), [2(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2026/99/article/2/2/a/iii)
+[^c-414e82eb09ce27d40befb83b52d8dd77]: Textual amendment: Art. 265E(2)(b)(iva) inserted (3.3.2026) by [The Air Navigation (Amendment) Order 2026 (S.I. 2026/99)](https://www.legislation.gov.uk/uksi/2026/99), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/99/article/1/2), [2(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2026/99/article/2/2/a/iii)
 
-[^key-0b3a006417ef8881b7057c8cd735a162]: Textual amendment: Word in art. 265E(3) inserted (3.3.2026) by [The Air Navigation (Amendment) Order 2026 (S.I. 2026/99)](https://www.legislation.gov.uk/uksi/2026/99), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/99/article/1/2), [2(2)(b)(i)](https://www.legislation.gov.uk/uksi/2026/99/article/2/2/b/i)
+[^c-0b3a006417ef8881b7057c8cd735a162]: Textual amendment: Word in art. 265E(3) inserted (3.3.2026) by [The Air Navigation (Amendment) Order 2026 (S.I. 2026/99)](https://www.legislation.gov.uk/uksi/2026/99), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/99/article/1/2), [2(2)(b)(i)](https://www.legislation.gov.uk/uksi/2026/99/article/2/2/b/i)
 
-[^key-7199c09ca14f99a69022d710efcd3911]: Textual amendment: Word in art. 265E(3) inserted (3.3.2026) by [The Air Navigation (Amendment) Order 2026 (S.I. 2026/99)](https://www.legislation.gov.uk/uksi/2026/99), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/99/article/1/2), [2(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2026/99/article/2/2/b/ii)
+[^c-7199c09ca14f99a69022d710efcd3911]: Textual amendment: Word in art. 265E(3) inserted (3.3.2026) by [The Air Navigation (Amendment) Order 2026 (S.I. 2026/99)](https://www.legislation.gov.uk/uksi/2026/99), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/99/article/1/2), [2(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2026/99/article/2/2/b/ii)
 
-[^key-dcb8d2db450554003d8627bc8ea2b2bf]: Textual amendment: Words in art. 265E(6) substituted (19.8.2021) by [The Air Navigation (Amendment) Order 2021 (S.I. 2021/879)](https://www.legislation.gov.uk/uksi/2021/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/879/article/1/1), [9](https://www.legislation.gov.uk/uksi/2021/879/article/9)
+[^c-dcb8d2db450554003d8627bc8ea2b2bf]: Textual amendment: Words in art. 265E(6) substituted (19.8.2021) by [The Air Navigation (Amendment) Order 2021 (S.I. 2021/879)](https://www.legislation.gov.uk/uksi/2021/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/879/article/1/1), [9](https://www.legislation.gov.uk/uksi/2021/879/article/9)

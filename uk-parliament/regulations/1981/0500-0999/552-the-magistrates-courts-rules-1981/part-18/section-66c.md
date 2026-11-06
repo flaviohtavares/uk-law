@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 66C. Request for information by a party or person directly affected by a case[^key-288f66c55f11b3e62d9d5f8488e106ff]
+## 66C. Request for information by a party or person directly affected by a case[^c-288f66c55f11b3e62d9d5f8488e106ff]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-288f66c55f11b3e62d9d5f8488e106ff]: Textual amendment: [Rules 66A-66E](https://www.legislation.gov.uk/uksi/1981/552/rule/66A) substituted for [rules 66A, 66B](https://www.legislation.gov.uk/uksi/1981/552/rule/66A) (28.6.2021) by [The Magistrates’ Courts (Amendment No. 2) Rules 2021 (S.I. 2021/626)](https://www.legislation.gov.uk/uksi/2021/626), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/626/rule/1/1), [2(8)](https://www.legislation.gov.uk/uksi/2021/626/article/2/8)
+[^c-288f66c55f11b3e62d9d5f8488e106ff]: Textual amendment: [Rules 66A-66E](https://www.legislation.gov.uk/uksi/1981/552/rule/66A) substituted for [rules 66A, 66B](https://www.legislation.gov.uk/uksi/1981/552/rule/66A) (28.6.2021) by [The Magistrates’ Courts (Amendment No. 2) Rules 2021 (S.I. 2021/626)](https://www.legislation.gov.uk/uksi/2021/626), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/626/rule/1/1), [2(8)](https://www.legislation.gov.uk/uksi/2021/626/article/2/8)

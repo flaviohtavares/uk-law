@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43A. Continuation of community treatment order[^key-63d004a518f4190cc69495873e5b871f]
+## 43A. Continuation of community treatment order[^c-63d004a518f4190cc69495873e5b871f]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ summary: ''
 
 (2) For the purposes of this section, a person is liable to recall if he is subject to a community treatment order (within the meaning of the Mental Health Act 1983) and, when that order was made, he was liable to be detained in pursuance of an order or direction under Part 3 of that Act.
 
-(3) An order under this section is an order providing for the continuation of the community treatment order and the order or direction under Part 3 of that Act so long as any appeal to the Court of Judicature[^key-945b72d011320e2f691c2953d5294f88] is pending.
+(3) An order under this section is an order providing for the continuation of the community treatment order and the order or direction under Part 3 of that Act so long as any appeal to the Court of Judicature[^c-945b72d011320e2f691c2953d5294f88] is pending.
 
 (4) Where the Appeal Court makes an order under this section, the relevant provisions of the Mental Health Act 1983 with respect to persons liable to recall (including provisions as to the extension of the community treatment period, the removal or discharge of community patients, the revocation of community treatment orders and the re-detention of patients following revocation) shall apply accordingly.
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-63d004a518f4190cc69495873e5b871f]: Textual amendment: S. 43A inserted (3.11.2008) by [Mental Health Act 2007 (c. 12)](https://www.legislation.gov.uk/ukpga/2007/12), [s. 56(1)](https://www.legislation.gov.uk/ukpga/2007/12/section/56/1), [Sch. 4 para. 3(4)](https://www.legislation.gov.uk/ukpga/2007/12/schedule/4/paragraph/3/4); [S.I. 2008/1900](https://www.legislation.gov.uk/uksi/2008/1900), [art. 2(i)](https://www.legislation.gov.uk/uksi/2008/1900/article/2/i) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/1900/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2008/1900/schedule))
+[^c-63d004a518f4190cc69495873e5b871f]: Textual amendment: S. 43A inserted (3.11.2008) by [Mental Health Act 2007 (c. 12)](https://www.legislation.gov.uk/ukpga/2007/12), [s. 56(1)](https://www.legislation.gov.uk/ukpga/2007/12/section/56/1), [Sch. 4 para. 3(4)](https://www.legislation.gov.uk/ukpga/2007/12/schedule/4/paragraph/3/4); [S.I. 2008/1900](https://www.legislation.gov.uk/uksi/2008/1900), [art. 2(i)](https://www.legislation.gov.uk/uksi/2008/1900/article/2/i) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/1900/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2008/1900/schedule))
 
-[^key-945b72d011320e2f691c2953d5294f88]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 6](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/6); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+[^c-945b72d011320e2f691c2953d5294f88]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 6](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/6); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)

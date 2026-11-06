@@ -32,7 +32,7 @@ summary: ''
 
 Representation Of The People
 
-The Service Voters’ Registration Period (Northern Ireland) Order 2008 (revoked)[^key-4450ac104d6b26186ac75475cf15f354]
+The Service Voters’ Registration Period (Northern Ireland) Order 2008 (revoked)[^c-4450ac104d6b26186ac75475cf15f354]
 
 Made
 
@@ -42,24 +42,24 @@ Coming into force
 
 1st July 2008
 
-[^key-4450ac104d6b26186ac75475cf15f354]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4450ac104d6b26186ac75475cf15f354]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-4450ac104d6b26186ac75475cf15f354]
+## 1. Citation, commencement and extent[^c-4450ac104d6b26186ac75475cf15f354]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Persons registered in a register of electors pursuant to a service declaration[^key-4450ac104d6b26186ac75475cf15f354]
+## 2. Persons registered in a register of electors pursuant to a service declaration[^c-4450ac104d6b26186ac75475cf15f354]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4450ac104d6b26186ac75475cf15f354]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4450ac104d6b26186ac75475cf15f354]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4450ac104d6b26186ac75475cf15f354]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4450ac104d6b26186ac75475cf15f354]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4450ac104d6b26186ac75475cf15f354]: Textual amendment: Order revoked (19.3.2010) by The Service Voters’ [Registration Period Order 2010 (S.I. 2010/882)](https://www.legislation.gov.uk/uksi/2010/882), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/882/article/1/2), [6](https://www.legislation.gov.uk/uksi/2010/882/article/6)
+[^c-4450ac104d6b26186ac75475cf15f354]: Textual amendment: Order revoked (19.3.2010) by The Service Voters’ [Registration Period Order 2010 (S.I. 2010/882)](https://www.legislation.gov.uk/uksi/2010/882), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/882/article/1/2), [6](https://www.legislation.gov.uk/uksi/2010/882/article/6)

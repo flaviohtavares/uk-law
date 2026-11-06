@@ -57,8 +57,8 @@ A draft of these Regulations has been laid before, and approved by resolution of
 
 (1) In these Regulations—
 
-- “the charge” (“[^key-372496861b318d381af88935f0953752]*y tâl*”) means the minimum consideration that must be paid by a customer by virtue of regulation 6(2);
-- “consideration” (“[^key-cba15e27c76f7f4f9fe80511171f028a]*cydnabyddiaeth*”) includes any chargeable VAT;
+- “the charge” (“[^c-372496861b318d381af88935f0953752]*y tâl*”) means the minimum consideration that must be paid by a customer by virtue of regulation 6(2);
+- “consideration” (“[^c-cba15e27c76f7f4f9fe80511171f028a]*cydnabyddiaeth*”) includes any chargeable VAT;
 - “**enforcement costs recovery notice**” (“***hysbysiad adennill costau gorfodi***”) has the meaning given in regulation 16(1);
 - “**functions**” (“***swyddogaethau***”) includes powers and duties;
 - “**late payment penalty**” (“***cosb am dalu'n hwyr***”) means any increase in an amount payable—
@@ -132,7 +132,7 @@ But this is subject to paragraph (2).
 
 ## PART 2 — The Charge
 
-### 6. Requirement to charge[^key-a037ff775535f6e743368107af49269e]
+### 6. Requirement to charge[^c-a037ff775535f6e743368107af49269e]
 
 (1) A seller must charge for every single use carrier bag supplied new—
 
@@ -149,13 +149,13 @@ Regulation 6 does not apply in relation to the supply of single use carrier bags
 
 ## PART 3 — Records and Publication
 
-### 7A. Application of this Part[^key-1d3002dcecd80b400a5388db22d6dff4]
+### 7A. Application of this Part[^c-1d3002dcecd80b400a5388db22d6dff4]
 
 (1) This Part applies to a seller in relation to any reporting year in which the seller meets the condition in paragraph (2).
 
 (2) The condition is that on the first day of the reporting year the seller employs ten or more full time equivalent members of staff .
 
-### 8. Record-keeping[^key-97b376ad8ce1d87ede91498b3feedf9a]
+### 8. Record-keeping[^c-97b376ad8ce1d87ede91498b3feedf9a]
 
 (1) A seller must keep a record of the information specified in paragraph (3) for every reporting year.
 
@@ -258,7 +258,7 @@ The following Schedules have effect—
 
 ### 13. Combination of penalties
 
-(1)[^key-47c1208b12c3d142f6578ff3bc89078f] An administrator may not serve a notice of intent in relation to a fixed monetary penalty on a seller in any of the following circumstances—
+(1)[^c-47c1208b12c3d142f6578ff3bc89078f] An administrator may not serve a notice of intent in relation to a fixed monetary penalty on a seller in any of the following circumstances—
 
 - (a) where a discretionary requirement has been imposed on that seller in relation to the same breach;
 - (b) where the seller has discharged liability to a fixed monetary penalty in respect of the same breach by payment of a specified sum;
@@ -477,26 +477,26 @@ Regulation 7
 
 (1) The kinds of single use carrier bags to which regulation 6 does not apply are—
 
-- (za)[^key-02bc0651b839f0c06093bd46856984cd] bags used solely to contain one or more items of the following kinds—
+- (za)[^c-02bc0651b839f0c06093bd46856984cd] bags used solely to contain one or more items of the following kinds—
   - (i) unpackaged food for human or animal consumption;
   - (ii) unpackaged loose seeds, bulbs, corms or rhizomes;
   - (iii) any unpackaged axe, knife, knife blade or razor blade;
   - (iv) unpackaged goods contaminated by soil;
   - (v) items from the categories specified in sub-paragraph (2);
-- (a)[^key-add66370e48c230caeb026c260dba661] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-add66370e48c230caeb026c260dba661] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-add66370e48c230caeb026c260dba661] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-add66370e48c230caeb026c260dba661] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-add66370e48c230caeb026c260dba661] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-add66370e48c230caeb026c260dba661] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-add66370e48c230caeb026c260dba661] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-add66370e48c230caeb026c260dba661] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) bags used solely to contain packaged—
   - (i) uncooked fish or fish products;
   - (ii) uncooked meat or meat products;
   - (iii) uncooked poultry or poultry products,
 
   and in respect of which the maximum dimensions are 205 millimetres (“mm”) (width) x 125 mm (gusset width) x 458 mm (height inclusive of handles);
-- (f)[^key-add66370e48c230caeb026c260dba661] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-add66370e48c230caeb026c260dba661] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (g) bags used to contain purchases made on board ships, trains, aircraft, coaches or buses;
 - (h) bags used to contain purchases made in an area designated by the Secretary of State as a security restricted area under section 11A of the Aviation Security Act 1982 [^c20653591];
-- (i)[^key-3a0e61fd088bedd5211cc1ffe3463885] mail order dispatch and courier bags;
+- (i)[^c-3a0e61fd088bedd5211cc1ffe3463885] mail order dispatch and courier bags;
 - (j) bags which—
   - (i) are made wholly from paper;
   - (ii) have maximum dimensions of 175 mm (width) x 260 mm (height);
@@ -513,36 +513,36 @@ Regulation 7
   - (iii) do not have a handle;
 - (m) gusseted liners used to line or cover boxes, crates or other containers of a similar nature;
 - (n) bags used solely to contain live aquatic creatures in water;
-- (o)[^key-163bd81d00696c3a0121f7bbddf611f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (p)[^key-fd3f49219d71c0e820179c866eea9a87] subject to sub-paragraph (1A), bags intended to be used solely for the purpose of carrying goods purchased—
+- (o)[^c-163bd81d00696c3a0121f7bbddf611f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (p)[^c-fd3f49219d71c0e820179c866eea9a87] subject to sub-paragraph (1A), bags intended to be used solely for the purpose of carrying goods purchased—
   - (i) for delivery as part of a grocery delivery service; or
   - (ii) for collection as part of a service that provides for collection of groceries.
 
-(1A)[^key-2a3216e4661db7ce3e889a6d4680e068] Bags falling within paragraph (p) of sub-paragraph (1) are exempted from the charge under regulation 6 only until midnight on 31 December 2020[^key-28be84bac6b330392bb92bf67b406e9f].
+(1A)[^c-2a3216e4661db7ce3e889a6d4680e068] Bags falling within paragraph (p) of sub-paragraph (1) are exempted from the charge under regulation 6 only until midnight on 31 December 2020[^c-28be84bac6b330392bb92bf67b406e9f].
 
 (2) The specified categories are—
 
-- (a)[^key-171bd60202610a4b698107ed8ab5c907] medicinal products or listed appliances sold in accordance with a prescription issued by a registered medical practitioner, a dentist, a supplementary prescriber, a nurse independent prescriber, an independent nurse prescriber, an optometrist independent prescriber, a pharmacist independent prescriber, a physiotherapist independent prescriber, a podiatrist or a chiropodist independent prescriber , a therapeutic radiographer independent prescriber[^key-7adeae28227e9ac1e091701e798caf58] , a paramedic independent prescriber[^key-637a5b4772eaf65a39bdeff98a25db3a] or an EEA health professional;
-- (b) where sold [^key-4ca625d18f7aa00d2f45720675fb8556]...otherwise than in accordance with paragraph (a), pharmacy medicine.
+- (a)[^c-171bd60202610a4b698107ed8ab5c907] medicinal products or listed appliances sold in accordance with a prescription issued by a registered medical practitioner, a dentist, a supplementary prescriber, a nurse independent prescriber, an independent nurse prescriber, an optometrist independent prescriber, a pharmacist independent prescriber, a physiotherapist independent prescriber, a podiatrist or a chiropodist independent prescriber , a therapeutic radiographer independent prescriber[^c-7adeae28227e9ac1e091701e798caf58] , a paramedic independent prescriber[^c-637a5b4772eaf65a39bdeff98a25db3a] or an EEA health professional;
+- (b) where sold [^c-4ca625d18f7aa00d2f45720675fb8556]...otherwise than in accordance with paragraph (a), pharmacy medicine.
 
 (3) In this paragraph—
 
 - [^c20653601]“**dentist**” (“***deintydd***”) means a person registered in the dentists register kept under section 14 of the Dentists Act 1984 ;
-- [^c20653611]“**EEA health professional**” (“***proffesiynolyn iechyd yr AEE***”) has the meaning given in regulation 213(1) of the Human Medicines Regulations 2012[^key-2668ab7640af16c4f1f69a450a21110b];
-- [^c20653621]“**independent nurse prescriber**” (“***nyrs sy'n rhagnodi'n annibynnol***”) has the meaning given in regulation 2(1) of the National Health Service (Pharmaceutical Services) (Wales) Regulations 2020[^key-6e1a0095aac9d7d94c4b7587269e76bf];
+- [^c20653611]“**EEA health professional**” (“***proffesiynolyn iechyd yr AEE***”) has the meaning given in regulation 213(1) of the Human Medicines Regulations 2012[^c-2668ab7640af16c4f1f69a450a21110b];
+- [^c20653621]“**independent nurse prescriber**” (“***nyrs sy'n rhagnodi'n annibynnol***”) has the meaning given in regulation 2(1) of the National Health Service (Pharmaceutical Services) (Wales) Regulations 2020[^c-6e1a0095aac9d7d94c4b7587269e76bf];
 - “**listed appliances**” (“***cyfarpar rhestredig***”) means listed appliances within the meaning of any of the following—
   - (a) [^c20653631]section 80 of the National Health Service (Wales) Act 2006 ;
   - (b) [^c20653641]article 63 of the Health and Personal Social Services (Northern Ireland) Order 1972 ;
   - (c) [^c20653651]section 27 of the National Health Service (Scotland) Act 1978 ;
   - (d) [^c20653661]section 126 of the National Health Service Act 2006 ;
 - [^c20653671]“**medicinal product**” (“***cynnyrch meddyginiaethol***”) has the meaning given in section 130 of the Medicines Act 1968;
-- “paramedic independent prescriber” ([^key-f8a2f5d50f2deb19b216b5209258b6a7]*“parafeddyg-ragnodydd annibynnol”*) has the meaning given in regulation 2(1) of the National Health Service (Pharmaceutical Services) (Wales) Regulations 2020;
-- “**pharmacy medicine**” (“***meddyginiaeth fferyllol***”) has the meaning given in regulation 5(5) of the Human Medicines Regulations 2012;[^key-e625846206ecbb882b99e70a6e5a3983]
-- “physiotherapist independent prescriber” (“[^key-b9c3103558a7a4ee10a4e50325b8c585]*ffisiotherapydd-ragnodydd annibynnol*”) has the meaning given in regulation 2(1) of the National Health Service (Pharmaceutical Services) (Wales) Regulations 2020;
+- “paramedic independent prescriber” ([^c-f8a2f5d50f2deb19b216b5209258b6a7]*“parafeddyg-ragnodydd annibynnol”*) has the meaning given in regulation 2(1) of the National Health Service (Pharmaceutical Services) (Wales) Regulations 2020;
+- “**pharmacy medicine**” (“***meddyginiaeth fferyllol***”) has the meaning given in regulation 5(5) of the Human Medicines Regulations 2012;[^c-e625846206ecbb882b99e70a6e5a3983]
+- “physiotherapist independent prescriber” (“[^c-b9c3103558a7a4ee10a4e50325b8c585]*ffisiotherapydd-ragnodydd annibynnol*”) has the meaning given in regulation 2(1) of the National Health Service (Pharmaceutical Services) (Wales) Regulations 2020;
 - “podiatrist or chiropodist independent prescriber” (“*podiatrydd-ragnodydd neu giropodydd-ragnodydd annibynnol*”) has the meaning given in regulation 2(1) of the National Health Service (Pharmaceutical Services) (Wales) Regulations 2020;
-- “**prescription only medicine**” (“***meddyginiaeth drwy bresgripsiwn yn unig***”) has the meaning given in regulation 5(3) of the Human Medicines Regulations 2012;[^key-3207205c9a9a6aa5f0f2d31316ebb7f8]
-- [^c20653721]“**supplementary prescriber**” (“***rhagnodydd atodol***”), “**nurse independent prescriber**” (“***nyrs-ragnodydd annibynnol***”), “**optometrist independent prescriber**” (“***optometrydd-ragnodydd annibynnol***”) and “**pharmacist independent prescriber**” (“***fferyllydd-ragnodydd annibynnol***”) each have the meanings respectively ascribed to them in regulation 8(1) of the Human Medicines Regulations 2012[^key-8e5c7d102039ec33e770390a6671b877];
-- “therapeutic radiographer independent prescriber”[^key-216c01babaf8c98bbbcac9521228a10e] *(“radiograffydd therapiwtig-ragnodydd annibynnol”)* has the meaning given in regulation 2(1) of the National Health Service (Pharmaceutical Services) (Wales) Regulations 2020;
+- “**prescription only medicine**” (“***meddyginiaeth drwy bresgripsiwn yn unig***”) has the meaning given in regulation 5(3) of the Human Medicines Regulations 2012;[^c-3207205c9a9a6aa5f0f2d31316ebb7f8]
+- [^c20653721]“**supplementary prescriber**” (“***rhagnodydd atodol***”), “**nurse independent prescriber**” (“***nyrs-ragnodydd annibynnol***”), “**optometrist independent prescriber**” (“***optometrydd-ragnodydd annibynnol***”) and “**pharmacist independent prescriber**” (“***fferyllydd-ragnodydd annibynnol***”) each have the meanings respectively ascribed to them in regulation 8(1) of the Human Medicines Regulations 2012[^c-8e5c7d102039ec33e770390a6671b877];
+- “therapeutic radiographer independent prescriber”[^c-216c01babaf8c98bbbcac9521228a10e] *(“radiograffydd therapiwtig-ragnodydd annibynnol”)* has the meaning given in regulation 2(1) of the National Health Service (Pharmaceutical Services) (Wales) Regulations 2020;
 - “**unpackaged**” (“***heb ei becynnu***”) means wholly or partly unwrapped.
 
 ## SCHEDULE 2 — Fixed monetary penalties
@@ -911,17 +911,17 @@ A draft of the Regulations was notified to the European Commission in accordance
 
 [^c20653471]: Marginal citation: *See* section 97 of that Act for the definition of “devolved legislature”.
 
-[^key-372496861b318d381af88935f0953752]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2010/2880/regulation/2/1) substituted (1.10.2011) by [The Single Use Carrier Bags Charge (Wales) (Amendment) Regulations 2011 (S.I. 2011/2184)](https://www.legislation.gov.uk/wsi/2011/2184), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2011/2184/regulation/1/2), [3(1)(a)](https://www.legislation.gov.uk/wsi/2011/2184/regulation/3/1/a)
+[^c-372496861b318d381af88935f0953752]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2010/2880/regulation/2/1) substituted (1.10.2011) by [The Single Use Carrier Bags Charge (Wales) (Amendment) Regulations 2011 (S.I. 2011/2184)](https://www.legislation.gov.uk/wsi/2011/2184), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2011/2184/regulation/1/2), [3(1)(a)](https://www.legislation.gov.uk/wsi/2011/2184/regulation/3/1/a)
 
-[^key-cba15e27c76f7f4f9fe80511171f028a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2010/2880/regulation/2/1) inserted (1.10.2011) by [The Single Use Carrier Bags Charge (Wales) (Amendment) Regulations 2011 (S.I. 2011/2184)](https://www.legislation.gov.uk/wsi/2011/2184), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2011/2184/regulation/1/2), [3(1)(b)](https://www.legislation.gov.uk/wsi/2011/2184/regulation/3/1/b)
+[^c-cba15e27c76f7f4f9fe80511171f028a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2010/2880/regulation/2/1) inserted (1.10.2011) by [The Single Use Carrier Bags Charge (Wales) (Amendment) Regulations 2011 (S.I. 2011/2184)](https://www.legislation.gov.uk/wsi/2011/2184), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2011/2184/regulation/1/2), [3(1)(b)](https://www.legislation.gov.uk/wsi/2011/2184/regulation/3/1/b)
 
 [^c20653481]: Marginal citation: For the definition of “administrator”, *see* paragraph 6(1) and (4) of Schedule 6 to the Climate Change Act 2008; and for the scope of administrators' powers under these Regulations, *see* regulation 19.
 
-[^key-a037ff775535f6e743368107af49269e]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/wsi/2010/2880/regulation/6) substituted (1.10.2011) by [The Single Use Carrier Bags Charge (Wales) (Amendment) Regulations 2011 (S.I. 2011/2184)](https://www.legislation.gov.uk/wsi/2011/2184), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2011/2184/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2011/2184/regulation/4)
+[^c-a037ff775535f6e743368107af49269e]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/wsi/2010/2880/regulation/6) substituted (1.10.2011) by [The Single Use Carrier Bags Charge (Wales) (Amendment) Regulations 2011 (S.I. 2011/2184)](https://www.legislation.gov.uk/wsi/2011/2184), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2011/2184/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2011/2184/regulation/4)
 
-[^key-1d3002dcecd80b400a5388db22d6dff4]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/wsi/2010/2880/regulation/7A) inserted (1.10.2011) by [The Single Use Carrier Bags Charge (Wales) (Amendment) Regulations 2011 (S.I. 2011/2184)](https://www.legislation.gov.uk/wsi/2011/2184), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2011/2184/regulation/1/2), [5](https://www.legislation.gov.uk/wsi/2011/2184/regulation/5)
+[^c-1d3002dcecd80b400a5388db22d6dff4]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/wsi/2010/2880/regulation/7A) inserted (1.10.2011) by [The Single Use Carrier Bags Charge (Wales) (Amendment) Regulations 2011 (S.I. 2011/2184)](https://www.legislation.gov.uk/wsi/2011/2184), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2011/2184/regulation/1/2), [5](https://www.legislation.gov.uk/wsi/2011/2184/regulation/5)
 
-[^key-97b376ad8ce1d87ede91498b3feedf9a]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/wsi/2010/2880/regulation/8) substituted (1.10.2011) by [The Single Use Carrier Bags Charge (Wales) (Amendment) Regulations 2011 (S.I. 2011/2184)](https://www.legislation.gov.uk/wsi/2011/2184), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2011/2184/regulation/1/2), [6](https://www.legislation.gov.uk/wsi/2011/2184/regulation/6)
+[^c-97b376ad8ce1d87ede91498b3feedf9a]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/wsi/2010/2880/regulation/8) substituted (1.10.2011) by [The Single Use Carrier Bags Charge (Wales) (Amendment) Regulations 2011 (S.I. 2011/2184)](https://www.legislation.gov.uk/wsi/2011/2184), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2011/2184/regulation/1/2), [6](https://www.legislation.gov.uk/wsi/2011/2184/regulation/6)
 
 [^c20653531]: Marginal citation: For the meaning of “fixed monetary penalty”
 
@@ -931,7 +931,7 @@ A draft of the Regulations was notified to the European Commission in accordance
 
     *see* paragraph 12(3) of Schedule 6 to that Act.
 
-[^key-47c1208b12c3d142f6578ff3bc89078f]: Textual amendment: [Reg. 13(1)](https://www.legislation.gov.uk/wsi/2010/2880/regulation/13/1) substituted (1.10.2011) by [The Single Use Carrier Bags Charge (Wales) (Amendment) Regulations 2011 (S.I. 2011/2184)](https://www.legislation.gov.uk/wsi/2011/2184), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2011/2184/regulation/1/2), [7](https://www.legislation.gov.uk/wsi/2011/2184/regulation/7)
+[^c-47c1208b12c3d142f6578ff3bc89078f]: Textual amendment: [Reg. 13(1)](https://www.legislation.gov.uk/wsi/2010/2880/regulation/13/1) substituted (1.10.2011) by [The Single Use Carrier Bags Charge (Wales) (Amendment) Regulations 2011 (S.I. 2011/2184)](https://www.legislation.gov.uk/wsi/2011/2184), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2011/2184/regulation/1/2), [7](https://www.legislation.gov.uk/wsi/2011/2184/regulation/7)
 
 [^c20653551]: Marginal citation: For the meaning of “non-monetary discretionary requirement”
 
@@ -943,39 +943,39 @@ A draft of the Regulations was notified to the European Commission in accordance
 
 [^c20653581]: Marginal citation: Appeals are assigned to the General Regulatory Chamber of the First-tier Tribunal by virtue of article 5B(a) of the First-tier Tribunal and Upper Tribunal (Chambers) Order 2008 ([S.I. 2008/2684](https://www.legislation.gov.uk/uksi/2008/2684), amended by [S.I. 2009/196](https://www.legislation.gov.uk/uksi/2009/196), 2009/1021 and 2009/1590). [The Tribunal Procedure (First-tier Tribunal) (General Regulatory Chamber) Rules 2009 (S.I. 2009/1976)](https://www.legislation.gov.uk/uksi/2009/1976) sets out procedural rules relating to such appeals.
 
-[^key-02bc0651b839f0c06093bd46856984cd]: Textual amendment: Sch. 1 para. 1(1)(za) inserted (1.10.2011) by [The Single Use Carrier Bags Charge (Wales) (Amendment) Regulations 2011 (S.I. 2011/2184)](https://www.legislation.gov.uk/wsi/2011/2184), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2011/2184/regulation/1/2), [8(1)(a)](https://www.legislation.gov.uk/wsi/2011/2184/regulation/8/1/a)
+[^c-02bc0651b839f0c06093bd46856984cd]: Textual amendment: Sch. 1 para. 1(1)(za) inserted (1.10.2011) by [The Single Use Carrier Bags Charge (Wales) (Amendment) Regulations 2011 (S.I. 2011/2184)](https://www.legislation.gov.uk/wsi/2011/2184), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2011/2184/regulation/1/2), [8(1)(a)](https://www.legislation.gov.uk/wsi/2011/2184/regulation/8/1/a)
 
-[^key-add66370e48c230caeb026c260dba661]: Textual amendment: Sch. 1 para. 1(1)(a)-(d) (f) omitted (1.10.2011) by virtue of [The Single Use Carrier Bags Charge (Wales) (Amendment) Regulations 2011 (S.I. 2011/2184)](https://www.legislation.gov.uk/wsi/2011/2184), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2011/2184/regulation/1/2), [8(1)(b)](https://www.legislation.gov.uk/wsi/2011/2184/regulation/8/1/b)
+[^c-add66370e48c230caeb026c260dba661]: Textual amendment: Sch. 1 para. 1(1)(a)-(d) (f) omitted (1.10.2011) by virtue of [The Single Use Carrier Bags Charge (Wales) (Amendment) Regulations 2011 (S.I. 2011/2184)](https://www.legislation.gov.uk/wsi/2011/2184), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2011/2184/regulation/1/2), [8(1)(b)](https://www.legislation.gov.uk/wsi/2011/2184/regulation/8/1/b)
 
 [^c20653591]: Marginal citation: [1982 c. 36](https://www.legislation.gov.uk/ukpga/1982/36); section 11A was inserted by the [Aviation and Maritime Security Act 1990 (c. 31)](https://www.legislation.gov.uk/ukpga/1990/31), [Schedule 1](https://www.legislation.gov.uk/ukpga/1990/31/schedule/1), [paragraph 3](https://www.legislation.gov.uk/ukpga/1990/31/paragraph/3); and amended by [S.I. 2010/902](https://www.legislation.gov.uk/uksi/2010/902), [regulations 3](https://www.legislation.gov.uk/uksi/2010/902/regulation/3) and 9(b).
 
-[^key-3a0e61fd088bedd5211cc1ffe3463885]: Textual amendment: Sch. 1 para. 1(1)(i) substituted (1.10.2011) by [The Single Use Carrier Bags Charge (Wales) (Amendment) Regulations 2011 (S.I. 2011/2184)](https://www.legislation.gov.uk/wsi/2011/2184), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2011/2184/regulation/1/2), [8(1)(c)](https://www.legislation.gov.uk/wsi/2011/2184/regulation/8/1/c)
+[^c-3a0e61fd088bedd5211cc1ffe3463885]: Textual amendment: Sch. 1 para. 1(1)(i) substituted (1.10.2011) by [The Single Use Carrier Bags Charge (Wales) (Amendment) Regulations 2011 (S.I. 2011/2184)](https://www.legislation.gov.uk/wsi/2011/2184), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2011/2184/regulation/1/2), [8(1)(c)](https://www.legislation.gov.uk/wsi/2011/2184/regulation/8/1/c)
 
-[^key-163bd81d00696c3a0121f7bbddf611f4]: Textual amendment: Sch. 1 para. 1(1)(o) omitted (1.10.2011) by virtue of [The Single Use Carrier Bags Charge (Wales) (Amendment) Regulations 2011 (S.I. 2011/2184)](https://www.legislation.gov.uk/wsi/2011/2184), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2011/2184/regulation/1/2), [8(1)(d)](https://www.legislation.gov.uk/wsi/2011/2184/regulation/8/1/d)
+[^c-163bd81d00696c3a0121f7bbddf611f4]: Textual amendment: Sch. 1 para. 1(1)(o) omitted (1.10.2011) by virtue of [The Single Use Carrier Bags Charge (Wales) (Amendment) Regulations 2011 (S.I. 2011/2184)](https://www.legislation.gov.uk/wsi/2011/2184), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2011/2184/regulation/1/2), [8(1)(d)](https://www.legislation.gov.uk/wsi/2011/2184/regulation/8/1/d)
 
-[^key-fd3f49219d71c0e820179c866eea9a87]: Textual amendment: Sch. 1 para. 1(1)(p) inserted (9.4.2020) by [The Single Use Carrier Bags Charge (Wales) (Amendment) Regulations 2020 (S.I. 2020/414)](https://www.legislation.gov.uk/wsi/2020/414), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/414/regulation/1/2), [3(a)](https://www.legislation.gov.uk/wsi/2020/414/regulation/3/a)
+[^c-fd3f49219d71c0e820179c866eea9a87]: Textual amendment: Sch. 1 para. 1(1)(p) inserted (9.4.2020) by [The Single Use Carrier Bags Charge (Wales) (Amendment) Regulations 2020 (S.I. 2020/414)](https://www.legislation.gov.uk/wsi/2020/414), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/414/regulation/1/2), [3(a)](https://www.legislation.gov.uk/wsi/2020/414/regulation/3/a)
 
-[^key-2a3216e4661db7ce3e889a6d4680e068]: Textual amendment: Sch. 1 para. 1(1A) inserted (9.4.2020) by [The Single Use Carrier Bags Charge (Wales) (Amendment) Regulations 2020 (S.I. 2020/414)](https://www.legislation.gov.uk/wsi/2020/414), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/414/regulation/1/2), [3(b)](https://www.legislation.gov.uk/wsi/2020/414/regulation/3/b)
+[^c-2a3216e4661db7ce3e889a6d4680e068]: Textual amendment: Sch. 1 para. 1(1A) inserted (9.4.2020) by [The Single Use Carrier Bags Charge (Wales) (Amendment) Regulations 2020 (S.I. 2020/414)](https://www.legislation.gov.uk/wsi/2020/414), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/414/regulation/1/2), [3(b)](https://www.legislation.gov.uk/wsi/2020/414/regulation/3/b)
 
-[^key-28be84bac6b330392bb92bf67b406e9f]: Textual amendment: Words in Sch. 1 para. 1(1A) substituted (9.7.2020) by [The Single Use Carrier Bags Charge (Wales) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/593)](https://www.legislation.gov.uk/wsi/2020/593), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/593/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2020/593/regulation/2/2)
+[^c-28be84bac6b330392bb92bf67b406e9f]: Textual amendment: Words in Sch. 1 para. 1(1A) substituted (9.7.2020) by [The Single Use Carrier Bags Charge (Wales) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/593)](https://www.legislation.gov.uk/wsi/2020/593), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/593/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2020/593/regulation/2/2)
 
-[^key-171bd60202610a4b698107ed8ab5c907]: Textual amendment: Sch. 1 para. 1(2)(a) substituted (24.9.2014) by [The National Health Service (Physiotherapist, Podiatrist or Chiropodist Independent Prescribers) (Miscellaneous Amendments) (Wales) Regulations 2014 (S.I. 2014/2291)](https://www.legislation.gov.uk/wsi/2014/2291), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/2291/regulation/1/1), [5(2)](https://www.legislation.gov.uk/wsi/2014/2291/regulation/5/2)
+[^c-171bd60202610a4b698107ed8ab5c907]: Textual amendment: Sch. 1 para. 1(2)(a) substituted (24.9.2014) by [The National Health Service (Physiotherapist, Podiatrist or Chiropodist Independent Prescribers) (Miscellaneous Amendments) (Wales) Regulations 2014 (S.I. 2014/2291)](https://www.legislation.gov.uk/wsi/2014/2291), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/2291/regulation/1/1), [5(2)](https://www.legislation.gov.uk/wsi/2014/2291/regulation/5/2)
 
-[^key-7adeae28227e9ac1e091701e798caf58]: Textual amendment: Words in Sch. 1 para. 1(2)(a) inserted (9.1.2017) by [The National Health Service (Therapeutic Radiographer Independent Prescriber and Dietitian Supplementary Prescriber) (Miscellaneous Amendments) (Wales) Regulations 2016 (S.I. 2016/1221)](https://www.legislation.gov.uk/wsi/2016/1221), [regs. 1](https://www.legislation.gov.uk/wsi/2016/1221/regulation/1), [5(2)](https://www.legislation.gov.uk/wsi/2016/1221/regulation/5/2)
+[^c-7adeae28227e9ac1e091701e798caf58]: Textual amendment: Words in Sch. 1 para. 1(2)(a) inserted (9.1.2017) by [The National Health Service (Therapeutic Radiographer Independent Prescriber and Dietitian Supplementary Prescriber) (Miscellaneous Amendments) (Wales) Regulations 2016 (S.I. 2016/1221)](https://www.legislation.gov.uk/wsi/2016/1221), [regs. 1](https://www.legislation.gov.uk/wsi/2016/1221/regulation/1), [5(2)](https://www.legislation.gov.uk/wsi/2016/1221/regulation/5/2)
 
-[^key-637a5b4772eaf65a39bdeff98a25db3a]: Textual amendment: Words in Sch. 1 para. 1(2)(a) inserted (22.2.2019) by [The National Health Service (Paramedic Independent Prescriber and Paramedic Supplementary Prescriber) (Wales) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/149)](https://www.legislation.gov.uk/wsi/2019/149), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/149/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/wsi/2019/149/regulation/4/2/a)
+[^c-637a5b4772eaf65a39bdeff98a25db3a]: Textual amendment: Words in Sch. 1 para. 1(2)(a) inserted (22.2.2019) by [The National Health Service (Paramedic Independent Prescriber and Paramedic Supplementary Prescriber) (Wales) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/149)](https://www.legislation.gov.uk/wsi/2019/149), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/149/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/wsi/2019/149/regulation/4/2/a)
 
-[^key-4ca625d18f7aa00d2f45720675fb8556]: Textual amendment: Words in Sch. 1 para. 1(2)(b) omitted (1.10.2011) by virtue of [The Single Use Carrier Bags Charge (Wales) (Amendment) Regulations 2011 (S.I. 2011/2184)](https://www.legislation.gov.uk/wsi/2011/2184), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2011/2184/regulation/1/2), [8(2)](https://www.legislation.gov.uk/wsi/2011/2184/regulation/8/2)
+[^c-4ca625d18f7aa00d2f45720675fb8556]: Textual amendment: Words in Sch. 1 para. 1(2)(b) omitted (1.10.2011) by virtue of [The Single Use Carrier Bags Charge (Wales) (Amendment) Regulations 2011 (S.I. 2011/2184)](https://www.legislation.gov.uk/wsi/2011/2184), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2011/2184/regulation/1/2), [8(2)](https://www.legislation.gov.uk/wsi/2011/2184/regulation/8/2)
 
 [^c20653601]: Marginal citation: [1984 c. 24](https://www.legislation.gov.uk/ukpga/1984/24); section 14 was substituted by [S.I. 2005/2011](https://www.legislation.gov.uk/uksi/2005/2011), [articles 2(1)](https://www.legislation.gov.uk/uksi/2005/2011/article/2/1) and 6; and amended by [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101), [regulations 109](https://www.legislation.gov.uk/uksi/2007/3101/regulation/109) and 111.
 
 [^c20653611]: Marginal citation: [S.I. 2008/1692](https://www.legislation.gov.uk/uksi/2008/1692), to which there are amendments not relevant to these Regulations.
 
-[^key-2668ab7640af16c4f1f69a450a21110b]: Textual amendment: Words in Sch. 1(3) substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 101(a)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/101/a) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
+[^c-2668ab7640af16c4f1f69a450a21110b]: Textual amendment: Words in Sch. 1(3) substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 101(a)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/101/a) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
 
 [^c20653621]: Marginal citation: [S.I. 1992/662](https://www.legislation.gov.uk/uksi/1992/662); relevant amending instruments are [S.I. 2003/2624](https://www.legislation.gov.uk/uksi/2003/2624) (W. 252), [S.I. 2007/205](https://www.legislation.gov.uk/uksi/2007/205) (W. 19) and [S.I. 2010/1647](https://www.legislation.gov.uk/uksi/2010/1647) (W.155).
 
-[^key-6e1a0095aac9d7d94c4b7587269e76bf]: Textual amendment: Words in [Sch. 1 para. 1(3)](https://www.legislation.gov.uk/wsi/2010/2880/schedule/1/paragraph/1/3) substituted (1.10.2020) by [The National Health Service (Pharmaceutical Services) (Wales) Regulations 2020 (S.I. 2020/1073)](https://www.legislation.gov.uk/wsi/2020/1073), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2), [Sch. 8 para. 6](https://www.legislation.gov.uk/wsi/2020/1073/schedule/8/paragraph/6)
+[^c-6e1a0095aac9d7d94c4b7587269e76bf]: Textual amendment: Words in [Sch. 1 para. 1(3)](https://www.legislation.gov.uk/wsi/2010/2880/schedule/1/paragraph/1/3) substituted (1.10.2020) by [The National Health Service (Pharmaceutical Services) (Wales) Regulations 2020 (S.I. 2020/1073)](https://www.legislation.gov.uk/wsi/2020/1073), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2), [Sch. 8 para. 6](https://www.legislation.gov.uk/wsi/2020/1073/schedule/8/paragraph/6)
 
 [^c20653631]: Marginal citation: [2006 c. 42](https://www.legislation.gov.uk/ukpga/2006/42).
 
@@ -987,19 +987,19 @@ A draft of the Regulations was notified to the European Commission in accordance
 
 [^c20653671]: Marginal citation: [1968 c. 67](https://www.legislation.gov.uk/ukpga/1968/67); section 130 was amended by [S.I. 1994/3119](https://www.legislation.gov.uk/uksi/1994/3119), [regulation 2(b)](https://www.legislation.gov.uk/uksi/1994/3119/regulation/2/b); and [S.I. 2005/50](https://www.legislation.gov.uk/uksi/2005/50), [regulation 25(1)(c)](https://www.legislation.gov.uk/uksi/2005/50/regulation/25/1/c) and (d); there are other amendments but none is relevant.
 
-[^key-f8a2f5d50f2deb19b216b5209258b6a7]: Textual amendment: Words in Sch. 1 para. 1(3) inserted (22.2.2019) by [The National Health Service (Paramedic Independent Prescriber and Paramedic Supplementary Prescriber) (Wales) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/149)](https://www.legislation.gov.uk/wsi/2019/149), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/149/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/wsi/2019/149/regulation/4/2/b)
+[^c-f8a2f5d50f2deb19b216b5209258b6a7]: Textual amendment: Words in Sch. 1 para. 1(3) inserted (22.2.2019) by [The National Health Service (Paramedic Independent Prescriber and Paramedic Supplementary Prescriber) (Wales) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/149)](https://www.legislation.gov.uk/wsi/2019/149), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/149/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/wsi/2019/149/regulation/4/2/b)
 
-[^key-e625846206ecbb882b99e70a6e5a3983]: Textual amendment: Words in Sch. 1(3) substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 101(b)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/101/b) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
+[^c-e625846206ecbb882b99e70a6e5a3983]: Textual amendment: Words in Sch. 1(3) substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 101(b)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/101/b) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
 
-[^key-b9c3103558a7a4ee10a4e50325b8c585]: Textual amendment: Words in Sch. 1 para. 1(3) inserted (24.9.2014) by [The National Health Service (Physiotherapist, Podiatrist or Chiropodist Independent Prescribers) (Miscellaneous Amendments) (Wales) Regulations 2014 (S.I. 2014/2291)](https://www.legislation.gov.uk/wsi/2014/2291), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/2291/regulation/1/1), [5(3)](https://www.legislation.gov.uk/wsi/2014/2291/regulation/5/3)
+[^c-b9c3103558a7a4ee10a4e50325b8c585]: Textual amendment: Words in Sch. 1 para. 1(3) inserted (24.9.2014) by [The National Health Service (Physiotherapist, Podiatrist or Chiropodist Independent Prescribers) (Miscellaneous Amendments) (Wales) Regulations 2014 (S.I. 2014/2291)](https://www.legislation.gov.uk/wsi/2014/2291), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/2291/regulation/1/1), [5(3)](https://www.legislation.gov.uk/wsi/2014/2291/regulation/5/3)
 
-[^key-3207205c9a9a6aa5f0f2d31316ebb7f8]: Textual amendment: Words in Sch. 1(3) substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 101(c)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/101/c) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
+[^c-3207205c9a9a6aa5f0f2d31316ebb7f8]: Textual amendment: Words in Sch. 1(3) substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 101(c)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/101/c) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
 
 [^c20653721]: Marginal citation: [S.I. 1997/1830](https://www.legislation.gov.uk/uksi/1997/1830); relevant amending instruments are [S.I. 2003/696](https://www.legislation.gov.uk/uksi/2003/696). [S.I. 2004/1771](https://www.legislation.gov.uk/uksi/2004/1771), [S.I](https://www.legislation.gov.uk/uksi/2004/1771/section/I). 2005/765, [S.I. 2006/915](https://www.legislation.gov.uk/uksi/2006/915), [S.I](https://www.legislation.gov.uk/uksi/2006/915/section/I). 2010/1621.
 
-[^key-8e5c7d102039ec33e770390a6671b877]: Textual amendment: Words in Sch. 1(3) substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 101(d)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/101/d) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
+[^c-8e5c7d102039ec33e770390a6671b877]: Textual amendment: Words in Sch. 1(3) substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 101(d)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/101/d) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
 
-[^key-216c01babaf8c98bbbcac9521228a10e]: Textual amendment: Words in Sch. 1 para. 1(3) inserted (9.1.2017) by [The National Health Service (Therapeutic Radiographer Independent Prescriber and Dietitian Supplementary Prescriber) (Miscellaneous Amendments) (Wales) Regulations 2016 (S.I. 2016/1221)](https://www.legislation.gov.uk/wsi/2016/1221), [regs. 1](https://www.legislation.gov.uk/wsi/2016/1221/regulation/1), [5(3)](https://www.legislation.gov.uk/wsi/2016/1221/regulation/5/3)
+[^c-216c01babaf8c98bbbcac9521228a10e]: Textual amendment: Words in Sch. 1 para. 1(3) inserted (9.1.2017) by [The National Health Service (Therapeutic Radiographer Independent Prescriber and Dietitian Supplementary Prescriber) (Miscellaneous Amendments) (Wales) Regulations 2016 (S.I. 2016/1221)](https://www.legislation.gov.uk/wsi/2016/1221), [regs. 1](https://www.legislation.gov.uk/wsi/2016/1221/regulation/1), [5(3)](https://www.legislation.gov.uk/wsi/2016/1221/regulation/5/3)
 
 [^c20653731]: Marginal citation: For the meaning of “*notice of intent*”
 

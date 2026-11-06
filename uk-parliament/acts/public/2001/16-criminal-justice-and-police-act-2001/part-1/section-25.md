@@ -32,7 +32,7 @@ summary: ''
 - (a) where the offence was committed in respect of a constable, to imprisonment for a term not exceeding one month or to a fine not exceeding level 5 on the standard scale or to both;
 - (b) where the offence was committed in respect of an authorised person, to a fine not exceeding level 5 on the standard scale.
 
-(4) A person who, without reasonable excuse, permits premises to be open in contravention of a closure order shall be guilty of an offence and shall be liable on summary conviction to imprisonment for a term not exceeding three months or to a fine[^key-1fba18423fa2758b45d3f064192ce0cc] or to both.
+(4) A person who, without reasonable excuse, permits premises to be open in contravention of a closure order shall be guilty of an offence and shall be liable on summary conviction to imprisonment for a term not exceeding three months or to a fine[^c-1fba18423fa2758b45d3f064192ce0cc] or to both.
 
 (5) A person who, without reasonable excuse, otherwise fails to comply with, or does an act in contravention of, a closure order shall be guilty of an offence and shall be liable on summary conviction to imprisonment for a term not exceeding three months or to a fine not exceeding level 5 on the standard scale or to both.
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1fba18423fa2758b45d3f064192ce0cc]: Textual amendment: Words in [s. 25(4)](https://www.legislation.gov.uk/ukpga/2001/16/section/25/4) substituted (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 31](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/31) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-1fba18423fa2758b45d3f064192ce0cc]: Textual amendment: Words in [s. 25(4)](https://www.legislation.gov.uk/ukpga/2001/16/section/25/4) substituted (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 31](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/31) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))

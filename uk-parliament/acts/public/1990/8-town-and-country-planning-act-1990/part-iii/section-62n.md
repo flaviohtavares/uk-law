@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 62N. Designation for the purposes of section 62M[^key-af84975a7efce9b7e1d60b8b01203db0]
+## 62N. Designation for the purposes of section 62M[^c-af84975a7efce9b7e1d60b8b01203db0]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-af84975a7efce9b7e1d60b8b01203db0]: Textual amendment: Ss. 62M-62O and cross-heading inserted (6.9.2015 for specified purposes) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [ss. 23](https://www.legislation.gov.uk/anaw/2015/4/section/23), [58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b)
+[^c-af84975a7efce9b7e1d60b8b01203db0]: Textual amendment: Ss. 62M-62O and cross-heading inserted (6.9.2015 for specified purposes) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [ss. 23](https://www.legislation.gov.uk/anaw/2015/4/section/23), [58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b)

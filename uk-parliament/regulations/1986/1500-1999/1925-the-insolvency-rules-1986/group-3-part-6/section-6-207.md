@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.207. Report by trustee[^key-a5329f633269b956cfc294e81e567ef3]
+## 6.207. Report by trustee[^c-a5329f633269b956cfc294e81e567ef3]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ Copies of any such affidavits shall be sent by the applicant to the official rec
 
 ## Annotations
 
-[^key-a5329f633269b956cfc294e81e567ef3]: Commencement: [Rule 6.207](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.207) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-a5329f633269b956cfc294e81e567ef3]: Commencement: [Rule 6.207](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.207) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

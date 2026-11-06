@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Stop and search under Terrorism Act 2000[^key-7d5c1f6ee6451e7a75c654333973ff47]
+## 57. Stop and search under Terrorism Act 2000[^c-7d5c1f6ee6451e7a75c654333973ff47]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7d5c1f6ee6451e7a75c654333973ff47]: Textual amendment: S. 57 repealed (10.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 10 Pt. 4](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/4) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(l)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/l)
+[^c-7d5c1f6ee6451e7a75c654333973ff47]: Textual amendment: S. 57 repealed (10.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 10 Pt. 4](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/4) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(l)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/l)

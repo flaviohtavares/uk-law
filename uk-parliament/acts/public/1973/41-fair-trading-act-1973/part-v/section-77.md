@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Associated persons.[^key-18008dd5819f417b1dd955a4b330e92e]
+## 77. Associated persons.[^c-18008dd5819f417b1dd955a4b330e92e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-18008dd5819f417b1dd955a4b330e92e]: Textual amendment: S. 77 repealed (29.12.2003) by [The Enterprise Act 2002 and Media Mergers (Consequential Amendments) Order 2003 (S.I. 2003/3180)](https://www.legislation.gov.uk/uksi/2003/3180), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/3180/article/1/1), [Sch. para. 1(3)](https://www.legislation.gov.uk/uksi/2003/3180/schedule/paragraph/1/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/3180/article/3))
+[^c-18008dd5819f417b1dd955a4b330e92e]: Textual amendment: S. 77 repealed (29.12.2003) by [The Enterprise Act 2002 and Media Mergers (Consequential Amendments) Order 2003 (S.I. 2003/3180)](https://www.legislation.gov.uk/uksi/2003/3180), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/3180/article/1/1), [Sch. para. 1(3)](https://www.legislation.gov.uk/uksi/2003/3180/schedule/paragraph/1/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/3180/article/3))

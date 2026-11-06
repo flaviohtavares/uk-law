@@ -35,22 +35,22 @@ concerning the renewal of the authorisation of L-isoleucine produced by *Escheri
 
 (Text with EEA relevance) (revoked)
 
-[^key-dda66a6852e543e943f9b5016295f92a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dda66a6852e543e943f9b5016295f92a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-dda66a6852e543e943f9b5016295f92a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-dda66a6852e543e943f9b5016295f92a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-dda66a6852e543e943f9b5016295f92a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-dda66a6852e543e943f9b5016295f92a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-dda66a6852e543e943f9b5016295f92a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-dda66a6852e543e943f9b5016295f92a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-dda66a6852e543e943f9b5016295f92a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-dda66a6852e543e943f9b5016295f92a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dda66a6852e543e943f9b5016295f92a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dda66a6852e543e943f9b5016295f92a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-dda66a6852e543e943f9b5016295f92a]
+## ANNEX[^c-dda66a6852e543e943f9b5016295f92a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-dda66a6852e543e943f9b5016295f92a]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 394](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/394) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-dda66a6852e543e943f9b5016295f92a]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 394](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/394) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

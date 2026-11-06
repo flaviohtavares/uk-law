@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Article 14 of Regulation [(EC) No 550/2004](https://www.legislation.gov.uk/eur/2004/550)[^key-850c9692275fd4c2ff77406fb2004076]
+## 34. Article 14 of Regulation [(EC) No 550/2004](https://www.legislation.gov.uk/eur/2004/550)[^c-850c9692275fd4c2ff77406fb2004076]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Omit Article 14 (charging schemes: general).
 
 ## Annotations
 
-[^key-850c9692275fd4c2ff77406fb2004076]: Commencement: Reg. 34 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-850c9692275fd4c2ff77406fb2004076]: Commencement: Reg. 34 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

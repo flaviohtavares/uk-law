@@ -31,7 +31,7 @@ summary: ''
 
 EDUCATION, WALES
 
-The National Curriculum (Amendments to the Key Stage 2 and Key Stage 3 Assessment Arrangements) (Wales) Order 2011 (revoked)[^key-ed07598478c9375b6331db98bb8b9822]
+The National Curriculum (Amendments to the Key Stage 2 and Key Stage 3 Assessment Arrangements) (Wales) Order 2011 (revoked)[^c-ed07598478c9375b6331db98bb8b9822]
 
 Made
 
@@ -45,28 +45,28 @@ Coming into force
 
 1 September 2011
 
-[^key-ed07598478c9375b6331db98bb8b9822]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ed07598478c9375b6331db98bb8b9822]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-ed07598478c9375b6331db98bb8b9822]
+## 1. Title, commencement and application[^c-ed07598478c9375b6331db98bb8b9822]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. National Curriculum (Key Stage 2 Assessment Arrangements) (Wales) Order 2004[^key-ed07598478c9375b6331db98bb8b9822]
+## 2. National Curriculum (Key Stage 2 Assessment Arrangements) (Wales) Order 2004[^c-ed07598478c9375b6331db98bb8b9822]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. National Curriculum (Key Stage 3 Assessment Arrangements) (Wales) Order 2005[^key-ed07598478c9375b6331db98bb8b9822]
+## 3. National Curriculum (Key Stage 3 Assessment Arrangements) (Wales) Order 2005[^c-ed07598478c9375b6331db98bb8b9822]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ed07598478c9375b6331db98bb8b9822]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ed07598478c9375b6331db98bb8b9822]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ed07598478c9375b6331db98bb8b9822]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ed07598478c9375b6331db98bb8b9822]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ed07598478c9375b6331db98bb8b9822]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2011/1937) revoked (1.9.2024) by [The Education (Revocation of Assessment Arrangements in the National Curriculum and Miscellaneous Amendments) (Wales) Regulations 2022 (S.I. 2022/517)](https://www.legislation.gov.uk/wsi/2022/517), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/517/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/wsi/2022/517/regulation/4/2/b)
+[^c-ed07598478c9375b6331db98bb8b9822]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2011/1937) revoked (1.9.2024) by [The Education (Revocation of Assessment Arrangements in the National Curriculum and Miscellaneous Amendments) (Wales) Regulations 2022 (S.I. 2022/517)](https://www.legislation.gov.uk/wsi/2022/517), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/517/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/wsi/2022/517/regulation/4/2/b)

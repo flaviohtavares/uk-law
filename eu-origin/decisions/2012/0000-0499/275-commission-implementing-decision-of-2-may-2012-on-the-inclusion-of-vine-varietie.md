@@ -35,18 +35,18 @@ on the inclusion of vine varieties in Appendix IV of the Protocol on wine labell
 
 (2012/275/EU) (revoked)
 
-[^key-3edaf8ab1724d7ac5bfdb7172d161bd6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3edaf8ab1724d7ac5bfdb7172d161bd6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-3edaf8ab1724d7ac5bfdb7172d161bd6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-3edaf8ab1724d7ac5bfdb7172d161bd6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-3edaf8ab1724d7ac5bfdb7172d161bd6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-3edaf8ab1724d7ac5bfdb7172d161bd6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3edaf8ab1724d7ac5bfdb7172d161bd6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3edaf8ab1724d7ac5bfdb7172d161bd6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-3edaf8ab1724d7ac5bfdb7172d161bd6]
+## ANNEX[^c-3edaf8ab1724d7ac5bfdb7172d161bd6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3edaf8ab1724d7ac5bfdb7172d161bd6]: Textual amendment: Decision revoked (31.12.2020) by [The Food and Drink, Veterinary Medicines and Residues (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/865)](https://www.legislation.gov.uk/uksi/2019/865), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/865/regulation/1/2), [Sch. 7 para. 33](https://www.legislation.gov.uk/uksi/2019/865/schedule/7/paragraph/33); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3edaf8ab1724d7ac5bfdb7172d161bd6]: Textual amendment: Decision revoked (31.12.2020) by [The Food and Drink, Veterinary Medicines and Residues (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/865)](https://www.legislation.gov.uk/uksi/2019/865), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/865/regulation/1/2), [Sch. 7 para. 33](https://www.legislation.gov.uk/uksi/2019/865/schedule/7/paragraph/33); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

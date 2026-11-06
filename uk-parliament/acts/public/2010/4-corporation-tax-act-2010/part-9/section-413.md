@@ -22,7 +22,7 @@ summary: ''
 
 (1) Any amount included in the amounts mentioned in section 411(2) in respect of plant or machinery to which this section applies is to be deducted from the sum mentioned in that section.
 
-(2) But the ascribed value[^key-215eaf3b4cb44cab06544ce230d1a06d] as at the relevant day of any plant or machinery to which this section applies is to be added to that sum or, if that sum is nil, is the relevant plant or machinery value.
+(2) But the ascribed value[^c-215eaf3b4cb44cab06544ce230d1a06d] as at the relevant day of any plant or machinery to which this section applies is to be added to that sum or, if that sum is nil, is the relevant plant or machinery value.
 
 (3) This section applies to plant or machinery if—
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-215eaf3b4cb44cab06544ce230d1a06d]: Textual amendment: Words in s. 413(2) substituted (with effect in accordance with Sch. 6 para. 27 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 6 para. 13](https://www.legislation.gov.uk/ukpga/2011/11/schedule/6/paragraph/13)
+[^c-215eaf3b4cb44cab06544ce230d1a06d]: Textual amendment: Words in s. 413(2) substituted (with effect in accordance with Sch. 6 para. 27 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 6 para. 13](https://www.legislation.gov.uk/ukpga/2011/11/schedule/6/paragraph/13)

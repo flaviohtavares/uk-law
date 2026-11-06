@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Pension benefits strategy[^key-9dcf25a2671eea3536c79334a212e06f]
+## 54. Pension benefits strategy[^c-9dcf25a2671eea3536c79334a212e06f]
 
 *Extent: E+W+S*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9dcf25a2671eea3536c79334a212e06f]: Commencement: S. 54 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)
+[^c-9dcf25a2671eea3536c79334a212e06f]: Commencement: S. 54 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)

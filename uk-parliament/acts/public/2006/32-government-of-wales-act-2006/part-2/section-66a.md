@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66A. Provision of information to the Office for Budget Responsibility[^key-9a9d79cf3eaa2a31a001994a3e0a72ec]
+## 66A. Provision of information to the Office for Budget Responsibility[^c-9a9d79cf3eaa2a31a001994a3e0a72ec]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ that it may reasonably require for the purpose of the performance of its duty un
 
 ## Annotations
 
-[^key-9a9d79cf3eaa2a31a001994a3e0a72ec]: Textual amendment: S. 66A inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 65](https://www.legislation.gov.uk/ukpga/2017/4/section/65), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(m)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/m)
+[^c-9a9d79cf3eaa2a31a001994a3e0a72ec]: Textual amendment: S. 66A inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 65](https://www.legislation.gov.uk/ukpga/2017/4/section/65), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(m)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/m)

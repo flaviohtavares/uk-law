@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39.3. Failure to attend the trial[^key-9cf1815e696c03cdf98a1134f31d406e]
+## 39.3. Failure to attend the trial[^c-9cf1815e696c03cdf98a1134f31d406e]
 
 *Extent: E+W*
 
@@ -30,7 +30,7 @@ summary: ''
 
 (3) Where a party does not attend and the court gives judgment or makes an order against him, the party who failed to attend may apply for the judgment or order to be set aside<sup>(GL)</sup>.
 
-(4) An application under paragraph (2) or paragraph (3) [^key-dc9eb140e0e2c8dec343be8397d36b9d]... must be supported by evidence.
+(4) An application under paragraph (2) or paragraph (3) [^c-dc9eb140e0e2c8dec343be8397d36b9d]... must be supported by evidence.
 
 (5) Where an application is made under paragraph (2) or (3) by a party who failed to attend the trial, the court may grant the application only if the applicant—
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9cf1815e696c03cdf98a1134f31d406e]: Commencement: [Rule 39.3](https://www.legislation.gov.uk/uksi/1998/3132/rule/39.3) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-9cf1815e696c03cdf98a1134f31d406e]: Commencement: [Rule 39.3](https://www.legislation.gov.uk/uksi/1998/3132/rule/39.3) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
 
-[^key-dc9eb140e0e2c8dec343be8397d36b9d]: Textual amendment: Words in [rule 39.3(4)](https://www.legislation.gov.uk/uksi/1998/3132/rule/39.3/4) omitted (2.10.2000) by virtue of [The Civil Procedure (Amendment No. 4) Rules 2000 (S.I. 2000/2092)](https://www.legislation.gov.uk/uksi/2000/2092), [rules 1](https://www.legislation.gov.uk/uksi/2000/2092/rule/1), [18](https://www.legislation.gov.uk/uksi/2000/2092/rule/18)
+[^c-dc9eb140e0e2c8dec343be8397d36b9d]: Textual amendment: Words in [rule 39.3(4)](https://www.legislation.gov.uk/uksi/1998/3132/rule/39.3/4) omitted (2.10.2000) by virtue of [The Civil Procedure (Amendment No. 4) Rules 2000 (S.I. 2000/2092)](https://www.legislation.gov.uk/uksi/2000/2092), [rules 1](https://www.legislation.gov.uk/uksi/2000/2092/rule/1), [18](https://www.legislation.gov.uk/uksi/2000/2092/rule/18)

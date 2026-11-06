@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 117B. Review of criminal record certificates[^key-2c3a8dd725e77bb913209628d04e768e]
+## 117B. Review of criminal record certificates[^c-2c3a8dd725e77bb913209628d04e768e]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Schedule 8A (which provides for an independent review of certain criminal record
 
 ## Annotations
 
-[^key-2c3a8dd725e77bb913209628d04e768e]: Textual amendment: S. 117B inserted (N.I.) (1.3.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [ss. 41(2)](https://www.legislation.gov.uk/nia/2015/9/section/41/2), [106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2); [S.R. 2015/418](https://www.legislation.gov.uk/nisr/2015/418), [art. 3(a)](https://www.legislation.gov.uk/nisr/2015/418/article/3/a)
+[^c-2c3a8dd725e77bb913209628d04e768e]: Textual amendment: S. 117B inserted (N.I.) (1.3.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [ss. 41(2)](https://www.legislation.gov.uk/nia/2015/9/section/41/2), [106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2); [S.R. 2015/418](https://www.legislation.gov.uk/nisr/2015/418), [art. 3(a)](https://www.legislation.gov.uk/nisr/2015/418/article/3/a)

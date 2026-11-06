@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Meaning of “act as insolvency practitioner”[^key-c08473cd7a95949ac3a86d1f6d15cd81]
+## 15. Meaning of “act as insolvency practitioner”[^c-c08473cd7a95949ac3a86d1f6d15cd81]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c08473cd7a95949ac3a86d1f6d15cd81]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/1994/2421/article/15) in force at 1.12.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/2421/article/1/1)
+[^c-c08473cd7a95949ac3a86d1f6d15cd81]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/1994/2421/article/15) in force at 1.12.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/2421/article/1/1)

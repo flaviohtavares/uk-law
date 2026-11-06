@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4. Sheriffs[^key-2f34ac02c04f7ac3f7cbc83a50c62fc1]
+## 4. Sheriffs[^c-2f34ac02c04f7ac3f7cbc83a50c62fc1]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2f34ac02c04f7ac3f7cbc83a50c62fc1]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2014/18/section/4) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-2f34ac02c04f7ac3f7cbc83a50c62fc1]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2014/18/section/4) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)

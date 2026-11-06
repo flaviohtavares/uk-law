@@ -31,7 +31,7 @@ summary: ''
 
 Plant Health, Wales
 
-The Plant Health (Fees) (Wales) Regulations 2013 (revoked)[^key-3636ec4baa7987c018918560f8c55960]
+The Plant Health (Fees) (Wales) Regulations 2013 (revoked)[^c-3636ec4baa7987c018918560f8c55960]
 
 Made
 
@@ -45,67 +45,67 @@ Coming into force
 
 2 August 2013
 
-[^key-3636ec4baa7987c018918560f8c55960]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3636ec4baa7987c018918560f8c55960]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application, commencement and interpretation[^key-3636ec4baa7987c018918560f8c55960]
+## 1. Title, application, commencement and interpretation[^c-3636ec4baa7987c018918560f8c55960]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Import inspection fees[^key-3636ec4baa7987c018918560f8c55960]
+## 2. Import inspection fees[^c-3636ec4baa7987c018918560f8c55960]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Seed potatoes: fees[^key-3636ec4baa7987c018918560f8c55960]
+## 3. Seed potatoes: fees[^c-3636ec4baa7987c018918560f8c55960]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Plant health licence fees[^key-3636ec4baa7987c018918560f8c55960]
+## 4. Plant health licence fees[^c-3636ec4baa7987c018918560f8c55960]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Plant passport authorisation fees[^key-3636ec4baa7987c018918560f8c55960]
+## 5. Plant passport authorisation fees[^c-3636ec4baa7987c018918560f8c55960]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Potatoes originating in Egypt: fees[^key-3636ec4baa7987c018918560f8c55960]
+## 6. Potatoes originating in Egypt: fees[^c-3636ec4baa7987c018918560f8c55960]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Revocation[^key-3636ec4baa7987c018918560f8c55960]
+## 7. Revocation[^c-3636ec4baa7987c018918560f8c55960]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3636ec4baa7987c018918560f8c55960]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3636ec4baa7987c018918560f8c55960]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Import Inspection Fees[^key-3636ec4baa7987c018918560f8c55960]
+## SCHEDULE 1 — Import Inspection Fees[^c-3636ec4baa7987c018918560f8c55960]
 
 Regulation 2(1)(a), (2)(a)(i) and (3)(a)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Import Inspection Fees: Reduced Rates[^key-3636ec4baa7987c018918560f8c55960]
+## SCHEDULE 2 — Import Inspection Fees: Reduced Rates[^c-3636ec4baa7987c018918560f8c55960]
 
 Regulation 2(2)(a)(ii) and (3)(b)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — Import Inspection Fees: Documentary and Identity Checks[^key-3636ec4baa7987c018918560f8c55960]
+## SCHEDULE 3 — Import Inspection Fees: Documentary and Identity Checks[^c-3636ec4baa7987c018918560f8c55960]
 
 Regulation 2(2)(b)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 4 — Seed Potatoes: Fees[^key-3636ec4baa7987c018918560f8c55960]
+## SCHEDULE 4 — Seed Potatoes: Fees[^c-3636ec4baa7987c018918560f8c55960]
 
 Regulation 3
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 5 — Plant Health Licence Fees[^key-3636ec4baa7987c018918560f8c55960]
+## SCHEDULE 5 — Plant Health Licence Fees[^c-3636ec4baa7987c018918560f8c55960]
 
 Regulation 4(2)
 
@@ -113,8 +113,8 @@ Regulation 4(2)
 
 **May not be in force at this date. Check the source.**
 
-[^key-3636ec4baa7987c018918560f8c55960]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3636ec4baa7987c018918560f8c55960]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3636ec4baa7987c018918560f8c55960]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2013/1700) revoked (2.8.2014) by [The Plant Health (Fees) (Wales) Regulations 2014 (S.I. 2014/1792)](https://www.legislation.gov.uk/wsi/2014/1792), [reg. 9](https://www.legislation.gov.uk/wsi/2014/1792/regulation/9)
+[^c-3636ec4baa7987c018918560f8c55960]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2013/1700) revoked (2.8.2014) by [The Plant Health (Fees) (Wales) Regulations 2014 (S.I. 2014/1792)](https://www.legislation.gov.uk/wsi/2014/1792), [reg. 9](https://www.legislation.gov.uk/wsi/2014/1792/regulation/9)

@@ -40,7 +40,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 ### Introductory
 
-#### 1. Overview[^key-aa6aa9b6dfbda33299d37faf32573660]
+#### 1. Overview[^c-aa6aa9b6dfbda33299d37faf32573660]
 
 **Not yet in force.**
 
@@ -61,7 +61,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 (7) Schedule 2 provides for certain premises or events to be excluded from the requirements.
 
-#### 2. Qualifying premises[^key-4357431447e4d3ad998dea91dfbb75b8]
+#### 2. Qualifying premises[^c-4357431447e4d3ad998dea91dfbb75b8]
 
 **Not yet in force.**
 
@@ -86,7 +86,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 - (a) if the same person is responsible for two or more of the premises, those two or more premises are to be treated as one set of qualifying premises, and
 - (b) subject to paragraph (a), this Part applies in relation to each of the qualifying premises.
 
-#### 3. Qualifying events[^key-e423d6f3cd9d0b85c915f02d2c03b3e6]
+#### 3. Qualifying events[^c-e423d6f3cd9d0b85c915f02d2c03b3e6]
 
 **Not yet in force.**
 
@@ -104,7 +104,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 (2) Where the condition in subsection (1)(e) applies only in relation to one or more parts of the premises at which an event is to be held, for the purposes of this Part treat what is to be held at each such part of the premises as a separate event (to be held at that part).
 
-#### 4. Persons responsible for qualifying premises or events[^key-6fe88ab0ba7c0e4111a23b5918951e5f]
+#### 4. Persons responsible for qualifying premises or events[^c-6fe88ab0ba7c0e4111a23b5918951e5f]
 
 (1) For the purposes of this Part—
 
@@ -127,7 +127,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 ### Requirements
 
-#### 5. Public protection procedures[^key-d5a2a50d557766c48c6fc35f7a7a9d44]
+#### 5. Public protection procedures[^c-d5a2a50d557766c48c6fc35f7a7a9d44]
 
 **Not yet in force.**
 
@@ -142,7 +142,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 - (c) for preventing individuals entering or leaving the premises or event;
 - (d) for providing information to individuals on the premises or at the event.
 
-#### 6. Public protection measures for enhanced duty premises and qualifying events[^key-6df42f1cf6e1e3c812ab7467543fa302]
+#### 6. Public protection measures for enhanced duty premises and qualifying events[^c-6df42f1cf6e1e3c812ab7467543fa302]
 
 **Not yet in force.**
 
@@ -163,7 +163,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 - (c) the physical safety and security of the premises or the premises at which the event is to be held;
 - (d) the security of information in relation to the premises or event.
 
-#### 7. Enhanced duty premises and qualifying events: documenting compliance[^key-7ae77adfa64dba0ef56dcf489bbef11f]
+#### 7. Enhanced duty premises and qualifying events: documenting compliance[^c-7ae77adfa64dba0ef56dcf489bbef11f]
 
 (1) The person responsible for enhanced duty premises or a qualifying event must ensure that a document is prepared and kept up to date containing—
 
@@ -178,7 +178,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 - (a) as soon as is reasonably practicable after it is prepared, and
 - (b) if it is revised, before the end of the period of 30 days beginning with the day of its revision.
 
-#### 8. Requirements to co-ordinate and co-operate[^key-87f4db2ed49b816a232d381d65d3b241]
+#### 8. Requirements to co-ordinate and co-operate[^c-87f4db2ed49b816a232d381d65d3b241]
 
 **Not yet in force.**
 
@@ -196,7 +196,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 (7) In this section, references to a requirement imposed by or under this Part do not include a requirement imposed by a penalty notice.
 
-#### 9. Notification requirements[^key-e22c8ac5e6728bb384a8c53c228281aa]
+#### 9. Notification requirements[^c-e22c8ac5e6728bb384a8c53c228281aa]
 
 (1) A person who becomes responsible, or ceases to be responsible, for qualifying premises must notify the Security Industry Authority by the required time.
 
@@ -231,7 +231,7 @@ the person must notify the Security Industry Authority by the required time.
 - (a) a person who becomes responsible by virtue of the coming into force of any provision of this Part at the same time as the coming into force of this section, and
 - (b) a person who is responsible by virtue of any provision of this Part that came into force before the coming into force of this section.
 
-#### 10. Designating a senior individual[^key-ab4d5c62dce306b4adb80dac0f3ea325]
+#### 10. Designating a senior individual[^c-ab4d5c62dce306b4adb80dac0f3ea325]
 
 **Not yet in force.**
 
@@ -239,7 +239,7 @@ the person must notify the Security Industry Authority by the required time.
 
 (2) R must designate an individual who is concerned in the management or control of R as having responsibility for ensuring that R complies with the requirements imposed on R by or under this Part.
 
-#### 11. Determinations by the tribunal[^key-63814474c1949fc83efcf61313f0c5dd]
+#### 11. Determinations by the tribunal[^c-63814474c1949fc83efcf61313f0c5dd]
 
 **Not yet in force.**
 
@@ -260,7 +260,7 @@ the person must notify the Security Industry Authority by the required time.
 
 ### Investigations and enforcement
 
-#### 12. Role of the Security Industry Authority[^key-1b2bffcb70ddae864fc0b5cc84867168]
+#### 12. Role of the Security Industry Authority[^c-1b2bffcb70ddae864fc0b5cc84867168]
 
 (1) The Security Industry Authority must carry out the functions relating to the requirements in sections 5 to 10 that are conferred on it by this Part, including—
 
@@ -269,13 +269,13 @@ the person must notify the Security Industry Authority by the required time.
 
 (2) The Security Industry Authority must also—
 
-- (a)[^key-8d5eef1ec9a31b14f93cf1d782984f1d] prepare guidance about how it proposes to exercise its functions under this Part (including, in particular, the investigatory powers in Schedule 3),
-- (b)[^key-8d5eef1ec9a31b14f93cf1d782984f1d] provide such advice about the requirements in sections 5 to 10 to such persons as it considers appropriate, and
+- (a)[^c-8d5eef1ec9a31b14f93cf1d782984f1d] prepare guidance about how it proposes to exercise its functions under this Part (including, in particular, the investigatory powers in Schedule 3),
+- (b)[^c-8d5eef1ec9a31b14f93cf1d782984f1d] provide such advice about the requirements in sections 5 to 10 to such persons as it considers appropriate, and
 - (c) keep under review the effectiveness of the requirements in reducing—
   - (i) the risk of physical harm to individuals arising from acts of terrorism;
   - (ii) the vulnerability of enhanced duty premises and qualifying events to acts of terrorism.
 
-(3)[^key-8d5eef1ec9a31b14f93cf1d782984f1d] In relation to the guidance prepared under subsection (2)(a), the Security Industry Authority—
+(3)[^c-8d5eef1ec9a31b14f93cf1d782984f1d] In relation to the guidance prepared under subsection (2)(a), the Security Industry Authority—
 
 - (a) must submit the guidance to the Secretary of State for approval,
 - (b) must publish the guidance if it is approved by the Secretary of State,
@@ -326,7 +326,7 @@ the person must notify the Security Industry Authority by the required time.
     ;
 - (b) in each of sub-paragraphs (3) and (4), for “such report” substitute “report under sub-paragraph (1)(a)”.
 
-#### 13. Compliance notices[^key-38459318148b0f2a04828286e646839a]
+#### 13. Compliance notices[^c-38459318148b0f2a04828286e646839a]
 
 **Not yet in force.**
 
@@ -354,7 +354,7 @@ the person must notify the Security Industry Authority by the required time.
 - “**relevant requirement**” means a requirement imposed by any of sections 5 to 10;
 - “**specified**” means specified in the compliance notice.
 
-#### 14. Restriction notices[^key-aba78cda013ad4a81088d7cc4b91cd21]
+#### 14. Restriction notices[^c-aba78cda013ad4a81088d7cc4b91cd21]
 
 **Not yet in force.**
 
@@ -397,7 +397,7 @@ the person must notify the Security Industry Authority by the required time.
 
 (11) In this section “**specified**” means specified in the restriction notice.
 
-#### 15. Variation or withdrawal of notices[^key-6b0bb5f994910e72904d37c2670440b6]
+#### 15. Variation or withdrawal of notices[^c-6b0bb5f994910e72904d37c2670440b6]
 
 **Not yet in force.**
 
@@ -416,7 +416,7 @@ the person must notify the Security Industry Authority by the required time.
 
 (6) Before varying a restriction notice to extend the period for which it has effect, the Security Industry Authority must give the person to whom the original notice was given an opportunity to make representations about the proposed variation.
 
-#### 16. Appeals against notices[^key-d4b690d1d27a22aa4e579e8ae6d8b429]
+#### 16. Appeals against notices[^c-d4b690d1d27a22aa4e579e8ae6d8b429]
 
 **Not yet in force.**
 
@@ -449,7 +449,7 @@ the person must notify the Security Industry Authority by the required time.
 
 ### Monetary penalties
 
-#### 17. Penalty notices[^key-e4865ea018bfa5c083d8d01e8cc31207]
+#### 17. Penalty notices[^c-e4865ea018bfa5c083d8d01e8cc31207]
 
 **Not yet in force.**
 
@@ -472,7 +472,7 @@ the person must notify the Security Industry Authority by the required time.
 - “**relevant requirement**” means a requirement imposed by or under any of sections 5 to 10, 13 and 14 or paragraph 3 of Schedule 3;
 - “**specified**” means specified in the penalty notice.
 
-#### 18. Maximum amount of a non-compliance penalty[^key-6029f8875d441badc236f3ffb8fe3d3b]
+#### 18. Maximum amount of a non-compliance penalty[^c-6029f8875d441badc236f3ffb8fe3d3b]
 
 (1) The maximum amount of a non-compliance penalty that may be imposed on a person by a penalty notice is—
 
@@ -492,16 +492,16 @@ the person must notify the Security Industry Authority by the required time.
 - (a) if the accounting period is less than a year, the amount is to be proportionately increased;
 - (b) if the accounting period is more than a year, the amount is to be proportionately reduced.
 
-(5)[^key-540f98186b5cab0584a798cbd076b456] The Security Industry Authority must—
+(5)[^c-540f98186b5cab0584a798cbd076b456] The Security Industry Authority must—
 
 - (a) produce a statement giving information about the amounts which it does, or does not, regard as comprising a person’s qualifying worldwide revenue for the purposes of this section;
 - (b) keep the statement under review;
 - (c) publish the statement (and any revised or replacement statement);
 - (d) send a copy of the statement (and any revised or replacement statement) to the Secretary of State.
 
-(6)[^key-540f98186b5cab0584a798cbd076b456] Before producing a statement under subsection (5) (including a revised or replacement statement), the Security Industry Authority must consult the Secretary of State.
+(6)[^c-540f98186b5cab0584a798cbd076b456] Before producing a statement under subsection (5) (including a revised or replacement statement), the Security Industry Authority must consult the Secretary of State.
 
-(7)[^key-540f98186b5cab0584a798cbd076b456] The Secretary of State must lay a copy of any statement received under subsection (5)(d) before Parliament.
+(7)[^c-540f98186b5cab0584a798cbd076b456] The Secretary of State must lay a copy of any statement received under subsection (5)(d) before Parliament.
 
 (8) The Secretary of State may by regulations amend—
 
@@ -514,7 +514,7 @@ so as to substitute a different figure for the figure for the time being specifi
 
 (9) In this section “**accounting period**”, in relation to a person, means a period in respect of which accounts are prepared in relation to that person.
 
-#### 19. Daily penalties[^key-e838c75e184ee4df9c0f34e1036ef4ca]
+#### 19. Daily penalties[^c-e838c75e184ee4df9c0f34e1036ef4ca]
 
 (1) This section applies if a penalty notice is given to a person in respect of a contravention of a requirement imposed by a compliance notice or restriction notice.
 
@@ -531,7 +531,7 @@ so as to substitute a different figure for the figure for the time being specifi
 
 (6) The Secretary of State may by regulations amend subsection (5)(a) or (b) so as to substitute a different figure for the figure for the time being specified.
 
-#### 20. Determining the amount of a penalty[^key-71629574b87dc9af84a3de7ad6992825]
+#### 20. Determining the amount of a penalty[^c-71629574b87dc9af84a3de7ad6992825]
 
 **Not yet in force.**
 
@@ -546,7 +546,7 @@ so as to substitute a different figure for the figure for the time being specifi
 - (b) any action taken by the person to remedy the contravention or mitigate its effects;
 - (c) the ability of the person to pay the penalty.
 
-#### 21. Penalty notices: contents, procedure, variation and withdrawal[^key-cc3c55908ddfe1ac81889306f16c4f9b]
+#### 21. Penalty notices: contents, procedure, variation and withdrawal[^c-cc3c55908ddfe1ac81889306f16c4f9b]
 
 **Not yet in force.**
 
@@ -570,7 +570,7 @@ so as to substitute a different figure for the figure for the time being specifi
 - (b) shorten the period within which the non-compliance penalty or any daily penalty must be paid, or
 - (c) require the payment of daily penalties not already provided for in the notice.
 
-#### 22. Appeals against penalties[^key-236d6e607cbb53bf286a3cd91acad9bc]
+#### 22. Appeals against penalties[^c-236d6e607cbb53bf286a3cd91acad9bc]
 
 **Not yet in force.**
 
@@ -599,7 +599,7 @@ so as to substitute a different figure for the figure for the time being specifi
 
 (6) Where an appeal in respect of a penalty notice is made under this section, the notice or variation (as the case may be) is of no effect until the appeal is determined or withdrawn unless the tribunal orders otherwise.
 
-#### 23. Recovery of penalties[^key-da2117362feba5612a4c71a64e0e700d]
+#### 23. Recovery of penalties[^c-da2117362feba5612a4c71a64e0e700d]
 
 **Not yet in force.**
 
@@ -624,7 +624,7 @@ so as to substitute a different figure for the figure for the time being specifi
 
 **Not yet in force.**
 
-#### 24. Offences of failing to comply with compliance notice or restriction notice[^key-7b3a32eaec57f7c64cf7a64e13cc018e]
+#### 24. Offences of failing to comply with compliance notice or restriction notice[^c-7b3a32eaec57f7c64cf7a64e13cc018e]
 
 (1) A person who is given a compliance notice in respect of a contravention which relates to enhanced duty premises or a qualifying event commits an offence if the person fails to comply with the notice.
 
@@ -668,7 +668,7 @@ so as to substitute a different figure for the figure for the time being specifi
 - (c) on summary conviction in Northern Ireland, to imprisonment for a term not exceeding six months or a fine not exceeding the statutory maximum (or both);
 - (d) on conviction on indictment, to imprisonment for a term not exceeding two years or a fine (or both).
 
-#### 25. Offence of providing false or misleading information[^key-a0b41c1b0957e19a658177036cf9dbe4]
+#### 25. Offence of providing false or misleading information[^c-a0b41c1b0957e19a658177036cf9dbe4]
 
 (1) A person commits an offence if—
 
@@ -682,7 +682,7 @@ so as to substitute a different figure for the figure for the time being specifi
 - (c) on summary conviction in Northern Ireland, to imprisonment for a term not exceeding six months or a fine not exceeding the statutory maximum (or both);
 - (d) on conviction on indictment, to imprisonment for a term not exceeding two years or a fine (or both).
 
-#### 26. Liability for offence committed by a body[^key-af0b6347dd03fa838f6e7caed7584359]
+#### 26. Liability for offence committed by a body[^c-af0b6347dd03fa838f6e7caed7584359]
 
 (1) Subsection (2) applies where a person who is not an individual (“the body”) commits an offence under—
 
@@ -715,7 +715,7 @@ the person (as well as the body) commits the offence and is liable to be proceed
 
 ### General
 
-#### 27. Guidance[^key-9d451152969c800bca54178934756a1a][^key-8ad300fc25f9243b9bb9ec6a15e43258]
+#### 27. Guidance[^c-9d451152969c800bca54178934756a1a][^c-8ad300fc25f9243b9bb9ec6a15e43258]
 
 (1) The Secretary of State must publish guidance about the requirements imposed by or under this Part.
 
@@ -731,7 +731,7 @@ the person (as well as the body) commits the offence and is liable to be proceed
 
 (5) Where in any proceedings it is alleged that a person has contravened a requirement imposed by or under this Part, proof that the person acted in accordance with applicable guidance under this section may be relied on as tending to establish that there was no such contravention.
 
-#### 28. Disclosure of information[^key-96805309e2058a7ac3fe380ab0958e57]
+#### 28. Disclosure of information[^c-96805309e2058a7ac3fe380ab0958e57]
 
 **Not yet in force.**
 
@@ -756,7 +756,7 @@ the person (as well as the body) commits the offence and is liable to be proceed
 
 (6) In this section “**the data protection legislation**” has the same meaning as in the [Data Protection Act 2018](https://www.legislation.gov.uk/ukpga/2018/12) (see section 3 of that Act).
 
-#### 29. Means of giving notices[^key-59c4454aba2852250fd8cf98f68e8e70]
+#### 29. Means of giving notices[^c-59c4454aba2852250fd8cf98f68e8e70]
 
 **Not yet in force.**
 
@@ -804,7 +804,7 @@ references to its principal office include references to its principal office in
 
 (11) In subsection (10) “**working day**” means a day other than a Saturday, a Sunday, Christmas Day, Good Friday or a bank holiday under the [Banking and Financial Dealings Act 1971](https://www.legislation.gov.uk/ukpga/1971/80) in any part of the United Kingdom.
 
-#### 30. Further provision about notices[^key-adb751e624e706bccc0ff91db4e2b25e]
+#### 30. Further provision about notices[^c-adb751e624e706bccc0ff91db4e2b25e]
 
 (1) The Secretary of State may by regulations make further provision about notices under this Part.
 
@@ -813,7 +813,7 @@ references to its principal office include references to its principal office in
 - (a) the form and content of notices;
 - (b) the variation or withdrawal of notices.
 
-#### 31. Civil liability[^key-e1939aef872a64a341d2c1011432bd32]
+#### 31. Civil liability[^c-e1939aef872a64a341d2c1011432bd32]
 
 **Not yet in force.**
 
@@ -821,7 +821,7 @@ references to its principal office include references to its principal office in
 
 (2) Subsection (1) does not affect any right of action which exists apart from the provisions of this Part.
 
-#### 32. Powers to amend this Part[^key-775eeb0e017baec404bc941ccd975492]
+#### 32. Powers to amend this Part[^c-775eeb0e017baec404bc941ccd975492]
 
 (1) The Secretary of State may by regulations—
 
@@ -862,7 +862,7 @@ may be exercised only if the Secretary of State considers that it is not necessa
 
 (4) Before making regulations under subsection (1) the Secretary of State must consult such persons as the Secretary of State considers appropriate.
 
-#### 33. Interpretation of this Part[^key-5b6bcd7bb313023b6fbd6f6442f65415]
+#### 33. Interpretation of this Part[^c-5b6bcd7bb313023b6fbd6f6442f65415]
 
 **Not yet in force.**
 
@@ -894,7 +894,7 @@ may be exercised only if the Secretary of State considers that it is not necessa
 
 *Extent: E+W+S*
 
-### 34. Licensing: disclosure of plans of premises[^key-f157a5e315439033ff48f1429598f8b7]
+### 34. Licensing: disclosure of plans of premises[^c-f157a5e315439033ff48f1429598f8b7]
 
 (1) Schedule 4 amends—
 
@@ -920,7 +920,7 @@ to make provision about the inclusion of plans in public registers kept under th
 
 ## Part 3 — General
 
-### 35. Regulations[^key-05c7f583548ae4c044fcf4d9db4eade1]
+### 35. Regulations[^c-05c7f583548ae4c044fcf4d9db4eade1]
 
 (1) A power to make regulations under any provision of this Act includes power to make—
 
@@ -938,7 +938,7 @@ to make provision about the inclusion of plans in public registers kept under th
 
 (5) This section does not apply to regulations under section 37.
 
-### 36. Extent[^key-cdb6d012cf573658f47e7107bad2aedb]
+### 36. Extent[^c-cdb6d012cf573658f47e7107bad2aedb]
 
 (1) Part 1 extends to England and Wales, Scotland and Northern Ireland.
 
@@ -950,7 +950,7 @@ to make provision about the inclusion of plans in public registers kept under th
 
 (3) This Part extends to England and Wales, Scotland and Northern Ireland.
 
-### 37. Commencement[^key-1fd3abedd1e9bad45d8c0cc305fb8242]
+### 37. Commencement[^c-1fd3abedd1e9bad45d8c0cc305fb8242]
 
 (1) This Part comes into force on the day on which this Act is passed.
 
@@ -965,7 +965,7 @@ to make provision about the inclusion of plans in public registers kept under th
 
 (5) Regulations under this section are to be made by statutory instrument.
 
-### 38. Short title[^key-30122695ad44b1d61f9b20f8570e54b1]
+### 38. Short title[^c-30122695ad44b1d61f9b20f8570e54b1]
 
 This Act may be cited as the Terrorism (Protection of Premises) Act 2025.
 
@@ -977,7 +977,7 @@ Schedules
 
 Section 1
 
-### 1. Shops etc[^key-9bf2bbebeb89425f541b0b57ad80f446]
+### 1. Shops etc[^c-9bf2bbebeb89425f541b0b57ad80f446]
 
 Use for—
 
@@ -987,15 +987,15 @@ Use for—
 
 where the sale, display or service is principally to visiting members of the public.
 
-### 2. Food and drink[^key-21e43d3c36e9f25f0f9dead5fe449808]
+### 2. Food and drink[^c-21e43d3c36e9f25f0f9dead5fe449808]
 
 Use for the sale of food or drink, where the food or drink is principally for consumption on the premises by visiting members of the public.
 
-### 3. Entertainment and leisure activities[^key-600c2ec9f3356057c52c7ad30e680fb6]
+### 3. Entertainment and leisure activities[^c-600c2ec9f3356057c52c7ad30e680fb6]
 
 Use (other than a use mentioned elsewhere in this Schedule) for the provision of entertainment, leisure or recreation activities of any description, where the activity is principally for the benefit of visiting members of the public.
 
-### 4. Sports grounds[^key-247e03d00f554b650883f88a998589a5]
+### 4. Sports grounds[^c-247e03d00f554b650883f88a998589a5]
 
 (1) Use as a sports ground (but see paragraph 3 of Schedule 2).
 
@@ -1004,7 +1004,7 @@ Use (other than a use mentioned elsewhere in this Schedule) for the provision of
 - (a) in relation to England and Wales and Scotland, has the meaning given by section 17(1) of the [Safety of Sports Grounds Act 1975](https://www.legislation.gov.uk/ukpga/1975/52);
 - (b) in relation to Northern Ireland, has the meaning given by Article 2(2) of the [Safety of Sports Grounds (Northern Ireland) Order 2006](https://www.legislation.gov.uk/nisi/2006/313) ([S.I. 2006/313 (N.I. 2))](https://www.legislation.gov.uk/nisi/2006/313).
 
-### 5. Libraries, museums and galleries etc[^key-944b0cfcff5a7c4818333daec17a241c]
+### 5. Libraries, museums and galleries etc[^c-944b0cfcff5a7c4818333daec17a241c]
 
 (1) Use as a library, museum or gallery where admittance is principally to visiting members of the public.
 
@@ -1013,7 +1013,7 @@ Use (other than a use mentioned elsewhere in this Schedule) for the provision of
 - (a) an archive, and
 - (b) a site where a collection of objects or works (or a single object or work) considered to be of scientific, historic, artistic or cultural interest is exhibited outdoors or partly outdoors.
 
-### 6. Halls etc[^key-5237f6d1ec16e0f508e0e0a7e5a369e9]
+### 6. Halls etc[^c-5237f6d1ec16e0f508e0e0a7e5a369e9]
 
 Use as—
 
@@ -1023,11 +1023,11 @@ Use as—
 
 where the events, activities, exhibits or conferences are principally for the benefit of visiting members of the public.
 
-### 7. Visitor attractions[^key-f35c520b85b2d874304ce04b3b8dcfbe]
+### 7. Visitor attractions[^c-f35c520b85b2d874304ce04b3b8dcfbe]
 
 Use as a visitor attraction of cultural, historic, touristic or educational value.
 
-### 8. Hotels etc[^key-c58feee33ba74c18c95e8d47a30fcea0]
+### 8. Hotels etc[^c-c58feee33ba74c18c95e8d47a30fcea0]
 
 Use as—
 
@@ -1035,7 +1035,7 @@ Use as—
 - (b) a hostel;
 - (c) a holiday park.
 
-### 9. Places of worship[^key-3c1a0a9a199479fd772610aeccf4ad7d]
+### 9. Places of worship[^c-3c1a0a9a199479fd772610aeccf4ad7d]
 
 (1) Use for—
 
@@ -1046,7 +1046,7 @@ in accordance with the tenets of a particular religion or religious denomination
 
 (2) Where the relevant Schedule 1 use of qualifying premises is the use mentioned in sub-paragraph (1), the premises are standard duty premises for the purposes of this Part (regardless of how they would otherwise be treated).
 
-### 10. Health care[^key-b2a8b1def68043f8b7c660b8a4214511]
+### 10. Health care[^c-b2a8b1def68043f8b7c660b8a4214511]
 
 (1) Use as a hospital or for the provision of health care.
 
@@ -1067,7 +1067,7 @@ in accordance with the tenets of a particular religion or religious denomination
   - (c) in relation to Northern Ireland, has the meaning given by Article 2(2) of the [Health and Personal Social Services (Northern Ireland) Order 1972](https://www.legislation.gov.uk/nisi/1972/1265) ([S.I. 1972/1265 (N.I. 14))](https://www.legislation.gov.uk/nisi/1972/1265);
 - “**NHS trust**” and “NHS foundation trust” have the same meanings as in the [National Health Service Act 2006](https://www.legislation.gov.uk/ukpga/2006/41).
 
-### 11. Bus stations, railway stations etc[^key-3a01486d5ff6441b1104215005e812ad]
+### 11. Bus stations, railway stations etc[^c-3a01486d5ff6441b1104215005e812ad]
 
 (1) Use as—
 
@@ -1085,11 +1085,11 @@ in accordance with the tenets of a particular religion or religious denomination
 - “**railway station**” means any land or other property which consists of premises used as, or for the purposes of, or otherwise in connection with, a railway passenger station or railway passenger terminal (including any approaches, forecourt, cycle store or car park), whether or not the land or other property is, or the premises are, also used for other purposes;
 - “**trolley vehicle system**” means a system of transport by vehicles constructed or adapted for use on roads without rails under electric power transmitted to them by overhead wires (whether or not there is in addition a source of power on board the vehicles).
 
-### 12. Aerodromes[^key-84945998c1115113fb92b83c1e0efe95]
+### 12. Aerodromes[^c-84945998c1115113fb92b83c1e0efe95]
 
 Use for affording facilities for the landing and departure of aircraft (including those capable of descending or climbing vertically), other than use exclusively for military purposes (but see paragraph 4(a) of Schedule 2).
 
-### 13. Childcare[^key-d7ffb3618dd7435384357f7a35993164]
+### 13. Childcare[^c-d7ffb3618dd7435384357f7a35993164]
 
 (1) Use for the provision of—
 
@@ -1112,7 +1112,7 @@ Use for affording facilities for the landing and departure of aircraft (includin
 
 (3) Where the relevant Schedule 1 use of qualifying premises is a use mentioned in sub-paragraph (1), the premises are standard duty premises for the purposes of this Part (regardless of how they would otherwise be treated).
 
-### 14. Primary and secondary education[^key-443c958f1006ef70b38ca4ca704a43a1]
+### 14. Primary and secondary education[^c-443c958f1006ef70b38ca4ca704a43a1]
 
 (1) Use for the purposes of a primary or secondary education institution.
 
@@ -1136,7 +1136,7 @@ Use for affording facilities for the landing and departure of aircraft (includin
   - (ii) in any other case, the governing body or, where there is no governing body, the proprietor of the institution, and
 - (b) the premises are standard duty premises for the purposes of this Part (regardless of how they would otherwise be treated).
 
-### 15. Further education[^key-376b04d4e221988b0d3ea4700c7a256d]
+### 15. Further education[^c-376b04d4e221988b0d3ea4700c7a256d]
 
 (1) Use for the provision of—
 
@@ -1184,7 +1184,7 @@ Use for affording facilities for the landing and departure of aircraft (includin
 - “**local authority in England**” has the same meaning as in the [Education Act 1996](https://www.legislation.gov.uk/ukpga/1996/56) (see sections 579(1) and 581 of that Act);
 - “**local authority in Wales**” has the same meaning as in the [Education Act 1996](https://www.legislation.gov.uk/ukpga/1996/56) (see section 579(1) of that Act).
 
-### 16. Higher education[^key-211b9f0bf2c53df06fc7577a0c5af32e]
+### 16. Higher education[^c-211b9f0bf2c53df06fc7577a0c5af32e]
 
 (1) Use for the purposes of a higher education institution.
 
@@ -1206,7 +1206,7 @@ Use for affording facilities for the landing and departure of aircraft (includin
 - “**training provider**” means a person who provides training in England or Wales for members of the school workforce within the meaning of Part 3 of the [Education Act 2005](https://www.legislation.gov.uk/ukpga/2005/18) (see section 100 of that Act);
 - “**use for the purposes of a higher education institution**” includes providing residential accommodation for students at a higher education institution where the accommodation is managed by or on behalf of the institution.
 
-### 17. Public authorities[^key-55fd5cf8e30e0391b8e0e074fc1ab0d1]
+### 17. Public authorities[^c-55fd5cf8e30e0391b8e0e074fc1ab0d1]
 
 (1) Use (other than use mentioned elsewhere in this Schedule) for the provision by a public authority of facilities or services to visiting members of the public.
 
@@ -1214,7 +1214,7 @@ Use for affording facilities for the landing and departure of aircraft (includin
 
 (3) In this paragraph “**public authority**” means a person exercising functions of a public nature.
 
-### 18. References to visiting members of the public[^key-7840b9f786847587c93356d36fb06976]
+### 18. References to visiting members of the public[^c-7840b9f786847587c93356d36fb06976]
 
 In determining for the purposes of this Schedule whether premises are used by visiting members of the public, it is irrelevant that access to the premises may be limited (at all times or particular times) to members of the public who—
 
@@ -1228,17 +1228,17 @@ Section 1
 
 ### Part 1 — Excluded premises
 
-#### 1. Legislatures and devolved administrations[^key-2196908169d149dc3683a6ea16c4ac97]
+#### 1. Legislatures and devolved administrations[^c-2196908169d149dc3683a6ea16c4ac97]
 
 Premises occupied for the purposes of either House of Parliament (to the extent that this Part would, but for this paragraph, apply in relation to such premises).
 
-**2.**[^key-21178ff749550685c21e51df9a28a3bc] Premises occupied for the purposes of—
+**2.**[^c-21178ff749550685c21e51df9a28a3bc] Premises occupied for the purposes of—
 
 - (a) the Scottish Parliament or a part of the Scottish Administration;
 - (b) Senedd Cymru or the Welsh Government;
 - (c) the Northern Ireland Assembly or a Northern Ireland department.
 
-#### 3. Parks, gardens, etc[^key-e257ded11861e0f1d19cc52f56e58b9d]
+#### 3. Parks, gardens, etc[^c-e257ded11861e0f1d19cc52f56e58b9d]
 
 (1) Premises are within this paragraph if they meet the conditions in sub-paragraphs (2) and (3).
 
@@ -1271,7 +1271,7 @@ Premises occupied for the purposes of either House of Parliament (to the extent 
 - (a) in relation to England and Wales and Scotland, has the meaning given by section 17(1) of the [Safety of Sports Grounds Act 1975](https://www.legislation.gov.uk/ukpga/1975/52) (and see section 1(4) of that Act for the meaning of “designated sports ground”);
 - (b) in relation to Northern Ireland, has the meaning given by Article 2(2) of the [Safety of Sports Grounds (Northern Ireland) Order 2006](https://www.legislation.gov.uk/nisi/2006/313) ([S.I. 2006/313 (N.I. 2))](https://www.legislation.gov.uk/nisi/2006/313) (and see Article 3 of that Order for the meaning of “designated sports ground”).
 
-#### 4. Transport security[^key-9a2161abb0d35844e84583d3713abcd7]
+#### 4. Transport security[^c-9a2161abb0d35844e84583d3713abcd7]
 
 Premises are within this paragraph if—
 
@@ -1283,11 +1283,11 @@ Premises are within this paragraph if—
 
 ### Part 2 — Excluded events
 
-#### 5. Events to be held on certain excluded premises[^key-7fcd2a4dc1f13a254b6fc68dc374c91b]
+#### 5. Events to be held on certain excluded premises[^c-7fcd2a4dc1f13a254b6fc68dc374c91b]
 
 An event that is to be held at premises specified or described in paragraph 1, 2 or 4 of this Schedule.
 
-#### 6. Events at places of worship, schools, etc[^key-d5558d5d01e56ca9c73009b295c34bc8]
+#### 6. Events at places of worship, schools, etc[^c-d5558d5d01e56ca9c73009b295c34bc8]
 
 An event that is to be held at premises wholly or mainly used for a use specified in paragraph 9, 13, 14 or 15 of Schedule 1 (worship, childcare or primary, secondary or further education).
 
@@ -1295,14 +1295,14 @@ An event that is to be held at premises wholly or mainly used for a use specifie
 
 Section 12
 
-### 1. Terrorism protection investigations[^key-bf49915b10630249154dc89399ae2319]
+### 1. Terrorism protection investigations[^c-bf49915b10630249154dc89399ae2319]
 
 In this Schedule “terrorism protection investigation” means an investigation by the Security Industry Authority to determine whether a person—
 
 - (a) is contravening or has contravened a requirement imposed by or under this Part, or
 - (b) is committing or has committed an offence under this Part.
 
-### 2. Authorised inspectors[^key-24da36fa48c6b33f72110f1cde5194ed]
+### 2. Authorised inspectors[^c-24da36fa48c6b33f72110f1cde5194ed]
 
 (1) The Security Industry Authority may authorise persons to—
 
@@ -1329,7 +1329,7 @@ In this Schedule “terrorism protection investigation” means an investigatio
 - (a) a copy of the authorisation, and
 - (b) a copy of any instrument varying the authorisation.
 
-### 3. Information gathering powers[^key-daa37f561f2d1d25ab7140952864a5f9]
+### 3. Information gathering powers[^c-daa37f561f2d1d25ab7140952864a5f9]
 
 (1) An authorised inspector may by notice require a person—
 
@@ -1371,7 +1371,7 @@ In this Schedule “terrorism protection investigation” means an investigatio
   - (c) Article 10 of the Perjury (Northern Ireland) Order 1979 ([S.I. 1979/1714 (N.I. 19))](https://www.legislation.gov.uk/nisi/1979/1714) (false statutory declarations and other false unsworn statements);
 - “**specified**” means specified in the notice.
 
-### 4. Powers to enter premises without a warrant[^key-5f97d75f71e6a90b515c824856adeeba]
+### 4. Powers to enter premises without a warrant[^c-5f97d75f71e6a90b515c824856adeeba]
 
 (1) An authorised inspector may enter premises and do any of the following things—
 
@@ -1402,7 +1402,7 @@ In this Schedule “terrorism protection investigation” means an investigatio
 
 (6) The inspector may be accompanied by any person and bring anything required for any purpose for which the inspector is exercising the power under this paragraph.
 
-### 5. Conditions for issue of warrant to enter premises[^key-3a41874a5f14bc11e27a93a3ee59942a]
+### 5. Conditions for issue of warrant to enter premises[^c-3a41874a5f14bc11e27a93a3ee59942a]
 
 (1) A justice may issue a warrant in respect of premises if satisfied on an application made by an authorised inspector that—
 
@@ -1429,7 +1429,7 @@ In this Schedule “terrorism protection investigation” means an investigatio
 - (b) in Scotland, a sheriff or summary sheriff;
 - (c) in Northern Ireland, a lay magistrate.
 
-### 6. Powers exercisable by warrant[^key-4c8bd63f6cb5f07ac83854b0aac66b1d]
+### 6. Powers exercisable by warrant[^c-4c8bd63f6cb5f07ac83854b0aac66b1d]
 
 (1) A warrant issued under paragraph 5 in respect of premises—
 
@@ -1457,7 +1457,7 @@ In this Schedule “terrorism protection investigation” means an investigatio
 
 (6) If an authorised inspector has entered premises under a warrant issued under paragraph 5 and no person appearing to be in charge of the premises is present when the inspector is on the premises, the inspector must leave the premises as effectively secured against trespassers as the inspector found them.
 
-### 7. Evidence of authority[^key-df3e150fafa2cd119e5a4d76d35f42be]
+### 7. Evidence of authority[^c-df3e150fafa2cd119e5a4d76d35f42be]
 
 (1) Before exercising the power to enter premises under a warrant issued under paragraph 5 in respect of premises, an authorised inspector must—
 
@@ -1473,19 +1473,19 @@ In this Schedule “terrorism protection investigation” means an investigatio
 
 (3) If neither the occupier nor any other person appearing to the inspector to be in charge of the premises is present, the inspector must leave a copy of the warrant in a prominent place on the premises.
 
-### 8. Return of warrant[^key-bc79436053ff535643313a9d28d52f1c]
+### 8. Return of warrant[^c-bc79436053ff535643313a9d28d52f1c]
 
 (1) If a warrant issued under paragraph 5 is executed, the authorised inspector who executed it must return it to the court from which it was issued as soon as reasonably practicable with an endorsement summarising the exercise of the powers in paragraph 6.
 
 (2) If a warrant issued under paragraph 5 is not executed, the Security Industry Authority must return it to the court from which it was issued as soon as reasonably practicable with an endorsement stating that it was not executed.
 
-### 9. Retention of evidence etc[^key-76060a85be786bbf97c690881b56d543]
+### 9. Retention of evidence etc[^c-76060a85be786bbf97c690881b56d543]
 
 (1) A thing obtained under this Schedule in connection with a terrorism protection investigation may be retained by the Security Industry Authority for so long as is necessary for the purposes of the investigation.
 
 (2) But a thing may not be retained if a copy, photograph or other recording of the thing would be sufficient for the purposes of the investigation.
 
-### 10. Offence of failing to comply with information notice[^key-4773a378f3c007fe39e76fb465f06c51]
+### 10. Offence of failing to comply with information notice[^c-4773a378f3c007fe39e76fb465f06c51]
 
 (1) A person who is given a notice under paragraph 3 commits an offence if the person fails to comply with it.
 
@@ -1499,7 +1499,7 @@ In this Schedule “terrorism protection investigation” means an investigatio
 - (b) in Scotland, to a fine not exceeding level 5 on the standard scale;
 - (c) in Northern Ireland, to a fine not exceeding level 5 on the standard scale.
 
-### 11. Offence of obstructing an authorised inspector[^key-7ebe820578629a6ac947514e70a903f9]
+### 11. Offence of obstructing an authorised inspector[^c-7ebe820578629a6ac947514e70a903f9]
 
 (1) A person commits an offence if the person intentionally obstructs an authorised inspector in the exercise of a power conferred by this Schedule.
 
@@ -1514,7 +1514,7 @@ In this Schedule “terrorism protection investigation” means an investigatio
 - (a) if the offence is committed before the time when section 281(5) of the Criminal Justice Act 2003 comes into force, six months;
 - (b) if the offence is committed after that time, 51 weeks.
 
-### 12. Offence of pretending to be an authorised inspector[^key-44413e07cf695f2bc31ca43eedeb5490]
+### 12. Offence of pretending to be an authorised inspector[^c-44413e07cf695f2bc31ca43eedeb5490]
 
 (1) A person commits an offence if the person, with intent to deceive, falsely pretends to be an authorised inspector.
 
@@ -1524,7 +1524,7 @@ In this Schedule “terrorism protection investigation” means an investigatio
 - (b) in Scotland, to a fine not exceeding level 5 on the standard scale;
 - (c) in Northern Ireland, to a fine not exceeding level 5 on the standard scale.
 
-### 13. Saving for material subject to legal professional privilege[^key-4bfeebe88b532db382643bb86ef27721]
+### 13. Saving for material subject to legal professional privilege[^c-4bfeebe88b532db382643bb86ef27721]
 
 Nothing in this Schedule confers power to—
 
@@ -1533,7 +1533,7 @@ Nothing in this Schedule confers power to—
 
 in respect of which a claim to legal professional privilege (or in Scotland to confidentiality of communications) could be maintained in legal proceedings.
 
-### 14. Powers of entry: Crown application[^key-d0914564b1dc64a77b2f4db201ac4cf0]
+### 14. Powers of entry: Crown application[^c-d0914564b1dc64a77b2f4db201ac4cf0]
 
 (1) Paragraphs 4 to 6 apply in relation to Crown premises that are not occupied by the Crown.
 
@@ -1554,34 +1554,34 @@ Section 34
 
 *Extent: E+W*
 
-**1.**[^key-d244f4268c1b56dbd24c0ad5097c3839] The [Licensing Act 2003](https://www.legislation.gov.uk/ukpga/2003/17) is amended as follows.
+**1.**[^c-d244f4268c1b56dbd24c0ad5097c3839] The [Licensing Act 2003](https://www.legislation.gov.uk/ukpga/2003/17) is amended as follows.
 
-**2.**[^key-0c82d556f4943ec7768dab3feb40dd26] In section 8 (requirement to keep a register)—
+**2.**[^c-0c82d556f4943ec7768dab3feb40dd26] In section 8 (requirement to keep a register)—
 
 - (a) in subsection (1)(c) after “mentioned in” insert “Part 1 of”, and
 - (b) after subsection (1) insert—
 
   > (1A) Part 2 of Schedule 3 makes provision about the inclusion of plans of premises and plans of works in a register kept under this section.
 
-**3.**[^key-0063b305d2e8cda4b71bb8e6758eba32] In section 17(3) (list of things that must accompany an application for a premises licence) omit the “and” at the end of paragraph (b) and insert—
+**3.**[^c-0063b305d2e8cda4b71bb8e6758eba32] In section 17(3) (list of things that must accompany an application for a premises licence) omit the “and” at the end of paragraph (b) and insert—
 
 > - (ba) if that plan is not compliant with regulations under section 34(2) of the Terrorism (Protection of Premises) Act 2025, by a plan of those premises that is compliant with those regulations, and
 
 .
 
-**4.**[^key-9f689dafd0787545def43d4a9c0476de] In section 29(6) (list of things that must be included in a schedule of works accompanying an application for a provisional statement) omit the “and” at the end of paragraph (b) and insert—
+**4.**[^c-9f689dafd0787545def43d4a9c0476de] In section 29(6) (list of things that must be included in a schedule of works accompanying an application for a provisional statement) omit the “and” at the end of paragraph (b) and insert—
 
 > - (ba) if those plans are not compliant with regulations under section 34(2) of the Terrorism (Protection of Premises) Act 2025, plans of those works that are compliant with those regulations, and
 
 .
 
-**5.**[^key-1ba03b4a2d7ceff0795de0d9d2a0f646] In section 71(4) (list of things that must accompany an application for a club premises certificate) omit the “and” at the end of paragraph (b) and insert—
+**5.**[^c-1ba03b4a2d7ceff0795de0d9d2a0f646] In section 71(4) (list of things that must accompany an application for a club premises certificate) omit the “and” at the end of paragraph (b) and insert—
 
 > - (ba) if that plan is not compliant with regulations under section 34(2) of the Terrorism (Protection of Premises) Act 2025, a plan of those premises that is compliant with those regulations, and
 
 .
 
-**6.**[^key-a0654294f6639544468b6ef70e7505b1] (1) Schedule 3 (matters to be entered in licensing register) is amended as follows.
+**6.**[^c-a0654294f6639544468b6ef70e7505b1] (1) Schedule 3 (matters to be entered in licensing register) is amended as follows.
 
 (2) For the heading substitute “Further provision about licensing registers”.
 
@@ -1706,25 +1706,25 @@ Section 34
 
 *Extent: S*
 
-**7.**[^key-16fcd48456cff02f083433713aa44340] The [Licensing (Scotland) Act 2005 (asp 16)](https://www.legislation.gov.uk/asp/2005/16) is amended as follows.
+**7.**[^c-16fcd48456cff02f083433713aa44340] The [Licensing (Scotland) Act 2005 (asp 16)](https://www.legislation.gov.uk/asp/2005/16) is amended as follows.
 
-**8.**[^key-52f0572ae2beba70aba683ea6db1b3a8] In section 9 (Licensing Board’s duty to keep a public register) after subsection (2) insert—
+**8.**[^c-52f0572ae2beba70aba683ea6db1b3a8] In section 9 (Licensing Board’s duty to keep a public register) after subsection (2) insert—
 
 > (2A) Schedule 1A makes provision about the inclusion of plans of premises in a licensing register.
 
-**9.**[^key-f12949e53a3bba19127d4e5310138669] In section 20(2)(b) (list of things that must accompany an application for a premises licence) after sub-paragraph (ii) insert—
+**9.**[^c-f12949e53a3bba19127d4e5310138669] In section 20(2)(b) (list of things that must accompany an application for a premises licence) after sub-paragraph (ii) insert—
 
 > - (iiza) if that layout plan is not compliant with regulations under section 34(2) of the Terrorism (Protection of Premises) Act 2025, a plan of the subject premises that is compliant with those regulations,
 
 .
 
-**10.**[^key-efad78f8f82584e49b1f3dcc5c699661] In section 46(2) (list of things that must accompany an application for confirmation of a provisional premises licence) omit the “and” at the end of paragraph (c) and insert—
+**10.**[^c-efad78f8f82584e49b1f3dcc5c699661] In section 46(2) (list of things that must accompany an application for confirmation of a provisional premises licence) omit the “and” at the end of paragraph (c) and insert—
 
 > - (ca) if that layout plan is not compliant with regulations under section 34(2) of the Terrorism (Protection of Premises) Act 2025, a plan of those premises that is compliant with those regulations, and
 
 .
 
-**11.**[^key-f2a1a3aed98633258f43bbe0c3284266] After Schedule 1 insert—
+**11.**[^c-f2a1a3aed98633258f43bbe0c3284266] After Schedule 1 insert—
 
 > **Schedule 1A — Inclusion of plans of premises in licensing register**
 >
@@ -1807,182 +1807,182 @@ Section 34
 
 ## Annotations
 
-[^key-aa6aa9b6dfbda33299d37faf32573660]: Commencement: S. 1 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-aa6aa9b6dfbda33299d37faf32573660]: Commencement: S. 1 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-4357431447e4d3ad998dea91dfbb75b8]: Commencement: S. 2 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-4357431447e4d3ad998dea91dfbb75b8]: Commencement: S. 2 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-e423d6f3cd9d0b85c915f02d2c03b3e6]: Commencement: S. 3 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-e423d6f3cd9d0b85c915f02d2c03b3e6]: Commencement: S. 3 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-6fe88ab0ba7c0e4111a23b5918951e5f]: Commencement: S. 4 in force at Royal Assent for specified purposes, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-6fe88ab0ba7c0e4111a23b5918951e5f]: Commencement: S. 4 in force at Royal Assent for specified purposes, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-d5a2a50d557766c48c6fc35f7a7a9d44]: Commencement: S. 5 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-d5a2a50d557766c48c6fc35f7a7a9d44]: Commencement: S. 5 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-6df42f1cf6e1e3c812ab7467543fa302]: Commencement: S. 6 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-6df42f1cf6e1e3c812ab7467543fa302]: Commencement: S. 6 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-7ae77adfa64dba0ef56dcf489bbef11f]: Commencement: S. 7 in force at Royal Assent for specified purposes, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-7ae77adfa64dba0ef56dcf489bbef11f]: Commencement: S. 7 in force at Royal Assent for specified purposes, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-87f4db2ed49b816a232d381d65d3b241]: Commencement: S. 8 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-87f4db2ed49b816a232d381d65d3b241]: Commencement: S. 8 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-e22c8ac5e6728bb384a8c53c228281aa]: Commencement: S. 9 in force at Royal Assent for specified purposes, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-e22c8ac5e6728bb384a8c53c228281aa]: Commencement: S. 9 in force at Royal Assent for specified purposes, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-ab4d5c62dce306b4adb80dac0f3ea325]: Commencement: S. 10 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-ab4d5c62dce306b4adb80dac0f3ea325]: Commencement: S. 10 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-63814474c1949fc83efcf61313f0c5dd]: Commencement: S. 11 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-63814474c1949fc83efcf61313f0c5dd]: Commencement: S. 11 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-1b2bffcb70ddae864fc0b5cc84867168]: Commencement: S. 12 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-1b2bffcb70ddae864fc0b5cc84867168]: Commencement: S. 12 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-8d5eef1ec9a31b14f93cf1d782984f1d]: Commencement: [S. 12(2)(a)](https://www.legislation.gov.uk/ukpga/2025/10/section/12/2/a)[(b)](https://www.legislation.gov.uk/ukpga/2025/10/section/12/2/b)[(3)](https://www.legislation.gov.uk/ukpga/2025/10/section/12/3) in force at 15.6.2026 by [S.I. 2026/622](https://www.legislation.gov.uk/uksi/2026/622), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/622/regulation/2/a)
+[^c-8d5eef1ec9a31b14f93cf1d782984f1d]: Commencement: [S. 12(2)(a)](https://www.legislation.gov.uk/ukpga/2025/10/section/12/2/a)[(b)](https://www.legislation.gov.uk/ukpga/2025/10/section/12/2/b)[(3)](https://www.legislation.gov.uk/ukpga/2025/10/section/12/3) in force at 15.6.2026 by [S.I. 2026/622](https://www.legislation.gov.uk/uksi/2026/622), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/622/regulation/2/a)
 
-[^key-38459318148b0f2a04828286e646839a]: Commencement: S. 13 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-38459318148b0f2a04828286e646839a]: Commencement: S. 13 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-aba78cda013ad4a81088d7cc4b91cd21]: Commencement: S. 14 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-aba78cda013ad4a81088d7cc4b91cd21]: Commencement: S. 14 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-6b0bb5f994910e72904d37c2670440b6]: Commencement: S. 15 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-6b0bb5f994910e72904d37c2670440b6]: Commencement: S. 15 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-d4b690d1d27a22aa4e579e8ae6d8b429]: Commencement: S. 16 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-d4b690d1d27a22aa4e579e8ae6d8b429]: Commencement: S. 16 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-e4865ea018bfa5c083d8d01e8cc31207]: Commencement: S. 17 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-e4865ea018bfa5c083d8d01e8cc31207]: Commencement: S. 17 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-6029f8875d441badc236f3ffb8fe3d3b]: Commencement: S. 18 in force at Royal Assent for specified purposes, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-6029f8875d441badc236f3ffb8fe3d3b]: Commencement: S. 18 in force at Royal Assent for specified purposes, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-540f98186b5cab0584a798cbd076b456]: Commencement: [S. 18(5)-(7)](https://www.legislation.gov.uk/ukpga/2025/10/section/18/5) in force at 15.6.2026 in so far as not already in force by [S.I. 2026/622](https://www.legislation.gov.uk/uksi/2026/622), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/622/regulation/2/b)
+[^c-540f98186b5cab0584a798cbd076b456]: Commencement: [S. 18(5)-(7)](https://www.legislation.gov.uk/ukpga/2025/10/section/18/5) in force at 15.6.2026 in so far as not already in force by [S.I. 2026/622](https://www.legislation.gov.uk/uksi/2026/622), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/622/regulation/2/b)
 
-[^key-e838c75e184ee4df9c0f34e1036ef4ca]: Commencement: S. 19 in force at Royal Assent for specified purposes, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-e838c75e184ee4df9c0f34e1036ef4ca]: Commencement: S. 19 in force at Royal Assent for specified purposes, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-71629574b87dc9af84a3de7ad6992825]: Commencement: S. 20 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-71629574b87dc9af84a3de7ad6992825]: Commencement: S. 20 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-cc3c55908ddfe1ac81889306f16c4f9b]: Commencement: S. 21 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-cc3c55908ddfe1ac81889306f16c4f9b]: Commencement: S. 21 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-236d6e607cbb53bf286a3cd91acad9bc]: Commencement: S. 22 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-236d6e607cbb53bf286a3cd91acad9bc]: Commencement: S. 22 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-da2117362feba5612a4c71a64e0e700d]: Commencement: S. 23 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-da2117362feba5612a4c71a64e0e700d]: Commencement: S. 23 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-7b3a32eaec57f7c64cf7a64e13cc018e]: Commencement: S. 24 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-7b3a32eaec57f7c64cf7a64e13cc018e]: Commencement: S. 24 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-a0b41c1b0957e19a658177036cf9dbe4]: Commencement: S. 25 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-a0b41c1b0957e19a658177036cf9dbe4]: Commencement: S. 25 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-af0b6347dd03fa838f6e7caed7584359]: Commencement: S. 26 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-af0b6347dd03fa838f6e7caed7584359]: Commencement: S. 26 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-9d451152969c800bca54178934756a1a]: Commencement: S. 27 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-9d451152969c800bca54178934756a1a]: Commencement: S. 27 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-8ad300fc25f9243b9bb9ec6a15e43258]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2025/10/section/27) in force at 10.4.2026 by [S.I. 2026/320](https://www.legislation.gov.uk/uksi/2026/320), [reg. 2](https://www.legislation.gov.uk/uksi/2026/320/regulation/2)
+[^c-8ad300fc25f9243b9bb9ec6a15e43258]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2025/10/section/27) in force at 10.4.2026 by [S.I. 2026/320](https://www.legislation.gov.uk/uksi/2026/320), [reg. 2](https://www.legislation.gov.uk/uksi/2026/320/regulation/2)
 
-[^key-96805309e2058a7ac3fe380ab0958e57]: Commencement: S. 28 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-96805309e2058a7ac3fe380ab0958e57]: Commencement: S. 28 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-59c4454aba2852250fd8cf98f68e8e70]: Commencement: S. 29 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-59c4454aba2852250fd8cf98f68e8e70]: Commencement: S. 29 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-adb751e624e706bccc0ff91db4e2b25e]: Commencement: S. 30 in force at Royal Assent for specified purposes, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-adb751e624e706bccc0ff91db4e2b25e]: Commencement: S. 30 in force at Royal Assent for specified purposes, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-e1939aef872a64a341d2c1011432bd32]: Commencement: S. 31 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-e1939aef872a64a341d2c1011432bd32]: Commencement: S. 31 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-775eeb0e017baec404bc941ccd975492]: Commencement: S. 32 in force at Royal Assent for specified purposes, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-775eeb0e017baec404bc941ccd975492]: Commencement: S. 32 in force at Royal Assent for specified purposes, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-5b6bcd7bb313023b6fbd6f6442f65415]: Commencement: S. 33 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-5b6bcd7bb313023b6fbd6f6442f65415]: Commencement: S. 33 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-f157a5e315439033ff48f1429598f8b7]: Commencement: S. 34 in force at Royal Assent for specified purposes, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-f157a5e315439033ff48f1429598f8b7]: Commencement: S. 34 in force at Royal Assent for specified purposes, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-05c7f583548ae4c044fcf4d9db4eade1]: Commencement: S. 35 in force at Royal Assent, see [s. 37(1)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/1)
+[^c-05c7f583548ae4c044fcf4d9db4eade1]: Commencement: S. 35 in force at Royal Assent, see [s. 37(1)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/1)
 
-[^key-cdb6d012cf573658f47e7107bad2aedb]: Commencement: S. 36 in force at Royal Assent, see [s. 37(1)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/1)
+[^c-cdb6d012cf573658f47e7107bad2aedb]: Commencement: S. 36 in force at Royal Assent, see [s. 37(1)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/1)
 
-[^key-1fd3abedd1e9bad45d8c0cc305fb8242]: Commencement: S. 37 in force at Royal Assent, see [s. 37(1)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/1)
+[^c-1fd3abedd1e9bad45d8c0cc305fb8242]: Commencement: S. 37 in force at Royal Assent, see [s. 37(1)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/1)
 
-[^key-30122695ad44b1d61f9b20f8570e54b1]: Commencement: S. 38 in force at Royal Assent, see [s. 37(1)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/1)
+[^c-30122695ad44b1d61f9b20f8570e54b1]: Commencement: S. 38 in force at Royal Assent, see [s. 37(1)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/1)
 
-[^key-9bf2bbebeb89425f541b0b57ad80f446]: Commencement: Sch. 1 para. 1 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-9bf2bbebeb89425f541b0b57ad80f446]: Commencement: Sch. 1 para. 1 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-21e43d3c36e9f25f0f9dead5fe449808]: Commencement: Sch. 1 para. 2 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-21e43d3c36e9f25f0f9dead5fe449808]: Commencement: Sch. 1 para. 2 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-600c2ec9f3356057c52c7ad30e680fb6]: Commencement: Sch. 1 para. 3 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-600c2ec9f3356057c52c7ad30e680fb6]: Commencement: Sch. 1 para. 3 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-247e03d00f554b650883f88a998589a5]: Commencement: Sch. 1 para. 4 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-247e03d00f554b650883f88a998589a5]: Commencement: Sch. 1 para. 4 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-944b0cfcff5a7c4818333daec17a241c]: Commencement: Sch. 1 para. 5 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-944b0cfcff5a7c4818333daec17a241c]: Commencement: Sch. 1 para. 5 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-5237f6d1ec16e0f508e0e0a7e5a369e9]: Commencement: Sch. 1 para. 6 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-5237f6d1ec16e0f508e0e0a7e5a369e9]: Commencement: Sch. 1 para. 6 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-f35c520b85b2d874304ce04b3b8dcfbe]: Commencement: Sch. 1 para. 7 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-f35c520b85b2d874304ce04b3b8dcfbe]: Commencement: Sch. 1 para. 7 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-c58feee33ba74c18c95e8d47a30fcea0]: Commencement: Sch. 1 para. 8 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-c58feee33ba74c18c95e8d47a30fcea0]: Commencement: Sch. 1 para. 8 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-3c1a0a9a199479fd772610aeccf4ad7d]: Commencement: Sch. 1 para. 9 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-3c1a0a9a199479fd772610aeccf4ad7d]: Commencement: Sch. 1 para. 9 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-b2a8b1def68043f8b7c660b8a4214511]: Commencement: Sch. 1 para. 10 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-b2a8b1def68043f8b7c660b8a4214511]: Commencement: Sch. 1 para. 10 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-3a01486d5ff6441b1104215005e812ad]: Commencement: Sch. 1 para. 11 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-3a01486d5ff6441b1104215005e812ad]: Commencement: Sch. 1 para. 11 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-84945998c1115113fb92b83c1e0efe95]: Commencement: Sch. 1 para. 12 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-84945998c1115113fb92b83c1e0efe95]: Commencement: Sch. 1 para. 12 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-d7ffb3618dd7435384357f7a35993164]: Commencement: Sch. 1 para. 13 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-d7ffb3618dd7435384357f7a35993164]: Commencement: Sch. 1 para. 13 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-443c958f1006ef70b38ca4ca704a43a1]: Commencement: Sch. 1 para. 14 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-443c958f1006ef70b38ca4ca704a43a1]: Commencement: Sch. 1 para. 14 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-376b04d4e221988b0d3ea4700c7a256d]: Commencement: Sch. 1 para. 15 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-376b04d4e221988b0d3ea4700c7a256d]: Commencement: Sch. 1 para. 15 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-211b9f0bf2c53df06fc7577a0c5af32e]: Commencement: Sch. 1 para. 16 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-211b9f0bf2c53df06fc7577a0c5af32e]: Commencement: Sch. 1 para. 16 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-55fd5cf8e30e0391b8e0e074fc1ab0d1]: Commencement: Sch. 1 para. 17 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-55fd5cf8e30e0391b8e0e074fc1ab0d1]: Commencement: Sch. 1 para. 17 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-7840b9f786847587c93356d36fb06976]: Commencement: Sch. 1 para. 18 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-7840b9f786847587c93356d36fb06976]: Commencement: Sch. 1 para. 18 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-2196908169d149dc3683a6ea16c4ac97]: Commencement: Sch. 2 para. 1 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-2196908169d149dc3683a6ea16c4ac97]: Commencement: Sch. 2 para. 1 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-21178ff749550685c21e51df9a28a3bc]: Commencement: Sch. 2 para. 2 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-21178ff749550685c21e51df9a28a3bc]: Commencement: Sch. 2 para. 2 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-e257ded11861e0f1d19cc52f56e58b9d]: Commencement: Sch. 2 para. 3 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-e257ded11861e0f1d19cc52f56e58b9d]: Commencement: Sch. 2 para. 3 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-9a2161abb0d35844e84583d3713abcd7]: Commencement: Sch. 2 para. 4 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-9a2161abb0d35844e84583d3713abcd7]: Commencement: Sch. 2 para. 4 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-7fcd2a4dc1f13a254b6fc68dc374c91b]: Commencement: Sch. 2 para. 5 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-7fcd2a4dc1f13a254b6fc68dc374c91b]: Commencement: Sch. 2 para. 5 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-d5558d5d01e56ca9c73009b295c34bc8]: Commencement: Sch. 2 para. 6 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-d5558d5d01e56ca9c73009b295c34bc8]: Commencement: Sch. 2 para. 6 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-bf49915b10630249154dc89399ae2319]: Commencement: Sch. 3 para. 1 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-bf49915b10630249154dc89399ae2319]: Commencement: Sch. 3 para. 1 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-24da36fa48c6b33f72110f1cde5194ed]: Commencement: Sch. 3 para. 2 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-24da36fa48c6b33f72110f1cde5194ed]: Commencement: Sch. 3 para. 2 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-daa37f561f2d1d25ab7140952864a5f9]: Commencement: Sch. 3 para. 3 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-daa37f561f2d1d25ab7140952864a5f9]: Commencement: Sch. 3 para. 3 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-5f97d75f71e6a90b515c824856adeeba]: Commencement: Sch. 3 para. 4 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-5f97d75f71e6a90b515c824856adeeba]: Commencement: Sch. 3 para. 4 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-3a41874a5f14bc11e27a93a3ee59942a]: Commencement: Sch. 3 para. 5 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-3a41874a5f14bc11e27a93a3ee59942a]: Commencement: Sch. 3 para. 5 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-4c8bd63f6cb5f07ac83854b0aac66b1d]: Commencement: Sch. 3 para. 6 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-4c8bd63f6cb5f07ac83854b0aac66b1d]: Commencement: Sch. 3 para. 6 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-df3e150fafa2cd119e5a4d76d35f42be]: Commencement: Sch. 3 para. 7 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-df3e150fafa2cd119e5a4d76d35f42be]: Commencement: Sch. 3 para. 7 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-bc79436053ff535643313a9d28d52f1c]: Commencement: Sch. 3 para. 8 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-bc79436053ff535643313a9d28d52f1c]: Commencement: Sch. 3 para. 8 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-76060a85be786bbf97c690881b56d543]: Commencement: Sch. 3 para. 9 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-76060a85be786bbf97c690881b56d543]: Commencement: Sch. 3 para. 9 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-4773a378f3c007fe39e76fb465f06c51]: Commencement: Sch. 3 para. 10 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-4773a378f3c007fe39e76fb465f06c51]: Commencement: Sch. 3 para. 10 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-7ebe820578629a6ac947514e70a903f9]: Commencement: Sch. 3 para. 11 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-7ebe820578629a6ac947514e70a903f9]: Commencement: Sch. 3 para. 11 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-44413e07cf695f2bc31ca43eedeb5490]: Commencement: Sch. 3 para. 12 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-44413e07cf695f2bc31ca43eedeb5490]: Commencement: Sch. 3 para. 12 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-4bfeebe88b532db382643bb86ef27721]: Commencement: Sch. 3 para. 13 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-4bfeebe88b532db382643bb86ef27721]: Commencement: Sch. 3 para. 13 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-d0914564b1dc64a77b2f4db201ac4cf0]: Commencement: Sch. 3 para. 14 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-d0914564b1dc64a77b2f4db201ac4cf0]: Commencement: Sch. 3 para. 14 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-d244f4268c1b56dbd24c0ad5097c3839]: Commencement: Sch. 4 para. 1 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-d244f4268c1b56dbd24c0ad5097c3839]: Commencement: Sch. 4 para. 1 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-0c82d556f4943ec7768dab3feb40dd26]: Commencement: Sch. 4 para. 2 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-0c82d556f4943ec7768dab3feb40dd26]: Commencement: Sch. 4 para. 2 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-0063b305d2e8cda4b71bb8e6758eba32]: Commencement: Sch. 4 para. 3 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-0063b305d2e8cda4b71bb8e6758eba32]: Commencement: Sch. 4 para. 3 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-9f689dafd0787545def43d4a9c0476de]: Commencement: Sch. 4 para. 4 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-9f689dafd0787545def43d4a9c0476de]: Commencement: Sch. 4 para. 4 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-1ba03b4a2d7ceff0795de0d9d2a0f646]: Commencement: Sch. 4 para. 5 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-1ba03b4a2d7ceff0795de0d9d2a0f646]: Commencement: Sch. 4 para. 5 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-a0654294f6639544468b6ef70e7505b1]: Commencement: Sch. 4 para. 6 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-a0654294f6639544468b6ef70e7505b1]: Commencement: Sch. 4 para. 6 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-16fcd48456cff02f083433713aa44340]: Commencement: Sch. 4 para. 7 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-16fcd48456cff02f083433713aa44340]: Commencement: Sch. 4 para. 7 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-52f0572ae2beba70aba683ea6db1b3a8]: Commencement: Sch. 4 para. 8 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-52f0572ae2beba70aba683ea6db1b3a8]: Commencement: Sch. 4 para. 8 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-f12949e53a3bba19127d4e5310138669]: Commencement: Sch. 4 para. 9 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-f12949e53a3bba19127d4e5310138669]: Commencement: Sch. 4 para. 9 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-efad78f8f82584e49b1f3dcc5c699661]: Commencement: Sch. 4 para. 10 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-efad78f8f82584e49b1f3dcc5c699661]: Commencement: Sch. 4 para. 10 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
 
-[^key-f2a1a3aed98633258f43bbe0c3284266]: Commencement: Sch. 4 para. 11 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)
+[^c-f2a1a3aed98633258f43bbe0c3284266]: Commencement: Sch. 4 para. 11 not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/ukpga/2025/10/section/37/2)

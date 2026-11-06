@@ -32,7 +32,7 @@ Article 100
 
 **2.**[^c20623611] (1) Any house in multiple occupation which does not constitute a dwelling within the meaning of paragraph 1 and in which any person has his only or principal home.
 
-(2) In this paragraph “**house in multiple occupation**” has the meaning given by section 1 of the Houses in Multiple Occupation Act (Northern Ireland) 2016[^key-edda22752eb99d2b320151826bbafe4d] .
+(2) In this paragraph “**house in multiple occupation**” has the meaning given by section 1 of the Houses in Multiple Occupation Act (Northern Ireland) 2016[^c-edda22752eb99d2b320151826bbafe4d] .
 
 **3.**[^c20623621] (1) Accommodation for the elderly in which a person has his only or principal home.
 
@@ -89,7 +89,7 @@ Article 100
 
 [^c20623611]: Commencement: Sch. 2 para. 2 wholly in operation at 1.4.2007, see art. 1(2) and [S.R. 2007/194](https://www.legislation.gov.uk/nisr/2007/194), [art. 2(2)](https://www.legislation.gov.uk/nisr/2007/194/article/2/2), [Sch. 1 Pt. II](https://www.legislation.gov.uk/nisr/2007/194/schedule/1/part/II) (subject to [art. 3](https://www.legislation.gov.uk/nisr/2007/194/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2007/194/schedule/2))
 
-[^key-edda22752eb99d2b320151826bbafe4d]: Textual amendment: Words in [Sch. 2 para. 2(2)](https://www.legislation.gov.uk/nisi/2006/3336/schedule/2/paragraph/2/2) substituted (1.4.2019) by [Houses in Multiple Occupation Act (NorthernIreland) 2016 (c. 22)](https://www.legislation.gov.uk/nia/2016/22), [s. 90(2)](https://www.legislation.gov.uk/nia/2016/22/section/90/2), [Sch. 7 para. 8](https://www.legislation.gov.uk/nia/2016/22/schedule/7/paragraph/8); [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-edda22752eb99d2b320151826bbafe4d]: Textual amendment: Words in [Sch. 2 para. 2(2)](https://www.legislation.gov.uk/nisi/2006/3336/schedule/2/paragraph/2/2) substituted (1.4.2019) by [Houses in Multiple Occupation Act (NorthernIreland) 2016 (c. 22)](https://www.legislation.gov.uk/nia/2016/22), [s. 90(2)](https://www.legislation.gov.uk/nia/2016/22/section/90/2), [Sch. 7 para. 8](https://www.legislation.gov.uk/nia/2016/22/schedule/7/paragraph/8); [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
 
 [^c20623621]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisi/2006/3336/schedule/2/paragraph/3) wholly in operation at 1.4.2007, see [art. 1(2)](https://www.legislation.gov.uk/nisi/2006/3336/article/1/2) and [S.R. 2007/194](https://www.legislation.gov.uk/nisr/2007/194), [art. 2(2)](https://www.legislation.gov.uk/nisr/2007/194/article/2/2), [Sch. 1 Pt. II](https://www.legislation.gov.uk/nisr/2007/194/schedule/1/part/II) (subject to [art. 3](https://www.legislation.gov.uk/nisr/2007/194/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2007/194/schedule/2))
 

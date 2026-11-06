@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33DB. Information relating to complaints handling standards[^key-a5fdf9877db8d507f4f663e9ff4c53e4]
+## 33DB. Information relating to complaints handling standards[^c-a5fdf9877db8d507f4f663e9ff4c53e4]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a5fdf9877db8d507f4f663e9ff4c53e4]: Textual amendment: S. 33DB inserted (1.10.2008) by [Consumers, Estate Agents and Redress Act 2007 (c. 17)](https://www.legislation.gov.uk/ukpga/2007/17), [s. 66(2)](https://www.legislation.gov.uk/ukpga/2007/17/section/66/2), [Sch. 5 para. 1(3)](https://www.legislation.gov.uk/ukpga/2007/17/schedule/5/paragraph/1/3) (with [s. 48(3)](https://www.legislation.gov.uk/ukpga/2007/17/section/48/3)); [S.I. 2008/2550](https://www.legislation.gov.uk/uksi/2008/2550), [art. 2](https://www.legislation.gov.uk/uksi/2008/2550/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/2550/schedule)
+[^c-a5fdf9877db8d507f4f663e9ff4c53e4]: Textual amendment: S. 33DB inserted (1.10.2008) by [Consumers, Estate Agents and Redress Act 2007 (c. 17)](https://www.legislation.gov.uk/ukpga/2007/17), [s. 66(2)](https://www.legislation.gov.uk/ukpga/2007/17/section/66/2), [Sch. 5 para. 1(3)](https://www.legislation.gov.uk/ukpga/2007/17/schedule/5/paragraph/1/3) (with [s. 48(3)](https://www.legislation.gov.uk/ukpga/2007/17/section/48/3)); [S.I. 2008/2550](https://www.legislation.gov.uk/uksi/2008/2550), [art. 2](https://www.legislation.gov.uk/uksi/2008/2550/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/2550/schedule)

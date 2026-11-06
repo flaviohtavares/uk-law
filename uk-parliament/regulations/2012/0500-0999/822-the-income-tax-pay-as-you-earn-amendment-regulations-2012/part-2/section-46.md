@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Electronic payment by large employers: meaning of “large employer”[^key-c94a70c8bc259124639d74f66991e2fe]
+## 46. Electronic payment by large employers: meaning of “large employer”[^c-c94a70c8bc259124639d74f66991e2fe]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In regulation 198A(2)(b) (large employers), after “employee” insert “or, a
 
 ## Annotations
 
-[^key-c94a70c8bc259124639d74f66991e2fe]: Commencement: Reg. 46 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)
+[^c-c94a70c8bc259124639d74f66991e2fe]: Commencement: Reg. 46 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)

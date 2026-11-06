@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Transitionals and savings[^key-ebecc8bd6742fffb412ec217163d72b6]
+## 6. Transitionals and savings[^c-ebecc8bd6742fffb412ec217163d72b6]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ Schedule 3 contains—
 
 ## Annotations
 
-[^key-ebecc8bd6742fffb412ec217163d72b6]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2009/56/article/6) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-ebecc8bd6742fffb412ec217163d72b6]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2009/56/article/6) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)

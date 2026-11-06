@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Failure to comply with enforcement notice[^key-3f4615e7d27dc99ab836df86ce559d17][^key-1f00f5260fd7c78935732e298a82037a]
+## 32. Failure to comply with enforcement notice[^c-3f4615e7d27dc99ab836df86ce559d17][^c-1f00f5260fd7c78935732e298a82037a]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,6 +56,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3f4615e7d27dc99ab836df86ce559d17]: Commencement: S. 32 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
+[^c-3f4615e7d27dc99ab836df86ce559d17]: Commencement: S. 32 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
 
-[^key-1f00f5260fd7c78935732e298a82037a]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2022/46/section/32) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)
+[^c-1f00f5260fd7c78935732e298a82037a]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2022/46/section/32) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)

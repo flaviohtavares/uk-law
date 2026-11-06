@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Compensation for disturbance[^key-9bb68e7d00d173a55b8e53f484527045]
+## 35. Compensation for disturbance[^c-9bb68e7d00d173a55b8e53f484527045]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ For section 47 of the Land Compensation Act 1973 (compensation in respect of lan
 
 ## Annotations
 
-[^key-9bb68e7d00d173a55b8e53f484527045]: Commencement: S. 35 in force at 22.9.2017 by [S.I. 2017/936](https://www.legislation.gov.uk/uksi/2017/936), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2017/936/regulation/3/e) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/936/regulation/4))
+[^c-9bb68e7d00d173a55b8e53f484527045]: Commencement: S. 35 in force at 22.9.2017 by [S.I. 2017/936](https://www.legislation.gov.uk/uksi/2017/936), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2017/936/regulation/3/e) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/936/regulation/4))

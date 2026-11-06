@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Restriction on new claims for industrial death benefit[^key-501ff398c26c65a1915ac11084f7048f]
+## 67. Restriction on new claims for industrial death benefit[^c-501ff398c26c65a1915ac11084f7048f]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ In Part 6 of Schedule 7 to the Social Security Contributions and Benefits Act 19
 
 ## Annotations
 
-[^key-501ff398c26c65a1915ac11084f7048f]: Commencement: S. 67 in force at 5.12.2012 by [S.I. 2012/2530](https://www.legislation.gov.uk/uksi/2012/2530), [art. 2(6)(c)](https://www.legislation.gov.uk/uksi/2012/2530/article/2/6/c)
+[^c-501ff398c26c65a1915ac11084f7048f]: Commencement: S. 67 in force at 5.12.2012 by [S.I. 2012/2530](https://www.legislation.gov.uk/uksi/2012/2530), [art. 2(6)(c)](https://www.legislation.gov.uk/uksi/2012/2530/article/2/6/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 125. Whole life order as starting point for premeditated child murder[^key-ce9f8e10b9e07788fab4e6143f677712]
+## 125. Whole life order as starting point for premeditated child murder[^c-ce9f8e10b9e07788fab4e6143f677712]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ In Schedule 21 to the Sentencing Code (minimum terms in mandatory life sentences
 
 ## Annotations
 
-[^key-ce9f8e10b9e07788fab4e6143f677712]: Commencement: [S. 125](https://www.legislation.gov.uk/ukpga/2022/32/section/125) in force at 28.6.2022, see [s. 208(5)(l)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/l)
+[^c-ce9f8e10b9e07788fab4e6143f677712]: Commencement: [S. 125](https://www.legislation.gov.uk/ukpga/2022/32/section/125) in force at 28.6.2022, see [s. 208(5)(l)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/l)

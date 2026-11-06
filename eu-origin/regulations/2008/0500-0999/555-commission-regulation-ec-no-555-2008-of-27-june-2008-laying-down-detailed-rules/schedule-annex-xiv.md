@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## ANNEX XIV — Areas that are declared ineligible for the grubbing-up scheme in accordance with Article 104(4) to (6) of Regulation (EC) No 479/2008[^key-cf1c6cc0846c956ff05312fc59b52ae1]
+## ANNEX XIV — Areas that are declared ineligible for the grubbing-up scheme in accordance with Article 104(4) to (6) of Regulation (EC) No 479/2008[^c-cf1c6cc0846c956ff05312fc59b52ae1]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1]: Textual amendment: Regulation revoked (31.12.2020) by [The Food and Drink, Veterinary Medicines and Residues (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/865)](https://www.legislation.gov.uk/uksi/2019/865), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/865/regulation/1/2), [Sch. 7 para. 25](https://www.legislation.gov.uk/uksi/2019/865/schedule/7/paragraph/25); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cf1c6cc0846c956ff05312fc59b52ae1]: Textual amendment: Regulation revoked (31.12.2020) by [The Food and Drink, Veterinary Medicines and Residues (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/865)](https://www.legislation.gov.uk/uksi/2019/865), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/865/regulation/1/2), [Sch. 7 para. 25](https://www.legislation.gov.uk/uksi/2019/865/schedule/7/paragraph/25); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 54. Disobedience to censure.[^key-cb28a8aa97761e25130467955e0d3d9b]
+## 54. Disobedience to censure.[^c-cb28a8aa97761e25130467955e0d3d9b]
 
 *Extent: E*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cb28a8aa97761e25130467955e0d3d9b]: Textual amendment: [S. 54](https://www.legislation.gov.uk/ukcm/1963/1/section/54) repealed (1.1.2006) by [Clergy Discipline Measure 2003 (No. 3)](https://www.legislation.gov.uk/ukcm/2003/3), [s. 48(2)](https://www.legislation.gov.uk/ukcm/2003/3/section/48/2), [Sch. 2](https://www.legislation.gov.uk/ukcm/2003/3/schedule/2) (with [s. 47](https://www.legislation.gov.uk/ukcm/2003/3/section/47)); [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
+[^c-cb28a8aa97761e25130467955e0d3d9b]: Textual amendment: [S. 54](https://www.legislation.gov.uk/ukcm/1963/1/section/54) repealed (1.1.2006) by [Clergy Discipline Measure 2003 (No. 3)](https://www.legislation.gov.uk/ukcm/2003/3), [s. 48(2)](https://www.legislation.gov.uk/ukcm/2003/3/section/48/2), [Sch. 2](https://www.legislation.gov.uk/ukcm/2003/3/schedule/2) (with [s. 47](https://www.legislation.gov.uk/ukcm/2003/3/section/47)); [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops

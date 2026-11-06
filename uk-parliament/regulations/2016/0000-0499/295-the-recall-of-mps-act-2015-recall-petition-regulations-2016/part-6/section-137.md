@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 137. Absent signing[^key-0231334223c5e58601b39cc391b4f5c0]
+## 137. Absent signing[^c-0231334223c5e58601b39cc391b4f5c0]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ is guilty of an offence and liable on summary conviction to a fine.
 
 ## Annotations
 
-[^key-0231334223c5e58601b39cc391b4f5c0]: Commencement: Reg. 137 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-0231334223c5e58601b39cc391b4f5c0]: Commencement: Reg. 137 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

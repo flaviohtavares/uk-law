@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87K. Revocation[^key-40aa6408905daf1d4c29c47a3896521c]
+## 87K. Revocation[^c-40aa6408905daf1d4c29c47a3896521c]
 
 *Extent: E+W+S+N.I.*
 
 (1) Subject to regulation 101, the Registrar may revoke a certificate of permission where the Registrar is satisfied that—
 
-- (a) if the registration of the ship were not suspended, the Registrar would terminate the ship’s registration under regulation 56(1)(a), (ab),[^key-9cbd92e1e77f62783207d63d944ff464] (b), (c), (d) or (g);
+- (a) if the registration of the ship were not suspended, the Registrar would terminate the ship’s registration under regulation 56(1)(a), (ab),[^c-9cbd92e1e77f62783207d63d944ff464] (b), (c), (d) or (g);
 - (b) the details recorded on the certificate of permission are not correct, and an application to amend the certificate of permission has not been made in a reasonable period;
 - (c) the ship has been flying the British flag, or
 - (d) the ship has been displaying a UK port of choice.
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-40aa6408905daf1d4c29c47a3896521c]: Textual amendment: [Pt. 10A](https://www.legislation.gov.uk/uksi/1993/3138/part/10A) inserted (29.3.2019) by [The Merchant Shipping (Registration of Ships) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/509)](https://www.legislation.gov.uk/uksi/2019/509), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/509/regulation/1/2), [23](https://www.legislation.gov.uk/uksi/2019/509/regulation/23)
+[^c-40aa6408905daf1d4c29c47a3896521c]: Textual amendment: [Pt. 10A](https://www.legislation.gov.uk/uksi/1993/3138/part/10A) inserted (29.3.2019) by [The Merchant Shipping (Registration of Ships) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/509)](https://www.legislation.gov.uk/uksi/2019/509), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/509/regulation/1/2), [23](https://www.legislation.gov.uk/uksi/2019/509/regulation/23)
 
-[^key-9cbd92e1e77f62783207d63d944ff464]: Textual amendment: Word in [reg. 87K(1)(a)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/87K/1/a) inserted (31.12.2020) by [The Merchant Shipping (Registration of Ships) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/509)](https://www.legislation.gov.uk/uksi/2019/509), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/509/regulation/1/3), [24](https://www.legislation.gov.uk/uksi/2019/509/regulation/24); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9cbd92e1e77f62783207d63d944ff464]: Textual amendment: Word in [reg. 87K(1)(a)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/87K/1/a) inserted (31.12.2020) by [The Merchant Shipping (Registration of Ships) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/509)](https://www.legislation.gov.uk/uksi/2019/509), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/509/regulation/1/3), [24](https://www.legislation.gov.uk/uksi/2019/509/regulation/24); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

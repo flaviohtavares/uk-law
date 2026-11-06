@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1)[^key-b61ca1031f9c0ecf99ce0585dd83d54c] The statutory provisions mentioned in Schedule 2 shall have effect with the amendments specified there.
+(1)[^c-b61ca1031f9c0ecf99ce0585dd83d54c] The statutory provisions mentioned in Schedule 2 shall have effect with the amendments specified there.
 
 (2) Subject to any savings or transitional provisions made by or under this Order, the statutory provisions mentioned in Schedule 3 are repealed to the extent specified there.
 
@@ -28,4 +28,4 @@ summary: ''
 
 [^c21187251]: Commencement: Art. 34 partly in operation; art. 34 not in operation at date Order made see art. 1(3); art. 34 in operation for certain purposes at 1.6.2008 by [S.R. 2008/232](https://www.legislation.gov.uk/nisr/2008/232), [art. 2](https://www.legislation.gov.uk/nisr/2008/232/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2008/232/schedule)
 
-[^key-b61ca1031f9c0ecf99ce0585dd83d54c]: Commencement: Art. 34(1) in operation at 17.9.2012 for specified purposes by [S.R. 2012/336](https://www.legislation.gov.uk/nisr/2012/336), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/336/article/2/a)
+[^c-b61ca1031f9c0ecf99ce0585dd83d54c]: Commencement: Art. 34(1) in operation at 17.9.2012 for specified purposes by [S.R. 2012/336](https://www.legislation.gov.uk/nisr/2012/336), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/336/article/2/a)

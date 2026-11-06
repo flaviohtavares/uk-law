@@ -24,7 +24,7 @@ Regulation 10
 
 ### PART 1 — APPLICATIONS FOR PERMITS
 
-**1.**[^key-e999de219de2af3c76990379b1b33e70] (1) An application to an enforcing authority for a permit under regulation 10 shall be in writing and, subject to paragraphs 1A[^key-4dca94977d543c8d878df2aa7f3c6a5c] to 5, shall contain the following information—
+**1.**[^c-e999de219de2af3c76990379b1b33e70] (1) An application to an enforcing authority for a permit under regulation 10 shall be in writing and, subject to paragraphs 1A[^c-4dca94977d543c8d878df2aa7f3c6a5c] to 5, shall contain the following information—
 
 - (a) the name, telephone number and address (including post code) of the applicant and, if different, any address to which correspondence relating to the application should be sent and, if the applicant is a body corporate, its registered number, the address of its registered or principal office and, if that body corporate is a subsidiary of a holding company, within the meaning of the Companies Act 2006[^f00039], the name of the ultimate holding company and the address of its registered or principal office;
 - (b) in the case of an application for a permit to operate an installation or Part A mobile plant, the address of the site of the installation or mobile plant and its Irish grid reference, a map or plan showing that site and, in the case of an installation, the location of the installation on that site and the name of any district council in whose district the site is situated;
@@ -55,15 +55,15 @@ Regulation 10
 - (a) shall contain the information necessary to determine the state of soil and groundwater contamination so as to make a quantified comparison with the state upon definitive cessation of activities, and shall contain at least the following information—
   - (i) information on the present use and, where available, on past uses of the site; and
   - (ii) where available, existing information on soil and groundwater measurements that reflect the state at the time the report is drawn up or, alternatively, new soil and groundwater measurements having regard to the possibility of soil and groundwater contamination by those hazardous substances to be used, produced or released by the installation concerned; and
-- (b) may include, or have attached to it, information produced pursuant to other national [^key-56e076dca36b2c52705e5fc0fe03ed28]... law which fulfils the requirements of head (a).
+- (b) may include, or have attached to it, information produced pursuant to other national [^c-56e076dca36b2c52705e5fc0fe03ed28]... law which fulfils the requirements of head (a).
 
 (5) The requirements in sub-paragraphs (2)(a) and (4) shall not apply to any part of an application which relates to an activity falling within paragraphs (b), (d), (g) or (h) of Part A of section 5.1 of Schedule 1.
 
-**1A.**[^key-4dd9a5bb546c4419f66e9bc83d65c0d1] Paragraph 1(1) applies in relation to an application for a permit to operate an installation or mobile plant carrying out only an activity falling within head (b) of Part C of section 1.1 of Part 1 of Schedule 1, as if the following head was substituted for heads (e) to (j) of that paragraph—
+**1A.**[^c-4dd9a5bb546c4419f66e9bc83d65c0d1] Paragraph 1(1) applies in relation to an application for a permit to operate an installation or mobile plant carrying out only an activity falling within head (b) of Part C of section 1.1 of Part 1 of Schedule 1, as if the following head was substituted for heads (e) to (j) of that paragraph—
 
 - (e) a cost-benefit analysis;
 
-**2.**[^key-5b893b8230bd7b6b09ed5bca50f122e2] An application for a permit to operate a waste incineration installation shall in addition to the information specified in paragraph 1, contain a description of the measures which the operator proposes to undertake in order to ensure that—
+**2.**[^c-5b893b8230bd7b6b09ed5bca50f122e2] An application for a permit to operate a waste incineration installation shall in addition to the information specified in paragraph 1, contain a description of the measures which the operator proposes to undertake in order to ensure that—
 
 - (a) the plant is designed, equipped and will be operated in such a manner that the requirements of Chapter IV of the IED are met, taking into account the categories of waste to be incinerated;
 - (b) the heat generated during the incineration and co-incineration process is recovered as far as practicable, for example through combined heat and power, the generating of process steam or district heating;
@@ -71,7 +71,7 @@ Regulation 10
 - (d) the disposal of the residues which cannot be prevented, reduced or recycled will be carried out in conformity with national and European Union law; and
 - (e) the proposed measurement techniques for emissions into the air and water comply with Annex VI of the IED.
 
-**3.**[^key-141e5e3df3fc5e878853ac2196987758] An application for a landfill permit, where an activity falling within Part A of section 5.2 in Part 1 of Schedule 1 is carried out, shall contain the following additional information—
+**3.**[^c-141e5e3df3fc5e878853ac2196987758] An application for a landfill permit, where an activity falling within Part A of section 5.2 in Part 1 of Schedule 1 is carried out, shall contain the following additional information—
 
 - (a) a description of the types and total quantity of waste to be deposited;
 - (b) the proposed capacity of the disposal site;
@@ -80,28 +80,28 @@ Regulation 10
 - (e) the proposed plan for the closure and after-care procedures; and
 - (f) the financial provision required by virtue of regulation 4(3)(b).
 
-**4.**[^key-0223b1797e9e500505a1dc5063d7872c] (1) An application for a permit to operate an installation which contains a SED installation shall, in addition to the information specified in paragraphs 1 and where applicable 2, include a description of the measures which are envisaged to guarantee in respect of that installation that the installation is designed, equipped and will be operated in such a manner that the requirements of Chapter V of the IED are met.
+**4.**[^c-0223b1797e9e500505a1dc5063d7872c] (1) An application for a permit to operate an installation which contains a SED installation shall, in addition to the information specified in paragraphs 1 and where applicable 2, include a description of the measures which are envisaged to guarantee in respect of that installation that the installation is designed, equipped and will be operated in such a manner that the requirements of Chapter V of the IED are met.
 
 (2) That description shall include—
 
 - (a) where the operator wishes to use a reduction scheme, details of the proposed reduction scheme; and
-- (b) where there is used in the SED installation substances or mixtures which, because of their content of volatile organic compounds are classified as carcinogens, mutagens or toxic to reproduction under Regulation No 1272/2008[^f00041] of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures as last amended by Commission Regulation 2017/776/[^key-c2734f3666b68a8d11477a0ce408a05e]EU are assigned or need to carry the hazard statements H340, H350, H350i, H360D or H360F or the risk phrases R45, R46, R49, R60 or R61, a timetable for replacing such substances or mixtures, as far as possible, by less harmful substances or mixtures within the shortest possible time, taking into account the guidance referred to in Article 64 of the IED.
+- (b) where there is used in the SED installation substances or mixtures which, because of their content of volatile organic compounds are classified as carcinogens, mutagens or toxic to reproduction under Regulation No 1272/2008[^f00041] of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures as last amended by Commission Regulation 2017/776/[^c-c2734f3666b68a8d11477a0ce408a05e]EU are assigned or need to carry the hazard statements H340, H350, H350i, H360D or H360F or the risk phrases R45, R46, R49, R60 or R61, a timetable for replacing such substances or mixtures, as far as possible, by less harmful substances or mixtures within the shortest possible time, taking into account the guidance referred to in Article 64 of the IED.
 
-**5.**[^key-1e60ba5566b40125f0b4d3aa99dba295] Paragraph 1(1) applies in relation to an application for a permit to operate an installation involving dry cleaning as defined in section 7 of Part 1 of Schedule 1 (SED activities), as if, in so far as the installation is concerned with the carrying out of that activity, the following heads were substituted for heads (d) to (g)—
+**5.**[^c-1e60ba5566b40125f0b4d3aa99dba295] Paragraph 1(1) applies in relation to an application for a permit to operate an installation involving dry cleaning as defined in section 7 of Part 1 of Schedule 1 (SED activities), as if, in so far as the installation is concerned with the carrying out of that activity, the following heads were substituted for heads (d) to (g)—
 
 - (d) the model name and number, description, serial number, if any, and date when the dry cleaning machine was installed, name of manufacturer and its rated capacity;
 - (e) details of any spot cleaning to be undertaken and details of checking and maintenance procedures to be followed and supervision, training and qualifications of operating staff;
 - (f) details of the solvents to be used, including a description of any risk phrase solvents;
 - (g) details of the arrangements for storing solvents prior to use, and used solvents and solvent-contaminated materials, including a description of the location where the materials are stored;
 
-**6.**[^key-74cca6303ad43f09caa2b2dff3717f42] The enforcing authority may, by notice in writing, require the applicant to furnish such further information as may be specified in the notice, within the period so specified, as the enforcing authority may require for the purpose of determining the application and, if the applicant fails to furnish the specified information within the period specified, the application shall, if the enforcing authority gives notice in writing to the applicant that it treats the failure as such, be deemed to have been withdrawn at the end of that period.
+**6.**[^c-74cca6303ad43f09caa2b2dff3717f42] The enforcing authority may, by notice in writing, require the applicant to furnish such further information as may be specified in the notice, within the period so specified, as the enforcing authority may require for the purpose of determining the application and, if the applicant fails to furnish the specified information within the period specified, the application shall, if the enforcing authority gives notice in writing to the applicant that it treats the failure as such, be deemed to have been withdrawn at the end of that period.
 
-**7.**[^key-5400bf5bd015821a245443d81cbaa5e3] Subject to paragraph 30, the applicant shall, within the period of 28 days beginning 14 days after the date on which the application is duly made, advertise the application—
+**7.**[^c-5400bf5bd015821a245443d81cbaa5e3] Subject to paragraph 30, the applicant shall, within the period of 28 days beginning 14 days after the date on which the application is duly made, advertise the application—
 
 - (a) in the case of an application for a permit to operate an installation or Part A mobile plant, in at least one newspaper circulating in the locality in which the installation or Part A mobile plant covered by the application will be operated; and
 - (b) in the case of an application for a permit to operate a Part A installation or Part A mobile plant, in the Belfast Gazette.
 
-**8.**[^key-960a494096e752ff1821c3cde3af7b79] Any advertisement required by paragraph 7 shall—
+**8.**[^c-960a494096e752ff1821c3cde3af7b79] Any advertisement required by paragraph 7 shall—
 
 - (a) state the name of the applicant;
 - (b) in the case of an application for a permit to operate an installation or Part A mobile plant, state the address of the site of the installation or mobile plant;
@@ -111,14 +111,14 @@ Regulation 10
 - (f) explain that any person may make written representations to the enforcing authority within the period of 42 days beginning with the date of the advertisement and give the enforcing authority’s address for receiving the representations; and
 - (g) explain that any such representations made by any person will be entered in a public register unless that person requests in writing that they should not be so entered, and that where such a request is made there will be included in the register a statement indicating only that representations have been made which have been the subject of such a request.
 
-**9.**[^key-b81f8c16961a5739f9b0f627d90f3cf9] In the case of an application for a permit to operate a Part A installation or Part A mobile plant, the advertisement required by paragraph 7 shall, in addition to any information required by paragraph 8—
+**9.**[^c-b81f8c16961a5739f9b0f627d90f3cf9] In the case of an application for a permit to operate a Part A installation or Part A mobile plant, the advertisement required by paragraph 7 shall, in addition to any information required by paragraph 8—
 
 - (a) explain that the register, specified in paragraph 8(e), contains the particulars of the application, including the information listed in paragraphs 1 to 4; and
-- (b) where applicable, state that the determination of the application is subject to a national or transboundary environmental impact assessment or to consultations [^key-bc4ca3fdb9a26cd33b336df448c42e55]... in accordance with paragraph 22.
+- (b) where applicable, state that the determination of the application is subject to a national or transboundary environmental impact assessment or to consultations [^c-bc4ca3fdb9a26cd33b336df448c42e55]... in accordance with paragraph 22.
 
-**10.**[^key-97f514f7a5886332079eec5949471673] Where an application is for a permit to operate more than one installation or mobile plant, the application and the advertisement required by paragraph 7 shall contain the information in relation to each installation or mobile plant.
+**10.**[^c-97f514f7a5886332079eec5949471673] Where an application is for a permit to operate more than one installation or mobile plant, the application and the advertisement required by paragraph 7 shall contain the information in relation to each installation or mobile plant.
 
-**11.**[^key-82c4bcaf983f6c15dbc75a7c0f40a67a] Paragraph 7 shall not apply in relation to an application for a permit to operate an installation involving only—
+**11.**[^c-82c4bcaf983f6c15dbc75a7c0f40a67a] Paragraph 7 shall not apply in relation to an application for a permit to operate an installation involving only—
 
 (1) the carrying out of an activity falling within heads (b), (c), (d) or (e) of Part C of section 1.2 of Part 1 of Schedule 1;
 
@@ -128,7 +128,7 @@ Regulation 10
 
 ### PART 2 — DETERMINATION OF APPLICATIONS
 
-**12.**[^key-37dd823db4be7cf57463f2db8ab9c20a] (1) Subject to paragraphs 13 and 30[^key-e6fa42412f38cd50fcf5808bc0167c71] , the enforcing authority shall, within the period of 14 days from the date of receiving a duly made application for a permit, give notice of the application, enclosing a copy of it, to the following persons—
+**12.**[^c-37dd823db4be7cf57463f2db8ab9c20a] (1) Subject to paragraphs 13 and 30[^c-e6fa42412f38cd50fcf5808bc0167c71] , the enforcing authority shall, within the period of 14 days from the date of receiving a duly made application for a permit, give notice of the application, enclosing a copy of it, to the following persons—
 
 - (a) in the case of an application for a permit to operate an installation or Part A mobile plant, the Regional Agency for Public Health and Social Well-being in whose area the installation or mobile plant will be operated;
 - (b) in the case of an application for a permit to operate a Part A installation or Part A mobile plant—
@@ -142,7 +142,7 @@ Regulation 10
   - (viii) where the application will be determined by the chief inspector, the district council in whose district the installation or mobile plant will be operated; and
   - (ix) where the operation of the installation or mobile plant will involve the carrying out of a specified waste management activity, the Department of the Environment (Planning Service);
 - (c) in the case of an application for a permit to operate a Part B or Part C installation where the operation of the installation may involve an emission which may affect an area of special scientific interest or a European site, the Department of the Environment;
-- (d) in the case of an application for a permit to operate an installation or a Part A mobile plant on a site in respect of which a major accident prevention policy document is required under regulation 7 of Control of Major Accident Hazards Regulations (Northern Ireland) 2015[^key-434e30d86b4385f3a3dc79cab6204001] [^f00043] or a safety report is required under Part 3 of those Regulations , the Health and Safety Executive for Northern Ireland;
+- (d) in the case of an application for a permit to operate an installation or a Part A mobile plant on a site in respect of which a major accident prevention policy document is required under regulation 7 of Control of Major Accident Hazards Regulations (Northern Ireland) 2015[^c-434e30d86b4385f3a3dc79cab6204001] [^f00043] or a safety report is required under Part 3 of those Regulations , the Health and Safety Executive for Northern Ireland;
 - (e) in the case of an application for a permit to operate a Part C installation involving only the carrying out of an activity falling within heads (b), (c), (d) or (e) of Part C of section 1.2 of Part 1 of Schedule 1, the petroleum licensing authority for that installation; and
 - (f) in the case of all applications, such other persons as the Department may direct.
 
@@ -156,13 +156,13 @@ Regulation 10
 - “petroleum licensing authority” means a district council empowered to grant petroleum spirit licences under the Petroleum (Consolidation) Act (Northern Ireland) 1929[^f00049];
 - “Waterways Ireland” means the implementation body for inland waterways established under Article 1 of the Agreement between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of Ireland establishing implementation bodies.
 
-**13.**[^key-6d94eec57183018fae3c99ec4b418379] Paragraph 12 does not apply in relation to an application for—
+**13.**[^c-6d94eec57183018fae3c99ec4b418379] Paragraph 12 does not apply in relation to an application for—
 
 (1) a permit to operate an installation involving only dry cleaning as defined in section 7 (SED activities) of Part 1 of Schedule 1; or
 
 (2) a permit to operate an installation or mobile plant carrying out only an activity falling within head (b) of Part C of section 1.1 of Part 1 of Schedule 1.
 
-**14.**[^key-987c68843627f17b632ea68c263ccb12] (1) If the enforcing authority proposes to grant a permit subject to an off-site condition, it shall, before granting the permit, give a notice which complies with sub-paragraph (2) to every person appearing to it to be a person falling within sub-paragraph (3).
+**14.**[^c-987c68843627f17b632ea68c263ccb12] (1) If the enforcing authority proposes to grant a permit subject to an off-site condition, it shall, before granting the permit, give a notice which complies with sub-paragraph (2) to every person appearing to it to be a person falling within sub-paragraph (3).
 
 (2) A notice served under sub-paragraph (1) shall—
 
@@ -183,7 +183,7 @@ Regulation 10
 
 but does not include a mortgagee not in possession.
 
-**15.**[^key-3dffc402f4a364e1e1e153d7ae1fff3a] (1) Any representations made by any persons within the period allowed shall be considered by the enforcing authority in determining the application.
+**15.**[^c-3dffc402f4a364e1e1e153d7ae1fff3a] (1) Any representations made by any persons within the period allowed shall be considered by the enforcing authority in determining the application.
 
 (2) For the purpose of sub-paragraph (1), the period allowed for making representations is—
 
@@ -196,9 +196,9 @@ but does not include a mortgagee not in possession.
 
 beginning with the date on which the application or draft determination is advertised pursuant to paragraph 7 or 19.
 
-**16.**[^key-9502790b091f5b169fb54f78907c60f7] In the case of an application for a permit to operate a Part A installation or Part A mobile plant, any relevant information obtained or conclusion arrived at, pursuant to Articles 5, 6, 7 and 9 of Directive 2011/92/EU[^f00050] on the assessment of the effects of certain public and private projects on the environment as last amended by[^key-db3aea9b7350159ee1f8ba6bffc95712] [Directive 2014/52/EU](https://www.legislation.gov.uk/european/directive/2014/0052) , in relation to the installation shall be taken into consideration by the chief inspector in determining the application.
+**16.**[^c-9502790b091f5b169fb54f78907c60f7] In the case of an application for a permit to operate a Part A installation or Part A mobile plant, any relevant information obtained or conclusion arrived at, pursuant to Articles 5, 6, 7 and 9 of Directive 2011/92/EU[^f00050] on the assessment of the effects of certain public and private projects on the environment as last amended by[^c-db3aea9b7350159ee1f8ba6bffc95712] [Directive 2014/52/EU](https://www.legislation.gov.uk/european/directive/2014/0052) , in relation to the installation shall be taken into consideration by the chief inspector in determining the application.
 
-**17.**[^key-a6e763c9427d0592adb04cb7ed93ac7c] (1) The Department may give directions to the enforcing authority requiring that any particular application or any class of applications for a permit shall be referred to it for determination pending a further direction under sub-paragraph (13).
+**17.**[^c-a6e763c9427d0592adb04cb7ed93ac7c] (1) The Department may give directions to the enforcing authority requiring that any particular application or any class of applications for a permit shall be referred to it for determination pending a further direction under sub-paragraph (13).
 
 (2) The enforcing authority shall inform the applicant of the fact that the application is being referred to the Department and forward to the Department any representations which have been made to the enforcing authority within the period allowed.
 
@@ -231,7 +231,7 @@ beginning with the date on which the application or draft determination is adver
 
 (13) The Department shall, on determining any application transferred to it under this paragraph, give to the enforcing authority such a direction as it thinks fit as to whether it is to grant the application and, if so, as to the conditions that are to be attached to the permit.
 
-**18.**[^key-22864e7c95167169cb87cf5ba3c5507c] (1) Except in a case where an application has been referred to the Department under paragraph 17 and subject to paragraph 23, the enforcing authority shall give notice of—
+**18.**[^c-22864e7c95167169cb87cf5ba3c5507c] (1) Except in a case where an application has been referred to the Department under paragraph 17 and subject to paragraph 23, the enforcing authority shall give notice of—
 
 - (a) for Part A installations and for Part A mobile plant, its draft determination of an application for a permit, within the period of six months beginning with the day on which it received the duly made application;
 - (b) for Part B and Part C installations and Part B and Part C mobile plant, its determination of an application for a permit, within the period of six months beginning with the day on which it received the duly made application; and
@@ -244,14 +244,14 @@ beginning with the date on which the application or draft determination is adver
 - (c) where a matter falls to be determined under regulation 34 or 35, any period beginning with the date on which the period of 28 days referred to in paragraph 7 ends and ending on the date on which the application is advertised in accordance with paragraph 30(a);
 - (d) where separate applications are made to operate different parts of one installation, any period beginning with the date on which notice is served on any of the applicants under paragraph 6 and ending on the date on which the applicant furnishes the information specified in the notice.
 
-**19.**[^key-94d92d37becd2301af04b55f2180f351] (1) The enforcing authority shall—
+**19.**[^c-94d92d37becd2301af04b55f2180f351] (1) The enforcing authority shall—
 
 - (a) within a period of 3 working days beginning with the date on which notice of a draft determination is given pursuant to paragraph 18(1)(a), advertise the notice on its web-site, and if it considers it appropriate, by any other means; and
 - (b) take all relevant steps specified in the advertisement as falling to be carried out by the enforcing authority, within the time-periods set out in that advertisement.
 
-(2) In the case of a notice of a draft determination in respect of an application which has been forwarded by the Department to a[^key-4191fa692671f497a7113a10f0078a4f] Member State under paragraph 22, the enforcing authority shall forward copies of the draft determination and of the advertisement made pursuant to this paragraph to the Department at the same time as the draft determination is advertised.
+(2) In the case of a notice of a draft determination in respect of an application which has been forwarded by the Department to a[^c-4191fa692671f497a7113a10f0078a4f] Member State under paragraph 22, the enforcing authority shall forward copies of the draft determination and of the advertisement made pursuant to this paragraph to the Department at the same time as the draft determination is advertised.
 
-**20.**[^key-773a7d2e39a0108a4fc4e969b6bbba41] (1) An advertisement required by paragraph 19 shall—
+**20.**[^c-773a7d2e39a0108a4fc4e969b6bbba41] (1) An advertisement required by paragraph 19 shall—
 
 - (a) explain where, how and at what times any register which contains—
   - (i) any additional information which is relevant to the determination of the application which has become available after the application is advertised pursuant to paragraph 7;
@@ -279,48 +279,48 @@ beginning with the date on which the application or draft determination is adver
 - (a) the enforcing authority shall forward to the Department a copy of the final determination and the information specified in sub-paragraph (1)(c)(i)(bb) or (1)(c)(ii)(bb), by the date by which it is required to give notice of its determination under sub-paragraph (1)(c)(i) or (1)(c)(ii); and
 - (b) the Department shall forward to the Member State to which the draft determination has been forwarded under paragraph 22, copies of the documents specified in the previous head, as soon as practicable after the date of receipt.
 
-**21.**[^key-143f2f4ccf05a56852e6ba2e02fa2dec] If the enforcing authority fails to give notice of its determination or draft determination of an application for a permit within the applicable period allowed by or under paragraph 18 or paragraph 20, the application shall, if the applicant notifies the authority in writing that he treats the failure as such, be deemed to have been refused at the end of that period.
+**21.**[^c-143f2f4ccf05a56852e6ba2e02fa2dec] If the enforcing authority fails to give notice of its determination or draft determination of an application for a permit within the applicable period allowed by or under paragraph 18 or paragraph 20, the application shall, if the applicant notifies the authority in writing that he treats the failure as such, be deemed to have been refused at the end of that period.
 
-**22.**[^key-1a522ae81d7c95111d6e3db61dafadad] Where the Department is aware that the operation of an installation carrying out an activity listed in Annex I to the IED in Northern Ireland is likely to have significant negative effects on the environment of a[^key-51a9d361814948a82f1d992563db5c9b] Member State, or where a Member State likely to be significantly affected so requests, the Department shall forward—
+**22.**[^c-1a522ae81d7c95111d6e3db61dafadad] Where the Department is aware that the operation of an installation carrying out an activity listed in Annex I to the IED in Northern Ireland is likely to have significant negative effects on the environment of a[^c-51a9d361814948a82f1d992563db5c9b] Member State, or where a Member State likely to be significantly affected so requests, the Department shall forward—
 
 - (a) a copy of the application to operate the installation together with a copy of the advertisement made under paragraph 7; and
 - (b) where applicable, a copy of the draft determination in respect of that application together with a copy of the advertisement made under paragraph 19,
 
 to that Member State[^M_F_ec87dfaa-fa40-414d-c0b8-963e333be9f3] at the same time as the application or draft determination is advertised pursuant to paragraph 7 or 19, (or as soon as it becomes so aware or receives such a request, if it becomes so aware or receives such a request after the application or draft determination is advertised but before the application is determined) in order that the application or draft determination may serve as the basis for any consultations necessary in the framework of the bilateral relations between the United Kingdom and that Member State on a reciprocal and equivalent basis, as referred to in Article 26 of the IED.
 
-**23.**[^key-42b5bfd61e502cfafa05de34fec9aebb] (1) Where an application is forwarded to a[^M_F_af97e077-93cb-4072-a8f7-5da9492b1369] Member State pursuant to paragraph 22, the Department shall notify the applicant and the chief inspector and, in a case where the application has not been referred to the Department under paragraph 17—
+**23.**[^c-42b5bfd61e502cfafa05de34fec9aebb] (1) Where an application is forwarded to a[^M_F_af97e077-93cb-4072-a8f7-5da9492b1369] Member State pursuant to paragraph 22, the Department shall notify the applicant and the chief inspector and, in a case where the application has not been referred to the Department under paragraph 17—
 
-- (a) the chief inspector shall not determine the application or provide his draft determination until the Department has notified him in writing that the bilateral consultations mentioned in paragraph 22 have been completed and has forwarded to him any representations duly made on the application by persons in that Member State[^key-99162d26ccc356b399d710f0a70bad0b] which have been forwarded to the Department; and
+- (a) the chief inspector shall not determine the application or provide his draft determination until the Department has notified him in writing that the bilateral consultations mentioned in paragraph 22 have been completed and has forwarded to him any representations duly made on the application by persons in that Member State[^c-99162d26ccc356b399d710f0a70bad0b] which have been forwarded to the Department; and
 - (b) the period within which to give notice of the determination or to provide a draft determination of the application set out in paragraph 18 shall begin on the date on which the chief inspector receives the Department’s notification that the bilateral consultations have been completed.
 
 (2) In determining an application which is forwarded to a Member State pursuant to paragraph 22 the chief inspector, or the Department if the application has been referred to it, shall take into consideration any representations duly made in that Member State which have been forwarded to the Department.
 
-**24.**[^key-5ceb8520cc594e30a26f79e15f6d3a0e] Any representations on the draft determination made in the Member State to which the draft determination has been sent, which have been received by the Department within the period of 22 working days from the date of the Department’s receipt of the draft determination from the enforcing authority, shall be forwarded to the enforcing authority within the period of 3 working days beginning on the day after that period ends.
+**24.**[^c-5ceb8520cc594e30a26f79e15f6d3a0e] Any representations on the draft determination made in the Member State to which the draft determination has been sent, which have been received by the Department within the period of 22 working days from the date of the Department’s receipt of the draft determination from the enforcing authority, shall be forwarded to the enforcing authority within the period of 3 working days beginning on the day after that period ends.
 
-**25.**[^key-496083669561a7e11f869d6e8c9f8395] (1) For the purposes of Parts 1 and 2 “working day” means a day which is not a Saturday or a Sunday, Christmas Day, Good Friday or a bank holiday in Northern Ireland under the Banking and Financial Dealings Act 1971[^f00051]
+**25.**[^c-496083669561a7e11f869d6e8c9f8395] (1) For the purposes of Parts 1 and 2 “working day” means a day which is not a Saturday or a Sunday, Christmas Day, Good Friday or a bank holiday in Northern Ireland under the Banking and Financial Dealings Act 1971[^f00051]
 
 (2) in paragraphs 22, 23 and 24, “Member State” shall be taken to include Norway, Iceland and Liechtenstein.
 
 ### PART 3 — NATIONAL SECURITY AND CONFIDENTIAL INFORMATION
 
-**26.**[^key-d29fee798672630497c776217f2887b3] The requirements of paragraph 7 shall not apply in so far as they would require the advertisement of information mentioned in paragraph 8 which is not to be included in the register by virtue of regulation 34 or 35.
+**26.**[^c-d29fee798672630497c776217f2887b3] The requirements of paragraph 7 shall not apply in so far as they would require the advertisement of information mentioned in paragraph 8 which is not to be included in the register by virtue of regulation 34 or 35.
 
-**27.**[^key-1a4d0f86a8f897319ce66bf6900587bb] The requirements of paragraph 12, other than paragraph 12(f), shall not apply in so far as they would require a person mentioned in any of those provisions to be given information which is not included in the register by virtue of regulation 34.
+**27.**[^c-1a4d0f86a8f897319ce66bf6900587bb] The requirements of paragraph 12, other than paragraph 12(f), shall not apply in so far as they would require a person mentioned in any of those provisions to be given information which is not included in the register by virtue of regulation 34.
 
-**28.**[^key-a2ed5bcead293c21e9e9c734224ed1d8] Subject to paragraph 29, the requirements of paragraph 12(1)(b)(ii), (iii) and (iv) and (c), shall not apply in so far as they would require a person mentioned in any of those provisions to be given information which is not included in the register by virtue of regulation 35.
+**28.**[^c-a2ed5bcead293c21e9e9c734224ed1d8] Subject to paragraph 29, the requirements of paragraph 12(1)(b)(ii), (iii) and (iv) and (c), shall not apply in so far as they would require a person mentioned in any of those provisions to be given information which is not included in the register by virtue of regulation 35.
 
-**29.**[^key-7d6f01473cf7dd95b1e0c3a9b288101c] Paragraph 28 shall not apply in relation to information which is not included in the register by virtue of regulation 35 in so far as—
+**29.**[^c-7d6f01473cf7dd95b1e0c3a9b288101c] Paragraph 28 shall not apply in relation to information which is not included in the register by virtue of regulation 35 in so far as—
 
 - (a) in the case of the Department for Regional Development, the information is about the release of any substance into a sewer vested in the Department for Regional Development;
 - (b) in the case of the Department of the Environment, the information is about the release of any substance which may affect a site of special scientific interest or a European site; or
 - (c) in the case of a harbour authority, the information is about the release of any substance into a harbour managed by that person.
 
-**30.**[^key-3ec555f6483260f7e8dea3791830c745] Where a matter falls to be determined under regulation 34 or 35—
+**30.**[^c-3ec555f6483260f7e8dea3791830c745] Where a matter falls to be determined under regulation 34 or 35—
 
 - (a) the period within which an advertisement is to be published under paragraph 7 shall be 28 days beginning 14 days after the day on which the matters to be determined under those regulations are finally disposed of; and
 - (b) the period for notification under paragraph 12(1) shall be the period of 14 days beginning 14 days after the day on which the matters to be determined under those regulations are finally disposed of.
 
-**31.**[^key-d3d3cd1b0e576a3aaee50f4a8a05081a] For the purpose of paragraph 30, the matters to be determined under regulation 34 or 35 are finally disposed of—
+**31.**[^c-d3d3cd1b0e576a3aaee50f4a8a05081a] For the purpose of paragraph 30, the matters to be determined under regulation 34 or 35 are finally disposed of—
 
 - (a) in a case where the Secretary of State determines under regulation 34 whether or not information is to be included in the register, on the date on which the Secretary of State so determines;
 - (b) in a case where the enforcing authority determines under regulation 35(2) or (5) that the information in question is commercially confidential, on the date of the enforcing authority’s determination;
@@ -328,51 +328,51 @@ to that Member State[^M_F_ec87dfaa-fa40-414d-c0b8-963e333be9f3] at the same time
 
 ## Annotations
 
-[^key-e999de219de2af3c76990379b1b33e70]: Commencement: Sch. 4 para. 1 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-e999de219de2af3c76990379b1b33e70]: Commencement: Sch. 4 para. 1 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
-[^key-4dca94977d543c8d878df2aa7f3c6a5c]: Textual amendment: Word in [Sch. 4 para. 1(1)](https://www.legislation.gov.uk/nisr/2013/160/schedule/4/paragraph/1/1) substituted (10.12.2014) by [The Pollution Prevention and Control (Industrial Emissions) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/304)](https://www.legislation.gov.uk/nisr/2014/304), [regs. 1](https://www.legislation.gov.uk/nisr/2014/304/regulation/1), [11(a)](https://www.legislation.gov.uk/nisr/2014/304/regulation/11/a)
+[^c-4dca94977d543c8d878df2aa7f3c6a5c]: Textual amendment: Word in [Sch. 4 para. 1(1)](https://www.legislation.gov.uk/nisr/2013/160/schedule/4/paragraph/1/1) substituted (10.12.2014) by [The Pollution Prevention and Control (Industrial Emissions) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/304)](https://www.legislation.gov.uk/nisr/2014/304), [regs. 1](https://www.legislation.gov.uk/nisr/2014/304/regulation/1), [11(a)](https://www.legislation.gov.uk/nisr/2014/304/regulation/11/a)
 
 [^f00039]: Footnote: [2006 c 46](https://www.legislation.gov.uk/ukpga/2006/46)
 
 [^f00040]: Footnote: O.J. No. L26, 28.1.2012, p1
 
-[^key-56e076dca36b2c52705e5fc0fe03ed28]: Textual amendment: Words in [Sch. 4 para. 1(4)(b)](https://www.legislation.gov.uk/nisr/2013/160/schedule/4/paragraph/1/4/b) omitted (31.12.2020) by virtue of [The Environmental Protection (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/289)](https://www.legislation.gov.uk/uksi/2019/289), [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1), [Sch. 2 para. 2(5)(a)](https://www.legislation.gov.uk/uksi/2019/289/schedule/2/paragraph/2/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-56e076dca36b2c52705e5fc0fe03ed28]: Textual amendment: Words in [Sch. 4 para. 1(4)(b)](https://www.legislation.gov.uk/nisr/2013/160/schedule/4/paragraph/1/4/b) omitted (31.12.2020) by virtue of [The Environmental Protection (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/289)](https://www.legislation.gov.uk/uksi/2019/289), [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1), [Sch. 2 para. 2(5)(a)](https://www.legislation.gov.uk/uksi/2019/289/schedule/2/paragraph/2/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4dd9a5bb546c4419f66e9bc83d65c0d1]: Textual amendment: [Sch. 4 para. 1A](https://www.legislation.gov.uk/nisr/2013/160/schedule/4/paragraph/1A) inserted (10.12.2014) by [The Pollution Prevention and Control (Industrial Emissions) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/304)](https://www.legislation.gov.uk/nisr/2014/304), [regs. 1](https://www.legislation.gov.uk/nisr/2014/304/regulation/1), [11(b)](https://www.legislation.gov.uk/nisr/2014/304/regulation/11/b)
+[^c-4dd9a5bb546c4419f66e9bc83d65c0d1]: Textual amendment: [Sch. 4 para. 1A](https://www.legislation.gov.uk/nisr/2013/160/schedule/4/paragraph/1A) inserted (10.12.2014) by [The Pollution Prevention and Control (Industrial Emissions) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/304)](https://www.legislation.gov.uk/nisr/2014/304), [regs. 1](https://www.legislation.gov.uk/nisr/2014/304/regulation/1), [11(b)](https://www.legislation.gov.uk/nisr/2014/304/regulation/11/b)
 
-[^key-5b893b8230bd7b6b09ed5bca50f122e2]: Commencement: Sch. 4 para. 2 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-5b893b8230bd7b6b09ed5bca50f122e2]: Commencement: Sch. 4 para. 2 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
-[^key-141e5e3df3fc5e878853ac2196987758]: Commencement: Sch. 4 para. 3 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-141e5e3df3fc5e878853ac2196987758]: Commencement: Sch. 4 para. 3 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
-[^key-0223b1797e9e500505a1dc5063d7872c]: Commencement: Sch. 4 para. 4 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-0223b1797e9e500505a1dc5063d7872c]: Commencement: Sch. 4 para. 4 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
 [^f00041]: Footnote: O.J. No. L 353, 31.12.2008, p1
 
-[^key-c2734f3666b68a8d11477a0ce408a05e]: Textual amendment: Words in [Sch. 4 para. 4(2)(b)](https://www.legislation.gov.uk/nisr/2013/160/schedule/4/paragraph/4/2/b) inserted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 3 para. 13(a)](https://www.legislation.gov.uk/nisr/2018/200/schedule/3/paragraph/13/a)
+[^c-c2734f3666b68a8d11477a0ce408a05e]: Textual amendment: Words in [Sch. 4 para. 4(2)(b)](https://www.legislation.gov.uk/nisr/2013/160/schedule/4/paragraph/4/2/b) inserted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 3 para. 13(a)](https://www.legislation.gov.uk/nisr/2018/200/schedule/3/paragraph/13/a)
 
-[^key-1e60ba5566b40125f0b4d3aa99dba295]: Commencement: Sch. 4 para. 5 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-1e60ba5566b40125f0b4d3aa99dba295]: Commencement: Sch. 4 para. 5 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
-[^key-74cca6303ad43f09caa2b2dff3717f42]: Commencement: Sch. 4 para. 6 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-74cca6303ad43f09caa2b2dff3717f42]: Commencement: Sch. 4 para. 6 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
-[^key-5400bf5bd015821a245443d81cbaa5e3]: Commencement: Sch. 4 para. 7 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-5400bf5bd015821a245443d81cbaa5e3]: Commencement: Sch. 4 para. 7 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
-[^key-960a494096e752ff1821c3cde3af7b79]: Commencement: Sch. 4 para. 8 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-960a494096e752ff1821c3cde3af7b79]: Commencement: Sch. 4 para. 8 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
-[^key-b81f8c16961a5739f9b0f627d90f3cf9]: Commencement: Sch. 4 para. 9 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-b81f8c16961a5739f9b0f627d90f3cf9]: Commencement: Sch. 4 para. 9 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
-[^key-bc4ca3fdb9a26cd33b336df448c42e55]: Textual amendment: Words in [Sch. 4 para. 9(b)](https://www.legislation.gov.uk/nisr/2013/160/schedule/4/paragraph/9/b) omitted (31.12.2020) by virtue of [The Environmental Protection (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/289)](https://www.legislation.gov.uk/uksi/2019/289), [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1), [Sch. 2 para. 2(5)(b)](https://www.legislation.gov.uk/uksi/2019/289/schedule/2/paragraph/2/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bc4ca3fdb9a26cd33b336df448c42e55]: Textual amendment: Words in [Sch. 4 para. 9(b)](https://www.legislation.gov.uk/nisr/2013/160/schedule/4/paragraph/9/b) omitted (31.12.2020) by virtue of [The Environmental Protection (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/289)](https://www.legislation.gov.uk/uksi/2019/289), [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1), [Sch. 2 para. 2(5)(b)](https://www.legislation.gov.uk/uksi/2019/289/schedule/2/paragraph/2/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-97f514f7a5886332079eec5949471673]: Commencement: Sch. 4 para. 10 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-97f514f7a5886332079eec5949471673]: Commencement: Sch. 4 para. 10 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
-[^key-82c4bcaf983f6c15dbc75a7c0f40a67a]: Textual amendment: [Sch. 4 para. 11](https://www.legislation.gov.uk/nisr/2013/160/schedule/4/paragraph/11) substituted (10.12.2014) by [The Pollution Prevention and Control (Industrial Emissions) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/304)](https://www.legislation.gov.uk/nisr/2014/304), [regs. 1](https://www.legislation.gov.uk/nisr/2014/304/regulation/1), [11(c)](https://www.legislation.gov.uk/nisr/2014/304/regulation/11/c)
+[^c-82c4bcaf983f6c15dbc75a7c0f40a67a]: Textual amendment: [Sch. 4 para. 11](https://www.legislation.gov.uk/nisr/2013/160/schedule/4/paragraph/11) substituted (10.12.2014) by [The Pollution Prevention and Control (Industrial Emissions) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/304)](https://www.legislation.gov.uk/nisr/2014/304), [regs. 1](https://www.legislation.gov.uk/nisr/2014/304/regulation/1), [11(c)](https://www.legislation.gov.uk/nisr/2014/304/regulation/11/c)
 
-[^key-37dd823db4be7cf57463f2db8ab9c20a]: Commencement: Sch. 4 para. 12 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-37dd823db4be7cf57463f2db8ab9c20a]: Commencement: Sch. 4 para. 12 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
-[^key-e6fa42412f38cd50fcf5808bc0167c71]: Textual amendment: Words in [Sch. 4 para. 12(1)](https://www.legislation.gov.uk/nisr/2013/160/schedule/4/paragraph/12/1) substituted (10.12.2014) by [The Pollution Prevention and Control (Industrial Emissions) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/304)](https://www.legislation.gov.uk/nisr/2014/304), [regs. 1](https://www.legislation.gov.uk/nisr/2014/304/regulation/1), [11(2)](https://www.legislation.gov.uk/nisr/2014/304/regulation/11/2)
+[^c-e6fa42412f38cd50fcf5808bc0167c71]: Textual amendment: Words in [Sch. 4 para. 12(1)](https://www.legislation.gov.uk/nisr/2013/160/schedule/4/paragraph/12/1) substituted (10.12.2014) by [The Pollution Prevention and Control (Industrial Emissions) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/304)](https://www.legislation.gov.uk/nisr/2014/304), [regs. 1](https://www.legislation.gov.uk/nisr/2014/304/regulation/1), [11(2)](https://www.legislation.gov.uk/nisr/2014/304/regulation/11/2)
 
 [^f00042]: Footnote: See section 1 of the Food Standards Act [1999 (c.28)](https://www.legislation.gov.uk/ukpga/1999/28)
 
-[^key-434e30d86b4385f3a3dc79cab6204001]: Textual amendment: Words in [Sch. 4 para. 12(1)(d)](https://www.legislation.gov.uk/nisr/2013/160/schedule/4/paragraph/12/1/d) substituted (28.9.2015) by [The Control of Major Accident Hazards Regulations (Northern Ireland) 2015 (S.R. 2015/325)](https://www.legislation.gov.uk/nisr/2015/325), [reg. 1](https://www.legislation.gov.uk/nisr/2015/325/regulation/1), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/nisr/2015/325/schedule/6/part/2) (with [reg. 3(2)](https://www.legislation.gov.uk/nisr/2015/325/regulation/3/2))
+[^c-434e30d86b4385f3a3dc79cab6204001]: Textual amendment: Words in [Sch. 4 para. 12(1)(d)](https://www.legislation.gov.uk/nisr/2013/160/schedule/4/paragraph/12/1/d) substituted (28.9.2015) by [The Control of Major Accident Hazards Regulations (Northern Ireland) 2015 (S.R. 2015/325)](https://www.legislation.gov.uk/nisr/2015/325), [reg. 1](https://www.legislation.gov.uk/nisr/2015/325/regulation/1), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/nisr/2015/325/schedule/6/part/2) (with [reg. 3(2)](https://www.legislation.gov.uk/nisr/2015/325/regulation/3/2))
 
 [^f00043]: Footnote: [S.R. 2000 No. 93](https://www.legislation.gov.uk/nisr/2000/93)
 
@@ -388,56 +388,56 @@ to that Member State[^M_F_ec87dfaa-fa40-414d-c0b8-963e333be9f3] at the same time
 
 [^f00049]: Footnote: [1929 c.13 (N.I.)](https://www.legislation.gov.uk/apni/1929/13)
 
-[^key-6d94eec57183018fae3c99ec4b418379]: Textual amendment: [Sch. 4 para. 13](https://www.legislation.gov.uk/nisr/2013/160/schedule/4/paragraph/13) substituted (10.12.2014) by [The Pollution Prevention and Control (Industrial Emissions) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/304)](https://www.legislation.gov.uk/nisr/2014/304), [regs. 1](https://www.legislation.gov.uk/nisr/2014/304/regulation/1), [11(3)](https://www.legislation.gov.uk/nisr/2014/304/regulation/11/3)
+[^c-6d94eec57183018fae3c99ec4b418379]: Textual amendment: [Sch. 4 para. 13](https://www.legislation.gov.uk/nisr/2013/160/schedule/4/paragraph/13) substituted (10.12.2014) by [The Pollution Prevention and Control (Industrial Emissions) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/304)](https://www.legislation.gov.uk/nisr/2014/304), [regs. 1](https://www.legislation.gov.uk/nisr/2014/304/regulation/1), [11(3)](https://www.legislation.gov.uk/nisr/2014/304/regulation/11/3)
 
-[^key-987c68843627f17b632ea68c263ccb12]: Commencement: Sch. 4 para. 14 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-987c68843627f17b632ea68c263ccb12]: Commencement: Sch. 4 para. 14 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
-[^key-3dffc402f4a364e1e1e153d7ae1fff3a]: Commencement: Sch. 4 para. 15 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-3dffc402f4a364e1e1e153d7ae1fff3a]: Commencement: Sch. 4 para. 15 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
-[^key-9502790b091f5b169fb54f78907c60f7]: Commencement: Sch. 4 para. 16 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-9502790b091f5b169fb54f78907c60f7]: Commencement: Sch. 4 para. 16 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
 [^f00050]: Footnote: O.J. No, L26, 28.1.2012, p.1
 
-[^key-db3aea9b7350159ee1f8ba6bffc95712]: Textual amendment: Words in [Sch. 4 para. 16](https://www.legislation.gov.uk/nisr/2013/160/schedule/4/paragraph/16) inserted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 3 para. 13(b)](https://www.legislation.gov.uk/nisr/2018/200/schedule/3/paragraph/13/b)
+[^c-db3aea9b7350159ee1f8ba6bffc95712]: Textual amendment: Words in [Sch. 4 para. 16](https://www.legislation.gov.uk/nisr/2013/160/schedule/4/paragraph/16) inserted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 3 para. 13(b)](https://www.legislation.gov.uk/nisr/2018/200/schedule/3/paragraph/13/b)
 
-[^key-a6e763c9427d0592adb04cb7ed93ac7c]: Commencement: Sch. 4 para. 17 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-a6e763c9427d0592adb04cb7ed93ac7c]: Commencement: Sch. 4 para. 17 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
-[^key-22864e7c95167169cb87cf5ba3c5507c]: Commencement: Sch. 4 para. 18 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-22864e7c95167169cb87cf5ba3c5507c]: Commencement: Sch. 4 para. 18 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
-[^key-94d92d37becd2301af04b55f2180f351]: Commencement: Sch. 4 para. 19 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-94d92d37becd2301af04b55f2180f351]: Commencement: Sch. 4 para. 19 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
-[^key-4191fa692671f497a7113a10f0078a4f]: Textual amendment: Word in [Sch. 4 para. 19(2)](https://www.legislation.gov.uk/nisr/2013/160/schedule/4/paragraph/19/2) substituted (31.12.2020) by [The Environmental Protection (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/289)](https://www.legislation.gov.uk/uksi/2019/289), [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1), [Sch. 2 para. 2(5)(c)](https://www.legislation.gov.uk/uksi/2019/289/schedule/2/paragraph/2/5/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4191fa692671f497a7113a10f0078a4f]: Textual amendment: Word in [Sch. 4 para. 19(2)](https://www.legislation.gov.uk/nisr/2013/160/schedule/4/paragraph/19/2) substituted (31.12.2020) by [The Environmental Protection (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/289)](https://www.legislation.gov.uk/uksi/2019/289), [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1), [Sch. 2 para. 2(5)(c)](https://www.legislation.gov.uk/uksi/2019/289/schedule/2/paragraph/2/5/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-773a7d2e39a0108a4fc4e969b6bbba41]: Commencement: Sch. 4 para. 20 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-773a7d2e39a0108a4fc4e969b6bbba41]: Commencement: Sch. 4 para. 20 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
-[^key-143f2f4ccf05a56852e6ba2e02fa2dec]: Commencement: Sch. 4 para. 21 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-143f2f4ccf05a56852e6ba2e02fa2dec]: Commencement: Sch. 4 para. 21 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
-[^key-1a522ae81d7c95111d6e3db61dafadad]: Commencement: Sch. 4 para. 22 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-1a522ae81d7c95111d6e3db61dafadad]: Commencement: Sch. 4 para. 22 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
-[^key-51a9d361814948a82f1d992563db5c9b]: Textual amendment: Word in [Sch. 4 para. 22](https://www.legislation.gov.uk/nisr/2013/160/schedule/4/paragraph/22) substituted (31.12.2020) by [The Environmental Protection (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/289)](https://www.legislation.gov.uk/uksi/2019/289), [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1), [Sch. 2 para. 2(5)(d)(i)](https://www.legislation.gov.uk/uksi/2019/289/schedule/2/paragraph/2/5/d/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-51a9d361814948a82f1d992563db5c9b]: Textual amendment: Word in [Sch. 4 para. 22](https://www.legislation.gov.uk/nisr/2013/160/schedule/4/paragraph/22) substituted (31.12.2020) by [The Environmental Protection (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/289)](https://www.legislation.gov.uk/uksi/2019/289), [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1), [Sch. 2 para. 2(5)(d)(i)](https://www.legislation.gov.uk/uksi/2019/289/schedule/2/paragraph/2/5/d/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_F_ec87dfaa-fa40-414d-c0b8-963e333be9f3]: Textual amendment: Words in [Sch. 4 para. 22](https://www.legislation.gov.uk/nisr/2013/160/schedule/4/paragraph/22) substituted (31.12.2020) by [The Environmental Protection (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/289)](https://www.legislation.gov.uk/uksi/2019/289), [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1), [Sch. 2 para. 2(5)(d)(ii)](https://www.legislation.gov.uk/uksi/2019/289/schedule/2/paragraph/2/5/d/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-42b5bfd61e502cfafa05de34fec9aebb]: Commencement: Sch. 4 para. 23 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-42b5bfd61e502cfafa05de34fec9aebb]: Commencement: Sch. 4 para. 23 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
 [^M_F_af97e077-93cb-4072-a8f7-5da9492b1369]: Textual amendment: Word in [Sch. 4 para. 23](https://www.legislation.gov.uk/nisr/2013/160/schedule/4/paragraph/23) substituted (31.12.2020) by [The Environmental Protection (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/289)](https://www.legislation.gov.uk/uksi/2019/289), [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1), [Sch. 2 para. 2(5)(d)(i)](https://www.legislation.gov.uk/uksi/2019/289/schedule/2/paragraph/2/5/d/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-99162d26ccc356b399d710f0a70bad0b]: Textual amendment: Words in [Sch. 4 para. 23](https://www.legislation.gov.uk/nisr/2013/160/schedule/4/paragraph/23) substituted (31.12.2020) by [The Environmental Protection (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/289)](https://www.legislation.gov.uk/uksi/2019/289), [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1), [Sch. 2 para. 2(5)(d)(ii)](https://www.legislation.gov.uk/uksi/2019/289/schedule/2/paragraph/2/5/d/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-99162d26ccc356b399d710f0a70bad0b]: Textual amendment: Words in [Sch. 4 para. 23](https://www.legislation.gov.uk/nisr/2013/160/schedule/4/paragraph/23) substituted (31.12.2020) by [The Environmental Protection (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/289)](https://www.legislation.gov.uk/uksi/2019/289), [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1), [Sch. 2 para. 2(5)(d)(ii)](https://www.legislation.gov.uk/uksi/2019/289/schedule/2/paragraph/2/5/d/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5ceb8520cc594e30a26f79e15f6d3a0e]: Commencement: Sch. 4 para. 24 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-5ceb8520cc594e30a26f79e15f6d3a0e]: Commencement: Sch. 4 para. 24 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
-[^key-496083669561a7e11f869d6e8c9f8395]: Commencement: Sch. 4 para. 25 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-496083669561a7e11f869d6e8c9f8395]: Commencement: Sch. 4 para. 25 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
 [^f00051]: Footnote: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80)
 
-[^key-d29fee798672630497c776217f2887b3]: Commencement: Sch. 4 para. 26 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-d29fee798672630497c776217f2887b3]: Commencement: Sch. 4 para. 26 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
-[^key-1a4d0f86a8f897319ce66bf6900587bb]: Commencement: Sch. 4 para. 27 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-1a4d0f86a8f897319ce66bf6900587bb]: Commencement: Sch. 4 para. 27 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
-[^key-a2ed5bcead293c21e9e9c734224ed1d8]: Commencement: Sch. 4 para. 28 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-a2ed5bcead293c21e9e9c734224ed1d8]: Commencement: Sch. 4 para. 28 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
-[^key-7d6f01473cf7dd95b1e0c3a9b288101c]: Commencement: Sch. 4 para. 29 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-7d6f01473cf7dd95b1e0c3a9b288101c]: Commencement: Sch. 4 para. 29 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
-[^key-3ec555f6483260f7e8dea3791830c745]: Commencement: Sch. 4 para. 30 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-3ec555f6483260f7e8dea3791830c745]: Commencement: Sch. 4 para. 30 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
-[^key-d3d3cd1b0e576a3aaee50f4a8a05081a]: Commencement: Sch. 4 para. 31 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-d3d3cd1b0e576a3aaee50f4a8a05081a]: Commencement: Sch. 4 para. 31 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)

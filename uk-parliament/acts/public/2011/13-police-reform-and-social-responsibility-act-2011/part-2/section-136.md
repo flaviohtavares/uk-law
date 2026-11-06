@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 136. Late night levy: regulations[^key-c8764f0d6ed1cf5ef7c41a1b3650d0ca]
+## 136. Late night levy: regulations[^c-c8764f0d6ed1cf5ef7c41a1b3650d0ca]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c8764f0d6ed1cf5ef7c41a1b3650d0ca]: Commencement: S. 136 in force at 31.10.2012 by [S.I. 2012/2670](https://www.legislation.gov.uk/uksi/2012/2670), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/2670/article/2/b)
+[^c-c8764f0d6ed1cf5ef7c41a1b3650d0ca]: Commencement: S. 136 in force at 31.10.2012 by [S.I. 2012/2670](https://www.legislation.gov.uk/uksi/2012/2670), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/2670/article/2/b)

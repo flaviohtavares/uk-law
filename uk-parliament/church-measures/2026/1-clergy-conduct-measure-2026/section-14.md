@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 14. Investigation and Tribunals Team[^key-94e4489d771a244e3d1a8d6a63692c8b]
+## 14. Investigation and Tribunals Team[^c-94e4489d771a244e3d1a8d6a63692c8b]
 
 *Extent: E*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-94e4489d771a244e3d1a8d6a63692c8b]: Commencement: S. 14 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)
+[^c-94e4489d771a244e3d1a8d6a63692c8b]: Commencement: S. 14 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)

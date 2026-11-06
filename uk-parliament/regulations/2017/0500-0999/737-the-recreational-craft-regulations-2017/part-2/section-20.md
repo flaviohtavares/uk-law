@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Duty not to place a product on the market where an importer suspects that it is not in conformity[^key-099b6bd65cdf89f5792dbe6fde4037c6]
+## 20. Duty not to place a product on the market where an importer suspects that it is not in conformity[^c-099b6bd65cdf89f5792dbe6fde4037c6]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-099b6bd65cdf89f5792dbe6fde4037c6]: Commencement: Reg. 20 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)
+[^c-099b6bd65cdf89f5792dbe6fde4037c6]: Commencement: Reg. 20 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)

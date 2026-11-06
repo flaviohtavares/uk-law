@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90C. Application of bank insolvency and administration legislation to building societies[^key-9c103096c3ba10b9db013e0c7a6294f7]
+## 90C. Application of bank insolvency and administration legislation to building societies[^c-9c103096c3ba10b9db013e0c7a6294f7]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9c103096c3ba10b9db013e0c7a6294f7]: Textual amendment: S. 90C inserted (29.3.2009) by [The Building Societies (Insolvency and Special Administration) Order 2009 (S.I. 2009/805)](https://www.legislation.gov.uk/uksi/2009/805), [art. 2](https://www.legislation.gov.uk/uksi/2009/805/article/2)
+[^c-9c103096c3ba10b9db013e0c7a6294f7]: Textual amendment: S. 90C inserted (29.3.2009) by [The Building Societies (Insolvency and Special Administration) Order 2009 (S.I. 2009/805)](https://www.legislation.gov.uk/uksi/2009/805), [art. 2](https://www.legislation.gov.uk/uksi/2009/805/article/2)

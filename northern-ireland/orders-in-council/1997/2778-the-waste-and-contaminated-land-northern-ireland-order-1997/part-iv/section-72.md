@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 72. Powers of enforcing authorities and persons authorised by them[^c20503541][^c21159521][^c22547121][^c22547151][^c22554751][^key-ec38d66393f1839eb65784c46d3b92a2][^key-72a9e4eb0b5181e454b2ae2bc7b88717][^key-ffeb28fd9fde7a768f13cc66e3074d35]
+## 72. Powers of enforcing authorities and persons authorised by them[^c20503541][^c21159521][^c22547121][^c22547151][^c22554751][^c-ec38d66393f1839eb65784c46d3b92a2][^c-72a9e4eb0b5181e454b2ae2bc7b88717][^c-ffeb28fd9fde7a768f13cc66e3074d35]
 
 *Extent: N.I.*
 
@@ -55,14 +55,14 @@ summary: ''
 - (a) to carry out experimental borings or other works on those premises; and
 - (b) to install, keep or maintain monitoring and other apparatus there.
 
-(4)[^key-f2904af53fa57cac1e28afc27272322b] Except in an emergency, in any case where it is proposed to enter any premises used for residential purposes, or to take heavy equipment on to any premises which are to be entered, any entry by virtue of this Article shall only be effected—
+(4)[^c-f2904af53fa57cac1e28afc27272322b] Except in an emergency, in any case where it is proposed to enter any premises used for residential purposes, or to take heavy equipment on to any premises which are to be entered, any entry by virtue of this Article shall only be effected—
 
 - (a) [^c22547161]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) either—
   - (i) with the consent of a person who is in occupation of those premises; or
   - (ii) under the authority of a warrant by virtue of Schedule 4.
 
-(5)[^key-f2904af53fa57cac1e28afc27272322b] Except in an emergency, where an authorised person proposes to enter any premises and—
+(5)[^c-f2904af53fa57cac1e28afc27272322b] Except in an emergency, where an authorised person proposes to enter any premises and—
 
 - (a) entry has been refused and he apprehends on reasonable grounds that the use of force may be necessary to effect entry, or
 - (b) he apprehends on reasonable grounds that entry is likely to be refused and that the use of force may be necessary to effect entry,
@@ -80,9 +80,9 @@ any entry on to those premises by virtue of this Article shall only be effected 
 
 as appear to him appropriate for the purpose of ascertaining what dangers, if any, there may be in doing anything which he proposes to do or cause to be done under the power.
 
-(9)[^key-7e9635f86ecf8280b878ba61e84a4a4d] No answer given by a person in pursuance of a requirement imposed under paragraph (2)(i) shall be admissible in evidence in Northern Ireland against that person in any proceedings.
+(9)[^c-7e9635f86ecf8280b878ba61e84a4a4d] No answer given by a person in pursuance of a requirement imposed under paragraph (2)(i) shall be admissible in evidence in Northern Ireland against that person in any proceedings.
 
-(10)[^key-7e9635f86ecf8280b878ba61e84a4a4d] Nothing in this Article shall be taken to compel the production by any person of a document of which he would on grounds of legal professional privilege be entitled to withhold production on an order for discovery in an action in the High Court.
+(10)[^c-7e9635f86ecf8280b878ba61e84a4a4d] Nothing in this Article shall be taken to compel the production by any person of a document of which he would on grounds of legal professional privilege be entitled to withhold production on an order for discovery in an action in the High Court.
 
 (11) Schedule 4 shall have effect with respect to the powers of entry and related powers which are conferred by this Article.
 
@@ -96,7 +96,7 @@ as appear to him appropriate for the purpose of ascertaining what dangers, if an
   and that immediate entry to any premises is necessary to verify the existence of that risk or those circumstances or to ascertain the cause of that risk or those circumstances or to effect a remedy;
 - “enforcing authority” means—
   - (a) the Department;
-  - (aa) a district council in relation to Articles 4 and 5;[^key-5973766d9956589828ac4b6c37d894c5]
+  - (aa) a district council in relation to Articles 4 and 5;[^c-5973766d9956589828ac4b6c37d894c5]
   - (b) a district council in its capacity as an enforcing authority for the purposes of Part III;
 
   *Sub-para. (c) rep. by 1997 NI 19*
@@ -106,11 +106,11 @@ as appear to him appropriate for the purpose of ascertaining what dangers, if an
     - (ii) regulations made under section 2(2) of the [^m00030] European Communities Act 1972, to the extent that the regulations relate to pollution;
   - (b) in relation to a district council, means—
     - (i) Part III;
-    - (ia) Articles 4 and 5;[^key-a4be1c35cb0f7498405af86d2acd1c3e]
+    - (ia) Articles 4 and 5;[^c-a4be1c35cb0f7498405af86d2acd1c3e]
 
     *Sub-para. (b)(ii) rep. by 1997 NI 19*
 
-    - (iii) regulations made under assimilated[^key-a6e54243811c5e935957680baa0027fc][^key-231aded19536d1efff579f4713d49c81] obligations , to the extent that the regulations relate to pollution;
+    - (iii) regulations made under assimilated[^c-a6e54243811c5e935957680baa0027fc][^c-231aded19536d1efff579f4713d49c81] obligations , to the extent that the regulations relate to pollution;
 - “premises” includes any land, vehicle, vessel or mobile plant.
 
 (13) Nothing in section 98 of the [^m00032] Local Government Act (Northern Ireland) 1972 shall apply to functions conferred on a district council under this Order, other than functions under Article 28.
@@ -127,30 +127,30 @@ as appear to him appropriate for the purpose of ascertaining what dangers, if an
 
 [^c22554751]: Modification: Art. 72 applied (31.7.2011) by Ozone-[Depleting Substances (Qualifications) Regulations (Northern Ireland) 2011 (S.R. 2011/240)](https://www.legislation.gov.uk/nisr/2011/240), [reg. 7(3)](https://www.legislation.gov.uk/nisr/2011/240/regulation/7/3) (with [reg. 15](https://www.legislation.gov.uk/nisr/2011/240/regulation/15))
 
-[^key-ec38d66393f1839eb65784c46d3b92a2]: Modification: Art. 72 applied (with modifications) (1.4.2018) by [The Control of Mercury (Enforcement) Regulations 2017 (S.I. 2017/1200)](https://www.legislation.gov.uk/uksi/2017/1200), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2017/1200/regulation/2/2), [21(3)](https://www.legislation.gov.uk/uksi/2017/1200/regulation/21/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1200/regulation/1/2))
+[^c-ec38d66393f1839eb65784c46d3b92a2]: Modification: Art. 72 applied (with modifications) (1.4.2018) by [The Control of Mercury (Enforcement) Regulations 2017 (S.I. 2017/1200)](https://www.legislation.gov.uk/uksi/2017/1200), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2017/1200/regulation/2/2), [21(3)](https://www.legislation.gov.uk/uksi/2017/1200/regulation/21/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1200/regulation/1/2))
 
-[^key-72a9e4eb0b5181e454b2ae2bc7b88717]: Modification: [Art. 72](https://www.legislation.gov.uk/nisi/1997/2778/article/72) applied in part (with modifications) (1.1.2025) by [The Producer Responsibility Obligations (Packaging and Packaging Waste) Regulations 2024 (S.I. 2024/1332)](https://www.legislation.gov.uk/uksi/2024/1332), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2), [113](https://www.legislation.gov.uk/uksi/2024/1332/regulation/113), [Sch. 12 para. 2](https://www.legislation.gov.uk/uksi/2024/1332/schedule/12/paragraph/2) (with [reg. 12](https://www.legislation.gov.uk/uksi/2024/1332/regulation/12))
+[^c-72a9e4eb0b5181e454b2ae2bc7b88717]: Modification: [Art. 72](https://www.legislation.gov.uk/nisi/1997/2778/article/72) applied in part (with modifications) (1.1.2025) by [The Producer Responsibility Obligations (Packaging and Packaging Waste) Regulations 2024 (S.I. 2024/1332)](https://www.legislation.gov.uk/uksi/2024/1332), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2), [113](https://www.legislation.gov.uk/uksi/2024/1332/regulation/113), [Sch. 12 para. 2](https://www.legislation.gov.uk/uksi/2024/1332/schedule/12/paragraph/2) (with [reg. 12](https://www.legislation.gov.uk/uksi/2024/1332/regulation/12))
 
-[^key-ffeb28fd9fde7a768f13cc66e3074d35]: Modification: [Art. 72](https://www.legislation.gov.uk/nisi/1997/2778/article/72) modified (24.1.2025 for specified purposes) by [The Deposit Scheme for Drinks Containers (England and Northern Ireland) Regulations 2025 (S.I. 2025/67)](https://www.legislation.gov.uk/uksi/2025/67), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/67/regulation/1/3), [84(3)](https://www.legislation.gov.uk/uksi/2025/67/regulation/84/3) (with [reg. 2(3)](https://www.legislation.gov.uk/uksi/2025/67/regulation/2/3))
+[^c-ffeb28fd9fde7a768f13cc66e3074d35]: Modification: [Art. 72](https://www.legislation.gov.uk/nisi/1997/2778/article/72) modified (24.1.2025 for specified purposes) by [The Deposit Scheme for Drinks Containers (England and Northern Ireland) Regulations 2025 (S.I. 2025/67)](https://www.legislation.gov.uk/uksi/2025/67), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/67/regulation/1/3), [84(3)](https://www.legislation.gov.uk/uksi/2025/67/regulation/84/3) (with [reg. 2(3)](https://www.legislation.gov.uk/uksi/2025/67/regulation/2/3))
 
 [^c20503031]: Textual amendment: Words in art. 72(2)(b)(i) substituted (25.6.2007) by virtue of [Waste (Amendment) (Northern Ireland) Order 2007 (S.I. 2007/611 (N.I. 3))](https://www.legislation.gov.uk/nisi/2007/611), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2007/611/article/1/3), [18(1)(a)](https://www.legislation.gov.uk/nisi/2007/611/article/18/1/a); [S.R. 2007/294](https://www.legislation.gov.uk/nisr/2007/294), [art. 2](https://www.legislation.gov.uk/nisr/2007/294/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2007/294/schedule)
 
 [^c20503231]: Textual amendment: Words in art. 72(2)(g) repealed (25.6.2007) by [Waste (Amendment) (Northern Ireland) Order 2007 (S.I. 2007/611 (N.I. 3))](https://www.legislation.gov.uk/nisi/2007/611), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2007/611/article/1/3), [18(1)(b)](https://www.legislation.gov.uk/nisi/2007/611/article/18/1/b), [20](https://www.legislation.gov.uk/nisi/2007/611/article/20), [Sch.](https://www.legislation.gov.uk/nisi/2007/611/schedule); [S.R. 2007/294](https://www.legislation.gov.uk/nisr/2007/294), [art. 2](https://www.legislation.gov.uk/nisr/2007/294/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2007/294/schedule)
 
-[^key-f2904af53fa57cac1e28afc27272322b]: Modification: [Art. 72(4)](https://www.legislation.gov.uk/nisi/1997/2778/article/72/4)[(5)](https://www.legislation.gov.uk/nisi/1997/2778/article/72/5) applied (with modifications) (24.1.2025 for specified purposes) by [The Deposit Scheme for Drinks Containers (England and Northern Ireland) Regulations 2025 (S.I. 2025/67)](https://www.legislation.gov.uk/uksi/2025/67), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/67/regulation/1/3), [84(4)](https://www.legislation.gov.uk/uksi/2025/67/regulation/84/4) (with [reg. 2(3)](https://www.legislation.gov.uk/uksi/2025/67/regulation/2/3))
+[^c-f2904af53fa57cac1e28afc27272322b]: Modification: [Art. 72(4)](https://www.legislation.gov.uk/nisi/1997/2778/article/72/4)[(5)](https://www.legislation.gov.uk/nisi/1997/2778/article/72/5) applied (with modifications) (24.1.2025 for specified purposes) by [The Deposit Scheme for Drinks Containers (England and Northern Ireland) Regulations 2025 (S.I. 2025/67)](https://www.legislation.gov.uk/uksi/2025/67), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/67/regulation/1/3), [84(4)](https://www.legislation.gov.uk/uksi/2025/67/regulation/84/4) (with [reg. 2(3)](https://www.legislation.gov.uk/uksi/2025/67/regulation/2/3))
 
 [^c22547161]: Textual amendment: Art. 72(4)(a) repealed (17.10.2011) by [Waste and Contaminated Land (Amendment) Act (Northern Ireland) 2011 (c. 5)](https://www.legislation.gov.uk/nia/2011/5), [ss. 11(2)](https://www.legislation.gov.uk/nia/2011/5/section/11/2), [12(1)](https://www.legislation.gov.uk/nia/2011/5/section/12/1), [Sch. 2](https://www.legislation.gov.uk/nia/2011/5/schedule/2); [S.R. 2011/312](https://www.legislation.gov.uk/nisr/2011/312), [art. 2](https://www.legislation.gov.uk/nisr/2011/312/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2011/312/schedule)
 
-[^key-7e9635f86ecf8280b878ba61e84a4a4d]: Modification: [Art. 72(9)](https://www.legislation.gov.uk/nisi/1997/2778/article/72/9)[(10)](https://www.legislation.gov.uk/nisi/1997/2778/article/72/10) applied (with modifications) (24.1.2025 for specified purposes) by [The Deposit Scheme for Drinks Containers (England and Northern Ireland) Regulations 2025 (S.I. 2025/67)](https://www.legislation.gov.uk/uksi/2025/67), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/67/regulation/1/3), [84(5)](https://www.legislation.gov.uk/uksi/2025/67/regulation/84/5) (with [reg. 2(3)](https://www.legislation.gov.uk/uksi/2025/67/regulation/2/3))
+[^c-7e9635f86ecf8280b878ba61e84a4a4d]: Modification: [Art. 72(9)](https://www.legislation.gov.uk/nisi/1997/2778/article/72/9)[(10)](https://www.legislation.gov.uk/nisi/1997/2778/article/72/10) applied (with modifications) (24.1.2025 for specified purposes) by [The Deposit Scheme for Drinks Containers (England and Northern Ireland) Regulations 2025 (S.I. 2025/67)](https://www.legislation.gov.uk/uksi/2025/67), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/67/regulation/1/3), [84(5)](https://www.legislation.gov.uk/uksi/2025/67/regulation/84/5) (with [reg. 2(3)](https://www.legislation.gov.uk/uksi/2025/67/regulation/2/3))
 
-[^key-5973766d9956589828ac4b6c37d894c5]: Textual amendment: Words in [art. 72(12)](https://www.legislation.gov.uk/nisi/1997/2778/article/72/12) inserted (2.1.2023) by [Waste and Contaminated Land (Amendment) Act (Northern Ireland) 2011 (c. 5)](https://www.legislation.gov.uk/nia/2011/5), [ss. 5(1)(a)](https://www.legislation.gov.uk/nia/2011/5/section/5/1/a), [12](https://www.legislation.gov.uk/nia/2011/5/section/12); [S.R. 2022/289](https://www.legislation.gov.uk/nisr/2022/289), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/289/article/2/b)
+[^c-5973766d9956589828ac4b6c37d894c5]: Textual amendment: Words in [art. 72(12)](https://www.legislation.gov.uk/nisi/1997/2778/article/72/12) inserted (2.1.2023) by [Waste and Contaminated Land (Amendment) Act (Northern Ireland) 2011 (c. 5)](https://www.legislation.gov.uk/nia/2011/5), [ss. 5(1)(a)](https://www.legislation.gov.uk/nia/2011/5/section/5/1/a), [12](https://www.legislation.gov.uk/nia/2011/5/section/12); [S.R. 2022/289](https://www.legislation.gov.uk/nisr/2022/289), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/289/article/2/b)
 
 [^m00030]: Marginal citation: 1972 c. 68.
 
-[^key-a4be1c35cb0f7498405af86d2acd1c3e]: Textual amendment: Words in [art. 72(12)](https://www.legislation.gov.uk/nisi/1997/2778/article/72/12) inserted (2.1.2023) by [Waste and Contaminated Land (Amendment) Act (Northern Ireland) 2011 (c. 5)](https://www.legislation.gov.uk/nia/2011/5), [ss. 5(1)(b)](https://www.legislation.gov.uk/nia/2011/5/section/5/1/b), [12](https://www.legislation.gov.uk/nia/2011/5/section/12); [S.R. 2022/289](https://www.legislation.gov.uk/nisr/2022/289), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/289/article/2/b)
+[^c-a4be1c35cb0f7498405af86d2acd1c3e]: Textual amendment: Words in [art. 72(12)](https://www.legislation.gov.uk/nisi/1997/2778/article/72/12) inserted (2.1.2023) by [Waste and Contaminated Land (Amendment) Act (Northern Ireland) 2011 (c. 5)](https://www.legislation.gov.uk/nia/2011/5), [ss. 5(1)(b)](https://www.legislation.gov.uk/nia/2011/5/section/5/1/b), [12](https://www.legislation.gov.uk/nia/2011/5/section/12); [S.R. 2022/289](https://www.legislation.gov.uk/nisr/2022/289), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/289/article/2/b)
 
-[^key-a6e54243811c5e935957680baa0027fc]: Textual amendment: Word in [art. 72(12)](https://www.legislation.gov.uk/nisi/1997/2778/article/72/12) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 40(2)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/40/2)
+[^c-a6e54243811c5e935957680baa0027fc]: Textual amendment: Word in [art. 72(12)](https://www.legislation.gov.uk/nisi/1997/2778/article/72/12) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 40(2)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/40/2)
 
-[^key-231aded19536d1efff579f4713d49c81]: Textual amendment: Words in [art. 72(12)](https://www.legislation.gov.uk/nisi/1997/2778/article/72/12) substituted (31.12.2020) by [The Environment (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/584)](https://www.legislation.gov.uk/uksi/2019/584), [regs. 1](https://www.legislation.gov.uk/uksi/2019/584/regulation/1), [12](https://www.legislation.gov.uk/uksi/2019/584/regulation/12); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-231aded19536d1efff579f4713d49c81]: Textual amendment: Words in [art. 72(12)](https://www.legislation.gov.uk/nisi/1997/2778/article/72/12) substituted (31.12.2020) by [The Environment (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/584)](https://www.legislation.gov.uk/uksi/2019/584), [regs. 1](https://www.legislation.gov.uk/uksi/2019/584/regulation/1), [12](https://www.legislation.gov.uk/uksi/2019/584/regulation/12); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^m00032]: Marginal citation: 1972 c. 9 (N.I.).

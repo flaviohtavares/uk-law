@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Treasury guarentees for loans made to the companies.[^key-b410508feb6e4763fe7c9c36c8902a9a]
+## 79. Treasury guarentees for loans made to the companies.[^c-b410508feb6e4763fe7c9c36c8902a9a]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b410508feb6e4763fe7c9c36c8902a9a]: Modification: [S. 79](https://www.legislation.gov.uk/ukpga/1989/29/section/79) applied (2.10.2014) by [The Clocaenog Forest Wind Farm Order 2014 (S.I. 2014/2441)](https://www.legislation.gov.uk/uksi/2014/2441), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2441/article/1), [4(2)](https://www.legislation.gov.uk/uksi/2014/2441/article/4/2) (with [art. 33](https://www.legislation.gov.uk/uksi/2014/2441/article/33))
+[^c-b410508feb6e4763fe7c9c36c8902a9a]: Modification: [S. 79](https://www.legislation.gov.uk/ukpga/1989/29/section/79) applied (2.10.2014) by [The Clocaenog Forest Wind Farm Order 2014 (S.I. 2014/2441)](https://www.legislation.gov.uk/uksi/2014/2441), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2441/article/1), [4(2)](https://www.legislation.gov.uk/uksi/2014/2441/article/4/2) (with [art. 33](https://www.legislation.gov.uk/uksi/2014/2441/article/33))

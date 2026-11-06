@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Service of application[^key-a4ca30b55c9f552ca788edf8ac9122ff]
+## 10. Service of application[^c-a4ca30b55c9f552ca788edf8ac9122ff]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ summary: ''
 
 - (a) the investment bank (if neither the investment bank nor its directors are the applicant);
 - (b) the person (or each of the persons) nominated for appointment as administrator;
-- (c) any person who has given notice to the FCA or, where relevant, the PRA[^key-2345cdc74b109d9610ed0676f0e11023] in respect of the investment bank under regulation 8;
+- (c) any person who has given notice to the FCA or, where relevant, the PRA[^c-2345cdc74b109d9610ed0676f0e11023] in respect of the investment bank under regulation 8;
 - (d) if there is in force for the investment bank a voluntary arrangement under Part 1 of the 1986 Act, the supervisor of that arrangement.
 
 (2) Service under paragraph (1) must be service of a sealed and endorsed copy of the application and its accompanying documents issued under rule 9.
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a4ca30b55c9f552ca788edf8ac9122ff]: Commencement: [Rule 10](https://www.legislation.gov.uk/uksi/2011/1301/rule/10) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-a4ca30b55c9f552ca788edf8ac9122ff]: Commencement: [Rule 10](https://www.legislation.gov.uk/uksi/2011/1301/rule/10) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
 
-[^key-2345cdc74b109d9610ed0676f0e11023]: Textual amendment: Words in [art. 10(1)(c)](https://www.legislation.gov.uk/uksi/2011/1301/article/10/1/c) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(a)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/a/b/ii) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))
+[^c-2345cdc74b109d9610ed0676f0e11023]: Textual amendment: Words in [art. 10(1)(c)](https://www.legislation.gov.uk/uksi/2011/1301/article/10/1/c) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(a)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/a/b/ii) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))

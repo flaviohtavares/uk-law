@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 30. Accommodation of functions[^key-3f2e512121577f9ebe33c346e698a585]
+## 30. Accommodation of functions[^c-3f2e512121577f9ebe33c346e698a585]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3f2e512121577f9ebe33c346e698a585]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2014/10/section/30) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-3f2e512121577f9ebe33c346e698a585]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2014/10/section/30) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)

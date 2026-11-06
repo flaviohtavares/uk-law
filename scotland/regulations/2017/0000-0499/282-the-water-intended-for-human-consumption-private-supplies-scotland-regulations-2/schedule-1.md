@@ -22,7 +22,7 @@ summary: ''
 
 Regulations 6(1) and 9(3)
 
-### 1. Dates by which the register must contain information[^key-aec51a3e8ff55b30075bdbd3c7423281]
+### 1. Dates by which the register must contain information[^c-aec51a3e8ff55b30075bdbd3c7423281]
 
 The register must contain or specify—
 
@@ -32,7 +32,7 @@ The register must contain or specify—
 - (b) within 28 days of the date on which the information is first known (or becomes readily available) to the enforcing authority, the information specified in paragraph 3; and
 - (c) by 1st January 2022, any other information specified in paragraph 2.
 
-### 2. Information relating to private water supply systems[^key-8ee1b6092c51e1ec68d5cbf3add209b7]
+### 2. Information relating to private water supply systems[^c-8ee1b6092c51e1ec68d5cbf3add209b7]
 
 For each private water supply system (“the system”), the register must contain or specify—
 
@@ -42,7 +42,7 @@ For each private water supply system (“the system”), the register must conta
 - (d) the estimated maximum number of persons served by the system on the same day (including any person served outside the area of the enforcing authority);
 - (e) a map identifying the location of every known part of the system (including any part of the system which is outside the area of the enforcing authority), including (if known to the enforcing authority)—
   - (i) the ownership of land from which any part of the water is abstracted; and
-  - (ii) the ownership of land in, on or over which any part of the system[^key-30f3299436868e42bad8f5ad6e4987e9] is installed;
+  - (ii) the ownership of land in, on or over which any part of the system[^c-30f3299436868e42bad8f5ad6e4987e9] is installed;
 - (f) for each point at which water is abstracted—
   - (i) the Ordnance Survey national grid reference; and
   - (ii) whether the water is abstracted from a watercourse, loch, spring, well, borehole or other source (and, if abstracted from the latter, a description of the other source);
@@ -53,9 +53,9 @@ For each private water supply system (“the system”), the register must conta
   - (ii) land from which any part of the water is abstracted (from the water environment); and
   - (iii) land in, on or over which any part of the private water supply system is installed;
 - (j) details of monitoring programmes (so far as relevant) prepared by the enforcing authority to meet its obligations under these Regulations; and
-- (k) details of any grant awarded or paid in relation to the system under the Private Water Supplies[^key-129aff0738a48c11ed6e3a6132e2f0c1] (Grants) (Scotland) Regulations 2006[^f00021].
+- (k) details of any grant awarded or paid in relation to the system under the Private Water Supplies[^c-129aff0738a48c11ed6e3a6132e2f0c1] (Grants) (Scotland) Regulations 2006[^f00021].
 
-### 3. Information relating to water supplied[^key-9efa3e526a19065dceeaf8c6ad9809c9]
+### 3. Information relating to water supplied[^c-9efa3e526a19065dceeaf8c6ad9809c9]
 
 For each registered private water supply system, the register must also contain or specify the following information (if any) in relation to water (“the water”) supplied through any part of the system to a point of compliance in the area of the enforcing authority:—
 
@@ -69,7 +69,7 @@ For each registered private water supply system, the register must also contain 
 - (e) details of any remedial action taken pursuant to regulation 21(b) or (c); and
 - (f) a copy of any remediation notice, enforcement notice or emergency notice served in relation to the water.
 
-### 4. Information from previous register[^key-9f9fe6305fafcde73067e6a15b77481b]
+### 4. Information from previous register[^c-9f9fe6305fafcde73067e6a15b77481b]
 
 (1) For each registered private water supply system (“the system”), the register must contain copies of any information (“the information”) relating to—
 
@@ -82,18 +82,18 @@ which was, immediately before 27th October 2017, required to be maintained in a 
 
 ## Annotations
 
-[^key-aec51a3e8ff55b30075bdbd3c7423281]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ssi/2017/282/schedule/1/paragraph/1) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-aec51a3e8ff55b30075bdbd3c7423281]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ssi/2017/282/schedule/1/paragraph/1) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
 
-[^key-8ee1b6092c51e1ec68d5cbf3add209b7]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ssi/2017/282/schedule/1/paragraph/2) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-8ee1b6092c51e1ec68d5cbf3add209b7]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ssi/2017/282/schedule/1/paragraph/2) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
 
-[^key-30f3299436868e42bad8f5ad6e4987e9]: Textual amendment: Word in sch. 1 para. 2 substituted (26.10.2017) by [The Public and Private Water Supplies (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/321)](https://www.legislation.gov.uk/ssi/2017/321), [regs. 1](https://www.legislation.gov.uk/ssi/2017/321/regulation/1), [4(5)(a)](https://www.legislation.gov.uk/ssi/2017/321/regulation/4/5/a)
+[^c-30f3299436868e42bad8f5ad6e4987e9]: Textual amendment: Word in sch. 1 para. 2 substituted (26.10.2017) by [The Public and Private Water Supplies (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/321)](https://www.legislation.gov.uk/ssi/2017/321), [regs. 1](https://www.legislation.gov.uk/ssi/2017/321/regulation/1), [4(5)(a)](https://www.legislation.gov.uk/ssi/2017/321/regulation/4/5/a)
 
-[^key-129aff0738a48c11ed6e3a6132e2f0c1]: Textual amendment: Word in sch. 1 para. 2 substituted (26.10.2017) by [The Public and Private Water Supplies (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/321)](https://www.legislation.gov.uk/ssi/2017/321), [regs. 1](https://www.legislation.gov.uk/ssi/2017/321/regulation/1), [4(5)(b)](https://www.legislation.gov.uk/ssi/2017/321/regulation/4/5/b)
+[^c-129aff0738a48c11ed6e3a6132e2f0c1]: Textual amendment: Word in sch. 1 para. 2 substituted (26.10.2017) by [The Public and Private Water Supplies (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/321)](https://www.legislation.gov.uk/ssi/2017/321), [regs. 1](https://www.legislation.gov.uk/ssi/2017/321/regulation/1), [4(5)(b)](https://www.legislation.gov.uk/ssi/2017/321/regulation/4/5/b)
 
 [^f00021]: Footnote: [S.S.I. 2006/210](https://www.legislation.gov.uk/ssi/2006/210).
 
-[^key-9efa3e526a19065dceeaf8c6ad9809c9]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ssi/2017/282/schedule/1/paragraph/3) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-9efa3e526a19065dceeaf8c6ad9809c9]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ssi/2017/282/schedule/1/paragraph/3) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
 
-[^key-9f9fe6305fafcde73067e6a15b77481b]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ssi/2017/282/schedule/1/paragraph/4) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-9f9fe6305fafcde73067e6a15b77481b]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ssi/2017/282/schedule/1/paragraph/4) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
 
 [^f00022]: Footnote: [S.S.I. 2006/209](https://www.legislation.gov.uk/ssi/2006/209), as amended by [S.S.I. 2010/95](https://www.legislation.gov.uk/ssi/2010/95), [S.S.I. 2014/364](https://www.legislation.gov.uk/ssi/2014/364) and [S.S.I. 2015/346](https://www.legislation.gov.uk/ssi/2015/346).

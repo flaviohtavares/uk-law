@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-582edbb0bf1da8ddc437af53e40956e4] After section 1 of the 2005 Act, insert—
+(1)[^c-582edbb0bf1da8ddc437af53e40956e4] After section 1 of the 2005 Act, insert—
 
 > **1A. The Scottish Fire and Rescue Service**
 >
@@ -276,4 +276,4 @@ summary: ''
 
 [^c2141667]: Commencement: [S. 101](https://www.legislation.gov.uk/asp/2012/8/section/101) partly in force; [s. 101(1)](https://www.legislation.gov.uk/asp/2012/8/section/101/1) in force for specified purposes and s. 101(2) wholly in force at 8.8.2012 see [s. 129(1)(b)](https://www.legislation.gov.uk/asp/2012/8/section/129/1/b)
 
-[^key-582edbb0bf1da8ddc437af53e40956e4]: Commencement: [S. 101(1)](https://www.legislation.gov.uk/asp/2012/8/section/101/1) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)
+[^c-582edbb0bf1da8ddc437af53e40956e4]: Commencement: [S. 101(1)](https://www.legislation.gov.uk/asp/2012/8/section/101/1) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)

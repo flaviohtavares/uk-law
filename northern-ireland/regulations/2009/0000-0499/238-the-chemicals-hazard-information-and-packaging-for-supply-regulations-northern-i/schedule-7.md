@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 7 — AMENDMENTS[^key-07c43a6386594a76f1f7043aa0eb22f9]
+## SCHEDULE 7 — AMENDMENTS[^c-07c43a6386594a76f1f7043aa0eb22f9]
 
 *Extent: N.I.*
 
@@ -43,7 +43,7 @@ Regulation 17
 
 ## Annotations
 
-[^key-07c43a6386594a76f1f7043aa0eb22f9]: Commencement: [Sch. 7](https://www.legislation.gov.uk/nisr/2009/238/schedule/7) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
+[^c-07c43a6386594a76f1f7043aa0eb22f9]: Commencement: [Sch. 7](https://www.legislation.gov.uk/nisr/2009/238/schedule/7) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
 
 [^f00056]: Footnote: [S.R. 1997 No. 193](https://www.legislation.gov.uk/nisr/1997/193), as amended by [S.R. 1999 No. 150](https://www.legislation.gov.uk/nisr/1999/150)
 

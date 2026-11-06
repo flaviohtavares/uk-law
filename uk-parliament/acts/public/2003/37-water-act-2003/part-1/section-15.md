@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. General consideration of licence applications[^key-32171a773e94a896300ee25f9e25575a]
+## 15. General consideration of licence applications[^c-32171a773e94a896300ee25f9e25575a]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-32171a773e94a896300ee25f9e25575a]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2003/37/section/15) in force at 1.4.2004 by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(d)](https://www.legislation.gov.uk/uksi/2004/641/article/3/d) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/2)[7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
+[^c-32171a773e94a896300ee25f9e25575a]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2003/37/section/15) in force at 1.4.2004 by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(d)](https://www.legislation.gov.uk/uksi/2004/641/article/3/d) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/2)[7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))

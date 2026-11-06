@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 92. Trustees in bankruptcy[^key-f0fdb7974ee9b928a770bd2251483d1a]
+## 92. Trustees in bankruptcy[^c-f0fdb7974ee9b928a770bd2251483d1a]
 
 *Extent: N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f0fdb7974ee9b928a770bd2251483d1a]: Commencement: S. 92 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-f0fdb7974ee9b928a770bd2251483d1a]: Commencement: S. 92 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

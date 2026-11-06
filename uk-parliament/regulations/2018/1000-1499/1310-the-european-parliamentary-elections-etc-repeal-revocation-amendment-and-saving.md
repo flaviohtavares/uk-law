@@ -56,29 +56,29 @@ The requirements of paragraphs 3(2) and 17(2) of Schedule 7 to the European Unio
 
 The Minister for the Cabinet Office makes these Regulations in exercise of the powers conferred by sections 8(1), 23(1) and (6), and 24(3) of, and paragraph 21(b) of Schedule 7 to, that Act.
 
-## 1. Citation, commencement and extent[^key-e23bad664cfef69edaa410a1aa5b2ce9]
+## 1. Citation, commencement and extent[^c-e23bad664cfef69edaa410a1aa5b2ce9]
 
-These Regulations may be cited as the European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 and come into force on 31st December 2020[^key-e6645ae944b94fc63a5933d0158479bb].
+These Regulations may be cited as the European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 and come into force on 31st December 2020[^c-e6645ae944b94fc63a5933d0158479bb].
 
-## 2.[^key-3e276bcd07368d696d6a82244b781a3e]
+## 2.[^c-3e276bcd07368d696d6a82244b781a3e]
 
 Any amendment, repeal or revocation made by these Regulations has the same extent as the provision to which it relates [^c23500281].
 
-## 3. Cessation of rights, etc.[^key-a0eb841f181e0202c26183f847daf3a9]
+## 3. Cessation of rights, etc.[^c-a0eb841f181e0202c26183f847daf3a9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Repeals and revocations[^key-7827ab0a3b43fcbc3ed791f188edbd32]
+## 4. Repeals and revocations[^c-7827ab0a3b43fcbc3ed791f188edbd32]
 
 The provisions listed in Schedule 1 are repealed or revoked to the extent specified.
 
-## 5. Amendments[^key-613c0f9cd04292f5f334ace4559a68b1]
+## 5. Amendments[^c-613c0f9cd04292f5f334ace4559a68b1]
 
 Schedule 2 has effect.
 
-## 6. Saving[^key-dc19895e79c6220a54ed1dd05d9618ac]
+## 6. Saving[^c-dc19895e79c6220a54ed1dd05d9618ac]
 
-Despite the repeal of the European Parliamentary Elections Act 2002 [^c23500311] by the European Union (Withdrawal) Act 2018, Schedule 1 to that Act (electoral regions in England and Gibraltar) continues to have effect on and after 31st December 2020[^key-fc69452e35681ca2645f29b3a0245343] as it had effect immediately before that day for the purposes of the definition of “electoral region” in section 8(1) of the European Parliament (Pay and Pensions) Act 1979 [^c23500321].
+Despite the repeal of the European Parliamentary Elections Act 2002 [^c23500311] by the European Union (Withdrawal) Act 2018, Schedule 1 to that Act (electoral regions in England and Gibraltar) continues to have effect on and after 31st December 2020[^c-fc69452e35681ca2645f29b3a0245343] as it had effect immediately before that day for the purposes of the definition of “electoral region” in section 8(1) of the European Parliament (Pay and Pensions) Act 1979 [^c23500321].
 
 Signed by the authority of the Minister for the Cabinet Office
 
@@ -104,7 +104,7 @@ An impact assessment has not been produced for these Regulations as no impact on
 
 Regulation 4
 
-### PART 1 — Repeals[^key-cf724185a499bbe6c3aa76e7853cef6d]
+### PART 1 — Repeals[^c-cf724185a499bbe6c3aa76e7853cef6d]
 
 | *Enactment repealed* | *Extent of repeal* |
 | --- | --- |
@@ -126,7 +126,7 @@ Regulation 4
 | Investigatory Powers Act 2016 [^c23500481] | Section 26(3)(e);<br>Section 111(8)(e). |
 | Data Protection Act 2018 [^c23500491] | In Schedule 1, paragraph 23(3)(e). |
 
-### PART 2 — Revocations[^key-461f626661aec8406541c61af0667df3]
+### PART 2 — Revocations[^c-461f626661aec8406541c61af0667df3]
 
 Table 1
 
@@ -175,12 +175,12 @@ Table 1
 
 Table 2
 
-| *[^key-a9470f9ade2ee73e47c356d202f2a379]...* |  |
+| *[^c-a9470f9ade2ee73e47c356d202f2a379]...* |  |
 | --- | --- |
-| [^key-a9470f9ade2ee73e47c356d202f2a379]. . . | [^key-a9470f9ade2ee73e47c356d202f2a379]. . . |
-| [^key-a9470f9ade2ee73e47c356d202f2a379]. . . | [^key-a9470f9ade2ee73e47c356d202f2a379]. . . |
-| [^key-a9470f9ade2ee73e47c356d202f2a379]. . . | [^key-a9470f9ade2ee73e47c356d202f2a379]. . . |
-| [^key-a9470f9ade2ee73e47c356d202f2a379]. . . | [^key-a9470f9ade2ee73e47c356d202f2a379]. . . |
+| [^c-a9470f9ade2ee73e47c356d202f2a379]. . . | [^c-a9470f9ade2ee73e47c356d202f2a379]. . . |
+| [^c-a9470f9ade2ee73e47c356d202f2a379]. . . | [^c-a9470f9ade2ee73e47c356d202f2a379]. . . |
+| [^c-a9470f9ade2ee73e47c356d202f2a379]. . . | [^c-a9470f9ade2ee73e47c356d202f2a379]. . . |
+| [^c-a9470f9ade2ee73e47c356d202f2a379]. . . | [^c-a9470f9ade2ee73e47c356d202f2a379]. . . |
 
 ## SCHEDULE 2 — Amendments
 
@@ -188,7 +188,7 @@ Regulation 5
 
 ### PART 1 — Amendments to Acts
 
-#### 1. Parliamentary Constituencies Act 1986[^key-0d9ff98e2de8d42e04e55c62cafefc1e]
+#### 1. Parliamentary Constituencies Act 1986[^c-0d9ff98e2de8d42e04e55c62cafefc1e]
 
 (1) The Parliamentary Constituencies Act 1986 [^c23500901] is amended as follows.
 
@@ -297,18 +297,18 @@ Regulation 5
 
 .
 
-#### 2. Reserve Forces Act 1996[^key-473e3a3357f1af8c3633f098e48de9f1]
+#### 2. Reserve Forces Act 1996[^c-473e3a3357f1af8c3633f098e48de9f1]
 
 In section 125(a) of the Reserve Forces Act 1996 [^c23500911] for “a Member of the Northern Ireland Assembly or a Member of the European Parliament” substitute “ or a Member of the Northern Ireland Assembly ”.
 
-#### 3. Greater London Authority Act 1999[^key-6a1d87394333ca982dcdf171f83a8e19]
+#### 3. Greater London Authority Act 1999[^c-6a1d87394333ca982dcdf171f83a8e19]
 
 In section 25(1) of the Greater London Authority Act 1999 [^c23500921]—
 
 - (a) after paragraph (a) insert “ or ”; and
 - (b) omit paragraphs (b) and (ba).
 
-#### 4. Political Parties, Elections and Referendums Act 2000[^key-d3e15a92d46a2e91f8f5f6b4518a84d6]
+#### 4. Political Parties, Elections and Referendums Act 2000[^c-d3e15a92d46a2e91f8f5f6b4518a84d6]
 
 (1) The Political Parties, Elections and Referendums Act 2000 [^c23500931] is amended as follows.
 
@@ -381,7 +381,7 @@ In section 25(1) of the Greater London Authority Act 1999 [^c23500921]—
 
 ### PART 2 — Amendments to secondary legislation
 
-#### 5. Local Government Officers (Political Restrictions) Regulations 1990[^key-5cc79f0bc80ace37e41343e4bae4a37e]
+#### 5. Local Government Officers (Political Restrictions) Regulations 1990[^c-5cc79f0bc80ace37e41343e4bae4a37e]
 
 (1) The Local Government Officers (Political Restrictions) Regulations 1990 [^c23500941] is amended as follows.
 
@@ -389,7 +389,7 @@ In section 25(1) of the Greater London Authority Act 1999 [^c23500921]—
 
 (3) In the Schedule omit paragraph 1(b), but not the “or”.
 
-#### 6. Representation of the People (England and Wales) Regulations 2001[^key-0d5c96145faa410267e5ca60994069ef]
+#### 6. Representation of the People (England and Wales) Regulations 2001[^c-0d5c96145faa410267e5ca60994069ef]
 
 In Regulation 42 of the Representation of the People (England and Wales) Regulations 2001 [^c23500951]—
 
@@ -398,7 +398,7 @@ In Regulation 42 of the Representation of the People (England and Wales) Regulat
   - (ii) for the words from “of the four registers” to “European Parliamentary overseas electors)” substitute “of the two registers (those of: parliamentary electors and local government elections);
 - (b) omit paragraphs (4) and (7).
 
-#### 7. Local Authorities (Mayoral Elections) (England and Wales) Regulations 2007[^key-173c2eb071ddc8ce1b413a3387a8b279]
+#### 7. Local Authorities (Mayoral Elections) (England and Wales) Regulations 2007[^c-173c2eb071ddc8ce1b413a3387a8b279]
 
 In Table 2 of Schedule 2 to the Local Authorities (Mayoral Elections) (England and Wales) Regulations 2007 [^c23500961]—
 
@@ -416,7 +416,7 @@ In Table 2 of Schedule 2 to the Local Authorities (Mayoral Elections) (England a
   ;
 - (c) in the second row of the second column for “subsections (5) and (5A)” substitute “ subsection (5) ”.
 
-#### 8. Representation of the People (Northern Ireland) Regulations 2008[^key-96904fec3b4fbf23a09ad7a5fc2a8712]
+#### 8. Representation of the People (Northern Ireland) Regulations 2008[^c-96904fec3b4fbf23a09ad7a5fc2a8712]
 
 In Regulation 51 of the Representation of the People (Northern Ireland) Regulations 2008 [^c23500971]—
 
@@ -425,14 +425,14 @@ In Regulation 51 of the Representation of the People (Northern Ireland) Regulati
   - (ii) for the words from “of the four registers” to “European Parliamentary overseas electors)” substitute “ of the two registers (those of: parliamentary electors and local electors) ”;
 - (b) omit paragraphs (4) and (7).
 
-#### 9. Electoral Law (Polling Station Scheme) (Northern Ireland) Regulations 2010[^key-ed1e2514b3b6ece6e35a510e6e4ce83e]
+#### 9. Electoral Law (Polling Station Scheme) (Northern Ireland) Regulations 2010[^c-ed1e2514b3b6ece6e35a510e6e4ce83e]
 
 In regulation 7(4) of the Electoral Law (Polling Station Scheme) (Northern Ireland) Regulations 2010 [^c23500981]—
 
 - (a) after paragraph (b) insert “ or ”;
 - (b) omit paragraph (d) and the preceding “or”.
 
-#### 10. Local Authorities (Conduct of Referendums) (England) Regulations 2012[^key-255092794cccf7526c9cda85016b5dc0]
+#### 10. Local Authorities (Conduct of Referendums) (England) Regulations 2012[^c-255092794cccf7526c9cda85016b5dc0]
 
 In Schedule 4 to the Local Authorities (Conduct of Referendums) (England) Regulations 2012 [^c23500991]—
 
@@ -454,7 +454,7 @@ In Schedule 4 to the Local Authorities (Conduct of Referendums) (England) Regula
   - (ii) for “After the words “\*\[European Parliamentary\] election”, in both places where they occur, insert “ \*\[referendum\] ”.” substitute “After the words “\*\[local government\] election” in both places where they occur, insert “ \*\[referendum\] ”.”,
   - (iii) for “After the words “\*\[European Parliamentary electoral region\]”, in both places where they occur, insert “ \*\[voting area\] ”.” substitute “After the words “\*\[electoral area\], in both places where they occur, insert “\*\[voting area\]”.”
 
-#### 11. Local Authorities (Conduct of Referendums) (Council Tax Increases) (England) Regulations 2012[^key-9a5e2caf6beaf7a102eec69b4581ccba]
+#### 11. Local Authorities (Conduct of Referendums) (Council Tax Increases) (England) Regulations 2012[^c-9a5e2caf6beaf7a102eec69b4581ccba]
 
 In Schedule 4 to the Local Authorities (Conduct of Referendums) (Council Tax Increases) (England) Regulations 2012 [^c23501001]—
 
@@ -465,14 +465,14 @@ In Schedule 4 to the Local Authorities (Conduct of Referendums) (Council Tax Inc
   - (ii) for “After the words “\*\[European Parliamentary\] election”, in both places where they occur, insert “ \*\[referendum\] ”.” substitute “After the words “\*\[local government\] election” in both places where they occur, insert “ \*\[referendum\] ”.”,
   - (iii) for “After the words “\*\[European Parliamentary electoral region\]”, in both places where they occur, insert “ \*\[voting area\] ”.” substitute “After the words “\*\[electoral area\], in both places where they occur, insert “\*\[voting area\]”.”.
 
-#### 12. Police and Crime Commissioner Elections Order 2012[^key-34edb087a5f42f0da753a61b85a20689]
+#### 12. Police and Crime Commissioner Elections Order 2012[^c-34edb087a5f42f0da753a61b85a20689]
 
 Paragraph 42A(5)(a) of Schedule 2 to the Police and Crime Commissioner Elections Order 2012 [^c23501011] is amended as follows—
 
 - (a) at the end of subparagraph (iv) insert “ or ”;
 - (b) omit subparagraph (vi) and the preceding “or”.
 
-#### 13. Neighbourhood Planning (Referendums) Regulations 2012[^key-8d74f3cdf089109083a246988d03523a]
+#### 13. Neighbourhood Planning (Referendums) Regulations 2012[^c-8d74f3cdf089109083a246988d03523a]
 
 (1) The Neighbourhood Planning (Referendums) Regulations 2012 [^c23501021] are amended as follows.
 
@@ -490,7 +490,7 @@ Paragraph 42A(5)(a) of Schedule 2 to the Police and Crime Commissioner Elections
   - (ii) for “After the words “\*\[European Parliamentary\] election”, in both places where they occur, insert “ \*\[referendum\] ”.” substitute “After the words “\*\[local government\] election” in both places where they occur, insert “ \*\[referendum\] ”.”,
   - (iii) for “After the words “\*\[European Parliamentary electoral region\]”, in both places where they occur, insert “ \*\[neighbourhood area\] ”.” substitute “After the words “\*\[electoral area\], in both places where they occur, insert “\*\[neighbourhood area\]”.”.
 
-#### 14. Combined Authorities (Mayoral Elections) Order 2017[^key-3441cb2eb829aa44ed38cc34b076ab46]
+#### 14. Combined Authorities (Mayoral Elections) Order 2017[^c-3441cb2eb829aa44ed38cc34b076ab46]
 
 (1) The Combined Authorities (Mayoral Elections) Order 2017 [^c23501031] is amended as follows.
 
@@ -524,29 +524,29 @@ An impact assessment has not been produced for these Regulations as no impact on
 
 [^c23500271]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-e23bad664cfef69edaa410a1aa5b2ce9]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1) in force at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1) (as amended by S.I. 2019/1389, regs. 1, 2(2))
+[^c-e23bad664cfef69edaa410a1aa5b2ce9]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1) in force at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1) (as amended by S.I. 2019/1389, regs. 1, 2(2))
 
-[^key-e6645ae944b94fc63a5933d0158479bb]: Textual amendment: Words in reg. 1 substituted (25.10.2019) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) (Amendment) Regulations 2019 (S.I. 2019/1389)](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2)
+[^c-e6645ae944b94fc63a5933d0158479bb]: Textual amendment: Words in reg. 1 substituted (25.10.2019) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) (Amendment) Regulations 2019 (S.I. 2019/1389)](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2)
 
-[^key-3e276bcd07368d696d6a82244b781a3e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2018/1310/regulation/2) in force at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1) (as amended by S.I. 2019/1389, regs. 1, 2(2))
+[^c-3e276bcd07368d696d6a82244b781a3e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2018/1310/regulation/2) in force at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1) (as amended by S.I. 2019/1389, regs. 1, 2(2))
 
 [^c23500281]: Marginal citation: Section 24(3) of the European Union (Withdrawal) Act 2018 provides that regulations under section 8(1) or 23 of that Act may make provision extending to Gibraltar for purposes relating to European Parliamentary elections. These Regulations extend to Gibraltar to the extent that the amendment, repeal or revocation of a provision which extends to Gibraltar also extends to Gibraltar.
 
-[^key-a0eb841f181e0202c26183f847daf3a9]: Textual amendment: Reg. 3 omitted (31.12.2020) by virtue of [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [s. 42(7)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/7), [Sch. 5 para. 57(2)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/57/2) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3)); [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 4](https://www.legislation.gov.uk/uksi/2020/1622/regulation/4)
+[^c-a0eb841f181e0202c26183f847daf3a9]: Textual amendment: Reg. 3 omitted (31.12.2020) by virtue of [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [s. 42(7)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/7), [Sch. 5 para. 57(2)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/57/2) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3)); [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 4](https://www.legislation.gov.uk/uksi/2020/1622/regulation/4)
 
-[^key-7827ab0a3b43fcbc3ed791f188edbd32]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2018/1310/regulation/4) in force at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1) (as amended by S.I. 2019/1389, regs. 1, 2(2))
+[^c-7827ab0a3b43fcbc3ed791f188edbd32]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2018/1310/regulation/4) in force at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1) (as amended by S.I. 2019/1389, regs. 1, 2(2))
 
-[^key-613c0f9cd04292f5f334ace4559a68b1]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2018/1310/regulation/5) in force at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1) (as amended by S.I. 2019/1389, regs. 1, 2(2))
+[^c-613c0f9cd04292f5f334ace4559a68b1]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2018/1310/regulation/5) in force at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1) (as amended by S.I. 2019/1389, regs. 1, 2(2))
 
-[^key-dc19895e79c6220a54ed1dd05d9618ac]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2018/1310/regulation/6) in force at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1) (as amended by S.I. 2019/1389, regs. 1, 2(2))
+[^c-dc19895e79c6220a54ed1dd05d9618ac]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2018/1310/regulation/6) in force at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1) (as amended by S.I. 2019/1389, regs. 1, 2(2))
 
 [^c23500311]: Marginal citation: [2002 c. 24](https://www.legislation.gov.uk/ukpga/2002/24).
 
-[^key-fc69452e35681ca2645f29b3a0245343]: Textual amendment: Words in reg. 6 substituted (25.10.2019) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) (Amendment) Regulations 2019 (S.I. 2019/1389)](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/3)
+[^c-fc69452e35681ca2645f29b3a0245343]: Textual amendment: Words in reg. 6 substituted (25.10.2019) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) (Amendment) Regulations 2019 (S.I. 2019/1389)](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/3)
 
 [^c23500321]: Marginal citation: [1979 c. 50](https://www.legislation.gov.uk/ukpga/1979/50). In the definition of “electoral region” in section 8(1), the reference to the European Parliament was substituted for the reference to the European Assembly by section 3(1) of the [European Communities (Amendment) Act 1986 (c. 58)](https://www.legislation.gov.uk/ukpga/1986/58).
 
-[^key-cf724185a499bbe6c3aa76e7853cef6d]: Commencement: [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/1) in force at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1) (as amended by S.I. 2019/1389, regs. 1, 2(2))
+[^c-cf724185a499bbe6c3aa76e7853cef6d]: Commencement: [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/1) in force at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1) (as amended by S.I. 2019/1389, regs. 1, 2(2))
 
 [^c23500331]: Marginal citation: [1962 c. 14 (N.I.)](https://www.legislation.gov.uk/apni/1962/14). Rule 16A of Schedule 5 was inserted by paragraph 55 of Schedule 1 to the [Local Elections (Northern Ireland) Order 2010 (S.I. 2010/2977)](https://www.legislation.gov.uk/uksi/2010/2977).
 
@@ -582,7 +582,7 @@ An impact assessment has not been produced for these Regulations as no impact on
 
 [^c23500491]: Marginal citation: [2018 c. 12](https://www.legislation.gov.uk/ukpga/2018/12).
 
-[^key-461f626661aec8406541c61af0667df3]: Commencement: Sch. 1 Pt. 2 in force at 31.12.2020, see reg. 1 (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-461f626661aec8406541c61af0667df3]: Commencement: Sch. 1 Pt. 2 in force at 31.12.2020, see reg. 1 (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
 
 [^c23500501]: Marginal citation: [S.I. 1976/1042 (N.I. 15)](https://www.legislation.gov.uk/nisi/1976/1042). The references to the Assembly, is substituted with the European Parliament, by virtue of section 3(1) of the [European Communities (Amendment) Act 1986 (c. 58)](https://www.legislation.gov.uk/ukpga/1986/58). Article 43A was inserted by section 2 of the [Sex Discrimination (Election Candidates) Act 2002 (c. 2)](https://www.legislation.gov.uk/ukpga/2002/2).
 
@@ -664,60 +664,60 @@ An impact assessment has not been produced for these Regulations as no impact on
 
 [^c23500891]: Marginal citation: [S.I. 2018/107](https://www.legislation.gov.uk/uksi/2018/107).
 
-[^key-a9470f9ade2ee73e47c356d202f2a379]: Textual amendment: [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) Table 2 omitted (1.11.2022) by virtue of [The European Parliamentary Elections (Amendment and Revocation) (United Kingdom and Gibraltar) (EU Exit) Regulations 2022 (S.I. 2022/885)](https://www.legislation.gov.uk/uksi/2022/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/885/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2022/885/regulation/6/2)
+[^c-a9470f9ade2ee73e47c356d202f2a379]: Textual amendment: [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) Table 2 omitted (1.11.2022) by virtue of [The European Parliamentary Elections (Amendment and Revocation) (United Kingdom and Gibraltar) (EU Exit) Regulations 2022 (S.I. 2022/885)](https://www.legislation.gov.uk/uksi/2022/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/885/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2022/885/regulation/6/2)
 
-[^key-0d9ff98e2de8d42e04e55c62cafefc1e]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2018/1310/schedule/2/paragraph/1) in force at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1) (as amended by S.I. 2019/1389, regs. 1, 2(2))
+[^c-0d9ff98e2de8d42e04e55c62cafefc1e]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2018/1310/schedule/2/paragraph/1) in force at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1) (as amended by S.I. 2019/1389, regs. 1, 2(2))
 
 [^c23500901]: Marginal citation: [1986 c. 56](https://www.legislation.gov.uk/ukpga/1986/56). Schedule 2 was substituted by section 11(1) and Schedule 2A was inserted by section 12(2) of, and Schedule 11 to, the [Parliamentary Voting System and Constituencies Act 2011 (2011 c. 1)](https://www.legislation.gov.uk/ukpga/2011/1).
 
-[^key-473e3a3357f1af8c3633f098e48de9f1]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/2/paragraph/2) in force at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1) (as amended by S.I. 2019/1389, regs. 1, 2(2))
+[^c-473e3a3357f1af8c3633f098e48de9f1]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/2/paragraph/2) in force at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1) (as amended by S.I. 2019/1389, regs. 1, 2(2))
 
 [^c23500911]: Marginal citation: [1996 c. 14](https://www.legislation.gov.uk/ukpga/1996/14).
 
-[^key-6a1d87394333ca982dcdf171f83a8e19]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2018/1310/schedule/2/paragraph/3) in force at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1) (as amended by S.I. 2019/1389, regs. 1, 2(2))
+[^c-6a1d87394333ca982dcdf171f83a8e19]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2018/1310/schedule/2/paragraph/3) in force at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1) (as amended by S.I. 2019/1389, regs. 1, 2(2))
 
 [^c23500921]: Marginal citation: [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), relevant amendments were made by [S.I. 2011/3048](https://www.legislation.gov.uk/uksi/2011/3048).
 
-[^key-d3e15a92d46a2e91f8f5f6b4518a84d6]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2018/1310/schedule/2/paragraph/4) in force at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1) (as amended by S.I. 2019/1389, regs. 1, 2(2))
+[^c-d3e15a92d46a2e91f8f5f6b4518a84d6]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2018/1310/schedule/2/paragraph/4) in force at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1) (as amended by S.I. 2019/1389, regs. 1, 2(2))
 
 [^c23500931]: Marginal citation: [2000 c. 41](https://www.legislation.gov.uk/ukpga/2000/41). Schedule 8A was inserted by paragraph 1 of Schedule 3 to the Transparency of Lobbying, Non-[Party Campaigning and Trade Union Administration Act 2014 (c. 4)](https://www.legislation.gov.uk/ukpga/2014/4), other relevant amendments were made by [S.I. 2004/336](https://www.legislation.gov.uk/uksi/2004/336).
 
-[^key-5cc79f0bc80ace37e41343e4bae4a37e]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2018/1310/schedule/2/paragraph/5) in force at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1) (as amended by S.I. 2019/1389, regs. 1, 2(2))
+[^c-5cc79f0bc80ace37e41343e4bae4a37e]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2018/1310/schedule/2/paragraph/5) in force at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1) (as amended by S.I. 2019/1389, regs. 1, 2(2))
 
 [^c23500941]: Marginal citation: [S.I. 1990/851](https://www.legislation.gov.uk/uksi/1990/851), to which there are amendments not relevant to these Regulations.
 
-[^key-0d5c96145faa410267e5ca60994069ef]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2018/1310/schedule/2/paragraph/6) in force at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1) (as amended by S.I. 2019/1389, regs. 1, 2(2))
+[^c-0d5c96145faa410267e5ca60994069ef]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2018/1310/schedule/2/paragraph/6) in force at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1) (as amended by S.I. 2019/1389, regs. 1, 2(2))
 
 [^c23500951]: Marginal citation: [S.I. 2001/341](https://www.legislation.gov.uk/uksi/2001/341), to which there are amendments not relevant to these Regulations.
 
-[^key-173c2eb071ddc8ce1b413a3387a8b279]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2018/1310/schedule/2/paragraph/7) in force at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1) (as amended by S.I. 2019/1389, regs. 1, 2(2))
+[^c-173c2eb071ddc8ce1b413a3387a8b279]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2018/1310/schedule/2/paragraph/7) in force at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1) (as amended by S.I. 2019/1389, regs. 1, 2(2))
 
 [^c23500961]: Marginal citation: [S.I. 2007/1024](https://www.legislation.gov.uk/uksi/2007/1024).
 
-[^key-96904fec3b4fbf23a09ad7a5fc2a8712]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2018/1310/schedule/2/paragraph/8) in force at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1) (as amended by S.I. 2019/1389, regs. 1, 2(2))
+[^c-96904fec3b4fbf23a09ad7a5fc2a8712]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2018/1310/schedule/2/paragraph/8) in force at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1) (as amended by S.I. 2019/1389, regs. 1, 2(2))
 
 [^c23500971]: Marginal citation: [S.I. 2008/1741](https://www.legislation.gov.uk/uksi/2008/1741), to which there are amendments not relevant to these Regulations.
 
-[^key-ed1e2514b3b6ece6e35a510e6e4ce83e]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2018/1310/schedule/2/paragraph/9) in force at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1) (as amended by S.I. 2019/1389, regs. 1, 2(2))
+[^c-ed1e2514b3b6ece6e35a510e6e4ce83e]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2018/1310/schedule/2/paragraph/9) in force at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1) (as amended by S.I. 2019/1389, regs. 1, 2(2))
 
 [^c23500981]: Marginal citation: [S.I. 2010/1532](https://www.legislation.gov.uk/uksi/2010/1532).
 
-[^key-255092794cccf7526c9cda85016b5dc0]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2018/1310/schedule/2/paragraph/10) in force at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1) (as amended by S.I. 2019/1389, regs. 1, 2(2))
+[^c-255092794cccf7526c9cda85016b5dc0]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2018/1310/schedule/2/paragraph/10) in force at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1) (as amended by S.I. 2019/1389, regs. 1, 2(2))
 
 [^c23500991]: Marginal citation: [S.I. 2012/323](https://www.legislation.gov.uk/uksi/2012/323).
 
-[^key-9a5e2caf6beaf7a102eec69b4581ccba]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2018/1310/schedule/2/paragraph/11) in force at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1) (as amended by S.I. 2019/1389, regs. 1, 2(2))
+[^c-9a5e2caf6beaf7a102eec69b4581ccba]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2018/1310/schedule/2/paragraph/11) in force at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1) (as amended by S.I. 2019/1389, regs. 1, 2(2))
 
 [^c23501001]: Marginal citation: [S.I. 2012/444](https://www.legislation.gov.uk/uksi/2012/444).
 
-[^key-34edb087a5f42f0da753a61b85a20689]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2018/1310/schedule/2/paragraph/12) in force at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1) (as amended by S.I. 2019/1389, regs. 1, 2(2))
+[^c-34edb087a5f42f0da753a61b85a20689]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2018/1310/schedule/2/paragraph/12) in force at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1) (as amended by S.I. 2019/1389, regs. 1, 2(2))
 
 [^c23501011]: Marginal citation: [S.I. 2012/1917](https://www.legislation.gov.uk/uksi/2012/1917), relevant amendments were made by [S.I. 2014/921](https://www.legislation.gov.uk/uksi/2014/921).
 
-[^key-8d74f3cdf089109083a246988d03523a]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2018/1310/schedule/2/paragraph/13) in force at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1) (as amended by S.I. 2019/1389, regs. 1, 2(2))
+[^c-8d74f3cdf089109083a246988d03523a]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2018/1310/schedule/2/paragraph/13) in force at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1) (as amended by S.I. 2019/1389, regs. 1, 2(2))
 
 [^c23501021]: Marginal citation: [S.I. 2012/2031](https://www.legislation.gov.uk/uksi/2012/2031), to which there are amendments not relevant to these Regulations.
 
-[^key-3441cb2eb829aa44ed38cc34b076ab46]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2018/1310/schedule/2/paragraph/14) in force at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1) (as amended by S.I. 2019/1389, regs. 1, 2(2))
+[^c-3441cb2eb829aa44ed38cc34b076ab46]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2018/1310/schedule/2/paragraph/14) in force at 31.12.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1) (as amended by S.I. 2019/1389, regs. 1, 2(2))
 
 [^c23501031]: Marginal citation: [S.I. 2017/67](https://www.legislation.gov.uk/uksi/2017/67).

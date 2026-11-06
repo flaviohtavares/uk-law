@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 129. Amendment of regulation 9[^key-54cc3225db50eb27202afed71cc4d778]
+## 129. Amendment of regulation 9[^c-54cc3225db50eb27202afed71cc4d778]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ In regulation 9 (compensation where lump sum on death becomes payable)—
 
 ## Annotations
 
-[^key-54cc3225db50eb27202afed71cc4d778]: Commencement: [Reg. 129](https://www.legislation.gov.uk/ssi/2011/364/regulation/129) in force at 1.12.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2)
+[^c-54cc3225db50eb27202afed71cc4d778]: Commencement: [Reg. 129](https://www.legislation.gov.uk/ssi/2011/364/regulation/129) in force at 1.12.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2)

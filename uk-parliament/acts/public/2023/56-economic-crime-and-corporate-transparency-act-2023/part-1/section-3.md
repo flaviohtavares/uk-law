@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Information about subscribers[^key-67e9acdf5c74aed02d0a5ada3f682be5]
+## 3. Information about subscribers[^c-67e9acdf5c74aed02d0a5ada3f682be5]
 
 *Extent: E+W+S+N.I.*
 
@@ -74,4 +74,4 @@ summary: ''
 
 ## Annotations
 
-[^key-67e9acdf5c74aed02d0a5ada3f682be5]: Commencement: S. 3 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-67e9acdf5c74aed02d0a5ada3f682be5]: Commencement: S. 3 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)

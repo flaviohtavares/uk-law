@@ -46,13 +46,13 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by sections 63(5) and (6), 65(3) and (4), 87(5) and (6), 232(3) and (7) and 234 of the Housing Act 2004[^f00001], makes the following Regulations:
 
-## 1. Citation, commencement and application[^key-71411b71ed349e2a17cdbbd77e585ebe]
+## 1. Citation, commencement and application[^c-71411b71ed349e2a17cdbbd77e585ebe]
 
 (1) These Regulations may be cited as the Licensing and Management of Houses in Multiple Occupation (Additional Provisions) (England) Regulations 2007 and shall come into force on 1st October 2007.
 
 (2) Regulations 2 to 11 apply to any HMO[^f00002] in England which is an HMO to which section 257 of the Housing Act 2004 applies and regulation 12 applies to any HMO in England to which Part 2 of that Act (licensing of houses in multiple occupation) applies.
 
-## 2. Interpretation[^key-d4d4de2326c8ae658ff720f502398cbd]
+## 2. Interpretation[^c-d4d4de2326c8ae658ff720f502398cbd]
 
 In these Regulations—
 
@@ -64,7 +64,7 @@ In these Regulations—
   - (iv) washing machines or other laundry appliances; and
 - (c) “the manager”, in relation to an HMO, means the person managing[^f00003] the HMO.
 
-## 3. Managers duties: general[^key-d7dbe8045255f6e2f5d3ecdc050182f2]
+## 3. Managers duties: general[^c-d7dbe8045255f6e2f5d3ecdc050182f2]
 
 (1) Regulations 4 to 10 shall apply subject to the following limitations—
 
@@ -76,11 +76,11 @@ In these Regulations—
 - (a) require or authorise anything to be done in connection with the water supply or drainage or the supply of gas or electricity otherwise than in accordance with any enactment; or
 - (b) oblige the manager to take, in connection with those matters, any action which is the responsibility of a local authority or any other person, other than such action as may be necessary to bring the matter promptly to the attention of the authority or person concerned.
 
-## 4. Duty of manager to provide information to occupier[^key-774680932b840e1a46895277dd950519]
+## 4. Duty of manager to provide information to occupier[^c-774680932b840e1a46895277dd950519]
 
 The manager must ensure that his name, address and any telephone contact number are clearly displayed in a prominent position in the common parts of the HMO so that they may be seen by all occupiers.
 
-## 5. Duty of manager to take safety measures[^key-a020ab22805bf6923db5ba3c006fcd37]
+## 5. Duty of manager to take safety measures[^c-a020ab22805bf6923db5ba3c006fcd37]
 
 (1) The manager must ensure that all means of escape from fire in the HMO are—
 
@@ -102,7 +102,7 @@ The manager must ensure that his name, address and any telephone contact number 
 - (a) in relation to any roof or balcony that is unsafe, either ensure that it is made safe or take all reasonable measures to prevent access to it for so long as it remains unsafe; and
 - (b) in relation to any window the sill of which is at or near floor level, ensure that bars or other such safeguards as may be necessary are provided to protect the occupiers against the danger of accidents which may be caused in connection with such windows.
 
-## 6. Duty of manager to maintain water supply and drainage[^key-eea8facae9407a22a95cbfb26b4b60ab]
+## 6. Duty of manager to maintain water supply and drainage[^c-eea8facae9407a22a95cbfb26b4b60ab]
 
 (1) The manager must ensure that the water supply and drainage system serving the HMO is maintained in good, clean and working condition and in particular he must ensure that—
 
@@ -113,11 +113,11 @@ The manager must ensure that his name, address and any telephone contact number 
 
 (3) In this regulation “water fitting” means a pipe, tap, cock, valve, ferrule, meter, cistern, bath, water closet or soil pan used in connection with the supply or use of water, but the reference in this definition to a pipe does not include an overflow pipe or the mains supply pipe.
 
-## 7. Duty of manager to supply and maintain gas and electricity[^key-e26379bd49f32818054dc88ac0ba0141]
+## 7. Duty of manager to supply and maintain gas and electricity[^c-e26379bd49f32818054dc88ac0ba0141]
 
 (1) The manager must supply to the local housing authority within 7 days of receiving a request in writing from that authority the latest gas appliance test certificate he has received in relation to the testing of any gas appliance at the HMO by a recognised engineer.
 
-(2)[^key-6ef6c87f576e59eeae0dfc0db1db4d2d] In paragraph (1), “recognised engineer” means an engineer approved under regulation 3 of the Gas Safety (Installation and Use) Regulations 1998
+(2)[^c-6ef6c87f576e59eeae0dfc0db1db4d2d] In paragraph (1), “recognised engineer” means an engineer approved under regulation 3 of the Gas Safety (Installation and Use) Regulations 1998
 
 (3) The manager must—
 
@@ -127,7 +127,7 @@ The manager must ensure that his name, address and any telephone contact number 
 
 (4) The manager must not unreasonably cause the gas or electricity supply that is used by any occupier within the HMO to be interrupted.
 
-## 8. Duty of manager to maintain common parts, fixtures, fittings and appliances[^key-2ce701d87a7ed0a63d00b0a08e9856cb]
+## 8. Duty of manager to maintain common parts, fixtures, fittings and appliances[^c-2ce701d87a7ed0a63d00b0a08e9856cb]
 
 (1) The manager must ensure that all common parts of the HMO are—
 
@@ -160,7 +160,7 @@ The manager must ensure that his name, address and any telephone contact number 
   - (i) the entrance door to the HMO and the entrance doors leading to each unit of living accommodation within the HMO; and
   - (ii) all such parts of the HMO as comprise staircases, lifts, passageways, corridors, halls, lobbies, entrances, balconies, porches and steps that are used by the occupiers of the units of living accommodation within the HMO to gain access to the entrance doors of their respective unit of living accommodation.
 
-## 9. Duty of manager to maintain living accommodation[^key-8efb97622dee39cb970b53601971b04b]
+## 9. Duty of manager to maintain living accommodation[^c-8efb97622dee39cb970b53601971b04b]
 
 (1) Subject to paragraph (4), the manager must ensure that each unit of living accommodation within the HMO and any furniture supplied with it are in clean condition at the beginning of a person’s occupation of it.
 
@@ -176,14 +176,14 @@ The manager must ensure that his name, address and any telephone contact number 
 
 (5) For the purpose of this regulation a person shall be regarded as using his living accommodation otherwise than in a tenant-like manner where he fails to treat the property in accordance with the covenants or conditions contained in his lease or licence or otherwise fails to conduct himself as a reasonable tenant or licensee would do.
 
-## 10. Duty to provide waste disposal facilities[^key-368aa18622cceb3afe2f5c525d93ab28]
+## 10. Duty to provide waste disposal facilities[^c-368aa18622cceb3afe2f5c525d93ab28]
 
 The manager must—
 
 - (a) ensure that sufficient bins or other suitable receptacles are provided that are adequate for the requirements of each household occupying the HMO for the storage of refuse and litter pending their disposal; and
 - (b) make such further arrangements for the disposal of refuse and litter from the HMO as may be necessary, having regard to any service for such disposal provided by the local authority.
 
-## 11. Duties of occupiers of HMOs[^key-315649eecbf63ce64e352f274ad11154]
+## 11. Duties of occupiers of HMOs[^c-315649eecbf63ce64e352f274ad11154]
 
 Every occupier of the HMO must—
 
@@ -194,7 +194,7 @@ Every occupier of the HMO must—
 - (e) store and dispose of litter in accordance with the arrangements made by the manager under regulation 10; and
 - (f) comply with the reasonable instructions of the manager in respect of any means of escape from fire, the prevention of fire and the use of fire equipment.
 
-## 12. Amendments to the Licensing and Management of Houses in Multiple Occupation and Other Houses (Miscellaneous Provisions) (England) Regulations 2006[^key-d9157be89a50d2676bc32d9cde537bb2]
+## 12. Amendments to the Licensing and Management of Houses in Multiple Occupation and Other Houses (Miscellaneous Provisions) (England) Regulations 2006[^c-d9157be89a50d2676bc32d9cde537bb2]
 
 (1) The Licensing and Management of Houses in Multiple Occupation and Other Houses (Miscellaneous Provisions) (England) Regulations 2006[^f00004] are amended as follows.
 
@@ -316,34 +316,34 @@ A full regulatory impact assessment on the statutory instruments to supplement t
 
 [^f00001]: Footnote: [2004 c. 34](https://www.legislation.gov.uk/ukpga/2004/34). The powers conferred by sections 63(5) and (6), 65(3) and (4), 87(5) and (6), 232(3) and (7) and 234 of the Act are exercisable, as respects England, by the Secretary of State. See the definition of the appropriate national authority in section 261(1). As respects Wales, by virtue of paragraph 30(2)(c) of Schedule 11 to the Government of Wales Act [2006 (c.32)](https://www.legislation.gov.uk/ukpga/2006/32) the functions formerly exercisable by the National Assembly for Wales are now exercisable by the Welsh Ministers.
 
-[^key-71411b71ed349e2a17cdbbd77e585ebe]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1) in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/1)
+[^c-71411b71ed349e2a17cdbbd77e585ebe]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1) in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/1)
 
 [^f00002]: Footnote: For the meaning of HMO see sections 254 to 259 of the Act.
 
-[^key-d4d4de2326c8ae658ff720f502398cbd]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2007/1903/regulation/2) in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/1)
+[^c-d4d4de2326c8ae658ff720f502398cbd]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2007/1903/regulation/2) in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/1)
 
 [^f00003]: Footnote: For the meaning of “person managing” see section 263(3) of the Act.
 
-[^key-d7dbe8045255f6e2f5d3ecdc050182f2]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2007/1903/regulation/3) in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/1)
+[^c-d7dbe8045255f6e2f5d3ecdc050182f2]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2007/1903/regulation/3) in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/1)
 
-[^key-774680932b840e1a46895277dd950519]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2007/1903/regulation/4) in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/1)
+[^c-774680932b840e1a46895277dd950519]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2007/1903/regulation/4) in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/1)
 
-[^key-a020ab22805bf6923db5ba3c006fcd37]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2007/1903/regulation/5) in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/1)
+[^c-a020ab22805bf6923db5ba3c006fcd37]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2007/1903/regulation/5) in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/1)
 
-[^key-eea8facae9407a22a95cbfb26b4b60ab]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2007/1903/regulation/6) in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/1)
+[^c-eea8facae9407a22a95cbfb26b4b60ab]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2007/1903/regulation/6) in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/1)
 
-[^key-e26379bd49f32818054dc88ac0ba0141]: Commencement: Reg. 7 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/1)
+[^c-e26379bd49f32818054dc88ac0ba0141]: Commencement: Reg. 7 in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/1)
 
-[^key-6ef6c87f576e59eeae0dfc0db1db4d2d]: Textual amendment: Reg. 7(2) substituted (13.4.2009) by [The Houses in Multiple Occupation (Management) (England) Regulations 2009 (S.I. 2009/724)](https://www.legislation.gov.uk/uksi/2009/724), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/724/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2009/724/regulation/3/2)
+[^c-6ef6c87f576e59eeae0dfc0db1db4d2d]: Textual amendment: Reg. 7(2) substituted (13.4.2009) by [The Houses in Multiple Occupation (Management) (England) Regulations 2009 (S.I. 2009/724)](https://www.legislation.gov.uk/uksi/2009/724), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/724/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2009/724/regulation/3/2)
 
-[^key-2ce701d87a7ed0a63d00b0a08e9856cb]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2007/1903/regulation/8) in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/1)
+[^c-2ce701d87a7ed0a63d00b0a08e9856cb]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2007/1903/regulation/8) in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/1)
 
-[^key-8efb97622dee39cb970b53601971b04b]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2007/1903/regulation/9) in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/1)
+[^c-8efb97622dee39cb970b53601971b04b]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2007/1903/regulation/9) in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/1)
 
-[^key-368aa18622cceb3afe2f5c525d93ab28]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2007/1903/regulation/10) in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/1)
+[^c-368aa18622cceb3afe2f5c525d93ab28]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2007/1903/regulation/10) in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/1)
 
-[^key-315649eecbf63ce64e352f274ad11154]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2007/1903/regulation/11) in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/1)
+[^c-315649eecbf63ce64e352f274ad11154]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2007/1903/regulation/11) in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/1)
 
-[^key-d9157be89a50d2676bc32d9cde537bb2]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2007/1903/regulation/12) in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/1)
+[^c-d9157be89a50d2676bc32d9cde537bb2]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2007/1903/regulation/12) in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1903/regulation/1/1)
 
 [^f00004]: Footnote: [SI 2006/373](https://www.legislation.gov.uk/uksi/2006/373)

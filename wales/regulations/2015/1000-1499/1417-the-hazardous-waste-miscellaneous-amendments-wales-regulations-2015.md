@@ -87,7 +87,7 @@ The Welsh Ministers make these Regulations in exercise of the powers conferred b
 
 (1) The Hazardous Waste (Wales) Regulations 2005 [^c22632521] are amended as follows.
 
-(2)[^key-dbd8985b39dc695370fdf1f30c695fc8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-dbd8985b39dc695370fdf1f30c695fc8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In regulation 3(a) [^c22632561] (Annex III to the Waste Directive), omit “, as that Annex is set out in Schedule 3”.
 
@@ -296,7 +296,7 @@ No impact assessment has been undertaken for this instrument because no impact o
 
 [^c22632521]: Marginal citation: [S.I. 2005/1806](https://www.legislation.gov.uk/uksi/2005/1806) (W. 138), relevant amending instruments are [S.I. 2011/971](https://www.legislation.gov.uk/uksi/2011/971) (W 141) and [S.I. 2011/988](https://www.legislation.gov.uk/uksi/2011/988).
 
-[^key-dbd8985b39dc695370fdf1f30c695fc8]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/wsi/2015/1417/regulation/3/2) revoked (5.7.2018) by [The Hazardous Waste (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/721)](https://www.legislation.gov.uk/wsi/2018/721), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/721/regulation/1/2), [7(a)](https://www.legislation.gov.uk/wsi/2018/721/regulation/7/a)
+[^c-dbd8985b39dc695370fdf1f30c695fc8]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/wsi/2015/1417/regulation/3/2) revoked (5.7.2018) by [The Hazardous Waste (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/721)](https://www.legislation.gov.uk/wsi/2018/721), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/721/regulation/1/2), [7(a)](https://www.legislation.gov.uk/wsi/2018/721/regulation/7/a)
 
 [^c22632561]: Marginal citation: Regulation 3 was substituted by [S.I. 2011/971](https://www.legislation.gov.uk/uksi/2011/971) (W. 141).
 

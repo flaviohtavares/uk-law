@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1.13. Summoning of meetings[^key-6e18af4e9c660476a538f5fc686f0597]
+## 1.13. Summoning of meetings[^c-6e18af4e9c660476a538f5fc686f0597]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6e18af4e9c660476a538f5fc686f0597]: Textual amendment: Rule 1.13 substituted (15.9.2003) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(2)](https://www.legislation.gov.uk/uksi/2003/1730/article/1/2), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/part/1/paragraph/4)
+[^c-6e18af4e9c660476a538f5fc686f0597]: Textual amendment: Rule 1.13 substituted (15.9.2003) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(2)](https://www.legislation.gov.uk/uksi/2003/1730/article/1/2), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/part/1/paragraph/4)

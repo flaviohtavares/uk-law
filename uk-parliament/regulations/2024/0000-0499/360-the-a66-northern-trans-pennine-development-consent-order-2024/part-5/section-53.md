@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 53. Environmental Management Plans[^key-93345ae5bf71f101f67c4a368fe90c93]
+## 53. Environmental Management Plans[^c-93345ae5bf71f101f67c4a368fe90c93]
 
 *Extent: E+W*
 
@@ -71,6 +71,6 @@ summary: ''
 
 ## Annotations
 
-[^key-93345ae5bf71f101f67c4a368fe90c93]: Commencement: Art. 53 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)
+[^c-93345ae5bf71f101f67c4a368fe90c93]: Commencement: Art. 53 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)
 
 [^f00111]: Footnote: The Tree Loss and Compensation Planting Report was submitted by the undertaker to the Examining Authority during the examination of the application at deadline 4 (14 February 2023).

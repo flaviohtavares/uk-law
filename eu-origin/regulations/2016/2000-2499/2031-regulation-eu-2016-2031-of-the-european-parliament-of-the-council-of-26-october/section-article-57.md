@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 57. Requirements for phytosanitary transit as regards GB pest-free areas[^key-e10f9b8446615512fade3ce9f10a749d]
+## Article 57. Requirements for phytosanitary transit as regards GB pest-free areas[^c-e10f9b8446615512fade3ce9f10a749d]
 
 *Extent: E+W+S+N.I.*
 
-Article 47 shall apply *mutatis mutandis* to the phytosanitary transit of the plants, plant products and other objects of a description specified in any entry in column (1) of the tables in Annex 9 and 10 to the Phytosanitary Conditions Regulation through the GB pest-free areas related to those plants, plant products or other objects.[^key-39477c4c396701f1c8f359ac560a034d]
+Article 47 shall apply *mutatis mutandis* to the phytosanitary transit of the plants, plant products and other objects of a description specified in any entry in column (1) of the tables in Annex 9 and 10 to the Phytosanitary Conditions Regulation through the GB pest-free areas related to those plants, plant products or other objects.[^c-39477c4c396701f1c8f359ac560a034d]
 
 ## Annotations
 
-[^key-e10f9b8446615512fade3ce9f10a749d]: Textual amendment: Words in Art. 57 heading substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [29(21)(a)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/29/21/a) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
+[^c-e10f9b8446615512fade3ce9f10a749d]: Textual amendment: Words in Art. 57 heading substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [29(21)(a)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/29/21/a) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
 
-[^key-39477c4c396701f1c8f359ac560a034d]: Textual amendment: Words in Art. 57 substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [29(21)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/29/21/b) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
+[^c-39477c4c396701f1c8f359ac560a034d]: Textual amendment: Words in Art. 57 substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [29(21)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/29/21/b) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))

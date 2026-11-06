@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Reports for each financial year etc.[^key-9604cf67ea48e99d6d9eca64d2472343]
+## 83. Reports for each financial year etc.[^c-9604cf67ea48e99d6d9eca64d2472343]
 
 *Extent: E+W*
 
@@ -28,13 +28,13 @@ summary: ''
 - (d) the carrying on of regulated activities during the year, and
 - (e) the steps taken by it during the year to implement the proposals in its statement under section 5 (statement on user involvement).
 
-(1A)[^key-a866a00a1d402056f2d47f3230bcb59d] The reference in subsection (1)(a) to the Commission's functions does not include a reference to its functions under section 45A.
+(1A)[^c-a866a00a1d402056f2d47f3230bcb59d] The reference in subsection (1)(a) to the Commission's functions does not include a reference to its functions under section 45A.
 
 (2) The Commission may comply with subsection (1) by preparing a single document or separate documents on each of the matters mentioned there.
 
-(2A)[^key-0e0b86547dfaab80631059df78cf1313] The reports under subsection (1)(b) and (c) must, in particular, set out (and identify as such) the contents of the report made by the Healthwatch England committee under section 45C(1)(a) in respect of the year concerned.
+(2A)[^c-0e0b86547dfaab80631059df78cf1313] The reports under subsection (1)(b) and (c) must, in particular, set out (and identify as such) the contents of the report made by the Healthwatch England committee under section 45C(1)(a) in respect of the year concerned.
 
-(3)[^key-a5206e02cf208191c60d24dcd38cf438] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-a5206e02cf208191c60d24dcd38cf438] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The Commission must—
 
@@ -52,10 +52,10 @@ summary: ''
 
 ## Annotations
 
-[^key-9604cf67ea48e99d6d9eca64d2472343]: Commencement: S. 83 in force at 1.10.2008 by [S.I. 2008/2497](https://www.legislation.gov.uk/uksi/2008/2497), [art. 2(i)](https://www.legislation.gov.uk/uksi/2008/2497/article/2/i)
+[^c-9604cf67ea48e99d6d9eca64d2472343]: Commencement: S. 83 in force at 1.10.2008 by [S.I. 2008/2497](https://www.legislation.gov.uk/uksi/2008/2497), [art. 2(i)](https://www.legislation.gov.uk/uksi/2008/2497/article/2/i)
 
-[^key-a866a00a1d402056f2d47f3230bcb59d]: Textual amendment: S. 83(1A) inserted (27.3.2012 for specified purposes, 1.10.2012 in so far as not already in force) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 181(11)](https://www.legislation.gov.uk/ukpga/2012/7/section/181/11), [306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d), [(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2)
+[^c-a866a00a1d402056f2d47f3230bcb59d]: Textual amendment: S. 83(1A) inserted (27.3.2012 for specified purposes, 1.10.2012 in so far as not already in force) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 181(11)](https://www.legislation.gov.uk/ukpga/2012/7/section/181/11), [306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d), [(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2)
 
-[^key-0e0b86547dfaab80631059df78cf1313]: Textual amendment: S. 83(2A) inserted (27.3.2012 for specified purposes, 1.10.2012 in so far as not already in force) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 181(12)](https://www.legislation.gov.uk/ukpga/2012/7/section/181/12), [306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d), [(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2)
+[^c-0e0b86547dfaab80631059df78cf1313]: Textual amendment: S. 83(2A) inserted (27.3.2012 for specified purposes, 1.10.2012 in so far as not already in force) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 181(12)](https://www.legislation.gov.uk/ukpga/2012/7/section/181/12), [306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d), [(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2)
 
-[^key-a5206e02cf208191c60d24dcd38cf438]: Textual amendment: S. 83(3) omitted (1.10.2014) by virtue of [Care Act 2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23), [ss. 90(8)](https://www.legislation.gov.uk/ukpga/2014/23/section/90/8), [127(1)](https://www.legislation.gov.uk/ukpga/2014/23/section/127/1); [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 3(e)](https://www.legislation.gov.uk/uksi/2014/2473/article/3/e)
+[^c-a5206e02cf208191c60d24dcd38cf438]: Textual amendment: S. 83(3) omitted (1.10.2014) by virtue of [Care Act 2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23), [ss. 90(8)](https://www.legislation.gov.uk/ukpga/2014/23/section/90/8), [127(1)](https://www.legislation.gov.uk/ukpga/2014/23/section/127/1); [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 3(e)](https://www.legislation.gov.uk/uksi/2014/2473/article/3/e)

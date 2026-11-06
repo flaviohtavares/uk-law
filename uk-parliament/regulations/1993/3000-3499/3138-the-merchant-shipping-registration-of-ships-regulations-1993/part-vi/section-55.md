@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Registration of changes of name or port of choice[^key-d06e829ac08428d88c151867d2cb4a9a]
+## 55. Registration of changes of name or port of choice[^c-d06e829ac08428d88c151867d2cb4a9a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ On receipt of the marking note duly completed the Registrar shall re-register th
 
 ## Annotations
 
-[^key-d06e829ac08428d88c151867d2cb4a9a]: Commencement: [Reg. 55](https://www.legislation.gov.uk/uksi/1993/3138/regulation/55) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
+[^c-d06e829ac08428d88c151867d2cb4a9a]: Commencement: [Reg. 55](https://www.legislation.gov.uk/uksi/1993/3138/regulation/55) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)

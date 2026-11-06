@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Disclosure for facilitating exercise of functions by the Board[^key-dbe47655812ba4c9879910ef09cd8404]
+## 85. Disclosure for facilitating exercise of functions by the Board[^c-dbe47655812ba4c9879910ef09cd8404]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Section 82 does not preclude the disclosure of restricted information in any cas
 
 ## Annotations
 
-[^key-dbe47655812ba4c9879910ef09cd8404]: Commencement: S. 85 in force at 6.4.2005 by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)
+[^c-dbe47655812ba4c9879910ef09cd8404]: Commencement: S. 85 in force at 6.4.2005 by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)

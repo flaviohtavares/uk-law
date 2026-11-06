@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Powers of entry[^key-df0e590915d34a59f381e34ac222d34c]
+## 19. Powers of entry[^c-df0e590915d34a59f381e34ac222d34c]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-df0e590915d34a59f381e34ac222d34c]: Commencement: [S. 19](https://www.legislation.gov.uk/anaw/2017/2/section/19) in force at 1.3.2021 by [S.I. 2021/202](https://www.legislation.gov.uk/wsi/2021/202), [art. 2](https://www.legislation.gov.uk/wsi/2021/202/article/2)
+[^c-df0e590915d34a59f381e34ac222d34c]: Commencement: [S. 19](https://www.legislation.gov.uk/anaw/2017/2/section/19) in force at 1.3.2021 by [S.I. 2021/202](https://www.legislation.gov.uk/wsi/2021/202), [art. 2](https://www.legislation.gov.uk/wsi/2021/202/article/2)

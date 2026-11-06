@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 54. Continuity option 3: conversion to closed scheme[^key-213c3e8440104f5af1dca7758188711c]
+## 54. Continuity option 3: conversion to closed scheme[^c-213c3e8440104f5af1dca7758188711c]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-213c3e8440104f5af1dca7758188711c]: Commencement: Reg. 54 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-213c3e8440104f5af1dca7758188711c]: Commencement: Reg. 54 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)

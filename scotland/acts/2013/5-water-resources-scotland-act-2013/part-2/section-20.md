@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20. Procedure for regulations[^key-76093e2fa4dfbb546424d79b2dcd98d5]
+## 20. Procedure for regulations[^c-76093e2fa4dfbb546424d79b2dcd98d5]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-76093e2fa4dfbb546424d79b2dcd98d5]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2013/5/section/20) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
+[^c-76093e2fa4dfbb546424d79b2dcd98d5]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2013/5/section/20) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)

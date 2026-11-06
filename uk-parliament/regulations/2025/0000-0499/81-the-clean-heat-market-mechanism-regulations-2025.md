@@ -48,13 +48,13 @@ In accordance with section 151(1) and (2) of that Act[^f00002], a draft of these
 
 ## Part 1 — Preliminary
 
-### 1. Citation, commencement and extent[^key-197151d44c1a62d414e76dbfb0d42fbd]
+### 1. Citation, commencement and extent[^c-197151d44c1a62d414e76dbfb0d42fbd]
 
 (1) These Regulations may be cited as the Clean Heat Market Mechanism Regulations 2025 and come into force on 1st April 2025.
 
 (2) These Regulations extend to England and Wales, Scotland and Northern Ireland.
 
-### 2. Interpretation[^key-3eaa286e0bc18ca4790dc2f0a283eb74]
+### 2. Interpretation[^c-3eaa286e0bc18ca4790dc2f0a283eb74]
 
 (1) In these Regulations—
 
@@ -64,7 +64,7 @@ In accordance with section 151(1) and (2) of that Act[^f00002], a draft of these
 - “**building unit**” means a section, floor or apartment within a building which is designed or altered to be used separately;
 - “**certificate**” means a certificate acquired in accordance with regulation 13;
 - “**certificate holder**” has the meaning given in regulation 13(3);
-- “[^key-a67f6f0a516e87c8ec5fdc0fb30f6dd3]**certification scheme**” has the meaning given in regulation 6;
+- “[^c-a67f6f0a516e87c8ec5fdc0fb30f6dd3]**certification scheme**” has the meaning given in regulation 6;
 - “**excluded sale**”, in relation to a fossil fuel boiler, means a sale of a fossil fuel boiler which is, or is to be, installed at a building—
   - (a) outside the United Kingdom; or
   - (b) which has not been first used or occupied before the installation takes place;
@@ -130,7 +130,7 @@ In accordance with section 151(1) and (2) of that Act[^f00002], a draft of these
 - (a) the undertakings which are recorded in the register of a certification scheme for the purposes of regulation 5(c)(iv) must notify the administrator, on or before 30th September of the year following the end of the scheme year during which the heat pump is installed, which of them is the supplier of the heat pump for the purposes of regulation 13 (acquisition of certificates); and
 - (b) in the absence of such notification, the heat pump is treated as not having been installed.
 
-### 3. Stand-alone heat pumps[^key-e7cb9b3a00d34c30a74f1d2475e659e5]
+### 3. Stand-alone heat pumps[^c-e7cb9b3a00d34c30a74f1d2475e659e5]
 
 (1) A heating appliance falls within this paragraph where—
 
@@ -159,14 +159,14 @@ In accordance with section 151(1) and (2) of that Act[^f00002], a draft of these
 - (b) heating a swimming pool; or
 - (c) carrying out a process.
 
-### 4. Hybrid heating systems[^key-26e41fff4c150dfcfec9c3ce75424103]
+### 4. Hybrid heating systems[^c-26e41fff4c150dfcfec9c3ce75424103]
 
 (1) A heating system falls within this paragraph where it—
 
 - (a) is a heating system which includes both—
   - (i) a heating appliance capable of burning fossil fuels; and
   - (ii) a heating appliance which meets the requirements of regulation 3(1)(a) to (f) (stand-alone heat pumps);
-- (b) provides heating for the purpose of [^key-73371753be1a61b7750dd9ba8da8482e]... space heating whether or not it also provides hot water heating[^key-140fb6d57ae9f083d40cbcff95b1a52b], using liquid as a medium for delivering that heat; and
+- (b) provides heating for the purpose of [^c-73371753be1a61b7750dd9ba8da8482e]... space heating whether or not it also provides hot water heating[^c-140fb6d57ae9f083d40cbcff95b1a52b], using liquid as a medium for delivering that heat; and
 - (c) is capable of meeting the full space heating and hot water heating demands of the building at which it is installed.
 
 (2) For the purposes of paragraph (1)(a), it is irrelevant whether or not the heating appliances described in paragraphs (i) and (ii)—
@@ -176,7 +176,7 @@ In accordance with section 151(1) and (2) of that Act[^f00002], a draft of these
 - (c) were supplied by the same supplier; or
 - (d) form part of the same product or unit.
 
-### 5. Installation of heat pumps[^key-61e67d31ba4e413a8e70f2353aaa2f44]
+### 5. Installation of heat pumps[^c-61e67d31ba4e413a8e70f2353aaa2f44]
 
 An installation of a heat pump meets the requirements of this regulation where—
 
@@ -188,7 +188,7 @@ An installation of a heat pump meets the requirements of this regulation where�
   - (iii) the model and capacity of the heat pump installed; and
   - (iv) the identity of the undertaking which manufactured the heat pump, or which had it manufactured, and which owns, or has the right to use, the brand name, trade mark or other distinctive mark under which the heat pump is marketed in the United Kingdom.
 
-### 6. Certification scheme[^key-dd43f5ee99e87f03191586f58a1e7626]
+### 6. Certification scheme[^c-dd43f5ee99e87f03191586f58a1e7626]
 
 (1) The certification scheme is the Microgeneration Certification Scheme.
 
@@ -204,13 +204,13 @@ An installation of a heat pump meets the requirements of this regulation where�
 
 ## Part 2 — Establishment and administration of the Scheme
 
-### 7. Establishment of the Clean Heat Market Mechanism[^key-1bfae749b61f1d071f864cf05d3a1115]
+### 7. Establishment of the Clean Heat Market Mechanism[^c-1bfae749b61f1d071f864cf05d3a1115]
 
 (1) These Regulations establish a low-carbon heat scheme, to be known as the Clean Heat Market Mechanism (“**the Scheme**”).
 
 (2) The purpose of the Scheme is to encourage the installation in the United Kingdom of heat pumps through the imposition of low-carbon heat targets[^f00009] on scheme participants.
 
-### 8. Administration of the Scheme[^key-1f16753146fe714c560db15abd8b7b19]
+### 8. Administration of the Scheme[^c-1f16753146fe714c560db15abd8b7b19]
 
 (1) The Environment Agency is appointed as the administrator of the Scheme.
 
@@ -233,7 +233,7 @@ An installation of a heat pump meets the requirements of this regulation where�
 
 ## Part 3 — Scheme participants and near-threshold suppliers
 
-### 9. Scheme participants[^key-72e5c66b26cfee0db22e07220ed6f499]
+### 9. Scheme participants[^c-72e5c66b26cfee0db22e07220ed6f499]
 
 (1) An undertaking which is not a group undertaking in relation to another undertaking is a scheme participant for a scheme year where—
 
@@ -274,7 +274,7 @@ An installation of a heat pump meets the requirements of this regulation where�
 - (f) “**turnover**” has the meaning given in section 474(1) of the Companies Act 2006[^f00015] but is to be read as if the reference to a “company” were a reference to an undertaking;
 - (g) where an amount referred to in paragraph (1)(b) or (2)(b) is denominated wholly or partly in a foreign currency, the sterling equivalent is to be calculated by reference to the average exchange rate for the financial year for which the accounts are prepared.
 
-### 10. Near-threshold suppliers[^key-ccd453dab8fd80190fec0675b2877136]
+### 10. Near-threshold suppliers[^c-ccd453dab8fd80190fec0675b2877136]
 
 (1) An undertaking which is not a group undertaking in relation to another undertaking is a near-threshold supplier for a scheme year where—
 
@@ -303,7 +303,7 @@ An installation of a heat pump meets the requirements of this regulation where�
 
 (4) Where this paragraph applies, the change referred to in paragraph (3)(b) is only treated as having effect where it occurs in relation to two consecutive scheme years.
 
-### 11. Groups of undertakings: responsible undertaking and liability[^key-c211d7356d7a5792cdf2724715c838a8]
+### 11. Groups of undertakings: responsible undertaking and liability[^c-c211d7356d7a5792cdf2724715c838a8]
 
 (1) Paragraph (2) applies for the purpose of identifying the responsible undertaking for a group of undertakings which is—
 
@@ -328,14 +328,14 @@ An installation of a heat pump meets the requirements of this regulation where�
 
 ## Part 4 — Low-carbon heat target and acquisition of certificates
 
-### 12. Low-carbon heat target[^key-9b558d67da0574c3bb2cd61eefb0ba2b]
+### 12. Low-carbon heat target[^c-9b558d67da0574c3bb2cd61eefb0ba2b]
 
 (1) A scheme participant has a low-carbon heat target for each scheme year for which it is a scheme participant, expressed as a number of units and calculated in accordance with this regulation.
 
 (2) A scheme participant’s low-carbon heat target for a scheme year is the number of units which is equal to the sum of—
 
-- (a) 8%[^key-6af4960fd6fbc4a9b5c9e96161aba98f] of the number of gas boilers in excess of 19,999 of which the scheme participant is the supplier and which are the subject of a qualifying sale during the scheme year; and
-- (b) 8%[^key-daf3aa218cf9442d72151ed885cdbd80] of the number of oil boilers in excess of 999 of which the scheme participant is the supplier and which are the subject of a qualifying sale during the scheme year.
+- (a) 8%[^c-6af4960fd6fbc4a9b5c9e96161aba98f] of the number of gas boilers in excess of 19,999 of which the scheme participant is the supplier and which are the subject of a qualifying sale during the scheme year; and
+- (b) 8%[^c-daf3aa218cf9442d72151ed885cdbd80] of the number of oil boilers in excess of 999 of which the scheme participant is the supplier and which are the subject of a qualifying sale during the scheme year.
 
 (3) A scheme participant’s low-carbon heat target—
 
@@ -346,7 +346,7 @@ An installation of a heat pump meets the requirements of this regulation where�
 
 (5) Where a scheme participant’s low-carbon heat target, calculated in accordance with paragraph (2) and, where applicable, paragraph (3), is not a whole number, the target is to be rounded to the nearest whole number, rounding down any fraction of less than one half and rounding up any other fraction.
 
-### 13. Acquisition of certificates[^key-26daa08f01c31c351ce1c4fede7de02c]
+### 13. Acquisition of certificates[^c-26daa08f01c31c351ce1c4fede7de02c]
 
 (1) The supplier of a stand-alone heat pump acquires a certificate for a scheme year for each stand-alone heat pump—
 
@@ -369,7 +369,7 @@ is referred to in these Regulations as a “**certificate holder**”.
 
 ## Part 5 — Information
 
-### 14. Registration obligation for potential scheme participants and near-threshold suppliers[^key-8a018a6f2537ff7cce7dc2297d8d019f]
+### 14. Registration obligation for potential scheme participants and near-threshold suppliers[^c-8a018a6f2537ff7cce7dc2297d8d019f]
 
 (1) The registration obligation for an undertaking which is not a group undertaking in relation to another undertaking is an obligation to notify the administrator of—
 
@@ -414,7 +414,7 @@ is referred to in these Regulations as a “**certificate holder**”.
 
 (7) Where an undertaking or a group of undertakings has complied with the registration obligation in paragraph (1) or (3), it must notify the administrator of any changes to the information notified to the administrator pursuant to that obligation before the end of the period of 28 days beginning with the date of the change.
 
-### 15. Quarterly notification of fossil fuel boiler sales by scheme participants and near-threshold suppliers[^key-8e4ccd4db01fe67393820420d87441d6]
+### 15. Quarterly notification of fossil fuel boiler sales by scheme participants and near-threshold suppliers[^c-8e4ccd4db01fe67393820420d87441d6]
 
 (1) On or before the date which is 28 days after the end of a quarter of a scheme year, a scheme participant and a near-threshold supplier must notify the administrator of—
 
@@ -425,7 +425,7 @@ is referred to in these Regulations as a “**certificate holder**”.
 
 (2) In this regulation, “**quarter**”, in relation to a scheme year, means the period of three months beginning with the first day of the scheme year, and each subsequent period of three months during the scheme year.
 
-### 16. Annual notification of fossil fuel boiler sales by scheme participants[^key-714f66f39bcaff57189135d8cad87a5e]
+### 16. Annual notification of fossil fuel boiler sales by scheme participants[^c-714f66f39bcaff57189135d8cad87a5e]
 
 (1) On or before 30th June of each year following the end of a scheme year, a scheme participant must notify the administrator of—
 
@@ -439,7 +439,7 @@ is referred to in these Regulations as a “**certificate holder**”.
 - (a) the verifier’s assurance report referred to in regulation 17; and
 - (b) evidence demonstrating that a fossil fuel boiler to which a notification under paragraph (1)(c) or (d) relates was, or was to be, exported from the United Kingdom or installed at a building in the United Kingdom which has not been first used or occupied before the installation takes place, as the case may be.
 
-### 17. Verification of information[^key-e22cacc0d472b6280f806f854bca5c03]
+### 17. Verification of information[^c-e22cacc0d472b6280f806f854bca5c03]
 
 (1) A scheme participant must, for each scheme year, obtain and provide to the administrator under regulation 16(2)(a) a verifier’s assurance report which must—
 
@@ -469,7 +469,7 @@ is referred to in these Regulations as a “**certificate holder**”.
 
 (3) In paragraph (1)(c), the reference to material misstatement is to be construed in accordance with ISAE 3000 (R).
 
-### 18. Maintenance of records: scheme participants and near-threshold suppliers[^key-d5cad6c9bd84c2dbf795ab428a23922a]
+### 18. Maintenance of records: scheme participants and near-threshold suppliers[^c-d5cad6c9bd84c2dbf795ab428a23922a]
 
 (1) A scheme participant must maintain a record of the information required to be notified by it to the administrator under regulations 15 and 16 (quarterly and annual fossil fuel boiler notifications), regulation 21(3) or (4) (changes of corporate structure) and regulation 24(4) (transfers of certificates).
 
@@ -483,7 +483,7 @@ is referred to in these Regulations as a “**certificate holder**”.
 - (b) up to date and, so far as possible, kept together; and
 - (c) available for inspection by the administrator at any time.
 
-### 19. Information concerning heat pump installation[^key-e14699740a27624b7aa0cb53e7de714f]
+### 19. Information concerning heat pump installation[^c-e14699740a27624b7aa0cb53e7de714f]
 
 (1) The administrator must, for each scheme year, record in the registry the acquisition of certificates in accordance with regulation 13.
 
@@ -493,7 +493,7 @@ is referred to in these Regulations as a “**certificate holder**”.
 - (b) verify the information against any other information available to the administrator; and
 - (c) treat such information as evidence that the installation meets the standards for heat pump installations set by the certification scheme.
 
-### 20. Power of administrator to estimate fossil fuel boiler sales[^key-8643642416967f6573f078e0914bc73c]
+### 20. Power of administrator to estimate fossil fuel boiler sales[^c-8643642416967f6573f078e0914bc73c]
 
 (1) Paragraph (2) applies where—
 
@@ -531,7 +531,7 @@ is referred to in these Regulations as a “**certificate holder**”.
 - (b) give a notice of the revised determination, including the matters mentioned in paragraph (5)(a) to (c), to the scheme participant within 28 days of making it; and
 - (c) update the registry accordingly.
 
-### 21. Notification of changes of corporate structure: scheme participants and near-threshold suppliers[^key-5b3cb7d37cc2c42efcce84e1c4b200db]
+### 21. Notification of changes of corporate structure: scheme participants and near-threshold suppliers[^c-5b3cb7d37cc2c42efcce84e1c4b200db]
 
 (1) This regulation applies where, during the period of operation of the Scheme—
 
@@ -572,7 +572,7 @@ is referred to in these Regulations as a “**certificate holder**”.
 
 (9) Until the obligations in this regulation are complied with, and subject to paragraph (6), a corporate structure change is treated, for the purposes of the Scheme, as not having taken place.
 
-### 22. Manner of notification of information to administrator[^key-c210bd0b0033de5c6c23a57e0b29b643]
+### 22. Manner of notification of information to administrator[^c-c210bd0b0033de5c6c23a57e0b29b643]
 
 (1) Any obligation of a scheme participant or a near-threshold supplier to provide information to, or to notify, the administrator must be complied with by providing the information, or making the notification—
 
@@ -581,7 +581,7 @@ is referred to in these Regulations as a “**certificate holder**”.
 
 (2) This regulation is subject to regulations 32(2)(b) (information notices) and 33(1)(d) (power to require production of records).
 
-### 23. Service of notices[^key-0d19236542bbbc69c431d0b77057b416]
+### 23. Service of notices[^c-0d19236542bbbc69c431d0b77057b416]
 
 (1) This regulation applies to the service of a notice under these Regulations.
 
@@ -620,7 +620,7 @@ is referred to in these Regulations as a “**certificate holder**”.
 
 ## Part 6 — Certificates, carry forward of part of low-carbon heat target and payments
 
-### 24. Certificates: transfer[^key-a32d43b89ca2cfefacb07ee79a8d83f2]
+### 24. Certificates: transfer[^c-a32d43b89ca2cfefacb07ee79a8d83f2]
 
 (1) During a transfer period, scheme participants and certificate holders may transfer certificates in accordance with the following provisions of this regulation.
 
@@ -638,13 +638,13 @@ is referred to in these Regulations as a “**certificate holder**”.
 
 (6) In this regulation, “**transfer period**” means the period beginning with 1st October of each scheme year and ending with 30th September following the end of that scheme year.
 
-### 25. Surrender of certificates to meet low-carbon heat target[^key-34e397a72860261362323e59a6109a11]
+### 25. Surrender of certificates to meet low-carbon heat target[^c-34e397a72860261362323e59a6109a11]
 
 (1) For each scheme year, and no later than 1st October following the end of a scheme year, a scheme participant must meet its low-carbon heat target by acquiring and surrendering a number of certificates which is equal to the number of units in that target, subject to any carry forward of that target in accordance with regulation 27.
 
 (2) The administrator must update the registry to record the surrender of certificates.
 
-### 26. Certificates: carry over[^key-5e860b885fce86bc4670ae1ccdee3a01]
+### 26. Certificates: carry over[^c-5e860b885fce86bc4670ae1ccdee3a01]
 
 (1) In this regulation—
 
@@ -664,7 +664,7 @@ is referred to in these Regulations as a “**certificate holder**”.
 
 (7) The administrator must record in the registry the carry over of certificates in accordance with this regulation.
 
-### 27. Carry forward of part of low-carbon heat target[^key-3c430051d2107c79f734f49add808042]
+### 27. Carry forward of part of low-carbon heat target[^c-3c430051d2107c79f734f49add808042]
 
 (1) This regulation applies to a scheme participant which has fewer certificates than it requires in order to meet its low-carbon heat target for a scheme year other than the 2028 scheme year, referred to in this regulation as the “**carry forward scheme year**”.
 
@@ -697,7 +697,7 @@ is referred to in these Regulations as a “**certificate holder**”.
 - (a) must, for the scheme year following the carry forward scheme year, meet the part of its low-carbon heat target which it carried forward; and
 - (b) is treated as a scheme participant for the scheme year following the carry forward scheme year for that purpose, in addition, where applicable, to being a near-threshold supplier or a certificate holder.
 
-### 28. Payments[^key-6d0bcccccfc249e6ed54a17376281012]
+### 28. Payments[^c-6d0bcccccfc249e6ed54a17376281012]
 
 (1) A scheme participant which has insufficient certificates to meet its low-carbon heat target in accordance with regulation 25(1) for a scheme year must make a payment to the administrator, on or before 30th November following the end of the scheme year, of £500 in respect of each unit of its low-carbon heat target which is unmet.
 
@@ -705,7 +705,7 @@ is referred to in these Regulations as a “**certificate holder**”.
 
 (3) The administrator must pay any payment received under this regulation into the Consolidated Fund.
 
-### 29. Correction of the registry[^key-7b1e7a57d664e1d41fdc3a56f456cbd7]
+### 29. Correction of the registry[^c-7b1e7a57d664e1d41fdc3a56f456cbd7]
 
 The administrator may correct the registry accordingly where the administrator is satisfied that—
 
@@ -713,7 +713,7 @@ The administrator may correct the registry accordingly where the administrator i
 - (b) a certificate has been incorrectly recorded as having been acquired, or not having been acquired; or
 - (c) a correction is otherwise appropriate.
 
-### 30. Certificates: expiry[^key-17dce3f350347e84a85eccadb31c362d]
+### 30. Certificates: expiry[^c-17dce3f350347e84a85eccadb31c362d]
 
 (1) For each scheme year other than the 2028 scheme year, the administrator must record in the registry the expiry of a certificate which is neither surrendered in accordance with regulation 25(1) nor carried over in accordance with regulation 26.
 
@@ -721,11 +721,11 @@ The administrator may correct the registry accordingly where the administrator i
 
 ## Part 7 — Monitoring compliance
 
-### 31. Authorised persons[^key-8583b532bea4e6773846d08fd935bf05]
+### 31. Authorised persons[^c-8583b532bea4e6773846d08fd935bf05]
 
 The administrator may authorise a person to exercise, on behalf of the administrator and in accordance with the terms of the authorisation, the administrator’s powers in this Part.
 
-### 32. Information notices[^key-659f088005366ad0d8876840b270d70c]
+### 32. Information notices[^c-659f088005366ad0d8876840b270d70c]
 
 (1) The administrator or an authorised person may, by giving a notice (an “information notice”) to a person, require the person to provide information for purposes connected with the exercise of functions under these Regulations.
 
@@ -738,7 +738,7 @@ The administrator may authorise a person to exercise, on behalf of the administr
 
 (3) The information that a person may be required to provide includes information that, although it is not in the person's possession or it would not otherwise come into the person's possession, is information that it is reasonable to require the person to obtain or compile for a purpose connected with the exercise of functions under these Regulations.
 
-### 33. Powers of entry, etc[^key-adf9ae4e1e26380d24c69451ab437a4c]
+### 33. Powers of entry, etc[^c-adf9ae4e1e26380d24c69451ab437a4c]
 
 (1) The administrator or an authorised person may—
 
@@ -755,7 +755,7 @@ The administrator may authorise a person to exercise, on behalf of the administr
 
 (2) The powers in paragraph (1) may only be exercised where the administrator or an authorised person reasonably believes there has been a failure to comply with the requirements of these Regulations.
 
-### 34. Warrants[^key-5c8d8de2e49ac14f5cf3023e956ff831]
+### 34. Warrants[^c-5c8d8de2e49ac14f5cf3023e956ff831]
 
 (1) A judge may issue a warrant in relation to any premises for the purpose of regulation 33(1)(a) where satisfied that—
 
@@ -780,7 +780,7 @@ The administrator may authorise a person to exercise, on behalf of the administr
 
 (5) In Scotland, the matters in paragraph (1)(a) and (b) must be shown to the satisfaction of the judge on sworn information in writing.
 
-### 35. Admissible evidence[^key-20f895e145117e72f4552948d8134283]
+### 35. Admissible evidence[^c-20f895e145117e72f4552948d8134283]
 
 (1) Subject to paragraph (2), an answer given by a person in compliance with regulation 33(1)(c)(i) is admissible in evidence—
 
@@ -795,7 +795,7 @@ The administrator may authorise a person to exercise, on behalf of the administr
 - (b) section 44(2) of the Criminal Law (Consolidation) (Scotland) Act 1995[^f00021]; or
 - (c) article 10 of the Perjury (Northern Ireland) Order 1979[^f00022].
 
-### 36. Legal professional privilege etc.[^key-ae8a1affed950e03378e08745b8cd314]
+### 36. Legal professional privilege etc.[^c-ae8a1affed950e03378e08745b8cd314]
 
 Nothing in this Part requires any person to produce a document or information in respect of which a claim could be maintained in legal proceedings—
 
@@ -804,7 +804,7 @@ Nothing in this Part requires any person to produce a document or information in
 
 ## Part 8 — Civil penalties
 
-### 37. Civil penalties: general[^key-1a47c931491793654b0ee597da85ca86]
+### 37. Civil penalties: general[^c-1a47c931491793654b0ee597da85ca86]
 
 (1) Where the administrator considers that a scheme participant or a near-threshold supplier is liable to a civil penalty under regulation 41 (failure to notify fossil fuel boiler sales) or that a scheme participant is liable to a civil penalty under regulation 45 (failure to make a payment), the administrator must impose a civil penalty on the scheme participant or near-threshold supplier, as the case may be.
 
@@ -831,7 +831,7 @@ Nothing in this Part requires any person to produce a document or information in
 
 (7) The administrator must pay any financial penalty received into the Consolidated Fund.
 
-### 38. Waiver or modification of certain civil penalties[^key-653867f602aea6b8453cf92c7f277b29]
+### 38. Waiver or modification of certain civil penalties[^c-653867f602aea6b8453cf92c7f277b29]
 
 (1) Except in the case of a penalty which must be imposed under regulation 41 (failure to notify fossil fuel boiler sales) or 45 (failure to make a payment), where the administrator considers appropriate, the administrator may—
 
@@ -842,7 +842,7 @@ Nothing in this Part requires any person to produce a document or information in
 
 (2) Where the administrator ceases to be satisfied that a person is liable for a penalty, or where there is an error in a penalty notice, the administrator may serve a further notice on that person to withdraw or correct the penalty notice.
 
-### 39. Publication: general[^key-fb167b4b41265b42e93c08bcb60f6765]
+### 39. Publication: general[^c-fb167b4b41265b42e93c08bcb60f6765]
 
 Publication—
 
@@ -851,7 +851,7 @@ Publication—
   - (ii) where an appeal against the penalty has been made, until after the final determination or withdrawal of the appeal; and
 - (b) lasts for the period of one year beginning with the date on which publication takes place.
 
-### 40. Failure to comply with the registration obligation in regulation 14[^key-44fb0d71ba1f563648ea8833575b2eeb]
+### 40. Failure to comply with the registration obligation in regulation 14[^c-44fb0d71ba1f563648ea8833575b2eeb]
 
 (1) The penalties in paragraph (2) apply where—
 
@@ -866,7 +866,7 @@ Publication—
   - (ii) a daily penalty at a rate of £500 for each day that the undertaking or group of undertakings fails to comply with the obligation in regulation 14(1), (3) or (7), as the case may be, beginning with the day after the date on which the obligation should have been complied with, up to a maximum of £45,000; and
 - (b) publication.
 
-### 41. Failure to notify information under regulation 15 or 16 (fossil fuel boiler sales)[^key-55e1b55c050a6f7578d359c99d510c1f]
+### 41. Failure to notify information under regulation 15 or 16 (fossil fuel boiler sales)[^c-55e1b55c050a6f7578d359c99d510c1f]
 
 (1) The penalties in paragraph (2) apply where a scheme participant or a near-threshold supplier fails to make a notification which it is required to make under regulation 15 or 16.
 
@@ -877,7 +877,7 @@ Publication—
   - (ii) a daily penalty at a rate of £500 for each day that the scheme participant or near-threshold supplier fails to make the notification under regulation 15 or 16, as the case may be, beginning with the day after the date on which the notification should have been made, up to a maximum of £45,000; and
 - (b) publication.
 
-### 42. Notification of inaccurate information under regulation 16 (annual notification of fossil fuel boiler sales)[^key-594f755cec666ffa35f316bf32047914]
+### 42. Notification of inaccurate information under regulation 16 (annual notification of fossil fuel boiler sales)[^c-594f755cec666ffa35f316bf32047914]
 
 (1) The penalties in paragraph (2) apply where a scheme participant makes a notification which it is required to make under regulation 16 and the notification—
 
@@ -889,7 +889,7 @@ Publication—
 - (a) the financial penalty of £50,000; and
 - (b) publication.
 
-### 43. Failure to maintain records under regulation 18[^key-3ad5151452b94079f8979c4c54a45d71]
+### 43. Failure to maintain records under regulation 18[^c-3ad5151452b94079f8979c4c54a45d71]
 
 (1) The penalties in paragraph (2) apply where a scheme participant or a near-threshold supplier fails to maintain records as required by regulation 18.
 
@@ -898,7 +898,7 @@ Publication—
 - (a) the financial penalty of £5,000; and
 - (b) publication.
 
-### 44. Failure to make a notification under regulation 21(3) or (4) (change of corporate structure)[^key-a403fb0bdf71e1d539cd7df56032f164]
+### 44. Failure to make a notification under regulation 21(3) or (4) (change of corporate structure)[^c-a403fb0bdf71e1d539cd7df56032f164]
 
 (1) The penalties in paragraph (2) apply where a scheme participant or a near-threshold supplier fails to make a notification which it is required to make under regulation 21(3) or (4).
 
@@ -909,7 +909,7 @@ Publication—
   - (ii) a daily penalty at a rate of £500 for each day that the scheme participant or a near-threshold supplier fails to make the notification under regulation 21(3) or (4), as the case may be, beginning with the day after the date on which the notification should have been made, up to a maximum of £45,000; and
 - (b) publication.
 
-### 45. Failure to make a payment under regulation 28[^key-4103967965343605dc08d0ce31bf861c]
+### 45. Failure to make a payment under regulation 28[^c-4103967965343605dc08d0ce31bf861c]
 
 (1) The penalties in paragraph (2) apply where a scheme participant fails to make a payment which is due in accordance with regulation 28.
 
@@ -918,7 +918,7 @@ Publication—
 - (a) a financial penalty equivalent to £4,000 in respect of each unit of the scheme participant’s low-carbon heat target which was unmet and in respect of which a payment was not made in accordance with regulation 28; and
 - (b) publication.
 
-### 46. Failure to comply with information notice[^key-8062e148e50e81ff78fa218bd970b812]
+### 46. Failure to comply with information notice[^c-8062e148e50e81ff78fa218bd970b812]
 
 (1) The penalties in paragraph (2) apply where a person fails to comply (or to comply on time) with the requirements of a notice (the “information notice”) given under regulation 32.
 
@@ -931,7 +931,7 @@ Publication—
 
 ## Part 9 — Criminal penalties
 
-### 47. Provision of false or misleading information[^key-7dafc88d606651b1199b43049c7295d3]
+### 47. Provision of false or misleading information[^c-7dafc88d606651b1199b43049c7295d3]
 
 (1) It is an offence for a scheme participant or a near-threshold supplier to make a notification which it is required to make under regulation 15 or 16 (notification of fossil fuel boiler sales)—
 
@@ -944,7 +944,7 @@ Publication—
 - (b) on summary conviction in Scotland or in Northern Ireland, to a fine not exceeding the statutory maximum;
 - (c) on conviction on indictment, to a fine.
 
-### 48. Obstructing power of entry etc.[^key-6aa8889c5c2e643dc912be19c522cb9c]
+### 48. Obstructing power of entry etc.[^c-6aa8889c5c2e643dc912be19c522cb9c]
 
 (1) It is an offence for a person—
 
@@ -962,7 +962,7 @@ Publication—
 - (b) on summary conviction in Scotland or in Northern Ireland, to a fine not exceeding the statutory maximum;
 - (c) on conviction on indictment, to a fine.
 
-### 49. Corporate liability[^key-28e26ff8125a50396705db94f0f45d99]
+### 49. Corporate liability[^c-28e26ff8125a50396705db94f0f45d99]
 
 (1) Where an offence under this Part is committed by a body corporate and—
 
@@ -975,7 +975,7 @@ the officer as well as the body corporate is guilty of the offence and is liable
 
 (3) If the affairs of a body corporate are managed by its members, paragraph (1) applies in relation to the acts or defaults of a member in connection with that member's functions of management as if the member were a director of the body corporate.
 
-### 50. Scottish partnerships[^key-59d0e1bdb11849d617c6d5ea85ae7f19]
+### 50. Scottish partnerships[^c-59d0e1bdb11849d617c6d5ea85ae7f19]
 
 (1) Where an offence under this Part is committed by a Scottish partnership and—
 
@@ -988,7 +988,7 @@ the partner as well as the partnership is guilty of the offence and is liable to
 
 ## Part 10 — Appeals
 
-### 51. Decisions to which this Part applies[^key-bc47be6b10e74e4eff25b5707722c099]
+### 51. Decisions to which this Part applies[^c-bc47be6b10e74e4eff25b5707722c099]
 
 This Part applies to the following decisions of the administrator—
 
@@ -998,7 +998,7 @@ This Part applies to the following decisions of the administrator—
 - (d) a decision to correct, or not to correct, the registry under regulation 29;
 - (e) a decision to give a penalty notice under Part 8.
 
-### 52. Right of appeal[^key-88b356efd13e517a5c5e02f3ba75b68e]
+### 52. Right of appeal[^c-88b356efd13e517a5c5e02f3ba75b68e]
 
 A person who is aggrieved by a decision to which this Part applies may make an appeal to the First-tier Tribunal on the grounds—
 
@@ -1008,7 +1008,7 @@ A person who is aggrieved by a decision to which this Part applies may make an a
 - (d) in the case of publication, that the nature of the penalty is unreasonable; or
 - (e) that the decision was wrong or unreasonable for any other reason.
 
-### 53. Effect of appeal[^key-45500cc721725dddb1afc8e2017c912d]
+### 53. Effect of appeal[^c-45500cc721725dddb1afc8e2017c912d]
 
 (1) Subject to paragraphs (2) and (3), the bringing of an appeal under regulation 52 suspends the effect of the decision pending the final determination or withdrawal of the appeal.
 
@@ -1016,7 +1016,7 @@ A person who is aggrieved by a decision to which this Part applies may make an a
 
 (3) Where the appeal is against a decision of the administrator not to correct the registry under regulation 29, that decision remains in effect until the final determination or withdrawal of the appeal.
 
-### 54. Determination of appeal[^key-9b035617346a3893d5dcf7eb9e9e38b3]
+### 54. Determination of appeal[^c-9b035617346a3893d5dcf7eb9e9e38b3]
 
 (1) In determining an appeal under regulation 52, the First-tier Tribunal may—
 
@@ -1028,7 +1028,7 @@ A person who is aggrieved by a decision to which this Part applies may make an a
 
 ## Part 11 — Review
 
-### 55. Review[^key-0cc1be92469f98b80467b805ea60f647]
+### 55. Review[^c-0cc1be92469f98b80467b805ea60f647]
 
 (1) The Secretary of State must from time to time—
 
@@ -1074,11 +1074,11 @@ A full impact assessment of the effect that these Regulations will have on the c
 
 [^f00002]: Footnote: See section 331(3) of the Energy Act 2023 for the meaning of the affirmative procedure.
 
-[^key-197151d44c1a62d414e76dbfb0d42fbd]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2025/81/regulation/1) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
+[^c-197151d44c1a62d414e76dbfb0d42fbd]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2025/81/regulation/1) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
 
-[^key-3eaa286e0bc18ca4790dc2f0a283eb74]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2025/81/regulation/2) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
+[^c-3eaa286e0bc18ca4790dc2f0a283eb74]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2025/81/regulation/2) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
 
-[^key-a67f6f0a516e87c8ec5fdc0fb30f6dd3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/2/1) substituted (12.12.2025) by [The Clean Heat Market Mechanism (Amendment) Regulations 2025 (S.I. 2025/1208)](https://www.legislation.gov.uk/uksi/2025/1208), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2025/1208/regulation/2/1), [5](https://www.legislation.gov.uk/uksi/2025/1208/regulation/5)
+[^c-a67f6f0a516e87c8ec5fdc0fb30f6dd3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/2/1) substituted (12.12.2025) by [The Clean Heat Market Mechanism (Amendment) Regulations 2025 (S.I. 2025/1208)](https://www.legislation.gov.uk/uksi/2025/1208), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2025/1208/regulation/2/1), [5](https://www.legislation.gov.uk/uksi/2025/1208/regulation/5)
 
 [^f00003]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
 
@@ -1088,29 +1088,29 @@ A full impact assessment of the effect that these Regulations will have on the c
 
 [^f00006]: Footnote: See section 143(2) of the Energy Act 2023 for the meaning of “low-carbon heat scheme”.
 
-[^key-e7cb9b3a00d34c30a74f1d2475e659e5]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2025/81/regulation/3) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
+[^c-e7cb9b3a00d34c30a74f1d2475e659e5]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2025/81/regulation/3) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
 
 [^f00007]: Footnote: See section 143(4) of the Energy Act 2023 for the meaning of “fossil fuel”.
 
-[^key-26e41fff4c150dfcfec9c3ce75424103]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2025/81/regulation/4) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
+[^c-26e41fff4c150dfcfec9c3ce75424103]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2025/81/regulation/4) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
 
-[^key-73371753be1a61b7750dd9ba8da8482e]: Textual amendment: Word in [reg. 4(1)(b)](https://www.legislation.gov.uk/uksi/2025/81/regulation/4/1/b) omitted (12.12.2025) by virtue of [The Clean Heat Market Mechanism (Amendment) Regulations 2025 (S.I. 2025/1208)](https://www.legislation.gov.uk/uksi/2025/1208), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2025/1208/regulation/2/1), [6(a)](https://www.legislation.gov.uk/uksi/2025/1208/regulation/6/a)
+[^c-73371753be1a61b7750dd9ba8da8482e]: Textual amendment: Word in [reg. 4(1)(b)](https://www.legislation.gov.uk/uksi/2025/81/regulation/4/1/b) omitted (12.12.2025) by virtue of [The Clean Heat Market Mechanism (Amendment) Regulations 2025 (S.I. 2025/1208)](https://www.legislation.gov.uk/uksi/2025/1208), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2025/1208/regulation/2/1), [6(a)](https://www.legislation.gov.uk/uksi/2025/1208/regulation/6/a)
 
-[^key-140fb6d57ae9f083d40cbcff95b1a52b]: Textual amendment: Words in [reg. 4(1)(b)](https://www.legislation.gov.uk/uksi/2025/81/regulation/4/1/b) substituted (12.12.2025) by [The Clean Heat Market Mechanism (Amendment) Regulations 2025 (S.I. 2025/1208)](https://www.legislation.gov.uk/uksi/2025/1208), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2025/1208/regulation/2/1), [6(b)](https://www.legislation.gov.uk/uksi/2025/1208/regulation/6/b)
+[^c-140fb6d57ae9f083d40cbcff95b1a52b]: Textual amendment: Words in [reg. 4(1)(b)](https://www.legislation.gov.uk/uksi/2025/81/regulation/4/1/b) substituted (12.12.2025) by [The Clean Heat Market Mechanism (Amendment) Regulations 2025 (S.I. 2025/1208)](https://www.legislation.gov.uk/uksi/2025/1208), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2025/1208/regulation/2/1), [6(b)](https://www.legislation.gov.uk/uksi/2025/1208/regulation/6/b)
 
-[^key-61e67d31ba4e413a8e70f2353aaa2f44]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2025/81/regulation/5) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
+[^c-61e67d31ba4e413a8e70f2353aaa2f44]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2025/81/regulation/5) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
 
-[^key-dd43f5ee99e87f03191586f58a1e7626]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2025/81/regulation/6) substituted (12.12.2025) by [The Clean Heat Market Mechanism (Amendment) Regulations 2025 (S.I. 2025/1208)](https://www.legislation.gov.uk/uksi/2025/1208), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2025/1208/regulation/2/1), [7](https://www.legislation.gov.uk/uksi/2025/1208/regulation/7)
+[^c-dd43f5ee99e87f03191586f58a1e7626]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2025/81/regulation/6) substituted (12.12.2025) by [The Clean Heat Market Mechanism (Amendment) Regulations 2025 (S.I. 2025/1208)](https://www.legislation.gov.uk/uksi/2025/1208), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2025/1208/regulation/2/1), [7](https://www.legislation.gov.uk/uksi/2025/1208/regulation/7)
 
-[^key-1bfae749b61f1d071f864cf05d3a1115]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2025/81/regulation/7) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
+[^c-1bfae749b61f1d071f864cf05d3a1115]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2025/81/regulation/7) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
 
 [^f00009]: Footnote: See section 143(3) of the Energy Act 2023 for the meaning of “low-carbon heat target”.
 
-[^key-1f16753146fe714c560db15abd8b7b19]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2025/81/regulation/8) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
+[^c-1f16753146fe714c560db15abd8b7b19]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2025/81/regulation/8) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
 
 [^f00010]: Footnote: [1998 c. 42](https://www.legislation.gov.uk/ukpga/1998/42).
 
-[^key-72e5c66b26cfee0db22e07220ed6f499]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2025/81/regulation/9) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
+[^c-72e5c66b26cfee0db22e07220ed6f499]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2025/81/regulation/9) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
 
 [^f00011]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46). Section 382(3) was amended by [S.I. 2015/980](https://www.legislation.gov.uk/uksi/2015/980).
 
@@ -1122,69 +1122,69 @@ A full impact assessment of the effect that these Regulations will have on the c
 
 [^f00015]: Footnote: This definition was amended by [S.I. 2015/980](https://www.legislation.gov.uk/uksi/2015/980).
 
-[^key-ccd453dab8fd80190fec0675b2877136]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2025/81/regulation/10) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
+[^c-ccd453dab8fd80190fec0675b2877136]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2025/81/regulation/10) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
 
-[^key-c211d7356d7a5792cdf2724715c838a8]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2025/81/regulation/11) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
+[^c-c211d7356d7a5792cdf2724715c838a8]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2025/81/regulation/11) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
 
-[^key-9b558d67da0574c3bb2cd61eefb0ba2b]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2025/81/regulation/12) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
+[^c-9b558d67da0574c3bb2cd61eefb0ba2b]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2025/81/regulation/12) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
 
-[^key-6af4960fd6fbc4a9b5c9e96161aba98f]: Textual amendment: Word in [reg. 12(2)(a)](https://www.legislation.gov.uk/uksi/2025/81/regulation/12/2/a) substituted (1.4.2026) by [The Clean Heat Market Mechanism (Amendment) Regulations 2025 (S.I. 2025/1208)](https://www.legislation.gov.uk/uksi/2025/1208), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2025/1208/regulation/2/2), [8(a)](https://www.legislation.gov.uk/uksi/2025/1208/regulation/8/a)
+[^c-6af4960fd6fbc4a9b5c9e96161aba98f]: Textual amendment: Word in [reg. 12(2)(a)](https://www.legislation.gov.uk/uksi/2025/81/regulation/12/2/a) substituted (1.4.2026) by [The Clean Heat Market Mechanism (Amendment) Regulations 2025 (S.I. 2025/1208)](https://www.legislation.gov.uk/uksi/2025/1208), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2025/1208/regulation/2/2), [8(a)](https://www.legislation.gov.uk/uksi/2025/1208/regulation/8/a)
 
-[^key-daf3aa218cf9442d72151ed885cdbd80]: Textual amendment: Word in [reg. 12(2)(b)](https://www.legislation.gov.uk/uksi/2025/81/regulation/12/2/b) substituted (1.4.2026) by [The Clean Heat Market Mechanism (Amendment) Regulations 2025 (S.I. 2025/1208)](https://www.legislation.gov.uk/uksi/2025/1208), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2025/1208/regulation/2/2), [8(b)](https://www.legislation.gov.uk/uksi/2025/1208/regulation/8/b)
+[^c-daf3aa218cf9442d72151ed885cdbd80]: Textual amendment: Word in [reg. 12(2)(b)](https://www.legislation.gov.uk/uksi/2025/81/regulation/12/2/b) substituted (1.4.2026) by [The Clean Heat Market Mechanism (Amendment) Regulations 2025 (S.I. 2025/1208)](https://www.legislation.gov.uk/uksi/2025/1208), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2025/1208/regulation/2/2), [8(b)](https://www.legislation.gov.uk/uksi/2025/1208/regulation/8/b)
 
-[^key-26daa08f01c31c351ce1c4fede7de02c]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2025/81/regulation/13) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
+[^c-26daa08f01c31c351ce1c4fede7de02c]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2025/81/regulation/13) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
 
-[^key-8a018a6f2537ff7cce7dc2297d8d019f]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2025/81/regulation/14) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
+[^c-8a018a6f2537ff7cce7dc2297d8d019f]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2025/81/regulation/14) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
 
-[^key-8e4ccd4db01fe67393820420d87441d6]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2025/81/regulation/15) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
+[^c-8e4ccd4db01fe67393820420d87441d6]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2025/81/regulation/15) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
 
-[^key-714f66f39bcaff57189135d8cad87a5e]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2025/81/regulation/16) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
+[^c-714f66f39bcaff57189135d8cad87a5e]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2025/81/regulation/16) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
 
-[^key-e22cacc0d472b6280f806f854bca5c03]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2025/81/regulation/17) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
+[^c-e22cacc0d472b6280f806f854bca5c03]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2025/81/regulation/17) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
 
 [^f00016]: Footnote: [2010 c. 4](https://www.legislation.gov.uk/ukpga/2010/4).
 
 [^f00017]: Footnote: International Standard on Assurance Engagements (ISAE) 3000 (Revised): Assurance Engagements other than Audits or Reviews of Historical Financial Information, published 9th December 2013. Copies are available at https://www.iaasb.org/publications/international-standard-assurance-engagements-isae-3000-revised-assurance-engagements-other-audits-or or in hard copy on request from the Department for Energy Security and Net Zero, 3 - 8 Whitehall Place, London, SW1A 2HH.
 
-[^key-d5cad6c9bd84c2dbf795ab428a23922a]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2025/81/regulation/18) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
+[^c-d5cad6c9bd84c2dbf795ab428a23922a]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2025/81/regulation/18) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
 
-[^key-e14699740a27624b7aa0cb53e7de714f]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2025/81/regulation/19) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
+[^c-e14699740a27624b7aa0cb53e7de714f]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2025/81/regulation/19) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
 
-[^key-8643642416967f6573f078e0914bc73c]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2025/81/regulation/20) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
+[^c-8643642416967f6573f078e0914bc73c]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2025/81/regulation/20) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
 
-[^key-5b3cb7d37cc2c42efcce84e1c4b200db]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2025/81/regulation/21) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
+[^c-5b3cb7d37cc2c42efcce84e1c4b200db]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2025/81/regulation/21) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
 
-[^key-c210bd0b0033de5c6c23a57e0b29b643]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2025/81/regulation/22) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
+[^c-c210bd0b0033de5c6c23a57e0b29b643]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2025/81/regulation/22) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
 
-[^key-0d19236542bbbc69c431d0b77057b416]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2025/81/regulation/23) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
+[^c-0d19236542bbbc69c431d0b77057b416]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2025/81/regulation/23) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
 
 [^f00018]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 
 [^f00019]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80). See section 1 and Schedule 1, which was amended by section 1 of the St. Andrew's Day Bank Holiday (Scotland) Act [2007 (asp 2)](https://www.legislation.gov.uk/asp/2007/2).
 
-[^key-a32d43b89ca2cfefacb07ee79a8d83f2]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2025/81/regulation/24) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
+[^c-a32d43b89ca2cfefacb07ee79a8d83f2]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2025/81/regulation/24) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
 
-[^key-34e397a72860261362323e59a6109a11]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2025/81/regulation/25) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
+[^c-34e397a72860261362323e59a6109a11]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2025/81/regulation/25) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
 
-[^key-5e860b885fce86bc4670ae1ccdee3a01]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2025/81/regulation/26) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
+[^c-5e860b885fce86bc4670ae1ccdee3a01]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2025/81/regulation/26) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
 
-[^key-3c430051d2107c79f734f49add808042]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2025/81/regulation/27) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
+[^c-3c430051d2107c79f734f49add808042]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2025/81/regulation/27) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
 
-[^key-6d0bcccccfc249e6ed54a17376281012]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2025/81/regulation/28) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
+[^c-6d0bcccccfc249e6ed54a17376281012]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2025/81/regulation/28) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
 
-[^key-7b1e7a57d664e1d41fdc3a56f456cbd7]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2025/81/regulation/29) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
+[^c-7b1e7a57d664e1d41fdc3a56f456cbd7]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2025/81/regulation/29) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
 
-[^key-17dce3f350347e84a85eccadb31c362d]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2025/81/regulation/30) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
+[^c-17dce3f350347e84a85eccadb31c362d]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2025/81/regulation/30) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
 
-[^key-8583b532bea4e6773846d08fd935bf05]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2025/81/regulation/31) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
+[^c-8583b532bea4e6773846d08fd935bf05]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2025/81/regulation/31) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
 
-[^key-659f088005366ad0d8876840b270d70c]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2025/81/regulation/32) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
+[^c-659f088005366ad0d8876840b270d70c]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2025/81/regulation/32) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
 
-[^key-adf9ae4e1e26380d24c69451ab437a4c]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2025/81/regulation/33) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
+[^c-adf9ae4e1e26380d24c69451ab437a4c]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2025/81/regulation/33) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
 
-[^key-5c8d8de2e49ac14f5cf3023e956ff831]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2025/81/regulation/34) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
+[^c-5c8d8de2e49ac14f5cf3023e956ff831]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2025/81/regulation/34) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
 
-[^key-20f895e145117e72f4552948d8134283]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/2025/81/regulation/35) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
+[^c-20f895e145117e72f4552948d8134283]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/2025/81/regulation/35) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
 
 [^f00020]: Footnote: [1911 c. 6](https://www.legislation.gov.uk/ukpga/1911/6). Section 5 was amended by the Criminal Justice Act [1948 (c. 58)](https://www.legislation.gov.uk/ukpga/1948/58), section 1(2).
 
@@ -1192,44 +1192,44 @@ A full impact assessment of the effect that these Regulations will have on the c
 
 [^f00022]: Footnote: [1979 No. 1714 (N.I. 19)](https://www.legislation.gov.uk/nisi/1979/1714).
 
-[^key-ae8a1affed950e03378e08745b8cd314]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/2025/81/regulation/36) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
+[^c-ae8a1affed950e03378e08745b8cd314]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/2025/81/regulation/36) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
 
-[^key-1a47c931491793654b0ee597da85ca86]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2025/81/regulation/37) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
+[^c-1a47c931491793654b0ee597da85ca86]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2025/81/regulation/37) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
 
-[^key-653867f602aea6b8453cf92c7f277b29]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2025/81/regulation/38) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
+[^c-653867f602aea6b8453cf92c7f277b29]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2025/81/regulation/38) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
 
-[^key-fb167b4b41265b42e93c08bcb60f6765]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/2025/81/regulation/39) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
+[^c-fb167b4b41265b42e93c08bcb60f6765]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/2025/81/regulation/39) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
 
-[^key-44fb0d71ba1f563648ea8833575b2eeb]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/2025/81/regulation/40) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
+[^c-44fb0d71ba1f563648ea8833575b2eeb]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/2025/81/regulation/40) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
 
-[^key-55e1b55c050a6f7578d359c99d510c1f]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/2025/81/regulation/41) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
+[^c-55e1b55c050a6f7578d359c99d510c1f]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/2025/81/regulation/41) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
 
-[^key-594f755cec666ffa35f316bf32047914]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/2025/81/regulation/42) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
+[^c-594f755cec666ffa35f316bf32047914]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/2025/81/regulation/42) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
 
-[^key-3ad5151452b94079f8979c4c54a45d71]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/2025/81/regulation/43) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
+[^c-3ad5151452b94079f8979c4c54a45d71]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/2025/81/regulation/43) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
 
-[^key-a403fb0bdf71e1d539cd7df56032f164]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/2025/81/regulation/44) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
+[^c-a403fb0bdf71e1d539cd7df56032f164]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/2025/81/regulation/44) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
 
-[^key-4103967965343605dc08d0ce31bf861c]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/2025/81/regulation/45) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
+[^c-4103967965343605dc08d0ce31bf861c]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/2025/81/regulation/45) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
 
-[^key-8062e148e50e81ff78fa218bd970b812]: Commencement: [Reg. 46](https://www.legislation.gov.uk/uksi/2025/81/regulation/46) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
+[^c-8062e148e50e81ff78fa218bd970b812]: Commencement: [Reg. 46](https://www.legislation.gov.uk/uksi/2025/81/regulation/46) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
 
-[^key-7dafc88d606651b1199b43049c7295d3]: Commencement: [Reg. 47](https://www.legislation.gov.uk/uksi/2025/81/regulation/47) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
+[^c-7dafc88d606651b1199b43049c7295d3]: Commencement: [Reg. 47](https://www.legislation.gov.uk/uksi/2025/81/regulation/47) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
 
-[^key-6aa8889c5c2e643dc912be19c522cb9c]: Commencement: [Reg. 48](https://www.legislation.gov.uk/uksi/2025/81/regulation/48) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
+[^c-6aa8889c5c2e643dc912be19c522cb9c]: Commencement: [Reg. 48](https://www.legislation.gov.uk/uksi/2025/81/regulation/48) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
 
-[^key-28e26ff8125a50396705db94f0f45d99]: Commencement: [Reg. 49](https://www.legislation.gov.uk/uksi/2025/81/regulation/49) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
+[^c-28e26ff8125a50396705db94f0f45d99]: Commencement: [Reg. 49](https://www.legislation.gov.uk/uksi/2025/81/regulation/49) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
 
-[^key-59d0e1bdb11849d617c6d5ea85ae7f19]: Commencement: [Reg. 50](https://www.legislation.gov.uk/uksi/2025/81/regulation/50) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
+[^c-59d0e1bdb11849d617c6d5ea85ae7f19]: Commencement: [Reg. 50](https://www.legislation.gov.uk/uksi/2025/81/regulation/50) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
 
-[^key-bc47be6b10e74e4eff25b5707722c099]: Commencement: [Reg. 51](https://www.legislation.gov.uk/uksi/2025/81/regulation/51) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
+[^c-bc47be6b10e74e4eff25b5707722c099]: Commencement: [Reg. 51](https://www.legislation.gov.uk/uksi/2025/81/regulation/51) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
 
-[^key-88b356efd13e517a5c5e02f3ba75b68e]: Commencement: [Reg. 52](https://www.legislation.gov.uk/uksi/2025/81/regulation/52) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
+[^c-88b356efd13e517a5c5e02f3ba75b68e]: Commencement: [Reg. 52](https://www.legislation.gov.uk/uksi/2025/81/regulation/52) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
 
-[^key-45500cc721725dddb1afc8e2017c912d]: Commencement: [Reg. 53](https://www.legislation.gov.uk/uksi/2025/81/regulation/53) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
+[^c-45500cc721725dddb1afc8e2017c912d]: Commencement: [Reg. 53](https://www.legislation.gov.uk/uksi/2025/81/regulation/53) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
 
-[^key-9b035617346a3893d5dcf7eb9e9e38b3]: Commencement: [Reg. 54](https://www.legislation.gov.uk/uksi/2025/81/regulation/54) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
+[^c-9b035617346a3893d5dcf7eb9e9e38b3]: Commencement: [Reg. 54](https://www.legislation.gov.uk/uksi/2025/81/regulation/54) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
 
-[^key-0cc1be92469f98b80467b805ea60f647]: Commencement: [Reg. 55](https://www.legislation.gov.uk/uksi/2025/81/regulation/55) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
+[^c-0cc1be92469f98b80467b805ea60f647]: Commencement: [Reg. 55](https://www.legislation.gov.uk/uksi/2025/81/regulation/55) in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/81/regulation/1/1)
 
 [^f00023]: Footnote: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26).

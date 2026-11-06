@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 73. Responsibilities under shared management[^key-4fc08615752e0c86dfe83283fea61ab9]
+## Article 73. Responsibilities under shared management[^c-4fc08615752e0c86dfe83283fea61ab9]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4fc08615752e0c86dfe83283fea61ab9]: Textual amendment: [Pt. 2 Title 8](https://www.legislation.gov.uk/eur/2013/1303/part/2) omitted (31.12.2020) by virtue of [The European Structural and Investment Funds Common Provisions (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/785)](https://www.legislation.gov.uk/uksi/2019/785), [regs. 1](https://www.legislation.gov.uk/uksi/2019/785/regulation/1), [12](https://www.legislation.gov.uk/uksi/2019/785/regulation/12); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4fc08615752e0c86dfe83283fea61ab9]: Textual amendment: [Pt. 2 Title 8](https://www.legislation.gov.uk/eur/2013/1303/part/2) omitted (31.12.2020) by virtue of [The European Structural and Investment Funds Common Provisions (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/785)](https://www.legislation.gov.uk/uksi/2019/785), [regs. 1](https://www.legislation.gov.uk/uksi/2019/785/regulation/1), [12](https://www.legislation.gov.uk/uksi/2019/785/regulation/12); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

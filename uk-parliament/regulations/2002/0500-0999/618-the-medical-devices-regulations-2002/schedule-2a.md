@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2A — Modification of Annexes to Directives 90/385, 93/42, 98/79[^key-9b40c9a2638eecb6b80e688fbc1af1b1]
+## SCHEDULE 2A — Modification of Annexes to Directives 90/385, 93/42, 98/79[^c-9b40c9a2638eecb6b80e688fbc1af1b1]
 
 *Extent: E+W+S*
 
@@ -30,7 +30,7 @@ Regulation 1A
 
 **2.** In Annex 1—
 
-- (za)[^key-afdef86b185cd1bb917868aa0485ecb5] in Section 2, for “the functions referred to in Article 1(2)(a)” substitute “the purposes referred to in the definition of a medical device in regulation 2(1) of the Regulations
+- (za)[^c-afdef86b185cd1bb917868aa0485ecb5] in Section 2, for “the functions referred to in Article 1(2)(a)” substitute “the purposes referred to in the definition of a medical device in regulation 2(1) of the Regulations
 - (a) in Section 8 for the fifth indent substitute —
 
   > –risks connected with ionising radiation from radioactive substances included in the device,
@@ -52,7 +52,7 @@ Regulation 1A
 - (c) in Section 14.2 —
   - (i) for “the name and address of the authorised representative” substitute “, where such a person is appointed under regulation 21A of the Regulations, the name and address of the UK responsible person,”;
   - (ii) for “the Community” substitute “the United Kingdom”;
-- (iii)[^key-d3ee80abe788135c42ca3a98484ee9f8] for “a device within the meaning of Article 1(4a)” substitute “a stable derivatives device
+- (iii)[^c-d3ee80abe788135c42ca3a98484ee9f8] for “a device within the meaning of Article 1(4a)” substitute “a stable derivatives device
 - (d) in Section 15 in the first indent for “CE mark” substitute “UK mark”.
 
 **3.** In Annex 2—
@@ -64,15 +64,15 @@ Regulation 1A
 - (e) in Section 2—
   - (i) for “his authorized representative” substitute “their UK responsible person”;
   - (ii) omit “established within the Community”;
-  - (iii) for “CE marking” , in both places it occurs,[^key-7328ad98f628dcb5c9a99bb3b76f3df0] substitute “UK marking”;
-  - (iv)[^key-fe3faadd0671955289484e7c594f5a37] for “Article 12” substitute “regulation 24”;
+  - (iii) for “CE marking” , in both places it occurs,[^c-7328ad98f628dcb5c9a99bb3b76f3df0] substitute “UK marking”;
+  - (iv)[^c-fe3faadd0671955289484e7c594f5a37] for “Article 12” substitute “regulation 24”;
 - (f) in Section 3.1—
   - (i) in the opening words, for “a notified body” substitute “an approved body”;
-  - (ii)[^key-864142dedf53b3afb2c1207d59461b8b] omit the fifth indent;
-- (g)[^key-34524b74839c1021b2b1b5b612cdb334] in Section 3.2—
+  - (ii)[^c-864142dedf53b3afb2c1207d59461b8b] omit the fifth indent;
+- (g)[^c-34524b74839c1021b2b1b5b612cdb334] in Section 3.2—
   - (i) in the first paragraph, omit “of this Directive”;
   - (ii) in point (c), for “Article 5” substitute “regulation 3A of the Regulations”;
-- (h)[^key-0fe6d0bc08b4cfcdd8fc2bdc871aed69] in Section 3.3—
+- (h)[^c-0fe6d0bc08b4cfcdd8fc2bdc871aed69] in Section 3.3—
   - (i) for the first sentence substitute—
 
     > The quality system shall be audited by an approved body to determine whether it meets the requirements referred to in Section 3.2.
@@ -165,7 +165,7 @@ Regulation 1A
 >
 > **3.** The manufacturer shall, before the start of manufacture, prepare documents defining the manufacturing processes, in particular as regards sterilization, together with all the routine, pre-established provisions to be implemented to ensure uniformity of production and conformity of the products with the type as described in the type examination certificate as well as with the relevant requirements of the Regulations.
 >
-> **4.**[^key-0a4eb31e032737a5a3770cee12c2930d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **4.**[^c-0a4eb31e032737a5a3770cee12c2930d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
 > **5.** The approved body must carry out the appropriate examinations and tests in order to check the conformity of the product to the requirements of the Regulations by examination and testing of products on a statistical basis, as specified in Section 6. The manufacturer must authorize the approved body to evaluate the efficiency of the measures taken pursuant to Section 3, by audit where appropriate.
 >
@@ -212,7 +212,7 @@ Regulation 1A
 > - an undertaking to fulfil the obligations arising from the quality system as approved,
 > - an undertaking to maintain the approved quality system in such a way that it remains adequate and efficacious,
 > - where appropriate, the technical documentation relating to the approved type and a copy of the type-examination certificate,
-> - [^key-0a54627bdf6d4341f6d518b62402dbd4]...
+> - [^c-0a54627bdf6d4341f6d518b62402dbd4]...
 >
 > **3.2.** Application of the quality system must ensure that the products conform to the type described in the type-examination certificate.
 >
@@ -270,9 +270,9 @@ Regulation 1A
   > –the results of the risk analysis and a list of the designated standards provided for in regulation 3A of the Regulations, applied in full or in part, and a description of the solutions adopted to satisfy the essential requirements where the standards in regulation 3A of the Regulations have not been applied,
 
   ;
-- (e)[^key-0ab1bb997dd84eb8a41b419959994b26] omit Section 5.
+- (e)[^c-0ab1bb997dd84eb8a41b419959994b26] omit Section 5.
 
-**8.**[^key-c9bf583c5b6e1446e964192a295ded6d] In Annex 7—
+**8.**[^c-c9bf583c5b6e1446e964192a295ded6d] In Annex 7—
 
 - (a) in Section 1.1 for “harmonised” substitute “designated”;
 - (b) in Section 2.3.5 for “all competent authorities of the Member States in which the clinical investigation is being performed” substitute “the Secretary of State”;
@@ -280,7 +280,7 @@ Regulation 1A
 **9.** In Annex 8—
 
 - (a) in the title for “when designating inspection bodies to be notified” substitute “when designating approved bodies”;
-- (aa)[^key-aa4efc63c70ee4c15787d58fc559a329] in Section 1 for “authorized representative” substitute “UK responsible person”;
+- (aa)[^c-aa4efc63c70ee4c15787d58fc559a329] in Section 1 for “authorized representative” substitute “UK responsible person”;
 - (b) in Section 3 omit the words “and for which it has been notified”;
 - (c) in Section 6 omit from “unless liability” to the end;
 - (d) in Section 7 omit from “(except *vis-à-vis”* to the end.
@@ -332,11 +332,11 @@ Regulation 1A
   - (ii) for “this Directive” substitute “the Regulations”;
   - (iii) for “CE marking” substitute “UK marking”;
   - (iv) omit the words “in accordance with Article 17”;
-- (da)[^key-bb6724205f8d16f8d5cdcd88be70abfb] in Section 3.1—
+- (da)[^c-bb6724205f8d16f8d5cdcd88be70abfb] in Section 3.1—
   - (i) in the first sentence, for “a notified body” substitute “an approved body”;
   - (ii) for “other notified body” substitute “other approved body”;
-  - (iii)[^key-addf4866e3e599b5c8a9e23ff613de9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-  - (iv)[^key-570fd4f0f593dc4523ca1a100603e8ba] omit the seventh indent;
+  - (iii)[^c-addf4866e3e599b5c8a9e23ff613de9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iv)[^c-570fd4f0f593dc4523ca1a100603e8ba] omit the seventh indent;
 - (e) in Section 3.2—
   - (i) in the first paragraph for “this Directive” substitute “the Regulations”
   - (ii) in point (c)—
@@ -445,7 +445,7 @@ Regulation 1A
 - (e) in Section 2—
   - (i) for “CE marking” substitute “UK marking”;
   - (ii) for “Article 17” substitute “regulation 10 of the Regulations”;
-- (f)[^key-81af355c353df4e3657a37214affca66] omit Section 3;
+- (f)[^c-81af355c353df4e3657a37214affca66] omit Section 3;
 - (g) for Sections 4 to 6 substitute—
 
   > **4.** The approved body must carry out the appropriate examinations and tests in order to verify the conformity of the product with the requirements of the Regulations either by examining and testing every product as specified in Section 5 or by examining and testing products on a statistical basis as specified in Section 6, as the manufacturer decides.
@@ -477,10 +477,10 @@ Regulation 1A
   - (i) for “authorised representative” substitute “UK responsible person”;
   - (ii) for “national authorities” substitute “Secretary of State”;
 - (i) in Section 8, in the opening paragraph, for “Article 11(2)” substitute “regulation 13(2) of the Regulations”;
-- (zj)[^key-1e8b5b8ea05f35fda61e1d46a4488e84] in Section 8.2 for “notified body” substitute “approved body”;
+- (zj)[^c-1e8b5b8ea05f35fda61e1d46a4488e84] in Section 8.2 for “notified body” substitute “approved body”;
 - (j) in Section 9—
   - (i) for the words “referred to in Article 1(4a)” substitute “which incorporate a substance derived from human blood or human plasma”;
-  - (ia)[^key-a381a7605a73580af909236580fa403f] for “notified body” substitute “approved body”;
+  - (ia)[^c-a381a7605a73580af909236580fa403f] for “notified body” substitute “approved body”;
   - (ii) for the words from “a State laboratory” to the end of that Section, substitute “a laboratory provided or arranged in accordance with section 57(1)(d) of the Health and Social Care Act 2012”.
 
 **16.** In Annex V—
@@ -491,7 +491,7 @@ Regulation 1A
 - (d) in Section 2—
   - (i) for “this Directive” substitute “the Regulations”;
   - (ii) for “CE marking in accordance with Article 17” substitute “UK marking”;
-- (e)[^key-b6673598cd044ce47ab6e85f51266d70] omit the eighth indent of Section 3.1;
+- (e)[^c-b6673598cd044ce47ab6e85f51266d70] omit the eighth indent of Section 3.1;
 - (f) in Section 3.3, for the first sentence substitute—
 
   > The quality system must be audited by the approved body to determine whether it meets the requirements referred to in Section 3.2.
@@ -519,7 +519,7 @@ Regulation 1A
 - (d) in Section 2—
   - (i) for “CE marking in accordance with Article 17” substitute “UK marking”;
   - (ii) for “CE marking must” substitute “UK marking must”;
-- (e)[^key-db36988464f5fed609eb70c200a89b40] in Section 3.1–
+- (e)[^c-db36988464f5fed609eb70c200a89b40] in Section 3.1–
   - (i) for “a notified body” substitute “an approved body”;
   - (ii) for “other notified body” substitute “other approved body”;
   - (iii) omit the eighth indent;
@@ -533,13 +533,13 @@ Regulation 1A
   > The proposed changes must be assessed by the approved body so as to verify whether the quality system after these changes would still meet the requirements referred to in Section 3.2.
 
   ;
-- (ga)[^key-90bc9e201c4b2ce72d29c6e7823da7d3] in Section 4.4 for “Article 5” substitute “regulation 3A of the Regulations”;
+- (ga)[^c-90bc9e201c4b2ce72d29c6e7823da7d3] in Section 4.4 for “Article 5” substitute “regulation 3A of the Regulations”;
 - (h) in Section 5.1—
   - (i) for “authorised representative” substitute “UK responsible person”;
   - (ii) for “national authorities” substitute “Secretary of State”;
 - (i) in Section 6, in the opening paragraph, for “Article 11(2)” substitute “regulation 13(2) of the Regulations”;
 - (j) in Section 6.3, for “competent authority” substitute “Secretary of State”.
-- (k)[^key-b7dd60466db0195ec3289eae6841e045] in Section 6.4 for “notified body” substitute “approved body”.
+- (k)[^c-b7dd60466db0195ec3289eae6841e045] in Section 6.4 for “notified body” substitute “approved body”.
 
 **18.** In Annex VII—
 
@@ -555,7 +555,7 @@ Regulation 1A
   - (ii) in the fourth indent—
     - (aa) for “Article 5” in both places it occurs substitute “regulation 3A of the Regulations”;
     - (bb) for “of the Directive” substitute “in Annex I”;
-- (e)[^key-d8e23964c32c86e2406a3370d59e9115] omit Section 4;
+- (e)[^c-d8e23964c32c86e2406a3370d59e9115] omit Section 4;
 - (f) in Section 5, for “the intervention by the notified body” substitute “the intervention by the approved body”;
 - (g) in Section 6, in the opening paragraph, for “Article 11(2)” substitute “regulation 13(2) of the Regulations”.
 
@@ -568,7 +568,7 @@ Regulation 1A
 - (e) in Section 3.2—
   - (i) in the fourth indent, for “Article 5” in both places it occurs substitute “regulation 3A of the Regulations”;
   - (ii) in the sixth indent, for “[Directive 2003/32/EC](https://www.legislation.gov.uk/eudr/2003/0032)” substitute “Regulation 722/2012”;
-- (f)[^key-19e457c60ee8c00d2bf80f77047407ac] omit Section 5.
+- (f)[^c-19e457c60ee8c00d2bf80f77047407ac] omit Section 5.
 
 **20.** In Annex IX for “this Directive” each time it occurs substitute “the Regulations”.
 
@@ -582,7 +582,7 @@ Regulation 1A
 - (a) in the title, for “notified bodies” substitute “approved bodies”;
 - (b) for the words “notified body” each time they occur substitute “approved body”;
 - (c) for each reference to “the Directive” substitute “the Regulations”;
-- (d) in Section 2, for “national authorities” substitute “Secretary of State”[^key-876a3affb36752635246ffa0eafd7f69];
+- (d) in Section 2, for “national authorities” substitute “Secretary of State”[^c-876a3affb36752635246ffa0eafd7f69];
 - (e) in Section 3, for “this Directive” substitute “the Regulations”;
 - (f) in Section 6, omit the words from “, unless liability” to the end of that Section;
 - (g) in Section 7, omit the words from “(except *vis a vis* the competent administrative authorities” to the end.
@@ -620,7 +620,7 @@ Regulation 1A
   - (iii) for “CE marking in accordance with Article 16” substitute “UK marking in accordance with regulation 36 of the Regulations”;
 - (c) in Section 3, for “the Directive” in both places substitute “the Regulations”;
 - (d) in Section 3, in the sixth indent, for “Article 5” in both places substitute “regulation 3A of the Regulations”;
-- (e)[^key-97979ce878f6e1819a2d724d20bef55a] omit Section 5;
+- (e)[^c-97979ce878f6e1819a2d724d20bef55a] omit Section 5;
 - (f) in Section 6, for “a notified body” substitute “an approved body”;
 - (g) in Section 6.2—
   - (i) for “notified body”, both times those words occur, substitute “approved body”;
@@ -640,7 +640,7 @@ Regulation 1A
 - (d) in Section 3.1—
   - (i) for “of his quality system with a notified body” substitute “of its quality system with an approved body”;
   - (ii) in the third indent for “notified body” substitute “approved body”;
-  - (iii)[^key-a73c8f7597898d3dd23a4d71aa1d0bc2] omit the final indent;
+  - (iii)[^c-a73c8f7597898d3dd23a4d71aa1d0bc2] omit the final indent;
 - (e) in Section 3.3 for the first paragraph substitute—
 
   > The quality system must be audited by the approved body to determine whether it meets the requirements referred to in Section 3.2. It must presume that quality systems which implement the relevant designated standards conform to the requirements.
@@ -705,7 +705,7 @@ Regulation 1A
   - (ii) for “the Directive” substitute “the Regulations”;
   - (iii) for “this Directive” substitute “the Regulations”;
 - (d) in Section 2.2 for “notified body” substitute “approved body”;
-- (da)[^key-a9004149f38171679425b55c253ab006] omit Section 3;
+- (da)[^c-a9004149f38171679425b55c253ab006] omit Section 3;
 - (e) in Section 4—
   - (i) for “notified body” in both places substitute “approved body”;
   - (ii) for “the Directive” substitute “the Regulations”;
@@ -776,60 +776,60 @@ Regulation 1A
 
 ## Annotations
 
-[^key-9b40c9a2638eecb6b80e688fbc1af1b1]: Textual amendment: Sch. 2A inserted (E.W.S.) (31.12.2020) by [The Medical Devices (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/791)](https://www.legislation.gov.uk/uksi/2019/791), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/791/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2019/791/regulation/12) (as amended by [S.I. 2020/1478](https://www.legislation.gov.uk/uksi/2020/1478), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 2 paras. 2](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/2), [56](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/56), [57](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/57)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9b40c9a2638eecb6b80e688fbc1af1b1]: Textual amendment: Sch. 2A inserted (E.W.S.) (31.12.2020) by [The Medical Devices (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/791)](https://www.legislation.gov.uk/uksi/2019/791), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/791/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2019/791/regulation/12) (as amended by [S.I. 2020/1478](https://www.legislation.gov.uk/uksi/2020/1478), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 2 paras. 2](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/2), [56](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/56), [57](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/57)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-afdef86b185cd1bb917868aa0485ecb5]: Textual amendment: [Sch. 2A para. 2(za)](https://www.legislation.gov.uk/uksi/2002/618/schedule/2A/paragraph/2/za) inserted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 1 para. 21(a)](https://www.legislation.gov.uk/uksi/2021/873/schedule/1/paragraph/21/a)
+[^c-afdef86b185cd1bb917868aa0485ecb5]: Textual amendment: [Sch. 2A para. 2(za)](https://www.legislation.gov.uk/uksi/2002/618/schedule/2A/paragraph/2/za) inserted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 1 para. 21(a)](https://www.legislation.gov.uk/uksi/2021/873/schedule/1/paragraph/21/a)
 
-[^key-d3ee80abe788135c42ca3a98484ee9f8]: Textual amendment: [Sch. 2A para. 2(c)(iii)](https://www.legislation.gov.uk/uksi/2002/618/schedule/2A/paragraph/2/c/iii) inserted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 1 para. 21(b)](https://www.legislation.gov.uk/uksi/2021/873/schedule/1/paragraph/21/b)
+[^c-d3ee80abe788135c42ca3a98484ee9f8]: Textual amendment: [Sch. 2A para. 2(c)(iii)](https://www.legislation.gov.uk/uksi/2002/618/schedule/2A/paragraph/2/c/iii) inserted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 1 para. 21(b)](https://www.legislation.gov.uk/uksi/2021/873/schedule/1/paragraph/21/b)
 
-[^key-7328ad98f628dcb5c9a99bb3b76f3df0]: Textual amendment: Words in [Sch. 2A para. 3(e)(iii)](https://www.legislation.gov.uk/uksi/2002/618/schedule/2A/paragraph/3/e/iii) inserted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 1 para. 21(c)(i)](https://www.legislation.gov.uk/uksi/2021/873/schedule/1/paragraph/21/c/i)
+[^c-7328ad98f628dcb5c9a99bb3b76f3df0]: Textual amendment: Words in [Sch. 2A para. 3(e)(iii)](https://www.legislation.gov.uk/uksi/2002/618/schedule/2A/paragraph/3/e/iii) inserted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 1 para. 21(c)(i)](https://www.legislation.gov.uk/uksi/2021/873/schedule/1/paragraph/21/c/i)
 
-[^key-fe3faadd0671955289484e7c594f5a37]: Textual amendment: [Sch. 2A para. 3(e)(iv)](https://www.legislation.gov.uk/uksi/2002/618/schedule/2A/paragraph/3/e/iv) inserted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 1 para. 21(c)(ii)](https://www.legislation.gov.uk/uksi/2021/873/schedule/1/paragraph/21/c/ii)
+[^c-fe3faadd0671955289484e7c594f5a37]: Textual amendment: [Sch. 2A para. 3(e)(iv)](https://www.legislation.gov.uk/uksi/2002/618/schedule/2A/paragraph/3/e/iv) inserted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 1 para. 21(c)(ii)](https://www.legislation.gov.uk/uksi/2021/873/schedule/1/paragraph/21/c/ii)
 
-[^key-864142dedf53b3afb2c1207d59461b8b]: Textual amendment: [Sch. 2A para. 3(f)(ii)](https://www.legislation.gov.uk/uksi/2002/618/schedule/2A/paragraph/3/f/ii) substituted (17.6.2025) by [The Medical Devices (Post-market Surveillance Requirements) (Amendment) (Great Britain) Regulations 2024 (S.I. 2024/1368)](https://www.legislation.gov.uk/uksi/2024/1368), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1368/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2024/1368/regulation/5/2) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/1368/regulation/6))
+[^c-864142dedf53b3afb2c1207d59461b8b]: Textual amendment: [Sch. 2A para. 3(f)(ii)](https://www.legislation.gov.uk/uksi/2002/618/schedule/2A/paragraph/3/f/ii) substituted (17.6.2025) by [The Medical Devices (Post-market Surveillance Requirements) (Amendment) (Great Britain) Regulations 2024 (S.I. 2024/1368)](https://www.legislation.gov.uk/uksi/2024/1368), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1368/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2024/1368/regulation/5/2) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/1368/regulation/6))
 
-[^key-34524b74839c1021b2b1b5b612cdb334]: Textual amendment: [Sch. 2A para. 3(g)](https://www.legislation.gov.uk/uksi/2002/618/schedule/2A/paragraph/3/g) substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 1 para. 21(c)(iii)](https://www.legislation.gov.uk/uksi/2021/873/schedule/1/paragraph/21/c/iii)
+[^c-34524b74839c1021b2b1b5b612cdb334]: Textual amendment: [Sch. 2A para. 3(g)](https://www.legislation.gov.uk/uksi/2002/618/schedule/2A/paragraph/3/g) substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 1 para. 21(c)(iii)](https://www.legislation.gov.uk/uksi/2021/873/schedule/1/paragraph/21/c/iii)
 
-[^key-0fe6d0bc08b4cfcdd8fc2bdc871aed69]: Textual amendment: [Sch. 2A para. 3(h)](https://www.legislation.gov.uk/uksi/2002/618/schedule/2A/paragraph/3/h) substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 1 para. 21(c)(iv)](https://www.legislation.gov.uk/uksi/2021/873/schedule/1/paragraph/21/c/iv)
+[^c-0fe6d0bc08b4cfcdd8fc2bdc871aed69]: Textual amendment: [Sch. 2A para. 3(h)](https://www.legislation.gov.uk/uksi/2002/618/schedule/2A/paragraph/3/h) substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 1 para. 21(c)(iv)](https://www.legislation.gov.uk/uksi/2021/873/schedule/1/paragraph/21/c/iv)
 
-[^key-0a4eb31e032737a5a3770cee12c2930d]: Textual amendment: Words in [Sch. 2A para. 5](https://www.legislation.gov.uk/uksi/2002/618/schedule/2A/paragraph/5) omitted (17.6.2025) by virtue of [The Medical Devices (Post-market Surveillance Requirements) (Amendment) (Great Britain) Regulations 2024 (S.I. 2024/1368)](https://www.legislation.gov.uk/uksi/2024/1368), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1368/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2024/1368/regulation/5/3) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/1368/regulation/6))
+[^c-0a4eb31e032737a5a3770cee12c2930d]: Textual amendment: Words in [Sch. 2A para. 5](https://www.legislation.gov.uk/uksi/2002/618/schedule/2A/paragraph/5) omitted (17.6.2025) by virtue of [The Medical Devices (Post-market Surveillance Requirements) (Amendment) (Great Britain) Regulations 2024 (S.I. 2024/1368)](https://www.legislation.gov.uk/uksi/2024/1368), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1368/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2024/1368/regulation/5/3) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/1368/regulation/6))
 
-[^key-0a54627bdf6d4341f6d518b62402dbd4]: Textual amendment: Words in [Sch. 2A para. 6](https://www.legislation.gov.uk/uksi/2002/618/schedule/2A/paragraph/6) omitted (17.6.2025) by virtue of [The Medical Devices (Post-market Surveillance Requirements) (Amendment) (Great Britain) Regulations 2024 (S.I. 2024/1368)](https://www.legislation.gov.uk/uksi/2024/1368), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1368/regulation/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2024/1368/regulation/5/4) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/1368/regulation/6))
+[^c-0a54627bdf6d4341f6d518b62402dbd4]: Textual amendment: Words in [Sch. 2A para. 6](https://www.legislation.gov.uk/uksi/2002/618/schedule/2A/paragraph/6) omitted (17.6.2025) by virtue of [The Medical Devices (Post-market Surveillance Requirements) (Amendment) (Great Britain) Regulations 2024 (S.I. 2024/1368)](https://www.legislation.gov.uk/uksi/2024/1368), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1368/regulation/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2024/1368/regulation/5/4) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/1368/regulation/6))
 
-[^key-0ab1bb997dd84eb8a41b419959994b26]: Textual amendment: [Sch. 2A para. 7(e)](https://www.legislation.gov.uk/uksi/2002/618/schedule/2A/paragraph/7/e) substituted (17.6.2025) by [The Medical Devices (Post-market Surveillance Requirements) (Amendment) (Great Britain) Regulations 2024 (S.I. 2024/1368)](https://www.legislation.gov.uk/uksi/2024/1368), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1368/regulation/1/2), [5(5)](https://www.legislation.gov.uk/uksi/2024/1368/regulation/5/5) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/1368/regulation/6))
+[^c-0ab1bb997dd84eb8a41b419959994b26]: Textual amendment: [Sch. 2A para. 7(e)](https://www.legislation.gov.uk/uksi/2002/618/schedule/2A/paragraph/7/e) substituted (17.6.2025) by [The Medical Devices (Post-market Surveillance Requirements) (Amendment) (Great Britain) Regulations 2024 (S.I. 2024/1368)](https://www.legislation.gov.uk/uksi/2024/1368), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1368/regulation/1/2), [5(5)](https://www.legislation.gov.uk/uksi/2024/1368/regulation/5/5) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/1368/regulation/6))
 
-[^key-c9bf583c5b6e1446e964192a295ded6d]: Textual amendment: [Sch. 2A para. 8](https://www.legislation.gov.uk/uksi/2002/618/schedule/2A/paragraph/8) substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 1 para. 21(d)](https://www.legislation.gov.uk/uksi/2021/873/schedule/1/paragraph/21/d)
+[^c-c9bf583c5b6e1446e964192a295ded6d]: Textual amendment: [Sch. 2A para. 8](https://www.legislation.gov.uk/uksi/2002/618/schedule/2A/paragraph/8) substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 1 para. 21(d)](https://www.legislation.gov.uk/uksi/2021/873/schedule/1/paragraph/21/d)
 
-[^key-aa4efc63c70ee4c15787d58fc559a329]: Textual amendment: [Sch. 2A para. 9(aa)](https://www.legislation.gov.uk/uksi/2002/618/schedule/2A/paragraph/9/aa) inserted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 1 para. 21(e)](https://www.legislation.gov.uk/uksi/2021/873/schedule/1/paragraph/21/e)
+[^c-aa4efc63c70ee4c15787d58fc559a329]: Textual amendment: [Sch. 2A para. 9(aa)](https://www.legislation.gov.uk/uksi/2002/618/schedule/2A/paragraph/9/aa) inserted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 1 para. 21(e)](https://www.legislation.gov.uk/uksi/2021/873/schedule/1/paragraph/21/e)
 
-[^key-bb6724205f8d16f8d5cdcd88be70abfb]: Textual amendment: [Sch. 2A para. 13(da)](https://www.legislation.gov.uk/uksi/2002/618/schedule/2A/paragraph/13/da) inserted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 1 para. 21(f)(i)](https://www.legislation.gov.uk/uksi/2021/873/schedule/1/paragraph/21/f/i)
+[^c-bb6724205f8d16f8d5cdcd88be70abfb]: Textual amendment: [Sch. 2A para. 13(da)](https://www.legislation.gov.uk/uksi/2002/618/schedule/2A/paragraph/13/da) inserted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 1 para. 21(f)(i)](https://www.legislation.gov.uk/uksi/2021/873/schedule/1/paragraph/21/f/i)
 
-[^key-addf4866e3e599b5c8a9e23ff613de9a]: Textual amendment: [Sch. 2A para. 13(da)(iii)](https://www.legislation.gov.uk/uksi/2002/618/schedule/2A/paragraph/13/da/iii) omitted (17.6.2025) by virtue of [The Medical Devices (Post-market Surveillance Requirements) (Amendment) (Great Britain) Regulations 2024 (S.I. 2024/1368)](https://www.legislation.gov.uk/uksi/2024/1368), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1368/regulation/1/2), [5(6)(a)](https://www.legislation.gov.uk/uksi/2024/1368/regulation/5/6/a) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/1368/regulation/6))
+[^c-addf4866e3e599b5c8a9e23ff613de9a]: Textual amendment: [Sch. 2A para. 13(da)(iii)](https://www.legislation.gov.uk/uksi/2002/618/schedule/2A/paragraph/13/da/iii) omitted (17.6.2025) by virtue of [The Medical Devices (Post-market Surveillance Requirements) (Amendment) (Great Britain) Regulations 2024 (S.I. 2024/1368)](https://www.legislation.gov.uk/uksi/2024/1368), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1368/regulation/1/2), [5(6)(a)](https://www.legislation.gov.uk/uksi/2024/1368/regulation/5/6/a) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/1368/regulation/6))
 
-[^key-570fd4f0f593dc4523ca1a100603e8ba]: Textual amendment: [Sch. 2A para. 13(da)(iv)](https://www.legislation.gov.uk/uksi/2002/618/schedule/2A/paragraph/13/da/iv) inserted (17.6.2025) by [The Medical Devices (Post-market Surveillance Requirements) (Amendment) (Great Britain) Regulations 2024 (S.I. 2024/1368)](https://www.legislation.gov.uk/uksi/2024/1368), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1368/regulation/1/2), [5(6)(b)](https://www.legislation.gov.uk/uksi/2024/1368/regulation/5/6/b) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/1368/regulation/6))
+[^c-570fd4f0f593dc4523ca1a100603e8ba]: Textual amendment: [Sch. 2A para. 13(da)(iv)](https://www.legislation.gov.uk/uksi/2002/618/schedule/2A/paragraph/13/da/iv) inserted (17.6.2025) by [The Medical Devices (Post-market Surveillance Requirements) (Amendment) (Great Britain) Regulations 2024 (S.I. 2024/1368)](https://www.legislation.gov.uk/uksi/2024/1368), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1368/regulation/1/2), [5(6)(b)](https://www.legislation.gov.uk/uksi/2024/1368/regulation/5/6/b) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/1368/regulation/6))
 
-[^key-81af355c353df4e3657a37214affca66]: Textual amendment: [Sch. 2A para. 15(f)](https://www.legislation.gov.uk/uksi/2002/618/schedule/2A/paragraph/15/f) substituted (17.6.2025) by [The Medical Devices (Post-market Surveillance Requirements) (Amendment) (Great Britain) Regulations 2024 (S.I. 2024/1368)](https://www.legislation.gov.uk/uksi/2024/1368), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1368/regulation/1/2), [5(7)](https://www.legislation.gov.uk/uksi/2024/1368/regulation/5/7) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/1368/regulation/6))
+[^c-81af355c353df4e3657a37214affca66]: Textual amendment: [Sch. 2A para. 15(f)](https://www.legislation.gov.uk/uksi/2002/618/schedule/2A/paragraph/15/f) substituted (17.6.2025) by [The Medical Devices (Post-market Surveillance Requirements) (Amendment) (Great Britain) Regulations 2024 (S.I. 2024/1368)](https://www.legislation.gov.uk/uksi/2024/1368), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1368/regulation/1/2), [5(7)](https://www.legislation.gov.uk/uksi/2024/1368/regulation/5/7) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/1368/regulation/6))
 
-[^key-1e8b5b8ea05f35fda61e1d46a4488e84]: Textual amendment: Sch. 2A para. 15(zj) inserted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 1 para. 21(g)(i)](https://www.legislation.gov.uk/uksi/2021/873/schedule/1/paragraph/21/g/i)
+[^c-1e8b5b8ea05f35fda61e1d46a4488e84]: Textual amendment: Sch. 2A para. 15(zj) inserted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 1 para. 21(g)(i)](https://www.legislation.gov.uk/uksi/2021/873/schedule/1/paragraph/21/g/i)
 
-[^key-a381a7605a73580af909236580fa403f]: Textual amendment: Sch. 2A para. 15(j)(ia) inserted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 1 para. 21(g)(ii)](https://www.legislation.gov.uk/uksi/2021/873/schedule/1/paragraph/21/g/ii)
+[^c-a381a7605a73580af909236580fa403f]: Textual amendment: Sch. 2A para. 15(j)(ia) inserted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 1 para. 21(g)(ii)](https://www.legislation.gov.uk/uksi/2021/873/schedule/1/paragraph/21/g/ii)
 
-[^key-b6673598cd044ce47ab6e85f51266d70]: Textual amendment: [Sch. 2A para. 16(e)](https://www.legislation.gov.uk/uksi/2002/618/schedule/2A/paragraph/16/e) substituted (17.6.2025) by [The Medical Devices (Post-market Surveillance Requirements) (Amendment) (Great Britain) Regulations 2024 (S.I. 2024/1368)](https://www.legislation.gov.uk/uksi/2024/1368), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1368/regulation/1/2), [5(8)](https://www.legislation.gov.uk/uksi/2024/1368/regulation/5/8) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/1368/regulation/6))
+[^c-b6673598cd044ce47ab6e85f51266d70]: Textual amendment: [Sch. 2A para. 16(e)](https://www.legislation.gov.uk/uksi/2002/618/schedule/2A/paragraph/16/e) substituted (17.6.2025) by [The Medical Devices (Post-market Surveillance Requirements) (Amendment) (Great Britain) Regulations 2024 (S.I. 2024/1368)](https://www.legislation.gov.uk/uksi/2024/1368), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1368/regulation/1/2), [5(8)](https://www.legislation.gov.uk/uksi/2024/1368/regulation/5/8) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/1368/regulation/6))
 
-[^key-db36988464f5fed609eb70c200a89b40]: Textual amendment: [Sch. 2A para. 17(e)](https://www.legislation.gov.uk/uksi/2002/618/schedule/2A/paragraph/17/e) substituted (17.6.2025) by [The Medical Devices (Post-market Surveillance Requirements) (Amendment) (Great Britain) Regulations 2024 (S.I. 2024/1368)](https://www.legislation.gov.uk/uksi/2024/1368), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1368/regulation/1/2), [5(9)](https://www.legislation.gov.uk/uksi/2024/1368/regulation/5/9) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/1368/regulation/6))
+[^c-db36988464f5fed609eb70c200a89b40]: Textual amendment: [Sch. 2A para. 17(e)](https://www.legislation.gov.uk/uksi/2002/618/schedule/2A/paragraph/17/e) substituted (17.6.2025) by [The Medical Devices (Post-market Surveillance Requirements) (Amendment) (Great Britain) Regulations 2024 (S.I. 2024/1368)](https://www.legislation.gov.uk/uksi/2024/1368), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1368/regulation/1/2), [5(9)](https://www.legislation.gov.uk/uksi/2024/1368/regulation/5/9) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/1368/regulation/6))
 
-[^key-90bc9e201c4b2ce72d29c6e7823da7d3]: Textual amendment: [Sch. 2A para. 17(ga)](https://www.legislation.gov.uk/uksi/2002/618/schedule/2A/paragraph/17/ga) inserted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 1 para. 21(h)(ii)](https://www.legislation.gov.uk/uksi/2021/873/schedule/1/paragraph/21/h/ii)
+[^c-90bc9e201c4b2ce72d29c6e7823da7d3]: Textual amendment: [Sch. 2A para. 17(ga)](https://www.legislation.gov.uk/uksi/2002/618/schedule/2A/paragraph/17/ga) inserted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 1 para. 21(h)(ii)](https://www.legislation.gov.uk/uksi/2021/873/schedule/1/paragraph/21/h/ii)
 
-[^key-b7dd60466db0195ec3289eae6841e045]: Textual amendment: [Sch. 2A para. 17(k)](https://www.legislation.gov.uk/uksi/2002/618/schedule/2A/paragraph/17/k) inserted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 1 para. 21(h)(iii)](https://www.legislation.gov.uk/uksi/2021/873/schedule/1/paragraph/21/h/iii)
+[^c-b7dd60466db0195ec3289eae6841e045]: Textual amendment: [Sch. 2A para. 17(k)](https://www.legislation.gov.uk/uksi/2002/618/schedule/2A/paragraph/17/k) inserted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 1 para. 21(h)(iii)](https://www.legislation.gov.uk/uksi/2021/873/schedule/1/paragraph/21/h/iii)
 
-[^key-d8e23964c32c86e2406a3370d59e9115]: Textual amendment: [Sch. 2A para. 18(e)](https://www.legislation.gov.uk/uksi/2002/618/schedule/2A/paragraph/18/e) substituted (17.6.2025) by [The Medical Devices (Post-market Surveillance Requirements) (Amendment) (Great Britain) Regulations 2024 (S.I. 2024/1368)](https://www.legislation.gov.uk/uksi/2024/1368), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1368/regulation/1/2), [5(10)](https://www.legislation.gov.uk/uksi/2024/1368/regulation/5/10) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/1368/regulation/6))
+[^c-d8e23964c32c86e2406a3370d59e9115]: Textual amendment: [Sch. 2A para. 18(e)](https://www.legislation.gov.uk/uksi/2002/618/schedule/2A/paragraph/18/e) substituted (17.6.2025) by [The Medical Devices (Post-market Surveillance Requirements) (Amendment) (Great Britain) Regulations 2024 (S.I. 2024/1368)](https://www.legislation.gov.uk/uksi/2024/1368), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1368/regulation/1/2), [5(10)](https://www.legislation.gov.uk/uksi/2024/1368/regulation/5/10) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/1368/regulation/6))
 
-[^key-19e457c60ee8c00d2bf80f77047407ac]: Textual amendment: [Sch. 2A para. 19(f)](https://www.legislation.gov.uk/uksi/2002/618/schedule/2A/paragraph/19/f) substituted (17.6.2025) by [The Medical Devices (Post-market Surveillance Requirements) (Amendment) (Great Britain) Regulations 2024 (S.I. 2024/1368)](https://www.legislation.gov.uk/uksi/2024/1368), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1368/regulation/1/2), [5(11)](https://www.legislation.gov.uk/uksi/2024/1368/regulation/5/11) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/1368/regulation/6))
+[^c-19e457c60ee8c00d2bf80f77047407ac]: Textual amendment: [Sch. 2A para. 19(f)](https://www.legislation.gov.uk/uksi/2002/618/schedule/2A/paragraph/19/f) substituted (17.6.2025) by [The Medical Devices (Post-market Surveillance Requirements) (Amendment) (Great Britain) Regulations 2024 (S.I. 2024/1368)](https://www.legislation.gov.uk/uksi/2024/1368), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1368/regulation/1/2), [5(11)](https://www.legislation.gov.uk/uksi/2024/1368/regulation/5/11) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/1368/regulation/6))
 
-[^key-876a3affb36752635246ffa0eafd7f69]: Textual amendment: Words in [Sch. 2A para. 22(d)](https://www.legislation.gov.uk/uksi/2002/618/schedule/2A/paragraph/22/d) substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 1 para. 21(i)](https://www.legislation.gov.uk/uksi/2021/873/schedule/1/paragraph/21/i)
+[^c-876a3affb36752635246ffa0eafd7f69]: Textual amendment: Words in [Sch. 2A para. 22(d)](https://www.legislation.gov.uk/uksi/2002/618/schedule/2A/paragraph/22/d) substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 1 para. 21(i)](https://www.legislation.gov.uk/uksi/2021/873/schedule/1/paragraph/21/i)
 
-[^key-97979ce878f6e1819a2d724d20bef55a]: Textual amendment: [Sch. 2A para. 26(e)](https://www.legislation.gov.uk/uksi/2002/618/schedule/2A/paragraph/26/e) substituted (17.6.2025) by [The Medical Devices (Post-market Surveillance Requirements) (Amendment) (Great Britain) Regulations 2024 (S.I. 2024/1368)](https://www.legislation.gov.uk/uksi/2024/1368), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1368/regulation/1/2), [5(12)](https://www.legislation.gov.uk/uksi/2024/1368/regulation/5/12) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/1368/regulation/6))
+[^c-97979ce878f6e1819a2d724d20bef55a]: Textual amendment: [Sch. 2A para. 26(e)](https://www.legislation.gov.uk/uksi/2002/618/schedule/2A/paragraph/26/e) substituted (17.6.2025) by [The Medical Devices (Post-market Surveillance Requirements) (Amendment) (Great Britain) Regulations 2024 (S.I. 2024/1368)](https://www.legislation.gov.uk/uksi/2024/1368), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1368/regulation/1/2), [5(12)](https://www.legislation.gov.uk/uksi/2024/1368/regulation/5/12) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/1368/regulation/6))
 
-[^key-a73c8f7597898d3dd23a4d71aa1d0bc2]: Textual amendment: [Sch. 2A para. 27(d)(iii)](https://www.legislation.gov.uk/uksi/2002/618/schedule/2A/paragraph/27/d/iii) inserted (17.6.2025) by [The Medical Devices (Post-market Surveillance Requirements) (Amendment) (Great Britain) Regulations 2024 (S.I. 2024/1368)](https://www.legislation.gov.uk/uksi/2024/1368), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1368/regulation/1/2), [5(13)](https://www.legislation.gov.uk/uksi/2024/1368/regulation/5/13) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/1368/regulation/6))
+[^c-a73c8f7597898d3dd23a4d71aa1d0bc2]: Textual amendment: [Sch. 2A para. 27(d)(iii)](https://www.legislation.gov.uk/uksi/2002/618/schedule/2A/paragraph/27/d/iii) inserted (17.6.2025) by [The Medical Devices (Post-market Surveillance Requirements) (Amendment) (Great Britain) Regulations 2024 (S.I. 2024/1368)](https://www.legislation.gov.uk/uksi/2024/1368), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1368/regulation/1/2), [5(13)](https://www.legislation.gov.uk/uksi/2024/1368/regulation/5/13) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/1368/regulation/6))
 
-[^key-a9004149f38171679425b55c253ab006]: Textual amendment: [Sch. 2A para. 29(da)](https://www.legislation.gov.uk/uksi/2002/618/schedule/2A/paragraph/29/da) inserted (17.6.2025) by [The Medical Devices (Post-market Surveillance Requirements) (Amendment) (Great Britain) Regulations 2024 (S.I. 2024/1368)](https://www.legislation.gov.uk/uksi/2024/1368), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1368/regulation/1/2), [5(14)](https://www.legislation.gov.uk/uksi/2024/1368/regulation/5/14) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/1368/regulation/6))
+[^c-a9004149f38171679425b55c253ab006]: Textual amendment: [Sch. 2A para. 29(da)](https://www.legislation.gov.uk/uksi/2002/618/schedule/2A/paragraph/29/da) inserted (17.6.2025) by [The Medical Devices (Post-market Surveillance Requirements) (Amendment) (Great Britain) Regulations 2024 (S.I. 2024/1368)](https://www.legislation.gov.uk/uksi/2024/1368), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1368/regulation/1/2), [5(14)](https://www.legislation.gov.uk/uksi/2024/1368/regulation/5/14) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/1368/regulation/6))

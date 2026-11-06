@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 5ZB — Offences specified for the purpose of section 205ZC (sentence with fixed licence period)[^key-5bb2295066e4310256fb858deef8c6d6][^key-e92a74398890c9ba8e3cda9ef7d42500]
+## SCHEDULE 5ZB — Offences specified for the purpose of section 205ZC (sentence with fixed licence period)[^c-5bb2295066e4310256fb858deef8c6d6][^c-e92a74398890c9ba8e3cda9ef7d42500]
 
 *Extent: S*
 
 Section 205ZC
 
-### Part 1 — Terrorism Offences[^key-4bcce445c61f41141147c5f67793ec90]
+### Part 1 — Terrorism Offences[^c-4bcce445c61f41141147c5f67793ec90]
 
 #### Terrorism Act 2000
 
@@ -66,7 +66,7 @@ Section 205ZC
 
 #### Counter-Terrorism Act 2008
 
-**4.** An offence under any of the following provisions of the[^key-ac8974f82fd13962c7bbc97211880463] [Counter-Terrorism Act 2008](https://www.legislation.gov.uk/ukpga/2008/28/contents)—
+**4.** An offence under any of the following provisions of the[^c-ac8974f82fd13962c7bbc97211880463] [Counter-Terrorism Act 2008](https://www.legislation.gov.uk/ukpga/2008/28/contents)—
 
 - (a) [section 54](https://www.legislation.gov.uk/ukpga/2008/28/section/54) (breach of police notification requirements etc);
 - (b) [paragraph 15](https://www.legislation.gov.uk/ukpga/2008/28/schedule/5/paragraph/15) of [Schedule 5](https://www.legislation.gov.uk/ukpga/2008/28/schedule/5) (breach of foreign travel restriction order).
@@ -81,7 +81,7 @@ Section 205ZC
 
 #### Ancillary offences
 
-**7.** (1) An attempt to commit an offence specified in the preceding paragraphs of this Part of this Schedule[^key-755eec249eb4db3a65dba6e5feffc52d] (“a listed offence”).
+**7.** (1) An attempt to commit an offence specified in the preceding paragraphs of this Part of this Schedule[^c-755eec249eb4db3a65dba6e5feffc52d] (“a listed offence”).
 
 (2) Conspiracy to commit a listed offence.
 
@@ -93,10 +93,10 @@ Section 205ZC
 
 **8.** An offence that—
 
-- (a) was abolished before the coming into force of this Part of this[^key-7db4879f4d023d5e9806c7b0621c48fd] Schedule, and
-- (b) if committed on the day on which this Part of this[^key-4c7bcb8df1e376599147214ef159501f] Schedule came into force, would have constituted an offence specified in the preceding paragraphs of this Part of this Schedule.
+- (a) was abolished before the coming into force of this Part of this[^c-7db4879f4d023d5e9806c7b0621c48fd] Schedule, and
+- (b) if committed on the day on which this Part of this[^c-4c7bcb8df1e376599147214ef159501f] Schedule came into force, would have constituted an offence specified in the preceding paragraphs of this Part of this Schedule.
 
-### Part 2 — Offences involving or connected with a threat to national security[^key-20240fb13d1de3d0404a4b2a1770b6d6]
+### Part 2 — Offences involving or connected with a threat to national security[^c-20240fb13d1de3d0404a4b2a1770b6d6]
 
 #### 9. Official Secrets Act 1911
 
@@ -117,7 +117,7 @@ An offence under any of the following provisions of the National Security Act 20
 - (e) section 12 (sabotage);
 - (f) section 13 (foreign interference);
 - (g) section 17 (obtaining etc material benefits from a foreign intelligence service);
-- (ga)[^key-038a5162191096a633ed392b3505ec81] section 17A (supporting a designated body);
+- (ga)[^c-038a5162191096a633ed392b3505ec81] section 17A (supporting a designated body);
 - (gb) section 17B (assisting a designated body);
 - (gc) section 17C (obtaining etc material benefits from a designated body);
 - (h) section 18 (preparatory conduct);
@@ -130,12 +130,12 @@ An offence under any of the following provisions of the National Security Act 20
 - (o) section 77(1) or (2) (provision of false information);
 - (p) section 78(1) (carrying out activities under foreign activity arrangement tainted by false information).
 
-#### 12. Certain electoral offences where foreign power or designated body condition met[^key-a9209ce15aaa941485637bc64b4848cf]
+#### 12. Certain electoral offences where foreign power or designated body condition met[^c-a9209ce15aaa941485637bc64b4848cf]
 
 An offence—
 
 - (a) to which subsection (1)(a) of section 16 of the National Security Act 2023 applies (relevant electoral offences committed on or after specified day), and
-- (b) in relation to which it is determined for the purposes of subsection (1)(b) of that section that the foreign power condition or the designated body condition[^key-d5b184a53402f4895d0ccf666171837e] is met,
+- (b) in relation to which it is determined for the purposes of subsection (1)(b) of that section that the foreign power condition or the designated body condition[^c-d5b184a53402f4895d0ccf666171837e] is met,
 
 other than an offence under section 89A(4) or (5) of the Political Parties, Elections and Referendums Act 2000.
 
@@ -149,37 +149,37 @@ other than an offence under section 89A(4) or (5) of the Political Parties, Elec
 
 (4) Aiding, abetting, counselling or procuring the commission of a listed offence.
 
-#### 14. Certain other offences where foreign power or designated body condition met[^key-8e8e150208f75d82ed5f1f154cd297a8]
+#### 14. Certain other offences where foreign power or designated body condition met[^c-8e8e150208f75d82ed5f1f154cd297a8]
 
 An offence, other than one for which the sentence is fixed by law as life imprisonment—
 
 - (a) which is punishable on indictment with imprisonment for more than 2 years, and
-- (b) in relation to which section 21 of the National Security Act 2023 applies (aggravating factor where foreign power or designated body[^key-24cd5a3e75c5e8633e6400743a6cf63b] condition met: Scotland).
+- (b) in relation to which section 21 of the National Security Act 2023 applies (aggravating factor where foreign power or designated body[^c-24cd5a3e75c5e8633e6400743a6cf63b] condition met: Scotland).
 
 ## Annotations
 
-[^key-5bb2295066e4310256fb858deef8c6d6]: Textual amendment: [Sch. 5ZB](https://www.legislation.gov.uk/ukpga/1995/46/schedule/5ZB) inserted (30.4.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(1)(d)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/d), [Sch. 7](https://www.legislation.gov.uk/ukpga/2021/11/schedule/7)
+[^c-5bb2295066e4310256fb858deef8c6d6]: Textual amendment: [Sch. 5ZB](https://www.legislation.gov.uk/ukpga/1995/46/schedule/5ZB) inserted (30.4.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(1)(d)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/d), [Sch. 7](https://www.legislation.gov.uk/ukpga/2021/11/schedule/7)
 
-[^key-e92a74398890c9ba8e3cda9ef7d42500]: Textual amendment: [Sch. 5ZB](https://www.legislation.gov.uk/ukpga/1995/46/schedule/5ZB) heading substituted (22.3.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 8(7)](https://www.legislation.gov.uk/ukpga/2026/2/section/8/7), [49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)
+[^c-e92a74398890c9ba8e3cda9ef7d42500]: Textual amendment: [Sch. 5ZB](https://www.legislation.gov.uk/ukpga/1995/46/schedule/5ZB) heading substituted (22.3.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 8(7)](https://www.legislation.gov.uk/ukpga/2026/2/section/8/7), [49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)
 
-[^key-4bcce445c61f41141147c5f67793ec90]: Textual amendment: [Sch. 5ZB Pt. 1](https://www.legislation.gov.uk/ukpga/1995/46/schedule/5ZB/part/1) heading inserted (22.3.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 8(8)](https://www.legislation.gov.uk/ukpga/2026/2/section/8/8), [49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)
+[^c-4bcce445c61f41141147c5f67793ec90]: Textual amendment: [Sch. 5ZB Pt. 1](https://www.legislation.gov.uk/ukpga/1995/46/schedule/5ZB/part/1) heading inserted (22.3.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 8(8)](https://www.legislation.gov.uk/ukpga/2026/2/section/8/8), [49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)
 
-[^key-ac8974f82fd13962c7bbc97211880463]: Textual amendment: Words in [Sch. 5ZB para. 4](https://www.legislation.gov.uk/ukpga/1995/46/schedule/5ZB/paragraph/4) substituted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(3)(l)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/l), [Sch. 27 para. 2(3)](https://www.legislation.gov.uk/ukpga/2026/20/schedule/27/paragraph/2/3)
+[^c-ac8974f82fd13962c7bbc97211880463]: Textual amendment: Words in [Sch. 5ZB para. 4](https://www.legislation.gov.uk/ukpga/1995/46/schedule/5ZB/paragraph/4) substituted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(3)(l)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/l), [Sch. 27 para. 2(3)](https://www.legislation.gov.uk/ukpga/2026/20/schedule/27/paragraph/2/3)
 
-[^key-755eec249eb4db3a65dba6e5feffc52d]: Textual amendment: Words in [Sch. 5ZB para. 7(1)](https://www.legislation.gov.uk/ukpga/1995/46/schedule/5ZB/paragraph/7/1) inserted (22.3.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 8(9)](https://www.legislation.gov.uk/ukpga/2026/2/section/8/9), [49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)
+[^c-755eec249eb4db3a65dba6e5feffc52d]: Textual amendment: Words in [Sch. 5ZB para. 7(1)](https://www.legislation.gov.uk/ukpga/1995/46/schedule/5ZB/paragraph/7/1) inserted (22.3.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 8(9)](https://www.legislation.gov.uk/ukpga/2026/2/section/8/9), [49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)
 
-[^key-7db4879f4d023d5e9806c7b0621c48fd]: Textual amendment: Words in [Sch. 5ZB para. 8(a)](https://www.legislation.gov.uk/ukpga/1995/46/schedule/5ZB/paragraph/8/a) inserted (22.3.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 8(10)(a)](https://www.legislation.gov.uk/ukpga/2026/2/section/8/10/a), [49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)
+[^c-7db4879f4d023d5e9806c7b0621c48fd]: Textual amendment: Words in [Sch. 5ZB para. 8(a)](https://www.legislation.gov.uk/ukpga/1995/46/schedule/5ZB/paragraph/8/a) inserted (22.3.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 8(10)(a)](https://www.legislation.gov.uk/ukpga/2026/2/section/8/10/a), [49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)
 
-[^key-4c7bcb8df1e376599147214ef159501f]: Textual amendment: Words in [Sch. 5ZB para. 8(b)](https://www.legislation.gov.uk/ukpga/1995/46/schedule/5ZB/paragraph/8/b) inserted (22.3.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 8(10)(b)](https://www.legislation.gov.uk/ukpga/2026/2/section/8/10/b), [49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)
+[^c-4c7bcb8df1e376599147214ef159501f]: Textual amendment: Words in [Sch. 5ZB para. 8(b)](https://www.legislation.gov.uk/ukpga/1995/46/schedule/5ZB/paragraph/8/b) inserted (22.3.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 8(10)(b)](https://www.legislation.gov.uk/ukpga/2026/2/section/8/10/b), [49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)
 
-[^key-20240fb13d1de3d0404a4b2a1770b6d6]: Textual amendment: Sch. 5ZB Pt. 2 inserted (22.3.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 8(11)](https://www.legislation.gov.uk/ukpga/2026/2/section/8/11), [49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)
+[^c-20240fb13d1de3d0404a4b2a1770b6d6]: Textual amendment: Sch. 5ZB Pt. 2 inserted (22.3.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 8(11)](https://www.legislation.gov.uk/ukpga/2026/2/section/8/11), [49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)
 
-[^key-038a5162191096a633ed392b3505ec81]: Textual amendment: Sch. 5ZB paras. 11(ga)-(gc) inserted (8.7.2026) by [National Security (State Threats) Act 2026 (c. 24)](https://www.legislation.gov.uk/ukpga/2026/24), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1), [Sch. para. 5(a)](https://www.legislation.gov.uk/ukpga/2026/24/schedule/paragraph/5/a)
+[^c-038a5162191096a633ed392b3505ec81]: Textual amendment: Sch. 5ZB paras. 11(ga)-(gc) inserted (8.7.2026) by [National Security (State Threats) Act 2026 (c. 24)](https://www.legislation.gov.uk/ukpga/2026/24), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1), [Sch. para. 5(a)](https://www.legislation.gov.uk/ukpga/2026/24/schedule/paragraph/5/a)
 
-[^key-a9209ce15aaa941485637bc64b4848cf]: Textual amendment: Words in Sch. 5ZB para. 12 heading inserted (8.7.2026) by [National Security (State Threats) Act 2026 (c. 24)](https://www.legislation.gov.uk/ukpga/2026/24), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1), [Sch. para. 5(b)(i)](https://www.legislation.gov.uk/ukpga/2026/24/schedule/paragraph/5/b/i)
+[^c-a9209ce15aaa941485637bc64b4848cf]: Textual amendment: Words in Sch. 5ZB para. 12 heading inserted (8.7.2026) by [National Security (State Threats) Act 2026 (c. 24)](https://www.legislation.gov.uk/ukpga/2026/24), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1), [Sch. para. 5(b)(i)](https://www.legislation.gov.uk/ukpga/2026/24/schedule/paragraph/5/b/i)
 
-[^key-d5b184a53402f4895d0ccf666171837e]: Textual amendment: Words in Sch. 5ZB para. 12(b) inserted (8.7.2026) by [National Security (State Threats) Act 2026 (c. 24)](https://www.legislation.gov.uk/ukpga/2026/24), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1), [Sch. para. 5(b)(ii)](https://www.legislation.gov.uk/ukpga/2026/24/schedule/paragraph/5/b/ii)
+[^c-d5b184a53402f4895d0ccf666171837e]: Textual amendment: Words in Sch. 5ZB para. 12(b) inserted (8.7.2026) by [National Security (State Threats) Act 2026 (c. 24)](https://www.legislation.gov.uk/ukpga/2026/24), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1), [Sch. para. 5(b)(ii)](https://www.legislation.gov.uk/ukpga/2026/24/schedule/paragraph/5/b/ii)
 
-[^key-8e8e150208f75d82ed5f1f154cd297a8]: Textual amendment: Words in Sch. 5ZB para. 14 heading inserted (8.7.2026) by [National Security (State Threats) Act 2026 (c. 24)](https://www.legislation.gov.uk/ukpga/2026/24), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1), [Sch. para. 5(c)(i)](https://www.legislation.gov.uk/ukpga/2026/24/schedule/paragraph/5/c/i)
+[^c-8e8e150208f75d82ed5f1f154cd297a8]: Textual amendment: Words in Sch. 5ZB para. 14 heading inserted (8.7.2026) by [National Security (State Threats) Act 2026 (c. 24)](https://www.legislation.gov.uk/ukpga/2026/24), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1), [Sch. para. 5(c)(i)](https://www.legislation.gov.uk/ukpga/2026/24/schedule/paragraph/5/c/i)
 
-[^key-24cd5a3e75c5e8633e6400743a6cf63b]: Textual amendment: Words in Sch. 5ZB para. 14(b) inserted (8.7.2026) by [National Security (State Threats) Act 2026 (c. 24)](https://www.legislation.gov.uk/ukpga/2026/24), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1), [Sch. para. 5(c)(ii)](https://www.legislation.gov.uk/ukpga/2026/24/schedule/paragraph/5/c/ii)
+[^c-24cd5a3e75c5e8633e6400743a6cf63b]: Textual amendment: Words in Sch. 5ZB para. 14(b) inserted (8.7.2026) by [National Security (State Threats) Act 2026 (c. 24)](https://www.legislation.gov.uk/ukpga/2026/24), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1), [Sch. para. 5(c)(ii)](https://www.legislation.gov.uk/ukpga/2026/24/schedule/paragraph/5/c/ii)

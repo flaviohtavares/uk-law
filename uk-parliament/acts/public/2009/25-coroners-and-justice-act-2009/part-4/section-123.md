@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 123. Preparation or revision of guidelines in urgent cases[^key-8a6da36b58c950ca87c58362b48b4fec]
+## 123. Preparation or revision of guidelines in urgent cases[^c-8a6da36b58c950ca87c58362b48b4fec]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8a6da36b58c950ca87c58362b48b4fec]: Commencement: [S. 123](https://www.legislation.gov.uk/ukpga/2009/25/section/123) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/8)
+[^c-8a6da36b58c950ca87c58362b48b4fec]: Commencement: [S. 123](https://www.legislation.gov.uk/ukpga/2009/25/section/123) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/8)

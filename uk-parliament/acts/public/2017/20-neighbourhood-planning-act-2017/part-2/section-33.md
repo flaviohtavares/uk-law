@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Repeal of Part 4 of the Land Compensation Act 1961[^key-c23b1277284700de6a3b7aee1416eaa1]
+## 33. Repeal of Part 4 of the Land Compensation Act 1961[^c-c23b1277284700de6a3b7aee1416eaa1]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c23b1277284700de6a3b7aee1416eaa1]: Commencement: S. 33 in force at 22.9.2017 by [S.I. 2017/936](https://www.legislation.gov.uk/uksi/2017/936), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2017/936/regulation/3/c)
+[^c-c23b1277284700de6a3b7aee1416eaa1]: Commencement: S. 33 in force at 22.9.2017 by [S.I. 2017/936](https://www.legislation.gov.uk/uksi/2017/936), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2017/936/regulation/3/c)

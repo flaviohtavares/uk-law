@@ -44,13 +44,13 @@ The Department for Communities[^f00001] makes the following Regulations in exerc
 
 Regulation 2 and regulation 4(c) are made with the consent of the Department of Finance[^f00006].
 
-## 1. Citation, commencement and interpretation[^key-b19ebb61639fedd9d032344f64b7c05d]
+## 1. Citation, commencement and interpretation[^c-b19ebb61639fedd9d032344f64b7c05d]
 
 (1) These Regulations may be cited as the Social Security (Removal of Two Child Limit) (Consequential Amendments) Regulations (Northern Ireland) 2026 and shall come into operation on 6th April 2026.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00007] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Housing Benefit Regulations[^key-69770e684226ffc81216bfec1a3d6404]
+## 2. Amendment of the Housing Benefit Regulations[^c-69770e684226ffc81216bfec1a3d6404]
 
 (1) The Housing Benefit Regulations (Northern Ireland) 2006[^f00008] are amended in accordance with paragraphs (2) and (3).
 
@@ -64,14 +64,14 @@ Regulation 2 and regulation 4(c) are made with the consent of the Department of 
 - (a) in paragraph 1(c) for “up to two individuals who are either children or young persons and” substitute “children or young persons”;
 - (b) omit paragraphs (2) to (5).
 
-## 3. Amendment of the Universal Credit (Transitional Provisions) Regulations[^key-fae1a24ee95328258b1c83f06866536b]
+## 3. Amendment of the Universal Credit (Transitional Provisions) Regulations[^c-fae1a24ee95328258b1c83f06866536b]
 
 In the Universal Credit (Transitional Provisions) Regulations (Northern Ireland) 2016[^f00009] omit—
 
 - (a) regulation 42 (availability of the child element where maximum exceeded – continuation of exception from a previous award of child tax credit, income support or old style JSA);
 - (b) regulation 43 (evidence for non-consensual conception where claimant previously had an award of child tax credit).
 
-## 4. Amendment of the Social Security (Restrictions on Amounts for Children and Qualifying Young Persons) (Amendment) Regulations[^key-00b8976655c2cd73569062d2c2585fb6]
+## 4. Amendment of the Social Security (Restrictions on Amounts for Children and Qualifying Young Persons) (Amendment) Regulations[^c-00b8976655c2cd73569062d2c2585fb6]
 
 In the Social Security (Restrictions on Amounts for Children and Qualifying Young Persons) (Amendment) Regulations (Northern Ireland) 2017[^f00010] omit—
 
@@ -125,18 +125,18 @@ These Regulations make in relation to Northern Ireland provision corresponding t
 
 [^f00006]: Footnote: See section 171(6A) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 as inserted by Article 3(3) of the Social Security (Amendment) (Northern Ireland) Order 1993 ([S.I. 1993/1579) (N.I. 8)](https://www.legislation.gov.uk/nisi/1993/1579); see also Article 6(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481) and section 1(4) of the Departments Act (Northern Ireland) [2016 (c. 5 N.I.)](https://www.legislation.gov.uk/nia/2016/5)
 
-[^key-b19ebb61639fedd9d032344f64b7c05d]: Commencement: Reg. 1 in operation at 6.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/68/regulation/1/1)
+[^c-b19ebb61639fedd9d032344f64b7c05d]: Commencement: Reg. 1 in operation at 6.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/68/regulation/1/1)
 
 [^f00007]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-69770e684226ffc81216bfec1a3d6404]: Commencement: Reg. 2 in operation at 6.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/68/regulation/1/1)
+[^c-69770e684226ffc81216bfec1a3d6404]: Commencement: Reg. 2 in operation at 6.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/68/regulation/1/1)
 
 [^f00008]: Footnote: [S.R. 2006 No. 405](https://www.legislation.gov.uk/nisr/2006/405); relevant amending Regulations are [S.R. 2017 No. 79](https://www.legislation.gov.uk/nisr/2017/79)
 
-[^key-fae1a24ee95328258b1c83f06866536b]: Commencement: Reg. 3 in operation at 6.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/68/regulation/1/1)
+[^c-fae1a24ee95328258b1c83f06866536b]: Commencement: Reg. 3 in operation at 6.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/68/regulation/1/1)
 
 [^f00009]: Footnote: [S.R. 2016 No. 226](https://www.legislation.gov.uk/nisr/2016/226); relevant amending Regulations are [S.R. 2017 No. 79](https://www.legislation.gov.uk/nisr/2017/79)
 
-[^key-00b8976655c2cd73569062d2c2585fb6]: Commencement: Reg. 4 in operation at 6.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/68/regulation/1/1)
+[^c-00b8976655c2cd73569062d2c2585fb6]: Commencement: Reg. 4 in operation at 6.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/68/regulation/1/1)
 
 [^f00010]: Footnote: [S.R. 2017 No. 79](https://www.legislation.gov.uk/nisr/2017/79) to which there are amendments not relevant to these Regulations

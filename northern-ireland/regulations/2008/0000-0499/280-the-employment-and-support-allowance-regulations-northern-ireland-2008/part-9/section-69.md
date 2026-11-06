@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 69. Special cases[^key-b1cc0d76e17e7b1bbc6c6b0f8dfe6504]
+## 69. Special cases[^c-b1cc0d76e17e7b1bbc6c6b0f8dfe6504]
 
 *Extent: N.I.*
 
@@ -31,7 +31,7 @@ summary: ''
 - “patient” means a person (other than a prisoner) who is regarded as receiving free in-patient treatment within the meaning of regulation 2(4) and (5) of the Social Security (Hospital In-Patients) Regulations (Northern Ireland) 2005[^f00075];
 - “person from abroad” has the meaning given by regulation 70;
 - “person in hardship” means a person who satisfies regulation 158 but only for a period not exceeding 6 weeks;
-- “person serving a sentence of imprisonment detained in hospital” means a person who—[^key-a2c633a916c4f6c4bdab77c1ca101051]
+- “person serving a sentence of imprisonment detained in hospital” means a person who—[^c-a2c633a916c4f6c4bdab77c1ca101051]
   - (a) is being detained under Article 53 of Mental Health (Northern Ireland) Order1986 (removal to hospital of persons serving sentences of imprisonment etc.), and
   - (b) in any case where there is in relation to that person a release date within the meaning of Article 56(3) of that Order (further provisions as to prisoners under sentence), is being detained on or before the day which the Secretary of State certifies to be that release date;
 - “prisoner” means a person who—
@@ -42,12 +42,12 @@ summary: ''
 
 ## Annotations
 
-[^key-b1cc0d76e17e7b1bbc6c6b0f8dfe6504]: Commencement: [Reg. 69](https://www.legislation.gov.uk/nisr/2008/280/regulation/69) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-b1cc0d76e17e7b1bbc6c6b0f8dfe6504]: Commencement: [Reg. 69](https://www.legislation.gov.uk/nisr/2008/280/regulation/69) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
 
 [^f00074]: Footnote: [S.R. 2000 No. 71](https://www.legislation.gov.uk/nisr/2000/71)
 
 [^f00075]: Footnote: [S.R. 2005 No. 580](https://www.legislation.gov.uk/nisr/2005/580)
 
-[^key-a2c633a916c4f6c4bdab77c1ca101051]: Textual amendment: Words in [reg. 69(2)](https://www.legislation.gov.uk/nisr/2008/280/regulation/69/2) inserted (25.3.2010) by [The Social Security (Persons Serving a Sentence of Imprisonment Detained in Hospital) Regulations (Northern Ireland) 2010 (S.R. 2010/58)](https://www.legislation.gov.uk/nisr/2010/58), [regs. 1](https://www.legislation.gov.uk/nisr/2010/58/regulation/1), [5(2)](https://www.legislation.gov.uk/nisr/2010/58/regulation/5/2)
+[^c-a2c633a916c4f6c4bdab77c1ca101051]: Textual amendment: Words in [reg. 69(2)](https://www.legislation.gov.uk/nisr/2008/280/regulation/69/2) inserted (25.3.2010) by [The Social Security (Persons Serving a Sentence of Imprisonment Detained in Hospital) Regulations (Northern Ireland) 2010 (S.R. 2010/58)](https://www.legislation.gov.uk/nisr/2010/58), [regs. 1](https://www.legislation.gov.uk/nisr/2010/58/regulation/1), [5(2)](https://www.legislation.gov.uk/nisr/2010/58/regulation/5/2)
 
 [^f00076]: Footnote: [1953 c. 18 (N.I.)](https://www.legislation.gov.uk/apni/1953/18)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 227. Court file[^key-b8af1df3961298a4a5224e3d7668e147]
+## 227. Court file[^c-b8af1df3961298a4a5224e3d7668e147]
 
 *Extent: E+W*
 
@@ -28,7 +28,7 @@ summary: ''
 
 - (a) the administrator;
 - (b) the Secretary of State;
-- (c) the FCA and, where the investment bank concerned is a PRA-authorised person, the PRA[^key-763f02ddf23da82eeb7b4d8aa01a845f];
+- (c) the FCA and, where the investment bank concerned is a PRA-authorised person, the PRA[^c-763f02ddf23da82eeb7b4d8aa01a845f];
 - (d) in a special administration (bank insolvency) or special administration (bank administration), the Bank of England or the FSCS;
 - (e) any person who is a creditor of the investment bank if that person provides the court with a statement in writing confirming that that person is a creditor; and
 - (f) any person who is a client of the investment bank if that person provides the court with a statement in writing confirming that that person is a client.
@@ -47,7 +47,7 @@ summary: ''
 (8) An application for a direction under paragraph (7) may be made by—
 
 - (a) the administrator;
-- (b) the FCA and, where the investment bank concerned is a PRA-authorised person, the PRA[^key-7ab82552c232afbd8c3f5b2e1736ba36];
+- (b) the FCA and, where the investment bank concerned is a PRA-authorised person, the PRA[^c-7ab82552c232afbd8c3f5b2e1736ba36];
 - (c) in a special administration (bank insolvency) or special administration (bank administration) the Bank of England; or
 - (d) any person appearing to the court to have an interest.
 
@@ -72,8 +72,8 @@ may be made without notice to any other party, but the court may direct that not
 
 ## Annotations
 
-[^key-b8af1df3961298a4a5224e3d7668e147]: Commencement: [Rule 227](https://www.legislation.gov.uk/uksi/2011/1301/rule/227) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-b8af1df3961298a4a5224e3d7668e147]: Commencement: [Rule 227](https://www.legislation.gov.uk/uksi/2011/1301/rule/227) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
 
-[^key-763f02ddf23da82eeb7b4d8aa01a845f]: Textual amendment: Words in [art. 227(3)(c)](https://www.legislation.gov.uk/uksi/2011/1301/article/227/3/c) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(c)(d)(xxi)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/c/d/xxi) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))
+[^c-763f02ddf23da82eeb7b4d8aa01a845f]: Textual amendment: Words in [art. 227(3)(c)](https://www.legislation.gov.uk/uksi/2011/1301/article/227/3/c) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(c)(d)(xxi)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/c/d/xxi) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))
 
-[^key-7ab82552c232afbd8c3f5b2e1736ba36]: Textual amendment: Words in [art. 227(8)(b)](https://www.legislation.gov.uk/uksi/2011/1301/article/227/8/b) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(c)(d)(xxi)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/c/d/xxi) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))
+[^c-7ab82552c232afbd8c3f5b2e1736ba36]: Textual amendment: Words in [art. 227(8)(b)](https://www.legislation.gov.uk/uksi/2011/1301/article/227/8/b) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(c)(d)(xxi)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/c/d/xxi) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))

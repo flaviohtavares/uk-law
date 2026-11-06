@@ -31,7 +31,7 @@ summary: ''
 
 PLANT HEALTH, WALES
 
-The Plant Health (Amendment) (Wales) Order 2005 (revoked)[^key-7716bac5010c7534dc814e9f9150255e]
+The Plant Health (Amendment) (Wales) Order 2005 (revoked)[^c-7716bac5010c7534dc814e9f9150255e]
 
 Made
 
@@ -41,30 +41,30 @@ Coming into force
 
 31 January 2005
 
-[^key-7716bac5010c7534dc814e9f9150255e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7716bac5010c7534dc814e9f9150255e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-7716bac5010c7534dc814e9f9150255e]
+## 1. Title, application and commencement[^c-7716bac5010c7534dc814e9f9150255e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Plant Health (Great Britain) Order 1993[^key-7716bac5010c7534dc814e9f9150255e]
+## 2. Amendment of the Plant Health (Great Britain) Order 1993[^c-7716bac5010c7534dc814e9f9150255e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7716bac5010c7534dc814e9f9150255e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7716bac5010c7534dc814e9f9150255e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-7716bac5010c7534dc814e9f9150255e]
+## SCHEDULE[^c-7716bac5010c7534dc814e9f9150255e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-7716bac5010c7534dc814e9f9150255e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7716bac5010c7534dc814e9f9150255e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7716bac5010c7534dc814e9f9150255e]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2005/70) revoked (27.6.2006) by [The Plant Health (Wales) Order 2006 (S.I. 2006/1643)](https://www.legislation.gov.uk/wsi/2006/1643), [art. 1(2)](https://www.legislation.gov.uk/wsi/2006/1643/article/1/2), [Sch. 19](https://www.legislation.gov.uk/wsi/2006/1643/schedule/19)
+[^c-7716bac5010c7534dc814e9f9150255e]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2005/70) revoked (27.6.2006) by [The Plant Health (Wales) Order 2006 (S.I. 2006/1643)](https://www.legislation.gov.uk/wsi/2006/1643), [art. 1(2)](https://www.legislation.gov.uk/wsi/2006/1643/article/1/2), [Sch. 19](https://www.legislation.gov.uk/wsi/2006/1643/schedule/19)

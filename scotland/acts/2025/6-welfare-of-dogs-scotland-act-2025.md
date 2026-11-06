@@ -36,7 +36,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Part 1 — Promotion of good practice
 
-### 1. Ministers to make code of practice[^key-075d25cc36fe55ebae061d886841f364]
+### 1. Ministers to make code of practice[^c-075d25cc36fe55ebae061d886841f364]
 
 (1) The Scottish Ministers must make a code setting out good practice to follow in relation to—
 
@@ -72,7 +72,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (12) In this Act, “transferring” a dog includes selling, giving away, exchanging, bartering or arranging for the long term loan or long term fostering of a dog, and related expressions are to be construed accordingly.
 
-### 2. Content of code: in relation to transfer of dog of any age[^key-9ce777f18ac2b2f33faac0343f3b831e]
+### 2. Content of code: in relation to transfer of dog of any age[^c-9ce777f18ac2b2f33faac0343f3b831e]
 
 (1) This section applies in relation to the transfer of a dog of any age.
 
@@ -88,7 +88,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (3) The prospective acquirer (or a person acting on that person’s behalf) and the prospective supplier are (unless this is not practicable) to meet in person before reaching any agreement to transfer the dog from one to the other.
 
-### 3. Content of code: in relation to transfer of young dog by first owner[^key-98f8da05b68713e834d2f6443b56d00c]
+### 3. Content of code: in relation to transfer of young dog by first owner[^c-98f8da05b68713e834d2f6443b56d00c]
 
 (1) This section applies in relation to the transfer of a dog if—
 
@@ -116,7 +116,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - “**first owner**” means the person who owns the litter at the time of its birth,
 - “**microchipped**” means microchipped in accordance with regulation 6 of The Microchipping of Dogs (Scotland) Regulations 2016 ([S.S.I. 2016/58](https://www.legislation.gov.uk/ssi/2016/58)).
 
-### 4. Content of code: certificate[^key-53c9d037278eb551d25efc9e0f07c802]
+### 4. Content of code: certificate[^c-53c9d037278eb551d25efc9e0f07c802]
 
 (1) This section applies in relation to the transfer of a dog of any age.
 
@@ -149,7 +149,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (8) In this section “**microchip**” has the meaning given in The Microchipping of Dogs (Scotland) Regulations 2016 ([S.S.I. 2016/58](https://www.legislation.gov.uk/ssi/2016/58)).
 
-### 5. Revision of code[^key-72344953eaebc193e32eb577a8e95a49]
+### 5. Revision of code[^c-72344953eaebc193e32eb577a8e95a49]
 
 (1) The Scottish Ministers may revise the code of practice as it has effect for the time being.
 
@@ -159,7 +159,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (4) Whenever the code of practice is revised, the Scottish Ministers must re-publish the code of practice as revised.
 
-### 6. Effect of code[^key-91e581e6bc6959913dd68abb4818c6b2]
+### 6. Effect of code[^c-91e581e6bc6959913dd68abb4818c6b2]
 
 (1) A person’s failure to comply with any provision of the code of practice does not of itself make the person liable to proceedings of any sort.
 
@@ -175,7 +175,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (4) The references in this section to the code of practice are to it as it has effect at the time of the failure to comply, or the compliance, concerned.
 
-### 7. Public awareness and understanding of code[^key-fe926eee04618f85dd9ae8dedd494d41]
+### 7. Public awareness and understanding of code[^c-fe926eee04618f85dd9ae8dedd494d41]
 
 (1) The Scottish Ministers must take reasonable steps to ensure public awareness and understanding of the code of practice.
 
@@ -188,30 +188,30 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Part 2 — General
 
-### 8. Commencement[^key-ec14bbc1475572251e1f23f5cdebc2b8]
+### 8. Commencement[^c-ec14bbc1475572251e1f23f5cdebc2b8]
 
 This Act comes into force at the end of the period of 2 months beginning with the day of Royal Assent.
 
-### 9. Short title[^key-5f0c40dc11ed66f59465300ec44d1c8a]
+### 9. Short title[^c-5f0c40dc11ed66f59465300ec44d1c8a]
 
 The short title of this Act is the Welfare of Dogs (Scotland) Act 2025.
 
 ## Annotations
 
-[^key-075d25cc36fe55ebae061d886841f364]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2025/6/section/1) in force at 19.5.2025, see [s. 8](https://www.legislation.gov.uk/asp/2025/6/section/8)
+[^c-075d25cc36fe55ebae061d886841f364]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2025/6/section/1) in force at 19.5.2025, see [s. 8](https://www.legislation.gov.uk/asp/2025/6/section/8)
 
-[^key-9ce777f18ac2b2f33faac0343f3b831e]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2025/6/section/2) in force at 19.5.2025, see [s. 8](https://www.legislation.gov.uk/asp/2025/6/section/8)
+[^c-9ce777f18ac2b2f33faac0343f3b831e]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2025/6/section/2) in force at 19.5.2025, see [s. 8](https://www.legislation.gov.uk/asp/2025/6/section/8)
 
-[^key-98f8da05b68713e834d2f6443b56d00c]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2025/6/section/3) in force at 19.5.2025, see [s. 8](https://www.legislation.gov.uk/asp/2025/6/section/8)
+[^c-98f8da05b68713e834d2f6443b56d00c]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2025/6/section/3) in force at 19.5.2025, see [s. 8](https://www.legislation.gov.uk/asp/2025/6/section/8)
 
-[^key-53c9d037278eb551d25efc9e0f07c802]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2025/6/section/4) in force at 19.5.2025, see [s. 8](https://www.legislation.gov.uk/asp/2025/6/section/8)
+[^c-53c9d037278eb551d25efc9e0f07c802]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2025/6/section/4) in force at 19.5.2025, see [s. 8](https://www.legislation.gov.uk/asp/2025/6/section/8)
 
-[^key-72344953eaebc193e32eb577a8e95a49]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2025/6/section/5) in force at 19.5.2025, see [s. 8](https://www.legislation.gov.uk/asp/2025/6/section/8)
+[^c-72344953eaebc193e32eb577a8e95a49]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2025/6/section/5) in force at 19.5.2025, see [s. 8](https://www.legislation.gov.uk/asp/2025/6/section/8)
 
-[^key-91e581e6bc6959913dd68abb4818c6b2]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2025/6/section/6) in force at 19.5.2025, see [s. 8](https://www.legislation.gov.uk/asp/2025/6/section/8)
+[^c-91e581e6bc6959913dd68abb4818c6b2]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2025/6/section/6) in force at 19.5.2025, see [s. 8](https://www.legislation.gov.uk/asp/2025/6/section/8)
 
-[^key-fe926eee04618f85dd9ae8dedd494d41]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2025/6/section/7) in force at 19.5.2025, see [s. 8](https://www.legislation.gov.uk/asp/2025/6/section/8)
+[^c-fe926eee04618f85dd9ae8dedd494d41]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2025/6/section/7) in force at 19.5.2025, see [s. 8](https://www.legislation.gov.uk/asp/2025/6/section/8)
 
-[^key-ec14bbc1475572251e1f23f5cdebc2b8]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2025/6/section/8) in force at 19.5.2025, see [s. 8](https://www.legislation.gov.uk/asp/2025/6/section/8)
+[^c-ec14bbc1475572251e1f23f5cdebc2b8]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2025/6/section/8) in force at 19.5.2025, see [s. 8](https://www.legislation.gov.uk/asp/2025/6/section/8)
 
-[^key-5f0c40dc11ed66f59465300ec44d1c8a]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2025/6/section/9) in force at 19.5.2025, see [s. 8](https://www.legislation.gov.uk/asp/2025/6/section/8)
+[^c-5f0c40dc11ed66f59465300ec44d1c8a]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2025/6/section/9) in force at 19.5.2025, see [s. 8](https://www.legislation.gov.uk/asp/2025/6/section/8)

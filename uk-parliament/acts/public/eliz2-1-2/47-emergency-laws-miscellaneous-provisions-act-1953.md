@@ -71,7 +71,7 @@ any land which, at the commencement of this Act, is let by them under the said R
 
 (5) A tenancy of land which, at the commencement of this Act, is subsisting under the said Regulation sixty-two A shall (subject, however, to the operation of any notice to quit, notice of intended re-entry or agreement to surrender previously given or made) continue in force as if it had been granted under this section.
 
-(6)[^key-0dffb1ea4216e50b5b96c51a4e5c7a53] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-0dffb1ea4216e50b5b96c51a4e5c7a53] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 6. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c6189591]
 
@@ -299,7 +299,7 @@ and the right to transfer the securities has been exercised so as to vest the se
 
 [^c6189541]: Textual amendment: Words repealed by [Local Government Act 1972 (c. 70, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1972/70), [s. 272(1)](https://www.legislation.gov.uk/ukpga/1972/70/section/272/1), [Sch. 30](https://www.legislation.gov.uk/ukpga/1972/70/schedule/30)
 
-[^key-0dffb1ea4216e50b5b96c51a4e5c7a53]: Textual amendment: S. 5(6) repealed (S.) (1.4.2018) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [s. 142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1), [sch. 5](https://www.legislation.gov.uk/asp/2015/6/schedule/5); [S.S.I. 2017/458](https://www.legislation.gov.uk/ssi/2017/458), [art. 2](https://www.legislation.gov.uk/ssi/2017/458/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/458/schedule)
+[^c-0dffb1ea4216e50b5b96c51a4e5c7a53]: Textual amendment: S. 5(6) repealed (S.) (1.4.2018) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [s. 142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1), [sch. 5](https://www.legislation.gov.uk/asp/2015/6/schedule/5); [S.S.I. 2017/458](https://www.legislation.gov.uk/ssi/2017/458), [art. 2](https://www.legislation.gov.uk/ssi/2017/458/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/458/schedule)
 
 [^c6189591]: Textual amendment: [S. 6](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/47/section/6) repealed by [Nurses, Midwives and Health Visitors Act 1979 (c. 36)](https://www.legislation.gov.uk/ukpga/1979/36), [s. 23(5)](https://www.legislation.gov.uk/ukpga/1979/36/section/23/5), [Sch. 8](https://www.legislation.gov.uk/ukpga/1979/36/schedule/8)
 

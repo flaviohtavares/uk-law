@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 257K. Eligibility for SI relief[^key-aaf10c7dc329529b2ca19087f01e69e7]
+## 257K. Eligibility for SI relief[^c-aaf10c7dc329529b2ca19087f01e69e7]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) the investment is made—
   - (i) by the investor on the investor's own behalf,
   - (ii) on or after 6 April 2014, and
-  - (iii) before 6 April 2023[^key-e5130a46704d2893abd4d8492f18f575] (but see subsection (5)), and
+  - (iii) before 6 April 2023[^c-e5130a46704d2893abd4d8492f18f575] (but see subsection (5)), and
 - (b) the conditions set out in Chapters 3 and 4 are met.
 
 (2) Subsection (1)(b) is subject to the provisions in sections 257LB and 257MJ to 257MN which provide for conditions set out in those sections not to apply where the social enterprise is an accredited social impact contractor.
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-aaf10c7dc329529b2ca19087f01e69e7]: Textual amendment: Pt. 5B inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2014/26/schedule/11/paragraph/1)
+[^c-aaf10c7dc329529b2ca19087f01e69e7]: Textual amendment: Pt. 5B inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2014/26/schedule/11/paragraph/1)
 
-[^key-e5130a46704d2893abd4d8492f18f575]: Textual amendment: Words in [s. 257K(1)(a)(iii)](https://www.legislation.gov.uk/ukpga/2007/3/section/257K/1/a/iii) substituted (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 20(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/20/a)
+[^c-e5130a46704d2893abd4d8492f18f575]: Textual amendment: Words in [s. 257K(1)(a)(iii)](https://www.legislation.gov.uk/ukpga/2007/3/section/257K/1/a/iii) substituted (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 20(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/20/a)

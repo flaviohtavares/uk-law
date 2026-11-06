@@ -69,7 +69,7 @@ and any reference in this section to the amendment of a pension scheme includes 
 
 (8) An order under this section may only be made after consultation with the trustees or managers, or the administrators, of any pension fund or pension scheme to which the order relates.
 
-(9)[^key-c163e73439e2c5e02354fc3310772cfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-c163e73439e2c5e02354fc3310772cfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (10) Schedule 32 to this Act (which makes provision in relation to schemes for the provision of pensions or other benefits for or in respect of employees etc of London Regional Transport and its subsidiaries) shall have effect.
 
@@ -88,6 +88,6 @@ and any reference in this section to the amendment of a pension scheme includes 
 
 [^c12808521]: Commencement: S. 411: by virtue of s. 425(2) the Act comes into force at Royal Assent in regards to any power of a Minister of the Crown to make regulations or an order
 
-[^key-c163e73439e2c5e02354fc3310772cfc]: Textual amendment: S. 411(9) omitted (16.1.2012) by virtue of [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 57](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/57); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-c163e73439e2c5e02354fc3310772cfc]: Textual amendment: S. 411(9) omitted (16.1.2012) by virtue of [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 57](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/57); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
 
 [^c12808531]: Marginal citation: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48).

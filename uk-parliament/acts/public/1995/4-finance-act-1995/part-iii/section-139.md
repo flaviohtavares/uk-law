@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 139. Sub-contractors in the construction industry.[^key-3fa82455d81cfc2cfae5c4bba11ee7c5]
+## 139. Sub-contractors in the construction industry.[^c-3fa82455d81cfc2cfae5c4bba11ee7c5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3fa82455d81cfc2cfae5c4bba11ee7c5]: Textual amendment: [S. 139](https://www.legislation.gov.uk/ukpga/1995/4/section/139) repealed (with effect in accordance with s. 77 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 2(7)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/7)
+[^c-3fa82455d81cfc2cfae5c4bba11ee7c5]: Textual amendment: [S. 139](https://www.legislation.gov.uk/ukpga/1995/4/section/139) repealed (with effect in accordance with s. 77 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 2(7)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/7)

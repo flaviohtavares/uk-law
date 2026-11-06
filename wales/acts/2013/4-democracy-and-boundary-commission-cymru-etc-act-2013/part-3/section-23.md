@@ -44,11 +44,11 @@ summary: ''
 - (d) a reference to a “**preserved county change**” is a reference to a change to the area of a preserved county;
 - (e) a reference to a “**principal area boundary change**” is a reference to—
   - (i) altering the boundary of a principal area;
-  - (ii)[^key-57012ca325b1319df1fc550712e4a0ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-  - (iii)[^key-bcc0695d6a0f7056aad1a019f44cae99] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^c-57012ca325b1319df1fc550712e4a0ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii)[^c-bcc0695d6a0f7056aad1a019f44cae99] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-57012ca325b1319df1fc550712e4a0ea]: Textual amendment: S. 23(4)(e)(ii) omitted (21.1.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [ss. 150(2)(a)](https://www.legislation.gov.uk/asc/2021/1/section/150/2/a), [175(1)(f)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/f)[(2)](https://www.legislation.gov.uk/asc/2021/1/section/175/2)
+[^c-57012ca325b1319df1fc550712e4a0ea]: Textual amendment: S. 23(4)(e)(ii) omitted (21.1.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [ss. 150(2)(a)](https://www.legislation.gov.uk/asc/2021/1/section/150/2/a), [175(1)(f)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/f)[(2)](https://www.legislation.gov.uk/asc/2021/1/section/175/2)
 
-[^key-bcc0695d6a0f7056aad1a019f44cae99]: Textual amendment: S. 23(4)(e)(iii) omitted (21.1.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [ss. 150(2)(a)](https://www.legislation.gov.uk/asc/2021/1/section/150/2/a), [175(1)(f)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/f)[(2)](https://www.legislation.gov.uk/asc/2021/1/section/175/2)
+[^c-bcc0695d6a0f7056aad1a019f44cae99]: Textual amendment: S. 23(4)(e)(iii) omitted (21.1.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [ss. 150(2)(a)](https://www.legislation.gov.uk/asc/2021/1/section/150/2/a), [175(1)(f)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/f)[(2)](https://www.legislation.gov.uk/asc/2021/1/section/175/2)

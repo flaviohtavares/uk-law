@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33ZB. Arrangements for provision of administrative and other services[^key-572cccbd886d7707ec061647ba6aeac9]
+## 33ZB. Arrangements for provision of administrative and other services[^c-572cccbd886d7707ec061647ba6aeac9]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ to have the function of discharging, on behalf of a party, any function of that 
 
 ## Annotations
 
-[^key-572cccbd886d7707ec061647ba6aeac9]: Textual amendment: S. 33ZB inserted (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 44(1)](https://www.legislation.gov.uk/ukpga/2011/20/section/44/1), [240(1)(c)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/1/c)
+[^c-572cccbd886d7707ec061647ba6aeac9]: Textual amendment: S. 33ZB inserted (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 44(1)](https://www.legislation.gov.uk/ukpga/2011/20/section/44/1), [240(1)(c)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/1/c)

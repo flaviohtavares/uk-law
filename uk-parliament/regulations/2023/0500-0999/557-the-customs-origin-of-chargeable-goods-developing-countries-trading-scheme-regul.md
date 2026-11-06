@@ -50,7 +50,7 @@ In accordance with section 17(8) of the Act, the following Regulations have been
 
 Further to section 28 of the Act, the Treasury in exercising the function of making these Regulations has had regard to international arrangements to which His Majesty’s Government in the United Kingdom is a party that are relevant to the exercise of that function.
 
-## 1. Citation, commencement, extent and application[^key-5ffb0204fe268f5963ad80cae5c512d9]
+## 1. Citation, commencement, extent and application[^c-5ffb0204fe268f5963ad80cae5c512d9]
 
 (1) These Regulations may be cited as the Customs (Origin of Chargeable Goods: Developing Countries Trading Scheme) Regulations 2023 and come into force on 19th June 2023.
 
@@ -61,7 +61,7 @@ Further to section 28 of the Act, the Treasury in exercising the function of mak
 - (a) that are imported into the United Kingdom in respect of which a liability to a charge to import duty[^f00002] is incurred under the Act, and
 - (b) in respect of which a claim is made for a preferential rate of import duty under the trade preference scheme established by regulation 5 of the DCTS Regulations.
 
-## 2. Interpretation[^key-711164e56c86a86d7e7463c8cd569471]
+## 2. Interpretation[^c-711164e56c86a86d7e7463c8cd569471]
 
 In these Regulations—
 
@@ -70,7 +70,7 @@ In these Regulations—
 - “**Chapter**” means a chapter of the Goods Classification Table;
 - “**the DCTS Regulations**” means the Trade Preference Scheme (Developing Countries Trading Scheme) Regulations 2023[^f00003];
 - “**declaration acceptance date**” means the date on which HMRC accepts a Customs declaration for the purposes of section 4(1) of the Act;
-- “[^key-85174813b4c7dc41f3f618b7ebeb89eb]**EP country**” has the meaning given in regulation 2(1) of the DCTS Regulations;
+- “[^c-85174813b4c7dc41f3f618b7ebeb89eb]**EP country**” has the meaning given in regulation 2(1) of the DCTS Regulations;
 - “**exporter**”, in relation to goods for exportation or for use as stores, means the person who exports an originating good, including the shipper of the goods and any person performing, in relation to other modes of transport, functions corresponding with those of a shipper;
 - “**ex-works price**” means—
   - (a) the price paid for the goods ex-works to the person who carried out the last processing in relation to those goods (“**P**”), including the value of all the materials used and all other costs relating to their production except any internal taxes which are, or may be, repaid when the goods obtained are exported, or
@@ -93,16 +93,16 @@ In these Regulations—
 - “**qualifying DCTS country**” has the meaning given in regulation 6(1) of the DCTS Regulations[^f00004];
 - “**qualifying DCTS goods**” has the meaning given in regulation 6(2) of the DCTS Regulations;
 - “**regional group**” means the qualifying DCTS countries and FTA partners listed in Column 1, or the group of qualifying DCTS countries and FTA partners listed in Column 2, of the table in Schedule 3;
-- “[^key-1ca081ae3a140bb294f439abf9193673]**SP country**” has the meaning given in regulation 2(1) of the DCTS Regulations;
+- “[^c-1ca081ae3a140bb294f439abf9193673]**SP country**” has the meaning given in regulation 2(1) of the DCTS Regulations;
 - “**sub-heading**” means a sub-heading of the Goods Classification Table;
 - “**the Tariff Regulations**” means the Customs Tariff (Establishment) (EU Exit) Regulations 2020[^f00005];
 - “**value**” has the meaning given in regulation 9.
 
-## 3. Revocation of the Customs (Origin of Chargeable Goods: Trade Preference Scheme) (EU Exit) Regulations 2020[^key-265248e7dc8bd4bdab31967c3efc8f3e]
+## 3. Revocation of the Customs (Origin of Chargeable Goods: Trade Preference Scheme) (EU Exit) Regulations 2020[^c-265248e7dc8bd4bdab31967c3efc8f3e]
 
 The Customs (Origin of Chargeable Goods: Trade Preference Scheme) (EU Exit) Regulations 2020[^f00006] are revoked.
 
-## 4. Conditions that must be met for goods to be regarded as originating from a qualifying DCTS country[^key-893582595e49aca34246124e8c3773aa]
+## 4. Conditions that must be met for goods to be regarded as originating from a qualifying DCTS country[^c-893582595e49aca34246124e8c3773aa]
 
 Qualifying DCTS goods listed in Columns 1 and 2 of the tables in Part 2 and Part 3 of Schedule 1 are to be regarded as originating from a qualifying DCTS country if—
 
@@ -112,14 +112,14 @@ Qualifying DCTS goods listed in Columns 1 and 2 of the tables in Part 2 and Part
 - (d) in the case of returned goods, the requirements set out in regulation 23 are met;
 - (e) the non-manipulation requirements set out in regulation 24(1) are met.
 
-## 5. Evidence required for goods to be regarded as originating from a qualifying DCTS country[^key-eb7f1bb4487173e39da90c1ddf65f629]
+## 5. Evidence required for goods to be regarded as originating from a qualifying DCTS country[^c-eb7f1bb4487173e39da90c1ddf65f629]
 
 The evidence requirements referred to in regulation 4(a) are that—
 
 - (a) the qualifying DCTS goods are accompanied by the documents or other evidence specified in a public notice given by HMRC Commissioners under paragraph 7(1)(b) of Schedule 1 to the Act, and
 - (b) the exporter of the goods has complied, to the satisfaction of an HMRC officer, with the applicable arrangements and obligations specified in a notice published by HMRC Commissioners relating to the provision of evidence of the origin of the goods.
 
-## 6. HMRC notices of arrangements relating to the provision and verification of evidence[^key-a447cbe33c051caeee5a35ecc85db093]
+## 6. HMRC notices of arrangements relating to the provision and verification of evidence[^c-a447cbe33c051caeee5a35ecc85db093]
 
 HMRC Commissioners may publish a notice relating to one or more of the following—
 
@@ -127,7 +127,7 @@ HMRC Commissioners may publish a notice relating to one or more of the following
 - (b) the arrangements for verification of any evidence referred to in regulation 5(a);
 - (c) the arrangements and obligations relating to the provision of evidence of the origin of the goods referred to in regulation 5(b).
 
-## 7. Wholly obtained goods[^key-c2a0929c6318f50bdc516d91db6dca09]
+## 7. Wholly obtained goods[^c-c2a0929c6318f50bdc516d91db6dca09]
 
 (1) In Part 1 of the Act and in Column 3 of the tables in Part 2 and Part 3 of Schedule 1 to these Regulations, any reference to goods being wholly obtained in a country or territory includes the following specified cases—
 
@@ -151,12 +151,12 @@ HMRC Commissioners may publish a notice relating to one or more of the following
 
 (2) For the purposes of intra-regional cumulation under regulation 18, goods specified in paragraph (1)(g) and (h) must be regarded as originating from the qualifying DCTS country under whose flag the vessel or factory ship sails.
 
-## 8. Processing: important stage of manufacture condition[^key-34bb00adbe1f1f7fd3f1c55ef2d89f0b]
+## 8. Processing: important stage of manufacture condition[^c-34bb00adbe1f1f7fd3f1c55ef2d89f0b]
 
 (1) Subject to the derogation in regulation 11(1), the processing of goods constitutes an important stage of manufacture if the processing meets the conditions specified—
 
 - (a) in respect of LDCs in Part 2 of Schedule 1;
-- (b) for other qualifying DCTS countries in Part 3 or, where applicable, Part 4[^key-8909af25ebee8b25521b6a44b65acdd2] of Schedule 1.
+- (b) for other qualifying DCTS countries in Part 3 or, where applicable, Part 4[^c-8909af25ebee8b25521b6a44b65acdd2] of Schedule 1.
 
 (2) For the purposes of paragraph (1), the processing of goods only by one or more of the following operations does not constitute an important stage of manufacture—
 
@@ -179,7 +179,7 @@ HMRC Commissioners may publish a notice relating to one or more of the following
 
 (3) An operation described as simple in paragraph (2) is to be regarded as simple if no specialist skills, or machines, apparatus or tools especially produced or installed for it, are required for it to be carried out.
 
-## 9. Valuation[^key-ccf2157153a342f04879041b93abe63c]
+## 9. Valuation[^c-ccf2157153a342f04879041b93abe63c]
 
 (1) “**Value**”, in relation to a material, means—
 
@@ -190,7 +190,7 @@ HMRC Commissioners may publish a notice relating to one or more of the following
 
 (3) In paragraph (1)(a), “**GATT**” means the General Agreement on Tariffs and Trade 1994 (GATT) (being part of Annex 1A to the Agreement establishing the World Trade Organization (WTO) signed in Marrakesh on 15th April 1994[^f00007]).
 
-## 10. Averages[^key-a960e685e9d36f269478e3bd6384f05d]
+## 10. Averages[^c-a960e685e9d36f269478e3bd6384f05d]
 
 (1) Where the conditions specified in the tables in Part 2 and Part 3 of Schedule 1 refer to a maximum content of non-originating materials, this may be determined by reference to—
 
@@ -206,7 +206,7 @@ HMRC Commissioners may publish a notice relating to one or more of the following
 - “**fiscal year**” means the year, beginning with the same date each year, defined by the exporter;
 - “**reference period**” means the preceding fiscal year or, where figures for a complete preceding fiscal year are not available, a shorter period of at least three months in the preceding fiscal year.
 
-## 11. Derogation in respect of use of non-originating materials[^key-eeb21a4ca2c2464b81f0c64c67af93c1]
+## 11. Derogation in respect of use of non-originating materials[^c-eeb21a4ca2c2464b81f0c64c67af93c1]
 
 (1) Non-originating materials which, according to the conditions set out in the tables in Part 2 and Part 3 of Schedule 1, are not to be used in the manufacture of the goods, may nevertheless be used provided that—
 
@@ -218,7 +218,7 @@ HMRC Commissioners may publish a notice relating to one or more of the following
 
 (3) The allowance under the derogation in paragraph (1) applies to the sum of all the materials used in the manufacture of the goods where the condition in respect of those goods as set out in the tables in Part 2 and Part 3 of Schedule 1 is that such materials be wholly obtained in the qualifying DCTS country, but this does not affect the application of regulations 8(2) and 12(1).
 
-## 12. Consignments of identical goods and packaging[^key-18513f1eda1119b45b5c8cb7dff2ee93]
+## 12. Consignments of identical goods and packaging[^c-18513f1eda1119b45b5c8cb7dff2ee93]
 
 (1) For the purposes of these Regulations, if a consignment consists of several goods, the origin of each good must be individually determined, including where the consignment consists of substantively identical goods classified under the same sub-heading.
 
@@ -226,21 +226,21 @@ HMRC Commissioners may publish a notice relating to one or more of the following
 
 (3) In this regulation, “**the Tariff of the United Kingdom**” has the meaning given in regulation 1(2) of the Tariff Regulations.
 
-## 13. Accessories, spare parts and tools[^key-0920784c9b5baeb5dad06c65c6be8c8c]
+## 13. Accessories, spare parts and tools[^c-0920784c9b5baeb5dad06c65c6be8c8c]
 
 Accessories, spare parts and tools dispatched with a piece of equipment, machine, apparatus or vehicle which are part of the normal equipment and included in its price or which are not separately invoiced—
 
 - (a) are to be regarded as having the same origin as the piece of equipment, machine, apparatus or vehicle;
 - (b) may be taken into account when determining the originating status of the equipment, machine, apparatus or vehicle under regulation 4.
 
-## 14. Sets[^key-f036d52bed9c8f91860ef2e382b046e3]
+## 14. Sets[^c-f036d52bed9c8f91860ef2e382b046e3]
 
 Goods in a set for retail sale are to be regarded as goods originating from a qualifying DCTS country if—
 
 - (a) all the components are originating goods, or
 - (b) where the set is composed of a mixture of originating goods and non-originating goods, the value of the non-originating goods does not exceed 15% of the ex-works price of the set.
 
-## 15. Neutral elements[^key-e3c4d179fc0555d94f51717aa90c2a90]
+## 15. Neutral elements[^c-e3c4d179fc0555d94f51717aa90c2a90]
 
 (1) In determining the origin of goods, neutral elements used to process, or used in the course of processing, the goods are to be disregarded.
 
@@ -250,7 +250,7 @@ Goods in a set for retail sale are to be regarded as goods originating from a qu
 - (b) plant or equipment, including machinery and tools;
 - (c) materials which do not form part of, or are not integral to, the final composition of the goods.
 
-## 16. Derogation in respect of specified goods[^key-c38fe2951cc2661d9e91e8d741339b99]
+## 16. Derogation in respect of specified goods[^c-c38fe2951cc2661d9e91e8d741339b99]
 
 (1) The Secretary of State may, by notice, grant a temporary derogation in respect of specified goods from a qualifying DCTS country from the provisions of these Regulations where one or both grounds set out in paragraph (2) are met.
 
@@ -266,7 +266,7 @@ Goods in a set for retail sale are to be regarded as goods originating from a qu
 
 (4) The duration of the temporary derogation must be limited to the duration of the effects of the circumstances giving rise to it or the length of time needed for exporters from the qualifying DCTS country to meet the conditions referred to in paragraph (2)(a).
 
-## 17. Bilateral cumulation with the British Islands, a British overseas territory, the European Union, Norway and Switzerland[^key-dd069f78981620efada18c6a521e03d3]
+## 17. Bilateral cumulation with the British Islands, a British overseas territory, the European Union, Norway and Switzerland[^c-dd069f78981620efada18c6a521e03d3]
 
 (1) An exporter may regard goods originating from the British Islands, a British overseas territory, the European Union, Norway or Switzerland as goods originating from a qualifying DCTS country if the conditions set out in paragraph (2) are met.
 
@@ -282,7 +282,7 @@ Goods in a set for retail sale are to be regarded as goods originating from a qu
 - “**bilateral cumulation**” refers to the treatment of goods originating from the British Islands, a British overseas territory, the European Union, Norway or Switzerland as goods originating from a qualifying DCTS country in the circumstances described in paragraph (1);
 - “**British overseas territory**” does not include Gibraltar or the Sovereign Base Areas of Akrotiri and Dhekelia.
 
-## 18. Intra-regional cumulation: countries in the same regional group[^key-28806fab3ac77b0ffac46e0303fa77ba]
+## 18. Intra-regional cumulation: countries in the same regional group[^c-28806fab3ac77b0ffac46e0303fa77ba]
 
 (1) An exporter may regard the goods in paragraph (2) as goods originating from a qualifying DCTS country (in this regulation, “the cumulating DCTS country”) if the conditions set out in paragraph (3) are met.
 
@@ -320,7 +320,7 @@ Goods in a set for retail sale are to be regarded as goods originating from a qu
 - “**intra-regional cumulation**” refers to the treatment of goods originating from a qualifying DCTS country or an FTA partner country in the same regional group as another qualifying DCTS country (“**C**”) as goods originating from C in the circumstances described in this regulation;
 - “**DCTS rate**” has the meaning given in regulation 2(1) of the DCTS Regulations.
 
-## 19. Inter-regional cumulation: qualifying DCTS countries in different regional groups[^key-25302af81d83c4063dfe5b952c99d9fd]
+## 19. Inter-regional cumulation: qualifying DCTS countries in different regional groups[^c-25302af81d83c4063dfe5b952c99d9fd]
 
 (1) An exporter may regard the goods in paragraph (2) as goods originating from a qualifying DCTS country (in this regulation, “the cumulating DCTS country”) if—
 
@@ -356,7 +356,7 @@ Goods in a set for retail sale are to be regarded as goods originating from a qu
 
 (7) In this regulation, “**inter-regional cumulation**” refers to the treatment of goods originating from a qualifying DCTS country (“**B**”) in a regional group as goods originating from another qualifying DCTS country in a regional group (“**C**”), where C is in a different regional group to B, in the circumstances described in this regulation.
 
-## 20. Extended cumulation[^key-960a9dc22d052c4dab08d69b527ecd70]
+## 20. Extended cumulation[^c-960a9dc22d052c4dab08d69b527ecd70]
 
 (1) An exporter may regard goods originating from a country or territory in accordance with a trade arrangement between that country or territory (in this regulation, “the TA country”) and the United Kingdom, implemented under section 9 of the Act (preferential rates: arrangements with countries or territories outside the UK), as goods originating from a qualifying DCTS country (in this regulation, “the cumulating beneficiary country”) if—
 
@@ -383,7 +383,7 @@ Goods in a set for retail sale are to be regarded as goods originating from a qu
 
 (5) In this regulation, “**extended cumulation**” refers to the treatment of goods originating from a country or territory, in accordance with a trade arrangement between that country or territory and the United Kingdom and implemented under section 9 of the Act, as goods originating from a qualifying DCTS country in the circumstances described in paragraph (1).
 
-## 21. Extended cumulation for least developed countries[^key-70ea5ae83cad6d46e5eaab48a960a156]
+## 21. Extended cumulation for least developed countries[^c-70ea5ae83cad6d46e5eaab48a960a156]
 
 (1) An exporter may regard the goods in paragraph (2) as goods originating from an LDC (in this regulation, “the cumulating LDC”) if the conditions in paragraph (3) are met.
 
@@ -401,7 +401,7 @@ Goods in a set for retail sale are to be regarded as goods originating from a qu
 
 (4) In this regulation, “**cumulating partner**” refers to a country that an exporter in an LDC may cumulate with under paragraph (2)(a) and (b) of this regulation.
 
-## 22. Product specific rule safeguard measure[^key-9b8f4a80ab88630a1cec2537fc8133fa]
+## 22. Product specific rule safeguard measure[^c-9b8f4a80ab88630a1cec2537fc8133fa]
 
 (1) The Secretary of State may publish a product specific rule notice, varying the conditions for processing to constitute an important stage of manufacture in LDCs for specified goods, where the Secretary of State determines that—
 
@@ -433,14 +433,14 @@ Goods in a set for retail sale are to be regarded as goods originating from a qu
 - “**like goods**” means goods which are like the specified goods in question in all respects, or have characteristics closely resembling those of the specified goods in question;
 - “**specified goods**” means goods of Chapter 11 and heading 2309.
 
-## 23. Requirements relating to the originating status of returned goods[^key-f87776e0dd0f938a33aef2d148b7596a]
+## 23. Requirements relating to the originating status of returned goods[^c-f87776e0dd0f938a33aef2d148b7596a]
 
 If originating goods exported from a qualifying DCTS country (“the exporting country”) to another country or territory (“the importing country”) have been returned to the exporting country, they are to be regarded as not originating from the exporting country unless it can be demonstrated to the satisfaction of an HMRC officer that the returned goods—
 
 - (a) are the same as those which were exported, and
 - (b) have not undergone any operations beyond those necessary to preserve their condition while in a country other than the exporting country or during transportation.
 
-## 24. Non-manipulation requirements in relation to goods[^key-83d82d964ffa66d3b907fad847262761]
+## 24. Non-manipulation requirements in relation to goods[^c-83d82d964ffa66d3b907fad847262761]
 
 (1) The requirements mentioned in regulation 4(e) are that the goods must, at the declaration acceptance date—
 
@@ -460,7 +460,7 @@ If originating goods exported from a qualifying DCTS country (“the exporting c
 
 (4) To enable an HMRC officer to verify that the requirements set out in paragraphs (1) to (3) have been met, the declarant must, if required, provide relevant evidence including any contractual transport documents (including bills of lading), evidence based on the marking or numbering of packages and other evidence related to the goods themselves.
 
-## 25. Accounting segregation of exporters’ stocks of fungible materials[^key-f8322d3b1a8114db1a985fa4f56719b8]
+## 25. Accounting segregation of exporters’ stocks of fungible materials[^c-f8322d3b1a8114db1a985fa4f56719b8]
 
 (1) If fungible originating materials and fungible non-originating materials are used in the processing of goods, HMRC may, at the written request of an exporter established in the United Kingdom, authorise the management of the materials in the United Kingdom using the accounting segregation method for the purpose of subsequent export to a qualifying DCTS country within the framework of bilateral cumulation, without keeping the materials on separate stocks.
 
@@ -490,37 +490,37 @@ Regulation 8(1)
 
 ### PART 1 — Introductory notes
 
-#### Note 1 – The structure of the tables in Parts 2, 3, and 4 of this Schedule[^key-a4045f29847dcce3ae2937148f10ca10]
+#### Note 1 – The structure of the tables in Parts 2, 3, and 4 of this Schedule[^c-a4045f29847dcce3ae2937148f10ca10]
 
-**1.1.**[^key-4c16e5d9213a448c1910c422a35b1992] Where the entry in Column 1 is prefixed by ‘ex’, the condition in Column 3 applies only to the part of that Chapter, heading or sub-heading as described in Column 2.
+**1.1.**[^c-4c16e5d9213a448c1910c422a35b1992] Where the entry in Column 1 is prefixed by ‘ex’, the condition in Column 3 applies only to the part of that Chapter, heading or sub-heading as described in Column 2.
 
-**1.2.**[^key-e34c9dbf2d7a262aaeaa7bba8223710f] Where several headings or sub-headings are grouped together in Column 1 or a Chapter number is given and the description of goods in Column 2 is therefore given in general terms, the corresponding condition in Column 3 applies to all goods which are classified in headings of the Chapter or in any of the headings or sub-headings grouped together in Column 1.
+**1.2.**[^c-e34c9dbf2d7a262aaeaa7bba8223710f] Where several headings or sub-headings are grouped together in Column 1 or a Chapter number is given and the description of goods in Column 2 is therefore given in general terms, the corresponding condition in Column 3 applies to all goods which are classified in headings of the Chapter or in any of the headings or sub-headings grouped together in Column 1.
 
-**1.3.**[^key-2d8a4b336dd27641a72c8ecbe0aba828] Where there are different conditions in the table applying to different goods within a heading, each row contains the description of that part of the heading covered by the corresponding condition in Column 3.
+**1.3.**[^c-2d8a4b336dd27641a72c8ecbe0aba828] Where there are different conditions in the table applying to different goods within a heading, each row contains the description of that part of the heading covered by the corresponding condition in Column 3.
 
-**1.4.**[^key-6e4447f5475715bf1cf9a38b0ffee1ed] The conditions set out in the table in Part 2 apply to LDCs. The conditions set out in the table in Part 3 are applicable to all other qualifying DCTS countries, unless Column 1 includes the words “SP countries only”. Where those words are included, the corresponding condition in Column 3 only applies to SP countries. The conditions set out in the table in Part 4 apply to EP countries. The conditions set out in the table in Part 3[^key-3aa188e1ecd38da917664b8ffe5c443e] are also applicable to exports from the British Islands, a British overseas territory, the European Union, Norway or Switzerland to a qualifying DCTS country for the purposes of bilateral cumulation under regulation 17 of these Regulations.
+**1.4.**[^c-6e4447f5475715bf1cf9a38b0ffee1ed] The conditions set out in the table in Part 2 apply to LDCs. The conditions set out in the table in Part 3 are applicable to all other qualifying DCTS countries, unless Column 1 includes the words “SP countries only”. Where those words are included, the corresponding condition in Column 3 only applies to SP countries. The conditions set out in the table in Part 4 apply to EP countries. The conditions set out in the table in Part 3[^c-3aa188e1ecd38da917664b8ffe5c443e] are also applicable to exports from the British Islands, a British overseas territory, the European Union, Norway or Switzerland to a qualifying DCTS country for the purposes of bilateral cumulation under regulation 17 of these Regulations.
 
-**1.5.**[^key-91d3063c4c5abbff7a65d7f83d3057bf] Where a condition specifies that a good must be manufactured from a particular material, the condition does not prevent the use also of other materials which, because of their inherent nature, cannot meet the condition.
+**1.5.**[^c-91d3063c4c5abbff7a65d7f83d3057bf] Where a condition specifies that a good must be manufactured from a particular material, the condition does not prevent the use also of other materials which, because of their inherent nature, cannot meet the condition.
 
 #### Note 2 – General provisions concerning certain agricultural goods
 
-**2.1.**[^key-a5dfe0adb9992a73b3ac6693b2a0900f] Agricultural goods falling within Chapters 6, 7, 8, 9, 10, 12 and heading 2401 which are grown or harvested in a qualifying DCTS country are to be treated as originating from that country, even if grown from seeds, bulbs, rootstock, cuttings, grafts, shoots, buds, or other live parts of plants imported from another country or territory.
+**2.1.**[^c-a5dfe0adb9992a73b3ac6693b2a0900f] Agricultural goods falling within Chapters 6, 7, 8, 9, 10, 12 and heading 2401 which are grown or harvested in a qualifying DCTS country are to be treated as originating from that country, even if grown from seeds, bulbs, rootstock, cuttings, grafts, shoots, buds, or other live parts of plants imported from another country or territory.
 
-**2.2.**[^key-94ab460f998b99991eeff25c92e7bd39] In cases where the content of non-originating material in a good is sugar and is subject to limitations, the weight of sugars of headings 1701 and 1702 used in the manufacture of the final good and used in the manufacture of the non-originating materials incorporated in the final good is taken into account for the calculation of such limitations.
+**2.2.**[^c-94ab460f998b99991eeff25c92e7bd39] In cases where the content of non-originating material in a good is sugar and is subject to limitations, the weight of sugars of headings 1701 and 1702 used in the manufacture of the final good and used in the manufacture of the non-originating materials incorporated in the final good is taken into account for the calculation of such limitations.
 
 #### Note 3 - Terminology used in respect of certain textile goods
 
-**3.1.**[^key-af740335cbd9fc0aba8f0e01c8db671d] The term “natural fibres” as used in the tables refers to fibres other than artificial or synthetic fibres. It is restricted to the stages before spinning takes place, including waste, and, unless otherwise specified, includes fibres which have been carded, combed or otherwise processed but which have not been spun. The term includes horsehair of heading 0511, silk of headings 5002 and 5003, wool-fibres and fine or coarse animal hair of headings 5101 to 5105, cotton fibres of headings 5201 to 5203 and other vegetable fibres of headings 5301 to 5305.
+**3.1.**[^c-af740335cbd9fc0aba8f0e01c8db671d] The term “natural fibres” as used in the tables refers to fibres other than artificial or synthetic fibres. It is restricted to the stages before spinning takes place, including waste, and, unless otherwise specified, includes fibres which have been carded, combed or otherwise processed but which have not been spun. The term includes horsehair of heading 0511, silk of headings 5002 and 5003, wool-fibres and fine or coarse animal hair of headings 5101 to 5105, cotton fibres of headings 5201 to 5203 and other vegetable fibres of headings 5301 to 5305.
 
-**3.2.**[^key-4e28c03a19195cdaa89495c6d8705bfe] The terms “textile pulp”, “chemical materials” and “paper-making materials” as used in the tables describe the materials not classified in Chapters 50 to 63 which can be used to manufacture artificial, synthetic or paper fibres or yarns.
+**3.2.**[^c-4e28c03a19195cdaa89495c6d8705bfe] The terms “textile pulp”, “chemical materials” and “paper-making materials” as used in the tables describe the materials not classified in Chapters 50 to 63 which can be used to manufacture artificial, synthetic or paper fibres or yarns.
 
-**3.3.**[^key-224665e15c0d64c9e691f900c3c0293e] The term “man-made staple fibres” as used in the tables refers to synthetic or artificial filament tow, staple fibres or waste, of headings 5501 to 5507.
+**3.3.**[^c-224665e15c0d64c9e691f900c3c0293e] The term “man-made staple fibres” as used in the tables refers to synthetic or artificial filament tow, staple fibres or waste, of headings 5501 to 5507.
 
 #### Note 4 - Tolerances applicable to goods made of a mixture of textile materials
 
-**4.1.**[^key-8863ec20a8f16922844a7452babf0223] Where, in relation to a good in the table in Part 2, 3, or 4[^key-5e3a772bac47c824f3e44c9a35f937a3], reference is made to this Note, the conditions set out in Column 3 are not required to be applied to any basic textile materials used in the manufacture of the good and which, taken together, represent 10% or less of the total weight of all the basic textile materials used (see also Notes 4.3 and 4.4).
+**4.1.**[^c-8863ec20a8f16922844a7452babf0223] Where, in relation to a good in the table in Part 2, 3, or 4[^c-5e3a772bac47c824f3e44c9a35f937a3], reference is made to this Note, the conditions set out in Column 3 are not required to be applied to any basic textile materials used in the manufacture of the good and which, taken together, represent 10% or less of the total weight of all the basic textile materials used (see also Notes 4.3 and 4.4).
 
-**4.2.**[^key-e08b063c76489f9902e58ca299ddd453] However, the tolerance mentioned in Note 4.1 may be applied only to mixed goods which have been made from two or more basic textile materials. The following are the basic textile materials:
+**4.2.**[^c-e08b063c76489f9902e58ca299ddd453] However, the tolerance mentioned in Note 4.1 may be applied only to mixed goods which have been made from two or more basic textile materials. The following are the basic textile materials:
 
 - silk;
 - wool;
@@ -563,25 +563,25 @@ Example:
 
 A woollen fabric, of heading 5112, made from woollen yarn of heading 5107 and synthetic yarn of staple fibres of heading 5509, is a mixed fabric. Therefore, synthetic yarn which does not satisfy the conditions, or woollen yarn which does not satisfy the conditions, or a combination of the two, may be used, provided that their total weight does not exceed 10% of the weight of the fabric.
 
-**4.3.**[^key-d000d9569a19517f9e49ad123b5c0883] In the case of goods incorporating “yarn made of polyurethane segmented with flexible segments of polyether, whether or not gimped”, the tolerance is 20% in respect of this yarn.
+**4.3.**[^c-d000d9569a19517f9e49ad123b5c0883] In the case of goods incorporating “yarn made of polyurethane segmented with flexible segments of polyether, whether or not gimped”, the tolerance is 20% in respect of this yarn.
 
-**4.4.**[^key-2c062f2a560fe66f405f25ae614468da] In the case of goods incorporating “strip consisting of a core of aluminium foil or of a core of plastic film whether or not coated with aluminium powder, of a width not exceeding 5 mm, sandwiched by means of a transparent or coloured adhesive between two layers of plastic film”, the tolerance is 30% in respect of this strip.
+**4.4.**[^c-2c062f2a560fe66f405f25ae614468da] In the case of goods incorporating “strip consisting of a core of aluminium foil or of a core of plastic film whether or not coated with aluminium powder, of a width not exceeding 5 mm, sandwiched by means of a transparent or coloured adhesive between two layers of plastic film”, the tolerance is 30% in respect of this strip.
 
 #### Note 5 — Other tolerances applicable to certain textile goods
 
-**5.1.**[^key-f373dda5e011b8710d73c82e9a298532] Where, in the table in Part 2, 3, or 4[^key-2dc08a05f3049a1fb510c438012b195e], reference is made to this Note, textile materials which do not satisfy the condition set out in Column 3 for the made-up good concerned, may be used, provided that they are classified in a heading other than that of the good and that their value does not exceed 8% of the ex-works price of the good.
+**5.1.**[^c-f373dda5e011b8710d73c82e9a298532] Where, in the table in Part 2, 3, or 4[^c-2dc08a05f3049a1fb510c438012b195e], reference is made to this Note, textile materials which do not satisfy the condition set out in Column 3 for the made-up good concerned, may be used, provided that they are classified in a heading other than that of the good and that their value does not exceed 8% of the ex-works price of the good.
 
-**5.2.**[^key-97b300ed1531cb9083f94dc972c3e0b9] Without prejudice to Note 5.3, materials which are not classified within Chapters 50 to 63 may be used freely in the manufacture of textile goods, whether or not they contain textiles.
+**5.2.**[^c-97b300ed1531cb9083f94dc972c3e0b9] Without prejudice to Note 5.3, materials which are not classified within Chapters 50 to 63 may be used freely in the manufacture of textile goods, whether or not they contain textiles.
 
 Example:
 
 If a condition in the tables provides that, for a particular textile item (such as trousers), yarn must be used, this does not prevent the use of metal items, such as buttons, because buttons are not classified within Chapters 50 to 63. For the same reason, it does not prevent the use of slide-fasteners, even though slide-fasteners normally contain textiles.
 
-**5.3.**[^key-9fd6365947e88eeb2b083d643e0fdffe] Where a percentage-rule applies, the value of non-originating materials which are not classified within Chapters 50 to 63 must be taken into account when calculating the value of the non-originating materials incorporated.
+**5.3.**[^c-9fd6365947e88eeb2b083d643e0fdffe] Where a percentage-rule applies, the value of non-originating materials which are not classified within Chapters 50 to 63 must be taken into account when calculating the value of the non-originating materials incorporated.
 
 #### Note 6— Definitions of specific processes and simple operations carried out in respect of certain goods of Chapter 27
 
-**6.1.**[^key-cd3f08db7a97558c42e461686166dcac] For the purposes of headings ex 2707 and 2713, the “specific processes” are the following:
+**6.1.**[^c-cd3f08db7a97558c42e461686166dcac] For the purposes of headings ex 2707 and 2713, the “specific processes” are the following:
 
 - vacuum-distillation;
 - redistillation by a very thorough fractionation-process;
@@ -593,7 +593,7 @@ If a condition in the tables provides that, for a particular textile item (such 
 - alkylation;
 - isomerisation.
 
-**6.2.**[^key-716f0392d118f951f10eabb7eb6145fa] For the purposes of headings 2710, 2711 and 2712, the “specific processes” are the following:
+**6.2.**[^c-716f0392d118f951f10eabb7eb6145fa] For the purposes of headings 2710, 2711 and 2712, the “specific processes” are the following:
 
 - vacuum-distillation;
 - redistillation by a very thorough fractionation-process;
@@ -611,9 +611,9 @@ If a condition in the tables provides that, for a particular textile item (such 
 - in respect of heavy oils other than gas oils and fuel oils of heading 2710 only, treatment by means of a high-frequency electrical brush-discharge;
 - in respect of crude goods (other than petroleum jelly, ozokerite, lignite wax or peat wax, paraffin wax containing by weight less than 0.75% of oil) of heading 2712 only, de-oiling by fractional crystallisation.
 
-**6.3.**[^key-7be8a2222a662a3256a3644cf2bc9b30] For the purposes of headings ex 2707 and 2713, simple operations, such as cleaning, decanting, desalting, water-separation, filtering, colouring, marking, obtaining a sulphur-content as a result of mixing goods with different sulphur-contents, or any combination of these operations or like operations, do not constitute an important stage of manufacture.
+**6.3.**[^c-7be8a2222a662a3256a3644cf2bc9b30] For the purposes of headings ex 2707 and 2713, simple operations, such as cleaning, decanting, desalting, water-separation, filtering, colouring, marking, obtaining a sulphur-content as a result of mixing goods with different sulphur-contents, or any combination of these operations or like operations, do not constitute an important stage of manufacture.
 
-### PART 2 — Conditions which must be met for the processing of goods to constitute an important stage of manufacture in LDCs[^key-56e624a104614728ad3e09da85105a83]
+### PART 2 — Conditions which must be met for the processing of goods to constitute an important stage of manufacture in LDCs[^c-56e624a104614728ad3e09da85105a83]
 
 <table>
 <thead>
@@ -764,9 +764,9 @@ If a condition in the tables provides that, for a particular textile item (such 
 </tbody>
 </table>
 
-[^f01000][^f01000][^f01001][^f01001][^f01001][^f01001][^f01001][^f01001][^f01001][^f01001][^f01001][^f01001][^f01001][^f01001][^f01001][^f01001][^f01001][^f01001][^f01001][^f01002][^f01001][^key-435568535d189613faf5b27753aeb1b0][^key-c61acbe0bb6638146347802bc6d56a18][^key-b35fb2a2b81e627a1c7ebb9919ae9653][^key-138e929c06961cc70dda6992b0cb2e00][^key-cd95c0e81bb7909a0b34a6eef486f8ac][^f01001][^key-5fd164646590d22ce7874e3c1d084f99][^key-14e46ae021bfc25ef47f7f19328cac8c][^key-59ada8aa04e4974b29a9f4a787d23088][^key-af85ec9f0d1a8b55c8dc9fed9f4ad33f][^f01001][^f01002][^f01002][^f01001][^f01002]
+[^f01000][^f01000][^f01001][^f01001][^f01001][^f01001][^f01001][^f01001][^f01001][^f01001][^f01001][^f01001][^f01001][^f01001][^f01001][^f01001][^f01001][^f01001][^f01001][^f01002][^f01001][^c-435568535d189613faf5b27753aeb1b0][^c-c61acbe0bb6638146347802bc6d56a18][^c-b35fb2a2b81e627a1c7ebb9919ae9653][^c-138e929c06961cc70dda6992b0cb2e00][^c-cd95c0e81bb7909a0b34a6eef486f8ac][^f01001][^c-5fd164646590d22ce7874e3c1d084f99][^c-14e46ae021bfc25ef47f7f19328cac8c][^c-59ada8aa04e4974b29a9f4a787d23088][^c-af85ec9f0d1a8b55c8dc9fed9f4ad33f][^f01001][^f01002][^f01002][^f01001][^f01002]
 
-### PART 3 — Conditions which must be met for the processing of goods to constitute an important stage of manufacture in other qualifying DCTS countries[^key-2e6e29f25dc8d23e4c1f01a258a6ee01]
+### PART 3 — Conditions which must be met for the processing of goods to constitute an important stage of manufacture in other qualifying DCTS countries[^c-2e6e29f25dc8d23e4c1f01a258a6ee01]
 
 <table>
 <thead>
@@ -1107,9 +1107,9 @@ If a condition in the tables provides that, for a particular textile item (such 
 </tbody>
 </table>
 
-[^f00010][^f01003][^f01003][^f01003][^f01003][^f01003][^f01003][^f01003][^f01003][^f01003][^f01003][^f01003][^f01003][^f01003][^f01003][^f01003][^f01003][^f01004][^f01005][^f01005][^f01005][^f01004][^f01006][^f01007][^f01008][^f01008][^f01008][^f01008][^f01008][^f01008][^f01008][^f01008][^f01008][^f01008][^f01008][^f01008][^f01008][^f01008][^f01008][^f01008][^f01008][^f01008][^f01008][^f01008][^f01008][^f01008][^f01008][^f01008][^key-822a2f6479a43e9726532379317c6131][^key-fcec519201c6d9effdfe8f9303499023][^f01008][^f01010][^key-215e32778fefd5720611724908c27667][^key-9aeb2299e00b6928e8c17aee22290119][^f01008][^key-3bdd7679f5e564842768518012f30d2f][^f01008][^f01010][^key-acfd0ee2c319e4d26c6655c3bd6bd2f7][^f01010][^key-443880d6e82a1fa5638d288a2b220e3a][^key-4ea2eb99b544e9304a4d9517486b3324][^f01008][^f01011][^key-d80a5451edd10748f9f18f36ec0377b5][^key-5d53949e662cb56aa89f22019deaf82d][^f01011][^key-d19121ddefcce15f4f5bad0988811061][^f01010][^key-4c8821017df07d90807692e8e4bed434][^f01010][^f01008][^f01010][^f01008][^f01010][^key-9797ff5e62815116d6d41d93f9746689][^f01010][^f01010][^f01010][^f01008][^f01010][^f01012][^f01008][^f01008][^f01010][^f01009]
+[^f00010][^f01003][^f01003][^f01003][^f01003][^f01003][^f01003][^f01003][^f01003][^f01003][^f01003][^f01003][^f01003][^f01003][^f01003][^f01003][^f01003][^f01004][^f01005][^f01005][^f01005][^f01004][^f01006][^f01007][^f01008][^f01008][^f01008][^f01008][^f01008][^f01008][^f01008][^f01008][^f01008][^f01008][^f01008][^f01008][^f01008][^f01008][^f01008][^f01008][^f01008][^f01008][^f01008][^f01008][^f01008][^f01008][^f01008][^f01008][^c-822a2f6479a43e9726532379317c6131][^c-fcec519201c6d9effdfe8f9303499023][^f01008][^f01010][^c-215e32778fefd5720611724908c27667][^c-9aeb2299e00b6928e8c17aee22290119][^f01008][^c-3bdd7679f5e564842768518012f30d2f][^f01008][^f01010][^c-acfd0ee2c319e4d26c6655c3bd6bd2f7][^f01010][^c-443880d6e82a1fa5638d288a2b220e3a][^c-4ea2eb99b544e9304a4d9517486b3324][^f01008][^f01011][^c-d80a5451edd10748f9f18f36ec0377b5][^c-5d53949e662cb56aa89f22019deaf82d][^f01011][^c-d19121ddefcce15f4f5bad0988811061][^f01010][^c-4c8821017df07d90807692e8e4bed434][^f01010][^f01008][^f01010][^f01008][^f01010][^c-9797ff5e62815116d6d41d93f9746689][^f01010][^f01010][^f01010][^f01008][^f01010][^f01012][^f01008][^f01008][^f01010][^f01009]
 
-### PART 4 — Conditions which must be met for the processing of goods to constitute an important stage of manufacture in EP countries[^key-d2ab1dab2e4c8d7fa2f5d2d8cdc692d1]
+### PART 4 — Conditions which must be met for the processing of goods to constitute an important stage of manufacture in EP countries[^c-d2ab1dab2e4c8d7fa2f5d2d8cdc692d1]
 
 <table>
 <thead>
@@ -1137,7 +1137,7 @@ If a condition in the tables provides that, for a particular textile item (such 
 
 [^f01000][^f01000][^f01000][^f01001]
 
-## SCHEDULE 2 — Materials which are to be excluded from intra-regional cumulation if the conditions set out in regulation 18(4) are met[^key-91ecb770502cf69516925722316413e6]
+## SCHEDULE 2 — Materials which are to be excluded from intra-regional cumulation if the conditions set out in regulation 18(4) are met[^c-91ecb770502cf69516925722316413e6]
 
 Regulation 18(4)
 
@@ -1169,7 +1169,7 @@ Regulation 18(4)
 | 3302  10  29 | Preparations of a kind used in the drink industries containing all flavouring agents characterising a beverage, other than of an actual alcoholic strength by volume exceeding 0.5  %, containing, by weight, more than 1,5  % milkfat, 5  % sucrose or isoglucose, 5  % glucose or starch | X | X |
 | 3505  10 | Dextrins and other modified starches | X | X |
 
-## SCHEDULE 3 — Regional groups[^key-6fe0661afe215df80331bca727c3f6d0]
+## SCHEDULE 3 — Regional groups[^c-6fe0661afe215df80331bca727c3f6d0]
 
 Regulation 2
 
@@ -1230,7 +1230,7 @@ Regulation 2
 | Tunisia |  |
 | Zimbabwe |  |
 
-## SCHEDULE 4 — Economic Partnership Agreements[^key-fcfdcd9d00c3a3f967835a83979155b8]
+## SCHEDULE 4 — Economic Partnership Agreements[^c-fcfdcd9d00c3a3f967835a83979155b8]
 
 Regulation 21
 
@@ -1262,127 +1262,127 @@ A full Impact Assessment has not been prepared for this instrument as the policy
 
 [^f00001]: Footnote: [2018 c. 22](https://www.legislation.gov.uk/ukpga/2018/22).
 
-[^key-5ffb0204fe268f5963ad80cae5c512d9]: Commencement: Reg. 1 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
+[^c-5ffb0204fe268f5963ad80cae5c512d9]: Commencement: Reg. 1 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
 
 [^f00002]: Footnote: See section 1 of the Act.
 
-[^key-711164e56c86a86d7e7463c8cd569471]: Commencement: Reg. 2 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
+[^c-711164e56c86a86d7e7463c8cd569471]: Commencement: Reg. 2 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
 
 [^f00003]: Footnote: [S.I. 2023/561](https://www.legislation.gov.uk/uksi/2023/561).
 
-[^key-85174813b4c7dc41f3f618b7ebeb89eb]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2023/557/regulation/2) inserted (1.1.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2025 (S.I. 2025/1289)](https://www.legislation.gov.uk/uksi/2025/1289), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/3/a)
+[^c-85174813b4c7dc41f3f618b7ebeb89eb]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2023/557/regulation/2) inserted (1.1.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2025 (S.I. 2025/1289)](https://www.legislation.gov.uk/uksi/2025/1289), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/3/a)
 
 [^f00004]: Footnote: For the meaning of “DCTS country”, see regulation 2(1) of the DCTS Regulations.
 
-[^key-1ca081ae3a140bb294f439abf9193673]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2023/557/regulation/2) inserted (1.1.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2025 (S.I. 2025/1289)](https://www.legislation.gov.uk/uksi/2025/1289), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/3/b)
+[^c-1ca081ae3a140bb294f439abf9193673]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2023/557/regulation/2) inserted (1.1.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2025 (S.I. 2025/1289)](https://www.legislation.gov.uk/uksi/2025/1289), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/3/b)
 
 [^f00005]: Footnote: [S.I. 2020/1430](https://www.legislation.gov.uk/uksi/2020/1430), amended by [S.I. 2022/981](https://www.legislation.gov.uk/uksi/2022/981).
 
-[^key-265248e7dc8bd4bdab31967c3efc8f3e]: Commencement: Reg. 3 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
+[^c-265248e7dc8bd4bdab31967c3efc8f3e]: Commencement: Reg. 3 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
 
 [^f00006]: Footnote: [S.I. 2020/1436](https://www.legislation.gov.uk/uksi/2020/1436).
 
-[^key-893582595e49aca34246124e8c3773aa]: Commencement: Reg. 4 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
+[^c-893582595e49aca34246124e8c3773aa]: Commencement: Reg. 4 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
 
-[^key-eb7f1bb4487173e39da90c1ddf65f629]: Commencement: Reg. 5 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
+[^c-eb7f1bb4487173e39da90c1ddf65f629]: Commencement: Reg. 5 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
 
-[^key-a447cbe33c051caeee5a35ecc85db093]: Commencement: Reg. 6 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
+[^c-a447cbe33c051caeee5a35ecc85db093]: Commencement: Reg. 6 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
 
-[^key-c2a0929c6318f50bdc516d91db6dca09]: Commencement: Reg. 7 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
+[^c-c2a0929c6318f50bdc516d91db6dca09]: Commencement: Reg. 7 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
 
-[^key-34bb00adbe1f1f7fd3f1c55ef2d89f0b]: Commencement: Reg. 8 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
+[^c-34bb00adbe1f1f7fd3f1c55ef2d89f0b]: Commencement: Reg. 8 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
 
-[^key-8909af25ebee8b25521b6a44b65acdd2]: Textual amendment: Words in [reg. 8(1)(b)](https://www.legislation.gov.uk/uksi/2023/557/regulation/8/1/b) substituted (1.1.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2025 (S.I. 2025/1289)](https://www.legislation.gov.uk/uksi/2025/1289), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2025/1289/regulation/4)
+[^c-8909af25ebee8b25521b6a44b65acdd2]: Textual amendment: Words in [reg. 8(1)(b)](https://www.legislation.gov.uk/uksi/2023/557/regulation/8/1/b) substituted (1.1.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2025 (S.I. 2025/1289)](https://www.legislation.gov.uk/uksi/2025/1289), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2025/1289/regulation/4)
 
-[^key-ccf2157153a342f04879041b93abe63c]: Commencement: Reg. 9 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
+[^c-ccf2157153a342f04879041b93abe63c]: Commencement: Reg. 9 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
 
 [^f00007]: Footnote: Cmnd 2575.
 
-[^key-a960e685e9d36f269478e3bd6384f05d]: Commencement: Reg. 10 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
+[^c-a960e685e9d36f269478e3bd6384f05d]: Commencement: Reg. 10 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
 
-[^key-eeb21a4ca2c2464b81f0c64c67af93c1]: Commencement: Reg. 11 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
+[^c-eeb21a4ca2c2464b81f0c64c67af93c1]: Commencement: Reg. 11 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
 
-[^key-18513f1eda1119b45b5c8cb7dff2ee93]: Commencement: Reg. 12 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
+[^c-18513f1eda1119b45b5c8cb7dff2ee93]: Commencement: Reg. 12 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
 
-[^key-0920784c9b5baeb5dad06c65c6be8c8c]: Commencement: Reg. 13 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
+[^c-0920784c9b5baeb5dad06c65c6be8c8c]: Commencement: Reg. 13 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
 
-[^key-f036d52bed9c8f91860ef2e382b046e3]: Commencement: Reg. 14 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
+[^c-f036d52bed9c8f91860ef2e382b046e3]: Commencement: Reg. 14 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
 
-[^key-e3c4d179fc0555d94f51717aa90c2a90]: Commencement: Reg. 15 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
+[^c-e3c4d179fc0555d94f51717aa90c2a90]: Commencement: Reg. 15 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
 
-[^key-c38fe2951cc2661d9e91e8d741339b99]: Commencement: Reg. 16 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
+[^c-c38fe2951cc2661d9e91e8d741339b99]: Commencement: Reg. 16 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
 
-[^key-dd069f78981620efada18c6a521e03d3]: Commencement: Reg. 17 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
+[^c-dd069f78981620efada18c6a521e03d3]: Commencement: Reg. 17 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
 
-[^key-28806fab3ac77b0ffac46e0303fa77ba]: Commencement: Reg. 18 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
+[^c-28806fab3ac77b0ffac46e0303fa77ba]: Commencement: Reg. 18 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
 
-[^key-25302af81d83c4063dfe5b952c99d9fd]: Commencement: Reg. 19 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
+[^c-25302af81d83c4063dfe5b952c99d9fd]: Commencement: Reg. 19 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
 
-[^key-960a9dc22d052c4dab08d69b527ecd70]: Commencement: Reg. 20 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
+[^c-960a9dc22d052c4dab08d69b527ecd70]: Commencement: Reg. 20 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
 
-[^key-70ea5ae83cad6d46e5eaab48a960a156]: Commencement: Reg. 21 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
+[^c-70ea5ae83cad6d46e5eaab48a960a156]: Commencement: Reg. 21 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
 
-[^key-9b8f4a80ab88630a1cec2537fc8133fa]: Commencement: Reg. 22 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
+[^c-9b8f4a80ab88630a1cec2537fc8133fa]: Commencement: Reg. 22 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
 
-[^key-f87776e0dd0f938a33aef2d148b7596a]: Commencement: Reg. 23 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
+[^c-f87776e0dd0f938a33aef2d148b7596a]: Commencement: Reg. 23 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
 
-[^key-83d82d964ffa66d3b907fad847262761]: Commencement: Reg. 24 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
+[^c-83d82d964ffa66d3b907fad847262761]: Commencement: Reg. 24 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
 
-[^key-f8322d3b1a8114db1a985fa4f56719b8]: Commencement: Reg. 25 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
+[^c-f8322d3b1a8114db1a985fa4f56719b8]: Commencement: Reg. 25 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
 
-[^key-a4045f29847dcce3ae2937148f10ca10]: Textual amendment: Words in Sch. 1 Pt. 1 Note 1 heading substituted (1.1.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2025 (S.I. 2025/1289)](https://www.legislation.gov.uk/uksi/2025/1289), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/6/2)
+[^c-a4045f29847dcce3ae2937148f10ca10]: Textual amendment: Words in Sch. 1 Pt. 1 Note 1 heading substituted (1.1.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2025 (S.I. 2025/1289)](https://www.legislation.gov.uk/uksi/2025/1289), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/6/2)
 
-[^key-4c16e5d9213a448c1910c422a35b1992]: Commencement: Sch. 1 Pt. 1 Note 1.1 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
+[^c-4c16e5d9213a448c1910c422a35b1992]: Commencement: Sch. 1 Pt. 1 Note 1.1 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
 
-[^key-e34c9dbf2d7a262aaeaa7bba8223710f]: Commencement: Sch. 1 Pt. 1 Note 1.2 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
+[^c-e34c9dbf2d7a262aaeaa7bba8223710f]: Commencement: Sch. 1 Pt. 1 Note 1.2 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
 
-[^key-2d8a4b336dd27641a72c8ecbe0aba828]: Commencement: Sch. 1 Pt. 1 Note 1.3 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
+[^c-2d8a4b336dd27641a72c8ecbe0aba828]: Commencement: Sch. 1 Pt. 1 Note 1.3 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
 
-[^key-6e4447f5475715bf1cf9a38b0ffee1ed]: Commencement: Sch. 1 Pt. 1 Note 1.4 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
+[^c-6e4447f5475715bf1cf9a38b0ffee1ed]: Commencement: Sch. 1 Pt. 1 Note 1.4 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
 
-[^key-3aa188e1ecd38da917664b8ffe5c443e]: Textual amendment: Words in Sch. 1 Pt. 1 Note 1.4 substituted (1.1.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2025 (S.I. 2025/1289)](https://www.legislation.gov.uk/uksi/2025/1289), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/1/1), [6(3)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/6/3)
+[^c-3aa188e1ecd38da917664b8ffe5c443e]: Textual amendment: Words in Sch. 1 Pt. 1 Note 1.4 substituted (1.1.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2025 (S.I. 2025/1289)](https://www.legislation.gov.uk/uksi/2025/1289), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/1/1), [6(3)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/6/3)
 
-[^key-91d3063c4c5abbff7a65d7f83d3057bf]: Commencement: Sch. 1 Pt. 1 Note 1.5 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
+[^c-91d3063c4c5abbff7a65d7f83d3057bf]: Commencement: Sch. 1 Pt. 1 Note 1.5 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
 
-[^key-a5dfe0adb9992a73b3ac6693b2a0900f]: Commencement: Sch. 1 Pt. 1 Note 2.1 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
+[^c-a5dfe0adb9992a73b3ac6693b2a0900f]: Commencement: Sch. 1 Pt. 1 Note 2.1 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
 
-[^key-94ab460f998b99991eeff25c92e7bd39]: Commencement: Sch. 1 Pt. 1 Note 2.2 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
+[^c-94ab460f998b99991eeff25c92e7bd39]: Commencement: Sch. 1 Pt. 1 Note 2.2 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
 
-[^key-af740335cbd9fc0aba8f0e01c8db671d]: Commencement: Sch. 1 Pt. 1 Note 3.1 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
+[^c-af740335cbd9fc0aba8f0e01c8db671d]: Commencement: Sch. 1 Pt. 1 Note 3.1 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
 
-[^key-4e28c03a19195cdaa89495c6d8705bfe]: Commencement: Sch. 1 Pt. 1 Note 3.2 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
+[^c-4e28c03a19195cdaa89495c6d8705bfe]: Commencement: Sch. 1 Pt. 1 Note 3.2 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
 
-[^key-224665e15c0d64c9e691f900c3c0293e]: Commencement: Sch. 1 Pt. 1 Note 3.3 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
+[^c-224665e15c0d64c9e691f900c3c0293e]: Commencement: Sch. 1 Pt. 1 Note 3.3 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
 
-[^key-8863ec20a8f16922844a7452babf0223]: Commencement: Sch. 1 Pt. 1 Note 4.1 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
+[^c-8863ec20a8f16922844a7452babf0223]: Commencement: Sch. 1 Pt. 1 Note 4.1 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
 
-[^key-5e3a772bac47c824f3e44c9a35f937a3]: Textual amendment: Words in Sch. 1 Pt. 1 Note 4.1 substituted (1.1.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2025 (S.I. 2025/1289)](https://www.legislation.gov.uk/uksi/2025/1289), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/1/1), [6(4)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/6/4)
+[^c-5e3a772bac47c824f3e44c9a35f937a3]: Textual amendment: Words in Sch. 1 Pt. 1 Note 4.1 substituted (1.1.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2025 (S.I. 2025/1289)](https://www.legislation.gov.uk/uksi/2025/1289), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/1/1), [6(4)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/6/4)
 
-[^key-e08b063c76489f9902e58ca299ddd453]: Commencement: Sch. 1 Pt. 1 Note 4.2 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
+[^c-e08b063c76489f9902e58ca299ddd453]: Commencement: Sch. 1 Pt. 1 Note 4.2 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
 
-[^key-d000d9569a19517f9e49ad123b5c0883]: Commencement: Sch. 1 Pt. 1 Note 4.3 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
+[^c-d000d9569a19517f9e49ad123b5c0883]: Commencement: Sch. 1 Pt. 1 Note 4.3 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
 
-[^key-2c062f2a560fe66f405f25ae614468da]: Commencement: Sch. 1 Pt. 1 Note 4.4 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
+[^c-2c062f2a560fe66f405f25ae614468da]: Commencement: Sch. 1 Pt. 1 Note 4.4 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
 
-[^key-f373dda5e011b8710d73c82e9a298532]: Commencement: Sch. 1 Pt. 1 Note 5.1 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
+[^c-f373dda5e011b8710d73c82e9a298532]: Commencement: Sch. 1 Pt. 1 Note 5.1 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
 
-[^key-2dc08a05f3049a1fb510c438012b195e]: Textual amendment: Words in Sch. 1 Pt. 1 Note 5.1 substituted (1.1.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2025 (S.I. 2025/1289)](https://www.legislation.gov.uk/uksi/2025/1289), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/1/1), [6(5)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/6/5)
+[^c-2dc08a05f3049a1fb510c438012b195e]: Textual amendment: Words in Sch. 1 Pt. 1 Note 5.1 substituted (1.1.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2025 (S.I. 2025/1289)](https://www.legislation.gov.uk/uksi/2025/1289), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/1/1), [6(5)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/6/5)
 
-[^key-97b300ed1531cb9083f94dc972c3e0b9]: Commencement: Sch. 1 Pt. 1 Note 5.2 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
+[^c-97b300ed1531cb9083f94dc972c3e0b9]: Commencement: Sch. 1 Pt. 1 Note 5.2 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
 
-[^key-9fd6365947e88eeb2b083d643e0fdffe]: Commencement: Sch. 1 Pt. 1 Note 5.3 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
+[^c-9fd6365947e88eeb2b083d643e0fdffe]: Commencement: Sch. 1 Pt. 1 Note 5.3 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
 
-[^key-cd3f08db7a97558c42e461686166dcac]: Commencement: Sch. 1 Pt. 1 Note 6.1 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
+[^c-cd3f08db7a97558c42e461686166dcac]: Commencement: Sch. 1 Pt. 1 Note 6.1 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
 
-[^key-716f0392d118f951f10eabb7eb6145fa]: Commencement: Sch. 1 Pt. 1 Note 6.2 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
+[^c-716f0392d118f951f10eabb7eb6145fa]: Commencement: Sch. 1 Pt. 1 Note 6.2 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
 
 [^f00008]: Footnote: A copy can be obtained from the American Society for Testing and Materials (ASTM), 100 Barr Harbor Drive, PO Box C700, West Conshohocken, PA, 19428-2959, U.S.A. (email: service@astm.org and website https://www.astm.org/CONTACT/index.html). A hard copy is available for inspection free of charge at the offices of HMRC at 100 Parliament Street, London SW1A 2BQ.
 
 [^f00009]: Footnote: See previous footnote for details of where to obtain or inspect a copy.
 
-[^key-7be8a2222a662a3256a3644cf2bc9b30]: Commencement: Sch. 1 Pt. 1 Note 6.3 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
+[^c-7be8a2222a662a3256a3644cf2bc9b30]: Commencement: Sch. 1 Pt. 1 Note 6.3 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
 
-[^key-56e624a104614728ad3e09da85105a83]: Commencement: Sch. 1 Pt. 2 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
+[^c-56e624a104614728ad3e09da85105a83]: Commencement: Sch. 1 Pt. 2 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
 
 [^f01000]: Footnote: (1)
 
@@ -1396,25 +1396,25 @@ A full Impact Assessment has not been prepared for this instrument as the policy
 
     See Note 5 in Part 1 of this Schedule.
 
-[^key-435568535d189613faf5b27753aeb1b0]: Textual amendment: Word in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2023/557/schedule/1/part/2) inserted (1.1.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2025 (S.I. 2025/1289)](https://www.legislation.gov.uk/uksi/2025/1289), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/1/1), [7(2)(a)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/7/2/a)
+[^c-435568535d189613faf5b27753aeb1b0]: Textual amendment: Word in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2023/557/schedule/1/part/2) inserted (1.1.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2025 (S.I. 2025/1289)](https://www.legislation.gov.uk/uksi/2025/1289), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/1/1), [7(2)(a)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/7/2/a)
 
-[^key-c61acbe0bb6638146347802bc6d56a18]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2023/557/schedule/1/part/2) substituted (1.1.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2025 (S.I. 2025/1289)](https://www.legislation.gov.uk/uksi/2025/1289), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/1/1), [7(2)(b)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/7/2/b)
+[^c-c61acbe0bb6638146347802bc6d56a18]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2023/557/schedule/1/part/2) substituted (1.1.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2025 (S.I. 2025/1289)](https://www.legislation.gov.uk/uksi/2025/1289), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/1/1), [7(2)(b)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/7/2/b)
 
-[^key-b35fb2a2b81e627a1c7ebb9919ae9653]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2023/557/schedule/1/part/2) inserted (1.1.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2025 (S.I. 2025/1289)](https://www.legislation.gov.uk/uksi/2025/1289), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/1/1), [7(3)(a)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/7/3/a)
+[^c-b35fb2a2b81e627a1c7ebb9919ae9653]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2023/557/schedule/1/part/2) inserted (1.1.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2025 (S.I. 2025/1289)](https://www.legislation.gov.uk/uksi/2025/1289), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/1/1), [7(3)(a)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/7/3/a)
 
-[^key-138e929c06961cc70dda6992b0cb2e00]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2023/557/schedule/1/part/2) inserted (1.1.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2025 (S.I. 2025/1289)](https://www.legislation.gov.uk/uksi/2025/1289), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/1/1), [7(3)(b)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/7/3/b)
+[^c-138e929c06961cc70dda6992b0cb2e00]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2023/557/schedule/1/part/2) inserted (1.1.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2025 (S.I. 2025/1289)](https://www.legislation.gov.uk/uksi/2025/1289), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/1/1), [7(3)(b)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/7/3/b)
 
-[^key-cd95c0e81bb7909a0b34a6eef486f8ac]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2023/557/schedule/1/part/2) inserted (1.1.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2025 (S.I. 2025/1289)](https://www.legislation.gov.uk/uksi/2025/1289), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/1/1), [7(3)(c)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/7/3/c)
+[^c-cd95c0e81bb7909a0b34a6eef486f8ac]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2023/557/schedule/1/part/2) inserted (1.1.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2025 (S.I. 2025/1289)](https://www.legislation.gov.uk/uksi/2025/1289), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/1/1), [7(3)(c)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/7/3/c)
 
-[^key-5fd164646590d22ce7874e3c1d084f99]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2023/557/schedule/1/part/2) inserted (1.1.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2025 (S.I. 2025/1289)](https://www.legislation.gov.uk/uksi/2025/1289), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/1/1), [7(4)(a)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/7/4/a)
+[^c-5fd164646590d22ce7874e3c1d084f99]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2023/557/schedule/1/part/2) inserted (1.1.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2025 (S.I. 2025/1289)](https://www.legislation.gov.uk/uksi/2025/1289), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/1/1), [7(4)(a)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/7/4/a)
 
-[^key-14e46ae021bfc25ef47f7f19328cac8c]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2023/557/schedule/1/part/2) omitted (1.1.2026) by virtue of [The Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2025 (S.I. 2025/1289)](https://www.legislation.gov.uk/uksi/2025/1289), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/1/1), [7(4)(b)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/7/4/b)
+[^c-14e46ae021bfc25ef47f7f19328cac8c]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2023/557/schedule/1/part/2) omitted (1.1.2026) by virtue of [The Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2025 (S.I. 2025/1289)](https://www.legislation.gov.uk/uksi/2025/1289), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/1/1), [7(4)(b)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/7/4/b)
 
-[^key-59ada8aa04e4974b29a9f4a787d23088]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2023/557/schedule/1/part/2) inserted (1.1.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2025 (S.I. 2025/1289)](https://www.legislation.gov.uk/uksi/2025/1289), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/1/1), [7(5)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/7/5)
+[^c-59ada8aa04e4974b29a9f4a787d23088]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2023/557/schedule/1/part/2) inserted (1.1.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2025 (S.I. 2025/1289)](https://www.legislation.gov.uk/uksi/2025/1289), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/1/1), [7(5)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/7/5)
 
-[^key-af85ec9f0d1a8b55c8dc9fed9f4ad33f]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2023/557/schedule/1/part/2) inserted (1.1.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2025 (S.I. 2025/1289)](https://www.legislation.gov.uk/uksi/2025/1289), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/1/1), [7(6)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/7/6)
+[^c-af85ec9f0d1a8b55c8dc9fed9f4ad33f]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2023/557/schedule/1/part/2) inserted (1.1.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2025 (S.I. 2025/1289)](https://www.legislation.gov.uk/uksi/2025/1289), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/1/1), [7(6)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/7/6)
 
-[^key-2e6e29f25dc8d23e4c1f01a258a6ee01]: Commencement: Sch. 1 Pt. 3 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
+[^c-2e6e29f25dc8d23e4c1f01a258a6ee01]: Commencement: Sch. 1 Pt. 3 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
 
 [^f00010]: Footnote: A copy can be obtained from the American Society for Testing and Materials (ASTM), 100 Barr Harbor Drive, PO Box C700, West Conshohocken, PA, 19428-2959, U.S.A. (email: service@astm.org and website https://www.astm.org/CONTACT/index.html). A hard copy is available for inspection free of charge at the offices of HMRC at 100 Parliament Street, London SW1A 2BQ.
 
@@ -1442,39 +1442,39 @@ A full Impact Assessment has not been prepared for this instrument as the policy
 
     For special conditions relating to goods made of a mixture of textile materials, see Note 4 in Part 1 of this Schedule.
 
-[^key-822a2f6479a43e9726532379317c6131]: Textual amendment: Words in [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2023/557/schedule/1/part/3) inserted (1.1.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2025 (S.I. 2025/1289)](https://www.legislation.gov.uk/uksi/2025/1289), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/1/1), [8(2)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/8/2)
+[^c-822a2f6479a43e9726532379317c6131]: Textual amendment: Words in [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2023/557/schedule/1/part/3) inserted (1.1.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2025 (S.I. 2025/1289)](https://www.legislation.gov.uk/uksi/2025/1289), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/1/1), [8(2)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/8/2)
 
-[^key-fcec519201c6d9effdfe8f9303499023]: Textual amendment: Words in [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2023/557/schedule/1/part/3) inserted (1.1.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2025 (S.I. 2025/1289)](https://www.legislation.gov.uk/uksi/2025/1289), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/1/1), [8(3)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/8/3)
+[^c-fcec519201c6d9effdfe8f9303499023]: Textual amendment: Words in [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2023/557/schedule/1/part/3) inserted (1.1.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2025 (S.I. 2025/1289)](https://www.legislation.gov.uk/uksi/2025/1289), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/1/1), [8(3)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/8/3)
 
 [^f01010]: Footnote: (8)
 
     See Note 5 in Part 1 of this Schedule.
 
-[^key-215e32778fefd5720611724908c27667]: Textual amendment: Words in [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2023/557/schedule/1/part/3) inserted (1.1.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2025 (S.I. 2025/1289)](https://www.legislation.gov.uk/uksi/2025/1289), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/1/1), [8(4)(a)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/8/4/a)
+[^c-215e32778fefd5720611724908c27667]: Textual amendment: Words in [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2023/557/schedule/1/part/3) inserted (1.1.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2025 (S.I. 2025/1289)](https://www.legislation.gov.uk/uksi/2025/1289), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/1/1), [8(4)(a)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/8/4/a)
 
-[^key-9aeb2299e00b6928e8c17aee22290119]: Textual amendment: Words in [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2023/557/schedule/1/part/3) inserted (1.1.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2025 (S.I. 2025/1289)](https://www.legislation.gov.uk/uksi/2025/1289), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/1/1), [8(4)(b)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/8/4/b)
+[^c-9aeb2299e00b6928e8c17aee22290119]: Textual amendment: Words in [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2023/557/schedule/1/part/3) inserted (1.1.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2025 (S.I. 2025/1289)](https://www.legislation.gov.uk/uksi/2025/1289), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/1/1), [8(4)(b)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/8/4/b)
 
-[^key-3bdd7679f5e564842768518012f30d2f]: Textual amendment: Words in [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2023/557/schedule/1/part/3) inserted (1.1.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2025 (S.I. 2025/1289)](https://www.legislation.gov.uk/uksi/2025/1289), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/1/1), [8(5)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/8/5)
+[^c-3bdd7679f5e564842768518012f30d2f]: Textual amendment: Words in [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2023/557/schedule/1/part/3) inserted (1.1.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2025 (S.I. 2025/1289)](https://www.legislation.gov.uk/uksi/2025/1289), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/1/1), [8(5)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/8/5)
 
-[^key-acfd0ee2c319e4d26c6655c3bd6bd2f7]: Textual amendment: Words in [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2023/557/schedule/1/part/3) inserted (1.1.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2025 (S.I. 2025/1289)](https://www.legislation.gov.uk/uksi/2025/1289), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/1/1), [8(6)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/8/6)
+[^c-acfd0ee2c319e4d26c6655c3bd6bd2f7]: Textual amendment: Words in [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2023/557/schedule/1/part/3) inserted (1.1.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2025 (S.I. 2025/1289)](https://www.legislation.gov.uk/uksi/2025/1289), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/1/1), [8(6)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/8/6)
 
-[^key-443880d6e82a1fa5638d288a2b220e3a]: Textual amendment: Words in [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2023/557/schedule/1/part/3) inserted (1.1.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2025 (S.I. 2025/1289)](https://www.legislation.gov.uk/uksi/2025/1289), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/1/1), [8(7)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/8/7)
+[^c-443880d6e82a1fa5638d288a2b220e3a]: Textual amendment: Words in [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2023/557/schedule/1/part/3) inserted (1.1.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2025 (S.I. 2025/1289)](https://www.legislation.gov.uk/uksi/2025/1289), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/1/1), [8(7)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/8/7)
 
-[^key-4ea2eb99b544e9304a4d9517486b3324]: Textual amendment: Words in [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2023/557/schedule/1/part/3) inserted (1.1.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2025 (S.I. 2025/1289)](https://www.legislation.gov.uk/uksi/2025/1289), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/1/1), [8(8)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/8/8)
+[^c-4ea2eb99b544e9304a4d9517486b3324]: Textual amendment: Words in [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2023/557/schedule/1/part/3) inserted (1.1.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2025 (S.I. 2025/1289)](https://www.legislation.gov.uk/uksi/2025/1289), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/1/1), [8(8)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/8/8)
 
 [^f01011]: Footnote: (9)
 
     See Note 4 in Part 1 of this Schedule.
 
-[^key-d80a5451edd10748f9f18f36ec0377b5]: Textual amendment: Words in [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2023/557/schedule/1/part/3) inserted (1.1.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2025 (S.I. 2025/1289)](https://www.legislation.gov.uk/uksi/2025/1289), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/1/1), [8(9)(a)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/8/9/a)
+[^c-d80a5451edd10748f9f18f36ec0377b5]: Textual amendment: Words in [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2023/557/schedule/1/part/3) inserted (1.1.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2025 (S.I. 2025/1289)](https://www.legislation.gov.uk/uksi/2025/1289), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/1/1), [8(9)(a)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/8/9/a)
 
-[^key-5d53949e662cb56aa89f22019deaf82d]: Textual amendment: Words in [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2023/557/schedule/1/part/3) inserted (1.1.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2025 (S.I. 2025/1289)](https://www.legislation.gov.uk/uksi/2025/1289), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/1/1), [8(9)(b)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/8/9/b)
+[^c-5d53949e662cb56aa89f22019deaf82d]: Textual amendment: Words in [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2023/557/schedule/1/part/3) inserted (1.1.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2025 (S.I. 2025/1289)](https://www.legislation.gov.uk/uksi/2025/1289), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/1/1), [8(9)(b)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/8/9/b)
 
-[^key-d19121ddefcce15f4f5bad0988811061]: Textual amendment: Words in [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2023/557/schedule/1/part/3) inserted (1.1.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2025 (S.I. 2025/1289)](https://www.legislation.gov.uk/uksi/2025/1289), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/1/1), [8(10)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/8/10)
+[^c-d19121ddefcce15f4f5bad0988811061]: Textual amendment: Words in [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2023/557/schedule/1/part/3) inserted (1.1.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2025 (S.I. 2025/1289)](https://www.legislation.gov.uk/uksi/2025/1289), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/1/1), [8(10)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/8/10)
 
-[^key-4c8821017df07d90807692e8e4bed434]: Textual amendment: Words in [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2023/557/schedule/1/part/3) inserted (1.1.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2025 (S.I. 2025/1289)](https://www.legislation.gov.uk/uksi/2025/1289), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/1/1), [8(11)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/8/11)
+[^c-4c8821017df07d90807692e8e4bed434]: Textual amendment: Words in [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2023/557/schedule/1/part/3) inserted (1.1.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2025 (S.I. 2025/1289)](https://www.legislation.gov.uk/uksi/2025/1289), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/1/1), [8(11)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/8/11)
 
-[^key-9797ff5e62815116d6d41d93f9746689]: Textual amendment: Words in [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2023/557/schedule/1/part/3) inserted (1.1.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2025 (S.I. 2025/1289)](https://www.legislation.gov.uk/uksi/2025/1289), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/1/1), [8(12)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/8/12)
+[^c-9797ff5e62815116d6d41d93f9746689]: Textual amendment: Words in [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2023/557/schedule/1/part/3) inserted (1.1.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2025 (S.I. 2025/1289)](https://www.legislation.gov.uk/uksi/2025/1289), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/1/1), [8(12)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/8/12)
 
 [^f01012]: Footnote: (10)
 
@@ -1484,10 +1484,10 @@ A full Impact Assessment has not been prepared for this instrument as the policy
 
     The use of this material is restricted to the manufacture of woven fabrics of a kind used in paper-making machinery.
 
-[^key-d2ab1dab2e4c8d7fa2f5d2d8cdc692d1]: Textual amendment: [Sch. 1 Pt. 4](https://www.legislation.gov.uk/uksi/2023/557/schedule/1/part/4) inserted (1.1.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2025 (S.I. 2025/1289)](https://www.legislation.gov.uk/uksi/2025/1289), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2025/1289/regulation/9)
+[^c-d2ab1dab2e4c8d7fa2f5d2d8cdc692d1]: Textual amendment: [Sch. 1 Pt. 4](https://www.legislation.gov.uk/uksi/2023/557/schedule/1/part/4) inserted (1.1.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2025 (S.I. 2025/1289)](https://www.legislation.gov.uk/uksi/2025/1289), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2025/1289/regulation/9)
 
-[^key-91ecb770502cf69516925722316413e6]: Commencement: Sch. 2 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
+[^c-91ecb770502cf69516925722316413e6]: Commencement: Sch. 2 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
 
-[^key-6fe0661afe215df80331bca727c3f6d0]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2023/557/schedule/3) substituted (1.1.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2025 (S.I. 2025/1289)](https://www.legislation.gov.uk/uksi/2025/1289), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2025/1289/regulation/10)
+[^c-6fe0661afe215df80331bca727c3f6d0]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2023/557/schedule/3) substituted (1.1.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2025 (S.I. 2025/1289)](https://www.legislation.gov.uk/uksi/2025/1289), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2025/1289/regulation/10)
 
-[^key-fcfdcd9d00c3a3f967835a83979155b8]: Commencement: Sch. 4 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)
+[^c-fcfdcd9d00c3a3f967835a83979155b8]: Commencement: Sch. 4 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/557/regulation/1/1)

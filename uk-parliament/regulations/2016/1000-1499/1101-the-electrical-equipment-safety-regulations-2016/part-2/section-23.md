@@ -26,7 +26,7 @@ summary: ''
 - (b) withdraw the electrical equipment; or
 - (c) recall the electrical equipment.
 
-(2) Where the electrical equipment presents a risk, the importer must immediately inform the market surveillance authority [^key-944fcdae7683b79dc450660d1f44d838]... of the risk, giving details of—
+(2) Where the electrical equipment presents a risk, the importer must immediately inform the market surveillance authority [^c-944fcdae7683b79dc450660d1f44d838]... of the risk, giving details of—
 
 - (a) the respect in which the electrical equipment is considered not to be in conformity with Part 2; and
 - (b) any corrective measures taken.
@@ -50,7 +50,7 @@ summary: ''
 
 [^M_E_fddacc46-e830-4d90-9825-96316378583a]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-944fcdae7683b79dc450660d1f44d838]: Textual amendment: Words in reg. 23(2) omitted (E.W.S.) (31.12.2020) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 23 para. 14](https://www.legislation.gov.uk/uksi/2019/696/schedule/23/paragraph/14) (with [Sch. 23 para. 30](https://www.legislation.gov.uk/uksi/2019/696/schedule/23/paragraph/30)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-944fcdae7683b79dc450660d1f44d838]: Textual amendment: Words in reg. 23(2) omitted (E.W.S.) (31.12.2020) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 23 para. 14](https://www.legislation.gov.uk/uksi/2019/696/schedule/23/paragraph/14) (with [Sch. 23 para. 30](https://www.legislation.gov.uk/uksi/2019/696/schedule/23/paragraph/30)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_5b6c34c4-48ed-4df4-b680-46796661a4bc]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 

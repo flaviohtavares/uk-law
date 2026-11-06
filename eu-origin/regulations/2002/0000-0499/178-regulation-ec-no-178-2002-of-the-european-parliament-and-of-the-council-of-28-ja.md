@@ -38,7 +38,7 @@ of 28 January 2002
 
 laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety
 
-[^key-0ee9e7b4bef5f9a9c9b2dfae0c9b1432]
+[^c-0ee9e7b4bef5f9a9c9b2dfae0c9b1432]
 
 THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
 
@@ -324,11 +324,11 @@ HAVE ADOPTED THIS REGULATION:
 
 ### Article 1. Aim and scope
 
-1. This Regulation provides the basis for the assurance of a high level of protection of human health and consumers' interest in relation to food, taking into account in particular the diversity in the supply of food including traditional products, whilst ensuring the effective functioning of the [^key-f82720666f2c2a1472e13ccd30369ee5]... market. It establishes common principles and responsibilities, the means to provide a strong science base, efficient organisational arrangements and procedures to underpin decision-making in matters of food and feed safety.
+1. This Regulation provides the basis for the assurance of a high level of protection of human health and consumers' interest in relation to food, taking into account in particular the diversity in the supply of food including traditional products, whilst ensuring the effective functioning of the [^c-f82720666f2c2a1472e13ccd30369ee5]... market. It establishes common principles and responsibilities, the means to provide a strong science base, efficient organisational arrangements and procedures to underpin decision-making in matters of food and feed safety.
 
-2. For the purposes of paragraph 1, this Regulation lays down the general principles governing food and feed in general, and food and feed safety in particular, [^key-d23d5e009ab88dd46a276f9efb84dbd1]...
+2. For the purposes of paragraph 1, this Regulation lays down the general principles governing food and feed in general, and food and feed safety in particular, [^c-d23d5e009ab88dd46a276f9efb84dbd1]...
 
-[^key-d23d5e009ab88dd46a276f9efb84dbd1]...
+[^c-d23d5e009ab88dd46a276f9efb84dbd1]...
 
 It lays down procedures for matters with a direct or indirect impact on food and feed safety.
 
@@ -355,7 +355,7 @@ For the purposes of this Regulation, ‘food’ (or ‘foodstuff’) means any s
 
 For the purposes of this Regulation:
 
-(1.) ‘food law’ means the laws, regulations and administrative provisions governing food in general, and food safety in particular, [^key-76184a4c5efd2bff1c5857c90972c145]...; it covers any stage of production, processing and distribution of food, and also of feed produced for, or fed to, food-producing animals;
+(1.) ‘food law’ means the laws, regulations and administrative provisions governing food in general, and food safety in particular, [^c-76184a4c5efd2bff1c5857c90972c145]...; it covers any stage of production, processing and distribution of food, and also of feed produced for, or fed to, food-producing animals;
 
 (2.) ‘food business’ means any undertaking, whether for profit or not and whether public or private, carrying out any of the activities related to any stage of production, processing and distribution of food;
 
@@ -391,7 +391,7 @@ For the purposes of this Regulation:
 
 (18.) ‘final consumer’ means the ultimate consumer of a foodstuff who will not use the food as part of any food business operation or activity.
 
-(19.)[^key-cd8b33e4ef686d6a95f28459e512a7dd] “**appropriate authority**” means—
+(19.)[^c-cd8b33e4ef686d6a95f28459e512a7dd] “**appropriate authority**” means—
 
 - (a) in relation to England, the Secretary of State;
 - (b) in relation to Wales, the Welsh Ministers;
@@ -407,9 +407,9 @@ For the purposes of this Regulation:
 
 2. The principles laid down in Articles 5 to 10 shall form a general framework of a horizontal nature to be followed when measures are taken.
 
-3.[^key-9fd392258f8405b535ad0583e72ef9de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.[^c-9fd392258f8405b535ad0583e72ef9de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-4.[^key-46ee5fda10bd46fcf2a061c3f126fe6f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4.[^c-46ee5fda10bd46fcf2a061c3f126fe6f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### SECTION 1 — GENERAL PRINCIPLES OF FOOD LAW
 
@@ -417,9 +417,9 @@ For the purposes of this Regulation:
 
 1. Food law shall pursue one or more of the general objectives of a high level of protection of human life and health and the protection of consumers' interests, including fair practices in food trade, taking account of, where appropriate, the protection of animal health and welfare, plant health and the environment.
 
-2.[^key-3c19191df11c0e2b8a9280f4f7acc650] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.[^c-3c19191df11c0e2b8a9280f4f7acc650] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-3. Where international standards exist or their completion is imminent, they shall be taken into consideration in the development or adaptation of food law, except where such standards or relevant parts would be an ineffective or inappropriate means for the fulfilment of the legitimate objectives of food law or where there is a scientific justification, or where they would result in a different level of protection from the one determined as appropriate in Great Britain[^key-155a4f744d1f8a4452dec46f43524a2d].
+3. Where international standards exist or their completion is imminent, they shall be taken into consideration in the development or adaptation of food law, except where such standards or relevant parts would be an ineffective or inappropriate means for the fulfilment of the legitimate objectives of food law or where there is a scientific justification, or where they would result in a different level of protection from the one determined as appropriate in Great Britain[^c-155a4f744d1f8a4452dec46f43524a2d].
 
 #### Article 6. Risk analysis
 
@@ -427,11 +427,11 @@ For the purposes of this Regulation:
 
 2. Risk assessment shall be based on the available scientific evidence and undertaken in an independent, objective and transparent manner.
 
-3. Risk management shall take into account the results of risk assessment, and [^key-cf536ded7fbd59018254c52cdf3739e2]... other factors legitimate to the matter under consideration and the precautionary principle where the conditions laid down in Article 7(1) are relevant, in order to achieve the general objectives of food law established in Article 5.
+3. Risk management shall take into account the results of risk assessment, and [^c-cf536ded7fbd59018254c52cdf3739e2]... other factors legitimate to the matter under consideration and the precautionary principle where the conditions laid down in Article 7(1) are relevant, in order to achieve the general objectives of food law established in Article 5.
 
 #### Article 7. Precautionary principle
 
-1. In specific circumstances where, following an assessment of available information, the possibility of harmful effects on health is identified but scientific uncertainty persists, provisional risk management measures necessary to ensure the high level of health protection chosen in Great Britain[^key-f190efbf497b6593d583f182a322c634] may be adopted, pending further scientific information for a more comprehensive risk assessment.
+1. In specific circumstances where, following an assessment of available information, the possibility of harmful effects on health is identified but scientific uncertainty persists, provisional risk management measures necessary to ensure the high level of health protection chosen in Great Britain[^c-f190efbf497b6593d583f182a322c634] may be adopted, pending further scientific information for a more comprehensive risk assessment.
 
 2. Measures adopted on the basis of paragraph 1 shall be proportionate and no more restrictive of trade than is required to achieve the high level of health protection chosen in Great Britain, regard being had to technical and economic feasibility and other factors regarded as legitimate in the matter under consideration. The measures shall be reviewed within a reasonable period of time, depending on the nature of the risk to life or health identified and the type of scientific information needed to clarify the scientific uncertainty and to conduct a more comprehensive risk assessment.
 
@@ -451,31 +451,31 @@ There shall be open and transparent public consultation, directly or through rep
 
 #### Article 10. Public information
 
-[^key-66df155ee255dfe0bf6fa84c73b0b542]... Where there are reasonable grounds to suspect that a food or feed may present a risk for human or animal health, then, depending on the nature, seriousness and extent of that risk, public authorities shall take appropriate steps to inform the general public of the nature of the risk to health, identifying to the fullest extent possible the food or feed, or type of food or feed, the risk that it may present, and the measures which are taken or about to be taken to prevent, reduce or eliminate that risk.
+[^c-66df155ee255dfe0bf6fa84c73b0b542]... Where there are reasonable grounds to suspect that a food or feed may present a risk for human or animal health, then, depending on the nature, seriousness and extent of that risk, public authorities shall take appropriate steps to inform the general public of the nature of the risk to health, identifying to the fullest extent possible the food or feed, or type of food or feed, the risk that it may present, and the measures which are taken or about to be taken to prevent, reduce or eliminate that risk.
 
 ### SECTION 3 — GENERAL OBLIGATIONS OF FOOD TRADE
 
-#### Article 11. Food and feed imported into Great Britain[^key-493807f1fa472aa716dd6d2dc6573bca]
+#### Article 11. Food and feed imported into Great Britain[^c-493807f1fa472aa716dd6d2dc6573bca]
 
 Food and feed imported into Great Britain for placing on the market within Great Britain must comply with the relevant requirements of food law or conditions recognised by Great Britain to be at least equivalent thereto or, where a specific agreement exists between the United Kingdom and an exporting country, with requirements contained therein.
 
-#### Article 12. Food and feed exported from Great Britain[^key-793ff1fe66d844fded74f4bb7ebe2aed]
+#### Article 12. Food and feed exported from Great Britain[^c-793ff1fe66d844fded74f4bb7ebe2aed]
 
-1. Food and feed exported or re-exported from Great Britain[^key-68194e8f414ff6a5f9ec9d672d929652] for placing on the market of a third country shall comply with the relevant requirements of food law, unless otherwise requested by the authorities of the importing country or established by the laws, regulations, standards, codes of practice and other legal and administrative procedures as may be in force in the importing country.
+1. Food and feed exported or re-exported from Great Britain[^c-68194e8f414ff6a5f9ec9d672d929652] for placing on the market of a third country shall comply with the relevant requirements of food law, unless otherwise requested by the authorities of the importing country or established by the laws, regulations, standards, codes of practice and other legal and administrative procedures as may be in force in the importing country.
 
 In other circumstances, except in the case where foods are injurious to health or feeds are unsafe, food and feed can only be exported or re-exported if the competent authorities of the country of destination have expressly agreed, after having been fully informed of the reasons for which and the circumstances in which the food or feed concerned could not be placed on the market in Great Britain.
 
-2.[^key-ab85db2d15bc28d9c29e22b6fe1d2e86] Where the provisions of a bilateral agreement concluded between the United Kingdom and a third country are applicable, food and feed exported from the United Kingdom to that third country must comply with those provisions.
+2.[^c-ab85db2d15bc28d9c29e22b6fe1d2e86] Where the provisions of a bilateral agreement concluded between the United Kingdom and a third country are applicable, food and feed exported from the United Kingdom to that third country must comply with those provisions.
 
 #### Article 13. International standards
 
-The appropriate authorities must—[^key-c9d3b90baa0d37d521a4ea9ecff432fa]
+The appropriate authorities must—[^c-c9d3b90baa0d37d521a4ea9ecff432fa]
 
 - ((a)) contribute to the development of international technical standards for food and feed and sanitary and phytosanitary standards;
 - ((b)) promote the coordination of work on food and feed standards undertaken by international governmental and non-governmental organisations;
 - ((c)) contribute, where relevant and appropriate, to the development of agreements on recognition of the equivalence of specific food and feed-related measures;
 - ((d)) give particular attention to the special development, financial and trade needs of developing countries, with a view to ensuring that international standards do not create unnecessary obstacles to exports from developing countries;
-- ((e)) promote consistency between international technical standards and food law while ensuring that the high level of protection adopted in Great Britain[^key-1c544113a8a3bed2150ee9926bca343e] is not reduced.
+- ((e)) promote consistency between international technical standards and food law while ensuring that the high level of protection adopted in Great Britain[^c-1c544113a8a3bed2150ee9926bca343e] is not reduced.
 
 ### SECTION 4 — GENERAL REQUIREMENTS OF FOOD LAW
 
@@ -503,11 +503,11 @@ The appropriate authorities must—[^key-c9d3b90baa0d37d521a4ea9ecff432fa]
 
 6. Where any food which is unsafe is part of a batch, lot or consignment of food of the same class or description, it shall be presumed that all the food in that batch, lot or consignment is also unsafe, unless following a detailed assessment there is no evidence that the rest of the batch, lot or consignment is unsafe.
 
-7. Food that complies with specific legislation in force in the relevant constituent territory of Great Britain[^key-7a1906fdf4dec866e63b490ca207bad2] governing food safety shall be deemed to be safe insofar as the aspects covered by the specific [^key-dfcf628d16b19376dc8d8357857d076d]... provisions are concerned.
+7. Food that complies with specific legislation in force in the relevant constituent territory of Great Britain[^c-7a1906fdf4dec866e63b490ca207bad2] governing food safety shall be deemed to be safe insofar as the aspects covered by the specific [^c-dfcf628d16b19376dc8d8357857d076d]... provisions are concerned.
 
 8. Conformity of a food with specific provisions applicable to that food shall not bar the competent authorities from taking appropriate measures to impose restrictions on it being placed on the market or to require its withdrawal from the market where there are reasons to suspect that, despite such conformity, the food is unsafe.
 
-9.[^key-4a41cd191ce1000386cee6f2cfd799e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+9.[^c-4a41cd191ce1000386cee6f2cfd799e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Article 15. Feed safety requirements
 
@@ -520,11 +520,11 @@ The appropriate authorities must—[^key-c9d3b90baa0d37d521a4ea9ecff432fa]
 
 3. Where a feed which has been identified as not satisfying the feed safety requirement is part of a batch, lot or consignment of feed of the same class or description, it shall be presumed that all of the feed in that batch, lot or consignment is so affected, unless following a detailed assessment there is no evidence that the rest of the batch, lot or consignment fails to satisfy the feed safety requirement.
 
-4. Feed that complies with specific legislation in force in the relevant constituent territory of Great Britain[^key-8f350e6955c84f151220298dfebb17d0] governing feed safety shall be deemed to be safe insofar as the aspects covered by the specific [^key-1167deaa8debb55acb2f861fd7e79473]... provisions are concerned.
+4. Feed that complies with specific legislation in force in the relevant constituent territory of Great Britain[^c-8f350e6955c84f151220298dfebb17d0] governing feed safety shall be deemed to be safe insofar as the aspects covered by the specific [^c-1167deaa8debb55acb2f861fd7e79473]... provisions are concerned.
 
 5. Conformity of a feed with specific provisions applicable to that feed shall not bar the competent authorities from taking appropriate measures to impose restrictions on it being placed on the market or to require its withdrawal from the market where there are reasons to suspect that, despite such conformity, the feed is unsafe.
 
-6.[^key-c93f61f4211da8e2f1a761dc4a81d1a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+6.[^c-c93f61f4211da8e2f1a761dc4a81d1a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Article 16. Presentation
 
@@ -534,9 +534,9 @@ Without prejudice to more specific provisions of food law, the labelling, advert
 
 1. Food and feed business operators at all stages of production, processing and distribution within the businesses under their control shall ensure that foods or feeds satisfy the requirements of food law which are relevant to their activities and shall verify that such requirements are met.
 
-2.[^key-6dee158361121c8519a0fbb1384d2868] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.[^c-6dee158361121c8519a0fbb1384d2868] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-148dd558f64dce790ec614baa75953d1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-148dd558f64dce790ec614baa75953d1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Article 18. Traceability
 
@@ -548,9 +548,9 @@ To this end, such operators shall have in place systems and procedures which all
 
 3. Food and feed business operators shall have in place systems and procedures to identify the other businesses to which their products have been supplied. This information shall be made available to the competent authorities on demand.
 
-4. Food or feed which is placed on the market or is likely to be placed on the market in Great Britain[^key-7ae266b7590e8fba03b13412f6e75c73] shall be adequately labelled or identified to facilitate its traceability, through relevant documentation or information in accordance with the relevant requirements of more specific provisions.
+4. Food or feed which is placed on the market or is likely to be placed on the market in Great Britain[^c-7ae266b7590e8fba03b13412f6e75c73] shall be adequately labelled or identified to facilitate its traceability, through relevant documentation or information in accordance with the relevant requirements of more specific provisions.
 
-5.[^key-6d382ed9eed57efc58b1bd18a9ed656d] The appropriate authority may make regulations for the purpose of applying the requirements of this Article in respect of specific sectors.
+5.[^c-6d382ed9eed57efc58b1bd18a9ed656d] The appropriate authority may make regulations for the purpose of applying the requirements of this Article in respect of specific sectors.
 
 #### Article 19. Responsibilities for food: food business operators
 
@@ -572,11 +572,11 @@ To this end, such operators shall have in place systems and procedures which all
 
 4. Feed business operators shall collaborate with the competent authorities on action taken in order to avoid risks posed by a feed which they supply or have supplied.
 
-#### Article 21. Liability[^key-5afb137931f0d0fd4a07a0d4f208e6e6]
+#### Article 21. Liability[^c-5afb137931f0d0fd4a07a0d4f208e6e6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER III — EUROPEAN FOOD SAFETY AUTHORITY[^key-5a6be50ad8f62b4f310f01affed9bd2a]
+## CHAPTER III — EUROPEAN FOOD SAFETY AUTHORITY[^c-5a6be50ad8f62b4f310f01affed9bd2a]
 
 **No longer in force.**
 
@@ -704,57 +704,57 @@ To this end, such operators shall have in place systems and procedures which all
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER IV — RAPID ALERT SYSTEM, CRISIS MANAGEMENT AND EMERGENCIES[^key-4dfe9ca78ac39a15e23c2312a8cf9f0f]
+## CHAPTER IV — RAPID ALERT SYSTEM, CRISIS MANAGEMENT AND EMERGENCIES[^c-4dfe9ca78ac39a15e23c2312a8cf9f0f]
 
 ### SECTION 1 — RAPID ALERT SYSTEM
 
-#### Article 50. Rapid alert system[^key-4dfe9ca78ac39a15e23c2312a8cf9f0f]
+#### Article 50. Rapid alert system[^c-4dfe9ca78ac39a15e23c2312a8cf9f0f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 51. Implementing measures[^key-4dfe9ca78ac39a15e23c2312a8cf9f0f]
+#### Article 51. Implementing measures[^c-4dfe9ca78ac39a15e23c2312a8cf9f0f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 52. Confidentiality rules for the rapid alert system[^key-4dfe9ca78ac39a15e23c2312a8cf9f0f]
+#### Article 52. Confidentiality rules for the rapid alert system[^c-4dfe9ca78ac39a15e23c2312a8cf9f0f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### SECTION 2 — EMERGENCIES
 
-#### Article 53. Emergency measures for food and feed ...[^key-daa7a136d8bf41f6ba0efd4048880a24]
+#### Article 53. Emergency measures for food and feed ...[^c-daa7a136d8bf41f6ba0efd4048880a24]
 
-1. Where it is evident that food or feed originating in or entering Great Britain is likely to constitute a serious risk to human health, animal health or the environment, the appropriate authority may make regulations, containing one or more of the following measures, depending on the gravity of the situation—[^key-e45bbeae8fb3cd5b8c75b9e1012fa608]
+1. Where it is evident that food or feed originating in or entering Great Britain is likely to constitute a serious risk to human health, animal health or the environment, the appropriate authority may make regulations, containing one or more of the following measures, depending on the gravity of the situation—[^c-e45bbeae8fb3cd5b8c75b9e1012fa608]
 
-- (a) in the case of food or feed originating in[^key-831a2d48645771a78858b8a0cd6c9850] Great Britain[^key-86f6a93c7b881874b0d0a947a4306de5]:
+- (a) in the case of food or feed originating in[^c-831a2d48645771a78858b8a0cd6c9850] Great Britain[^c-86f6a93c7b881874b0d0a947a4306de5]:
   - ((i)) suspension of the placing on the market or use of the food in question;
   - ((ii)) suspension of the placing on the market or use of the feed in question;
   - ((iii)) laying down special conditions for the food or feed in question;
   - ((iv)) any other appropriate interim measure;
-- (b) in the case of food or feed[^key-d4364a759fe27d18a183e4ec1c7efae2] entering Great Britain[^key-ca9a0d885ed911683f99efa88a38c91d]—
-  - ((i)) suspension of the entry[^key-28808e9a0062f1d355bd56cccbeb1773] of the food or feed in question from all or part of the [^key-ee7dfe1318639ef255aa3aa384637b25]... country concerned and, where applicable, from the [^key-ee7dfe1318639ef255aa3aa384637b25]... country of transit;
-  - ((ii)) laying down special conditions for the food or feed in question from all or part of the [^key-ee7dfe1318639ef255aa3aa384637b25]... country concerned;
+- (b) in the case of food or feed[^c-d4364a759fe27d18a183e4ec1c7efae2] entering Great Britain[^c-ca9a0d885ed911683f99efa88a38c91d]—
+  - ((i)) suspension of the entry[^c-28808e9a0062f1d355bd56cccbeb1773] of the food or feed in question from all or part of the [^c-ee7dfe1318639ef255aa3aa384637b25]... country concerned and, where applicable, from the [^c-ee7dfe1318639ef255aa3aa384637b25]... country of transit;
+  - ((ii)) laying down special conditions for the food or feed in question from all or part of the [^c-ee7dfe1318639ef255aa3aa384637b25]... country concerned;
   - ((iii)) any other appropriate interim measure.
 
-2A.[^key-3bef52aedc622fda3c3e43fced42a439] For the purpose of this Article, “**entering Great Britain**” means the action of bringing food or feed into Great Britain from any country outside of Great Britain.
+2A.[^c-3bef52aedc622fda3c3e43fced42a439] For the purpose of this Article, “**entering Great Britain**” means the action of bringing food or feed into Great Britain from any country outside of Great Britain.
 
 2.[^M_F_a5990a1c-24ef-4a4e-922e-fbe56b135285] . . . . . . . . . . . . . . . . . .
 
-#### Article 54. Other emergency measures[^key-4dfe9ca78ac39a15e23c2312a8cf9f0f]
+#### Article 54. Other emergency measures[^c-4dfe9ca78ac39a15e23c2312a8cf9f0f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### SECTION 3 — CRISIS MANAGEMENT
 
-#### Article 55. General plan for crisis management[^key-4dfe9ca78ac39a15e23c2312a8cf9f0f]
+#### Article 55. General plan for crisis management[^c-4dfe9ca78ac39a15e23c2312a8cf9f0f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 56. Crisis unit[^key-4dfe9ca78ac39a15e23c2312a8cf9f0f]
+#### Article 56. Crisis unit[^c-4dfe9ca78ac39a15e23c2312a8cf9f0f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 57. Tasks of the crisis unit[^key-4dfe9ca78ac39a15e23c2312a8cf9f0f]
+#### Article 57. Tasks of the crisis unit[^c-4dfe9ca78ac39a15e23c2312a8cf9f0f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -762,7 +762,7 @@ To this end, such operators shall have in place systems and procedures which all
 
 ### SECTION 1 — EXERCISE OF THE DELEGATION, COMMITTEE AND MEDIATION PROCEDURES[^c000006]
 
-#### Article 57a. Procedure[^key-b7d896bed993ca5b4517c21c1312c254]
+#### Article 57a. Procedure[^c-b7d896bed993ca5b4517c21c1312c254]
 
 1. Regulations made by the Secretary of State or the Welsh Ministers under this Regulation are to be made by statutory instrument.
 
@@ -779,33 +779,33 @@ To this end, such operators shall have in place systems and procedures which all
 - (a) contain consequential, incidental, supplementary, transitional or saving provision;
 - (b) make different provision for different purposes.
 
-#### Article 58. Committee[^key-8b7f3ed94ea2cbba2909831432f1c7b4]
+#### Article 58. Committee[^c-8b7f3ed94ea2cbba2909831432f1c7b4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 59. Functions assigned to the Committee[^key-a9b4479069d5367a9b4e0a55c0306d5f]
+#### Article 59. Functions assigned to the Committee[^c-a9b4479069d5367a9b4e0a55c0306d5f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 60. Mediation procedure[^key-e61b80736f44ed9d489da89cead14ae1]
+#### Article 60. Mediation procedure[^c-e61b80736f44ed9d489da89cead14ae1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### SECTION 2 — FINAL PROVISIONS[^c000010][^c000009]
 
-#### Article 61. Review clause[^key-e81693d5eba4f94f92516f081bd0c139]
+#### Article 61. Review clause[^c-e81693d5eba4f94f92516f081bd0c139]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 62. References to the European Food Safety Authority and to the Standing Committee on the Food Chain and Animal Health[^key-e4982cbbc5fdd2ab28f75c6fb23d9152]
+#### Article 62. References to the European Food Safety Authority and to the Standing Committee on the Food Chain and Animal Health[^c-e4982cbbc5fdd2ab28f75c6fb23d9152]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 63. Competence of the European Agency for the Evaluation of Medicinal Products[^key-7fab994c63266e43b873ea47470808d4]
+#### Article 63. Competence of the European Agency for the Evaluation of Medicinal Products[^c-7fab994c63266e43b873ea47470808d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 64. Commencement of the Authority's operation[^key-1ddf589e7787f886930279dfeace7224]
+#### Article 64. Commencement of the Authority's operation[^c-1ddf589e7787f886930279dfeace7224]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -815,13 +815,13 @@ This Regulation shall enter into force on the 20th day following that of its pub
 
 Articles 11 and 12 and Articles 14 to 20 shall apply from 1 January 2005.
 
-[^key-9cb9a4ffcc654ac114b3c17fb33b58aa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9cb9a4ffcc654ac114b3c17fb33b58aa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e0025c0f24112b85dab60a6ec7d61c86]...
+[^c-e0025c0f24112b85dab60a6ec7d61c86]...
 
 ## Annotations
 
-[^key-0ee9e7b4bef5f9a9c9b2dfae0c9b1432]: Modification: Regulation applied (with modifications) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/a), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/959/schedule/1) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
+[^c-0ee9e7b4bef5f9a9c9b2dfae0c9b1432]: Modification: Regulation applied (with modifications) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/a), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/959/schedule/1) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
 
 [^f00001]: Footnote: [OJ C 96 E, 27.3.2001, p. 247](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2001.096E.01.0247.01.ENG).
 
@@ -863,9 +863,9 @@ Articles 11 and 12 and Articles 14 to 20 shall apply from 1 January 2005.
 
 [^f00020]: Footnote: [OJ L 224, 18.8.1990, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1990.224.01.0001.01.ENG). Regulation as last amended by Commission Regulation (EC) No 1553/2001 ([OJ L 205, 31.7.2001, p. 16](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2001.205.01.0016.01.ENG)).
 
-[^key-f82720666f2c2a1472e13ccd30369ee5]: Textual amendment: Word in [Art. 1(1)](https://www.legislation.gov.uk/eur/2002/178/article/1/1) omitted (31.12.2020) by virtue of [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/2019/641/regulation/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f82720666f2c2a1472e13ccd30369ee5]: Textual amendment: Word in [Art. 1(1)](https://www.legislation.gov.uk/eur/2002/178/article/1/1) omitted (31.12.2020) by virtue of [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/2019/641/regulation/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d23d5e009ab88dd46a276f9efb84dbd1]: Textual amendment: Words in [Art. 1(2)](https://www.legislation.gov.uk/eur/2002/178/article/1/2) omitted (31.12.2020) by virtue of [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/2019/641/regulation/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d23d5e009ab88dd46a276f9efb84dbd1]: Textual amendment: Words in [Art. 1(2)](https://www.legislation.gov.uk/eur/2002/178/article/1/2) omitted (31.12.2020) by virtue of [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/2019/641/regulation/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00021]: Footnote: [OJ 22, 9.2.1965, p. 369](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.P_.1965.022.01.0369.01.ENG). Directive as last amended by Directive 93/39/EEC ([OJ L 214, 24.8.1993, p. 22](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1993.214.01.0022.01.ENG)).
 
@@ -875,104 +875,104 @@ Articles 11 and 12 and Articles 14 to 20 shall apply from 1 January 2005.
 
 [^f00024]: Footnote: [OJ L 359, 8.12.1989, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1989.359.01.0001.01.ENG). Directive as last amended by Directive 92/41/EEC) ([OJ L 158, 11.6.1992, p. 30](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1992.158.01.0030.01.ENG)).
 
-[^key-76184a4c5efd2bff1c5857c90972c145]: Textual amendment: Words in [Art. 3(1)](https://www.legislation.gov.uk/eur/2002/178/article/3/1) omitted (31.12.2020) by virtue of [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [7(a)](https://www.legislation.gov.uk/uksi/2019/641/regulation/7/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-76184a4c5efd2bff1c5857c90972c145]: Textual amendment: Words in [Art. 3(1)](https://www.legislation.gov.uk/eur/2002/178/article/3/1) omitted (31.12.2020) by virtue of [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [7(a)](https://www.legislation.gov.uk/uksi/2019/641/regulation/7/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-cd8b33e4ef686d6a95f28459e512a7dd]: Textual amendment: Art. 3(19)(20) inserted by [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [7(b)](https://www.legislation.gov.uk/uksi/2019/641/regulation/7/b) (as substituted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [10(3)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/10/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cd8b33e4ef686d6a95f28459e512a7dd]: Textual amendment: Art. 3(19)(20) inserted by [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [7(b)](https://www.legislation.gov.uk/uksi/2019/641/regulation/7/b) (as substituted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [10(3)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/10/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9fd392258f8405b535ad0583e72ef9de]: Textual amendment: [Art. 4(3)](https://www.legislation.gov.uk/eur/2002/178/article/4/3) omitted (31.12.2020) by virtue of [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [8](https://www.legislation.gov.uk/uksi/2019/641/regulation/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9fd392258f8405b535ad0583e72ef9de]: Textual amendment: [Art. 4(3)](https://www.legislation.gov.uk/eur/2002/178/article/4/3) omitted (31.12.2020) by virtue of [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [8](https://www.legislation.gov.uk/uksi/2019/641/regulation/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-46ee5fda10bd46fcf2a061c3f126fe6f]: Textual amendment: [Art. 4(4)](https://www.legislation.gov.uk/eur/2002/178/article/4/4) omitted (31.12.2020) by virtue of [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [8](https://www.legislation.gov.uk/uksi/2019/641/regulation/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-46ee5fda10bd46fcf2a061c3f126fe6f]: Textual amendment: [Art. 4(4)](https://www.legislation.gov.uk/eur/2002/178/article/4/4) omitted (31.12.2020) by virtue of [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [8](https://www.legislation.gov.uk/uksi/2019/641/regulation/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3c19191df11c0e2b8a9280f4f7acc650]: Textual amendment: [Art. 5(2)](https://www.legislation.gov.uk/eur/2002/178/article/5/2) omitted (31.12.2020) by virtue of [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [9(a)](https://www.legislation.gov.uk/uksi/2019/641/regulation/9/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3c19191df11c0e2b8a9280f4f7acc650]: Textual amendment: [Art. 5(2)](https://www.legislation.gov.uk/eur/2002/178/article/5/2) omitted (31.12.2020) by virtue of [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [9(a)](https://www.legislation.gov.uk/uksi/2019/641/regulation/9/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-155a4f744d1f8a4452dec46f43524a2d]: Textual amendment: Words in Art. 5(3) substituted (31.12.2020) by [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [9(b)](https://www.legislation.gov.uk/uksi/2019/641/regulation/9/b) (as substituted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [10(4)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/10/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-155a4f744d1f8a4452dec46f43524a2d]: Textual amendment: Words in Art. 5(3) substituted (31.12.2020) by [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [9(b)](https://www.legislation.gov.uk/uksi/2019/641/regulation/9/b) (as substituted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [10(4)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/10/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-cf536ded7fbd59018254c52cdf3739e2]: Textual amendment: Words in [Art. 6(3)](https://www.legislation.gov.uk/eur/2002/178/article/6/3) omitted (31.12.2020) by virtue of [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [10](https://www.legislation.gov.uk/uksi/2019/641/regulation/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cf536ded7fbd59018254c52cdf3739e2]: Textual amendment: Words in [Art. 6(3)](https://www.legislation.gov.uk/eur/2002/178/article/6/3) omitted (31.12.2020) by virtue of [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [10](https://www.legislation.gov.uk/uksi/2019/641/regulation/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f190efbf497b6593d583f182a322c634]: Textual amendment: Words in Art. 7 substituted (31.12.2020) by [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [11](https://www.legislation.gov.uk/uksi/2019/641/regulation/11) (as substituted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [10(5)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/10/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f190efbf497b6593d583f182a322c634]: Textual amendment: Words in Art. 7 substituted (31.12.2020) by [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [11](https://www.legislation.gov.uk/uksi/2019/641/regulation/11) (as substituted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [10(5)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/10/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-66df155ee255dfe0bf6fa84c73b0b542]: Textual amendment: Words in [Art. 10](https://www.legislation.gov.uk/eur/2002/178/article/10) omitted (31.12.2020) by virtue of [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [12](https://www.legislation.gov.uk/uksi/2019/641/regulation/12); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-66df155ee255dfe0bf6fa84c73b0b542]: Textual amendment: Words in [Art. 10](https://www.legislation.gov.uk/eur/2002/178/article/10) omitted (31.12.2020) by virtue of [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [12](https://www.legislation.gov.uk/uksi/2019/641/regulation/12); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-493807f1fa472aa716dd6d2dc6573bca]: Textual amendment: Art. 11 substituted (31.12.2020) by [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [13](https://www.legislation.gov.uk/uksi/2019/641/regulation/13) (as substituted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [10(6)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/10/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-493807f1fa472aa716dd6d2dc6573bca]: Textual amendment: Art. 11 substituted (31.12.2020) by [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [13](https://www.legislation.gov.uk/uksi/2019/641/regulation/13) (as substituted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [10(6)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/10/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-793ff1fe66d844fded74f4bb7ebe2aed]: Textual amendment: Words in Art. 12 heading substituted (31.12.2020) by [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [14(a)](https://www.legislation.gov.uk/uksi/2019/641/regulation/14/a) (as substituted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [10(7)(a)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/10/7/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-793ff1fe66d844fded74f4bb7ebe2aed]: Textual amendment: Words in Art. 12 heading substituted (31.12.2020) by [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [14(a)](https://www.legislation.gov.uk/uksi/2019/641/regulation/14/a) (as substituted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [10(7)(a)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/10/7/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-68194e8f414ff6a5f9ec9d672d929652]: Textual amendment: Words in Art. 12(1) substituted (31.12.2020) by [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [14(b)](https://www.legislation.gov.uk/uksi/2019/641/regulation/14/b) (as substituted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [10(7)(a)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/10/7/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-68194e8f414ff6a5f9ec9d672d929652]: Textual amendment: Words in Art. 12(1) substituted (31.12.2020) by [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [14(b)](https://www.legislation.gov.uk/uksi/2019/641/regulation/14/b) (as substituted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [10(7)(a)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/10/7/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ab85db2d15bc28d9c29e22b6fe1d2e86]: Textual amendment: [Art. 12(2)](https://www.legislation.gov.uk/eur/2002/178/article/12/2) substituted (31.12.2020) by [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [14(c)](https://www.legislation.gov.uk/uksi/2019/641/regulation/14/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ab85db2d15bc28d9c29e22b6fe1d2e86]: Textual amendment: [Art. 12(2)](https://www.legislation.gov.uk/eur/2002/178/article/12/2) substituted (31.12.2020) by [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [14(c)](https://www.legislation.gov.uk/uksi/2019/641/regulation/14/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c9d3b90baa0d37d521a4ea9ecff432fa]: Textual amendment: Words in [Art. 13](https://www.legislation.gov.uk/eur/2002/178/article/13) substituted (31.12.2020) by [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [15(a)](https://www.legislation.gov.uk/uksi/2019/641/regulation/15/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c9d3b90baa0d37d521a4ea9ecff432fa]: Textual amendment: Words in [Art. 13](https://www.legislation.gov.uk/eur/2002/178/article/13) substituted (31.12.2020) by [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [15(a)](https://www.legislation.gov.uk/uksi/2019/641/regulation/15/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1c544113a8a3bed2150ee9926bca343e]: Textual amendment: Words in Art. 13(e) substituted (31.12.2020) by [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [15(b)](https://www.legislation.gov.uk/uksi/2019/641/regulation/15/b) (as substituted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [10(8)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/10/8)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1c544113a8a3bed2150ee9926bca343e]: Textual amendment: Words in Art. 13(e) substituted (31.12.2020) by [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [15(b)](https://www.legislation.gov.uk/uksi/2019/641/regulation/15/b) (as substituted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [10(8)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/10/8)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7a1906fdf4dec866e63b490ca207bad2]: Textual amendment: Words in Art. 14(7) substituted (31.12.2020) by [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [16(a)(i)](https://www.legislation.gov.uk/uksi/2019/641/regulation/16/a/i) (as substituted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [10(9)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/10/9)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7a1906fdf4dec866e63b490ca207bad2]: Textual amendment: Words in Art. 14(7) substituted (31.12.2020) by [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [16(a)(i)](https://www.legislation.gov.uk/uksi/2019/641/regulation/16/a/i) (as substituted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [10(9)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/10/9)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-dfcf628d16b19376dc8d8357857d076d]: Textual amendment: Word in Art. 14(7) omitted (31.12.2020) by virtue of [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [16(a)(ii)](https://www.legislation.gov.uk/uksi/2019/641/regulation/16/a/ii) (as substituted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [10(9)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/10/9)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dfcf628d16b19376dc8d8357857d076d]: Textual amendment: Word in Art. 14(7) omitted (31.12.2020) by virtue of [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [16(a)(ii)](https://www.legislation.gov.uk/uksi/2019/641/regulation/16/a/ii) (as substituted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [10(9)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/10/9)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4a41cd191ce1000386cee6f2cfd799e2]: Textual amendment: [Art. 14(9)](https://www.legislation.gov.uk/eur/2002/178/article/14/9) omitted (31.12.2020) by virtue of [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [16(b)](https://www.legislation.gov.uk/uksi/2019/641/regulation/16/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4a41cd191ce1000386cee6f2cfd799e2]: Textual amendment: [Art. 14(9)](https://www.legislation.gov.uk/eur/2002/178/article/14/9) omitted (31.12.2020) by virtue of [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [16(b)](https://www.legislation.gov.uk/uksi/2019/641/regulation/16/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8f350e6955c84f151220298dfebb17d0]: Textual amendment: Words in Art. 15(4) substituted (31.12.2020) by [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [17(a)(i)](https://www.legislation.gov.uk/uksi/2019/641/regulation/17/a/i) (as substituted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [10(10)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/10/10)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8f350e6955c84f151220298dfebb17d0]: Textual amendment: Words in Art. 15(4) substituted (31.12.2020) by [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [17(a)(i)](https://www.legislation.gov.uk/uksi/2019/641/regulation/17/a/i) (as substituted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [10(10)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/10/10)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1167deaa8debb55acb2f861fd7e79473]: Textual amendment: Word in Art. 15(4) omitted (31.12.2020) by virtue of [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [17(a)(ii)](https://www.legislation.gov.uk/uksi/2019/641/regulation/17/a/ii) (as substituted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [10(10)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/10/10)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1167deaa8debb55acb2f861fd7e79473]: Textual amendment: Word in Art. 15(4) omitted (31.12.2020) by virtue of [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [17(a)(ii)](https://www.legislation.gov.uk/uksi/2019/641/regulation/17/a/ii) (as substituted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [10(10)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/10/10)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c93f61f4211da8e2f1a761dc4a81d1a6]: Textual amendment: [Art. 15(6)](https://www.legislation.gov.uk/eur/2002/178/article/15/6) omitted (31.12.2020) by virtue of [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [17(b)](https://www.legislation.gov.uk/uksi/2019/641/regulation/17/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c93f61f4211da8e2f1a761dc4a81d1a6]: Textual amendment: [Art. 15(6)](https://www.legislation.gov.uk/eur/2002/178/article/15/6) omitted (31.12.2020) by virtue of [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [17(b)](https://www.legislation.gov.uk/uksi/2019/641/regulation/17/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6dee158361121c8519a0fbb1384d2868]: Textual amendment: [Art. 17(2)](https://www.legislation.gov.uk/eur/2002/178/article/17/2) omitted (31.12.2020) by virtue of [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [18(a)](https://www.legislation.gov.uk/uksi/2019/641/regulation/18/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6dee158361121c8519a0fbb1384d2868]: Textual amendment: [Art. 17(2)](https://www.legislation.gov.uk/eur/2002/178/article/17/2) omitted (31.12.2020) by virtue of [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [18(a)](https://www.legislation.gov.uk/uksi/2019/641/regulation/18/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-148dd558f64dce790ec614baa75953d1]: Textual amendment: Words in [Art. 17](https://www.legislation.gov.uk/eur/2002/178/article/17) omitted (31.12.2020) by virtue of [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [18(b)](https://www.legislation.gov.uk/uksi/2019/641/regulation/18/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-148dd558f64dce790ec614baa75953d1]: Textual amendment: Words in [Art. 17](https://www.legislation.gov.uk/eur/2002/178/article/17) omitted (31.12.2020) by virtue of [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [18(b)](https://www.legislation.gov.uk/uksi/2019/641/regulation/18/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7ae266b7590e8fba03b13412f6e75c73]: Textual amendment: Words in Art. 18(4) substituted (31.12.2020) by [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [19(a)](https://www.legislation.gov.uk/uksi/2019/641/regulation/19/a) (as substituted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [10(11)(a)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/10/11/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7ae266b7590e8fba03b13412f6e75c73]: Textual amendment: Words in Art. 18(4) substituted (31.12.2020) by [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [19(a)](https://www.legislation.gov.uk/uksi/2019/641/regulation/19/a) (as substituted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [10(11)(a)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/10/11/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6d382ed9eed57efc58b1bd18a9ed656d]: Textual amendment: Art. 18(5) substituted (31.12.2020) by [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [19(b)](https://www.legislation.gov.uk/uksi/2019/641/regulation/19/b) (as substituted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [10(11)(b)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/10/11/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6d382ed9eed57efc58b1bd18a9ed656d]: Textual amendment: Art. 18(5) substituted (31.12.2020) by [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [19(b)](https://www.legislation.gov.uk/uksi/2019/641/regulation/19/b) (as substituted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [10(11)(b)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/10/11/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5afb137931f0d0fd4a07a0d4f208e6e6]: Textual amendment: [Art. 21](https://www.legislation.gov.uk/eur/2002/178/article/21) omitted (31.12.2020) by virtue of [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [20(a)](https://www.legislation.gov.uk/uksi/2019/641/regulation/20/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5afb137931f0d0fd4a07a0d4f208e6e6]: Textual amendment: [Art. 21](https://www.legislation.gov.uk/eur/2002/178/article/21) omitted (31.12.2020) by virtue of [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [20(a)](https://www.legislation.gov.uk/uksi/2019/641/regulation/20/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5a6be50ad8f62b4f310f01affed9bd2a]: Textual amendment: Ch. 3 omitted (31.12.2020) by virtue of [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [20(b)](https://www.legislation.gov.uk/uksi/2019/641/regulation/20/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5a6be50ad8f62b4f310f01affed9bd2a]: Textual amendment: Ch. 3 omitted (31.12.2020) by virtue of [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [20(b)](https://www.legislation.gov.uk/uksi/2019/641/regulation/20/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4dfe9ca78ac39a15e23c2312a8cf9f0f]: Textual amendment: Ch. 4 omitted (except Art. 53) (31.12.2020) by virtue of [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [20(c)](https://www.legislation.gov.uk/uksi/2019/641/regulation/20/c) (as substituted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [10(12)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/10/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4dfe9ca78ac39a15e23c2312a8cf9f0f]: Textual amendment: Ch. 4 omitted (except Art. 53) (31.12.2020) by virtue of [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [20(c)](https://www.legislation.gov.uk/uksi/2019/641/regulation/20/c) (as substituted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [10(12)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/10/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-daa7a136d8bf41f6ba0efd4048880a24]: Textual amendment: Words in Art. 53 heading omitted (31.12.2020) by virtue of [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [20A(a)](https://www.legislation.gov.uk/uksi/2019/641/regulation/20A/a) (as inserted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [10(13)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/10/13)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-daa7a136d8bf41f6ba0efd4048880a24]: Textual amendment: Words in Art. 53 heading omitted (31.12.2020) by virtue of [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [20A(a)](https://www.legislation.gov.uk/uksi/2019/641/regulation/20A/a) (as inserted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [10(13)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/10/13)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e45bbeae8fb3cd5b8c75b9e1012fa608]: Textual amendment: Words in [Art. 53(1)](https://www.legislation.gov.uk/eur/2002/178/article/53/1) substituted (18.4.2022) by [The Food and Feed Safety (Miscellaneous Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/377)](https://www.legislation.gov.uk/uksi/2022/377), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/377/regulation/1/2), [4(2)(a)](https://www.legislation.gov.uk/uksi/2022/377/regulation/4/2/b)
+[^c-e45bbeae8fb3cd5b8c75b9e1012fa608]: Textual amendment: Words in [Art. 53(1)](https://www.legislation.gov.uk/eur/2002/178/article/53/1) substituted (18.4.2022) by [The Food and Feed Safety (Miscellaneous Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/377)](https://www.legislation.gov.uk/uksi/2022/377), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/377/regulation/1/2), [4(2)(a)](https://www.legislation.gov.uk/uksi/2022/377/regulation/4/2/b)
 
-[^key-831a2d48645771a78858b8a0cd6c9850]: Textual amendment: Words in Art. 53(1)(a) substituted (31.12.2020) by [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [20A(b)(ii)](https://www.legislation.gov.uk/uksi/2019/641/regulation/20A/b/ii) (as inserted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [10(13)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/10/13)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-831a2d48645771a78858b8a0cd6c9850]: Textual amendment: Words in Art. 53(1)(a) substituted (31.12.2020) by [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [20A(b)(ii)](https://www.legislation.gov.uk/uksi/2019/641/regulation/20A/b/ii) (as inserted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [10(13)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/10/13)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-86f6a93c7b881874b0d0a947a4306de5]: Textual amendment: Words in [Art. 53(1)(a)](https://www.legislation.gov.uk/eur/2002/178/article/53/1/a) substituted (18.4.2022) by [The Food and Feed Safety (Miscellaneous Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/377)](https://www.legislation.gov.uk/uksi/2022/377), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/377/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2022/377/regulation/4/2/b)
+[^c-86f6a93c7b881874b0d0a947a4306de5]: Textual amendment: Words in [Art. 53(1)(a)](https://www.legislation.gov.uk/eur/2002/178/article/53/1/a) substituted (18.4.2022) by [The Food and Feed Safety (Miscellaneous Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/377)](https://www.legislation.gov.uk/uksi/2022/377), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/377/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2022/377/regulation/4/2/b)
 
-[^key-d4364a759fe27d18a183e4ec1c7efae2]: Textual amendment: Words in Art. 53(1)(b) substituted (31.12.2020) by [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [20A(b)(iii)](https://www.legislation.gov.uk/uksi/2019/641/regulation/20A/b/iii) (as inserted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [10(13)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/10/13)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d4364a759fe27d18a183e4ec1c7efae2]: Textual amendment: Words in Art. 53(1)(b) substituted (31.12.2020) by [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [20A(b)(iii)](https://www.legislation.gov.uk/uksi/2019/641/regulation/20A/b/iii) (as inserted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [10(13)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/10/13)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ca9a0d885ed911683f99efa88a38c91d]: Textual amendment: Words in [Art. 53(1)(b)](https://www.legislation.gov.uk/eur/2002/178/article/53/1/b) substituted (18.4.2022) by [The Food and Feed Safety (Miscellaneous Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/377)](https://www.legislation.gov.uk/uksi/2022/377), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/377/regulation/1/2), [4(2)(c)(i)](https://www.legislation.gov.uk/uksi/2022/377/regulation/4/2/c/i)
+[^c-ca9a0d885ed911683f99efa88a38c91d]: Textual amendment: Words in [Art. 53(1)(b)](https://www.legislation.gov.uk/eur/2002/178/article/53/1/b) substituted (18.4.2022) by [The Food and Feed Safety (Miscellaneous Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/377)](https://www.legislation.gov.uk/uksi/2022/377), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/377/regulation/1/2), [4(2)(c)(i)](https://www.legislation.gov.uk/uksi/2022/377/regulation/4/2/c/i)
 
-[^key-28808e9a0062f1d355bd56cccbeb1773]: Textual amendment: Words in [Art. 53(1)(b)(i)](https://www.legislation.gov.uk/eur/2002/178/article/53/1/b/i) substituted (18.4.2022) by [The Food and Feed Safety (Miscellaneous Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/377)](https://www.legislation.gov.uk/uksi/2022/377), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/377/regulation/1/2), [4(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2022/377/regulation/4/2/c/ii)
+[^c-28808e9a0062f1d355bd56cccbeb1773]: Textual amendment: Words in [Art. 53(1)(b)(i)](https://www.legislation.gov.uk/eur/2002/178/article/53/1/b/i) substituted (18.4.2022) by [The Food and Feed Safety (Miscellaneous Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/377)](https://www.legislation.gov.uk/uksi/2022/377), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/377/regulation/1/2), [4(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2022/377/regulation/4/2/c/ii)
 
-[^key-ee7dfe1318639ef255aa3aa384637b25]: Textual amendment: Word in Art. 53(1)(b)(i)(ii) omitted (31.12.2020) by virtue of [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [20A(b)(iv)](https://www.legislation.gov.uk/uksi/2019/641/regulation/20A/b/iv) (as inserted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [10(13)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/10/13)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ee7dfe1318639ef255aa3aa384637b25]: Textual amendment: Word in Art. 53(1)(b)(i)(ii) omitted (31.12.2020) by virtue of [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [20A(b)(iv)](https://www.legislation.gov.uk/uksi/2019/641/regulation/20A/b/iv) (as inserted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [10(13)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/10/13)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3bef52aedc622fda3c3e43fced42a439]: Textual amendment: [Art. 53(2A)](https://www.legislation.gov.uk/eur/2002/178/article/53/2A) inserted (18.4.2022) by [The Food and Feed Safety (Miscellaneous Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/377)](https://www.legislation.gov.uk/uksi/2022/377), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/377/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2022/377/regulation/4/3)
+[^c-3bef52aedc622fda3c3e43fced42a439]: Textual amendment: [Art. 53(2A)](https://www.legislation.gov.uk/eur/2002/178/article/53/2A) inserted (18.4.2022) by [The Food and Feed Safety (Miscellaneous Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/377)](https://www.legislation.gov.uk/uksi/2022/377), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/377/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2022/377/regulation/4/3)
 
 [^M_F_a5990a1c-24ef-4a4e-922e-fbe56b135285]: Textual amendment: Art. 53(2) omitted (31.12.2020) by virtue of [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [20A(b)(iv)](https://www.legislation.gov.uk/uksi/2019/641/regulation/20A/b/iv) (as inserted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [10(13)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/10/13)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000006]: Textual amendment: Substituted by [Regulation (EU) 2019/1243 of the European Parliament and of the Council of 20 June 2019 adapting a number of legal acts providing for the use of the regulatory procedure with scrutiny to Articles 290 and 291 of the Treaty on the Functioning of the European Union (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2019/1243).
 
-[^key-b7d896bed993ca5b4517c21c1312c254]: Textual amendment: Art. 57a substituted (31.12.2020) by [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [21(aa)](https://www.legislation.gov.uk/uksi/2019/641/regulation/21/aa) (as inserted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [10(14)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/10/14)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b7d896bed993ca5b4517c21c1312c254]: Textual amendment: Art. 57a substituted (31.12.2020) by [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [21(aa)](https://www.legislation.gov.uk/uksi/2019/641/regulation/21/aa) (as inserted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [10(14)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/10/14)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8b7f3ed94ea2cbba2909831432f1c7b4]: Textual amendment: [Art. 58](https://www.legislation.gov.uk/eur/2002/178/article/58) omitted (31.12.2020) by virtue of [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [21(a)](https://www.legislation.gov.uk/uksi/2019/641/regulation/21/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8b7f3ed94ea2cbba2909831432f1c7b4]: Textual amendment: [Art. 58](https://www.legislation.gov.uk/eur/2002/178/article/58) omitted (31.12.2020) by virtue of [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [21(a)](https://www.legislation.gov.uk/uksi/2019/641/regulation/21/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a9b4479069d5367a9b4e0a55c0306d5f]: Textual amendment: [Art. 59](https://www.legislation.gov.uk/eur/2002/178/article/59) omitted (31.12.2020) by virtue of [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [21(a)](https://www.legislation.gov.uk/uksi/2019/641/regulation/21/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a9b4479069d5367a9b4e0a55c0306d5f]: Textual amendment: [Art. 59](https://www.legislation.gov.uk/eur/2002/178/article/59) omitted (31.12.2020) by virtue of [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [21(a)](https://www.legislation.gov.uk/uksi/2019/641/regulation/21/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e61b80736f44ed9d489da89cead14ae1]: Textual amendment: [Art. 60](https://www.legislation.gov.uk/eur/2002/178/article/60) omitted (31.12.2020) by virtue of [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [21(a)](https://www.legislation.gov.uk/uksi/2019/641/regulation/21/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e61b80736f44ed9d489da89cead14ae1]: Textual amendment: [Art. 60](https://www.legislation.gov.uk/eur/2002/178/article/60) omitted (31.12.2020) by virtue of [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [21(a)](https://www.legislation.gov.uk/uksi/2019/641/regulation/21/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000010]: Textual amendment: Substituted by [Regulation (EU) No 652/2014 of the European Parliament and of the Council of 15 May 2014 laying down provisions for the management of expenditure relating to the food chain, animal health and animal welfare, and relating to plant health and plant reproductive material, amending Council Directives 98/56/EC, 2000/29/EC and 2008/90/EC, Regulations (EC) No 178/2002, (EC) No 882/2004 and (EC) No 396/2005 of the European Parliament and of the Council, Directive 2009/128/EC of the European Parliament and of the Council and Regulation (EC) No 1107/2009 of the European Parliament and of the Council and repealing Council Decisions 66/399/EEC, 76/894/EEC and 2009/470/EC](https://www.legislation.gov.uk/eur/2014/652).
 
 [^c000009]: Textual amendment: Inserted by [Regulation (EU) 2019/1243 of the European Parliament and of the Council of 20 June 2019 adapting a number of legal acts providing for the use of the regulatory procedure with scrutiny to Articles 290 and 291 of the Treaty on the Functioning of the European Union (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2019/1243).
 
-[^key-e81693d5eba4f94f92516f081bd0c139]: Textual amendment: [Art. 61](https://www.legislation.gov.uk/eur/2002/178/article/61) omitted (31.12.2020) by virtue of [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [21(a)](https://www.legislation.gov.uk/uksi/2019/641/regulation/21/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e81693d5eba4f94f92516f081bd0c139]: Textual amendment: [Art. 61](https://www.legislation.gov.uk/eur/2002/178/article/61) omitted (31.12.2020) by virtue of [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [21(a)](https://www.legislation.gov.uk/uksi/2019/641/regulation/21/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e4982cbbc5fdd2ab28f75c6fb23d9152]: Textual amendment: [Art. 62](https://www.legislation.gov.uk/eur/2002/178/article/62) omitted (31.12.2020) by virtue of [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [21(a)](https://www.legislation.gov.uk/uksi/2019/641/regulation/21/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e4982cbbc5fdd2ab28f75c6fb23d9152]: Textual amendment: [Art. 62](https://www.legislation.gov.uk/eur/2002/178/article/62) omitted (31.12.2020) by virtue of [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [21(a)](https://www.legislation.gov.uk/uksi/2019/641/regulation/21/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7fab994c63266e43b873ea47470808d4]: Textual amendment: [Art. 63](https://www.legislation.gov.uk/eur/2002/178/article/63) omitted (31.12.2020) by virtue of [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [21(a)](https://www.legislation.gov.uk/uksi/2019/641/regulation/21/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7fab994c63266e43b873ea47470808d4]: Textual amendment: [Art. 63](https://www.legislation.gov.uk/eur/2002/178/article/63) omitted (31.12.2020) by virtue of [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [21(a)](https://www.legislation.gov.uk/uksi/2019/641/regulation/21/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1ddf589e7787f886930279dfeace7224]: Textual amendment: [Art. 64](https://www.legislation.gov.uk/eur/2002/178/article/64) omitted (31.12.2020) by virtue of [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [21(a)](https://www.legislation.gov.uk/uksi/2019/641/regulation/21/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1ddf589e7787f886930279dfeace7224]: Textual amendment: [Art. 64](https://www.legislation.gov.uk/eur/2002/178/article/64) omitted (31.12.2020) by virtue of [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [21(a)](https://www.legislation.gov.uk/uksi/2019/641/regulation/21/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9cb9a4ffcc654ac114b3c17fb33b58aa]: Textual amendment: Words in [Art. 65](https://www.legislation.gov.uk/eur/2002/178/article/65) omitted (31.12.2020) by virtue of [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [21(b)](https://www.legislation.gov.uk/uksi/2019/641/regulation/21/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9cb9a4ffcc654ac114b3c17fb33b58aa]: Textual amendment: Words in [Art. 65](https://www.legislation.gov.uk/eur/2002/178/article/65) omitted (31.12.2020) by virtue of [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [21(b)](https://www.legislation.gov.uk/uksi/2019/641/regulation/21/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e0025c0f24112b85dab60a6ec7d61c86]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2002/178/signature) omitted (31.12.2020) by virtue of [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [22](https://www.legislation.gov.uk/uksi/2019/641/regulation/22); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e0025c0f24112b85dab60a6ec7d61c86]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2002/178/signature) omitted (31.12.2020) by virtue of [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [22](https://www.legislation.gov.uk/uksi/2019/641/regulation/22); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

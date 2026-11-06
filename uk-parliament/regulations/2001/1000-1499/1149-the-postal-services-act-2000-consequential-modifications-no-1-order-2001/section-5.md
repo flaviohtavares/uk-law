@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Supplementary provision[^key-ddbec6a60b555b2e2f1f3c95672387bd]
+## 5. Supplementary provision[^c-ddbec6a60b555b2e2f1f3c95672387bd]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In sections 111 to 114 and 117 of, and Part I of Schedule 8 to, the Postal Servi
 
 ## Annotations
 
-[^key-ddbec6a60b555b2e2f1f3c95672387bd]: Commencement: Art. 5 in force at 26.3.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/1149/article/1/2)
+[^c-ddbec6a60b555b2e2f1f3c95672387bd]: Commencement: Art. 5 in force at 26.3.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/1149/article/1/2)

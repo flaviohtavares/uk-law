@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 238. Right of inspection[^key-e5aebc615ff7cfacf186deab2bdf82f2]
+## 238. Right of inspection[^c-e5aebc615ff7cfacf186deab2bdf82f2]
 
 *Extent: E+W*
 
 (1) Apply rule 8.5 of the 1986 Rules.
 
-(2)[^key-bb6f432e0cbc57cef342fa102f7433ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-bb6f432e0cbc57cef342fa102f7433ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) For paragraph (2) substitute—
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e5aebc615ff7cfacf186deab2bdf82f2]: Commencement: Rule 238 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-e5aebc615ff7cfacf186deab2bdf82f2]: Commencement: Rule 238 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
 
-[^key-bb6f432e0cbc57cef342fa102f7433ae]: Textual amendment: [Rule 238(2)](https://www.legislation.gov.uk/uksi/2009/356/rule/238/2) omitted (15.11.2010) by virtue of [The Bank Insolvency (England and Wales) (Amendment) Rules 2010 (S.I. 2010/2579)](https://www.legislation.gov.uk/uksi/2010/2579), [rules 1](https://www.legislation.gov.uk/uksi/2010/2579/article/1), [73](https://www.legislation.gov.uk/uksi/2010/2579/rule/73)
+[^c-bb6f432e0cbc57cef342fa102f7433ae]: Textual amendment: [Rule 238(2)](https://www.legislation.gov.uk/uksi/2009/356/rule/238/2) omitted (15.11.2010) by virtue of [The Bank Insolvency (England and Wales) (Amendment) Rules 2010 (S.I. 2010/2579)](https://www.legislation.gov.uk/uksi/2010/2579), [rules 1](https://www.legislation.gov.uk/uksi/2010/2579/article/1), [73](https://www.legislation.gov.uk/uksi/2010/2579/rule/73)

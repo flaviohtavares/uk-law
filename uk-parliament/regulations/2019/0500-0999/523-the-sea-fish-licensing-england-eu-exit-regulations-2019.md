@@ -36,7 +36,7 @@ Sea Fisheries, England
 
 Conservation Of Sea Fish
 
-The Sea Fish Licensing (England) (EU Exit) Regulations 2019 (revoked)[^key-22fab9fed43a886c4d5f0a2e85c8c895]
+The Sea Fish Licensing (England) (EU Exit) Regulations 2019 (revoked)[^c-22fab9fed43a886c4d5f0a2e85c8c895]
 
 Made
 
@@ -48,36 +48,36 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 1
 
-[^key-22fab9fed43a886c4d5f0a2e85c8c895]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-22fab9fed43a886c4d5f0a2e85c8c895]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-22fab9fed43a886c4d5f0a2e85c8c895]
+## 1. Citation and commencement[^c-22fab9fed43a886c4d5f0a2e85c8c895]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-22fab9fed43a886c4d5f0a2e85c8c895]
+## 2. Interpretation[^c-22fab9fed43a886c4d5f0a2e85c8c895]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prohibition on fishing in the English zone by non-British-owned Crown Dependency fishing boats[^key-22fab9fed43a886c4d5f0a2e85c8c895]
+## 3. Prohibition on fishing in the English zone by non-British-owned Crown Dependency fishing boats[^c-22fab9fed43a886c4d5f0a2e85c8c895]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Prohibition on fishing in the English zone by foreign fishing boats[^key-22fab9fed43a886c4d5f0a2e85c8c895]
+## 4. Prohibition on fishing in the English zone by foreign fishing boats[^c-22fab9fed43a886c4d5f0a2e85c8c895]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of the Sea Fishing (Licences and Notices) (England) Regulations 2012[^key-22fab9fed43a886c4d5f0a2e85c8c895]
+## 5. Amendment of the Sea Fishing (Licences and Notices) (England) Regulations 2012[^c-22fab9fed43a886c4d5f0a2e85c8c895]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-22fab9fed43a886c4d5f0a2e85c8c895]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-22fab9fed43a886c4d5f0a2e85c8c895]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-22fab9fed43a886c4d5f0a2e85c8c895]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-22fab9fed43a886c4d5f0a2e85c8c895]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-22fab9fed43a886c4d5f0a2e85c8c895]: Textual amendment: Regulations revoked (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s.54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 para. 24](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/24) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-22fab9fed43a886c4d5f0a2e85c8c895]: Textual amendment: Regulations revoked (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s.54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 para. 24](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/24) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))

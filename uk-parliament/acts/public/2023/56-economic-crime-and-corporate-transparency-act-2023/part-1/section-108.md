@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 108. Service of documents on people with significant control[^key-1bde1fcb08b43fe8182f10a9dcf89a13][^key-4530cc8afb15c04f0f548785f2cf83fd]
+## 108. Service of documents on people with significant control[^c-1bde1fcb08b43fe8182f10a9dcf89a13][^c-4530cc8afb15c04f0f548785f2cf83fd]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ In section 1140 of the Companies Act 2006 (service of documents on directors, se
 
 ## Annotations
 
-[^key-1bde1fcb08b43fe8182f10a9dcf89a13]: Commencement: S. 108 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-1bde1fcb08b43fe8182f10a9dcf89a13]: Commencement: S. 108 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-4530cc8afb15c04f0f548785f2cf83fd]: Commencement: [S. 108](https://www.legislation.gov.uk/ukpga/2023/56/section/108) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z45)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z45)
+[^c-4530cc8afb15c04f0f548785f2cf83fd]: Commencement: [S. 108](https://www.legislation.gov.uk/ukpga/2023/56/section/108) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z45)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z45)

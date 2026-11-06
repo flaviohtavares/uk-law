@@ -24,7 +24,7 @@ summary: ''
 
 (2) If the Settlement Body becomes aware of a downgrade, the Settlement Body may give notice to A to that effect.
 
-(3) A must within 10 working[^key-fe8dc59b2f2b924d00900ec61eb5557b] days of the giving of such notice by the Settlement Body or A, whichever is the earlier, provide replacement credit cover so that the total amount of credit cover provided which conforms with regulation 54 is equal to or more than the secured amount.
+(3) A must within 10 working[^c-fe8dc59b2f2b924d00900ec61eb5557b] days of the giving of such notice by the Settlement Body or A, whichever is the earlier, provide replacement credit cover so that the total amount of credit cover provided which conforms with regulation 54 is equal to or more than the secured amount.
 
 (4) If A does not comply with paragraph (3)—
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fe8dc59b2f2b924d00900ec61eb5557b]: Textual amendment: Words in [reg. 57(3)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/57/3) substituted (14.7.2016) by [The Electricity Capacity (Amendment) Regulations 2016 (S.I. 2016/742)](https://www.legislation.gov.uk/uksi/2016/742), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/742/regulation/1/2), [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2016/742/schedule/1/paragraph/16)
+[^c-fe8dc59b2f2b924d00900ec61eb5557b]: Textual amendment: Words in [reg. 57(3)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/57/3) substituted (14.7.2016) by [The Electricity Capacity (Amendment) Regulations 2016 (S.I. 2016/742)](https://www.legislation.gov.uk/uksi/2016/742), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/742/regulation/1/2), [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2016/742/schedule/1/paragraph/16)

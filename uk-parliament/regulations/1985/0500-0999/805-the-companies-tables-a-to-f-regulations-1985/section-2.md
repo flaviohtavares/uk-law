@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W+S*
 
-**2.**[^key-f66591870df7cf90e550f9777da49f83] The regulations in Table A and the forms in Tables B, C, D, E and F in the Schedule to these Regulations shall be the regulations and forms of memorandum and articles of association for the purposes of sections 3 and 8 of the Companies Act 1985.
+**2.**[^c-f66591870df7cf90e550f9777da49f83] The regulations in Table A and the forms in Tables B, C, D, E and F in the Schedule to these Regulations shall be the regulations and forms of memorandum and articles of association for the purposes of sections 3 and 8 of the Companies Act 1985.
 
 ## Annotations
 
-[^key-f66591870df7cf90e550f9777da49f83]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1985/805/regulation/2) in force at 1.7.1985, see [reg. 1](https://www.legislation.gov.uk/uksi/1985/805/regulation/1)
+[^c-f66591870df7cf90e550f9777da49f83]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1985/805/regulation/2) in force at 1.7.1985, see [reg. 1](https://www.legislation.gov.uk/uksi/1985/805/regulation/1)

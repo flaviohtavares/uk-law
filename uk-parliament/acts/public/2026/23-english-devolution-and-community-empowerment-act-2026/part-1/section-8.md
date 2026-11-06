@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Combined authorities and CCAs: designation as established mayoral strategic authorities[^key-21433eed5a745ce8efc66c9ab6090f9b][^key-b57cb08b9bc04e717cf1b211f0b7571b]
+## 8. Combined authorities and CCAs: designation as established mayoral strategic authorities[^c-21433eed5a745ce8efc66c9ab6090f9b][^c-b57cb08b9bc04e717cf1b211f0b7571b]
 
 *Extent: E+W*
 
@@ -104,6 +104,6 @@ summary: ''
 
 ## Annotations
 
-[^key-21433eed5a745ce8efc66c9ab6090f9b]: Commencement: S. 8 in force at Royal Assent for specified purposes, see [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)
+[^c-21433eed5a745ce8efc66c9ab6090f9b]: Commencement: S. 8 in force at Royal Assent for specified purposes, see [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)
 
-[^key-b57cb08b9bc04e717cf1b211f0b7571b]: Commencement: S. 8 in force at 29.6.2026 in so far as not already in force, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-b57cb08b9bc04e717cf1b211f0b7571b]: Commencement: S. 8 in force at 29.6.2026 in so far as not already in force, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)

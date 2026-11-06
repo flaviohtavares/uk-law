@@ -22,35 +22,35 @@ summary: ''
 
 Section 43(2)
 
-### 1. [Immigration Act 1971 (c. 77)](https://www.legislation.gov.uk/ukpga/1971/77)[^key-07d00eb4e6790a8de46afadbf02d163d][^key-27a92fc78fb8e20bade211e29bbd9117]
+### 1. [Immigration Act 1971 (c. 77)](https://www.legislation.gov.uk/ukpga/1971/77)[^c-07d00eb4e6790a8de46afadbf02d163d][^c-27a92fc78fb8e20bade211e29bbd9117]
 
 The Immigration Act 1971 is amended as follows.
 
-**2.**[^key-8c6d0322aa5177f5e14d3a6f20faf12b] In section 8 (exceptions for seamen etc), after subsection (1) insert—
+**2.**[^c-8c6d0322aa5177f5e14d3a6f20faf12b] In section 8 (exceptions for seamen etc), after subsection (1) insert—
 
 > (1A) Subsection (1) does not apply in relation to a member of the crew of a ship who is an offshore worker within the meaning of section 11A.
 
-**3.**[^key-acb3fa35ab1e8ceaddb4810e4134dfc1] In section 11 (references to entry etc), after subsection (1) insert—
+**3.**[^c-acb3fa35ab1e8ceaddb4810e4134dfc1] In section 11 (references to entry etc), after subsection (1) insert—
 
 > (1ZA) See also section 11A (additional means by which persons arriving in United Kingdom waters for work can enter the UK).
 
-**4.**[^key-5dd849f868590e676dce2734819bdccb] In section 28 (proceedings for offences)—
+**4.**[^c-5dd849f868590e676dce2734819bdccb] In section 28 (proceedings for offences)—
 
-- (a)[^key-d9e30199ffbfbc7ee4d3c098a54375b8] before subsection (1) insert—
+- (a)[^c-d9e30199ffbfbc7ee4d3c098a54375b8] before subsection (1) insert—
 
   > (A1) Proceedings for an offence under this Part that is committed in the territorial sea adjacent to the United Kingdom may be taken, and the offence may for all incidental purposes be treated as having been committed, in any place in the United Kingdom.
 
   ;
-- (b)[^key-1c442e811b70a4af7672c0b30ff19823] in subsection (2A), for “section 25 or 25A” substitute “this Part”.
+- (b)[^c-1c442e811b70a4af7672c0b30ff19823] in subsection (2A), for “section 25 or 25A” substitute “this Part”.
 
-**5.**[^key-72d95004e09b54ac91562cf170973a26] In section 28L (interpretation of Part 3) —
+**5.**[^c-72d95004e09b54ac91562cf170973a26] In section 28L (interpretation of Part 3) —
 
 - (a) in subsection (1), at the beginning insert “Subject to subsection (1A)”;
 - (b) after subsection (1) insert—
 
   > (1A) In this Part “premises” also includes any artificial island, installation or structure (including one in the territorial sea adjacent to the United Kingdom).
 
-**6.**[^key-98b0673f6759af1ba7ac3675e56df10f] In section 28M (enforcement powers in relation to ships: England and Wales), in subsection (2)(a)—
+**6.**[^c-98b0673f6759af1ba7ac3675e56df10f] In section 28M (enforcement powers in relation to ships: England and Wales), in subsection (2)(a)—
 
 - (a) for “section” substitute—
 
@@ -65,7 +65,7 @@ The Immigration Act 1971 is amended as follows.
 
   .
 
-**7.**[^key-3fdf09ce8bc6c62058c6373af7b17201] In section 28N (enforcement powers in relation to ships: Scotland), in subsection (2)(a)—
+**7.**[^c-3fdf09ce8bc6c62058c6373af7b17201] In section 28N (enforcement powers in relation to ships: Scotland), in subsection (2)(a)—
 
 - (a) for “section” substitute—
 
@@ -80,7 +80,7 @@ The Immigration Act 1971 is amended as follows.
 
   .
 
-**8.**[^key-fc38c928aa6589fc5c6eec1429db3a7f] In section 28O (enforcement powers in relation to ships: Northern Ireland), in subsection (2)(a)—
+**8.**[^c-fc38c928aa6589fc5c6eec1429db3a7f] In section 28O (enforcement powers in relation to ships: Northern Ireland), in subsection (2)(a)—
 
 - (a) for “section” substitute—
 
@@ -95,7 +95,7 @@ The Immigration Act 1971 is amended as follows.
 
   .
 
-**9.**[^key-12b687615414154ee30d7ac5300a991b] (1) Schedule 2 (administrative provision as to control on entry etc) is amended as follows.
+**9.**[^c-12b687615414154ee30d7ac5300a991b] (1) Schedule 2 (administrative provision as to control on entry etc) is amended as follows.
 
 (2) In paragraph 2—
 
@@ -155,7 +155,7 @@ The Immigration Act 1971 is amended as follows.
 
   > (5A) For the purposes of this paragraph, “**offshore workers**” and “**United Kingdom waters**” have the same meaning as in section 11A.
 
-**10.**[^key-38bcb3e0c898c856c4b699739fb53cda] (1) Schedule 4A (maritime enforcement powers) is amended as follows.
+**10.**[^c-38bcb3e0c898c856c4b699739fb53cda] (1) Schedule 4A (maritime enforcement powers) is amended as follows.
 
 (2) In paragraph 1(2), after the opening words insert—
 
@@ -193,7 +193,7 @@ The Immigration Act 1971 is amended as follows.
 
 (13) In paragraph 26(1), for “25 or 25A” substitute “24B, 25 or 25A of this Act or section 21 of the 2006 Act”.
 
-### 11. [Immigration, Asylum and Nationality Act 2006 (c. 13)](https://www.legislation.gov.uk/ukpga/2006/13)[^key-6ce3683e6e9077f134780288c9a53222]
+### 11. [Immigration, Asylum and Nationality Act 2006 (c. 13)](https://www.legislation.gov.uk/ukpga/2006/13)[^c-6ce3683e6e9077f134780288c9a53222]
 
 In section 21 of the Immigration, Asylum and Nationality Act 2006 (offence of employing a person who is disqualified from employment by their immigration status), after subsection (3) insert—
 
@@ -203,30 +203,30 @@ In section 21 of the Immigration, Asylum and Nationality Act 2006 (offence of em
 
 ## Annotations
 
-[^key-07d00eb4e6790a8de46afadbf02d163d]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2022/36/schedule/6/paragraph/1) in force at 24.8.2022 for specified purposes by [S.I. 2022/912](https://www.legislation.gov.uk/uksi/2022/912), [reg. 2(b)(i)](https://www.legislation.gov.uk/uksi/2022/912/regulation/2/b/i)
+[^c-07d00eb4e6790a8de46afadbf02d163d]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2022/36/schedule/6/paragraph/1) in force at 24.8.2022 for specified purposes by [S.I. 2022/912](https://www.legislation.gov.uk/uksi/2022/912), [reg. 2(b)(i)](https://www.legislation.gov.uk/uksi/2022/912/regulation/2/b/i)
 
-[^key-27a92fc78fb8e20bade211e29bbd9117]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2022/36/schedule/6/paragraph/1) in force at 12.4.2023 in so far as not already in force by [S.I. 2023/283](https://www.legislation.gov.uk/uksi/2023/283), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/283/regulation/3/b)
+[^c-27a92fc78fb8e20bade211e29bbd9117]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2022/36/schedule/6/paragraph/1) in force at 12.4.2023 in so far as not already in force by [S.I. 2023/283](https://www.legislation.gov.uk/uksi/2023/283), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/283/regulation/3/b)
 
-[^key-8c6d0322aa5177f5e14d3a6f20faf12b]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2022/36/schedule/6/paragraph/2) in force at 12.4.2023 by [S.I. 2023/283](https://www.legislation.gov.uk/uksi/2023/283), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/283/regulation/3/b)
+[^c-8c6d0322aa5177f5e14d3a6f20faf12b]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2022/36/schedule/6/paragraph/2) in force at 12.4.2023 by [S.I. 2023/283](https://www.legislation.gov.uk/uksi/2023/283), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/283/regulation/3/b)
 
-[^key-acb3fa35ab1e8ceaddb4810e4134dfc1]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2022/36/schedule/6/paragraph/3) in force at 12.4.2023 by [S.I. 2023/283](https://www.legislation.gov.uk/uksi/2023/283), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/283/regulation/3/b)
+[^c-acb3fa35ab1e8ceaddb4810e4134dfc1]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2022/36/schedule/6/paragraph/3) in force at 12.4.2023 by [S.I. 2023/283](https://www.legislation.gov.uk/uksi/2023/283), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/283/regulation/3/b)
 
-[^key-5dd849f868590e676dce2734819bdccb]: Commencement: Sch. 6 para. 4 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
+[^c-5dd849f868590e676dce2734819bdccb]: Commencement: Sch. 6 para. 4 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
 
-[^key-d9e30199ffbfbc7ee4d3c098a54375b8]: Commencement: [Sch. 6 para. 4(a)](https://www.legislation.gov.uk/ukpga/2022/36/schedule/6/paragraph/4/a) in force at 12.4.2023 by [S.I. 2023/283](https://www.legislation.gov.uk/uksi/2023/283), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/283/regulation/3/b)
+[^c-d9e30199ffbfbc7ee4d3c098a54375b8]: Commencement: [Sch. 6 para. 4(a)](https://www.legislation.gov.uk/ukpga/2022/36/schedule/6/paragraph/4/a) in force at 12.4.2023 by [S.I. 2023/283](https://www.legislation.gov.uk/uksi/2023/283), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/283/regulation/3/b)
 
-[^key-1c442e811b70a4af7672c0b30ff19823]: Commencement: [Sch. 6 para. 4(b)](https://www.legislation.gov.uk/ukpga/2022/36/schedule/6/paragraph/4/b) in force at 24.8.2022 by [S.I. 2022/912](https://www.legislation.gov.uk/uksi/2022/912), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2022/912/regulation/2/b/ii)
+[^c-1c442e811b70a4af7672c0b30ff19823]: Commencement: [Sch. 6 para. 4(b)](https://www.legislation.gov.uk/ukpga/2022/36/schedule/6/paragraph/4/b) in force at 24.8.2022 by [S.I. 2022/912](https://www.legislation.gov.uk/uksi/2022/912), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2022/912/regulation/2/b/ii)
 
-[^key-72d95004e09b54ac91562cf170973a26]: Commencement: [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2022/36/schedule/6/paragraph/5) in force at 12.4.2023 by [S.I. 2023/283](https://www.legislation.gov.uk/uksi/2023/283), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/283/regulation/3/b)
+[^c-72d95004e09b54ac91562cf170973a26]: Commencement: [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2022/36/schedule/6/paragraph/5) in force at 12.4.2023 by [S.I. 2023/283](https://www.legislation.gov.uk/uksi/2023/283), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/283/regulation/3/b)
 
-[^key-98b0673f6759af1ba7ac3675e56df10f]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2022/36/schedule/6/paragraph/6) in force at 12.4.2023 by [S.I. 2023/283](https://www.legislation.gov.uk/uksi/2023/283), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/283/regulation/3/b)
+[^c-98b0673f6759af1ba7ac3675e56df10f]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2022/36/schedule/6/paragraph/6) in force at 12.4.2023 by [S.I. 2023/283](https://www.legislation.gov.uk/uksi/2023/283), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/283/regulation/3/b)
 
-[^key-3fdf09ce8bc6c62058c6373af7b17201]: Commencement: [Sch. 6 para. 7](https://www.legislation.gov.uk/ukpga/2022/36/schedule/6/paragraph/7) in force at 12.4.2023 by [S.I. 2023/283](https://www.legislation.gov.uk/uksi/2023/283), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/283/regulation/3/b)
+[^c-3fdf09ce8bc6c62058c6373af7b17201]: Commencement: [Sch. 6 para. 7](https://www.legislation.gov.uk/ukpga/2022/36/schedule/6/paragraph/7) in force at 12.4.2023 by [S.I. 2023/283](https://www.legislation.gov.uk/uksi/2023/283), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/283/regulation/3/b)
 
-[^key-fc38c928aa6589fc5c6eec1429db3a7f]: Commencement: [Sch. 6 para. 8](https://www.legislation.gov.uk/ukpga/2022/36/schedule/6/paragraph/8) in force at 12.4.2023 by [S.I. 2023/283](https://www.legislation.gov.uk/uksi/2023/283), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/283/regulation/3/b)
+[^c-fc38c928aa6589fc5c6eec1429db3a7f]: Commencement: [Sch. 6 para. 8](https://www.legislation.gov.uk/ukpga/2022/36/schedule/6/paragraph/8) in force at 12.4.2023 by [S.I. 2023/283](https://www.legislation.gov.uk/uksi/2023/283), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/283/regulation/3/b)
 
-[^key-12b687615414154ee30d7ac5300a991b]: Commencement: [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2022/36/schedule/6/paragraph/9) in force at 12.4.2023 by [S.I. 2023/283](https://www.legislation.gov.uk/uksi/2023/283), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/283/regulation/3/b)
+[^c-12b687615414154ee30d7ac5300a991b]: Commencement: [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2022/36/schedule/6/paragraph/9) in force at 12.4.2023 by [S.I. 2023/283](https://www.legislation.gov.uk/uksi/2023/283), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/283/regulation/3/b)
 
-[^key-38bcb3e0c898c856c4b699739fb53cda]: Commencement: [Sch. 6 para. 10](https://www.legislation.gov.uk/ukpga/2022/36/schedule/6/paragraph/10) in force at 12.4.2023 by [S.I. 2023/283](https://www.legislation.gov.uk/uksi/2023/283), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/283/regulation/3/b)
+[^c-38bcb3e0c898c856c4b699739fb53cda]: Commencement: [Sch. 6 para. 10](https://www.legislation.gov.uk/ukpga/2022/36/schedule/6/paragraph/10) in force at 12.4.2023 by [S.I. 2023/283](https://www.legislation.gov.uk/uksi/2023/283), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/283/regulation/3/b)
 
-[^key-6ce3683e6e9077f134780288c9a53222]: Commencement: [Sch. 6 para. 11](https://www.legislation.gov.uk/ukpga/2022/36/schedule/6/paragraph/11) in force at 12.4.2023 by [S.I. 2023/283](https://www.legislation.gov.uk/uksi/2023/283), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/283/regulation/3/b)
+[^c-6ce3683e6e9077f134780288c9a53222]: Commencement: [Sch. 6 para. 11](https://www.legislation.gov.uk/ukpga/2022/36/schedule/6/paragraph/11) in force at 12.4.2023 by [S.I. 2023/283](https://www.legislation.gov.uk/uksi/2023/283), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/283/regulation/3/b)

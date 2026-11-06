@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Interpretation of existing legislation: references to marriage, couples and married persons[^key-a9bacbf0ffc290de9003b4f2342a6624]
+## 7. Interpretation of existing legislation: references to marriage, couples and married persons[^c-a9bacbf0ffc290de9003b4f2342a6624]
 
 *Extent: N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a9bacbf0ffc290de9003b4f2342a6624]: Commencement: Reg. 7 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-a9bacbf0ffc290de9003b4f2342a6624]: Commencement: Reg. 7 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)

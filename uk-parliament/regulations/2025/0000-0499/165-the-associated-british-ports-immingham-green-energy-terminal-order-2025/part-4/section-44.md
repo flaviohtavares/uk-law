@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 44. Power to appropriate[^key-00966e980562bac91cae278054e75fb4]
+## 44. Power to appropriate[^c-00966e980562bac91cae278054e75fb4]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-00966e980562bac91cae278054e75fb4]: Commencement: Art. 44 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
+[^c-00966e980562bac91cae278054e75fb4]: Commencement: Art. 44 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)

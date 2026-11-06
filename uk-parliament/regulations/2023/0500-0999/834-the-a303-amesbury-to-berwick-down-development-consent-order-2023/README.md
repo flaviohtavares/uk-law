@@ -31,7 +31,7 @@ summary: ''
 
 Infrastructure Planning
 
-The A303 (Amesbury to Berwick Down) Development Consent Order 2023 (revoked)[^key-ba60b02d70f93ffc3c65fe727c1611a8]
+The A303 (Amesbury to Berwick Down) Development Consent Order 2023 (revoked)[^c-ba60b02d70f93ffc3c65fe727c1611a8]
 
 Made
 
@@ -41,11 +41,11 @@ Coming into force
 
 4th August 2023
 
-[^key-ba60b02d70f93ffc3c65fe727c1611a8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ba60b02d70f93ffc3c65fe727c1611a8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — PRELIMINARY[^key-ba60b02d70f93ffc3c65fe727c1611a8]
+### PART 1 — PRELIMINARY[^c-ba60b02d70f93ffc3c65fe727c1611a8]
 
 *Extent: E+W+S*
 
@@ -55,13 +55,13 @@ Coming into force
 - [Section 2 — Interpretation](part-1/section-2.md)
 - [Section 3 — Disapplication of legislative provisions](part-1/section-3.md)
 
-### PART 2 — WORKS PROVISIONS[^key-ba60b02d70f93ffc3c65fe727c1611a8]
+### PART 2 — WORKS PROVISIONS[^c-ba60b02d70f93ffc3c65fe727c1611a8]
 
 *Extent: E+W+S*
 
 **No longer in force.**
 
-#### Principal Powers[^key-ba60b02d70f93ffc3c65fe727c1611a8]
+#### Principal Powers[^c-ba60b02d70f93ffc3c65fe727c1611a8]
 
 *Extent: E+W+S*
 
@@ -72,7 +72,7 @@ Coming into force
 - [Section 6 — Planning permission](part-2/section-6.md)
 - [Section 7 — Limits of deviation](part-2/section-7.md)
 
-#### Streets[^key-ba60b02d70f93ffc3c65fe727c1611a8]
+#### Streets[^c-ba60b02d70f93ffc3c65fe727c1611a8]
 
 *Extent: E+W+S*
 
@@ -84,7 +84,7 @@ Coming into force
 - [Section 11 — Temporary stopping up and restriction of use of streets](part-2/section-11.md)
 - [Section 12 — Access to works](part-2/section-12.md)
 
-#### Supplemental Powers[^key-ba60b02d70f93ffc3c65fe727c1611a8]
+#### Supplemental Powers[^c-ba60b02d70f93ffc3c65fe727c1611a8]
 
 *Extent: E+W+S*
 
@@ -97,13 +97,13 @@ Coming into force
 - [Section 17 — Felling or lopping of trees and hedgerows](part-2/section-17.md)
 - [Section 18 — Maintenance of drainage works](part-2/section-18.md)
 
-### PART 3 — POWERS OF ACQUISITION AND POSSESSION OF LAND[^key-ba60b02d70f93ffc3c65fe727c1611a8]
+### PART 3 — POWERS OF ACQUISITION AND POSSESSION OF LAND[^c-ba60b02d70f93ffc3c65fe727c1611a8]
 
 *Extent: E+W+S*
 
 **No longer in force.**
 
-#### Powers of acquisition[^key-ba60b02d70f93ffc3c65fe727c1611a8]
+#### Powers of acquisition[^c-ba60b02d70f93ffc3c65fe727c1611a8]
 
 *Extent: E+W+S*
 
@@ -120,7 +120,7 @@ Coming into force
 - [Section 27 — Acquisition of subsoil, etc., only](part-3/section-27.md)
 - [Section 28 — Rights over or under streets](part-3/section-28.md)
 
-##### Temporary possession of land[^key-ba60b02d70f93ffc3c65fe727c1611a8]
+##### Temporary possession of land[^c-ba60b02d70f93ffc3c65fe727c1611a8]
 
 *Extent: E+W+S*
 
@@ -129,7 +129,7 @@ Coming into force
 - [Section 29 — Temporary use of land for constructing the authorised development](part-3/section-29.md)
 - [Section 30 — Temporary use of land for maintaining the authorised development](part-3/section-30.md)
 
-##### Supplementary[^key-ba60b02d70f93ffc3c65fe727c1611a8]
+##### Supplementary[^c-ba60b02d70f93ffc3c65fe727c1611a8]
 
 *Extent: E+W+S*
 
@@ -140,7 +140,7 @@ Coming into force
 - [Section 33 — Recovery of costs of new connection](part-3/section-33.md)
 - [Section 34 — Special category land](part-3/section-34.md)
 
-##### Compensation[^key-ba60b02d70f93ffc3c65fe727c1611a8]
+##### Compensation[^c-ba60b02d70f93ffc3c65fe727c1611a8]
 
 *Extent: E+W+S*
 
@@ -150,7 +150,7 @@ Coming into force
 - [Section 36 — Set-off for enhancement in value of retained land](part-3/section-36.md)
 - [Section 37 — No double recovery](part-3/section-37.md)
 
-### PART 4 — OPERATIONAL PROVISIONS[^key-ba60b02d70f93ffc3c65fe727c1611a8]
+### PART 4 — OPERATIONAL PROVISIONS[^c-ba60b02d70f93ffc3c65fe727c1611a8]
 
 *Extent: E+W+S*
 
@@ -168,7 +168,7 @@ Coming into force
 - [Section 47 — Clearways](part-4/section-47.md)
 - [Section 48 — Traffic regulation measures](part-4/section-48.md)
 
-### PART 5 — MISCELLANEOUS AND GENERAL[^key-ba60b02d70f93ffc3c65fe727c1611a8]
+### PART 5 — MISCELLANEOUS AND GENERAL[^c-ba60b02d70f93ffc3c65fe727c1611a8]
 
 *Extent: E+W+S*
 
@@ -189,7 +189,7 @@ Coming into force
 
 **No longer in force.**
 
-[^key-ba60b02d70f93ffc3c65fe727c1611a8]SCHEDULES
+[^c-ba60b02d70f93ffc3c65fe727c1611a8]SCHEDULES
 
 - [SCHEDULE 1](schedule-1.md)
 - [SCHEDULE 2](schedule-2.md)
@@ -208,14 +208,14 @@ Coming into force
 
 **No longer in force.**
 
-[^key-ba60b02d70f93ffc3c65fe727c1611a8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ba60b02d70f93ffc3c65fe727c1611a8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S*
 
 **May not be in force at this date. Check the source.**
 
-[^key-ba60b02d70f93ffc3c65fe727c1611a8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ba60b02d70f93ffc3c65fe727c1611a8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ba60b02d70f93ffc3c65fe727c1611a8]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2023/834) revoked (18.3.2026) by [The A303 (Amesbury to Berwick Down) Development Consent (Revocation) Order 2026 (S.I. 2026/309)](https://www.legislation.gov.uk/uksi/2026/309), [arts. 1](https://www.legislation.gov.uk/uksi/2026/309/article/1), [2](https://www.legislation.gov.uk/uksi/2026/309/article/2)
+[^c-ba60b02d70f93ffc3c65fe727c1611a8]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2023/834) revoked (18.3.2026) by [The A303 (Amesbury to Berwick Down) Development Consent (Revocation) Order 2026 (S.I. 2026/309)](https://www.legislation.gov.uk/uksi/2026/309), [arts. 1](https://www.legislation.gov.uk/uksi/2026/309/article/1), [2](https://www.legislation.gov.uk/uksi/2026/309/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 330. Desertion and absence without leave: forfeiture of service etc[^key-2bcb6e78f31e94173d673c4240e58564][^key-c08b43c7799865dd6dd9b0c66af49e19]
+## 330. Desertion and absence without leave: forfeiture of service etc[^c-2bcb6e78f31e94173d673c4240e58564][^c-c08b43c7799865dd6dd9b0c66af49e19]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2bcb6e78f31e94173d673c4240e58564]: Commencement: S. 330 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-2bcb6e78f31e94173d673c4240e58564]: Commencement: S. 330 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-c08b43c7799865dd6dd9b0c66af49e19]: Commencement: S. 330 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-c08b43c7799865dd6dd9b0c66af49e19]: Commencement: S. 330 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

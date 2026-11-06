@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 29. Calculation of capital[^key-641b168f65f060e8b107188cae40ad67]
+## 29. Calculation of capital[^c-641b168f65f060e8b107188cae40ad67]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ For the purposes of Part VII of the Contributions and Benefits Act 1992 as it ap
 
 ## Annotations
 
-[^key-641b168f65f060e8b107188cae40ad67]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/1992/1814/regulation/29) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
+[^c-641b168f65f060e8b107188cae40ad67]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/1992/1814/regulation/29) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)

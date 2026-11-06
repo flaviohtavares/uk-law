@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 167. Interpretation of Part 6[^key-b01ff7a3d23682854c3bf6444b54cec1]
+## 167. Interpretation of Part 6[^c-b01ff7a3d23682854c3bf6444b54cec1]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b01ff7a3d23682854c3bf6444b54cec1]: Commencement: [S. 167](https://www.legislation.gov.uk/ukpga/2023/55/section/167) in force at 26.12.2023, see [s. 255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5)
+[^c-b01ff7a3d23682854c3bf6444b54cec1]: Commencement: [S. 167](https://www.legislation.gov.uk/ukpga/2023/55/section/167) in force at 26.12.2023, see [s. 255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5)

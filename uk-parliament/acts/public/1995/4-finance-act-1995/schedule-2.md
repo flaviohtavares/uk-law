@@ -24,7 +24,7 @@ Section 5.
 
 ### The Alcoholic Liquor Duties Act 1979
 
-**1.**[^key-7de3a11d3257253e59357d6e6945d289] In section 4(1) of the [^c15673651]Alcoholic Liquor Duties Act 1979 (interpretation)—
+**1.**[^c-7de3a11d3257253e59357d6e6945d289] In section 4(1) of the [^c15673651]Alcoholic Liquor Duties Act 1979 (interpretation)—
 
 - (a) for the definition of “authorised methylator” there shall be substituted the following definition—
 
@@ -39,26 +39,26 @@ Section 5.
 
   .
 
-**2.**[^key-885accaedf5d49771a273ce68630d56c] Section 9 of that Act (remission of duty on spirits for methylation) shall cease to have effect.
+**2.**[^c-885accaedf5d49771a273ce68630d56c] Section 9 of that Act (remission of duty on spirits for methylation) shall cease to have effect.
 
-**3.**[^key-6805e3e33e0889a5612637d0252ec3a4] In section 10 of that Act (remission of duty on spirits), for “methylated spirits” there shall be substituted “ denatured alcohol ”.
+**3.**[^c-6805e3e33e0889a5612637d0252ec3a4] In section 10 of that Act (remission of duty on spirits), for “methylated spirits” there shall be substituted “ denatured alcohol ”.
 
-**4.**[^key-61fb3994cb5ad1837a9bcfca63ac1fa3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-61fb3994cb5ad1837a9bcfca63ac1fa3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-ee5aa6c958b818e323d4b79068427412] In sections 75, 77, 79 and 80 of that Act (which contain provisions regulating methylation)—
+**5.**[^c-ee5aa6c958b818e323d4b79068427412] In sections 75, 77, 79 and 80 of that Act (which contain provisions regulating methylation)—
 
 - (a) for the words “methylate”, “methylates”, “methylator” and “methylators”, wherever they occur, and for the word “methylated”, where it occurs outside the expression “methylated spirits”, there shall be substituted, respectively, “ denature ”, “ denatures ”, “ denaturer ”, “ denaturers ” and “ denatured ”;
 - (b) for the words “methylation” and “methylating”, wherever they occur, there shall be substituted, in each case, “ denaturing ”;
 - (c) for the word “spirits”, wherever it occurs outside the expression “methylated spirits”, there shall be substituted “ dutiable alcoholic liquor ”;
 - (d) for the words “methylated spirits”, wherever they occur, there shall be substituted “ denatured alcohol ”.
 
-**6.**[^key-3f08ee39924dcf456921b7f43ee53da1] In section 77(2) of that Act (provisions supplemental to powers to make regulations), after paragraph (a) there shall be inserted the following paragraph—
+**6.**[^c-3f08ee39924dcf456921b7f43ee53da1] In section 77(2) of that Act (provisions supplemental to powers to make regulations), after paragraph (a) there shall be inserted the following paragraph—
 
 > - (aa) frame any provision of the regulations with respect to the supply, receipt or use of denatured alcohol by reference to matters to be contained from time to time in a notice published in accordance with the regulations by the Commissioners and having effect until withdrawn in accordance with the regulations; and
 
 .
 
-**7.**[^key-906442e39d8a77c6101952e496724cb3] For section 78 of that Act (additional provisions relating to methylated spirits) there shall be substituted the following section—
+**7.**[^c-906442e39d8a77c6101952e496724cb3] For section 78 of that Act (additional provisions relating to methylated spirits) there shall be substituted the following section—
 
 > **78. Defaults in respect of denatured alcohol.**
 >
@@ -98,28 +98,28 @@ Section 5.
 
 ### The Finance Act 1994
 
-**8.**[^key-91f5b73e45cd5f0636f6154493c2fdbd] In paragraph 3(1)(d) of Schedule 5 to the Finance Act 1994 (decisions under or for the purposes of section 9 or 10 of the [^c15673671]Alcoholic Liquor Duties Act 1979 to be subject to review and appeal), for “section 9 or 10 (remission of duty on spirits for methylation or” there shall be substituted “ section 10 (remission of duty on spirits ”.
+**8.**[^c-91f5b73e45cd5f0636f6154493c2fdbd] In paragraph 3(1)(d) of Schedule 5 to the Finance Act 1994 (decisions under or for the purposes of section 9 or 10 of the [^c15673671]Alcoholic Liquor Duties Act 1979 to be subject to review and appeal), for “section 9 or 10 (remission of duty on spirits for methylation or” there shall be substituted “ section 10 (remission of duty on spirits ”.
 
 ## Annotations
 
-[^key-7de3a11d3257253e59357d6e6945d289]: Commencement: Sch. 2 para. 1 in force at 1.7.2005 by [S.I. 2005/1523](https://www.legislation.gov.uk/uksi/2005/1523), [art. 2(a)](https://www.legislation.gov.uk/uksi/2005/1523/article/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/1523/article/3))
+[^c-7de3a11d3257253e59357d6e6945d289]: Commencement: Sch. 2 para. 1 in force at 1.7.2005 by [S.I. 2005/1523](https://www.legislation.gov.uk/uksi/2005/1523), [art. 2(a)](https://www.legislation.gov.uk/uksi/2005/1523/article/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/1523/article/3))
 
 [^c15673651]: Marginal citation: [1979 c. 4](https://www.legislation.gov.uk/ukpga/1979/4).
 
-[^key-885accaedf5d49771a273ce68630d56c]: Commencement: Sch. 2 para. 2 in force at 1.7.2005 by [S.I. 2005/1523](https://www.legislation.gov.uk/uksi/2005/1523), [art. 2(a)](https://www.legislation.gov.uk/uksi/2005/1523/article/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/1523/article/3))
+[^c-885accaedf5d49771a273ce68630d56c]: Commencement: Sch. 2 para. 2 in force at 1.7.2005 by [S.I. 2005/1523](https://www.legislation.gov.uk/uksi/2005/1523), [art. 2(a)](https://www.legislation.gov.uk/uksi/2005/1523/article/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/1523/article/3))
 
-[^key-6805e3e33e0889a5612637d0252ec3a4]: Commencement: Sch. 2 para. 3 in force at 1.7.2005 by [S.I. 2005/1523](https://www.legislation.gov.uk/uksi/2005/1523), [art. 2(a)](https://www.legislation.gov.uk/uksi/2005/1523/article/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/1523/article/3))
+[^c-6805e3e33e0889a5612637d0252ec3a4]: Commencement: Sch. 2 para. 3 in force at 1.7.2005 by [S.I. 2005/1523](https://www.legislation.gov.uk/uksi/2005/1523), [art. 2(a)](https://www.legislation.gov.uk/uksi/2005/1523/article/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/1523/article/3))
 
-[^key-61fb3994cb5ad1837a9bcfca63ac1fa3]: Textual amendment: Sch. 2 para. 4 repealed (19.7.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 1(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/1/1)
+[^c-61fb3994cb5ad1837a9bcfca63ac1fa3]: Textual amendment: Sch. 2 para. 4 repealed (19.7.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 1(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/1/1)
 
-[^key-ee5aa6c958b818e323d4b79068427412]: Commencement: Sch. 2 para. 5 in force at 1.7.2005 by [S.I. 2005/1523](https://www.legislation.gov.uk/uksi/2005/1523), [art. 2(a)](https://www.legislation.gov.uk/uksi/2005/1523/article/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/1523/article/3))
+[^c-ee5aa6c958b818e323d4b79068427412]: Commencement: Sch. 2 para. 5 in force at 1.7.2005 by [S.I. 2005/1523](https://www.legislation.gov.uk/uksi/2005/1523), [art. 2(a)](https://www.legislation.gov.uk/uksi/2005/1523/article/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/1523/article/3))
 
-[^key-3f08ee39924dcf456921b7f43ee53da1]: Commencement: Sch. 2 para. 6 in force at 1.7.2005 by [S.I. 2005/1523](https://www.legislation.gov.uk/uksi/2005/1523), [art. 2(a)](https://www.legislation.gov.uk/uksi/2005/1523/article/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/1523/article/3))
+[^c-3f08ee39924dcf456921b7f43ee53da1]: Commencement: Sch. 2 para. 6 in force at 1.7.2005 by [S.I. 2005/1523](https://www.legislation.gov.uk/uksi/2005/1523), [art. 2(a)](https://www.legislation.gov.uk/uksi/2005/1523/article/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/1523/article/3))
 
-[^key-906442e39d8a77c6101952e496724cb3]: Commencement: Sch. 2 para. 7 in force at 1.7.2005 by [S.I. 2005/1523](https://www.legislation.gov.uk/uksi/2005/1523), [art. 2(a)](https://www.legislation.gov.uk/uksi/2005/1523/article/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/1523/article/3))
+[^c-906442e39d8a77c6101952e496724cb3]: Commencement: Sch. 2 para. 7 in force at 1.7.2005 by [S.I. 2005/1523](https://www.legislation.gov.uk/uksi/2005/1523), [art. 2(a)](https://www.legislation.gov.uk/uksi/2005/1523/article/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/1523/article/3))
 
 [^c15673661]: Marginal citation: [1994 c. 9](https://www.legislation.gov.uk/ukpga/1994/9).
 
-[^key-91f5b73e45cd5f0636f6154493c2fdbd]: Commencement: Sch. 2 para. 8 in force at 1.7.2005 by [S.I. 2005/1523](https://www.legislation.gov.uk/uksi/2005/1523), [art. 2(a)](https://www.legislation.gov.uk/uksi/2005/1523/article/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/1523/article/3))
+[^c-91f5b73e45cd5f0636f6154493c2fdbd]: Commencement: Sch. 2 para. 8 in force at 1.7.2005 by [S.I. 2005/1523](https://www.legislation.gov.uk/uksi/2005/1523), [art. 2(a)](https://www.legislation.gov.uk/uksi/2005/1523/article/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/1523/article/3))
 
 [^c15673671]: Marginal citation: [1979 c. 4](https://www.legislation.gov.uk/ukpga/1979/4).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Contents of injunctions[^key-69bf8fccd96ac6f79063c04cb4f5a1d8]
+## 35. Contents of injunctions[^c-69bf8fccd96ac6f79063c04cb4f5a1d8]
 
 *Extent: E+W*
 
@@ -28,7 +28,7 @@ summary: ''
 - (b) being with particular persons in a particular place;
 - (c) being in charge of a particular species of animal in a particular place;
 - (d) wearing particular descriptions of articles of clothing in a particular place;
-- (e) using the internet to facilitate or encourage violence or drug-dealing activity[^key-f967e24a9e5c6fa579341305237701d3].
+- (e) using the internet to facilitate or encourage violence or drug-dealing activity[^c-f967e24a9e5c6fa579341305237701d3].
 
 (3) The requirements included in the injunction may, in particular, have the effect of requiring the respondent to—
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-69bf8fccd96ac6f79063c04cb4f5a1d8]: Commencement: S. 35 in force at 31.1.2011 by [S.I. 2010/2988](https://www.legislation.gov.uk/uksi/2010/2988), [art. 2](https://www.legislation.gov.uk/uksi/2010/2988/article/2)
+[^c-69bf8fccd96ac6f79063c04cb4f5a1d8]: Commencement: S. 35 in force at 31.1.2011 by [S.I. 2010/2988](https://www.legislation.gov.uk/uksi/2010/2988), [art. 2](https://www.legislation.gov.uk/uksi/2010/2988/article/2)
 
-[^key-f967e24a9e5c6fa579341305237701d3]: Textual amendment: Words in [s. 35(2)(e)](https://www.legislation.gov.uk/ukpga/2009/26/section/35/2/e) inserted (1.6.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 4 para. 84](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/84); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 3(q)(ix)](https://www.legislation.gov.uk/uksi/2015/820/regulation/3/q/ix)
+[^c-f967e24a9e5c6fa579341305237701d3]: Textual amendment: Words in [s. 35(2)(e)](https://www.legislation.gov.uk/ukpga/2009/26/section/35/2/e) inserted (1.6.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 4 para. 84](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/84); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 3(q)(ix)](https://www.legislation.gov.uk/uksi/2015/820/regulation/3/q/ix)

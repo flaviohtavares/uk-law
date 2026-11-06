@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 25. Registration of events affecting registered common grazings[^key-e43a97f7f101e1150b37b8207956dfa0][^key-3212a086ed3dc143a334a6f45667cf9f]
+## 25. Registration of events affecting registered common grazings[^c-e43a97f7f101e1150b37b8207956dfa0][^c-3212a086ed3dc143a334a6f45667cf9f]
 
 *Extent: S*
 
@@ -56,6 +56,6 @@ that subsection.
 
 ## Annotations
 
-[^key-e43a97f7f101e1150b37b8207956dfa0]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2010/14/section/25) in force at 30.10.2012 for specified purposes by [S.S.I. 2012/288](https://www.legislation.gov.uk/ssi/2012/288), [art. 3(1)(a)](https://www.legislation.gov.uk/ssi/2012/288/article/3/1/a)[(2)](https://www.legislation.gov.uk/ssi/2012/288/article/3/2), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ssi/2012/288/schedule/1/part/1)
+[^c-e43a97f7f101e1150b37b8207956dfa0]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2010/14/section/25) in force at 30.10.2012 for specified purposes by [S.S.I. 2012/288](https://www.legislation.gov.uk/ssi/2012/288), [art. 3(1)(a)](https://www.legislation.gov.uk/ssi/2012/288/article/3/1/a)[(2)](https://www.legislation.gov.uk/ssi/2012/288/article/3/2), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ssi/2012/288/schedule/1/part/1)
 
-[^key-3212a086ed3dc143a334a6f45667cf9f]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2010/14/section/25) in force at 30.11.2012 in so far as not already in force by [S.S.I. 2012/288](https://www.legislation.gov.uk/ssi/2012/288), [art. 3(1)(b)](https://www.legislation.gov.uk/ssi/2012/288/article/3/1/b)[(2)](https://www.legislation.gov.uk/ssi/2012/288/article/3/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ssi/2012/288/schedule/1/part/2)
+[^c-3212a086ed3dc143a334a6f45667cf9f]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2010/14/section/25) in force at 30.11.2012 in so far as not already in force by [S.S.I. 2012/288](https://www.legislation.gov.uk/ssi/2012/288), [art. 3(1)(b)](https://www.legislation.gov.uk/ssi/2012/288/article/3/1/b)[(2)](https://www.legislation.gov.uk/ssi/2012/288/article/3/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ssi/2012/288/schedule/1/part/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 359. Interpretation of this Part[^key-dbff809f2084180cdc470a9d3a92741c]
+## 359. Interpretation of this Part[^c-dbff809f2084180cdc470a9d3a92741c]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dbff809f2084180cdc470a9d3a92741c]: Commencement: S. 359 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-dbff809f2084180cdc470a9d3a92741c]: Commencement: S. 359 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

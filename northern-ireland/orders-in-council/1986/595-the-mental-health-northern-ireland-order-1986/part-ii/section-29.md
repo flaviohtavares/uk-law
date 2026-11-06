@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 29. Return and readmission of patients absent without leave[^key-a3ae32041dc146f818a5adc7a55a2630][^key-6ba6ec704d975916eba2dbd43043104e]
+## 29. Return and readmission of patients absent without leave[^c-a3ae32041dc146f818a5adc7a55a2630][^c-6ba6ec704d975916eba2dbd43043104e]
 
 *Extent: N.I.*
 
@@ -38,9 +38,9 @@ he may, subject to paragraphs (3) and (4), be taken into custody and returned to
 
 ## Annotations
 
-[^key-a3ae32041dc146f818a5adc7a55a2630]: Modification: [Art. 29](https://www.legislation.gov.uk/nisi/1986/595/article/29) applied (with modifications) (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2012 (S.R. 2012/403)](https://www.legislation.gov.uk/nisr/2012/403), [regs. 1](https://www.legislation.gov.uk/nisr/2012/403/regulation/1), [3(3)(z)(i)-(iii)](https://www.legislation.gov.uk/nisr/2012/403/regulation/3/3/z/i), [4](https://www.legislation.gov.uk/nisr/2012/403/regulation/4)
+[^c-a3ae32041dc146f818a5adc7a55a2630]: Modification: [Art. 29](https://www.legislation.gov.uk/nisi/1986/595/article/29) applied (with modifications) (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2012 (S.R. 2012/403)](https://www.legislation.gov.uk/nisr/2012/403), [regs. 1](https://www.legislation.gov.uk/nisr/2012/403/regulation/1), [3(3)(z)(i)-(iii)](https://www.legislation.gov.uk/nisr/2012/403/regulation/3/3/z/i), [4](https://www.legislation.gov.uk/nisr/2012/403/regulation/4)
 
-[^key-6ba6ec704d975916eba2dbd43043104e]: Modification: [Art. 29](https://www.legislation.gov.uk/nisi/1986/595/article/29) applied (with modifications.) (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2013 (S.R. 2013/22)](https://www.legislation.gov.uk/nisr/2013/22), [regs. 1](https://www.legislation.gov.uk/nisr/2013/22/regulation/1), [3(3)(q)](https://www.legislation.gov.uk/nisr/2013/22/regulation/3/3/q), [4](https://www.legislation.gov.uk/nisr/2013/22/regulation/4)
+[^c-6ba6ec704d975916eba2dbd43043104e]: Modification: [Art. 29](https://www.legislation.gov.uk/nisi/1986/595/article/29) applied (with modifications.) (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2013 (S.R. 2013/22)](https://www.legislation.gov.uk/nisr/2013/22), [regs. 1](https://www.legislation.gov.uk/nisr/2013/22/regulation/1), [3(3)(q)](https://www.legislation.gov.uk/nisr/2013/22/regulation/3/3/q), [4](https://www.legislation.gov.uk/nisr/2013/22/regulation/4)
 
 [^c17124081]: Textual amendment: [1994 NI 2](https://www.legislation.gov.uk/1994/ni2)
 

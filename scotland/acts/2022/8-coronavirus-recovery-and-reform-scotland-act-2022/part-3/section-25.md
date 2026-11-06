@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 25. Giving information of particulars of birth remotely[^key-71c42f6591d9c53de0197d29974eb4a6][^key-0e7b96fcf15f44588bcf871a6981c0f1][^key-1f72628843e95d1a33958151b93a8eeb]
+## 25. Giving information of particulars of birth remotely[^c-71c42f6591d9c53de0197d29974eb4a6][^c-0e7b96fcf15f44588bcf871a6981c0f1][^c-1f72628843e95d1a33958151b93a8eeb]
 
 *Extent: S*
 
-(1)[^key-71c42f6591d9c53de0197d29974eb4a6] The Registration of Births, Deaths and Marriages (Scotland) Act 1965 is modified as follows.
+(1)[^c-71c42f6591d9c53de0197d29974eb4a6] The Registration of Births, Deaths and Marriages (Scotland) Act 1965 is modified as follows.
 
-(2)[^key-71c42f6591d9c53de0197d29974eb4a6] In section 14 (duty to give information of particulars of birth)—
+(2)[^c-71c42f6591d9c53de0197d29974eb4a6] In section 14 (duty to give information of particulars of birth)—
 
 - (a) in subsection (1)(b), for “the next following subsection” substitute “subsection (2)”,
 - (b) in subsection (1A)—
@@ -55,7 +55,7 @@ summary: ''
 
   .
 
-(3)[^key-71c42f6591d9c53de0197d29974eb4a6] After section 14 insert—
+(3)[^c-71c42f6591d9c53de0197d29974eb4a6] After section 14 insert—
 
 > **14A. Directions about giving information of particulars of birth**
 >
@@ -71,7 +71,7 @@ summary: ''
 
 .
 
-(4)[^key-71c42f6591d9c53de0197d29974eb4a6] In section 16 (registrar’s power to require information concerning birth to be given)—
+(4)[^c-71c42f6591d9c53de0197d29974eb4a6] In section 16 (registrar’s power to require information concerning birth to be given)—
 
 - (a) in subsection (1)—
   - (i) after “requiring him” insert “before such date (being not less than 8 days and not more than 15 days after the date of service of the notice) as may be specified in the notice”,
@@ -101,12 +101,12 @@ summary: ''
 
   .
 
-(5)[^key-71c42f6591d9c53de0197d29974eb4a6] In section 16B(2) (registration of births)—
+(5)[^c-71c42f6591d9c53de0197d29974eb4a6] In section 16B(2) (registration of births)—
 
 - (a) for “he obtained the attested birth registration by virtue of” substitute “information was given in a manner permitted by a direction under”,
 - (b) after “14(1A)(b)” insert “or (c)”.
 
-(6)[^key-0e7b96fcf15f44588bcf871a6981c0f1][^key-1f72628843e95d1a33958151b93a8eeb] In section 18 (which makes provision about registration by a father not married to, or in a civil partnership with, the child’s mother)—
+(6)[^c-0e7b96fcf15f44588bcf871a6981c0f1][^c-1f72628843e95d1a33958151b93a8eeb] In section 18 (which makes provision about registration by a father not married to, or in a civil partnership with, the child’s mother)—
 
 - (a) in subsection (1)(a), for “that person” to “together with” substitute “the birth registration form is to be attested by, or on behalf of, both that person and”,
 - (b) in subsection (1A), for “by him” to “the registrar” substitute “by, or on behalf of, that person”,
@@ -128,7 +128,7 @@ summary: ''
 
   .
 
-(7)[^key-0e7b96fcf15f44588bcf871a6981c0f1][^key-1f72628843e95d1a33958151b93a8eeb] In section 18B (births of children where second female parent by virtue of section 43 of the Human Fertilisation and Embryology Act 2008)—
+(7)[^c-0e7b96fcf15f44588bcf871a6981c0f1][^c-1f72628843e95d1a33958151b93a8eeb] In section 18B (births of children where second female parent by virtue of section 43 of the Human Fertilisation and Embryology Act 2008)—
 
 - (a) in subsection (1)(a), for “woman concerned shall” to “together with” substitute “birth registration form is to be attested by, or on behalf of, both the woman concerned and”,
 - (b) in subsection (2), for “in the presence of the registrar” substitute “, or on her behalf”,
@@ -150,7 +150,7 @@ summary: ''
 
   .
 
-(8)[^key-71c42f6591d9c53de0197d29974eb4a6] After section 21 insert—
+(8)[^c-71c42f6591d9c53de0197d29974eb4a6] After section 21 insert—
 
 > **21A. Meaning of birth registration form**
 >
@@ -163,8 +163,8 @@ summary: ''
 
 ## Annotations
 
-[^key-71c42f6591d9c53de0197d29974eb4a6]: Commencement: [S. 25(1)-(5)](https://www.legislation.gov.uk/asp/2022/8/section/25/1)[(8)](https://www.legislation.gov.uk/asp/2022/8/section/25/8) in force at 24.9.2022, see [s. 59(2)(b)](https://www.legislation.gov.uk/asp/2022/8/section/59/2/b)
+[^c-71c42f6591d9c53de0197d29974eb4a6]: Commencement: [S. 25(1)-(5)](https://www.legislation.gov.uk/asp/2022/8/section/25/1)[(8)](https://www.legislation.gov.uk/asp/2022/8/section/25/8) in force at 24.9.2022, see [s. 59(2)(b)](https://www.legislation.gov.uk/asp/2022/8/section/59/2/b)
 
-[^key-0e7b96fcf15f44588bcf871a6981c0f1]: Commencement: [S. 25(6)(7)](https://www.legislation.gov.uk/asp/2022/8/section/25/6/7) in force at 1.9.2022 for specified purposes, see [s. 59(2)(a)(i)](https://www.legislation.gov.uk/asp/2022/8/section/59/2/a/i)
+[^c-0e7b96fcf15f44588bcf871a6981c0f1]: Commencement: [S. 25(6)(7)](https://www.legislation.gov.uk/asp/2022/8/section/25/6/7) in force at 1.9.2022 for specified purposes, see [s. 59(2)(a)(i)](https://www.legislation.gov.uk/asp/2022/8/section/59/2/a/i)
 
-[^key-1f72628843e95d1a33958151b93a8eeb]: Commencement: [S. 25(6)](https://www.legislation.gov.uk/asp/2022/8/section/25/6)[(7)](https://www.legislation.gov.uk/asp/2022/8/section/25/7) in force at 24.9.2022 in so far as not already in force, see [s. 59(2)(a)(ii)](https://www.legislation.gov.uk/asp/2022/8/section/59/2/a/ii)
+[^c-1f72628843e95d1a33958151b93a8eeb]: Commencement: [S. 25(6)](https://www.legislation.gov.uk/asp/2022/8/section/25/6)[(7)](https://www.legislation.gov.uk/asp/2022/8/section/25/7) in force at 24.9.2022 in so far as not already in force, see [s. 59(2)(a)(ii)](https://www.legislation.gov.uk/asp/2022/8/section/59/2/a/ii)

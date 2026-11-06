@@ -41,11 +41,11 @@ Coming into operation
 
 The Department for Communities[^f00001], in exercise of the powers conferred by Article 64 and 148(1) of the Housing (Northern Ireland) Order 2003[^f00002] hereby makes the following Order:
 
-## 1. Citation and commencement[^key-b3948c61a84494020b0ecfd033c38186]
+## 1. Citation and commencement[^c-b3948c61a84494020b0ecfd033c38186]
 
 This Order may be cited as the Housing Renovation etc. Grants (Grant Limit) (Amendment) Order (Northern Ireland) 2023 and shall come into operation on 1st February 2023.
 
-## 2. Amendment of the Housing Renovation etc. Grants (Grant Limit) Order (Northern Ireland) 2003[^key-c5a672c4bb2a3e015bec1974c3db8474]
+## 2. Amendment of the Housing Renovation etc. Grants (Grant Limit) Order (Northern Ireland) 2003[^c-c5a672c4bb2a3e015bec1974c3db8474]
 
 (1) Article 2 (Maximum Amount) of the Housing Renovation etc. Grants (Grant Limit) Order (Northern Ireland) 2003[^f00003] is amended in accordance with paragraphs (2) and (3).
 
@@ -56,7 +56,7 @@ This Order may be cited as the Housing Renovation etc. Grants (Grant Limit) (Ame
 - (a) For “£25,000” substitute “£35,000”,
 - (b) For “£50,000” substitute “£70,000”.
 
-## 3. Saving Provision[^key-1b5cc5d279f56b3226d5d0a52ad4b5a3]
+## 3. Saving Provision[^c-1b5cc5d279f56b3226d5d0a52ad4b5a3]
 
 This Order shall not have effect in relation to an application for a grant made before 1st February 2023.
 
@@ -82,10 +82,10 @@ These Regulations amend Articles 2 and 3 of the Housing Renovation etc. Grants (
 
 [^f00002]: Footnote: [S.I. 2003/412 (N.I. 2)](https://www.legislation.gov.uk/nisi/2003/412)
 
-[^key-b3948c61a84494020b0ecfd033c38186]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2023/2/article/1) in operation at 1.2.2023, see [art. 1](https://www.legislation.gov.uk/nisr/2023/2/article/1)
+[^c-b3948c61a84494020b0ecfd033c38186]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2023/2/article/1) in operation at 1.2.2023, see [art. 1](https://www.legislation.gov.uk/nisr/2023/2/article/1)
 
-[^key-c5a672c4bb2a3e015bec1974c3db8474]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2023/2/article/2) in operation at 1.2.2023, see [art. 1](https://www.legislation.gov.uk/nisr/2023/2/article/1)
+[^c-c5a672c4bb2a3e015bec1974c3db8474]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2023/2/article/2) in operation at 1.2.2023, see [art. 1](https://www.legislation.gov.uk/nisr/2023/2/article/1)
 
 [^f00003]: Footnote: [S.R. 2003 No. 463](https://www.legislation.gov.uk/nisr/2003/463)
 
-[^key-1b5cc5d279f56b3226d5d0a52ad4b5a3]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2023/2/article/3) in operation at 1.2.2023, see [art. 1](https://www.legislation.gov.uk/nisr/2023/2/article/1)
+[^c-1b5cc5d279f56b3226d5d0a52ad4b5a3]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2023/2/article/3) in operation at 1.2.2023, see [art. 1](https://www.legislation.gov.uk/nisr/2023/2/article/1)

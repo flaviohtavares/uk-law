@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 119. Short title[^key-48454d124717e8e8de03c1069eb532fa]
+## 119. Short title[^c-48454d124717e8e8de03c1069eb532fa]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ This Act may be cited as the Planning and Infrastructure Act 2025.
 
 ## Annotations
 
-[^key-48454d124717e8e8de03c1069eb532fa]: Commencement: S. 119 in force at Royal Assent, see [s. 118(6)(b)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/6/b)
+[^c-48454d124717e8e8de03c1069eb532fa]: Commencement: S. 119 in force at Royal Assent, see [s. 118(6)(b)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/6/b)

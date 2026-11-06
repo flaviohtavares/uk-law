@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 50. Constitution and powers[^key-538829de620a9a31e7e802c4c5023df4]
+## 50. Constitution and powers[^c-538829de620a9a31e7e802c4c5023df4]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-538829de620a9a31e7e802c4c5023df4]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2005/10/section/50) in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/20](https://www.legislation.gov.uk/ssi/2011/20), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2011/20/article/2/2/a)
+[^c-538829de620a9a31e7e802c4c5023df4]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2005/10/section/50) in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/20](https://www.legislation.gov.uk/ssi/2011/20), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2011/20/article/2/2/a)

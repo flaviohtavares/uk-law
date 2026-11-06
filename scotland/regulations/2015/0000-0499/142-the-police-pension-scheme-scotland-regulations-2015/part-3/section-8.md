@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8. Membership of pension board[^key-ec0cffe850b1e6d2303762fcf40c62da]
+## 8. Membership of pension board[^c-ec0cffe850b1e6d2303762fcf40c62da]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ec0cffe850b1e6d2303762fcf40c62da]: Commencement: Reg. 8 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-ec0cffe850b1e6d2303762fcf40c62da]: Commencement: Reg. 8 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**130.**[^key-57c8f02dfe94567cc03e6e500c4bed7c] In paragraph 7(a), for “a county court” substitute “the family court”.
+**130.**[^c-57c8f02dfe94567cc03e6e500c4bed7c] In paragraph 7(a), for “a county court” substitute “the family court”.
 
 ## Annotations
 
-[^key-57c8f02dfe94567cc03e6e500c4bed7c]: Commencement: Art. 130 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-57c8f02dfe94567cc03e6e500c4bed7c]: Commencement: Art. 130 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

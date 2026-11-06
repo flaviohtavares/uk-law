@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 52. Transitional provisions: other licences under the 2005 Order or the 2018 Order[^key-7404f4a01c748cf3cc083b94f694c429]
+## 52. Transitional provisions: other licences under the 2005 Order or the 2018 Order[^c-7404f4a01c748cf3cc083b94f694c429]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7404f4a01c748cf3cc083b94f694c429]: Commencement: Reg. 52 in force at 27.3.2020, see reg. 1
+[^c-7404f4a01c748cf3cc083b94f694c429]: Commencement: Reg. 52 in force at 27.3.2020, see reg. 1

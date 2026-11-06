@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 64. Right of review of decisions by the Secretary of State[^key-a59b18cdd4660ca776f81b380b6a28fd]
+## 64. Right of review of decisions by the Secretary of State[^c-a59b18cdd4660ca776f81b380b6a28fd]
 
 *Extent: E+W+S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a59b18cdd4660ca776f81b380b6a28fd]: Commencement: Reg. 64 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)
+[^c-a59b18cdd4660ca776f81b380b6a28fd]: Commencement: Reg. 64 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)

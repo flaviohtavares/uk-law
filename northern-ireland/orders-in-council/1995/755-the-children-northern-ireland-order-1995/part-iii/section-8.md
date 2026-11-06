@@ -46,7 +46,7 @@ but does not include proceedings on an application for leave under Article 173(2
 
 - (e) the Adoption Order;
 - (f) Part IV of the Matrimonial and Family Proceedings (Northern Ireland) Order 1989[^c17269171];
-- (g)[^c21145881] section 54 or 54A[^key-bf5eb802ac01a2a5c291df64f9b6d770] of the Human Fertilisation and Embryology Act 2008;
+- (g)[^c21145881] section 54 or 54A[^c-bf5eb802ac01a2a5c291df64f9b6d770] of the Human Fertilisation and Embryology Act 2008;
 - (h)[^c17269191] the Family Homes and Domestic Violence (Northern Ireland) Order 1998.
 - (ha)[^M_F_28f32955-93f5-480a-871c-0eb5f8600d2a] Part 2 of Schedule 2 to the Female Genital Mutilation Act 2003 (other than paragraph 20 of that Schedule).
 - (i)[^c17269211] Chapter 2 of Part 4 of, or Schedule 15, 16 or 17 to, the Civil Partnership Act 2004
@@ -61,7 +61,7 @@ but does not include proceedings on an application for leave under Article 173(2
 
 [^c21145881]: Textual amendment: Art. 8(4)(g) substituted (6.4.2010) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [ss. 56](https://www.legislation.gov.uk/ukpga/2008/22/section/56), [68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 6 para. 73](https://www.legislation.gov.uk/ukpga/2008/22/schedule/6/paragraph/73); [S.I. 2010/987](https://www.legislation.gov.uk/uksi/2010/987), [art. 2(d)(g)](https://www.legislation.gov.uk/uksi/2010/987/article/2/d/g)
 
-[^key-bf5eb802ac01a2a5c291df64f9b6d770]: Textual amendment: Words in [art. 8(4)(g)](https://www.legislation.gov.uk/nisi/1995/755/article/8/4/g) inserted (3.1.2019) by virtue of [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2018/1413/schedule/1/paragraph/10)
+[^c-bf5eb802ac01a2a5c291df64f9b6d770]: Textual amendment: Words in [art. 8(4)(g)](https://www.legislation.gov.uk/nisi/1995/755/article/8/4/g) inserted (3.1.2019) by virtue of [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2018/1413/schedule/1/paragraph/10)
 
 [^c17269191]: Textual amendment: [1998 NI 6](https://www.legislation.gov.uk/nisi/1998)
 

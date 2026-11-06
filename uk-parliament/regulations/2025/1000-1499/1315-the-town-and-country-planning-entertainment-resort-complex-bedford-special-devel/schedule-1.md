@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 1 — Reference documents[^key-26908ad4b749cd24b095e022df374c58]
+## SCHEDULE 1 — Reference documents[^c-26908ad4b749cd24b095e022df374c58]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ Article 2(3)
 
 ## Annotations
 
-[^key-26908ad4b749cd24b095e022df374c58]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2025/1315) revoked (17.12.2025) by [The Town and Country Planning (Entertainment Resort Complex, Bedford) Special Development (No. 2) Order 2025 (S.I. 2025/1322)](https://www.legislation.gov.uk/uksi/2025/1322), [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1322/article/1/2)[(5)](https://www.legislation.gov.uk/uksi/2025/1322/article/1/5)
+[^c-26908ad4b749cd24b095e022df374c58]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2025/1315) revoked (17.12.2025) by [The Town and Country Planning (Entertainment Resort Complex, Bedford) Special Development (No. 2) Order 2025 (S.I. 2025/1322)](https://www.legislation.gov.uk/uksi/2025/1322), [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1322/article/1/2)[(5)](https://www.legislation.gov.uk/uksi/2025/1322/article/1/5)

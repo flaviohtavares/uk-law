@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Citation and commencement[^key-2dd8848668594fbe8edcd751b9bf8233]
+## 1. Citation and commencement[^c-2dd8848668594fbe8edcd751b9bf8233]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2dd8848668594fbe8edcd751b9bf8233]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2007/1167/regulation/1) in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/1167/regulation/1/2)
+[^c-2dd8848668594fbe8edcd751b9bf8233]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2007/1167/regulation/1) in force at 6.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/1167/regulation/1/2)

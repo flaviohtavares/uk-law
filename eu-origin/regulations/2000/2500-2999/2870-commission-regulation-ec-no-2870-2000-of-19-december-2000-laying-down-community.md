@@ -59,7 +59,7 @@ The measures provided for in this Regulation are in accordance with the opinion 
 
 HAS ADOPTED THIS REGULATION:
 
-**Article 1.** The [^key-f535d64316e83aa39b763d2d949ff441]... reference methods for the analysis of spirits drinks to ensure compliance with Regulation 110/2008[^key-8911c92a7d33426254e4147c1169163e]:
+**Article 1.** The [^c-f535d64316e83aa39b763d2d949ff441]... reference methods for the analysis of spirits drinks to ensure compliance with Regulation 110/2008[^c-8911c92a7d33426254e4147c1169163e]:
 
 - when any official control takes place, or
 - in the event of a dispute,
@@ -68,35 +68,35 @@ shall be those set out in the Annex hereto.
 
 **Article 2.** Notwithstanding the first indent of Article 1, other analytical methods shall be permitted, under the responsibility of the director of the laboratory, on condition that the accuracy and precision (repeatability and reproducibility) of the methods are at least equivalent to those of the relevant reference analytical methods given in the Annex.
 
-**Article 3.** (1.)[^key-6ced431c7229903739b1c6150a454551] Where [^key-ea07ad2cf1054b021846fe4d48dc72b6]... analytical reference methods are not laid down in[^key-0ed51fa146f5738c649967e33774181e] assimilated[^key-68a36e466545a4ca0f67bbf42c939921] law for the detection and quantification of substances contained in a particular spirit drink, the following methods shall be used:
+**Article 3.** (1.)[^c-6ced431c7229903739b1c6150a454551] Where [^c-ea07ad2cf1054b021846fe4d48dc72b6]... analytical reference methods are not laid down in[^c-0ed51fa146f5738c649967e33774181e] assimilated[^c-68a36e466545a4ca0f67bbf42c939921] law for the detection and quantification of substances contained in a particular spirit drink, the following methods shall be used:
 
-- ((a)) analytical methods which are validated to internationally recognised procedures and in particular meet the criteria set in Annex 3 to Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products[^key-537b543148b4045cdc1ae6a717d46980];
+- ((a)) analytical methods which are validated to internationally recognised procedures and in particular meet the criteria set in Annex 3 to Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products[^c-537b543148b4045cdc1ae6a717d46980];
 - ((b)) analytical methods conforming to the recommended standards of the International Organisation for Standardisation (ISO);
 - ((c)) analytical methods recognised by the General Assembly of the International Vine and Wine Office (OIV) and published by that Office;
 - ((d)) in the absence of a method as indicated at (a), (b) or (c), by reason of its accuracy, repeatability and reproducibility:
-  - in relation to an official control being carried out in an individual case, an analytical method approved by the appropriate authority by administrative decision,[^key-5eef9401bdda46b23337d53e6706798e]
+  - in relation to an official control being carried out in an individual case, an analytical method approved by the appropriate authority by administrative decision,[^c-5eef9401bdda46b23337d53e6706798e]
   - where necessary, any other suitable analytical method.
 
-(2.)[^key-94b12eb2c56c69814c158781fc74d71b] In this Article:
+(2.)[^c-94b12eb2c56c69814c158781fc74d71b] In this Article:
 
 - (a) regardless of where the analysis itself is carried out, ‘the appropriate authority’ means:
   - (i) in a case of an analysis carried out as part of an official control relating to the production, labelling or marketing of a drink as a spirit drink, or category of spirit drink, in England, the Secretary of State;
   - (ii) in a case of an analysis carried out as part of an official control relating to the production, labelling or marketing of a drink as a spirit drink, or category of spirit drink, in Scotland, the Scottish Ministers;
   - (iii) in a case of an analysis carried out as part of an official control relating to the production, labelling or marketing of a drink as a spirit drink, or category of spirit drink, in Wales, the Welsh Ministers;
-- (b) ‘assimilated[^key-d05ee54c6683f46fb1a9992f3414676d] law’ has the meaning given in section 6(7) of the European Union (Withdrawal) Act 2018 but does not include any legislation so far as it extends to Northern Ireland.
+- (b) ‘assimilated[^c-d05ee54c6683f46fb1a9992f3414676d] law’ has the meaning given in section 6(7) of the European Union (Withdrawal) Act 2018 but does not include any legislation so far as it extends to Northern Ireland.
 
 **Article 4.** For the purposes of this Regulation:
 
 - ((a)) ‘repeatability limit’: shall be the value less than or equal to which the absolute difference between two test results obtained under the repeatability conditions (same operator, same apparatus, same laboratory and a short interval of time) may be expected to be with a probability of 95 % {ISO 3534-1};
 - ((b)) ‘reproducibility limit’: shall be the value less than or equal to which the absolute difference between two test results obtained under the reproducibility conditions (different operators, different apparatus and different laboratories), may be expected to be with a probability of 95 % {ISO 3534-1};
 - ((c)) ‘accuracy’: shall be the closeness of agreement between a test result and the accepted reference value {ISO 3534-1}.
-- ((d)) ‘Regulation 110/2008’: means Regulation[^key-c81551ecf0e224b067f4190aaaea4413] [(EC) No 110/2008](https://www.legislation.gov.uk/eur/2008/110) of the European Parliament and of the Council on the definition, description, presentation, labelling and the protection of geographical indications of spirit drinks.
+- ((d)) ‘Regulation 110/2008’: means Regulation[^c-c81551ecf0e224b067f4190aaaea4413] [(EC) No 110/2008](https://www.legislation.gov.uk/eur/2008/110) of the European Parliament and of the Council on the definition, description, presentation, labelling and the protection of geographical indications of spirit drinks.
 
 **Article 5.** This Regulation shall enter into force on the seventh day following its publication in the *Official Journal of the European Communities*.
 
 It shall apply from 1 January 2001.
 
-[^key-d082952a240adabf9deba6449fb377da]...
+[^c-d082952a240adabf9deba6449fb377da]...
 
 ## ANNEX
 
@@ -868,7 +868,7 @@ GENERAL REMARKS
 
 Definitions
 
-Regulation 110/2008[^key-5f8e308e6309d0be5401c266c13830a3] sets minimum levels of volatile compounds other than ethanol and methanol for a series of spirit drinks (rum, spirits of viticultural origin, fruit spirits, etc.). For this series of drinks only, these levels are conventionally considered to be equivalent to the sum of the concentrations of:
+Regulation 110/2008[^c-5f8e308e6309d0be5401c266c13830a3] sets minimum levels of volatile compounds other than ethanol and methanol for a series of spirit drinks (rum, spirits of viticultural origin, fruit spirits, etc.). For this series of drinks only, these levels are conventionally considered to be equivalent to the sum of the concentrations of:
 
 - 1.. volatile acids expressed as acetic acid;
 - 2.. aldehydes expressed as ethanal by the sum of ethanal (acetaldehyde) and the ethanal fraction contained in 1,1-diethoxyethane (acetal);
@@ -886,7 +886,7 @@ Gas chromatographic analysis of volatile compounds
 
 Gas chromatographic assays of volatile compounds other than those set out above may prove particularly interesting as a means of determining both the origin of the raw material used in the distillation and the actual conditions of distillation.
 
-Some spirits contain other volatile components, such as aromatic compounds, which are characteristic of the raw materials used to obtain the alcohol, of the aroma of the spirit drink and of the special features of the preparation of the spirit. These compounds are important for evaluating the requirements set out in Regulation 110/2008[^key-e629acd4db059a6043a6d45af0fef418].
+Some spirits contain other volatile components, such as aromatic compounds, which are characteristic of the raw materials used to obtain the alcohol, of the aroma of the spirit drink and of the special features of the preparation of the spirit. These compounds are important for evaluating the requirements set out in Regulation 110/2008[^c-e629acd4db059a6043a6d45af0fef418].
 
 III.2.
 
@@ -2171,7 +2171,7 @@ GLYCYRRHIZIC ACID. DETERMINATION OF GLYCYRRHIZIC ACID USING HIGH PERFORMANCE LIQ
 
 Scope
 
-This method is suitable for the determination of glycyrrhizic acid in aniseed-flavoured spirit drinks using high performance liquid chromatography (HPLC). Regulation 110/2008[^key-f7d7ad8a58dda068b68382d83e9ba25f] specifies that any aniseed-flavoured spirit called ‘ pastis ’ must contain between 0,05 and 0,5 g of glycyrrhizic acid per litre.
+This method is suitable for the determination of glycyrrhizic acid in aniseed-flavoured spirit drinks using high performance liquid chromatography (HPLC). Regulation 110/2008[^c-f7d7ad8a58dda068b68382d83e9ba25f] specifies that any aniseed-flavoured spirit called ‘ pastis ’ must contain between 0,05 and 0,5 g of glycyrrhizic acid per litre.
 
 2\.
 
@@ -2453,7 +2453,7 @@ Scope
 
 This method is suitable for determining whether chalcones are present in aniseed-flavoured drinks or not. Chalcones are natural colorants of the flavonoid family that are present in liquorice root ( *Glycyrrhiza glabra* ).
 
-For an aniseed-flavoured spirit to be called ‘ pastis ’ , it must contain chalcones (Regulation 110/2008[^key-0ba3dfa7169da319db2eb0c8d322a090]).
+For an aniseed-flavoured spirit to be called ‘ pastis ’ , it must contain chalcones (Regulation 110/2008[^c-0ba3dfa7169da319db2eb0c8d322a090]).
 
 2\.
 
@@ -3766,41 +3766,41 @@ Horwitz, W. (1982) *Analytical Chemistry* , 54, 67A-76A.
 
 [^f00004]: Footnote: [OJ L 372, 31.12.1985, p. 50](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1985.372.01.0050.01.ENG).
 
-[^key-f535d64316e83aa39b763d2d949ff441]: Textual amendment: Word in [Art. 1](https://www.legislation.gov.uk/eur/2000/2870/article/1) omitted (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [16(2)(a)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/16/2/a)
+[^c-f535d64316e83aa39b763d2d949ff441]: Textual amendment: Word in [Art. 1](https://www.legislation.gov.uk/eur/2000/2870/article/1) omitted (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [16(2)(a)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/16/2/a)
 
-[^key-8911c92a7d33426254e4147c1169163e]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eur/2000/2870/article/1) substituted (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [16(2)(b)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/16/2/b)
+[^c-8911c92a7d33426254e4147c1169163e]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eur/2000/2870/article/1) substituted (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [16(2)(b)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/16/2/b)
 
-[^key-6ced431c7229903739b1c6150a454551]: Textual amendment: Art. 3 renumbered as Art. 3(1) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [16(3)(a)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/16/3/a)
+[^c-6ced431c7229903739b1c6150a454551]: Textual amendment: Art. 3 renumbered as Art. 3(1) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [16(3)(a)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/16/3/a)
 
-[^key-ea07ad2cf1054b021846fe4d48dc72b6]: Textual amendment: Word in [Art. 3(1)](https://www.legislation.gov.uk/eur/2000/2870/article/3/1) omitted (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [16(3)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/16/3/b/i)
+[^c-ea07ad2cf1054b021846fe4d48dc72b6]: Textual amendment: Word in [Art. 3(1)](https://www.legislation.gov.uk/eur/2000/2870/article/3/1) omitted (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [16(3)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/16/3/b/i)
 
-[^key-0ed51fa146f5738c649967e33774181e]: Textual amendment: Words in [Art. 3(1)](https://www.legislation.gov.uk/eur/2000/2870/article/3/1) inserted (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [16(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/16/3/b/ii)
+[^c-0ed51fa146f5738c649967e33774181e]: Textual amendment: Words in [Art. 3(1)](https://www.legislation.gov.uk/eur/2000/2870/article/3/1) inserted (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [16(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/16/3/b/ii)
 
-[^key-68a36e466545a4ca0f67bbf42c939921]: Textual amendment: Word in [Art. 3(1)](https://www.legislation.gov.uk/eur/2000/2870/article/3/1) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 59](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/59)
+[^c-68a36e466545a4ca0f67bbf42c939921]: Textual amendment: Word in [Art. 3(1)](https://www.legislation.gov.uk/eur/2000/2870/article/3/1) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 59](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/59)
 
-[^key-537b543148b4045cdc1ae6a717d46980]: Textual amendment: Words in [Art. 3(1)(a)](https://www.legislation.gov.uk/eur/2000/2870/article/3/1/a) substituted (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [16(3)(c)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/16/3/c)
+[^c-537b543148b4045cdc1ae6a717d46980]: Textual amendment: Words in [Art. 3(1)(a)](https://www.legislation.gov.uk/eur/2000/2870/article/3/1/a) substituted (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [16(3)(c)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/16/3/c)
 
-[^key-5eef9401bdda46b23337d53e6706798e]: Textual amendment: Words in [Art. 3(1)(d)](https://www.legislation.gov.uk/eur/2000/2870/article/3/1/d) substituted (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [16(3)(d)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/16/3/d)
+[^c-5eef9401bdda46b23337d53e6706798e]: Textual amendment: Words in [Art. 3(1)(d)](https://www.legislation.gov.uk/eur/2000/2870/article/3/1/d) substituted (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [16(3)(d)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/16/3/d)
 
-[^key-94b12eb2c56c69814c158781fc74d71b]: Textual amendment: [Art. 3(2)](https://www.legislation.gov.uk/eur/2000/2870/article/3/2) inserted (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [16(3)(e)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/16/3/e)
+[^c-94b12eb2c56c69814c158781fc74d71b]: Textual amendment: [Art. 3(2)](https://www.legislation.gov.uk/eur/2000/2870/article/3/2) inserted (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [16(3)(e)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/16/3/e)
 
-[^key-d05ee54c6683f46fb1a9992f3414676d]: Textual amendment: Word in [Art. 3(2)(b)](https://www.legislation.gov.uk/eur/2000/2870/article/3/2/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 59](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/59)
+[^c-d05ee54c6683f46fb1a9992f3414676d]: Textual amendment: Word in [Art. 3(2)(b)](https://www.legislation.gov.uk/eur/2000/2870/article/3/2/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 59](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/59)
 
-[^key-c81551ecf0e224b067f4190aaaea4413]: Textual amendment: [Art. 4(d)](https://www.legislation.gov.uk/eur/2000/2870/article/4/d) inserted (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [16(4)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/16/4)
+[^c-c81551ecf0e224b067f4190aaaea4413]: Textual amendment: [Art. 4(d)](https://www.legislation.gov.uk/eur/2000/2870/article/4/d) inserted (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [16(4)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/16/4)
 
-[^key-d082952a240adabf9deba6449fb377da]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2000/2870/signature) omitted (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [16(5)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/16/5)
+[^c-d082952a240adabf9deba6449fb377da]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2000/2870/signature) omitted (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [16(5)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/16/5)
 
-[^key-5f8e308e6309d0be5401c266c13830a3]: Textual amendment: Words in Annex Ch. 3 Pt. 3.1 para. 1 substituted (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [16(6)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/16/6/a/i)
+[^c-5f8e308e6309d0be5401c266c13830a3]: Textual amendment: Words in Annex Ch. 3 Pt. 3.1 para. 1 substituted (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [16(6)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/16/6/a/i)
 
-[^key-e629acd4db059a6043a6d45af0fef418]: Textual amendment: Words in Annex Ch. 3 Pt. 3.1 para. 2 substituted (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [16(6)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/16/6/a/ii)
+[^c-e629acd4db059a6043a6d45af0fef418]: Textual amendment: Words in Annex Ch. 3 Pt. 3.1 para. 2 substituted (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [16(6)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/16/6/a/ii)
 
 [^c000003]: Textual amendment: Inserted by [Commission Implementing Regulation (EU) 2016/635 of 22 April 2016 amending the Annex to Regulation (EC) No 2870/2000 as regards certain reference methods for the analysis of spirit drinks](https://www.legislation.gov.uk/eur/2016/635).
 
 [^c000004]: Textual amendment: Inserted by [Commission Regulation (EC) No 2091/2002 of 26 November 2002 amending Regulation (EC) No 2870/2000 laying down Community reference methods for the analysis of spirits drinks](https://www.legislation.gov.uk/eur/2002/2091).
 
-[^key-f7d7ad8a58dda068b68382d83e9ba25f]: Textual amendment: Words in [Annex Ch. 6 para. 1](https://www.legislation.gov.uk/eur/2000/2870/annex/Ch/paragraph/1) substituted (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [16(6)(b)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/16/6/b)
+[^c-f7d7ad8a58dda068b68382d83e9ba25f]: Textual amendment: Words in [Annex Ch. 6 para. 1](https://www.legislation.gov.uk/eur/2000/2870/annex/Ch/paragraph/1) substituted (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [16(6)(b)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/16/6/b)
 
-[^key-0ba3dfa7169da319db2eb0c8d322a090]: Textual amendment: Words in [Annex Ch. 7 para. 1](https://www.legislation.gov.uk/eur/2000/2870/annex/Ch/paragraph/1) substituted (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [16(6)(c)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/16/6/c)
+[^c-0ba3dfa7169da319db2eb0c8d322a090]: Textual amendment: Words in [Annex Ch. 7 para. 1](https://www.legislation.gov.uk/eur/2000/2870/annex/Ch/paragraph/1) substituted (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [16(6)(c)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/16/6/c)
 
 [^f00025]: Footnote: Inconsistent results between the two duplicates, attributed to a sampling error[^c000004]
 

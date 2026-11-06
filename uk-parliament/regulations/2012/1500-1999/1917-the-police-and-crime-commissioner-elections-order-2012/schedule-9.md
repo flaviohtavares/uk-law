@@ -85,7 +85,7 @@ Article 74
 |  | In subsection (7), for “the local government area” substitute “ the police area ”. |
 | Section 131 (accommodation of and attendance on court) | In subsection (1)— |
 |  | (a) for “The proper officer of the authority for which the election was held” substitute “ The appropriate officer for the police area in which the election was held ”; |
-|  | (b) for “shall be paid by that authority” substitute “ shall be paid by the Secretary of State[^key-9ca1793d9bdf269cab3eda8c71fc3c3e] out of money provided by Parliament ”. |
+|  | (b) for “shall be paid by that authority” substitute “ shall be paid by the Secretary of State[^c-9ca1793d9bdf269cab3eda8c71fc3c3e] out of money provided by Parliament ”. |
 |  |  |
 | Section 132 (remuneration and allowances) | In subsection (2), for the words from “in the first instance” to the end substitute “ by the Secretary of State out of money provided by Parliament ”. |
 |  |  |
@@ -189,7 +189,7 @@ Article 74
 |  | (a) for “this Act” (in each place) substitute “ this Part of this Act or any provision of the Police and Crime Commissioner Elections Order 2012 ”; |
 |  | (b) in paragraph (c), for “in the constituency or, as the case may be, the area of the authority” substitute “ in the police area ”. |
 |  |  |
-| Section 168 (prosecutions for corrupt practices) | In subsection (1)(a), in sub-paragraph (i), for “corrupt practice under section or 112A[^key-f03981bd537eddcdd65e391cbe4f17ac] above” substitute “ corrupt practice under article 17 of, or paragraph 9A or 10[^key-b86617f5457ca6b3f306830934b14b55] of Schedule 2 to, the Police and Crime Commissioner Elections Order 2012 ”. |
+| Section 168 (prosecutions for corrupt practices) | In subsection (1)(a), in sub-paragraph (i), for “corrupt practice under section or 112A[^c-f03981bd537eddcdd65e391cbe4f17ac] above” substitute “ corrupt practice under article 17 of, or paragraph 9A or 10[^c-b86617f5457ca6b3f306830934b14b55] of Schedule 2 to, the Police and Crime Commissioner Elections Order 2012 ”. |
 |  |  |
 | Section 169 (prosecutions for illegal practices) |  |
 |  |  |
@@ -321,11 +321,11 @@ Article 74
 
 ## Annotations
 
-[^key-9ca1793d9bdf269cab3eda8c71fc3c3e]: Textual amendment: Words in Sch. 9 Pt. 1 Table substituted (8.12.2021) by [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 30(3)(k)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/30/3/k) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
+[^c-9ca1793d9bdf269cab3eda8c71fc3c3e]: Textual amendment: Words in Sch. 9 Pt. 1 Table substituted (8.12.2021) by [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 30(3)(k)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/30/3/k) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
 
-[^key-f03981bd537eddcdd65e391cbe4f17ac]: Textual amendment: Words in [Sch. 9 Pt. 1](https://www.legislation.gov.uk/uksi/2012/1917/schedule/9/part/1) table inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/1/2), [8(9)(a)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/8/9/a)
+[^c-f03981bd537eddcdd65e391cbe4f17ac]: Textual amendment: Words in [Sch. 9 Pt. 1](https://www.legislation.gov.uk/uksi/2012/1917/schedule/9/part/1) table inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/1/2), [8(9)(a)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/8/9/a)
 
-[^key-b86617f5457ca6b3f306830934b14b55]: Textual amendment: Words in [Sch. 9 Pt. 1](https://www.legislation.gov.uk/uksi/2012/1917/schedule/9/part/1) table substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/1/2), [8(9)(b)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/8/9/b)
+[^c-b86617f5457ca6b3f306830934b14b55]: Textual amendment: Words in [Sch. 9 Pt. 1](https://www.legislation.gov.uk/uksi/2012/1917/schedule/9/part/1) table substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/1/2), [8(9)(b)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/8/9/b)
 
 [^c21344641]: Marginal citation: [2003 c.17](https://www.legislation.gov.uk/ukpga/2003/17).
 

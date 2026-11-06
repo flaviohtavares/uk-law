@@ -32,7 +32,7 @@ summary: ''
 
 Seeds
 
-The Seed (Fees) (Scotland) Regulations 2016 (revoked)[^key-7ad2afe9642740f73b4cbf78cc9fe6fc]
+The Seed (Fees) (Scotland) Regulations 2016 (revoked)[^c-7ad2afe9642740f73b4cbf78cc9fe6fc]
 
 Made
 
@@ -46,47 +46,47 @@ Coming into force
 
 1st July 2016
 
-[^key-7ad2afe9642740f73b4cbf78cc9fe6fc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7ad2afe9642740f73b4cbf78cc9fe6fc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-7ad2afe9642740f73b4cbf78cc9fe6fc]
+## 1. Citation, commencement and extent[^c-7ad2afe9642740f73b4cbf78cc9fe6fc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-7ad2afe9642740f73b4cbf78cc9fe6fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-7ad2afe9642740f73b4cbf78cc9fe6fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Interpretation[^key-7ad2afe9642740f73b4cbf78cc9fe6fc]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 4. Fees for matters set out in Schedule 1[^key-7ad2afe9642740f73b4cbf78cc9fe6fc]
+## 3. Interpretation[^c-7ad2afe9642740f73b4cbf78cc9fe6fc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Fees for matters set out in Schedule 2[^key-7ad2afe9642740f73b4cbf78cc9fe6fc]
+## 4. Fees for matters set out in Schedule 1[^c-7ad2afe9642740f73b4cbf78cc9fe6fc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Exemptions[^key-7ad2afe9642740f73b4cbf78cc9fe6fc]
+## 5. Fees for matters set out in Schedule 2[^c-7ad2afe9642740f73b4cbf78cc9fe6fc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Revocations[^key-7ad2afe9642740f73b4cbf78cc9fe6fc]
+## 6. Exemptions[^c-7ad2afe9642740f73b4cbf78cc9fe6fc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7ad2afe9642740f73b4cbf78cc9fe6fc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## 7. Revocations[^c-7ad2afe9642740f73b4cbf78cc9fe6fc]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-7ad2afe9642740f73b4cbf78cc9fe6fc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — FEES FOR MATTERS RELATING TO THE SEED MARKETING REGULATIONS[^key-7ad2afe9642740f73b4cbf78cc9fe6fc]
+## SCHEDULE 1 — FEES FOR MATTERS RELATING TO THE SEED MARKETING REGULATIONS[^c-7ad2afe9642740f73b4cbf78cc9fe6fc]
 
 Regulation 4(2)(a)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — FEES FOR MATTERS RELATING TO THE 2016 REGULATIONS[^key-7ad2afe9642740f73b4cbf78cc9fe6fc]
+## SCHEDULE 2 — FEES FOR MATTERS RELATING TO THE 2016 REGULATIONS[^c-7ad2afe9642740f73b4cbf78cc9fe6fc]
 
 Regulation 5
 
@@ -94,8 +94,8 @@ Regulation 5
 
 **May not be in force at this date. Check the source.**
 
-[^key-7ad2afe9642740f73b4cbf78cc9fe6fc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7ad2afe9642740f73b4cbf78cc9fe6fc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7ad2afe9642740f73b4cbf78cc9fe6fc]: Textual amendment: Regulations revoked (1.7.2017) by [The Seed (Fees etc.) (Scotland) Regulations 2017 (S.S.I. 2017/179)](https://www.legislation.gov.uk/ssi/2017/179), [regs. 1](https://www.legislation.gov.uk/ssi/2017/179/regulation/1), [7](https://www.legislation.gov.uk/ssi/2017/179/regulation/7)
+[^c-7ad2afe9642740f73b4cbf78cc9fe6fc]: Textual amendment: Regulations revoked (1.7.2017) by [The Seed (Fees etc.) (Scotland) Regulations 2017 (S.S.I. 2017/179)](https://www.legislation.gov.uk/ssi/2017/179), [regs. 1](https://www.legislation.gov.uk/ssi/2017/179/regulation/1), [7](https://www.legislation.gov.uk/ssi/2017/179/regulation/7)

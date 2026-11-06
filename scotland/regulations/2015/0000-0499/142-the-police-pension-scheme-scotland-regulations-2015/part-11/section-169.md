@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 169. Interpretation of Part[^key-3a375feb15caa5c0ff97a17bbdf8c906]
+## 169. Interpretation of Part[^c-3a375feb15caa5c0ff97a17bbdf8c906]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ In this Part—
 
 ## Annotations
 
-[^key-3a375feb15caa5c0ff97a17bbdf8c906]: Commencement: Reg. 169 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-3a375feb15caa5c0ff97a17bbdf8c906]: Commencement: Reg. 169 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

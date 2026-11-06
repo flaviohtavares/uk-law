@@ -16,17 +16,17 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^key-aede824bc02ff0720df800e5ea32adb4]
+## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^c-aede824bc02ff0720df800e5ea32adb4]
 
 *Extent: E+W*
 
 Articles 2 and 7
 
-[^key-aede824bc02ff0720df800e5ea32adb4]
+[^c-aede824bc02ff0720df800e5ea32adb4]
 
 In the area of North East Lincolnshire Council and the Order limits, a nationally significant infrastructure project as defined by sections 14(1)(j) and 24 of the 2008 Act being a ro-ro facility together with associated development comprising—
 
-[^key-aede824bc02ff0720df800e5ea32adb4]
+[^c-aede824bc02ff0720df800e5ea32adb4]
 
 **Work No. 1** – The construction of a jetty and three berths as shown on sheets 1 and 2 of the works plans, comprising—
 
@@ -37,22 +37,22 @@ In the area of North East Lincolnshire Council and the Order limits, a nationall
   - (i) the northern finger pier to be constructed with berthing faces on both its northern and southern elevations equipped with mooring infrastructure; and
   - (ii) the southern finger pier to be constructed with a berthing face only on its northern elevation equipped with mooring infrastructure.
 
-[^key-aede824bc02ff0720df800e5ea32adb4]
+[^c-aede824bc02ff0720df800e5ea32adb4]
 
 **Work No. 2** – A dredged berthing pocket as identified on sheets 1 and 2 of the works plans with a depth of up to 9.0 metres below Chart Datum.
 
-[^key-aede824bc02ff0720df800e5ea32adb4]
+[^c-aede824bc02ff0720df800e5ea32adb4]
 
 **Work No. 3** – The construction of vessel impact protection measures as shown on sheet 1 of the works plans formed of—
 
 - (a) a single row of tubular piles with a reinforced concrete capping beam, the outer facing elevation of the beam which may be equipped with fendering units and panels; and/or
 - (b) a piled dolphin structure with a capping slab and fendering units.
 
-[^key-aede824bc02ff0720df800e5ea32adb4]
+[^c-aede824bc02ff0720df800e5ea32adb4]
 
 **Associated development** within the meaning of section 115(2) of the 2008 Act—
 
-[^key-aede824bc02ff0720df800e5ea32adb4]
+[^c-aede824bc02ff0720df800e5ea32adb4]
 
 **Work No. 4** – The construction and laying out of the northern ro-ro freight and container storage area as shown on sheets 2 and 3 of the works plans comprising—
 
@@ -66,7 +66,7 @@ In the area of North East Lincolnshire Council and the Order limits, a nationall
 - (h) the erection of security fencing, gates and lighting; and
 - (i) installation of maintenance access track.
 
-[^key-aede824bc02ff0720df800e5ea32adb4]
+[^c-aede824bc02ff0720df800e5ea32adb4]
 
 **Work No. 5** – The construction and laying out of the southern and central ro-ro freight storage area as shown on sheets 3 and 4 of the works plans comprising—
 
@@ -79,7 +79,7 @@ In the area of North East Lincolnshire Council and the Order limits, a nationall
 - (g) the construction of new level crossings; and
 - (h) the erection of security fencing, gates and lighting.
 
-[^key-aede824bc02ff0720df800e5ea32adb4]
+[^c-aede824bc02ff0720df800e5ea32adb4]
 
 **Work No. 6** – The construction and laying out of the western ro-ro freight storage area as shown on sheets 4 and 5 of the works plans comprising—
 
@@ -87,11 +87,11 @@ In the area of North East Lincolnshire Council and the Order limits, a nationall
 - (b) the surfacing of the storage area; and
 - (c) the erection of security fencing, gates and lighting.
 
-[^key-aede824bc02ff0720df800e5ea32adb4]
+[^c-aede824bc02ff0720df800e5ea32adb4]
 
 **Work No. 7** – As shown on sheets 2 and 3 of the works plans namely the construction of a bridge within the port estate to connect the northern storage area with the central storage area crossing Robinson Road and port infrastructure, together with bridge approaches, including bridge lighting and utilities.
 
-[^key-aede824bc02ff0720df800e5ea32adb4]
+[^c-aede824bc02ff0720df800e5ea32adb4]
 
 **Work No. 8** – As shown on sheets 2 and 4 of the works plans, improvements within the port estate to the junction of Robinson Road and East Dock Road comprising—
 
@@ -99,11 +99,11 @@ In the area of North East Lincolnshire Council and the Order limits, a nationall
 - (b) repositioning/straightening of the Robinson Road and East Dock Road junction to improve HGV access to and from East Dock Road; and
 - (c) associated infrastructure works.
 
-[^key-aede824bc02ff0720df800e5ea32adb4]
+[^c-aede824bc02ff0720df800e5ea32adb4]
 
 **Work No. 9** – The closure to all traffic along the length of East Riverside road between the East Dock Road junction and immediately to the north of the existing access to the parking / laydown / maintenance area for the Habrough Marsh Drain outfall as shown on sheet 2 of the works plans. Traffic to and from the businesses on East Riverside to the west of the East Dock Road junction to be diverted via East Dock Road.
 
-[^key-aede824bc02ff0720df800e5ea32adb4]
+[^c-aede824bc02ff0720df800e5ea32adb4]
 
 **Work No. 10** – As shown on sheets 3 and 4 of the works plans, improvements within the port estate to Gresley Way comprising—
 
@@ -113,14 +113,14 @@ In the area of North East Lincolnshire Council and the Order limits, a nationall
 - (d) new access and egress to and from the terminal on to Gresley Way; and
 - (e) associated infrastructure, improvement works.
 
-[^key-aede824bc02ff0720df800e5ea32adb4]
+[^c-aede824bc02ff0720df800e5ea32adb4]
 
 **Work No. 11** – As shown on sheet 4 of the works plans, improvements and alterations to the entrance/exit to Shed 26 comprising—
 
 - (a) provision of new ‘T’ junction between Gresley Way and the connector road opposite the entrance to Shed 26; and
 - (b) provision of a new entrance and exit road from Shed 26 to the connector road.
 
-[^key-aede824bc02ff0720df800e5ea32adb4]
+[^c-aede824bc02ff0720df800e5ea32adb4]
 
 **Work No. 12** – As shown on sheet 3 of the works plans, improvements to the East Gate entrance comprising—
 
@@ -130,15 +130,15 @@ In the area of North East Lincolnshire Council and the Order limits, a nationall
 - (d) new security fencing and gates; and
 - (e) the extension of the footway from East Gate to the Queens Road bus stop.
 
-[^key-aede824bc02ff0720df800e5ea32adb4]
+[^c-aede824bc02ff0720df800e5ea32adb4]
 
 **Work No. 13** – As shown on sheet 3 of the works plans, comprising works to deliver the woodland ecological enhancement works within the administrative boundary of North East Lincolnshire Council and within the Order limits to be carried out in accordance with the WEMP.
 
-[^key-aede824bc02ff0720df800e5ea32adb4]
+[^c-aede824bc02ff0720df800e5ea32adb4]
 
 **Ancillary works**
 
-[^key-aede824bc02ff0720df800e5ea32adb4]
+[^c-aede824bc02ff0720df800e5ea32adb4]
 
 For the purposes of and in connection with any of the works detailed above, the construction, maintenance and operation of such works and further associated development within the Order limits which do not give rise to any materially new or materially different environmental effects in comparison with those reported in the environmental statement, consisting of—
 
@@ -154,4 +154,4 @@ For the purposes of and in connection with any of the works detailed above, the 
 
 ## Annotations
 
-[^key-aede824bc02ff0720df800e5ea32adb4]: Commencement: Sch. 1 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-aede824bc02ff0720df800e5ea32adb4]: Commencement: Sch. 1 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)

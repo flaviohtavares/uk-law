@@ -55,7 +55,7 @@ In this Act—
 
 (1) There shall be a Committee of members of both Houses of Parliament styled “The Ecclesiastical Committee.”
 
-(2) The Ecclesiastical Committee shall consist of fifteen members of the House of Lords, nominated by the Speaker of the House of Lords[^key-b66f01425b83bde8e47f6bfed3e9a064] and fifteen members of the House of Commons nominated by the Speaker of the House of Commons, to be appointed on the passing of this Act to serve for the duration of the present Parliament and thereafter to be appointed at the commencement of each Parliament to serve for the duration of that Parliament.
+(2) The Ecclesiastical Committee shall consist of fifteen members of the House of Lords, nominated by the Speaker of the House of Lords[^c-b66f01425b83bde8e47f6bfed3e9a064] and fifteen members of the House of Commons nominated by the Speaker of the House of Commons, to be appointed on the passing of this Act to serve for the duration of the present Parliament and thereafter to be appointed at the commencement of each Parliament to serve for the duration of that Parliament.
 
 Any casual vacancy occurring by the reason of the death, resignation, or incapacity of a member of the Ecclesiastical Committee shall be filled by the nomination of a member by the Speaker of the House of Lords or the Speaker of the House of Commons, as the case may be.
 
@@ -93,7 +93,7 @@ This Act may be cited as the Church of England Assembly (Powers) Act 1919.
 
 [^c581369]: Modification: Definitions (1), (2), (3) generally ceased to apply from 2.11.1970 by virtue of [Synodical Government Measure 1969 (No. 2)](https://www.legislation.gov.uk/ukcm/1969/2) s. 2(2)
 
-[^key-b66f01425b83bde8e47f6bfed3e9a064]: Textual amendment: Words in [s. 2(2)](https://www.legislation.gov.uk/ukpga/Geo5/9-10/76/section/2/2) substituted (24.3.2005) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(2)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/2), [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2005/4/schedule/6/paragraph/3)
+[^c-b66f01425b83bde8e47f6bfed3e9a064]: Textual amendment: Words in [s. 2(2)](https://www.legislation.gov.uk/ukpga/Geo5/9-10/76/section/2/2) substituted (24.3.2005) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(2)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/2), [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2005/4/schedule/6/paragraph/3)
 
 [^c581370]: Modification: References to the Legislative Committee are to be construed as references to the Legislative Committee appointed under the Constitution set out in [Synodical Government Measure 1969 (No. 2)](https://www.legislation.gov.uk/ukcm/1969/2) Sch. 2 by virtue of s. 2(2) of that Measure
 

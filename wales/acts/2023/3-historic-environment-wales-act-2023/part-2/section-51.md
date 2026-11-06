@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 51. Agreements concerning management of monuments of special historic interest and land in their vicinity[^key-1e906fb868244205c960d556e7b5ef3c][^key-22bff05f661968730e11dab7faa66282]
+## 51. Agreements concerning management of monuments of special historic interest and land in their vicinity[^c-1e906fb868244205c960d556e7b5ef3c][^c-22bff05f661968730e11dab7faa66282]
 
 *Extent: E+W*
 
@@ -59,6 +59,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1e906fb868244205c960d556e7b5ef3c]: Commencement: S. 51 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-1e906fb868244205c960d556e7b5ef3c]: Commencement: S. 51 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-22bff05f661968730e11dab7faa66282]: Commencement: [S. 51](https://www.legislation.gov.uk/asc/2023/3/section/51) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)
+[^c-22bff05f661968730e11dab7faa66282]: Commencement: [S. 51](https://www.legislation.gov.uk/asc/2023/3/section/51) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)

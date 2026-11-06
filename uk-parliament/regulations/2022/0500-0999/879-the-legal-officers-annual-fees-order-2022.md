@@ -33,7 +33,7 @@ This Statutory Instrument has been made and published in substitution of [S.I. 2
 
 Ecclesiastical Law, England
 
-The Legal Officers (Annual Fees) Order 2022 (revoked)[^key-497750e2f286e5ef94453b0a7146152a]
+The Legal Officers (Annual Fees) Order 2022 (revoked)[^c-497750e2f286e5ef94453b0a7146152a]
 
 Made
 
@@ -47,90 +47,90 @@ Coming into force
 
 1st January 2023
 
-[^key-497750e2f286e5ef94453b0a7146152a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-497750e2f286e5ef94453b0a7146152a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-497750e2f286e5ef94453b0a7146152a]
+## 1. Citation, commencement and interpretation[^c-497750e2f286e5ef94453b0a7146152a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Annual fees[^key-497750e2f286e5ef94453b0a7146152a]
+## 2. Annual fees[^c-497750e2f286e5ef94453b0a7146152a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Payment of fees[^key-497750e2f286e5ef94453b0a7146152a]
+## 3. Payment of fees[^c-497750e2f286e5ef94453b0a7146152a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocation[^key-497750e2f286e5ef94453b0a7146152a]
+## 4. Revocation[^c-497750e2f286e5ef94453b0a7146152a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Duties of the diocesan registrar[^key-497750e2f286e5ef94453b0a7146152a]
+## 5. Duties of the diocesan registrar[^c-497750e2f286e5ef94453b0a7146152a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Supplementary annual fee[^key-497750e2f286e5ef94453b0a7146152a]
+## 6. Supplementary annual fee[^c-497750e2f286e5ef94453b0a7146152a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Travel, subsistence and accommodation[^key-497750e2f286e5ef94453b0a7146152a]
+## 7. Travel, subsistence and accommodation[^c-497750e2f286e5ef94453b0a7146152a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Value Added Tax[^key-497750e2f286e5ef94453b0a7146152a]
+## 8. Value Added Tax[^c-497750e2f286e5ef94453b0a7146152a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-497750e2f286e5ef94453b0a7146152a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-497750e2f286e5ef94453b0a7146152a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Fees payable under this Order[^key-497750e2f286e5ef94453b0a7146152a]
+## SCHEDULE 1 — Fees payable under this Order[^c-497750e2f286e5ef94453b0a7146152a]
 
 Article 2
 
-### TABLE 1 — Annual fees payable to diocesan registrars in respect of 2023[^key-497750e2f286e5ef94453b0a7146152a]
+### TABLE 1 — Annual fees payable to diocesan registrars in respect of 2023[^c-497750e2f286e5ef94453b0a7146152a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### TABLE 2 — Annual fees payable to provincial registrars in respect of 2023[^key-497750e2f286e5ef94453b0a7146152a]
+### TABLE 2 — Annual fees payable to provincial registrars in respect of 2023[^c-497750e2f286e5ef94453b0a7146152a]
 
-#### PART A — Fees payable[^key-497750e2f286e5ef94453b0a7146152a]
+#### PART A — Fees payable[^c-497750e2f286e5ef94453b0a7146152a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### PART B — Duties and professional services not falling within the scope of the annual fee[^key-497750e2f286e5ef94453b0a7146152a]
+#### PART B — Duties and professional services not falling within the scope of the annual fee[^c-497750e2f286e5ef94453b0a7146152a]
 
-**1.**[^key-497750e2f286e5ef94453b0a7146152a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-497750e2f286e5ef94453b0a7146152a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — The scope of the annual fee[^key-497750e2f286e5ef94453b0a7146152a]
+## SCHEDULE 2 — The scope of the annual fee[^c-497750e2f286e5ef94453b0a7146152a]
 
 Article 2
 
-### 1. Professional services to be provided by the diocesan registrar[^key-497750e2f286e5ef94453b0a7146152a]
+### 1. Professional services to be provided by the diocesan registrar[^c-497750e2f286e5ef94453b0a7146152a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Restrictions on the provisions of paragraph 1[^key-497750e2f286e5ef94453b0a7146152a]
+### 2. Restrictions on the provisions of paragraph 1[^c-497750e2f286e5ef94453b0a7146152a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Advice or assistance given to the diocesan bishop, suffragan bishops or archdeacons[^key-497750e2f286e5ef94453b0a7146152a]
+### 3. Advice or assistance given to the diocesan bishop, suffragan bishops or archdeacons[^c-497750e2f286e5ef94453b0a7146152a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Work not falling within the scope of the annual fee[^key-497750e2f286e5ef94453b0a7146152a]
+### 4. Work not falling within the scope of the annual fee[^c-497750e2f286e5ef94453b0a7146152a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Disbursements[^key-497750e2f286e5ef94453b0a7146152a]
+### 5. Disbursements[^c-497750e2f286e5ef94453b0a7146152a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-497750e2f286e5ef94453b0a7146152a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-497750e2f286e5ef94453b0a7146152a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-497750e2f286e5ef94453b0a7146152a]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2022/879) revoked (1.1.2024) by [The Legal Officers (Annual Fees) Order 2023 (S.I. 2023/864)](https://www.legislation.gov.uk/uksi/2023/864), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/864/article/1/2), [4](https://www.legislation.gov.uk/uksi/2023/864/article/4)
+[^c-497750e2f286e5ef94453b0a7146152a]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2022/879) revoked (1.1.2024) by [The Legal Officers (Annual Fees) Order 2023 (S.I. 2023/864)](https://www.legislation.gov.uk/uksi/2023/864), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/864/article/1/2), [4](https://www.legislation.gov.uk/uksi/2023/864/article/4)

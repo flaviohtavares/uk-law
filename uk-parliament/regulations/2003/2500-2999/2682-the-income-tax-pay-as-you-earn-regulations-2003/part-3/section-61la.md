@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61LA. Modification of the general rule: failure to make good benefit of credit-token[^key-6ef2b035aa099175198f4dd7b5c290ce][^key-ecb4e687e0271e10013cc735d05beac4]
+## 61LA. Modification of the general rule: failure to make good benefit of credit-token[^c-6ef2b035aa099175198f4dd7b5c290ce][^c-ecb4e687e0271e10013cc735d05beac4]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ summary: ''
 
 Calculate the outstanding taxable amount of the benefit of the credit-token used in tax year 1 by-
 
-- (a) determining the cash equivalent or relevant amount[^key-1f8dfb7c0b84d02162813e0617318b73] of the benefit of the credit-token used in that tax year in accordance with section 94 or 94A[^key-3422eb14ccce43e119d4a639758a1c31] ITEPA;
+- (a) determining the cash equivalent or relevant amount[^c-1f8dfb7c0b84d02162813e0617318b73] of the benefit of the credit-token used in that tax year in accordance with section 94 or 94A[^c-3422eb14ccce43e119d4a639758a1c31] ITEPA;
 - (b) subtracting from that amount the cash equivalent or relevant amount of the benefit of the credit-token used as determined under step 1 of regulation 61I(2) as modified by regulation 61J(3) during that tax year.
 
 *Step 2*
@@ -39,10 +39,10 @@ Add the amount obtained from step 1 to the first main relevant payment in tax ye
 
 ## Annotations
 
-[^key-6ef2b035aa099175198f4dd7b5c290ce]: Textual amendment: [Reg. 61LA](https://www.legislation.gov.uk/uksi/2003/2682/regulation/61LA) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Tax (Pay As You Earn) (Amendment No. 3) Regulations 2016 (S.I. 2016/1137)](https://www.legislation.gov.uk/uksi/2016/1137), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1137/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2016/1137/regulation/9)
+[^c-6ef2b035aa099175198f4dd7b5c290ce]: Textual amendment: [Reg. 61LA](https://www.legislation.gov.uk/uksi/2003/2682/regulation/61LA) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Tax (Pay As You Earn) (Amendment No. 3) Regulations 2016 (S.I. 2016/1137)](https://www.legislation.gov.uk/uksi/2016/1137), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1137/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2016/1137/regulation/9)
 
-[^key-ecb4e687e0271e10013cc735d05beac4]: Textual amendment: [Pt. 3 Ch. 3A](https://www.legislation.gov.uk/uksi/2003/2682/part/3/chapter/3A) inserted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Income Tax (Pay As You Earn) (Amendment No. 4) Regulations 2015 (S.I. 2015/1927)](https://www.legislation.gov.uk/uksi/2015/1927), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1927/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2015/1927/regulation/6)
+[^c-ecb4e687e0271e10013cc735d05beac4]: Textual amendment: [Pt. 3 Ch. 3A](https://www.legislation.gov.uk/uksi/2003/2682/part/3/chapter/3A) inserted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Income Tax (Pay As You Earn) (Amendment No. 4) Regulations 2015 (S.I. 2015/1927)](https://www.legislation.gov.uk/uksi/2015/1927), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1927/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2015/1927/regulation/6)
 
-[^key-1f8dfb7c0b84d02162813e0617318b73]: Textual amendment: Words in [reg. 61LA(2)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/61LA/2) inserted (6.4.2018) by [The Income Tax (Pay As You Earn) (Amendment No. 2) Regulations 2017 (S.I. 2017/1263)](https://www.legislation.gov.uk/uksi/2017/1263), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1263/regulation/1), [12(a)](https://www.legislation.gov.uk/uksi/2017/1263/regulation/12/a)
+[^c-1f8dfb7c0b84d02162813e0617318b73]: Textual amendment: Words in [reg. 61LA(2)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/61LA/2) inserted (6.4.2018) by [The Income Tax (Pay As You Earn) (Amendment No. 2) Regulations 2017 (S.I. 2017/1263)](https://www.legislation.gov.uk/uksi/2017/1263), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1263/regulation/1), [12(a)](https://www.legislation.gov.uk/uksi/2017/1263/regulation/12/a)
 
-[^key-3422eb14ccce43e119d4a639758a1c31]: Textual amendment: Words in [reg. 61LA(2)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/61LA/2) inserted (6.4.2018) by [The Income Tax (Pay As You Earn) (Amendment No. 2) Regulations 2017 (S.I. 2017/1263)](https://www.legislation.gov.uk/uksi/2017/1263), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1263/regulation/1), [12(b)](https://www.legislation.gov.uk/uksi/2017/1263/regulation/12/b)
+[^c-3422eb14ccce43e119d4a639758a1c31]: Textual amendment: Words in [reg. 61LA(2)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/61LA/2) inserted (6.4.2018) by [The Income Tax (Pay As You Earn) (Amendment No. 2) Regulations 2017 (S.I. 2017/1263)](https://www.legislation.gov.uk/uksi/2017/1263), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1263/regulation/1), [12(b)](https://www.legislation.gov.uk/uksi/2017/1263/regulation/12/b)

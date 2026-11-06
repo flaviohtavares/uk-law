@@ -31,7 +31,7 @@ summary: ''
 
 employment
 
-Public Interest Disclosure (Prescribed Persons) (Amendment) Order (Northern Ireland) 2006 (revoked)[^key-f6abee2daaff5e9088cbf483ac3ec768]
+Public Interest Disclosure (Prescribed Persons) (Amendment) Order (Northern Ireland) 2006 (revoked)[^c-f6abee2daaff5e9088cbf483ac3ec768]
 
 Made
 
@@ -41,34 +41,34 @@ Coming into operation
 
 10th December 2006
 
-[^key-f6abee2daaff5e9088cbf483ac3ec768]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f6abee2daaff5e9088cbf483ac3ec768]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-f6abee2daaff5e9088cbf483ac3ec768]
+## 1. Citation and commencement[^c-f6abee2daaff5e9088cbf483ac3ec768]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment[^key-f6abee2daaff5e9088cbf483ac3ec768]
+## 2. Amendment[^c-f6abee2daaff5e9088cbf483ac3ec768]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-f6abee2daaff5e9088cbf483ac3ec768]
+## 3. Revocation[^c-f6abee2daaff5e9088cbf483ac3ec768]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f6abee2daaff5e9088cbf483ac3ec768]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f6abee2daaff5e9088cbf483ac3ec768]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-f6abee2daaff5e9088cbf483ac3ec768]
+## SCHEDULE[^c-f6abee2daaff5e9088cbf483ac3ec768]
 
 Article 2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f6abee2daaff5e9088cbf483ac3ec768]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f6abee2daaff5e9088cbf483ac3ec768]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f6abee2daaff5e9088cbf483ac3ec768]: Textual amendment: Order revoked (29.11.2010) by [Public Interest Disclosure (Prescribed Persons) (Amendment) Order (Northern Ireland) 2010 (S.R. 2010/361)](https://www.legislation.gov.uk/nisr/2010/361), [arts. 1](https://www.legislation.gov.uk/nisr/2010/361/article/1), [3](https://www.legislation.gov.uk/nisr/2010/361/article/3)
+[^c-f6abee2daaff5e9088cbf483ac3ec768]: Textual amendment: Order revoked (29.11.2010) by [Public Interest Disclosure (Prescribed Persons) (Amendment) Order (Northern Ireland) 2010 (S.R. 2010/361)](https://www.legislation.gov.uk/nisr/2010/361), [arts. 1](https://www.legislation.gov.uk/nisr/2010/361/article/1), [3](https://www.legislation.gov.uk/nisr/2010/361/article/3)

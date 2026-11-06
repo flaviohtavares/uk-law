@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-The regulations specified in column (1), whose subject matter is referred to in column (2), of the table in Schedule 8 are hereby prescribed as regulations to which section 59(2)(a) of the 1994 Act (fines not to exceed level 3 on the standard scale) applies[^key-8a16c153b8357135120e5679208821c6].
+The regulations specified in column (1), whose subject matter is referred to in column (2), of the table in Schedule 8 are hereby prescribed as regulations to which section 59(2)(a) of the 1994 Act (fines not to exceed level 3 on the standard scale) applies[^c-8a16c153b8357135120e5679208821c6].
 
 ## Annotations
 
-[^key-8a16c153b8357135120e5679208821c6]: Textual amendment: Words in reg. 47 substituted (1.10.2003) by [The Road Vehicles (Registration and Licensing) (Amendment) Regulations 2003 (S.I. 2003/2154)](https://www.legislation.gov.uk/uksi/2003/2154), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2154/regulation/1), [6](https://www.legislation.gov.uk/uksi/2003/2154/regulation/6)
+[^c-8a16c153b8357135120e5679208821c6]: Textual amendment: Words in reg. 47 substituted (1.10.2003) by [The Road Vehicles (Registration and Licensing) (Amendment) Regulations 2003 (S.I. 2003/2154)](https://www.legislation.gov.uk/uksi/2003/2154), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2154/regulation/1), [6](https://www.legislation.gov.uk/uksi/2003/2154/regulation/6)

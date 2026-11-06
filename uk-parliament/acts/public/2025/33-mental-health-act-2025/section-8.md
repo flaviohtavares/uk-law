@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Appropriate medical treatment: therapeutic benefit[^key-d4c5283cae48880ae09b3cc3cd53c64d]
+## 8. Appropriate medical treatment: therapeutic benefit[^c-d4c5283cae48880ae09b3cc3cd53c64d]
 
 *Extent: E+W+S+N.I.*
 
@@ -87,4 +87,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d4c5283cae48880ae09b3cc3cd53c64d]: Commencement: S. 8 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-d4c5283cae48880ae09b3cc3cd53c64d]: Commencement: S. 8 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)

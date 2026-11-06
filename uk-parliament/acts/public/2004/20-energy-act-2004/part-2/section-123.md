@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 123. Modification of conditions of Northern Ireland electricity licences[^key-1da02abc425efaf6560f9284fb12fe9d]
+## 123. Modification of conditions of Northern Ireland electricity licences[^c-1da02abc425efaf6560f9284fb12fe9d]
 
 *Extent: N.I.*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1da02abc425efaf6560f9284fb12fe9d]: Commencement: S. 123 in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-1da02abc425efaf6560f9284fb12fe9d]: Commencement: S. 123 in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)

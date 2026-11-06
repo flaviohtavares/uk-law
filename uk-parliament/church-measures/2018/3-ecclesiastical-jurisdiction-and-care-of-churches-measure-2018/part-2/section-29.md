@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 29. Provincial registrar: deputy etc.[^key-c4917842afe02592dd738d75ee568920]
+## 29. Provincial registrar: deputy etc.[^c-c4917842afe02592dd738d75ee568920]
 
 *Extent: E*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c4917842afe02592dd738d75ee568920]: Commencement: [S. 29](https://www.legislation.gov.uk/ukcm/2018/3/section/29) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-c4917842afe02592dd738d75ee568920]: Commencement: [S. 29](https://www.legislation.gov.uk/ukcm/2018/3/section/29) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)

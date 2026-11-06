@@ -16,21 +16,21 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^key-6bcc0d13012debb2e91ad43d8ffb7bed]
+## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^c-6bcc0d13012debb2e91ad43d8ffb7bed]
 
 *Extent: E+W+S*
 
 Article 3
 
-[^key-6bcc0d13012debb2e91ad43d8ffb7bed]
+[^c-6bcc0d13012debb2e91ad43d8ffb7bed]
 
 In the City and County of Swansea—
 
-[^key-6bcc0d13012debb2e91ad43d8ffb7bed]
+[^c-6bcc0d13012debb2e91ad43d8ffb7bed]
 
 A nationally significant infrastructure project as defined in sections 14(1)(a) and 15 of the 2008 Act, consisting of a generating station with a gross rated electrical output of up to 299 Megawatts comprising all or any of the work numbers in this schedule or any part of any work number in this schedule—
 
-[^key-6bcc0d13012debb2e91ad43d8ffb7bed]
+[^c-6bcc0d13012debb2e91ad43d8ffb7bed]
 
 ***Work No. 1A*** development comprising—
 
@@ -38,7 +38,7 @@ A nationally significant infrastructure project as defined in sections 14(1)(a) 
 - (b) 1 exhaust gas emission flue stack, and
 - (c) external fin fan cooler(s);
 
-[^key-6bcc0d13012debb2e91ad43d8ffb7bed]
+[^c-6bcc0d13012debb2e91ad43d8ffb7bed]
 
 ***Work No. 1B*** development comprising—
 
@@ -53,7 +53,7 @@ A nationally significant infrastructure project as defined in sections 14(1)(a) 
 - (i) pipework, pipe runs and pipe racks, and
 - (j) cathodic protection test/transformer rectifier unit;
 
-[^key-6bcc0d13012debb2e91ad43d8ffb7bed]
+[^c-6bcc0d13012debb2e91ad43d8ffb7bed]
 
 ***Work No. 1C*** development comprising—
 
@@ -66,11 +66,11 @@ A nationally significant infrastructure project as defined in sections 14(1)(a) 
   - (vi) control and instrumentation kiosks; and
 - (b) gas pipelines and telemetry cabling and cathodic protection test/ transformer rectifier unit;
 
-[^key-6bcc0d13012debb2e91ad43d8ffb7bed]
+[^c-6bcc0d13012debb2e91ad43d8ffb7bed]
 
 ***Work No. 1D*** development comprising a transformer compound including generator step up transformer, unit transformers, bus bar connections and other plant and structures required to manage the transmission of electricity;
 
-[^key-6bcc0d13012debb2e91ad43d8ffb7bed]
+[^c-6bcc0d13012debb2e91ad43d8ffb7bed]
 
 ***Work No. 1E*** development comprising—
 
@@ -83,34 +83,34 @@ A nationally significant infrastructure project as defined in sections 14(1)(a) 
 - (g) landscaping including tree planting, temporary and permanent fencing and other boundary treatments and ecological mitigation, and
 - (h) other ancillary equipment;
 
-[^key-6bcc0d13012debb2e91ad43d8ffb7bed]
+[^c-6bcc0d13012debb2e91ad43d8ffb7bed]
 
 ***Work No. 1F*** development comprising hardstanding area for maintenance laydown and welfare and administration facilities;
 
-[^key-6bcc0d13012debb2e91ad43d8ffb7bed]
+[^c-6bcc0d13012debb2e91ad43d8ffb7bed]
 
 ***Work No. 2*** development comprising a new permanent means of access from the B4489 to numbered work 1 including structure over water main and decommissioned oil pipeline, permanent road surface and kerb stones, safety barrier(s), signing and road markings, drainage works (including culverts), tree, hedge and fence removal and installation of new signing, gates and fencing, telecommunications connections and other services, temporary car parking and temporary construction compound and other incidental works;
 
-[^key-6bcc0d13012debb2e91ad43d8ffb7bed]
+[^c-6bcc0d13012debb2e91ad43d8ffb7bed]
 
 ***Work No. 3*** development comprising a temporary construction laydown area including areas of hardstanding and site and welfare offices and workshop, and infrastructure to enable plant and vehicle crossings of existing underground utilities;
 
-[^key-6bcc0d13012debb2e91ad43d8ffb7bed]
+[^c-6bcc0d13012debb2e91ad43d8ffb7bed]
 
 ***Work No. 4*** development comprising landscaping and ecological mitigation area including tree planting and ecological enhancement and boundary fencing;
 
-[^key-6bcc0d13012debb2e91ad43d8ffb7bed]
+[^c-6bcc0d13012debb2e91ad43d8ffb7bed]
 
 ***Work No. 5A*** development comprising earthworks and ground raising in connection with Work No. 1;
 
-[^key-6bcc0d13012debb2e91ad43d8ffb7bed]
+[^c-6bcc0d13012debb2e91ad43d8ffb7bed]
 
 ***Work No. 5B*** development comprising earthworks in connection with Work No. 2;
 
-[^key-6bcc0d13012debb2e91ad43d8ffb7bed]
+[^c-6bcc0d13012debb2e91ad43d8ffb7bed]
 
 and such other buildings, structures, works or operations as may be necessary or expedient for the purposes of or in connection with the construction, operation and maintenance of the works in this Schedule 1 but only within the Order limits and insofar as they will not give rise to any materially new or materially different environmental effects from those assessed in the environmental statement.
 
 ## Annotations
 
-[^key-6bcc0d13012debb2e91ad43d8ffb7bed]: Commencement: Sch. 1 in force at 10.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1268/article/1)
+[^c-6bcc0d13012debb2e91ad43d8ffb7bed]: Commencement: Sch. 1 in force at 10.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1268/article/1)

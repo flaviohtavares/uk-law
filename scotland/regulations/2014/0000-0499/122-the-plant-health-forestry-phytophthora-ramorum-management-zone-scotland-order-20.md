@@ -48,18 +48,18 @@ The Forestry Commissioners make the following Order in exercise of the powers co
 
 This Order makes provision which the Forestry Commissioners think expedient for preventing the spread of pests in Scotland, in particular, *Phytophthora ramorum* Werres, De Cock and Man in ‘t Veld sp. nov..
 
-## 1. Citation, commencement and extent[^key-f13e6a79ef1a74e33a2524eb5559f6f9]
+## 1. Citation, commencement and extent[^c-f13e6a79ef1a74e33a2524eb5559f6f9]
 
 (1) This Order may be cited as the Plant Health (Forestry) (*Phytophthora ramorum* Management Zone) (Scotland) Order 2014 and comes into force on 5th June 2014.
 
 (2) This Order extends to Scotland only.
 
-## 2. Interpretation[^key-4a3612c1893c890504030f86fe1f3e44]
+## 2. Interpretation[^c-4a3612c1893c890504030f86fe1f3e44]
 
 (1) In this Order—
 
-- “approved facility” means a facility approved by the Scottish Ministers[^key-2765bf95e695a968ea5952ce1fa6e22b] under article 4;
-- [^key-67efdbe1dbab3b511300b6894c169eea]...
+- “approved facility” means a facility approved by the Scottish Ministers[^c-2765bf95e695a968ea5952ce1fa6e22b] under article 4;
+- [^c-67efdbe1dbab3b511300b6894c169eea]...
 - “inspector” means any person authorised by the Scottish Ministers to be an inspector for the purposes of this Order;
 - “isolated bark” means bark which has been removed or become detached from a living, felled or fallen tree or from any part of such a tree;
 - “management zone” means the local government areas of Dumfries and Galloway, East Ayrshire and South Ayrshire[^f00002] enclosed by the boundary described in Part 1 of Schedule 2;
@@ -75,13 +75,13 @@ This Order makes provision which the Forestry Commissioners think expedient for 
 
 (2) Where anything under this Order is to be done in writing that includes an electronic communication as defined in section 15(1) of the Electronic Communications Act 2000[^f00003], which has been recorded and is consequently capable of being reproduced.
 
-## 3. Prohibition on the movement of susceptible material[^key-2f4185f5009041d7d4c00473e82c7962]
+## 3. Prohibition on the movement of susceptible material[^c-2f4185f5009041d7d4c00473e82c7962]
 
 (1) No person may move any susceptible material from any premises within the management zone to any premises outside the management zone unless the movement is to an approved facility.
 
 (2) A person who moves susceptible material to an approved facility must keep a record of that movement and, when requested to do so by an inspector, provide information about that movement to the inspector.
 
-## 4. Approval of facilities[^key-240ef2fa444fc15e3e5b0c14ad221b66]
+## 4. Approval of facilities[^c-240ef2fa444fc15e3e5b0c14ad221b66]
 
 (1) The Scottish Ministers may approve any facility that they consider to be suitable for the purpose of processing susceptible material moved from the management zone.
 
@@ -89,7 +89,7 @@ This Order makes provision which the Forestry Commissioners think expedient for 
 
 (3) The operator of an approved facility must comply with any condition of the approval.
 
-## 5. Suspension and revocation of approval of facilities[^key-f26a8e8af761b8086bef47664f186929]
+## 5. Suspension and revocation of approval of facilities[^c-f26a8e8af761b8086bef47664f186929]
 
 (1) The Scottish Ministers may by notice in writing given to the operator of an approved facility suspend or revoke an approval granted under article 4 if they have reason to believe that any conditions of the facility’s approval have not been, or are not being, complied with.
 
@@ -99,7 +99,7 @@ This Order makes provision which the Forestry Commissioners think expedient for 
 
 (4) The operator of an approved facility may by notice in writing given to the Scottish Ministers indicate that the operator no longer wishes the facility to be approved, in which case the approval ceases to have effect on the date specified by the Scottish Ministers in writing and notified to the operator.
 
-## 6. Powers of inspectors[^key-4024c006c80b6bca3499477ebb1a56c7]
+## 6. Powers of inspectors[^c-4024c006c80b6bca3499477ebb1a56c7]
 
 (1) Subject to paragraphs (2) to (4), an inspector may, if the inspector has reasonable grounds for suspecting that there is present on any premises, whether inside or outside the management zone, any susceptible material that is being or has been moved in contravention of article 3, enter those premises and may—
 
@@ -126,7 +126,7 @@ whichever period is the shorter.
 
 (6) When exercising the power in paragraph (1) an inspector may be accompanied by any other person and any equipment or vehicles as the inspector considers necessary.
 
-## 7. Offences[^key-aebb04607ca68b708b79543cce1261c1]
+## 7. Offences[^c-aebb04607ca68b708b79543cce1261c1]
 
 A person commits an offence if the person—
 
@@ -135,7 +135,7 @@ A person commits an offence if the person—
   - (ii) fails to keep a record of any movement of susceptible material to an approved facility or fails to provide information about such a movement to an inspector when requested to do so by an inspector, in contravention of article 3(2); or
 - (b) intentionally obstructs an inspector in the exercise of powers conferred upon the inspector by article 6.
 
-## 8. Offences by bodies corporate[^key-ed6ed525cf496fb00418fac31c155a87]
+## 8. Offences by bodies corporate[^c-ed6ed525cf496fb00418fac31c155a87]
 
 Where—
 
@@ -154,7 +154,7 @@ the individual as well as the body corporate, Scottish partnership or unincorpor
 - (b) in relation to a Scottish partnership, a partner;
 - (c) in relation to an unincorporated association other than a Scottish partnership, a person who is concerned in the management or control of the association.
 
-## 9. Penalties[^key-ee4737da9798331f28639ca84d2e268e]
+## 9. Penalties[^c-ee4737da9798331f28639ca84d2e268e]
 
 A person who commits an offence under article 7 is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
@@ -170,15 +170,15 @@ Secretary to the Forestry Commissioners
 
 Article 2(1)
 
-**1.**[^key-2b4d8e96446126f5eeae3ef12c8918c7] *Larix decidua*
+**1.**[^c-2b4d8e96446126f5eeae3ef12c8918c7] *Larix decidua*
 
-**2.**[^key-9535c5c7da5048e1295a7585d516dbdb] *Larix kaempferi*
+**2.**[^c-9535c5c7da5048e1295a7585d516dbdb] *Larix kaempferi*
 
 ## SCHEDULE 2 — Management zone
 
 Article 2(1)
 
-### PART 1[^key-db1aa83ad67a2768b7419c9dcaabc645]
+### PART 1[^c-db1aa83ad67a2768b7419c9dcaabc645]
 
 Starting in New Cumnock at the junction of the B741 and the A76 at NS 617 133, the boundary proceeds east along the A76 until it reaches Polquhirter Bridge at NS 631 131.
 
@@ -190,11 +190,11 @@ The boundary continues south following the watershed to the summit of Laglass Hi
 
 Still continuing south along the watershed, the boundary passes through the summit of Blackcraig Hill at NS 647 064, through Blacklorg Hill at NS 653 042 and on to Littledodd Hill at NS 660 032.
 
-The boundary then continues east along the boundary of the land owned by Scottish Ministers[^key-cf5135ce31b389262c146cc6bd8b5639] until NS 684 035 and then continues on to the summit of Corse Hill.
+The boundary then continues east along the boundary of the land owned by Scottish Ministers[^c-cf5135ce31b389262c146cc6bd8b5639] until NS 684 035 and then continues on to the summit of Corse Hill.
 
 The watershed is again followed north and then east to Rough Shoulder at NS 696 039 and then south east, crossing the Southern Upland Way at NS 709 031 and on to Countam at NS 718 019.
 
-The boundary then continues west until it meets the boundary of the Scottish Ministers’[^key-257fdb4e5cda6fe782921667a48a5af5] land at NS 703 012 and then continues south east along the boundary of the Scottish Ministers’ land to NX 749 987.
+The boundary then continues west until it meets the boundary of the Scottish Ministers’[^c-257fdb4e5cda6fe782921667a48a5af5] land at NS 703 012 and then continues south east along the boundary of the Scottish Ministers’ land to NX 749 987.
 
 The boundary then continues east to Countam at NX 763 988 then south east along the watershed to Bennan at NX 794 950 and still following the watershed, the boundary passes over the summit of Auchengibbert Hill at NX 806 944 and on to Tynron Doon at NX 819 939.
 
@@ -228,7 +228,7 @@ The boundary then continues north along a minor road before rejoining the B741 a
 
 The B741 is followed to the north east until it reaches the junction with the A76 in New Cumnock.
 
-### PART 2 — This map depicts the management zone for illustrative purposes only and has no legal force.[^key-b1a9dc823d82c7dddcc37262c823559d]
+### PART 2 — This map depicts the management zone for illustrative purposes only and has no legal force.[^c-b1a9dc823d82c7dddcc37262c823559d]
 
 [image: see source](https://www.legislation.gov.uk/ssi/2014/122/images/ssi_20140122_en_001)
 
@@ -263,40 +263,40 @@ A business and regulatory impact assessment has been prepared and is available a
 
 [^f00001]: Footnote: [1967 c.8](https://www.legislation.gov.uk/ukpga/1967/8) (“the 1967 Act”). Section 3(1) was amended by the European Communities Act [1972 (c.68)](https://www.legislation.gov.uk/ukpga/1972/68), section 4(1) and Schedule 4, paragraph 8 and further amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043). Section 3(4) was substituted by the Criminal Justice Act [1982 (c.48)](https://www.legislation.gov.uk/ukpga/1982/48), section 42 and amended by the Statute Law (Repeals) Act [1993 (c.50)](https://www.legislation.gov.uk/ukpga/1993/50), section 1(1) and Schedule 1, Part XIV. There are other amendments which are not relevant to this Order. The powers conferred by section 3 of the 1967 Act are conferred on a competent authority as defined in section 1(2) of the 1967 Act. The Forestry Commissioners are the competent authority for Scotland as regards the protection of forest trees and timber from attack by pests.
 
-[^key-f13e6a79ef1a74e33a2524eb5559f6f9]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2014/122/article/1) in force at 5.6.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2014/122/article/1/1)
+[^c-f13e6a79ef1a74e33a2524eb5559f6f9]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2014/122/article/1) in force at 5.6.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2014/122/article/1/1)
 
-[^key-4a3612c1893c890504030f86fe1f3e44]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2014/122/article/2) in force at 5.6.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2014/122/article/1/1)
+[^c-4a3612c1893c890504030f86fe1f3e44]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2014/122/article/2) in force at 5.6.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2014/122/article/1/1)
 
-[^key-2765bf95e695a968ea5952ce1fa6e22b]: Textual amendment: Words in [Order](https://www.legislation.gov.uk/ssi/2014/122) substituted (18.3.2021) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [reg. 9(2)](https://www.legislation.gov.uk/ssi/2021/44/regulation/9/2)
+[^c-2765bf95e695a968ea5952ce1fa6e22b]: Textual amendment: Words in [Order](https://www.legislation.gov.uk/ssi/2014/122) substituted (18.3.2021) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [reg. 9(2)](https://www.legislation.gov.uk/ssi/2021/44/regulation/9/2)
 
-[^key-67efdbe1dbab3b511300b6894c169eea]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/122/article/2/1) omitted (18.3.2021) by virtue of [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [9(3)](https://www.legislation.gov.uk/ssi/2021/44/regulation/9/3)
+[^c-67efdbe1dbab3b511300b6894c169eea]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/122/article/2/1) omitted (18.3.2021) by virtue of [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [9(3)](https://www.legislation.gov.uk/ssi/2021/44/regulation/9/3)
 
 [^f00002]: Footnote: The local government areas of Dumfries and Galloway, East Ayrshire and South Ayrshire comprise respectively the areas of Dumfries and Galloway Council, East Ayrshire Council and South Ayrshire Council as set out in section 1(2) of, and Schedule 1 to, the Local Government etc. (Scotland) Act [1994 (c.39)](https://www.legislation.gov.uk/ukpga/1994/39).
 
 [^f00003]: Footnote: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7). Section 15 was amended by the Communications Act [2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21), section 406 and Schedule 17, paragraph 158.
 
-[^key-2f4185f5009041d7d4c00473e82c7962]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2014/122/article/3) in force at 5.6.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2014/122/article/1/1)
+[^c-2f4185f5009041d7d4c00473e82c7962]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2014/122/article/3) in force at 5.6.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2014/122/article/1/1)
 
-[^key-240ef2fa444fc15e3e5b0c14ad221b66]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2014/122/article/4) in force at 5.6.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2014/122/article/1/1)
+[^c-240ef2fa444fc15e3e5b0c14ad221b66]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2014/122/article/4) in force at 5.6.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2014/122/article/1/1)
 
-[^key-f26a8e8af761b8086bef47664f186929]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2014/122/article/5) in force at 5.6.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2014/122/article/1/1)
+[^c-f26a8e8af761b8086bef47664f186929]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2014/122/article/5) in force at 5.6.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2014/122/article/1/1)
 
-[^key-4024c006c80b6bca3499477ebb1a56c7]: Commencement: [Art. 6](https://www.legislation.gov.uk/ssi/2014/122/article/6) in force at 5.6.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2014/122/article/1/1)
+[^c-4024c006c80b6bca3499477ebb1a56c7]: Commencement: [Art. 6](https://www.legislation.gov.uk/ssi/2014/122/article/6) in force at 5.6.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2014/122/article/1/1)
 
-[^key-aebb04607ca68b708b79543cce1261c1]: Commencement: [Art. 7](https://www.legislation.gov.uk/ssi/2014/122/article/7) in force at 5.6.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2014/122/article/1/1)
+[^c-aebb04607ca68b708b79543cce1261c1]: Commencement: [Art. 7](https://www.legislation.gov.uk/ssi/2014/122/article/7) in force at 5.6.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2014/122/article/1/1)
 
-[^key-ed6ed525cf496fb00418fac31c155a87]: Commencement: [Art. 8](https://www.legislation.gov.uk/ssi/2014/122/article/8) in force at 5.6.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2014/122/article/1/1)
+[^c-ed6ed525cf496fb00418fac31c155a87]: Commencement: [Art. 8](https://www.legislation.gov.uk/ssi/2014/122/article/8) in force at 5.6.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2014/122/article/1/1)
 
-[^key-ee4737da9798331f28639ca84d2e268e]: Commencement: [Art. 9](https://www.legislation.gov.uk/ssi/2014/122/article/9) in force at 5.6.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2014/122/article/1/1)
+[^c-ee4737da9798331f28639ca84d2e268e]: Commencement: [Art. 9](https://www.legislation.gov.uk/ssi/2014/122/article/9) in force at 5.6.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2014/122/article/1/1)
 
-[^key-2b4d8e96446126f5eeae3ef12c8918c7]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ssi/2014/122/schedule/1/paragraph/1) in force at 5.6.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2014/122/article/1/1)
+[^c-2b4d8e96446126f5eeae3ef12c8918c7]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ssi/2014/122/schedule/1/paragraph/1) in force at 5.6.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2014/122/article/1/1)
 
-[^key-9535c5c7da5048e1295a7585d516dbdb]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ssi/2014/122/schedule/1/paragraph/2) in force at 5.6.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2014/122/article/1/1)
+[^c-9535c5c7da5048e1295a7585d516dbdb]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ssi/2014/122/schedule/1/paragraph/2) in force at 5.6.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2014/122/article/1/1)
 
-[^key-db1aa83ad67a2768b7419c9dcaabc645]: Commencement: [Sch. 2 Pt. 1](https://www.legislation.gov.uk/ssi/2014/122/schedule/2/part/1) in force at 5.6.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2014/122/article/1/1)
+[^c-db1aa83ad67a2768b7419c9dcaabc645]: Commencement: [Sch. 2 Pt. 1](https://www.legislation.gov.uk/ssi/2014/122/schedule/2/part/1) in force at 5.6.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2014/122/article/1/1)
 
-[^key-cf5135ce31b389262c146cc6bd8b5639]: Textual amendment: Words in [sch. 2 Pt. 1](https://www.legislation.gov.uk/ssi/2014/122/schedule/2/part/1) substituted (18.3.2021) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [9(4)(a)](https://www.legislation.gov.uk/ssi/2021/44/regulation/9/4/a)
+[^c-cf5135ce31b389262c146cc6bd8b5639]: Textual amendment: Words in [sch. 2 Pt. 1](https://www.legislation.gov.uk/ssi/2014/122/schedule/2/part/1) substituted (18.3.2021) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [9(4)(a)](https://www.legislation.gov.uk/ssi/2021/44/regulation/9/4/a)
 
-[^key-257fdb4e5cda6fe782921667a48a5af5]: Textual amendment: Words in [sch. 2 Pt. 1](https://www.legislation.gov.uk/ssi/2014/122/schedule/2/part/1) substituted (18.3.2021) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [9(4)(b)](https://www.legislation.gov.uk/ssi/2021/44/regulation/9/4/b)
+[^c-257fdb4e5cda6fe782921667a48a5af5]: Textual amendment: Words in [sch. 2 Pt. 1](https://www.legislation.gov.uk/ssi/2014/122/schedule/2/part/1) substituted (18.3.2021) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [9(4)(b)](https://www.legislation.gov.uk/ssi/2021/44/regulation/9/4/b)
 
-[^key-b1a9dc823d82c7dddcc37262c823559d]: Commencement: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/ssi/2014/122/schedule/2/part/2) in force at 5.6.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2014/122/article/1/1)
+[^c-b1a9dc823d82c7dddcc37262c823559d]: Commencement: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/ssi/2014/122/schedule/2/part/2) in force at 5.6.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2014/122/article/1/1)

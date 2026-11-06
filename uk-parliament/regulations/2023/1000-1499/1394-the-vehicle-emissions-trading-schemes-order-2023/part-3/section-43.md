@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Participants in the VRTS[^key-c6b172a48f8e7ba38de35cd8814899e3]
+## 43. Participants in the VRTS[^c-c6b172a48f8e7ba38de35cd8814899e3]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c6b172a48f8e7ba38de35cd8814899e3]: Commencement: Art. 43 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-c6b172a48f8e7ba38de35cd8814899e3]: Commencement: Art. 43 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)

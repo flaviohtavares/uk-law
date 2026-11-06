@@ -32,7 +32,7 @@ summary: ''
 
 Medicines
 
-The Veterinary Medicines (Amendment) Regulations 2011 (revoked)[^key-a6cf93d4428b773be35cdc8efae25663]
+The Veterinary Medicines (Amendment) Regulations 2011 (revoked)[^c-a6cf93d4428b773be35cdc8efae25663]
 
 Made
 
@@ -46,23 +46,23 @@ Coming into force
 
 5th May 2011
 
-[^key-a6cf93d4428b773be35cdc8efae25663]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a6cf93d4428b773be35cdc8efae25663]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-a6cf93d4428b773be35cdc8efae25663]
+## 1. Title and commencement[^c-a6cf93d4428b773be35cdc8efae25663]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Veterinary Medicines Regulations 2009[^key-a6cf93d4428b773be35cdc8efae25663]
+## 2. Amendment to the Veterinary Medicines Regulations 2009[^c-a6cf93d4428b773be35cdc8efae25663]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a6cf93d4428b773be35cdc8efae25663]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a6cf93d4428b773be35cdc8efae25663]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-a6cf93d4428b773be35cdc8efae25663]EXPLANATORY NOTE
+[^c-a6cf93d4428b773be35cdc8efae25663]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -72,4 +72,4 @@ An Impact Assessment has not been produced in respect of these Regulations as th
 
 ## Annotations
 
-[^key-a6cf93d4428b773be35cdc8efae25663]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2011/1116) revoked (1.10.2011) by [The Veterinary Medicines Regulations 2011 (S.I. 2011/2159)](https://www.legislation.gov.uk/uksi/2011/2159), [reg. 46(2)](https://www.legislation.gov.uk/uksi/2011/2159/regulation/46/2)
+[^c-a6cf93d4428b773be35cdc8efae25663]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2011/1116) revoked (1.10.2011) by [The Veterinary Medicines Regulations 2011 (S.I. 2011/2159)](https://www.legislation.gov.uk/uksi/2011/2159), [reg. 46(2)](https://www.legislation.gov.uk/uksi/2011/2159/regulation/46/2)

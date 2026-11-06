@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61D. Worker treated as receiving earnings from employment[^key-87da422853c02c2b89725efce6f34cf9]
+## 61D. Worker treated as receiving earnings from employment[^c-87da422853c02c2b89725efce6f34cf9]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,7 +36,7 @@ summary: ''
 - “**the relevant services**” means the services mentioned in that subsection, and
 - “**the client**” means the person to whom the relevant services are provided.
 
-(4A)[^key-d2794b02ec7364ecb7caf4a94c2d3362] This section does not apply where the provision of the relevant services gives rise (directly or indirectly) to an engagement to which Chapter 10 applies and either—
+(4A)[^c-d2794b02ec7364ecb7caf4a94c2d3362] This section does not apply where the provision of the relevant services gives rise (directly or indirectly) to an engagement to which Chapter 10 applies and either—
 
 - (a) the client for the purposes of section 61M(1) is a public authority, or
 - (b) the client for the purposes of section 61M(1)—
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-87da422853c02c2b89725efce6f34cf9]: Textual amendment: Pt. 2 Ch. 9 inserted (retrospective to 6.4.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 25(2)](https://www.legislation.gov.uk/ukpga/2007/11/section/25/2), [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2007/11/schedule/3/paragraph/4)
+[^c-87da422853c02c2b89725efce6f34cf9]: Textual amendment: Pt. 2 Ch. 9 inserted (retrospective to 6.4.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 25(2)](https://www.legislation.gov.uk/ukpga/2007/11/section/25/2), [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2007/11/schedule/3/paragraph/4)
 
-[^key-d2794b02ec7364ecb7caf4a94c2d3362]: Textual amendment: [S. 61D(4A)-(4C)](https://www.legislation.gov.uk/ukpga/2003/1/section/61D/4A) substituted for [s. 61D(4A)](https://www.legislation.gov.uk/ukpga/2003/1/section/61D/4A) (with effect in accordance with Sch. 1 para. 26 of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2020/14/schedule/1/paragraph/18) (with [Sch. 1 paras. 30-34](https://www.legislation.gov.uk/ukpga/2020/14/schedule/1/paragraph/30))
+[^c-d2794b02ec7364ecb7caf4a94c2d3362]: Textual amendment: [S. 61D(4A)-(4C)](https://www.legislation.gov.uk/ukpga/2003/1/section/61D/4A) substituted for [s. 61D(4A)](https://www.legislation.gov.uk/ukpga/2003/1/section/61D/4A) (with effect in accordance with Sch. 1 para. 26 of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2020/14/schedule/1/paragraph/18) (with [Sch. 1 paras. 30-34](https://www.legislation.gov.uk/ukpga/2020/14/schedule/1/paragraph/30))

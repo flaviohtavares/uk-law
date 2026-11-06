@@ -60,9 +60,9 @@ and A has functions to perform for the body or agency or in the hospital or clin
 - “**National Health Service body**” means—
   - (a) a Local Health Board[^c19607081],
   - (b) a National Health Service trust,
-  - (ba) the Secretary of State in relation to the exercise of functions under section 2A or 2B of, or paragraph 7C, 8 or 12 of Schedule 1 to, the National Health Service Act 2006,[^key-39aa2cd93934c32238d5179f5321b77a]
+  - (ba) the Secretary of State in relation to the exercise of functions under section 2A or 2B of, or paragraph 7C, 8 or 12 of Schedule 1 to, the National Health Service Act 2006,[^c-39aa2cd93934c32238d5179f5321b77a]
   - (bb) a local authority in relation to the exercise of functions under section 2B or 111 of, or any of paragraphs 1 to 7B, or 13 of Schedule 1 to, the National Health Service Act 2006,
-  - (c) [^key-8665a0395314bf56c3f1dce60e18f2e4]...
+  - (c) [^c-8665a0395314bf56c3f1dce60e18f2e4]...
   - (d) a Special Health Authority;
 - “secure accommodation service” has the meaning given in Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016;[^M_F_bfaf85b7-4a80-488a-8d80-22ddedf18101]
 - “**voluntary home**” has the meaning given by section 60(3) of the Children Act 1989.
@@ -90,9 +90,9 @@ and A has functions to perform for the body or agency or in the hospital or clin
 
 [^c19607081]: Textual amendment: S. 42(5): words in definition of "National Health Service body" substituted (1.4.2007) by The References to [Health Authorities Order 2007 (S.I. 2007/961)](https://www.legislation.gov.uk/uksi/2007/961), [art. 3](https://www.legislation.gov.uk/uksi/2007/961/article/3), [Sch. para. 33](https://www.legislation.gov.uk/uksi/2007/961/schedule/paragraph/33)
 
-[^key-39aa2cd93934c32238d5179f5321b77a]: Textual amendment: S. 42(5) definition of “National Health Service body” paras. (ba), (bb) inserted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 117(a)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/117/a); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-39aa2cd93934c32238d5179f5321b77a]: Textual amendment: S. 42(5) definition of “National Health Service body” paras. (ba), (bb) inserted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 117(a)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/117/a); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-8665a0395314bf56c3f1dce60e18f2e4]: Textual amendment: S. 42(5) definition of “National Health Service body” para. (c) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 117(b)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/117/b); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-8665a0395314bf56c3f1dce60e18f2e4]: Textual amendment: S. 42(5) definition of “National Health Service body” para. (c) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 117(b)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/117/b); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
 [^M_F_bfaf85b7-4a80-488a-8d80-22ddedf18101]: Textual amendment: Words in s. 42(5) inserted (2.4.2018) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Regulations 2018 (S.I. 2018/195)](https://www.legislation.gov.uk/uksi/2018/195), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2018/195/regulation/2/1), [23(c)(iii)](https://www.legislation.gov.uk/uksi/2018/195/regulation/23/c/iii)
 

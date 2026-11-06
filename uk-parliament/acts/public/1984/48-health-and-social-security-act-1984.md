@@ -43,16 +43,16 @@ An Act to amend the Opticians Act 1958; to make amendments of the National Healt
 
 (2)[^c7652381] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-0a58e4fd21700340aa497f149630bbe5][^c7652391] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-0a58e4fd21700340aa497f149630bbe5][^c7652391] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-0a58e4fd21700340aa497f149630bbe5][^c7652391] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-0a58e4fd21700340aa497f149630bbe5][^c7652391] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5)[^c7652391] The following provisions of section 26 of the [^c7652431]National Health Service (Scotland) Act 1978 (arrangements for provision of general ophthalmic services) shall cease to have effect—
 
 - (a) subsection (1)(b); and
 - (b) in subsection (2)(c), the words “and the ophthalmic or dispensing optician who is to supply the appliances”.
 
-(6)[^key-0a58e4fd21700340aa497f149630bbe5][^c7652391] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-0a58e4fd21700340aa497f149630bbe5][^c7652391] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7)[^c7652391] The amendments of the [^c7652471]National Health Service (Scotland) Act 1978 contained in Part II of that Schedule shall have effect in consequence of subsection (5) above.
 
@@ -64,7 +64,7 @@ An Act to amend the Opticians Act 1958; to make amendments of the National Healt
 
 (1)[^c7652561] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-667bf4857589944702fa7f7d24940cac][^c7652571] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-667bf4857589944702fa7f7d24940cac][^c7652571] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3)[^c7652561] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -84,7 +84,7 @@ An Act to amend the Opticians Act 1958; to make amendments of the National Healt
 
 (1)[^c7652661] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-e13ca782a2a9e22144750f1e26e3ab57] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-e13ca782a2a9e22144750f1e26e3ab57] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The following subsection shall be inserted after subsection (1) of section 85 of the [^c7652671]National Health Service (Scotland) Act 1978 (expenses)—
 
@@ -98,26 +98,26 @@ An Act to amend the Opticians Act 1958; to make amendments of the National Healt
 
 *Extent: E+W+S*
 
-(1)[^c7652691] The following shall be inserted after section 43 of the *(Extent: E+W)* *(affected by repeal, see note)*[^key-5f81a7d7d922312586fbf5252846595a] [^c7652701]National Health Service Act 1977— *(Extent: E+W)* *(affected by repeal, see note)*[^key-5f81a7d7d922312586fbf5252846595a]
+(1)[^c7652691] The following shall be inserted after section 43 of the *(Extent: E+W)* *(affected by repeal, see note)*[^c-5f81a7d7d922312586fbf5252846595a] [^c7652701]National Health Service Act 1977— *(Extent: E+W)* *(affected by repeal, see note)*[^c-5f81a7d7d922312586fbf5252846595a]
 
-> **Remuneration for services (Extent: E+W) (affected by repeal, see note)[^key-5f81a7d7d922312586fbf5252846595a]**
+> **Remuneration for services (Extent: E+W) (affected by repeal, see note)[^c-5f81a7d7d922312586fbf5252846595a]**
 >
-> **43A (Extent: E+W) (affected by repeal, see note). Regulations as to remuneration. (Extent: E+W) (affected by repeal, see note)[^key-5f81a7d7d922312586fbf5252846595a][^key-5f81a7d7d922312586fbf5252846595a]**
+> **43A (Extent: E+W) (affected by repeal, see note). Regulations as to remuneration. (Extent: E+W) (affected by repeal, see note)[^c-5f81a7d7d922312586fbf5252846595a][^c-5f81a7d7d922312586fbf5252846595a]**
 >
-> (1 (Extent: E+W) (affected by repeal, see note))[^key-5f81a7d7d922312586fbf5252846595a] Regulations shall make provision as to the remuneration to be paid to persons who provide general medical services, general dental services, general ophthalmic services or pharmaceutical services under this Part of this Act. *(Extent: E+W)* *(affected by repeal, see note)*[^key-5f81a7d7d922312586fbf5252846595a]
+> (1 (Extent: E+W) (affected by repeal, see note))[^c-5f81a7d7d922312586fbf5252846595a] Regulations shall make provision as to the remuneration to be paid to persons who provide general medical services, general dental services, general ophthalmic services or pharmaceutical services under this Part of this Act. *(Extent: E+W)* *(affected by repeal, see note)*[^c-5f81a7d7d922312586fbf5252846595a]
 >
-> (2 (Extent: E+W) (affected by repeal, see note))[^key-5f81a7d7d922312586fbf5252846595a] Subject to sections 29(4) and 35(2) above, remuneration under the regulations may consist of payments by way of— *(Extent: E+W)* *(affected by repeal, see note)*[^key-5f81a7d7d922312586fbf5252846595a]
+> (2 (Extent: E+W) (affected by repeal, see note))[^c-5f81a7d7d922312586fbf5252846595a] Subject to sections 29(4) and 35(2) above, remuneration under the regulations may consist of payments by way of— *(Extent: E+W)* *(affected by repeal, see note)*[^c-5f81a7d7d922312586fbf5252846595a]
 >
-> - (a (Extent: E+W) (affected by repeal, see note))[^key-5f81a7d7d922312586fbf5252846595a] salary; *(Extent: E+W)* *(affected by repeal, see note)*[^key-5f81a7d7d922312586fbf5252846595a]
-> - (b (Extent: E+W) (affected by repeal, see note))[^key-5f81a7d7d922312586fbf5252846595a] fees; *(Extent: E+W)* *(affected by repeal, see note)*[^key-5f81a7d7d922312586fbf5252846595a]
-> - (c (Extent: E+W) (affected by repeal, see note))[^key-5f81a7d7d922312586fbf5252846595a] allowances; *(Extent: E+W)* *(affected by repeal, see note)*[^key-5f81a7d7d922312586fbf5252846595a]
-> - (d (Extent: E+W) (affected by repeal, see note))[^key-5f81a7d7d922312586fbf5252846595a] reimbursement (in full or in part) of expenses incurred or expected to be incurred in connection with the provision of the services, *(Extent: E+W)* *(affected by repeal, see note)*[^key-5f81a7d7d922312586fbf5252846595a]
+> - (a (Extent: E+W) (affected by repeal, see note))[^c-5f81a7d7d922312586fbf5252846595a] salary; *(Extent: E+W)* *(affected by repeal, see note)*[^c-5f81a7d7d922312586fbf5252846595a]
+> - (b (Extent: E+W) (affected by repeal, see note))[^c-5f81a7d7d922312586fbf5252846595a] fees; *(Extent: E+W)* *(affected by repeal, see note)*[^c-5f81a7d7d922312586fbf5252846595a]
+> - (c (Extent: E+W) (affected by repeal, see note))[^c-5f81a7d7d922312586fbf5252846595a] allowances; *(Extent: E+W)* *(affected by repeal, see note)*[^c-5f81a7d7d922312586fbf5252846595a]
+> - (d (Extent: E+W) (affected by repeal, see note))[^c-5f81a7d7d922312586fbf5252846595a] reimbursement (in full or in part) of expenses incurred or expected to be incurred in connection with the provision of the services, *(Extent: E+W)* *(affected by repeal, see note)*[^c-5f81a7d7d922312586fbf5252846595a]
 >
-> and the regulations may provide that the remuneration shall be determined from time to time by such authority as may be specified. *(Extent: E+W)* *(affected by repeal, see note)*[^key-5f81a7d7d922312586fbf5252846595a]
+> and the regulations may provide that the remuneration shall be determined from time to time by such authority as may be specified. *(Extent: E+W)* *(affected by repeal, see note)*[^c-5f81a7d7d922312586fbf5252846595a]
 >
-> (3 (Extent: E+W) (affected by repeal, see note))[^key-5f81a7d7d922312586fbf5252846595a] If section 10 of the National Health Service Act 1966 is brought into operation, upon the date of its commencement the words “ *(Extent: E+W)* *(affected by repeal, see note)*[^key-5f81a7d7d922312586fbf5252846595a]**section 10 of the National Health Service Act 1966 and section *(Extent: E+W)* *(affected by repeal, see note)*[^key-5f81a7d7d922312586fbf5252846595a]**” shall be substituted for the words “ *(Extent: E+W)* *(affected by repeal, see note)*[^key-5f81a7d7d922312586fbf5252846595a]**sections 29(4) and *(Extent: E+W)* *(affected by repeal, see note)*[^key-5f81a7d7d922312586fbf5252846595a]**” in subsection (2) above. *(Extent: E+W)* *(affected by repeal, see note)*[^key-5f81a7d7d922312586fbf5252846595a]
+> (3 (Extent: E+W) (affected by repeal, see note))[^c-5f81a7d7d922312586fbf5252846595a] If section 10 of the National Health Service Act 1966 is brought into operation, upon the date of its commencement the words “ *(Extent: E+W)* *(affected by repeal, see note)*[^c-5f81a7d7d922312586fbf5252846595a]**section 10 of the National Health Service Act 1966 and section *(Extent: E+W)* *(affected by repeal, see note)*[^c-5f81a7d7d922312586fbf5252846595a]**” shall be substituted for the words “ *(Extent: E+W)* *(affected by repeal, see note)*[^c-5f81a7d7d922312586fbf5252846595a]**sections 29(4) and *(Extent: E+W)* *(affected by repeal, see note)*[^c-5f81a7d7d922312586fbf5252846595a]**” in subsection (2) above. *(Extent: E+W)* *(affected by repeal, see note)*[^c-5f81a7d7d922312586fbf5252846595a]
 
-. *(Extent: E+W)* *(affected by repeal, see note)*[^key-5f81a7d7d922312586fbf5252846595a]
+. *(Extent: E+W)* *(affected by repeal, see note)*[^c-5f81a7d7d922312586fbf5252846595a]
 
 (2)[^c7652691] The following shall be inserted after section 28 of the [^c7652721]National Health Service (Scotland) Act 1978—
 
@@ -140,60 +140,60 @@ An Act to amend the Opticians Act 1958; to make amendments of the National Healt
 
 .
 
-(3)[^c7652691] The following section shall be added after each of the sections inserted by subsections (1) and (2) above, as section 43B of the *(Extent: E+W)* *(affected by repeal, see note)*[^key-bd95a4aa888e65f52928dda14d832afa] [^c7652741]National Health Service Act 1977 and section 28B of the *(Extent: E+W)* *(affected by repeal, see note)*[^key-bd95a4aa888e65f52928dda14d832afa] [^c7652751]National Health Service (Scotland) Act 1978— *(Extent: E+W)* *(affected by repeal, see note)*[^key-bd95a4aa888e65f52928dda14d832afa]
+(3)[^c7652691] The following section shall be added after each of the sections inserted by subsections (1) and (2) above, as section 43B of the *(Extent: E+W)* *(affected by repeal, see note)*[^c-bd95a4aa888e65f52928dda14d832afa] [^c7652741]National Health Service Act 1977 and section 28B of the *(Extent: E+W)* *(affected by repeal, see note)*[^c-bd95a4aa888e65f52928dda14d832afa] [^c7652751]National Health Service (Scotland) Act 1978— *(Extent: E+W)* *(affected by repeal, see note)*[^c-bd95a4aa888e65f52928dda14d832afa]
 
-> **Remuneration—supplementary. (Extent: E+W) (affected by repeal, see note)[^key-bd95a4aa888e65f52928dda14d832afa]**
+> **Remuneration—supplementary. (Extent: E+W) (affected by repeal, see note)[^c-bd95a4aa888e65f52928dda14d832afa]**
 >
-> (1 (Extent: E+W) (affected by repeal, see note))[^key-bd95a4aa888e65f52928dda14d832afa] The authority specified in regulations under the preceding section may be the Secretary of State or some other person or persons and is referred to in this section as a “determining authority”. *(Extent: E+W)* *(affected by repeal, see note)*[^key-bd95a4aa888e65f52928dda14d832afa]
+> (1 (Extent: E+W) (affected by repeal, see note))[^c-bd95a4aa888e65f52928dda14d832afa] The authority specified in regulations under the preceding section may be the Secretary of State or some other person or persons and is referred to in this section as a “determining authority”. *(Extent: E+W)* *(affected by repeal, see note)*[^c-bd95a4aa888e65f52928dda14d832afa]
 >
-> (2 (Extent: E+W) (affected by repeal, see note))[^key-bd95a4aa888e65f52928dda14d832afa] The power conferred by the preceding section includes power to make regulations providing for a determination in more than one stage and by more than one determining authority. *(Extent: E+W)* *(affected by repeal, see note)*[^key-bd95a4aa888e65f52928dda14d832afa]
+> (2 (Extent: E+W) (affected by repeal, see note))[^c-bd95a4aa888e65f52928dda14d832afa] The power conferred by the preceding section includes power to make regulations providing for a determination in more than one stage and by more than one determining authority. *(Extent: E+W)* *(affected by repeal, see note)*[^c-bd95a4aa888e65f52928dda14d832afa]
 >
-> (3 (Extent: E+W) (affected by repeal, see note))[^key-bd95a4aa888e65f52928dda14d832afa] Regulations under the preceding section shall provide— *(Extent: E+W)* *(affected by repeal, see note)*[^key-bd95a4aa888e65f52928dda14d832afa]
+> (3 (Extent: E+W) (affected by repeal, see note))[^c-bd95a4aa888e65f52928dda14d832afa] Regulations under the preceding section shall provide— *(Extent: E+W)* *(affected by repeal, see note)*[^c-bd95a4aa888e65f52928dda14d832afa]
 >
-> - (a (Extent: E+W) (affected by repeal, see note))[^key-bd95a4aa888e65f52928dda14d832afa] that a determination may be made with respect either to any of the descriptions of services mentioned in subsection (1) of the preceding section generally or to any category of services falling within such a description; *(Extent: E+W)* *(affected by repeal, see note)*[^key-bd95a4aa888e65f52928dda14d832afa]
-> - (b (Extent: E+W) (affected by repeal, see note))[^key-bd95a4aa888e65f52928dda14d832afa] that, before making such a determination, the determining authority shall consult— *(Extent: E+W)* *(affected by repeal, see note)*[^key-bd95a4aa888e65f52928dda14d832afa]
->   - (i (Extent: E+W) (affected by repeal, see note))[^key-bd95a4aa888e65f52928dda14d832afa] a prescribed body established to provide advice in connection with the matters to be determined; or *(Extent: E+W)* *(affected by repeal, see note)*[^key-bd95a4aa888e65f52928dda14d832afa]
->   - (ii (Extent: E+W) (affected by repeal, see note))[^key-bd95a4aa888e65f52928dda14d832afa] an organisation appearing to the Secretary of State to be representative of persons to whose remuneration the determination would relate. *(Extent: E+W)* *(affected by repeal, see note)*[^key-bd95a4aa888e65f52928dda14d832afa]
+> - (a (Extent: E+W) (affected by repeal, see note))[^c-bd95a4aa888e65f52928dda14d832afa] that a determination may be made with respect either to any of the descriptions of services mentioned in subsection (1) of the preceding section generally or to any category of services falling within such a description; *(Extent: E+W)* *(affected by repeal, see note)*[^c-bd95a4aa888e65f52928dda14d832afa]
+> - (b (Extent: E+W) (affected by repeal, see note))[^c-bd95a4aa888e65f52928dda14d832afa] that, before making such a determination, the determining authority shall consult— *(Extent: E+W)* *(affected by repeal, see note)*[^c-bd95a4aa888e65f52928dda14d832afa]
+>   - (i (Extent: E+W) (affected by repeal, see note))[^c-bd95a4aa888e65f52928dda14d832afa] a prescribed body established to provide advice in connection with the matters to be determined; or *(Extent: E+W)* *(affected by repeal, see note)*[^c-bd95a4aa888e65f52928dda14d832afa]
+>   - (ii (Extent: E+W) (affected by repeal, see note))[^c-bd95a4aa888e65f52928dda14d832afa] an organisation appearing to the Secretary of State to be representative of persons to whose remuneration the determination would relate. *(Extent: E+W)* *(affected by repeal, see note)*[^c-bd95a4aa888e65f52928dda14d832afa]
 >
->   or both such a body and such an organisation. *(Extent: E+W)* *(affected by repeal, see note)*[^key-bd95a4aa888e65f52928dda14d832afa]
+>   or both such a body and such an organisation. *(Extent: E+W)* *(affected by repeal, see note)*[^c-bd95a4aa888e65f52928dda14d832afa]
 >
-> (4 (Extent: E+W) (affected by repeal, see note))[^key-bd95a4aa888e65f52928dda14d832afa] Regulations under the preceding section may provide— *(Extent: E+W)* *(affected by repeal, see note)*[^key-bd95a4aa888e65f52928dda14d832afa]
+> (4 (Extent: E+W) (affected by repeal, see note))[^c-bd95a4aa888e65f52928dda14d832afa] Regulations under the preceding section may provide— *(Extent: E+W)* *(affected by repeal, see note)*[^c-bd95a4aa888e65f52928dda14d832afa]
 >
-> - (a (Extent: E+W) (affected by repeal, see note))[^key-bd95a4aa888e65f52928dda14d832afa] that a determination such as is mentioned in subsection (3) above shall have effect in relation to remuneration in respect of a period beginning on or after a date specified in the determination, which may be the date of the determination or an earlier or later date, but may be an earlier date only if, taking the determination as a whole, it is not detrimental to the persons to whose remuneration it relates; and *(Extent: E+W)* *(affected by repeal, see note)*[^key-bd95a4aa888e65f52928dda14d832afa]
-> - (b (Extent: E+W) (affected by repeal, see note))[^key-bd95a4aa888e65f52928dda14d832afa] that any such determination which does not specify such a date shall have effect in relation to remuneration in respect of a period beginning— *(Extent: E+W)* *(affected by repeal, see note)*[^key-bd95a4aa888e65f52928dda14d832afa]
->   - (i (Extent: E+W) (affected by repeal, see note))[^key-bd95a4aa888e65f52928dda14d832afa] if it is required to be published, on the date of publication; *(Extent: E+W)* *(affected by repeal, see note)*[^key-bd95a4aa888e65f52928dda14d832afa]
->   - (ii (Extent: E+W) (affected by repeal, see note))[^key-bd95a4aa888e65f52928dda14d832afa] if it is not so required, on the date on which it is made. *(Extent: E+W)* *(affected by repeal, see note)*[^key-bd95a4aa888e65f52928dda14d832afa]
+> - (a (Extent: E+W) (affected by repeal, see note))[^c-bd95a4aa888e65f52928dda14d832afa] that a determination such as is mentioned in subsection (3) above shall have effect in relation to remuneration in respect of a period beginning on or after a date specified in the determination, which may be the date of the determination or an earlier or later date, but may be an earlier date only if, taking the determination as a whole, it is not detrimental to the persons to whose remuneration it relates; and *(Extent: E+W)* *(affected by repeal, see note)*[^c-bd95a4aa888e65f52928dda14d832afa]
+> - (b (Extent: E+W) (affected by repeal, see note))[^c-bd95a4aa888e65f52928dda14d832afa] that any such determination which does not specify such a date shall have effect in relation to remuneration in respect of a period beginning— *(Extent: E+W)* *(affected by repeal, see note)*[^c-bd95a4aa888e65f52928dda14d832afa]
+>   - (i (Extent: E+W) (affected by repeal, see note))[^c-bd95a4aa888e65f52928dda14d832afa] if it is required to be published, on the date of publication; *(Extent: E+W)* *(affected by repeal, see note)*[^c-bd95a4aa888e65f52928dda14d832afa]
+>   - (ii (Extent: E+W) (affected by repeal, see note))[^c-bd95a4aa888e65f52928dda14d832afa] if it is not so required, on the date on which it is made. *(Extent: E+W)* *(affected by repeal, see note)*[^c-bd95a4aa888e65f52928dda14d832afa]
 >
-> (5 (Extent: E+W) (affected by repeal, see note))[^key-bd95a4aa888e65f52928dda14d832afa] Regulations under the preceding section may provide— *(Extent: E+W)* *(affected by repeal, see note)*[^key-bd95a4aa888e65f52928dda14d832afa]
+> (5 (Extent: E+W) (affected by repeal, see note))[^c-bd95a4aa888e65f52928dda14d832afa] Regulations under the preceding section may provide— *(Extent: E+W)* *(affected by repeal, see note)*[^c-bd95a4aa888e65f52928dda14d832afa]
 >
-> - (a (Extent: E+W) (affected by repeal, see note))[^key-bd95a4aa888e65f52928dda14d832afa] for determinations of the remuneration of particular persons or descriptions of persons for particular items of service or in particular circumstances; *(Extent: E+W)* *(affected by repeal, see note)*[^key-bd95a4aa888e65f52928dda14d832afa]
-> - (b (Extent: E+W) (affected by repeal, see note))[^key-bd95a4aa888e65f52928dda14d832afa] that a determining authority shall have a discretion, when making a determination by virtue of this subsection,— *(Extent: E+W)* *(affected by repeal, see note)*[^key-bd95a4aa888e65f52928dda14d832afa]
->   - (i (Extent: E+W) (affected by repeal, see note))[^key-bd95a4aa888e65f52928dda14d832afa] as to the amount of remuneration to be paid; and *(Extent: E+W)* *(affected by repeal, see note)*[^key-bd95a4aa888e65f52928dda14d832afa]
->   - (ii (Extent: E+W) (affected by repeal, see note))[^key-bd95a4aa888e65f52928dda14d832afa] as to the persons to whom and conditions on which it is to be paid; and *(Extent: E+W)* *(affected by repeal, see note)*[^key-bd95a4aa888e65f52928dda14d832afa]
-> - (c (Extent: E+W) (affected by repeal, see note))[^key-bd95a4aa888e65f52928dda14d832afa] that a determination made by virtue of this subsection may be revised— *(Extent: E+W)* *(affected by repeal, see note)*[^key-bd95a4aa888e65f52928dda14d832afa]
->   - (i (Extent: E+W) (affected by repeal, see note))[^key-bd95a4aa888e65f52928dda14d832afa] to correct an error; or *(Extent: E+W)* *(affected by repeal, see note)*[^key-bd95a4aa888e65f52928dda14d832afa]
->   - (ii (Extent: E+W) (affected by repeal, see note))[^key-bd95a4aa888e65f52928dda14d832afa] where it appears to the determining authority that it was made in ignorance of or under a mistake as to a relevant fact. *(Extent: E+W)* *(affected by repeal, see note)*[^key-bd95a4aa888e65f52928dda14d832afa]
+> - (a (Extent: E+W) (affected by repeal, see note))[^c-bd95a4aa888e65f52928dda14d832afa] for determinations of the remuneration of particular persons or descriptions of persons for particular items of service or in particular circumstances; *(Extent: E+W)* *(affected by repeal, see note)*[^c-bd95a4aa888e65f52928dda14d832afa]
+> - (b (Extent: E+W) (affected by repeal, see note))[^c-bd95a4aa888e65f52928dda14d832afa] that a determining authority shall have a discretion, when making a determination by virtue of this subsection,— *(Extent: E+W)* *(affected by repeal, see note)*[^c-bd95a4aa888e65f52928dda14d832afa]
+>   - (i (Extent: E+W) (affected by repeal, see note))[^c-bd95a4aa888e65f52928dda14d832afa] as to the amount of remuneration to be paid; and *(Extent: E+W)* *(affected by repeal, see note)*[^c-bd95a4aa888e65f52928dda14d832afa]
+>   - (ii (Extent: E+W) (affected by repeal, see note))[^c-bd95a4aa888e65f52928dda14d832afa] as to the persons to whom and conditions on which it is to be paid; and *(Extent: E+W)* *(affected by repeal, see note)*[^c-bd95a4aa888e65f52928dda14d832afa]
+> - (c (Extent: E+W) (affected by repeal, see note))[^c-bd95a4aa888e65f52928dda14d832afa] that a determination made by virtue of this subsection may be revised— *(Extent: E+W)* *(affected by repeal, see note)*[^c-bd95a4aa888e65f52928dda14d832afa]
+>   - (i (Extent: E+W) (affected by repeal, see note))[^c-bd95a4aa888e65f52928dda14d832afa] to correct an error; or *(Extent: E+W)* *(affected by repeal, see note)*[^c-bd95a4aa888e65f52928dda14d832afa]
+>   - (ii (Extent: E+W) (affected by repeal, see note))[^c-bd95a4aa888e65f52928dda14d832afa] where it appears to the determining authority that it was made in ignorance of or under a mistake as to a relevant fact. *(Extent: E+W)* *(affected by repeal, see note)*[^c-bd95a4aa888e65f52928dda14d832afa]
 >
-> (6 (Extent: E+W) (affected by repeal, see note))[^key-bd95a4aa888e65f52928dda14d832afa] Regulations under the preceding section may provide— *(Extent: E+W)* *(affected by repeal, see note)*[^key-bd95a4aa888e65f52928dda14d832afa]
+> (6 (Extent: E+W) (affected by repeal, see note))[^c-bd95a4aa888e65f52928dda14d832afa] Regulations under the preceding section may provide— *(Extent: E+W)* *(affected by repeal, see note)*[^c-bd95a4aa888e65f52928dda14d832afa]
 >
-> - (a (Extent: E+W) (affected by repeal, see note))[^key-bd95a4aa888e65f52928dda14d832afa] that determinations may be made by reference to any of the following— *(Extent: E+W)* *(affected by repeal, see note)*[^key-bd95a4aa888e65f52928dda14d832afa]
->   - (i (Extent: E+W) (affected by repeal, see note))[^key-bd95a4aa888e65f52928dda14d832afa] rates or conditions of remuneration of any persons or any descriptions of persons which are fixed or determined, or to be fixed or determined, otherwise than by way of a determination under the regulations; *(Extent: E+W)* *(affected by repeal, see note)*[^key-bd95a4aa888e65f52928dda14d832afa]
->   - (ii (Extent: E+W) (affected by repeal, see note))[^key-bd95a4aa888e65f52928dda14d832afa] scales, indices or other data of any description specified in the regulations; and *(Extent: E+W)* *(affected by repeal, see note)*[^key-bd95a4aa888e65f52928dda14d832afa]
-> - (b (Extent: E+W) (affected by repeal, see note))[^key-bd95a4aa888e65f52928dda14d832afa] that any determination which in accordance with regulations made by virtue of paragraph (a)(ii) above falls to be made by reference to a scale or an index or to any other data may be made not only by reference to that index or scale or those data in the form current at the time of the determination but also by reference to the scale, index or data in any subsequent form attributable to amendment or revision taking effect after that time or to any other cause. *(Extent: E+W)* *(affected by repeal, see note)*[^key-bd95a4aa888e65f52928dda14d832afa]
+> - (a (Extent: E+W) (affected by repeal, see note))[^c-bd95a4aa888e65f52928dda14d832afa] that determinations may be made by reference to any of the following— *(Extent: E+W)* *(affected by repeal, see note)*[^c-bd95a4aa888e65f52928dda14d832afa]
+>   - (i (Extent: E+W) (affected by repeal, see note))[^c-bd95a4aa888e65f52928dda14d832afa] rates or conditions of remuneration of any persons or any descriptions of persons which are fixed or determined, or to be fixed or determined, otherwise than by way of a determination under the regulations; *(Extent: E+W)* *(affected by repeal, see note)*[^c-bd95a4aa888e65f52928dda14d832afa]
+>   - (ii (Extent: E+W) (affected by repeal, see note))[^c-bd95a4aa888e65f52928dda14d832afa] scales, indices or other data of any description specified in the regulations; and *(Extent: E+W)* *(affected by repeal, see note)*[^c-bd95a4aa888e65f52928dda14d832afa]
+> - (b (Extent: E+W) (affected by repeal, see note))[^c-bd95a4aa888e65f52928dda14d832afa] that any determination which in accordance with regulations made by virtue of paragraph (a)(ii) above falls to be made by reference to a scale or an index or to any other data may be made not only by reference to that index or scale or those data in the form current at the time of the determination but also by reference to the scale, index or data in any subsequent form attributable to amendment or revision taking effect after that time or to any other cause. *(Extent: E+W)* *(affected by repeal, see note)*[^c-bd95a4aa888e65f52928dda14d832afa]
 >
-> (7 (Extent: E+W) (affected by repeal, see note))[^key-bd95a4aa888e65f52928dda14d832afa] Any determination under regulations under the previous section shall be made after taking into account all the matters which are considered to be relevant by the determining authority and, without prejudice to the generality of this subsection, such matters may include— *(Extent: E+W)* *(affected by repeal, see note)*[^key-bd95a4aa888e65f52928dda14d832afa]
+> (7 (Extent: E+W) (affected by repeal, see note))[^c-bd95a4aa888e65f52928dda14d832afa] Any determination under regulations under the previous section shall be made after taking into account all the matters which are considered to be relevant by the determining authority and, without prejudice to the generality of this subsection, such matters may include— *(Extent: E+W)* *(affected by repeal, see note)*[^c-bd95a4aa888e65f52928dda14d832afa]
 >
-> - (a (Extent: E+W) (affected by repeal, see note))[^key-bd95a4aa888e65f52928dda14d832afa] the amount or estimated amount of expenses (taking into account any discounts) incurred in the past or likely to be incurred in the future (whether or not by persons to whose remuneration the determination will relate) in connection with the provision of services of a kind to which the determination will relate; *(Extent: E+W)* *(affected by repeal, see note)*[^key-bd95a4aa888e65f52928dda14d832afa]
-> - (b (Extent: E+W) (affected by repeal, see note))[^key-bd95a4aa888e65f52928dda14d832afa] the amount or estimated amount of any remuneration paid or likely to be paid to persons providing such services; *(Extent: E+W)* *(affected by repeal, see note)*[^key-bd95a4aa888e65f52928dda14d832afa]
-> - (c (Extent: E+W) (affected by repeal, see note))[^key-bd95a4aa888e65f52928dda14d832afa] the amount or estimated amount of any other payments or repayments or other benefits received or likely to be received by any such persons; *(Extent: E+W)* *(affected by repeal, see note)*[^key-bd95a4aa888e65f52928dda14d832afa]
-> - (d (Extent: E+W) (affected by repeal, see note))[^key-bd95a4aa888e65f52928dda14d832afa] the extent to which it is desirable to encourage the provision of particular descriptions of services either generally or in particular localities; *(Extent: E+W)* *(affected by repeal, see note)*[^key-bd95a4aa888e65f52928dda14d832afa]
-> - (e (Extent: E+W) (affected by repeal, see note))[^key-bd95a4aa888e65f52928dda14d832afa] the desirability of promoting services which are— *(Extent: E+W)* *(affected by repeal, see note)*[^key-bd95a4aa888e65f52928dda14d832afa]
->   - (i (Extent: E+W) (affected by repeal, see note))[^key-bd95a4aa888e65f52928dda14d832afa] economic and efficient; and *(Extent: E+W)* *(affected by repeal, see note)*[^key-bd95a4aa888e65f52928dda14d832afa]
->   - (ii (Extent: E+W) (affected by repeal, see note))[^key-bd95a4aa888e65f52928dda14d832afa] of an appropriate standard. *(Extent: E+W)* *(affected by repeal, see note)*[^key-bd95a4aa888e65f52928dda14d832afa]
+> - (a (Extent: E+W) (affected by repeal, see note))[^c-bd95a4aa888e65f52928dda14d832afa] the amount or estimated amount of expenses (taking into account any discounts) incurred in the past or likely to be incurred in the future (whether or not by persons to whose remuneration the determination will relate) in connection with the provision of services of a kind to which the determination will relate; *(Extent: E+W)* *(affected by repeal, see note)*[^c-bd95a4aa888e65f52928dda14d832afa]
+> - (b (Extent: E+W) (affected by repeal, see note))[^c-bd95a4aa888e65f52928dda14d832afa] the amount or estimated amount of any remuneration paid or likely to be paid to persons providing such services; *(Extent: E+W)* *(affected by repeal, see note)*[^c-bd95a4aa888e65f52928dda14d832afa]
+> - (c (Extent: E+W) (affected by repeal, see note))[^c-bd95a4aa888e65f52928dda14d832afa] the amount or estimated amount of any other payments or repayments or other benefits received or likely to be received by any such persons; *(Extent: E+W)* *(affected by repeal, see note)*[^c-bd95a4aa888e65f52928dda14d832afa]
+> - (d (Extent: E+W) (affected by repeal, see note))[^c-bd95a4aa888e65f52928dda14d832afa] the extent to which it is desirable to encourage the provision of particular descriptions of services either generally or in particular localities; *(Extent: E+W)* *(affected by repeal, see note)*[^c-bd95a4aa888e65f52928dda14d832afa]
+> - (e (Extent: E+W) (affected by repeal, see note))[^c-bd95a4aa888e65f52928dda14d832afa] the desirability of promoting services which are— *(Extent: E+W)* *(affected by repeal, see note)*[^c-bd95a4aa888e65f52928dda14d832afa]
+>   - (i (Extent: E+W) (affected by repeal, see note))[^c-bd95a4aa888e65f52928dda14d832afa] economic and efficient; and *(Extent: E+W)* *(affected by repeal, see note)*[^c-bd95a4aa888e65f52928dda14d832afa]
+>   - (ii (Extent: E+W) (affected by repeal, see note))[^c-bd95a4aa888e65f52928dda14d832afa] of an appropriate standard. *(Extent: E+W)* *(affected by repeal, see note)*[^c-bd95a4aa888e65f52928dda14d832afa]
 
-. *(Extent: E+W)* *(affected by repeal, see note)*[^key-bd95a4aa888e65f52928dda14d832afa]
+. *(Extent: E+W)* *(affected by repeal, see note)*[^c-bd95a4aa888e65f52928dda14d832afa]
 
-(4)[^c7652761] Any determination in relation to remuneration in respect of services under Part II of the *(Extent: E+W)* *(affected by repeal, see note)*[^key-d275dae17afda3a2c7448cf4b041f039] [^c7652771]National Health Service Act 1977 or *(Extent: E+W)* *(affected by repeal, see note)*[^key-d275dae17afda3a2c7448cf4b041f039] Part II of the [^c7652781]National Health Service (Scotland) Act 1978 which was made—
+(4)[^c7652761] Any determination in relation to remuneration in respect of services under Part II of the *(Extent: E+W)* *(affected by repeal, see note)*[^c-d275dae17afda3a2c7448cf4b041f039] [^c7652771]National Health Service Act 1977 or *(Extent: E+W)* *(affected by repeal, see note)*[^c-d275dae17afda3a2c7448cf4b041f039] Part II of the [^c7652781]National Health Service (Scotland) Act 1978 which was made—
 
 - (a) before the passing of this Act; or
 - (b) after it but at a time before the coming into force of a provision inserted by this section,
@@ -208,7 +208,7 @@ shall be deemed to be validly made if regulations authorising such a determinati
 
 *Extent: E+W+S*
 
-(1)[^key-624c2c23e1110af59fd7f8824573be18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-624c2c23e1110af59fd7f8824573be18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) The following section shall be added after section 99 of the National Health Service (Scotland) Act 1978—
 
@@ -226,7 +226,7 @@ shall be deemed to be validly made if regulations authorising such a determinati
 
 *Extent: E+W+S*
 
-#### 10. Reimbursement of cost of medical and maternity treatment in member States of European Economic Community.[^key-95c77d51151e2680cb4a0fca45c7f0cb]
+#### 10. Reimbursement of cost of medical and maternity treatment in member States of European Economic Community.[^c-95c77d51151e2680cb4a0fca45c7f0cb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -346,7 +346,7 @@ extend to Scotland only.
 (4) The following provisions of this Act—
 
 - section 8;
-- [^key-8338726ed1bf0f42218fae392bddf041]...; and Part II, except the provisions mentioned in subsection (5) below,
+- [^c-8338726ed1bf0f42218fae392bddf041]...; and Part II, except the provisions mentioned in subsection (5) below,
 
 extend to England and Wales and Scotland.
 
@@ -493,20 +493,20 @@ Section 1.
 
 Section 5.
 
-**1.**[^key-76a6db22749fa8fee313a45ee01b4d97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-76a6db22749fa8fee313a45ee01b4d97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **2.**[^c7653151] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **3.** In section 22 (co-operation between health authorities and local authorities)—
 
 - (a)[^c7653161] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-726a6faa01696312a23c39c344f535b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-726a6faa01696312a23c39c344f535b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c)[^c7653161] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d)[^c7653161] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **4.**[^c7653191] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-9d93ed78413f33137e9cdab7aa60f1f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-9d93ed78413f33137e9cdab7aa60f1f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **6.** In subsection (1) of section 44 (recognition of local representative committees)—
 
@@ -515,7 +515,7 @@ Section 5.
 
 **7.**[^c7653211] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-e21d6218b3a3b22b3efb62148083efef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-e21d6218b3a3b22b3efb62148083efef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **9.**[^c7653221] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -596,7 +596,7 @@ Section 5.
 
 **14.**[^c7653271] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-a5ef9fda4ed46f4663790df980b82c7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-a5ef9fda4ed46f4663790df980b82c7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **16.**[^c7653281] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -668,7 +668,7 @@ Section 24.
 
 [^c7652381]: Textual amendment: S. 1(1)(2) repealed (16.2.1990) by [Opticians Act 1989 (c. 44)](https://www.legislation.gov.uk/ukpga/1989/44), [s. 37](https://www.legislation.gov.uk/ukpga/1989/44/section/37), [Sch. 2](https://www.legislation.gov.uk/ukpga/1989/44/schedule/2)
 
-[^key-0a58e4fd21700340aa497f149630bbe5]: Textual amendment: S. 1(3)(4)(6) repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1, Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
+[^c-0a58e4fd21700340aa497f149630bbe5]: Textual amendment: S. 1(3)(4)(6) repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1, Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
 
 [^c7652391]: Modification: The text of s. 1(3)–(7) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
 
@@ -680,7 +680,7 @@ Section 24.
 
 [^c7652561]: Textual amendment: S. 5(1)(3)(5)(6) repealed (1.4.1996) by [1995 c. 17](https://www.legislation.gov.uk/ukpga/1995/17), [s. 5(1)(2)](https://www.legislation.gov.uk/ukpga/1995/17/section/5/1/2), [Sch. 3](https://www.legislation.gov.uk/ukpga/1995/17/schedule/3) (with [Sch. 2 paras. 6](https://www.legislation.gov.uk/ukpga/1995/17/schedule/2/paragraph/6), [16](https://www.legislation.gov.uk/ukpga/1995/17/schedule/2/paragraph/16))
 
-[^key-667bf4857589944702fa7f7d24940cac]: Textual amendment: S. 5(2) repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1, Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
+[^c-667bf4857589944702fa7f7d24940cac]: Textual amendment: S. 5(2) repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1, Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
 
 [^c7652571]: Modification: The text of ss. 5(1)–(4), 6, 7(1)–(3) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
 
@@ -688,7 +688,7 @@ Section 24.
 
 [^c7652661]: Textual amendment: S. 6(1) repealed (1.4.1996) by [1995 c. 17](https://www.legislation.gov.uk/ukpga/1995/17), [s. 5(1)(2)](https://www.legislation.gov.uk/ukpga/1995/17/section/5/1/2), [Sch. 3](https://www.legislation.gov.uk/ukpga/1995/17/schedule/3) (with [Sch. 2 paras. 6](https://www.legislation.gov.uk/ukpga/1995/17/schedule/2/paragraph/6), [16](https://www.legislation.gov.uk/ukpga/1995/17/schedule/2/paragraph/16))
 
-[^key-e13ca782a2a9e22144750f1e26e3ab57]: Textual amendment: S. 6(2) repealed (20.10.2003 for W., 1.12.2003 for E.) by [Health (Wales) Act 2003 (c. 4)](https://www.legislation.gov.uk/ukpga/2003/4), [s. 10(2)](https://www.legislation.gov.uk/ukpga/2003/4/section/10/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2003/4/schedule/4); [S.I. 2003/2660](https://www.legislation.gov.uk/uksi/2003/2660), [art. 2(1)(iii)](https://www.legislation.gov.uk/uksi/2003/2660/article/2/1/iii)[(2)](https://www.legislation.gov.uk/uksi/2003/2660/article/2/2); S.I. 2003/3064, art. 2(1)(iii)
+[^c-e13ca782a2a9e22144750f1e26e3ab57]: Textual amendment: S. 6(2) repealed (20.10.2003 for W., 1.12.2003 for E.) by [Health (Wales) Act 2003 (c. 4)](https://www.legislation.gov.uk/ukpga/2003/4), [s. 10(2)](https://www.legislation.gov.uk/ukpga/2003/4/section/10/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2003/4/schedule/4); [S.I. 2003/2660](https://www.legislation.gov.uk/uksi/2003/2660), [art. 2(1)(iii)](https://www.legislation.gov.uk/uksi/2003/2660/article/2/1/iii)[(2)](https://www.legislation.gov.uk/uksi/2003/2660/article/2/2); S.I. 2003/3064, art. 2(1)(iii)
 
 [^c7652671]: Marginal citation: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29).
 
@@ -696,13 +696,13 @@ Section 24.
 
 [^c7652691]: Modification: The text of ss. 5(1)–(4), 6, 7(1)–(3) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
 
-[^key-5f81a7d7d922312586fbf5252846595a]: Textual amendment: S. 7(1) repealed (E.W.) (1.3.2007 immediately before the National Health Service Act 2006 comes into force) by [National Health Service (Pre - consolidation Amendments) Order 2006 (S.I. 2006/1407)](https://www.legislation.gov.uk/uksi/2006/1407), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/1407/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/1407/schedule/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/1407/article/4))
+[^c-5f81a7d7d922312586fbf5252846595a]: Textual amendment: S. 7(1) repealed (E.W.) (1.3.2007 immediately before the National Health Service Act 2006 comes into force) by [National Health Service (Pre - consolidation Amendments) Order 2006 (S.I. 2006/1407)](https://www.legislation.gov.uk/uksi/2006/1407), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/1407/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/1407/schedule/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/1407/article/4))
 
 [^c7652701]: Marginal citation: [1977 c. 49](https://www.legislation.gov.uk/ukpga/1977/49).
 
 [^c7652721]: Marginal citation: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29).
 
-[^key-bd95a4aa888e65f52928dda14d832afa]: Textual amendment: S. 7(3) repealed in part (E.W.) (1.3.2007 immediately before the National Health Service Act 2006 comes into force) by [National Health Service (Pre - consolidation Amendments) Order 2006 (S.I. 2006/1407)](https://www.legislation.gov.uk/uksi/2006/1407), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/1407/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/1407/schedule/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/1407/article/4))
+[^c-bd95a4aa888e65f52928dda14d832afa]: Textual amendment: S. 7(3) repealed in part (E.W.) (1.3.2007 immediately before the National Health Service Act 2006 comes into force) by [National Health Service (Pre - consolidation Amendments) Order 2006 (S.I. 2006/1407)](https://www.legislation.gov.uk/uksi/2006/1407), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/1407/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/1407/schedule/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/1407/article/4))
 
 [^c7652741]: Marginal citation: [1977 c. 49](https://www.legislation.gov.uk/ukpga/1977/49).
 
@@ -712,7 +712,7 @@ Section 24.
 
     S. 7(4) amended (S.) (1.10.1999) by [1999 c. 8](https://www.legislation.gov.uk/ukpga/1999/8), [s. 57(3)](https://www.legislation.gov.uk/ukpga/1999/8/section/57/3); [S.S.I. 1999/90](https://www.legislation.gov.uk/ssi/1999/90), [art. 2(a)](https://www.legislation.gov.uk/ssi/1999/90/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/1999/90/schedule/1)
 
-[^key-d275dae17afda3a2c7448cf4b041f039]: Textual amendment: Words in s. 7(4) repealed (E.W.) (1.3.2007 immediately before the National Health Service Act 2006 comes into force) by [National Health Service (Pre - consolidation Amendments) Order 2006 (S.I. 2006/1407)](https://www.legislation.gov.uk/uksi/2006/1407), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/1407/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/1407/schedule/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/1407/article/4))
+[^c-d275dae17afda3a2c7448cf4b041f039]: Textual amendment: Words in s. 7(4) repealed (E.W.) (1.3.2007 immediately before the National Health Service Act 2006 comes into force) by [National Health Service (Pre - consolidation Amendments) Order 2006 (S.I. 2006/1407)](https://www.legislation.gov.uk/uksi/2006/1407), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/1407/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/1407/schedule/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/1407/article/4))
 
 [^c7652771]: Marginal citation: [1977 c. 49](https://www.legislation.gov.uk/ukpga/1977/49).
 
@@ -722,9 +722,9 @@ Section 24.
 
 [^c7652801]: Modification: The text of s. 9 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
 
-[^key-624c2c23e1110af59fd7f8824573be18]: Textual amendment: S. 9(1) repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1, Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
+[^c-624c2c23e1110af59fd7f8824573be18]: Textual amendment: S. 9(1) repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1, Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
 
-[^key-95c77d51151e2680cb4a0fca45c7f0cb]: Textual amendment: S. 10 omitted (31.12.2020) by virtue of [The National Health Service (Cross-Border Healthcare and Miscellaneous Amendments etc.) (EU Exit) Regulations 2019 (S.I. 2019/777)](https://www.legislation.gov.uk/uksi/2019/777), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/777/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/777/regulation/2/2) (with [reg. 15](https://www.legislation.gov.uk/uksi/2019/777/regulation/15), [Sch. 1](https://www.legislation.gov.uk/uksi/2019/777/schedule/1)) (as amended by [S.I. 2020/1348](https://www.legislation.gov.uk/uksi/2020/1348), [regs. 10-12](https://www.legislation.gov.uk/uksi/2020/1348/regulation/10));. [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-95c77d51151e2680cb4a0fca45c7f0cb]: Textual amendment: S. 10 omitted (31.12.2020) by virtue of [The National Health Service (Cross-Border Healthcare and Miscellaneous Amendments etc.) (EU Exit) Regulations 2019 (S.I. 2019/777)](https://www.legislation.gov.uk/uksi/2019/777), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/777/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/777/regulation/2/2) (with [reg. 15](https://www.legislation.gov.uk/uksi/2019/777/regulation/15), [Sch. 1](https://www.legislation.gov.uk/uksi/2019/777/schedule/1)) (as amended by [S.I. 2020/1348](https://www.legislation.gov.uk/uksi/2020/1348), [regs. 10-12](https://www.legislation.gov.uk/uksi/2020/1348/regulation/10));. [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c7652821]: Textual amendment: [Ss. 11–14](https://www.legislation.gov.uk/ukpga/1984/48/section/11) repealed (1.7.1992) by [Social Security (Consequential Provisions) Act 1992 (c. 6)](https://www.legislation.gov.uk/ukpga/1992/6)
 
@@ -756,7 +756,7 @@ Section 24.
 
 [^c7653001]: Marginal citation: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29).
 
-[^key-8338726ed1bf0f42218fae392bddf041]: Textual amendment: Words in s. 26(4) omitted (31.12.2020) by virtue of [The National Health Service (Cross-Border Healthcare and Miscellaneous Amendments etc.) (EU Exit) Regulations 2019 (S.I. 2019/777)](https://www.legislation.gov.uk/uksi/2019/777), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/777/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2019/777/regulation/2/3) (with [reg. 15](https://www.legislation.gov.uk/uksi/2019/777/regulation/15), [Sch. 1](https://www.legislation.gov.uk/uksi/2019/777/schedule/1)) (as amended by [S.I. 2020/1348](https://www.legislation.gov.uk/uksi/2020/1348), [regs. 10-12](https://www.legislation.gov.uk/uksi/2020/1348/regulation/10));. [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8338726ed1bf0f42218fae392bddf041]: Textual amendment: Words in s. 26(4) omitted (31.12.2020) by virtue of [The National Health Service (Cross-Border Healthcare and Miscellaneous Amendments etc.) (EU Exit) Regulations 2019 (S.I. 2019/777)](https://www.legislation.gov.uk/uksi/2019/777), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/777/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2019/777/regulation/2/3) (with [reg. 15](https://www.legislation.gov.uk/uksi/2019/777/regulation/15), [Sch. 1](https://www.legislation.gov.uk/uksi/2019/777/schedule/1)) (as amended by [S.I. 2020/1348](https://www.legislation.gov.uk/uksi/2020/1348), [regs. 10-12](https://www.legislation.gov.uk/uksi/2020/1348/regulation/10));. [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c7653011]: Textual amendment: Word substituted by [Social Security Act 1985 (c. 53)](https://www.legislation.gov.uk/ukpga/1985/53), [Sch. 5](https://www.legislation.gov.uk/ukpga/1985/53/schedule/5), [para. 39](https://www.legislation.gov.uk/ukpga/1985/53/paragraph/39)
 
@@ -790,23 +790,23 @@ Section 24.
 
 [^c7653131]: Modification: The text of Sch. 3 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
 
-[^key-76a6db22749fa8fee313a45ee01b4d97]: Textual amendment: Sch. 3 para. 1 repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1, Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
+[^c-76a6db22749fa8fee313a45ee01b4d97]: Textual amendment: Sch. 3 para. 1 repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1, Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
 
 [^c7653151]: Textual amendment: Sch. 3 para. 2 repealed (1.4.1996) by [1995 c. 17](https://www.legislation.gov.uk/ukpga/1995/17), [s. 5(1)(2)](https://www.legislation.gov.uk/ukpga/1995/17/section/5/1/2), [Sch. 3](https://www.legislation.gov.uk/ukpga/1995/17/schedule/3) (with [Sch. 2 paras. 6](https://www.legislation.gov.uk/ukpga/1995/17/schedule/2/paragraph/6), [16](https://www.legislation.gov.uk/ukpga/1995/17/schedule/2/paragraph/16))
 
 [^c7653161]: Textual amendment: Sch. 3 para.3(a)(c)(d) repealed (1.4.1996) by [1995 c. 17](https://www.legislation.gov.uk/ukpga/1995/17), [s. 5(1)(2)](https://www.legislation.gov.uk/ukpga/1995/17/section/5/1/2), [Sch. 3](https://www.legislation.gov.uk/ukpga/1995/17/schedule/3) (with [Sch. 2 paras. 6](https://www.legislation.gov.uk/ukpga/1995/17/schedule/2/paragraph/6), [16](https://www.legislation.gov.uk/ukpga/1995/17/schedule/2/paragraph/16))
 
-[^key-726a6faa01696312a23c39c344f535b7]: Textual amendment: Sch. 3 para. 3(b) repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1, Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
+[^c-726a6faa01696312a23c39c344f535b7]: Textual amendment: Sch. 3 para. 3(b) repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1, Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
 
 [^c7653191]: Textual amendment: Sch. 3 para. 4 repealed (10.12.1998) by [1997 c. 46](https://www.legislation.gov.uk/ukpga/1997/46), [s. 41(12)](https://www.legislation.gov.uk/ukpga/1997/46/section/41/12), [Sch. 3 Pt. I](https://www.legislation.gov.uk/ukpga/1997/46/schedule/3/part/I); [S.I. 1998/2840](https://www.legislation.gov.uk/uksi/1998/2840), [art. 2](https://www.legislation.gov.uk/uksi/1998/2840/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1998/2840/schedule)
 
-[^key-9d93ed78413f33137e9cdab7aa60f1f1]: Textual amendment: Sch. 3 para. 5 repealed (1.4.2006 for E., 1.4.2006 for W. for specified purposes) by [Health and Social Care (Community Health and Standards) Act 2003 (c. 43)](https://www.legislation.gov.uk/ukpga/2003/43), [s. 199(1)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/1)[(4)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/4), [Sch. 14 Pt. 4](https://www.legislation.gov.uk/ukpga/2003/43/schedule/14/part/4); [S.I. 2005/2925](https://www.legislation.gov.uk/uksi/2005/2925), [art. 11](https://www.legislation.gov.uk/uksi/2005/2925/article/11); [S.I. 2006/345](https://www.legislation.gov.uk/uksi/2006/345), [art. 7(2)(e)](https://www.legislation.gov.uk/uksi/2006/345/article/7/2/e)
+[^c-9d93ed78413f33137e9cdab7aa60f1f1]: Textual amendment: Sch. 3 para. 5 repealed (1.4.2006 for E., 1.4.2006 for W. for specified purposes) by [Health and Social Care (Community Health and Standards) Act 2003 (c. 43)](https://www.legislation.gov.uk/ukpga/2003/43), [s. 199(1)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/1)[(4)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/4), [Sch. 14 Pt. 4](https://www.legislation.gov.uk/ukpga/2003/43/schedule/14/part/4); [S.I. 2005/2925](https://www.legislation.gov.uk/uksi/2005/2925), [art. 11](https://www.legislation.gov.uk/uksi/2005/2925/article/11); [S.I. 2006/345](https://www.legislation.gov.uk/uksi/2006/345), [art. 7(2)(e)](https://www.legislation.gov.uk/uksi/2006/345/article/7/2/e)
 
 [^c7653201]: Textual amendment: Sch. 3 para. 6(b) repealed (1.4.1996) by [1995 c. 17](https://www.legislation.gov.uk/ukpga/1995/17), [s. 5(1)(2)](https://www.legislation.gov.uk/ukpga/1995/17/section/5/1/2), [Sch. 3](https://www.legislation.gov.uk/ukpga/1995/17/schedule/3) (with [Sch. 2 paras. 6](https://www.legislation.gov.uk/ukpga/1995/17/schedule/2/paragraph/6), [16](https://www.legislation.gov.uk/ukpga/1995/17/schedule/2/paragraph/16))
 
 [^c7653211]: Textual amendment: Sch. 3 para. 7 repealed (1.4.1996) by [1995 c. 17](https://www.legislation.gov.uk/ukpga/1995/17), [s. 5(1)(2)](https://www.legislation.gov.uk/ukpga/1995/17/section/5/1/2), [Sch. 3](https://www.legislation.gov.uk/ukpga/1995/17/schedule/3) (with [Sch. 2 paras. 6](https://www.legislation.gov.uk/ukpga/1995/17/schedule/2/paragraph/6), [16](https://www.legislation.gov.uk/ukpga/1995/17/schedule/2/paragraph/16))
 
-[^key-e21d6218b3a3b22b3efb62148083efef]: Textual amendment: Sch. 3 para. 8 repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1, Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
+[^c-e21d6218b3a3b22b3efb62148083efef]: Textual amendment: Sch. 3 para. 8 repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1, Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
 
 [^c7653221]: Textual amendment: Sch. 3 para. 9 repealed (1.4.1996) by [1995 c. 17](https://www.legislation.gov.uk/ukpga/1995/17), [s. 5(1)(2)](https://www.legislation.gov.uk/ukpga/1995/17/section/5/1/2), [Sch. 3](https://www.legislation.gov.uk/ukpga/1995/17/schedule/3) (with [Sch. 2 paras. 6](https://www.legislation.gov.uk/ukpga/1995/17/schedule/2/paragraph/6), [16](https://www.legislation.gov.uk/ukpga/1995/17/schedule/2/paragraph/16))
 
@@ -818,7 +818,7 @@ Section 24.
 
 [^c7653271]: Textual amendment: Sch. 3 para. 14 repealed (1.4.1996) by [1995 c. 17](https://www.legislation.gov.uk/ukpga/1995/17), [s. 5(1)(2)](https://www.legislation.gov.uk/ukpga/1995/17/section/5/1/2), [Sch. 3](https://www.legislation.gov.uk/ukpga/1995/17/schedule/3) (with [Sch. 2 paras. 6](https://www.legislation.gov.uk/ukpga/1995/17/schedule/2/paragraph/6), [16](https://www.legislation.gov.uk/ukpga/1995/17/schedule/2/paragraph/16))
 
-[^key-a5ef9fda4ed46f4663790df980b82c7d]: Textual amendment: Sch. 3 para. 15 repealed (20.10.2003 for W., 1.12.2003 for E.) by [Health (Wales) Act 2003 (c. 4)](https://www.legislation.gov.uk/ukpga/2003/4), [s. 10(2)](https://www.legislation.gov.uk/ukpga/2003/4/section/10/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2003/4/schedule/4); [S.I. 2003/2660](https://www.legislation.gov.uk/uksi/2003/2660), [art. 2(1)(iii)](https://www.legislation.gov.uk/uksi/2003/2660/article/2/1/iii)[(2)](https://www.legislation.gov.uk/uksi/2003/2660/article/2/2); S.I. 2003/3064, art. 2(1)(iii)
+[^c-a5ef9fda4ed46f4663790df980b82c7d]: Textual amendment: Sch. 3 para. 15 repealed (20.10.2003 for W., 1.12.2003 for E.) by [Health (Wales) Act 2003 (c. 4)](https://www.legislation.gov.uk/ukpga/2003/4), [s. 10(2)](https://www.legislation.gov.uk/ukpga/2003/4/section/10/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2003/4/schedule/4); [S.I. 2003/2660](https://www.legislation.gov.uk/uksi/2003/2660), [art. 2(1)(iii)](https://www.legislation.gov.uk/uksi/2003/2660/article/2/1/iii)[(2)](https://www.legislation.gov.uk/uksi/2003/2660/article/2/2); S.I. 2003/3064, art. 2(1)(iii)
 
 [^c7653281]: Textual amendment: Sch. 3 para. 16 repealed (1.4.1996) by [1995 c. 17](https://www.legislation.gov.uk/ukpga/1995/17), [s. 5(1)(2)](https://www.legislation.gov.uk/ukpga/1995/17/section/5/1/2), [Sch. 3](https://www.legislation.gov.uk/ukpga/1995/17/schedule/3) (with [Sch. 2 paras. 6](https://www.legislation.gov.uk/ukpga/1995/17/schedule/2/paragraph/6), [16](https://www.legislation.gov.uk/ukpga/1995/17/schedule/2/paragraph/16))
 

@@ -48,7 +48,7 @@ summary: ''
 
 (3) The[^c19808241] court may, if it considers it appropriate to do so, adjourn an intermediate diet.
 
-(3AA)[^key-3d5b4ffc0b9963044ef5ab08f2bd3b83] At an intermediate diet, the court shall also dispose of any application for a witness anonymity order under section 271P of this Act of which notice has been given in accordance with section 271Q(2)(a) of this Act.
+(3AA)[^c-3d5b4ffc0b9963044ef5ab08f2bd3b83] At an intermediate diet, the court shall also dispose of any application for a witness anonymity order under section 271P of this Act of which notice has been given in accordance with section 271Q(2)(a) of this Act.
 
 (3A)[^c16033341] At an intermediate diet, the court may consider an application for the purposes of subsection (1) of section 275 of this Act; and, notwithstanding subsection (1) above, the court may fix a diet under that subsection for the purpose only of considering such an application.
 
@@ -59,7 +59,7 @@ summary: ''
 (5) The accused shall attend an intermediate diet of which he has received intimation or to which he has been cited unless—
 
 - (a) he is legally represented; and
-- (b)[^key-15777363ecaae76ba8b7097b6b700597] the court considers that, on cause shown, he need not attend.
+- (b)[^c-15777363ecaae76ba8b7097b6b700597] the court considers that, on cause shown, he need not attend.
 
 (6) A plea of guilty may be tendered at the intermediate diet.
 
@@ -88,12 +88,12 @@ summary: ''
 
 [^c19808241]: Textual amendment: Word in s. 148(3) substituted (10.12.2007) by [Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (asp 6)](https://www.legislation.gov.uk/asp/2007/6), [ss. 18(c)](https://www.legislation.gov.uk/asp/2007/6/section/18/c), [84](https://www.legislation.gov.uk/asp/2007/6/section/84); [S.S.I. 2007/479](https://www.legislation.gov.uk/ssi/2007/479), [art. 3(1)](https://www.legislation.gov.uk/ssi/2007/479/article/3/1), [Sch.](https://www.legislation.gov.uk/ssi/2007/479/schedule) (as amended by [S.S. I. 2007/527](https://www.legislation.gov.uk/ssi/2007/527))
 
-[^key-3d5b4ffc0b9963044ef5ab08f2bd3b83]: Textual amendment: S. 148(3AA) inserted (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 90(2)(b)](https://www.legislation.gov.uk/asp/2010/13/section/90/2/b), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-3d5b4ffc0b9963044ef5ab08f2bd3b83]: Textual amendment: S. 148(3AA) inserted (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 90(2)(b)](https://www.legislation.gov.uk/asp/2010/13/section/90/2/b), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
 
 [^c16033341]: Textual amendment: S. 148(3A)(3B) inserted (1.11.2002) by [Sexual Offences (Procedure and Evidence) (Scotland) Act 2002 (asp 9)](https://www.legislation.gov.uk/asp/2002/9), [s. 8(5)(a)](https://www.legislation.gov.uk/asp/2002/9/section/8/5/a); [S.S.I. 2002/443](https://www.legislation.gov.uk/ssi/2002/443), [art. 3](https://www.legislation.gov.uk/ssi/2002/443/article/3) (with [art. 4(5)](https://www.legislation.gov.uk/ssi/2002/443/article/4/5))
 
 [^c19808261]: Textual amendment: S. 148(4) substituted (10.12.2007) by [Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (asp 6)](https://www.legislation.gov.uk/asp/2007/6), [ss. 18(d)](https://www.legislation.gov.uk/asp/2007/6/section/18/d), [84](https://www.legislation.gov.uk/asp/2007/6/section/84); [S.S.I. 2007/479](https://www.legislation.gov.uk/ssi/2007/479), [art. 3(1)](https://www.legislation.gov.uk/ssi/2007/479/article/3/1), [Sch.](https://www.legislation.gov.uk/ssi/2007/479/schedule) (as amended by [S.S. I. 2007/527](https://www.legislation.gov.uk/ssi/2007/527))
 
-[^key-15777363ecaae76ba8b7097b6b700597]: Textual amendment: S. 148(5)(b) substituted (10.10.2014) by [Act of Adjournal (Amendment of the Criminal Procedure (Scotland) Act 1995 and Criminal Procedure Rules 1996) (Miscellaneous) 2014 (S.S.I. 2014/242)](https://www.legislation.gov.uk/ssi/2014/242), [para. 2(2)](https://www.legislation.gov.uk/ssi/2014/242/paragraph/2/2)
+[^c-15777363ecaae76ba8b7097b6b700597]: Textual amendment: S. 148(5)(b) substituted (10.10.2014) by [Act of Adjournal (Amendment of the Criminal Procedure (Scotland) Act 1995 and Criminal Procedure Rules 1996) (Miscellaneous) 2014 (S.S.I. 2014/242)](https://www.legislation.gov.uk/ssi/2014/242), [para. 2(2)](https://www.legislation.gov.uk/ssi/2014/242/paragraph/2/2)
 
 [^c14470991]: Textual amendment: Words in s. 148(7)(a) inserted (retrospective to 1.4.1996) by [1998 c. 10](https://www.legislation.gov.uk/ukpga/1998/10), [s. 1(1)(b)(2)](https://www.legislation.gov.uk/ukpga/1998/10/section/1/1/b/2)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-1. A[^key-54fd12c2dc093d79e3ea8893bba4d2cb] chemical safety assessment shall be performed and a chemical safety report completed for all substances subject to registration in accordance with this Chapter in quantities of 10 tonnes or more per year per registrant.
+1. A[^c-54fd12c2dc093d79e3ea8893bba4d2cb] chemical safety assessment shall be performed and a chemical safety report completed for all substances subject to registration in accordance with this Chapter in quantities of 10 tonnes or more per year per registrant.
 
 The chemical safety report shall document the chemical safety assessment which shall be conducted in accordance with paragraphs 2 to 7 and with Annex I for either each substance on its own or in a mixture[^c000002] or in an article or a group of substances.
 
@@ -53,7 +53,7 @@ The exposure scenarios (where appropriate the use and exposure categories), expo
 5. The chemical safety report need not include consideration of the risks to human health from the following end uses:
 
 - (a) in food contact materials within the scope of Regulation (EC) No 1935/2004 of the European Parliament and of the Council of 27 October 2004 on materials and articles intended to come into contact with food [^f00039] ;
-- (b) in cosmetic products within the scope of Regulation[^key-4f5947a5fb6f664cd4a195955361d45a] [(EC) No 1223/2009](https://www.legislation.gov.uk/eur/2009/1223) on cosmetic products .
+- (b) in cosmetic products within the scope of Regulation[^c-4f5947a5fb6f664cd4a195955361d45a] [(EC) No 1223/2009](https://www.legislation.gov.uk/eur/2009/1223) on cosmetic products .
 
 6. Any registrant shall identify and apply the appropriate measures to adequately control the risks identified in the chemical safety assessment, and where suitable, recommend them in the safety data sheets which he supplies in accordance with Article 31.
 
@@ -63,10 +63,10 @@ The exposure scenarios (where appropriate the use and exposure categories), expo
 
 [^c000001]: Editorial: Substituted by [Corrigendum to Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC (Official Journal of the European Union L 396 of 30 December 2006)](https://www.legislation.gov.uk/eur/2006/1907/pdfs/eurcs_20061907_en_001.pdf).
 
-[^key-54fd12c2dc093d79e3ea8893bba4d2cb]: Textual amendment: Word in [Art. 14(1)](https://www.legislation.gov.uk/eur/2006/1907/article/14/1) substituted (31.12.2020) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 1 para. 13(2)](https://www.legislation.gov.uk/uksi/2019/758/schedule/1/paragraph/13/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-54fd12c2dc093d79e3ea8893bba4d2cb]: Textual amendment: Word in [Art. 14(1)](https://www.legislation.gov.uk/eur/2006/1907/article/14/1) substituted (31.12.2020) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 1 para. 13(2)](https://www.legislation.gov.uk/uksi/2019/758/schedule/1/paragraph/13/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000002]: Textual amendment: Substituted by [Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006 (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2008/1272).
 
 [^f00039]: Footnote: [OJ L 338, 13.11.2004, p. 4](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.338.01.0004.01.ENG)[^c000001] .
 
-[^key-4f5947a5fb6f664cd4a195955361d45a]: Textual amendment: Words in [Art. 14(5)(b)](https://www.legislation.gov.uk/eur/2006/1907/article/14/5/b) substituted (31.12.2020) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 1 para. 13(3)](https://www.legislation.gov.uk/uksi/2019/758/schedule/1/paragraph/13/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4f5947a5fb6f664cd4a195955361d45a]: Textual amendment: Words in [Art. 14(5)(b)](https://www.legislation.gov.uk/eur/2006/1907/article/14/5/b) substituted (31.12.2020) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 1 para. 13(3)](https://www.legislation.gov.uk/uksi/2019/758/schedule/1/paragraph/13/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

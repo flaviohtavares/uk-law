@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101. Powers of enforcement officers under Police and Criminal Evidence Act 1984[^key-5e1cde3adf950674855c5abedfa13cb8][^key-a68ce614aba9c9f48d9a6dcf579a9dfc]
+## 101. Powers of enforcement officers under Police and Criminal Evidence Act 1984[^c-5e1cde3adf950674855c5abedfa13cb8][^c-a68ce614aba9c9f48d9a6dcf579a9dfc]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ For provision enabling enforcement officers in England and Wales to exercise pow
 
 ## Annotations
 
-[^key-5e1cde3adf950674855c5abedfa13cb8]: Commencement: S. 101 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-5e1cde3adf950674855c5abedfa13cb8]: Commencement: S. 101 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-a68ce614aba9c9f48d9a6dcf579a9dfc]: Commencement: [S. 101](https://www.legislation.gov.uk/ukpga/2025/36/section/101) in force at 7.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(9)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/9)
+[^c-a68ce614aba9c9f48d9a6dcf579a9dfc]: Commencement: [S. 101](https://www.legislation.gov.uk/ukpga/2025/36/section/101) in force at 7.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(9)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/9)

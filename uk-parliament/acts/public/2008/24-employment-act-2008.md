@@ -38,15 +38,15 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Dispute resolution
 
-### 1. Statutory dispute resolution procedures[^key-afd347a14de79f25ab58dea2bf5daebf]
+### 1. Statutory dispute resolution procedures[^c-afd347a14de79f25ab58dea2bf5daebf]
 
 In the Employment Act 2002 (c. 22), sections 29 to 33 and Schedules 2 to 4 (which make provision for statutory dispute resolution procedures) are repealed.
 
-### 2. Procedural fairness[^key-89a79b29b003b533bcee6e638ab4fa3c]
+### 2. Procedural fairness[^c-89a79b29b003b533bcee6e638ab4fa3c]
 
 In the Employment Rights Act 1996 (c. 18), section 98A (procedural fairness) is repealed.
 
-### 3. Non-compliance with statutory Codes of Practice[^key-59d65365aa63cd46be2e49e76576e2b0]
+### 3. Non-compliance with statutory Codes of Practice[^c-59d65365aa63cd46be2e49e76576e2b0]
 
 (1) The Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52) is amended as specified in subsections (2) and (3).
 
@@ -121,7 +121,7 @@ In the Employment Rights Act 1996 (c. 18), section 98A (procedural fairness) is 
 
 (4) In section 124A of the Employment Rights Act 1996 (c. 18) (adjustments under the Employment Act 2002), in paragraph (a), for the words from “section 31” to “procedures)” there is substituted “ section 207A of the Trade Union and Labour Relations (Consolidation) Act 1992 (effect of failure to comply with Code: adjustment of awards) ”.
 
-### 4. Determination of proceedings without hearing[^key-82839b43102678335321378b727ad7d7]
+### 4. Determination of proceedings without hearing[^c-82839b43102678335321378b727ad7d7]
 
 In the Employment Tribunals Act 1996 (c. 17), in section 7 (employment tribunal procedure regulations), after subsection (3A) there is inserted—
 
@@ -134,26 +134,26 @@ In the Employment Tribunals Act 1996 (c. 17), in section 7 (employment tribunal 
 >
 > (3AB) For the purposes of subsection (3AA)(b), a person does not present a response in the proceedings if he presents a response but, in accordance with provision made by the regulations, it is not accepted.
 
-### 5. Conciliation before bringing of proceedings[^key-e91762531e42bf5151fb7504daccec3d]
+### 5. Conciliation before bringing of proceedings[^c-e91762531e42bf5151fb7504daccec3d]
 
-(1 (Extent: E+W+S) (affected by repeal, see note))[^key-415ea0deab7fbdb3be9559f457627fa4] In the Employment Tribunals Act 1996, section 18 (conciliation) is amended as follows. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-415ea0deab7fbdb3be9559f457627fa4]
+(1 (Extent: E+W+S) (affected by repeal, see note))[^c-415ea0deab7fbdb3be9559f457627fa4] In the Employment Tribunals Act 1996, section 18 (conciliation) is amended as follows. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-415ea0deab7fbdb3be9559f457627fa4]
 
-(2 (Extent: E+W+S) (affected by repeal, see note))[^key-415ea0deab7fbdb3be9559f457627fa4] In subsection (3), for the words from “shall act” to the end there is substituted *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-415ea0deab7fbdb3be9559f457627fa4] “ may endeavour to promote a settlement between the parties without proceedings being instituted ” *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-415ea0deab7fbdb3be9559f457627fa4]. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-415ea0deab7fbdb3be9559f457627fa4]
+(2 (Extent: E+W+S) (affected by repeal, see note))[^c-415ea0deab7fbdb3be9559f457627fa4] In subsection (3), for the words from “shall act” to the end there is substituted *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-415ea0deab7fbdb3be9559f457627fa4] “ may endeavour to promote a settlement between the parties without proceedings being instituted ” *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-415ea0deab7fbdb3be9559f457627fa4]. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-415ea0deab7fbdb3be9559f457627fa4]
 
-(3 (Extent: E+W+S) (affected by repeal, see note))[^key-415ea0deab7fbdb3be9559f457627fa4] For subsection (5) there is substituted— *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-415ea0deab7fbdb3be9559f457627fa4]
+(3 (Extent: E+W+S) (affected by repeal, see note))[^c-415ea0deab7fbdb3be9559f457627fa4] For subsection (5) there is substituted— *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-415ea0deab7fbdb3be9559f457627fa4]
 
-> (5 (Extent: E+W+S) (affected by repeal, see note))[^key-415ea0deab7fbdb3be9559f457627fa4] Where a conciliation officer acts pursuant to subsection (3) in a case where the person claiming as specified in paragraph (a) of that subsection has ceased to be employed by the employer and the proceedings which he claims could be brought by him are proceedings under section 111 of the Employment Rights Act 1996, the conciliation officer may in particular— *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-415ea0deab7fbdb3be9559f457627fa4]
+> (5 (Extent: E+W+S) (affected by repeal, see note))[^c-415ea0deab7fbdb3be9559f457627fa4] Where a conciliation officer acts pursuant to subsection (3) in a case where the person claiming as specified in paragraph (a) of that subsection has ceased to be employed by the employer and the proceedings which he claims could be brought by him are proceedings under section 111 of the Employment Rights Act 1996, the conciliation officer may in particular— *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-415ea0deab7fbdb3be9559f457627fa4]
 >
-> - (a (Extent: E+W+S) (affected by repeal, see note))[^key-415ea0deab7fbdb3be9559f457627fa4] seek to promote the reinstatement or re-engagement of that person by the employer, or by a successor of the employer or by an associated employer, on terms appearing to the conciliation officer to be equitable, or *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-415ea0deab7fbdb3be9559f457627fa4]
-> - (b (Extent: E+W+S) (affected by repeal, see note))[^key-415ea0deab7fbdb3be9559f457627fa4] where the person does not wish to be reinstated or re-engaged, or where reinstatement or re-engagement is not practicable, seek to promote agreement between them as to a sum by way of compensation to be paid by the employer to that person. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-415ea0deab7fbdb3be9559f457627fa4]
+> - (a (Extent: E+W+S) (affected by repeal, see note))[^c-415ea0deab7fbdb3be9559f457627fa4] seek to promote the reinstatement or re-engagement of that person by the employer, or by a successor of the employer or by an associated employer, on terms appearing to the conciliation officer to be equitable, or *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-415ea0deab7fbdb3be9559f457627fa4]
+> - (b (Extent: E+W+S) (affected by repeal, see note))[^c-415ea0deab7fbdb3be9559f457627fa4] where the person does not wish to be reinstated or re-engaged, or where reinstatement or re-engagement is not practicable, seek to promote agreement between them as to a sum by way of compensation to be paid by the employer to that person. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-415ea0deab7fbdb3be9559f457627fa4]
 
-### 6. Conciliation after bringing of proceedings[^key-dfe48af45a15e44c6a0b58fa17dcbd2b]
+### 6. Conciliation after bringing of proceedings[^c-dfe48af45a15e44c6a0b58fa17dcbd2b]
 
 (1) In the Employment Tribunals Act 1996 (c. 17), in section 18 (conciliation), subsection (2A) is repealed.
 
 (2) In that Act, in section 19 (conciliation procedure), subsection (2) is repealed.
 
-### 7. Compensation for financial loss[^key-e8caa4cb3d531c2d7380687dbde97e22]
+### 7. Compensation for financial loss[^c-e8caa4cb3d531c2d7380687dbde97e22]
 
 (1) In the Employment Rights Act 1996 (c. 18), in section 24 (determination of complaints relating to deductions from wages or payments to employer)—
 
@@ -168,7 +168,7 @@ In the Employment Tribunals Act 1996 (c. 17), in section 7 (employment tribunal 
 
 ## National minimum wage etc
 
-### 8. Arrears payable in cases of non-compliance[^key-8bbd664efd6d2370fc08373303f72b3a]
+### 8. Arrears payable in cases of non-compliance[^c-8bbd664efd6d2370fc08373303f72b3a]
 
 (1) In the National Minimum Wage Act 1998 (c. 39), section 17 (which makes provision for the additional remuneration to which a worker is entitled in cases of non-compliance) is amended as specified in subsections (2) to (5).
 
@@ -201,7 +201,7 @@ In the Employment Tribunals Act 1996 (c. 17), in section 7 (employment tribunal 
 >
 > (6) Where any additional remuneration is paid to the worker under this section in relation to the pay reference period but subsection (1) above has not ceased to apply in relation to him, the amounts described in subsections (2) and (4) above shall be regarded as reduced by the amount of that remuneration.
 
-(6)[^key-cc5d7067f73fdd65a0c580be86dd8166] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-cc5d7067f73fdd65a0c580be86dd8166] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) Nothing in subsections (2) to (5) affects section 17 of the National Minimum Wage Act 1998 (c. 39) as it has effect for the purposes of—
 
@@ -210,11 +210,11 @@ In the Employment Tribunals Act 1996 (c. 17), in section 7 (employment tribunal 
 
 (8) The amendments made by this section apply in relation to a pay reference period (within the meaning of the National Minimum Wage Act 1998) ending before, as well as after, this section comes into force.
 
-### 9. Notices of underpayment[^key-6b2bbca7b043624be71282e08eb18db6]
+### 9. Notices of underpayment[^c-6b2bbca7b043624be71282e08eb18db6]
 
-(1)[^key-18d28a6b64dc0d334731b9d98865203e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-18d28a6b64dc0d334731b9d98865203e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-18d28a6b64dc0d334731b9d98865203e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-18d28a6b64dc0d334731b9d98865203e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In the National Minimum Wage Act 1998, in section 51 (regulations and orders), in subsections (6) and (7)(a), the words “21 or” are repealed.
 
@@ -222,7 +222,7 @@ In the Employment Tribunals Act 1996 (c. 17), in section 7 (employment tribunal 
 
 (5) In the Commissioners for Revenue and Customs Act 2005 (c. 11), in section 44 (payment into Consolidated Fund), subsection (2)(f) is repealed.
 
-(6)[^key-944909556a8f74a31fef9dc2f003b5f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-944909556a8f74a31fef9dc2f003b5f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) Nothing in this section (or Part 2 of the Schedule) affects any provision of the National Minimum Wage Act 1998 as that provision has effect for the purposes of—
 
@@ -244,7 +244,7 @@ In the Employment Tribunals Act 1996 (c. 17), in section 7 (employment tribunal 
 - (a) the Agricultural Wages (Scotland) Act 1949, or
 - (b) the Agricultural Wages (Regulation) (Northern Ireland) Order 1977 (SI 1977/2151) (N.I.22).
 
-### 11. Offences: mode of trial and penalties[^key-ab2da8a8ac7ccf2914961248109bdc52]
+### 11. Offences: mode of trial and penalties[^c-ab2da8a8ac7ccf2914961248109bdc52]
 
 (1) In the National Minimum Wage Act 1998, in section 31 (offences), in subsection (9), for the words from “on summary conviction” to the end there is substituted—
 
@@ -260,7 +260,7 @@ In the Employment Tribunals Act 1996 (c. 17), in section 7 (employment tribunal 
 - (a) the Agricultural Wages (Scotland) Act 1949 (c. 30), or
 - (b) the Agricultural Wages (Regulation) (Northern Ireland) Order 1977 (SI 1977/2151) (N.I.22).
 
-### 12. Powers to investigate criminal offences[^key-741387a9f8fbf8f81ca443d132a39329]
+### 12. Powers to investigate criminal offences[^c-741387a9f8fbf8f81ca443d132a39329]
 
 (1) In the Finance Act 2007 (c. 11), in section 84 (criminal investigations: powers of Revenue and Customs), in subsection (3), for “13 to” there is substituted “ 14, ”.
 
@@ -307,7 +307,7 @@ In the Employment Agencies Act 1973 (c. 35), in each of sections 3B, 5(2) and 6(
 > - (a) on conviction on indictment, to a fine;
 > - (b) on summary conviction, to a fine not exceeding the statutory maximum.
 
-### 16. Enforcement powers[^key-e06e947d498e35012bf2f3353a144d20]
+### 16. Enforcement powers[^c-e06e947d498e35012bf2f3353a144d20]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -322,11 +322,11 @@ In the Employment Agencies Act 1973 (c. 35), in section 11 (offences by bodies c
 
 ## Miscellaneous
 
-### 18. Employment agencies and national minimum wage legislation: information[^key-45c9a4fc40aa66c3ee03cca2ceb4b9b4]
+### 18. Employment agencies and national minimum wage legislation: information[^c-45c9a4fc40aa66c3ee03cca2ceb4b9b4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Exclusion or expulsion from trade union for membership of political party[^key-3be2ae131bc83d6d340586ab3ba0423b]
+### 19. Exclusion or expulsion from trade union for membership of political party[^c-3be2ae131bc83d6d340586ab3ba0423b]
 
 (1) The Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52) is amended as follows.
 
@@ -401,7 +401,7 @@ This Act may be cited as the Employment Act 2008.
 
 Section 20
 
-### Part 1 — Repeals relating to sections 1 to 7[^key-f088fb2ef7f35c71aa3cd67de53614e6]
+### Part 1 — Repeals relating to sections 1 to 7[^c-f088fb2ef7f35c71aa3cd67de53614e6]
 
 | *Short title and chapter* | *Extent of repeal* |
 | --- | --- |
@@ -409,7 +409,7 @@ Section 20
 | Employment Rights Act 1996 (c. 18) | Section 98A.<br>In section 112(5)(a), “or 98A(1)”.<br>In section 120(1A)(a), “or 98A(1)”. |
 | Employment Act 2002 (c. 22) | Section 24(2) and (4).<br>Sections 29 to 33.<br>Section 34(2).<br>In section 40, the definition of “statutory procedure”.<br>In section 51(4), “30, 31, 32, 33 or”.<br>Schedules 2 to 4. |
 
-### Part 2 — Repeals relating to section 9[^key-db786561d682441e389d1ceab7f308da]
+### Part 2 — Repeals relating to section 9[^c-db786561d682441e389d1ceab7f308da]
 
 | *Short title and chapter* | *Extent of repeal* |
 | --- | --- |
@@ -425,7 +425,7 @@ Section 20
 | --- | --- |
 | National Minimum Wage Act 1998 (c. 39) | In section 14(1)(a), “any material part of”. |
 
-### Part 4 — Repeals relating to section 11[^key-50aa5c74b201959ca8e9d1d6df9e793c]
+### Part 4 — Repeals relating to section 11[^c-50aa5c74b201959ca8e9d1d6df9e793c]
 
 | *Short title and chapter* | *Extent of repeal* |
 | --- | --- |
@@ -440,44 +440,44 @@ Section 20
 
 ## Annotations
 
-[^key-afd347a14de79f25ab58dea2bf5daebf]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2008/24/section/1) in force at 6.4.2009 by [S.I. 2008/3232](https://www.legislation.gov.uk/uksi/2008/3232), [art. 2](https://www.legislation.gov.uk/uksi/2008/3232/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/3232/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2008/3232/schedule))
+[^c-afd347a14de79f25ab58dea2bf5daebf]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2008/24/section/1) in force at 6.4.2009 by [S.I. 2008/3232](https://www.legislation.gov.uk/uksi/2008/3232), [art. 2](https://www.legislation.gov.uk/uksi/2008/3232/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/3232/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2008/3232/schedule))
 
-[^key-89a79b29b003b533bcee6e638ab4fa3c]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2008/24/section/2) in force at 6.4.2009 by [S.I. 2008/3232](https://www.legislation.gov.uk/uksi/2008/3232), [art. 2](https://www.legislation.gov.uk/uksi/2008/3232/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/3232/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2008/3232/schedule))
+[^c-89a79b29b003b533bcee6e638ab4fa3c]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2008/24/section/2) in force at 6.4.2009 by [S.I. 2008/3232](https://www.legislation.gov.uk/uksi/2008/3232), [art. 2](https://www.legislation.gov.uk/uksi/2008/3232/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/3232/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2008/3232/schedule))
 
-[^key-59d65365aa63cd46be2e49e76576e2b0]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2008/24/section/3) in force at 6.4.2009 by [S.I. 2008/3232](https://www.legislation.gov.uk/uksi/2008/3232), [art. 2](https://www.legislation.gov.uk/uksi/2008/3232/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/3232/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2008/3232/schedule))
+[^c-59d65365aa63cd46be2e49e76576e2b0]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2008/24/section/3) in force at 6.4.2009 by [S.I. 2008/3232](https://www.legislation.gov.uk/uksi/2008/3232), [art. 2](https://www.legislation.gov.uk/uksi/2008/3232/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/3232/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2008/3232/schedule))
 
-[^key-82839b43102678335321378b727ad7d7]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2008/24/section/4) in force at 6.4.2009 by [S.I. 2008/3232](https://www.legislation.gov.uk/uksi/2008/3232), [art. 2](https://www.legislation.gov.uk/uksi/2008/3232/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/3232/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2008/3232/schedule))
+[^c-82839b43102678335321378b727ad7d7]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2008/24/section/4) in force at 6.4.2009 by [S.I. 2008/3232](https://www.legislation.gov.uk/uksi/2008/3232), [art. 2](https://www.legislation.gov.uk/uksi/2008/3232/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/3232/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2008/3232/schedule))
 
-[^key-e91762531e42bf5151fb7504daccec3d]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2008/24/section/5) in force at 6.4.2009 by [S.I. 2008/3232](https://www.legislation.gov.uk/uksi/2008/3232), [art. 2](https://www.legislation.gov.uk/uksi/2008/3232/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/3232/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2008/3232/schedule))
+[^c-e91762531e42bf5151fb7504daccec3d]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2008/24/section/5) in force at 6.4.2009 by [S.I. 2008/3232](https://www.legislation.gov.uk/uksi/2008/3232), [art. 2](https://www.legislation.gov.uk/uksi/2008/3232/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/3232/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2008/3232/schedule))
 
-[^key-415ea0deab7fbdb3be9559f457627fa4]: Textual amendment: [S. 5](https://www.legislation.gov.uk/ukpga/2008/24/section/5) omitted (E.W.S.) (6.4.2014) by virtue of [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2013/24/schedule/1/paragraph/12); [S.I. 2014/253](https://www.legislation.gov.uk/uksi/2014/253), [art. 3(f)](https://www.legislation.gov.uk/uksi/2014/253/article/3/f)
+[^c-415ea0deab7fbdb3be9559f457627fa4]: Textual amendment: [S. 5](https://www.legislation.gov.uk/ukpga/2008/24/section/5) omitted (E.W.S.) (6.4.2014) by virtue of [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2013/24/schedule/1/paragraph/12); [S.I. 2014/253](https://www.legislation.gov.uk/uksi/2014/253), [art. 3(f)](https://www.legislation.gov.uk/uksi/2014/253/article/3/f)
 
-[^key-dfe48af45a15e44c6a0b58fa17dcbd2b]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2008/24/section/6) in force at 6.4.2009 by [S.I. 2008/3232](https://www.legislation.gov.uk/uksi/2008/3232), [art. 2](https://www.legislation.gov.uk/uksi/2008/3232/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/3232/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2008/3232/schedule))
+[^c-dfe48af45a15e44c6a0b58fa17dcbd2b]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2008/24/section/6) in force at 6.4.2009 by [S.I. 2008/3232](https://www.legislation.gov.uk/uksi/2008/3232), [art. 2](https://www.legislation.gov.uk/uksi/2008/3232/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/3232/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2008/3232/schedule))
 
-[^key-e8caa4cb3d531c2d7380687dbde97e22]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2008/24/section/7) in force at 6.4.2009 by [S.I. 2008/3232](https://www.legislation.gov.uk/uksi/2008/3232), [art. 2](https://www.legislation.gov.uk/uksi/2008/3232/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/3232/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2008/3232/schedule))
+[^c-e8caa4cb3d531c2d7380687dbde97e22]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2008/24/section/7) in force at 6.4.2009 by [S.I. 2008/3232](https://www.legislation.gov.uk/uksi/2008/3232), [art. 2](https://www.legislation.gov.uk/uksi/2008/3232/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/3232/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2008/3232/schedule))
 
-[^key-8bbd664efd6d2370fc08373303f72b3a]: Commencement: S. 8 in force at 6.4.2009 by [S.I. 2009/603](https://www.legislation.gov.uk/uksi/2009/603), [art. 2](https://www.legislation.gov.uk/uksi/2009/603/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2009/603/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2009/603/schedule))
+[^c-8bbd664efd6d2370fc08373303f72b3a]: Commencement: S. 8 in force at 6.4.2009 by [S.I. 2009/603](https://www.legislation.gov.uk/uksi/2009/603), [art. 2](https://www.legislation.gov.uk/uksi/2009/603/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2009/603/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2009/603/schedule))
 
-[^key-cc5d7067f73fdd65a0c580be86dd8166]: Textual amendment: S. 8(6) repealed (1.10.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 20 para. 2](https://www.legislation.gov.uk/ukpga/2013/24/schedule/20/paragraph/2); [S.I. 2013/1455](https://www.legislation.gov.uk/uksi/2013/1455), [art. 3(b)](https://www.legislation.gov.uk/uksi/2013/1455/article/3/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/1455/schedule/2) (with [art. 4(2)](https://www.legislation.gov.uk/uksi/2013/1455/article/4/2)[(4)](https://www.legislation.gov.uk/uksi/2013/1455/article/4/4)) (as amended (7.9.2013) by [S.I. 2013/2271](https://www.legislation.gov.uk/uksi/2013/2271), art. 2)
+[^c-cc5d7067f73fdd65a0c580be86dd8166]: Textual amendment: S. 8(6) repealed (1.10.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 20 para. 2](https://www.legislation.gov.uk/ukpga/2013/24/schedule/20/paragraph/2); [S.I. 2013/1455](https://www.legislation.gov.uk/uksi/2013/1455), [art. 3(b)](https://www.legislation.gov.uk/uksi/2013/1455/article/3/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/1455/schedule/2) (with [art. 4(2)](https://www.legislation.gov.uk/uksi/2013/1455/article/4/2)[(4)](https://www.legislation.gov.uk/uksi/2013/1455/article/4/4)) (as amended (7.9.2013) by [S.I. 2013/2271](https://www.legislation.gov.uk/uksi/2013/2271), art. 2)
 
-[^key-6b2bbca7b043624be71282e08eb18db6]: Commencement: S. 9 in force at 6.4.2009 by [S.I. 2009/603](https://www.legislation.gov.uk/uksi/2009/603), [art. 2](https://www.legislation.gov.uk/uksi/2009/603/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2009/603/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2009/603/schedule))
+[^c-6b2bbca7b043624be71282e08eb18db6]: Commencement: S. 9 in force at 6.4.2009 by [S.I. 2009/603](https://www.legislation.gov.uk/uksi/2009/603), [art. 2](https://www.legislation.gov.uk/uksi/2009/603/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2009/603/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2009/603/schedule))
 
-[^key-18d28a6b64dc0d334731b9d98865203e]: Textual amendment: [S. 9(1)](https://www.legislation.gov.uk/ukpga/2008/24/section/9/1)[(2)](https://www.legislation.gov.uk/ukpga/2008/24/section/9/2) omitted (7.4.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 10 para. 81(a)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/10/paragraph/81/a) (with [s. 147 Sch. 11](https://www.legislation.gov.uk/ukpga/2025/36/section/147/schedule/11)); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(55)(e)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/55/e)
+[^c-18d28a6b64dc0d334731b9d98865203e]: Textual amendment: [S. 9(1)](https://www.legislation.gov.uk/ukpga/2008/24/section/9/1)[(2)](https://www.legislation.gov.uk/ukpga/2008/24/section/9/2) omitted (7.4.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 10 para. 81(a)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/10/paragraph/81/a) (with [s. 147 Sch. 11](https://www.legislation.gov.uk/ukpga/2025/36/section/147/schedule/11)); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(55)(e)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/55/e)
 
-[^key-944909556a8f74a31fef9dc2f003b5f4]: Textual amendment: S. 9(6) repealed (1.10.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 20 para. 2](https://www.legislation.gov.uk/ukpga/2013/24/schedule/20/paragraph/2); [S.I. 2013/1455](https://www.legislation.gov.uk/uksi/2013/1455), [art. 3(b)](https://www.legislation.gov.uk/uksi/2013/1455/article/3/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/1455/schedule/2) (with [art. 4(2)](https://www.legislation.gov.uk/uksi/2013/1455/article/4/2)[(4)](https://www.legislation.gov.uk/uksi/2013/1455/article/4/4)) (as amended (7.9.2013) by [S.I. 2013/2271](https://www.legislation.gov.uk/uksi/2013/2271), art. 2)
+[^c-944909556a8f74a31fef9dc2f003b5f4]: Textual amendment: S. 9(6) repealed (1.10.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 20 para. 2](https://www.legislation.gov.uk/ukpga/2013/24/schedule/20/paragraph/2); [S.I. 2013/1455](https://www.legislation.gov.uk/uksi/2013/1455), [art. 3(b)](https://www.legislation.gov.uk/uksi/2013/1455/article/3/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/1455/schedule/2) (with [art. 4(2)](https://www.legislation.gov.uk/uksi/2013/1455/article/4/2)[(4)](https://www.legislation.gov.uk/uksi/2013/1455/article/4/4)) (as amended (7.9.2013) by [S.I. 2013/2271](https://www.legislation.gov.uk/uksi/2013/2271), art. 2)
 
-[^key-ab2da8a8ac7ccf2914961248109bdc52]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2008/24/section/11) in force at 6.4.2009 by [S.I. 2009/603](https://www.legislation.gov.uk/uksi/2009/603), [art. 2](https://www.legislation.gov.uk/uksi/2009/603/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2009/603/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2009/603/schedule))
+[^c-ab2da8a8ac7ccf2914961248109bdc52]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2008/24/section/11) in force at 6.4.2009 by [S.I. 2009/603](https://www.legislation.gov.uk/uksi/2009/603), [art. 2](https://www.legislation.gov.uk/uksi/2009/603/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2009/603/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2009/603/schedule))
 
-[^key-741387a9f8fbf8f81ca443d132a39329]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2008/24/section/12) in force at 6.4.2009 by [S.I. 2009/603](https://www.legislation.gov.uk/uksi/2009/603), [art. 2](https://www.legislation.gov.uk/uksi/2009/603/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2009/603/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2009/603/schedule))
+[^c-741387a9f8fbf8f81ca443d132a39329]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2008/24/section/12) in force at 6.4.2009 by [S.I. 2009/603](https://www.legislation.gov.uk/uksi/2009/603), [art. 2](https://www.legislation.gov.uk/uksi/2009/603/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2009/603/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2009/603/schedule))
 
-[^key-e06e947d498e35012bf2f3353a144d20]: Textual amendment: [S. 16](https://www.legislation.gov.uk/ukpga/2008/24/section/16) omitted (7.4.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 10 para. 81(b)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/10/paragraph/81/b) (with [s. 147 Sch. 11](https://www.legislation.gov.uk/ukpga/2025/36/section/147/schedule/11)); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(55)(e)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/55/e)
+[^c-e06e947d498e35012bf2f3353a144d20]: Textual amendment: [S. 16](https://www.legislation.gov.uk/ukpga/2008/24/section/16) omitted (7.4.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 10 para. 81(b)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/10/paragraph/81/b) (with [s. 147 Sch. 11](https://www.legislation.gov.uk/ukpga/2025/36/section/147/schedule/11)); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(55)(e)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/55/e)
 
-[^key-45c9a4fc40aa66c3ee03cca2ceb4b9b4]: Textual amendment: [S. 18](https://www.legislation.gov.uk/ukpga/2008/24/section/18) omitted (7.4.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 10 para. 81(c)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/10/paragraph/81/c) (with [s. 147 Sch. 11](https://www.legislation.gov.uk/ukpga/2025/36/section/147/schedule/11)); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(55)(e)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/55/e)
+[^c-45c9a4fc40aa66c3ee03cca2ceb4b9b4]: Textual amendment: [S. 18](https://www.legislation.gov.uk/ukpga/2008/24/section/18) omitted (7.4.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 10 para. 81(c)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/10/paragraph/81/c) (with [s. 147 Sch. 11](https://www.legislation.gov.uk/ukpga/2025/36/section/147/schedule/11)); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(55)(e)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/55/e)
 
-[^key-3be2ae131bc83d6d340586ab3ba0423b]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2008/24/section/19) in force at 6.4.2009 by [S.I. 2009/603](https://www.legislation.gov.uk/uksi/2009/603), [art. 2](https://www.legislation.gov.uk/uksi/2009/603/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2009/603/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2009/603/schedule))
+[^c-3be2ae131bc83d6d340586ab3ba0423b]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2008/24/section/19) in force at 6.4.2009 by [S.I. 2009/603](https://www.legislation.gov.uk/uksi/2009/603), [art. 2](https://www.legislation.gov.uk/uksi/2009/603/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2009/603/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2009/603/schedule))
 
-[^key-f088fb2ef7f35c71aa3cd67de53614e6]: Commencement: [Sch. Pt. 1](https://www.legislation.gov.uk/ukpga/2008/24/schedule/part/1) in force at 6.4.2009 by [S.I. 2008/3232](https://www.legislation.gov.uk/uksi/2008/3232), [art. 2](https://www.legislation.gov.uk/uksi/2008/3232/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/3232/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2008/3232/schedule))
+[^c-f088fb2ef7f35c71aa3cd67de53614e6]: Commencement: [Sch. Pt. 1](https://www.legislation.gov.uk/ukpga/2008/24/schedule/part/1) in force at 6.4.2009 by [S.I. 2008/3232](https://www.legislation.gov.uk/uksi/2008/3232), [art. 2](https://www.legislation.gov.uk/uksi/2008/3232/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/3232/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2008/3232/schedule))
 
-[^key-db786561d682441e389d1ceab7f308da]: Commencement: [Sch. Pt. 2](https://www.legislation.gov.uk/ukpga/2008/24/schedule/part/2) in force at 6.4.2009 by [S.I. 2009/603](https://www.legislation.gov.uk/uksi/2009/603), [art. 2](https://www.legislation.gov.uk/uksi/2009/603/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2009/603/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2009/603/schedule))
+[^c-db786561d682441e389d1ceab7f308da]: Commencement: [Sch. Pt. 2](https://www.legislation.gov.uk/ukpga/2008/24/schedule/part/2) in force at 6.4.2009 by [S.I. 2009/603](https://www.legislation.gov.uk/uksi/2009/603), [art. 2](https://www.legislation.gov.uk/uksi/2009/603/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2009/603/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2009/603/schedule))
 
-[^key-50aa5c74b201959ca8e9d1d6df9e793c]: Commencement: [Sch. Pt. 4](https://www.legislation.gov.uk/ukpga/2008/24/schedule/part/4) in force at 6.4.2009 by [S.I. 2009/603](https://www.legislation.gov.uk/uksi/2009/603), [art. 2](https://www.legislation.gov.uk/uksi/2009/603/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2009/603/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2009/603/schedule))
+[^c-50aa5c74b201959ca8e9d1d6df9e793c]: Commencement: [Sch. Pt. 4](https://www.legislation.gov.uk/ukpga/2008/24/schedule/part/4) in force at 6.4.2009 by [S.I. 2009/603](https://www.legislation.gov.uk/uksi/2009/603), [art. 2](https://www.legislation.gov.uk/uksi/2009/603/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2009/603/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2009/603/schedule))

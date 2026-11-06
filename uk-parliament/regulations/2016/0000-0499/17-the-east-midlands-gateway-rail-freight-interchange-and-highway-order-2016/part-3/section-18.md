@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 18. Amendments to traffic regulation orders[^key-6cf819e8abee3f54e3fb1a5103a99450]
+## 18. Amendments to traffic regulation orders[^c-6cf819e8abee3f54e3fb1a5103a99450]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The orders referred to in columns (1) and (2) of Schedule 9 (amendments to exist
 
 ## Annotations
 
-[^key-6cf819e8abee3f54e3fb1a5103a99450]: Commencement: Art. 18 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-6cf819e8abee3f54e3fb1a5103a99450]: Commencement: Art. 18 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)

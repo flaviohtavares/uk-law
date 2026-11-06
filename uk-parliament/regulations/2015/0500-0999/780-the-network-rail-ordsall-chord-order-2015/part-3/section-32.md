@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 32. Extinction or suspension of private rights of way[^key-ac00b690d6203df5ef34ee9c5731dfae]
+## 32. Extinction or suspension of private rights of way[^c-ac00b690d6203df5ef34ee9c5731dfae]
 
 *Extent: E+W+S*
 
@@ -57,6 +57,6 @@ whichever is the sooner.
 
 ## Annotations
 
-[^key-ac00b690d6203df5ef34ee9c5731dfae]: Commencement: Art. 32 in force at 21.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/780/article/1)
+[^c-ac00b690d6203df5ef34ee9c5731dfae]: Commencement: Art. 32 in force at 21.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/780/article/1)
 
 [^f00031]: Footnote: Section 272 was amended by paragraphs 103(1) and (2) of Schedule 17 to the Communications Act [2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21).

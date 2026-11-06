@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 57. Record of proceedings[^key-be35e14120d7fc9e1dbc373cbe8b13d7]
+## 57. Record of proceedings[^c-be35e14120d7fc9e1dbc373cbe8b13d7]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.71 of the 1986 Rules.
 
 ## Annotations
 
-[^key-be35e14120d7fc9e1dbc373cbe8b13d7]: Commencement: Rule 57 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-be35e14120d7fc9e1dbc373cbe8b13d7]: Commencement: Rule 57 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

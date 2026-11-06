@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Invitation to participate in lottery[^key-10812160f49268bc7d1e598bcfa567eb]
+## 56. Invitation to participate in lottery[^c-10812160f49268bc7d1e598bcfa567eb]
 
 *Extent: E+W+S*
 
 (1) A person commits an offence if he invites, causes or permits a child to participate in a lottery other than—
 
-- (a) an incidental [^key-54000a1002431f24ee160c94f0ed79db]... lottery that is exempt for the purposes of section 258 by virtue of Part 1 of Schedule 11,
+- (a) an incidental [^c-54000a1002431f24ee160c94f0ed79db]... lottery that is exempt for the purposes of section 258 by virtue of Part 1 of Schedule 11,
 - (b) a private lottery (whether a private society lottery, a work lottery or a residents' lottery) that is exempt for the purposes of section 258 by virtue of Part 2 of Schedule 11, or
 - (c) a lottery which forms part of the National Lottery.
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-10812160f49268bc7d1e598bcfa567eb]: Commencement: S. 56 in force at 1.9.2007 by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(4)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/4)[(5)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/5), [Sch. 3B](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3B) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as inserted by [S.I. 2007/2169](https://www.legislation.gov.uk/uksi/2007/2169), arts. 3, 6, Sch.)
+[^c-10812160f49268bc7d1e598bcfa567eb]: Commencement: S. 56 in force at 1.9.2007 by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(4)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/4)[(5)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/5), [Sch. 3B](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3B) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as inserted by [S.I. 2007/2169](https://www.legislation.gov.uk/uksi/2007/2169), arts. 3, 6, Sch.)
 
-[^key-54000a1002431f24ee160c94f0ed79db]: Textual amendment: Word in [s. 56(1)(a)](https://www.legislation.gov.uk/ukpga/2005/19/section/56/1/a) omitted (6.4.2016) by virtue of [The Legislative Reform (Exempt Lotteries) Order 2016 (S.I. 2016/124)](https://www.legislation.gov.uk/uksi/2016/124), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/124/article/1/1), [4(1)(a)](https://www.legislation.gov.uk/uksi/2016/124/article/4/1/a)
+[^c-54000a1002431f24ee160c94f0ed79db]: Textual amendment: Word in [s. 56(1)(a)](https://www.legislation.gov.uk/ukpga/2005/19/section/56/1/a) omitted (6.4.2016) by virtue of [The Legislative Reform (Exempt Lotteries) Order 2016 (S.I. 2016/124)](https://www.legislation.gov.uk/uksi/2016/124), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/124/article/1/1), [4(1)(a)](https://www.legislation.gov.uk/uksi/2016/124/article/4/1/a)

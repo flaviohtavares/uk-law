@@ -40,7 +40,7 @@ Section 48
 
 (4) The “legislation governing the basic payment scheme” is—
 
-- (a) the following assimilated direct[^key-a2fa6c9e1f39f4dacff698feb973bddc] legislation—
+- (a) the following assimilated direct[^c-a2fa6c9e1f39f4dacff698feb973bddc] legislation—
   - (i) the Direct Payments Regulation;
   - (ii) any Council Delegated Regulation, or Commission Delegated Regulation, made under the Direct Payments Regulation;
   - (iii) any other assimilated direct legislation which relates to the operation of the basic payment scheme; and
@@ -99,7 +99,7 @@ Section 48
 
 **5.**[^c24383951] (1) DAERA may by regulations modify any of the following legislation—
 
-- (a) assimilated direct[^key-1cb723321c53dba522a33ea6c5f24ac4] legislation relating to the financing, management and monitoring of the common agricultural policy, and
+- (a) assimilated direct[^c-1cb723321c53dba522a33ea6c5f24ac4] legislation relating to the financing, management and monitoring of the common agricultural policy, and
 - (b) subordinate legislation relating to that legislation.
 
 (2) Regulations under this paragraph may only be made for the purpose of—
@@ -118,7 +118,7 @@ Section 48
 
 **6.**[^c24383961] (1) DAERA may by regulations modify any of the following legislation so far as it has effect in relation to Northern Ireland—
 
-- (a) assimilated direct[^key-3d45a075e185c2c87d9c9d9bc3550b77] legislation relating to apiculture, and
+- (a) assimilated direct[^c-3d45a075e185c2c87d9c9d9bc3550b77] legislation relating to apiculture, and
 - (b) subordinate legislation relating to that legislation.
 
 (2) In this paragraph “**assimilated direct legislation relating to apiculture**” includes in particular—
@@ -132,7 +132,7 @@ Section 48
 
 **7.**[^c24383971] (1) DAERA may by regulations modify any of the following legislation so far as it has effect in relation to Northern Ireland—
 
-- (a) assimilated direct[^key-71b96019de96ffbacb4f288a8c899dc3] legislation relating to support for rural development, and
+- (a) assimilated direct[^c-71b96019de96ffbacb4f288a8c899dc3] legislation relating to support for rural development, and
 - (b) subordinate legislation relating to that legislation.
 
 (2) In this paragraph “**assimilated direct legislation relating to support for rural development**” includes in particular—
@@ -152,14 +152,14 @@ Section 48
 
 #### Exceptional market conditions: powers available to DAERA
 
-**8.**[^c24384091][^key-7ef1adc518b9bb92e8b2772af68e70dd] (1) Where DAERA considers that—
+**8.**[^c24384091][^c-7ef1adc518b9bb92e8b2772af68e70dd] (1) Where DAERA considers that—
 
 - (a) there is a severe disturbance in agricultural markets or a serious threat of a severe disturbance in agricultural markets, and
 - (b) the disturbance or threatened disturbance has, or is likely to have, a significant adverse effect on agricultural producers in Northern Ireland in terms of the prices achievable for one or more agricultural products,
 
 DAERA may give, or agree to give, financial assistance to agricultural producers in Northern Ireland whose incomes are being, or are likely to be, adversely affected by the disturbance in agricultural markets.
 
-(2) DAERA may also make such use as DAERA considers appropriate of any available powers under assimilated direct[^key-c7f66f0c78a83b75f607ddaee23a6be4] legislation which provides for the operation of public intervention and aid for private storage mechanisms, as an alternative to, or in conjunction with, financial assistance under sub-paragraph (1).
+(2) DAERA may also make such use as DAERA considers appropriate of any available powers under assimilated direct[^c-c7f66f0c78a83b75f607ddaee23a6be4] legislation which provides for the operation of public intervention and aid for private storage mechanisms, as an alternative to, or in conjunction with, financial assistance under sub-paragraph (1).
 
 (3) Financial assistance under sub-paragraph (1) may be given by way of grant, loan or guarantee or in any other form.
 
@@ -169,7 +169,7 @@ DAERA may give, or agree to give, financial assistance to agricultural producers
 
 (6) In this paragraph a reference to agricultural markets, agricultural products or agricultural producers includes horticultural markets, horticultural products or horticultural producers (as the case may be).
 
-#### Power to modify assimilated direct legislation relating to public market intervention and private storage aid[^key-672ade4607d04b576ed45c36bc797d1e]
+#### Power to modify assimilated direct legislation relating to public market intervention and private storage aid[^c-672ade4607d04b576ed45c36bc797d1e]
 
 **9.**[^c24384101] (1) DAERA may by regulations modify assimilated direct legislation relating to public market intervention or aid for private storage, for either or both of the following purposes—
 
@@ -462,7 +462,7 @@ make provision about the standards with which those products must conform (“ma
 
 [^c24383911]: Commencement: Sch. 6 para. 1 in force at Royal Assent for specified purposes and otherwise at 11.1.2021, see [s. 57(1)(b)(c)(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1)
 
-[^key-a2fa6c9e1f39f4dacff698feb973bddc]: Textual amendment: Words in Sch. 6 para. 1 substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 93(2)(o)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/93/2/o)
+[^c-a2fa6c9e1f39f4dacff698feb973bddc]: Textual amendment: Words in Sch. 6 para. 1 substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 93(2)(o)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/93/2/o)
 
 [^c24383921]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2020/21/schedule/6/paragraph/2) in force at Royal Assent for specified purposes and otherwise at 11.1.2021, see [s. 57(1)(b)(c)(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1)
 
@@ -472,23 +472,23 @@ make provision about the standards with which those products must conform (“ma
 
 [^c24383951]: Commencement: Sch. 6 para. 5 in force at Royal Assent for specified purposes and otherwise at 11.1.2021, see [s. 57(1)(b)(c)(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1)
 
-[^key-1cb723321c53dba522a33ea6c5f24ac4]: Textual amendment: Words in Sch. 6 para. 5 substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 93(2)(o)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/93/2/o)
+[^c-1cb723321c53dba522a33ea6c5f24ac4]: Textual amendment: Words in Sch. 6 para. 5 substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 93(2)(o)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/93/2/o)
 
 [^c24383961]: Commencement: Sch. 6 para. 6 in force at Royal Assent for specified purposes and otherwise at 11.1.2021, see [s. 57(1)(b)(c)(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1)
 
-[^key-3d45a075e185c2c87d9c9d9bc3550b77]: Textual amendment: Words in Sch. 6 para. 6 substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 93(2)(o)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/93/2/o)
+[^c-3d45a075e185c2c87d9c9d9bc3550b77]: Textual amendment: Words in Sch. 6 para. 6 substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 93(2)(o)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/93/2/o)
 
 [^c24383971]: Commencement: Sch. 6 para. 7 in force at Royal Assent for specified purposes and otherwise at 11.1.2021, see [s. 57(1)(b)(c)(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1)
 
-[^key-71b96019de96ffbacb4f288a8c899dc3]: Textual amendment: Words in Sch. 6 para. 7 substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 93(2)(o)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/93/2/o)
+[^c-71b96019de96ffbacb4f288a8c899dc3]: Textual amendment: Words in Sch. 6 para. 7 substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 93(2)(o)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/93/2/o)
 
 [^c24384091]: Commencement: Sch. 6 para. 8 in force at Royal Assent for specified purposes, see [s. 57(1)(b)(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)
 
-[^key-7ef1adc518b9bb92e8b2772af68e70dd]: Commencement: Sch. 6 para. 8 in force at 28.3.2022 in so far as not already in force by [S.R. 2022/147](https://www.legislation.gov.uk/nisr/2022/147), [reg. 2](https://www.legislation.gov.uk/nisr/2022/147/regulation/2)
+[^c-7ef1adc518b9bb92e8b2772af68e70dd]: Commencement: Sch. 6 para. 8 in force at 28.3.2022 in so far as not already in force by [S.R. 2022/147](https://www.legislation.gov.uk/nisr/2022/147), [reg. 2](https://www.legislation.gov.uk/nisr/2022/147/regulation/2)
 
-[^key-c7f66f0c78a83b75f607ddaee23a6be4]: Textual amendment: Words in Sch. 6 para. 8 substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 93(2)(o)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/93/2/o)
+[^c-c7f66f0c78a83b75f607ddaee23a6be4]: Textual amendment: Words in Sch. 6 para. 8 substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 93(2)(o)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/93/2/o)
 
-[^key-672ade4607d04b576ed45c36bc797d1e]: Textual amendment: Words in Sch. 6 para. 9 substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 93(2)(o)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/93/2/o)
+[^c-672ade4607d04b576ed45c36bc797d1e]: Textual amendment: Words in Sch. 6 para. 9 substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 93(2)(o)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/93/2/o)
 
 [^c24384101]: Commencement: Sch. 6 para. 9 in force at Royal Assent for specified purposes, see [s. 57(1)(b)(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)
 

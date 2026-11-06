@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) A person with appeal rights (as provided for in this regulation) may appeal to the Secretary of State against the following decisions by NHS England[^key-fedf3951d93bcf656ad03378f887d7d5]—
+(1) A person with appeal rights (as provided for in this regulation) may appeal to the Secretary of State against the following decisions by NHS England[^c-fedf3951d93bcf656ad03378f887d7d5]—
 
 - (a) a determination of whether or not an area is or is part of a controlled locality as mentioned in regulation 36(2), in respect of which the only people with appeal rights are—
   - (i) a person, as mentioned in regulation 38(4), who is making a routine application to which the determination relates, and
@@ -41,4 +41,4 @@ provided that, within 30 days of the date on which they were notified of the dec
 
 ## Annotations
 
-[^key-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)

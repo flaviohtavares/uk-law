@@ -30,7 +30,7 @@ summary: ''
 
 (2B) In determining whether a decision of a body concerning its distribution of money under subsection (1) was unlawful, it shall be immaterial whether or not the body, or any person acting on behalf of the body, solicited an application from a body or person for such money.
 
-(2C)[^key-60d02ad70878912b6ea1a1cf04e1d053] In determining how to distribute money in accordance with subsection (1) a body may—
+(2C)[^c-60d02ad70878912b6ea1a1cf04e1d053] In determining how to distribute money in accordance with subsection (1) a body may—
 
 - (a) consult any person;
 - (b) take account of opinions expressed to it or information submitted to it.
@@ -41,7 +41,7 @@ summary: ''
 
 (5)[^M_F_c8ee194b-8be4-4548-8116-61b425640f60] References in this section (however expressed) to the distribution of money for meeting expenditure are to be construed as including distribution of money for the purpose of establishing, or contributing to, endowments in connection with expenditure of the description concerned.
 
-(6)[^key-e5e01f1cbca7a51730cba369a85306d8] A reference in this section to meeting expenditure includes a reference to meeting expenditure which relates to—
+(6)[^c-e5e01f1cbca7a51730cba369a85306d8] A reference in this section to meeting expenditure includes a reference to meeting expenditure which relates to—
 
 - (a) the Isle of Man, or
 - (b) any of the Channel Islands.
@@ -52,7 +52,7 @@ summary: ''
 
 [^c1528615]: Textual amendment: S. 25(2A)-(2B) inserted (2.7.1998) by [1998 c. 22](https://www.legislation.gov.uk/ukpga/1998/22), [ss. 10](https://www.legislation.gov.uk/ukpga/1998/22/section/10), [27(4)](https://www.legislation.gov.uk/ukpga/1998/22/section/27/4).
 
-[^key-60d02ad70878912b6ea1a1cf04e1d053]: Textual amendment: S. 25(2C) inserted (1.10.2006) by [National Lottery Act 2006 (c. 23)](https://www.legislation.gov.uk/ukpga/2006/23), [ss. 10](https://www.legislation.gov.uk/ukpga/2006/23/section/10), [22(1)](https://www.legislation.gov.uk/ukpga/2006/23/section/22/1); [S.I. 2006/2630](https://www.legislation.gov.uk/uksi/2006/2630), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/2630/article/2/c)
+[^c-60d02ad70878912b6ea1a1cf04e1d053]: Textual amendment: S. 25(2C) inserted (1.10.2006) by [National Lottery Act 2006 (c. 23)](https://www.legislation.gov.uk/ukpga/2006/23), [ss. 10](https://www.legislation.gov.uk/ukpga/2006/23/section/10), [22(1)](https://www.legislation.gov.uk/ukpga/2006/23/section/22/1); [S.I. 2006/2630](https://www.legislation.gov.uk/uksi/2006/2630), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/2630/article/2/c)
 
 [^c1528616]: Marginal citation: [1980 c. 17](https://www.legislation.gov.uk/ukpga/1980/17).
 
@@ -60,4 +60,4 @@ summary: ''
 
 [^M_F_c8ee194b-8be4-4548-8116-61b425640f60]: Textual amendment: S. 25(5) inserted (retrospectively) by [National Lottery (Funding of Endowments) Act 2003 (c. 23)](https://www.legislation.gov.uk/ukpga/2003/23), [s. 1(3)(9)](https://www.legislation.gov.uk/ukpga/2003/23/section/1/3/9)
 
-[^key-e5e01f1cbca7a51730cba369a85306d8]: Textual amendment: [S. 25(6)](https://www.legislation.gov.uk/ukpga/1993/39/section/25/6) added (1.12.2006 for specified purposes) by [National Lottery Act 2006 (c. 23)](https://www.legislation.gov.uk/ukpga/2006/23), [ss. 13(1)](https://www.legislation.gov.uk/ukpga/2006/23/section/13/1), [22(1)](https://www.legislation.gov.uk/ukpga/2006/23/section/22/1); [S.I. 2006/3201](https://www.legislation.gov.uk/uksi/2006/3201), [art. 2(b)](https://www.legislation.gov.uk/uksi/2006/3201/article/2/b)
+[^c-e5e01f1cbca7a51730cba369a85306d8]: Textual amendment: [S. 25(6)](https://www.legislation.gov.uk/ukpga/1993/39/section/25/6) added (1.12.2006 for specified purposes) by [National Lottery Act 2006 (c. 23)](https://www.legislation.gov.uk/ukpga/2006/23), [ss. 13(1)](https://www.legislation.gov.uk/ukpga/2006/23/section/13/1), [22(1)](https://www.legislation.gov.uk/ukpga/2006/23/section/22/1); [S.I. 2006/3201](https://www.legislation.gov.uk/uksi/2006/3201), [art. 2(b)](https://www.legislation.gov.uk/uksi/2006/3201/article/2/b)

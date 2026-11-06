@@ -50,13 +50,13 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 ## PART 1 — Introductory
 
-### 1. Citation, commencement and extent[^key-c357f38db125392f32a3048b917e5267]
+### 1. Citation, commencement and extent[^c-c357f38db125392f32a3048b917e5267]
 
 (1) These Regulations may be cited as the Energy Bills Support Scheme and Alternative Fuel Payment Pass-through Requirement (Northern Ireland) Regulations 2023 and come into force on 12th January 2023.
 
 (2) These Regulations extend to Northern Ireland.
 
-### 2. Interpretation[^key-47ebc24a9e6fb690e9caa6bd988d7434]
+### 2. Interpretation[^c-47ebc24a9e6fb690e9caa6bd988d7434]
 
 In these Regulations—
 
@@ -66,7 +66,7 @@ In these Regulations—
 - “**EBSS AFP NI eligible customer**” means an “**eligible customer**” as defined in the EBSS AFP NI Direction;
 - “**EBSS AFP NI scheme benefit**” means an EBSS AFP NI support payment made by an EBSS AFP NI domestic electricity supplier to an EBSS AFP NI eligible customer pursuant to the EBSS AFP NI Direction, where the amount of the EBSS AFP NI scheme benefit is the amount notified by the EBSS AFP NI domestic electricity supplier to the EBSS AFP NI eligible customer pursuant to paragraph 13 of the EBSS AFP NI Direction;
 - “**EBSS AFP NI scheme month**” means a “**scheme month**” as defined in the EBSS AFP NI Direction;
-- “**EBSS AFP NI support payment**” means a support payment which an EBSS AFP NI domestic electricity supplier is required to provide [^key-338e317c61c9ae5df4309e182c28eeaf]... pursuant to the EBSS AFP NI Direction;
+- “**EBSS AFP NI support payment**” means a support payment which an EBSS AFP NI domestic electricity supplier is required to provide [^c-338e317c61c9ae5df4309e182c28eeaf]... pursuant to the EBSS AFP NI Direction;
 - “**end user**” means an end user as defined in section 19(3) of the Energy Prices Act 2022 other than an excluded end user;
 - “**excluded end user**” means a person to whom a relevant intermediary supplies or makes available energy at premises located outside Northern Ireland;
 - “**excluded person**” means a person engaged in either or both of the provision of accommodation within the meaning of standard industrial classification divisions 55.1, 55.2, 55.3 (except persons providing caravans on protected sites as defined in section 17(1) of the Caravans Act (Northern Ireland) 2011[^f00003]) and 55.9 (except persons providing student residences, school dormitories, workers hostels and rooming and boarding houses) and the provision of energy[^f00004] to such accommodation;
@@ -87,7 +87,7 @@ and the amount of the scheme benefit may be an amount in pounds sterling or in p
 
 ## PART 2 — Pass-through requirement
 
-### 3. Pass-through requirement[^key-b2bb6d7cf8a69fd334a14a6b9f7a9b31]
+### 3. Pass-through requirement[^c-b2bb6d7cf8a69fd334a14a6b9f7a9b31]
 
 (1) A relevant intermediary must not—
 
@@ -117,7 +117,7 @@ and the amount of the scheme benefit may be an amount in pounds sterling or in p
 
 (11) If a scheme benefit has been provided to a relevant intermediary in respect of energy supplied or made available to an excluded end user, the relevant intermediary must notify the person that provided the scheme benefit of this and such scheme benefit is not treated as having been provided to the relevant intermediary for the purposes of these Regulations.
 
-### 4. Calculation of pass-through amount[^key-2b34ea7fac2fe6f9a6134b3ecefdb18c]
+### 4. Calculation of pass-through amount[^c-2b34ea7fac2fe6f9a6134b3ecefdb18c]
 
 (1) Subject to regulation 3(3), the requirement for a relevant intermediary to provide to end users a pass-through amount that is just and reasonable is treated as having been met in any case where—
 
@@ -143,7 +143,7 @@ a pass-through amount is just and reasonable for the purposes of regulation 3(2)
 
 (7) A relevant intermediary is entitled to include energy used to provide common services to end users as part of its own usage for the purposes of the calculation in paragraphs (2) or (3) to the extent that the cost of such energy is or will not be borne by its end users as part of the arrangements in place when the scheme benefit was provided to the relevant intermediary in accordance with regulation 3(5).
 
-### 5. Provision of information to end users[^key-3183cd5fd3ea7838fffa19a88749f7a0]
+### 5. Provision of information to end users[^c-3183cd5fd3ea7838fffa19a88749f7a0]
 
 (1) Within the period of 30 days beginning with the later of the day on which these Regulations came into force or the day on which the scheme benefit was provided to it in accordance with regulation 3(5) or was deemed to have been provided to it in accordance with regulation 3(6), the relevant intermediary must take reasonable steps to notify its end users in writing (where possible using the means of communication it customarily uses to communicate with its end users)—
 
@@ -164,7 +164,7 @@ a pass-through amount is just and reasonable for the purposes of regulation 3(2)
   - (i) the tariff adjustment which the relevant intermediary has applied pursuant to these Regulations to effect the pass-through to end users of the scheme benefit which has been provided to it, and
   - (ii) the contact details of the relevant intermediary which can be used should the end user require further information about its entitlements under these Regulations, including the ability to appeal to the relevant intermediary in respect of the basis on which the tariffs have been adjusted to reflect the scheme benefit provided to the relevant intermediary.
 
-### 6. Effecting the pass-through[^key-db01aaf551f96d418fe67efc4409aa2e]
+### 6. Effecting the pass-through[^c-db01aaf551f96d418fe67efc4409aa2e]
 
 (1) Notwithstanding any provision in the contract between the relevant intermediary and the end user at the time the scheme benefit was provided to the relevant intermediary, the relevant intermediary must effect the pass-through so that the pass-through amount is provided to the end user as soon as reasonably practicable.
 
@@ -188,7 +188,7 @@ or a combination of the methods set out in this paragraph, as appropriate.
 
 ## PART 3 — General
 
-### 7. Enforcement[^key-91afa83787830b347cc59288509efe5c]
+### 7. Enforcement[^c-91afa83787830b347cc59288509efe5c]
 
 (1) Where a relevant intermediary fails to effect a pass-through to which an end user is entitled by virtue of these Regulations, that end user may, subject to regulation 6(5), recover the relevant pass-through amount from the relevant intermediary as a civil debt.
 
@@ -227,13 +227,13 @@ An impact assessment of the effect the EBSS AFP NI scheme, including the related
 
 [^f00001]: Footnote: [2022 c. 44](https://www.legislation.gov.uk/ukpga/2022/44).
 
-[^key-c357f38db125392f32a3048b917e5267]: Commencement: Reg. 1 in force at 12.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/10/regulation/1/1)
+[^c-c357f38db125392f32a3048b917e5267]: Commencement: Reg. 1 in force at 12.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/10/regulation/1/1)
 
-[^key-47ebc24a9e6fb690e9caa6bd988d7434]: Commencement: Reg. 2 in force at 12.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/10/regulation/1/1)
+[^c-47ebc24a9e6fb690e9caa6bd988d7434]: Commencement: Reg. 2 in force at 12.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/10/regulation/1/1)
 
 [^f00002]: Footnote: A hard copy of the Direction can be obtained from the Department for Business, Energy and Industrial Strategy, 1 Victoria Street, London, SW1H 0ET. For an electronic copy, see https://www.gov.uk/government/publications/energy-bills-support-scheme-and-alternative-fuels-payment-northern-ireland-ministerial-direction
 
-[^key-338e317c61c9ae5df4309e182c28eeaf]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2023/10/regulation/2) omitted (24.2.2023) by virtue of [The Non-Domestic Alternative Fuel Payment Pass-through Requirement and Amendment Regulations 2023 (S.I. 2023/188)](https://www.legislation.gov.uk/uksi/2023/188), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/188/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2023/188/regulation/8)
+[^c-338e317c61c9ae5df4309e182c28eeaf]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2023/10/regulation/2) omitted (24.2.2023) by virtue of [The Non-Domestic Alternative Fuel Payment Pass-through Requirement and Amendment Regulations 2023 (S.I. 2023/188)](https://www.legislation.gov.uk/uksi/2023/188), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/188/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2023/188/regulation/8)
 
 [^f00003]: Footnote: [2011 c. 12](https://www.legislation.gov.uk/ukpga/2011/12).
 
@@ -241,14 +241,14 @@ An impact assessment of the effect the EBSS AFP NI scheme, including the related
 
 [^f00005]: Footnote: Published by the Office of National Statistics. For information on how to obtain a hard copy, contact the Office for National Statistics, Classifications and Harmonisation Unit, Government Buildings, Cardiff Road, Newport, South Wales, NP10 8XG. For an electronic copy, see https://www.ons.gov.uk/methodology/classificationsandstandards/ukstandardindustrialclassificationofeconomicactivities/uksic2007.
 
-[^key-b2bb6d7cf8a69fd334a14a6b9f7a9b31]: Commencement: Reg. 3 in force at 12.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/10/regulation/1/1)
+[^c-b2bb6d7cf8a69fd334a14a6b9f7a9b31]: Commencement: Reg. 3 in force at 12.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/10/regulation/1/1)
 
-[^key-2b34ea7fac2fe6f9a6134b3ecefdb18c]: Commencement: Reg. 4 in force at 12.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/10/regulation/1/1)
+[^c-2b34ea7fac2fe6f9a6134b3ecefdb18c]: Commencement: Reg. 4 in force at 12.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/10/regulation/1/1)
 
-[^key-3183cd5fd3ea7838fffa19a88749f7a0]: Commencement: Reg. 5 in force at 12.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/10/regulation/1/1)
+[^c-3183cd5fd3ea7838fffa19a88749f7a0]: Commencement: Reg. 5 in force at 12.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/10/regulation/1/1)
 
-[^key-db01aaf551f96d418fe67efc4409aa2e]: Commencement: Reg. 6 in force at 12.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/10/regulation/1/1)
+[^c-db01aaf551f96d418fe67efc4409aa2e]: Commencement: Reg. 6 in force at 12.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/10/regulation/1/1)
 
-[^key-91afa83787830b347cc59288509efe5c]: Commencement: Reg. 7 in force at 12.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/10/regulation/1/1)
+[^c-91afa83787830b347cc59288509efe5c]: Commencement: Reg. 7 in force at 12.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/10/regulation/1/1)
 
 [^f00006]: Footnote: [1998 c. 11](https://www.legislation.gov.uk/ukpga/1998/11).

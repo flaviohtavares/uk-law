@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Theft from shop triable either way irrespective of value of goods[^key-3db874f9385eacccfbdde78f298627c0]
+## 47. Theft from shop triable either way irrespective of value of goods[^c-3db874f9385eacccfbdde78f298627c0]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3db874f9385eacccfbdde78f298627c0]: Commencement: S. 47 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-3db874f9385eacccfbdde78f298627c0]: Commencement: S. 47 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

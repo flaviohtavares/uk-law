@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## D4. Increase of reckonable service on lump sum payment[^key-518805324e5079e6e82e177c1e583aaa]
+## D4. Increase of reckonable service on lump sum payment[^c-518805324e5079e6e82e177c1e583aaa]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ A pensionable employee who has made a payment in accordance with regulation C5 i
 
 ## Annotations
 
-[^key-518805324e5079e6e82e177c1e583aaa]: Commencement: [Reg. D4](https://www.legislation.gov.uk/uksi/1986/24/regulation/D4) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-518805324e5079e6e82e177c1e583aaa]: Commencement: [Reg. D4](https://www.legislation.gov.uk/uksi/1986/24/regulation/D4) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

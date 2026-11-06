@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Section 189 (assessment: procedure)[^key-14b962352d0ad36d3f100ea1b933438c]
+## 52. Section 189 (assessment: procedure)[^c-14b962352d0ad36d3f100ea1b933438c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In section 189 [^c23657871] (assessment: procedure), in subsections (1A), (1ZB)(
 
 ## Annotations
 
-[^key-14b962352d0ad36d3f100ea1b933438c]: Commencement: Reg. 52 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-14b962352d0ad36d3f100ea1b933438c]: Commencement: Reg. 52 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23657871]: Marginal citation: Section 189 was inserted by [S.I. 2009/534](https://www.legislation.gov.uk/uksi/2009/534). Subsection (1A) was inserted by [S.I. 2014/3329](https://www.legislation.gov.uk/uksi/2014/3329), and subsection (1ZB) by paragraph 39 of Schedule 2 to the Bank of England and Financial Services Act 2016.

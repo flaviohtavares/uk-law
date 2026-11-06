@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 69. Setting aside of sum enforceable under section 67[^key-f8a5809d5f270065a0f2f9b4b72e15c5]
+## 69. Setting aside of sum enforceable under section 67[^c-f8a5809d5f270065a0f2f9b4b72e15c5]
 
 *Extent: N.I.*
 
@@ -34,10 +34,10 @@ summary: ''
 - (a) the registration and any proceedings taken for enforcing payment of the sum registered shall be void; and
 - (b) Article 19(1)(a) of the Magistrates' Courts (Northern Ireland) Order 1981 (NI 26) (limitation of time) shall have effect as if for the reference to the time when the offence was committed there were substituted a reference to the date of the setting aside.
 
-(5) In this section references to proceedings for enforcing payment of the sum registered are references to any process issued or other proceedings taken for or in connection with enforcing payment of that sum (including the making of a collection order)[^key-ad452815c51846c9bbd30b13f4f02973] .
+(5) In this section references to proceedings for enforcing payment of the sum registered are references to any process issued or other proceedings taken for or in connection with enforcing payment of that sum (including the making of a collection order)[^c-ad452815c51846c9bbd30b13f4f02973] .
 
 ## Annotations
 
-[^key-f8a5809d5f270065a0f2f9b4b72e15c5]: Commencement: S. 69 in operation at 6.6.2012 by [S.R. 2012/214](https://www.legislation.gov.uk/nisr/2012/214), [art. 2(m)](https://www.legislation.gov.uk/nisr/2012/214/article/2/m)
+[^c-f8a5809d5f270065a0f2f9b4b72e15c5]: Commencement: S. 69 in operation at 6.6.2012 by [S.R. 2012/214](https://www.legislation.gov.uk/nisr/2012/214), [art. 2(m)](https://www.legislation.gov.uk/nisr/2012/214/article/2/m)
 
-[^key-ad452815c51846c9bbd30b13f4f02973]: Textual amendment: Words in [s. 69(5)](https://www.legislation.gov.uk/nia/2011/24/section/69/5) inserted (1.6.2018) by [Justice Act (Northern Ireland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [s. 61(2)](https://www.legislation.gov.uk/nia/2016/21/section/61/2), [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/nia/2016/21/schedule/2/paragraph/7/4); [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(c)](https://www.legislation.gov.uk/nisr/2018/99/article/2/c)
+[^c-ad452815c51846c9bbd30b13f4f02973]: Textual amendment: Words in [s. 69(5)](https://www.legislation.gov.uk/nia/2011/24/section/69/5) inserted (1.6.2018) by [Justice Act (Northern Ireland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [s. 61(2)](https://www.legislation.gov.uk/nia/2016/21/section/61/2), [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/nia/2016/21/schedule/2/paragraph/7/4); [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(c)](https://www.legislation.gov.uk/nisr/2018/99/article/2/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 276A. No gain/no loss: foreign permanent establishment exemption[^key-c25572611b981979dc0c5ca188339054]
+## 276A. No gain/no loss: foreign permanent establishment exemption[^c-c25572611b981979dc0c5ca188339054]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c25572611b981979dc0c5ca188339054]: Textual amendment: S. 276A inserted (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 13 paras. 13](https://www.legislation.gov.uk/ukpga/2011/11/schedule/13/paragraph/13), [31](https://www.legislation.gov.uk/ukpga/2011/11/schedule/13/paragraph/31)
+[^c-c25572611b981979dc0c5ca188339054]: Textual amendment: S. 276A inserted (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 13 paras. 13](https://www.legislation.gov.uk/ukpga/2011/11/schedule/13/paragraph/13), [31](https://www.legislation.gov.uk/ukpga/2011/11/schedule/13/paragraph/31)

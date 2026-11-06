@@ -44,7 +44,7 @@ Now, therefore, the Secretary of State, being a Minister designated[^f00001] for
 
 ## PART I — INTRODUCTORY PROVISIONS
 
-### 1. Citation, commencement and extent.[^key-2117f9b0a40c8108c70345ad1ac1559e]
+### 1. Citation, commencement and extent.[^c-2117f9b0a40c8108c70345ad1ac1559e]
 
 (1) These Regulations may be cited as the Copyright and Related Rights Regulations 1996.
 
@@ -52,15 +52,15 @@ Now, therefore, the Secretary of State, being a Minister designated[^f00001] for
 
 (3) These Regulations extend to the whole of the United Kingdom.
 
-### 2. Interpretation[^key-98cff411c98e1cf6b21e14e9e12622fe]
+### 2. Interpretation[^c-98cff411c98e1cf6b21e14e9e12622fe]
 
 In these Regulations—
 
 - “EEA Agreement” means the Agreement on the European Economic Area signed at Oporto on 2nd May 1992[^f00003], as adjusted by the Protocol signed at Brussels on 17th March 1993[^f00004]; and
-- “[^key-e86732ba52faa3f43df0f6305949350b]EEA state” means a member State, Iceland, Liechtenstein or Norway.
-- “[^key-de3e68f2480ffe8ce0cf2b025e66a1a0]**national of the United Kingdom**” has the meaning given by section 178 of the Copyright, Designs and Patents Act 1988;
+- “[^c-e86732ba52faa3f43df0f6305949350b]EEA state” means a member State, Iceland, Liechtenstein or Norway.
+- “[^c-de3e68f2480ffe8ce0cf2b025e66a1a0]**national of the United Kingdom**” has the meaning given by section 178 of the Copyright, Designs and Patents Act 1988;
 
-### 3. Implementation of Directives, &c.[^key-32cc26459bece3014f8256871505f9f8]
+### 3. Implementation of Directives, &c.[^c-32cc26459bece3014f8256871505f9f8]
 
 These Regulations make provision for the purpose of implementing—
 
@@ -69,7 +69,7 @@ These Regulations make provision for the purpose of implementing—
 - (c) the provisions of Council Directive No. [93/98/EEC](https://www.legislation.gov.uk/european/directive/1993/0098) of 29 October 1993[^f00007] harmonizing the term of protection of copyright and certain related rights, so far as not implemented by the Duration of Copyright and Rights in Performances Regulations 1995[^f00008]; and
 - (d) certain obligations of the United Kingdom created by or arising under the EEA Agreement so far as relevant to the implementation of those Directives.
 
-### 4. Scheme of the regulations[^key-eb2732fae1ed9c2358375fe9fc49c08a]
+### 4. Scheme of the regulations[^c-eb2732fae1ed9c2358375fe9fc49c08a]
 
 The Copyright, Designs, and Patents Act 1988[^f00009] is amended in accordance with the provisions of Part II of these Regulations, subject to the savings and transitional provisions in Part III of these Regulations.
 
@@ -77,7 +77,7 @@ The Copyright, Designs, and Patents Act 1988[^f00009] is amended in accordance w
 
 ### Satellite broadcasts and cable re-transmission
 
-#### 5. Place where broadcast treated as made[^key-f1908794130b35f73081bf2129af33eb]
+#### 5. Place where broadcast treated as made[^c-f1908794130b35f73081bf2129af33eb]
 
 For section 6(4) (broadcasts: place where regarded as made) substitute—
 
@@ -85,7 +85,7 @@ For section 6(4) (broadcasts: place where regarded as made) substitute—
 
 .
 
-#### 6. Safeguards in relation to certain satellite broadcasts[^key-074a0db9165e773aa978f8d801681cce]
+#### 6. Safeguards in relation to certain satellite broadcasts[^c-074a0db9165e773aa978f8d801681cce]
 
 (1) In section 6 (broadcasts), after subsection (4) insert—
 
@@ -113,7 +113,7 @@ For section 6(4) (broadcasts: place where regarded as made) substitute—
 
 .
 
-#### 7. Exercise of rights in relation to cable re-transmission[^key-226311571f551c270e8a51850463c865]
+#### 7. Exercise of rights in relation to cable re-transmission[^c-226311571f551c270e8a51850463c865]
 
 In Chapter VII of Part I (provisions as to copyright licensing), after section 144 insert—
 
@@ -139,13 +139,13 @@ In Chapter VII of Part I (provisions as to copyright licensing), after section 1
 
 .
 
-#### 8. Meaning of wireless telegraphy.[^key-a997f0be81820d2f4055f0714264ece6]
+#### 8. Meaning of wireless telegraphy.[^c-a997f0be81820d2f4055f0714264ece6]
 
 In section 178 (minor definitions), in the definition of “wireless telegraphy” at the end insert “, but does not include the transmission of microwave energy between terrestrial fixed points”.
 
 ### Distribution right
 
-#### 9. Issue of copies of work to the public: extension of right[^key-9e4c920503d22f01abb0af0725e2c6d7]
+#### 9. Issue of copies of work to the public: extension of right[^c-9e4c920503d22f01abb0af0725e2c6d7]
 
 (1) Section 18 (infringement of copyright by issue of copies of work to public) is amended as follows.
 
@@ -192,7 +192,7 @@ In section 178 (minor definitions), in the definition of “wireless telegraphy�
 
 ### Rental and lending right
 
-#### 10. Rental or lending of copyright work[^key-f262c1898441c77287da98126952f775]
+#### 10. Rental or lending of copyright work[^c-f262c1898441c77287da98126952f775]
 
 (1) In section 16 (the acts restricted by copyright in a work), in subsection (1), after paragraph (b) insert—
 
@@ -247,7 +247,7 @@ and omit the definition of “rental”.
 
 .
 
-#### 11. Permitted lending of copyright works[^key-9edc29a30d480efab11a137cb662f8c7]
+#### 11. Permitted lending of copyright works[^c-9edc29a30d480efab11a137cb662f8c7]
 
 (1) In Chapter III of Part I (acts permitted in relation to copyright works), in the sections relating to education, after section 36 insert—
 
@@ -314,7 +314,7 @@ and omit the definition of “rental”.
 - Article 77(3) of the Education and Libraries (Northern Ireland) Order 1986[^f00012],
 - paragraphs 6, 8 and 34 of Schedule 7 to the Copyright, Designs and Patents Act 1988[^f00013] (which insert the above provisions).
 
-#### 12. Presumption of transfer of rental right in case of film production agreement[^key-8d3a7b48cfae3fccbfcd8b36e3521047]
+#### 12. Presumption of transfer of rental right in case of film production agreement[^c-8d3a7b48cfae3fccbfcd8b36e3521047]
 
 In Chapter V of Part I (dealings with rights in copyright works), after section 93 insert—
 
@@ -334,7 +334,7 @@ In Chapter V of Part I (dealings with rights in copyright works), after section 
 
 .
 
-#### 13. Rental and lending: applications to Copyright Tribunal[^key-7287569bb7d871eb836dda4a74fc43f9]
+#### 13. Rental and lending: applications to Copyright Tribunal[^c-7287569bb7d871eb836dda4a74fc43f9]
 
 (1) In section 133 (licences to reflect payments in respect of underlying rights), for subsection (1) (considerations relevant to rental of certain works) substitute—
 
@@ -365,7 +365,7 @@ In Chapter V of Part I (dealings with rights in copyright works), after section 
 
 (3) In section 149 (jurisdiction of the Copyright Tribunal), in paragraph (e) for “rental of sound recording, film or computer program” substitute “lending of certain works”.
 
-#### 14. Right to equitable remuneration where rental right transferred[^key-ca08c67a8e246a7231557bcc5e817426]
+#### 14. Right to equitable remuneration where rental right transferred[^c-ca08c67a8e246a7231557bcc5e817426]
 
 (1) In Chapter V of Part I (dealings with rights in copyright works), after section 93A (inserted by regulation 12) insert—
 
@@ -419,7 +419,7 @@ In Chapter V of Part I (dealings with rights in copyright works), after section 
 
 .
 
-#### 15. Consequential modification of provisions relating to licensing[^key-614086628dc447907900a606b2bfbdfb]
+#### 15. Consequential modification of provisions relating to licensing[^c-614086628dc447907900a606b2bfbdfb]
 
 (1) Chapter VII of Part I (copyright licensing) is amended as follows.
 
@@ -455,17 +455,17 @@ In Chapter V of Part I (dealings with rights in copyright works), after section 
 
 ### Publication right
 
-#### 16. Publication right[^key-b26a574880221e14df74309ce034958c]
+#### 16. Publication right[^c-b26a574880221e14df74309ce034958c]
 
 (1) A person who after the expiry of copyright protection, publishes for the first time a previously unpublished work has, in accordance with the following provisions, a property right (“publication right”) equivalent to copyright.
 
-(2) For this purpose publication includes any making available[^key-f1b49749385ecf9a259da25507e03c01] to the public, in particular—
+(2) For this purpose publication includes any making available[^c-f1b49749385ecf9a259da25507e03c01] to the public, in particular—
 
 - (a) the issue of copies to the public;
 - (b) making the work available by means of an electronic retrieval system;
 - (c) the rental or lending of copies of the work to the public;
 - (d) the performance, exhibition or showing of the work in public; or
-- (e)[^key-d7c5c347e420c11d212d2e93e4045f22] communicating the work to the public.
+- (e)[^c-d7c5c347e420c11d212d2e93e4045f22] communicating the work to the public.
 
 (3) No account shall be taken for this purpose of any unauthorised act.
 
@@ -473,18 +473,18 @@ In relation to a time when there is no copyright in the work, an unauthorised ac
 
 (4) A work qualifies for publication right protection only if—
 
-- (a) first publication is in the European Economic Area or in the United Kingdom[^key-a388a838b9917db5f97f45cbe7a77114], and
-- (b) the publisher of the work is at the time of first publication a national of an EEA state or a national of the United Kingdom[^key-2e90af0662e4628d2e856100c4dfbc04]. Where two or more persons jointly publish the work, it is sufficient for the purposes of paragraph (b) if any of them is a national of an EEA state or a national of the United Kingdom[^key-b807fbe50f28bf290d3bfab5ae5149bf].
+- (a) first publication is in the European Economic Area or in the United Kingdom[^c-a388a838b9917db5f97f45cbe7a77114], and
+- (b) the publisher of the work is at the time of first publication a national of an EEA state or a national of the United Kingdom[^c-2e90af0662e4628d2e856100c4dfbc04]. Where two or more persons jointly publish the work, it is sufficient for the purposes of paragraph (b) if any of them is a national of an EEA state or a national of the United Kingdom[^c-b807fbe50f28bf290d3bfab5ae5149bf].
 
 (5) No publication right arises from the publication of a work in which Crown copyright or Parliamentary copyright subsisted.
 
 (6) Publication right expires at the end of the period of 25 years from the end of the calendar year in which the work was first published.
 
-(7) In this regulation and regulation 17A[^key-e7fd17370892a50f831c2aba8748fa99] a “work” means a literary, dramatic, musical or artistic work or a film.
+(7) In this regulation and regulation 17A[^c-e7fd17370892a50f831c2aba8748fa99] a “work” means a literary, dramatic, musical or artistic work or a film.
 
 (8) Expressions used in this regulation (other than “publication”) have the same meaning as in Part I.
 
-#### 17. Application of copyright provisions to publication right[^key-b864d0f03ab8c922ff861842803c2c59]
+#### 17. Application of copyright provisions to publication right[^c-b864d0f03ab8c922ff861842803c2c59]
 
 (1) The substantive provisions of Part I relating to copyright (but not moral rights in copyright works), that is, the relevant provisions of—
 
@@ -523,7 +523,7 @@ apply, with any necessary adaptations, for the purposes of supplementing the sub
 
 In this paragraph “enactment” includes an enactment contained in subordinate legislation within the meaning of the Interpretation Act 1978[^f00014].
 
-#### 17A. Presumptions relevant to works subject to publication right[^key-cf998eabf03d8fec200f0efcd5ceadd7]
+#### 17A. Presumptions relevant to works subject to publication right[^c-cf998eabf03d8fec200f0efcd5ceadd7]
 
 In proceedings brought by virtue of Chapter 6 of Part 1 of the Copyright, Designs and Patents Act 1988, as applied to publication right by regulation 17, with respect to a work, where copies of the work as issued to the public bear a statement that a named person was the owner of publication right in the work at the date of issue of the copies, the statement shall be admissible as evidence of the fact stated and shall be presumed to be correct until the contrary is proved.
 
@@ -533,7 +533,7 @@ Regulation 17A does not apply to proceedings for an offence under section 107 of
 
 ### Authorship of films and certain photographs
 
-#### 18. Authorship of films[^key-7b6c84a1cbf5e493f3e97bfe43b239ea]
+#### 18. Authorship of films[^c-7b6c84a1cbf5e493f3e97bfe43b239ea]
 
 (1) In section 9(2) (person to be taken to be author of work), for paragraph (a) (sound recordings and films) substitute—
 
@@ -579,7 +579,7 @@ and
 
 .
 
-#### 19. Clarification of transitional provisions relating to pre-1989 photographs[^key-282a2a7a1cf269016bcca4298eef2da9]
+#### 19. Clarification of transitional provisions relating to pre-1989 photographs[^c-282a2a7a1cf269016bcca4298eef2da9]
 
 Any question arising, in relation to photographs which were existing works within the meaning of Schedule 1, as to who is to be regarded as the author for the purposes of—
 
@@ -590,7 +590,7 @@ is to be determined in accordance with section 9 as in force on the commencement
 
 ### Performers' rights
 
-#### 20. Extension of performers' rights[^key-f34011d102c8f30b24d2b1bc96aa45fd]
+#### 20. Extension of performers' rights[^c-f34011d102c8f30b24d2b1bc96aa45fd]
 
 (1) For section 182 (performers' rights: consent required for recording or live transmission of performance) substitute—
 
@@ -745,7 +745,7 @@ and after paragraph 14 insert—
 
 .
 
-#### 21. Performers' property rights[^key-19b74d2a26330bd658fbc9b5b3a7fed0]
+#### 21. Performers' property rights[^c-19b74d2a26330bd658fbc9b5b3a7fed0]
 
 (1) After section 191 insert—
 
@@ -980,7 +980,7 @@ and after paragraph 14 insert—
 
 .
 
-#### 22. Licensing of performers' property rights[^key-4d201c12579ceda0371eadd8a43ee3d2]
+#### 22. Licensing of performers' property rights[^c-4d201c12579ceda0371eadd8a43ee3d2]
 
 (1) In Part II (performers' rights), after section 205 insert—
 
@@ -1257,7 +1257,7 @@ and after paragraph 14 insert—
 
 .
 
-#### 23. Performers' rights: power of Copyright Tribunal to give consent[^key-b44b3a912183ce055890dab6294025ea]
+#### 23. Performers' rights: power of Copyright Tribunal to give consent[^c-b44b3a912183ce055890dab6294025ea]
 
 (1) Section 190 (power of tribunal to give consent on behalf of performer in certain cases) is amended as follows.
 
@@ -1276,7 +1276,7 @@ and after paragraph 14 insert—
 - (a) for “the performer” in the first place where it occurs substitute “the person entitled to the reproduction right”, and
 - (b) for “the performer” in the second place where it occurs substitute “that person”.
 
-#### 24. Performers' rights: jurisdiction of Copyright Tribunal[^key-d5b999da43c23812e8675215f9038eed]
+#### 24. Performers' rights: jurisdiction of Copyright Tribunal[^c-d5b999da43c23812e8675215f9038eed]
 
 (1) After section 205A (inserted by regulation 22(1)) insert—
 
@@ -1316,7 +1316,7 @@ and after paragraph 14 insert—
 
 ### General provisions
 
-#### 25. Introductory[^key-b82396fc87f2298f0fa1dadba3fc9b40]
+#### 25. Introductory[^c-b82396fc87f2298f0fa1dadba3fc9b40]
 
 (1) In this Part—
 
@@ -1334,13 +1334,13 @@ The expression does not include—
 
 (4) Expressions used in this Part have the same meaning in relation to copyright as they have in Part I of the Copyright, Designs and Patents Act 1988[^f00016], and in relation to performances as in Part II of that Act.
 
-#### 26. General rules[^key-7f56e4d36d51a886c6a44b341a71eba8]
+#### 26. General rules[^c-7f56e4d36d51a886c6a44b341a71eba8]
 
 (1) Subject to anything in regulations 28 to 36 (special transitional provisions and savings), these regulations apply to copyright works made, and to performances given, before or after commencement.
 
 (2) No act done before commencement shall be regarded as an infringement of any new right, or as giving rise to any right to remuneration arising by virtue of these Regulations.
 
-#### 27. Saving for certain existing agreements[^key-430a6e34cbb32c980f3d25aca028e0ec]
+#### 27. Saving for certain existing agreements[^c-430a6e34cbb32c980f3d25aca028e0ec]
 
 (1) Except as otherwise expressly provided, nothing in these Regulations affects an agreement made before 19th November 1992.
 
@@ -1348,7 +1348,7 @@ The expression does not include—
 
 ### Special provisions
 
-#### 28. Broadcasts[^key-176d3729fd5fd8347abc096186abfcd4]
+#### 28. Broadcasts[^c-176d3729fd5fd8347abc096186abfcd4]
 
 The provisions of—
 
@@ -1356,29 +1356,29 @@ The provisions of—
 - regulation 6 (safeguards in relation to certain satellite broadcasts),
 - have effect in relation to broadcasts made after commencement.
 
-#### 29. Satellite broadcasting: international co-production agreements[^key-d69762dcf3a746dfb57a827523d75998]
+#### 29. Satellite broadcasting: international co-production agreements[^c-d69762dcf3a746dfb57a827523d75998]
 
 (1) This regulation applies to an agreement concluded before 1st January 1995—
 
-- (a) between two or more co-producers of a film, one of whom is a national of an EEA state or a national of the United Kingdom[^key-aa8c101e7b3d775173fc8dff409abe6b], and
+- (a) between two or more co-producers of a film, one of whom is a national of an EEA state or a national of the United Kingdom[^c-aa8c101e7b3d775173fc8dff409abe6b], and
 - (b) the provisions of which grant to the parties exclusive rights to exploit all communication to the public of the film in separate geographical areas.
 
 (2) Where such an agreement giving such exclusive exploitation rights in relation to the United Kingdom does not expressly or by implication address satellite broadcasting from the United Kingdom, the person to whom those exclusive rights have been granted shall not make any such broadcast without the consent of any other party to the agreement whose language-related exploitation rights would be adversely affected by that broadcast.
 
-#### 30. New rights: exercise of rights in relation to performances[^key-7a4620897944690681d26d2a77a788a1]
+#### 30. New rights: exercise of rights in relation to performances[^c-7a4620897944690681d26d2a77a788a1]
 
 (1) Any new right conferred by these Regulations in relation to a qualifying performance is exercisable as from commencement by the performer or (if he has died) by the person who immediately before commencement was entitled by virtue of section 192(2) to exercise the rights conferred on the performer by Part II in relation to that performance.
 
 (2) Any remuneration or damages received by a person’s personal representatives by virtue of a right conferred on them by paragraph (1) shall devolve as part of that person’s estate as if the right had subsisted and been vested in him immediately before his death.
 
-#### 31. New rights: effect of pre-commencement authorisation of copying[^key-c734064180993604fdbd312cc7771755]
+#### 31. New rights: effect of pre-commencement authorisation of copying[^c-c734064180993604fdbd312cc7771755]
 
 Where before commencement—
 
 - (a) the owner or prospective owner of copyright in a literary, dramatic, musical or artistic work has authorised a person to make a copy of the work, or
 - (b) the owner or prospective owner of performers' rights in a performance has authorised a person to make a copy of a recording of the performance, any new right in relation to that copy shall vest on commencement in the person so authorised, subject to any agreement to the contrary.
 
-#### 32. New rights: effect of pre-commencement film production agreement[^key-e8434283f127e1119b21faeca386533b]
+#### 32. New rights: effect of pre-commencement film production agreement[^c-e8434283f127e1119b21faeca386533b]
 
 (1) Sections 93A and 191F (presumption of transfer of rental right in case of production agreement) apply in relation to an agreement concluded before commencement.
 
@@ -1386,24 +1386,24 @@ As section 93A so applies, the restriction in subsection (3) of that section sha
 
 (2) Sections 93B and 191G (right to equitable remuneration where rental right transferred) have effect accordingly, but subject to regulation 33 (right to equitable remuneration applicable to rental after 1st April 1997).
 
-#### 33. Right to equitable remuneration applicable to rental after 1st April 1997[^key-d68e470c3f7eec74a047f83479db76a5]
+#### 33. Right to equitable remuneration applicable to rental after 1st April 1997[^c-d68e470c3f7eec74a047f83479db76a5]
 
 No right to equitable remuneration under section 93B or 191G (right to equitable remuneration where rental right transferred) arises—
 
 - (a) in respect of any rental of a sound recording or film before 1st April 1997, or
 - (b) in respect of any rental after that date of a sound recording or film made in pursuance of an agreement entered into before 1st July 1994, unless the author or performer (or a successor in title of his) has before 1st January 1997 notified the person by whom the remuneration would be payable that he intends to exercise that right.
 
-#### 34. Savings for existing stocks[^key-7e625fc5fb9841b05d831e64a51d498f]
+#### 34. Savings for existing stocks[^c-7e625fc5fb9841b05d831e64a51d498f]
 
 (1) Any new right in relation to a copyright work does not apply to a copy of the work acquired by a person before commencement for the purpose of renting or lending it to the public.
 
 (2) Any new right in relation to a qualifying performance does not apply to a copy of a recording of the performance acquired by a person before commencement for the purpose of renting or lending it to the public .
 
-#### 35. Lending of copies by libraries or archives[^key-3dab09bde7b96a239630ee79340c92d4]
+#### 35. Lending of copies by libraries or archives[^c-3dab09bde7b96a239630ee79340c92d4]
 
 Until the making of regulations under section 37 of the Copyright, Designs and Patents Act 1988[^f00017] for the purposes of section 40A(2) of that Act (lending of copies by libraries or archives), the reference in section 40A(2) (and in paragraph 6B of Schedule 2) to a prescribed library or archive shall be construed as a reference to any library or archive in the United Kingdom prescribed by paragraphs 2 to 6 of Part A of Schedule 1 to the Copyright (Librarians and Archivists) (Copying of Copyright Material) Regulations 1989[^f00018].
 
-#### 36. Authorship of films[^key-b12bb292a14fb17da5d5c91e061431f8]
+#### 36. Authorship of films[^c-b12bb292a14fb17da5d5c91e061431f8]
 
 (1) Regulation 18 (authorship of films) applies as from commencement in relation to films made on or after 1st July 1994.
 
@@ -1470,19 +1470,19 @@ The Regulations come into force on 1st December 1996 and in Part III—
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68); by virtue of the amendment of section 1(2) of that Act by section 1 of the European Economic Area Act [1993 (c. 51)](https://www.legislation.gov.uk/ukpga/1993/51) regulations may be made under section 2(2) to implement obligations of the United Kingdom arising under the EEA Agreement.
 
-[^key-2117f9b0a40c8108c70345ad1ac1559e]: Commencement: Reg. 1 in force at 1.12.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/1/2)
+[^c-2117f9b0a40c8108c70345ad1ac1559e]: Commencement: Reg. 1 in force at 1.12.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/1/2)
 
-[^key-98cff411c98e1cf6b21e14e9e12622fe]: Commencement: Reg. 2 in force at 1.12.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/1/2)
+[^c-98cff411c98e1cf6b21e14e9e12622fe]: Commencement: Reg. 2 in force at 1.12.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/1/2)
 
 [^f00003]: Footnote: Cm 2073.
 
 [^f00004]: Footnote: Cm 2183.
 
-[^key-e86732ba52faa3f43df0f6305949350b]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1996/2967/regulation/2) substituted (29.4.2006) by [The Intellectual Property (Enforcement, etc.) Regulations 2006 (S.I. 2006/1028)](https://www.legislation.gov.uk/uksi/2006/1028), [reg. 1](https://www.legislation.gov.uk/uksi/2006/1028/regulation/1), [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2006/1028/schedule/3/paragraph/3)
+[^c-e86732ba52faa3f43df0f6305949350b]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1996/2967/regulation/2) substituted (29.4.2006) by [The Intellectual Property (Enforcement, etc.) Regulations 2006 (S.I. 2006/1028)](https://www.legislation.gov.uk/uksi/2006/1028), [reg. 1](https://www.legislation.gov.uk/uksi/2006/1028/regulation/1), [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2006/1028/schedule/3/paragraph/3)
 
-[^key-de3e68f2480ffe8ce0cf2b025e66a1a0]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1996/2967/regulation/2) inserted (31.12.2020) by [The Intellectual Property (Copyright and Related Rights) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/605)](https://www.legislation.gov.uk/uksi/2019/605), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/1/2), [27(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/27/2) (with [reg. 38](https://www.legislation.gov.uk/uksi/2019/605/regulation/38)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1050/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-de3e68f2480ffe8ce0cf2b025e66a1a0]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1996/2967/regulation/2) inserted (31.12.2020) by [The Intellectual Property (Copyright and Related Rights) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/605)](https://www.legislation.gov.uk/uksi/2019/605), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/1/2), [27(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/27/2) (with [reg. 38](https://www.legislation.gov.uk/uksi/2019/605/regulation/38)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1050/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-32cc26459bece3014f8256871505f9f8]: Commencement: Reg. 3 in force at 1.12.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/1/2)
+[^c-32cc26459bece3014f8256871505f9f8]: Commencement: Reg. 3 in force at 1.12.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/1/2)
 
 [^f00005]: Footnote: O.J. No. L346, 27.11.92, p. 61.
 
@@ -1492,23 +1492,23 @@ The Regulations come into force on 1st December 1996 and in Part III—
 
 [^f00008]: Footnote: S.I. [1995/3297](https://www.legislation.gov.uk/uksi/1995/3297).
 
-[^key-eb2732fae1ed9c2358375fe9fc49c08a]: Commencement: Reg. 4 in force at 1.12.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/1/2)
+[^c-eb2732fae1ed9c2358375fe9fc49c08a]: Commencement: Reg. 4 in force at 1.12.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/1/2)
 
 [^f00009]: Footnote: [1988 c. 48](https://www.legislation.gov.uk/ukpga/1988/48).
 
-[^key-f1908794130b35f73081bf2129af33eb]: Commencement: Reg. 5 in force at 1.12.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/1/2)
+[^c-f1908794130b35f73081bf2129af33eb]: Commencement: Reg. 5 in force at 1.12.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/1/2)
 
-[^key-074a0db9165e773aa978f8d801681cce]: Commencement: Reg. 6 in force at 1.12.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/1/2)
+[^c-074a0db9165e773aa978f8d801681cce]: Commencement: Reg. 6 in force at 1.12.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/1/2)
 
-[^key-226311571f551c270e8a51850463c865]: Commencement: Reg. 7 in force at 1.12.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/1/2)
+[^c-226311571f551c270e8a51850463c865]: Commencement: Reg. 7 in force at 1.12.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/1/2)
 
-[^key-a997f0be81820d2f4055f0714264ece6]: Commencement: Reg. 8 in force at 1.12.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/1/2)
+[^c-a997f0be81820d2f4055f0714264ece6]: Commencement: Reg. 8 in force at 1.12.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/1/2)
 
-[^key-9e4c920503d22f01abb0af0725e2c6d7]: Commencement: Reg. 9 in force at 1.12.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/1/2)
+[^c-9e4c920503d22f01abb0af0725e2c6d7]: Commencement: Reg. 9 in force at 1.12.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/1/2)
 
-[^key-f262c1898441c77287da98126952f775]: Commencement: Reg. 10 in force at 1.12.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/1/2)
+[^c-f262c1898441c77287da98126952f775]: Commencement: Reg. 10 in force at 1.12.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/1/2)
 
-[^key-9edc29a30d480efab11a137cb662f8c7]: Commencement: Reg. 11 in force at 1.12.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/1/2)
+[^c-9edc29a30d480efab11a137cb662f8c7]: Commencement: Reg. 11 in force at 1.12.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/1/2)
 
 [^f00010]: Footnote: [1955 c. 27](https://www.legislation.gov.uk/ukpga/1955/27).
 
@@ -1518,78 +1518,78 @@ The Regulations come into force on 1st December 1996 and in Part III—
 
 [^f00013]: Footnote: [1988 c. 48](https://www.legislation.gov.uk/ukpga/1988/48).
 
-[^key-8d3a7b48cfae3fccbfcd8b36e3521047]: Commencement: Reg. 12 in force at 1.12.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/1/2)
+[^c-8d3a7b48cfae3fccbfcd8b36e3521047]: Commencement: Reg. 12 in force at 1.12.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/1/2)
 
-[^key-7287569bb7d871eb836dda4a74fc43f9]: Commencement: Reg. 13 in force at 1.12.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/1/2)
+[^c-7287569bb7d871eb836dda4a74fc43f9]: Commencement: Reg. 13 in force at 1.12.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/1/2)
 
-[^key-ca08c67a8e246a7231557bcc5e817426]: Commencement: Reg. 14 in force at 1.12.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/1/2)
+[^c-ca08c67a8e246a7231557bcc5e817426]: Commencement: Reg. 14 in force at 1.12.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/1/2)
 
-[^key-614086628dc447907900a606b2bfbdfb]: Commencement: Reg. 15 in force at 1.12.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/1/2)
+[^c-614086628dc447907900a606b2bfbdfb]: Commencement: Reg. 15 in force at 1.12.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/1/2)
 
-[^key-b26a574880221e14df74309ce034958c]: Commencement: Reg. 16 in force at 1.12.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/1/2)
+[^c-b26a574880221e14df74309ce034958c]: Commencement: Reg. 16 in force at 1.12.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/1/2)
 
-[^key-f1b49749385ecf9a259da25507e03c01]: Textual amendment: Words in [reg. 16(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/16/2) substituted (31.10.2003) by [The Copyright and Related Rights Regulations 2003 (S.I. 2003/2498)](https://www.legislation.gov.uk/uksi/2003/2498), [reg. 1](https://www.legislation.gov.uk/uksi/2003/2498/regulation/1), [Sch. 1 para. 27(a)](https://www.legislation.gov.uk/uksi/2003/2498/schedule/1/paragraph/27/a) (with [regs. 31-40](https://www.legislation.gov.uk/uksi/2003/2498/regulation/31))
+[^c-f1b49749385ecf9a259da25507e03c01]: Textual amendment: Words in [reg. 16(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/16/2) substituted (31.10.2003) by [The Copyright and Related Rights Regulations 2003 (S.I. 2003/2498)](https://www.legislation.gov.uk/uksi/2003/2498), [reg. 1](https://www.legislation.gov.uk/uksi/2003/2498/regulation/1), [Sch. 1 para. 27(a)](https://www.legislation.gov.uk/uksi/2003/2498/schedule/1/paragraph/27/a) (with [regs. 31-40](https://www.legislation.gov.uk/uksi/2003/2498/regulation/31))
 
-[^key-d7c5c347e420c11d212d2e93e4045f22]: Textual amendment: [Reg. 16(2)(e)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/16/2/e) substituted (31.10.2003) by [The Copyright and Related Rights Regulations 2003 (S.I. 2003/2498)](https://www.legislation.gov.uk/uksi/2003/2498), [reg. 1](https://www.legislation.gov.uk/uksi/2003/2498/regulation/1), [Sch. 1 para. 27(b)](https://www.legislation.gov.uk/uksi/2003/2498/schedule/1/paragraph/27/b) (with [regs. 31-40](https://www.legislation.gov.uk/uksi/2003/2498/regulation/31))
+[^c-d7c5c347e420c11d212d2e93e4045f22]: Textual amendment: [Reg. 16(2)(e)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/16/2/e) substituted (31.10.2003) by [The Copyright and Related Rights Regulations 2003 (S.I. 2003/2498)](https://www.legislation.gov.uk/uksi/2003/2498), [reg. 1](https://www.legislation.gov.uk/uksi/2003/2498/regulation/1), [Sch. 1 para. 27(b)](https://www.legislation.gov.uk/uksi/2003/2498/schedule/1/paragraph/27/b) (with [regs. 31-40](https://www.legislation.gov.uk/uksi/2003/2498/regulation/31))
 
-[^key-a388a838b9917db5f97f45cbe7a77114]: Textual amendment: Words in [reg. 16(4)(a)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/16/4/a) inserted (31.12.2020) by [The Intellectual Property (Copyright and Related Rights) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/605)](https://www.legislation.gov.uk/uksi/2019/605), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/1/2), [27(3)(a)](https://www.legislation.gov.uk/uksi/2019/605/regulation/27/3/a) (with [reg. 38](https://www.legislation.gov.uk/uksi/2019/605/regulation/38)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1050/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a388a838b9917db5f97f45cbe7a77114]: Textual amendment: Words in [reg. 16(4)(a)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/16/4/a) inserted (31.12.2020) by [The Intellectual Property (Copyright and Related Rights) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/605)](https://www.legislation.gov.uk/uksi/2019/605), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/1/2), [27(3)(a)](https://www.legislation.gov.uk/uksi/2019/605/regulation/27/3/a) (with [reg. 38](https://www.legislation.gov.uk/uksi/2019/605/regulation/38)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1050/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2e90af0662e4628d2e856100c4dfbc04]: Textual amendment: Words in [reg. 16(4)(b)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/16/4/b) inserted (31.12.2020) by [The Intellectual Property (Copyright and Related Rights) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/605)](https://www.legislation.gov.uk/uksi/2019/605), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/1/2), [27(3)(b)](https://www.legislation.gov.uk/uksi/2019/605/regulation/27/3/b) (with [reg. 38](https://www.legislation.gov.uk/uksi/2019/605/regulation/38)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1050/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2e90af0662e4628d2e856100c4dfbc04]: Textual amendment: Words in [reg. 16(4)(b)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/16/4/b) inserted (31.12.2020) by [The Intellectual Property (Copyright and Related Rights) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/605)](https://www.legislation.gov.uk/uksi/2019/605), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/1/2), [27(3)(b)](https://www.legislation.gov.uk/uksi/2019/605/regulation/27/3/b) (with [reg. 38](https://www.legislation.gov.uk/uksi/2019/605/regulation/38)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1050/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b807fbe50f28bf290d3bfab5ae5149bf]: Textual amendment: Words in [reg. 16(4)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/16/4) inserted (31.12.2020) by [The Intellectual Property (Copyright and Related Rights) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/605)](https://www.legislation.gov.uk/uksi/2019/605), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/1/2), [27(3)(c)](https://www.legislation.gov.uk/uksi/2019/605/regulation/27/3/c) (with [reg. 38](https://www.legislation.gov.uk/uksi/2019/605/regulation/38)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1050/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b807fbe50f28bf290d3bfab5ae5149bf]: Textual amendment: Words in [reg. 16(4)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/16/4) inserted (31.12.2020) by [The Intellectual Property (Copyright and Related Rights) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/605)](https://www.legislation.gov.uk/uksi/2019/605), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/1/2), [27(3)(c)](https://www.legislation.gov.uk/uksi/2019/605/regulation/27/3/c) (with [reg. 38](https://www.legislation.gov.uk/uksi/2019/605/regulation/38)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1050/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e7fd17370892a50f831c2aba8748fa99]: Textual amendment: Words in [reg. 16(7)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/16/7) inserted (29.4.2006) by [The Intellectual Property (Enforcement, etc.) Regulations 2006 (S.I. 2006/1028)](https://www.legislation.gov.uk/uksi/2006/1028), [reg. 1](https://www.legislation.gov.uk/uksi/2006/1028/regulation/1), [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2006/1028/schedule/3/paragraph/4)
+[^c-e7fd17370892a50f831c2aba8748fa99]: Textual amendment: Words in [reg. 16(7)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/16/7) inserted (29.4.2006) by [The Intellectual Property (Enforcement, etc.) Regulations 2006 (S.I. 2006/1028)](https://www.legislation.gov.uk/uksi/2006/1028), [reg. 1](https://www.legislation.gov.uk/uksi/2006/1028/regulation/1), [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2006/1028/schedule/3/paragraph/4)
 
-[^key-b864d0f03ab8c922ff861842803c2c59]: Commencement: Reg. 17 in force at 1.12.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/1/2)
+[^c-b864d0f03ab8c922ff861842803c2c59]: Commencement: Reg. 17 in force at 1.12.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/1/2)
 
 [^f00014]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-cf998eabf03d8fec200f0efcd5ceadd7]: Textual amendment: [Regs. 17A](https://www.legislation.gov.uk/uksi/1996/2967/regulation/17A), [17B](https://www.legislation.gov.uk/uksi/1996/2967/regulation/17B) inserted (29.4.2006) by [The Intellectual Property (Enforcement, etc.) Regulations 2006 (S.I. 2006/1028)](https://www.legislation.gov.uk/uksi/2006/1028), [reg. 1](https://www.legislation.gov.uk/uksi/2006/1028/regulation/1), [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2006/1028/schedule/3/paragraph/5)
+[^c-cf998eabf03d8fec200f0efcd5ceadd7]: Textual amendment: [Regs. 17A](https://www.legislation.gov.uk/uksi/1996/2967/regulation/17A), [17B](https://www.legislation.gov.uk/uksi/1996/2967/regulation/17B) inserted (29.4.2006) by [The Intellectual Property (Enforcement, etc.) Regulations 2006 (S.I. 2006/1028)](https://www.legislation.gov.uk/uksi/2006/1028), [reg. 1](https://www.legislation.gov.uk/uksi/2006/1028/regulation/1), [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2006/1028/schedule/3/paragraph/5)
 
-[^key-7b6c84a1cbf5e493f3e97bfe43b239ea]: Commencement: Reg. 18 in force at 1.12.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/1/2)
+[^c-7b6c84a1cbf5e493f3e97bfe43b239ea]: Commencement: Reg. 18 in force at 1.12.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/1/2)
 
-[^key-282a2a7a1cf269016bcca4298eef2da9]: Commencement: Reg. 19 in force at 1.12.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/1/2)
+[^c-282a2a7a1cf269016bcca4298eef2da9]: Commencement: Reg. 19 in force at 1.12.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/1/2)
 
 [^f00015]: Footnote: S.I. [1995/3297](https://www.legislation.gov.uk/uksi/1995/3297).
 
-[^key-f34011d102c8f30b24d2b1bc96aa45fd]: Commencement: Reg. 20 in force at 1.12.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/1/2)
+[^c-f34011d102c8f30b24d2b1bc96aa45fd]: Commencement: Reg. 20 in force at 1.12.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/1/2)
 
-[^key-19b74d2a26330bd658fbc9b5b3a7fed0]: Commencement: Reg. 21 in force at 1.12.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/1/2)
+[^c-19b74d2a26330bd658fbc9b5b3a7fed0]: Commencement: Reg. 21 in force at 1.12.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/1/2)
 
-[^key-4d201c12579ceda0371eadd8a43ee3d2]: Commencement: Reg. 22 in force at 1.12.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/1/2)
+[^c-4d201c12579ceda0371eadd8a43ee3d2]: Commencement: Reg. 22 in force at 1.12.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/1/2)
 
-[^key-b44b3a912183ce055890dab6294025ea]: Commencement: Reg. 23 in force at 1.12.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/1/2)
+[^c-b44b3a912183ce055890dab6294025ea]: Commencement: Reg. 23 in force at 1.12.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/1/2)
 
-[^key-d5b999da43c23812e8675215f9038eed]: Commencement: Reg. 24 in force at 1.12.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/1/2)
+[^c-d5b999da43c23812e8675215f9038eed]: Commencement: Reg. 24 in force at 1.12.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/1/2)
 
-[^key-b82396fc87f2298f0fa1dadba3fc9b40]: Commencement: Reg. 25 in force at 1.12.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/1/2)
+[^c-b82396fc87f2298f0fa1dadba3fc9b40]: Commencement: Reg. 25 in force at 1.12.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/1/2)
 
 [^f00016]: Footnote: [1988 c. 48](https://www.legislation.gov.uk/ukpga/1988/48).
 
-[^key-7f56e4d36d51a886c6a44b341a71eba8]: Commencement: Reg. 26 in force at 1.12.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/1/2)
+[^c-7f56e4d36d51a886c6a44b341a71eba8]: Commencement: Reg. 26 in force at 1.12.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/1/2)
 
-[^key-430a6e34cbb32c980f3d25aca028e0ec]: Commencement: Reg. 27 in force at 1.12.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/1/2)
+[^c-430a6e34cbb32c980f3d25aca028e0ec]: Commencement: Reg. 27 in force at 1.12.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/1/2)
 
-[^key-176d3729fd5fd8347abc096186abfcd4]: Commencement: Reg. 28 in force at 1.12.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/1/2)
+[^c-176d3729fd5fd8347abc096186abfcd4]: Commencement: Reg. 28 in force at 1.12.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/1/2)
 
-[^key-d69762dcf3a746dfb57a827523d75998]: Commencement: Reg. 29 in force at 1.12.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/1/2)
+[^c-d69762dcf3a746dfb57a827523d75998]: Commencement: Reg. 29 in force at 1.12.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/1/2)
 
-[^key-aa8c101e7b3d775173fc8dff409abe6b]: Textual amendment: Words in [reg. 29(1)(a)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/29/1/a) inserted (31.12.2020) by [The Intellectual Property (Copyright and Related Rights) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/605)](https://www.legislation.gov.uk/uksi/2019/605), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/1/2), [27(4)](https://www.legislation.gov.uk/uksi/2019/605/regulation/27/4) (with [reg. 38](https://www.legislation.gov.uk/uksi/2019/605/regulation/38)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1050/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-aa8c101e7b3d775173fc8dff409abe6b]: Textual amendment: Words in [reg. 29(1)(a)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/29/1/a) inserted (31.12.2020) by [The Intellectual Property (Copyright and Related Rights) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/605)](https://www.legislation.gov.uk/uksi/2019/605), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/1/2), [27(4)](https://www.legislation.gov.uk/uksi/2019/605/regulation/27/4) (with [reg. 38](https://www.legislation.gov.uk/uksi/2019/605/regulation/38)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1050/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7a4620897944690681d26d2a77a788a1]: Commencement: Reg. 30 in force at 1.12.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/1/2)
+[^c-7a4620897944690681d26d2a77a788a1]: Commencement: Reg. 30 in force at 1.12.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/1/2)
 
-[^key-c734064180993604fdbd312cc7771755]: Commencement: Reg. 31 in force at 1.12.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/1/2)
+[^c-c734064180993604fdbd312cc7771755]: Commencement: Reg. 31 in force at 1.12.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/1/2)
 
-[^key-e8434283f127e1119b21faeca386533b]: Commencement: Reg. 32 in force at 1.12.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/1/2)
+[^c-e8434283f127e1119b21faeca386533b]: Commencement: Reg. 32 in force at 1.12.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/1/2)
 
-[^key-d68e470c3f7eec74a047f83479db76a5]: Commencement: Reg. 33 in force at 1.12.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/1/2)
+[^c-d68e470c3f7eec74a047f83479db76a5]: Commencement: Reg. 33 in force at 1.12.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/1/2)
 
-[^key-7e625fc5fb9841b05d831e64a51d498f]: Commencement: Reg. 34 in force at 1.12.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/1/2)
+[^c-7e625fc5fb9841b05d831e64a51d498f]: Commencement: Reg. 34 in force at 1.12.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/1/2)
 
-[^key-3dab09bde7b96a239630ee79340c92d4]: Commencement: Reg. 35 in force at 1.12.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/1/2)
+[^c-3dab09bde7b96a239630ee79340c92d4]: Commencement: Reg. 35 in force at 1.12.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/1/2)
 
 [^f00017]: Footnote: [1988 c. 48](https://www.legislation.gov.uk/ukpga/1988/48).
 
 [^f00018]: Footnote: S.I. [1989/1212](https://www.legislation.gov.uk/uksi/1989/1212).
 
-[^key-b12bb292a14fb17da5d5c91e061431f8]: Commencement: Reg. 36 in force at 1.12.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/1/2)
+[^c-b12bb292a14fb17da5d5c91e061431f8]: Commencement: Reg. 36 in force at 1.12.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/1/2)

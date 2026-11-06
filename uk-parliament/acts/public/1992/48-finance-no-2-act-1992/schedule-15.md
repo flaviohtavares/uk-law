@@ -65,7 +65,7 @@ Section 74.
 - (c) in the definition of “land", after the words “United Kingdom" there shall be inserted “ or another country ”; and
 - (d) in the definition of “production purposes" after the words “United Kingdom", in the last place where they occur, there shall be inserted “ or another country ”.
 
-**4.** (1)[^key-f5ccf796f0f3ea707d3ce08fc79de7ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.** (1)[^c-f5ccf796f0f3ea707d3ce08fc79de7ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In paragraph 7 of that Schedule (exclusion of off-shore oil in transit to place of first landing in United Kingdom)—
 
@@ -102,7 +102,7 @@ Section 74.
 
 [^c13521521]: Marginal citation: [1975 c. 22](https://www.legislation.gov.uk/ukpga/1975/22).
 
-[^key-f5ccf796f0f3ea707d3ce08fc79de7ec]: Textual amendment: [Sch. 15 para. 4(1)](https://www.legislation.gov.uk/ukpga/1992/48/schedule/15/paragraph/4/1) repealed (19.7.2006) (with effect in accordance with Sch. 26 Pt. 5(1) Note 2 of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 5(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/5/1)
+[^c-f5ccf796f0f3ea707d3ce08fc79de7ec]: Textual amendment: [Sch. 15 para. 4(1)](https://www.legislation.gov.uk/ukpga/1992/48/schedule/15/paragraph/4/1) repealed (19.7.2006) (with effect in accordance with Sch. 26 Pt. 5(1) Note 2 of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 5(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/5/1)
 
 [^c13521531]: Marginal citation: [1982 c. 39](https://www.legislation.gov.uk/ukpga/1982/39).
 

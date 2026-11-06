@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Foreign travel restriction orders[^key-6fe413e7b8073f8242011dfb8dbed5de]
+## 58. Foreign travel restriction orders[^c-6fe413e7b8073f8242011dfb8dbed5de]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ Schedule 5 makes provision for foreign travel restriction orders prohibiting per
 
 ## Annotations
 
-[^key-6fe413e7b8073f8242011dfb8dbed5de]: Commencement: S. 58 in force at 1.10.2009 by [S.I. 2009/1493](https://www.legislation.gov.uk/uksi/2009/1493), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/1493/article/2/a)
+[^c-6fe413e7b8073f8242011dfb8dbed5de]: Commencement: S. 58 in force at 1.10.2009 by [S.I. 2009/1493](https://www.legislation.gov.uk/uksi/2009/1493), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/1493/article/2/a)

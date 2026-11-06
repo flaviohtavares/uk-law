@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 34A. Annual report on emissions reduction[^key-4d7f4cd14429ed6dcccf20adf0c558aa]
+## 34A. Annual report on emissions reduction[^c-4d7f4cd14429ed6dcccf20adf0c558aa]
 
 *Extent: S*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4d7f4cd14429ed6dcccf20adf0c558aa]: Textual amendment: [S. 34A](https://www.legislation.gov.uk/asp/2009/12/section/34A) inserted (23.11.2024) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15)](https://www.legislation.gov.uk/asp/2024/15), [ss. 2(17)](https://www.legislation.gov.uk/asp/2024/15/section/2/17), [15](https://www.legislation.gov.uk/asp/2024/15/section/15)
+[^c-4d7f4cd14429ed6dcccf20adf0c558aa]: Textual amendment: [S. 34A](https://www.legislation.gov.uk/asp/2009/12/section/34A) inserted (23.11.2024) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15)](https://www.legislation.gov.uk/asp/2024/15), [ss. 2(17)](https://www.legislation.gov.uk/asp/2024/15/section/2/17), [15](https://www.legislation.gov.uk/asp/2024/15/section/15)

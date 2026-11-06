@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 39
 
-[^key-2c00006ba53610bcb80aa5a538a2a6ba]...
+[^c-2c00006ba53610bcb80aa5a538a2a6ba]...
 
 ### PART 1 — GENERAL REQUIREMENTS
 
@@ -46,7 +46,7 @@ Regulation 39
 - (h) The suitability of the civil explosive for use in hazardous environments (e.g. firedamp atmospheres, hot masses, etc.) if it is intended to be used under such conditions.
 - (i) Safety features intended to prevent untimely or inadvertent initiation or ignition.
 - (j) The correct loading and functioning of the civil explosive when used for its intended purpose.
-- (k) Suitable instructions and, where necessary, markings in respect of safe handling, storage, use and disposal[^key-cdcec97f07f96ec8a3a2a339b04304f0]....
+- (k) Suitable instructions and, where necessary, markings in respect of safe handling, storage, use and disposal[^c-cdcec97f07f96ec8a3a2a339b04304f0]....
 - (l) The ability of the civil explosive, its wrapping or other components to withstand deterioration during storage until the “use by” date specified by the manufacturer.
 - (m) Specification of all devices and accessories needed for reliable and safe functioning of the civil explosive.
 
@@ -57,7 +57,7 @@ Regulation 39
   - (ii) Blasting explosives in cartridge form must transmit the detonation safely and reliably from one end of the train of cartridges to the other.
   - (iii) The fumes produced by blasting explosives intended for underground use may contain carbon monoxide, nitrous gases, other gases, vapours or airborne solid residues only in quantities which do not impair health under normal operating conditions.
 - (b) Detonating cords, safety fuses, other fuses and shock tubes
-  - (i) The covering of detonating cords, safety fuses, other fuses and shock tubes[^key-401f3761c536ef287f85328d0ce01ee9] must be of adequate mechanical strength and adequately protect the explosive filling when exposed to normal mechanical stress.
+  - (i) The covering of detonating cords, safety fuses, other fuses and shock tubes[^c-401f3761c536ef287f85328d0ce01ee9] must be of adequate mechanical strength and adequately protect the explosive filling when exposed to normal mechanical stress.
   - (ii) The parameters for the burning times of safety fuses must be indicated and must be reliably set.
   - (iii) Detonating cords must be capable of being reliably initiated, be of sufficient initiation capability and comply with requirements as regards storage even in particular climatic conditions.
 - (c) Detonators (including delay detonators) and relays
@@ -74,8 +74,8 @@ Regulation 39
 
 ## Annotations
 
-[^key-2c00006ba53610bcb80aa5a538a2a6ba]: Textual amendment: Words in [Sch. 9](https://www.legislation.gov.uk/uksi/2014/1638/schedule/9) omitted (31.12.2020) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 16 para. 31](https://www.legislation.gov.uk/uksi/2019/696/schedule/16/paragraph/31) (with [Sch. 16 para. 29](https://www.legislation.gov.uk/uksi/2019/696/schedule/16/paragraph/29)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2c00006ba53610bcb80aa5a538a2a6ba]: Textual amendment: Words in [Sch. 9](https://www.legislation.gov.uk/uksi/2014/1638/schedule/9) omitted (31.12.2020) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 16 para. 31](https://www.legislation.gov.uk/uksi/2019/696/schedule/16/paragraph/31) (with [Sch. 16 para. 29](https://www.legislation.gov.uk/uksi/2019/696/schedule/16/paragraph/29)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-cdcec97f07f96ec8a3a2a339b04304f0]: Textual amendment: Words in Sch. 9 para. 4(k) omitted (20.4.2016) by virtue of [The Explosives Regulations 2014 (Amendment) Regulations 2016 (S.I. 2016/315)](https://www.legislation.gov.uk/uksi/2016/315), [regs. 1](https://www.legislation.gov.uk/uksi/2016/315/regulation/1), [10(b)](https://www.legislation.gov.uk/uksi/2016/315/regulation/10/b) (with [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/315/regulation/2/1), [15](https://www.legislation.gov.uk/uksi/2016/315/regulation/15))
+[^c-cdcec97f07f96ec8a3a2a339b04304f0]: Textual amendment: Words in Sch. 9 para. 4(k) omitted (20.4.2016) by virtue of [The Explosives Regulations 2014 (Amendment) Regulations 2016 (S.I. 2016/315)](https://www.legislation.gov.uk/uksi/2016/315), [regs. 1](https://www.legislation.gov.uk/uksi/2016/315/regulation/1), [10(b)](https://www.legislation.gov.uk/uksi/2016/315/regulation/10/b) (with [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/315/regulation/2/1), [15](https://www.legislation.gov.uk/uksi/2016/315/regulation/15))
 
-[^key-401f3761c536ef287f85328d0ce01ee9]: Textual amendment: Words in Sch. 9 para. 5(b)(i) substituted (20.4.2016) by [The Explosives Regulations 2014 (Amendment) Regulations 2016 (S.I. 2016/315)](https://www.legislation.gov.uk/uksi/2016/315), [regs. 1](https://www.legislation.gov.uk/uksi/2016/315/regulation/1), [10(c)](https://www.legislation.gov.uk/uksi/2016/315/regulation/10/c) (with [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/315/regulation/2/1), [15](https://www.legislation.gov.uk/uksi/2016/315/regulation/15))
+[^c-401f3761c536ef287f85328d0ce01ee9]: Textual amendment: Words in Sch. 9 para. 5(b)(i) substituted (20.4.2016) by [The Explosives Regulations 2014 (Amendment) Regulations 2016 (S.I. 2016/315)](https://www.legislation.gov.uk/uksi/2016/315), [regs. 1](https://www.legislation.gov.uk/uksi/2016/315/regulation/1), [10(c)](https://www.legislation.gov.uk/uksi/2016/315/regulation/10/c) (with [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/315/regulation/2/1), [15](https://www.legislation.gov.uk/uksi/2016/315/regulation/15))

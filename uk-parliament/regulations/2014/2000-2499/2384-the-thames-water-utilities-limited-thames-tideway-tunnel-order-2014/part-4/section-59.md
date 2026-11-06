@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 59. Other legislation in the City of London[^key-f055b5cc9b2e5d1f1c88d93854701063]
+## 59. Other legislation in the City of London[^c-f055b5cc9b2e5d1f1c88d93854701063]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ If and to the extent that the relocated stairs specified in Work No. 17b(viii) i
 
 ## Annotations
 
-[^key-f055b5cc9b2e5d1f1c88d93854701063]: Commencement: Art. 59 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-f055b5cc9b2e5d1f1c88d93854701063]: Commencement: Art. 59 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
 
 [^f00035]: Footnote: [1863 c. 59](https://www.legislation.gov.uk/ukpga/1863/59).

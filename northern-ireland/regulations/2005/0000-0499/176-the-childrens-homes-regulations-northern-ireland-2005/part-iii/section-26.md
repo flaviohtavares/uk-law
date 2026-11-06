@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 26. Employment of staff[^key-3c767bdc8fd7c8e39568c60b05edaa1d]
+## 26. Employment of staff[^c-3c767bdc8fd7c8e39568c60b05edaa1d]
 
 *Extent: N.I.*
 
@@ -30,7 +30,7 @@ summary: ''
 - (a) provides for the suspension of an employee where necessary in the interests of the safety or welfare of children accommodated in the home; and
 - (b) provides that the failure on the part of an employee to report an incident of abuse, or suspected abuse, of a child accommodated in the home to an appropriate person is a ground on which disciplinary proceedings may be instituted.
 
-(3) For the purposes of paragraph (2)(b), an appropriate person is the registered person, an officer of the RQIA[^key-4ca5e5950155e725f54604a422e453f9] or of the HSS trust in whose area the home is situated, or a police officer.
+(3) For the purposes of paragraph (2)(b), an appropriate person is the registered person, an officer of the RQIA[^c-4ca5e5950155e725f54604a422e453f9] or of the HSS trust in whose area the home is situated, or a police officer.
 
 (4) The registered person shall ensure that all persons employed by him –
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3c767bdc8fd7c8e39568c60b05edaa1d]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2005/176/regulation/26) in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/176/regulation/1)
+[^c-3c767bdc8fd7c8e39568c60b05edaa1d]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2005/176/regulation/26) in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/176/regulation/1)
 
-[^key-4ca5e5950155e725f54604a422e453f9]: Textual amendment: Words in Regulation substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/a) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))
+[^c-4ca5e5950155e725f54604a422e453f9]: Textual amendment: Words in Regulation substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/a) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Commencement, extent and short title[^c24230981][^key-f2ea14ec7349cdb93980975801267ad9]
+## 5. Commencement, extent and short title[^c24230981][^c-f2ea14ec7349cdb93980975801267ad9]
 
 *Extent: E+W*
 
@@ -65,4 +65,4 @@ is passed consolidating the whole or a substantial part of the Acts relating to 
 
 [^c24230981]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2020/9/section/5) in force for specified purposes at Royal Assent, see. [s. 5(1)-(3)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/1)
 
-[^key-f2ea14ec7349cdb93980975801267ad9]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2020/9/section/5) in force at 1.12.2020 in so far as not already in force immediately before "the consolidation date" by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-f2ea14ec7349cdb93980975801267ad9]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2020/9/section/5) in force at 1.12.2020 in so far as not already in force immediately before "the consolidation date" by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

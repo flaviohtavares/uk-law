@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 93G. Commencement notices[^key-bf61c00b9d46571e5ff08057be42deb6]
+## 93G. Commencement notices[^c-bf61c00b9d46571e5ff08057be42deb6]
 
 *Extent: E+W*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bf61c00b9d46571e5ff08057be42deb6]: Textual amendment: [S. 93G](https://www.legislation.gov.uk/ukpga/1990/8/section/93G) and cross-heading inserted (31.3.2024 for specified purposes) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 111(2)](https://www.legislation.gov.uk/ukpga/2023/55/section/111/2), [255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/g)
+[^c-bf61c00b9d46571e5ff08057be42deb6]: Textual amendment: [S. 93G](https://www.legislation.gov.uk/ukpga/1990/8/section/93G) and cross-heading inserted (31.3.2024 for specified purposes) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 111(2)](https://www.legislation.gov.uk/ukpga/2023/55/section/111/2), [255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/g)

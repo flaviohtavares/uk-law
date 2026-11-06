@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Withdrawal of children from school: local authority involvement[^key-d3159436a9c022ef59e189985489075f]
+## 37. Withdrawal of children from school: local authority involvement[^c-d3159436a9c022ef59e189985489075f]
 
 *Extent: E+W*
 
@@ -166,4 +166,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d3159436a9c022ef59e189985489075f]: Commencement: S. 37 in force at Royal Assent for specified purposes, see [s. 78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)(5)
+[^c-d3159436a9c022ef59e189985489075f]: Commencement: S. 37 in force at Royal Assent for specified purposes, see [s. 78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)(5)

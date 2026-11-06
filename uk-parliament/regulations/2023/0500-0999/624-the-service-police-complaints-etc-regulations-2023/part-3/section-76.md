@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Records to be kept by the Defence Council, Boards and Provost Marshals[^key-8387b33ac4af10c67d1efa72fd50c033]
+## 76. Records to be kept by the Defence Council, Boards and Provost Marshals[^c-8387b33ac4af10c67d1efa72fd50c033]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ The Defence Council, the Boards, the Provost Marshals for each service police fo
 
 ## Annotations
 
-[^key-8387b33ac4af10c67d1efa72fd50c033]: Commencement: Reg. 76 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-8387b33ac4af10c67d1efa72fd50c033]: Commencement: Reg. 76 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

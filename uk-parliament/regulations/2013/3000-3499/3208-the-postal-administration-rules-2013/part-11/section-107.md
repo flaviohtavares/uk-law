@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 107. Proceedings commenced in wrong court[^key-43619b053874754b1f4dc6575e563496]
+## 107. Proceedings commenced in wrong court[^c-43619b053874754b1f4dc6575e563496]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ Where postal administration proceedings are commenced in a court which is, in re
 
 ## Annotations
 
-[^key-43619b053874754b1f4dc6575e563496]: Commencement: [Rule 107](https://www.legislation.gov.uk/uksi/2013/3208/rule/107) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-43619b053874754b1f4dc6575e563496]: Commencement: [Rule 107](https://www.legislation.gov.uk/uksi/2013/3208/rule/107) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

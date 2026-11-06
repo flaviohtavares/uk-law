@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 3E. Sustainable development[^key-641dcf2ae000d5cb40b362b1a114a475]
+## 3E. Sustainable development[^c-641dcf2ae000d5cb40b362b1a114a475]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-641dcf2ae000d5cb40b362b1a114a475]: Textual amendment: [S. 3E](https://www.legislation.gov.uk/ukpga/1997/8/section/3E) repealed (8.11.2019) by [Planning (Scotland) Act 2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), [ss. 1(3)](https://www.legislation.gov.uk/asp/2019/13/section/1/3), [63(2)](https://www.legislation.gov.uk/asp/2019/13/section/63/2); [S.S.I. 2019/314](https://www.legislation.gov.uk/ssi/2019/314), [reg. 2](https://www.legislation.gov.uk/ssi/2019/314/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/314/schedule)
+[^c-641dcf2ae000d5cb40b362b1a114a475]: Textual amendment: [S. 3E](https://www.legislation.gov.uk/ukpga/1997/8/section/3E) repealed (8.11.2019) by [Planning (Scotland) Act 2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), [ss. 1(3)](https://www.legislation.gov.uk/asp/2019/13/section/1/3), [63(2)](https://www.legislation.gov.uk/asp/2019/13/section/63/2); [S.S.I. 2019/314](https://www.legislation.gov.uk/ssi/2019/314), [reg. 2](https://www.legislation.gov.uk/ssi/2019/314/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/314/schedule)

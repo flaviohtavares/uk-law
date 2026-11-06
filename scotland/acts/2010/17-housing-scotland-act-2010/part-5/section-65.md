@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 65. Appointment of new officers[^key-cc9ef298471bd6822c9e3a10acc2aa3b]
+## 65. Appointment of new officers[^c-cc9ef298471bd6822c9e3a10acc2aa3b]
 
 *Extent: S*
 
@@ -27,15 +27,15 @@ summary: ''
 - (c) where—
   - (i) the registered social landlord has an insufficient number of officers to be able to appoint an officer under its constitution, and
   - (ii) the constitution does not provide a mechanism for appointing an officer in such circumstances, or
-- (d) if the Regulator considers that an additional officer is needed to rectify a failure by the registered social landlord to comply with—[^key-ae41f1354d93eae36b0e867bde637508]
+- (d) if the Regulator considers that an additional officer is needed to rectify a failure by the registered social landlord to comply with—[^c-ae41f1354d93eae36b0e867bde637508]
 - (i) a duty imposed by this Act or by any other enactment, or
 - (ii) a requirement imposed on the landlord by the Regulator under this Act or any other enactment,
 
 relating to its financial or other affairs.
 
-(2) It is for the Regulator to determine the terms on which an officer is appointed (including , subject to subsection (2A),[^key-fd0ef28533f693504e843359ee144a10] as to period of appointment and remuneration and expenses).
+(2) It is for the Regulator to determine the terms on which an officer is appointed (including , subject to subsection (2A),[^c-fd0ef28533f693504e843359ee144a10] as to period of appointment and remuneration and expenses).
 
-(2A)[^key-d3ebe25aaa29c959c8415001107c8933] Where the officer is appointed by virtue of subsection (1)(d) to rectify a failure to comply with a duty or requirement, the appointment is to be only for so long as is necessary to so rectify the failure.
+(2A)[^c-d3ebe25aaa29c959c8415001107c8933] Where the officer is appointed by virtue of subsection (1)(d) to rectify a failure to comply with a duty or requirement, the appointment is to be only for so long as is necessary to so rectify the failure.
 
 (3) The Regulator may require the registered social landlord to purchase and maintain personal indemnity insurance approved by the Regulator for the officer appointed.
 
@@ -45,9 +45,9 @@ relating to its financial or other affairs.
 - (b) prohibited by section 234(3) of the Companies Act 2006 (c.46), or
 - (c) which would be prohibited if the registered social landlord was a registered company or a charity.
 
-(4) Subject to subsection (4A), the[^key-b776b5ba1809fd16ac6553df8426d934] Regulator may renew the appointment of an officer on expiry of any period of appointment so determined.
+(4) Subject to subsection (4A), the[^c-b776b5ba1809fd16ac6553df8426d934] Regulator may renew the appointment of an officer on expiry of any period of appointment so determined.
 
-(4A)[^key-a79fcd025ce065efac2d19320430a2ad] Where the officer was appointed by virtue of subsection (1)(d), subsection (2A) applies to the renewal of the appointment as it applies to the appointment.
+(4A)[^c-a79fcd025ce065efac2d19320430a2ad] Where the officer was appointed by virtue of subsection (1)(d), subsection (2A) applies to the renewal of the appointment as it applies to the appointment.
 
 (5) It is for the registered social landlord to pay the appointed officer's remuneration and expenses.
 
@@ -62,14 +62,14 @@ relating to its financial or other affairs.
 
 ## Annotations
 
-[^key-cc9ef298471bd6822c9e3a10acc2aa3b]: Commencement: S. 65 in force at 1.4.2012 by [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2))
+[^c-cc9ef298471bd6822c9e3a10acc2aa3b]: Commencement: S. 65 in force at 1.4.2012 by [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2))
 
-[^key-ae41f1354d93eae36b0e867bde637508]: Textual amendment: Words in s. 65(1)(d) substituted (8.3.2019) by [Housing (Amendment) (Scotland) Act 2018 (asp 13)](https://www.legislation.gov.uk/asp/2018/13), [ss. 2(6)(a)](https://www.legislation.gov.uk/asp/2018/13/section/2/6/a), [11(2)](https://www.legislation.gov.uk/asp/2018/13/section/11/2); [S.S.I. 2018/253](https://www.legislation.gov.uk/ssi/2018/253), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2018/253/regulation/2/2)
+[^c-ae41f1354d93eae36b0e867bde637508]: Textual amendment: Words in s. 65(1)(d) substituted (8.3.2019) by [Housing (Amendment) (Scotland) Act 2018 (asp 13)](https://www.legislation.gov.uk/asp/2018/13), [ss. 2(6)(a)](https://www.legislation.gov.uk/asp/2018/13/section/2/6/a), [11(2)](https://www.legislation.gov.uk/asp/2018/13/section/11/2); [S.S.I. 2018/253](https://www.legislation.gov.uk/ssi/2018/253), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2018/253/regulation/2/2)
 
-[^key-fd0ef28533f693504e843359ee144a10]: Textual amendment: Words in s. 65(2) inserted (8.3.2019) by [Housing (Amendment) (Scotland) Act 2018 (asp 13)](https://www.legislation.gov.uk/asp/2018/13), [ss. 2(6)(b)](https://www.legislation.gov.uk/asp/2018/13/section/2/6/b), [11(2)](https://www.legislation.gov.uk/asp/2018/13/section/11/2); [S.S.I. 2018/253](https://www.legislation.gov.uk/ssi/2018/253), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2018/253/regulation/2/2)
+[^c-fd0ef28533f693504e843359ee144a10]: Textual amendment: Words in s. 65(2) inserted (8.3.2019) by [Housing (Amendment) (Scotland) Act 2018 (asp 13)](https://www.legislation.gov.uk/asp/2018/13), [ss. 2(6)(b)](https://www.legislation.gov.uk/asp/2018/13/section/2/6/b), [11(2)](https://www.legislation.gov.uk/asp/2018/13/section/11/2); [S.S.I. 2018/253](https://www.legislation.gov.uk/ssi/2018/253), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2018/253/regulation/2/2)
 
-[^key-d3ebe25aaa29c959c8415001107c8933]: Textual amendment: S. 65(2A) inserted (8.3.2019) by [Housing (Amendment) (Scotland) Act 2018 (asp 13)](https://www.legislation.gov.uk/asp/2018/13), [ss. 2(6)(c)](https://www.legislation.gov.uk/asp/2018/13/section/2/6/c), [11(2)](https://www.legislation.gov.uk/asp/2018/13/section/11/2); [S.S.I. 2018/253](https://www.legislation.gov.uk/ssi/2018/253), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2018/253/regulation/2/2)
+[^c-d3ebe25aaa29c959c8415001107c8933]: Textual amendment: S. 65(2A) inserted (8.3.2019) by [Housing (Amendment) (Scotland) Act 2018 (asp 13)](https://www.legislation.gov.uk/asp/2018/13), [ss. 2(6)(c)](https://www.legislation.gov.uk/asp/2018/13/section/2/6/c), [11(2)](https://www.legislation.gov.uk/asp/2018/13/section/11/2); [S.S.I. 2018/253](https://www.legislation.gov.uk/ssi/2018/253), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2018/253/regulation/2/2)
 
-[^key-b776b5ba1809fd16ac6553df8426d934]: Textual amendment: Words in s. 65(4) substituted (8.3.2019) by [Housing (Amendment) (Scotland) Act 2018 (asp 13)](https://www.legislation.gov.uk/asp/2018/13), [ss. 2(6)(d)](https://www.legislation.gov.uk/asp/2018/13/section/2/6/d), [11(2)](https://www.legislation.gov.uk/asp/2018/13/section/11/2); [S.S.I. 2018/253](https://www.legislation.gov.uk/ssi/2018/253), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2018/253/regulation/2/2)
+[^c-b776b5ba1809fd16ac6553df8426d934]: Textual amendment: Words in s. 65(4) substituted (8.3.2019) by [Housing (Amendment) (Scotland) Act 2018 (asp 13)](https://www.legislation.gov.uk/asp/2018/13), [ss. 2(6)(d)](https://www.legislation.gov.uk/asp/2018/13/section/2/6/d), [11(2)](https://www.legislation.gov.uk/asp/2018/13/section/11/2); [S.S.I. 2018/253](https://www.legislation.gov.uk/ssi/2018/253), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2018/253/regulation/2/2)
 
-[^key-a79fcd025ce065efac2d19320430a2ad]: Textual amendment: S. 65(4A) inserted (8.3.2019) by [Housing (Amendment) (Scotland) Act 2018 (asp 13)](https://www.legislation.gov.uk/asp/2018/13), [ss. 2(6)(e)](https://www.legislation.gov.uk/asp/2018/13/section/2/6/e), [11(2)](https://www.legislation.gov.uk/asp/2018/13/section/11/2); [S.S.I. 2018/253](https://www.legislation.gov.uk/ssi/2018/253), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2018/253/regulation/2/2)
+[^c-a79fcd025ce065efac2d19320430a2ad]: Textual amendment: S. 65(4A) inserted (8.3.2019) by [Housing (Amendment) (Scotland) Act 2018 (asp 13)](https://www.legislation.gov.uk/asp/2018/13), [ss. 2(6)(e)](https://www.legislation.gov.uk/asp/2018/13/section/2/6/e), [11(2)](https://www.legislation.gov.uk/asp/2018/13/section/11/2); [S.S.I. 2018/253](https://www.legislation.gov.uk/ssi/2018/253), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2018/253/regulation/2/2)

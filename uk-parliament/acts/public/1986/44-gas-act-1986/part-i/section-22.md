@@ -20,15 +20,15 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1) The obligation to comply with any directions under section section 19[^c14415601][^key-5403165955047400d2227c74676ea31c]... or 21(1) above (in this section referred to as “**relevant directions**”) is a duty[^key-25640025a0a8d51d2251f68abf3006bb] owed to any person who may be affected by a contravention of them.
+(1) The obligation to comply with any directions under section section 19[^c14415601][^c-5403165955047400d2227c74676ea31c]... or 21(1) above (in this section referred to as “**relevant directions**”) is a duty[^c-25640025a0a8d51d2251f68abf3006bb] owed to any person who may be affected by a contravention of them.
 
 (2) Where a duty is owed by virtue of subsection (1) above to any person any breach of the duty which causes that person to sustain loss or damage shall be actionable at the suit or instance of that person.
 
-(3) In any proceedings brought against any person in pursuance of subsection (2) above, it shall be a defence for him to prove that he took all reasonable steps and exercised all due diligence to avoid contravening the relevant directions [^key-29dc554f14897267532265274696d824]....
+(3) In any proceedings brought against any person in pursuance of subsection (2) above, it shall be a defence for him to prove that he took all reasonable steps and exercised all due diligence to avoid contravening the relevant directions [^c-29dc554f14897267532265274696d824]....
 
 (4) Without prejudice to any right which any person may have by virtue of subsection (2) above to bring civil proceedings in respect of any contravention or apprehended contravention of any relevant directions, compliance with any such directions shall be enforceable by civil proceedings by the Director for an injunction or interdict or for any other appropriate relief.
 
-(5)[^key-000983ca198762f71cd907a15e644997] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-000983ca198762f71cd907a15e644997] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -38,10 +38,10 @@ summary: ''
 
 [^c14415601]: Textual amendment: Words in s. 22(1) substituted (10.8.2000) by [S.I. 2000/1937](https://www.legislation.gov.uk/uksi/2000/1937), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2000/1937/regulation/2/2), [Sch. 2 para. 2(a)](https://www.legislation.gov.uk/uksi/2000/1937/schedule/2/paragraph/2/a)
 
-[^key-5403165955047400d2227c74676ea31c]: Textual amendment: Words in s. 22(1) omitted (10.11.2011) by virtue of [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [37(2)(a)(i)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/37/2/a/i)
+[^c-5403165955047400d2227c74676ea31c]: Textual amendment: Words in s. 22(1) omitted (10.11.2011) by virtue of [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [37(2)(a)(i)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/37/2/a/i)
 
-[^key-25640025a0a8d51d2251f68abf3006bb]: Textual amendment: Words in s. 22(1) substituted (10.11.2011) by [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [37(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/37/2/a/ii)
+[^c-25640025a0a8d51d2251f68abf3006bb]: Textual amendment: Words in s. 22(1) substituted (10.11.2011) by [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [37(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/37/2/a/ii)
 
-[^key-29dc554f14897267532265274696d824]: Textual amendment: Words in s. 22(3) omitted (10.11.2011) by virtue of [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [37(2)(b)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/37/2/b)
+[^c-29dc554f14897267532265274696d824]: Textual amendment: Words in s. 22(3) omitted (10.11.2011) by virtue of [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [37(2)(b)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/37/2/b)
 
-[^key-000983ca198762f71cd907a15e644997]: Textual amendment: S. 22(5) omitted (10.11.2011) by virtue of [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [37(2)(c)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/37/2/c)
+[^c-000983ca198762f71cd907a15e644997]: Textual amendment: S. 22(5) omitted (10.11.2011) by virtue of [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [37(2)(c)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/37/2/c)

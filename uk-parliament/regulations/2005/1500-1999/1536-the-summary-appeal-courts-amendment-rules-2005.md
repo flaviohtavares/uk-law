@@ -32,7 +32,7 @@ summary: ''
 
 DEFENCE
 
-The Summary Appeal Courts (Amendment) Rules 2005 (revoked)[^key-180f2c51205b7ac7fedcbc5c10bb8a31]
+The Summary Appeal Courts (Amendment) Rules 2005 (revoked)[^c-180f2c51205b7ac7fedcbc5c10bb8a31]
 
 Made
 
@@ -46,27 +46,27 @@ Coming into force
 
 1 July 2005
 
-[^key-180f2c51205b7ac7fedcbc5c10bb8a31]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-180f2c51205b7ac7fedcbc5c10bb8a31]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-180f2c51205b7ac7fedcbc5c10bb8a31]
+## 1. Citation, commencement and interpretation[^c-180f2c51205b7ac7fedcbc5c10bb8a31]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Army Rules, the Air Force Rules and the Navy Rules[^key-180f2c51205b7ac7fedcbc5c10bb8a31]
+## 2. Amendments to the Army Rules, the Air Force Rules and the Navy Rules[^c-180f2c51205b7ac7fedcbc5c10bb8a31]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Forms relating to the admission of evidence of bad character[^key-180f2c51205b7ac7fedcbc5c10bb8a31]
+## 3. Forms relating to the admission of evidence of bad character[^c-180f2c51205b7ac7fedcbc5c10bb8a31]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-180f2c51205b7ac7fedcbc5c10bb8a31]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-180f2c51205b7ac7fedcbc5c10bb8a31]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1[^key-180f2c51205b7ac7fedcbc5c10bb8a31]
+## SCHEDULE 1[^c-180f2c51205b7ac7fedcbc5c10bb8a31]
 
 Rule 3
 
@@ -74,8 +74,8 @@ Rule 3
 
 **May not be in force at this date. Check the source.**
 
-[^key-180f2c51205b7ac7fedcbc5c10bb8a31]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-180f2c51205b7ac7fedcbc5c10bb8a31]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-180f2c51205b7ac7fedcbc5c10bb8a31]: Textual amendment: [Rules](https://www.legislation.gov.uk/uksi/2005/1536) revoked (31.10.2009) by [The Armed Forces (Summary Appeal Court) Rules 2009 (S.I. 2009/1211)](https://www.legislation.gov.uk/uksi/2009/1211), [rules 1](https://www.legislation.gov.uk/uksi/2009/1211/rule/1), [97](https://www.legislation.gov.uk/uksi/2009/1211/rule/97)
+[^c-180f2c51205b7ac7fedcbc5c10bb8a31]: Textual amendment: [Rules](https://www.legislation.gov.uk/uksi/2005/1536) revoked (31.10.2009) by [The Armed Forces (Summary Appeal Court) Rules 2009 (S.I. 2009/1211)](https://www.legislation.gov.uk/uksi/2009/1211), [rules 1](https://www.legislation.gov.uk/uksi/2009/1211/rule/1), [97](https://www.legislation.gov.uk/uksi/2009/1211/rule/97)

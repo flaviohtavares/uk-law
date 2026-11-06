@@ -45,11 +45,11 @@ Coming into force
 
 The Secretary of State for Transport, in exercise of the powers conferred by sections 54 and 61 of the Road Traffic Act 1988[^f00001] and of all other powers enabling him in that behalf, and after consultation in accordance with section 195(2) of that Act, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-f1c94d72d918cdde0e50fad05f0a02bc]
+## 1. Citation and commencement[^c-f1c94d72d918cdde0e50fad05f0a02bc]
 
 These Regulations may be cited as the Motor Vehicles (Type Approval for Goods Vehicles) (Great Britain) (Amendment) Regulations 2003 and shall come into force on 31st March 2003.
 
-## 2. Amendment of the Motor Vehicles (Type Approval for Goods Vehicles) (Great Britain) Regulations 1982[^key-c0405a7dfb759d25e97ff427862b3b95]
+## 2. Amendment of the Motor Vehicles (Type Approval for Goods Vehicles) (Great Britain) Regulations 1982[^c-c0405a7dfb759d25e97ff427862b3b95]
 
 In the Motor Vehicles (Type Approval for Goods Vehicles) (Great Britain) Regulations 1982[^f00002], in regulation 4 (application of type approval requirements) after paragraph (14) there shall be inserted—
 
@@ -75,8 +75,8 @@ These Regulations amend the Motor Vehicles (Type Approval for Goods Vehicles) (G
 
 [^f00001]: Footnote: [1988 c. 52](https://www.legislation.gov.uk/ukpga/1988/52); section 61 was amended by the Road Traffic Act [1991 (c. 40)](https://www.legislation.gov.uk/ukpga/1991/40), Schedule 8.
 
-[^key-f1c94d72d918cdde0e50fad05f0a02bc]: Commencement: Reg. 1 in force at 31.3.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/582/regulation/1)
+[^c-f1c94d72d918cdde0e50fad05f0a02bc]: Commencement: Reg. 1 in force at 31.3.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/582/regulation/1)
 
-[^key-c0405a7dfb759d25e97ff427862b3b95]: Commencement: Reg. 2 in force at 31.3.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/582/regulation/1)
+[^c-c0405a7dfb759d25e97ff427862b3b95]: Commencement: Reg. 2 in force at 31.3.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/582/regulation/1)
 
 [^f00002]: Footnote: S.I. [1982/1271](https://www.legislation.gov.uk/uksi/1982/1271); relevant amending instrument is S.I. [1989/1579](https://www.legislation.gov.uk/uksi/1989/1579).

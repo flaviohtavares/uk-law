@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Amount of the higher education grant[^key-c88ab7558214006e860ab1792ec715fa]
+## 62. Amount of the higher education grant[^c-c88ab7558214006e860ab1792ec715fa]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c88ab7558214006e860ab1792ec715fa]: Commencement: Reg. 62 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-c88ab7558214006e860ab1792ec715fa]: Commencement: Reg. 62 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 207. Application of section 205 to Secretary of State[^key-e758facb9bcc6fe3a5634ddbffd46e20][^key-aabc3a1924631b937cc8abf8134c990c]
+## 207. Application of section 205 to Secretary of State[^c-e758facb9bcc6fe3a5634ddbffd46e20][^c-aabc3a1924631b937cc8abf8134c990c]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e758facb9bcc6fe3a5634ddbffd46e20]: Commencement: S. 207 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-e758facb9bcc6fe3a5634ddbffd46e20]: Commencement: S. 207 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-aabc3a1924631b937cc8abf8134c990c]: Commencement: [S. 207](https://www.legislation.gov.uk/ukpga/2026/20/section/207) in force at 21.9.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2026/960/regulation/2/f)
+[^c-aabc3a1924631b937cc8abf8134c990c]: Commencement: [S. 207](https://www.legislation.gov.uk/ukpga/2026/20/section/207) in force at 21.9.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2026/960/regulation/2/f)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Forms: general[^key-a1a2bf2be209413705c9eaeb092c458f]
+## 28. Forms: general[^c-a1a2bf2be209413705c9eaeb092c458f]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a1a2bf2be209413705c9eaeb092c458f]: Commencement: Art. 28 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-a1a2bf2be209413705c9eaeb092c458f]: Commencement: Art. 28 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)

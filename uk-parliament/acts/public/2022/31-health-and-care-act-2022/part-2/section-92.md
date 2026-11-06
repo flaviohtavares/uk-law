@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Information about payments etc to persons in the health care sector[^key-705eed0540422c8541b3c684462c5f6f][^key-281c9b997f503c0df67e1a8bc352d7da]
+## 92. Information about payments etc to persons in the health care sector[^c-705eed0540422c8541b3c684462c5f6f][^c-281c9b997f503c0df67e1a8bc352d7da]
 
 *Extent: E+W+S+N.I.*
 
@@ -78,6 +78,6 @@ summary: ''
 
 ## Annotations
 
-[^key-705eed0540422c8541b3c684462c5f6f]: Commencement: S. 92 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-705eed0540422c8541b3c684462c5f6f]: Commencement: S. 92 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-281c9b997f503c0df67e1a8bc352d7da]: Commencement: [S. 92](https://www.legislation.gov.uk/ukpga/2022/31/section/92) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-281c9b997f503c0df67e1a8bc352d7da]: Commencement: [S. 92](https://www.legislation.gov.uk/ukpga/2022/31/section/92) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

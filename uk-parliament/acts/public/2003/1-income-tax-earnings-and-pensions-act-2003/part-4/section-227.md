@@ -34,8 +34,8 @@ summary: ''
 
 (4) The following provisions in Part 7 also confer exemption from liability to income tax in respect of earnings—
 
-- (za)[^key-35060c1b53a1cae8243ae594e133baf9] section 418(1A) (acquisition of, and chargeable events occurring in relation to, employment-related securities options);
-- (a)[^key-4d7dd8cafced2e67d3c520843357bcd4] section 425 (restricted securities: no charge in respect of acquisition in certain circumstances),
+- (za)[^c-35060c1b53a1cae8243ae594e133baf9] section 418(1A) (acquisition of, and chargeable events occurring in relation to, employment-related securities options);
+- (a)[^c-4d7dd8cafced2e67d3c520843357bcd4] section 425 (restricted securities: no charge in respect of acquisition in certain circumstances),
 - (b) section 475 (no charge in respect of acquisition of securities option),
 - (c) sections 489 to 493 and sections 496 to 499 (... share incentive plans),
 - (d) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -46,12 +46,12 @@ summary: ''
 - (i) section 542 (priority share allocations: exemption where offer made to public and employees), and
 - (j) section 544 (priority share allocations: exemption where different offers made to public and employees).
 
-(5)[^key-6558a5a867e5b9d196e9d4be1b77c3e8] In relation to the interaction between this Part and Part 7A, see section 554P(1).
+(5)[^c-6558a5a867e5b9d196e9d4be1b77c3e8] In relation to the interaction between this Part and Part 7A, see section 554P(1).
 
 ## Annotations
 
-[^key-35060c1b53a1cae8243ae594e133baf9]: Textual amendment: S. 227(4)(za) inserted (6.4.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 17(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/17/3)[(4)](https://www.legislation.gov.uk/ukpga/2016/24/section/17/4)
+[^c-35060c1b53a1cae8243ae594e133baf9]: Textual amendment: S. 227(4)(za) inserted (6.4.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 17(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/17/3)[(4)](https://www.legislation.gov.uk/ukpga/2016/24/section/17/4)
 
-[^key-4d7dd8cafced2e67d3c520843357bcd4]: Textual amendment: S. 227(4)(a)(b) substituted (with effect in accordance with Sch. 22 para. 25(4) of the amending Act, and otherwise 1.9.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 25(2)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/25/2); [S.I. 2003/1997](https://www.legislation.gov.uk/uksi/2003/1997), [art. 2](https://www.legislation.gov.uk/uksi/2003/1997/article/2)
+[^c-4d7dd8cafced2e67d3c520843357bcd4]: Textual amendment: S. 227(4)(a)(b) substituted (with effect in accordance with Sch. 22 para. 25(4) of the amending Act, and otherwise 1.9.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 25(2)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/25/2); [S.I. 2003/1997](https://www.legislation.gov.uk/uksi/2003/1997), [art. 2](https://www.legislation.gov.uk/uksi/2003/1997/article/2)
 
-[^key-6558a5a867e5b9d196e9d4be1b77c3e8]: Textual amendment: S. 227(5) inserted (with effect in accordance with Sch. 2 paras. 52-59 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2011/11/schedule/2/paragraph/11)
+[^c-6558a5a867e5b9d196e9d4be1b77c3e8]: Textual amendment: S. 227(5) inserted (with effect in accordance with Sch. 2 paras. 52-59 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2011/11/schedule/2/paragraph/11)

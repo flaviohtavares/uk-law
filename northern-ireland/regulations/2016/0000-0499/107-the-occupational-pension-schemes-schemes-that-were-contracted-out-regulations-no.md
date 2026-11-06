@@ -42,14 +42,14 @@ The Department for Social Development makes the following Regulations in exercis
 
 ## PART 1 — GENERAL
 
-### 1. Citation and commencement[^key-003a78a5589aaac61898650b9a6ffcbb]
+### 1. Citation and commencement[^c-003a78a5589aaac61898650b9a6ffcbb]
 
 These Regulations may be cited as the Occupational Pension Schemes (Schemes that were Contracted-out) Regulations (Northern Ireland) 2016 and shall come into operation—
 
 - (a) for the purposes of this regulation and regulations 2 to 24, on 6th April 2016, and
 - (b) for the purposes of regulation 25, on 6th April 2019.
 
-### 2. Interpretation[^key-1bd64a7b2f63ae1d461944e6ab531bd5]
+### 2. Interpretation[^c-1bd64a7b2f63ae1d461944e6ab531bd5]
 
 (1) In these Regulations—
 
@@ -58,17 +58,17 @@ These Regulations may be cited as the Occupational Pension Schemes (Schemes that
 - “the 1996 Regulations” means the Occupational Pension Schemes (Contracting-out) Regulations (Northern Ireland) 1996[^f00004];
 - “the 2004 Act” means the Finance Act 2004[^f00005];
 - “administrator” means the person resident in the United Kingdom having responsibility for the management of an occupational pension scheme or, in the case of an overseas scheme (within the meaning of regulation 6), the person who is appointed in accordance with section 270[^f00006] of the 2004 Act;
-- “bereavement support payment” means the benefit described in section 29 of the Pensions Act (Northern Ireland) 2015 (bereavement support payment);[^key-568d2fe3ced575353c29b62058af2b88]
+- “bereavement support payment” means the benefit described in section 29 of the Pensions Act (Northern Ireland) 2015 (bereavement support payment);[^c-568d2fe3ced575353c29b62058af2b88]
 - “the Commissioners” means the Commissioners for Her Majesty’s Revenue and Customs;
 - “the Contributions and Benefits Act” means the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00007];
 - “section 5(2B) rights” are—
-  - (a) rights to the payment of pensions and accrued rights to pensions (other than rights attributable to voluntary contributions)—[^key-a8c0fb5670e833c39a36489e2d8ae8d7]
+  - (a) rights to the payment of pensions and accrued rights to pensions (other than rights attributable to voluntary contributions)—[^c-a8c0fb5670e833c39a36489e2d8ae8d7]
     - (i) under a scheme that was a salary related contracted-out scheme, or
     - (ii) under a salary related scheme, as defined in regulation 1(2) of the Contracting-out (Transfer and Transfer Payment) Regulations (Northern Ireland) 1996, that has never been a contracted-out scheme, following a transfer in accordance with regulation 9 of those Regulations,
 
     so far as attributable to an earner’s service in contracted-out employment on or after 6th April 1997, and
   - (b) where a transfer payment has been made (other than a payment made in accordance with regulation 10 of the Contracting-out (Transfer and Transfer Payment) Regulations (Northern Ireland) 1996[^f00010] (transfer payments in occupational and personal pension schemes in respect of section 5(2B) rights)) to such a scheme, whether before or after the second abolition date[^f00011], any rights arising under the scheme as a consequence of that payment which are derived directly or indirectly from—
-    - (i) such rights as are referred to in paragraph (a) under another salary related scheme[^key-5e627633b407a63d08fa9a79f8328fa7], or
+    - (i) such rights as are referred to in paragraph (a) under another salary related scheme[^c-5e627633b407a63d08fa9a79f8328fa7], or
     - (ii) protected rights under another occupational pension scheme or under a personal pension scheme attributable to payments or contributions in respect of employment on or after the principal appointed day where that transfer payment was made before the first abolition date[^f00012];
 - “trustees” in relation to a scheme which is not set up or established under a trust, means the managers or administrators of the scheme.
 
@@ -87,11 +87,11 @@ These Regulations may be cited as the Occupational Pension Schemes (Schemes that
 
 ## PART 2 — GENERAL PROVISIONS RELATING TO SCHEMES THAT WERE SALARY RELATED CONTRACTED-OUT SCHEMES
 
-### 3. Alteration of scheme rules[^key-102b5e2cc368f8b8dab01bc0f2dfa036]
+### 3. Alteration of scheme rules[^c-102b5e2cc368f8b8dab01bc0f2dfa036]
 
 For the purposes of section 33(1)[^f00014] of the 1993 Act (prohibition on alteration of rules of schemes that were contracted-out unless alteration is of a prescribed description), the alterations which are prescribed are any alterations which are allowed by regulations 8 and 11.
 
-### 4. Determination that an earner was in contracted-out employment[^key-75bbff79cc11252d792cba045082d165]
+### 4. Determination that an earner was in contracted-out employment[^c-75bbff79cc11252d792cba045082d165]
 
 (1) This regulation applies where—
 
@@ -102,7 +102,7 @@ For the purposes of section 33(1)[^f00014] of the 1993 Act (prohibition on alter
 
 (2) Where this regulation applies, the Commissioners may determine that E was in contracted-out employment by reference to that scheme during that period.
 
-### 5. Provision of information[^key-80d6e026ca84ded6a3924a6d8cbf3524]
+### 5. Provision of information[^c-80d6e026ca84ded6a3924a6d8cbf3524]
 
 (1) The Department or the Commissioners may give any information that they could give to the trustees of an occupational pension scheme, under section 152(1)[^f00017] of the 1993 Act (information for purposes of contracting-out), to the following persons—
 
@@ -120,7 +120,7 @@ For the purposes of section 33(1)[^f00014] of the 1993 Act (prohibition on alter
 
 (3) For the purposes of this regulation, “independent trade union” means an independent trade union which is recognised to any extent for the purpose of collective bargaining.
 
-### 6. Overseas schemes[^key-405e298415424a916d9713972bccab13]
+### 6. Overseas schemes[^c-405e298415424a916d9713972bccab13]
 
 (1) The rules of an overseas scheme are to provide—
 
@@ -130,9 +130,9 @@ For the purposes of section 33(1)[^f00014] of the 1993 Act (prohibition on alter
 - (b) that not more than 5 per cent. of the current market value of the scheme’s resources are invested in a person who is an employer, or connected with an employer, in relation to the scheme if such investments are required to meet the liabilities specified in sub-paragraph (a) and the value of such investments is to be calculated and determined in a manner approved by the Commissioners, and
 - (c) in respect of rights that have accrued as a result of contracted-out employment in the scheme in Northern Ireland, for revaluation of accrued rights in accordance with sections 79 to 82[^f00019] of the 1993 Act and for indexation of pensions in accordance with Articles 51 to 54[^f00020] of the 1995 Order.
 
-(2) In this regulation “overseas scheme” means an occupational pension scheme that was a salary related contracted-out scheme and that has its main administration outside the United Kingdom[^key-127f269cdfe3595baaa05ff40129c18a], but does not include a scheme that was contracted-out in the Isle of Man by virtue of satisfying section 9(2) of the Pension Schemes Act 1993[^f00022] as it had effect in the Isle of Man before the second abolition date.
+(2) In this regulation “overseas scheme” means an occupational pension scheme that was a salary related contracted-out scheme and that has its main administration outside the United Kingdom[^c-127f269cdfe3595baaa05ff40129c18a], but does not include a scheme that was contracted-out in the Isle of Man by virtue of satisfying section 9(2) of the Pension Schemes Act 1993[^f00022] as it had effect in the Isle of Man before the second abolition date.
 
-### 7. Continuation of transitional arrangements for schemes that began winding up before 6th April 1997[^key-6c69a863cb1b5900fb1e2fa17b7bec70]
+### 7. Continuation of transitional arrangements for schemes that began winding up before 6th April 1997[^c-6c69a863cb1b5900fb1e2fa17b7bec70]
 
 Where a scheme that was a salary related contracted-out scheme began winding up before the principal appointed day—
 
@@ -141,7 +141,7 @@ Where a scheme that was a salary related contracted-out scheme began winding up 
 
 ## PART 3 — ADDITIONAL REQUIREMENTS IN RELATION TO RIGHTS ATTRIBUTABLE TO CONTRACTED-OUT EMPLOYMENT ON AND AFTER 6TH APRIL 1997
 
-### 8. Alteration of scheme rules[^key-d89e8be9b751dc14e3de5bada09f9ff3]
+### 8. Alteration of scheme rules[^c-d89e8be9b751dc14e3de5bada09f9ff3]
 
 (1) The rules of a scheme may be altered in relation to section 5(2B) rights only if—
 
@@ -156,7 +156,7 @@ Where a scheme that was a salary related contracted-out scheme began winding up 
 
 (3) In relation to an earner who is in pensionable service under the scheme immediately before the alteration takes effect, the requirement in paragraph (2) is to be deemed to be satisfied if the relevant survivor’s section 5(2B) pension that the scheme would provide in respect of the earner if the earner left pensionable service immediately after the alteration is at least as generous as the relevant survivor’s section 5(2B) pension that the scheme would have provided in respect of the earner had the earner left service immediately before the alteration.
 
-### 9. Payment of a lump sum instead of a pension[^key-0eadbbd6e45264ac88f6150a87cbef4e]
+### 9. Payment of a lump sum instead of a pension[^c-0eadbbd6e45264ac88f6150a87cbef4e]
 
 (1) A relevant scheme[^f00029] may not provide for the payment of a lump sum instead of a pension that is attributable to section 5(2B) rights, unless the payment to be made is authorised under section 164[^f00030] of the 2004 Act (authorised member payments) and the payment is—
 
@@ -176,7 +176,7 @@ Where a scheme that was a salary related contracted-out scheme began winding up 
 
 the scheme is to continue to provide for a survivor’s pension notwithstanding the payment of a lump sum to the earner.
 
-### 10. Forfeiture of accrued rights[^key-051618655ed1b838a71efb22e92cf7af]
+### 10. Forfeiture of accrued rights[^c-051618655ed1b838a71efb22e92cf7af]
 
 Article 90(1)[^f00040] of the 1995 Order (no forfeiture of entitlement under an occupational pension scheme) does not prevent forfeiture of section 5(2B) rights under a relevant scheme if—
 
@@ -188,52 +188,52 @@ Article 90(1)[^f00040] of the 1995 Order (no forfeiture of entitlement under an 
 
 ## PART 4 — ADDITIONAL REQUIREMENTS IN RELATION TO GUARANTEED MINIMUM PENSIONS
 
-### 11. Alteration of scheme rules[^key-95e63c2f61f279af860dc197fcdf37f5]
+### 11. Alteration of scheme rules[^c-95e63c2f61f279af860dc197fcdf37f5]
 
-The rules of a scheme may be altered in relation to a guaranteed minimum under section 10[^f00041] (earner’s guaranteed minimum) or 13[^f00042] (minimum pensions for widows and widowers) of the 1993 Act only if the alteration [^key-4c597297b20118263b296d5badca9f8e]...—
+The rules of a scheme may be altered in relation to a guaranteed minimum under section 10[^f00041] (earner’s guaranteed minimum) or 13[^f00042] (minimum pensions for widows and widowers) of the 1993 Act only if the alteration [^c-4c597297b20118263b296d5badca9f8e]...—
 
-- (a)[^key-57678e69476ef4d9d524d0a392ae84c1] would not—
+- (a)[^c-57678e69476ef4d9d524d0a392ae84c1] would not—
   - (i) affect any of the matters dealt with in Part 3 of the 1993 Act (schemes that were contracted-out etc. and effects on members’ state scheme rights), or any regulations made under that Part, that relate to guaranteed minimum pensions, in a manner that would or might adversely affect any entitlement or accrued rights of any member of the scheme acquired before the alteration takes effect;
   - (ii) affect any of the matters dealt with in sections 83 to 88 of the 1993 Act (protection of increases in guaranteed minimum pensions) or sections 105 and 106 of the 1993 Act (annual increases of guaranteed minimum pensions) or any matters dealt with in regulations made under any of those provisions, or
 - (b) is made for either or both of the purposes referred to in regulation 7C(1) of the Occupational Pension Schemes (Modification of Schemes) Regulations (Northern Ireland) 2006 (modification of schemes: revaluation of guaranteed minimum pensions).
 
-### 12. Circumstances for the purposes of section 13(6) of the 1993 Act in which widower’s or surviving civil partner’s guaranteed minimum pension is payable[^key-d176816b3f9bda1a6fd540563e69f806]
+### 12. Circumstances for the purposes of section 13(6) of the 1993 Act in which widower’s or surviving civil partner’s guaranteed minimum pension is payable[^c-d176816b3f9bda1a6fd540563e69f806]
 
-(1) In addition to providing for a widower’s, widow’s or surviving civil partner’s pension to be payable in the circumstances specified in section 13(4A)[^f00046] of the 1993 Act (minimum pensions for widows and widowers), a scheme that was a salary related contracted-out scheme is to make provision for such a pension to be payable[^key-48331267b1ce7830936101b7a6cdc881] if—
+(1) In addition to providing for a widower’s, widow’s or surviving civil partner’s pension to be payable in the circumstances specified in section 13(4A)[^f00046] of the 1993 Act (minimum pensions for widows and widowers), a scheme that was a salary related contracted-out scheme is to make provision for such a pension to be payable[^c-48331267b1ce7830936101b7a6cdc881] if—
 
-- (a) the widower , widow[^key-d61c285c9195d690d9c72d1dc7cc9d12] or surviving civil partner and the earner were both over pensionable age when the earner died;
+- (a) the widower , widow[^c-d61c285c9195d690d9c72d1dc7cc9d12] or surviving civil partner and the earner were both over pensionable age when the earner died;
 - (b) the widower , widow or surviving civil partner is either residing with a child, or is entitled to child benefit in respect of a child, who is—
   - (i) a child of the widower , widow or surviving civil partner and the earner;
   - (ii) a child in respect of whom the earner was, immediately before the earner’s death, entitled to child benefit, or would have been so entitled, if the child had not been absent from Northern Ireland, or
-  - (iii) if the widower , widow or surviving civil partner and the earner were residing together immediately before the earner’s death, a child in respect of whom the widower , widow or surviving civil partner was, at that time, entitled to child benefit, or would have been so entitled, if the child had not been absent from Northern Ireland;[^key-afe41fe64b25b7eb0463d954dabdf10b]
+  - (iii) if the widower , widow or surviving civil partner and the earner were residing together immediately before the earner’s death, a child in respect of whom the widower , widow or surviving civil partner was, at that time, entitled to child benefit, or would have been so entitled, if the child had not been absent from Northern Ireland;[^c-afe41fe64b25b7eb0463d954dabdf10b]
 - (c) the widower , widow or surviving civil partner attained the age of 45—
   - (i) before the earner died, or
   - (ii) during a period when the circumstances mentioned in sub-paragraph (b) existed.
-- (d)[^key-50333b7f593ec00edfca9863ede132f7] the widower , widow or surviving civil partner is entitled to a bereavement support payment by virtue of the earner’s contributions, or
+- (d)[^c-50333b7f593ec00edfca9863ede132f7] the widower , widow or surviving civil partner is entitled to a bereavement support payment by virtue of the earner’s contributions, or
 - (e) the widower , widow or surviving civil partner was entitled to a bereavement support payment by virtue of the earner’s contributions but that entitlement came to an end at a time after the widower , widow or surviving civil partner attained the age of 45.
 
 (2) For the purposes of this regulation “child benefit” has the same meaning as in the Contributions and Benefits Act[^f00047].
 
-### 13. Period for the purposes of section 13(6) of the 1993 Act for which widower’s , widow’s or surviving civil partner’s guaranteed minimum pension is payable[^key-6a449d606fea5aa2e41ea335b512fe3b][^key-5dbaab297da797b9c77752e427155ef0]
+### 13. Period for the purposes of section 13(6) of the 1993 Act for which widower’s , widow’s or surviving civil partner’s guaranteed minimum pension is payable[^c-6a449d606fea5aa2e41ea335b512fe3b][^c-5dbaab297da797b9c77752e427155ef0]
 
-(1) Where a pension is payable by virtue of regulation 12(1)(a), the scheme is to make provision for the pension to be payable for the remainder of the widower’s , widow’s[^key-caea7d915bab4816efba0240c71e28a4] or surviving civil partner’s life.
+(1) Where a pension is payable by virtue of regulation 12(1)(a), the scheme is to make provision for the pension to be payable for the remainder of the widower’s , widow’s[^c-caea7d915bab4816efba0240c71e28a4] or surviving civil partner’s life.
 
 (2) Subject to paragraph (4), where a pension is payable by virtue of regulation 12(1)(b) but not by virtue of regulation 12(1)(a) or (c), the scheme is to make provision for the pension to be payable for the period during which the circumstances described in regulation 12(1)(b) continue to exist.
 
-(3) Subject to paragraph (4), where a pension is payable by virtue of regulation 12(1)(c), but not by virtue of regulation 12(1)(a), the scheme is to make provision for the pension to be payable for the remainder of the widower’s , widow’s[^key-db675ee474830a8e27a1ec178c43b8d1] or surviving civil partner’s life.
+(3) Subject to paragraph (4), where a pension is payable by virtue of regulation 12(1)(c), but not by virtue of regulation 12(1)(a), the scheme is to make provision for the pension to be payable for the remainder of the widower’s , widow’s[^c-db675ee474830a8e27a1ec178c43b8d1] or surviving civil partner’s life.
 
-(3A)[^key-78fb76a3460dd750e661f3d1caad626d] Where a pension is payable by virtue of regulation 12(1)(d) but not by virtue of regulation 12(1)(a), (b), (c) or (e), the scheme is to make provision for the pension to be payable for the period during which the circumstances described in regulation 12(1)(d) continue to exist.
+(3A)[^c-78fb76a3460dd750e661f3d1caad626d] Where a pension is payable by virtue of regulation 12(1)(d) but not by virtue of regulation 12(1)(a), (b), (c) or (e), the scheme is to make provision for the pension to be payable for the period during which the circumstances described in regulation 12(1)(d) continue to exist.
 
-(3B) Subject to paragraph (4A), where a pension is payable by virtue of regulation 12(1)(e) but not by virtue of regulation 12(1)(a), (b), (c) or (d), the scheme is to make provision for the pension to be payable for the remainder of the widower’s , widow’s[^key-ca047f04cb6d2e048054d5db2b09ca4f] or surviving civil partner’s life.
+(3B) Subject to paragraph (4A), where a pension is payable by virtue of regulation 12(1)(e) but not by virtue of regulation 12(1)(a), (b), (c) or (d), the scheme is to make provision for the pension to be payable for the remainder of the widower’s , widow’s[^c-ca047f04cb6d2e048054d5db2b09ca4f] or surviving civil partner’s life.
 
-(4)[^key-a31a2e23c715f1697bebd6c072bbbad0] Subject to paragraph (5), there is excluded from the periods prescribed by paragraphs (2) and (3) any period—
+(4)[^c-a31a2e23c715f1697bebd6c072bbbad0] Subject to paragraph (5), there is excluded from the periods prescribed by paragraphs (2) and (3) any period—
 
 - (a) after the time of any—
   - (i) marriage, or
   - (ii) formation of a civil partnership,
 
-  by the widower , widow[^key-d4680dcef85444c7a2024f6d17699310] or surviving civil partner whilst under pensionable age and which takes place after the earner’s death;
-- (b)[^key-b39516802041881d311fa925b0d1edad] during which the surviving spouse or civil partner is under pensionable age and he or she and another person are living together as if spouses of each other; or
+  by the widower , widow[^c-d4680dcef85444c7a2024f6d17699310] or surviving civil partner whilst under pensionable age and which takes place after the earner’s death;
+- (b)[^c-b39516802041881d311fa925b0d1edad] during which the surviving spouse or civil partner is under pensionable age and he or she and another person are living together as if spouses of each other; or
 - (c) after the surviving spouse or civil partner has attained pensionable age if, immediately before he or she attained that age, he or she and another person were living together as if spouses of each other.
 
 (4A) Subject to paragraph (5), there is excluded from the period prescribed by paragraph (3B) any period—
@@ -242,36 +242,36 @@ The rules of a scheme may be altered in relation to a guaranteed minimum under s
   - (i) marriage, or
   - (ii) formation of a civil partnership,
 
-  by the widower , widow[^key-fef0420561391fb97b789bfb2b1e07a7] or surviving civil partner which takes place after the earner’s death, or
-- (b)[^key-2d43dbb32107d083c969f1b62779b7e2] during which the surviving spouse or civil partner and another person are living together as if spouses of each other.
+  by the widower , widow[^c-fef0420561391fb97b789bfb2b1e07a7] or surviving civil partner which takes place after the earner’s death, or
+- (b)[^c-2d43dbb32107d083c969f1b62779b7e2] during which the surviving spouse or civil partner and another person are living together as if spouses of each other.
 
 (5) The following provisions do not apply where a man became a widower before 5th December 2005—
 
-- (za)[^key-d18667a775ba9f3b86a46f1103c39fbe] paragraphs (4)(a)(i) and (4A)(a)(i) so far as they relate to a marriage involving two people of the same sex,
-- (a) paragraph (4)(a)(ii), [^key-2c50ccbc66e7bea4a579564a5a38cc4b]...
-- (b) paragraph (4A)(a)(ii) , and[^key-9a2fb86fc1db69415f9ffbdd41bd97fd]
-- (c)[^key-4916d73c716f73a80799dc6389a2741a] paragraphs (4)(b) and (c) and (4A)(b) so far as they relate to the living together of two people of the same sex.
+- (za)[^c-d18667a775ba9f3b86a46f1103c39fbe] paragraphs (4)(a)(i) and (4A)(a)(i) so far as they relate to a marriage involving two people of the same sex,
+- (a) paragraph (4)(a)(ii), [^c-2c50ccbc66e7bea4a579564a5a38cc4b]...
+- (b) paragraph (4A)(a)(ii) , and[^c-9a2fb86fc1db69415f9ffbdd41bd97fd]
+- (c)[^c-4916d73c716f73a80799dc6389a2741a] paragraphs (4)(b) and (c) and (4A)(b) so far as they relate to the living together of two people of the same sex.
 
-### 14. Fixed rate revaluation of guaranteed minimum pensions secured by insurance policies or annuity contracts[^key-d9d34379a11b874e050ae9864cb3ed2f]
+### 14. Fixed rate revaluation of guaranteed minimum pensions secured by insurance policies or annuity contracts[^c-d9d34379a11b874e050ae9864cb3ed2f]
 
 A scheme may make provision by virtue of section 12(2)[^f00048] of the 1993 Act (revaluation of earnings factors for the purposes of section 10: early leavers, etc.) for those of its members whose guaranteed minimum pensions are, or are to be, appropriately secured (within the meaning of section 15(3) of the 1993 Act), even though the same provision is not made for other members of the scheme.
 
-### 15. Fixed rate revaluation of guaranteed minimum pensions for early leavers[^key-b85c517af789f7f5628ac01884017054]
+### 15. Fixed rate revaluation of guaranteed minimum pensions for early leavers[^c-b85c517af789f7f5628ac01884017054]
 
 (1) This regulation applies where a scheme provides, in accordance with section 12(2) of the 1993 Act (as substituted by paragraph 16 of Schedule 13 to the Pensions Act (Northern Ireland) 2015), for a person’s earnings factors to be determined for the purposes of section 10(2) of the 1993 Act by reference to the last order to come into operation under section 130 of the Social Security Administration (Northern Ireland) Act 1992[^f00049] before the end of the last service tax year.
 
-(2)[^key-5ac05d085d6cab97858a75d3378b2f5f] Subject to paragraph (3), in a case to which this regulation applies, the scheme is to provide for the weekly equivalent mentioned in section 10(2) of the 1993 Act to be increased, in relation to the period of service in respect of which accrued rights to a guaranteed minimum pension have been acquired under, or transferred to, the scheme, by at least—
+(2)[^c-5ac05d085d6cab97858a75d3378b2f5f] Subject to paragraph (3), in a case to which this regulation applies, the scheme is to provide for the weekly equivalent mentioned in section 10(2) of the 1993 Act to be increased, in relation to the period of service in respect of which accrued rights to a guaranteed minimum pension have been acquired under, or transferred to, the scheme, by at least—
 
 - (a) 4.75 per cent. compound, where the period of pensionable service under the scheme terminates on or after 6th April 2016 but before 6th April 2017;
-- (b) 3.5 per cent. compound, where the period of pensionable service under the scheme terminates on or after 6th April 2017 but before 6th April 2022;[^key-b8147cf63d8eab0ca9fa5bdd742a55d8]
-- (c)[^key-015dd52efa15f39a20a456d2f6e2c916] 3.25 per cent. compound, where the period of pensionable service under the scheme terminates on or after 6th April 2022.
+- (b) 3.5 per cent. compound, where the period of pensionable service under the scheme terminates on or after 6th April 2017 but before 6th April 2022;[^c-b8147cf63d8eab0ca9fa5bdd742a55d8]
+- (c)[^c-015dd52efa15f39a20a456d2f6e2c916] 3.25 per cent. compound, where the period of pensionable service under the scheme terminates on or after 6th April 2022.
 
 (3) The scheme may make provision which is different to that made by virtue of paragraph (2) with respect to—
 
 - (a) members whose rights to guaranteed minimum pensions under the scheme arise in respect of a transfer or transfer payment made in accordance with section 16(1)[^f00050] of the 1993 Act or regulations made under that provision;
 - (b) members whose guaranteed minimum pensions are, or are to be, appropriately secured within the meaning of section 15(3) of the 1993 Act.
 
-### 16. Payment of a lump sum instead of a pension[^key-a8970077201e4fd4acab46972a0106c2]
+### 16. Payment of a lump sum instead of a pension[^c-a8970077201e4fd4acab46972a0106c2]
 
 (1) The scheme may provide for the payment of a lump sum instead of a pension that the scheme is required to provide in accordance with section 9[^f00051] or 13 of the 1993 Act if—
 
@@ -315,7 +315,7 @@ A scheme may make provision by virtue of section 12(2)[^f00048] of the 1993 Act 
 
 the scheme is to continue to include provision for a survivor’s pension notwithstanding the payment of a lump sum to the earner.
 
-### 17. Suspension and forfeiture of guaranteed minimum pension[^key-45ec87695ff25428e019c89ded139335]
+### 17. Suspension and forfeiture of guaranteed minimum pension[^c-45ec87695ff25428e019c89ded139335]
 
 (1) The scheme may provide for an earner’s or an earner’s widow’s, widower’s or surviving civil partner’s guaranteed minimum pension to be suspended if—
 
@@ -330,14 +330,14 @@ the scheme is to continue to include provision for a survivor’s pension notwit
 
 - (a) the person entitled to that pension has been convicted of—
   - (i) an offence of treason, or
-  - (ii) one or more offences under the Official Secrets Acts 1911 to 1989[^f00054] , or under section 18 of, or listed in section 33(3)(a) of, the National Security Act 2023,[^key-0df28221be2d9b8f1c1d8934834eff17] for which the person has been sentenced on the same occasion to a term of imprisonment of, or to 2 or more consecutive terms amounting in aggregate to, at least 10 years;
+  - (ii) one or more offences under the Official Secrets Acts 1911 to 1989[^f00054] , or under section 18 of, or listed in section 33(3)(a) of, the National Security Act 2023,[^c-0df28221be2d9b8f1c1d8934834eff17] for which the person has been sentenced on the same occasion to a term of imprisonment of, or to 2 or more consecutive terms amounting in aggregate to, at least 10 years;
 - (b) in the case of a widow’s, widower’s or surviving civil partner’s guaranteed minimum pension, the earner by reference to whose contracted-out employment that pension is payable has been convicted of an offence of treason, or has been convicted of an offence or offences and has been sentenced to a term or terms of imprisonment as set out in sub-paragraph (a)(ii);
 - (c) in the case of any payment of guaranteed minimum pension for which a claim has not been made, a period of at least 8 years has elapsed from the date on which that payment became due;
 - (d) in the case of a widow’s, widower’s or surviving civil partner’s guaranteed minimum pension, that person is convicted of the offence of murder or manslaughter of the earner by reference to whose contracted-out employment that pension is payable, or any other offence of which unlawful killing of that member is an element.
 
 (3) For the purposes of paragraph (2)(d), “unlawful killing” includes unlawfully aiding, abetting, counselling or procuring the death of a person.
 
-### 18. Conversion into other benefits: actuarial equivalence[^key-b8550c8007591305814c574bb80ed596]
+### 18. Conversion into other benefits: actuarial equivalence[^c-b8550c8007591305814c574bb80ed596]
 
 (1) For the purposes of Condition 1 of section 20B[^f00055] of the 1993 Act (the conversion conditions), actuarial equivalence is to be determined in accordance with this regulation.
 
@@ -368,7 +368,7 @@ the scheme is to continue to include provision for a survivor’s pension notwit
   - (ii) the post-conversion benefits are actuarially at least equivalent to the pre-conversion benefits, and
 - (b) be sent to the trustees no later than 3 months after the calculations have been completed.
 
-### 19. Conversion into other benefits: survivors’ benefits[^key-eecf1ddaadbe25b1c3c11ca9f60ff27b]
+### 19. Conversion into other benefits: survivors’ benefits[^c-eecf1ddaadbe25b1c3c11ca9f60ff27b]
 
 (1) For the purposes of Condition 4 of section 20B of the 1993 Act (the conversion conditions), the circumstances in which, and periods during which, the converted scheme must provide survivors’ benefits are the circumstances set out in paragraph (2) and the periods set out in paragraph (3).
 
@@ -377,30 +377,30 @@ the scheme is to continue to include provision for a survivor’s pension notwit
 - (a) an earner’s pre-conversion benefits include a guaranteed minimum pension, and
 - (b) the scheme before conversion provided that—
   - (i) if the earner died (whether before or after attaining pensionable age) leaving a widow, widower or surviving civil partner, the widow, widower or surviving civil partner would be entitled to a guaranteed minimum pension, and
-  - (ii) in a case where section 13(6)[^f00056] of the 1993 Act applies, a widower’s , widow’s[^key-0590f010c09fa5540c338f1ce410f93b] or surviving civil partner’s guaranteed minimum pension would be payable in the circumstances set out in regulation 12(1).
+  - (ii) in a case where section 13(6)[^f00056] of the 1993 Act applies, a widower’s , widow’s[^c-0590f010c09fa5540c338f1ce410f93b] or surviving civil partner’s guaranteed minimum pension would be payable in the circumstances set out in regulation 12(1).
 
 (3) The periods are—
 
 - (a) for widows, widowers and surviving civil partners, any period mentioned in section 13(4A)(a), (aa), (ab) or (b) of the 1993 Act;
 - (b) subject to paragraph (4), for widows, widowers and surviving civil partners whose entitlement by virtue of the earner’s contributions to a widowed parent’s allowance or bereavement allowance has come to an end at a time after the widow, widower or surviving civil partner attained the age of 45, so much of the period beginning with the time when that entitlement came to an end as neither—
-  - (i) comprises a period during which the widow, widower or surviving civil partner and another person are living together as if spouses of each other, nor[^key-300d15d6c6af3bb1e3928a4f8d9ef866]
+  - (i) comprises a period during which the widow, widower or surviving civil partner and another person are living together as if spouses of each other, nor[^c-300d15d6c6af3bb1e3928a4f8d9ef866]
   - (ii) falls after the time of any—
     - (aa) marriage, or
     - (bb) formation of a civil partnership,
 
     by the widow, widower or surviving civil partner which takes place after the earner’s death;
-- (c) for widows whose spouse was a man[^key-e3c6f21895df6cc01390c39c28fb1b7b], any period for which a widowed mother’s allowance or widow’s pension is payable to the widow by virtue of the earner’s contributions, and
-- (d) for widowers , widows whose spouse was a woman[^key-58abcd370e7e1bbb0018f34a0541b97c] and surviving civil partners, any period for which a scheme must make provision for the payment of a widower’s , widow’s[^key-57272d78dcc05fe53adc5b46531da6f5] or surviving civil partner’s pension by virtue of section 13(6) of the 1993 Act and regulation 13.
+- (c) for widows whose spouse was a man[^c-e3c6f21895df6cc01390c39c28fb1b7b], any period for which a widowed mother’s allowance or widow’s pension is payable to the widow by virtue of the earner’s contributions, and
+- (d) for widowers , widows whose spouse was a woman[^c-58abcd370e7e1bbb0018f34a0541b97c] and surviving civil partners, any period for which a scheme must make provision for the payment of a widower’s , widow’s[^c-57272d78dcc05fe53adc5b46531da6f5] or surviving civil partner’s pension by virtue of section 13(6) of the 1993 Act and regulation 13.
 
-(4) For the purposes of paragraph (3)(b),[^key-1a2cc33c34c8d1bd71a034496fae766f] the following provisions do not apply where the earner died before 5th December 2005—
+(4) For the purposes of paragraph (3)(b),[^c-1a2cc33c34c8d1bd71a034496fae766f] the following provisions do not apply where the earner died before 5th December 2005—
 
-- (a)[^key-0eda9e413039898fb8bf1806ec16bb44] paragraph (3)(b)(i) so far as it relates to the living together of two people of the same sex;
+- (a)[^c-0eda9e413039898fb8bf1806ec16bb44] paragraph (3)(b)(i) so far as it relates to the living together of two people of the same sex;
 - (aa) paragraph (3)(b)(ii)(aa) so far as it relates to a marriage involving two people of the same sex, and
 - (b) paragraph (3)(b)(ii)(bb).
 
 ## PART 5 — AMENDMENT OF THE 1996 REGULATIONS
 
-### 20. Amendments relating to certification of employments for a period before the second abolition date[^key-fd2ba510c6eca4e198aa6f3d1b76d698]
+### 20. Amendments relating to certification of employments for a period before the second abolition date[^c-fd2ba510c6eca4e198aa6f3d1b76d698]
 
 (1) The 1996 Regulations are amended in accordance with paragraphs (2) to (9).
 
@@ -446,7 +446,7 @@ the scheme is to continue to include provision for a survivor’s pension notwit
 
 (9) In regulation 23(g)[^f00061] (requirements for meeting the statutory standard) after “regulation 20A(2)” insert “(as it had effect immediately before the second abolition date)”.
 
-### 21. Amendments relating to cessation of contracting-out before the second abolition date[^key-8b8944b47371b9efb5c4bf7230024379]
+### 21. Amendments relating to cessation of contracting-out before the second abolition date[^c-8b8944b47371b9efb5c4bf7230024379]
 
 (1) The 1996 Regulations are amended in accordance with paragraphs (2) to (7).
 
@@ -484,7 +484,7 @@ the scheme is to continue to include provision for a survivor’s pension notwit
 
 ## PART 6 — AMENDMENT OF THE CONTRACTING-OUT (TRANSFER AND TRANSFER PAYMENT) REGULATIONS (NORTHERN IRELAND) 1996
 
-### 22. Revaluation after transfer from another scheme[^key-395a968f032c8aaed87c34b1859e1a9d]
+### 22. Revaluation after transfer from another scheme[^c-395a968f032c8aaed87c34b1859e1a9d]
 
 (1) The Contracting-out (Transfer and Transfer Payment) Regulations (Northern Ireland) 1996[^f00067] are amended in accordance with paragraphs (2) to (4).
 
@@ -528,15 +528,15 @@ the scheme is to continue to include provision for a survivor’s pension notwit
 
 ## PART 7 — REVOCATIONS AND SAVINGS
 
-### 23. Revocations taking effect on the second abolition date[^key-b97102ed4c3ec01a8b4048ec6fef834d]
+### 23. Revocations taking effect on the second abolition date[^c-b97102ed4c3ec01a8b4048ec6fef834d]
 
 Subject to regulation 24, the provisions specified in column (1) of Schedule 2 are revoked to the extent specified in column (3).
 
-### 24. Saving of provisions relating to the revaluation of guaranteed minimum pensions[^key-3de788b53e0605e9361f0955cc562742]
+### 24. Saving of provisions relating to the revaluation of guaranteed minimum pensions[^c-3de788b53e0605e9361f0955cc562742]
 
 Regulations 62[^f00072] (fixed rate revaluation of guaranteed minimum pensions for early leavers), 65 (modification of section 12 of the 1993 Act) and 66 (circumstances in which the modifications in regulation 65 apply) of the 1996 Regulations are saved for the purposes of an earner whose service in contracted-out employment ended before the second abolition date.
 
-### 25. Revocations taking effect on 6th April 2019[^key-f598693a93f99cf182c5ff7bc990b636]
+### 25. Revocations taking effect on 6th April 2019[^c-f598693a93f99cf182c5ff7bc990b636]
 
 The provisions specified in column (1) of Schedule 3 are revoked to the extent specified in column (3).
 
@@ -548,7 +548,7 @@ Anne McCleary
 
 A senior officer of the Department for Social Development
 
-## SCHEDULE 1 — PROVISIONS CONFERRING POWERS EXERCISED IN MAKING THESE REGULATIONS[^key-a02e37566122d1303067ffea4433fdcb]
+## SCHEDULE 1 — PROVISIONS CONFERRING POWERS EXERCISED IN MAKING THESE REGULATIONS[^c-a02e37566122d1303067ffea4433fdcb]
 
 | Column (1) | Column (2) |
 | --- | --- |
@@ -579,7 +579,7 @@ A senior officer of the Department for Social Development
 |  |  |
 | Pensions (Northern Ireland) Order 1995[^f00094] | Article 90(6)<br>Article 166(3) |
 
-## SCHEDULE 2 — REVOCATIONS TAKING EFFECT ON THE SECOND ABOLITION DATE[^key-bd255a8b22c68f1049b9fe5913b0406e]
+## SCHEDULE 2 — REVOCATIONS TAKING EFFECT ON THE SECOND ABOLITION DATE[^c-bd255a8b22c68f1049b9fe5913b0406e]
 
 Regulation 23
 
@@ -608,7 +608,7 @@ Regulation 23
 </tbody>
 </table>
 
-## SCHEDULE 3 — REVOCATIONS TAKING EFFECT ON 6TH APRIL 2019[^key-77f3b7ad606b7b957e2d5664ff045ce5]
+## SCHEDULE 3 — REVOCATIONS TAKING EFFECT ON 6TH APRIL 2019[^c-77f3b7ad606b7b957e2d5664ff045ce5]
 
 Regulation 25
 
@@ -656,9 +656,9 @@ An assessment of the impact of this legislation is included in the Regulatory Im
 
 [^f00001]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-003a78a5589aaac61898650b9a6ffcbb]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2016/107/regulation/1) in operation at 6.4.2016, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/a)
+[^c-003a78a5589aaac61898650b9a6ffcbb]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2016/107/regulation/1) in operation at 6.4.2016, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/a)
 
-[^key-1bd64a7b2f63ae1d461944e6ab531bd5]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2016/107/regulation/2) in operation at 6.4.2016, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/a)
+[^c-1bd64a7b2f63ae1d461944e6ab531bd5]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2016/107/regulation/2) in operation at 6.4.2016, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/a)
 
 [^f00002]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49)
 
@@ -670,37 +670,37 @@ An assessment of the impact of this legislation is included in the Regulatory Im
 
 [^f00006]: Footnote: Section 270 was amended by paragraph 9 of Schedule 7 to the Finance Act [2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26)
 
-[^key-568d2fe3ced575353c29b62058af2b88]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2016/107/regulation/2) inserted (6.4.2017) by [The Occupational Pension Schemes and Social Security (Schemes that were Contracted-out and Graduated Retirement Benefit) (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/57)](https://www.legislation.gov.uk/nisr/2017/57), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/57/regulation/1/1), [4(2)](https://www.legislation.gov.uk/nisr/2017/57/regulation/4/2)
+[^c-568d2fe3ced575353c29b62058af2b88]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2016/107/regulation/2) inserted (6.4.2017) by [The Occupational Pension Schemes and Social Security (Schemes that were Contracted-out and Graduated Retirement Benefit) (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/57)](https://www.legislation.gov.uk/nisr/2017/57), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/57/regulation/1/1), [4(2)](https://www.legislation.gov.uk/nisr/2017/57/regulation/4/2)
 
 [^f00007]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7)
 
-[^key-a8c0fb5670e833c39a36489e2d8ae8d7]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2016/107/regulation/2/1) substituted (6.4.2018) by [The Contracting-out (Transfer and Transfer Payment) (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/51)](https://www.legislation.gov.uk/nisr/2018/51), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/51/regulation/1/1), [3(a)](https://www.legislation.gov.uk/nisr/2018/51/regulation/3/a)
+[^c-a8c0fb5670e833c39a36489e2d8ae8d7]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2016/107/regulation/2/1) substituted (6.4.2018) by [The Contracting-out (Transfer and Transfer Payment) (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/51)](https://www.legislation.gov.uk/nisr/2018/51), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/51/regulation/1/1), [3(a)](https://www.legislation.gov.uk/nisr/2018/51/regulation/3/a)
 
 [^f00010]: Footnote: [S.R. 1996 No. 618](https://www.legislation.gov.uk/nisr/1996/618); regulation 10 was substituted by regulation 7(4) of [S.R. 2012 No. 120](https://www.legislation.gov.uk/nisr/2012/120) and is amended by regulation 22(3) of these Regulations
 
 [^f00011]: Footnote: *See* section 3A of the Pension Schemes (Northern Ireland) Act 1993 as inserted by paragraph 6 of Schedule 13 to the Pensions Act (Northern Ireland) 2015
 
-[^key-5e627633b407a63d08fa9a79f8328fa7]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2016/107/regulation/2/1) substituted (6.4.2018) by [The Contracting-out (Transfer and Transfer Payment) (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/51)](https://www.legislation.gov.uk/nisr/2018/51), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/51/regulation/1/1), [3(b)](https://www.legislation.gov.uk/nisr/2018/51/regulation/3/b)
+[^c-5e627633b407a63d08fa9a79f8328fa7]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2016/107/regulation/2/1) substituted (6.4.2018) by [The Contracting-out (Transfer and Transfer Payment) (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/51)](https://www.legislation.gov.uk/nisr/2018/51), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/51/regulation/1/1), [3(b)](https://www.legislation.gov.uk/nisr/2018/51/regulation/3/b)
 
 [^f00012]: Footnote: *See* section 3A of the Pension Schemes (Northern Ireland) Act 1993 as inserted by paragraph 6 of Schedule 13 to the Pensions Act (Northern Ireland) 2015
 
 [^f00013]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-102b5e2cc368f8b8dab01bc0f2dfa036]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2016/107/regulation/3) in operation at 6.4.2016, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/a)
+[^c-102b5e2cc368f8b8dab01bc0f2dfa036]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2016/107/regulation/3) in operation at 6.4.2016, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/a)
 
 [^f00014]: Footnote: Section 33(1) was substituted by paragraph 24 of Schedule 13 to the Pensions Act (Northern Ireland) 2015
 
-[^key-75bbff79cc11252d792cba045082d165]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2016/107/regulation/4) in operation at 6.4.2016, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/a)
+[^c-75bbff79cc11252d792cba045082d165]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2016/107/regulation/4) in operation at 6.4.2016, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/a)
 
 [^f00015]: Footnote: *See* section 4 of the Pension Schemes (Northern Ireland) Act 1993 as amended by paragraph 7 of Schedule 13 to the Pensions Act (Northern Ireland) 2015
 
 [^f00016]: Footnote: *See* section 33A(2) of the Pension Schemes (Northern Ireland) Act 1993 as inserted by paragraph 25 of Schedule 13 to the Pensions Act (Northern Ireland) 2015
 
-[^key-80d6e026ca84ded6a3924a6d8cbf3524]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2016/107/regulation/5) in operation at 6.4.2016, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/a)
+[^c-80d6e026ca84ded6a3924a6d8cbf3524]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2016/107/regulation/5) in operation at 6.4.2016, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/a)
 
 [^f00017]: Footnote: Section 152 was substituted by paragraph 6 of Schedule 5 to the Child Support, Pensions and Social Security Act (Northern Ireland) [2000 (c. 4 (N.I.)](https://www.legislation.gov.uk/nia/2000/4)) and subsection (1) was amended by Article 4(17) of [S.R. 2012 No. 124](https://www.legislation.gov.uk/nisr/2012/124)
 
-[^key-405e298415424a916d9713972bccab13]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2016/107/regulation/6) in operation at 6.4.2016, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/a)
+[^c-405e298415424a916d9713972bccab13]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2016/107/regulation/6) in operation at 6.4.2016, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/a)
 
 [^f00018]: Footnote: Article 73 was substituted by Article 247(1) of the Pensions (Northern Ireland) Order 2005 ([S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255))
 
@@ -708,17 +708,17 @@ An assessment of the impact of this legislation is included in the Regulatory Im
 
 [^f00020]: Footnote: Article 51 was amended by paragraph 40 of Schedule 9 to the Welfare Reform and Pensions (Northern Ireland) Order 1999, section 47(1) of the Child Support, Pensions and Social Security Act (Northern Ireland) 2000, Article 255 of, and Schedule 11 to, the Pensions (Northern Ireland) Order 2005, sections 20(8) and 21(2) and (3) of the Pensions Act (Northern Ireland) 2012 and Article 11(2) of [S.I. 2006/745](https://www.legislation.gov.uk/uksi/2006/745). Article 51ZA was inserted by Article 255(7) of the Pensions (Northern Ireland) Order 2005 and amended by paragraph 8 of Schedule 1 to the Pensions (No. 2) Act (Northern Ireland) [2008 (c. 13 (N.I.)](https://www.legislation.gov.uk/nia/2008/13)). Article 51ZB was inserted by section 21(4) of the Pensions Act (Northern Ireland) 2012. Article 51A was inserted by section 47(2) of the Child Support, Pensions and Social Security Act (Northern Ireland) 2000 and amended by Article 5(2) of [S.R. 2012 No. 124](https://www.legislation.gov.uk/nisr/2012/124). Article 53 was amended by paragraph 41 of Schedule 9 to the Welfare Reform and Pensions (Northern Ireland) Order 1999. Article 54 was amended by Article 255(8) of, and Schedule 11 to, the Pensions (Northern Ireland) Order 2005 and paragraph 9 of Schedule 1 to the Pensions (No. 2) Act (Northern Ireland) 2008
 
-[^key-127f269cdfe3595baaa05ff40129c18a]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/nisr/2016/107/regulation/6/2) substituted (31.12.2020) by [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [32(2)](https://www.legislation.gov.uk/uksi/2019/193/regulation/32/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-127f269cdfe3595baaa05ff40129c18a]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/nisr/2016/107/regulation/6/2) substituted (31.12.2020) by [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [32(2)](https://www.legislation.gov.uk/uksi/2019/193/regulation/32/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00022]: Footnote: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48); section 9(2) was substituted by section 136(3) of the Pensions Act [1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26)
 
-[^key-6c69a863cb1b5900fb1e2fa17b7bec70]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2016/107/regulation/7) in operation at 6.4.2016, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/a)
+[^c-6c69a863cb1b5900fb1e2fa17b7bec70]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2016/107/regulation/7) in operation at 6.4.2016, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/a)
 
 [^f00023]: Footnote: [S.R. 1985 No. 259](https://www.legislation.gov.uk/nisr/1985/259); regulation 37 was amended by paragraph 3(29) of Schedule 2 to [S.R. 1994 No. 300](https://www.legislation.gov.uk/nisr/1994/300)
 
 [^f00024]: Footnote: Section 20 was repealed by Schedule 5 to the Pensions (Northern Ireland) Order 1995
 
-[^key-d89e8be9b751dc14e3de5bada09f9ff3]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2016/107/regulation/8) in operation at 6.4.2016, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/a)
+[^c-d89e8be9b751dc14e3de5bada09f9ff3]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2016/107/regulation/8) in operation at 6.4.2016, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/a)
 
 [^f00025]: Footnote: Section 8B was inserted by Article 133(5) of the Pensions (Northern Ireland) Order 1995 and is repealed by paragraph 11 of Schedule 13 to the Pensions Act (Northern Ireland) 2015, but saved for certain purposes, *see* [S.R. 2016 No. 106](https://www.legislation.gov.uk/nisr/2016/106)
 
@@ -728,7 +728,7 @@ An assessment of the impact of this legislation is included in the Regulatory Im
 
 [^f00028]: Footnote: Articles 67C and 67D were inserted by Article 239 of the Pensions (Northern Ireland) Order 2005. Article 67D was amended by paragraph 5 of Schedule 5 to the Pensions Act (Northern Ireland) [2008 (c. 1 (N.I.)](https://www.legislation.gov.uk/nia/2008/1))
 
-[^key-0eadbbd6e45264ac88f6150a87cbef4e]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2016/107/regulation/9) in operation at 6.4.2016, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/a)
+[^c-0eadbbd6e45264ac88f6150a87cbef4e]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2016/107/regulation/9) in operation at 6.4.2016, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/a)
 
 [^f00029]: Footnote: *See* section 33A(2) of the Pension Schemes (Northern Ireland) Act 1993 as inserted by paragraph 25 of Schedule 13 to the Pensions Act (Northern Ireland) 2015
 
@@ -752,81 +752,81 @@ An assessment of the impact of this legislation is included in the Regulatory Im
 
 [^f00039]: Footnote: [S.I. 2009/1171](https://www.legislation.gov.uk/uksi/2009/1171) as amended by regulation 8 of [S.I. 2011/1751](https://www.legislation.gov.uk/uksi/2011/1751) and regulation 2 of [S.I. 2012/522](https://www.legislation.gov.uk/uksi/2012/522)
 
-[^key-051618655ed1b838a71efb22e92cf7af]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2016/107/regulation/10) in operation at 6.4.2016, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/a)
+[^c-051618655ed1b838a71efb22e92cf7af]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2016/107/regulation/10) in operation at 6.4.2016, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/a)
 
 [^f00040]: Footnote: Article 90(1) was amended by paragraph 47(2) of Schedule 9 to the Welfare Reform and Pensions (Northern Ireland) Order 1999
 
-[^key-95e63c2f61f279af860dc197fcdf37f5]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2016/107/regulation/11) in operation at 6.4.2016, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/a)
+[^c-95e63c2f61f279af860dc197fcdf37f5]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2016/107/regulation/11) in operation at 6.4.2016, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/a)
 
 [^f00041]: Footnote: Section 10 was amended by paragraph 20 of Schedule 3 to the Pensions (Northern Ireland) Order 1995 and paragraph 41 of Schedule 1 to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999 ([S.I. 1999/671](https://www.legislation.gov.uk/uksi/1999/671)) and is amended by paragraph 15 of Schedule 13 to the Pensions Act (Northern Ireland) 2015
 
 [^f00042]: Footnote: Section 13 was amended by paragraph 42 of Schedule 1 to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999, paragraph 1 of Schedule 5 and Schedule 9 to the Child Support, Pensions and Social Security Act (Northern Ireland) 2000, Article 261(2) of the Pensions (Northern Ireland) Order 2005, section 12(2) of the Pensions Act (Northern Ireland) 2008 and paragraph 5 of Schedule 1 to [S.R. 2005 No. 433](https://www.legislation.gov.uk/nisr/2005/433) and is amended by paragraph 17 of Schedule 13 to the Pensions Act (Northern Ireland) 2015
 
-[^key-4c597297b20118263b296d5badca9f8e]: Textual amendment: Words in [reg. 11](https://www.legislation.gov.uk/nisr/2016/107/regulation/11) omitted (6.4.2016) by virtue of [The Occupational and Personal Pension Schemes (Modification of Schemes and Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/144)](https://www.legislation.gov.uk/nisr/2016/144), [regs. 1](https://www.legislation.gov.uk/nisr/2016/144/regulation/1), [4(a)](https://www.legislation.gov.uk/nisr/2016/144/regulation/4/a)
+[^c-4c597297b20118263b296d5badca9f8e]: Textual amendment: Words in [reg. 11](https://www.legislation.gov.uk/nisr/2016/107/regulation/11) omitted (6.4.2016) by virtue of [The Occupational and Personal Pension Schemes (Modification of Schemes and Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/144)](https://www.legislation.gov.uk/nisr/2016/144), [regs. 1](https://www.legislation.gov.uk/nisr/2016/144/regulation/1), [4(a)](https://www.legislation.gov.uk/nisr/2016/144/regulation/4/a)
 
-[^key-57678e69476ef4d9d524d0a392ae84c1]: Textual amendment: [Reg. 11(a)(b)](https://www.legislation.gov.uk/nisr/2016/107/regulation/11/a/b) substituted (6.4.2016) by [The Occupational and Personal Pension Schemes (Modification of Schemes and Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/144)](https://www.legislation.gov.uk/nisr/2016/144), [regs. 1](https://www.legislation.gov.uk/nisr/2016/144/regulation/1), [4(b)](https://www.legislation.gov.uk/nisr/2016/144/regulation/4/b)
+[^c-57678e69476ef4d9d524d0a392ae84c1]: Textual amendment: [Reg. 11(a)(b)](https://www.legislation.gov.uk/nisr/2016/107/regulation/11/a/b) substituted (6.4.2016) by [The Occupational and Personal Pension Schemes (Modification of Schemes and Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/144)](https://www.legislation.gov.uk/nisr/2016/144), [regs. 1](https://www.legislation.gov.uk/nisr/2016/144/regulation/1), [4(b)](https://www.legislation.gov.uk/nisr/2016/144/regulation/4/b)
 
-[^key-d176816b3f9bda1a6fd540563e69f806]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2016/107/regulation/12) in operation at 6.4.2016, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/a)
+[^c-d176816b3f9bda1a6fd540563e69f806]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2016/107/regulation/12) in operation at 6.4.2016, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/a)
 
 [^f00046]: Footnote: Section 13(4A) was inserted by paragraph 1(1) of Schedule 5 to the Child Support, Pensions and Social Security Act (Northern Ireland) 2000 and amended by paragraph 5(d) of Schedule 1 to [S.R. 2005 No. 433](https://www.legislation.gov.uk/nisr/2005/433) and is amended by paragraph 17(2) of Schedule 13 to the Pensions Act (Northern Ireland) 2015
 
-[^key-48331267b1ce7830936101b7a6cdc881]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/nisr/2016/107/regulation/12/1) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [113(2)(a)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/113/2/a) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-48331267b1ce7830936101b7a6cdc881]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/nisr/2016/107/regulation/12/1) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [113(2)(a)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/113/2/a) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-d61c285c9195d690d9c72d1dc7cc9d12]: Textual amendment: Word in [reg. 12(1)(a)-(e)](https://www.legislation.gov.uk/nisr/2016/107/regulation/12/1/a) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [113(2)(b)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/113/2/b) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-d61c285c9195d690d9c72d1dc7cc9d12]: Textual amendment: Word in [reg. 12(1)(a)-(e)](https://www.legislation.gov.uk/nisr/2016/107/regulation/12/1/a) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [113(2)(b)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/113/2/b) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-afe41fe64b25b7eb0463d954dabdf10b]: Textual amendment: Words in [reg. 12(1)(b)(iii)](https://www.legislation.gov.uk/nisr/2016/107/regulation/12/1/b/iii) substituted (6.4.2017) by [The Occupational Pension Schemes and Social Security (Schemes that were Contracted-out and Graduated Retirement Benefit) (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/57)](https://www.legislation.gov.uk/nisr/2017/57), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/57/regulation/1/1), [4(3)(a)](https://www.legislation.gov.uk/nisr/2017/57/regulation/4/3/a)
+[^c-afe41fe64b25b7eb0463d954dabdf10b]: Textual amendment: Words in [reg. 12(1)(b)(iii)](https://www.legislation.gov.uk/nisr/2016/107/regulation/12/1/b/iii) substituted (6.4.2017) by [The Occupational Pension Schemes and Social Security (Schemes that were Contracted-out and Graduated Retirement Benefit) (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/57)](https://www.legislation.gov.uk/nisr/2017/57), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/57/regulation/1/1), [4(3)(a)](https://www.legislation.gov.uk/nisr/2017/57/regulation/4/3/a)
 
-[^key-50333b7f593ec00edfca9863ede132f7]: Textual amendment: [Reg. 12(1)(d)(e)](https://www.legislation.gov.uk/nisr/2016/107/regulation/12/1/d) added (6.4.2017) by [The Occupational Pension Schemes and Social Security (Schemes that were Contracted-out and Graduated Retirement Benefit) (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/57)](https://www.legislation.gov.uk/nisr/2017/57), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/57/regulation/1/1), [4(3)(b)](https://www.legislation.gov.uk/nisr/2017/57/regulation/4/3/b)
+[^c-50333b7f593ec00edfca9863ede132f7]: Textual amendment: [Reg. 12(1)(d)(e)](https://www.legislation.gov.uk/nisr/2016/107/regulation/12/1/d) added (6.4.2017) by [The Occupational Pension Schemes and Social Security (Schemes that were Contracted-out and Graduated Retirement Benefit) (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/57)](https://www.legislation.gov.uk/nisr/2017/57), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/57/regulation/1/1), [4(3)(b)](https://www.legislation.gov.uk/nisr/2017/57/regulation/4/3/b)
 
 [^f00047]: Footnote: *See* section 137
 
-[^key-6a449d606fea5aa2e41ea335b512fe3b]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2016/107/regulation/13) in operation at 6.4.2016, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/a)
+[^c-6a449d606fea5aa2e41ea335b512fe3b]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2016/107/regulation/13) in operation at 6.4.2016, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/a)
 
-[^key-5dbaab297da797b9c77752e427155ef0]: Textual amendment: Word in [reg. 13](https://www.legislation.gov.uk/nisr/2016/107/regulation/13) heading inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [113(3)(a)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/113/3/a) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-5dbaab297da797b9c77752e427155ef0]: Textual amendment: Word in [reg. 13](https://www.legislation.gov.uk/nisr/2016/107/regulation/13) heading inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [113(3)(a)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/113/3/a) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-caea7d915bab4816efba0240c71e28a4]: Textual amendment: Word in [reg. 13(1)](https://www.legislation.gov.uk/nisr/2016/107/regulation/13/1) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [113(3)(b)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/113/3/b) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-caea7d915bab4816efba0240c71e28a4]: Textual amendment: Word in [reg. 13(1)](https://www.legislation.gov.uk/nisr/2016/107/regulation/13/1) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [113(3)(b)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/113/3/b) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-db675ee474830a8e27a1ec178c43b8d1]: Textual amendment: Word in [reg. 13(3)](https://www.legislation.gov.uk/nisr/2016/107/regulation/13/3) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [113(3)(b)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/113/3/b) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-db675ee474830a8e27a1ec178c43b8d1]: Textual amendment: Word in [reg. 13(3)](https://www.legislation.gov.uk/nisr/2016/107/regulation/13/3) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [113(3)(b)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/113/3/b) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-78fb76a3460dd750e661f3d1caad626d]: Textual amendment: [Reg. 13(3A)(3B)](https://www.legislation.gov.uk/nisr/2016/107/regulation/13/3A) inserted (6.4.2017) by [The Occupational Pension Schemes and Social Security (Schemes that were Contracted-out and Graduated Retirement Benefit) (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/57)](https://www.legislation.gov.uk/nisr/2017/57), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/57/regulation/1/1), [4(4)(a)](https://www.legislation.gov.uk/nisr/2017/57/regulation/4/4/a)
+[^c-78fb76a3460dd750e661f3d1caad626d]: Textual amendment: [Reg. 13(3A)(3B)](https://www.legislation.gov.uk/nisr/2016/107/regulation/13/3A) inserted (6.4.2017) by [The Occupational Pension Schemes and Social Security (Schemes that were Contracted-out and Graduated Retirement Benefit) (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/57)](https://www.legislation.gov.uk/nisr/2017/57), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/57/regulation/1/1), [4(4)(a)](https://www.legislation.gov.uk/nisr/2017/57/regulation/4/4/a)
 
-[^key-ca047f04cb6d2e048054d5db2b09ca4f]: Textual amendment: Word in [reg. 13(3B)](https://www.legislation.gov.uk/nisr/2016/107/regulation/13/3B) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [113(3)(b)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/113/3/b) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-ca047f04cb6d2e048054d5db2b09ca4f]: Textual amendment: Word in [reg. 13(3B)](https://www.legislation.gov.uk/nisr/2016/107/regulation/13/3B) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [113(3)(b)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/113/3/b) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-a31a2e23c715f1697bebd6c072bbbad0]: Textual amendment: [Reg. 13(4)-(5)](https://www.legislation.gov.uk/nisr/2016/107/regulation/13/4) substituted (6.4.2017) for reg. 13(4)(5) by [The Occupational Pension Schemes and Social Security (Schemes that were Contracted-out and Graduated Retirement Benefit) (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/57)](https://www.legislation.gov.uk/nisr/2017/57), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/57/regulation/1/1), [4(4)(b)](https://www.legislation.gov.uk/nisr/2017/57/regulation/4/4/b)
+[^c-a31a2e23c715f1697bebd6c072bbbad0]: Textual amendment: [Reg. 13(4)-(5)](https://www.legislation.gov.uk/nisr/2016/107/regulation/13/4) substituted (6.4.2017) for reg. 13(4)(5) by [The Occupational Pension Schemes and Social Security (Schemes that were Contracted-out and Graduated Retirement Benefit) (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/57)](https://www.legislation.gov.uk/nisr/2017/57), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/57/regulation/1/1), [4(4)(b)](https://www.legislation.gov.uk/nisr/2017/57/regulation/4/4/b)
 
-[^key-d4680dcef85444c7a2024f6d17699310]: Textual amendment: Word in [reg. 13(4)(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/13/4/a) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [113(3)(c)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/113/3/c) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-d4680dcef85444c7a2024f6d17699310]: Textual amendment: Word in [reg. 13(4)(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/13/4/a) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [113(3)(c)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/113/3/c) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-b39516802041881d311fa925b0d1edad]: Textual amendment: [Reg. 13(4)(b)](https://www.legislation.gov.uk/nisr/2016/107/regulation/13/4/b)[(c)](https://www.legislation.gov.uk/nisr/2016/107/regulation/13/4/c) substituted (13.1.2020) for reg. 13(4)(b)-(d) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [113(3)(d)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/113/3/d) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-b39516802041881d311fa925b0d1edad]: Textual amendment: [Reg. 13(4)(b)](https://www.legislation.gov.uk/nisr/2016/107/regulation/13/4/b)[(c)](https://www.legislation.gov.uk/nisr/2016/107/regulation/13/4/c) substituted (13.1.2020) for reg. 13(4)(b)-(d) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [113(3)(d)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/113/3/d) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-fef0420561391fb97b789bfb2b1e07a7]: Textual amendment: Word in [reg. 13(4A)(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/13/4A/a) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [113(3)(e)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/113/3/e) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-fef0420561391fb97b789bfb2b1e07a7]: Textual amendment: Word in [reg. 13(4A)(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/13/4A/a) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [113(3)(e)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/113/3/e) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-2d43dbb32107d083c969f1b62779b7e2]: Textual amendment: [Reg. 13(4A)(b)](https://www.legislation.gov.uk/nisr/2016/107/regulation/13/4A/b) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [113(3)(f)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/113/3/f) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-2d43dbb32107d083c969f1b62779b7e2]: Textual amendment: [Reg. 13(4A)(b)](https://www.legislation.gov.uk/nisr/2016/107/regulation/13/4A/b) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [113(3)(f)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/113/3/f) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-d18667a775ba9f3b86a46f1103c39fbe]: Textual amendment: [Reg. 13(5)(za)](https://www.legislation.gov.uk/nisr/2016/107/regulation/13/5/za) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [113(3)(g)(i)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/113/3/g/i) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-d18667a775ba9f3b86a46f1103c39fbe]: Textual amendment: [Reg. 13(5)(za)](https://www.legislation.gov.uk/nisr/2016/107/regulation/13/5/za) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [113(3)(g)(i)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/113/3/g/i) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-2c50ccbc66e7bea4a579564a5a38cc4b]: Textual amendment: Words in [reg. 13(5)(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/13/5/a) omitted (13.1.2020) by virtue of [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [113(3)(g)(ii)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/113/3/g/ii) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-2c50ccbc66e7bea4a579564a5a38cc4b]: Textual amendment: Words in [reg. 13(5)(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/13/5/a) omitted (13.1.2020) by virtue of [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [113(3)(g)(ii)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/113/3/g/ii) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-9a2fb86fc1db69415f9ffbdd41bd97fd]: Textual amendment: Word in [reg. 13(5)(b)](https://www.legislation.gov.uk/nisr/2016/107/regulation/13/5/b) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [113(3)(g)(iii)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/113/3/g/iii) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-9a2fb86fc1db69415f9ffbdd41bd97fd]: Textual amendment: Word in [reg. 13(5)(b)](https://www.legislation.gov.uk/nisr/2016/107/regulation/13/5/b) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [113(3)(g)(iii)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/113/3/g/iii) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-4916d73c716f73a80799dc6389a2741a]: Textual amendment: [Reg. 13(5)(c)](https://www.legislation.gov.uk/nisr/2016/107/regulation/13/5/c) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [113(3)(g)(iv)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/113/3/g/iv) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-4916d73c716f73a80799dc6389a2741a]: Textual amendment: [Reg. 13(5)(c)](https://www.legislation.gov.uk/nisr/2016/107/regulation/13/5/c) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [113(3)(g)(iv)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/113/3/g/iv) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-d9d34379a11b874e050ae9864cb3ed2f]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2016/107/regulation/14) in operation at 6.4.2016, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/a)
+[^c-d9d34379a11b874e050ae9864cb3ed2f]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2016/107/regulation/14) in operation at 6.4.2016, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/a)
 
 [^f00048]: Footnote: Section 12(2) is substituted by paragraph 16 of Schedule 13 to the Pensions Act (Northern Ireland) 2015, but saved for certain purposes, *see* [S.R. 2016 No. 106](https://www.legislation.gov.uk/nisr/2016/106)
 
-[^key-b85c517af789f7f5628ac01884017054]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2016/107/regulation/15) in operation at 6.4.2016, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/a)
+[^c-b85c517af789f7f5628ac01884017054]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2016/107/regulation/15) in operation at 6.4.2016, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/a)
 
 [^f00049]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8); section 130 was amended by paragraph 40 of Schedule 7 to the Pension Schemes (Northern Ireland) Act 1993 and Article 125(3) of the Pensions (Northern Ireland) Order 1995
 
-[^key-5ac05d085d6cab97858a75d3378b2f5f]: Textual amendment: [Reg. 15(2)](https://www.legislation.gov.uk/nisr/2016/107/regulation/15/2) substituted (6.4.2017) by [The Occupational Pension Schemes and Social Security (Schemes that were Contracted-out and Graduated Retirement Benefit) (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/57)](https://www.legislation.gov.uk/nisr/2017/57), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/57/regulation/1/1), [4(5)](https://www.legislation.gov.uk/nisr/2017/57/regulation/4/5)
+[^c-5ac05d085d6cab97858a75d3378b2f5f]: Textual amendment: [Reg. 15(2)](https://www.legislation.gov.uk/nisr/2016/107/regulation/15/2) substituted (6.4.2017) by [The Occupational Pension Schemes and Social Security (Schemes that were Contracted-out and Graduated Retirement Benefit) (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/57)](https://www.legislation.gov.uk/nisr/2017/57), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/57/regulation/1/1), [4(5)](https://www.legislation.gov.uk/nisr/2017/57/regulation/4/5)
 
-[^key-b8147cf63d8eab0ca9fa5bdd742a55d8]: Textual amendment: Words in [reg. 15(2)(b)](https://www.legislation.gov.uk/nisr/2016/107/regulation/15/2/b) substituted (6.4.2022) by [The Occupational Pension Schemes (Schemes that were Contracted-out) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/87)](https://www.legislation.gov.uk/nisr/2022/87), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/87/regulation/1/1), [2(a)](https://www.legislation.gov.uk/nisr/2022/87/regulation/2/a)
+[^c-b8147cf63d8eab0ca9fa5bdd742a55d8]: Textual amendment: Words in [reg. 15(2)(b)](https://www.legislation.gov.uk/nisr/2016/107/regulation/15/2/b) substituted (6.4.2022) by [The Occupational Pension Schemes (Schemes that were Contracted-out) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/87)](https://www.legislation.gov.uk/nisr/2022/87), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/87/regulation/1/1), [2(a)](https://www.legislation.gov.uk/nisr/2022/87/regulation/2/a)
 
-[^key-015dd52efa15f39a20a456d2f6e2c916]: Textual amendment: [Reg. 15(2)(c)](https://www.legislation.gov.uk/nisr/2016/107/regulation/15/2/c) added (6.4.2022) by [The Occupational Pension Schemes (Schemes that were Contracted-out) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/87)](https://www.legislation.gov.uk/nisr/2022/87), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/87/regulation/1/1), [2(b)](https://www.legislation.gov.uk/nisr/2022/87/regulation/2/b)
+[^c-015dd52efa15f39a20a456d2f6e2c916]: Textual amendment: [Reg. 15(2)(c)](https://www.legislation.gov.uk/nisr/2016/107/regulation/15/2/c) added (6.4.2022) by [The Occupational Pension Schemes (Schemes that were Contracted-out) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/87)](https://www.legislation.gov.uk/nisr/2022/87), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/87/regulation/1/1), [2(b)](https://www.legislation.gov.uk/nisr/2022/87/regulation/2/b)
 
 [^f00050]: Footnote: Section 16(1) was amended by paragraph 2(1) of Schedule 5 to the Child Support, Pensions and Social Security Act (Northern Ireland) 2000 and is amended by paragraph 18 of Schedule 13 to the Pensions Act (Northern Ireland) 2015
 
-[^key-a8970077201e4fd4acab46972a0106c2]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2016/107/regulation/16) in operation at 6.4.2016, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/a)
+[^c-a8970077201e4fd4acab46972a0106c2]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2016/107/regulation/16) in operation at 6.4.2016, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/a)
 
 [^f00051]: Footnote: Section 9 was amended by paragraph 19 of Schedule 3 to the Pensions (Northern Ireland) Order 1995 and section 12(1) of the Pensions Act (Northern Ireland) 2008
 
@@ -834,35 +834,35 @@ An assessment of the impact of this legislation is included in the Regulatory Im
 
 [^f00053]: Footnote: Section 12(3) was amended by paragraph 21(a) of Schedule 3 to the Pensions (Northern Ireland) Order 1995
 
-[^key-45ec87695ff25428e019c89ded139335]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2016/107/regulation/17) in operation at 6.4.2016, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/a)
+[^c-45ec87695ff25428e019c89ded139335]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2016/107/regulation/17) in operation at 6.4.2016, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/a)
 
 [^f00054]: Footnote: [1911 c. 28](https://www.legislation.gov.uk/ukpga/1911/28); [1920 c. 75](https://www.legislation.gov.uk/ukpga/1920/75); [1939 c. 121](https://www.legislation.gov.uk/ukpga/1939/121); [1989 c. 6](https://www.legislation.gov.uk/ukpga/1989/6)
 
-[^key-0df28221be2d9b8f1c1d8934834eff17]: Textual amendment: Words in [reg. 17(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2016/107/regulation/17/2/a/ii) inserted (20.12.2023) by [The National Security Act 2023 (Consequential Amendments of Subordinate Legislation) Regulations 2023 (S.I. 2023/1267)](https://www.legislation.gov.uk/uksi/2023/1267), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1267/regulation/1/2), [Sch. para. 53](https://www.legislation.gov.uk/uksi/2023/1267/schedule/paragraph/53)
+[^c-0df28221be2d9b8f1c1d8934834eff17]: Textual amendment: Words in [reg. 17(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2016/107/regulation/17/2/a/ii) inserted (20.12.2023) by [The National Security Act 2023 (Consequential Amendments of Subordinate Legislation) Regulations 2023 (S.I. 2023/1267)](https://www.legislation.gov.uk/uksi/2023/1267), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1267/regulation/1/2), [Sch. para. 53](https://www.legislation.gov.uk/uksi/2023/1267/schedule/paragraph/53)
 
-[^key-b8550c8007591305814c574bb80ed596]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2016/107/regulation/18) in operation at 6.4.2016, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/a)
+[^c-b8550c8007591305814c574bb80ed596]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2016/107/regulation/18) in operation at 6.4.2016, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/a)
 
 [^f00055]: Footnote: Section 20B was inserted by section 12(3) of the Pensions Act (Northern Ireland) 2008
 
-[^key-eecf1ddaadbe25b1c3c11ca9f60ff27b]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2016/107/regulation/19) in operation at 6.4.2016, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/a)
+[^c-eecf1ddaadbe25b1c3c11ca9f60ff27b]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2016/107/regulation/19) in operation at 6.4.2016, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/a)
 
 [^f00056]: Footnote: Section 13(6) was amended by paragraph 1(3) of Schedule 5 to the Child Support, Pensions and Social Security Act (Northern Ireland) 2000 and paragraph 5(f) of Schedule 1 to [S.R. 2005 No. 433](https://www.legislation.gov.uk/nisr/2005/433)
 
-[^key-0590f010c09fa5540c338f1ce410f93b]: Textual amendment: Word in [reg. 19(2)(b)(ii)](https://www.legislation.gov.uk/nisr/2016/107/regulation/19/2/b/ii) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [113(4)(a)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/113/4/a) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-0590f010c09fa5540c338f1ce410f93b]: Textual amendment: Word in [reg. 19(2)(b)(ii)](https://www.legislation.gov.uk/nisr/2016/107/regulation/19/2/b/ii) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [113(4)(a)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/113/4/a) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-300d15d6c6af3bb1e3928a4f8d9ef866]: Textual amendment: Words in [reg. 19(3)(b)(i)](https://www.legislation.gov.uk/nisr/2016/107/regulation/19/3/b/i) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [113(4)(b)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/113/4/b) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-300d15d6c6af3bb1e3928a4f8d9ef866]: Textual amendment: Words in [reg. 19(3)(b)(i)](https://www.legislation.gov.uk/nisr/2016/107/regulation/19/3/b/i) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [113(4)(b)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/113/4/b) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-e3c6f21895df6cc01390c39c28fb1b7b]: Textual amendment: Words in [reg. 19(3)(c)](https://www.legislation.gov.uk/nisr/2016/107/regulation/19/3/c) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [113(4)(c)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/113/4/c) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-e3c6f21895df6cc01390c39c28fb1b7b]: Textual amendment: Words in [reg. 19(3)(c)](https://www.legislation.gov.uk/nisr/2016/107/regulation/19/3/c) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [113(4)(c)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/113/4/c) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-58abcd370e7e1bbb0018f34a0541b97c]: Textual amendment: Words in [reg. 19(3)(d)](https://www.legislation.gov.uk/nisr/2016/107/regulation/19/3/d) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [113(4)(d)(i)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/113/4/d/i) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-58abcd370e7e1bbb0018f34a0541b97c]: Textual amendment: Words in [reg. 19(3)(d)](https://www.legislation.gov.uk/nisr/2016/107/regulation/19/3/d) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [113(4)(d)(i)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/113/4/d/i) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-57272d78dcc05fe53adc5b46531da6f5]: Textual amendment: Word in [reg. 19(3)(d)](https://www.legislation.gov.uk/nisr/2016/107/regulation/19/3/d) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [113(4)(d)(ii)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/113/4/d/ii) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-57272d78dcc05fe53adc5b46531da6f5]: Textual amendment: Word in [reg. 19(3)(d)](https://www.legislation.gov.uk/nisr/2016/107/regulation/19/3/d) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [113(4)(d)(ii)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/113/4/d/ii) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-1a2cc33c34c8d1bd71a034496fae766f]: Textual amendment: Words in [reg. 19(4)](https://www.legislation.gov.uk/nisr/2016/107/regulation/19/4) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [113(4)(e)(i)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/113/4/e/i) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-1a2cc33c34c8d1bd71a034496fae766f]: Textual amendment: Words in [reg. 19(4)](https://www.legislation.gov.uk/nisr/2016/107/regulation/19/4) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [113(4)(e)(i)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/113/4/e/i) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-0eda9e413039898fb8bf1806ec16bb44]: Textual amendment: [Reg. 19(4)(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/19/4/a)[(aa)](https://www.legislation.gov.uk/nisr/2016/107/regulation/19/4/aa) substituted for [reg. 19(4)(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/19/4/a) (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [113(4)(e)(ii)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/113/4/e/ii) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-0eda9e413039898fb8bf1806ec16bb44]: Textual amendment: [Reg. 19(4)(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/19/4/a)[(aa)](https://www.legislation.gov.uk/nisr/2016/107/regulation/19/4/aa) substituted for [reg. 19(4)(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/19/4/a) (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [113(4)(e)(ii)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/113/4/e/ii) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-fd2ba510c6eca4e198aa6f3d1b76d698]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2016/107/regulation/20) in operation at 6.4.2016, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/a)
+[^c-fd2ba510c6eca4e198aa6f3d1b76d698]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2016/107/regulation/20) in operation at 6.4.2016, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/a)
 
 [^f00057]: Footnote: *See* section 3A of the Pension Schemes (Northern Ireland) Act 1993 as inserted by paragraph 6 of Schedule 13 to the Pensions Act (Northern Ireland) 2015
 
@@ -874,7 +874,7 @@ An assessment of the impact of this legislation is included in the Regulatory Im
 
 [^f00061]: Footnote: Paragraph (g) was added by regulation 2(10)(b) of [S.R. 2002 No. 109](https://www.legislation.gov.uk/nisr/2002/109)
 
-[^key-8b8944b47371b9efb5c4bf7230024379]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2016/107/regulation/21) in operation at 6.4.2016, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/a)
+[^c-8b8944b47371b9efb5c4bf7230024379]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2016/107/regulation/21) in operation at 6.4.2016, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/a)
 
 [^f00062]: Footnote: Paragraph (7) was amended by Article 12(8) of [S.R. 2012 No. 124](https://www.legislation.gov.uk/nisr/2012/124)
 
@@ -886,7 +886,7 @@ An assessment of the impact of this legislation is included in the Regulatory Im
 
 [^f00066]: Footnote: [S.I. 2015/1677](https://www.legislation.gov.uk/uksi/2015/1677)
 
-[^key-395a968f032c8aaed87c34b1859e1a9d]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2016/107/regulation/22) in operation at 6.4.2016, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/a)
+[^c-395a968f032c8aaed87c34b1859e1a9d]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2016/107/regulation/22) in operation at 6.4.2016, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/a)
 
 [^f00067]: Footnote: [S.R. 1996 No. 618](https://www.legislation.gov.uk/nisr/1996/618); relevant amending Regulations are [S.R. 1997 No. 160](https://www.legislation.gov.uk/nisr/1997/160)
 
@@ -898,15 +898,15 @@ An assessment of the impact of this legislation is included in the Regulatory Im
 
 [^f00071]: Footnote: *See* section 174 of the Pension Schemes (Northern Ireland) Act 1993 as amended by paragraph 25 of Schedule 10 to the Pensions (Northern Ireland) Order 2005 and paragraph 72 of Schedule 4 to the Pension Schemes Act 2015
 
-[^key-b97102ed4c3ec01a8b4048ec6fef834d]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2016/107/regulation/23) in operation at 6.4.2016, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/a)
+[^c-b97102ed4c3ec01a8b4048ec6fef834d]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2016/107/regulation/23) in operation at 6.4.2016, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/a)
 
-[^key-3de788b53e0605e9361f0955cc562742]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2016/107/regulation/24) in operation at 6.4.2016, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/a)
+[^c-3de788b53e0605e9361f0955cc562742]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2016/107/regulation/24) in operation at 6.4.2016, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/a)
 
 [^f00072]: Footnote: Regulation 62 was amended by regulation 2(14) of [S.R. 2002 No. 109](https://www.legislation.gov.uk/nisr/2002/109), regulation 4(3) of [S.R. 2007 No. 185](https://www.legislation.gov.uk/nisr/2007/185), regulation 6(18) of [S.R. 2012 No. 120](https://www.legislation.gov.uk/nisr/2012/120) and regulation 2 of [S.R. 2012 No. 125](https://www.legislation.gov.uk/nisr/2012/125)
 
-[^key-f598693a93f99cf182c5ff7bc990b636]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2016/107/regulation/25) in operation at 6.4.2019, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/b)
+[^c-f598693a93f99cf182c5ff7bc990b636]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2016/107/regulation/25) in operation at 6.4.2019, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/b)
 
-[^key-a02e37566122d1303067ffea4433fdcb]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2016/107/schedule/1) in operation at 6.4.2016, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/a)
+[^c-a02e37566122d1303067ffea4433fdcb]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2016/107/schedule/1) in operation at 6.4.2016, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/a)
 
 [^f00073]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49)
 
@@ -952,6 +952,6 @@ An assessment of the impact of this legislation is included in the Regulatory Im
 
 [^f00094]: Footnote: [S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213))
 
-[^key-bd255a8b22c68f1049b9fe5913b0406e]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/2016/107/schedule/2) in operation at 6.4.2016, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/a)
+[^c-bd255a8b22c68f1049b9fe5913b0406e]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/2016/107/schedule/2) in operation at 6.4.2016, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/a)
 
-[^key-77f3b7ad606b7b957e2d5664ff045ce5]: Commencement: [Sch. 3](https://www.legislation.gov.uk/nisr/2016/107/schedule/3) in operation at 6.4.2019, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/b)
+[^c-77f3b7ad606b7b957e2d5664ff045ce5]: Commencement: [Sch. 3](https://www.legislation.gov.uk/nisr/2016/107/schedule/3) in operation at 6.4.2019, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/b)

@@ -74,7 +74,7 @@ In accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawa
 - [Section 10 — Chapter 10](part-2/section-10.md)
 - [Section 11 — Annexes 1 to 7](part-2/section-11.md)
 
-#### CHAPTER 2 — Commission Implementing Regulation (EU) 2019/533[^key-6c8a742dd3bfde022149a24c6eb2a564]
+#### CHAPTER 2 — Commission Implementing Regulation (EU) 2019/533[^c-6c8a742dd3bfde022149a24c6eb2a564]
 
 *Extent: E+W+S+N.I.*
 
@@ -115,4 +115,4 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23667911]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-6c8a742dd3bfde022149a24c6eb2a564]: Textual amendment: Pt. 2 Ch. 2 substituted (31.12.2020 immediately before IP completion day) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [6(7)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/6/7)
+[^c-6c8a742dd3bfde022149a24c6eb2a564]: Textual amendment: Pt. 2 Ch. 2 substituted (31.12.2020 immediately before IP completion day) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [6(7)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/6/7)

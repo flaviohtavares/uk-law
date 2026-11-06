@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 17. Prohibition on unlicensed distribution[^key-2a85cfb4e3efeb7c90eb89139cdde237]
+## 17. Prohibition on unlicensed distribution[^c-2a85cfb4e3efeb7c90eb89139cdde237]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ In Article 8(1) (Prohibition on unlicensed supply, etc) of the Electricity Order
 
 ## Annotations
 
-[^key-2a85cfb4e3efeb7c90eb89139cdde237]: Commencement: Reg. 17 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
+[^c-2a85cfb4e3efeb7c90eb89139cdde237]: Commencement: Reg. 17 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)

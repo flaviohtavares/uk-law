@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Restriction on sale and purchase of primers[^key-396030f84629af7c2de1e505ee6fac01]
+## 35. Restriction on sale and purchase of primers[^c-396030f84629af7c2de1e505ee6fac01]
 
 *Extent: E+W+S*
 
@@ -86,4 +86,4 @@ unless he falls within subsection (5).
 
 ## Annotations
 
-[^key-396030f84629af7c2de1e505ee6fac01]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2006/38/section/35) in force at 6.4.2007 by [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(f)](https://www.legislation.gov.uk/uksi/2007/858/article/2/f)
+[^c-396030f84629af7c2de1e505ee6fac01]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2006/38/section/35) in force at 6.4.2007 by [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(f)](https://www.legislation.gov.uk/uksi/2007/858/article/2/f)

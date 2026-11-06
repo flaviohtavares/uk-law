@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 176. Blighted land: Scotland[^key-152ec699f6482fd0c919976cc9ab652f]
+## 176. Blighted land: Scotland[^c-152ec699f6482fd0c919976cc9ab652f]
 
 *Extent: E+W+S*
 
-(1)[^key-3b8113aa10c3c6f20c8fa3706c3c1c3c] The Town and Country Planning (Scotland) Act 1997 (c. 8) is amended as follows.
+(1)[^c-3b8113aa10c3c6f20c8fa3706c3c1c3c] The Town and Country Planning (Scotland) Act 1997 (c. 8) is amended as follows.
 
-(2)[^key-3b8113aa10c3c6f20c8fa3706c3c1c3c] In Schedule 14 (blighted land) after paragraph 16 insert—
+(2)[^c-3b8113aa10c3c6f20c8fa3706c3c1c3c] In Schedule 14 (blighted land) after paragraph 16 insert—
 
 > **17.**
 >
@@ -53,7 +53,7 @@ summary: ''
 > - (a) ceases to have effect, or
 > - (b) ceases to identify the land as suitable or potentially suitable for the construction of such a pipe-line.
 
-(3)[^key-3b8113aa10c3c6f20c8fa3706c3c1c3c] In section 100 (scope of Chapter 2 of Part 5) after subsection (5) insert—
+(3)[^c-3b8113aa10c3c6f20c8fa3706c3c1c3c] In section 100 (scope of Chapter 2 of Part 5) after subsection (5) insert—
 
 > (5A) In the application of subsections (3)(a) and (4) in relation to land to which paragraph 17 or 18 of Schedule 14 applies, references to the Scottish Ministers are to be read as references to the Secretary of State.
 
@@ -62,17 +62,17 @@ summary: ''
 - (a) for “or 15” substitute “ , 15 or 17 ”, and
 - (b) after “Schedule 14 and” insert “ (except in the case of land falling within paragraph 17 by virtue of paragraph 17(2)(c)) ”.
 
-(5)[^key-3b8113aa10c3c6f20c8fa3706c3c1c3c] In section 102 (counter-notices objecting to blight notices) after subsection (7) insert—
+(5)[^c-3b8113aa10c3c6f20c8fa3706c3c1c3c] In section 102 (counter-notices objecting to blight notices) after subsection (7) insert—
 
 > (7A) An objection may not be made on the ground mentioned in paragraph (b) of subsection (4) in a counter-notice to a blight notice served by virtue of paragraph 18 of Schedule 14.
 
-(6)[^key-3b8113aa10c3c6f20c8fa3706c3c1c3c] After section 116 insert—
+(6)[^c-3b8113aa10c3c6f20c8fa3706c3c1c3c] After section 116 insert—
 
 > **116A. Power of Secretary of State to acquire land identified in national policy statements where blight notice served**
 >
 > Where a blight notice has been served in respect of land falling within paragraph 18 of Schedule 14, the Secretary of State has power to acquire compulsorily any interest in the land in pursuance of the blight notice served by virtue of that paragraph.
 
-(7)[^key-3b8113aa10c3c6f20c8fa3706c3c1c3c] In section 120 (meaning of “the appropriate authority” for purposes of Chapter 2 of Part 5) after subsection (4) insert—
+(7)[^c-3b8113aa10c3c6f20c8fa3706c3c1c3c] In section 120 (meaning of “the appropriate authority” for purposes of Chapter 2 of Part 5) after subsection (4) insert—
 
 > (5) In relation to land falling within paragraph 18 of Schedule 14, “the appropriate authority” is—
 >
@@ -88,7 +88,7 @@ summary: ''
 >
 > (7) In subsections (5) and (6) “**statutory undertaker**” means a person who is, or is deemed to be, a statutory undertaker for the purposes of any provision of Part 10.
 
-(8)[^key-3b8113aa10c3c6f20c8fa3706c3c1c3c] In section 121 (“appropriate enactment” for purposes of Chapter 2) after subsection (7) insert—
+(8)[^c-3b8113aa10c3c6f20c8fa3706c3c1c3c] In section 121 (“appropriate enactment” for purposes of Chapter 2) after subsection (7) insert—
 
 > (7A) In relation to land falling within paragraph 17 of that Schedule by virtue of paragraph 17(2)(a) or (b), “**the appropriate enactment**” means the order granting development consent.
 >
@@ -96,7 +96,7 @@ summary: ''
 >
 > (7C) In relation to land falling within paragraph 18 of that Schedule, “**the appropriate enactment**” means section 116A.
 
-(9)[^key-3b8113aa10c3c6f20c8fa3706c3c1c3c] In section 122 (general interpretation of Chapter 2 of Part 5)—
+(9)[^c-3b8113aa10c3c6f20c8fa3706c3c1c3c] In section 122 (general interpretation of Chapter 2 of Part 5)—
 
 - (a) after the definition of “crofter” insert—
 
@@ -113,6 +113,6 @@ summary: ''
 
 ## Annotations
 
-[^key-152ec699f6482fd0c919976cc9ab652f]: Commencement: S. 176 in force at 1.3.2010 for S. in so far as not already in force by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 5](https://www.legislation.gov.uk/uksi/2010/101/article/5) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
+[^c-152ec699f6482fd0c919976cc9ab652f]: Commencement: S. 176 in force at 1.3.2010 for S. in so far as not already in force by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 5](https://www.legislation.gov.uk/uksi/2010/101/article/5) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
 
-[^key-3b8113aa10c3c6f20c8fa3706c3c1c3c]: Commencement: S. 176(1)-(3) (5)-(9) in force at 6.4.2009 for specified purposes for S. by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 4(a)](https://www.legislation.gov.uk/uksi/2009/400/article/4/a)
+[^c-3b8113aa10c3c6f20c8fa3706c3c1c3c]: Commencement: S. 176(1)-(3) (5)-(9) in force at 6.4.2009 for specified purposes for S. by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 4(a)](https://www.legislation.gov.uk/uksi/2009/400/article/4/a)

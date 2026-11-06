@@ -32,8 +32,8 @@ summary: ''
 
 *Extent: E+W+S*
 
-(4)[^key-eacc0d08bf9ff48141d4e1dda8de5860] Paragraph (1) does not apply to any communication in respect of a controlled claims management activity.
+(4)[^c-eacc0d08bf9ff48141d4e1dda8de5860] Paragraph (1) does not apply to any communication in respect of a controlled claims management activity.
 
 ## Annotations
 
-[^key-eacc0d08bf9ff48141d4e1dda8de5860]: Textual amendment: Art. 28A(4) inserted (E.W.S.) (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [23](https://www.legislation.gov.uk/uksi/2018/1253/article/23)
+[^c-eacc0d08bf9ff48141d4e1dda8de5860]: Textual amendment: Art. 28A(4) inserted (E.W.S.) (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [23](https://www.legislation.gov.uk/uksi/2018/1253/article/23)

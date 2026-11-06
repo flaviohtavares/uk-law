@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 33A — Promotion structures[^key-22f0eae5f449a6e6990885b0bb7647cd]
+## SCHEDULE 33A — Promotion structures[^c-22f0eae5f449a6e6990885b0bb7647cd]
 
 *Extent: E+W+S+N.I.*
 
@@ -147,4 +147,4 @@ Section 235
 
 ## Annotations
 
-[^key-22f0eae5f449a6e6990885b0bb7647cd]: Textual amendment: [Sch. 33A](https://www.legislation.gov.uk/ukpga/2014/26/schedule/33A) inserted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 10](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/10)
+[^c-22f0eae5f449a6e6990885b0bb7647cd]: Textual amendment: [Sch. 33A](https://www.legislation.gov.uk/ukpga/2014/26/schedule/33A) inserted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 10](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/10)

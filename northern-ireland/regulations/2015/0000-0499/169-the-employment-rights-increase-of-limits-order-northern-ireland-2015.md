@@ -32,7 +32,7 @@ summary: ''
 
 Employment
 
-The Employment Rights (Increase of Limits) Order (Northern Ireland) 2015 (revoked)[^key-31dc07adb8d8f95230e94a0a5a65d609]
+The Employment Rights (Increase of Limits) Order (Northern Ireland) 2015 (revoked)[^c-31dc07adb8d8f95230e94a0a5a65d609]
 
 Made
 
@@ -42,31 +42,31 @@ Coming into operation
 
 22nd March 2015
 
-[^key-31dc07adb8d8f95230e94a0a5a65d609]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-31dc07adb8d8f95230e94a0a5a65d609]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-31dc07adb8d8f95230e94a0a5a65d609]
+## 1. Citation, commencement and interpretation[^c-31dc07adb8d8f95230e94a0a5a65d609]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation[^key-31dc07adb8d8f95230e94a0a5a65d609]
+## 2. Revocation[^c-31dc07adb8d8f95230e94a0a5a65d609]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Increase of limits[^key-31dc07adb8d8f95230e94a0a5a65d609]
+## 3. Increase of limits[^c-31dc07adb8d8f95230e94a0a5a65d609]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Transitional provisions[^key-31dc07adb8d8f95230e94a0a5a65d609]
+## 4. Transitional provisions[^c-31dc07adb8d8f95230e94a0a5a65d609]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-31dc07adb8d8f95230e94a0a5a65d609]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-31dc07adb8d8f95230e94a0a5a65d609]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — TABLE OF INCREASE OF LIMITS[^key-31dc07adb8d8f95230e94a0a5a65d609]
+## SCHEDULE — TABLE OF INCREASE OF LIMITS[^c-31dc07adb8d8f95230e94a0a5a65d609]
 
 Article 3
 
@@ -74,8 +74,8 @@ Article 3
 
 **May not be in force at this date. Check the source.**
 
-[^key-31dc07adb8d8f95230e94a0a5a65d609]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-31dc07adb8d8f95230e94a0a5a65d609]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-31dc07adb8d8f95230e94a0a5a65d609]: Textual amendment: Order revoked (14.2.2016) by [The Employment Rights (Increase of Limits) Order (Northern Ireland) 2016 (S.R. 2016/37)](https://www.legislation.gov.uk/nisr/2016/37), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2016/37/article/1/1), [2](https://www.legislation.gov.uk/nisr/2016/37/article/2) (with [art. 4](https://www.legislation.gov.uk/nisr/2016/37/article/4))
+[^c-31dc07adb8d8f95230e94a0a5a65d609]: Textual amendment: Order revoked (14.2.2016) by [The Employment Rights (Increase of Limits) Order (Northern Ireland) 2016 (S.R. 2016/37)](https://www.legislation.gov.uk/nisr/2016/37), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2016/37/article/1/1), [2](https://www.legislation.gov.uk/nisr/2016/37/article/2) (with [art. 4](https://www.legislation.gov.uk/nisr/2016/37/article/4))

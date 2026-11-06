@@ -50,11 +50,11 @@ He has consulted with such organisations which appear to him to be representativ
 
 The Social Security Advisory Committee agreed that the proposals to make these Regulations should not be referred to it[^f00005].
 
-## 1. Citation and commencement[^key-a965cdda076bcf4463e15a3a4321f6e5]
+## 1. Citation and commencement[^c-a965cdda076bcf4463e15a3a4321f6e5]
 
 These Regulations shall be cited as the Social Security (Persons from Abroad) Amendment Regulations 2006 and shall come into force on 30th April 2006.
 
-## 2. Amendment of the Council Tax Benefit Regulations 2006[^key-ce26875f0184729723823388d345f5c6]
+## 2. Amendment of the Council Tax Benefit Regulations 2006[^c-ce26875f0184729723823388d345f5c6]
 
 (1) The Council Tax Benefit Regulations 2006[^f00006] are amended as follows.
 
@@ -92,7 +92,7 @@ These Regulations shall be cited as the Social Security (Persons from Abroad) Am
   ;
 - (b) in paragraph (6), omit the definition of “a European Economic Area State”.
 
-## 3. Amendment of the Council Tax Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006[^key-5c0ce77a16f2b59cede96e30c73d005f]
+## 3. Amendment of the Council Tax Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006[^c-5c0ce77a16f2b59cede96e30c73d005f]
 
 (1) The Council Tax Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006[^f00011] are amended as follows.
 
@@ -130,7 +130,7 @@ These Regulations shall be cited as the Social Security (Persons from Abroad) Am
   ;
 - (b) in paragraph (6), omit the definition of “a European Economic Area State”.
 
-## 4. Amendment of the Housing Benefit Regulations 2006[^key-5c6d7dd374a5602fdaa40346339fa28b]
+## 4. Amendment of the Housing Benefit Regulations 2006[^c-5c6d7dd374a5602fdaa40346339fa28b]
 
 (1) The Housing Benefit Regulations 2006[^f00016] are amended as follows.
 
@@ -169,7 +169,7 @@ These Regulations shall be cited as the Social Security (Persons from Abroad) Am
 - (b) omit paragraph (5);
 - (c) in paragraph (6), omit the definition of “a European Economic Area State”.
 
-## 5. Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006[^key-8f502bcab3304405853d8aad5d84c1b7]
+## 5. Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006[^c-8f502bcab3304405853d8aad5d84c1b7]
 
 (1) The Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006[^f00021] are amended as follows.
 
@@ -207,7 +207,7 @@ These Regulations shall be cited as the Social Security (Persons from Abroad) Am
   ;
 - (b) in paragraph (6), omit the definition of “a European Economic Area State”.
 
-## 6. Amendment of the Income Support (General) Regulations 1987[^key-2c6d302f8900a7861111a65c886a3fbb]
+## 6. Amendment of the Income Support (General) Regulations 1987[^c-2c6d302f8900a7861111a65c886a3fbb]
 
 (1) The Income Support (General) Regulations 1987[^f00027] are amended as follows.
 
@@ -254,7 +254,7 @@ These Regulations shall be cited as the Social Security (Persons from Abroad) Am
 
 .
 
-## 7. Amendment of the Jobseeker’s Allowance Regulations 1996[^key-ab37f6a4ad661a18546a683b69b28cda]
+## 7. Amendment of the Jobseeker’s Allowance Regulations 1996[^c-ab37f6a4ad661a18546a683b69b28cda]
 
 (1) The Jobseeker’s Allowance Regulations 1996[^f00034] are amended as follows.
 
@@ -297,7 +297,7 @@ These Regulations shall be cited as the Social Security (Persons from Abroad) Am
 
 .
 
-## 8. Amendment of the Social Fund Maternity and Funeral Expenses (General) Regulations 2005[^key-094e5e735e2153efa10e4b5ace5f84e5]
+## 8. Amendment of the Social Fund Maternity and Funeral Expenses (General) Regulations 2005[^c-094e5e735e2153efa10e4b5ace5f84e5]
 
 (1) The Social Fund Maternity and Funeral Expenses (General) Regulations 2005[^f00041] are amended as follows.
 
@@ -316,7 +316,7 @@ These Regulations shall be cited as the Social Security (Persons from Abroad) Am
 
   .
 
-## 9. Amendment of the State Pension Credit Regulations 2002[^key-44b079508b9699e10f2934a4ede1199b]
+## 9. Amendment of the State Pension Credit Regulations 2002[^c-44b079508b9699e10f2934a4ede1199b]
 
 (1) The State Pension Credit Regulations 2002[^f00043] are amended as follows.
 
@@ -352,7 +352,7 @@ These Regulations shall be cited as the Social Security (Persons from Abroad) Am
 
 .
 
-## 10. Nationals of Norway, Iceland, Liechtenstein and Switzerland[^key-5d6de36d4593015c627750a40edbbde7]
+## 10. Nationals of Norway, Iceland, Liechtenstein and Switzerland[^c-5d6de36d4593015c627750a40edbbde7]
 
 The following provisions shall apply in relation to a national of Norway, Iceland, Liechtenstein or Switzerland or a member of his family (within the meaning of Article 2 of Council Directive No. [2004/38/EC](https://www.legislation.gov.uk/european/directive/2004/0038)[^f00051]) as if such a national were a national of a member State—
 
@@ -365,7 +365,7 @@ The following provisions shall apply in relation to a national of Norway, Icelan
 - (g) regulation 7(10) of the Social Fund Maternity and Funeral Expenses (General) Regulations 2005[^f00058]; and
 - (h) regulation 2(4)(a) to (e) of the State Pension Credit Regulations 2002[^f00059].
 
-## 11. Revocations and savings[^key-67366b514b4f05a83c7647fb51e1a84c]
+## 11. Revocations and savings[^c-67366b514b4f05a83c7647fb51e1a84c]
 
 (1) The following Regulations are revoked—
 
@@ -420,9 +420,9 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00005]: Footnote: *See* section 173(1)(b) of the Social Security Administration Act [1992 (c. 5)](https://www.legislation.gov.uk/ukpga/1992/5); paragraph 67 of Schedule 2 to the Jobseekers Act [1995 (c. 18)](https://www.legislation.gov.uk/ukpga/1995/18) and paragraph 20 of Schedule 2 to the State Pension Credit Act [2002 (c. 16)](https://www.legislation.gov.uk/ukpga/2002/16) added those Acts respectively to the list of “the relevant enactments” in respect of which regulations must normally be referred to the Committee.
 
-[^key-a965cdda076bcf4463e15a3a4321f6e5]: Commencement: Reg. 1 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/1026/regulation/1)
+[^c-a965cdda076bcf4463e15a3a4321f6e5]: Commencement: Reg. 1 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/1026/regulation/1)
 
-[^key-ce26875f0184729723823388d345f5c6]: Commencement: Reg. 2 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/1026/regulation/1)
+[^c-ce26875f0184729723823388d345f5c6]: Commencement: Reg. 2 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/1026/regulation/1)
 
 [^f00006]: Footnote: S.I. [2006/215](https://www.legislation.gov.uk/uksi/2006/215).
 
@@ -434,7 +434,7 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00010]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77).
 
-[^key-5c0ce77a16f2b59cede96e30c73d005f]: Commencement: Reg. 3 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/1026/regulation/1)
+[^c-5c0ce77a16f2b59cede96e30c73d005f]: Commencement: Reg. 3 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/1026/regulation/1)
 
 [^f00011]: Footnote: S.I. [2006/216](https://www.legislation.gov.uk/uksi/2006/216).
 
@@ -446,7 +446,7 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00015]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77).
 
-[^key-5c6d7dd374a5602fdaa40346339fa28b]: Commencement: Reg. 4 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/1026/regulation/1)
+[^c-5c6d7dd374a5602fdaa40346339fa28b]: Commencement: Reg. 4 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/1026/regulation/1)
 
 [^f00016]: Footnote: S.I. [2006/213](https://www.legislation.gov.uk/uksi/2006/213).
 
@@ -458,7 +458,7 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00020]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77).
 
-[^key-8f502bcab3304405853d8aad5d84c1b7]: Commencement: Reg. 5 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/1026/regulation/1)
+[^c-8f502bcab3304405853d8aad5d84c1b7]: Commencement: Reg. 5 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/1026/regulation/1)
 
 [^f00021]: Footnote: S.I. [2006/214](https://www.legislation.gov.uk/uksi/2006/214).
 
@@ -472,7 +472,7 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00026]: Footnote: [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33).
 
-[^key-2c6d302f8900a7861111a65c886a3fbb]: Commencement: Reg. 6 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/1026/regulation/1)
+[^c-2c6d302f8900a7861111a65c886a3fbb]: Commencement: Reg. 6 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/1026/regulation/1)
 
 [^f00027]: Footnote: S.I. [1987/1967](https://www.legislation.gov.uk/uksi/1987/1967); the relevant amending instruments are S.I. [1994/1807](https://www.legislation.gov.uk/uksi/1994/1807), [1996/1944](https://www.legislation.gov.uk/uksi/1996/1944), [1996/2006](https://www.legislation.gov.uk/uksi/1996/2006), [1998/563](https://www.legislation.gov.uk/uksi/1998/563), [2000/636](https://www.legislation.gov.uk/uksi/2000/636), [2000/979](https://www.legislation.gov.uk/uksi/2000/979) and [2004/1232](https://www.legislation.gov.uk/uksi/2004/1232).
 
@@ -488,7 +488,7 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00033]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77).
 
-[^key-ab37f6a4ad661a18546a683b69b28cda]: Commencement: Reg. 7 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/1026/regulation/1)
+[^c-ab37f6a4ad661a18546a683b69b28cda]: Commencement: Reg. 7 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/1026/regulation/1)
 
 [^f00034]: Footnote: S.I. [1996/207](https://www.legislation.gov.uk/uksi/1996/207); the relevant amending instruments are S.I. [1996/1516](https://www.legislation.gov.uk/uksi/1996/1516), [1996/2538](https://www.legislation.gov.uk/uksi/1996/2538), [1998/563](https://www.legislation.gov.uk/uksi/1998/563), [2000/636](https://www.legislation.gov.uk/uksi/2000/636), [2000/979](https://www.legislation.gov.uk/uksi/2000/979) and [2004/1232](https://www.legislation.gov.uk/uksi/2004/1232).
 
@@ -504,13 +504,13 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00040]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77).
 
-[^key-094e5e735e2153efa10e4b5ace5f84e5]: Commencement: Reg. 8 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/1026/regulation/1)
+[^c-094e5e735e2153efa10e4b5ace5f84e5]: Commencement: Reg. 8 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/1026/regulation/1)
 
 [^f00041]: Footnote: S.I. [2005/3061](https://www.legislation.gov.uk/uksi/2005/3061).
 
 [^f00042]: Footnote: OJ L 158, 30.4.04, p. 77.
 
-[^key-44b079508b9699e10f2934a4ede1199b]: Commencement: Reg. 9 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/1026/regulation/1)
+[^c-44b079508b9699e10f2934a4ede1199b]: Commencement: Reg. 9 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/1026/regulation/1)
 
 [^f00043]: Footnote: S.I. [2002/1792](https://www.legislation.gov.uk/uksi/2002/1792); the relevant amending instruments are S.I. [2003/2274](https://www.legislation.gov.uk/uksi/2003/2274) and [2004/1232](https://www.legislation.gov.uk/uksi/2004/1232).
 
@@ -528,7 +528,7 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00050]: Footnote: [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33).
 
-[^key-5d6de36d4593015c627750a40edbbde7]: Commencement: Reg. 10 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/1026/regulation/1)
+[^c-5d6de36d4593015c627750a40edbbde7]: Commencement: Reg. 10 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/1026/regulation/1)
 
 [^f00051]: Footnote: OJ L 158, 30.4.04, p. 77.
 
@@ -548,7 +548,7 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00059]: Footnote: S.I. [2002/1792](https://www.legislation.gov.uk/uksi/2002/1792); as amended by regulation 9 of these Regulations.
 
-[^key-67366b514b4f05a83c7647fb51e1a84c]: Commencement: Reg. 11 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/1026/regulation/1)
+[^c-67366b514b4f05a83c7647fb51e1a84c]: Commencement: Reg. 11 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/1026/regulation/1)
 
 [^f00060]: Footnote: S.I. [1994/1807](https://www.legislation.gov.uk/uksi/1994/1807); as amended by S.I. [2006/217](https://www.legislation.gov.uk/uksi/2006/217).
 

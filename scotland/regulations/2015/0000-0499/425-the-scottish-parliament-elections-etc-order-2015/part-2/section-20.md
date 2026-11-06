@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20. Loan of equipment for Scottish parliamentary elections[^key-e4bce73c22fbd77607079816e47f1398]
+## 20. Loan of equipment for Scottish parliamentary elections[^c-e4bce73c22fbd77607079816e47f1398]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Any ballot boxes, fittings and compartments provided by or belonging to a local 
 
 ## Annotations
 
-[^key-e4bce73c22fbd77607079816e47f1398]: Commencement: Art. 20 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-e4bce73c22fbd77607079816e47f1398]: Commencement: Art. 20 in force at 16.12.2015 in accordance with art. 1(1)

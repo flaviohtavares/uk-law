@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70C. Long funding finance lease: amount of capital expenditure[^key-1dfc5aa0249178ecbf946313acb2db3c]
+## 70C. Long funding finance lease: amount of capital expenditure[^c-1dfc5aa0249178ecbf946313acb2db3c]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,7 +33,7 @@ but subject, in a case falling within subsection (7), to the restriction imposed
 
 (4) Commencement PVMLP is the amount that would fall to be recognised as the present value, at the appropriate date, of the minimum lease payments (see section 70YE) if appropriate accounts were prepared by the person.
 
-(4A)[^key-448841786d985f9579117291092af159] But where the minimum lease payments include a relievable amount, the present value of that amount must be excluded in determining the commencement PVMLP.
+(4A)[^c-448841786d985f9579117291092af159] But where the minimum lease payments include a relievable amount, the present value of that amount must be excluded in determining the commencement PVMLP.
 
 (4B) An amount (“amount X”) is a relievable amount if—
 
@@ -82,6 +82,6 @@ is to obtain allowances under this Part in respect of an amount of capital expen
 
 ## Annotations
 
-[^key-1dfc5aa0249178ecbf946313acb2db3c]: Textual amendment: Ss. 70A-70E and cross-heading inserted (with effect in accordance with Sch. 8 para. 15 of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 8 para. 6](https://www.legislation.gov.uk/ukpga/2006/25/schedule/8/paragraph/6)
+[^c-1dfc5aa0249178ecbf946313acb2db3c]: Textual amendment: Ss. 70A-70E and cross-heading inserted (with effect in accordance with Sch. 8 para. 15 of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 8 para. 6](https://www.legislation.gov.uk/ukpga/2006/25/schedule/8/paragraph/6)
 
-[^key-448841786d985f9579117291092af159]: Textual amendment: S. 70C(4A)-(4C) inserted (with effect in accordance with s. 33(6) of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 33(2)](https://www.legislation.gov.uk/ukpga/2011/11/section/33/2)
+[^c-448841786d985f9579117291092af159]: Textual amendment: S. 70C(4A)-(4C) inserted (with effect in accordance with s. 33(6) of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 33(2)](https://www.legislation.gov.uk/ukpga/2011/11/section/33/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Involvement of local policing bodies[^key-53bde091d291006ed2094cf1c647bb5c][^key-9889444f7bb514d4e22aafbbdaa2de70]
+## 14. Involvement of local policing bodies[^c-53bde091d291006ed2094cf1c647bb5c][^c-9889444f7bb514d4e22aafbbdaa2de70]
 
 *Extent: E+W*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-53bde091d291006ed2094cf1c647bb5c]: Commencement: S. 14 in force at Royal Assent for specified purposes, see [s. 208(4)(d)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/d)
+[^c-53bde091d291006ed2094cf1c647bb5c]: Commencement: S. 14 in force at Royal Assent for specified purposes, see [s. 208(4)(d)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/d)
 
-[^key-9889444f7bb514d4e22aafbbdaa2de70]: Commencement: S. 14 in force at 31.1.2023 in so far as not already in force by [S.I. 2022/1227](https://www.legislation.gov.uk/uksi/2022/1227), [reg. 4(f)](https://www.legislation.gov.uk/uksi/2022/1227/regulation/4/f)
+[^c-9889444f7bb514d4e22aafbbdaa2de70]: Commencement: S. 14 in force at 31.1.2023 in so far as not already in force by [S.I. 2022/1227](https://www.legislation.gov.uk/uksi/2022/1227), [reg. 4(f)](https://www.legislation.gov.uk/uksi/2022/1227/regulation/4/f)

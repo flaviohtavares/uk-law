@@ -50,9 +50,9 @@ The Lord Chancellor makes the following Rules in exercise of the powers under Ar
 
 The Treasury concur in the making of the Rules.
 
-The Lord Chief Justice of Northern Ireland under Article 359(1A)[^f00002] of the Insolvency (Northern Ireland) Order 1989 concurs in the making of the Rules in so far as they affect court procedure.[^key-2f8302f11bc4e7323b6e6d22a3a7cbd2]
+The Lord Chief Justice of Northern Ireland under Article 359(1A)[^f00002] of the Insolvency (Northern Ireland) Order 1989 concurs in the making of the Rules in so far as they affect court procedure.[^c-2f8302f11bc4e7323b6e6d22a3a7cbd2]
 
-The Lord Chancellor has not consulted the Committee existing for the purposes of Article 360 of the Order: this is the first set of rules made in reliance on section 125 of the Banking Act 2009[^f00003] and the duty to consult does not therefore apply to these rules by virtue of section 125(8) of that Act.[^key-2f8302f11bc4e7323b6e6d22a3a7cbd2]
+The Lord Chancellor has not consulted the Committee existing for the purposes of Article 360 of the Order: this is the first set of rules made in reliance on section 125 of the Banking Act 2009[^f00003] and the duty to consult does not therefore apply to these rules by virtue of section 125(8) of that Act.[^c-2f8302f11bc4e7323b6e6d22a3a7cbd2]
 
 ## Contents
 
@@ -623,6 +623,6 @@ An Impact Assessment of the effect of the Banking Act 2009 is available on HM Tr
 
 [^f00002]: Footnote: Article 359(1A) was inserted by the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), Schedule 5, Part 1, paragraphs 80 and 81.
 
-[^key-2f8302f11bc4e7323b6e6d22a3a7cbd2]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2009/122) applied (with modifications) (23.11.2009) by [The Scottish and Northern Ireland Banknote Regulations 2009 (S.I. 2009/3056)](https://www.legislation.gov.uk/uksi/2009/3056), [reg. 1](https://www.legislation.gov.uk/uksi/2009/3056/regulation/1), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2009/3056/schedule/1/paragraph/8)
+[^c-2f8302f11bc4e7323b6e6d22a3a7cbd2]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2009/122) applied (with modifications) (23.11.2009) by [The Scottish and Northern Ireland Banknote Regulations 2009 (S.I. 2009/3056)](https://www.legislation.gov.uk/uksi/2009/3056), [reg. 1](https://www.legislation.gov.uk/uksi/2009/3056/regulation/1), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2009/3056/schedule/1/paragraph/8)
 
 [^f00003]: Footnote: [2009 c.1](https://www.legislation.gov.uk/ukpga/2009/1). See also section 134.

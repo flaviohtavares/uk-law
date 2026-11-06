@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 112. State Pension Regulations (Northern Ireland) 2015[^key-77a3236bd37b6e9c6f26646e0db97b35]
+## 112. State Pension Regulations (Northern Ireland) 2015[^c-77a3236bd37b6e9c6f26646e0db97b35]
 
 *Extent: N.I.*
 
@@ -33,6 +33,6 @@ For regulation 30(4) of the State Pension Regulations (Northern Ireland) 2015[^f
 
 ## Annotations
 
-[^key-77a3236bd37b6e9c6f26646e0db97b35]: Commencement: Reg. 112 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-77a3236bd37b6e9c6f26646e0db97b35]: Commencement: Reg. 112 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00177]: Footnote: [S.R. (N.I.) 2015/315](https://www.legislation.gov.uk/nisr/2015/315). Regulation 30 was substituted by [S.R. (N.I.) 2016/100](https://www.legislation.gov.uk/nisr/2016/100).

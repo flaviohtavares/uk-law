@@ -20,15 +20,15 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-64a11421debf54166ee04e3393f88b33] This Chapter does not apply to a payment or other benefit provided—
+(1)[^c-64a11421debf54166ee04e3393f88b33] This Chapter does not apply to a payment or other benefit provided—
 
 - (a) in connection with the termination of employment by the death of an employee, or
 - (b) on account of injury to, or disability of, an employee.
 
-(2)[^key-5550095fbbb57f12fe0cb8d58bf8cb98] Although “injury” in subsection (1) includes psychiatric injury, it does not include injured feelings.
+(2)[^c-5550095fbbb57f12fe0cb8d58bf8cb98] Although “injury” in subsection (1) includes psychiatric injury, it does not include injured feelings.
 
 ## Annotations
 
-[^key-64a11421debf54166ee04e3393f88b33]: Textual amendment: S. 406 renumbered as s. 406(1) (with effect in accordance with s. 5(10) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 5(7)(a)](https://www.legislation.gov.uk/ukpga/2017/32/section/5/7/a)
+[^c-64a11421debf54166ee04e3393f88b33]: Textual amendment: S. 406 renumbered as s. 406(1) (with effect in accordance with s. 5(10) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 5(7)(a)](https://www.legislation.gov.uk/ukpga/2017/32/section/5/7/a)
 
-[^key-5550095fbbb57f12fe0cb8d58bf8cb98]: Textual amendment: S. 406(2) inserted (with effect in accordance with s. 5(10) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 5(7)(b)](https://www.legislation.gov.uk/ukpga/2017/32/section/5/7/b)
+[^c-5550095fbbb57f12fe0cb8d58bf8cb98]: Textual amendment: S. 406(2) inserted (with effect in accordance with s. 5(10) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 5(7)(b)](https://www.legislation.gov.uk/ukpga/2017/32/section/5/7/b)

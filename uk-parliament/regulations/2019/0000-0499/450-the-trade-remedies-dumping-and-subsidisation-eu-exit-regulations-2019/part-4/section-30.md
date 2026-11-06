@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Determination of injury[^key-1c9859294ab23d64f17cda39aea859ca]
+## 30. Determination of injury[^c-1c9859294ab23d64f17cda39aea859ca]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1c9859294ab23d64f17cda39aea859ca]: Commencement: Reg. 30 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-1c9859294ab23d64f17cda39aea859ca]: Commencement: Reg. 30 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

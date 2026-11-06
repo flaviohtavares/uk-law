@@ -130,7 +130,7 @@ Section 29(3).
 
 **15.** In section 15(2)(b) (discrimination in provision of facilities or services under section 2 of the [^c1205604]Employment and Training Act 1973), for “body” substitute “ Secretary of State ”.
 
-**16.**[^key-37893da621bc9ce3b51638684cefa044] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-37893da621bc9ce3b51638684cefa044] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Development of Rural Wales Act 1976 (c. 75)
 
@@ -162,13 +162,13 @@ Section 29(3).
 
 ### Local Government, Planning and Land Act 1980 (c. 65)
 
-**27.**[^key-7ceb258762171629e0756373b6e88d80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**27.**[^c-7ceb258762171629e0756373b6e88d80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Agricultural Training Board Act 1982 (c. 9)
 
 *Extent: E+W+S*
 
-**28.**[^key-17b3deeed388769c6fcfc7c4b948c68f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**28.**[^c-17b3deeed388769c6fcfc7c4b948c68f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Industrial Training Act 1982 (c. 10)
 
@@ -180,7 +180,7 @@ Section 29(3).
 
 *Extent: E+W+S*
 
-**30.**[^key-5161d2a5c24570c332b25a5037f7a4d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**30.**[^c-5161d2a5c24570c332b25a5037f7a4d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -196,7 +196,7 @@ Section 29(3).
 
 [^c1205604]: Marginal citation: [1973 c. 50](https://www.legislation.gov.uk/ukpga/1973/50).
 
-[^key-37893da621bc9ce3b51638684cefa044]: Textual amendment: [Sch. 6 para. 16](https://www.legislation.gov.uk/ukpga/1989/38/schedule/6/paragraph/16) repealed (1.10.2007) by [Equality Act 2006 (c. 3)](https://www.legislation.gov.uk/ukpga/2006/3), [s. 93(1)](https://www.legislation.gov.uk/ukpga/2006/3/section/93/1), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/3/schedule/4) (with [s. 92](https://www.legislation.gov.uk/ukpga/2006/3/section/92)); [S.I. 2007/2603](https://www.legislation.gov.uk/uksi/2007/2603), [art. 2(d)](https://www.legislation.gov.uk/uksi/2007/2603/article/2/d)
+[^c-37893da621bc9ce3b51638684cefa044]: Textual amendment: [Sch. 6 para. 16](https://www.legislation.gov.uk/ukpga/1989/38/schedule/6/paragraph/16) repealed (1.10.2007) by [Equality Act 2006 (c. 3)](https://www.legislation.gov.uk/ukpga/2006/3), [s. 93(1)](https://www.legislation.gov.uk/ukpga/2006/3/section/93/1), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/3/schedule/4) (with [s. 92](https://www.legislation.gov.uk/ukpga/2006/3/section/92)); [S.I. 2007/2603](https://www.legislation.gov.uk/uksi/2007/2603), [art. 2(d)](https://www.legislation.gov.uk/uksi/2007/2603/article/2/d)
 
 [^c1205605]: Textual amendment: [Sch. 6 para. 17](https://www.legislation.gov.uk/ukpga/1989/38/schedule/6/paragraph/17) repealed (1.10.1998) by [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38), [s. 152](https://www.legislation.gov.uk/ukpga/1998/38/section/152), [Sch. 18 Pt. IV](https://www.legislation.gov.uk/ukpga/1998/38/schedule/18/part/IV) (with [ss. 137(1)](https://www.legislation.gov.uk/ukpga/1998/38/section/137/1), [139(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/139/2), [143(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/143/2)); [S.I. 1998/2244](https://www.legislation.gov.uk/uksi/1998/2244), [art. 4](https://www.legislation.gov.uk/uksi/1998/2244/article/4)
 
@@ -218,8 +218,8 @@ Section 29(3).
 
 [^c1205614]: Textual amendment: [Sch. 6 para. 26](https://www.legislation.gov.uk/ukpga/1989/38/schedule/6/paragraph/26) repealed (22.8.1996) by [1996 c. 17](https://www.legislation.gov.uk/ukpga/1996/17), [ss. 45](https://www.legislation.gov.uk/ukpga/1996/17/section/45), [46](https://www.legislation.gov.uk/ukpga/1996/17/section/46), [Sch. 3 Pt. I](https://www.legislation.gov.uk/ukpga/1996/17/schedule/3/part/I) (with [s. 38](https://www.legislation.gov.uk/ukpga/1996/17/section/38))
 
-[^key-7ceb258762171629e0756373b6e88d80]: Textual amendment: [Sch. 6 para. 27](https://www.legislation.gov.uk/ukpga/1989/38/schedule/6/paragraph/27) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+[^c-7ceb258762171629e0756373b6e88d80]: Textual amendment: [Sch. 6 para. 27](https://www.legislation.gov.uk/ukpga/1989/38/schedule/6/paragraph/27) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
 
-[^key-17b3deeed388769c6fcfc7c4b948c68f]: Textual amendment: [Sch. 6 para. 28](https://www.legislation.gov.uk/ukpga/1989/38/schedule/6/paragraph/28) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 2
+[^c-17b3deeed388769c6fcfc7c4b948c68f]: Textual amendment: [Sch. 6 para. 28](https://www.legislation.gov.uk/ukpga/1989/38/schedule/6/paragraph/28) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 2
 
-[^key-5161d2a5c24570c332b25a5037f7a4d3]: Textual amendment: [Sch. 6 para. 30](https://www.legislation.gov.uk/ukpga/1989/38/schedule/6/paragraph/30) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
+[^c-5161d2a5c24570c332b25a5037f7a4d3]: Textual amendment: [Sch. 6 para. 30](https://www.legislation.gov.uk/ukpga/1989/38/schedule/6/paragraph/30) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))

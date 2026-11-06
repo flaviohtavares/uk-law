@@ -60,7 +60,7 @@ which the provider has to its own members (where applicable), staff, providers a
 
 **11.** there are adequate standards of lighting, heating and ventilation;
 
-**12.** the premises,[^key-f7aa9ca6757124507eb814f491858f8f] fittings and furniture of the practice premises are in good repair and (when being used for the provision of primary medical services) clean and hygienic;
+**12.** the premises,[^c-f7aa9ca6757124507eb814f491858f8f] fittings and furniture of the practice premises are in good repair and (when being used for the provision of primary medical services) clean and hygienic;
 
 **13.** there are arrangements for the storage and disposal of clinical waste and that these arrangements comply with the legislative requirements and national guidance in place from time to time in accordance with paragraph 83[^M_F_7078f552-4767-4c75-9d3b-c99489386a3a] of schedule 1;
 
@@ -68,7 +68,7 @@ which the provider has to its own members (where applicable), staff, providers a
 
 **15.** there is adequate security for drugs, records, prescription pads and pads of doctors’ statements; and
 
-**16.** If the practice[^key-7e349a25d7004db5f40ea357ff56dc8b] premises are to be used for minor surgery or the treatment of minor injuries, there are necessary facilities and equipment to enable the proper performance of these procedures in the practice premises.
+**16.** If the practice[^c-7e349a25d7004db5f40ea357ff56dc8b] premises are to be used for minor surgery or the treatment of minor injuries, there are necessary facilities and equipment to enable the proper performance of these procedures in the practice premises.
 
 ## Annotations
 
@@ -76,10 +76,10 @@ which the provider has to its own members (where applicable), staff, providers a
 
 [^f00124]: Footnote: [2010 c.15](https://www.legislation.gov.uk/ukpga/2010/15).
 
-[^key-f7aa9ca6757124507eb814f491858f8f]: Textual amendment: Word in [sch. 4 para. 12](https://www.legislation.gov.uk/ssi/2018/67/schedule/4/paragraph/12) inserted (18.10.2021) by [The National Health Service (General Medical Services and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/302)](https://www.legislation.gov.uk/ssi/2021/302), [regs. 1](https://www.legislation.gov.uk/ssi/2021/302/regulation/1), [19](https://www.legislation.gov.uk/ssi/2021/302/regulation/19)
+[^c-f7aa9ca6757124507eb814f491858f8f]: Textual amendment: Word in [sch. 4 para. 12](https://www.legislation.gov.uk/ssi/2018/67/schedule/4/paragraph/12) inserted (18.10.2021) by [The National Health Service (General Medical Services and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/302)](https://www.legislation.gov.uk/ssi/2021/302), [regs. 1](https://www.legislation.gov.uk/ssi/2021/302/regulation/1), [19](https://www.legislation.gov.uk/ssi/2021/302/regulation/19)
 
 [^M_F_7078f552-4767-4c75-9d3b-c99489386a3a]: Textual amendment: Word in sch. 4 para. 13 substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [17(a)](https://www.legislation.gov.uk/ssi/2018/94/regulation/17/a)
 
 [^f00125]: Footnote: [S.S.I. 2004/406](https://www.legislation.gov.uk/ssi/2004/406) as amended by [S.S.I. 2006/534](https://www.legislation.gov.uk/ssi/2006/534), [S.S.I. 2008/310](https://www.legislation.gov.uk/ssi/2008/310), [S.S.I. 2009/119](https://www.legislation.gov.uk/ssi/2009/119), [S.S.I. 2010/32](https://www.legislation.gov.uk/ssi/2010/32), [S.S.I. 2011/120](https://www.legislation.gov.uk/ssi/2011/120), [2011/211](https://www.legislation.gov.uk/ssi/2011/211), [S.S.I. 2012/209](https://www.legislation.gov.uk/ssi/2012/209), [S.S.I. 2013/143](https://www.legislation.gov.uk/ssi/2013/143), [S.S.I. 2014/219](https://www.legislation.gov.uk/ssi/2014/219), [S.I. 2014/1638](https://www.legislation.gov.uk/uksi/2014/1638), [S.S.I. 2015/218](https://www.legislation.gov.uk/ssi/2015/218), [S.S.I. 2016/70](https://www.legislation.gov.uk/ssi/2016/70), [S.S.I. 2016/71](https://www.legislation.gov.uk/ssi/2016/71) and [S.S.I. 2017/188](https://www.legislation.gov.uk/ssi/2017/188).
 
-[^key-7e349a25d7004db5f40ea357ff56dc8b]: Textual amendment: Word in [sch. 4 para. 16](https://www.legislation.gov.uk/ssi/2018/67/schedule/4/paragraph/16) inserted (1.4.2018) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [17(b)](https://www.legislation.gov.uk/ssi/2018/94/regulation/17/b)
+[^c-7e349a25d7004db5f40ea357ff56dc8b]: Textual amendment: Word in [sch. 4 para. 16](https://www.legislation.gov.uk/ssi/2018/67/schedule/4/paragraph/16) inserted (1.4.2018) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [17(b)](https://www.legislation.gov.uk/ssi/2018/94/regulation/17/b)

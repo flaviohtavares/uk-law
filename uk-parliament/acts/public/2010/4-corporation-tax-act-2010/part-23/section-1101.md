@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1101. Other distributions etc: returns and information[^key-43b46dc742e9b72d69f1eda5c2d1ecdd]
+## 1101. Other distributions etc: returns and information[^c-43b46dc742e9b72d69f1eda5c2d1ecdd]
 
 *Extent: E+W+S+N.I.*
 
-(1) If a company makes a distribution to which section 1100 does not apply[^key-eb70439e6167a59328e9ec18cfde0f77] , it must make a return to an officer of Revenue and Customs.
+(1) If a company makes a distribution to which section 1100 does not apply[^c-eb70439e6167a59328e9ec18cfde0f77] , it must make a return to an officer of Revenue and Customs.
 
 (2) The return must—
 
@@ -33,7 +33,7 @@ summary: ''
 - (a) within 14 days from the end of the accounting period in which the distribution is made, or
 - (b) if the date on which the distribution is made does not fall in an accounting period, within 14 days from that date.
 
-(4) If it is not apparent whether or not a transaction gives rise to a distribution to which section 1100 does not apply[^key-d47631c86550674d8118d422bae97873] , the company—
+(4) If it is not apparent whether or not a transaction gives rise to a distribution to which section 1100 does not apply[^c-d47631c86550674d8118d422bae97873] , the company—
 
 - (a) must make a return to an officer of Revenue and Customs containing particulars of the transaction, and
 - (b) must do so within the time limit that would be given by subsection (3) if the transaction did give rise to such a distribution.
@@ -46,8 +46,8 @@ summary: ''
 
 ## Annotations
 
-[^key-43b46dc742e9b72d69f1eda5c2d1ecdd]: Textual amendment: Word in s. 1101 heading substituted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 40(4)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/40/4)
+[^c-43b46dc742e9b72d69f1eda5c2d1ecdd]: Textual amendment: Word in s. 1101 heading substituted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 40(4)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/40/4)
 
-[^key-eb70439e6167a59328e9ec18cfde0f77]: Textual amendment: Words in s. 1101(1) substituted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 40(2)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/40/2)
+[^c-eb70439e6167a59328e9ec18cfde0f77]: Textual amendment: Words in s. 1101(1) substituted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 40(2)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/40/2)
 
-[^key-d47631c86550674d8118d422bae97873]: Textual amendment: Words in s. 1101(4) substituted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 40(3)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/40/3)
+[^c-d47631c86550674d8118d422bae97873]: Textual amendment: Words in s. 1101(4) substituted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 40(3)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/40/3)

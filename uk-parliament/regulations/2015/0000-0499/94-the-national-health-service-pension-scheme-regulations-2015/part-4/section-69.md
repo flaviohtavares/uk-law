@@ -22,15 +22,15 @@ summary: ''
 
 (1) This regulation applies on the death of a member (D)—
 
-- (a)[^key-e141064225b463ba1ad8d0c6f3b3eed9] whose additional pension election is for—
+- (a)[^c-e141064225b463ba1ad8d0c6f3b3eed9] whose additional pension election is for—
   - (i) an additional (self only) pension; or
   - (ii) an additional (self only) pension and an additional (survivor’s) pension; and
 - (b) who dies while an active member before the end of the contributions payment period for that election.
 
 (2) If D dies before the end of the refund period—
 
-- (a) the amount of the contributions paid by D must be repaid to D's personal[^key-00bd48be0d4060535ecfe9a53add3ba4] representatives; and[^key-053cc0c2d192fac1db6e8255b7735a80]
-- (b)[^key-b91d0f2753d22b6d09296b56b3a141d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) the amount of the contributions paid by D must be repaid to D's personal[^c-00bd48be0d4060535ecfe9a53add3ba4] representatives; and[^c-053cc0c2d192fac1db6e8255b7735a80]
+- (b)[^c-b91d0f2753d22b6d09296b56b3a141d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) the additional pension account must be closed.
 
 (3) If D dies after the end of the refund period—
@@ -47,10 +47,10 @@ summary: ''
 
 ## Annotations
 
-[^key-e141064225b463ba1ad8d0c6f3b3eed9]: Textual amendment: Reg. 69(1)(a) substituted (with effect in accordance with reg. 1(2)(a) of the amending S.I.) by [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 2(c)](https://www.legislation.gov.uk/uksi/2017/275/regulation/2/c), [37(2)](https://www.legislation.gov.uk/uksi/2017/275/regulation/37/2)
+[^c-e141064225b463ba1ad8d0c6f3b3eed9]: Textual amendment: Reg. 69(1)(a) substituted (with effect in accordance with reg. 1(2)(a) of the amending S.I.) by [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 2(c)](https://www.legislation.gov.uk/uksi/2017/275/regulation/2/c), [37(2)](https://www.legislation.gov.uk/uksi/2017/275/regulation/37/2)
 
-[^key-00bd48be0d4060535ecfe9a53add3ba4]: Textual amendment: Word in reg. 69(2)(a) inserted (1.4.2017) by [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 2(c)](https://www.legislation.gov.uk/uksi/2017/275/regulation/2/c), [37(3)(a)(i)](https://www.legislation.gov.uk/uksi/2017/275/regulation/37/3/a/i)
+[^c-00bd48be0d4060535ecfe9a53add3ba4]: Textual amendment: Word in reg. 69(2)(a) inserted (1.4.2017) by [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 2(c)](https://www.legislation.gov.uk/uksi/2017/275/regulation/2/c), [37(3)(a)(i)](https://www.legislation.gov.uk/uksi/2017/275/regulation/37/3/a/i)
 
-[^key-053cc0c2d192fac1db6e8255b7735a80]: Textual amendment: Word in reg. 69(2)(a) inserted (1.4.2017) by [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 2(c)](https://www.legislation.gov.uk/uksi/2017/275/regulation/2/c), [37(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2017/275/regulation/37/3/a/ii)
+[^c-053cc0c2d192fac1db6e8255b7735a80]: Textual amendment: Word in reg. 69(2)(a) inserted (1.4.2017) by [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 2(c)](https://www.legislation.gov.uk/uksi/2017/275/regulation/2/c), [37(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2017/275/regulation/37/3/a/ii)
 
-[^key-b91d0f2753d22b6d09296b56b3a141d0]: Textual amendment: Reg. 69(2)(b) omitted (1.4.2017) by virtue of [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 2(c)](https://www.legislation.gov.uk/uksi/2017/275/regulation/2/c), [37(3)(b)](https://www.legislation.gov.uk/uksi/2017/275/regulation/37/3/b)
+[^c-b91d0f2753d22b6d09296b56b3a141d0]: Textual amendment: Reg. 69(2)(b) omitted (1.4.2017) by virtue of [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 2(c)](https://www.legislation.gov.uk/uksi/2017/275/regulation/2/c), [37(3)(b)](https://www.legislation.gov.uk/uksi/2017/275/regulation/37/3/b)

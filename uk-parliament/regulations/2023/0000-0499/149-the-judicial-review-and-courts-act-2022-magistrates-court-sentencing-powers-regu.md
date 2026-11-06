@@ -41,7 +41,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 ## Part 1 – Introductory
 
-### 1. Citation, commencement and extent[^key-fc0d62d666d6faa25010b17f33b08122]
+### 1. Citation, commencement and extent[^c-fc0d62d666d6faa25010b17f33b08122]
 
 (1) These Regulations may be cited as the Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023.
 
@@ -51,7 +51,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 ## Part 2 – General amendments
 
-### 2. Amendments to primary and secondary legislation[^key-6fdc2368e569bbe5a6be1d06c22b2103]
+### 2. Amendments to primary and secondary legislation[^c-6fdc2368e569bbe5a6be1d06c22b2103]
 
 (1) In the provisions listed in column 1 of the table in Part 1 of the Schedule, for the words in the corresponding entry in column 2 of that table substitute “the general limit in a magistrates’ court”.
 
@@ -59,7 +59,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 ## Part 3 – Specific amendments to primary legislation
 
-### 3. Amendment of the Nuclear Installations Act 1965[^key-38d854f1925d18349b8b3e7dc49031bf]
+### 3. Amendment of the Nuclear Installations Act 1965[^c-38d854f1925d18349b8b3e7dc49031bf]
 
 (1) The Nuclear Installations Act 1965[^f00002] is amended as follows.
 
@@ -115,7 +115,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 - (c) in subsection (4)(b) omit “or a fine (in England and Wales)” and “(in Scotland)”.
 - (d) in subsection (6), for “(4)(b)” substitute “(3A)(b)”.
 
-### 4. Amendment of the Hydrocarbon Oil Duties Act 1979[^key-6be0ab4c2075be4f487b290b1815c8ad]
+### 4. Amendment of the Hydrocarbon Oil Duties Act 1979[^c-6be0ab4c2075be4f487b290b1815c8ad]
 
 (1) The Hydrocarbon Oil Duties Act 1979[^f00003] is amended as follows.
 
@@ -127,7 +127,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 .
 
-### 5. Amendment of the Representation of the People Act 1983[^key-9562ceaa7b9ca06bf042fd178e7aba06]
+### 5. Amendment of the Representation of the People Act 1983[^c-9562ceaa7b9ca06bf042fd178e7aba06]
 
 (1) The Representation of the People Act 1983[^f00004] is amended as follows.
 
@@ -141,7 +141,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 .
 
-### 6. Amendment of the Insolvency Act 1986[^key-659f0dc85041a7822f9466e4bbaee5d6]
+### 6. Amendment of the Insolvency Act 1986[^c-659f0dc85041a7822f9466e4bbaee5d6]
 
 (1) The Insolvency Act 1986[^f00005] is amended as follows.
 
@@ -163,7 +163,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 - (n) section A47(1) and
 - (o) section A49(5).
 
-### 7. Amendment of the Road Traffic Offenders Act 1988[^key-be498ef2276f22d15445df577cf66e00]
+### 7. Amendment of the Road Traffic Offenders Act 1988[^c-be498ef2276f22d15445df577cf66e00]
 
 (1) The Road Traffic Offenders Act 1988[^f00006] is amended as follows.
 
@@ -173,7 +173,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 (4) In Part 1 of Schedule 2 in the entries relating to section 3ZD of the Road Traffic Act 1988, in the fourth column, for “England and Wales: 12 months” substitute “England and Wales: the general limit in a magistrates’ court”.
 
-### 8. Amendment of the Political Parties, Elections and Referendums Act 2000[^key-a65343510a013378fcc5e58897befd5a]
+### 8. Amendment of the Political Parties, Elections and Referendums Act 2000[^c-a65343510a013378fcc5e58897befd5a]
 
 (1) The Political Parties, Elections and Referendums Act 2000[^f00007] is amended as follows.
 
@@ -181,7 +181,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 (3) In the table in Schedule 20 in relation to paragraph 14 of Schedule 19C for “On summary conviction in England and Wales: fine or 12 months” substitute “On summary conviction in England and Wales: fine or the general limit in a magistrates’ court”.
 
-### 9. Amendment of the Terrorism Act 2000[^key-5c0c2cc6d108510ae2fc74d94e9af237]
+### 9. Amendment of the Terrorism Act 2000[^c-5c0c2cc6d108510ae2fc74d94e9af237]
 
 (1) The Terrorism Act 2000[^f00008] is amended as follows.
 
@@ -191,7 +191,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 .
 
-### 10. Amendment of the Anti-terrorism, Crime and Security Act 2001[^key-34c2d4c6755421cd6a2d1aa4b553b907]
+### 10. Amendment of the Anti-terrorism, Crime and Security Act 2001[^c-34c2d4c6755421cd6a2d1aa4b553b907]
 
 (1) The Anti-terrorism, Crime and Security Act 2001[^f00009] is amended as follows.
 
@@ -200,7 +200,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 - (a) omit “England and Wales” in the first place those words occur, and
 - (b) after “Scotland)” insert “or the general limit in a magistrates’ court (in England and Wales)”.
 
-### 11. Amendment of the Energy Act 2004[^key-a94aec6f66f27d17e61b24961e2f1c7f]
+### 11. Amendment of the Energy Act 2004[^c-a94aec6f66f27d17e61b24961e2f1c7f]
 
 (1) The Energy Act 2004[^f00010] is amended as follows.
 
@@ -212,7 +212,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 (3) In subsection (6) omit paragraph (a) (and the “or” at the end of paragraph (a)).
 
-### 12. Amendment of the Companies (Audit, Investigations and Community Enterprise) Act 2004[^key-57a1b091009239f0f813d98bb07ff5ad]
+### 12. Amendment of the Companies (Audit, Investigations and Community Enterprise) Act 2004[^c-57a1b091009239f0f813d98bb07ff5ad]
 
 (1) The Companies (Audit, Investigations and Community Enterprise) Act 2004[^f00011] is amended as follows.
 
@@ -222,11 +222,11 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 (4) In paragraph 5(3) of Schedule 7 for “six” substitute “six months”.
 
-### 13. Amendment of the Digital Switchover (Disclosure of Information) Act 2007[^key-3567518462d40215983ef137b73e04f4]
+### 13. Amendment of the Digital Switchover (Disclosure of Information) Act 2007[^c-3567518462d40215983ef137b73e04f4]
 
 (1) The Digital Switchover (Disclosure of Information) Act 2007[^f00012] is amended as follows.
 
-(2) In section 3,[^key-0f8c6ff6202d40d825559c4b36d2d906] after subsection (7) insert—
+(2) In section 3,[^c-0f8c6ff6202d40d825559c4b36d2d906] after subsection (7) insert—
 
 > (7A) In the application of this section in England and Wales, the reference in subsection (7)(b) to 12 months is to be read as a reference to the general limit in a magistrates’ court (or to 6 months in relation to an offence committed before 2 May 2022).
 
@@ -234,7 +234,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 (3) In section 3 omit subsection (8)(a).
 
-### 14. Amendment of the Serious Crime Act 2007[^key-1f31486da0ac1badfdcb95c2f4292d07]
+### 14. Amendment of the Serious Crime Act 2007[^c-1f31486da0ac1badfdcb95c2f4292d07]
 
 (1) The Serious Crime Act 2007[^f00013] is amended as follows.
 
@@ -250,7 +250,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 .
 
-### 15. Amendment of the Statistics and Registration Service Act 2007[^key-901e9ab1dee91319dbd16e8ccc5211fb]
+### 15. Amendment of the Statistics and Registration Service Act 2007[^c-901e9ab1dee91319dbd16e8ccc5211fb]
 
 (1) The Statistics and Registration Act 2007[^f00014] is amended as follows.
 
@@ -260,7 +260,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 .
 
-### 16. Amendment of the Criminal Justice and Immigration Act 2008[^key-c8af741f7e03911d80049b93c1fcdebc]
+### 16. Amendment of the Criminal Justice and Immigration Act 2008[^c-c8af741f7e03911d80049b93c1fcdebc]
 
 (1) The Criminal Justice and Immigration Act 2008[^f00015] is amended as follows.
 
@@ -274,7 +274,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 (4) In paragraph 31 of Schedule 27, for “In section 113(7)(a) in its application in relation to England and Wales the reference to 12 months is to be read as a reference to 6 months in relation to an offence committed before 2 May 2022”, substitute, “In section 113(7)(c) the reference to the general limit in a magistrates’ court is to be read as a reference to 6 months in relation to an offence committed before 2 May 2022.”.
 
-### 17. Amendment of the Counter-Terrorism Act 2008[^key-86b992b999a7facb9277f864ac978f58]
+### 17. Amendment of the Counter-Terrorism Act 2008[^c-86b992b999a7facb9277f864ac978f58]
 
 (1) The Counter-Terrorism Act 2008[^f00016] is amended as follows.
 
@@ -294,7 +294,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 (5) Omit sub-paragraph (3)(a).
 
-### 18. Amendment of the Regulatory Enforcement and Sanctions Act 2008[^key-ff566323df335213affeab5f55e2df64]
+### 18. Amendment of the Regulatory Enforcement and Sanctions Act 2008[^c-ff566323df335213affeab5f55e2df64]
 
 (1) The Regulatory Enforcement and Sanctions Act 2008[^f00017] is amended as follows.
 
@@ -306,7 +306,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 .
 
-### 19. Amendment of the Learner Travel (Wales) Measure 2008[^key-1191080a273d7ac393d88d84d956678d]
+### 19. Amendment of the Learner Travel (Wales) Measure 2008[^c-1191080a273d7ac393d88d84d956678d]
 
 (1) The Learner Travel (Wales) Measure 2008[^f00018] is amended as follows.
 
@@ -314,7 +314,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 (3) In paragraph 10(2) of Schedule A1 of the Welsh language text for “ddeuddeng mis” substitute “y terfyn cyffredinol yn y llys ynadon (yng Nghymru a Lloegr)”.
 
-### 20. Amendment of the Corporation Tax Act 2009[^key-02db038a54a1ea8b75150b200f066963]
+### 20. Amendment of the Corporation Tax Act 2009[^c-02db038a54a1ea8b75150b200f066963]
 
 (1) The Corporation Tax Act 2009[^f00019] is amended as follows.
 
@@ -322,7 +322,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 - (a) After subsection (3) insert—
 
-  > (3A)[^key-2e0866b56d97a43942dd64251de26889] In the application of this section in England and Wales, the reference in subsection (3)(b) to 12 months is to be read as a reference to the general limit in a magistrates’ court (or to 6 months in relation to an offence committed before 2 May 2022).
+  > (3A)[^c-2e0866b56d97a43942dd64251de26889] In the application of this section in England and Wales, the reference in subsection (3)(b) to 12 months is to be read as a reference to the general limit in a magistrates’ court (or to 6 months in relation to an offence committed before 2 May 2022).
 
   .
 - (b) Omit subsection (6)(a).
@@ -331,7 +331,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 - (a) After subsection (3) insert—
 
-  > (3A)[^key-61c3590a0ed2117c2d7a77f7d4a1b661] In the application of this section in England and Wales, the reference in subsection (3)(b) to 12 months is to be read as a reference to the general limit in a magistrates’ court (or to 6 months in relation to an offence committed before 2 May 2022).
+  > (3A)[^c-61c3590a0ed2117c2d7a77f7d4a1b661] In the application of this section in England and Wales, the reference in subsection (3)(b) to 12 months is to be read as a reference to the general limit in a magistrates’ court (or to 6 months in relation to an offence committed before 2 May 2022).
 
   .
 - (b) Omit subsection (6)(a).
@@ -340,12 +340,12 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 - (a) After subsection (3) insert—
 
-  > (3A)[^key-ebf88a653fb2a34869e4120cd7dc6cf9] In the application of this section in England and Wales, the reference in subsection (3)(b) to 12 months is to be read as a reference to the general limit in a magistrates’ court (or to 6 months in relation to an offence committed before 2 May 2022).
+  > (3A)[^c-ebf88a653fb2a34869e4120cd7dc6cf9] In the application of this section in England and Wales, the reference in subsection (3)(b) to 12 months is to be read as a reference to the general limit in a magistrates’ court (or to 6 months in relation to an offence committed before 2 May 2022).
 
   .
 - (b) Omit subsection (6)(a).
 
-### 21. Amendment of the Parliamentary Standards Act 2009[^key-9d261c1e0b135fa0ee2d4c8e0068d66a]
+### 21. Amendment of the Parliamentary Standards Act 2009[^c-9d261c1e0b135fa0ee2d4c8e0068d66a]
 
 (1) The Parliamentary Standards Act 2009[^f00020] is amended as follows.
 
@@ -357,7 +357,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 (3) Omit subsection (3)(a).
 
-### 22. Amendment of the Bribery Act 2010[^key-5f1a90ffebc1dd1f9174796648650d8e]
+### 22. Amendment of the Bribery Act 2010[^c-5f1a90ffebc1dd1f9174796648650d8e]
 
 (1) The Bribery Act 2010[^f00021] is amended as follows.
 
@@ -369,7 +369,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 (3) Omit subsection (4)(a).
 
-### 23. Amendment of the Identity Documents Act 2010[^key-4fd26ca14eb89a24eecfa40c9a4633b3]
+### 23. Amendment of the Identity Documents Act 2010[^c-4fd26ca14eb89a24eecfa40c9a4633b3]
 
 (1) The Identity Documents Act 2010[^f00022] is amended as follows.
 
@@ -383,7 +383,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 (4) In subsection (4) for “(3)(a)” substitute “(3)(c)”.
 
-### 24. Amendment of the Charities Act 2011[^key-16a3942a83ff97fc6a089ab1076745a6]
+### 24. Amendment of the Charities Act 2011[^c-16a3942a83ff97fc6a089ab1076745a6]
 
 (1) The Charities Act 2011[^f00023] is amended as follows.
 
@@ -393,13 +393,13 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 (but this is subject to paragraph 14 of Schedule 9).”.
 
-### 25. Amendment of the Legal Aid, Sentencing and Punishment of Offenders Act 2012[^key-c4ba3cf5302d7e12a8078fedb185a0f5]
+### 25. Amendment of the Legal Aid, Sentencing and Punishment of Offenders Act 2012[^c-c4ba3cf5302d7e12a8078fedb185a0f5]
 
 (1) The Legal Aid, Sentencing and Punishment of Offenders Act 2012[^f00024] is amended as follows.
 
 (2) In section 143(6) for the words from ““12 months” to “6 months” substitute ““the general limit in a magistrates’ court” is to be read as “6 months”.
 
-### 26. Amendment of the Energy Act 2013[^key-3b99c225d91d73bec749e77ceba73a23]
+### 26. Amendment of the Energy Act 2013[^c-3b99c225d91d73bec749e77ceba73a23]
 
 (1) The Energy Act 2013[^f00025] is amended as follows.
 
@@ -445,7 +445,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 .
 
-### 27. Amendment of the Crime and Courts Act 2013[^key-3eec215cb8b999b536d0941aa2bb0436]
+### 27. Amendment of the Crime and Courts Act 2013[^c-3eec215cb8b999b536d0941aa2bb0436]
 
 (1) The Crime and Courts Act 2013[^f00026] is amended as follows.
 
@@ -459,7 +459,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 (4) In paragraph 30(3)(b)(i) and 30(4) of Schedule 16, after “12 months” insert “or the general limit in a magistrates’ court”.
 
-### 28. Amendment of the Mobile Homes (Wales) Act 2013[^key-c6fb5cc578fbb7e40e71bb0349028190]
+### 28. Amendment of the Mobile Homes (Wales) Act 2013[^c-c6fb5cc578fbb7e40e71bb0349028190]
 
 (1) The Mobile Homes (Wales) Act 2013[^f00027] is amended as follows.
 
@@ -467,7 +467,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 (3) In paragraph 9 of Schedule 5 of the Welsh language text for “12 mis” substitute “y terfyn cyffredinol yn y llys ynadon (yng Nghymru a Lloegr)”.
 
-### 29. Amendment of the Defence Reform Act 2014[^key-29efdd71f65180cc7d09b0d8498be087]
+### 29. Amendment of the Defence Reform Act 2014[^c-29efdd71f65180cc7d09b0d8498be087]
 
 (1) The Defence Reform Act 2014[^f00028] is amended as follows.
 
@@ -487,7 +487,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 (5) Omit sub-paragraph (2)(a).
 
-### 30. Amendment of the Finance Act 2014[^key-ac0cc0d92b2b4325faf9ac7c62e16cdd]
+### 30. Amendment of the Finance Act 2014[^c-ac0cc0d92b2b4325faf9ac7c62e16cdd]
 
 (1) The Finance Act 2014[^f00029] is amended as follows.
 
@@ -499,7 +499,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 (3) Omit subsection (4)(a).
 
-### 31. Amendment of the Tax Collection and Management (Wales) Act 2016[^key-bb99c0287b09755f0130bef17938c7fd]
+### 31. Amendment of the Tax Collection and Management (Wales) Act 2016[^c-bb99c0287b09755f0130bef17938c7fd]
 
 (1) The Tax Collection and Management (Wales) Act 2016[^f00030] is amended as follows.
 
@@ -507,7 +507,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 ## PART 4 – Specific amendments to secondary legislation
 
-### 32. Amendment of the Export Control Order 2008[^key-373fb5d1bb57b02719fc5bc54dd1793f]
+### 32. Amendment of the Export Control Order 2008[^c-373fb5d1bb57b02719fc5bc54dd1793f]
 
 (1) The Export Control Order 2008[^f00031] is amended as follows.
 
@@ -525,7 +525,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 (6) In article 36(8) for “paragraph (3)(a)(i)” substitute “paragraphs (3)(a)(iii) and (6)(a)(iii)”.
 
-### 33. Amendment of the Local Authorities (Conduct of Referendums) (Wales) Regulations 2008[^key-b499f52ca35e93caccd7a3c32217e5d4]
+### 33. Amendment of the Local Authorities (Conduct of Referendums) (Wales) Regulations 2008[^c-b499f52ca35e93caccd7a3c32217e5d4]
 
 (1) The Local Authorities (Conduct of Referendums) (Wales) Regulations 2008[^f00032] is amended as follows.
 
@@ -533,13 +533,13 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 (3) In regulation 6(7) of the Welsh language text for “12 mis” substitute “y terfyn cyffredinol yn y llys ynadon (yng Nghymru a Lloegr)”.
 
-### 34. Amendment of the National Assembly for Wales Referendum (Assembly Act Provisions) (Referendum Question, Date of Referendum Etc.) Order 2010[^key-13c439bf0b5cdb266826bbf3380f0954]
+### 34. Amendment of the National Assembly for Wales Referendum (Assembly Act Provisions) (Referendum Question, Date of Referendum Etc.) Order 2010[^c-13c439bf0b5cdb266826bbf3380f0954]
 
 (1) The National Assembly for Wales Referendum (Assembly Act Provisions) (Referendum Question, Date of Referendum Etc.) Order 2010[^f00033] is amended as follows.
 
 (2) In paragraph 5(4) of Schedule 4 for “12 months” substitute “the general limit in a magistrates’ court”.
 
-### 35. Amendment of the Environmental Civil Sanctions (Wales) Order 2010[^key-de98a6b1d8f4ac95cb83d6b2ea21e6ad]
+### 35. Amendment of the Environmental Civil Sanctions (Wales) Order 2010[^c-de98a6b1d8f4ac95cb83d6b2ea21e6ad]
 
 (1) The Environmental Civil Sanctions (Wales) Order 2010[^f00034] is amended as follows.
 
@@ -547,7 +547,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 (3) In paragraph 6(2) of Schedule 3 of the Welsh language text for “ddeuddeng mis” substitute “y terfyn cyffredinol yn y llys ynadon (yng Nghymru a Lloegr)”.
 
-### 36. Amendment of the Environmental Protection (Microbeads) (Wales) Regulations 2018[^key-56339bd2fd12a503850bc37275e81307]
+### 36. Amendment of the Environmental Protection (Microbeads) (Wales) Regulations 2018[^c-56339bd2fd12a503850bc37275e81307]
 
 (1) The Environmental Protection (Microbeads) (Wales) Regulations 2018[^f00035] are amended as follows.
 
@@ -567,7 +567,7 @@ At 12.00 p.m. on 7th February 2023
 
 Regulation 2
 
-### PART 1 — Amendment of primary legislation[^key-d10580c6bc7101873acb1ebc9026e715]
+### PART 1 — Amendment of primary legislation[^c-d10580c6bc7101873acb1ebc9026e715]
 
 | Column 1(provision) | Column 2 (words to be substituted) |
 | --- | --- |
@@ -580,7 +580,7 @@ Regulation 2
 | Section 24(F1)(a) and (G1) of the Immigration Act 1971 | “12 months” |
 | Section 44BC(4)(a) and (5) of the Solicitors Act 1974 | “12 months” |
 | Schedule 3A to the Health and Safety at Work etc. Act 1974 all entries in column 3 headed “penalty on summary conviction” of the table (except the entry relating to an offence under section 33(1)(h)) and paragraph 2(2) | “12 months” |
-| [^key-6c1136ae415394843a4516f9dd3287c0]. . . | [^key-6c1136ae415394843a4516f9dd3287c0]. . . |
+| [^c-6c1136ae415394843a4516f9dd3287c0]. . . | [^c-6c1136ae415394843a4516f9dd3287c0]. . . |
 | Section 88G(5)(a)(i) and (7) of the Alcoholic Liquor Duties Act 1979 | “12 months” |
 | Sections 139A(5)(a) and (5ZA) and 139AA(6)(a) and (10) of the Criminal Justice Act 1988 | *“*12 months*”* |
 | Section 63B(6)(a) and (8) of the Local Government Finance Act 1988 | “12 months” |
@@ -590,10 +590,10 @@ Regulation 2
 | Section 33(8)(a) of the Environmental Protection Act 1990 | “12 months” |
 | Section 37B(6)(a) and (8) of the Land Drainage Act 1991 | “12 months” |
 | Section 14B(4)(b) and paragraph 15D(3)(b) and (7) of Schedule 2 to the Local Government Finance Act 1992 | “12 months” |
-| [^key-edf07d7a9a2710ffc5f5ac4d0f33e2bd]. . . | [^key-edf07d7a9a2710ffc5f5ac4d0f33e2bd]. . . |
+| [^c-edf07d7a9a2710ffc5f5ac4d0f33e2bd]. . . | [^c-edf07d7a9a2710ffc5f5ac4d0f33e2bd]. . . |
 | Section 4C(4)(b) and (5) of the National Lottery etc. Act 1993 | “12 months” |
 | Section 1(3)(b) and (7) of the Prisoners (Return to Custody) Act 1995 | “12 months” |
-| Section 110(5E)(a)[^key-2a9e08cf0399f404fffc01102669bd99] and (5H) of the Environment Act 1995 | “12 months” |
+| Section 110(5E)(a)[^c-2a9e08cf0399f404fffc01102669bd99] and (5H) of the Environment Act 1995 | “12 months” |
 | Sections 42A(5)(b) and 63CA(5)(b) of the Family Law Act 1996 | “12 months” |
 | Paragraph 26(1)(a) and (1A) of Schedule 1 to the Housing Act 1996 | “12 months” |
 | Section 32ZA(5)(b) and (6) of the Crime (Sentences) Act 1997 | “12 months” |
@@ -604,7 +604,7 @@ Regulation 2
 | In the table in Schedule 20 to the Political Parties, Elections and Referendums Act 2000 in relation to the following provisions: sections 71L(2), 71L(4), 71L(6), 71L(8), 71L(9), 71S(5) and 71T(5), and paragraphs 8(1), 8(2), 8(3), 8(4), 8(5), 8(6), 8(7), 8(8), 8(9), 12(2), and 13(4) of Schedule 7A | “12 months” |
 | Paragraph 11(4)(b) and (6) of Schedule 5A to the Terrorism Act 2000 | “12 months” |
 | Section 77(3A) of, and paragraphs 7(6)(a)(i) and 7(7)(a)(i) of Schedule 3 to, the Anti-terrorism, Crime and Security Act 2001 | “12 months” |
-| Section 362E(2)(b) and (3)[^key-27503f779204727a01c832176b62c2cf] and 396E(2)(a) of the Proceeds of Crime Act 2002 | “12 months” |
+| Section 362E(2)(b) and (3)[^c-27503f779204727a01c832176b62c2cf] and 396E(2)(a) of the Proceeds of Crime Act 2002 | “12 months” |
 | Paragraph 9B(5)(b)(i) and (6) of Schedule 5 to the Courts Act 2003 | “12 months” |
 | Sections 15A(3)(a) and 67A(4)(a) and (5) of the Sexual Offences Act 2003 | “12 months” |
 | Section 255ZA(5)(b) and (6) of the Criminal Justice Act 2003 | “12 months” |
@@ -632,7 +632,7 @@ Regulation 2
 | Sections 1(3)(a), 6(2)(a), 7(2)(a) and 9(6)(a), 11(3)(a), and paragraph 1 of Schedule 2 to, the Fraud Act 2006 | “12 months” |
 | Sections 35(2)(a), 36(2)(a), 37(2)(a), 38(6)(a), 47(4)(a), 68(3)(a) and 93(1)(a) of, and paragraph 16 of Schedule 8 to, the Wireless Telegraphy Act 2006 | “12 months” |
 | Sections 204(6)(b) and 208(1), and paragraph 8(4) of Schedule 10 to, the National Health Service Act 2006 | “12 months” |
-| Paragraph 8(3)(a)[^key-60064eaea671e8e8af18f8454c8beccc] of Schedule 10 to the National Health Service Act 2006 | “twelve months” |
+| Paragraph 8(3)(a)[^c-60064eaea671e8e8af18f8454c8beccc] of Schedule 10 to the National Health Service Act 2006 | “twelve months” |
 | Section 152(6)(b) and 156(1) of the National Health Service (Wales) Act 2006 | “12 months” |
 | Section 32(1)(a) and (4A) of the Animal Welfare Act 2006 | “12 months” |
 | Section 61(5) of the Road Safety Act 2006 | “12 months” |
@@ -645,7 +645,7 @@ Regulation 2
 | Paragraph 5 of Schedule 4 to the Offender Management Act 2007 | “12 months” |
 | Sections 14(3)(a) and (5), 16(5)(a) and (7), 17(2)(a) and (3) and 181(2)(a) and (3) of the Legal Services Act 2007 | “12 months” |
 | Section 42(4)(b) and (5) of the UK Borders Act 2007 | “12 months” |
-| Section 67(4)(a), and paragraph 23[^key-2ed6dd14034e7aaf985b73a4767236eb] of Schedule 27 to, the Criminal Justice and Immigration Act 2008 | “12 months” |
+| Section 67(4)(a), and paragraph 23[^c-2ed6dd14034e7aaf985b73a4767236eb] of Schedule 27 to, the Criminal Justice and Immigration Act 2008 | “12 months” |
 | Paragraph 10(1)(a) and (2) of Schedule A1 of the Learner Travel (Wales) Measure 2008 | “twelve months” |
 | Sections 10(4)(a) and (5) and 76(3)(a) and (4) of the Health and Social Care Act 2008 | “12 months” |
 | Section 264(2)(a) and (4) of the Housing and Regeneration Act 2008 | “12 months” |
@@ -700,7 +700,7 @@ Regulation 2
 | Section 78(4)(a) and (5) of the Police, Crime Sentencing and Courts Act 2022 | “12 months” |
 | Section 6(5)(a) and (6) of the Glue Traps (Offences) Act 2022 | “12 months” |
 
-### PART 2 — Amendment of secondary legislation[^key-cc8acef24d3697ff1bbc38b8bf2953b3]
+### PART 2 — Amendment of secondary legislation[^c-cc8acef24d3697ff1bbc38b8bf2953b3]
 
 | Column 1 (provision) | Column 2 (words to be substituted) |
 | --- | --- |
@@ -780,168 +780,168 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00001]: Footnote: [2022 c. 35](https://www.legislation.gov.uk/ukpga/2022/35).
 
-[^key-fc0d62d666d6faa25010b17f33b08122]: Commencement: Reg. 1 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)
+[^c-fc0d62d666d6faa25010b17f33b08122]: Commencement: Reg. 1 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)
 
-[^key-6fdc2368e569bbe5a6be1d06c22b2103]: Commencement: Reg. 2 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)
+[^c-6fdc2368e569bbe5a6be1d06c22b2103]: Commencement: Reg. 2 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)
 
-[^key-38d854f1925d18349b8b3e7dc49031bf]: Commencement: Reg. 3 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)
+[^c-38d854f1925d18349b8b3e7dc49031bf]: Commencement: Reg. 3 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)
 
 [^f00002]: Footnote: [1965 c. 57](https://www.legislation.gov.uk/ukpga/1965/57).
 
-[^key-6be0ab4c2075be4f487b290b1815c8ad]: Commencement: Reg. 4 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)
+[^c-6be0ab4c2075be4f487b290b1815c8ad]: Commencement: Reg. 4 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)
 
 [^f00003]: Footnote: [1979 c. 5](https://www.legislation.gov.uk/ukpga/1979/5).
 
-[^key-9562ceaa7b9ca06bf042fd178e7aba06]: Commencement: Reg. 5 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)
+[^c-9562ceaa7b9ca06bf042fd178e7aba06]: Commencement: Reg. 5 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)
 
 [^f00004]: Footnote: [1983 c. 2](https://www.legislation.gov.uk/ukpga/1983/2).
 
-[^key-659f0dc85041a7822f9466e4bbaee5d6]: Commencement: Reg. 6 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)
+[^c-659f0dc85041a7822f9466e4bbaee5d6]: Commencement: Reg. 6 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)
 
 [^f00005]: Footnote: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45).
 
-[^key-be498ef2276f22d15445df577cf66e00]: Commencement: Reg. 7 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)
+[^c-be498ef2276f22d15445df577cf66e00]: Commencement: Reg. 7 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)
 
 [^f00006]: Footnote: [1988 c. 53](https://www.legislation.gov.uk/ukpga/1988/53).
 
-[^key-a65343510a013378fcc5e58897befd5a]: Commencement: Reg. 8 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)
+[^c-a65343510a013378fcc5e58897befd5a]: Commencement: Reg. 8 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)
 
 [^f00007]: Footnote: [2000 c. 41](https://www.legislation.gov.uk/ukpga/2000/41).
 
-[^key-5c0c2cc6d108510ae2fc74d94e9af237]: Commencement: Reg. 9 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)
+[^c-5c0c2cc6d108510ae2fc74d94e9af237]: Commencement: Reg. 9 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)
 
 [^f00008]: Footnote: [2000 c. 11](https://www.legislation.gov.uk/ukpga/2000/11).
 
-[^key-34c2d4c6755421cd6a2d1aa4b553b907]: Commencement: Reg. 10 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)
+[^c-34c2d4c6755421cd6a2d1aa4b553b907]: Commencement: Reg. 10 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)
 
 [^f00009]: Footnote: [2001 c. 24](https://www.legislation.gov.uk/ukpga/2001/24).
 
-[^key-a94aec6f66f27d17e61b24961e2f1c7f]: Commencement: Reg. 11 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)
+[^c-a94aec6f66f27d17e61b24961e2f1c7f]: Commencement: Reg. 11 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)
 
 [^f00010]: Footnote: [2004 c. 20](https://www.legislation.gov.uk/ukpga/2004/20).
 
-[^key-57a1b091009239f0f813d98bb07ff5ad]: Commencement: Reg. 12 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)
+[^c-57a1b091009239f0f813d98bb07ff5ad]: Commencement: Reg. 12 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)
 
 [^f00011]: Footnote: [2004 c. 20](https://www.legislation.gov.uk/ukpga/2004/20).
 
-[^key-3567518462d40215983ef137b73e04f4]: Commencement: Reg. 13 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)
+[^c-3567518462d40215983ef137b73e04f4]: Commencement: Reg. 13 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)
 
 [^f00012]: Footnote: [2007 c. 8](https://www.legislation.gov.uk/ukpga/2007/8).
 
-[^key-0f8c6ff6202d40d825559c4b36d2d906]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/13/2) inserted (18.10.2023) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) (Revocation and Amendment) Regulations 2023 (S.I. 2023/1108)](https://www.legislation.gov.uk/uksi/2023/1108), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1108/regulation/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2023/1108/regulation/3/1)
+[^c-0f8c6ff6202d40d825559c4b36d2d906]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/13/2) inserted (18.10.2023) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) (Revocation and Amendment) Regulations 2023 (S.I. 2023/1108)](https://www.legislation.gov.uk/uksi/2023/1108), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1108/regulation/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2023/1108/regulation/3/1)
 
-[^key-1f31486da0ac1badfdcb95c2f4292d07]: Commencement: Reg. 14 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)
+[^c-1f31486da0ac1badfdcb95c2f4292d07]: Commencement: Reg. 14 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)
 
 [^f00013]: Footnote: [2007 c. 27](https://www.legislation.gov.uk/ukpga/2007/27).
 
-[^key-901e9ab1dee91319dbd16e8ccc5211fb]: Commencement: Reg. 15 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)
+[^c-901e9ab1dee91319dbd16e8ccc5211fb]: Commencement: Reg. 15 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)
 
 [^f00014]: Footnote: [2007 c. 18](https://www.legislation.gov.uk/ukpga/2007/18).
 
-[^key-c8af741f7e03911d80049b93c1fcdebc]: Commencement: Reg. 16 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)
+[^c-c8af741f7e03911d80049b93c1fcdebc]: Commencement: Reg. 16 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)
 
 [^f00015]: Footnote: [2008 c. 4](https://www.legislation.gov.uk/ukpga/2008/4).
 
-[^key-86b992b999a7facb9277f864ac978f58]: Commencement: Reg. 17 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)
+[^c-86b992b999a7facb9277f864ac978f58]: Commencement: Reg. 17 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)
 
 [^f00016]: Footnote: [2008 c. 28](https://www.legislation.gov.uk/ukpga/2008/28).
 
-[^key-ff566323df335213affeab5f55e2df64]: Commencement: Reg. 18 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)
+[^c-ff566323df335213affeab5f55e2df64]: Commencement: Reg. 18 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)
 
 [^f00017]: Footnote: [2008 c. 13](https://www.legislation.gov.uk/ukpga/2008/13).
 
-[^key-1191080a273d7ac393d88d84d956678d]: Commencement: Reg. 19 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)
+[^c-1191080a273d7ac393d88d84d956678d]: Commencement: Reg. 19 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)
 
 [^f00018]: Footnote: [2008 nawm 2](https://www.legislation.gov.uk/mwa/2008/2).
 
-[^key-02db038a54a1ea8b75150b200f066963]: Commencement: Reg. 20 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)
+[^c-02db038a54a1ea8b75150b200f066963]: Commencement: Reg. 20 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)
 
 [^f00019]: Footnote: [2009 c. 4](https://www.legislation.gov.uk/ukpga/2009/4).
 
-[^key-2e0866b56d97a43942dd64251de26889]: Textual amendment: Word in [reg. 20(2)(a)](https://www.legislation.gov.uk/uksi/2023/149/regulation/20/2/a) substituted (18.10.2023) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) (Revocation and Amendment) Regulations 2023 (S.I. 2023/1108)](https://www.legislation.gov.uk/uksi/2023/1108), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1108/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2023/1108/regulation/3/2)
+[^c-2e0866b56d97a43942dd64251de26889]: Textual amendment: Word in [reg. 20(2)(a)](https://www.legislation.gov.uk/uksi/2023/149/regulation/20/2/a) substituted (18.10.2023) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) (Revocation and Amendment) Regulations 2023 (S.I. 2023/1108)](https://www.legislation.gov.uk/uksi/2023/1108), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1108/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2023/1108/regulation/3/2)
 
-[^key-61c3590a0ed2117c2d7a77f7d4a1b661]: Textual amendment: Word in [reg. 20(3)(a)](https://www.legislation.gov.uk/uksi/2023/149/regulation/20/3/a) substituted (18.10.2023) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) (Revocation and Amendment) Regulations 2023 (S.I. 2023/1108)](https://www.legislation.gov.uk/uksi/2023/1108), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1108/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2023/1108/regulation/3/2)
+[^c-61c3590a0ed2117c2d7a77f7d4a1b661]: Textual amendment: Word in [reg. 20(3)(a)](https://www.legislation.gov.uk/uksi/2023/149/regulation/20/3/a) substituted (18.10.2023) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) (Revocation and Amendment) Regulations 2023 (S.I. 2023/1108)](https://www.legislation.gov.uk/uksi/2023/1108), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1108/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2023/1108/regulation/3/2)
 
-[^key-ebf88a653fb2a34869e4120cd7dc6cf9]: Textual amendment: Word in [reg. 20(4)(a)](https://www.legislation.gov.uk/uksi/2023/149/regulation/20/4/a) substituted (18.10.2023) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) (Revocation and Amendment) Regulations 2023 (S.I. 2023/1108)](https://www.legislation.gov.uk/uksi/2023/1108), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1108/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2023/1108/regulation/3/2)
+[^c-ebf88a653fb2a34869e4120cd7dc6cf9]: Textual amendment: Word in [reg. 20(4)(a)](https://www.legislation.gov.uk/uksi/2023/149/regulation/20/4/a) substituted (18.10.2023) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) (Revocation and Amendment) Regulations 2023 (S.I. 2023/1108)](https://www.legislation.gov.uk/uksi/2023/1108), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1108/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2023/1108/regulation/3/2)
 
-[^key-9d261c1e0b135fa0ee2d4c8e0068d66a]: Commencement: Reg. 21 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)
+[^c-9d261c1e0b135fa0ee2d4c8e0068d66a]: Commencement: Reg. 21 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)
 
 [^f00020]: Footnote: [2009 c. 13](https://www.legislation.gov.uk/ukpga/2009/13).
 
-[^key-5f1a90ffebc1dd1f9174796648650d8e]: Commencement: Reg. 22 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)
+[^c-5f1a90ffebc1dd1f9174796648650d8e]: Commencement: Reg. 22 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)
 
 [^f00021]: Footnote: [2010 c. 23](https://www.legislation.gov.uk/ukpga/2010/23).
 
-[^key-4fd26ca14eb89a24eecfa40c9a4633b3]: Commencement: Reg. 23 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)
+[^c-4fd26ca14eb89a24eecfa40c9a4633b3]: Commencement: Reg. 23 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)
 
 [^f00022]: Footnote: [2010 c. 40](https://www.legislation.gov.uk/ukpga/2010/40).
 
-[^key-16a3942a83ff97fc6a089ab1076745a6]: Commencement: Reg. 24 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)
+[^c-16a3942a83ff97fc6a089ab1076745a6]: Commencement: Reg. 24 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)
 
 [^f00023]: Footnote: [2011 c. 25](https://www.legislation.gov.uk/ukpga/2011/25).
 
-[^key-c4ba3cf5302d7e12a8078fedb185a0f5]: Commencement: Reg. 25 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)
+[^c-c4ba3cf5302d7e12a8078fedb185a0f5]: Commencement: Reg. 25 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)
 
 [^f00024]: Footnote: [2012 c. 10](https://www.legislation.gov.uk/ukpga/2012/10).
 
-[^key-3b99c225d91d73bec749e77ceba73a23]: Commencement: Reg. 26 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)
+[^c-3b99c225d91d73bec749e77ceba73a23]: Commencement: Reg. 26 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)
 
 [^f00025]: Footnote: [2013 c. 32](https://www.legislation.gov.uk/ukpga/2013/32).
 
-[^key-3eec215cb8b999b536d0941aa2bb0436]: Commencement: Reg. 27 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)
+[^c-3eec215cb8b999b536d0941aa2bb0436]: Commencement: Reg. 27 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)
 
 [^f00026]: Footnote: [2013 c. 22](https://www.legislation.gov.uk/ukpga/2013/22).
 
-[^key-c6fb5cc578fbb7e40e71bb0349028190]: Commencement: Reg. 28 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)
+[^c-c6fb5cc578fbb7e40e71bb0349028190]: Commencement: Reg. 28 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)
 
 [^f00027]: Footnote: [2013 anaw 6](https://www.legislation.gov.uk/anaw/2013/6).
 
-[^key-29efdd71f65180cc7d09b0d8498be087]: Commencement: Reg. 29 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)
+[^c-29efdd71f65180cc7d09b0d8498be087]: Commencement: Reg. 29 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)
 
 [^f00028]: Footnote: [2014 c. 20](https://www.legislation.gov.uk/ukpga/2014/20).
 
-[^key-ac0cc0d92b2b4325faf9ac7c62e16cdd]: Commencement: Reg. 30 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)
+[^c-ac0cc0d92b2b4325faf9ac7c62e16cdd]: Commencement: Reg. 30 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)
 
 [^f00029]: Footnote: [2014 c. 26](https://www.legislation.gov.uk/ukpga/2014/26).
 
-[^key-bb99c0287b09755f0130bef17938c7fd]: Commencement: Reg. 31 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)
+[^c-bb99c0287b09755f0130bef17938c7fd]: Commencement: Reg. 31 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)
 
 [^f00030]: Footnote: [2016 anaw 6](https://www.legislation.gov.uk/anaw/2016/6).
 
-[^key-373fb5d1bb57b02719fc5bc54dd1793f]: Commencement: Reg. 32 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)
+[^c-373fb5d1bb57b02719fc5bc54dd1793f]: Commencement: Reg. 32 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)
 
 [^f00031]: Footnote: [S.I. 2008/3231](https://www.legislation.gov.uk/uksi/2008/3231).
 
-[^key-b499f52ca35e93caccd7a3c32217e5d4]: Commencement: Reg. 33 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)
+[^c-b499f52ca35e93caccd7a3c32217e5d4]: Commencement: Reg. 33 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)
 
 [^f00032]: Footnote: [S.I. 2008/1848 (W. 177)](https://www.legislation.gov.uk/wsi/2008/1848)
 
-[^key-13c439bf0b5cdb266826bbf3380f0954]: Commencement: Reg. 34 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)
+[^c-13c439bf0b5cdb266826bbf3380f0954]: Commencement: Reg. 34 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)
 
 [^f00033]: Footnote: [S.I. 2010/2837](https://www.legislation.gov.uk/uksi/2010/2837).
 
-[^key-de98a6b1d8f4ac95cb83d6b2ea21e6ad]: Commencement: Reg. 35 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)
+[^c-de98a6b1d8f4ac95cb83d6b2ea21e6ad]: Commencement: Reg. 35 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)
 
 [^f00034]: Footnote: [S.I. 2010/1820 (W. 177)](https://www.legislation.gov.uk/wsi/2010/1820)
 
-[^key-56339bd2fd12a503850bc37275e81307]: Commencement: Reg. 36 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)
+[^c-56339bd2fd12a503850bc37275e81307]: Commencement: Reg. 36 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)
 
 [^f00035]: Footnote: [S.I. 2018/760 (W. 151)](https://www.legislation.gov.uk/wsi/2018/760).
 
-[^key-d10580c6bc7101873acb1ebc9026e715]: Commencement: Sch. Pt. 1 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)
+[^c-d10580c6bc7101873acb1ebc9026e715]: Commencement: Sch. Pt. 1 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)
 
-[^key-6c1136ae415394843a4516f9dd3287c0]: Textual amendment: [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1): entry revoked (18.10.2023) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) (Revocation and Amendment) Regulations 2023 (S.I. 2023/1108)](https://www.legislation.gov.uk/uksi/2023/1108), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1108/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2023/1108/regulation/2/2)
+[^c-6c1136ae415394843a4516f9dd3287c0]: Textual amendment: [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1): entry revoked (18.10.2023) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) (Revocation and Amendment) Regulations 2023 (S.I. 2023/1108)](https://www.legislation.gov.uk/uksi/2023/1108), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1108/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2023/1108/regulation/2/2)
 
-[^key-edf07d7a9a2710ffc5f5ac4d0f33e2bd]: Textual amendment: [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1): entry revoked (18.10.2023) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) (Revocation and Amendment) Regulations 2023 (S.I. 2023/1108)](https://www.legislation.gov.uk/uksi/2023/1108), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1108/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2023/1108/regulation/4/2)
+[^c-edf07d7a9a2710ffc5f5ac4d0f33e2bd]: Textual amendment: [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1): entry revoked (18.10.2023) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) (Revocation and Amendment) Regulations 2023 (S.I. 2023/1108)](https://www.legislation.gov.uk/uksi/2023/1108), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1108/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2023/1108/regulation/4/2)
 
-[^key-2a9e08cf0399f404fffc01102669bd99]: Textual amendment: Word in [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) substituted (18.10.2023) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) (Revocation and Amendment) Regulations 2023 (S.I. 2023/1108)](https://www.legislation.gov.uk/uksi/2023/1108), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1108/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2023/1108/regulation/4/3)
+[^c-2a9e08cf0399f404fffc01102669bd99]: Textual amendment: Word in [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) substituted (18.10.2023) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) (Revocation and Amendment) Regulations 2023 (S.I. 2023/1108)](https://www.legislation.gov.uk/uksi/2023/1108), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1108/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2023/1108/regulation/4/3)
 
-[^key-27503f779204727a01c832176b62c2cf]: Textual amendment: Words in [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) substituted (18.10.2023) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) (Revocation and Amendment) Regulations 2023 (S.I. 2023/1108)](https://www.legislation.gov.uk/uksi/2023/1108), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1108/regulation/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2023/1108/regulation/4/4)
+[^c-27503f779204727a01c832176b62c2cf]: Textual amendment: Words in [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) substituted (18.10.2023) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) (Revocation and Amendment) Regulations 2023 (S.I. 2023/1108)](https://www.legislation.gov.uk/uksi/2023/1108), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1108/regulation/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2023/1108/regulation/4/4)
 
-[^key-60064eaea671e8e8af18f8454c8beccc]: Textual amendment: Words in [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) substituted (18.10.2023) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) (Revocation and Amendment) Regulations 2023 (S.I. 2023/1108)](https://www.legislation.gov.uk/uksi/2023/1108), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1108/regulation/1/2), [4(5)](https://www.legislation.gov.uk/uksi/2023/1108/regulation/4/5)
+[^c-60064eaea671e8e8af18f8454c8beccc]: Textual amendment: Words in [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) substituted (18.10.2023) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) (Revocation and Amendment) Regulations 2023 (S.I. 2023/1108)](https://www.legislation.gov.uk/uksi/2023/1108), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1108/regulation/1/2), [4(5)](https://www.legislation.gov.uk/uksi/2023/1108/regulation/4/5)
 
 [^M_F_047ae2aa-60c9-4994-df5a-c2d4804d3485]: Textual amendment: Sch. Pt. 1: entry revoked (18.10.2023) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) (Revocation and Amendment) Regulations 2023 (S.I. 2023/1108)](https://www.legislation.gov.uk/uksi/2023/1108), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1108/regulation/1/2), [4(6)](https://www.legislation.gov.uk/uksi/2023/1108/regulation/4/6)
 
-[^key-2ed6dd14034e7aaf985b73a4767236eb]: Textual amendment: Words in [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) substituted (18.10.2023) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) (Revocation and Amendment) Regulations 2023 (S.I. 2023/1108)](https://www.legislation.gov.uk/uksi/2023/1108), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1108/regulation/1/2), [4(7)](https://www.legislation.gov.uk/uksi/2023/1108/regulation/4/7)
+[^c-2ed6dd14034e7aaf985b73a4767236eb]: Textual amendment: Words in [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) substituted (18.10.2023) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) (Revocation and Amendment) Regulations 2023 (S.I. 2023/1108)](https://www.legislation.gov.uk/uksi/2023/1108), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1108/regulation/1/2), [4(7)](https://www.legislation.gov.uk/uksi/2023/1108/regulation/4/7)
 
-[^key-cc8acef24d3697ff1bbc38b8bf2953b3]: Commencement: Sch. Pt. 2 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)
+[^c-cc8acef24d3697ff1bbc38b8bf2953b3]: Commencement: Sch. Pt. 2 in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2)

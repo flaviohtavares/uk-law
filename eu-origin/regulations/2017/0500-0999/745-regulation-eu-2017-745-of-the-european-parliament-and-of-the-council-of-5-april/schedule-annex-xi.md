@@ -16,158 +16,158 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## ANNEX XI — CONFORMITY ASSESSMENT BASED ON PRODUCT CONFORMITY VERIFICATION[^key-43f3a016c6a6fbb2247738e537d82965]
+## ANNEX XI — CONFORMITY ASSESSMENT BASED ON PRODUCT CONFORMITY VERIFICATION[^c-43f3a016c6a6fbb2247738e537d82965]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-[^key-43f3a016c6a6fbb2247738e537d82965]1.
+[^c-43f3a016c6a6fbb2247738e537d82965]1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]2.
+[^c-43f3a016c6a6fbb2247738e537d82965]2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]3.
+[^c-43f3a016c6a6fbb2247738e537d82965]3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]PART A
+[^c-43f3a016c6a6fbb2247738e537d82965]PART A
 
 **PRODUCTION QUALITY ASSURANCE**
 
-[^key-43f3a016c6a6fbb2247738e537d82965]4.
+[^c-43f3a016c6a6fbb2247738e537d82965]4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]5.
+[^c-43f3a016c6a6fbb2247738e537d82965]5.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]6.
+[^c-43f3a016c6a6fbb2247738e537d82965]6.
 
 Quality management system
 
-[^key-43f3a016c6a6fbb2247738e537d82965]6.1.
+[^c-43f3a016c6a6fbb2247738e537d82965]6.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]6.2.
+[^c-43f3a016c6a6fbb2247738e537d82965]6.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]6.3.
+[^c-43f3a016c6a6fbb2247738e537d82965]6.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]6.4.
+[^c-43f3a016c6a6fbb2247738e537d82965]6.4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]7.
+[^c-43f3a016c6a6fbb2247738e537d82965]7.
 
 Surveillance
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]8.
+[^c-43f3a016c6a6fbb2247738e537d82965]8.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]9.
+[^c-43f3a016c6a6fbb2247738e537d82965]9.
 
 Administrative provisions
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]10.
+[^c-43f3a016c6a6fbb2247738e537d82965]10.
 
 Application to class IIa devices
 
-[^key-43f3a016c6a6fbb2247738e537d82965]10.1.
+[^c-43f3a016c6a6fbb2247738e537d82965]10.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]10.2.
+[^c-43f3a016c6a6fbb2247738e537d82965]10.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]10.3.
+[^c-43f3a016c6a6fbb2247738e537d82965]10.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]10.4.
+[^c-43f3a016c6a6fbb2247738e537d82965]10.4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]10.5.
+[^c-43f3a016c6a6fbb2247738e537d82965]10.5.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]PART B
+[^c-43f3a016c6a6fbb2247738e537d82965]PART B
 
 **PRODUCT VERIFICATION**
 
-[^key-43f3a016c6a6fbb2247738e537d82965]11.
+[^c-43f3a016c6a6fbb2247738e537d82965]11.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]12.
+[^c-43f3a016c6a6fbb2247738e537d82965]12.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]13.
+[^c-43f3a016c6a6fbb2247738e537d82965]13.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]14.
+[^c-43f3a016c6a6fbb2247738e537d82965]14.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]15.
+[^c-43f3a016c6a6fbb2247738e537d82965]15.
 
 Verification by examination and testing of every product
 
-[^key-43f3a016c6a6fbb2247738e537d82965]15.1.
+[^c-43f3a016c6a6fbb2247738e537d82965]15.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]15.2.
+[^c-43f3a016c6a6fbb2247738e537d82965]15.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]16.
+[^c-43f3a016c6a6fbb2247738e537d82965]16.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]17.
+[^c-43f3a016c6a6fbb2247738e537d82965]17.
 
 Administrative provisions
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]18.
+[^c-43f3a016c6a6fbb2247738e537d82965]18.
 
 Application to class IIa devices
 
-[^key-43f3a016c6a6fbb2247738e537d82965]18.1.
+[^c-43f3a016c6a6fbb2247738e537d82965]18.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]18.2.
+[^c-43f3a016c6a6fbb2247738e537d82965]18.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]18.3.
+[^c-43f3a016c6a6fbb2247738e537d82965]18.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]18.4.
+[^c-43f3a016c6a6fbb2247738e537d82965]18.4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-43f3a016c6a6fbb2247738e537d82965]: Textual amendment: Regulation revoked (31.12.2020) by [The Medical Devices Regulations 2002 (S.I. 2002/618)](https://www.legislation.gov.uk/uksi/2002/618), [reg. 4O](https://www.legislation.gov.uk/uksi/2002/618/regulation/4O) (with savings and transitional provisions for N.I. in [reg. 3ZA](https://www.legislation.gov.uk/uksi/2002/618/regulation/3ZA)) (as amended by [S.I. 2019/791](https://www.legislation.gov.uk/uksi/2019/791), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/791/regulation/1/1), [3(7)](https://www.legislation.gov.uk/uksi/2019/791/regulation/3/7) and by [S.I. 2020/1478](https://www.legislation.gov.uk/uksi/2020/1478), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/2); and as amended (27.7.2021) by [The Medical Devices (Northern Ireland Protocol) Regulations 2021 (S.I. 2021/905)](https://www.legislation.gov.uk/uksi/2021/905), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2021/905/regulation/4), [32](https://www.legislation.gov.uk/uksi/2021/905/regulation/32)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-43f3a016c6a6fbb2247738e537d82965]: Textual amendment: Regulation revoked (31.12.2020) by [The Medical Devices Regulations 2002 (S.I. 2002/618)](https://www.legislation.gov.uk/uksi/2002/618), [reg. 4O](https://www.legislation.gov.uk/uksi/2002/618/regulation/4O) (with savings and transitional provisions for N.I. in [reg. 3ZA](https://www.legislation.gov.uk/uksi/2002/618/regulation/3ZA)) (as amended by [S.I. 2019/791](https://www.legislation.gov.uk/uksi/2019/791), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/791/regulation/1/1), [3(7)](https://www.legislation.gov.uk/uksi/2019/791/regulation/3/7) and by [S.I. 2020/1478](https://www.legislation.gov.uk/uksi/2020/1478), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/2); and as amended (27.7.2021) by [The Medical Devices (Northern Ireland Protocol) Regulations 2021 (S.I. 2021/905)](https://www.legislation.gov.uk/uksi/2021/905), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2021/905/regulation/4), [32](https://www.legislation.gov.uk/uksi/2021/905/regulation/32)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))

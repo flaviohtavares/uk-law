@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (12).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/uksi/2006/214
 
-## 62. Rent free periods[^key-5ec38cf5a83b71f5107fa2f0de865810]
+## 62. Rent free periods[^c-5ec38cf5a83b71f5107fa2f0de865810]
 
 (1) This regulation applies to a claimant for any period (referred to in this regulation as a rent free period) in, or in respect of, which he is not liable to pay rent except for any period to which regulation 8(1)(d) (waiver of rent by landlord in return for work done) applies.
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5ec38cf5a83b71f5107fa2f0de865810]: Textual amendment: Reg. 61-62 substituted (with application in accordance with reg. 1(5)(6)(7) of the amending S.I.) by [Housing Benefit (State Pension Credit) (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2869)](https://www.legislation.gov.uk/uksi/2007/2869), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2869/regulation/1/3), [16](https://www.legislation.gov.uk/uksi/2007/2869/regulation/16)
+[^c-5ec38cf5a83b71f5107fa2f0de865810]: Textual amendment: Reg. 61-62 substituted (with application in accordance with reg. 1(5)(6)(7) of the amending S.I.) by [Housing Benefit (State Pension Credit) (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2869)](https://www.legislation.gov.uk/uksi/2007/2869), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2869/regulation/1/3), [16](https://www.legislation.gov.uk/uksi/2007/2869/regulation/16)

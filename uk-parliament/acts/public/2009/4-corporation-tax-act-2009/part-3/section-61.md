@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Pre-trading expenses[^key-58b098e1dde239b858c348b3e9de44b5][^key-2e3178f38bcfbfff221dea398dcb9827][^key-76dab88ca7f66980817ac98b1f3133cf]
+## 61. Pre-trading expenses[^c-58b098e1dde239b858c348b3e9de44b5][^c-2e3178f38bcfbfff221dea398dcb9827][^c-76dab88ca7f66980817ac98b1f3133cf]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,8 +38,8 @@ to be brought into account for the purposes of Part 5 (loan relationships).
 
 ## Annotations
 
-[^key-58b098e1dde239b858c348b3e9de44b5]: Modification: S. 61 excluded (with effect in accordance with Sch. 7 paras. 27, 28 of the commencing Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 7 para. 28](https://www.legislation.gov.uk/ukpga/2009/10/schedule/7/paragraph/28)
+[^c-58b098e1dde239b858c348b3e9de44b5]: Modification: S. 61 excluded (with effect in accordance with Sch. 7 paras. 27, 28 of the commencing Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 7 para. 28](https://www.legislation.gov.uk/ukpga/2009/10/schedule/7/paragraph/28)
 
-[^key-2e3178f38bcfbfff221dea398dcb9827]: Modification: S. 61 modified (with effect in accordance with ss. 80(1), 81 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 80(2)](https://www.legislation.gov.uk/ukpga/2016/24/section/80/2) (and also with effect in accordance with [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 39(1)](https://www.legislation.gov.uk/ukpga/2017/32/section/39/1)[(2)](https://www.legislation.gov.uk/ukpga/2017/32/section/39/2))
+[^c-2e3178f38bcfbfff221dea398dcb9827]: Modification: S. 61 modified (with effect in accordance with ss. 80(1), 81 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 80(2)](https://www.legislation.gov.uk/ukpga/2016/24/section/80/2) (and also with effect in accordance with [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 39(1)](https://www.legislation.gov.uk/ukpga/2017/32/section/39/1)[(2)](https://www.legislation.gov.uk/ukpga/2017/32/section/39/2))
 
-[^key-76dab88ca7f66980817ac98b1f3133cf]: Modification: S. 61 excluded (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 16 para. 4(6)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/16/paragraph/4/6)
+[^c-76dab88ca7f66980817ac98b1f3133cf]: Modification: S. 61 excluded (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 16 para. 4(6)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/16/paragraph/4/6)

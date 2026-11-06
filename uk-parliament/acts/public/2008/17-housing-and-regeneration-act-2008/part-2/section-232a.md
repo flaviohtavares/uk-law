@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 232A. Notifying the Greater London Authority[^key-61f08fc05de2bff662dcdb3f4d6651ad]
+## 232A. Notifying the Greater London Authority[^c-61f08fc05de2bff662dcdb3f4d6651ad]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ If the regulator imposes a penalty on a registered provider who owns land in Gre
 
 ## Annotations
 
-[^key-61f08fc05de2bff662dcdb3f4d6651ad]: Textual amendment: S. 232A inserted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 19 para. 60](https://www.legislation.gov.uk/ukpga/2011/20/schedule/19/paragraph/60); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9) [11](https://www.legislation.gov.uk/uksi/2012/628/article/11) [14](https://www.legislation.gov.uk/uksi/2012/628/article/14) [15](https://www.legislation.gov.uk/uksi/2012/628/article/15) [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-61f08fc05de2bff662dcdb3f4d6651ad]: Textual amendment: S. 232A inserted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 19 para. 60](https://www.legislation.gov.uk/ukpga/2011/20/schedule/19/paragraph/60); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9) [11](https://www.legislation.gov.uk/uksi/2012/628/article/11) [14](https://www.legislation.gov.uk/uksi/2012/628/article/14) [15](https://www.legislation.gov.uk/uksi/2012/628/article/15) [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))

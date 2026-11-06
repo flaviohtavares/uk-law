@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. Navigation[^key-a9dbee03f374ea691371b7547ce57a0a]
+## 99. Navigation[^c-a9dbee03f374ea691371b7547ce57a0a]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-2c3f536e964737ce49071e7c9e626fa4][^key-c8956b7063ef90724c8524bf4dbcc81a] After section 36 of the 1989 Act insert—
+(1)[^c-2c3f536e964737ce49071e7c9e626fa4][^c-c8956b7063ef90724c8524bf4dbcc81a] After section 36 of the 1989 Act insert—
 
 > **36A. Declarations extinguishing etc. public rights of navigation**
 >
@@ -113,26 +113,26 @@ summary: ''
 
 (3) In section 3D of that Act (principal objective and general duties not to apply to Secretary of State’s functions under section 36 or 37), for “section 36 or 37” substitute “ sections 36 to 37 ”.
 
-(4) In subsection (1) of section 35 of the Coast Protection Act 1949 (c. 74) (operations not requiring consent under section 34), after paragraph (g) insert— *(Extent: S)* *(affected by repeal, see note)*[^key-190f1f30495170ab91d467acabbde26d]
+(4) In subsection (1) of section 35 of the Coast Protection Act 1949 (c. 74) (operations not requiring consent under section 34), after paragraph (g) insert— *(Extent: S)* *(affected by repeal, see note)*[^c-190f1f30495170ab91d467acabbde26d]
 
-> - (ga (Extent: S) (affected by repeal, see note))[^key-190f1f30495170ab91d467acabbde26d] subject to subsection (3) of this section, any operations comprised in offshore generating activities carried out in accordance with a consent under section 36 of the Electricity Act 1989 granted after the commencement of section 99 of the Energy Act 2004; *(Extent: S)* *(affected by repeal, see note)*[^key-190f1f30495170ab91d467acabbde26d]
+> - (ga (Extent: S) (affected by repeal, see note))[^c-190f1f30495170ab91d467acabbde26d] subject to subsection (3) of this section, any operations comprised in offshore generating activities carried out in accordance with a consent under section 36 of the Electricity Act 1989 granted after the commencement of section 99 of the Energy Act 2004; *(Extent: S)* *(affected by repeal, see note)*[^c-190f1f30495170ab91d467acabbde26d]
 
-. *(Extent: S)* *(affected by repeal, see note)*[^key-190f1f30495170ab91d467acabbde26d]
+. *(Extent: S)* *(affected by repeal, see note)*[^c-190f1f30495170ab91d467acabbde26d]
 
-(5) After subsection (2) of that section insert— *(Extent: S)* *(affected by repeal, see note)*[^key-190f1f30495170ab91d467acabbde26d]
+(5) After subsection (2) of that section insert— *(Extent: S)* *(affected by repeal, see note)*[^c-190f1f30495170ab91d467acabbde26d]
 
-> (3 (Extent: S) (affected by repeal, see note))[^key-190f1f30495170ab91d467acabbde26d] Operations in or as regards Scotland fall within paragraph (ga) of that subsection only if and to the extent that the Scottish Ministers by order made by statutory instrument so provide. *(Extent: S)* *(affected by repeal, see note)*[^key-190f1f30495170ab91d467acabbde26d]
+> (3 (Extent: S) (affected by repeal, see note))[^c-190f1f30495170ab91d467acabbde26d] Operations in or as regards Scotland fall within paragraph (ga) of that subsection only if and to the extent that the Scottish Ministers by order made by statutory instrument so provide. *(Extent: S)* *(affected by repeal, see note)*[^c-190f1f30495170ab91d467acabbde26d]
 >
-> (4 (Extent: S) (affected by repeal, see note))[^key-190f1f30495170ab91d467acabbde26d] A statutory instrument containing an order under subsection (3) shall not be made unless a draft of the instrument has been laid before and approved by a resolution of the Scottish Parliament. *(Extent: S)* *(affected by repeal, see note)*[^key-190f1f30495170ab91d467acabbde26d]
+> (4 (Extent: S) (affected by repeal, see note))[^c-190f1f30495170ab91d467acabbde26d] A statutory instrument containing an order under subsection (3) shall not be made unless a draft of the instrument has been laid before and approved by a resolution of the Scottish Parliament. *(Extent: S)* *(affected by repeal, see note)*[^c-190f1f30495170ab91d467acabbde26d]
 >
-> (5 (Extent: S) (affected by repeal, see note))[^key-190f1f30495170ab91d467acabbde26d] In that paragraph “ *(Extent: S)* *(affected by repeal, see note)*[^key-190f1f30495170ab91d467acabbde26d]**offshore generating activities *(Extent: S)* *(affected by repeal, see note)*[^key-190f1f30495170ab91d467acabbde26d]**” has the same meaning as in section 36B of the Electricity Act 1989. *(Extent: S)* *(affected by repeal, see note)*[^key-190f1f30495170ab91d467acabbde26d]
+> (5 (Extent: S) (affected by repeal, see note))[^c-190f1f30495170ab91d467acabbde26d] In that paragraph “ *(Extent: S)* *(affected by repeal, see note)*[^c-190f1f30495170ab91d467acabbde26d]**offshore generating activities *(Extent: S)* *(affected by repeal, see note)*[^c-190f1f30495170ab91d467acabbde26d]**” has the same meaning as in section 36B of the Electricity Act 1989. *(Extent: S)* *(affected by repeal, see note)*[^c-190f1f30495170ab91d467acabbde26d]
 
 ## Annotations
 
-[^key-a9dbee03f374ea691371b7547ce57a0a]: Commencement: S. 99 in force at 1.3.2005 for specified purposes by [S.I. 2005/442](https://www.legislation.gov.uk/uksi/2005/442), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/442/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/442/schedule/1)
+[^c-a9dbee03f374ea691371b7547ce57a0a]: Commencement: S. 99 in force at 1.3.2005 for specified purposes by [S.I. 2005/442](https://www.legislation.gov.uk/uksi/2005/442), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/442/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/442/schedule/1)
 
-[^key-2c3f536e964737ce49071e7c9e626fa4]: Commencement: S. 99(1) in force at 1.9.2005 for specified purposes by [S.I. 2005/442](https://www.legislation.gov.uk/uksi/2005/442), [art. 2(3)](https://www.legislation.gov.uk/uksi/2005/442/article/2/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2005/442/schedule/3)
+[^c-2c3f536e964737ce49071e7c9e626fa4]: Commencement: S. 99(1) in force at 1.9.2005 for specified purposes by [S.I. 2005/442](https://www.legislation.gov.uk/uksi/2005/442), [art. 2(3)](https://www.legislation.gov.uk/uksi/2005/442/article/2/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2005/442/schedule/3)
 
-[^key-c8956b7063ef90724c8524bf4dbcc81a]: Commencement: S. 99(1) in force at 1.10.2005 in so far as not already in force by [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/877/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/877/schedule/2)
+[^c-c8956b7063ef90724c8524bf4dbcc81a]: Commencement: S. 99(1) in force at 1.10.2005 in so far as not already in force by [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/877/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/877/schedule/2)
 
-[^key-190f1f30495170ab91d467acabbde26d]: Textual amendment: S. 99(4)(5) repealed (S.) (6.4.2011) by [Marine (Scotland) Act 2010 (asp 5)](https://www.legislation.gov.uk/asp/2010/5), [s. 168(1)](https://www.legislation.gov.uk/asp/2010/5/section/168/1), [Sch. 4 para. 3](https://www.legislation.gov.uk/asp/2010/5/schedule/4/paragraph/3) (with [s. 162](https://www.legislation.gov.uk/asp/2010/5/section/162)); [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(d)](https://www.legislation.gov.uk/ssi/2011/58/article/3/d)
+[^c-190f1f30495170ab91d467acabbde26d]: Textual amendment: S. 99(4)(5) repealed (S.) (6.4.2011) by [Marine (Scotland) Act 2010 (asp 5)](https://www.legislation.gov.uk/asp/2010/5), [s. 168(1)](https://www.legislation.gov.uk/asp/2010/5/section/168/1), [Sch. 4 para. 3](https://www.legislation.gov.uk/asp/2010/5/schedule/4/paragraph/3) (with [s. 162](https://www.legislation.gov.uk/asp/2010/5/section/162)); [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(d)](https://www.legislation.gov.uk/ssi/2011/58/article/3/d)

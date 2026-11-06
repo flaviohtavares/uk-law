@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 54. Orders relating to costs of parties on examination proceedings[^key-6ac516c4a18c9fad82df3db5d7575c51][^key-251e0b4c30f0f81eae9e599bee4243bc]
+## 54. Orders relating to costs of parties on examination proceedings[^c-6ac516c4a18c9fad82df3db5d7575c51][^c-251e0b4c30f0f81eae9e599bee4243bc]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6ac516c4a18c9fad82df3db5d7575c51]: Commencement: S. 54 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
+[^c-6ac516c4a18c9fad82df3db5d7575c51]: Commencement: S. 54 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
 
-[^key-251e0b4c30f0f81eae9e599bee4243bc]: Commencement: [S. 54](https://www.legislation.gov.uk/asc/2024/3/section/54) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(b)](https://www.legislation.gov.uk/wsi/2025/698/article/3/b)
+[^c-251e0b4c30f0f81eae9e599bee4243bc]: Commencement: [S. 54](https://www.legislation.gov.uk/asc/2024/3/section/54) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(b)](https://www.legislation.gov.uk/wsi/2025/698/article/3/b)

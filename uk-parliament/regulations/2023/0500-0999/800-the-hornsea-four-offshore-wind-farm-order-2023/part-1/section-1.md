@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1. Citation and commencement[^key-84c341ba0d31d5c29b72612d1f2cc5e1]
+## 1. Citation and commencement[^c-84c341ba0d31d5c29b72612d1f2cc5e1]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ This Order may be cited as the Hornsea Four Offshore Wind Farm Order 2023 and co
 
 ## Annotations
 
-[^key-84c341ba0d31d5c29b72612d1f2cc5e1]: Commencement: Art. 1 in force at 3.8.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/800/article/1)
+[^c-84c341ba0d31d5c29b72612d1f2cc5e1]: Commencement: Art. 1 in force at 3.8.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/800/article/1)

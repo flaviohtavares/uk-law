@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 50. Establishment of retirement account and other adjustments[^key-f182544550b87a6a8eb19b8ef9ce1a5b]
+## 50. Establishment of retirement account and other adjustments[^c-f182544550b87a6a8eb19b8ef9ce1a5b]
 
 *Extent: S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f182544550b87a6a8eb19b8ef9ce1a5b]: Commencement: [Reg. 50](https://www.legislation.gov.uk/ssi/2015/19/regulation/50) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-f182544550b87a6a8eb19b8ef9ce1a5b]: Commencement: [Reg. 50](https://www.legislation.gov.uk/ssi/2015/19/regulation/50) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

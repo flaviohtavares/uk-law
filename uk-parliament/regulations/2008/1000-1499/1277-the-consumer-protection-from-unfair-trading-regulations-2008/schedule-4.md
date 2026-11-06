@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 4 — Repeals and Revocations[^key-5bd671bee5a2362a1f43e02fa5790a27]
+## SCHEDULE 4 — Repeals and Revocations[^c-5bd671bee5a2362a1f43e02fa5790a27]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,16 +24,16 @@ summary: ''
 
 Regulation 30(3)
 
-### PART 1 — Repeals[^key-5bd671bee5a2362a1f43e02fa5790a27]
+### PART 1 — Repeals[^c-5bd671bee5a2362a1f43e02fa5790a27]
 
-[^key-5bd671bee5a2362a1f43e02fa5790a27]
+[^c-5bd671bee5a2362a1f43e02fa5790a27]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Revocations[^key-5bd671bee5a2362a1f43e02fa5790a27]
+### PART 2 — Revocations[^c-5bd671bee5a2362a1f43e02fa5790a27]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5bd671bee5a2362a1f43e02fa5790a27]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/1277) revoked (6.4.2025 with transitional provisions and savings in relation to Pt. 4A, which is continued until regulations are made under s. 233 of the revoking Act) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [ss. 251(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/251/1), [339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1) (with [ss. 235](https://www.legislation.gov.uk/ukpga/2024/13/section/235), [243](https://www.legislation.gov.uk/ukpga/2024/13/section/243), [252](https://www.legislation.gov.uk/ukpga/2024/13/section/252)); [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/3)
+[^c-5bd671bee5a2362a1f43e02fa5790a27]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/1277) revoked (6.4.2025 with transitional provisions and savings in relation to Pt. 4A, which is continued until regulations are made under s. 233 of the revoking Act) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [ss. 251(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/251/1), [339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1) (with [ss. 235](https://www.legislation.gov.uk/ukpga/2024/13/section/235), [243](https://www.legislation.gov.uk/ukpga/2024/13/section/243), [252](https://www.legislation.gov.uk/ukpga/2024/13/section/252)); [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/3)

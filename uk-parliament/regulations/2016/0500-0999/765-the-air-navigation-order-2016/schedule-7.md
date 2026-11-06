@@ -44,7 +44,7 @@ The following entries must be included in the aircraft log book—
 
 ### 3. Engine, propeller and component logs
 
-In addition to the authorised release document, CAA[^key-7f540fe662c9c8ee81f57607e40adda2] Form 1 or equivalent, the following information relevant to any engine, propeller, engine module or service life limited component must be entered in the appropriate engine or propeller logbook, engine module or service life limited component log card—
+In addition to the authorised release document, CAA[^c-7f540fe662c9c8ee81f57607e40adda2] Form 1 or equivalent, the following information relevant to any engine, propeller, engine module or service life limited component must be entered in the appropriate engine or propeller logbook, engine module or service life limited component log card—
 
 - (a) identification of the component;
 - (b) the type, serial number and registration, as appropriate, of the aircraft, engine, propeller, engine module or service life limited component to which the particular component has been fitted, along with the reference to the installation and removal of the component;
@@ -74,12 +74,12 @@ The owner or operator of an aircraft must ensure that a system has been establis
 - (d) all outstanding deferred defects rectifications that affect the operation of the aircraft; and
 - (e) any necessary guidance instructions on maintenance support arrangements.
 
-(2)[^key-e2410c2d857410d3e4b7e091639ec43e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-e2410c2d857410d3e4b7e091639ec43e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) An operator must ensure that the aircraft technical log is retained for 36 months after the date of the last entry.
 
 ## Annotations
 
-[^key-7f540fe662c9c8ee81f57607e40adda2]: Textual amendment: Word in [Sch. 7 para. 3](https://www.legislation.gov.uk/uksi/2016/765/schedule/7/paragraph/3) substituted (31.12.2020) by [The Aviation Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/645)](https://www.legislation.gov.uk/uksi/2019/645), [reg. 1](https://www.legislation.gov.uk/uksi/2019/645/regulation/1), [Sch. 1 para. 82](https://www.legislation.gov.uk/uksi/2019/645/schedule/1/paragraph/82) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2019/645/schedule/3)) (as amended by [S.I. 2019/1098](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1098/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7f540fe662c9c8ee81f57607e40adda2]: Textual amendment: Word in [Sch. 7 para. 3](https://www.legislation.gov.uk/uksi/2016/765/schedule/7/paragraph/3) substituted (31.12.2020) by [The Aviation Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/645)](https://www.legislation.gov.uk/uksi/2019/645), [reg. 1](https://www.legislation.gov.uk/uksi/2019/645/regulation/1), [Sch. 1 para. 82](https://www.legislation.gov.uk/uksi/2019/645/schedule/1/paragraph/82) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2019/645/schedule/3)) (as amended by [S.I. 2019/1098](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1098/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e2410c2d857410d3e4b7e091639ec43e]: Textual amendment: [Sch. 7 para. 5(2)](https://www.legislation.gov.uk/uksi/2016/765/schedule/7/paragraph/5/2) omitted (14.12.2017) by virtue of [The Air Navigation (Amendment) Order 2017 (S.I. 2017/1112)](https://www.legislation.gov.uk/uksi/2017/1112), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1), [44](https://www.legislation.gov.uk/uksi/2017/1112/article/44)
+[^c-e2410c2d857410d3e4b7e091639ec43e]: Textual amendment: [Sch. 7 para. 5(2)](https://www.legislation.gov.uk/uksi/2016/765/schedule/7/paragraph/5/2) omitted (14.12.2017) by virtue of [The Air Navigation (Amendment) Order 2017 (S.I. 2017/1112)](https://www.legislation.gov.uk/uksi/2017/1112), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1), [44](https://www.legislation.gov.uk/uksi/2017/1112/article/44)

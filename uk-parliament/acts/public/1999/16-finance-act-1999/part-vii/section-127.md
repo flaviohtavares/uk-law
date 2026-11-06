@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 127. Interest on repayments.[^c1126381][^key-70ade218441ad5ffce8f7d6201f425b2]
+## 127. Interest on repayments.[^c1126381][^c-70ade218441ad5ffce8f7d6201f425b2]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,7 +49,7 @@ then, if and to the extent that they would not be liable to do so apart from thi
 
 - “**the Commissioners**” means the Commissioners of Customs and Excise;
 - “**the Community Customs Code**” means Council Regulation [(EEC) No. 2913/92](https://www.legislation.gov.uk/european/regulation/1992/2913) establishing the Community Customs Code; and
-- “**customs duty**” includes any agricultural levy of the European Union[^key-f7ee7a0e6dee750a9d87622b8df7de8e] .
+- “**customs duty**” includes any agricultural levy of the European Union[^c-f7ee7a0e6dee750a9d87622b8df7de8e] .
 
 (9) The Commissioners may by order modify subsection (3) above so as to provide for interest under this section to begin to run from a time before the sixty-first day after the making of the claim for repayment.
 
@@ -61,7 +61,7 @@ then, if and to the extent that they would not be liable to do so apart from thi
 
 [^c1126381]: Modification: S. 127 excluded (1.4.2000) by [S.I. 1995/2518](https://www.legislation.gov.uk/uksi/1995/2518), [reg. 118(g)](https://www.legislation.gov.uk/uksi/1995/2518/regulation/118/g) (as inserted (1.4.2000) by [S.I. 2000/634](https://www.legislation.gov.uk/uksi/2000/634), [reg. 3(2)](https://www.legislation.gov.uk/uksi/2000/634/regulation/3/2))
 
-[^key-70ade218441ad5ffce8f7d6201f425b2]: Modification: S. 127 excluded (1.8.2021) by [S.I. 1995/2518](https://www.legislation.gov.uk/uksi/1995/2518), [regs. 133AB(h)](https://www.legislation.gov.uk/uksi/1995/2518/regulation/133AB/h), [133L](https://www.legislation.gov.uk/uksi/1995/2518/regulation/133L) (as inserted by [The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715)](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [43](https://www.legislation.gov.uk/uksi/2021/715/regulation/43), [47](https://www.legislation.gov.uk/uksi/2021/715/regulation/47))
+[^c-70ade218441ad5ffce8f7d6201f425b2]: Modification: S. 127 excluded (1.8.2021) by [S.I. 1995/2518](https://www.legislation.gov.uk/uksi/1995/2518), [regs. 133AB(h)](https://www.legislation.gov.uk/uksi/1995/2518/regulation/133AB/h), [133L](https://www.legislation.gov.uk/uksi/1995/2518/regulation/133L) (as inserted by [The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715)](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [43](https://www.legislation.gov.uk/uksi/2021/715/regulation/43), [47](https://www.legislation.gov.uk/uksi/2021/715/regulation/47))
 
 [^c1126382]: Textual amendment: Words in s. 127(1)(b) substituted (*retrospectively*) by [2000 c. 17](https://www.legislation.gov.uk/ukpga/2000/17), [s. 29](https://www.legislation.gov.uk/ukpga/2000/17/section/29)
 
@@ -71,6 +71,6 @@ then, if and to the extent that they would not be liable to do so apart from thi
 
 [^c1126385]: Marginal citation: [1996 c.8](https://www.legislation.gov.uk/ukpga/1996/8).
 
-[^key-f7ee7a0e6dee750a9d87622b8df7de8e]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [4](https://www.legislation.gov.uk/uksi/2011/1043/article/4) (with [arts. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
+[^c-f7ee7a0e6dee750a9d87622b8df7de8e]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [4](https://www.legislation.gov.uk/uksi/2011/1043/article/4) (with [arts. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
 
 [^c1126386]: Subordinate legislation: S. 127(11) power fully exercised: 1.4.2000 appointed by [S.I. 2000/632](https://www.legislation.gov.uk/uksi/2000/632), [art. 2](https://www.legislation.gov.uk/uksi/2000/632/article/2)

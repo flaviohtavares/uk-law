@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Recording by educational establishments of broadcasts[^key-a9dc2bccb03892b1d1dc6e85b8b6a7c2]
+## 35. Recording by educational establishments of broadcasts[^c-a9dc2bccb03892b1d1dc6e85b8b6a7c2]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a9dc2bccb03892b1d1dc6e85b8b6a7c2]: Textual amendment: S. 35 substituted (1.6.2014) by [The Copyright and Rights in Performances (Research, Education, Libraries and Archives) Regulations 2014 (S.I. 2014/1372)](https://www.legislation.gov.uk/uksi/2014/1372), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2014/1372/regulation/4/2)
+[^c-a9dc2bccb03892b1d1dc6e85b8b6a7c2]: Textual amendment: S. 35 substituted (1.6.2014) by [The Copyright and Rights in Performances (Research, Education, Libraries and Archives) Regulations 2014 (S.I. 2014/1372)](https://www.legislation.gov.uk/uksi/2014/1372), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2014/1372/regulation/4/2)

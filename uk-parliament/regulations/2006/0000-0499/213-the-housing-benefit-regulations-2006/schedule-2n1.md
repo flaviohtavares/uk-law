@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 2 — Excluded tenancies[^key-de1881acdd2ac6dfaa5a2e7b36484eeb]
+## SCHEDULE 2 — Excluded tenancies[^c-de1881acdd2ac6dfaa5a2e7b36484eeb]
 
 *Extent: E+W+S*
 
@@ -105,4 +105,4 @@ and—
 
 ## Annotations
 
-[^key-de1881acdd2ac6dfaa5a2e7b36484eeb]: Textual amendment: Sch. 2 substituted (7.4.2008) by [The Housing Benefit (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2868)](https://www.legislation.gov.uk/uksi/2007/2868), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/1/3), [18](https://www.legislation.gov.uk/uksi/2007/2868/regulation/18) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/1/6))
+[^c-de1881acdd2ac6dfaa5a2e7b36484eeb]: Textual amendment: Sch. 2 substituted (7.4.2008) by [The Housing Benefit (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2868)](https://www.legislation.gov.uk/uksi/2007/2868), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/1/3), [18](https://www.legislation.gov.uk/uksi/2007/2868/regulation/18) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/1/6))

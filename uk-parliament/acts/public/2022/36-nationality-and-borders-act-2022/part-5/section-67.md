@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Civil legal services under section 10 of LASPO: add-on services in relation to national referral mechanism[^key-22c5a2f88123af916eda327ad4551d1e]
+## 67. Civil legal services under section 10 of LASPO: add-on services in relation to national referral mechanism[^c-22c5a2f88123af916eda327ad4551d1e]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ In section 10 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012 
 
 ## Annotations
 
-[^key-22c5a2f88123af916eda327ad4551d1e]: Commencement: S. 67 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
+[^c-22c5a2f88123af916eda327ad4551d1e]: Commencement: S. 67 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)

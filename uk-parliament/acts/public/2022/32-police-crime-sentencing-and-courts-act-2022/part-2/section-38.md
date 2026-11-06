@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Application of section 37 to children and adults without capacity[^key-574fd2dcf77357a84c6275fff0a15ad3][^key-5958c98f72ca314be921a42dc238fd59]
+## 38. Application of section 37 to children and adults without capacity[^c-574fd2dcf77357a84c6275fff0a15ad3][^c-5958c98f72ca314be921a42dc238fd59]
 
 *Extent: E+W+S+N.I.*
 
@@ -96,6 +96,6 @@ summary: ''
 
 ## Annotations
 
-[^key-574fd2dcf77357a84c6275fff0a15ad3]: Commencement: S. 38 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-574fd2dcf77357a84c6275fff0a15ad3]: Commencement: S. 38 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-5958c98f72ca314be921a42dc238fd59]: Commencement: S. 38 in force at 8.11.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/5/b)
+[^c-5958c98f72ca314be921a42dc238fd59]: Commencement: S. 38 in force at 8.11.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/5/b)

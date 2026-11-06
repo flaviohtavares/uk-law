@@ -22,13 +22,13 @@ summary: ''
 
 (1) The licensing authority may renew a UK marketing authorisation in response to an application made in accordance with this regulation.
 
-(2)[^key-470a1c58dca0ed3a8c0d106524c03a64] The applicant, where it is applying for renewal of—
+(2)[^c-470a1c58dca0ed3a8c0d106524c03a64] The applicant, where it is applying for renewal of—
 
-- (a)[^key-7d65da7add284f3a52735c070855dfb2] a UK marketing authorisation, must, subject to sub-paragraph (b), be established in the UK or an EEA State; and
-- (b) a UKMA(UK)(Category 2)[^key-b52549ace5d169fee3b6d04c7bbf3b8d]—
+- (a)[^c-7d65da7add284f3a52735c070855dfb2] a UK marketing authorisation, must, subject to sub-paragraph (b), be established in the UK or an EEA State; and
+- (b) a UKMA(UK)(Category 2)[^c-b52549ace5d169fee3b6d04c7bbf3b8d]—
   - (i) under the unfettered access route, must be established in Northern Ireland;
-  - (ii)[^key-80419d97e1785143fa87e183aeadb92f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-1939759b22daaa347cfa364265be846c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^c-80419d97e1785143fa87e183aeadb92f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-1939759b22daaa347cfa364265be846c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The application must be—
 
@@ -51,12 +51,12 @@ summary: ''
 
 ## Annotations
 
-[^key-470a1c58dca0ed3a8c0d106524c03a64]: Textual amendment: Reg. 66(2) substituted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 74](https://www.legislation.gov.uk/uksi/2019/775/regulation/74) (as amended by ([S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488)), reg. 1, Sch. 2 para. 55); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-470a1c58dca0ed3a8c0d106524c03a64]: Textual amendment: Reg. 66(2) substituted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 74](https://www.legislation.gov.uk/uksi/2019/775/regulation/74) (as amended by ([S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488)), reg. 1, Sch. 2 para. 55); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7d65da7add284f3a52735c070855dfb2]: Textual amendment: Reg. 66(2)(a) substituted (1.1.2025) by [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [54(a)](https://www.legislation.gov.uk/uksi/2024/832/regulation/54/a)
+[^c-7d65da7add284f3a52735c070855dfb2]: Textual amendment: Reg. 66(2)(a) substituted (1.1.2025) by [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [54(a)](https://www.legislation.gov.uk/uksi/2024/832/regulation/54/a)
 
-[^key-b52549ace5d169fee3b6d04c7bbf3b8d]: Textual amendment: Words in reg. 66(2)(b) substituted (1.1.2025) by [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [54(b)(i)](https://www.legislation.gov.uk/uksi/2024/832/regulation/54/b/i)
+[^c-b52549ace5d169fee3b6d04c7bbf3b8d]: Textual amendment: Words in reg. 66(2)(b) substituted (1.1.2025) by [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [54(b)(i)](https://www.legislation.gov.uk/uksi/2024/832/regulation/54/b/i)
 
-[^key-80419d97e1785143fa87e183aeadb92f]: Textual amendment: Reg. 66(2)(b)(ii) omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [54(b)(ii)](https://www.legislation.gov.uk/uksi/2024/832/regulation/54/b/ii)
+[^c-80419d97e1785143fa87e183aeadb92f]: Textual amendment: Reg. 66(2)(b)(ii) omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [54(b)(ii)](https://www.legislation.gov.uk/uksi/2024/832/regulation/54/b/ii)
 
-[^key-1939759b22daaa347cfa364265be846c]: Textual amendment: Reg. 66(2)(c) omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [54(c)](https://www.legislation.gov.uk/uksi/2024/832/regulation/54/c)
+[^c-1939759b22daaa347cfa364265be846c]: Textual amendment: Reg. 66(2)(c) omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [54(c)](https://www.legislation.gov.uk/uksi/2024/832/regulation/54/c)

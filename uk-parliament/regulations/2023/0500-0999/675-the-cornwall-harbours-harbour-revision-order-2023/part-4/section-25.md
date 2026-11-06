@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Appeals in respect of works or dredging licence[^key-ccfd24305e346df288b96587a1959c0e]
+## 25. Appeals in respect of works or dredging licence[^c-ccfd24305e346df288b96587a1959c0e]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ may, within 28 days from the date on which the Council notifies the applicant of
 
 ## Annotations
 
-[^key-ccfd24305e346df288b96587a1959c0e]: Commencement: Art. 25 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
+[^c-ccfd24305e346df288b96587a1959c0e]: Commencement: Art. 25 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)

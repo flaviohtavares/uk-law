@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 236L. Cases in which all-employee benefit requirement treated as met[^key-0f06966b28289660a380e3a1c642e693][^M_F_1c87fe4b-5186-4ac2-add9-3a37001a8809]
+## 236L. Cases in which all-employee benefit requirement treated as met[^c-0f06966b28289660a380e3a1c642e693][^M_F_1c87fe4b-5186-4ac2-add9-3a37001a8809]
 
 *Extent: E+W+S+N.I.*
 
@@ -74,6 +74,6 @@ but this is subject to subsections (8) and (9).
 
 ## Annotations
 
-[^key-0f06966b28289660a380e3a1c642e693]: Modification: S. 236L applied by Income Tax (Earnings and Pensions) Act 2003 (c. 1), s. 312E(3) (as inserted (with effect in accordance with Sch. 37 para. 8 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 37 para. 5](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/5))
+[^c-0f06966b28289660a380e3a1c642e693]: Modification: S. 236L applied by Income Tax (Earnings and Pensions) Act 2003 (c. 1), s. 312E(3) (as inserted (with effect in accordance with Sch. 37 para. 8 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 37 para. 5](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/5))
 
 [^M_F_1c87fe4b-5186-4ac2-add9-3a37001a8809]: Textual amendment: Ss. 236H-236U and cross-heading inserted (with effect in accordance with [Sch. 37 para. 2](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/2) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 37 para. 1](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/1) (with [Sch. 37 paras. 3](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/4))

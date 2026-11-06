@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 10. Construction and maintenance of altered streets[^key-9ae60f93e4375dba07f128bd84c6a02e]
+## 10. Construction and maintenance of altered streets[^c-9ae60f93e4375dba07f128bd84c6a02e]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ but for the purposes of such a defence it is not relevant that the undertaker ha
 
 ## Annotations
 
-[^key-9ae60f93e4375dba07f128bd84c6a02e]: Commencement: Art. 10 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
+[^c-9ae60f93e4375dba07f128bd84c6a02e]: Commencement: Art. 10 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)

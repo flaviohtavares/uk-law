@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Regulations to promote welfare[^key-ef01f42c17d1b4e8c7b636c877a0fc27][^key-98eaeeb7859a709dfbd639c503d100d5]
+## 12. Regulations to promote welfare[^c-ef01f42c17d1b4e8c7b636c877a0fc27][^c-98eaeeb7859a709dfbd639c503d100d5]
 
 *Extent: E+W*
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ef01f42c17d1b4e8c7b636c877a0fc27]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2006/45/section/12) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(c)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/c)
+[^c-ef01f42c17d1b4e8c7b636c877a0fc27]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2006/45/section/12) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(c)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/c)
 
-[^key-98eaeeb7859a709dfbd639c503d100d5]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2006/45/section/12) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/e)
+[^c-98eaeeb7859a709dfbd639c503d100d5]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2006/45/section/12) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/e)

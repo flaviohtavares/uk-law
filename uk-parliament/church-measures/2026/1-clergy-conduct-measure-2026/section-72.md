@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 72. Transitional and saving provisions[^key-267d1a6d48584cc5209511edb0328017]
+## 72. Transitional and saving provisions[^c-267d1a6d48584cc5209511edb0328017]
 
 *Extent: E*
 
@@ -26,4 +26,4 @@ Schedule 2 (which includes transitional and saving provisions) has effect.
 
 ## Annotations
 
-[^key-267d1a6d48584cc5209511edb0328017]: Commencement: S. 72 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)
+[^c-267d1a6d48584cc5209511edb0328017]: Commencement: S. 72 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)

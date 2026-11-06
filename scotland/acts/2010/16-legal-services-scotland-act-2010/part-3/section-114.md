@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 114. Complaints about services[^key-621bf8a7579dea53294bc926c5639aec]
+## 114. Complaints about services[^c-621bf8a7579dea53294bc926c5639aec]
 
 *Extent: S*
 
@@ -102,4 +102,4 @@ In the 2007 Act, after Part 2A (inserted by section 81) insert—
 
 ## Annotations
 
-[^key-621bf8a7579dea53294bc926c5639aec]: Commencement: [S. 114](https://www.legislation.gov.uk/asp/2010/16/section/114) in force at 1.4.2011 for specified purposes by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-621bf8a7579dea53294bc926c5639aec]: Commencement: [S. 114](https://www.legislation.gov.uk/asp/2010/16/section/114) in force at 1.4.2011 for specified purposes by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)

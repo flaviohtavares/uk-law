@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73B. Section 73A: supplementary[^key-a1ca3fb6bab80dc78ce3a2acc2f2da29][^key-6c1df2a5190e4731e3d3b4e781cccd3a][^key-a1ca3fb6bab80dc78ce3a2acc2f2da29]
+## 73B. Section 73A: supplementary[^c-a1ca3fb6bab80dc78ce3a2acc2f2da29][^c-6c1df2a5190e4731e3d3b4e781cccd3a][^c-a1ca3fb6bab80dc78ce3a2acc2f2da29]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a1ca3fb6bab80dc78ce3a2acc2f2da29]: Modification: Pt. 3 modified (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 4 para. 56](https://www.legislation.gov.uk/ukpga/2013/24/schedule/4/paragraph/56); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-a1ca3fb6bab80dc78ce3a2acc2f2da29]: Modification: Pt. 3 modified (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 4 para. 56](https://www.legislation.gov.uk/ukpga/2013/24/schedule/4/paragraph/56); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-6c1df2a5190e4731e3d3b4e781cccd3a]: Textual amendment: Ss. 73A, 73B inserted (25.4.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(1)(i)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1/i)[(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/2013/24/schedule/8/paragraph/7); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-6c1df2a5190e4731e3d3b4e781cccd3a]: Textual amendment: Ss. 73A, 73B inserted (25.4.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(1)(i)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1/i)[(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/2013/24/schedule/8/paragraph/7); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90. Consequential and other amendments[^key-efddd126159ca1e73fa42cc74e4cdd6c]
+## 90. Consequential and other amendments[^c-efddd126159ca1e73fa42cc74e4cdd6c]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-efddd126159ca1e73fa42cc74e4cdd6c]: Commencement: [S. 90](https://www.legislation.gov.uk/ukpga/2026/18/section/90) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-efddd126159ca1e73fa42cc74e4cdd6c]: Commencement: [S. 90](https://www.legislation.gov.uk/ukpga/2026/18/section/90) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)

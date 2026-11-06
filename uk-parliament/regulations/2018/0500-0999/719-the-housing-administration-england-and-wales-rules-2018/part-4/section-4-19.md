@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.19. Costs of proceedings under section 236 of the Act[^key-0f2f355bff25f7268bdd6f6f478f2fbb]
+## 4.19. Costs of proceedings under section 236 of the Act[^c-0f2f355bff25f7268bdd6f6f478f2fbb]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ the costs of the application for the order may be ordered by the court to be pai
 
 ## Annotations
 
-[^key-0f2f355bff25f7268bdd6f6f478f2fbb]: Commencement: Rule 4.19 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-0f2f355bff25f7268bdd6f6f478f2fbb]: Commencement: Rule 4.19 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

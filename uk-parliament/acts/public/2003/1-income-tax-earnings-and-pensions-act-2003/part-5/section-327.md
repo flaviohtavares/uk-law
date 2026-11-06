@@ -43,9 +43,9 @@ summary: ''
 
 (5) Further provision about deductions from income including earnings is made in—
 
-- Part 12 (payroll giving), and[^key-1339c1578eac1f491bd216aea537f7ee]
+- Part 12 (payroll giving), and[^c-1339c1578eac1f491bd216aea537f7ee]
 - sections 188 to 194 of FA 2004 (contributions to registered pension schemes).
 
 ## Annotations
 
-[^key-1339c1578eac1f491bd216aea537f7ee]: Textual amendment: Words in s. 327(5) substituted (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 284(1)](https://www.legislation.gov.uk/ukpga/2004/12/section/284/1), [Sch. 35 para. 60(3)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/35/paragraph/60/3) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))
+[^c-1339c1578eac1f491bd216aea537f7ee]: Textual amendment: Words in s. 327(5) substituted (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 284(1)](https://www.legislation.gov.uk/ukpga/2004/12/section/284/1), [Sch. 35 para. 60(3)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/35/paragraph/60/3) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))

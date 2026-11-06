@@ -20,12 +20,12 @@ summary: ''
 
 *Extent: N.I.*
 
-(1)[^key-9b7bf568edb7b326a6fdba4fbd696064] A person—
+(1)[^c-9b7bf568edb7b326a6fdba4fbd696064] A person—
 
 - (a) must not give paid driving instruction of any prescribed description unless he is registered in respect of the giving of that description of driving instruction; and
 - (b) must not carry on a business in the provision of paid driving instruction of any prescribed description unless he is registered in respect of the carrying on of business in the provision of that description of driving instruction.
 
-(1A)[^key-84ab3e6314cbfede61fa0d0c2aaaafe4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1A)[^c-84ab3e6314cbfede61fa0d0c2aaaafe4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) A person–
 
@@ -44,7 +44,7 @@ summary: ''
 
 (6) Regulations may prescribe circumstances in which instruction provided free of charge shall be deemed to be given for payment of money by or in respect of the person to whom the instruction is given or provided.
 
-(7) For the purposes of this Part a person is “registered” if his name is in [^key-3ff6ddfcb1e59702b47b42d18e6f2505]... the register together with–
+(7) For the purposes of this Part a person is “registered” if his name is in [^c-3ff6ddfcb1e59702b47b42d18e6f2505]... the register together with–
 
 - (a) an indication as to whether he is registered in respect of the giving of driving instruction or the carrying on of business in the provision of driving instruction (or both);
 - (b) an indication as to the description of driving instruction in respect of which he is registered; and
@@ -58,10 +58,10 @@ and “**registration**” shall be construed accordingly.
 
 [^c22088961]: Modification: Art. 48 excluded (2.8.2010) by [Motor Vehicles (Driving Instruction) Regulations (Northern Ireland) 2010 (S.R. 2010/227)](https://www.legislation.gov.uk/nisr/2010/227), [regs. 20(1)](https://www.legislation.gov.uk/nisr/2010/227/regulation/20/1), [21](https://www.legislation.gov.uk/nisr/2010/227/regulation/21)
 
-[^key-9b7bf568edb7b326a6fdba4fbd696064]: Textual amendment: [Art. 48(1)](https://www.legislation.gov.uk/nisi/2007/916/article/48/1) substituted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 6(3)(a)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/6/3/a)
+[^c-9b7bf568edb7b326a6fdba4fbd696064]: Textual amendment: [Art. 48(1)](https://www.legislation.gov.uk/nisi/2007/916/article/48/1) substituted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 6(3)(a)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/6/3/a)
 
-[^key-84ab3e6314cbfede61fa0d0c2aaaafe4]: Textual amendment: [Art. 48(1A)](https://www.legislation.gov.uk/nisi/2007/916/article/48/1A) omitted (1.12.2023) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 6(3)(b)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/6/3/b)
+[^c-84ab3e6314cbfede61fa0d0c2aaaafe4]: Textual amendment: [Art. 48(1A)](https://www.legislation.gov.uk/nisi/2007/916/article/48/1A) omitted (1.12.2023) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 6(3)(b)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/6/3/b)
 
 [^c22089001]: Modification: Art. 48(2)(a) excluded (2.8.2010) by [Motor Vehicles (Driving Instruction) Regulations (Northern Ireland) 2010 (S.R. 2010/227)](https://www.legislation.gov.uk/nisr/2010/227), [reg. 22](https://www.legislation.gov.uk/nisr/2010/227/regulation/22)
 
-[^key-3ff6ddfcb1e59702b47b42d18e6f2505]: Textual amendment: Words in [art. 48(7)](https://www.legislation.gov.uk/nisi/2007/916/article/48/7) omitted (1.12.2023) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 6(3)(c)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/6/3/c)
+[^c-3ff6ddfcb1e59702b47b42d18e6f2505]: Textual amendment: Words in [art. 48(7)](https://www.legislation.gov.uk/nisi/2007/916/article/48/7) omitted (1.12.2023) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 6(3)(c)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/6/3/c)

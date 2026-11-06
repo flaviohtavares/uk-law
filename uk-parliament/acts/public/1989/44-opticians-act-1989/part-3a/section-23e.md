@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23E. Other advisers[^key-4be6831b60d6149c70886030f19057eb]
+## 23E. Other advisers[^c-4be6831b60d6149c70886030f19057eb]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4be6831b60d6149c70886030f19057eb]: Textual amendment: Pt. 3A inserted (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 17(2)](https://www.legislation.gov.uk/uksi/2005/848/article/17/2) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))
+[^c-4be6831b60d6149c70886030f19057eb]: Textual amendment: Pt. 3A inserted (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 17(2)](https://www.legislation.gov.uk/uksi/2005/848/article/17/2) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))

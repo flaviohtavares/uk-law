@@ -36,7 +36,7 @@ summary: ''
 - (a) the Scottish Certificate of Education at higher grade;
 - (b) the Certificate of Sixth Year Studies;
 - (c) the General Certificate of Education of England and Wales or Northern Ireland at advanced level; or
-- (d) the Qualifications Scotland[^key-246c09553a1dbd932af0dfc3b33139c7] national certificate.
+- (d) the Qualifications Scotland[^c-246c09553a1dbd932af0dfc3b33139c7] national certificate.
 
 (4) For the purposes of paragraph (d) of subsection (2) above, post-graduate studies includes a course following the award of a higher diploma or certificate.
 
@@ -51,7 +51,7 @@ summary: ''
 
 [^c1309693]: Commencement: S. 38 wholly in force at 16.5.1992 see s. 63(2) and [S.I. 1992/817](https://www.legislation.gov.uk/uksi/1992/817), [art. 3(2)](https://www.legislation.gov.uk/uksi/1992/817/article/3/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1992/817/schedule/1)
 
-[^key-246c09553a1dbd932af0dfc3b33139c7]: Textual amendment: Words in [s. 38(3)(d)](https://www.legislation.gov.uk/ukpga/1992/37/section/38/3/d) substituted (1.2.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 10(3)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/10/3); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)
+[^c-246c09553a1dbd932af0dfc3b33139c7]: Textual amendment: Words in [s. 38(3)(d)](https://www.legislation.gov.uk/ukpga/1992/37/section/38/3/d) substituted (1.2.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 10(3)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/10/3); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)
 
 [^c1309695]: Textual amendment: Words in s. 38(5) inserted (1.4.1997) by [1996 c. 43](https://www.legislation.gov.uk/ukpga/1996/43), [s. 36](https://www.legislation.gov.uk/ukpga/1996/43/section/36), [Sch. 5 para. 9(b)(i)](https://www.legislation.gov.uk/ukpga/1996/43/schedule/5/paragraph/9/b/i); [S.I. 1997/365](https://www.legislation.gov.uk/uksi/1997/365), [art. 2](https://www.legislation.gov.uk/uksi/1997/365/article/2)
 

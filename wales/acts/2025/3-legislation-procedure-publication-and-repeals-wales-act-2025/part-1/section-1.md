@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. New Part 2A of the Legislation (Wales) Act 2019[^key-792b0fac74b669e16436fbac80d4911b][^key-4d7d7999df4247401a88de6b73576cfd]
+## 1. New Part 2A of the Legislation (Wales) Act 2019[^c-792b0fac74b669e16436fbac80d4911b][^c-4d7d7999df4247401a88de6b73576cfd]
 
 *Extent: E+W*
 
@@ -541,6 +541,6 @@ summary: ''
 
 ## Annotations
 
-[^key-792b0fac74b669e16436fbac80d4911b]: Commencement: S. 1 not in force at Royal Assent, see [s. 9(4)](https://www.legislation.gov.uk/asc/2025/3/section/9/4)
+[^c-792b0fac74b669e16436fbac80d4911b]: Commencement: S. 1 not in force at Royal Assent, see [s. 9(4)](https://www.legislation.gov.uk/asc/2025/3/section/9/4)
 
-[^key-4d7d7999df4247401a88de6b73576cfd]: Commencement: [S. 1](https://www.legislation.gov.uk/asc/2025/3/section/1) in force at 1.1.2026 by [S.I. 2025/1160](https://www.legislation.gov.uk/wsi/2025/1160), [art. 2(a)](https://www.legislation.gov.uk/wsi/2025/1160/article/2/a) (with [art. 3(1)](https://www.legislation.gov.uk/wsi/2025/1160/article/3/1)[(2)](https://www.legislation.gov.uk/wsi/2025/1160/article/3/2))
+[^c-4d7d7999df4247401a88de6b73576cfd]: Commencement: [S. 1](https://www.legislation.gov.uk/asc/2025/3/section/1) in force at 1.1.2026 by [S.I. 2025/1160](https://www.legislation.gov.uk/wsi/2025/1160), [art. 2(a)](https://www.legislation.gov.uk/wsi/2025/1160/article/2/a) (with [art. 3(1)](https://www.legislation.gov.uk/wsi/2025/1160/article/3/1)[(2)](https://www.legislation.gov.uk/wsi/2025/1160/article/3/2))

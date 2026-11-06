@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. SEN co-ordinators[^key-93ad129e97b11ceda9fcf291d17bc9e6][^key-49829801207368b14a424b826a54f234]
+## 67. SEN co-ordinators[^c-93ad129e97b11ceda9fcf291d17bc9e6][^c-49829801207368b14a424b826a54f234]
 
 *Extent: E+W*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-93ad129e97b11ceda9fcf291d17bc9e6]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2014/6/section/67) in force at 1.4.2014 for specified purposes by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 3(i)](https://www.legislation.gov.uk/uksi/2014/889/article/3/i)
+[^c-93ad129e97b11ceda9fcf291d17bc9e6]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2014/6/section/67) in force at 1.4.2014 for specified purposes by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 3(i)](https://www.legislation.gov.uk/uksi/2014/889/article/3/i)
 
-[^key-49829801207368b14a424b826a54f234]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2014/6/section/67) in force at 1.9.2014 in so far as not already in force by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a) (with savings and transitional provisions in S.I. 2014/2270 (as amended (1.4.2015) by S.I. 2015/505 and (1.9.2015) by S.I. 2015/1619)
+[^c-49829801207368b14a424b826a54f234]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2014/6/section/67) in force at 1.9.2014 in so far as not already in force by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a) (with savings and transitional provisions in S.I. 2014/2270 (as amended (1.4.2015) by S.I. 2015/505 and (1.9.2015) by S.I. 2015/1619)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 147. Fixed term assured tenancy and statutory periodic tenancy to be treated as single assured tenancy[^key-7d1af870b8203c0579bb45c02abb23cf]
+## 147. Fixed term assured tenancy and statutory periodic tenancy to be treated as single assured tenancy[^c-7d1af870b8203c0579bb45c02abb23cf]
 
 *Extent: E+W+S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7d1af870b8203c0579bb45c02abb23cf]: Commencement: S. 147 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
+[^c-7d1af870b8203c0579bb45c02abb23cf]: Commencement: S. 147 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)

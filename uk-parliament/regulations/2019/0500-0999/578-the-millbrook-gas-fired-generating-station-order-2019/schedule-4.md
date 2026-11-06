@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 4 — STREETS SUBJECT TO STREET WORKS[^key-3e87050b456ea4618fa50c2f9df50e64]
+## SCHEDULE 4 — STREETS SUBJECT TO STREET WORKS[^c-3e87050b456ea4618fa50c2f9df50e64]
 
 *Extent: E+W+S*
 
 Article 9
 
-Table 5[^key-013834a9dd9ddfcc4a94dbcd9d350f53]
+Table 5[^c-013834a9dd9ddfcc4a94dbcd9d350f53]
 
 | *(1)**Area* | *(2)**Street Subject to Street Works* | *(3)**Description of the street works* |
 | --- | --- | --- |
@@ -47,6 +47,6 @@ Table 5[^key-013834a9dd9ddfcc4a94dbcd9d350f53]
 
 ## Annotations
 
-[^key-3e87050b456ea4618fa50c2f9df50e64]: Commencement: Sch. 4 in force at 3.4.2019, see art. 1
+[^c-3e87050b456ea4618fa50c2f9df50e64]: Commencement: Sch. 4 in force at 3.4.2019, see art. 1
 
-[^key-013834a9dd9ddfcc4a94dbcd9d350f53]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/uksi/2019/578/schedule/4) Table 5 substituted (9.4.2020) by [The Millbrook Gas Fired Generating Station (Amendment) Order 2020 (S.I. 2020/413)](https://www.legislation.gov.uk/uksi/2020/413), [arts. 1](https://www.legislation.gov.uk/uksi/2020/413/article/1), [6](https://www.legislation.gov.uk/uksi/2020/413/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2020/413/schedule/3)
+[^c-013834a9dd9ddfcc4a94dbcd9d350f53]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/uksi/2019/578/schedule/4) Table 5 substituted (9.4.2020) by [The Millbrook Gas Fired Generating Station (Amendment) Order 2020 (S.I. 2020/413)](https://www.legislation.gov.uk/uksi/2020/413), [arts. 1](https://www.legislation.gov.uk/uksi/2020/413/article/1), [6](https://www.legislation.gov.uk/uksi/2020/413/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2020/413/schedule/3)

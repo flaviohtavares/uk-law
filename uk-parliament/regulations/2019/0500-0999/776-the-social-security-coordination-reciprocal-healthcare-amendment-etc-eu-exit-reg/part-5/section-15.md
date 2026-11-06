@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Regulation [(EEC) No 574/72](https://www.legislation.gov.uk/eur/1972/574)[^key-c6504167a569c0ad8bd4289753e1e231]
+## 15. Regulation [(EEC) No 574/72](https://www.legislation.gov.uk/eur/1972/574)[^c-c6504167a569c0ad8bd4289753e1e231]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Regulation [(EEC) No 574/72](https://www.legislation.gov.uk/eur/1972/574) is ame
 
 ## Annotations
 
-[^key-c6504167a569c0ad8bd4289753e1e231]: Commencement: Reg. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-c6504167a569c0ad8bd4289753e1e231]: Commencement: Reg. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)

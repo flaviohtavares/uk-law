@@ -32,7 +32,7 @@ summary: ''
 
 Excise
 
-The Gaming Duty (Amendment) Regulations 2014 (revoked)[^key-5723f9615dbf2ad40f323fed7b5aa319]
+The Gaming Duty (Amendment) Regulations 2014 (revoked)[^c-5723f9615dbf2ad40f323fed7b5aa319]
 
 Made
 
@@ -46,32 +46,32 @@ Coming into force
 
 1st October 2014
 
-[^key-5723f9615dbf2ad40f323fed7b5aa319]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5723f9615dbf2ad40f323fed7b5aa319]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-5723f9615dbf2ad40f323fed7b5aa319]
+## 1. Citation and commencement[^c-5723f9615dbf2ad40f323fed7b5aa319]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-5723f9615dbf2ad40f323fed7b5aa319]
+## 2. Interpretation[^c-5723f9615dbf2ad40f323fed7b5aa319]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Application and revocation[^key-5723f9615dbf2ad40f323fed7b5aa319]
+## 3. Application and revocation[^c-5723f9615dbf2ad40f323fed7b5aa319]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. The amount of payments on account[^key-5723f9615dbf2ad40f323fed7b5aa319]
+## 4. The amount of payments on account[^c-5723f9615dbf2ad40f323fed7b5aa319]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5723f9615dbf2ad40f323fed7b5aa319]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5723f9615dbf2ad40f323fed7b5aa319]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-5723f9615dbf2ad40f323fed7b5aa319]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5723f9615dbf2ad40f323fed7b5aa319]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5723f9615dbf2ad40f323fed7b5aa319]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2014/1930) revoked (31.10.2016) by [The Gaming Duty (Amendment) Regulations 2016 (S.I. 2016/943)](https://www.legislation.gov.uk/uksi/2016/943), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/943/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2016/943/regulation/3)
+[^c-5723f9615dbf2ad40f323fed7b5aa319]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2014/1930) revoked (31.10.2016) by [The Gaming Duty (Amendment) Regulations 2016 (S.I. 2016/943)](https://www.legislation.gov.uk/uksi/2016/943), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/943/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2016/943/regulation/3)

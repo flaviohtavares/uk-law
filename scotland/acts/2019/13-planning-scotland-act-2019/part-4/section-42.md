@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 42. Fines: increases and duty of court in determining amount[^key-cfb0db589aff4fb736c2448efb9af115]
+## 42. Fines: increases and duty of court in determining amount[^c-cfb0db589aff4fb736c2448efb9af115]
 
 *Extent: S*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cfb0db589aff4fb736c2448efb9af115]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2019/13/section/42) in force at 20.12.2019 by [S.S.I. 2019/377](https://www.legislation.gov.uk/ssi/2019/377), [reg. 2](https://www.legislation.gov.uk/ssi/2019/377/regulation/2) (with [regs. 5-10](https://www.legislation.gov.uk/ssi/2019/377/regulation/5)) (as amended by S.S.I. 2019/411, regs. 1, 2)
+[^c-cfb0db589aff4fb736c2448efb9af115]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2019/13/section/42) in force at 20.12.2019 by [S.S.I. 2019/377](https://www.legislation.gov.uk/ssi/2019/377), [reg. 2](https://www.legislation.gov.uk/ssi/2019/377/regulation/2) (with [regs. 5-10](https://www.legislation.gov.uk/ssi/2019/377/regulation/5)) (as amended by S.S.I. 2019/411, regs. 1, 2)

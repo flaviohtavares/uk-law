@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. First compliance period[^key-9df16c59296f075c46bc220ef99df3bc]
+## 9. First compliance period[^c-9df16c59296f075c46bc220ef99df3bc]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ These Regulations will apply in relation to the first compliance period in accor
 
 ## Annotations
 
-[^key-9df16c59296f075c46bc220ef99df3bc]: Commencement: Reg. 9 in force at 1.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/1/2)
+[^c-9df16c59296f075c46bc220ef99df3bc]: Commencement: Reg. 9 in force at 1.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/1/2)

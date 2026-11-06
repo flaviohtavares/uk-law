@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. Railway security services[^key-fd165e1a4996f9bd5cafbc226652db82]
+## 106. Railway security services[^c-fd165e1a4996f9bd5cafbc226652db82]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,4 +65,4 @@ The following shall be inserted after section 121 of the Railways Act 1993 (c. 4
 
 ## Annotations
 
-[^key-fd165e1a4996f9bd5cafbc226652db82]: Commencement: [S. 106](https://www.legislation.gov.uk/ukpga/2003/20/section/106) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(aa)](https://www.legislation.gov.uk/uksi/2004/827/article/3/aa)
+[^c-fd165e1a4996f9bd5cafbc226652db82]: Commencement: [S. 106](https://www.legislation.gov.uk/ukpga/2003/20/section/106) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(aa)](https://www.legislation.gov.uk/uksi/2004/827/article/3/aa)

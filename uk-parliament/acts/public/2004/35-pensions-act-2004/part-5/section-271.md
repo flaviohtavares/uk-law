@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 271. Debt due from the employer when assets insufficient[^key-82c3c6cff3eed4096a1d132773f36bf6]
+## 271. Debt due from the employer when assets insufficient[^c-82c3c6cff3eed4096a1d132773f36bf6]
 
 *Extent: E+W+S*
 
@@ -149,4 +149,4 @@ summary: ''
 
 ## Annotations
 
-[^key-82c3c6cff3eed4096a1d132773f36bf6]: Commencement: S. 271 in force for the purpose only of conferring power to make regulations, orders or rules, as the case may be, 10.2.2005; and for all other purposes at 6.4.2005 in so far as not already in force by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(3)](https://www.legislation.gov.uk/uksi/2005/275/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/3) (with [art. 2(10)](https://www.legislation.gov.uk/uksi/2005/275/article/2/10)[(11)](https://www.legislation.gov.uk/uksi/2005/275/article/2/11))
+[^c-82c3c6cff3eed4096a1d132773f36bf6]: Commencement: S. 271 in force for the purpose only of conferring power to make regulations, orders or rules, as the case may be, 10.2.2005; and for all other purposes at 6.4.2005 in so far as not already in force by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(3)](https://www.legislation.gov.uk/uksi/2005/275/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/3) (with [art. 2(10)](https://www.legislation.gov.uk/uksi/2005/275/article/2/10)[(11)](https://www.legislation.gov.uk/uksi/2005/275/article/2/11))

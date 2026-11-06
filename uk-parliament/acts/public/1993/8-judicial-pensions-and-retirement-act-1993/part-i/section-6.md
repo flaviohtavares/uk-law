@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Grant and payment of a children’s pension.[^c13953261][^c13953271][^key-2dddf23564fb802d3179815173e7a554]
+## 6. Grant and payment of a children’s pension.[^c13953261][^c13953271][^c-2dddf23564fb802d3179815173e7a554]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,7 +65,7 @@ who are for the time being in their period of childhood and full-time education.
 
 [^c13953271]: Modification: S. 6 applied (with modifications) (N.I.) (1.11.1995) by [S.R. 1995/388](https://www.legislation.gov.uk/nisr/1995/388), [art. 6(1)](https://www.legislation.gov.uk/nisr/1995/388/article/6/1)
 
-[^key-2dddf23564fb802d3179815173e7a554]: Modification: [S. 6](https://www.legislation.gov.uk/ukpga/1993/8/section/6) modified (21.12.2018) by [The Human Fertilisation and Embryology (Parental Orders) Regulations 2018 (S.I. 2018/1412)](https://www.legislation.gov.uk/uksi/2018/1412), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/2), [Sch. 4 para. 17](https://www.legislation.gov.uk/uksi/2018/1412/schedule/4/paragraph/17)
+[^c-2dddf23564fb802d3179815173e7a554]: Modification: [S. 6](https://www.legislation.gov.uk/ukpga/1993/8/section/6) modified (21.12.2018) by [The Human Fertilisation and Embryology (Parental Orders) Regulations 2018 (S.I. 2018/1412)](https://www.legislation.gov.uk/uksi/2018/1412), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/2), [Sch. 4 para. 17](https://www.legislation.gov.uk/uksi/2018/1412/schedule/4/paragraph/17)
 
 [^c20869391]: Modification: S. 6(2)(c)(d)(5)(7)(b) modified (6.4.2010) by [The Human Fertilisation and Embryology (Parental Orders) Regulations 2010 (S.I. 2010/985)](https://www.legislation.gov.uk/uksi/2010/985), [reg. 5](https://www.legislation.gov.uk/uksi/2010/985/regulation/5), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/985/schedule/4)
 

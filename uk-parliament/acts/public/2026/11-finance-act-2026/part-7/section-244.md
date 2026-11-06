@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 244. Reviews and appeals[^M_I_b4b87240-4a00-4428-9fba-524bdcc60c9f][^key-50bb70606bdad24c8eb84aa42609fb2f][^key-437c986a8cba63a52f264de1b688daac]
+## 244. Reviews and appeals[^M_I_b4b87240-4a00-4428-9fba-524bdcc60c9f][^c-50bb70606bdad24c8eb84aa42609fb2f][^c-437c986a8cba63a52f264de1b688daac]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ Schedule 21 contains provision about reviews and appeals.
 
 [^M_I_b4b87240-4a00-4428-9fba-524bdcc60c9f]: Commencement: S. 244 not in force at Royal Assent, see [s. 249(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/249/2)
 
-[^key-50bb70606bdad24c8eb84aa42609fb2f]: Commencement: [S. 244](https://www.legislation.gov.uk/ukpga/2026/11/section/244) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
+[^c-50bb70606bdad24c8eb84aa42609fb2f]: Commencement: [S. 244](https://www.legislation.gov.uk/ukpga/2026/11/section/244) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
 
-[^key-437c986a8cba63a52f264de1b688daac]: Commencement: [S. 244](https://www.legislation.gov.uk/ukpga/2026/11/section/244) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))
+[^c-437c986a8cba63a52f264de1b688daac]: Commencement: [S. 244](https://www.legislation.gov.uk/ukpga/2026/11/section/244) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))

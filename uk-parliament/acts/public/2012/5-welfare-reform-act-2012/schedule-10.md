@@ -24,13 +24,13 @@ Section 93
 
 ### General
 
-**1.**[^key-d2333ddbdece0ef27b196ac63e3042fc] (1) Regulations under section 93 may in particular make provision for the purposes of, or in connection with, replacing disability living allowance with personal independence payment.
+**1.**[^c-d2333ddbdece0ef27b196ac63e3042fc] (1) Regulations under section 93 may in particular make provision for the purposes of, or in connection with, replacing disability living allowance with personal independence payment.
 
 (2) In this Schedule “**the appointed day**” means the day appointed for the coming into force of section 77.
 
 ### Claims before the appointed day
 
-**2.**[^key-f4bbf442891bba11c1722858f1ab9da5] (1) The provision referred to in paragraph 1(1) includes—
+**2.**[^c-f4bbf442891bba11c1722858f1ab9da5] (1) The provision referred to in paragraph 1(1) includes—
 
 - (a) provision for a claim for personal independence payment to be made before the appointed day for a period beginning on or after that day;
 - (b) provision for a claim for personal independence payment made before the appointed day to be treated to any extent as a claim for disability living allowance;
@@ -40,7 +40,7 @@ Section 93
 
 ### Claims after the appointed day
 
-**3.**[^key-1c4cec4414b85913e675340eaab4281e] (1) The provision referred to in paragraph 1(1) includes—
+**3.**[^c-1c4cec4414b85913e675340eaab4281e] (1) The provision referred to in paragraph 1(1) includes—
 
 - (a) provision permanently or temporarily excluding the making of a claim for personal independence payment after the appointed day by—
   - (i) a person to whom disability living allowance is awarded, or
@@ -54,7 +54,7 @@ Section 93
 
 ### Awards
 
-**4.**[^key-5182b3d6020e726da09efa899904b3bf] (1) The provision referred to in paragraph 1(1) includes—
+**4.**[^c-5182b3d6020e726da09efa899904b3bf] (1) The provision referred to in paragraph 1(1) includes—
 
 - (a) provision for terminating an award of disability living allowance;
 - (b) provision for making an award of personal independence payment, with or without application, to a person whose award of disability living allowance is terminated.
@@ -70,7 +70,7 @@ Section 93
 
 ### Supplementary
 
-**5.**[^key-d99407e4ba13931a1096ecec218e3502] Regulations under section 93—
+**5.**[^c-d99407e4ba13931a1096ecec218e3502] Regulations under section 93—
 
 - (a) may secure the result that any gap in entitlement to disability living allowance is to be disregarded for the purposes of provision under the regulations;
 - (b) may make provision about cases in which provision made by regulations under section 80(2) (required period condition) is to apply with modifications;
@@ -78,12 +78,12 @@ Section 93
 
 ## Annotations
 
-[^key-d2333ddbdece0ef27b196ac63e3042fc]: Commencement: [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2012/5/schedule/10/paragraph/1) in force at 25.2.2013 by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 44](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/44)
+[^c-d2333ddbdece0ef27b196ac63e3042fc]: Commencement: [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2012/5/schedule/10/paragraph/1) in force at 25.2.2013 by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 44](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/44)
 
-[^key-f4bbf442891bba11c1722858f1ab9da5]: Commencement: [Sch. 10 para. 2](https://www.legislation.gov.uk/ukpga/2012/5/schedule/10/paragraph/2) in force at 25.2.2013 by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 44](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/44)
+[^c-f4bbf442891bba11c1722858f1ab9da5]: Commencement: [Sch. 10 para. 2](https://www.legislation.gov.uk/ukpga/2012/5/schedule/10/paragraph/2) in force at 25.2.2013 by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 44](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/44)
 
-[^key-1c4cec4414b85913e675340eaab4281e]: Commencement: [Sch. 10 para. 3](https://www.legislation.gov.uk/ukpga/2012/5/schedule/10/paragraph/3) in force at 25.2.2013 by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 44](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/44)
+[^c-1c4cec4414b85913e675340eaab4281e]: Commencement: [Sch. 10 para. 3](https://www.legislation.gov.uk/ukpga/2012/5/schedule/10/paragraph/3) in force at 25.2.2013 by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 44](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/44)
 
-[^key-5182b3d6020e726da09efa899904b3bf]: Commencement: [Sch. 10 para. 4](https://www.legislation.gov.uk/ukpga/2012/5/schedule/10/paragraph/4) in force at 25.2.2013 by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 44](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/44)
+[^c-5182b3d6020e726da09efa899904b3bf]: Commencement: [Sch. 10 para. 4](https://www.legislation.gov.uk/ukpga/2012/5/schedule/10/paragraph/4) in force at 25.2.2013 by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 44](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/44)
 
-[^key-d99407e4ba13931a1096ecec218e3502]: Commencement: [Sch. 10 para. 5](https://www.legislation.gov.uk/ukpga/2012/5/schedule/10/paragraph/5) in force at 25.2.2013 by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 44](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/44)
+[^c-d99407e4ba13931a1096ecec218e3502]: Commencement: [Sch. 10 para. 5](https://www.legislation.gov.uk/ukpga/2012/5/schedule/10/paragraph/5) in force at 25.2.2013 by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 44](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/44)

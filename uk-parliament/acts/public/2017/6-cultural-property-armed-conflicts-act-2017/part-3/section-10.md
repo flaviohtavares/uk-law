@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Use authorised by appropriate national authority[^key-4f91b3091d655d858dc8d643e4c65420]
+## 10. Use authorised by appropriate national authority[^c-4f91b3091d655d858dc8d643e4c65420]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4f91b3091d655d858dc8d643e4c65420]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2017/6/section/10) in force at 12.12.2017 by [S.I. 2017/1087](https://www.legislation.gov.uk/uksi/2017/1087), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1087/regulation/2)
+[^c-4f91b3091d655d858dc8d643e4c65420]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2017/6/section/10) in force at 12.12.2017 by [S.I. 2017/1087](https://www.legislation.gov.uk/uksi/2017/1087), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1087/regulation/2)

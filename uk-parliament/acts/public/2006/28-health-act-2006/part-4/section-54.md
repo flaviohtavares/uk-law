@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Manner in which disclosure notice may be served[^key-bfa4e617dfe84876c0c4355808a16e33][^key-cb1c66b01c6a29f16d5b65415a8304aa][^key-dcbcf5647f512a8f7ff1d25af8dd9cfb]
+## 54. Manner in which disclosure notice may be served[^c-bfa4e617dfe84876c0c4355808a16e33][^c-cb1c66b01c6a29f16d5b65415a8304aa][^c-dcbcf5647f512a8f7ff1d25af8dd9cfb]
 
 *Extent: E+W*
 
@@ -24,8 +24,8 @@ summary: ''
 
 ## Annotations
 
-[^key-bfa4e617dfe84876c0c4355808a16e33]: Textual amendment: [Ss. 44-56](https://www.legislation.gov.uk/ukpga/2006/28/section/44) repealed (1.3.2007 coming into force in accordance with s. 8(4)-(6)) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1 Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
+[^c-bfa4e617dfe84876c0c4355808a16e33]: Textual amendment: [Ss. 44-56](https://www.legislation.gov.uk/ukpga/2006/28/section/44) repealed (1.3.2007 coming into force in accordance with s. 8(4)-(6)) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1 Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
 
-[^key-cb1c66b01c6a29f16d5b65415a8304aa]: Commencement: S. 54 in force at 1.2.2007 for W. by [S.I. 2007/204](https://www.legislation.gov.uk/uksi/2007/204), [art. 3(b)](https://www.legislation.gov.uk/uksi/2007/204/article/3/b)
+[^c-cb1c66b01c6a29f16d5b65415a8304aa]: Commencement: S. 54 in force at 1.2.2007 for W. by [S.I. 2007/204](https://www.legislation.gov.uk/uksi/2007/204), [art. 3(b)](https://www.legislation.gov.uk/uksi/2007/204/article/3/b)
 
-[^key-dcbcf5647f512a8f7ff1d25af8dd9cfb]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2006/28/section/54) in force at 22.4.2008 in so far as not already in force by [S.I. 2008/1147](https://www.legislation.gov.uk/uksi/2008/1147), [art. 3(a)](https://www.legislation.gov.uk/uksi/2008/1147/article/3/a)
+[^c-dcbcf5647f512a8f7ff1d25af8dd9cfb]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2006/28/section/54) in force at 22.4.2008 in so far as not already in force by [S.I. 2008/1147](https://www.legislation.gov.uk/uksi/2008/1147), [art. 3(a)](https://www.legislation.gov.uk/uksi/2008/1147/article/3/a)

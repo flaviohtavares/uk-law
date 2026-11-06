@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 5 — LAND IN WHICH ONLY NEW RIGHTS ETC. MAY BE PERMANENTLYACQUIRED[^key-4af35fa13b0d69eb7d2b45bc73daa76d]
+## SCHEDULE 5 — LAND IN WHICH ONLY NEW RIGHTS ETC. MAY BE PERMANENTLYACQUIRED[^c-4af35fa13b0d69eb7d2b45bc73daa76d]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ Article 26
 
 ## Annotations
 
-[^key-4af35fa13b0d69eb7d2b45bc73daa76d]: Commencement: Sch. 5 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
+[^c-4af35fa13b0d69eb7d2b45bc73daa76d]: Commencement: Sch. 5 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)

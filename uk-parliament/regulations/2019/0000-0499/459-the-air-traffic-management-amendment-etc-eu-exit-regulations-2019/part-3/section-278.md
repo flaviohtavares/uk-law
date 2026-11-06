@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 278. Article 1 of Commission Implementing Regulation (EU) No 1207/2011[^key-1027f43af88d216473e0fd707ac2c017]
+## 278. Article 1 of Commission Implementing Regulation (EU) No 1207/2011[^c-1027f43af88d216473e0fd707ac2c017]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Article 1 (subject matter) for “within” substitute “ of the United King
 
 ## Annotations
 
-[^key-1027f43af88d216473e0fd707ac2c017]: Commencement: Reg. 278 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-1027f43af88d216473e0fd707ac2c017]: Commencement: Reg. 278 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

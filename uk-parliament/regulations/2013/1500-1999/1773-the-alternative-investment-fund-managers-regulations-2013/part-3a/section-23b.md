@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23B. Procedure in relation to the refusal of an application for UK LTIF authorisation[^key-309c1793828e9d10134266345734637d]
+## 23B. Procedure in relation to the refusal of an application for UK LTIF authorisation[^c-309c1793828e9d10134266345734637d]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-309c1793828e9d10134266345734637d]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/uksi/2013/1773/part/3A) omitted (1.1.2024) by virtue of [The Financial Services and Markets Act 2023 (Consequential Amendments) Regulations 2023 (S.I. 2023/1410)](https://www.legislation.gov.uk/uksi/2023/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1410/regulation/1/2), [9(3)](https://www.legislation.gov.uk/uksi/2023/1410/regulation/9/3)
+[^c-309c1793828e9d10134266345734637d]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/uksi/2013/1773/part/3A) omitted (1.1.2024) by virtue of [The Financial Services and Markets Act 2023 (Consequential Amendments) Regulations 2023 (S.I. 2023/1410)](https://www.legislation.gov.uk/uksi/2023/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1410/regulation/1/2), [9(3)](https://www.legislation.gov.uk/uksi/2023/1410/regulation/9/3)

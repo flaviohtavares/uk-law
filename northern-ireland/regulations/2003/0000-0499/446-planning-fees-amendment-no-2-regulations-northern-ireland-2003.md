@@ -31,7 +31,7 @@ summary: ''
 
 PLANNING
 
-Planning (Fees) (Amendment No. 2) Regulations (Northern Ireland) 2003 (revoked)[^key-bfbb63afc1074ed622906d489c36a828]
+Planning (Fees) (Amendment No. 2) Regulations (Northern Ireland) 2003 (revoked)[^c-bfbb63afc1074ed622906d489c36a828]
 
 Made
 
@@ -41,22 +41,22 @@ Coming into operation
 
 12th November 2003
 
-[^key-bfbb63afc1074ed622906d489c36a828]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bfbb63afc1074ed622906d489c36a828]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-bfbb63afc1074ed622906d489c36a828]
+## 1. Citation, commencement and interpretation[^c-bfbb63afc1074ed622906d489c36a828]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the principal regulations[^key-bfbb63afc1074ed622906d489c36a828]
+## 2. Amendment of the principal regulations[^c-bfbb63afc1074ed622906d489c36a828]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bfbb63afc1074ed622906d489c36a828]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bfbb63afc1074ed622906d489c36a828]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bfbb63afc1074ed622906d489c36a828]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bfbb63afc1074ed622906d489c36a828]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bfbb63afc1074ed622906d489c36a828]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/446) revoked (18.5.2005) by [The Planning (Fees) Regulations (Northern Ireland) 2005 (S.R. 2005/222)](https://www.legislation.gov.uk/nisr/2005/222), [reg. 1](https://www.legislation.gov.uk/nisr/2005/222/regulation/1), [Sch. 3](https://www.legislation.gov.uk/nisr/2005/222/schedule/3)
+[^c-bfbb63afc1074ed622906d489c36a828]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/446) revoked (18.5.2005) by [The Planning (Fees) Regulations (Northern Ireland) 2005 (S.R. 2005/222)](https://www.legislation.gov.uk/nisr/2005/222), [reg. 1](https://www.legislation.gov.uk/nisr/2005/222/regulation/1), [Sch. 3](https://www.legislation.gov.uk/nisr/2005/222/schedule/3)

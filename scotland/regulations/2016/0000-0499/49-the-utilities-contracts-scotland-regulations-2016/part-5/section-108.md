@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 108. Financial penalties[^key-262a141821ed4597f09f02173a8e174a]
+## 108. Financial penalties[^c-262a141821ed4597f09f02173a8e174a]
 
 *Extent: S*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-262a141821ed4597f09f02173a8e174a]: Commencement: [Reg. 108](https://www.legislation.gov.uk/ssi/2016/49/regulation/108) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
+[^c-262a141821ed4597f09f02173a8e174a]: Commencement: [Reg. 108](https://www.legislation.gov.uk/ssi/2016/49/regulation/108) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
 
 [^f00047]: Footnote: [1998 c.46](https://www.legislation.gov.uk/ukpga/1998/46).

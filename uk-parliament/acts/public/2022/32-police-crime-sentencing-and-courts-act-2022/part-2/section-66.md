@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Disqualification order on conviction for certain offences involving dogs[^key-b9b178db7c33926df02cb24a406df7e6][^key-ede2e0881d1bcabed81992a4fa6b889d]
+## 66. Disqualification order on conviction for certain offences involving dogs[^c-b9b178db7c33926df02cb24a406df7e6][^c-ede2e0881d1bcabed81992a4fa6b889d]
 
 *Extent: E+W*
 
@@ -59,6 +59,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b9b178db7c33926df02cb24a406df7e6]: Commencement: S. 66 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-b9b178db7c33926df02cb24a406df7e6]: Commencement: S. 66 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-ede2e0881d1bcabed81992a4fa6b889d]: Commencement: S. 66 in force at 1.8.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 7](https://www.legislation.gov.uk/uksi/2022/520/regulation/7)
+[^c-ede2e0881d1bcabed81992a4fa6b889d]: Commencement: S. 66 in force at 1.8.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 7](https://www.legislation.gov.uk/uksi/2022/520/regulation/7)

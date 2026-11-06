@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 48. Amendments to Schedule 2[^key-7174e7d929e34f9ee3c54a6814a4c7c0]
+## 48. Amendments to Schedule 2[^c-7174e7d929e34f9ee3c54a6814a4c7c0]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ In Schedule 2 to the principal Rules—
 
 ## Annotations
 
-[^key-7174e7d929e34f9ee3c54a6814a4c7c0]: Commencement: Rule 48 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
+[^c-7174e7d929e34f9ee3c54a6814a4c7c0]: Commencement: Rule 48 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)

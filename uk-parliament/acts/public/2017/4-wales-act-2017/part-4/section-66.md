@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Gas and Electricity Markets Authority[^key-97e5e0ff262c3ddcbb2d6877c2fbd624]
+## 66. Gas and Electricity Markets Authority[^c-97e5e0ff262c3ddcbb2d6877c2fbd624]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-97e5e0ff262c3ddcbb2d6877c2fbd624]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2017/4/section/66) in force at 1.4.2018 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(m)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/m)
+[^c-97e5e0ff262c3ddcbb2d6877c2fbd624]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2017/4/section/66) in force at 1.4.2018 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(m)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/m)

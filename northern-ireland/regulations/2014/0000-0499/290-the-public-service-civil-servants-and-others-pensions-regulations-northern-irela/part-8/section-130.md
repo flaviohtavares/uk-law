@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 130. Amount payable on death of active member (death in service)[^key-e63f048c5358cc8255ee1526a607405e]
+## 130. Amount payable on death of active member (death in service)[^c-e63f048c5358cc8255ee1526a607405e]
 
 *Extent: N.I.*
 
 (1) This regulation applies in relation to a continuous period of pensionable service under this scheme (“period of service”).
 
-(2) If the member is a transition member with continuity of service, the period of service includes the member’s period of pensionable service under the PCSPS(NI) before the transition date for that member[^key-49447384052c6db2774ed36d6b3b21e6] .
+(2) If the member is a transition member with continuity of service, the period of service includes the member’s period of pensionable service under the PCSPS(NI) before the transition date for that member[^c-49447384052c6db2774ed36d6b3b21e6] .
 
 (3) For the purpose of this regulation, a person dies in service if the person dies while an active member of this scheme in relation to a period of service.
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e63f048c5358cc8255ee1526a607405e]: Commencement: [Reg. 130](https://www.legislation.gov.uk/nisr/2014/290/regulation/130) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-e63f048c5358cc8255ee1526a607405e]: Commencement: [Reg. 130](https://www.legislation.gov.uk/nisr/2014/290/regulation/130) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
 
-[^key-49447384052c6db2774ed36d6b3b21e6]: Textual amendment: Words in [reg. 130(2)](https://www.legislation.gov.uk/nisr/2014/290/regulation/130/2) substituted (1.4.2015) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/181)](https://www.legislation.gov.uk/nisr/2015/181), [regs. 1](https://www.legislation.gov.uk/nisr/2015/181/regulation/1), [2(11)](https://www.legislation.gov.uk/nisr/2015/181/regulation/2/11)
+[^c-49447384052c6db2774ed36d6b3b21e6]: Textual amendment: Words in [reg. 130(2)](https://www.legislation.gov.uk/nisr/2014/290/regulation/130/2) substituted (1.4.2015) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/181)](https://www.legislation.gov.uk/nisr/2015/181), [regs. 1](https://www.legislation.gov.uk/nisr/2015/181/regulation/1), [2(11)](https://www.legislation.gov.uk/nisr/2015/181/regulation/2/11)

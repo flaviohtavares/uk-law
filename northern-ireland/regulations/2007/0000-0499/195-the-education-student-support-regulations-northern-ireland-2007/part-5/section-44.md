@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 44. Grants for students who have left care[^key-8ecfde9330ff6dc1f3582b69b1413b84]
+## 44. Grants for students who have left care[^c-8ecfde9330ff6dc1f3582b69b1413b84]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8ecfde9330ff6dc1f3582b69b1413b84]: Commencement: [Reg. 44](https://www.legislation.gov.uk/nisr/2007/195/regulation/44) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-8ecfde9330ff6dc1f3582b69b1413b84]: Commencement: [Reg. 44](https://www.legislation.gov.uk/nisr/2007/195/regulation/44) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

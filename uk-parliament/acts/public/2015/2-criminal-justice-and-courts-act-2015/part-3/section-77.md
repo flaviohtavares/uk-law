@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Supplementary provision[^key-60bcd507783abae20b38b73ec21351ec]
+## 77. Supplementary provision[^c-60bcd507783abae20b38b73ec21351ec]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-60bcd507783abae20b38b73ec21351ec]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2015/2/section/77) in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 62](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/62)
+[^c-60bcd507783abae20b38b73ec21351ec]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2015/2/section/77) in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 62](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/62)

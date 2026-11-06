@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95. Transitional provisions[^key-a9c24f9acb26f8141c1fa4b85e397b17]
+## 95. Transitional provisions[^c-a9c24f9acb26f8141c1fa4b85e397b17]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a9c24f9acb26f8141c1fa4b85e397b17]: Commencement: Reg. 95 in force at 1.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/1/2)
+[^c-a9c24f9acb26f8141c1fa4b85e397b17]: Commencement: Reg. 95 in force at 1.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96A. Offences committed in a country outside the United Kingdom[^key-a664146b9713b6c19e0ea2b71477c42f]
+## 96A. Offences committed in a country outside the United Kingdom[^c-a664146b9713b6c19e0ea2b71477c42f]
 
 *Extent: N.I.*
 
@@ -79,7 +79,7 @@ and for the purposes of this subsection an act punishable under the law in force
 
 *Extent: S*
 
-(1) A sheriff may, if satisfied on the application of a senior police officer [^key-368ea8e15244a908cc13183c6c778895]... as to the matters mentioned in subsection (2), grant a warrant authorising any constable of the Police Service of Scotland[^key-60aa1d2058a0556f583d7b6b3e621c78] to enter premises in the sheriffdom (if necessary using reasonable force) and to examine and search them, and the things in them, for the purpose mentioned in subsection (3).
+(1) A sheriff may, if satisfied on the application of a senior police officer [^c-368ea8e15244a908cc13183c6c778895]... as to the matters mentioned in subsection (2), grant a warrant authorising any constable of the Police Service of Scotland[^c-60aa1d2058a0556f583d7b6b3e621c78] to enter premises in the sheriffdom (if necessary using reasonable force) and to examine and search them, and the things in them, for the purpose mentioned in subsection (3).
 
 (2) Those matters are—
 
@@ -88,7 +88,7 @@ and for the purposes of this subsection an act punishable under the law in force
   - (ii) premises whose address has been notified by a relevant offender as the address of any other premises at which he regularly resides or stays, in his most recent notification under section 83(1) or 85(1) or in any notification under section 84(1) given by him since that notification;
 - (b) that the offender is not one to whom subsection (4) applies;
 - (c) that it would assist the carrying out of the purpose mentioned in subsection (3), for a constable of the relevant force to examine and search the premises and the things in them; and
-- (d)[^key-7ffb4152c4f4253ede4b8ddd35a2d8a6] that on more than one occasion, a constable of the Police Service of Scotland[^key-4cb6342b4be91f8adbed8300c48112b4] has attempted to examine and search the premises and the things in them for the purpose mentioned in subsection (3) and has been unable (whether by not being able to search and examine the premises and the things in them, or by not being able to obtain entry to the premises) to do so.
+- (d)[^c-7ffb4152c4f4253ede4b8ddd35a2d8a6] that on more than one occasion, a constable of the Police Service of Scotland[^c-4cb6342b4be91f8adbed8300c48112b4] has attempted to examine and search the premises and the things in them for the purpose mentioned in subsection (3) and has been unable (whether by not being able to search and examine the premises and the things in them, or by not being able to obtain entry to the premises) to do so.
 
 (3) That purpose is assessing the risk of the offender committing a sexual offence.
 
@@ -113,26 +113,26 @@ and for the purposes of this subsection an act punishable under the law in force
 
 (11) In this section—
 
-- [^key-9bb66e5dc456875c864ab3c90f26e635]...
-- “**senior police officer**” means a constable of the Police Service of Scotland[^key-1589590618a95182f1789b069d54db65] of the rank of superintendent or above; and
+- [^c-9bb66e5dc456875c864ab3c90f26e635]...
+- “**senior police officer**” means a constable of the Police Service of Scotland[^c-1589590618a95182f1789b069d54db65] of the rank of superintendent or above; and
 - “**sexual offence**” means—
   - (a) an offence within any of paragraphs 36 to 59C of Schedule 3; or
   - (b) any other offence in circumstances in which it would be likely that a determination such as is mentioned in paragraph 60 of that Schedule would be made in relation to the offence.
 
 ## Annotations
 
-[^key-a664146b9713b6c19e0ea2b71477c42f]: Textual amendment: Ss. 96A, 96AA inserted (N.I.) (24.6.2014) by [Criminal Justice Act (Northern Ireland) 2013 (c. 7)](https://www.legislation.gov.uk/nia/2013/7), [ss. 4(2)](https://www.legislation.gov.uk/nia/2013/7/section/4/2), [15(2)(c)](https://www.legislation.gov.uk/nia/2013/7/section/15/2/c); [S.R. 2014/179](https://www.legislation.gov.uk/nisr/2014/179), [art. 2(b)](https://www.legislation.gov.uk/nisr/2014/179/article/2/b)
+[^c-a664146b9713b6c19e0ea2b71477c42f]: Textual amendment: Ss. 96A, 96AA inserted (N.I.) (24.6.2014) by [Criminal Justice Act (Northern Ireland) 2013 (c. 7)](https://www.legislation.gov.uk/nia/2013/7), [ss. 4(2)](https://www.legislation.gov.uk/nia/2013/7/section/4/2), [15(2)(c)](https://www.legislation.gov.uk/nia/2013/7/section/15/2/c); [S.R. 2014/179](https://www.legislation.gov.uk/nisr/2014/179), [art. 2(b)](https://www.legislation.gov.uk/nisr/2014/179/article/2/b)
 
 [^c18951031]: Textual amendment: S. 96A inserted (S.) (1.9.2006) by [Police, Public Order and Criminal Justice (Scotland) Act 2006 (asp 10)](https://www.legislation.gov.uk/asp/2006/10), [ss. 80](https://www.legislation.gov.uk/asp/2006/10/section/80), [104](https://www.legislation.gov.uk/asp/2006/10/section/104); [S.S.I. 2006/432](https://www.legislation.gov.uk/ssi/2006/432), [art. 2(d)](https://www.legislation.gov.uk/ssi/2006/432/article/2/d)
 
-[^key-368ea8e15244a908cc13183c6c778895]: Textual amendment: Words in s. 96A(1) omitted (1.4.2013) by virtue of [The Police and Fire Reform (Scotland) Act 2012 (Consequential Modifications and Savings) Order 2013 (S.S.I. 2013/119)](https://www.legislation.gov.uk/ssi/2013/119), [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1), [Sch. 1 para. 20(7)(a)(i)](https://www.legislation.gov.uk/ssi/2013/119/schedule/1/paragraph/20/7/a/i)
+[^c-368ea8e15244a908cc13183c6c778895]: Textual amendment: Words in s. 96A(1) omitted (1.4.2013) by virtue of [The Police and Fire Reform (Scotland) Act 2012 (Consequential Modifications and Savings) Order 2013 (S.S.I. 2013/119)](https://www.legislation.gov.uk/ssi/2013/119), [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1), [Sch. 1 para. 20(7)(a)(i)](https://www.legislation.gov.uk/ssi/2013/119/schedule/1/paragraph/20/7/a/i)
 
-[^key-60aa1d2058a0556f583d7b6b3e621c78]: Textual amendment: Words in s. 96A(1) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Modifications and Savings) Order 2013 (S.S.I. 2013/119)](https://www.legislation.gov.uk/ssi/2013/119), [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1), [Sch. 1 para. 20(7)(a)(ii)](https://www.legislation.gov.uk/ssi/2013/119/schedule/1/paragraph/20/7/a/ii)
+[^c-60aa1d2058a0556f583d7b6b3e621c78]: Textual amendment: Words in s. 96A(1) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Modifications and Savings) Order 2013 (S.S.I. 2013/119)](https://www.legislation.gov.uk/ssi/2013/119), [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1), [Sch. 1 para. 20(7)(a)(ii)](https://www.legislation.gov.uk/ssi/2013/119/schedule/1/paragraph/20/7/a/ii)
 
-[^key-7ffb4152c4f4253ede4b8ddd35a2d8a6]: Modification: S. 96A(2)(d) modified (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Supplementary, Transitional, Transitory and Saving Provisions) Order2013 (S.S.I. 2013/121)](https://www.legislation.gov.uk/ssi/2013/121), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/121/article/1/1), [14](https://www.legislation.gov.uk/ssi/2013/121/article/14)
+[^c-7ffb4152c4f4253ede4b8ddd35a2d8a6]: Modification: S. 96A(2)(d) modified (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Supplementary, Transitional, Transitory and Saving Provisions) Order2013 (S.S.I. 2013/121)](https://www.legislation.gov.uk/ssi/2013/121), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/121/article/1/1), [14](https://www.legislation.gov.uk/ssi/2013/121/article/14)
 
-[^key-4cb6342b4be91f8adbed8300c48112b4]: Textual amendment: Words in s. 96A(2)(d) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Modifications and Savings) Order 2013 (S.S.I. 2013/119)](https://www.legislation.gov.uk/ssi/2013/119), [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1), [Sch. 1 para. 20(7)(b)](https://www.legislation.gov.uk/ssi/2013/119/schedule/1/paragraph/20/7/b)
+[^c-4cb6342b4be91f8adbed8300c48112b4]: Textual amendment: Words in s. 96A(2)(d) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Modifications and Savings) Order 2013 (S.S.I. 2013/119)](https://www.legislation.gov.uk/ssi/2013/119), [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1), [Sch. 1 para. 20(7)(b)](https://www.legislation.gov.uk/ssi/2013/119/schedule/1/paragraph/20/7/b)
 
-[^key-9bb66e5dc456875c864ab3c90f26e635]: Textual amendment: S. 96A(11) definition of “the relevant force” omitted (1.4.2013) by virtue of [The Police and Fire Reform (Scotland) Act 2012 (Consequential Modifications and Savings) Order 2013 (S.S.I. 2013/119)](https://www.legislation.gov.uk/ssi/2013/119), [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1), [Sch. 1 para. 20(7)(c)(i)](https://www.legislation.gov.uk/ssi/2013/119/schedule/1/paragraph/20/7/c/i)
+[^c-9bb66e5dc456875c864ab3c90f26e635]: Textual amendment: S. 96A(11) definition of “the relevant force” omitted (1.4.2013) by virtue of [The Police and Fire Reform (Scotland) Act 2012 (Consequential Modifications and Savings) Order 2013 (S.S.I. 2013/119)](https://www.legislation.gov.uk/ssi/2013/119), [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1), [Sch. 1 para. 20(7)(c)(i)](https://www.legislation.gov.uk/ssi/2013/119/schedule/1/paragraph/20/7/c/i)
 
-[^key-1589590618a95182f1789b069d54db65]: Textual amendment: Words in s. 96A(11) definition of “senior police officer” inserted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Modifications and Savings) Order 2013 (S.S.I. 2013/119)](https://www.legislation.gov.uk/ssi/2013/119), [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1), [Sch. 1 para. 20(7)(c)(ii)](https://www.legislation.gov.uk/ssi/2013/119/schedule/1/paragraph/20/7/c/ii)
+[^c-1589590618a95182f1789b069d54db65]: Textual amendment: Words in s. 96A(11) definition of “senior police officer” inserted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Modifications and Savings) Order 2013 (S.S.I. 2013/119)](https://www.legislation.gov.uk/ssi/2013/119), [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1), [Sch. 1 para. 20(7)(c)(ii)](https://www.legislation.gov.uk/ssi/2013/119/schedule/1/paragraph/20/7/c/ii)

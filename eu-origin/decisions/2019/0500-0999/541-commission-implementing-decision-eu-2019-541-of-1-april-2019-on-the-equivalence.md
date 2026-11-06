@@ -38,22 +38,22 @@ on the equivalence of the legal and supervisory framework applicable to approved
 
 (Text with EEA relevance) (revoked)
 
-[^key-c768299e25760b9521fa1e144e5392db]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c768299e25760b9521fa1e144e5392db]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-c768299e25760b9521fa1e144e5392db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-c768299e25760b9521fa1e144e5392db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-c768299e25760b9521fa1e144e5392db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-c768299e25760b9521fa1e144e5392db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-c768299e25760b9521fa1e144e5392db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-c768299e25760b9521fa1e144e5392db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-c768299e25760b9521fa1e144e5392db]
+## ANNEX[^c-c768299e25760b9521fa1e144e5392db]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c768299e25760b9521fa1e144e5392db]: Textual amendment: Decision revoked (31.12.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pts. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1), [3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 5(c)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/5/c), [Sch.](https://www.legislation.gov.uk/uksi/2024/1071/schedule)
+[^c-c768299e25760b9521fa1e144e5392db]: Textual amendment: Decision revoked (31.12.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pts. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1), [3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 5(c)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/5/c), [Sch.](https://www.legislation.gov.uk/uksi/2024/1071/schedule)

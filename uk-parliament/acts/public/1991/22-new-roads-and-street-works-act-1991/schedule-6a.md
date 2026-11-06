@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 6A — FIXED PENALTY OFFENCES UNDER PART 4[^key-1585e6b08aa37585908a4dd64fb73666]
+## SCHEDULE 6A — FIXED PENALTY OFFENCES UNDER PART 4[^c-1585e6b08aa37585908a4dd64fb73666]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1585e6b08aa37585908a4dd64fb73666]: Textual amendment: [Sch. 6A](https://www.legislation.gov.uk/ukpga/1991/22/schedule/6A) inserted (S.) (1.10.2008) by [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12), [s. 54(2)](https://www.legislation.gov.uk/asp/2005/12/section/54/2), [sch. 4](https://www.legislation.gov.uk/asp/2005/12/schedule/4); [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(3)](https://www.legislation.gov.uk/ssi/2008/15/article/2/3), [sch. 2](https://www.legislation.gov.uk/ssi/2008/15/schedule/2)
+[^c-1585e6b08aa37585908a4dd64fb73666]: Textual amendment: [Sch. 6A](https://www.legislation.gov.uk/ukpga/1991/22/schedule/6A) inserted (S.) (1.10.2008) by [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12), [s. 54(2)](https://www.legislation.gov.uk/asp/2005/12/section/54/2), [sch. 4](https://www.legislation.gov.uk/asp/2005/12/schedule/4); [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(3)](https://www.legislation.gov.uk/ssi/2008/15/article/2/3), [sch. 2](https://www.legislation.gov.uk/ssi/2008/15/schedule/2)

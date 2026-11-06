@@ -52,11 +52,11 @@ These Regulations may be cited as the Income-related Benefits Schemes (Miscellan
 
 (3) In paragraph 13(2)(a)(ii) and 13(2)(b)(iii) of Schedule 2 (severe disability premium) for the words “residing with him” there shall be substituted the words “normally residing with him or with whom he is normally residing,”.
 
-## 3. Amendment of the Council Tax Benefit (General) Regulations 1992[^key-8130a6fbd3cabc8a9cb66936cb403337]
+## 3. Amendment of the Council Tax Benefit (General) Regulations 1992[^c-8130a6fbd3cabc8a9cb66936cb403337]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Housing Benefit (General) Regulations 1987[^key-8130a6fbd3cabc8a9cb66936cb403337]
+## 4. Amendment of the Housing Benefit (General) Regulations 1987[^c-8130a6fbd3cabc8a9cb66936cb403337]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -84,4 +84,4 @@ The Regulations do not impose a charge on businesses.
 
 [^c1804046]: Marginal citation: [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967); relevant amending instruments [S.I. 1988/663](https://www.legislation.gov.uk/uksi/1988/663), 1989/534, 1678, 1991/2334, 2742, 1993/1150 and 2119.
 
-[^key-8130a6fbd3cabc8a9cb66936cb403337]: Textual amendment: Reg. 3, 4 revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-8130a6fbd3cabc8a9cb66936cb403337]: Textual amendment: Reg. 3, 4 revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 217A. Definition of “conveyancer”[^key-2eae68824e8cf836df1db7608c5ebe39]
+## 217A. Definition of “conveyancer”[^c-2eae68824e8cf836df1db7608c5ebe39]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2eae68824e8cf836df1db7608c5ebe39]: Textual amendment: Rule 217A inserted (1.10.2011) by [The Land Registration (Amendment) Rules 2011 (S.I. 2011/1410)](https://www.legislation.gov.uk/uksi/2011/1410), [rules 1](https://www.legislation.gov.uk/uksi/2011/1410/rule/1), [4](https://www.legislation.gov.uk/uksi/2011/1410/rule/4); [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/c)
+[^c-2eae68824e8cf836df1db7608c5ebe39]: Textual amendment: Rule 217A inserted (1.10.2011) by [The Land Registration (Amendment) Rules 2011 (S.I. 2011/1410)](https://www.legislation.gov.uk/uksi/2011/1410), [rules 1](https://www.legislation.gov.uk/uksi/2011/1410/rule/1), [4](https://www.legislation.gov.uk/uksi/2011/1410/rule/4); [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/c)

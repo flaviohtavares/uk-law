@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Appointment of special advocate[^key-1e5fd0b44230c6f8dbfc927a55fd3d0d][^key-a993cfd5780aaab52a679cd9124ca407]
+## 68. Appointment of special advocate[^c-1e5fd0b44230c6f8dbfc927a55fd3d0d][^c-a993cfd5780aaab52a679cd9124ca407]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,6 +49,6 @@ The coming into force of that section does not affect any appointment of a perso
 
 ## Annotations
 
-[^key-1e5fd0b44230c6f8dbfc927a55fd3d0d]: Modification: Ss. 66-68 applied (17.12.2010) by [Terrorist Asset-Freezing etc. Act 2010 (c. 38)](https://www.legislation.gov.uk/ukpga/2010/38), [ss. 28(4)](https://www.legislation.gov.uk/ukpga/2010/38/section/28/4), [55(1)](https://www.legislation.gov.uk/ukpga/2010/38/section/55/1) (with [s. 44](https://www.legislation.gov.uk/ukpga/2010/38/section/44))
+[^c-1e5fd0b44230c6f8dbfc927a55fd3d0d]: Modification: Ss. 66-68 applied (17.12.2010) by [Terrorist Asset-Freezing etc. Act 2010 (c. 38)](https://www.legislation.gov.uk/ukpga/2010/38), [ss. 28(4)](https://www.legislation.gov.uk/ukpga/2010/38/section/28/4), [55(1)](https://www.legislation.gov.uk/ukpga/2010/38/section/55/1) (with [s. 44](https://www.legislation.gov.uk/ukpga/2010/38/section/44))
 
-[^key-a993cfd5780aaab52a679cd9124ca407]: Modification: [Ss. 66-68](https://www.legislation.gov.uk/ukpga/2008/28/section/66) applied (with modifications) (22.11.2018) by [Sanctions and Anti-Money Laundering Act 2018 (c. 13)](https://www.legislation.gov.uk/ukpga/2018/13), [s. 40(1)](https://www.legislation.gov.uk/ukpga/2018/13/section/40/1)[(2)](https://www.legislation.gov.uk/ukpga/2018/13/section/40/2), [64(2)](https://www.legislation.gov.uk/ukpga/2018/13/section/64/2) (with [ss. 52(3)](https://www.legislation.gov.uk/ukpga/2018/13/section/52/3), [53](https://www.legislation.gov.uk/ukpga/2018/13/section/53), [58](https://www.legislation.gov.uk/ukpga/2018/13/section/58)); [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/b)
+[^c-a993cfd5780aaab52a679cd9124ca407]: Modification: [Ss. 66-68](https://www.legislation.gov.uk/ukpga/2008/28/section/66) applied (with modifications) (22.11.2018) by [Sanctions and Anti-Money Laundering Act 2018 (c. 13)](https://www.legislation.gov.uk/ukpga/2018/13), [s. 40(1)](https://www.legislation.gov.uk/ukpga/2018/13/section/40/1)[(2)](https://www.legislation.gov.uk/ukpga/2018/13/section/40/2), [64(2)](https://www.legislation.gov.uk/ukpga/2018/13/section/64/2) (with [ss. 52(3)](https://www.legislation.gov.uk/ukpga/2018/13/section/52/3), [53](https://www.legislation.gov.uk/ukpga/2018/13/section/53), [58](https://www.legislation.gov.uk/ukpga/2018/13/section/58)); [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/b)

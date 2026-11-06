@@ -43,8 +43,8 @@ summary: ''
 
 shall extend the period allowed for bringing proceedings to an extent sufficient to give a reasonable opportunity of so arresting the ship.
 
-(7)[^key-62af813fa6e8ef1b9da5d2f98c4e88a3] This section has effect subject to section 43 of the Northern Ireland Troubles (Legacy and Reconciliation) Act 2023.
+(7)[^c-62af813fa6e8ef1b9da5d2f98c4e88a3] This section has effect subject to section 43 of the Northern Ireland Troubles (Legacy and Reconciliation) Act 2023.
 
 ## Annotations
 
-[^key-62af813fa6e8ef1b9da5d2f98c4e88a3]: Textual amendment: [S. 190(7)](https://www.legislation.gov.uk/ukpga/1995/21/section/190/7) inserted (18.11.2023) by [Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (c. 41)](https://www.legislation.gov.uk/ukpga/2023/41), [s. 63(2)(b)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/2/b), [Sch. 13 para. 17](https://www.legislation.gov.uk/ukpga/2023/41/schedule/13/paragraph/17) (with [s. 61](https://www.legislation.gov.uk/ukpga/2023/41/section/61))
+[^c-62af813fa6e8ef1b9da5d2f98c4e88a3]: Textual amendment: [S. 190(7)](https://www.legislation.gov.uk/ukpga/1995/21/section/190/7) inserted (18.11.2023) by [Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (c. 41)](https://www.legislation.gov.uk/ukpga/2023/41), [s. 63(2)(b)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/2/b), [Sch. 13 para. 17](https://www.legislation.gov.uk/ukpga/2023/41/schedule/13/paragraph/17) (with [s. 61](https://www.legislation.gov.uk/ukpga/2023/41/section/61))

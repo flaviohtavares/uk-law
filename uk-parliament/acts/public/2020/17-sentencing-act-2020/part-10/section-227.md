@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 227. Restriction on imposing imprisonment on persons under 21[^key-ec15e09a8cde7decd458f50f7d5f48b5]
+## 227. Restriction on imposing imprisonment on persons under 21[^c-ec15e09a8cde7decd458f50f7d5f48b5]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ec15e09a8cde7decd458f50f7d5f48b5]: Commencement: S. 227 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-ec15e09a8cde7decd458f50f7d5f48b5]: Commencement: S. 227 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

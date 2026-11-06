@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 2
 
-### 1. Supply of animals[^key-1f79d8d3809e4986152f343b607f030a]
+### 1. Supply of animals[^c-1f79d8d3809e4986152f343b607f030a]
 
 No animal of any of the following descriptions may be supplied as a pet by or on behalf of the licence holder—
 
@@ -30,9 +30,9 @@ No animal of any of the following descriptions may be supplied as a pet by or on
 - (b) mammals weaned at an age at which they should not have been weaned,
 - (c) non-mammals that are incapable of feeding themselves,
 - (d) puppies, kittens, ferrets or kits, aged under 8 weeks, and
-- (e) puppies [^key-fab9115c92debd1bcdccec6ddd8db511]... which were not bred by the licence holder.
+- (e) puppies [^c-fab9115c92debd1bcdccec6ddd8db511]... which were not bred by the licence holder.
 
-### 2. Protection from suffering, injury and disease[^key-b3764d760c1ad9acca759f80f9ed4082]
+### 2. Protection from suffering, injury and disease[^c-b3764d760c1ad9acca759f80f9ed4082]
 
 (1) All animals supplied as pets must be in good health.
 
@@ -42,7 +42,7 @@ No animal of any of the following descriptions may be supplied as a pet by or on
 
 (4) When an animal is transported in or handed over in a container to the person to whom the licence holder is supplying the animal, the container must be suitable for the species and expected duration of the journey.
 
-### 3. Pet care and advice[^key-dc858ea48364ad7f0a254010010bd5cf]
+### 3. Pet care and advice[^c-dc858ea48364ad7f0a254010010bd5cf]
 
 (1) Any equipment and accessories being supplied with an animal must be suitable for the animal.
 
@@ -58,7 +58,7 @@ No animal of any of the following descriptions may be supplied as a pet by or on
 
 (3) A person supplied with the animal as a pet must be informed of the country of origin of the animal and the species, and where known, the age, sex and veterinary record of the animal.
 
-### 4. Return of animals[^key-e4013679d23d7c23008fdb148913bf08]
+### 4. Return of animals[^c-e4013679d23d7c23008fdb148913bf08]
 
 The licence holder must accept return of any live animal that the licence holder has supplied to a person in the course of the licensable activity, and arrange for the collection of the animal to facilitate the return if requested by the person supplied, if—
 
@@ -67,12 +67,12 @@ The licence holder must accept return of any live animal that the licence holder
 
 ## Annotations
 
-[^key-1f79d8d3809e4986152f343b607f030a]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ssi/2021/84/schedule/4/paragraph/1) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
+[^c-1f79d8d3809e4986152f343b607f030a]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ssi/2021/84/schedule/4/paragraph/1) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
 
-[^key-fab9115c92debd1bcdccec6ddd8db511]: Textual amendment: Words in [sch. 4 para. 1(e)](https://www.legislation.gov.uk/ssi/2021/84/schedule/4/paragraph/1/e) omitted (10.10.2021) by virtue of [The Animal Welfare (Licensing of Activities Involving Animals) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/356)](https://www.legislation.gov.uk/ssi/2021/356), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/356/regulation/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2021/356/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/356/regulation/3))
+[^c-fab9115c92debd1bcdccec6ddd8db511]: Textual amendment: Words in [sch. 4 para. 1(e)](https://www.legislation.gov.uk/ssi/2021/84/schedule/4/paragraph/1/e) omitted (10.10.2021) by virtue of [The Animal Welfare (Licensing of Activities Involving Animals) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/356)](https://www.legislation.gov.uk/ssi/2021/356), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/356/regulation/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2021/356/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/356/regulation/3))
 
-[^key-b3764d760c1ad9acca759f80f9ed4082]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ssi/2021/84/schedule/4/paragraph/2) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
+[^c-b3764d760c1ad9acca759f80f9ed4082]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ssi/2021/84/schedule/4/paragraph/2) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
 
-[^key-dc858ea48364ad7f0a254010010bd5cf]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ssi/2021/84/schedule/4/paragraph/3) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
+[^c-dc858ea48364ad7f0a254010010bd5cf]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ssi/2021/84/schedule/4/paragraph/3) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
 
-[^key-e4013679d23d7c23008fdb148913bf08]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/ssi/2021/84/schedule/4/paragraph/4) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
+[^c-e4013679d23d7c23008fdb148913bf08]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/ssi/2021/84/schedule/4/paragraph/4) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)

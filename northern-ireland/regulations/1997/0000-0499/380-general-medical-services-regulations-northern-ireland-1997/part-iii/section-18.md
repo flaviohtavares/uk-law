@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 18. Doctors' lists[^key-70ebbd609085cacfd8dce9717ecbcda5]
+## 18. Doctors' lists[^c-70ebbd609085cacfd8dce9717ecbcda5]
 
 *Extent: N.I.*
 
@@ -56,4 +56,4 @@ he shall be removed from the doctor’s list from the date on which the Agency f
 
 ## Annotations
 
-[^key-70ebbd609085cacfd8dce9717ecbcda5]: Commencement: Reg. 18 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-70ebbd609085cacfd8dce9717ecbcda5]: Commencement: Reg. 18 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)

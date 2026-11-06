@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 66. Offence: failure to comply with notice under section 65(2)[^key-f0a22e9615245b8fd786cc6de37367c4]
+## 66. Offence: failure to comply with notice under section 65(2)[^c-f0a22e9615245b8fd786cc6de37367c4]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f0a22e9615245b8fd786cc6de37367c4]: Commencement: [S. 66](https://www.legislation.gov.uk/asp/2011/9/section/66) in force at 1.4.2016 by [S.S.I. 2016/42](https://www.legislation.gov.uk/ssi/2016/42), [art. 2](https://www.legislation.gov.uk/ssi/2016/42/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/42/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/42/article/3))
+[^c-f0a22e9615245b8fd786cc6de37367c4]: Commencement: [S. 66](https://www.legislation.gov.uk/asp/2011/9/section/66) in force at 1.4.2016 by [S.S.I. 2016/42](https://www.legislation.gov.uk/ssi/2016/42), [art. 2](https://www.legislation.gov.uk/ssi/2016/42/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/42/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/42/article/3))

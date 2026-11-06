@@ -33,7 +33,7 @@ summary: ''
 
 Sheriff Court
 
-Act of Sederunt (Simple Procedure Amendment) (Civil Online) 2021 (revoked)[^key-013758976c0f567909eda42796ccda3e]
+Act of Sederunt (Simple Procedure Amendment) (Civil Online) 2021 (revoked)[^c-013758976c0f567909eda42796ccda3e]
 
 Made
 
@@ -47,22 +47,22 @@ Coming into force
 
 29th September 2021
 
-[^key-013758976c0f567909eda42796ccda3e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-013758976c0f567909eda42796ccda3e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement, etc.[^key-013758976c0f567909eda42796ccda3e]
+## 1. Citation and commencement, etc.[^c-013758976c0f567909eda42796ccda3e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Act of Sederunt (Simple Procedure Amendment) (Civil Online) 2020[^key-013758976c0f567909eda42796ccda3e]
+## 2. Amendment of the Act of Sederunt (Simple Procedure Amendment) (Civil Online) 2020[^c-013758976c0f567909eda42796ccda3e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-013758976c0f567909eda42796ccda3e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-013758976c0f567909eda42796ccda3e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-013758976c0f567909eda42796ccda3e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-013758976c0f567909eda42796ccda3e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-013758976c0f567909eda42796ccda3e]: Textual amendment: [Instrument](https://www.legislation.gov.uk/ssi/2021/295) revoked (31.3.2022) by [Act of Sederunt (Simple Procedure Amendment) (Civil Online) 2022 (S.S.I. 2022/81)](https://www.legislation.gov.uk/ssi/2022/81), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/81/paragraph/1/2), [3(b)](https://www.legislation.gov.uk/ssi/2022/81/paragraph/3/b)
+[^c-013758976c0f567909eda42796ccda3e]: Textual amendment: [Instrument](https://www.legislation.gov.uk/ssi/2021/295) revoked (31.3.2022) by [Act of Sederunt (Simple Procedure Amendment) (Civil Online) 2022 (S.S.I. 2022/81)](https://www.legislation.gov.uk/ssi/2022/81), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/81/paragraph/1/2), [3(b)](https://www.legislation.gov.uk/ssi/2022/81/paragraph/3/b)

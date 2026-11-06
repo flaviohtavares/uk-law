@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Withdrawal of registration[^key-3203a0a01d0dd4c899bfc12df1fbfcf9]
+## 19. Withdrawal of registration[^c-3203a0a01d0dd4c899bfc12df1fbfcf9]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3203a0a01d0dd4c899bfc12df1fbfcf9]: Commencement: Reg. 19 in force at 30.1.2024 for specified purposes and 1.11.2024 (the main commencement day) in so far as not already in force, see [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)(2)
+[^c-3203a0a01d0dd4c899bfc12df1fbfcf9]: Commencement: Reg. 19 in force at 30.1.2024 for specified purposes and 1.11.2024 (the main commencement day) in so far as not already in force, see [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)(2)

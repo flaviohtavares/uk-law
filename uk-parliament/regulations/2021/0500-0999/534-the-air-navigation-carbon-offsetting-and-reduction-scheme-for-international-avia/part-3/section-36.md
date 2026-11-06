@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Verification of sustainable aviation fuels[^key-0c3cf35f79c373766c54d9c8a672ae84]
+## 36. Verification of sustainable aviation fuels[^c-0c3cf35f79c373766c54d9c8a672ae84]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0c3cf35f79c373766c54d9c8a672ae84]: Commencement: Art. 36 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
+[^c-0c3cf35f79c373766c54d9c8a672ae84]: Commencement: Art. 36 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
 
 [^f00039]: Footnote: The quality control assurances of CORSIA eligible fuel producers include declarations and/or process certifications, with periodic audits by verifiers, purchasers, or trusted entities. The process certifications, including the sustainability credentials, provide assurance that the CORSIA eligible fuel producer has established business processes to prevent double counting, and the periodic audits verify that the producer is following their established procedures. Purchasers and States may elect to independently audit the production records of the CORSIA eligible fuel producer in order to provide further assurance.

@@ -30,9 +30,9 @@ summary: ''
 (3) The persons referred to in subsection (1) are—
 
 - (a) the person subject to the order;
-- (b) the chief constable of the Police Service of Scotland[^key-bb98bb42fd644367c35ade9fac320373];
-- (c)[^key-4d9031bea95e0e6ccbcf07039acb6bc6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-4d9031bea95e0e6ccbcf07039acb6bc6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) the chief constable of the Police Service of Scotland[^c-bb98bb42fd644367c35ade9fac320373];
+- (c)[^c-4d9031bea95e0e6ccbcf07039acb6bc6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-4d9031bea95e0e6ccbcf07039acb6bc6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In subsection (1), “**the appropriate court**” means—
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bb98bb42fd644367c35ade9fac320373]: Textual amendment: Words in [s. 57(3)(b)](https://www.legislation.gov.uk/asp/2006/10/section/57/3/b) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 33(13)(a)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/33/13/a); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-bb98bb42fd644367c35ade9fac320373]: Textual amendment: Words in [s. 57(3)(b)](https://www.legislation.gov.uk/asp/2006/10/section/57/3/b) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 33(13)(a)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/33/13/a); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
-[^key-4d9031bea95e0e6ccbcf07039acb6bc6]: Textual amendment: [S. 57(3)(c)](https://www.legislation.gov.uk/asp/2006/10/section/57/3/c)[(d)](https://www.legislation.gov.uk/asp/2006/10/section/57/3/d) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 33(13)(b)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/33/13/b); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-4d9031bea95e0e6ccbcf07039acb6bc6]: Textual amendment: [S. 57(3)(c)](https://www.legislation.gov.uk/asp/2006/10/section/57/3/c)[(d)](https://www.legislation.gov.uk/asp/2006/10/section/57/3/d) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 33(13)(b)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/33/13/b); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))

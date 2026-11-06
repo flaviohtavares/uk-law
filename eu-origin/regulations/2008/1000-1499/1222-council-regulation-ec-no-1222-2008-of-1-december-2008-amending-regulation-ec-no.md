@@ -33,20 +33,20 @@ of 1 December 2008
 
 amending Regulation (EC) No 40/2008, as regards management measures adopted in the Indian Ocean Tuna Commission (revoked)
 
-[^key-1e1324651c5bf93287d7c7429f6925b9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1e1324651c5bf93287d7c7429f6925b9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Amendments to Regulation (EC) No 40/2008[^key-1e1324651c5bf93287d7c7429f6925b9]
+## Article 1. Amendments to Regulation (EC) No 40/2008[^c-1e1324651c5bf93287d7c7429f6925b9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Entry into force[^key-1e1324651c5bf93287d7c7429f6925b9]
+## Article 2. Entry into force[^c-1e1324651c5bf93287d7c7429f6925b9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1324651c5bf93287d7c7429f6925b9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1e1324651c5bf93287d7c7429f6925b9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1e1324651c5bf93287d7c7429f6925b9]: Textual amendment: Regulation revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/2)
+[^c-1e1324651c5bf93287d7c7429f6925b9]: Textual amendment: Regulation revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/2)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) At an audit of accounts under this Chapter a local government elector for the area to which the accounts relate, or any representative of his, may make objections before the Auditor General for Wales[^key-d0677535d72ec59ddf2f2b0e50ce8b8b] as to—
+(1) At an audit of accounts under this Chapter a local government elector for the area to which the accounts relate, or any representative of his, may make objections before the Auditor General for Wales[^c-d0677535d72ec59ddf2f2b0e50ce8b8b] as to—
 
 - (a) any matter in respect of which the Auditor General for Wales has a power to apply for a declaration under section 32;
 - (b) any other matter in respect of which the Auditor General for Wales has the power to make a report under section 22.
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d0677535d72ec59ddf2f2b0e50ce8b8b]: Textual amendment: Words in [s. 31](https://www.legislation.gov.uk/ukpga/2004/23/section/31) substituted (1.4.2014) by [Public Audit (Wales) Act 2013 (anaw 3)](https://www.legislation.gov.uk/anaw/2013/3), [s. 35(2)](https://www.legislation.gov.uk/anaw/2013/3/section/35/2), [Sch. 4 para. 36](https://www.legislation.gov.uk/anaw/2013/3/schedule/4/paragraph/36) (with [Sch. 3 paras. 2](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/2), [3](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/3)); [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
+[^c-d0677535d72ec59ddf2f2b0e50ce8b8b]: Textual amendment: Words in [s. 31](https://www.legislation.gov.uk/ukpga/2004/23/section/31) substituted (1.4.2014) by [Public Audit (Wales) Act 2013 (anaw 3)](https://www.legislation.gov.uk/anaw/2013/3), [s. 35(2)](https://www.legislation.gov.uk/anaw/2013/3/section/35/2), [Sch. 4 para. 36](https://www.legislation.gov.uk/anaw/2013/3/schedule/4/paragraph/36) (with [Sch. 3 paras. 2](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/2), [3](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/3)); [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)

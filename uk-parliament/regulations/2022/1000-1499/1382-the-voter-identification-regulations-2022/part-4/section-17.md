@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Delivery or collection of issued electoral identity documents and anonymous elector’s documents[^key-9ab1a6c34557b1727391368ffa42f73b]
+## 17. Delivery or collection of issued electoral identity documents and anonymous elector’s documents[^c-9ab1a6c34557b1727391368ffa42f73b]
 
 *Extent: E+W+S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9ab1a6c34557b1727391368ffa42f73b]: Commencement: Reg. 17 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-9ab1a6c34557b1727391368ffa42f73b]: Commencement: Reg. 17 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)

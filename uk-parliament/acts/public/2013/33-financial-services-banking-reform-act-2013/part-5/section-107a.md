@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107A. International trade obligations[^key-0a4fd89b480e5fd27184d9c4fb7743ef]
+## 107A. International trade obligations[^c-0a4fd89b480e5fd27184d9c4fb7743ef]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0a4fd89b480e5fd27184d9c4fb7743ef]: Textual amendment: [S. 107A](https://www.legislation.gov.uk/ukpga/2013/33/section/107A) inserted (1.1.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 7 para. 8](https://www.legislation.gov.uk/ukpga/2023/29/schedule/7/paragraph/8); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 9(1)(d)(iii)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/9/1/d/iii) (with [reg. 15](https://www.legislation.gov.uk/uksi/2023/1382/regulation/15))
+[^c-0a4fd89b480e5fd27184d9c4fb7743ef]: Textual amendment: [S. 107A](https://www.legislation.gov.uk/ukpga/2013/33/section/107A) inserted (1.1.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 7 para. 8](https://www.legislation.gov.uk/ukpga/2023/29/schedule/7/paragraph/8); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 9(1)(d)(iii)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/9/1/d/iii) (with [reg. 15](https://www.legislation.gov.uk/uksi/2023/1382/regulation/15))

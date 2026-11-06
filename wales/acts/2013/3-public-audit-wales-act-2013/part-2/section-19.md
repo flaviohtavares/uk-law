@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Provision of services[^key-266a801f7f6c2172272a55d87ceb61b6]
+## 19. Provision of services[^c-266a801f7f6c2172272a55d87ceb61b6]
 
 *Extent: E+W*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-266a801f7f6c2172272a55d87ceb61b6]: Commencement: [S. 19](https://www.legislation.gov.uk/anaw/2013/3/section/19) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
+[^c-266a801f7f6c2172272a55d87ceb61b6]: Commencement: [S. 19](https://www.legislation.gov.uk/anaw/2013/3/section/19) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)

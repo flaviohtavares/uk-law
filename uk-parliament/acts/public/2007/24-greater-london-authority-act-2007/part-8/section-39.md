@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Information about waste contracts[^key-a6066c762d1d7c65d4961901f52a89c0]
+## 39. Information about waste contracts[^c-a6066c762d1d7c65d4961901f52a89c0]
 
 *Extent: E+W*
 
@@ -56,7 +56,7 @@ summary: ''
 
 (4) In subsection (3) for “subsection (1)” substitute “ subsection (1A), (1C) ”.
 
-(5)[^key-7c35d333ed7b57144e16e9b618b05da7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-7c35d333ed7b57144e16e9b618b05da7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) Section 360 of that Act (interpretation) is amended as follows.
 
@@ -66,12 +66,12 @@ summary: ''
 
 .
 
-(8)[^key-91cd2187070e68edecbf10ef7d4f75e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-91cd2187070e68edecbf10ef7d4f75e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a6066c762d1d7c65d4961901f52a89c0]: Commencement: S. 39 in force at 21.1.2008 by [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(h)](https://www.legislation.gov.uk/uksi/2008/113/article/2/h)
+[^c-a6066c762d1d7c65d4961901f52a89c0]: Commencement: S. 39 in force at 21.1.2008 by [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(h)](https://www.legislation.gov.uk/uksi/2008/113/article/2/h)
 
-[^key-7c35d333ed7b57144e16e9b618b05da7]: Textual amendment: [S. 39(5)](https://www.legislation.gov.uk/ukpga/2007/24/section/39/5) repealed (18.4.2016) by [The Public Procurement (Amendments, Repeals and Revocations) Regulations 2016 (S.I. 2016/275)](https://www.legislation.gov.uk/uksi/2016/275), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/275/regulation/1/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2016/275/schedule/3/part/1) (with [reg. 5](https://www.legislation.gov.uk/uksi/2016/275/regulation/5))
+[^c-7c35d333ed7b57144e16e9b618b05da7]: Textual amendment: [S. 39(5)](https://www.legislation.gov.uk/ukpga/2007/24/section/39/5) repealed (18.4.2016) by [The Public Procurement (Amendments, Repeals and Revocations) Regulations 2016 (S.I. 2016/275)](https://www.legislation.gov.uk/uksi/2016/275), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/275/regulation/1/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2016/275/schedule/3/part/1) (with [reg. 5](https://www.legislation.gov.uk/uksi/2016/275/regulation/5))
 
-[^key-91cd2187070e68edecbf10ef7d4f75e5]: Textual amendment: [S. 39(8)](https://www.legislation.gov.uk/ukpga/2007/24/section/39/8) repealed (18.4.2016) by [The Public Procurement (Amendments, Repeals and Revocations) Regulations 2016 (S.I. 2016/275)](https://www.legislation.gov.uk/uksi/2016/275), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/275/regulation/1/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2016/275/schedule/3/part/1) (with [reg. 5](https://www.legislation.gov.uk/uksi/2016/275/regulation/5))
+[^c-91cd2187070e68edecbf10ef7d4f75e5]: Textual amendment: [S. 39(8)](https://www.legislation.gov.uk/ukpga/2007/24/section/39/8) repealed (18.4.2016) by [The Public Procurement (Amendments, Repeals and Revocations) Regulations 2016 (S.I. 2016/275)](https://www.legislation.gov.uk/uksi/2016/275), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/275/regulation/1/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2016/275/schedule/3/part/1) (with [reg. 5](https://www.legislation.gov.uk/uksi/2016/275/regulation/5))

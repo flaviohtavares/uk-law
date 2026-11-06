@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 31. Continuity option 3: conversion to closed scheme[^key-ea716797f8439ff9a082651463fb2e0a]
+## 31. Continuity option 3: conversion to closed scheme[^c-ea716797f8439ff9a082651463fb2e0a]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ea716797f8439ff9a082651463fb2e0a]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2022/255/regulation/31) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
+[^c-ea716797f8439ff9a082651463fb2e0a]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2022/255/regulation/31) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)

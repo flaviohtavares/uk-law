@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Currency[^c23439181][^key-210f86213452e838e47a3de313478fe6]
+## 18. Currency[^c23439181][^c-210f86213452e838e47a3de313478fe6]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 [^c23439181]: Commencement: S. 18 in force for specified purposes at 13.9.2018, see s. 57(1)(a)
 
-[^key-210f86213452e838e47a3de313478fe6]: Commencement: S. 18 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-210f86213452e838e47a3de313478fe6]: Commencement: S. 18 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)

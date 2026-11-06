@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104. Insertion of section 58B[^key-3acb45af563821a6c0d96802bf76a860]
+## 104. Insertion of section 58B[^c-3acb45af563821a6c0d96802bf76a860]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ After section 58A, insert—
 
 ## Annotations
 
-[^key-3acb45af563821a6c0d96802bf76a860]: Commencement: Reg. 104 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-3acb45af563821a6c0d96802bf76a860]: Commencement: Reg. 104 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)

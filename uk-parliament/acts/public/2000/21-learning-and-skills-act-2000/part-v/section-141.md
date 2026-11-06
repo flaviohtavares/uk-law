@@ -24,8 +24,8 @@ summary: ''
 
 - (a) it has entered into an arrangement with the Secretary of State with a view to receiving payments under section 2(2)(d) of the [^c13165501]Employment and Training Act 1973 (arrangements in respect of training) in connection with the provision of facilities,
 - (b) before the passing of this Act the company has received notice from the Secretary of State that he intends to terminate the arrangement mentioned in paragraph (a),
-- (c) the company’s articles of association[^key-020420553cc7c27e7af296333c8fd8ee] are in a form approved by the Secretary of State generally or specifically for purposes connected with arrangements of the kind described in paragraph (a), and
-- (d) the company’s articles of association[^key-6e795cfbd2abce72dc98eb8db3eb66ef] requires all income and profits to be applied towards the promotion of the company’s objects and not to be distributed to members.
+- (c) the company’s articles of association[^c-020420553cc7c27e7af296333c8fd8ee] are in a form approved by the Secretary of State generally or specifically for purposes connected with arrangements of the kind described in paragraph (a), and
+- (d) the company’s articles of association[^c-6e795cfbd2abce72dc98eb8db3eb66ef] requires all income and profits to be applied towards the promotion of the company’s objects and not to be distributed to members.
 
 (2) Unless the Secretary of State consents in writing, a company to which this section applies may not after the passing of this Act—
 
@@ -67,6 +67,6 @@ summary: ''
 
 [^c13165501]: Marginal citation: [1973 c. 50](https://www.legislation.gov.uk/ukpga/1973/50).
 
-[^key-020420553cc7c27e7af296333c8fd8ee]: Textual amendment: Words in s. 141(1)(c) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 182(a)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/182/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-020420553cc7c27e7af296333c8fd8ee]: Textual amendment: Words in s. 141(1)(c) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 182(a)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/182/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-6e795cfbd2abce72dc98eb8db3eb66ef]: Textual amendment: Words in s. 141(1)(d) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 182(b)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/182/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-6e795cfbd2abce72dc98eb8db3eb66ef]: Textual amendment: Words in s. 141(1)(d) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 182(b)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/182/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))

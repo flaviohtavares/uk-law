@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 71. Vesting of property[^key-ea8ffd69184f87130ae1818a7927b165]
+## 71. Vesting of property[^c-ea8ffd69184f87130ae1818a7927b165]
 
 *Extent: E*
 
@@ -46,4 +46,4 @@ Provided that any person entitled to burial rights may claim compensation in res
 
 ## Annotations
 
-[^key-ea8ffd69184f87130ae1818a7927b165]: Commencement: S. 71 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-ea8ffd69184f87130ae1818a7927b165]: Commencement: S. 71 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

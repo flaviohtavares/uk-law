@@ -166,7 +166,7 @@ Now, therefore, the Secretary of State for Social Security, in exercise of the p
 
 (1) An employer–
 
-- (a) who employs a person who is a qualifying employee in relation to him for a continuous period of at least 13 weeks commencing on or before 31st March 1999[^key-d3dd6527a63ca230ea0d3ce9dafa5f61]; and
+- (a) who employs a person who is a qualifying employee in relation to him for a continuous period of at least 13 weeks commencing on or before 31st March 1999[^c-d3dd6527a63ca230ea0d3ce9dafa5f61]; and
 - (b) who has obtained a deductions certificate, in accordance with regulation 7; and
 - (c) who is liable to pay Class 1 contributions in respect of earnings paid to or for the benefit of that qualifying employee in the relevant period,
 
@@ -191,7 +191,7 @@ whichever shall first occur.
 
 (1) An employer–
 
-- (a) who employs a person who is a qualifying employee in relation to him as a mariner for a continuous period of at least 13 weeks commencing on or before 31st March 1999[^key-553a9f41dd618884fdffc1fc7a9c266e]; and
+- (a) who employs a person who is a qualifying employee in relation to him as a mariner for a continuous period of at least 13 weeks commencing on or before 31st March 1999[^c-553a9f41dd618884fdffc1fc7a9c266e]; and
 - (b) who has obtained a deductions certificate in accordance with regulation 7; and
 - (c) who is liable to pay Class 1 contributions in accordance with regulation 90 of the Contributions Regulations [^c1765071] in respect of earnings paid to or for the benefit of that mariner for a voyage period commencing in the relevant period but ending after it,
 
@@ -266,7 +266,7 @@ Where an employee is a qualifying employee in relation to more than one employer
 
 (2) Subsection (7) of section 34 of the Jobseekers Act shall apply in relation to the original offence; and “the original offence" has the meaning given to it in that subsection.
 
-## 13. Amendment of Schedule 1 to the Contributions Regulations[^key-fc0b554924813e02316b4e05cb90d948]
+## 13. Amendment of Schedule 1 to the Contributions Regulations[^c-fc0b554924813e02316b4e05cb90d948]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -344,9 +344,9 @@ An assessment of the costs to business of applying regulations 5, 6, 7, 8, 9 and
 
 [^c1765070]: Marginal citation: [Regulation 7(1)(o)](https://www.legislation.gov.uk/uksi/1996/195/regulation/7/1/o) was added by [S.I. 1989/2122](https://www.legislation.gov.uk/uksi/1989/2122).
 
-[^key-d3dd6527a63ca230ea0d3ce9dafa5f61]: Textual amendment: Words in [reg. 5(1)(a)](https://www.legislation.gov.uk/uksi/1996/195/regulation/5/1/a) inserted (8.3.1999) by [The Employer’s Contributions Re-imbursement Amendment Regulations 1999 (S.I. 1999/286)](https://www.legislation.gov.uk/uksi/1999/286), [regs. 1](https://www.legislation.gov.uk/uksi/1999/286/regulation/1), [2](https://www.legislation.gov.uk/uksi/1999/286/regulation/2)
+[^c-d3dd6527a63ca230ea0d3ce9dafa5f61]: Textual amendment: Words in [reg. 5(1)(a)](https://www.legislation.gov.uk/uksi/1996/195/regulation/5/1/a) inserted (8.3.1999) by [The Employer’s Contributions Re-imbursement Amendment Regulations 1999 (S.I. 1999/286)](https://www.legislation.gov.uk/uksi/1999/286), [regs. 1](https://www.legislation.gov.uk/uksi/1999/286/regulation/1), [2](https://www.legislation.gov.uk/uksi/1999/286/regulation/2)
 
-[^key-553a9f41dd618884fdffc1fc7a9c266e]: Textual amendment: Words in [reg. 6(1)(a)](https://www.legislation.gov.uk/uksi/1996/195/regulation/6/1/a) inserted (8.3.1999) by [The Employer’s Contributions Re-imbursement Amendment Regulations 1999 (S.I. 1999/286)](https://www.legislation.gov.uk/uksi/1999/286), [regs. 1](https://www.legislation.gov.uk/uksi/1999/286/regulation/1), [2](https://www.legislation.gov.uk/uksi/1999/286/regulation/2)
+[^c-553a9f41dd618884fdffc1fc7a9c266e]: Textual amendment: Words in [reg. 6(1)(a)](https://www.legislation.gov.uk/uksi/1996/195/regulation/6/1/a) inserted (8.3.1999) by [The Employer’s Contributions Re-imbursement Amendment Regulations 1999 (S.I. 1999/286)](https://www.legislation.gov.uk/uksi/1999/286), [regs. 1](https://www.legislation.gov.uk/uksi/1999/286/regulation/1), [2](https://www.legislation.gov.uk/uksi/1999/286/regulation/2)
 
 [^c1765071]: Marginal citation: Regulation 90 was substituted by regulation 2 of [S.I. 1982/206](https://www.legislation.gov.uk/uksi/1982/206) and further amended by [S.I. 1988/674](https://www.legislation.gov.uk/uksi/1988/674) and 1989/1677.
 
@@ -358,4 +358,4 @@ An assessment of the costs to business of applying regulations 5, 6, 7, 8, 9 and
 
 [^c1765072]: Marginal citation: [Regulation 12(1)(a)](https://www.legislation.gov.uk/uksi/1996/195/regulation/12/1/a) was amended by [S.I. 1985/1398](https://www.legislation.gov.uk/uksi/1985/1398).
 
-[^key-fc0b554924813e02316b4e05cb90d948]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/uksi/1996/195/regulation/13) revoked (6.4.2001) by [The Social Security (Contributions) Regulations 2001 (S.I. 2001/1004)](https://www.legislation.gov.uk/uksi/2001/1004), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1004/regulation/1/1), 157, [Sch. 8 Pt. I](https://www.legislation.gov.uk/uksi/2001/1004/schedule/8/part/I)
+[^c-fc0b554924813e02316b4e05cb90d948]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/uksi/1996/195/regulation/13) revoked (6.4.2001) by [The Social Security (Contributions) Regulations 2001 (S.I. 2001/1004)](https://www.legislation.gov.uk/uksi/2001/1004), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1004/regulation/1/1), 157, [Sch. 8 Pt. I](https://www.legislation.gov.uk/uksi/2001/1004/schedule/8/part/I)

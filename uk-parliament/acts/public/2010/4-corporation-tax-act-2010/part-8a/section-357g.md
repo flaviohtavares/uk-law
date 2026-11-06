@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 357G. Making of election under section 357A(1) or (11)(b)[^key-3f3b3eec0117028f84fab3c68f3024c2][^key-bdb4d61244b54ebcea105c37f7d0ca40]
+## 357G. Making of election under section 357A(1) or (11)(b)[^c-3f3b3eec0117028f84fab3c68f3024c2][^c-bdb4d61244b54ebcea105c37f7d0ca40]
 
 *Extent: E+W+S+N.I.*
 
-(1) An election made by a company under section 357A(1) or (11)(b)[^key-b1a191786806f45d959bd8f9f0b56fa9] is made by giving notice to an officer of Revenue and Customs.
+(1) An election made by a company under section 357A(1) or (11)(b)[^c-b1a191786806f45d959bd8f9f0b56fa9] is made by giving notice to an officer of Revenue and Customs.
 
 (2) The notice must specify the first accounting period of the company for which the election is to have effect.
 
@@ -32,8 +32,8 @@ summary: ''
 
 ## Annotations
 
-[^key-3f3b3eec0117028f84fab3c68f3024c2]: Textual amendment: Pt. 8A inserted (with effect in accordance with [Sch. 2 paras. 7, 8](https://www.legislation.gov.uk/ukpga/2012/14/schedule/2/paragraph/7) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/2/paragraph/1/1)
+[^c-3f3b3eec0117028f84fab3c68f3024c2]: Textual amendment: Pt. 8A inserted (with effect in accordance with [Sch. 2 paras. 7, 8](https://www.legislation.gov.uk/ukpga/2012/14/schedule/2/paragraph/7) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/2/paragraph/1/1)
 
-[^key-bdb4d61244b54ebcea105c37f7d0ca40]: Textual amendment: Words in s. 357G heading substituted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 9 para. 19(2)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/9/paragraph/19/2)
+[^c-bdb4d61244b54ebcea105c37f7d0ca40]: Textual amendment: Words in s. 357G heading substituted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 9 para. 19(2)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/9/paragraph/19/2)
 
-[^key-b1a191786806f45d959bd8f9f0b56fa9]: Textual amendment: Words in [s. 357G(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/357G/1) substituted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 9 para. 19(3)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/9/paragraph/19/3)
+[^c-b1a191786806f45d959bd8f9f0b56fa9]: Textual amendment: Words in [s. 357G(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/357G/1) substituted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 9 para. 19(3)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/9/paragraph/19/3)

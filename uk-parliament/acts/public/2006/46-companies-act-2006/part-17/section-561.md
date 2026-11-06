@@ -36,7 +36,7 @@ summary: ''
 
 (5) This section is subject to—
 
-- (a) sections 564 to 566A[^key-b778b123bfc5269f4d0610e4c0d43b70] (exceptions to pre-emption right),
+- (a) sections 564 to 566A[^c-b778b123bfc5269f4d0610e4c0d43b70] (exceptions to pre-emption right),
 - (b) sections 567 and 568 (exclusion of rights of pre-emption),
 - (c) sections 569 to 573 (disapplication of pre-emption rights), and
 - (d) section 576 (saving for certain older pre-emption procedures).
@@ -45,4 +45,4 @@ summary: ''
 
 [^c20620021]: Textual amendment: S. 561(3) omitted (1.10.2009) by virtue of [The Companies Act 2006 (Allotment of Shares and Right of Pre-emption) (Amendment) Regulations 2009 (S.I. 2009/2561)](https://www.legislation.gov.uk/uksi/2009/2561), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2009/2561/regulation/2/3)
 
-[^key-b778b123bfc5269f4d0610e4c0d43b70]: Textual amendment: Word in [s. 561(5)(a)](https://www.legislation.gov.uk/ukpga/2006/46/section/561/5/a) substituted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 9 para. 33(3)(a)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/9/paragraph/33/3/a) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-b778b123bfc5269f4d0610e4c0d43b70]: Textual amendment: Word in [s. 561(5)(a)](https://www.legislation.gov.uk/ukpga/2006/46/section/561/5/a) substituted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 9 para. 33(3)(a)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/9/paragraph/33/3/a) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 131. Review of decisions by SCW[^key-2ab8cdc94d3a5f7a930b18489fb0c42d]
+## 131. Review of decisions by SCW[^c-2ab8cdc94d3a5f7a930b18489fb0c42d]
 
 *Extent: E+W*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2ab8cdc94d3a5f7a930b18489fb0c42d]: Commencement: [S. 131](https://www.legislation.gov.uk/anaw/2016/2/section/131) in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(e)](https://www.legislation.gov.uk/wsi/2017/309/article/2/e) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))
+[^c-2ab8cdc94d3a5f7a930b18489fb0c42d]: Commencement: [S. 131](https://www.legislation.gov.uk/anaw/2016/2/section/131) in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(e)](https://www.legislation.gov.uk/wsi/2017/309/article/2/e) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))

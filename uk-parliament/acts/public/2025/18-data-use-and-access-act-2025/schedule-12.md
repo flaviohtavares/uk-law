@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 12 — Storing information in the terminal equipment of a subscriber or user[^key-8c6749d8821471fcda7de4e902275515][^key-90f8a31166696ef90404fe618eeb0b8e]
+## Schedule 12 — Storing information in the terminal equipment of a subscriber or user[^c-8c6749d8821471fcda7de4e902275515][^c-90f8a31166696ef90404fe618eeb0b8e]
 
 *Extent: E+W+S+N.I.*
 
 Section 112
 
-[^key-90f8a31166696ef90404fe618eeb0b8e]
+[^c-90f8a31166696ef90404fe618eeb0b8e]
 
 In the PEC Regulations, before Schedule 1 insert—
 
@@ -117,6 +117,6 @@ In the PEC Regulations, before Schedule 1 insert—
 
 ## Annotations
 
-[^key-8c6749d8821471fcda7de4e902275515]: Commencement: Sch. 12 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-8c6749d8821471fcda7de4e902275515]: Commencement: Sch. 12 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
 
-[^key-90f8a31166696ef90404fe618eeb0b8e]: Commencement: [Sch. 12](https://www.legislation.gov.uk/ukpga/2025/18/schedule/12) in force at 5.2.2026 by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z13)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z13)
+[^c-90f8a31166696ef90404fe618eeb0b8e]: Commencement: [Sch. 12](https://www.legislation.gov.uk/ukpga/2025/18/schedule/12) in force at 5.2.2026 by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z13)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z13)

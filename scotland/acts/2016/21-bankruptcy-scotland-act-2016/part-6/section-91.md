@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 91. Debtor contribution order: payment period and intervals[^key-3a502565cdd0964e94e3f2114831967f]
+## 91. Debtor contribution order: payment period and intervals[^c-3a502565cdd0964e94e3f2114831967f]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ would be sufficient to allow a distribution of the debtor's estate to meet in fu
 
 ## Annotations
 
-[^key-3a502565cdd0964e94e3f2114831967f]: Commencement: [S. 91](https://www.legislation.gov.uk/asp/2016/21/section/91) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-3a502565cdd0964e94e3f2114831967f]: Commencement: [S. 91](https://www.legislation.gov.uk/asp/2016/21/section/91) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

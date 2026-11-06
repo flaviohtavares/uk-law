@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Implementation of review recommendations[^key-22ebe92a4956c5cf24d548ab93835e06]
+## 59. Implementation of review recommendations[^c-22ebe92a4956c5cf24d548ab93835e06]
 
 *Extent: E+W*
 
@@ -60,4 +60,4 @@ the Local Government Boundary Commission for England may by order under this sub
 
 ## Annotations
 
-[^key-22ebe92a4956c5cf24d548ab93835e06]: Commencement: S. 59 in force at 1.4.2010 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(h)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/h)
+[^c-22ebe92a4956c5cf24d548ab93835e06]: Commencement: S. 59 in force at 1.4.2010 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(h)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/h)

@@ -79,7 +79,7 @@ In this Act the expression “**Public Bill**” does not include any Bill for c
 
 Nothing in this Act shall diminish or qualify the existing rights and privileges of the House of Commons.
 
-## 7. Duration of Parliament.[^key-5ead131bc3510cb8a191fa5fec88d42b]
+## 7. Duration of Parliament.[^c-5ead131bc3510cb8a191fa5fec88d42b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -97,4 +97,4 @@ This Act may be cited as the Parliament Act 1911.
 
 [^c579342]: Textual amendment: Words substituted by [Parliament Act 1949 (c. 103)](https://www.legislation.gov.uk/ukpga/1949/103), [s. 2(2)](https://www.legislation.gov.uk/ukpga/1949/103/section/2/2)
 
-[^key-5ead131bc3510cb8a191fa5fec88d42b]: Textual amendment: [S. 7](https://www.legislation.gov.uk/ukpga/Geo5/1-2/13/section/7) omitted (15.9.2011) by virtue of [Fixed-term Parliaments Act 2011 (c. 14)](https://www.legislation.gov.uk/ukpga/2011/14), [s. 7(2)](https://www.legislation.gov.uk/ukpga/2011/14/section/7/2), [Sch. para. 4](https://www.legislation.gov.uk/ukpga/2011/14/schedule/paragraph/4) (with [s. 6](https://www.legislation.gov.uk/ukpga/2011/14/section/6))
+[^c-5ead131bc3510cb8a191fa5fec88d42b]: Textual amendment: [S. 7](https://www.legislation.gov.uk/ukpga/Geo5/1-2/13/section/7) omitted (15.9.2011) by virtue of [Fixed-term Parliaments Act 2011 (c. 14)](https://www.legislation.gov.uk/ukpga/2011/14), [s. 7(2)](https://www.legislation.gov.uk/ukpga/2011/14/section/7/2), [Sch. para. 4](https://www.legislation.gov.uk/ukpga/2011/14/schedule/paragraph/4) (with [s. 6](https://www.legislation.gov.uk/ukpga/2011/14/section/6))

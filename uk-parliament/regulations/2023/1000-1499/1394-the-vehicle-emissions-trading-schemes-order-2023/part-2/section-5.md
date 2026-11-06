@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Period by reference to which the Trading Schemes operate[^key-3f21d2f05254508e1ef8edd3754100b0]
+## 5. Period by reference to which the Trading Schemes operate[^c-3f21d2f05254508e1ef8edd3754100b0]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The Trading Schemes operate by reference to the trading period.
 
 ## Annotations
 
-[^key-3f21d2f05254508e1ef8edd3754100b0]: Commencement: Art. 5 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-3f21d2f05254508e1ef8edd3754100b0]: Commencement: Art. 5 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)

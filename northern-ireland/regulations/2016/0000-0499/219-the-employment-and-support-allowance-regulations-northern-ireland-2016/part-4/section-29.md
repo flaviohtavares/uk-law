@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 29. Additional circumstances where claimants are to be treated as having limited capability for work[^key-d3129538121eb2467cef696e0a79e5e4]
+## 29. Additional circumstances where claimants are to be treated as having limited capability for work[^c-d3129538121eb2467cef696e0a79e5e4]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ For the purposes of paragraph 4(1)(d)(ii) of Schedule 1 to the Act, a claimant i
 
 ## Annotations
 
-[^key-d3129538121eb2467cef696e0a79e5e4]: Commencement: [Reg. 29](https://www.legislation.gov.uk/nisr/2016/219/regulation/29) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-d3129538121eb2467cef696e0a79e5e4]: Commencement: [Reg. 29](https://www.legislation.gov.uk/nisr/2016/219/regulation/29) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)

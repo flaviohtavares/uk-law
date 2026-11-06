@@ -38,13 +38,13 @@ are brought into account in calculating the profits of the trade.
 
 - (a) shares,
 - (b) rights of unit holders in unit trust schemes to which TCGA 1992 applies as a result of section 99 of TCGA 1992,
-- (ba)[^key-513ed81b35101fc70d35b27f9beeb6a8] rights of participants in schemes or funds to which[^key-89f86e9cedce3eac17ef1c9a6fe13932] TCGA 1992 applies as a result of section 103D of TCGA 1992, and
+- (ba)[^c-513ed81b35101fc70d35b27f9beeb6a8] rights of participants in schemes or funds to which[^c-89f86e9cedce3eac17ef1c9a6fe13932] TCGA 1992 applies as a result of section 103D of TCGA 1992, and
 - (c) in the case of a company with no share capital, interests in the company possessed by members of the company,
 
 but does not include a loan relationship (within the meaning of Chapter 2 of Part 4 of FA 1996).
 
 ## Annotations
 
-[^key-513ed81b35101fc70d35b27f9beeb6a8]: Textual amendment: S. 149(4)(ba) inserted (1.12.2009 for specified purposes, 1.4.2010 for specified purposes) (with effect in accordance with Sch. 22 para. 12 to the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 22 para. 11(3)(a)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/22/paragraph/11/3/a); [S.I. 2010/670](https://www.legislation.gov.uk/uksi/2010/670), [art. 2](https://www.legislation.gov.uk/uksi/2010/670/article/2)
+[^c-513ed81b35101fc70d35b27f9beeb6a8]: Textual amendment: S. 149(4)(ba) inserted (1.12.2009 for specified purposes, 1.4.2010 for specified purposes) (with effect in accordance with Sch. 22 para. 12 to the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 22 para. 11(3)(a)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/22/paragraph/11/3/a); [S.I. 2010/670](https://www.legislation.gov.uk/uksi/2010/670), [art. 2](https://www.legislation.gov.uk/uksi/2010/670/article/2)
 
-[^key-89f86e9cedce3eac17ef1c9a6fe13932]: Textual amendment: Words in [s. 149(4)(ba)](https://www.legislation.gov.uk/ukpga/2005/5/section/149/4/ba) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Collective Investment Schemes and Offshore Funds (Amendment of the Taxation of Chargeable Gains Act 1992) Regulations 2017 (S.I. 2017/1204)](https://www.legislation.gov.uk/uksi/2017/1204), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/1204/regulation/1/1), [11(a)](https://www.legislation.gov.uk/uksi/2017/1204/regulation/11/a)
+[^c-89f86e9cedce3eac17ef1c9a6fe13932]: Textual amendment: Words in [s. 149(4)(ba)](https://www.legislation.gov.uk/ukpga/2005/5/section/149/4/ba) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Collective Investment Schemes and Offshore Funds (Amendment of the Taxation of Chargeable Gains Act 1992) Regulations 2017 (S.I. 2017/1204)](https://www.legislation.gov.uk/uksi/2017/1204), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/1204/regulation/1/1), [11(a)](https://www.legislation.gov.uk/uksi/2017/1204/regulation/11/a)

@@ -43,11 +43,11 @@ Coming into force in accordance with rule 37(2)
 
 In pursuance of sections 26(1) and (2) of the Care of Churches and Ecclesiastical Jurisdiction Measure 1991[^f00001] as amended by sections 45(1) and (2) of the Clergy Discipline Measure 2003[^f00002], the Rule Committee constituted in accordance with section 25 of the said 1991 Measure as amended by section 45(3) of the said 2003 Measure makes the following rules to amend the Clergy Discipline Rules [S.I. 2005 No. 2022](https://www.legislation.gov.uk/uksi/2005/2022) —
 
-## 1. Amendments to the Clergy Discipline Rules[^key-e15fe60b0662b6541309552d7c6fd56f][^key-5d447dc150b8a32ba3444b94bb7dbd6f]
+## 1. Amendments to the Clergy Discipline Rules[^c-e15fe60b0662b6541309552d7c6fd56f][^c-5d447dc150b8a32ba3444b94bb7dbd6f]
 
 The Clergy Discipline Rules 2005 are amended as follows.
 
-## 2. Institution of proceedings against priests or deacons[^key-fd4bcb95a7f907c426da27f536c2ead7][^key-bf238273d7f368349097a2ab56825665]
+## 2. Institution of proceedings against priests or deacons[^c-fd4bcb95a7f907c426da27f536c2ead7][^c-bf238273d7f368349097a2ab56825665]
 
 Rule 4 is amended by adding after sub-rule (2) the following sub-rules—
 
@@ -62,7 +62,7 @@ Rule 4 is amended by adding after sub-rule (2) the following sub-rules—
 
 .
 
-## 3. Form of statements in support[^key-7557b0eca9a41c0500b7b82b97b7ec90][^key-3ef5847684b5119d82fec335ed28baca]
+## 3. Form of statements in support[^c-7557b0eca9a41c0500b7b82b97b7ec90][^c-3ef5847684b5119d82fec335ed28baca]
 
 Rule 6 is amended by adding after sub-rule (2) the following sub-rules—
 
@@ -77,7 +77,7 @@ Rule 6 is amended by adding after sub-rule (2) the following sub-rules—
 
 .
 
-## 4. Complaint out of time[^key-e98bb43e2c595525ed82f06d2dae12c3][^key-c4a315c6cea402f52e9e772e046fd70b]
+## 4. Complaint out of time[^c-e98bb43e2c595525ed82f06d2dae12c3][^c-c4a315c6cea402f52e9e772e046fd70b]
 
 (1) Rule 8 is amended as follows.
 
@@ -96,7 +96,7 @@ Rule 6 is amended by adding after sub-rule (2) the following sub-rules—
 
 (3) In sub-rule (2) for the words “Within 7 days of receipt of the application the” there is substituted the word “The”.
 
-## 5. Receipt of complaint[^key-d7acae0399eed273401053cc45a82e8b][^key-eb65fc96e08714b238c5af969554b278]
+## 5. Receipt of complaint[^c-d7acae0399eed273401053cc45a82e8b][^c-eb65fc96e08714b238c5af969554b278]
 
 (1) Rule 9 is amended as follows.
 
@@ -110,7 +110,7 @@ Rule 6 is amended by adding after sub-rule (2) the following sub-rules—
 
 .
 
-## 6. Notifying the respondent about the complaint[^key-f2df7e037e21b80ffb0733594155407a][^key-95c3e173eba29d01559ea3ee444cb6db]
+## 6. Notifying the respondent about the complaint[^c-f2df7e037e21b80ffb0733594155407a][^c-95c3e173eba29d01559ea3ee444cb6db]
 
 (1) Rule 10 is amended as follows.
 
@@ -130,7 +130,7 @@ Rule 6 is amended by adding after sub-rule (2) the following sub-rules—
 
 (5) Sub-rule (4) is omitted.
 
-## 7. Respondent’s answer[^key-524f10e19d55d0a4b25f967ee9d6d071][^key-c65a8b6f82a95a36ed61d660ad859d17]
+## 7. Respondent’s answer[^c-524f10e19d55d0a4b25f967ee9d6d071][^c-c65a8b6f82a95a36ed61d660ad859d17]
 
 Rule 17 is amended by inserting the following sub-rules after sub-rule (4)—
 
@@ -142,7 +142,7 @@ Rule 17 is amended by inserting the following sub-rules after sub-rule (4)—
 
 .
 
-## 8. Penalty by consent[^key-0f1d49af16484401cb1975ff906b4a05][^key-2d335909e29832b639a9ce69cc511f4d]
+## 8. Penalty by consent[^c-0f1d49af16484401cb1975ff906b4a05][^c-2d335909e29832b639a9ce69cc511f4d]
 
 Rule 27 is amended by adding the following sub-rules after sub-rule (8)—
 
@@ -158,15 +158,15 @@ Rule 27 is amended by adding the following sub-rules after sub-rule (8)—
 
 .
 
-## 9. Reference to the Designated Officer for formal investigation[^key-e3347b60e670ce5347ae644549be90f7][^key-3bf1d1f8df3705b6bdd7880e0b0083f0]
+## 9. Reference to the Designated Officer for formal investigation[^c-e3347b60e670ce5347ae644549be90f7][^c-3bf1d1f8df3705b6bdd7880e0b0083f0]
 
 In rule 28(5) for the word “investigate” there are substituted the words “cause inquiries to be made into” and after the words “send or deliver” there are inserted the words “or cause to be sent or delivered”.
 
-## 10. Form of application[^key-58422df975a1b69d8613f7d8f7ecd8bc][^key-49d7c7db23239a9948adb8e2480d53ab]
+## 10. Form of application[^c-58422df975a1b69d8613f7d8f7ecd8bc][^c-49d7c7db23239a9948adb8e2480d53ab]
 
 In rule 31(3) after the word “same” there is inserted the word “time”.
 
-## 11. Appointment of members of the tribunal[^key-7cef4327d3428211665b971f1bc55c64][^key-da5e0d643bdf89f17037ff0ba482a259]
+## 11. Appointment of members of the tribunal[^c-7cef4327d3428211665b971f1bc55c64][^c-da5e0d643bdf89f17037ff0ba482a259]
 
 Rule 37 is amended by adding the following sub-rule after sub-rule (2)—
 
@@ -174,11 +174,11 @@ Rule 37 is amended by adding the following sub-rule after sub-rule (2)—
 
 .
 
-## 12. Absence from a hearing[^key-bbb327d3f1a15ed1a7e3733b186b8bda][^key-23fcd679642f5d26f607eedbdfd31e6a]
+## 12. Absence from a hearing[^c-bbb327d3f1a15ed1a7e3733b186b8bda][^c-23fcd679642f5d26f607eedbdfd31e6a]
 
 At the end of rule 42 there are added the words “or that written notice of the hearing has been duly sent or delivered in accordance with rule 101”.
 
-## 13. Pronouncement of the tribunal’s determination of the complaint[^key-c23e40794ee1b60f73e41271b61c5853][^key-bc69448103ba646197472b31766c6fa7]
+## 13. Pronouncement of the tribunal’s determination of the complaint[^c-c23e40794ee1b60f73e41271b61c5853][^c-bc69448103ba646197472b31766c6fa7]
 
 (1) Rule 50 is amended as follows.
 
@@ -192,7 +192,7 @@ At the end of rule 42 there are added the words “or that written notice of the
 
 (3) In sub-rule (3) for the words “each member” there are substituted the words “the Chair, or in the event of the Chair’s death or incapacity, by another member of the tribunal nominated for that purpose by the Registrar of Tribunals”.
 
-## 14. Pronouncement of penalty[^key-7c16f27ac80ba3c54321ae115d93aab3][^key-2a585062c252bfe8a2c46ebffcb84607]
+## 14. Pronouncement of penalty[^c-7c16f27ac80ba3c54321ae115d93aab3][^c-2a585062c252bfe8a2c46ebffcb84607]
 
 (1) Rule 52 is amended as follows.
 
@@ -204,11 +204,11 @@ At the end of rule 42 there are added the words “or that written notice of the
 
 .
 
-## 15. Suspension of a priest or deacon during proceedings[^key-e0d259307b00426f5bb1d07651fb1e76][^key-925e66ace085c960cf2034ba60baece9]
+## 15. Suspension of a priest or deacon during proceedings[^c-e0d259307b00426f5bb1d07651fb1e76][^c-925e66ace085c960cf2034ba60baece9]
 
 In rule 60(1) after the word “deacon” in the first place where it occurs there are inserted the words “holding any preferment in a diocese”, and after the word “bishop” in the first place where it occurs there are inserted the words “of the diocese”.
 
-## 16. Suspensions following conviction and inclusion in a barred list[^key-2cb381e984df94d0a974814782fafabe][^key-f82b46275166a94cdc93ec76b2516a45]
+## 16. Suspensions following conviction and inclusion in a barred list[^c-2cb381e984df94d0a974814782fafabe][^c-f82b46275166a94cdc93ec76b2516a45]
 
 After rule 61 there are inserted the following rules—
 
@@ -226,7 +226,7 @@ After rule 61 there are inserted the following rules—
 
 .
 
-## 17. Contents of notice of suspension[^key-686c41d718d4b61b1b7ade6ddebadf9d][^key-d36bb4663859210af2f1cd5b70f23f7b]
+## 17. Contents of notice of suspension[^c-686c41d718d4b61b1b7ade6ddebadf9d][^c-d36bb4663859210af2f1cd5b70f23f7b]
 
 (1) Rule 62 is amended as follows.
 
@@ -244,7 +244,7 @@ After rule 61 there are inserted the following rules—
 
 (4) In paragraph (c)(i) after the words “have not been concluded” in the second place where they occur there are inserted the words “, or any step under section 30 of the Measure has not been concluded,”.
 
-## 18. Notification to others of suspension[^key-63858c583dc6e6c3082971aba2a29fcd][^key-5377a37fedfdc56f7510a7301b44da4c]
+## 18. Notification to others of suspension[^c-63858c583dc6e6c3082971aba2a29fcd][^c-5377a37fedfdc56f7510a7301b44da4c]
 
 For rule 63 there is substituted the following rule—
 
@@ -268,7 +268,7 @@ For rule 63 there is substituted the following rule—
 
 .
 
-## 19. Revocation of suspension[^key-dec14e29a32971b154d85583a243fb10][^key-47370a44dffe4d3999f327b931626116]
+## 19. Revocation of suspension[^c-dec14e29a32971b154d85583a243fb10][^c-47370a44dffe4d3999f327b931626116]
 
 (1) Rule 64 is amended as follows.
 
@@ -276,7 +276,7 @@ For rule 63 there is substituted the following rule—
 
 (3) In sub-rule (2) for the words “specified in” there are substituted the words “to whom notice of suspension was sent or delivered under”.
 
-## 20. Notification of cessation of suspension[^key-8d20aed312bf86b6f4c001647ea4b194][^key-334402fd7d0c5ac2bee15f274ec9e8fd]
+## 20. Notification of cessation of suspension[^c-8d20aed312bf86b6f4c001647ea4b194][^c-334402fd7d0c5ac2bee15f274ec9e8fd]
 
 (1) Rule 65 is amended as follows.
 
@@ -290,11 +290,11 @@ For rule 63 there is substituted the following rule—
 
 (4) For the words “specified in” there are substituted the words “to whom notice of suspension was sent or delivered under”.
 
-## 21. Appeals by priest or deacon against notice of suspension[^key-77073399a29a6b943066f092f0ee1c6d][^key-01cdc5c3a7989418ed7b6715feeac1b4]
+## 21. Appeals by priest or deacon against notice of suspension[^c-77073399a29a6b943066f092f0ee1c6d][^c-01cdc5c3a7989418ed7b6715feeac1b4]
 
 In rule 66(4) for the words “specified in” there are substituted the words “to whom notice of suspension was sent or delivered under”.
 
-## 22. Conviction to become conclusive[^key-d27379f19c30e4cbff5b16c31f2e8cde][^key-3cb20a3558741503107985b53db5b9b4]
+## 22. Conviction to become conclusive[^c-d27379f19c30e4cbff5b16c31f2e8cde][^c-3cb20a3558741503107985b53db5b9b4]
 
 (1) Rule 67 is amended as follows.
 
@@ -302,7 +302,7 @@ In rule 66(4) for the words “specified in” there are substituted the words �
 
 (3) The words “and the court has sent to the bishop the certificate of conviction in the form used by the court for that purpose” are omitted.
 
-## 23. Application to extend two year period to impose penalty under section 30[^key-f66eb19ff541c4114c7bbe8c1284b84c][^key-4f4d0a80981431347488931f4d6054b1]
+## 23. Application to extend two year period to impose penalty under section 30[^c-f66eb19ff541c4114c7bbe8c1284b84c][^c-4f4d0a80981431347488931f4d6054b1]
 
 After rule 67 there is inserted the following rule—
 
@@ -322,7 +322,7 @@ After rule 67 there is inserted the following rule—
 
 .
 
-## 24. Bishop proposes a penalty after sentence of imprisonment or matrimonial order, etc.[^key-13a51ff1981a4c3c30262d1308b738c7][^key-88f8771b3c8e0d1839265963f9cdb5a3]
+## 24. Bishop proposes a penalty after sentence of imprisonment or matrimonial order, etc.[^c-13a51ff1981a4c3c30262d1308b738c7][^c-88f8771b3c8e0d1839265963f9cdb5a3]
 
 (1) Rule 68 is amended as follows.
 
@@ -338,11 +338,11 @@ After rule 67 there is inserted the following rule—
 
 (5) In paragraph (b) for the word “proposal” there are substituted the words “proposed penalty”.
 
-## 25. Inclusion of name in list under section 38(1)(a) to (dd) of the Measure[^key-2c40aed02484c2d04040a72b213bdf4e][^key-26ec79cf024fdc23e7373d2b78cb863e]
+## 25. Inclusion of name in list under section 38(1)(a) to (dd) of the Measure[^c-2c40aed02484c2d04040a72b213bdf4e][^c-26ec79cf024fdc23e7373d2b78cb863e]
 
 In rule 75(1) and in the heading to rule 75 for the letter “(d)” there is substituted “(dd)”.
 
-## 26. Review of an entry in the list – (a), (b), (c) & (dd)[^key-446e90a0b448e251a13a20dec27575c4][^key-b27b77043325aa07d49a28fc3cad0ad9]
+## 26. Review of an entry in the list – (a), (b), (c) & (dd)[^c-446e90a0b448e251a13a20dec27575c4][^c-b27b77043325aa07d49a28fc3cad0ad9]
 
 (1) Rule 77 is amended as follows.
 
@@ -354,7 +354,7 @@ In rule 75(1) and in the heading to rule 75 for the letter “(d)” there is su
 
 .
 
-## 27. Notice of suspension of a bishop or archbishop[^key-399670690c7e0692eb43ac68b7e3b78f][^key-3693bc050d1a2c9a667c8bdbfc9022b7]
+## 27. Notice of suspension of a bishop or archbishop[^c-399670690c7e0692eb43ac68b7e3b78f][^c-3693bc050d1a2c9a667c8bdbfc9022b7]
 
 After rule 86 there are inserted the following rules—
 
@@ -380,7 +380,7 @@ After rule 86 there are inserted the following rules—
 
 .
 
-## 28. Applications etc. to the President[^key-fa253027c443ae29e66bec6cb88f1f68][^key-0ac9fa2c41e051641b2deb35fe2a27b9]
+## 28. Applications etc. to the President[^c-fa253027c443ae29e66bec6cb88f1f68][^c-0ac9fa2c41e051641b2deb35fe2a27b9]
 
 After rule 102 the following rule is inserted—
 
@@ -398,11 +398,11 @@ After rule 102 the following rule is inserted—
 
 .
 
-## 29. Interpretation[^key-178903f10be982a5bee3b779a0bbaf05][^key-04565f22c7d81f096dd6a9fb27c8d913]
+## 29. Interpretation[^c-178903f10be982a5bee3b779a0bbaf05][^c-04565f22c7d81f096dd6a9fb27c8d913]
 
 In rule 106 in the definition of “President” after the words “President of Tribunals” there are added the words “or the Deputy President of Tribunals, as the case may be, or a person appointed to act in his or her place”.
 
-## 30. Amendments to forms 1a, 1d, and 1e[^key-76cfb58be59e1fed7847941e3efa57de][^key-90ebb5878117be69ad988d471cf4aaff]
+## 30. Amendments to forms 1a, 1d, and 1e[^c-76cfb58be59e1fed7847941e3efa57de][^c-90ebb5878117be69ad988d471cf4aaff]
 
 (1) Forms 1a, 1d and 1e in the Schedule to the Clergy Discipline Rules 2005 are each amended as follows.
 
@@ -428,7 +428,7 @@ In rule 106 in the definition of “President” after the words “President of
 
 .
 
-## 31. Amendments to forms 1b, 1f, and 1g[^key-e9945d76a808c2500eaa2bca9831b1fb][^key-7ecdee57298b07a64a20035d8be78d2a]
+## 31. Amendments to forms 1b, 1f, and 1g[^c-e9945d76a808c2500eaa2bca9831b1fb][^c-7ecdee57298b07a64a20035d8be78d2a]
 
 (1) Forms 1b, 1f and 1g in the Schedule to the Clergy Discipline Rules 2005 are each amended as follows.
 
@@ -456,7 +456,7 @@ In rule 106 in the definition of “President” after the words “President of
 
 .
 
-## 32. Amendments to form 1c[^key-b31c1e101f5be01599e9e8afe172fb74][^key-ee0c8c5908880b4977260b4cbdcc9788]
+## 32. Amendments to form 1c[^c-b31c1e101f5be01599e9e8afe172fb74][^c-ee0c8c5908880b4977260b4cbdcc9788]
 
 (1) Form 1c in the Schedule to the Clergy Discipline Rules 2005 is amended as follows.
 
@@ -489,7 +489,7 @@ and in the left hand margin there is inserted the following note—
 
 .
 
-## 33. Amendments to form 3[^key-0b9f170dca1e558dc237b0d689061d87][^key-e519456f125560726096775eeaa16d25]
+## 33. Amendments to form 3[^c-0b9f170dca1e558dc237b0d689061d87][^c-e519456f125560726096775eeaa16d25]
 
 In form 3 in the Schedule to the Clergy Discipline Rules 2005 after the words “My e-mail address is:………………………….” there is inserted a tick box and the words—
 
@@ -505,22 +505,22 @@ and in the left hand margin there is inserted the following note—
 
 .
 
-## 34. Amendments to forms 4 and 5[^key-5edaca262abea7a8b953044056e43592][^key-8fe3b1d5408e8abbdf44f78f8ec30781]
+## 34. Amendments to forms 4 and 5[^c-5edaca262abea7a8b953044056e43592][^c-8fe3b1d5408e8abbdf44f78f8ec30781]
 
 Forms 4 and 5 in the Schedule to the Clergy Discipline Rules 2005 are each amended by omitting—
 
 - (a) the section that begins “My contact address,” and ends “\*\*My e-mail address is:………………………….”, and
 - (b) in the left-hand margin the words “*\*\*Telephone & e-mail details are optional, but it could be helpful to the President to have them.*”.
 
-## 35. Amendments to forms 12a, 12b, 13a and 13b[^key-404c37a5744336942f016621776e3ffc][^key-cdcb59c8d3656a975fa7ec70233c47bb]
+## 35. Amendments to forms 12a, 12b, 13a and 13b[^c-404c37a5744336942f016621776e3ffc][^c-cdcb59c8d3656a975fa7ec70233c47bb]
 
 In forms 12a, 12b, 13a and 13b in the Schedule to the Clergy Discipline Rules 2005 for the words “within 14 days from when the suspension takes effect.” there are substituted in each form the words “Church House, Great Smith Street, London SW1P 3AZ, within 14 days of receipt by you of this notice. At the same time you should send a copy of any appeal to me.”.
 
-## 36. Forms 14a, 14b, 15a and 15b[^key-3c9ebf91d01e5736c16dc026f992f6c9][^key-3e27fefa194fbb0a2caa97156a971d61]
+## 36. Forms 14a, 14b, 15a and 15b[^c-3c9ebf91d01e5736c16dc026f992f6c9][^c-3e27fefa194fbb0a2caa97156a971d61]
 
 After form 13b in the Schedule to the Clergy Discipline Rules 2005 there are added forms 14a, 14b, 15a and 15b set out in the Schedule to these rules.
 
-## 37. Citation and commencement[^key-d78a677f77a65007958f6588d8ca4ce5][^key-686509513a355dfca975c355150af414]
+## 37. Citation and commencement[^c-d78a677f77a65007958f6588d8ca4ce5][^c-686509513a355dfca975c355150af414]
 
 (1) These rules shall be known as the Clergy Discipline (Amendment) Rules 2013.
 
@@ -562,7 +562,7 @@ Clerk to the Synod
 
 5th July 2013
 
-## SCHEDULE — FORMS[^key-b098c328b5234d251f3209dd2891392e][^key-664aed4e1da4cd9e0133d6090ef41349]
+## SCHEDULE — FORMS[^c-b098c328b5234d251f3209dd2891392e][^c-664aed4e1da4cd9e0133d6090ef41349]
 
 Rule 36
 
@@ -580,154 +580,154 @@ These rules are made pursuant to section 26 of the Care of Churches and Ecclesia
 
 [^f00002]: Footnote: [2003 No.3](https://www.legislation.gov.uk/ukcm/2003/3).
 
-[^key-e15fe60b0662b6541309552d7c6fd56f]: Commencement: Rule 1 not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
+[^c-e15fe60b0662b6541309552d7c6fd56f]: Commencement: Rule 1 not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
 
-[^key-5d447dc150b8a32ba3444b94bb7dbd6f]: Commencement: [Rule 1](https://www.legislation.gov.uk/uksi/2013/1917/rule/1) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)
+[^c-5d447dc150b8a32ba3444b94bb7dbd6f]: Commencement: [Rule 1](https://www.legislation.gov.uk/uksi/2013/1917/rule/1) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)
 
-[^key-fd4bcb95a7f907c426da27f536c2ead7]: Commencement: Rule 2 not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
+[^c-fd4bcb95a7f907c426da27f536c2ead7]: Commencement: Rule 2 not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
 
-[^key-bf238273d7f368349097a2ab56825665]: Commencement: [Rule 2](https://www.legislation.gov.uk/uksi/2013/1917/rule/2) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)
+[^c-bf238273d7f368349097a2ab56825665]: Commencement: [Rule 2](https://www.legislation.gov.uk/uksi/2013/1917/rule/2) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)
 
-[^key-7557b0eca9a41c0500b7b82b97b7ec90]: Commencement: Rule 3 not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
+[^c-7557b0eca9a41c0500b7b82b97b7ec90]: Commencement: Rule 3 not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
 
-[^key-3ef5847684b5119d82fec335ed28baca]: Commencement: [Rule 3](https://www.legislation.gov.uk/uksi/2013/1917/rule/3) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)
+[^c-3ef5847684b5119d82fec335ed28baca]: Commencement: [Rule 3](https://www.legislation.gov.uk/uksi/2013/1917/rule/3) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)
 
-[^key-e98bb43e2c595525ed82f06d2dae12c3]: Commencement: Rule 4 not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
+[^c-e98bb43e2c595525ed82f06d2dae12c3]: Commencement: Rule 4 not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
 
-[^key-c4a315c6cea402f52e9e772e046fd70b]: Commencement: [Rule 4](https://www.legislation.gov.uk/uksi/2013/1917/rule/4) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)
+[^c-c4a315c6cea402f52e9e772e046fd70b]: Commencement: [Rule 4](https://www.legislation.gov.uk/uksi/2013/1917/rule/4) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)
 
-[^key-d7acae0399eed273401053cc45a82e8b]: Commencement: Rule 5 not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
+[^c-d7acae0399eed273401053cc45a82e8b]: Commencement: Rule 5 not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
 
-[^key-eb65fc96e08714b238c5af969554b278]: Commencement: [Rule 5](https://www.legislation.gov.uk/uksi/2013/1917/rule/5) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)
+[^c-eb65fc96e08714b238c5af969554b278]: Commencement: [Rule 5](https://www.legislation.gov.uk/uksi/2013/1917/rule/5) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)
 
-[^key-f2df7e037e21b80ffb0733594155407a]: Commencement: Rule 6 not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
+[^c-f2df7e037e21b80ffb0733594155407a]: Commencement: Rule 6 not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
 
-[^key-95c3e173eba29d01559ea3ee444cb6db]: Commencement: [Rule 6](https://www.legislation.gov.uk/uksi/2013/1917/rule/6) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)
+[^c-95c3e173eba29d01559ea3ee444cb6db]: Commencement: [Rule 6](https://www.legislation.gov.uk/uksi/2013/1917/rule/6) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)
 
-[^key-524f10e19d55d0a4b25f967ee9d6d071]: Commencement: Rule 7 not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
+[^c-524f10e19d55d0a4b25f967ee9d6d071]: Commencement: Rule 7 not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
 
-[^key-c65a8b6f82a95a36ed61d660ad859d17]: Commencement: [Rule 7](https://www.legislation.gov.uk/uksi/2013/1917/rule/7) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)
+[^c-c65a8b6f82a95a36ed61d660ad859d17]: Commencement: [Rule 7](https://www.legislation.gov.uk/uksi/2013/1917/rule/7) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)
 
-[^key-0f1d49af16484401cb1975ff906b4a05]: Commencement: Rule 8 not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
+[^c-0f1d49af16484401cb1975ff906b4a05]: Commencement: Rule 8 not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
 
-[^key-2d335909e29832b639a9ce69cc511f4d]: Commencement: [Rule 8](https://www.legislation.gov.uk/uksi/2013/1917/rule/8) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)
+[^c-2d335909e29832b639a9ce69cc511f4d]: Commencement: [Rule 8](https://www.legislation.gov.uk/uksi/2013/1917/rule/8) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)
 
-[^key-e3347b60e670ce5347ae644549be90f7]: Commencement: Rule 9 not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
+[^c-e3347b60e670ce5347ae644549be90f7]: Commencement: Rule 9 not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
 
-[^key-3bf1d1f8df3705b6bdd7880e0b0083f0]: Commencement: [Rule 9](https://www.legislation.gov.uk/uksi/2013/1917/rule/9) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)
+[^c-3bf1d1f8df3705b6bdd7880e0b0083f0]: Commencement: [Rule 9](https://www.legislation.gov.uk/uksi/2013/1917/rule/9) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)
 
-[^key-58422df975a1b69d8613f7d8f7ecd8bc]: Commencement: Rule 10 not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
+[^c-58422df975a1b69d8613f7d8f7ecd8bc]: Commencement: Rule 10 not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
 
-[^key-49d7c7db23239a9948adb8e2480d53ab]: Commencement: [Rule 10](https://www.legislation.gov.uk/uksi/2013/1917/rule/10) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)
+[^c-49d7c7db23239a9948adb8e2480d53ab]: Commencement: [Rule 10](https://www.legislation.gov.uk/uksi/2013/1917/rule/10) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)
 
-[^key-7cef4327d3428211665b971f1bc55c64]: Commencement: Rule 11 not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
+[^c-7cef4327d3428211665b971f1bc55c64]: Commencement: Rule 11 not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
 
-[^key-da5e0d643bdf89f17037ff0ba482a259]: Commencement: [Rule 11](https://www.legislation.gov.uk/uksi/2013/1917/rule/11) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)
+[^c-da5e0d643bdf89f17037ff0ba482a259]: Commencement: [Rule 11](https://www.legislation.gov.uk/uksi/2013/1917/rule/11) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)
 
-[^key-bbb327d3f1a15ed1a7e3733b186b8bda]: Commencement: Rule 12 not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
+[^c-bbb327d3f1a15ed1a7e3733b186b8bda]: Commencement: Rule 12 not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
 
-[^key-23fcd679642f5d26f607eedbdfd31e6a]: Commencement: [Rule 12](https://www.legislation.gov.uk/uksi/2013/1917/rule/12) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)
+[^c-23fcd679642f5d26f607eedbdfd31e6a]: Commencement: [Rule 12](https://www.legislation.gov.uk/uksi/2013/1917/rule/12) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)
 
-[^key-c23e40794ee1b60f73e41271b61c5853]: Commencement: Rule 13 not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
+[^c-c23e40794ee1b60f73e41271b61c5853]: Commencement: Rule 13 not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
 
-[^key-bc69448103ba646197472b31766c6fa7]: Commencement: [Rule 13](https://www.legislation.gov.uk/uksi/2013/1917/rule/13) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)
+[^c-bc69448103ba646197472b31766c6fa7]: Commencement: [Rule 13](https://www.legislation.gov.uk/uksi/2013/1917/rule/13) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)
 
-[^key-7c16f27ac80ba3c54321ae115d93aab3]: Commencement: Rule 14 not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
+[^c-7c16f27ac80ba3c54321ae115d93aab3]: Commencement: Rule 14 not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
 
-[^key-2a585062c252bfe8a2c46ebffcb84607]: Commencement: [Rule 14](https://www.legislation.gov.uk/uksi/2013/1917/rule/14) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)
+[^c-2a585062c252bfe8a2c46ebffcb84607]: Commencement: [Rule 14](https://www.legislation.gov.uk/uksi/2013/1917/rule/14) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)
 
-[^key-e0d259307b00426f5bb1d07651fb1e76]: Commencement: Rule 15 not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
+[^c-e0d259307b00426f5bb1d07651fb1e76]: Commencement: Rule 15 not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
 
-[^key-925e66ace085c960cf2034ba60baece9]: Commencement: [Rule 15](https://www.legislation.gov.uk/uksi/2013/1917/rule/15) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)
+[^c-925e66ace085c960cf2034ba60baece9]: Commencement: [Rule 15](https://www.legislation.gov.uk/uksi/2013/1917/rule/15) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)
 
-[^key-2cb381e984df94d0a974814782fafabe]: Commencement: Rule 16 not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
+[^c-2cb381e984df94d0a974814782fafabe]: Commencement: Rule 16 not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
 
-[^key-f82b46275166a94cdc93ec76b2516a45]: Commencement: [Rule 16](https://www.legislation.gov.uk/uksi/2013/1917/rule/16) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)
+[^c-f82b46275166a94cdc93ec76b2516a45]: Commencement: [Rule 16](https://www.legislation.gov.uk/uksi/2013/1917/rule/16) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)
 
-[^key-686c41d718d4b61b1b7ade6ddebadf9d]: Commencement: Rule 17 not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
+[^c-686c41d718d4b61b1b7ade6ddebadf9d]: Commencement: Rule 17 not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
 
-[^key-d36bb4663859210af2f1cd5b70f23f7b]: Commencement: [Rule 17](https://www.legislation.gov.uk/uksi/2013/1917/rule/17) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)
+[^c-d36bb4663859210af2f1cd5b70f23f7b]: Commencement: [Rule 17](https://www.legislation.gov.uk/uksi/2013/1917/rule/17) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)
 
-[^key-63858c583dc6e6c3082971aba2a29fcd]: Commencement: Rule 18 not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
+[^c-63858c583dc6e6c3082971aba2a29fcd]: Commencement: Rule 18 not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
 
-[^key-5377a37fedfdc56f7510a7301b44da4c]: Commencement: [Rule 18](https://www.legislation.gov.uk/uksi/2013/1917/rule/18) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)
+[^c-5377a37fedfdc56f7510a7301b44da4c]: Commencement: [Rule 18](https://www.legislation.gov.uk/uksi/2013/1917/rule/18) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)
 
-[^key-dec14e29a32971b154d85583a243fb10]: Commencement: Rule 19 not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
+[^c-dec14e29a32971b154d85583a243fb10]: Commencement: Rule 19 not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
 
-[^key-47370a44dffe4d3999f327b931626116]: Commencement: [Rule 19](https://www.legislation.gov.uk/uksi/2013/1917/rule/19) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)
+[^c-47370a44dffe4d3999f327b931626116]: Commencement: [Rule 19](https://www.legislation.gov.uk/uksi/2013/1917/rule/19) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)
 
-[^key-8d20aed312bf86b6f4c001647ea4b194]: Commencement: Rule 20 not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
+[^c-8d20aed312bf86b6f4c001647ea4b194]: Commencement: Rule 20 not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
 
-[^key-334402fd7d0c5ac2bee15f274ec9e8fd]: Commencement: [Rule 20](https://www.legislation.gov.uk/uksi/2013/1917/rule/20) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)
+[^c-334402fd7d0c5ac2bee15f274ec9e8fd]: Commencement: [Rule 20](https://www.legislation.gov.uk/uksi/2013/1917/rule/20) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)
 
-[^key-77073399a29a6b943066f092f0ee1c6d]: Commencement: Rule 21 not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
+[^c-77073399a29a6b943066f092f0ee1c6d]: Commencement: Rule 21 not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
 
-[^key-01cdc5c3a7989418ed7b6715feeac1b4]: Commencement: [Rule 21](https://www.legislation.gov.uk/uksi/2013/1917/rule/21) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)
+[^c-01cdc5c3a7989418ed7b6715feeac1b4]: Commencement: [Rule 21](https://www.legislation.gov.uk/uksi/2013/1917/rule/21) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)
 
-[^key-d27379f19c30e4cbff5b16c31f2e8cde]: Commencement: Rule 22 not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
+[^c-d27379f19c30e4cbff5b16c31f2e8cde]: Commencement: Rule 22 not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
 
-[^key-3cb20a3558741503107985b53db5b9b4]: Commencement: [Rule 22](https://www.legislation.gov.uk/uksi/2013/1917/rule/22) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)
+[^c-3cb20a3558741503107985b53db5b9b4]: Commencement: [Rule 22](https://www.legislation.gov.uk/uksi/2013/1917/rule/22) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)
 
-[^key-f66eb19ff541c4114c7bbe8c1284b84c]: Commencement: Rule 23 not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
+[^c-f66eb19ff541c4114c7bbe8c1284b84c]: Commencement: Rule 23 not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
 
-[^key-4f4d0a80981431347488931f4d6054b1]: Commencement: [Rule 23](https://www.legislation.gov.uk/uksi/2013/1917/rule/23) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)
+[^c-4f4d0a80981431347488931f4d6054b1]: Commencement: [Rule 23](https://www.legislation.gov.uk/uksi/2013/1917/rule/23) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)
 
-[^key-13a51ff1981a4c3c30262d1308b738c7]: Commencement: Rule 24 not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
+[^c-13a51ff1981a4c3c30262d1308b738c7]: Commencement: Rule 24 not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
 
-[^key-88f8771b3c8e0d1839265963f9cdb5a3]: Commencement: [Rule 24](https://www.legislation.gov.uk/uksi/2013/1917/rule/24) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)
+[^c-88f8771b3c8e0d1839265963f9cdb5a3]: Commencement: [Rule 24](https://www.legislation.gov.uk/uksi/2013/1917/rule/24) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)
 
-[^key-2c40aed02484c2d04040a72b213bdf4e]: Commencement: Rule 25 not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
+[^c-2c40aed02484c2d04040a72b213bdf4e]: Commencement: Rule 25 not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
 
-[^key-26ec79cf024fdc23e7373d2b78cb863e]: Commencement: [Rule 25](https://www.legislation.gov.uk/uksi/2013/1917/rule/25) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)
+[^c-26ec79cf024fdc23e7373d2b78cb863e]: Commencement: [Rule 25](https://www.legislation.gov.uk/uksi/2013/1917/rule/25) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)
 
-[^key-446e90a0b448e251a13a20dec27575c4]: Commencement: Rule 26 not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
+[^c-446e90a0b448e251a13a20dec27575c4]: Commencement: Rule 26 not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
 
-[^key-b27b77043325aa07d49a28fc3cad0ad9]: Commencement: [Rule 26](https://www.legislation.gov.uk/uksi/2013/1917/rule/26) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)
+[^c-b27b77043325aa07d49a28fc3cad0ad9]: Commencement: [Rule 26](https://www.legislation.gov.uk/uksi/2013/1917/rule/26) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)
 
-[^key-399670690c7e0692eb43ac68b7e3b78f]: Commencement: Rule 27 not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
+[^c-399670690c7e0692eb43ac68b7e3b78f]: Commencement: Rule 27 not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
 
-[^key-3693bc050d1a2c9a667c8bdbfc9022b7]: Commencement: [Rule 27](https://www.legislation.gov.uk/uksi/2013/1917/rule/27) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)
+[^c-3693bc050d1a2c9a667c8bdbfc9022b7]: Commencement: [Rule 27](https://www.legislation.gov.uk/uksi/2013/1917/rule/27) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)
 
-[^key-fa253027c443ae29e66bec6cb88f1f68]: Commencement: Rule 28 not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
+[^c-fa253027c443ae29e66bec6cb88f1f68]: Commencement: Rule 28 not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
 
-[^key-0ac9fa2c41e051641b2deb35fe2a27b9]: Commencement: [Rule 28](https://www.legislation.gov.uk/uksi/2013/1917/rule/28) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)
+[^c-0ac9fa2c41e051641b2deb35fe2a27b9]: Commencement: [Rule 28](https://www.legislation.gov.uk/uksi/2013/1917/rule/28) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)
 
-[^key-178903f10be982a5bee3b779a0bbaf05]: Commencement: Rule 29 not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
+[^c-178903f10be982a5bee3b779a0bbaf05]: Commencement: Rule 29 not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
 
-[^key-04565f22c7d81f096dd6a9fb27c8d913]: Commencement: [Rule 29](https://www.legislation.gov.uk/uksi/2013/1917/rule/29) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)
+[^c-04565f22c7d81f096dd6a9fb27c8d913]: Commencement: [Rule 29](https://www.legislation.gov.uk/uksi/2013/1917/rule/29) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)
 
-[^key-76cfb58be59e1fed7847941e3efa57de]: Commencement: Rule 30 not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
+[^c-76cfb58be59e1fed7847941e3efa57de]: Commencement: Rule 30 not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
 
-[^key-90ebb5878117be69ad988d471cf4aaff]: Commencement: [Rule 30](https://www.legislation.gov.uk/uksi/2013/1917/rule/30) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)
+[^c-90ebb5878117be69ad988d471cf4aaff]: Commencement: [Rule 30](https://www.legislation.gov.uk/uksi/2013/1917/rule/30) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)
 
-[^key-e9945d76a808c2500eaa2bca9831b1fb]: Commencement: Rule 31 not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
+[^c-e9945d76a808c2500eaa2bca9831b1fb]: Commencement: Rule 31 not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
 
-[^key-7ecdee57298b07a64a20035d8be78d2a]: Commencement: [Rule 31](https://www.legislation.gov.uk/uksi/2013/1917/rule/31) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)
+[^c-7ecdee57298b07a64a20035d8be78d2a]: Commencement: [Rule 31](https://www.legislation.gov.uk/uksi/2013/1917/rule/31) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)
 
-[^key-b31c1e101f5be01599e9e8afe172fb74]: Commencement: Rule 32 not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
+[^c-b31c1e101f5be01599e9e8afe172fb74]: Commencement: Rule 32 not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
 
-[^key-ee0c8c5908880b4977260b4cbdcc9788]: Commencement: [Rule 32](https://www.legislation.gov.uk/uksi/2013/1917/rule/32) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)
+[^c-ee0c8c5908880b4977260b4cbdcc9788]: Commencement: [Rule 32](https://www.legislation.gov.uk/uksi/2013/1917/rule/32) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)
 
-[^key-0b9f170dca1e558dc237b0d689061d87]: Commencement: Rule 33 not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
+[^c-0b9f170dca1e558dc237b0d689061d87]: Commencement: Rule 33 not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
 
-[^key-e519456f125560726096775eeaa16d25]: Commencement: [Rule 33](https://www.legislation.gov.uk/uksi/2013/1917/rule/33) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)
+[^c-e519456f125560726096775eeaa16d25]: Commencement: [Rule 33](https://www.legislation.gov.uk/uksi/2013/1917/rule/33) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)
 
-[^key-5edaca262abea7a8b953044056e43592]: Commencement: Rule 34 not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
+[^c-5edaca262abea7a8b953044056e43592]: Commencement: Rule 34 not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
 
-[^key-8fe3b1d5408e8abbdf44f78f8ec30781]: Commencement: [Rule 34](https://www.legislation.gov.uk/uksi/2013/1917/rule/34) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)
+[^c-8fe3b1d5408e8abbdf44f78f8ec30781]: Commencement: [Rule 34](https://www.legislation.gov.uk/uksi/2013/1917/rule/34) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)
 
-[^key-404c37a5744336942f016621776e3ffc]: Commencement: Rule 35 not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
+[^c-404c37a5744336942f016621776e3ffc]: Commencement: Rule 35 not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
 
-[^key-cdcb59c8d3656a975fa7ec70233c47bb]: Commencement: [Rule 35](https://www.legislation.gov.uk/uksi/2013/1917/rule/35) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)
+[^c-cdcb59c8d3656a975fa7ec70233c47bb]: Commencement: [Rule 35](https://www.legislation.gov.uk/uksi/2013/1917/rule/35) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)
 
-[^key-3c9ebf91d01e5736c16dc026f992f6c9]: Commencement: Rule 36 not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
+[^c-3c9ebf91d01e5736c16dc026f992f6c9]: Commencement: Rule 36 not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
 
-[^key-3e27fefa194fbb0a2caa97156a971d61]: Commencement: [Rule 36](https://www.legislation.gov.uk/uksi/2013/1917/rule/36) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)
+[^c-3e27fefa194fbb0a2caa97156a971d61]: Commencement: [Rule 36](https://www.legislation.gov.uk/uksi/2013/1917/rule/36) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)
 
-[^key-d78a677f77a65007958f6588d8ca4ce5]: Commencement: Rule 37 not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
+[^c-d78a677f77a65007958f6588d8ca4ce5]: Commencement: Rule 37 not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
 
-[^key-686509513a355dfca975c355150af414]: Commencement: [Rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)
+[^c-686509513a355dfca975c355150af414]: Commencement: [Rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)
 
-[^key-b098c328b5234d251f3209dd2891392e]: Commencement: Sch. not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
+[^c-b098c328b5234d251f3209dd2891392e]: Commencement: Sch. not in force at made date, see [rule 37](https://www.legislation.gov.uk/uksi/2013/1917/rule/37)
 
-[^key-664aed4e1da4cd9e0133d6090ef41349]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2013/1917/schedule) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)
+[^c-664aed4e1da4cd9e0133d6090ef41349]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2013/1917/schedule) in force at 1.2.2014 by [2014 No. 2](https://www.legislation.gov.uk/ukci/2014/2), [art. 2](https://www.legislation.gov.uk/ukci/2014/2/article/2)

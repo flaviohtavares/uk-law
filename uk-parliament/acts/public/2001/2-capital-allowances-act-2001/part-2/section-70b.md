@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70B. Long funding operating lease: amount of capital expenditure[^key-1dfc5aa0249178ecbf946313acb2db3c]
+## 70B. Long funding operating lease: amount of capital expenditure[^c-1dfc5aa0249178ecbf946313acb2db3c]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1dfc5aa0249178ecbf946313acb2db3c]: Textual amendment: Ss. 70A-70E and cross-heading inserted (with effect in accordance with Sch. 8 para. 15 of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 8 para. 6](https://www.legislation.gov.uk/ukpga/2006/25/schedule/8/paragraph/6)
+[^c-1dfc5aa0249178ecbf946313acb2db3c]: Textual amendment: Ss. 70A-70E and cross-heading inserted (with effect in accordance with Sch. 8 para. 15 of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 8 para. 6](https://www.legislation.gov.uk/ukpga/2006/25/schedule/8/paragraph/6)

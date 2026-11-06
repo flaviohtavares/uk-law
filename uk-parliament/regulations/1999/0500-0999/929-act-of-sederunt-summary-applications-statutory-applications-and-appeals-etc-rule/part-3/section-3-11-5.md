@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.11.5. Security by deposit[^key-18e6416d95af6907007c95de83dfc1ac]
+## 3.11.5. Security by deposit[^c-18e6416d95af6907007c95de83dfc1ac]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-18e6416d95af6907007c95de83dfc1ac]: Commencement: Rule 3.11.5 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-18e6416d95af6907007c95de83dfc1ac]: Commencement: Rule 3.11.5 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)

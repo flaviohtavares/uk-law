@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 188. Agreement to extend notice period for possession following notice to treat[^key-80d4bc34dd4eae055be005d3acb2a774]
+## 188. Agreement to extend notice period for possession following notice to treat[^c-80d4bc34dd4eae055be005d3acb2a774]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ In section 11 of the Compulsory Purchase Act 1965 (powers of entry), after subse
 
 ## Annotations
 
-[^key-80d4bc34dd4eae055be005d3acb2a774]: Commencement: [S. 188](https://www.legislation.gov.uk/ukpga/2016/22/section/188) in force at 3.2.2017 by [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2017/75/regulation/3/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2017/75/regulation/5))
+[^c-80d4bc34dd4eae055be005d3acb2a774]: Commencement: [S. 188](https://www.legislation.gov.uk/ukpga/2016/22/section/188) in force at 3.2.2017 by [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2017/75/regulation/3/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2017/75/regulation/5))

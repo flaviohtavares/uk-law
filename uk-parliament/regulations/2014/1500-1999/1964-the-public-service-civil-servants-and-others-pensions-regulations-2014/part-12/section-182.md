@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 182. Transitional provisions[^key-9c969537e8168ae72ab46dcde82c5fa0]
+## 182. Transitional provisions[^c-9c969537e8168ae72ab46dcde82c5fa0]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 2 has effect.
 
 ## Annotations
 
-[^key-9c969537e8168ae72ab46dcde82c5fa0]: Commencement: Reg. 182 in force at 15.8.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/2)
+[^c-9c969537e8168ae72ab46dcde82c5fa0]: Commencement: Reg. 182 in force at 15.8.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 204. Application for payment of a club transfer value[^key-9c6147cf349e0f702f67675f185610c9]
+## 204. Application for payment of a club transfer value[^c-9c6147cf349e0f702f67675f185610c9]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9c6147cf349e0f702f67675f185610c9]: Commencement: [Reg. 204](https://www.legislation.gov.uk/ssi/2014/292/regulation/204) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-9c6147cf349e0f702f67675f185610c9]: Commencement: [Reg. 204](https://www.legislation.gov.uk/ssi/2014/292/regulation/204) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

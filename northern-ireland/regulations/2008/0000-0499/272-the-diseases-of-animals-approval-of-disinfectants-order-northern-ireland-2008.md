@@ -43,11 +43,11 @@ Coming into operation
 
 The Department of Agriculture and Rural Development[^f00001], in exercise of the powers conferred on it by Articles 5, 19 and 60(1) of the Diseases of Animals (Northern Ireland) Order 1981[^f00002], makes the following Order:
 
-## 1. Citation and commencement[^key-b95b0d9c74e9b6421500815b0d7e3139]
+## 1. Citation and commencement[^c-b95b0d9c74e9b6421500815b0d7e3139]
 
 This Order may be cited as the Diseases of Animals (Approval of Disinfectants) Order (Northern Ireland) 2008 and comes into operation on 28th July 2008.
 
-## 2. Interpretation[^key-0968e41c0f58b6c71aeb84952bc9fdfb]
+## 2. Interpretation[^c-0968e41c0f58b6c71aeb84952bc9fdfb]
 
 (1) In this Order—
 
@@ -66,20 +66,20 @@ This Order may be cited as the Diseases of Animals (Approval of Disinfectants) O
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00004] shall apply to this Order as it applies to an Act of the Assembly.
 
-## 3. Approvals[^key-6b68cc11fa56c32944e4c155189cb2aa]
+## 3. Approvals[^c-6b68cc11fa56c32944e4c155189cb2aa]
 
 (1) The Department may approve a disinfectant for the purposes of any general order or one or more special disease orders.
 
 (2) Any approval under this Order or any renewal, amendment, suspension or revocation of an approval shall be in writing.
 
-## 4. Approval of disinfectants[^key-0b064cd367ef7607997b71e194ba9845]
+## 4. Approval of disinfectants[^c-0b064cd367ef7607997b71e194ba9845]
 
 (1) The manufacturer of a disinfectant may apply to the Department for the approval of that disinfectant for use in cases where an Order under the 1981 Order specifies that an approved disinfectant shall be used.
 
 (2) The Department may approve a disinfectant only if it is satisfied—
 
 - (a) as to its efficacy and quality; and
-- (b) that it is authorised for use in Great Britain in accordance with Regulation ([^key-ba390f6a1788a251a59f2e74f2a53189]EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making available on the market and use of biocidal products , as last amended by Regulation (EU) No 334/2014[^key-7f8cc2b9c057e47dbd92eee6ace2f687] .
+- (b) that it is authorised for use in Great Britain in accordance with Regulation ([^c-ba390f6a1788a251a59f2e74f2a53189]EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making available on the market and use of biocidal products , as last amended by Regulation (EU) No 334/2014[^c-7f8cc2b9c057e47dbd92eee6ace2f687] .
 
 (3) The approval—
 
@@ -88,27 +88,27 @@ This Order may be cited as the Diseases of Animals (Approval of Disinfectants) O
 
 (4) The Department shall publish a list of approved disinfectants.
 
-## 5. Use of the disinfectant[^key-9a01d80f5a613fbfb24d44a265848633]
+## 5. Use of the disinfectant[^c-9a01d80f5a613fbfb24d44a265848633]
 
 An approved disinfectant may only be used in accordance with the conditions of its approval or as directed by an inspector.
 
-## 6. Duration of approval and renewal[^key-f0722a87f8d64f6cc27bceceb0b8d02d]
+## 6. Duration of approval and renewal[^c-f0722a87f8d64f6cc27bceceb0b8d02d]
 
 (1) An approval lasts for two years, and may be renewed within 3 months prior to its expiry.
 
 (2) If a renewal is applied for, the approval continues to be valid up to the date on which the applicant is notified of the decision to renew or to refuse to renew.
 
-## 7. Amendment, suspension and revocation of approvals[^key-f5f203b3acb61a17804fc956e8b6dbff]
+## 7. Amendment, suspension and revocation of approvals[^c-f5f203b3acb61a17804fc956e8b6dbff]
 
 (1) The Department may amend, suspend or revoke the approval or refuse to renew the approval if production of the disinfectant has ceased or if the disinfectant—
 
 - (a) is no longer efficacious or of suitable quality;
 - (b) does not comply with any condition of the approval; or
-- (c) does not comply with Regulation ([^key-21d77f594a3c3b3518b403bf0c412019]EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making available on the market and use of biocidal products , as last amended by Regulation (EU) No 334/2014[^key-45a2718828d6d2ee4ef71a0db5174baa] .
+- (c) does not comply with Regulation ([^c-21d77f594a3c3b3518b403bf0c412019]EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making available on the market and use of biocidal products , as last amended by Regulation (EU) No 334/2014[^c-45a2718828d6d2ee4ef71a0db5174baa] .
 
 (2) The Department may suspend an approval pending investigation of any disinfectant if it has reasonable grounds to suspect that any of the grounds in paragraph (1) apply.
 
-## 8. Representations to the Department[^key-874537d05537f3b543beee768d485537]
+## 8. Representations to the Department[^c-874537d05537f3b543beee768d485537]
 
 (1) A manufacturer may make representations against—
 
@@ -126,13 +126,13 @@ to a person appointed by the Department.
 
 (5) Unless the Department directs otherwise, the refusal to renew an approval or an amendment, suspension or revocation of an approval shall continue in force until it makes its final determination.
 
-## 9. Duties of manufacturers and suppliers in relation to amended, suspended or revoked approvals[^key-e5ac468414c3b267b88e9ae056b33d1e]
+## 9. Duties of manufacturers and suppliers in relation to amended, suspended or revoked approvals[^c-e5ac468414c3b267b88e9ae056b33d1e]
 
 (1) If the Department amends, suspends or revokes the approval of a disinfectant or refuses to renew an approval, the manufacturer, and any supplier who becomes aware of the fact, shall take all reasonable steps to notify every person in Northern Ireland to whom it has supplied the disinfectant in the previous 6 months.
 
 (2) Such notification shall be given within one month of the manufacturer or supplier becoming aware of the amendment, suspension or revocation of the approval, or the refusal to renew the approval.
 
-## 10. Placing disinfectant on the market[^key-7e317b8527835404abe04f059121e5a4]
+## 10. Placing disinfectant on the market[^c-7e317b8527835404abe04f059121e5a4]
 
 (1) A person shall not place on the market any disinfectant that is labelled or otherwise represented as an approved disinfectant if—
 
@@ -147,18 +147,18 @@ to a person appointed by the Department.
 - (b) the appropriate dilution rate; and
 - (c) a statement that the contents are of the quality and composition approved.
 
-## 11. Labelling[^key-b0aa9a9e57bf6b1168789d25c6b06a2e]
+## 11. Labelling[^c-b0aa9a9e57bf6b1168789d25c6b06a2e]
 
 A person shall not—
 
 - (a) falsely mark or cause or permit to be falsely marked any container of disinfectant with a label indicating that it is an approved disinfectant; or
 - (b) falsely mark or cause or permit to be falsely marked any container of an approved disinfectant with a statement that it is of the quality and composition approved.
 
-## 12. References to disinfectants in orders under the Diseases of Animals (Northern Ireland) Order 1981[^key-cd98a924d53de2b150412c452c36433c]
+## 12. References to disinfectants in orders under the Diseases of Animals (Northern Ireland) Order 1981[^c-cd98a924d53de2b150412c452c36433c]
 
 (1) Any reference in an order under the 1981 Order to a disinfectant approved under the Diseases of Animals (Approval of Disinfectants) (Northern Ireland) Order 1972[^f00006] is a reference to a disinfectant approved under this Order.
 
-## 13. Provision of information and samples[^key-98628f4797b80c25d526f79ee35910cd]
+## 13. Provision of information and samples[^c-98628f4797b80c25d526f79ee35910cd]
 
 (1) The Department may, at any time, require the manufacturer of a disinfectant for which approval is sought or granted, or any person in possession of such a disinfectant, to—
 
@@ -169,7 +169,7 @@ A person shall not—
 
 (3) At the request of the Department, the manufacturer shall provide his technical expertise to facilitate any analysis of the samples.
 
-## 14. Revocations[^key-22e313f2a835f13a7f72127f0567facc]
+## 14. Revocations[^c-22e313f2a835f13a7f72127f0567facc]
 
 The following are revoked—
 
@@ -207,47 +207,47 @@ Breach of the Order is an offence under Article 52 of the Diseases of Animals (N
 
 [^f00002]: Footnote: [S.I. 1981 No.1115 (N.I.22)](https://www.legislation.gov.uk/nisi/1981/1115), Articles 5 and 9 were amended by [S.I. 1984/702 (N.I.2)](https://www.legislation.gov.uk/nisi/1984/702) and Article 60(1) was amended by [S.I. 1994/1891 (N.I.6)](https://www.legislation.gov.uk/nisi/1994/1891)
 
-[^key-b95b0d9c74e9b6421500815b0d7e3139]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2008/272/article/1) in operation at 28.7.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/272/article/1)
+[^c-b95b0d9c74e9b6421500815b0d7e3139]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2008/272/article/1) in operation at 28.7.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/272/article/1)
 
-[^key-0968e41c0f58b6c71aeb84952bc9fdfb]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2008/272/article/2) in operation at 28.7.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/272/article/1)
+[^c-0968e41c0f58b6c71aeb84952bc9fdfb]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2008/272/article/2) in operation at 28.7.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/272/article/1)
 
 [^f00003]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68)
 
 [^f00004]: Footnote: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-6b68cc11fa56c32944e4c155189cb2aa]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2008/272/article/3) in operation at 28.7.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/272/article/1)
+[^c-6b68cc11fa56c32944e4c155189cb2aa]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2008/272/article/3) in operation at 28.7.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/272/article/1)
 
-[^key-0b064cd367ef7607997b71e194ba9845]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2008/272/article/4) in operation at 28.7.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/272/article/1)
+[^c-0b064cd367ef7607997b71e194ba9845]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2008/272/article/4) in operation at 28.7.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/272/article/1)
 
-[^key-ba390f6a1788a251a59f2e74f2a53189]: Textual amendment: Words in [art. 4(2)(b)](https://www.legislation.gov.uk/nisr/2008/272/article/4/2/b) substituted (1.9.2013) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations (Northern Ireland) 2013 (S.R. 2013/206)](https://www.legislation.gov.uk/nisr/2013/206), [regs. 2(1)](https://www.legislation.gov.uk/nisr/2013/206/regulation/2/1), [25](https://www.legislation.gov.uk/nisr/2013/206/regulation/25), [Sch. 4 para. 4(2)](https://www.legislation.gov.uk/nisr/2013/206/schedule/4/paragraph/4/2) (with [regs. 3](https://www.legislation.gov.uk/nisr/2013/206/regulation/3), [19](https://www.legislation.gov.uk/nisr/2013/206/regulation/19))
+[^c-ba390f6a1788a251a59f2e74f2a53189]: Textual amendment: Words in [art. 4(2)(b)](https://www.legislation.gov.uk/nisr/2008/272/article/4/2/b) substituted (1.9.2013) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations (Northern Ireland) 2013 (S.R. 2013/206)](https://www.legislation.gov.uk/nisr/2013/206), [regs. 2(1)](https://www.legislation.gov.uk/nisr/2013/206/regulation/2/1), [25](https://www.legislation.gov.uk/nisr/2013/206/regulation/25), [Sch. 4 para. 4(2)](https://www.legislation.gov.uk/nisr/2013/206/schedule/4/paragraph/4/2) (with [regs. 3](https://www.legislation.gov.uk/nisr/2013/206/regulation/3), [19](https://www.legislation.gov.uk/nisr/2013/206/regulation/19))
 
-[^key-7f8cc2b9c057e47dbd92eee6ace2f687]: Textual amendment: Words in [art. 4(2)(b)](https://www.legislation.gov.uk/nisr/2008/272/article/4/2/b) inserted (11.4.2019) by [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 3 para. 27](https://www.legislation.gov.uk/nisr/2019/82/schedule/3/paragraph/27)
+[^c-7f8cc2b9c057e47dbd92eee6ace2f687]: Textual amendment: Words in [art. 4(2)(b)](https://www.legislation.gov.uk/nisr/2008/272/article/4/2/b) inserted (11.4.2019) by [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 3 para. 27](https://www.legislation.gov.uk/nisr/2019/82/schedule/3/paragraph/27)
 
-[^key-9a01d80f5a613fbfb24d44a265848633]: Commencement: [Art. 5](https://www.legislation.gov.uk/nisr/2008/272/article/5) in operation at 28.7.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/272/article/1)
+[^c-9a01d80f5a613fbfb24d44a265848633]: Commencement: [Art. 5](https://www.legislation.gov.uk/nisr/2008/272/article/5) in operation at 28.7.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/272/article/1)
 
-[^key-f0722a87f8d64f6cc27bceceb0b8d02d]: Commencement: [Art. 6](https://www.legislation.gov.uk/nisr/2008/272/article/6) in operation at 28.7.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/272/article/1)
+[^c-f0722a87f8d64f6cc27bceceb0b8d02d]: Commencement: [Art. 6](https://www.legislation.gov.uk/nisr/2008/272/article/6) in operation at 28.7.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/272/article/1)
 
-[^key-f5f203b3acb61a17804fc956e8b6dbff]: Commencement: [Art. 7](https://www.legislation.gov.uk/nisr/2008/272/article/7) in operation at 28.7.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/272/article/1)
+[^c-f5f203b3acb61a17804fc956e8b6dbff]: Commencement: [Art. 7](https://www.legislation.gov.uk/nisr/2008/272/article/7) in operation at 28.7.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/272/article/1)
 
-[^key-21d77f594a3c3b3518b403bf0c412019]: Textual amendment: Words in [art. 7(1)(c)](https://www.legislation.gov.uk/nisr/2008/272/article/7/1/c) substituted (1.9.2013) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations (Northern Ireland) 2013 (S.R. 2013/206)](https://www.legislation.gov.uk/nisr/2013/206), [regs. 2(1)](https://www.legislation.gov.uk/nisr/2013/206/regulation/2/1), [25](https://www.legislation.gov.uk/nisr/2013/206/regulation/25), [Sch. 4 para. 4(3)](https://www.legislation.gov.uk/nisr/2013/206/schedule/4/paragraph/4/3) (with [regs. 3](https://www.legislation.gov.uk/nisr/2013/206/regulation/3), [19](https://www.legislation.gov.uk/nisr/2013/206/regulation/19))
+[^c-21d77f594a3c3b3518b403bf0c412019]: Textual amendment: Words in [art. 7(1)(c)](https://www.legislation.gov.uk/nisr/2008/272/article/7/1/c) substituted (1.9.2013) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations (Northern Ireland) 2013 (S.R. 2013/206)](https://www.legislation.gov.uk/nisr/2013/206), [regs. 2(1)](https://www.legislation.gov.uk/nisr/2013/206/regulation/2/1), [25](https://www.legislation.gov.uk/nisr/2013/206/regulation/25), [Sch. 4 para. 4(3)](https://www.legislation.gov.uk/nisr/2013/206/schedule/4/paragraph/4/3) (with [regs. 3](https://www.legislation.gov.uk/nisr/2013/206/regulation/3), [19](https://www.legislation.gov.uk/nisr/2013/206/regulation/19))
 
-[^key-45a2718828d6d2ee4ef71a0db5174baa]: Textual amendment: Words in [art. 7(1)(c)](https://www.legislation.gov.uk/nisr/2008/272/article/7/1/c) inserted (11.4.2019) by [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 3 para. 28](https://www.legislation.gov.uk/nisr/2019/82/schedule/3/paragraph/28)
+[^c-45a2718828d6d2ee4ef71a0db5174baa]: Textual amendment: Words in [art. 7(1)(c)](https://www.legislation.gov.uk/nisr/2008/272/article/7/1/c) inserted (11.4.2019) by [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 3 para. 28](https://www.legislation.gov.uk/nisr/2019/82/schedule/3/paragraph/28)
 
-[^key-874537d05537f3b543beee768d485537]: Commencement: [Art. 8](https://www.legislation.gov.uk/nisr/2008/272/article/8) in operation at 28.7.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/272/article/1)
+[^c-874537d05537f3b543beee768d485537]: Commencement: [Art. 8](https://www.legislation.gov.uk/nisr/2008/272/article/8) in operation at 28.7.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/272/article/1)
 
-[^key-e5ac468414c3b267b88e9ae056b33d1e]: Commencement: [Art. 9](https://www.legislation.gov.uk/nisr/2008/272/article/9) in operation at 28.7.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/272/article/1)
+[^c-e5ac468414c3b267b88e9ae056b33d1e]: Commencement: [Art. 9](https://www.legislation.gov.uk/nisr/2008/272/article/9) in operation at 28.7.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/272/article/1)
 
-[^key-7e317b8527835404abe04f059121e5a4]: Commencement: [Art. 10](https://www.legislation.gov.uk/nisr/2008/272/article/10) in operation at 28.7.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/272/article/1)
+[^c-7e317b8527835404abe04f059121e5a4]: Commencement: [Art. 10](https://www.legislation.gov.uk/nisr/2008/272/article/10) in operation at 28.7.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/272/article/1)
 
-[^key-b0aa9a9e57bf6b1168789d25c6b06a2e]: Commencement: [Art. 11](https://www.legislation.gov.uk/nisr/2008/272/article/11) in operation at 28.7.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/272/article/1)
+[^c-b0aa9a9e57bf6b1168789d25c6b06a2e]: Commencement: [Art. 11](https://www.legislation.gov.uk/nisr/2008/272/article/11) in operation at 28.7.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/272/article/1)
 
-[^key-cd98a924d53de2b150412c452c36433c]: Commencement: [Art. 12](https://www.legislation.gov.uk/nisr/2008/272/article/12) in operation at 28.7.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/272/article/1)
+[^c-cd98a924d53de2b150412c452c36433c]: Commencement: [Art. 12](https://www.legislation.gov.uk/nisr/2008/272/article/12) in operation at 28.7.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/272/article/1)
 
 [^f00006]: Footnote: [S.R.1972 No.16](https://www.legislation.gov.uk/nisr/1972/16), as amended by [S.R 1975 No.69](https://www.legislation.gov.uk/nisr/1975/69), [S.R.1995 No.467](https://www.legislation.gov.uk/nisr/1995/467) and [S.R.2006 No.42](https://www.legislation.gov.uk/nisr/2006/42)
 
-[^key-98628f4797b80c25d526f79ee35910cd]: Commencement: [Art. 13](https://www.legislation.gov.uk/nisr/2008/272/article/13) in operation at 28.7.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/272/article/1)
+[^c-98628f4797b80c25d526f79ee35910cd]: Commencement: [Art. 13](https://www.legislation.gov.uk/nisr/2008/272/article/13) in operation at 28.7.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/272/article/1)
 
-[^key-22e313f2a835f13a7f72127f0567facc]: Commencement: [Art. 14](https://www.legislation.gov.uk/nisr/2008/272/article/14) in operation at 28.7.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/272/article/1)
+[^c-22e313f2a835f13a7f72127f0567facc]: Commencement: [Art. 14](https://www.legislation.gov.uk/nisr/2008/272/article/14) in operation at 28.7.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/272/article/1)
 
 [^f00007]: Footnote: [S.R. 1975 No.69](https://www.legislation.gov.uk/nisr/1975/69)
 

@@ -46,11 +46,11 @@ In accordance with paragraphs 1(1) and 8F(1) of Schedule 7 to that Act, a draft 
 
 ## PART 1 — Introduction
 
-### 1. Citation[^key-bf1e6756cb08b74974027c0ba8df6908]
+### 1. Citation[^c-bf1e6756cb08b74974027c0ba8df6908]
 
 These Regulations may be cited as the Persistent Organic Pollutants (Amendment) (EU Exit) Regulations 2020.
 
-### 2. Commencement[^key-1d1a7044db709f898ddd8557adafe27e]
+### 2. Commencement[^c-1d1a7044db709f898ddd8557adafe27e]
 
 (1) This Part and Part 4 come into force immediately before IP completion day.
 
@@ -58,11 +58,11 @@ These Regulations may be cited as the Persistent Organic Pollutants (Amendment) 
 
 ## PART 2 — Amendments to subordinate legislation
 
-### 3. Amendments to the Persistent Organic Pollutants Regulations 2007[^key-10f73086e0f2c171322aca280bd9405c]
+### 3. Amendments to the Persistent Organic Pollutants Regulations 2007[^c-10f73086e0f2c171322aca280bd9405c]
 
 The Persistent Organic Pollutants Regulations 2007 are amended[^f00002] in accordance with regulations 4 and 5.
 
-### 4. Amendments to regulation 3[^key-274c88b6e8b1c05bc7d09d77593af44a]
+### 4. Amendments to regulation 3[^c-274c88b6e8b1c05bc7d09d77593af44a]
 
 (1) Regulation 3 is amended as follows.
 
@@ -74,7 +74,7 @@ The Persistent Organic Pollutants Regulations 2007 are amended[^f00002] in accor
 
 (3) In paragraph (2), for “They are also the enforcement authorities” substitute “The competent authority is also the enforcement authority”.
 
-### 5. Substitution of regulation 4[^key-e6e7de4a9aa5036a42290db706a2387b]
+### 5. Substitution of regulation 4[^c-e6e7de4a9aa5036a42290db706a2387b]
 
 For regulation 4 substitute—
 
@@ -89,15 +89,15 @@ For regulation 4 substitute—
 
 ## PART 3 — Amendments to retained direct EU legislation
 
-### 6. Amendments to Regulation (EU) 2019/1021 on persistent organic pollutants[^key-0cbcdc8f5bb1b280f10bbd08a543e237]
+### 6. Amendments to Regulation (EU) 2019/1021 on persistent organic pollutants[^c-0cbcdc8f5bb1b280f10bbd08a543e237]
 
 Regulation (EU) 2019/1021 of the European Parliament and of the Council on persistent organic pollutants (recast) is amended in accordance with regulations 7 to 28.
 
-### 7. Amendment to Article 1[^key-36882ca3e46ddbabd58d9ca855240cce]
+### 7. Amendment to Article 1[^c-36882ca3e46ddbabd58d9ca855240cce]
 
 In Article 1, omit the second paragraph.
 
-### 8. Amendments to Article 2[^key-3332f053c383f0d4ed1db20c8131f35c]
+### 8. Amendments to Article 2[^c-3332f053c383f0d4ed1db20c8131f35c]
 
 (1) Article 2 is amended as follows.
 
@@ -125,7 +125,7 @@ In Article 1, omit the second paragraph.
 
 .
 
-### 9. New Articles 2A, 2B and 2C[^key-0856d2c53745b15d07ffdf27ba3d11a2]
+### 9. New Articles 2A, 2B and 2C[^c-0856d2c53745b15d07ffdf27ba3d11a2]
 
 After Article 2 insert—
 
@@ -192,7 +192,7 @@ After Article 2 insert—
 
 .
 
-### 10. Amendments to Article 3[^key-f265b025b3ad2e7f1fdd776bda466778]
+### 10. Amendments to Article 3[^c-f265b025b3ad2e7f1fdd776bda466778]
 
 (1) Article 3 is amended as follows.
 
@@ -203,7 +203,7 @@ After Article 2 insert—
 
 (3) Omit paragraphs 4 and 5.
 
-### 11. Amendments to Article 4[^key-592803c6e8bf06439241cba8cec6e081]
+### 11. Amendments to Article 4[^c-592803c6e8bf06439241cba8cec6e081]
 
 (1) Article 4 is amended as follows.
 
@@ -238,7 +238,7 @@ After Article 2 insert—
 
 .
 
-### 12. Amendments to Article 5[^key-c494caa21edeacd6afdd23676dd434cd]
+### 12. Amendments to Article 5[^c-c494caa21edeacd6afdd23676dd434cd]
 
 (1) Article 5 is amended as follows.
 
@@ -252,7 +252,7 @@ After Article 2 insert—
 
 (3) In paragraph 3, for “Member States” substitute “The competent authority”.
 
-### 13. Substitution of Article 6[^key-024fc03a729b176a72b5ff0a56da67f8]
+### 13. Substitution of Article 6[^c-024fc03a729b176a72b5ff0a56da67f8]
 
 For Article 6 substitute—
 
@@ -273,7 +273,7 @@ For Article 6 substitute—
 
 .
 
-### 14. Amendments to Article 7[^key-fd5930725ced68699201c71b58dbd2a4]
+### 14. Amendments to Article 7[^c-fd5930725ced68699201c71b58dbd2a4]
 
 (1) Article 7 is amended as follows.
 
@@ -346,7 +346,7 @@ For Article 6 substitute—
 
 .
 
-### 15. Substitution of Articles 8 and 9[^key-8644b7ef6e838690106e897b8bd994b0]
+### 15. Substitution of Articles 8 and 9[^c-8644b7ef6e838690106e897b8bd994b0]
 
 For Articles 8 and 9 substitute—
 
@@ -411,7 +411,7 @@ For Articles 8 and 9 substitute—
 >
 > **3.** If the Secretary of State reviews or updates the implementation plan for the United Kingdom in accordance with Article 7(1)(c) of the Convention, the competent authority or, in relation to Northern Ireland, DAERA, must support the Secretary of State as appropriate.
 
-### 16. Amendments to Article 10[^key-1071d9d4c023dce8df4c6cbbfb80f2b4]
+### 16. Amendments to Article 10[^c-1071d9d4c023dce8df4c6cbbfb80f2b4]
 
 (1) Article 10 is amended as follows.
 
@@ -422,7 +422,7 @@ For Articles 8 and 9 substitute—
 - (a) in the first sentence, for “Commission” substitute “appropriate authority”;
 - (b) in the second sentence, for the words from “Member States” to “Article 18 to” substitute “the competent authority, the appropriate authority may by regulations”.
 
-### 17. Amendments to Article 11[^key-74d3957ae13d7f160c2b068326966573]
+### 17. Amendments to Article 11[^c-74d3957ae13d7f160c2b068326966573]
 
 (1) Article 11 is amended as follows.
 
@@ -442,7 +442,7 @@ For Articles 8 and 9 substitute—
 > - (a) in relation to England, Northern Ireland and Wales, the Environmental Information Regulations 2004[^f00013];
 > - (b) in relation to Scotland, the Environment Information (Scotland) Regulations 2004[^f00014].
 
-### 18. Amendments to Article 12[^key-eb31157a1def50fd1c2156e6e03a3e04]
+### 18. Amendments to Article 12[^c-eb31157a1def50fd1c2156e6e03a3e04]
 
 (1) Article 12 is amended as follows.
 
@@ -453,7 +453,7 @@ For Articles 8 and 9 substitute—
 - (a) after “Convention,” insert “or”;
 - (b) omit “or the Agency”.
 
-### 19. Substitution of Article 13[^key-9b89f80a85ea488e7e7621aed0674494]
+### 19. Substitution of Article 13[^c-9b89f80a85ea488e7e7621aed0674494]
 
 For Article 13 substitute—
 
@@ -489,11 +489,11 @@ For Article 13 substitute—
 
 .
 
-### 20. Omission of Article 14[^key-fc717543dbb7f8cc116fe93947a9e9bb]
+### 20. Omission of Article 14[^c-fc717543dbb7f8cc116fe93947a9e9bb]
 
 Omit Article 14.
 
-### 21. Amendment to Article 15[^key-459d5d75c2128df9bb4ba51b81f40855]
+### 21. Amendment to Article 15[^c-459d5d75c2128df9bb4ba51b81f40855]
 
 (1) Article 15 is amended as follows.
 
@@ -505,11 +505,11 @@ Omit Article 14.
 
 (3) In paragraph 2, for “Commission” substitute “appropriate authority”.
 
-### 22. Omission of Article 16 and 17[^key-d3407de04822f5d80a7d496edb6f8c9d]
+### 22. Omission of Article 16 and 17[^c-d3407de04822f5d80a7d496edb6f8c9d]
 
 Omit Articles 16 and 17.
 
-### 23. Substitution of Article 18[^key-58f71cad306b0916b804bc62a1c25df1]
+### 23. Substitution of Article 18[^c-58f71cad306b0916b804bc62a1c25df1]
 
 For Article 18 substitute—
 
@@ -544,15 +544,15 @@ For Article 18 substitute—
 
 .
 
-### 24. Omission of Articles 19 and 20[^key-6ab29aa1b7dc002fa27ef34a5b6b85ef]
+### 24. Omission of Articles 19 and 20[^c-6ab29aa1b7dc002fa27ef34a5b6b85ef]
 
 Omit Articles 19 and 20.
 
-### 25. Omission of text following Article 22[^key-b9641f7c3c21df68d8728e31fc87f235]
+### 25. Omission of text following Article 22[^c-b9641f7c3c21df68d8728e31fc87f235]
 
 After Article 22, omit the words “This Regulation shall be binding in its entirety and directly applicable in all Member States.”.
 
-### 26. Amendments to Annex 1[^key-8717f572105815600c19f9fe2ca8d026]
+### 26. Amendments to Annex 1[^c-8717f572105815600c19f9fe2ca8d026]
 
 (1) Annex 1 is amended as follows.
 
@@ -586,11 +586,11 @@ After Article 22, omit the words “This Regulation shall be binding in its enti
 
 (8) In the entry for perfluorooctane sulfonic acid and its derivatives (PFOS) C<sub>8</sub>F<sub>17</sub>SO<sub>2</sub>X, in the fourth column, in point 4—
 
-- (a)[^key-d5c3fcaabbd5a62718a33c69e59403c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-d5c3fcaabbd5a62718a33c69e59403c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in the second paragraph (beginning “Where such a derogation concerns”)—
   - (i) for “[Directive 2008/1/EC](https://www.legislation.gov.uk/european/directive/2008/0001) of the European Parliament and of the Council” substitute “the Permitting Regulations”;
   - (ii) omit the words from “described” to “[Directive 2008/1/EC](https://www.legislation.gov.uk/european/directive/2008/0001)”;
-- (c)[^key-3b2112f85dc499ed41e67ada0efc8b2f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-3b2112f85dc499ed41e67ada0efc8b2f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) In the entry for polychlorinated Biphenyls (PCB), in the fourth column—
 
@@ -608,7 +608,7 @@ After Article 22, omit the words “This Regulation shall be binding in its enti
 - (b) in endnote (3), omit “(OJ L 79, 19.3.2008, p. 1)”;
 - (c) omit endnote (4).
 
-### 27. Amendments to Annex 4[^key-226a9d9a33a708f64fde94d43c527023]
+### 27. Amendments to Annex 4[^c-226a9d9a33a708f64fde94d43c527023]
 
 (1) The Table in Annex 4 entitled “List of substances subject to waste management provisions set out in Article 7” is amended as follows.
 
@@ -621,7 +621,7 @@ After Article 22, omit the words “This Regulation shall be binding in its enti
 
 (3) In the entry for hexabromocyclododecane, in the fourth column, omit “, subject to review by the Commission by 20th April 2019”.
 
-### 28. Amendments to Annex 5[^key-bf45fa565193e98c32891644630a00b3]
+### 28. Amendments to Annex 5[^c-bf45fa565193e98c32891644630a00b3]
 
 (1) Annex 5 is amended as follows.
 
@@ -676,11 +676,11 @@ After Article 22, omit the words “This Regulation shall be binding in its enti
 
 ## PART 4 — Amendments to other subordinate legislation
 
-### 29. Amendment to the Persistent Organic Pollutants (Amendment) (EU Exit) Regulations 2018[^key-0519307861fe81819a7eadf694f26407]
+### 29. Amendment to the Persistent Organic Pollutants (Amendment) (EU Exit) Regulations 2018[^c-0519307861fe81819a7eadf694f26407]
 
 In the Persistent Organic Pollutants (Amendment) (EU Exit) Regulations 2018[^f00019], omit Parts 3 and 4.
 
-### 30. Amendment to the Environment and Wildlife (Legislative Functions) (EU Exit) Regulations 2019[^key-1f03d01aa7d31a2bc5f5146f95a9665e]
+### 30. Amendment to the Environment and Wildlife (Legislative Functions) (EU Exit) Regulations 2019[^c-1f03d01aa7d31a2bc5f5146f95a9665e]
 
 In the Environment and Wildlife (Legislative Functions) (EU Exit) Regulations 2019[^f00020], omit regulation 2.
 
@@ -704,27 +704,27 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00001]: Footnote: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16). Section 8C was inserted by section 21 of the European Union (Withdrawal Agreement) Act [2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1). Paragraph 8F of Schedule 1 was inserted by paragraph 51 of Schedule 5 to that Act.
 
-[^key-bf1e6756cb08b74974027c0ba8df6908]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2020/1358/regulation/1) in force at 31.12.2020 immediately before IP completion day, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2020/1358/regulation/2/1)
+[^c-bf1e6756cb08b74974027c0ba8df6908]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2020/1358/regulation/1) in force at 31.12.2020 immediately before IP completion day, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2020/1358/regulation/2/1)
 
-[^key-1d1a7044db709f898ddd8557adafe27e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2020/1358/regulation/2) in force at 31.12.2020 immediately before IP completion day, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2020/1358/regulation/2/1)
+[^c-1d1a7044db709f898ddd8557adafe27e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2020/1358/regulation/2) in force at 31.12.2020 immediately before IP completion day, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2020/1358/regulation/2/1)
 
-[^key-10f73086e0f2c171322aca280bd9405c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2020/1358/regulation/3) in force at 31.12.2020 on IP completion day, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1358/regulation/2/2)
+[^c-10f73086e0f2c171322aca280bd9405c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2020/1358/regulation/3) in force at 31.12.2020 on IP completion day, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1358/regulation/2/2)
 
 [^f00002]: Footnote: [S.I. 2007/3106](https://www.legislation.gov.uk/uksi/2007/3106), amended by [S.I. 2010/675](https://www.legislation.gov.uk/uksi/2010/675), [2012/360](https://www.legislation.gov.uk/uksi/2012/360), [2013/755](https://www.legislation.gov.uk/uksi/2013/755), [2016/1154](https://www.legislation.gov.uk/uksi/2016/1154), [2018/1405](https://www.legislation.gov.uk/uksi/2018/1405), [2019/1099](https://www.legislation.gov.uk/uksi/2019/1099).
 
-[^key-274c88b6e8b1c05bc7d09d77593af44a]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2020/1358/regulation/4) in force at 31.12.2020 on IP completion day, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1358/regulation/2/2)
+[^c-274c88b6e8b1c05bc7d09d77593af44a]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2020/1358/regulation/4) in force at 31.12.2020 on IP completion day, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1358/regulation/2/2)
 
-[^key-e6e7de4a9aa5036a42290db706a2387b]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2020/1358/regulation/5) in force at 31.12.2020 on IP completion day, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1358/regulation/2/2)
+[^c-e6e7de4a9aa5036a42290db706a2387b]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2020/1358/regulation/5) in force at 31.12.2020 on IP completion day, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1358/regulation/2/2)
 
 [^f00003]: Footnote: OJ No. L 169, 25.6.2019, p. 45.
 
 [^f00004]: Footnote: [S.R. 2013 No. 160](https://www.legislation.gov.uk/nisr/2013/160), amended by [S.R. 2014 No. 304](https://www.legislation.gov.uk/nisr/2014/304), [2015 No. 14](https://www.legislation.gov.uk/nisr/2015/14), [2015 No. 325](https://www.legislation.gov.uk/nisr/2015/325), [2016 No. 95](https://www.legislation.gov.uk/nisr/2016/95), [2016 No. 309](https://www.legislation.gov.uk/nisr/2016/309), [2018 No. 33](https://www.legislation.gov.uk/nisr/2018/33), [2018 No. 200](https://www.legislation.gov.uk/nisr/2018/200); and by [S.I. 2015/1973](https://www.legislation.gov.uk/uksi/2015/1973), [2019/289](https://www.legislation.gov.uk/uksi/2019/289) (amendments pending).
 
-[^key-0cbcdc8f5bb1b280f10bbd08a543e237]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2020/1358/regulation/6) in force at 31.12.2020 on IP completion day, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1358/regulation/2/2)
+[^c-0cbcdc8f5bb1b280f10bbd08a543e237]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2020/1358/regulation/6) in force at 31.12.2020 on IP completion day, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1358/regulation/2/2)
 
-[^key-36882ca3e46ddbabd58d9ca855240cce]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2020/1358/regulation/7) in force at 31.12.2020 on IP completion day, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1358/regulation/2/2)
+[^c-36882ca3e46ddbabd58d9ca855240cce]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2020/1358/regulation/7) in force at 31.12.2020 on IP completion day, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1358/regulation/2/2)
 
-[^key-3332f053c383f0d4ed1db20c8131f35c]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2020/1358/regulation/8) in force at 31.12.2020 on IP completion day, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1358/regulation/2/2)
+[^c-3332f053c383f0d4ed1db20c8131f35c]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2020/1358/regulation/8) in force at 31.12.2020 on IP completion day, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1358/regulation/2/2)
 
 [^f00005]: Footnote: [S.I. 2000/1043](https://www.legislation.gov.uk/uksi/2000/1043), amended by [S.I. 2000/3359](https://www.legislation.gov.uk/uksi/2000/3359), [2005/894](https://www.legislation.gov.uk/uksi/2005/894), [2005/1806 (W. 138)](https://www.legislation.gov.uk/wsi/2005/1806), [2010/1159](https://www.legislation.gov.uk/uksi/2010/1159), [2010/1820 (W. 177)](https://www.legislation.gov.uk/wsi/2010/1820), [2011/988](https://www.legislation.gov.uk/uksi/2011/988), [2013/755](https://www.legislation.gov.uk/uksi/2013/755), [2019/758](https://www.legislation.gov.uk/uksi/2019/758) (amendments pending), [2020/489](https://www.legislation.gov.uk/uksi/2020/489).
 
@@ -734,74 +734,74 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00008]: Footnote: [S.S.I. 2012/360](https://www.legislation.gov.uk/ssi/2012/360), amended by [S.S.I. 2014/267](https://www.legislation.gov.uk/ssi/2014/267), [2015/101](https://www.legislation.gov.uk/ssi/2015/101), [2015/438](https://www.legislation.gov.uk/ssi/2015/438), [2017/446](https://www.legislation.gov.uk/ssi/2017/446), [2018/391](https://www.legislation.gov.uk/ssi/2018/391), [2019/26](https://www.legislation.gov.uk/ssi/2019/26) (amendments pending); and by [S.I. 2014/469](https://www.legislation.gov.uk/uksi/2014/469), [2015/483](https://www.legislation.gov.uk/uksi/2015/483), [2015/1973](https://www.legislation.gov.uk/uksi/2015/1973).
 
-[^key-0856d2c53745b15d07ffdf27ba3d11a2]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2020/1358/regulation/9) in force at 31.12.2020 on IP completion day, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1358/regulation/2/2)
+[^c-0856d2c53745b15d07ffdf27ba3d11a2]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2020/1358/regulation/9) in force at 31.12.2020 on IP completion day, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1358/regulation/2/2)
 
 [^f00009]: Footnote: OJ No. L 312, 22.11.2008, p. 3.
 
 [^f00010]: Footnote: OJ No. L 150, 14.6.2018, p. 109.
 
-[^key-f265b025b3ad2e7f1fdd776bda466778]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2020/1358/regulation/10) in force at 31.12.2020 on IP completion day, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1358/regulation/2/2)
+[^c-f265b025b3ad2e7f1fdd776bda466778]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2020/1358/regulation/10) in force at 31.12.2020 on IP completion day, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1358/regulation/2/2)
 
-[^key-592803c6e8bf06439241cba8cec6e081]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2020/1358/regulation/11) in force at 31.12.2020 on IP completion day, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1358/regulation/2/2)
+[^c-592803c6e8bf06439241cba8cec6e081]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2020/1358/regulation/11) in force at 31.12.2020 on IP completion day, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1358/regulation/2/2)
 
-[^key-c494caa21edeacd6afdd23676dd434cd]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2020/1358/regulation/12) in force at 31.12.2020 on IP completion day, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1358/regulation/2/2)
+[^c-c494caa21edeacd6afdd23676dd434cd]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2020/1358/regulation/12) in force at 31.12.2020 on IP completion day, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1358/regulation/2/2)
 
 [^f00011]: Footnote: [S.I. 2015/483](https://www.legislation.gov.uk/uksi/2015/483), amended by [S.I. 2015/1393](https://www.legislation.gov.uk/uksi/2015/1393), [2016/1154](https://www.legislation.gov.uk/uksi/2016/1154), [2017/304](https://www.legislation.gov.uk/uksi/2017/304), [2017/1200](https://www.legislation.gov.uk/uksi/2017/1200), [2018/269](https://www.legislation.gov.uk/uksi/2018/269), [2018/378](https://www.legislation.gov.uk/uksi/2018/378), [2018/1370](https://www.legislation.gov.uk/uksi/2018/1370), [2019/720](https://www.legislation.gov.uk/uksi/2019/720) (amendments pending).
 
-[^key-024fc03a729b176a72b5ff0a56da67f8]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2020/1358/regulation/13) in force at 31.12.2020 on IP completion day, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1358/regulation/2/2)
+[^c-024fc03a729b176a72b5ff0a56da67f8]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2020/1358/regulation/13) in force at 31.12.2020 on IP completion day, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1358/regulation/2/2)
 
 [^f00012]: Footnote: OJ No. L 158 30.4.2004, p. 7.
 
-[^key-fd5930725ced68699201c71b58dbd2a4]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2020/1358/regulation/14) in force at 31.12.2020 on IP completion day, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1358/regulation/2/2)
+[^c-fd5930725ced68699201c71b58dbd2a4]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2020/1358/regulation/14) in force at 31.12.2020 on IP completion day, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1358/regulation/2/2)
 
-[^key-8644b7ef6e838690106e897b8bd994b0]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2020/1358/regulation/15) in force at 31.12.2020 on IP completion day, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1358/regulation/2/2)
+[^c-8644b7ef6e838690106e897b8bd994b0]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2020/1358/regulation/15) in force at 31.12.2020 on IP completion day, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1358/regulation/2/2)
 
-[^key-1071d9d4c023dce8df4c6cbbfb80f2b4]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2020/1358/regulation/16) in force at 31.12.2020 on IP completion day, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1358/regulation/2/2)
+[^c-1071d9d4c023dce8df4c6cbbfb80f2b4]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2020/1358/regulation/16) in force at 31.12.2020 on IP completion day, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1358/regulation/2/2)
 
-[^key-74d3957ae13d7f160c2b068326966573]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2020/1358/regulation/17) in force at 31.12.2020 on IP completion day, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1358/regulation/2/2)
+[^c-74d3957ae13d7f160c2b068326966573]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2020/1358/regulation/17) in force at 31.12.2020 on IP completion day, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1358/regulation/2/2)
 
 [^f00013]: Footnote: [S.I. 2004/3391](https://www.legislation.gov.uk/uksi/2004/3391), amended by the Data Protection Act [2018 (c.12)](https://www.legislation.gov.uk/ukpga/2018/12); and by [S.I. 2015/1897](https://www.legislation.gov.uk/uksi/2015/1897), [2018/942](https://www.legislation.gov.uk/uksi/2018/942), [2018/1216 (W. 249)](https://www.legislation.gov.uk/wsi/2018/1216), [2019/419](https://www.legislation.gov.uk/uksi/2019/419) (amendments pending).
 
 [^f00014]: Footnote: [S.S.I. 2004/520](https://www.legislation.gov.uk/ssi/2004/520), amended by the Data Protection Act 2018; [S.S.I. 2013/127](https://www.legislation.gov.uk/ssi/2013/127); and by [S.I. 2019/419](https://www.legislation.gov.uk/uksi/2019/419) (amendments pending).
 
-[^key-eb31157a1def50fd1c2156e6e03a3e04]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2020/1358/regulation/18) in force at 31.12.2020 on IP completion day, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1358/regulation/2/2)
+[^c-eb31157a1def50fd1c2156e6e03a3e04]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2020/1358/regulation/18) in force at 31.12.2020 on IP completion day, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1358/regulation/2/2)
 
-[^key-9b89f80a85ea488e7e7621aed0674494]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2020/1358/regulation/19) in force at 31.12.2020 on IP completion day, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1358/regulation/2/2)
+[^c-9b89f80a85ea488e7e7621aed0674494]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2020/1358/regulation/19) in force at 31.12.2020 on IP completion day, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1358/regulation/2/2)
 
-[^key-fc717543dbb7f8cc116fe93947a9e9bb]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2020/1358/regulation/20) in force at 31.12.2020 on IP completion day, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1358/regulation/2/2)
+[^c-fc717543dbb7f8cc116fe93947a9e9bb]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2020/1358/regulation/20) in force at 31.12.2020 on IP completion day, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1358/regulation/2/2)
 
-[^key-459d5d75c2128df9bb4ba51b81f40855]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2020/1358/regulation/21) in force at 31.12.2020 on IP completion day, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1358/regulation/2/2)
+[^c-459d5d75c2128df9bb4ba51b81f40855]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2020/1358/regulation/21) in force at 31.12.2020 on IP completion day, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1358/regulation/2/2)
 
-[^key-d3407de04822f5d80a7d496edb6f8c9d]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2020/1358/regulation/22) in force at 31.12.2020 on IP completion day, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1358/regulation/2/2)
+[^c-d3407de04822f5d80a7d496edb6f8c9d]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2020/1358/regulation/22) in force at 31.12.2020 on IP completion day, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1358/regulation/2/2)
 
-[^key-58f71cad306b0916b804bc62a1c25df1]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2020/1358/regulation/23) in force at 31.12.2020 on IP completion day, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1358/regulation/2/2)
+[^c-58f71cad306b0916b804bc62a1c25df1]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2020/1358/regulation/23) in force at 31.12.2020 on IP completion day, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1358/regulation/2/2)
 
 [^f00015]: Footnote: [2010 asp 10](https://www.legislation.gov.uk/asp/2010/10).
 
-[^key-6ab29aa1b7dc002fa27ef34a5b6b85ef]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2020/1358/regulation/24) in force at 31.12.2020 on IP completion day, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1358/regulation/2/2)
+[^c-6ab29aa1b7dc002fa27ef34a5b6b85ef]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2020/1358/regulation/24) in force at 31.12.2020 on IP completion day, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1358/regulation/2/2)
 
-[^key-b9641f7c3c21df68d8728e31fc87f235]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2020/1358/regulation/25) in force at 31.12.2020 on IP completion day, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1358/regulation/2/2)
+[^c-b9641f7c3c21df68d8728e31fc87f235]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2020/1358/regulation/25) in force at 31.12.2020 on IP completion day, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1358/regulation/2/2)
 
-[^key-8717f572105815600c19f9fe2ca8d026]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2020/1358/regulation/26) in force at 31.12.2020 on IP completion day, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1358/regulation/2/2)
+[^c-8717f572105815600c19f9fe2ca8d026]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2020/1358/regulation/26) in force at 31.12.2020 on IP completion day, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1358/regulation/2/2)
 
 [^f00016]: Footnote: [S.I. 2012/3032](https://www.legislation.gov.uk/uksi/2012/3032), amended by [S.I. 2014/1771](https://www.legislation.gov.uk/uksi/2014/1771), [2018/942](https://www.legislation.gov.uk/uksi/2018/942), [2019/188](https://www.legislation.gov.uk/uksi/2019/188) (amendments pending), [2019/492](https://www.legislation.gov.uk/uksi/2019/492).
 
-[^key-d5c3fcaabbd5a62718a33c69e59403c5]: Textual amendment: [Reg. 26(8)(a)](https://www.legislation.gov.uk/uksi/2020/1358/regulation/26/8/a) omitted (7.12.2022) by virtue of [The Persistent Organic Pollutants (Amendment) (EU Exit) Regulations 2022 (S.I. 2022/1293)](https://www.legislation.gov.uk/uksi/2022/1293), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1293/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2022/1293/regulation/3/2)
+[^c-d5c3fcaabbd5a62718a33c69e59403c5]: Textual amendment: [Reg. 26(8)(a)](https://www.legislation.gov.uk/uksi/2020/1358/regulation/26/8/a) omitted (7.12.2022) by virtue of [The Persistent Organic Pollutants (Amendment) (EU Exit) Regulations 2022 (S.I. 2022/1293)](https://www.legislation.gov.uk/uksi/2022/1293), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1293/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2022/1293/regulation/3/2)
 
-[^key-3b2112f85dc499ed41e67ada0efc8b2f]: Textual amendment: [Reg. 26(8)(c)](https://www.legislation.gov.uk/uksi/2020/1358/regulation/26/8/c) omitted (7.12.2022) by virtue of [The Persistent Organic Pollutants (Amendment) (EU Exit) Regulations 2022 (S.I. 2022/1293)](https://www.legislation.gov.uk/uksi/2022/1293), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1293/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2022/1293/regulation/3/2)
+[^c-3b2112f85dc499ed41e67ada0efc8b2f]: Textual amendment: [Reg. 26(8)(c)](https://www.legislation.gov.uk/uksi/2020/1358/regulation/26/8/c) omitted (7.12.2022) by virtue of [The Persistent Organic Pollutants (Amendment) (EU Exit) Regulations 2022 (S.I. 2022/1293)](https://www.legislation.gov.uk/uksi/2022/1293), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1293/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2022/1293/regulation/3/2)
 
-[^key-226a9d9a33a708f64fde94d43c527023]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2020/1358/regulation/27) in force at 31.12.2020 on IP completion day, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1358/regulation/2/2)
+[^c-226a9d9a33a708f64fde94d43c527023]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2020/1358/regulation/27) in force at 31.12.2020 on IP completion day, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1358/regulation/2/2)
 
-[^key-bf45fa565193e98c32891644630a00b3]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2020/1358/regulation/28) in force at 31.12.2020 on IP completion day, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1358/regulation/2/2)
+[^c-bf45fa565193e98c32891644630a00b3]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2020/1358/regulation/28) in force at 31.12.2020 on IP completion day, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1358/regulation/2/2)
 
 [^f00017]: Footnote: [S.S.I. 2003/235](https://www.legislation.gov.uk/ssi/2003/235), amended by the Antisocial Behaviour etc. (Scotland) Act [2004 (asp. 8)](https://www.legislation.gov.uk/asp/2004/8); and by [S.S.I. 2003/343](https://www.legislation.gov.uk/ssi/2003/343), [2009/247](https://www.legislation.gov.uk/ssi/2009/247), [2010/60](https://www.legislation.gov.uk/ssi/2010/60), [2011/226](https://www.legislation.gov.uk/ssi/2011/226), [2012/148](https://www.legislation.gov.uk/ssi/2012/148), [2012/360](https://www.legislation.gov.uk/ssi/2012/360), [2013/222](https://www.legislation.gov.uk/ssi/2013/222), [2015/188](https://www.legislation.gov.uk/ssi/2015/188), [2018/391](https://www.legislation.gov.uk/ssi/2018/391), [2019/26](https://www.legislation.gov.uk/ssi/2019/26) (amendments pending).
 
 [^f00018]: Footnote: A copy of the standards may be obtained by contacting the British Standards Institute at cservices@bsigroup.com or BSI Customer Services, 389 Chiswick High Road London, W4 4AL, United Kingdom.
 
-[^key-0519307861fe81819a7eadf694f26407]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2020/1358/regulation/29) in force at 31.12.2020 immediately before IP completion day, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2020/1358/regulation/2/1)
+[^c-0519307861fe81819a7eadf694f26407]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2020/1358/regulation/29) in force at 31.12.2020 immediately before IP completion day, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2020/1358/regulation/2/1)
 
 [^f00019]: Footnote: [S.I. 2018/1405](https://www.legislation.gov.uk/uksi/2018/1405).
 
-[^key-1f03d01aa7d31a2bc5f5146f95a9665e]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2020/1358/regulation/30) in force at 31.12.2020 immediately before IP completion day, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2020/1358/regulation/2/1)
+[^c-1f03d01aa7d31a2bc5f5146f95a9665e]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2020/1358/regulation/30) in force at 31.12.2020 immediately before IP completion day, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2020/1358/regulation/2/1)
 
 [^f00020]: Footnote: [S.I. 2019/473](https://www.legislation.gov.uk/uksi/2019/473).

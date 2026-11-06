@@ -33,7 +33,7 @@ ANIMALS
 
 PREVENTION OF CRUELTY
 
-The Welfare of Farmed Animals (Scotland) Amendment Regulations 2002 (revoked)[^key-47aec11fb8d8369e2a37a1dbfd5a837f]
+The Welfare of Farmed Animals (Scotland) Amendment Regulations 2002 (revoked)[^c-47aec11fb8d8369e2a37a1dbfd5a837f]
 
 Made
 
@@ -41,34 +41,34 @@ Made
 
 Coming into force in accordance with regulation 1
 
-[^key-47aec11fb8d8369e2a37a1dbfd5a837f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-47aec11fb8d8369e2a37a1dbfd5a837f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## l. Citation and commencement[^key-47aec11fb8d8369e2a37a1dbfd5a837f]
+## l. Citation and commencement[^c-47aec11fb8d8369e2a37a1dbfd5a837f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Welfare of Farmed Animals (Scotland) Regulations 2000[^key-47aec11fb8d8369e2a37a1dbfd5a837f]
+## 2. Amendments to the Welfare of Farmed Animals (Scotland) Regulations 2000[^c-47aec11fb8d8369e2a37a1dbfd5a837f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-47aec11fb8d8369e2a37a1dbfd5a837f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-47aec11fb8d8369e2a37a1dbfd5a837f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — SCHEDULES 3A, 3B, 3C AND 3D AS INSERTED BY THIS SCHEDULE[^key-47aec11fb8d8369e2a37a1dbfd5a837f]
+## SCHEDULE — SCHEDULES 3A, 3B, 3C AND 3D AS INSERTED BY THIS SCHEDULE[^c-47aec11fb8d8369e2a37a1dbfd5a837f]
 
 Regulation 2(9)
 
-[^key-47aec11fb8d8369e2a37a1dbfd5a837f]
+[^c-47aec11fb8d8369e2a37a1dbfd5a837f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-47aec11fb8d8369e2a37a1dbfd5a837f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-47aec11fb8d8369e2a37a1dbfd5a837f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-47aec11fb8d8369e2a37a1dbfd5a837f]: Textual amendment: Regulations revoked (5.11.2010) by [The Welfare of Farmed Animals (Scotland) Regulations 2010 (S.S.I. 2010/388)](https://www.legislation.gov.uk/ssi/2010/388), [reg. 1](https://www.legislation.gov.uk/ssi/2010/388/regulation/1), [sch. 8](https://www.legislation.gov.uk/ssi/2010/388/schedule/8) (with [reg. 14](https://www.legislation.gov.uk/ssi/2010/388/regulation/14))
+[^c-47aec11fb8d8369e2a37a1dbfd5a837f]: Textual amendment: Regulations revoked (5.11.2010) by [The Welfare of Farmed Animals (Scotland) Regulations 2010 (S.S.I. 2010/388)](https://www.legislation.gov.uk/ssi/2010/388), [reg. 1](https://www.legislation.gov.uk/ssi/2010/388/regulation/1), [sch. 8](https://www.legislation.gov.uk/ssi/2010/388/schedule/8) (with [reg. 14](https://www.legislation.gov.uk/ssi/2010/388/regulation/14))

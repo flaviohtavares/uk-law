@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 80. Highways[^key-72da85c7ee6d645776e25108c13aca01][^key-9361246932bac9dc3c420300e9befd3a]
+## 80. Highways[^c-72da85c7ee6d645776e25108c13aca01][^c-9361246932bac9dc3c420300e9befd3a]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-72da85c7ee6d645776e25108c13aca01]: Commencement: S. 80 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
+[^c-72da85c7ee6d645776e25108c13aca01]: Commencement: S. 80 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
 
-[^key-9361246932bac9dc3c420300e9befd3a]: Commencement: [S. 80](https://www.legislation.gov.uk/asc/2024/3/section/80) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(d)](https://www.legislation.gov.uk/wsi/2025/698/article/3/d)
+[^c-9361246932bac9dc3c420300e9befd3a]: Commencement: [S. 80](https://www.legislation.gov.uk/asc/2024/3/section/80) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(d)](https://www.legislation.gov.uk/wsi/2025/698/article/3/d)

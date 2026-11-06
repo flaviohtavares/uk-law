@@ -31,10 +31,10 @@ summary: ''
 
 of 21 March 1994 amending Decision 77/270/Euratom, to authorize the Commission to contract Euratom borrowings in order to contribute to the financing required for improving the degree of safety and efficiency of nuclear power stations in certain non- member countries (revoked)
 
-[^key-d35e071bf3431bc81c6012bd71da3559]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d35e071bf3431bc81c6012bd71da3559]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-d35e071bf3431bc81c6012bd71da3559] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-d35e071bf3431bc81c6012bd71da3559] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d35e071bf3431bc81c6012bd71da3559]: Textual amendment: Decision revoked (16.5.2025) by [The Energy (Euratom Decisions and Miscellaneous Provisions) (Amendment and Revocation) Regulations 2025 (S.I. 2025/514)](https://www.legislation.gov.uk/uksi/2025/514), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/514/regulation/1/2)[, Sch.](https://www.legislation.gov.uk/uksi/2025/514/schedule)
+[^c-d35e071bf3431bc81c6012bd71da3559]: Textual amendment: Decision revoked (16.5.2025) by [The Energy (Euratom Decisions and Miscellaneous Provisions) (Amendment and Revocation) Regulations 2025 (S.I. 2025/514)](https://www.legislation.gov.uk/uksi/2025/514), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/514/regulation/1/2)[, Sch.](https://www.legislation.gov.uk/uksi/2025/514/schedule)

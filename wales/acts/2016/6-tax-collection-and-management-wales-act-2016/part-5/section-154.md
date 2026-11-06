@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 154. Payment of penalties[^key-5e6b098956ed1fb542a3009f1fec5966][^key-556929dcc6e8381298422180d2b4d2e3]
+## 154. Payment of penalties[^c-5e6b098956ed1fb542a3009f1fec5966][^c-556929dcc6e8381298422180d2b4d2e3]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ A penalty under this Part must be paid before the end of the period of 30 days b
 
 ## Annotations
 
-[^key-5e6b098956ed1fb542a3009f1fec5966]: Commencement: S. 154 in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(e)](https://www.legislation.gov.uk/wsi/2018/33/article/2/e)
+[^c-5e6b098956ed1fb542a3009f1fec5966]: Commencement: S. 154 in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(e)](https://www.legislation.gov.uk/wsi/2018/33/article/2/e)
 
-[^key-556929dcc6e8381298422180d2b4d2e3]: Modification: S. 154 applied (1.4.2018) by [The Tax Collection and Management (Reimbursement Arrangements) (Wales) Regulations 2018 (S.I. 2018/88)](https://www.legislation.gov.uk/wsi/2018/88), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/88/regulation/1/2), [8(5)](https://www.legislation.gov.uk/wsi/2018/88/regulation/8/5)
+[^c-556929dcc6e8381298422180d2b4d2e3]: Modification: S. 154 applied (1.4.2018) by [The Tax Collection and Management (Reimbursement Arrangements) (Wales) Regulations 2018 (S.I. 2018/88)](https://www.legislation.gov.uk/wsi/2018/88), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/88/regulation/1/2), [8(5)](https://www.legislation.gov.uk/wsi/2018/88/regulation/8/5)

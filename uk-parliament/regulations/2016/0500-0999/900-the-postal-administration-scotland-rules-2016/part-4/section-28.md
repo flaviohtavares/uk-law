@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 28. Complaint[^key-3a3a9cbc668648356c602671be3c414b]
+## 28. Complaint[^c-3a3a9cbc668648356c602671be3c414b]
 
 *Extent: S*
 
@@ -57,7 +57,7 @@ may make a complaint.
 (7) A complaint must be made as soon as reasonably practicable and, in any event, by 4 p.m. on the business day following—
 
 - (a) the day on which the person was excluded; or
-- (b) where an indication is requested under Rule 27[^key-c7c9e9b84be110d2df44a8f2a50d80d8], the day on which the complainant received the indication.
+- (b) where an indication is requested under Rule 27[^c-c7c9e9b84be110d2df44a8f2a50d80d8], the day on which the complainant received the indication.
 
 (8) The relevant person must notify the complainant in writing of any decision.
 
@@ -65,6 +65,6 @@ may make a complaint.
 
 ## Annotations
 
-[^key-3a3a9cbc668648356c602671be3c414b]: Commencement: Rule 28 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-3a3a9cbc668648356c602671be3c414b]: Commencement: Rule 28 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
 
-[^key-c7c9e9b84be110d2df44a8f2a50d80d8]: Textual amendment: Words in [rule 28(7)(b)](https://www.legislation.gov.uk/uksi/2016/900/rule/28/7/b) substituted (13.4.2017) by [The Postal Administration (Scotland) (Amendment) Rules 2017 (S.I. 2017/441)](https://www.legislation.gov.uk/uksi/2017/441), [rules 1](https://www.legislation.gov.uk/uksi/2017/441/rule/1), [2(11)](https://www.legislation.gov.uk/uksi/2017/441/rule/2/11)
+[^c-c7c9e9b84be110d2df44a8f2a50d80d8]: Textual amendment: Words in [rule 28(7)(b)](https://www.legislation.gov.uk/uksi/2016/900/rule/28/7/b) substituted (13.4.2017) by [The Postal Administration (Scotland) (Amendment) Rules 2017 (S.I. 2017/441)](https://www.legislation.gov.uk/uksi/2017/441), [rules 1](https://www.legislation.gov.uk/uksi/2017/441/rule/1), [2(11)](https://www.legislation.gov.uk/uksi/2017/441/rule/2/11)

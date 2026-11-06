@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 75. Examination of proposals[^key-d625d294c4b134b04458bbc8403392ab]
+## 75. Examination of proposals[^c-d625d294c4b134b04458bbc8403392ab]
 
 *Extent: S*
 
@@ -54,4 +54,4 @@ may (if it or they consider it appropriate) appoint a person (“the reporter”
 
 ## Annotations
 
-[^key-d625d294c4b134b04458bbc8403392ab]: Commencement: [S. 75](https://www.legislation.gov.uk/asp/2019/17/section/75) in force at 10.1.2022 by [S.S.I. 2021/428](https://www.legislation.gov.uk/ssi/2021/428), [reg. 2](https://www.legislation.gov.uk/ssi/2021/428/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/428/schedule)
+[^c-d625d294c4b134b04458bbc8403392ab]: Commencement: [S. 75](https://www.legislation.gov.uk/asp/2019/17/section/75) in force at 10.1.2022 by [S.S.I. 2021/428](https://www.legislation.gov.uk/ssi/2021/428), [reg. 2](https://www.legislation.gov.uk/ssi/2021/428/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/428/schedule)

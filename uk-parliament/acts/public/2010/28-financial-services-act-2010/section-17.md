@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Power to require FSCS manager to act in relation to other schemes[^key-f4ce97305da9edb1d2918b720a4ac835]
+## 17. Power to require FSCS manager to act in relation to other schemes[^c-f4ce97305da9edb1d2918b720a4ac835]
 
 *Extent: E+W+S+N.I.*
 
@@ -135,4 +135,4 @@ In the Financial Services and Markets Act 2000, after Part 15 insert—
 
 ## Annotations
 
-[^key-f4ce97305da9edb1d2918b720a4ac835]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2010/28/section/17) in force at 12.10.2010 by [S.I. 2010/2480](https://www.legislation.gov.uk/uksi/2010/2480), [art. 2(d)](https://www.legislation.gov.uk/uksi/2010/2480/article/2/d)
+[^c-f4ce97305da9edb1d2918b720a4ac835]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2010/28/section/17) in force at 12.10.2010 by [S.I. 2010/2480](https://www.legislation.gov.uk/uksi/2010/2480), [art. 2(d)](https://www.legislation.gov.uk/uksi/2010/2480/article/2/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. The Transport and Works (Applications and Objections Procedure) (England and Wales) Rules 2006[^key-b489a97ac944ad30de5eb84ad50f4d46]
+## 36. The Transport and Works (Applications and Objections Procedure) (England and Wales) Rules 2006[^c-b489a97ac944ad30de5eb84ad50f4d46]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ The Transport and Works (Applications and Objections Procedure) (England and Wal
 
 ## Annotations
 
-[^key-b489a97ac944ad30de5eb84ad50f4d46]: Commencement: [Reg. 36](https://www.legislation.gov.uk/wsi/2024/924/regulation/36) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-b489a97ac944ad30de5eb84ad50f4d46]: Commencement: [Reg. 36](https://www.legislation.gov.uk/wsi/2024/924/regulation/36) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
 
 [^f00024]: Footnote: [S.I. 2006/1466](https://www.legislation.gov.uk/uksi/2006/1466), to which there are amendments not relevant to these Regulations.

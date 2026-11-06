@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 96. Trees in conservation areas in Scotland: acts of Crown[^key-ee129d7956c1d4619829e461b68b5769]
+## 96. Trees in conservation areas in Scotland: acts of Crown[^c-ee129d7956c1d4619829e461b68b5769]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ In the Town and Country Planning (Scotland) Act 1997 (c. 8), after section 172(4
 
 ## Annotations
 
-[^key-ee129d7956c1d4619829e461b68b5769]: Commencement: S. 96 in force at 12.6.2006 by [S.S.I. 2006/268](https://www.legislation.gov.uk/ssi/2006/268), [art. 3(b)](https://www.legislation.gov.uk/ssi/2006/268/article/3/b)
+[^c-ee129d7956c1d4619829e461b68b5769]: Commencement: S. 96 in force at 12.6.2006 by [S.S.I. 2006/268](https://www.legislation.gov.uk/ssi/2006/268), [art. 3(b)](https://www.legislation.gov.uk/ssi/2006/268/article/3/b)

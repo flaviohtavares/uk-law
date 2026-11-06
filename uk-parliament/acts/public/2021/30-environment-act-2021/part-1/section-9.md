@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Annual reports on environmental improvement plans[^key-798dda339396f4a02f42056b172f5fdc][^key-53429de832ccc5c5a78081950fdaf667]
+## 9. Annual reports on environmental improvement plans[^c-798dda339396f4a02f42056b172f5fdc][^c-53429de832ccc5c5a78081950fdaf667]
 
 *Extent: E+W*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-798dda339396f4a02f42056b172f5fdc]: Commencement: S. 9 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-798dda339396f4a02f42056b172f5fdc]: Commencement: S. 9 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-53429de832ccc5c5a78081950fdaf667]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2021/30/section/9) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/b)
+[^c-53429de832ccc5c5a78081950fdaf667]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2021/30/section/9) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 282B. Serious terrorism sentence of imprisonment: circumstances in which required[^key-8588c5b67fef43aacfb359bbdbfa92f3]
+## 282B. Serious terrorism sentence of imprisonment: circumstances in which required[^c-8588c5b67fef43aacfb359bbdbfa92f3]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8588c5b67fef43aacfb359bbdbfa92f3]: Textual amendment: [Ss. 282A-282C](https://www.legislation.gov.uk/ukpga/2020/17/section/282A) and cross-heading inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 5](https://www.legislation.gov.uk/ukpga/2021/11/section/5), [50(2)(c)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/c)
+[^c-8588c5b67fef43aacfb359bbdbfa92f3]: Textual amendment: [Ss. 282A-282C](https://www.legislation.gov.uk/ukpga/2020/17/section/282A) and cross-heading inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 5](https://www.legislation.gov.uk/ukpga/2021/11/section/5), [50(2)(c)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/c)

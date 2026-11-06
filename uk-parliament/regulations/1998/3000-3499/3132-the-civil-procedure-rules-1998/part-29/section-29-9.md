@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29.9. Conduct of trial[^key-f005e6809eef8025905397b1f092271b]
+## 29.9. Conduct of trial[^c-f005e6809eef8025905397b1f092271b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Unless the trial judge otherwise directs, the trial will be conducted in accorda
 
 ## Annotations
 
-[^key-f005e6809eef8025905397b1f092271b]: Commencement: [Rule 29.9](https://www.legislation.gov.uk/uksi/1998/3132/rule/29.9) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-f005e6809eef8025905397b1f092271b]: Commencement: [Rule 29.9](https://www.legislation.gov.uk/uksi/1998/3132/rule/29.9) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)

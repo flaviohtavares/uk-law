@@ -39,11 +39,11 @@ The Department for Communities[^f00001] makes the following Order in exercise of
 
 The Powers are exercisable by the Department by virtue of Article 2 the Welfare Reform (Northern Ireland) Order 2015 (Cessation of Transitory Provision) Order 2020[^f00003].
 
-## 1. Citation[^key-a59d493a619f98d4589e6558c47191eb]
+## 1. Citation[^c-a59d493a619f98d4589e6558c47191eb]
 
 This Order may be cited as the Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 17) Order (Northern Ireland) 2023.
 
-## 2. Appointed day[^key-b1094ab4527b43c43d31489f5f122ca1]
+## 2. Appointed day[^c-b1094ab4527b43c43d31489f5f122ca1]
 
 (1) The following provisions of the Welfare Reform (Northern Ireland) Order 2015 come into operation on 19th July 2023.
 
@@ -213,6 +213,6 @@ The following provisions of the Welfare Reform (Northern Ireland) [Order 2015 (N
 
 [^f00003]: Footnote: [S.I. 2020/927](https://www.legislation.gov.uk/uksi/2020/927)
 
-[^key-a59d493a619f98d4589e6558c47191eb]: Commencement: Art. 1 in operation at made date
+[^c-a59d493a619f98d4589e6558c47191eb]: Commencement: Art. 1 in operation at made date
 
-[^key-b1094ab4527b43c43d31489f5f122ca1]: Commencement: Art. 2 in operation at made date
+[^c-b1094ab4527b43c43d31489f5f122ca1]: Commencement: Art. 2 in operation at made date

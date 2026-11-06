@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Mobility factor[^key-63ce20bffc82ce13c8c550d1c363f122]
+## 19. Mobility factor[^c-63ce20bffc82ce13c8c550d1c363f122]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ excluding pupils who joined the school in the nursery class (if the school has s
 
 ## Annotations
 
-[^key-63ce20bffc82ce13c8c550d1c363f122]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2025/42/regulation/19) in force at 17.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/42/regulation/1/2)
+[^c-63ce20bffc82ce13c8c550d1c363f122]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2025/42/regulation/19) in force at 17.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/42/regulation/1/2)

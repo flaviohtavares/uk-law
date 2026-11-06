@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 10. Acting for another public authority[^key-2ddfd4c81f246b0b8bda27865bf5edc8][^key-c5f359d3a46b3b30af8b583f76b9a4c1]
+## 10. Acting for another public authority[^c-2ddfd4c81f246b0b8bda27865bf5edc8][^c-c5f359d3a46b3b30af8b583f76b9a4c1]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2ddfd4c81f246b0b8bda27865bf5edc8]: Commencement: S. 10 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-2ddfd4c81f246b0b8bda27865bf5edc8]: Commencement: S. 10 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-c5f359d3a46b3b30af8b583f76b9a4c1]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2025/28/section/10) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)
+[^c-c5f359d3a46b3b30af8b583f76b9a4c1]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2025/28/section/10) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)

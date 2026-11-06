@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 40. Reports of inspections under section 39[^key-427a904a17b6f7cec85a6294b4ff64b4]
+## 40. Reports of inspections under section 39[^c-427a904a17b6f7cec85a6294b4ff64b4]
 
 *Extent: S*
 
@@ -64,4 +64,4 @@ the Scottish Ministers must serve a copy of the report on every person who appea
 
 ## Annotations
 
-[^key-427a904a17b6f7cec85a6294b4ff64b4]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2013/7/section/40) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-427a904a17b6f7cec85a6294b4ff64b4]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2013/7/section/40) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)

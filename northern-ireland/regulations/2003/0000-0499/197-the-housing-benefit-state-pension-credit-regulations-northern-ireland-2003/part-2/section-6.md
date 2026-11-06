@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 6. Applicable amounts[^key-7a4aef662c777e19e14ed572d3a7f91b]
+## 6. Applicable amounts[^c-7a4aef662c777e19e14ed572d3a7f91b]
 
 *Extent: N.I.*
 
@@ -215,7 +215,7 @@ summary: ''
 
 ## Annotations
 
-[^key-7a4aef662c777e19e14ed572d3a7f91b]: Commencement: Reg. 6 in operation at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2003/197/regulation/1/1/b)
+[^c-7a4aef662c777e19e14ed572d3a7f91b]: Commencement: Reg. 6 in operation at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2003/197/regulation/1/1/b)
 
 [^f00014]: Footnote: Schedule A1 was inserted by regulation 6 of [S.R. 1996 No. 448](https://www.legislation.gov.uk/nisr/1996/448)
 

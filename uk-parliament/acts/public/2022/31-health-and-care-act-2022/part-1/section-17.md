@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Secondments to NHS England[^key-39337ee9a3c79fc255d6cb0d52ee6d29][^key-6c4b371ad84b961122fa35a6dc73c55e]
+## 17. Secondments to NHS England[^c-39337ee9a3c79fc255d6cb0d52ee6d29][^c-6c4b371ad84b961122fa35a6dc73c55e]
 
 *Extent: E+W*
 
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-39337ee9a3c79fc255d6cb0d52ee6d29]: Commencement: S. 17 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-39337ee9a3c79fc255d6cb0d52ee6d29]: Commencement: S. 17 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-6c4b371ad84b961122fa35a6dc73c55e]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2022/31/section/17) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-6c4b371ad84b961122fa35a6dc73c55e]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2022/31/section/17) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

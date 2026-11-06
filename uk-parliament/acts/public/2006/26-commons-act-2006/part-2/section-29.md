@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Constitution[^c1968247][^key-d5d4a2da02fde6bd492fd21883de9a3e]
+## 29. Constitution[^c1968247][^c-d5d4a2da02fde6bd492fd21883de9a3e]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ the provision made under subsection (3) prevails, to the extent of the inconsist
 
 [^c1968247]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2006/26/section/29) partly in force; [s. 29](https://www.legislation.gov.uk/ukpga/2006/26/section/29) not in force at Royal Assent see [s. 56(1)](https://www.legislation.gov.uk/ukpga/2006/26/section/56/1); [s. 29(1)(6)](https://www.legislation.gov.uk/ukpga/2006/26/section/29/1/6) in force for certain purposes for W. at 12.8.2007 by [S.I. 2007/2386](https://www.legislation.gov.uk/uksi/2007/2386), [art. 2](https://www.legislation.gov.uk/uksi/2007/2386/article/2)
 
-[^key-d5d4a2da02fde6bd492fd21883de9a3e]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2006/26/section/29) in force at 20.1.2010 for E. by [S.I. 2010/61](https://www.legislation.gov.uk/uksi/2010/61), [art. 2](https://www.legislation.gov.uk/uksi/2010/61/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2010/61/article/3))
+[^c-d5d4a2da02fde6bd492fd21883de9a3e]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2006/26/section/29) in force at 20.1.2010 for E. by [S.I. 2010/61](https://www.legislation.gov.uk/uksi/2010/61), [art. 2](https://www.legislation.gov.uk/uksi/2010/61/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2010/61/article/3))

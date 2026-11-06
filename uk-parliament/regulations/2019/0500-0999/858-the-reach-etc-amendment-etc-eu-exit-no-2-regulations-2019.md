@@ -56,19 +56,19 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 The requirements of paragraph 3(2) of Schedule 7 to that Act (relating to the appropriate Parliamentary procedure for these Regulations) have been satisfied.
 
-## 1. Citation and commencement[^key-57db46d1e10410598d605b33e756e3cc]
+## 1. Citation and commencement[^c-57db46d1e10410598d605b33e756e3cc]
 
-These Regulations may be cited as the REACH etc. (Amendment etc.) (EU Exit) (No. 2) Regulations 2019 and come into force immediately before Part 2 of the REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 comes into force[^key-89310efa6350a394b5d689c6c4c88eb5].
+These Regulations may be cited as the REACH etc. (Amendment etc.) (EU Exit) (No. 2) Regulations 2019 and come into force immediately before Part 2 of the REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 comes into force[^c-89310efa6350a394b5d689c6c4c88eb5].
 
-## 2. Amendment of the REACH etc. (Amendment etc.) (EU Exit) Regulations 2019[^key-c44a6c511f599e9ac0c4b4ee6681b735]
+## 2. Amendment of the REACH etc. (Amendment etc.) (EU Exit) Regulations 2019[^c-c44a6c511f599e9ac0c4b4ee6681b735]
 
 The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 [^c23712521] are amended in accordance with regulations 3 to 5.
 
-## 3. Amendment of regulation 12[^key-6d731743e4be2d8b0e99a3a8f17dc21d]
+## 3. Amendment of regulation 12[^c-6d731743e4be2d8b0e99a3a8f17dc21d]
 
 In regulation 12, for “(Enforcement)”, in both places it occurs (including the heading), substitute “ Enforcement ”.
 
-## 4. Amendment of Schedule 2[^key-cd203369d1d84375e965d51ea8741e59]
+## 4. Amendment of Schedule 2[^c-cd203369d1d84375e965d51ea8741e59]
 
 (1) Schedule 2 (transitional provision) is amended in accordance with this regulation.
 
@@ -207,7 +207,7 @@ In regulation 12, for “(Enforcement)”, in both places it occurs (including t
 
 .
 
-## 5. Amendment of Schedule 10[^key-329c4ca9a0046f0a2e9c15b91b8972aa]
+## 5. Amendment of Schedule 10[^c-329c4ca9a0046f0a2e9c15b91b8972aa]
 
 (1) Schedule 10 (amendment of the REACH Enforcement Regulations 2008) is amended in accordance with this regulation.
 
@@ -239,16 +239,16 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23712511]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-57db46d1e10410598d605b33e756e3cc]: Commencement: Reg. 1 in force at 31.12.2020 immediately before S.I. 2020/1577, Pt. 2 comes into force, see reg. 1 (as amended by [S.I. 2020/1577](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/a), [12(2)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/12/2))
+[^c-57db46d1e10410598d605b33e756e3cc]: Commencement: Reg. 1 in force at 31.12.2020 immediately before S.I. 2020/1577, Pt. 2 comes into force, see reg. 1 (as amended by [S.I. 2020/1577](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/a), [12(2)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/12/2))
 
-[^key-89310efa6350a394b5d689c6c4c88eb5]: Textual amendment: Words in reg. 1 substituted (18.12.2020) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/a), [12(2)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/12/2)
+[^c-89310efa6350a394b5d689c6c4c88eb5]: Textual amendment: Words in reg. 1 substituted (18.12.2020) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/a), [12(2)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/12/2)
 
-[^key-c44a6c511f599e9ac0c4b4ee6681b735]: Commencement: Reg. 2 in force at 31.12.2020 immediately before S.I. 2020/1577, Pt. 2 comes into force, see reg. 1 (as amended by [S.I. 2020/1577](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/a), [12(2)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/12/2))
+[^c-c44a6c511f599e9ac0c4b4ee6681b735]: Commencement: Reg. 2 in force at 31.12.2020 immediately before S.I. 2020/1577, Pt. 2 comes into force, see reg. 1 (as amended by [S.I. 2020/1577](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/a), [12(2)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/12/2))
 
 [^c23712521]: Marginal citation: [S.I. 2019/758](https://www.legislation.gov.uk/uksi/2019/758).
 
-[^key-6d731743e4be2d8b0e99a3a8f17dc21d]: Commencement: Reg. 3 in force at 31.12.2020 immediately before S.I. 2020/1577, Pt. 2 comes into force, see reg. 1 (as amended by [S.I. 2020/1577](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/a), [12(2)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/12/2))
+[^c-6d731743e4be2d8b0e99a3a8f17dc21d]: Commencement: Reg. 3 in force at 31.12.2020 immediately before S.I. 2020/1577, Pt. 2 comes into force, see reg. 1 (as amended by [S.I. 2020/1577](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/a), [12(2)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/12/2))
 
-[^key-cd203369d1d84375e965d51ea8741e59]: Commencement: Reg. 4 in force at 31.12.2020 immediately before S.I. 2020/1577, Pt. 2 comes into force, see reg. 1 (as amended by [S.I. 2020/1577](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/a), [12(2)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/12/2))
+[^c-cd203369d1d84375e965d51ea8741e59]: Commencement: Reg. 4 in force at 31.12.2020 immediately before S.I. 2020/1577, Pt. 2 comes into force, see reg. 1 (as amended by [S.I. 2020/1577](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/a), [12(2)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/12/2))
 
-[^key-329c4ca9a0046f0a2e9c15b91b8972aa]: Commencement: Reg. 5 in force at 31.12.2020 immediately before S.I. 2020/1577, Pt. 2 comes into force, see reg. 1 (as amended by [S.I. 2020/1577](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/a), [12(2)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/12/2))
+[^c-329c4ca9a0046f0a2e9c15b91b8972aa]: Commencement: Reg. 5 in force at 31.12.2020 immediately before S.I. 2020/1577, Pt. 2 comes into force, see reg. 1 (as amended by [S.I. 2020/1577](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/a), [12(2)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/12/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 32. Statutory undertakers and operators of the electronic communications code network[^key-a1e9426258e74723db18411d51c7f6f4]
+## 32. Statutory undertakers and operators of the electronic communications code network[^c-a1e9426258e74723db18411d51c7f6f4]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ The undertaker may, subject to Schedule 13 (protective provisions)—
 
 ## Annotations
 
-[^key-a1e9426258e74723db18411d51c7f6f4]: Commencement: Art. 32 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-a1e9426258e74723db18411d51c7f6f4]: Commencement: Art. 32 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)

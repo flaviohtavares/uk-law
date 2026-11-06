@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Material subject to the Counter-Terrorism Act 2008 (Scotland)[^key-362a0ceef0d3b70333ba770a049fa36d]
+## 20. Material subject to the Counter-Terrorism Act 2008 (Scotland)[^c-362a0ceef0d3b70333ba770a049fa36d]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-362a0ceef0d3b70333ba770a049fa36d]: Textual amendment: S. 20 omitted (15.12.2011) by virtue of [Terrorism Prevention and Investigation Measures Act 2011 (c. 23)](https://www.legislation.gov.uk/ukpga/2011/23), [s. 31(2)](https://www.legislation.gov.uk/ukpga/2011/23/section/31/2), [Sch. 7 para. 6(4)](https://www.legislation.gov.uk/ukpga/2011/23/schedule/7/paragraph/6/4) (with [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/23/schedule/8))
+[^c-362a0ceef0d3b70333ba770a049fa36d]: Textual amendment: S. 20 omitted (15.12.2011) by virtue of [Terrorism Prevention and Investigation Measures Act 2011 (c. 23)](https://www.legislation.gov.uk/ukpga/2011/23), [s. 31(2)](https://www.legislation.gov.uk/ukpga/2011/23/section/31/2), [Sch. 7 para. 6(4)](https://www.legislation.gov.uk/ukpga/2011/23/schedule/7/paragraph/6/4) (with [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/23/schedule/8))

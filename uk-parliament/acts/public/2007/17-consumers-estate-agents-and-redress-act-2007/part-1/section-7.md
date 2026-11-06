@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Annual report[^key-145e911272f8a791cc0700f8a1fda7c4]
+## 7. Annual report[^c-145e911272f8a791cc0700f8a1fda7c4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-145e911272f8a791cc0700f8a1fda7c4]: Textual amendment: S. 7 omitted (1.4.2014) by virtue of [The Public Bodies (Abolition of the National Consumer Council and Transfer of the Office of Fair Trading's Functions in relation to Estate Agents etc) Order 2014 (S.I. 2014/631)](https://www.legislation.gov.uk/uksi/2014/631) , [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3) , [Sch. 1 para. 12(10)](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/12/10) (with [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/28) , [Sch. 2 paras. 13-15](https://www.legislation.gov.uk/uksi/2014/631/schedule/2/paragraph/13) )
+[^c-145e911272f8a791cc0700f8a1fda7c4]: Textual amendment: S. 7 omitted (1.4.2014) by virtue of [The Public Bodies (Abolition of the National Consumer Council and Transfer of the Office of Fair Trading's Functions in relation to Estate Agents etc) Order 2014 (S.I. 2014/631)](https://www.legislation.gov.uk/uksi/2014/631) , [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3) , [Sch. 1 para. 12(10)](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/12/10) (with [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/28) , [Sch. 2 paras. 13-15](https://www.legislation.gov.uk/uksi/2014/631/schedule/2/paragraph/13) )

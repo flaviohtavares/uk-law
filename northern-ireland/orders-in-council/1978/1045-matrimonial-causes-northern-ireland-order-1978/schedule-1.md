@@ -68,7 +68,7 @@ it shall be the duty of the court, subject to paragraph 10(2), to order that the
 
 ### Discretionary stays
 
-**9.** (1) Where before the beginning of the trial or first trial in any matrimonial proceedings[^key-b5685124aa23d086469750687e9c38c3]... which are continuing in the court it appears to the court—
+**9.** (1) Where before the beginning of the trial or first trial in any matrimonial proceedings[^c-b5685124aa23d086469750687e9c38c3]... which are continuing in the court it appears to the court—
 
 - (a) that any proceedings in respect of the marriage in question, or capable of affecting its validity or subsistence, are continuing in another jurisdiction; and
 - (b) that the balance of fairness (including convenience) as between the parties to the marriage is such that it is appropriate for the proceedings in that jurisdiction to be disposed of before further steps are taken in the proceedings in the court or in those proceedings so far as they consist of a particular kind of matrimonial proceedings,
@@ -121,6 +121,6 @@ the court may then, if it thinks fit, order that the proceedings in the court be
 
 ## Annotations
 
-[^key-b5685124aa23d086469750687e9c38c3]: Textual amendment: Words in [Sch. 1 para. 9(1)](https://www.legislation.gov.uk/nisi/1978/1045/schedule/1/paragraph/9/1) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 8(5)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/8/5) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b5685124aa23d086469750687e9c38c3]: Textual amendment: Words in [Sch. 1 para. 9(1)](https://www.legislation.gov.uk/nisi/1978/1045/schedule/1/paragraph/9/1) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 8(5)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/8/5) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c16977311]: Textual amendment: [1995 NI 2](https://www.legislation.gov.uk/1995/ni2)

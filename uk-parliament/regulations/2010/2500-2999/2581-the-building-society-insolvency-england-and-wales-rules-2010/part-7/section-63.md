@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 63. Building society liquidator to allow inspection of proofs[^key-bef8f455524bf970bbb008270faec828]
+## 63. Building society liquidator to allow inspection of proofs[^c-bef8f455524bf970bbb008270faec828]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.79 of the 1986 Rules.
 
 ## Annotations
 
-[^key-bef8f455524bf970bbb008270faec828]: Commencement: Rule 63 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-bef8f455524bf970bbb008270faec828]: Commencement: Rule 63 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

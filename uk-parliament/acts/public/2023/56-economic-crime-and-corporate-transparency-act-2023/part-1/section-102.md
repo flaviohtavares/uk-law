@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102. General false statement offences[^key-62ce28923d8582d2b739228aa0ac8ee9][^key-95251c817cf44d1391e2745f7819e3a5]
+## 102. General false statement offences[^c-62ce28923d8582d2b739228aa0ac8ee9][^c-95251c817cf44d1391e2745f7819e3a5]
 
 *Extent: E+W+S+N.I.*
 
@@ -71,6 +71,6 @@ summary: ''
 
 ## Annotations
 
-[^key-62ce28923d8582d2b739228aa0ac8ee9]: Commencement: S. 102 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-62ce28923d8582d2b739228aa0ac8ee9]: Commencement: S. 102 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-95251c817cf44d1391e2745f7819e3a5]: Commencement: [S. 102](https://www.legislation.gov.uk/ukpga/2023/56/section/102) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z40)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z40)
+[^c-95251c817cf44d1391e2745f7819e3a5]: Commencement: [S. 102](https://www.legislation.gov.uk/ukpga/2023/56/section/102) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z40)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z40)

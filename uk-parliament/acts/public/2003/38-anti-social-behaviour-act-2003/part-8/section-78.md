@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 78. Offences committed by bodies corporate[^key-ee9bd3379812c7220e1b6453b21a6790][^key-87c1b521cc20624575820f213d1a5adb]
+## 78. Offences committed by bodies corporate[^c-ee9bd3379812c7220e1b6453b21a6790][^c-87c1b521cc20624575820f213d1a5adb]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ he, as well as the body corporate, shall be guilty of that offence and be liable
 
 ## Annotations
 
-[^key-ee9bd3379812c7220e1b6453b21a6790]: Commencement: S. 78 in force at 31.12.2004 for W. by [S.I. 2004/3238](https://www.legislation.gov.uk/uksi/2004/3238), [art. 2](https://www.legislation.gov.uk/uksi/2004/3238/article/2)
+[^c-ee9bd3379812c7220e1b6453b21a6790]: Commencement: S. 78 in force at 31.12.2004 for W. by [S.I. 2004/3238](https://www.legislation.gov.uk/uksi/2004/3238), [art. 2](https://www.legislation.gov.uk/uksi/2004/3238/article/2)
 
-[^key-87c1b521cc20624575820f213d1a5adb]: Commencement: S. 78 in force at 1.6.2005 for E. by [S.I. 2005/710](https://www.legislation.gov.uk/uksi/2005/710), [art. 2](https://www.legislation.gov.uk/uksi/2005/710/article/2)
+[^c-87c1b521cc20624575820f213d1a5adb]: Commencement: S. 78 in force at 1.6.2005 for E. by [S.I. 2005/710](https://www.legislation.gov.uk/uksi/2005/710), [art. 2](https://www.legislation.gov.uk/uksi/2005/710/article/2)

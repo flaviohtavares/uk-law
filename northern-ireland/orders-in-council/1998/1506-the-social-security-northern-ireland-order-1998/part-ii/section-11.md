@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1)[^c17080821][^c17080831] Subject to paragraph (3)[^c17080841] and Article 36(3) *(affected by repeal, see note)*[^key-95b201a671b70e624e7de19d0940ab15], the following, namely—
+(1)[^c17080821][^c17080831] Subject to paragraph (3)[^c17080841] and Article 36(3) *(affected by repeal, see note)*[^c-95b201a671b70e624e7de19d0940ab15], the following, namely—
 
 - (a) any decision of the Department under Article 9 or this Article, whether as originally made or as revised under Article 10; and
 - (b) any decision under this Chapter of an appeal tribunal or a Commissioner,
@@ -47,4 +47,4 @@ Para. (4) rep. by SI 1999/671
 
 [^c17080841]: Textual amendment: SI 1999/671
 
-[^key-95b201a671b70e624e7de19d0940ab15]: Textual amendment: Words in [art. 11(1)](https://www.legislation.gov.uk/nisi/1998/1506/article/11/1) repealed (28.11.2016 for specified purposes) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 12 Pt. 7](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/7); [S.R. 2016/411](https://www.legislation.gov.uk/nisr/2016/411), [art. 2(3)(c)](https://www.legislation.gov.uk/nisr/2016/411/article/2/3/c) (with [art. 4](https://www.legislation.gov.uk/nisr/2016/411/article/4))
+[^c-95b201a671b70e624e7de19d0940ab15]: Textual amendment: Words in [art. 11(1)](https://www.legislation.gov.uk/nisi/1998/1506/article/11/1) repealed (28.11.2016 for specified purposes) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 12 Pt. 7](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/7); [S.R. 2016/411](https://www.legislation.gov.uk/nisr/2016/411), [art. 2(3)(c)](https://www.legislation.gov.uk/nisr/2016/411/article/2/3/c) (with [art. 4](https://www.legislation.gov.uk/nisr/2016/411/article/4))

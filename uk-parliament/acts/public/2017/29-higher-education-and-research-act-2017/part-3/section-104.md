@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104. General duties[^key-34c34fd47883f3ac9d7b4c161e083485]
+## 104. General duties[^c-34c34fd47883f3ac9d7b4c161e083485]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-34c34fd47883f3ac9d7b4c161e083485]: Commencement: [S. 104](https://www.legislation.gov.uk/ukpga/2017/29/section/104) in force at 30.3.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/241/regulation/3/a)
+[^c-34c34fd47883f3ac9d7b4c161e083485]: Commencement: [S. 104](https://www.legislation.gov.uk/ukpga/2017/29/section/104) in force at 30.3.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/241/regulation/3/a)

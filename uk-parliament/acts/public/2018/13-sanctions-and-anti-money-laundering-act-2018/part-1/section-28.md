@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Periodic review where ships are specified[^key-4b0117ee2bfe6332884d63c648ab05ca]
+## 28. Periodic review where ships are specified[^c-4b0117ee2bfe6332884d63c648ab05ca]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4b0117ee2bfe6332884d63c648ab05ca]: Textual amendment: [S. 28](https://www.legislation.gov.uk/ukpga/2018/13/section/28) omitted (15.3.2022) by virtue of [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [ss. 62(1)(b)](https://www.legislation.gov.uk/ukpga/2022/10/section/62/1/b), [69(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/3)
+[^c-4b0117ee2bfe6332884d63c648ab05ca]: Textual amendment: [S. 28](https://www.legislation.gov.uk/ukpga/2018/13/section/28) omitted (15.3.2022) by virtue of [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [ss. 62(1)(b)](https://www.legislation.gov.uk/ukpga/2022/10/section/62/1/b), [69(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/3)

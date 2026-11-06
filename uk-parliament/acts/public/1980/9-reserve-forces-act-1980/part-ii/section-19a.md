@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19A. Postponement of discharge of members of Regular Reserve during call out.[^c11524901][^key-a4a6117152a70855c16dfaf06fa247f5]
+## 19A. Postponement of discharge of members of Regular Reserve during call out.[^c11524901][^c-a4a6117152a70855c16dfaf06fa247f5]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,7 +37,7 @@ but this is subject to subsection (6) below.
 
 (6) If it is so specified in the declaration, he is entitled to be discharged at the end of three months’ notice given by him to his commanding officer.
 
-(7) In subsections (3) to (5) above “the competent military authority” and “prescribed” have the same meaning as in Part I of the Army Act 1955. *(affected by repeal, see note)*[^key-c33f2d3dae9c7cf2855ecd123923467e]
+(7) In subsections (3) to (5) above “the competent military authority” and “prescribed” have the same meaning as in Part I of the Army Act 1955. *(affected by repeal, see note)*[^c-c33f2d3dae9c7cf2855ecd123923467e]
 
 In subsections (3) to (5)—
 
@@ -58,6 +58,6 @@ In subsections (3) to (5)—
 
 [^c11524901]: Textual amendment: S.19A inserted (1.1.1999) by 1998/3086, reg. 11, Sch. para. 6
 
-[^key-a4a6117152a70855c16dfaf06fa247f5]: Textual amendment: Words in Act substituted (1.10.2014) by [Defence Reform Act 2014 (c. 20)](https://www.legislation.gov.uk/ukpga/2014/20), [s. 44(3)(a)](https://www.legislation.gov.uk/ukpga/2014/20/section/44/3/a)[(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/44/4)[50(1)](https://www.legislation.gov.uk/ukpga/2014/20/section/50/1) (with [s. 49(3)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/3)[(5)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/5)); [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(a)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/a)
+[^c-a4a6117152a70855c16dfaf06fa247f5]: Textual amendment: Words in Act substituted (1.10.2014) by [Defence Reform Act 2014 (c. 20)](https://www.legislation.gov.uk/ukpga/2014/20), [s. 44(3)(a)](https://www.legislation.gov.uk/ukpga/2014/20/section/44/3/a)[(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/44/4)[50(1)](https://www.legislation.gov.uk/ukpga/2014/20/section/50/1) (with [s. 49(3)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/3)[(5)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/5)); [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(a)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/a)
 
-[^key-c33f2d3dae9c7cf2855ecd123923467e]: Textual amendment: S. 19A(7) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 14 para. 5](https://www.legislation.gov.uk/ukpga/2006/52/schedule/14/paragraph/5); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-c33f2d3dae9c7cf2855ecd123923467e]: Textual amendment: S. 19A(7) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 14 para. 5](https://www.legislation.gov.uk/ukpga/2006/52/schedule/14/paragraph/5); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

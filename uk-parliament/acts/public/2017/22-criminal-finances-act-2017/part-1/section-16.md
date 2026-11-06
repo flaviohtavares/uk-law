@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Forfeiture of money held in bank and building society accounts[^key-5514325b3756e8a4baba6071357cf954][^key-11ee41f5e373e85e546edad54a176ab7][^key-2baa5cfb1411e0f3c0362280adb02212][^c22725201]
+## 16. Forfeiture of money held in bank and building society accounts[^c-5514325b3756e8a4baba6071357cf954][^c-11ee41f5e373e85e546edad54a176ab7][^c-2baa5cfb1411e0f3c0362280adb02212][^c22725201]
 
 *Extent: E+W+S+N.I.*
 
@@ -152,9 +152,9 @@ In Part 5 of the Proceeds of Crime Act 2002 (civil recovery of the proceeds etc 
 > - (b) a person who—
 >   - (i) is specified, or is within a class of persons specified, by an order under section 38 of that Act (exemption orders), and
 >   - (ii) accepts deposits;
-> - (c) an EEA firm of the kind mentioned in paragraph 5(b) of Schedule 3 to that Act that has permission under paragraph 15 of that Schedule (as a result of qualifying for authorisation under paragraph 12(1) of that Schedule) to accept deposits. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-c8a44f5a08c8ba484fa3f8fe55b7a16e]
+> - (c) an EEA firm of the kind mentioned in paragraph 5(b) of Schedule 3 to that Act that has permission under paragraph 15 of that Schedule (as a result of qualifying for authorisation under paragraph 12(1) of that Schedule) to accept deposits. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-c8a44f5a08c8ba484fa3f8fe55b7a16e]
 >
-> (3) A reference in subsection (2) to a person or firm *(Extent: N.I.)* *(affected by repeal, see note)*[^key-373bd8d72d2f3d5ac91b102c733d46a5] with permission to accept deposits does not include a person or firm *(Extent: N.I.)* *(affected by repeal, see note)*[^key-373bd8d72d2f3d5ac91b102c733d46a5] with permission to do so only for the purposes of, or in the course of, an activity other than accepting deposits.
+> (3) A reference in subsection (2) to a person or firm *(Extent: N.I.)* *(affected by repeal, see note)*[^c-373bd8d72d2f3d5ac91b102c733d46a5] with permission to accept deposits does not include a person or firm *(Extent: N.I.)* *(affected by repeal, see note)*[^c-373bd8d72d2f3d5ac91b102c733d46a5] with permission to do so only for the purposes of, or in the course of, an activity other than accepting deposits.
 >
 > **303Z8. “The minimum amount”**
 >
@@ -430,14 +430,14 @@ In Part 5 of the Proceeds of Crime Act 2002 (civil recovery of the proceeds etc 
 
 ## Annotations
 
-[^key-5514325b3756e8a4baba6071357cf954]: Commencement: S. 16 in force at 30.1.2018 for specified purposes for E.W.S. by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/78/regulation/2/b)
+[^c-5514325b3756e8a4baba6071357cf954]: Commencement: S. 16 in force at 30.1.2018 for specified purposes for E.W.S. by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/78/regulation/2/b)
 
-[^key-11ee41f5e373e85e546edad54a176ab7]: Commencement: S. 16 in force at 31.1.2018 for E.W.S. in so far as not already in force by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/d)
+[^c-11ee41f5e373e85e546edad54a176ab7]: Commencement: S. 16 in force at 31.1.2018 for E.W.S. in so far as not already in force by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/d)
 
-[^key-2baa5cfb1411e0f3c0362280adb02212]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2017/22/section/16) in force at 28.6.2021 for N.I. in so far as not already in force by [S.I. 2021/724](https://www.legislation.gov.uk/uksi/2021/724), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2021/724/regulation/2/1/g)
+[^c-2baa5cfb1411e0f3c0362280adb02212]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2017/22/section/16) in force at 28.6.2021 for N.I. in so far as not already in force by [S.I. 2021/724](https://www.legislation.gov.uk/uksi/2021/724), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2021/724/regulation/2/1/g)
 
 [^c22725201]: Commencement: S. 16 in force at Royal Assent for specified purposes, see s. 58
 
-[^key-c8a44f5a08c8ba484fa3f8fe55b7a16e]: Textual amendment: Words in s. 16 omitted (N.I.) (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [109(3)(a)](https://www.legislation.gov.uk/uksi/2019/742/regulation/109/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c8a44f5a08c8ba484fa3f8fe55b7a16e]: Textual amendment: Words in s. 16 omitted (N.I.) (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [109(3)(a)](https://www.legislation.gov.uk/uksi/2019/742/regulation/109/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-373bd8d72d2f3d5ac91b102c733d46a5]: Textual amendment: Words in s. 16 omitted (N.I.) (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [109(3)(b)](https://www.legislation.gov.uk/uksi/2019/742/regulation/109/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-373bd8d72d2f3d5ac91b102c733d46a5]: Textual amendment: Words in s. 16 omitted (N.I.) (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [109(3)(b)](https://www.legislation.gov.uk/uksi/2019/742/regulation/109/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

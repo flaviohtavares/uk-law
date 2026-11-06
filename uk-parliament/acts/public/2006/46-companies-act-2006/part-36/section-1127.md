@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1127. Summary proceedings: venue[^c18928821][^c19692631][^c19920201][^c19919921][^c19919801][^c19919471][^c19919411][^c19919351][^c19919301][^c20605271][^c21737801][^c21737871][^key-21482c60fcfe31f311299102e5350a61][^key-6ea024f82bd4b869a242ea63c79dbe37][^key-02a2b94160bd557519f374706dd8b7ce]
+## 1127. Summary proceedings: venue[^c18928821][^c19692631][^c19920201][^c19919921][^c19919801][^c19919471][^c19919411][^c19919351][^c19919301][^c20605271][^c21737801][^c21737871][^c-21482c60fcfe31f311299102e5350a61][^c-6ea024f82bd4b869a242ea63c79dbe37][^c-02a2b94160bd557519f374706dd8b7ce]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,8 +53,8 @@ summary: ''
 
 [^c21737871]: Modification: S. 1127 applied (with modifications) (E.W.) (2.1.2013) by [The Charitable Incorporated Organisations (Insolvency and Dissolution) Regulations 2012 (S.I. 2012/3013)](https://www.legislation.gov.uk/uksi/2012/3013), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3013/regulation/1), [15(1)(2)](https://www.legislation.gov.uk/uksi/2012/3013/regulation/15/1/2)
 
-[^key-21482c60fcfe31f311299102e5350a61]: Modification: Ss. 1127 1128 applied (26.5.2015) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [s. 164(3)(g)(ii)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/g/ii), [Sch. 4 para. 19(c)](https://www.legislation.gov.uk/ukpga/2015/26/schedule/4/paragraph/19/c)
+[^c-21482c60fcfe31f311299102e5350a61]: Modification: Ss. 1127 1128 applied (26.5.2015) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [s. 164(3)(g)(ii)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/g/ii), [Sch. 4 para. 19(c)](https://www.legislation.gov.uk/ukpga/2015/26/schedule/4/paragraph/19/c)
 
-[^key-6ea024f82bd4b869a242ea63c79dbe37]: Modification: S. 1127 applied (with modifications) (26.6.2017) by [The Scottish Partnerships (Register of People with Significant Control) Regulations 2017 (S.I. 2017/694)](https://www.legislation.gov.uk/uksi/2017/694), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/694/regulation/1/1), [71](https://www.legislation.gov.uk/uksi/2017/694/regulation/71)
+[^c-6ea024f82bd4b869a242ea63c79dbe37]: Modification: S. 1127 applied (with modifications) (26.6.2017) by [The Scottish Partnerships (Register of People with Significant Control) Regulations 2017 (S.I. 2017/694)](https://www.legislation.gov.uk/uksi/2017/694), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/694/regulation/1/1), [71](https://www.legislation.gov.uk/uksi/2017/694/regulation/71)
 
-[^key-02a2b94160bd557519f374706dd8b7ce]: Modification: S. 1127 applied by S.I. 2008/565, reg. 13 (as substituted (with effect in accordance with reg. 2(4) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2017/1164/schedule/2/paragraph/12) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7)))
+[^c-02a2b94160bd557519f374706dd8b7ce]: Modification: S. 1127 applied by S.I. 2008/565, reg. 13 (as substituted (with effect in accordance with reg. 2(4) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2017/1164/schedule/2/paragraph/12) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7)))

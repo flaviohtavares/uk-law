@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Establishment of independent panel[^key-0e8658e2b36c83fdfc4c6bdf6b01cc83]
+## 53. Establishment of independent panel[^c-0e8658e2b36c83fdfc4c6bdf6b01cc83]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0e8658e2b36c83fdfc4c6bdf6b01cc83]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2011/20/section/53) in force at 31.5.2012 by [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 5](https://www.legislation.gov.uk/uksi/2012/1008/article/5)
+[^c-0e8658e2b36c83fdfc4c6bdf6b01cc83]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2011/20/section/53) in force at 31.5.2012 by [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 5](https://www.legislation.gov.uk/uksi/2012/1008/article/5)

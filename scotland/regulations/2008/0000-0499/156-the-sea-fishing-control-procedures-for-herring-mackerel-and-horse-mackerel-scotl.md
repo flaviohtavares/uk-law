@@ -32,7 +32,7 @@ summary: ''
 
 SEA FISHERIES
 
-The Sea Fishing (Control Procedures for Herring, Mackerel and Horse Mackerel) (Scotland) Amendment Order 2008 (revoked)[^key-ab47bb7a79121c675c5161cbb59d94d6]
+The Sea Fishing (Control Procedures for Herring, Mackerel and Horse Mackerel) (Scotland) Amendment Order 2008 (revoked)[^c-ab47bb7a79121c675c5161cbb59d94d6]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 9th May 2008
 
-[^key-ab47bb7a79121c675c5161cbb59d94d6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ab47bb7a79121c675c5161cbb59d94d6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-ab47bb7a79121c675c5161cbb59d94d6]
+## 1. Citation, commencement and extent[^c-ab47bb7a79121c675c5161cbb59d94d6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Sea Fishing (Control Procedures for Herring, Mackerel and Horse Mackerel) (Scotland) Order 2008[^key-ab47bb7a79121c675c5161cbb59d94d6]
+## 2. Amendment of the Sea Fishing (Control Procedures for Herring, Mackerel and Horse Mackerel) (Scotland) Order 2008[^c-ab47bb7a79121c675c5161cbb59d94d6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ab47bb7a79121c675c5161cbb59d94d6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ab47bb7a79121c675c5161cbb59d94d6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ab47bb7a79121c675c5161cbb59d94d6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ab47bb7a79121c675c5161cbb59d94d6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ab47bb7a79121c675c5161cbb59d94d6]: Textual amendment: Order revoked (5.10.2015) by [The Sea Fishing (EU Control Measures) (Scotland) Order 2015 (S.S.I. 2015/320)](https://www.legislation.gov.uk/ssi/2015/320), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/320/article/1/1i), [31(1)(i)](https://www.legislation.gov.uk/ssi/2015/320/article/31/1/i) (with [art. 31(3)](https://www.legislation.gov.uk/ssi/2015/320/article/31/3))
+[^c-ab47bb7a79121c675c5161cbb59d94d6]: Textual amendment: Order revoked (5.10.2015) by [The Sea Fishing (EU Control Measures) (Scotland) Order 2015 (S.S.I. 2015/320)](https://www.legislation.gov.uk/ssi/2015/320), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/320/article/1/1i), [31(1)(i)](https://www.legislation.gov.uk/ssi/2015/320/article/31/1/i) (with [art. 31(3)](https://www.legislation.gov.uk/ssi/2015/320/article/31/3))

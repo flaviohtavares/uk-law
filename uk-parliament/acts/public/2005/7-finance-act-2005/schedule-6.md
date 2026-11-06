@@ -24,7 +24,7 @@ Section 92
 
 ### Part 1 — New Part 3A of the Capital Allowances Act 2001
 
-**1.**[^key-43f4b63458237036b29097cd14d1b84d] After Part 3 of CAA 2001 insert—
+**1.**[^c-43f4b63458237036b29097cd14d1b84d] After Part 3 of CAA 2001 insert—
 
 > **PART 3A — BUSINESS PREMISES RENOVATION ALLOWANCES**
 >
@@ -477,35 +477,35 @@ Section 92
 
 ### Part 2 — Consequential amendments
 
-**2.**[^key-f1a37d31a32eceeb17931eca776a156f] In section 1(2) of CAA 2001 (capital allowances provided for by Act), after paragraph (b) insert—
+**2.**[^c-f1a37d31a32eceeb17931eca776a156f] In section 1(2) of CAA 2001 (capital allowances provided for by Act), after paragraph (b) insert—
 
 > - (ba) Part 3A (business premises renovation allowances)
 
 .
 
-**3.**[^key-a5d52ddc38d874b0f88276d9f4f80b9c] In section 2(3) of CAA 2001 (provisions about giving effect to allowances and charges), after the entry in the list for sections 352 to 355 of that Act insert— “ sections 360Z and 360Z1 (business premises renovation allowances) ”.
+**3.**[^c-a5d52ddc38d874b0f88276d9f4f80b9c] In section 2(3) of CAA 2001 (provisions about giving effect to allowances and charges), after the entry in the list for sections 352 to 355 of that Act insert— “ sections 360Z and 360Z1 (business premises renovation allowances) ”.
 
-**4.**[^key-4f8720821d10692ff743c2cdeef47e17] In section 3 of CAA 2001 (claims for capital allowances) after subsection (2) insert—
+**4.**[^c-4f8720821d10692ff743c2cdeef47e17] In section 3 of CAA 2001 (claims for capital allowances) after subsection (2) insert—
 
 > (2A) Any claim for an allowance under Part 3A (business premises renovation allowances) must be separately identified as such in the return.
 
-**5.**[^key-5f0d24b6ed1b5cdd46218968c731cbfe] In section 537(1) of CAA 2001 (general conditions for making contribution allowances under Parts 2 to 4 and 5), and in the section heading and the cross-heading preceding that section, for “Parts 2 to 4 and 5” substitute “ Parts 2, 3, 4 and 5 ”.
+**5.**[^c-5f0d24b6ed1b5cdd46218968c731cbfe] In section 537(1) of CAA 2001 (general conditions for making contribution allowances under Parts 2 to 4 and 5), and in the section heading and the cross-heading preceding that section, for “Parts 2 to 4 and 5” substitute “ Parts 2, 3, 4 and 5 ”.
 
-**6.**[^key-bc348a29fc3e28d0b8b202544715e5e4] In section 546 of CAA 2001 (interpretation of VAT provisions), before the “and” at the end of paragraph (b) insert—
+**6.**[^c-bc348a29fc3e28d0b8b202544715e5e4] In section 546 of CAA 2001 (interpretation of VAT provisions), before the “and” at the end of paragraph (b) insert—
 
 > - (ba) Chapter 10 of Part 3A (business premises renovation allowances: additional VAT liabilities and rebates),
 
 .
 
-**7.**[^key-2e6a766c40bbdbf9e9c884c669206132] In section 567(1) of CAA 2001 (Parts of Act for purposes of which provisions about sales not at market value apply), after “3,” insert “ 3A, ”.
+**7.**[^c-2e6a766c40bbdbf9e9c884c669206132] In section 567(1) of CAA 2001 (Parts of Act for purposes of which provisions about sales not at market value apply), after “3,” insert “ 3A, ”.
 
-**8.**[^key-3387d80bd7c01050f0f9cd4cdb8aee35] In section 570(1) of CAA 2001 (elections under section 569 of that Act: supplementary), after “Part” insert “ 3A, ”.
+**8.**[^c-3387d80bd7c01050f0f9cd4cdb8aee35] In section 570(1) of CAA 2001 (elections under section 569 of that Act: supplementary), after “Part” insert “ 3A, ”.
 
-**9.**[^key-ea7675713f761946f8292b42817e5032] In section 570A(1) of CAA 2001 (avoidance affecting proceeds of balancing event), after “3,” insert “ , 3A ”.
+**9.**[^c-ea7675713f761946f8292b42817e5032] In section 570A(1) of CAA 2001 (avoidance affecting proceeds of balancing event), after “3,” insert “ , 3A ”.
 
-**10.**[^key-4f7b4532553278b77ed62e2c3e950234] In section 573(1) of CAA 2001 (transfers treated as sales), after “3,” insert “ 3A, ”.
+**10.**[^c-4f7b4532553278b77ed62e2c3e950234] In section 573(1) of CAA 2001 (transfers treated as sales), after “3,” insert “ 3A, ”.
 
-**11.**[^key-1e0e1945c3a0eca78a1d48d92657aebb] (1) Part 2 of Schedule 1 to CAA 2001 (list of defined expressions) is amended as follows.
+**11.**[^c-1e0e1945c3a0eca78a1d48d92657aebb] (1) Part 2 of Schedule 1 to CAA 2001 (list of defined expressions) is amended as follows.
 
 (2) Insert the following entries in the appropriate places—
 
@@ -549,24 +549,24 @@ Section 92
 
 ## Annotations
 
-[^key-43f4b63458237036b29097cd14d1b84d]: Commencement: Sch. 6 para. 1 has effect as specified by [The Finance Act 2005, Section 92 and Schedule 6, (Appointed Day) Order 2007 (S.I. 2007/949)](https://www.legislation.gov.uk/uksi/2007/949), [art. 2](https://www.legislation.gov.uk/uksi/2007/949/article/2)
+[^c-43f4b63458237036b29097cd14d1b84d]: Commencement: Sch. 6 para. 1 has effect as specified by [The Finance Act 2005, Section 92 and Schedule 6, (Appointed Day) Order 2007 (S.I. 2007/949)](https://www.legislation.gov.uk/uksi/2007/949), [art. 2](https://www.legislation.gov.uk/uksi/2007/949/article/2)
 
-[^key-f1a37d31a32eceeb17931eca776a156f]: Commencement: Sch. 6 para. 2 has effect as specified by [The Finance Act 2005, Section 92 and Schedule 6, (Appointed Day) Order 2007 (S.I. 2007/949)](https://www.legislation.gov.uk/uksi/2007/949), [art. 2](https://www.legislation.gov.uk/uksi/2007/949/article/2)
+[^c-f1a37d31a32eceeb17931eca776a156f]: Commencement: Sch. 6 para. 2 has effect as specified by [The Finance Act 2005, Section 92 and Schedule 6, (Appointed Day) Order 2007 (S.I. 2007/949)](https://www.legislation.gov.uk/uksi/2007/949), [art. 2](https://www.legislation.gov.uk/uksi/2007/949/article/2)
 
-[^key-a5d52ddc38d874b0f88276d9f4f80b9c]: Commencement: Sch. 6 para. 3 has effect as specified by [The Finance Act 2005, Section 92 and Schedule 6, (Appointed Day) Order 2007 (S.I. 2007/949)](https://www.legislation.gov.uk/uksi/2007/949), [art. 2](https://www.legislation.gov.uk/uksi/2007/949/article/2)
+[^c-a5d52ddc38d874b0f88276d9f4f80b9c]: Commencement: Sch. 6 para. 3 has effect as specified by [The Finance Act 2005, Section 92 and Schedule 6, (Appointed Day) Order 2007 (S.I. 2007/949)](https://www.legislation.gov.uk/uksi/2007/949), [art. 2](https://www.legislation.gov.uk/uksi/2007/949/article/2)
 
-[^key-4f8720821d10692ff743c2cdeef47e17]: Commencement: Sch. 6 para. 4 has effect as specified by [The Finance Act 2005, Section 92 and Schedule 6, (Appointed Day) Order 2007 (S.I. 2007/949)](https://www.legislation.gov.uk/uksi/2007/949), [art. 2](https://www.legislation.gov.uk/uksi/2007/949/article/2)
+[^c-4f8720821d10692ff743c2cdeef47e17]: Commencement: Sch. 6 para. 4 has effect as specified by [The Finance Act 2005, Section 92 and Schedule 6, (Appointed Day) Order 2007 (S.I. 2007/949)](https://www.legislation.gov.uk/uksi/2007/949), [art. 2](https://www.legislation.gov.uk/uksi/2007/949/article/2)
 
-[^key-5f0d24b6ed1b5cdd46218968c731cbfe]: Commencement: Sch. 6 para. 5 has effect as specified by [The Finance Act 2005, Section 92 and Schedule 6, (Appointed Day) Order 2007 (S.I. 2007/949)](https://www.legislation.gov.uk/uksi/2007/949), [art. 2](https://www.legislation.gov.uk/uksi/2007/949/article/2)
+[^c-5f0d24b6ed1b5cdd46218968c731cbfe]: Commencement: Sch. 6 para. 5 has effect as specified by [The Finance Act 2005, Section 92 and Schedule 6, (Appointed Day) Order 2007 (S.I. 2007/949)](https://www.legislation.gov.uk/uksi/2007/949), [art. 2](https://www.legislation.gov.uk/uksi/2007/949/article/2)
 
-[^key-bc348a29fc3e28d0b8b202544715e5e4]: Commencement: Sch. 6 para. 6 has effect as specified by [The Finance Act 2005, Section 92 and Schedule 6, (Appointed Day) Order 2007 (S.I. 2007/949)](https://www.legislation.gov.uk/uksi/2007/949), [art. 2](https://www.legislation.gov.uk/uksi/2007/949/article/2)
+[^c-bc348a29fc3e28d0b8b202544715e5e4]: Commencement: Sch. 6 para. 6 has effect as specified by [The Finance Act 2005, Section 92 and Schedule 6, (Appointed Day) Order 2007 (S.I. 2007/949)](https://www.legislation.gov.uk/uksi/2007/949), [art. 2](https://www.legislation.gov.uk/uksi/2007/949/article/2)
 
-[^key-2e6a766c40bbdbf9e9c884c669206132]: Commencement: Sch. 6 para. 7 has effect as specified by [The Finance Act 2005, Section 92 and Schedule 6, (Appointed Day) Order 2007 (S.I. 2007/949)](https://www.legislation.gov.uk/uksi/2007/949), [art. 2](https://www.legislation.gov.uk/uksi/2007/949/article/2)
+[^c-2e6a766c40bbdbf9e9c884c669206132]: Commencement: Sch. 6 para. 7 has effect as specified by [The Finance Act 2005, Section 92 and Schedule 6, (Appointed Day) Order 2007 (S.I. 2007/949)](https://www.legislation.gov.uk/uksi/2007/949), [art. 2](https://www.legislation.gov.uk/uksi/2007/949/article/2)
 
-[^key-3387d80bd7c01050f0f9cd4cdb8aee35]: Commencement: Sch. 6 para. 8 has effect as specified by [The Finance Act 2005, Section 92 and Schedule 6, (Appointed Day) Order 2007 (S.I. 2007/949)](https://www.legislation.gov.uk/uksi/2007/949), [art. 2](https://www.legislation.gov.uk/uksi/2007/949/article/2)
+[^c-3387d80bd7c01050f0f9cd4cdb8aee35]: Commencement: Sch. 6 para. 8 has effect as specified by [The Finance Act 2005, Section 92 and Schedule 6, (Appointed Day) Order 2007 (S.I. 2007/949)](https://www.legislation.gov.uk/uksi/2007/949), [art. 2](https://www.legislation.gov.uk/uksi/2007/949/article/2)
 
-[^key-ea7675713f761946f8292b42817e5032]: Commencement: Sch. 6 para. 9 has effect as specified by [The Finance Act 2005, Section 92 and Schedule 6, (Appointed Day) Order 2007 (S.I. 2007/949)](https://www.legislation.gov.uk/uksi/2007/949), [art. 2](https://www.legislation.gov.uk/uksi/2007/949/article/2)
+[^c-ea7675713f761946f8292b42817e5032]: Commencement: Sch. 6 para. 9 has effect as specified by [The Finance Act 2005, Section 92 and Schedule 6, (Appointed Day) Order 2007 (S.I. 2007/949)](https://www.legislation.gov.uk/uksi/2007/949), [art. 2](https://www.legislation.gov.uk/uksi/2007/949/article/2)
 
-[^key-4f7b4532553278b77ed62e2c3e950234]: Commencement: Sch. 6 para. 10 has effect as specified by [The Finance Act 2005, Section 92 and Schedule 6, (Appointed Day) Order 2007 (S.I. 2007/949)](https://www.legislation.gov.uk/uksi/2007/949), [art. 2](https://www.legislation.gov.uk/uksi/2007/949/article/2)
+[^c-4f7b4532553278b77ed62e2c3e950234]: Commencement: Sch. 6 para. 10 has effect as specified by [The Finance Act 2005, Section 92 and Schedule 6, (Appointed Day) Order 2007 (S.I. 2007/949)](https://www.legislation.gov.uk/uksi/2007/949), [art. 2](https://www.legislation.gov.uk/uksi/2007/949/article/2)
 
-[^key-1e0e1945c3a0eca78a1d48d92657aebb]: Commencement: Sch. 6 para. 11 has effect as specified by [The Finance Act 2005, Section 92 and Schedule 6, (Appointed Day) Order 2007 (S.I. 2007/949)](https://www.legislation.gov.uk/uksi/2007/949), [art. 2](https://www.legislation.gov.uk/uksi/2007/949/article/2)
+[^c-1e0e1945c3a0eca78a1d48d92657aebb]: Commencement: Sch. 6 para. 11 has effect as specified by [The Finance Act 2005, Section 92 and Schedule 6, (Appointed Day) Order 2007 (S.I. 2007/949)](https://www.legislation.gov.uk/uksi/2007/949), [art. 2](https://www.legislation.gov.uk/uksi/2007/949/article/2)

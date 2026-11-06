@@ -22,13 +22,13 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-43725be9e2213a6d9578728ffcf3c5f0] A service declaration shall state—
+(1)[^c-43725be9e2213a6d9578728ffcf3c5f0] A service declaration shall state—
 
 - (a) the date of the declaration.
 - (b) [^c14479821]. . . that on that date the declarant is, or but for the circumstances entitling him to make the declaration would have been, residing in the United Kingdom,
 - (c)[^c14479831] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) the address where the declarant is or, as the case may be, [^c14479841]. . . would have been residing in the United Kingdom or, if he cannot give any such address, an address at which he has resided in the United Kingdom,
-- (e) that on the date of the declaration the declarant is a Commonwealth citizen or a citizen of the Republic of Ireland or[^c14479851] —[^key-35731fa3e6dd9ed5d7443fa9b6f76f73]
+- (e) that on the date of the declaration the declarant is a Commonwealth citizen or a citizen of the Republic of Ireland or[^c14479851] —[^c-35731fa3e6dd9ed5d7443fa9b6f76f73]
   - (i) if the declaration is made for the purposes only of the registration of local government electors in England, a qualifying EU citizen or an EU citizen with retained rights, or
   - (ii) if the declaration is made for the purposes only of the registration of local government electors in Wales, a relevant citizen of the Union or a qualifying foreign citizen,
 - (f) whether the declarant had on the date of the declaration attained the age of 18 years, and, if he had not, the date of his birth, and
@@ -36,7 +36,7 @@ summary: ''
 
 and (except where the declarant is a member of the forces or the spouse or civil partner[^c19328281] of such a member) shall be attested in the prescribed manner.
 
-(2)[^key-868ddf91b123c6b19992872667c8071e] In relation to the registration of local government electors in Wales, a service declaration made by a person claiming to have a service qualification under section 14(1A) does not require to be attested.
+(2)[^c-868ddf91b123c6b19992872667c8071e] In relation to the registration of local government electors in Wales, a service declaration made by a person claiming to have a service qualification under section 14(1A) does not require to be attested.
 
 ## 16. Contents of service declaration.[^V_S_503f3d0c-2ddd-7501-3488-e0ab60780a79][^V_S_a5715be0-d21c-667e-3c2c-cc0738ede025][^V_S_e5b09461-33c9-ddce-fe68-98908a44949a][^M_E_3c7e43a5-cbe2-4eca-e00d-7152ba2e4f93][^c14479931]
 
@@ -66,7 +66,7 @@ A service declaration shall state—
 - (b) [^V_NI_4ac48b6b-1376-03df-4cb2-74e5d6655ce9]. . . that on that date the declarant is, or but for the circumstances entitling him to make the declaration would have been, residing in the United Kingdom,
 - (c)[^V_NI_0ba24924-7d71-289d-8b87-e838e6f72969] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) the address where the declarant is or, as the case may be, [^V_NI_c21c7d22-738e-1d02-8d3b-1d606ff79019]. . . would have been residing in the United Kingdom or, if he cannot give any such address, an address at which he has resided in the United Kingdom,
-- (e) that on the date of the declaration the declarant is a Commonwealth citizen or a citizen of the Republic of Ireland or a qualifying EU citizen or an EU citizen with retained rights[^key-7956ec4b868e93346789c7754b769e46],
+- (e) that on the date of the declaration the declarant is a Commonwealth citizen or a citizen of the Republic of Ireland or a qualifying EU citizen or an EU citizen with retained rights[^c-7956ec4b868e93346789c7754b769e46],
 - (f) whether the declarant had on the date of the declaration attained the age of 18 years, and, if he had not, the date of his birth, and
 - (g) such particulars (if any) as may be prescribed of the declarant’s identity and service qualifications,
 
@@ -78,7 +78,7 @@ and (except where the declarant is a member of the forces or the spouse or civil
 
 [^M_E_4d03b1e0-f891-4ca9-a119-501f6c0b51b8]: Extent: This version of this provision extends to England and Wales; separate versions have been created for Scotland and Northern Ireland only
 
-[^key-43725be9e2213a6d9578728ffcf3c5f0]: Textual amendment: S. 16 renumbered as s. 16(1) (E.W.) (1.6.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [ss. 20(4)(a)](https://www.legislation.gov.uk/anaw/2020/1/section/20/4/a), [42(3)(a)](https://www.legislation.gov.uk/anaw/2020/1/section/42/3/a)
+[^c-43725be9e2213a6d9578728ffcf3c5f0]: Textual amendment: S. 16 renumbered as s. 16(1) (E.W.) (1.6.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [ss. 20(4)(a)](https://www.legislation.gov.uk/anaw/2020/1/section/20/4/a), [42(3)(a)](https://www.legislation.gov.uk/anaw/2020/1/section/42/3/a)
 
 [^c14479821]: Textual amendment: Words in s. 16(b) repealed (29.1.2001 for certain purposes and 16.2.2001 otherwise) by [2000 c. 2](https://www.legislation.gov.uk/ukpga/2000/2), [ss. 8(a)](https://www.legislation.gov.uk/ukpga/2000/2/section/8/a), [15(2)](https://www.legislation.gov.uk/ukpga/2000/2/section/15/2), [Sch. 1 para. 9(a)](https://www.legislation.gov.uk/ukpga/2000/2/schedule/1/paragraph/9/a), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/2000/2/schedule/7/part/I); [S.I. 2001/116](https://www.legislation.gov.uk/uksi/2001/116), [art. 2(1)(2)](https://www.legislation.gov.uk/uksi/2001/116/article/2/1/2) (with [art. 2(4)](https://www.legislation.gov.uk/uksi/2001/116/article/2/4))
 
@@ -88,11 +88,11 @@ and (except where the declarant is a member of the forces or the spouse or civil
 
 [^c14479851]: Textual amendment: Words in s. 16(e) inserted (6.8.1995) by [S.I. 1995/1948](https://www.legislation.gov.uk/uksi/1995/1948), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1995/1948/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/1995/1948/regulation/5/2), [Sch. 2 paras. 3(b)](https://www.legislation.gov.uk/uksi/1995/1948/schedule/2/paragraph/3/b), [6](https://www.legislation.gov.uk/uksi/1995/1948/schedule/2/paragraph/6)
 
-[^key-35731fa3e6dd9ed5d7443fa9b6f76f73]: Textual amendment: Words in s. 16(1)(e) substituted (E.W.) (7.5.2024) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(4)(a)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/4/a), [Sch. 8 para. 1(5)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/1/5); [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/5/b) (with [Sch. para. 1(3)](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/1/3))
+[^c-35731fa3e6dd9ed5d7443fa9b6f76f73]: Textual amendment: Words in s. 16(1)(e) substituted (E.W.) (7.5.2024) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(4)(a)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/4/a), [Sch. 8 para. 1(5)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/1/5); [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/5/b) (with [Sch. para. 1(3)](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/1/3))
 
 [^c19328281]: Textual amendment: Words in s. 16 substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [ss. 261(1)](https://www.legislation.gov.uk/ukpga/2004/33/section/261/1), [263](https://www.legislation.gov.uk/ukpga/2004/33/section/263), [Sch. 27 para. 81](https://www.legislation.gov.uk/ukpga/2004/33/schedule/27/paragraph/81); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2](https://www.legislation.gov.uk/uksi/2005/3175/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
 
-[^key-868ddf91b123c6b19992872667c8071e]: Textual amendment: S. 16(2) inserted (E.W.) (1.6.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [ss. 20(4)(c)](https://www.legislation.gov.uk/anaw/2020/1/section/20/4/c), [42(3)(a)](https://www.legislation.gov.uk/anaw/2020/1/section/42/3/a)
+[^c-868ddf91b123c6b19992872667c8071e]: Textual amendment: S. 16(2) inserted (E.W.) (1.6.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [ss. 20(4)(c)](https://www.legislation.gov.uk/anaw/2020/1/section/20/4/c), [42(3)(a)](https://www.legislation.gov.uk/anaw/2020/1/section/42/3/a)
 
 [^V_S_503f3d0c-2ddd-7501-3488-e0ab60780a79]: Modification: Ss. 15-17 applied (with modifications) (17.2.1994) by [S.I. 1994/342](https://www.legislation.gov.uk/uksi/1994/342), [regs. 1(2)(3)](https://www.legislation.gov.uk/uksi/1994/342/regulation/1/2/3), [2(2)](https://www.legislation.gov.uk/uksi/1994/342/regulation/2/2), [13(3)](https://www.legislation.gov.uk/uksi/1994/342/regulation/13/3)
 
@@ -134,6 +134,6 @@ and (except where the declarant is a member of the forces or the spouse or civil
 
 [^V_NI_c21c7d22-738e-1d02-8d3b-1d606ff79019]: Textual amendment: Words in s. 16(d) repealed (29.1.2001 for certain purposes and 16.2.2001 otherwise) by [2000 c. 2](https://www.legislation.gov.uk/ukpga/2000/2), [ss. 8(a)](https://www.legislation.gov.uk/ukpga/2000/2/section/8/a), [15(2)](https://www.legislation.gov.uk/ukpga/2000/2/section/15/2), [Sch. 1 para. 9(c)](https://www.legislation.gov.uk/ukpga/2000/2/schedule/1/paragraph/9/c), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/2000/2/schedule/7/part/I); [S.I. 2001/116](https://www.legislation.gov.uk/uksi/2001/116), [art. 2(1)(2)](https://www.legislation.gov.uk/uksi/2001/116/article/2/1/2) (with [art. 2(4)](https://www.legislation.gov.uk/uksi/2001/116/article/2/4))
 
-[^key-7956ec4b868e93346789c7754b769e46]: Textual amendment: Words in s. 16(1)(e) substituted (N.I.) (7.5.2024) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(4)(c)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/4/c), [Sch. 8 para. 1(6)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/1/6); [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/5/b) (with [Sch. para. 1(3)](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/1/3))
+[^c-7956ec4b868e93346789c7754b769e46]: Textual amendment: Words in s. 16(1)(e) substituted (N.I.) (7.5.2024) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(4)(c)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/4/c), [Sch. 8 para. 1(6)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/1/6); [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/5/b) (with [Sch. para. 1(3)](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/1/3))
 
 [^V_NI_6da50603-9a2f-71d7-b31d-e06d07eff68d]: Textual amendment: Words in s. 16 substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [ss. 261(1)](https://www.legislation.gov.uk/ukpga/2004/33/section/261/1), [263](https://www.legislation.gov.uk/ukpga/2004/33/section/263), [Sch. 27 para. 81](https://www.legislation.gov.uk/ukpga/2004/33/schedule/27/paragraph/81); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2](https://www.legislation.gov.uk/uksi/2005/3175/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)

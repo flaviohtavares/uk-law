@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45B. Goods moved from Northern Ireland: position in relation to export procedures[^key-3b6e6e1813175b4d20d9555bab03b2f2]
+## 45B. Goods moved from Northern Ireland: position in relation to export procedures[^c-3b6e6e1813175b4d20d9555bab03b2f2]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3b6e6e1813175b4d20d9555bab03b2f2]: Textual amendment: Ss. 45A-45C inserted (20.2.2024) by [The Windsor Framework (UK Internal Market and Unfettered Access) Regulations 2024 (S.I. 2024/163)](https://www.legislation.gov.uk/uksi/2024/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/163/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/163/regulation/2/2)
+[^c-3b6e6e1813175b4d20d9555bab03b2f2]: Textual amendment: Ss. 45A-45C inserted (20.2.2024) by [The Windsor Framework (UK Internal Market and Unfettered Access) Regulations 2024 (S.I. 2024/163)](https://www.legislation.gov.uk/uksi/2024/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/163/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/163/regulation/2/2)

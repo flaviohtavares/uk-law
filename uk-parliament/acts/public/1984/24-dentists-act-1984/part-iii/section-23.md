@@ -26,16 +26,16 @@ summary: ''
 
 (3) The registrar may send by post to a registered dentist a notice inquiring whether he has ceased to practise or has changed his residence and, if no answer is received to the inquiry within six months from the posting of the notice, he may erase the dentist’s name from the register.
 
-(4)[^key-753e78bde2e42ada37415ea1e180b1f8] Where a person’s name has been erased from the register under subsection (2) or (3) or at his request, then, unless the original entry of his name was incorrectly made or fraudulently procured, the name shall be restored to the register on his application if he satisfies the registrar that he meets the requirements of—
+(4)[^c-753e78bde2e42ada37415ea1e180b1f8] Where a person’s name has been erased from the register under subsection (2) or (3) or at his request, then, unless the original entry of his name was incorrectly made or fraudulently procured, the name shall be restored to the register on his application if he satisfies the registrar that he meets the requirements of—
 
 - (a) section 15(3)(a) to (c);
 - (b) section 26A; and
 - (c) any rules made under section 34B which apply to his case.
 
-(5)[^key-7f62f7d4a64df4563518ef6489977953] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-7f62f7d4a64df4563518ef6489977953] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-753e78bde2e42ada37415ea1e180b1f8]: Textual amendment: S. 23(4) substituted (coming into force in accordance with art. 1(4)-(7) of the amending S.I. (see the London Gazette, issue nos. 57734, 57975, 58050 and 58769, dated respectively 19.8.2005, 5.6.2006, 21.7.2006 and 18.7.2008)) by [The Dentists Act 1984 (Amendment) Order 2005 (S.I. 2005/2011)](https://www.legislation.gov.uk/uksi/2005/2011), [art. 11(a)](https://www.legislation.gov.uk/uksi/2005/2011/article/11/a) (with [Sch. 7](https://www.legislation.gov.uk/uksi/2005/2011/schedule/7)) (with transitional provisions in [S.I. 2006/1671](https://www.legislation.gov.uk/uksi/2006/1671))
+[^c-753e78bde2e42ada37415ea1e180b1f8]: Textual amendment: S. 23(4) substituted (coming into force in accordance with art. 1(4)-(7) of the amending S.I. (see the London Gazette, issue nos. 57734, 57975, 58050 and 58769, dated respectively 19.8.2005, 5.6.2006, 21.7.2006 and 18.7.2008)) by [The Dentists Act 1984 (Amendment) Order 2005 (S.I. 2005/2011)](https://www.legislation.gov.uk/uksi/2005/2011), [art. 11(a)](https://www.legislation.gov.uk/uksi/2005/2011/article/11/a) (with [Sch. 7](https://www.legislation.gov.uk/uksi/2005/2011/schedule/7)) (with transitional provisions in [S.I. 2006/1671](https://www.legislation.gov.uk/uksi/2006/1671))
 
-[^key-7f62f7d4a64df4563518ef6489977953]: Textual amendment: S. 23(5) omitted (coming into force in accordance with art. 1(4)-(7) of the amending S.I. (see the London Gazette, issue nos. 57734, 57975, 58050 and 58769, dated respectively 19.8.2005, 5.6.2006, 21.7.2006 and 18.7.2008)) by virtue of [The Dentists Act 1984 (Amendment) Order 2005 (S.I. 2005/2011)](https://www.legislation.gov.uk/uksi/2005/2011), [art. 11(b)](https://www.legislation.gov.uk/uksi/2005/2011/article/11/b) (with [Sch. 7](https://www.legislation.gov.uk/uksi/2005/2011/schedule/7)) (with transitional provisions in [S.I. 2006/1671](https://www.legislation.gov.uk/uksi/2006/1671))
+[^c-7f62f7d4a64df4563518ef6489977953]: Textual amendment: S. 23(5) omitted (coming into force in accordance with art. 1(4)-(7) of the amending S.I. (see the London Gazette, issue nos. 57734, 57975, 58050 and 58769, dated respectively 19.8.2005, 5.6.2006, 21.7.2006 and 18.7.2008)) by virtue of [The Dentists Act 1984 (Amendment) Order 2005 (S.I. 2005/2011)](https://www.legislation.gov.uk/uksi/2005/2011), [art. 11(b)](https://www.legislation.gov.uk/uksi/2005/2011/article/11/b) (with [Sch. 7](https://www.legislation.gov.uk/uksi/2005/2011/schedule/7)) (with transitional provisions in [S.I. 2006/1671](https://www.legislation.gov.uk/uksi/2006/1671))

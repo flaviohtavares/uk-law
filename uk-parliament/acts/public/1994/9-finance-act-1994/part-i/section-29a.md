@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29A. Chargeable aircraft: exceptions[^key-3576a927a231981522934312c3ff61b3]
+## 29A. Chargeable aircraft: exceptions[^c-3576a927a231981522934312c3ff61b3]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3576a927a231981522934312c3ff61b3]: Textual amendment: S. 29A inserted (17.7.2012) (with effect in accordance with Sch. 23 para. 23 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 23 para. 19](https://www.legislation.gov.uk/ukpga/2012/14/schedule/23/paragraph/19)
+[^c-3576a927a231981522934312c3ff61b3]: Textual amendment: S. 29A inserted (17.7.2012) (with effect in accordance with Sch. 23 para. 23 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 23 para. 19](https://www.legislation.gov.uk/ukpga/2012/14/schedule/23/paragraph/19)

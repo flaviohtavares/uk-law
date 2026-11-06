@@ -22,7 +22,7 @@ summary: ''
 
 Article 24
 
-### PART 1 — NATIONAL GRID[^key-88cdd5c4cd82565c53b046ca85bbea7a]
+### PART 1 — NATIONAL GRID[^c-88cdd5c4cd82565c53b046ca85bbea7a]
 
 <table>
 <thead>
@@ -38,7 +38,7 @@ Article 24
 </tbody>
 </table>
 
-### PART 2 — UK POWER NETWORKS[^key-58cea0caea2b6f7748c0c447fe9ef37b]
+### PART 2 — UK POWER NETWORKS[^c-58cea0caea2b6f7748c0c447fe9ef37b]
 
 <table>
 <thead>
@@ -56,6 +56,6 @@ Article 24
 
 ## Annotations
 
-[^key-88cdd5c4cd82565c53b046ca85bbea7a]: Commencement: Sch. 8 Pt. 1 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)
+[^c-88cdd5c4cd82565c53b046ca85bbea7a]: Commencement: Sch. 8 Pt. 1 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)
 
-[^key-58cea0caea2b6f7748c0c447fe9ef37b]: Commencement: Sch. 8 Pt. 2 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)
+[^c-58cea0caea2b6f7748c0c447fe9ef37b]: Commencement: Sch. 8 Pt. 2 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)

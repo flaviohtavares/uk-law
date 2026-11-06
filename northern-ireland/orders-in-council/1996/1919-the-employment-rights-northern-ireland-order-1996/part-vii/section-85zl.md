@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 85ZL. Right to unpaid time off to attend adoption appointments[^key-044959d395ae1270a75914ab239ed056]
+## 85ZL. Right to unpaid time off to attend adoption appointments[^c-044959d395ae1270a75914ab239ed056]
 
 *Extent: N.I.*
 
@@ -61,4 +61,4 @@ is entitled to be permitted by his or her employer to take time off during the e
 
 ## Annotations
 
-[^key-044959d395ae1270a75914ab239ed056]: Textual amendment: Arts. 85ZJ-85ZS and cross-headings inserted (5.4.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [ss. 17(2)](https://www.legislation.gov.uk/nia/2015/1/section/17/2), [23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(1)(e)](https://www.legislation.gov.uk/nisr/2015/86/article/4/1/e)
+[^c-044959d395ae1270a75914ab239ed056]: Textual amendment: Arts. 85ZJ-85ZS and cross-headings inserted (5.4.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [ss. 17(2)](https://www.legislation.gov.uk/nia/2015/1/section/17/2), [23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(1)(e)](https://www.legislation.gov.uk/nisr/2015/86/article/4/1/e)

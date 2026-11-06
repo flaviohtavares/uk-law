@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 39. Trespass on the new crossing[^key-c8e6985b6322c0f58b6b9c5c9680045e]
+## 39. Trespass on the new crossing[^c-c8e6985b6322c0f58b6b9c5c9680045e]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ shall be guilty of an offence and liable on summary conviction to a fine not exc
 
 ## Annotations
 
-[^key-c8e6985b6322c0f58b6b9c5c9680045e]: Commencement: Art. 39 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
+[^c-c8e6985b6322c0f58b6b9c5c9680045e]: Commencement: Art. 39 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)

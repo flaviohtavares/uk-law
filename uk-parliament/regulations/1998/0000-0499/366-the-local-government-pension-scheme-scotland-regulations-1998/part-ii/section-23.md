@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 23. Revenue limits[^key-0ffb370a378a85be00af46614f352a73]
+## 23. Revenue limits[^c-0ffb370a378a85be00af46614f352a73]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ Schedule 4 contains restrictions on the amounts of benefits to which a member is
 
 ## Annotations
 
-[^key-0ffb370a378a85be00af46614f352a73]: Commencement: Reg. 23 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-0ffb370a378a85be00af46614f352a73]: Commencement: Reg. 23 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

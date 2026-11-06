@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Amendment of Rule G.1 in Schedule 1 to the RFPS Regulations 2005[^key-b1249c203f8ed64d6f40d81bedbd6b16]
+## 33. Amendment of Rule G.1 in Schedule 1 to the RFPS Regulations 2005[^c-b1249c203f8ed64d6f40d81bedbd6b16]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ Rule G.1(application of Part G) in Schedule 1 to the RFPS Regulations 2005 is am
 
 ## Annotations
 
-[^key-b1249c203f8ed64d6f40d81bedbd6b16]: Commencement: Reg. 33 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)
+[^c-b1249c203f8ed64d6f40d81bedbd6b16]: Commencement: Reg. 33 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)

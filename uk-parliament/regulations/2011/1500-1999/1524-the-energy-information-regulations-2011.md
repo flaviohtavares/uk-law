@@ -58,22 +58,22 @@ These Regulations may be cited as the Energy Information Regulations 2011 and co
 
 (1) In these Regulations—
 
-- “Article” means, except in Schedules 1 and 2, an Article in the[^key-5966fe6a170d66256e8c95e1ea71d932] EU Energy Labelling Regulation;
+- “Article” means, except in Schedules 1 and 2, an Article in the[^c-5966fe6a170d66256e8c95e1ea71d932] EU Energy Labelling Regulation;
 - “authorised person” means a person authorised by the market surveillance authority in accordance with regulation 5;
-- “the[^key-75a259f74b2ea71844a6d7caa81fa139] EU Energy Labelling Regulation” means Regulation (EU) 2017/1369 of the European Parliament and of the Council setting a framework for energy labelling and repealing [Directive 2010/30/EU](https://www.legislation.gov.uk/european/directive/2010/0030);
-- [^key-dacc428a720c7c61897131836e5bd499]...
+- “the[^c-75a259f74b2ea71844a6d7caa81fa139] EU Energy Labelling Regulation” means Regulation (EU) 2017/1369 of the European Parliament and of the Council setting a framework for energy labelling and repealing [Directive 2010/30/EU](https://www.legislation.gov.uk/european/directive/2010/0030);
+- [^c-dacc428a720c7c61897131836e5bd499]...
 - “local weights and measures authority” means in England, Wales and Scotland a local weights and measures authority within the meaning of section 69 of the Weights and Measures Act 1985[^f00004];
-- “market surveillance authority” has the meaning given in regulation 4; [^key-76e36b37f3414796132b10bf42622a95]...
-- “[^key-7266e44ac520fd63148cf595791d1238]**product-specific measure**” means in relation to a product mentioned in column 1 of the table in Schedule 1, the corresponding measure referred to in column 2 of that table; and
+- “market surveillance authority” has the meaning given in regulation 4; [^c-76e36b37f3414796132b10bf42622a95]...
+- “[^c-7266e44ac520fd63148cf595791d1238]**product-specific measure**” means in relation to a product mentioned in column 1 of the table in Schedule 1, the corresponding measure referred to in column 2 of that table; and
 - “RAMS” means Regulation [(EC) No 765/2008](https://www.legislation.gov.uk/european/regulation/2008/0765) of the European Parliament and of the Council setting out the requirements for accreditation and market surveillance relating to the marketing of products and repealing Regulation [(EEC) No 339/93](https://www.legislation.gov.uk/european/regulation/1993/0339)[^f00005].
 
 (2) Expressions not defined in paragraph (1) which are used in these Regulations and—
 
-- (a) in a product-specific measure[^key-563161adc4aea649c4f32bb204e14dc5];
-- (b) in the EU[^key-8b9ba582c0483fdee3e56b2dddfac328] Energy Labelling Regulation; or
+- (a) in a product-specific measure[^c-563161adc4aea649c4f32bb204e14dc5];
+- (b) in the EU[^c-8b9ba582c0483fdee3e56b2dddfac328] Energy Labelling Regulation; or
 - (c) in RAMS,
 
-have the meaning they bear in that product-specific measure[^key-c017c51e0c23e22d32afe0414c3d0d23], EU Energy Labelling Regulation or RAMS.
+have the meaning they bear in that product-specific measure[^c-c017c51e0c23e22d32afe0414c3d0d23], EU Energy Labelling Regulation or RAMS.
 
 ### 2. Interpretation[^M_E_38a24be7-c0dd-46e3-bfc5-4e92a4727734]
 
@@ -101,13 +101,13 @@ have the meaning they bear in that EU measure, EU Energy Labelling Regulation or
 
 *Extent: E+W+S*
 
-(1)[^key-1a7121ba03fe16b9d776f3d6871ba14c] These Regulations apply to energy-related products.
+(1)[^c-1a7121ba03fe16b9d776f3d6871ba14c] These Regulations apply to energy-related products.
 
 (2) These Regulations do not apply to—
 
-- (a) second-hand products unless they are imported from[^key-7486717e64541a787008f61210e1c279] outside Great Britain[^key-76682408cbab6575763dabc8f1363309];
+- (a) second-hand products unless they are imported from[^c-7486717e64541a787008f61210e1c279] outside Great Britain[^c-76682408cbab6575763dabc8f1363309];
 - (b) any means of transport for persons or goods;
-- (c)[^key-8d6313eeee15406fb67d0e6d04812663] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-8d6313eeee15406fb67d0e6d04812663] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 3. Scope[^M_E_7d28ff02-a3ba-4b86-cb56-5864dfb9b08f]
 
@@ -127,21 +127,21 @@ have the meaning they bear in that EU measure, EU Energy Labelling Regulation or
 
 *Extent: E+W+S*
 
-(1)[^key-e9529391a6f7024c8159ad28670d8f9c] The local weights and measures authority, and in relation to Northern Ireland the Department for the Economy, enforce—
+(1)[^c-e9529391a6f7024c8159ad28670d8f9c] The local weights and measures authority, and in relation to Northern Ireland the Department for the Economy, enforce—
 
 - (a) Article 5 (obligations of dealers);
 - (b) Article 6 (other obligations of suppliers and dealers) insofar as it relates to obligations placed on dealers;
 - (c) Article 9(1) and (4) (procedure at national level for dealing with products presenting a risk) insofar as it relates to obligations placed on dealers;
-- (d) Article 11B (duties placed on suppliers and dealers where labels are rescaled)[^key-6e0dd06793b176b5eac0e5b19b4286e7] insofar as it relates to obligations placed on dealers; and
+- (d) Article 11B (duties placed on suppliers and dealers where labels are rescaled)[^c-6e0dd06793b176b5eac0e5b19b4286e7] insofar as it relates to obligations placed on dealers; and
 - (e) RAMS.
 
-(2)[^key-a36c9140f8a613144d306d231bb03563] The Secretary of State enforces—
+(2)[^c-a36c9140f8a613144d306d231bb03563] The Secretary of State enforces—
 
 - (a) Article 3 (general obligations of suppliers);
-- (b)[^key-e10026e7a6d8df8b82b55cd6ab8ee289] Article 4(2), (6) and (8) (obligations of suppliers in relation to product information);
+- (b)[^c-e10026e7a6d8df8b82b55cd6ab8ee289] Article 4(2), (6) and (8) (obligations of suppliers in relation to product information);
 - (c) Article 6 (other obligations of suppliers and dealers) insofar as it relates to obligations placed on suppliers;
 - (d) Article 9(1) and (4) (procedure at national level for dealing with products presenting a risk) insofar as it relates to obligations placed on suppliers;
-- (e) Article 11B (duties placed on suppliers and dealers where labels are rescaled)[^key-5d0ebb5ce3e4e7ddcb0c034e377fc73d] insofar as it relates to obligations placed on suppliers;
+- (e) Article 11B (duties placed on suppliers and dealers where labels are rescaled)[^c-5d0ebb5ce3e4e7ddcb0c034e377fc73d] insofar as it relates to obligations placed on suppliers;
 - (f) Article 12(5) and (6) (product database);
 - (g) Article 20(3) (repeal and transitional measures); and
 - (h) RAMS.
@@ -150,7 +150,7 @@ have the meaning they bear in that EU measure, EU Energy Labelling Regulation or
 
 *Extent: E.W.*
 
-(4)[^key-72b06acd351ca4994f563ccbb56a06a5] The Secretary of State may delegate to the Director of Public Prosecutions functions in relation to the prosecution of an offence under these Regulations.
+(4)[^c-72b06acd351ca4994f563ccbb56a06a5] The Secretary of State may delegate to the Director of Public Prosecutions functions in relation to the prosecution of an offence under these Regulations.
 
 ### 4. Enforcement[^M_E_d857fa70-ec2b-4835-e296-ce605a8221ef]
 
@@ -183,7 +183,7 @@ have the meaning they bear in that EU measure, EU Energy Labelling Regulation or
 
 ### 5. Authorised persons
 
-A market surveillance authority may authorise in writing any person who appears suitable to act on its behalf to carry out any of its functions and to exercise any of the powers or duties conferred by these Regulations, the[^key-d945b61e379ec7065a4ccd6f33d63e1a] EU Energy Labelling Regulation or RAMS.
+A market surveillance authority may authorise in writing any person who appears suitable to act on its behalf to carry out any of its functions and to exercise any of the powers or duties conferred by these Regulations, the[^c-d945b61e379ec7065a4ccd6f33d63e1a] EU Energy Labelling Regulation or RAMS.
 
 ### 6. Schedules[^M_E_ee3dd74c-534e-4799-c4f7-406bf95363d8]
 
@@ -191,7 +191,7 @@ A market surveillance authority may authorise in writing any person who appears 
 
 The following have effect—
 
-- (a) Schedule 1 (product-specific measures[^key-2f6ee7dc9c8d24f015df8b04bcb98fd2]);
+- (a) Schedule 1 (product-specific measures[^c-2f6ee7dc9c8d24f015df8b04bcb98fd2]);
 - (b) Schedule 2 (powers of entry and warrants);
 - (c) Schedule 3 (testing);
 - (d) Schedule 4 (civil sanctions).
@@ -207,27 +207,27 @@ The following have effect—
 - (c) Schedule 3 (testing);
 - (d) Schedule 4 (civil sanctions).
 
-## PART 3 — Responsibilities of suppliers and dealers[^key-1f4a5ed1374516ca7cb37441a66de420]
+## PART 3 — Responsibilities of suppliers and dealers[^c-1f4a5ed1374516ca7cb37441a66de420]
 
 **No longer in force.**
 
-### 7. Responsibilities of suppliers[^key-1f4a5ed1374516ca7cb37441a66de420]
+### 7. Responsibilities of suppliers[^c-1f4a5ed1374516ca7cb37441a66de420]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Responsibilities of dealers[^key-1f4a5ed1374516ca7cb37441a66de420]
+### 8. Responsibilities of dealers[^c-1f4a5ed1374516ca7cb37441a66de420]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 4 — Information[^key-e9237171a0a63412b6e57dfa154c63a4]
+## PART 4 — Information[^c-e9237171a0a63412b6e57dfa154c63a4]
 
 **No longer in force.**
 
-### 9. Information requirements[^key-e9237171a0a63412b6e57dfa154c63a4]
+### 9. Information requirements[^c-e9237171a0a63412b6e57dfa154c63a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Misleading information[^key-e9237171a0a63412b6e57dfa154c63a4]
+### 10. Misleading information[^c-e9237171a0a63412b6e57dfa154c63a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -235,14 +235,14 @@ The following have effect—
 
 ### 11. Offences and penalties
 
-(1)[^key-bccc01ba6fac7e542107a7a38008a307] It is an offence for—
+(1)[^c-bccc01ba6fac7e542107a7a38008a307] It is an offence for—
 
 - (a) a dealer to fail to comply with any of the obligations placed on the dealer by virtue of the Articles listed in regulation 4(1);
 - (b) a supplier to fail to comply with any of the obligations placed on the supplier by virtue of the Articles listed in regulation 4(2).
 
 (2) Any person guilty of an offence under paragraph (1) is liable—
 
-- (a)[^key-f16c5804a91ee7b1e3c1268e674a0150] on summary conviction—
+- (a)[^c-f16c5804a91ee7b1e3c1268e674a0150] on summary conviction—
   - (i) in England and Wales, to a fine;
   - (ii) in Scotland or Northern Ireland, to a fine not exceeding the statutory maximum;
 - (b) on conviction on indictment, to a fine.
@@ -251,7 +251,7 @@ The following have effect—
 
 (1) It is an offence for any person—
 
-- (a) intentionally to fail to comply with any instruction given by an authorised person acting in pursuance of their powers or duties under these Regulations, the[^key-5119cfe780f521772918e84e1d7e318b] EU Energy Labelling Regulation or RAMS;
+- (a) intentionally to fail to comply with any instruction given by an authorised person acting in pursuance of their powers or duties under these Regulations, the[^c-5119cfe780f521772918e84e1d7e318b] EU Energy Labelling Regulation or RAMS;
 - (b) intentionally to obstruct an authorised person acting in pursuance of their powers or duties under these Regulations, the EU Energy Labelling Regulation or RAMS;
 - (c) knowingly or recklessly to make a statement which is false or misleading in purported compliance with any requirement imposed under these Regulations, the EU Energy Labelling Regulation or RAMS;
 - (d) without reasonable cause fail to give an authorised person any other assistance or information which that authorised person may reasonably require for the purposes of the exercise of their powers or duties under these Regulations, the EU Energy Labelling Regulation or RAMS.
@@ -320,7 +320,7 @@ The Regulations in column 1 of the table in Schedule 5 are revoked on the corres
 - (b) set out the conclusions of the review in a report; and
 - (c) publish the report.
 
-(2) In carrying out the review the Secretary of State must, so far as is reasonable, have regard to how the[^key-359b1b93f2a7f9771ab822d49c5d88cb] EU Energy Labelling Regulation is implemented in other member States.
+(2) In carrying out the review the Secretary of State must, so far as is reasonable, have regard to how the[^c-359b1b93f2a7f9771ab822d49c5d88cb] EU Energy Labelling Regulation is implemented in other member States.
 
 (3) The report must in particular—
 
@@ -341,13 +341,13 @@ Parliamentary Under Secretary of State
 
 Department for Environment, Food and Rural Affairs
 
-## SCHEDULE 1 — EU measures (affected by repeal, see note) Product-specific measures[^key-5ebb31e83298f77b2efcedddb05fb42c]
+## SCHEDULE 1 — EU measures (affected by repeal, see note) Product-specific measures[^c-5ebb31e83298f77b2efcedddb05fb42c]
 
 Regulation 6(a)
 
 *Extent: E+W+S*
 
-**1.**[^M_E_835b04e9-ea54-4c1b-cb41-1c4061c3570f] In relation to a product identified in column 1 of the following table, the requirements set out in the product-specific measure[^M_F_941ce257-55ce-4785-ac99-af6e2b969de0] in column 2 apply [^key-94c195ca61bcdddf8903edf086f94dd1]....
+**1.**[^M_E_835b04e9-ea54-4c1b-cb41-1c4061c3570f] In relation to a product identified in column 1 of the following table, the requirements set out in the product-specific measure[^M_F_941ce257-55ce-4785-ac99-af6e2b969de0] in column 2 apply [^c-94c195ca61bcdddf8903edf086f94dd1]....
 
 *Extent: E+W+S+N.I.*
 
@@ -382,11 +382,11 @@ Regulation 6(a)
 </tbody>
 </table>
 
-[^key-79bf819cf91c2e032430722b5006db1f][^M_F_7ad10580-14ab-4e73-af33-857a3d6bf917][^key-79bf819cf91c2e032430722b5006db1f][^key-db9c50a337940cb7a76309a4b0d40306][^key-232750a2afa79275beb455826e981988][^key-79bf819cf91c2e032430722b5006db1f][^key-0cd6a92ca3f67e55515ba02f0e678c6f][^key-79bf819cf91c2e032430722b5006db1f][^key-6af0e2b2ffc2b6d1b89be9027aaba9dc][^key-6af0e2b2ffc2b6d1b89be9027aaba9dc][^key-79bf819cf91c2e032430722b5006db1f][^key-47d622b72c76cf05542f9ef3140d0a47][^key-47d622b72c76cf05542f9ef3140d0a47][^key-79bf819cf91c2e032430722b5006db1f][^key-33483fc0bd06bed2b314dbd667c0d9b1][^key-79bf819cf91c2e032430722b5006db1f][^key-79bf819cf91c2e032430722b5006db1f][^key-79bf819cf91c2e032430722b5006db1f][^key-79bf819cf91c2e032430722b5006db1f][^key-79bf819cf91c2e032430722b5006db1f][^key-5d9a68ca196181058ac03ab6c337179e][^key-79bf819cf91c2e032430722b5006db1f][^key-79bf819cf91c2e032430722b5006db1f][^key-fb69c851134779793ad980edff3de361][^key-79bf819cf91c2e032430722b5006db1f][^key-6a91624976ebd62a6dc1e5bad249b516][^key-79bf819cf91c2e032430722b5006db1f][^key-274089a3d4692d45e9573420145b2ab5][^key-274089a3d4692d45e9573420145b2ab5][^key-274089a3d4692d45e9573420145b2ab5][^key-3e4038cd8460e1000744622ea0c6b827][^key-79bf819cf91c2e032430722b5006db1f][^key-79bf819cf91c2e032430722b5006db1f][^key-79bf819cf91c2e032430722b5006db1f][^key-7b299ba00dee938f6321b0ce9c0d2453][^key-79bf819cf91c2e032430722b5006db1f][^M_F_62f80207-71dc-43fd-ac1d-433d05e8d741][^key-79bf819cf91c2e032430722b5006db1f][^key-79bf819cf91c2e032430722b5006db1f][^key-79bf819cf91c2e032430722b5006db1f][^key-325325d72314a539077e14de3fe8641a][^key-79bf819cf91c2e032430722b5006db1f]
+[^c-79bf819cf91c2e032430722b5006db1f][^M_F_7ad10580-14ab-4e73-af33-857a3d6bf917][^c-79bf819cf91c2e032430722b5006db1f][^c-db9c50a337940cb7a76309a4b0d40306][^c-232750a2afa79275beb455826e981988][^c-79bf819cf91c2e032430722b5006db1f][^c-0cd6a92ca3f67e55515ba02f0e678c6f][^c-79bf819cf91c2e032430722b5006db1f][^c-6af0e2b2ffc2b6d1b89be9027aaba9dc][^c-6af0e2b2ffc2b6d1b89be9027aaba9dc][^c-79bf819cf91c2e032430722b5006db1f][^c-47d622b72c76cf05542f9ef3140d0a47][^c-47d622b72c76cf05542f9ef3140d0a47][^c-79bf819cf91c2e032430722b5006db1f][^c-33483fc0bd06bed2b314dbd667c0d9b1][^c-79bf819cf91c2e032430722b5006db1f][^c-79bf819cf91c2e032430722b5006db1f][^c-79bf819cf91c2e032430722b5006db1f][^c-79bf819cf91c2e032430722b5006db1f][^c-79bf819cf91c2e032430722b5006db1f][^c-5d9a68ca196181058ac03ab6c337179e][^c-79bf819cf91c2e032430722b5006db1f][^c-79bf819cf91c2e032430722b5006db1f][^c-fb69c851134779793ad980edff3de361][^c-79bf819cf91c2e032430722b5006db1f][^c-6a91624976ebd62a6dc1e5bad249b516][^c-79bf819cf91c2e032430722b5006db1f][^c-274089a3d4692d45e9573420145b2ab5][^c-274089a3d4692d45e9573420145b2ab5][^c-274089a3d4692d45e9573420145b2ab5][^c-3e4038cd8460e1000744622ea0c6b827][^c-79bf819cf91c2e032430722b5006db1f][^c-79bf819cf91c2e032430722b5006db1f][^c-79bf819cf91c2e032430722b5006db1f][^c-7b299ba00dee938f6321b0ce9c0d2453][^c-79bf819cf91c2e032430722b5006db1f][^M_F_62f80207-71dc-43fd-ac1d-433d05e8d741][^c-79bf819cf91c2e032430722b5006db1f][^c-79bf819cf91c2e032430722b5006db1f][^c-79bf819cf91c2e032430722b5006db1f][^c-325325d72314a539077e14de3fe8641a][^c-79bf819cf91c2e032430722b5006db1f]
 
 *Extent: N.I.*
 
-**1.**[^M_E_b7885cde-b7ae-4177-cfe3-276e2a3054e4] In relation to a product identified in column 1 of the following table, the requirements set out in the EU measure in column 2 apply The measures listed in the table below refer to those measures as they have effect in EU law, as amended or replaced from time to time.[^key-2986d3b3b65edc90e1db9a8c5dc91fd2] [^key-681795ccb4ef3500deb4c5db2885fd6e]...
+**1.**[^M_E_b7885cde-b7ae-4177-cfe3-276e2a3054e4] In relation to a product identified in column 1 of the following table, the requirements set out in the EU measure in column 2 apply The measures listed in the table below refer to those measures as they have effect in EU law, as amended or replaced from time to time.[^c-2986d3b3b65edc90e1db9a8c5dc91fd2] [^c-681795ccb4ef3500deb4c5db2885fd6e]...
 
 <table>
 <thead>
@@ -413,7 +413,7 @@ Regulation 6(a)
 </tbody>
 </table>
 
-[^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef][^key-9506e9bdb5c0f865eb0dca0939d988ef]
+[^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef][^c-9506e9bdb5c0f865eb0dca0939d988ef]
 
 <table>
 <thead>
@@ -442,7 +442,7 @@ Regulation 6(a)
 
 *Extent: E+W+S*
 
-**2.**[^key-59487f53d0a2066c2aec62bb58aa8441] (1) In the table in paragraph 1, in Column 2 of the row relating to household combined washer-driers, the reference to Commission Directive [96/60/EC](https://www.legislation.gov.uk/eudr/1996/60) implementing Council Directive [92/75/EEC](https://www.legislation.gov.uk/eudr/1992/75) with regard to energy labelling of household combined washer-driers, is to be read as a reference to that Commission Directive as it had effect immediately before IP completion day, and subject to the modifications in subparagraph (2).
+**2.**[^c-59487f53d0a2066c2aec62bb58aa8441] (1) In the table in paragraph 1, in Column 2 of the row relating to household combined washer-driers, the reference to Commission Directive [96/60/EC](https://www.legislation.gov.uk/eudr/1996/60) implementing Council Directive [92/75/EEC](https://www.legislation.gov.uk/eudr/1992/75) with regard to energy labelling of household combined washer-driers, is to be read as a reference to that Commission Directive as it had effect immediately before IP completion day, and subject to the modifications in subparagraph (2).
 
 (2) The modifications referred to in subparagraph (1) are that the Commission Directive is to be read as if—
 
@@ -500,7 +500,7 @@ Regulation 6(b)
 
 (3) An authorised person may—
 
-- (a)[^key-c0a41d6cbbd9ef849a77074b98bbdd02] be accompanied by such other persons as the authorised person considers necessary; and
+- (a)[^c-c0a41d6cbbd9ef849a77074b98bbdd02] be accompanied by such other persons as the authorised person considers necessary; and
 - (b) bring on to the premises such equipment as the authorised person considers necessary.
 
 ### 1. Power to enter premises[^M_E_7521ea2a-1285-4d4b-9992-7ed1c9b5bca8]
@@ -522,12 +522,12 @@ Regulation 6(b)
 
 (1) An authorised person may—
 
-- (a) in order to ascertain if there has been a breach of these Regulations, of the[^key-b860f9f54c865922f9463b3eb7d4d99d] EU Energy Labelling Regulation or of RAMS, inspect any products, goods, records, documents or information;
+- (a) in order to ascertain if there has been a breach of these Regulations, of the[^c-b860f9f54c865922f9463b3eb7d4d99d] EU Energy Labelling Regulation or of RAMS, inspect any products, goods, records, documents or information;
 - (b) in order to ascertain if there has been a breach of these Regulations, of the EU Energy Labelling Regulation or of RAMS, require any person carrying on or employed in connection with a business to produce any products, goods, records, documents or information and take copies of—
   - (i) any document or record; or
   - (ii) any entry in any document or record;
 - (c) in order to ascertain by testing or otherwise if there has been a breach of these Regulations, of the EU Energy Labelling Regulation or of RAMS, and reasonably suspecting such breach, seize and detain any products, goods, records, documents or information;
-- (d) seize and detain any products, goods, records, documents or information which may be required as evidence in any proceedings under these Regulations, the[^key-1468b8dc04b893c27b92b97f4e54adc5] EU Energy Labelling Regulation or RAMS;
+- (d) seize and detain any products, goods, records, documents or information which may be required as evidence in any proceedings under these Regulations, the[^c-1468b8dc04b893c27b92b97f4e54adc5] EU Energy Labelling Regulation or RAMS;
 - (e) for the purposes of exercising any powers or duties under these Regulations, the EU Energy Labelling Regulation or RAMS, but only if and to the extent reasonably necessary in order to secure that the provisions of these Regulations, the EU Energy Labelling Regulation or RAMS are observed, require any person having authority to do so to break open any container and, if that person does not comply or if there is no person present having authority to open it, break it open using reasonable force.
 
 (2) An authorised person may require information stored electronically to be made available in printed form.
@@ -535,20 +535,20 @@ Regulation 6(b)
 (3) An authorised person entering any premises whether under a power of entry under paragraph 1 or under a warrant under paragraph 3 must, if the occupier is present, give to the occupier or, if the occupier is absent, leave in a prominent place a notice—
 
 - (a) summarising the authorised person’s powers of seizure and detention of products, goods, records, documents and information;
-- (b) disclosing at which office of the market surveillance authority and within which hours a copy of these Regulations and the[^key-98186f013220d17b1117a753806a6683] EU Energy Labelling Regulation is available to be consulted.
+- (b) disclosing at which office of the market surveillance authority and within which hours a copy of these Regulations and the[^c-98186f013220d17b1117a753806a6683] EU Energy Labelling Regulation is available to be consulted.
 
 (4) An authorised person entering any premises which are unoccupied or from which the occupier is temporarily absent must leave them as effectively secured against unauthorised entry as they were before entry.
 
 (5) An authorised person exercising any power of seizure and detention must—
 
 - (a) give to the person against whom the power has been exercised a written notice stating what has been seized and detained;
-- (b) detain those things only for as long as is necessary for the market surveillance authority to ascertain whether a breach of these Regulations, of the[^key-7f0e7963073436cf433cb3e677527399] EU Energy Labelling Regulation or of RAMS has occurred and if required present the evidence at court.
+- (b) detain those things only for as long as is necessary for the market surveillance authority to ascertain whether a breach of these Regulations, of the[^c-7f0e7963073436cf433cb3e677527399] EU Energy Labelling Regulation or of RAMS has occurred and if required present the evidence at court.
 
 ### 3. Warrants
 
-(1) A justice of the peace may by signed warrant permit an authorised person or any other person to enter any premises in the exercise of the powers and duties under these Regulations, the[^key-f6ae0f5b21155683d37978558bbc4971] EU Energy Labelling Regulation or Article 19 of RAMS, if necessary by reasonable force, if the justice in England and Wales on sworn information in writing, in Northern Ireland on a complaint on oath, or in Scotland by evidence on oath is satisfied—
+(1) A justice of the peace may by signed warrant permit an authorised person or any other person to enter any premises in the exercise of the powers and duties under these Regulations, the[^c-f6ae0f5b21155683d37978558bbc4971] EU Energy Labelling Regulation or Article 19 of RAMS, if necessary by reasonable force, if the justice in England and Wales on sworn information in writing, in Northern Ireland on a complaint on oath, or in Scotland by evidence on oath is satisfied—
 
-- (a) that there are reasonable grounds to enter those premises for the purposes of enforcing these Regulations, the[^key-36b5f4829fac97453686c8e6527599b7] EU Energy Labelling Regulation and RAMS; and
+- (a) that there are reasonable grounds to enter those premises for the purposes of enforcing these Regulations, the[^c-36b5f4829fac97453686c8e6527599b7] EU Energy Labelling Regulation and RAMS; and
 - (b) that any of the conditions in paragraph 4 is met.
 
 (2) Reference to a justice of the peace—
@@ -575,7 +575,7 @@ Regulation 6(c)
 
 ### 1. Test purchases
 
-A market surveillance authority may, for the purpose of testing any product to ascertain whether any provision of these Regulations, the[^key-a655024b01eae581de2bb5df1ac07f12] EU Energy Labelling Regulation or RAMS has been breached, purchase, or authorise an officer of the market surveillance authority to purchase, any product.
+A market surveillance authority may, for the purpose of testing any product to ascertain whether any provision of these Regulations, the[^c-a655024b01eae581de2bb5df1ac07f12] EU Energy Labelling Regulation or RAMS has been breached, purchase, or authorise an officer of the market surveillance authority to purchase, any product.
 
 ### 2.[^M_E_fd431181-9df6-46a0-9fc9-01cf319ac7b8]
 
@@ -583,7 +583,7 @@ A market surveillance authority may, for the purpose of testing any product to a
 
 *Extent: E+W+S+N.I.*
 
-(1) If a product so tested fails to comply with a product-specific measure[^key-e8322b159bb6c54819e7d3cfa52d5c90], the market surveillance authority may recover its testing costs from the person who placed it on the market for the first time.
+(1) If a product so tested fails to comply with a product-specific measure[^c-e8322b159bb6c54819e7d3cfa52d5c90], the market surveillance authority may recover its testing costs from the person who placed it on the market for the first time.
 
 (2) Costs include in particular—
 
@@ -611,11 +611,11 @@ A market surveillance authority may, for the purpose of testing any product to a
 
 *Extent: E+W+S*
 
-(1) If the market surveillance authority proposes to recover its testing costs it must serve a notice of what is proposed (a “notice of intent”) within 20 days of obtaining proof that the product has failed to comply with a product-specific measure[^key-89394199719d716aaa32ce1bc75d953b].
+(1) If the market surveillance authority proposes to recover its testing costs it must serve a notice of what is proposed (a “notice of intent”) within 20 days of obtaining proof that the product has failed to comply with a product-specific measure[^c-89394199719d716aaa32ce1bc75d953b].
 
 (2) The notice of intent must include—
 
-- (a) a statement that the product has been tested and has failed to comply with a product-specific measure[^key-0b0d6386942b2fdf934aa4bca3821fd8];
+- (a) a statement that the product has been tested and has failed to comply with a product-specific measure[^c-0b0d6386942b2fdf934aa4bca3821fd8];
 - (b) details of the tests carried out;
 - (c) the amount to be paid;
 - (d) a detailed breakdown of the testing costs incurred; and
@@ -655,7 +655,7 @@ A person upon whom a notice of intent has been served may, within 28 days beginn
 
 A final notice must include—
 
-- (a) a statement that the product has been tested and has failed to comply with a product-specific measure[^key-0d945c95606189a35b305f36fae423c2];
+- (a) a statement that the product has been tested and has failed to comply with a product-specific measure[^c-0d945c95606189a35b305f36fae423c2];
 - (b) details of the tests carried out;
 - (c) the amount to be paid and the period within which the payment must be made which must not be less than 28 days;
 - (d) a detailed breakdown of the testing costs incurred;
@@ -852,16 +852,16 @@ that person may not at any time be convicted of the offence under regulation 11(
 (1) The market surveillance authority may serve a notice (a “stop notice”) on any person—
 
 - (a) in relation to an offence committed under regulation 11(1), prohibiting a person from carrying on an activity specified in the notice until the person has taken the steps specified in the notice;
-- (b) where the market surveillance authority is of the opinion that a person is likely to make available on the market a product which does not comply with a product-specific measure[^key-4f4a31487c9215b063c71eed9d15a57b], a requirement to take such steps as the market surveillance authority may specify within such period as it may specify, to secure that its being made available on the market is prohibited or restricted.
+- (b) where the market surveillance authority is of the opinion that a person is likely to make available on the market a product which does not comply with a product-specific measure[^c-4f4a31487c9215b063c71eed9d15a57b], a requirement to take such steps as the market surveillance authority may specify within such period as it may specify, to secure that its being made available on the market is prohibited or restricted.
 
 (2) A stop notice may only be served where the person is—
 
 - (a) carrying on the activity, and
 - (b) the market surveillance authority reasonably believes that—
   - (i) the activity as carried on by that person involves or is likely to involve the commission of an offence under regulation 11(1); or
-  - (ii) that person is likely to make available on the market a product which does not comply with a product-specific measure[^key-05407d7e9aae63d82545b4349062d612].
+  - (ii) that person is likely to make available on the market a product which does not comply with a product-specific measure[^c-05407d7e9aae63d82545b4349062d612].
 
-(3) The steps referred to in sub-paragraph (1)(a) and (b) must be steps to eliminate the risk of the offence being committed, or of products which do not comply with a product-specific measure[^key-df1de6dc8b43b54d2d9daa9c7764f2e3] being made available on the market.
+(3) The steps referred to in sub-paragraph (1)(a) and (b) must be steps to eliminate the risk of the offence being committed, or of products which do not comply with a product-specific measure[^c-df1de6dc8b43b54d2d9daa9c7764f2e3] being made available on the market.
 
 #### 13. Stop notices[^M_E_e9a1e6bd-0e00-4252-d245-a5885e38b756]
 
@@ -1161,25 +1161,25 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^M_E_c8215b57-c93f-4258-b49b-9ffbd63f7b21]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-5966fe6a170d66256e8c95e1ea71d932]: Textual amendment: Words in reg. 2(1) inserted (29.3.2018) by [The Energy Information (Amendment) Regulations 2018 (S.I. 2018/255)](https://www.legislation.gov.uk/uksi/2018/255), [regs. 1](https://www.legislation.gov.uk/uksi/2018/255/regulation/1), [3(1)(a)](https://www.legislation.gov.uk/uksi/2018/255/regulation/3/1/a)
+[^c-5966fe6a170d66256e8c95e1ea71d932]: Textual amendment: Words in reg. 2(1) inserted (29.3.2018) by [The Energy Information (Amendment) Regulations 2018 (S.I. 2018/255)](https://www.legislation.gov.uk/uksi/2018/255), [regs. 1](https://www.legislation.gov.uk/uksi/2018/255/regulation/1), [3(1)(a)](https://www.legislation.gov.uk/uksi/2018/255/regulation/3/1/a)
 
-[^key-75a259f74b2ea71844a6d7caa81fa139]: Textual amendment: Words in reg. 2(1) substituted (29.3.2018) by [The Energy Information (Amendment) Regulations 2018 (S.I. 2018/255)](https://www.legislation.gov.uk/uksi/2018/255), [regs. 1](https://www.legislation.gov.uk/uksi/2018/255/regulation/1), [3(1)(b)](https://www.legislation.gov.uk/uksi/2018/255/regulation/3/1/b)
+[^c-75a259f74b2ea71844a6d7caa81fa139]: Textual amendment: Words in reg. 2(1) substituted (29.3.2018) by [The Energy Information (Amendment) Regulations 2018 (S.I. 2018/255)](https://www.legislation.gov.uk/uksi/2018/255), [regs. 1](https://www.legislation.gov.uk/uksi/2018/255/regulation/1), [3(1)(b)](https://www.legislation.gov.uk/uksi/2018/255/regulation/3/1/b)
 
-[^key-dacc428a720c7c61897131836e5bd499]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/1524/regulation/2/1) omitted (E.W.S.) (31.12.2020) by virtue of [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 3 para. 2(2)(a)](https://www.legislation.gov.uk/uksi/2019/539/schedule/3/paragraph/2/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dacc428a720c7c61897131836e5bd499]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/1524/regulation/2/1) omitted (E.W.S.) (31.12.2020) by virtue of [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 3 para. 2(2)(a)](https://www.legislation.gov.uk/uksi/2019/539/schedule/3/paragraph/2/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00004]: Footnote: 1985\. c. 72.
 
-[^key-76e36b37f3414796132b10bf42622a95]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/1524/regulation/2/1) omitted (E.W.S.) (31.12.2020) by virtue of [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 3 para. 2(2)(b)](https://www.legislation.gov.uk/uksi/2019/539/schedule/3/paragraph/2/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-76e36b37f3414796132b10bf42622a95]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/1524/regulation/2/1) omitted (E.W.S.) (31.12.2020) by virtue of [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 3 para. 2(2)(b)](https://www.legislation.gov.uk/uksi/2019/539/schedule/3/paragraph/2/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7266e44ac520fd63148cf595791d1238]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/1524/regulation/2/1) inserted (E.W.S.) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 3 para. 2(2)(c)](https://www.legislation.gov.uk/uksi/2019/539/schedule/3/paragraph/2/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7266e44ac520fd63148cf595791d1238]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/1524/regulation/2/1) inserted (E.W.S.) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 3 para. 2(2)(c)](https://www.legislation.gov.uk/uksi/2019/539/schedule/3/paragraph/2/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00005]: Footnote: OJ No L 218, 13.8.2008, p 30.
 
-[^key-563161adc4aea649c4f32bb204e14dc5]: Textual amendment: Words in [reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2011/1524/regulation/2/2/a) substituted (E.W.S.) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 3 para. 2(3)(a)](https://www.legislation.gov.uk/uksi/2019/539/schedule/3/paragraph/2/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-563161adc4aea649c4f32bb204e14dc5]: Textual amendment: Words in [reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2011/1524/regulation/2/2/a) substituted (E.W.S.) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 3 para. 2(3)(a)](https://www.legislation.gov.uk/uksi/2019/539/schedule/3/paragraph/2/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8b9ba582c0483fdee3e56b2dddfac328]: Textual amendment: Words in reg. 2(2) substituted (29.3.2018) by [The Energy Information (Amendment) Regulations 2018 (S.I. 2018/255)](https://www.legislation.gov.uk/uksi/2018/255), [regs. 1](https://www.legislation.gov.uk/uksi/2018/255/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2018/255/regulation/3/2)
+[^c-8b9ba582c0483fdee3e56b2dddfac328]: Textual amendment: Words in reg. 2(2) substituted (29.3.2018) by [The Energy Information (Amendment) Regulations 2018 (S.I. 2018/255)](https://www.legislation.gov.uk/uksi/2018/255), [regs. 1](https://www.legislation.gov.uk/uksi/2018/255/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2018/255/regulation/3/2)
 
-[^key-c017c51e0c23e22d32afe0414c3d0d23]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2011/1524/regulation/2/2) substituted (E.W.S.) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 3 para. 2(3)(b)](https://www.legislation.gov.uk/uksi/2019/539/schedule/3/paragraph/2/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c017c51e0c23e22d32afe0414c3d0d23]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2011/1524/regulation/2/2) substituted (E.W.S.) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 3 para. 2(3)(b)](https://www.legislation.gov.uk/uksi/2019/539/schedule/3/paragraph/2/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_38a24be7-c0dd-46e3-bfc5-4e92a4727734]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
@@ -1191,13 +1191,13 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^M_E_a264df82-57bb-41d0-ec21-2d07cf2a1b2c]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-1a7121ba03fe16b9d776f3d6871ba14c]: Textual amendment: Reg. 3(1) substituted (29.3.2018) by [The Energy Information (Amendment) Regulations 2018 (S.I. 2018/255)](https://www.legislation.gov.uk/uksi/2018/255), [regs. 1](https://www.legislation.gov.uk/uksi/2018/255/regulation/1), [4(1)](https://www.legislation.gov.uk/uksi/2018/255/regulation/4/1)
+[^c-1a7121ba03fe16b9d776f3d6871ba14c]: Textual amendment: Reg. 3(1) substituted (29.3.2018) by [The Energy Information (Amendment) Regulations 2018 (S.I. 2018/255)](https://www.legislation.gov.uk/uksi/2018/255), [regs. 1](https://www.legislation.gov.uk/uksi/2018/255/regulation/1), [4(1)](https://www.legislation.gov.uk/uksi/2018/255/regulation/4/1)
 
-[^key-7486717e64541a787008f61210e1c279]: Textual amendment: Words in reg. 3(2)(a) inserted (29.3.2018) by [The Energy Information (Amendment) Regulations 2018 (S.I. 2018/255)](https://www.legislation.gov.uk/uksi/2018/255), [regs. 1](https://www.legislation.gov.uk/uksi/2018/255/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2018/255/regulation/4/2/a)
+[^c-7486717e64541a787008f61210e1c279]: Textual amendment: Words in reg. 3(2)(a) inserted (29.3.2018) by [The Energy Information (Amendment) Regulations 2018 (S.I. 2018/255)](https://www.legislation.gov.uk/uksi/2018/255), [regs. 1](https://www.legislation.gov.uk/uksi/2018/255/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2018/255/regulation/4/2/a)
 
-[^key-76682408cbab6575763dabc8f1363309]: Textual amendment: Words in [reg. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/1524/regulation/3/2/a) substituted (E.W.S.) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2019/539/schedule/3/paragraph/3) (as amended by [S.I. 2020/1528](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/2), [6(3)(4)(c)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/6/3/4/c)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-76682408cbab6575763dabc8f1363309]: Textual amendment: Words in [reg. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/1524/regulation/3/2/a) substituted (E.W.S.) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2019/539/schedule/3/paragraph/3) (as amended by [S.I. 2020/1528](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/2), [6(3)(4)(c)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/6/3/4/c)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8d6313eeee15406fb67d0e6d04812663]: Textual amendment: Reg. 3(2)(c) omitted (29.3.2018) by virtue of [The Energy Information (Amendment) Regulations 2018 (S.I. 2018/255)](https://www.legislation.gov.uk/uksi/2018/255), [regs. 1](https://www.legislation.gov.uk/uksi/2018/255/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2018/255/regulation/4/2/b)
+[^c-8d6313eeee15406fb67d0e6d04812663]: Textual amendment: Reg. 3(2)(c) omitted (29.3.2018) by virtue of [The Energy Information (Amendment) Regulations 2018 (S.I. 2018/255)](https://www.legislation.gov.uk/uksi/2018/255), [regs. 1](https://www.legislation.gov.uk/uksi/2018/255/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2018/255/regulation/4/2/b)
 
 [^M_E_7d28ff02-a3ba-4b86-cb56-5864dfb9b08f]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
@@ -1209,17 +1209,17 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^M_E_54b2a50e-0a4c-488f-f4da-22c845e99750]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-e9529391a6f7024c8159ad28670d8f9c]: Textual amendment: Reg. 4(1) substituted (29.3.2018) by [The Energy Information (Amendment) Regulations 2018 (S.I. 2018/255)](https://www.legislation.gov.uk/uksi/2018/255), [regs. 1](https://www.legislation.gov.uk/uksi/2018/255/regulation/1), [5(1)](https://www.legislation.gov.uk/uksi/2018/255/regulation/5/1)
+[^c-e9529391a6f7024c8159ad28670d8f9c]: Textual amendment: Reg. 4(1) substituted (29.3.2018) by [The Energy Information (Amendment) Regulations 2018 (S.I. 2018/255)](https://www.legislation.gov.uk/uksi/2018/255), [regs. 1](https://www.legislation.gov.uk/uksi/2018/255/regulation/1), [5(1)](https://www.legislation.gov.uk/uksi/2018/255/regulation/5/1)
 
-[^key-6e0dd06793b176b5eac0e5b19b4286e7]: Textual amendment: Words in [reg. 4(1)(d)](https://www.legislation.gov.uk/uksi/2011/1524/regulation/4/1/d) substituted (E.W.S.) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 3 para. 4(2)](https://www.legislation.gov.uk/uksi/2019/539/schedule/3/paragraph/4/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6e0dd06793b176b5eac0e5b19b4286e7]: Textual amendment: Words in [reg. 4(1)(d)](https://www.legislation.gov.uk/uksi/2011/1524/regulation/4/1/d) substituted (E.W.S.) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 3 para. 4(2)](https://www.legislation.gov.uk/uksi/2019/539/schedule/3/paragraph/4/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a36c9140f8a613144d306d231bb03563]: Textual amendment: Reg. 4(2) substituted (29.3.2018) by [The Energy Information (Amendment) Regulations 2018 (S.I. 2018/255)](https://www.legislation.gov.uk/uksi/2018/255), [regs. 1](https://www.legislation.gov.uk/uksi/2018/255/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2018/255/regulation/5/2)
+[^c-a36c9140f8a613144d306d231bb03563]: Textual amendment: Reg. 4(2) substituted (29.3.2018) by [The Energy Information (Amendment) Regulations 2018 (S.I. 2018/255)](https://www.legislation.gov.uk/uksi/2018/255), [regs. 1](https://www.legislation.gov.uk/uksi/2018/255/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2018/255/regulation/5/2)
 
-[^key-e10026e7a6d8df8b82b55cd6ab8ee289]: Textual amendment: [Reg. 4(2)(b)](https://www.legislation.gov.uk/uksi/2011/1524/regulation/4/2/b) substituted (E.W.S.) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 3 para. 4(3)(a)](https://www.legislation.gov.uk/uksi/2019/539/schedule/3/paragraph/4/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e10026e7a6d8df8b82b55cd6ab8ee289]: Textual amendment: [Reg. 4(2)(b)](https://www.legislation.gov.uk/uksi/2011/1524/regulation/4/2/b) substituted (E.W.S.) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 3 para. 4(3)(a)](https://www.legislation.gov.uk/uksi/2019/539/schedule/3/paragraph/4/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5d0ebb5ce3e4e7ddcb0c034e377fc73d]: Textual amendment: Words in [reg. 4(2)(e)](https://www.legislation.gov.uk/uksi/2011/1524/regulation/4/2/e) substituted (E.W.S.) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 3 para. 4(3)(b)](https://www.legislation.gov.uk/uksi/2019/539/schedule/3/paragraph/4/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5d0ebb5ce3e4e7ddcb0c034e377fc73d]: Textual amendment: Words in [reg. 4(2)(e)](https://www.legislation.gov.uk/uksi/2011/1524/regulation/4/2/e) substituted (E.W.S.) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 3 para. 4(3)(b)](https://www.legislation.gov.uk/uksi/2019/539/schedule/3/paragraph/4/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-72b06acd351ca4994f563ccbb56a06a5]: Textual amendment: Reg. 4(4) added (E.W.) (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [42](https://www.legislation.gov.uk/uksi/2012/2897/article/42)
+[^c-72b06acd351ca4994f563ccbb56a06a5]: Textual amendment: Reg. 4(4) added (E.W.) (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [42](https://www.legislation.gov.uk/uksi/2012/2897/article/42)
 
 [^M_E_d857fa70-ec2b-4835-e296-ce605a8221ef]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
@@ -1229,117 +1229,117 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^V_NI_92ddc5f1-8f13-c106-b0cb-fe8763749540]: Textual amendment: Reg. 4(4) added (E.W.) (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [42](https://www.legislation.gov.uk/uksi/2012/2897/article/42)
 
-[^key-d945b61e379ec7065a4ccd6f33d63e1a]: Textual amendment: Words in reg. 5 substituted (29.3.2018) by [The Energy Information (Amendment) Regulations 2018 (S.I. 2018/255)](https://www.legislation.gov.uk/uksi/2018/255), [regs. 1](https://www.legislation.gov.uk/uksi/2018/255/regulation/1), [6](https://www.legislation.gov.uk/uksi/2018/255/regulation/6)
+[^c-d945b61e379ec7065a4ccd6f33d63e1a]: Textual amendment: Words in reg. 5 substituted (29.3.2018) by [The Energy Information (Amendment) Regulations 2018 (S.I. 2018/255)](https://www.legislation.gov.uk/uksi/2018/255), [regs. 1](https://www.legislation.gov.uk/uksi/2018/255/regulation/1), [6](https://www.legislation.gov.uk/uksi/2018/255/regulation/6)
 
 [^M_E_ee3dd74c-534e-4799-c4f7-406bf95363d8]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-2f6ee7dc9c8d24f015df8b04bcb98fd2]: Textual amendment: Words in [reg. 6(a)](https://www.legislation.gov.uk/uksi/2011/1524/regulation/6/a) substituted (E.W.S.) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2019/539/schedule/3/paragraph/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2f6ee7dc9c8d24f015df8b04bcb98fd2]: Textual amendment: Words in [reg. 6(a)](https://www.legislation.gov.uk/uksi/2011/1524/regulation/6/a) substituted (E.W.S.) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2019/539/schedule/3/paragraph/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_b35783c2-26c4-434a-b109-577b97db8f12]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-1f4a5ed1374516ca7cb37441a66de420]: Textual amendment: Pt. 3 omitted (29.3.2018) by virtue of [The Energy Information (Amendment) Regulations 2018 (S.I. 2018/255)](https://www.legislation.gov.uk/uksi/2018/255), [regs. 1](https://www.legislation.gov.uk/uksi/2018/255/regulation/1), [7](https://www.legislation.gov.uk/uksi/2018/255/regulation/7)
+[^c-1f4a5ed1374516ca7cb37441a66de420]: Textual amendment: Pt. 3 omitted (29.3.2018) by virtue of [The Energy Information (Amendment) Regulations 2018 (S.I. 2018/255)](https://www.legislation.gov.uk/uksi/2018/255), [regs. 1](https://www.legislation.gov.uk/uksi/2018/255/regulation/1), [7](https://www.legislation.gov.uk/uksi/2018/255/regulation/7)
 
-[^key-e9237171a0a63412b6e57dfa154c63a4]: Textual amendment: Pt. 4 omitted (29.3.2018) by virtue of [The Energy Information (Amendment) Regulations 2018 (S.I. 2018/255)](https://www.legislation.gov.uk/uksi/2018/255), [regs. 1](https://www.legislation.gov.uk/uksi/2018/255/regulation/1), [7](https://www.legislation.gov.uk/uksi/2018/255/regulation/7)
+[^c-e9237171a0a63412b6e57dfa154c63a4]: Textual amendment: Pt. 4 omitted (29.3.2018) by virtue of [The Energy Information (Amendment) Regulations 2018 (S.I. 2018/255)](https://www.legislation.gov.uk/uksi/2018/255), [regs. 1](https://www.legislation.gov.uk/uksi/2018/255/regulation/1), [7](https://www.legislation.gov.uk/uksi/2018/255/regulation/7)
 
-[^key-bccc01ba6fac7e542107a7a38008a307]: Textual amendment: Reg. 11(1) substituted (29.3.2018) by [The Energy Information (Amendment) Regulations 2018 (S.I. 2018/255)](https://www.legislation.gov.uk/uksi/2018/255), [regs. 1](https://www.legislation.gov.uk/uksi/2018/255/regulation/1), [8(1)](https://www.legislation.gov.uk/uksi/2018/255/regulation/8/1)
+[^c-bccc01ba6fac7e542107a7a38008a307]: Textual amendment: Reg. 11(1) substituted (29.3.2018) by [The Energy Information (Amendment) Regulations 2018 (S.I. 2018/255)](https://www.legislation.gov.uk/uksi/2018/255), [regs. 1](https://www.legislation.gov.uk/uksi/2018/255/regulation/1), [8(1)](https://www.legislation.gov.uk/uksi/2018/255/regulation/8/1)
 
-[^key-f16c5804a91ee7b1e3c1268e674a0150]: Textual amendment: Reg. 11(2)(a) substituted (29.3.2018) by [The Energy Information (Amendment) Regulations 2018 (S.I. 2018/255)](https://www.legislation.gov.uk/uksi/2018/255), [regs. 1](https://www.legislation.gov.uk/uksi/2018/255/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/2018/255/regulation/8/2)
+[^c-f16c5804a91ee7b1e3c1268e674a0150]: Textual amendment: Reg. 11(2)(a) substituted (29.3.2018) by [The Energy Information (Amendment) Regulations 2018 (S.I. 2018/255)](https://www.legislation.gov.uk/uksi/2018/255), [regs. 1](https://www.legislation.gov.uk/uksi/2018/255/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/2018/255/regulation/8/2)
 
-[^key-5119cfe780f521772918e84e1d7e318b]: Textual amendment: Words in reg. 12(1) substituted (29.3.2018) by [The Energy Information (Amendment) Regulations 2018 (S.I. 2018/255)](https://www.legislation.gov.uk/uksi/2018/255), [regs. 1](https://www.legislation.gov.uk/uksi/2018/255/regulation/1), [9](https://www.legislation.gov.uk/uksi/2018/255/regulation/9)
+[^c-5119cfe780f521772918e84e1d7e318b]: Textual amendment: Words in reg. 12(1) substituted (29.3.2018) by [The Energy Information (Amendment) Regulations 2018 (S.I. 2018/255)](https://www.legislation.gov.uk/uksi/2018/255), [regs. 1](https://www.legislation.gov.uk/uksi/2018/255/regulation/1), [9](https://www.legislation.gov.uk/uksi/2018/255/regulation/9)
 
-[^key-359b1b93f2a7f9771ab822d49c5d88cb]: Textual amendment: Words in reg. 17(2) substituted (29.3.2018) by [The Energy Information (Amendment) Regulations 2018 (S.I. 2018/255)](https://www.legislation.gov.uk/uksi/2018/255), [regs. 1](https://www.legislation.gov.uk/uksi/2018/255/regulation/1), [10](https://www.legislation.gov.uk/uksi/2018/255/regulation/10)
+[^c-359b1b93f2a7f9771ab822d49c5d88cb]: Textual amendment: Words in reg. 17(2) substituted (29.3.2018) by [The Energy Information (Amendment) Regulations 2018 (S.I. 2018/255)](https://www.legislation.gov.uk/uksi/2018/255), [regs. 1](https://www.legislation.gov.uk/uksi/2018/255/regulation/1), [10](https://www.legislation.gov.uk/uksi/2018/255/regulation/10)
 
-[^key-5ebb31e83298f77b2efcedddb05fb42c]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2011/1524/schedule/1) heading substituted (E.W.S.) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 3 para. 6(a)](https://www.legislation.gov.uk/uksi/2019/539/schedule/3/paragraph/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5ebb31e83298f77b2efcedddb05fb42c]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2011/1524/schedule/1) heading substituted (E.W.S.) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 3 para. 6(a)](https://www.legislation.gov.uk/uksi/2019/539/schedule/3/paragraph/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_835b04e9-ea54-4c1b-cb41-1c4061c3570f]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
 [^M_F_941ce257-55ce-4785-ac99-af6e2b969de0]: Textual amendment: Words in Sch. 1 para. 1 substituted (E.W.S.) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 3 para. 6(b)](https://www.legislation.gov.uk/uksi/2019/539/schedule/3/paragraph/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-94c195ca61bcdddf8903edf086f94dd1]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2011/1524/schedule/1/paragraph/1) omitted (E.W.S.) (1.10.2021) by virtue of [The Ecodesign for Energy-Related Products and Energy Information (Amendment) Regulations 2021 (S.I. 2021/1097)](https://www.legislation.gov.uk/uksi/2021/1097), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/1/2), [9(2)(a)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/9/2/a)
+[^c-94c195ca61bcdddf8903edf086f94dd1]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2011/1524/schedule/1/paragraph/1) omitted (E.W.S.) (1.10.2021) by virtue of [The Ecodesign for Energy-Related Products and Energy Information (Amendment) Regulations 2021 (S.I. 2021/1097)](https://www.legislation.gov.uk/uksi/2021/1097), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/1/2), [9(2)(a)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/9/2/a)
 
-[^key-79bf819cf91c2e032430722b5006db1f]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2011/1524/schedule/1/paragraph/1) table omitted (E.W.S.) (1.10.2021) by virtue of [The Ecodesign for Energy-Related Products and Energy Information (Amendment) Regulations 2021 (S.I. 2021/1097)](https://www.legislation.gov.uk/uksi/2021/1097), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/1/2), [9(2)(b)(i)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/9/2/b/i)
+[^c-79bf819cf91c2e032430722b5006db1f]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2011/1524/schedule/1/paragraph/1) table omitted (E.W.S.) (1.10.2021) by virtue of [The Ecodesign for Energy-Related Products and Energy Information (Amendment) Regulations 2021 (S.I. 2021/1097)](https://www.legislation.gov.uk/uksi/2021/1097), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/1/2), [9(2)(b)(i)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/9/2/b/i)
 
 [^M_F_7ad10580-14ab-4e73-af33-857a3d6bf917]: Textual amendment: Words in Sch. 1 para. 1 table substituted (E.W.S.) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 3 para. 6(c)](https://www.legislation.gov.uk/uksi/2019/539/schedule/3/paragraph/6/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-db9c50a337940cb7a76309a4b0d40306]: Textual amendment: Words in Sch. 1 para. 1 substituted (29.9.2013) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) Regulations 2012 (S.I. 2012/3005)](https://www.legislation.gov.uk/uksi/2012/3005), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2012/3005/regulation/1/3), [3(3)](https://www.legislation.gov.uk/uksi/2012/3005/regulation/3/3)
+[^c-db9c50a337940cb7a76309a4b0d40306]: Textual amendment: Words in Sch. 1 para. 1 substituted (29.9.2013) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) Regulations 2012 (S.I. 2012/3005)](https://www.legislation.gov.uk/uksi/2012/3005), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2012/3005/regulation/1/3), [3(3)](https://www.legislation.gov.uk/uksi/2012/3005/regulation/3/3)
 
-[^key-232750a2afa79275beb455826e981988]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2011/1524/schedule/1/paragraph/1) table substituted (E.W.S.) (1.10.2021) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) Regulations 2021 (S.I. 2021/1097)](https://www.legislation.gov.uk/uksi/2021/1097), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/1/2), [9(2)(b)(iv)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/9/2/b/iv)
+[^c-232750a2afa79275beb455826e981988]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2011/1524/schedule/1/paragraph/1) table substituted (E.W.S.) (1.10.2021) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) Regulations 2021 (S.I. 2021/1097)](https://www.legislation.gov.uk/uksi/2021/1097), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/1/2), [9(2)(b)(iv)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/9/2/b/iv)
 
-[^key-0cd6a92ca3f67e55515ba02f0e678c6f]: Textual amendment: Words in Sch. 1 para. 1 substituted (23.11.2020) by [The Energy Information (Amendment) Regulations 2020 (S.I. 2020/1195)](https://www.legislation.gov.uk/uksi/2020/1195), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1195/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/1195/regulation/2/2)
+[^c-0cd6a92ca3f67e55515ba02f0e678c6f]: Textual amendment: Words in Sch. 1 para. 1 substituted (23.11.2020) by [The Energy Information (Amendment) Regulations 2020 (S.I. 2020/1195)](https://www.legislation.gov.uk/uksi/2020/1195), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1195/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/1195/regulation/2/2)
 
-[^key-6af0e2b2ffc2b6d1b89be9027aaba9dc]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2011/1524/schedule/1/paragraph/1) table omitted (E.W.S.) (1.10.2021) by virtue of [The Ecodesign for Energy-Related Products and Energy Information (Lighting Products) Regulations 2021 (S.I. 2021/1095)](https://www.legislation.gov.uk/uksi/2021/1095), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2), [21(a)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/21/a) (with [reg. 23(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/23/2))
+[^c-6af0e2b2ffc2b6d1b89be9027aaba9dc]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2011/1524/schedule/1/paragraph/1) table omitted (E.W.S.) (1.10.2021) by virtue of [The Ecodesign for Energy-Related Products and Energy Information (Lighting Products) Regulations 2021 (S.I. 2021/1095)](https://www.legislation.gov.uk/uksi/2021/1095), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2), [21(a)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/21/a) (with [reg. 23(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/23/2))
 
-[^key-47d622b72c76cf05542f9ef3140d0a47]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2011/1524/schedule/1/paragraph/1) table omitted (E.W.S.) (1.10.2021) by virtue of [The Ecodesign for Energy-Related Products and Energy Information (Amendment) Regulations 2021 (S.I. 2021/1097)](https://www.legislation.gov.uk/uksi/2021/1097), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/1/2), [9(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/9/2/b/ii)
+[^c-47d622b72c76cf05542f9ef3140d0a47]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2011/1524/schedule/1/paragraph/1) table omitted (E.W.S.) (1.10.2021) by virtue of [The Ecodesign for Energy-Related Products and Energy Information (Amendment) Regulations 2021 (S.I. 2021/1097)](https://www.legislation.gov.uk/uksi/2021/1097), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/1/2), [9(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/9/2/b/ii)
 
-[^key-33483fc0bd06bed2b314dbd667c0d9b1]: Textual amendment: Words in Sch. 1 para. 1 substituted (1.1.2013) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) Regulations 2012 (S.I. 2012/3005)](https://www.legislation.gov.uk/uksi/2012/3005), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3005/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2012/3005/regulation/3/2)
+[^c-33483fc0bd06bed2b314dbd667c0d9b1]: Textual amendment: Words in Sch. 1 para. 1 substituted (1.1.2013) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) Regulations 2012 (S.I. 2012/3005)](https://www.legislation.gov.uk/uksi/2012/3005), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3005/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2012/3005/regulation/3/2)
 
-[^key-5d9a68ca196181058ac03ab6c337179e]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2011/1524/schedule/1/paragraph/1) table substituted (E.W.S.) (1.10.2021) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) Regulations 2021 (S.I. 2021/1097)](https://www.legislation.gov.uk/uksi/2021/1097), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/1/2), [9(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/9/2/b/iii)
+[^c-5d9a68ca196181058ac03ab6c337179e]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2011/1524/schedule/1/paragraph/1) table substituted (E.W.S.) (1.10.2021) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) Regulations 2021 (S.I. 2021/1097)](https://www.legislation.gov.uk/uksi/2021/1097), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/1/2), [9(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/9/2/b/iii)
 
-[^key-fb69c851134779793ad980edff3de361]: Textual amendment: Words in Sch. 1 para. 1 substituted (23.11.2020) by [The Energy Information (Amendment) Regulations 2020 (S.I. 2020/1195)](https://www.legislation.gov.uk/uksi/2020/1195), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1195/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2020/1195/regulation/2/6)
+[^c-fb69c851134779793ad980edff3de361]: Textual amendment: Words in Sch. 1 para. 1 substituted (23.11.2020) by [The Energy Information (Amendment) Regulations 2020 (S.I. 2020/1195)](https://www.legislation.gov.uk/uksi/2020/1195), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1195/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2020/1195/regulation/2/6)
 
-[^key-6a91624976ebd62a6dc1e5bad249b516]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2011/1524/schedule/1/paragraph/1) table (E.W.S.) substituted (1.10.2021) by [The Ecodesign for Energy-Related Products and Energy Information (Lighting Products) Regulations 2021 (S.I. 2021/1095)](https://www.legislation.gov.uk/uksi/2021/1095), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2), [21(b)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/21/b) (with [reg. 23(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/23/2))
+[^c-6a91624976ebd62a6dc1e5bad249b516]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2011/1524/schedule/1/paragraph/1) table (E.W.S.) substituted (1.10.2021) by [The Ecodesign for Energy-Related Products and Energy Information (Lighting Products) Regulations 2021 (S.I. 2021/1095)](https://www.legislation.gov.uk/uksi/2021/1095), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2), [21(b)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/21/b) (with [reg. 23(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/23/2))
 
-[^key-274089a3d4692d45e9573420145b2ab5]: Textual amendment: Words in Sch. 1 para. 1 omitted (3.10.2019) by virtue of [The Ecodesign for Energy-Related Products and Energy Information (Amendment) Regulations 2019 (S.I. 2019/1253)](https://www.legislation.gov.uk/uksi/2019/1253), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1253/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2019/1253/regulation/3)
+[^c-274089a3d4692d45e9573420145b2ab5]: Textual amendment: Words in Sch. 1 para. 1 omitted (3.10.2019) by virtue of [The Ecodesign for Energy-Related Products and Energy Information (Amendment) Regulations 2019 (S.I. 2019/1253)](https://www.legislation.gov.uk/uksi/2019/1253), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1253/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2019/1253/regulation/3)
 
-[^key-3e4038cd8460e1000744622ea0c6b827]: Textual amendment: Words in Sch. 1 para. 1 inserted (1.7.2014) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) Regulations 2014 (S.I. 2014/1290)](https://www.legislation.gov.uk/uksi/2014/1290), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1290/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2014/1290/regulation/3/2)
+[^c-3e4038cd8460e1000744622ea0c6b827]: Textual amendment: Words in Sch. 1 para. 1 inserted (1.7.2014) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) Regulations 2014 (S.I. 2014/1290)](https://www.legislation.gov.uk/uksi/2014/1290), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1290/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2014/1290/regulation/3/2)
 
-[^key-7b299ba00dee938f6321b0ce9c0d2453]: Textual amendment: Words in Sch. 1 para. 1 inserted (1.1.2016) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) Regulations 2015 (S.I. 2015/469)](https://www.legislation.gov.uk/uksi/2015/469), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/469/regulation/1/3), [3](https://www.legislation.gov.uk/uksi/2015/469/regulation/3)
+[^c-7b299ba00dee938f6321b0ce9c0d2453]: Textual amendment: Words in Sch. 1 para. 1 inserted (1.1.2016) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) Regulations 2015 (S.I. 2015/469)](https://www.legislation.gov.uk/uksi/2015/469), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/469/regulation/1/3), [3](https://www.legislation.gov.uk/uksi/2015/469/regulation/3)
 
 [^M_F_62f80207-71dc-43fd-ac1d-433d05e8d741]: Textual amendment: Words in Sch. 1 para. 1 inserted (1.9.2016) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) Regulations 2016 (S.I. 2016/838)](https://www.legislation.gov.uk/uksi/2016/838), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/838/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2016/838/regulation/3/2)
 
-[^key-325325d72314a539077e14de3fe8641a]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2011/1524/schedule/1/paragraph/1) table inserted (E.W.S.) (19.6.2021) by [The Ecodesign for Energy-Related Products and Energy Information Regulations 2021 (S.I. 2021/745)](https://www.legislation.gov.uk/uksi/2021/745), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/745/regulation/1/3), [55](https://www.legislation.gov.uk/uksi/2021/745/regulation/55) (with [reg. 52](https://www.legislation.gov.uk/uksi/2021/745/regulation/52))
+[^c-325325d72314a539077e14de3fe8641a]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2011/1524/schedule/1/paragraph/1) table inserted (E.W.S.) (19.6.2021) by [The Ecodesign for Energy-Related Products and Energy Information Regulations 2021 (S.I. 2021/745)](https://www.legislation.gov.uk/uksi/2021/745), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/745/regulation/1/3), [55](https://www.legislation.gov.uk/uksi/2021/745/regulation/55) (with [reg. 52](https://www.legislation.gov.uk/uksi/2021/745/regulation/52))
 
 [^M_E_b7885cde-b7ae-4177-cfe3-276e2a3054e4]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-2986d3b3b65edc90e1db9a8c5dc91fd2]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2011/1524/schedule/1/paragraph/1) inserted (N.I.) (6.5.2025) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (Northern Ireland) Regulations 2025 (S.I. 2025/497)](https://www.legislation.gov.uk/uksi/2025/497), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/497/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2025/497/regulation/3/2/a) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2025/497/regulation/4/2))
+[^c-2986d3b3b65edc90e1db9a8c5dc91fd2]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2011/1524/schedule/1/paragraph/1) inserted (N.I.) (6.5.2025) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (Northern Ireland) Regulations 2025 (S.I. 2025/497)](https://www.legislation.gov.uk/uksi/2025/497), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/497/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2025/497/regulation/3/2/a) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2025/497/regulation/4/2))
 
-[^key-681795ccb4ef3500deb4c5db2885fd6e]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2011/1524/schedule/1/paragraph/1) omitted (N.I.) (1.9.2021) by virtue of [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (Northern Ireland) (EU Exit) Regulations 2021 (S.I. 2021/924)](https://www.legislation.gov.uk/uksi/2021/924), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/924/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2021/924/regulation/3/2/a)
+[^c-681795ccb4ef3500deb4c5db2885fd6e]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2011/1524/schedule/1/paragraph/1) omitted (N.I.) (1.9.2021) by virtue of [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (Northern Ireland) (EU Exit) Regulations 2021 (S.I. 2021/924)](https://www.legislation.gov.uk/uksi/2021/924), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/924/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2021/924/regulation/3/2/a)
 
-[^key-9506e9bdb5c0f865eb0dca0939d988ef]: Textual amendment: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2011/1524/schedule/1/paragraph/1) table substituted (N.I.) (6.5.2025 for specified purposes, 20.6.2025 for specified purposes, 1.7.2025 in so far as not already in force) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (Northern Ireland) Regulations 2025 (S.I. 2025/497)](https://www.legislation.gov.uk/uksi/2025/497), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/497/regulation/1/2)[(4)](https://www.legislation.gov.uk/uksi/2025/497/regulation/1/4), [3(2)(b)](https://www.legislation.gov.uk/uksi/2025/497/regulation/3/2/b) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2025/497/regulation/4/2))
+[^c-9506e9bdb5c0f865eb0dca0939d988ef]: Textual amendment: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2011/1524/schedule/1/paragraph/1) table substituted (N.I.) (6.5.2025 for specified purposes, 20.6.2025 for specified purposes, 1.7.2025 in so far as not already in force) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (Northern Ireland) Regulations 2025 (S.I. 2025/497)](https://www.legislation.gov.uk/uksi/2025/497), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/497/regulation/1/2)[(4)](https://www.legislation.gov.uk/uksi/2025/497/regulation/1/4), [3(2)(b)](https://www.legislation.gov.uk/uksi/2025/497/regulation/3/2/b) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2025/497/regulation/4/2))
 
-[^key-59487f53d0a2066c2aec62bb58aa8441]: Textual amendment: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2011/1524/schedule/1/paragraph/2) inserted (E.W.S.) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 3 para. 6(e)](https://www.legislation.gov.uk/uksi/2019/539/schedule/3/paragraph/6/e) (as amended by [S.I. 2020/1528](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1528/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-59487f53d0a2066c2aec62bb58aa8441]: Textual amendment: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2011/1524/schedule/1/paragraph/2) inserted (E.W.S.) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 3 para. 6(e)](https://www.legislation.gov.uk/uksi/2019/539/schedule/3/paragraph/6/e) (as amended by [S.I. 2020/1528](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1528/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_bbc62a05-1323-4b04-ace4-d3af0c0ed586]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
 [^M_F_37734467-62fa-4e04-c273-8aa6750121bc]: Textual amendment: Words in Sch. 2 para. 1 substituted (29.3.2018) by [The Energy Information (Amendment) Regulations 2018 (S.I. 2018/255)](https://www.legislation.gov.uk/uksi/2018/255), [regs. 1](https://www.legislation.gov.uk/uksi/2018/255/regulation/1), [11(a)](https://www.legislation.gov.uk/uksi/2018/255/regulation/11/a)
 
-[^key-c0a41d6cbbd9ef849a77074b98bbdd02]: Textual amendment: [Sch. 2 para. 1(3)(a)](https://www.legislation.gov.uk/uksi/2011/1524/schedule/2/paragraph/1/3/a) substituted (E.W.S.) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2019/539/schedule/3/paragraph/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c0a41d6cbbd9ef849a77074b98bbdd02]: Textual amendment: [Sch. 2 para. 1(3)(a)](https://www.legislation.gov.uk/uksi/2011/1524/schedule/2/paragraph/1/3/a) substituted (E.W.S.) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2019/539/schedule/3/paragraph/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_7521ea2a-1285-4d4b-9992-7ed1c9b5bca8]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
 [^V_NI_d029fba6-3a2d-098f-5f7c-34563d4b6f3f]: Textual amendment: Words in Sch. 2 para. 1 substituted (29.3.2018) by [The Energy Information (Amendment) Regulations 2018 (S.I. 2018/255)](https://www.legislation.gov.uk/uksi/2018/255), [regs. 1](https://www.legislation.gov.uk/uksi/2018/255/regulation/1), [11(a)](https://www.legislation.gov.uk/uksi/2018/255/regulation/11/a)
 
-[^key-b860f9f54c865922f9463b3eb7d4d99d]: Textual amendment: Words in Sch. 2 para. 2(1) substituted (29.3.2018) by [The Energy Information (Amendment) Regulations 2018 (S.I. 2018/255)](https://www.legislation.gov.uk/uksi/2018/255), [regs. 1](https://www.legislation.gov.uk/uksi/2018/255/regulation/1), [11(b)(i)](https://www.legislation.gov.uk/uksi/2018/255/regulation/11/b/i)
+[^c-b860f9f54c865922f9463b3eb7d4d99d]: Textual amendment: Words in Sch. 2 para. 2(1) substituted (29.3.2018) by [The Energy Information (Amendment) Regulations 2018 (S.I. 2018/255)](https://www.legislation.gov.uk/uksi/2018/255), [regs. 1](https://www.legislation.gov.uk/uksi/2018/255/regulation/1), [11(b)(i)](https://www.legislation.gov.uk/uksi/2018/255/regulation/11/b/i)
 
-[^key-1468b8dc04b893c27b92b97f4e54adc5]: Textual amendment: Words in Sch. 2 para. 2(1) substituted (29.3.2018) by [The Energy Information (Amendment) Regulations 2018 (S.I. 2018/255)](https://www.legislation.gov.uk/uksi/2018/255), [regs. 1](https://www.legislation.gov.uk/uksi/2018/255/regulation/1), [11(b)(ii)](https://www.legislation.gov.uk/uksi/2018/255/regulation/11/b/ii)
+[^c-1468b8dc04b893c27b92b97f4e54adc5]: Textual amendment: Words in Sch. 2 para. 2(1) substituted (29.3.2018) by [The Energy Information (Amendment) Regulations 2018 (S.I. 2018/255)](https://www.legislation.gov.uk/uksi/2018/255), [regs. 1](https://www.legislation.gov.uk/uksi/2018/255/regulation/1), [11(b)(ii)](https://www.legislation.gov.uk/uksi/2018/255/regulation/11/b/ii)
 
-[^key-98186f013220d17b1117a753806a6683]: Textual amendment: Words in Sch. 2 para. 2(3)(b) inserted (29.3.2018) by [The Energy Information (Amendment) Regulations 2018 (S.I. 2018/255)](https://www.legislation.gov.uk/uksi/2018/255), [regs. 1](https://www.legislation.gov.uk/uksi/2018/255/regulation/1), [11(c)](https://www.legislation.gov.uk/uksi/2018/255/regulation/11/c)
+[^c-98186f013220d17b1117a753806a6683]: Textual amendment: Words in Sch. 2 para. 2(3)(b) inserted (29.3.2018) by [The Energy Information (Amendment) Regulations 2018 (S.I. 2018/255)](https://www.legislation.gov.uk/uksi/2018/255), [regs. 1](https://www.legislation.gov.uk/uksi/2018/255/regulation/1), [11(c)](https://www.legislation.gov.uk/uksi/2018/255/regulation/11/c)
 
-[^key-7f0e7963073436cf433cb3e677527399]: Textual amendment: Words in Sch. 2 para. 2(5)(b) substituted (29.3.2018) by [The Energy Information (Amendment) Regulations 2018 (S.I. 2018/255)](https://www.legislation.gov.uk/uksi/2018/255), [regs. 1](https://www.legislation.gov.uk/uksi/2018/255/regulation/1), [11(d)](https://www.legislation.gov.uk/uksi/2018/255/regulation/11/d)
+[^c-7f0e7963073436cf433cb3e677527399]: Textual amendment: Words in Sch. 2 para. 2(5)(b) substituted (29.3.2018) by [The Energy Information (Amendment) Regulations 2018 (S.I. 2018/255)](https://www.legislation.gov.uk/uksi/2018/255), [regs. 1](https://www.legislation.gov.uk/uksi/2018/255/regulation/1), [11(d)](https://www.legislation.gov.uk/uksi/2018/255/regulation/11/d)
 
-[^key-f6ae0f5b21155683d37978558bbc4971]: Textual amendment: Words in Sch. 2 para. 3(1) substituted (29.3.2018) by [The Energy Information (Amendment) Regulations 2018 (S.I. 2018/255)](https://www.legislation.gov.uk/uksi/2018/255), [regs. 1](https://www.legislation.gov.uk/uksi/2018/255/regulation/1), [11(e)(i)](https://www.legislation.gov.uk/uksi/2018/255/regulation/11/e/i)
+[^c-f6ae0f5b21155683d37978558bbc4971]: Textual amendment: Words in Sch. 2 para. 3(1) substituted (29.3.2018) by [The Energy Information (Amendment) Regulations 2018 (S.I. 2018/255)](https://www.legislation.gov.uk/uksi/2018/255), [regs. 1](https://www.legislation.gov.uk/uksi/2018/255/regulation/1), [11(e)(i)](https://www.legislation.gov.uk/uksi/2018/255/regulation/11/e/i)
 
-[^key-36b5f4829fac97453686c8e6527599b7]: Textual amendment: Words in Sch. 2 para. 3(1)(a) substituted (29.3.2018) by [The Energy Information (Amendment) Regulations 2018 (S.I. 2018/255)](https://www.legislation.gov.uk/uksi/2018/255), [regs. 1](https://www.legislation.gov.uk/uksi/2018/255/regulation/1), [11(e)(ii)](https://www.legislation.gov.uk/uksi/2018/255/regulation/11/e/ii)
+[^c-36b5f4829fac97453686c8e6527599b7]: Textual amendment: Words in Sch. 2 para. 3(1)(a) substituted (29.3.2018) by [The Energy Information (Amendment) Regulations 2018 (S.I. 2018/255)](https://www.legislation.gov.uk/uksi/2018/255), [regs. 1](https://www.legislation.gov.uk/uksi/2018/255/regulation/1), [11(e)(ii)](https://www.legislation.gov.uk/uksi/2018/255/regulation/11/e/ii)
 
-[^key-a655024b01eae581de2bb5df1ac07f12]: Textual amendment: Words in Sch. 3 para. 1 substituted (29.3.2018) by [The Energy Information (Amendment) Regulations 2018 (S.I. 2018/255)](https://www.legislation.gov.uk/uksi/2018/255), [regs. 1](https://www.legislation.gov.uk/uksi/2018/255/regulation/1), [12](https://www.legislation.gov.uk/uksi/2018/255/regulation/12)
+[^c-a655024b01eae581de2bb5df1ac07f12]: Textual amendment: Words in Sch. 3 para. 1 substituted (29.3.2018) by [The Energy Information (Amendment) Regulations 2018 (S.I. 2018/255)](https://www.legislation.gov.uk/uksi/2018/255), [regs. 1](https://www.legislation.gov.uk/uksi/2018/255/regulation/1), [12](https://www.legislation.gov.uk/uksi/2018/255/regulation/12)
 
 [^M_E_fd431181-9df6-46a0-9fc9-01cf319ac7b8]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-e8322b159bb6c54819e7d3cfa52d5c90]: Textual amendment: Words in [Sch. 3 para. 2(1)](https://www.legislation.gov.uk/uksi/2011/1524/schedule/3/paragraph/2/1) substituted (E.W.S.) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 3 para. 8](https://www.legislation.gov.uk/uksi/2019/539/schedule/3/paragraph/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e8322b159bb6c54819e7d3cfa52d5c90]: Textual amendment: Words in [Sch. 3 para. 2(1)](https://www.legislation.gov.uk/uksi/2011/1524/schedule/3/paragraph/2/1) substituted (E.W.S.) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 3 para. 8](https://www.legislation.gov.uk/uksi/2019/539/schedule/3/paragraph/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_d5a67334-5aa6-4e22-8e11-f9259b6ea94a]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
 [^M_E_b6656ef1-28dd-41be-ae97-80536498812b]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-89394199719d716aaa32ce1bc75d953b]: Textual amendment: Words in [Sch. 3 para. 3(1)](https://www.legislation.gov.uk/uksi/2011/1524/schedule/3/paragraph/3/1) substituted (E.W.S.) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 3 para. 8](https://www.legislation.gov.uk/uksi/2019/539/schedule/3/paragraph/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-89394199719d716aaa32ce1bc75d953b]: Textual amendment: Words in [Sch. 3 para. 3(1)](https://www.legislation.gov.uk/uksi/2011/1524/schedule/3/paragraph/3/1) substituted (E.W.S.) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 3 para. 8](https://www.legislation.gov.uk/uksi/2019/539/schedule/3/paragraph/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0b0d6386942b2fdf934aa4bca3821fd8]: Textual amendment: Words in [Sch. 3 para. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/1524/schedule/3/paragraph/3/2/a) substituted (E.W.S.) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 3 para. 8](https://www.legislation.gov.uk/uksi/2019/539/schedule/3/paragraph/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0b0d6386942b2fdf934aa4bca3821fd8]: Textual amendment: Words in [Sch. 3 para. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/1524/schedule/3/paragraph/3/2/a) substituted (E.W.S.) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 3 para. 8](https://www.legislation.gov.uk/uksi/2019/539/schedule/3/paragraph/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_a48c3790-89cf-44ba-8939-0cb1b66e28c3]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
 [^M_E_819e8d4c-a8c3-40e6-a6a9-b60e738e8208]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-0d945c95606189a35b305f36fae423c2]: Textual amendment: Words in [Sch. 3 para. 6(a)](https://www.legislation.gov.uk/uksi/2011/1524/schedule/3/paragraph/6/a) substituted (E.W.S.) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 3 para. 8](https://www.legislation.gov.uk/uksi/2019/539/schedule/3/paragraph/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0d945c95606189a35b305f36fae423c2]: Textual amendment: Words in [Sch. 3 para. 6(a)](https://www.legislation.gov.uk/uksi/2011/1524/schedule/3/paragraph/6/a) substituted (E.W.S.) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 3 para. 8](https://www.legislation.gov.uk/uksi/2019/539/schedule/3/paragraph/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_d4f94f74-8189-4da8-8265-89ed8dd5e49a]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
@@ -1353,10 +1353,10 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^M_E_67302e09-745f-4886-f6ef-39599657d500]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-4f4a31487c9215b063c71eed9d15a57b]: Textual amendment: Words in [Sch. 4 para. 13(1)(b)](https://www.legislation.gov.uk/uksi/2011/1524/schedule/4/paragraph/13/1/b) substituted (E.W.S.) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 3 para. 9(b)](https://www.legislation.gov.uk/uksi/2019/539/schedule/3/paragraph/9/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4f4a31487c9215b063c71eed9d15a57b]: Textual amendment: Words in [Sch. 4 para. 13(1)(b)](https://www.legislation.gov.uk/uksi/2011/1524/schedule/4/paragraph/13/1/b) substituted (E.W.S.) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 3 para. 9(b)](https://www.legislation.gov.uk/uksi/2019/539/schedule/3/paragraph/9/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-05407d7e9aae63d82545b4349062d612]: Textual amendment: Words in [Sch. 4 para. 13(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2011/1524/schedule/4/paragraph/13/2/b/ii) substituted (E.W.S.) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 3 para. 9(b)](https://www.legislation.gov.uk/uksi/2019/539/schedule/3/paragraph/9/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-05407d7e9aae63d82545b4349062d612]: Textual amendment: Words in [Sch. 4 para. 13(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2011/1524/schedule/4/paragraph/13/2/b/ii) substituted (E.W.S.) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 3 para. 9(b)](https://www.legislation.gov.uk/uksi/2019/539/schedule/3/paragraph/9/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-df1de6dc8b43b54d2d9daa9c7764f2e3]: Textual amendment: Words in [Sch. 4 para. 13(3)](https://www.legislation.gov.uk/uksi/2011/1524/schedule/4/paragraph/13/3) substituted (E.W.S.) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 3 para. 9(b)](https://www.legislation.gov.uk/uksi/2019/539/schedule/3/paragraph/9/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-df1de6dc8b43b54d2d9daa9c7764f2e3]: Textual amendment: Words in [Sch. 4 para. 13(3)](https://www.legislation.gov.uk/uksi/2011/1524/schedule/4/paragraph/13/3) substituted (E.W.S.) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 3 para. 9(b)](https://www.legislation.gov.uk/uksi/2019/539/schedule/3/paragraph/9/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_e9a1e6bd-0e00-4252-d245-a5885e38b756]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only

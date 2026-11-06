@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 208. Cancellation of licence after single relevant conviction[^key-8cb71c2f7afc3012b5c7bb784e8c7bc3]
+## 208. Cancellation of licence after single relevant conviction[^c-8cb71c2f7afc3012b5c7bb784e8c7bc3]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ In section 4(7) of the Sea Fisheries (Shellfish) Act 1967 (which enables a licen
 
 ## Annotations
 
-[^key-8cb71c2f7afc3012b5c7bb784e8c7bc3]: Commencement: [S. 208](https://www.legislation.gov.uk/ukpga/2009/23/section/208) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/9)
+[^c-8cb71c2f7afc3012b5c7bb784e8c7bc3]: Commencement: [S. 208](https://www.legislation.gov.uk/ukpga/2009/23/section/208) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/9)

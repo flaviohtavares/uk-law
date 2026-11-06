@@ -34,13 +34,13 @@ For the purposes of this Part—
   - (e) to visit a child for whom they have parental responsibility and who, for whatever reason, is unable to travel to the prison; or
   - (f) to attend at any place for any other reason where the Governor is of the opinion that the circumstances warrant it;
 - “**temporary release for work**” means the unescorted temporary release from prison of an eligible prisoner for a period not exceeding one day, excluding travelling time, for the purposes of enabling the prisoner—
-  - (a) to undertake a work placement outside prison in terms of rule 84; or[^key-fc885591e7a9f3d41c98da5c3c55d1b8]
-  - (b) to attend a college, university or other educational establishment in order to participate in vocational training or an educational class;[^key-a335b1e68787324979e6c64185b4b562]
-  - (c) [^key-85509146a1b91ea296db83b1d9f6ea39]...
-- “unescorted release for health reasons” means the unescorted temporary release from prison of an eligible prisoner for a period not exceeding seven days, excluding travelling time, for the purposes of enabling the prisoner—[^key-2f2d0c9d7d669287586be90b218ea3ff]
+  - (a) to undertake a work placement outside prison in terms of rule 84; or[^c-fc885591e7a9f3d41c98da5c3c55d1b8]
+  - (b) to attend a college, university or other educational establishment in order to participate in vocational training or an educational class;[^c-a335b1e68787324979e6c64185b4b562]
+  - (c) [^c-85509146a1b91ea296db83b1d9f6ea39]...
+- “unescorted release for health reasons” means the unescorted temporary release from prison of an eligible prisoner for a period not exceeding seven days, excluding travelling time, for the purposes of enabling the prisoner—[^c-2f2d0c9d7d669287586be90b218ea3ff]
   - (a) to attend for treatment at a medical facility outwith the prison; or
   - (b) to attend counselling outwith the prison.
-- “[^key-1ab2e9836234da4eb012e3419f504e02]**regular unescorted day release**” means the unescorted temporary release from prison of an eligible prisoner for a period not exceeding one day on each occasion for the purposes of enabling the prisoner, in preparation for eventual release—
+- “[^c-1ab2e9836234da4eb012e3419f504e02]**regular unescorted day release**” means the unescorted temporary release from prison of an eligible prisoner for a period not exceeding one day on each occasion for the purposes of enabling the prisoner, in preparation for eventual release—
   - (a) to develop further, or to re-establish, links with their family or community,
   - (b) to develop educational or employment opportunities in the local community,
   - (c) to attend an appointment in the local community,
@@ -49,12 +49,12 @@ For the purposes of this Part—
 
 ## Annotations
 
-[^key-fc885591e7a9f3d41c98da5c3c55d1b8]: Textual amendment: Word in rule 136 inserted (1.11.2011) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2011 (S.S.I. 2011/356)](https://www.legislation.gov.uk/ssi/2011/356), [rules 1](https://www.legislation.gov.uk/ssi/2011/356/rule/1), [2(13)(a)](https://www.legislation.gov.uk/ssi/2011/356/rule/2/13/a)
+[^c-fc885591e7a9f3d41c98da5c3c55d1b8]: Textual amendment: Word in rule 136 inserted (1.11.2011) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2011 (S.S.I. 2011/356)](https://www.legislation.gov.uk/ssi/2011/356), [rules 1](https://www.legislation.gov.uk/ssi/2011/356/rule/1), [2(13)(a)](https://www.legislation.gov.uk/ssi/2011/356/rule/2/13/a)
 
-[^key-a335b1e68787324979e6c64185b4b562]: Textual amendment: Word in rule 136 substituted (1.11.2011) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2011 (S.S.I. 2011/356)](https://www.legislation.gov.uk/ssi/2011/356), [rules 1](https://www.legislation.gov.uk/ssi/2011/356/rule/1), [2(13)(b)](https://www.legislation.gov.uk/ssi/2011/356/rule/2/13/b)
+[^c-a335b1e68787324979e6c64185b4b562]: Textual amendment: Word in rule 136 substituted (1.11.2011) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2011 (S.S.I. 2011/356)](https://www.legislation.gov.uk/ssi/2011/356), [rules 1](https://www.legislation.gov.uk/ssi/2011/356/rule/1), [2(13)(b)](https://www.legislation.gov.uk/ssi/2011/356/rule/2/13/b)
 
-[^key-85509146a1b91ea296db83b1d9f6ea39]: Textual amendment: Words in rule 136 omitted (1.11.2011) by virtue of [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2011 (S.S.I. 2011/356)](https://www.legislation.gov.uk/ssi/2011/356), [rules 1](https://www.legislation.gov.uk/ssi/2011/356/rule/1), [2(13)(c)](https://www.legislation.gov.uk/ssi/2011/356/rule/2/13/c)
+[^c-85509146a1b91ea296db83b1d9f6ea39]: Textual amendment: Words in rule 136 omitted (1.11.2011) by virtue of [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2011 (S.S.I. 2011/356)](https://www.legislation.gov.uk/ssi/2011/356), [rules 1](https://www.legislation.gov.uk/ssi/2011/356/rule/1), [2(13)(c)](https://www.legislation.gov.uk/ssi/2011/356/rule/2/13/c)
 
-[^key-2f2d0c9d7d669287586be90b218ea3ff]: Textual amendment: Words in rule 136 substituted (24.3.2016) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2016 (S.S.I. 2016/131)](https://www.legislation.gov.uk/ssi/2016/131), [rules 1](https://www.legislation.gov.uk/ssi/2016/131/rule/1), [2(18)](https://www.legislation.gov.uk/ssi/2016/131/rule/2/18)
+[^c-2f2d0c9d7d669287586be90b218ea3ff]: Textual amendment: Words in rule 136 substituted (24.3.2016) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2016 (S.S.I. 2016/131)](https://www.legislation.gov.uk/ssi/2016/131), [rules 1](https://www.legislation.gov.uk/ssi/2016/131/rule/1), [2(18)](https://www.legislation.gov.uk/ssi/2016/131/rule/2/18)
 
-[^key-1ab2e9836234da4eb012e3419f504e02]: Textual amendment: Words in [rule 136](https://www.legislation.gov.uk/ssi/2011/331/rule/136) inserted (4.7.2022) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2022 (S.S.I. 2022/194)](https://www.legislation.gov.uk/ssi/2022/194), [rules 1](https://www.legislation.gov.uk/ssi/2022/194/rule/1), [2(7)](https://www.legislation.gov.uk/ssi/2022/194/rule/2/7)
+[^c-1ab2e9836234da4eb012e3419f504e02]: Textual amendment: Words in [rule 136](https://www.legislation.gov.uk/ssi/2011/331/rule/136) inserted (4.7.2022) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2022 (S.S.I. 2022/194)](https://www.legislation.gov.uk/ssi/2022/194), [rules 1](https://www.legislation.gov.uk/ssi/2022/194/rule/1), [2(7)](https://www.legislation.gov.uk/ssi/2022/194/rule/2/7)

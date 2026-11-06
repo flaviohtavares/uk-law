@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 96. Protection of supplies of water, electricity, etc[^key-5b14b952f821be9d85ae47baf1e75563][^key-ccc78888f1b8484836577db079ce68e6]
+## 96. Protection of supplies of water, electricity, etc[^c-5b14b952f821be9d85ae47baf1e75563][^c-ccc78888f1b8484836577db079ce68e6]
 
 *Extent: N.I.*
 
@@ -59,6 +59,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5b14b952f821be9d85ae47baf1e75563]: Commencement: S. 96 in operation at 25.6.2026, see [s. 120(01)](https://www.legislation.gov.uk/nia/2026/6/section/120/01)
+[^c-5b14b952f821be9d85ae47baf1e75563]: Commencement: S. 96 in operation at 25.6.2026, see [s. 120(01)](https://www.legislation.gov.uk/nia/2026/6/section/120/01)
 
-[^key-ccc78888f1b8484836577db079ce68e6]: Commencement: [S. 96](https://www.legislation.gov.uk/nia/2026/6/section/96) in operation at 25.6.2026, see [s. 120(1)](https://www.legislation.gov.uk/nia/2026/6/section/120/1)
+[^c-ccc78888f1b8484836577db079ce68e6]: Commencement: [S. 96](https://www.legislation.gov.uk/nia/2026/6/section/96) in operation at 25.6.2026, see [s. 120(1)](https://www.legislation.gov.uk/nia/2026/6/section/120/1)

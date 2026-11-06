@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 215. Requirements as to meeting tolerable standard.[^key-404945baa0d72593ac3d3075638a6ca6]
+## 215. Requirements as to meeting tolerable standard.[^c-404945baa0d72593ac3d3075638a6ca6]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-404945baa0d72593ac3d3075638a6ca6]: Textual amendment: [S. 215](https://www.legislation.gov.uk/ukpga/1987/26/section/215) repealed (1.4.2010) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [s. 195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3), [sch. 7](https://www.legislation.gov.uk/asp/2006/1/schedule/7) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-404945baa0d72593ac3d3075638a6ca6]: Textual amendment: [S. 215](https://www.legislation.gov.uk/ukpga/1987/26/section/215) repealed (1.4.2010) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [s. 195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3), [sch. 7](https://www.legislation.gov.uk/asp/2006/1/schedule/7) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)

@@ -52,15 +52,15 @@ The Queen’s Most Excellent Majesty in Council
 
 Her Majesty, in exercise of the powers conferred upon Her by sections 124(3) and 132(2) of the Patents Act 1977[^f00001], is pleased, by and with the advice of Her Privy Council, to make the following Order:
 
-## 1. Citation and commencement[^key-527a2ba13d8beb085d4c8a4c11d6a907]
+## 1. Citation and commencement[^c-527a2ba13d8beb085d4c8a4c11d6a907]
 
 This Order may be cited as the Patents (Isle of Man) Order 2013 and shall come into force on 11th November 2013.
 
-## 2. Modification of the Patents Act 1977 in its application to the Isle of Man[^key-96ca804847f29de99ff3eca1e7c35451]
+## 2. Modification of the Patents Act 1977 in its application to the Isle of Man[^c-96ca804847f29de99ff3eca1e7c35451]
 
 The Patents Act 1977 shall, in its application to the Isle of Man, have effect subject to the modifications specified in the Schedule to this Order.
 
-## 3. Revocation[^key-c176747f5b4c34af9dd1c236fd76427b]
+## 3. Revocation[^c-c176747f5b4c34af9dd1c236fd76427b]
 
 The Patents Act 1977 (Isle of Man) Order 2003[^f00002] is revoked.
 
@@ -72,17 +72,17 @@ Clerk of the Privy Council
 
 Article 2
 
-**1.**[^key-9237848ac99feff35caff12a12338ffa] References to the Crown shall be construed as including the Crown in right of the Government of the Isle of Man.
+**1.**[^c-9237848ac99feff35caff12a12338ffa] References to the Crown shall be construed as including the Crown in right of the Government of the Isle of Man.
 
-**2.**[^key-986b37612a133ff565417d2f1944f72d] (1) References to an Act of Parliament (including the Patents Act 1977) or to a provision of such an Act shall be construed as references to that Act or provision as it has effect in the Isle of Man.
+**2.**[^c-986b37612a133ff565417d2f1944f72d] (1) References to an Act of Parliament (including the Patents Act 1977) or to a provision of such an Act shall be construed as references to that Act or provision as it has effect in the Isle of Man.
 
 (2) References to an Act of Tynwald shall be construed as references to it as amended or replaced by or under any other such enactment.
 
-**3.**[^key-6698fd8c7d22307beaa6cc739c1872f9] References to a government department shall be construed as including references to a Department of the Government of the Isle of Man, and in relation to such a Department as if references to the Treasury were references to the Treasury of the Isle of Man.
+**3.**[^c-6698fd8c7d22307beaa6cc739c1872f9] References to a government department shall be construed as including references to a Department of the Government of the Isle of Man, and in relation to such a Department as if references to the Treasury were references to the Treasury of the Isle of Man.
 
-**4.**[^key-0f83255f8459086310fa40916ba937bf] For the purposes of any arbitration in pursuance of the Patents Act 1977, and of the application thereto of the Arbitration Act 1976 (an Act of Tynwald)[^f00003], the Act of 1977 shall be treated as an Act of Tynwald.
+**4.**[^c-0f83255f8459086310fa40916ba937bf] For the purposes of any arbitration in pursuance of the Patents Act 1977, and of the application thereto of the Arbitration Act 1976 (an Act of Tynwald)[^f00003], the Act of 1977 shall be treated as an Act of Tynwald.
 
-**5.**[^key-42c4aa99928d8640930c1bcc6e7962ec] In section 1 (patentable inventions), for subsections (3) and (4) substitute—
+**5.**[^c-42c4aa99928d8640930c1bcc6e7962ec] In section 1 (patentable inventions), for subsections (3) and (4) substitute—
 
 > (3) A patent shall not be granted for an invention the commercial exploitation of which would be contrary to public policy or morality.
 >
@@ -90,31 +90,31 @@ Article 2
 
 .
 
-**6.**[^key-6f38ab18126a32487d767b35d31149ec] In section 5 (priority date), after subsection (5) insert—
+**6.**[^c-6f38ab18126a32487d767b35d31149ec] In section 5 (priority date), after subsection (5) insert—
 
 > (6) References in subsection (5) above to a convention country include references to a country, other than the United Kingdom, which is a member of the World Trade Organisation.
 
 .
 
-**7.**[^key-ed39da3b418791c01f250c788bd752bb] In sections 22(9)(b) (information prejudicial to national security) and 23(3)(b) (restrictions on applications abroad), for “indictment, to imprisonment” substitute “information, to custody”.
+**7.**[^c-ed39da3b418791c01f250c788bd752bb] In sections 22(9)(b) (information prejudicial to national security) and 23(3)(b) (restrictions on applications abroad), for “indictment, to imprisonment” substitute “information, to custody”.
 
-**8.**[^key-653468cd6aa9ec69c75335870cdb9ae4] (1) In section 32(9) (register of patents) omit “Subject to subsection (12) below,”.
+**8.**[^c-653468cd6aa9ec69c75335870cdb9ae4] (1) In section 32(9) (register of patents) omit “Subject to subsection (12) below,”.
 
 (2) In section 32(11) omit “, subject to subsection (12) below,”.
 
-**9.**[^key-538506c2315725deec9c3d15c734f732] In section 40(6) (compensation of employees), in the definition of “relevant collective agreement”, for “Act 1974” substitute “(Consolidation) Act 1992”.
+**9.**[^c-538506c2315725deec9c3d15c734f732] In section 40(6) (compensation of employees), in the definition of “relevant collective agreement”, for “Act 1974” substitute “(Consolidation) Act 1992”.
 
-**10.**[^key-73c2198f0745324310d11e8b6552ebb0] In section 41 (amount of compensation), at the end add the following subsection—
+**10.**[^c-73c2198f0745324310d11e8b6552ebb0] In section 41 (amount of compensation), at the end add the following subsection—
 
 > (12) In the Isle of Man an order made under section 40 above by the comptroller for the payment of any sums may be enforced as if it were a judgment or order of the court for the payment of money.
 
 .
 
-**11.**[^key-d7aa00c052f3472572590ca813c81367] Omit sections 44 and 45.
+**11.**[^c-d7aa00c052f3472572590ca813c81367] Omit sections 44 and 45.
 
-**12.**[^key-5ae2bf924e6932afa22b46457af0f983] In section 46(3)(c) (licences of right), for “European Economic Community” substitute “European Union”.
+**12.**[^c-5ae2bf924e6932afa22b46457af0f983] In section 46(3)(c) (licences of right), for “European Economic Community” substitute “European Union”.
 
-**13.**[^key-96b088dd6327a645dd3b5f458df06b71] For section 48 substitute—
+**13.**[^c-96b088dd6327a645dd3b5f458df06b71] For section 48 substitute—
 
 > **48. Compulsory licences: general**
 >
@@ -208,13 +208,13 @@ Article 2
 
 .
 
-**14.**[^key-6a38d80780c4880919739c45337b3f91] (1) In section 50(1) (applications under section 48), after “in respect of a patent” insert “whose proprietor is not a WTO proprietor”.
+**14.**[^c-6a38d80780c4880919739c45337b3f91] (1) In section 50(1) (applications under section 48), after “in respect of a patent” insert “whose proprietor is not a WTO proprietor”.
 
 (2) In section 50(2), for “such an application” substitute “any application under section 48 above”.
 
-**15.**[^key-388655f77fe6c69a6374eeec32624901] In the side note to section 51 (powers exercisable in consequence of a report of the Competition Commission) and in sections 51(1) and 53(2) (compulsory licences), for “Monopolies and Mergers Commission” substitute “Competition Commission”.
+**15.**[^c-388655f77fe6c69a6374eeec32624901] In the side note to section 51 (powers exercisable in consequence of a report of the Competition Commission) and in sections 51(1) and 53(2) (compulsory licences), for “Monopolies and Mergers Commission” substitute “Competition Commission”.
 
-**16.**[^key-79d5a621d72b70094536d0c0ab5833e5] For section 52 substitute—
+**16.**[^c-79d5a621d72b70094536d0c0ab5833e5] For section 52 substitute—
 
 > **52. Opposition, appeal and arbitration**
 >
@@ -253,20 +253,20 @@ Article 2
 
 .
 
-**17.**[^key-499d0d8ec86c78a603305850e49875de] In section 54(2) (where patented invention is being worked abroad), after “means a country other than a member State” insert “or a member of the World Trade Organisation”.
+**17.**[^c-499d0d8ec86c78a603305850e49875de] In section 54(2) (where patented invention is being worked abroad), after “means a country other than a member State” insert “or a member of the World Trade Organisation”.
 
-**18.**[^key-c2ac5b6fde374f06e878ace047fee346] (1) In section 58(6)(a) (references of disputes as to Crown use), after “Act,” insert “or, in the case of a European patent (UK), has been allowed under any of the provisions in the Agreement on a Unified Patent Court,”.
+**18.**[^c-c2ac5b6fde374f06e878ace047fee346] (1) In section 58(6)(a) (references of disputes as to Crown use), after “Act,” insert “or, in the case of a European patent (UK), has been allowed under any of the provisions in the Agreement on a Unified Patent Court,”.
 
 (2) In section 58(12), after “Wales” insert “, the Isle of Man”.
 
-**19.**[^key-955b7982616ca6c00f0d6dc30a7036d7] (1) In section 60(5) (meaning of infringement), after paragraph (f) insert—
+**19.**[^c-955b7982616ca6c00f0d6dc30a7036d7] (1) In section 60(5) (meaning of infringement), after paragraph (f) insert—
 
 > - (g) it consists of the use by a farmer of the product of his harvest for propagation or multiplication by him on his own holding, where there has been a sale of plant propagating material to the farmer by the proprietor of the patent or with his consent for agricultural use;
 > - (h) it consists of the use of an animal or animal reproductive material by a farmer for an agricultural purpose following a sale to the farmer, by the proprietor of the patent or with his consent, of breeding stock or other animal reproductive material which constitutes or contains the patented invention;
 > - (i) it consists of—
 >   - (i) an act done in conducting a study, test or trial which is necessary for and is conducted with a view to the application of paragraphs 1 to 5 of article 13 of [Directive 2001/82/EC](https://www.legislation.gov.uk/european/directive/2001/0082) or paragraphs 1 to 4 of article 10 of [Directive 2001/83/EC](https://www.legislation.gov.uk/european/directive/2001/0083), or
 >   - (ii) any other act which is required for the purpose of the application of those paragraphs.
-> - (j)[^key-23b04a59ca06480229470a37178c82b3] it consists of a use referred to in Article 27(c) of the Agreement on a Unified Patent Court;
+> - (j)[^c-23b04a59ca06480229470a37178c82b3] it consists of a use referred to in Article 27(c) of the Agreement on a Unified Patent Court;
 > - (k) subject to subsection (6H), it consists of an act or use referred to in Article 27(k) of the Agreement on a Unified Patent Court.
 
 .
@@ -287,7 +287,7 @@ Article 2
 
 .
 
-(2A)[^key-9738a3b3626b85a0f4b34aa513fb02f2] After section 60(6G) insert—
+(2A)[^c-9738a3b3626b85a0f4b34aa513fb02f2] After section 60(6G) insert—
 
 > (6H) Subsection 5(k) applies to an act or use in relation to a European patent (UK) or a European patent with unitary effect, but does not apply to an act or use in relation to a patent granted by the comptroller.
 
@@ -304,13 +304,13 @@ Article 2
 
   .
 
-**20.**[^key-bf2164bb2e424eb0dc24ca8a319f5248] In section 61(7) (proceedings for infringement of patent)[^f00008], at the end insert―
+**20.**[^c-bf2164bb2e424eb0dc24ca8a319f5248] In section 61(7) (proceedings for infringement of patent)[^f00008], at the end insert―
 
 > - (d) in the Isle of Man, payment of the sum may be enforced as if it were a judgment or order of the court for the payment of money.
 
 .
 
-**21.**[^key-f905167465ee89f1fd7a70557fbfbc93] (1) In the side note to section 62 (damages for infringement), for “Restrictions on recovery of” substitute “Further provisions as to”.
+**21.**[^c-f905167465ee89f1fd7a70557fbfbc93] (1) In the side note to section 62 (damages for infringement), for “Restrictions on recovery of” substitute “Further provisions as to”.
 
 (2) In section 62(3), for the words from “no damages” onwards substitute—
 
@@ -336,7 +336,7 @@ Article 2
 
 .
 
-**22.**[^key-466c37011f8e97108f3011aa9af3cdfc] In section 63(2) (relief for infringement of partially valid patent), for the words from “not grant relief” onwards substitute—
+**22.**[^c-466c37011f8e97108f3011aa9af3cdfc] In section 63(2) (relief for infringement of partially valid patent), for the words from “not grant relief” onwards substitute—
 
 > , when awarding damages, costs or expenses or making an order for an account of profits, take into account the following—
 >
@@ -348,12 +348,12 @@ Article 2
 
 .
 
-**23.**[^key-695318a429c31fc1370c25330bed8b8b] In section 68 (effect of non-registration on infringement proceedings)―
+**23.**[^c-695318a429c31fc1370c25330bed8b8b] In section 68 (effect of non-registration on infringement proceedings)―
 
 - (a) omit the words from “, the court or comptroller shall” to “occurring”; and
 - (b) before “unless” insert “, in proceedings for such an infringement, the court or comptroller shall not award him costs or expenses”.
 
-**24.**[^key-26c8f0f2464ce0e9d51ec182bcef5b7c] After section 76 insert—
+**24.**[^c-26c8f0f2464ce0e9d51ec182bcef5b7c] After section 76 insert—
 
 > **76A. Biotechnological inventions**
 >
@@ -363,7 +363,7 @@ Article 2
 
 .
 
-**24ZA.**[^key-ad2cce37341145764386b384db521066] In section 77 (effect of European patent (UK))—
+**24ZA.**[^c-ad2cce37341145764386b384db521066] In section 77 (effect of European patent (UK))—
 
 - (a) in subsections (4), (4A) and (5A), after “European Patent Convention” insert “or the Agreement on a Unified Patent Court”;
 - (b) in subsection (5)(a)—
@@ -392,35 +392,35 @@ Article 2
 
 **24ZD.** In section 92 (obtaining evidence for proceedings under the European Patent Convention), in subsections (1) and (5), after “European Patent Convention” insert “or proceedings before the Unified Patent Court”.
 
-**24A.**[^key-955b3993fa94fd1e9c91f624708217cc] In section 92(5) (obtaining evidence for proceedings under the European Patent Convention), for “Perjury Act 1911” substitute “Perjury Act 1952 (an Act of Tynwald)” and omit “and Article 3(4) of the Perjury (Northern Ireland) Order 1979”. 
+**24A.**[^c-955b3993fa94fd1e9c91f624708217cc] In section 92(5) (obtaining evidence for proceedings under the European Patent Convention), for “Perjury Act 1911” substitute “Perjury Act 1952 (an Act of Tynwald)” and omit “and Article 3(4) of the Perjury (Northern Ireland) Order 1979”. 
 
-**25.**[^key-b2300954d88844a10bac188aaa9c5f8b] In section 93 (enforcement of orders for costs), at the end insert—
+**25.**[^c-b2300954d88844a10bac188aaa9c5f8b] In section 93 (enforcement of orders for costs), at the end insert—
 
 > - (d) in the Isle of Man, the order may be enforced as if it were a judgment or order of the court for the payment of money.
 
 .
 
-**26.**[^key-9f664e1d749ce4f881dc6f56340455c2] Omit section 96.
+**26.**[^c-9f664e1d749ce4f881dc6f56340455c2] Omit section 96.
 
-**27.**[^key-c025a43632e84a9561e10570319437c8] In section 97(2) (appeals from the comptroller), omit the words from “and the Patents Court” onwards.
+**27.**[^c-c025a43632e84a9561e10570319437c8] In section 97(2) (appeals from the comptroller), omit the words from “and the Patents Court” onwards.
 
-**28.**[^key-332795cc0ba6677a6c5ecd49e74c3ac8] In section 107 (costs and expenses in proceedings before the comptroller), at the end insert—
+**28.**[^c-332795cc0ba6677a6c5ecd49e74c3ac8] In section 107 (costs and expenses in proceedings before the comptroller), at the end insert—
 
 > (6) In the Isle of Man, any order under this section for the payments of costs may be enforced as if it were a judgment or order of the court for the payment of money.
 
 .
 
-**29.**[^key-920156d7e78dae27f5a2f23f73880bbc] In section 109 (falsification of register), for “indictment, to imprisonment” substitute “information, to custody”.
+**29.**[^c-920156d7e78dae27f5a2f23f73880bbc] In section 109 (falsification of register), for “indictment, to imprisonment” substitute “information, to custody”.
 
-**30.**[^key-23c4a41683b9870ef2333acdc404f574] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**30.**[^c-23c4a41683b9870ef2333acdc404f574] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**30A.**[^key-907874d7932aca34561827fae1346755] In section 124, after subsection (3) insert—
+**30A.**[^c-907874d7932aca34561827fae1346755] In section 124, after subsection (3) insert—
 
 > (4) Any amendments made by regulations under the European Union (Withdrawal) Act 2018[^f00003] to rules, regulations or orders under this Act, whether made before or after this provision comes into force, extend to the Isle of Man, subject to any modifications contained in an Order made by Her Majesty in Council under section 132(2).
 
 .
 
-**31.**[^key-c83aa0d042c42dd21461aa8ba3236a2f] After section 124 (rules, regulations and orders; supplementary) insert—
+**31.**[^c-c83aa0d042c42dd21461aa8ba3236a2f] After section 124 (rules, regulations and orders; supplementary) insert—
 
 > **124A. Use of electronic communications**
 >
@@ -475,27 +475,27 @@ Article 2
 
 .
 
-**32.**[^key-62a93b581a7ad7ad87260bbfa60bde16] In section 125A (disclosure of invention[^f00010]—
+**32.**[^c-62a93b581a7ad7ad87260bbfa60bde16] In section 125A (disclosure of invention[^f00010]—
 
 - (a) in the side note, for “micro-organisms” substitute “biological material”;
 - (b) in subsection (1), for “requires for its performance the use of a micro-organism” substitute “involves the use of or concerns biological material”;
 - (c) in subsection (2)(a), for “micro-organism” substitute “biological material”.
 
-**33.**[^key-8bd5b51580a99650ab37c03f122896bc] Omit section 126.
+**33.**[^c-8bd5b51580a99650ab37c03f122896bc] Omit section 126.
 
-**34.**[^key-27f4676e562da401b77e9b87a0a84ca9] After section 128 insert―
+**34.**[^c-27f4676e562da401b77e9b87a0a84ca9] After section 128 insert―
 
-> **128A. Compulsory pharmaceutical licences[^key-008de032f133d85543dbe2971f85a989]**
+> **128A. Compulsory pharmaceutical licences[^c-008de032f133d85543dbe2971f85a989]**
 >
-> (1) In this Act a “compulsory pharmaceutical licence”[^key-3d37e5984818b2b1519c9267049fb0b4] means a compulsory licence granted under Regulation [(EC) No 816/2006](https://www.legislation.gov.uk/european/regulation/2006/0816) of the European Parliament and of the Council of 17 May 2006 on compulsory licensing of patents relating to the manufacture of pharmaceutical products for export to countries with public health problems[^f00011] (referred to in this Act as “the Compulsory Licensing Regulation”).
+> (1) In this Act a “compulsory pharmaceutical licence”[^c-3d37e5984818b2b1519c9267049fb0b4] means a compulsory licence granted under Regulation [(EC) No 816/2006](https://www.legislation.gov.uk/european/regulation/2006/0816) of the European Parliament and of the Council of 17 May 2006 on compulsory licensing of patents relating to the manufacture of pharmaceutical products for export to countries with public health problems[^f00011] (referred to in this Act as “the Compulsory Licensing Regulation”).
 >
-> (2) In the application to compulsory pharmaceutical[^key-d1f525a63f613e961996179a6870b857] licences of the provisions of this Act listed in subsection (3)—
+> (2) In the application to compulsory pharmaceutical[^c-d1f525a63f613e961996179a6870b857] licences of the provisions of this Act listed in subsection (3)—
 >
 > - (a) references to a licence under a patent,
 > - (b) references to a right under a patent, and
 > - (c) references to a proprietary interest under a patent,
 >
-> include a compulsory pharmaceutical[^key-b9db50026abd7e73c201244d54f3b568] licence.
+> include a compulsory pharmaceutical[^c-b9db50026abd7e73c201244d54f3b568] licence.
 >
 > (3) The provisions referred to in subsection (2) are—
 >
@@ -516,7 +516,7 @@ Article 2
 > - section 124A (use of electronic communications);
 > - section 130(8) (disapplication of Part 1 of Arbitration Act 1996[^f00012]).
 >
-> (5) In section 108 (licences granted by order of comptroller) the reference to a licence under section 11, 38, 48 or 49 includes a compulsory pharmaceutical[^key-4beb09383491b2e829e58dd679f9e23a] licence.
+> (5) In section 108 (licences granted by order of comptroller) the reference to a licence under section 11, 38, 48 or 49 includes a compulsory pharmaceutical[^c-4beb09383491b2e829e58dd679f9e23a] licence.
 >
 > (6) References in this Act to the Compulsory Licensing Regulation are to that Regulation as amended from time to time.
 >
@@ -526,14 +526,14 @@ Article 2
 >
 > (2) In this Act a “supplementary protection certificate” means a certificate issued under—
 >
-> - (a) “Regulation[^key-ac578c34a09b9865283ed34d1c183ae5] [(EC) No 469/2009](https://www.legislation.gov.uk/european/regulation/2009/0469) of the European Parliament and of the Council of 6th May 2009 concerning the supplementary protection certificate for medicinal products, or
+> - (a) “Regulation[^c-ac578c34a09b9865283ed34d1c183ae5] [(EC) No 469/2009](https://www.legislation.gov.uk/european/regulation/2009/0469) of the European Parliament and of the Council of 6th May 2009 concerning the supplementary protection certificate for medicinal products, or
 > - (b) Regulation [(EC) No 1610/96](https://www.legislation.gov.uk/european/regulation/1996/1610) of the European Parliament and of the Council of 23 July 1996 concerning the creation of a supplementary protection certificate for plant protection products[^f00014].
 
 .
 
-**35.**[^key-25fb48c618dbe371cefe32e81451cf80] (1)[^key-11bf81dfe022b0063e37dbda657c26f1] In section 130(1) (interpretation)—
+**35.**[^c-25fb48c618dbe371cefe32e81451cf80] (1)[^c-11bf81dfe022b0063e37dbda657c26f1] In section 130(1) (interpretation)—
 
-- (a)[^key-5ba9e8ba6a05c7601a148b03ad43a7ce] at the end of the definition of “court” insert—
+- (a)[^c-5ba9e8ba6a05c7601a148b03ad43a7ce] at the end of the definition of “court” insert—
 
   > - (d) as respects the Isle of Man, the High Court of Justice of the Isle of Man;
   >
@@ -542,7 +542,7 @@ Article 2
   ;
 - (b) at the appropriate places insert—
 
-  > - “Agreement on a Unified Patent Court” means the Agreement on a Unified Patent Court signed at Brussels on 19th February 2013;[^key-1a71fd1237e41eae9bff8bbd15f48088]
+  > - “Agreement on a Unified Patent Court” means the Agreement on a Unified Patent Court signed at Brussels on 19th February 2013;[^c-1a71fd1237e41eae9bff8bbd15f48088]
   > - “biological material” means any material containing genetic information and capable of reproducing itself or being reproduced in a biological system;
   > - “biotechnological invention” means an invention which concerns a product consisting of or containing biological material or a process by means of which biological material is produced, processed or used;
   > - “electronic communication” has the same meaning as in the Electronic Communications Act 2000[^f00015];
@@ -552,13 +552,13 @@ Article 2
   > - “Unitary Patent Regulation” means Regulation (EU) No 1257/2012 of the European Parliament and of the Council of 17 December 2012 implementing enhanced cooperation in the area of the creation of unitary patent protection.
 - (c) in the definition of “formal requirements” for “section 17” substitute “section 15A”.
 
-(2)[^key-a4cf1ca340de844848d6c1e6ec96560e] In section 130(6), after paragraph (c), insert—
+(2)[^c-a4cf1ca340de844848d6c1e6ec96560e] In section 130(6), after paragraph (c), insert—
 
 > - (d) The Agreement on a Unified Patent Court;
 
 .
 
-**36.**[^key-334a4ad80873f0c6a79145c4dbb5efca] Before Schedule 1 insert—
+**36.**[^c-334a4ad80873f0c6a79145c4dbb5efca] Before Schedule 1 insert—
 
 > **SCHEDULE A1 — Derogation from patent protection in respect of biotechnological inventions**
 >
@@ -568,7 +568,7 @@ Article 2
 >
 > **1.** In this Schedule—
 >
-> - “the Council Regulation” means Council Regulation [(EC) No. 2100/94](https://www.legislation.gov.uk/european/regulation/1994/2100) of 27th July 1994 on Community plant variety rights[^f00016] as it had effect immediately before exit day[^key-a46017317576cde2fb5546da087854d6];
+> - “the Council Regulation” means Council Regulation [(EC) No. 2100/94](https://www.legislation.gov.uk/european/regulation/1994/2100) of 27th July 1994 on Community plant variety rights[^f00016] as it had effect immediately before exit day[^c-a46017317576cde2fb5546da087854d6];
 > - “farmer’s own holding” means any land which a farmer actually exploits for plant growing, whether as his property or otherwise managed under his own responsibility and on his own account;
 > - “the gazette” means the gazette published under section 34 of the Plant Varieties and Seeds Act 1964[^f00017];
 > - “protected material” means plant propagating material which incorporates material subject to a patent;
@@ -766,7 +766,7 @@ Article 2
 >   - (b) distinguished from any other plant grouping by the expression of at least one of the said characteristics; and
 >   - (c) considered as a unit with regard to its suitability for being propagated unchanged.
 >
-> **SCHEDULE A3 — EUROPEAN PATENT WITH UNITARY EFFECT[^key-6b8f8cc9cbe8f6c2f266ab96b94d6b02]**
+> **SCHEDULE A3 — EUROPEAN PATENT WITH UNITARY EFFECT[^c-6b8f8cc9cbe8f6c2f266ab96b94d6b02]**
 >
 > **Meaning of “relevant statutory provisions”**
 >
@@ -861,7 +861,7 @@ Article 2
 
 .
 
-**37.**[^key-a648f74872a17e6bfbbf105adca1a1ef] After Schedule 4 insert―
+**37.**[^c-a648f74872a17e6bfbbf105adca1a1ef] After Schedule 4 insert―
 
 > **SCHEDULE 4A — SUPPLEMENTARY PROTECTION CERTIFICATES**
 >
@@ -957,10 +957,10 @@ Article 2
 >
 > **7.** In this Act—
 >
-> - (a) “the Medicinal Products Regulation” means Regulation[^key-bf942ff83c55c4e2b11290aa533ad011] [(EC) No 469/2009](https://www.legislation.gov.uk/european/regulation/2009/0469) of the European Parliament and of the Council of 6th May 2009 concerning the supplementary protection certificate for medicinal products, and
+> - (a) “the Medicinal Products Regulation” means Regulation[^c-bf942ff83c55c4e2b11290aa533ad011] [(EC) No 469/2009](https://www.legislation.gov.uk/european/regulation/2009/0469) of the European Parliament and of the Council of 6th May 2009 concerning the supplementary protection certificate for medicinal products, and
 > - (b) “the Plant Protection Products Regulation” means Regulation [(EC) No 1610/96](https://www.legislation.gov.uk/european/regulation/1996/1610) of the European Parliament and of the Council of 23 July 1996 concerning the creation of a supplementary protection certificate for plant protection products[^f00019].
 >
-> **Transitional provision[^key-a252528de793dda1fdb9c4710c2f87b4]**
+> **Transitional provision[^c-a252528de793dda1fdb9c4710c2f87b4]**
 >
 > **8.** (1) A reference (express or implied) in this Act to the Medicinal Products Regulation, or a provision of it, is to be read as being or (subject to context) including a reference to the old Regulation, or the corresponding provision of the old Regulation, in relation to times, circumstances or purposes in relation to which the old Regulation, or that provision, had effect.
 >
@@ -980,59 +980,59 @@ This Order modifies the Patents Act 1977 in its application to the Isle of Man. 
 
 [^f00001]: Footnote: [1977 c.37](https://www.legislation.gov.uk/ukpga/1977/37).
 
-[^key-527a2ba13d8beb085d4c8a4c11d6a907]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
+[^c-527a2ba13d8beb085d4c8a4c11d6a907]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
 
-[^key-96ca804847f29de99ff3eca1e7c35451]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2013/2602/article/2) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
+[^c-96ca804847f29de99ff3eca1e7c35451]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2013/2602/article/2) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
 
-[^key-c176747f5b4c34af9dd1c236fd76427b]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2013/2602/article/3) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
+[^c-c176747f5b4c34af9dd1c236fd76427b]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2013/2602/article/3) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
 
 [^f00002]: Footnote: [S.I. 2003/1249](https://www.legislation.gov.uk/uksi/2003/1249).
 
-[^key-9237848ac99feff35caff12a12338ffa]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/1) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
+[^c-9237848ac99feff35caff12a12338ffa]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/1) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
 
-[^key-986b37612a133ff565417d2f1944f72d]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/2) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
+[^c-986b37612a133ff565417d2f1944f72d]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/2) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
 
-[^key-6698fd8c7d22307beaa6cc739c1872f9]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/3) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
+[^c-6698fd8c7d22307beaa6cc739c1872f9]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/3) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
 
-[^key-0f83255f8459086310fa40916ba937bf]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/4) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
+[^c-0f83255f8459086310fa40916ba937bf]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/4) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
 
 [^f00003]: Footnote: [1976 c.44](https://www.legislation.gov.uk/ukpga/1976/44) (Isle of Man).
 
-[^key-42c4aa99928d8640930c1bcc6e7962ec]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/5) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
+[^c-42c4aa99928d8640930c1bcc6e7962ec]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/5) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
 
-[^key-6f38ab18126a32487d767b35d31149ec]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/6) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
+[^c-6f38ab18126a32487d767b35d31149ec]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/6) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
 
-[^key-ed39da3b418791c01f250c788bd752bb]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/7) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
+[^c-ed39da3b418791c01f250c788bd752bb]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/7) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
 
-[^key-653468cd6aa9ec69c75335870cdb9ae4]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/8) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
+[^c-653468cd6aa9ec69c75335870cdb9ae4]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/8) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
 
-[^key-538506c2315725deec9c3d15c734f732]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/9) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
+[^c-538506c2315725deec9c3d15c734f732]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/9) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
 
-[^key-73c2198f0745324310d11e8b6552ebb0]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/10) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
+[^c-73c2198f0745324310d11e8b6552ebb0]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/10) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
 
-[^key-d7aa00c052f3472572590ca813c81367]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/11) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
+[^c-d7aa00c052f3472572590ca813c81367]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/11) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
 
-[^key-5ae2bf924e6932afa22b46457af0f983]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/12) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
+[^c-5ae2bf924e6932afa22b46457af0f983]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/12) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
 
-[^key-96b088dd6327a645dd3b5f458df06b71]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/13) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
+[^c-96b088dd6327a645dd3b5f458df06b71]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/13) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
 
-[^key-6a38d80780c4880919739c45337b3f91]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/14) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
+[^c-6a38d80780c4880919739c45337b3f91]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/14) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
 
-[^key-388655f77fe6c69a6374eeec32624901]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/15) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
+[^c-388655f77fe6c69a6374eeec32624901]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/15) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
 
-[^key-79d5a621d72b70094536d0c0ab5833e5]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/16) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
+[^c-79d5a621d72b70094536d0c0ab5833e5]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/16) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
 
 [^f00004]: Footnote: [1857 c.44](https://www.legislation.gov.uk/ukpga/1857/44).
 
-[^key-499d0d8ec86c78a603305850e49875de]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/17) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
+[^c-499d0d8ec86c78a603305850e49875de]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/17) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
 
-[^key-c2ac5b6fde374f06e878ace047fee346]: Textual amendment: Sch. para. 18 substituted (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Patents (Isle of Man) (Amendment) Order 2017 (S.I. 2017/162)](https://www.legislation.gov.uk/uksi/2017/162), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2017/162/schedule/paragraph/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/162/article/3))
+[^c-c2ac5b6fde374f06e878ace047fee346]: Textual amendment: Sch. para. 18 substituted (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Patents (Isle of Man) (Amendment) Order 2017 (S.I. 2017/162)](https://www.legislation.gov.uk/uksi/2017/162), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2017/162/schedule/paragraph/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/162/article/3))
 
-[^key-955b7982616ca6c00f0d6dc30a7036d7]: Commencement: [Sch. para. 19](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/19) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
+[^c-955b7982616ca6c00f0d6dc30a7036d7]: Commencement: [Sch. para. 19](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/19) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
 
-[^key-23b04a59ca06480229470a37178c82b3]: Textual amendment: Words in Sch. para. 19 inserted (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Patents (Isle of Man) (Amendment) Order 2017 (S.I. 2017/162)](https://www.legislation.gov.uk/uksi/2017/162), [Sch. para. 2(a)](https://www.legislation.gov.uk/uksi/2017/162/schedule/paragraph/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/162/article/3))
+[^c-23b04a59ca06480229470a37178c82b3]: Textual amendment: Words in Sch. para. 19 inserted (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Patents (Isle of Man) (Amendment) Order 2017 (S.I. 2017/162)](https://www.legislation.gov.uk/uksi/2017/162), [Sch. para. 2(a)](https://www.legislation.gov.uk/uksi/2017/162/schedule/paragraph/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/162/article/3))
 
-[^key-9738a3b3626b85a0f4b34aa513fb02f2]: Textual amendment: Sch. para. 19(2A) inserted (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Patents (Isle of Man) (Amendment) Order 2017 (S.I. 2017/162)](https://www.legislation.gov.uk/uksi/2017/162), [Sch. para. 2(b)](https://www.legislation.gov.uk/uksi/2017/162/schedule/paragraph/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/162/article/3))
+[^c-9738a3b3626b85a0f4b34aa513fb02f2]: Textual amendment: Sch. para. 19(2A) inserted (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Patents (Isle of Man) (Amendment) Order 2017 (S.I. 2017/162)](https://www.legislation.gov.uk/uksi/2017/162), [Sch. para. 2(b)](https://www.legislation.gov.uk/uksi/2017/162/schedule/paragraph/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/162/article/3))
 
 [^f00005]: Footnote: [1982 c.16](https://www.legislation.gov.uk/ukpga/1982/16).
 
@@ -1040,90 +1040,90 @@ This Order modifies the Patents Act 1977 in its application to the Isle of Man. 
 
 [^f00007]: Footnote: OJ No, L136, 30.4.2004, p.58.
 
-[^key-bf2164bb2e424eb0dc24ca8a319f5248]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/20) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
+[^c-bf2164bb2e424eb0dc24ca8a319f5248]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/20) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
 
 [^f00008]: Footnote: Section 61(7) was inserted by section 11 of the Patents Act [2004 (c.16)](https://www.legislation.gov.uk/ukpga/2004/16).
 
-[^key-f905167465ee89f1fd7a70557fbfbc93]: Commencement: [Sch. para. 21](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/21) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
+[^c-f905167465ee89f1fd7a70557fbfbc93]: Commencement: [Sch. para. 21](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/21) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
 
-[^key-466c37011f8e97108f3011aa9af3cdfc]: Commencement: [Sch. para. 22](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/22) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
+[^c-466c37011f8e97108f3011aa9af3cdfc]: Commencement: [Sch. para. 22](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/22) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
 
-[^key-695318a429c31fc1370c25330bed8b8b]: Commencement: [Sch. para. 23](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/23) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
+[^c-695318a429c31fc1370c25330bed8b8b]: Commencement: [Sch. para. 23](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/23) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
 
-[^key-26c8f0f2464ce0e9d51ec182bcef5b7c]: Commencement: [Sch. para. 24](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/24) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
+[^c-26c8f0f2464ce0e9d51ec182bcef5b7c]: Commencement: [Sch. para. 24](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/24) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
 
-[^key-ad2cce37341145764386b384db521066]: Textual amendment: Sch. paras. 24ZA-24ZD inserted (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Patents (Isle of Man) (Amendment) Order 2017 (S.I. 2017/162)](https://www.legislation.gov.uk/uksi/2017/162), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2017/162/schedule/paragraph/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/162/article/3))
+[^c-ad2cce37341145764386b384db521066]: Textual amendment: Sch. paras. 24ZA-24ZD inserted (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Patents (Isle of Man) (Amendment) Order 2017 (S.I. 2017/162)](https://www.legislation.gov.uk/uksi/2017/162), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2017/162/schedule/paragraph/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/162/article/3))
 
-[^key-955b3993fa94fd1e9c91f624708217cc]: Textual amendment: [Sch. para. 24A](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/24A) inserted (1.6.2016) by [The Patents (Isle of Man) (Amendment) Order 2016 (S.I. 2016/559)](https://www.legislation.gov.uk/uksi/2016/559), [art. 1](https://www.legislation.gov.uk/uksi/2016/559/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2016/559/schedule/paragraph/1)
+[^c-955b3993fa94fd1e9c91f624708217cc]: Textual amendment: [Sch. para. 24A](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/24A) inserted (1.6.2016) by [The Patents (Isle of Man) (Amendment) Order 2016 (S.I. 2016/559)](https://www.legislation.gov.uk/uksi/2016/559), [art. 1](https://www.legislation.gov.uk/uksi/2016/559/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2016/559/schedule/paragraph/1)
 
-[^key-b2300954d88844a10bac188aaa9c5f8b]: Commencement: [Sch. para. 25](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/25) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
+[^c-b2300954d88844a10bac188aaa9c5f8b]: Commencement: [Sch. para. 25](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/25) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
 
-[^key-9f664e1d749ce4f881dc6f56340455c2]: Commencement: [Sch. para. 26](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/26) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
+[^c-9f664e1d749ce4f881dc6f56340455c2]: Commencement: [Sch. para. 26](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/26) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
 
-[^key-c025a43632e84a9561e10570319437c8]: Commencement: [Sch. para. 27](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/27) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
+[^c-c025a43632e84a9561e10570319437c8]: Commencement: [Sch. para. 27](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/27) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
 
-[^key-332795cc0ba6677a6c5ecd49e74c3ac8]: Commencement: [Sch. para. 28](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/28) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
+[^c-332795cc0ba6677a6c5ecd49e74c3ac8]: Commencement: [Sch. para. 28](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/28) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
 
-[^key-920156d7e78dae27f5a2f23f73880bbc]: Commencement: [Sch. para. 29](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/29) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
+[^c-920156d7e78dae27f5a2f23f73880bbc]: Commencement: [Sch. para. 29](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/29) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
 
-[^key-23c4a41683b9870ef2333acdc404f574]: Textual amendment: [Sch. para. 30](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/30) omitted (1.6.2016) by virtue of [The Patents (Isle of Man) (Amendment) Order 2016 (S.I. 2016/559)](https://www.legislation.gov.uk/uksi/2016/559), [art. 1](https://www.legislation.gov.uk/uksi/2016/559/article/1), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2016/559/schedule/paragraph/2)
+[^c-23c4a41683b9870ef2333acdc404f574]: Textual amendment: [Sch. para. 30](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/30) omitted (1.6.2016) by virtue of [The Patents (Isle of Man) (Amendment) Order 2016 (S.I. 2016/559)](https://www.legislation.gov.uk/uksi/2016/559), [art. 1](https://www.legislation.gov.uk/uksi/2016/559/article/1), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2016/559/schedule/paragraph/2)
 
-[^key-907874d7932aca34561827fae1346755]: Textual amendment: [Sch. para. 30A](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/30A) inserted (31.12.2020) by [The Patents (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1327)](https://www.legislation.gov.uk/uksi/2019/1327), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1327/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1327/article/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-907874d7932aca34561827fae1346755]: Textual amendment: [Sch. para. 30A](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/30A) inserted (31.12.2020) by [The Patents (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1327)](https://www.legislation.gov.uk/uksi/2019/1327), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1327/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1327/article/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c83aa0d042c42dd21461aa8ba3236a2f]: Commencement: [Sch. para. 31](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/31) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
+[^c-c83aa0d042c42dd21461aa8ba3236a2f]: Commencement: [Sch. para. 31](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/31) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
 
-[^key-62a93b581a7ad7ad87260bbfa60bde16]: Commencement: [Sch. para. 32](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/32) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
+[^c-62a93b581a7ad7ad87260bbfa60bde16]: Commencement: [Sch. para. 32](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/32) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
 
 [^f00010]: Footnote: Section 125A was inserted by paragraph 30 of Schedule 5 to the Copyright, Designs and Patents Act [1988 (c.48)](https://www.legislation.gov.uk/ukpga/1988/48).
 
-[^key-8bd5b51580a99650ab37c03f122896bc]: Commencement: [Sch. para. 33](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/33) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
+[^c-8bd5b51580a99650ab37c03f122896bc]: Commencement: [Sch. para. 33](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/33) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
 
-[^key-27f4676e562da401b77e9b87a0a84ca9]: Commencement: [Sch. para. 34](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/34) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
+[^c-27f4676e562da401b77e9b87a0a84ca9]: Commencement: [Sch. para. 34](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/34) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
 
-[^key-008de032f133d85543dbe2971f85a989]: Textual amendment: Words in [Sch. para. 34](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/34) substituted (31.12.2020) by [The Patents (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1327)](https://www.legislation.gov.uk/uksi/2019/1327), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1327/article/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2019/1327/article/2/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-008de032f133d85543dbe2971f85a989]: Textual amendment: Words in [Sch. para. 34](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/34) substituted (31.12.2020) by [The Patents (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1327)](https://www.legislation.gov.uk/uksi/2019/1327), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1327/article/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2019/1327/article/2/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3d37e5984818b2b1519c9267049fb0b4]: Textual amendment: Words in [Sch. para. 34](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/34) substituted (31.12.2020) by [The Patents (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1327)](https://www.legislation.gov.uk/uksi/2019/1327), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1327/article/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2019/1327/article/2/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3d37e5984818b2b1519c9267049fb0b4]: Textual amendment: Words in [Sch. para. 34](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/34) substituted (31.12.2020) by [The Patents (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1327)](https://www.legislation.gov.uk/uksi/2019/1327), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1327/article/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2019/1327/article/2/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00011]: Footnote: OJ No. L 157, 9.6.2006, p.1.
 
-[^key-d1f525a63f613e961996179a6870b857]: Textual amendment: Words in [Sch. para. 34](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/34) substituted (31.12.2020) by [The Patents (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1327)](https://www.legislation.gov.uk/uksi/2019/1327), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1327/article/1), [2(3)(c)(i)](https://www.legislation.gov.uk/uksi/2019/1327/article/2/3/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d1f525a63f613e961996179a6870b857]: Textual amendment: Words in [Sch. para. 34](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/34) substituted (31.12.2020) by [The Patents (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1327)](https://www.legislation.gov.uk/uksi/2019/1327), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1327/article/1), [2(3)(c)(i)](https://www.legislation.gov.uk/uksi/2019/1327/article/2/3/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b9db50026abd7e73c201244d54f3b568]: Textual amendment: Words in [Sch. para. 34](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/34) substituted (31.12.2020) by [The Patents (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1327)](https://www.legislation.gov.uk/uksi/2019/1327), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1327/article/1), [2(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2019/1327/article/2/3/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b9db50026abd7e73c201244d54f3b568]: Textual amendment: Words in [Sch. para. 34](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/34) substituted (31.12.2020) by [The Patents (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1327)](https://www.legislation.gov.uk/uksi/2019/1327), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1327/article/1), [2(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2019/1327/article/2/3/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00012]: Footnote: [1996 c.23](https://www.legislation.gov.uk/ukpga/1996/23).
 
-[^key-4beb09383491b2e829e58dd679f9e23a]: Textual amendment: Words in [Sch. para. 34](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/34) substituted (31.12.2020) by [The Patents (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1327)](https://www.legislation.gov.uk/uksi/2019/1327), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1327/article/1), [2(3)(d)](https://www.legislation.gov.uk/uksi/2019/1327/article/2/3/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4beb09383491b2e829e58dd679f9e23a]: Textual amendment: Words in [Sch. para. 34](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/34) substituted (31.12.2020) by [The Patents (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1327)](https://www.legislation.gov.uk/uksi/2019/1327), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1327/article/1), [2(3)(d)](https://www.legislation.gov.uk/uksi/2019/1327/article/2/3/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ac578c34a09b9865283ed34d1c183ae5]: Textual amendment: Words in [Sch. para. 34](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/34) substituted (1.6.2016) by [The Patents (Isle of Man) (Amendment) Order 2016 (S.I. 2016/559)](https://www.legislation.gov.uk/uksi/2016/559), [art. 1](https://www.legislation.gov.uk/uksi/2016/559/article/1), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2016/559/schedule/paragraph/3)
+[^c-ac578c34a09b9865283ed34d1c183ae5]: Textual amendment: Words in [Sch. para. 34](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/34) substituted (1.6.2016) by [The Patents (Isle of Man) (Amendment) Order 2016 (S.I. 2016/559)](https://www.legislation.gov.uk/uksi/2016/559), [art. 1](https://www.legislation.gov.uk/uksi/2016/559/article/1), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2016/559/schedule/paragraph/3)
 
 [^f00014]: Footnote: OJ No. L 198, 8.8.1996, p.30.
 
-[^key-25fb48c618dbe371cefe32e81451cf80]: Commencement: [Sch. para. 35](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/35) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
+[^c-25fb48c618dbe371cefe32e81451cf80]: Commencement: [Sch. para. 35](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/35) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
 
-[^key-11bf81dfe022b0063e37dbda657c26f1]: Textual amendment: Sch. para. 35 renumbered as Sch. para. 35(1) (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Patents (Isle of Man) (Amendment) Order 2017 (S.I. 2017/162)](https://www.legislation.gov.uk/uksi/2017/162), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2017/162/schedule/paragraph/4) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/162/article/3))
+[^c-11bf81dfe022b0063e37dbda657c26f1]: Textual amendment: Sch. para. 35 renumbered as Sch. para. 35(1) (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Patents (Isle of Man) (Amendment) Order 2017 (S.I. 2017/162)](https://www.legislation.gov.uk/uksi/2017/162), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2017/162/schedule/paragraph/4) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/162/article/3))
 
-[^key-5ba9e8ba6a05c7601a148b03ad43a7ce]: Textual amendment: Sch. para. 35(1)(a) substituted (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Patents (Isle of Man) (Amendment) Order 2017 (S.I. 2017/162)](https://www.legislation.gov.uk/uksi/2017/162), [Sch. para. 4(a)](https://www.legislation.gov.uk/uksi/2017/162/schedule/paragraph/4/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/162/article/3))
+[^c-5ba9e8ba6a05c7601a148b03ad43a7ce]: Textual amendment: Sch. para. 35(1)(a) substituted (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Patents (Isle of Man) (Amendment) Order 2017 (S.I. 2017/162)](https://www.legislation.gov.uk/uksi/2017/162), [Sch. para. 4(a)](https://www.legislation.gov.uk/uksi/2017/162/schedule/paragraph/4/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/162/article/3))
 
-[^key-1a71fd1237e41eae9bff8bbd15f48088]: Textual amendment: Words in Sch. para. 35(1)(b) inserted (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Patents (Isle of Man) (Amendment) Order 2017 (S.I. 2017/162)](https://www.legislation.gov.uk/uksi/2017/162), [Sch. para. 4(b)](https://www.legislation.gov.uk/uksi/2017/162/schedule/paragraph/4/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/162/article/3))
+[^c-1a71fd1237e41eae9bff8bbd15f48088]: Textual amendment: Words in Sch. para. 35(1)(b) inserted (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Patents (Isle of Man) (Amendment) Order 2017 (S.I. 2017/162)](https://www.legislation.gov.uk/uksi/2017/162), [Sch. para. 4(b)](https://www.legislation.gov.uk/uksi/2017/162/schedule/paragraph/4/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/162/article/3))
 
 [^f00015]: Footnote: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7).
 
-[^key-a4cf1ca340de844848d6c1e6ec96560e]: Textual amendment: Sch. para. 35(2) inserted (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Patents (Isle of Man) (Amendment) Order 2017 (S.I. 2017/162)](https://www.legislation.gov.uk/uksi/2017/162), [Sch. para. 4(c)](https://www.legislation.gov.uk/uksi/2017/162/schedule/paragraph/4/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/162/article/3))
+[^c-a4cf1ca340de844848d6c1e6ec96560e]: Textual amendment: Sch. para. 35(2) inserted (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Patents (Isle of Man) (Amendment) Order 2017 (S.I. 2017/162)](https://www.legislation.gov.uk/uksi/2017/162), [Sch. para. 4(c)](https://www.legislation.gov.uk/uksi/2017/162/schedule/paragraph/4/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/162/article/3))
 
-[^key-334a4ad80873f0c6a79145c4dbb5efca]: Commencement: [Sch. para. 36](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/36) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
+[^c-334a4ad80873f0c6a79145c4dbb5efca]: Commencement: [Sch. para. 36](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/36) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
 
 [^f00016]: Footnote: OJ No. L 227, 1.9.1994, p.1.
 
-[^key-a46017317576cde2fb5546da087854d6]: Textual amendment: Words in [Sch. para. 36](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/36) inserted (31.12.2020) by [The Patents (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1327)](https://www.legislation.gov.uk/uksi/2019/1327), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1327/article/1), [2(4)](https://www.legislation.gov.uk/uksi/2019/1327/article/2/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a46017317576cde2fb5546da087854d6]: Textual amendment: Words in [Sch. para. 36](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/36) inserted (31.12.2020) by [The Patents (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1327)](https://www.legislation.gov.uk/uksi/2019/1327), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1327/article/1), [2(4)](https://www.legislation.gov.uk/uksi/2019/1327/article/2/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00017]: Footnote: [1964 c.14](https://www.legislation.gov.uk/ukpga/1964/14).
 
-[^key-6b8f8cc9cbe8f6c2f266ab96b94d6b02]: Textual amendment: Words in Sch. para. 36 inserted (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Patents (Isle of Man) (Amendment) Order 2017 (S.I. 2017/162)](https://www.legislation.gov.uk/uksi/2017/162), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2017/162/schedule/paragraph/5) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/162/article/3))
+[^c-6b8f8cc9cbe8f6c2f266ab96b94d6b02]: Textual amendment: Words in Sch. para. 36 inserted (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Patents (Isle of Man) (Amendment) Order 2017 (S.I. 2017/162)](https://www.legislation.gov.uk/uksi/2017/162), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2017/162/schedule/paragraph/5) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/162/article/3))
 
-[^key-a648f74872a17e6bfbbf105adca1a1ef]: Commencement: [Sch. para. 37](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/37) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
+[^c-a648f74872a17e6bfbbf105adca1a1ef]: Commencement: [Sch. para. 37](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/37) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2602/article/1)
 
-[^key-bf942ff83c55c4e2b11290aa533ad011]: Textual amendment: Words in [Sch. para. 37](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/37) substituted (1.6.2016) by [The Patents (Isle of Man) (Amendment) Order 2016 (S.I. 2016/559)](https://www.legislation.gov.uk/uksi/2016/559), [art. 1](https://www.legislation.gov.uk/uksi/2016/559/article/1), [Sch. para. 4(a)](https://www.legislation.gov.uk/uksi/2016/559/schedule/paragraph/4/a)
+[^c-bf942ff83c55c4e2b11290aa533ad011]: Textual amendment: Words in [Sch. para. 37](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/37) substituted (1.6.2016) by [The Patents (Isle of Man) (Amendment) Order 2016 (S.I. 2016/559)](https://www.legislation.gov.uk/uksi/2016/559), [art. 1](https://www.legislation.gov.uk/uksi/2016/559/article/1), [Sch. para. 4(a)](https://www.legislation.gov.uk/uksi/2016/559/schedule/paragraph/4/a)
 
 [^f00019]: Footnote: OJ No. L 198, 8.8.1996, p.30.
 
-[^key-a252528de793dda1fdb9c4710c2f87b4]: Textual amendment: Words in [Sch. para. 37](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/37) inserted (1.6.2016) by [The Patents (Isle of Man) (Amendment) Order 2016 (S.I. 2016/559)](https://www.legislation.gov.uk/uksi/2016/559), [art. 1](https://www.legislation.gov.uk/uksi/2016/559/article/1), [Sch. para. 4(b)](https://www.legislation.gov.uk/uksi/2016/559/schedule/paragraph/4/b)
+[^c-a252528de793dda1fdb9c4710c2f87b4]: Textual amendment: Words in [Sch. para. 37](https://www.legislation.gov.uk/uksi/2013/2602/schedule/paragraph/37) inserted (1.6.2016) by [The Patents (Isle of Man) (Amendment) Order 2016 (S.I. 2016/559)](https://www.legislation.gov.uk/uksi/2016/559), [art. 1](https://www.legislation.gov.uk/uksi/2016/559/article/1), [Sch. para. 4(b)](https://www.legislation.gov.uk/uksi/2016/559/schedule/paragraph/4/b)

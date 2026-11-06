@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 108. General vesting declarations: expedited procedure[^key-ef156ffd4c8d502ae64149596c0accc2][^key-45eaa619bde7de206331a17fc00c4679][^key-cffda76a42853cf46617d2c06e7b4ab4]
+## 108. General vesting declarations: expedited procedure[^c-ef156ffd4c8d502ae64149596c0accc2][^c-45eaa619bde7de206331a17fc00c4679][^c-cffda76a42853cf46617d2c06e7b4ab4]
 
 *Extent: E+W*
 
@@ -95,8 +95,8 @@ summary: ''
 
 ## Annotations
 
-[^key-ef156ffd4c8d502ae64149596c0accc2]: Commencement: S. 108 not in force at Royal Assent, see [s. 118(5)(d)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/5/d)
+[^c-ef156ffd4c8d502ae64149596c0accc2]: Commencement: S. 108 not in force at Royal Assent, see [s. 118(5)(d)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/5/d)
 
-[^key-45eaa619bde7de206331a17fc00c4679]: Commencement: [S. 108](https://www.legislation.gov.uk/ukpga/2025/34/section/108) in force at 19.12.2025 for specified purposes by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 3(1)(b)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/3/1/b)
+[^c-45eaa619bde7de206331a17fc00c4679]: Commencement: [S. 108](https://www.legislation.gov.uk/ukpga/2025/34/section/108) in force at 19.12.2025 for specified purposes by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 3(1)(b)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/3/1/b)
 
-[^key-cffda76a42853cf46617d2c06e7b4ab4]: Commencement: [S. 108](https://www.legislation.gov.uk/ukpga/2025/34/section/108) in force at 18.2.2026 for E. in so far as not already in force by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(i)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/i) (with [reg. 6(3)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/6/3))
+[^c-cffda76a42853cf46617d2c06e7b4ab4]: Commencement: [S. 108](https://www.legislation.gov.uk/ukpga/2025/34/section/108) in force at 18.2.2026 for E. in so far as not already in force by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(i)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/i) (with [reg. 6(3)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/6/3))

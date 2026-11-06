@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100A. Exercise of powers where UK is host member state[^key-fb5a9d6c5f4ebe0c9e3925d5ab389591]
+## 100A. Exercise of powers where UK is host member state[^c-fb5a9d6c5f4ebe0c9e3925d5ab389591]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fb5a9d6c5f4ebe0c9e3925d5ab389591]: Textual amendment: S. 100A omitted (31.12.2020) by virtue of [The Official Listing of Securities, Prospectus and Transparency (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/707)](https://www.legislation.gov.uk/uksi/2019/707), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/707/regulation/1/2), [32](https://www.legislation.gov.uk/uksi/2019/707/regulation/32) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2019/1234](https://www.legislation.gov.uk/uksi/2019/1234), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1234/regulation/1/3), [29(2)](https://www.legislation.gov.uk/uksi/2019/1234/regulation/29/2))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fb5a9d6c5f4ebe0c9e3925d5ab389591]: Textual amendment: S. 100A omitted (31.12.2020) by virtue of [The Official Listing of Securities, Prospectus and Transparency (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/707)](https://www.legislation.gov.uk/uksi/2019/707), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/707/regulation/1/2), [32](https://www.legislation.gov.uk/uksi/2019/707/regulation/32) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2019/1234](https://www.legislation.gov.uk/uksi/2019/1234), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1234/regulation/1/3), [29(2)](https://www.legislation.gov.uk/uksi/2019/1234/regulation/29/2))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

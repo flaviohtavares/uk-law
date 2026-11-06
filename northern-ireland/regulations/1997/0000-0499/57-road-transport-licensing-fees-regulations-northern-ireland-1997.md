@@ -44,17 +44,17 @@ Coming into operation
 
 The Department of the Environment, in exercise of the powers conferred by sections 9, 16(2), 23(2) and 25(2) and (4) of the Transport Act (Northern Ireland) 1967[^f00001], and now vested in it[^f00002] and of every other power enabling it in that behalf, and with the approval of the Department of Finance and Personnel[^f00003], hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-caa75d6b331f22e652f70cbeafdceb4c]
+## 1. Citation, commencement and interpretation[^c-caa75d6b331f22e652f70cbeafdceb4c]
 
 (1) These Regulations may be cited as the Road Transport Licensing (Fees) Regulations (Northern Ireland) 1997 and shall come into operation on 1st April 1997.
 
 (2) In these Regulations, “the Act” means the Transport Act (Northern Ireland) 1967.
 
-## 2. Fees for road service licences[^key-8e42b2d842e21bad08b6b42cc955b860]
+## 2. Fees for road service licences[^c-8e42b2d842e21bad08b6b42cc955b860]
 
 The fee payable for a road service licence under section 9(1) of the Act shall be calculated in respect of each vehicle authorised to be used under the licence at the rate of £3·25 per month (or part of a month) for each month that the licence is to remain in force.
 
-## 3. Refund of road service licence fees[^key-bc009d8fa6aa900e128d5cc46c780155]
+## 3. Refund of road service licence fees[^c-bc009d8fa6aa900e128d5cc46c780155]
 
 (1) Where a road service licence is surrendered, revoked or suspended the holder shall be entitled under section 9(2) of the Act to be repaid by way of rebate of the fee paid in respect of the grant of the licence—
 
@@ -65,17 +65,17 @@ a sum equal to the monthly multiplicand in respect of each vehicle authorised un
 
 (2) For the purposes of this regulation “the monthly multiplicand” means the rate per month at which the fee paid under regulation 2 by the holder of the licence was calculated.
 
-## 4. Fees for road freight operators' licences[^key-41f20790bc34682a47884f453421211f]
+## 4. Fees for road freight operators' licences[^c-41f20790bc34682a47884f453421211f]
 
 The fee payable for a road freight operator’s licence under section 16(2) of the Act shall be £7·00 for each complete year during which the licence is to remain in force.
 
-## 5. Alteration of road freight vehicle licence fees[^key-c16001fae5e7b57bf948913fc2715677]
+## 5. Alteration of road freight vehicle licence fees[^c-c16001fae5e7b57bf948913fc2715677]
 
 (1) The amount of the fee payable for a road freight vehicle licence under section 23(1) of the Act shall be £4·00, instead of £3·00, for each month or part of a month during the currency of the licence.
 
 (2) The amount of the fee payable for such a licence under section 25(2) or (4) of the Act shall be £2·50.
 
-## 6. Revocation[^key-d8a01c9fa46aab1d1da6de539f683675]
+## 6. Revocation[^c-d8a01c9fa46aab1d1da6de539f683675]
 
 The Regulations set out in the Schedule are hereby revoked.
 
@@ -97,7 +97,7 @@ Assistant Secretary
 
 11th February 1997.
 
-## SCHEDULE — Regulations revoked[^key-2e4cb696aea331da5ac9c12010cb4125]
+## SCHEDULE — Regulations revoked[^c-2e4cb696aea331da5ac9c12010cb4125]
 
 Regulation 6
 
@@ -128,16 +128,16 @@ The Regulations set out in the Schedule are revoked as a consequence of these Re
 
 [^f00003]: Footnote: Formerly the Department of Finance. *See* [S.I. 1982/338 (N.I. 6)](https://www.legislation.gov.uk/nisi/1982/338) Article 3
 
-[^key-caa75d6b331f22e652f70cbeafdceb4c]: Commencement: Reg. 1 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/57/regulation/1/1)
+[^c-caa75d6b331f22e652f70cbeafdceb4c]: Commencement: Reg. 1 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/57/regulation/1/1)
 
-[^key-8e42b2d842e21bad08b6b42cc955b860]: Commencement: Reg. 2 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/57/regulation/1/1)
+[^c-8e42b2d842e21bad08b6b42cc955b860]: Commencement: Reg. 2 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/57/regulation/1/1)
 
-[^key-bc009d8fa6aa900e128d5cc46c780155]: Commencement: Reg. 3 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/57/regulation/1/1)
+[^c-bc009d8fa6aa900e128d5cc46c780155]: Commencement: Reg. 3 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/57/regulation/1/1)
 
-[^key-41f20790bc34682a47884f453421211f]: Commencement: Reg. 4 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/57/regulation/1/1)
+[^c-41f20790bc34682a47884f453421211f]: Commencement: Reg. 4 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/57/regulation/1/1)
 
-[^key-c16001fae5e7b57bf948913fc2715677]: Commencement: Reg. 5 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/57/regulation/1/1)
+[^c-c16001fae5e7b57bf948913fc2715677]: Commencement: Reg. 5 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/57/regulation/1/1)
 
-[^key-d8a01c9fa46aab1d1da6de539f683675]: Commencement: Reg. 6 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/57/regulation/1/1)
+[^c-d8a01c9fa46aab1d1da6de539f683675]: Commencement: Reg. 6 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/57/regulation/1/1)
 
-[^key-2e4cb696aea331da5ac9c12010cb4125]: Commencement: Sch. in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/57/regulation/1/1)
+[^c-2e4cb696aea331da5ac9c12010cb4125]: Commencement: Sch. in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/57/regulation/1/1)

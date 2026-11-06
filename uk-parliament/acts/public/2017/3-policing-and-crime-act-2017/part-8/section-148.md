@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 148. Monetary penalties: bodies corporate and unincorporated associations[^c22719871][^key-a6db3b5e7a2f00662b1b687931e46a88]
+## 148. Monetary penalties: bodies corporate and unincorporated associations[^c22719871][^c-a6db3b5e7a2f00662b1b687931e46a88]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 [^c22719871]: Commencement: [S. 148](https://www.legislation.gov.uk/ukpga/2017/3/section/148) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-a6db3b5e7a2f00662b1b687931e46a88]: Commencement: [S. 148](https://www.legislation.gov.uk/ukpga/2017/3/section/148) in force at 1.4.2017 in so far as not already in force by [S.I. 2017/482](https://www.legislation.gov.uk/uksi/2017/482), [reg. 2](https://www.legislation.gov.uk/uksi/2017/482/regulation/2)
+[^c-a6db3b5e7a2f00662b1b687931e46a88]: Commencement: [S. 148](https://www.legislation.gov.uk/ukpga/2017/3/section/148) in force at 1.4.2017 in so far as not already in force by [S.I. 2017/482](https://www.legislation.gov.uk/uksi/2017/482), [reg. 2](https://www.legislation.gov.uk/uksi/2017/482/regulation/2)

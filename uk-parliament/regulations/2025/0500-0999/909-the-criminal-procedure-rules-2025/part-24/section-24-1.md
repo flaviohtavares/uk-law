@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24.1. When this Part applies[^key-d42fd41df0ac095373d62ac89cba1e0e]
+## 24.1. When this Part applies[^c-d42fd41df0ac095373d62ac89cba1e0e]
 
 *Extent: E+W*
 
@@ -74,7 +74,7 @@ summary: ''
 
 ## Annotations
 
-[^key-d42fd41df0ac095373d62ac89cba1e0e]: Commencement: [Rule 24.1](https://www.legislation.gov.uk/uksi/2025/909/rule/24.1) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-d42fd41df0ac095373d62ac89cba1e0e]: Commencement: [Rule 24.1](https://www.legislation.gov.uk/uksi/2025/909/rule/24.1) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00508]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43); section 2 was substituted by section 44 of the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39) and amended by section 41 of, and paragraph 51 of Schedule 3 to, the Criminal Justice [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44).
 

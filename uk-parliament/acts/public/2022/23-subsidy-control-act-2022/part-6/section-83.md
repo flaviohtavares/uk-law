@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Minor amendment to the Financial Services Act 2021[^key-8c68a4b82c12900ac8c00e14c01a779e][^key-af76988725b101060376f9fab669c34b]
+## 83. Minor amendment to the Financial Services Act 2021[^c-8c68a4b82c12900ac8c00e14c01a779e][^c-af76988725b101060376f9fab669c34b]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ In the Financial Services Act 2021, in Schedule 8 (Gibraltar: minor and conseque
 
 ## Annotations
 
-[^key-8c68a4b82c12900ac8c00e14c01a779e]: Commencement: S. 83 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
+[^c-8c68a4b82c12900ac8c00e14c01a779e]: Commencement: S. 83 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
 
-[^key-af76988725b101060376f9fab669c34b]: Commencement: [S. 83](https://www.legislation.gov.uk/ukpga/2022/23/section/83) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-af76988725b101060376f9fab669c34b]: Commencement: [S. 83](https://www.legislation.gov.uk/ukpga/2022/23/section/83) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)

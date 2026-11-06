@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23A. Sections 17, 22 and 26A: consideration of wellbeing[^key-83592d7802e0fb076df4f20f867d4fd6]
+## 23A. Sections 17, 22 and 26A: consideration of wellbeing[^c-83592d7802e0fb076df4f20f867d4fd6]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-83592d7802e0fb076df4f20f867d4fd6]: Textual amendment: S. 23A inserted (S.) (31.8.2016) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 95](https://www.legislation.gov.uk/asp/2014/8/section/95), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2016/60](https://www.legislation.gov.uk/ssi/2016/60), [art. 2(b)](https://www.legislation.gov.uk/ssi/2016/60/article/2/b)
+[^c-83592d7802e0fb076df4f20f867d4fd6]: Textual amendment: S. 23A inserted (S.) (31.8.2016) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 95](https://www.legislation.gov.uk/asp/2014/8/section/95), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2016/60](https://www.legislation.gov.uk/ssi/2016/60), [art. 2(b)](https://www.legislation.gov.uk/ssi/2016/60/article/2/b)

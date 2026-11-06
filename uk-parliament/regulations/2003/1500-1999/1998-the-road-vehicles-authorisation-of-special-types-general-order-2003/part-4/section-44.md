@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 44. Track-laying vehicles: consent of road authorities[^key-1403e37dcb648ef881c72ffebeff4d65]
+## 44. Track-laying vehicles: consent of road authorities[^c-1403e37dcb648ef881c72ffebeff4d65]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1403e37dcb648ef881c72ffebeff4d65]: Commencement: Art. 44 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-1403e37dcb648ef881c72ffebeff4d65]: Commencement: Art. 44 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 7A[^key-29e8ef3a5d57f823261f46df805d0311]
+## SCHEDULE 7A[^c-29e8ef3a5d57f823261f46df805d0311]
 
 *Extent: E*
 
@@ -56,4 +56,4 @@ Regulation 15(2)
 
 ## Annotations
 
-[^key-29e8ef3a5d57f823261f46df805d0311]: Textual amendment: Regulations revoked (W.) (20.5.2014) by [The Welfare of Animals at the Time of Killing (Wales) Regulations 2014 (S.I. 2014/951)](https://www.legislation.gov.uk/uksi/2014/951), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2014/951/regulation/1/c), [46(a)](https://www.legislation.gov.uk/uksi/2014/951/regulation/46/a); and revoked (E.) (5.11.2015) by [The Welfare of Animals at the Time of Killing (England) Regulations 2015 (S.I. 2015/1782)](https://www.legislation.gov.uk/uksi/2015/1782), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2015/1782/regulation/1/4), [47(a)](https://www.legislation.gov.uk/uksi/2015/1782/regulation/47/a)
+[^c-29e8ef3a5d57f823261f46df805d0311]: Textual amendment: Regulations revoked (W.) (20.5.2014) by [The Welfare of Animals at the Time of Killing (Wales) Regulations 2014 (S.I. 2014/951)](https://www.legislation.gov.uk/uksi/2014/951), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2014/951/regulation/1/c), [46(a)](https://www.legislation.gov.uk/uksi/2014/951/regulation/46/a); and revoked (E.) (5.11.2015) by [The Welfare of Animals at the Time of Killing (England) Regulations 2015 (S.I. 2015/1782)](https://www.legislation.gov.uk/uksi/2015/1782), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2015/1782/regulation/1/4), [47(a)](https://www.legislation.gov.uk/uksi/2015/1782/regulation/47/a)

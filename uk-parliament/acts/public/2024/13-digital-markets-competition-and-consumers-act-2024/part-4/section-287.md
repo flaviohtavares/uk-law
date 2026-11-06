@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 287. Trust arrangements[^key-ada19692e994d030f5c01172e6b41224][^key-ea2dd09f58a1ed5fdc6946e703257267]
+## 287. Trust arrangements[^c-ada19692e994d030f5c01172e6b41224][^c-ea2dd09f58a1ed5fdc6946e703257267]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ada19692e994d030f5c01172e6b41224]: Commencement: S. 287 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-ada19692e994d030f5c01172e6b41224]: Commencement: S. 287 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-ea2dd09f58a1ed5fdc6946e703257267]: Commencement: [S. 287](https://www.legislation.gov.uk/ukpga/2024/13/section/287) in force at 1.1.2026 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 3](https://www.legislation.gov.uk/uksi/2025/272/regulation/3)
+[^c-ea2dd09f58a1ed5fdc6946e703257267]: Commencement: [S. 287](https://www.legislation.gov.uk/ukpga/2024/13/section/287) in force at 1.1.2026 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 3](https://www.legislation.gov.uk/uksi/2025/272/regulation/3)

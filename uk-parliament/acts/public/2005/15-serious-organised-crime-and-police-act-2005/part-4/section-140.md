@@ -16,17 +16,17 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 140. Variation and discharge of anti-social behaviour orders made on conviction[^key-10617d87cf1d3e560745ac8cb2e93583]
+## 140. Variation and discharge of anti-social behaviour orders made on conviction[^c-10617d87cf1d3e560745ac8cb2e93583]
 
 *Extent: E+W*
 
-(1)[^key-f403cbafff1535908a6b502840703867] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-f403cbafff1535908a6b502840703867] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-f403cbafff1535908a6b502840703867] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-f403cbafff1535908a6b502840703867] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-f403cbafff1535908a6b502840703867] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-f403cbafff1535908a6b502840703867] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-f403cbafff1535908a6b502840703867] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-f403cbafff1535908a6b502840703867] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In section 3 of the Prosecution of Offences Act 1985 (c. 23) (functions of the Director of Public Prosecutions), in subsection (2), after paragraph (fa) insert—
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-10617d87cf1d3e560745ac8cb2e93583]: Commencement: S. 140 in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(s)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/s)
+[^c-10617d87cf1d3e560745ac8cb2e93583]: Commencement: S. 140 in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(s)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/s)
 
-[^key-f403cbafff1535908a6b502840703867]: Textual amendment: [S. 140(1)-(4)](https://www.legislation.gov.uk/ukpga/2005/15/section/140/1) repealed (23.3.2015) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 11 para. 50](https://www.legislation.gov.uk/ukpga/2014/12/schedule/11/paragraph/50) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(f)(xii)](https://www.legislation.gov.uk/uksi/2015/373/article/4/f/xii)
+[^c-f403cbafff1535908a6b502840703867]: Textual amendment: [S. 140(1)-(4)](https://www.legislation.gov.uk/ukpga/2005/15/section/140/1) repealed (23.3.2015) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 11 para. 50](https://www.legislation.gov.uk/ukpga/2014/12/schedule/11/paragraph/50) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(f)(xii)](https://www.legislation.gov.uk/uksi/2015/373/article/4/f/xii)

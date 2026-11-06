@@ -32,7 +32,7 @@ summary: ''
 
 Food
 
-The Extraction Solvents in Food (Amendment) Regulations (Northern Ireland) 2011 (revoked)[^key-58bbd7d56b67145b863f65fc5ef6c809]
+The Extraction Solvents in Food (Amendment) Regulations (Northern Ireland) 2011 (revoked)[^c-58bbd7d56b67145b863f65fc5ef6c809]
 
 Made
 
@@ -42,22 +42,22 @@ Coming into operation
 
 15th September 2011
 
-[^key-58bbd7d56b67145b863f65fc5ef6c809]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-58bbd7d56b67145b863f65fc5ef6c809]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-58bbd7d56b67145b863f65fc5ef6c809]
+## 1. Citation and commencement[^c-58bbd7d56b67145b863f65fc5ef6c809]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Extraction Solvents in Food Regulations (Northern Ireland) 1993[^key-58bbd7d56b67145b863f65fc5ef6c809]
+## 2. Amendment of the Extraction Solvents in Food Regulations (Northern Ireland) 1993[^c-58bbd7d56b67145b863f65fc5ef6c809]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-58bbd7d56b67145b863f65fc5ef6c809]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-58bbd7d56b67145b863f65fc5ef6c809]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-58bbd7d56b67145b863f65fc5ef6c809]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-58bbd7d56b67145b863f65fc5ef6c809]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-58bbd7d56b67145b863f65fc5ef6c809]: Textual amendment: [Regulation](https://www.legislation.gov.uk/nisr/2011/284) revoked (31.10.2013) by [The Food Additives, Flavourings, Enzymes and Extraction Solvents Regulations (Northern Ireland) 2013 (S.R. 2013/220)](https://www.legislation.gov.uk/nisr/2013/220), [regs. 1](https://www.legislation.gov.uk/nisr/2013/220/regulation/1), [21](https://www.legislation.gov.uk/nisr/2013/220/regulation/21), [Sch. 6](https://www.legislation.gov.uk/nisr/2013/220/schedule/6)
+[^c-58bbd7d56b67145b863f65fc5ef6c809]: Textual amendment: [Regulation](https://www.legislation.gov.uk/nisr/2011/284) revoked (31.10.2013) by [The Food Additives, Flavourings, Enzymes and Extraction Solvents Regulations (Northern Ireland) 2013 (S.R. 2013/220)](https://www.legislation.gov.uk/nisr/2013/220), [regs. 1](https://www.legislation.gov.uk/nisr/2013/220/regulation/1), [21](https://www.legislation.gov.uk/nisr/2013/220/regulation/21), [Sch. 6](https://www.legislation.gov.uk/nisr/2013/220/schedule/6)

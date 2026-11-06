@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 30. Defence[^key-10c0057291bcb070eefa69f935a07e4b]
+## 30. Defence[^c-10c0057291bcb070eefa69f935a07e4b]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-10c0057291bcb070eefa69f935a07e4b]: Commencement: [Reg. 30](https://www.legislation.gov.uk/nisr/1997/474/regulation/30) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
+[^c-10c0057291bcb070eefa69f935a07e4b]: Commencement: [Reg. 30](https://www.legislation.gov.uk/nisr/1997/474/regulation/30) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)

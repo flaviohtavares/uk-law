@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 64. Requirement to respond to consultation[^key-aef54bf4c5e331f5f0005a649a73cae0]
+## 64. Requirement to respond to consultation[^c-aef54bf4c5e331f5f0005a649a73cae0]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aef54bf4c5e331f5f0005a649a73cae0]: Commencement: S. 64 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-aef54bf4c5e331f5f0005a649a73cae0]: Commencement: S. 64 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

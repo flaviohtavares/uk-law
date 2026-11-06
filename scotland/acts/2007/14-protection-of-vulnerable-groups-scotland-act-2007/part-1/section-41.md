@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 41. Protection from actions for damages[^key-290dc300f082f6d49fb6b9d5096990f2]
+## 41. Protection from actions for damages[^c-290dc300f082f6d49fb6b9d5096990f2]
 
 *Extent: S*
 
@@ -35,7 +35,7 @@ summary: ''
 
 ## Annotations
 
-[^key-290dc300f082f6d49fb6b9d5096990f2]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2007/14/section/41) in force at 28.2.2011 by [S.S.I. 2011/157](https://www.legislation.gov.uk/ssi/2011/157), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/157/article/2/a)
+[^c-290dc300f082f6d49fb6b9d5096990f2]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2007/14/section/41) in force at 28.2.2011 by [S.S.I. 2011/157](https://www.legislation.gov.uk/ssi/2011/157), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/157/article/2/a)
 
 [^M_F_4ac19e35-7cfa-48d8-b11e-65e7e6636581]: Textual amendment: Words in s. 41(1)(c) inserted (18.4.2010 coming into force in accordance with art. 1(2)) by [The Protection of Vulnerable Groups (Scotland) Act 2007 (Miscellaneous Provisions) Order 2010 (S.S.I. 2010/446)](https://www.legislation.gov.uk/ssi/2010/446), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2010/446/article/1/2), [9](https://www.legislation.gov.uk/ssi/2010/446/article/9)
 

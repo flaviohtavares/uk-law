@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 15. Public participation procedures[^key-b66daa068fd68ac8ce18283d44e96de2]
+## 15. Public participation procedures[^c-b66daa068fd68ac8ce18283d44e96de2]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b66daa068fd68ac8ce18283d44e96de2]: Commencement: Reg. 15 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
+[^c-b66daa068fd68ac8ce18283d44e96de2]: Commencement: Reg. 15 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)

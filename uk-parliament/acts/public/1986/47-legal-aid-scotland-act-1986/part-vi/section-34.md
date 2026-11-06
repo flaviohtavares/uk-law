@@ -31,7 +31,7 @@ and any person who, in contravention of this subsection, discloses any informati
 
 - (a) for the purpose of the proper performance or facilitating the proper performance by the Secretary of State, the Board, any court or tribunal or by any other person or body of duties or functions under this Act;
 - (aa)[^c20857481] for the purpose of any determination or investigation by the Scottish Legal Complaints Commission under the Legal Profession and Legal Aid (Scotland) Act 2007 (asp 5) (“**the 2007 Act**”);
-- (b)[^c20858471] for the purpose of investigating, prosecuting or determining any conduct complaint, remitted by the Scottish Legal Complaints Commission under section[^c20857521] 6(2)(a)[^key-9538e3508bfbe8dfecbcb28e5bbfac98] or 15(5)(a) of the 2007 Act—
+- (b)[^c20858471] for the purpose of investigating, prosecuting or determining any conduct complaint, remitted by the Scottish Legal Complaints Commission under section[^c20857521] 6(2)(a)[^c-9538e3508bfbe8dfecbcb28e5bbfac98] or 15(5)(a) of the 2007 Act—
   - (i) against a solicitor, by the Law Society or the Scottish Solicitors’ Discipline Tribunal;
   - (ii) against an advocate, by the Faculty of Advocates;
 - (c) for the purpose of investigating or prosecuting any offence or for the report of any proceedings in relation to such an offence;
@@ -52,7 +52,7 @@ and any person who, in contravention of this subsection, discloses any informati
 
 [^c20857521]: Textual amendment: Words in s. 34(2)(b) substituted (1.10.2008) by [Legal Profession and Legal Aid (Scotland) Act 2007 (asp 5)](https://www.legislation.gov.uk/asp/2007/5), [ss. 81](https://www.legislation.gov.uk/asp/2007/5/section/81), [82(2)](https://www.legislation.gov.uk/asp/2007/5/section/82/2), [Sch. 5 para. 2(5)(b)](https://www.legislation.gov.uk/asp/2007/5/schedule/5/paragraph/2/5/b) (with [s. 77](https://www.legislation.gov.uk/asp/2007/5/section/77)); [S.S.I. 2008/311](https://www.legislation.gov.uk/ssi/2008/311), [art. 2(i)](https://www.legislation.gov.uk/ssi/2008/311/article/2/i)
 
-[^key-9538e3508bfbe8dfecbcb28e5bbfac98]: Textual amendment: Word in [s. 34(2)(b)](https://www.legislation.gov.uk/ukpga/1986/47/section/34/2/b) substituted (1.1.2015) by [The Scottish Legal Complaints Commission (Modification of Duties and Powers) Regulations 2014 (S.S.I. 2014/232)](https://www.legislation.gov.uk/ssi/2014/232), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/232/regulation/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2014/232/regulation/3/2) (with [reg. 4](https://www.legislation.gov.uk/ssi/2014/232/regulation/4))
+[^c-9538e3508bfbe8dfecbcb28e5bbfac98]: Textual amendment: Word in [s. 34(2)(b)](https://www.legislation.gov.uk/ukpga/1986/47/section/34/2/b) substituted (1.1.2015) by [The Scottish Legal Complaints Commission (Modification of Duties and Powers) Regulations 2014 (S.S.I. 2014/232)](https://www.legislation.gov.uk/ssi/2014/232), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/232/regulation/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2014/232/regulation/3/2) (with [reg. 4](https://www.legislation.gov.uk/ssi/2014/232/regulation/4))
 
 [^c16834921]: Textual amendment: S. 34(2)(d) inserted (23.10.2002) by [Scottish Public Services Ombudsman Act 2002 (asp 11)](https://www.legislation.gov.uk/asp/2002/11), [s. 25(1)](https://www.legislation.gov.uk/asp/2002/11/section/25/1), [Sch. 6 para. 9](https://www.legislation.gov.uk/asp/2002/11/schedule/6/paragraph/9); [S.S.I. 2002/467](https://www.legislation.gov.uk/ssi/2002/467), [art. 2](https://www.legislation.gov.uk/ssi/2002/467/article/2)
 

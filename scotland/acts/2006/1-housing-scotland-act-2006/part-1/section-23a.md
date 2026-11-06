@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23A. Delegation of Chamber President’s functions[^key-4c3da0279b162cd8872f85aa778060fb]
+## 23A. Delegation of Chamber President’s functions[^c-4c3da0279b162cd8872f85aa778060fb]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4c3da0279b162cd8872f85aa778060fb]: Textual amendment: S. 23A inserted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Panel) Regulations 2016 (S.S.I. 2016/338)](https://www.legislation.gov.uk/ssi/2016/338), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/338/regulation/1/2), [sch. 2 para. 2(6)](https://www.legislation.gov.uk/ssi/2016/338/schedule/2/paragraph/2/6) (with [sch. 1 para. 5](https://www.legislation.gov.uk/ssi/2016/338/schedule/1/paragraph/5))
+[^c-4c3da0279b162cd8872f85aa778060fb]: Textual amendment: S. 23A inserted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Panel) Regulations 2016 (S.S.I. 2016/338)](https://www.legislation.gov.uk/ssi/2016/338), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/338/regulation/1/2), [sch. 2 para. 2(6)](https://www.legislation.gov.uk/ssi/2016/338/schedule/2/paragraph/2/6) (with [sch. 1 para. 5](https://www.legislation.gov.uk/ssi/2016/338/schedule/1/paragraph/5))

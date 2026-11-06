@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 8 — ENACTMENTS WHERE A DEFINITION OF PRIMARY CARE TRUST IS INSERTED[^key-688a93595eb22dd48b20dabb5d542331]
+## SCHEDULE 8 — ENACTMENTS WHERE A DEFINITION OF PRIMARY CARE TRUST IS INSERTED[^c-688a93595eb22dd48b20dabb5d542331]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,7 +46,7 @@ Regulation 11
 
 ## Annotations
 
-[^key-688a93595eb22dd48b20dabb5d542331]: Commencement: Sch. 8 in force at 1.10.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2469/regulation/1)
+[^c-688a93595eb22dd48b20dabb5d542331]: Commencement: Sch. 8 in force at 1.10.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2469/regulation/1)
 
 [^f00238]: Footnote: [S.I. 1976/246](https://www.legislation.gov.uk/uksi/1976/246), amended by [S.I. 1978/247](https://www.legislation.gov.uk/uksi/1978/247). References to Primary Care Trusts are inserted by paragraph 35 of Schedule 1.
 

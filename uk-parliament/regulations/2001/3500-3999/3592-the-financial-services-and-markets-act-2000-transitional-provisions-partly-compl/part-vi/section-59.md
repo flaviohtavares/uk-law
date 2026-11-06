@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Test to be applied by interim tribunal[^key-d82025755177a6bdb8b17870f3dab6f6]
+## 59. Test to be applied by interim tribunal[^c-d82025755177a6bdb8b17870f3dab6f6]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d82025755177a6bdb8b17870f3dab6f6]: Commencement: Art. 59 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-d82025755177a6bdb8b17870f3dab6f6]: Commencement: Art. 59 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

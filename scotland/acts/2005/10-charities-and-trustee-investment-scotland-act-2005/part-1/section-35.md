@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 35. Transfer schemes[^key-567f736d34ee4996ee80b195c5643e10][^key-96a68e4bc4f3f3bf23701687743872f6]
+## 35. Transfer schemes[^c-567f736d34ee4996ee80b195c5643e10][^c-96a68e4bc4f3f3bf23701687743872f6]
 
 *Extent: S*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-567f736d34ee4996ee80b195c5643e10]: Commencement: S. 35 in force at 1.1.2006 for specified purposes by [S.S.I. 2005/644](https://www.legislation.gov.uk/ssi/2005/644), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/644/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/644/schedule/1)
+[^c-567f736d34ee4996ee80b195c5643e10]: Commencement: S. 35 in force at 1.1.2006 for specified purposes by [S.S.I. 2005/644](https://www.legislation.gov.uk/ssi/2005/644), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/644/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/644/schedule/1)
 
-[^key-96a68e4bc4f3f3bf23701687743872f6]: Commencement: S. 35 in force at 1.4.2006 in so far as not already in force by [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(1)](https://www.legislation.gov.uk/ssi/2006/189/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/1)
+[^c-96a68e4bc4f3f3bf23701687743872f6]: Commencement: S. 35 in force at 1.4.2006 in so far as not already in force by [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(1)](https://www.legislation.gov.uk/ssi/2006/189/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/1)

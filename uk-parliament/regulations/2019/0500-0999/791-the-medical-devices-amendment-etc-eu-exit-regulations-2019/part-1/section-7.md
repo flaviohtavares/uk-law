@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Amendment of Part V of the 2002 Regulations[^key-e8fa33668d8e25d7648e75093aaf92f3][^key-a56fa708ee6a2dbbc1c799e9ef81867b]
+## 7. Amendment of Part V of the 2002 Regulations[^c-e8fa33668d8e25d7648e75093aaf92f3][^c-a56fa708ee6a2dbbc1c799e9ef81867b]
 
 *Extent: E+W+S+N.I.*
 
@@ -177,6 +177,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e8fa33668d8e25d7648e75093aaf92f3]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-e8fa33668d8e25d7648e75093aaf92f3]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-a56fa708ee6a2dbbc1c799e9ef81867b]: Textual amendment: Reg. 7 substituted (31.12.2020 immediately before IP completion day) by [The Medical Devices (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1478)](https://www.legislation.gov.uk/uksi/2020/1478), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 2 para. 47](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/47)
+[^c-a56fa708ee6a2dbbc1c799e9ef81867b]: Textual amendment: Reg. 7 substituted (31.12.2020 immediately before IP completion day) by [The Medical Devices (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1478)](https://www.legislation.gov.uk/uksi/2020/1478), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 2 para. 47](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/47)

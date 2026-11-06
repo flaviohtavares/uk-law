@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67A. Use of oxygen[^key-c501bf0145de6abd19977189d134adcf]
+## 67A. Use of oxygen[^c-c501bf0145de6abd19977189d134adcf]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c501bf0145de6abd19977189d134adcf]: Textual amendment: [Arts. 67A](https://www.legislation.gov.uk/uksi/2015/870/article/67A), [67B](https://www.legislation.gov.uk/uksi/2015/870/article/67B) inserted (1.5.2016) by [The Air Navigation (Isle of Man) (Amendment) Order 2016 (S.I. 2016/155)](https://www.legislation.gov.uk/uksi/2016/155), [arts. 1](https://www.legislation.gov.uk/uksi/2016/155/article/1), [10](https://www.legislation.gov.uk/uksi/2016/155/article/10)
+[^c-c501bf0145de6abd19977189d134adcf]: Textual amendment: [Arts. 67A](https://www.legislation.gov.uk/uksi/2015/870/article/67A), [67B](https://www.legislation.gov.uk/uksi/2015/870/article/67B) inserted (1.5.2016) by [The Air Navigation (Isle of Man) (Amendment) Order 2016 (S.I. 2016/155)](https://www.legislation.gov.uk/uksi/2016/155), [arts. 1](https://www.legislation.gov.uk/uksi/2016/155/article/1), [10](https://www.legislation.gov.uk/uksi/2016/155/article/10)

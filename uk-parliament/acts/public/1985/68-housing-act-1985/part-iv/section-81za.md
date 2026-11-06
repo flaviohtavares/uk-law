@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 81ZA. Grant of secure tenancies in cases of domestic abuse[^key-3bf3ce1ef1b6d1f1040d5a38b68d5918]
+## 81ZA. Grant of secure tenancies in cases of domestic abuse[^c-3bf3ce1ef1b6d1f1040d5a38b68d5918]
 
 *Extent: E+W*
 
@@ -48,13 +48,13 @@ summary: ''
 - “**qualifying tenancy**” means a tenancy of a dwelling-house in England which is—
   - (a) a secure tenancy other than a flexible tenancy, or
   - (b) an assured tenancy—
-    - (i) which is not an assured shorthold tenancy, and *(affected by repeal, see note)*[^key-c7fd4ea335232e45a0249035e44c4b08]
+    - (i) which is not an assured shorthold tenancy, and *(affected by repeal, see note)*[^c-c7fd4ea335232e45a0249035e44c4b08]
     - (ii) which is granted by a private registered provider of social housing, by the Regulator of Social Housing or by a housing trust which is a charity.
 
 (5) For the purposes of this section, a person may be a victim of domestic abuse despite the fact that the abuse is directed at another person (for example, the person's child).
 
 ## Annotations
 
-[^key-3bf3ce1ef1b6d1f1040d5a38b68d5918]: Textual amendment: S. 81ZA inserted (1.11.2021) by [Domestic Abuse Act 2021 (c. 17)](https://www.legislation.gov.uk/ukpga/2021/17), [ss. 79(2)](https://www.legislation.gov.uk/ukpga/2021/17/section/79/2), [90(6)](https://www.legislation.gov.uk/ukpga/2021/17/section/90/6); [S.I. 2021/1038](https://www.legislation.gov.uk/uksi/2021/1038), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/1038/regulation/3/c)
+[^c-3bf3ce1ef1b6d1f1040d5a38b68d5918]: Textual amendment: S. 81ZA inserted (1.11.2021) by [Domestic Abuse Act 2021 (c. 17)](https://www.legislation.gov.uk/ukpga/2021/17), [ss. 79(2)](https://www.legislation.gov.uk/ukpga/2021/17/section/79/2), [90(6)](https://www.legislation.gov.uk/ukpga/2021/17/section/90/6); [S.I. 2021/1038](https://www.legislation.gov.uk/uksi/2021/1038), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/1038/regulation/3/c)
 
-[^key-c7fd4ea335232e45a0249035e44c4b08]: Textual amendment: Words in s. 81ZA(4) omitted (1.5.2026 for specified purposes) by virtue of [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [s. 145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/8), [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2025/26/schedule/2/paragraph/10) (with [ss. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138), [146(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/146/1), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/4), [16](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/16), [17](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/17)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/c)
+[^c-c7fd4ea335232e45a0249035e44c4b08]: Textual amendment: Words in s. 81ZA(4) omitted (1.5.2026 for specified purposes) by virtue of [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [s. 145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/8), [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2025/26/schedule/2/paragraph/10) (with [ss. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138), [146(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/146/1), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/4), [16](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/16), [17](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/17)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/c)

@@ -147,7 +147,7 @@ summary: ''
 
 (37) Section 115 (penalty for failure to supply copies of pledge agreement, etc.) is omitted.
 
-(38)[^key-ece84c608f8866ba538e1cba3b66d68d] For section 126 (enforcement of land mortgages) substitute—
+(38)[^c-ece84c608f8866ba538e1cba3b66d68d] For section 126 (enforcement of land mortgages) substitute—
 
 > (1) A land mortgage securing an agreement of one the following types is enforceable (so far as is provided in relation to the agreement) on an order of the court only—
 >
@@ -364,7 +364,7 @@ summary: ''
 
 [^c23373241]: Marginal citation: Amended by the [Banking Act 1979 (c.37)](https://www.legislation.gov.uk/ukpga/1979/37), [section 38](https://www.legislation.gov.uk/ukpga/1979/37/section/38).
 
-[^key-ece84c608f8866ba538e1cba3b66d68d]: Textual amendment: [Art. 20(38)](https://www.legislation.gov.uk/uksi/2013/1881/article/20/38) substituted (30.3.2014) by [The Financial Services and Markets Act 2000 (Consumer Credit) (Miscellaneous Provisions) (No. 2) Order 2014 (S.I. 2014/506)](https://www.legislation.gov.uk/uksi/2014/506), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/506/article/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2014/506/article/5/4)
+[^c-ece84c608f8866ba538e1cba3b66d68d]: Textual amendment: [Art. 20(38)](https://www.legislation.gov.uk/uksi/2013/1881/article/20/38) substituted (30.3.2014) by [The Financial Services and Markets Act 2000 (Consumer Credit) (Miscellaneous Provisions) (No. 2) Order 2014 (S.I. 2014/506)](https://www.legislation.gov.uk/uksi/2014/506), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/506/article/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2014/506/article/5/4)
 
 [^c23373251]: Marginal citation: Inserted by section 19 of the Consumer Credit Act 2006.
 

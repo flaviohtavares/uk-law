@@ -33,15 +33,15 @@ An Act to amend the Charities Act 1960 and make other provision with respect to 
 
 \[16th March 1992\]
 
-[^c10231381]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-73047d9c947e24d780ce7c7ebd4e62b4][^key-60067b8340570a13a86a9e0277a9c88f][^key-9ced280bb8baa926aeb0a94b5d5ea951]
+[^c10231381]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-73047d9c947e24d780ce7c7ebd4e62b4][^c-60067b8340570a13a86a9e0277a9c88f][^c-9ced280bb8baa926aeb0a94b5d5ea951]
 
 ## Contents
 
-### Part I[^key-68d0b2d8dc2e8aed043db1d3ee2b8464]
+### Part I[^c-68d0b2d8dc2e8aed043db1d3ee2b8464]
 
 *Extent: E+W+S+N.I.*
 
-#### Preliminary[^key-68d0b2d8dc2e8aed043db1d3ee2b8464]
+#### Preliminary[^c-68d0b2d8dc2e8aed043db1d3ee2b8464]
 
 *Extent: E+W*
 
@@ -49,7 +49,7 @@ An Act to amend the Charities Act 1960 and make other provision with respect to 
 
 - [Section 1 — Interpretation of Part I, etc.](part-i/section-1.md)
 
-#### Registration of charities[^key-68d0b2d8dc2e8aed043db1d3ee2b8464]
+#### Registration of charities[^c-68d0b2d8dc2e8aed043db1d3ee2b8464]
 
 *Extent: E+W*
 
@@ -58,7 +58,7 @@ An Act to amend the Charities Act 1960 and make other provision with respect to 
 - [Section 2 — The register of charities.](part-i/section-2.md)
 - [Section 3 — Status of registered charity (other than small charity) to appear on official publications etc.](part-i/section-3.md)
 
-#### Charity names[^key-68d0b2d8dc2e8aed043db1d3ee2b8464]
+#### Charity names[^c-68d0b2d8dc2e8aed043db1d3ee2b8464]
 
 *Extent: E+W*
 
@@ -67,7 +67,7 @@ An Act to amend the Charities Act 1960 and make other provision with respect to 
 - [Section 4 — Power of Commissioners to require charity’s name to be changed.](part-i/section-4.md)
 - [Section 5 — Effect of direction under s. 4 where charity is a company.](part-i/section-5.md)
 
-#### Supervision and control by Commissioners[^key-68d0b2d8dc2e8aed043db1d3ee2b8464]
+#### Supervision and control by Commissioners[^c-68d0b2d8dc2e8aed043db1d3ee2b8464]
 
 *Extent: E+W*
 
@@ -81,7 +81,7 @@ An Act to amend the Charities Act 1960 and make other provision with respect to 
 - [Section 11 — Report of inquiry held by Commissioners to be evidence in certain proceedings.](part-i/section-11.md)
 - [Section 12 — Supervision by Commissioners of certain Scottish charities.](part-i/section-12.md)
 
-#### Powers with respect to administration of charities[^key-68d0b2d8dc2e8aed043db1d3ee2b8464]
+#### Powers with respect to administration of charities[^c-68d0b2d8dc2e8aed043db1d3ee2b8464]
 
 *Extent: E+W*
 
@@ -94,7 +94,7 @@ An Act to amend the Charities Act 1960 and make other provision with respect to 
 - [Section 17 — Power of Commissioners to authorise certain ex gratia payments etc. by charities.](part-i/section-17.md)
 - [Section 18 — Dormant bank accounts of charities.](part-i/section-18.md)
 
-#### Charity accounts[^key-68d0b2d8dc2e8aed043db1d3ee2b8464]
+#### Charity accounts[^c-68d0b2d8dc2e8aed043db1d3ee2b8464]
 
 *Extent: E+W*
 
@@ -110,7 +110,7 @@ An Act to amend the Charities Act 1960 and make other provision with respect to 
 - [Section 26 — Annual returns by registered charities.](part-i/section-26.md)
 - [Section 27 — Offences.](part-i/section-27.md)
 
-#### Charity proceedings[^key-68d0b2d8dc2e8aed043db1d3ee2b8464]
+#### Charity proceedings[^c-68d0b2d8dc2e8aed043db1d3ee2b8464]
 
 *Extent: E+W*
 
@@ -118,7 +118,7 @@ An Act to amend the Charities Act 1960 and make other provision with respect to 
 
 - [Section 28 — Power of Commissioners to bring proceedings with respect to charities.](part-i/section-28.md)
 
-#### Charity property[^key-68d0b2d8dc2e8aed043db1d3ee2b8464]
+#### Charity property[^c-68d0b2d8dc2e8aed043db1d3ee2b8464]
 
 *Extent: E+W*
 
@@ -134,7 +134,7 @@ An Act to amend the Charities Act 1960 and make other provision with respect to 
 - [Section 36 — Removal of requirements under statutory provisions for consent to dealings with charity land.](part-i/section-36.md)
 - [Section 37 — Release of charity rentcharges.](part-i/section-37.md)
 
-#### Powers of investment[^key-68d0b2d8dc2e8aed043db1d3ee2b8464]
+#### Powers of investment[^c-68d0b2d8dc2e8aed043db1d3ee2b8464]
 
 *Extent: E+W+S*
 
@@ -143,7 +143,7 @@ An Act to amend the Charities Act 1960 and make other provision with respect to 
 - [Section 38 — Relaxation of restrictions on wider-range investments.](part-i/section-38.md)
 - [Section 39 — Extension of powers of investment.](part-i/section-39.md)
 
-#### Charitable companies[^key-68d0b2d8dc2e8aed043db1d3ee2b8464]
+#### Charitable companies[^c-68d0b2d8dc2e8aed043db1d3ee2b8464]
 
 *Extent: E+W*
 
@@ -153,7 +153,7 @@ An Act to amend the Charities Act 1960 and make other provision with respect to 
 - [Section 41 — Charitable companies: requirement of consent of Commissioners to certain acts.](part-i/section-41.md)
 - [Section 42 — Charitable companies: name to appear on correspondence etc.](part-i/section-42.md)
 
-#### Small charities[^key-68d0b2d8dc2e8aed043db1d3ee2b8464]
+#### Small charities[^c-68d0b2d8dc2e8aed043db1d3ee2b8464]
 
 *Extent: E+W*
 
@@ -162,7 +162,7 @@ An Act to amend the Charities Act 1960 and make other provision with respect to 
 - [Section 43 — Small charities: power to transfer all property, modify objects etc.](part-i/section-43.md)
 - [Section 44 — Small charities: power to spend capital.](part-i/section-44.md)
 
-#### Disqualification for acting as charity trustee[^key-68d0b2d8dc2e8aed043db1d3ee2b8464]
+#### Disqualification for acting as charity trustee[^c-68d0b2d8dc2e8aed043db1d3ee2b8464]
 
 *Extent: E+W*
 
@@ -171,7 +171,7 @@ An Act to amend the Charities Act 1960 and make other provision with respect to 
 - [Section 45 — Persons disqualified for being trustees of a charity.](part-i/section-45.md)
 - [Section 46 — Person acting as charity trustee while disqualified.](part-i/section-46.md)
 
-#### Miscellaneous and supplementary[^key-68d0b2d8dc2e8aed043db1d3ee2b8464]
+#### Miscellaneous and supplementary[^c-68d0b2d8dc2e8aed043db1d3ee2b8464]
 
 *Extent: E+W+S+N.I.*
 
@@ -218,23 +218,23 @@ An Act to amend the Charities Act 1960 and make other provision with respect to 
 - [Section 64B — Reserve power in relation to fund-raising regulators](part-ii/section-64b.md)
 - [Section 64C — Reserve power to confer additional powers on Charity Commission](part-ii/section-64c.md)
 
-### Part III — PUBLIC CHARITABLE COLLECTIONS[^key-f2fa8b6dd2649d6aaee917f0eee5adfa]
+### Part III — PUBLIC CHARITABLE COLLECTIONS[^c-f2fa8b6dd2649d6aaee917f0eee5adfa]
 
 *Extent: E+W*
 
-#### Preliminary[^key-f2fa8b6dd2649d6aaee917f0eee5adfa]
+#### Preliminary[^c-f2fa8b6dd2649d6aaee917f0eee5adfa]
 
 **Not yet in force.**
 
 - [Section 65 — Interpretation of Part III.](part-iii/section-65.md)
 
-#### Prohibition on conducting unauthorised collections[^key-f2fa8b6dd2649d6aaee917f0eee5adfa]
+#### Prohibition on conducting unauthorised collections[^c-f2fa8b6dd2649d6aaee917f0eee5adfa]
 
 **Not yet in force.**
 
 - [Section 66 — Prohibition on conducting public charitable collections without authorisation.](part-iii/section-66.md)
 
-#### Permits[^key-f2fa8b6dd2649d6aaee917f0eee5adfa]
+#### Permits[^c-f2fa8b6dd2649d6aaee917f0eee5adfa]
 
 **Not yet in force.**
 
@@ -244,11 +244,11 @@ An Act to amend the Charities Act 1960 and make other provision with respect to 
 - [Section 70 — Withdrawal etc. of permits.](part-iii/section-70.md)
 - [Section 71 — Appeals.](part-iii/section-71.md)
 
-#### Orders made by Charity Commissioners[^key-f2fa8b6dd2649d6aaee917f0eee5adfa]
+#### Orders made by Charity Commissioners[^c-f2fa8b6dd2649d6aaee917f0eee5adfa]
 
 - [Section 72 — Orders made by Charity Commissioners.](part-iii/section-72.md)
 
-#### Supplementary[^key-f2fa8b6dd2649d6aaee917f0eee5adfa]
+#### Supplementary[^c-f2fa8b6dd2649d6aaee917f0eee5adfa]
 
 - [Section 73 — Regulations.](part-iii/section-73.md)
 - [Section 74 — Offences.](part-iii/section-74.md)
@@ -277,14 +277,14 @@ SCHEDULES
 
 [^c10231381]: Extent: Act extends to England and Wales only except as provided by s. 79(3)-(7)
 
-[^key-73047d9c947e24d780ce7c7ebd4e62b4]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1992/41) transfer of functions (13.12.2006) by [Transfer of Functions (Third Sector, Communities and Equality) Order 2006 (S.I. 2006/2951)](https://www.legislation.gov.uk/uksi/2006/2951), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2006/2951/article/3/2/b)
+[^c-73047d9c947e24d780ce7c7ebd4e62b4]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1992/41) transfer of functions (13.12.2006) by [Transfer of Functions (Third Sector, Communities and Equality) Order 2006 (S.I. 2006/2951)](https://www.legislation.gov.uk/uksi/2006/2951), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2006/2951/article/3/2/b)
 
-[^key-60067b8340570a13a86a9e0277a9c88f]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1992/41) power to amend conferred (27.2.2007) by [Charities Act 2006 (c. 50)](https://www.legislation.gov.uk/ukpga/2006/50), [ss. 76](https://www.legislation.gov.uk/ukpga/2006/50/section/76), [79(2)](https://www.legislation.gov.uk/ukpga/2006/50/section/79/2); [S.I. 2007/309](https://www.legislation.gov.uk/uksi/2007/309), [art. 2](https://www.legislation.gov.uk/uksi/2007/309/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/309/schedule)
+[^c-60067b8340570a13a86a9e0277a9c88f]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1992/41) power to amend conferred (27.2.2007) by [Charities Act 2006 (c. 50)](https://www.legislation.gov.uk/ukpga/2006/50), [ss. 76](https://www.legislation.gov.uk/ukpga/2006/50/section/76), [79(2)](https://www.legislation.gov.uk/ukpga/2006/50/section/79/2); [S.I. 2007/309](https://www.legislation.gov.uk/uksi/2007/309), [art. 2](https://www.legislation.gov.uk/uksi/2007/309/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/309/schedule)
 
-[^key-9ced280bb8baa926aeb0a94b5d5ea951]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1992/41) functions transferred (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 10(2)(b)](https://www.legislation.gov.uk/uksi/2016/997/article/10/2/b) (with [arts. 10(3)](https://www.legislation.gov.uk/uksi/2016/997/article/10/3), [11](https://www.legislation.gov.uk/uksi/2016/997/article/11), [12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-9ced280bb8baa926aeb0a94b5d5ea951]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1992/41) functions transferred (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 10(2)(b)](https://www.legislation.gov.uk/uksi/2016/997/article/10/2/b) (with [arts. 10(3)](https://www.legislation.gov.uk/uksi/2016/997/article/10/3), [11](https://www.legislation.gov.uk/uksi/2016/997/article/11), [12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
 
-[^key-68d0b2d8dc2e8aed043db1d3ee2b8464]: Textual amendment: [Pt. I](https://www.legislation.gov.uk/ukpga/1992/41/part/I) repealed (1.4.2008) by [Charities Act 2006 (c. 50)](https://www.legislation.gov.uk/ukpga/2006/50), [s. 79(2)](https://www.legislation.gov.uk/ukpga/2006/50/section/79/2), [Sch. 9](https://www.legislation.gov.uk/ukpga/2006/50/schedule/9) (with [Sch. 10 para. 29](https://www.legislation.gov.uk/ukpga/2006/50/schedule/10/paragraph/29)); [S.I. 2008/945](https://www.legislation.gov.uk/uksi/2008/945), [art. 2](https://www.legislation.gov.uk/uksi/2008/945/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2008/945/schedule/1) (with [art. 9](https://www.legislation.gov.uk/uksi/2008/945/article/9))
+[^c-68d0b2d8dc2e8aed043db1d3ee2b8464]: Textual amendment: [Pt. I](https://www.legislation.gov.uk/ukpga/1992/41/part/I) repealed (1.4.2008) by [Charities Act 2006 (c. 50)](https://www.legislation.gov.uk/ukpga/2006/50), [s. 79(2)](https://www.legislation.gov.uk/ukpga/2006/50/section/79/2), [Sch. 9](https://www.legislation.gov.uk/ukpga/2006/50/schedule/9) (with [Sch. 10 para. 29](https://www.legislation.gov.uk/ukpga/2006/50/schedule/10/paragraph/29)); [S.I. 2008/945](https://www.legislation.gov.uk/uksi/2008/945), [art. 2](https://www.legislation.gov.uk/uksi/2008/945/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2008/945/schedule/1) (with [art. 9](https://www.legislation.gov.uk/uksi/2008/945/article/9))
 
 [^c10232511]: Commencement: [Pt. II](https://www.legislation.gov.uk/ukpga/1992/41/part/II) (ss. 58-64) wholly in force at 1.3.1995; [Pt. II](https://www.legislation.gov.uk/ukpga/1992/41/part/II) not in force at Royal Assent see [s. 79(2)](https://www.legislation.gov.uk/ukpga/1992/41/section/79/2); [Pt. II](https://www.legislation.gov.uk/ukpga/1992/41/part/II) in force for certain purposes at 28.11.1994 and wholly in force at 1.3.1995 by [S.I. 1994/3023](https://www.legislation.gov.uk/uksi/1994/3023), [art. 2](https://www.legislation.gov.uk/uksi/1994/3023/article/2).
 
-[^key-f2fa8b6dd2649d6aaee917f0eee5adfa]: Textual amendment: Pt. III repealed (27.2.2007) by [Charities Act 2006 (c. 50)](https://www.legislation.gov.uk/ukpga/2006/50), [s. 79(2)](https://www.legislation.gov.uk/ukpga/2006/50/section/79/2), [Sch. 8 para. 91](https://www.legislation.gov.uk/ukpga/2006/50/schedule/8/paragraph/91), [Sch. 9](https://www.legislation.gov.uk/ukpga/2006/50/schedule/9); [S.I. 2007/309](https://www.legislation.gov.uk/uksi/2007/309), [art. 2](https://www.legislation.gov.uk/uksi/2007/309/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/309/schedule)
+[^c-f2fa8b6dd2649d6aaee917f0eee5adfa]: Textual amendment: Pt. III repealed (27.2.2007) by [Charities Act 2006 (c. 50)](https://www.legislation.gov.uk/ukpga/2006/50), [s. 79(2)](https://www.legislation.gov.uk/ukpga/2006/50/section/79/2), [Sch. 8 para. 91](https://www.legislation.gov.uk/ukpga/2006/50/schedule/8/paragraph/91), [Sch. 9](https://www.legislation.gov.uk/ukpga/2006/50/schedule/9); [S.I. 2007/309](https://www.legislation.gov.uk/uksi/2007/309), [art. 2](https://www.legislation.gov.uk/uksi/2007/309/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/309/schedule)

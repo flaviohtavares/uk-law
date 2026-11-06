@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 222. The Professional Standards Authority for Health and Social Care[^key-641e689091fb1c2e6aa4f134d6fff787]
+## 222. The Professional Standards Authority for Health and Social Care[^c-641e689091fb1c2e6aa4f134d6fff787]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-641e689091fb1c2e6aa4f134d6fff787]: Commencement: [S. 222](https://www.legislation.gov.uk/ukpga/2012/7/section/222) in force at 1.12.2012 by [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/3)
+[^c-641e689091fb1c2e6aa4f134d6fff787]: Commencement: [S. 222](https://www.legislation.gov.uk/ukpga/2012/7/section/222) in force at 1.12.2012 by [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/3)

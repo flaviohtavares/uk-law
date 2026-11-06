@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Amendment or application with modifications of provisions of FSMA 2000 etc[^key-877e06cee42c84e592b035103a83e84e]
+## 50. Amendment or application with modifications of provisions of FSMA 2000 etc[^c-877e06cee42c84e592b035103a83e84e]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In Schedule 1—
 
 ## Annotations
 
-[^key-877e06cee42c84e592b035103a83e84e]: Commencement: Reg. 50 in force at 30.1.2024 for specified purposes and 1.11.2024 (the main commencement day) in so far as not already in force, see [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)(2)
+[^c-877e06cee42c84e592b035103a83e84e]: Commencement: Reg. 50 in force at 30.1.2024 for specified purposes and 1.11.2024 (the main commencement day) in so far as not already in force, see [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)(2)

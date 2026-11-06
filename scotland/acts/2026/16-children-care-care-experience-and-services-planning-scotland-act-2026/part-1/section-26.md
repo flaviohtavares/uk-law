@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 26. Guidance on corporate parenting[^key-922534eaf1bf698f48f487c46294016e]
+## 26. Guidance on corporate parenting[^c-922534eaf1bf698f48f487c46294016e]
 
 *Extent: S*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-922534eaf1bf698f48f487c46294016e]: Commencement: S. 26 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)
+[^c-922534eaf1bf698f48f487c46294016e]: Commencement: S. 26 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)

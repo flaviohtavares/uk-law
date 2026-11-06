@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96. Offences racially aggravated.[^key-bf97203e504d7064b4948b9acb1a1f43]
+## 96. Offences racially aggravated.[^c-bf97203e504d7064b4948b9acb1a1f43]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bf97203e504d7064b4948b9acb1a1f43]: Textual amendment: S. 96 repealed (S.) (1.4.2024) by [Hate Crime and Public Order (Scotland) Act 2021 (asp 14)](https://www.legislation.gov.uk/asp/2021/14), [s. 21(2)](https://www.legislation.gov.uk/asp/2021/14/section/21/2), [sch. 2 para. 3](https://www.legislation.gov.uk/asp/2021/14/schedule/2/paragraph/3); [S.S.I. 2024/82](https://www.legislation.gov.uk/ssi/2024/82), [reg. 2](https://www.legislation.gov.uk/ssi/2024/82/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/82/regulation/3))
+[^c-bf97203e504d7064b4948b9acb1a1f43]: Textual amendment: S. 96 repealed (S.) (1.4.2024) by [Hate Crime and Public Order (Scotland) Act 2021 (asp 14)](https://www.legislation.gov.uk/asp/2021/14), [s. 21(2)](https://www.legislation.gov.uk/asp/2021/14/section/21/2), [sch. 2 para. 3](https://www.legislation.gov.uk/asp/2021/14/schedule/2/paragraph/3); [S.S.I. 2024/82](https://www.legislation.gov.uk/ssi/2024/82), [reg. 2](https://www.legislation.gov.uk/ssi/2024/82/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/82/regulation/3))

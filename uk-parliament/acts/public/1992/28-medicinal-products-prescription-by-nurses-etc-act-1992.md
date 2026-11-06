@@ -56,9 +56,9 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 *Extent: E+W*
 
-In section 41 of the *(affected by repeal, see note)*[^key-5e182865a549bfda5808af4ae4c92fc7] [^c13100111]National Health Service Act 1977 (which imposes a duty on Family Health Services Authorities to arrange for the provision of drugs and medicines *(affected by repeal, see note)*[^key-5e182865a549bfda5808af4ae4c92fc7] etc. *(affected by repeal, see note)*[^key-5e182865a549bfda5808af4ae4c92fc7] ordered by medical practitioners and dental practitioners) the word “and” at the end of paragraph (c) shall be omitted and after that paragraph there shall be inserted the following paragraph— *(affected by repeal, see note)*[^key-5e182865a549bfda5808af4ae4c92fc7]
+In section 41 of the *(affected by repeal, see note)*[^c-5e182865a549bfda5808af4ae4c92fc7] [^c13100111]National Health Service Act 1977 (which imposes a duty on Family Health Services Authorities to arrange for the provision of drugs and medicines *(affected by repeal, see note)*[^c-5e182865a549bfda5808af4ae4c92fc7] etc. *(affected by repeal, see note)*[^c-5e182865a549bfda5808af4ae4c92fc7] ordered by medical practitioners and dental practitioners) the word “and” at the end of paragraph (c) shall be omitted and after that paragraph there shall be inserted the following paragraph— *(affected by repeal, see note)*[^c-5e182865a549bfda5808af4ae4c92fc7]
 
-> - (cc (affected by repeal, see note))[^key-5e182865a549bfda5808af4ae4c92fc7] listed drugs and medicines and listed appliances which are ordered for those persons by a prescribed description of registered nurse, midwife or health visitor in pursuance of functions in the health service, the Scottish health service or the Northern Ireland health service or the armed forces of the Crown (excluding forces of a Commonwealth country and forces raised in a colony); and *(affected by repeal, see note)*[^key-5e182865a549bfda5808af4ae4c92fc7]
+> - (cc (affected by repeal, see note))[^c-5e182865a549bfda5808af4ae4c92fc7] listed drugs and medicines and listed appliances which are ordered for those persons by a prescribed description of registered nurse, midwife or health visitor in pursuance of functions in the health service, the Scottish health service or the Northern Ireland health service or the armed forces of the Crown (excluding forces of a Commonwealth country and forces raised in a colony); and *(affected by repeal, see note)*[^c-5e182865a549bfda5808af4ae4c92fc7]
 
 .
 
@@ -97,7 +97,7 @@ There shall be paid out of money provided by Parliament any increase attributabl
 
 [^c13100101]: Marginal citation: [1968 c. 67](https://www.legislation.gov.uk/ukpga/1968/67).
 
-[^key-5e182865a549bfda5808af4ae4c92fc7]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/1992/28/section/2) repealed (1.4.2006 for E.) by [Health and Social Care Act 2001 (c. 15)](https://www.legislation.gov.uk/ukpga/2001/15), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2001/15/section/70/2), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/ukpga/2001/15/schedule/6/part/2) (with [ss. 64(9)](https://www.legislation.gov.uk/ukpga/2001/15/section/64/9), [65(4)](https://www.legislation.gov.uk/ukpga/2001/15/section/65/4)); [S.I. 2006/481](https://www.legislation.gov.uk/uksi/2006/481), [art. 3](https://www.legislation.gov.uk/uksi/2006/481/article/3)
+[^c-5e182865a549bfda5808af4ae4c92fc7]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/1992/28/section/2) repealed (1.4.2006 for E.) by [Health and Social Care Act 2001 (c. 15)](https://www.legislation.gov.uk/ukpga/2001/15), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2001/15/section/70/2), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/ukpga/2001/15/schedule/6/part/2) (with [ss. 64(9)](https://www.legislation.gov.uk/ukpga/2001/15/section/64/9), [65(4)](https://www.legislation.gov.uk/ukpga/2001/15/section/65/4)); [S.I. 2006/481](https://www.legislation.gov.uk/uksi/2006/481), [art. 3](https://www.legislation.gov.uk/uksi/2006/481/article/3)
 
 [^c13100111]: Marginal citation: [1977 c. 49](https://www.legislation.gov.uk/ukpga/1977/49).
 

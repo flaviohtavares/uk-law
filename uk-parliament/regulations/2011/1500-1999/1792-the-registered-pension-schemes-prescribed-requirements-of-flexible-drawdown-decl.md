@@ -32,7 +32,7 @@ summary: ''
 
 Income Tax
 
-The Registered Pension Schemes (Prescribed Requirements of Flexible Drawdown Declaration) Regulations 2011 (revoked)[^key-6e6f2d6e85f72722755cd45d69350031]
+The Registered Pension Schemes (Prescribed Requirements of Flexible Drawdown Declaration) Regulations 2011 (revoked)[^c-6e6f2d6e85f72722755cd45d69350031]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 11th August 2011
 
-[^key-6e6f2d6e85f72722755cd45d69350031]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6e6f2d6e85f72722755cd45d69350031]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and effect[^key-6e6f2d6e85f72722755cd45d69350031]
+## 1. Citation, commencement and effect[^c-6e6f2d6e85f72722755cd45d69350031]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Prescribed requirements of valid declaration[^key-6e6f2d6e85f72722755cd45d69350031]
+## 2. Prescribed requirements of valid declaration[^c-6e6f2d6e85f72722755cd45d69350031]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Procedure where the member does not qualify for a national insurance number[^key-6e6f2d6e85f72722755cd45d69350031]
+## 3. Procedure where the member does not qualify for a national insurance number[^c-6e6f2d6e85f72722755cd45d69350031]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6e6f2d6e85f72722755cd45d69350031]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6e6f2d6e85f72722755cd45d69350031]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-6e6f2d6e85f72722755cd45d69350031]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6e6f2d6e85f72722755cd45d69350031]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6e6f2d6e85f72722755cd45d69350031]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2011/1792) revoked (6.4.2015) by [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 32(3)(4)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/32/3)
+[^c-6e6f2d6e85f72722755cd45d69350031]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2011/1792) revoked (6.4.2015) by [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 32(3)(4)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/32/3)

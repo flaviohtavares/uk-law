@@ -49,11 +49,11 @@ The bodies listed in the Schedule to this Order appear to the Department of Fina
 
 The Department intends the accounts under section 14 of the Act for the financial year ending with 31st March 2025 to relate in part to those bodies.
 
-## 1. Title and commencement[^key-d7bd3238bbc97c66543287b2a3434f90]
+## 1. Title and commencement[^c-d7bd3238bbc97c66543287b2a3434f90]
 
 This Order may be cited as the Whole of Government Accounts (Designation of Bodies) Order (Northern Ireland) 2025 and shall come into operation on 2nd July 2025.
 
-## 2. Designation of Bodies[^key-e9820cfc830fd0e891c865385fcd3e31]
+## 2. Designation of Bodies[^c-e9820cfc830fd0e891c865385fcd3e31]
 
 For the purposes of section 15 of the Government Resources and Accounts Act (Northern Ireland) 2001, the Department designates the bodies listed in the Schedule in respect of the financial year ending with 31st March 2025.
 
@@ -63,439 +63,439 @@ Stuart Stevenson
 
 A senior officer of the Department of Finance
 
-## SCHEDULE — DESIGNATED BODIES FOR 2024-2025[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+## SCHEDULE — DESIGNATED BODIES FOR 2024-2025[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Article 2
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Agri-Food and Biosciences Institute
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Antrim and Newtownabbey Borough Council
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Arc21 Joint Committee
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Ards and North Down Borough Council
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Armagh City, Banbridge and Craigavon Borough Council
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Arts Council of Northern Ireland
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Belfast City Council
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Belfast Health and Social Care Trust
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Belfast Metropolitan College
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Business Services Organisation
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Causeway Coast and Glens Borough Council
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Charity Commission for Northern Ireland
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Children’s Court Guardian Agency for Northern Ireland
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Comhairle na Gaelscolaíochta
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Commission for Victims and Survivors for Northern Ireland
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Commissioner for Children and Young People for Northern Ireland
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Commissioner for Older People for Northern Ireland
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Commissioner for Survivors of Institutional Childhood Abuse
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Construction Industry Training Board
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Council for Catholic Maintained Schools
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Criminal Justice Inspection Northern Ireland
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Department of Agriculture, Environment and Rural Affairs
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Department for Communities
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Department for the Economy
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Department of Education
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Department of Finance
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Department of Health
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Department for Infrastructure
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Department of Justice
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Derry City and Strabane District Council
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Driver and Vehicle Agency
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Education Authority
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Equality Commission for Northern Ireland
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Fermanagh and Omagh District Council
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Food Safety Promotion Board (known as *safe*food)
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Forest Service
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 General Consumer Council for Northern Ireland
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 General Teaching Council for Northern Ireland
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Governors of the Armagh Observatory and Planetarium
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Grant Maintained Integrated Schools
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Health and Safety Executive for Northern Ireland
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Health and Social Care Regulation and Quality Improvement Authority
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Invest Northern Ireland
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Labour Relations Agency
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Lisburn and Castlereagh City Council
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Livestock and Meat Commission for Northern Ireland
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Local Government Staff Commission for Northern Ireland
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Loughs Agency of the Foyle, Carlingford and Irish Lights Commission
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Maze/Long Kesh Development Corporation
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Mid and East Antrim Borough Council
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Mid Ulster District Council
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Middletown Centre for Autism
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Middletown Centre for Autism (Holdings) Ltd
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 National Museums and Galleries of Northern Ireland (known as National Museums NI)
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Newry, Mourne and Down District Council
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 North West Regional College
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 North West Regional Waste Management Group
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 North/South Language Body
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Northern Health and Social Care Trust
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Northern Ireland Ambulance Service Health and Social Care Trust
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Northern Ireland Authority for Utility Regulation
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Northern Ireland Blood Transfusion Service (Special Agency)
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Northern Ireland Community Relations Council
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Northern Ireland Council for the Curriculum, Examinations and Assessment
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Northern Ireland Council for Integrated Education
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Northern Ireland Fire and Rescue Service
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Northern Ireland Fishery Harbour Authority
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Northern Ireland Housing Executive
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Northern Ireland Judicial Appointments Commission
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Northern Ireland Library Authority (known as Libraries NI)
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Northern Ireland Local Government Officers’ Superannuation Committee
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Northern Ireland Medical and Dental Training Agency
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Northern Ireland Museums Council
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Northern Ireland Police Fund
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Northern Ireland Policing Board
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Northern Ireland Practice and Education Council for Nursing and Midwifery
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Northern Ireland Screen Commission
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Northern Ireland Social Care Council
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Northern Ireland Tourist Board (trading as Tourism NI)
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Northern Ireland Transport Holding Company
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Northern Ireland Water Limited
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Northern Regional College
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Patient and Client Council
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Police Ombudsman for Northern Ireland
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Police Rehabilitation and Retraining Trust
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Police Service of Northern Ireland
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Probation Board for Northern Ireland
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Public Prosecution Service for Northern Ireland
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Royal Ulster Constabulary George Cross Foundation
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 South Eastern Health and Social Care Trust
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 South Eastern Regional College
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 South West College
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Southern Health and Social Care Trust
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Southern Regional College
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Special EU Programmes Body
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Sports Council for Northern Ireland (known as Sport NI)
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Stranmillis University College
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Strategic Investment Board Limited
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 The Executive Office
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 The Institute of Public Health in Ireland Company Limited by Guarantee
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 The Trade and Business Development Body (trading as IntertradeIreland)
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Tourism Ireland Company Limited by Guarantee (trading as Tourism Ireland)
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Ulster Supported Employment Limited
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Victims and Survivors Service Limited
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Voluntary Grammar Schools
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Waterways Ireland
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Western Health and Social Care Trust
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]
 
 Youth Council for Northern Ireland
 
@@ -513,8 +513,8 @@ WGA are financial statements prepared on the basis of Generally Accepted Account
 
 [^f00002]: Footnote: [2001 (c.6)](https://www.legislation.gov.uk/nia/2001/6) (NI)
 
-[^key-d7bd3238bbc97c66543287b2a3434f90]: Commencement: Art. 1 in operation at 2.7.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/104/article/1)
+[^c-d7bd3238bbc97c66543287b2a3434f90]: Commencement: Art. 1 in operation at 2.7.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/104/article/1)
 
-[^key-e9820cfc830fd0e891c865385fcd3e31]: Commencement: Art. 2 in operation at 2.7.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/104/article/1)
+[^c-e9820cfc830fd0e891c865385fcd3e31]: Commencement: Art. 2 in operation at 2.7.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/104/article/1)
 
-[^key-a7ed2e22ef28b05e2e4e889050e39c17]: Commencement: Sch. in operation at 2.7.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/104/article/1)
+[^c-a7ed2e22ef28b05e2e4e889050e39c17]: Commencement: Sch. in operation at 2.7.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/104/article/1)

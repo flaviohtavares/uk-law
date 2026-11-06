@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Revocation[^key-6a90e7f5153ee9900ab9baf35fa4f607]
+## 3. Revocation[^c-6a90e7f5153ee9900ab9baf35fa4f607]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ The Smoke Control Areas (Authorised Fuels) (Wales) Regulations 2017 [^c23684431]
 
 ## Annotations
 
-[^key-6a90e7f5153ee9900ab9baf35fa4f607]: Commencement: Reg. 3 in force at 6.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/50/regulation/1/1)
+[^c-6a90e7f5153ee9900ab9baf35fa4f607]: Commencement: Reg. 3 in force at 6.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/50/regulation/1/1)
 
 [^c23684431]: Marginal citation: [S.I. 2017/421](https://www.legislation.gov.uk/uksi/2017/421) (W. 89).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 40B. Orders: supplementary[^key-2005b286d8ff0032802fad32575aa3bb]
+## 40B. Orders: supplementary[^c-2005b286d8ff0032802fad32575aa3bb]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2005b286d8ff0032802fad32575aa3bb]: Textual amendment: [S. 40B](https://www.legislation.gov.uk/ukpga/1975/51/section/40B) inserted (12.11.2009 for specified purposes, 12.1.2010 in so far as not already in force) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [ss. 222](https://www.legislation.gov.uk/ukpga/2009/23/section/222), [324(1)(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/c), [324(1)(d)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/d); [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/12)
+[^c-2005b286d8ff0032802fad32575aa3bb]: Textual amendment: [S. 40B](https://www.legislation.gov.uk/ukpga/1975/51/section/40B) inserted (12.11.2009 for specified purposes, 12.1.2010 in so far as not already in force) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [ss. 222](https://www.legislation.gov.uk/ukpga/2009/23/section/222), [324(1)(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/c), [324(1)(d)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/d); [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/12)

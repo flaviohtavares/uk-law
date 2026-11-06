@@ -31,7 +31,7 @@ summary: ''
 
 SOCIAL CARE, WALES
 
-The Care Homes (Wales) (Miscellaneous Amendments) Regulations 2011 (revoked)[^key-7d424b828ccfdd8cc7728fa120116913]
+The Care Homes (Wales) (Miscellaneous Amendments) Regulations 2011 (revoked)[^c-7d424b828ccfdd8cc7728fa120116913]
 
 Made
 
@@ -45,32 +45,32 @@ Coming into force
 
 1 June 2011
 
-[^key-7d424b828ccfdd8cc7728fa120116913]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7d424b828ccfdd8cc7728fa120116913]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-7d424b828ccfdd8cc7728fa120116913]
+## 1. Title, commencement and application[^c-7d424b828ccfdd8cc7728fa120116913]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-7d424b828ccfdd8cc7728fa120116913]
+## 2. Interpretation[^c-7d424b828ccfdd8cc7728fa120116913]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the principal Regulations[^key-7d424b828ccfdd8cc7728fa120116913]
+## 3. Amendment of the principal Regulations[^c-7d424b828ccfdd8cc7728fa120116913]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Registration Regulations[^key-7d424b828ccfdd8cc7728fa120116913]
+## 4. Amendment of the Registration Regulations[^c-7d424b828ccfdd8cc7728fa120116913]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7d424b828ccfdd8cc7728fa120116913]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7d424b828ccfdd8cc7728fa120116913]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-7d424b828ccfdd8cc7728fa120116913]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7d424b828ccfdd8cc7728fa120116913]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7d424b828ccfdd8cc7728fa120116913]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2011/1016) revoked (2.4.2018) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2018 (S.I. 2018/48)](https://www.legislation.gov.uk/wsi/2018/48), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/48/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/wsi/2018/48/schedule/2)
+[^c-7d424b828ccfdd8cc7728fa120116913]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2011/1016) revoked (2.4.2018) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2018 (S.I. 2018/48)](https://www.legislation.gov.uk/wsi/2018/48), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/48/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/wsi/2018/48/schedule/2)

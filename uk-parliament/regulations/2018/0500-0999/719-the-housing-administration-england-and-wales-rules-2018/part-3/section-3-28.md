@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.28. Creditors’ decisions for the nomination of alternative liquidator[^key-464e6bfde20a6b2afe02d9071d965cbb]
+## 3.28. Creditors’ decisions for the nomination of alternative liquidator[^c-464e6bfde20a6b2afe02d9071d965cbb]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ but sub-paragraph (a) does not apply if the requesting creditor’s debt is alon
 
 ## Annotations
 
-[^key-464e6bfde20a6b2afe02d9071d965cbb]: Commencement: Rule 3.28 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-464e6bfde20a6b2afe02d9071d965cbb]: Commencement: Rule 3.28 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

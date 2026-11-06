@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 141. Other interpretation[^key-b9f90b359e1b6c7285cf831f0fa5dcb6]
+## 141. Other interpretation[^c-b9f90b359e1b6c7285cf831f0fa5dcb6]
 
 *Extent: E+W+S+N.I.*
 
 In this Part—
 
-- “appropriate officer” means—[^key-a231cca53b694524b0d1e31f46ea7110]
+- “appropriate officer” means—[^c-a231cca53b694524b0d1e31f46ea7110]
   - (a) an officer of Revenue and Customs;
   - (b) a constable; or
   - (c) an accredited financial investigator who is under the direction of a relevant Director as defined in section 352(5A) of the Act;
@@ -39,6 +39,6 @@ In this Part—
 
 ## Annotations
 
-[^key-b9f90b359e1b6c7285cf831f0fa5dcb6]: Commencement: [Art. 141](https://www.legislation.gov.uk/uksi/2005/3181/article/141) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-b9f90b359e1b6c7285cf831f0fa5dcb6]: Commencement: [Art. 141](https://www.legislation.gov.uk/uksi/2005/3181/article/141) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
 
-[^key-a231cca53b694524b0d1e31f46ea7110]: Textual amendment: Words in [art. 141](https://www.legislation.gov.uk/uksi/2005/3181/article/141) inserted (11.8.2016) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2016 (S.I. 2016/662)](https://www.legislation.gov.uk/uksi/2016/662), [arts. 1](https://www.legislation.gov.uk/uksi/2016/662/article/1), [36](https://www.legislation.gov.uk/uksi/2016/662/article/36)
+[^c-a231cca53b694524b0d1e31f46ea7110]: Textual amendment: Words in [art. 141](https://www.legislation.gov.uk/uksi/2005/3181/article/141) inserted (11.8.2016) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2016 (S.I. 2016/662)](https://www.legislation.gov.uk/uksi/2016/662), [arts. 1](https://www.legislation.gov.uk/uksi/2016/662/article/1), [36](https://www.legislation.gov.uk/uksi/2016/662/article/36)

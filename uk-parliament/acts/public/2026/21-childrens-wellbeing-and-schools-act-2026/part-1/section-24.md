@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Cases in which duty under section 23(1) does not apply[^key-63d857edf8105ffce1ca642a3cac20ff]
+## 24. Cases in which duty under section 23(1) does not apply[^c-63d857edf8105ffce1ca642a3cac20ff]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-63d857edf8105ffce1ca642a3cac20ff]: Commencement: S. 24 not in force at Royal Assent, see [s. 78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
+[^c-63d857edf8105ffce1ca642a3cac20ff]: Commencement: S. 24 not in force at Royal Assent, see [s. 78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)

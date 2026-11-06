@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 332. General definitions[^key-096996d4213f18e9584c6bab51abf2d2]
+## 332. General definitions[^c-096996d4213f18e9584c6bab51abf2d2]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In this Act—
 
 ## Annotations
 
-[^key-096996d4213f18e9584c6bab51abf2d2]: Commencement: S. 332 in force at Royal Assent, see [s. 334(2)(p)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/p)
+[^c-096996d4213f18e9584c6bab51abf2d2]: Commencement: S. 332 in force at Royal Assent, see [s. 334(2)(p)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/p)

@@ -40,7 +40,7 @@ Coming into operation
 
 The Department of Health and Social Services, in exercise of the powers conferred on it by Articles 56(3), 79(1)(*c*) and (2), 80(1), 81(2) and (3)(*a*), 82(1)(*b*), (2) and (3), 84, 122(2) and 166(1) to (3) of the Pensions (Northern Ireland) Order 1995[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-d22bbfc2bf69aaabc2b9fea5f1b451da]
+## 1. Citation, commencement and interpretation[^c-d22bbfc2bf69aaabc2b9fea5f1b451da]
 
 (1) These Regulations may be cited as the Occupational Pension Schemes (Pensions Compensation Provisions) Regulations (Northern Ireland) 1997 and shall come into operation on 6th April 1997.
 
@@ -71,7 +71,7 @@ The Department of Health and Social Services, in exercise of the powers conferre
 
 (4) For the purposes of these Regulations, and notwithstanding section 39(2) of the Interpretation Act (Northern Ireland) 1954[^f00003], where a period of time is expressed to begin on, or to be reckoned from, a particular day, that day shall be included in the period.
 
-## 2. Schemes to which the compensation provisions and these Regulations do not apply[^key-017cb1c318e571b600c3ee3c84610d7b]
+## 2. Schemes to which the compensation provisions and these Regulations do not apply[^c-017cb1c318e571b600c3ee3c84610d7b]
 
 (1) The compensation provisions and these Regulations shall not apply to—
 
@@ -96,11 +96,11 @@ The Department of Health and Social Services, in exercise of the powers conferre
 - “relevant statutory scheme” has the meaning given in section 611A of the Taxes Act 1988[^f00005];
 - “section 615(6) scheme” means a scheme with such a superannuation fund as is mentioned in section 615(6) of the Taxes Act 1988 (exemption from tax in respect of certain pensions).
 
-## 3. Relevant offences[^key-c58c9c524b033f3e5a9cb192f2443fd6]
+## 3. Relevant offences[^c-c58c9c524b033f3e5a9cb192f2443fd6]
 
 For the purposes of Article 79(1)(*c*) (cases where compensation provisions apply: reduction to be attributable to prescribed offence), the prescribed offence is any offence involving dishonesty, and for the avoidance of doubt dishonesty shall include an intent to defraud.
 
-## 4. Applications for compensation[^key-1fdbbc594b14845d359f25e7e3a52042]
+## 4. Applications for compensation[^c-1fdbbc594b14845d359f25e7e3a52042]
 
 An application for compensation under Article 80 in respect of a scheme may only be made by—
 
@@ -108,7 +108,7 @@ An application for compensation under Article 80 in respect of a scheme may only
 - (b) a person concerned with the administration of, or the provision of benefits under, the scheme, or his representative; or
 - (c) a member of, or beneficiary under, the scheme, or his representative.
 
-## 5. Amount of compensation[^key-20342bd6d5e5904e14509b6ac5d594d2]
+## 5. Amount of compensation[^c-20342bd6d5e5904e14509b6ac5d594d2]
 
 (1) If the Compensation Board decide to make a payment to the trustees of the scheme in accordance with Article 81, the amount of any such payment or (if there is more than one) the aggregate must be determined in accordance with paragraph (2) of this regulation.
 
@@ -162,7 +162,7 @@ and the same principles are used to value the assets for the purposes of P, R an
   (base rate plus 2 per cent.) × 90 per cent.; and
 - (b) the prescribed period by reference to which the rate of interest specified in sub-paragraph (*a*) is calculated shall commence on the application date and end on the settlement date.
 
-## 6. Payments made in anticipation[^key-9bfc76a1f00c7ce60ad42189f7d102eb]
+## 6. Payments made in anticipation[^c-9bfc76a1f00c7ce60ad42189f7d102eb]
 
 (1) The prescribed class of liabilities referred to in Article 82(1)(*b*) (liabilities the trustees would not otherwise be able to meet) are—
 
@@ -189,7 +189,7 @@ and the same principles are used to value the assets for the purposes of P, R an
 
 (6) For the purposes of Article 82(3), the prescribed circumstances in which any payment made under Article 82(1) may not be recovered, in whole or in part, are where such recovery would cause pensions in payment to be reduced.
 
-## 7. Mixed benefit schemes[^key-ef37d3f707f5b6fd33f37ad45bd63b9b]
+## 7. Mixed benefit schemes[^c-ef37d3f707f5b6fd33f37ad45bd63b9b]
 
 (1) This paragraph applies where some, but not all, of the benefits that may be provided under a scheme are money purchase benefits.
 
@@ -207,7 +207,7 @@ then the compensation provisions and these Regulations shall apply as if the ass
 
 then the compensation provisions and these Regulations shall apply as if the proportion of the liabilities which, in the opinion of the Compensation Board, is attributable to the provision of money purchase benefits, and a like proportion of the assets, were the liabilities and assets of a separate scheme.
 
-## 8. Multi-employer schemes[^key-f22bd37afd2eb29541e866677caaa4a5]
+## 8. Multi-employer schemes[^c-f22bd37afd2eb29541e866677caaa4a5]
 
 (1) Where a scheme applies to earners in employments under different employers—
 
@@ -232,11 +232,11 @@ the compensation provisions and these Regulations shall apply as if each section
 
 (4) For the purposes of paragraphs (2) and (3), there shall be disregarded any provisions of the scheme by virtue of which, on the winding up of the scheme or a section, assets attributable to one section may be used for the purposes of another section.
 
-## 9. Partially approved schemes[^key-a68b41e0df7b21efb9b6338bbd35a274]
+## 9. Partially approved schemes[^c-a68b41e0df7b21efb9b6338bbd35a274]
 
 Where a scheme is not an approved scheme but contains a section which, by virtue of section 611(3) of the Taxes Act 1988 (retirement benefit schemes), is treated by the Commissioners of Inland Revenue as an approved scheme, the compensation provisions and these Regulations shall apply to that section as if it were a separate scheme.
 
-## 10. Modifications for money purchase schemes[^key-9b308124aeb9da26143fabc0dabb52a6]
+## 10. Modifications for money purchase schemes[^c-9b308124aeb9da26143fabc0dabb52a6]
 
 (1) In the case of a money purchase scheme, and subject to paragraph (2)—
 
@@ -355,34 +355,34 @@ As these Regulations make in relation to Northern Ireland only provision corresp
 
 [^f00001]: Footnote: [S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213); *see also* Article 79(7)
 
-[^key-d22bbfc2bf69aaabc2b9fea5f1b451da]: Commencement: Reg. 1 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/141/regulation/1/1)
+[^c-d22bbfc2bf69aaabc2b9fea5f1b451da]: Commencement: Reg. 1 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/141/regulation/1/1)
 
 [^f00002]: Footnote: [1987 c. 22](https://www.legislation.gov.uk/ukpga/1987/22)
 
 [^f00003]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-017cb1c318e571b600c3ee3c84610d7b]: Commencement: Reg. 2 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/141/regulation/1/1)
+[^c-017cb1c318e571b600c3ee3c84610d7b]: Commencement: Reg. 2 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/141/regulation/1/1)
 
 [^f00004]: Footnote: [S.I. 1991/1614](https://www.legislation.gov.uk/uksi/1991/1614); *see also* regulation 2(4) to (8) of that instrument for the meaning of “connected with” in regulation 2(1)
 
 [^f00005]: Footnote: Section 611A was inserted by paragraph 15 of Schedule 6 to the Finance Act [1989 (c. 26)](https://www.legislation.gov.uk/ukpga/1989/26)
 
-[^key-c58c9c524b033f3e5a9cb192f2443fd6]: Commencement: Reg. 3 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/141/regulation/1/1)
+[^c-c58c9c524b033f3e5a9cb192f2443fd6]: Commencement: Reg. 3 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/141/regulation/1/1)
 
-[^key-1fdbbc594b14845d359f25e7e3a52042]: Commencement: Reg. 4 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/141/regulation/1/1)
+[^c-1fdbbc594b14845d359f25e7e3a52042]: Commencement: Reg. 4 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/141/regulation/1/1)
 
-[^key-20342bd6d5e5904e14509b6ac5d594d2]: Commencement: Reg. 5 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/141/regulation/1/1)
+[^c-20342bd6d5e5904e14509b6ac5d594d2]: Commencement: Reg. 5 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/141/regulation/1/1)
 
 [^f00006]: Footnote: [S.R. 1996 No. 570](https://www.legislation.gov.uk/nisr/1996/570), amended by [S.R. 1996 No. 584](https://www.legislation.gov.uk/nisr/1996/584)
 
 [^f00007]: Footnote: Copies of GN27 may be obtained from the Faculty of Actuaries, 17 Thistle Street, Edinburgh EH2 1DF
 
-[^key-9bfc76a1f00c7ce60ad42189f7d102eb]: Commencement: Reg. 6 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/141/regulation/1/1)
+[^c-9bfc76a1f00c7ce60ad42189f7d102eb]: Commencement: Reg. 6 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/141/regulation/1/1)
 
-[^key-ef37d3f707f5b6fd33f37ad45bd63b9b]: Commencement: Reg. 7 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/141/regulation/1/1)
+[^c-ef37d3f707f5b6fd33f37ad45bd63b9b]: Commencement: Reg. 7 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/141/regulation/1/1)
 
-[^key-f22bd37afd2eb29541e866677caaa4a5]: Commencement: Reg. 8 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/141/regulation/1/1)
+[^c-f22bd37afd2eb29541e866677caaa4a5]: Commencement: Reg. 8 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/141/regulation/1/1)
 
-[^key-a68b41e0df7b21efb9b6338bbd35a274]: Commencement: Reg. 9 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/141/regulation/1/1)
+[^c-a68b41e0df7b21efb9b6338bbd35a274]: Commencement: Reg. 9 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/141/regulation/1/1)
 
-[^key-9b308124aeb9da26143fabc0dabb52a6]: Commencement: Reg. 10 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/141/regulation/1/1)
+[^c-9b308124aeb9da26143fabc0dabb52a6]: Commencement: Reg. 10 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/141/regulation/1/1)

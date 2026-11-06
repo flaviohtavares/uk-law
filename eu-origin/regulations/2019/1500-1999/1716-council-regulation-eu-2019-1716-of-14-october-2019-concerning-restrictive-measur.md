@@ -35,56 +35,56 @@ of 14 October 2019
 
 concerning restrictive measures in view of the situation in Nicaragua (revoked)
 
-[^key-bbf4a3acc82a58370e4f8b1257092c8a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bbf4a3acc82a58370e4f8b1257092c8a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-bbf4a3acc82a58370e4f8b1257092c8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-bbf4a3acc82a58370e4f8b1257092c8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-bbf4a3acc82a58370e4f8b1257092c8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-bbf4a3acc82a58370e4f8b1257092c8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-bbf4a3acc82a58370e4f8b1257092c8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-bbf4a3acc82a58370e4f8b1257092c8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-bbf4a3acc82a58370e4f8b1257092c8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-bbf4a3acc82a58370e4f8b1257092c8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-bbf4a3acc82a58370e4f8b1257092c8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-bbf4a3acc82a58370e4f8b1257092c8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-bbf4a3acc82a58370e4f8b1257092c8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-bbf4a3acc82a58370e4f8b1257092c8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 7.**[^key-bbf4a3acc82a58370e4f8b1257092c8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 7.**[^c-bbf4a3acc82a58370e4f8b1257092c8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 8.**[^key-bbf4a3acc82a58370e4f8b1257092c8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 8.**[^c-bbf4a3acc82a58370e4f8b1257092c8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 9.**[^key-bbf4a3acc82a58370e4f8b1257092c8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 9.**[^c-bbf4a3acc82a58370e4f8b1257092c8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 10.**[^key-bbf4a3acc82a58370e4f8b1257092c8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 10.**[^c-bbf4a3acc82a58370e4f8b1257092c8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 11.**[^key-bbf4a3acc82a58370e4f8b1257092c8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 11.**[^c-bbf4a3acc82a58370e4f8b1257092c8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 12.**[^key-bbf4a3acc82a58370e4f8b1257092c8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 12.**[^c-bbf4a3acc82a58370e4f8b1257092c8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 13.**[^key-bbf4a3acc82a58370e4f8b1257092c8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 13.**[^c-bbf4a3acc82a58370e4f8b1257092c8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 14.**[^key-bbf4a3acc82a58370e4f8b1257092c8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 14.**[^c-bbf4a3acc82a58370e4f8b1257092c8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 15.**[^key-bbf4a3acc82a58370e4f8b1257092c8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 15.**[^c-bbf4a3acc82a58370e4f8b1257092c8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 16.**[^key-bbf4a3acc82a58370e4f8b1257092c8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 16.**[^c-bbf4a3acc82a58370e4f8b1257092c8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 17.**[^key-bbf4a3acc82a58370e4f8b1257092c8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 17.**[^c-bbf4a3acc82a58370e4f8b1257092c8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 18.**[^key-bbf4a3acc82a58370e4f8b1257092c8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 18.**[^c-bbf4a3acc82a58370e4f8b1257092c8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 19.**[^key-bbf4a3acc82a58370e4f8b1257092c8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 19.**[^c-bbf4a3acc82a58370e4f8b1257092c8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bbf4a3acc82a58370e4f8b1257092c8a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bbf4a3acc82a58370e4f8b1257092c8a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX I — LIST OF NATURAL AND LEGAL PERSONS, ENTITIES AND BODIES REFERRED TO IN ARTICLE 2[^key-bbf4a3acc82a58370e4f8b1257092c8a]
+## ANNEX I — LIST OF NATURAL AND LEGAL PERSONS, ENTITIES AND BODIES REFERRED TO IN ARTICLE 2[^c-bbf4a3acc82a58370e4f8b1257092c8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — WEBSITES FOR INFORMATION ON THE COMPETENT AUTHORITIES AND ADDRESS FOR NOTIFICATIONS TO THE COMMISSION[^key-bbf4a3acc82a58370e4f8b1257092c8a]
+## ANNEX II — WEBSITES FOR INFORMATION ON THE COMPETENT AUTHORITIES AND ADDRESS FOR NOTIFICATIONS TO THE COMMISSION[^c-bbf4a3acc82a58370e4f8b1257092c8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bbf4a3acc82a58370e4f8b1257092c8a]: Textual amendment: Regulation revoked (31.12.2020) by [The Nicaragua (Sanctions) (EU Exit) Regulations 2020 (S.I. 2020/610)](https://www.legislation.gov.uk/uksi/2020/610), [regs. 1](https://www.legislation.gov.uk/uksi/2020/610/regulation/1), [37(1)](https://www.legislation.gov.uk/uksi/2020/610/regulation/37/1)
+[^c-bbf4a3acc82a58370e4f8b1257092c8a]: Textual amendment: Regulation revoked (31.12.2020) by [The Nicaragua (Sanctions) (EU Exit) Regulations 2020 (S.I. 2020/610)](https://www.legislation.gov.uk/uksi/2020/610), [regs. 1](https://www.legislation.gov.uk/uksi/2020/610/regulation/1), [37(1)](https://www.legislation.gov.uk/uksi/2020/610/regulation/37/1)

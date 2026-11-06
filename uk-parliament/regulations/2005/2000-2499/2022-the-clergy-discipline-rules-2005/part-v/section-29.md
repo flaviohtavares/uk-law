@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 29. The President’s decision[^key-c1350a840c7d4eb729c6df80ee88277a]
+## 29. The President’s decision[^c-c1350a840c7d4eb729c6df80ee88277a]
 
 *Extent: E*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c1350a840c7d4eb729c6df80ee88277a]: Commencement: [Rule 29](https://www.legislation.gov.uk/uksi/2005/2022/rule/29) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)
+[^c-c1350a840c7d4eb729c6df80ee88277a]: Commencement: [Rule 29](https://www.legislation.gov.uk/uksi/2005/2022/rule/29) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)

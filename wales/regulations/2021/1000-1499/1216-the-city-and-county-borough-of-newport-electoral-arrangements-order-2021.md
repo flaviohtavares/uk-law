@@ -45,7 +45,7 @@ In accordance with section 37(3) of the 2013 Act, more than 6 weeks have elapsed
 
 The Welsh Ministers make the following Order in exercise of their powers conferred by section 37(1) of the 2013 Act.
 
-## 1. Title and commencement[^key-c604af095db3da2fc615ba9d5649a6b1][^key-9885fc86d053637798fe051786675e21]
+## 1. Title and commencement[^c-c604af095db3da2fc615ba9d5649a6b1][^c-9885fc86d053637798fe051786675e21]
 
 (1) The title of this Order is the City and County Borough of Newport (Electoral Arrangements) Order 2021.
 
@@ -53,7 +53,7 @@ The Welsh Ministers make the following Order in exercise of their powers conferr
 
 (3) For all other purposes, this Order comes into force on the ordinary day of election of councillors in 2022[^f00003].
 
-## 2. Interpretation[^key-4171184dca7296a7a5fef8733fee16d3][^key-195c342f854b5beafbb3f644967a9a49]
+## 2. Interpretation[^c-4171184dca7296a7a5fef8733fee16d3][^c-195c342f854b5beafbb3f644967a9a49]
 
 In this Order—
 
@@ -61,9 +61,9 @@ In this Order—
 - “the Regulations” (“*y Rheoliadau*”) means the Local Government Area Changes Regulations 1976[^f00004];
 - any reference to a map means one of the 2 maps marked “Map of the City and County Borough of Newport (Electoral Arrangements) Order 2021” deposited in accordance with regulation 5 of the Regulations, labelled “1” and “2”, and a reference to a numbered map is a reference to the map that bears that number;
 - where a boundary is shown on a map as running along a road, railway line, footway, watercourse or similar geographical feature, it is to be treated as running along the centre line of the feature;
-- words and expressions used in this Order have the same meaning as they have in Part 3 of the Democracy and Boundary Commission Cymru etc. Act 2013[^key-4138434fb92fb4f48017f50cfd30861b], except so far as a contrary intention appears.
+- words and expressions used in this Order have the same meaning as they have in Part 3 of the Democracy and Boundary Commission Cymru etc. Act 2013[^c-4138434fb92fb4f48017f50cfd30861b], except so far as a contrary intention appears.
 
-## 3. Electoral arrangements for the City and County Borough of Newport[^key-974b3d5f900b6589fc16b686a785bb9f][^key-671f1712942badc766d6d7452dcbba62]
+## 3. Electoral arrangements for the City and County Borough of Newport[^c-974b3d5f900b6589fc16b686a785bb9f][^c-671f1712942badc766d6d7452dcbba62]
 
 (1) The electoral wards of the City and County Borough of Newport, as they exist immediately before the ordinary day of election of councillors in 2022, are abolished.
 
@@ -75,11 +75,11 @@ In this Order—
 
 (5) The provisions in this Order take precedence over any conflicting provision in any previous statutory instrument made under section 58(2) of the Local Government Act 1972[^f00005].
 
-## 4. The communities of Graig and Rogerstone: changes to community boundaries[^key-c5ead1441ef7ef64ed9ecdaac8eb76ba][^key-47e1e6e8ec5b1dfb4870f7bc32f1b259]
+## 4. The communities of Graig and Rogerstone: changes to community boundaries[^c-c5ead1441ef7ef64ed9ecdaac8eb76ba][^c-47e1e6e8ec5b1dfb4870f7bc32f1b259]
 
 The part of the community of Graig shown hatched on Map 1 is transferred to the community of Rogerstone, and forms part of the West ward of the community of Rogerstone.
 
-## 5. The community of Rogerstone: changes to electoral arrangements[^key-e54982e39f7a5ceaf41c5e2bc3daf300][^key-b028e7a8ec0b3b44a477f49b2adae95a]
+## 5. The community of Rogerstone: changes to electoral arrangements[^c-e54982e39f7a5ceaf41c5e2bc3daf300][^c-b028e7a8ec0b3b44a477f49b2adae95a]
 
 In the community of Rogerstone—
 
@@ -87,7 +87,7 @@ In the community of Rogerstone—
 - (b) the number of members to be elected for the North ward is 4;
 - (c) the number of members to be elected for the West ward is 7.
 
-## 6. The communities of Pillgwenlly and Stow Hill: changes to community boundaries[^key-4d41c1da08db2f642817e4024931c267][^key-e17dbc4f48f5595444f3d8ad07e26737]
+## 6. The communities of Pillgwenlly and Stow Hill: changes to community boundaries[^c-4d41c1da08db2f642817e4024931c267][^c-e17dbc4f48f5595444f3d8ad07e26737]
 
 The part of the community of Pillgwenlly shown hatched on Map 2 is transferred to the community of Stow Hill.
 
@@ -97,7 +97,7 @@ Minister for Finance and Local Government, one of the Welsh Ministers
 
 1 November 2021
 
-## SCHEDULE — NAMES AND AREAS OF ELECTORAL WARDS AND NUMBER OF MEMBERS OF THE COUNCIL[^key-5543c10317db9270545aa0012c25a424][^key-04def201ff876172ddd42061bee838cd]
+## SCHEDULE — NAMES AND AREAS OF ELECTORAL WARDS AND NUMBER OF MEMBERS OF THE COUNCIL[^c-5543c10317db9270545aa0012c25a424][^c-04def201ff876172ddd42061bee838cd]
 
 Article 3
 
@@ -159,38 +159,38 @@ Prints of the maps labelled “1” and “2” to which this Order relates are 
 
 [^f00002]: Footnote: [2013 anaw 4](https://www.legislation.gov.uk/anaw/2013/4).
 
-[^key-c604af095db3da2fc615ba9d5649a6b1]: Commencement: Art. 1 in force at 3.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1216/article/1/2)
+[^c-c604af095db3da2fc615ba9d5649a6b1]: Commencement: Art. 1 in force at 3.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1216/article/1/2)
 
-[^key-9885fc86d053637798fe051786675e21]: Commencement: [Art. 1](https://www.legislation.gov.uk/wsi/2021/1216/article/1) in force at 5.5.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1216/article/1/3)
+[^c-9885fc86d053637798fe051786675e21]: Commencement: [Art. 1](https://www.legislation.gov.uk/wsi/2021/1216/article/1) in force at 5.5.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1216/article/1/3)
 
 [^f00003]: Footnote: The Local Authorities (Change to the Years of Ordinary Elections) (Wales) Order 2019 ([S.I. 2019/1269 (W. 220)](https://www.legislation.gov.uk/wsi/2019/1269)) amends section 26(1) of the 1972 Act to provide that the year in which the ordinary elections of councillors of local authorities shall take place is 2022 instead of 2021.
 
-[^key-4171184dca7296a7a5fef8733fee16d3]: Commencement: Art. 2 in force at 3.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1216/article/1/2)
+[^c-4171184dca7296a7a5fef8733fee16d3]: Commencement: Art. 2 in force at 3.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1216/article/1/2)
 
-[^key-195c342f854b5beafbb3f644967a9a49]: Commencement: [Art. 2](https://www.legislation.gov.uk/wsi/2021/1216/article/2) in force at 5.5.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1216/article/1/3)
+[^c-195c342f854b5beafbb3f644967a9a49]: Commencement: [Art. 2](https://www.legislation.gov.uk/wsi/2021/1216/article/2) in force at 5.5.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1216/article/1/3)
 
 [^f00004]: Footnote: [S.I. 1976/246](https://www.legislation.gov.uk/uksi/1976/246). Section 74(3) of the 2013 Act provides that the Regulations continue to have effect in relation to orders made under Part 3 of the 2013 Act, as if those orders were made under Part 4 of the 1972 Act.
 
-[^key-4138434fb92fb4f48017f50cfd30861b]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/wsi/2021/1216/article/2) substituted (25.6.2024) by [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [s. 25(1)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/a), [Sch. 1 para. 26](https://www.legislation.gov.uk/asc/2024/4/schedule/1/paragraph/26)
+[^c-4138434fb92fb4f48017f50cfd30861b]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/wsi/2021/1216/article/2) substituted (25.6.2024) by [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [s. 25(1)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/a), [Sch. 1 para. 26](https://www.legislation.gov.uk/asc/2024/4/schedule/1/paragraph/26)
 
-[^key-974b3d5f900b6589fc16b686a785bb9f]: Commencement: Art. 3 in force at 3.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1216/article/1/2)
+[^c-974b3d5f900b6589fc16b686a785bb9f]: Commencement: Art. 3 in force at 3.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1216/article/1/2)
 
-[^key-671f1712942badc766d6d7452dcbba62]: Commencement: [Art. 3](https://www.legislation.gov.uk/wsi/2021/1216/article/3) in force at 5.5.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1216/article/1/3)
+[^c-671f1712942badc766d6d7452dcbba62]: Commencement: [Art. 3](https://www.legislation.gov.uk/wsi/2021/1216/article/3) in force at 5.5.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1216/article/1/3)
 
 [^f00005]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70); section 58 of the 1972 Act was repealed by section 73(2) of, and Schedule 2 to, the 2013 Act, subject to savings provisions specified in section 74 of the 2013 Act.
 
-[^key-c5ead1441ef7ef64ed9ecdaac8eb76ba]: Commencement: Art. 4 in force at 3.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1216/article/1/2)
+[^c-c5ead1441ef7ef64ed9ecdaac8eb76ba]: Commencement: Art. 4 in force at 3.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1216/article/1/2)
 
-[^key-47e1e6e8ec5b1dfb4870f7bc32f1b259]: Commencement: [Art. 4](https://www.legislation.gov.uk/wsi/2021/1216/article/4) in force at 5.5.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1216/article/1/3)
+[^c-47e1e6e8ec5b1dfb4870f7bc32f1b259]: Commencement: [Art. 4](https://www.legislation.gov.uk/wsi/2021/1216/article/4) in force at 5.5.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1216/article/1/3)
 
-[^key-e54982e39f7a5ceaf41c5e2bc3daf300]: Commencement: Art. 5 in force at 3.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1216/article/1/2)
+[^c-e54982e39f7a5ceaf41c5e2bc3daf300]: Commencement: Art. 5 in force at 3.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1216/article/1/2)
 
-[^key-b028e7a8ec0b3b44a477f49b2adae95a]: Commencement: [Art. 5](https://www.legislation.gov.uk/wsi/2021/1216/article/5) in force at 5.5.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1216/article/1/3)
+[^c-b028e7a8ec0b3b44a477f49b2adae95a]: Commencement: [Art. 5](https://www.legislation.gov.uk/wsi/2021/1216/article/5) in force at 5.5.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1216/article/1/3)
 
-[^key-4d41c1da08db2f642817e4024931c267]: Commencement: Art. 6 in force at 3.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1216/article/1/2)
+[^c-4d41c1da08db2f642817e4024931c267]: Commencement: Art. 6 in force at 3.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1216/article/1/2)
 
-[^key-e17dbc4f48f5595444f3d8ad07e26737]: Commencement: [Art. 6](https://www.legislation.gov.uk/wsi/2021/1216/article/6) in force at 5.5.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1216/article/1/3)
+[^c-e17dbc4f48f5595444f3d8ad07e26737]: Commencement: [Art. 6](https://www.legislation.gov.uk/wsi/2021/1216/article/6) in force at 5.5.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1216/article/1/3)
 
-[^key-5543c10317db9270545aa0012c25a424]: Commencement: Sch. in force at 3.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1216/article/1/2)
+[^c-5543c10317db9270545aa0012c25a424]: Commencement: Sch. in force at 3.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1216/article/1/2)
 
-[^key-04def201ff876172ddd42061bee838cd]: Commencement: [Sch.](https://www.legislation.gov.uk/wsi/2021/1216/schedule) in force at 5.5.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1216/article/1/3)
+[^c-04def201ff876172ddd42061bee838cd]: Commencement: [Sch.](https://www.legislation.gov.uk/wsi/2021/1216/schedule) in force at 5.5.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1216/article/1/3)

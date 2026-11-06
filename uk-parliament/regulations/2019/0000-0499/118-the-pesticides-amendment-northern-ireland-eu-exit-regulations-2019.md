@@ -36,7 +36,7 @@ Agriculture, Northern Ireland
 
 Pesticides, Northern Ireland
 
-The Pesticides (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (revoked)[^key-4b13840bebf4f784d14626ce6a54999a]
+The Pesticides (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (revoked)[^c-4b13840bebf4f784d14626ce6a54999a]
 
 Sift requirements satisfied
 
@@ -52,39 +52,39 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 1(1)
 
-[^key-4b13840bebf4f784d14626ce6a54999a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4b13840bebf4f784d14626ce6a54999a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation, commencement and extent[^key-4b13840bebf4f784d14626ce6a54999a]
-
-**Not yet in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Amendment of the Pesticides (Maximum Residue Levels) Regulations (Northern Ireland) 2008[^key-4b13840bebf4f784d14626ce6a54999a]
+## 1. Citation, commencement and extent[^c-4b13840bebf4f784d14626ce6a54999a]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Saving: the Pesticides (Maximum Residue Levels) Regulations (Northern Ireland) 2008[^key-4b13840bebf4f784d14626ce6a54999a]
+## 2. Amendment of the Pesticides (Maximum Residue Levels) Regulations (Northern Ireland) 2008[^c-4b13840bebf4f784d14626ce6a54999a]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Plant Protection Products Regulations (Northern Ireland) 2011[^key-4b13840bebf4f784d14626ce6a54999a]
+## 3. Saving: the Pesticides (Maximum Residue Levels) Regulations (Northern Ireland) 2008[^c-4b13840bebf4f784d14626ce6a54999a]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Saving: the Plant Protection Products Regulations (Northern Ireland) 2011[^key-4b13840bebf4f784d14626ce6a54999a]
+## 4. Amendment of the Plant Protection Products Regulations (Northern Ireland) 2011[^c-4b13840bebf4f784d14626ce6a54999a]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-4b13840bebf4f784d14626ce6a54999a]
+## 5. Saving: the Plant Protection Products Regulations (Northern Ireland) 2011[^c-4b13840bebf4f784d14626ce6a54999a]
+
+**Not yet in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 6.[^c-4b13840bebf4f784d14626ce6a54999a]
 
 **Not yet in force.**
 
@@ -92,12 +92,12 @@ Coming into force in accordance with regulation 1(1)
 
 **May not be in force at this date. Check the source.**
 
-[^key-4b13840bebf4f784d14626ce6a54999a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4b13840bebf4f784d14626ce6a54999a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4b13840bebf4f784d14626ce6a54999a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4b13840bebf4f784d14626ce6a54999a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4b13840bebf4f784d14626ce6a54999a]: Textual amendment: Regulations revoked (31.12.2020 immediately before IP completion day) by [The Pesticides and Invasive Alien Species (Enforcement and Permitting)(Amendment)(EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/268)](https://www.legislation.gov.uk/nisr/2020/268), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/268/regulation/1/2), [3](https://www.legislation.gov.uk/nisr/2020/268/regulation/3)
+[^c-4b13840bebf4f784d14626ce6a54999a]: Textual amendment: Regulations revoked (31.12.2020 immediately before IP completion day) by [The Pesticides and Invasive Alien Species (Enforcement and Permitting)(Amendment)(EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/268)](https://www.legislation.gov.uk/nisr/2020/268), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/268/regulation/1/2), [3](https://www.legislation.gov.uk/nisr/2020/268/regulation/3)

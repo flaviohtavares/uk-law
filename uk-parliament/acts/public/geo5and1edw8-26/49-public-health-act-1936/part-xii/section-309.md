@@ -24,7 +24,7 @@ summary: ''
 
 (2) For the purpose of obtaining payment from constituent districts or contributory places of the sums to be contributed by them, a joint board shall issue precepts to the local authority of each district concerned, stating the sum to be contributed by the authority and requiring the authority, within a time limited by the precept, to pay the sums therein mentioned to the joint board, or to such person as the joint board may direct.
 
-(3) Any sum mentioned in a precept issued under this section by a joint board to a local authority shall be a debt due from that authority, and may be recovered accordingly. [^key-9577de54671d2db2c000626438b9a278]...
+(3) Any sum mentioned in a precept issued under this section by a joint board to a local authority shall be a debt due from that authority, and may be recovered accordingly. [^c-9577de54671d2db2c000626438b9a278]...
 
 (4)[^c611848] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -34,7 +34,7 @@ summary: ''
 
 ## Annotations
 
-[^key-9577de54671d2db2c000626438b9a278]: Textual amendment: Words in s. 309(3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/13)
+[^c-9577de54671d2db2c000626438b9a278]: Textual amendment: Words in s. 309(3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/13)
 
 [^c611848]: Textual amendment: S. 309(4) repealed (8.11.1995) by [1995 c. 44](https://www.legislation.gov.uk/ukpga/1995/44), [s. 1](https://www.legislation.gov.uk/ukpga/1995/44/section/1), [Sch. 1 Pt. VI](https://www.legislation.gov.uk/ukpga/1995/44/schedule/1/part/VI)
 

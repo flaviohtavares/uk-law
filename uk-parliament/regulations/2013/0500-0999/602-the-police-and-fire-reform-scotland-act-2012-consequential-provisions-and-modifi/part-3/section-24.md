@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Offences[^key-cdd3c1a4d95b2a0c7f4d5d12ef245c7d]
+## 24. Offences[^c-cdd3c1a4d95b2a0c7f4d5d12ef245c7d]
 
 *Extent: S*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cdd3c1a4d95b2a0c7f4d5d12ef245c7d]: Commencement: Art. 24 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
+[^c-cdd3c1a4d95b2a0c7f4d5d12ef245c7d]: Commencement: Art. 24 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
 
 [^f00030]: Footnote: [2005 asp 2](https://www.legislation.gov.uk/asp/2005/2). Section 1 of that Act was amended by the Fire (Scotland) Act [2005 (asp 5)](https://www.legislation.gov.uk/asp/2005/5), section 38(2) and Emergency Workers (Scotland) Act 2005 (Modification) Order 2008 ([S.S.I. 2008/37](https://www.legislation.gov.uk/ssi/2008/37)), article 2.

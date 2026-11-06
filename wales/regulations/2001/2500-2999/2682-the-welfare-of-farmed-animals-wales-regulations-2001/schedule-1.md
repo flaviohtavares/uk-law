@@ -34,7 +34,7 @@ Animals shall be cared for by a sufficient number of staff who possess the appro
 
 (3) Notwithstanding sub-paragraphs (1) and (2), in the following cases, it shall be sufficient for the purposes of this paragraph to comply with the following specific provisions —
 
-- (a)[^key-f2ff7ec185a0f175ffc6db3aba81cbfe] in the case of laying hens kept in all systems, paragraph 1 of Schedule 3D;
+- (a)[^c-f2ff7ec185a0f175ffc6db3aba81cbfe] in the case of laying hens kept in all systems, paragraph 1 of Schedule 3D;
 - (b) in the case of calves, paragraphs 3 and 4 of Schedule 4; and
 - (c) in the case of pigs, paragraph 2 of Schedule 6.
 
@@ -60,7 +60,7 @@ A record shall be maintained of —
 
 - (a) any medicinal treatment given to animals; and
 - (b) the number of mortalities found on each inspection of animals carried out in accordance with any of the following provisions —
-  - (i)[^key-dbf926f0c06810e17a50d76f6bb3276f] in the case of laying hens kept in all systems, paragraph 1 of Schedule 3D;
+  - (i)[^c-dbf926f0c06810e17a50d76f6bb3276f] in the case of laying hens kept in all systems, paragraph 1 of Schedule 3D;
   - (ii) in the case of calves, paragraph 3 or 4 of Schedule 4;
   - (iii) in the case of pigs, paragraph 2 of Schedule 6; or
   - (iv) in any other case, paragraph 2 of this Schedule.
@@ -132,6 +132,6 @@ No person shall apply an electrical current to any animals for the purposes of i
 
 ## Annotations
 
-[^key-f2ff7ec185a0f175ffc6db3aba81cbfe]: Textual amendment: Sch. 1 para. 2(3)(a) substituted (6.8.2002) by [The Welfare of Farmed Animals (Wales) (Amendment) Regulations 2002 (S.I. 2002/1898)](https://www.legislation.gov.uk/uksi/2002/1898), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2002/1898/regulation/1/2), [2(6)(a)](https://www.legislation.gov.uk/uksi/2002/1898/regulation/2/6/a)
+[^c-f2ff7ec185a0f175ffc6db3aba81cbfe]: Textual amendment: Sch. 1 para. 2(3)(a) substituted (6.8.2002) by [The Welfare of Farmed Animals (Wales) (Amendment) Regulations 2002 (S.I. 2002/1898)](https://www.legislation.gov.uk/uksi/2002/1898), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2002/1898/regulation/1/2), [2(6)(a)](https://www.legislation.gov.uk/uksi/2002/1898/regulation/2/6/a)
 
-[^key-dbf926f0c06810e17a50d76f6bb3276f]: Textual amendment: [Sch. 1 para. 7(b)(i)](https://www.legislation.gov.uk/wsi/2001/2682/schedule/1/paragraph/7/b/i) substituted (6.8.2002) by [The Welfare of Farmed Animals (Wales) (Amendment) Regulations 2002 (S.I. 2002/1898)](https://www.legislation.gov.uk/wsi/2002/1898), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2002/1898/regulation/1/2), [2(6)(b)](https://www.legislation.gov.uk/wsi/2002/1898/regulation/2/6/b)
+[^c-dbf926f0c06810e17a50d76f6bb3276f]: Textual amendment: [Sch. 1 para. 7(b)(i)](https://www.legislation.gov.uk/wsi/2001/2682/schedule/1/paragraph/7/b/i) substituted (6.8.2002) by [The Welfare of Farmed Animals (Wales) (Amendment) Regulations 2002 (S.I. 2002/1898)](https://www.legislation.gov.uk/wsi/2002/1898), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2002/1898/regulation/1/2), [2(6)(b)](https://www.legislation.gov.uk/wsi/2002/1898/regulation/2/6/b)

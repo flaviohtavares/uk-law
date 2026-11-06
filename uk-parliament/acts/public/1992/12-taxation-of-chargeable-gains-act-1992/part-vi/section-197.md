@@ -30,7 +30,7 @@ and section 12 of the [^c2138350]Oil Taxation Act 1975 (interpretation of Part I
 (2) In this section “**material disposal**” means—
 
 - (a) a disposal falling within paragraph (a) or paragraph (b) of subsection (1) above; or
-- (b) the sale of an asset referred to in section [^key-89504cd6537e96ef9e091f3bcfac0a0c]... 179(3) where the asset was acquired by the chargeable company (within the meaning of that section) on a disposal falling within one of those paragraphs.
+- (b) the sale of an asset referred to in section [^c-89504cd6537e96ef9e091f3bcfac0a0c]... 179(3) where the asset was acquired by the chargeable company (within the meaning of that section) on a disposal falling within one of those paragraphs.
 
 (3) For any chargeable period in which a chargeable gain or allowable loss accrues to any person (“**the chargeable person**”) on a material disposal (whether taking place in that period or not), subject to subsection (6) below there shall be aggregated—
 
@@ -47,7 +47,7 @@ and the lesser of the 2 aggregates shall be deducted from the other to give an a
 - (d) if in any chargeable period there is an aggregate gain, no loss shall be deducted from it except in accordance with paragraph (c) above; and
 - (e) without prejudice to any indexation allowance which was taken into account in determining an aggregate gain or aggregate loss under subsection (3) above, no further indexation allowance shall be allowed on a notional disposal referred to in paragraph (b) above.
 
-(4A)[^key-3c34ff78637fbd2692286e53d8dc4e7d] A deduction in respect of an aggregate loss accruing in a chargeable period that is (in accordance with subsection (4)(b) and (c)) allowable as a deduction against an aggregate gain treated as accruing in a later period is to be ignored for the purposes of section 269ZBA of CTA 2010 (corporate capital loss restriction: restriction on deductions from chargeable gains).
+(4A)[^c-3c34ff78637fbd2692286e53d8dc4e7d] A deduction in respect of an aggregate loss accruing in a chargeable period that is (in accordance with subsection (4)(b) and (c)) allowable as a deduction against an aggregate gain treated as accruing in a later period is to be ignored for the purposes of section 269ZBA of CTA 2010 (corporate capital loss restriction: restriction on deductions from chargeable gains).
 
 (5) In any case where—
 
@@ -77,6 +77,6 @@ the whole, or such part as is specified in the claim, of the excess referred to 
 
 [^c2138351]: Marginal citation: [1980 c. 48](https://www.legislation.gov.uk/ukpga/1980/48).
 
-[^key-89504cd6537e96ef9e091f3bcfac0a0c]: Textual amendment: Words in s. 197(2)(b) repealed (28.7.2000) by [Finance Act 2000 (c. 17)](https://www.legislation.gov.uk/ukpga/2000/17), [Sch. 40 Pt. II(12)](https://www.legislation.gov.uk/ukpga/2000/17/schedule/40/part/II/12)
+[^c-89504cd6537e96ef9e091f3bcfac0a0c]: Textual amendment: Words in s. 197(2)(b) repealed (28.7.2000) by [Finance Act 2000 (c. 17)](https://www.legislation.gov.uk/ukpga/2000/17), [Sch. 40 Pt. II(12)](https://www.legislation.gov.uk/ukpga/2000/17/schedule/40/part/II/12)
 
-[^key-3c34ff78637fbd2692286e53d8dc4e7d]: Textual amendment: S. 197(4A) inserted (with effect in relation to accounting periods beginning on or after 1.4.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 4 paras. 16](https://www.legislation.gov.uk/ukpga/2020/14/schedule/4/paragraph/16), [42](https://www.legislation.gov.uk/ukpga/2020/14/schedule/4/paragraph/42) (with [Sch. 4 paras. 43-46](https://www.legislation.gov.uk/ukpga/2020/14/schedule/4/paragraph/43))
+[^c-3c34ff78637fbd2692286e53d8dc4e7d]: Textual amendment: S. 197(4A) inserted (with effect in relation to accounting periods beginning on or after 1.4.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 4 paras. 16](https://www.legislation.gov.uk/ukpga/2020/14/schedule/4/paragraph/16), [42](https://www.legislation.gov.uk/ukpga/2020/14/schedule/4/paragraph/42) (with [Sch. 4 paras. 43-46](https://www.legislation.gov.uk/ukpga/2020/14/schedule/4/paragraph/43))

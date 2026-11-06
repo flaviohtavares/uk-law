@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Option for companies to keep information on central register[^key-da36979aa59582769bbbc3d9ab698141]
+## 94. Option for companies to keep information on central register[^c-da36979aa59582769bbbc3d9ab698141]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 5 amends the Companies Act 2006 to give private companies the option of
 
 ## Annotations
 
-[^key-da36979aa59582769bbbc3d9ab698141]: Commencement: [S. 94](https://www.legislation.gov.uk/ukpga/2015/26/section/94) in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/c)
+[^c-da36979aa59582769bbbc3d9ab698141]: Commencement: [S. 94](https://www.legislation.gov.uk/ukpga/2015/26/section/94) in force at 30.6.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 19 — Health protection regulations: Scotland[^key-f0302d3bb88f500650e85dcfdcbe6692]
+## SCHEDULE 19 — Health protection regulations: Scotland[^c-f0302d3bb88f500650e85dcfdcbe6692]
 
 *Extent: S*
 
@@ -24,30 +24,30 @@ summary: ''
 
 Section 49
 
-### Health protection regulations[^key-f0302d3bb88f500650e85dcfdcbe6692]
+### Health protection regulations[^c-f0302d3bb88f500650e85dcfdcbe6692]
 
-**1.**[^key-f0302d3bb88f500650e85dcfdcbe6692] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-f0302d3bb88f500650e85dcfdcbe6692] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Restrictions on power to make regulations under paragraph 1[^key-f0302d3bb88f500650e85dcfdcbe6692]
+### Restrictions on power to make regulations under paragraph 1[^c-f0302d3bb88f500650e85dcfdcbe6692]
 
-**2.**[^key-f0302d3bb88f500650e85dcfdcbe6692] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-f0302d3bb88f500650e85dcfdcbe6692] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Medical treatment[^key-f0302d3bb88f500650e85dcfdcbe6692]
+### Medical treatment[^c-f0302d3bb88f500650e85dcfdcbe6692]
 
-**3.**[^key-f0302d3bb88f500650e85dcfdcbe6692] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-f0302d3bb88f500650e85dcfdcbe6692] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Special restrictions and requirements[^key-f0302d3bb88f500650e85dcfdcbe6692]
+### Special restrictions and requirements[^c-f0302d3bb88f500650e85dcfdcbe6692]
 
-**4.**[^key-f0302d3bb88f500650e85dcfdcbe6692] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-f0302d3bb88f500650e85dcfdcbe6692] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Health protection regulations: supplementary[^key-f0302d3bb88f500650e85dcfdcbe6692]
+### Health protection regulations: supplementary[^c-f0302d3bb88f500650e85dcfdcbe6692]
 
-**5.**[^key-f0302d3bb88f500650e85dcfdcbe6692] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-f0302d3bb88f500650e85dcfdcbe6692] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Health protection regulations: procedure[^key-f0302d3bb88f500650e85dcfdcbe6692]
+### Health protection regulations: procedure[^c-f0302d3bb88f500650e85dcfdcbe6692]
 
-**6.**[^key-f0302d3bb88f500650e85dcfdcbe6692] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-f0302d3bb88f500650e85dcfdcbe6692] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f0302d3bb88f500650e85dcfdcbe6692]: Textual amendment: Sch. 19 expires (25.9.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
+[^c-f0302d3bb88f500650e85dcfdcbe6692]: Textual amendment: Sch. 19 expires (25.9.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))

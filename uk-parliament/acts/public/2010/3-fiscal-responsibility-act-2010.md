@@ -34,34 +34,34 @@ Fiscal Responsibility Act 2010 (repealed)
 
 \[10th February 2010\]
 
-[^key-1e3a145370033a625fc02fc618680fc9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1e3a145370033a625fc02fc618680fc9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Initial duties[^key-1e3a145370033a625fc02fc618680fc9][^key-1e3a145370033a625fc02fc618680fc9]
+## 1. Initial duties[^c-1e3a145370033a625fc02fc618680fc9][^c-1e3a145370033a625fc02fc618680fc9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Further duties for securing sound public finances[^key-1e3a145370033a625fc02fc618680fc9][^key-1e3a145370033a625fc02fc618680fc9]
+## 2. Further duties for securing sound public finances[^c-1e3a145370033a625fc02fc618680fc9][^c-1e3a145370033a625fc02fc618680fc9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Progress and compliance reports[^key-1e3a145370033a625fc02fc618680fc9][^key-1e3a145370033a625fc02fc618680fc9]
+## 3. Progress and compliance reports[^c-1e3a145370033a625fc02fc618680fc9][^c-1e3a145370033a625fc02fc618680fc9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Accountability to Parliament[^key-1e3a145370033a625fc02fc618680fc9][^key-1e3a145370033a625fc02fc618680fc9]
+## 4. Accountability to Parliament[^c-1e3a145370033a625fc02fc618680fc9][^c-1e3a145370033a625fc02fc618680fc9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Interpretation[^key-1e3a145370033a625fc02fc618680fc9][^key-1e3a145370033a625fc02fc618680fc9]
+## 5. Interpretation[^c-1e3a145370033a625fc02fc618680fc9][^c-1e3a145370033a625fc02fc618680fc9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Short title[^key-1e3a145370033a625fc02fc618680fc9][^key-1e3a145370033a625fc02fc618680fc9]
+## 6. Short title[^c-1e3a145370033a625fc02fc618680fc9][^c-1e3a145370033a625fc02fc618680fc9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1e3a145370033a625fc02fc618680fc9]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/2010/3) repealed (23.3.2011) by [Budget Responsibility and National Audit Act 2011 (c. 4)](https://www.legislation.gov.uk/ukpga/2011/4), [ss. 10(c)](https://www.legislation.gov.uk/ukpga/2011/4/section/10/c), [29](https://www.legislation.gov.uk/ukpga/2011/4/section/29); [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/892/schedule/1)
+[^c-1e3a145370033a625fc02fc618680fc9]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/2010/3) repealed (23.3.2011) by [Budget Responsibility and National Audit Act 2011 (c. 4)](https://www.legislation.gov.uk/ukpga/2011/4), [ss. 10(c)](https://www.legislation.gov.uk/ukpga/2011/4/section/10/c), [29](https://www.legislation.gov.uk/ukpga/2011/4/section/29); [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/892/schedule/1)

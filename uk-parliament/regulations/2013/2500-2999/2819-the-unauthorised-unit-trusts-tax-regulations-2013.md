@@ -81,8 +81,8 @@ In these Regulations—
 (1) For the purposes of these Regulations an unauthorised unit trust is an “exempt unauthorised unit trust” with respect to a period of account if—
 
 - (a) its trustees are UK resident for the period,
-- (b) throughout the period all of its unit holders are eligible investors,[^key-217478c7ab6b42c7deda2dee01f86fe5]...
-- (c) it is approved under these Regulations for the period, and[^key-bd6827c63e358658e12db4f92575b25d]
+- (b) throughout the period all of its unit holders are eligible investors,[^c-217478c7ab6b42c7deda2dee01f86fe5]...
+- (c) it is approved under these Regulations for the period, and[^c-bd6827c63e358658e12db4f92575b25d]
 - (d) it is not treated by regulations made in exercise of the powers conferred by section 1007(2) of ITA 2007 as not being a unit trust scheme for the purposes of the definition of “unauthorised unit trust” in section 989 of that Act.
 
 (2) For the purposes of these Regulations a unit holder is an “eligible investor” if—
@@ -209,14 +209,14 @@ Gains accruing to an exempt unauthorised unit trust are not chargeable gains for
 
 (1) The income of an exempt unauthorised unit trust for a tax year is taken to be the income of the exempt unauthorised unit trust arising in a basis period for the tax year.
 
-(2) The general rule is that the basis period for a tax year (the current year)[^key-41b050c59a6fd34e94472a73271f1a07] for an exempt unauthorised unit trust is the period beginning immediately after the end of the basis period for the previous tax year and ending with the accounting date in the current year[^key-c2a56a902c868aeac109252a299a387f].
+(2) The general rule is that the basis period for a tax year (the current year)[^c-41b050c59a6fd34e94472a73271f1a07] for an exempt unauthorised unit trust is the period beginning immediately after the end of the basis period for the previous tax year and ending with the accounting date in the current year[^c-c2a56a902c868aeac109252a299a387f].
 
 (3) The accounting date, in relation to a tax year, means—
 
 - (a) the date in the tax year to which accounts are drawn up, or
 - (b) if there are two or more such dates, the latest of them.
 
-(3A)[^key-828cc62ffb5b2fc941296e5ddc5eafe5] In the first tax year that a trust is an exempt unauthorised unit trust the basis period for the tax year is the period—
+(3A)[^c-828cc62ffb5b2fc941296e5ddc5eafe5] In the first tax year that a trust is an exempt unauthorised unit trust the basis period for the tax year is the period—
 
 - (a) beginning on the first day of the first period of account in respect of which the trust is approved under these Regulations as an exempt unauthorised unit trust, and
 - (b) ending with the accounting date in that year.
@@ -224,12 +224,12 @@ Gains accruing to an exempt unauthorised unit trust are not chargeable gains for
 (4) If there is no accounting date in the first tax year that the trust is an exempt unauthorised unit trust but there is an accounting date in the following tax year—
 
 - (a) there is no basis period for the first tax year (so that the trust has no income for that year), but
-- (b) the basis period for the following year is the period beginning on the first day of the first period of account in respect of which the trust is approved under these Regulations as an exempt unauthorised trust and[^key-edf80808412a356bc457cedb9adf0655] ending with the accounting date in that year.
+- (b) the basis period for the following year is the period beginning on the first day of the first period of account in respect of which the trust is approved under these Regulations as an exempt unauthorised trust and[^c-edf80808412a356bc457cedb9adf0655] ending with the accounting date in that year.
 
 (5) If there is no accounting date in the first two tax years that the trust is an exempt unauthorised unit trust—
 
-- (a) there is no basis period for those years[^key-b0bec04e0fcbd1955db81162ca14e929] (so that the trust has no income for those years[^key-c5851b05f3bb6300e5643c560b2273a0]), but
-- (b)[^key-df25c02bf1397114384b6d4bf6408bfc] the basis period for the third tax year that the trust is an exempt unauthorised unit trust is the period—
+- (a) there is no basis period for those years[^c-b0bec04e0fcbd1955db81162ca14e929] (so that the trust has no income for those years[^c-c5851b05f3bb6300e5643c560b2273a0]), but
+- (b)[^c-df25c02bf1397114384b6d4bf6408bfc] the basis period for the third tax year that the trust is an exempt unauthorised unit trust is the period—
   - (i) beginning on the first day of the first period of account in respect of which the trust is approved under these Regulations as an exempt unauthorised unit trust, and
   - (ii) ending with the accounting date in that year.
 
@@ -253,11 +253,11 @@ and the steps must be taken by reference to the number of days in the periods co
 (3) None of the following applies in relation to the income—
 
 - (a) sections 397(1) and 397A(1) [^c21933161] of ITTOIA 2005 (tax credits for qualifying distributions),
-- (b)[^key-b81737ea0f004c7f91741cc1c166f536] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-b81737ea0f004c7f91741cc1c166f536] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) section 400(2) and (3) of ITTOIA 2005 (person whose income includes non-qualifying distribution treated as having paid income tax), and
 - (d) section 479 of ITA 2007 (trustees' accumulated or discretionary income to be charged at special rates).
 
-(3A)[^key-d3e5230936c5fb5a881e5208cdb2344c] Subsections (1) to (4) of section 272A of ITTOIA 2005 (restricting deductions for finance costs related to residential property) do not apply in relation to calculating the profits of a UK property business, or overseas property business, for the purposes of charging the trustees of an exempt unauthorised unit trust to income tax on those profits.
+(3A)[^c-d3e5230936c5fb5a881e5208cdb2344c] Subsections (1) to (4) of section 272A of ITTOIA 2005 (restricting deductions for finance costs related to residential property) do not apply in relation to calculating the profits of a UK property business, or overseas property business, for the purposes of charging the trustees of an exempt unauthorised unit trust to income tax on those profits.
 
 (4) Sections 494, 495 and 496B of ITA 2007 [^c21933171] (discretionary payments) do not apply in relation to payments made by the trustees.
 
@@ -339,7 +339,7 @@ is dealt with under Part 3 of ITTOIA 2005 or Part 4 of CTA 2009.
 
 ### CHAPTER 6 — Relief for trustees of an exempt unauthorised unit trust
 
-#### 18. Relief for deemed payments by trustees of an exempt unauthorised unit trust[^key-29b04f1c74e72b589ada5d1933b4adb2]
+#### 18. Relief for deemed payments by trustees of an exempt unauthorised unit trust[^c-29b04f1c74e72b589ada5d1933b4adb2]
 
 (1) If the unit holders of an exempt unauthorised unit trust are treated as receiving income under regulation 15(2), the trustees are treated as making a deemed payment of the same amount on the final day of the period of account referred to in regulation 15(2).
 
@@ -423,17 +423,17 @@ Relief is not to be given under regulation 18 for any part of a deemed payment s
   - (iii) it is published in such a way that it is widely available, and
 - (c) it is calculated and published by a body which is managed independently from the management of the exempt unauthorised unit trust.
 
-(3)[^key-5d51f1babe88b4af29c82f5865bfc932] In this regulation “regulated market” means—
+(3)[^c-5d51f1babe88b4af29c82f5865bfc932] In this regulation “regulated market” means—
 
 - (a) a UK regulated market within the meaning given by Article 2.1(13A) of Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments,
 - (b) an EU regulated market within the meaning given by Article 2.1(13B) of that Regulation, and
-- (c)[^key-33e85bd86fe881edfcdb1f119c9d2a34] a Gibraltar regulated market within the meaning given by Article 26(11)(b)(i) of that Regulation.
+- (c)[^c-33e85bd86fe881edfcdb1f119c9d2a34] a Gibraltar regulated market within the meaning given by Article 26(11)(b)(i) of that Regulation.
 
 #### 24. Treatment of investment transactions carried out by exempt unauthorised unit trusts
 
 (1) An investment transaction entered into by the trustees of an exempt unauthorised unit trust is treated for the purposes of the Income Tax Acts as entered into otherwise than in the course of a trade.
 
-(2)[^key-ddfeb62781be127dcb962a2d38fbbc0a] For the purposes of paragraph (1) an “investment transaction” is an investment transaction specified by regulation 2 of the Investment Transactions (Tax) Regulations 2014.
+(2)[^c-ddfeb62781be127dcb962a2d38fbbc0a] For the purposes of paragraph (1) an “investment transaction” is an investment transaction specified by regulation 2 of the Investment Transactions (Tax) Regulations 2014.
 
 #### 25. Authorised investment funds investing in exempt unauthorised unit trusts
 
@@ -454,7 +454,7 @@ A unit holder of an exempt unauthorised unit trust is entitled by notice to requ
 
 #### 27. Definition of non-exempt unauthorised unit trust
 
-An unauthorised unit trust is a “non-exempt unauthorised unit trust” if it is not—[^key-788d8b643cef008f558d5dc2b4a168ea]
+An unauthorised unit trust is a “non-exempt unauthorised unit trust” if it is not—[^c-788d8b643cef008f558d5dc2b4a168ea]
 
 - (a) an exempt unauthorised unit trust, or
 - (b) treated by regulations made in exercise of the powers conferred by section 1007(2) of ITA 2007 as not being a unit trust scheme for the purposes of the definition of “unauthorised unit trust” in section 989 of that Act.
@@ -474,7 +474,7 @@ An unauthorised unit trust is a “non-exempt unauthorised unit trust” if it i
 
 Part 3 of CTA 2010 (relief for companies with small profits) does not apply in relation to a non-exempt unauthorised unit trust.
 
-#### 29A. Application of section 490 of CTA 2009 to non-exempt unauthorised unit trusts[^key-a7652af074598673649dda38d17fddf7]
+#### 29A. Application of section 490 of CTA 2009 to non-exempt unauthorised unit trusts[^c-a7652af074598673649dda38d17fddf7]
 
 Section 490 of CTA 2009 does not apply to any rights held by a company under a non-exempt unauthorised unit trust scheme.
 
@@ -533,7 +533,7 @@ as received by its unit holders on or after 6 April 2014 or that later date is t
 
 (2) But paragraph (1) ceases to apply in relation to the trust if subsequently it no longer has any unit holders which are eligible investors.
 
-(3)[^key-f5ea579e805bdb638a943d9686d137ab] Where paragraph (1) applies, section 504 of ITA 2007 shall be read as if it included after subsection (4)—
+(3)[^c-f5ea579e805bdb638a943d9686d137ab] Where paragraph (1) applies, section 504 of ITA 2007 shall be read as if it included after subsection (4)—
 
 > (4A) Subsections (1) to (4) of section 272A of ITTOIA 2005 (restricting deductions for finance costs related to residential property) do not apply in relation to calculating the profits of a UK property business, or overseas property business, for the purposes of charging the trustees to income tax on those profits.
 
@@ -778,37 +778,37 @@ A Tax Information and Impact Note covering this Instrument has been published on
 
 [^c21933131]: Marginal citation: [S.I. 2009/3001](https://www.legislation.gov.uk/uksi/2009/3001), amended by [S.I. 2009/3139](https://www.legislation.gov.uk/uksi/2009/3139), 2010/294, 2011/1211, 2011/2192, 2011/2999, 2013/661, 2013/1411 and 2013/1770.
 
-[^key-217478c7ab6b42c7deda2dee01f86fe5]: Textual amendment: Word in [reg. 3(1)(b)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/3/1/b) omitted (6.4.2014) by virtue of [The Unauthorised Unit Trusts (Tax) (Amendment) Regulations 2014 (S.I. 2014/585)](https://www.legislation.gov.uk/uksi/2014/585), [regs. 1](https://www.legislation.gov.uk/uksi/2014/585/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2014/585/regulation/3/a)
+[^c-217478c7ab6b42c7deda2dee01f86fe5]: Textual amendment: Word in [reg. 3(1)(b)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/3/1/b) omitted (6.4.2014) by virtue of [The Unauthorised Unit Trusts (Tax) (Amendment) Regulations 2014 (S.I. 2014/585)](https://www.legislation.gov.uk/uksi/2014/585), [regs. 1](https://www.legislation.gov.uk/uksi/2014/585/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2014/585/regulation/3/a)
 
-[^key-bd6827c63e358658e12db4f92575b25d]: Textual amendment: [Reg. 3(1)(d)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/3/1/d) and word inserted (6.4.2014) by virtue of [The Unauthorised Unit Trusts (Tax) (Amendment) Regulations 2014 (S.I. 2014/585)](https://www.legislation.gov.uk/uksi/2014/585), [regs. 1](https://www.legislation.gov.uk/uksi/2014/585/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2014/585/regulation/3/b)
+[^c-bd6827c63e358658e12db4f92575b25d]: Textual amendment: [Reg. 3(1)(d)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/3/1/d) and word inserted (6.4.2014) by virtue of [The Unauthorised Unit Trusts (Tax) (Amendment) Regulations 2014 (S.I. 2014/585)](https://www.legislation.gov.uk/uksi/2014/585), [regs. 1](https://www.legislation.gov.uk/uksi/2014/585/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2014/585/regulation/3/b)
 
 [^c21933141]: Marginal citation: [1970 c.9](https://www.legislation.gov.uk/ukpga/1970/9). Section 8A was inserted by section 90 of the [Finance Act 1990 (c.29)](https://www.legislation.gov.uk/ukpga/1990/29) and amended by sections 178(2) of the [Finance Act 1994 (c.9)](https://www.legislation.gov.uk/ukpga/1994/9), by section 103 of the [Finance Act 1995 (c.4)](https://www.legislation.gov.uk/ukpga/1995/4), by section 121 of the [Finance Act 1996 (c.8)](https://www.legislation.gov.uk/ukpga/1996/8), by paragraph 360 of Schedule 1 to the [Income Tax (Trading and Other Income) Act 2005 (c.5)](https://www.legislation.gov.uk/ukpga/2005/5) (referred to as “**ITTOIA 2005**” in the remaining footnotes), by sections 89 of and Part 5(3) of Schedule 27 to the [Finance Act 2007 (c.11)](https://www.legislation.gov.uk/ukpga/2007/11), by paragraph 9 of Schedule 12 to the [Finance Act 2008 (c.9)](https://www.legislation.gov.uk/ukpga/2008/9) (referred to as “**FA 2008**” in the remaining footnotes), and by section 40 of and paragraph 9 of Schedule 19 to the [Finance Act 2009 (c.10)](https://www.legislation.gov.uk/ukpga/2009/10) (referred to as “**FA 2009**” in the remaining footnotes).
 
 [^c21933151]: Marginal citation: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-41b050c59a6fd34e94472a73271f1a07]: Textual amendment: Words in [reg. 11(2)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/11/2) inserted (6.4.2015) by [The Unauthorised Unit Trusts (Tax) (Amendment) Regulations 2015 (S.I. 2015/463)](https://www.legislation.gov.uk/uksi/2015/463), [regs. 1](https://www.legislation.gov.uk/uksi/2015/463/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2015/463/regulation/2/2/a)
+[^c-41b050c59a6fd34e94472a73271f1a07]: Textual amendment: Words in [reg. 11(2)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/11/2) inserted (6.4.2015) by [The Unauthorised Unit Trusts (Tax) (Amendment) Regulations 2015 (S.I. 2015/463)](https://www.legislation.gov.uk/uksi/2015/463), [regs. 1](https://www.legislation.gov.uk/uksi/2015/463/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2015/463/regulation/2/2/a)
 
-[^key-c2a56a902c868aeac109252a299a387f]: Textual amendment: Words in [reg. 11(2)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/11/2) substituted (6.4.2015) by [The Unauthorised Unit Trusts (Tax) (Amendment) Regulations 2015 (S.I. 2015/463)](https://www.legislation.gov.uk/uksi/2015/463), [regs. 1](https://www.legislation.gov.uk/uksi/2015/463/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2015/463/regulation/2/2/b)
+[^c-c2a56a902c868aeac109252a299a387f]: Textual amendment: Words in [reg. 11(2)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/11/2) substituted (6.4.2015) by [The Unauthorised Unit Trusts (Tax) (Amendment) Regulations 2015 (S.I. 2015/463)](https://www.legislation.gov.uk/uksi/2015/463), [regs. 1](https://www.legislation.gov.uk/uksi/2015/463/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2015/463/regulation/2/2/b)
 
-[^key-828cc62ffb5b2fc941296e5ddc5eafe5]: Textual amendment: [Reg. 11(3A)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/11/3A) inserted (6.4.2015) by [The Unauthorised Unit Trusts (Tax) (Amendment) Regulations 2015 (S.I. 2015/463)](https://www.legislation.gov.uk/uksi/2015/463), [regs. 1](https://www.legislation.gov.uk/uksi/2015/463/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2015/463/regulation/2/3)
+[^c-828cc62ffb5b2fc941296e5ddc5eafe5]: Textual amendment: [Reg. 11(3A)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/11/3A) inserted (6.4.2015) by [The Unauthorised Unit Trusts (Tax) (Amendment) Regulations 2015 (S.I. 2015/463)](https://www.legislation.gov.uk/uksi/2015/463), [regs. 1](https://www.legislation.gov.uk/uksi/2015/463/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2015/463/regulation/2/3)
 
-[^key-edf80808412a356bc457cedb9adf0655]: Textual amendment: Words in [reg. 11(4)(b)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/11/4/b) substituted (6.4.2015) by [The Unauthorised Unit Trusts (Tax) (Amendment) Regulations 2015 (S.I. 2015/463)](https://www.legislation.gov.uk/uksi/2015/463), [regs. 1](https://www.legislation.gov.uk/uksi/2015/463/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2015/463/regulation/2/4)
+[^c-edf80808412a356bc457cedb9adf0655]: Textual amendment: Words in [reg. 11(4)(b)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/11/4/b) substituted (6.4.2015) by [The Unauthorised Unit Trusts (Tax) (Amendment) Regulations 2015 (S.I. 2015/463)](https://www.legislation.gov.uk/uksi/2015/463), [regs. 1](https://www.legislation.gov.uk/uksi/2015/463/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2015/463/regulation/2/4)
 
-[^key-b0bec04e0fcbd1955db81162ca14e929]: Textual amendment: Words in [reg. 11(5)(a)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/11/5/a) substituted (6.4.2015) by [The Unauthorised Unit Trusts (Tax) (Amendment) Regulations 2015 (S.I. 2015/463)](https://www.legislation.gov.uk/uksi/2015/463), [regs. 1](https://www.legislation.gov.uk/uksi/2015/463/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2015/463/regulation/2/5/a)
+[^c-b0bec04e0fcbd1955db81162ca14e929]: Textual amendment: Words in [reg. 11(5)(a)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/11/5/a) substituted (6.4.2015) by [The Unauthorised Unit Trusts (Tax) (Amendment) Regulations 2015 (S.I. 2015/463)](https://www.legislation.gov.uk/uksi/2015/463), [regs. 1](https://www.legislation.gov.uk/uksi/2015/463/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2015/463/regulation/2/5/a)
 
-[^key-c5851b05f3bb6300e5643c560b2273a0]: Textual amendment: Words in [reg. 11(5)(a)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/11/5/a) substituted (6.4.2015) by [The Unauthorised Unit Trusts (Tax) (Amendment) Regulations 2015 (S.I. 2015/463)](https://www.legislation.gov.uk/uksi/2015/463), [regs. 1](https://www.legislation.gov.uk/uksi/2015/463/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2015/463/regulation/2/5/b)
+[^c-c5851b05f3bb6300e5643c560b2273a0]: Textual amendment: Words in [reg. 11(5)(a)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/11/5/a) substituted (6.4.2015) by [The Unauthorised Unit Trusts (Tax) (Amendment) Regulations 2015 (S.I. 2015/463)](https://www.legislation.gov.uk/uksi/2015/463), [regs. 1](https://www.legislation.gov.uk/uksi/2015/463/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2015/463/regulation/2/5/b)
 
-[^key-df25c02bf1397114384b6d4bf6408bfc]: Textual amendment: [Reg. 11(5)(b)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/11/5/b) substituted (6.4.2015) by [The Unauthorised Unit Trusts (Tax) (Amendment) Regulations 2015 (S.I. 2015/463)](https://www.legislation.gov.uk/uksi/2015/463), [regs. 1](https://www.legislation.gov.uk/uksi/2015/463/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2015/463/regulation/2/6)
+[^c-df25c02bf1397114384b6d4bf6408bfc]: Textual amendment: [Reg. 11(5)(b)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/11/5/b) substituted (6.4.2015) by [The Unauthorised Unit Trusts (Tax) (Amendment) Regulations 2015 (S.I. 2015/463)](https://www.legislation.gov.uk/uksi/2015/463), [regs. 1](https://www.legislation.gov.uk/uksi/2015/463/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2015/463/regulation/2/6)
 
 [^c21933161]: Marginal citation: [2005 c.5](https://www.legislation.gov.uk/ukpga/2005/5). Section 397A was inserted by paragraph 4 of Schedule 12 to FA 2008.
 
-[^key-b81737ea0f004c7f91741cc1c166f536]: Textual amendment: [Reg. 12(3)(b)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/12/3/b) omitted (for the tax year 2026-27 and subsequent tax years) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 42(4)(5)](https://www.legislation.gov.uk/ukpga/2026/11/section/42/4/5)
+[^c-b81737ea0f004c7f91741cc1c166f536]: Textual amendment: [Reg. 12(3)(b)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/12/3/b) omitted (for the tax year 2026-27 and subsequent tax years) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 42(4)(5)](https://www.legislation.gov.uk/ukpga/2026/11/section/42/4/5)
 
-[^key-d3e5230936c5fb5a881e5208cdb2344c]: Textual amendment: [Reg. 12(3A)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/12/3A) inserted (7.1.2016) by [The Unauthorised Unit Trusts (Tax) (Amendment No. 2) Regulations 2015 (S.I. 2015/2053)](https://www.legislation.gov.uk/uksi/2015/2053), [regs. 1](https://www.legislation.gov.uk/uksi/2015/2053/regulation/1), [3](https://www.legislation.gov.uk/uksi/2015/2053/regulation/3)
+[^c-d3e5230936c5fb5a881e5208cdb2344c]: Textual amendment: [Reg. 12(3A)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/12/3A) inserted (7.1.2016) by [The Unauthorised Unit Trusts (Tax) (Amendment No. 2) Regulations 2015 (S.I. 2015/2053)](https://www.legislation.gov.uk/uksi/2015/2053), [regs. 1](https://www.legislation.gov.uk/uksi/2015/2053/regulation/1), [3](https://www.legislation.gov.uk/uksi/2015/2053/regulation/3)
 
 [^c21933171]: Marginal citation: [2007 c.3](https://www.legislation.gov.uk/ukpga/2007/3). Section 496B was inserted by [S.I. 2010/157](https://www.legislation.gov.uk/uksi/2010/157).
 
-[^key-29b04f1c74e72b589ada5d1933b4adb2]: Modification: [Reg. 18](https://www.legislation.gov.uk/uksi/2013/2819/regulation/18) excluded (with effect in accordance with Sch. 18 para. 63 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 18 para. 20(15)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/18/paragraph/20/15)
+[^c-29b04f1c74e72b589ada5d1933b4adb2]: Modification: [Reg. 18](https://www.legislation.gov.uk/uksi/2013/2819/regulation/18) excluded (with effect in accordance with Sch. 18 para. 63 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 18 para. 20(15)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/18/paragraph/20/15)
 
 [^c21933181]: Marginal citation: [Section 23](https://www.legislation.gov.uk/uksi/2013/2819/section/23) was amended by section 5 of and paragraph 6(o)(i) of Schedule 1 to FA 2009.
 
@@ -816,17 +816,17 @@ A Tax Information and Impact Note covering this Instrument has been published on
 
 [^c21933201]: Marginal citation: [Regulation 12](https://www.legislation.gov.uk/uksi/2013/2819/regulation/12) was amended by [S.I. 2011/1121](https://www.legislation.gov.uk/uksi/2011/1121).
 
-[^key-5d51f1babe88b4af29c82f5865bfc932]: Textual amendment: [Reg. 23(3)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/23/3) substituted (31.12.2020) by [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [34(2)](https://www.legislation.gov.uk/uksi/2019/689/regulation/34/2) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5d51f1babe88b4af29c82f5865bfc932]: Textual amendment: [Reg. 23(3)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/23/3) substituted (31.12.2020) by [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [34(2)](https://www.legislation.gov.uk/uksi/2019/689/regulation/34/2) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-33e85bd86fe881edfcdb1f119c9d2a34]: Textual amendment: [Reg. 23(3)(c)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/23/3/c) substituted (31.12.2020) by [The Taxes (Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/818)](https://www.legislation.gov.uk/uksi/2019/818), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/818/regulation/1/3), [13(2)](https://www.legislation.gov.uk/uksi/2019/818/regulation/13/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-33e85bd86fe881edfcdb1f119c9d2a34]: Textual amendment: [Reg. 23(3)(c)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/23/3/c) substituted (31.12.2020) by [The Taxes (Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/818)](https://www.legislation.gov.uk/uksi/2019/818), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/818/regulation/1/3), [13(2)](https://www.legislation.gov.uk/uksi/2019/818/regulation/13/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ddfeb62781be127dcb962a2d38fbbc0a]: Textual amendment: Reg. 24(2) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Investment Transactions (Tax) Regulations 2014 (S.I. 2014/685)](https://www.legislation.gov.uk/uksi/2014/685), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/685/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2014/685/regulation/10)
+[^c-ddfeb62781be127dcb962a2d38fbbc0a]: Textual amendment: Reg. 24(2) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Investment Transactions (Tax) Regulations 2014 (S.I. 2014/685)](https://www.legislation.gov.uk/uksi/2014/685), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/685/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2014/685/regulation/10)
 
-[^key-788d8b643cef008f558d5dc2b4a168ea]: Textual amendment: Words in [reg. 27](https://www.legislation.gov.uk/uksi/2013/2819/regulation/27) substituted (6.4.2014) by [The Unauthorised Unit Trusts (Tax) (Amendment) Regulations 2014 (S.I. 2014/585)](https://www.legislation.gov.uk/uksi/2014/585), [regs. 1](https://www.legislation.gov.uk/uksi/2014/585/regulation/1), [4](https://www.legislation.gov.uk/uksi/2014/585/regulation/4)
+[^c-788d8b643cef008f558d5dc2b4a168ea]: Textual amendment: Words in [reg. 27](https://www.legislation.gov.uk/uksi/2013/2819/regulation/27) substituted (6.4.2014) by [The Unauthorised Unit Trusts (Tax) (Amendment) Regulations 2014 (S.I. 2014/585)](https://www.legislation.gov.uk/uksi/2014/585), [regs. 1](https://www.legislation.gov.uk/uksi/2014/585/regulation/1), [4](https://www.legislation.gov.uk/uksi/2014/585/regulation/4)
 
-[^key-a7652af074598673649dda38d17fddf7]: Textual amendment: Reg. 29A inserted (6.4.2014) by [The Unauthorised Unit Trusts (Tax) (Amendment) Regulations 2014 (S.I. 2014/585)](https://www.legislation.gov.uk/uksi/2014/585), [regs. 1](https://www.legislation.gov.uk/uksi/2014/585/regulation/1), [5](https://www.legislation.gov.uk/uksi/2014/585/regulation/5)
+[^c-a7652af074598673649dda38d17fddf7]: Textual amendment: Reg. 29A inserted (6.4.2014) by [The Unauthorised Unit Trusts (Tax) (Amendment) Regulations 2014 (S.I. 2014/585)](https://www.legislation.gov.uk/uksi/2014/585), [regs. 1](https://www.legislation.gov.uk/uksi/2014/585/regulation/1), [5](https://www.legislation.gov.uk/uksi/2014/585/regulation/5)
 
-[^key-f5ea579e805bdb638a943d9686d137ab]: Textual amendment: [Reg. 32(3)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/32/3) inserted (7.1.2016) by [The Unauthorised Unit Trusts (Tax) (Amendment No. 2) Regulations 2015 (S.I. 2015/2053)](https://www.legislation.gov.uk/uksi/2015/2053), [regs. 1](https://www.legislation.gov.uk/uksi/2015/2053/regulation/1), [4](https://www.legislation.gov.uk/uksi/2015/2053/regulation/4)
+[^c-f5ea579e805bdb638a943d9686d137ab]: Textual amendment: [Reg. 32(3)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/32/3) inserted (7.1.2016) by [The Unauthorised Unit Trusts (Tax) (Amendment No. 2) Regulations 2015 (S.I. 2015/2053)](https://www.legislation.gov.uk/uksi/2015/2053), [regs. 1](https://www.legislation.gov.uk/uksi/2015/2053/regulation/1), [4](https://www.legislation.gov.uk/uksi/2015/2053/regulation/4)
 
 [^c21933231]: Marginal citation: [1959 c.49](https://www.legislation.gov.uk/ukpga/1959/49). Section 2 was amended by Part I of Schedule 13 to the [Finance Act 1963 (c.25)](https://www.legislation.gov.uk/ukpga/1963/25), by section 4 of the [Chevening Estate Act 1987 (c.20)](https://www.legislation.gov.uk/ukpga/1987/20), by paragraph 356 of Part 2 of Schedule 1 and Schedule 3 to ITTOIA 2005 and by paragraph 241 of Part 2 of Schedule 1 to the [Income Tax Act 2007 (c.3)](https://www.legislation.gov.uk/ukpga/2007/3) (referred to as “**ITA 2007**” in the remaining footnotes).
 

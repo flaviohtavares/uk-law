@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 276B. Cases where person has been detained for at least 10 years[^key-9b07e3d60d9a898e14616dc66aaecbf3]
+## 276B. Cases where person has been detained for at least 10 years[^c-9b07e3d60d9a898e14616dc66aaecbf3]
 
 *Extent: E+W+S+N.I.*
 
@@ -69,4 +69,4 @@ as mentioned in section 276(1).
 
 ## Annotations
 
-[^key-9b07e3d60d9a898e14616dc66aaecbf3]: Textual amendment: Ss. 276A, 276B inserted (31.10.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 25 para. 30](https://www.legislation.gov.uk/ukpga/2008/4/schedule/25/paragraph/30) (with [Sch. 25 para. 34(2)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/25/paragraph/34/2)); [S.I. 2009/1028](https://www.legislation.gov.uk/uksi/2009/1028), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/1028/article/2/b)
+[^c-9b07e3d60d9a898e14616dc66aaecbf3]: Textual amendment: Ss. 276A, 276B inserted (31.10.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 25 para. 30](https://www.legislation.gov.uk/ukpga/2008/4/schedule/25/paragraph/30) (with [Sch. 25 para. 34(2)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/25/paragraph/34/2)); [S.I. 2009/1028](https://www.legislation.gov.uk/uksi/2009/1028), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/1028/article/2/b)

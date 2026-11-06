@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Income and capital: general[^key-488f07af089a1c50d2cbd72a38ddba2c][^key-616b7dcc7e54656076c543464d8f55bd][^key-a930b4f5a9da12f15855a11f7d9602d0][^key-a930b4f5a9da12f15855a11f7d9602d0]
+## 17. Income and capital: general[^c-488f07af089a1c50d2cbd72a38ddba2c][^c-616b7dcc7e54656076c543464d8f55bd][^c-a930b4f5a9da12f15855a11f7d9602d0][^c-a930b4f5a9da12f15855a11f7d9602d0]
 
 *Extent: E+W+S*
 
@@ -35,8 +35,8 @@ summary: ''
 
 ## Annotations
 
-[^key-488f07af089a1c50d2cbd72a38ddba2c]: Commencement: S. 17 in force at 18.3.2008 for specified purposes by [S.I. 2008/787](https://www.legislation.gov.uk/uksi/2008/787), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/787/article/2/1)
+[^c-488f07af089a1c50d2cbd72a38ddba2c]: Commencement: S. 17 in force at 18.3.2008 for specified purposes by [S.I. 2008/787](https://www.legislation.gov.uk/uksi/2008/787), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/787/article/2/1)
 
-[^key-616b7dcc7e54656076c543464d8f55bd]: Commencement: S. 17 in force at 27.10.2008 in so far as not already in force by [S.I. 2008/787](https://www.legislation.gov.uk/uksi/2008/787), [art. 2(4)(a)](https://www.legislation.gov.uk/uksi/2008/787/article/2/4/a)
+[^c-616b7dcc7e54656076c543464d8f55bd]: Commencement: S. 17 in force at 27.10.2008 in so far as not already in force by [S.I. 2008/787](https://www.legislation.gov.uk/uksi/2008/787), [art. 2(4)(a)](https://www.legislation.gov.uk/uksi/2008/787/article/2/4/a)
 
-[^key-a930b4f5a9da12f15855a11f7d9602d0]: Modification: Pt. 1 modified by 1995 c. 18, Sch. 1 para. 2(2) (as inserted (27.10.2008) by [Welfare Reform Act 2007 (c. 5)](https://www.legislation.gov.uk/ukpga/2007/5), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2007/5/section/70/2), [Sch. 3 para. 12(6)](https://www.legislation.gov.uk/ukpga/2007/5/schedule/3/paragraph/12/6); [S.I. 2008/787](https://www.legislation.gov.uk/uksi/2008/787), [art. 2(4)(f)](https://www.legislation.gov.uk/uksi/2008/787/article/2/4/f))
+[^c-a930b4f5a9da12f15855a11f7d9602d0]: Modification: Pt. 1 modified by 1995 c. 18, Sch. 1 para. 2(2) (as inserted (27.10.2008) by [Welfare Reform Act 2007 (c. 5)](https://www.legislation.gov.uk/ukpga/2007/5), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2007/5/section/70/2), [Sch. 3 para. 12(6)](https://www.legislation.gov.uk/ukpga/2007/5/schedule/3/paragraph/12/6); [S.I. 2008/787](https://www.legislation.gov.uk/uksi/2008/787), [art. 2(4)(f)](https://www.legislation.gov.uk/uksi/2008/787/article/2/4/f))

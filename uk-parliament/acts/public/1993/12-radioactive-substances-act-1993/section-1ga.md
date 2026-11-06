@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1GA. Historic radium contamination: Northern Ireland[^key-ae8c8360a4688a58ff8fa86d4072bb7f]
+## 1GA. Historic radium contamination: Northern Ireland[^c-ae8c8360a4688a58ff8fa86d4072bb7f]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ A substance or article is not radioactive material or radioactive waste where th
 
 ## Annotations
 
-[^key-ae8c8360a4688a58ff8fa86d4072bb7f]: Textual amendment: S. 1GA inserted (N.I.) (1.6.2018) by [The Radioactive Substances (Modification of Enactments) Regulations (Northern Ireland) 2018 (S.R. 2018/116)](https://www.legislation.gov.uk/nisr/2018/116), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/116/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/nisr/2018/116/regulation/2/2/c)
+[^c-ae8c8360a4688a58ff8fa86d4072bb7f]: Textual amendment: S. 1GA inserted (N.I.) (1.6.2018) by [The Radioactive Substances (Modification of Enactments) Regulations (Northern Ireland) 2018 (S.R. 2018/116)](https://www.legislation.gov.uk/nisr/2018/116), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/116/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/nisr/2018/116/regulation/2/2/c)

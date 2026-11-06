@@ -28,7 +28,7 @@ summary: ''
 
 (4) The power conferred by section 39(6) of the Terrorism Act 2006 (power to extend to Channel Islands and Isle of Man) is exercisable in relation to any amendment of that Act that is made by or under this Act.
 
-(5)[^key-ffe50385000a415b9c7152a0af898985] Her Majesty may by Order in Council provide for an armed forces provision to extend, with or without modifications, to—
+(5)[^c-ffe50385000a415b9c7152a0af898985] Her Majesty may by Order in Council provide for an armed forces provision to extend, with or without modifications, to—
 
 - (a) any of the Channel Islands,
 - (b) the Isle of Man, or
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ffe50385000a415b9c7152a0af898985]: Modification: [S. 97(5)](https://www.legislation.gov.uk/ukpga/2015/2/section/97/5) restricted (12.5.2016) by [Armed Forces Act 2016 (c. 21)](https://www.legislation.gov.uk/ukpga/2016/21), [s. 19(2)(b)](https://www.legislation.gov.uk/ukpga/2016/21/section/19/2/b), [Sch. para. 4(e)](https://www.legislation.gov.uk/ukpga/2016/21/schedule/paragraph/4/e) (with [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2016/21/schedule/paragraph/5))
+[^c-ffe50385000a415b9c7152a0af898985]: Modification: [S. 97(5)](https://www.legislation.gov.uk/ukpga/2015/2/section/97/5) restricted (12.5.2016) by [Armed Forces Act 2016 (c. 21)](https://www.legislation.gov.uk/ukpga/2016/21), [s. 19(2)(b)](https://www.legislation.gov.uk/ukpga/2016/21/section/19/2/b), [Sch. para. 4(e)](https://www.legislation.gov.uk/ukpga/2016/21/schedule/paragraph/4/e) (with [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2016/21/schedule/paragraph/5))

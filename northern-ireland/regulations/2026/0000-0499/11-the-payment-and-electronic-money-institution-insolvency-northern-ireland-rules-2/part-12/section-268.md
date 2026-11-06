@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 268. Content of notices advertised other than in the Gazette[^key-0711489be67fdfd866715c1f36c19be4]
+## 268. Content of notices advertised other than in the Gazette[^c-0711489be67fdfd866715c1f36c19be4]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0711489be67fdfd866715c1f36c19be4]: Commencement: [Rule 268](https://www.legislation.gov.uk/nisr/2026/11/rule/268) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-0711489be67fdfd866715c1f36c19be4]: Commencement: [Rule 268](https://www.legislation.gov.uk/nisr/2026/11/rule/268) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

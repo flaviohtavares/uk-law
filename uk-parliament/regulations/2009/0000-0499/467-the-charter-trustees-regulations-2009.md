@@ -48,13 +48,13 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by sections 14 and 240(10) of the Local Government and Public Involvement in Health Act 2007[^f00001], makes the following Regulations:
 
-## 1. Citation, commencement and application[^key-c0bbfb5dcaef97e3b764d374b4373ec4]
+## 1. Citation, commencement and application[^c-c0bbfb5dcaef97e3b764d374b4373ec4]
 
 (1) These Regulations may be cited as the Charter Trustees Regulations 2009 and come into force on 1st April 2009.
 
 (2) These Regulations apply in relation to charter trustees established by an order under section 7 of the Local Government and Public Involvement in Health Act 2007.
 
-## 2. Interpretation[^key-b6d90894f30a2f0431eaf8473b2640fe]
+## 2. Interpretation[^c-b6d90894f30a2f0431eaf8473b2640fe]
 
 In these Regulations—
 
@@ -67,7 +67,7 @@ In these Regulations—
 - “reorganisation date” means the date specified in a section 7 order as that on which a structural change[^f00003] comes into effect; and
 - “section 7 order” means an order under section 7 of the 2007 Act (implementation of proposals by order).
 
-## 3. Transfer of property[^key-203fd9392aa72f6c1c2089cc551dbf77]
+## 3. Transfer of property[^c-203fd9392aa72f6c1c2089cc551dbf77]
 
 (1) Regulations 7 and 11 to 13 of the Local Government (Structural Changes)(Transfer of Functions, Property, Rights and Liabilities) Regulations 2008[^f00004] (transfer of property etc of predecessor councils) shall not apply in relation to any property of a predecessor council which vests in charter trustees by virtue of this regulation.
 
@@ -92,18 +92,18 @@ may be determined by a person agreed on by the relevant council and the charter 
 
 (7) In this regulation and regulations 4 and 5, the word “charter” means any charter or other grant under Her Majesty’s prerogative.
 
-## 4. Rights of charter trustees[^key-ae169e1d805c45148c9bf73111b88d38]
+## 4. Rights of charter trustees[^c-ae169e1d805c45148c9bf73111b88d38]
 
 Where, prior to the reorganisation date, the predecessor council exercises any right conferred in a charter which vests in the charter trustees under regulation 3(2)—
 
 - (a) the charter trustees shall be treated from that date as the body on whom the right was conferred by the charter for the purpose of exercising those rights in relation to the charter trustee area, and
 - (b) the charter shall be read as subject to any necessary modification.
 
-## 5. Acquisition and maintenance of property[^key-e8d904d3eff33aa4fe36c585c5cd9634]
+## 5. Acquisition and maintenance of property[^c-e8d904d3eff33aa4fe36c585c5cd9634]
 
 Charter trustees may acquire, or accept gifts of, and hold historic or ceremonial property (other than land and buildings) and, in particular, charters, insignia and plate, relating to the charter trustee area and may execute any work (including works of maintenance or improvement) incidental to or consequential on the acquisition, acceptance or holding.
 
-## 6. Appointment of additional charter trustees[^key-291bbcacc8b67449d4c34b74fabaa396]
+## 6. Appointment of additional charter trustees[^c-291bbcacc8b67449d4c34b74fabaa396]
 
 (1) In this regulation—
 
@@ -125,7 +125,7 @@ Charter trustees may acquire, or accept gifts of, and hold historic or ceremonia
 
 (7) Charter trustees may remove from office a councillor appointed under this regulation if, in their opinion, that councillor has, without sufficient cause, failed to attend two or more consecutive meetings of theirs.
 
-## 7. Mayors: appointment, term of office, etc.[^key-0eed8b5f2e0000fbe22cabe2e989f84f]
+## 7. Mayors: appointment, term of office, etc.[^c-0eed8b5f2e0000fbe22cabe2e989f84f]
 
 (1) Subject to paragraph (2), charter trustees may in every year elect one of their number to be mayor and another to be deputy mayor.
 
@@ -139,7 +139,7 @@ Charter trustees may acquire, or accept gifts of, and hold historic or ceremonia
 
 (6) Charter trustees shall pay the mayor and deputy mayor such allowance as they think reasonable for the purpose of enabling those persons to meet the expenses of office.
 
-## 8. First annual meeting of charter trustees[^key-5801fdb40382c73cd9b66fda3b3d2192]
+## 8. First annual meeting of charter trustees[^c-5801fdb40382c73cd9b66fda3b3d2192]
 
 (1) The first annual meeting of the charter trustees shall be held—
 
@@ -160,7 +160,7 @@ Charter trustees may acquire, or accept gifts of, and hold historic or ceremonia
 
 (5) Paragraphs (3), (4), (7) and (8) of regulation 9 apply to meetings held under this regulation as they apply in relation to meetings held under regulation 9, except that paragraph 39(2) of Schedule 12 to the 1972 Act (presiding vote) shall not apply.
 
-## 9. Subsequent meetings of charter trustees[^key-705a6cf1cb17e4e11f9e334b2d4dcb65]
+## 9. Subsequent meetings of charter trustees[^c-705a6cf1cb17e4e11f9e334b2d4dcb65]
 
 (1) Charter trustees shall in every year hold an annual meeting within 21 days following the annual meeting of the relevant council.
 
@@ -178,7 +178,7 @@ Charter trustees may acquire, or accept gifts of, and hold historic or ceremonia
 
 (8) Charter trustees shall be a body to which the Public Bodies (Admission to Meetings) Act 1960[^f00007] applies.
 
-## 10. Discharge of functions by charter trustees[^key-2a0747830d41902854573588a4aed709]
+## 10. Discharge of functions by charter trustees[^c-2a0747830d41902854573588a4aed709]
 
 (1) Charter trustees may appoint such officers as they think necessary for the proper discharge of their functions and sections 112(1), (2) and (5) and 114 to 117 of the 1972 Act[^f00008] (staff, officers, etc of local authorities) shall apply, subject to any necessary modifications, in relation to such officers as they apply in relation to officers appointed by parish councils.
 
@@ -197,13 +197,13 @@ by a committee or officer of theirs or (with the agreement of the relevant counc
 
 (5) Section 106 of the 1972 Act (standing orders of committees) shall apply in relation to any committee of charter trustees as it applies in relation to a committee of a local authority.
 
-## 11. Accommodation of charter trustees[^key-ebbc8d4f882189c3e7e508d26d7b06d7]
+## 11. Accommodation of charter trustees[^c-ebbc8d4f882189c3e7e508d26d7b06d7]
 
 The relevant council shall provide accommodation for the proper discharge of the functions of any charter trustees; and the accommodation to be provided and the terms on which it is provided shall be determined by agreement between that council and the charter trustees or, in default of such agreement, by the decision of a person agreed on by them or, in default of their agreement, appointed by the Secretary of State.
 
-## 12. Funding in first year[^key-35f15c4bf7c0ea1244d5fced2066ce79]
+## 12. Funding in first year[^c-35f15c4bf7c0ea1244d5fced2066ce79]
 
-(1) Sections 41(1) and 49A(1[^key-72230da51206f8346d7472d51d417984] of the Local Government Finance Act 1992[^f00009] (precepts, calculation of budget requirements) shall not apply in relation to charter trustees as regards the financial year in which they are established.
+(1) Sections 41(1) and 49A(1[^c-72230da51206f8346d7472d51d417984] of the Local Government Finance Act 1992[^f00009] (precepts, calculation of budget requirements) shall not apply in relation to charter trustees as regards the financial year in which they are established.
 
 (2) Subject to paragraph (3), charter trustees may request the relevant council to pay to them such amount as they consider necessary for the discharge of their functions in the financial year in which they are established.
 
@@ -211,7 +211,7 @@ The relevant council shall provide accommodation for the proper discharge of the
 
 (4) The relevant council shall pay to the charter trustees any amount requested by them in accordance with paragraph (2) not later than 28 days after receipt of the request.
 
-## 13. Accounts, audit etc[^key-d70861833eefd4bb1b031cc6f6336c04]
+## 13. Accounts, audit etc[^c-d70861833eefd4bb1b031cc6f6336c04]
 
 (1) Charter trustees shall keep accounts of their receipts and payments.
 
@@ -219,7 +219,7 @@ The relevant council shall provide accommodation for the proper discharge of the
 
 (3) The Audit Commission Act 1998[^f00011] shall apply to all accounts of charter trustees as though they were a body listed in paragraph 1 of Schedule 2 to that Act.
 
-## 14. Application of other statutory provisions[^key-d5089c9191ca3b2535f5a97c801f45d6]
+## 14. Application of other statutory provisions[^c-d5089c9191ca3b2535f5a97c801f45d6]
 
 (1) Sections 111 (subsidiary powers of local authorities), 140 (insurance by local authorities against accidents by members), and 151 (financial administration) of the 1972 Act[^f00012] shall apply in relation to charter trustees as they apply in relation to parish councils.
 
@@ -227,7 +227,7 @@ The relevant council shall provide accommodation for the proper discharge of the
 
 (3) Charter trustees are members of the relevant council for the purposes of section 49 of the Local Government Act 2000[^f00014] (principles governing conduct of members of relevant authorities).
 
-## 15. Subscriptions[^key-ee6198a6fdeac1da964a2df915c1df41]
+## 15. Subscriptions[^c-ee6198a6fdeac1da964a2df915c1df41]
 
 Charter trustees may pay reasonable subscriptions, whether annually or otherwise, to the funds of the Association of Charter Trustees and Charter Town Councils.
 
@@ -259,29 +259,29 @@ No impact assessment has been produced for these Regulations as no impact on the
 
 [^f00001]: Footnote: [2007 c.28](https://www.legislation.gov.uk/ukpga/2007/28). Section 14(2) provides for section 14(1) to be read with section 15 and section 14(3) provides that regulations under section 14 have effect subject to any provision included in an order under section 7 or 10.
 
-[^key-c0bbfb5dcaef97e3b764d374b4373ec4]: Commencement: Reg. 1 in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/467/regulation/1/1)
+[^c-c0bbfb5dcaef97e3b764d374b4373ec4]: Commencement: Reg. 1 in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/467/regulation/1/1)
 
-[^key-b6d90894f30a2f0431eaf8473b2640fe]: Commencement: Reg. 2 in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/467/regulation/1/1)
+[^c-b6d90894f30a2f0431eaf8473b2640fe]: Commencement: Reg. 2 in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/467/regulation/1/1)
 
 [^f00002]: Footnote: [1972 c.70](https://www.legislation.gov.uk/ukpga/1972/70).
 
 [^f00003]: Footnote: Part 1 of the 2007 Act deals with structural and boundary change for local government in England.
 
-[^key-203fd9392aa72f6c1c2089cc551dbf77]: Commencement: Reg. 3 in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/467/regulation/1/1)
+[^c-203fd9392aa72f6c1c2089cc551dbf77]: Commencement: Reg. 3 in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/467/regulation/1/1)
 
 [^f00004]: Footnote: [S.I. 2008/2176](https://www.legislation.gov.uk/uksi/2008/2176).
 
-[^key-ae169e1d805c45148c9bf73111b88d38]: Commencement: Reg. 4 in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/467/regulation/1/1)
+[^c-ae169e1d805c45148c9bf73111b88d38]: Commencement: Reg. 4 in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/467/regulation/1/1)
 
-[^key-e8d904d3eff33aa4fe36c585c5cd9634]: Commencement: Reg. 5 in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/467/regulation/1/1)
+[^c-e8d904d3eff33aa4fe36c585c5cd9634]: Commencement: Reg. 5 in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/467/regulation/1/1)
 
-[^key-291bbcacc8b67449d4c34b74fabaa396]: Commencement: Reg. 6 in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/467/regulation/1/1)
+[^c-291bbcacc8b67449d4c34b74fabaa396]: Commencement: Reg. 6 in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/467/regulation/1/1)
 
-[^key-0eed8b5f2e0000fbe22cabe2e989f84f]: Commencement: Reg. 7 in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/467/regulation/1/1)
+[^c-0eed8b5f2e0000fbe22cabe2e989f84f]: Commencement: Reg. 7 in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/467/regulation/1/1)
 
-[^key-5801fdb40382c73cd9b66fda3b3d2192]: Commencement: Reg. 8 in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/467/regulation/1/1)
+[^c-5801fdb40382c73cd9b66fda3b3d2192]: Commencement: Reg. 8 in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/467/regulation/1/1)
 
-[^key-705a6cf1cb17e4e11f9e334b2d4dcb65]: Commencement: Reg. 9 in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/467/regulation/1/1)
+[^c-705a6cf1cb17e4e11f9e334b2d4dcb65]: Commencement: Reg. 9 in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/467/regulation/1/1)
 
 [^f00005]: Footnote: Amended by the Licensing Act [2003 (c.17)](https://www.legislation.gov.uk/ukpga/2003/17), Schedule 6, paragraph 61(2)(a).
 
@@ -289,25 +289,25 @@ No impact assessment has been produced for these Regulations as no impact on the
 
 [^f00007]: Footnote: [1960 c.67](https://www.legislation.gov.uk/ukpga/1960/67); relevant amendments to which were made by the Local Government (Access to Information Act) [1985 (c.43)](https://www.legislation.gov.uk/ukpga/1985/43), Schedule 2, paragraph 4 and Schedule 3 and the Broadcasting Act [1990 (c.42)](https://www.legislation.gov.uk/ukpga/1990/42), Schedule 20, paragraph 5.
 
-[^key-2a0747830d41902854573588a4aed709]: Commencement: Reg. 10 in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/467/regulation/1/1)
+[^c-2a0747830d41902854573588a4aed709]: Commencement: Reg. 10 in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/467/regulation/1/1)
 
 [^f00008]: Footnote: Section 117 was amended by the Criminal Justice Act [1982 (c.48)](https://www.legislation.gov.uk/ukpga/1982/48), sections 38 and 46.
 
-[^key-ebbc8d4f882189c3e7e508d26d7b06d7]: Commencement: Reg. 11 in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/467/regulation/1/1)
+[^c-ebbc8d4f882189c3e7e508d26d7b06d7]: Commencement: Reg. 11 in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/467/regulation/1/1)
 
-[^key-35f15c4bf7c0ea1244d5fced2066ce79]: Commencement: Reg. 12 in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/467/regulation/1/1)
+[^c-35f15c4bf7c0ea1244d5fced2066ce79]: Commencement: Reg. 12 in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/467/regulation/1/1)
 
-[^key-72230da51206f8346d7472d51d417984]: Textual amendment: Word in [reg. 12(1)](https://www.legislation.gov.uk/uksi/2009/467/regulation/12/1) substituted (2.1.2019) by [The Local Government (Structural and Boundary Changes) (Amendment) Regulations 2018 (S.I. 2018/1296)](https://www.legislation.gov.uk/uksi/2018/1296), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1296/regulation/1), [16(2)](https://www.legislation.gov.uk/uksi/2018/1296/regulation/16/2)
+[^c-72230da51206f8346d7472d51d417984]: Textual amendment: Word in [reg. 12(1)](https://www.legislation.gov.uk/uksi/2009/467/regulation/12/1) substituted (2.1.2019) by [The Local Government (Structural and Boundary Changes) (Amendment) Regulations 2018 (S.I. 2018/1296)](https://www.legislation.gov.uk/uksi/2018/1296), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1296/regulation/1), [16(2)](https://www.legislation.gov.uk/uksi/2018/1296/regulation/16/2)
 
 [^f00009]: Footnote: [1992 c.14](https://www.legislation.gov.uk/ukpga/1992/14).
 
 [^f00010]: Footnote: [S.I. 2009/5](https://www.legislation.gov.uk/uksi/2009/5).
 
-[^key-d70861833eefd4bb1b031cc6f6336c04]: Commencement: Reg. 13 in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/467/regulation/1/1)
+[^c-d70861833eefd4bb1b031cc6f6336c04]: Commencement: Reg. 13 in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/467/regulation/1/1)
 
 [^f00011]: Footnote: [1998 c.18](https://www.legislation.gov.uk/ukpga/1998/18).
 
-[^key-d5089c9191ca3b2535f5a97c801f45d6]: Commencement: Reg. 14 in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/467/regulation/1/1)
+[^c-d5089c9191ca3b2535f5a97c801f45d6]: Commencement: Reg. 14 in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/467/regulation/1/1)
 
 [^f00012]: Footnote: Section 140 was amended by the Local Government (Miscellaneous) Provisions Act [1982 (c.30)](https://www.legislation.gov.uk/ukpga/1982/30), section 39(1) and Schedule 7, Part XVI and [S.I. 2001/3694](https://www.legislation.gov.uk/uksi/2001/3694), article 282.
 
@@ -315,4 +315,4 @@ No impact assessment has been produced for these Regulations as no impact on the
 
 [^f00014]: Footnote: [2000 c.22](https://www.legislation.gov.uk/ukpga/2000/22); section 49 was amended by the Local Government and Public Involvement in Health Act [2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), section 183(1).
 
-[^key-ee6198a6fdeac1da964a2df915c1df41]: Commencement: Reg. 15 in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/467/regulation/1/1)
+[^c-ee6198a6fdeac1da964a2df915c1df41]: Commencement: Reg. 15 in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/467/regulation/1/1)

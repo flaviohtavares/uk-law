@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 164B. Power to scan for child sexual abuse images[^key-d9714233ce5140f1e4fe36c80965bc2a]
+## 164B. Power to scan for child sexual abuse images[^c-d9714233ce5140f1e4fe36c80965bc2a]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d9714233ce5140f1e4fe36c80965bc2a]: Textual amendment: S. 164B inserted (29.4.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 84](https://www.legislation.gov.uk/ukpga/2026/20/section/84), [255(2)(d)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/2/d)
+[^c-d9714233ce5140f1e4fe36c80965bc2a]: Textual amendment: S. 164B inserted (29.4.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 84](https://www.legislation.gov.uk/ukpga/2026/20/section/84), [255(2)(d)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/2/d)

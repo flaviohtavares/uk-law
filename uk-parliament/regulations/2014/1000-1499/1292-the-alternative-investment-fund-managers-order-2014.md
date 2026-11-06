@@ -44,7 +44,7 @@ Coming into force in accordance with article 1
 
 [^c23335041][^c23335051]The Treasury are a government department designated for the purposes of section 2(2) of the European Communities Act 1972 in relation to financial services.
 
-The Treasury make this Order in exercise of the powers conferred on them under section 2(2) of the European Communities Act 1972 and sections 22(1), 409(1)(a) and (b) and 428(3) of, and paragraph 25 of Schedule 2 to, the Financial Services and Markets Act 2000 [^c23335061].[^key-1db2cdd3bb26ad8d65c12b37718f270d]
+The Treasury make this Order in exercise of the powers conferred on them under section 2(2) of the European Communities Act 1972 and sections 22(1), 409(1)(a) and (b) and 428(3) of, and paragraph 25 of Schedule 2 to, the Financial Services and Markets Act 2000 [^c23335061].[^c-1db2cdd3bb26ad8d65c12b37718f270d]
 
 ## PART 1 — Introductory provisions
 
@@ -52,11 +52,11 @@ The Treasury make this Order in exercise of the powers conferred on them under s
 
 (1) This Order may be cited as the Alternative Investment Fund Managers Order 2014.
 
-(2) This Order, except for article 6 (amendment to the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001), comes into force on 16th June[^key-9fb93c9ec63a398a9dbff6caaf5b0378] 2014.
+(2) This Order, except for article 6 (amendment to the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001), comes into force on 16th June[^c-9fb93c9ec63a398a9dbff6caaf5b0378] 2014.
 
-(3) Article 6 comes into force on 22nd July[^key-391ab64b5cd20bae6e704e42d6dfa498] 2014.
+(3) Article 6 comes into force on 22nd July[^c-391ab64b5cd20bae6e704e42d6dfa498] 2014.
 
-## PART 2 — Amendments coming into force on 16th June 2014[^key-dce61c182cf853c29e5f6ae91802d541]
+## PART 2 — Amendments coming into force on 16th June 2014[^c-dce61c182cf853c29e5f6ae91802d541]
 
 ### 2. The Financial Services and Markets Act 2000
 
@@ -244,7 +244,7 @@ In article 4(4A)(b) of the Financial Services and Markets Act 2000 (Regulated Ac
 
 (3) Notice under paragraph (2) must—
 
-- (a) be given so that it is received by the FCA before 22nd July[^key-ae248349214c02d53b3e45ffb9f6f0e3] 2014; and
+- (a) be given so that it is received by the FCA before 22nd July[^c-ae248349214c02d53b3e45ffb9f6f0e3] 2014; and
 - (b) state the regulated activities for which the person will require permission in respect of the activity to which the notification relates after the coming into force of article 6.
 
 (4) Paragraph (5) applies if, at the time that the FCA receives the notice—
@@ -255,7 +255,7 @@ In article 4(4A)(b) of the Financial Services and Markets Act 2000 (Regulated Ac
 (5) The person is to be treated as if the FCA had given the person a Part 4A permission to carry on the regulated activities stated in the notice, or varied the person's Part 4A permission by the addition of those regulated activities, on the later of—
 
 - (a) the date on which the permission or variation of permission for which the person applied has effect, or
-- (b) 22nd July[^key-951528e0f2bdecceca035fe4bb13b73a] 2014.
+- (b) 22nd July[^c-951528e0f2bdecceca035fe4bb13b73a] 2014.
 
 (6) If, at the time that the FCA receives the notice, the application has not been determined, the application is to be treated as including an application for a Part 4A permission for the regulated activities stated in the notice, or for a variation of the person's Part 4A permission by the addition of such regulated activities.
 
@@ -297,13 +297,13 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^c23335061]: Marginal citation: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8). Section 22 was amended by section 7 of the [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21). Section 22(5) provides that “specified” in section 22(1) means specified in an order made by the Treasury. Section 409(5) provides that “specified” in section 409(1) means specified in an order made under that subsection. Section 409 was amended by the [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [Schedule 18](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18), [paragraph 23](https://www.legislation.gov.uk/ukpga/2012/21/paragraph/23), and by [S.I. 2011/1613](https://www.legislation.gov.uk/uksi/2011/1613). Paragraph 25 of Schedule 2 was amended by section 8 of the Financial Services Act 2012.
 
-[^key-1db2cdd3bb26ad8d65c12b37718f270d]: Modification: Order: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-1db2cdd3bb26ad8d65c12b37718f270d]: Modification: Order: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
-[^key-9fb93c9ec63a398a9dbff6caaf5b0378]: Textual amendment: Words in art. 1(2) substituted (31.5.2014) by the [Alternative Investment Fund Managers (Amendment) Order 2014 (S.I. 2014/1313)](https://www.legislation.gov.uk/uksi/2014/1313), arts. 1, 2(a)
+[^c-9fb93c9ec63a398a9dbff6caaf5b0378]: Textual amendment: Words in art. 1(2) substituted (31.5.2014) by the [Alternative Investment Fund Managers (Amendment) Order 2014 (S.I. 2014/1313)](https://www.legislation.gov.uk/uksi/2014/1313), arts. 1, 2(a)
 
-[^key-391ab64b5cd20bae6e704e42d6dfa498]: Textual amendment: Words in art. 1(3) substituted (31.5.2014) by the [Alternative Investment Fund Managers (Amendment) Order 2014 (S.I. 2014/1313)](https://www.legislation.gov.uk/uksi/2014/1313), arts. 1, 2(b)
+[^c-391ab64b5cd20bae6e704e42d6dfa498]: Textual amendment: Words in art. 1(3) substituted (31.5.2014) by the [Alternative Investment Fund Managers (Amendment) Order 2014 (S.I. 2014/1313)](https://www.legislation.gov.uk/uksi/2014/1313), arts. 1, 2(b)
 
-[^key-dce61c182cf853c29e5f6ae91802d541]: Textual amendment: Words in Pt. 2 heading substituted (31.5.2014) by the [Alternative Investment Fund Managers (Amendment) Order 2014 (S.I. 2014/1313)](https://www.legislation.gov.uk/uksi/2014/1313), arts. 1, 2(a)
+[^c-dce61c182cf853c29e5f6ae91802d541]: Textual amendment: Words in Pt. 2 heading substituted (31.5.2014) by the [Alternative Investment Fund Managers (Amendment) Order 2014 (S.I. 2014/1313)](https://www.legislation.gov.uk/uksi/2014/1313), arts. 1, 2(a)
 
 [^c23335071]: Marginal citation: Section 418 was amended by [S.I. 2002/1775](https://www.legislation.gov.uk/uksi/2002/1775), 2011/1043 and 2012/1906 and is to be amended by [S.I. 2013/1797](https://www.legislation.gov.uk/uksi/2013/1797).
 
@@ -333,6 +333,6 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^c23335201]: Marginal citation: [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544), amended by [S.I. 2003/1476](https://www.legislation.gov.uk/uksi/2003/1476). There are other amending instruments but none is relevant here.
 
-[^key-ae248349214c02d53b3e45ffb9f6f0e3]: Textual amendment: Words in art. 7(3)(a) substituted (31.5.2014) by the [Alternative Investment Fund Managers (Amendment) Order 2014 (S.I. 2014/1313)](https://www.legislation.gov.uk/uksi/2014/1313), arts. 1, 2(b)
+[^c-ae248349214c02d53b3e45ffb9f6f0e3]: Textual amendment: Words in art. 7(3)(a) substituted (31.5.2014) by the [Alternative Investment Fund Managers (Amendment) Order 2014 (S.I. 2014/1313)](https://www.legislation.gov.uk/uksi/2014/1313), arts. 1, 2(b)
 
-[^key-951528e0f2bdecceca035fe4bb13b73a]: Textual amendment: Words in art. 7(5)(b) substituted (31.5.2014) by the [Alternative Investment Fund Managers (Amendment) Order 2014 (S.I. 2014/1313)](https://www.legislation.gov.uk/uksi/2014/1313), arts. 1, 2(b)
+[^c-951528e0f2bdecceca035fe4bb13b73a]: Textual amendment: Words in art. 7(5)(b) substituted (31.5.2014) by the [Alternative Investment Fund Managers (Amendment) Order 2014 (S.I. 2014/1313)](https://www.legislation.gov.uk/uksi/2014/1313), arts. 1, 2(b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 331. Foreign gambling[^key-cc341743002a677238a807666326c06e]
+## 331. Foreign gambling[^c-cc341743002a677238a807666326c06e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cc341743002a677238a807666326c06e]: Textual amendment: S. 331 repealed (1.11.2014) by [Gambling (Licensing and Advertising) Act 2014 (c. 17)](https://www.legislation.gov.uk/ukpga/2014/17), [ss. 3(1)](https://www.legislation.gov.uk/ukpga/2014/17/section/3/1), [6(5)](https://www.legislation.gov.uk/ukpga/2014/17/section/6/5); [S.I. 2014/2444](https://www.legislation.gov.uk/uksi/2014/2444), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/2444/article/2/b) (as amended (29.9.2014) by [S.I. 2014/2646](https://www.legislation.gov.uk/uksi/2014/2646), art. 2)
+[^c-cc341743002a677238a807666326c06e]: Textual amendment: S. 331 repealed (1.11.2014) by [Gambling (Licensing and Advertising) Act 2014 (c. 17)](https://www.legislation.gov.uk/ukpga/2014/17), [ss. 3(1)](https://www.legislation.gov.uk/ukpga/2014/17/section/3/1), [6(5)](https://www.legislation.gov.uk/ukpga/2014/17/section/6/5); [S.I. 2014/2444](https://www.legislation.gov.uk/uksi/2014/2444), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/2444/article/2/b) (as amended (29.9.2014) by [S.I. 2014/2646](https://www.legislation.gov.uk/uksi/2014/2646), art. 2)

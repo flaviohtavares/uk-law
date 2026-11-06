@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Provisions supplementary to s. 85.[^key-d79540fb0d0c8b13f605a1cd26a8c75f]
+## 86. Provisions supplementary to s. 85.[^c-d79540fb0d0c8b13f605a1cd26a8c75f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d79540fb0d0c8b13f605a1cd26a8c75f]: Textual amendment: S. 86(1)-(10) repealed (1.4.2010 with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 117](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/117), [Sch. 10 Pt. 2](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/2) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-d79540fb0d0c8b13f605a1cd26a8c75f]: Textual amendment: S. 86(1)-(10) repealed (1.4.2010 with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 117](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/117), [Sch. 10 Pt. 2](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/2) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))

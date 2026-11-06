@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 166. Amount of lump sum payable under regulation 165 instead of retirement pension[^key-cff4905c1b9ba71550797ce10eb9d15d]
+## 166. Amount of lump sum payable under regulation 165 instead of retirement pension[^c-cff4905c1b9ba71550797ce10eb9d15d]
 
 *Extent: S*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cff4905c1b9ba71550797ce10eb9d15d]: Commencement: [Reg. 166](https://www.legislation.gov.uk/ssi/2014/292/regulation/166) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-cff4905c1b9ba71550797ce10eb9d15d]: Commencement: [Reg. 166](https://www.legislation.gov.uk/ssi/2014/292/regulation/166) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
 
 [^f00026]: Footnote: Note: if this period is 5 years or more, no lump sum is payable in respect of the phased retirement pension.

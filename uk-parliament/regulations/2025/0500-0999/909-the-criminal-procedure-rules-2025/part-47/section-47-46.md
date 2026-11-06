@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47.46. When this Section applies[^key-1372621a60c3aa7615296cc217226fa3]
+## 47.46. When this Section applies[^c-1372621a60c3aa7615296cc217226fa3]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ This Section applies where—
 
 ## Annotations
 
-[^key-1372621a60c3aa7615296cc217226fa3]: Commencement: Rule 47.46 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-1372621a60c3aa7615296cc217226fa3]: Commencement: Rule 47.46 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01248]: Footnote: [2009 c. 25](https://www.legislation.gov.uk/ukpga/2009/25).

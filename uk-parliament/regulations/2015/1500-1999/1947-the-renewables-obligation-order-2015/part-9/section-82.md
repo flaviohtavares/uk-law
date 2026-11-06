@@ -54,14 +54,14 @@ summary: ''
 - (c) where the biomass was gas, its volume (in cubic metres) when measured at 25 degrees Celsius and 0.1 megapascals;
 - (d) where the biomass was an energy crop and was not a bioliquid—
   - (i) the type of energy crop in question, and
-  - (ii) the use of the land on which the biomass was grown in the year before the land was first used to grow energy crops;[^key-851ead2cd28d246a8e85e57190031f32]...
+  - (ii) the use of the land on which the biomass was grown in the year before the land was first used to grow energy crops;[^c-851ead2cd28d246a8e85e57190031f32]...
 - (e) where the biomass was, or was derived from, wood and was not waste or bioliquid—
   - (i) the name of the forest or other location where that wood was grown,
   - (ii) a description of the forestry management practices or land management practices used in the forest or other location where that wood was grown,
   - (iii) where any of the wood was likely to be a protected or threatened species, the name of that species and the proportion of the biomass that is likely to be composed of, or derived from, that species,
   - (iv) the proportion of the biomass that was, or was derived from, a saw log, and the specification adopted by the operator in accordance with paragraph (6) for the purpose of determining the proportion of the biomass that was, or was derived from, a saw log, and
-  - (v) the proportion of the biomass that was, or was derived from, hardwood and the proportion that was, or was derived from, softwood; and[^key-c93b2484889eb60dd0bb9effd868535a]
-- (f)[^key-a587c95de24ce74afdada3c345fbf092] where the biomass was bioliquid used in a generating station on or after 1st January 2018, its energy content produced from each of the following categories of crop—
+  - (v) the proportion of the biomass that was, or was derived from, hardwood and the proportion that was, or was derived from, softwood; and[^c-c93b2484889eb60dd0bb9effd868535a]
+- (f)[^c-a587c95de24ce74afdada3c345fbf092] where the biomass was bioliquid used in a generating station on or after 1st January 2018, its energy content produced from each of the following categories of crop—
   - (i) starch-rich crops;
   - (ii) sugars;
   - (iii) oil crops;
@@ -95,27 +95,27 @@ summary: ''
 - “**Forestry Commission Field Book 9**” means Forestry Commission Field Book 9, 2nd edition 1993, entitled “Classification and Presentation of Softwood Sawlogs”[^c22696011];
 - “**protected or threatened species**” means—
   - (a) a species listed in Appendices I, II or III of the Convention on International Trade in Endangered Flora and Fauna [^c22696021], or
-  - (b) a species which is at risk of extinction;[^key-c02991f9a8165ca79d39c92b08756d5b]...
-- “**saw log**” means wood which is suitable for processing at a sawmill; and[^key-98017f39e894d816f107fbeeb38020a4].
-- “starch-rich crops” includes—[^key-c7f4e03fa9ac9a9fe9a158abeb0cccd5]
+  - (b) a species which is at risk of extinction;[^c-c02991f9a8165ca79d39c92b08756d5b]...
+- “**saw log**” means wood which is suitable for processing at a sawmill; and[^c-98017f39e894d816f107fbeeb38020a4].
+- “starch-rich crops” includes—[^c-c7f4e03fa9ac9a9fe9a158abeb0cccd5]
   - (a) cereals (regardless of whether only the grains are used or the whole plant (such as in the case of green maize) is used);
   - (b) tubers and root crops (such as potatoes, Jerusalem artichokes, sweet potatoes, cassava and yams); and
   - (c) corm crops (such as taro and cocoyam).
 
 ## Annotations
 
-[^key-851ead2cd28d246a8e85e57190031f32]: Textual amendment: Word in art. 82(4)(d) omitted (1.1.2018) by virtue of [The Renewables Obligation (Amendment) Regulations 2017 (S.I. 2017/1234)](https://www.legislation.gov.uk/uksi/2017/1234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/1/2), [4(2)(a)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/4/2/a)
+[^c-851ead2cd28d246a8e85e57190031f32]: Textual amendment: Word in art. 82(4)(d) omitted (1.1.2018) by virtue of [The Renewables Obligation (Amendment) Regulations 2017 (S.I. 2017/1234)](https://www.legislation.gov.uk/uksi/2017/1234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/1/2), [4(2)(a)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/4/2/a)
 
-[^key-c93b2484889eb60dd0bb9effd868535a]: Textual amendment: Words in art. 82(4)(e)(v) substituted (1.1.2018) by [The Renewables Obligation (Amendment) Regulations 2017 (S.I. 2017/1234)](https://www.legislation.gov.uk/uksi/2017/1234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/4/2/b)
+[^c-c93b2484889eb60dd0bb9effd868535a]: Textual amendment: Words in art. 82(4)(e)(v) substituted (1.1.2018) by [The Renewables Obligation (Amendment) Regulations 2017 (S.I. 2017/1234)](https://www.legislation.gov.uk/uksi/2017/1234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/4/2/b)
 
-[^key-a587c95de24ce74afdada3c345fbf092]: Textual amendment: Art. 82(4)(f) inserted (1.1.2018) by [The Renewables Obligation (Amendment) Regulations 2017 (S.I. 2017/1234)](https://www.legislation.gov.uk/uksi/2017/1234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/1/2), [4(2)(c)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/4/2/c)
+[^c-a587c95de24ce74afdada3c345fbf092]: Textual amendment: Art. 82(4)(f) inserted (1.1.2018) by [The Renewables Obligation (Amendment) Regulations 2017 (S.I. 2017/1234)](https://www.legislation.gov.uk/uksi/2017/1234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/1/2), [4(2)(c)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/4/2/c)
 
 [^c22696011]: Marginal citation: ISBN 0 11 710322 5. Copies are available at https://www.gov.uk/government/consultations/biomass-sustainability. Hard copies are available from the Department of Energy and Climate Change.
 
 [^c22696021]: Marginal citation: Available at http://www.cites.org/eng/disc/text.php#texttop.
 
-[^key-c02991f9a8165ca79d39c92b08756d5b]: Textual amendment: Word in art. 82(10) omitted (1.1.2018) by virtue of [The Renewables Obligation (Amendment) Regulations 2017 (S.I. 2017/1234)](https://www.legislation.gov.uk/uksi/2017/1234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/1/2), [4(3)(a)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/4/3/a)
+[^c-c02991f9a8165ca79d39c92b08756d5b]: Textual amendment: Word in art. 82(10) omitted (1.1.2018) by virtue of [The Renewables Obligation (Amendment) Regulations 2017 (S.I. 2017/1234)](https://www.legislation.gov.uk/uksi/2017/1234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/1/2), [4(3)(a)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/4/3/a)
 
-[^key-98017f39e894d816f107fbeeb38020a4]: Textual amendment: Words in art. 82(10) substituted (1.1.2018) by [The Renewables Obligation (Amendment) Regulations 2017 (S.I. 2017/1234)](https://www.legislation.gov.uk/uksi/2017/1234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/1/2), [4(3)(b)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/4/3/b)
+[^c-98017f39e894d816f107fbeeb38020a4]: Textual amendment: Words in art. 82(10) substituted (1.1.2018) by [The Renewables Obligation (Amendment) Regulations 2017 (S.I. 2017/1234)](https://www.legislation.gov.uk/uksi/2017/1234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/1/2), [4(3)(b)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/4/3/b)
 
-[^key-c7f4e03fa9ac9a9fe9a158abeb0cccd5]: Textual amendment: Words in art. 82(10) inserted (1.1.2018) by [The Renewables Obligation (Amendment) Regulations 2017 (S.I. 2017/1234)](https://www.legislation.gov.uk/uksi/2017/1234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/1/2), [4(3)(c)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/4/3/c)
+[^c-c7f4e03fa9ac9a9fe9a158abeb0cccd5]: Textual amendment: Words in art. 82(10) inserted (1.1.2018) by [The Renewables Obligation (Amendment) Regulations 2017 (S.I. 2017/1234)](https://www.legislation.gov.uk/uksi/2017/1234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/1/2), [4(3)(c)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/4/3/c)

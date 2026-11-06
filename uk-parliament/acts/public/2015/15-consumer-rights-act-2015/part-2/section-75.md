@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Changes to other legislation[^key-8338b41d90d178f0ba6f882f33a7f9af]
+## 75. Changes to other legislation[^c-8338b41d90d178f0ba6f882f33a7f9af]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 4 (amendments consequential on this Part) has effect.
 
 ## Annotations
 
-[^key-8338b41d90d178f0ba6f882f33a7f9af]: Commencement: S. 75 in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/c) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
+[^c-8338b41d90d178f0ba6f882f33a7f9af]: Commencement: S. 75 in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/c) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))

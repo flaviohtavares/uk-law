@@ -38,7 +38,7 @@ Coming into operation in accordance with regulation 1
 
 The Department of the Environment, in exercise of the powers conferred on it by Articles 5(3), (4) and (5), 9(2) and (4)(b), 13(3)(a) and 218(1) of the Road Traffic (Northern Ireland) Order 1981[^f00001] and of every other power enabling it in that behalf, and in accordance with Article 19C(3) of that Order with the approval of the Department of Finance and Personnel[^f00002] as regards regulation 7, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-d584b615e5201f39bc131e4ab6a185d2]
+## 1. Citation, commencement and interpretation[^c-d584b615e5201f39bc131e4ab6a185d2]
 
 (1) These Regulations may be cited as the Motor Vehicles (Driving Licences) (Amendment No. 2) Regulations (Northern Ireland) 1999 and shall come into operation—
 
@@ -47,7 +47,7 @@ The Department of the Environment, in exercise of the powers conferred on it by 
 
 (2) In these Regulations “the principal Regulations” means the Motor Vehicles (Driving Licences) Regulations (Northern Ireland) 1996[^f00003].
 
-## 2. Meaning of “qualified driver”[^key-38608280ca2d4548c6b799215d825fee]
+## 2. Meaning of “qualified driver”[^c-38608280ca2d4548c6b799215d825fee]
 
 For regulation 11 of the principal Regulations (provisional licences: interpretation) there shall be substituted—
 
@@ -75,7 +75,7 @@ For regulation 11 of the principal Regulations (provisional licences: interpreta
 
 .
 
-## 3. Amendment to regulation 12 (conditions attached to provisional licences)[^key-0582c68bf0caae1f760dd22388d357e4]
+## 3. Amendment to regulation 12 (conditions attached to provisional licences)[^c-0582c68bf0caae1f760dd22388d357e4]
 
 After paragraph (9) of regulation 12 of the principal Regulations there shall be inserted—
 
@@ -83,7 +83,7 @@ After paragraph (9) of regulation 12 of the principal Regulations there shall be
 
 .
 
-## 4. Amendment to regulation 26 (vehicles suitable for test)[^key-29e5f48381731890db8a4c408e8fc2aa]
+## 4. Amendment to regulation 26 (vehicles suitable for test)[^c-29e5f48381731890db8a4c408e8fc2aa]
 
 For paragraph (3) of regulation 26 of the principal Regulations there shall be substituted—
 
@@ -123,19 +123,19 @@ For paragraph (3) of regulation 26 of the principal Regulations there shall be s
 
 .
 
-## 5. Amendment to regulation 29 (nature of tests other than extended tests)[^key-70525f6e39cabcb2e270b506e828dbc4]
+## 5. Amendment to regulation 29 (nature of tests other than extended tests)[^c-70525f6e39cabcb2e270b506e828dbc4]
 
 In paragraph (5)(b)(ii) of regulation 29[^f00006] of the principal Regulations, for “25 minutes” there shall be substituted “30 minutes”.
 
-## 6. Amendment to regulation 51 (disabilities prescribed in respect of Group 2 licences)[^key-6c84959d5735b98520da1877aa9d9d87]
+## 6. Amendment to regulation 51 (disabilities prescribed in respect of Group 2 licences)[^c-6c84959d5735b98520da1877aa9d9d87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment to Schedule 4 (fees for tests)[^key-66e9432b4a857e9c37c75566899be91a]
+## 7. Amendment to Schedule 4 (fees for tests)[^c-66e9432b4a857e9c37c75566899be91a]
 
 For Schedule 4[^f00008] to the principal Regulations there shall be substituted the Schedule set out in Schedule 1.
 
-## 8. Amendment to Schedule 6 (specified matters for theory test)[^key-c643a76adb14562a6144832ddfd9fa04]
+## 8. Amendment to Schedule 6 (specified matters for theory test)[^c-c643a76adb14562a6144832ddfd9fa04]
 
 For Parts 3 and 4 of Schedule 6 to the principal Regulations there shall be substituted the provisions contained in Schedule 2.
 
@@ -157,7 +157,7 @@ Assistant Secretary
 
 18th August 1999.
 
-## SCHEDULE 1[^key-3e8b742105c9ce6c7280db04b0c829af]
+## SCHEDULE 1[^c-3e8b742105c9ce6c7280db04b0c829af]
 
 Regulation 7.
 
@@ -181,7 +181,7 @@ Regulation 7.
 > </tbody>
 > </table>
 
-## SCHEDULE 2 — Provisions substituted for Parts 3 and 4 of Schedule 6[^key-180e666e932d9b002c52d1c08a4ebe39]
+## SCHEDULE 2 — Provisions substituted for Parts 3 and 4 of Schedule 6[^c-180e666e932d9b002c52d1c08a4ebe39]
 
 Regulation 8
 
@@ -324,34 +324,34 @@ These Regulations further amend the Motor Vehicles (Driving Licences) Regulation
 
 [^f00002]: Footnote: Formerly the Department of Finance; see S.I. [1982/338 (N.I. 6)](https://www.legislation.gov.uk/nisi/1982/338), Article 3
 
-[^key-d584b615e5201f39bc131e4ab6a185d2]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/1999/358/regulation/1) in operation at 1.11.1999, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/358/regulation/1/1/b)
+[^c-d584b615e5201f39bc131e4ab6a185d2]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/1999/358/regulation/1) in operation at 1.11.1999, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/358/regulation/1/1/b)
 
 [^f00003]: Footnote: [S.R. 1996 No. 542](https://www.legislation.gov.uk/nisr/1996/542); relevant amending Regulations are [S.R. 1997 No. 383](https://www.legislation.gov.uk/nisr/1997/383), [S.R. 1998 No. 415](https://www.legislation.gov.uk/nisr/1998/415) and [S.R. 1999 No. 77](https://www.legislation.gov.uk/nisr/1999/77)
 
-[^key-38608280ca2d4548c6b799215d825fee]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/1999/358/regulation/2) in operation at 1.11.1999, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/358/regulation/1/1/b)
+[^c-38608280ca2d4548c6b799215d825fee]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/1999/358/regulation/2) in operation at 1.11.1999, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/358/regulation/1/1/b)
 
-[^key-0582c68bf0caae1f760dd22388d357e4]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/1999/358/regulation/3) in operation at 1.11.1999, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/358/regulation/1/1/b)
+[^c-0582c68bf0caae1f760dd22388d357e4]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/1999/358/regulation/3) in operation at 1.11.1999, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/358/regulation/1/1/b)
 
-[^key-29e5f48381731890db8a4c408e8fc2aa]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/1999/358/regulation/4) in operation at 1.11.1999, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/358/regulation/1/1/b)
+[^c-29e5f48381731890db8a4c408e8fc2aa]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/1999/358/regulation/4) in operation at 1.11.1999, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/358/regulation/1/1/b)
 
 [^f00004]: Footnote: Council Directive of 16 October 1978 on the approximation of laws relating to the head restraints of seats of motor vehicles (O.J. No. L325, 20.11.78, p. 1)
 
 [^f00005]: Footnote: Regulation 18 was amended by [S.R. 1997 No. 383](https://www.legislation.gov.uk/nisr/1997/383), regulation 5
 
-[^key-70525f6e39cabcb2e270b506e828dbc4]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/1999/358/regulation/5) in operation at 1.11.1999, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/358/regulation/1/1/b)
+[^c-70525f6e39cabcb2e270b506e828dbc4]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/1999/358/regulation/5) in operation at 1.11.1999, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/358/regulation/1/1/b)
 
 [^f00006]: Footnote: Regulation 29 was amended by [S.R. 1997 No. 383](https://www.legislation.gov.uk/nisr/1997/383), regulation 8 and [S.R. 1999 No. 77](https://www.legislation.gov.uk/nisr/1999/77), regulation 2(2)
 
-[^key-6c84959d5735b98520da1877aa9d9d87]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/nisr/1999/358/regulation/6) revoked (29.10.2012) by [The Motor Vehicles (Driving Licences) (Amendment No. 2) Regulations (Northern Ireland) 2012 (S.R. 2012/355)](https://www.legislation.gov.uk/nisr/2012/355), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/355/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2012/355/regulation/4)
+[^c-6c84959d5735b98520da1877aa9d9d87]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/nisr/1999/358/regulation/6) revoked (29.10.2012) by [The Motor Vehicles (Driving Licences) (Amendment No. 2) Regulations (Northern Ireland) 2012 (S.R. 2012/355)](https://www.legislation.gov.uk/nisr/2012/355), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/355/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2012/355/regulation/4)
 
-[^key-66e9432b4a857e9c37c75566899be91a]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/1999/358/regulation/7) in operation at 4.10.1999, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/358/regulation/1/1/a)
+[^c-66e9432b4a857e9c37c75566899be91a]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/1999/358/regulation/7) in operation at 4.10.1999, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/358/regulation/1/1/a)
 
 [^f00008]: Footnote: Schedule 4 was substituted by [S.R. 1997 No. 383](https://www.legislation.gov.uk/nisr/1997/383), regulation 23
 
-[^key-c643a76adb14562a6144832ddfd9fa04]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/1999/358/regulation/8) in operation at 1.11.1999, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/358/regulation/1/1/b)
+[^c-c643a76adb14562a6144832ddfd9fa04]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/1999/358/regulation/8) in operation at 1.11.1999, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/358/regulation/1/1/b)
 
-[^key-3e8b742105c9ce6c7280db04b0c829af]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/1999/358/schedule/1) in operation at 4.10.1999, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/358/regulation/1/1/a)
+[^c-3e8b742105c9ce6c7280db04b0c829af]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/1999/358/schedule/1) in operation at 4.10.1999, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/358/regulation/1/1/a)
 
 [^f00009]: Footnote: Regulation 22 was amended by [S.R. 1997 No. 383](https://www.legislation.gov.uk/nisr/1997/383), regulation 7
 
-[^key-180e666e932d9b002c52d1c08a4ebe39]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/1999/358/schedule/2) in operation at 1.11.1999, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/358/regulation/1/1/b)
+[^c-180e666e932d9b002c52d1c08a4ebe39]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/1999/358/schedule/2) in operation at 1.11.1999, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/358/regulation/1/1/b)

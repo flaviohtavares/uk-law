@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 75. Saving for certain vehicles etc.[^key-202746addf02bed8ee1792b3cb97ea8b]
+## 75. Saving for certain vehicles etc.[^c-202746addf02bed8ee1792b3cb97ea8b]
 
 *Extent: E+W*
 
@@ -48,7 +48,7 @@ In this subsection, “**private hire car**” and “**taxi**” have the same 
 
 ## Annotations
 
-[^key-202746addf02bed8ee1792b3cb97ea8b]: Modification: Ss. 72-80 modified (27.11.2009) by [The Local Services (Operation by Licensed Hire Cars) Regulations 2009 (S.I. 2009/2863)](https://www.legislation.gov.uk/uksi/2009/2863), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2863/regulation/1), [4](https://www.legislation.gov.uk/uksi/2009/2863/regulation/4) Table (with [reg. 3](https://www.legislation.gov.uk/uksi/2009/2863/regulation/3))
+[^c-202746addf02bed8ee1792b3cb97ea8b]: Modification: Ss. 72-80 modified (27.11.2009) by [The Local Services (Operation by Licensed Hire Cars) Regulations 2009 (S.I. 2009/2863)](https://www.legislation.gov.uk/uksi/2009/2863), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2863/regulation/1), [4](https://www.legislation.gov.uk/uksi/2009/2863/regulation/4) Table (with [reg. 3](https://www.legislation.gov.uk/uksi/2009/2863/regulation/3))
 
 [^c19153871]: Textual amendment: S. 75(1)(b) omitted (28.1.2008) by virtue of [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 53](https://www.legislation.gov.uk/ukpga/2006/49/section/53), [61](https://www.legislation.gov.uk/ukpga/2006/49/section/61); [S.I. 2007/3492](https://www.legislation.gov.uk/uksi/2007/3492), [art. 2](https://www.legislation.gov.uk/uksi/2007/3492/article/2) and repealed (prosp.) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 59](https://www.legislation.gov.uk/ukpga/2006/49/section/59), [Sch. 7(17)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7/17)
 

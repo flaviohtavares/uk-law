@@ -50,7 +50,7 @@ The Secretary of State makes these Regulations in exercise of the powers in sect
 
 ## PART 1 — Introduction
 
-### 1. Citation, commencement and extent[^key-bd686e659d0476f75c2939301d10b38b]
+### 1. Citation, commencement and extent[^c-bd686e659d0476f75c2939301d10b38b]
 
 (1) These Regulations may be cited as the Biodiversity Gain (Town and Country Planning) (Modifications and Amendments) (England) Regulations 2024.
 
@@ -60,21 +60,21 @@ The Secretary of State makes these Regulations in exercise of the powers in sect
 
 ## PART 2 — Modification of Application of Part 2 of Schedule 7A to the 1990 Act: Development in Phases
 
-### 2. Interpretation[^key-6f3bc1f83a813f930ee9f58cf35ddd48]
+### 2. Interpretation[^c-6f3bc1f83a813f930ee9f58cf35ddd48]
 
 In this Part—
 
 - “**the 1990 Act**” means the Town and Country Planning Act 1990[^f00003];
 - “post-development biodiversity value of the onsite habitat for a phase of development” and related expressions have the same meaning as “post-development biodiversity value of the onsite habitat” in paragraphs 8 and 9 of Schedule 7A to the 1990 Act (post-development biodiversity value) but as if references in those paragraphs to “the onsite habitat” were references to “the onsite habitat on the land to which the phase of development relates”.
 
-### 3. Modification of application of Part 2 of Schedule 7A to the 1990 Act: development in phases[^key-a4b74cb2008724236ecc15699d6cf3e7]
+### 3. Modification of application of Part 2 of Schedule 7A to the 1990 Act: development in phases[^c-a4b74cb2008724236ecc15699d6cf3e7]
 
 Part 2 of Schedule 7A to the 1990 Act (condition of planning permission relating to biodiversity gain)[^f00004] applies, with the modifications in regulations 4 to 8, in relation to—
 
 - (a) the grant of outline planning permission, where the reservation of matters for subsequent approval has the effect of requiring or permitting development to proceed in phases;
 - (b) the grant of any kind of planning permission[^f00005], where the grant is subject to conditions (whether requiring the subsequent approval of any matters or otherwise) having that effect.
 
-### 4. Substitution of paragraph 13 (general condition of planning permission)[^key-beb08b47e66c78072d663b01a3a95007]
+### 4. Substitution of paragraph 13 (general condition of planning permission)[^c-beb08b47e66c78072d663b01a3a95007]
 
 Part 2 of Schedule 7A to the 1990 Act applies as if for paragraph 13 there was substituted—
 
@@ -117,7 +117,7 @@ Part 2 of Schedule 7A to the 1990 Act applies as if for paragraph 13 there was s
 
 .
 
-### 5. Modification of paragraph 14 (biodiversity gain plan)[^key-74037c855e6982e0ec452b8c1561839a]
+### 5. Modification of paragraph 14 (biodiversity gain plan)[^c-74037c855e6982e0ec452b8c1561839a]
 
 For the purposes of paragraph 13(3)(a) (overall plan) as modified by regulation 4, paragraph 14 applies as if—
 
@@ -154,7 +154,7 @@ For the purposes of paragraph 13(3)(a) (overall plan) as modified by regulation 
 
   .
 
-**6.**[^key-3481f96aca2aab7d19f579596a5038a0] For the purposes of paragraph 13(5)(a) (phase plan) as modified by regulation 4, paragraph 14 applies as if—
+**6.**[^c-3481f96aca2aab7d19f579596a5038a0] For the purposes of paragraph 13(5)(a) (phase plan) as modified by regulation 4, paragraph 14 applies as if—
 
 - (a) in the heading, at the end there were inserted “: phase plan”;
 - (b) for sub-paragraph (1) there were substituted—
@@ -181,7 +181,7 @@ For the purposes of paragraph 13(3)(a) (overall plan) as modified by regulation 
 
   .
 
-### 7. Modification of paragraph 15 (approval of biodiversity gain plan)[^key-07d441cf6c50c5e521d79c0c040eab53]
+### 7. Modification of paragraph 15 (approval of biodiversity gain plan)[^c-07d441cf6c50c5e521d79c0c040eab53]
 
 For the purposes of paragraph 13(3)(a) (overall plan) as modified by regulation 4, paragraph 15 applies as if—
 
@@ -221,7 +221,7 @@ For the purposes of paragraph 13(3)(a) (overall plan) as modified by regulation 
 
   .
 
-**8.**[^key-3446577786dfade00f7bd6aa447d4b81] For the purposes of paragraph 13(5)(a) (phase plan) as modified by regulation 4, paragraph 15 applies as if—
+**8.**[^c-3446577786dfade00f7bd6aa447d4b81] For the purposes of paragraph 13(5)(a) (phase plan) as modified by regulation 4, paragraph 15 applies as if—
 
 - (a) in the heading, for “biodiversity gain” there were substituted “phase”;
 - (b) for sub-paragraph (1) there were substituted—
@@ -255,17 +255,17 @@ For the purposes of paragraph 13(3)(a) (overall plan) as modified by regulation 
 
 ## PART 3 — Amendments to the Town and Country Planning (Section 62A Applications) (Procedure and Consequential Amendments) Order 2013
 
-### 9. Amendments to the Town and Country Planning (Section 62A Applications) (Procedure and Consequential Amendments) Order 2013[^key-42990614510fe2382a6e1c20974f9b59]
+### 9. Amendments to the Town and Country Planning (Section 62A Applications) (Procedure and Consequential Amendments) Order 2013[^c-42990614510fe2382a6e1c20974f9b59]
 
 The Town and Country Planning (Section 62A Applications) (Procedure and Consequential Amendments) Order 2013[^f00014] is amended in accordance with regulations 10 to 12.
 
-**10.**[^key-61979485229eb90febb5eb8b240600fa] In article 2 (interpretation) after the definition of “infrastructure manager”, insert—
+**10.**[^c-61979485229eb90febb5eb8b240600fa] In article 2 (interpretation) after the definition of “infrastructure manager”, insert—
 
 > - “**irreplaceable habitat**” has the meaning given by regulation 2 of the Biodiversity Gain Requirements (Irreplaceable Habitat) Regulations 2024[^f00015];
 
 .
 
-**11.**[^key-d17c0bfe2605617ea317b0280ba64b5a] In article 4 (applications for planning permission)—
+**11.**[^c-d17c0bfe2605617ea317b0280ba64b5a] In article 4 (applications for planning permission)—
 
 - (a) in paragraph (1)(c)—
   - (i) in paragraph (i)—
@@ -304,7 +304,7 @@ The Town and Country Planning (Section 62A Applications) (Procedure and Conseque
   ;
 - (c) in paragraph (2), after “required to be provided by paragraph (1)” insert “or paragraph (1A)”.
 
-**12.**[^key-b2dd7b04f32aa4be0d82334245ec050e] In article 24 (contents of the decision notice))—
+**12.**[^c-b2dd7b04f32aa4be0d82334245ec050e] In article 24 (contents of the decision notice))—
 
 - (a) in paragraph (1), before sub-paragraph (a) insert—
 
@@ -323,15 +323,15 @@ The Town and Country Planning (Section 62A Applications) (Procedure and Conseque
 
 ## PART 4 — Amendments to the Town and Country Planning (Development Management Procedure) (England) Order 2015
 
-**13.**[^key-7b539b6796c263cf5212609c2d413865] The Town and Country Planning (Development Management Procedure) (England) Order 2015[^f00020] is amended in accordance with regulations 14 to 20.
+**13.**[^c-7b539b6796c263cf5212609c2d413865] The Town and Country Planning (Development Management Procedure) (England) Order 2015[^f00020] is amended in accordance with regulations 14 to 20.
 
-**14.**[^key-550894b9a3a29e57995c0056a7ba4bb9] In article 2 (interpretation) after the definition of “infrastructure manager”, insert—
+**14.**[^c-550894b9a3a29e57995c0056a7ba4bb9] In article 2 (interpretation) after the definition of “infrastructure manager”, insert—
 
 > - “**irreplaceable habitat**” has the meaning given by regulation 2 of the Biodiversity Gain Requirements (Irreplaceable Habitat) Regulations 2024;
 
 .
 
-**15.**[^key-56830d0a872625a88c3f00f41e1064f4] In article 7 (general requirements: applications for planning permission including outline planning permission)—
+**15.**[^c-56830d0a872625a88c3f00f41e1064f4] In article 7 (general requirements: applications for planning permission including outline planning permission)—
 
 - (a) in paragraph (1), after sub-paragraph (c)(ii), insert—
 
@@ -368,7 +368,7 @@ The Town and Country Planning (Section 62A Applications) (Procedure and Conseque
   ;
 - (c) in paragraph (2), for “(1)(c)(i) or (ii)” substitute “(1) or (1A)”.
 
-**16.**[^key-ae2b639475a565d8e735bbb39463adab] In article 27 (applications made under a planning condition), after paragraph (3) insert—
+**16.**[^c-ae2b639475a565d8e735bbb39463adab] In article 27 (applications made under a planning condition), after paragraph (3) insert—
 
 > (4) Part 7A applies, and paragraphs (1) and (2) do not apply, to the submission of a biodiversity gain plan for approval under—
 >
@@ -377,7 +377,7 @@ The Town and Country Planning (Section 62A Applications) (Procedure and Conseque
 
 .
 
-**17.**[^key-1940a3e5670a2a929843c64ea5b158a9] In article 35 (written notice of decision or determination relating to a planning application)—
+**17.**[^c-1940a3e5670a2a929843c64ea5b158a9] In article 35 (written notice of decision or determination relating to a planning application)—
 
 - (a) in paragraph (1), before sub-paragraph (a), insert—
 
@@ -394,13 +394,13 @@ The Town and Country Planning (Section 62A Applications) (Procedure and Conseque
 
   .
 
-**18.**[^key-23f670db1446ef75ba61295d86fe15fe] In article 37 (appeals) at the beginning insert—
+**18.**[^c-23f670db1446ef75ba61295d86fe15fe] In article 37 (appeals) at the beginning insert—
 
 > (A1) This article does not apply to an appeal to the Secretary of State under section 78 of the 1990 Act[^f00021] for not approving or not determining a biodiversity gain plan (see Part 7A, article 37E).
 
 .
 
-**19.**[^key-eb51314b8a733697ae660f40c3a45720] After Part 7 (appeals) insert—
+**19.**[^c-eb51314b8a733697ae660f40c3a45720] After Part 7 (appeals) insert—
 
 > **PART 7A — Biodiversity Gain Plan**
 >
@@ -578,7 +578,7 @@ The Town and Country Planning (Section 62A Applications) (Procedure and Conseque
 
 .
 
-**20.**[^key-ed2dae0396e60a636e0f0497e3e26ac4] In article 40 (register of applications)—
+**20.**[^c-ed2dae0396e60a636e0f0497e3e26ac4] In article 40 (register of applications)—
 
 - (a) at the end of the heading insert “and biodiversity gain plans”;
 - (b) after paragraph (4), insert—
@@ -594,7 +594,7 @@ The Town and Country Planning (Section 62A Applications) (Procedure and Conseque
 
 ## PART 5 — Review
 
-### 21. Requirement to carry out a review of the regulatory provision made by these Regulations[^key-d8102af98a9f1bd5e4974e572b744841]
+### 21. Requirement to carry out a review of the regulatory provision made by these Regulations[^c-d8102af98a9f1bd5e4974e572b744841]
 
 (1) The Secretary of State must from time to time—
 
@@ -644,25 +644,25 @@ An Explanatory Memorandum has been published alongside these Regulations on www.
 
 [^f00002]: Footnote: [2021 c. 30](https://www.legislation.gov.uk/ukpga/2021/30).
 
-[^key-bd686e659d0476f75c2939301d10b38b]: Commencement: Reg. 1 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/50/regulation/1/2)
+[^c-bd686e659d0476f75c2939301d10b38b]: Commencement: Reg. 1 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/50/regulation/1/2)
 
-[^key-6f3bc1f83a813f930ee9f58cf35ddd48]: Commencement: Reg. 2 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/50/regulation/1/2)
+[^c-6f3bc1f83a813f930ee9f58cf35ddd48]: Commencement: Reg. 2 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/50/regulation/1/2)
 
 [^f00003]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8).
 
-[^key-a4b74cb2008724236ecc15699d6cf3e7]: Commencement: Reg. 3 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/50/regulation/1/2)
+[^c-a4b74cb2008724236ecc15699d6cf3e7]: Commencement: Reg. 3 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/50/regulation/1/2)
 
 [^f00004]: Footnote: Part 2 of Schedule 7A to the Town and Country Planning Act 1990 was inserted by the Environment Act 2021.
 
 [^f00005]: Footnote: The term “planning permission” is defined in section 336(1) of the Town and Country Planning Act 1990, as amended by section 84(6) of, and Part 1 of Schedule 19 to, the Planning and Compensation Act [1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34) and paragraphs 1 and 40(1) and (3) of Schedule 12 to the Housing and Planning Act 2016. It is prospectively amended by paragraphs 1 and 10(b) of Schedule 10 to the Levelling-up and Regeneration Act 2023 from a date and time to be appointed.
 
-[^key-beb08b47e66c78072d663b01a3a95007]: Commencement: Reg. 4 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/50/regulation/1/2)
+[^c-beb08b47e66c78072d663b01a3a95007]: Commencement: Reg. 4 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/50/regulation/1/2)
 
 [^f00006]: Footnote: Section 73 was amended by sections 42(2) and 51(3) of, and Schedule 9 to, the Planning and Compulsory Purchase Act 2004, section 35(1) and (7) of the Planning (Wales) Act 2015, paragraphs 1 and 4 of Schedule 3 to the Neighbourhood Planning Act [2017 (c. 20)](https://www.legislation.gov.uk/ukpga/2017/20), paragraph 3(1) and (5) of Schedule 14 to the Environment Act 2021, section 114(1) and (6) of the Levelling-up and Regeneration Act 2023 and [S.I. 2024/49](https://www.legislation.gov.uk/uksi/2024/49).
 
 [^f00007]: Footnote: The term “**planning authority**” has the meaning given by paragraph 12(1) of Schedule 7A to the Town and Country Planning Act 1990.
 
-[^key-74037c855e6982e0ec452b8c1561839a]: Commencement: Reg. 5 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/50/regulation/1/2)
+[^c-74037c855e6982e0ec452b8c1561839a]: Commencement: Reg. 5 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/50/regulation/1/2)
 
 [^f00008]: Footnote: The term “**onsite habitat**” has the meaning given by paragraph 12(1) of Schedule 7A to the Town and Country Planning Act 1990.
 
@@ -676,21 +676,21 @@ An Explanatory Memorandum has been published alongside these Regulations on www.
 
 [^f00013]: Footnote: “Irreplaceable habitat” is defined for the purposes of Part 2 of Schedule 7A to the Town and Country Planning Act 1990 by regulation 2 of [S.I. 2024/48](https://www.legislation.gov.uk/uksi/2024/48).
 
-[^key-3481f96aca2aab7d19f579596a5038a0]: Commencement: Reg. 6 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/50/regulation/1/2)
+[^c-3481f96aca2aab7d19f579596a5038a0]: Commencement: Reg. 6 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/50/regulation/1/2)
 
-[^key-07d441cf6c50c5e521d79c0c040eab53]: Commencement: Reg. 7 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/50/regulation/1/2)
+[^c-07d441cf6c50c5e521d79c0c040eab53]: Commencement: Reg. 7 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/50/regulation/1/2)
 
-[^key-3446577786dfade00f7bd6aa447d4b81]: Commencement: Reg. 8 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/50/regulation/1/2)
+[^c-3446577786dfade00f7bd6aa447d4b81]: Commencement: Reg. 8 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/50/regulation/1/2)
 
-[^key-42990614510fe2382a6e1c20974f9b59]: Commencement: Reg. 9 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/50/regulation/1/2)
+[^c-42990614510fe2382a6e1c20974f9b59]: Commencement: Reg. 9 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/50/regulation/1/2)
 
 [^f00014]: Footnote: [S.I. 2013/2140](https://www.legislation.gov.uk/uksi/2013/2140); relevant amending instruments are [S.I. 2014/1532](https://www.legislation.gov.uk/uksi/2014/1532), [2015/797](https://www.legislation.gov.uk/uksi/2015/797), [2016/944](https://www.legislation.gov.uk/uksi/2016/944), [2017/571](https://www.legislation.gov.uk/uksi/2017/571), [2018/119](https://www.legislation.gov.uk/uksi/2018/119) and [2021/746](https://www.legislation.gov.uk/uksi/2021/746).
 
-[^key-61979485229eb90febb5eb8b240600fa]: Commencement: Reg. 10 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/50/regulation/1/2)
+[^c-61979485229eb90febb5eb8b240600fa]: Commencement: Reg. 10 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/50/regulation/1/2)
 
 [^f00015]: Footnote: [S.I. 2124/48](https://www.legislation.gov.uk/uksi/2124/48).
 
-[^key-d17c0bfe2605617ea317b0280ba64b5a]: Commencement: Reg. 11 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/50/regulation/1/2)
+[^c-d17c0bfe2605617ea317b0280ba64b5a]: Commencement: Reg. 11 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/50/regulation/1/2)
 
 [^f00016]: Footnote: See article 2(1) of [S.I. 2013/2140](https://www.legislation.gov.uk/uksi/2013/2140), by virtue of which “**relevant application**” has the same meaning as in section 62A of the Town and Country Planning Act 1990. Section 62A was inserted by section 1(1) of the Growth and Infrastructure Act 2013, and amended by section 153(1) of the Housing and Planning Act 2016 and section 110(1) and (3)(a) of the Levelling-up and Regeneration Act 2023.
 
@@ -700,32 +700,32 @@ An Explanatory Memorandum has been published alongside these Regulations on www.
 
 [^f00019]: Footnote: Paragraph 6A of Schedule 7A was inserted by section 135(b) of the Levelling-up and Regeneration Act 2023.
 
-[^key-b2dd7b04f32aa4be0d82334245ec050e]: Commencement: Reg. 12 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/50/regulation/1/2)
+[^c-b2dd7b04f32aa4be0d82334245ec050e]: Commencement: Reg. 12 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/50/regulation/1/2)
 
-[^key-7b539b6796c263cf5212609c2d413865]: Commencement: Reg. 13 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/50/regulation/1/2)
+[^c-7b539b6796c263cf5212609c2d413865]: Commencement: Reg. 13 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/50/regulation/1/2)
 
 [^f00020]: Footnote: [S.I. 2015/595](https://www.legislation.gov.uk/uksi/2015/595); relevant amending instruments are [S.I. 2017/402](https://www.legislation.gov.uk/uksi/2017/402), [571](https://www.legislation.gov.uk/uksi/2017/571), [1013](https://www.legislation.gov.uk/uksi/2017/1013), [2018/119](https://www.legislation.gov.uk/uksi/2018/119), [2020/505](https://www.legislation.gov.uk/uksi/2020/505) and [2021/746](https://www.legislation.gov.uk/uksi/2021/746).
 
-[^key-550894b9a3a29e57995c0056a7ba4bb9]: Commencement: Reg. 14 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/50/regulation/1/2)
+[^c-550894b9a3a29e57995c0056a7ba4bb9]: Commencement: Reg. 14 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/50/regulation/1/2)
 
-[^key-56830d0a872625a88c3f00f41e1064f4]: Commencement: Reg. 15 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/50/regulation/1/2)
+[^c-56830d0a872625a88c3f00f41e1064f4]: Commencement: Reg. 15 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/50/regulation/1/2)
 
-[^key-ae2b639475a565d8e735bbb39463adab]: Commencement: Reg. 16 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/50/regulation/1/2)
+[^c-ae2b639475a565d8e735bbb39463adab]: Commencement: Reg. 16 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/50/regulation/1/2)
 
-[^key-1940a3e5670a2a929843c64ea5b158a9]: Commencement: Reg. 17 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/50/regulation/1/2)
+[^c-1940a3e5670a2a929843c64ea5b158a9]: Commencement: Reg. 17 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/50/regulation/1/2)
 
-[^key-23f670db1446ef75ba61295d86fe15fe]: Commencement: Reg. 18 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/50/regulation/1/2)
+[^c-23f670db1446ef75ba61295d86fe15fe]: Commencement: Reg. 18 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/50/regulation/1/2)
 
 [^f00021]: Footnote: Section 78 was amended by section 17(2) of the Planning and Compulsory Purchase Act 1991, section 121(1), (2)(b), (3A) and (3B) of the Planning and Compulsory Purchase Act 2004, Paragraphs 1 and 3(a) and (b) of Schedule 10 and paragraphs 1 and 2 of Schedule 11 to the Planning and Compulsory Purchase Act 2008, section 123(1) and (3) of, and paragraphs 1 and 11 of Schedule 12 to, the Localism Act 2011, paragraphs 2 and 12 of Part 2 of Schedule 4 to the Infrastructure Act 2015, sections 45 and 47(1) of, and paragraph 7(1) and (2) of Schedule 7 to, the Planning (Wales) Act 2015, paragraphs 1 and 12 of Schedule 12 to the Housing and Planning Act 2016, and [S.I. 2014/2773](https://www.legislation.gov.uk/uksi/2014/2773). Section 78 is prospectively amended by section 113(1) and (5) of, and paragraph 1(1) and (12) of Schedule 9 to, the Levelling-up and Regeneration Act 2023 from a date and time to be appointed.
 
-[^key-eb51314b8a733697ae660f40c3a45720]: Commencement: Reg. 19 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/50/regulation/1/2)
+[^c-eb51314b8a733697ae660f40c3a45720]: Commencement: Reg. 19 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/50/regulation/1/2)
 
 [^f00022]: Footnote: The term “**habitat enhancement**” has the meaning given by paragraph 12(2) of Schedule 7A to the Town and Country Planning Act 1990.
 
 [^f00023]: Footnote: Hard copies of the appeal form may be obtained from the Department for Levelling Up, Housing and Communities, 2 Marsham Street, London, SW1P 4DF.
 
-[^key-ed2dae0396e60a636e0f0497e3e26ac4]: Commencement: Reg. 20 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/50/regulation/1/2)
+[^c-ed2dae0396e60a636e0f0497e3e26ac4]: Commencement: Reg. 20 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/50/regulation/1/2)
 
-[^key-d8102af98a9f1bd5e4974e572b744841]: Commencement: Reg. 21 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/50/regulation/1/2)
+[^c-d8102af98a9f1bd5e4974e572b744841]: Commencement: Reg. 21 in force at 12.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/50/regulation/1/2)
 
 [^f00024]: Footnote: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26).

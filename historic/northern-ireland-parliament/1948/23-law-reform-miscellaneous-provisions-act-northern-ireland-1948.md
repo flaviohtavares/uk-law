@@ -30,7 +30,7 @@ Law Reform (Miscellaneous Provisions) Act (Northern Ireland) 1948 [^c5436311]
 
 [^c20691781]An Act to abolish the defence of common employment; to amend the law relating to contributory negligence and the measure of damages for personal injury or death; and for purposes connected with the matters aforesaid.
 
-\[23rd December 1948\][^key-f01d584737cf06012cb56cc2e88ec068]
+\[23rd December 1948\][^c-f01d584737cf06012cb56cc2e88ec068]
 
 ## 1. Common employment not to be a defence.
 
@@ -108,7 +108,7 @@ This Act may be cited as the Law Reform (Miscellaneous Provisions) Act (Northern
 
 [^c20691781]: Modification: Act applied by 1995 (c. 21), s. 156A (as inserted (15.7.2006 for certain purposes, otherwise on the day on which the International Convention on Civil Liability for Bunker Oil Pollution Damage 2001 comes into force in respect of the United Kingdom) by [Merchant Shipping (Oil Pollution) (Bunkers Convention) Regulations 2006 (S.I. 2006/1244)](https://www.legislation.gov.uk/uksi/2006/1244), [regs. 1(2)-(4)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2006/1244/regulation/9))
 
-[^key-f01d584737cf06012cb56cc2e88ec068]: Modification: Act applied by 1995 c. 21, s. 156A (as inserted (21.11.2008 being the day on which the International Convention on Civil Liability for Bunker Oil Pollution Damage 2001 comes into force in respect of the United Kingdom) by [The Merchant Shipping (Oil Pollution) (Bunkers Convention) Regulations 2006 (S.I. 2006/1244)](https://www.legislation.gov.uk/uksi/2006/1244), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2006/1244/regulation/9) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/5)))
+[^c-f01d584737cf06012cb56cc2e88ec068]: Modification: Act applied by 1995 c. 21, s. 156A (as inserted (21.11.2008 being the day on which the International Convention on Civil Liability for Bunker Oil Pollution Damage 2001 comes into force in respect of the United Kingdom) by [The Merchant Shipping (Oil Pollution) (Bunkers Convention) Regulations 2006 (S.I. 2006/1244)](https://www.legislation.gov.uk/uksi/2006/1244), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2006/1244/regulation/9) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/5)))
 
 [^c19009611]: Modification: [S. 2](https://www.legislation.gov.uk/apni/1948/23/section/2) applied (1.4.2007) by [Water and Sewerage Services (Northern Ireland) Order 2006 (S.I. 2006/3336 (N.I. 21))](https://www.legislation.gov.uk/nisi/2006/3336), [arts. 1(2)](https://www.legislation.gov.uk/nisi/2006/3336/article/1/2), [298(4)](https://www.legislation.gov.uk/nisi/2006/3336/article/298/4) (with [arts. 8(8)](https://www.legislation.gov.uk/nisi/2006/3336/article/8/8), [121(3)](https://www.legislation.gov.uk/nisi/2006/3336/article/121/3), [307](https://www.legislation.gov.uk/nisi/2006/3336/article/307)); [S.R. 2007/194](https://www.legislation.gov.uk/nisr/2007/194), [art. 2(2)](https://www.legislation.gov.uk/nisr/2007/194/article/2/2), [Sch. 1 Pt. II](https://www.legislation.gov.uk/nisr/2007/194/schedule/1/part/II) (subject to [art. 3](https://www.legislation.gov.uk/nisr/2007/194/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2007/194/schedule/2))
 

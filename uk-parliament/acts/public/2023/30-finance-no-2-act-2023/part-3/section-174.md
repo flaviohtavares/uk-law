@@ -33,7 +33,7 @@ summary: ''
   Determine whether any amounts need to be reflected in that expense under section 176 (and adjust it accordingly).
 - *Step 4*
 
-  If any amount of covered taxes is taken into account more than once in the qualifying current tax expense[^key-3c711434e8e376291e2691f1109a1526], adjust it so that the amount is only taken into account once.
+  If any amount of covered taxes is taken into account more than once in the qualifying current tax expense[^c-3c711434e8e376291e2691f1109a1526], adjust it so that the amount is only taken into account once.
 
 (2) For the purposes of this Part, current tax expense is to be expressed—
 
@@ -47,9 +47,9 @@ summary: ''
 (5) In this Part—
 
 - references to the “**covered tax balance**” of a member of a multinational group are to a positive covered tax balance or a negative covered tax balance;
-- “**qualifying current tax expense**” means the amount of the current tax expense as reflected in the member’s partially adjusted profits[^key-d8415894054dca6b62ffb2961a4973b7] to the extent the expense relates to covered taxes.
+- “**qualifying current tax expense**” means the amount of the current tax expense as reflected in the member’s partially adjusted profits[^c-d8415894054dca6b62ffb2961a4973b7] to the extent the expense relates to covered taxes.
 
-(6)[^key-f822eb90b5696994eaa0744a163ae3e4] For the purposes of the definition of “qualifying current tax expense” in subsection (5), the member’s “partially adjusted profits” are its underlying profits with the adjustments contained in the following sections applied—
+(6)[^c-f822eb90b5696994eaa0744a163ae3e4] For the purposes of the definition of “qualifying current tax expense” in subsection (5), the member’s “partially adjusted profits” are its underlying profits with the adjustments contained in the following sections applied—
 
 - section 137A (use of substituted values);
 - section 139 (profits adjusted to be profits before consolidation adjustments to eliminate intragroup transactions);
@@ -57,8 +57,8 @@ summary: ''
 
 ## Annotations
 
-[^key-3c711434e8e376291e2691f1109a1526]: Textual amendment: Words in s. 174(1) substituted (in relation to accounting periods commencing on or after 31.12.2024) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 18](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/18), [72(3)(a)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/3/a)
+[^c-3c711434e8e376291e2691f1109a1526]: Textual amendment: Words in s. 174(1) substituted (in relation to accounting periods commencing on or after 31.12.2024) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 18](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/18), [72(3)(a)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/3/a)
 
-[^key-d8415894054dca6b62ffb2961a4973b7]: Textual amendment: Words in [s. 174(5)](https://www.legislation.gov.uk/ukpga/2023/30/section/174/5) substituted (with effect in accordance with Sch. 8 para. 53(5)-(13) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 8 paras. 13(2)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/13/2), [53(5)-(13)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/53/5)
+[^c-d8415894054dca6b62ffb2961a4973b7]: Textual amendment: Words in [s. 174(5)](https://www.legislation.gov.uk/ukpga/2023/30/section/174/5) substituted (with effect in accordance with Sch. 8 para. 53(5)-(13) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 8 paras. 13(2)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/13/2), [53(5)-(13)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/53/5)
 
-[^key-f822eb90b5696994eaa0744a163ae3e4]: Textual amendment: S. 174(6) inserted (with effect in accordance with Sch. 8 para. 53(5)-(13) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 8 paras. 13(3)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/13/3), [53(5)-(13)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/53/5)
+[^c-f822eb90b5696994eaa0744a163ae3e4]: Textual amendment: S. 174(6) inserted (with effect in accordance with Sch. 8 para. 53(5)-(13) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 8 paras. 13(3)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/13/3), [53(5)-(13)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/53/5)

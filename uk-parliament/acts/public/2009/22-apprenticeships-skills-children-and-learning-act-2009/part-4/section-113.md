@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113.[^key-7d991ad3b494fe84dc45b53ed734fa6b]
+## 113.[^c-7d991ad3b494fe84dc45b53ed734fa6b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7d991ad3b494fe84dc45b53ed734fa6b]: Textual amendment: Ss. 112-114 repealed (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 73(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/73/3), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-7d991ad3b494fe84dc45b53ed734fa6b]: Textual amendment: Ss. 112-114 repealed (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 73(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/73/3), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 116N. Tax on disposals to landfill[^key-34c3d0c79ace9f5df74256abaecb1306]
+## 116N. Tax on disposals to landfill[^c-34c3d0c79ace9f5df74256abaecb1306]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-34c3d0c79ace9f5df74256abaecb1306]: Textual amendment: Pt. 4A Ch. 4 inserted (17.2.2015) by [Wales Act 2014 (c. 29)](https://www.legislation.gov.uk/ukpga/2014/29), [ss. 18(1)](https://www.legislation.gov.uk/ukpga/2014/29/section/18/1), [29(2)(b)(3)](https://www.legislation.gov.uk/ukpga/2014/29/section/29/2/b)
+[^c-34c3d0c79ace9f5df74256abaecb1306]: Textual amendment: Pt. 4A Ch. 4 inserted (17.2.2015) by [Wales Act 2014 (c. 29)](https://www.legislation.gov.uk/ukpga/2014/29), [ss. 18(1)](https://www.legislation.gov.uk/ukpga/2014/29/section/18/1), [29(2)(b)(3)](https://www.legislation.gov.uk/ukpga/2014/29/section/29/2/b)

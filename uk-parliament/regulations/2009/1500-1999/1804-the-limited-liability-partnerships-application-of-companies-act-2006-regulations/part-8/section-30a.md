@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30A. Duty to notify a change in registered office and email address[^key-10a3af3c1f6ab3a6baf2b1375dcaa627][^key-2525dd886768aeecc286c66d1547d936]
+## 30A. Duty to notify a change in registered office and email address[^c-10a3af3c1f6ab3a6baf2b1375dcaa627][^c-2525dd886768aeecc286c66d1547d936]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,6 +44,6 @@ Sections 853CA and 853CB apply to LLPs, modified so that they read as follows—
 
 ## Annotations
 
-[^key-10a3af3c1f6ab3a6baf2b1375dcaa627]: Textual amendment: [Reg. 30A](https://www.legislation.gov.uk/uksi/2009/1804/regulation/30A) inserted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2024/234/regulation/22); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
+[^c-10a3af3c1f6ab3a6baf2b1375dcaa627]: Textual amendment: [Reg. 30A](https://www.legislation.gov.uk/uksi/2009/1804/regulation/30A) inserted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2024/234/regulation/22); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
 
-[^key-2525dd886768aeecc286c66d1547d936]: Textual amendment: [Pt. 8](https://www.legislation.gov.uk/uksi/2009/1804/part/8) (ss. 30, 31, 31ZA) substituted for Pt. 8 (regs. 30, 31) (30.6.2016) by [The Companies and Limited Liability Partnerships (Filing Requirements) Regulations 2016 (S.I. 2016/599)](https://www.legislation.gov.uk/uksi/2016/599), [reg. 1](https://www.legislation.gov.uk/uksi/2016/599/regulation/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2016/599/schedule/1/paragraph/5) (with [reg. 3(2)-(4)](https://www.legislation.gov.uk/uksi/2016/599/regulation/3/2))
+[^c-2525dd886768aeecc286c66d1547d936]: Textual amendment: [Pt. 8](https://www.legislation.gov.uk/uksi/2009/1804/part/8) (ss. 30, 31, 31ZA) substituted for Pt. 8 (regs. 30, 31) (30.6.2016) by [The Companies and Limited Liability Partnerships (Filing Requirements) Regulations 2016 (S.I. 2016/599)](https://www.legislation.gov.uk/uksi/2016/599), [reg. 1](https://www.legislation.gov.uk/uksi/2016/599/regulation/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2016/599/schedule/1/paragraph/5) (with [reg. 3(2)-(4)](https://www.legislation.gov.uk/uksi/2016/599/regulation/3/2))

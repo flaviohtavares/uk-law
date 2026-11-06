@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39.2. Interpretation of this Part[^key-6f18a98ebdd7ac47a0b62b3a2b8cf834]
+## 39.2. Interpretation of this Part[^c-6f18a98ebdd7ac47a0b62b3a2b8cf834]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ In this Part—
 
 ## Annotations
 
-[^key-6f18a98ebdd7ac47a0b62b3a2b8cf834]: Textual amendment: [Pt. 39](https://www.legislation.gov.uk/uksi/2010/2955/part/39) inserted (6.4.2016) by [The Family Procedure (Amendment) Rules 2016 (S.I. 2016/355)](https://www.legislation.gov.uk/uksi/2016/355), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/355/rule/1/2), [8(a)](https://www.legislation.gov.uk/uksi/2016/355/rule/8/a), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/355/schedule/1) (with [rule 9](https://www.legislation.gov.uk/uksi/2016/355/rule/9))
+[^c-6f18a98ebdd7ac47a0b62b3a2b8cf834]: Textual amendment: [Pt. 39](https://www.legislation.gov.uk/uksi/2010/2955/part/39) inserted (6.4.2016) by [The Family Procedure (Amendment) Rules 2016 (S.I. 2016/355)](https://www.legislation.gov.uk/uksi/2016/355), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/355/rule/1/2), [8(a)](https://www.legislation.gov.uk/uksi/2016/355/rule/8/a), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/355/schedule/1) (with [rule 9](https://www.legislation.gov.uk/uksi/2016/355/rule/9))

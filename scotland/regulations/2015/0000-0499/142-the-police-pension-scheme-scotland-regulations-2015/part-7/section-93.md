@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 93. Claim for payment of ill-health pension[^key-2f461a49bddeb72f85d4ef398ec3c0c8]
+## 93. Claim for payment of ill-health pension[^c-2f461a49bddeb72f85d4ef398ec3c0c8]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2f461a49bddeb72f85d4ef398ec3c0c8]: Commencement: Reg. 93 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-2f461a49bddeb72f85d4ef398ec3c0c8]: Commencement: Reg. 93 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

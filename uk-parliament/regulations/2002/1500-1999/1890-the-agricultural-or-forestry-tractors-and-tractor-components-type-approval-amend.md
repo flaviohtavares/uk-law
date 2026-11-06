@@ -31,7 +31,7 @@ summary: ''
 
 TRACTORS
 
-The Agricultural or Forestry Tractors and Tractor Components (Type Approval) (Amendment) Regulations 2002 (revoked)[^key-efe0df7afcfa59628e042a16fabc3cb7]
+The Agricultural or Forestry Tractors and Tractor Components (Type Approval) (Amendment) Regulations 2002 (revoked)[^c-efe0df7afcfa59628e042a16fabc3cb7]
 
 Made
 
@@ -45,24 +45,24 @@ Coming into force
 
 12th August 2002
 
-[^key-efe0df7afcfa59628e042a16fabc3cb7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-efe0df7afcfa59628e042a16fabc3cb7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-efe0df7afcfa59628e042a16fabc3cb7]
+## 1. Citation and commencement[^c-efe0df7afcfa59628e042a16fabc3cb7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Agricultural or Forestry Tractors and Tractor Components (Type Approval) Regulations 1988[^key-efe0df7afcfa59628e042a16fabc3cb7]
+## 2. Amendment of the Agricultural or Forestry Tractors and Tractor Components (Type Approval) Regulations 1988[^c-efe0df7afcfa59628e042a16fabc3cb7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-efe0df7afcfa59628e042a16fabc3cb7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-efe0df7afcfa59628e042a16fabc3cb7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-efe0df7afcfa59628e042a16fabc3cb7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-efe0df7afcfa59628e042a16fabc3cb7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-efe0df7afcfa59628e042a16fabc3cb7]: Textual amendment: Regulations revoked (18.10.2006) by [The Tractor etc (EC Type-Approval) (Amendment) Regulations 2006 (S.I. 2006/2533)](https://www.legislation.gov.uk/uksi/2006/2533), [reg. 1](https://www.legislation.gov.uk/uksi/2006/2533/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2006/2533/schedule)
+[^c-efe0df7afcfa59628e042a16fabc3cb7]: Textual amendment: Regulations revoked (18.10.2006) by [The Tractor etc (EC Type-Approval) (Amendment) Regulations 2006 (S.I. 2006/2533)](https://www.legislation.gov.uk/uksi/2006/2533), [reg. 1](https://www.legislation.gov.uk/uksi/2006/2533/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2006/2533/schedule)

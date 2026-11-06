@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Requirement for a landlord to be registered[^key-3057e4fd8c4e85da2697c5cf0ebc4933]
+## 4. Requirement for a landlord to be registered[^c-3057e4fd8c4e85da2697c5cf0ebc4933]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3057e4fd8c4e85da2697c5cf0ebc4933]: Commencement: [S. 4](https://www.legislation.gov.uk/anaw/2014/7/section/4) in force at 23.11.2016 by [S.I. 2016/1066](https://www.legislation.gov.uk/wsi/2016/1066), [art. 2](https://www.legislation.gov.uk/wsi/2016/1066/article/2)
+[^c-3057e4fd8c4e85da2697c5cf0ebc4933]: Commencement: [S. 4](https://www.legislation.gov.uk/anaw/2014/7/section/4) in force at 23.11.2016 by [S.I. 2016/1066](https://www.legislation.gov.uk/wsi/2016/1066), [art. 2](https://www.legislation.gov.uk/wsi/2016/1066/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Availability of the grant for fees to old system students for years of repeat study[^key-3853230e5c266284e2318e45fb81f574]
+## 27. Availability of the grant for fees to old system students for years of repeat study[^c-3853230e5c266284e2318e45fb81f574]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3853230e5c266284e2318e45fb81f574]: Commencement: Reg. 27 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-3853230e5c266284e2318e45fb81f574]: Commencement: Reg. 27 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

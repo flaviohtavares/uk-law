@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95. Interpretation of Chapter 1[^key-15eea6acb42ff24553270f4e6ee6b03b][^key-fc4bcecee8aa4a618710c0f16bbb3d82]
+## 95. Interpretation of Chapter 1[^c-15eea6acb42ff24553270f4e6ee6b03b][^c-fc4bcecee8aa4a618710c0f16bbb3d82]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ In this Chapter—
 
 ## Annotations
 
-[^key-15eea6acb42ff24553270f4e6ee6b03b]: Commencement: S. 95 in force at 1.4.2007 for E. by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 4(a)](https://www.legislation.gov.uk/uksi/2007/935/article/4/a)
+[^c-15eea6acb42ff24553270f4e6ee6b03b]: Commencement: S. 95 in force at 1.4.2007 for E. by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 4(a)](https://www.legislation.gov.uk/uksi/2007/935/article/4/a)
 
-[^key-fc4bcecee8aa4a618710c0f16bbb3d82]: Commencement: [S. 95](https://www.legislation.gov.uk/ukpga/2006/40/section/95) in force at 31.10.2010 for W. by [S.I. 2010/2543](https://www.legislation.gov.uk/wsi/2010/2543), [art. 2(e)](https://www.legislation.gov.uk/wsi/2010/2543/article/2/e)
+[^c-fc4bcecee8aa4a618710c0f16bbb3d82]: Commencement: [S. 95](https://www.legislation.gov.uk/ukpga/2006/40/section/95) in force at 31.10.2010 for W. by [S.I. 2010/2543](https://www.legislation.gov.uk/wsi/2010/2543), [art. 2(e)](https://www.legislation.gov.uk/wsi/2010/2543/article/2/e)

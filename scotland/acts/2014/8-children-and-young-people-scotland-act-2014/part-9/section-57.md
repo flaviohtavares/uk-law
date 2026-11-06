@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 57. Application of Part: children and young people[^key-3289dfbda8bf07f11cb38d15e1274315][^key-91eda43f46f535055623acd5203a670e]
+## 57. Application of Part: children and young people[^c-3289dfbda8bf07f11cb38d15e1274315][^c-91eda43f46f535055623acd5203a670e]
 
 *Extent: S*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3289dfbda8bf07f11cb38d15e1274315]: Commencement: [S. 57](https://www.legislation.gov.uk/asp/2014/8/section/57) in force at 1.8.2014 for specified purposes by [S.S.I. 2014/131](https://www.legislation.gov.uk/ssi/2014/131), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/131/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2014/131/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/131/schedule)
+[^c-3289dfbda8bf07f11cb38d15e1274315]: Commencement: [S. 57](https://www.legislation.gov.uk/asp/2014/8/section/57) in force at 1.8.2014 for specified purposes by [S.S.I. 2014/131](https://www.legislation.gov.uk/ssi/2014/131), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/131/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2014/131/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/131/schedule)
 
-[^key-91eda43f46f535055623acd5203a670e]: Commencement: [S. 57](https://www.legislation.gov.uk/asp/2014/8/section/57) in force at 1.4.2015 in so far as not already in force by [S.S.I. 2015/61](https://www.legislation.gov.uk/ssi/2015/61), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/61/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2015/61/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/61/schedule)
+[^c-91eda43f46f535055623acd5203a670e]: Commencement: [S. 57](https://www.legislation.gov.uk/asp/2014/8/section/57) in force at 1.4.2015 in so far as not already in force by [S.S.I. 2015/61](https://www.legislation.gov.uk/ssi/2015/61), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/61/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2015/61/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/61/schedule)

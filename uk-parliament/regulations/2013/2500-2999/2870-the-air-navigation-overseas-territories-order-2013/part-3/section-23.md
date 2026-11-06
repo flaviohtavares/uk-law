@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Type Acceptance Certificate[^key-aacde621de51443e740a9362a859de8c]
+## 23. Type Acceptance Certificate[^c-aacde621de51443e740a9362a859de8c]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aacde621de51443e740a9362a859de8c]: Commencement: [Art. 23](https://www.legislation.gov.uk/uksi/2013/2870/article/23) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-aacde621de51443e740a9362a859de8c]: Commencement: [Art. 23](https://www.legislation.gov.uk/uksi/2013/2870/article/23) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

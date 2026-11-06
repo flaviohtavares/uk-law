@@ -54,7 +54,7 @@ In accordance with section 34(3)(b) of that Act, a draft of this instrument has 
 
 ## PART 1 — Introductory
 
-### 1. Citation, commencement and extent[^key-b9f02da53fa2daa334922e72b2daa6d7]
+### 1. Citation, commencement and extent[^c-b9f02da53fa2daa334922e72b2daa6d7]
 
 (1) These Regulations may be cited as the Railway (Licensing of Railway Undertakings) (Amendment) Regulations 2021.
 
@@ -64,7 +64,7 @@ In accordance with section 34(3)(b) of that Act, a draft of this instrument has 
 
 (4) These Regulations do not extend to Northern Ireland.
 
-### 2. Interpretation[^key-47bab58e4627e505962a5adf722528a6]
+### 2. Interpretation[^c-47bab58e4627e505962a5adf722528a6]
 
 In these Regulations—
 
@@ -73,9 +73,9 @@ In these Regulations—
 
 ## PART 2 — Amendments to the Railway (Licensing of Railway Undertakings) Regulations 2005
 
-**3.**[^key-191e7b7fc77eb9d127183d8f92e6b98b] The 2005 Regulations are amended in accordance with this Part.
+**3.**[^c-191e7b7fc77eb9d127183d8f92e6b98b] The 2005 Regulations are amended in accordance with this Part.
 
-**4.**[^key-8586d78501dfdd25b047d15643ecf9a6] In regulation 2(1) (interpretation) after the definition of “the 1993 Act” insert—
+**4.**[^c-8586d78501dfdd25b047d15643ecf9a6] In regulation 2(1) (interpretation) after the definition of “the 1993 Act” insert—
 
 > - “the 1995 Directive” means Council [Directive 95/18/EC](https://www.legislation.gov.uk/european/directive/1995/0018) of 19th June 1995 on the licensing of railway undertakings[^f00004], as amended by [Directive 2001/13/EC](https://www.legislation.gov.uk/european/directive/2001/0013) of 26th February 2001[^f00005] and [Directive 2004/49/EC](https://www.legislation.gov.uk/european/directive/2004/0049) of 29th April 2004[^f00006], both of the European Parliament and of the Council;
 > - “the 2012 Directive” means [Directive 2012/34/EU](https://www.legislation.gov.uk/european/directive/2012/0034) of the European Parliament and of the Council of 21st November 2012 establishing a single European railway area (recast)[^f00007];
@@ -88,7 +88,7 @@ In these Regulations—
 
 .
 
-**5.**[^key-736e1717004edc28c8b06bd7558e4779] In regulation 5 (prohibition of unlicensed provision of services)—
+**5.**[^c-736e1717004edc28c8b06bd7558e4779] In regulation 5 (prohibition of unlicensed provision of services)—
 
 - (a) in paragraph (1), at the beginning insert “Subject to paragraph (1A),”;
 - (b) after paragraph (1) insert—
@@ -97,7 +97,7 @@ In these Regulations—
 
   .
 
-**6.**[^key-b245cbea44b31c8aa58186b72a49423a] After regulation 8 (monitoring, suspension and revocation of railway undertaking licences) insert—
+**6.**[^c-b245cbea44b31c8aa58186b72a49423a] After regulation 8 (monitoring, suspension and revocation of railway undertaking licences) insert—
 
 > **8A. Information sharing by the ORR**
 >
@@ -114,7 +114,7 @@ In these Regulations—
 
 .
 
-**7.**[^key-c956c7d917f576ddf519c48dcb73c9b0] (1) Regulation 9 (prohibition on operating trains without a statement of national regulatory provisions) is amended as follows.
+**7.**[^c-c956c7d917f576ddf519c48dcb73c9b0] (1) Regulation 9 (prohibition on operating trains without a statement of national regulatory provisions) is amended as follows.
 
 (2) In paragraph (1) at the beginning for “Where” substitute “Subject to paragraph (4A), where”.
 
@@ -129,7 +129,7 @@ In these Regulations—
 
 ## PART 3 — Consequential amendments to primary legislation
 
-### 8. The Railway Fires Act 1905[^key-27b2d029bb986bb61be212a059cbf57d]
+### 8. The Railway Fires Act 1905[^c-27b2d029bb986bb61be212a059cbf57d]
 
 In section 4 of the Railway Fires Act 1905[^f00008] (definitions and application), in the definition of “railway company”—
 
@@ -141,7 +141,7 @@ In section 4 of the Railway Fires Act 1905[^f00008] (definitions and application
 
   .
 
-### 9. The Insolvency Act 1986[^key-9a24acdf52a430dd42c1d26519b4ae1c]
+### 9. The Insolvency Act 1986[^c-9a24acdf52a430dd42c1d26519b4ae1c]
 
 In paragraph 10 of Schedule 2A to the Insolvency Act 1986[^f00009] (exceptions to the prohibition on the appointment of administrative receiver: supplementary provision)—
 
@@ -152,7 +152,7 @@ In paragraph 10 of Schedule 2A to the Insolvency Act 1986[^f00009] (exceptions t
 
   .
 
-### 10. The Railways Act 1993[^key-1cfa292f60178bb884fd82a0408bc9ba]
+### 10. The Railways Act 1993[^c-1cfa292f60178bb884fd82a0408bc9ba]
 
 (1) The Railways Act 1993[^f00010] is amended as follows.
 
@@ -194,7 +194,7 @@ In paragraph 10 of Schedule 2A to the Insolvency Act 1986[^f00009] (exceptions t
 
 .
 
-### 11. The Civil Contingencies Act 2004[^key-7e5c12b42f55a93eebf0f9b7cc8fcb34]
+### 11. The Civil Contingencies Act 2004[^c-7e5c12b42f55a93eebf0f9b7cc8fcb34]
 
 In Schedule 1 to the Civil Contingencies Act 2004[^f00011] (category 1 and 2 responders) for paragraph 24 substitute—
 
@@ -205,13 +205,13 @@ In Schedule 1 to the Civil Contingencies Act 2004[^f00011] (category 1 and 2 res
 
 .
 
-### 12. The Railways Act 2005[^key-587c13543e7b9354f4e2897fb90d6c9c]
+### 12. The Railways Act 2005[^c-587c13543e7b9354f4e2897fb90d6c9c]
 
 In section 46(7)(c) of the Railways Act 2005[^f00012] (bye-laws), after “railway undertaking licence” insert “or a relevant European licence”.
 
 ## PART 4 — Amendments etc. to other legislation
 
-### 13. The British Transport Police (Police Services Agreement) Order 2004[^key-a86192b1d8a35f78cc3eba4c545ea2b0]
+### 13. The British Transport Police (Police Services Agreement) Order 2004[^c-a86192b1d8a35f78cc3eba4c545ea2b0]
 
 (1) Article 2 of the British Transport Police (Police Services Agreement) Order 2004[^f00013] (requirement to enter into a police services agreement) is amended as follows.
 
@@ -223,19 +223,19 @@ In section 46(7)(c) of the Railways Act 2005[^f00012] (bye-laws), after “railw
 
 .
 
-### 14. The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019[^key-3ec10c200bf4b3bc942eef1154ac0f1b][^key-cbe5949a4299c0f28d087675c3d8baa7]
+### 14. The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019[^c-3ec10c200bf4b3bc942eef1154ac0f1b][^c-cbe5949a4299c0f28d087675c3d8baa7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-3ec10c200bf4b3bc942eef1154ac0f1b][^key-5ab3849795340e6ca3c1ddec2d84a12f][^key-cbe5949a4299c0f28d087675c3d8baa7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-3ec10c200bf4b3bc942eef1154ac0f1b][^c-5ab3849795340e6ca3c1ddec2d84a12f][^c-cbe5949a4299c0f28d087675c3d8baa7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-3ec10c200bf4b3bc942eef1154ac0f1b][^key-cd2327ea21cc89b671667a87fce4752f][^key-cbe5949a4299c0f28d087675c3d8baa7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-3ec10c200bf4b3bc942eef1154ac0f1b][^c-cd2327ea21cc89b671667a87fce4752f][^c-cbe5949a4299c0f28d087675c3d8baa7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-3ec10c200bf4b3bc942eef1154ac0f1b][^key-2234961ace1c7a994d4f2211a55e94a2][^key-cbe5949a4299c0f28d087675c3d8baa7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-3ec10c200bf4b3bc942eef1154ac0f1b][^c-2234961ace1c7a994d4f2211a55e94a2][^c-cbe5949a4299c0f28d087675c3d8baa7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-3ec10c200bf4b3bc942eef1154ac0f1b][^key-a43d17b504b3ed09246924edc3401db1][^key-cbe5949a4299c0f28d087675c3d8baa7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-3ec10c200bf4b3bc942eef1154ac0f1b][^c-a43d17b504b3ed09246924edc3401db1][^c-cbe5949a4299c0f28d087675c3d8baa7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-3ec10c200bf4b3bc942eef1154ac0f1b][^key-405e7e201002c36d6f225f49436291d1][^key-cbe5949a4299c0f28d087675c3d8baa7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-3ec10c200bf4b3bc942eef1154ac0f1b][^c-405e7e201002c36d6f225f49436291d1][^c-cbe5949a4299c0f28d087675c3d8baa7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Signed by authority of the Secretary of State for Transport
 
@@ -271,17 +271,17 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00001]: Footnote: [1987 c. 53](https://www.legislation.gov.uk/ukpga/1987/53). See section 13 for the meaning of the “appropriate Minister”. There is an amendment to section 11 which is not relevant to these Regulations.
 
-[^key-b9f02da53fa2daa334922e72b2daa6d7]: Commencement: Reg. 1 in force at 30.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1105/regulation/1/2)
+[^c-b9f02da53fa2daa334922e72b2daa6d7]: Commencement: Reg. 1 in force at 30.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1105/regulation/1/2)
 
-[^key-47bab58e4627e505962a5adf722528a6]: Commencement: Reg. 2 in force at 30.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1105/regulation/1/2)
+[^c-47bab58e4627e505962a5adf722528a6]: Commencement: Reg. 2 in force at 30.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1105/regulation/1/2)
 
 [^f00002]: Footnote: [S.I. 2005/3050](https://www.legislation.gov.uk/uksi/2005/3050), relevant amending instruments are [2015/1682](https://www.legislation.gov.uk/uksi/2015/1682), [2016/645](https://www.legislation.gov.uk/uksi/2016/645) and [2019/700](https://www.legislation.gov.uk/uksi/2019/700).
 
 [^f00003]: Footnote: [S.I. 2019/700](https://www.legislation.gov.uk/uksi/2019/700).
 
-[^key-191e7b7fc77eb9d127183d8f92e6b98b]: Commencement: Reg. 3 in force at 31.1.2022 at 11.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1105/regulation/1/3)
+[^c-191e7b7fc77eb9d127183d8f92e6b98b]: Commencement: Reg. 3 in force at 31.1.2022 at 11.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1105/regulation/1/3)
 
-[^key-8586d78501dfdd25b047d15643ecf9a6]: Commencement: Reg. 4 in force at 31.1.2022 at 11.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1105/regulation/1/3)
+[^c-8586d78501dfdd25b047d15643ecf9a6]: Commencement: Reg. 4 in force at 31.1.2022 at 11.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1105/regulation/1/3)
 
 [^f00004]: Footnote: O.J. No. L 143, 27.6.1995, p. 70. Added to Annex XIII of the EEA Agreement by Article 1 of the Decision of the EEA Joint Committee No. 71/95 of 15th December 1995 (O.J. L 57, 7.3.96, p.37).
 
@@ -291,46 +291,46 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00007]: Footnote: O.J. No. L 343, 14.12.12, p. 32, as corrected by Corrigendum, O.J. L 67, 12.3.15, p. 32.
 
-[^key-736e1717004edc28c8b06bd7558e4779]: Commencement: Reg. 5 in force at 31.1.2022 at 11.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1105/regulation/1/3)
+[^c-736e1717004edc28c8b06bd7558e4779]: Commencement: Reg. 5 in force at 31.1.2022 at 11.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1105/regulation/1/3)
 
-[^key-b245cbea44b31c8aa58186b72a49423a]: Commencement: Reg. 6 in force at 31.1.2022 at 11.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1105/regulation/1/3)
+[^c-b245cbea44b31c8aa58186b72a49423a]: Commencement: Reg. 6 in force at 31.1.2022 at 11.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1105/regulation/1/3)
 
-[^key-c956c7d917f576ddf519c48dcb73c9b0]: Commencement: Reg. 7 in force at 31.1.2022 at 11.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1105/regulation/1/3)
+[^c-c956c7d917f576ddf519c48dcb73c9b0]: Commencement: Reg. 7 in force at 31.1.2022 at 11.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1105/regulation/1/3)
 
-[^key-27b2d029bb986bb61be212a059cbf57d]: Commencement: Reg. 8 in force at 31.1.2022 at 11.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1105/regulation/1/3)
+[^c-27b2d029bb986bb61be212a059cbf57d]: Commencement: Reg. 8 in force at 31.1.2022 at 11.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1105/regulation/1/3)
 
 [^f00008]: Footnote: [1905 c. 11](https://www.legislation.gov.uk/ukpga/1905/11); the definition of “railway company” was inserted by the Railways Act [1993 (c. 43)](https://www.legislation.gov.uk/ukpga/1993/43), Schedule 12, paragraph 2(2); the definition was amended by [S.I. 2005/3050](https://www.legislation.gov.uk/uksi/2005/3050), [2016/645](https://www.legislation.gov.uk/uksi/2016/645) and [2019/700](https://www.legislation.gov.uk/uksi/2019/700).
 
-[^key-9a24acdf52a430dd42c1d26519b4ae1c]: Commencement: Reg. 9 in force at 31.1.2022 at 11.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1105/regulation/1/3)
+[^c-9a24acdf52a430dd42c1d26519b4ae1c]: Commencement: Reg. 9 in force at 31.1.2022 at 11.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1105/regulation/1/3)
 
 [^f00009]: Footnote: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45); Schedule 2A was inserted by the Enterprise Act [2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40) section 250(2), Schedule 18 to which relevant amendments have been made by [S.I. 2005/3050](https://www.legislation.gov.uk/uksi/2005/3050), [2016/645](https://www.legislation.gov.uk/uksi/2016/645) and [2019/700](https://www.legislation.gov.uk/uksi/2019/700).
 
-[^key-1cfa292f60178bb884fd82a0408bc9ba]: Commencement: Reg. 10 in force at 31.1.2022 at 11.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1105/regulation/1/3)
+[^c-1cfa292f60178bb884fd82a0408bc9ba]: Commencement: Reg. 10 in force at 31.1.2022 at 11.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1105/regulation/1/3)
 
 [^f00010]: Footnote: [1993 c. 43](https://www.legislation.gov.uk/ukpga/1993/43); section 6(1A) was inserted by [S.I. 1998/1340](https://www.legislation.gov.uk/uksi/1998/1340) and subsequently amended by [S.I. 2005/3050](https://www.legislation.gov.uk/uksi/2005/3050) and [2019/700](https://www.legislation.gov.uk/uksi/2019/700), subsection (2) was amended by [S.I. 2005/3050](https://www.legislation.gov.uk/uksi/2005/3050), [2016/645](https://www.legislation.gov.uk/uksi/2016/645) and [2019/700](https://www.legislation.gov.uk/uksi/2019/700); section 80(1A) was inserted by [S.I. 2005/3050](https://www.legislation.gov.uk/uksi/2005/3050) and amended by [S.I. 2015/1682](https://www.legislation.gov.uk/uksi/2015/1682), [2016/645](https://www.legislation.gov.uk/uksi/2016/645) and [2019/700](https://www.legislation.gov.uk/uksi/2019/700). There are other amending instruments but none is relevant.
 
-[^key-7e5c12b42f55a93eebf0f9b7cc8fcb34]: Commencement: Reg. 11 in force at 31.1.2022 at 11.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1105/regulation/1/3)
+[^c-7e5c12b42f55a93eebf0f9b7cc8fcb34]: Commencement: Reg. 11 in force at 31.1.2022 at 11.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1105/regulation/1/3)
 
 [^f00011]: Footnote: [2004 c. 36](https://www.legislation.gov.uk/ukpga/2004/36); paragraph 24 of Schedule 1 was substituted by [S.I. 2005/3050](https://www.legislation.gov.uk/uksi/2005/3050), and amended by [S.I. 2016/645](https://www.legislation.gov.uk/uksi/2016/645) and [2019/700](https://www.legislation.gov.uk/uksi/2019/700).
 
-[^key-587c13543e7b9354f4e2897fb90d6c9c]: Commencement: Reg. 12 in force at 31.1.2022 at 11.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1105/regulation/1/3)
+[^c-587c13543e7b9354f4e2897fb90d6c9c]: Commencement: Reg. 12 in force at 31.1.2022 at 11.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1105/regulation/1/3)
 
 [^f00012]: Footnote: [2005 c. 14](https://www.legislation.gov.uk/ukpga/2005/14); section 46(7) was amended by [S.I. 2005/3050](https://www.legislation.gov.uk/uksi/2005/3050) and [2019/700](https://www.legislation.gov.uk/uksi/2019/700).
 
-[^key-a86192b1d8a35f78cc3eba4c545ea2b0]: Commencement: Reg. 13 in force at 31.1.2022 at 11.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1105/regulation/1/3)
+[^c-a86192b1d8a35f78cc3eba4c545ea2b0]: Commencement: Reg. 13 in force at 31.1.2022 at 11.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1105/regulation/1/3)
 
 [^f00013]: Footnote: [S.I. 2004/1522](https://www.legislation.gov.uk/uksi/2004/1522), amended by [S.I. 2005/3050](https://www.legislation.gov.uk/uksi/2005/3050), [2016/645](https://www.legislation.gov.uk/uksi/2016/645) and [2019/700](https://www.legislation.gov.uk/uksi/2019/700).
 
-[^key-3ec10c200bf4b3bc942eef1154ac0f1b]: Textual amendment: [Regs. 14-19](https://www.legislation.gov.uk/uksi/2021/1105/regulation/14) revoked (31.1.2022 at 11.00 p.m.) by [The Railway (Licensing of Railway Undertakings) (Amendment) Regulations 2021 (S.I. 2021/1105)](https://www.legislation.gov.uk/uksi/2021/1105), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1105/regulation/1/3)
+[^c-3ec10c200bf4b3bc942eef1154ac0f1b]: Textual amendment: [Regs. 14-19](https://www.legislation.gov.uk/uksi/2021/1105/regulation/14) revoked (31.1.2022 at 11.00 p.m.) by [The Railway (Licensing of Railway Undertakings) (Amendment) Regulations 2021 (S.I. 2021/1105)](https://www.legislation.gov.uk/uksi/2021/1105), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1105/regulation/1/3)
 
-[^key-cbe5949a4299c0f28d087675c3d8baa7]: Commencement: Reg. 14 in force at 30.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1105/regulation/1/2)
+[^c-cbe5949a4299c0f28d087675c3d8baa7]: Commencement: Reg. 14 in force at 30.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1105/regulation/1/2)
 
-[^key-5ab3849795340e6ca3c1ddec2d84a12f]: Commencement: Reg. 15 in force at 30.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1105/regulation/1/2)
+[^c-5ab3849795340e6ca3c1ddec2d84a12f]: Commencement: Reg. 15 in force at 30.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1105/regulation/1/2)
 
-[^key-cd2327ea21cc89b671667a87fce4752f]: Commencement: Reg. 16 in force at 30.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1105/regulation/1/2)
+[^c-cd2327ea21cc89b671667a87fce4752f]: Commencement: Reg. 16 in force at 30.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1105/regulation/1/2)
 
-[^key-2234961ace1c7a994d4f2211a55e94a2]: Commencement: Reg. 17 in force at 30.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1105/regulation/1/2)
+[^c-2234961ace1c7a994d4f2211a55e94a2]: Commencement: Reg. 17 in force at 30.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1105/regulation/1/2)
 
-[^key-a43d17b504b3ed09246924edc3401db1]: Commencement: Reg. 18 in force at 30.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1105/regulation/1/2)
+[^c-a43d17b504b3ed09246924edc3401db1]: Commencement: Reg. 18 in force at 30.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1105/regulation/1/2)
 
-[^key-405e7e201002c36d6f225f49436291d1]: Commencement: Reg. 19 in force at 30.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1105/regulation/1/2)
+[^c-405e7e201002c36d6f225f49436291d1]: Commencement: Reg. 19 in force at 30.9.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1105/regulation/1/2)

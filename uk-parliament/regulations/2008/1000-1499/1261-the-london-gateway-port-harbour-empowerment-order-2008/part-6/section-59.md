@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 59. For the protection of Thurrock Borough Council and others[^key-d0d3f56aeef55dc5f2e4f44a83cfdf07]
+## 59. For the protection of Thurrock Borough Council and others[^c-d0d3f56aeef55dc5f2e4f44a83cfdf07]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 6 shall have effect.
 
 ## Annotations
 
-[^key-d0d3f56aeef55dc5f2e4f44a83cfdf07]: Commencement: Art. 59 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-d0d3f56aeef55dc5f2e4f44a83cfdf07]: Commencement: Art. 59 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)

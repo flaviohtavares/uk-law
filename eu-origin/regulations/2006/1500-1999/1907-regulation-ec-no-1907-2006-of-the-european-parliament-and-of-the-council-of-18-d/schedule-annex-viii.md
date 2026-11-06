@@ -81,7 +81,7 @@ ECOTOXICOLOGICAL INFORMATION
 
 [^c000013]: Textual amendment: Inserted by [Commission Regulation (EU) 2018/1881 of 3 December 2018 amending Regulation (EC) No 1907/2006 of the European Parliament and of the Council on the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH) as regards Annexes I, III,VI, VII, VIII, IX, X, XI, and XII to address nanoforms of substances (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2018/1881).
 
-[^f00082]: Footnote: Note: conditions for not requiring a specific test that are set out in regulations under[^key-e1033a05984ef5a75e90cf5d81ec7117] Article 13(3) that are not repeated in column 2, also apply.
+[^f00082]: Footnote: Note: conditions for not requiring a specific test that are set out in regulations under[^c-e1033a05984ef5a75e90cf5d81ec7117] Article 13(3) that are not repeated in column 2, also apply.
 
 [^c000017]: Textual amendment: Inserted by [Commission Regulation (EU) No 143/2011 of 17 February 2011 amending Annex XIV to Regulation (EC) No 1907/2006 of the European Parliament and of the Council on the Registration, Evaluation, Authorisation and Restriction of Chemicals (‘REACH’) (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2011/143).
 
@@ -91,4 +91,4 @@ ECOTOXICOLOGICAL INFORMATION
 
 [^c000019]: Textual amendment: Inserted by [Commission Regulation (EU) 2017/999 of 13 June 2017 amending Annex XIV to Regulation (EC) No 1907/2006 of the European Parliament and of the Council concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH) (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2017/999).
 
-[^key-e1033a05984ef5a75e90cf5d81ec7117]: Annotation text not found in the source document.
+[^c-e1033a05984ef5a75e90cf5d81ec7117]: Annotation text not found in the source document.

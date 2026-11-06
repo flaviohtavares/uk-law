@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) The licensing authority may delegate any of its obligations under this Part in connection with its pharmacovigilance system in relation to medicinal products for sale or supply in Northern Ireland[^key-e8dd96f04c15b631de0a2192bcb295cb] pursuant to a UKMA(NI) or a UKMA(UK)(Category 2)[^key-fcf0a43b632d5662e7d4c2d5fb4fc988] to an EEA State where the conditions in paragraph (2) are met.
+(1) The licensing authority may delegate any of its obligations under this Part in connection with its pharmacovigilance system in relation to medicinal products for sale or supply in Northern Ireland[^c-e8dd96f04c15b631de0a2192bcb295cb] pursuant to a UKMA(NI) or a UKMA(UK)(Category 2)[^c-fcf0a43b632d5662e7d4c2d5fb4fc988] to an EEA State where the conditions in paragraph (2) are met.
 
 (2) The conditions in this paragraph are that the EEA State to whom the obligations are to be delegated—
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e8dd96f04c15b631de0a2192bcb295cb]: Textual amendment: Words in reg. 181(1) substituted (31.12.2020) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [reg. 141](https://www.legislation.gov.uk/uksi/2019/775/regulation/141) (as substituted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 110](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/110))
+[^c-e8dd96f04c15b631de0a2192bcb295cb]: Textual amendment: Words in reg. 181(1) substituted (31.12.2020) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [reg. 141](https://www.legislation.gov.uk/uksi/2019/775/regulation/141) (as substituted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 110](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/110))
 
-[^key-fcf0a43b632d5662e7d4c2d5fb4fc988]: Textual amendment: Words in [reg. 181(1)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/181/1) inserted (1.1.2025) by [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [76](https://www.legislation.gov.uk/uksi/2024/832/regulation/76)
+[^c-fcf0a43b632d5662e7d4c2d5fb4fc988]: Textual amendment: Words in [reg. 181(1)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/181/1) inserted (1.1.2025) by [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [76](https://www.legislation.gov.uk/uksi/2024/832/regulation/76)

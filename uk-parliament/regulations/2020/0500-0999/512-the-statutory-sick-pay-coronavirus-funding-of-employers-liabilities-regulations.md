@@ -48,11 +48,11 @@ The Commissioners for Her Majesty's Revenue and Customs, with the concurrence of
 
 ## PART 1 — Introduction
 
-### 1. Citation and commencement[^key-8e8559fb596b0cb0cd1611c04355c08e]
+### 1. Citation and commencement[^c-8e8559fb596b0cb0cd1611c04355c08e]
 
 These Regulations may be cited as the Statutory Sick Pay (Coronavirus) (Funding of Employers' Liabilities) Regulations 2020 and come into force on 26th May 2020.
 
-### 2. Interpretation[^key-08d4743fe135bba4919dacb33d44b44f]
+### 2. Interpretation[^c-08d4743fe135bba4919dacb33d44b44f]
 
 In these Regulations—
 
@@ -67,7 +67,7 @@ In these Regulations—
 
 ## PART 2 — Eligibility for funding
 
-### 3. Funding of eligible employers' liabilities by HMRC[^key-a97a052dadfdd621d5272172d407a3d9]
+### 3. Funding of eligible employers' liabilities by HMRC[^c-a97a052dadfdd621d5272172d407a3d9]
 
 (1) An eligible employer who has made a payment of statutory sick pay [^c24097951] to an employee where—
 
@@ -83,8 +83,8 @@ is, subject to paragraphs (2) and (3), entitled to recover the amount paid to th
 
 (3) The amount which an eligible employer may recover from HMRC under these Regulations is limited to—
 
-- (a) in relation to a single employee, £192.70[^key-0d41ae14bc2181ca158c6c5bb50f6fad]; and
-- (b) in total, £192.70[^key-0a275a30f65239ca862cd6640098de04] multiplied by the number of employees enrolled in PAYE schemes of the eligible employer on 28th February 2020, determined in accordance with regulation 4.
+- (a) in relation to a single employee, £192.70[^c-0d41ae14bc2181ca158c6c5bb50f6fad]; and
+- (b) in total, £192.70[^c-0a275a30f65239ca862cd6640098de04] multiplied by the number of employees enrolled in PAYE schemes of the eligible employer on 28th February 2020, determined in accordance with regulation 4.
 
 (4) In this regulation—
 
@@ -97,7 +97,7 @@ is, subject to paragraphs (2) and (3), entitled to recover the amount paid to th
   - (ii) conversion rate for April 2020 [^c24097971]; and
 - (c) the “Coronavirus Job Retention Scheme” is the scheme set out in the Schedule to the Coronavirus Act 2020 Functions of Her Majesty's Revenue and Customs (Coronavirus Job Retention Scheme) Direction [^c24097981].
 
-### 4. Meaning of eligible employer[^key-979ecde7b8b44cc746fe89212bb90560]
+### 4. Meaning of eligible employer[^c-979ecde7b8b44cc746fe89212bb90560]
 
 (1) An eligible employer is an employer who—
 
@@ -123,7 +123,7 @@ the number of employees referred to in paragraph (1) is the total number of empl
 - “**charity**” has the same meaning as in section 18(1) of the Small Charitable Donations Act 2012 [^c24098011], subject to paragraph 8(5) of Schedule 1 to the National Insurance Contributions Act 2014; and
 - “**company**” has the meaning given by section 1121(1) of the Corporation Tax Act 2010 [^c24098021] and includes a limited liability partnership.
 
-### 5. When an employee's incapacity for work is related to coronavirus[^key-e206930be918aa7e0ec09128e9c725c1]
+### 5. When an employee's incapacity for work is related to coronavirus[^c-e206930be918aa7e0ec09128e9c725c1]
 
 (1) An employee's incapacity for work is related to coronavirus if the employee is—
 
@@ -136,7 +136,7 @@ of doing work which the employee can reasonably be expected to do under the empl
 
 ## PART 3 — Claims
 
-### 6. Making a claim[^key-716fb448b870cbce6000d8672c06bbc2]
+### 6. Making a claim[^c-716fb448b870cbce6000d8672c06bbc2]
 
 (1) An employer who makes a claim for the recovery of a reimbursement amount must do so in accordance with this regulation.
 
@@ -174,7 +174,7 @@ of doing work which the employee can reasonably be expected to do under the empl
 
 (8) In this regulation “**Government Gateway**” means the secure online facility for accessing government services.
 
-### 7. Time limit for making a claim[^key-2d06096dc570760b93226934eed833b0]
+### 7. Time limit for making a claim[^c-2d06096dc570760b93226934eed833b0]
 
 A claim may not be made after the end of the period of 1 year beginning with the later of—
 
@@ -183,11 +183,11 @@ A claim may not be made after the end of the period of 1 year beginning with the
 
 ## PART 4 — Payments, corrections and overpayments
 
-### 8. Payments[^key-1c6b6ccb938760f6749dea6a3c397385]
+### 8. Payments[^c-1c6b6ccb938760f6749dea6a3c397385]
 
 Where HMRC accept a claim, HMRC must pay the amount specified in the claim by the employer in accordance with regulation 6(3)(c), less any amount repayable under regulation 9(3), to the account specified by the employer in accordance with regulation 6(3)(e) as soon as reasonably practicable.
 
-### 9. Correcting a claim when the amount has been mistakenly overstated[^key-bbbfaba64ca236eacf9a8cfef6a27c77]
+### 9. Correcting a claim when the amount has been mistakenly overstated[^c-bbbfaba64ca236eacf9a8cfef6a27c77]
 
 (1) Where an employer—
 
@@ -216,11 +216,11 @@ the employer must correct the error in accordance with this regulation.
 
 (9) The employer must repay to HMRC the amount stated in the adjustment notice within the period of 30 days beginning on the day on which the adjustment notice is submitted.
 
-### 10. Correcting a claim when the amount has been mistakenly understated[^key-b41fcbf79b2da2357e17ad9dcf14a866]
+### 10. Correcting a claim when the amount has been mistakenly understated[^c-b41fcbf79b2da2357e17ad9dcf14a866]
 
 Where an employer becomes aware that the employer mistakenly understated the amount in a claim (the “ understated claim ”), the employer may submit a claim in accordance with regulation 6 for the amount understated in respect of the same period, PAYE scheme and employees specified in the understated claim.
 
-### 11. Recovery of overpayments[^key-517f02adfceb7b318775c38656e4fd84]
+### 11. Recovery of overpayments[^c-517f02adfceb7b318775c38656e4fd84]
 
 (1) Where any sum has been overpaid to an employer under these Regulations (an “overpayment”), HMRC may recover it in accordance with this regulation.
 
@@ -238,7 +238,7 @@ Where an employer becomes aware that the employer mistakenly understated the amo
 
 ## PART 5 — Records and information requests
 
-### 12. Preservation of records[^key-056d70af5ae591dc0f717e06b3df8fe8]
+### 12. Preservation of records[^c-056d70af5ae591dc0f717e06b3df8fe8]
 
 (1) An employer who makes a claim for a reimbursement amount must keep a record of the following in respect of the employee, or former employee, in relation to whom the amount was claimed—
 
@@ -255,7 +255,7 @@ Where an employer becomes aware that the employer mistakenly understated the amo
 
 (5) In paragraph (4), “**the confirmation of State aid letter**” means the letter containing confirmation of receipt of State aid under these Regulations sent by HMRC to the employer once a claim is made.
 
-### 13. Provision of information and records[^key-36d12f9b45733183a63e775c8d23e287]
+### 13. Provision of information and records[^c-36d12f9b45733183a63e775c8d23e287]
 
 (1) HMRC may by notice require an employer who has made a claim for a reimbursement amount—
 
@@ -316,27 +316,27 @@ An Impact Assessment has not been produced for this instrument because it is cov
 
 [^c24097931]: Marginal citation: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4). By virtue of section 39(1) of the [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), the Social Security Contributions and Benefits Act 1992 (“**the 1992 Act**”) has effect as if a new section 159B were inserted after section 159A. Section 159B(7) allows these Regulations to have retrospective effect in relation to a day of incapacity for work that falls on or after 13th March 2020. Section 175(4) was amended by paragraph 29(4) of Schedule 3 to the [Social Security Contributions (Transfer of Functions, etc.) Act 1999 (c. 2)](https://www.legislation.gov.uk/ukpga/1999/2). By virtue of section 41(2) of the Coronavirus Act 2020, the 1992 Act has effect as if a new section 175(5A) were inserted after section 175(5).
 
-[^key-8e8559fb596b0cb0cd1611c04355c08e]: Commencement: Reg. 1 in force at 26.5.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/512/regulation/1)
+[^c-8e8559fb596b0cb0cd1611c04355c08e]: Commencement: Reg. 1 in force at 26.5.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/512/regulation/1)
 
-[^key-08d4743fe135bba4919dacb33d44b44f]: Commencement: Reg. 2 in force at 26.5.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/512/regulation/1)
+[^c-08d4743fe135bba4919dacb33d44b44f]: Commencement: Reg. 2 in force at 26.5.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/512/regulation/1)
 
 [^c24097941]: Marginal citation: OJ C 91I, 20.3.2020, p. 1, amended by Communication from the Commission of 3 April 2020 OJ C 112I, 4.4.2020, p.1 and Communication from the Commission of 8 May 2020 OJ C 164, 13.5.2020, p.3.
 
-[^key-a97a052dadfdd621d5272172d407a3d9]: Commencement: Reg. 3 in force at 26.5.2020, see reg. 1
+[^c-a97a052dadfdd621d5272172d407a3d9]: Commencement: Reg. 3 in force at 26.5.2020, see reg. 1
 
 [^c24097951]: Marginal citation: “Statutory sick pay” is defined in section 151(1) of the 1992 Act.
 
 [^c24097961]: Marginal citation: “Period of incapacity for work” is defined in s152(2) of the 1992 Act.
 
-[^key-0d41ae14bc2181ca158c6c5bb50f6fad]: Textual amendment: Sum in reg. 3(3)(a) substituted (6.4.2021) by [The Statutory Sick Pay (Coronavirus) (Funding of Employers’ Liabilities) (Amendment) Regulations and the Statutory Sick Pay (Coronavirus) (Funding of Employers’ Liabilities) (Northern Ireland) (Amendment) Regulations 2021 (S.I. 2021/281)](https://www.legislation.gov.uk/uksi/2021/281), [regs. 1](https://www.legislation.gov.uk/uksi/2021/281/regulation/1), [2](https://www.legislation.gov.uk/uksi/2021/281/regulation/2)
+[^c-0d41ae14bc2181ca158c6c5bb50f6fad]: Textual amendment: Sum in reg. 3(3)(a) substituted (6.4.2021) by [The Statutory Sick Pay (Coronavirus) (Funding of Employers’ Liabilities) (Amendment) Regulations and the Statutory Sick Pay (Coronavirus) (Funding of Employers’ Liabilities) (Northern Ireland) (Amendment) Regulations 2021 (S.I. 2021/281)](https://www.legislation.gov.uk/uksi/2021/281), [regs. 1](https://www.legislation.gov.uk/uksi/2021/281/regulation/1), [2](https://www.legislation.gov.uk/uksi/2021/281/regulation/2)
 
-[^key-0a275a30f65239ca862cd6640098de04]: Textual amendment: Sum in reg. 3(3)(b) substituted (6.4.2021) by [The Statutory Sick Pay (Coronavirus) (Funding of Employers’ Liabilities) (Amendment) Regulations and the Statutory Sick Pay (Coronavirus) (Funding of Employers’ Liabilities) (Northern Ireland) (Amendment) Regulations 2021 (S.I. 2021/281)](https://www.legislation.gov.uk/uksi/2021/281), [regs. 1](https://www.legislation.gov.uk/uksi/2021/281/regulation/1), [2](https://www.legislation.gov.uk/uksi/2021/281/regulation/2)
+[^c-0a275a30f65239ca862cd6640098de04]: Textual amendment: Sum in reg. 3(3)(b) substituted (6.4.2021) by [The Statutory Sick Pay (Coronavirus) (Funding of Employers’ Liabilities) (Amendment) Regulations and the Statutory Sick Pay (Coronavirus) (Funding of Employers’ Liabilities) (Northern Ireland) (Amendment) Regulations 2021 (S.I. 2021/281)](https://www.legislation.gov.uk/uksi/2021/281), [regs. 1](https://www.legislation.gov.uk/uksi/2021/281/regulation/1), [2](https://www.legislation.gov.uk/uksi/2021/281/regulation/2)
 
 [^c24097971]: Marginal citation: The European Commission's official rates are available at https://ec.europa.eu/info/funding-tenders/how-eu-funding-works/information-contractors-and-beneficiaries/exchange-rate-inforeuro\_en.
 
 [^c24097981]: Marginal citation: The Direction dated 15 April 2020 is available at https://www.thegazette.co.uk/notice/3551698. A person unable to access the Direction electronically may access it while government advice on social distancing and unnecessary travel applies, in hard copy by post free of charge on application to 07785 665073 and otherwise by inspection free of charge at HMRC, 100 Parliament Street, London SW1A 2BQ.
 
-[^key-979ecde7b8b44cc746fe89212bb90560]: Commencement: Reg. 4 in force at 26.5.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/512/regulation/1)
+[^c-979ecde7b8b44cc746fe89212bb90560]: Commencement: Reg. 4 in force at 26.5.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/512/regulation/1)
 
 [^c24097991]: Marginal citation: OJ No. L 187, 26.6.2014, p. 1, to which there are amendments not relevant to these Regulations.
 
@@ -346,23 +346,23 @@ An Impact Assessment has not been produced for this instrument because it is cov
 
 [^c24098021]: Marginal citation: [2010 c. 4](https://www.legislation.gov.uk/ukpga/2010/4). Section 1121(1) was amended by [S.I. 2013/1388](https://www.legislation.gov.uk/uksi/2013/1388).
 
-[^key-e206930be918aa7e0ec09128e9c725c1]: Commencement: Reg. 5 in force at 26.5.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/512/regulation/1)
+[^c-e206930be918aa7e0ec09128e9c725c1]: Commencement: Reg. 5 in force at 26.5.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/512/regulation/1)
 
 [^c24098031]: Marginal citation: [S.I. 1982/894](https://www.legislation.gov.uk/uksi/1982/894). Paragraph (1)(c) was inserted by [S.I. 2020/287](https://www.legislation.gov.uk/uksi/2020/287) and amended by [S.I. 2020/304](https://www.legislation.gov.uk/uksi/2020/304), 2020/374.
 
-[^key-716fb448b870cbce6000d8672c06bbc2]: Commencement: Reg. 6 in force at 26.5.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/512/regulation/1)
+[^c-716fb448b870cbce6000d8672c06bbc2]: Commencement: Reg. 6 in force at 26.5.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/512/regulation/1)
 
-[^key-2d06096dc570760b93226934eed833b0]: Commencement: Reg. 7 in force at 26.5.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/512/regulation/1)
+[^c-2d06096dc570760b93226934eed833b0]: Commencement: Reg. 7 in force at 26.5.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/512/regulation/1)
 
 [^c24098041]: Marginal citation: “Qualifying day” is defined in section 154 of the 1992 Act.
 
-[^key-1c6b6ccb938760f6749dea6a3c397385]: Commencement: Reg. 8 in force at 26.5.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/512/regulation/1)
+[^c-1c6b6ccb938760f6749dea6a3c397385]: Commencement: Reg. 8 in force at 26.5.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/512/regulation/1)
 
-[^key-bbbfaba64ca236eacf9a8cfef6a27c77]: Commencement: Reg. 9 in force at 26.5.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/512/regulation/1)
+[^c-bbbfaba64ca236eacf9a8cfef6a27c77]: Commencement: Reg. 9 in force at 26.5.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/512/regulation/1)
 
-[^key-b41fcbf79b2da2357e17ad9dcf14a866]: Commencement: Reg. 10 in force at 26.5.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/512/regulation/1)
+[^c-b41fcbf79b2da2357e17ad9dcf14a866]: Commencement: Reg. 10 in force at 26.5.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/512/regulation/1)
 
-[^key-517f02adfceb7b318775c38656e4fd84]: Commencement: Reg. 11 in force at 26.5.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/512/regulation/1)
+[^c-517f02adfceb7b318775c38656e4fd84]: Commencement: Reg. 11 in force at 26.5.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/512/regulation/1)
 
 [^c24098051]: Marginal citation: [1970 c. 9](https://www.legislation.gov.uk/ukpga/1970/9).
 
@@ -370,6 +370,6 @@ An Impact Assessment has not been produced for this instrument because it is cov
 
 [^c24098071]: Marginal citation: [2009 c. 10](https://www.legislation.gov.uk/ukpga/2009/10).
 
-[^key-056d70af5ae591dc0f717e06b3df8fe8]: Commencement: Reg. 12 in force at 26.5.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/512/regulation/1)
+[^c-056d70af5ae591dc0f717e06b3df8fe8]: Commencement: Reg. 12 in force at 26.5.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/512/regulation/1)
 
-[^key-36d12f9b45733183a63e775c8d23e287]: Commencement: Reg. 13 in force at 26.5.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/512/regulation/1)
+[^c-36d12f9b45733183a63e775c8d23e287]: Commencement: Reg. 13 in force at 26.5.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/512/regulation/1)

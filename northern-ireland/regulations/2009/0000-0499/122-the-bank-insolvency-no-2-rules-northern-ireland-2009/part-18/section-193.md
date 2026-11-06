@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 193. Notice of application under Article 150A(5)[^key-07eb64b71370a8555a1ce1b4089a0397]
+## 193. Notice of application under Article 150A(5)[^c-07eb64b71370a8555a1ce1b4089a0397]
 
 *Extent: N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-07eb64b71370a8555a1ce1b4089a0397]: Commencement: Rule 193 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-07eb64b71370a8555a1ce1b4089a0397]: Commencement: Rule 193 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
 
 [^f00023]: Footnote: Rule 7.08A was inserted by the Insolvency (Amendment) Rules (Northern Ireland) 2006 ([S.R. 2006 No. 47](https://www.legislation.gov.uk/nisr/2006/47)), rule 98.

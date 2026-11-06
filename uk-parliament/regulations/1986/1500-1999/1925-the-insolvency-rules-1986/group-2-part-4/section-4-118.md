@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.118. Advertisement of removal[^key-b6d80b29f1895dd8b79f40fad765bbf9]
+## 4.118. Advertisement of removal[^c-b6d80b29f1895dd8b79f40fad765bbf9]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where a new liquidator is appointed in place of one removed, the former shall, i
 
 ## Annotations
 
-[^key-b6d80b29f1895dd8b79f40fad765bbf9]: Commencement: [Rule 4.118](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.118) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-b6d80b29f1895dd8b79f40fad765bbf9]: Commencement: [Rule 4.118](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.118) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

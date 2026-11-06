@@ -47,7 +47,7 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 In accordance with section 48(4A) of that Act, they have had regard to relevant advice given by the Food Standards Agency.
 
-As required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^c19812481] there has been open and transparent public consultation during the preparation and evaluation of these Regulations.[^key-b1e81215b33b7998befe27bf50601f65]
+As required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^c19812481] there has been open and transparent public consultation during the preparation and evaluation of these Regulations.[^c-b1e81215b33b7998befe27bf50601f65]
 
 ## 1. Title, commencement and application
 
@@ -75,11 +75,11 @@ These Regulations do not apply to—
 - “**the Agency**” (“***yr Asiantaeth***”) means the Food Standards Agency;
 - “**approval**” (“***cymeradwyaeth***”) includes a licence;
 - “approved” (“*a gymeradwywyd*”, “*wedi'i gymeradwyo*”, “*wedi'u cymeradwyo*”) includes “licensed” (“*trwyddedig*”, “*wedi'i drwyddedu*”);
-- “**import**” (“***mewnforio***”) means to introduce from outside the United Kingdom[^key-a15c36900576ed033c7fa2a67bcf7171];
+- “**import**” (“***mewnforio***”) means to introduce from outside the United Kingdom[^c-a15c36900576ed033c7fa2a67bcf7171];
 - “**ionising radiation**” (“***ymbelydredd ïoneiddio***”) means any gamma rays, X-rays or corpuscular radiations which are capable of producing ions either directly or indirectly;
 - “irradiated” (“*a arbelydrir*”, “*a arbelydrwyd*”, “*arbelydrwyd*”, “*cael ei arbelydru*”, “*wedi'i arbelydru*”) means treated by ionising radiation, and similar expressions must be construed accordingly;
 - “**licence**” (“***trwydded***”) save in regulation 7(a)(ii)(bb) means a licence granted by the Agency in accordance with Schedule 2 to a person and a facility to irradiate food and “licensed” (“*ei drwyddedu*”, “*trwyddedig*”, “*wedi'i drwyddedu*”) and “**licensee**” (“***trwyddedai***”) must be construed accordingly;
-- “**official reference number**” (“***Rhif cyfeirnod swyddogol***”) in relation to a facility in a Member State means the number shown for it in the list in Schedule 3[^key-ae3a5ec08c2bd20dfd9e7c3b5f9d764f] ;
+- “**official reference number**” (“***Rhif cyfeirnod swyddogol***”) in relation to a facility in a Member State means the number shown for it in the list in Schedule 3[^c-ae3a5ec08c2bd20dfd9e7c3b5f9d764f] ;
 - “**sell**” (“***gwerthu***”) includes possess, offer, expose and advertise for sale, and “**sale**” (“***gwerthu***”) must be construed accordingly.
 
 (2) For the purposes of these Regulations—
@@ -135,9 +135,9 @@ These Regulations do not apply to—
 (1) No person may import any irradiated food into Wales for the purpose of sale unless—
 
 - (a) it falls within a permitted category of food;
-- (b)[^key-1c3174ff375aeee0dc44faa3467d23d8] it has been irradiated in one of the facilities listed in the Table in Schedule 3 or Schedule 4;
+- (b)[^c-1c3174ff375aeee0dc44faa3467d23d8] it has been irradiated in one of the facilities listed in the Table in Schedule 3 or Schedule 4;
 - (c) it is properly irradiated food; and
-- (d) where it was irradiated in a[^key-8f85d0465ec688fc2abdb7940e7c6d2e] Member State, it is accompanied by documents containing—
+- (d) where it was irradiated in a[^c-8f85d0465ec688fc2abdb7940e7c6d2e] Member State, it is accompanied by documents containing—
   - (i) either the name and address of the facility which carried out the irradiation, or its official reference number; and
   - (ii) the information specified in paragraph 9(1)(a) to (d) and ( )(d) of Part 3 of Schedule ; or
 - (e) where it was irradiated outside the European Union[^M_F_b2d44218-a5e8-4e21-8de3-d965f069a1b9]—
@@ -533,7 +533,7 @@ and must state in outline the effect of the matter to which it relates.
 
 **3.** Save as provided by section 43 of the Act (continuance on death), a licence is not transferable.
 
-## SCHEDULE 3 — LIST OF FACILITIES IN EU MEMBER STATES AND IN THE UNITED KINGDOM[^key-b7bb076c8d5a7a45809b87a57d0db2e9][^key-a1fb4ff175424b13670f7fd0d6d5227a]
+## SCHEDULE 3 — LIST OF FACILITIES IN EU MEMBER STATES AND IN THE UNITED KINGDOM[^c-b7bb076c8d5a7a45809b87a57d0db2e9][^c-a1fb4ff175424b13670f7fd0d6d5227a]
 
 Regulations 3(1)and 5(1)(b)(i)
 
@@ -566,7 +566,7 @@ Regulations 3(1)and 5(1)(b)(i)
 | RG016/2008 | Multipurpose Irradiation Facility<br>IRASM Technological Irradiations Department<br>Horia Hulubei<br>National Institute for Research and Development of Physics and Nuclear Engineering<br>Atomiştilor Str. No. 407<br>PO Box MG-6<br>Măgurele. Ilfov County<br>Romania |
 | EW/04 | Synergy Health<br>Moray Road<br>Elgin Industrial Estate<br>Swindon<br>Wiltshire<br>SN2 8XS<br>United Kingdom |
 
-## SCHEDULE 4 — LIST OF FACILITIES IN COUNTRIES OUTSIDE THE EUROPEAN UNION[^key-f36f8c34023c84e5fa73cd84d3623477]
+## SCHEDULE 4 — LIST OF FACILITIES IN COUNTRIES OUTSIDE THE EUROPEAN UNION[^c-f36f8c34023c84e5fa73cd84d3623477]
 
 Regulation 5(1)(b)(ii)
 
@@ -622,15 +622,15 @@ Regulation 5(1)(b)(ii)
 
 [^c19812481]: Marginal citation: OJ No. L31, 1.2.2002, p.1, as last amended by Commission Regulation (EC) No.202/2008 amending Regulation (EC) No. 178/2002 of the European Parliament and of the Council as regards the number and names of the Scientific Panels of the European Food Safety Authority (OJ No. L60, 5.3.2008, p.17).
 
-[^key-b1e81215b33b7998befe27bf50601f65]: Modification: [Regulations](https://www.legislation.gov.uk/wsi/2009/1795) applied in part (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
+[^c-b1e81215b33b7998befe27bf50601f65]: Modification: [Regulations](https://www.legislation.gov.uk/wsi/2009/1795) applied in part (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
 
-[^key-a15c36900576ed033c7fa2a67bcf7171]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/wsi/2009/1795/regulation/3/1) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/3), [8(2)(a)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/8/2/a)
+[^c-a15c36900576ed033c7fa2a67bcf7171]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/wsi/2009/1795/regulation/3/1) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/3), [8(2)(a)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/8/2/a)
 
-[^key-ae3a5ec08c2bd20dfd9e7c3b5f9d764f]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/wsi/2009/1795/regulation/3/1) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/3), [8(2)(b)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/8/2/b)
+[^c-ae3a5ec08c2bd20dfd9e7c3b5f9d764f]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/wsi/2009/1795/regulation/3/1) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/3), [8(2)(b)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/8/2/b)
 
-[^key-1c3174ff375aeee0dc44faa3467d23d8]: Textual amendment: [Reg. 5(1)(b)](https://www.legislation.gov.uk/wsi/2009/1795/regulation/5/1/b) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/3), [8(3)(a)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/8/3/a)
+[^c-1c3174ff375aeee0dc44faa3467d23d8]: Textual amendment: [Reg. 5(1)(b)](https://www.legislation.gov.uk/wsi/2009/1795/regulation/5/1/b) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/3), [8(3)(a)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/8/3/a)
 
-[^key-8f85d0465ec688fc2abdb7940e7c6d2e]: Textual amendment: Word in [reg. 5(1)(d)](https://www.legislation.gov.uk/wsi/2009/1795/regulation/5/1/d) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/3), [8(3)(b)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/8/3/b)
+[^c-8f85d0465ec688fc2abdb7940e7c6d2e]: Textual amendment: Word in [reg. 5(1)(d)](https://www.legislation.gov.uk/wsi/2009/1795/regulation/5/1/d) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/3), [8(3)(b)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/8/3/b)
 
 [^M_F_b2d44218-a5e8-4e21-8de3-d965f069a1b9]: Textual amendment: Words in Regulations substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [8-10](https://www.legislation.gov.uk/uksi/2011/1043/article/8)
 
@@ -650,10 +650,10 @@ Regulation 5(1)(b)(ii)
 
 [^M_F_fd8a6737-92d3-4181-dd82-6f914fbc3044]: Textual amendment: Sch. 2 Pt. 3 para. 9(1)(b) substituted (20.10.2010) by [The Food Irradiation (Wales) (Amendment) Regulations 2010 (S.I. 2010/2289)](https://www.legislation.gov.uk/uksi/2010/2289), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2289/regulation/1), [4(1)](https://www.legislation.gov.uk/uksi/2010/2289/regulation/4/1)
 
-[^key-b7bb076c8d5a7a45809b87a57d0db2e9]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/wsi/2009/1795/schedule/3) substituted (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [Sch. 1](https://www.legislation.gov.uk/wsi/2018/806/schedule/1)
+[^c-b7bb076c8d5a7a45809b87a57d0db2e9]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/wsi/2009/1795/schedule/3) substituted (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [Sch. 1](https://www.legislation.gov.uk/wsi/2018/806/schedule/1)
 
-[^key-a1fb4ff175424b13670f7fd0d6d5227a]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/wsi/2009/1795/schedule/3) heading substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/3), [8(4)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/8/4)
+[^c-a1fb4ff175424b13670f7fd0d6d5227a]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/wsi/2009/1795/schedule/3) heading substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/3), [8(4)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/8/4)
 
-[^key-f36f8c34023c84e5fa73cd84d3623477]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/wsi/2009/1795/schedule/4) substituted (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [Sch. 2](https://www.legislation.gov.uk/wsi/2018/806/schedule/2)
+[^c-f36f8c34023c84e5fa73cd84d3623477]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/wsi/2009/1795/schedule/4) substituted (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [Sch. 2](https://www.legislation.gov.uk/wsi/2018/806/schedule/2)
 
 [^c19812621]: Marginal citation: Published on the Commission website via http://ec.europa.eu/food/food/biosafety/irradiation.comm\_ legisl\_en.pdf. A hard copymay be obtained from the European Commission, DirectorateGeneral for Health and Consumers, B-1049 Brussels, Belgium.

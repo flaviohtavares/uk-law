@@ -34,7 +34,7 @@ An Act to provide for the establishment and functions of the Charity Commission 
 
 \[9th September 2008\]
 
-BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to by Her Majesty as follows:[^key-961967e9f6f53b9780f4acd35d846ede]
+BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to by Her Majesty as follows:[^c-961967e9f6f53b9780f4acd35d846ede]
 
 ## Contents
 
@@ -434,4 +434,4 @@ SCHEDULES
 
 ## Annotations
 
-[^key-961967e9f6f53b9780f4acd35d846ede]: Modification: [Act](https://www.legislation.gov.uk/nia/2008/12) modified (19.8.2013) by [The Charities Act 2008 (Transitional Provision) Order (Northern Ireland) 2013 (S.R. 2013/211)](https://www.legislation.gov.uk/nisr/2013/211), [art. 2(1)](https://www.legislation.gov.uk/nisr/2013/211/article/2/1)
+[^c-961967e9f6f53b9780f4acd35d846ede]: Modification: [Act](https://www.legislation.gov.uk/nia/2008/12) modified (19.8.2013) by [The Charities Act 2008 (Transitional Provision) Order (Northern Ireland) 2013 (S.R. 2013/211)](https://www.legislation.gov.uk/nisr/2013/211), [art. 2(1)](https://www.legislation.gov.uk/nisr/2013/211/article/2/1)

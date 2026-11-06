@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 35. Amendment of schedule 1 (registrations and permits: procedures)[^key-d333a32b943199af990ab3504d70e74e]
+## 35. Amendment of schedule 1 (registrations and permits: procedures)[^c-d333a32b943199af990ab3504d70e74e]
 
 *Extent: S*
 
@@ -108,4 +108,4 @@ In schedule 1(registrations and permits: procedures)—
 
 ## Annotations
 
-[^key-d333a32b943199af990ab3504d70e74e]: Commencement: [Reg. 35](https://www.legislation.gov.uk/ssi/2025/165/regulation/35) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
+[^c-d333a32b943199af990ab3504d70e74e]: Commencement: [Reg. 35](https://www.legislation.gov.uk/ssi/2025/165/regulation/35) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)

@@ -24,7 +24,7 @@ Section 90
 
 ### Police Act 1996
 
-**1.**[^key-465484749c41a3949b80fc34b11f3ab5] After section 23A of the Police Act 1996 insert—
+**1.**[^c-465484749c41a3949b80fc34b11f3ab5] After section 23A of the Police Act 1996 insert—
 
 > **23AA. Force collaboration provision about civilian employees**
 >
@@ -55,9 +55,9 @@ Section 90
 
 ### Police Reform Act 2002
 
-**2.**[^key-3f7eb6551567e15dc16a62a262a29237] The Police Reform Act 2002 is amended as follows.
+**2.**[^c-3f7eb6551567e15dc16a62a262a29237] The Police Reform Act 2002 is amended as follows.
 
-**3.**[^key-550447c33b9ce6660877230b217702eb] After section 38A insert—
+**3.**[^c-550447c33b9ce6660877230b217702eb] After section 38A insert—
 
 > **38B. Police powers for civilian employees under collaboration agreements**
 >
@@ -107,7 +107,7 @@ Section 90
 
 .
 
-**4.**[^key-abf1ebd7c1a74b975ffb6600fcd173c7] (1) Section 42 (supplementary provisions relating to designations and accreditations) is amended in accordance with this paragraph.
+**4.**[^c-abf1ebd7c1a74b975ffb6600fcd173c7] (1) Section 42 (supplementary provisions relating to designations and accreditations) is amended in accordance with this paragraph.
 
 (2) In subsection (1), after “section 38” insert “ , 38B ”.
 
@@ -134,7 +134,7 @@ Section 90
 
 .
 
-**5.**[^key-f71b8b86cd8b577030ab29583514aabc] In section 46 (offences against designated and accredited persons etc), after subsection (4) insert—
+**5.**[^c-f71b8b86cd8b577030ab29583514aabc] In section 46 (offences against designated and accredited persons etc), after subsection (4) insert—
 
 > (5) References in this section to a designated person are to—
 >
@@ -145,7 +145,7 @@ Section 90
 
 ### Railways and Transport Safety Act 2003
 
-**6.**[^key-9c0c299076964d02b79a66f941d788e4] In section 28 of the Railways and Transport Safety Act 2003 (exercise of powers by civilians), after subsection (1)(aa) insert—
+**6.**[^c-9c0c299076964d02b79a66f941d788e4] In section 28 of the Railways and Transport Safety Act 2003 (exercise of powers by civilians), after subsection (1)(aa) insert—
 
 > - (ab) sections 38B and 38C (police powers for civilian employees under collaboration agreements),
 
@@ -153,14 +153,14 @@ Section 90
 
 ## Annotations
 
-[^key-465484749c41a3949b80fc34b11f3ab5]: Commencement: [Sch. 13 para. 1](https://www.legislation.gov.uk/ukpga/2011/13/schedule/13/paragraph/1) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-465484749c41a3949b80fc34b11f3ab5]: Commencement: [Sch. 13 para. 1](https://www.legislation.gov.uk/ukpga/2011/13/schedule/13/paragraph/1) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
 
-[^key-3f7eb6551567e15dc16a62a262a29237]: Commencement: [Sch. 13 para. 2](https://www.legislation.gov.uk/ukpga/2011/13/schedule/13/paragraph/2) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-3f7eb6551567e15dc16a62a262a29237]: Commencement: [Sch. 13 para. 2](https://www.legislation.gov.uk/ukpga/2011/13/schedule/13/paragraph/2) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
 
-[^key-550447c33b9ce6660877230b217702eb]: Commencement: [Sch. 13 para. 3](https://www.legislation.gov.uk/ukpga/2011/13/schedule/13/paragraph/3) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-550447c33b9ce6660877230b217702eb]: Commencement: [Sch. 13 para. 3](https://www.legislation.gov.uk/ukpga/2011/13/schedule/13/paragraph/3) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
 
-[^key-abf1ebd7c1a74b975ffb6600fcd173c7]: Commencement: [Sch. 13 para. 4](https://www.legislation.gov.uk/ukpga/2011/13/schedule/13/paragraph/4) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-abf1ebd7c1a74b975ffb6600fcd173c7]: Commencement: [Sch. 13 para. 4](https://www.legislation.gov.uk/ukpga/2011/13/schedule/13/paragraph/4) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
 
-[^key-f71b8b86cd8b577030ab29583514aabc]: Commencement: [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2011/13/schedule/13/paragraph/5) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-f71b8b86cd8b577030ab29583514aabc]: Commencement: [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2011/13/schedule/13/paragraph/5) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
 
-[^key-9c0c299076964d02b79a66f941d788e4]: Commencement: [Sch. 13 para. 6](https://www.legislation.gov.uk/ukpga/2011/13/schedule/13/paragraph/6) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-9c0c299076964d02b79a66f941d788e4]: Commencement: [Sch. 13 para. 6](https://www.legislation.gov.uk/ukpga/2011/13/schedule/13/paragraph/6) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)

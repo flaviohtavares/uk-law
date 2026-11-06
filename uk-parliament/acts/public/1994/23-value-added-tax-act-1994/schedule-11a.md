@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 11A — Disclosure of avoidance Schemes[^key-6eff0ddc3da451c227ee5a86c76879d9][^key-b88b209bbcfc641c0169185d4fc25c24]
+## SCHEDULE 11A — Disclosure of avoidance Schemes[^c-6eff0ddc3da451c227ee5a86c76879d9][^c-b88b209bbcfc641c0169185d4fc25c24]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,14 +27,14 @@ Section 58A
 **1.** In this Schedule—
 
 - “**designated scheme**” has the meaning given by paragraph 3(4);
-- “[^key-5bf25fd8a88db3dc4c21e355b9281899]**non-deductible tax**”, in relation to a taxable person, has the meaning given by paragraph 2A;
+- “[^c-5bf25fd8a88db3dc4c21e355b9281899]**non-deductible tax**”, in relation to a taxable person, has the meaning given by paragraph 2A;
 - “**notifiable scheme**” has the meaning given by paragraph 5(1);
 - “**scheme**” includes any arrangements, transaction or series of transactions;
 - “**tax advantage**” is to be read in accordance with paragraph 2.
 
 ### Obtaining a tax advantage
 
-**2.**[^key-44ebe7c6e946825d95faaf57ba65bfe8] (1) For the purposes of this Schedule, a taxable person obtains a tax advantage if—
+**2.**[^c-44ebe7c6e946825d95faaf57ba65bfe8] (1) For the purposes of this Schedule, a taxable person obtains a tax advantage if—
 
 - (a) in any prescribed accounting period, the amount by which the output tax accounted for by him exceeds the input tax deducted by him is less than it would otherwise be,
 - (b) he obtains a VAT credit when he would not otherwise do so, or obtains a larger VAT credit or obtains a VAT credit earlier than would otherwise be the case,
@@ -51,7 +51,7 @@ Section 58A
 
 but excluding (in each case) any VAT in respect of which he is entitled to a refund from the Commissioners by virtue of any provision of this Act.
 
-### Meaning of “non-deductible tax”[^key-485d56e0d409c0bc112805a2d6064de3]
+### Meaning of “non-deductible tax”[^c-485d56e0d409c0bc112805a2d6064de3]
 
 **2A.** (1) In this Schedule “**non-deductible tax**”, in relation to a taxable person, means—
 
@@ -61,8 +61,8 @@ but excluding (in each case) any VAT in respect of which he is entitled to a ref
 (2) For the purposes of sub-paragraph (1)(b), the VAT “**incurred**” by a taxable person is—
 
 - (a) VAT on the supply to him of any goods or services,
-- (b) [^key-5fa5384e838156d305b01e592e2b74cb]... and
-- (c) VAT paid or payable by him on the importation of any goods [^key-fface9c298b2d77805a97468ff5b04fe]....
+- (b) [^c-5fa5384e838156d305b01e592e2b74cb]... and
+- (c) VAT paid or payable by him on the importation of any goods [^c-fface9c298b2d77805a97468ff5b04fe]....
 
 ### Designation by order of avoidance schemes
 
@@ -102,13 +102,13 @@ the Treasury may by order designate that scheme for the purposes of this paragra
 
 **6.** (1) This paragraph applies in relation to a taxable person where—
 
-- (a) the amount of VAT shown in a return in respect of a prescribed accounting period as payable by or to him is less than or greater than it would be but for any notifiable scheme to which he is party, [^key-2ca2d5b691e26b2c84636ba3230ca254]...
-- (b) he makes a claim for the repayment of output tax or an increase in credit for input tax in respect of any prescribed accounting period in respect of which he has previously delivered a return and the amount claimed is greater than it would be but for such a scheme, or[^key-0a0547aa3304a90d410453c62ce3c42e]
+- (a) the amount of VAT shown in a return in respect of a prescribed accounting period as payable by or to him is less than or greater than it would be but for any notifiable scheme to which he is party, [^c-2ca2d5b691e26b2c84636ba3230ca254]...
+- (b) he makes a claim for the repayment of output tax or an increase in credit for input tax in respect of any prescribed accounting period in respect of which he has previously delivered a return and the amount claimed is greater than it would be but for such a scheme, or[^c-0a0547aa3304a90d410453c62ce3c42e]
 - (c) the amount of his non-deductible tax in respect of any prescribed accounting period is less than it would be but for such a scheme.
 
 (2) Where the scheme is a designated scheme, the taxable person must notify the Commissioners within the prescribed time, and in such form and manner as may be required by or under regulations, of the reference number allocated to the scheme under paragraph 3(3).
 
-(2A)[^key-3fa74310f47104c450c80a03ef542223] Sub-paragraph (2) does not apply to a taxable person in relation to any scheme if he has on a previous occasion—
+(2A)[^c-3fa74310f47104c450c80a03ef542223] Sub-paragraph (2) does not apply to a taxable person in relation to any scheme if he has on a previous occasion—
 
 - (a) notified the Commissioners under that sub-paragraph in relation to the scheme, or
 - (b) provided the Commissioners with prescribed information under sub-paragraph (3) (as it applied before the scheme became a designated scheme) in relation to the scheme.
@@ -120,7 +120,7 @@ the Treasury may by order designate that scheme for the purposes of this paragra
 - (a) provided the Commissioners with prescribed information under paragraph 9, and
 - (b) provided the taxable person with a reference number notified to him by the Commissioners under paragraph 9(2)(b).
 
-(5)[^key-698f81ea47498506965e1c58292c1248] Sub-paragraph (3) also does not apply where the scheme is one in respect of which the taxable person has on a previous occasion provided the Commissioners with prescribed information under that sub-paragraph.
+(5)[^c-698f81ea47498506965e1c58292c1248] Sub-paragraph (3) also does not apply where the scheme is one in respect of which the taxable person has on a previous occasion provided the Commissioners with prescribed information under that sub-paragraph.
 
 (6) This paragraph has effect subject to paragraph 7.
 
@@ -150,8 +150,8 @@ the Treasury may by order designate that scheme for the purposes of this paragra
 
 (9) In this paragraph—
 
-- “**relevant period**” means the prescribed accounting period referred to in paragraph 6(1)(a), (b) or (c)[^key-f47cfbc8e8ff78dd8e405a2955053792];
-- “**undertaking**” and “**group undertaking**” have the same meanings as in section 1161 of the Companies Act 2006[^key-dde54288680541f0939326a4c47c2823].
+- “**relevant period**” means the prescribed accounting period referred to in paragraph 6(1)(a), (b) or (c)[^c-f47cfbc8e8ff78dd8e405a2955053792];
+- “**undertaking**” and “**group undertaking**” have the same meanings as in section 1161 of the Companies Act 2006[^c-dde54288680541f0939326a4c47c2823].
 
 ### Power to exclude exemption
 
@@ -176,7 +176,7 @@ the Treasury may by order designate that scheme for the purposes of this paragra
 
 ### Voluntary notification of avoidance scheme that is not designated scheme
 
-**9.**[^key-6eff0ddc3da451c227ee5a86c76879d9][^key-526a970b287957fc6dae74090e0f8a75] (1) Any person may, at any time, provide the Commissioners with prescribed information relating to a scheme or proposed scheme of a particular description which is (or, if implemented, would be) a notifiable scheme by virtue of paragraph 5(1)(b).
+**9.**[^c-6eff0ddc3da451c227ee5a86c76879d9][^c-526a970b287957fc6dae74090e0f8a75] (1) Any person may, at any time, provide the Commissioners with prescribed information relating to a scheme or proposed scheme of a particular description which is (or, if implemented, would be) a notifiable scheme by virtue of paragraph 5(1)(b).
 
 (2) On receiving the prescribed information, the Commissioners may—
 
@@ -192,7 +192,7 @@ the Treasury may by order designate that scheme for the purposes of this paragra
 (3) Where, by reason of conduct falling within sub-paragraph (1)—
 
 - (a) a person is convicted of an offence (whether under this Act or otherwise), or
-- (b) a person is assessed to a penalty under section 60 or a penalty for a deliberate inaccuracy under Schedule 24 to the Finance Act 2007[^key-f30eb7d31cfdbe0cf19fca0f9d396719],
+- (b) a person is assessed to a penalty under section 60 or a penalty for a deliberate inaccuracy under Schedule 24 to the Finance Act 2007[^c-f30eb7d31cfdbe0cf19fca0f9d396719],
 
 that conduct shall not give rise to a penalty under this paragraph.
 
@@ -206,20 +206,20 @@ that conduct shall not give rise to a penalty under this paragraph.
 
 - (a) to the extent that the case falls within paragraph 6(1)(a), the aggregate of—
   - (i) the amount by which the amount of VAT that would, but for the scheme, have been shown in returns in respect of the relevant periods as payable by the taxable person exceeds the amount of VAT that was shown in those returns as payable by him, and
-  - (ii) the amount by which the amount of VAT that was shown in such returns as payable to the taxable person exceeds the amount of VAT that would, but for the scheme, have been shown in those returns as payable to him, [^key-e69ba0790058e0e7be36c9b43f578558]...
-- (b) to the extent that the case falls within paragraph 6(1)(b), the amount by which the amount claimed exceeds the amount which the taxable person would, but for the scheme, have claimed, and[^key-a8800da606abdf62ea7ef364eac81cb0]
+  - (ii) the amount by which the amount of VAT that was shown in such returns as payable to the taxable person exceeds the amount of VAT that would, but for the scheme, have been shown in those returns as payable to him, [^c-e69ba0790058e0e7be36c9b43f578558]...
+- (b) to the extent that the case falls within paragraph 6(1)(b), the amount by which the amount claimed exceeds the amount which the taxable person would, but for the scheme, have claimed, and[^c-a8800da606abdf62ea7ef364eac81cb0]
 - (c) to the extent that—
   - (i) the case falls within paragraph 6(1)(c), and
   - (ii) the excess of the notional non-deductible tax of the taxable person for the relevant periods over his non-deductible tax for those periods is not represented by a corresponding amount which by virtue of paragraph (a) or (b) is part of the VAT saving,
 
   the amount of the excess.
 
-(4) In sub-paragraph (3)(a) and (c)[^key-dc164e3edfe795fba899807d731a57da] “**the relevant periods**” means the prescribed accounting periods beginning with that in respect of which the duty to comply with paragraph 6 first arose and ending with the earlier of the following—
+(4) In sub-paragraph (3)(a) and (c)[^c-dc164e3edfe795fba899807d731a57da] “**the relevant periods**” means the prescribed accounting periods beginning with that in respect of which the duty to comply with paragraph 6 first arose and ending with the earlier of the following—
 
 - (a) the prescribed accounting period in which the taxable person complied with that paragraph, and
 - (b) the prescribed accounting period immediately preceding the notification by the Commissioners of the penalty assessment.
 
-(5)[^key-a0c4aca1d64ea51b6ca063f2f40a3524] In sub-paragraph (3)(c), “**notional non-deductible tax**”, in relation to a taxable person, means the amount that would, but for the scheme, have been the amount of his non-deductible tax.
+(5)[^c-a0c4aca1d64ea51b6ca063f2f40a3524] In sub-paragraph (3)(c), “**notional non-deductible tax**”, in relation to a taxable person, means the amount that would, but for the scheme, have been the amount of his non-deductible tax.
 
 ### Penalty assessments
 
@@ -227,7 +227,7 @@ that conduct shall not give rise to a penalty under this paragraph.
 
 (2) The fact that any conduct giving rise to a penalty under paragraph 10 may have ceased before an assessment is made under this paragraph shall not affect the power of the Commissioners to make such an assessment.
 
-(3)[^key-d8721d9084a4c3b44b5a904f9a57c7df] In a case where—
+(3)[^c-d8721d9084a4c3b44b5a904f9a57c7df] In a case where—
 
 - (a) the penalty falls to be calculated by reference to the VAT saving as determined under paragraph 11(3), and
 - (b) the notional tax cannot readily be attributed to any one or more prescribed accounting periods,
@@ -263,42 +263,42 @@ the notional tax shall be treated for the purposes of this Schedule as attributa
 
 ## Annotations
 
-[^key-6eff0ddc3da451c227ee5a86c76879d9]: Modification: Sch. 11A modified (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(2)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/2)[(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4)
+[^c-6eff0ddc3da451c227ee5a86c76879d9]: Modification: Sch. 11A modified (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(2)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/2)[(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4)
 
-[^key-b88b209bbcfc641c0169185d4fc25c24]: Textual amendment: Sch. 11A inserted (22.7.2004 for specified purposes, 1.8.2004 in so far as not already in force) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2004/12/section/19/2), [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2004/12/schedule/2/paragraph/2); [S.I. 2004/1934](https://www.legislation.gov.uk/uksi/2004/1934), [art. 2](https://www.legislation.gov.uk/uksi/2004/1934/article/2)
+[^c-b88b209bbcfc641c0169185d4fc25c24]: Textual amendment: Sch. 11A inserted (22.7.2004 for specified purposes, 1.8.2004 in so far as not already in force) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2004/12/section/19/2), [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2004/12/schedule/2/paragraph/2); [S.I. 2004/1934](https://www.legislation.gov.uk/uksi/2004/1934), [art. 2](https://www.legislation.gov.uk/uksi/2004/1934/article/2)
 
-[^key-5bf25fd8a88db3dc4c21e355b9281899]: Textual amendment: Words in Sch. 11A para. 1 inserted (1.8.2005) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2005/22/section/6/2), [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2005/22/schedule/1/paragraph/2); [S.I. 2005/2010](https://www.legislation.gov.uk/uksi/2005/2010), [art. 2](https://www.legislation.gov.uk/uksi/2005/2010/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/2010/article/4))
+[^c-5bf25fd8a88db3dc4c21e355b9281899]: Textual amendment: Words in Sch. 11A para. 1 inserted (1.8.2005) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2005/22/section/6/2), [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2005/22/schedule/1/paragraph/2); [S.I. 2005/2010](https://www.legislation.gov.uk/uksi/2005/2010), [art. 2](https://www.legislation.gov.uk/uksi/2005/2010/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/2010/article/4))
 
-[^key-44ebe7c6e946825d95faaf57ba65bfe8]: Textual amendment: Sch. 11A para. 2 substituted (1.8.2005) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2005/22/section/6/2), [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2005/22/schedule/1/paragraph/3); [S.I. 2005/2010](https://www.legislation.gov.uk/uksi/2005/2010), [art. 2](https://www.legislation.gov.uk/uksi/2005/2010/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/2010/article/4))
+[^c-44ebe7c6e946825d95faaf57ba65bfe8]: Textual amendment: Sch. 11A para. 2 substituted (1.8.2005) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2005/22/section/6/2), [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2005/22/schedule/1/paragraph/3); [S.I. 2005/2010](https://www.legislation.gov.uk/uksi/2005/2010), [art. 2](https://www.legislation.gov.uk/uksi/2005/2010/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/2010/article/4))
 
-[^key-485d56e0d409c0bc112805a2d6064de3]: Textual amendment: Sch. 11 para. 2A and cross-heading inserted (1.8.2005) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2005/22/section/6/2), [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2005/22/schedule/1/paragraph/4); [S.I. 2005/2010](https://www.legislation.gov.uk/uksi/2005/2010), [art. 2](https://www.legislation.gov.uk/uksi/2005/2010/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/2010/article/4))
+[^c-485d56e0d409c0bc112805a2d6064de3]: Textual amendment: Sch. 11 para. 2A and cross-heading inserted (1.8.2005) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2005/22/section/6/2), [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2005/22/schedule/1/paragraph/4); [S.I. 2005/2010](https://www.legislation.gov.uk/uksi/2005/2010), [art. 2](https://www.legislation.gov.uk/uksi/2005/2010/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/2010/article/4))
 
-[^key-5fa5384e838156d305b01e592e2b74cb]: Textual amendment: [Sch. 11A para. 2A(2)(b)](https://www.legislation.gov.uk/ukpga/1994/23/schedule/11A/paragraph/2A/2/b) omitted (31.12.2020) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(3)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/3), [Sch. 8 para. 98(a)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/98/a) (with [Sch. 8 para. 99](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/99)) (with savings and transitional provisions in [S.I. 2019/105](https://www.legislation.gov.uk/uksi/2019/105) (as amended by [S.I. 2020/1495](https://www.legislation.gov.uk/uksi/2020/1495), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2020/1495/regulation/21)), [S.I. 2020/1545](https://www.legislation.gov.uk/uksi/2020/1545), [Pt. 4](https://www.legislation.gov.uk/uksi/2020/1545/part/4) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1642/regulation/7))
+[^c-5fa5384e838156d305b01e592e2b74cb]: Textual amendment: [Sch. 11A para. 2A(2)(b)](https://www.legislation.gov.uk/ukpga/1994/23/schedule/11A/paragraph/2A/2/b) omitted (31.12.2020) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(3)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/3), [Sch. 8 para. 98(a)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/98/a) (with [Sch. 8 para. 99](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/99)) (with savings and transitional provisions in [S.I. 2019/105](https://www.legislation.gov.uk/uksi/2019/105) (as amended by [S.I. 2020/1495](https://www.legislation.gov.uk/uksi/2020/1495), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2020/1495/regulation/21)), [S.I. 2020/1545](https://www.legislation.gov.uk/uksi/2020/1545), [Pt. 4](https://www.legislation.gov.uk/uksi/2020/1545/part/4) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1642/regulation/7))
 
-[^key-fface9c298b2d77805a97468ff5b04fe]: Textual amendment: Words in [Sch. 11A para. 2A(2)(c)](https://www.legislation.gov.uk/ukpga/1994/23/schedule/11A/paragraph/2A/2/c) omitted (31.12.2020) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(3)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/3), [Sch. 8 para. 98(b)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/98/b) (with [Sch. 8 para. 99](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/99)) (with savings and transitional provisions in [S.I. 2019/105](https://www.legislation.gov.uk/uksi/2019/105) (as amended by [S.I. 2020/1495](https://www.legislation.gov.uk/uksi/2020/1495), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2020/1495/regulation/21)), [S.I. 2020/1545](https://www.legislation.gov.uk/uksi/2020/1545), [Pt. 4](https://www.legislation.gov.uk/uksi/2020/1545/part/4) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1642/regulation/7))
+[^c-fface9c298b2d77805a97468ff5b04fe]: Textual amendment: Words in [Sch. 11A para. 2A(2)(c)](https://www.legislation.gov.uk/ukpga/1994/23/schedule/11A/paragraph/2A/2/c) omitted (31.12.2020) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(3)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/3), [Sch. 8 para. 98(b)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/98/b) (with [Sch. 8 para. 99](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/99)) (with savings and transitional provisions in [S.I. 2019/105](https://www.legislation.gov.uk/uksi/2019/105) (as amended by [S.I. 2020/1495](https://www.legislation.gov.uk/uksi/2020/1495), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2020/1495/regulation/21)), [S.I. 2020/1545](https://www.legislation.gov.uk/uksi/2020/1545), [Pt. 4](https://www.legislation.gov.uk/uksi/2020/1545/part/4) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1642/regulation/7))
 
-[^key-2ca2d5b691e26b2c84636ba3230ca254]: Textual amendment: Word in Sch. 11A para. 6(1)(a) repealed (1.8.2005) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2005/22/section/6/2), [Sch. 1 para. 5(2)(a)](https://www.legislation.gov.uk/ukpga/2005/22/schedule/1/paragraph/5/2/a), [Sch. 11 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/22/schedule/11/part/1); [S.I. 2005/2010](https://www.legislation.gov.uk/uksi/2005/2010), [art. 2](https://www.legislation.gov.uk/uksi/2005/2010/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/2010/article/4))
+[^c-2ca2d5b691e26b2c84636ba3230ca254]: Textual amendment: Word in Sch. 11A para. 6(1)(a) repealed (1.8.2005) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2005/22/section/6/2), [Sch. 1 para. 5(2)(a)](https://www.legislation.gov.uk/ukpga/2005/22/schedule/1/paragraph/5/2/a), [Sch. 11 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/22/schedule/11/part/1); [S.I. 2005/2010](https://www.legislation.gov.uk/uksi/2005/2010), [art. 2](https://www.legislation.gov.uk/uksi/2005/2010/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/2010/article/4))
 
-[^key-0a0547aa3304a90d410453c62ce3c42e]: Textual amendment: Sch. 11A para. 6(1)(c) and word inserted (1.8.2005) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2005/22/section/6/2), [Sch. 1 para. 5(2)(b)](https://www.legislation.gov.uk/ukpga/2005/22/schedule/1/paragraph/5/2/b); [S.I. 2005/2010](https://www.legislation.gov.uk/uksi/2005/2010), [art. 2](https://www.legislation.gov.uk/uksi/2005/2010/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2005/2010/article/3), [4](https://www.legislation.gov.uk/uksi/2005/2010/article/4))
+[^c-0a0547aa3304a90d410453c62ce3c42e]: Textual amendment: Sch. 11A para. 6(1)(c) and word inserted (1.8.2005) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2005/22/section/6/2), [Sch. 1 para. 5(2)(b)](https://www.legislation.gov.uk/ukpga/2005/22/schedule/1/paragraph/5/2/b); [S.I. 2005/2010](https://www.legislation.gov.uk/uksi/2005/2010), [art. 2](https://www.legislation.gov.uk/uksi/2005/2010/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2005/2010/article/3), [4](https://www.legislation.gov.uk/uksi/2005/2010/article/4))
 
-[^key-3fa74310f47104c450c80a03ef542223]: Textual amendment: Sch. 11A para. 6(2A) inserted (1.8.2005) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2005/22/section/6/2), [Sch. 1 para. 5(3)](https://www.legislation.gov.uk/ukpga/2005/22/schedule/1/paragraph/5/3); [S.I. 2005/2010](https://www.legislation.gov.uk/uksi/2005/2010), [art. 2](https://www.legislation.gov.uk/uksi/2005/2010/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/2010/article/4))
+[^c-3fa74310f47104c450c80a03ef542223]: Textual amendment: Sch. 11A para. 6(2A) inserted (1.8.2005) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2005/22/section/6/2), [Sch. 1 para. 5(3)](https://www.legislation.gov.uk/ukpga/2005/22/schedule/1/paragraph/5/3); [S.I. 2005/2010](https://www.legislation.gov.uk/uksi/2005/2010), [art. 2](https://www.legislation.gov.uk/uksi/2005/2010/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/2010/article/4))
 
-[^key-698f81ea47498506965e1c58292c1248]: Textual amendment: Sch. 11A para. 6(5) substituted (1.8.2005) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2005/22/section/6/2), [Sch. 1 para. 5(4)](https://www.legislation.gov.uk/ukpga/2005/22/schedule/1/paragraph/5/4); [S.I. 2005/2010](https://www.legislation.gov.uk/uksi/2005/2010), [art. 2](https://www.legislation.gov.uk/uksi/2005/2010/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/2010/article/4))
+[^c-698f81ea47498506965e1c58292c1248]: Textual amendment: Sch. 11A para. 6(5) substituted (1.8.2005) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2005/22/section/6/2), [Sch. 1 para. 5(4)](https://www.legislation.gov.uk/ukpga/2005/22/schedule/1/paragraph/5/4); [S.I. 2005/2010](https://www.legislation.gov.uk/uksi/2005/2010), [art. 2](https://www.legislation.gov.uk/uksi/2005/2010/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/2010/article/4))
 
-[^key-f47cfbc8e8ff78dd8e405a2955053792]: Textual amendment: Words in Sch. 11A para. 7(9) substituted (1.8.2005) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2005/22/section/6/2), [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2005/22/schedule/1/paragraph/6); [S.I. 2005/2010](https://www.legislation.gov.uk/uksi/2005/2010), [art. 2](https://www.legislation.gov.uk/uksi/2005/2010/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/2010/article/4))
+[^c-f47cfbc8e8ff78dd8e405a2955053792]: Textual amendment: Words in Sch. 11A para. 7(9) substituted (1.8.2005) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2005/22/section/6/2), [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2005/22/schedule/1/paragraph/6); [S.I. 2005/2010](https://www.legislation.gov.uk/uksi/2005/2010), [art. 2](https://www.legislation.gov.uk/uksi/2005/2010/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/2010/article/4))
 
-[^key-dde54288680541f0939326a4c47c2823]: Textual amendment: Words in Sch. 11A para. 7(9) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments) (Taxes and National Insurance) Order 2008 (S.I. 2008/954)](https://www.legislation.gov.uk/uksi/2008/954), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/954/article/1/1), [20](https://www.legislation.gov.uk/uksi/2008/954/article/20) (with [art. 4](https://www.legislation.gov.uk/uksi/2008/954/article/4))
+[^c-dde54288680541f0939326a4c47c2823]: Textual amendment: Words in Sch. 11A para. 7(9) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments) (Taxes and National Insurance) Order 2008 (S.I. 2008/954)](https://www.legislation.gov.uk/uksi/2008/954), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/954/article/1/1), [20](https://www.legislation.gov.uk/uksi/2008/954/article/20) (with [art. 4](https://www.legislation.gov.uk/uksi/2008/954/article/4))
 
-[^key-526a970b287957fc6dae74090e0f8a75]: Modification: Sch. 11A para. 9 excluded (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(3)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/3)[(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4)
+[^c-526a970b287957fc6dae74090e0f8a75]: Modification: Sch. 11A para. 9 excluded (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(3)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/3)[(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4)
 
-[^key-f30eb7d31cfdbe0cf19fca0f9d396719]: Textual amendment: Words in Sch. 11A para. 10(3)(b) inserted (1.4.2009) by [The Finance Act 2008, Schedule 40 (Appointed Day, Transitional Provisions and Consequential Amendments) Order 2009 (S.I. 2009/571)](https://www.legislation.gov.uk/uksi/2009/571), [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/571/article/1/1), [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/2009/571/schedule/1/paragraph/17)
+[^c-f30eb7d31cfdbe0cf19fca0f9d396719]: Textual amendment: Words in Sch. 11A para. 10(3)(b) inserted (1.4.2009) by [The Finance Act 2008, Schedule 40 (Appointed Day, Transitional Provisions and Consequential Amendments) Order 2009 (S.I. 2009/571)](https://www.legislation.gov.uk/uksi/2009/571), [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/571/article/1/1), [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/2009/571/schedule/1/paragraph/17)
 
-[^key-e69ba0790058e0e7be36c9b43f578558]: Textual amendment: Word in Sch. 11A para. 11(3)(a) repealed (1.8.2005) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2005/22/section/6/2), [Sch. 1 para. 7(2)(a)](https://www.legislation.gov.uk/ukpga/2005/22/schedule/1/paragraph/7/2/a), [Sch. 11 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/22/schedule/11/part/1); [S.I. 2005/2010](https://www.legislation.gov.uk/uksi/2005/2010), [art. 2](https://www.legislation.gov.uk/uksi/2005/2010/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/2010/article/4))
+[^c-e69ba0790058e0e7be36c9b43f578558]: Textual amendment: Word in Sch. 11A para. 11(3)(a) repealed (1.8.2005) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2005/22/section/6/2), [Sch. 1 para. 7(2)(a)](https://www.legislation.gov.uk/ukpga/2005/22/schedule/1/paragraph/7/2/a), [Sch. 11 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/22/schedule/11/part/1); [S.I. 2005/2010](https://www.legislation.gov.uk/uksi/2005/2010), [art. 2](https://www.legislation.gov.uk/uksi/2005/2010/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/2010/article/4))
 
-[^key-a8800da606abdf62ea7ef364eac81cb0]: Textual amendment: Sch. 11A para. 11(3)(c) and word inserted (1.8.2005) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2005/22/section/6/2), [Sch. 1 para. 7(2)(b)](https://www.legislation.gov.uk/ukpga/2005/22/schedule/1/paragraph/7/2/b); [S.I. 2005/2010](https://www.legislation.gov.uk/uksi/2005/2010), [art. 2](https://www.legislation.gov.uk/uksi/2005/2010/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/2010/article/4))
+[^c-a8800da606abdf62ea7ef364eac81cb0]: Textual amendment: Sch. 11A para. 11(3)(c) and word inserted (1.8.2005) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2005/22/section/6/2), [Sch. 1 para. 7(2)(b)](https://www.legislation.gov.uk/ukpga/2005/22/schedule/1/paragraph/7/2/b); [S.I. 2005/2010](https://www.legislation.gov.uk/uksi/2005/2010), [art. 2](https://www.legislation.gov.uk/uksi/2005/2010/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/2010/article/4))
 
-[^key-dc164e3edfe795fba899807d731a57da]: Textual amendment: Words in Sch. 11A para. 11(4) inserted (1.8.2005) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2005/22/section/6/2), [Sch. 1 para. 7(3)](https://www.legislation.gov.uk/ukpga/2005/22/schedule/1/paragraph/7/3); [S.I. 2005/2010](https://www.legislation.gov.uk/uksi/2005/2010), [art. 2](https://www.legislation.gov.uk/uksi/2005/2010/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/2010/article/4))
+[^c-dc164e3edfe795fba899807d731a57da]: Textual amendment: Words in Sch. 11A para. 11(4) inserted (1.8.2005) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2005/22/section/6/2), [Sch. 1 para. 7(3)](https://www.legislation.gov.uk/ukpga/2005/22/schedule/1/paragraph/7/3); [S.I. 2005/2010](https://www.legislation.gov.uk/uksi/2005/2010), [art. 2](https://www.legislation.gov.uk/uksi/2005/2010/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/2010/article/4))
 
-[^key-a0c4aca1d64ea51b6ca063f2f40a3524]: Textual amendment: Sch. 11A para. 11(5) inserted (1.8.2005) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2005/22/section/6/2), [Sch. 1 para. 7(4)](https://www.legislation.gov.uk/ukpga/2005/22/schedule/1/paragraph/7/4); [S.I. 2005/2010](https://www.legislation.gov.uk/uksi/2005/2010), [art. 2](https://www.legislation.gov.uk/uksi/2005/2010/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/2010/article/4))
+[^c-a0c4aca1d64ea51b6ca063f2f40a3524]: Textual amendment: Sch. 11A para. 11(5) inserted (1.8.2005) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2005/22/section/6/2), [Sch. 1 para. 7(4)](https://www.legislation.gov.uk/ukpga/2005/22/schedule/1/paragraph/7/4); [S.I. 2005/2010](https://www.legislation.gov.uk/uksi/2005/2010), [art. 2](https://www.legislation.gov.uk/uksi/2005/2010/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/2010/article/4))
 
-[^key-d8721d9084a4c3b44b5a904f9a57c7df]: Textual amendment: Sch. 11A para. 12(3)(3A) substituted for Sch. 11A para. 12(3) (1.8.2005) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2005/22/section/6/2), [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2005/22/schedule/1/paragraph/8); [S.I. 2005/2010](https://www.legislation.gov.uk/uksi/2005/2010), [art. 2](https://www.legislation.gov.uk/uksi/2005/2010/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/2010/article/4))
+[^c-d8721d9084a4c3b44b5a904f9a57c7df]: Textual amendment: Sch. 11A para. 12(3)(3A) substituted for Sch. 11A para. 12(3) (1.8.2005) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2005/22/section/6/2), [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2005/22/schedule/1/paragraph/8); [S.I. 2005/2010](https://www.legislation.gov.uk/uksi/2005/2010), [art. 2](https://www.legislation.gov.uk/uksi/2005/2010/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/2010/article/4))

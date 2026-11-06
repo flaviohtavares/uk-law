@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 161. Determinations and decisions of the Scheme Manager[^key-28798e79054cb0204ee1da40138eab84]
+## 161. Determinations and decisions of the Scheme Manager[^c-28798e79054cb0204ee1da40138eab84]
 
 *Extent: N.I.*
 
@@ -41,6 +41,6 @@ give such decision on the issue as it may choose to give.
 
 ## Annotations
 
-[^key-28798e79054cb0204ee1da40138eab84]: Textual amendment: [Reg. 161(1)](https://www.legislation.gov.uk/nisr/2015/78/regulation/161/1) and heading substituted (1.4.2022) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/155)](https://www.legislation.gov.uk/nisr/2022/155), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/155/regulation/1/2), [Sch. 1 para. 2(3)](https://www.legislation.gov.uk/nisr/2022/155/schedule/1/paragraph/2/3)
+[^c-28798e79054cb0204ee1da40138eab84]: Textual amendment: [Reg. 161(1)](https://www.legislation.gov.uk/nisr/2015/78/regulation/161/1) and heading substituted (1.4.2022) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/155)](https://www.legislation.gov.uk/nisr/2022/155), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/155/regulation/1/2), [Sch. 1 para. 2(3)](https://www.legislation.gov.uk/nisr/2022/155/schedule/1/paragraph/2/3)
 
 [^M_F_5eeb6e18-b73d-4d03-9870-76dd532843eb]: Textual amendment: Words in reg. 161 substituted (1.4.2022) by The Firefighters’ [Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/155)](https://www.legislation.gov.uk/nisr/2022/155), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/155/regulation/1/2), [Sch. 1 para. 2(4)](https://www.legislation.gov.uk/nisr/2022/155/schedule/1/paragraph/2/4)

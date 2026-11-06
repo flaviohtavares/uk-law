@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Stamp duty: interpretation of sections 81, 82 and 84[^key-724bae13fda289ff959fb68ea7f8ddb1]
+## 8. Stamp duty: interpretation of sections 81, 82 and 84[^c-724bae13fda289ff959fb68ea7f8ddb1]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-724bae13fda289ff959fb68ea7f8ddb1]: Commencement: Art. 8 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-724bae13fda289ff959fb68ea7f8ddb1]: Commencement: Art. 8 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)

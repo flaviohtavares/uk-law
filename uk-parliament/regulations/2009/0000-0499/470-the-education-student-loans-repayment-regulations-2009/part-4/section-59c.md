@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59C. Modification of the requirements of regulation 59B: notional payments[^key-7c08f51cfbd9b62bb131b3b489ca8244]
+## 59C. Modification of the requirements of regulation 59B: notional payments[^c-7c08f51cfbd9b62bb131b3b489ca8244]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ whichever is earliest.
 
 ## Annotations
 
-[^key-7c08f51cfbd9b62bb131b3b489ca8244]: Textual amendment: [Regs. 59A-59F](https://www.legislation.gov.uk/uksi/2009/470/regulation/59A) inserted (6.4.2012) by [The Education (Student Loans) (Repayment) (Amendment) Regulations 2012 (S.I. 2012/836)](https://www.legislation.gov.uk/uksi/2012/836), [regs. 1](https://www.legislation.gov.uk/uksi/2012/836/regulation/1), [16](https://www.legislation.gov.uk/uksi/2012/836/regulation/16)
+[^c-7c08f51cfbd9b62bb131b3b489ca8244]: Textual amendment: [Regs. 59A-59F](https://www.legislation.gov.uk/uksi/2009/470/regulation/59A) inserted (6.4.2012) by [The Education (Student Loans) (Repayment) (Amendment) Regulations 2012 (S.I. 2012/836)](https://www.legislation.gov.uk/uksi/2012/836), [regs. 1](https://www.legislation.gov.uk/uksi/2012/836/regulation/1), [16](https://www.legislation.gov.uk/uksi/2012/836/regulation/16)

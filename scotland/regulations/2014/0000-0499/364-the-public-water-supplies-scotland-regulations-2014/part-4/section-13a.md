@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13A. Sampling: water supplied by mobile tanker[^key-6c1911390bd93c9f5ab09112f74b2892]
+## 13A. Sampling: water supplied by mobile tanker[^c-6c1911390bd93c9f5ab09112f74b2892]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6c1911390bd93c9f5ab09112f74b2892]: Textual amendment: [Reg. 13A](https://www.legislation.gov.uk/ssi/2014/364/regulation/13A) inserted (1.1.2023) by [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [7](https://www.legislation.gov.uk/ssi/2022/387/regulation/7)
+[^c-6c1911390bd93c9f5ab09112f74b2892]: Textual amendment: [Reg. 13A](https://www.legislation.gov.uk/ssi/2014/364/regulation/13A) inserted (1.1.2023) by [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [7](https://www.legislation.gov.uk/ssi/2022/387/regulation/7)

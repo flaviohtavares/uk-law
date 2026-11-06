@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 19. Supplementary powers of Commissioners, mission and pastoral committees and joint boundary committees[^key-649d3bc107fbf3eda9538036a6b1b47d]
+## 19. Supplementary powers of Commissioners, mission and pastoral committees and joint boundary committees[^c-649d3bc107fbf3eda9538036a6b1b47d]
 
 *Extent: E*
 
@@ -38,4 +38,4 @@ make such amendments to the draft scheme or order as may appear to the Commissio
 
 ## Annotations
 
-[^key-649d3bc107fbf3eda9538036a6b1b47d]: Commencement: S. 19 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-649d3bc107fbf3eda9538036a6b1b47d]: Commencement: S. 19 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

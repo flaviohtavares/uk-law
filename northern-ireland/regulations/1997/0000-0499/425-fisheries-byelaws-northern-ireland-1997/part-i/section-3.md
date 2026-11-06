@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 3. Revocations[^key-f9ef00edc87aad7ab1fbc3743322a625]
+## 3. Revocations[^c-f9ef00edc87aad7ab1fbc3743322a625]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ The Byelaws listed in Schedule 7 are hereby revoked.
 
 ## Annotations
 
-[^key-f9ef00edc87aad7ab1fbc3743322a625]: Commencement: S. 3 in operation at 1.11.1997, see byelaw 1
+[^c-f9ef00edc87aad7ab1fbc3743322a625]: Commencement: S. 3 in operation at 1.11.1997, see byelaw 1

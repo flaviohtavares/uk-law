@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 29. Dangerous buildings[^key-ac1f4ae75efbfb7c475d355f6be1486f]
+## 29. Dangerous buildings[^c-ac1f4ae75efbfb7c475d355f6be1486f]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ and may recover from the owner of the dangerous building any expenses reasonably
 
 ## Annotations
 
-[^key-ac1f4ae75efbfb7c475d355f6be1486f]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2003/8/section/29) in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)
+[^c-ac1f4ae75efbfb7c475d355f6be1486f]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2003/8/section/29) in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)

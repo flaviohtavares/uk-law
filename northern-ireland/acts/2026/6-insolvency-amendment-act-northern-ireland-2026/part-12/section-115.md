@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 115. Application of the Company Directors Disqualification (Northern Ireland) Order 2002[^key-7cea74d3ea05e4a826e6337f647830ea]
+## 115. Application of the Company Directors Disqualification (Northern Ireland) Order 2002[^c-7cea74d3ea05e4a826e6337f647830ea]
 
 *Extent: N.I.*
 
@@ -48,4 +48,4 @@ For Article 16 of the 1995 Order substitute—
 
 ## Annotations
 
-[^key-7cea74d3ea05e4a826e6337f647830ea]: Commencement: S. 115 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-7cea74d3ea05e4a826e6337f647830ea]: Commencement: S. 115 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

@@ -54,7 +54,7 @@ A draft of this Order in Council has been approved by resolution of each House o
 
 Accordingly, Her Majesty is pleased, by and with the advice of Her Privy Council, to make the following Order in Council:
 
-## 1. Citation and commencement[^key-2b3d8208c0b993d920abd9f92d40da39]
+## 1. Citation and commencement[^c-2b3d8208c0b993d920abd9f92d40da39]
 
 (1) This Order may be cited as the Health Professions (Hearing Aid Dispensers) Order 2010.
 
@@ -62,7 +62,7 @@ Accordingly, Her Majesty is pleased, by and with the advice of Her Privy Council
 
 (3) Articles 7 to 11 come into force on 1st April 2010.
 
-## 2. Interpretation[^key-e00ec09c691438d9c4d57592819f48e5]
+## 2. Interpretation[^c-e00ec09c691438d9c4d57592819f48e5]
 
 In this Order—
 
@@ -72,11 +72,11 @@ In this Order—
 - “the HPC” means the Health Professions Council established under article 3 of the 2001 Order;
 - “the residual period” means the period beginning on 1st April 2010 and ending on the day before the day on which section 123(1) of the Health and Social Care Act 2008 comes into force.
 
-## 3. Regulation of dispensers of hearing aids[^key-5e54e6e3a823af927ac07b9346383df4]
+## 3. Regulation of dispensers of hearing aids[^c-5e54e6e3a823af927ac07b9346383df4]
 
 This Order makes provision in respect of the regulation of the profession of dispensers of hearing aids by the HPC.
 
-## 4. Transitional, transitory and saving provisions[^key-aaf0284dfd7dd75879909e7c9d26045f]
+## 4. Transitional, transitory and saving provisions[^c-aaf0284dfd7dd75879909e7c9d26045f]
 
 (1) In connection with the commencement of any provision of this Order, the Privy Council may by order make such transitional, transitory or saving provisions as it considers appropriate.
 
@@ -88,7 +88,7 @@ This Order makes provision in respect of the regulation of the profession of dis
 - (b) in relation to all cases to which the power extends or in relation to all those cases subject to specified exceptions; or
 - (c) so as to make any supplementary, incidental or consequential provisions which the Privy Council considers necessary or expedient.
 
-## 5. Privy Council procedures etc.[^key-6fde3c7f4d1c931b08478716fdc753e8]
+## 5. Privy Council procedures etc.[^c-6fde3c7f4d1c931b08478716fdc753e8]
 
 (1) The power of the Privy Council to make an order under article 4(1) may be exercised by any two or more members of the Privy Council.
 
@@ -103,7 +103,7 @@ This Order makes provision in respect of the regulation of the profession of dis
 - (a) the fact that the order was duly made; and
 - (b) the order’s terms.
 
-## 6. Transitory and transitional provisions relating to the introduction of registration of hearing aid dispensers by the HPC[^key-c7bd5984520c80548dd74477778ba0b0]
+## 6. Transitory and transitional provisions relating to the introduction of registration of hearing aid dispensers by the HPC[^c-c7bd5984520c80548dd74477778ba0b0]
 
 (1) The HPC and the HAC shall enter into arrangements (which may include financial arrangements) to facilitate the introduction of arrangements for the regulation of hearing aid dispensers by the HPC arising out of this Order.
 
@@ -145,7 +145,7 @@ the HPC shall dispose of the matter (including any proceedings) in such manner a
 - “the HPC register” means the register established and maintained by the HPC under article 5 of the 2001 Order;
 - “penalty” means a penalty imposed under section 7(1)(i) to (iv) of the 1968 Act.
 
-## 7. Amendments to the 2001 Order[^key-ab96c4dd88d17263c70f42989021349f]
+## 7. Amendments to the 2001 Order[^c-ab96c4dd88d17263c70f42989021349f]
 
 (1) The 2001 Order is amended as follows.
 
@@ -207,11 +207,11 @@ the HPC shall dispose of the matter (including any proceedings) in such manner a
 
   .
 
-## 8. Powers of the HAC during the residual period[^key-187d008da671532f78f470cf1850ea98]
+## 8. Powers of the HAC during the residual period[^c-187d008da671532f78f470cf1850ea98]
 
 The HAC shall have power to do anything during the residual period which is calculated to facilitate the dissolution of the HAC.
 
-## 9. Financial and audit matters[^key-78e9151c8e7a21514fde8ef8dca32122]
+## 9. Financial and audit matters[^c-78e9151c8e7a21514fde8ef8dca32122]
 
 (1) The Secretary of State may prepare a statement of the HAC’s accounts in respect of the residual period.
 
@@ -225,14 +225,14 @@ The HAC shall have power to do anything during the residual period which is calc
 - (a) examine, certify and report on the accounts sent to him under paragraph (2);
 - (b) lay a copy of those accounts and the report on them before each House of Parliament.
 
-## 10. Amendment of the Health Professions (Parts of and Entries in the Register) Order of Council 2003[^key-c90a343c4be661abec5011e2509f36b8]
+## 10. Amendment of the Health Professions (Parts of and Entries in the Register) Order of Council 2003[^c-c90a343c4be661abec5011e2509f36b8]
 
 In Schedule 1 to the Health Professions (Parts of and Entries in the Register) Order of Council 2003[^f00007] (parts of the register)—
 
 - (a) in column 1, after the entry “Part 14 – Practitioner Psychologists” add the following entry: “Part 15-Hearing Aid Dispensers”;
 - (b) in column 2, after the entry “Clinical Psychologist, Counselling Psychologist, Educational Psychologist, Forensic Psychologist, Health Psychologist, Occupational Psychologist, Practitioner Psychologist, Registered Psychologist, Sport and exercise Psychologist.” and opposite the entry in column 1 added by paragraph (a) add the following entry: “Hearing Aid Dispenser”.
 
-## 11. Amendment of the European Communities (Recognition of Professional Qualifications) Regulations 2007[^key-c83af55304cb4d442eb6c616383b5395]
+## 11. Amendment of the European Communities (Recognition of Professional Qualifications) Regulations 2007[^c-c83af55304cb4d442eb6c616383b5395]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -270,9 +270,9 @@ An impact assessment has been prepared in relation to this Order and is availabl
 
 [^f00001]: Footnote: [1999 c.8](https://www.legislation.gov.uk/ukpga/1999/8). Section 60 has been amended by: the National Health Service Reform and Health Care Professions Act [2002 (c.17)](https://www.legislation.gov.uk/ukpga/2002/17) (“the 2002 Act”), section 26(9); the Health and Social Care Act [2008 (c.14)](https://www.legislation.gov.uk/ukpga/2008/14) (“the 2008 Act”), Schedule 8, paragraph 1, and Schedule 10, paragraph 10; and [S.I. 2002/253](https://www.legislation.gov.uk/uksi/2002/253) and [254](https://www.legislation.gov.uk/uksi/2002/254). Section 62 has been amended by: the National Health Service (Consequential Provisions) Act [2006 (c.43)](https://www.legislation.gov.uk/ukpga/2006/43), Schedule 1, paragraphs 194 and 197, and Schedule 4; and the 2008 Act, Schedule 8, paragraph 2, and Schedule 10, paragraph 11. Schedule 3 has been amended by: the 2002 Act, section 26(10); the Health and Social Care (Community Health and Standards) Act [2003 (c.43)](https://www.legislation.gov.uk/ukpga/2003/43), Schedule 11, paragraph 67, and Schedule 14, Part 4; the Health Act [2006 (c.28)](https://www.legislation.gov.uk/ukpga/2006/28), section 33 and Schedule 9; the 2008 Act, Schedule 8, paragraphs 3 to 10 (although paragraph 10 is not yet in force); and [S.I. 2002/254](https://www.legislation.gov.uk/uksi/2002/254).
 
-[^key-2b3d8208c0b993d920abd9f92d40da39]: Commencement: Art. 1 in force at 11.2.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/233/article/1/2)
+[^c-2b3d8208c0b993d920abd9f92d40da39]: Commencement: Art. 1 in force at 11.2.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/233/article/1/2)
 
-[^key-e00ec09c691438d9c4d57592819f48e5]: Commencement: Art. 2 in force at 11.2.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/233/article/1/2)
+[^c-e00ec09c691438d9c4d57592819f48e5]: Commencement: Art. 2 in force at 11.2.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/233/article/1/2)
 
 [^f00002]: Footnote: [1968 c.50](https://www.legislation.gov.uk/ukpga/1968/50).
 
@@ -280,26 +280,26 @@ An impact assessment has been prepared in relation to this Order and is availabl
 
 [^f00004]: Footnote: The Hearing Aid Council is established by section 1(1) of the 1968 Act.
 
-[^key-5e54e6e3a823af927ac07b9346383df4]: Commencement: Art. 3 in force at 11.2.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/233/article/1/2)
+[^c-5e54e6e3a823af927ac07b9346383df4]: Commencement: Art. 3 in force at 11.2.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/233/article/1/2)
 
-[^key-aaf0284dfd7dd75879909e7c9d26045f]: Commencement: Art. 4 in force at 11.2.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/233/article/1/2)
+[^c-aaf0284dfd7dd75879909e7c9d26045f]: Commencement: Art. 4 in force at 11.2.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/233/article/1/2)
 
-[^key-6fde3c7f4d1c931b08478716fdc753e8]: Commencement: Art. 5 in force at 11.2.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/233/article/1/2)
+[^c-6fde3c7f4d1c931b08478716fdc753e8]: Commencement: Art. 5 in force at 11.2.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/233/article/1/2)
 
 [^f00005]: Footnote: [1946 c.36](https://www.legislation.gov.uk/ukpga/1946/36); section 1 has been amended by the Government of Wales Act [1998 (c.38)](https://www.legislation.gov.uk/ukpga/1998/38), Schedule 12, paragraph 2.
 
-[^key-c7bd5984520c80548dd74477778ba0b0]: Commencement: Art. 6 in force at 11.2.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/233/article/1/2)
+[^c-c7bd5984520c80548dd74477778ba0b0]: Commencement: Art. 6 in force at 11.2.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/233/article/1/2)
 
-[^key-ab96c4dd88d17263c70f42989021349f]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2010/233/article/7) in force at 1.4.2010, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/233/article/1/3)
+[^c-ab96c4dd88d17263c70f42989021349f]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2010/233/article/7) in force at 1.4.2010, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/233/article/1/3)
 
 [^f00006]: Footnote: Paragraph 1A is inserted by [S.I.2009/1182](https://www.legislation.gov.uk/uksi/2009/1182).
 
-[^key-187d008da671532f78f470cf1850ea98]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2010/233/article/8) in force at 1.4.2010, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/233/article/1/3)
+[^c-187d008da671532f78f470cf1850ea98]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2010/233/article/8) in force at 1.4.2010, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/233/article/1/3)
 
-[^key-78e9151c8e7a21514fde8ef8dca32122]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2010/233/article/9) in force at 1.4.2010, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/233/article/1/3)
+[^c-78e9151c8e7a21514fde8ef8dca32122]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2010/233/article/9) in force at 1.4.2010, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/233/article/1/3)
 
-[^key-c90a343c4be661abec5011e2509f36b8]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2010/233/article/10) in force at 1.4.2010, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/233/article/1/3)
+[^c-c90a343c4be661abec5011e2509f36b8]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2010/233/article/10) in force at 1.4.2010, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/233/article/1/3)
 
 [^f00007]: Footnote: [S.I. 2003/1571](https://www.legislation.gov.uk/uksi/2003/1571); the relevant amending instruments are [S.I. 2004/2522](https://www.legislation.gov.uk/uksi/2004/2522) and [2009/1182](https://www.legislation.gov.uk/uksi/2009/1182).
 
-[^key-c83af55304cb4d442eb6c616383b5395]: Textual amendment: [Art. 11](https://www.legislation.gov.uk/uksi/2010/233/article/11) revoked (18.1.2016) by [The European Union (Recognition of Professional Qualifications) Regulations 2015 (S.I. 2015/2059)](https://www.legislation.gov.uk/uksi/2015/2059), [reg. 1](https://www.legislation.gov.uk/uksi/2015/2059/regulation/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2015/2059/schedule/6) (with [reg. 78](https://www.legislation.gov.uk/uksi/2015/2059/regulation/78))
+[^c-c83af55304cb4d442eb6c616383b5395]: Textual amendment: [Art. 11](https://www.legislation.gov.uk/uksi/2010/233/article/11) revoked (18.1.2016) by [The European Union (Recognition of Professional Qualifications) Regulations 2015 (S.I. 2015/2059)](https://www.legislation.gov.uk/uksi/2015/2059), [reg. 1](https://www.legislation.gov.uk/uksi/2015/2059/regulation/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2015/2059/schedule/6) (with [reg. 78](https://www.legislation.gov.uk/uksi/2015/2059/regulation/78))

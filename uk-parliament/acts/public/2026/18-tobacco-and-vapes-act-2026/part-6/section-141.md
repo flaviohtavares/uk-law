@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 141. Interpretation of Part 6[^key-59bb6ddcb16f1d72eaf37363b822c717]
+## 141. Interpretation of Part 6[^c-59bb6ddcb16f1d72eaf37363b822c717]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ In this Part—
 
 ## Annotations
 
-[^key-59bb6ddcb16f1d72eaf37363b822c717]: Commencement: [S. 141](https://www.legislation.gov.uk/ukpga/2026/18/section/141) in force at 29.6.2026, see [s. 176(2)(b)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/2/b)
+[^c-59bb6ddcb16f1d72eaf37363b822c717]: Commencement: [S. 141](https://www.legislation.gov.uk/ukpga/2026/18/section/141) in force at 29.6.2026, see [s. 176(2)(b)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/2/b)

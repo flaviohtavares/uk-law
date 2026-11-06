@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 87. Limit on number of further interim compulsory supervision orders[^key-01cf94c73b10bfbc550b78b1ab7df1c2]
+## 87. Limit on number of further interim compulsory supervision orders[^c-01cf94c73b10bfbc550b78b1ab7df1c2]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ In section 96(4) of the 2011 Act, for the words from “the effect” to the end
 
 ## Annotations
 
-[^key-01cf94c73b10bfbc550b78b1ab7df1c2]: Commencement: [S. 87](https://www.legislation.gov.uk/asp/2014/8/section/87) in force at 26.1.2015 by [S.S.I. 2014/353](https://www.legislation.gov.uk/ssi/2014/353), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/353/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2014/353/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/353/schedule)
+[^c-01cf94c73b10bfbc550b78b1ab7df1c2]: Commencement: [S. 87](https://www.legislation.gov.uk/asp/2014/8/section/87) in force at 26.1.2015 by [S.S.I. 2014/353](https://www.legislation.gov.uk/ssi/2014/353), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/353/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2014/353/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/353/schedule)

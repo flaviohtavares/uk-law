@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 166A. Allocation in accordance with allocation scheme: England[^key-d71d55adaaaf5ffead9fa24ca32f6982]
+## 166A. Allocation in accordance with allocation scheme: England[^c-d71d55adaaaf5ffead9fa24ca32f6982]
 
 *Extent: E+W*
 
@@ -37,9 +37,9 @@ For this purpose “**procedure**” includes all aspects of the allocation proc
 - (d) people who need to move on medical or welfare grounds (including any grounds relating to a disability); and
 - (e) people who need to move to a particular locality in the district of the authority, where failure to meet that need would cause hardship (to themselves or to others).
 
-The scheme may also be framed so as to give additional preference to particular descriptions of people within one or more of paragraphs (a) to (e)[^key-4daa2762a646527357dfdcd3bba2204f] (being descriptions of people with urgent housing needs).
+The scheme may also be framed so as to give additional preference to particular descriptions of people within one or more of paragraphs (a) to (e)[^c-4daa2762a646527357dfdcd3bba2204f] (being descriptions of people with urgent housing needs).
 
-The scheme must be framed so as to give additional preference to a person with urgent housing needs who falls within one or more of paragraphs (a) to (e) and who –[^key-a01304de33b2d571ffb2f4da2438e921]
+The scheme must be framed so as to give additional preference to a person with urgent housing needs who falls within one or more of paragraphs (a) to (e) and who –[^c-a01304de33b2d571ffb2f4da2438e921]
 
 - (i) is serving in the regular forces and is suffering from a serious injury, illness or disability which is attributable (wholly or partly) to the person’s service,
 - (ii) formerly served in the regular forces,
@@ -95,8 +95,8 @@ For this purpose “the regular forces” and “the reserve forces” have the 
 
 ## Annotations
 
-[^key-d71d55adaaaf5ffead9fa24ca32f6982]: Textual amendment: S. 166A inserted (15.1.2012 for specified purposes, 18.6.2012 in so far as not already in force) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 147(4)](https://www.legislation.gov.uk/ukpga/2011/20/section/147/4), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(k)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/k) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9)); [S.I. 2012/1463](https://www.legislation.gov.uk/uksi/2012/1463), [art. 3](https://www.legislation.gov.uk/uksi/2012/1463/article/3)
+[^c-d71d55adaaaf5ffead9fa24ca32f6982]: Textual amendment: S. 166A inserted (15.1.2012 for specified purposes, 18.6.2012 in so far as not already in force) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 147(4)](https://www.legislation.gov.uk/ukpga/2011/20/section/147/4), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(k)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/k) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9)); [S.I. 2012/1463](https://www.legislation.gov.uk/uksi/2012/1463), [art. 3](https://www.legislation.gov.uk/uksi/2012/1463/article/3)
 
-[^key-4daa2762a646527357dfdcd3bba2204f]: Textual amendment: Words in s. 166A(3) substituted (30.11.2012) by [The Housing Act 1996 (Additional Preference for Armed Forces) (England) Regulations 2012 (S.I. 2012/2989)](https://www.legislation.gov.uk/uksi/2012/2989), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2989/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2012/2989/regulation/2/a)
+[^c-4daa2762a646527357dfdcd3bba2204f]: Textual amendment: Words in s. 166A(3) substituted (30.11.2012) by [The Housing Act 1996 (Additional Preference for Armed Forces) (England) Regulations 2012 (S.I. 2012/2989)](https://www.legislation.gov.uk/uksi/2012/2989), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2989/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2012/2989/regulation/2/a)
 
-[^key-a01304de33b2d571ffb2f4da2438e921]: Textual amendment: Words in s. 166A(3) inserted (30.11.2012) by [The Housing Act 1996 (Additional Preference for Armed Forces) (England) Regulations 2012 (S.I. 2012/2989)](https://www.legislation.gov.uk/uksi/2012/2989), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2989/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2012/2989/regulation/2/b)
+[^c-a01304de33b2d571ffb2f4da2438e921]: Textual amendment: Words in s. 166A(3) inserted (30.11.2012) by [The Housing Act 1996 (Additional Preference for Armed Forces) (England) Regulations 2012 (S.I. 2012/2989)](https://www.legislation.gov.uk/uksi/2012/2989), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2989/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2012/2989/regulation/2/b)

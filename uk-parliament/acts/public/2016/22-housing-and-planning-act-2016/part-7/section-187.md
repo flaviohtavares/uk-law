@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 187. Counter-notice requiring possession to be taken on specified date[^key-a55a09b0b5b60dc8d2e5a1b57420cd4c]
+## 187. Counter-notice requiring possession to be taken on specified date[^c-a55a09b0b5b60dc8d2e5a1b57420cd4c]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a55a09b0b5b60dc8d2e5a1b57420cd4c]: Commencement: [S. 187](https://www.legislation.gov.uk/ukpga/2016/22/section/187) in force at 3.2.2017 by [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2017/75/regulation/3/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2017/75/regulation/5))
+[^c-a55a09b0b5b60dc8d2e5a1b57420cd4c]: Commencement: [S. 187](https://www.legislation.gov.uk/ukpga/2016/22/section/187) in force at 3.2.2017 by [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2017/75/regulation/3/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2017/75/regulation/5))

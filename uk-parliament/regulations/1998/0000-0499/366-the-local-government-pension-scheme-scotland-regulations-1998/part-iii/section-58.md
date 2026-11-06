@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 58. Election for lump sum in lieu of pension[^key-e7be9d8aa04f34b01205941d2e6153f2]
+## 58. Election for lump sum in lieu of pension[^c-e7be9d8aa04f34b01205941d2e6153f2]
 
 *Extent: E+W+S*
 
@@ -49,7 +49,7 @@ he may make an election under this regulation for that grant to be increased to 
 
 ## Annotations
 
-[^key-e7be9d8aa04f34b01205941d2e6153f2]: Commencement: Reg. 58 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-e7be9d8aa04f34b01205941d2e6153f2]: Commencement: Reg. 58 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
 
 [^f00028]: Footnote: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48); section 12C was inserted by the Pensions Act [1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), section 136.
 

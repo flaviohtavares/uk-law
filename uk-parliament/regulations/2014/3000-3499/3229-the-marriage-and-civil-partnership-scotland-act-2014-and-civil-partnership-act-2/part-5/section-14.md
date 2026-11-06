@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Effect of consular or armed forces marriage between civil partners[^key-d29d09ffcd37368c8da43549a36a0f37]
+## 14. Effect of consular or armed forces marriage between civil partners[^c-d29d09ffcd37368c8da43549a36a0f37]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Where a civil partnership is changed into a marriage under this Part, section 11
 
 ## Annotations
 
-[^key-d29d09ffcd37368c8da43549a36a0f37]: Commencement: Art. 14 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-d29d09ffcd37368c8da43549a36a0f37]: Commencement: Art. 14 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. The London fringe[^key-32a09fc8e06d7455e4b2fb519c2c25e4]
+## 21. The London fringe[^c-32a09fc8e06d7455e4b2fb519c2c25e4]
 
 *Extent: E+W*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-32a09fc8e06d7455e4b2fb519c2c25e4]: Commencement: Reg. 21 in force at 11.2.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/37/regulation/1/2)
+[^c-32a09fc8e06d7455e4b2fb519c2c25e4]: Commencement: Reg. 21 in force at 11.2.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/37/regulation/1/2)
 
 [^f00071]: Footnote: The Buckinghamshire (Structural Changes) Order 2019 ([S.I. 2019/957](https://www.legislation.gov.uk/uksi/2019/957)) created a single tier authority for Buckinghamshire, coterminous with the county of Buckinghamshire, and replaced the former district councils within the county with effect from 1st April 2020, but the former districts (described in article 2 (interpretation) of that Order) remain relevant for the purposes of regulation 21.

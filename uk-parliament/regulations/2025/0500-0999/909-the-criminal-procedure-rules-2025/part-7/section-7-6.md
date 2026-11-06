@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.6. Arrangements for court to receive defendant in custody[^key-f771a0f80341c2324d5a8e267576b630]
+## 7.6. Arrangements for court to receive defendant in custody[^c-f771a0f80341c2324d5a8e267576b630]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f771a0f80341c2324d5a8e267576b630]: Commencement: [Rule 7.6](https://www.legislation.gov.uk/uksi/2025/909/rule/7.6) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-f771a0f80341c2324d5a8e267576b630]: Commencement: [Rule 7.6](https://www.legislation.gov.uk/uksi/2025/909/rule/7.6) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

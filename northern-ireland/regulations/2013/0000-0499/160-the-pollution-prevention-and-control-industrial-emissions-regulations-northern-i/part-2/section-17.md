@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 17. Review of conditions of permits[^key-488fdd20372c0a570f635a091f507119]
+## 17. Review of conditions of permits[^c-488fdd20372c0a570f635a091f507119]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-488fdd20372c0a570f635a091f507119]: Commencement: Reg. 17 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-488fdd20372c0a570f635a091f507119]: Commencement: Reg. 17 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 40. Power to make dog control orders[^key-559a44f4e0e5b8c9630850ad1c19b683][^key-b9af9b36a36030c9c3b1bf7cce360c44]
+## 40. Power to make dog control orders[^c-559a44f4e0e5b8c9630850ad1c19b683][^c-b9af9b36a36030c9c3b1bf7cce360c44]
 
 *Extent: N.I.*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-559a44f4e0e5b8c9630850ad1c19b683]: Commencement: [S. 40](https://www.legislation.gov.uk/nia/2011/23/section/40) in operation at 18.1.2012 for specified purposes by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/13/article/2/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2012/13/schedule/1)
+[^c-559a44f4e0e5b8c9630850ad1c19b683]: Commencement: [S. 40](https://www.legislation.gov.uk/nia/2011/23/section/40) in operation at 18.1.2012 for specified purposes by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/13/article/2/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2012/13/schedule/1)
 
-[^key-b9af9b36a36030c9c3b1bf7cce360c44]: Commencement: [S. 40](https://www.legislation.gov.uk/nia/2011/23/section/40) in operation at 1.4.2012 in so far as not already in operation by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-b9af9b36a36030c9c3b1bf7cce360c44]: Commencement: [S. 40](https://www.legislation.gov.uk/nia/2011/23/section/40) in operation at 1.4.2012 in so far as not already in operation by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)

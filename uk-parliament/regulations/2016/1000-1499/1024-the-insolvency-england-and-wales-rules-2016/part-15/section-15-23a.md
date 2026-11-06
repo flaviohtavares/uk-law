@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15.23A. Adjournment of meeting in, or for the purposes of, a moratorium under Part A1 of the Act[^key-762f993efe1655c781c3bfe7b4d106f6]
+## 15.23A. Adjournment of meeting in, or for the purposes of, a moratorium under Part A1 of the Act[^c-762f993efe1655c781c3bfe7b4d106f6]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-762f993efe1655c781c3bfe7b4d106f6]: Textual amendment: [Rule 15.23A](https://www.legislation.gov.uk/uksi/2016/1024/rule/15.23A) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [71](https://www.legislation.gov.uk/uksi/2021/1028/rule/71) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
+[^c-762f993efe1655c781c3bfe7b4d106f6]: Textual amendment: [Rule 15.23A](https://www.legislation.gov.uk/uksi/2016/1024/rule/15.23A) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [71](https://www.legislation.gov.uk/uksi/2021/1028/rule/71) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Jurisdiction of traffic officers[^key-a8eb73bb19dc95db22b3faaa7d2a21f4][^key-75aaca6fc6d0994e44cc9dbf5f872c3b]
+## 3. Jurisdiction of traffic officers[^c-a8eb73bb19dc95db22b3faaa7d2a21f4][^c-75aaca6fc6d0994e44cc9dbf5f872c3b]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ unless his designation provides that this subsection does not apply to him.
 
 ## Annotations
 
-[^key-a8eb73bb19dc95db22b3faaa7d2a21f4]: Commencement: S. 3 in force at 4.10.2004 for E. by [S.I. 2004/2380](https://www.legislation.gov.uk/uksi/2004/2380), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/2380/article/2/a)
+[^c-a8eb73bb19dc95db22b3faaa7d2a21f4]: Commencement: S. 3 in force at 4.10.2004 for E. by [S.I. 2004/2380](https://www.legislation.gov.uk/uksi/2004/2380), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/2380/article/2/a)
 
-[^key-75aaca6fc6d0994e44cc9dbf5f872c3b]: Commencement: S. 3 in force at 1.5.2009 for W. by [S.I. 2009/1095](https://www.legislation.gov.uk/uksi/2009/1095), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/1095/article/2/a)
+[^c-75aaca6fc6d0994e44cc9dbf5f872c3b]: Commencement: S. 3 in force at 1.5.2009 for W. by [S.I. 2009/1095](https://www.legislation.gov.uk/uksi/2009/1095), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/1095/article/2/a)

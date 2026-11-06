@@ -23,8 +23,8 @@ summary: ''
 
 that case shall be treated as a special case for the purposes of the Act.
 
-(2) For the purposes of this case, section 3(3)(b) of the Act shall be modified so that[^key-567c700e07e3a1b242d8eb44af7cff71] for the reference to the person who usually provides day to day care for the child there shall be substituted a reference to the person who would usually be providing such care for that child but for the circumstances specified in paragraph (1).
+(2) For the purposes of this case, section 3(3)(b) of the Act shall be modified so that[^c-567c700e07e3a1b242d8eb44af7cff71] for the reference to the person who usually provides day to day care for the child there shall be substituted a reference to the person who would usually be providing such care for that child but for the circumstances specified in paragraph (1).
 
 ## Annotations
 
-[^key-567c700e07e3a1b242d8eb44af7cff71]: Textual amendment: Word in reg. 27(2) inserted (5.4.1993) by [The Child Support (Miscellaneous Amendments) Regulations 1993 (S.I. 1993/913)](https://www.legislation.gov.uk/uksi/1993/913), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/913/regulation/1/1), [24](https://www.legislation.gov.uk/uksi/1993/913/regulation/24)
+[^c-567c700e07e3a1b242d8eb44af7cff71]: Textual amendment: Word in reg. 27(2) inserted (5.4.1993) by [The Child Support (Miscellaneous Amendments) Regulations 1993 (S.I. 1993/913)](https://www.legislation.gov.uk/uksi/1993/913), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/913/regulation/1/1), [24](https://www.legislation.gov.uk/uksi/1993/913/regulation/24)

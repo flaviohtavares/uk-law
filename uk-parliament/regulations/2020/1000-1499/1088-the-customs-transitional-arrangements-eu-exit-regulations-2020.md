@@ -48,7 +48,7 @@ The Treasury, in exercise of the powers conferred by sections 24(3) and 26(1) of
 
 In accordance with section 52(2) of the Taxation (Cross-border Trade) Act 2018, the Treasury consider it appropriate in consequence of, or otherwise in connection with, the withdrawal of the United Kingdom from the EU, that provisions of these Regulations come into force on such day as the Treasury may appoint by regulations under section 52 of that Act.
 
-## 1. Citation and commencement[^key-cbc7f8c3efdd4a5dd6c27b52c9239bf5]
+## 1. Citation and commencement[^c-cbc7f8c3efdd4a5dd6c27b52c9239bf5]
 
 (1) These Regulations may be cited as the Customs (Transitional Arrangements) (EU Exit) Regulations 2020.
 
@@ -66,7 +66,7 @@ In accordance with section 52(2) of the Taxation (Cross-border Trade) Act 2018, 
 
 (4) Regulation 3(5) comes into force on 29th October 2020 for the purposes of the giving or publishing of any notice under inserted regulation 29B of the Customs (Import Duty) (EU Exit) Regulations 2018 [^c24296901].
 
-## 2. Amendment of the Customs Traders (Accounts and Records) Regulations 1995[^key-934e9ef85cd1c189806eea35f4c3bb20][^key-93e87266517bb1732bdb28172bdb1950]
+## 2. Amendment of the Customs Traders (Accounts and Records) Regulations 1995[^c-934e9ef85cd1c189806eea35f4c3bb20][^c-93e87266517bb1732bdb28172bdb1950]
 
 (1) The Customs Traders (Accounts and Records) Regulations 1995 [^c24296911] are amended as follows.
 
@@ -84,9 +84,9 @@ In accordance with section 52(2) of the Taxation (Cross-border Trade) Act 2018, 
 
   .
 
-## 3. Amendment of the Customs (Import Duty) (EU Exit) Regulations 2018[^key-19a6d797d2cdeeadcc7995e178b813ed][^key-fe43488939c4791475a585c4dd00c9ce][^key-f372bd8aaba1716c3946291c0757074e][^key-9388156ea76f6e32fae40090c4ed7ae5]
+## 3. Amendment of the Customs (Import Duty) (EU Exit) Regulations 2018[^c-19a6d797d2cdeeadcc7995e178b813ed][^c-fe43488939c4791475a585c4dd00c9ce][^c-f372bd8aaba1716c3946291c0757074e][^c-9388156ea76f6e32fae40090c4ed7ae5]
 
-(1)[^key-19a6d797d2cdeeadcc7995e178b813ed] The Customs (Import Duty) (EU Exit) Regulations 2018 [^c24296921] are amended as follows.
+(1)[^c-19a6d797d2cdeeadcc7995e178b813ed] The Customs (Import Duty) (EU Exit) Regulations 2018 [^c24296921] are amended as follows.
 
 (2) In regulation 2 (interpretation), after the definition of “the TIR Convention” insert—
 
@@ -94,9 +94,9 @@ In accordance with section 52(2) of the Taxation (Cross-border Trade) Act 2018, 
 
 .
 
-(3)[^key-f372bd8aaba1716c3946291c0757074e] In regulation 4 (notification of importation), in paragraph (3C)(b) [^c24296941] after “EIDR procedure” insert “ or the transitional EIDR procedure ”.
+(3)[^c-f372bd8aaba1716c3946291c0757074e] In regulation 4 (notification of importation), in paragraph (3C)(b) [^c24296941] after “EIDR procedure” insert “ or the transitional EIDR procedure ”.
 
-(4)[^key-f372bd8aaba1716c3946291c0757074e] In regulation 14 (interpretation)—
+(4)[^c-f372bd8aaba1716c3946291c0757074e] In regulation 14 (interpretation)—
 
 - (a) after the definition of “EIDR records” insert—
 
@@ -116,7 +116,7 @@ In accordance with section 52(2) of the Taxation (Cross-border Trade) Act 2018, 
 
   .
 
-(5)[^key-9388156ea76f6e32fae40090c4ed7ae5][^key-de8849356fc015ec850fc70a2bcc7f50] In Part 4, in Chapter 3 (simplified Customs declaration process), before section 1 insert—
+(5)[^c-9388156ea76f6e32fae40090c4ed7ae5][^c-de8849356fc015ec850fc70a2bcc7f50] In Part 4, in Chapter 3 (simplified Customs declaration process), before section 1 insert—
 
 > **SECTION A1 — Transitional EIDR simplified Customs declarations process**
 >
@@ -243,7 +243,7 @@ In accordance with section 52(2) of the Taxation (Cross-border Trade) Act 2018, 
 
 .
 
-(6)[^key-19a6d797d2cdeeadcc7995e178b813ed] In regulation 31 (persons authorised to use the simplified Customs declaration process)—
+(6)[^c-19a6d797d2cdeeadcc7995e178b813ed] In regulation 31 (persons authorised to use the simplified Customs declaration process)—
 
 - (a) in paragraph (2)—
   - (i) in the words before sub-paragraph (a)—
@@ -265,7 +265,7 @@ In accordance with section 52(2) of the Taxation (Cross-border Trade) Act 2018, 
 
 (7) In regulation 37 (persons authorised to use the EIDR procedure)—
 
-- (a)[^key-f372bd8aaba1716c3946291c0757074e] after paragraph (1) insert—
+- (a)[^c-f372bd8aaba1716c3946291c0757074e] after paragraph (1) insert—
 
   > (1A) Use of the EIDR procedure by an authorised EIDR declarant is to be treated as a transitional simplified Customs declaration for the purposes of regulation 29C(1)(a) where—
   >
@@ -274,7 +274,7 @@ In accordance with section 52(2) of the Taxation (Cross-border Trade) Act 2018, 
   > - (c) the use of the EIDR procedure occurs on or before 30th June 2021.
 
   ;
-- (b)[^key-19a6d797d2cdeeadcc7995e178b813ed] in paragraph (3)—
+- (b)[^c-19a6d797d2cdeeadcc7995e178b813ed] in paragraph (3)—
   - (i) in the words before sub-paragraph (a) omit “Subject to paragraph (3A) and regulation 37A,” and “the person”;
   - (ii) in sub-paragraph (a)—
     - (aa) at the beginning insert “ the person ”;
@@ -287,11 +287,11 @@ In accordance with section 52(2) of the Taxation (Cross-border Trade) Act 2018, 
 
     ;
   - (iv) omit sub-paragraph (c);
-- (c)[^key-19a6d797d2cdeeadcc7995e178b813ed] omit paragraph (3A).
+- (c)[^c-19a6d797d2cdeeadcc7995e178b813ed] omit paragraph (3A).
 
-(8)[^key-19a6d797d2cdeeadcc7995e178b813ed] Omit regulation 37A (persons authorised to use the simplified Customs declaration process and EIDR procedure – transitional authorisations) [^c24296981].
+(8)[^c-19a6d797d2cdeeadcc7995e178b813ed] Omit regulation 37A (persons authorised to use the simplified Customs declaration process and EIDR procedure – transitional authorisations) [^c24296981].
 
-(9)[^key-f372bd8aaba1716c3946291c0757074e] In regulation 40 (notification of liability by release to certain Customs procedures) for paragraph (2) substitute—
+(9)[^c-f372bd8aaba1716c3946291c0757074e] In regulation 40 (notification of liability by release to certain Customs procedures) for paragraph (2) substitute—
 
 > (2) Paragraph (1) does not apply if—
 >
@@ -300,7 +300,7 @@ In accordance with section 52(2) of the Taxation (Cross-border Trade) Act 2018, 
 
 .
 
-(10)[^key-19a6d797d2cdeeadcc7995e178b813ed] In regulation 91 (amendment, suspension or revocation of approval) after paragraph (5) insert—
+(10)[^c-19a6d797d2cdeeadcc7995e178b813ed] In regulation 91 (amendment, suspension or revocation of approval) after paragraph (5) insert—
 
 > (6) An approval may be revoked, as appropriate in the opinion of an HMRC officer, if—
 >
@@ -309,7 +309,7 @@ In accordance with section 52(2) of the Taxation (Cross-border Trade) Act 2018, 
 
 .
 
-## 4. Amendment of the Customs (Special Procedures and Outward Processing) (EU Exit) Regulations 2018[^key-ca1c5f0b155fc327beec706cdb7c2560][^key-84360d856f1c0988d39ebb2c2ef317a4]
+## 4. Amendment of the Customs (Special Procedures and Outward Processing) (EU Exit) Regulations 2018[^c-ca1c5f0b155fc327beec706cdb7c2560][^c-84360d856f1c0988d39ebb2c2ef317a4]
 
 (1) The Customs (Special Procedures and Outward Processing) (EU Exit) Regulations 2018 [^c24296991] are amended as follows.
 
@@ -319,7 +319,7 @@ In accordance with section 52(2) of the Taxation (Cross-border Trade) Act 2018, 
 
 .
 
-## 5. Amendment of the Customs (Contravention of a Relevant Rule) (Amendment) (EU Exit) Regulations 2018[^key-f2a28c472f34cecf264bf959927cbf11]
+## 5. Amendment of the Customs (Contravention of a Relevant Rule) (Amendment) (EU Exit) Regulations 2018[^c-f2a28c472f34cecf264bf959927cbf11]
 
 (1) The Customs (Contravention of a Relevant Rule) (Amendment) (EU Exit) Regulations 2018 [^c24297001] are amended as follows.
 
@@ -344,7 +344,7 @@ In accordance with section 52(2) of the Taxation (Cross-border Trade) Act 2018, 
   - (ii) omit “or a transitional authorised declarant”;
   - (iii) omit “or the transitional authorised declarant”.
 
-## 6. Amendment of the Customs (Import Duty, Transit and Miscellaneous Amendments) (EU Exit) Regulations 2019[^key-1940968d3fb72bacf35f73b41f464bbe]
+## 6. Amendment of the Customs (Import Duty, Transit and Miscellaneous Amendments) (EU Exit) Regulations 2019[^c-1940968d3fb72bacf35f73b41f464bbe]
 
 (1) The Customs (Import Duty, Transit and Miscellaneous Amendments) (EU Exit) Regulations 2019 [^c24297031] are amended as follows.
 
@@ -378,7 +378,7 @@ In accordance with section 52(2) of the Taxation (Cross-border Trade) Act 2018, 
 - (a) omit paragraph (c);
 - (b) omit paragraph (d).
 
-## 7. Amendment of the Taxation (Cross-border Trade) (Miscellaneous Provisions) (EU Exit) Regulations 2019[^key-c662cb99229460430d1c30639efeed6b]
+## 7. Amendment of the Taxation (Cross-border Trade) (Miscellaneous Provisions) (EU Exit) Regulations 2019[^c-c662cb99229460430d1c30639efeed6b]
 
 (1) The Taxation (Cross-border Trade) (Miscellaneous Provisions) (EU Exit) Regulations 2019 [^c24297041] are amended as follows.
 
@@ -389,7 +389,7 @@ In accordance with section 52(2) of the Taxation (Cross-border Trade) Act 2018, 
 
 (3) In regulation 10, in the entry inserted by paragraph (2), after “EIDR procedure” insert “ or the transitional EIDR procedure ”.
 
-## 8. Amendment of the Customs (Crown Dependencies Customs Union) (EU Exit) Regulations 2019[^key-4cc1de785b6b43a5a8fb34e7cbd93d6f]
+## 8. Amendment of the Customs (Crown Dependencies Customs Union) (EU Exit) Regulations 2019[^c-4cc1de785b6b43a5a8fb34e7cbd93d6f]
 
 (1) The Customs (Crown Dependencies Customs Union) (EU Exit) Regulations 2019 [^c24297051] are amended as follows.
 
@@ -408,11 +408,11 @@ In accordance with section 52(2) of the Taxation (Cross-border Trade) Act 2018, 
   ;
 - (b) omit paragraph (7).
 
-## 9. Amendment of the Customs and Excise (Miscellaneous Provisions and Amendments) (EU Exit) Regulations 2019[^key-c631827fd3c42d6171175b3c51e845ba][^key-dd20aca63609509cc457b36f1d7be1f7]
+## 9. Amendment of the Customs and Excise (Miscellaneous Provisions and Amendments) (EU Exit) Regulations 2019[^c-c631827fd3c42d6171175b3c51e845ba][^c-dd20aca63609509cc457b36f1d7be1f7]
 
-(1)[^key-c631827fd3c42d6171175b3c51e845ba] The Customs and Excise (Miscellaneous Provisions and Amendments) (EU Exit) Regulations 2019 [^c24297061] are amended as follows.
+(1)[^c-c631827fd3c42d6171175b3c51e845ba] The Customs and Excise (Miscellaneous Provisions and Amendments) (EU Exit) Regulations 2019 [^c24297061] are amended as follows.
 
-(2)[^key-01d766e111132bd6b8e30e07f1efb620] In regulation 2 (interpretation) at the end insert—
+(2)[^c-01d766e111132bd6b8e30e07f1efb620] In regulation 2 (interpretation) at the end insert—
 
 > “**transitional simplified Customs declaration**” has the meaning given by regulation 14 of the import duty regulations;
 >
@@ -420,7 +420,7 @@ In accordance with section 52(2) of the Taxation (Cross-border Trade) Act 2018, 
 
 .
 
-(3)[^key-01d766e111132bd6b8e30e07f1efb620] In regulation 6 (requirement to provide a Banana Weight Certificate)—
+(3)[^c-01d766e111132bd6b8e30e07f1efb620] In regulation 6 (requirement to provide a Banana Weight Certificate)—
 
 - (a) in paragraph (3)—
   - (i) the words from “at the time” to the end become sub-paragraph (a);
@@ -435,14 +435,14 @@ In accordance with section 52(2) of the Taxation (Cross-border Trade) Act 2018, 
   - (ii) in sub-paragraph (b) after “simplified Customs declaration”, in both places it occurs, insert “ or transitional simplified Customs declaration ”;
 - (c) in paragraph (5), in the definition of “provisional declaration of weight”, after “simplified Customs declaration”, in both places it occurs, insert “ or transitional simplified Customs declaration ”.
 
-(4)[^key-c631827fd3c42d6171175b3c51e845ba] In regulation 11 (amendment of the import duty regulations)—
+(4)[^c-c631827fd3c42d6171175b3c51e845ba] In regulation 11 (amendment of the import duty regulations)—
 
 - (a) in paragraph (17)—
   - (i) omit sub-paragraph (c);
   - (ii) omit sub-paragraph (d);
 - (b) omit paragraph (23).
 
-(5)[^key-c631827fd3c42d6171175b3c51e845ba] Omit regulation 18 (amendment of the Customs (Contravention of a Relevant Rule) Regulations 2003).
+(5)[^c-c631827fd3c42d6171175b3c51e845ba] Omit regulation 18 (amendment of the Customs (Contravention of a Relevant Rule) Regulations 2003).
 
 James Morris
 
@@ -474,23 +474,23 @@ A Tax Information and Impact Note covering this instrument will be published on 
 
 [^c24296891]: Marginal citation: [2018 c. 22](https://www.legislation.gov.uk/ukpga/2018/22).
 
-[^key-cbc7f8c3efdd4a5dd6c27b52c9239bf5]: Commencement: Reg. 1 in force at 29.10.2020, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/1/3/a)
+[^c-cbc7f8c3efdd4a5dd6c27b52c9239bf5]: Commencement: Reg. 1 in force at 29.10.2020, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/1/3/a)
 
 [^c24296901]: Marginal citation: [S.I. 2018/1248](https://www.legislation.gov.uk/uksi/2018/1248). There are amending instruments, but none is relevant.
 
-[^key-934e9ef85cd1c189806eea35f4c3bb20]: Commencement: Reg. 2 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/1/2)
+[^c-934e9ef85cd1c189806eea35f4c3bb20]: Commencement: Reg. 2 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/1/2)
 
-[^key-93e87266517bb1732bdb28172bdb1950]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2020/1088/regulation/2) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-93e87266517bb1732bdb28172bdb1950]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2020/1088/regulation/2) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c24296911]: Marginal citation: [S.I. 1995/1203](https://www.legislation.gov.uk/uksi/1995/1203). Regulation 4 is prospectively amended by [S.I. 2019/140](https://www.legislation.gov.uk/uksi/2019/140).
 
-[^key-19a6d797d2cdeeadcc7995e178b813ed]: Commencement: Reg. 3(1)(6)(7)(b)(c)(8)(10) in force at 29.10.2020, see reg. 1(3)(b)
+[^c-19a6d797d2cdeeadcc7995e178b813ed]: Commencement: Reg. 3(1)(6)(7)(b)(c)(8)(10) in force at 29.10.2020, see reg. 1(3)(b)
 
-[^key-fe43488939c4791475a585c4dd00c9ce]: Commencement: Reg. 3(2)(3)(4)(7)(a)(9) not in force at made date, see reg. 1(2)
+[^c-fe43488939c4791475a585c4dd00c9ce]: Commencement: Reg. 3(2)(3)(4)(7)(a)(9) not in force at made date, see reg. 1(2)
 
-[^key-f372bd8aaba1716c3946291c0757074e]: Commencement: Reg. 3(2)(3)(4)(7)(a)(9) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-f372bd8aaba1716c3946291c0757074e]: Commencement: Reg. 3(2)(3)(4)(7)(a)(9) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-9388156ea76f6e32fae40090c4ed7ae5]: Commencement: Reg. 3(5) in force at 29.10.2020 for specified purposes, see reg. 1(4)
+[^c-9388156ea76f6e32fae40090c4ed7ae5]: Commencement: Reg. 3(5) in force at 29.10.2020 for specified purposes, see reg. 1(4)
 
 [^c24296921]: Marginal citation: [S.I. 2018/1248](https://www.legislation.gov.uk/uksi/2018/1248). Relevant amending instruments are [S.I. 2019/326](https://www.legislation.gov.uk/uksi/2019/326), 2019/1215, 2019/1346 and 2020/967.
 
@@ -500,7 +500,7 @@ A Tax Information and Impact Note covering this instrument will be published on 
 
 [^c24296951]: Marginal citation: The definition of “transitional authorised declarant” was inserted by [S.I. 2019/326](https://www.legislation.gov.uk/uksi/2019/326).
 
-[^key-de8849356fc015ec850fc70a2bcc7f50]: Commencement: Reg. 3(5) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-de8849356fc015ec850fc70a2bcc7f50]: Commencement: Reg. 3(5) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c24296961]: Marginal citation: “Customs obligation” is defined in regulation 2 of the Customs (Import Duty) (EU Exit) Regulations 2018.
 
@@ -508,13 +508,13 @@ A Tax Information and Impact Note covering this instrument will be published on 
 
 [^c24296981]: Marginal citation: Regulation 37A was inserted by [S.I. 2019/326](https://www.legislation.gov.uk/uksi/2019/326) and amended by [S.I. 2019/1215](https://www.legislation.gov.uk/uksi/2019/1215) and 2019/1246.
 
-[^key-ca1c5f0b155fc327beec706cdb7c2560]: Commencement: Reg. 4 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/1/2)
+[^c-ca1c5f0b155fc327beec706cdb7c2560]: Commencement: Reg. 4 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/1/2)
 
-[^key-84360d856f1c0988d39ebb2c2ef317a4]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2020/1088/regulation/4) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-84360d856f1c0988d39ebb2c2ef317a4]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2020/1088/regulation/4) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c24296991]: Marginal citation: [S.I. 2018/1249](https://www.legislation.gov.uk/uksi/2018/1249). There are amending instruments, but none is relevant.
 
-[^key-f2a28c472f34cecf264bf959927cbf11]: Commencement: Reg. 5 in force at 29.10.2020, see [reg. 1(3)(c)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/1/3/c)
+[^c-f2a28c472f34cecf264bf959927cbf11]: Commencement: Reg. 5 in force at 29.10.2020, see [reg. 1(3)(c)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/1/3/c)
 
 [^c24297001]: Marginal citation: [S.I. 2018/1260](https://www.legislation.gov.uk/uksi/2018/1260). Amended by [S.I. 2019/486](https://www.legislation.gov.uk/uksi/2019/486). There are other amending instruments, but none is relevant.
 
@@ -522,22 +522,22 @@ A Tax Information and Impact Note covering this instrument will be published on 
 
 [^c24297021]: Marginal citation: [Regulation 29C](https://www.legislation.gov.uk/uksi/2020/1088/regulation/29C) and 29E are inserted by regulation 3(5) of these Regulations.
 
-[^key-1940968d3fb72bacf35f73b41f464bbe]: Commencement: Reg. 6 in force at 29.10.2020, see [reg. 1(3)(d)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/1/3/d)
+[^c-1940968d3fb72bacf35f73b41f464bbe]: Commencement: Reg. 6 in force at 29.10.2020, see [reg. 1(3)(d)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/1/3/d)
 
 [^c24297031]: Marginal citation: [S.I. 2019/326](https://www.legislation.gov.uk/uksi/2019/326). Relevant amendments were made by [S.I. 2019/1215](https://www.legislation.gov.uk/uksi/2019/1215).
 
-[^key-c662cb99229460430d1c30639efeed6b]: Commencement: Reg. 7 in force at 29.10.2020, see [reg. 1(3)(e)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/1/3/e)
+[^c-c662cb99229460430d1c30639efeed6b]: Commencement: Reg. 7 in force at 29.10.2020, see [reg. 1(3)(e)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/1/3/e)
 
 [^c24297041]: Marginal citation: [S.I. 2019/486](https://www.legislation.gov.uk/uksi/2019/486). Relevant amendments were made by [S.I. 2019/1215](https://www.legislation.gov.uk/uksi/2019/1215) and 2019/1346.
 
-[^key-4cc1de785b6b43a5a8fb34e7cbd93d6f]: Commencement: Reg. 8 in force at 29.10.2020, see [reg. 1(3)(f)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/1/3/f)
+[^c-4cc1de785b6b43a5a8fb34e7cbd93d6f]: Commencement: Reg. 8 in force at 29.10.2020, see [reg. 1(3)(f)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/1/3/f)
 
 [^c24297051]: Marginal citation: [S.I. 2019/385](https://www.legislation.gov.uk/uksi/2019/385), amended by [S.I. 2020/967](https://www.legislation.gov.uk/uksi/2020/967).
 
-[^key-c631827fd3c42d6171175b3c51e845ba]: Commencement: Reg. 9(1)(4)(5) in force at 29.10.2020, see [reg. 1(3)(g)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/1/3/g)
+[^c-c631827fd3c42d6171175b3c51e845ba]: Commencement: Reg. 9(1)(4)(5) in force at 29.10.2020, see [reg. 1(3)(g)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/1/3/g)
 
-[^key-dd20aca63609509cc457b36f1d7be1f7]: Commencement: Reg. 9(2)(3) not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/1/2)
+[^c-dd20aca63609509cc457b36f1d7be1f7]: Commencement: Reg. 9(2)(3) not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/1/2)
 
 [^c24297061]: Marginal citation: [S.I. 2019/1215](https://www.legislation.gov.uk/uksi/2019/1215).
 
-[^key-01d766e111132bd6b8e30e07f1efb620]: Commencement: [Reg. 9(2)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/9/2)[(3)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/9/3) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-01d766e111132bd6b8e30e07f1efb620]: Commencement: [Reg. 9(2)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/9/2)[(3)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/9/3) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)

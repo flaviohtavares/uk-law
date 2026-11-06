@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 35. Effect of order on existing rights etc.[^key-8fe3c2bbd6d57532b561eac17ca2d024][^key-1aa9b1ca6bb367ab31400e0712afec2e][^key-342a04093a8afac2c84f0beeac34e00e][^key-1aa9b1ca6bb367ab31400e0712afec2e]
+## 35. Effect of order on existing rights etc.[^c-8fe3c2bbd6d57532b561eac17ca2d024][^c-1aa9b1ca6bb367ab31400e0712afec2e][^c-342a04093a8afac2c84f0beeac34e00e][^c-1aa9b1ca6bb367ab31400e0712afec2e]
 
 *Extent: S*
 
@@ -43,8 +43,8 @@ summary: ''
 
 ## Annotations
 
-[^key-8fe3c2bbd6d57532b561eac17ca2d024]: Commencement: S. 35 in force at 28.9.2009 by [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2)
+[^c-8fe3c2bbd6d57532b561eac17ca2d024]: Commencement: S. 35 in force at 28.9.2009 by [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2)
 
-[^key-1aa9b1ca6bb367ab31400e0712afec2e]: Modification: Pt. 1 Ch. 2 applied in part (28.9.2009) by [Adoptions with a Foreign Element (Scotland) Regulations 2009 (S.S.I. 2009/182)](https://www.legislation.gov.uk/ssi/2009/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2009/182/regulation/1/1), [9(1)](https://www.legislation.gov.uk/ssi/2009/182/regulation/9/1)
+[^c-1aa9b1ca6bb367ab31400e0712afec2e]: Modification: Pt. 1 Ch. 2 applied in part (28.9.2009) by [Adoptions with a Foreign Element (Scotland) Regulations 2009 (S.S.I. 2009/182)](https://www.legislation.gov.uk/ssi/2009/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2009/182/regulation/1/1), [9(1)](https://www.legislation.gov.uk/ssi/2009/182/regulation/9/1)
 
-[^key-342a04093a8afac2c84f0beeac34e00e]: Modification: S. 35 applied (with modifications) (6.4.2010) by [The Human Fertilisation and Embryology (Parental Orders) Regulations 2010 (S.I. 2010/985)](https://www.legislation.gov.uk/uksi/2010/985), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/985/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2010/985/regulation/4), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/985/schedule/3)
+[^c-342a04093a8afac2c84f0beeac34e00e]: Modification: S. 35 applied (with modifications) (6.4.2010) by [The Human Fertilisation and Embryology (Parental Orders) Regulations 2010 (S.I. 2010/985)](https://www.legislation.gov.uk/uksi/2010/985), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/985/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2010/985/regulation/4), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/985/schedule/3)

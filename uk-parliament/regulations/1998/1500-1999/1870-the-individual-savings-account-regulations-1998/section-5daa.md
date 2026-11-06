@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5DAA. Defaulted Lifetime ISA subscription[^key-d2a2c5338148f7dfca0314f1d9647e7c][^key-8ef43955e91d7850ecd84c6f42a9af50]
+## 5DAA. Defaulted Lifetime ISA subscription[^c-d2a2c5338148f7dfca0314f1d9647e7c][^c-8ef43955e91d7850ecd84c6f42a9af50]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,6 +27,6 @@ A subscription is a defaulted Lifetime ISA subscription if—
 
 ## Annotations
 
-[^key-d2a2c5338148f7dfca0314f1d9647e7c]: Textual amendment: [Reg. 5DAA](https://www.legislation.gov.uk/uksi/1998/1870/regulation/5DAA) inserted (6.4.2017) by [The Individual Savings Account (Amendment No. 2) Regulations 2017 (S.I. 2017/466)](https://www.legislation.gov.uk/uksi/2017/466), [regs. 1](https://www.legislation.gov.uk/uksi/2017/466/regulation/1), [12](https://www.legislation.gov.uk/uksi/2017/466/regulation/12)
+[^c-d2a2c5338148f7dfca0314f1d9647e7c]: Textual amendment: [Reg. 5DAA](https://www.legislation.gov.uk/uksi/1998/1870/regulation/5DAA) inserted (6.4.2017) by [The Individual Savings Account (Amendment No. 2) Regulations 2017 (S.I. 2017/466)](https://www.legislation.gov.uk/uksi/2017/466), [regs. 1](https://www.legislation.gov.uk/uksi/2017/466/regulation/1), [12](https://www.legislation.gov.uk/uksi/2017/466/regulation/12)
 
-[^key-8ef43955e91d7850ecd84c6f42a9af50]: Textual amendment: Regs. 5D-5DM inserted (8.8.2012) by [The Individual Savings Account (Amendment) (No. 2) Regulations 2012 (S.I. 2012/1871)](https://www.legislation.gov.uk/uksi/2012/1871), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1871/regulation/1), [11](https://www.legislation.gov.uk/uksi/2012/1871/regulation/11)
+[^c-8ef43955e91d7850ecd84c6f42a9af50]: Textual amendment: Regs. 5D-5DM inserted (8.8.2012) by [The Individual Savings Account (Amendment) (No. 2) Regulations 2012 (S.I. 2012/1871)](https://www.legislation.gov.uk/uksi/2012/1871), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1871/regulation/1), [11](https://www.legislation.gov.uk/uksi/2012/1871/regulation/11)

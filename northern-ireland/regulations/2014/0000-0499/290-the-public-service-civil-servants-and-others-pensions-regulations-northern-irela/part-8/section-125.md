@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 125. Pension protection lump sum death benefit[^key-5f049e8d67a316a094ba561e5741a113]
+## 125. Pension protection lump sum death benefit[^c-5f049e8d67a316a094ba561e5741a113]
 
 *Extent: N.I.*
 
@@ -29,7 +29,7 @@ summary: ''
 
 ## Annotations
 
-[^key-5f049e8d67a316a094ba561e5741a113]: Commencement: [Reg. 125](https://www.legislation.gov.uk/nisr/2014/290/regulation/125) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-5f049e8d67a316a094ba561e5741a113]: Commencement: [Reg. 125](https://www.legislation.gov.uk/nisr/2014/290/regulation/125) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
 
 [^f00065]: Footnote: Paragraph 14 was amended by the Finance Act [2011 (c.11)](https://www.legislation.gov.uk/ukpga/2011/11) Schedule 16 paragraphs 32 and 34
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 119. Amendments relating to EPBs and combined authorities[^key-d08f6caf45ae777d5e018fe8e0b7e8e6]
+## 119. Amendments relating to EPBs and combined authorities[^c-d08f6caf45ae777d5e018fe8e0b7e8e6]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 6 (amendments relating to EPBs and combined authorities) is part of thi
 
 ## Annotations
 
-[^key-d08f6caf45ae777d5e018fe8e0b7e8e6]: Commencement: S. 119 in force at 17.12.2009 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/3318/article/2/b)
+[^c-d08f6caf45ae777d5e018fe8e0b7e8e6]: Commencement: S. 119 in force at 17.12.2009 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/3318/article/2/b)

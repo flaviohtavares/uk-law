@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 74. Amendment to the Jobseeker’s Allowance Regulations 1996[^key-85be3fda82fc19b0443e4fbeec446250]
+## 74. Amendment to the Jobseeker’s Allowance Regulations 1996[^c-85be3fda82fc19b0443e4fbeec446250]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ In regulation 169(3) of the Jobseeker’s Allowance Regulations 1996[^f00018], f
 
 ## Annotations
 
-[^key-85be3fda82fc19b0443e4fbeec446250]: Commencement: Art. 74 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-85be3fda82fc19b0443e4fbeec446250]: Commencement: Art. 74 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
 
 [^f00018]: Footnote: [S.I. 1996/207](https://www.legislation.gov.uk/uksi/1996/207).

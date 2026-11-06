@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 938C. Meaning of “scheme loss” and “scheme profit”[^key-8f8689b5248909840ed12e396772012c]
+## 938C. Meaning of “scheme loss” and “scheme profit”[^c-8f8689b5248909840ed12e396772012c]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ only that part of the loss or profit is a “scheme loss” or “scheme profit�
 
 ## Annotations
 
-[^key-8f8689b5248909840ed12e396772012c]: Textual amendment: Pt. 21B inserted (with effect in accordance with Sch. 5 para. 6 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2011/11/schedule/5/paragraph/2)
+[^c-8f8689b5248909840ed12e396772012c]: Textual amendment: Pt. 21B inserted (with effect in accordance with Sch. 5 para. 6 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2011/11/schedule/5/paragraph/2)

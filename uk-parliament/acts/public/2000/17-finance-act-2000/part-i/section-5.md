@@ -42,7 +42,7 @@ summary: ''
 
 (2)[^c14052731] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-ed9ace578410026fa93337da93e13f33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-ed9ace578410026fa93337da93e13f33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4)[^c14052731] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -70,6 +70,6 @@ and
 
 [^c14052731]: Textual amendment: S. 5(2)(4) repealed (*retrospective* to 6 p.m. on 7.3.2001) by [2001 c. 9](https://www.legislation.gov.uk/ukpga/2001/9), [ss. 2(5)](https://www.legislation.gov.uk/ukpga/2001/9/section/2/5), [110(1)](https://www.legislation.gov.uk/ukpga/2001/9/section/110/1), [Sch. 33 Pt I(1)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/33) Note
 
-[^key-ed9ace578410026fa93337da93e13f33]: Textual amendment: S. 5(3) omitted (retrospective to 1.4.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 13(11)(c)](https://www.legislation.gov.uk/ukpga/2008/9/section/13/11/c), [(12)](https://www.legislation.gov.uk/ukpga/2008/9/section/13/12)
+[^c-ed9ace578410026fa93337da93e13f33]: Textual amendment: S. 5(3) omitted (retrospective to 1.4.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 13(11)(c)](https://www.legislation.gov.uk/ukpga/2008/9/section/13/11/c), [(12)](https://www.legislation.gov.uk/ukpga/2008/9/section/13/12)
 
 [^c14052751]: Subordinate legislation: S. 5(6) power exercised (29.9.2000): 1.10.2000 appointed by [S.I. 2000/2674](https://www.legislation.gov.uk/uksi/2000/2674), [art. 2](https://www.legislation.gov.uk/uksi/2000/2674/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 204. Power to restrict the carrying on of Consumer Credit Act business.[^key-41b3516634d7e7c2b8e893eb95db946a]
+## 204. Power to restrict the carrying on of Consumer Credit Act business.[^c-41b3516634d7e7c2b8e893eb95db946a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-41b3516634d7e7c2b8e893eb95db946a]: Textual amendment: Ss. 203, 204 omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No. 2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [10(4)](https://www.legislation.gov.uk/uksi/2013/1881/article/10/4) (with [art. 11(4)](https://www.legislation.gov.uk/uksi/2013/1881/article/11/4))
+[^c-41b3516634d7e7c2b8e893eb95db946a]: Textual amendment: Ss. 203, 204 omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No. 2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [10(4)](https://www.legislation.gov.uk/uksi/2013/1881/article/10/4) (with [art. 11(4)](https://www.legislation.gov.uk/uksi/2013/1881/article/11/4))

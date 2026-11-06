@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44. Consent to transfer benefit of Order[^key-fe12cf22679635ed17d954026c87ebe5]
+## 44. Consent to transfer benefit of Order[^c-fe12cf22679635ed17d954026c87ebe5]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fe12cf22679635ed17d954026c87ebe5]: Commencement: Art. 44 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)
+[^c-fe12cf22679635ed17d954026c87ebe5]: Commencement: Art. 44 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)

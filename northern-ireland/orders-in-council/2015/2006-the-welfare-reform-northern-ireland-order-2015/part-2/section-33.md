@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 33. Hardship payments[^key-3f72234c5ba22d8fff23d9418523b4e1]
+## 33. Hardship payments[^c-3f72234c5ba22d8fff23d9418523b4e1]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3f72234c5ba22d8fff23d9418523b4e1]: Commencement: [Art. 33](https://www.legislation.gov.uk/nisi/2015/2006/article/33) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(2)(b)(iv)](https://www.legislation.gov.uk/nisr/2016/215/article/2/2/b/iv)
+[^c-3f72234c5ba22d8fff23d9418523b4e1]: Commencement: [Art. 33](https://www.legislation.gov.uk/nisi/2015/2006/article/33) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(2)(b)(iv)](https://www.legislation.gov.uk/nisr/2016/215/article/2/2/b/iv)

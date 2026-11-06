@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Establishment and general duties of Bus Company and Scottish Group.[^M_F_d55301ca-b321-4fb8-9662-b8364f12bb8a][^key-38fbb6113cdd6c24b494220348c03532][^c15314511]
+## 24. Establishment and general duties of Bus Company and Scottish Group.[^M_F_d55301ca-b321-4fb8-9662-b8364f12bb8a][^c-38fbb6113cdd6c24b494220348c03532][^c15314511]
 
 *Extent: E+W+S*
 
@@ -53,7 +53,7 @@ either directly, or indirectly through subsidiaries of theirs, to co-operate wit
 
 [^M_F_d55301ca-b321-4fb8-9662-b8364f12bb8a]: Textual amendment: S. 24 repealed (S.) (7.6.2002) by [S.S.I. 2002/263](https://www.legislation.gov.uk/ssi/2002/263), art. 5(2), Sch.
 
-[^key-38fbb6113cdd6c24b494220348c03532]: Textual amendment: S. 24 repealed (E.W.) (9.2.2009) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [ss. 66(6)(b)](https://www.legislation.gov.uk/ukpga/2008/26/section/66/6/b), [134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 7 Pt. 3](https://www.legislation.gov.uk/ukpga/2008/26/schedule/7/part/3); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
+[^c-38fbb6113cdd6c24b494220348c03532]: Textual amendment: S. 24 repealed (E.W.) (9.2.2009) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [ss. 66(6)(b)](https://www.legislation.gov.uk/ukpga/2008/26/section/66/6/b), [134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 7 Pt. 3](https://www.legislation.gov.uk/ukpga/2008/26/schedule/7/part/3); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
 
 [^c15314511]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 

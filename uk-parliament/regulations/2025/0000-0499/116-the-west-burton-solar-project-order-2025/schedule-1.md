@@ -22,7 +22,7 @@ summary: ''
 
 Article ‎3
 
-### 1. Interpretation[^key-57786eeac7bd06cadd3835c857e27176]
+### 1. Interpretation[^c-57786eeac7bd06cadd3835c857e27176]
 
 In this Schedule—
 
@@ -35,7 +35,7 @@ In this Schedule—
 - “**switchgear**” means a combination of electrical disconnect switches, fuses or circuit breakers used to control, protect and isolate electrical equipment; and
 - “**transformer**” means a structure serving to transform electricity to a different voltage.
 
-### 2. Authorised Development[^key-7fb822b3e422f33b8a7a95ed4600ae7c]
+### 2. Authorised Development[^c-7fb822b3e422f33b8a7a95ed4600ae7c]
 
 In the District of West Lindsey and in the County of Lincolnshire a nationally significant infrastructure project as defined in sections 14 and 15 of the 2008 Act and associated development under section 115(1)(b) of the 2008 Act.
 
@@ -97,7 +97,7 @@ and associated development within the meaning of section 115(1)(b) of the 2008 A
   - (v) electrical cabling; and
   - (vi) earthworks, including soil stripping and site levelling.
 
-**3.**[^key-9169a2ba4392f1e8f4ffa5bdde3aa671][^key-7fb822b3e422f33b8a7a95ed4600ae7c] In the Districts of West Lindsey and Bassetlaw and in the Counties of Lincolnshire and Nottinghamshire a nationally significant infrastructure project as defined in sections 14 and 15 of the 2008 Act and associated development under section 115(1)(b) of the 2008 Act, comprising the following works—
+**3.**[^c-9169a2ba4392f1e8f4ffa5bdde3aa671][^c-7fb822b3e422f33b8a7a95ed4600ae7c] In the Districts of West Lindsey and Bassetlaw and in the Counties of Lincolnshire and Nottinghamshire a nationally significant infrastructure project as defined in sections 14 and 15 of the 2008 Act and associated development under section 115(1)(b) of the 2008 Act, comprising the following works—
 
 **Work No. 4**— works to the National Grid substation to facilitate connection of the authorised development to the National Grid including extending main busbar 4 and reserve busbar 3/4 gas zones to allow for the connection of a new GIS substation bay comprising—
 
@@ -266,8 +266,8 @@ and further associated development comprising such other works or operations as 
 
 ## Annotations
 
-[^key-57786eeac7bd06cadd3835c857e27176]: Commencement: Sch. 1 para. 1 in force at 15.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/116/article/1)
+[^c-57786eeac7bd06cadd3835c857e27176]: Commencement: Sch. 1 para. 1 in force at 15.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/116/article/1)
 
-[^key-7fb822b3e422f33b8a7a95ed4600ae7c]: Commencement: Sch. 1 para. 2 in force at 15.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/116/article/1)
+[^c-7fb822b3e422f33b8a7a95ed4600ae7c]: Commencement: Sch. 1 para. 2 in force at 15.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/116/article/1)
 
-[^key-9169a2ba4392f1e8f4ffa5bdde3aa671]: Commencement: Sch. 1 para. 3 in force at 15.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/116/article/1)
+[^c-9169a2ba4392f1e8f4ffa5bdde3aa671]: Commencement: Sch. 1 para. 3 in force at 15.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/116/article/1)

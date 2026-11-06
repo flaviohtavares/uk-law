@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 22.3. Intimation and service[^key-a62c50d2024c179c163077ce85cfe349]
+## 22.3. Intimation and service[^c-a62c50d2024c179c163077ce85cfe349]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a62c50d2024c179c163077ce85cfe349]: Textual amendment: Ch. 22 substituted (16.7.2024) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Appeal Court Rules 2021 Amendment) (United Nations Convention on the Rights of the Child (Incorporation) (Scotland) Act 2024) 2024 (S.S.I. 2024/195)](https://www.legislation.gov.uk/ssi/2024/195), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2024/195/paragraph/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2024/195/paragraph/3/2)
+[^c-a62c50d2024c179c163077ce85cfe349]: Textual amendment: Ch. 22 substituted (16.7.2024) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Appeal Court Rules 2021 Amendment) (United Nations Convention on the Rights of the Child (Incorporation) (Scotland) Act 2024) 2024 (S.S.I. 2024/195)](https://www.legislation.gov.uk/ssi/2024/195), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2024/195/paragraph/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2024/195/paragraph/3/2)

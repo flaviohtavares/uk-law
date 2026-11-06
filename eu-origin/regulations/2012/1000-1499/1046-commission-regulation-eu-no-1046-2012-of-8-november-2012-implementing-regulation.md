@@ -33,18 +33,18 @@ of 8 November 2012
 
 implementing Regulation (EC) No 1059/2003 of the European Parliament and of the Council on the establishment of a common classification of territorial units for statistics (NUTS), as regards the transmission of the time series for the new regional breakdown (revoked)
 
-[^key-aa986495af670b5b6b63c020b6d0a3e5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aa986495af670b5b6b63c020b6d0a3e5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-aa986495af670b5b6b63c020b6d0a3e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-aa986495af670b5b6b63c020b6d0a3e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-aa986495af670b5b6b63c020b6d0a3e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-aa986495af670b5b6b63c020b6d0a3e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-aa986495af670b5b6b63c020b6d0a3e5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aa986495af670b5b6b63c020b6d0a3e5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-aa986495af670b5b6b63c020b6d0a3e5]
+## ANNEX[^c-aa986495af670b5b6b63c020b6d0a3e5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-aa986495af670b5b6b63c020b6d0a3e5]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 207](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/207); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-aa986495af670b5b6b63c020b6d0a3e5]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 207](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/207); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

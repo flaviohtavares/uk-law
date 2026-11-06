@@ -31,7 +31,7 @@ summary: ''
 
 CIVIL AVIATION
 
-The Air Navigation (Cosmic Radiation) (Keeping of Records) Regulations 2000 (revoked)[^key-c7aba2bbc267e76c059d0b87a55b85ed]
+The Air Navigation (Cosmic Radiation) (Keeping of Records) Regulations 2000 (revoked)[^c-c7aba2bbc267e76c059d0b87a55b85ed]
 
 Made
 
@@ -45,28 +45,28 @@ Coming into force
 
 15th June 2000
 
-[^key-c7aba2bbc267e76c059d0b87a55b85ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c7aba2bbc267e76c059d0b87a55b85ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Commencement and citation[^key-c7aba2bbc267e76c059d0b87a55b85ed]
+## 1. Commencement and citation[^c-c7aba2bbc267e76c059d0b87a55b85ed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Period and requirements of the record of assessment[^key-c7aba2bbc267e76c059d0b87a55b85ed]
+## 2. Period and requirements of the record of assessment[^c-c7aba2bbc267e76c059d0b87a55b85ed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-c7aba2bbc267e76c059d0b87a55b85ed]
+## 3.[^c-c7aba2bbc267e76c059d0b87a55b85ed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c7aba2bbc267e76c059d0b87a55b85ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c7aba2bbc267e76c059d0b87a55b85ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c7aba2bbc267e76c059d0b87a55b85ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c7aba2bbc267e76c059d0b87a55b85ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c7aba2bbc267e76c059d0b87a55b85ed]: Textual amendment: Regulations revoked (7.8.2019) by [The Air Navigation (Cosmic Radiation Protection of Air Crew and Space Crew and Consequential Amendments) Order 2019 (S.I. 2019/1115)](https://www.legislation.gov.uk/uksi/2019/1115), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1115/article/1), [28(2)](https://www.legislation.gov.uk/uksi/2019/1115/article/28/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2019/1115/article/3), [28(4)](https://www.legislation.gov.uk/uksi/2019/1115/article/28/4))
+[^c-c7aba2bbc267e76c059d0b87a55b85ed]: Textual amendment: Regulations revoked (7.8.2019) by [The Air Navigation (Cosmic Radiation Protection of Air Crew and Space Crew and Consequential Amendments) Order 2019 (S.I. 2019/1115)](https://www.legislation.gov.uk/uksi/2019/1115), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1115/article/1), [28(2)](https://www.legislation.gov.uk/uksi/2019/1115/article/28/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2019/1115/article/3), [28(4)](https://www.legislation.gov.uk/uksi/2019/1115/article/28/4))

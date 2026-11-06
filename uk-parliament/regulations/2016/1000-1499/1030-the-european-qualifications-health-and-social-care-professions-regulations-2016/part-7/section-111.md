@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 111. Introductory[^key-a5c67773ec1be3489688e3357fdfa925]
+## 111. Introductory[^c-a5c67773ec1be3489688e3357fdfa925]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The Health and Personal Social Services Act (Northern Ireland) 2001[^f00090] is 
 
 ## Annotations
 
-[^key-a5c67773ec1be3489688e3357fdfa925]: Commencement: Reg. 111 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-a5c67773ec1be3489688e3357fdfa925]: Commencement: Reg. 111 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00090]: Footnote: [c. 3 (N.I.)](https://www.legislation.gov.uk/nia/2001/3).

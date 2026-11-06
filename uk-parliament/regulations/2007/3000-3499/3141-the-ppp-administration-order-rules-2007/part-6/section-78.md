@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 78. Security in court[^key-109261579b5acab618ed5900cb7e27e9]
+## 78. Security in court[^c-109261579b5acab618ed5900cb7e27e9]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-109261579b5acab618ed5900cb7e27e9]: Commencement: [Rule 78](https://www.legislation.gov.uk/uksi/2007/3141/rule/78) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-109261579b5acab618ed5900cb7e27e9]: Commencement: [Rule 78](https://www.legislation.gov.uk/uksi/2007/3141/rule/78) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 118. Committee established by contributories[^key-b30bd685b2534517508a1758c7474396]
+## 118. Committee established by contributories[^c-b30bd685b2534517508a1758c7474396]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b30bd685b2534517508a1758c7474396]: Commencement: Rule 118 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-b30bd685b2534517508a1758c7474396]: Commencement: Rule 118 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
 
 [^f00051]: Footnote: Paragraph (4) was amended by [S.I. 1987/1919](https://www.legislation.gov.uk/uksi/1987/1919).

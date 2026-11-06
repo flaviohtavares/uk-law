@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77A. Joint and several liability of traders in supply chain where tax unpaid[^key-28564d44222aff8ee2adcb115eb84a05]
+## 77A. Joint and several liability of traders in supply chain where tax unpaid[^c-28564d44222aff8ee2adcb115eb84a05]
 
 *Extent: E+W+S+N.I.*
 
-(1) This section applies to goods which fall within any one or more[^key-4be5d0d4b8d8316e55cafe055865fcf4] of the following descriptions—
+(1) This section applies to goods which fall within any one or more[^c-4be5d0d4b8d8316e55cafe055865fcf4] of the following descriptions—
 
-- (a)[^key-db49f83b6b357e9983eba1b818661340] any equipment made or adapted for use as a telephone and any other equipment made or adapted for use in connection with telephones or telecommunication;
+- (a)[^c-db49f83b6b357e9983eba1b818661340] any equipment made or adapted for use as a telephone and any other equipment made or adapted for use in connection with telephones or telecommunication;
 - (b) any equipment made or adapted for use as a computer and any other equipment made or adapted for use in connection with computers or computer systems (including, in particular, positional determination devices for use with satellite navigation systems);
 - (c) any other electronic equipment made or adapted for use by individuals for the purposes of leisure, amusement or entertainment and any other equipment made or adapted for use in connection with any such electronic equipment;
 
@@ -58,7 +58,7 @@ are jointly and severally liable to the Commissioners for that amount.
 
 (8) Subsection (6) above is without prejudice to any other way of establishing reasonable grounds for suspicion.
 
-(9)[^key-39f7fa98878222c32edf39c7a51b8d8d] The Treasury may by order amend subsection (1) above.
+(9)[^c-39f7fa98878222c32edf39c7a51b8d8d] The Treasury may by order amend subsection (1) above.
 
 (9A) The Treasury may by order amend this section in order to extend or otherwise alter the circumstances in which a person shall be presumed to have reasonable grounds for suspecting matters to be as mentioned in subsection (2)(b) above.
 
@@ -71,10 +71,10 @@ are jointly and severally liable to the Commissioners for that amount.
 
 ## Annotations
 
-[^key-28564d44222aff8ee2adcb115eb84a05]: Textual amendment: S. 77A and cross-heading inserted (retrospective to 10.4.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 18(1)](https://www.legislation.gov.uk/ukpga/2003/14/section/18/1)[(4)](https://www.legislation.gov.uk/ukpga/2003/14/section/18/4)
+[^c-28564d44222aff8ee2adcb115eb84a05]: Textual amendment: S. 77A and cross-heading inserted (retrospective to 10.4.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 18(1)](https://www.legislation.gov.uk/ukpga/2003/14/section/18/1)[(4)](https://www.legislation.gov.uk/ukpga/2003/14/section/18/4)
 
-[^key-4be5d0d4b8d8316e55cafe055865fcf4]: Textual amendment: Words in s. 77A(1) substituted (1.5.2007) by [The Value Added Tax (Amendment of section 77A of the Value Added Tax Act 1994) Order 2007 (S.I. 2007/939)](https://www.legislation.gov.uk/uksi/2007/939), [arts. 1](https://www.legislation.gov.uk/uksi/2007/939/article/1), [2(a)](https://www.legislation.gov.uk/uksi/2007/939/article/2/a)
+[^c-4be5d0d4b8d8316e55cafe055865fcf4]: Textual amendment: Words in s. 77A(1) substituted (1.5.2007) by [The Value Added Tax (Amendment of section 77A of the Value Added Tax Act 1994) Order 2007 (S.I. 2007/939)](https://www.legislation.gov.uk/uksi/2007/939), [arts. 1](https://www.legislation.gov.uk/uksi/2007/939/article/1), [2(a)](https://www.legislation.gov.uk/uksi/2007/939/article/2/a)
 
-[^key-db49f83b6b357e9983eba1b818661340]: Textual amendment: S. 77A(1)(a)-(c) substituted for s. 77A(1)(a)(b) (1.5.2007) by [The Value Added Tax (Amendment of section 77A of the Value Added Tax Act 1994) Order 2007 (S.I. 2007/939)](https://www.legislation.gov.uk/uksi/2007/939), [arts. 1](https://www.legislation.gov.uk/uksi/2007/939/article/1), [2(b)](https://www.legislation.gov.uk/uksi/2007/939/article/2/b)
+[^c-db49f83b6b357e9983eba1b818661340]: Textual amendment: S. 77A(1)(a)-(c) substituted for s. 77A(1)(a)(b) (1.5.2007) by [The Value Added Tax (Amendment of section 77A of the Value Added Tax Act 1994) Order 2007 (S.I. 2007/939)](https://www.legislation.gov.uk/uksi/2007/939), [arts. 1](https://www.legislation.gov.uk/uksi/2007/939/article/1), [2(b)](https://www.legislation.gov.uk/uksi/2007/939/article/2/b)
 
-[^key-39f7fa98878222c32edf39c7a51b8d8d]: Textual amendment: S. 77A(9)-(9B) substituted for s. 77A(9) (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 98(1)](https://www.legislation.gov.uk/ukpga/2007/11/section/98/1)
+[^c-39f7fa98878222c32edf39c7a51b8d8d]: Textual amendment: S. 77A(9)-(9B) substituted for s. 77A(9) (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 98(1)](https://www.legislation.gov.uk/ukpga/2007/11/section/98/1)

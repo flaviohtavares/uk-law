@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 7. Safety case for production installation[^key-d3e36827abc0fed2f04cb0dd65ef15d5]
+## 7. Safety case for production installation[^c-d3e36827abc0fed2f04cb0dd65ef15d5]
 
 *Extent: N.I.*
 
-(1) Subject to regulation 27, the operator of a production installation shall ensure that it is not operated within internal waters[^key-31b36a8f5e01ecf980c6f1bb28112121] unless—
+(1) Subject to regulation 27, the operator of a production installation shall ensure that it is not operated within internal waters[^c-31b36a8f5e01ecf980c6f1bb28112121] unless—
 
 - (a) he has prepared a safety case containing the particulars specified in regulation 12 and Schedule 3;
 - (b) he has sent the safety case to the Executive at least six months (or such shorter period as the Executive may specify) before commencing the operation; and
@@ -28,7 +28,7 @@ summary: ''
 
 (2) For the purposes of regulation 2(4) and paragraph (1), the operation of an installation shall be treated as commenced—
 
-- (a) on the commencement of the first well drilling operation from the installation which may involve the release of petroleum from beneath the bed of internal waters[^key-d84d7e2903c24ce65f3b303b60adcb11] ; or
+- (a) on the commencement of the first well drilling operation from the installation which may involve the release of petroleum from beneath the bed of internal waters[^c-d84d7e2903c24ce65f3b303b60adcb11] ; or
 - (b) when petroleum is brought onto the installation for the first time through a pipeline or well,
 
 whichever is earlier.
@@ -37,8 +37,8 @@ whichever is earlier.
 
 ## Annotations
 
-[^key-d3e36827abc0fed2f04cb0dd65ef15d5]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2007/247/regulation/7) in operation at 21.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/247/regulation/1)
+[^c-d3e36827abc0fed2f04cb0dd65ef15d5]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2007/247/regulation/7) in operation at 21.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/247/regulation/1)
 
-[^key-31b36a8f5e01ecf980c6f1bb28112121]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/nisr/2007/247/regulation/7/1) inserted (19.12.2016) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations (Northern Ireland) 2016 (S.R. 2016/406)](https://www.legislation.gov.uk/nisr/2016/406), [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1), [Sch. 14 para. 40](https://www.legislation.gov.uk/nisr/2016/406/schedule/14/paragraph/40) (with [reg. 4(2)](https://www.legislation.gov.uk/nisr/2016/406/regulation/4/2), [Sch. 15](https://www.legislation.gov.uk/nisr/2016/406/schedule/15))
+[^c-31b36a8f5e01ecf980c6f1bb28112121]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/nisr/2007/247/regulation/7/1) inserted (19.12.2016) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations (Northern Ireland) 2016 (S.R. 2016/406)](https://www.legislation.gov.uk/nisr/2016/406), [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1), [Sch. 14 para. 40](https://www.legislation.gov.uk/nisr/2016/406/schedule/14/paragraph/40) (with [reg. 4(2)](https://www.legislation.gov.uk/nisr/2016/406/regulation/4/2), [Sch. 15](https://www.legislation.gov.uk/nisr/2016/406/schedule/15))
 
-[^key-d84d7e2903c24ce65f3b303b60adcb11]: Textual amendment: Words in [Regulation](https://www.legislation.gov.uk/nisr/2007/247) substituted (19.12.2016) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations (Northern Ireland) 2016 (S.R. 2016/406)](https://www.legislation.gov.uk/nisr/2016/406), [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1), [Sch. 14 para. 36(3)](https://www.legislation.gov.uk/nisr/2016/406/schedule/14/paragraph/36/3) (with [regs. 4(2)](https://www.legislation.gov.uk/nisr/2016/406/regulation/4/2), [36(4)](https://www.legislation.gov.uk/nisr/2016/406/regulation/36/4), [Sch. 16](https://www.legislation.gov.uk/nisr/2016/406/schedule/16))
+[^c-d84d7e2903c24ce65f3b303b60adcb11]: Textual amendment: Words in [Regulation](https://www.legislation.gov.uk/nisr/2007/247) substituted (19.12.2016) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations (Northern Ireland) 2016 (S.R. 2016/406)](https://www.legislation.gov.uk/nisr/2016/406), [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1), [Sch. 14 para. 36(3)](https://www.legislation.gov.uk/nisr/2016/406/schedule/14/paragraph/36/3) (with [regs. 4(2)](https://www.legislation.gov.uk/nisr/2016/406/regulation/4/2), [36(4)](https://www.legislation.gov.uk/nisr/2016/406/regulation/36/4), [Sch. 16](https://www.legislation.gov.uk/nisr/2016/406/schedule/16))

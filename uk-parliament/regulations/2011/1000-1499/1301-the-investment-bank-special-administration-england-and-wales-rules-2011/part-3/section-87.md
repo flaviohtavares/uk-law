@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 87. Calculation of voting rights (creditors)[^key-6c942209d1d81559da0685a52af1be8d]
+## 87. Calculation of voting rights (creditors)[^c-6c942209d1d81559da0685a52af1be8d]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6c942209d1d81559da0685a52af1be8d]: Commencement: [Rule 87](https://www.legislation.gov.uk/uksi/2011/1301/rule/87) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-6c942209d1d81559da0685a52af1be8d]: Commencement: [Rule 87](https://www.legislation.gov.uk/uksi/2011/1301/rule/87) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. References to England and Wales in connection with IPCC functions[^c22718541][^key-63c73b60942863c7e351db775d31438d]
+## 21. References to England and Wales in connection with IPCC functions[^c22718541][^c-63c73b60942863c7e351db775d31438d]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 [^c22718541]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2017/3/section/21) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-63c73b60942863c7e351db775d31438d]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2017/3/section/21) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/h) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2))
+[^c-63c73b60942863c7e351db775d31438d]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2017/3/section/21) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/h) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2))

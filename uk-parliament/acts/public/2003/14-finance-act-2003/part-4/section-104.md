@@ -26,10 +26,10 @@ summary: ''
 
 - Part 1 defines “partnership” and contains other general provisions, and
 - Part 2 deals with ordinary partnership transactions, and
-- Part 3 makes special provision for certain transactions[^key-279207425703986f12f28c31349bb85e].
+- Part 3 makes special provision for certain transactions[^c-279207425703986f12f28c31349bb85e].
 
 ## Annotations
 
 [^c5522241]: Commencement: Pt. 4 wholly in force at Royal Assent subject to Sch. 19, see s. 124, Sch. 19 para. 1(1)
 
-[^key-279207425703986f12f28c31349bb85e]: Textual amendment: Words in s. 104(2) substituted (with effect in accordance with Sch. 41 para. 3 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 41 para. 2(a)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/41/paragraph/2/a)
+[^c-279207425703986f12f28c31349bb85e]: Textual amendment: Words in s. 104(2) substituted (with effect in accordance with Sch. 41 para. 3 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 41 para. 2(a)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/41/paragraph/2/a)

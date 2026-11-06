@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Protection of persons affected[^key-1344f49d7ddfe6f735a407e6e1e2c5f0]
+## 81. Protection of persons affected[^c-1344f49d7ddfe6f735a407e6e1e2c5f0]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1344f49d7ddfe6f735a407e6e1e2c5f0]: Commencement: [Art. 81](https://www.legislation.gov.uk/uksi/2005/3181/article/81) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-1344f49d7ddfe6f735a407e6e1e2c5f0]: Commencement: [Art. 81](https://www.legislation.gov.uk/uksi/2005/3181/article/81) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

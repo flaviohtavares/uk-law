@@ -42,21 +42,21 @@ Coming into force
 
 A draft of these Regulations was laid before Parliament in accordance with section 236(3) of the Employment Rights Act 1996[^f00001] and approved by resolution of each House of Parliament.
 
-The Secretary of State, in exercise of the powers conferred by sections 71(2), (3)(ba) and (bb) and (3A), 73(2), (3)(a) and (aa) and (3A), 75(1)(a) and (2), 75A(1A), (2), (2A) and (2B), 75B(2), (3)(a) and (aa) and (3A) and 75D(1)(a) and (2) of the Employment Rights Act 1996[^f00002], makes the following Regulations:[^key-4092cdc3cc8248fe5de096a977ed5686][^key-5dbd5f923a8bc6e7a796be1be291bcd5]
+The Secretary of State, in exercise of the powers conferred by sections 71(2), (3)(ba) and (bb) and (3A), 73(2), (3)(a) and (aa) and (3A), 75(1)(a) and (2), 75A(1A), (2), (2A) and (2B), 75B(2), (3)(a) and (aa) and (3A) and 75D(1)(a) and (2) of the Employment Rights Act 1996[^f00002], makes the following Regulations:[^c-4092cdc3cc8248fe5de096a977ed5686][^c-5dbd5f923a8bc6e7a796be1be291bcd5]
 
 ## PART 1 — GENERAL
 
-### 1. Citation and commencement[^key-e4d74703f68dca5914f5bc46c1eb868e]
+### 1. Citation and commencement[^c-e4d74703f68dca5914f5bc46c1eb868e]
 
 These Regulations may be cited as the Maternity and Adoption Leave (Curtailment of Statutory Rights to Leave) Regulations 2014 and come into force on 1st December 2014.
 
-### 2. Application[^key-e0eb0dc69dd58fdcb46cbae413a3b78d]
+### 2. Application[^c-e0eb0dc69dd58fdcb46cbae413a3b78d]
 
 (1) Part 2 of these Regulations has effect only in relation to children whose expected week of birth begins on or after 5th April 2015.
 
 (2) Part 3 of these Regulations has effect only in relation to children placed for adoption on or after 5th April 2015.
 
-### 3. Interpretation[^key-15565398bee98c65c26639769fdd8e03]
+### 3. Interpretation[^c-15565398bee98c65c26639769fdd8e03]
 
 (1) In these Regulations—
 
@@ -108,7 +108,7 @@ These Regulations may be cited as the Maternity and Adoption Leave (Curtailment 
 - (a) an adoption agency decides that that person would be a suitable adoptive parent for the child, either individually or jointly with another person; or
 - (b) a decision has been made in accordance with regulation 22A of the Care Planning, Placement and Case Review (England) Regulations 2010[^f00012] and an adoption agency has identified that person as the person with whom the child is to be placed in accordance with regulation 12B of the Adoption Agencies Regulations 2005.
 
-### 4. Notices[^key-09c6145b67f16ac4e56a957efc0a291a]
+### 4. Notices[^c-09c6145b67f16ac4e56a957efc0a291a]
 
 (1) Where a notice is to be given under these Regulations, it may be given—
 
@@ -126,7 +126,7 @@ These Regulations may be cited as the Maternity and Adoption Leave (Curtailment 
 
 ## PART 2 — CURTAILMENT OF STATUTORY MATERNITY LEAVE
 
-### 5. Entitlement to curtail statutory maternity leave[^key-cc70c11b25edc6b98c736c2f72108166]
+### 5. Entitlement to curtail statutory maternity leave[^c-cc70c11b25edc6b98c736c2f72108166]
 
 (1) M may bring forward the date on which her ordinary maternity leave period[^f00013] or additional maternity leave period[^f00014] ends by giving her employer a leave curtailment notice and either—
 
@@ -139,7 +139,7 @@ These Regulations may be cited as the Maternity and Adoption Leave (Curtailment 
 
 (4) M’s obligation in paragraph (3) does not apply in relation to any employer with which she has returned to work on or before the date on which she gives notices in accordance with paragraphs (1) and (2).
 
-### 6. Leave curtailment notice[^key-89de1957dabea4770f3e53b0fee9edef]
+### 6. Leave curtailment notice[^c-89de1957dabea4770f3e53b0fee9edef]
 
 (1) A leave curtailment notice must be in writing and must state—
 
@@ -157,13 +157,13 @@ These Regulations may be cited as the Maternity and Adoption Leave (Curtailment 
 - (a) the last day of the compulsory maternity leave period provided for in regulations under section 72(2) of the 1996 Act; or
 - (b) where section 205 of the Public Health Act 1936[^f00015] (women not to be employed in factories or workshops within four weeks after birth of child) applies to M’s employment, the last day of the period in which an occupier of a factory is prohibited from knowingly allowing M to be employed in that factory.
 
-### 7. Effect of the leave curtailment notice[^key-e304925201927cf0698bc2ee7eb0f73d]
+### 7. Effect of the leave curtailment notice[^c-e304925201927cf0698bc2ee7eb0f73d]
 
 (1) Where M has brought forward the date on which her ordinary maternity leave period or additional maternity leave period ends in accordance with regulation 5, her statutory maternity leave period will end on the leave curtailment date.
 
 (2) In this regulation “statutory maternity leave period” means the period during which M is on statutory maternity leave.
 
-### 8. Revocation[^key-83080810da1be9def219f4efdeb9433e]
+### 8. Revocation[^c-83080810da1be9def219f4efdeb9433e]
 
 (1) M may revoke a leave curtailment notice by giving a revocation notice if—
 
@@ -191,7 +191,7 @@ These Regulations may be cited as the Maternity and Adoption Leave (Curtailment 
 
 ## PART 3 — CURTAILMENT OF STATUTORY ADOPTION LEAVE
 
-### 9. Entitlement to curtail statutory adoption leave[^key-efc3c3f96901e57807dca7d1818e3d31]
+### 9. Entitlement to curtail statutory adoption leave[^c-efc3c3f96901e57807dca7d1818e3d31]
 
 (1) A may bring forward the date on which A’s ordinary adoption leave period[^f00016] or additional adoption leave period[^f00017] ends by giving A’s employer a leave curtailment notice and either—
 
@@ -204,7 +204,7 @@ These Regulations may be cited as the Maternity and Adoption Leave (Curtailment 
 
 (4) A’s obligation in paragraph (3) does not apply in relation to any employer with which A has returned to work on or before the date on which A gives notices in accordance with paragraphs (1) and (2).
 
-### 10. Leave curtailment notice: adoption[^key-abe7039eeb26c9f3cb5760a161904392]
+### 10. Leave curtailment notice: adoption[^c-abe7039eeb26c9f3cb5760a161904392]
 
 (1) A leave curtailment notice must be in writing and must state -
 
@@ -217,13 +217,13 @@ These Regulations may be cited as the Maternity and Adoption Leave (Curtailment 
 - (b) at least two weeks after the first day of A’s ordinary adoption leave period; and
 - (c) where A curtails A’s additional adoption leave period, at least one week before the last day of A’s additional adoption leave period.
 
-### 11. Effect of the leave curtailment notice: adoption[^key-b37f0b59bf069be584abb6d22b37f727]
+### 11. Effect of the leave curtailment notice: adoption[^c-b37f0b59bf069be584abb6d22b37f727]
 
 (1) Where A has brought forward the date on which A’s ordinary adoption leave period or additional adoption leave period ends in accordance with regulation 9, A’s statutory adoption leave period will end on the leave curtailment date.
 
 (2) In this Regulation “statutory adoption leave period” means the period during which A is on statutory adoption leave.
 
-### 12. Revocation: adoption[^key-1bed3cec2ba1f6aebdd889cc7b63aad6]
+### 12. Revocation: adoption[^c-1bed3cec2ba1f6aebdd889cc7b63aad6]
 
 (1) A may revoke a leave curtailment notice by giving a revocation notice if—
 
@@ -233,13 +233,13 @@ These Regulations may be cited as the Maternity and Adoption Leave (Curtailment 
 (2) A revocation notice must be given to A’s employer before the leave curtailment date and—
 
 - (a) if given in accordance with paragraph (1)(a), within 8 weeks of the date on which A gave the leave curtailment notice to A’s employer in accordance with regulation 9(1);
-- (b) if given in accordance with paragraph (1)(b), within a reasonable time of the date of AP’s[^key-2b39574e6be9dd90b5418bccec5fcbde] death.
+- (b) if given in accordance with paragraph (1)(b), within a reasonable time of the date of AP’s[^c-2b39574e6be9dd90b5418bccec5fcbde] death.
 
 (3) A revocation notice—
 
 - (a) must be in writing;
 - (b) must state that A revokes the leave curtailment notice; and
-- (c) if given in accordance with paragraph (1)(b), must state the date of AP’s[^key-8c4bfc9e6be7a690c97529fbe28d8325] death.
+- (c) if given in accordance with paragraph (1)(b), must state the date of AP’s[^c-8c4bfc9e6be7a690c97529fbe28d8325] death.
 
 (4) If A has given a leave curtailment notice to more than one employer, A must give revocation notices to each of those employers.
 
@@ -289,15 +289,15 @@ A separate impact assessment has not been prepared for these Regulations. These 
 
 [^f00002]: Footnote: Subsections 71(3)(ba) and (bb) and (3A) were inserted by section 118(2) of the Children and Families Act [2014 (c.6)](https://www.legislation.gov.uk/ukpga/2014/6). Subsection (3)(a) of section 73 was amended by and subsections (3)(aa) and (3A) of that section were inserted by section 118(3) of the Children and Families Act 2014. Sections 75A, 75B and 75D were inserted by the Employment Act [2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22), section 3. Subsection (1A) of section 75A was inserted by 121(1) of the Children and Families Act 2014. Subsection (2A) was inserted by the Work and Families Act 2006, Schedule 1, paragraph 33. Subsection (2A) of section 75A was amended by and subsection (2B) was inserted by section 118(4) of the Children and Families Act 2014. Subsection (3)(a) of section 75B was amended by and subsections (3)(aa) and (3A) were inserted by section 118(5) of the Children and Families Act 2014.
 
-[^key-4092cdc3cc8248fe5de096a977ed5686]: Modification: Regulations applied in part (with modifications) (1.12.2014) by [The Paternity, Adoption and Shared Parental Leave (Parental Order Cases) Regulations 2014 (S.I. 2014/3096)](https://www.legislation.gov.uk/uksi/2014/3096), [regs. 4](https://www.legislation.gov.uk/uksi/2014/3096/regulation/4), [18](https://www.legislation.gov.uk/uksi/2014/3096/regulation/18), [19](https://www.legislation.gov.uk/uksi/2014/3096/regulation/19) (as amended (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/9))
+[^c-4092cdc3cc8248fe5de096a977ed5686]: Modification: Regulations applied in part (with modifications) (1.12.2014) by [The Paternity, Adoption and Shared Parental Leave (Parental Order Cases) Regulations 2014 (S.I. 2014/3096)](https://www.legislation.gov.uk/uksi/2014/3096), [regs. 4](https://www.legislation.gov.uk/uksi/2014/3096/regulation/4), [18](https://www.legislation.gov.uk/uksi/2014/3096/regulation/18), [19](https://www.legislation.gov.uk/uksi/2014/3096/regulation/19) (as amended (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/9))
 
-[^key-5dbd5f923a8bc6e7a796be1be291bcd5]: Modification: Regulations applied (with modifications) (5.4.2015) by [The Shared Parental Leave and Paternity and Adoption Leave (Adoptions from Overseas) Regulations 2014 (S.I. 2014/3092)](https://www.legislation.gov.uk/uksi/2014/3092), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3092/regulation/1), [3-6](https://www.legislation.gov.uk/uksi/2014/3092/regulation/3)
+[^c-5dbd5f923a8bc6e7a796be1be291bcd5]: Modification: Regulations applied (with modifications) (5.4.2015) by [The Shared Parental Leave and Paternity and Adoption Leave (Adoptions from Overseas) Regulations 2014 (S.I. 2014/3092)](https://www.legislation.gov.uk/uksi/2014/3092), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3092/regulation/1), [3-6](https://www.legislation.gov.uk/uksi/2014/3092/regulation/3)
 
-[^key-e4d74703f68dca5914f5bc46c1eb868e]: Commencement: Reg. 1 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3052/regulation/1)
+[^c-e4d74703f68dca5914f5bc46c1eb868e]: Commencement: Reg. 1 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3052/regulation/1)
 
-[^key-e0eb0dc69dd58fdcb46cbae413a3b78d]: Commencement: Reg. 2 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3052/regulation/1)
+[^c-e0eb0dc69dd58fdcb46cbae413a3b78d]: Commencement: Reg. 2 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3052/regulation/1)
 
-[^key-15565398bee98c65c26639769fdd8e03]: Commencement: Reg. 3 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3052/regulation/1)
+[^c-15565398bee98c65c26639769fdd8e03]: Commencement: Reg. 3 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3052/regulation/1)
 
 [^f00003]: Footnote: [S.I. 2002/2788](https://www.legislation.gov.uk/uksi/2002/2788); election is dealt with in regulation 2(4)(c) of these Regulations.
 
@@ -319,34 +319,34 @@ A separate impact assessment has not been prepared for these Regulations. These 
 
 [^f00012]: Footnote: [S.I. 2010/959](https://www.legislation.gov.uk/uksi/2010/959); amended by [S.I. 2014/1556](https://www.legislation.gov.uk/uksi/2014/1556).
 
-[^key-09c6145b67f16ac4e56a957efc0a291a]: Commencement: Reg. 4 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3052/regulation/1)
+[^c-09c6145b67f16ac4e56a957efc0a291a]: Commencement: Reg. 4 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3052/regulation/1)
 
-[^key-cc70c11b25edc6b98c736c2f72108166]: Commencement: Reg. 5 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3052/regulation/1)
+[^c-cc70c11b25edc6b98c736c2f72108166]: Commencement: Reg. 5 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3052/regulation/1)
 
 [^f00013]: Footnote: Ordinary maternity leave period is determined in accordance with section 71(2) of the 1996 Act and [S.I. 1999/3312](https://www.legislation.gov.uk/uksi/1999/3312).
 
 [^f00014]: Footnote: Additional maternity leave period is determined in accordance with section 73(2) of the 1996 Act and [S.I. 1999/3312](https://www.legislation.gov.uk/uksi/1999/3312).
 
-[^key-89de1957dabea4770f3e53b0fee9edef]: Commencement: Reg. 6 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3052/regulation/1)
+[^c-89de1957dabea4770f3e53b0fee9edef]: Commencement: Reg. 6 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3052/regulation/1)
 
 [^f00015]: Footnote: [1936 c.49](https://www.legislation.gov.uk/ukpga/1936/49); as amended by the Statute Law (Repeals) Act [1993 (c.50)](https://www.legislation.gov.uk/ukpga/1993/50), section 1; Schedule 1, Part 14 and the Statute Law (Repeals) Act [2004 (c.14)](https://www.legislation.gov.uk/ukpga/2004/14); section 1; Schedule 1, Part 13.
 
-[^key-e304925201927cf0698bc2ee7eb0f73d]: Commencement: Reg. 7 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3052/regulation/1)
+[^c-e304925201927cf0698bc2ee7eb0f73d]: Commencement: Reg. 7 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3052/regulation/1)
 
-[^key-83080810da1be9def219f4efdeb9433e]: Commencement: Reg. 8 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3052/regulation/1)
+[^c-83080810da1be9def219f4efdeb9433e]: Commencement: Reg. 8 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3052/regulation/1)
 
-[^key-efc3c3f96901e57807dca7d1818e3d31]: Commencement: Reg. 9 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3052/regulation/1)
+[^c-efc3c3f96901e57807dca7d1818e3d31]: Commencement: Reg. 9 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3052/regulation/1)
 
 [^f00016]: Footnote: Ordinary adoption leave period is determined in accordance with section 75A of the 1996 Act and [S.I. 2002/2788](https://www.legislation.gov.uk/uksi/2002/2788).
 
 [^f00017]: Footnote: Additional adoption leave period is determined in accordance with section 75B of the 1996 Act and [S.I. 2002/2788](https://www.legislation.gov.uk/uksi/2002/2788).
 
-[^key-abe7039eeb26c9f3cb5760a161904392]: Commencement: Reg. 10 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3052/regulation/1)
+[^c-abe7039eeb26c9f3cb5760a161904392]: Commencement: Reg. 10 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3052/regulation/1)
 
-[^key-b37f0b59bf069be584abb6d22b37f727]: Commencement: Reg. 11 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3052/regulation/1)
+[^c-b37f0b59bf069be584abb6d22b37f727]: Commencement: Reg. 11 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3052/regulation/1)
 
-[^key-1bed3cec2ba1f6aebdd889cc7b63aad6]: Commencement: Reg. 12 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3052/regulation/1)
+[^c-1bed3cec2ba1f6aebdd889cc7b63aad6]: Commencement: Reg. 12 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3052/regulation/1)
 
-[^key-2b39574e6be9dd90b5418bccec5fcbde]: Textual amendment: Word in [reg. 12(2)(b)](https://www.legislation.gov.uk/uksi/2014/3052/regulation/12/2/b) substituted (5.4.2015) by [The Shared Parental Leave and Leave Curtailment (Amendment) Regulations 2015 (S.I. 2015/552)](https://www.legislation.gov.uk/uksi/2015/552), [regs. 1](https://www.legislation.gov.uk/uksi/2015/552/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2015/552/regulation/3/2)
+[^c-2b39574e6be9dd90b5418bccec5fcbde]: Textual amendment: Word in [reg. 12(2)(b)](https://www.legislation.gov.uk/uksi/2014/3052/regulation/12/2/b) substituted (5.4.2015) by [The Shared Parental Leave and Leave Curtailment (Amendment) Regulations 2015 (S.I. 2015/552)](https://www.legislation.gov.uk/uksi/2015/552), [regs. 1](https://www.legislation.gov.uk/uksi/2015/552/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2015/552/regulation/3/2)
 
-[^key-8c4bfc9e6be7a690c97529fbe28d8325]: Textual amendment: Word in [reg. 12(3)(c)](https://www.legislation.gov.uk/uksi/2014/3052/regulation/12/3/c) substituted (5.4.2015) by [The Shared Parental Leave and Leave Curtailment (Amendment) Regulations 2015 (S.I. 2015/552)](https://www.legislation.gov.uk/uksi/2015/552), [regs. 1](https://www.legislation.gov.uk/uksi/2015/552/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2015/552/regulation/3/2)
+[^c-8c4bfc9e6be7a690c97529fbe28d8325]: Textual amendment: Word in [reg. 12(3)(c)](https://www.legislation.gov.uk/uksi/2014/3052/regulation/12/3/c) substituted (5.4.2015) by [The Shared Parental Leave and Leave Curtailment (Amendment) Regulations 2015 (S.I. 2015/552)](https://www.legislation.gov.uk/uksi/2015/552), [regs. 1](https://www.legislation.gov.uk/uksi/2015/552/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2015/552/regulation/3/2)

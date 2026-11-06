@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.8. Procedure[^key-54f377c414827e82fb6d7a905ef97c5c]
+## 3.8. Procedure[^c-54f377c414827e82fb6d7a905ef97c5c]
 
 *Extent: S*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-54f377c414827e82fb6d7a905ef97c5c]: Commencement: [Rule 3.8](https://www.legislation.gov.uk/ssi/2017/103/rule/3.8) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-54f377c414827e82fb6d7a905ef97c5c]: Commencement: [Rule 3.8](https://www.legislation.gov.uk/ssi/2017/103/rule/3.8) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)

@@ -26,9 +26,9 @@ This is subject to subsections (2) and (3).
 
 *Step 1*
 
-Take the amount of the trustees' tax pool available for the previous tax year and deduct from that amount (but not so that it goes below nil)—[^key-9e08907a90a8954daaa84325ed9118a5]
+Take the amount of the trustees' tax pool available for the previous tax year and deduct from that amount (but not so that it goes below nil)—[^c-9e08907a90a8954daaa84325ed9118a5]
 
-- (a) the total amount of income tax treated under section 494 as having been paid as a result of payments made by the trustees in the previous tax year, and[^key-271dc2c2124a64df1f8d3048e62b233d]
+- (a) the total amount of income tax treated under section 494 as having been paid as a result of payments made by the trustees in the previous tax year, and[^c-271dc2c2124a64df1f8d3048e62b233d]
 - (b) the amount to which the trustees are entitled under section 496B in respect of the previous tax year.
 
 *Step 2*
@@ -50,6 +50,6 @@ ignore Steps 1 and 3 and, accordingly, the trustees' tax pool available for the 
 
 ## Annotations
 
-[^key-9e08907a90a8954daaa84325ed9118a5]: Textual amendment: Word in s. 497(1) inserted (with effect in accordance with art. 3(8) of the amending S.I.) by [The Enactment of Extra-Statutory Concessions Order 2010 (S.I. 2010/157)](https://www.legislation.gov.uk/uksi/2010/157), [arts. 1](https://www.legislation.gov.uk/uksi/2010/157/article/1), [3(5)(a)](https://www.legislation.gov.uk/uksi/2010/157/article/3/5/a) (with [art. 3(10)](https://www.legislation.gov.uk/uksi/2010/157/article/3/10))
+[^c-9e08907a90a8954daaa84325ed9118a5]: Textual amendment: Word in s. 497(1) inserted (with effect in accordance with art. 3(8) of the amending S.I.) by [The Enactment of Extra-Statutory Concessions Order 2010 (S.I. 2010/157)](https://www.legislation.gov.uk/uksi/2010/157), [arts. 1](https://www.legislation.gov.uk/uksi/2010/157/article/1), [3(5)(a)](https://www.legislation.gov.uk/uksi/2010/157/article/3/5/a) (with [art. 3(10)](https://www.legislation.gov.uk/uksi/2010/157/article/3/10))
 
-[^key-271dc2c2124a64df1f8d3048e62b233d]: Textual amendment: Words in s. 497(1) inserted (with effect in accordance with art. 3(8) of the amending S.I.) by [The Enactment of Extra-Statutory Concessions Order 2010 (S.I. 2010/157)](https://www.legislation.gov.uk/uksi/2010/157), [arts. 1](https://www.legislation.gov.uk/uksi/2010/157/article/1), [3(5)(b)](https://www.legislation.gov.uk/uksi/2010/157/article/3/5/b) (with [art. 3(10)](https://www.legislation.gov.uk/uksi/2010/157/article/3/10))
+[^c-271dc2c2124a64df1f8d3048e62b233d]: Textual amendment: Words in s. 497(1) inserted (with effect in accordance with art. 3(8) of the amending S.I.) by [The Enactment of Extra-Statutory Concessions Order 2010 (S.I. 2010/157)](https://www.legislation.gov.uk/uksi/2010/157), [arts. 1](https://www.legislation.gov.uk/uksi/2010/157/article/1), [3(5)(b)](https://www.legislation.gov.uk/uksi/2010/157/article/3/5/b) (with [art. 3(10)](https://www.legislation.gov.uk/uksi/2010/157/article/3/10))

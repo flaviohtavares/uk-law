@@ -26,13 +26,13 @@ summary: ''
 
 (3) For the purposes of this rule the relevant period is—
 
-- (a) where the comptroller's decision to make an order under those provisions is not appealed, three months beginning immediately after[^key-dafe0cd3089ae6c7cc628fa6b0d0e744] the date on which the order was made; or
-- (b) where that decision is appealed, three months beginning immediately after[^key-3760532425381c7796480d7362a02ce6] the date on which the appeal was finally disposed of.
+- (a) where the comptroller's decision to make an order under those provisions is not appealed, three months beginning immediately after[^c-dafe0cd3089ae6c7cc628fa6b0d0e744] the date on which the order was made; or
+- (b) where that decision is appealed, three months beginning immediately after[^c-3760532425381c7796480d7362a02ce6] the date on which the appeal was finally disposed of.
 
 (4) But the comptroller may, if he thinks fit, shorten the relevant period after giving the parties such notice and subject to such conditions as the comptroller may direct.
 
 ## Annotations
 
-[^key-dafe0cd3089ae6c7cc628fa6b0d0e744]: Textual amendment: Words in [rule 20(3)(a)](https://www.legislation.gov.uk/uksi/2007/3291/rule/20/3/a) substituted (1.10.2011) by [The Patents (Amendment) Rules 2011 (S.I. 2011/2052)](https://www.legislation.gov.uk/uksi/2011/2052), [rules 1](https://www.legislation.gov.uk/uksi/2011/2052/rule/1), [3](https://www.legislation.gov.uk/uksi/2011/2052/rule/3), [Sch.](https://www.legislation.gov.uk/uksi/2011/2052/schedule) (with [rule 4](https://www.legislation.gov.uk/uksi/2011/2052/rule/4))
+[^c-dafe0cd3089ae6c7cc628fa6b0d0e744]: Textual amendment: Words in [rule 20(3)(a)](https://www.legislation.gov.uk/uksi/2007/3291/rule/20/3/a) substituted (1.10.2011) by [The Patents (Amendment) Rules 2011 (S.I. 2011/2052)](https://www.legislation.gov.uk/uksi/2011/2052), [rules 1](https://www.legislation.gov.uk/uksi/2011/2052/rule/1), [3](https://www.legislation.gov.uk/uksi/2011/2052/rule/3), [Sch.](https://www.legislation.gov.uk/uksi/2011/2052/schedule) (with [rule 4](https://www.legislation.gov.uk/uksi/2011/2052/rule/4))
 
-[^key-3760532425381c7796480d7362a02ce6]: Textual amendment: Words in [rule 20(3)(b)](https://www.legislation.gov.uk/uksi/2007/3291/rule/20/3/b) substituted (1.10.2011) by [The Patents (Amendment) Rules 2011 (S.I. 2011/2052)](https://www.legislation.gov.uk/uksi/2011/2052), [rules 1](https://www.legislation.gov.uk/uksi/2011/2052/rule/1), [3](https://www.legislation.gov.uk/uksi/2011/2052/rule/3), [Sch.](https://www.legislation.gov.uk/uksi/2011/2052/schedule) (with [rule 4](https://www.legislation.gov.uk/uksi/2011/2052/rule/4))
+[^c-3760532425381c7796480d7362a02ce6]: Textual amendment: Words in [rule 20(3)(b)](https://www.legislation.gov.uk/uksi/2007/3291/rule/20/3/b) substituted (1.10.2011) by [The Patents (Amendment) Rules 2011 (S.I. 2011/2052)](https://www.legislation.gov.uk/uksi/2011/2052), [rules 1](https://www.legislation.gov.uk/uksi/2011/2052/rule/1), [3](https://www.legislation.gov.uk/uksi/2011/2052/rule/3), [Sch.](https://www.legislation.gov.uk/uksi/2011/2052/schedule) (with [rule 4](https://www.legislation.gov.uk/uksi/2011/2052/rule/4))

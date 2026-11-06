@@ -28,7 +28,7 @@ summary: ''
 
 (4) A person is ineligible for membership of the court for any appellate proceedings if at any time since the date of the commission of any offence to which the proceedings relate he and any appellant were serving in the same unit.
 
-(4A)[^key-94f46cfa57e1d63d19d2618f0e91566d] A person is ineligible for membership of the court for any review of sentence proceedings if, at any time since the date of the commission of any offence for which the sentence that falls to be reviewed was imposed, that person and the offender were serving in the same unit.
+(4A)[^c-94f46cfa57e1d63d19d2618f0e91566d] A person is ineligible for membership of the court for any review of sentence proceedings if, at any time since the date of the commission of any offence for which the sentence that falls to be reviewed was imposed, that person and the offender were serving in the same unit.
 
 (5) A person is ineligible for membership of the court for any activation proceedings if at any time since the date of the commission of the offence for which the original sentence was passed he and the offender were serving in the same unit.
 
@@ -41,7 +41,7 @@ summary: ''
 - (a) any trial or appellate proceedings in which the offender was convicted of any offence for which the sentence that falls to be varied was imposed; or
 - (b) the proceedings in which that sentence was imposed.
 
-(8A)[^key-95a05a71df473392ccd6fdc102956281] A person is not ineligible for membership of the court for review of sentence proceedings by virtue of having been a member of the court for—
+(8A)[^c-95a05a71df473392ccd6fdc102956281] A person is not ineligible for membership of the court for review of sentence proceedings by virtue of having been a member of the court for—
 
 - (a) any trial or appellate proceedings in which the offender was convicted of any offence for which the sentence that falls to be reviewed was imposed;
 - (b) any proceedings in which the sentence that falls to be reviewed was imposed or varied.
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-94f46cfa57e1d63d19d2618f0e91566d]: Textual amendment: [Rule 32(4A)](https://www.legislation.gov.uk/uksi/2009/2041/rule/32/4A) inserted (16.10.2024) by [The Armed Forces (Court Martial) (Amendment) Rules 2024 (S.I. 2024/1036)](https://www.legislation.gov.uk/uksi/2024/1036), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1036/rule/1/2), [11(a)](https://www.legislation.gov.uk/uksi/2024/1036/rule/11/a)
+[^c-94f46cfa57e1d63d19d2618f0e91566d]: Textual amendment: [Rule 32(4A)](https://www.legislation.gov.uk/uksi/2009/2041/rule/32/4A) inserted (16.10.2024) by [The Armed Forces (Court Martial) (Amendment) Rules 2024 (S.I. 2024/1036)](https://www.legislation.gov.uk/uksi/2024/1036), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1036/rule/1/2), [11(a)](https://www.legislation.gov.uk/uksi/2024/1036/rule/11/a)
 
-[^key-95a05a71df473392ccd6fdc102956281]: Textual amendment: [Rule 32(8A)](https://www.legislation.gov.uk/uksi/2009/2041/rule/32/8A) inserted (16.10.2024) by [The Armed Forces (Court Martial) (Amendment) Rules 2024 (S.I. 2024/1036)](https://www.legislation.gov.uk/uksi/2024/1036), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1036/rule/1/2), [11(b)](https://www.legislation.gov.uk/uksi/2024/1036/rule/11/b)
+[^c-95a05a71df473392ccd6fdc102956281]: Textual amendment: [Rule 32(8A)](https://www.legislation.gov.uk/uksi/2009/2041/rule/32/8A) inserted (16.10.2024) by [The Armed Forces (Court Martial) (Amendment) Rules 2024 (S.I. 2024/1036)](https://www.legislation.gov.uk/uksi/2024/1036), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1036/rule/1/2), [11(b)](https://www.legislation.gov.uk/uksi/2024/1036/rule/11/b)

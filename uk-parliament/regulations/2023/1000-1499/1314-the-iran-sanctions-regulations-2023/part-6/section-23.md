@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Definition of “restricted goods” and “restricted technology”[^key-b26c85e5fe7e82619cfd43c768210a61]
+## 23. Definition of “restricted goods” and “restricted technology”[^c-b26c85e5fe7e82619cfd43c768210a61]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ In this Part—
 
 ## Annotations
 
-[^key-b26c85e5fe7e82619cfd43c768210a61]: Commencement: Reg. 23 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-b26c85e5fe7e82619cfd43c768210a61]: Commencement: Reg. 23 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)

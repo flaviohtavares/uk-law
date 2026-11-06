@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17. Financial contributions by charities[^key-2b8361f8031f3695a86faa39d472cfe5]
+## 17. Financial contributions by charities[^c-2b8361f8031f3695a86faa39d472cfe5]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2b8361f8031f3695a86faa39d472cfe5]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2021/15/section/17) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
+[^c-2b8361f8031f3695a86faa39d472cfe5]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2021/15/section/17) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)

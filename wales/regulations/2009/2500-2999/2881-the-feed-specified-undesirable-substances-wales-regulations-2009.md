@@ -31,7 +31,7 @@ summary: ''
 
 AGRICULTURE, WALES
 
-The Feed (Specified Undesirable Substances) (Wales) Regulations 2009 (revoked)[^key-0139a1ab18715ba9367d27fb43d3ffda]
+The Feed (Specified Undesirable Substances) (Wales) Regulations 2009 (revoked)[^c-0139a1ab18715ba9367d27fb43d3ffda]
 
 Made
 
@@ -45,23 +45,23 @@ Coming into force
 
 23 November 2009
 
-[^key-0139a1ab18715ba9367d27fb43d3ffda]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0139a1ab18715ba9367d27fb43d3ffda]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and Commencement[^key-0139a1ab18715ba9367d27fb43d3ffda]
+## 1. Title and Commencement[^c-0139a1ab18715ba9367d27fb43d3ffda]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Feeding Stuffs (Wales) Regulations 2006[^key-0139a1ab18715ba9367d27fb43d3ffda]
+## 2. Amendment to the Feeding Stuffs (Wales) Regulations 2006[^c-0139a1ab18715ba9367d27fb43d3ffda]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0139a1ab18715ba9367d27fb43d3ffda]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0139a1ab18715ba9367d27fb43d3ffda]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Entries to comprise Chapter E of Schedule 5 to the Feeding Stuffs (Wales) Regulations 2006[^key-0139a1ab18715ba9367d27fb43d3ffda]
+## SCHEDULE — Entries to comprise Chapter E of Schedule 5 to the Feeding Stuffs (Wales) Regulations 2006[^c-0139a1ab18715ba9367d27fb43d3ffda]
 
 Regulation 2
 
@@ -69,8 +69,8 @@ Regulation 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-0139a1ab18715ba9367d27fb43d3ffda]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0139a1ab18715ba9367d27fb43d3ffda]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0139a1ab18715ba9367d27fb43d3ffda]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2009/2881) revoked (23.11.2010) by [The Animal Feed (Wales) Regulations 2010 (S.I. 2010/2652)](https://www.legislation.gov.uk/wsi/2010/2652), [reg. 1](https://www.legislation.gov.uk/wsi/2010/2652/regulation/1), [Sch. 2](https://www.legislation.gov.uk/wsi/2010/2652/schedule/2)
+[^c-0139a1ab18715ba9367d27fb43d3ffda]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2009/2881) revoked (23.11.2010) by [The Animal Feed (Wales) Regulations 2010 (S.I. 2010/2652)](https://www.legislation.gov.uk/wsi/2010/2652), [reg. 1](https://www.legislation.gov.uk/wsi/2010/2652/regulation/1), [Sch. 2](https://www.legislation.gov.uk/wsi/2010/2652/schedule/2)

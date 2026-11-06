@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19DZA. Duty to allow others to use LNG import or export facilities: exemptions in relation to take-or-pay commitments[^key-659d069930bff47f059b39d73dd97e1f]
+## 19DZA. Duty to allow others to use LNG import or export facilities: exemptions in relation to take-or-pay commitments[^c-659d069930bff47f059b39d73dd97e1f]
 
 *Extent: E+W+S*
 
@@ -43,7 +43,7 @@ summary: ''
 - (a) having regard to any steps taken by the owner to prevent the difficulties from arising, the only reasonably available means of prevention is an exemption under this section; and
 - (b) an exemption ought to be given, having regard to—
   - (i) the objective of achieving a competitive gas market;
-  - (ii) the need for the owner to comply with any relevant public service obligation which applies to the owner;[^key-530c1666ae1416ef4d6d450f6a34ec2a]
+  - (ii) the need for the owner to comply with any relevant public service obligation which applies to the owner;[^c-530c1666ae1416ef4d6d450f6a34ec2a]
   - (iii) the need to ensure security of the supply of gas;
   - (iv) the position of the owner of the facility in the gas market and the level of competition in the market;
   - (v) the level of seriousness of the difficulties;
@@ -52,32 +52,32 @@ summary: ''
   - (viii) the significance of the facility to the gas market; and
   - (ix) the overall effect of the exemption on the operation of an economically efficient gas market.
 
-(5A)[^key-1acba7583aa7330986451fb6fa889031] In subsection (5)(b)(ii) “**public service obligation**” has the same meaning as in section 19D.
+(5A)[^c-1acba7583aa7330986451fb6fa889031] In subsection (5)(b)(ii) “**public service obligation**” has the same meaning as in section 19D.
 
 (6) An exemption under this section must be given for a limited period and in writing and must specify—
 
 - (a) the period of the exemption; and
 - (b) any conditions the Authority considers necessary in order to ensure that the owner takes all reasonably practicable steps to ensure that, by the time the exemption expires, the difficulties would no longer arise.
 
-(7)[^key-dac678e825d5ed681b12f7a2740e348a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-dac678e825d5ed681b12f7a2740e348a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) An exemption under this section may be modified or revoked by the Authority—
 
 - (a) in accordance with its provisions;
 - (b) at any other time, if the Authority considers that an exemption under this section is no longer required.
 
-(9)[^key-63f6137face3f11f47e472699993217a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-63f6137face3f11f47e472699993217a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (10) In this section “take-or-pay commitment” and “gas-purchase contract” have the same meanings as in Article 48(1) of the Gas Directive.
 
 ## Annotations
 
-[^key-659d069930bff47f059b39d73dd97e1f]: Textual amendment: S. 19DZA inserted (10.11.2011) by [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2011/2704/regulation/14)
+[^c-659d069930bff47f059b39d73dd97e1f]: Textual amendment: S. 19DZA inserted (10.11.2011) by [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2011/2704/regulation/14)
 
-[^key-530c1666ae1416ef4d6d450f6a34ec2a]: Textual amendment: Words in [s. 19DZA(5)(b)(ii)](https://www.legislation.gov.uk/ukpga/1986/44/section/19DZA/5/b/ii) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [29(2)](https://www.legislation.gov.uk/uksi/2019/530/regulation/29/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-530c1666ae1416ef4d6d450f6a34ec2a]: Textual amendment: Words in [s. 19DZA(5)(b)(ii)](https://www.legislation.gov.uk/ukpga/1986/44/section/19DZA/5/b/ii) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [29(2)](https://www.legislation.gov.uk/uksi/2019/530/regulation/29/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1acba7583aa7330986451fb6fa889031]: Textual amendment: [S. 19DZA(5A)](https://www.legislation.gov.uk/ukpga/1986/44/section/19DZA/5A) inserted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [29(3)](https://www.legislation.gov.uk/uksi/2019/530/regulation/29/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1acba7583aa7330986451fb6fa889031]: Textual amendment: [S. 19DZA(5A)](https://www.legislation.gov.uk/ukpga/1986/44/section/19DZA/5A) inserted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [29(3)](https://www.legislation.gov.uk/uksi/2019/530/regulation/29/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-dac678e825d5ed681b12f7a2740e348a]: Textual amendment: [S. 19DZA(7)](https://www.legislation.gov.uk/ukpga/1986/44/section/19DZA/7) omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [29(4)](https://www.legislation.gov.uk/uksi/2019/530/regulation/29/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dac678e825d5ed681b12f7a2740e348a]: Textual amendment: [S. 19DZA(7)](https://www.legislation.gov.uk/ukpga/1986/44/section/19DZA/7) omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [29(4)](https://www.legislation.gov.uk/uksi/2019/530/regulation/29/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-63f6137face3f11f47e472699993217a]: Textual amendment: [S. 19DZA(9)](https://www.legislation.gov.uk/ukpga/1986/44/section/19DZA/9) omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [29(5)](https://www.legislation.gov.uk/uksi/2019/530/regulation/29/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-63f6137face3f11f47e472699993217a]: Textual amendment: [S. 19DZA(9)](https://www.legislation.gov.uk/ukpga/1986/44/section/19DZA/9) omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [29(5)](https://www.legislation.gov.uk/uksi/2019/530/regulation/29/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

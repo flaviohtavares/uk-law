@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 40. Quarantine orders[^key-e3f689efdc5a6c8770fb53bef0d1ac0c]
+## 40. Quarantine orders[^c-e3f689efdc5a6c8770fb53bef0d1ac0c]
 
 *Extent: S*
 
@@ -79,4 +79,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e3f689efdc5a6c8770fb53bef0d1ac0c]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2008/5/section/40) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-e3f689efdc5a6c8770fb53bef0d1ac0c]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2008/5/section/40) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)

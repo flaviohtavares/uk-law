@@ -140,9 +140,9 @@ that person's appointment terminates immediately by virtue of this Act.
 - (b) exercise any power in relation to the management of any part of the Northern Ireland Civil Service, or
 - (c) otherwise exercise any power conferred by or under any statutory provision, or any power under the prerogative.
 
-(3)[^key-b86df8a28acc573bff42d5449e57752c] Within the Executive Office the code may permit a special adviser to exercise any power mentioned in subsection (2)(b) in relation to another special adviser in that office.
+(3)[^c-b86df8a28acc573bff42d5449e57752c] Within the Executive Office the code may permit a special adviser to exercise any power mentioned in subsection (2)(b) in relation to another special adviser in that office.
 
-(3A)[^key-29ceb845407ea7607a5302d9e2a5de88] Without prejudice to the generality of subsection (1), the code must provide that special advisers are subject to the processes and procedures of the disciplinary code operative in the Northern Ireland Civil Service, as that code applies to special advisers, and that there can be no Ministerial interference.
+(3A)[^c-29ceb845407ea7607a5302d9e2a5de88] Without prejudice to the generality of subsection (1), the code must provide that special advisers are subject to the processes and procedures of the disciplinary code operative in the Northern Ireland Civil Service, as that code applies to special advisers, and that there can be no Ministerial interference.
 
 (3B) Subject to subsection (3A), a Minister who appoints a special adviser is responsible for their management, conduct and adherence to the code of conduct.
 
@@ -165,20 +165,20 @@ that person's appointment terminates immediately by virtue of this Act.
 
 - (a) must be subject to the same vetting procedures as persons to be appointed as Senior Civil Servants to the Northern Ireland Civil Service,
 - (b) must not be subject to further vetting procedures if they have been subject to vetting procedures in accordance with section 3.
-- (c)[^key-8d05a48953b68fa554b70f9d23278033] must not be remunerated at a level higher than the highest level under the published pay scale applicable to an Assistant Secretary (Grade 5) in the Northern Ireland Civil Service.
+- (c)[^c-8d05a48953b68fa554b70f9d23278033] must not be remunerated at a level higher than the highest level under the published pay scale applicable to an Assistant Secretary (Grade 5) in the Northern Ireland Civil Service.
 
 (4) The Minister of Finance and Personnel must lay the code before the Assembly as soon as possible after it has been issued.
 
 (5) All persons exercising functions in respect of the appointment of special advisers must have regard to the code.
 
-(6)[^key-273d79dd2eff14918ac465cc43ddc852] If, at any time after a special adviser is appointed (and whether or not the appointment has taken effect), a senior officer in the Department of Finance is satisfied that a person exercising functions in respect of the appointment did not have regard to the code, the Department of Finance must as soon as reasonably practicable after that time give the special adviser notice terminating the appointment with effect from the giving of the notice, but this—
+(6)[^c-273d79dd2eff14918ac465cc43ddc852] If, at any time after a special adviser is appointed (and whether or not the appointment has taken effect), a senior officer in the Department of Finance is satisfied that a person exercising functions in respect of the appointment did not have regard to the code, the Department of Finance must as soon as reasonably practicable after that time give the special adviser notice terminating the appointment with effect from the giving of the notice, but this—
 
 - (a) does not apply if the appointment otherwise terminates before the notice is given, and
 - (b) is without prejudice to the person’s rights (if any) to payment in lieu of notice.
 
 (7) In subsection (6) “senior officer” has the meaning given by Article 2(3) of the Departments (Northern Ireland) Order 1999.
 
-## 8A.[^key-747f8aa8858eb89edd38f02553e58dcc]
+## 8A.[^c-747f8aa8858eb89edd38f02553e58dcc]
 
 (1) A Minister must ensure that only a person duly appointed as a special adviser in the Minister’s department will exercise the functions, enjoy the access and receive the privileges of the person’s post as a special adviser; and the permanent secretary to a Northern Ireland department must ensure that no person other than a duly appointed special adviser is afforded by the department the cooperation, recognition and facilitation due to a special adviser by reason of the holding of that post.
 
@@ -251,12 +251,12 @@ Section 11.
 
 [^c2185958]: Commencement: S. 2 wholly in operation at 8.9.2013; s. 2(5) in operation at Royal Assent see s. 12(1); s. 2(6) in operation at 8.8.2013 see s. 12(2); s. 2(1)-(4) in operation at 8.9.2013 see s. 12(3)
 
-[^key-b86df8a28acc573bff42d5449e57752c]: Textual amendment: S. 7(3) substituted (22.3.2021) by [Functioning of Government (Miscellaneous Provisions) Act (Northern Ireland) 2021 (c. 3)](https://www.legislation.gov.uk/nia/2021/3), [ss. 1(2)](https://www.legislation.gov.uk/nia/2021/3/section/1/2), [14(2)](https://www.legislation.gov.uk/nia/2021/3/section/14/2)
+[^c-b86df8a28acc573bff42d5449e57752c]: Textual amendment: S. 7(3) substituted (22.3.2021) by [Functioning of Government (Miscellaneous Provisions) Act (Northern Ireland) 2021 (c. 3)](https://www.legislation.gov.uk/nia/2021/3), [ss. 1(2)](https://www.legislation.gov.uk/nia/2021/3/section/1/2), [14(2)](https://www.legislation.gov.uk/nia/2021/3/section/14/2)
 
-[^key-29ceb845407ea7607a5302d9e2a5de88]: Textual amendment: [S. 7(3A)-(3C)](https://www.legislation.gov.uk/nia/2013/8/section/7/3A) inserted (22.9.2021) by [Functioning of Government (Miscellaneous Provisions) Act (Northern Ireland) 2021 (c. 3)](https://www.legislation.gov.uk/nia/2021/3), [ss. 1(3)](https://www.legislation.gov.uk/nia/2021/3/section/1/3), [14(1)](https://www.legislation.gov.uk/nia/2021/3/section/14/1)
+[^c-29ceb845407ea7607a5302d9e2a5de88]: Textual amendment: [S. 7(3A)-(3C)](https://www.legislation.gov.uk/nia/2013/8/section/7/3A) inserted (22.9.2021) by [Functioning of Government (Miscellaneous Provisions) Act (Northern Ireland) 2021 (c. 3)](https://www.legislation.gov.uk/nia/2021/3), [ss. 1(3)](https://www.legislation.gov.uk/nia/2021/3/section/1/3), [14(1)](https://www.legislation.gov.uk/nia/2021/3/section/14/1)
 
-[^key-8d05a48953b68fa554b70f9d23278033]: Textual amendment: S. 8(3)(c) inserted (22.3.2021) by [Functioning of Government (Miscellaneous Provisions) Act (Northern Ireland) 2021 (c. 3)](https://www.legislation.gov.uk/nia/2021/3), [ss. 1(4)](https://www.legislation.gov.uk/nia/2021/3/section/1/4), [14(2)](https://www.legislation.gov.uk/nia/2021/3/section/14/2)
+[^c-8d05a48953b68fa554b70f9d23278033]: Textual amendment: S. 8(3)(c) inserted (22.3.2021) by [Functioning of Government (Miscellaneous Provisions) Act (Northern Ireland) 2021 (c. 3)](https://www.legislation.gov.uk/nia/2021/3), [ss. 1(4)](https://www.legislation.gov.uk/nia/2021/3/section/1/4), [14(2)](https://www.legislation.gov.uk/nia/2021/3/section/14/2)
 
-[^key-273d79dd2eff14918ac465cc43ddc852]: Textual amendment: S. 8(6)(7) inserted (22.3.2021) by [Functioning of Government (Miscellaneous Provisions) Act (Northern Ireland) 2021 (c. 3)](https://www.legislation.gov.uk/nia/2021/3), [ss. 1(5)](https://www.legislation.gov.uk/nia/2021/3/section/1/5), [14(2)](https://www.legislation.gov.uk/nia/2021/3/section/14/2)
+[^c-273d79dd2eff14918ac465cc43ddc852]: Textual amendment: S. 8(6)(7) inserted (22.3.2021) by [Functioning of Government (Miscellaneous Provisions) Act (Northern Ireland) 2021 (c. 3)](https://www.legislation.gov.uk/nia/2021/3), [ss. 1(5)](https://www.legislation.gov.uk/nia/2021/3/section/1/5), [14(2)](https://www.legislation.gov.uk/nia/2021/3/section/14/2)
 
-[^key-747f8aa8858eb89edd38f02553e58dcc]: Textual amendment: [S. 8A](https://www.legislation.gov.uk/nia/2013/8/section/8A) inserted (22.3.2021) by [Functioning of Government (Miscellaneous Provisions) Act (Northern Ireland) 2021 (c. 3)](https://www.legislation.gov.uk/nia/2021/3), [ss. 1(6)](https://www.legislation.gov.uk/nia/2021/3/section/1/6), [14(2)](https://www.legislation.gov.uk/nia/2021/3/section/14/2)
+[^c-747f8aa8858eb89edd38f02553e58dcc]: Textual amendment: [S. 8A](https://www.legislation.gov.uk/nia/2013/8/section/8A) inserted (22.3.2021) by [Functioning of Government (Miscellaneous Provisions) Act (Northern Ireland) 2021 (c. 3)](https://www.legislation.gov.uk/nia/2021/3), [ss. 1(6)](https://www.legislation.gov.uk/nia/2021/3/section/1/6), [14(2)](https://www.legislation.gov.uk/nia/2021/3/section/14/2)

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 10. Permits: general provisions[^key-eb26c6d25b94e5bfeb854b6fa42ecf76]
+## 10. Permits: general provisions[^c-eb26c6d25b94e5bfeb854b6fa42ecf76]
 
 *Extent: N.I.*
 
-(1) An application for a permit to operate an installation or mobile plant shall be made to the enforcing authority in accordance with Part 1 of Schedule 4 and, where appropriate, Schedule 13A[^key-76ba9bd1b554a0699d6f490b9202bc53] and shall be accompanied by any fee prescribed in respect of the application under regulation 25.
+(1) An application for a permit to operate an installation or mobile plant shall be made to the enforcing authority in accordance with Part 1 of Schedule 4 and, where appropriate, Schedule 13A[^c-76ba9bd1b554a0699d6f490b9202bc53] and shall be accompanied by any fee prescribed in respect of the application under regulation 25.
 
-(2) Subject to paragraphs (3) to (4A)[^key-a5169e37965052622dd44f5b7cab95f8] , where an application is duly made to the enforcing authority, the enforcing authority shall either grant the permit, subject to any conditions which may be imposed pursuant to regulations 11, 12, 13, 14 ,14A or 15[^key-0aea69b3c715c4b20694d9c813f2820d] of , or Schedule 13A to,[^key-8a9ad94f7121b793e7a600f85eba3eb6] these Regulations, and regulation 8 of the 2003 Landfill Regulations, or refuse the permit.
+(2) Subject to paragraphs (3) to (4A)[^c-a5169e37965052622dd44f5b7cab95f8] , where an application is duly made to the enforcing authority, the enforcing authority shall either grant the permit, subject to any conditions which may be imposed pursuant to regulations 11, 12, 13, 14 ,14A or 15[^c-0aea69b3c715c4b20694d9c813f2820d] of , or Schedule 13A to,[^c-8a9ad94f7121b793e7a600f85eba3eb6] these Regulations, and regulation 8 of the 2003 Landfill Regulations, or refuse the permit.
 
 (3) A permit shall not be granted if the enforcing authority considers that the applicant will not be the person who will have control over the operation of the installation or mobile plant concerned after the grant of the permit, or will not ensure that the installation or mobile plant is operated so as to comply with any conditions which would be included in the permit.
 
@@ -33,7 +33,7 @@ summary: ''
   - (i) such planning permission is in force in relation to the use of the land; or
   - (ii) a certificate under Article 83A of that Order has been issued in respect of that use of the land.
 
-(4A)[^key-4b4f0f7e2e09fab67b533edddfe3c5cc] In the case of an application for a permit to operate an installation or mobile plant carrying out only an activity falling within head (b) of Part C of section 1.1 of Schedule 1—
+(4A)[^c-4b4f0f7e2e09fab67b533edddfe3c5cc] In the case of an application for a permit to operate an installation or mobile plant carrying out only an activity falling within head (b) of Part C of section 1.1 of Schedule 1—
 
 - (a) any permit granted pursuant to the application shall only contain conditions required for complying with paragraphs 13 to 18 of Schedule 13A; and
 - (b) regulations 11, 12, 14 and 16 shall not apply.
@@ -65,14 +65,14 @@ the enforcing authority may replace the permit or permits with a consolidated pe
 
 ## Annotations
 
-[^key-eb26c6d25b94e5bfeb854b6fa42ecf76]: Commencement: Reg. 10 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-eb26c6d25b94e5bfeb854b6fa42ecf76]: Commencement: Reg. 10 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
-[^key-76ba9bd1b554a0699d6f490b9202bc53]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/nisr/2013/160/regulation/10/1) inserted (10.12.2014) by [The Pollution Prevention and Control (Industrial Emissions) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/304)](https://www.legislation.gov.uk/nisr/2014/304), [regs. 1](https://www.legislation.gov.uk/nisr/2014/304/regulation/1), [5(a)](https://www.legislation.gov.uk/nisr/2014/304/regulation/5/a)
+[^c-76ba9bd1b554a0699d6f490b9202bc53]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/nisr/2013/160/regulation/10/1) inserted (10.12.2014) by [The Pollution Prevention and Control (Industrial Emissions) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/304)](https://www.legislation.gov.uk/nisr/2014/304), [regs. 1](https://www.legislation.gov.uk/nisr/2014/304/regulation/1), [5(a)](https://www.legislation.gov.uk/nisr/2014/304/regulation/5/a)
 
-[^key-a5169e37965052622dd44f5b7cab95f8]: Textual amendment: Words in [reg. 10(2)](https://www.legislation.gov.uk/nisr/2013/160/regulation/10/2) substituted (10.12.2014) by [The Pollution Prevention and Control (Industrial Emissions) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/304)](https://www.legislation.gov.uk/nisr/2014/304), [regs. 1](https://www.legislation.gov.uk/nisr/2014/304/regulation/1), [5(b)(i)](https://www.legislation.gov.uk/nisr/2014/304/regulation/5/b/i)
+[^c-a5169e37965052622dd44f5b7cab95f8]: Textual amendment: Words in [reg. 10(2)](https://www.legislation.gov.uk/nisr/2013/160/regulation/10/2) substituted (10.12.2014) by [The Pollution Prevention and Control (Industrial Emissions) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/304)](https://www.legislation.gov.uk/nisr/2014/304), [regs. 1](https://www.legislation.gov.uk/nisr/2014/304/regulation/1), [5(b)(i)](https://www.legislation.gov.uk/nisr/2014/304/regulation/5/b/i)
 
-[^key-0aea69b3c715c4b20694d9c813f2820d]: Textual amendment: Words in [reg. 10(2)](https://www.legislation.gov.uk/nisr/2013/160/regulation/10/2) substituted (1.4.2025) by [The Waste (Materials Facilities) Regulations (Northern Ireland) 2025 (S.R. 2025/18)](https://www.legislation.gov.uk/nisr/2025/18), [regs. 1](https://www.legislation.gov.uk/nisr/2025/18/regulation/1), [3(2)](https://www.legislation.gov.uk/nisr/2025/18/regulation/3/2)
+[^c-0aea69b3c715c4b20694d9c813f2820d]: Textual amendment: Words in [reg. 10(2)](https://www.legislation.gov.uk/nisr/2013/160/regulation/10/2) substituted (1.4.2025) by [The Waste (Materials Facilities) Regulations (Northern Ireland) 2025 (S.R. 2025/18)](https://www.legislation.gov.uk/nisr/2025/18), [regs. 1](https://www.legislation.gov.uk/nisr/2025/18/regulation/1), [3(2)](https://www.legislation.gov.uk/nisr/2025/18/regulation/3/2)
 
-[^key-8a9ad94f7121b793e7a600f85eba3eb6]: Textual amendment: Words in [reg. 10(2)](https://www.legislation.gov.uk/nisr/2013/160/regulation/10/2) inserted (10.12.2014) by [The Pollution Prevention and Control (Industrial Emissions) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/304)](https://www.legislation.gov.uk/nisr/2014/304), [regs. 1](https://www.legislation.gov.uk/nisr/2014/304/regulation/1), [5(b)(ii)](https://www.legislation.gov.uk/nisr/2014/304/regulation/5/b/ii)
+[^c-8a9ad94f7121b793e7a600f85eba3eb6]: Textual amendment: Words in [reg. 10(2)](https://www.legislation.gov.uk/nisr/2013/160/regulation/10/2) inserted (10.12.2014) by [The Pollution Prevention and Control (Industrial Emissions) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/304)](https://www.legislation.gov.uk/nisr/2014/304), [regs. 1](https://www.legislation.gov.uk/nisr/2014/304/regulation/1), [5(b)(ii)](https://www.legislation.gov.uk/nisr/2014/304/regulation/5/b/ii)
 
-[^key-4b4f0f7e2e09fab67b533edddfe3c5cc]: Textual amendment: [Reg. 10(4A)](https://www.legislation.gov.uk/nisr/2013/160/regulation/10/4A) inserted (10.12.2014) by [The Pollution Prevention and Control (Industrial Emissions) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/304)](https://www.legislation.gov.uk/nisr/2014/304), [regs. 1](https://www.legislation.gov.uk/nisr/2014/304/regulation/1), [5(c)](https://www.legislation.gov.uk/nisr/2014/304/regulation/5/c)
+[^c-4b4f0f7e2e09fab67b533edddfe3c5cc]: Textual amendment: [Reg. 10(4A)](https://www.legislation.gov.uk/nisr/2013/160/regulation/10/4A) inserted (10.12.2014) by [The Pollution Prevention and Control (Industrial Emissions) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/304)](https://www.legislation.gov.uk/nisr/2014/304), [regs. 1](https://www.legislation.gov.uk/nisr/2014/304/regulation/1), [5(c)](https://www.legislation.gov.uk/nisr/2014/304/regulation/5/c)

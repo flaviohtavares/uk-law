@@ -24,26 +24,26 @@ Section 195
 
 ### Venture capital trusts
 
-**1.**[^key-380cfbfe27cbe8436cdf39c8efa00e52] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-380cfbfe27cbe8436cdf39c8efa00e52] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Stamp duty and stamp duty reserve tax
 
-**2.**[^key-6208837e5a6136aabde7c1c6f5de1643] In section 66 of the Finance Act 1986 (c. 41) (stamp duty: company’s purchase of own shares)—
+**2.**[^c-6208837e5a6136aabde7c1c6f5de1643] In section 66 of the Finance Act 1986 (c. 41) (stamp duty: company’s purchase of own shares)—
 
 - (a) in subsection (2)—
   - (i) for “The return which relates to the shares” substitute “ Any return which relates to any of the shares ”,
   - (ii) after “169” insert “ (1) or (1B) ”, and
   - (iii) after “transferring the shares” insert “ to which it relates ”,
-- (b)[^key-71d95c198462e18217521ff4366d236e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-71d95c198462e18217521ff4366d236e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) in subsection (3), after “169” insert “ (1) or (1B) ”.
 
-**3.**[^key-2f4f2baaac3fb58338658d42c1ad0812] In section 90 of that Act (exemptions from stamp duty reserve tax), after subsection (7) insert—
+**3.**[^c-2f4f2baaac3fb58338658d42c1ad0812] In section 90 of that Act (exemptions from stamp duty reserve tax), after subsection (7) insert—
 
 > (7A) Section 87 above does not apply as regards an agreement to transfer any shares in a company which are held by the company (whether in accordance with section 162A of the Companies Act 1985 (treasury shares) or otherwise).
 
 .
 
-**4.**[^key-b25ce1dba57930bc0e2a6a916a83316b] (1) Section 92 of that Act (stamp duty reserve tax: repayment or cancellation of tax) is amended as follows.
+**4.**[^c-b25ce1dba57930bc0e2a6a916a83316b] (1) Section 92 of that Act (stamp duty reserve tax: repayment or cancellation of tax) is amended as follows.
 
 (2) After subsection (1B) insert—
 
@@ -63,7 +63,7 @@ Section 195
 
 (3) In subsection (2), after “subsection (1)” insert “ or, as the case may be, (1C) ”.
 
-**5.**[^key-e89c9b8e0a7f7f4598b32473616b9e22] In Schedule 13 to the Finance Act 1999 (c. 16) (stamp duty: instruments chargeable and rates of duty), in Part 1 (conveyance or transfer on sale), in paragraph 1 (stamp duty charge), after sub-paragraph (2) insert—
+**5.**[^c-e89c9b8e0a7f7f4598b32473616b9e22] In Schedule 13 to the Finance Act 1999 (c. 16) (stamp duty: instruments chargeable and rates of duty), in Part 1 (conveyance or transfer on sale), in paragraph 1 (stamp duty charge), after sub-paragraph (2) insert—
 
 > (3) Sub-paragraph (1) is subject to sub-paragraphs (4) to (6).
 >
@@ -82,14 +82,14 @@ Section 195
 
 ## Annotations
 
-[^key-380cfbfe27cbe8436cdf39c8efa00e52]: Textual amendment: Sch. 40 para. 1 repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-380cfbfe27cbe8436cdf39c8efa00e52]: Textual amendment: Sch. 40 para. 1 repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-6208837e5a6136aabde7c1c6f5de1643]: Commencement: Sch. 40 para. 2 has effect as specified by [The Finance Act 2003, Section 195 and Schedule 40 (Appointed Day) Order 2003 (S.I. 2003/3077)](https://www.legislation.gov.uk/uksi/2003/3077), [art. 2](https://www.legislation.gov.uk/uksi/2003/3077/article/2)
+[^c-6208837e5a6136aabde7c1c6f5de1643]: Commencement: Sch. 40 para. 2 has effect as specified by [The Finance Act 2003, Section 195 and Schedule 40 (Appointed Day) Order 2003 (S.I. 2003/3077)](https://www.legislation.gov.uk/uksi/2003/3077), [art. 2](https://www.legislation.gov.uk/uksi/2003/3077/article/2)
 
-[^key-71d95c198462e18217521ff4366d236e]: Textual amendment: Sch. 40 para. 2(b) omitted (with effect in accordance with s. 99(2) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 32 para. 21](https://www.legislation.gov.uk/ukpga/2008/9/schedule/32/paragraph/21)
+[^c-71d95c198462e18217521ff4366d236e]: Textual amendment: Sch. 40 para. 2(b) omitted (with effect in accordance with s. 99(2) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 32 para. 21](https://www.legislation.gov.uk/ukpga/2008/9/schedule/32/paragraph/21)
 
-[^key-2f4f2baaac3fb58338658d42c1ad0812]: Commencement: Sch. 40 para. 3 has effect as specified by [The Finance Act 2003, Section 195 and Schedule 40 (Appointed Day) Order 2003 (S.I. 2003/3077)](https://www.legislation.gov.uk/uksi/2003/3077), [art. 2](https://www.legislation.gov.uk/uksi/2003/3077/article/2)
+[^c-2f4f2baaac3fb58338658d42c1ad0812]: Commencement: Sch. 40 para. 3 has effect as specified by [The Finance Act 2003, Section 195 and Schedule 40 (Appointed Day) Order 2003 (S.I. 2003/3077)](https://www.legislation.gov.uk/uksi/2003/3077), [art. 2](https://www.legislation.gov.uk/uksi/2003/3077/article/2)
 
-[^key-b25ce1dba57930bc0e2a6a916a83316b]: Commencement: Sch. 40 para. 4 has effect as specified by [The Finance Act 2003, Section 195 and Schedule 40 (Appointed Day) Order 2003 (S.I. 2003/3077)](https://www.legislation.gov.uk/uksi/2003/3077), [art. 2](https://www.legislation.gov.uk/uksi/2003/3077/article/2)
+[^c-b25ce1dba57930bc0e2a6a916a83316b]: Commencement: Sch. 40 para. 4 has effect as specified by [The Finance Act 2003, Section 195 and Schedule 40 (Appointed Day) Order 2003 (S.I. 2003/3077)](https://www.legislation.gov.uk/uksi/2003/3077), [art. 2](https://www.legislation.gov.uk/uksi/2003/3077/article/2)
 
-[^key-e89c9b8e0a7f7f4598b32473616b9e22]: Commencement: Sch. 40 para. 5 has effect as specified by [The Finance Act 2003, Section 195 and Schedule 40 (Appointed Day) Order 2003 (S.I. 2003/3077)](https://www.legislation.gov.uk/uksi/2003/3077), [art. 2](https://www.legislation.gov.uk/uksi/2003/3077/article/2)
+[^c-e89c9b8e0a7f7f4598b32473616b9e22]: Commencement: Sch. 40 para. 5 has effect as specified by [The Finance Act 2003, Section 195 and Schedule 40 (Appointed Day) Order 2003 (S.I. 2003/3077)](https://www.legislation.gov.uk/uksi/2003/3077), [art. 2](https://www.legislation.gov.uk/uksi/2003/3077/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2B. High message intraday rate[^key-f58bd56fa189704c6f25775c02c78b25]
+## 2B. High message intraday rate[^c-f58bd56fa189704c6f25775c02c78b25]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f58bd56fa189704c6f25775c02c78b25]: Textual amendment: [Reg. 2B](https://www.legislation.gov.uk/uksi/2017/701/regulation/2B) inserted (23.10.2025) by [The Markets in Financial Instruments (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/1020)](https://www.legislation.gov.uk/uksi/2025/1020), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1020/regulation/1/2), [13(3)](https://www.legislation.gov.uk/uksi/2025/1020/regulation/13/3) (with [reg. 17](https://www.legislation.gov.uk/uksi/2025/1020/regulation/17)); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/2/b) (with [reg. 11](https://www.legislation.gov.uk/uksi/2025/1078/regulation/11))
+[^c-f58bd56fa189704c6f25775c02c78b25]: Textual amendment: [Reg. 2B](https://www.legislation.gov.uk/uksi/2017/701/regulation/2B) inserted (23.10.2025) by [The Markets in Financial Instruments (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/1020)](https://www.legislation.gov.uk/uksi/2025/1020), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1020/regulation/1/2), [13(3)](https://www.legislation.gov.uk/uksi/2025/1020/regulation/13/3) (with [reg. 17](https://www.legislation.gov.uk/uksi/2025/1020/regulation/17)); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/2/b) (with [reg. 11](https://www.legislation.gov.uk/uksi/2025/1078/regulation/11))

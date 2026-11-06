@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Amendment to Commission Delegated Regulation (EU) 2019/2013[^key-9d91d27c7f5f28937933dcd0266e1a34]
+## 23. Amendment to Commission Delegated Regulation (EU) 2019/2013[^c-9d91d27c7f5f28937933dcd0266e1a34]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9d91d27c7f5f28937933dcd0266e1a34]: Commencement: Reg. 23 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, s 39(1)), see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4)
+[^c-9d91d27c7f5f28937933dcd0266e1a34]: Commencement: Reg. 23 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, s 39(1)), see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4)

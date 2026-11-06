@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 109. Road traffic: fixed penalty[^key-d61202ab8ec5fdc575217b86080fcb31][^key-614f5b92e98fa73b0f893b56ca45ad3c]
+## 109. Road traffic: fixed penalty[^c-d61202ab8ec5fdc575217b86080fcb31][^c-614f5b92e98fa73b0f893b56ca45ad3c]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d61202ab8ec5fdc575217b86080fcb31]: Textual amendment: [S. 109](https://www.legislation.gov.uk/ukpga/2003/20/section/109) repealed (31.3.2009) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7(2)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7/2); [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 3(d)](https://www.legislation.gov.uk/uksi/2008/3164/article/3/d)
+[^c-d61202ab8ec5fdc575217b86080fcb31]: Textual amendment: [S. 109](https://www.legislation.gov.uk/ukpga/2003/20/section/109) repealed (31.3.2009) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7(2)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7/2); [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 3(d)](https://www.legislation.gov.uk/uksi/2008/3164/article/3/d)
 
-[^key-614f5b92e98fa73b0f893b56ca45ad3c]: Commencement: S. 109 in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(cc)](https://www.legislation.gov.uk/uksi/2004/827/article/3/cc)
+[^c-614f5b92e98fa73b0f893b56ca45ad3c]: Commencement: S. 109 in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(cc)](https://www.legislation.gov.uk/uksi/2004/827/article/3/cc)

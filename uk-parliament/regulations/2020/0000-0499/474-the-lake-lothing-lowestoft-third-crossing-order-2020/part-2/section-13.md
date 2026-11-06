@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Agreements with street authorities[^key-e71c2600c5f11f4dc0a0d6eece32540c]
+## 13. Agreements with street authorities[^c-e71c2600c5f11f4dc0a0d6eece32540c]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e71c2600c5f11f4dc0a0d6eece32540c]: Commencement: Art. 13 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
+[^c-e71c2600c5f11f4dc0a0d6eece32540c]: Commencement: Art. 13 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
 
 [^c24091211]: Marginal citation: [Section 38](https://www.legislation.gov.uk/uksi/2020/474/section/38) was amended by Schedule 17 to the [Local Government Act 1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51), [section 22(1)](https://www.legislation.gov.uk/ukpga/1985/51/section/22/1) of the 1991 Act and paragraphs 1 and 19 of Part 1 of Schedule 1 to the [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7).

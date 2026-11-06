@@ -85,15 +85,15 @@ The expiry of the transitional regime for phase-in substances in Regulation (EC)
 
 ## Article 3. Data-sharing obligations after registration
 
-After registering a substance, registrants, including those who jointly submit data with other registrants, shall continue to fulfil their data-sharing obligations in a fair, transparent and non-discriminatory way as specified in Title III of Regulation (EC) No 1907/2006 and in Implementing Regulation (EU) 2016/9. In that context, registrants may use informal communication platforms similar to the substance information exchange fora referred to in Article 29 of Regulation (EC) No 1907/2006 as it has effect in EU law[^key-374bfcdbf8da23e738e16f48b49eeabc].
+After registering a substance, registrants, including those who jointly submit data with other registrants, shall continue to fulfil their data-sharing obligations in a fair, transparent and non-discriminatory way as specified in Title III of Regulation (EC) No 1907/2006 and in Implementing Regulation (EU) 2016/9. In that context, registrants may use informal communication platforms similar to the substance information exchange fora referred to in Article 29 of Regulation (EC) No 1907/2006 as it has effect in EU law[^c-374bfcdbf8da23e738e16f48b49eeabc].
 
 ## Article 4. Duty to inquire and sharing of data for phase-in substances
 
-1.[^key-ee98f56c491dd84cae19d60cde10f4ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.[^c-ee98f56c491dd84cae19d60cde10f4ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-2. After 31 December 2019, [^key-e15c6f8f47a72c2ede9b52d63a02732c]... Articles 26 and 27 of Regulation[^key-c3c36f8fc4230169257439aa24b48432] [(EC) No 1907/2006](https://www.legislation.gov.uk/european/regulation/2006/1907) shall apply to all phase-in substances.
+2. After 31 December 2019, [^c-e15c6f8f47a72c2ede9b52d63a02732c]... Articles 26 and 27 of Regulation[^c-c3c36f8fc4230169257439aa24b48432] [(EC) No 1907/2006](https://www.legislation.gov.uk/european/regulation/2006/1907) shall apply to all phase-in substances.
 
-## Article 5. Entry into force[^key-f57a7570440839bf1d602bdea5d30c48]
+## Article 5. Entry into force[^c-f57a7570440839bf1d602bdea5d30c48]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -113,14 +113,14 @@ Jean-Claude Juncker
 
 [^f00002]: Footnote: Commission Implementing Regulation (EU) 2016/9 of 5 January 2016 on joint submission of data and data-sharing in accordance with Regulation (EC) No 1907/2006 of the European Parliament and of the Council concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals ([OJ L 3, 6.1.2016, p. 41](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.003.01.0041.01.ENG)).
 
-[^key-374bfcdbf8da23e738e16f48b49eeabc]: Textual amendment: Words in [Art. 3](https://www.legislation.gov.uk/eur/2019/1692/article/3) inserted (30.9.2021) by [The REACH etc. (Amendment) Regulations 2021 (S.I. 2021/904)](https://www.legislation.gov.uk/uksi/2021/904), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/904/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2021/904/regulation/9/2)
+[^c-374bfcdbf8da23e738e16f48b49eeabc]: Textual amendment: Words in [Art. 3](https://www.legislation.gov.uk/eur/2019/1692/article/3) inserted (30.9.2021) by [The REACH etc. (Amendment) Regulations 2021 (S.I. 2021/904)](https://www.legislation.gov.uk/uksi/2021/904), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/904/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2021/904/regulation/9/2)
 
-[^key-ee98f56c491dd84cae19d60cde10f4ba]: Textual amendment: [Art. 4(1)](https://www.legislation.gov.uk/eur/2019/1692/article/4/1) omitted (30.9.2021) by virtue of [The REACH etc. (Amendment) Regulations 2021 (S.I. 2021/904)](https://www.legislation.gov.uk/uksi/2021/904), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/904/regulation/1/2), [9(3)](https://www.legislation.gov.uk/uksi/2021/904/regulation/9/3)
+[^c-ee98f56c491dd84cae19d60cde10f4ba]: Textual amendment: [Art. 4(1)](https://www.legislation.gov.uk/eur/2019/1692/article/4/1) omitted (30.9.2021) by virtue of [The REACH etc. (Amendment) Regulations 2021 (S.I. 2021/904)](https://www.legislation.gov.uk/uksi/2021/904), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/904/regulation/1/2), [9(3)](https://www.legislation.gov.uk/uksi/2021/904/regulation/9/3)
 
-[^key-e15c6f8f47a72c2ede9b52d63a02732c]: Textual amendment: Words in [Art. 4(2)](https://www.legislation.gov.uk/eur/2019/1692/article/4/2) omitted (30.9.2021) by virtue of [The REACH etc. (Amendment) Regulations 2021 (S.I. 2021/904)](https://www.legislation.gov.uk/uksi/2021/904), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/904/regulation/1/2), [9(4)(a)](https://www.legislation.gov.uk/uksi/2021/904/regulation/9/4/a)
+[^c-e15c6f8f47a72c2ede9b52d63a02732c]: Textual amendment: Words in [Art. 4(2)](https://www.legislation.gov.uk/eur/2019/1692/article/4/2) omitted (30.9.2021) by virtue of [The REACH etc. (Amendment) Regulations 2021 (S.I. 2021/904)](https://www.legislation.gov.uk/uksi/2021/904), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/904/regulation/1/2), [9(4)(a)](https://www.legislation.gov.uk/uksi/2021/904/regulation/9/4/a)
 
-[^key-c3c36f8fc4230169257439aa24b48432]: Textual amendment: Words in [Art. 4(2)](https://www.legislation.gov.uk/eur/2019/1692/article/4/2) inserted (30.9.2021) by [The REACH etc. (Amendment) Regulations 2021 (S.I. 2021/904)](https://www.legislation.gov.uk/uksi/2021/904), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/904/regulation/1/2), [9(4)(b)](https://www.legislation.gov.uk/uksi/2021/904/regulation/9/4/b)
+[^c-c3c36f8fc4230169257439aa24b48432]: Textual amendment: Words in [Art. 4(2)](https://www.legislation.gov.uk/eur/2019/1692/article/4/2) inserted (30.9.2021) by [The REACH etc. (Amendment) Regulations 2021 (S.I. 2021/904)](https://www.legislation.gov.uk/uksi/2021/904), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/904/regulation/1/2), [9(4)(b)](https://www.legislation.gov.uk/uksi/2021/904/regulation/9/4/b)
 
-[^key-f57a7570440839bf1d602bdea5d30c48]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/eur/2019/1692/article/5) omitted (30.9.2021) by virtue of [The REACH etc. (Amendment) Regulations 2021 (S.I. 2021/904)](https://www.legislation.gov.uk/uksi/2021/904), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/904/regulation/1/2), [9(5)](https://www.legislation.gov.uk/uksi/2021/904/regulation/9/5)
+[^c-f57a7570440839bf1d602bdea5d30c48]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/eur/2019/1692/article/5) omitted (30.9.2021) by virtue of [The REACH etc. (Amendment) Regulations 2021 (S.I. 2021/904)](https://www.legislation.gov.uk/uksi/2021/904), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/904/regulation/1/2), [9(5)](https://www.legislation.gov.uk/uksi/2021/904/regulation/9/5)
 
 [^M_F_94445a50-9f8c-4926-dec8-a0b68836b08c]: Textual amendment: Words in signature omitted (30.9.2021) by virtue of [The REACH etc. (Amendment) Regulations 2021 (S.I. 2021/904)](https://www.legislation.gov.uk/uksi/2021/904), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/904/regulation/1/2), [9(5)](https://www.legislation.gov.uk/uksi/2021/904/regulation/9/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 53. Joint landlords[^key-f14ffaff5315ba9cbc13b1930b836058]
+## 53. Joint landlords[^c-f14ffaff5315ba9cbc13b1930b836058]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f14ffaff5315ba9cbc13b1930b836058]: Commencement: [S. 53](https://www.legislation.gov.uk/anaw/2016/1/section/53) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-f14ffaff5315ba9cbc13b1930b836058]: Commencement: [S. 53](https://www.legislation.gov.uk/anaw/2016/1/section/53) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

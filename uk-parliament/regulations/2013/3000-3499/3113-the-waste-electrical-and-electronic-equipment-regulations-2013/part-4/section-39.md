@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Declaration of compliance[^key-7da348a8240e209e90b2d7c8f3298641]
+## 39. Declaration of compliance[^c-7da348a8240e209e90b2d7c8f3298641]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) WEEE from private households under regulation 28, 31 or 32; or
 - (b) WEEE from users other than private households under regulation 29, 31 or 32 during a relevant compliance period
 
-that operator of a scheme must[^key-b53134e768f75ef77d91ec247ed8abc7] provide a declaration of compliance to the appropriate authority on or before 31st March of the year that immediately follows the end of that compliance period.
+that operator of a scheme must[^c-b53134e768f75ef77d91ec247ed8abc7] provide a declaration of compliance to the appropriate authority on or before 31st March of the year that immediately follows the end of that compliance period.
 
 (2) A declaration of compliance must—
 
@@ -43,6 +43,6 @@ that operator of a scheme must[^key-b53134e768f75ef77d91ec247ed8abc7] provide a 
 
 ## Annotations
 
-[^key-7da348a8240e209e90b2d7c8f3298641]: Commencement: Reg. 39 in force at 1.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/1/2)
+[^c-7da348a8240e209e90b2d7c8f3298641]: Commencement: Reg. 39 in force at 1.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/1/2)
 
-[^key-b53134e768f75ef77d91ec247ed8abc7]: Textual amendment: Word in [reg. 39](https://www.legislation.gov.uk/uksi/2013/3113/regulation/39) substituted (25.7.2014) by [The Waste Electrical and Electronic Equipment and Restriction of the Use of Certain Hazardous Substances in Electrical and Electronic Equipment (Amendment) Regulations 2014 (S.I. 2014/1771)](https://www.legislation.gov.uk/uksi/2014/1771), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2014/1771/regulation/1/b), [3(2)](https://www.legislation.gov.uk/uksi/2014/1771/regulation/3/2), [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2014/1771/schedule/1/paragraph/15)
+[^c-b53134e768f75ef77d91ec247ed8abc7]: Textual amendment: Word in [reg. 39](https://www.legislation.gov.uk/uksi/2013/3113/regulation/39) substituted (25.7.2014) by [The Waste Electrical and Electronic Equipment and Restriction of the Use of Certain Hazardous Substances in Electrical and Electronic Equipment (Amendment) Regulations 2014 (S.I. 2014/1771)](https://www.legislation.gov.uk/uksi/2014/1771), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2014/1771/regulation/1/b), [3(2)](https://www.legislation.gov.uk/uksi/2014/1771/regulation/3/2), [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2014/1771/schedule/1/paragraph/15)

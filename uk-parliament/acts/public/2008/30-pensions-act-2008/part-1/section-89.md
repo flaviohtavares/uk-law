@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Agency workers[^key-6f1e078f6e1f9aadb2ad58362a93826e]
+## 89. Agency workers[^c-6f1e078f6e1f9aadb2ad58362a93826e]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6f1e078f6e1f9aadb2ad58362a93826e]: Modification: S. 89 applied by 1993 c. 48, s. 123(3A) (as inserted (11.9.2014) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [ss. 42(2)(c)](https://www.legislation.gov.uk/ukpga/2014/19/section/42/2/c), [56(1)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/1); [S.I. 2014/2377](https://www.legislation.gov.uk/uksi/2014/2377), [art. 2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/1/a/i)[(2)(e)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/2/e))
+[^c-6f1e078f6e1f9aadb2ad58362a93826e]: Modification: S. 89 applied by 1993 c. 48, s. 123(3A) (as inserted (11.9.2014) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [ss. 42(2)(c)](https://www.legislation.gov.uk/ukpga/2014/19/section/42/2/c), [56(1)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/1); [S.I. 2014/2377](https://www.legislation.gov.uk/uksi/2014/2377), [art. 2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/1/a/i)[(2)(e)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/2/e))

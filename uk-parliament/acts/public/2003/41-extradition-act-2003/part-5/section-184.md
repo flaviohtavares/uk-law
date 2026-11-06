@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 184. Grant of free legal aid: Northern Ireland[^key-ce6322bb244106bdbdfe6baedf2ee5f4][^c2087262]
+## 184. Grant of free legal aid: Northern Ireland[^c-ce6322bb244106bdbdfe6baedf2ee5f4][^c2087262]
 
 *Extent: N.I.*
 
@@ -60,7 +60,7 @@ the doubt must be resolved in favour of granting him free legal aid.
 
 ## Annotations
 
-[^key-ce6322bb244106bdbdfe6baedf2ee5f4]: Modification: S. 184: power to amend conferred (1.9.2012) by [Justice Act (Northern Ireland) 2011 (c. 24)](https://www.legislation.gov.uk/nia/2011/24), [ss. 90(2)(d)](https://www.legislation.gov.uk/nia/2011/24/section/90/2/d), [111(3)](https://www.legislation.gov.uk/nia/2011/24/section/111/3); [S.R. 2012/214](https://www.legislation.gov.uk/nisr/2012/214), [art. 4](https://www.legislation.gov.uk/nisr/2012/214/article/4)
+[^c-ce6322bb244106bdbdfe6baedf2ee5f4]: Modification: S. 184: power to amend conferred (1.9.2012) by [Justice Act (Northern Ireland) 2011 (c. 24)](https://www.legislation.gov.uk/nia/2011/24), [ss. 90(2)(d)](https://www.legislation.gov.uk/nia/2011/24/section/90/2/d), [111(3)](https://www.legislation.gov.uk/nia/2011/24/section/111/3); [S.R. 2012/214](https://www.legislation.gov.uk/nisr/2012/214), [art. 4](https://www.legislation.gov.uk/nisr/2012/214/article/4)
 
 [^c2087262]: Commencement: Act wholly in force at 1.1.2004, see s. 221 and [S.I. 2003/3103](https://www.legislation.gov.uk/uksi/2003/3103), [art. 2](https://www.legislation.gov.uk/uksi/2003/3103/article/2) (subject to [arts. 3-5](https://www.legislation.gov.uk/uksi/2003/3103/article/3)) (as amended by [S.I. 2003/3258](https://www.legislation.gov.uk/uksi/2003/3258) art. 2(2) and [S.I. 2003/3312](https://www.legislation.gov.uk/uksi/2003/3312) art. 2(2))
 

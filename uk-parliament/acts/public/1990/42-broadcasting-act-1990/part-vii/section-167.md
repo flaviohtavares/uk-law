@@ -32,13 +32,13 @@ summary: ''
 (4) No order shall be made under this section in respect of any recording in respect of which a warrant could be granted under any of the following provisions, namely—
 
 - (a) section 3 of the [^c16548621]Obscene Publications Act 1959;
-- (b) section 24 or 29H[^key-5594e14a7b5cea15408a489500830dd2] of the [^c16548631]Public Order Act 1986; and
+- (b) section 24 or 29H[^c-5594e14a7b5cea15408a489500830dd2] of the [^c16548631]Public Order Act 1986; and
 - (c) Article 14 of the [^c16548641]Public Order (Northern Ireland) Order 1987.
 
 (5) In the application of subsection (1) to England and Wales “**relevant offence**” means an offence under—
 
 - (a) section 2 of the Obscene Publications Act 1959; or
-- (b) section 22 or 29F[^key-9bf7466522e617f69abaf44910871365] of the Public Order Act 1986.
+- (b) section 22 or 29F[^c-9bf7466522e617f69abaf44910871365] of the Public Order Act 1986.
 
 (6) In the application of subsection (1) to Scotland—
 
@@ -60,12 +60,12 @@ summary: ''
 
 [^c16548621]: Marginal citation: [1959 c. 66](https://www.legislation.gov.uk/ukpga/1959/66).
 
-[^key-5594e14a7b5cea15408a489500830dd2]: Textual amendment: Words in [s. 167(4)(b)](https://www.legislation.gov.uk/ukpga/1990/42/section/167/4/b) inserted (14.7.2008) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 26 para. 28(2)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/26/paragraph/28/2); [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 48(l)](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/48/l)
+[^c-5594e14a7b5cea15408a489500830dd2]: Textual amendment: Words in [s. 167(4)(b)](https://www.legislation.gov.uk/ukpga/1990/42/section/167/4/b) inserted (14.7.2008) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 26 para. 28(2)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/26/paragraph/28/2); [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 48(l)](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/48/l)
 
 [^c16548631]: Marginal citation: [1986 c. 64](https://www.legislation.gov.uk/ukpga/1986/64).
 
 [^c16548641]: Marginal citation: [S.I.1987/463 (N.I.7)](https://www.legislation.gov.uk/nisi/1987/463).
 
-[^key-9bf7466522e617f69abaf44910871365]: Textual amendment: Words in [s. 167(5)(b)](https://www.legislation.gov.uk/ukpga/1990/42/section/167/5/b) inserted (14.7.2008) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 26 para. 28(3)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/26/paragraph/28/3); [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 48(l)](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/48/l)
+[^c-9bf7466522e617f69abaf44910871365]: Textual amendment: Words in [s. 167(5)(b)](https://www.legislation.gov.uk/ukpga/1990/42/section/167/5/b) inserted (14.7.2008) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 26 para. 28(3)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/26/paragraph/28/3); [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 48(l)](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/48/l)
 
 [^c16548651]: Marginal citation: [1982 c. 45](https://www.legislation.gov.uk/ukpga/1982/45).

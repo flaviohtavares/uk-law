@@ -40,11 +40,11 @@ Made
 
 The Department of Finance in exercise of the powers conferred by section 90(2) of the Coronavirus Act 2020 [^f00001] makes the following Order.
 
-## 1. Citation[^key-0b752e7d2d0dbe9bc2d2b1aeb7a7e5c5]
+## 1. Citation[^c-0b752e7d2d0dbe9bc2d2b1aeb7a7e5c5]
 
 This Order may be cited as the Coronavirus Act 2020 (Registration of Deaths and Still-Births) (Extension) Order (Northern Ireland) 2024.
 
-## 2. Extension of expiry date[^key-ed44016c00741fe19a89c1aded16c084]
+## 2. Extension of expiry date[^c-ed44016c00741fe19a89c1aded16c084]
 
 The following provisions of the Coronavirus Act 2020 (which concern the registration of deaths and still-births in Northern Ireland) do not expire at the time when they would otherwise expire and expire instead on 24<sup>th</sup> March 2024 —
 
@@ -52,7 +52,7 @@ The following provisions of the Coronavirus Act 2020 (which concern the registra
 - (b) paragraph 17 of that Schedule so far as it relates to those paragraphs;
 - (c) section 18(3) so far as it relates to the provisions mentioned in sub-paragraphs (a) and (b) of this article.
 
-## 3. Revocation[^key-c074f2902a1b71b88afa33ce58792a40]
+## 3. Revocation[^c-c074f2902a1b71b88afa33ce58792a40]
 
 The Coronavirus Act 2020 (Registration of Deaths and Still-Births) (Extension) (No.2) Order (Northern Ireland) 2023[^f00002] is revoked.
 
@@ -80,10 +80,10 @@ The Department, however, wishes to ensure that these provisions are extended to 
 
 [^f00001]: Footnote: [2020 c.7](https://www.legislation.gov.uk/ukpga/2020/7); see also subsections (11) to (13) and (15) of section 90
 
-[^key-0b752e7d2d0dbe9bc2d2b1aeb7a7e5c5]: Commencement: Art. 1 in operation at made date
+[^c-0b752e7d2d0dbe9bc2d2b1aeb7a7e5c5]: Commencement: Art. 1 in operation at made date
 
-[^key-ed44016c00741fe19a89c1aded16c084]: Commencement: Art. 2 in operation at made date
+[^c-ed44016c00741fe19a89c1aded16c084]: Commencement: Art. 2 in operation at made date
 
-[^key-c074f2902a1b71b88afa33ce58792a40]: Commencement: Art. 3 in operation at made date
+[^c-c074f2902a1b71b88afa33ce58792a40]: Commencement: Art. 3 in operation at made date
 
 [^f00002]: Footnote: [S.R. 2023 No. 137](https://www.legislation.gov.uk/nisr/2023/137)

@@ -76,11 +76,11 @@ In accordance with section 92(1) of the Courts Act 2003, sections 414(1) and 415
 
 ## PART 1 — Introduction
 
-### 1. Citation and commencement[^key-fed2a15658994538cbb5c2828da64204]
+### 1. Citation and commencement[^c-fed2a15658994538cbb5c2828da64204]
 
 This Order may be cited as the Court Fees (Miscellaneous Amendments) Order 2021 and comes into force on 30th September 2021.
 
-### 2. Extent[^key-8e6fc35a45ab7a8d9c56a86359411926]
+### 2. Extent[^c-8e6fc35a45ab7a8d9c56a86359411926]
 
 (1) The following provisions of this Order extend to England and Wales—
 
@@ -105,7 +105,7 @@ This Order may be cited as the Court Fees (Miscellaneous Amendments) Order 2021 
 
 (3) Article 8 of this Order extends to England only insofar as it relates to the amendment of Schedule 2 to the First-tier Tribunal (Property Chamber) Fees Order 2013[^f00019] (remissions and part remissions).
 
-### 3. Application[^key-950ddd22195398757ed3b1e9e459f53f]
+### 3. Application[^c-950ddd22195398757ed3b1e9e459f53f]
 
 (1) Article 8 of this Order applies to proceedings in the Lands Chamber of the Upper Tribunal insofar as it relates to the amendment of Schedule 2 to the Upper Tribunal (Lands Chamber) Fees Order 2009.
 
@@ -115,7 +115,7 @@ This Order may be cited as the Court Fees (Miscellaneous Amendments) Order 2021 
 
 *Extent: E+W*
 
-### 4. Amendment of the Court of Protection Fees Order 2007[^key-94195a825dace9de05daa2b8d30f96f3]
+### 4. Amendment of the Court of Protection Fees Order 2007[^c-94195a825dace9de05daa2b8d30f96f3]
 
 (1) The table in Schedule 1 to the Court of Protection Fees Order 2007[^f00020] (fees to be taken) is amended as follows.
 
@@ -125,7 +125,7 @@ This Order may be cited as the Court Fees (Miscellaneous Amendments) Order 2021 
 
 (4) In the entry “Hearing fees (Article 6)”, in column 2, for “£485” substitute “£494”.
 
-### 5. Amendment of the Magistrates’ Courts Fees Order 2008[^key-046b67f96687fd7acd30e1a03bf41b5b]
+### 5. Amendment of the Magistrates’ Courts Fees Order 2008[^c-046b67f96687fd7acd30e1a03bf41b5b]
 
 (1) The table in Schedule 1 to the Magistrates’ Courts Fees Order 2008[^f00021] (fees to be taken) is amended as follows.
 
@@ -163,7 +163,7 @@ This Order may be cited as the Court Fees (Miscellaneous Amendments) Order 2021 
 
 (18) in the entry for fee 10.2 (on the application for a warrant for commitment made in proceedings under the Child Support Act 1991), in column 2, for “£40” substitute “£41”.
 
-### 6. Amendment of the Civil Proceedings Fees Order 2008[^key-a73ae7708a2c5c334f6c14fdaf482bef]
+### 6. Amendment of the Civil Proceedings Fees Order 2008[^c-a73ae7708a2c5c334f6c14fdaf482bef]
 
 (1) The table in Schedule 1 to the Civil Proceedings Fees Order 2008[^f00023] (fees to be taken) is amended as follows.
 
@@ -299,7 +299,7 @@ This Order may be cited as the Court Fees (Miscellaneous Amendments) Order 2021 
 
 (67) In the entry for fee 13.3 (on filing an application notice), in column 2, for “£528” substitute “£569”.
 
-### 7. Amendment of the Family Proceedings Fees Order 2008[^key-84ee04d37267c92cf72a98354df0ce56]
+### 7. Amendment of the Family Proceedings Fees Order 2008[^c-84ee04d37267c92cf72a98354df0ce56]
 
 (1) The table in Schedule 1 to the Family Proceedings Fees Order 2008[^f00024] (fees to be taken) is amended as follows.
 
@@ -391,7 +391,7 @@ This Order may be cited as the Court Fees (Miscellaneous Amendments) Order 2021 
 
 ## PART 3 — Amendment of Help with Fees Income Thresholds
 
-### 8. Amendment of the Help with Fees Income Thresholds[^key-782539d23e30efd1435a3ca15ceea4b5]
+### 8. Amendment of the Help with Fees Income Thresholds[^c-782539d23e30efd1435a3ca15ceea4b5]
 
 (1) The following provisions of the Orders listed in paragraph (4) are amended as follows.
 
@@ -429,7 +429,7 @@ This Order may be cited as the Court Fees (Miscellaneous Amendments) Order 2021 
 - (d) Schedule 2 to the Magistrates’ Courts Fees Order 2008[^f00030] (remissions and part remissions);
 - (e) Schedule 2 to the Civil Proceedings Fees Order 2008[^f00031] (remissions and part remissions);
 - (f) Schedule 2 to the Family Proceedings Fees Order 2008[^f00032] (remissions and part remissions);
-- (g)[^key-3646a0eb08253be78e67056c0cbfbd4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^c-3646a0eb08253be78e67056c0cbfbd4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (h) Schedule 2 to the Upper Tribunal (Lands Chamber) Fees Order 2009[^f00034] (remissions and part remissions);
 - (i) Schedule 2 to the First-tier Tribunal (Gambling) Fees Order 2010[^f00035] (remissions and part remissions);
 - (j) Schedule 2 to the Upper Tribunal (Immigration and Asylum) (Judicial Review) (England and Wales) Fees Order 2011[^f00036] (remissions and part remissions);
@@ -482,9 +482,9 @@ A full impact assessment of the effect that this instrument will have on them co
 
 [^f00007]: Footnote: [2004 c. 7](https://www.legislation.gov.uk/ukpga/2004/7). There are amendments of section 7, but none is relevant.
 
-[^key-fed2a15658994538cbb5c2828da64204]: Commencement: Art. 1 in force at 30.9.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/985/article/1)
+[^c-fed2a15658994538cbb5c2828da64204]: Commencement: Art. 1 in force at 30.9.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/985/article/1)
 
-[^key-8e6fc35a45ab7a8d9c56a86359411926]: Commencement: Art. 2 in force at 30.9.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/985/article/1)
+[^c-8e6fc35a45ab7a8d9c56a86359411926]: Commencement: Art. 2 in force at 30.9.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/985/article/1)
 
 [^f00008]: Footnote: [S.I. 2004/3120](https://www.legislation.gov.uk/uksi/2004/3120). The relevant amending instrument is [S.I. 2013/2302](https://www.legislation.gov.uk/uksi/2013/2302).
 
@@ -510,23 +510,23 @@ A full impact assessment of the effect that this instrument will have on them co
 
 [^f00019]: Footnote: [S.I. 2013/1179](https://www.legislation.gov.uk/uksi/2013/1179). The relevant amending instrument is [S.I. 2013/2302](https://www.legislation.gov.uk/uksi/2013/2302).
 
-[^key-950ddd22195398757ed3b1e9e459f53f]: Commencement: Art. 3 in force at 30.9.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/985/article/1)
+[^c-950ddd22195398757ed3b1e9e459f53f]: Commencement: Art. 3 in force at 30.9.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/985/article/1)
 
-[^key-94195a825dace9de05daa2b8d30f96f3]: Commencement: Art. 4 in force at 30.9.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/985/article/1)
+[^c-94195a825dace9de05daa2b8d30f96f3]: Commencement: Art. 4 in force at 30.9.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/985/article/1)
 
 [^f00020]: Footnote: [S.I. 2007/1745 (L. 13)](https://www.legislation.gov.uk/uksi/2007/1745). The relevant amending instruments are [S.I. 2013/2302](https://www.legislation.gov.uk/uksi/2013/2302) and [2019/1063](https://www.legislation.gov.uk/uksi/2019/1063).
 
-[^key-046b67f96687fd7acd30e1a03bf41b5b]: Commencement: Art. 5 in force at 30.9.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/985/article/1)
+[^c-046b67f96687fd7acd30e1a03bf41b5b]: Commencement: Art. 5 in force at 30.9.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/985/article/1)
 
 [^f00021]: Footnote: [S.I. 2008/1052 (L. 4)](https://www.legislation.gov.uk/uksi/2008/1052). Relevant amending instruments are [S.I. 2014/875](https://www.legislation.gov.uk/uksi/2014/875), [2016/807](https://www.legislation.gov.uk/uksi/2016/807), [2019/1063](https://www.legislation.gov.uk/uksi/2019/1063) and [2020/100](https://www.legislation.gov.uk/uksi/2020/100).
 
 [^f00022]: Footnote: [2003 c. 39](https://www.legislation.gov.uk/ukpga/2003/39). Section 98 is amended by section 107(3) of, paragraph 55 of Schedule 8 and paragraph 15 of Schedule 16 to, the Tribunals, Courts and Enforcement Act [2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15) and by paragraph 40(a) and (c) of Part 2 of Schedule 9 to the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22).
 
-[^key-a73ae7708a2c5c334f6c14fdaf482bef]: Commencement: Art. 6 in force at 30.9.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/985/article/1)
+[^c-a73ae7708a2c5c334f6c14fdaf482bef]: Commencement: Art. 6 in force at 30.9.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/985/article/1)
 
 [^f00023]: Footnote: [S.I. 2008/1053 (L. 5)](https://www.legislation.gov.uk/uksi/2008/1053). Relevant amending instruments are [S.I. 2014/874](https://www.legislation.gov.uk/uksi/2014/874), [2014/1834](https://www.legislation.gov.uk/uksi/2014/1834), [2015/576](https://www.legislation.gov.uk/uksi/2015/576), [2016/402](https://www.legislation.gov.uk/uksi/2016/402), [2016/434](https://www.legislation.gov.uk/uksi/2016/434), [2016/807](https://www.legislation.gov.uk/uksi/2016/807), [2016/1191](https://www.legislation.gov.uk/uksi/2016/1191), [2017/702](https://www.legislation.gov.uk/uksi/2017/702), [2018/812](https://www.legislation.gov.uk/uksi/2018/812), [2019/146](https://www.legislation.gov.uk/uksi/2019/146), [2019/1063](https://www.legislation.gov.uk/uksi/2019/1063) and [2020/720](https://www.legislation.gov.uk/uksi/2020/720).
 
-[^key-84ee04d37267c92cf72a98354df0ce56]: Commencement: Art. 7 in force at 30.9.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/985/article/1)
+[^c-84ee04d37267c92cf72a98354df0ce56]: Commencement: Art. 7 in force at 30.9.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/985/article/1)
 
 [^f00024]: Footnote: [S.I. 2008/1054 (L. 6)](https://www.legislation.gov.uk/uksi/2008/1054). Relevant amending instruments are [S.I. 2014/877](https://www.legislation.gov.uk/uksi/2014/877), [2015/687](https://www.legislation.gov.uk/uksi/2015/687), [2015/1419](https://www.legislation.gov.uk/uksi/2015/1419), [2016/402](https://www.legislation.gov.uk/uksi/2016/402), [2016/211](https://www.legislation.gov.uk/uksi/2016/211), [2018/1413](https://www.legislation.gov.uk/uksi/2018/1413), [2020/100](https://www.legislation.gov.uk/uksi/2020/100) and [2020/720](https://www.legislation.gov.uk/uksi/2020/720).
 
@@ -534,7 +534,7 @@ A full impact assessment of the effect that this instrument will have on them co
 
 [^f00026]: Footnote: Paragraph (wa) was inserted by [S.I. 2016/211](https://www.legislation.gov.uk/uksi/2016/211).
 
-[^key-782539d23e30efd1435a3ca15ceea4b5]: Commencement: Art. 8 in force at 30.9.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/985/article/1)
+[^c-782539d23e30efd1435a3ca15ceea4b5]: Commencement: Art. 8 in force at 30.9.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/985/article/1)
 
 [^f00027]: Footnote: [S.I. 2004/3120](https://www.legislation.gov.uk/uksi/2004/3120). The relevant amending instrument is [S.I. 2013/2302](https://www.legislation.gov.uk/uksi/2013/2302).
 
@@ -548,7 +548,7 @@ A full impact assessment of the effect that this instrument will have on them co
 
 [^f00032]: Footnote: [S.I. 2008/1054](https://www.legislation.gov.uk/uksi/2008/1054). The relevant amending instrument is [S.I. 2013/2302](https://www.legislation.gov.uk/uksi/2013/2302).
 
-[^key-3646a0eb08253be78e67056c0cbfbd4b]: Textual amendment: [Art. 8(4)(g)](https://www.legislation.gov.uk/uksi/2021/985/article/8/4/g) revoked (1.4.2024) by [The Supreme Court Fees Order 2024 (S.I. 2024/148)](https://www.legislation.gov.uk/uksi/2024/148), [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/148/article/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2024/148/schedule/3)
+[^c-3646a0eb08253be78e67056c0cbfbd4b]: Textual amendment: [Art. 8(4)(g)](https://www.legislation.gov.uk/uksi/2021/985/article/8/4/g) revoked (1.4.2024) by [The Supreme Court Fees Order 2024 (S.I. 2024/148)](https://www.legislation.gov.uk/uksi/2024/148), [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/148/article/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2024/148/schedule/3)
 
 [^f00034]: Footnote: [S.I. 2009/1114](https://www.legislation.gov.uk/uksi/2009/1114). The relevant amending instrument is [S.I. 2013/2302](https://www.legislation.gov.uk/uksi/2013/2302).
 

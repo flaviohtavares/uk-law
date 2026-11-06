@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 55. Particulars to appear in correspondence etc.[^key-75c1914d452e092465ecd1ded0b7ddce]
+## 55. Particulars to appear in correspondence etc.[^c-75c1914d452e092465ecd1ded0b7ddce]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-75c1914d452e092465ecd1ded0b7ddce]: Commencement: [Reg. 55](https://www.legislation.gov.uk/nisr/2004/335/regulation/55) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
+[^c-75c1914d452e092465ecd1ded0b7ddce]: Commencement: [Reg. 55](https://www.legislation.gov.uk/nisr/2004/335/regulation/55) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)

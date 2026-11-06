@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16. Bar to creation of new simplified planning zones[^key-e9ecbb3371cd8ca0ba974079fbfee0cc]
+## 16. Bar to creation of new simplified planning zones[^c-e9ecbb3371cd8ca0ba974079fbfee0cc]
 
 *Extent: S*
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e9ecbb3371cd8ca0ba974079fbfee0cc]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2019/13/section/16) in force at 1.4.2024 by [S.S.I. 2024/79](https://www.legislation.gov.uk/ssi/2024/79), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/79/regulation/2/1)[(2)(c)](https://www.legislation.gov.uk/ssi/2024/79/regulation/2/2/c) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/79/regulation/3))
+[^c-e9ecbb3371cd8ca0ba974079fbfee0cc]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2019/13/section/16) in force at 1.4.2024 by [S.S.I. 2024/79](https://www.legislation.gov.uk/ssi/2024/79), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/79/regulation/2/1)[(2)(c)](https://www.legislation.gov.uk/ssi/2024/79/regulation/2/2/c) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/79/regulation/3))

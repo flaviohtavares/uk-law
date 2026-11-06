@@ -86,11 +86,11 @@ These Regulations may be cited as the Social Security Benefits (Miscellaneous Am
 
 (5) In Schedule 3 (capital to be disregarded), in paragraph 31, for the words “or the Fund.” there shall be substituted the words “ the Fund or the Independent Living (1993) Fund. ”.
 
-## 4. Amendment of the Housing Benefit (General) Regulations 1987[^key-1ee12bffdd3325d69ad79870d33d27b2]
+## 4. Amendment of the Housing Benefit (General) Regulations 1987[^c-1ee12bffdd3325d69ad79870d33d27b2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of the Council Tax Benefit (General) Regulations 1992[^key-1ee12bffdd3325d69ad79870d33d27b2]
+## 5. Amendment of the Council Tax Benefit (General) Regulations 1992[^c-1ee12bffdd3325d69ad79870d33d27b2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -144,6 +144,6 @@ These Regulations provide that payments from those Funds are to be disregarded i
 
 [^c1828388]: Marginal citation: [S.I. 1987/1973](https://www.legislation.gov.uk/uksi/1987/1973); the relevant amending instruments are [S.I. 1988/660](https://www.legislation.gov.uk/uksi/1988/660), 999, 1438 and 1970, 1990/127, 1991/1175 and 1520 and 1992/1101.
 
-[^key-1ee12bffdd3325d69ad79870d33d27b2]: Textual amendment: Reg. 5 revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-1ee12bffdd3325d69ad79870d33d27b2]: Textual amendment: Reg. 5 revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c1828391]: Marginal citation: [S.I. 1991/2887](https://www.legislation.gov.uk/uksi/1991/2887); the relevant amending instrument is [S.I. 1992/1101](https://www.legislation.gov.uk/uksi/1992/1101).

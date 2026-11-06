@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 81. Exercising an option under this Chapter[^key-b88a733dfef01c764f73ccc0e8d5e27f]
+## 81. Exercising an option under this Chapter[^c-b88a733dfef01c764f73ccc0e8d5e27f]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b88a733dfef01c764f73ccc0e8d5e27f]: Commencement: [Reg. 81](https://www.legislation.gov.uk/nisr/2014/290/regulation/81) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-b88a733dfef01c764f73ccc0e8d5e27f]: Commencement: [Reg. 81](https://www.legislation.gov.uk/nisr/2014/290/regulation/81) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 66. Tips rules[^key-9e881e5a76ec1909cfa516dcbd5b44f4]
+## 66. Tips rules[^c-9e881e5a76ec1909cfa516dcbd5b44f4]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9e881e5a76ec1909cfa516dcbd5b44f4]: Commencement: [Reg. 66](https://www.legislation.gov.uk/nisr/2016/427/regulation/66) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-9e881e5a76ec1909cfa516dcbd5b44f4]: Commencement: [Reg. 66](https://www.legislation.gov.uk/nisr/2016/427/regulation/66) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)

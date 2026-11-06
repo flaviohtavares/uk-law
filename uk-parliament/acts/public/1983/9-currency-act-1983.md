@@ -138,9 +138,9 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (7) A draft of any statutory instrument containing an order under subsection (6) above shall be laid before Parliament.
 
-(8)[^key-a9bba376944accebb688fb30570df81c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-a9bba376944accebb688fb30570df81c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-f58277559379f3dad166b6b4bfc8ea2d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-f58277559379f3dad166b6b4bfc8ea2d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 3. Writing off unpresented bank notes which have ceased to be legal tender.
 
@@ -155,7 +155,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (4) No writing off of an amount under this section shall affect the liability of the Bank to pay any bank note which was included in that amount.
 
-(5)[^key-322a3a733aaa305daa139a218905ebf6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-322a3a733aaa305daa139a218905ebf6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) In section 6 of the [^c756754]Currency and Bank Notes Act 1928 (which directs the payment to the Treasury of the annual profits of the issue department of the Bank including the amount of notes written off less the amount of those presented for payment) after the words “section six of the Bank Act 1892, as amended by this Act” there shall be inserted the words “or under section 3 of the Currency Act 1983”.
 
@@ -192,12 +192,12 @@ Section 4.
 
 [^c756750]: Modification: S. 2(3) restricted (*temp.* from 3.12.1999 until 2.6.2000) by [S.I. 1999/3228](https://www.legislation.gov.uk/uksi/1999/3228), [art. 2](https://www.legislation.gov.uk/uksi/1999/3228/article/2)
 
-[^key-a9bba376944accebb688fb30570df81c]: Textual amendment: [S. 2(8)](https://www.legislation.gov.uk/ukpga/1983/9/section/2/8) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 2
+[^c-a9bba376944accebb688fb30570df81c]: Textual amendment: [S. 2(8)](https://www.legislation.gov.uk/ukpga/1983/9/section/2/8) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 2
 
-[^key-f58277559379f3dad166b6b4bfc8ea2d]: Textual amendment: [S. 2(9)](https://www.legislation.gov.uk/ukpga/1983/9/section/2/9) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 2
+[^c-f58277559379f3dad166b6b4bfc8ea2d]: Textual amendment: [S. 2(9)](https://www.legislation.gov.uk/ukpga/1983/9/section/2/9) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 2
 
 [^c756752]: Marginal citation: [1844 c. 32](https://www.legislation.gov.uk/ukpga/1844/32).
 
-[^key-322a3a733aaa305daa139a218905ebf6]: Textual amendment: [S. 3(5)](https://www.legislation.gov.uk/ukpga/1983/9/section/3/5) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 2
+[^c-322a3a733aaa305daa139a218905ebf6]: Textual amendment: [S. 3(5)](https://www.legislation.gov.uk/ukpga/1983/9/section/3/5) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 2
 
 [^c756754]: Marginal citation: [1928 c. 13](https://www.legislation.gov.uk/ukpga/1928/13).

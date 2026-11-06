@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 54. Enhancement and conservation of the Chilterns National Landscape[^key-a779874a06115caa1e33714d0d89119d]
+## 54. Enhancement and conservation of the Chilterns National Landscape[^c-a779874a06115caa1e33714d0d89119d]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a779874a06115caa1e33714d0d89119d]: Commencement: Art. 54 in force at 24.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/463/article/1)
+[^c-a779874a06115caa1e33714d0d89119d]: Commencement: Art. 54 in force at 24.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/463/article/1)

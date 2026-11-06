@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. NHS England: duties in relation to climate change etc[^key-bf2565d53a6a184c1dde08b704d14fdd][^key-90ec3a7bc92bc77af80fa6e7a61d5c9e]
+## 9. NHS England: duties in relation to climate change etc[^c-bf2565d53a6a184c1dde08b704d14fdd][^c-90ec3a7bc92bc77af80fa6e7a61d5c9e]
 
 *Extent: E+W*
 
@@ -44,6 +44,6 @@ After section 13NB of the National Health Service Act 2006 (inserted by section 
 
 ## Annotations
 
-[^key-bf2565d53a6a184c1dde08b704d14fdd]: Commencement: S. 9 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-bf2565d53a6a184c1dde08b704d14fdd]: Commencement: S. 9 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-90ec3a7bc92bc77af80fa6e7a61d5c9e]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2022/31/section/9) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-90ec3a7bc92bc77af80fa6e7a61d5c9e]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2022/31/section/9) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Saving for power to bind over and other powers to defer sentence[^key-d8480ec12a2fab1debded68c4939e2e0]
+## 12. Saving for power to bind over and other powers to defer sentence[^c-d8480ec12a2fab1debded68c4939e2e0]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ Nothing in this Chapter affects—
 
 ## Annotations
 
-[^key-d8480ec12a2fab1debded68c4939e2e0]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2020/17/section/12) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-d8480ec12a2fab1debded68c4939e2e0]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2020/17/section/12) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

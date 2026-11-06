@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 126. Request for transfer payment to be made[^key-dc59a4cb401061fc99ab36ec4b3c4576]
+## 126. Request for transfer payment to be made[^c-dc59a4cb401061fc99ab36ec4b3c4576]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dc59a4cb401061fc99ab36ec4b3c4576]: Commencement: [Reg. 126](https://www.legislation.gov.uk/ssi/2015/19/regulation/126) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-dc59a4cb401061fc99ab36ec4b3c4576]: Commencement: [Reg. 126](https://www.legislation.gov.uk/ssi/2015/19/regulation/126) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

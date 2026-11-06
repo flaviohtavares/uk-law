@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. General power to investigate certain incidents[^key-defc08869ccdf4bd2774e4824a2fc899]
+## 62. General power to investigate certain incidents[^c-defc08869ccdf4bd2774e4824a2fc899]
 
 *Extent: E+W+S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-defc08869ccdf4bd2774e4824a2fc899]: Commencement: S. 62 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-defc08869ccdf4bd2774e4824a2fc899]: Commencement: S. 62 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

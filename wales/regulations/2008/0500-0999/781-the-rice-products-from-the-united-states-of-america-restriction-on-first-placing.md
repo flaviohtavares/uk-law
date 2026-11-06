@@ -62,7 +62,7 @@ The Welsh Ministers have been designated for the purposes of that section in rel
 - “**authorised officer**” (“***swyddog awdurdodedig***”), in relation to a feed authority or a food authority, means any person (whether or not an officer of the authority) who is authorised by it in writing, either generally or specially, to act in matters arising under these Regulations;
 - “**the Commission Decision**” (“***Penderfyniad y Comisiwn***”) means Commission Decision [2006/601/EC](https://www.legislation.gov.uk/european/decision/2006/0601) on emergency measures regarding the non-authorised genetically modified organism “LL RICE 601” in rice products [^c19207211] as last amended by Commission Decision [2008/162/EC](https://www.legislation.gov.uk/european/decision/2008/0162) amending Decision [2006/601/EC](https://www.legislation.gov.uk/european/decision/2006/0601) on emergency measures regarding the non-authorised genetically modified organism “LL RICE 601” in rice products [^c19207221];
 - “**feed**” (“***bwyd anifeiliaid***”) has the meaning given to it in Article 3(4) of Regulation 178/2002;
-- “**feed authority**” (“***awdurdod bwyd anifeiliaid***”) means the authority required by section 67(1A)[^key-3d0d38060e34360fdbb3e28cc76aabf4] of the Agriculture Act 1970 [^c19207231] to enforce that Act within its area or as the case may be district;
+- “**feed authority**” (“***awdurdod bwyd anifeiliaid***”) means the authority required by section 67(1A)[^c-3d0d38060e34360fdbb3e28cc76aabf4] of the Agriculture Act 1970 [^c19207231] to enforce that Act within its area or as the case may be district;
 - “**food**” (“***bwyd***”) has the meaning given to it in Article 2 of Regulation 178/2002;
 - “**first placing on the market**” (“***ei osod gyntaf ar y farchnad***”) has the meaning that it bears in the Commission Decision;
 - “**food authority**” (“***awdurdod bwyd***”) has the meaning that it bears by virtue of section 5(1A) of the Food Safety Act 1990 [^c19207241];
@@ -87,7 +87,7 @@ any reference in these Regulations to a food authority is to be construed, so fa
 
 ## 4. Enforcement
 
-(1) It is the duty of each feed authority to execute and enforce these Regulations within its area [^key-42e3e3ff158462b09479272805c6db9a]... in relation to feed.
+(1) It is the duty of each feed authority to execute and enforce these Regulations within its area [^c-42e3e3ff158462b09479272805c6db9a]... in relation to feed.
 
 (2) It is the duty of each food authority to execute and enforce these Regulations within its area in relation to food.
 
@@ -107,7 +107,7 @@ The following provisions of the Food Safety Act 1990 apply for the purposes of t
 
 - (a) section 20 (offences due to fault of another person);
 - (b) section 21 (defence of due diligence) [^c19207291], with the modification that subsections (2) to (4) apply in relation to an offence under regulation 3(2) as they apply in relation to an offence under section 14 or 15, that in subsections (2)(a) and (3)(b) the references to “food” are to be deemed to be references to feed or food and that in subsection (4)(b) the references to “sale or intended sale” are to be deemed to be references to “first placing on the market”;
-- (c) section 32 (powers of entry), with the modification that in subsection (1) the reference to “an enforcement authority” is to be deemed to be a reference to a feed authority or a food authority, the references to “the authority's area” are to be deemed to be references to the authority's area [^key-6f0728f5930084de33d14c2bb50b9ffe]...and the reference to “a food authority” is to be deemed to be a reference to a feed authority or a food authority;
+- (c) section 32 (powers of entry), with the modification that in subsection (1) the reference to “an enforcement authority” is to be deemed to be a reference to a feed authority or a food authority, the references to “the authority's area” are to be deemed to be references to the authority's area [^c-6f0728f5930084de33d14c2bb50b9ffe]...and the reference to “a food authority” is to be deemed to be a reference to a feed authority or a food authority;
 - (d) section 33(1) (obstruction etc. of officers);
 - (e) section 33(2), with the modification that the reference to “any such requirement as is mentioned in subsection (1)(b) above” is to be deemed to be a reference to any such requirement as is mentioned in section 33(1)(b) as applied by sub-paragraph (d);
 - (f) section 35(1) (punishment of offences) [^c19207301], in so far as it relates to offences under section 33(1) as applied by sub-paragraph (d);
@@ -151,7 +151,7 @@ No regulatory impact assessment has been prepared in relation to these Regulatio
 
 [^c19207221]: Marginal citation: OJ No. L52, 27.2.2008, p.25.
 
-[^key-3d0d38060e34360fdbb3e28cc76aabf4]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2008/781/regulation/2/1) substituted (17.7.2008) by [The Rice Products from the United States of America (Restriction on First Placing on the Market) (Wales) (Amendment) Regulations 2008 (S.I. 2008/1646)](https://www.legislation.gov.uk/wsi/2008/1646), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2008/1646/regulation/1/2), [2(a)](https://www.legislation.gov.uk/wsi/2008/1646/regulation/2/a)
+[^c-3d0d38060e34360fdbb3e28cc76aabf4]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2008/781/regulation/2/1) substituted (17.7.2008) by [The Rice Products from the United States of America (Restriction on First Placing on the Market) (Wales) (Amendment) Regulations 2008 (S.I. 2008/1646)](https://www.legislation.gov.uk/wsi/2008/1646), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2008/1646/regulation/1/2), [2(a)](https://www.legislation.gov.uk/wsi/2008/1646/regulation/2/a)
 
 [^c19207231]: Marginal citation: [1970 c. 40](https://www.legislation.gov.uk/ukpga/1970/40).
 
@@ -165,11 +165,11 @@ No regulatory impact assessment has been prepared in relation to these Regulatio
 
 [^c19207281]: Marginal citation: [1936 c. 49](https://www.legislation.gov.uk/ukpga/1936/49); section 6 is to be read with paragraph 1 of Schedule 3 to the Food Safety Act 1990.
 
-[^key-42e3e3ff158462b09479272805c6db9a]: Textual amendment: Words in reg. 4(1) omitted (17.7.2008) by virtue of [The Rice Products from the United States of America (Restriction on First Placing on the Market) (Wales) (Amendment) Regulations 2008 (S.I. 2008/1646)](https://www.legislation.gov.uk/wsi/2008/1646), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2008/1646/regulation/1/2), [2(b)](https://www.legislation.gov.uk/wsi/2008/1646/regulation/2/b)
+[^c-42e3e3ff158462b09479272805c6db9a]: Textual amendment: Words in reg. 4(1) omitted (17.7.2008) by virtue of [The Rice Products from the United States of America (Restriction on First Placing on the Market) (Wales) (Amendment) Regulations 2008 (S.I. 2008/1646)](https://www.legislation.gov.uk/wsi/2008/1646), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2008/1646/regulation/1/2), [2(b)](https://www.legislation.gov.uk/wsi/2008/1646/regulation/2/b)
 
 [^c19207291]: Marginal citation: Section 21 was amended by [S.I. 2004/3279](https://www.legislation.gov.uk/uksi/2004/3279).
 
-[^key-6f0728f5930084de33d14c2bb50b9ffe]: Textual amendment: Words in [reg. 5(c)](https://www.legislation.gov.uk/wsi/2008/781/regulation/5/c) omitted (17.7.2008) by virtue of [The Rice Products from the United States of America (Restriction on First Placing on the Market) (Wales) (Amendment) Regulations 2008 (S.I. 2008/1646)](https://www.legislation.gov.uk/wsi/2008/1646), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2008/1646/regulation/1/2), [2(c)](https://www.legislation.gov.uk/wsi/2008/1646/regulation/2/c)
+[^c-6f0728f5930084de33d14c2bb50b9ffe]: Textual amendment: Words in [reg. 5(c)](https://www.legislation.gov.uk/wsi/2008/781/regulation/5/c) omitted (17.7.2008) by virtue of [The Rice Products from the United States of America (Restriction on First Placing on the Market) (Wales) (Amendment) Regulations 2008 (S.I. 2008/1646)](https://www.legislation.gov.uk/wsi/2008/1646), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2008/1646/regulation/1/2), [2(c)](https://www.legislation.gov.uk/wsi/2008/1646/regulation/2/c)
 
 [^c19207301]: Marginal citation: Section 35(1) is amended by the [Criminal Justice Act 2003 (2003 c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [Schedule 26](https://www.legislation.gov.uk/ukpga/2003/44/schedule/26), [paragraph 42](https://www.legislation.gov.uk/ukpga/2003/44/paragraph/42), from a date to be appointed.
 

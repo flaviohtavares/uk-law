@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-9358a1c24532dacd1760c054d0760f2d][^key-8b44d29f7f2502fc3fb0a4bffb00e6c0] The Licensing Act 2003 is amended as set out in subsections (2) to (5).
+(1)[^c-9358a1c24532dacd1760c054d0760f2d][^c-8b44d29f7f2502fc3fb0a4bffb00e6c0] The Licensing Act 2003 is amended as set out in subsections (2) to (5).
 
-(2)[^key-efcee24d016690da09f51100bdabbd23] In section 98(1) (meaning of “permitted temporary activity”), for paragraph (a) substitute—
+(2)[^c-efcee24d016690da09f51100bdabbd23] In section 98(1) (meaning of “permitted temporary activity”), for paragraph (a) substitute—
 
 > - (a) it is carried out in accordance with—
 >   - (i) a notice given in accordance with section 100, and
@@ -30,7 +30,7 @@ summary: ''
 
 .
 
-(3)[^key-9358a1c24532dacd1760c054d0760f2d][^key-8b44d29f7f2502fc3fb0a4bffb00e6c0] After section 106 insert—
+(3)[^c-9358a1c24532dacd1760c054d0760f2d][^c-8b44d29f7f2502fc3fb0a4bffb00e6c0] After section 106 insert—
 
 > **106A. Conditions on standard temporary event notice following objection**
 >
@@ -62,7 +62,7 @@ summary: ''
 
 .
 
-(4)[^key-efcee24d016690da09f51100bdabbd23] In section 109 (duty to keep and produce temporary event notice)—
+(4)[^c-efcee24d016690da09f51100bdabbd23] In section 109 (duty to keep and produce temporary event notice)—
 
 - (a) in the title, after “notice” insert “ and statement of conditions ”,
 - (b) in subsection (2)(a), after “notice” insert “ , together with a copy of any statement of conditions given under section 106A(3) in respect of the notice ”,
@@ -73,7 +73,7 @@ summary: ''
 - (g) in subsection (6), after “produce the temporary event notice” insert “ or statement of conditions ”, and
 - (h) in subsection (8), after “notice” insert “ or statement of conditions ”.
 
-(5)[^key-efcee24d016690da09f51100bdabbd23] In section 110 (theft, loss, etc. of temporary event notice)—
+(5)[^c-efcee24d016690da09f51100bdabbd23] In section 110 (theft, loss, etc. of temporary event notice)—
 
 - (a) in the title, after “notice” insert “ or statement of conditions ”,
 - (b) after subsection (1) insert—
@@ -86,12 +86,12 @@ summary: ''
 - (e) in subsection (5), after “notice” insert “ or statement ”, and
 - (f) in subsection (6), after “notice” insert “ or statement ”.
 
-(6)[^key-efcee24d016690da09f51100bdabbd23] The amendments made by this section apply in relation to temporary event notices that are given on or after the commencement of this section.
+(6)[^c-efcee24d016690da09f51100bdabbd23] The amendments made by this section apply in relation to temporary event notices that are given on or after the commencement of this section.
 
 ## Annotations
 
-[^key-9358a1c24532dacd1760c054d0760f2d]: Commencement: [S. 113(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/113/1)[(3)](https://www.legislation.gov.uk/ukpga/2011/13/section/113/3) in force at 22.3.2012 for specified purposes by [S.I. 2012/896](https://www.legislation.gov.uk/uksi/2012/896), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/896/article/2/e)
+[^c-9358a1c24532dacd1760c054d0760f2d]: Commencement: [S. 113(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/113/1)[(3)](https://www.legislation.gov.uk/ukpga/2011/13/section/113/3) in force at 22.3.2012 for specified purposes by [S.I. 2012/896](https://www.legislation.gov.uk/uksi/2012/896), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/896/article/2/e)
 
-[^key-8b44d29f7f2502fc3fb0a4bffb00e6c0]: Commencement: [S. 113(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/113/1)[(3)](https://www.legislation.gov.uk/ukpga/2011/13/section/113/3) in force at 25.4.2012 in so far as not already in force by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)
+[^c-8b44d29f7f2502fc3fb0a4bffb00e6c0]: Commencement: [S. 113(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/113/1)[(3)](https://www.legislation.gov.uk/ukpga/2011/13/section/113/3) in force at 25.4.2012 in so far as not already in force by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)
 
-[^key-efcee24d016690da09f51100bdabbd23]: Commencement: [S. 113(2)](https://www.legislation.gov.uk/ukpga/2011/13/section/113/2) [(4)-(6)](https://www.legislation.gov.uk/ukpga/2011/13/section/113/4) in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)
+[^c-efcee24d016690da09f51100bdabbd23]: Commencement: [S. 113(2)](https://www.legislation.gov.uk/ukpga/2011/13/section/113/2) [(4)-(6)](https://www.legislation.gov.uk/ukpga/2011/13/section/113/4) in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)

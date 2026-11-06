@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 56. Part 6: overview and interpretation[^key-2a5a0a8b5c20fba07a1e69ec8bcf848c][^key-2165393654099497ac6c92ffdea3b66a]
+## 56. Part 6: overview and interpretation[^c-2a5a0a8b5c20fba07a1e69ec8bcf848c][^c-2165393654099497ac6c92ffdea3b66a]
 
 *Extent: E+W*
 
@@ -56,6 +56,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2a5a0a8b5c20fba07a1e69ec8bcf848c]: Commencement: S. 56 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-2a5a0a8b5c20fba07a1e69ec8bcf848c]: Commencement: S. 56 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-2165393654099497ac6c92ffdea3b66a]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2025/21/section/56) in force at 29.10.2026 in so far as not already in force by [S.I. 2026/1135](https://www.legislation.gov.uk/uksi/2026/1135), [reg. 2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2026/1135/regulation/2/1/a/i)
+[^c-2165393654099497ac6c92ffdea3b66a]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2025/21/section/56) in force at 29.10.2026 in so far as not already in force by [S.I. 2026/1135](https://www.legislation.gov.uk/uksi/2026/1135), [reg. 2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2026/1135/regulation/2/1/a/i)

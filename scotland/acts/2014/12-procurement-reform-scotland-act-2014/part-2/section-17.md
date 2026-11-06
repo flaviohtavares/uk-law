@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17. Compliance with strategy[^key-0ae29a5889ea5873d309d36f50671a57]
+## 17. Compliance with strategy[^c-0ae29a5889ea5873d309d36f50671a57]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ A contracting authority which is required to prepare or review a procurement str
 
 ## Annotations
 
-[^key-0ae29a5889ea5873d309d36f50671a57]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2014/12/section/17) in force at 18.4.2016 by [S.S.I. 2016/30](https://www.legislation.gov.uk/ssi/2016/30), [art. 3](https://www.legislation.gov.uk/ssi/2016/30/article/3) (with [art. 5](https://www.legislation.gov.uk/ssi/2016/30/article/5))
+[^c-0ae29a5889ea5873d309d36f50671a57]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2014/12/section/17) in force at 18.4.2016 by [S.S.I. 2016/30](https://www.legislation.gov.uk/ssi/2016/30), [art. 3](https://www.legislation.gov.uk/ssi/2016/30/article/3) (with [art. 5](https://www.legislation.gov.uk/ssi/2016/30/article/5))

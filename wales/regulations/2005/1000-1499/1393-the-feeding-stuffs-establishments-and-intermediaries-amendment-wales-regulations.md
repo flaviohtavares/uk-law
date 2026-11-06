@@ -31,7 +31,7 @@ summary: ''
 
 AGRICULTURE, WALES
 
-The Feeding Stuffs (Establishments and Intermediaries) (Amendment) (Wales) Regulations 2005 (revoked)[^key-1d690c6d98d77040ed1c042baa46cfec]
+The Feeding Stuffs (Establishments and Intermediaries) (Amendment) (Wales) Regulations 2005 (revoked)[^c-1d690c6d98d77040ed1c042baa46cfec]
 
 Made
 
@@ -41,46 +41,46 @@ Coming into force
 
 31 May 2005
 
-[^key-1d690c6d98d77040ed1c042baa46cfec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1d690c6d98d77040ed1c042baa46cfec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-1d690c6d98d77040ed1c042baa46cfec]
+## 1. Title, commencement and application[^c-1d690c6d98d77040ed1c042baa46cfec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Feeding Stuffs (Establishments and Intermediaries) Regulations 1999[^key-1d690c6d98d77040ed1c042baa46cfec]
+## 2. Amendments to the Feeding Stuffs (Establishments and Intermediaries) Regulations 1999[^c-1d690c6d98d77040ed1c042baa46cfec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-1d690c6d98d77040ed1c042baa46cfec]
+## 3.[^c-1d690c6d98d77040ed1c042baa46cfec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-1d690c6d98d77040ed1c042baa46cfec]
+## 4.[^c-1d690c6d98d77040ed1c042baa46cfec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-1d690c6d98d77040ed1c042baa46cfec]
+## 5.[^c-1d690c6d98d77040ed1c042baa46cfec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1d690c6d98d77040ed1c042baa46cfec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1d690c6d98d77040ed1c042baa46cfec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — PROVISIONS INSERTED AFTER SCHEDULE 1 TO THE PRINCIPAL REGULATIONS[^key-1d690c6d98d77040ed1c042baa46cfec]
+## SCHEDULE — PROVISIONS INSERTED AFTER SCHEDULE 1 TO THE PRINCIPAL REGULATIONS[^c-1d690c6d98d77040ed1c042baa46cfec]
 
 Regulation 5
 
-[^key-1d690c6d98d77040ed1c042baa46cfec]
+[^c-1d690c6d98d77040ed1c042baa46cfec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-1d690c6d98d77040ed1c042baa46cfec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1d690c6d98d77040ed1c042baa46cfec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1d690c6d98d77040ed1c042baa46cfec]: Textual amendment: Regulations revoked (1.1.2006) by [The Feed (Hygiene and Enforcement) (Wales) Regulations 2005 (S.I. 2005/3368)](https://www.legislation.gov.uk/uksi/2005/3368), [reg. 1](https://www.legislation.gov.uk/uksi/2005/3368/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/3368/schedule/2)
+[^c-1d690c6d98d77040ed1c042baa46cfec]: Textual amendment: Regulations revoked (1.1.2006) by [The Feed (Hygiene and Enforcement) (Wales) Regulations 2005 (S.I. 2005/3368)](https://www.legislation.gov.uk/uksi/2005/3368), [reg. 1](https://www.legislation.gov.uk/uksi/2005/3368/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/3368/schedule/2)

@@ -50,7 +50,7 @@ In accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawa
 
 ## PART 1 — Introductory
 
-### 1. Citation and commencement[^key-71b6d64c4dca232d106a1c1f49adfec1]
+### 1. Citation and commencement[^c-71b6d64c4dca232d106a1c1f49adfec1]
 
 (1) These Regulations may be cited as the Common Organisation of the Markets in Agricultural Products (Producer Organisations and Wine) (Amendment etc.) (EU Exit) Regulations 2020.
 
@@ -60,7 +60,7 @@ In accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawa
 
 ## PART 2 — Amendment of retained direct EU legislation
 
-### 2. Amendment of Commission Delegated Regulation (EU) No 880/2012[^key-08e4174efd20f12867a2603b21202328]
+### 2. Amendment of Commission Delegated Regulation (EU) No 880/2012[^c-08e4174efd20f12867a2603b21202328]
 
 (1) Commission Delegated Regulation (EU) No 880/2012 supplementing Council Regulation [(EC) No 1234/2007](https://www.legislation.gov.uk/eur/2007/1234) as regards transnational cooperation and contractual negotiations of producer organisations in the milk and milk products sector [^c24365921] is amended as follows.
 
@@ -70,7 +70,7 @@ In accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawa
 
 (4) After Article 4, omit the words from “This Regulation” to “Member States.”.
 
-### 3. Amendment of Regulation (EU) No 1308/2013 of the European Parliament and of the Council[^key-778f3cf073a1aa6702447d12ac09c512]
+### 3. Amendment of Regulation (EU) No 1308/2013 of the European Parliament and of the Council[^c-778f3cf073a1aa6702447d12ac09c512]
 
 (1) Regulation (EU) No 1308/2013 of the European Parliament and of the Council establishing a common organisation of the markets in agricultural products [^c24365931] is amended as follows.
 
@@ -298,18 +298,18 @@ In accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawa
   - (i) for “Commission may adopt implementing acts” substitute “ Secretary of State may make regulations ”;
   - (ii) omit the last sentence.
 
-### 4. Amendment of Commission Delegated Regulation (EU) 2016/232[^key-e4e6a7d446b0a3d692a87ab0b5a8ff57]
+### 4. Amendment of Commission Delegated Regulation (EU) 2016/232[^c-e4e6a7d446b0a3d692a87ab0b5a8ff57]
 
 In Commission Delegated Regulation (EU) 2016/232 supplementing Regulation (EU) No 1308/2013 of the European Parliament and of the Council with regard to certain aspects of producer cooperation [^c24365941], omit Articles 2 and 4.
 
-### 5. Amendment of Commission Delegated Regulation (EU) 2017/891[^key-4882e8cc3e59b28171edb9b05ef38973]
+### 5. Amendment of Commission Delegated Regulation (EU) 2017/891[^c-4882e8cc3e59b28171edb9b05ef38973]
 
 (1) Commission Delegated Regulation (EU) 2017/891 supplementing Regulation (EU) No 1308/2013 of the European Parliament and of the Council with regard to the fruit and vegetables and processed fruit and vegetables sectors and supplementing Regulation (EU) No 1306/2013 of the European Parliament and of the Council with regard to penalties to be applied in those sectors [^c24365951] is amended as follows.
 
 (2) In Article 2 [^c24365961]—
 
 - (a) omit points (d) and (e);
-- (b)[^key-9118076190a961c02f73e98bcad70234] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-9118076190a961c02f73e98bcad70234] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In Article 3—
 
@@ -473,7 +473,7 @@ In Commission Delegated Regulation (EU) 2016/232 supplementing Regulation (EU) N
   > For ex-transnational producer organisations, the ceiling on financial assistance referred to in Article 34(2) of Regulation (EU) No 1308/2013 is to be calculated, and compliance with Article 154(1)(b) of Regulation (EU) No 1308/2013 is to be assessed, on the basis of the value of the marketed production during the reference period of producers who are producer members of the organisation on 1 January of the year for which aid is requested, calculated in accordance with Article 22.
 
   ;
-- (c)[^key-62fba181f7e55ea2d3998ee52e74a9ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-62fba181f7e55ea2d3998ee52e74a9ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (21) In Article 31 [^c24366011]—
 
@@ -524,7 +524,7 @@ In Commission Delegated Regulation (EU) 2016/232 supplementing Regulation (EU) N
 (25) In Article 60—
 
 - (a) in paragraph 1 [^c24366031], after “payments to and” insert “ the Secretary of State shall suspend ”;
-- (b)[^key-833a202ca8aac049815e239853716d59] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-833a202ca8aac049815e239853716d59] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (26) Omit Articles 68 to 71.
 
@@ -608,11 +608,11 @@ In Commission Delegated Regulation (EU) 2016/232 supplementing Regulation (EU) N
 
 .
 
-### 6. Amendment of Commission Implementing Regulation (EU) 2017/892[^key-7acc1abd82507a3bedcfa714ae71ffa3]
+### 6. Amendment of Commission Implementing Regulation (EU) 2017/892[^c-7acc1abd82507a3bedcfa714ae71ffa3]
 
 (1) Commission Implementing Regulation (EU) 2017/892 laying down rules for the application of Regulation (EU) No 1308/2013 of the European Parliament and of the Council with regard to the fruit and vegetables and processed fruit and vegetables sectors [^c24366061] is amended as follows.
 
-(2)[^key-0c0b27e4137f110094accdc3152085bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-0c0b27e4137f110094accdc3152085bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In Article 9—
 
@@ -627,7 +627,7 @@ In Commission Delegated Regulation (EU) 2016/232 supplementing Regulation (EU) N
 
 .
 
-(6)[^key-c3f8e8572a8f86af28044fb6d998085c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-c3f8e8572a8f86af28044fb6d998085c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) In Article 24—
 
@@ -650,7 +650,7 @@ In Commission Delegated Regulation (EU) 2016/232 supplementing Regulation (EU) N
 
 .
 
-(11)[^key-906632224cfc92868517ad2256aa4084] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-906632224cfc92868517ad2256aa4084] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (12) Omit Chapter V.
 
@@ -696,7 +696,7 @@ In Commission Delegated Regulation (EU) 2016/232 supplementing Regulation (EU) N
 
 ## PART 3 — Amendment of domestic regulations
 
-### 7.[^key-1c322a62855615ef0f105ee896eed326]
+### 7.[^c-1c322a62855615ef0f105ee896eed326]
 
 (1) The Common Organisation of the Markets in Agricultural Products and Common Agricultural Policy (Miscellaneous Amendments) (EU Exit) Regulations 2019 [^c24366141] is amended as follows.
 
@@ -773,7 +773,7 @@ In Commission Delegated Regulation (EU) 2016/232 supplementing Regulation (EU) N
 
 ## PART 4 — Revocations
 
-### 8. Revocation of certain implementing acts relating to EU wine designations of origin, geographical indications, and traditional terms[^key-ff98558b8d25ea287c3bf8785c140a73]
+### 8. Revocation of certain implementing acts relating to EU wine designations of origin, geographical indications, and traditional terms[^c-ff98558b8d25ea287c3bf8785c140a73]
 
 Any implementing act adopted under the following provisions of Regulation (EU) No 1308/2013 of the European Parliament and of the Council prior to IP completion day and forming part of domestic law by virtue of section 3(1) of the European Union (Withdrawal) Act 2018 is revoked—
 
@@ -810,33 +810,33 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c24365911]: Marginal citation: OJ No L 31, 1.2.2002, p.1, as amended by Commission Regulation (EU) 2017/228 (OJ No L 35, 10.2.2017, p. 10) and Regulation (EU) 2019/1243 of the European Parliament and of the Council (OJ No L 198, 25.7.2019, p. 241).
 
-[^key-71b6d64c4dca232d106a1c1f49adfec1]: Commencement: Reg. 1 in force at 31.12.2020 immediately before IP completion day, see reg. 1(2)
+[^c-71b6d64c4dca232d106a1c1f49adfec1]: Commencement: Reg. 1 in force at 31.12.2020 immediately before IP completion day, see reg. 1(2)
 
-[^key-08e4174efd20f12867a2603b21202328]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day, see reg. 1(3)
+[^c-08e4174efd20f12867a2603b21202328]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day, see reg. 1(3)
 
 [^c24365921]: Marginal citation: EUR 2012/880.
 
-[^key-778f3cf073a1aa6702447d12ac09c512]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day, see reg. 1(3)
+[^c-778f3cf073a1aa6702447d12ac09c512]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day, see reg. 1(3)
 
 [^c24365931]: Marginal citation: EUR 2013/1308. Other prospective amendments are made by [S.I. 2019/821](https://www.legislation.gov.uk/uksi/2019/821), 828, 831, 1402 and 1422. In particular, [S.I. 2019/821](https://www.legislation.gov.uk/uksi/2019/821) amends Article 101 and Article 104 and [S.I. 2019/828](https://www.legislation.gov.uk/uksi/2019/828) inserts Articles 99a and 99b.
 
-[^key-e4e6a7d446b0a3d692a87ab0b5a8ff57]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day, see reg. 1(3)
+[^c-e4e6a7d446b0a3d692a87ab0b5a8ff57]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day, see reg. 1(3)
 
 [^c24365941]: Marginal citation: EUR 2016/232.
 
-[^key-4882e8cc3e59b28171edb9b05ef38973]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1446/regulation/1/3)
+[^c-4882e8cc3e59b28171edb9b05ef38973]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1446/regulation/1/3)
 
 [^c24365951]: Marginal citation: EUR 2017/891.Under Article 138 of the withdrawal agreement (as defined in s39(1) of the [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1)) and s7[A of the European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), certain common organisation of the markets and rural development measures committed under the multiannual financial framework 2014-20 and previous financial perspectives continue to be governed by directly applicable EU law.
 
 [^c24365961]: Marginal citation: Article 2 is also amended by [S.I. 2021/756](https://www.legislation.gov.uk/uksi/2021/756).
 
-[^key-9118076190a961c02f73e98bcad70234]: Textual amendment: [Reg. 5(2)(b)](https://www.legislation.gov.uk/uksi/2020/1446/regulation/5/2/b) revoked (25.6.2021) by [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2021/756/regulation/7/b)
+[^c-9118076190a961c02f73e98bcad70234]: Textual amendment: [Reg. 5(2)(b)](https://www.legislation.gov.uk/uksi/2020/1446/regulation/5/2/b) revoked (25.6.2021) by [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2021/756/regulation/7/b)
 
 [^c24365981]: Marginal citation: [S.I. 2021/756](https://www.legislation.gov.uk/uksi/2021/756) inserts a definition of “public funds” into Article 2 of Regulation (EU) 2017/891.
 
 [^c24365991]: Marginal citation: Article 23 is also amended by [S.I. 2021/756](https://www.legislation.gov.uk/uksi/2021/756).
 
-[^key-62fba181f7e55ea2d3998ee52e74a9ed]: Textual amendment: [Reg. 5(20)(c)](https://www.legislation.gov.uk/uksi/2020/1446/regulation/5/20/c) revoked (25.6.2021) by [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2021/756/regulation/7/b)
+[^c-62fba181f7e55ea2d3998ee52e74a9ed]: Textual amendment: [Reg. 5(20)(c)](https://www.legislation.gov.uk/uksi/2020/1446/regulation/5/20/c) revoked (25.6.2021) by [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2021/756/regulation/7/b)
 
 [^c24366011]: Marginal citation: Article 31 is also amended by [S.I. 2021/756](https://www.legislation.gov.uk/uksi/2021/756).
 
@@ -844,30 +844,30 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c24366031]: Marginal citation: Article 60(1) is also amended by [S.I. 2021/756](https://www.legislation.gov.uk/uksi/2021/756).
 
-[^key-833a202ca8aac049815e239853716d59]: Textual amendment: [Reg. 5(25)(b)](https://www.legislation.gov.uk/uksi/2020/1446/regulation/5/25/b) revoked (25.6.2021) by [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2021/756/regulation/7/b)
+[^c-833a202ca8aac049815e239853716d59]: Textual amendment: [Reg. 5(25)(b)](https://www.legislation.gov.uk/uksi/2020/1446/regulation/5/25/b) revoked (25.6.2021) by [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2021/756/regulation/7/b)
 
 [^c24366051]: Marginal citation: Part A of Annex 5 is also amended by [S.I. 2021/756](https://www.legislation.gov.uk/uksi/2021/756).
 
-[^key-7acc1abd82507a3bedcfa714ae71ffa3]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1446/regulation/1/3)
+[^c-7acc1abd82507a3bedcfa714ae71ffa3]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1446/regulation/1/3)
 
 [^c24366061]: Marginal citation: EUR 2017/892. Under Article 138 of the withdrawal agreement (as defined in s39(1) of the [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1)) and s7[A of the European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), certain common organisation of the markets and rural development measures committed under the multiannual financial framework 2014-20 and previous financial perspectives continue to be governed by directly applicable EU law.
 
-[^key-0c0b27e4137f110094accdc3152085bb]: Textual amendment: [Reg. 6(2)](https://www.legislation.gov.uk/uksi/2020/1446/regulation/6/2) revoked (25.6.2021) by [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2021/756/regulation/7/b)
+[^c-0c0b27e4137f110094accdc3152085bb]: Textual amendment: [Reg. 6(2)](https://www.legislation.gov.uk/uksi/2020/1446/regulation/6/2) revoked (25.6.2021) by [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2021/756/regulation/7/b)
 
 [^c24366081]: Marginal citation: Article 9(6) is also amended by [S.I. 2021/756](https://www.legislation.gov.uk/uksi/2021/756).
 
 [^c24366091]: Marginal citation: Article 21 is also amended by [S.I. 2021/756](https://www.legislation.gov.uk/uksi/2021/756).
 
-[^key-c3f8e8572a8f86af28044fb6d998085c]: Textual amendment: [Reg. 6(6)](https://www.legislation.gov.uk/uksi/2020/1446/regulation/6/6) revoked (25.6.2021) by [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2021/756/regulation/7/b)
+[^c-c3f8e8572a8f86af28044fb6d998085c]: Textual amendment: [Reg. 6(6)](https://www.legislation.gov.uk/uksi/2020/1446/regulation/6/6) revoked (25.6.2021) by [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2021/756/regulation/7/b)
 
 [^c24366111]: Marginal citation: Article 34 is also amended by [S.I. 2021/756](https://www.legislation.gov.uk/uksi/2021/756).
 
-[^key-906632224cfc92868517ad2256aa4084]: Textual amendment: [Reg. 6(11)](https://www.legislation.gov.uk/uksi/2020/1446/regulation/6/11) revoked (25.6.2021) by [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2021/756/regulation/7/b)
+[^c-906632224cfc92868517ad2256aa4084]: Textual amendment: [Reg. 6(11)](https://www.legislation.gov.uk/uksi/2020/1446/regulation/6/11) revoked (25.6.2021) by [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2021/756/regulation/7/b)
 
 [^c24366131]: Marginal citation: Annex 2 is also amended by [S.I. 2021/756](https://www.legislation.gov.uk/uksi/2021/756).
 
-[^key-1c322a62855615ef0f105ee896eed326]: Commencement: Reg. 7 in force at 31.12.2020 immediately before IP completion day, see reg. 1(2)
+[^c-1c322a62855615ef0f105ee896eed326]: Commencement: Reg. 7 in force at 31.12.2020 immediately before IP completion day, see reg. 1(2)
 
 [^c24366141]: Marginal citation: [S.I. 2019/828](https://www.legislation.gov.uk/uksi/2019/828).
 
-[^key-ff98558b8d25ea287c3bf8785c140a73]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day, see reg. 1(3)
+[^c-ff98558b8d25ea287c3bf8785c140a73]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day, see reg. 1(3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Regulation (EU) 2020/852[^key-abf4a8004e9551b92844e4f3969a9033]
+## 78. Regulation (EU) 2020/852[^c-abf4a8004e9551b92844e4f3969a9033]
 
 *Extent: E+W+S+N.I.*
 
@@ -249,7 +249,7 @@ summary: ''
 
 ## Annotations
 
-[^key-abf4a8004e9551b92844e4f3969a9033]: Commencement: [Reg. 78](https://www.legislation.gov.uk/uksi/2020/1385/regulation/78) in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/3)
+[^c-abf4a8004e9551b92844e4f3969a9033]: Commencement: [Reg. 78](https://www.legislation.gov.uk/uksi/2020/1385/regulation/78) in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/3)
 
 [^f00066]: Footnote: OJ No L 198, 22.06.2020, p.13.
 

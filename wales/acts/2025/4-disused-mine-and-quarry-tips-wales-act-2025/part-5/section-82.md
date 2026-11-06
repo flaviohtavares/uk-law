@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 82. Giving notices etc. to the Crown[^key-633ec83abcaf388a0729609dabdd73b0]
+## 82. Giving notices etc. to the Crown[^c-633ec83abcaf388a0729609dabdd73b0]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where a provision of this Act, or of regulations made under it, requires or auth
 
 ## Annotations
 
-[^key-633ec83abcaf388a0729609dabdd73b0]: Commencement: S. 82 in force at 12.9.2025, see [s. 92(1)](https://www.legislation.gov.uk/asc/2025/4/section/92/1)
+[^c-633ec83abcaf388a0729609dabdd73b0]: Commencement: S. 82 in force at 12.9.2025, see [s. 92(1)](https://www.legislation.gov.uk/asc/2025/4/section/92/1)

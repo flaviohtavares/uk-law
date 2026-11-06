@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113. Search warrants: premises[^key-44edad0aa7cd678761438a71bf67d434]
+## 113. Search warrants: premises[^c-44edad0aa7cd678761438a71bf67d434]
 
 *Extent: E+W*
 
@@ -100,4 +100,4 @@ summary: ''
 
 ## Annotations
 
-[^key-44edad0aa7cd678761438a71bf67d434]: Commencement: [S. 113](https://www.legislation.gov.uk/ukpga/2005/15/section/113) in force at 1.1.2006 by [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(n)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/n)
+[^c-44edad0aa7cd678761438a71bf67d434]: Commencement: [S. 113](https://www.legislation.gov.uk/ukpga/2005/15/section/113) in force at 1.1.2006 by [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(n)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/n)

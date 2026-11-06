@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 233. Offence of wearing or displaying articles in support of proscribed organisation[^key-e01745cdcf769da0abede1677fe97c08][^key-e31df2951b3cd728e1086fda85557657]
+## 233. Offence of wearing or displaying articles in support of proscribed organisation[^c-e01745cdcf769da0abede1677fe97c08][^c-e31df2951b3cd728e1086fda85557657]
 
 *Extent: E+W+S+N.I.*
 
@@ -70,6 +70,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e01745cdcf769da0abede1677fe97c08]: Commencement: S. 233 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-e01745cdcf769da0abede1677fe97c08]: Commencement: S. 233 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-e31df2951b3cd728e1086fda85557657]: Commencement: [S. 233](https://www.legislation.gov.uk/ukpga/2026/20/section/233) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z6)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z6)
+[^c-e31df2951b3cd728e1086fda85557657]: Commencement: [S. 233](https://www.legislation.gov.uk/ukpga/2026/20/section/233) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z6)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z6)

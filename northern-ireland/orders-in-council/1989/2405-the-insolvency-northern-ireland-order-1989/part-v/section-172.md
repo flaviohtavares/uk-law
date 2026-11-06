@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 172. Misconduct in course of winding up[^key-657edb63c86887d7882596558371844d][^key-5382c63d9681977c1c8e6a38bc2e3841][^key-5382c63d9681977c1c8e6a38bc2e3841]
+## 172. Misconduct in course of winding up[^c-657edb63c86887d7882596558371844d][^c-5382c63d9681977c1c8e6a38bc2e3841][^c-5382c63d9681977c1c8e6a38bc2e3841]
 
 *Extent: N.I.*
 
@@ -30,7 +30,7 @@ summary: ''
 
 shall be guilty of an offence.
 
-(2)[^key-2c67498e129d1f62efcfdf86c9e9e8b0] Any person mentioned in paragraph (1) who, after the commencement of the winding up, attempts to account for any part of the company's property by fictitious losses or expenses shall be guilty of an offence; and if he so attempts at any meeting of the company's creditors within the 12 months immediately preceding the commencement of the winding up he shall be guilty of an offence.
+(2)[^c-2c67498e129d1f62efcfdf86c9e9e8b0] Any person mentioned in paragraph (1) who, after the commencement of the winding up, attempts to account for any part of the company's property by fictitious losses or expenses shall be guilty of an offence; and if he so attempts at any meeting of the company's creditors within the 12 months immediately preceding the commencement of the winding up he shall be guilty of an offence.
 
 (3) For the purposes of this Article, “officer” includes a shadow director.
 
@@ -41,8 +41,8 @@ shall be guilty of an offence.
 
 ## Annotations
 
-[^key-657edb63c86887d7882596558371844d]: Modification: [Art. 172](https://www.legislation.gov.uk/nisi/1989/2405/article/172) applied (with modifications) (4.1.2024) by [S.I. 2021/716](https://www.legislation.gov.uk/uksi/2021/716), [reg. 37A](https://www.legislation.gov.uk/uksi/2021/716/regulation/37A) (as inserted by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2023/1399/regulation/12))
+[^c-657edb63c86887d7882596558371844d]: Modification: [Art. 172](https://www.legislation.gov.uk/nisi/1989/2405/article/172) applied (with modifications) (4.1.2024) by [S.I. 2021/716](https://www.legislation.gov.uk/uksi/2021/716), [reg. 37A](https://www.legislation.gov.uk/uksi/2021/716/regulation/37A) (as inserted by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2023/1399/regulation/12))
 
-[^key-5382c63d9681977c1c8e6a38bc2e3841]: Modification: [Pts. 1-5](https://www.legislation.gov.uk/nisi/1989/2405/part/1) applied (with modifications) (4.1.2024) by [S.I. 2021/716](https://www.legislation.gov.uk/uksi/2021/716), [Sch. 1A para. 3](https://www.legislation.gov.uk/uksi/2021/716/schedule/1A/paragraph/3) (as inserted by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/1399/schedule/1))
+[^c-5382c63d9681977c1c8e6a38bc2e3841]: Modification: [Pts. 1-5](https://www.legislation.gov.uk/nisi/1989/2405/part/1) applied (with modifications) (4.1.2024) by [S.I. 2021/716](https://www.legislation.gov.uk/uksi/2021/716), [Sch. 1A para. 3](https://www.legislation.gov.uk/uksi/2021/716/schedule/1A/paragraph/3) (as inserted by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/1399/schedule/1))
 
-[^key-2c67498e129d1f62efcfdf86c9e9e8b0]: Modification: [Art. 172(2)](https://www.legislation.gov.uk/nisi/1989/2405/article/172/2) modified (temp.) (retrospective to 27.4.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [Sch. 11 para. 8(1)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/11/paragraph/8/1)[(2)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/11/paragraph/8/2), [13](https://www.legislation.gov.uk/ukpga/2020/12/schedule/11/paragraph/13) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-2c67498e129d1f62efcfdf86c9e9e8b0]: Modification: [Art. 172(2)](https://www.legislation.gov.uk/nisi/1989/2405/article/172/2) modified (temp.) (retrospective to 27.4.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [Sch. 11 para. 8(1)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/11/paragraph/8/1)[(2)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/11/paragraph/8/2), [13](https://www.legislation.gov.uk/ukpga/2020/12/schedule/11/paragraph/13) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))

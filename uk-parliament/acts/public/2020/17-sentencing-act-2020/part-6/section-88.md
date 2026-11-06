@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Making of referral order: connected offences[^key-abe47c0b03a8404b158a6f75dffb7e39]
+## 88. Making of referral order: connected offences[^c-abe47c0b03a8404b158a6f75dffb7e39]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ the period specified in another of the referral orders.
 
 ## Annotations
 
-[^key-abe47c0b03a8404b158a6f75dffb7e39]: Commencement: S. 88 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-abe47c0b03a8404b158a6f75dffb7e39]: Commencement: S. 88 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

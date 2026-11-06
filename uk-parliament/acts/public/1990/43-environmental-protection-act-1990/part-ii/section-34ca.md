@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34CA. Electronic waste tracking[^key-e9fb44406be9356e97de49139e5ae0c8]
+## 34CA. Electronic waste tracking[^c-e9fb44406be9356e97de49139e5ae0c8]
 
 *Extent: E+W+S+N.I.*
 
@@ -73,4 +73,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e9fb44406be9356e97de49139e5ae0c8]: Textual amendment: [Ss. 34CA](https://www.legislation.gov.uk/ukpga/1990/43/section/34CA), [34CB](https://www.legislation.gov.uk/ukpga/1990/43/section/34CB) and cross-heading inserted (9.1.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 58(2)](https://www.legislation.gov.uk/ukpga/2021/30/section/58/2), [147(2)(g)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/g) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144))
+[^c-e9fb44406be9356e97de49139e5ae0c8]: Textual amendment: [Ss. 34CA](https://www.legislation.gov.uk/ukpga/1990/43/section/34CA), [34CB](https://www.legislation.gov.uk/ukpga/1990/43/section/34CB) and cross-heading inserted (9.1.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 58(2)](https://www.legislation.gov.uk/ukpga/2021/30/section/58/2), [147(2)(g)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/g) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144))

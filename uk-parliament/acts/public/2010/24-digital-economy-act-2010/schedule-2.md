@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2 — Repeals[^c2030881][^key-6a5993c8074d7fcdf8e49a4404a67ad9][^key-7302d107f9fab581911c267f462b582b][^key-b7b9b88f217aeb244fcac9b0e673b095][^key-decd4abefc52a4bf9ff4339defbbdc81]
+## SCHEDULE 2 — Repeals[^c2030881][^c-6a5993c8074d7fcdf8e49a4404a67ad9][^c-7302d107f9fab581911c267f462b582b][^c-b7b9b88f217aeb244fcac9b0e673b095][^c-decd4abefc52a4bf9ff4339defbbdc81]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,10 +46,10 @@ Section 45
 
 [^c2030881]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/24/schedule/2) partly in force; [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/24/schedule/2) in force for specified purposes at 8.6.2010 see [s. 47(1)(3)(b)-(d)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/1/3/b)
 
-[^key-6a5993c8074d7fcdf8e49a4404a67ad9]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/24/schedule/2) in force for specified purposes at 22.6.2011 by [S.I. 2011/1170](https://www.legislation.gov.uk/uksi/2011/1170), [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/1170/article/2/b)
+[^c-6a5993c8074d7fcdf8e49a4404a67ad9]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/24/schedule/2) in force for specified purposes at 22.6.2011 by [S.I. 2011/1170](https://www.legislation.gov.uk/uksi/2011/1170), [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/1170/article/2/b)
 
-[^key-7302d107f9fab581911c267f462b582b]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/24/schedule/2) in force for specified purposes at 1.5.2012 by [S.I. 2012/1164](https://www.legislation.gov.uk/uksi/2012/1164), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/1164/article/2/c)
+[^c-7302d107f9fab581911c267f462b582b]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/24/schedule/2) in force for specified purposes at 1.5.2012 by [S.I. 2012/1164](https://www.legislation.gov.uk/uksi/2012/1164), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/1164/article/2/c)
 
-[^key-b7b9b88f217aeb244fcac9b0e673b095]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/24/schedule/2) in force for specified purposes at 30.7.2012 by [S.I. 2012/1766](https://www.legislation.gov.uk/uksi/2012/1766), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/1766/article/2/b)
+[^c-b7b9b88f217aeb244fcac9b0e673b095]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/24/schedule/2) in force for specified purposes at 30.7.2012 by [S.I. 2012/1766](https://www.legislation.gov.uk/uksi/2012/1766), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/1766/article/2/b)
 
-[^key-decd4abefc52a4bf9ff4339defbbdc81]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/24/schedule/2) in force for specified purposes at 30.6.2014 by [S.I. 2014/1659](https://www.legislation.gov.uk/uksi/2014/1659), [art. 2](https://www.legislation.gov.uk/uksi/2014/1659/article/2)
+[^c-decd4abefc52a4bf9ff4339defbbdc81]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/24/schedule/2) in force for specified purposes at 30.6.2014 by [S.I. 2014/1659](https://www.legislation.gov.uk/uksi/2014/1659), [art. 2](https://www.legislation.gov.uk/uksi/2014/1659/article/2)

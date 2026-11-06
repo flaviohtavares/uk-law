@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 88. Making an allocation election[^key-47cedb3e091ec7b97bbed81f07a3800d]
+## 88. Making an allocation election[^c-47cedb3e091ec7b97bbed81f07a3800d]
 
 *Extent: N.I.*
 
@@ -41,7 +41,7 @@ summary: ''
 - (a) revoke the election; or
 - (b) amend the election by altering the amount of retirement pension to be allocated.
 
-(5)[^key-56cc8dcceb793c1edac4fabe7f72a69a] The election takes effect on the election closing date unless it has no effect under paragraph (6) or (7).
+(5)[^c-56cc8dcceb793c1edac4fabe7f72a69a] The election takes effect on the election closing date unless it has no effect under paragraph (6) or (7).
 
 (6) An allocation election has no effect unless the scheme manager is satisfied that when P made the election the matters stated in the declaration were true.
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-47cedb3e091ec7b97bbed81f07a3800d]: Commencement: [Reg. 88](https://www.legislation.gov.uk/nisr/2014/290/regulation/88) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-47cedb3e091ec7b97bbed81f07a3800d]: Commencement: [Reg. 88](https://www.legislation.gov.uk/nisr/2014/290/regulation/88) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
 
-[^key-56cc8dcceb793c1edac4fabe7f72a69a]: Textual amendment: [Reg. 88(5)](https://www.legislation.gov.uk/nisr/2014/290/regulation/88/5) substituted (1.4.2015) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/181)](https://www.legislation.gov.uk/nisr/2015/181), [regs. 1](https://www.legislation.gov.uk/nisr/2015/181/regulation/1), [2(8)](https://www.legislation.gov.uk/nisr/2015/181/regulation/2/8)
+[^c-56cc8dcceb793c1edac4fabe7f72a69a]: Textual amendment: [Reg. 88(5)](https://www.legislation.gov.uk/nisr/2014/290/regulation/88/5) substituted (1.4.2015) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/181)](https://www.legislation.gov.uk/nisr/2015/181), [regs. 1](https://www.legislation.gov.uk/nisr/2015/181/regulation/1), [2(8)](https://www.legislation.gov.uk/nisr/2015/181/regulation/2/8)

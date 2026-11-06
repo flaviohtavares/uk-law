@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Transfer etc of small dormant pension pots[^key-e4e1f54c522eab2dc947fabb2d9ff460]
+## 26. Transfer etc of small dormant pension pots[^c-e4e1f54c522eab2dc947fabb2d9ff460]
 
 *Extent: E+W+S*
 
@@ -56,4 +56,4 @@ the pot is required to be held subject to that arrangement.
 
 ## Annotations
 
-[^key-e4e1f54c522eab2dc947fabb2d9ff460]: Commencement: S. 26 in force at Royal Assent, see [s. 133(4)(b)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/b)
+[^c-e4e1f54c522eab2dc947fabb2d9ff460]: Commencement: S. 26 in force at Royal Assent, see [s. 133(4)(b)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/b)

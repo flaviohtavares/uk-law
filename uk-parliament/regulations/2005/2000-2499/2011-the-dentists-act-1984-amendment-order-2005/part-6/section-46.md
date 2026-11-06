@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Amendment of section 53[^key-749714113cb274e9bfb1c4c1364bf882]
+## 46. Amendment of section 53[^c-749714113cb274e9bfb1c4c1364bf882]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-749714113cb274e9bfb1c4c1364bf882]: Commencement: Art. 46 in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/3)
+[^c-749714113cb274e9bfb1c4c1364bf882]: Commencement: Art. 46 in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/3)
 
 [^f00011]: Footnote: Subsection (1) was amended by S.I. [1996/1496](https://www.legislation.gov.uk/uksi/1996/1496).

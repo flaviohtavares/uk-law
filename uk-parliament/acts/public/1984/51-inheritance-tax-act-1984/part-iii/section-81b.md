@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81B. Excluded property: property to which section 80 applies[^key-30546a9617842064a9c06d32310deff9]
+## 81B. Excluded property: property to which section 80 applies[^c-30546a9617842064a9c06d32310deff9]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-30546a9617842064a9c06d32310deff9]: Textual amendment: [S. 81B](https://www.legislation.gov.uk/ukpga/1984/51/section/81B) substituted (6.4.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 13 paras. 16](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/16), [45(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/45/1)
+[^c-30546a9617842064a9c06d32310deff9]: Textual amendment: [S. 81B](https://www.legislation.gov.uk/ukpga/1984/51/section/81B) substituted (6.4.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 13 paras. 16](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/16), [45(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/45/1)

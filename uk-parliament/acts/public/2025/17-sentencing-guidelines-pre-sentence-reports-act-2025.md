@@ -35,7 +35,7 @@ An Act to make provision about sentencing guidelines in relation to pre-sentence
 
 Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Sentencing guidelines about pre-sentence reports[^key-5846a9f06ea5a5e20f31fca9b117679e]
+## 1. Sentencing guidelines about pre-sentence reports[^c-5846a9f06ea5a5e20f31fca9b117679e]
 
 (1) Section 120 of the Coroners and Justice Act 2009 (sentencing guidelines) is amended as follows.
 
@@ -53,7 +53,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 >   - (c) cultural background;
 > - “**pre-sentence report**” has the same meaning as in the Sentencing Code (see section 31 of the Code).
 
-## 2. Extent, commencement and short title[^key-45fa52c06fbb1a41009a29847e75aed6]
+## 2. Extent, commencement and short title[^c-45fa52c06fbb1a41009a29847e75aed6]
 
 (1) This Act extends to England and Wales only.
 
@@ -63,6 +63,6 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 ## Annotations
 
-[^key-5846a9f06ea5a5e20f31fca9b117679e]: Commencement: S. 1 in force at 20.6.2025, see [s. 2(2)](https://www.legislation.gov.uk/ukpga/2025/17/section/2/2)
+[^c-5846a9f06ea5a5e20f31fca9b117679e]: Commencement: S. 1 in force at 20.6.2025, see [s. 2(2)](https://www.legislation.gov.uk/ukpga/2025/17/section/2/2)
 
-[^key-45fa52c06fbb1a41009a29847e75aed6]: Commencement: S. 2 in force at 20.6.2025, see [s. 2(2)](https://www.legislation.gov.uk/ukpga/2025/17/section/2/2)
+[^c-45fa52c06fbb1a41009a29847e75aed6]: Commencement: S. 2 in force at 20.6.2025, see [s. 2(2)](https://www.legislation.gov.uk/ukpga/2025/17/section/2/2)

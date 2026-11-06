@@ -68,9 +68,9 @@ The General Optical Council, in exercise of their powers under sections 13E(1), 
 
 ### PART 1 — Citation, Commencement and Interpretation
 
-**1.**[^key-5d25548985d4316182424347d2a3ccb0] These Rules may be cited as the General Optical Council (Fitness to Practise) Rules 2013 and shall come into force on 1st April 2014.
+**1.**[^c-5d25548985d4316182424347d2a3ccb0] These Rules may be cited as the General Optical Council (Fitness to Practise) Rules 2013 and shall come into force on 1st April 2014.
 
-#### 2. Interpretation[^key-5584edad234f6c76a6677e29f7caec39]
+#### 2. Interpretation[^c-5584edad234f6c76a6677e29f7caec39]
 
 (1) In these Rules—
 
@@ -116,11 +116,11 @@ The General Optical Council, in exercise of their powers under sections 13E(1), 
 
 (2) In these Rules any reference to a numbered section is a reference to the section of the Opticians Act 1989 which bears that number.
 
-#### 2A. Notices and notifications[^key-219c585fd05ca950279cc574cf727c2a]
+#### 2A. Notices and notifications[^c-219c585fd05ca950279cc574cf727c2a]
 
 Any notice, notification or other document which is required by these Rules to be served on another person may be served by email if that person has provided an email address for communications.
 
-#### 2B. Virtual meetings and hearings[^key-c8ee9a7a6bf7e3d76194dcd937bb38f3]
+#### 2B. Virtual meetings and hearings[^c-c8ee9a7a6bf7e3d76194dcd937bb38f3]
 
 (1) A meeting or hearing arranged under these Rules may be conducted using audio or video conferencing facilities.
 
@@ -128,14 +128,14 @@ Any notice, notification or other document which is required by these Rules to b
 
 ### PART 2 — INVESTIGATION
 
-#### 3. Delegation of functions of the Investigation Committee[^key-7c7ab9c91c3150fcda77b768b4e7a34c]
+#### 3. Delegation of functions of the Investigation Committee[^c-7c7ab9c91c3150fcda77b768b4e7a34c]
 
 Where an allegation has been made against a registrant—
 
 - (a) an officer of the Council may, until such time as the allegation is considered by the case examiners or the Investigation Committee under rules 12 or 13, exercise the function of investigating allegations which is conferred on the Investigation Committee by section 13D(5) (investigation of allegation of impairment of fitness to practise): this does not apply where paragraph (b) does;
 - (b) the registrar and case examiners must, subject to the provisions of this Part and Part 4, exercise the functions conferred on the Investigation Committee by section 13D(5) to (9).
 
-#### 4. Initial consideration and referral of allegations[^key-edaef3b8e46abd6e7fb4208d9a016f8b]
+#### 4. Initial consideration and referral of allegations[^c-edaef3b8e46abd6e7fb4208d9a016f8b]
 
 (1) Pursuant to a delegation under rule 3(b), an allegation must initially be considered by the registrar.
 
@@ -149,7 +149,7 @@ This is subject to paragraph (5).
 
 (5) The registrar must refer an allegation falling within section 13D(2)(c) relating to a conviction which has resulted in the imposition of a custodial sentence, whether immediate or suspended, to the Fitness to Practise Committee.
 
-#### 5. Notification and evidence gathering[^key-5320aca968526d567841d9204381862a]
+#### 5. Notification and evidence gathering[^c-5320aca968526d567841d9204381862a]
 
 (1) Paragraphs (2) to (5) apply where an allegation is to be considered by the case examiners under rule 12 but has not yet been so considered.
 
@@ -170,7 +170,7 @@ This is subject to paragraph (5).
 
 ### PART 3 — ASSESSMENTS OF INDIVIDUAL REGISTRANTS
 
-#### 6. Appointment of assessors and direction for assessment by the Investigation Committee[^key-2ecbdb358c61a34322ee9067c8545822]
+#### 6. Appointment of assessors and direction for assessment by the Investigation Committee[^c-2ecbdb358c61a34322ee9067c8545822]
 
 (1) Where the Investigation Committee is considering an allegation against an individual registrant; or where the Investigation Committee receives a referral from the case examiners under rule 12(1)(c), it may—
 
@@ -181,7 +181,7 @@ This is subject to paragraph (5).
 
 (2) Where the Investigation Committee gives a direction under paragraph (1), it must specify the matters on which the registrant is to be assessed.
 
-#### 7. Appointment of assessors and direction for assessment by the Fitness to Practise Committee[^key-731ae7eda4f585f7f4d33953ab49bd20]
+#### 7. Appointment of assessors and direction for assessment by the Fitness to Practise Committee[^c-731ae7eda4f585f7f4d33953ab49bd20]
 
 (1) Where an allegation against an individual registrant has been referred to the Fitness to Practise Committee under section 13D(6)(b) (reference by registrar following direction from the Investigation Committee), the Fitness to Practise Committee may—
 
@@ -192,7 +192,7 @@ This is subject to paragraph (5).
 
 (2) Where the Fitness to Practise Committee gives a direction under paragraph (1), it must specify the matters on which the registrant is to be assessed.
 
-#### 8. Assessment notification[^key-acb520bbc18ef5dab6b0ca168a9c8151]
+#### 8. Assessment notification[^c-acb520bbc18ef5dab6b0ca168a9c8151]
 
 Where the Investigation Committee under rule 6, or the Fitness to Practise Committee under rule 7, has appointed an assessor, the registrar must—
 
@@ -202,11 +202,11 @@ Where the Investigation Committee under rule 6, or the Fitness to Practise Commi
   - (i) the date of the meeting, and
   - (ii) the direction the Committee has given under rule 6(1)(b) or 7(1)(b).
 
-#### 9. Date of assessment meeting[^key-c4761a1200f2093ac3ad6637ab7cad43]
+#### 9. Date of assessment meeting[^c-c4761a1200f2093ac3ad6637ab7cad43]
 
 The meeting referred to in rule 8 shall take place no earlier than 28 days after the date upon which the notification required by paragraph (c) of that rule was served on the registrant.
 
-#### 10. Assessment report[^key-77817d0508396839c50fccef6b141f32]
+#### 10. Assessment report[^c-77817d0508396839c50fccef6b141f32]
 
 (1) An assessor appointed under rule 6 or rule 7 to conduct an assessment of the standard or quality of the registrant’s work must, upon completion of that assessment, prepare a report.
 
@@ -218,13 +218,13 @@ The meeting referred to in rule 8 shall take place no earlier than 28 days after
 
 (5) The registrant may submit comments on any report prepared under rule 6 or rule 7 within 28 days of the date on which it is sent to the registrant by the registrar.
 
-#### 11. Failure to submit to or co-operate with an assessment[^key-003129fb1eb8edb189646ecd457004d5]
+#### 11. Failure to submit to or co-operate with an assessment[^c-003129fb1eb8edb189646ecd457004d5]
 
 Where a registrant has failed to submit to, or to co-operate with, any examination required or directed under rule 6 or rule 7, the Investigation Committee or, as the case may be, the Fitness to Practise Committee may draw such inferences in relation to the registrant as seem appropriate.
 
 ### PART 4 — REFERRAL TO THE FITNESS TO PRACTISE COMMITTEE
 
-#### 12. Consideration and decisions by the case examiners[^key-27a48d66731ad4095a347f9523fcebc3]
+#### 12. Consideration and decisions by the case examiners[^c-27a48d66731ad4095a347f9523fcebc3]
 
 (1) As soon as reasonably practicable after an allegation has been referred by the registrar under rule 4(4), the case examiners must consider it and—
 
@@ -256,7 +256,7 @@ Where a registrant has failed to submit to, or to co-operate with, any examinati
 
 (8) The consideration by the case examiners must take place in private.
 
-#### 13. Cases considered by the Investigation Committee[^key-483f01bc821a0c105d9c64074316a21e]
+#### 13. Cases considered by the Investigation Committee[^c-483f01bc821a0c105d9c64074316a21e]
 
 (1) Where rule 12(1)(b) applies, the case examiners must notify the registrar accordingly, and the registrar must refer the allegation for consideration by the Investigation Committee in accordance with section 13D(5) to (9).
 
@@ -278,7 +278,7 @@ Where a registrant has failed to submit to, or to co-operate with, any examinati
 
 (6) The consideration by the Investigation Committee must take place in private.
 
-#### 14. Warnings[^key-d8c2a3ee04dcf8a87c22cda95c9509f9]
+#### 14. Warnings[^c-d8c2a3ee04dcf8a87c22cda95c9509f9]
 
 (1) Where the case examiners under rule 12(1)(a)(ii), or the Investigation Committee under rule 13(1) and pursuant to section 13D(7), decide that an allegation against a registrant ought not to be considered by the Fitness to Practise Committee, they must consider whether or not to give a warning to the registrant regarding the registrant’s future conduct or performance.
 
@@ -286,7 +286,7 @@ Where a registrant has failed to submit to, or to co-operate with, any examinati
 
 (3) The case examiners or, as the case may be, the Investigation Committee must consider any representations made by the registrant pursuant to paragraph (2) and decide whether or not to give a warning to the registrant.
 
-#### 15. Review of decision not to refer[^key-631102ee9461686d6ec3f7fa7f450dd9]
+#### 15. Review of decision not to refer[^c-631102ee9461686d6ec3f7fa7f450dd9]
 
 (1) A decision not to refer an allegation to the Fitness to Practise Committee may be reviewed by the case examiners—
 
@@ -324,7 +324,7 @@ This subject to paragraph (2).
 
 (6) Decisions by the case examiners under paragraphs (3) and (4) must be unanimous: where the case examiners cannot agree, the original decision not to refer the allegation shall stand.
 
-#### 16. Termination of referral[^key-b83cf64cda4f588bc830f6f4a33b4aa1]
+#### 16. Termination of referral[^c-b83cf64cda4f588bc830f6f4a33b4aa1]
 
 (1) Where an allegation against a registrant has been referred to the Fitness to Practise Committee under section 13D(6)(b) (reference by registrar following direction), the case examiners may review the referral.
 
@@ -345,7 +345,7 @@ This subject to paragraph (2).
 
 ### PART 5 — INTERIM ORDERS
 
-#### 17. Notification of application for interim order[^key-edca123624ba625301c967ad261a9b6f]
+#### 17. Notification of application for interim order[^c-edca123624ba625301c967ad261a9b6f]
 
 Where a matter has been referred to the Fitness to Practise Committee to consider the making of an interim order, the registrar must serve on the registrant a Notice of Interim Order Hearing which must—
 
@@ -361,15 +361,15 @@ Where a matter has been referred to the Fitness to Practise Committee to conside
   - (ii) oppose the making of the interim order,
   - (iii) be represented at the hearing.
 
-#### 18.[^key-0889c9cdf8366b5f32532acc2da22afa]
+#### 18.[^c-0889c9cdf8366b5f32532acc2da22afa]
 
 Unless the registrar is of the view that the public interest requires an earlier hearing, the interim order hearing must take place no earlier than 7 days after the date upon which the Notice of Interim Order Hearing was sent to the registrant in accordance with rule 17.
 
-#### 19.[^key-f32bb0b1c8133fc4b6e1ae92d27bf87e]
+#### 19.[^c-f32bb0b1c8133fc4b6e1ae92d27bf87e]
 
 Where, after the sending of the Notice of Interim Order Hearing, the date, time or venue of the interim order hearing is required to be varied from those specified in the Notice, the registrar must make such efforts as are reasonable in the circumstances to inform the registrant of any such variations before the interim order hearing.
 
-#### 20. Conduct of interim order hearings[^key-277502eca67803205f60d9a93a418803]
+#### 20. Conduct of interim order hearings[^c-277502eca67803205f60d9a93a418803]
 
 (1) This rule applies where the Fitness to Practise Committee is considering whether to make an interim order.
 
@@ -401,7 +401,7 @@ This is subject to paragraphs (2) to (4).
 
 ### PART 6 — HEARINGS OF THE FITNESS TO PRACTISE COMMITTEE
 
-#### 21. Representation[^key-25afc5e3b03a7d580f2a1f8bfea05626]
+#### 21. Representation[^c-25afc5e3b03a7d580f2a1f8bfea05626]
 
 (1) The parties to hearings before the Fitness to Practise Committee are entitled to be heard.
 
@@ -423,14 +423,14 @@ This is subject to paragraph (5).
 
 (5) A person who gives evidence at a hearing is not, without the permission of the Fitness to Practise Committee, entitled to represent or accompany the registrant at the hearing.
 
-#### 22. Proceeding in the absence etc. of the registrant[^key-c5ac38fba2175375b8d518b5444f506c]
+#### 22. Proceeding in the absence etc. of the registrant[^c-c5ac38fba2175375b8d518b5444f506c]
 
 Where the registrant is neither present nor represented at a hearing, the Fitness to Practise Committee may nevertheless proceed if—
 
 - (a) it is satisfied that all reasonable efforts have been made to notify the registrant of the hearing in accordance with section 23A[^f00016] and rule 61; and
 - (b) having regard to any reasons for absence which have been provided by the registrant, it is satisfied that it is in the public interest to proceed.
 
-#### 23. Joinder[^key-9147ec933b84157368f3405f0ec527d8]
+#### 23. Joinder[^c-9147ec933b84157368f3405f0ec527d8]
 
 (1) If the conditions specified in paragraph (2) are satisfied, the Presenting Officer may apply to the Fitness to Practise Committee at a procedural hearing for a direction that one substantive hearing may be held in relation to two or more registrants.
 
@@ -444,11 +444,11 @@ Where the registrant is neither present nor represented at a hearing, the Fitnes
 - (a) these Rules are to have effect in relation to the hearing with the necessary adaptations; and
 - (b) each registrant is to be able to exercise any of the rights granted to that registrant under these rules, whether or not any other registrant wishes to exercise that right.
 
-#### 24.[^key-60aa0e31c6ca36e84a09a3696322ef01]
+#### 24.[^c-60aa0e31c6ca36e84a09a3696322ef01]
 
 The Fitness to Practise Committee may, where it considers it just to do so, consider and determine in one hearing an allegation by reason of two or more grounds of impairment specified in section 13D, whether those allegations were the subject of a single or separate referrals to the Committee.
 
-#### 25. Substantive Hearings in public[^key-1cdd62a4c90bd7b907271b7cb03b2c5e]
+#### 25. Substantive Hearings in public[^c-1cdd62a4c90bd7b907271b7cb03b2c5e]
 
 (1) Substantive hearings before the Fitness to Practise Committee must be held in public.
 
@@ -469,13 +469,13 @@ This is subject to paragraph (4).
 
 (5) The Fitness to Practise Committee may at any time deliberate in private.
 
-#### 26. Exclusion from hearings[^key-194ce25358671623a611cc600618e45b]
+#### 26. Exclusion from hearings[^c-194ce25358671623a611cc600618e45b]
 
 The Fitness to Practise Committee may exclude from the whole or any part of a hearing, any person (including a party or a party’s representative) whose conduct, in the Committee’s opinion, has disrupted or is likely to disrupt the proceedings.
 
 ### PART 7 — PROCEDURE AND ORDER OF PROCEEDINGS
 
-#### 27. Procedural and substantive hearings[^key-850c8a24ab62a4095336a6dca75f6e21]
+#### 27. Procedural and substantive hearings[^c-850c8a24ab62a4095336a6dca75f6e21]
 
 (1) Where an allegation has been referred to the Fitness to Practise Committee—
 
@@ -486,7 +486,7 @@ The Fitness to Practise Committee may exclude from the whole or any part of a he
 
 (3) Procedural hearings are to be private hearings.
 
-#### 28. Notification[^key-840276864eed56cf77c082329bf440e6]
+#### 28. Notification[^c-840276864eed56cf77c082329bf440e6]
 
 (1) Where an allegation has been referred to the Fitness to Practise Committee, the registrar must, as soon as reasonably practicable, serve on the registrant a notification setting out—
 
@@ -496,7 +496,7 @@ The Fitness to Practise Committee may exclude from the whole or any part of a he
 - (d) the registrant’s right to adduce evidence and to call and cross-examine witnesses in accordance with rules 46(10) and 47; and
 - (e) the Committee’s powers of disposal under sections 13F to 13I.
 
-#### 29. Standard procedural directions[^key-39788aee99fdad3c9d553001f5ff753a]
+#### 29. Standard procedural directions[^c-39788aee99fdad3c9d553001f5ff753a]
 
 (1) Unless varied by a direction of the Fitness to Practise Committee under rule 32, or by a direction issued without a procedural hearing at the written request of all the parties under rule 33, the standard procedural directions set out in the Table are to apply when an allegation is referred to the Fitness to Practise Committee.
 
@@ -535,22 +535,22 @@ Standard Procedural Directions Table
 
 (2) Paragraph (1) does not apply where rule 20 applies.
 
-#### 30. Procedural hearings[^key-64b0627269bc5b7fc63a7f7e7779982a]
+#### 30. Procedural hearings[^c-64b0627269bc5b7fc63a7f7e7779982a]
 
 Either the Presenting Officer or the registrant may require a procedural hearing to be held by notifying the Hearings Manager and the other parties in writing.
 
-#### 31.[^key-8fa5d069d57f9ce6f8554bd34bcd80bf]
+#### 31.[^c-8fa5d069d57f9ce6f8554bd34bcd80bf]
 
 The Hearings Manager must serve on the parties notification in writing of the date of the procedural hearing, which must not be earlier than 7 days after the date upon which party requiring the hearing notified the registrar of the request.
 
-#### 32.[^key-0f93220db14ff88793a42927f2fd5135]
+#### 32.[^c-0f93220db14ff88793a42927f2fd5135]
 
 At a procedural hearing, the Fitness to Practise Committee may—
 
 - (a) invite representations from any party who attends; and
 - (b) vary the standard directions.
 
-#### 33.[^key-0e638433648c9def5ca67335acc05df1]
+#### 33.[^c-0e638433648c9def5ca67335acc05df1]
 
 (1) The Fitness to Practise Committee may vary the standard procedural directions in rule 29, either at a procedural hearing or, following a written request from all the parties, upon the next occasion when the Committee sits.
 
@@ -559,13 +559,13 @@ At a procedural hearing, the Fitness to Practise Committee may—
 - (a) must provide for a timetable for the disclosure of evidence by each party; and
 - (b) may provide for any other procedural steps as seem appropriate to the Fitness to Practise Committee for the further conduct of the matter.
 
-#### 34. Date of substantive hearing[^key-25f916ca48e41631015948822655bacd]
+#### 34. Date of substantive hearing[^c-25f916ca48e41631015948822655bacd]
 
 (1) The Hearings Manager must serve on the parties a notification in writing of the date of the substantive hearing.
 
 (2) The substantive hearing must not be held earlier than 28 days after the date upon which the notification of the date of hearing was served on the registrant.
 
-#### 35. Adjournment[^key-7ba9f3d5caf3fbc5d532c48c09dcc2b0]
+#### 35. Adjournment[^c-7ba9f3d5caf3fbc5d532c48c09dcc2b0]
 
 (1) At any stage, a party may apply to the Fitness to Practise Committee for the adjournment of a hearing and must notify the other parties of the application.
 
@@ -574,17 +574,17 @@ At a procedural hearing, the Fitness to Practise Committee may—
 - (a) at the hearing at which the application is made; or
 - (b) if the application is made otherwise than at a hearing, on the next date upon which the Fitness to Practise Committee sit: in such a case all parties must be notified of that date by the Hearings Manager.
 
-#### 36.[^key-9821b597f8b95ea06722a4bab132e621]
+#### 36.[^c-9821b597f8b95ea06722a4bab132e621]
 
 (1) Upon the hearing of an application under rule 35, or of its own motion, the Fitness to Practise Committee may adjourn a hearing.
 
 (2) Where the Fitness to Practise Committee decides to adjourn a hearing, it may fix a new date for the hearing.
 
-#### 37.[^key-76f0792f6b3da043a59c00ef0b321c3c]
+#### 37.[^c-76f0792f6b3da043a59c00ef0b321c3c]
 
 Where the Fitness to Practise Committee decides to adjourn a hearing under rule 36, the Hearings Manager is to serve on the parties a notification of the adjournment and the new date for the hearing.
 
-#### 37A. Postponement[^key-9ac7cbb3546bb07289b571ba35932def]
+#### 37A. Postponement[^c-9ac7cbb3546bb07289b571ba35932def]
 
 (1) The Hearings Manager may postpone any listed hearing which has not started.
 
@@ -595,15 +595,15 @@ Where the Fitness to Practise Committee decides to adjourn a hearing under rule 
 - (a) of a decision under paragraph (1) as soon as practicable after the decision is made; and
 - (b) of a decision under paragraph (2) at least 7 days before the new hearing date, unless the hearing is to take place less than 7 days after the decision under paragraph (2), in which case the Hearings Manager shall give the registrant as much notice of the new date as practicable.
 
-#### 38. Standard and burden of proof[^key-827a0629f59561705d19f90c7fca0bff]
+#### 38. Standard and burden of proof[^c-827a0629f59561705d19f90c7fca0bff]
 
 The standard of proof applicable to proof of any facts alleged by the Council at substantive hearings before the Fitness to Practise Committee is the standard applicable in civil proceedings.
 
-#### 39.[^key-2574a562343e76e314f6c5dc5b37b6a9]
+#### 39.[^c-2574a562343e76e314f6c5dc5b37b6a9]
 
 The burden of proof at substantive hearings before the Fitness to Practise Committee rests upon the Council.
 
-#### 40. Admissibility of evidence[^key-6046055683e349dfcf185400d383510b]
+#### 40. Admissibility of evidence[^c-6046055683e349dfcf185400d383510b]
 
 (1) The Fitness to Practise Committee may admit any evidence it considers fair and relevant to the case before it, whether or not such evidence would be admissible in a court of law.
 
@@ -626,7 +626,7 @@ This is subject to paragraphs (2) and (3).
 - (a) relevant to the proceedings; and
 - (b) alleged to be in the possession, ownership or control of that party.
 
-#### 41. Vulnerable witnesses[^key-60ebb043e780d26dc3fb1c9b0f5ff23c]
+#### 41. Vulnerable witnesses[^c-60ebb043e780d26dc3fb1c9b0f5ff23c]
 
 (1) Any person falling into one or more of the following categories may be treated by the Fitness to Practise Committee as a vulnerable witness in proceedings before it—
 
@@ -656,7 +656,7 @@ This is subject to paragraphs (2) and (3).
 
 (5) In the circumstances set out in paragraph (4), in the absence of written consent, the registrant must, no less than 7 days before the hearing, appoint a legally qualified person to cross-examine the witness on the registrant’s behalf: in default of the registrant doing so the Council must appoint such a person.
 
-#### 42. Witnesses[^key-6f720286c7cdb5aa6164efaf96855023]
+#### 42. Witnesses[^c-6f720286c7cdb5aa6164efaf96855023]
 
 (1) Witnesses are required to take an oath, or to affirm, before giving oral evidence at a hearing.
 
@@ -664,7 +664,7 @@ This is subject to paragraphs (2) and (3).
 
 (3) Except for expert witnesses and the registrant, witnesses are not allowed to be present during the hearing until after they have completed their evidence and have been formally released by the Committee.
 
-#### 43. Legal advisers[^key-219c522d958078fdbf541a7f3650ddae]
+#### 43. Legal advisers[^c-219c522d958078fdbf541a7f3650ddae]
 
 The Fitness to Practise Committee must be advised by a legal adviser who must—
 
@@ -677,7 +677,7 @@ The Fitness to Practise Committee must be advised by a legal adviser who must—
   - (ii) where advice is tendered after the Committee has begun to deliberate in private, every such party is informed as to the advice given;
 - (f) if the Committee so requires, advise on the drafting of the Committee’s decisions.
 
-#### 44. Clinical advisers[^key-c77925276d000533b63d00e87e4f23ac]
+#### 44. Clinical advisers[^c-c77925276d000533b63d00e87e4f23ac]
 
 Where a registrant’s physical or mental health is to be considered by the Fitness to Practise Committee, the Committee is to be advised by a clinical adviser who must—
 
@@ -687,7 +687,7 @@ Where a registrant’s physical or mental health is to be considered by the Fitn
   - (i) advice given to the Committee under paragraph (b) is tendered in the presence of the parties attending the hearing, or
   - (ii) if the advice is tendered after the Committee has begun to deliberate in private, every such party is informed as to the advice given.
 
-#### 45. Specialist advisers[^key-a848d92508015e7a7e8b54006fbb3c71]
+#### 45. Specialist advisers[^c-a848d92508015e7a7e8b54006fbb3c71]
 
 Where a specialist adviser has been appointed in relation to a matter to be considered at a substantive hearing, the adviser must—
 
@@ -697,7 +697,7 @@ Where a specialist adviser has been appointed in relation to a matter to be cons
   - (i) advice given to the Committee under paragraph (b) is tendered in the presence of the parties attending the hearing, or
   - (ii) if the advice is tendered after the Committee has begun to deliberate in private, that every such party is informed as to the advice given.
 
-#### 46. Order of proceedings at substantive hearings of the Fitness to Practise Committee[^key-01c917b932c201d94cff39474e4c3f2e]
+#### 46. Order of proceedings at substantive hearings of the Fitness to Practise Committee[^c-01c917b932c201d94cff39474e4c3f2e]
 
 (1) Unless the Fitness to Practise Committee determines otherwise, the procedure at a substantive hearing is to be as provided for in this rule.
 
@@ -767,7 +767,7 @@ it may, after hearing the parties and consulting with the legal adviser, amend t
 
 (23) At any stage before making its decision as to the imposition of a sanction or warning, the Fitness to Practise Committee may adjourn for further information or reports to be obtained in order to assist it in exercising its functions.
 
-#### 47. Questions[^key-55569bc2672f50e111339e0207cfbcb7]
+#### 47. Questions[^c-55569bc2672f50e111339e0207cfbcb7]
 
 (1) A witness called by a party may be questioned—
 
@@ -783,25 +783,25 @@ it may, after hearing the parties and consulting with the legal adviser, amend t
   - (ii) a clinical adviser, where appointed, on matters relating to the physical or mental health of the registrant, and
   - (iii) a specialist adviser, where appointed, on matters relating to the specialty for which the specialist has been appointed.
 
-#### 48. Declarations where allegation not proven[^key-4c7dd702dcc5cec0f1190a7bd61bb13b]
+#### 48. Declarations where allegation not proven[^c-4c7dd702dcc5cec0f1190a7bd61bb13b]
 
 Where, in the case of an individual registrant, it has been alleged that the registrant’s fitness to practise is impaired but the Fitness to Practise Committee decide that it is not impaired—
 
 - (a) the Committee must, if requested by the registrant, make a declaration to that effect, giving reasons for its decision; or
 - (b) the Committee may, if no such request is made but the registrant nonetheless consents, make such a declaration.
 
-#### 49.[^key-653d857da04f53fa62ceaed5fc7125b2]
+#### 49.[^c-653d857da04f53fa62ceaed5fc7125b2]
 
 Where, in the case of a business registrant, it has been alleged that the registrant is not fit to carry on the business of an optometrist or a dispensing optician or both but the Fitness to Practise Committee decide that the registrant’s fitness to carry on that business is not impaired—
 
 - (a) the Committee must, if requested by the registrant, make a declaration to that effect, giving reasons for its decision; or
 - (b) the Committee may, if no such request is made but the registrant nonetheless consents, make such a declaration.
 
-#### 50. Written decision[^key-94450ea7ff909e4187b25459c80bb24b]
+#### 50. Written decision[^c-94450ea7ff909e4187b25459c80bb24b]
 
 The Fitness to Practise Committee must give the parties a written record of its decisions under these Rules, together with any reasons which have been given for any decision made.
 
-#### 51. Notification and disclosure of outcome of investigations and hearings[^key-48e775b25c7eb3cc9af46a31e838610a]
+#### 51. Notification and disclosure of outcome of investigations and hearings[^c-48e775b25c7eb3cc9af46a31e838610a]
 
 The Council may disclose to the maker of the allegation and to the registrant’s employer (if known to the registrar)—
 
@@ -809,7 +809,7 @@ The Council may disclose to the maker of the allegation and to the registrant’
 - (b) a decision of the Investigation Committee;
 - (c) a decision of the Fitness to Practise Committee.
 
-#### 52. Costs and expenses[^key-a0f2f55fd8d473c161733cfe8a53ada7]
+#### 52. Costs and expenses[^c-a0f2f55fd8d473c161733cfe8a53ada7]
 
 (1) The Fitness to Practise Committee may, as it thinks fit, summarily assess the costs of any party to a substantive hearing or to any review hearing other than a hearing to review an interim order, and may order any party to pay all or part of the costs or expenses of any other party relating to that hearing.
 
@@ -819,7 +819,7 @@ The Council may disclose to the maker of the allegation and to the registrant’
 
 (4) After hearing any representations from the parties, the Fitness to Practise Committee may, if it thinks fit and having regard to the party’s ability to pay, order that a party shall pay all or part of the costs or expenses relating to the hearing incurred by the other party.
 
-#### 53.[^key-c8fb1330737e19fe3cf6e7af407e01b0]
+#### 53.[^c-c8fb1330737e19fe3cf6e7af407e01b0]
 
 (1) Where the Fitness to Practise Committee orders a party to pay costs or expenses, the Chair may—
 
@@ -828,20 +828,20 @@ The Council may disclose to the maker of the allegation and to the registrant’
 
 (2) Where a person is appointed by the Hearings Manager in accordance with paragraph (1)(b), that person must also determine how the costs of the assessment are to be apportioned.
 
-#### 54. Period of payment[^key-f57e1b9153b57a4d69d80346fc07f656]
+#### 54. Period of payment[^c-f57e1b9153b57a4d69d80346fc07f656]
 
 Where the Fitness to Practise Committee has made an order under rule 52, it may specify the period within which the costs or expenses are to be paid.
 
 ### PART 8 — REVIEWS
 
-#### 55. Referral for a review[^key-367aebbd89f6ce8f1243e414a17e15d2]
+#### 55. Referral for a review[^c-367aebbd89f6ce8f1243e414a17e15d2]
 
 Where the Fitness to Practise Committee has previously made an interim order, conditional order or suspension order in respect of a registrant, the registrar—
 
 - (a) must refer the case to the Committee for the purposes of sections 13F(10) or 13L(3)(a) or (9); or
 - (b) may refer the case to the Committee where new evidence is received by the Council which, in the registrar’s opinion, suggests that an order imposed on the registrant’s registration ought to be reviewed.
 
-#### 56. Notice of review[^key-c4d1becc5cf27b249406352256d5a42f]
+#### 56. Notice of review[^c-c4d1becc5cf27b249406352256d5a42f]
 
 The registrar must serve on the registrant notification of the date of the proposed review of an interim order, a conditional order or a suspension order (“a review hearing”) together with—
 
@@ -851,11 +851,11 @@ The registrar must serve on the registrant notification of the date of the propo
 - (b) details of the order which is to be reviewed; and
 - (c) the information set out in rule 28(1)(b) to (e).
 
-#### 57. Date of review[^key-693c9462472598a7b02ade4214a8fd8c]
+#### 57. Date of review[^c-693c9462472598a7b02ade4214a8fd8c]
 
 The review of a conditional order or a suspension order must not be held earlier than 28 days after the date upon which the notification was served on the registrant by virtue of rule 56: this does not apply where the registrant agrees to, or the Fitness to Practise Committee is of the view that the public interest requires, an earlier hearing.
 
-#### 58. Conduct of review hearing.[^key-d6adcd08d2f875ce46b169131a25570b]
+#### 58. Conduct of review hearing.[^c-d6adcd08d2f875ce46b169131a25570b]
 
 (1) A review of an interim order shall be a private hearing.
 
@@ -868,7 +868,7 @@ The review of a conditional order or a suspension order must not be held earlier
 
 ### PART 9 — MISCELLANEOUS
 
-#### 59. Voting[^key-21dc05d30d106ecb1899bd69dc173e17]
+#### 59. Voting[^c-21dc05d30d106ecb1899bd69dc173e17]
 
 (1) Decisions of the Investigation Committee and Fitness to Practise Committee are to be taken by a simple majority.
 
@@ -878,11 +878,11 @@ The review of a conditional order or a suspension order must not be held earlier
 
 (4) Where the votes are equal the Committee must decide the issue under consideration in favour of the registrant.
 
-#### 60. Record of hearing[^key-e9e04333b951972cf6a33be31d20d43e]
+#### 60. Record of hearing[^c-e9e04333b951972cf6a33be31d20d43e]
 
 A verbatim record, in either written or electronic form, must be taken of every hearing before the Fitness to Practise Committee.
 
-#### 61. Service of documents[^key-c243a30e05b4dc1e4b67811f6231b8d0]
+#### 61. Service of documents[^c-c243a30e05b4dc1e4b67811f6231b8d0]
 
 (1) Unless it is a notification under the Opticians Act 1989 (which must be served in accordance with section 23A), or a notice described in paragraph (3), any document which is to be served on a person under these Rules (in this rule, “a document”) may be sent by ordinary post.
 
@@ -895,7 +895,7 @@ A verbatim record, in either written or electronic form, must be taken of every 
 
 (4) If the registrant is represented by a solicitor, any document as described in paragraph (1) must be served at the solicitor’s practising address.
 
-#### 62. Transitional provisions[^key-1e835bd2a0e13e2426ffbb9e5c5c701d]
+#### 62. Transitional provisions[^c-1e835bd2a0e13e2426ffbb9e5c5c701d]
 
 (1) This rule applies if immediately before 1<sup>st</sup> April 2014 a registrant is—
 
@@ -904,7 +904,7 @@ A verbatim record, in either written or electronic form, must be taken of every 
 
 (2) The Council is to make such arrangements as it considers just for the disposal of the matter.
 
-#### 63. Revocation[^key-c2194471c3401686fd747014cdff3fc5]
+#### 63. Revocation[^c-c2194471c3401686fd747014cdff3fc5]
 
 The General Optical Council (Fitness to Practise) Rules 2005[^f00017] are revoked.
 
@@ -996,9 +996,9 @@ Rule 63 revokes the 2005 Rules.
 
 [^f00002]: Footnote: Section 34(1) was amended by [S.I. 2008/1774](https://www.legislation.gov.uk/uksi/2008/1774), article 2, Schedule 2, paragraph 4.
 
-[^key-5d25548985d4316182424347d2a3ccb0]: Commencement: Sch. rule 1 in force at 1.4.2014, see Introductory Text
+[^c-5d25548985d4316182424347d2a3ccb0]: Commencement: Sch. rule 1 in force at 1.4.2014, see Introductory Text
 
-[^key-5584edad234f6c76a6677e29f7caec39]: Commencement: Sch. rule 2 in force at 1.4.2014, see Introductory Text
+[^c-5584edad234f6c76a6677e29f7caec39]: Commencement: Sch. rule 2 in force at 1.4.2014, see Introductory Text
 
 [^f00003]: Footnote: Section 13D was inserted by [S.I. 2005/848](https://www.legislation.gov.uk/uksi/2005/848), articles 2 and 16 and amended by the Policing and Crime Act [2009 (c.26)](https://www.legislation.gov.uk/ukpga/2009/26) section 81.
 
@@ -1024,136 +1024,136 @@ Rule 63 revokes the 2005 Rules.
 
 [^f00014]: Footnote: Sections 13F to 13I were inserted by [S.I. 2005/848](https://www.legislation.gov.uk/uksi/2005/848), articles 2 and 16.
 
-[^key-219c585fd05ca950279cc574cf727c2a]: Textual amendment: Sch. rule 2A inserted (14.12.2020) by [The General Optical Council (Committee Constitution, Registration and Fitness to Practise) (Coronavirus) (Amendment) Rules Order of Council 2020 (S.I. 2020/1325)](https://www.legislation.gov.uk/uksi/2020/1325), [art. 1](https://www.legislation.gov.uk/uksi/2020/1325/article/1), [Sch. rule 19](https://www.legislation.gov.uk/uksi/2020/1325/schedule)
+[^c-219c585fd05ca950279cc574cf727c2a]: Textual amendment: Sch. rule 2A inserted (14.12.2020) by [The General Optical Council (Committee Constitution, Registration and Fitness to Practise) (Coronavirus) (Amendment) Rules Order of Council 2020 (S.I. 2020/1325)](https://www.legislation.gov.uk/uksi/2020/1325), [art. 1](https://www.legislation.gov.uk/uksi/2020/1325/article/1), [Sch. rule 19](https://www.legislation.gov.uk/uksi/2020/1325/schedule)
 
-[^key-c8ee9a7a6bf7e3d76194dcd937bb38f3]: Textual amendment: Sch. rule 2B inserted (temp. until 1.10.2021) (14.12.2020) by virtue of [The General Optical Council (Committee Constitution, Registration and Fitness to Practise) (Coronavirus) (Amendment) Rules Order of Council 2020 (S.I. 2020/1325)](https://www.legislation.gov.uk/uksi/2020/1325), [art. 1](https://www.legislation.gov.uk/uksi/2020/1325/article/1), [Sch. rule 20](https://www.legislation.gov.uk/uksi/2020/1325/schedule) (with [Sch. rule 2(1)](https://www.legislation.gov.uk/uksi/2020/1325/schedule))
+[^c-c8ee9a7a6bf7e3d76194dcd937bb38f3]: Textual amendment: Sch. rule 2B inserted (temp. until 1.10.2021) (14.12.2020) by virtue of [The General Optical Council (Committee Constitution, Registration and Fitness to Practise) (Coronavirus) (Amendment) Rules Order of Council 2020 (S.I. 2020/1325)](https://www.legislation.gov.uk/uksi/2020/1325), [art. 1](https://www.legislation.gov.uk/uksi/2020/1325/article/1), [Sch. rule 20](https://www.legislation.gov.uk/uksi/2020/1325/schedule) (with [Sch. rule 2(1)](https://www.legislation.gov.uk/uksi/2020/1325/schedule))
 
-[^key-7c7ab9c91c3150fcda77b768b4e7a34c]: Commencement: Sch. rule 3 in force at 1.4.2014, see Introductory Text
+[^c-7c7ab9c91c3150fcda77b768b4e7a34c]: Commencement: Sch. rule 3 in force at 1.4.2014, see Introductory Text
 
-[^key-edaef3b8e46abd6e7fb4208d9a016f8b]: Commencement: Sch. rule 4 in force at 1.4.2014, see Introductory Text
+[^c-edaef3b8e46abd6e7fb4208d9a016f8b]: Commencement: Sch. rule 4 in force at 1.4.2014, see Introductory Text
 
-[^key-5320aca968526d567841d9204381862a]: Commencement: Sch. rule 5 in force at 1.4.2014, see Introductory Text
+[^c-5320aca968526d567841d9204381862a]: Commencement: Sch. rule 5 in force at 1.4.2014, see Introductory Text
 
-[^key-2ecbdb358c61a34322ee9067c8545822]: Commencement: Sch. rule 6 in force at 1.4.2014, see Introductory Text
+[^c-2ecbdb358c61a34322ee9067c8545822]: Commencement: Sch. rule 6 in force at 1.4.2014, see Introductory Text
 
-[^key-731ae7eda4f585f7f4d33953ab49bd20]: Commencement: Sch. rule 7 in force at 1.4.2014, see Introductory Text
+[^c-731ae7eda4f585f7f4d33953ab49bd20]: Commencement: Sch. rule 7 in force at 1.4.2014, see Introductory Text
 
-[^key-acb520bbc18ef5dab6b0ca168a9c8151]: Commencement: Sch. rule 8 in force at 1.4.2014, see Introductory Text
+[^c-acb520bbc18ef5dab6b0ca168a9c8151]: Commencement: Sch. rule 8 in force at 1.4.2014, see Introductory Text
 
-[^key-c4761a1200f2093ac3ad6637ab7cad43]: Commencement: Sch. rule 9 in force at 1.4.2014, see Introductory Text
+[^c-c4761a1200f2093ac3ad6637ab7cad43]: Commencement: Sch. rule 9 in force at 1.4.2014, see Introductory Text
 
-[^key-77817d0508396839c50fccef6b141f32]: Commencement: Sch. rule 10 in force at 1.4.2014, see Introductory Text
+[^c-77817d0508396839c50fccef6b141f32]: Commencement: Sch. rule 10 in force at 1.4.2014, see Introductory Text
 
-[^key-003129fb1eb8edb189646ecd457004d5]: Commencement: Sch. rule 11 in force at 1.4.2014, see Introductory Text
+[^c-003129fb1eb8edb189646ecd457004d5]: Commencement: Sch. rule 11 in force at 1.4.2014, see Introductory Text
 
-[^key-27a48d66731ad4095a347f9523fcebc3]: Commencement: Sch. rule 12 in force at 1.4.2014, see Introductory Text
+[^c-27a48d66731ad4095a347f9523fcebc3]: Commencement: Sch. rule 12 in force at 1.4.2014, see Introductory Text
 
-[^key-483f01bc821a0c105d9c64074316a21e]: Commencement: Sch. rule 13 in force at 1.4.2014, see Introductory Text
+[^c-483f01bc821a0c105d9c64074316a21e]: Commencement: Sch. rule 13 in force at 1.4.2014, see Introductory Text
 
-[^key-d8c2a3ee04dcf8a87c22cda95c9509f9]: Commencement: Sch. rule 14 in force at 1.4.2014, see Introductory Text
+[^c-d8c2a3ee04dcf8a87c22cda95c9509f9]: Commencement: Sch. rule 14 in force at 1.4.2014, see Introductory Text
 
-[^key-631102ee9461686d6ec3f7fa7f450dd9]: Commencement: Sch. rule 15 in force at 1.4.2014, see Introductory Text
+[^c-631102ee9461686d6ec3f7fa7f450dd9]: Commencement: Sch. rule 15 in force at 1.4.2014, see Introductory Text
 
-[^key-b83cf64cda4f588bc830f6f4a33b4aa1]: Commencement: Sch. rule 16 in force at 1.4.2014, see Introductory Text
+[^c-b83cf64cda4f588bc830f6f4a33b4aa1]: Commencement: Sch. rule 16 in force at 1.4.2014, see Introductory Text
 
-[^key-edca123624ba625301c967ad261a9b6f]: Commencement: Sch. rule 17 in force at 1.4.2014, see Introductory Text
+[^c-edca123624ba625301c967ad261a9b6f]: Commencement: Sch. rule 17 in force at 1.4.2014, see Introductory Text
 
-[^key-0889c9cdf8366b5f32532acc2da22afa]: Commencement: Sch. rule 18 in force at 1.4.2014, see Introductory Text
+[^c-0889c9cdf8366b5f32532acc2da22afa]: Commencement: Sch. rule 18 in force at 1.4.2014, see Introductory Text
 
-[^key-f32bb0b1c8133fc4b6e1ae92d27bf87e]: Commencement: Sch. rule 19 in force at 1.4.2014, see Introductory Text
+[^c-f32bb0b1c8133fc4b6e1ae92d27bf87e]: Commencement: Sch. rule 19 in force at 1.4.2014, see Introductory Text
 
-[^key-277502eca67803205f60d9a93a418803]: Commencement: Sch. rule 20 in force at 1.4.2014, see Introductory Text
+[^c-277502eca67803205f60d9a93a418803]: Commencement: Sch. rule 20 in force at 1.4.2014, see Introductory Text
 
-[^key-25afc5e3b03a7d580f2a1f8bfea05626]: Commencement: Sch. rule 21 in force at 1.4.2014, see Introductory Text
+[^c-25afc5e3b03a7d580f2a1f8bfea05626]: Commencement: Sch. rule 21 in force at 1.4.2014, see Introductory Text
 
 [^f00015]: Footnote: [1990 c.41](https://www.legislation.gov.uk/ukpga/1990/41).
 
-[^key-c5ac38fba2175375b8d518b5444f506c]: Commencement: Sch. rule 22 in force at 1.4.2014, see Introductory Text
+[^c-c5ac38fba2175375b8d518b5444f506c]: Commencement: Sch. rule 22 in force at 1.4.2014, see Introductory Text
 
 [^f00016]: Footnote: Section 23A was inserted by [S.I. 2005/848](https://www.legislation.gov.uk/uksi/2005/848), articles 2 and 17.
 
-[^key-9147ec933b84157368f3405f0ec527d8]: Commencement: Sch. rule 23 in force at 1.4.2014, see Introductory Text
+[^c-9147ec933b84157368f3405f0ec527d8]: Commencement: Sch. rule 23 in force at 1.4.2014, see Introductory Text
 
-[^key-60aa0e31c6ca36e84a09a3696322ef01]: Commencement: Sch. rule 24 in force at 1.4.2014, see Introductory Text
+[^c-60aa0e31c6ca36e84a09a3696322ef01]: Commencement: Sch. rule 24 in force at 1.4.2014, see Introductory Text
 
-[^key-1cdd62a4c90bd7b907271b7cb03b2c5e]: Commencement: Sch. rule 25 in force at 1.4.2014, see Introductory Text
+[^c-1cdd62a4c90bd7b907271b7cb03b2c5e]: Commencement: Sch. rule 25 in force at 1.4.2014, see Introductory Text
 
-[^key-194ce25358671623a611cc600618e45b]: Commencement: Sch. rule 26 in force at 1.4.2014, see Introductory Text
+[^c-194ce25358671623a611cc600618e45b]: Commencement: Sch. rule 26 in force at 1.4.2014, see Introductory Text
 
-[^key-850c8a24ab62a4095336a6dca75f6e21]: Commencement: Sch. rule 27 in force at 1.4.2014, see Introductory Text
+[^c-850c8a24ab62a4095336a6dca75f6e21]: Commencement: Sch. rule 27 in force at 1.4.2014, see Introductory Text
 
-[^key-840276864eed56cf77c082329bf440e6]: Commencement: Sch. rule 28 in force at 1.4.2014, see Introductory Text
+[^c-840276864eed56cf77c082329bf440e6]: Commencement: Sch. rule 28 in force at 1.4.2014, see Introductory Text
 
-[^key-39788aee99fdad3c9d553001f5ff753a]: Commencement: Sch. rule 29 in force at 1.4.2014, see Introductory Text
+[^c-39788aee99fdad3c9d553001f5ff753a]: Commencement: Sch. rule 29 in force at 1.4.2014, see Introductory Text
 
-[^key-64b0627269bc5b7fc63a7f7e7779982a]: Commencement: Sch. rule 30 in force at 1.4.2014, see Introductory Text
+[^c-64b0627269bc5b7fc63a7f7e7779982a]: Commencement: Sch. rule 30 in force at 1.4.2014, see Introductory Text
 
-[^key-8fa5d069d57f9ce6f8554bd34bcd80bf]: Commencement: Sch. rule 31 in force at 1.4.2014, see Introductory Text
+[^c-8fa5d069d57f9ce6f8554bd34bcd80bf]: Commencement: Sch. rule 31 in force at 1.4.2014, see Introductory Text
 
-[^key-0f93220db14ff88793a42927f2fd5135]: Commencement: Sch. rule 32 in force at 1.4.2014, see Introductory Text
+[^c-0f93220db14ff88793a42927f2fd5135]: Commencement: Sch. rule 32 in force at 1.4.2014, see Introductory Text
 
-[^key-0e638433648c9def5ca67335acc05df1]: Commencement: Sch. rule 33 in force at 1.4.2014, see Introductory Text
+[^c-0e638433648c9def5ca67335acc05df1]: Commencement: Sch. rule 33 in force at 1.4.2014, see Introductory Text
 
-[^key-25f916ca48e41631015948822655bacd]: Commencement: Sch. rule 34 in force at 1.4.2014, see Introductory Text
+[^c-25f916ca48e41631015948822655bacd]: Commencement: Sch. rule 34 in force at 1.4.2014, see Introductory Text
 
-[^key-7ba9f3d5caf3fbc5d532c48c09dcc2b0]: Commencement: Sch. rule 35 in force at 1.4.2014, see Introductory Text
+[^c-7ba9f3d5caf3fbc5d532c48c09dcc2b0]: Commencement: Sch. rule 35 in force at 1.4.2014, see Introductory Text
 
-[^key-9821b597f8b95ea06722a4bab132e621]: Commencement: Sch. rule 36 in force at 1.4.2014, see Introductory Text
+[^c-9821b597f8b95ea06722a4bab132e621]: Commencement: Sch. rule 36 in force at 1.4.2014, see Introductory Text
 
-[^key-76f0792f6b3da043a59c00ef0b321c3c]: Commencement: Sch. rule 37 in force at 1.4.2014, see Introductory Text
+[^c-76f0792f6b3da043a59c00ef0b321c3c]: Commencement: Sch. rule 37 in force at 1.4.2014, see Introductory Text
 
-[^key-9ac7cbb3546bb07289b571ba35932def]: Textual amendment: Sch. rule 37A inserted (temp. until 1.10.2021) (14.12.2020) by virtue of [The General Optical Council (Committee Constitution, Registration and Fitness to Practise) (Coronavirus) (Amendment) Rules Order of Council 2020 (S.I. 2020/1325)](https://www.legislation.gov.uk/uksi/2020/1325), [art. 1](https://www.legislation.gov.uk/uksi/2020/1325/article/1), [Sch. rule 21](https://www.legislation.gov.uk/uksi/2020/1325/schedule) (with [Sch. rule 2(1)](https://www.legislation.gov.uk/uksi/2020/1325/schedule))
+[^c-9ac7cbb3546bb07289b571ba35932def]: Textual amendment: Sch. rule 37A inserted (temp. until 1.10.2021) (14.12.2020) by virtue of [The General Optical Council (Committee Constitution, Registration and Fitness to Practise) (Coronavirus) (Amendment) Rules Order of Council 2020 (S.I. 2020/1325)](https://www.legislation.gov.uk/uksi/2020/1325), [art. 1](https://www.legislation.gov.uk/uksi/2020/1325/article/1), [Sch. rule 21](https://www.legislation.gov.uk/uksi/2020/1325/schedule) (with [Sch. rule 2(1)](https://www.legislation.gov.uk/uksi/2020/1325/schedule))
 
-[^key-827a0629f59561705d19f90c7fca0bff]: Commencement: Sch. rule 38 in force at 1.4.2014, see Introductory Text
+[^c-827a0629f59561705d19f90c7fca0bff]: Commencement: Sch. rule 38 in force at 1.4.2014, see Introductory Text
 
-[^key-2574a562343e76e314f6c5dc5b37b6a9]: Commencement: Sch. rule 39 in force at 1.4.2014, see Introductory Text
+[^c-2574a562343e76e314f6c5dc5b37b6a9]: Commencement: Sch. rule 39 in force at 1.4.2014, see Introductory Text
 
-[^key-6046055683e349dfcf185400d383510b]: Commencement: Sch. rule 40 in force at 1.4.2014, see Introductory Text
+[^c-6046055683e349dfcf185400d383510b]: Commencement: Sch. rule 40 in force at 1.4.2014, see Introductory Text
 
-[^key-60ebb043e780d26dc3fb1c9b0f5ff23c]: Commencement: Sch. rule 41 in force at 1.4.2014, see Introductory Text
+[^c-60ebb043e780d26dc3fb1c9b0f5ff23c]: Commencement: Sch. rule 41 in force at 1.4.2014, see Introductory Text
 
-[^key-6f720286c7cdb5aa6164efaf96855023]: Commencement: Sch. rule 42 in force at 1.4.2014, see Introductory Text
+[^c-6f720286c7cdb5aa6164efaf96855023]: Commencement: Sch. rule 42 in force at 1.4.2014, see Introductory Text
 
-[^key-219c522d958078fdbf541a7f3650ddae]: Commencement: Sch. rule 43 in force at 1.4.2014, see Introductory Text
+[^c-219c522d958078fdbf541a7f3650ddae]: Commencement: Sch. rule 43 in force at 1.4.2014, see Introductory Text
 
-[^key-c77925276d000533b63d00e87e4f23ac]: Commencement: Sch. rule 44 in force at 1.4.2014, see Introductory Text
+[^c-c77925276d000533b63d00e87e4f23ac]: Commencement: Sch. rule 44 in force at 1.4.2014, see Introductory Text
 
-[^key-a848d92508015e7a7e8b54006fbb3c71]: Commencement: Sch. rule 45 in force at 1.4.2014, see Introductory Text
+[^c-a848d92508015e7a7e8b54006fbb3c71]: Commencement: Sch. rule 45 in force at 1.4.2014, see Introductory Text
 
-[^key-01c917b932c201d94cff39474e4c3f2e]: Commencement: Sch. rule 46 in force at 1.4.2014, see Introductory Text
+[^c-01c917b932c201d94cff39474e4c3f2e]: Commencement: Sch. rule 46 in force at 1.4.2014, see Introductory Text
 
-[^key-55569bc2672f50e111339e0207cfbcb7]: Commencement: Sch. rule 47 in force at 1.4.2014, see Introductory Text
+[^c-55569bc2672f50e111339e0207cfbcb7]: Commencement: Sch. rule 47 in force at 1.4.2014, see Introductory Text
 
-[^key-4c7dd702dcc5cec0f1190a7bd61bb13b]: Commencement: Sch. rule 48 in force at 1.4.2014, see Introductory Text
+[^c-4c7dd702dcc5cec0f1190a7bd61bb13b]: Commencement: Sch. rule 48 in force at 1.4.2014, see Introductory Text
 
-[^key-653d857da04f53fa62ceaed5fc7125b2]: Commencement: Sch. rule 49 in force at 1.4.2014, see Introductory Text
+[^c-653d857da04f53fa62ceaed5fc7125b2]: Commencement: Sch. rule 49 in force at 1.4.2014, see Introductory Text
 
-[^key-94450ea7ff909e4187b25459c80bb24b]: Commencement: Sch. rule 50 in force at 1.4.2014, see Introductory Text
+[^c-94450ea7ff909e4187b25459c80bb24b]: Commencement: Sch. rule 50 in force at 1.4.2014, see Introductory Text
 
-[^key-48e775b25c7eb3cc9af46a31e838610a]: Commencement: Sch. rule 51 in force at 1.4.2014, see Introductory Text
+[^c-48e775b25c7eb3cc9af46a31e838610a]: Commencement: Sch. rule 51 in force at 1.4.2014, see Introductory Text
 
-[^key-a0f2f55fd8d473c161733cfe8a53ada7]: Commencement: Sch. rule 52 in force at 1.4.2014, see Introductory Text
+[^c-a0f2f55fd8d473c161733cfe8a53ada7]: Commencement: Sch. rule 52 in force at 1.4.2014, see Introductory Text
 
-[^key-c8fb1330737e19fe3cf6e7af407e01b0]: Commencement: Sch. rule 53 in force at 1.4.2014, see Introductory Text
+[^c-c8fb1330737e19fe3cf6e7af407e01b0]: Commencement: Sch. rule 53 in force at 1.4.2014, see Introductory Text
 
-[^key-f57e1b9153b57a4d69d80346fc07f656]: Commencement: Sch. rule 54 in force at 1.4.2014, see Introductory Text
+[^c-f57e1b9153b57a4d69d80346fc07f656]: Commencement: Sch. rule 54 in force at 1.4.2014, see Introductory Text
 
-[^key-367aebbd89f6ce8f1243e414a17e15d2]: Commencement: Sch. rule 55 in force at 1.4.2014, see Introductory Text
+[^c-367aebbd89f6ce8f1243e414a17e15d2]: Commencement: Sch. rule 55 in force at 1.4.2014, see Introductory Text
 
-[^key-c4d1becc5cf27b249406352256d5a42f]: Commencement: Sch. rule 56 in force at 1.4.2014, see Introductory Text
+[^c-c4d1becc5cf27b249406352256d5a42f]: Commencement: Sch. rule 56 in force at 1.4.2014, see Introductory Text
 
-[^key-693c9462472598a7b02ade4214a8fd8c]: Commencement: Sch. rule 57 in force at 1.4.2014, see Introductory Text
+[^c-693c9462472598a7b02ade4214a8fd8c]: Commencement: Sch. rule 57 in force at 1.4.2014, see Introductory Text
 
-[^key-d6adcd08d2f875ce46b169131a25570b]: Commencement: Sch. rule 58 in force at 1.4.2014, see Introductory Text
+[^c-d6adcd08d2f875ce46b169131a25570b]: Commencement: Sch. rule 58 in force at 1.4.2014, see Introductory Text
 
-[^key-21dc05d30d106ecb1899bd69dc173e17]: Commencement: Sch. rule 59 in force at 1.4.2014, see Introductory Text
+[^c-21dc05d30d106ecb1899bd69dc173e17]: Commencement: Sch. rule 59 in force at 1.4.2014, see Introductory Text
 
-[^key-e9e04333b951972cf6a33be31d20d43e]: Commencement: Sch. rule 60 in force at 1.4.2014, see Introductory Text
+[^c-e9e04333b951972cf6a33be31d20d43e]: Commencement: Sch. rule 60 in force at 1.4.2014, see Introductory Text
 
-[^key-c243a30e05b4dc1e4b67811f6231b8d0]: Commencement: Sch. rule 61 in force at 1.4.2014, see Introductory Text
+[^c-c243a30e05b4dc1e4b67811f6231b8d0]: Commencement: Sch. rule 61 in force at 1.4.2014, see Introductory Text
 
-[^key-1e835bd2a0e13e2426ffbb9e5c5c701d]: Commencement: Sch. rule 62 in force at 1.4.2014, see Introductory Text
+[^c-1e835bd2a0e13e2426ffbb9e5c5c701d]: Commencement: Sch. rule 62 in force at 1.4.2014, see Introductory Text
 
-[^key-c2194471c3401686fd747014cdff3fc5]: Commencement: Sch. rule 63 in force at 1.4.2014, see Introductory Text
+[^c-c2194471c3401686fd747014cdff3fc5]: Commencement: Sch. rule 63 in force at 1.4.2014, see Introductory Text
 
 [^f00017]: Footnote: The rules are scheduled to [S.I. 2005/1475](https://www.legislation.gov.uk/uksi/2005/1475).

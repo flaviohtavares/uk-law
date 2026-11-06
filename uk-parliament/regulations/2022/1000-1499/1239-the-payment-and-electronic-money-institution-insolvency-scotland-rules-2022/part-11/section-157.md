@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 157. Third excepted case[^key-0188e8091b61e0efcb1fb2e91a05dd8e]
+## 157. Third excepted case[^c-0188e8091b61e0efcb1fb2e91a05dd8e]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ The court’s permission under section 216(3) of the IA 1986 is not required whe
 
 ## Annotations
 
-[^key-0188e8091b61e0efcb1fb2e91a05dd8e]: Commencement: Rule 157 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-0188e8091b61e0efcb1fb2e91a05dd8e]: Commencement: Rule 157 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

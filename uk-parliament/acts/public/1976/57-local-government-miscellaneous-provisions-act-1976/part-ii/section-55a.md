@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 55A. Sub-contracting by operators[^key-e56a1aaa493b57c1c4f230fa15ae3229]
+## 55A. Sub-contracting by operators[^c-e56a1aaa493b57c1c4f230fa15ae3229]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ In this subsection, “**private hire car**” and “**taxi**” have the same 
 
 ## Annotations
 
-[^key-e56a1aaa493b57c1c4f230fa15ae3229]: Textual amendment: S. 55A - S. 55B inserted (1.10.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 11](https://www.legislation.gov.uk/ukpga/2015/20/section/11), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(e)](https://www.legislation.gov.uk/uksi/2015/994/article/11/e)
+[^c-e56a1aaa493b57c1c4f230fa15ae3229]: Textual amendment: S. 55A - S. 55B inserted (1.10.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 11](https://www.legislation.gov.uk/ukpga/2015/20/section/11), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(e)](https://www.legislation.gov.uk/uksi/2015/994/article/11/e)

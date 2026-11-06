@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Consumer research[^key-4ae6e1ab8f52642690176dc27f63f912]
+## 14. Consumer research[^c-4ae6e1ab8f52642690176dc27f63f912]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,7 +29,7 @@ summary: ''
 - (e) the experiences of such consumers in relation to the resolution of disputes with communications providers or with persons making associated facilities available; and
 - (f) the interests and experiences of such consumers in relation to other matters that are incidental to, or are otherwise connected with, their experiences of the provision of electronic communications networks and electronic communications services or of the availability of associated facilities.
 
-(2) The matters to which the arrangements must relate do not include the incidence or investigation of interference (within the meaning of the Wireless Telegraphy Act 2006[^key-52e30317f49e539dba1c9c993a508b7f] ) with wireless telegraphy.
+(2) The matters to which the arrangements must relate do not include the incidence or investigation of interference (within the meaning of the Wireless Telegraphy Act 2006[^c-52e30317f49e539dba1c9c993a508b7f] ) with wireless telegraphy.
 
 (3) The matters to which the arrangements must relate do not (except so far as authorised or required by subsections (4) to (6)) include public opinion with respect to—
 
@@ -46,13 +46,13 @@ summary: ''
 
 (6) OFCOM must make arrangements for the carrying out of research into the following—
 
-- (a) the matters mentioned in section 11(1) , (1A) and (1B)[^key-db3700bd0ba127f722c496c3028e4d62];
+- (a) the matters mentioned in section 11(1) , (1A) and (1B)[^c-db3700bd0ba127f722c496c3028e4d62];
 - (b) matters relating to, or connected with, the setting of standards under section 319 of this Act;
 - (c) matters relating to, or connected with, the observance of those standards by persons providing television and radio services;
 - (d) matters relating to, or connected with, the prevention of unjust or unfair treatment in programmes included in such services; and
 - (e) matters relating to, or connected with, the prevention of unwarranted infringements of privacy resulting from activities carried on for the purposes of such services.
 
-(6A)[^key-2be5daa5f3fd5fbfd6e8713d87441bb5] OFCOM must make arrangements for ascertaining—
+(6A)[^c-2be5daa5f3fd5fbfd6e8713d87441bb5] OFCOM must make arrangements for ascertaining—
 
 - (a) the state of public opinion from time to time about the way in which postal services are provided;
 - (b) the experiences of consumers in the markets for postal services, in relation to the way in which those services are provided;
@@ -60,7 +60,7 @@ summary: ''
 - (d) the experiences of such consumers in relation to the resolution of disputes with persons providing postal services;
 - (e) the interests and experiences of such consumers in relation to matters that are incidental to or otherwise connected with their experiences of the provision of postal services.
 
-(6B)[^key-96294d6172099a3d6ec8f765735917e0] OFCOM must make arrangements for ascertaining—
+(6B)[^c-96294d6172099a3d6ec8f765735917e0] OFCOM must make arrangements for ascertaining—
 
 - (a) the state of public opinion from time to time concerning providers of regulated services and their manner of operating their services;
 - (b) the experiences of United Kingdom users of regulated services in relation to their use of such services;
@@ -81,7 +81,7 @@ summary: ''
 - (a) broadcast so as to be available for reception by members of the public or of a section of the public; or
 - (b) distributed by means of an electronic communications network to members of the public or of a section of the public.
 
-(8A)[^key-d196d393843f58c691473cad335ad128] In subsection (6B) the following terms have the same meaning as in the Online Safety Act 2023—
+(8A)[^c-d196d393843f58c691473cad335ad128] In subsection (6B) the following terms have the same meaning as in the Online Safety Act 2023—
 
 - “**provider**” (see section 226 of that Act);
 - “regulated service”, “regulated user-to-user service” and “**regulated search service**” (see section 4 of that Act);
@@ -91,14 +91,14 @@ summary: ''
 
 ## Annotations
 
-[^key-4ae6e1ab8f52642690176dc27f63f912]: Commencement: S. 14 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-4ae6e1ab8f52642690176dc27f63f912]: Commencement: S. 14 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-52e30317f49e539dba1c9c993a508b7f]: Textual amendment: Words in s. 14(2) substituted (8.2.2007) by [Wireless Telegraphy Act 2006 (c. 36)](https://www.legislation.gov.uk/ukpga/2006/36), [s. 126(2)](https://www.legislation.gov.uk/ukpga/2006/36/section/126/2), [Sch. 7 para. 26](https://www.legislation.gov.uk/ukpga/2006/36/schedule/7/paragraph/26)
+[^c-52e30317f49e539dba1c9c993a508b7f]: Textual amendment: Words in s. 14(2) substituted (8.2.2007) by [Wireless Telegraphy Act 2006 (c. 36)](https://www.legislation.gov.uk/ukpga/2006/36), [s. 126(2)](https://www.legislation.gov.uk/ukpga/2006/36/section/126/2), [Sch. 7 para. 26](https://www.legislation.gov.uk/ukpga/2006/36/schedule/7/paragraph/26)
 
-[^key-db3700bd0ba127f722c496c3028e4d62]: Textual amendment: Words in [s. 14(6)(a)](https://www.legislation.gov.uk/ukpga/2003/21/section/14/6/a) inserted (10.1.2024) by [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 165(6)](https://www.legislation.gov.uk/ukpga/2023/50/section/165/6), [240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1); [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z19)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z19)
+[^c-db3700bd0ba127f722c496c3028e4d62]: Textual amendment: Words in [s. 14(6)(a)](https://www.legislation.gov.uk/ukpga/2003/21/section/14/6/a) inserted (10.1.2024) by [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 165(6)](https://www.legislation.gov.uk/ukpga/2023/50/section/165/6), [240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1); [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z19)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z19)
 
-[^key-2be5daa5f3fd5fbfd6e8713d87441bb5]: Textual amendment: S. 14(6A) inserted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 58](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/58); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-2be5daa5f3fd5fbfd6e8713d87441bb5]: Textual amendment: S. 14(6A) inserted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 58](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/58); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-96294d6172099a3d6ec8f765735917e0]: Textual amendment: [S. 14(6B)](https://www.legislation.gov.uk/ukpga/2003/21/section/14/6B)[(6C)](https://www.legislation.gov.uk/ukpga/2003/21/section/14/6C) inserted (26.10.2023 for specified purposes, 10.1.2024 in so far as not already in force) by [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 154(2)](https://www.legislation.gov.uk/ukpga/2023/50/section/154/2), [240(4)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4); [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z18)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z18)
+[^c-96294d6172099a3d6ec8f765735917e0]: Textual amendment: [S. 14(6B)](https://www.legislation.gov.uk/ukpga/2003/21/section/14/6B)[(6C)](https://www.legislation.gov.uk/ukpga/2003/21/section/14/6C) inserted (26.10.2023 for specified purposes, 10.1.2024 in so far as not already in force) by [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 154(2)](https://www.legislation.gov.uk/ukpga/2023/50/section/154/2), [240(4)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4); [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z18)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z18)
 
-[^key-d196d393843f58c691473cad335ad128]: Textual amendment: [S. 14(8A)](https://www.legislation.gov.uk/ukpga/2003/21/section/14/8A) inserted (26.10.2023 for specified purposes, 10.1.2024 in so far as not already in force) by [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 154(3)](https://www.legislation.gov.uk/ukpga/2023/50/section/154/3), [240(4)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4); [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z18)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z18)
+[^c-d196d393843f58c691473cad335ad128]: Textual amendment: [S. 14(8A)](https://www.legislation.gov.uk/ukpga/2003/21/section/14/8A) inserted (26.10.2023 for specified purposes, 10.1.2024 in so far as not already in force) by [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 154(3)](https://www.legislation.gov.uk/ukpga/2023/50/section/154/3), [240(4)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4); [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z18)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z18)

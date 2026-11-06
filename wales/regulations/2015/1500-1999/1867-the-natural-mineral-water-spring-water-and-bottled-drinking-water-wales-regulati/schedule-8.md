@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 8 — Monitoring for parameters other than radioactive substances in water bottled and labelled as “spring water” or “dŵr ffynnon” and bottled drinking water[^key-32f39ad792af16d6ba554523055afb0c]
+## SCHEDULE 8 — Monitoring for parameters other than radioactive substances in water bottled and labelled as “spring water” or “dŵr ffynnon” and bottled drinking water[^c-32f39ad792af16d6ba554523055afb0c]
 
 *Extent: E+W*
 
@@ -24,30 +24,30 @@ summary: ''
 
 Regulation 24(2)(a)
 
-### PART 1 — Check monitoring[^key-32f39ad792af16d6ba554523055afb0c]
+### PART 1 — Check monitoring[^c-32f39ad792af16d6ba554523055afb0c]
 
-#### 1. Sampling[^key-32f39ad792af16d6ba554523055afb0c]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**2.**[^key-32f39ad792af16d6ba554523055afb0c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 3. Frequency of sampling[^key-32f39ad792af16d6ba554523055afb0c]
+#### 1. Sampling[^c-32f39ad792af16d6ba554523055afb0c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Audit monitoring[^key-32f39ad792af16d6ba554523055afb0c]
+**2.**[^c-32f39ad792af16d6ba554523055afb0c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 4. Sampling[^key-32f39ad792af16d6ba554523055afb0c]
+#### 3. Frequency of sampling[^c-32f39ad792af16d6ba554523055afb0c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-32f39ad792af16d6ba554523055afb0c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### PART 2 — Audit monitoring[^c-32f39ad792af16d6ba554523055afb0c]
 
-#### 6. Frequency of sampling[^key-32f39ad792af16d6ba554523055afb0c]
+#### 4. Sampling[^c-32f39ad792af16d6ba554523055afb0c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5.**[^c-32f39ad792af16d6ba554523055afb0c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 6. Frequency of sampling[^c-32f39ad792af16d6ba554523055afb0c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-32f39ad792af16d6ba554523055afb0c]: Textual amendment: Sch. 8 omitted (27.10.2017) by virtue of [The Natural Mineral Water, Spring Water and Bottled Drinking Water (Wales) (Amendment) Regulations 2017 (S.I. 2017/935)](https://www.legislation.gov.uk/wsi/2017/935), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2017/935/regulation/1/3), [14](https://www.legislation.gov.uk/wsi/2017/935/regulation/14)
+[^c-32f39ad792af16d6ba554523055afb0c]: Textual amendment: Sch. 8 omitted (27.10.2017) by virtue of [The Natural Mineral Water, Spring Water and Bottled Drinking Water (Wales) (Amendment) Regulations 2017 (S.I. 2017/935)](https://www.legislation.gov.uk/wsi/2017/935), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2017/935/regulation/1/3), [14](https://www.legislation.gov.uk/wsi/2017/935/regulation/14)

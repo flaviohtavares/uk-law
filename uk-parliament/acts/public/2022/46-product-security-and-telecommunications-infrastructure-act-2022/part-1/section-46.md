@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Power to publish details of enforcement action taken against relevant persons[^key-ac412da72849514a72fcb4a67b7a3bd2][^key-f19956674470c302814ebc4b56154f3b]
+## 46. Power to publish details of enforcement action taken against relevant persons[^c-ac412da72849514a72fcb4a67b7a3bd2][^c-f19956674470c302814ebc4b56154f3b]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ac412da72849514a72fcb4a67b7a3bd2]: Commencement: S. 46 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
+[^c-ac412da72849514a72fcb4a67b7a3bd2]: Commencement: S. 46 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
 
-[^key-f19956674470c302814ebc4b56154f3b]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2022/46/section/46) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)
+[^c-f19956674470c302814ebc4b56154f3b]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2022/46/section/46) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)

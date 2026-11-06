@@ -25,10 +25,10 @@ summary: ''
 - (a) that expenditure, or
 - (b) the provision of any asset to which that expenditure related.
 
-(1A)[^key-3b1955ac0977452cd613cb88161ac8d1] In subsection (1), the reference to capital expenditure includes a reference to expenditure that is treated as capital expenditure for the purposes of section 270BJ(1) (structures and buildings allowances: expenditure on renovation, conversion and incidental repairs).
+(1A)[^c-3b1955ac0977452cd613cb88161ac8d1] In subsection (1), the reference to capital expenditure includes a reference to expenditure that is treated as capital expenditure for the purposes of section 270BJ(1) (structures and buildings allowances: expenditure on renovation, conversion and incidental repairs).
 
 (2) This section does not apply in relation to Parts 7 and 8 (know-how and patent allowances).
 
 ## Annotations
 
-[^key-3b1955ac0977452cd613cb88161ac8d1]: Textual amendment: [S. 7(1A)](https://www.legislation.gov.uk/ukpga/2001/2/section/7/1A) inserted (5.7.2019) by [The Capital Allowances (Structures and Buildings Allowances) Regulations 2019 (S.I. 2019/1087)](https://www.legislation.gov.uk/uksi/2019/1087), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1087/regulation/1), [3(6)](https://www.legislation.gov.uk/uksi/2019/1087/regulation/3/6)
+[^c-3b1955ac0977452cd613cb88161ac8d1]: Textual amendment: [S. 7(1A)](https://www.legislation.gov.uk/ukpga/2001/2/section/7/1A) inserted (5.7.2019) by [The Capital Allowances (Structures and Buildings Allowances) Regulations 2019 (S.I. 2019/1087)](https://www.legislation.gov.uk/uksi/2019/1087), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1087/regulation/1), [3(6)](https://www.legislation.gov.uk/uksi/2019/1087/regulation/3/6)

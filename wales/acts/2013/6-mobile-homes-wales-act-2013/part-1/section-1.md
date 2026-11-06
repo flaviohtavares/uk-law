@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Overview of Act[^key-435601c7c91e57c051d87bb42df6b777]
+## 1. Overview of Act[^c-435601c7c91e57c051d87bb42df6b777]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-435601c7c91e57c051d87bb42df6b777]: Commencement: [S. 1](https://www.legislation.gov.uk/anaw/2013/6/section/1) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(a)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/a) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-435601c7c91e57c051d87bb42df6b777]: Commencement: [S. 1](https://www.legislation.gov.uk/anaw/2013/6/section/1) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(a)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/a) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))

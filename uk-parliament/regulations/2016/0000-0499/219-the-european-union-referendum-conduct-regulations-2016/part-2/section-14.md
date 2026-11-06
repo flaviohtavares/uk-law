@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Use of schools and public rooms[^key-764890e485898d3b0d2552a7944eba59]
+## 14. Use of schools and public rooms[^c-764890e485898d3b0d2552a7944eba59]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,6 +44,6 @@ by reason of its being used for that purpose.
 
 ## Annotations
 
-[^key-764890e485898d3b0d2552a7944eba59]: Commencement: Reg. 14 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-764890e485898d3b0d2552a7944eba59]: Commencement: Reg. 14 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
 
 [^f00015]: Footnote: [1980 c.44](https://www.legislation.gov.uk/ukpga/1980/44). See section 135.

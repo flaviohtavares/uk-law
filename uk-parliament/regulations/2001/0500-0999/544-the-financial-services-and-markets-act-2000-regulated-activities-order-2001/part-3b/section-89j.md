@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89J. Advice, investigation or representation in relation to a housing disrepair claim[^key-1bd07fdf9bd2c4efb6220c0fc9c87e2e]
+## 89J. Advice, investigation or representation in relation to a housing disrepair claim[^c-1bd07fdf9bd2c4efb6220c0fc9c87e2e]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ Each of the following activities is a specified kind of activity when carried on
 
 ## Annotations
 
-[^key-1bd07fdf9bd2c4efb6220c0fc9c87e2e]: Textual amendment: Pt. 3B inserted (E.W.S.) (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [7](https://www.legislation.gov.uk/uksi/2018/1253/article/7)
+[^c-1bd07fdf9bd2c4efb6220c0fc9c87e2e]: Textual amendment: Pt. 3B inserted (E.W.S.) (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [7](https://www.legislation.gov.uk/uksi/2018/1253/article/7)

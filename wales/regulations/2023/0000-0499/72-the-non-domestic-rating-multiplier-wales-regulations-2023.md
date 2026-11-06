@@ -45,7 +45,7 @@ Coming into force in accordance with regulation 1(2)
 
 The Welsh Ministers make these Regulations in exercise of the powers conferred on them by paragraph 5(13A) of Schedule 7 to the Local Government Finance Act 1988[^f00001].
 
-## 1. Title, commencement and interpretation[^key-2a93a8b30a38f8062543a6075a5d0300]
+## 1. Title, commencement and interpretation[^c-2a93a8b30a38f8062543a6075a5d0300]
 
 (1) The title of these Regulations is the Non-Domestic Rating (Multiplier) (Wales) Regulations 2023.
 
@@ -53,7 +53,7 @@ The Welsh Ministers make these Regulations in exercise of the powers conferred o
 
 (3) In these Regulations, “**the 1988 Act**” means the Local Government Finance Act 1988.
 
-## 2. Change to the non-domestic rating multiplier for the financial year beginning on 1 April 2023[^key-17df5fc2d91ff3c28fd60e7901d78343]
+## 2. Change to the non-domestic rating multiplier for the financial year beginning on 1 April 2023[^c-17df5fc2d91ff3c28fd60e7901d78343]
 
 For the financial year beginning on 1 April 2023—
 
@@ -84,6 +84,6 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00001]: Footnote: [1988 c. 41](https://www.legislation.gov.uk/ukpga/1988/41). Paragraphs 5(13A) to 5(13C) of Schedule 7 were inserted by the Local Government and Elections (Wales) Act [2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1) (the “**2021 Act**”), sections 154(1) and 154(2)(f). Those paragraphs apply to paragraphs 5(5A), 5(5B), 5(9A) and 5(9B) of Schedule 7, which were inserted by section 154(2)(d) and (e) of the 2021 Act.
 
-[^key-2a93a8b30a38f8062543a6075a5d0300]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2023/72/regulation/1) in force at 1.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/72/regulation/1/2)
+[^c-2a93a8b30a38f8062543a6075a5d0300]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2023/72/regulation/1) in force at 1.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/72/regulation/1/2)
 
-[^key-17df5fc2d91ff3c28fd60e7901d78343]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2023/72/regulation/2) in force at 1.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/72/regulation/1/2)
+[^c-17df5fc2d91ff3c28fd60e7901d78343]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2023/72/regulation/2) in force at 1.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/72/regulation/1/2)

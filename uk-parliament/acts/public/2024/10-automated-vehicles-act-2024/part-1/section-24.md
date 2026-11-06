@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. False or withheld information relevant to vehicle safety[^key-387562988f0e6dad10a2a914aab8dbc2]
+## 24. False or withheld information relevant to vehicle safety[^c-387562988f0e6dad10a2a914aab8dbc2]
 
 *Extent: E+W+S*
 
@@ -67,4 +67,4 @@ summary: ''
 
 ## Annotations
 
-[^key-387562988f0e6dad10a2a914aab8dbc2]: Commencement: S. 24 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-387562988f0e6dad10a2a914aab8dbc2]: Commencement: S. 24 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 137F. Rules requiring participation in benchmark[^key-e922c816a6b3c56cc617ae59c14f3510]
+## 137F. Rules requiring participation in benchmark[^c-e922c816a6b3c56cc617ae59c14f3510]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,13 +32,13 @@ summary: ''
 
 (4) In this section—
 
-- “[^key-1009d1edf96b0e9c6aaa97ce37e8e544]**benchmark**” means a benchmark within the meaning of section 22[^key-27e1b99cfceea0ca0c4ec5bc4179ea1b]... (6A);
+- “[^c-1009d1edf96b0e9c6aaa97ce37e8e544]**benchmark**” means a benchmark within the meaning of section 22[^c-27e1b99cfceea0ca0c4ec5bc4179ea1b]... (6A);
 - “**specified**” means specified in or determined in accordance with the rules.
 
 ## Annotations
 
-[^key-e922c816a6b3c56cc617ae59c14f3510]: Textual amendment: Pt. 9A substituted for ss. 138-164 (24.1.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 24(1)](https://www.legislation.gov.uk/ukpga/2012/21/section/24/1), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-e922c816a6b3c56cc617ae59c14f3510]: Textual amendment: Pt. 9A substituted for ss. 138-164 (24.1.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 24(1)](https://www.legislation.gov.uk/ukpga/2012/21/section/24/1), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-1009d1edf96b0e9c6aaa97ce37e8e544]: Textual amendment: Words in s. 137F(4) substituted (27.2.2018) by [The Financial Services and Markets Act 2000 (Benchmarks) Regulations 2018 (S.I. 2018/135)](https://www.legislation.gov.uk/uksi/2018/135), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/135/regulation/1/2), [43(a)](https://www.legislation.gov.uk/uksi/2018/135/regulation/43/a)
+[^c-1009d1edf96b0e9c6aaa97ce37e8e544]: Textual amendment: Words in s. 137F(4) substituted (27.2.2018) by [The Financial Services and Markets Act 2000 (Benchmarks) Regulations 2018 (S.I. 2018/135)](https://www.legislation.gov.uk/uksi/2018/135), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/135/regulation/1/2), [43(a)](https://www.legislation.gov.uk/uksi/2018/135/regulation/43/a)
 
-[^key-27e1b99cfceea0ca0c4ec5bc4179ea1b]: Textual amendment: Words in s. 137F(4) omitted (1.5.2020) by virtue of [The Financial Services and Markets Act 2000 (Benchmarks) Regulations 2018 (S.I. 2018/135)](https://www.legislation.gov.uk/uksi/2018/135), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/135/regulation/1/2/b), [43(b)](https://www.legislation.gov.uk/uksi/2018/135/regulation/43/b)
+[^c-27e1b99cfceea0ca0c4ec5bc4179ea1b]: Textual amendment: Words in s. 137F(4) omitted (1.5.2020) by virtue of [The Financial Services and Markets Act 2000 (Benchmarks) Regulations 2018 (S.I. 2018/135)](https://www.legislation.gov.uk/uksi/2018/135), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/135/regulation/1/2/b), [43(b)](https://www.legislation.gov.uk/uksi/2018/135/regulation/43/b)

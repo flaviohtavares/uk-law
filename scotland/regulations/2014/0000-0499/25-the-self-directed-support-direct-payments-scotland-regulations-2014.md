@@ -48,11 +48,11 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 ## PART 1 — Introductory
 
-### 1. Citation and commencement[^key-cfcdde1d88052fd2159cb1fb49437eb3]
+### 1. Citation and commencement[^c-cfcdde1d88052fd2159cb1fb49437eb3]
 
 These Regulations may be cited as the Self-directed Support (Direct Payments) (Scotland) Regulations 2014 and come into force on 1st April 2014.
 
-### 2. Interpretation[^key-e69e87a03c4e38cd69aa978cb2950cce]
+### 2. Interpretation[^c-e69e87a03c4e38cd69aa978cb2950cce]
 
 (1) In these Regulations—
 
@@ -63,7 +63,7 @@ These Regulations may be cited as the Self-directed Support (Direct Payments) (S
 
 ## PART 2 — Calculation, payment and termination of direct payments
 
-### 3. Means testing for direct payments[^key-3b61917f20a274ff2ad4181abba4e7bb]
+### 3. Means testing for direct payments[^c-3b61917f20a274ff2ad4181abba4e7bb]
 
 (1) A local authority may assess a direct payment user’s ability to contribute to the cost of securing the support to which a direct payment relates (“a means test”).
 
@@ -79,9 +79,9 @@ These Regulations may be cited as the Self-directed Support (Direct Payments) (S
 - (a) part of the direct payment to reflect that contribution; or
 - (b) some lesser amount.
 
-(5)[^key-53e7d1c7edbc99a305bc39b951c77ab4] This regulation is subject to regulation 3A.
+(5)[^c-53e7d1c7edbc99a305bc39b951c77ab4] This regulation is subject to regulation 3A.
 
-### 3A. Means testing for direct payments: carers[^key-b1153f42f0555663d77d4a5d4d093e6a]
+### 3A. Means testing for direct payments: carers[^c-b1153f42f0555663d77d4a5d4d093e6a]
 
 (1) A local authority may not—
 
@@ -92,21 +92,21 @@ in the circumstances specified in paragraph (2).
 
 (2) The circumstances are that the support to which the direct payment relates is—
 
-- (a) support under section 24 of the Carers (Scotland) Act 2016[^key-06fac79a9236a08e3b3fe3a026c69fd6]; or
-- (b)[^key-a78100cc2ebd2505406b0b23a06eb82a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) support under section 24 of the Carers (Scotland) Act 2016[^c-06fac79a9236a08e3b3fe3a026c69fd6]; or
+- (b)[^c-a78100cc2ebd2505406b0b23a06eb82a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Direct payments by instalments[^key-350ea35999ecdbec24867cd98c8cb8e7]
+### 4. Direct payments by instalments[^c-350ea35999ecdbec24867cd98c8cb8e7]
 
 A local authority may pay a direct payment to a direct payment user in instalments.
 
-### 5. Third party direct payments[^key-e359d1a5a93d99b1e6d00eb282306eb3]
+### 5. Third party direct payments[^c-e359d1a5a93d99b1e6d00eb282306eb3]
 
 A local authority may pay all or part of a direct payment to a person other than the direct payment user (a “third party”) if—
 
 - (a) the direct payment user asks the local authority to make the payment to the third party; and
 - (b) the local authority is satisfied that the direct payment user retains total control over how the direct payment is spent.
 
-### 6. Circumstances where a direct payment may be terminated[^key-d7292ae8db6e58e20293ee7d84230296]
+### 6. Circumstances where a direct payment may be terminated[^c-d7292ae8db6e58e20293ee7d84230296]
 
 (1) A local authority may terminate a direct payment if—
 
@@ -129,7 +129,7 @@ A local authority may pay all or part of a direct payment to a person other than
 
 ## PART 3 — Provision of support by family members
 
-### 7. Support to which this Part applies[^key-07fb8fa6d3af9b13ad62e7f5a90c1dda]
+### 7. Support to which this Part applies[^c-07fb8fa6d3af9b13ad62e7f5a90c1dda]
 
 (1) This Part applies to support to which a direct payment relates under—
 
@@ -138,7 +138,7 @@ A local authority may pay all or part of a direct payment to a person other than
 
 (2) This Part does not apply to support to which a direct payment relates under section 8 of the Act where that support is provided in relation to the care which a child provides, or intends to provide, to another person.
 
-### 8. Circumstances where family member may provide support[^key-604fe8aed08d7cca4bb55b070338a4db]
+### 8. Circumstances where family member may provide support[^c-604fe8aed08d7cca4bb55b070338a4db]
 
 (1) A family member may only provide support to which a direct payment relates in the circumstances specified in paragraph (2).
 
@@ -176,7 +176,7 @@ A local authority may pay all or part of a direct payment to a person other than
   - (d) the spouse or civil partner of any person listed in sub-paragraph (c);
   - (e) a person who lives with any person listed in sub-paragraph (c) as if their spouse or civil partner.
 
-### 9. Exception to family members rule[^key-161177224c3ca128ce9051709015b42d]
+### 9. Exception to family members rule[^c-161177224c3ca128ce9051709015b42d]
 
 (1) Even if regulation 8(2) applies, a family member may not provide support to which a direct payment relates if—
 
@@ -197,7 +197,7 @@ A local authority may pay all or part of a direct payment to a person other than
 
 ## PART 4 — Persons ineligible to receive direct payments
 
-**10.**[^key-0721eccb99ad6498338b685f08b86b12] The description of persons specified for the purposes of section 15(2)(a) of the Act (persons who are ineligible to receive direct payments) are persons to whom a local authority has decided to provide (or arrange for the provision of)—
+**10.**[^c-0721eccb99ad6498338b685f08b86b12] The description of persons specified for the purposes of section 15(2)(a) of the Act (persons who are ineligible to receive direct payments) are persons to whom a local authority has decided to provide (or arrange for the provision of)—
 
 - (a) residential accommodation; or
 - (b) residential accommodation with nursing (under section 13A (residential accommodation with nursing) of the 1968 Act[^f00005]),
@@ -206,14 +206,14 @@ for a period in excess of 4 consecutive weeks in any period of 12 months.
 
 ## PART 5 — Circumstances in which local authorities are not required to give the opportunity to choose a direct payment
 
-**11.**[^key-291888844fd3cdc75ee4af7b244453ca] (1) A local authority is not required under section 5, 7 or 8 of the Act to give a person the opportunity to choose Option 1 and, so far as relating to that option, Option 4 in the circumstances specified in paragraph (2).
+**11.**[^c-291888844fd3cdc75ee4af7b244453ca] (1) A local authority is not required under section 5, 7 or 8 of the Act to give a person the opportunity to choose Option 1 and, so far as relating to that option, Option 4 in the circumstances specified in paragraph (2).
 
 (2) The circumstances are that—
 
 - (a) a local authority has previously terminated a direct payment made to the person under regulation 6(1)(b), (c) or (d); or
 - (b) the making of a direct payment is likely to put the safety of the person to whom the support is to be provided at risk.
 
-## PART 6 — Circumstances in which certain local authorities can make direct payments for residential accommodation etc.[^key-669ed748fedc17c402eebfc971b4105a]
+## PART 6 — Circumstances in which certain local authorities can make direct payments for residential accommodation etc.[^c-669ed748fedc17c402eebfc971b4105a]
 
 **12.** (1) This regulation applies where East Renfrewshire Council or Moray Council decides under section 12A(1)(b) of the 1968 Act that the needs of a person call for the provision of the community care services described in paragraph (2).
 
@@ -270,31 +270,31 @@ A Business and Regulatory Impact Assessment has been prepared and placed in the 
 
 [^f00001]: Footnote: [2013 asp 1](https://www.legislation.gov.uk/asp/2013/1).
 
-[^key-cfcdde1d88052fd2159cb1fb49437eb3]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2014/25/regulation/1) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/25/regulation/1)
+[^c-cfcdde1d88052fd2159cb1fb49437eb3]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2014/25/regulation/1) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/25/regulation/1)
 
-[^key-e69e87a03c4e38cd69aa978cb2950cce]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2014/25/regulation/2) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/25/regulation/1)
+[^c-e69e87a03c4e38cd69aa978cb2950cce]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2014/25/regulation/2) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/25/regulation/1)
 
-[^key-3b61917f20a274ff2ad4181abba4e7bb]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2014/25/regulation/3) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/25/regulation/1)
+[^c-3b61917f20a274ff2ad4181abba4e7bb]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2014/25/regulation/3) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/25/regulation/1)
 
-[^key-53e7d1c7edbc99a305bc39b951c77ab4]: Textual amendment: [Reg. 3(5)](https://www.legislation.gov.uk/ssi/2014/25/regulation/3/5) inserted (1.4.2014) by [The Carers (Waiving of Charges for Support) (Scotland) Regulations 2014 (S.S.I. 2014/65)](https://www.legislation.gov.uk/ssi/2014/65), [regs. 1](https://www.legislation.gov.uk/ssi/2014/65/regulation/1), [4(2)](https://www.legislation.gov.uk/ssi/2014/65/regulation/4/2)
+[^c-53e7d1c7edbc99a305bc39b951c77ab4]: Textual amendment: [Reg. 3(5)](https://www.legislation.gov.uk/ssi/2014/25/regulation/3/5) inserted (1.4.2014) by [The Carers (Waiving of Charges for Support) (Scotland) Regulations 2014 (S.S.I. 2014/65)](https://www.legislation.gov.uk/ssi/2014/65), [regs. 1](https://www.legislation.gov.uk/ssi/2014/65/regulation/1), [4(2)](https://www.legislation.gov.uk/ssi/2014/65/regulation/4/2)
 
-[^key-b1153f42f0555663d77d4a5d4d093e6a]: Textual amendment: [Reg. 3A](https://www.legislation.gov.uk/ssi/2014/25/regulation/3A) inserted (1.4.2014) by [The Carers (Waiving of Charges for Support) (Scotland) Regulations 2014 (S.S.I. 2014/65)](https://www.legislation.gov.uk/ssi/2014/65), [regs. 1](https://www.legislation.gov.uk/ssi/2014/65/regulation/1), [4(3)](https://www.legislation.gov.uk/ssi/2014/65/regulation/4/3)
+[^c-b1153f42f0555663d77d4a5d4d093e6a]: Textual amendment: [Reg. 3A](https://www.legislation.gov.uk/ssi/2014/25/regulation/3A) inserted (1.4.2014) by [The Carers (Waiving of Charges for Support) (Scotland) Regulations 2014 (S.S.I. 2014/65)](https://www.legislation.gov.uk/ssi/2014/65), [regs. 1](https://www.legislation.gov.uk/ssi/2014/65/regulation/1), [4(3)](https://www.legislation.gov.uk/ssi/2014/65/regulation/4/3)
 
-[^key-06fac79a9236a08e3b3fe3a026c69fd6]: Textual amendment: Words in [reg. 3A(2)(a)](https://www.legislation.gov.uk/ssi/2014/25/regulation/3A/2/a) substituted (1.4.2018) by [The Self-directed Support (Direct Payments) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/29)](https://www.legislation.gov.uk/ssi/2018/29), [regs. 1](https://www.legislation.gov.uk/ssi/2018/29/regulation/1), [2(1)(a)](https://www.legislation.gov.uk/ssi/2018/29/regulation/2/1/a)
+[^c-06fac79a9236a08e3b3fe3a026c69fd6]: Textual amendment: Words in [reg. 3A(2)(a)](https://www.legislation.gov.uk/ssi/2014/25/regulation/3A/2/a) substituted (1.4.2018) by [The Self-directed Support (Direct Payments) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/29)](https://www.legislation.gov.uk/ssi/2018/29), [regs. 1](https://www.legislation.gov.uk/ssi/2018/29/regulation/1), [2(1)(a)](https://www.legislation.gov.uk/ssi/2018/29/regulation/2/1/a)
 
-[^key-a78100cc2ebd2505406b0b23a06eb82a]: Textual amendment: [Reg. 3A(2)(b)](https://www.legislation.gov.uk/ssi/2014/25/regulation/3A/2/b) revoked (1.4.2018) by [The Self-directed Support (Direct Payments) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/29)](https://www.legislation.gov.uk/ssi/2018/29), [regs. 1](https://www.legislation.gov.uk/ssi/2018/29/regulation/1), [2(1)(b)](https://www.legislation.gov.uk/ssi/2018/29/regulation/2/1/b)
+[^c-a78100cc2ebd2505406b0b23a06eb82a]: Textual amendment: [Reg. 3A(2)(b)](https://www.legislation.gov.uk/ssi/2014/25/regulation/3A/2/b) revoked (1.4.2018) by [The Self-directed Support (Direct Payments) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/29)](https://www.legislation.gov.uk/ssi/2018/29), [regs. 1](https://www.legislation.gov.uk/ssi/2018/29/regulation/1), [2(1)(b)](https://www.legislation.gov.uk/ssi/2018/29/regulation/2/1/b)
 
-[^key-350ea35999ecdbec24867cd98c8cb8e7]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2014/25/regulation/4) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/25/regulation/1)
+[^c-350ea35999ecdbec24867cd98c8cb8e7]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2014/25/regulation/4) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/25/regulation/1)
 
-[^key-e359d1a5a93d99b1e6d00eb282306eb3]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2014/25/regulation/5) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/25/regulation/1)
+[^c-e359d1a5a93d99b1e6d00eb282306eb3]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2014/25/regulation/5) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/25/regulation/1)
 
-[^key-d7292ae8db6e58e20293ee7d84230296]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2014/25/regulation/6) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/25/regulation/1)
+[^c-d7292ae8db6e58e20293ee7d84230296]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2014/25/regulation/6) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/25/regulation/1)
 
-[^key-07fb8fa6d3af9b13ad62e7f5a90c1dda]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2014/25/regulation/7) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/25/regulation/1)
+[^c-07fb8fa6d3af9b13ad62e7f5a90c1dda]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2014/25/regulation/7) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/25/regulation/1)
 
-[^key-604fe8aed08d7cca4bb55b070338a4db]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2014/25/regulation/8) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/25/regulation/1)
+[^c-604fe8aed08d7cca4bb55b070338a4db]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2014/25/regulation/8) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/25/regulation/1)
 
-[^key-161177224c3ca128ce9051709015b42d]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2014/25/regulation/9) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/25/regulation/1)
+[^c-161177224c3ca128ce9051709015b42d]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2014/25/regulation/9) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/25/regulation/1)
 
 [^f00002]: Footnote: [2000 asp 4](https://www.legislation.gov.uk/asp/2000/4).
 
@@ -302,10 +302,10 @@ A Business and Regulatory Impact Assessment has been prepared and placed in the 
 
 [^f00004]: Footnote: Section 16 was amended by the Human Tissue (Scotland) Act [2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), section 57(2)(b) and the Adult Support and Protection (Scotland) Act [2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), section 57(2).
 
-[^key-0721eccb99ad6498338b685f08b86b12]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2014/25/regulation/10) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/25/regulation/1)
+[^c-0721eccb99ad6498338b685f08b86b12]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2014/25/regulation/10) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/25/regulation/1)
 
 [^f00005]: Footnote: Section 13A was inserted by the National Health Service and Community Care Act [1990 (c.19)](https://www.legislation.gov.uk/ukpga/1990/19), section 56 and amended by the Immigration and Asylum Act [1999 (c.33)](https://www.legislation.gov.uk/ukpga/1999/33), section 120(2) and the Regulation of Care (Scotland) Act [2001 (asp 8)](https://www.legislation.gov.uk/asp/2001/8), section 72 and schedule 3, paragraph 4.
 
-[^key-291888844fd3cdc75ee4af7b244453ca]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2014/25/regulation/11) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/25/regulation/1)
+[^c-291888844fd3cdc75ee4af7b244453ca]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2014/25/regulation/11) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/25/regulation/1)
 
-[^key-669ed748fedc17c402eebfc971b4105a]: Textual amendment: [Pt. 6](https://www.legislation.gov.uk/ssi/2014/25/part/6) inserted (2.10.2015) by [The Self-directed Support (Direct Payments) (Scotland) Amendment Regulations 2015 (S.S.I. 2015/319)](https://www.legislation.gov.uk/ssi/2015/319), [regs. 1](https://www.legislation.gov.uk/ssi/2015/319/regulation/1), [2](https://www.legislation.gov.uk/ssi/2015/319/regulation/2)
+[^c-669ed748fedc17c402eebfc971b4105a]: Textual amendment: [Pt. 6](https://www.legislation.gov.uk/ssi/2014/25/part/6) inserted (2.10.2015) by [The Self-directed Support (Direct Payments) (Scotland) Amendment Regulations 2015 (S.S.I. 2015/319)](https://www.legislation.gov.uk/ssi/2015/319), [regs. 1](https://www.legislation.gov.uk/ssi/2015/319/regulation/1), [2](https://www.legislation.gov.uk/ssi/2015/319/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 174. Application to court to remove administrator from office[^key-6e577d931d5e93a77d2dc799183f1700]
+## 174. Application to court to remove administrator from office[^c-6e577d931d5e93a77d2dc799183f1700]
 
 *Extent: E+W*
 
@@ -28,7 +28,7 @@ summary: ''
 - (b) the person who made the application for the special administration order,
 - (c) the creditors’ committee (if any),
 - (d) the joint administrator (if any),
-- (e) where there is neither a creditors’ committee nor a[^key-4f16cbbc1f694ca07129498880e84a5a] joint administrator, the institution and all the creditors and customers of whose claim the administrator is aware and of whom they have a means of contacting, and
+- (e) where there is neither a creditors’ committee nor a[^c-4f16cbbc1f694ca07129498880e84a5a] joint administrator, the institution and all the creditors and customers of whose claim the administrator is aware and of whom they have a means of contacting, and
 - (f) the FCA.
 
 (3) Where a court makes an order removing the administrator it must give a copy of the order to the applicant, who as soon as is reasonably practicable must send a copy to the administrator.
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6e577d931d5e93a77d2dc799183f1700]: Commencement: Rule 174 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-6e577d931d5e93a77d2dc799183f1700]: Commencement: Rule 174 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
 
-[^key-4f16cbbc1f694ca07129498880e84a5a]: Textual amendment: Words in [rule 174(2)(e)](https://www.legislation.gov.uk/uksi/2021/1178/rule/174/2/e) substituted (10.8.2022) by [The Payment and Electronic Money Institution Insolvency (England and Wales) (Amendment) Rules 2022 (S.I. 2022/847)](https://www.legislation.gov.uk/uksi/2022/847), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/847/rule/1/2), [2(9)](https://www.legislation.gov.uk/uksi/2022/847/rule/2/9)
+[^c-4f16cbbc1f694ca07129498880e84a5a]: Textual amendment: Words in [rule 174(2)(e)](https://www.legislation.gov.uk/uksi/2021/1178/rule/174/2/e) substituted (10.8.2022) by [The Payment and Electronic Money Institution Insolvency (England and Wales) (Amendment) Rules 2022 (S.I. 2022/847)](https://www.legislation.gov.uk/uksi/2022/847), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/847/rule/1/2), [2(9)](https://www.legislation.gov.uk/uksi/2022/847/rule/2/9)

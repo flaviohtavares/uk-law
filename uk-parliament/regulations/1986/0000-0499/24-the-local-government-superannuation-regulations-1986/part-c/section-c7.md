@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## C7. Payment by manual worker in respect of previous service[^key-0dabbc8c96e2e7a5d24bd318000ed7fd]
+## C7. Payment by manual worker in respect of previous service[^c-0dabbc8c96e2e7a5d24bd318000ed7fd]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0dabbc8c96e2e7a5d24bd318000ed7fd]: Commencement: [Reg. C7](https://www.legislation.gov.uk/uksi/1986/24/regulation/C7) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-0dabbc8c96e2e7a5d24bd318000ed7fd]: Commencement: [Reg. C7](https://www.legislation.gov.uk/uksi/1986/24/regulation/C7) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

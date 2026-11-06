@@ -40,11 +40,11 @@ Coming into operation
 
 The Lord Chancellor, in exercise of the powers conferred on him by section 116(1) and (4) of the Judicature (Northern Ireland) Act 1978[^f00001], after consultation with the Lord Chief Justice and with the concurrence of the Treasury, hereby makes the following Order:—
 
-## 1. Citation and commencement[^key-d4b822b1d08632ef5ccf8db7d0c20920]
+## 1. Citation and commencement[^c-d4b822b1d08632ef5ccf8db7d0c20920]
 
 The Order may be cited as the Supreme Court (Non-Contentious Probate) Fees Order (Northern Ireland) 1996 and shall come into operation on 1st April 1996.
 
-## 2. Interpretation[^key-0f29e26d8da73b200bf21a25836e3cca]
+## 2. Interpretation[^c-0f29e26d8da73b200bf21a25836e3cca]
 
 (1) In this Order, unless the context otherwise requires “assessed value” means the value of the net real and personal estate passing under the grant as shown—
 
@@ -59,11 +59,11 @@ and in the case of an application to reseal a grant means the said value, as so 
 
 (2) Except where otherwise stated, a fee referred to by number means the fee so numbered in Schedule 1 to this Order.
 
-## 3. Revocation[^key-834129a7b9700b87474b75f8d649a313]
+## 3. Revocation[^c-834129a7b9700b87474b75f8d649a313]
 
 The orders specified in Schedule 2 to this Order are hereby revoked.
 
-## 4. Fees to be taken in Non-Contentious Probate matters in the Supreme Court[^key-5462825de7bb7dd3b23a7fa3c9cda43e]
+## 4. Fees to be taken in Non-Contentious Probate matters in the Supreme Court[^c-5462825de7bb7dd3b23a7fa3c9cda43e]
 
 (1) Subject to paragraphs (2)-(5) and Article 5 the fees set out in column 2 of Schedule 1 shall be payable in non-contentious probate proceedings in respect of the items set out opposite thereto in column 1, subject to and in accordance with the directions contained in that Schedule.
 
@@ -77,11 +77,11 @@ The orders specified in Schedule 2 to this Order are hereby revoked.
 
 (6) Where it appears to the Lord Chancellor that the payment of any fee specified in Schedule 1 would, owing to the exceptional circumstances of the particular case, involve undue hardship, he may reduce or remit the fee in that case.
 
-## 5. Fees in foreign convention proceedings[^key-d58c0034235666e54e8d76997ce3c75c]
+## 5. Fees in foreign convention proceedings[^c-d58c0034235666e54e8d76997ce3c75c]
 
 Where by any convention entered into by Her Majesty with any foreign power it is provided that no fee shall be required to be paid in respect of any proceedings, the fees specified in Schedule 1 shall not be taken in respect of those proceedings.
 
-## 6. Manner in which fees are to be taken[^key-47139182ec5b6ae635a6d6f90158325d]
+## 6. Manner in which fees are to be taken[^c-47139182ec5b6ae635a6d6f90158325d]
 
 (1) The fees prescribed in Schedule 1 shall be taken in cash.
 
@@ -89,11 +89,11 @@ Where by any convention entered into by Her Majesty with any foreign power it is
 
 (3) Where fees are payable under this Order in respect of any item and there is no document in reference to that item on which an endorsement can be made, the person requesting the action to which the item relates shall make the request by a requisition or note in writing which shall be endorsed as to the payment of the appropriate fee in accordance with paragraph (2).
 
-## 7. Exclusion of certain death gratuities[^key-11ea1c2bf9aa587f6e58972f1b78ba52]
+## 7. Exclusion of certain death gratuities[^c-11ea1c2bf9aa587f6e58972f1b78ba52]
 
 In determining the value of any estate for the purposes of this Order there shall be excluded the value of a death gratuity payable under section 17(2) of the Judicial Pensions Act 1981[^f00003] or payable to the personal representatives of a deceased civil servant by virtue of a scheme made under section 1 of the Superannuation Act 1972[^f00004].
 
-## 8. Application of fees[^key-2273190dc23ea118d771f25936adcdc4]
+## 8. Application of fees[^c-2273190dc23ea118d771f25936adcdc4]
 
 All fees received by virtue of Schedule 1 shall, unless otherwise appropriated in aid, be paid into the Consolidated Fund.
 
@@ -111,7 +111,7 @@ Two of the Lords Commissioners of Her Majesty’s Treasury
 
 Dated 14th March 1996
 
-## SCHEDULE 1[^key-aa9cfd1b95a05856a04547882de41efe]
+## SCHEDULE 1[^c-aa9cfd1b95a05856a04547882de41efe]
 
 Article 4
 
@@ -161,7 +161,7 @@ Article 4
 
 [^f00005][^f00006][^f00007]
 
-## SCHEDULE 2 — Orders Revoked[^key-96a4d3ad5394280f29ebbceb62d555f5]
+## SCHEDULE 2 — Orders Revoked[^c-96a4d3ad5394280f29ebbceb62d555f5]
 
 Article 3
 
@@ -187,29 +187,29 @@ This Order revokes and replaces the Supreme Court (Non-Contentious Probate) Fees
 
 [^f00001]: Footnote: [1978 c. 23](https://www.legislation.gov.uk/ukpga/1978/23)
 
-[^key-d4b822b1d08632ef5ccf8db7d0c20920]: Commencement: Art. 1 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/104/article/1)
+[^c-d4b822b1d08632ef5ccf8db7d0c20920]: Commencement: Art. 1 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/104/article/1)
 
-[^key-0f29e26d8da73b200bf21a25836e3cca]: Commencement: Art. 2 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/104/article/1)
+[^c-0f29e26d8da73b200bf21a25836e3cca]: Commencement: Art. 2 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/104/article/1)
 
 [^f00002]: Footnote: [1984 c. 51](https://www.legislation.gov.uk/ukpga/1984/51) by virtue of section 100(1) and (2) of the Finance Act [1986 (c. 41)](https://www.legislation.gov.uk/ukpga/1986/41) on and after 25th July 1986 the Capital Transfer Tax Act 1984 may be cited as the Inheritance Tax Act 1984, and any reference in that Act to capital transfer tax is to have effect as a reference to inheritance tax, except where the reference relates to a liability arising before 25th July 1986
 
-[^key-834129a7b9700b87474b75f8d649a313]: Commencement: Art. 3 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/104/article/1)
+[^c-834129a7b9700b87474b75f8d649a313]: Commencement: Art. 3 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/104/article/1)
 
-[^key-5462825de7bb7dd3b23a7fa3c9cda43e]: Commencement: Art. 4 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/104/article/1)
+[^c-5462825de7bb7dd3b23a7fa3c9cda43e]: Commencement: Art. 4 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/104/article/1)
 
-[^key-d58c0034235666e54e8d76997ce3c75c]: Commencement: Art. 5 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/104/article/1)
+[^c-d58c0034235666e54e8d76997ce3c75c]: Commencement: Art. 5 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/104/article/1)
 
-[^key-47139182ec5b6ae635a6d6f90158325d]: Commencement: Art. 6 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/104/article/1)
+[^c-47139182ec5b6ae635a6d6f90158325d]: Commencement: Art. 6 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/104/article/1)
 
-[^key-11ea1c2bf9aa587f6e58972f1b78ba52]: Commencement: Art. 7 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/104/article/1)
+[^c-11ea1c2bf9aa587f6e58972f1b78ba52]: Commencement: Art. 7 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/104/article/1)
 
 [^f00003]: Footnote: [1981 c. 20](https://www.legislation.gov.uk/ukpga/1981/20)
 
 [^f00004]: Footnote: [1972 c. 11](https://www.legislation.gov.uk/ukpga/1972/11)
 
-[^key-2273190dc23ea118d771f25936adcdc4]: Commencement: Art. 8 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/104/article/1)
+[^c-2273190dc23ea118d771f25936adcdc4]: Commencement: Art. 8 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/104/article/1)
 
-[^key-aa9cfd1b95a05856a04547882de41efe]: Commencement: Sch. 1 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/104/article/1)
+[^c-aa9cfd1b95a05856a04547882de41efe]: Commencement: Sch. 1 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/104/article/1)
 
 [^f00005]: Footnote: [1952 c. 33](https://www.legislation.gov.uk/ukpga/1952/33); section 71 was repealed (with savings) by the Finance Act [1975 (c. 7)](https://www.legislation.gov.uk/ukpga/1975/7), sections 50, 52(2), 59 and Schedule 13 Part 1
 
@@ -217,4 +217,4 @@ This Order revokes and replaces the Supreme Court (Non-Contentious Probate) Fees
 
 [^f00007]: Footnote: S.I. [1979/924 (N.I. 8)](https://www.legislation.gov.uk/nisi/1979/924)
 
-[^key-96a4d3ad5394280f29ebbceb62d555f5]: Commencement: Sch. 2 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/104/article/1)
+[^c-96a4d3ad5394280f29ebbceb62d555f5]: Commencement: Sch. 2 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/104/article/1)

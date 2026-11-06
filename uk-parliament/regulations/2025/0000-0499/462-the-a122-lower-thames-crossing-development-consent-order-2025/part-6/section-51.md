@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 51. Byelaws relating to the tunnel area[^key-a884f0924f4ac2bb19711aa03e565e66]
+## 51. Byelaws relating to the tunnel area[^c-a884f0924f4ac2bb19711aa03e565e66]
 
 *Extent: E+W*
 
@@ -39,7 +39,7 @@ summary: ''
 
 ## Annotations
 
-[^key-a884f0924f4ac2bb19711aa03e565e66]: Commencement: Art. 51 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-a884f0924f4ac2bb19711aa03e565e66]: Commencement: Art. 51 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
 [^f00113]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70). Section 236 was amended by sections 76 and 166 of the Greater London Authority Act [1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29) and [S.I. 2001/3719](https://www.legislation.gov.uk/uksi/2001/3719). There are other amendments to section 236 but none are relevant to this Order.
 

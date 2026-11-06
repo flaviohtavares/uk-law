@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 460. Contributions and charges unaffected by Chapter III.[^key-06dd79d0f477f057e7be418e2e48584c][^key-9f6dc02e062a328ecb0b1b68c1a87f54][^key-06dd79d0f477f057e7be418e2e48584c]
+## 460. Contributions and charges unaffected by Chapter III.[^c-06dd79d0f477f057e7be418e2e48584c][^c-9f6dc02e062a328ecb0b1b68c1a87f54][^c-06dd79d0f477f057e7be418e2e48584c]
 
 *Extent: E+W*
 
-(1) Nothing in this Chapter shall be read as prohibiting or in any way restricting or regulating any request or invitation by or on behalf of the governing body of a maintained school or a local authority[^key-6f7ad3e2cc8ee9e0ff2977c70c6c2e41] for voluntary contributions for the benefit of the school or any school activities.
+(1) Nothing in this Chapter shall be read as prohibiting or in any way restricting or regulating any request or invitation by or on behalf of the governing body of a maintained school or a local authority[^c-6f7ad3e2cc8ee9e0ff2977c70c6c2e41] for voluntary contributions for the benefit of the school or any school activities.
 
 (2) Any request or invitation made by or on behalf of such a body or authority for contributions for the benefit of a school or school activities shall not be regarded for the purposes of subsection (1) as a request or invitation for voluntary contributions unless it is clear from the terms in which it is made—
 
@@ -34,8 +34,8 @@ summary: ''
 
 ## Annotations
 
-[^key-06dd79d0f477f057e7be418e2e48584c]: Modification: Pt. 6 Ch. 3 modified (1.9.2013) by [The Operation of the Local Curriculum (Wales) Regulations 2013 (S.I. 2013/1793)](https://www.legislation.gov.uk/wsi/2013/1793), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2013/1793/regulation/1/1), [6(3)](https://www.legislation.gov.uk/wsi/2013/1793/regulation/6/3)
+[^c-06dd79d0f477f057e7be418e2e48584c]: Modification: Pt. 6 Ch. 3 modified (1.9.2013) by [The Operation of the Local Curriculum (Wales) Regulations 2013 (S.I. 2013/1793)](https://www.legislation.gov.uk/wsi/2013/1793), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2013/1793/regulation/1/1), [6(3)](https://www.legislation.gov.uk/wsi/2013/1793/regulation/6/3)
 
-[^key-9f6dc02e062a328ecb0b1b68c1a87f54]: Modification: S. 460 modified (1.9.2013) by [The Operation of the Local Curriculum (Wales) Regulations 2013 (S.I. 2013/1793)](https://www.legislation.gov.uk/wsi/2013/1793), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2013/1793/regulation/1/1), [6(1)(a)](https://www.legislation.gov.uk/wsi/2013/1793/regulation/6/1/a)
+[^c-9f6dc02e062a328ecb0b1b68c1a87f54]: Modification: S. 460 modified (1.9.2013) by [The Operation of the Local Curriculum (Wales) Regulations 2013 (S.I. 2013/1793)](https://www.legislation.gov.uk/wsi/2013/1793), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2013/1793/regulation/1/1), [6(1)(a)](https://www.legislation.gov.uk/wsi/2013/1793/regulation/6/1/a)
 
-[^key-6f7ad3e2cc8ee9e0ff2977c70c6c2e41]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/2) (with [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/5))
+[^c-6f7ad3e2cc8ee9e0ff2977c70c6c2e41]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/2) (with [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/5))

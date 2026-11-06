@@ -22,7 +22,7 @@ summary: ''
 
 Article 39
 
-### PART 1 — Removal of hedgerows[^key-610db2c89830f831e3901a7781708ddd]
+### PART 1 — Removal of hedgerows[^c-610db2c89830f831e3901a7781708ddd]
 
 <table>
 <thead>
@@ -277,7 +277,7 @@ Article 39
 </tbody>
 </table>
 
-### PART 2 — Removal of important hedgerows[^key-2b051a0e5e88630eb912d2972c8c7bf7]
+### PART 2 — Removal of important hedgerows[^c-2b051a0e5e88630eb912d2972c8c7bf7]
 
 <table>
 <thead>
@@ -411,6 +411,6 @@ Article 39
 
 ## Annotations
 
-[^key-610db2c89830f831e3901a7781708ddd]: Commencement: Sch. 11 Pt. 1 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)
+[^c-610db2c89830f831e3901a7781708ddd]: Commencement: Sch. 11 Pt. 1 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)
 
-[^key-2b051a0e5e88630eb912d2972c8c7bf7]: Commencement: Sch. 11 Pt. 2 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)
+[^c-2b051a0e5e88630eb912d2972c8c7bf7]: Commencement: Sch. 11 Pt. 2 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)

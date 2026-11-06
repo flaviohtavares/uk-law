@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Making restricted goods and restricted technology available[^key-d8d78d3a6fbe404f05164a22fa38c62d][^key-fd17653ec395c800aaa72d4a78ccaf90]
+## 23. Making restricted goods and restricted technology available[^c-d8d78d3a6fbe404f05164a22fa38c62d][^c-fd17653ec395c800aaa72d4a78ccaf90]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d8d78d3a6fbe404f05164a22fa38c62d]: Commencement: Reg. 23 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/604/regulation/1/2)
+[^c-d8d78d3a6fbe404f05164a22fa38c62d]: Commencement: Reg. 23 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/604/regulation/1/2)
 
-[^key-fd17653ec395c800aaa72d4a78ccaf90]: Commencement: Reg. 23 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 13(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/13/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fd17653ec395c800aaa72d4a78ccaf90]: Commencement: Reg. 23 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 13(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/13/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

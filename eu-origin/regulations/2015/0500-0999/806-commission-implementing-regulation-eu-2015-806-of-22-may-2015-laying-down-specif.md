@@ -35,28 +35,28 @@ laying down specifications relating to the form of the EU trust mark for qualifi
 
 (Text with EEA relevance) (revoked)
 
-[^key-392e4b259d912f7c0e1966936f68256b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-392e4b259d912f7c0e1966936f68256b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-392e4b259d912f7c0e1966936f68256b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-392e4b259d912f7c0e1966936f68256b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-392e4b259d912f7c0e1966936f68256b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-392e4b259d912f7c0e1966936f68256b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-392e4b259d912f7c0e1966936f68256b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-392e4b259d912f7c0e1966936f68256b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-392e4b259d912f7c0e1966936f68256b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-392e4b259d912f7c0e1966936f68256b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-392e4b259d912f7c0e1966936f68256b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-392e4b259d912f7c0e1966936f68256b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-392e4b259d912f7c0e1966936f68256b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-392e4b259d912f7c0e1966936f68256b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX I — EU trust mark for qualified trust services in colour[^key-392e4b259d912f7c0e1966936f68256b]
+## ANNEX I — EU trust mark for qualified trust services in colour[^c-392e4b259d912f7c0e1966936f68256b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — EU trust mark for qualified trust services in black and white[^key-392e4b259d912f7c0e1966936f68256b]
+## ANNEX II — EU trust mark for qualified trust services in black and white[^c-392e4b259d912f7c0e1966936f68256b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-392e4b259d912f7c0e1966936f68256b]: Textual amendment: Regulation revoked (31.12.2020) by [The Electronic Identification and Trust Services for Electronic Transactions (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/89)](https://www.legislation.gov.uk/uksi/2019/89), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/89/regulation/1/2), [Sch. para. 51](https://www.legislation.gov.uk/uksi/2019/89/schedule/paragraph/51); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-392e4b259d912f7c0e1966936f68256b]: Textual amendment: Regulation revoked (31.12.2020) by [The Electronic Identification and Trust Services for Electronic Transactions (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/89)](https://www.legislation.gov.uk/uksi/2019/89), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/89/regulation/1/2), [Sch. para. 51](https://www.legislation.gov.uk/uksi/2019/89/schedule/paragraph/51); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

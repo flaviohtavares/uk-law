@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 109. Online pornography (age and consent verification): power to amend [Online Safety Act 2023](https://www.legislation.gov.uk/ukpga/2023/50/contents)[^key-29990e046831b4269540d3869d645399]
+## 109. Online pornography (age and consent verification): power to amend [Online Safety Act 2023](https://www.legislation.gov.uk/ukpga/2023/50/contents)[^c-29990e046831b4269540d3869d645399]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-29990e046831b4269540d3869d645399]: Commencement: [S. 109](https://www.legislation.gov.uk/ukpga/2026/20/section/109) in force at 29.6.2026, see [s. 255(3)(c)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/c)
+[^c-29990e046831b4269540d3869d645399]: Commencement: [S. 109](https://www.legislation.gov.uk/ukpga/2026/20/section/109) in force at 29.6.2026, see [s. 255(3)(c)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/c)

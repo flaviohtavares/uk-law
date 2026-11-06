@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 97. Electronic submission of information instead of submission of forms in all other cases[^key-44f9cfa8af1b5579391c5d09b748883e]
+## 97. Electronic submission of information instead of submission of forms in all other cases[^c-44f9cfa8af1b5579391c5d09b748883e]
 
 *Extent: S*
 
-(1) Subject to paragraph (4), this Rule applies in any case where Rule 95[^key-0a6f7592f475aff49d78cc9987dfc508] does not apply, where information in a prescribed form is required by these Rules to be sent by any person.
+(1) Subject to paragraph (4), this Rule applies in any case where Rule 95[^c-0a6f7592f475aff49d78cc9987dfc508] does not apply, where information in a prescribed form is required by these Rules to be sent by any person.
 
 (2) A requirement of the kind mentioned in paragraph (1) is treated as having been satisfied where—
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-44f9cfa8af1b5579391c5d09b748883e]: Commencement: Rule 97 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-44f9cfa8af1b5579391c5d09b748883e]: Commencement: Rule 97 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
 
-[^key-0a6f7592f475aff49d78cc9987dfc508]: Textual amendment: Words in [rule 97(1)](https://www.legislation.gov.uk/uksi/2016/900/rule/97/1) substituted (13.4.2017) by [The Postal Administration (Scotland) (Amendment) Rules 2017 (S.I. 2017/441)](https://www.legislation.gov.uk/uksi/2017/441), [rules 1](https://www.legislation.gov.uk/uksi/2017/441/rule/1), [2(11)](https://www.legislation.gov.uk/uksi/2017/441/rule/2/11)
+[^c-0a6f7592f475aff49d78cc9987dfc508]: Textual amendment: Words in [rule 97(1)](https://www.legislation.gov.uk/uksi/2016/900/rule/97/1) substituted (13.4.2017) by [The Postal Administration (Scotland) (Amendment) Rules 2017 (S.I. 2017/441)](https://www.legislation.gov.uk/uksi/2017/441), [rules 1](https://www.legislation.gov.uk/uksi/2017/441/rule/1), [2(11)](https://www.legislation.gov.uk/uksi/2017/441/rule/2/11)

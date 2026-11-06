@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1. Citation and commencement[^key-ce11310338b33231b3c4729e1dd8669d]
+## 1. Citation and commencement[^c-ce11310338b33231b3c4729e1dd8669d]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ This Order may be cited as the Ipswich Barrier Order 2012 and comes into force o
 
 ## Annotations
 
-[^key-ce11310338b33231b3c4729e1dd8669d]: Commencement: Art. 1 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)
+[^c-ce11310338b33231b3c4729e1dd8669d]: Commencement: Art. 1 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)

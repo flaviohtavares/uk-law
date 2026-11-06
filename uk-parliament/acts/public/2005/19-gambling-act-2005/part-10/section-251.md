@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 251. Territorial application[^key-2dbafb65ab28009afa9934bf8bf8cd82]
+## 251. Territorial application[^c-2dbafb65ab28009afa9934bf8bf8cd82]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ This Part applies—
 
 ## Annotations
 
-[^key-2dbafb65ab28009afa9934bf8bf8cd82]: Commencement: [S. 251](https://www.legislation.gov.uk/ukpga/2005/19/section/251) in force at 1.1.2007 by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/3272/schedule/1) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4))
+[^c-2dbafb65ab28009afa9934bf8bf8cd82]: Commencement: [S. 251](https://www.legislation.gov.uk/ukpga/2005/19/section/251) in force at 1.1.2007 by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/3272/schedule/1) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4))

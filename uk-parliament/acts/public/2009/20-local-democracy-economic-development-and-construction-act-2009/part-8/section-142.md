@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 142. Determination of payments due[^key-7d1adccaa046ae7c3d14ba802365b45c][^key-9b4e342bb3f76cf02eb51bab5625a928][^key-c76767512f209db3b14fbb7e01f40937]
+## 142. Determination of payments due[^c-7d1adccaa046ae7c3d14ba802365b45c][^c-9b4e342bb3f76cf02eb51bab5625a928][^c-c76767512f209db3b14fbb7e01f40937]
 
 *Extent: E+W+S*
 
@@ -42,8 +42,8 @@ summary: ''
 
 ## Annotations
 
-[^key-7d1adccaa046ae7c3d14ba802365b45c]: Commencement: S. 142 in force at 1.10.2011 for specified purposes for E.W. by [S.I. 2011/1582](https://www.legislation.gov.uk/uksi/2011/1582), [art. 2](https://www.legislation.gov.uk/uksi/2011/1582/article/2)
+[^c-7d1adccaa046ae7c3d14ba802365b45c]: Commencement: S. 142 in force at 1.10.2011 for specified purposes for E.W. by [S.I. 2011/1582](https://www.legislation.gov.uk/uksi/2011/1582), [art. 2](https://www.legislation.gov.uk/uksi/2011/1582/article/2)
 
-[^key-9b4e342bb3f76cf02eb51bab5625a928]: Commencement: S. 142 in force at 1.10.2011 for specified purposes for E.W. by [S.I. 2011/1597](https://www.legislation.gov.uk/uksi/2011/1597), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1597/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2011/1597/article/3/b)
+[^c-9b4e342bb3f76cf02eb51bab5625a928]: Commencement: S. 142 in force at 1.10.2011 for specified purposes for E.W. by [S.I. 2011/1597](https://www.legislation.gov.uk/uksi/2011/1597), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1597/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2011/1597/article/3/b)
 
-[^key-c76767512f209db3b14fbb7e01f40937]: Commencement: S. 142 in force at 1.11.2011 for S. by [S.S.I. 2011/291](https://www.legislation.gov.uk/ssi/2011/291), [art. 2](https://www.legislation.gov.uk/ssi/2011/291/article/2)
+[^c-c76767512f209db3b14fbb7e01f40937]: Commencement: S. 142 in force at 1.11.2011 for S. by [S.S.I. 2011/291](https://www.legislation.gov.uk/ssi/2011/291), [art. 2](https://www.legislation.gov.uk/ssi/2011/291/article/2)

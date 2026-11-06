@@ -24,10 +24,10 @@ summary: ''
 
 (2) For the purpose of determining the credits and debits to be brought into account in respect of the derivative contract in accordance with this Part, the transferor and the transferee are treated as having entered into the transfer of those rights and liabilities for consideration of an amount equal to the notional carrying value of the contract.
 
-(3) For the purposes of this section, the notional carrying value of a contract is the amount which would have been its tax-adjusted carrying value based on[^key-854b4c3a34376dd9b181ee0faab7d62f] the accounts of the transferor if a period of account had ended immediately before the date when the transferor ceased to be a party to the contract.
+(3) For the purposes of this section, the notional carrying value of a contract is the amount which would have been its tax-adjusted carrying value based on[^c-854b4c3a34376dd9b181ee0faab7d62f] the accounts of the transferor if a period of account had ended immediately before the date when the transferor ceased to be a party to the contract.
 
 (4) This section is subject to section 685 (transferor using fair value accounting).
 
 ## Annotations
 
-[^key-854b4c3a34376dd9b181ee0faab7d62f]: Textual amendment: Words in s. 684(3) substituted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 88](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/88)
+[^c-854b4c3a34376dd9b181ee0faab7d62f]: Textual amendment: Words in s. 684(3) substituted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 88](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/88)

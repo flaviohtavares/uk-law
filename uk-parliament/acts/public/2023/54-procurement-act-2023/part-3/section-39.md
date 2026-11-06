@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Dynamic market notices[^key-5ed8c2aa40b5a5db03b67b65ddb14e96][^key-4669edabcaa797eb37998c1e915c0c23]
+## 39. Dynamic market notices[^c-5ed8c2aa40b5a5db03b67b65ddb14e96][^c-4669edabcaa797eb37998c1e915c0c23]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5ed8c2aa40b5a5db03b67b65ddb14e96]: Commencement: S. 39 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
+[^c-5ed8c2aa40b5a5db03b67b65ddb14e96]: Commencement: S. 39 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
 
-[^key-4669edabcaa797eb37998c1e915c0c23]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2023/54/section/39) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
+[^c-4669edabcaa797eb37998c1e915c0c23]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2023/54/section/39) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))

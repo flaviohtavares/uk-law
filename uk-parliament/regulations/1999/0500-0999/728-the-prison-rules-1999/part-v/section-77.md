@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) The independent monitoring board[^key-38bf750145b5fe634aedf2cbf185b5df] for a prison shall satisfy themselves as to the state of the prison premises, the administration of the prison and the treatment of the prisoners.
+(1) The independent monitoring board[^c-38bf750145b5fe634aedf2cbf185b5df] for a prison shall satisfy themselves as to the state of the prison premises, the administration of the prison and the treatment of the prisoners.
 
 (2) The board shall inquire into and report upon any matter into which the Secretary of State asks them to inquire.
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-38bf750145b5fe634aedf2cbf185b5df]: Textual amendment: Words in rule 77(1) substituted (1.4.2008) by [The Prison (Amendment) Rules 2008 (S.I. 2008/597)](https://www.legislation.gov.uk/uksi/2008/597), [rules 1](https://www.legislation.gov.uk/uksi/2008/597/rule/1), [4(a)](https://www.legislation.gov.uk/uksi/2008/597/rule/4/a)
+[^c-38bf750145b5fe634aedf2cbf185b5df]: Textual amendment: Words in rule 77(1) substituted (1.4.2008) by [The Prison (Amendment) Rules 2008 (S.I. 2008/597)](https://www.legislation.gov.uk/uksi/2008/597), [rules 1](https://www.legislation.gov.uk/uksi/2008/597/rule/1), [4(a)](https://www.legislation.gov.uk/uksi/2008/597/rule/4/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2 — Product requirements[^key-103bc36561c2e47c5c4432fff3008f4b]
+## SCHEDULE 2 — Product requirements[^c-103bc36561c2e47c5c4432fff3008f4b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,58 +24,58 @@ summary: ''
 
 Regulation 3
 
-### PART 1 — Introduction[^key-103bc36561c2e47c5c4432fff3008f4b]
+### PART 1 — Introduction[^c-103bc36561c2e47c5c4432fff3008f4b]
 
-**1.**[^key-103bc36561c2e47c5c4432fff3008f4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-103bc36561c2e47c5c4432fff3008f4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Boilers and appliances[^key-103bc36561c2e47c5c4432fff3008f4b]
+### PART 2 — Boilers and appliances[^c-103bc36561c2e47c5c4432fff3008f4b]
 
-**1.**[^key-103bc36561c2e47c5c4432fff3008f4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-103bc36561c2e47c5c4432fff3008f4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-103bc36561c2e47c5c4432fff3008f4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-103bc36561c2e47c5c4432fff3008f4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-103bc36561c2e47c5c4432fff3008f4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-103bc36561c2e47c5c4432fff3008f4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-103bc36561c2e47c5c4432fff3008f4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-103bc36561c2e47c5c4432fff3008f4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 3 — Refrigerator appliances[^key-103bc36561c2e47c5c4432fff3008f4b]
+### PART 3 — Refrigerator appliances[^c-103bc36561c2e47c5c4432fff3008f4b]
 
-**1.**[^key-103bc36561c2e47c5c4432fff3008f4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-103bc36561c2e47c5c4432fff3008f4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-103bc36561c2e47c5c4432fff3008f4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-103bc36561c2e47c5c4432fff3008f4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-103bc36561c2e47c5c4432fff3008f4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-103bc36561c2e47c5c4432fff3008f4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-103bc36561c2e47c5c4432fff3008f4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-103bc36561c2e47c5c4432fff3008f4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-103bc36561c2e47c5c4432fff3008f4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-103bc36561c2e47c5c4432fff3008f4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-103bc36561c2e47c5c4432fff3008f4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-103bc36561c2e47c5c4432fff3008f4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-103bc36561c2e47c5c4432fff3008f4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-103bc36561c2e47c5c4432fff3008f4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-103bc36561c2e47c5c4432fff3008f4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-103bc36561c2e47c5c4432fff3008f4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-103bc36561c2e47c5c4432fff3008f4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-103bc36561c2e47c5c4432fff3008f4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 4 — Ballasts for fluorescent lighting[^key-103bc36561c2e47c5c4432fff3008f4b]
+### PART 4 — Ballasts for fluorescent lighting[^c-103bc36561c2e47c5c4432fff3008f4b]
 
-**1.**[^key-103bc36561c2e47c5c4432fff3008f4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-103bc36561c2e47c5c4432fff3008f4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-103bc36561c2e47c5c4432fff3008f4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-103bc36561c2e47c5c4432fff3008f4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-103bc36561c2e47c5c4432fff3008f4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-103bc36561c2e47c5c4432fff3008f4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-103bc36561c2e47c5c4432fff3008f4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-103bc36561c2e47c5c4432fff3008f4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-103bc36561c2e47c5c4432fff3008f4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-103bc36561c2e47c5c4432fff3008f4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-103bc36561c2e47c5c4432fff3008f4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-103bc36561c2e47c5c4432fff3008f4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part 5 — Other Listed Products[^key-103bc36561c2e47c5c4432fff3008f4b]
+### Part 5 — Other Listed Products[^c-103bc36561c2e47c5c4432fff3008f4b]
 
-**1.**[^key-103bc36561c2e47c5c4432fff3008f4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-103bc36561c2e47c5c4432fff3008f4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-103bc36561c2e47c5c4432fff3008f4b]: Textual amendment: Regulations revoked (20.11.2010) by [The Ecodesign for Energy Related Products Regulations 2010 (S.I. 2010/2617)](https://www.legislation.gov.uk/uksi/2010/2617), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2617/regulation/1), [20(a)](https://www.legislation.gov.uk/uksi/2010/2617/regulation/20/a)
+[^c-103bc36561c2e47c5c4432fff3008f4b]: Textual amendment: Regulations revoked (20.11.2010) by [The Ecodesign for Energy Related Products Regulations 2010 (S.I. 2010/2617)](https://www.legislation.gov.uk/uksi/2010/2617), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2617/regulation/1), [20(a)](https://www.legislation.gov.uk/uksi/2010/2617/regulation/20/a)

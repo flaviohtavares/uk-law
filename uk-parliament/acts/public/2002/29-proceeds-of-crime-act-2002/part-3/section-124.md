@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124. Arrestment of property affected by order[^key-11c8867940164f3aac15ced0039f2ffd][^key-bf1422bf2e602f499b6e4a1b87fb0e4c][^key-53df666702317775cbc230d88b09b527][^key-d59f6c2a9c42161ca1815c0c61d9e1f6][^key-bf1422bf2e602f499b6e4a1b87fb0e4c][^key-d59f6c2a9c42161ca1815c0c61d9e1f6]
+## 124. Arrestment of property affected by order[^c-11c8867940164f3aac15ced0039f2ffd][^c-bf1422bf2e602f499b6e4a1b87fb0e4c][^c-53df666702317775cbc230d88b09b527][^c-d59f6c2a9c42161ca1815c0c61d9e1f6][^c-bf1422bf2e602f499b6e4a1b87fb0e4c][^c-d59f6c2a9c42161ca1815c0c61d9e1f6]
 
 *Extent: S*
 
@@ -34,10 +34,10 @@ summary: ''
 
 ## Annotations
 
-[^key-11c8867940164f3aac15ced0039f2ffd]: Modification: S. 124 applied (24.2.2003) by [Proceeds of Crime Act 2002 (Enforcement in different parts of the United Kingdom) Order 2002 (S.I. 2002/3133)](https://www.legislation.gov.uk/uksi/2002/3133), [arts. 1](https://www.legislation.gov.uk/uksi/2002/3133/article/1), [12(2)](https://www.legislation.gov.uk/uksi/2002/3133/article/12/2)
+[^c-11c8867940164f3aac15ced0039f2ffd]: Modification: S. 124 applied (24.2.2003) by [Proceeds of Crime Act 2002 (Enforcement in different parts of the United Kingdom) Order 2002 (S.I. 2002/3133)](https://www.legislation.gov.uk/uksi/2002/3133), [arts. 1](https://www.legislation.gov.uk/uksi/2002/3133/article/1), [12(2)](https://www.legislation.gov.uk/uksi/2002/3133/article/12/2)
 
-[^key-bf1422bf2e602f499b6e4a1b87fb0e4c]: Modification: Pt. 3 functions of administrator extended (24.2.2003) by [Proceeds of Crime Act 2002 (Enforcement in different parts of the United Kingdom) Order 2002 (S.I. 2002/3133)](https://www.legislation.gov.uk/uksi/2002/3133), [arts. 1](https://www.legislation.gov.uk/uksi/2002/3133/article/1), [4(1)(a)](https://www.legislation.gov.uk/uksi/2002/3133/article/4/1/a)
+[^c-bf1422bf2e602f499b6e4a1b87fb0e4c]: Modification: Pt. 3 functions of administrator extended (24.2.2003) by [Proceeds of Crime Act 2002 (Enforcement in different parts of the United Kingdom) Order 2002 (S.I. 2002/3133)](https://www.legislation.gov.uk/uksi/2002/3133), [arts. 1](https://www.legislation.gov.uk/uksi/2002/3133/article/1), [4(1)(a)](https://www.legislation.gov.uk/uksi/2002/3133/article/4/1/a)
 
-[^key-53df666702317775cbc230d88b09b527]: Commencement: S. 124 in force at 24.3.2003 by [S.S.I. 2003/210](https://www.legislation.gov.uk/ssi/2003/210), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2003/210/article/2/1/a)
+[^c-53df666702317775cbc230d88b09b527]: Commencement: S. 124 in force at 24.3.2003 by [S.S.I. 2003/210](https://www.legislation.gov.uk/ssi/2003/210), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2003/210/article/2/1/a)
 
-[^key-d59f6c2a9c42161ca1815c0c61d9e1f6]: Modification: Pt. 3 applied by Terrorism Act 2000 (c. 11), Sch. 8 paras. 17(4A), 34(3A) (as substituted (24.3.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), [s. 458(1)](https://www.legislation.gov.uk/ukpga/2002/29/section/458/1), [Sch. 11 para. 39(4)(5)](https://www.legislation.gov.uk/ukpga/2002/29/schedule/11/paragraph/39/4); [S.S.I. 2003/210](https://www.legislation.gov.uk/ssi/2003/210), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2003/210/article/2/1/b)[(2)](https://www.legislation.gov.uk/ssi/2003/210/article/2/2), [sch.](https://www.legislation.gov.uk/ssi/2003/210/schedule) (with [art. 7](https://www.legislation.gov.uk/ssi/2003/210/article/7)); [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule)
+[^c-d59f6c2a9c42161ca1815c0c61d9e1f6]: Modification: Pt. 3 applied by Terrorism Act 2000 (c. 11), Sch. 8 paras. 17(4A), 34(3A) (as substituted (24.3.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), [s. 458(1)](https://www.legislation.gov.uk/ukpga/2002/29/section/458/1), [Sch. 11 para. 39(4)(5)](https://www.legislation.gov.uk/ukpga/2002/29/schedule/11/paragraph/39/4); [S.S.I. 2003/210](https://www.legislation.gov.uk/ssi/2003/210), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2003/210/article/2/1/b)[(2)](https://www.legislation.gov.uk/ssi/2003/210/article/2/2), [sch.](https://www.legislation.gov.uk/ssi/2003/210/schedule) (with [art. 7](https://www.legislation.gov.uk/ssi/2003/210/article/7)); [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule)

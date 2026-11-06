@@ -48,11 +48,11 @@ The Department of Agriculture and Rural Development, in exercise of the powers c
 
 ## PART 1 — GENERAL
 
-### 1. Citation and commencement[^key-28eab21a5db17a8b16dfbba98278a50d]
+### 1. Citation and commencement[^c-28eab21a5db17a8b16dfbba98278a50d]
 
 These Regulations may be cited as the Alien and Locally Absent Species in Aquaculture Regulations (Northern Ireland) 2012 and come into operation on 15<sup>th</sup> October 2012.
 
-### 2. Interpretation[^key-a36d013207150127faa94d27a2e9177f]
+### 2. Interpretation[^c-a36d013207150127faa94d27a2e9177f]
 
 (1) Subject to regulations 22(1) and 26(1), the Interpretation Act (Northern Ireland) 1954 [^f00005] applies to these Regulations as it applies to an Act of the Assembly.
 
@@ -70,22 +70,22 @@ These Regulations may be cited as the Alien and Locally Absent Species in Aquacu
 
 (3) Expressions used in these Regulations which are also used in Council Regulation 708/2007 have the same meaning as they have in that Council Regulation.
 
-### 3. Designation of Department as competent authority[^key-c2889fef0d184474bedfcfccd72c4acd]
+### 3. Designation of Department as competent authority[^c-c2889fef0d184474bedfcfccd72c4acd]
 
 The Department is designated the competent authority for the purposes of Article 5 of Council Regulation 708/2007.
 
 ## PART 2 — MOVEMENTS
 
-### 4. Requirement for permit to introduce alien species or translocate locally absent species[^key-91a3755d3607867004a72d76437d68c1]
+### 4. Requirement for permit to introduce alien species or translocate locally absent species[^c-91a3755d3607867004a72d76437d68c1]
 
 (1) It is an offence for a person to undertake the introduction of an alien species or the translocation of a locally absent species except under, and in accordance with the conditions of, a permit.
 
 (2) Paragraph (1) does not apply in relation to –
 
 - (a) the movement of an Annex IV species; or
-- (b) the translocation of a locally absent species within Northern Ireland [^key-1e454e17924c466e9f1d95ec0683d19e]...if the Department has served notice under regulation 8(2) on the person undertaking the translocation that a permit is not required for the translocation.
+- (b) the translocation of a locally absent species within Northern Ireland [^c-1e454e17924c466e9f1d95ec0683d19e]...if the Department has served notice under regulation 8(2) on the person undertaking the translocation that a permit is not required for the translocation.
 
-### 5. Permits[^key-5d41e6f442d0f90cf051b08c6dbf89cf]
+### 5. Permits[^c-5d41e6f442d0f90cf051b08c6dbf89cf]
 
 (1) A permit shall be in writing and may be granted subject to such conditions as the Department considers appropriate.
 
@@ -102,12 +102,12 @@ The Department is designated the competent authority for the purposes of Article
 - (a) give the reasons for its decision; and
 - (b) inform the applicant of the right of appeal under regulation 20.
 
-### 6. Notifying movement of Annex IV species or translocation of locally absent species[^key-95be9b886042da3a7b9eae6878a13bd6]
+### 6. Notifying movement of Annex IV species or translocation of locally absent species[^c-95be9b886042da3a7b9eae6878a13bd6]
 
 (1) This regulation applies in relation to—
 
 - (a) the proposed movement of an Annex IV species;
-- (b) the proposed translocation of a locally absent species within Northern Ireland[^key-1ceec52d85aca6adc873d19eff0790f1]....
+- (b) the proposed translocation of a locally absent species within Northern Ireland[^c-1ceec52d85aca6adc873d19eff0790f1]....
 
 (2) Subject to paragraph (5), a person proposing to undertake a movement or translocation shall give notice of the proposed movement or translocation to the Department.
 
@@ -122,7 +122,7 @@ The Department is designated the competent authority for the purposes of Article
 
 (6) It is an offence for a person to contravene paragraph (2) or (4).
 
-### 7. Movement of Annex IV species[^key-feac7206c00ea3e54642780d51e5ab2d]
+### 7. Movement of Annex IV species[^c-feac7206c00ea3e54642780d51e5ab2d]
 
 (1) This regulation applies where the Department has received notice of the proposed movement of an Annex IV species under regulation 6(2).
 
@@ -149,7 +149,7 @@ The Department is designated the competent authority for the purposes of Article
 - (a) give the reasons for the decision; and
 - (b) inform the person on whom the notice is served of the right of appeal under regulation 20.
 
-### 8. Translocation of locally absent species[^key-395125e864d9c40ce5d6eabb98f5e873]
+### 8. Translocation of locally absent species[^c-395125e864d9c40ce5d6eabb98f5e873]
 
 (1) This regulation applies where the Department has received notice of the proposed translocation of a locally absent species under regulation 6(2).
 
@@ -162,11 +162,11 @@ The Department is designated the competent authority for the purposes of Article
   - (i) give the reasons for the decision; and
   - (ii) inform the person on whom the notice is served of the right of appeal under regulation 20.
 
-### 9. Environmental risk assessment[^key-d1a1ca5bd086cfdce7dbba0f3b5237cf]
+### 9. Environmental risk assessment[^c-d1a1ca5bd086cfdce7dbba0f3b5237cf]
 
 An environmental risk assessment carried out under Article 9(1) of Council Regulation 708/2007 shall be produced at the applicant’s own cost.
 
-### 10. Contingency plan[^key-3b973ead198c8aa76d4fefb88c240659]
+### 10. Contingency plan[^c-3b973ead198c8aa76d4fefb88c240659]
 
 (1) A contingency plan drawn up under Article 17 of Council Regulation 708/2007 shall be —
 
@@ -175,7 +175,7 @@ An environmental risk assessment carried out under Article 9(1) of Council Regul
 
 (2) It is an offence for a person to fail to implement an approved contingency plan immediately upon the occurrence of an event specified in the plan.
 
-### 11. Monitoring[^key-450974bc7ab1615423f57ae78263adad]
+### 11. Monitoring[^c-450974bc7ab1615423f57ae78263adad]
 
 (1) This regulation applies where monitoring is required under Article 18 or 22 of Council Regulation 708/2007.
 
@@ -190,7 +190,7 @@ An environmental risk assessment carried out under Article 9(1) of Council Regul
 
 ## PART 3 — ENFORCEMENT, PENALTIES AND APPEALS
 
-### 12. Entry and inspection of premises[^key-829413072fc0bfc461ea05c0b8a4d5a0]
+### 12. Entry and inspection of premises[^c-829413072fc0bfc461ea05c0b8a4d5a0]
 
 (1) For the purposes of enforcing Council Regulation 708/2007 or these Regulations, an inspector may, on producing, if so required, some duly authenticated document showing the inspector’s authority, enter and inspect any premises at any reasonable hour.
 
@@ -213,7 +213,7 @@ An environmental risk assessment carried out under Article 9(1) of Council Regul
 
 (5) A warrant issued under paragraph (3) shall continue in force for one month or, if sooner, until the purpose for which it was issued has been fulfilled.
 
-(6)[^key-3d0591e5ff45ea74b3edccb80090e295] An inspector entering any premises may be accompanied by such persons, and may enter with such equipment or vehicle, as the inspector considers necessary for the purposes of these Regulations.
+(6)[^c-3d0591e5ff45ea74b3edccb80090e295] An inspector entering any premises may be accompanied by such persons, and may enter with such equipment or vehicle, as the inspector considers necessary for the purposes of these Regulations.
 
 (7) An inspector entering any premises which are unoccupied, or from which the occupier is temporarily absent, shall leave them as effectively secured against unauthorised entry as the inspector found them.
 
@@ -222,7 +222,7 @@ An environmental risk assessment carried out under Article 9(1) of Council Regul
 - (a) any vessel, vehicle or trailer;
 - (b) any installation, container or receptacle.
 
-### 13. Search and examination of items on premises[^key-e0623b1981c6760273572471d50e1eba]
+### 13. Search and examination of items on premises[^c-e0623b1981c6760273572471d50e1eba]
 
 Subject to regulation 16, an inspector entering any premises under regulation 12 may—
 
@@ -231,14 +231,14 @@ Subject to regulation 16, an inspector entering any premises under regulation 12
   - (i) on the premises;
   - (ii) attached to, or otherwise forms part of, the premises.
 
-### 14. Production of documents[^key-bb11976d86e5f692e9b943803e980526]
+### 14. Production of documents[^c-bb11976d86e5f692e9b943803e980526]
 
 Subject to regulation 16, an inspector entering any premises under regulation 12 may require any person on the premises to —
 
 - (a) produce any document or record that is in the person’s possession or control;
 - (b) render any such document or record on a computer system into a visible and legible form, including requiring it to be produced in a form in which it may be taken away.
 
-### 15. Seizure of items[^key-1dfe481f34784b5793efdebe4c135367]
+### 15. Seizure of items[^c-1dfe481f34784b5793efdebe4c135367]
 
 (1) Subject to regulation 16, this regulation applies where an inspector exercises a power conferred by regulation 13 or 14.
 
@@ -260,14 +260,14 @@ Subject to regulation 16, an inspector entering any premises under regulation 12
 
 (7) It is an offence for a person to fail to comply with a requirement imposed under paragraph (5).
 
-### 16. Enforcement powers[^key-b87aa13ab746537da1b3a79969ed338f]
+### 16. Enforcement powers[^c-b87aa13ab746537da1b3a79969ed338f]
 
 The powers conferred by regulations 13, 14 and 15 may only be exercised—
 
 - (a) for the purpose of determining whether an offence under these Regulations has been committed; or
 - (b) in relation to an item, document or record which an inspector reasonably believes to be evidence of the commission of an offence under these Regulations.
 
-### 17. Enforcement notices[^key-3087751e97bbf6e60586f4b2beaea6fe]
+### 17. Enforcement notices[^c-3087751e97bbf6e60586f4b2beaea6fe]
 
 (1) The Department may serve an enforcement notice on any person who it considers has contravened Council Regulation 708/2007 or these Regulations.
 
@@ -303,13 +303,13 @@ The powers conferred by regulations 13, 14 and 15 may only be exercised—
 
 (9) In this regulation “operator” means any person who is responsible for the management of the aquaculture facility.
 
-### 18. Recovery of expenses of enforcement[^key-b24838c78c038ac44033c89ed719de6f]
+### 18. Recovery of expenses of enforcement[^c-b24838c78c038ac44033c89ed719de6f]
 
 (1) This regulation applies where a court convicts a person of an offence under regulation 17(8) or 21 (b).
 
 (2) The court may (in addition to any other order it may make as to costs or expenses) order the person to reimburse the Department for any expenditure which the Department has incurred under regulation 17(5) or (7).
 
-### 19. Amendment, suspension or revocation of permit or notice[^key-2ab1ade5aa74adb13d662466e31d74ac]
+### 19. Amendment, suspension or revocation of permit or notice[^c-2ab1ade5aa74adb13d662466e31d74ac]
 
 (1) This regulation applies in relation to –
 
@@ -349,7 +349,7 @@ The powers conferred by regulations 13, 14 and 15 may only be exercised—
 
 (8) In this regulation “notice holder” means the person on whom the notice was served under regulation 7(2)(b) or (3)(b).
 
-### 20. Appeals[^key-a7e142301e3ed5416c33f23a6b8f2769]
+### 20. Appeals[^c-a7e142301e3ed5416c33f23a6b8f2769]
 
 (1) A person (“the appellant”) may appeal to the Department against any of the following notices —
 
@@ -392,7 +392,7 @@ The powers conferred by regulations 13, 14 and 15 may only be exercised—
 - (a) a notice to which paragraph (7) does not apply by virtue of paragraph (9) is varied or withdrawn by the Department on appeal; and
 - (b) that person has complied with the notice.
 
-### 21. Offences[^key-7636a1c8e3ebb16b7298bec64b6c5638]
+### 21. Offences[^c-7636a1c8e3ebb16b7298bec64b6c5638]
 
 It is an offence for a person —
 
@@ -404,7 +404,7 @@ It is an offence for a person —
 - (d) intentionally to obstruct an inspector; or
 - (e) knowingly to give false or misleading information to an inspector.
 
-### 22. Offences by corporate bodies, partnerships and unincorporated associations[^key-2db2726cec45345b2582f20000b6e805]
+### 22. Offences by corporate bodies, partnerships and unincorporated associations[^c-2db2726cec45345b2582f20000b6e805]
 
 (1) In its application to these Regulations, section 20 of the Interpretation Act (Northern Ireland) 1954 (offences by bodies corporate) has effect as if –
 
@@ -417,7 +417,7 @@ It is an offence for a person —
 
 (4) In paragraph (2) “partner” includes a person purporting to act as a partner.
 
-### 23. Penalties[^key-f98dd1c7fe3fcc51c35d12edf69d9317]
+### 23. Penalties[^c-f98dd1c7fe3fcc51c35d12edf69d9317]
 
 A person guilty of an offence under these Regulations is liable—
 
@@ -426,7 +426,7 @@ A person guilty of an offence under these Regulations is liable—
 
 ## PART 4 — MISCELLANEOUS
 
-### 24. Application to the Crown[^key-fad03b16f7f02df10691b71a07e45216]
+### 24. Application to the Crown[^c-fad03b16f7f02df10691b71a07e45216]
 
 (1) Subject to the provisions of this regulation, these Regulations bind the Crown to the full extent authorised or permitted by the constitutional laws of Northern Ireland.
 
@@ -436,11 +436,11 @@ A person guilty of an offence under these Regulations is liable—
 
 (4) In this regulation any reference to the Crown includes a reference to the Crown in right of Her Majesty’s Government in Northern Ireland.
 
-### 25. Disclosure of information[^key-7889e24fa61e358509514aef80412187]
+### 25. Disclosure of information[^c-7889e24fa61e358509514aef80412187]
 
 (1) For the purposes of Council Regulation 708/2007, these Regulations or the equivalent regulations in England, Scotland or Wales, the Department may disclose information received by it in the administration or enforcement of Council Regulation 708/2007 or these Regulations to –
 
-- (a) the equivalent competent authority in England, Scotland, Wales or a[^key-7f4ca380ff58a383f68fb60bb279b6ca] member State;
+- (a) the equivalent competent authority in England, Scotland, Wales or a[^c-7f4ca380ff58a383f68fb60bb279b6ca] member State;
 - (b) the Department of the Environment;
 - (c) the Department of Culture, Arts and Leisure;
 - (d) the Loughs Agency;
@@ -448,7 +448,7 @@ A person guilty of an offence under these Regulations is liable—
 
 (2) In paragraph (1)(d) the “Loughs Agency” means the executive agency through which the Foyle, Carlingford and Irish Lights Commission exercises its functions under the Foyle Fisheries Act (Northern Ireland) 1952 [^f00008].
 
-### 26. Service of notices[^key-a8e185ef242dca73eb790359ca5d804c]
+### 26. Service of notices[^c-a8e185ef242dca73eb790359ca5d804c]
 
 (1) In its application to these Regulations, section 24(1) of the Interpretation Act (Northern Ireland) 1954 (service of documents by post) has effect as if the word “registering” were omitted.
 
@@ -462,7 +462,7 @@ A person guilty of an offence under these Regulations is liable—
 
 (4) In this regulation “electronic communication” has the meaning given in section 4(1) of the Electronic Communications Act (Northern Ireland) 2001 [^f00009].
 
-### 27. Amendment of the Molluscan Shellfish (Control of Deposit) Order (Northern Ireland) 1972[^key-8cd76686cd07ac0be1982ff1324e516a]
+### 27. Amendment of the Molluscan Shellfish (Control of Deposit) Order (Northern Ireland) 1972[^c-8cd76686cd07ac0be1982ff1324e516a]
 
 (1) The Molluscan Shellfish (Control of Deposit) Order (Northern Ireland) 1972 [^f00010] is amended in accordance with paragraph (2).
 
@@ -477,7 +477,7 @@ A person guilty of an offence under these Regulations is liable—
 
 .
 
-### 28. Amendment of the Prohibition of Introduction of Fish Order (Northern Ireland) 1979[^key-7b502f62fa09a3970be20ab487deb6e2]
+### 28. Amendment of the Prohibition of Introduction of Fish Order (Northern Ireland) 1979[^c-7b502f62fa09a3970be20ab487deb6e2]
 
 (1) The Prohibition of Introduction of Fish Order (Northern Ireland) 1979 [^f00011] is amended in accordance with paragraphs (2) and (3) ;
 
@@ -528,80 +528,80 @@ A Regulatory Impact Assessment in relation to the Regulations has been placed in
 
 [^f00004]: Footnote: Paragraph 1(A) of Schedule 2 was inserted by section 28 of the Legislative and Regulatory Act [2006(c.51)](https://www.legislation.gov.uk/ukpga/2006/51)
 
-[^key-28eab21a5db17a8b16dfbba98278a50d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2012/335/regulation/1) in operation at 15.10.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/335/regulation/1)
+[^c-28eab21a5db17a8b16dfbba98278a50d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2012/335/regulation/1) in operation at 15.10.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/335/regulation/1)
 
-[^key-a36d013207150127faa94d27a2e9177f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2012/335/regulation/2) in operation at 15.10.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/335/regulation/1)
+[^c-a36d013207150127faa94d27a2e9177f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2012/335/regulation/2) in operation at 15.10.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/335/regulation/1)
 
 [^f00005]: Footnote: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
 [^f00006]: Footnote: [1998 c.47 (N.I.)](https://www.legislation.gov.uk/ukpga/1998/47)
 
-[^key-c2889fef0d184474bedfcfccd72c4acd]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2012/335/regulation/3) in operation at 15.10.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/335/regulation/1)
+[^c-c2889fef0d184474bedfcfccd72c4acd]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2012/335/regulation/3) in operation at 15.10.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/335/regulation/1)
 
-[^key-91a3755d3607867004a72d76437d68c1]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2012/335/regulation/4) in operation at 15.10.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/335/regulation/1)
+[^c-91a3755d3607867004a72d76437d68c1]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2012/335/regulation/4) in operation at 15.10.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/335/regulation/1)
 
-[^key-1e454e17924c466e9f1d95ec0683d19e]: Textual amendment: Words in [reg. 4(2)(b)](https://www.legislation.gov.uk/nisr/2012/335/regulation/4/2/b) omitted (31.12.2020) by virtue of [The Alien and Locally Absent Species (Aquaculture) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/333)](https://www.legislation.gov.uk/nisr/2020/333), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/333/regulation/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2020/333/regulation/2/2)
+[^c-1e454e17924c466e9f1d95ec0683d19e]: Textual amendment: Words in [reg. 4(2)(b)](https://www.legislation.gov.uk/nisr/2012/335/regulation/4/2/b) omitted (31.12.2020) by virtue of [The Alien and Locally Absent Species (Aquaculture) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/333)](https://www.legislation.gov.uk/nisr/2020/333), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/333/regulation/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2020/333/regulation/2/2)
 
-[^key-5d41e6f442d0f90cf051b08c6dbf89cf]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2012/335/regulation/5) in operation at 15.10.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/335/regulation/1)
+[^c-5d41e6f442d0f90cf051b08c6dbf89cf]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2012/335/regulation/5) in operation at 15.10.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/335/regulation/1)
 
-[^key-95be9b886042da3a7b9eae6878a13bd6]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2012/335/regulation/6) in operation at 15.10.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/335/regulation/1)
+[^c-95be9b886042da3a7b9eae6878a13bd6]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2012/335/regulation/6) in operation at 15.10.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/335/regulation/1)
 
-[^key-1ceec52d85aca6adc873d19eff0790f1]: Textual amendment: Words in [reg. 6(1)(b)](https://www.legislation.gov.uk/nisr/2012/335/regulation/6/1/b) omitted (31.12.2020) by virtue of [The Alien and Locally Absent Species (Aquaculture) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/333)](https://www.legislation.gov.uk/nisr/2020/333), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/333/regulation/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2020/333/regulation/2/2)
+[^c-1ceec52d85aca6adc873d19eff0790f1]: Textual amendment: Words in [reg. 6(1)(b)](https://www.legislation.gov.uk/nisr/2012/335/regulation/6/1/b) omitted (31.12.2020) by virtue of [The Alien and Locally Absent Species (Aquaculture) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/333)](https://www.legislation.gov.uk/nisr/2020/333), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/333/regulation/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2020/333/regulation/2/2)
 
 [^f00007]: Footnote: [S.R. 2009 No. 129](https://www.legislation.gov.uk/nisr/2009/129), as amended by [S.R. 2011 No. 118](https://www.legislation.gov.uk/nisr/2011/118)
 
-[^key-feac7206c00ea3e54642780d51e5ab2d]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2012/335/regulation/7) in operation at 15.10.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/335/regulation/1)
+[^c-feac7206c00ea3e54642780d51e5ab2d]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2012/335/regulation/7) in operation at 15.10.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/335/regulation/1)
 
-[^key-395125e864d9c40ce5d6eabb98f5e873]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2012/335/regulation/8) in operation at 15.10.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/335/regulation/1)
+[^c-395125e864d9c40ce5d6eabb98f5e873]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2012/335/regulation/8) in operation at 15.10.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/335/regulation/1)
 
-[^key-d1a1ca5bd086cfdce7dbba0f3b5237cf]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2012/335/regulation/9) in operation at 15.10.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/335/regulation/1)
+[^c-d1a1ca5bd086cfdce7dbba0f3b5237cf]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2012/335/regulation/9) in operation at 15.10.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/335/regulation/1)
 
-[^key-3b973ead198c8aa76d4fefb88c240659]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2012/335/regulation/10) in operation at 15.10.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/335/regulation/1)
+[^c-3b973ead198c8aa76d4fefb88c240659]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2012/335/regulation/10) in operation at 15.10.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/335/regulation/1)
 
-[^key-450974bc7ab1615423f57ae78263adad]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2012/335/regulation/11) in operation at 15.10.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/335/regulation/1)
+[^c-450974bc7ab1615423f57ae78263adad]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2012/335/regulation/11) in operation at 15.10.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/335/regulation/1)
 
-[^key-829413072fc0bfc461ea05c0b8a4d5a0]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2012/335/regulation/12) in operation at 15.10.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/335/regulation/1)
+[^c-829413072fc0bfc461ea05c0b8a4d5a0]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2012/335/regulation/12) in operation at 15.10.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/335/regulation/1)
 
-[^key-3d0591e5ff45ea74b3edccb80090e295]: Textual amendment: [Reg. 12(6)](https://www.legislation.gov.uk/nisr/2012/335/regulation/12/6) substituted (31.12.2020) by [The Aquatic Animal Health and Alien Species in Aquaculture (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/581)](https://www.legislation.gov.uk/uksi/2019/581), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/581/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2019/581/regulation/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3d0591e5ff45ea74b3edccb80090e295]: Textual amendment: [Reg. 12(6)](https://www.legislation.gov.uk/nisr/2012/335/regulation/12/6) substituted (31.12.2020) by [The Aquatic Animal Health and Alien Species in Aquaculture (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/581)](https://www.legislation.gov.uk/uksi/2019/581), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/581/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2019/581/regulation/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e0623b1981c6760273572471d50e1eba]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2012/335/regulation/13) in operation at 15.10.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/335/regulation/1)
+[^c-e0623b1981c6760273572471d50e1eba]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2012/335/regulation/13) in operation at 15.10.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/335/regulation/1)
 
-[^key-bb11976d86e5f692e9b943803e980526]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2012/335/regulation/14) in operation at 15.10.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/335/regulation/1)
+[^c-bb11976d86e5f692e9b943803e980526]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2012/335/regulation/14) in operation at 15.10.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/335/regulation/1)
 
-[^key-1dfe481f34784b5793efdebe4c135367]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2012/335/regulation/15) in operation at 15.10.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/335/regulation/1)
+[^c-1dfe481f34784b5793efdebe4c135367]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2012/335/regulation/15) in operation at 15.10.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/335/regulation/1)
 
-[^key-b87aa13ab746537da1b3a79969ed338f]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2012/335/regulation/16) in operation at 15.10.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/335/regulation/1)
+[^c-b87aa13ab746537da1b3a79969ed338f]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2012/335/regulation/16) in operation at 15.10.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/335/regulation/1)
 
-[^key-3087751e97bbf6e60586f4b2beaea6fe]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2012/335/regulation/17) in operation at 15.10.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/335/regulation/1)
+[^c-3087751e97bbf6e60586f4b2beaea6fe]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2012/335/regulation/17) in operation at 15.10.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/335/regulation/1)
 
-[^key-b24838c78c038ac44033c89ed719de6f]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2012/335/regulation/18) in operation at 15.10.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/335/regulation/1)
+[^c-b24838c78c038ac44033c89ed719de6f]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2012/335/regulation/18) in operation at 15.10.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/335/regulation/1)
 
-[^key-2ab1ade5aa74adb13d662466e31d74ac]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2012/335/regulation/19) in operation at 15.10.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/335/regulation/1)
+[^c-2ab1ade5aa74adb13d662466e31d74ac]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2012/335/regulation/19) in operation at 15.10.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/335/regulation/1)
 
-[^key-a7e142301e3ed5416c33f23a6b8f2769]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2012/335/regulation/20) in operation at 15.10.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/335/regulation/1)
+[^c-a7e142301e3ed5416c33f23a6b8f2769]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2012/335/regulation/20) in operation at 15.10.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/335/regulation/1)
 
-[^key-7636a1c8e3ebb16b7298bec64b6c5638]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2012/335/regulation/21) in operation at 15.10.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/335/regulation/1)
+[^c-7636a1c8e3ebb16b7298bec64b6c5638]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2012/335/regulation/21) in operation at 15.10.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/335/regulation/1)
 
-[^key-2db2726cec45345b2582f20000b6e805]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2012/335/regulation/22) in operation at 15.10.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/335/regulation/1)
+[^c-2db2726cec45345b2582f20000b6e805]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2012/335/regulation/22) in operation at 15.10.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/335/regulation/1)
 
-[^key-f98dd1c7fe3fcc51c35d12edf69d9317]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2012/335/regulation/23) in operation at 15.10.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/335/regulation/1)
+[^c-f98dd1c7fe3fcc51c35d12edf69d9317]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2012/335/regulation/23) in operation at 15.10.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/335/regulation/1)
 
-[^key-fad03b16f7f02df10691b71a07e45216]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2012/335/regulation/24) in operation at 15.10.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/335/regulation/1)
+[^c-fad03b16f7f02df10691b71a07e45216]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2012/335/regulation/24) in operation at 15.10.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/335/regulation/1)
 
-[^key-7889e24fa61e358509514aef80412187]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2012/335/regulation/25) in operation at 15.10.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/335/regulation/1)
+[^c-7889e24fa61e358509514aef80412187]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2012/335/regulation/25) in operation at 15.10.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/335/regulation/1)
 
-[^key-7f4ca380ff58a383f68fb60bb279b6ca]: Textual amendment: Word in [reg. 25(1)(a)](https://www.legislation.gov.uk/nisr/2012/335/regulation/25/1/a) substituted (31.12.2020) by [The Agriculture, Animals and Aquaculture (Health, Identification, Welfare, Trade etc.) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/324)](https://www.legislation.gov.uk/nisr/2020/324), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/324/regulation/1/3), [23](https://www.legislation.gov.uk/nisr/2020/324/regulation/23)
+[^c-7f4ca380ff58a383f68fb60bb279b6ca]: Textual amendment: Word in [reg. 25(1)(a)](https://www.legislation.gov.uk/nisr/2012/335/regulation/25/1/a) substituted (31.12.2020) by [The Agriculture, Animals and Aquaculture (Health, Identification, Welfare, Trade etc.) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/324)](https://www.legislation.gov.uk/nisr/2020/324), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/324/regulation/1/3), [23](https://www.legislation.gov.uk/nisr/2020/324/regulation/23)
 
 [^f00008]: Footnote: [c.5 (N.I.)](https://www.legislation.gov.uk/apni/1954/5)
 
-[^key-a8e185ef242dca73eb790359ca5d804c]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2012/335/regulation/26) in operation at 15.10.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/335/regulation/1)
+[^c-a8e185ef242dca73eb790359ca5d804c]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2012/335/regulation/26) in operation at 15.10.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/335/regulation/1)
 
 [^f00009]: Footnote: [2001 c.9 (N.I.)](https://www.legislation.gov.uk/nia/2001/9). Section 4(1) was amended by paragraph 170 of Schedule 17 to the Communications Act [2003 c.21](https://www.legislation.gov.uk/ukpga/2003/21)
 
-[^key-8cd76686cd07ac0be1982ff1324e516a]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2012/335/regulation/27) in operation at 15.10.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/335/regulation/1)
+[^c-8cd76686cd07ac0be1982ff1324e516a]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2012/335/regulation/27) in operation at 15.10.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/335/regulation/1)
 
 [^f00010]: Footnote: S.R. & O. [(N.I.) 1972 No.9](https://www.legislation.gov.uk/nisro/1972/9)
 
-[^key-7b502f62fa09a3970be20ab487deb6e2]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2012/335/regulation/28) in operation at 15.10.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/335/regulation/1)
+[^c-7b502f62fa09a3970be20ab487deb6e2]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2012/335/regulation/28) in operation at 15.10.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/335/regulation/1)
 
 [^f00011]: Footnote: [S.R. 1979 No. 178](https://www.legislation.gov.uk/nisr/1979/178)

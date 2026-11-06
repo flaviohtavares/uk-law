@@ -37,7 +37,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 ## Contents
 
-### Part I — Detention, Transfer and Release of Offenders[^c12921961][^c12921941][^c20986231][^c22564461][^key-0a721d6cb4d7d6c54ab8359f39589376][^key-d996ca9514a31f11f15a5135cbf4bee4][^key-163ecdfd229455acea218e46f7138e09][^M_C_13882e05-f753-4c3e-cddd-07cb9d46875c]
+### Part I — Detention, Transfer and Release of Offenders[^c12921961][^c12921941][^c20986231][^c22564461][^c-0a721d6cb4d7d6c54ab8359f39589376][^c-d996ca9514a31f11f15a5135cbf4bee4][^c-163ecdfd229455acea218e46f7138e09][^M_C_13882e05-f753-4c3e-cddd-07cb9d46875c]
 
 *Extent: E+W+S*
 
@@ -96,7 +96,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 25 — Provision in prison rules for directions.](part-i/section-25.md)
 - [Section 26 — Further amendment of Mental Health (Scotland) Act 1984.](part-i/section-26.md)
 
-#### Terrorism and national security-related sentences[^key-683d40c3ca43238b8a95eeff2b148ba1][^key-26c351543c968ded3a335791aab6290e]
+#### Terrorism and national security-related sentences[^c-683d40c3ca43238b8a95eeff2b148ba1][^c-26c351543c968ded3a335791aab6290e]
 
 - [Section 26ZA — Terrorism and national security-related sentences](part-i/section-26za.md)
 
@@ -107,11 +107,11 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 26A — Extended sentences.](part-i/section-26a.md)
 - [Section 26B — Parole Board to have regard to risk management plans](part-i/section-26b.md)
 
-#### Timing of release[^key-31502fd29fc683f0869e882da2b9de98]
+#### Timing of release[^c-31502fd29fc683f0869e882da2b9de98]
 
 - [Section 26C — Release timed to benefit re-integration](part-i/section-26c.md)
 
-#### Interpretation and powers to amend[^key-b62df06de0ee5dfb16d0065a53b4608f]
+#### Interpretation and powers to amend[^c-b62df06de0ee5dfb16d0065a53b4608f]
 
 *Extent: E+W+S*
 
@@ -194,20 +194,20 @@ SCHEDULES
 
 [^c22564461]: Modification: Pt. 1: power to modify conferred (S.) (1.3.2007) by [Police, Public Order and Criminal Justice (Scotland) Act 2006 (asp 10)](https://www.legislation.gov.uk/asp/2006/10), [ss. 94(3)(4)](https://www.legislation.gov.uk/asp/2006/10/section/94/3/4), [104(1)](https://www.legislation.gov.uk/asp/2006/10/section/104/1); [S.S.I. 2007/84](https://www.legislation.gov.uk/ssi/2007/84), [art. 3(2)](https://www.legislation.gov.uk/ssi/2007/84/article/3/2)
 
-[^key-0a721d6cb4d7d6c54ab8359f39589376]: Modification: Pt. I: power to modify conferred (S.) (24.9.2012) by [Criminal Cases (Punishment and Review) (Scotland) Act 2012 (asp 7)](https://www.legislation.gov.uk/asp/2012/7), [ss. 2(2)](https://www.legislation.gov.uk/asp/2012/7/section/2/2), [5(2)](https://www.legislation.gov.uk/asp/2012/7/section/5/2); [S.S.I. 2012/249](https://www.legislation.gov.uk/ssi/2012/249), [art. 3](https://www.legislation.gov.uk/ssi/2012/249/article/3)
+[^c-0a721d6cb4d7d6c54ab8359f39589376]: Modification: Pt. I: power to modify conferred (S.) (24.9.2012) by [Criminal Cases (Punishment and Review) (Scotland) Act 2012 (asp 7)](https://www.legislation.gov.uk/asp/2012/7), [ss. 2(2)](https://www.legislation.gov.uk/asp/2012/7/section/2/2), [5(2)](https://www.legislation.gov.uk/asp/2012/7/section/5/2); [S.S.I. 2012/249](https://www.legislation.gov.uk/ssi/2012/249), [art. 3](https://www.legislation.gov.uk/ssi/2012/249/article/3)
 
-[^key-d996ca9514a31f11f15a5135cbf4bee4]: Modification: Pt. 1 applied by 1984 c. 47, Sch. para. 2(3A) (as inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(2)(r)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/r), [Sch. 11 para. 3(1)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/11/paragraph/3/1)[(4)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/11/paragraph/3/4))
+[^c-d996ca9514a31f11f15a5135cbf4bee4]: Modification: Pt. 1 applied by 1984 c. 47, Sch. para. 2(3A) (as inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(2)(r)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/r), [Sch. 11 para. 3(1)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/11/paragraph/3/1)[(4)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/11/paragraph/3/4))
 
-[^key-163ecdfd229455acea218e46f7138e09]: Modification: Pt. 1 applied by 1984 c. 47, Sch. para. 2 (as modified (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(2)(r)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/r), [Sch. 11 para. 4](https://www.legislation.gov.uk/ukpga/2021/11/schedule/11/paragraph/4))
+[^c-163ecdfd229455acea218e46f7138e09]: Modification: Pt. 1 applied by 1984 c. 47, Sch. para. 2 (as modified (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(2)(r)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/r), [Sch. 11 para. 4](https://www.legislation.gov.uk/ukpga/2021/11/schedule/11/paragraph/4))
 
 [^M_C_13882e05-f753-4c3e-cddd-07cb9d46875c]: Modification: [Pt. 1](https://www.legislation.gov.uk/ukpga/1993/9/part/1) modified by [2007 asp 17](https://www.legislation.gov.uk/asp/2007/17), [Sch. 6](https://www.legislation.gov.uk/asp/2007/17/schedule/6) (as substituted (S.) (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 19](https://www.legislation.gov.uk/asp/2010/13/section/19), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)); (as amended (11.10.2019) by [Management of Offenders (Scotland) Act 2019 (asp 14)](https://www.legislation.gov.uk/asp/2019/14), [ss. 60(5)](https://www.legislation.gov.uk/asp/2019/14/section/60/5), [63(2)](https://www.legislation.gov.uk/asp/2019/14/section/63/2); [S.S.I. 2019/309](https://www.legislation.gov.uk/ssi/2019/309), [reg. 2](https://www.legislation.gov.uk/ssi/2019/309/regulation/2); (30.4.2021) by [Counter Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(1)(i)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/i), [Sch. 13 para. 58](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/58)); (16.1.2026) by [S.S.I. 2026/4](https://www.legislation.gov.uk/ssi/2026/4), [regs. 1](https://www.legislation.gov.uk/ssi/2026/4/regulation/1), [2(2)(3)](https://www.legislation.gov.uk/ssi/2026/4/regulation/2/2/3); and (24.3.2026) by [S.S.I. 2026/137](https://www.legislation.gov.uk/ssi/2026/137), [arts. 1](https://www.legislation.gov.uk/ssi/2026/137/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2026/137/article/2/2))
 
-[^key-683d40c3ca43238b8a95eeff2b148ba1]: Textual amendment: S. 26ZA and cross-heading inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 29](https://www.legislation.gov.uk/ukpga/2021/11/section/29), [50(2)(p)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/p)
+[^c-683d40c3ca43238b8a95eeff2b148ba1]: Textual amendment: S. 26ZA and cross-heading inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 29](https://www.legislation.gov.uk/ukpga/2021/11/section/29), [50(2)(p)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/p)
 
-[^key-26c351543c968ded3a335791aab6290e]: Textual amendment: Words in [s. 26ZA cross-heading](https://www.legislation.gov.uk/ukpga/1993/9/part/I/crossheading/terrorism-sentences) inserted (22.3.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [s. 49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4), [Sch. 2 para. 3(8)](https://www.legislation.gov.uk/ukpga/2026/2/schedule/2/paragraph/3/8)
+[^c-26c351543c968ded3a335791aab6290e]: Textual amendment: Words in [s. 26ZA cross-heading](https://www.legislation.gov.uk/ukpga/1993/9/part/I/crossheading/terrorism-sentences) inserted (22.3.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [s. 49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4), [Sch. 2 para. 3(8)](https://www.legislation.gov.uk/ukpga/2026/2/schedule/2/paragraph/3/8)
 
 [^c12927271]: Textual amendment: S. 26A and preceding cross-heading inserted (30.9.1998) by [1998 c. 37](https://www.legislation.gov.uk/ukpga/1998/37), [s. 87](https://www.legislation.gov.uk/ukpga/1998/37/section/87); [S.I. 1998/2327](https://www.legislation.gov.uk/uksi/1998/2327), [art. 2(1)(s)](https://www.legislation.gov.uk/uksi/1998/2327/article/2/1/s) (subject to [arts. 5-8](https://www.legislation.gov.uk/uksi/1998/2327/article/5))
 
-[^key-31502fd29fc683f0869e882da2b9de98]: Textual amendment: S. 26C and cross-heading inserted (1.2.2016) by [Prisoners (Control of Release) (Scotland) Act 2015 (asp 8)](https://www.legislation.gov.uk/asp/2015/8), [ss. 2(2)](https://www.legislation.gov.uk/asp/2015/8/section/2/2), [3(2)](https://www.legislation.gov.uk/asp/2015/8/section/3/2); [S.S.I. 2015/409](https://www.legislation.gov.uk/ssi/2015/409), [art. 2](https://www.legislation.gov.uk/ssi/2015/409/article/2)
+[^c-31502fd29fc683f0869e882da2b9de98]: Textual amendment: S. 26C and cross-heading inserted (1.2.2016) by [Prisoners (Control of Release) (Scotland) Act 2015 (asp 8)](https://www.legislation.gov.uk/asp/2015/8), [ss. 2(2)](https://www.legislation.gov.uk/asp/2015/8/section/2/2), [3(2)](https://www.legislation.gov.uk/asp/2015/8/section/3/2); [S.S.I. 2015/409](https://www.legislation.gov.uk/ssi/2015/409), [art. 2](https://www.legislation.gov.uk/ssi/2015/409/article/2)
 
-[^key-b62df06de0ee5dfb16d0065a53b4608f]: Textual amendment: S. 27 cross-heading substituted (11.2.2025) by [Prisoners (Early Release) (Scotland) Act 2025 (asp 1)](https://www.legislation.gov.uk/asp/2025/1), [ss. 3(4)](https://www.legislation.gov.uk/asp/2025/1/section/3/4), [8(2)](https://www.legislation.gov.uk/asp/2025/1/section/8/2) (with [sch. paras. 3](https://www.legislation.gov.uk/asp/2025/1/schedule/paragraph/3), [4](https://www.legislation.gov.uk/asp/2025/1/schedule/paragraph/4)); [S.S.I. 2025/17](https://www.legislation.gov.uk/ssi/2025/17), [reg. 2](https://www.legislation.gov.uk/ssi/2025/17/regulation/2)
+[^c-b62df06de0ee5dfb16d0065a53b4608f]: Textual amendment: S. 27 cross-heading substituted (11.2.2025) by [Prisoners (Early Release) (Scotland) Act 2025 (asp 1)](https://www.legislation.gov.uk/asp/2025/1), [ss. 3(4)](https://www.legislation.gov.uk/asp/2025/1/section/3/4), [8(2)](https://www.legislation.gov.uk/asp/2025/1/section/8/2) (with [sch. paras. 3](https://www.legislation.gov.uk/asp/2025/1/schedule/paragraph/3), [4](https://www.legislation.gov.uk/asp/2025/1/schedule/paragraph/4)); [S.S.I. 2025/17](https://www.legislation.gov.uk/ssi/2025/17), [reg. 2](https://www.legislation.gov.uk/ssi/2025/17/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 11 — Drugs and other Substances to be Prescribed for supply under Pharmaceutical Services only in certain circumstances[^key-7d567d1d76aace5c8f898a7377156e25]
+## SCHEDULE 11 — Drugs and other Substances to be Prescribed for supply under Pharmaceutical Services only in certain circumstances[^c-7d567d1d76aace5c8f898a7377156e25]
 
 *Extent: N.I.*
 
@@ -43,4 +43,4 @@ Regulation 3(2),Schedule 2 paragraphs 1 and 49(2)
 
 ## Annotations
 
-[^key-7d567d1d76aace5c8f898a7377156e25]: Commencement: Sch. 11 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-7d567d1d76aace5c8f898a7377156e25]: Commencement: Sch. 11 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)

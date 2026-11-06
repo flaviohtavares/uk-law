@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**19.**[^key-f65ddcfcc929843d3b934bd0e7495cb5] (1) Schedule 6 to the Welfare Reform Act 2009[^f00040] (which makes amendments in relation to the registration of births that are not yet in force) is amended as follows.
+**19.**[^c-f65ddcfcc929843d3b934bd0e7495cb5] (1) Schedule 6 to the Welfare Reform Act 2009[^f00040] (which makes amendments in relation to the registration of births that are not yet in force) is amended as follows.
 
 (2) In paragraph 2[^f00041]—
 
@@ -62,7 +62,7 @@ summary: ''
 
 ## Annotations
 
-[^key-f65ddcfcc929843d3b934bd0e7495cb5]: Commencement: Reg. 19 in force at 2.12.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2)
+[^c-f65ddcfcc929843d3b934bd0e7495cb5]: Commencement: Reg. 19 in force at 2.12.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2)
 
 [^f00040]: Footnote: [2009 c. 24](https://www.legislation.gov.uk/ukpga/2009/24).
 

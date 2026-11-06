@@ -44,7 +44,7 @@ The Secretary of State, in exercise of the powers conferred by sections 8(1) and
 
 In accordance with paragraphs 1(1) and 8F(1) of Schedule 7 to the European Union (Withdrawal) Act 2018, a draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament.
 
-## 1. Citation and commencement[^key-6971e7551948756e8cb88f84526e50ae]
+## 1. Citation and commencement[^c-6971e7551948756e8cb88f84526e50ae]
 
 (1) These Regulations may be cited as the Common Fisheries Policy (Amendment etc.) (EU Exit) (No. 2) Regulations 2020.
 
@@ -52,7 +52,7 @@ In accordance with paragraphs 1(1) and 8F(1) of Schedule 7 to the European Union
 
 (3) Regulations 4 to 7 come into force on IP completion day.
 
-## 2. Amendment of the Fisheries (Amendment) (EU Exit) Regulations 2019 in consequence of the European Union (Withdrawal Agreement) Act 2020[^key-5df5284ecbb01537431f5c47e097f01a]
+## 2. Amendment of the Fisheries (Amendment) (EU Exit) Regulations 2019 in consequence of the European Union (Withdrawal Agreement) Act 2020[^c-5df5284ecbb01537431f5c47e097f01a]
 
 (1) Regulation 3 of the Fisheries (Amendment) (EU Exit) Regulations 2019[^f00002] is amended as follows.
 
@@ -112,7 +112,7 @@ In accordance with paragraphs 1(1) and 8F(1) of Schedule 7 to the European Union
 
 .
 
-## 3. Amendment of the Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 in consequence of the European Union (Withdrawal Agreement) Act 2020[^key-2a63e8a3419d8a224cb3e7760d5a2981]
+## 3. Amendment of the Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 in consequence of the European Union (Withdrawal Agreement) Act 2020[^c-2a63e8a3419d8a224cb3e7760d5a2981]
 
 (1) The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019[^f00003] are amended as follows.
 
@@ -157,7 +157,7 @@ In accordance with paragraphs 1(1) and 8F(1) of Schedule 7 to the European Union
 - (e) in paragraph (8), in the new paragraph 1 to be substituted by that paragraph, for “Where the United Kingdom is the re-exporting country” substitute “Where a re-export from Great Britain takes place”; and
 - (f) in paragraph (10)(a)(iii), for “the United Kingdom” substitute “Great Britain”.
 
-## 4. Amendment of Council Regulation [(EC) No 1035/2001](https://www.legislation.gov.uk/european/regulation/2001/1035)[^key-0a55f5f9f53d13eefe753ae1b97e94e7]
+## 4. Amendment of Council Regulation [(EC) No 1035/2001](https://www.legislation.gov.uk/european/regulation/2001/1035)[^c-0a55f5f9f53d13eefe753ae1b97e94e7]
 
 (1) Council Regulation [(EC) No 1035/2001](https://www.legislation.gov.uk/european/regulation/2001/1035) establishing a catch documentation scheme for Dissostichus spp. is amended as follows.
 
@@ -360,7 +360,7 @@ In accordance with paragraphs 1(1) and 8F(1) of Schedule 7 to the European Union
 
 (27) In Annex 1, in point 2(vi), omit the words from “(for Community vessels” to the end.
 
-## 5. Application of Regulation [(EC) No 1005/2008](https://www.legislation.gov.uk/european/regulation/2008/1005) to Northern Ireland[^key-0e2126d09775d782aff7e1620b5a4187]
+## 5. Application of Regulation [(EC) No 1005/2008](https://www.legislation.gov.uk/european/regulation/2008/1005) to Northern Ireland[^c-0e2126d09775d782aff7e1620b5a4187]
 
 (1) Subject to the modifications in paragraph (3), the provisions of Council Regulation [(EC) No 1005/2008](https://www.legislation.gov.uk/european/regulation/2008/1005) establishing a Community system to prevent, deter and eliminate illegal, unreported and unregulated fishing[^f00004] listed in paragraph (2) have effect in Northern Ireland.
 
@@ -434,7 +434,7 @@ In accordance with paragraphs 1(1) and 8F(1) of Schedule 7 to the European Union
   - (i) in paragraph 1, “or the Welsh Ministers” were omitted, and
   - (ii) paragraph 2 were omitted.
 
-## 6. Application of [Commission Regulation (EC) No 1010/2009](https://www.legislation.gov.uk/european/regulation/2009/1010) to Northern Ireland[^key-7fd85c643a4523dfaa404920fb65c718]
+## 6. Application of [Commission Regulation (EC) No 1010/2009](https://www.legislation.gov.uk/european/regulation/2009/1010) to Northern Ireland[^c-7fd85c643a4523dfaa404920fb65c718]
 
 (1) Subject to the modifications in paragraph (3), the provisions of [Commission Regulation (EC) No 1010/2009](https://www.legislation.gov.uk/european/regulation/2009/1010) laying down detailed rules for the implementation of Council Regulation [(EC) No 1005/2008](https://www.legislation.gov.uk/european/regulation/2008/1005) establishing a Community system to prevent, deter and eliminate illegal, unreported and unregulated fishing[^f00005] listed in paragraph (2) have effect in Northern Ireland.
 
@@ -455,9 +455,9 @@ In accordance with paragraphs 1(1) and 8F(1) of Schedule 7 to the European Union
   - (ii) points (e), (m) and (r) were omitted;
 - (e) Annex 2A is to be read as if, for “third country” where it appears in the heading, there were substituted “EU”.
 
-## 7. Application of [Commission Regulation (EU) No 468/2010](https://www.legislation.gov.uk/european/regulation/2010/0468) to Northern Ireland[^key-9f2765f1e026a870d86551e1acbaa778]
+## 7. Application of [Commission Regulation (EU) No 468/2010](https://www.legislation.gov.uk/european/regulation/2010/0468) to Northern Ireland[^c-9f2765f1e026a870d86551e1acbaa778]
 
-[Commission Regulation (EU) No 468/2010](https://www.legislation.gov.uk/european/regulation/2010/0468) establishing the EU list of vessels engaged in illegal, unreported and unregulated fishing[^f00006] has effect in Northern Ireland for the purposes of the provisions of assimilated direct[^key-71421e15a08ce67dc3ada16c1012f842] legislation given effect in and modified by regulations 5 and 6.
+[Commission Regulation (EU) No 468/2010](https://www.legislation.gov.uk/european/regulation/2010/0468) establishing the EU list of vessels engaged in illegal, unreported and unregulated fishing[^f00006] has effect in Northern Ireland for the purposes of the provisions of assimilated direct[^c-71421e15a08ce67dc3ada16c1012f842] legislation given effect in and modified by regulations 5 and 6.
 
 Victoria Prentis
 
@@ -489,28 +489,28 @@ An Explanatory Memorandum is published alongside this instrument on www.legislat
 
 [^f00001]: Footnote: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16); section 8 was amended by section 27 of the European Union (Withdrawal Agreement) Act [2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1) (“the 2020 Act”); section 8C was inserted by section 21 of the 2020 Act; paragraph 8F of Schedule 7 was inserted by paragraph 51 of Schedule 5 to the 2020 Act; paragraph 21 of Schedule 7 was amended by paragraph 53 of Schedule 5 to the 2020 Act.
 
-[^key-6971e7551948756e8cb88f84526e50ae]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2020/1599/regulation/1) in force at 31.12.2020 (immediately before IP completion day), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1599/regulation/1/2)
+[^c-6971e7551948756e8cb88f84526e50ae]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2020/1599/regulation/1) in force at 31.12.2020 (immediately before IP completion day), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1599/regulation/1/2)
 
-[^key-5df5284ecbb01537431f5c47e097f01a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2020/1599/regulation/2) in force at 31.12.2020 (immediately before IP completion day), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1599/regulation/1/2)
+[^c-5df5284ecbb01537431f5c47e097f01a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2020/1599/regulation/2) in force at 31.12.2020 (immediately before IP completion day), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1599/regulation/1/2)
 
 [^f00002]: Footnote: [S.I. 2019/746](https://www.legislation.gov.uk/uksi/2019/746); amended by the Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 ([S.I. 2020/1542](https://www.legislation.gov.uk/uksi/2020/1542)).
 
-[^key-2a63e8a3419d8a224cb3e7760d5a2981]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2020/1599/regulation/3) in force at 31.12.2020 (immediately before IP completion day), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1599/regulation/1/2)
+[^c-2a63e8a3419d8a224cb3e7760d5a2981]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2020/1599/regulation/3) in force at 31.12.2020 (immediately before IP completion day), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1599/regulation/1/2)
 
 [^f00003]: Footnote: [S.I. 2019/753](https://www.legislation.gov.uk/uksi/2019/753); amended by [S.I. 2019/1312](https://www.legislation.gov.uk/uksi/2019/1312) and the Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 ([S.I. 2020/1542](https://www.legislation.gov.uk/uksi/2020/1542)).
 
-[^key-0a55f5f9f53d13eefe753ae1b97e94e7]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2020/1599/regulation/4) in force at 31.12.2020 (on IP completion day), see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1599/regulation/1/3)
+[^c-0a55f5f9f53d13eefe753ae1b97e94e7]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2020/1599/regulation/4) in force at 31.12.2020 (on IP completion day), see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1599/regulation/1/3)
 
-[^key-0e2126d09775d782aff7e1620b5a4187]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2020/1599/regulation/5) in force at 31.12.2020 (on IP completion day), see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1599/regulation/1/3)
+[^c-0e2126d09775d782aff7e1620b5a4187]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2020/1599/regulation/5) in force at 31.12.2020 (on IP completion day), see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1599/regulation/1/3)
 
 [^f00004]: Footnote: EUR 2008/1005, as amended by [S.I. 2019/739](https://www.legislation.gov.uk/uksi/2019/739) and [S.I. 2019/753](https://www.legislation.gov.uk/uksi/2019/753).
 
-[^key-7fd85c643a4523dfaa404920fb65c718]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2020/1599/regulation/6) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1599/regulation/1/3)
+[^c-7fd85c643a4523dfaa404920fb65c718]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2020/1599/regulation/6) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1599/regulation/1/3)
 
 [^f00005]: Footnote: EUR 2009/1010, as amended by [S.I. 2019/739](https://www.legislation.gov.uk/uksi/2019/739).
 
-[^key-9f2765f1e026a870d86551e1acbaa778]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2020/1599/regulation/7) in force at 31.12.2020 (on IP completion day), see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1599/regulation/1/3)
+[^c-9f2765f1e026a870d86551e1acbaa778]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2020/1599/regulation/7) in force at 31.12.2020 (on IP completion day), see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1599/regulation/1/3)
 
 [^f00006]: Footnote: EUR 2010/468, as amended by [S.I. 2019/739](https://www.legislation.gov.uk/uksi/2019/739).
 
-[^key-71421e15a08ce67dc3ada16c1012f842]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/uksi/2020/1599/regulation/7) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 50](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/50)
+[^c-71421e15a08ce67dc3ada16c1012f842]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/uksi/2020/1599/regulation/7) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 50](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/50)

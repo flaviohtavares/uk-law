@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Power of entry for section 18 purposes[^key-f85290dfedf100bcbdf6434384ab10dc][^key-010bc3ac7edff942f63150cb45940455]
+## 19. Power of entry for section 18 purposes[^c-f85290dfedf100bcbdf6434384ab10dc][^c-010bc3ac7edff942f63150cb45940455]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f85290dfedf100bcbdf6434384ab10dc]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2006/45/section/19) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(e)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/e)
+[^c-f85290dfedf100bcbdf6434384ab10dc]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2006/45/section/19) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(e)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/e)
 
-[^key-010bc3ac7edff942f63150cb45940455]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2006/45/section/19) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(g)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/g)
+[^c-010bc3ac7edff942f63150cb45940455]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2006/45/section/19) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(g)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/g)

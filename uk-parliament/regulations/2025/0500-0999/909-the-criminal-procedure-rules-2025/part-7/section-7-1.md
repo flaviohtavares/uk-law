@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.1. When this Part applies[^key-c6a0886a4c2dfcfd569dda1bc152ed5a]
+## 7.1. When this Part applies[^c-c6a0886a4c2dfcfd569dda1bc152ed5a]
 
 *Extent: E+W*
 
@@ -54,7 +54,7 @@ summary: ''
 
 ## Annotations
 
-[^key-c6a0886a4c2dfcfd569dda1bc152ed5a]: Commencement: [Rule 7.1](https://www.legislation.gov.uk/uksi/2025/909/rule/7.1) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-c6a0886a4c2dfcfd569dda1bc152ed5a]: Commencement: [Rule 7.1](https://www.legislation.gov.uk/uksi/2025/909/rule/7.1) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00239]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43); section 1 was amended by section 68 of, and paragraph 6 of Schedule 8 to, the Criminal Justice Act [1991 (c. 53)](https://www.legislation.gov.uk/ukpga/1991/53), sections 43 and 109 of, and Schedule 10 to, the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), section 31 of, and paragraph 12 of Schedule 7 to, the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), section 153 of the Police Reform and Social Responsibility Act [2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), section 50 of, and paragraphs 2 and 3 of Schedule 11 to, the Criminal Justice and Courts Act [2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2) and section 67 of, and paragraph 2 of Schedule 12 to, the Space Industry Act [2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5). It is further amended by paragraphs 7 and 8 of Schedule 36 to the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), with effect from a date to be appointed.
 

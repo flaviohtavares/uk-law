@@ -41,13 +41,13 @@ Coming into force
 
 The National Assembly for Wales makes the following Order in exercise of the powers conferred on the Secretary of State by sections 140(4) and 143(1) and (2) of, and paragraph 3(2) of Schedule 6 to, the Local Government Finance Act 1988[^f00001], which are now vested in it so far as exercisable in Wales[^f00002].
 
-## 1. Citation, commencement and application[^key-bfad8ee8d71a68f828f3ff1df96c937c]
+## 1. Citation, commencement and application[^c-bfad8ee8d71a68f828f3ff1df96c937c]
 
 (1) This Order may be cited as the BG plc (Rateable Value) (Wales) Order 2000 and shall come into force on the 1st April 2000.
 
 (2) This Order applies only to Wales.
 
-## 2. Interpretation[^key-a9e6e8d5812d43e0e76a3758c254aae1]
+## 2. Interpretation[^c-a9e6e8d5812d43e0e76a3758c254aae1]
 
 In this Order–
 
@@ -56,11 +56,11 @@ In this Order–
 - “Welsh gas hereditaments” (“*hereditamentau nwy Cymru*”) means non-domestic hereditaments occupied (or, if unoccupied, owned) by BG plc and required by virtue of regulation 3(1) of, and Part 3 of the Schedule to, the Central Rating List (Wales) Regulations 1999[^f00003] to be shown in a central rating list; and
 - “year” (“*blwyddyn*”) means a chargeable financial year.
 
-## 3. Rateable value[^key-e7a6c5a9c6faa8bc81e56a94669421e1]
+## 3. Rateable value[^c-e7a6c5a9c6faa8bc81e56a94669421e1]
 
-In the case of Welsh gas hereditaments, paragraphs 2 to 2B[^f00004] of Schedule 6 to the Act shall not apply in any year for which the central non-domestic rating list for Wales compiled on 1st April 2000 is in force[^key-e17962317711cc47d885f19702313db0] and in any such year the rateable value of the Welsh gas hereditaments shall be £32,059,000.
+In the case of Welsh gas hereditaments, paragraphs 2 to 2B[^f00004] of Schedule 6 to the Act shall not apply in any year for which the central non-domestic rating list for Wales compiled on 1st April 2000 is in force[^c-e17962317711cc47d885f19702313db0] and in any such year the rateable value of the Welsh gas hereditaments shall be £32,059,000.
 
-## 4. Revocation and savings[^key-32ead99b32e852da6d31b65f60c211be]
+## 4. Revocation and savings[^c-32ead99b32e852da6d31b65f60c211be]
 
 (1) Subject to paragraph (2), the British Gas plc (Rateable Values) Order 1994[^f00005] is hereby revoked with effect from 1st April 2000.
 
@@ -91,19 +91,19 @@ Article 3(1) revokes with effect from 1st April 2000 the British Gas plc (Rateab
 
 [^f00002]: Footnote: See the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)).
 
-[^key-bfad8ee8d71a68f828f3ff1df96c937c]: Commencement: [Art. 1](https://www.legislation.gov.uk/wsi/2000/352/article/1) in force at 1.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/352/article/1/1)
+[^c-bfad8ee8d71a68f828f3ff1df96c937c]: Commencement: [Art. 1](https://www.legislation.gov.uk/wsi/2000/352/article/1) in force at 1.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/352/article/1/1)
 
-[^key-a9e6e8d5812d43e0e76a3758c254aae1]: Commencement: [Art. 2](https://www.legislation.gov.uk/wsi/2000/352/article/2) in force at 1.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/352/article/1/1)
+[^c-a9e6e8d5812d43e0e76a3758c254aae1]: Commencement: [Art. 2](https://www.legislation.gov.uk/wsi/2000/352/article/2) in force at 1.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/352/article/1/1)
 
 [^f00003]: Footnote: [S.I. 1999/ 3453(W.50)](https://www.legislation.gov.uk/wsi/1999/3453)
 
-[^key-e7a6c5a9c6faa8bc81e56a94669421e1]: Commencement: [Art. 3](https://www.legislation.gov.uk/wsi/2000/352/article/3) in force at 1.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/352/article/1/1)
+[^c-e7a6c5a9c6faa8bc81e56a94669421e1]: Commencement: [Art. 3](https://www.legislation.gov.uk/wsi/2000/352/article/3) in force at 1.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/352/article/1/1)
 
 [^f00004]: Footnote: Paragraph 2 is amended by, and paragraphs 2A and 2B are inserted by, paragraph 38(3) to (11) of Schedule 5 to the Local Government and Housing Act 1989.
 
-[^key-e17962317711cc47d885f19702313db0]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/wsi/2000/352/article/3) substituted (1.4.2003) by [The Non-Domestic Rating (Utilities) (Rateable Value) (Amendment) (Wales) Order 2003 (S.I. 2003/944)](https://www.legislation.gov.uk/wsi/2003/944), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2003/944/article/1/1), [3](https://www.legislation.gov.uk/wsi/2003/944/article/3)
+[^c-e17962317711cc47d885f19702313db0]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/wsi/2000/352/article/3) substituted (1.4.2003) by [The Non-Domestic Rating (Utilities) (Rateable Value) (Amendment) (Wales) Order 2003 (S.I. 2003/944)](https://www.legislation.gov.uk/wsi/2003/944), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2003/944/article/1/1), [3](https://www.legislation.gov.uk/wsi/2003/944/article/3)
 
-[^key-32ead99b32e852da6d31b65f60c211be]: Commencement: [Art. 4](https://www.legislation.gov.uk/wsi/2000/352/article/4) in force at 1.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/352/article/1/1)
+[^c-32ead99b32e852da6d31b65f60c211be]: Commencement: [Art. 4](https://www.legislation.gov.uk/wsi/2000/352/article/4) in force at 1.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/352/article/1/1)
 
 [^f00005]: Footnote: S.I. [1994/3283](https://www.legislation.gov.uk/uksi/1994/3283).
 

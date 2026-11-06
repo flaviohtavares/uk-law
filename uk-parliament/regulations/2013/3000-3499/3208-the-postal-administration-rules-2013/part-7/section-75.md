@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 75. Assignment of right to dividend[^key-d3b66499e8eea3cc71699c836186d4eb]
+## 75. Assignment of right to dividend[^c-d3b66499e8eea3cc71699c836186d4eb]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d3b66499e8eea3cc71699c836186d4eb]: Commencement: [Rule 75](https://www.legislation.gov.uk/uksi/2013/3208/rule/75) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-d3b66499e8eea3cc71699c836186d4eb]: Commencement: [Rule 75](https://www.legislation.gov.uk/uksi/2013/3208/rule/75) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

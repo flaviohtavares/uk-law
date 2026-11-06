@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Referral of case to misconduct proceedings[^key-c51e6fcae8e23b7e8d9a506ce38a61ad]
+## 23. Referral of case to misconduct proceedings[^c-c51e6fcae8e23b7e8d9a506ce38a61ad]
 
 *Extent: E+W*
 
@@ -45,7 +45,7 @@ the appropriate authority must, subject to regulation 49(3) and paragraph (10) a
 (5) Where the appropriate authority determines there is no case to answer or that no misconduct proceedings will be brought, it must assess whether—
 
 - (a) the case amounts to practice requiring improvement;
-- (b) the matter should be referred to be dealt with under the Vetting Regulations or[^key-d778539df74d0a76f44f9443037eb505] the Performance Regulations, or
+- (b) the matter should be referred to be dealt with under the Vetting Regulations or[^c-d778539df74d0a76f44f9443037eb505] the Performance Regulations, or
 - (c) it should take no further action.
 
 (6) The appropriate authority must consult the line manager of the officer concerned before making an assessment in terms of paragraph (5)(a) or (b).
@@ -78,7 +78,7 @@ it must, subject to regulation 10(3), refer the case to misconduct proceedings o
 
 ## Annotations
 
-[^key-c51e6fcae8e23b7e8d9a506ce38a61ad]: Commencement: Reg. 23 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-c51e6fcae8e23b7e8d9a506ce38a61ad]: Commencement: Reg. 23 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
 
 [^c23960691]: Marginal citation: [Paragraph 22](https://www.legislation.gov.uk/uksi/2020/4/paragraph/22) was substituted by paragraphs 1, 11 and 21 of Schedule 12 to the Serious Organised Crime and Police Act 2005 and was amended by section 19(1) and (3)(b)(i) of, and paragraph 47(h)(vi) of Schedule 5 and paragraphs 15 and 56 of Schedule 9 to, the Policing and Crime Act 2017; there are other amendments to paragraph 22 but none are relevant.
 
@@ -88,7 +88,7 @@ it must, subject to regulation 10(3), refer the case to misconduct proceedings o
 
 [^c23960721]: Marginal citation: See regulation 2(1) for definition of “misconduct” in these Regulations.
 
-[^key-d778539df74d0a76f44f9443037eb505]: Textual amendment: Words in reg. 23(5)(b) inserted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2025/558/regulation/12) (with [reg. 64](https://www.legislation.gov.uk/uksi/2025/558/regulation/64))
+[^c-d778539df74d0a76f44f9443037eb505]: Textual amendment: Words in reg. 23(5)(b) inserted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2025/558/regulation/12) (with [reg. 64](https://www.legislation.gov.uk/uksi/2025/558/regulation/64))
 
 [^c23960731]: Marginal citation: [Paragraph 23(5A) to (5F)](https://www.legislation.gov.uk/uksi/2020/4/paragraph/23/5A) was inserted by paragraphs 9 and 26(1) and (2) of Schedule 5 to the Policing and Crime Act 2017.
 

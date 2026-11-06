@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 133. Pre-commencement consultation[^key-91503958741c2c552b79dc0f7f208f99]
+## 133. Pre-commencement consultation[^c-91503958741c2c552b79dc0f7f208f99]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A requirement for consultation imposed by a provision of this Act may be satisfi
 
 ## Annotations
 
-[^key-91503958741c2c552b79dc0f7f208f99]: Commencement: S. 133 in force at 28.4.2026, see [s. 138(1)(c)](https://www.legislation.gov.uk/asc/2026/5/section/138/1/c)
+[^c-91503958741c2c552b79dc0f7f208f99]: Commencement: S. 133 in force at 28.4.2026, see [s. 138(1)(c)](https://www.legislation.gov.uk/asc/2026/5/section/138/1/c)

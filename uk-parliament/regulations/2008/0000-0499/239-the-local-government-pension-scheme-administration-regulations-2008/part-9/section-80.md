@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 80. Contracting-out requirements affecting transfers out[^key-1f77f4f6987bb699c7beaaa1f52bf476]
+## 80. Contracting-out requirements affecting transfers out[^c-1f77f4f6987bb699c7beaaa1f52bf476]
 
 *Extent: E+W+S*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1f77f4f6987bb699c7beaaa1f52bf476]: Commencement: Reg. 80 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-1f77f4f6987bb699c7beaaa1f52bf476]: Commencement: Reg. 80 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
 
 [^f00052]: Footnote: [S.I.1996/1172](https://www.legislation.gov.uk/uksi/1996/1172). The definition of “section 9(2B) rights” was substituted by [S.I.1997/786](https://www.legislation.gov.uk/uksi/1997/786) and amended by [S.I.1999/3198](https://www.legislation.gov.uk/uksi/1999/3198).

@@ -24,15 +24,15 @@ Regulations 2(1), 3, 6(2) and (5), 7(3) and 7(4), 11(1), 12(1), (2) and (3), 14(
 
 ### PART I — CONDITIONS RELATING TO CROPS FROM WHICH SEED IS OBTAINED
 
-#### 1. Methods of ascertaining whether crop requirements are met[^key-ec8089b068b1634595c57c3aabe0b765]
+#### 1. Methods of ascertaining whether crop requirements are met[^c-ec8089b068b1634595c57c3aabe0b765]
 
 The Scottish Ministers may ascertain, so far as practicable, whether the requirements for the crop set out in this Part of this Schedule are met by the use of methods which shall include official field inspection of the crop and which may include examination of a control plot sown with a sample from the seed lot and the consideration of any other relevant information.
 
-#### 2. Varietal identity and varietal purity[^key-6166cacd3bdde21e406b8f0382281471]
+#### 2. Varietal identity and varietal purity[^c-6166cacd3bdde21e406b8f0382281471]
 
-The characteristics used for the determination of varietal identity and varietal purity shall be those to which regard was had when the relevant variety was accepted on to the relevant GB Variety List or NI Variety List[^key-355904a8b5d72be5c13ee027df86b34a].
+The characteristics used for the determination of varietal identity and varietal purity shall be those to which regard was had when the relevant variety was accepted on to the relevant GB Variety List or NI Variety List[^c-355904a8b5d72be5c13ee027df86b34a].
 
-#### 3. Crop inspection[^key-913e506127a453bce4a318fe3eaffc16]
+#### 3. Crop inspection[^c-913e506127a453bce4a318fe3eaffc16]
 
 (1) An official examination of the crop shall be made by means of an official field inspection.
 
@@ -51,25 +51,25 @@ The characteristics used for the determination of varietal identity and varietal
 
 (7) For the purposes of this paragraph “lodged” means an area of crop which has been displaced from the vertical by more than 45 degrees.
 
-#### 4. Pests in the crop[^key-b539f77c0657ee3a3da9fd4e69eb8a7d]
+#### 4. Pests in the crop[^c-b539f77c0657ee3a3da9fd4e69eb8a7d]
 
 (1) The crop must be practically free from any pests which reduce the usefulness and quality of the seed.
 
-(2) The crop must also comply with the requirements concerning GB[^key-b5c98a1f9244a5995f6c0780922dded7] quarantine pests, PFA[^key-3a43c8fe9518a8b9a50c701c287cd3f9] quarantine pests and RNQPs provided for in implementing acts adopted pursuant to the EU Plant Health Regulation, as well as the measures adopted pursuant to Article 30(1) of that Regulation.
+(2) The crop must also comply with the requirements concerning GB[^c-b5c98a1f9244a5995f6c0780922dded7] quarantine pests, PFA[^c-3a43c8fe9518a8b9a50c701c287cd3f9] quarantine pests and RNQPs provided for in implementing acts adopted pursuant to the EU Plant Health Regulation, as well as the measures adopted pursuant to Article 30(1) of that Regulation.
 
-#### 5. Previous cropping[^key-6e7ed3c111f86f14081be24bb18c8602]
+#### 5. Previous cropping[^c-6e7ed3c111f86f14081be24bb18c8602]
 
 (1) The previous cropping of the field shall not have been incompatible with the production of seed of the species and variety of the crop, and the field shall be sufficiently free from plants which are volunteers from previous cropping.
 
 (2) The crop may be grown only on land which complies with the Scottish Ministers' requirements in respect of previous cropping.
 
-#### 6. Isolation distances – general[^key-04d8bd1a4691eff26d32ba8f43f1c473]
+#### 6. Isolation distances – general[^c-04d8bd1a4691eff26d32ba8f43f1c473]
 
 There shall be either a physical barrier or at least 2 metres of fallow ground between the seed crop and any crop likely to cause contamination in the seed.
 
-#### 7. Isolation distances — minimum distances[^key-590f973f770194210618b3008b8bd7bb]
+#### 7. Isolation distances — minimum distances[^c-590f973f770194210618b3008b8bd7bb]
 
-(1) Subject to sub-paragraph (2), for maize, self-pollinating varieties of triticale, rye and hybrids of barley , durum wheat, spelt wheat and wheat[^key-14467c2d68d1e4614440d4f206e84cd0] produced by means of cytoplasmic male sterility, the minimum distance from neighbouring crops or plants of other species, or of other varieties of the same species, liable to cross-pollinate with the crop shall be the distance specified in column 2 of the following table for the corresponding crop specified in column 1 of the table (which can include any distance of at least 2 metres of fallow ground required under paragraph 6)—
+(1) Subject to sub-paragraph (2), for maize, self-pollinating varieties of triticale, rye and hybrids of barley , durum wheat, spelt wheat and wheat[^c-14467c2d68d1e4614440d4f206e84cd0] produced by means of cytoplasmic male sterility, the minimum distance from neighbouring crops or plants of other species, or of other varieties of the same species, liable to cross-pollinate with the crop shall be the distance specified in column 2 of the following table for the corresponding crop specified in column 1 of the table (which can include any distance of at least 2 metres of fallow ground required under paragraph 6)—
 
 <table>
 <thead>
@@ -99,11 +99,11 @@ There shall be either a physical barrier or at least 2 metres of fallow ground b
 </tbody>
 </table>
 
-[^key-184f3daa5264b3a1187252c0f24c3736]
+[^c-184f3daa5264b3a1187252c0f24c3736]
 
 (2) The minimum distance specified in paragraph (1) may, subject to the approval of the Scottish Ministers, be modified or disregarded if the Scottish Ministers are satisfied that there is adequate protection against undesirable foreign pollen.
 
-#### 8. Standards for varietal purity[^key-0861d41e4adbb29fb84501a4517a0666]
+#### 8. Standards for varietal purity[^c-0861d41e4adbb29fb84501a4517a0666]
 
 (1) The crop shall have sufficient varietal identity and varietal purity, including–
 
@@ -151,7 +151,7 @@ There shall be either a physical barrier or at least 2 metres of fallow ground b
 - (b) in the case of Basic Seed, where male sterility is used, the level of sterility of the male sterile component shall be at least 98%; and
 - (c) where appropriate, Certified Seed shall be produced in mixed cultivation of a female male sterile component with a male component which restores male fertility.
 
-(5)[^key-fdb7a24990cbd1a07169c6795c698963] In crops of hybrids of barley, durum wheat, oats, self-pollinating triticale, spelt wheat or wheat other than hybrids of barley, durum wheat, spelt wheat or wheat produced by means of cytoplasmic male sterility—[^key-a431d02187c37657795d6e2dc1e5801d]
+(5)[^c-fdb7a24990cbd1a07169c6795c698963] In crops of hybrids of barley, durum wheat, oats, self-pollinating triticale, spelt wheat or wheat other than hybrids of barley, durum wheat, spelt wheat or wheat produced by means of cytoplasmic male sterility—[^c-a431d02187c37657795d6e2dc1e5801d]
 
 - (a) subject to sub-paragraph (b), varieties of the female component of the crop shall be at least 25 metres from a crop of any other variety of the same species except from a crop of the male component;
 - (b) sub-paragraph (a) shall not apply if there is sufficient protection from any undesirable foreign pollination;
@@ -168,13 +168,13 @@ There shall be either a physical barrier or at least 2 metres of fallow ground b
   - (i) where the crop is used for the production of Basic Seed, 0.1% for the maintainer and the restorer line and 0.2% for the cytoplasmic male sterility female component; and
   - (ii) where the crop is used for the production of Certified Seed—
     - (aa) 0.3% for the restorer and the cytoplasmic male sterility female component; or
-    - (bb)[^key-58e767bdec4da2f1b4a992508cea1db4] 0.3% for the restorer and 0.5% for the cytoplasmic male sterility female component, where the cytoplasmic male sterility component is a simple hybrid;
+    - (bb)[^c-58e767bdec4da2f1b4a992508cea1db4] 0.3% for the restorer and 0.5% for the cytoplasmic male sterility female component, where the cytoplasmic male sterility component is a simple hybrid;
 - (b) the level of sterility of the female component shall be at least—
   - (i) where the crop is used for the production of Basic Seed, 99.7%; and
   - (ii) where the crop is used for the production of Certified Seed, 99.5%; and
 - (c) in the case of Certified Seed, the crop may be produced in mixed cultivation of a female male-sterile component with a male component which restores fertility.
 
-(7)[^key-ca0d4fd7a85f73b10f9275b43d42500c] In crops of hybrids of durum wheat, spelt wheat and wheat produced by means of cytoplasmic male sterility—
+(7)[^c-ca0d4fd7a85f73b10f9275b43d42500c] In crops of hybrids of durum wheat, spelt wheat and wheat produced by means of cytoplasmic male sterility—
 
 - (a) the percentage by number of plants which are recognisable as obviously not being true to the variety shall not exceed—
   - (i) where the crop is used for the production of Basic Seed—
@@ -187,7 +187,7 @@ There shall be either a physical barrier or at least 2 metres of fallow ground b
   - (ii) where the crop is used for the production of Certified Seed, 99%; and
 - (c) in the case of Certified Seed, the crop may be produced in mixed cultivation of a female male-sterile component with a male component which restores fertility.
 
-#### 9. Standards for wild oats contamination[^key-d76cb52ca4c757799dc3ff5112247788]
+#### 9. Standards for wild oats contamination[^c-d76cb52ca4c757799dc3ff5112247788]
 
 The maximum number of wild oats per hectare shall be as follows–
 
@@ -201,7 +201,7 @@ The maximum number of wild oats per hectare shall be as follows–
 | Certified Seed of the Second Generation | HVS | 7 | n/a | 7 | n/a | n/a | 0 | n/a | n/a | n/a |
 |  | Minimum | 20 | n/a | 50 | n/a | n/a | 0 | n/a | n/a | 50 |
 
-#### 10. Standards for other cereal species[^key-e399173671ee10019c93e530ec432d48]
+#### 10. Standards for other cereal species[^c-e399173671ee10019c93e530ec432d48]
 
 In the case of barley, durum wheat, oats, spelt wheat and wheat, the crop shall conform to the following standards as regards the minimum species purity–
 
@@ -211,7 +211,7 @@ In the case of barley, durum wheat, oats, spelt wheat and wheat, the crop shall 
 | - (b) Certified Seed of the First Generation | n/a | 99.99% |
 | - (c) Certified Seed of the Second General | n/a | 99.99% |
 
-#### 11. Crop standards for loose smut infection[^key-54c03bc64ba92f39fb31c9cd6b9441bd]
+#### 11. Crop standards for loose smut infection[^c-54c03bc64ba92f39fb31c9cd6b9441bd]
 
 The maximum percentage by number of loose smut infection shall be as follows–
 
@@ -236,13 +236,13 @@ Seeds produced from a crop which has failed on official examination to meet the 
 - (a) if they have been adequately treated by any method approved by the Scottish Ministers for the control of loose smut; or
 - (b) if an embryo test carried out by an official seed testing station, on the sample submitted for official examination shows that the seeds meet the seed standards in paragraph 18.
 
-#### 12. Crop conditions for Pre basic Seed[^key-6dfa58c1292bb49720327990e73c921c]
+#### 12. Crop conditions for Pre basic Seed[^c-6dfa58c1292bb49720327990e73c921c]
 
 For the purpose of determining whether a crop from which Pre basic Seed is to be produced meets the conditions specified in this Part of this Schedule, the crop from which such seed is to be produced shall be treated in the same way as a crop from which minimum level Basic Seed is to be produced.
 
 ### PART II — CONDITIONS RELATING TO BASIC SEED, CERTIFIED SEED, CERTIFIED SEED OF THE FIRST GENERATION AND CERTIFIED SEED OF THE SECOND GENERATION
 
-#### 13. Standards for varietal purity[^key-99883d2588aeb64e83dbd8926ce9d81d]
+#### 13. Standards for varietal purity[^c-99883d2588aeb64e83dbd8926ce9d81d]
 
 (1) The seed shall possess sufficient varietal identity and varietal purity or, in the case of an inbred line, sufficient identity and purity as regards its characteristics.
 
@@ -274,15 +274,15 @@ For the purpose of determining whether a crop from which Pre basic Seed is to be
 </tbody>
 </table>
 
-[^key-eb34be9df62a5b27a1e5e6b1dac69cdb][^key-744a46427dadd519b1bf4ab5f0950ff5][^key-2587da5badecbb75eb9d6376344c0968]
+[^c-eb34be9df62a5b27a1e5e6b1dac69cdb][^c-744a46427dadd519b1bf4ab5f0950ff5][^c-2587da5badecbb75eb9d6376344c0968]
 
 (4) For the purposes of sub paragraph (3)(a) and (b), the minimum varietal purity of seed shall be examined mainly in official field inspections carried out in accordance with the conditions specified in paragraph 3 of Part I of this Schedule.
 
-(4A)[^key-0a85a950c05b358e8051d53271239f5d] For the purposes of sub-paragraph (3)(ba), impurities other than the restorer shall not exceed 2%.
+(4A)[^c-0a85a950c05b358e8051d53271239f5d] For the purposes of sub-paragraph (3)(ba), impurities other than the restorer shall not exceed 2%.
 
-(5) For the purposes of sub-paragraphs (3)(b), (ba) and (c)[^key-6008109b643c5d10624322cb2c8d5312], the minimum varietal purity of the seed shall be examined in official post-control tests on an appropriate proportion of samples.
+(5) For the purposes of sub-paragraphs (3)(b), (ba) and (c)[^c-6008109b643c5d10624322cb2c8d5312], the minimum varietal purity of the seed shall be examined in official post-control tests on an appropriate proportion of samples.
 
-#### 14. Production of Certified Seed of hybrids of maize[^key-402de3f6c3eae72beef1f474e67bf769]
+#### 14. Production of Certified Seed of hybrids of maize[^c-402de3f6c3eae72beef1f474e67bf769]
 
 (1) Where a female male-sterile component and a male component which does not restore male fertility have been used for the production of Certified Seed of hybrids of maize, the seed produced–
 
@@ -291,11 +291,11 @@ For the purpose of determining whether a crop from which Pre basic Seed is to be
 
 (2) In the case of seed produced in the manner specified in sub paragraph (1)(b) the proportion of the female male sterile and female male fertile components shall be examined in field inspections carried out in accordance with the conditions laid down in paragraph 3 of Part I of this Schedule.
 
-#### 15. Standards for varietal purity for hybrid varieties of rye and cytoplasmic male sterility hybrid varieties of barley, durum wheat, spelt wheat and wheat[^key-56e71aaf5acab8b3df10a16fed86925e][^key-7ab77aee651055268482d52c3a60cd3b]
+#### 15. Standards for varietal purity for hybrid varieties of rye and cytoplasmic male sterility hybrid varieties of barley, durum wheat, spelt wheat and wheat[^c-56e71aaf5acab8b3df10a16fed86925e][^c-7ab77aee651055268482d52c3a60cd3b]
 
-In the case of seed of a hybrid variety of rye or a cytoplasmic male sterility hybrid variety of barley[^key-2c18e31b2fda2718bb7d13137fd481f3] , durum wheat, spelt wheat or wheat[^key-2facbc77715fc0027bdf9659922528d1], the seed shall not be certified as Certified Seed unless due account has been taken of the results of official post control tests on samples of Basic Seed taken in accordance with regulation 15(1) and carried out during the growing season of the seed for which an application has been made for certification as Certified Seed to ascertain whether the Basic Seed has met the requirements for Basic Seed specified in these Regulations in respect of varietal identity as regards the characteristics of the components, including male sterility and in respect of the minimum varietal purity.
+In the case of seed of a hybrid variety of rye or a cytoplasmic male sterility hybrid variety of barley[^c-2c18e31b2fda2718bb7d13137fd481f3] , durum wheat, spelt wheat or wheat[^c-2facbc77715fc0027bdf9659922528d1], the seed shall not be certified as Certified Seed unless due account has been taken of the results of official post control tests on samples of Basic Seed taken in accordance with regulation 15(1) and carried out during the growing season of the seed for which an application has been made for certification as Certified Seed to ascertain whether the Basic Seed has met the requirements for Basic Seed specified in these Regulations in respect of varietal identity as regards the characteristics of the components, including male sterility and in respect of the minimum varietal purity.
 
-#### 16. Standards of germination, analytical purity and content of seed of other plant species[^key-80c1a442cd82eb1593cc832b7784a52a]
+#### 16. Standards of germination, analytical purity and content of seed of other plant species[^c-80c1a442cd82eb1593cc832b7784a52a]
 
 (1) The seed shall conform to the standards or other conditions as regards germination, analytical purity and the content of seeds of other plant species specified in the following table–
 
@@ -339,7 +339,7 @@ In the case of seed of a hybrid variety of rye or a cytoplasmic male sterility h
 </tbody>
 </table>
 
-[^key-3532d8525b2724bc4c00d00142003db0][^key-ee193ca2460fd9a7926c5a1ae4b65caf][^key-80b29b997c3de9cc7114a4f476faad57][^f01000][^f01001][^f01005][^f01003][^f01002][^f01001][^f01005][^f01002][^f01002][^f01001][^f01005][^f01002][^f01002][^f01001][^f01005][^key-9330dcd36308a59a0d12a81d4a0036a4][^f01000][^f01001][^f01005][^f01001][^f01005][^f01004][^f01000][^f01001][^f01005][^f01001][^f01005][^f01001][^f01005][^f01001][^f01005]
+[^c-3532d8525b2724bc4c00d00142003db0][^c-ee193ca2460fd9a7926c5a1ae4b65caf][^c-80b29b997c3de9cc7114a4f476faad57][^f01000][^f01001][^f01005][^f01003][^f01002][^f01001][^f01005][^f01002][^f01002][^f01001][^f01005][^f01002][^f01002][^f01001][^f01005][^c-9330dcd36308a59a0d12a81d4a0036a4][^f01000][^f01001][^f01005][^f01001][^f01005][^f01004][^f01000][^f01001][^f01005][^f01001][^f01005][^f01001][^f01005][^f01001][^f01005]
 
 (2) Subject to sub paragraphs (3) and (4) it shall be determined, by way of a germination test, whether the seed attains the percentage of germination for the relevant level specified in columns 2 and 3 of the table set out in sub paragraph (1) for the appropriate category of seed.
 
@@ -347,13 +347,13 @@ In the case of seed of a hybrid variety of rye or a cytoplasmic male sterility h
 
 (4) Where a tetrazolium test is carried out on seed which does not comply with the Scottish Ministers' requirements for eligibility for tetrazolium testing or where the results of a tetrazolium test do not meet the standards set out in the Scottish Ministers' requirements in respect of such tests, the test will cast doubt on whether the seed will satisfy the applicable germination standards set out in column 2 or 3 of the table set out in sub-paragraph (1).
 
-#### 17. Pests in the seed[^key-0e8e3ff3ea7d35736c1018736bf32606]
+#### 17. Pests in the seed[^c-0e8e3ff3ea7d35736c1018736bf32606]
 
 (1) The seed must be practically free from any pests which reduce the usefulness and quality of the seed.
 
-(2) The seed must also comply with the requirements concerning GB[^key-c7593632a102e4b19e334d38b1f02928] quarantine pests, PFA[^key-83246a294e3b7134938b05d98a5c351f] quarantine pests and RNQPs provided for in implementing acts adopted pursuant to the EU Plant Health Regulation, as well as the measures adopted pursuant to Article 30(1) of that Regulation.
+(2) The seed must also comply with the requirements concerning GB[^c-c7593632a102e4b19e334d38b1f02928] quarantine pests, PFA[^c-83246a294e3b7134938b05d98a5c351f] quarantine pests and RNQPs provided for in implementing acts adopted pursuant to the EU Plant Health Regulation, as well as the measures adopted pursuant to Article 30(1) of that Regulation.
 
-#### 18. Standards for loose smut infection[^key-27f2d61ede5a53bd6f7a5184ef69c1ae]
+#### 18. Standards for loose smut infection[^c-27f2d61ede5a53bd6f7a5184ef69c1ae]
 
 In any sample of seed the maximum percentage by number of loose smut infection shall be as follows–
 
@@ -378,7 +378,7 @@ Seeds produced from a crop which has failed on official examination to meet the 
 - (a) if they have been adequately treated by any method approved by the Scottish Ministers for the control of loose smut; or
 - (b) if an embryo test carried out by an official seed testing station, on the sample submitted for official examination, shows that the seeds met these standards.
 
-#### 19. Moisture content[^key-257574c939dcaca7611099c1da747d92]
+#### 19. Moisture content[^c-257574c939dcaca7611099c1da747d92]
 
 (1) The maximum moisture content of the seed shall not exceed 17% by weight.
 
@@ -388,83 +388,83 @@ Seeds produced from a crop which has failed on official examination to meet the 
 
 ### PART III — OFFICIAL EXAMINATIONS USED TO ASCERTAIN WHETHER A CROP OR SEED LOT MEETS THE CONDITIONS RELATING TO BASIC SEED, CERTIFIED SEED, CERTIFIED SEED OF THE FIRST GENERATION AND CERTIFIED SEED OF THE SECOND GENERATION
 
-#### 20. Methods for official examinations[^key-34b0e52ae5a52eff82b75c967b6e8426]
+#### 20. Methods for official examinations[^c-34b0e52ae5a52eff82b75c967b6e8426]
 
 All official examinations used to ascertain whether crops or seed lots meet the standards specified in this Schedule shall be carried out in accordance with current international methods insofar as such methods exist.
 
 ## Annotations
 
-[^key-ec8089b068b1634595c57c3aabe0b765]: Commencement: Sch. 4 para. 1 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/328/regulation/1/1)
+[^c-ec8089b068b1634595c57c3aabe0b765]: Commencement: Sch. 4 para. 1 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/328/regulation/1/1)
 
-[^key-6166cacd3bdde21e406b8f0382281471]: Commencement: Sch. 4 para. 2 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/328/regulation/1/1)
+[^c-6166cacd3bdde21e406b8f0382281471]: Commencement: Sch. 4 para. 2 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/328/regulation/1/1)
 
-[^key-355904a8b5d72be5c13ee027df86b34a]: Textual amendment: Words in [sch. 4 para. 2](https://www.legislation.gov.uk/ssi/2005/328/schedule/4/paragraph/2) substituted (31.12.2020) by [The Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/59)](https://www.legislation.gov.uk/ssi/2019/59), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/b), [13(22)(a)(i)](https://www.legislation.gov.uk/ssi/2019/59/regulation/13/22/a/i) (as substituted by [S.S.I. 2020/445](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(19)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/19)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-355904a8b5d72be5c13ee027df86b34a]: Textual amendment: Words in [sch. 4 para. 2](https://www.legislation.gov.uk/ssi/2005/328/schedule/4/paragraph/2) substituted (31.12.2020) by [The Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/59)](https://www.legislation.gov.uk/ssi/2019/59), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/b), [13(22)(a)(i)](https://www.legislation.gov.uk/ssi/2019/59/regulation/13/22/a/i) (as substituted by [S.S.I. 2020/445](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(19)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/19)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-913e506127a453bce4a318fe3eaffc16]: Commencement: Sch. 4 para. 3 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/328/regulation/1/1)
+[^c-913e506127a453bce4a318fe3eaffc16]: Commencement: Sch. 4 para. 3 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/328/regulation/1/1)
 
-[^key-b539f77c0657ee3a3da9fd4e69eb8a7d]: Textual amendment: [Sch. 4 para. 4](https://www.legislation.gov.uk/ssi/2005/328/schedule/4/paragraph/4) substituted (1.7.2020) by [The Seed and Plant Material (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/165)](https://www.legislation.gov.uk/ssi/2020/165), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/165/regulation/1/1), [6(3)(a)](https://www.legislation.gov.uk/ssi/2020/165/regulation/6/3/a)
+[^c-b539f77c0657ee3a3da9fd4e69eb8a7d]: Textual amendment: [Sch. 4 para. 4](https://www.legislation.gov.uk/ssi/2005/328/schedule/4/paragraph/4) substituted (1.7.2020) by [The Seed and Plant Material (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/165)](https://www.legislation.gov.uk/ssi/2020/165), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/165/regulation/1/1), [6(3)(a)](https://www.legislation.gov.uk/ssi/2020/165/regulation/6/3/a)
 
-[^key-b5c98a1f9244a5995f6c0780922dded7]: Textual amendment: Word in [sch. 4 para. 4](https://www.legislation.gov.uk/ssi/2005/328/schedule/4/paragraph/4) substituted (31.12.2020) by [The Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/59)](https://www.legislation.gov.uk/ssi/2019/59), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/b), [13(22)(a)(ii)(aa)](https://www.legislation.gov.uk/ssi/2019/59/regulation/13/22/a/ii/aa) (as substituted by [S.S.I. 2020/445](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(19)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/19)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b5c98a1f9244a5995f6c0780922dded7]: Textual amendment: Word in [sch. 4 para. 4](https://www.legislation.gov.uk/ssi/2005/328/schedule/4/paragraph/4) substituted (31.12.2020) by [The Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/59)](https://www.legislation.gov.uk/ssi/2019/59), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/b), [13(22)(a)(ii)(aa)](https://www.legislation.gov.uk/ssi/2019/59/regulation/13/22/a/ii/aa) (as substituted by [S.S.I. 2020/445](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(19)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/19)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3a43c8fe9518a8b9a50c701c287cd3f9]: Textual amendment: Word in [sch. 4 para. 4](https://www.legislation.gov.uk/ssi/2005/328/schedule/4/paragraph/4) substituted (31.12.2020) by [The Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/59)](https://www.legislation.gov.uk/ssi/2019/59), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/b), [13(22)(a)(ii)(bb)](https://www.legislation.gov.uk/ssi/2019/59/regulation/13/22/a/ii/bb) (as substituted by [S.S.I. 2020/445](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(19)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/19)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3a43c8fe9518a8b9a50c701c287cd3f9]: Textual amendment: Word in [sch. 4 para. 4](https://www.legislation.gov.uk/ssi/2005/328/schedule/4/paragraph/4) substituted (31.12.2020) by [The Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/59)](https://www.legislation.gov.uk/ssi/2019/59), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/b), [13(22)(a)(ii)(bb)](https://www.legislation.gov.uk/ssi/2019/59/regulation/13/22/a/ii/bb) (as substituted by [S.S.I. 2020/445](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(19)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/19)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6e7ed3c111f86f14081be24bb18c8602]: Commencement: Sch. 4 para. 5 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/328/regulation/1/1)
+[^c-6e7ed3c111f86f14081be24bb18c8602]: Commencement: Sch. 4 para. 5 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/328/regulation/1/1)
 
-[^key-04d8bd1a4691eff26d32ba8f43f1c473]: Commencement: Sch. 4 para. 6 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/328/regulation/1/1)
+[^c-04d8bd1a4691eff26d32ba8f43f1c473]: Commencement: Sch. 4 para. 6 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/328/regulation/1/1)
 
-[^key-590f973f770194210618b3008b8bd7bb]: Textual amendment: [Sch. 4 para. 7](https://www.legislation.gov.uk/ssi/2005/328/schedule/4/paragraph/7) substituted (1.7.2016) by [The Seed (Licensing and Enforcement etc.) (Scotland) Regulations 2016 (S.S.I. 2016/68)](https://www.legislation.gov.uk/ssi/2016/68), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1), [sch. 3 para. 2(6)(a)(i)](https://www.legislation.gov.uk/ssi/2016/68/schedule/3/paragraph/2/6/a/i)
+[^c-590f973f770194210618b3008b8bd7bb]: Textual amendment: [Sch. 4 para. 7](https://www.legislation.gov.uk/ssi/2005/328/schedule/4/paragraph/7) substituted (1.7.2016) by [The Seed (Licensing and Enforcement etc.) (Scotland) Regulations 2016 (S.S.I. 2016/68)](https://www.legislation.gov.uk/ssi/2016/68), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1), [sch. 3 para. 2(6)(a)(i)](https://www.legislation.gov.uk/ssi/2016/68/schedule/3/paragraph/2/6/a/i)
 
-[^key-14467c2d68d1e4614440d4f206e84cd0]: Textual amendment: Words in [sch. 4 para. 7(1)](https://www.legislation.gov.uk/ssi/2005/328/schedule/4/paragraph/7/1) inserted (6.10.2023) by [The Cereal Seed (Scotland) Amendment Regulations 2023 (S.S.I. 2023/193)](https://www.legislation.gov.uk/ssi/2023/193), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/193/regulation/1/1), [3(1)(a)(i)](https://www.legislation.gov.uk/ssi/2023/193/regulation/3/1/a/i)
+[^c-14467c2d68d1e4614440d4f206e84cd0]: Textual amendment: Words in [sch. 4 para. 7(1)](https://www.legislation.gov.uk/ssi/2005/328/schedule/4/paragraph/7/1) inserted (6.10.2023) by [The Cereal Seed (Scotland) Amendment Regulations 2023 (S.S.I. 2023/193)](https://www.legislation.gov.uk/ssi/2023/193), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/193/regulation/1/1), [3(1)(a)(i)](https://www.legislation.gov.uk/ssi/2023/193/regulation/3/1/a/i)
 
-[^key-184f3daa5264b3a1187252c0f24c3736]: Textual amendment: Words in [sch. 4 para. 7(1)](https://www.legislation.gov.uk/ssi/2005/328/schedule/4/paragraph/7/1) Table inserted (6.10.2023) by [The Cereal Seed (Scotland) Amendment Regulations 2023 (S.S.I. 2023/193)](https://www.legislation.gov.uk/ssi/2023/193), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/193/regulation/1/1), [3(1)(a)(ii)](https://www.legislation.gov.uk/ssi/2023/193/regulation/3/1/a/ii)
+[^c-184f3daa5264b3a1187252c0f24c3736]: Textual amendment: Words in [sch. 4 para. 7(1)](https://www.legislation.gov.uk/ssi/2005/328/schedule/4/paragraph/7/1) Table inserted (6.10.2023) by [The Cereal Seed (Scotland) Amendment Regulations 2023 (S.S.I. 2023/193)](https://www.legislation.gov.uk/ssi/2023/193), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/193/regulation/1/1), [3(1)(a)(ii)](https://www.legislation.gov.uk/ssi/2023/193/regulation/3/1/a/ii)
 
-[^key-0861d41e4adbb29fb84501a4517a0666]: Commencement: Sch. 4 para. 8 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/328/regulation/1/1)
+[^c-0861d41e4adbb29fb84501a4517a0666]: Commencement: Sch. 4 para. 8 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/328/regulation/1/1)
 
-[^key-fdb7a24990cbd1a07169c6795c698963]: Textual amendment: [Sch. 4 para. 8(5)](https://www.legislation.gov.uk/ssi/2005/328/schedule/4/paragraph/8/5)[(6)](https://www.legislation.gov.uk/ssi/2005/328/schedule/4/paragraph/8/6) substituted for [sch. 4](https://www.legislation.gov.uk/ssi/2005/328/schedule/4) [para. 8(5)](https://www.legislation.gov.uk/ssi/2005/328/schedule/4/paragraph/8/5) (1.7.2016) by [The Seed (Licensing and Enforcement etc.) (Scotland) Regulations 2016 (S.S.I. 2016/68)](https://www.legislation.gov.uk/ssi/2016/68), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1), [sch. 3 para. 2(6)(a)(ii)](https://www.legislation.gov.uk/ssi/2016/68/schedule/3/paragraph/2/6/a/ii)
+[^c-fdb7a24990cbd1a07169c6795c698963]: Textual amendment: [Sch. 4 para. 8(5)](https://www.legislation.gov.uk/ssi/2005/328/schedule/4/paragraph/8/5)[(6)](https://www.legislation.gov.uk/ssi/2005/328/schedule/4/paragraph/8/6) substituted for [sch. 4](https://www.legislation.gov.uk/ssi/2005/328/schedule/4) [para. 8(5)](https://www.legislation.gov.uk/ssi/2005/328/schedule/4/paragraph/8/5) (1.7.2016) by [The Seed (Licensing and Enforcement etc.) (Scotland) Regulations 2016 (S.S.I. 2016/68)](https://www.legislation.gov.uk/ssi/2016/68), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1), [sch. 3 para. 2(6)(a)(ii)](https://www.legislation.gov.uk/ssi/2016/68/schedule/3/paragraph/2/6/a/ii)
 
-[^key-a431d02187c37657795d6e2dc1e5801d]: Textual amendment: Words in [sch. 4 para. 8(5)](https://www.legislation.gov.uk/ssi/2005/328/schedule/4/paragraph/8/5) substituted (6.10.2023) by [The Cereal Seed (Scotland) Amendment Regulations 2023 (S.S.I. 2023/193)](https://www.legislation.gov.uk/ssi/2023/193), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/193/regulation/1/1), [3(1)(b)(i)](https://www.legislation.gov.uk/ssi/2023/193/regulation/3/1/b/i)
+[^c-a431d02187c37657795d6e2dc1e5801d]: Textual amendment: Words in [sch. 4 para. 8(5)](https://www.legislation.gov.uk/ssi/2005/328/schedule/4/paragraph/8/5) substituted (6.10.2023) by [The Cereal Seed (Scotland) Amendment Regulations 2023 (S.S.I. 2023/193)](https://www.legislation.gov.uk/ssi/2023/193), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/193/regulation/1/1), [3(1)(b)(i)](https://www.legislation.gov.uk/ssi/2023/193/regulation/3/1/b/i)
 
-[^key-58e767bdec4da2f1b4a992508cea1db4]: Textual amendment: [Sch. 4 para. 8(6)(a)(ii)(bb)](https://www.legislation.gov.uk/ssi/2005/328/schedule/4/paragraph/8/6/a/ii/bb) substituted (6.10.2023) by [The Cereal Seed (Scotland) Amendment Regulations 2023 (S.S.I. 2023/193)](https://www.legislation.gov.uk/ssi/2023/193), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/193/regulation/1/1), [3(1)(b)(ii)](https://www.legislation.gov.uk/ssi/2023/193/regulation/3/1/b/ii)
+[^c-58e767bdec4da2f1b4a992508cea1db4]: Textual amendment: [Sch. 4 para. 8(6)(a)(ii)(bb)](https://www.legislation.gov.uk/ssi/2005/328/schedule/4/paragraph/8/6/a/ii/bb) substituted (6.10.2023) by [The Cereal Seed (Scotland) Amendment Regulations 2023 (S.S.I. 2023/193)](https://www.legislation.gov.uk/ssi/2023/193), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/193/regulation/1/1), [3(1)(b)(ii)](https://www.legislation.gov.uk/ssi/2023/193/regulation/3/1/b/ii)
 
-[^key-ca0d4fd7a85f73b10f9275b43d42500c]: Textual amendment: [Sch. 4 para. 8(7)](https://www.legislation.gov.uk/ssi/2005/328/schedule/4/paragraph/8/7) inserted (6.10.2023) by [The Cereal Seed (Scotland) Amendment Regulations 2023 (S.S.I. 2023/193)](https://www.legislation.gov.uk/ssi/2023/193), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/193/regulation/1/1), [3(1)(b)(iii)](https://www.legislation.gov.uk/ssi/2023/193/regulation/3/1/b/iii)
+[^c-ca0d4fd7a85f73b10f9275b43d42500c]: Textual amendment: [Sch. 4 para. 8(7)](https://www.legislation.gov.uk/ssi/2005/328/schedule/4/paragraph/8/7) inserted (6.10.2023) by [The Cereal Seed (Scotland) Amendment Regulations 2023 (S.S.I. 2023/193)](https://www.legislation.gov.uk/ssi/2023/193), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/193/regulation/1/1), [3(1)(b)(iii)](https://www.legislation.gov.uk/ssi/2023/193/regulation/3/1/b/iii)
 
-[^key-d76cb52ca4c757799dc3ff5112247788]: Commencement: Sch. 4 para. 9 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/328/regulation/1/1)
+[^c-d76cb52ca4c757799dc3ff5112247788]: Commencement: Sch. 4 para. 9 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/328/regulation/1/1)
 
-[^key-e399173671ee10019c93e530ec432d48]: Commencement: Sch. 4 para. 10 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/328/regulation/1/1)
+[^c-e399173671ee10019c93e530ec432d48]: Commencement: Sch. 4 para. 10 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/328/regulation/1/1)
 
-[^key-54c03bc64ba92f39fb31c9cd6b9441bd]: Commencement: Sch. 4 para. 11 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/328/regulation/1/1)
+[^c-54c03bc64ba92f39fb31c9cd6b9441bd]: Commencement: Sch. 4 para. 11 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/328/regulation/1/1)
 
-[^key-6dfa58c1292bb49720327990e73c921c]: Commencement: Sch. 4 para. 12 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/328/regulation/1/1)
+[^c-6dfa58c1292bb49720327990e73c921c]: Commencement: Sch. 4 para. 12 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/328/regulation/1/1)
 
-[^key-99883d2588aeb64e83dbd8926ce9d81d]: Commencement: Sch. 4 para. 13 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/328/regulation/1/1)
+[^c-99883d2588aeb64e83dbd8926ce9d81d]: Commencement: Sch. 4 para. 13 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/328/regulation/1/1)
 
-[^key-eb34be9df62a5b27a1e5e6b1dac69cdb]: Textual amendment: Words in [sch. 4 para. 13(3)](https://www.legislation.gov.uk/ssi/2005/328/schedule/4/paragraph/13/3) table substituted (6.10.2023) by [The Cereal Seed (Scotland) Amendment Regulations 2023 (S.S.I. 2023/193)](https://www.legislation.gov.uk/ssi/2023/193), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/193/regulation/1/1), [3(1)(c)(i)(aa)](https://www.legislation.gov.uk/ssi/2023/193/regulation/3/1/c/i/aa)
+[^c-eb34be9df62a5b27a1e5e6b1dac69cdb]: Textual amendment: Words in [sch. 4 para. 13(3)](https://www.legislation.gov.uk/ssi/2005/328/schedule/4/paragraph/13/3) table substituted (6.10.2023) by [The Cereal Seed (Scotland) Amendment Regulations 2023 (S.S.I. 2023/193)](https://www.legislation.gov.uk/ssi/2023/193), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/193/regulation/1/1), [3(1)(c)(i)(aa)](https://www.legislation.gov.uk/ssi/2023/193/regulation/3/1/c/i/aa)
 
-[^key-744a46427dadd519b1bf4ab5f0950ff5]: Textual amendment: Words in [sch. 4 para. 13(3)](https://www.legislation.gov.uk/ssi/2005/328/schedule/4/paragraph/13/3) table substituted (1.7.2016) by [The Seed (Licensing and Enforcement etc.) (Scotland) Regulations 2016 (S.S.I. 2016/68)](https://www.legislation.gov.uk/ssi/2016/68), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1), [sch. 3 para. 2(6)(b)(i)(aa)](https://www.legislation.gov.uk/ssi/2016/68/schedule/3/paragraph/2/6/b/i)
+[^c-744a46427dadd519b1bf4ab5f0950ff5]: Textual amendment: Words in [sch. 4 para. 13(3)](https://www.legislation.gov.uk/ssi/2005/328/schedule/4/paragraph/13/3) table substituted (1.7.2016) by [The Seed (Licensing and Enforcement etc.) (Scotland) Regulations 2016 (S.S.I. 2016/68)](https://www.legislation.gov.uk/ssi/2016/68), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1), [sch. 3 para. 2(6)(b)(i)(aa)](https://www.legislation.gov.uk/ssi/2016/68/schedule/3/paragraph/2/6/b/i)
 
-[^key-2587da5badecbb75eb9d6376344c0968]: Textual amendment: Words in [sch. 4 para. 13(3)](https://www.legislation.gov.uk/ssi/2005/328/schedule/4/paragraph/13/3) table inserted (6.10.2023) by [The Cereal Seed (Scotland) Amendment Regulations 2023 (S.S.I. 2023/193)](https://www.legislation.gov.uk/ssi/2023/193), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/193/regulation/1/1), [3(1)(c)(i)(bb)](https://www.legislation.gov.uk/ssi/2023/193/regulation/3/1/c/i/bb)
+[^c-2587da5badecbb75eb9d6376344c0968]: Textual amendment: Words in [sch. 4 para. 13(3)](https://www.legislation.gov.uk/ssi/2005/328/schedule/4/paragraph/13/3) table inserted (6.10.2023) by [The Cereal Seed (Scotland) Amendment Regulations 2023 (S.S.I. 2023/193)](https://www.legislation.gov.uk/ssi/2023/193), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/193/regulation/1/1), [3(1)(c)(i)(bb)](https://www.legislation.gov.uk/ssi/2023/193/regulation/3/1/c/i/bb)
 
-[^key-0a85a950c05b358e8051d53271239f5d]: Textual amendment: [Sch. 4 para. 13(4A)](https://www.legislation.gov.uk/ssi/2005/328/schedule/4/paragraph/13/4A) inserted (1.7.2016) by [The Seed (Licensing and Enforcement etc.) (Scotland) Regulations 2016 (S.S.I. 2016/68)](https://www.legislation.gov.uk/ssi/2016/68), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1), [sch. 3 para. 2(6)(b)(i)(bb)](https://www.legislation.gov.uk/ssi/2016/68/schedule/3/paragraph/2/6/b/i)
+[^c-0a85a950c05b358e8051d53271239f5d]: Textual amendment: [Sch. 4 para. 13(4A)](https://www.legislation.gov.uk/ssi/2005/328/schedule/4/paragraph/13/4A) inserted (1.7.2016) by [The Seed (Licensing and Enforcement etc.) (Scotland) Regulations 2016 (S.S.I. 2016/68)](https://www.legislation.gov.uk/ssi/2016/68), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1), [sch. 3 para. 2(6)(b)(i)(bb)](https://www.legislation.gov.uk/ssi/2016/68/schedule/3/paragraph/2/6/b/i)
 
-[^key-6008109b643c5d10624322cb2c8d5312]: Textual amendment: Words in [sch. 4 para. 13(5)](https://www.legislation.gov.uk/ssi/2005/328/schedule/4/paragraph/13/5) substituted (1.7.2016) by [The Seed (Licensing and Enforcement etc.) (Scotland) Regulations 2016 (S.S.I. 2016/68)](https://www.legislation.gov.uk/ssi/2016/68), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1), [sch. 3 para. 2(6)(b)(i)(cc)](https://www.legislation.gov.uk/ssi/2016/68/schedule/3/paragraph/2/6/b/i)
+[^c-6008109b643c5d10624322cb2c8d5312]: Textual amendment: Words in [sch. 4 para. 13(5)](https://www.legislation.gov.uk/ssi/2005/328/schedule/4/paragraph/13/5) substituted (1.7.2016) by [The Seed (Licensing and Enforcement etc.) (Scotland) Regulations 2016 (S.S.I. 2016/68)](https://www.legislation.gov.uk/ssi/2016/68), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1), [sch. 3 para. 2(6)(b)(i)(cc)](https://www.legislation.gov.uk/ssi/2016/68/schedule/3/paragraph/2/6/b/i)
 
-[^key-402de3f6c3eae72beef1f474e67bf769]: Commencement: Sch. 4 para. 14 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/328/regulation/1/1)
+[^c-402de3f6c3eae72beef1f474e67bf769]: Commencement: Sch. 4 para. 14 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/328/regulation/1/1)
 
-[^key-56e71aaf5acab8b3df10a16fed86925e]: Commencement: Sch. 4 para. 15 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/328/regulation/1/1)
+[^c-56e71aaf5acab8b3df10a16fed86925e]: Commencement: Sch. 4 para. 15 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/328/regulation/1/1)
 
-[^key-7ab77aee651055268482d52c3a60cd3b]: Textual amendment: [Sch. 4 para. 15](https://www.legislation.gov.uk/ssi/2005/328/schedule/4/paragraph/15) heading substituted (6.10.2023) by [The Cereal Seed (Scotland) Amendment Regulations 2023 (S.S.I. 2023/193)](https://www.legislation.gov.uk/ssi/2023/193), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/193/regulation/1/1), [3(1)(d)(i)](https://www.legislation.gov.uk/ssi/2023/193/regulation/3/1/d/i)
+[^c-7ab77aee651055268482d52c3a60cd3b]: Textual amendment: [Sch. 4 para. 15](https://www.legislation.gov.uk/ssi/2005/328/schedule/4/paragraph/15) heading substituted (6.10.2023) by [The Cereal Seed (Scotland) Amendment Regulations 2023 (S.S.I. 2023/193)](https://www.legislation.gov.uk/ssi/2023/193), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/193/regulation/1/1), [3(1)(d)(i)](https://www.legislation.gov.uk/ssi/2023/193/regulation/3/1/d/i)
 
-[^key-2c18e31b2fda2718bb7d13137fd481f3]: Textual amendment: Words in [sch. 4 para. 15](https://www.legislation.gov.uk/ssi/2005/328/schedule/4/paragraph/15) inserted (1.7.2016) by [The Seed (Licensing and Enforcement etc.) (Scotland) Regulations 2016 (S.S.I. 2016/68)](https://www.legislation.gov.uk/ssi/2016/68), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1), [sch. 3 para. 2(6)(b)(ii)(bb)](https://www.legislation.gov.uk/ssi/2016/68/schedule/3/paragraph/2/6/b/ii/bb)
+[^c-2c18e31b2fda2718bb7d13137fd481f3]: Textual amendment: Words in [sch. 4 para. 15](https://www.legislation.gov.uk/ssi/2005/328/schedule/4/paragraph/15) inserted (1.7.2016) by [The Seed (Licensing and Enforcement etc.) (Scotland) Regulations 2016 (S.S.I. 2016/68)](https://www.legislation.gov.uk/ssi/2016/68), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1), [sch. 3 para. 2(6)(b)(ii)(bb)](https://www.legislation.gov.uk/ssi/2016/68/schedule/3/paragraph/2/6/b/ii/bb)
 
-[^key-2facbc77715fc0027bdf9659922528d1]: Textual amendment: Words in [sch. 4 para. 15](https://www.legislation.gov.uk/ssi/2005/328/schedule/4/paragraph/15) inserted (6.10.2023) by [The Cereal Seed (Scotland) Amendment Regulations 2023 (S.S.I. 2023/193)](https://www.legislation.gov.uk/ssi/2023/193), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/193/regulation/1/1), [3(1)(d)(ii)](https://www.legislation.gov.uk/ssi/2023/193/regulation/3/1/d/ii)
+[^c-2facbc77715fc0027bdf9659922528d1]: Textual amendment: Words in [sch. 4 para. 15](https://www.legislation.gov.uk/ssi/2005/328/schedule/4/paragraph/15) inserted (6.10.2023) by [The Cereal Seed (Scotland) Amendment Regulations 2023 (S.S.I. 2023/193)](https://www.legislation.gov.uk/ssi/2023/193), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/193/regulation/1/1), [3(1)(d)(ii)](https://www.legislation.gov.uk/ssi/2023/193/regulation/3/1/d/ii)
 
-[^key-80c1a442cd82eb1593cc832b7784a52a]: Commencement: Sch. 4 para. 16 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/328/regulation/1/1)
+[^c-80c1a442cd82eb1593cc832b7784a52a]: Commencement: Sch. 4 para. 16 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/328/regulation/1/1)
 
-[^key-3532d8525b2724bc4c00d00142003db0]: Textual amendment: Words in [sch. 4 para. 16(1)](https://www.legislation.gov.uk/ssi/2005/328/schedule/4/paragraph/16/1) substituted (30.6.2010) by [The Seed (Scotland) (Miscellaneous Amendments) Regulations 2010 (S.S.I. 2010/219)](https://www.legislation.gov.uk/ssi/2010/219), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2010/219/regulation/1/2), [5(a)](https://www.legislation.gov.uk/ssi/2010/219/regulation/5/a)
+[^c-3532d8525b2724bc4c00d00142003db0]: Textual amendment: Words in [sch. 4 para. 16(1)](https://www.legislation.gov.uk/ssi/2005/328/schedule/4/paragraph/16/1) substituted (30.6.2010) by [The Seed (Scotland) (Miscellaneous Amendments) Regulations 2010 (S.S.I. 2010/219)](https://www.legislation.gov.uk/ssi/2010/219), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2010/219/regulation/1/2), [5(a)](https://www.legislation.gov.uk/ssi/2010/219/regulation/5/a)
 
-[^key-ee193ca2460fd9a7926c5a1ae4b65caf]: Textual amendment: Words in [sch. 4 para. 16(1)](https://www.legislation.gov.uk/ssi/2005/328/schedule/4/paragraph/16/1) substituted (30.6.2010) by [The Seed (Scotland) (Miscellaneous Amendments) Regulations 2010 (S.S.I. 2010/219)](https://www.legislation.gov.uk/ssi/2010/219), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2010/219/regulation/1/2), [5(b)](https://www.legislation.gov.uk/ssi/2010/219/regulation/5/b)
+[^c-ee193ca2460fd9a7926c5a1ae4b65caf]: Textual amendment: Words in [sch. 4 para. 16(1)](https://www.legislation.gov.uk/ssi/2005/328/schedule/4/paragraph/16/1) substituted (30.6.2010) by [The Seed (Scotland) (Miscellaneous Amendments) Regulations 2010 (S.S.I. 2010/219)](https://www.legislation.gov.uk/ssi/2010/219), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2010/219/regulation/1/2), [5(b)](https://www.legislation.gov.uk/ssi/2010/219/regulation/5/b)
 
-[^key-80b29b997c3de9cc7114a4f476faad57]: Textual amendment: Words in [sch. 4 para. 16(1)](https://www.legislation.gov.uk/ssi/2005/328/schedule/4/paragraph/16/1) substituted (30.6.2010) by [The Seed (Scotland) (Miscellaneous Amendments) Regulations 2010 (S.S.I. 2010/219)](https://www.legislation.gov.uk/ssi/2010/219), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2010/219/regulation/1/2), [5(d)](https://www.legislation.gov.uk/ssi/2010/219/regulation/5/d)
+[^c-80b29b997c3de9cc7114a4f476faad57]: Textual amendment: Words in [sch. 4 para. 16(1)](https://www.legislation.gov.uk/ssi/2005/328/schedule/4/paragraph/16/1) substituted (30.6.2010) by [The Seed (Scotland) (Miscellaneous Amendments) Regulations 2010 (S.S.I. 2010/219)](https://www.legislation.gov.uk/ssi/2010/219), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2010/219/regulation/1/2), [5(d)](https://www.legislation.gov.uk/ssi/2010/219/regulation/5/d)
 
 [^f01000]: Footnote: (a)
 
@@ -472,7 +472,7 @@ All official examinations used to ascertain whether crops or seed lots meet the 
 
 [^f01001]: Footnote: (b)
 
-    The presence of one seed of *Avena fatua, Avena sterilis[^key-3532d8525b2724bc4c00d00142003db0]* or *Lolium temulentum* in a sample of the prescribed weight shall not be regarded as an impurity where a second sample of the same weight is free from any seeds of these species.
+    The presence of one seed of *Avena fatua, Avena sterilis[^c-3532d8525b2724bc4c00d00142003db0]* or *Lolium temulentum* in a sample of the prescribed weight shall not be regarded as an impurity where a second sample of the same weight is free from any seeds of these species.
 
 [^f01005]: Footnote: (f)
 
@@ -484,22 +484,22 @@ All official examinations used to ascertain whether crops or seed lots meet the 
 
 [^f01002]: Footnote: (c)
 
-    In the case of varieties of[^key-80b29b997c3de9cc7114a4f476faad57] *Hordeum vulgare* which are officially classified as of the “naked barley” type and in the case of varieties of *Avena nuda* which are officially classified as of the “naked oat” type, the minimum germination standard is 75%. In such cases the official label shall be endorsed ‘minimum germination capacity 75%’.
+    In the case of varieties of[^c-80b29b997c3de9cc7114a4f476faad57] *Hordeum vulgare* which are officially classified as of the “naked barley” type and in the case of varieties of *Avena nuda* which are officially classified as of the “naked oat” type, the minimum germination standard is 75%. In such cases the official label shall be endorsed ‘minimum germination capacity 75%’.
 
-[^key-9330dcd36308a59a0d12a81d4a0036a4]: Textual amendment: [Sch. 4 para. 16(1)](https://www.legislation.gov.uk/ssi/2005/328/schedule/4/paragraph/16/1) entry inserted (30.6.2010) by [The Seed (Scotland) (Miscellaneous Amendments) Regulations 2010 (S.S.I. 2010/219)](https://www.legislation.gov.uk/ssi/2010/219), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2010/219/regulation/1/2), [5(c)](https://www.legislation.gov.uk/ssi/2010/219/regulation/5/c), [sch. 2](https://www.legislation.gov.uk/ssi/2010/219/schedule/2)
+[^c-9330dcd36308a59a0d12a81d4a0036a4]: Textual amendment: [Sch. 4 para. 16(1)](https://www.legislation.gov.uk/ssi/2005/328/schedule/4/paragraph/16/1) entry inserted (30.6.2010) by [The Seed (Scotland) (Miscellaneous Amendments) Regulations 2010 (S.S.I. 2010/219)](https://www.legislation.gov.uk/ssi/2010/219), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2010/219/regulation/1/2), [5(c)](https://www.legislation.gov.uk/ssi/2010/219/regulation/5/c), [sch. 2](https://www.legislation.gov.uk/ssi/2010/219/schedule/2)
 
 [^f01004]: Footnote: (e)
 
     For hybrids of rye. The presence of five ergots or fragments of ergot in a sample of seed of a hybrid of rye of the prescribed weight shall be deemed to be in conformity with required sample purity standards, where a second sample of the same weight contains not more than four ergots or fragments of ergot.
 
-[^key-0e8e3ff3ea7d35736c1018736bf32606]: Textual amendment: [Sch. 4 para. 17](https://www.legislation.gov.uk/ssi/2005/328/schedule/4/paragraph/17) substituted (1.7.2020) by [The Seed and Plant Material (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/165)](https://www.legislation.gov.uk/ssi/2020/165), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/165/regulation/1/1), [6(3)(b)](https://www.legislation.gov.uk/ssi/2020/165/regulation/6/3/b)
+[^c-0e8e3ff3ea7d35736c1018736bf32606]: Textual amendment: [Sch. 4 para. 17](https://www.legislation.gov.uk/ssi/2005/328/schedule/4/paragraph/17) substituted (1.7.2020) by [The Seed and Plant Material (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/165)](https://www.legislation.gov.uk/ssi/2020/165), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/165/regulation/1/1), [6(3)(b)](https://www.legislation.gov.uk/ssi/2020/165/regulation/6/3/b)
 
-[^key-c7593632a102e4b19e334d38b1f02928]: Textual amendment: Word in [sch. 4 para. 17(2)](https://www.legislation.gov.uk/ssi/2005/328/schedule/4/paragraph/17/2) substituted (31.12.2020) by [The Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/59)](https://www.legislation.gov.uk/ssi/2019/59), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/b), [13(22)(b)(i)](https://www.legislation.gov.uk/ssi/2019/59/regulation/13/22/b/i) (as substituted by [S.S.I. 2020/445](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(19)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/19)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c7593632a102e4b19e334d38b1f02928]: Textual amendment: Word in [sch. 4 para. 17(2)](https://www.legislation.gov.uk/ssi/2005/328/schedule/4/paragraph/17/2) substituted (31.12.2020) by [The Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/59)](https://www.legislation.gov.uk/ssi/2019/59), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/b), [13(22)(b)(i)](https://www.legislation.gov.uk/ssi/2019/59/regulation/13/22/b/i) (as substituted by [S.S.I. 2020/445](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(19)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/19)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-83246a294e3b7134938b05d98a5c351f]: Textual amendment: Word in [sch. 4 para. 17(2)](https://www.legislation.gov.uk/ssi/2005/328/schedule/4/paragraph/17/2) substituted (31.12.2020) by [The Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/59)](https://www.legislation.gov.uk/ssi/2019/59), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/b), [13(22)(b)(ii)](https://www.legislation.gov.uk/ssi/2019/59/regulation/13/22/b/ii) (as substituted by [S.S.I. 2020/445](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(19)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/19)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-83246a294e3b7134938b05d98a5c351f]: Textual amendment: Word in [sch. 4 para. 17(2)](https://www.legislation.gov.uk/ssi/2005/328/schedule/4/paragraph/17/2) substituted (31.12.2020) by [The Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/59)](https://www.legislation.gov.uk/ssi/2019/59), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/b), [13(22)(b)(ii)](https://www.legislation.gov.uk/ssi/2019/59/regulation/13/22/b/ii) (as substituted by [S.S.I. 2020/445](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(19)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/19)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-27f2d61ede5a53bd6f7a5184ef69c1ae]: Commencement: Sch. 4 para. 18 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/328/regulation/1/1)
+[^c-27f2d61ede5a53bd6f7a5184ef69c1ae]: Commencement: Sch. 4 para. 18 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/328/regulation/1/1)
 
-[^key-257574c939dcaca7611099c1da747d92]: Commencement: Sch. 4 para. 19 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/328/regulation/1/1)
+[^c-257574c939dcaca7611099c1da747d92]: Commencement: Sch. 4 para. 19 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/328/regulation/1/1)
 
-[^key-34b0e52ae5a52eff82b75c967b6e8426]: Commencement: Sch. 4 para. 20 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/328/regulation/1/1)
+[^c-34b0e52ae5a52eff82b75c967b6e8426]: Commencement: Sch. 4 para. 20 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/328/regulation/1/1)

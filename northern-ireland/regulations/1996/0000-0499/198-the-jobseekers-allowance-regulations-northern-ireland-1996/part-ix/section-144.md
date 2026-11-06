@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 144. Provision of information[^key-d73e4dff76e4cc232c30588178465de3]
+## 144. Provision of information[^c-d73e4dff76e4cc232c30588178465de3]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ For the purposes of paragraph 10(3) of Schedule 1 to the Order, a claimant shall
 
 ## Annotations
 
-[^key-d73e4dff76e4cc232c30588178465de3]: Commencement: Reg. 144 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-d73e4dff76e4cc232c30588178465de3]: Commencement: Reg. 144 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20. Power to direct special rule changes[^key-5491055176a24612c27dbf92fdcb1e3d][^key-318feb9dcb6fcfff562f819b4755e797]
+## 20. Power to direct special rule changes[^c-5491055176a24612c27dbf92fdcb1e3d][^c-318feb9dcb6fcfff562f819b4755e797]
 
 *Extent: S*
 
@@ -77,6 +77,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5491055176a24612c27dbf92fdcb1e3d]: Commencement: S. 20 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-5491055176a24612c27dbf92fdcb1e3d]: Commencement: S. 20 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-318feb9dcb6fcfff562f819b4755e797]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2025/8/section/20) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
+[^c-318feb9dcb6fcfff562f819b4755e797]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2025/8/section/20) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)

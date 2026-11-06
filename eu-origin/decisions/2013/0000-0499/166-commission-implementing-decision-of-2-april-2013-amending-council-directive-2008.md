@@ -39,16 +39,16 @@ amending Council Directive 2008/72/EC to extend the derogation relating to impor
 
 (2013/166/EU) (revoked)
 
-[^key-1fa4fb2cdfff2b9051f2a2c63cfc6673]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1fa4fb2cdfff2b9051f2a2c63cfc6673]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-1fa4fb2cdfff2b9051f2a2c63cfc6673] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-1fa4fb2cdfff2b9051f2a2c63cfc6673] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-1fa4fb2cdfff2b9051f2a2c63cfc6673] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-1fa4fb2cdfff2b9051f2a2c63cfc6673] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1fa4fb2cdfff2b9051f2a2c63cfc6673]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1fa4fb2cdfff2b9051f2a2c63cfc6673]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1fa4fb2cdfff2b9051f2a2c63cfc6673]: Textual amendment: Decision revoked (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/162)](https://www.legislation.gov.uk/uksi/2019/162), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2019/162/regulation/1/2/a), [Sch. para. 7A](https://www.legislation.gov.uk/uksi/2019/162/schedule/paragraph/7A) (as inserted by [S.I. 2019/1220](https://www.legislation.gov.uk/uksi/2019/1220), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/1/2/b), [10(a)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/10/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1fa4fb2cdfff2b9051f2a2c63cfc6673]: Textual amendment: Decision revoked (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/162)](https://www.legislation.gov.uk/uksi/2019/162), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2019/162/regulation/1/2/a), [Sch. para. 7A](https://www.legislation.gov.uk/uksi/2019/162/schedule/paragraph/7A) (as inserted by [S.I. 2019/1220](https://www.legislation.gov.uk/uksi/2019/1220), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/1/2/b), [10(a)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/10/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 180A. Section 180: further provision[^key-b5f684732d8c87bd6b7b69acbf221e0d]
+## 180A. Section 180: further provision[^c-b5f684732d8c87bd6b7b69acbf221e0d]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b5f684732d8c87bd6b7b69acbf221e0d]: Textual amendment: S. 180A inserted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 25(3)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/25/3), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
+[^c-b5f684732d8c87bd6b7b69acbf221e0d]: Textual amendment: S. 180A inserted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 25(3)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/25/3), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)

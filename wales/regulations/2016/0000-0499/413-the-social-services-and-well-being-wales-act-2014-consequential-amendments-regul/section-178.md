@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**178.**[^key-6a0cd69de6b54f31c173b236e2a5e2fd] After section 6(2)(b) of the Children (Leaving Care) Act 2000 (exclusion from benefits) insert—
+**178.**[^c-6a0cd69de6b54f31c173b236e2a5e2fd] After section 6(2)(b) of the Children (Leaving Care) Act 2000 (exclusion from benefits) insert—
 
 > - (ba) a category 1 young person within the meaning of section 104 of the Social Services and Well-being (Wales) Act 2014;
 > - (bb) a category 2 young person within the meaning of section 104 of the Social Services and Well-being (Wales) Act 2014;
@@ -27,4 +27,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6a0cd69de6b54f31c173b236e2a5e2fd]: Commencement: Reg. 178 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-6a0cd69de6b54f31c173b236e2a5e2fd]: Commencement: Reg. 178 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

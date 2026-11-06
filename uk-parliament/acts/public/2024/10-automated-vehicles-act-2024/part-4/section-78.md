@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Restriction of certain terms to authorised automated vehicles[^key-4c73e607e94f8e3424bd7b5b36a73551][^key-883f6786aee60c6e12ea33fe93dca96e]
+## 78. Restriction of certain terms to authorised automated vehicles[^c-4c73e607e94f8e3424bd7b5b36a73551][^c-883f6786aee60c6e12ea33fe93dca96e]
 
 *Extent: E+W+S*
 
@@ -68,6 +68,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4c73e607e94f8e3424bd7b5b36a73551]: Commencement: S. 78 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-4c73e607e94f8e3424bd7b5b36a73551]: Commencement: S. 78 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
 
-[^key-883f6786aee60c6e12ea33fe93dca96e]: Commencement: [S. 78](https://www.legislation.gov.uk/ukpga/2024/10/section/78) in force at 1.1.2026 for specified purposes by [S.I. 2025/1339](https://www.legislation.gov.uk/uksi/2025/1339), [reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2025/1339/regulation/2/2/a)
+[^c-883f6786aee60c6e12ea33fe93dca96e]: Commencement: [S. 78](https://www.legislation.gov.uk/ukpga/2024/10/section/78) in force at 1.1.2026 for specified purposes by [S.I. 2025/1339](https://www.legislation.gov.uk/uksi/2025/1339), [reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2025/1339/regulation/2/2/a)

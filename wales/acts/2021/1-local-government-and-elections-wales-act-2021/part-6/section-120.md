@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 120. “Relevant regulators” and “relevant functions”[^key-3d26d372593c5b3b1db16756d689ada5]
+## 120. “Relevant regulators” and “relevant functions”[^c-3d26d372593c5b3b1db16756d689ada5]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ TABLE 1
 
 ## Annotations
 
-[^key-3d26d372593c5b3b1db16756d689ada5]: Commencement: S. 120 in force at 1.4.2021 by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(c)](https://www.legislation.gov.uk/uksi/2021/297/article/2/c)
+[^c-3d26d372593c5b3b1db16756d689ada5]: Commencement: S. 120 in force at 1.4.2021 by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(c)](https://www.legislation.gov.uk/uksi/2021/297/article/2/c)

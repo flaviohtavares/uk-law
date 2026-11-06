@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 172. Calculation of periods of membership and service[^key-81224dc15e69f43cce353615570b35b2]
+## 172. Calculation of periods of membership and service[^c-81224dc15e69f43cce353615570b35b2]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ must be converted into years by dividing the number of days in excess of the per
 
 ## Annotations
 
-[^key-81224dc15e69f43cce353615570b35b2]: Commencement: [Reg. 172](https://www.legislation.gov.uk/ssi/2015/19/regulation/172) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-81224dc15e69f43cce353615570b35b2]: Commencement: [Reg. 172](https://www.legislation.gov.uk/ssi/2015/19/regulation/172) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

@@ -41,7 +41,7 @@ This is subject to paragraph (4).
 
 (5) In any case where a direction is given under regulation 2.J.7 for the forfeiture of a member’s benefits, this regulation applies as if the amount specified in the statement of entitlement were reduced by an amount equal to the value of the benefits forfeited, as determined by the Scheme actuary.
 
-(6) In respect of an applicant who falls within regulation 2.F.1(4)[^key-71f46ef1d6140b41dfe5d8df8fcb6c8a]—
+(6) In respect of an applicant who falls within regulation 2.F.1(4)[^c-71f46ef1d6140b41dfe5d8df8fcb6c8a]—
 
 - (a) in the case of an application that requires the guaranteed cash equivalent transfer value payment to be made to a registered occupational pension scheme or a registered personal pension scheme, an application under paragraph (1) may only be made if—
   - (i) the applicant became a member of that scheme not later than the end of the period of 12 months beginning with the day after the date on which the member ceased to be in the pensionable service in which the rights accrued (“the leaving date”), and
@@ -52,4 +52,4 @@ This is subject to paragraph (4).
 
 ## Annotations
 
-[^key-71f46ef1d6140b41dfe5d8df8fcb6c8a]: Textual amendment: Words in [reg. 2.F.4(6)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.F.4/6) substituted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [32](https://www.legislation.gov.uk/uksi/2015/96/regulation/32)
+[^c-71f46ef1d6140b41dfe5d8df8fcb6c8a]: Textual amendment: Words in [reg. 2.F.4(6)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.F.4/6) substituted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [32](https://www.legislation.gov.uk/uksi/2015/96/regulation/32)

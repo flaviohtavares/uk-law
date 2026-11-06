@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75ZC. Working jointly with the Public Services Ombudsman for Wales[^key-9d3bf71b0d87c19a838008a16c6e0a1f]
+## 75ZC. Working jointly with the Public Services Ombudsman for Wales[^c-9d3bf71b0d87c19a838008a16c6e0a1f]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ relates to or raises a matter which could be the subject of an investigation by 
 
 ## Annotations
 
-[^key-9d3bf71b0d87c19a838008a16c6e0a1f]: Textual amendment: [S. 75ZC](https://www.legislation.gov.uk/ukpga/2000/14/section/75ZC) inserted (23.7.2019) by [Public Services Ombudsman (Wales) Act 2019 (anaw 3)](https://www.legislation.gov.uk/anaw/2019/3), [s. 77(1)](https://www.legislation.gov.uk/anaw/2019/3/section/77/1), [Sch. 5 para. 2](https://www.legislation.gov.uk/anaw/2019/3/schedule/5/paragraph/2); [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)
+[^c-9d3bf71b0d87c19a838008a16c6e0a1f]: Textual amendment: [S. 75ZC](https://www.legislation.gov.uk/ukpga/2000/14/section/75ZC) inserted (23.7.2019) by [Public Services Ombudsman (Wales) Act 2019 (anaw 3)](https://www.legislation.gov.uk/anaw/2019/3), [s. 77(1)](https://www.legislation.gov.uk/anaw/2019/3/section/77/1), [Sch. 5 para. 2](https://www.legislation.gov.uk/anaw/2019/3/schedule/5/paragraph/2); [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)

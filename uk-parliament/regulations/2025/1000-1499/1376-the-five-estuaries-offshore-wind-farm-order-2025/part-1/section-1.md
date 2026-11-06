@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation and commencement[^key-99686d363da3280658b5083ced11949e]
+## 1. Citation and commencement[^c-99686d363da3280658b5083ced11949e]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Order may be cited as the Five Estuaries Offshore Wind Farm Order 2025 and 
 
 ## Annotations
 
-[^key-99686d363da3280658b5083ced11949e]: Commencement: Art. 1 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
+[^c-99686d363da3280658b5083ced11949e]: Commencement: Art. 1 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)

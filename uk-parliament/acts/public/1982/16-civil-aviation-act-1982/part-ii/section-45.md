@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Subject to subsection (2) below, the Secretary of State may by order impose such prohibitions or restrictions on the use of any area of land or water as a place for the arrival and departure of civil aircraft as he thinks expedient for the purpose of securing that aircraft may arrive and depart with safety at any aerodrome vested in him or under his control [^key-e460f87745bd91ec1e2c1d49d7c3df46]....
+(1) Subject to subsection (2) below, the Secretary of State may by order impose such prohibitions or restrictions on the use of any area of land or water as a place for the arrival and departure of civil aircraft as he thinks expedient for the purpose of securing that aircraft may arrive and depart with safety at any aerodrome vested in him or under his control [^c-e460f87745bd91ec1e2c1d49d7c3df46]....
 
 (2) Nothing in subsection (1) above shall authorise the imposition of any such prohibition or restriction in relation to tidal waters beyond those of the territorial waters adjacent to the United Kingdom.
 
@@ -43,7 +43,7 @@ summary: ''
 - (a) in England and Wales, except by or with the consent of the Secretary of State or by or with the consent of the Director of Public Prosecutions;
 - (b) in Northern Ireland, except by or with the consent of the Secretary of State or by the Attorney General for Northern Ireland;
 
-[^key-6ebc663ab8c610670d4a0340777bed17]...
+[^c-6ebc663ab8c610670d4a0340777bed17]...
 
 (8) In this section “**aerodrome**” includes part of an aerodrome; and, without prejudice to section 105(3) below, the reference in subsection (4) above to the Secretary of State shall, in relation to any time before the passing of this Act, have effect as a reference to whoever at that time was charged with exercising the functions which by virtue of this section are vested in the Secretary of State.
 
@@ -51,6 +51,6 @@ summary: ''
 
 [^c2536281]: Modification: Ss. 44–46 extended with modifications by [Airports Act 1986 (c. 31, SIF 9)](https://www.legislation.gov.uk/ukpga/1986/31), [s. 59(3)(4)](https://www.legislation.gov.uk/ukpga/1986/31/section/59/3/4)
 
-[^key-e460f87745bd91ec1e2c1d49d7c3df46]: Textual amendment: Words in s. 45(1) omitted (10.11.2011) by virtue of [The Airport Charges Regulations 2011 (S.I. 2011/2491)](https://www.legislation.gov.uk/uksi/2011/2491), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2491/regulation/1/1), [Sch. 2 para. 1(6)(a)](https://www.legislation.gov.uk/uksi/2011/2491/schedule/2/paragraph/1/6/a)
+[^c-e460f87745bd91ec1e2c1d49d7c3df46]: Textual amendment: Words in s. 45(1) omitted (10.11.2011) by virtue of [The Airport Charges Regulations 2011 (S.I. 2011/2491)](https://www.legislation.gov.uk/uksi/2011/2491), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2491/regulation/1/1), [Sch. 2 para. 1(6)(a)](https://www.legislation.gov.uk/uksi/2011/2491/schedule/2/paragraph/1/6/a)
 
-[^key-6ebc663ab8c610670d4a0340777bed17]: Textual amendment: Words in s. 45(7) omitted (10.11.2011) by virtue of [The Airport Charges Regulations 2011 (S.I. 2011/2491)](https://www.legislation.gov.uk/uksi/2011/2491), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2491/regulation/1/1), [Sch. 2 para. 1(6)(b)](https://www.legislation.gov.uk/uksi/2011/2491/schedule/2/paragraph/1/6/b)
+[^c-6ebc663ab8c610670d4a0340777bed17]: Textual amendment: Words in s. 45(7) omitted (10.11.2011) by virtue of [The Airport Charges Regulations 2011 (S.I. 2011/2491)](https://www.legislation.gov.uk/uksi/2011/2491), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2491/regulation/1/1), [Sch. 2 para. 1(6)(b)](https://www.legislation.gov.uk/uksi/2011/2491/schedule/2/paragraph/1/6/b)

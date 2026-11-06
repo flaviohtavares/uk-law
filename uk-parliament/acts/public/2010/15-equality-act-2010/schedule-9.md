@@ -41,7 +41,7 @@ Section 83
 - (e) section 49(3)(a) or (c) or (6)(b) or (c);
 - (f) section 50(3)(a) or (c) or (6)(b) or (c);
 - (g) section 51(1);
-- (h)[^key-140e8a72bcc995079bce517d716df800] section 60A(1).
+- (h)[^c-140e8a72bcc995079bce517d716df800] section 60A(1).
 
 (3) The references in sub-paragraph (1) to a requirement to have a protected characteristic are to be read—
 
@@ -64,7 +64,7 @@ Section 83
 - (b) section 49(3)(a) or (c) or (6)(b) or (c);
 - (c) section 50(3)(a) or (c) or (6)(b) or (c);
 - (d) section 51(1);
-- (e)[^key-7e4347ae6b6eab8ade3819cb587c9107] section 60A(1).
+- (e)[^c-7e4347ae6b6eab8ade3819cb587c9107] section 60A(1).
 
 (3) A person does not contravene section 53(1) or (2)(a) or (b) by applying in relation to a relevant qualification (within the meaning of that section) a requirement to which sub-paragraph (4) applies if the person shows that—
 
@@ -76,8 +76,8 @@ Section 83
 - (a) a requirement to be of a particular sex;
 - (b) a requirement not to be a transsexual person;
 - (c) a requirement not to be married or a civil partner;
-- (ca)[^key-cda066018cb70a7506ed83d67b311d5a] a requirement not to be married to, or the civil partner of,[^key-ef30d137cd45b3bb59e8b92e4ae166b4] a person of the same sex;
-- (cb)[^key-c8c6a920d053366bdb381ccc9ba04b84] a requirement not to be the civil partner of a person of the opposite sex;
+- (ca)[^c-cda066018cb70a7506ed83d67b311d5a] a requirement not to be married to, or the civil partner of,[^c-ef30d137cd45b3bb59e8b92e4ae166b4] a person of the same sex;
+- (cb)[^c-c8c6a920d053366bdb381ccc9ba04b84] a requirement not to be the civil partner of a person of the opposite sex;
 - (d) a requirement not to be married to, or the civil partner of, a person who has a living former spouse or civil partner;
 - (e) a requirement relating to circumstances in which a marriage or civil partnership came to an end;
 - (f) a requirement related to sexual orientation.
@@ -100,7 +100,7 @@ Section 83
 
 #### Armed forces
 
-**4.** (1) A person does not contravene section 39(1)(a) or (c) or (2)(b) or section 60A(1)[^key-02480280f375e7744d247ac358675650] by applying in relation to service in the armed forces a relevant requirement if the person shows that the application is a proportionate means of ensuring the combat effectiveness of the armed forces.
+**4.** (1) A person does not contravene section 39(1)(a) or (c) or (2)(b) or section 60A(1)[^c-02480280f375e7744d247ac358675650] by applying in relation to service in the armed forces a relevant requirement if the person shows that the application is a proportionate means of ensuring the combat effectiveness of the armed forces.
 
 (2) A relevant requirement is—
 
@@ -111,11 +111,11 @@ Section 83
 
 #### Employment services
 
-**5.** (1) A person (A) does not contravene section 55(1) or (2) or section 60A(1)[^key-3edea764348272fa8d9776adfccff52b] if A shows that A's treatment of another person relates only to work the offer of which could be refused to that other person in reliance on paragraph 1, 2, 3 or 4.
+**5.** (1) A person (A) does not contravene section 55(1) or (2) or section 60A(1)[^c-3edea764348272fa8d9776adfccff52b] if A shows that A's treatment of another person relates only to work the offer of which could be refused to that other person in reliance on paragraph 1, 2, 3 or 4.
 
-(2) A person (A) does not contravene section 55(1) or (2) or section 60A(1)[^key-2bccb4b34f890be7860aeda9e5ac965d] if A shows that A's treatment of another person relates only to training for work of a description mentioned in sub-paragraph (1).
+(2) A person (A) does not contravene section 55(1) or (2) or section 60A(1)[^c-2bccb4b34f890be7860aeda9e5ac965d] if A shows that A's treatment of another person relates only to training for work of a description mentioned in sub-paragraph (1).
 
-(3) A person (A) does not contravene section 55(1) or (2) or section 60A(1)[^key-f358a277668d7c13ea4dfb2d149c862f] if A shows that—
+(3) A person (A) does not contravene section 55(1) or (2) or section 60A(1)[^c-f358a277668d7c13ea4dfb2d149c862f] if A shows that—
 
 - (a) A acted in reliance on a statement made to A by a person with the power to offer the work in question to the effect that, by virtue of sub-paragraph (1) or (2), A's action would be lawful, and
 - (b) it was reasonable for A to rely on the statement.
@@ -310,12 +310,12 @@ Section 83
 
 #### Benefits dependent on marital status, etc.
 
-**18.** (1) A person does not contravene this Part of this Act, so far as relating to sexual orientation, by doing anything which prevents or restricts a person who is not within sub-paragraph (1A)[^key-483af54167c4c5279e7f862215e9c886] from having access to a benefit, facility or service—
+**18.** (1) A person does not contravene this Part of this Act, so far as relating to sexual orientation, by doing anything which prevents or restricts a person who is not within sub-paragraph (1A)[^c-483af54167c4c5279e7f862215e9c886] from having access to a benefit, facility or service—
 
 - (a) the right to which accrued before 5 December 2005 (the day on which section 1 of the Civil Partnership Act 2004 came into force), or
 - (b) which is payable in respect of periods of service before that date.
 
-(1A)[^key-f39738f8d6855b8ab0443b38c3a560b1] A person is within this sub-paragraph if the person is—
+(1A)[^c-f39738f8d6855b8ab0443b38c3a560b1] A person is within this sub-paragraph if the person is—
 
 - (a) a man who is married to a woman, or
 - (b) a woman who is married to a man, or
@@ -326,7 +326,7 @@ Section 83
 - (a) the married couple were of the opposite sex at the time of their marriage, and
 - (b) a full gender recognition certificate has been issued to one of the couple under the Gender Recognition Act 2004.
 
-(1C)[^key-21588aead8d1392849a6ef4a6bd10635] Sub-paragraph (1) does not apply in relation to access to a benefit payable under an occupational pension scheme to the surviving spouse or surviving civil partner of a deceased member or deceased pension credit member of the scheme.
+(1C)[^c-21588aead8d1392849a6ef4a6bd10635] Sub-paragraph (1) does not apply in relation to access to a benefit payable under an occupational pension scheme to the surviving spouse or surviving civil partner of a deceased member or deceased pension credit member of the scheme.
 
 (2) A person does not contravene this Part of this Act, so far as relating to sexual orientation, by providing married persons and civil partners (to the exclusion of all other persons) with access to a benefit, facility or service.
 
@@ -380,23 +380,23 @@ Section 83
 
 ## Annotations
 
-[^key-140e8a72bcc995079bce517d716df800]: Textual amendment: [Sch. 9 para. 1(2)(h)](https://www.legislation.gov.uk/ukpga/2010/15/schedule/9/paragraph/1/2/h) inserted (1.1.2024) by [The Equality Act 2010 (Amendment) Regulations 2023 (S.I. 2023/1425)](https://www.legislation.gov.uk/uksi/2023/1425), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1425/regulation/1/2), [4(6)(a)](https://www.legislation.gov.uk/uksi/2023/1425/regulation/4/6/a)
+[^c-140e8a72bcc995079bce517d716df800]: Textual amendment: [Sch. 9 para. 1(2)(h)](https://www.legislation.gov.uk/ukpga/2010/15/schedule/9/paragraph/1/2/h) inserted (1.1.2024) by [The Equality Act 2010 (Amendment) Regulations 2023 (S.I. 2023/1425)](https://www.legislation.gov.uk/uksi/2023/1425), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1425/regulation/1/2), [4(6)(a)](https://www.legislation.gov.uk/uksi/2023/1425/regulation/4/6/a)
 
-[^key-7e4347ae6b6eab8ade3819cb587c9107]: Textual amendment: [Sch. 9 para. 2(2)(e)](https://www.legislation.gov.uk/ukpga/2010/15/schedule/9/paragraph/2/2/e) inserted (1.1.2024) by [The Equality Act 2010 (Amendment) Regulations 2023 (S.I. 2023/1425)](https://www.legislation.gov.uk/uksi/2023/1425), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1425/regulation/1/2), [4(6)(b)](https://www.legislation.gov.uk/uksi/2023/1425/regulation/4/6/b)
+[^c-7e4347ae6b6eab8ade3819cb587c9107]: Textual amendment: [Sch. 9 para. 2(2)(e)](https://www.legislation.gov.uk/ukpga/2010/15/schedule/9/paragraph/2/2/e) inserted (1.1.2024) by [The Equality Act 2010 (Amendment) Regulations 2023 (S.I. 2023/1425)](https://www.legislation.gov.uk/uksi/2023/1425), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1425/regulation/1/2), [4(6)(b)](https://www.legislation.gov.uk/uksi/2023/1425/regulation/4/6/b)
 
-[^key-cda066018cb70a7506ed83d67b311d5a]: Textual amendment: Sch. 9 para. 2(4)(ca) inserted (13.3.2014) by [Marriage (Same Sex Couples) Act 2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30), [s. 21(3)](https://www.legislation.gov.uk/ukpga/2013/30/section/21/3), [Sch. 7 para. 45](https://www.legislation.gov.uk/ukpga/2013/30/schedule/7/paragraph/45); [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 3(k)(iv)](https://www.legislation.gov.uk/uksi/2014/93/article/3/k/iv)
+[^c-cda066018cb70a7506ed83d67b311d5a]: Textual amendment: Sch. 9 para. 2(4)(ca) inserted (13.3.2014) by [Marriage (Same Sex Couples) Act 2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30), [s. 21(3)](https://www.legislation.gov.uk/ukpga/2013/30/section/21/3), [Sch. 7 para. 45](https://www.legislation.gov.uk/ukpga/2013/30/schedule/7/paragraph/45); [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 3(k)(iv)](https://www.legislation.gov.uk/uksi/2014/93/article/3/k/iv)
 
-[^key-ef30d137cd45b3bb59e8b92e4ae166b4]: Textual amendment: Words in Sch. 9 para. 2(4)(ca) inserted (E.W.S.) (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [11(a)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/11/a)
+[^c-ef30d137cd45b3bb59e8b92e4ae166b4]: Textual amendment: Words in Sch. 9 para. 2(4)(ca) inserted (E.W.S.) (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [11(a)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/11/a)
 
-[^key-c8c6a920d053366bdb381ccc9ba04b84]: Textual amendment: Sch. 9 para. 2(4)(cb) inserted (E.W.S.) (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [11(b)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/11/b)
+[^c-c8c6a920d053366bdb381ccc9ba04b84]: Textual amendment: Sch. 9 para. 2(4)(cb) inserted (E.W.S.) (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [11(b)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/11/b)
 
-[^key-02480280f375e7744d247ac358675650]: Textual amendment: Words in [Sch. 9 para. 4(1)](https://www.legislation.gov.uk/ukpga/2010/15/schedule/9/paragraph/4/1) inserted (1.1.2024) by [The Equality Act 2010 (Amendment) Regulations 2023 (S.I. 2023/1425)](https://www.legislation.gov.uk/uksi/2023/1425), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1425/regulation/1/2), [4(6)(c)](https://www.legislation.gov.uk/uksi/2023/1425/regulation/4/6/c)
+[^c-02480280f375e7744d247ac358675650]: Textual amendment: Words in [Sch. 9 para. 4(1)](https://www.legislation.gov.uk/ukpga/2010/15/schedule/9/paragraph/4/1) inserted (1.1.2024) by [The Equality Act 2010 (Amendment) Regulations 2023 (S.I. 2023/1425)](https://www.legislation.gov.uk/uksi/2023/1425), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1425/regulation/1/2), [4(6)(c)](https://www.legislation.gov.uk/uksi/2023/1425/regulation/4/6/c)
 
-[^key-3edea764348272fa8d9776adfccff52b]: Textual amendment: Words in [Sch. 9 para. 5(1)](https://www.legislation.gov.uk/ukpga/2010/15/schedule/9/paragraph/5/1) inserted (1.1.2024) by [The Equality Act 2010 (Amendment) Regulations 2023 (S.I. 2023/1425)](https://www.legislation.gov.uk/uksi/2023/1425), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1425/regulation/1/2), [4(6)(d)](https://www.legislation.gov.uk/uksi/2023/1425/regulation/4/6/d)
+[^c-3edea764348272fa8d9776adfccff52b]: Textual amendment: Words in [Sch. 9 para. 5(1)](https://www.legislation.gov.uk/ukpga/2010/15/schedule/9/paragraph/5/1) inserted (1.1.2024) by [The Equality Act 2010 (Amendment) Regulations 2023 (S.I. 2023/1425)](https://www.legislation.gov.uk/uksi/2023/1425), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1425/regulation/1/2), [4(6)(d)](https://www.legislation.gov.uk/uksi/2023/1425/regulation/4/6/d)
 
-[^key-2bccb4b34f890be7860aeda9e5ac965d]: Textual amendment: Words in [Sch. 9 para. 5(2)](https://www.legislation.gov.uk/ukpga/2010/15/schedule/9/paragraph/5/2) inserted (1.1.2024) by [The Equality Act 2010 (Amendment) Regulations 2023 (S.I. 2023/1425)](https://www.legislation.gov.uk/uksi/2023/1425), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1425/regulation/1/2), [4(6)(d)](https://www.legislation.gov.uk/uksi/2023/1425/regulation/4/6/d)
+[^c-2bccb4b34f890be7860aeda9e5ac965d]: Textual amendment: Words in [Sch. 9 para. 5(2)](https://www.legislation.gov.uk/ukpga/2010/15/schedule/9/paragraph/5/2) inserted (1.1.2024) by [The Equality Act 2010 (Amendment) Regulations 2023 (S.I. 2023/1425)](https://www.legislation.gov.uk/uksi/2023/1425), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1425/regulation/1/2), [4(6)(d)](https://www.legislation.gov.uk/uksi/2023/1425/regulation/4/6/d)
 
-[^key-f358a277668d7c13ea4dfb2d149c862f]: Textual amendment: Words in [Sch. 9 para. 5(3)](https://www.legislation.gov.uk/ukpga/2010/15/schedule/9/paragraph/5/3) inserted (1.1.2024) by [The Equality Act 2010 (Amendment) Regulations 2023 (S.I. 2023/1425)](https://www.legislation.gov.uk/uksi/2023/1425), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1425/regulation/1/2), [4(6)(d)](https://www.legislation.gov.uk/uksi/2023/1425/regulation/4/6/d)
+[^c-f358a277668d7c13ea4dfb2d149c862f]: Textual amendment: Words in [Sch. 9 para. 5(3)](https://www.legislation.gov.uk/ukpga/2010/15/schedule/9/paragraph/5/3) inserted (1.1.2024) by [The Equality Act 2010 (Amendment) Regulations 2023 (S.I. 2023/1425)](https://www.legislation.gov.uk/uksi/2023/1425), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1425/regulation/1/2), [4(6)(d)](https://www.legislation.gov.uk/uksi/2023/1425/regulation/4/6/d)
 
 [^c21910361]: Textual amendment: [Sch. 9 para. 8](https://www.legislation.gov.uk/ukpga/2010/15/schedule/9/paragraph/8) omitted (6.4.2011) by virtue of [The Employment Equality (Repeal of Retirement Age Provisions) Regulations 2011 (S.I. 2011/1069)](https://www.legislation.gov.uk/uksi/2011/1069), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2011/1069/regulation/2/2) (with [regs. 5](https://www.legislation.gov.uk/uksi/2011/1069/regulation/5), [9](https://www.legislation.gov.uk/uksi/2011/1069/regulation/9))
 
@@ -408,8 +408,8 @@ Section 83
 
 [^c21154021]: Commencement: [Sch. 9 para. 16](https://www.legislation.gov.uk/ukpga/2010/15/schedule/9/paragraph/16) wholly in force; [para. 16](https://www.legislation.gov.uk/ukpga/2010/15/paragraph/16) not in force at Royal Assent see [s. 216](https://www.legislation.gov.uk/ukpga/2010/15/section/216); [para. 16](https://www.legislation.gov.uk/ukpga/2010/15/paragraph/16) in force for certain purposes at 6.7.2010 by [S.I. 2010/1736](https://www.legislation.gov.uk/uksi/2010/1736), [art. 2](https://www.legislation.gov.uk/uksi/2010/1736/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2010/1736/schedule); [Sch. 9](https://www.legislation.gov.uk/ukpga/2010/15/schedule/9) in force at 1.10.2010 in so far as not already in force by [S.I. 2010/2317](https://www.legislation.gov.uk/uksi/2010/2317), [art. 2(1)(5)(i)](https://www.legislation.gov.uk/uksi/2010/2317/article/2/1/5/i) (with [art. 15](https://www.legislation.gov.uk/uksi/2010/2317/article/15))
 
-[^key-483af54167c4c5279e7f862215e9c886]: Textual amendment: Words in [Sch. 9 para. 18(1)](https://www.legislation.gov.uk/ukpga/2010/15/schedule/9/paragraph/18/1) substituted (13.3.2014 for specified purposes) by [Marriage (Same Sex Couples) Act 2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30), [s. 21(3)](https://www.legislation.gov.uk/ukpga/2013/30/section/21/3), [Sch. 4 para. 17(2)](https://www.legislation.gov.uk/ukpga/2013/30/schedule/4/paragraph/17/2); [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 3(j)(iii)](https://www.legislation.gov.uk/uksi/2014/93/article/3/j/iii)
+[^c-483af54167c4c5279e7f862215e9c886]: Textual amendment: Words in [Sch. 9 para. 18(1)](https://www.legislation.gov.uk/ukpga/2010/15/schedule/9/paragraph/18/1) substituted (13.3.2014 for specified purposes) by [Marriage (Same Sex Couples) Act 2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30), [s. 21(3)](https://www.legislation.gov.uk/ukpga/2013/30/section/21/3), [Sch. 4 para. 17(2)](https://www.legislation.gov.uk/ukpga/2013/30/schedule/4/paragraph/17/2); [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 3(j)(iii)](https://www.legislation.gov.uk/uksi/2014/93/article/3/j/iii)
 
-[^key-f39738f8d6855b8ab0443b38c3a560b1]: Textual amendment: [Sch. 9 para. 18(1A)](https://www.legislation.gov.uk/ukpga/2010/15/schedule/9/paragraph/18/1A)[(1B)](https://www.legislation.gov.uk/ukpga/2010/15/schedule/9/paragraph/18/1B) inserted (13.3.2014 for specified purposes) by [Marriage (Same Sex Couples) Act 2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30), [s. 21(3)](https://www.legislation.gov.uk/ukpga/2013/30/section/21/3), [Sch. 4 para. 17(3)](https://www.legislation.gov.uk/ukpga/2013/30/schedule/4/paragraph/17/3); [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 3(j)(iii)](https://www.legislation.gov.uk/uksi/2014/93/article/3/j/iii)
+[^c-f39738f8d6855b8ab0443b38c3a560b1]: Textual amendment: [Sch. 9 para. 18(1A)](https://www.legislation.gov.uk/ukpga/2010/15/schedule/9/paragraph/18/1A)[(1B)](https://www.legislation.gov.uk/ukpga/2010/15/schedule/9/paragraph/18/1B) inserted (13.3.2014 for specified purposes) by [Marriage (Same Sex Couples) Act 2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30), [s. 21(3)](https://www.legislation.gov.uk/ukpga/2013/30/section/21/3), [Sch. 4 para. 17(3)](https://www.legislation.gov.uk/ukpga/2013/30/schedule/4/paragraph/17/3); [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 3(j)(iii)](https://www.legislation.gov.uk/uksi/2014/93/article/3/j/iii)
 
-[^key-21588aead8d1392849a6ef4a6bd10635]: Textual amendment: [Sch. 9 para. 18(1C)](https://www.legislation.gov.uk/ukpga/2010/15/schedule/9/paragraph/18/1C) inserted (coming into force in accordance with reg. 1(b) of the amending S.I.) by [The Pensions Act 2004 and the Equality Act 2010 (Amendment) (Equal Treatment by Occupational Pension Schemes) Regulations 2023 (S.I. 2023/1308)](https://www.legislation.gov.uk/uksi/2023/1308), [reg. 4](https://www.legislation.gov.uk/uksi/2023/1308/regulation/4)
+[^c-21588aead8d1392849a6ef4a6bd10635]: Textual amendment: [Sch. 9 para. 18(1C)](https://www.legislation.gov.uk/ukpga/2010/15/schedule/9/paragraph/18/1C) inserted (coming into force in accordance with reg. 1(b) of the amending S.I.) by [The Pensions Act 2004 and the Equality Act 2010 (Amendment) (Equal Treatment by Occupational Pension Schemes) Regulations 2023 (S.I. 2023/1308)](https://www.legislation.gov.uk/uksi/2023/1308), [reg. 4](https://www.legislation.gov.uk/uksi/2023/1308/regulation/4)

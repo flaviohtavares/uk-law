@@ -25,8 +25,8 @@ summary: ''
 (2) No person is permitted move any dung, manure, slurry or litter of susceptible animals from premises to which this article applies except—
 
 - (a) for disposal and under the authority of a licence granted by the National Assembly, or
-- (b)[^key-970e00a2c3c956fb23d0fb117d6da543] for treatment of such material from a slaughterhouse or border inspection post in accordance with Articles 15 and 32 of Regulation [(EC) No. 1069/2009](https://www.legislation.gov.uk/eur/2009/1069) and Articles 10 and 22 of and Section 2 of Chapter I of Annex XI to Regulation (EU) No. 142/2011 and under the authority of a licence granted by the National Assembly.
+- (b)[^c-970e00a2c3c956fb23d0fb117d6da543] for treatment of such material from a slaughterhouse or border inspection post in accordance with Articles 15 and 32 of Regulation [(EC) No. 1069/2009](https://www.legislation.gov.uk/eur/2009/1069) and Articles 10 and 22 of and Section 2 of Chapter I of Annex XI to Regulation (EU) No. 142/2011 and under the authority of a licence granted by the National Assembly.
 
 ## Annotations
 
-[^key-970e00a2c3c956fb23d0fb117d6da543]: Textual amendment: [Art. 26(2)(b)](https://www.legislation.gov.uk/wsi/2006/179/article/26/2/b) substituted (28.3.2014) by [The Animal By-Products (Enforcement) (Wales) Regulations 2014 (S.I. 2014/517)](https://www.legislation.gov.uk/wsi/2014/517), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/3), [Sch. 2 para. 1(3)](https://www.legislation.gov.uk/wsi/2014/517/schedule/2/paragraph/1/3)
+[^c-970e00a2c3c956fb23d0fb117d6da543]: Textual amendment: [Art. 26(2)(b)](https://www.legislation.gov.uk/wsi/2006/179/article/26/2/b) substituted (28.3.2014) by [The Animal By-Products (Enforcement) (Wales) Regulations 2014 (S.I. 2014/517)](https://www.legislation.gov.uk/wsi/2014/517), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/3), [Sch. 2 para. 1(3)](https://www.legislation.gov.uk/wsi/2014/517/schedule/2/paragraph/1/3)

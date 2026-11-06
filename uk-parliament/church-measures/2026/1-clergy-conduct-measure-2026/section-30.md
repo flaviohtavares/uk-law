@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 30. Vicar-General’s court[^key-97a114a1e6c64e30df47e78f4aa8f739]
+## 30. Vicar-General’s court[^c-97a114a1e6c64e30df47e78f4aa8f739]
 
 *Extent: E*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-97a114a1e6c64e30df47e78f4aa8f739]: Commencement: S. 30 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)
+[^c-97a114a1e6c64e30df47e78f4aa8f739]: Commencement: S. 30 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)

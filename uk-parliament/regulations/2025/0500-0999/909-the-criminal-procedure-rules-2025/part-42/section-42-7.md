@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42.7. Determination by full court[^key-303c1553e84ce32459ddf395a342c077]
+## 42.7. Determination by full court[^c-303c1553e84ce32459ddf395a342c077]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Rule 36.5 (Renewing an application refused by a judge or the Registrar) applies 
 
 ## Annotations
 
-[^key-303c1553e84ce32459ddf395a342c077]: Commencement: [Rule 42.7](https://www.legislation.gov.uk/uksi/2025/909/rule/42.7) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-303c1553e84ce32459ddf395a342c077]: Commencement: [Rule 42.7](https://www.legislation.gov.uk/uksi/2025/909/rule/42.7) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

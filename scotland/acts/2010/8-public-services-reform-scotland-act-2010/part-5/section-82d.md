@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 82D. Review of duty on care service providers to ensure appropriate staffing[^key-440884fe6be680c50f1f7f641b74c8f9]
+## 82D. Review of duty on care service providers to ensure appropriate staffing[^c-440884fe6be680c50f1f7f641b74c8f9]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-440884fe6be680c50f1f7f641b74c8f9]: Textual amendment: [Pt. 5 Ch. 3A](https://www.legislation.gov.uk/asp/2010/8/part/5/chapter/3A) inserted (1.4.2024) by [Health and Care (Staffing) (Scotland) Act 2019 (asp 6)](https://www.legislation.gov.uk/asp/2019/6), [ss. 12(2)](https://www.legislation.gov.uk/asp/2019/6/section/12/2), [15(2)](https://www.legislation.gov.uk/asp/2019/6/section/15/2); [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2) (as amended by [The Health and Care (Staffing) (Scotland) Act 2019 Amendment Regulations 2023 (S.S.I. 2023/127)](https://www.legislation.gov.uk/ssi/2023/127), [regs. 1](https://www.legislation.gov.uk/ssi/2023/127/regulation/1), [3(4)](https://www.legislation.gov.uk/ssi/2023/127/regulation/3/4))
+[^c-440884fe6be680c50f1f7f641b74c8f9]: Textual amendment: [Pt. 5 Ch. 3A](https://www.legislation.gov.uk/asp/2010/8/part/5/chapter/3A) inserted (1.4.2024) by [Health and Care (Staffing) (Scotland) Act 2019 (asp 6)](https://www.legislation.gov.uk/asp/2019/6), [ss. 12(2)](https://www.legislation.gov.uk/asp/2019/6/section/12/2), [15(2)](https://www.legislation.gov.uk/asp/2019/6/section/15/2); [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2) (as amended by [The Health and Care (Staffing) (Scotland) Act 2019 Amendment Regulations 2023 (S.S.I. 2023/127)](https://www.legislation.gov.uk/ssi/2023/127), [regs. 1](https://www.legislation.gov.uk/ssi/2023/127/regulation/1), [3(4)](https://www.legislation.gov.uk/ssi/2023/127/regulation/3/4))

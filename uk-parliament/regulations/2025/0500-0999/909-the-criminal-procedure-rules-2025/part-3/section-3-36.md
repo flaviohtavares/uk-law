@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.36. Content of application for a live link direction[^key-6ff13c6eb6c73af488e5eef3c513076b]
+## 3.36. Content of application for a live link direction[^c-6ff13c6eb6c73af488e5eef3c513076b]
 
 *Extent: E+W*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6ff13c6eb6c73af488e5eef3c513076b]: Commencement: [Rule 3.36](https://www.legislation.gov.uk/uksi/2025/909/rule/3.36) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-6ff13c6eb6c73af488e5eef3c513076b]: Commencement: [Rule 3.36](https://www.legislation.gov.uk/uksi/2025/909/rule/3.36) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

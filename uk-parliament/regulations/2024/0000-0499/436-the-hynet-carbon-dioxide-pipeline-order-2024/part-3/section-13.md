@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 13. Temporary restriction of public rights of way[^key-562a13deee1bede064d7c579c3c074ef]
+## 13. Temporary restriction of public rights of way[^c-562a13deee1bede064d7c579c3c074ef]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-562a13deee1bede064d7c579c3c074ef]: Commencement: Art. 13 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)
+[^c-562a13deee1bede064d7c579c3c074ef]: Commencement: Art. 13 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)

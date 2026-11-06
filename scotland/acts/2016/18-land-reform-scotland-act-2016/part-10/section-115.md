@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 115. Objection by landlord[^key-a5de31ea2db51b273c400085c7e9ea1a]
+## 115. Objection by landlord[^c-a5de31ea2db51b273c400085c7e9ea1a]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a5de31ea2db51b273c400085c7e9ea1a]: Commencement: [S. 115](https://www.legislation.gov.uk/asp/2016/18/section/115) in force at 13.6.2017 by [S.S.I. 2017/20](https://www.legislation.gov.uk/ssi/2017/20), [reg. 2](https://www.legislation.gov.uk/ssi/2017/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/20/schedule)
+[^c-a5de31ea2db51b273c400085c7e9ea1a]: Commencement: [S. 115](https://www.legislation.gov.uk/asp/2016/18/section/115) in force at 13.6.2017 by [S.S.I. 2017/20](https://www.legislation.gov.uk/ssi/2017/20), [reg. 2](https://www.legislation.gov.uk/ssi/2017/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/20/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 59. Remote attendance at meetings of principal councils[^key-cfabceacee7cc58d1f047d0103aaf19c]
+## 59. Remote attendance at meetings of principal councils[^c-cfabceacee7cc58d1f047d0103aaf19c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cfabceacee7cc58d1f047d0103aaf19c]: Textual amendment: S. 59 omitted (1.5.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7), [Sch. 4 para. 23(3)](https://www.legislation.gov.uk/asc/2021/1/schedule/4/paragraph/23/3); [S.I. 2021/354](https://www.legislation.gov.uk/wsi/2021/354), [reg. 2(c)](https://www.legislation.gov.uk/wsi/2021/354/regulation/2/c)
+[^c-cfabceacee7cc58d1f047d0103aaf19c]: Textual amendment: S. 59 omitted (1.5.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7), [Sch. 4 para. 23(3)](https://www.legislation.gov.uk/asc/2021/1/schedule/4/paragraph/23/3); [S.I. 2021/354](https://www.legislation.gov.uk/wsi/2021/354), [reg. 2(c)](https://www.legislation.gov.uk/wsi/2021/354/regulation/2/c)

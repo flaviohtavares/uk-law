@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 217. Costs of proceedings under section 236 of the IA 1986[^key-919d0871693f133ccae0859bd81f5665]
+## 217. Costs of proceedings under section 236 of the IA 1986[^c-919d0871693f133ccae0859bd81f5665]
 
 *Extent: E+W*
 
@@ -35,6 +35,6 @@ the costs of the application for the order may be ordered by the court to be pai
 
 ## Annotations
 
-[^key-919d0871693f133ccae0859bd81f5665]: Commencement: Rule 217 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-919d0871693f133ccae0859bd81f5665]: Commencement: Rule 217 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
 
 [^f00022]: Footnote: Section 237 was amended by Banking Act [2009 (c. 1)](https://www.legislation.gov.uk/ukpga/2009/1), [S.I. 2011/245](https://www.legislation.gov.uk/uksi/2011/245), [S.I. 2013/1388](https://www.legislation.gov.uk/uksi/2013/1388) and the Financial Services (Banking Reform) Act [2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33). There are other amending instruments but none is relevant.

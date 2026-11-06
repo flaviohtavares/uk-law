@@ -31,7 +31,7 @@ summary: ''
 
 Public Records
 
-The Public Record Office (Fees) Regulations 2012 (revoked)[^key-c5674e4a9fd805ff2f202a4248b28ca7]
+The Public Record Office (Fees) Regulations 2012 (revoked)[^c-c5674e4a9fd805ff2f202a4248b28ca7]
 
 Made
 
@@ -41,27 +41,27 @@ Coming into force
 
 30th July 2012
 
-[^key-c5674e4a9fd805ff2f202a4248b28ca7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c5674e4a9fd805ff2f202a4248b28ca7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-c5674e4a9fd805ff2f202a4248b28ca7]
+## 1. Citation and commencement[^c-c5674e4a9fd805ff2f202a4248b28ca7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Fees[^key-c5674e4a9fd805ff2f202a4248b28ca7]
+## 2. Fees[^c-c5674e4a9fd805ff2f202a4248b28ca7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-c5674e4a9fd805ff2f202a4248b28ca7]
+## 3. Revocation[^c-c5674e4a9fd805ff2f202a4248b28ca7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c5674e4a9fd805ff2f202a4248b28ca7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c5674e4a9fd805ff2f202a4248b28ca7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-c5674e4a9fd805ff2f202a4248b28ca7]
+## SCHEDULE[^c-c5674e4a9fd805ff2f202a4248b28ca7]
 
 Regulation 2
 
@@ -69,8 +69,8 @@ Regulation 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-c5674e4a9fd805ff2f202a4248b28ca7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c5674e4a9fd805ff2f202a4248b28ca7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c5674e4a9fd805ff2f202a4248b28ca7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2012/1665) revoked (1.4.2014) by [The Public Record Office (Fees) Regulations 2013 (S.I. 2013/3267)](https://www.legislation.gov.uk/uksi/2013/3267), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3267/regulation/1), [3](https://www.legislation.gov.uk/uksi/2013/3267/regulation/3)
+[^c-c5674e4a9fd805ff2f202a4248b28ca7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2012/1665) revoked (1.4.2014) by [The Public Record Office (Fees) Regulations 2013 (S.I. 2013/3267)](https://www.legislation.gov.uk/uksi/2013/3267), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3267/regulation/1), [3](https://www.legislation.gov.uk/uksi/2013/3267/regulation/3)

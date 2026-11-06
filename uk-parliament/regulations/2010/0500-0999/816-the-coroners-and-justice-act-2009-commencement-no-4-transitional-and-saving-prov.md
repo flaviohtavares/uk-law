@@ -59,19 +59,19 @@ Made
 
 The Lord Chancellor and Secretary of State in exercise of the powers conferred, respectively, by section 182(4) and section 182(5) of the Coroners and Justice Act 2009[^f00001], and by section 176(3) of that Act, makes the following Order:
 
-## 1. Citation and interpretation[^key-47e9c0dd0a948e37e781f1511b4aabff]
+## 1. Citation and interpretation[^c-47e9c0dd0a948e37e781f1511b4aabff]
 
 (1) This Order may be cited as the Coroners and Justice Act 2009 (Commencement No. 4, Transitional and Saving Provisions) Order 2010.
 
 (2) In this Order, “the 2009 Act” means the Coroners and Justice Act 2009.
 
-## 2. Provisions coming into force on 6th April 2010[^key-545260695ae40b35aa423179407db8ff]
+## 2. Provisions coming into force on 6th April 2010[^c-545260695ae40b35aa423179407db8ff]
 
 The provisions of the 2009 Act specified in the Schedule shall come into force on 6th April 2010.
 
-**3.**[^key-360509abae6130dfced054ece07b6c7b] Sections 74 to 83 and 85 of the 2009 Act (anonymity in investigations) shall come into force on 6th April 2010 in England and Wales.
+**3.**[^c-360509abae6130dfced054ece07b6c7b] Sections 74 to 83 and 85 of the 2009 Act (anonymity in investigations) shall come into force on 6th April 2010 in England and Wales.
 
-**4.**[^key-63d9c07a57a929c9a8c07fd6c48205c0] (1) The following provisions of the 2009 Act shall come into force on 6th April 2010 in the relevant local justice areas[^f00002]—
+**4.**[^c-63d9c07a57a929c9a8c07fd6c48205c0] (1) The following provisions of the 2009 Act shall come into force on 6th April 2010 in the relevant local justice areas[^f00002]—
 
 - (a) section 178 (repeals), so far as it relates to the provisions specified in sub-paragraph (b); and
 - (b) in Part 3 of Schedule 23 (criminal evidence and procedure), the repeals relating to the Police and Criminal Evidence Act 1984[^f00003] and section 57C of the Crime and Disorder Act 1998[^f00004].
@@ -81,7 +81,7 @@ The provisions of the 2009 Act specified in the Schedule shall come into force o
 - (a) in London: Barking and Dagenham; Barnet; Bexley; Brent; Bromley; Camden and Islington; City of London; City of Westminster; Croydon; Ealing; Enfield; Greenwich and Lewisham; Hackney and Tower Hamlets; Hammersmith and Fulham and Kensington and Chelsea; Haringey; Harrow Gore; Havering; Hillingdon; Hounslow; Kingston-upon-Thames; Lambeth and Southwark; Merton; Newham; Redbridge; Richmond-upon-Thames; Sutton; Waltham Forest; and Wandsworth; and
 - (b) in Kent: Central Kent; East Kent; and North Kent.
 
-## 5. Provisions coming into force on 4th October 2010[^key-9c8d21d510e2a5a7a9a698867e5f2549]
+## 5. Provisions coming into force on 4th October 2010[^c-9c8d21d510e2a5a7a9a698867e5f2549]
 
 The following provisions of the 2009 Act shall come into force on 4th October 2010—
 
@@ -95,16 +95,16 @@ The following provisions of the 2009 Act shall come into force on 4th October 20
   - (i) the Homicide Act 1957[^f00005]; and
   - (ii) the Criminal Justice Act 2003[^f00006].
 
-**6.**[^key-681e8568e69ced7d3a94549a72052deb] The following provisions of the 2009 Act shall come into force on 4th October 2010 in England and Wales—
+**6.**[^c-681e8568e69ced7d3a94549a72052deb] The following provisions of the 2009 Act shall come into force on 4th October 2010 in England and Wales—
 
 - (a) sections 54 and 55 (partial defence to murder: loss of control); and
 - (b) section 56(1) (abolition of common law defence of provocation).
 
-## 7. Transitional and saving provisions[^key-3686cd769f62e54e24ac71172baaa6a3]
+## 7. Transitional and saving provisions[^c-3686cd769f62e54e24ac71172baaa6a3]
 
 (1) Existing guidelines which have effect immediately before the coming into force, by virtue of article 2 and paragraph 8 of the Schedule, of section 125(1) of the 2009 Act (sentencing guidelines: duty of court) are to be treated as guidelines issued by the Sentencing Council for England and Wales under section 120 of the 2009 Act (sentencing guidelines).
 
-(2) The repeal of section 172 of the Criminal Justice Act 2003 (duty of court to have regard to sentencing guidelines), which takes effect by virtue of article 2 and paragraph 22(b)(iv) of the Schedule, shall have no effect where a court is sentencing an offender for, or exercising any other function relating to the sentencing of offenders in respect of, an offence committed before 6th April 2010 ; and for these purposes “guidelines” in section 172(2) shall be treated as including definitive sentencing guidelines within the meaning of section 136 of the 2009 Act.[^key-9b19e6d812ef77cc82c640d211473480]
+(2) The repeal of section 172 of the Criminal Justice Act 2003 (duty of court to have regard to sentencing guidelines), which takes effect by virtue of article 2 and paragraph 22(b)(iv) of the Schedule, shall have no effect where a court is sentencing an offender for, or exercising any other function relating to the sentencing of offenders in respect of, an offence committed before 6th April 2010 ; and for these purposes “guidelines” in section 172(2) shall be treated as including definitive sentencing guidelines within the meaning of section 136 of the 2009 Act.[^c-9b19e6d812ef77cc82c640d211473480]
 
 (3) The amendments to section 174 of the Criminal Justice Act 2003 (duty to give reasons for, and explain effect of, sentence), which take effect by virtue of article 2 and paragraph 20(b) of the Schedule, shall have no effect in relation to the sentencing of any offender for an offence committed before 6th April 2010.
 
@@ -126,53 +126,53 @@ Ministry of Justice
 
 Article 2
 
-**1.**[^key-8ff9e0b2241e8db068f3f04472553a47] Sections 62 to 68 (prohibited images of children).
+**1.**[^c-8ff9e0b2241e8db068f3f04472553a47] Sections 62 to 68 (prohibited images of children).
 
-**2.**[^key-92fcd8200e3e286e75fdbe6d88d21dde] Section 69 (indecent pseudo-photographs of children: marriage etc).
+**2.**[^c-92fcd8200e3e286e75fdbe6d88d21dde] Section 69 (indecent pseudo-photographs of children: marriage etc).
 
-**3.**[^key-1d1276cddcb9c216c7f9ceba0539ab3d] Section 70 (genocide, crimes against humanity and war crimes).
+**3.**[^c-1d1276cddcb9c216c7f9ceba0539ab3d] Section 70 (genocide, crimes against humanity and war crimes).
 
-**4.**[^key-d49795e743ca65bbf0ecc35fdbf22e25] Section 71 (slavery, servitude and forced or compulsory labour).
+**4.**[^c-d49795e743ca65bbf0ecc35fdbf22e25] Section 71 (slavery, servitude and forced or compulsory labour).
 
-**5.**[^key-a6389790e693ea52433ea9719a6b6031] Section 84 (anonymity in investigations: application to armed forces).
+**5.**[^c-a6389790e693ea52433ea9719a6b6031] Section 84 (anonymity in investigations: application to armed forces).
 
-**6.**[^key-39ba177387278c2df54df8ffd632c1aa] Section 113 (powers in respect of offenders who assist investigations and prosecutions).
+**6.**[^c-39ba177387278c2df54df8ffd632c1aa] Section 113 (powers in respect of offenders who assist investigations and prosecutions).
 
-**7.**[^key-88f22d3686f10c95d6e27bb417905293] Section 118 (Sentencing Council for England and Wales), so far as it is not already in force.
+**7.**[^c-88f22d3686f10c95d6e27bb417905293] Section 118 (Sentencing Council for England and Wales), so far as it is not already in force.
 
-**8.**[^key-2bbb32a351c03f6e02dc680d08b09edd] Sections 119 to 136 (remaining provisions regarding Sentencing Council for England and Wales).
+**8.**[^c-2bbb32a351c03f6e02dc680d08b09edd] Sections 119 to 136 (remaining provisions regarding Sentencing Council for England and Wales).
 
-**9.**[^key-6a7b47a2b5e23a66eef17b14d0ad002b] Section 146 (retention of knives surrendered or seized (England and Wales)).
+**9.**[^c-6a7b47a2b5e23a66eef17b14d0ad002b] Section 146 (retention of knives surrendered or seized (England and Wales)).
 
-**10.**[^key-7312cbf98814834cf8a4dc4d9f66ad0c] Section 147 (retention of knives surrendered or seized (Northern Ireland)).
+**10.**[^c-7312cbf98814834cf8a4dc4d9f66ad0c] Section 147 (retention of knives surrendered or seized (Northern Ireland)).
 
-**11.**[^key-88faa66e14d9111f2532a786622ebb87] Sections 155 to 172 (criminal memoirs etc).
+**11.**[^c-88faa66e14d9111f2532a786622ebb87] Sections 155 to 172 (criminal memoirs etc).
 
-**12.**[^key-61d205b703f00f98b322682db36c1685] Section 173 (assessment notices), so far as it is not already in force.
+**12.**[^c-61d205b703f00f98b322682db36c1685] Section 173 (assessment notices), so far as it is not already in force.
 
-**13.**[^key-28c0e014f15596694c76f553124cd3e0] Section 175 (further amendments of the Data Protection Act 1998), so far as it relates to the provisions specified in paragraph 19.
+**13.**[^c-28c0e014f15596694c76f553124cd3e0] Section 175 (further amendments of the Data Protection Act 1998), so far as it relates to the provisions specified in paragraph 19.
 
-**14.**[^key-82f3b0a252865db0a28dcb11f6c78e06] In section 177 (consequential etc amendments and transitional and saving provisions)—
+**14.**[^c-82f3b0a252865db0a28dcb11f6c78e06] In section 177 (consequential etc amendments and transitional and saving provisions)—
 
 - (a) subsection (1) (minor and consequential amendments), so far as it relates to the provisions specified in paragraph 20; and
 - (b) subsection (2) (transitional, transitory and saving provisions), so far as it relates to the provisions specified in paragraph 21.
 
-**15.**[^key-046f63f387610f867a8c2870816e262e] Section 178 (repeals), so far as it relates to the provisions specified in paragraph 22.
+**15.**[^c-046f63f387610f867a8c2870816e262e] Section 178 (repeals), so far as it relates to the provisions specified in paragraph 22.
 
-**16.**[^key-56d8af6085c78f80c2e08e905de2abfa] Schedule 13 (prohibited images: providers of information society services).
+**16.**[^c-56d8af6085c78f80c2e08e905de2abfa] Schedule 13 (prohibited images: providers of information society services).
 
-**17.**[^key-b39c4530157d35b40e18e0ddca45967f] Schedule 15 (the Sentencing Council for England and Wales), so far as it is not already in force.
+**17.**[^c-b39c4530157d35b40e18e0ddca45967f] Schedule 15 (the Sentencing Council for England and Wales), so far as it is not already in force.
 
-**18.**[^key-86fc057598e1dc3c915d3124f1da5c1e] Schedule 19 (exploitation proceeds investigations).
+**18.**[^c-86fc057598e1dc3c915d3124f1da5c1e] Schedule 19 (exploitation proceeds investigations).
 
-**19.**[^key-13bcbb61c89a12f55b2b171065617a53] In Schedule 20 (amendments of the Data Protection Act 1998), paragraphs 5 to 14 (amendments other than those relating to data controllers’ registration).
+**19.**[^c-13bcbb61c89a12f55b2b171065617a53] In Schedule 20 (amendments of the Data Protection Act 1998), paragraphs 5 to 14 (amendments other than those relating to data controllers’ registration).
 
-**20.**[^key-0a1431ebbe30d951a32f1c29a1a630f2] In Schedule 21 (minor and consequential amendments)—
+**20.**[^c-0a1431ebbe30d951a32f1c29a1a630f2] In Schedule 21 (minor and consequential amendments)—
 
 - (a) paragraph 62 (so far as it is not already in force) and paragraphs 63 and 64 (prohibited images of children); and
 - (b) paragraphs 79 to 89 (Sentencing Council for England and Wales).
 
-**21.**[^key-aa38333cc8e6bb5e57e70add09cddab0] In Schedule 22 (transitional, transitory and saving provisions)—
+**21.**[^c-aa38333cc8e6bb5e57e70add09cddab0] In Schedule 22 (transitional, transitory and saving provisions)—
 
 - (a) paragraph 12 (prohibited images of children);
 - (b) paragraph 13 (slavery, servitude and forced or compulsory labour);
@@ -182,7 +182,7 @@ Article 2
 - (f) paragraph 45 (criminal memoirs etc); and
 - (g) paragraph 46 (assessment notices).
 
-**22.**[^key-75ffa95a56dbf1ea3f9f6c0677fbd69c] In Schedule 23 (repeals) —
+**22.**[^c-75ffa95a56dbf1ea3f9f6c0677fbd69c] In Schedule 23 (repeals) —
 
 - (a) in Part 3 (criminal evidence and procedure), the repeals relating to:
   - (i) sections 57D and 57E of the Crime and Disorder Act 1998[^f00007]; and
@@ -255,13 +255,13 @@ The following provisions of the 2009 Act have been brought into force by commenc
 
 [^f00001]: Footnote: [2009 c. 25](https://www.legislation.gov.uk/ukpga/2009/25).
 
-[^key-47e9c0dd0a948e37e781f1511b4aabff]: Commencement: Art. 1 in force at made date
+[^c-47e9c0dd0a948e37e781f1511b4aabff]: Commencement: Art. 1 in force at made date
 
-[^key-545260695ae40b35aa423179407db8ff]: Commencement: Art. 2 in force at made date
+[^c-545260695ae40b35aa423179407db8ff]: Commencement: Art. 2 in force at made date
 
-[^key-360509abae6130dfced054ece07b6c7b]: Commencement: Art. 3 in force at made date
+[^c-360509abae6130dfced054ece07b6c7b]: Commencement: Art. 3 in force at made date
 
-[^key-63d9c07a57a929c9a8c07fd6c48205c0]: Commencement: Art. 4 in force at made date
+[^c-63d9c07a57a929c9a8c07fd6c48205c0]: Commencement: Art. 4 in force at made date
 
 [^f00002]: Footnote: The local justice areas into which England and Wales is divided are specified in the Local Justice Areas Order 2005 ([S.I. 2005/554](https://www.legislation.gov.uk/uksi/2005/554)).
 
@@ -269,61 +269,61 @@ The following provisions of the 2009 Act have been brought into force by commenc
 
 [^f00004]: Footnote: [1998 c. 37](https://www.legislation.gov.uk/ukpga/1998/37).
 
-[^key-9c8d21d510e2a5a7a9a698867e5f2549]: Commencement: Art. 5 in force at made date
+[^c-9c8d21d510e2a5a7a9a698867e5f2549]: Commencement: Art. 5 in force at made date
 
 [^f00005]: Footnote: [1957 c. 11](https://www.legislation.gov.uk/ukpga/1957/11).
 
 [^f00006]: Footnote: [2003 c. 44](https://www.legislation.gov.uk/ukpga/2003/44).
 
-[^key-681e8568e69ced7d3a94549a72052deb]: Commencement: Art. 6 in force at made date
+[^c-681e8568e69ced7d3a94549a72052deb]: Commencement: Art. 6 in force at made date
 
-[^key-3686cd769f62e54e24ac71172baaa6a3]: Commencement: Art. 7 in force at made date
+[^c-3686cd769f62e54e24ac71172baaa6a3]: Commencement: Art. 7 in force at made date
 
-[^key-9b19e6d812ef77cc82c640d211473480]: Textual amendment: Words in [art. 7(2)](https://www.legislation.gov.uk/uksi/2010/816/article/7/2) inserted (11.3.2011) by [The Coroners and Justice Act 2009 (Commencement No. 4, Transitional and Saving Provisions) (Amendment) Order 2011 (S.I. 2011/722)](https://www.legislation.gov.uk/uksi/2011/722), [arts. 1](https://www.legislation.gov.uk/uksi/2011/722/article/1), [2](https://www.legislation.gov.uk/uksi/2011/722/article/2)
+[^c-9b19e6d812ef77cc82c640d211473480]: Textual amendment: Words in [art. 7(2)](https://www.legislation.gov.uk/uksi/2010/816/article/7/2) inserted (11.3.2011) by [The Coroners and Justice Act 2009 (Commencement No. 4, Transitional and Saving Provisions) (Amendment) Order 2011 (S.I. 2011/722)](https://www.legislation.gov.uk/uksi/2011/722), [arts. 1](https://www.legislation.gov.uk/uksi/2011/722/article/1), [2](https://www.legislation.gov.uk/uksi/2011/722/article/2)
 
-[^key-8ff9e0b2241e8db068f3f04472553a47]: Commencement: Sch. para. 1 in force at made date
+[^c-8ff9e0b2241e8db068f3f04472553a47]: Commencement: Sch. para. 1 in force at made date
 
-[^key-92fcd8200e3e286e75fdbe6d88d21dde]: Commencement: Sch. para. 2 in force at made date
+[^c-92fcd8200e3e286e75fdbe6d88d21dde]: Commencement: Sch. para. 2 in force at made date
 
-[^key-1d1276cddcb9c216c7f9ceba0539ab3d]: Commencement: Sch. para. 3 in force at made date
+[^c-1d1276cddcb9c216c7f9ceba0539ab3d]: Commencement: Sch. para. 3 in force at made date
 
-[^key-d49795e743ca65bbf0ecc35fdbf22e25]: Commencement: Sch. para. 4 in force at made date
+[^c-d49795e743ca65bbf0ecc35fdbf22e25]: Commencement: Sch. para. 4 in force at made date
 
-[^key-a6389790e693ea52433ea9719a6b6031]: Commencement: Sch. para. 5 in force at made date
+[^c-a6389790e693ea52433ea9719a6b6031]: Commencement: Sch. para. 5 in force at made date
 
-[^key-39ba177387278c2df54df8ffd632c1aa]: Commencement: Sch. para. 6 in force at made date
+[^c-39ba177387278c2df54df8ffd632c1aa]: Commencement: Sch. para. 6 in force at made date
 
-[^key-88f22d3686f10c95d6e27bb417905293]: Commencement: Sch. para. 7 in force at made date
+[^c-88f22d3686f10c95d6e27bb417905293]: Commencement: Sch. para. 7 in force at made date
 
-[^key-2bbb32a351c03f6e02dc680d08b09edd]: Commencement: Sch. para. 8 in force at made date
+[^c-2bbb32a351c03f6e02dc680d08b09edd]: Commencement: Sch. para. 8 in force at made date
 
-[^key-6a7b47a2b5e23a66eef17b14d0ad002b]: Commencement: Sch. para. 9 in force at made date
+[^c-6a7b47a2b5e23a66eef17b14d0ad002b]: Commencement: Sch. para. 9 in force at made date
 
-[^key-7312cbf98814834cf8a4dc4d9f66ad0c]: Commencement: Sch. para. 10 in force at made date
+[^c-7312cbf98814834cf8a4dc4d9f66ad0c]: Commencement: Sch. para. 10 in force at made date
 
-[^key-88faa66e14d9111f2532a786622ebb87]: Commencement: Sch. para. 11 in force at made date
+[^c-88faa66e14d9111f2532a786622ebb87]: Commencement: Sch. para. 11 in force at made date
 
-[^key-61d205b703f00f98b322682db36c1685]: Commencement: Sch. para. 12 in force at made date
+[^c-61d205b703f00f98b322682db36c1685]: Commencement: Sch. para. 12 in force at made date
 
-[^key-28c0e014f15596694c76f553124cd3e0]: Commencement: Sch. para. 13 in force at made date
+[^c-28c0e014f15596694c76f553124cd3e0]: Commencement: Sch. para. 13 in force at made date
 
-[^key-82f3b0a252865db0a28dcb11f6c78e06]: Commencement: Sch. para. 14 in force at made date
+[^c-82f3b0a252865db0a28dcb11f6c78e06]: Commencement: Sch. para. 14 in force at made date
 
-[^key-046f63f387610f867a8c2870816e262e]: Commencement: Sch. para. 15 in force at made date
+[^c-046f63f387610f867a8c2870816e262e]: Commencement: Sch. para. 15 in force at made date
 
-[^key-56d8af6085c78f80c2e08e905de2abfa]: Commencement: Sch. para. 16 in force at made date
+[^c-56d8af6085c78f80c2e08e905de2abfa]: Commencement: Sch. para. 16 in force at made date
 
-[^key-b39c4530157d35b40e18e0ddca45967f]: Commencement: Sch. para. 17 in force at made date
+[^c-b39c4530157d35b40e18e0ddca45967f]: Commencement: Sch. para. 17 in force at made date
 
-[^key-86fc057598e1dc3c915d3124f1da5c1e]: Commencement: Sch. para. 18 in force at made date
+[^c-86fc057598e1dc3c915d3124f1da5c1e]: Commencement: Sch. para. 18 in force at made date
 
-[^key-13bcbb61c89a12f55b2b171065617a53]: Commencement: Sch. para. 19 in force at made date
+[^c-13bcbb61c89a12f55b2b171065617a53]: Commencement: Sch. para. 19 in force at made date
 
-[^key-0a1431ebbe30d951a32f1c29a1a630f2]: Commencement: Sch. para. 20 in force at made date
+[^c-0a1431ebbe30d951a32f1c29a1a630f2]: Commencement: Sch. para. 20 in force at made date
 
-[^key-aa38333cc8e6bb5e57e70add09cddab0]: Commencement: Sch. para. 21 in force at made date
+[^c-aa38333cc8e6bb5e57e70add09cddab0]: Commencement: Sch. para. 21 in force at made date
 
-[^key-75ffa95a56dbf1ea3f9f6c0677fbd69c]: Commencement: Sch. para. 22 in force at made date
+[^c-75ffa95a56dbf1ea3f9f6c0677fbd69c]: Commencement: Sch. para. 22 in force at made date
 
 [^f00007]: Footnote: [1998 c. 37](https://www.legislation.gov.uk/ukpga/1998/37).
 

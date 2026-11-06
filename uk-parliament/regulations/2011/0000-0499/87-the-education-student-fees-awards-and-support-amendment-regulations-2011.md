@@ -44,7 +44,7 @@ Coming into force in accordance with regulation 1
 
 The Secretary of State, in exercise of the powers conferred by sections 1 and 2 of the Education (Fees and Awards) Act 1983[^f00001], sections 22, 42(6) and 43(1) of the Teaching and Higher Education Act 1998[^f00002] and sections 24 and 47 of the Higher Education Act 2004[^f00003] makes the following Regulations:
 
-## 1. Citation, commencement and application[^key-11c9f806dc611901f41759da18edd805]
+## 1. Citation, commencement and application[^c-11c9f806dc611901f41759da18edd805]
 
 (1) These Regulations may be cited as the Education (Student Fees, Awards and Support) (Amendment) Regulations 2011.
 
@@ -52,7 +52,7 @@ The Secretary of State, in exercise of the powers conferred by sections 1 and 2 
 
 (3) These Regulations apply in relation to England[^f00004].
 
-## 2. Interpretation[^key-77483f12a56cc146c75b5a0abaa60bc6]
+## 2. Interpretation[^c-77483f12a56cc146c75b5a0abaa60bc6]
 
 In these Regulations—
 
@@ -60,15 +60,15 @@ In these Regulations—
 - “QCP Regulations” means the Student Fees (Qualifying Courses and Persons) (England) Regulations 2007[^f00006];
 - “SSR 2009” means the Education (Student Support) Regulations 2009[^f00007].
 
-## 3. Amendment to the Fees Regulations, QCP Regulations and SSR 2009[^key-fec4c58cf55e3516fd1fae2808f5ba2a]
+## 3. Amendment to the Fees Regulations, QCP Regulations and SSR 2009[^c-fec4c58cf55e3516fd1fae2808f5ba2a]
 
 The Fees Regulations are amended in accordance with regulations 6 and 7.
 
-**4.**[^key-629d58e3198757350e43b087dfb7c494] The QCP Regulations are amended in accordance with regulations 8 and 9.
+**4.**[^c-629d58e3198757350e43b087dfb7c494] The QCP Regulations are amended in accordance with regulations 8 and 9.
 
-**5.**[^key-30535e7d74f4e23de2df9590321887b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-30535e7d74f4e23de2df9590321887b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of the Fees Regulations[^key-9223281e2812817e81c3de4cbadca8d9]
+## 6. Amendment of the Fees Regulations[^c-9223281e2812817e81c3de4cbadca8d9]
 
 For regulation 2(3) of the Fees Regulations, substitute—
 
@@ -76,7 +76,7 @@ For regulation 2(3) of the Fees Regulations, substitute—
 
 .
 
-**7.**[^key-8110ef102d77f68835aadd4bcf1fc86d] In Schedule 1—
+**7.**[^c-8110ef102d77f68835aadd4bcf1fc86d] In Schedule 1—
 
 - (a) in paragraph 1—
   - (i) within the definition of “family member”, for (a)(ii), substitute—
@@ -116,11 +116,11 @@ For regulation 2(3) of the Fees Regulations, substitute—
 
   .
 
-## 8. Amendment of the QCP Regulations[^key-3a84b77f3ab105a60943465237b48230]
+## 8. Amendment of the QCP Regulations[^c-3a84b77f3ab105a60943465237b48230]
 
 In regulation 2 of the QCP Regulations, in the definition of “equivalent or lower qualification”, for “Education (Student Support) (No 2) Regulations 2008”, substitute “Education (Student Support) Regulations 2009[^f00010].”
 
-**9.**[^key-644470f434c0fda49fde09c408ad7c18] In the Schedule—
+**9.**[^c-644470f434c0fda49fde09c408ad7c18] In the Schedule—
 
 - (a) in paragraph 1(1)—
   - (i) within the definition of “family member”, for (a)(ii), substitute—
@@ -165,15 +165,15 @@ In regulation 2 of the QCP Regulations, in the definition of “equivalent or lo
 
   .
 
-## 10. Amendment of the SSR 2009[^key-b911446921a2205b1eb61102c33ada24]
+## 10. Amendment of the SSR 2009[^c-b911446921a2205b1eb61102c33ada24]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-b911446921a2205b1eb61102c33ada24] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-b911446921a2205b1eb61102c33ada24] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-b911446921a2205b1eb61102c33ada24] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-b911446921a2205b1eb61102c33ada24] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Transitional cases[^key-78db0b5bc4c8b41df2d615b607b8acb1]
+## 13. Transitional cases[^c-78db0b5bc4c8b41df2d615b607b8acb1]
 
 (1) The amendments made by regulations 6 to 9 of these Regulations do not apply in relation to a person—
 
@@ -229,11 +229,11 @@ An impact assessment has not been produced for this instrument as it has no impa
 
 [^f00003]: Footnote: [2004 c. 8](https://www.legislation.gov.uk/ukpga/2004/8); section 24 was amended by the Education Act 2005, section 98, schedule 14.
 
-[^key-11c9f806dc611901f41759da18edd805]: Commencement: Reg. 1 in force at 9.2.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/87/regulation/1/2)
+[^c-11c9f806dc611901f41759da18edd805]: Commencement: Reg. 1 in force at 9.2.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/87/regulation/1/2)
 
 [^f00004]: Footnote: In relation to Wales, the functions of the Secretary of State under section 22 of the Teaching and Higher Education Act 1998 were transferred to the Welsh Ministers under section 44 of the Higher Education Act 2004 except so far as they relate to the making of any provision authorised by subsection (2)(a), (c), (j) or (k), (3)(e) or (f) or (5) of section 22.
 
-[^key-77483f12a56cc146c75b5a0abaa60bc6]: Commencement: Reg. 2 in force at 9.2.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/87/regulation/1/2)
+[^c-77483f12a56cc146c75b5a0abaa60bc6]: Commencement: Reg. 2 in force at 9.2.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/87/regulation/1/2)
 
 [^f00005]: Footnote: [S.I. 2007/779](https://www.legislation.gov.uk/uksi/2007/779), as amended by [S.I. 2007/1336](https://www.legislation.gov.uk/uksi/2007/1336) and [S.I. 2007/2263](https://www.legislation.gov.uk/uksi/2007/2263).
 
@@ -241,30 +241,30 @@ An impact assessment has not been produced for this instrument as it has no impa
 
 [^f00007]: Footnote: [S.I. 2009/1555](https://www.legislation.gov.uk/uksi/2009/1555), as amended by [S.I. 2010/2546](https://www.legislation.gov.uk/uksi/2010/2546).
 
-[^key-fec4c58cf55e3516fd1fae2808f5ba2a]: Commencement: Reg. 3 in force at 9.2.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/87/regulation/1/2)
+[^c-fec4c58cf55e3516fd1fae2808f5ba2a]: Commencement: Reg. 3 in force at 9.2.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/87/regulation/1/2)
 
-[^key-629d58e3198757350e43b087dfb7c494]: Commencement: Reg. 4 in force at 9.2.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/87/regulation/1/2)
+[^c-629d58e3198757350e43b087dfb7c494]: Commencement: Reg. 4 in force at 9.2.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/87/regulation/1/2)
 
-[^key-30535e7d74f4e23de2df9590321887b7]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2011/87/regulation/5) revoked (1.9.2012) by [The Education (Student Support) Regulations 2011 (S.I. 2011/1986)](https://www.legislation.gov.uk/uksi/2011/1986), [reg. 3(1)(c)](https://www.legislation.gov.uk/uksi/2011/1986/regulation/3/1/c) (with [reg. 3(3)-(5)](https://www.legislation.gov.uk/uksi/2011/1986/regulation/3/3))
+[^c-30535e7d74f4e23de2df9590321887b7]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2011/87/regulation/5) revoked (1.9.2012) by [The Education (Student Support) Regulations 2011 (S.I. 2011/1986)](https://www.legislation.gov.uk/uksi/2011/1986), [reg. 3(1)(c)](https://www.legislation.gov.uk/uksi/2011/1986/regulation/3/1/c) (with [reg. 3(3)-(5)](https://www.legislation.gov.uk/uksi/2011/1986/regulation/3/3))
 
-[^key-9223281e2812817e81c3de4cbadca8d9]: Commencement: Reg. 6 in force at 9.2.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/87/regulation/1/2)
+[^c-9223281e2812817e81c3de4cbadca8d9]: Commencement: Reg. 6 in force at 9.2.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/87/regulation/1/2)
 
-[^key-8110ef102d77f68835aadd4bcf1fc86d]: Commencement: Reg. 7 in force at 9.2.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/87/regulation/1/2)
+[^c-8110ef102d77f68835aadd4bcf1fc86d]: Commencement: Reg. 7 in force at 9.2.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/87/regulation/1/2)
 
 [^f00008]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77).
 
 [^f00009]: Footnote: [2002 c. 41](https://www.legislation.gov.uk/ukpga/2002/41). Section 104 was amended by the Asylum and Immigration (Treatment of Claimants, etc) Act [2004 (c. 19)](https://www.legislation.gov.uk/ukpga/2004/19), Schedule 2 and the Immigration, Asylum and Nationality Act [2006 (c. 13)](https://www.legislation.gov.uk/ukpga/2006/13), section 9.
 
-[^key-3a84b77f3ab105a60943465237b48230]: Commencement: Reg. 8 in force at 9.2.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/87/regulation/1/2)
+[^c-3a84b77f3ab105a60943465237b48230]: Commencement: Reg. 8 in force at 9.2.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/87/regulation/1/2)
 
 [^f00010]: Footnote: [2009/1555](https://www.legislation.gov.uk/uksi/2009/1555), as amended by [S.I. 2010/2546](https://www.legislation.gov.uk/uksi/2010/2546).
 
-[^key-644470f434c0fda49fde09c408ad7c18]: Commencement: Reg. 9 in force at 9.2.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/87/regulation/1/2)
+[^c-644470f434c0fda49fde09c408ad7c18]: Commencement: Reg. 9 in force at 9.2.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/87/regulation/1/2)
 
 [^f00011]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77).
 
 [^f00012]: Footnote: [2002 c. 41](https://www.legislation.gov.uk/ukpga/2002/41). Section 104 was amended by the Asylum and Immigration (Treatment of Claimants, etc) Act [2004 (c. 19)](https://www.legislation.gov.uk/ukpga/2004/19), Schedule 2 and the Immigration, Asylum and Nationality Act [2006 (c. 13)](https://www.legislation.gov.uk/ukpga/2006/13), section 9.
 
-[^key-b911446921a2205b1eb61102c33ada24]: Textual amendment: [Regs. 10-12](https://www.legislation.gov.uk/uksi/2011/87/regulation/10) revoked (1.9.2012) by [The Education (Student Support) Regulations 2011 (S.I. 2011/1986)](https://www.legislation.gov.uk/uksi/2011/1986), [reg. 3(1)(c)](https://www.legislation.gov.uk/uksi/2011/1986/regulation/3/1/c) (with [reg. 3(3)-(5)](https://www.legislation.gov.uk/uksi/2011/1986/regulation/3/3))
+[^c-b911446921a2205b1eb61102c33ada24]: Textual amendment: [Regs. 10-12](https://www.legislation.gov.uk/uksi/2011/87/regulation/10) revoked (1.9.2012) by [The Education (Student Support) Regulations 2011 (S.I. 2011/1986)](https://www.legislation.gov.uk/uksi/2011/1986), [reg. 3(1)(c)](https://www.legislation.gov.uk/uksi/2011/1986/regulation/3/1/c) (with [reg. 3(3)-(5)](https://www.legislation.gov.uk/uksi/2011/1986/regulation/3/3))
 
-[^key-78db0b5bc4c8b41df2d615b607b8acb1]: Commencement: Reg. 13 in force at 9.2.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/87/regulation/1/2)
+[^c-78db0b5bc4c8b41df2d615b607b8acb1]: Commencement: Reg. 13 in force at 9.2.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/87/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 1 — ACTIVITIES, INSTALLATIONS AND MOBILE PLANT[^key-509ded185ac48ead954313b700865f6d]
+## SCHEDULE 1 — ACTIVITIES, INSTALLATIONS AND MOBILE PLANT[^c-509ded185ac48ead954313b700865f6d]
 
 *Extent: N.I.*
 
@@ -24,860 +24,860 @@ summary: ''
 
 Regulation 2
 
-### PART 1 — ACTIVITIES[^key-509ded185ac48ead954313b700865f6d]
+### PART 1 — ACTIVITIES[^c-509ded185ac48ead954313b700865f6d]
 
-#### CHAPTER 1 — ENERGY INDUSTRIES[^key-509ded185ac48ead954313b700865f6d]
+#### CHAPTER 1 — ENERGY INDUSTRIES[^c-509ded185ac48ead954313b700865f6d]
 
-##### SECTION 1.1 — COMBUSTION ACTIVITIES[^key-509ded185ac48ead954313b700865f6d]
+##### SECTION 1.1 — COMBUSTION ACTIVITIES[^c-509ded185ac48ead954313b700865f6d]
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**1.**[^key-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**1.**[^key-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### SECTION 1.2 — GASIFICATION, LIQUEFACTION AND REFINING ACTIVITIES[^key-509ded185ac48ead954313b700865f6d]
+##### SECTION 1.2 — GASIFICATION, LIQUEFACTION AND REFINING ACTIVITIES[^c-509ded185ac48ead954313b700865f6d]
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**1.**[^key-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**1.**[^key-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### CHAPTER 2 — PRODUCTION AND PROCESSING OF METALS[^key-509ded185ac48ead954313b700865f6d]
+#### CHAPTER 2 — PRODUCTION AND PROCESSING OF METALS[^c-509ded185ac48ead954313b700865f6d]
 
-##### SECTION 2.1 — FERROUS METALS[^key-509ded185ac48ead954313b700865f6d]
+##### SECTION 2.1 — FERROUS METALS[^c-509ded185ac48ead954313b700865f6d]
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**1.**[^key-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### SECTION 2.2 — NON-FERROUS METALS[^key-509ded185ac48ead954313b700865f6d]
+##### SECTION 2.2 — NON-FERROUS METALS[^c-509ded185ac48ead954313b700865f6d]
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**1.**[^key-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**1.**[^key-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### SECTION 2.3 — SURFACE TREATING METALS AND PLASTIC MATERIALS[^key-509ded185ac48ead954313b700865f6d]
+##### SECTION 2.3 — SURFACE TREATING METALS AND PLASTIC MATERIALS[^c-509ded185ac48ead954313b700865f6d]
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### CHAPTER 3 — MINERAL INDUSTRIES[^key-509ded185ac48ead954313b700865f6d]
+#### CHAPTER 3 — MINERAL INDUSTRIES[^c-509ded185ac48ead954313b700865f6d]
 
-##### SECTION 3.1 — PRODUCTION OF CEMENT AND LIME[^key-509ded185ac48ead954313b700865f6d]
+##### SECTION 3.1 — PRODUCTION OF CEMENT AND LIME[^c-509ded185ac48ead954313b700865f6d]
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### SECTION 3.2 — ACTIVITIES INVOLVING ASBESTOS[^key-509ded185ac48ead954313b700865f6d]
+##### SECTION 3.2 — ACTIVITIES INVOLVING ASBESTOS[^c-509ded185ac48ead954313b700865f6d]
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**1.**[^key-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### SECTION 3.3 — MANUFACTURING GLASS AND GLASS FIBRE[^key-509ded185ac48ead954313b700865f6d]
+##### SECTION 3.3 — MANUFACTURING GLASS AND GLASS FIBRE[^c-509ded185ac48ead954313b700865f6d]
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### SECTION 3.4 — PRODUCTION OF OTHER MINERAL FIBRES[^key-509ded185ac48ead954313b700865f6d]
+##### SECTION 3.4 — PRODUCTION OF OTHER MINERAL FIBRES[^c-509ded185ac48ead954313b700865f6d]
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### SECTION 3.5 — OTHER MINERAL ACTIVITIES[^key-509ded185ac48ead954313b700865f6d]
+##### SECTION 3.5 — OTHER MINERAL ACTIVITIES[^c-509ded185ac48ead954313b700865f6d]
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**1.**[^key-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### SECTION 3.6 — CERAMIC PRODUCTION[^key-509ded185ac48ead954313b700865f6d]
+##### SECTION 3.6 — CERAMIC PRODUCTION[^c-509ded185ac48ead954313b700865f6d]
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**1.**[^key-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### CHAPTER 4 — THE CHEMICAL INDUSTRY[^key-509ded185ac48ead954313b700865f6d]
+#### CHAPTER 4 — THE CHEMICAL INDUSTRY[^c-509ded185ac48ead954313b700865f6d]
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**1.**[^key-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### SECTION 4.1 — ORGANIC CHEMICALS[^key-509ded185ac48ead954313b700865f6d]
+##### SECTION 4.1 — ORGANIC CHEMICALS[^c-509ded185ac48ead954313b700865f6d]
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**1.**[^key-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### ORGANIC CHEMICALS[^key-509ded185ac48ead954313b700865f6d]
+##### ORGANIC CHEMICALS[^c-509ded185ac48ead954313b700865f6d]
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**1.**[^key-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### SECTION 4.2 — INORGANIC CHEMICALS[^key-509ded185ac48ead954313b700865f6d]
+##### SECTION 4.2 — INORGANIC CHEMICALS[^c-509ded185ac48ead954313b700865f6d]
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**1.**[^key-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### SECTION 4.3 — CHEMICAL FERTILISER PRODUCTION[^key-509ded185ac48ead954313b700865f6d]
+##### SECTION 4.3 — CHEMICAL FERTILISER PRODUCTION[^c-509ded185ac48ead954313b700865f6d]
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### SECTION 4.4 — PLANT PROTECTION PRODUCTS AND BIOCIDES[^key-509ded185ac48ead954313b700865f6d]
+##### SECTION 4.4 — PLANT PROTECTION PRODUCTS AND BIOCIDES[^c-509ded185ac48ead954313b700865f6d]
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### SECTION 4.5 — PHARMACEUTICAL PRODUCTION[^key-509ded185ac48ead954313b700865f6d]
+##### SECTION 4.5 — PHARMACEUTICAL PRODUCTION[^c-509ded185ac48ead954313b700865f6d]
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### SECTION 4.6 — EXPLOSIVES PRODUCTION[^key-509ded185ac48ead954313b700865f6d]
+##### SECTION 4.6 — EXPLOSIVES PRODUCTION[^c-509ded185ac48ead954313b700865f6d]
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### SECTION 4.7 — MANUFACTURING ACTIVITIES INVOLVING AMMONIA[^key-509ded185ac48ead954313b700865f6d]
+##### SECTION 4.7 — MANUFACTURING ACTIVITIES INVOLVING AMMONIA[^c-509ded185ac48ead954313b700865f6d]
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### SECTION 4.8 — THE STORAGE OF CHEMICALS IN BULK[^key-509ded185ac48ead954313b700865f6d]
+##### SECTION 4.8 — THE STORAGE OF CHEMICALS IN BULK[^c-509ded185ac48ead954313b700865f6d]
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### CHAPTER 5 — WASTE MANAGEMENT[^key-509ded185ac48ead954313b700865f6d]
+#### CHAPTER 5 — WASTE MANAGEMENT[^c-509ded185ac48ead954313b700865f6d]
 
-##### SECTION 5.1 — INCINERATION AND CO-INCINERATION OF WASTE[^key-509ded185ac48ead954313b700865f6d]
+##### SECTION 5.1 — INCINERATION AND CO-INCINERATION OF WASTE[^c-509ded185ac48ead954313b700865f6d]
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**1.**[^key-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### SECTION 5.2 — DISPOSAL OF WASTE BY LANDFILL[^key-509ded185ac48ead954313b700865f6d]
+##### SECTION 5.2 — DISPOSAL OF WASTE BY LANDFILL[^c-509ded185ac48ead954313b700865f6d]
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### SECTION 5.3 — DISPOSAL OR RECOVERY OF HAZARDOUS WASTE OTHER THAN BY INCINERATION OR LANDFILL[^key-509ded185ac48ead954313b700865f6d]
+##### SECTION 5.3 — DISPOSAL OR RECOVERY OF HAZARDOUS WASTE OTHER THAN BY INCINERATION OR LANDFILL[^c-509ded185ac48ead954313b700865f6d]
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### SECTION 5.4 — DISPOSAL OR RECOVERY OF NON-HAZARDOUS WASTE[^key-509ded185ac48ead954313b700865f6d]
+##### SECTION 5.4 — DISPOSAL OR RECOVERY OF NON-HAZARDOUS WASTE[^c-509ded185ac48ead954313b700865f6d]
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### SECTION 5.5 — TEMPORARY AND UNDERGROUND STORAGE OF WASTE[^key-509ded185ac48ead954313b700865f6d]
+##### SECTION 5.5 — TEMPORARY AND UNDERGROUND STORAGE OF WASTE[^c-509ded185ac48ead954313b700865f6d]
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### CHAPTER 6 — OTHER ACTIVITIES[^key-509ded185ac48ead954313b700865f6d]
+#### CHAPTER 6 — OTHER ACTIVITIES[^c-509ded185ac48ead954313b700865f6d]
 
-##### SECTION 6.1 — PAPER, PULP AND BOARD MANUFACTURING ACTIVITIES[^key-509ded185ac48ead954313b700865f6d]
+##### SECTION 6.1 — PAPER, PULP AND BOARD MANUFACTURING ACTIVITIES[^c-509ded185ac48ead954313b700865f6d]
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### SECTION 6.2 — CARBON ACTIVITIES[^key-509ded185ac48ead954313b700865f6d]
+##### SECTION 6.2 — CARBON ACTIVITIES[^c-509ded185ac48ead954313b700865f6d]
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### SECTION 6.3 — TAR AND BITUMEN ACTIVITIES[^key-509ded185ac48ead954313b700865f6d]
+##### SECTION 6.3 — TAR AND BITUMEN ACTIVITIES[^c-509ded185ac48ead954313b700865f6d]
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**1.**[^key-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### SECTION 6.4 — COATING ACTIVITIES, PRINTING AND TEXTILE TREATMENTS[^key-509ded185ac48ead954313b700865f6d]
+##### SECTION 6.4 — COATING ACTIVITIES, PRINTING AND TEXTILE TREATMENTS[^c-509ded185ac48ead954313b700865f6d]
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**1.**[^key-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### SECTION 6.5 — THE MANUFACTURE OF DYESTUFFS, PRINTING INK AND COATING MATERIALS[^key-509ded185ac48ead954313b700865f6d]
+##### SECTION 6.5 — THE MANUFACTURE OF DYESTUFFS, PRINTING INK AND COATING MATERIALS[^c-509ded185ac48ead954313b700865f6d]
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**1.**[^key-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### SECTION 6.6 — TIMBER ACTIVITIES[^key-509ded185ac48ead954313b700865f6d]
+##### SECTION 6.6 — TIMBER ACTIVITIES[^c-509ded185ac48ead954313b700865f6d]
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**1.**[^key-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### SECTION 6.7 — ACTIVITIES INVOLVING RUBBER[^key-509ded185ac48ead954313b700865f6d]
+##### SECTION 6.7 — ACTIVITIES INVOLVING RUBBER[^c-509ded185ac48ead954313b700865f6d]
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### SECTION 6.8 — THE TREATMENT OF ANIMAL AND VEGETABLE MATTER AND FOOD INDUSTRIES[^key-509ded185ac48ead954313b700865f6d]
+##### SECTION 6.8 — THE TREATMENT OF ANIMAL AND VEGETABLE MATTER AND FOOD INDUSTRIES[^c-509ded185ac48ead954313b700865f6d]
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**1.**[^key-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### SECTION 6.9 — INTENSIVE FARMING[^key-509ded185ac48ead954313b700865f6d]
+##### SECTION 6.9 — INTENSIVE FARMING[^c-509ded185ac48ead954313b700865f6d]
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**1.**[^key-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### SECTION 6.10 — CARBON CAPTURE AND STORAGE[^key-509ded185ac48ead954313b700865f6d]
+##### SECTION 6.10 — CARBON CAPTURE AND STORAGE[^c-509ded185ac48ead954313b700865f6d]
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### SECTION 6.11 — WASTE WATER TREATMENT[^key-509ded185ac48ead954313b700865f6d]
+##### SECTION 6.11 — WASTE WATER TREATMENT[^c-509ded185ac48ead954313b700865f6d]
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### CHAPTER 7 — SOLVENT EMISSIONS[^key-509ded185ac48ead954313b700865f6d]
+#### CHAPTER 7 — SOLVENT EMISSIONS[^c-509ded185ac48ead954313b700865f6d]
 
-##### SECTION 7 — SED ACTIVITIES[^key-509ded185ac48ead954313b700865f6d]
+##### SECTION 7 — SED ACTIVITIES[^c-509ded185ac48ead954313b700865f6d]
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-509ded185ac48ead954313b700865f6d]
+[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**1.**[^key-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — INTERPRETATION OF PART 1[^key-509ded185ac48ead954313b700865f6d]
+### PART 2 — INTERPRETATION OF PART 1[^c-509ded185ac48ead954313b700865f6d]
 
-**1.**[^key-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 3 — INTERPRETATION OF “PART A INSTALLATION” ETC.[^key-509ded185ac48ead954313b700865f6d]
+### PART 3 — INTERPRETATION OF “PART A INSTALLATION” ETC.[^c-509ded185ac48ead954313b700865f6d]
 
-**12.**[^key-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-509ded185ac48ead954313b700865f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-509ded185ac48ead954313b700865f6d]: Textual amendment: Regulations revoked (20.6.2013) by [The Pollution Prevention and Control (Industrial Emissions) Regulations (Northern Ireland) 2013 (S.R. 2013/160)](https://www.legislation.gov.uk/nisr/2013/160), [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1), [Sch. 17](https://www.legislation.gov.uk/nisr/2013/160/schedule/17) (with [reg. 5](https://www.legislation.gov.uk/nisr/2013/160/regulation/5))
+[^c-509ded185ac48ead954313b700865f6d]: Textual amendment: Regulations revoked (20.6.2013) by [The Pollution Prevention and Control (Industrial Emissions) Regulations (Northern Ireland) 2013 (S.R. 2013/160)](https://www.legislation.gov.uk/nisr/2013/160), [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1), [Sch. 17](https://www.legislation.gov.uk/nisr/2013/160/schedule/17) (with [reg. 5](https://www.legislation.gov.uk/nisr/2013/160/regulation/5))

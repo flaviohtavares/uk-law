@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4. Dissolution of Scottish Records Advisory Council[^key-b57f680dec347ac739c651dd29687eef]
+## 4. Dissolution of Scottish Records Advisory Council[^c-b57f680dec347ac739c651dd29687eef]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b57f680dec347ac739c651dd29687eef]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2010/8/section/4) in force at 1.8.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-b57f680dec347ac739c651dd29687eef]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2010/8/section/4) in force at 1.8.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)

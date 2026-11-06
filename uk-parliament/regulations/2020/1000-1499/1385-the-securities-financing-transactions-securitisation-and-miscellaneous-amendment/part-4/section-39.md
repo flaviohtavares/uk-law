@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Banking Act 2009[^key-03e87c3f033bb057358387381316b61b]
+## 39. Banking Act 2009[^c-03e87c3f033bb057358387381316b61b]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ summary: ''
 
 ## Annotations
 
-[^key-03e87c3f033bb057358387381316b61b]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/2020/1385/regulation/39) in force at 31.12.2020 immediately before IP completion day, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4)
+[^c-03e87c3f033bb057358387381316b61b]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/2020/1385/regulation/39) in force at 31.12.2020 immediately before IP completion day, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4)
 
 [^f00014]: Footnote: [2009 c.1](https://www.legislation.gov.uk/ukpga/2009/1).
 

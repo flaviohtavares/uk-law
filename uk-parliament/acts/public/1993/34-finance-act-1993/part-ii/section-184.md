@@ -31,20 +31,20 @@ summary: ''
 - “**the Gains Tax Acts**” means that Act and any other enactments relating to capital gains tax;
 - “**the High Level Stop Loss Fund**” means the fund of that name which, under the rules of Lloyd’s, has been established for the year 1993 and subsequent underwriting years;
 - “**inspector**” includes any officer of the Board;
-- “Lloyd’s partnership” means—[^key-cfaf512c44f35d55446480415d1e6947]
+- “Lloyd’s partnership” means—[^c-cfaf512c44f35d55446480415d1e6947]
   - (a) a limited partnership formed under the law of Scotland which is a member of Lloyd’s and is or has been an underwriting member, or
   - (b) a limited liability partnership formed under the law of any part of the United Kingdom which is a member of Lloyd’s and is or has been an underwriting member;
 - “**the Management Act**” means the [^c15155901]Taxes Management Act 1970;
 - “**managing agent**”, in relation to a syndicate and a year of assessment, means—
   - (a) the person registered as a managing agent at Lloyd’s who was acting as such an agent for the syndicate at the end of the corresponding underwriting year, or
   - (b) such other person as may be determined in accordance with regulations made by the Board;
-- “**member**” (except in Part 1A of Schedule 20A)[^key-e0776edbe606a7e15ef7dc0888293eb3] means an individual who is a member of Lloyd’s and[^c15155911] is or has been an underwriting member;
+- “**member**” (except in Part 1A of Schedule 20A)[^c-e0776edbe606a7e15ef7dc0888293eb3] means an individual who is a member of Lloyd’s and[^c15155911] is or has been an underwriting member;
 - “**members’ agent**”, in relation to a member of a syndicate and a year of assessment, means—
   - (a) the person registered as a members’ agent at Lloyd’s who was acting as such an agent for the member at the end of the corresponding underwriting year, or
-  - (b) if two or more such persons were so acting and one of them was appointed by the member to be responsible for complying with the requirements of the Lloyd’s Underwriters (Tax) Regulations 2005[^key-ff9aee54bcdf366a70877b77ecbac972] in relation to all of the syndicates of which he is a member, that person, or
+  - (b) if two or more such persons were so acting and one of them was appointed by the member to be responsible for complying with the requirements of the Lloyd’s Underwriters (Tax) Regulations 2005[^c-ff9aee54bcdf366a70877b77ecbac972] in relation to all of the syndicates of which he is a member, that person, or
   - (c) if two or more such persons were so acting and none of them was so appointed, the person who was so acting for the member in his capacity as a member of the syndicate, or
   - (d) such other person as may be determined in accordance with regulations made by the Board;
-- “premium trust fund” means a trust fund into which premiums receivable by members are paid in compliance with a trust deed under[^c15155921] Rule 8.2.19 of the[^key-410f78c38513580a487bd656d60e2672] Prudential Sourcebook for Insurers made by the Prudential Regulation Authority[^key-36a60e49989735588329f5a3b8570998] under the Financial Services and Markets Act 2000;
+- “premium trust fund” means a trust fund into which premiums receivable by members are paid in compliance with a trust deed under[^c15155921] Rule 8.2.19 of the[^c-410f78c38513580a487bd656d60e2672] Prudential Sourcebook for Insurers made by the Prudential Regulation Authority[^c-36a60e49989735588329f5a3b8570998] under the Financial Services and Markets Act 2000;
 - “**prescribed**” means prescribed by regulations made by the Board;
 - “**profits**” includes gains;
 - “**special reserve fund**”, unless the contrary intention appears, means a special reserve fund set up under the arrangements mentioned in section 175(1) above;
@@ -71,21 +71,21 @@ summary: ''
 
 [^c15155891]: Marginal citation: [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12).
 
-[^key-cfaf512c44f35d55446480415d1e6947]: Textual amendment: Words in s. 184(1) inserted (19.12.2014) by [The Lloyd's Underwriters (Conversion of Partnerships to Underwriting through Successor Companies) (Tax) Regulations 2014 (S.I. 2014/3133)](https://www.legislation.gov.uk/uksi/2014/3133), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3133/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2014/3133/regulation/4/a)
+[^c-cfaf512c44f35d55446480415d1e6947]: Textual amendment: Words in s. 184(1) inserted (19.12.2014) by [The Lloyd's Underwriters (Conversion of Partnerships to Underwriting through Successor Companies) (Tax) Regulations 2014 (S.I. 2014/3133)](https://www.legislation.gov.uk/uksi/2014/3133), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3133/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2014/3133/regulation/4/a)
 
 [^c15155901]: Marginal citation: [1970 c. 9](https://www.legislation.gov.uk/ukpga/1970/9).
 
-[^key-e0776edbe606a7e15ef7dc0888293eb3]: Textual amendment: Words in s. 184(1) inserted (19.12.2014) by [The Lloyd's Underwriters (Conversion of Partnerships to Underwriting through Successor Companies) (Tax) Regulations 2014 (S.I. 2014/3133)](https://www.legislation.gov.uk/uksi/2014/3133), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3133/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2014/3133/regulation/4/b)
+[^c-e0776edbe606a7e15ef7dc0888293eb3]: Textual amendment: Words in s. 184(1) inserted (19.12.2014) by [The Lloyd's Underwriters (Conversion of Partnerships to Underwriting through Successor Companies) (Tax) Regulations 2014 (S.I. 2014/3133)](https://www.legislation.gov.uk/uksi/2014/3133), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3133/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2014/3133/regulation/4/b)
 
 [^c15155911]: Textual amendment: Words in definition in s. 184(1) substituted (3.5.1994 with effect for the year 1994-95 and subsequent years of assessment) by [1994 c. 9](https://www.legislation.gov.uk/ukpga/1994/9), [s. 228](https://www.legislation.gov.uk/ukpga/1994/9/section/228), [Sch. 21 para. 8(1)(b)](https://www.legislation.gov.uk/ukpga/1994/9/schedule/21/paragraph/8/1/b)
 
-[^key-ff9aee54bcdf366a70877b77ecbac972]: Textual amendment: Words in s. 184(1) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Lloyds Underwriters (Tax) Regulations 2005 (S.I. 2005/3338)](https://www.legislation.gov.uk/uksi/2005/3338), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3338/regulation/1/1), [16](https://www.legislation.gov.uk/uksi/2005/3338/regulation/16)
+[^c-ff9aee54bcdf366a70877b77ecbac972]: Textual amendment: Words in s. 184(1) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Lloyds Underwriters (Tax) Regulations 2005 (S.I. 2005/3338)](https://www.legislation.gov.uk/uksi/2005/3338), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3338/regulation/1/1), [16](https://www.legislation.gov.uk/uksi/2005/3338/regulation/16)
 
 [^c15155921]: Textual amendment: S. 184(1): definition of “premium trust fund” substituted (1.12.2001) by [S.I. 2001/3629](https://www.legislation.gov.uk/uksi/2001/3629), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2), [79](https://www.legislation.gov.uk/uksi/2001/3629/article/79)
 
-[^key-410f78c38513580a487bd656d60e2672]: Textual amendment: Words in s. 184(1) substituted (31.12.2006) by [The Lloyds Sourcebook (Finance Act 1993 and Finance Act 1994) (Amendment) Order 2006 (S.I. 2006/3273)](https://www.legislation.gov.uk/uksi/2006/3273), [arts. 1](https://www.legislation.gov.uk/uksi/2006/3273/article/1), [2](https://www.legislation.gov.uk/uksi/2006/3273/article/2)
+[^c-410f78c38513580a487bd656d60e2672]: Textual amendment: Words in s. 184(1) substituted (31.12.2006) by [The Lloyds Sourcebook (Finance Act 1993 and Finance Act 1994) (Amendment) Order 2006 (S.I. 2006/3273)](https://www.legislation.gov.uk/uksi/2006/3273), [arts. 1](https://www.legislation.gov.uk/uksi/2006/3273/article/1), [2](https://www.legislation.gov.uk/uksi/2006/3273/article/2)
 
-[^key-36a60e49989735588329f5a3b8570998]: Textual amendment: Words in s. 184(1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments) Order 2013 (S.I. 2013/636)](https://www.legislation.gov.uk/uksi/2013/636), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/636/article/1/2), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2013/636/schedule/paragraph/3)
+[^c-36a60e49989735588329f5a3b8570998]: Textual amendment: Words in s. 184(1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments) Order 2013 (S.I. 2013/636)](https://www.legislation.gov.uk/uksi/2013/636), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/636/article/1/2), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2013/636/schedule/paragraph/3)
 
 [^c15155941]: Textual amendment: S. 184(1): words in definition of “stop-loss insurance” inserted (24.7.2002 with effect as mentioned in [s. 86(2)](https://www.legislation.gov.uk/ukpga/2002/23/section/86/2) of the amending Act) by [2002 c. 23](https://www.legislation.gov.uk/ukpga/2002/23), [s. 86](https://www.legislation.gov.uk/ukpga/2002/23/section/86), [Sch. 32 para. 5](https://www.legislation.gov.uk/ukpga/2002/23/schedule/32/paragraph/5)
 

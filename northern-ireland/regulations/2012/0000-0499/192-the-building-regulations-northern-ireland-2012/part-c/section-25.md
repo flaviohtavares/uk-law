@@ -32,9 +32,9 @@ summary: ''
 - “**Contaminant**” includes any substance which is or could become corrosive, explosive, inflammable, radioactive or toxic and includes deposits of faecal or animal matter;
 - “**Floor**” includes any base or structure between the surface of the ground, or the surface of any hardcore laid upon the ground, and the upper surface of the floor;
 - “**Moisture**” includes water in liquid, solid, semi-solid or gaseous form but not flood water;
-- “[^key-8c0a11c91f3128fab86e8ac2529ccff9]**Radon affected area**” means any area designated as such by Public Health England in the publication ‘Radon in Northern Ireland: Indicative Atlas’; and
+- “[^c-8c0a11c91f3128fab86e8ac2529ccff9]**Radon affected area**” means any area designated as such by Public Health England in the publication ‘Radon in Northern Ireland: Indicative Atlas’; and
 - “**Wall**” means any opaque part of the external envelope of a building that is at an angle of 70° or more to the horizontal and includes piers, chimneys, columns and parapets which form part of the wall.
 
 ## Annotations
 
-[^key-8c0a11c91f3128fab86e8ac2529ccff9]: Textual amendment: Words in [reg. 25(3)](https://www.legislation.gov.uk/nisr/2012/192/regulation/25/3) substituted (1.4.2022) by [The Building (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/71)](https://www.legislation.gov.uk/nisr/2022/71), [regs. 1](https://www.legislation.gov.uk/nisr/2022/71/regulation/1), [7](https://www.legislation.gov.uk/nisr/2022/71/regulation/7) (with [reg. 3](https://www.legislation.gov.uk/nisr/2022/71/regulation/3))
+[^c-8c0a11c91f3128fab86e8ac2529ccff9]: Textual amendment: Words in [reg. 25(3)](https://www.legislation.gov.uk/nisr/2012/192/regulation/25/3) substituted (1.4.2022) by [The Building (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/71)](https://www.legislation.gov.uk/nisr/2022/71), [regs. 1](https://www.legislation.gov.uk/nisr/2022/71/regulation/1), [7](https://www.legislation.gov.uk/nisr/2022/71/regulation/7) (with [reg. 3](https://www.legislation.gov.uk/nisr/2022/71/regulation/3))

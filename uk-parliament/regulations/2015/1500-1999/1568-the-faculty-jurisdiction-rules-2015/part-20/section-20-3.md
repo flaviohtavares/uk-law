@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 20.3. Amendment and setting aside in other circumstances[^key-3f380a6492d5134e29d72708e32e10a3]
+## 20.3. Amendment and setting aside in other circumstances[^c-3f380a6492d5134e29d72708e32e10a3]
 
 *Extent: E*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3f380a6492d5134e29d72708e32e10a3]: Commencement: [Rule 20.3](https://www.legislation.gov.uk/uksi/2015/1568/article/20.3) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-3f380a6492d5134e29d72708e32e10a3]: Commencement: [Rule 20.3](https://www.legislation.gov.uk/uksi/2015/1568/article/20.3) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Withdrawal of an application[^key-07ba73630975f87892a313ada06e8825]
+## 13. Withdrawal of an application[^c-07ba73630975f87892a313ada06e8825]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-07ba73630975f87892a313ada06e8825]: Commencement: Reg. 13 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-07ba73630975f87892a313ada06e8825]: Commencement: Reg. 13 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

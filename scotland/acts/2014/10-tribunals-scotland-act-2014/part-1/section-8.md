@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8. Delegation of functions[^key-435fbab5bbe83ee8816cf0bfae7e5097]
+## 8. Delegation of functions[^c-435fbab5bbe83ee8816cf0bfae7e5097]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-435fbab5bbe83ee8816cf0bfae7e5097]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2014/10/section/8) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-435fbab5bbe83ee8816cf0bfae7e5097]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2014/10/section/8) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)

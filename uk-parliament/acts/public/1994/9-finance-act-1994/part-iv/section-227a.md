@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 227A. Restriction of group relief[^key-21ff12fb8e5bd2099eaadbe5aa1ed498]
+## 227A. Restriction of group relief[^c-21ff12fb8e5bd2099eaadbe5aa1ed498]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,13 +36,13 @@ the underwriting year is not to be regarded for the purposes of subsection (2)(b
 
 (4) In subsection (3)(b) above “**reinsurance to close premium**” means a premium or other consideration under a contract in pursuance of which, in accordance with the rules or practice of Lloyd's, one underwriting member agrees with another to meet liabilities arising from the latter's underwriting business in an underwriting year so that the accounts of the business for that year may be closed.
 
-(5) The group-relief continuity condition is satisfied if the corporate member (as the surrendering company) and the other company (as the claimant company) meet the conditions in section 131 (the group condition), section 132 (consortium condition 1) or section 133 (consortium conditions 2 and 3) of the Corporation Tax Act 2010[^key-d27c9ac0c5892335a67a379cfc8f06ab] throughout the period—
+(5) The group-relief continuity condition is satisfied if the corporate member (as the surrendering company) and the other company (as the claimant company) meet the conditions in section 131 (the group condition), section 132 (consortium condition 1) or section 133 (consortium conditions 2 and 3) of the Corporation Tax Act 2010[^c-d27c9ac0c5892335a67a379cfc8f06ab] throughout the period—
 
 - (a) beginning with the last day of the last active underwriting year of the corporate member, and
 - (b) ending with the first day of the first underwriting year in which losses of the last active underwriting year are declared.
 
 ## Annotations
 
-[^key-21ff12fb8e5bd2099eaadbe5aa1ed498]: Textual amendment: S. 227A inserted (19.7.2007 with effect in accordance with s. 33(2) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 33(1)](https://www.legislation.gov.uk/ukpga/2007/11/section/33/1)
+[^c-21ff12fb8e5bd2099eaadbe5aa1ed498]: Textual amendment: S. 227A inserted (19.7.2007 with effect in accordance with s. 33(2) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 33(1)](https://www.legislation.gov.uk/ukpga/2007/11/section/33/1)
 
-[^key-d27c9ac0c5892335a67a379cfc8f06ab]: Textual amendment: Words in s. 227A(5) substituted (1.4.2010) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 283](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/283) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-d27c9ac0c5892335a67a379cfc8f06ab]: Textual amendment: Words in s. 227A(5) substituted (1.4.2010) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 283](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/283) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

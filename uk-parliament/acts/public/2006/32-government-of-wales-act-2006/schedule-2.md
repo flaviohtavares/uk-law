@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2 — Senedd Commission[^key-60edd79c70d763519861630d1afb7962]
+## SCHEDULE 2 — Senedd Commission[^c-60edd79c70d763519861630d1afb7962]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,9 +24,9 @@ Section 27
 
 ### Membership
 
-**1.**[^c16530911] (1) The Presiding Officer holds office as a member of the Senedd Commission until another person is elected to the office of Presiding Officer unless the Presiding Officer ceases to be a Member of the Senedd[^key-9348d22b2d042136af6e1508e7843105] otherwise than by reason of a dissolution.
+**1.**[^c16530911] (1) The Presiding Officer holds office as a member of the Senedd Commission until another person is elected to the office of Presiding Officer unless the Presiding Officer ceases to be a Member of the Senedd[^c-9348d22b2d042136af6e1508e7843105] otherwise than by reason of a dissolution.
 
-(2) Any other member of the Senedd Commission holds office until another Member of the Senedd[^key-77862aa11ba8e490f1db71c8f7e15ec1] is appointed as a replacement unless sub-paragraph (3) applies.
+(2) Any other member of the Senedd Commission holds office until another Member of the Senedd[^c-77862aa11ba8e490f1db71c8f7e15ec1] is appointed as a replacement unless sub-paragraph (3) applies.
 
 (3) This sub-paragraph applies if the person—
 
@@ -48,8 +48,8 @@ Section 27
 
 (4) The Senedd Commission must ensure that—
 
-- (a) the procedures for the recruitment and selection of persons as members of the staff of the Senedd are broadly in line with those applying to the recruitment and selection of persons as members of the staff of the Welsh [^key-546c29ecf72928d40cb76993691cfad4]... Government, and
-- (b) the terms and conditions of employment of the members of the staff of the Senedd are broadly in line with those of the members of the staff of the Welsh [^key-546c29ecf72928d40cb76993691cfad4]... Government.
+- (a) the procedures for the recruitment and selection of persons as members of the staff of the Senedd are broadly in line with those applying to the recruitment and selection of persons as members of the staff of the Welsh [^c-546c29ecf72928d40cb76993691cfad4]... Government, and
+- (b) the terms and conditions of employment of the members of the staff of the Senedd are broadly in line with those of the members of the staff of the Welsh [^c-546c29ecf72928d40cb76993691cfad4]... Government.
 
 (5) The Senedd Commission is to pay the salaries and expenses of the members of the staff of the Senedd.
 
@@ -99,7 +99,7 @@ Section 27
 
 **5.** (1) The Senedd Commission may promote public awareness of—
 
-- (a) the current or any pending system for the election of Members of the Senedd[^key-959ca092134c70e47fe7789224d88f33] , and
+- (a) the current or any pending system for the election of Members of the Senedd[^c-959ca092134c70e47fe7789224d88f33] , and
 - (b) the current or any pending system of devolved government in Wales.
 
 (2) For the purposes of this paragraph and paragraph 6 a system is “**pending**” if arrangements for giving effect to it have been made by any enactment but the arrangements are not yet in force.
@@ -129,7 +129,7 @@ Section 27
 
 (2) In the exercise of the functions of the Senedd Commission due regard must be had to the principle of promoting sustainable development.
 
-(3)[^key-dfd22310a4e16875933ffe7efca9f341] The Senedd Commission must, in the exercise of its functions—
+(3)[^c-dfd22310a4e16875933ffe7efca9f341] The Senedd Commission must, in the exercise of its functions—
 
 - (a) treat the official languages of the Senedd on a basis of equality, and
 - (b) make arrangements for enabling effect to be given to section 35(1), (1A), (1B) and (1C).
@@ -236,31 +236,31 @@ a scheme, to be known as the Senedd Commission's Official Languages Scheme (“ 
 
 ## Annotations
 
-[^key-60edd79c70d763519861630d1afb7962]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(19)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/19) (with [Sch. 1 para. 2(11)-(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11))
+[^c-60edd79c70d763519861630d1afb7962]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(19)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/19) (with [Sch. 1 para. 2(11)-(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11))
 
 [^c16530911]: Commencement: This provision in force immediately after "the 2007 election" by s. 161(1) (subject to s. 161(4)(5))
 
-[^key-9348d22b2d042136af6e1508e7843105]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(15)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/15) (with [Sch. 1 para. 2(11)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11)[(12)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/12)[(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/14))
+[^c-9348d22b2d042136af6e1508e7843105]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(15)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/15) (with [Sch. 1 para. 2(11)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11)[(12)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/12)[(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/14))
 
-[^key-77862aa11ba8e490f1db71c8f7e15ec1]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(16)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/16) (with [Sch. 1 para. 2(11)(12)(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11/12/14))
+[^c-77862aa11ba8e490f1db71c8f7e15ec1]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(16)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/16) (with [Sch. 1 para. 2(11)(12)(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11/12/14))
 
 [^c16530921]: Commencement: This provision in force immediately after "the 2007 election" by s. 161(1) (subject to s. 161(4)(5))
 
 [^c16530931]: Commencement: This provision in force immediately after "the 2007 election" by s. 161(1) (subject to s. 161(4)(5))
 
-[^key-546c29ecf72928d40cb76993691cfad4]: Textual amendment: Words in Act omitted (17.2.2015) by virtue of [Wales Act 2014 (c. 29)](https://www.legislation.gov.uk/ukpga/2014/29), [s. 4(2)(a)](https://www.legislation.gov.uk/ukpga/2014/29/section/4/2/a) (with [s. 4(3)](https://www.legislation.gov.uk/ukpga/2014/29/section/4/3))
+[^c-546c29ecf72928d40cb76993691cfad4]: Textual amendment: Words in Act omitted (17.2.2015) by virtue of [Wales Act 2014 (c. 29)](https://www.legislation.gov.uk/ukpga/2014/29), [s. 4(2)(a)](https://www.legislation.gov.uk/ukpga/2014/29/section/4/2/a) (with [s. 4(3)](https://www.legislation.gov.uk/ukpga/2014/29/section/4/3))
 
 [^c16530941]: Commencement: This provision in force immediately after "the 2007 election" by s. 161(1) (subject to s. 161(4)(5))
 
 [^M_F_c3a15288-042f-4357-a4d4-ee07661a87d2]: Textual amendment: Sch. 2 para. 4(4)(4A) substituted for Sch. 2 para. 4(4) (15.1.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [ss. 37](https://www.legislation.gov.uk/anaw/2020/1/section/37), [42(1)(d)](https://www.legislation.gov.uk/anaw/2020/1/section/42/1)
 
-[^key-959ca092134c70e47fe7789224d88f33]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(17)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/17) (with [Sch. 1 para. 2(11)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11)[(12)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/12)[(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/14))
+[^c-959ca092134c70e47fe7789224d88f33]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(17)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/17) (with [Sch. 1 para. 2(11)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11)[(12)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/12)[(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/14))
 
 [^c16530951]: Commencement: This provision in force immediately after "the 2007 election" by s. 161(1) (subject to s. 161(4)(5))
 
 [^c16530961]: Commencement: This provision in force immediately after "the 2007 election" by s. 161(1) (subject to s. 161(4)(5))
 
-[^key-dfd22310a4e16875933ffe7efca9f341]: Textual amendment: Sch. 2 para. 8(3)-(12) substituted for Sch. 2 para. 8(3) (13.11.2012) by [National Assembly for Wales (Official Languages) Act 2012 (anaw 1)](https://www.legislation.gov.uk/anaw/2012/1), [ss. 2](https://www.legislation.gov.uk/anaw/2012/1/section/2), [3(b)](https://www.legislation.gov.uk/anaw/2012/1/section/3/b)
+[^c-dfd22310a4e16875933ffe7efca9f341]: Textual amendment: Sch. 2 para. 8(3)-(12) substituted for Sch. 2 para. 8(3) (13.11.2012) by [National Assembly for Wales (Official Languages) Act 2012 (anaw 1)](https://www.legislation.gov.uk/anaw/2012/1), [ss. 2](https://www.legislation.gov.uk/anaw/2012/1/section/2), [3(b)](https://www.legislation.gov.uk/anaw/2012/1/section/3/b)
 
 [^c16530971]: Commencement: This provision in force immediately after "the 2007 election" by s. 161(1) (subject to s. 161(4)(5))
 

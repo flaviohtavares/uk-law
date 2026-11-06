@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Interpretation of Part 4[^key-9ed7d8785114d5f050fe974f20aee28b]
+## 85. Interpretation of Part 4[^c-9ed7d8785114d5f050fe974f20aee28b]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9ed7d8785114d5f050fe974f20aee28b]: Commencement: [S. 85](https://www.legislation.gov.uk/ukpga/2011/5/section/85) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-9ed7d8785114d5f050fe974f20aee28b]: Commencement: [S. 85](https://www.legislation.gov.uk/ukpga/2011/5/section/85) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

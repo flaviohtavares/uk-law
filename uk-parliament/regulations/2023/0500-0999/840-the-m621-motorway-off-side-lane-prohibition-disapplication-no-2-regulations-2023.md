@@ -36,7 +36,7 @@ Road Traffic, England
 
 Special Roads
 
-The M621 Motorway (Off Side Lane Prohibition Disapplication) (No. 2) Regulations 2023 (revoked)[^key-8dca1f20f96abb73e6e73aebf239b5d9]
+The M621 Motorway (Off Side Lane Prohibition Disapplication) (No. 2) Regulations 2023 (revoked)[^c-8dca1f20f96abb73e6e73aebf239b5d9]
 
 Made
 
@@ -56,36 +56,36 @@ Remainder
 
 1st December 2023
 
-[^key-8dca1f20f96abb73e6e73aebf239b5d9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8dca1f20f96abb73e6e73aebf239b5d9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, extent and commencement[^key-8dca1f20f96abb73e6e73aebf239b5d9]
+## 1. Citation, extent and commencement[^c-8dca1f20f96abb73e6e73aebf239b5d9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Review[^key-8dca1f20f96abb73e6e73aebf239b5d9]
+## 2. Review[^c-8dca1f20f96abb73e6e73aebf239b5d9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Interpretation[^key-8dca1f20f96abb73e6e73aebf239b5d9]
+## 3. Interpretation[^c-8dca1f20f96abb73e6e73aebf239b5d9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Regulation 12 of the Motorways Traffic (England and Wales) Regulations 1982 not to apply[^key-8dca1f20f96abb73e6e73aebf239b5d9]
+## 4. Regulation 12 of the Motorways Traffic (England and Wales) Regulations 1982 not to apply[^c-8dca1f20f96abb73e6e73aebf239b5d9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Revocation of the Motorways Traffic (M621 Motorway) Regulations 1999 and the M621 Motorway (off side lane prohibition disapplication) Regulations 2023[^key-8dca1f20f96abb73e6e73aebf239b5d9]
+## 5. Revocation of the Motorways Traffic (M621 Motorway) Regulations 1999 and the M621 Motorway (off side lane prohibition disapplication) Regulations 2023[^c-8dca1f20f96abb73e6e73aebf239b5d9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-8dca1f20f96abb73e6e73aebf239b5d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-8dca1f20f96abb73e6e73aebf239b5d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8dca1f20f96abb73e6e73aebf239b5d9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8dca1f20f96abb73e6e73aebf239b5d9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8dca1f20f96abb73e6e73aebf239b5d9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8dca1f20f96abb73e6e73aebf239b5d9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8dca1f20f96abb73e6e73aebf239b5d9]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2023/840) revoked (26.10.2023) by [The M621 Motorway (Off Side Lane Prohibition Disapplication) (No. 3) Regulations 2023 (S.I. 2023/1111)](https://www.legislation.gov.uk/uksi/2023/1111), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1111/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2023/1111/regulation/6)
+[^c-8dca1f20f96abb73e6e73aebf239b5d9]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2023/840) revoked (26.10.2023) by [The M621 Motorway (Off Side Lane Prohibition Disapplication) (No. 3) Regulations 2023 (S.I. 2023/1111)](https://www.legislation.gov.uk/uksi/2023/1111), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1111/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2023/1111/regulation/6)

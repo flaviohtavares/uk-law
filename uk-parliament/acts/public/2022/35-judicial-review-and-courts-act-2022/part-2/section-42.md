@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Suspension of requirement for jury at inquest where coronavirus suspected[^key-fe80aa2c0dee30719a0ca00a8bc5c794]
+## 42. Suspension of requirement for jury at inquest where coronavirus suspected[^c-fe80aa2c0dee30719a0ca00a8bc5c794]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ But the expiry of the inserted subsection does not affect any inquest opened whi
 
 ## Annotations
 
-[^key-fe80aa2c0dee30719a0ca00a8bc5c794]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2022/35/section/42) in force at 28.6.2022, see [s. 51(3)(c)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/3/c)
+[^c-fe80aa2c0dee30719a0ca00a8bc5c794]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2022/35/section/42) in force at 28.6.2022, see [s. 51(3)(c)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/3/c)

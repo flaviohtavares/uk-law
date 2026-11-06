@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 512ZC. Protection of identity of pupils receiving free school lunches or milk[^key-26efb3fb33af033951ce808d68432e6b]
+## 512ZC. Protection of identity of pupils receiving free school lunches or milk[^c-26efb3fb33af033951ce808d68432e6b]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-26efb3fb33af033951ce808d68432e6b]: Textual amendment: S. 512ZC inserted (2.9.2013) by [Healthy Eating in Schools (Wales) Measure 2009 (nawm 3)](https://www.legislation.gov.uk/mwa/2009/3), [ss. 7](https://www.legislation.gov.uk/mwa/2009/3/section/7), [12(3)](https://www.legislation.gov.uk/mwa/2009/3/section/12/3) (as amended (5.5.2010) by S.I. 2010/1148, arts. 1, 5(2)); [S.I. 2013/1985](https://www.legislation.gov.uk/wsi/2013/1985), [art. 2(b)](https://www.legislation.gov.uk/wsi/2013/1985/article/2/b)
+[^c-26efb3fb33af033951ce808d68432e6b]: Textual amendment: S. 512ZC inserted (2.9.2013) by [Healthy Eating in Schools (Wales) Measure 2009 (nawm 3)](https://www.legislation.gov.uk/mwa/2009/3), [ss. 7](https://www.legislation.gov.uk/mwa/2009/3/section/7), [12(3)](https://www.legislation.gov.uk/mwa/2009/3/section/12/3) (as amended (5.5.2010) by S.I. 2010/1148, arts. 1, 5(2)); [S.I. 2013/1985](https://www.legislation.gov.uk/wsi/2013/1985), [art. 2(b)](https://www.legislation.gov.uk/wsi/2013/1985/article/2/b)

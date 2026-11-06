@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## E14. Reduction of retirement pension in the case of certain former teachers[^key-ad5e3b1d505397874163cc551dc57fcb]
+## E14. Reduction of retirement pension in the case of certain former teachers[^c-ad5e3b1d505397874163cc551dc57fcb]
 
 *Extent: E+W+S*
 
@@ -66,7 +66,7 @@ TABLE
 
 ## Annotations
 
-[^key-ad5e3b1d505397874163cc551dc57fcb]: Commencement: [Reg. E14](https://www.legislation.gov.uk/uksi/1986/24/regulation/E14) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-ad5e3b1d505397874163cc551dc57fcb]: Commencement: [Reg. E14](https://www.legislation.gov.uk/uksi/1986/24/regulation/E14) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
 [^f00037]: Footnote: [1925 c.59](https://www.legislation.gov.uk/ukpga/1925/59).
 

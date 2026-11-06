@@ -49,7 +49,7 @@ as he considers appropriate for the general purposes, or any particular purpose,
 
 may be made only after consulting the Secretary of State.
 
-(6A)[^key-2d4865cea52a10281803216ed47e3cc9] Before exercising the power conferred by subsection (1) in relation to an enactment which extends to Northern Ireland, the Secretary of State must consult the Department of Justice in Northern Ireland.
+(6A)[^c-2d4865cea52a10281803216ed47e3cc9] Before exercising the power conferred by subsection (1) in relation to an enactment which extends to Northern Ireland, the Secretary of State must consult the Department of Justice in Northern Ireland.
 
 (6B) The power conferred by subsection (1) is exercisable by the Department of Justice (rather than by the Secretary of State) where the provision to be made is for the general purposes of this Act and would be within the legislative competence of the Northern Ireland Assembly if it were included in an Act of the Assembly.
 
@@ -66,4 +66,4 @@ may be made only after consulting the Secretary of State.
 
 ## Annotations
 
-[^key-2d4865cea52a10281803216ed47e3cc9]: Textual amendment: S. 173(6A)-(6D) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 15 para. 25](https://www.legislation.gov.uk/uksi/2010/976/schedule/15/paragraph/25) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-2d4865cea52a10281803216ed47e3cc9]: Textual amendment: S. 173(6A)-(6D) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 15 para. 25](https://www.legislation.gov.uk/uksi/2010/976/schedule/15/paragraph/25) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))

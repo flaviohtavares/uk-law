@@ -37,7 +37,7 @@ of 8 April 2011
 
 laying down detailed rules for the implementation of Council Regulation (EC) No 1224/2009 establishing a Community control system for ensuring compliance with the rules of the Common Fisheries Policy
 
-[^key-227f729387c775755853aa3471bcb3a1]
+[^c-227f729387c775755853aa3471bcb3a1]
 
 THE EUROPEAN COMMISSION,
 
@@ -226,7 +226,7 @@ HAS ADOPTED THIS REGULATION
 - [Section Article 4 — Fishing authorisations](section-article-4.md)
 - [Section Article 5 — List of fishing authorisations](section-article-5.md)
 
-#### CHAPTER III — Marking and identification of United Kingdom fishing vessels and their gear[^key-65ee4b9e177297d8a822eac9ae4bb954][^c000001]
+#### CHAPTER III — Marking and identification of United Kingdom fishing vessels and their gear[^c-65ee4b9e177297d8a822eac9ae4bb954][^c000001]
 
 *Extent: E+W+S+N.I.*
 
@@ -351,7 +351,7 @@ HAS ADOPTED THIS REGULATION
 - [Section Article 54 — Completion of landing operation](section-article-54.md)
 - [Section Article 55 — Fishing Operations involving two or more ... fishing vessels](section-article-55.md)
 
-#### CHAPTER IV[^key-dd0397a97d7f34b8ff3944edcead6da4]
+#### CHAPTER IV[^c-dd0397a97d7f34b8ff3944edcead6da4]
 
 *Extent: E+W+S+N.I.*
 
@@ -366,7 +366,7 @@ HAS ADOPTED THIS REGULATION
 
 - [Section Article 58 — Fishing effort report](section-article-58.md)
 
-#### CHAPTER VI[^key-604f868819bb7e6247f400709ff447b4]
+#### CHAPTER VI[^c-604f868819bb7e6247f400709ff447b4]
 
 *Extent: E+W+S+N.I.*
 
@@ -383,7 +383,7 @@ HAS ADOPTED THIS REGULATION
 - [Section Article 62 — Verification and sampling plan](section-article-62.md)
 - [Section Article 63 — Physical verification](section-article-63.md)
 
-#### CHAPTER VIII[^key-880514bf47117d5b18f840cb3f104b63]
+#### CHAPTER VIII[^c-880514bf47117d5b18f840cb3f104b63]
 
 *Extent: E+W+S+N.I.*
 
@@ -535,7 +535,7 @@ HAS ADOPTED THIS REGULATION
 
 - [Section Article 118 — Electronic database](section-article-118.md)
 
-#### CHAPTER V[^key-7b31501bed81b5f6bc24472f9b0d9b9c]
+#### CHAPTER V[^c-7b31501bed81b5f6bc24472f9b0d9b9c]
 
 *Extent: E+W+S+N.I.*
 
@@ -563,13 +563,13 @@ HAS ADOPTED THIS REGULATION
 - [Section Article 133 — Deletion of points](section-article-133.md)
 - [Section Article 134 — Point system for masters of fishing vessels](section-article-134.md)
 
-### TITLE VIII[^key-2c481a0db8a4070dc2b3dc9b5f002859]
+### TITLE VIII[^c-2c481a0db8a4070dc2b3dc9b5f002859]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### CHAPTER I[^key-2c481a0db8a4070dc2b3dc9b5f002859]
+#### CHAPTER I[^c-2c481a0db8a4070dc2b3dc9b5f002859]
 
 *Extent: E+W+S+N.I.*
 
@@ -580,7 +580,7 @@ HAS ADOPTED THIS REGULATION
 - [Section Article 137](section-article-137.md)
 - [Section Article 138](section-article-138.md)
 
-#### CHAPTER II[^key-2c481a0db8a4070dc2b3dc9b5f002859]
+#### CHAPTER II[^c-2c481a0db8a4070dc2b3dc9b5f002859]
 
 *Extent: E+W+S+N.I.*
 
@@ -589,7 +589,7 @@ HAS ADOPTED THIS REGULATION
 - [Section Article 139](section-article-139.md)
 - [Section Article 140](section-article-140.md)
 
-#### CHAPTER III[^key-2c481a0db8a4070dc2b3dc9b5f002859]
+#### CHAPTER III[^c-2c481a0db8a4070dc2b3dc9b5f002859]
 
 *Extent: E+W+S+N.I.*
 
@@ -746,7 +746,7 @@ HAS ADOPTED THIS REGULATION
 
 ## Annotations
 
-[^key-227f729387c775755853aa3471bcb3a1]: Modification: Regulation continued (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(1)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-227f729387c775755853aa3471bcb3a1]: Modification: Regulation continued (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(1)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00001]: Footnote: [OJ L 343, 22.12.2009, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2009.343.01.0001.01.ENG).
 
@@ -788,17 +788,17 @@ HAS ADOPTED THIS REGULATION
 
 [^f00019]: Footnote: [OJ L 123, 19.5.2009, p. 78](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2009.123.01.0078.01.ENG).
 
-[^key-65ee4b9e177297d8a822eac9ae4bb954]: Textual amendment: Words in [Title 2 Ch. 3](https://www.legislation.gov.uk/eur/2011/404/title/II/chapter/III) heading substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(7)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-65ee4b9e177297d8a822eac9ae4bb954]: Textual amendment: Words in [Title 2 Ch. 3](https://www.legislation.gov.uk/eur/2011/404/title/II/chapter/III) heading substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(7)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-dd0397a97d7f34b8ff3944edcead6da4]: Textual amendment: [Title 3 Ch. 4](https://www.legislation.gov.uk/eur/2011/404/title/III/chapter/IV) omitted (31.12.2020) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(48)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/48); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dd0397a97d7f34b8ff3944edcead6da4]: Textual amendment: [Title 3 Ch. 4](https://www.legislation.gov.uk/eur/2011/404/title/III/chapter/IV) omitted (31.12.2020) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(48)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/48); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-604f868819bb7e6247f400709ff447b4]: Textual amendment: [Title 3 Ch. 6](https://www.legislation.gov.uk/eur/2011/404/title/III/chapter/VI) omitted (31.12.2020) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(50)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/50); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-604f868819bb7e6247f400709ff447b4]: Textual amendment: [Title 3 Ch. 6](https://www.legislation.gov.uk/eur/2011/404/title/III/chapter/VI) omitted (31.12.2020) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(50)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/50); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-880514bf47117d5b18f840cb3f104b63]: Textual amendment: [Title 3 Ch. 8](https://www.legislation.gov.uk/eur/2011/404/title/III/chapter/VIII) omitted (31.12.2020) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(53)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/53); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-880514bf47117d5b18f840cb3f104b63]: Textual amendment: [Title 3 Ch. 8](https://www.legislation.gov.uk/eur/2011/404/title/III/chapter/VIII) omitted (31.12.2020) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(53)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/53); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7b31501bed81b5f6bc24472f9b0d9b9c]: Textual amendment: [Title 6 Ch. 5](https://www.legislation.gov.uk/eur/2011/404/title/VI/chapter/V) omitted (31.12.2020) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(89)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/89); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7b31501bed81b5f6bc24472f9b0d9b9c]: Textual amendment: [Title 6 Ch. 5](https://www.legislation.gov.uk/eur/2011/404/title/VI/chapter/V) omitted (31.12.2020) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(89)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/89); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2c481a0db8a4070dc2b3dc9b5f002859]: Textual amendment: [Title 8](https://www.legislation.gov.uk/eur/2011/404/title/VIII) omitted (31.12.2020) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(96)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/96); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2c481a0db8a4070dc2b3dc9b5f002859]: Textual amendment: [Title 8](https://www.legislation.gov.uk/eur/2011/404/title/VIII) omitted (31.12.2020) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(96)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/96); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000002]: Textual amendment: Inserted by [Commission Implementing Regulation (EU) 2015/1962 of 28 October 2015 amending Implementing Regulation (EU) No 404/2011 laying down detailed rules for the implementation of Council Regulation (EC) No 1224/2009 establishing a Community control system for ensuring compliance with the rules of the common fisheries policy](https://www.legislation.gov.uk/eur/2015/1962).
 

@@ -40,7 +40,7 @@ Coming into force
 
 4th January 2009
 
-The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972 [^c1944300] and all other powers enabling them to do so.[^key-ca26d89680f4d510fef8242357174234]
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972 [^c1944300] and all other powers enabling them to do so.[^c-ca26d89680f4d510fef8242357174234]
 
 ## 1. Citation, commencement and extent
 
@@ -58,23 +58,23 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
   - (b) carbon dioxide emitted,
 
   to meet the different needs associated with a standardised use of the building or building unit[^M_F_a28b0897-1673-4c6a-b8fe-5e7608c62eba], such estimate being made in accordance with a method of calculation approved under regulation 7(a);
-- “authorised recipient” means a person or body specified in Part 1 of Schedule 1;[^key-a7b311905a3fd7650f0d9232723e2c42]
-- [^key-7e34e02f8a1deb0e82703b33c740400b]...
+- “authorised recipient” means a person or body specified in Part 1 of Schedule 1;[^c-a7b311905a3fd7650f0d9232723e2c42]
+- [^c-7e34e02f8a1deb0e82703b33c740400b]...
 - “**dwelling**” has the same meaning as regulation 2 of the Building (Scotland) Regulations 2004 [^c1944301];
-- “electronic communication” has the meaning given in section 15(1) of the Electronic Communications Act 2000;[^key-635c6d8ba342ab3dd38aa74959e1c347]
+- “electronic communication” has the meaning given in section 15(1) of the Electronic Communications Act 2000;[^c-635c6d8ba342ab3dd38aa74959e1c347]
 - “**energy performance certificate**” means a certificate which complies with regulation 6;
-- “[^key-7f135f8479e49024b8ca73773c4d8928]**energy performance data**” means information needed to produce an energy performance certificate or a recommendations report and for the purposes of regulations 11 to 14 includes the report reference number relating to that energy performance certificate[^key-353bc35d171af64db29249eb4f10d6cd];
+- “[^c-7f135f8479e49024b8ca73773c4d8928]**energy performance data**” means information needed to produce an energy performance certificate or a recommendations report and for the purposes of regulations 11 to 14 includes the report reference number relating to that energy performance certificate[^c-353bc35d171af64db29249eb4f10d6cd];
 - “energy performance indicator” means an indication of the energy efficiency or performance rating of a building or building unit calculated using the methodology approved in accordance with regulation 7 and expressed on a scale of A to G (with G representing the lowest rating);[^M_F_cdc112c9-e89b-4848-a083-765db1cc4857]
 - “**enforcement authority**” has the meaning given in regulation 15(1);
-- “excluded building” means—[^key-4b0edd1c564b9ddc5deaa0a57895bda0]
+- “excluded building” means—[^c-4b0edd1c564b9ddc5deaa0a57895bda0]
   - (a) a building owned, occupied or used from time to time by any of the naval, military or air forces of the Crown, the Security Service, the Secret Intelligence Service. the Government Communications Headquarters or the Royal Family; or
   - (b) used for the purpose of a prison or a young offenders institution (within the meaning of section 19(1)(b) of the Prisons (Scotland) Act 1989);
 - “Framework Regulations” means the Green Deal Framework (Disclosure, Acknowledgement, Redress etc.) Regulations 2012;
-- “green deal information” means the information relating to a green deal plan specified in Schedule 2;[^key-6dadacb4953f5228ccc28edd035f759d]
+- “green deal information” means the information relating to a green deal plan specified in Schedule 2;[^c-6dadacb4953f5228ccc28edd035f759d]
 - “green deal plan” has the same meaning as in section 1 of the Energy Act 2011;
-- “green deal property” means a property in respect of which there is a green deal plan and payments are still to be made under that green deal plan;[^key-f459483458e451842fc22282decdb858]
+- “green deal property” means a property in respect of which there is a green deal plan and payments are still to be made under that green deal plan;[^c-f459483458e451842fc22282decdb858]
 - “green deal provider” means a person who is authorised by the Secretary of State in accordance with Part 2 of the Framework Regulations to act as a green deal provider;
-- “green deal relevant person” means—[^key-7621a0c9f7ab1bd684eb3284ea685b63]
+- “green deal relevant person” means—[^c-7621a0c9f7ab1bd684eb3284ea685b63]
   - (a) a green deal provider; or
   - (b) a person who is authorised as a green deal assessor certification body in accordance with Part 2 of the Framework Regulations;
 - “house” has the same meaning as in regulation 2 of the Building (Scotland) Regulations 2004;[^M_F_add03acb-4671-4d78-8d79-23638a610b69]
@@ -83,19 +83,19 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 - “owner”, other than in regulation 9, means–
   - (a) in relation to a building or building unit[^M_F_444cb758-bf33-46d3-f73b-e55a47516fee] which is to be sold, the seller; and
   - (b) in relation to a building or building unit which is to be let, the prospective landlord;
-- “payment period” has the meaning given in regulation 2(1) of the Framework Regulations;[^key-b57e18d15c655686e26819482bca3f34]
+- “payment period” has the meaning given in regulation 2(1) of the Framework Regulations;[^c-b57e18d15c655686e26819482bca3f34]
 - “prospective buyer” and “prospective tenant” have the meaning given in regulation 3;
 
-- “[^key-e534d2819d234ca18daa3f944a98f427]**recommendations report**” has the meaning given in regulation 6A;
+- “[^c-e534d2819d234ca18daa3f944a98f427]**recommendations report**” has the meaning given in regulation 6A;
 - “**reference value**” means such current legal standard or benchmark which makes it possible to compare and assess the energy performance of the building or building unit[^M_F_d976ea73-cedf-40ad-9507-2de456cd6957]; and
-- “report reference number” means the unique reference under which the energy performance data relating to an energy performance certificate for a building or building unit is entered onto the register;[^key-3ea8fe883c005f002084efbbd5a6f9d0]
+- “report reference number” means the unique reference under which the energy performance data relating to an energy performance certificate for a building or building unit is entered onto the register;[^c-3ea8fe883c005f002084efbbd5a6f9d0]
 - [^M_F_9b71ad84-645c-4bb2-9e84-06b8b7d36be8]...
 
-(2) Unless otherwise defined in these Regulations, terms used in these Regulations have the same meaning as in Directive 2010/31/[^key-748ce0fb3296b581dc97b4c68b1f1c0c]EU of the European Parliament and of the Council on the energy performance of buildings [^c1944304].
+(2) Unless otherwise defined in these Regulations, terms used in these Regulations have the same meaning as in Directive 2010/31/[^c-748ce0fb3296b581dc97b4c68b1f1c0c]EU of the European Parliament and of the Council on the energy performance of buildings [^c1944304].
 
 ## 3. Meaning of prospective buyer or prospective tenant
 
-A person becomes a prospective buyer or prospective tenant in relation to a building or building unit[^key-4e5216c26a3cd749dbc090928c83827c] on the earliest of the dates when that person—
+A person becomes a prospective buyer or prospective tenant in relation to a building or building unit[^c-4e5216c26a3cd749dbc090928c83827c] on the earliest of the dates when that person—
 
 - (a) requests any information about the building or building unit from the owner for the purpose of deciding whether to buy or lease the building or building unit;
 - (b) makes a request to view the building for the purpose of deciding whether to buy or lease the building or building unit; or
@@ -108,7 +108,7 @@ These Regulations do not apply to—
 - (a) temporary buildings with a planned time of use of two years or less, workshops and non-residential agricultural buildings with low energy demand; and
 - (b) stand-alone buildings with a total useful floor area of less than 50m2 which are not dwellings.
 
-## 5. Energy performance certificates on sale or rent[^key-dde141febe8c6cda7dc7bd39bda26c35]
+## 5. Energy performance certificates on sale or rent[^c-dde141febe8c6cda7dc7bd39bda26c35]
 
 (1) Where a building or building unit is to be sold or let the owner must make a copy of a valid energy performance certificate for the building or building unit and of the related recommendations report available for inspection free of charge to a prospective buyer or a prospective tenant.
 
@@ -120,7 +120,7 @@ These Regulations do not apply to—
 
 (5) This regulation does not apply at any time before the construction of a building or building unit has been completed.
 
-## 5A. Advertisement for sale or let of a building or building unit[^key-cd3a3bc242fbb69aad3326cade5b85e7]
+## 5A. Advertisement for sale or let of a building or building unit[^c-cd3a3bc242fbb69aad3326cade5b85e7]
 
 (1) Subject to paragraph (2), where a building or building unit is offered for sale or let, the owner of the building or building unit must ensure that any advertisement in commercial media offering the building or building unit for sale or let, as the case may be, states the energy performance indicator for that building or building unit.
 
@@ -156,11 +156,11 @@ and reference to written particulars or a written description includes particula
 
 (1) An energy performance certificate must–
 
-- (a) express the asset rating of the building or building unit[^key-ac012c2078bd2e85857383a6f0cbab3b] in a way approved by the Scottish Ministers under regulation 7(b);
+- (a) express the asset rating of the building or building unit[^c-ac012c2078bd2e85857383a6f0cbab3b] in a way approved by the Scottish Ministers under regulation 7(b);
 - (b) include a reference value;
-- (ba)[^key-57279043639ef35e63ba4f16b47fccaa] include an energy performance indicator;
+- (ba)[^c-57279043639ef35e63ba4f16b47fccaa] include an energy performance indicator;
 - (bb) include an indicator, expressed numerically, of primary energy use;
-- (c)[^key-7a615ef0b905279d351e619ca062ee72] contain cost effective and technically feasible recommendations for improving the energy performance of the building or building unit including—
+- (c)[^c-7a615ef0b905279d351e619ca062ee72] contain cost effective and technically feasible recommendations for improving the energy performance of the building or building unit including—
   - (i) measures in connection with a major renovation of the building envelope or technical building systems; and
   - (ii) measures for individual building elements independent of a major renovation of the building envelope or technical building systems;
 - (ca) include a statement indicating that—
@@ -169,47 +169,47 @@ and reference to written particulars or a written description includes particula
 
   are contained in the recommendations report;
 - (d) include the following information–
-  - (i) the address of the building or building unit[^key-48c59b7882ba3a9bbe3eeb9906e9bfda];
+  - (i) the address of the building or building unit[^c-48c59b7882ba3a9bbe3eeb9906e9bfda];
   - (ii) where the certificate is issued by a qualified member of an approved organisation, the name of the approved organisation of which the person issuing the certificate is a member; and
   - (iii) the date on which it was issued; and
-- (e)[^key-dcd417719fcbe48b3b186e6e10fec0f6] be issued by a qualified member of an approved organisation for that category of building or building unit or produced from data entered on a register following a request for disclosure of that certificate made by virtue of regulation 12[^key-c4168f7ded2c6c3e5344d0bc47e14582].
+- (e)[^c-dcd417719fcbe48b3b186e6e10fec0f6] be issued by a qualified member of an approved organisation for that category of building or building unit or produced from data entered on a register following a request for disclosure of that certificate made by virtue of regulation 12[^c-c4168f7ded2c6c3e5344d0bc47e14582].
 
-(1A)[^key-eefa2c333dd80c09c32fccaf81bf5a08] Where the building or building unit to which the energy performance certificate relates is a green deal property the energy performance certificate must (in addition to the information specified in paragraph (1)(a) to (d)) contain a statement that green deal information relating to that building or building unit is contained in the recommendations report.
+(1A)[^c-eefa2c333dd80c09c32fccaf81bf5a08] Where the building or building unit to which the energy performance certificate relates is a green deal property the energy performance certificate must (in addition to the information specified in paragraph (1)(a) to (d)) contain a statement that green deal information relating to that building or building unit is contained in the recommendations report.
 
-(2)[^key-8d044f116822a4132a214cd5c4d1580f] An energy performance certificate and the related recommendations report cease to be valid—
+(2)[^c-8d044f116822a4132a214cd5c4d1580f] An energy performance certificate and the related recommendations report cease to be valid—
 
 - (a) for the purposes of complying with the green deal disclosure obligations, on expiry of the period of one year from the date on which the document was issued or from the date on which it was produced from a register by virtue of regulation 12, as the case may be;
 - (b) for all other purposes, on the expiry of a period of 10 years from the date on which the document was issued.
 
 (3) An energy performance certificate must not contain any information or data from which a living individual (other than the person issuing it or that person's employer) can be identified.
 
-(4)[^key-d65833e226041681b7ccaf9fd83f4d2b] Certification for a building unit may be based—
+(4)[^c-d65833e226041681b7ccaf9fd83f4d2b] Certification for a building unit may be based—
 
 - (a) on the assessment of another representative building unit with the same energy-relevant characteristics in the same building; or
 - (b) on a common certification of the whole building in which the building unit is located.
 
 (5) Paragraph (4)(b) does not apply to a unit that is a dwelling.
 
-(6)[^key-4bc496c00f2346a352be2c6ecb856c93] Certification for a house may be based on the assessment of another representative house where—
+(6)[^c-4bc496c00f2346a352be2c6ecb856c93] Certification for a house may be based on the assessment of another representative house where—
 
 - (a) the representative house is of similar design, size and actual energy performance quality; and
 - (b) the member of the approved organisation issuing the energy performance certificate has confirmed in writing that this is the case.
 
-(7)[^key-bd0d1c6ee325dbc150929dd0a53e0e41] In this regulation, “green deal disclosure obligations” means the obligations to provide an energy performance certificate and recommendations report by virtue of section 12 of the Energy Act 2011 and Part 7 of the Framework Regulations.
+(7)[^c-bd0d1c6ee325dbc150929dd0a53e0e41] In this regulation, “green deal disclosure obligations” means the obligations to provide an energy performance certificate and recommendations report by virtue of section 12 of the Energy Act 2011 and Part 7 of the Framework Regulations.
 
-## 6A. Recommendations report[^key-9e8708e126749db17c807af37f254c6e]
+## 6A. Recommendations report[^c-9e8708e126749db17c807af37f254c6e]
 
 (1) A recommendations report is a report which must include—
 
-- (a) more detailed information on the cost effectiveness of the recommendations made in the energy performance certificate to which it relates; [^key-578e6d6387795d282f147361a8b9a65c]...
-- (b) the steps to be taken to implement those recommendations ; and[^key-014edae39b06abeaa67321b9f723d9c7]
+- (a) more detailed information on the cost effectiveness of the recommendations made in the energy performance certificate to which it relates; [^c-578e6d6387795d282f147361a8b9a65c]...
+- (b) the steps to be taken to implement those recommendations ; and[^c-014edae39b06abeaa67321b9f723d9c7]
 - (c) where the building or building unit to which the recommendation report relates is a green deal property, green deal information for every green deal plan in respect of that building or building unit
 
-(2) A recommendations report must not contain any information or data (except for the address of the building or building unit or green deal information[^key-1fc61ded4e1da57926455411ef5391e7]) from which a living individual (other than the person issuing it or that person's employer) can be identified.
+(2) A recommendations report must not contain any information or data (except for the address of the building or building unit or green deal information[^c-1fc61ded4e1da57926455411ef5391e7]) from which a living individual (other than the person issuing it or that person's employer) can be identified.
 
-(3)[^key-f26151ec47bfc364ca9758bb3dc1edbb] A recommendations report must not contain any information relating to a green deal plan for which the payment period has finished.
+(3)[^c-f26151ec47bfc364ca9758bb3dc1edbb] A recommendations report must not contain any information relating to a green deal plan for which the payment period has finished.
 
-## 7. Assessment of energy performance[^key-a1a7e4dc4f52f61b3cf202bd0a02a559]
+## 7. Assessment of energy performance[^c-a1a7e4dc4f52f61b3cf202bd0a02a559]
 
 The Scottish Ministers must approve—
 
@@ -220,14 +220,14 @@ The Scottish Ministers must approve—
 
 (1) An approved organisation is an organisation approved by the Scottish Ministers in accordance with this regulation as an organisation whose members may issue energy performance certificates.
 
-(2) The terms of approval of any organisation may be limited in relation to the categories of building or building unit[^key-9f04d4eee551ee3124a2a0b331a64472] for which its members may issue energy performance certificates.
+(2) The terms of approval of any organisation may be limited in relation to the categories of building or building unit[^c-9f04d4eee551ee3124a2a0b331a64472] for which its members may issue energy performance certificates.
 
 (3) Before approving an organisation the Scottish Ministers must be satisfied that the organisation will–
 
 - (a) ensure that the preparation and issuing of energy performance certificates is carried out in a consistent, accurate and independent manner; and
 - (b) ensure that members are fit and proper persons who are qualified by their education, training and experience to carry out the preparation and issuing of energy performance certificates.
 
-## 9. Display of energy performance certificates[^key-5174be260ce11d0bd23e2d4e552e7354]
+## 9. Display of energy performance certificates[^c-5174be260ce11d0bd23e2d4e552e7354]
 
 (1) Where this paragraph applies, the owner of a building which is frequently visited by the public or, where the owner is not the occupier, the occupier must ensure that an energy performance certificate is displayed within the building in a prominent place clearly visible to visiting members of the public.
 
@@ -245,7 +245,7 @@ The Scottish Ministers must approve—
 - “**owner**” means a person who has right to the building whether or not that person has completed title, but if, in relation to the building more than one person comes within that description of owner, then “**owner**” means such person as has most recently acquired such right; and
 - “**building which is frequently visited by the public**” means a building into which members of the public have an express or implied licence to enter and which is visited by members of the public on at least a weekly basis.
 
-## 10. Registration of certificates[^key-591b3f284acb5b35ad09b119a5470b2f]
+## 10. Registration of certificates[^c-591b3f284acb5b35ad09b119a5470b2f]
 
 (1) There must be one or more registers of energy performance data from which the following documents may be produced—
 
@@ -261,20 +261,20 @@ The Scottish Ministers must approve—
 (5) Any energy performance data entered onto a register—
 
 - (a) must be registered under a unique reference; and
-- (b) subject to paragraph (5A),[^key-b9e10d1f3ec5527248fa2ad5719f4be8] must not be altered once registered.
+- (b) subject to paragraph (5A),[^c-b9e10d1f3ec5527248fa2ad5719f4be8] must not be altered once registered.
 
-(5A)[^key-c9007a98fa098352879699c3dc86535e] Green deal information entered on the register may be altered where that information is updated or further updated by the green deal provider in accordance with the Framework Regulations.
+(5A)[^c-c9007a98fa098352879699c3dc86535e] Green deal information entered on the register may be altered where that information is updated or further updated by the green deal provider in accordance with the Framework Regulations.
 
 (6) Any energy performance data entered onto a register must be kept on the register for a period of at least 10 years beginning on the date on which it is entered onto the register.
 
-## 10A. Fees for entering data onto register[^key-bb1f97c61e61c2c0ee5d000fd7cbcd94]
+## 10A. Fees for entering data onto register[^c-bb1f97c61e61c2c0ee5d000fd7cbcd94]
 
 The keeper of a register may charge the following fees for entering data onto the register—
 
-- (a) for entering data from which an energy performance certificate and recommendations report which relate to a dwelling may be produced, a fee of £2.60[^key-f577d183aecbbecdf6e08247ae169b98]; and
-- (b) for entering data from which an energy performance certificate and recommendations report which relate to a building or building unit other than a dwelling may be produced, a fee of £12.10[^key-021a950394a2897191ac53dbd3c77009].
+- (a) for entering data from which an energy performance certificate and recommendations report which relate to a dwelling may be produced, a fee of £2.60[^c-f577d183aecbbecdf6e08247ae169b98]; and
+- (b) for entering data from which an energy performance certificate and recommendations report which relate to a building or building unit other than a dwelling may be produced, a fee of £12.10[^c-021a950394a2897191ac53dbd3c77009].
 
-## 11. Disclosures generally[^key-099f16bec1b73355847d9a833281cd39]
+## 11. Disclosures generally[^c-099f16bec1b73355847d9a833281cd39]
 
 The keeper of a register may only disclose any—
 
@@ -282,9 +282,9 @@ The keeper of a register may only disclose any—
 - (b) any document produced from that data; and
 - (c) any information derived from that data,
 
-if authorised by or required to do so by regulations 12 to 14A[^key-c7f3c82042a7bdfa5f8518767d016953].
+if authorised by or required to do so by regulations 12 to 14A[^c-c7f3c82042a7bdfa5f8518767d016953].
 
-## 12. Disclosure of documents[^key-587b10ebb9c9bd1c0ee8c8a6e8695a65]
+## 12. Disclosure of documents[^c-587b10ebb9c9bd1c0ee8c8a6e8695a65]
 
 (1) The keeper of a register may disclose—
 
@@ -293,7 +293,7 @@ if authorised by or required to do so by regulations 12 to 14A[^key-c7f3c82042a7
 
 for a building or building unit to any person if the conditions in paragraph (2) are met.
 
-(2)[^key-cb3674067ec87bc20c99fbf621370735] The conditions are that—
+(2)[^c-cb3674067ec87bc20c99fbf621370735] The conditions are that—
 
 - (a) a request is made by means of a website operated by the keeper; and
 - (b) the request includes—
@@ -316,21 +316,21 @@ for a building or building unit to any person if the conditions in paragraph (2)
   - (i) the full address (excluding the postcode) of the particular building or building unit to which the data relates;
   - (ii) the full postcode of that building or building unit; or
   - (iii) the report reference number for the energy performance data relating to the building or building unit;
-- (ba)[^key-26485559907faf187432d88eee603cb8] the data does not include any**—**
+- (ba)[^c-26485559907faf187432d88eee603cb8] the data does not include any**—**
   - (i) green deal information; or
   - (ii) information revealing the report reference number relating to an energy performance certificate for a green deal property;
 - (c) the disclosure is made subject to—
-  - (i) the condition that the data is to be used by the recipient solely for one or more of the purposes described in Part 2 of Schedule 1; [^key-04a7798614944a3d7cbec96b0e8327bc]...
-  - (ii)[^key-04a7798614944a3d7cbec96b0e8327bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i) the condition that the data is to be used by the recipient solely for one or more of the purposes described in Part 2 of Schedule 1; [^c-04a7798614944a3d7cbec96b0e8327bc]...
+  - (ii)[^c-04a7798614944a3d7cbec96b0e8327bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) the particular building or building unit to which the data relates is not an excluded building.
 
-(3)[^key-db009b10c8c35c5acebf5ea8998352b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-db009b10c8c35c5acebf5ea8998352b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The keeper may refuse to disclose information under paragraph (1) where the person who requests the disclosure has previously failed to comply with a condition of the kind referred to in paragraph (2)(c).
 
-(5)[^key-1b7a067b09e60e2addbf51b19b37aff1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-1b7a067b09e60e2addbf51b19b37aff1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Disclosure of bulk access data[^key-1fd6cd8f35349a6106b43c8ae9443201]
+## 13. Disclosure of bulk access data[^c-1fd6cd8f35349a6106b43c8ae9443201]
 
 (1) The keeper of a register may disclose energy performance data to an authorised recipient if all of the conditions in paragraph (2) are met.
 
@@ -341,28 +341,28 @@ for a building or building unit to any person if the conditions in paragraph (2)
   - (i) by means of a website operated by the keeper; or
   - (ii) by electronic communication sent to an address or location specified by the keeper for the purpose of the receipt of such requests;
 - (c) the data does not include any information revealing the location of an excluded building (or any information from which the location of such a building can be deduced);
-- (ca)[^key-75291615935f5e2681d5ee3eaad90776] the data does not include any**—**
+- (ca)[^c-75291615935f5e2681d5ee3eaad90776] the data does not include any**—**
   - (i) green deal information; or
   - (ii) information revealing the report reference number relating to an energy performance certificate for a green deal property;
 - (d) the disclosure is made subject to—
   - (i) the condition that the data is to be used by the recipient solely for one or more of the purposes described in Part 2 of Schedule 1; and
-  - (ii)[^key-c986b0dd53fd1d8cdc73d3857dc68052] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^c-c986b0dd53fd1d8cdc73d3857dc68052] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) the data does not relate only to a particular building or building unit.
 
-(3)[^key-c7b11d52a55478a736804d938c67dba3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-c7b11d52a55478a736804d938c67dba3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The keeper may refuse to disclose information under paragraph (1) where the person who requests the disclosure has previously failed to comply with a condition of the kind referred to in paragraph (2)(d).
 
-## 14. Disclosure of data[^key-591e38232495ae1170b576b28cbeecf7]
+## 14. Disclosure of data[^c-591e38232495ae1170b576b28cbeecf7]
 
 (1) The keeper of a register must when requested to do so disclose energy performance data—
 
 - (a) to an enforcement authority for the purposes of their duty to enforce these Regulations; or
 - (b) where the disclosure is required by or under any enactment, by any rule of law or by the order of a court.
 
-(2) The keeper may disclose energy performance data to the Scottish Ministers [^key-a04728b2404537c13fb6dcd5462848f9]....
+(2) The keeper may disclose energy performance data to the Scottish Ministers [^c-a04728b2404537c13fb6dcd5462848f9]....
 
-## 14A. Disclosure of green deal information[^key-375da7e00ca04b8f869a131cc9e1474b]
+## 14A. Disclosure of green deal information[^c-375da7e00ca04b8f869a131cc9e1474b]
 
 (1) The keeper of a register must when requested to do so disclose green deal information—
 
@@ -377,13 +377,13 @@ for a building or building unit to any person if the conditions in paragraph (2)
 
 (2) It is the duty of each enforcement authority to enforce these Regulations in its area.
 
-(3)[^key-06cae64361b1f48baa245f06afa58c75] The Scottish Ministers may appoint, subject to such conditions or limitations as they think fit, themselves or another person as an enforcement authority for the purposes of enforcement of the performance of duties under these Regulations by a local authority.
+(3)[^c-06cae64361b1f48baa245f06afa58c75] The Scottish Ministers may appoint, subject to such conditions or limitations as they think fit, themselves or another person as an enforcement authority for the purposes of enforcement of the performance of duties under these Regulations by a local authority.
 
 (4) Where a local authority is appointed as an enforcement authority for the purposes of enforcement of the performance of duties under these Regulations by another local authority that local authority, as enforcement authority, has a duty to enforce these Regulations in the area of the other authority
 
 ## 16. Power to require production of energy performance certificate
 
-(1) An enforcement authority may require an owner who appears to it to be or to have been subject to the duty under regulation 5 in relation to a building or building unit[^key-58be4701809f2c697a8f7b7b464034ad] to produce for inspection a copy of the energy performance certificate for that building or building unit.
+(1) An enforcement authority may require an owner who appears to it to be or to have been subject to the duty under regulation 5 in relation to a building or building unit[^c-58be4701809f2c697a8f7b7b464034ad] to produce for inspection a copy of the energy performance certificate for that building or building unit.
 
 (2) The power conferred by paragraph (1) includes power–
 
@@ -405,7 +405,7 @@ for a building or building unit to any person if the conditions in paragraph (2)
 - (a) unless the owner has failed to make an energy performance certificate available to a prospective buyer or tenant within a period of 9 days after a request for such a certificate was made to the owner; and
 - (b) after the end of the period of 6 months beginning with the day on which it appeared to the enforcement authority that the duty under regulation 5 was breached.
 
-(2A)[^key-5ce0dcf893e322e3a19cfc4eb4996ff8] In addition to the limitations imposed by paragraph (2), a penalty charge notice may not be given in respect of a breach of any duty under regulation 5 occurring on or before 31st March 2009 where–
+(2A)[^c-5ce0dcf893e322e3a19cfc4eb4996ff8] In addition to the limitations imposed by paragraph (2), a penalty charge notice may not be given in respect of a breach of any duty under regulation 5 occurring on or before 31st March 2009 where–
 
 - (a) the owner has made a request for an energy performance certificate within a period of 7 days after the relevant time; and
 - (b) the owner has made the energy performance certificate available to a prospective buyer or prospective tenant within a period of 9 days after obtaining the certificate.
@@ -424,7 +424,7 @@ for a building or building unit to any person if the conditions in paragraph (2)
 
 (4) The amount payable as a penalty charge is–
 
-- (i) £500 for dwellings or buildings (or building units)[^key-119b41da628078b85975dda94e42545d] that are ancillary to dwellings; or
+- (i) £500 for dwellings or buildings (or building units)[^c-119b41da628078b85975dda94e42545d] that are ancillary to dwellings; or
 - (ii) £1000 in any other case.
 
 (5) The period specified under paragraph (3)(d) must not be less than 28 days beginning with the day after that on which the penalty charge notice is given.
@@ -433,14 +433,14 @@ for a building or building unit to any person if the conditions in paragraph (2)
 
 (7) The enforcement authority must withdraw a penalty charge notice where regulation 18 applies.
 
-(8) Any sum received by an enforcement[^key-d9eb9899c3d84059d15f14c0a24a143e] authority under this regulation shall accrue to that authority.
+(8) Any sum received by an enforcement[^c-d9eb9899c3d84059d15f14c0a24a143e] authority under this regulation shall accrue to that authority.
 
-(9)[^key-0269e0b702aa324c2cb3cfdb0c084706] In paragraph (2A)(a)–
+(9)[^c-0269e0b702aa324c2cb3cfdb0c084706] In paragraph (2A)(a)–
 
 - (a) the reference to a request has the same meaning as in regulation 18(2); and
 - (b) “the relevant time” has the same meaning as in regulation 18(3).
 
-## 17A. Penalty charge notice for failure to comply with regulation 5A[^key-5021e194e3ebcd5f432f93af56e30913]
+## 17A. Penalty charge notice for failure to comply with regulation 5A[^c-5021e194e3ebcd5f432f93af56e30913]
 
 (1) An enforcement authority may, if it believes that an owner has breached any duty under regulation 5A, give a penalty charge notice to the owner.
 
@@ -453,7 +453,7 @@ for a building or building unit to any person if the conditions in paragraph (2)
   - (ii) the reference in paragraph (7) to regulation 18 were a reference to regulation 18A; and
 - (b) the reference in regulation 20(4)(a) to regulation 5 were a reference to regulation 5A.
 
-(4) Any sum received by an enforcement[^key-a57f58e44a1ddc66579e88f190a657c7] authority under this regulation shall accrue to that authority.
+(4) Any sum received by an enforcement[^c-a57f58e44a1ddc66579e88f190a657c7] authority under this regulation shall accrue to that authority.
 
 ## 17B. Penalty charge notice for failure to comply with regulation 9
 
@@ -466,7 +466,7 @@ for a building or building unit to any person if the conditions in paragraph (2)
 - (a) that regulation 17 applies as if the reference in paragraph (2)(b) and in paragraph (3)(b) to regulation 5 were a reference to regulation 9; and
 - (b) the reference in regulation 20(4)(a) to regulation 5 were a reference to regulation 9.
 
-(4) Any sum received by an enforcement[^key-982324e15c84baab70e496950f878d79] authority under this regulation shall accrue to that authority.
+(4) Any sum received by an enforcement[^c-982324e15c84baab70e496950f878d79] authority under this regulation shall accrue to that authority.
 
 ## 18. Defence where energy performance certificate unobtainable
 
@@ -474,7 +474,7 @@ for a building or building unit to any person if the conditions in paragraph (2)
 
 - (a) a request for an energy performance certificate was made at least 14 days before the relevant time, and despite all reasonable efforts and enquiries by the owner, the owner did not have possession or control of a valid energy performance certificate at the relevant time; or
 - (b) in the case of a failure to make available an energy performance certificate to a prospective tenant–
-  - (i) the prospective tenant was seeking to lease the building or building unit[^key-ab2aa78ebce8c5086399d3988e8ff11c] due to an emergency which required the tenant's urgent relocation;
+  - (i) the prospective tenant was seeking to lease the building or building unit[^c-ab2aa78ebce8c5086399d3988e8ff11c] due to an emergency which required the tenant's urgent relocation;
   - (ii) at the relevant time the owner did not have possession or control of a valid energy performance certificate;
   - (iii) there was insufficient time in which the owner could reasonably have been expected to obtain a certificate before letting the building or building unit to the prospective tenant; and
   - (iv) the owner made a valid energy performance certificate available to the tenant as soon as reasonably practicable after letting the building or building unit.
@@ -483,7 +483,7 @@ for a building or building unit to any person if the conditions in paragraph (2)
 
 (3) In this regulation “**relevant time**” means the point in time at which one of the events specified in paragraphs (a) to (c) of regulation 3 first occurs.
 
-## 18A. Defence where failure to comply with regulation 5A[^key-c9947ddfb4cde513332fc5397594f7fb]
+## 18A. Defence where failure to comply with regulation 5A[^c-c9947ddfb4cde513332fc5397594f7fb]
 
 An owner is not liable to a penalty charge for a breach of the duty imposed by regulation 5A if it can be demonstrated that the instructions for the placement of the advertisement offering the building or building unit for sale or let included—
 
@@ -585,7 +585,7 @@ St Andrew's House,
 
 Edinburgh
 
-## SCHEDULE 1 — Disclosure of data[^key-bb1ed7f3131eca3ff59b8f942af6ec04]
+## SCHEDULE 1 — Disclosure of data[^c-bb1ed7f3131eca3ff59b8f942af6ec04]
 
 Regulations 2, 12A(2)(c) and13(2)(d)
 
@@ -604,7 +604,7 @@ The following persons or bodies are authorised recipients—
 - (i) an approved organisation;
 - (j) a green deal relevant person;
 - (k) the holder of a licence under section 6(1)(c) or (d) of the Electricity Act 1989 (distribution and supply licences) which has been modified by the Secretary of State under section 41(1) of the Energy Act 2008 (power to amend licence conditions etc: feed-in tariffs).
-- (l)[^key-f7909d11063d44cc73249b4ff14814ac] a local authority;
+- (l)[^c-f7909d11063d44cc73249b4ff14814ac] a local authority;
 - (m) a county council, district council or parish council in England;
 - (n) a London borough council;
 - (o) the Greater London Authority;
@@ -635,9 +635,9 @@ The purposes are—
 
 **7.** Determining whether energy efficiency improvements that may be made pursuant to a green deal plan have or have not been made in respect of a particular building or buildings.
 
-**8.**[^key-af30cda851781421a50be5187dd7fbd8] Conducting research, carrying out statistical analysis or providing information in respect of the characteristics of buildings or building units.
+**8.**[^c-af30cda851781421a50be5187dd7fbd8] Conducting research, carrying out statistical analysis or providing information in respect of the characteristics of buildings or building units.
 
-### PART 3 — Interpretation[^key-01d0cb9ed3c8e84a07b393492894bd11]
+### PART 3 — Interpretation[^c-01d0cb9ed3c8e84a07b393492894bd11]
 
 In this Schedule—
 
@@ -646,7 +646,7 @@ In this Schedule—
 - “London borough council” includes the Common Council of the City of London; and
 - “registered social landlord” means a body registered in the register maintained under section 20(1) of the Housing (Scotland) Act 2010.
 
-## SCHEDULE 2[^key-b953e32909616669e7af497d125e7b18]
+## SCHEDULE 2[^c-b953e32909616669e7af497d125e7b18]
 
 Regulation 2
 
@@ -808,31 +808,31 @@ A Transposition Note setting out how these Regulations transpose the Directive a
 
 [^c1944300]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by the [Scotland Act 1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46), [Schedule 8](https://www.legislation.gov.uk/ukpga/1998/46/schedule/8), [paragraph 15(3)](https://www.legislation.gov.uk/ukpga/1998/46/paragraph/15/3) and section 27 of the [Regulatory and Legislative Reform Act 2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51).. The functions conferred upon the Minister of the Crown under section 2(2) of the European Community Act 1972, insofar as exercisable within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act 1998.
 
-[^key-ca26d89680f4d510fef8242357174234]: Modification: Regulations: power to amend conferred (22.6.2012) by [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [ss. 10(2)](https://www.legislation.gov.uk/ukpga/2011/16/section/10/2), [121(1)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/1) (with [ss. 40](https://www.legislation.gov.uk/ukpga/2011/16/section/40), [41](https://www.legislation.gov.uk/ukpga/2011/16/section/41)); [S.S.I. 2012/191](https://www.legislation.gov.uk/ssi/2012/191), [art. 2(1)](https://www.legislation.gov.uk/ssi/2012/191/article/2/1)[(2)(a)](https://www.legislation.gov.uk/ssi/2012/191/article/2/2/a)
+[^c-ca26d89680f4d510fef8242357174234]: Modification: Regulations: power to amend conferred (22.6.2012) by [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [ss. 10(2)](https://www.legislation.gov.uk/ukpga/2011/16/section/10/2), [121(1)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/1) (with [ss. 40](https://www.legislation.gov.uk/ukpga/2011/16/section/40), [41](https://www.legislation.gov.uk/ukpga/2011/16/section/41)); [S.S.I. 2012/191](https://www.legislation.gov.uk/ssi/2012/191), [art. 2(1)](https://www.legislation.gov.uk/ssi/2012/191/article/2/1)[(2)(a)](https://www.legislation.gov.uk/ssi/2012/191/article/2/2/a)
 
 [^M_F_a28b0897-1673-4c6a-b8fe-5e7608c62eba]: Textual amendment: Words in reg. 2(1) inserted (1.10.2012) by [The Energy Performance of Buildings (Scotland) Amendment (No. 2) Regulations 2012 (S.S.I. 2012/208)](https://www.legislation.gov.uk/ssi/2012/208), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/208/regulation/1/1), [3(a)(i)](https://www.legislation.gov.uk/ssi/2012/208/regulation/3/a/i) (with [reg. 19](https://www.legislation.gov.uk/ssi/2012/208/regulation/19))
 
-[^key-a7b311905a3fd7650f0d9232723e2c42]: Textual amendment: Words in reg. 2(1) inserted (21.12.2012) by [The Energy Performance of Buildings (Scotland) Amendment (No. 3) Regulations 2012 (S.S.I. 2012/315)](https://www.legislation.gov.uk/ssi/2012/315), [regs. 1](https://www.legislation.gov.uk/ssi/2012/315/regulation/1), [3(a)](https://www.legislation.gov.uk/ssi/2012/315/regulation/3/a)
+[^c-a7b311905a3fd7650f0d9232723e2c42]: Textual amendment: Words in reg. 2(1) inserted (21.12.2012) by [The Energy Performance of Buildings (Scotland) Amendment (No. 3) Regulations 2012 (S.S.I. 2012/315)](https://www.legislation.gov.uk/ssi/2012/315), [regs. 1](https://www.legislation.gov.uk/ssi/2012/315/regulation/1), [3(a)](https://www.legislation.gov.uk/ssi/2012/315/regulation/3/a)
 
-[^key-7e34e02f8a1deb0e82703b33c740400b]: Textual amendment: Words in reg. 2(1) omitted (1.10.2012) by virtue of [The Energy Performance of Buildings (Scotland) Amendment Regulations 2012 (S.S.I. 2012/190)](https://www.legislation.gov.uk/ssi/2012/190), [regs. 1](https://www.legislation.gov.uk/ssi/2012/190/regulation/1), [3(a)](https://www.legislation.gov.uk/ssi/2012/190/regulation/3/a)
+[^c-7e34e02f8a1deb0e82703b33c740400b]: Textual amendment: Words in reg. 2(1) omitted (1.10.2012) by virtue of [The Energy Performance of Buildings (Scotland) Amendment Regulations 2012 (S.S.I. 2012/190)](https://www.legislation.gov.uk/ssi/2012/190), [regs. 1](https://www.legislation.gov.uk/ssi/2012/190/regulation/1), [3(a)](https://www.legislation.gov.uk/ssi/2012/190/regulation/3/a)
 
 [^c1944301]: Marginal citation: [S.S.I. 2004/406](https://www.legislation.gov.uk/ssi/2004/406) as amended by [S.S.I. 2006/534](https://www.legislation.gov.uk/ssi/2006/534) and [S.S.I. 2007/166](https://www.legislation.gov.uk/ssi/2007/166).
 
-[^key-635c6d8ba342ab3dd38aa74959e1c347]: Textual amendment: Words in reg. 2(1) inserted (21.12.2012) by [The Energy Performance of Buildings (Scotland) Amendment (No. 3) Regulations 2012 (S.S.I. 2012/315)](https://www.legislation.gov.uk/ssi/2012/315), [regs. 1](https://www.legislation.gov.uk/ssi/2012/315/regulation/1), [3(b)](https://www.legislation.gov.uk/ssi/2012/315/regulation/3/b)
+[^c-635c6d8ba342ab3dd38aa74959e1c347]: Textual amendment: Words in reg. 2(1) inserted (21.12.2012) by [The Energy Performance of Buildings (Scotland) Amendment (No. 3) Regulations 2012 (S.S.I. 2012/315)](https://www.legislation.gov.uk/ssi/2012/315), [regs. 1](https://www.legislation.gov.uk/ssi/2012/315/regulation/1), [3(b)](https://www.legislation.gov.uk/ssi/2012/315/regulation/3/b)
 
-[^key-7f135f8479e49024b8ca73773c4d8928]: Textual amendment: Words in reg. 2(1) inserted (1.10.2012) by [The Energy Performance of Buildings (Scotland) Amendment Regulations 2012 (S.S.I. 2012/190)](https://www.legislation.gov.uk/ssi/2012/190), [regs. 1](https://www.legislation.gov.uk/ssi/2012/190/regulation/1), [3(b)](https://www.legislation.gov.uk/ssi/2012/190/regulation/3/b)
+[^c-7f135f8479e49024b8ca73773c4d8928]: Textual amendment: Words in reg. 2(1) inserted (1.10.2012) by [The Energy Performance of Buildings (Scotland) Amendment Regulations 2012 (S.S.I. 2012/190)](https://www.legislation.gov.uk/ssi/2012/190), [regs. 1](https://www.legislation.gov.uk/ssi/2012/190/regulation/1), [3(b)](https://www.legislation.gov.uk/ssi/2012/190/regulation/3/b)
 
-[^key-353bc35d171af64db29249eb4f10d6cd]: Textual amendment: Words in reg. 2 inserted (27.1.2013) by [The Energy Performance of Buildings (Scotland) Amendment Regulations 2013 (S.S.I. 2013/12)](https://www.legislation.gov.uk/ssi/2013/12), [regs. 1](https://www.legislation.gov.uk/ssi/2013/12/regulation/1), [3(1)(a)](https://www.legislation.gov.uk/ssi/2013/12/regulation/3/1/a)
+[^c-353bc35d171af64db29249eb4f10d6cd]: Textual amendment: Words in reg. 2 inserted (27.1.2013) by [The Energy Performance of Buildings (Scotland) Amendment Regulations 2013 (S.S.I. 2013/12)](https://www.legislation.gov.uk/ssi/2013/12), [regs. 1](https://www.legislation.gov.uk/ssi/2013/12/regulation/1), [3(1)(a)](https://www.legislation.gov.uk/ssi/2013/12/regulation/3/1/a)
 
 [^M_F_cdc112c9-e89b-4848-a083-765db1cc4857]: Textual amendment: Words in reg. 2(1) inserted (1.10.2012) by [The Energy Performance of Buildings (Scotland) Amendment (No. 2) Regulations 2012 (S.S.I. 2012/208)](https://www.legislation.gov.uk/ssi/2012/208), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/208/regulation/1/1), [3(a)(ii)](https://www.legislation.gov.uk/ssi/2012/208/regulation/3/a/ii) (with [reg. 19](https://www.legislation.gov.uk/ssi/2012/208/regulation/19))
 
-[^key-4b0edd1c564b9ddc5deaa0a57895bda0]: Textual amendment: Words in reg. 2(1) inserted (21.12.2012) by [The Energy Performance of Buildings (Scotland) Amendment (No. 3) Regulations 2012 (S.S.I. 2012/315)](https://www.legislation.gov.uk/ssi/2012/315), [regs. 1](https://www.legislation.gov.uk/ssi/2012/315/regulation/1), [3(c)](https://www.legislation.gov.uk/ssi/2012/315/regulation/3/c)
+[^c-4b0edd1c564b9ddc5deaa0a57895bda0]: Textual amendment: Words in reg. 2(1) inserted (21.12.2012) by [The Energy Performance of Buildings (Scotland) Amendment (No. 3) Regulations 2012 (S.S.I. 2012/315)](https://www.legislation.gov.uk/ssi/2012/315), [regs. 1](https://www.legislation.gov.uk/ssi/2012/315/regulation/1), [3(c)](https://www.legislation.gov.uk/ssi/2012/315/regulation/3/c)
 
-[^key-6dadacb4953f5228ccc28edd035f759d]: Textual amendment: Words in reg. 2 inserted (27.1.2013) by [The Energy Performance of Buildings (Scotland) Amendment Regulations 2013 (S.S.I. 2013/12)](https://www.legislation.gov.uk/ssi/2013/12), [regs. 1](https://www.legislation.gov.uk/ssi/2013/12/regulation/1), [3(1)(b)](https://www.legislation.gov.uk/ssi/2013/12/regulation/3/1/b)
+[^c-6dadacb4953f5228ccc28edd035f759d]: Textual amendment: Words in reg. 2 inserted (27.1.2013) by [The Energy Performance of Buildings (Scotland) Amendment Regulations 2013 (S.S.I. 2013/12)](https://www.legislation.gov.uk/ssi/2013/12), [regs. 1](https://www.legislation.gov.uk/ssi/2013/12/regulation/1), [3(1)(b)](https://www.legislation.gov.uk/ssi/2013/12/regulation/3/1/b)
 
-[^key-f459483458e451842fc22282decdb858]: Textual amendment: Words in reg. 2 inserted (27.1.2013) by [The Energy Performance of Buildings (Scotland) Amendment Regulations 2013 (S.S.I. 2013/12)](https://www.legislation.gov.uk/ssi/2013/12), [regs. 1](https://www.legislation.gov.uk/ssi/2013/12/regulation/1), [3(1)(c)](https://www.legislation.gov.uk/ssi/2013/12/regulation/3/1/c)
+[^c-f459483458e451842fc22282decdb858]: Textual amendment: Words in reg. 2 inserted (27.1.2013) by [The Energy Performance of Buildings (Scotland) Amendment Regulations 2013 (S.S.I. 2013/12)](https://www.legislation.gov.uk/ssi/2013/12), [regs. 1](https://www.legislation.gov.uk/ssi/2013/12/regulation/1), [3(1)(c)](https://www.legislation.gov.uk/ssi/2013/12/regulation/3/1/c)
 
-[^key-7621a0c9f7ab1bd684eb3284ea685b63]: Textual amendment: Words in reg. 2 substituted (27.1.2013) by [The Energy Performance of Buildings (Scotland) Amendment Regulations 2013 (S.S.I. 2013/12)](https://www.legislation.gov.uk/ssi/2013/12), [regs. 1](https://www.legislation.gov.uk/ssi/2013/12/regulation/1), [3(1)(d)](https://www.legislation.gov.uk/ssi/2013/12/regulation/3/1/d)
+[^c-7621a0c9f7ab1bd684eb3284ea685b63]: Textual amendment: Words in reg. 2 substituted (27.1.2013) by [The Energy Performance of Buildings (Scotland) Amendment Regulations 2013 (S.S.I. 2013/12)](https://www.legislation.gov.uk/ssi/2013/12), [regs. 1](https://www.legislation.gov.uk/ssi/2013/12/regulation/1), [3(1)(d)](https://www.legislation.gov.uk/ssi/2013/12/regulation/3/1/d)
 
 [^M_F_add03acb-4671-4d78-8d79-23638a610b69]: Textual amendment: Words in reg. 2(1) inserted (1.10.2012) by [The Energy Performance of Buildings (Scotland) Amendment (No. 2) Regulations 2012 (S.S.I. 2012/208)](https://www.legislation.gov.uk/ssi/2012/208), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/208/regulation/1/1), [3(a)(iii)](https://www.legislation.gov.uk/ssi/2012/208/regulation/3/a/iii) (with [reg. 19](https://www.legislation.gov.uk/ssi/2012/208/regulation/19))
 
@@ -840,134 +840,134 @@ A Transposition Note setting out how these Regulations transpose the Directive a
 
 [^M_F_444cb758-bf33-46d3-f73b-e55a47516fee]: Textual amendment: Words in reg. 2(1) inserted (1.10.2012) by [The Energy Performance of Buildings (Scotland) Amendment (No. 2) Regulations 2012 (S.S.I. 2012/208)](https://www.legislation.gov.uk/ssi/2012/208), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/208/regulation/1/1), [3(a)(iv)](https://www.legislation.gov.uk/ssi/2012/208/regulation/3/a/iv) (with [reg. 19](https://www.legislation.gov.uk/ssi/2012/208/regulation/19))
 
-[^key-b57e18d15c655686e26819482bca3f34]: Textual amendment: Words in reg. 2 inserted (27.1.2013) by [The Energy Performance of Buildings (Scotland) Amendment Regulations 2013 (S.S.I. 2013/12)](https://www.legislation.gov.uk/ssi/2013/12), [regs. 1](https://www.legislation.gov.uk/ssi/2013/12/regulation/1), [3(1)(e)](https://www.legislation.gov.uk/ssi/2013/12/regulation/3/1/e)
+[^c-b57e18d15c655686e26819482bca3f34]: Textual amendment: Words in reg. 2 inserted (27.1.2013) by [The Energy Performance of Buildings (Scotland) Amendment Regulations 2013 (S.S.I. 2013/12)](https://www.legislation.gov.uk/ssi/2013/12), [regs. 1](https://www.legislation.gov.uk/ssi/2013/12/regulation/1), [3(1)(e)](https://www.legislation.gov.uk/ssi/2013/12/regulation/3/1/e)
 
-[^key-e534d2819d234ca18daa3f944a98f427]: Textual amendment: Words in reg. 2(1) inserted (1.10.2012) by [The Energy Performance of Buildings (Scotland) Amendment Regulations 2012 (S.S.I. 2012/190)](https://www.legislation.gov.uk/ssi/2012/190), [regs. 1](https://www.legislation.gov.uk/ssi/2012/190/regulation/1), [3(c)](https://www.legislation.gov.uk/ssi/2012/190/regulation/3/c)
+[^c-e534d2819d234ca18daa3f944a98f427]: Textual amendment: Words in reg. 2(1) inserted (1.10.2012) by [The Energy Performance of Buildings (Scotland) Amendment Regulations 2012 (S.S.I. 2012/190)](https://www.legislation.gov.uk/ssi/2012/190), [regs. 1](https://www.legislation.gov.uk/ssi/2012/190/regulation/1), [3(c)](https://www.legislation.gov.uk/ssi/2012/190/regulation/3/c)
 
 [^M_F_d976ea73-cedf-40ad-9507-2de456cd6957]: Textual amendment: Words in reg. 2(1) inserted (1.10.2012) by [The Energy Performance of Buildings (Scotland) Amendment (No. 2) Regulations 2012 (S.S.I. 2012/208)](https://www.legislation.gov.uk/ssi/2012/208), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/208/regulation/1/1), [3(a)(v)](https://www.legislation.gov.uk/ssi/2012/208/regulation/3/a/v) (with [reg. 19](https://www.legislation.gov.uk/ssi/2012/208/regulation/19))
 
-[^key-3ea8fe883c005f002084efbbd5a6f9d0]: Textual amendment: Words in reg. 2(1) inserted (21.12.2012) by [The Energy Performance of Buildings (Scotland) Amendment (No. 3) Regulations 2012 (S.S.I. 2012/315)](https://www.legislation.gov.uk/ssi/2012/315), [regs. 1](https://www.legislation.gov.uk/ssi/2012/315/regulation/1), [3(d)](https://www.legislation.gov.uk/ssi/2012/315/regulation/3/d)
+[^c-3ea8fe883c005f002084efbbd5a6f9d0]: Textual amendment: Words in reg. 2(1) inserted (21.12.2012) by [The Energy Performance of Buildings (Scotland) Amendment (No. 3) Regulations 2012 (S.S.I. 2012/315)](https://www.legislation.gov.uk/ssi/2012/315), [regs. 1](https://www.legislation.gov.uk/ssi/2012/315/regulation/1), [3(d)](https://www.legislation.gov.uk/ssi/2012/315/regulation/3/d)
 
 [^M_F_9b71ad84-645c-4bb2-9e84-06b8b7d36be8]: Textual amendment: Words in reg. 2(1) omitted (1.10.2012) by [The Energy Performance of Buildings (Scotland) Amendment (No. 2) Regulations 2012 (S.S.I. 2012/208)](https://www.legislation.gov.uk/ssi/2012/208), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/208/regulation/1/1), [3(a)(vi)](https://www.legislation.gov.uk/ssi/2012/208/regulation/3/a/vi) (with [reg. 19](https://www.legislation.gov.uk/ssi/2012/208/regulation/19))
 
-[^key-748ce0fb3296b581dc97b4c68b1f1c0c]: Textual amendment: Word in reg. 2(2) substituted (1.10.2012) by [The Energy Performance of Buildings (Scotland) Amendment (No. 2) Regulations 2012 (S.S.I. 2012/208)](https://www.legislation.gov.uk/ssi/2012/208), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/208/regulation/1/1), [3(b)](https://www.legislation.gov.uk/ssi/2012/208/regulation/3/b) (with [reg. 19](https://www.legislation.gov.uk/ssi/2012/208/regulation/19))
+[^c-748ce0fb3296b581dc97b4c68b1f1c0c]: Textual amendment: Word in reg. 2(2) substituted (1.10.2012) by [The Energy Performance of Buildings (Scotland) Amendment (No. 2) Regulations 2012 (S.S.I. 2012/208)](https://www.legislation.gov.uk/ssi/2012/208), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/208/regulation/1/1), [3(b)](https://www.legislation.gov.uk/ssi/2012/208/regulation/3/b) (with [reg. 19](https://www.legislation.gov.uk/ssi/2012/208/regulation/19))
 
 [^c1944304]: Marginal citation: O.J. No. L 1, 4.1.2003, p.65.
 
-[^key-4e5216c26a3cd749dbc090928c83827c]: Textual amendment: Words in reg. 3 inserted (1.10.2012) by [The Energy Performance of Buildings (Scotland) Amendment (No. 2) Regulations 2012 (S.S.I. 2012/208)](https://www.legislation.gov.uk/ssi/2012/208), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/208/regulation/1/1), [4](https://www.legislation.gov.uk/ssi/2012/208/regulation/4) (with [reg. 19](https://www.legislation.gov.uk/ssi/2012/208/regulation/19))
+[^c-4e5216c26a3cd749dbc090928c83827c]: Textual amendment: Words in reg. 3 inserted (1.10.2012) by [The Energy Performance of Buildings (Scotland) Amendment (No. 2) Regulations 2012 (S.S.I. 2012/208)](https://www.legislation.gov.uk/ssi/2012/208), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/208/regulation/1/1), [4](https://www.legislation.gov.uk/ssi/2012/208/regulation/4) (with [reg. 19](https://www.legislation.gov.uk/ssi/2012/208/regulation/19))
 
-[^key-dde141febe8c6cda7dc7bd39bda26c35]: Textual amendment: Reg. 5 substituted (1.10.2012) by [The Energy Performance of Buildings (Scotland) Amendment (No. 2) Regulations 2012 (S.S.I. 2012/208)](https://www.legislation.gov.uk/ssi/2012/208), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/208/regulation/1/1), [5](https://www.legislation.gov.uk/ssi/2012/208/regulation/5) (with [reg. 19](https://www.legislation.gov.uk/ssi/2012/208/regulation/19))
+[^c-dde141febe8c6cda7dc7bd39bda26c35]: Textual amendment: Reg. 5 substituted (1.10.2012) by [The Energy Performance of Buildings (Scotland) Amendment (No. 2) Regulations 2012 (S.S.I. 2012/208)](https://www.legislation.gov.uk/ssi/2012/208), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/208/regulation/1/1), [5](https://www.legislation.gov.uk/ssi/2012/208/regulation/5) (with [reg. 19](https://www.legislation.gov.uk/ssi/2012/208/regulation/19))
 
-[^key-cd3a3bc242fbb69aad3326cade5b85e7]: Textual amendment: Reg. 5A inserted (9.1.2013) by [The Energy Performance of Buildings (Scotland) Amendment (No. 2) Regulations 2012 (S.S.I. 2012/208)](https://www.legislation.gov.uk/ssi/2012/208), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2012/208/regulation/1/2), [6](https://www.legislation.gov.uk/ssi/2012/208/regulation/6) (with [reg. 19](https://www.legislation.gov.uk/ssi/2012/208/regulation/19))
+[^c-cd3a3bc242fbb69aad3326cade5b85e7]: Textual amendment: Reg. 5A inserted (9.1.2013) by [The Energy Performance of Buildings (Scotland) Amendment (No. 2) Regulations 2012 (S.S.I. 2012/208)](https://www.legislation.gov.uk/ssi/2012/208), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2012/208/regulation/1/2), [6](https://www.legislation.gov.uk/ssi/2012/208/regulation/6) (with [reg. 19](https://www.legislation.gov.uk/ssi/2012/208/regulation/19))
 
-[^key-ac012c2078bd2e85857383a6f0cbab3b]: Textual amendment: Words in reg. 6(1)(a) inserted (1.10.2012) by [The Energy Performance of Buildings (Scotland) Amendment (No. 2) Regulations 2012 (S.S.I. 2012/208)](https://www.legislation.gov.uk/ssi/2012/208), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/208/regulation/1/1), [7(a)](https://www.legislation.gov.uk/ssi/2012/208/regulation/7/a) (with [reg. 19](https://www.legislation.gov.uk/ssi/2012/208/regulation/19))
+[^c-ac012c2078bd2e85857383a6f0cbab3b]: Textual amendment: Words in reg. 6(1)(a) inserted (1.10.2012) by [The Energy Performance of Buildings (Scotland) Amendment (No. 2) Regulations 2012 (S.S.I. 2012/208)](https://www.legislation.gov.uk/ssi/2012/208), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/208/regulation/1/1), [7(a)](https://www.legislation.gov.uk/ssi/2012/208/regulation/7/a) (with [reg. 19](https://www.legislation.gov.uk/ssi/2012/208/regulation/19))
 
-[^key-57279043639ef35e63ba4f16b47fccaa]: Textual amendment: Reg. 6(1)(ba)(bb) inserted (1.10.2012) by [The Energy Performance of Buildings (Scotland) Amendment (No. 2) Regulations 2012 (S.S.I. 2012/208)](https://www.legislation.gov.uk/ssi/2012/208), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/208/regulation/1/1), [7(b)](https://www.legislation.gov.uk/ssi/2012/208/regulation/7/b) (with [reg. 19](https://www.legislation.gov.uk/ssi/2012/208/regulation/19))
+[^c-57279043639ef35e63ba4f16b47fccaa]: Textual amendment: Reg. 6(1)(ba)(bb) inserted (1.10.2012) by [The Energy Performance of Buildings (Scotland) Amendment (No. 2) Regulations 2012 (S.S.I. 2012/208)](https://www.legislation.gov.uk/ssi/2012/208), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/208/regulation/1/1), [7(b)](https://www.legislation.gov.uk/ssi/2012/208/regulation/7/b) (with [reg. 19](https://www.legislation.gov.uk/ssi/2012/208/regulation/19))
 
-[^key-7a615ef0b905279d351e619ca062ee72]: Textual amendment: Reg. 6(1)(c)(ca) substituted for reg. 6(1)(c) (1.10.2012) by [The Energy Performance of Buildings (Scotland) Amendment (No. 2) Regulations 2012 (S.S.I. 2012/208)](https://www.legislation.gov.uk/ssi/2012/208), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/208/regulation/1/1), [7(c)](https://www.legislation.gov.uk/ssi/2012/208/regulation/7/c) (with [reg. 19](https://www.legislation.gov.uk/ssi/2012/208/regulation/19))
+[^c-7a615ef0b905279d351e619ca062ee72]: Textual amendment: Reg. 6(1)(c)(ca) substituted for reg. 6(1)(c) (1.10.2012) by [The Energy Performance of Buildings (Scotland) Amendment (No. 2) Regulations 2012 (S.S.I. 2012/208)](https://www.legislation.gov.uk/ssi/2012/208), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/208/regulation/1/1), [7(c)](https://www.legislation.gov.uk/ssi/2012/208/regulation/7/c) (with [reg. 19](https://www.legislation.gov.uk/ssi/2012/208/regulation/19))
 
-[^key-48c59b7882ba3a9bbe3eeb9906e9bfda]: Textual amendment: Words in reg. 6(1)(d)(i) inserted (1.10.2012) by [The Energy Performance of Buildings (Scotland) Amendment (No. 2) Regulations 2012 (S.S.I. 2012/208)](https://www.legislation.gov.uk/ssi/2012/208), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/208/regulation/1/1), [7(d)](https://www.legislation.gov.uk/ssi/2012/208/regulation/7/d) (with [reg. 19](https://www.legislation.gov.uk/ssi/2012/208/regulation/19))
+[^c-48c59b7882ba3a9bbe3eeb9906e9bfda]: Textual amendment: Words in reg. 6(1)(d)(i) inserted (1.10.2012) by [The Energy Performance of Buildings (Scotland) Amendment (No. 2) Regulations 2012 (S.S.I. 2012/208)](https://www.legislation.gov.uk/ssi/2012/208), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/208/regulation/1/1), [7(d)](https://www.legislation.gov.uk/ssi/2012/208/regulation/7/d) (with [reg. 19](https://www.legislation.gov.uk/ssi/2012/208/regulation/19))
 
-[^key-dcd417719fcbe48b3b186e6e10fec0f6]: Textual amendment: Reg. 6(1)(e) substituted (1.10.2012) by [The Energy Performance of Buildings (Scotland) Amendment (No. 2) Regulations 2012 (S.S.I. 2012/208)](https://www.legislation.gov.uk/ssi/2012/208), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/208/regulation/1/1), [7(e)](https://www.legislation.gov.uk/ssi/2012/208/regulation/7/e) (with [reg. 19](https://www.legislation.gov.uk/ssi/2012/208/regulation/19))
+[^c-dcd417719fcbe48b3b186e6e10fec0f6]: Textual amendment: Reg. 6(1)(e) substituted (1.10.2012) by [The Energy Performance of Buildings (Scotland) Amendment (No. 2) Regulations 2012 (S.S.I. 2012/208)](https://www.legislation.gov.uk/ssi/2012/208), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/208/regulation/1/1), [7(e)](https://www.legislation.gov.uk/ssi/2012/208/regulation/7/e) (with [reg. 19](https://www.legislation.gov.uk/ssi/2012/208/regulation/19))
 
-[^key-c4168f7ded2c6c3e5344d0bc47e14582]: Textual amendment: Words in reg. 6(1)(e) inserted (27.1.2013) by [The Energy Performance of Buildings (Scotland) Amendment Regulations 2013 (S.S.I. 2013/12)](https://www.legislation.gov.uk/ssi/2013/12), [regs. 1](https://www.legislation.gov.uk/ssi/2013/12/regulation/1), [4(a)](https://www.legislation.gov.uk/ssi/2013/12/regulation/4/a)
+[^c-c4168f7ded2c6c3e5344d0bc47e14582]: Textual amendment: Words in reg. 6(1)(e) inserted (27.1.2013) by [The Energy Performance of Buildings (Scotland) Amendment Regulations 2013 (S.S.I. 2013/12)](https://www.legislation.gov.uk/ssi/2013/12), [regs. 1](https://www.legislation.gov.uk/ssi/2013/12/regulation/1), [4(a)](https://www.legislation.gov.uk/ssi/2013/12/regulation/4/a)
 
-[^key-eefa2c333dd80c09c32fccaf81bf5a08]: Textual amendment: Reg. 6(1A) inserted (27.1.2013) by [The Energy Performance of Buildings (Scotland) Amendment Regulations 2013 (S.S.I. 2013/12)](https://www.legislation.gov.uk/ssi/2013/12), [regs. 1](https://www.legislation.gov.uk/ssi/2013/12/regulation/1), [4(b)](https://www.legislation.gov.uk/ssi/2013/12/regulation/4/b)
+[^c-eefa2c333dd80c09c32fccaf81bf5a08]: Textual amendment: Reg. 6(1A) inserted (27.1.2013) by [The Energy Performance of Buildings (Scotland) Amendment Regulations 2013 (S.S.I. 2013/12)](https://www.legislation.gov.uk/ssi/2013/12), [regs. 1](https://www.legislation.gov.uk/ssi/2013/12/regulation/1), [4(b)](https://www.legislation.gov.uk/ssi/2013/12/regulation/4/b)
 
-[^key-8d044f116822a4132a214cd5c4d1580f]: Textual amendment: Reg. 6(2) substituted (27.1.2013) by [The Energy Performance of Buildings (Scotland) Amendment Regulations 2013 (S.S.I. 2013/12)](https://www.legislation.gov.uk/ssi/2013/12), [regs. 1](https://www.legislation.gov.uk/ssi/2013/12/regulation/1), [4(c)](https://www.legislation.gov.uk/ssi/2013/12/regulation/4/c)
+[^c-8d044f116822a4132a214cd5c4d1580f]: Textual amendment: Reg. 6(2) substituted (27.1.2013) by [The Energy Performance of Buildings (Scotland) Amendment Regulations 2013 (S.S.I. 2013/12)](https://www.legislation.gov.uk/ssi/2013/12), [regs. 1](https://www.legislation.gov.uk/ssi/2013/12/regulation/1), [4(c)](https://www.legislation.gov.uk/ssi/2013/12/regulation/4/c)
 
-[^key-d65833e226041681b7ccaf9fd83f4d2b]: Textual amendment: Reg. 6(4) substituted (1.10.2012) by [The Energy Performance of Buildings (Scotland) Amendment (No. 2) Regulations 2012 (S.S.I. 2012/208)](https://www.legislation.gov.uk/ssi/2012/208), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/208/regulation/1/1), [7(g)](https://www.legislation.gov.uk/ssi/2012/208/regulation/7/g) (with [reg. 19](https://www.legislation.gov.uk/ssi/2012/208/regulation/19))
+[^c-d65833e226041681b7ccaf9fd83f4d2b]: Textual amendment: Reg. 6(4) substituted (1.10.2012) by [The Energy Performance of Buildings (Scotland) Amendment (No. 2) Regulations 2012 (S.S.I. 2012/208)](https://www.legislation.gov.uk/ssi/2012/208), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/208/regulation/1/1), [7(g)](https://www.legislation.gov.uk/ssi/2012/208/regulation/7/g) (with [reg. 19](https://www.legislation.gov.uk/ssi/2012/208/regulation/19))
 
-[^key-4bc496c00f2346a352be2c6ecb856c93]: Textual amendment: Reg. 6(6) inserted (1.10.2012) by [The Energy Performance of Buildings (Scotland) Amendment (No. 2) Regulations 2012 (S.S.I. 2012/208)](https://www.legislation.gov.uk/ssi/2012/208), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/208/regulation/1/1), [7(h)](https://www.legislation.gov.uk/ssi/2012/208/regulation/7/h) (with [reg. 19](https://www.legislation.gov.uk/ssi/2012/208/regulation/19))
+[^c-4bc496c00f2346a352be2c6ecb856c93]: Textual amendment: Reg. 6(6) inserted (1.10.2012) by [The Energy Performance of Buildings (Scotland) Amendment (No. 2) Regulations 2012 (S.S.I. 2012/208)](https://www.legislation.gov.uk/ssi/2012/208), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/208/regulation/1/1), [7(h)](https://www.legislation.gov.uk/ssi/2012/208/regulation/7/h) (with [reg. 19](https://www.legislation.gov.uk/ssi/2012/208/regulation/19))
 
-[^key-bd0d1c6ee325dbc150929dd0a53e0e41]: Textual amendment: Reg. 6(7) inserted (27.1.2013) by [The Energy Performance of Buildings (Scotland) Amendment Regulations 2013 (S.S.I. 2013/12)](https://www.legislation.gov.uk/ssi/2013/12), [regs. 1](https://www.legislation.gov.uk/ssi/2013/12/regulation/1), [4(d)](https://www.legislation.gov.uk/ssi/2013/12/regulation/4/d)
+[^c-bd0d1c6ee325dbc150929dd0a53e0e41]: Textual amendment: Reg. 6(7) inserted (27.1.2013) by [The Energy Performance of Buildings (Scotland) Amendment Regulations 2013 (S.S.I. 2013/12)](https://www.legislation.gov.uk/ssi/2013/12), [regs. 1](https://www.legislation.gov.uk/ssi/2013/12/regulation/1), [4(d)](https://www.legislation.gov.uk/ssi/2013/12/regulation/4/d)
 
-[^key-9e8708e126749db17c807af37f254c6e]: Textual amendment: Reg. 6A inserted (1.10.2012) by [The Energy Performance of Buildings (Scotland) Amendment (No. 2) Regulations 2012 (S.S.I. 2012/208)](https://www.legislation.gov.uk/ssi/2012/208), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/208/regulation/1/1), [8](https://www.legislation.gov.uk/ssi/2012/208/regulation/8) (with [reg. 19](https://www.legislation.gov.uk/ssi/2012/208/regulation/19))
+[^c-9e8708e126749db17c807af37f254c6e]: Textual amendment: Reg. 6A inserted (1.10.2012) by [The Energy Performance of Buildings (Scotland) Amendment (No. 2) Regulations 2012 (S.S.I. 2012/208)](https://www.legislation.gov.uk/ssi/2012/208), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/208/regulation/1/1), [8](https://www.legislation.gov.uk/ssi/2012/208/regulation/8) (with [reg. 19](https://www.legislation.gov.uk/ssi/2012/208/regulation/19))
 
-[^key-578e6d6387795d282f147361a8b9a65c]: Textual amendment: Word in reg. 6A(1) omitted (27.1.2013) by virtue of [The Energy Performance of Buildings (Scotland) Amendment Regulations 2013 (S.S.I. 2013/12)](https://www.legislation.gov.uk/ssi/2013/12), [regs. 1](https://www.legislation.gov.uk/ssi/2013/12/regulation/1), [5(a)(i)](https://www.legislation.gov.uk/ssi/2013/12/regulation/5/a/i)
+[^c-578e6d6387795d282f147361a8b9a65c]: Textual amendment: Word in reg. 6A(1) omitted (27.1.2013) by virtue of [The Energy Performance of Buildings (Scotland) Amendment Regulations 2013 (S.S.I. 2013/12)](https://www.legislation.gov.uk/ssi/2013/12), [regs. 1](https://www.legislation.gov.uk/ssi/2013/12/regulation/1), [5(a)(i)](https://www.legislation.gov.uk/ssi/2013/12/regulation/5/a/i)
 
-[^key-014edae39b06abeaa67321b9f723d9c7]: Textual amendment: Reg. 6A(1)(c) and word inserted (27.1.2013) by [The Energy Performance of Buildings (Scotland) Amendment Regulations 2013 (S.S.I. 2013/12)](https://www.legislation.gov.uk/ssi/2013/12), [regs. 1](https://www.legislation.gov.uk/ssi/2013/12/regulation/1), [5(a)(ii)](https://www.legislation.gov.uk/ssi/2013/12/regulation/5/a/ii)
+[^c-014edae39b06abeaa67321b9f723d9c7]: Textual amendment: Reg. 6A(1)(c) and word inserted (27.1.2013) by [The Energy Performance of Buildings (Scotland) Amendment Regulations 2013 (S.S.I. 2013/12)](https://www.legislation.gov.uk/ssi/2013/12), [regs. 1](https://www.legislation.gov.uk/ssi/2013/12/regulation/1), [5(a)(ii)](https://www.legislation.gov.uk/ssi/2013/12/regulation/5/a/ii)
 
-[^key-1fc61ded4e1da57926455411ef5391e7]: Textual amendment: Words in reg. 6A(2) inserted (27.1.2013) by [The Energy Performance of Buildings (Scotland) Amendment Regulations 2013 (S.S.I. 2013/12)](https://www.legislation.gov.uk/ssi/2013/12), [regs. 1](https://www.legislation.gov.uk/ssi/2013/12/regulation/1), [5(b)](https://www.legislation.gov.uk/ssi/2013/12/regulation/5/b)
+[^c-1fc61ded4e1da57926455411ef5391e7]: Textual amendment: Words in reg. 6A(2) inserted (27.1.2013) by [The Energy Performance of Buildings (Scotland) Amendment Regulations 2013 (S.S.I. 2013/12)](https://www.legislation.gov.uk/ssi/2013/12), [regs. 1](https://www.legislation.gov.uk/ssi/2013/12/regulation/1), [5(b)](https://www.legislation.gov.uk/ssi/2013/12/regulation/5/b)
 
-[^key-f26151ec47bfc364ca9758bb3dc1edbb]: Textual amendment: Reg. 6A(3) inserted (27.1.2013) by [The Energy Performance of Buildings (Scotland) Amendment Regulations 2013 (S.S.I. 2013/12)](https://www.legislation.gov.uk/ssi/2013/12), [regs. 1](https://www.legislation.gov.uk/ssi/2013/12/regulation/1), [5(c)](https://www.legislation.gov.uk/ssi/2013/12/regulation/5/c)
+[^c-f26151ec47bfc364ca9758bb3dc1edbb]: Textual amendment: Reg. 6A(3) inserted (27.1.2013) by [The Energy Performance of Buildings (Scotland) Amendment Regulations 2013 (S.S.I. 2013/12)](https://www.legislation.gov.uk/ssi/2013/12), [regs. 1](https://www.legislation.gov.uk/ssi/2013/12/regulation/1), [5(c)](https://www.legislation.gov.uk/ssi/2013/12/regulation/5/c)
 
-[^key-a1a7e4dc4f52f61b3cf202bd0a02a559]: Textual amendment: Reg. 7 substituted (21.12.2012) by [The Energy Performance of Buildings (Scotland) Amendment (No. 3) Regulations 2012 (S.S.I. 2012/315)](https://www.legislation.gov.uk/ssi/2012/315), [regs. 1](https://www.legislation.gov.uk/ssi/2012/315/regulation/1), [4](https://www.legislation.gov.uk/ssi/2012/315/regulation/4)
+[^c-a1a7e4dc4f52f61b3cf202bd0a02a559]: Textual amendment: Reg. 7 substituted (21.12.2012) by [The Energy Performance of Buildings (Scotland) Amendment (No. 3) Regulations 2012 (S.S.I. 2012/315)](https://www.legislation.gov.uk/ssi/2012/315), [regs. 1](https://www.legislation.gov.uk/ssi/2012/315/regulation/1), [4](https://www.legislation.gov.uk/ssi/2012/315/regulation/4)
 
-[^key-9f04d4eee551ee3124a2a0b331a64472]: Textual amendment: Words in reg. 8(2) inserted (1.10.2012) by [The Energy Performance of Buildings (Scotland) Amendment (No. 2) Regulations 2012 (S.S.I. 2012/208)](https://www.legislation.gov.uk/ssi/2012/208), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/208/regulation/1/1), [10](https://www.legislation.gov.uk/ssi/2012/208/regulation/10) (with [reg. 19](https://www.legislation.gov.uk/ssi/2012/208/regulation/19))
+[^c-9f04d4eee551ee3124a2a0b331a64472]: Textual amendment: Words in reg. 8(2) inserted (1.10.2012) by [The Energy Performance of Buildings (Scotland) Amendment (No. 2) Regulations 2012 (S.S.I. 2012/208)](https://www.legislation.gov.uk/ssi/2012/208), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/208/regulation/1/1), [10](https://www.legislation.gov.uk/ssi/2012/208/regulation/10) (with [reg. 19](https://www.legislation.gov.uk/ssi/2012/208/regulation/19))
 
-[^key-5174be260ce11d0bd23e2d4e552e7354]: Textual amendment: Reg. 9 substituted (9.1.2013) by [The Energy Performance of Buildings (Scotland) Amendment (No. 2) Regulations 2012 (S.S.I. 2012/208)](https://www.legislation.gov.uk/ssi/2012/208), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2012/208/regulation/1/2), [11](https://www.legislation.gov.uk/ssi/2012/208/regulation/11) (with [reg. 19](https://www.legislation.gov.uk/ssi/2012/208/regulation/19))
+[^c-5174be260ce11d0bd23e2d4e552e7354]: Textual amendment: Reg. 9 substituted (9.1.2013) by [The Energy Performance of Buildings (Scotland) Amendment (No. 2) Regulations 2012 (S.S.I. 2012/208)](https://www.legislation.gov.uk/ssi/2012/208), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2012/208/regulation/1/2), [11](https://www.legislation.gov.uk/ssi/2012/208/regulation/11) (with [reg. 19](https://www.legislation.gov.uk/ssi/2012/208/regulation/19))
 
-[^key-591b3f284acb5b35ad09b119a5470b2f]: Textual amendment: Reg. 10 substituted (1.10.2012) by [The Energy Performance of Buildings (Scotland) Amendment Regulations 2012 (S.S.I. 2012/190)](https://www.legislation.gov.uk/ssi/2012/190), [regs. 1](https://www.legislation.gov.uk/ssi/2012/190/regulation/1), [7](https://www.legislation.gov.uk/ssi/2012/190/regulation/7) (as amended by [The Energy Performance of Buildings (Scotland) Amendment (No. 2) Regulations 2012 (S.S.I. 2012/208)](https://www.legislation.gov.uk/ssi/2012/208), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2012/208/regulation/1/3), [20(3)](https://www.legislation.gov.uk/ssi/2012/208/regulation/20/3) (with [reg. 19](https://www.legislation.gov.uk/ssi/2012/208/regulation/19)))
+[^c-591b3f284acb5b35ad09b119a5470b2f]: Textual amendment: Reg. 10 substituted (1.10.2012) by [The Energy Performance of Buildings (Scotland) Amendment Regulations 2012 (S.S.I. 2012/190)](https://www.legislation.gov.uk/ssi/2012/190), [regs. 1](https://www.legislation.gov.uk/ssi/2012/190/regulation/1), [7](https://www.legislation.gov.uk/ssi/2012/190/regulation/7) (as amended by [The Energy Performance of Buildings (Scotland) Amendment (No. 2) Regulations 2012 (S.S.I. 2012/208)](https://www.legislation.gov.uk/ssi/2012/208), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2012/208/regulation/1/3), [20(3)](https://www.legislation.gov.uk/ssi/2012/208/regulation/20/3) (with [reg. 19](https://www.legislation.gov.uk/ssi/2012/208/regulation/19)))
 
-[^key-b9e10d1f3ec5527248fa2ad5719f4be8]: Textual amendment: Words in reg. 10(5)(b) inserted (27.1.2013) by [The Energy Performance of Buildings (Scotland) Amendment Regulations 2013 (S.S.I. 2013/12)](https://www.legislation.gov.uk/ssi/2013/12), [regs. 1](https://www.legislation.gov.uk/ssi/2013/12/regulation/1), [6(a)](https://www.legislation.gov.uk/ssi/2013/12/regulation/6/a)
+[^c-b9e10d1f3ec5527248fa2ad5719f4be8]: Textual amendment: Words in reg. 10(5)(b) inserted (27.1.2013) by [The Energy Performance of Buildings (Scotland) Amendment Regulations 2013 (S.S.I. 2013/12)](https://www.legislation.gov.uk/ssi/2013/12), [regs. 1](https://www.legislation.gov.uk/ssi/2013/12/regulation/1), [6(a)](https://www.legislation.gov.uk/ssi/2013/12/regulation/6/a)
 
-[^key-c9007a98fa098352879699c3dc86535e]: Textual amendment: Reg. 10(5A) inserted (27.1.2013) by [The Energy Performance of Buildings (Scotland) Amendment Regulations 2013 (S.S.I. 2013/12)](https://www.legislation.gov.uk/ssi/2013/12), [regs. 1](https://www.legislation.gov.uk/ssi/2013/12/regulation/1), [6(b)](https://www.legislation.gov.uk/ssi/2013/12/regulation/6/b)
+[^c-c9007a98fa098352879699c3dc86535e]: Textual amendment: Reg. 10(5A) inserted (27.1.2013) by [The Energy Performance of Buildings (Scotland) Amendment Regulations 2013 (S.S.I. 2013/12)](https://www.legislation.gov.uk/ssi/2013/12), [regs. 1](https://www.legislation.gov.uk/ssi/2013/12/regulation/1), [6(b)](https://www.legislation.gov.uk/ssi/2013/12/regulation/6/b)
 
-[^key-bb1f97c61e61c2c0ee5d000fd7cbcd94]: Textual amendment: Reg. 10A inserted (1.10.2012) by [The Energy Performance of Buildings (Scotland) Amendment (No. 2) Regulations 2012 (S.S.I. 2012/208)](https://www.legislation.gov.uk/ssi/2012/208), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/208/regulation/1/1), [12](https://www.legislation.gov.uk/ssi/2012/208/regulation/12) (with [reg. 19](https://www.legislation.gov.uk/ssi/2012/208/regulation/19))
+[^c-bb1f97c61e61c2c0ee5d000fd7cbcd94]: Textual amendment: Reg. 10A inserted (1.10.2012) by [The Energy Performance of Buildings (Scotland) Amendment (No. 2) Regulations 2012 (S.S.I. 2012/208)](https://www.legislation.gov.uk/ssi/2012/208), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/208/regulation/1/1), [12](https://www.legislation.gov.uk/ssi/2012/208/regulation/12) (with [reg. 19](https://www.legislation.gov.uk/ssi/2012/208/regulation/19))
 
-[^key-f577d183aecbbecdf6e08247ae169b98]: Textual amendment: Sum in reg. 10A(a) substituted (1.10.2017) by [The Energy Performance of Buildings (Scotland) Amendment Regulations 2017 (S.S.I. 2017/225)](https://www.legislation.gov.uk/ssi/2017/225), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/225/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2017/225/regulation/2/2/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2017/225/regulation/3))
+[^c-f577d183aecbbecdf6e08247ae169b98]: Textual amendment: Sum in reg. 10A(a) substituted (1.10.2017) by [The Energy Performance of Buildings (Scotland) Amendment Regulations 2017 (S.S.I. 2017/225)](https://www.legislation.gov.uk/ssi/2017/225), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/225/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2017/225/regulation/2/2/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2017/225/regulation/3))
 
-[^key-021a950394a2897191ac53dbd3c77009]: Textual amendment: Sum in reg. 10A(b) substituted (1.10.2017) by [The Energy Performance of Buildings (Scotland) Amendment Regulations 2017 (S.S.I. 2017/225)](https://www.legislation.gov.uk/ssi/2017/225), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/225/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2017/225/regulation/2/2/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2017/225/regulation/3))
+[^c-021a950394a2897191ac53dbd3c77009]: Textual amendment: Sum in reg. 10A(b) substituted (1.10.2017) by [The Energy Performance of Buildings (Scotland) Amendment Regulations 2017 (S.S.I. 2017/225)](https://www.legislation.gov.uk/ssi/2017/225), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/225/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2017/225/regulation/2/2/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2017/225/regulation/3))
 
-[^key-099f16bec1b73355847d9a833281cd39]: Textual amendment: Reg. 11 substituted (1.10.2012) by [The Energy Performance of Buildings (Scotland) Amendment Regulations 2012 (S.S.I. 2012/190)](https://www.legislation.gov.uk/ssi/2012/190), [regs. 1](https://www.legislation.gov.uk/ssi/2012/190/regulation/1), [8](https://www.legislation.gov.uk/ssi/2012/190/regulation/8)
+[^c-099f16bec1b73355847d9a833281cd39]: Textual amendment: Reg. 11 substituted (1.10.2012) by [The Energy Performance of Buildings (Scotland) Amendment Regulations 2012 (S.S.I. 2012/190)](https://www.legislation.gov.uk/ssi/2012/190), [regs. 1](https://www.legislation.gov.uk/ssi/2012/190/regulation/1), [8](https://www.legislation.gov.uk/ssi/2012/190/regulation/8)
 
-[^key-c7f3c82042a7bdfa5f8518767d016953]: Textual amendment: Words in reg. 11 substituted (27.1.2013) by [The Energy Performance of Buildings (Scotland) Amendment Regulations 2013 (S.S.I. 2013/12)](https://www.legislation.gov.uk/ssi/2013/12), [regs. 1](https://www.legislation.gov.uk/ssi/2013/12/regulation/1), [7](https://www.legislation.gov.uk/ssi/2013/12/regulation/7)
+[^c-c7f3c82042a7bdfa5f8518767d016953]: Textual amendment: Words in reg. 11 substituted (27.1.2013) by [The Energy Performance of Buildings (Scotland) Amendment Regulations 2013 (S.S.I. 2013/12)](https://www.legislation.gov.uk/ssi/2013/12), [regs. 1](https://www.legislation.gov.uk/ssi/2013/12/regulation/1), [7](https://www.legislation.gov.uk/ssi/2013/12/regulation/7)
 
-[^key-587b10ebb9c9bd1c0ee8c8a6e8695a65]: Textual amendment: Regs. 12, 12A substituted for reg. 12 (21.12.2012) by [The Energy Performance of Buildings (Scotland) Amendment (No. 3) Regulations 2012 (S.S.I. 2012/315)](https://www.legislation.gov.uk/ssi/2012/315), [regs. 1](https://www.legislation.gov.uk/ssi/2012/315/regulation/1), [5](https://www.legislation.gov.uk/ssi/2012/315/regulation/5)
+[^c-587b10ebb9c9bd1c0ee8c8a6e8695a65]: Textual amendment: Regs. 12, 12A substituted for reg. 12 (21.12.2012) by [The Energy Performance of Buildings (Scotland) Amendment (No. 3) Regulations 2012 (S.S.I. 2012/315)](https://www.legislation.gov.uk/ssi/2012/315), [regs. 1](https://www.legislation.gov.uk/ssi/2012/315/regulation/1), [5](https://www.legislation.gov.uk/ssi/2012/315/regulation/5)
 
-[^key-cb3674067ec87bc20c99fbf621370735]: Textual amendment: Reg. 12(2) substituted (19.12.2015) by [The Energy Performance of Buildings (Scotland) Amendment Regulations 2015 (S.S.I. 2015/386)](https://www.legislation.gov.uk/ssi/2015/386), [regs. 1](https://www.legislation.gov.uk/ssi/2015/386/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2015/386/regulation/2/2)
+[^c-cb3674067ec87bc20c99fbf621370735]: Textual amendment: Reg. 12(2) substituted (19.12.2015) by [The Energy Performance of Buildings (Scotland) Amendment Regulations 2015 (S.S.I. 2015/386)](https://www.legislation.gov.uk/ssi/2015/386), [regs. 1](https://www.legislation.gov.uk/ssi/2015/386/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2015/386/regulation/2/2)
 
-[^key-26485559907faf187432d88eee603cb8]: Textual amendment: Reg. 12A(2)(ba) inserted (27.1.2013) by [The Energy Performance of Buildings (Scotland) Amendment Regulations 2013 (S.S.I. 2013/12)](https://www.legislation.gov.uk/ssi/2013/12), [regs. 1](https://www.legislation.gov.uk/ssi/2013/12/regulation/1), [8](https://www.legislation.gov.uk/ssi/2013/12/regulation/8)
+[^c-26485559907faf187432d88eee603cb8]: Textual amendment: Reg. 12A(2)(ba) inserted (27.1.2013) by [The Energy Performance of Buildings (Scotland) Amendment Regulations 2013 (S.S.I. 2013/12)](https://www.legislation.gov.uk/ssi/2013/12), [regs. 1](https://www.legislation.gov.uk/ssi/2013/12/regulation/1), [8](https://www.legislation.gov.uk/ssi/2013/12/regulation/8)
 
-[^key-04a7798614944a3d7cbec96b0e8327bc]: Textual amendment: [Reg. 12A(2)(c)(ii)](https://www.legislation.gov.uk/ssi/2008/309/regulation/12A/2/c/ii) and word omitted (19.12.2015) by virtue of [The Energy Performance of Buildings (Scotland) Amendment Regulations 2015 (S.S.I. 2015/386)](https://www.legislation.gov.uk/ssi/2015/386), [regs. 1](https://www.legislation.gov.uk/ssi/2015/386/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2015/386/regulation/2/3)
+[^c-04a7798614944a3d7cbec96b0e8327bc]: Textual amendment: [Reg. 12A(2)(c)(ii)](https://www.legislation.gov.uk/ssi/2008/309/regulation/12A/2/c/ii) and word omitted (19.12.2015) by virtue of [The Energy Performance of Buildings (Scotland) Amendment Regulations 2015 (S.S.I. 2015/386)](https://www.legislation.gov.uk/ssi/2015/386), [regs. 1](https://www.legislation.gov.uk/ssi/2015/386/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2015/386/regulation/2/3)
 
-[^key-db009b10c8c35c5acebf5ea8998352b1]: Textual amendment: [Reg. 12A(3)](https://www.legislation.gov.uk/ssi/2008/309/regulation/12A/3) omitted (19.12.2015) by virtue of [The Energy Performance of Buildings (Scotland) Amendment Regulations 2015 (S.S.I. 2015/386)](https://www.legislation.gov.uk/ssi/2015/386), [regs. 1](https://www.legislation.gov.uk/ssi/2015/386/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2015/386/regulation/2/3)
+[^c-db009b10c8c35c5acebf5ea8998352b1]: Textual amendment: [Reg. 12A(3)](https://www.legislation.gov.uk/ssi/2008/309/regulation/12A/3) omitted (19.12.2015) by virtue of [The Energy Performance of Buildings (Scotland) Amendment Regulations 2015 (S.S.I. 2015/386)](https://www.legislation.gov.uk/ssi/2015/386), [regs. 1](https://www.legislation.gov.uk/ssi/2015/386/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2015/386/regulation/2/3)
 
-[^key-1b7a067b09e60e2addbf51b19b37aff1]: Textual amendment: [Reg. 12A(5)](https://www.legislation.gov.uk/ssi/2008/309/regulation/12A/5) omitted (19.12.2015) by virtue of [The Energy Performance of Buildings (Scotland) Amendment Regulations 2015 (S.S.I. 2015/386)](https://www.legislation.gov.uk/ssi/2015/386), [regs. 1](https://www.legislation.gov.uk/ssi/2015/386/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2015/386/regulation/2/3)
+[^c-1b7a067b09e60e2addbf51b19b37aff1]: Textual amendment: [Reg. 12A(5)](https://www.legislation.gov.uk/ssi/2008/309/regulation/12A/5) omitted (19.12.2015) by virtue of [The Energy Performance of Buildings (Scotland) Amendment Regulations 2015 (S.S.I. 2015/386)](https://www.legislation.gov.uk/ssi/2015/386), [regs. 1](https://www.legislation.gov.uk/ssi/2015/386/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2015/386/regulation/2/3)
 
-[^key-1fd6cd8f35349a6106b43c8ae9443201]: Textual amendment: Reg. 13 substituted (21.12.2012) by [The Energy Performance of Buildings (Scotland) Amendment (No. 3) Regulations 2012 (S.S.I. 2012/315)](https://www.legislation.gov.uk/ssi/2012/315), [regs. 1](https://www.legislation.gov.uk/ssi/2012/315/regulation/1), [6](https://www.legislation.gov.uk/ssi/2012/315/regulation/6)
+[^c-1fd6cd8f35349a6106b43c8ae9443201]: Textual amendment: Reg. 13 substituted (21.12.2012) by [The Energy Performance of Buildings (Scotland) Amendment (No. 3) Regulations 2012 (S.S.I. 2012/315)](https://www.legislation.gov.uk/ssi/2012/315), [regs. 1](https://www.legislation.gov.uk/ssi/2012/315/regulation/1), [6](https://www.legislation.gov.uk/ssi/2012/315/regulation/6)
 
-[^key-75291615935f5e2681d5ee3eaad90776]: Textual amendment: Reg. 13(2)(ca) inserted (27.1.2013) by [The Energy Performance of Buildings (Scotland) Amendment Regulations 2013 (S.S.I. 2013/12)](https://www.legislation.gov.uk/ssi/2013/12), [regs. 1](https://www.legislation.gov.uk/ssi/2013/12/regulation/1), [9](https://www.legislation.gov.uk/ssi/2013/12/regulation/9)
+[^c-75291615935f5e2681d5ee3eaad90776]: Textual amendment: Reg. 13(2)(ca) inserted (27.1.2013) by [The Energy Performance of Buildings (Scotland) Amendment Regulations 2013 (S.S.I. 2013/12)](https://www.legislation.gov.uk/ssi/2013/12), [regs. 1](https://www.legislation.gov.uk/ssi/2013/12/regulation/1), [9](https://www.legislation.gov.uk/ssi/2013/12/regulation/9)
 
-[^key-c986b0dd53fd1d8cdc73d3857dc68052]: Textual amendment: Reg. 13(2)(d)(ii) omitted (19.12.2015) by virtue of [The Energy Performance of Buildings (Scotland) Amendment Regulations 2015 (S.S.I. 2015/386)](https://www.legislation.gov.uk/ssi/2015/386), [regs. 1](https://www.legislation.gov.uk/ssi/2015/386/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2015/386/regulation/2/4)
+[^c-c986b0dd53fd1d8cdc73d3857dc68052]: Textual amendment: Reg. 13(2)(d)(ii) omitted (19.12.2015) by virtue of [The Energy Performance of Buildings (Scotland) Amendment Regulations 2015 (S.S.I. 2015/386)](https://www.legislation.gov.uk/ssi/2015/386), [regs. 1](https://www.legislation.gov.uk/ssi/2015/386/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2015/386/regulation/2/4)
 
-[^key-c7b11d52a55478a736804d938c67dba3]: Textual amendment: Reg. 13(3) omitted (19.12.2015) by virtue of [The Energy Performance of Buildings (Scotland) Amendment Regulations 2015 (S.S.I. 2015/386)](https://www.legislation.gov.uk/ssi/2015/386), [regs. 1](https://www.legislation.gov.uk/ssi/2015/386/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2015/386/regulation/2/4)
+[^c-c7b11d52a55478a736804d938c67dba3]: Textual amendment: Reg. 13(3) omitted (19.12.2015) by virtue of [The Energy Performance of Buildings (Scotland) Amendment Regulations 2015 (S.S.I. 2015/386)](https://www.legislation.gov.uk/ssi/2015/386), [regs. 1](https://www.legislation.gov.uk/ssi/2015/386/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2015/386/regulation/2/4)
 
-[^key-591e38232495ae1170b576b28cbeecf7]: Textual amendment: Reg. 14 substituted (21.12.2012) by [The Energy Performance of Buildings (Scotland) Amendment (No. 3) Regulations 2012 (S.S.I. 2012/315)](https://www.legislation.gov.uk/ssi/2012/315), [regs. 1](https://www.legislation.gov.uk/ssi/2012/315/regulation/1), [7](https://www.legislation.gov.uk/ssi/2012/315/regulation/7)
+[^c-591e38232495ae1170b576b28cbeecf7]: Textual amendment: Reg. 14 substituted (21.12.2012) by [The Energy Performance of Buildings (Scotland) Amendment (No. 3) Regulations 2012 (S.S.I. 2012/315)](https://www.legislation.gov.uk/ssi/2012/315), [regs. 1](https://www.legislation.gov.uk/ssi/2012/315/regulation/1), [7](https://www.legislation.gov.uk/ssi/2012/315/regulation/7)
 
-[^key-a04728b2404537c13fb6dcd5462848f9]: Textual amendment: Words in reg. 14(2) omitted (19.12.2015) by virtue of [The Energy Performance of Buildings (Scotland) Amendment Regulations 2015 (S.S.I. 2015/386)](https://www.legislation.gov.uk/ssi/2015/386), [regs. 1](https://www.legislation.gov.uk/ssi/2015/386/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2015/386/regulation/2/5)
+[^c-a04728b2404537c13fb6dcd5462848f9]: Textual amendment: Words in reg. 14(2) omitted (19.12.2015) by virtue of [The Energy Performance of Buildings (Scotland) Amendment Regulations 2015 (S.S.I. 2015/386)](https://www.legislation.gov.uk/ssi/2015/386), [regs. 1](https://www.legislation.gov.uk/ssi/2015/386/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2015/386/regulation/2/5)
 
-[^key-375da7e00ca04b8f869a131cc9e1474b]: Textual amendment: [Reg. 14A](https://www.legislation.gov.uk/ssi/2008/309/regulation/14A) inserted (27.1.2013) by [The Energy Performance of Buildings (Scotland) Amendment Regulations2013 (S.S.I. 2013/12)](https://www.legislation.gov.uk/ssi/2013/12), [regs. 1](https://www.legislation.gov.uk/ssi/2013/12/regulation/1), [10](https://www.legislation.gov.uk/ssi/2013/12/regulation/10)
+[^c-375da7e00ca04b8f869a131cc9e1474b]: Textual amendment: [Reg. 14A](https://www.legislation.gov.uk/ssi/2008/309/regulation/14A) inserted (27.1.2013) by [The Energy Performance of Buildings (Scotland) Amendment Regulations2013 (S.S.I. 2013/12)](https://www.legislation.gov.uk/ssi/2013/12), [regs. 1](https://www.legislation.gov.uk/ssi/2013/12/regulation/1), [10](https://www.legislation.gov.uk/ssi/2013/12/regulation/10)
 
-[^key-06cae64361b1f48baa245f06afa58c75]: Textual amendment: [Reg. 15(3)](https://www.legislation.gov.uk/ssi/2008/309/regulation/15/3)[(4)](https://www.legislation.gov.uk/ssi/2008/309/regulation/15/4) inserted (19.12.2015) by [The Energy Performance of Buildings (Scotland) Amendment Regulations 2015 (S.S.I. 2015/386)](https://www.legislation.gov.uk/ssi/2015/386), [regs. 1](https://www.legislation.gov.uk/ssi/2015/386/regulation/1), [2(6)](https://www.legislation.gov.uk/ssi/2015/386/regulation/2/6)
+[^c-06cae64361b1f48baa245f06afa58c75]: Textual amendment: [Reg. 15(3)](https://www.legislation.gov.uk/ssi/2008/309/regulation/15/3)[(4)](https://www.legislation.gov.uk/ssi/2008/309/regulation/15/4) inserted (19.12.2015) by [The Energy Performance of Buildings (Scotland) Amendment Regulations 2015 (S.S.I. 2015/386)](https://www.legislation.gov.uk/ssi/2015/386), [regs. 1](https://www.legislation.gov.uk/ssi/2015/386/regulation/1), [2(6)](https://www.legislation.gov.uk/ssi/2015/386/regulation/2/6)
 
-[^key-58be4701809f2c697a8f7b7b464034ad]: Textual amendment: Words in reg. 16 inserted (1.10.2012) by [The Energy Performance of Buildings (Scotland) Amendment (No. 2) Regulations 2012 (S.S.I. 2012/208)](https://www.legislation.gov.uk/ssi/2012/208), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/208/regulation/1/1), [14](https://www.legislation.gov.uk/ssi/2012/208/regulation/14) (with [reg. 19](https://www.legislation.gov.uk/ssi/2012/208/regulation/19))
+[^c-58be4701809f2c697a8f7b7b464034ad]: Textual amendment: Words in reg. 16 inserted (1.10.2012) by [The Energy Performance of Buildings (Scotland) Amendment (No. 2) Regulations 2012 (S.S.I. 2012/208)](https://www.legislation.gov.uk/ssi/2012/208), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/208/regulation/1/1), [14](https://www.legislation.gov.uk/ssi/2012/208/regulation/14) (with [reg. 19](https://www.legislation.gov.uk/ssi/2012/208/regulation/19))
 
-[^key-5ce0dcf893e322e3a19cfc4eb4996ff8]: Textual amendment: Reg. 17(2A) inserted (31.12.2008) by [The Energy Performance of Buildings (Scotland) Amendment Regulations 2008 (S.S.I. 2008/389)](https://www.legislation.gov.uk/ssi/2008/389), [regs. 1](https://www.legislation.gov.uk/ssi/2008/389/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2008/389/regulation/2/2/a)
+[^c-5ce0dcf893e322e3a19cfc4eb4996ff8]: Textual amendment: Reg. 17(2A) inserted (31.12.2008) by [The Energy Performance of Buildings (Scotland) Amendment Regulations 2008 (S.S.I. 2008/389)](https://www.legislation.gov.uk/ssi/2008/389), [regs. 1](https://www.legislation.gov.uk/ssi/2008/389/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2008/389/regulation/2/2/a)
 
-[^key-119b41da628078b85975dda94e42545d]: Textual amendment: Words in reg. 17(4) inserted (1.10.2012) by [The Energy Performance of Buildings (Scotland) Amendment (No. 2) Regulations 2012 (S.S.I. 2012/208)](https://www.legislation.gov.uk/ssi/2012/208), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/208/regulation/1/1), [15](https://www.legislation.gov.uk/ssi/2012/208/regulation/15) (with [reg. 19](https://www.legislation.gov.uk/ssi/2012/208/regulation/19))
+[^c-119b41da628078b85975dda94e42545d]: Textual amendment: Words in reg. 17(4) inserted (1.10.2012) by [The Energy Performance of Buildings (Scotland) Amendment (No. 2) Regulations 2012 (S.S.I. 2012/208)](https://www.legislation.gov.uk/ssi/2012/208), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/208/regulation/1/1), [15](https://www.legislation.gov.uk/ssi/2012/208/regulation/15) (with [reg. 19](https://www.legislation.gov.uk/ssi/2012/208/regulation/19))
 
-[^key-d9eb9899c3d84059d15f14c0a24a143e]: Textual amendment: Words in reg. 17(8) substituted (19.12.2015) by [The Energy Performance of Buildings (Scotland) Amendment Regulations 2015 (S.S.I. 2015/386)](https://www.legislation.gov.uk/ssi/2015/386), [regs. 1](https://www.legislation.gov.uk/ssi/2015/386/regulation/1), [2(7)](https://www.legislation.gov.uk/ssi/2015/386/regulation/2/7)
+[^c-d9eb9899c3d84059d15f14c0a24a143e]: Textual amendment: Words in reg. 17(8) substituted (19.12.2015) by [The Energy Performance of Buildings (Scotland) Amendment Regulations 2015 (S.S.I. 2015/386)](https://www.legislation.gov.uk/ssi/2015/386), [regs. 1](https://www.legislation.gov.uk/ssi/2015/386/regulation/1), [2(7)](https://www.legislation.gov.uk/ssi/2015/386/regulation/2/7)
 
-[^key-0269e0b702aa324c2cb3cfdb0c084706]: Textual amendment: Reg. 17(9) inserted (31.12.2008) by [The Energy Performance of Buildings (Scotland) Amendment Regulations 2008 (S.S.I. 2008/389)](https://www.legislation.gov.uk/ssi/2008/389), [regs. 1](https://www.legislation.gov.uk/ssi/2008/389/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2008/389/regulation/2/2/b)
+[^c-0269e0b702aa324c2cb3cfdb0c084706]: Textual amendment: Reg. 17(9) inserted (31.12.2008) by [The Energy Performance of Buildings (Scotland) Amendment Regulations 2008 (S.S.I. 2008/389)](https://www.legislation.gov.uk/ssi/2008/389), [regs. 1](https://www.legislation.gov.uk/ssi/2008/389/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2008/389/regulation/2/2/b)
 
-[^key-5021e194e3ebcd5f432f93af56e30913]: Textual amendment: Regs. 17A, 17B inserted (9.1.2013) by [The Energy Performance of Buildings (Scotland) Amendment (No. 2) Regulations 2012 (S.S.I. 2012/208)](https://www.legislation.gov.uk/ssi/2012/208), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2012/208/regulation/1/2), [16](https://www.legislation.gov.uk/ssi/2012/208/regulation/16) (with [reg. 19](https://www.legislation.gov.uk/ssi/2012/208/regulation/19))
+[^c-5021e194e3ebcd5f432f93af56e30913]: Textual amendment: Regs. 17A, 17B inserted (9.1.2013) by [The Energy Performance of Buildings (Scotland) Amendment (No. 2) Regulations 2012 (S.S.I. 2012/208)](https://www.legislation.gov.uk/ssi/2012/208), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2012/208/regulation/1/2), [16](https://www.legislation.gov.uk/ssi/2012/208/regulation/16) (with [reg. 19](https://www.legislation.gov.uk/ssi/2012/208/regulation/19))
 
-[^key-a57f58e44a1ddc66579e88f190a657c7]: Textual amendment: Words in [reg. 17A(4)](https://www.legislation.gov.uk/ssi/2008/309/regulation/17A/4) substituted (19.12.2015) by [The Energy Performance of Buildings (Scotland) Amendment Regulations 2015 (S.S.I. 2015/386)](https://www.legislation.gov.uk/ssi/2015/386), [regs. 1](https://www.legislation.gov.uk/ssi/2015/386/regulation/1), [2(8)](https://www.legislation.gov.uk/ssi/2015/386/regulation/2/8)
+[^c-a57f58e44a1ddc66579e88f190a657c7]: Textual amendment: Words in [reg. 17A(4)](https://www.legislation.gov.uk/ssi/2008/309/regulation/17A/4) substituted (19.12.2015) by [The Energy Performance of Buildings (Scotland) Amendment Regulations 2015 (S.S.I. 2015/386)](https://www.legislation.gov.uk/ssi/2015/386), [regs. 1](https://www.legislation.gov.uk/ssi/2015/386/regulation/1), [2(8)](https://www.legislation.gov.uk/ssi/2015/386/regulation/2/8)
 
-[^key-982324e15c84baab70e496950f878d79]: Textual amendment: Words in [reg. 17B(4)](https://www.legislation.gov.uk/ssi/2008/309/regulation/17B/4) substituted (19.12.2015) by [The Energy Performance of Buildings (Scotland) Amendment Regulations 2015 (S.S.I. 2015/386)](https://www.legislation.gov.uk/ssi/2015/386), [regs. 1](https://www.legislation.gov.uk/ssi/2015/386/regulation/1), [2(9)](https://www.legislation.gov.uk/ssi/2015/386/regulation/2/9)
+[^c-982324e15c84baab70e496950f878d79]: Textual amendment: Words in [reg. 17B(4)](https://www.legislation.gov.uk/ssi/2008/309/regulation/17B/4) substituted (19.12.2015) by [The Energy Performance of Buildings (Scotland) Amendment Regulations 2015 (S.S.I. 2015/386)](https://www.legislation.gov.uk/ssi/2015/386), [regs. 1](https://www.legislation.gov.uk/ssi/2015/386/regulation/1), [2(9)](https://www.legislation.gov.uk/ssi/2015/386/regulation/2/9)
 
-[^key-ab2aa78ebce8c5086399d3988e8ff11c]: Textual amendment: Words in reg. 18 inserted (1.10.2012) by [The Energy Performance of Buildings (Scotland) Amendment (No. 2) Regulations 2012 (S.S.I. 2012/208)](https://www.legislation.gov.uk/ssi/2012/208), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/208/regulation/1/1), [17](https://www.legislation.gov.uk/ssi/2012/208/regulation/17) (with [reg. 19](https://www.legislation.gov.uk/ssi/2012/208/regulation/19))
+[^c-ab2aa78ebce8c5086399d3988e8ff11c]: Textual amendment: Words in reg. 18 inserted (1.10.2012) by [The Energy Performance of Buildings (Scotland) Amendment (No. 2) Regulations 2012 (S.S.I. 2012/208)](https://www.legislation.gov.uk/ssi/2012/208), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/208/regulation/1/1), [17](https://www.legislation.gov.uk/ssi/2012/208/regulation/17) (with [reg. 19](https://www.legislation.gov.uk/ssi/2012/208/regulation/19))
 
-[^key-c9947ddfb4cde513332fc5397594f7fb]: Textual amendment: Reg. 18A inserted (9.1.2013) by [The Energy Performance of Buildings (Scotland) Amendment (No. 2) Regulations 2012 (S.S.I. 2012/208)](https://www.legislation.gov.uk/ssi/2012/208), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2012/208/regulation/1/2), [18](https://www.legislation.gov.uk/ssi/2012/208/regulation/18) (with [reg. 19](https://www.legislation.gov.uk/ssi/2012/208/regulation/19))
+[^c-c9947ddfb4cde513332fc5397594f7fb]: Textual amendment: Reg. 18A inserted (9.1.2013) by [The Energy Performance of Buildings (Scotland) Amendment (No. 2) Regulations 2012 (S.S.I. 2012/208)](https://www.legislation.gov.uk/ssi/2012/208), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2012/208/regulation/1/2), [18](https://www.legislation.gov.uk/ssi/2012/208/regulation/18) (with [reg. 19](https://www.legislation.gov.uk/ssi/2012/208/regulation/19))
 
-[^key-bb1ed7f3131eca3ff59b8f942af6ec04]: Textual amendment: Sch. 1 inserted (21.12.2012) by [The Energy Performance of Buildings (Scotland) Amendment (No. 3) Regulations 2012 (S.S.I. 2012/315)](https://www.legislation.gov.uk/ssi/2012/315), [regs. 1](https://www.legislation.gov.uk/ssi/2012/315/regulation/1), [8](https://www.legislation.gov.uk/ssi/2012/315/regulation/8), [sch.](https://www.legislation.gov.uk/ssi/2012/315/schedule)
+[^c-bb1ed7f3131eca3ff59b8f942af6ec04]: Textual amendment: Sch. 1 inserted (21.12.2012) by [The Energy Performance of Buildings (Scotland) Amendment (No. 3) Regulations 2012 (S.S.I. 2012/315)](https://www.legislation.gov.uk/ssi/2012/315), [regs. 1](https://www.legislation.gov.uk/ssi/2012/315/regulation/1), [8](https://www.legislation.gov.uk/ssi/2012/315/regulation/8), [sch.](https://www.legislation.gov.uk/ssi/2012/315/schedule)
 
-[^key-f7909d11063d44cc73249b4ff14814ac]: Textual amendment: Sch. 1 Pt. 1 paras. (l)-(t) inserted (19.12.2015) by [The Energy Performance of Buildings (Scotland) Amendment Regulations 2015 (S.S.I. 2015/386)](https://www.legislation.gov.uk/ssi/2015/386), [regs. 1](https://www.legislation.gov.uk/ssi/2015/386/regulation/1), [2(10)(a)](https://www.legislation.gov.uk/ssi/2015/386/regulation/2/10/a)
+[^c-f7909d11063d44cc73249b4ff14814ac]: Textual amendment: Sch. 1 Pt. 1 paras. (l)-(t) inserted (19.12.2015) by [The Energy Performance of Buildings (Scotland) Amendment Regulations 2015 (S.S.I. 2015/386)](https://www.legislation.gov.uk/ssi/2015/386), [regs. 1](https://www.legislation.gov.uk/ssi/2015/386/regulation/1), [2(10)(a)](https://www.legislation.gov.uk/ssi/2015/386/regulation/2/10/a)
 
-[^key-af30cda851781421a50be5187dd7fbd8]: Textual amendment: Sch. 1 Pt. 2 para. 8 inserted (19.12.2015) by [The Energy Performance of Buildings (Scotland) Amendment Regulations 2015 (S.S.I. 2015/386)](https://www.legislation.gov.uk/ssi/2015/386), [regs. 1](https://www.legislation.gov.uk/ssi/2015/386/regulation/1), [2(10)(b)](https://www.legislation.gov.uk/ssi/2015/386/regulation/2/10/b)
+[^c-af30cda851781421a50be5187dd7fbd8]: Textual amendment: Sch. 1 Pt. 2 para. 8 inserted (19.12.2015) by [The Energy Performance of Buildings (Scotland) Amendment Regulations 2015 (S.S.I. 2015/386)](https://www.legislation.gov.uk/ssi/2015/386), [regs. 1](https://www.legislation.gov.uk/ssi/2015/386/regulation/1), [2(10)(b)](https://www.legislation.gov.uk/ssi/2015/386/regulation/2/10/b)
 
-[^key-01d0cb9ed3c8e84a07b393492894bd11]: Textual amendment: [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ssi/2008/309/schedule/1/part/3) substituted (19.12.2015) by [The Energy Performance of Buildings (Scotland) Amendment Regulations 2015 (S.S.I. 2015/386)](https://www.legislation.gov.uk/ssi/2015/386), [regs. 1](https://www.legislation.gov.uk/ssi/2015/386/regulation/1), [2(10)(c)](https://www.legislation.gov.uk/ssi/2015/386/regulation/2/10/c)
+[^c-01d0cb9ed3c8e84a07b393492894bd11]: Textual amendment: [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ssi/2008/309/schedule/1/part/3) substituted (19.12.2015) by [The Energy Performance of Buildings (Scotland) Amendment Regulations 2015 (S.S.I. 2015/386)](https://www.legislation.gov.uk/ssi/2015/386), [regs. 1](https://www.legislation.gov.uk/ssi/2015/386/regulation/1), [2(10)(c)](https://www.legislation.gov.uk/ssi/2015/386/regulation/2/10/c)
 
-[^key-b953e32909616669e7af497d125e7b18]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ssi/2008/309/schedule/2) inserted (27.1.2013) by [The Energy Performance of Buildings (Scotland) Amendment Regulations2013 (S.S.I. 2013/12)](https://www.legislation.gov.uk/ssi/2013/12), [regs. 1](https://www.legislation.gov.uk/ssi/2013/12/regulation/1), [11](https://www.legislation.gov.uk/ssi/2013/12/regulation/11), [sch.](https://www.legislation.gov.uk/ssi/2013/12/schedule)
+[^c-b953e32909616669e7af497d125e7b18]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ssi/2008/309/schedule/2) inserted (27.1.2013) by [The Energy Performance of Buildings (Scotland) Amendment Regulations2013 (S.S.I. 2013/12)](https://www.legislation.gov.uk/ssi/2013/12), [regs. 1](https://www.legislation.gov.uk/ssi/2013/12/regulation/1), [11](https://www.legislation.gov.uk/ssi/2013/12/regulation/11), [sch.](https://www.legislation.gov.uk/ssi/2013/12/schedule)

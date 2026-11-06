@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.11.18. Public notice of trial not proceeding[^key-9d54125fac63f50c510078d0eb874f59]
+## 3.11.18. Public notice of trial not proceeding[^c-9d54125fac63f50c510078d0eb874f59]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9d54125fac63f50c510078d0eb874f59]: Commencement: Rule 3.11.18 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-9d54125fac63f50c510078d0eb874f59]: Commencement: Rule 3.11.18 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)

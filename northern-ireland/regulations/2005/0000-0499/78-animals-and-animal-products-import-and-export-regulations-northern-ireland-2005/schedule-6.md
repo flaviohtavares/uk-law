@@ -24,50 +24,50 @@ Regulations 5(7), 23 and 25(1)
 
 ### PART I — MEMBERSHIP
 
-**1.**[^key-3cbd65c8ad83f4e01a76f223e04c5a15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-3cbd65c8ad83f4e01a76f223e04c5a15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-3cbd65c8ad83f4e01a76f223e04c5a15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-3cbd65c8ad83f4e01a76f223e04c5a15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-3cbd65c8ad83f4e01a76f223e04c5a15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-3cbd65c8ad83f4e01a76f223e04c5a15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-3cbd65c8ad83f4e01a76f223e04c5a15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-3cbd65c8ad83f4e01a76f223e04c5a15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-3cbd65c8ad83f4e01a76f223e04c5a15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-3cbd65c8ad83f4e01a76f223e04c5a15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-3cbd65c8ad83f4e01a76f223e04c5a15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-3cbd65c8ad83f4e01a76f223e04c5a15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-3cbd65c8ad83f4e01a76f223e04c5a15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-3cbd65c8ad83f4e01a76f223e04c5a15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-3cbd65c8ad83f4e01a76f223e04c5a15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-3cbd65c8ad83f4e01a76f223e04c5a15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-3cbd65c8ad83f4e01a76f223e04c5a15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-3cbd65c8ad83f4e01a76f223e04c5a15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### PART II — REGISTRATION FEE
 
-**1.**[^key-3cbd65c8ad83f4e01a76f223e04c5a15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-3cbd65c8ad83f4e01a76f223e04c5a15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-3cbd65c8ad83f4e01a76f223e04c5a15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-3cbd65c8ad83f4e01a76f223e04c5a15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### PART III — ANNUAL MEMBERSHIP FEE
 
-**1.**[^key-3cbd65c8ad83f4e01a76f223e04c5a15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-3cbd65c8ad83f4e01a76f223e04c5a15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-3cbd65c8ad83f4e01a76f223e04c5a15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-3cbd65c8ad83f4e01a76f223e04c5a15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-3cbd65c8ad83f4e01a76f223e04c5a15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-3cbd65c8ad83f4e01a76f223e04c5a15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-3cbd65c8ad83f4e01a76f223e04c5a15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-3cbd65c8ad83f4e01a76f223e04c5a15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART IV — RE-INSPECTION FEE[^key-3cbd65c8ad83f4e01a76f223e04c5a15]
+### PART IV — RE-INSPECTION FEE[^c-3cbd65c8ad83f4e01a76f223e04c5a15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### PART V — SUPPLEMENTARY AUDIT INSPECTION FEE
 
-**1.**[^key-3cbd65c8ad83f4e01a76f223e04c5a15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-3cbd65c8ad83f4e01a76f223e04c5a15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-3cbd65c8ad83f4e01a76f223e04c5a15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-3cbd65c8ad83f4e01a76f223e04c5a15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3cbd65c8ad83f4e01a76f223e04c5a15]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/78) revoked in part (1.11.2006) by [The Animals and Animal Products (Import and Export) Regulations (Northern Ireland) 2006 (S.R. 2006/401)](https://www.legislation.gov.uk/nisr/2006/401), [regs. 1](https://www.legislation.gov.uk/nisr/2006/401/regulation/1), [34](https://www.legislation.gov.uk/nisr/2006/401/regulation/34), [Sch. 9](https://www.legislation.gov.uk/nisr/2006/401/schedule/9) (with [reg. 3](https://www.legislation.gov.uk/nisr/2006/401/regulation/3))
+[^c-3cbd65c8ad83f4e01a76f223e04c5a15]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/78) revoked in part (1.11.2006) by [The Animals and Animal Products (Import and Export) Regulations (Northern Ireland) 2006 (S.R. 2006/401)](https://www.legislation.gov.uk/nisr/2006/401), [regs. 1](https://www.legislation.gov.uk/nisr/2006/401/regulation/1), [34](https://www.legislation.gov.uk/nisr/2006/401/regulation/34), [Sch. 9](https://www.legislation.gov.uk/nisr/2006/401/schedule/9) (with [reg. 3](https://www.legislation.gov.uk/nisr/2006/401/regulation/3))

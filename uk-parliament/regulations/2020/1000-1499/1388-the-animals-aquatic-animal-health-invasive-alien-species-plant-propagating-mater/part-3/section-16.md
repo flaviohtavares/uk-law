@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Commission Implementing Regulation (EU) No 577/2013[^key-3bcd37a262f53f5bdb4dedb03de8f29f]
+## 16. Commission Implementing Regulation (EU) No 577/2013[^c-3bcd37a262f53f5bdb4dedb03de8f29f]
 
 *Extent: E+W+S*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3bcd37a262f53f5bdb4dedb03de8f29f]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2020/1388/regulation/16) in force at 31.12.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c)
+[^c-3bcd37a262f53f5bdb4dedb03de8f29f]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2020/1388/regulation/16) in force at 31.12.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c)
 
 [^f00050]: Footnote: EUR 577/2013.

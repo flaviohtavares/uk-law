@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Application of Chapter[^key-c1814c6ca6056b45e7e7e58f9be38b75]
+## 16. Application of Chapter[^c-c1814c6ca6056b45e7e7e58f9be38b75]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c1814c6ca6056b45e7e7e58f9be38b75]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2015/182/regulation/16) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-c1814c6ca6056b45e7e7e58f9be38b75]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2015/182/regulation/16) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)

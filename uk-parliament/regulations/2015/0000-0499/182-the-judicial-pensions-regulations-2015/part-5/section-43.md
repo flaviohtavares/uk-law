@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Establishment of deferred member’s account[^key-6ec4508f72e814acdcb0835f04cd7dd1]
+## 43. Establishment of deferred member’s account[^c-6ec4508f72e814acdcb0835f04cd7dd1]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6ec4508f72e814acdcb0835f04cd7dd1]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/2015/182/regulation/43) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-6ec4508f72e814acdcb0835f04cd7dd1]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/2015/182/regulation/43) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)

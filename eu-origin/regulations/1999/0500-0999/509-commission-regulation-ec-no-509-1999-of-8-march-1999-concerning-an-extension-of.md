@@ -55,7 +55,7 @@ Whereas the measures provided for in this Regulation are in accordance with the 
 
 HAS ADOPTED THIS REGULATION:
 
-**Article 1.** The appropriate Minister[^key-28c27bc29233ccb42951731097d412b5] may extend up to nine months the maximum period laid down by Article 4(2) of Regulation (EC) No 820/97 regarding the application of ear-tags to bison *(Bison bison* spp.).
+**Article 1.** The appropriate Minister[^c-28c27bc29233ccb42951731097d412b5] may extend up to nine months the maximum period laid down by Article 4(2) of Regulation (EC) No 820/97 regarding the application of ear-tags to bison *(Bison bison* spp.).
 
 This extension shall not effect the quality of information provided by the national database.
 
@@ -67,7 +67,7 @@ This extension shall not effect the quality of information provided by the natio
 
 **Article 3.** This Regulation shall enter into force on the day of its publication in the *Official Journal of the European Communities.*
 
-[^key-160fff0c2b41252e41c0eb4dc8b981e2]....
+[^c-160fff0c2b41252e41c0eb4dc8b981e2]....
 
 Done at Brussels, 8 March 1999.
 
@@ -81,6 +81,6 @@ Franz Fischler
 
 [^f00001]: Footnote: [OJ L 117, 7. 5. 1997, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1997.117.01.0001.01.ENG).
 
-[^key-28c27bc29233ccb42951731097d412b5]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eur/1999/509/article/1) substituted (31.12.2020) by [The Livestock (Records, Identification and Movement) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/814)](https://www.legislation.gov.uk/uksi/2019/814), [regs. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2019/814/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-28c27bc29233ccb42951731097d412b5]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eur/1999/509/article/1) substituted (31.12.2020) by [The Livestock (Records, Identification and Movement) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/814)](https://www.legislation.gov.uk/uksi/2019/814), [regs. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2019/814/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-160fff0c2b41252e41c0eb4dc8b981e2]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/1999/509/signature) omitted (31.12.2020) by virtue of [The Livestock (Records, Identification and Movement) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/814)](https://www.legislation.gov.uk/uksi/2019/814), [regs. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2019/814/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-160fff0c2b41252e41c0eb4dc8b981e2]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/1999/509/signature) omitted (31.12.2020) by virtue of [The Livestock (Records, Identification and Movement) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/814)](https://www.legislation.gov.uk/uksi/2019/814), [regs. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2019/814/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

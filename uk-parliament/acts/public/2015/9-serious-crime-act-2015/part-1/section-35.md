@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Conditions for exercise of search and seizure powers[^key-3777970c84338875057a5f7316460663]
+## 35. Conditions for exercise of search and seizure powers[^c-3777970c84338875057a5f7316460663]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3777970c84338875057a5f7316460663]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2015/9/section/35) in force at 1.6.2015 by [S.R. 2015/190](https://www.legislation.gov.uk/nisr/2015/190), [reg. 3(1)(i)](https://www.legislation.gov.uk/nisr/2015/190/regulation/3/1/i)
+[^c-3777970c84338875057a5f7316460663]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2015/9/section/35) in force at 1.6.2015 by [S.R. 2015/190](https://www.legislation.gov.uk/nisr/2015/190), [reg. 3(1)(i)](https://www.legislation.gov.uk/nisr/2015/190/regulation/3/1/i)

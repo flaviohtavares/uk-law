@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 56B. Restrictions on mammals on confirmation of influenza virus of avian origin[^key-1bf66f1fa8c01671f00f21ee2d741055]
+## 56B. Restrictions on mammals on confirmation of influenza virus of avian origin[^c-1bf66f1fa8c01671f00f21ee2d741055]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ If the Scottish Ministers confirm that influenza virus of avian origin exists on
 
 ## Annotations
 
-[^key-1bf66f1fa8c01671f00f21ee2d741055]: Textual amendment: [Arts. 56A](https://www.legislation.gov.uk/ssi/2006/336/article/56A), [56B](https://www.legislation.gov.uk/ssi/2006/336/article/56B) inserted (29.5.2025) by [The Disease Control (Miscellaneous Amendment) (Scotland) Order 2025 (S.S.I. 2025/108)](https://www.legislation.gov.uk/ssi/2025/108), [arts. 1](https://www.legislation.gov.uk/ssi/2025/108/article/1), [2(5)](https://www.legislation.gov.uk/ssi/2025/108/article/2/5)
+[^c-1bf66f1fa8c01671f00f21ee2d741055]: Textual amendment: [Arts. 56A](https://www.legislation.gov.uk/ssi/2006/336/article/56A), [56B](https://www.legislation.gov.uk/ssi/2006/336/article/56B) inserted (29.5.2025) by [The Disease Control (Miscellaneous Amendment) (Scotland) Order 2025 (S.S.I. 2025/108)](https://www.legislation.gov.uk/ssi/2025/108), [arts. 1](https://www.legislation.gov.uk/ssi/2025/108/article/1), [2(5)](https://www.legislation.gov.uk/ssi/2025/108/article/2/5)

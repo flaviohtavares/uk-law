@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44A. Director disqualification licences[^key-04687ef7191e281daa0405426b9aa141]
+## 44A. Director disqualification licences[^c-04687ef7191e281daa0405426b9aa141]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ do not apply to anything done under the authority of that licence.
 
 ## Annotations
 
-[^key-04687ef7191e281daa0405426b9aa141]: Textual amendment: [Reg. 44A](https://www.legislation.gov.uk/uksi/2021/496/regulation/44A) inserted (16.5.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/643)](https://www.legislation.gov.uk/uksi/2024/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/643/regulation/1/2), [16(5)](https://www.legislation.gov.uk/uksi/2024/643/regulation/16/5)
+[^c-04687ef7191e281daa0405426b9aa141]: Textual amendment: [Reg. 44A](https://www.legislation.gov.uk/uksi/2021/496/regulation/44A) inserted (16.5.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/643)](https://www.legislation.gov.uk/uksi/2024/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/643/regulation/1/2), [16(5)](https://www.legislation.gov.uk/uksi/2024/643/regulation/16/5)

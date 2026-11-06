@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Nuclear regulations: offences[^key-d1eab78b5fd846251563c88165e5becc]
+## 75. Nuclear regulations: offences[^c-d1eab78b5fd846251563c88165e5becc]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,8 +39,8 @@ summary: ''
 (3) A period specified under subsection (2)(b)(i) may not exceed—
 
 - (a) in relation to England and Wales—
-  - (i) 6 months, in relation to offences committed before 2 May 2022[^key-677ad5573e231b35dcbcf3116855ce22],
-  - (ii) the general limit in a magistrates’ court[^key-22214e8d2d2355ae1ad72ee5b3b3d635], in relation to offences committed after that date,
+  - (i) 6 months, in relation to offences committed before 2 May 2022[^c-677ad5573e231b35dcbcf3116855ce22],
+  - (ii) the general limit in a magistrates’ court[^c-22214e8d2d2355ae1ad72ee5b3b3d635], in relation to offences committed after that date,
 - (b) in relation to Scotland, 12 months,
 - (c) in relation to Northern Ireland, 6 months.
 
@@ -64,8 +64,8 @@ summary: ''
 
 ## Annotations
 
-[^key-d1eab78b5fd846251563c88165e5becc]: Commencement: S. 75 in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-d1eab78b5fd846251563c88165e5becc]: Commencement: S. 75 in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
 
-[^key-677ad5573e231b35dcbcf3116855ce22]: Textual amendment: Words in [s. 75(3)(a)(i)](https://www.legislation.gov.uk/ukpga/2013/32/section/75/3/a/i) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
+[^c-677ad5573e231b35dcbcf3116855ce22]: Textual amendment: Words in [s. 75(3)(a)(i)](https://www.legislation.gov.uk/ukpga/2013/32/section/75/3/a/i) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
 
-[^key-22214e8d2d2355ae1ad72ee5b3b3d635]: Textual amendment: Words in [s. 75(3)(a)(ii)](https://www.legislation.gov.uk/ukpga/2013/32/section/75/3/a/ii) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
+[^c-22214e8d2d2355ae1ad72ee5b3b3d635]: Textual amendment: Words in [s. 75(3)(a)(ii)](https://www.legislation.gov.uk/ukpga/2013/32/section/75/3/a/ii) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table

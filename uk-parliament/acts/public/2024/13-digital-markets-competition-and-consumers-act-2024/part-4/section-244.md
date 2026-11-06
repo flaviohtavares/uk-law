@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 244. Validity of agreements[^key-db2fd39de37ffab535fc7f417953c87e][^key-b129c5a3eb6e40d56c0542610284a797]
+## 244. Validity of agreements[^c-db2fd39de37ffab535fc7f417953c87e][^c-b129c5a3eb6e40d56c0542610284a797]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Except as resulting from a consumer’s rights of redress under this Chapter, a 
 
 ## Annotations
 
-[^key-db2fd39de37ffab535fc7f417953c87e]: Commencement: S. 244 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-db2fd39de37ffab535fc7f417953c87e]: Commencement: S. 244 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-b129c5a3eb6e40d56c0542610284a797]: Commencement: [S. 244](https://www.legislation.gov.uk/ukpga/2024/13/section/244) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/3)
+[^c-b129c5a3eb6e40d56c0542610284a797]: Commencement: [S. 244](https://www.legislation.gov.uk/ukpga/2024/13/section/244) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/3)

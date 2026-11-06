@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 147. Pension protection lump sum death benefit[^key-d6f9930e6c78f86acf6be924bb579977]
+## 147. Pension protection lump sum death benefit[^c-d6f9930e6c78f86acf6be924bb579977]
 
 *Extent: S*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d6f9930e6c78f86acf6be924bb579977]: Commencement: Reg. 147 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-d6f9930e6c78f86acf6be924bb579977]: Commencement: Reg. 147 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
 [^f00061]: Footnote: Paragraph 14 was amended by the Finance Act [2011 (c.11)](https://www.legislation.gov.uk/ukpga/2011/11), Schedule 16, paragraphs 32 and 34.

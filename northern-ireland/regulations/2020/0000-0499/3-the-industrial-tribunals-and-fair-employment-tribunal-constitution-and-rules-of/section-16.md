@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 16. Register[^key-29643076bdd2f36d2bd6a593c7ad573b]
+## 16. Register[^c-29643076bdd2f36d2bd6a593c7ad573b]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-29643076bdd2f36d2bd6a593c7ad573b]: Commencement: Reg. 16 in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)
+[^c-29643076bdd2f36d2bd6a593c7ad573b]: Commencement: Reg. 16 in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)

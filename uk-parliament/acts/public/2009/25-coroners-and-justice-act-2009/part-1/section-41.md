@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Investigation by Chief Coroner or Coroner for Treasure or by judge, former judge or former coroner[^key-3d0532348615b1fada59452a5b07bb2c]
+## 41. Investigation by Chief Coroner or Coroner for Treasure or by judge, former judge or former coroner[^c-3d0532348615b1fada59452a5b07bb2c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 10 makes provision for an investigation into a person's death to be car
 
 ## Annotations
 
-[^key-3d0532348615b1fada59452a5b07bb2c]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2009/25/section/41) in force at 25.7.2013 for specified purposes by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(d)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/d)
+[^c-3d0532348615b1fada59452a5b07bb2c]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2009/25/section/41) in force at 25.7.2013 for specified purposes by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(d)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/d)

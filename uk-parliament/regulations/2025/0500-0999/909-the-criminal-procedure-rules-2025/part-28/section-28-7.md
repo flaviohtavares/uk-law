@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28.7. Application for a restitution order by the victim of a theft[^key-9ca5f7918c35c93eaf9a9e2b36bd4d81]
+## 28.7. Application for a restitution order by the victim of a theft[^c-9ca5f7918c35c93eaf9a9e2b36bd4d81]
 
 *Extent: E+W*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9ca5f7918c35c93eaf9a9e2b36bd4d81]: Commencement: [Rule 28.7](https://www.legislation.gov.uk/uksi/2025/909/rule/28.7) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-9ca5f7918c35c93eaf9a9e2b36bd4d81]: Commencement: [Rule 28.7](https://www.legislation.gov.uk/uksi/2025/909/rule/28.7) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00668]: Footnote: [2020 c. 17](https://www.legislation.gov.uk/ukpga/2020/17).

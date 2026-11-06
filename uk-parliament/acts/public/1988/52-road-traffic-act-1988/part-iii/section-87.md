@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Drivers of motor vehicles to have driving licences.[^c13978791][^c13978801][^c13978811][^c19130701][^key-070c115c5370cbc47f436eed31c22ce2]
+## 87. Drivers of motor vehicles to have driving licences.[^c13978791][^c13978801][^c13978811][^c19130701][^c-070c115c5370cbc47f436eed31c22ce2]
 
 *Extent: E+W+S*
 
@@ -36,7 +36,7 @@ summary: ''
 
 [^c19130701]: Modification: S. 87 modified (16.8.2006) by [The Dover Harbour Revision Order 2006 (S.I. 2006/2167)](https://www.legislation.gov.uk/uksi/2006/2167), [art. 27](https://www.legislation.gov.uk/uksi/2006/2167/article/27)
 
-[^key-070c115c5370cbc47f436eed31c22ce2]: Modification: S. 87 excluded (17.4.2019) by [The Motor Sport on Public Roads (Scotland) Regulations 2019 (S.S.I. 2019/138)](https://www.legislation.gov.uk/ssi/2019/138), [regs. 1](https://www.legislation.gov.uk/ssi/2019/138/regulation/1), [6](https://www.legislation.gov.uk/ssi/2019/138/regulation/6), [sch. 2](https://www.legislation.gov.uk/ssi/2019/138/schedule/2)
+[^c-070c115c5370cbc47f436eed31c22ce2]: Modification: S. 87 excluded (17.4.2019) by [The Motor Sport on Public Roads (Scotland) Regulations 2019 (S.S.I. 2019/138)](https://www.legislation.gov.uk/ssi/2019/138), [regs. 1](https://www.legislation.gov.uk/ssi/2019/138/regulation/1), [6](https://www.legislation.gov.uk/ssi/2019/138/regulation/6), [sch. 2](https://www.legislation.gov.uk/ssi/2019/138/schedule/2)
 
 [^c13978821]: Textual amendment: Words in s. 87(1) substituted (1.7.1992) by [Road Traffic Act 1991 (c. 40, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1991/40), [s. 17(1)](https://www.legislation.gov.uk/ukpga/1991/40/section/17/1); [S.I. 1992/1286](https://www.legislation.gov.uk/uksi/1992/1286), [art. 2](https://www.legislation.gov.uk/uksi/1992/1286/article/2),Sch.
 

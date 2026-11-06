@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4.[^key-ab578ff28e3fc6a2cd9ba4d15bde918d]
+## 4.[^c-ab578ff28e3fc6a2cd9ba4d15bde918d]
 
 *Extent: E+W+S*
 
@@ -36,6 +36,6 @@ In section 97 [^c23620571]—
 
 ## Annotations
 
-[^key-ab578ff28e3fc6a2cd9ba4d15bde918d]: Commencement: Reg. 4 in force at 26.3.2019, see reg. 1(2)
+[^c-ab578ff28e3fc6a2cd9ba4d15bde918d]: Commencement: Reg. 4 in force at 26.3.2019, see reg. 1(2)
 
 [^c23620571]: Marginal citation: Section 97 was amended by [S.I. 1979/1746](https://www.legislation.gov.uk/uksi/1979/1746), 1984/144, 1986/1457, 1989/2121, 2005/1904, 2006/1117, 2008/198, 2016/248.

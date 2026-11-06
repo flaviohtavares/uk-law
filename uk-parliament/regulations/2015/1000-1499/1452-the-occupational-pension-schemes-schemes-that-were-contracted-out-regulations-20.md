@@ -44,137 +44,137 @@ The Secretary of State has consulted such persons as the Secretary of State cons
 
 ## PART 1 — GENERAL
 
-### 1. Citation, commencement and extent[^key-bc447fc404eab74438fdb051708a0d97]
+### 1. Citation, commencement and extent[^c-bc447fc404eab74438fdb051708a0d97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Interpretation[^key-bc447fc404eab74438fdb051708a0d97]
+### 2. Interpretation[^c-bc447fc404eab74438fdb051708a0d97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 2 — GENERAL PROVISIONS RELATING TO SCHEMES THAT WERE SALARY RELATED CONTRACTED-OUT SCHEMES
 
-### 3. Alteration of scheme rules[^key-bc447fc404eab74438fdb051708a0d97]
+### 3. Alteration of scheme rules[^c-bc447fc404eab74438fdb051708a0d97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Determination that an earner was in contracted-out employment[^key-bc447fc404eab74438fdb051708a0d97]
+### 4. Determination that an earner was in contracted-out employment[^c-bc447fc404eab74438fdb051708a0d97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Provision of information[^key-bc447fc404eab74438fdb051708a0d97]
+### 5. Provision of information[^c-bc447fc404eab74438fdb051708a0d97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Overseas schemes[^key-bc447fc404eab74438fdb051708a0d97]
+### 6. Overseas schemes[^c-bc447fc404eab74438fdb051708a0d97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Restoration of state scheme rights[^key-bc447fc404eab74438fdb051708a0d97]
+### 7. Restoration of state scheme rights[^c-bc447fc404eab74438fdb051708a0d97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Contributions equivalent premiums: prescribed person[^key-bc447fc404eab74438fdb051708a0d97]
+### 8. Contributions equivalent premiums: prescribed person[^c-bc447fc404eab74438fdb051708a0d97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Notification of requirement to pay a contributions equivalent premium[^key-bc447fc404eab74438fdb051708a0d97]
+### 9. Notification of requirement to pay a contributions equivalent premium[^c-bc447fc404eab74438fdb051708a0d97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Cases where payment of a contributions equivalent premium is not required[^key-bc447fc404eab74438fdb051708a0d97]
+### 10. Cases where payment of a contributions equivalent premium is not required[^c-bc447fc404eab74438fdb051708a0d97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Elections to pay contributions equivalent premiums[^key-bc447fc404eab74438fdb051708a0d97]
+### 11. Elections to pay contributions equivalent premiums[^c-bc447fc404eab74438fdb051708a0d97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Payment of a contributions equivalent premium[^key-bc447fc404eab74438fdb051708a0d97]
+### 12. Payment of a contributions equivalent premium[^c-bc447fc404eab74438fdb051708a0d97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Payment in lieu of benefit and delay in refund for the purposes of the employer’s right of recovery[^key-bc447fc404eab74438fdb051708a0d97]
+### 13. Payment in lieu of benefit and delay in refund for the purposes of the employer’s right of recovery[^c-bc447fc404eab74438fdb051708a0d97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Refund of a contributions equivalent premium[^key-bc447fc404eab74438fdb051708a0d97]
+### 14. Refund of a contributions equivalent premium[^c-bc447fc404eab74438fdb051708a0d97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Continuation of transitional arrangements for schemes that began winding up before 6th April 1997[^key-bc447fc404eab74438fdb051708a0d97]
+### 15. Continuation of transitional arrangements for schemes that began winding up before 6th April 1997[^c-bc447fc404eab74438fdb051708a0d97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Continuation of savings in respect of state scheme premiums[^key-bc447fc404eab74438fdb051708a0d97]
+### 16. Continuation of savings in respect of state scheme premiums[^c-bc447fc404eab74438fdb051708a0d97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 3 — ADDITIONAL REQUIREMENTS IN RELATION TO RIGHTS ATTRIBUTABLE TO CONTRACTED-OUT EMPLOYMENT ON AND AFTER 6TH APRIL 1997
 
-### 17. Alteration of scheme rules[^key-bc447fc404eab74438fdb051708a0d97]
+### 17. Alteration of scheme rules[^c-bc447fc404eab74438fdb051708a0d97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Payment of a lump sum instead of a pension[^key-bc447fc404eab74438fdb051708a0d97]
+### 18. Payment of a lump sum instead of a pension[^c-bc447fc404eab74438fdb051708a0d97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Forfeiture of accrued rights[^key-bc447fc404eab74438fdb051708a0d97]
+### 19. Forfeiture of accrued rights[^c-bc447fc404eab74438fdb051708a0d97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 4 — ADDITIONAL REQUIREMENTS IN RELATION TO GUARANTEED MINIMUM PENSIONS
 
-### 20. Alteration of scheme rules[^key-bc447fc404eab74438fdb051708a0d97]
+### 20. Alteration of scheme rules[^c-bc447fc404eab74438fdb051708a0d97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21. Circumstances for the purposes of section 17(6) of the 1993 Act in which widower’s, widow’s or surviving civil partner’s guaranteed minimum pension is payable[^key-bc447fc404eab74438fdb051708a0d97]
+### 21. Circumstances for the purposes of section 17(6) of the 1993 Act in which widower’s, widow’s or surviving civil partner’s guaranteed minimum pension is payable[^c-bc447fc404eab74438fdb051708a0d97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 22. Period for the purposes of section 17(6) of the 1993 Act for which widower’s, widow’s or surviving civil partner’s guaranteed minimum pension is payable[^key-bc447fc404eab74438fdb051708a0d97]
+### 22. Period for the purposes of section 17(6) of the 1993 Act for which widower’s, widow’s or surviving civil partner’s guaranteed minimum pension is payable[^c-bc447fc404eab74438fdb051708a0d97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 23. Fixed rate revaluation of guaranteed minimum pensions secured by insurance policies or annuity contracts[^key-bc447fc404eab74438fdb051708a0d97]
+### 23. Fixed rate revaluation of guaranteed minimum pensions secured by insurance policies or annuity contracts[^c-bc447fc404eab74438fdb051708a0d97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 24. Fixed rate revaluation of guaranteed minimum pensions for early leavers[^key-bc447fc404eab74438fdb051708a0d97]
+### 24. Fixed rate revaluation of guaranteed minimum pensions for early leavers[^c-bc447fc404eab74438fdb051708a0d97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 25. Payment of a lump sum instead of a pension[^key-bc447fc404eab74438fdb051708a0d97]
+### 25. Payment of a lump sum instead of a pension[^c-bc447fc404eab74438fdb051708a0d97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 26. Suspension and forfeiture of guaranteed minimum pension[^key-bc447fc404eab74438fdb051708a0d97]
+### 26. Suspension and forfeiture of guaranteed minimum pension[^c-bc447fc404eab74438fdb051708a0d97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 27. Conversion into other benefits: actuarial equivalence[^key-bc447fc404eab74438fdb051708a0d97]
+### 27. Conversion into other benefits: actuarial equivalence[^c-bc447fc404eab74438fdb051708a0d97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 28. Conversion into other benefits: survivors’ benefits[^key-27e653540f79f4ba5659607fde705705]
+### 28. Conversion into other benefits: survivors’ benefits[^c-27e653540f79f4ba5659607fde705705]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 5 — AMENDMENT OF THE OCCUPATIONAL PENSION SCHEMES (CONTRACTING-OUT) REGULATIONS 1996
 
-### 29. Amendments relating to certification of employments for a period before the second abolition date[^key-bc447fc404eab74438fdb051708a0d97]
+### 29. Amendments relating to certification of employments for a period before the second abolition date[^c-bc447fc404eab74438fdb051708a0d97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 30. Amendments relating to cessation of contracting-out before the second abolition date[^key-bc447fc404eab74438fdb051708a0d97]
+### 30. Amendments relating to cessation of contracting-out before the second abolition date[^c-bc447fc404eab74438fdb051708a0d97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 6 — AMENDMENT OF THE CONTRACTING-OUT (TRANSFER AND TRANSFER PAYMENT) REGULATIONS 1996
 
-### 31. Revaluation after transfer from another scheme[^key-bc447fc404eab74438fdb051708a0d97]
+### 31. Revaluation after transfer from another scheme[^c-bc447fc404eab74438fdb051708a0d97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -192,61 +192,61 @@ The following provisions of the 1996 Regulations are revoked—
 - (f) regulation 62 (but see regulation 33);
 - (g) regulation 63;
 - (h) regulations 65 and 66 (but see regulation 33);
-- (i) regulations 67 to 74; *(affected by repeal, see note)*[^key-94bb98652293081b27690972283ca4b8]
+- (i) regulations 67 to 74; *(affected by repeal, see note)*[^c-94bb98652293081b27690972283ca4b8]
 - (j) regulations 76A and 76B;
 - (k) regulation 77.
 
-### 33. Saving of provisions relating to the revaluation of Guaranteed Minimum Pensions[^key-bc447fc404eab74438fdb051708a0d97]
+### 33. Saving of provisions relating to the revaluation of Guaranteed Minimum Pensions[^c-bc447fc404eab74438fdb051708a0d97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 34. Revocations taking effect on 6th April 2019[^key-bc447fc404eab74438fdb051708a0d97]
+### 34. Revocations taking effect on 6th April 2019[^c-bc447fc404eab74438fdb051708a0d97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 8 — PROVISION FOR NORTHERN IRELAND
 
-### 35. Interpretation of Part 8[^key-bc447fc404eab74438fdb051708a0d97]
+### 35. Interpretation of Part 8[^c-bc447fc404eab74438fdb051708a0d97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 36. Restoration of state scheme rights: Northern Ireland[^key-bc447fc404eab74438fdb051708a0d97]
+### 36. Restoration of state scheme rights: Northern Ireland[^c-bc447fc404eab74438fdb051708a0d97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 37. Contributions equivalent premiums: prescribed person in Northern Ireland[^key-bc447fc404eab74438fdb051708a0d97]
+### 37. Contributions equivalent premiums: prescribed person in Northern Ireland[^c-bc447fc404eab74438fdb051708a0d97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 38. Notification of requirement to pay a contributions equivalent premium: Northern Ireland[^key-bc447fc404eab74438fdb051708a0d97]
+### 38. Notification of requirement to pay a contributions equivalent premium: Northern Ireland[^c-bc447fc404eab74438fdb051708a0d97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 39. Cases where payment of a contributions equivalent premium is not required: Northern Ireland[^key-bc447fc404eab74438fdb051708a0d97]
+### 39. Cases where payment of a contributions equivalent premium is not required: Northern Ireland[^c-bc447fc404eab74438fdb051708a0d97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 40. Elections to pay contributions equivalent premiums: Northern Ireland[^key-bc447fc404eab74438fdb051708a0d97]
+### 40. Elections to pay contributions equivalent premiums: Northern Ireland[^c-bc447fc404eab74438fdb051708a0d97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 41. Payment of a contributions equivalent premium: Northern Ireland[^key-bc447fc404eab74438fdb051708a0d97]
+### 41. Payment of a contributions equivalent premium: Northern Ireland[^c-bc447fc404eab74438fdb051708a0d97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 42. Payment in lieu of benefit and delay in refund for the purposes of the employer’s right of recovery: Northern Ireland[^key-bc447fc404eab74438fdb051708a0d97]
+### 42. Payment in lieu of benefit and delay in refund for the purposes of the employer’s right of recovery: Northern Ireland[^c-bc447fc404eab74438fdb051708a0d97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 43. Refund of a contributions equivalent premium: Northern Ireland[^key-bc447fc404eab74438fdb051708a0d97]
+### 43. Refund of a contributions equivalent premium: Northern Ireland[^c-bc447fc404eab74438fdb051708a0d97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 44. Continuation of savings in respect of state scheme premiums: Northern Ireland[^key-bc447fc404eab74438fdb051708a0d97]
+### 44. Continuation of savings in respect of state scheme premiums: Northern Ireland[^c-bc447fc404eab74438fdb051708a0d97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 45. Revocations of the Occupational Pension Schemes (Contracting-Out) Regulations (Northern Ireland) 1996 taking effect on the second abolition date[^key-bc447fc404eab74438fdb051708a0d97]
+### 45. Revocations of the Occupational Pension Schemes (Contracting-Out) Regulations (Northern Ireland) 1996 taking effect on the second abolition date[^c-bc447fc404eab74438fdb051708a0d97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -341,11 +341,11 @@ An analysis of the impact of this legislation has been made as part of the analy
 
 [^f00001]: Footnote: [1993 c.48](https://www.legislation.gov.uk/ukpga/1993/48). Relevant amendments are made by paragraph 46 of Schedule 3 to, paragraph 80 of Schedule 5 to, and Part I of Schedule 7 to, the Pensions Act [1995 (c.26)](https://www.legislation.gov.uk/ukpga/1995/26).
 
-[^key-bc447fc404eab74438fdb051708a0d97]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2015/1452) revoked in part (31.10.2015) by [The Occupational Pension Schemes (Schemes that were Contracted-out) (No.2) Regulations 2015 (S.I. 2015/1677)](https://www.legislation.gov.uk/uksi/2015/1677), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/1677/regulation/1/2/a), [45](https://www.legislation.gov.uk/uksi/2015/1677/regulation/45)
+[^c-bc447fc404eab74438fdb051708a0d97]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2015/1452) revoked in part (31.10.2015) by [The Occupational Pension Schemes (Schemes that were Contracted-out) (No.2) Regulations 2015 (S.I. 2015/1677)](https://www.legislation.gov.uk/uksi/2015/1677), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/1677/regulation/1/2/a), [45](https://www.legislation.gov.uk/uksi/2015/1677/regulation/45)
 
-[^key-27e653540f79f4ba5659607fde705705]: Textual amendment: [Reg. 28](https://www.legislation.gov.uk/uksi/2015/1452/regulation/28) revoked (15.3.2016) by [The State Pension and Occupational Pension Schemes (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/199)](https://www.legislation.gov.uk/uksi/2016/199), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/199/regulation/1/2), [6(2)(a)](https://www.legislation.gov.uk/uksi/2016/199/regulation/6/2/a)
+[^c-27e653540f79f4ba5659607fde705705]: Textual amendment: [Reg. 28](https://www.legislation.gov.uk/uksi/2015/1452/regulation/28) revoked (15.3.2016) by [The State Pension and Occupational Pension Schemes (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/199)](https://www.legislation.gov.uk/uksi/2016/199), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/199/regulation/1/2), [6(2)(a)](https://www.legislation.gov.uk/uksi/2016/199/regulation/6/2/a)
 
-[^key-94bb98652293081b27690972283ca4b8]: Textual amendment: [Reg. 32](https://www.legislation.gov.uk/uksi/2015/1452/regulation/32) revoked in part (15.3.2016) by [The State Pension and Occupational Pension Schemes (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/199)](https://www.legislation.gov.uk/uksi/2016/199), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/199/regulation/1/2), [6(2)(b)](https://www.legislation.gov.uk/uksi/2016/199/regulation/6/2/b)
+[^c-94bb98652293081b27690972283ca4b8]: Textual amendment: [Reg. 32](https://www.legislation.gov.uk/uksi/2015/1452/regulation/32) revoked in part (15.3.2016) by [The State Pension and Occupational Pension Schemes (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/199)](https://www.legislation.gov.uk/uksi/2016/199), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/199/regulation/1/2), [6(2)(b)](https://www.legislation.gov.uk/uksi/2016/199/regulation/6/2/b)
 
 [^f00118]: Footnote: Section 7 was amended by section 136 of the 1995 Act, and sections 15(3)(a) and 27(2) of, and paragraphs 1 and 2 of Schedule 4 to, and Part 6 of Schedule 7 to, the Pensions Act 2007. Section 7 is repealed by paragraph 5 of Schedule 13 to the 2014 Act, but saved for certain purposes *see* [S.I. 2015/1502](https://www.legislation.gov.uk/uksi/2015/1502).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 197. Continuation of criminal trial on death or discharge of a juror[^key-2b5cc94b6b416fa6ca086bafcfe3a09f]
+## 197. Continuation of criminal trial on death or discharge of a juror[^c-2b5cc94b6b416fa6ca086bafcfe3a09f]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ In section 16 of the Juries Act 1974 (continuation of criminal trial on death or
 
 ## Annotations
 
-[^key-2b5cc94b6b416fa6ca086bafcfe3a09f]: Commencement: [S. 197](https://www.legislation.gov.uk/ukpga/2022/32/section/197) in force at 28.6.2022, see [s. 208(5)(x)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/x)
+[^c-2b5cc94b6b416fa6ca086bafcfe3a09f]: Commencement: [S. 197](https://www.legislation.gov.uk/ukpga/2022/32/section/197) in force at 28.6.2022, see [s. 208(5)(x)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/x)

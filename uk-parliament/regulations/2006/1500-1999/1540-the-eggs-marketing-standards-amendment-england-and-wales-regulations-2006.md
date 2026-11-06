@@ -32,7 +32,7 @@ summary: ''
 
 FOOD, ENGLAND AND WALES
 
-The Eggs (Marketing Standards) (Amendment) (England and Wales) Regulations 2006 (revoked)[^key-025f611505722b688d866a58ec4855d3]
+The Eggs (Marketing Standards) (Amendment) (England and Wales) Regulations 2006 (revoked)[^c-025f611505722b688d866a58ec4855d3]
 
 Made
 
@@ -46,38 +46,38 @@ Coming into force
 
 15th June 2006
 
-[^key-025f611505722b688d866a58ec4855d3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-025f611505722b688d866a58ec4855d3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and extent[^key-025f611505722b688d866a58ec4855d3]
+## 1. Title, commencement and extent[^c-025f611505722b688d866a58ec4855d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Eggs (Marketing Standards) Regulations 1995[^key-025f611505722b688d866a58ec4855d3]
+## 2. Amendments to the Eggs (Marketing Standards) Regulations 1995[^c-025f611505722b688d866a58ec4855d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. The National Assembly for Wales (Transfer of Functions) Order 1999[^key-025f611505722b688d866a58ec4855d3]
+## 3. The National Assembly for Wales (Transfer of Functions) Order 1999[^c-025f611505722b688d866a58ec4855d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-025f611505722b688d866a58ec4855d3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-025f611505722b688d866a58ec4855d3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-025f611505722b688d866a58ec4855d3]
+## SCHEDULE[^c-025f611505722b688d866a58ec4855d3]
 
 Regulation 2(3)
 
-[^key-025f611505722b688d866a58ec4855d3]
+[^c-025f611505722b688d866a58ec4855d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-025f611505722b688d866a58ec4855d3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-025f611505722b688d866a58ec4855d3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-025f611505722b688d866a58ec4855d3]: Textual amendment: Regulations revoked (22.8.2007) by [The Eggs and Chicks (England) Regulations 2007 (S.I. 2007/2245)](https://www.legislation.gov.uk/uksi/2007/2245), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2245/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2007/2245/schedule/1) (with [reg. 1(4)-(6)](https://www.legislation.gov.uk/uksi/2007/2245/regulation/1/4))
+[^c-025f611505722b688d866a58ec4855d3]: Textual amendment: Regulations revoked (22.8.2007) by [The Eggs and Chicks (England) Regulations 2007 (S.I. 2007/2245)](https://www.legislation.gov.uk/uksi/2007/2245), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2245/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2007/2245/schedule/1) (with [reg. 1(4)-(6)](https://www.legislation.gov.uk/uksi/2007/2245/regulation/1/4))

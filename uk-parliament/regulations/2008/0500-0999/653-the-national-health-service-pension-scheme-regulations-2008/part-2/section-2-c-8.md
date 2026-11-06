@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2.C.8. Member’s option to pay additional periodical contributions to purchase additional pension[^key-b4f0759521b119cc71f46c2213e8a2f4]
+## 2.C.8. Member’s option to pay additional periodical contributions to purchase additional pension[^c-b4f0759521b119cc71f46c2213e8a2f4]
 
 *Extent: E+W*
 
@@ -65,10 +65,10 @@ may not exceed £5000 or such other amount as the Secretary of State may for the
 - (c) is not less than 1 year nor more than 20 years, and
 - (d) does not end later than the member’s 65th birthday.
 
-(9)[^key-38ac61c7d599a9a7cfe72f5c7ec0b5a1] In the case of a 2008 Section Optant, this regulation is subject to regulation 2.K.4.
+(9)[^c-38ac61c7d599a9a7cfe72f5c7ec0b5a1] In the case of a 2008 Section Optant, this regulation is subject to regulation 2.K.4.
 
 ## Annotations
 
-[^key-b4f0759521b119cc71f46c2213e8a2f4]: Modification: [Regs. 2.C.8-2.C.15](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.C.8) continued (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/95)](https://www.legislation.gov.uk/uksi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/1/b), [23(2)(a)](https://www.legislation.gov.uk/uksi/2015/95/regulation/23/2/a)[(3)(b)(i)](https://www.legislation.gov.uk/uksi/2015/95/regulation/23/3/b/i)
+[^c-b4f0759521b119cc71f46c2213e8a2f4]: Modification: [Regs. 2.C.8-2.C.15](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.C.8) continued (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/95)](https://www.legislation.gov.uk/uksi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/1/b), [23(2)(a)](https://www.legislation.gov.uk/uksi/2015/95/regulation/23/2/a)[(3)(b)(i)](https://www.legislation.gov.uk/uksi/2015/95/regulation/23/3/b/i)
 
-[^key-38ac61c7d599a9a7cfe72f5c7ec0b5a1]: Textual amendment: [Reg. 2.C.8(9)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.C.8/9) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2009/2446/regulation/20)
+[^c-38ac61c7d599a9a7cfe72f5c7ec0b5a1]: Textual amendment: [Reg. 2.C.8(9)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.C.8/9) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2009/2446/regulation/20)

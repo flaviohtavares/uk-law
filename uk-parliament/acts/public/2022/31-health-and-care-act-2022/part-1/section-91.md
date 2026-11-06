@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91. Hospital patients with care and support needs: repeals etc[^key-e0ea19afeb6db0a67095e9ce94b4b942][^key-0322cc2d25f602d3c746cfd548389143]
+## 91. Hospital patients with care and support needs: repeals etc[^c-e0ea19afeb6db0a67095e9ce94b4b942][^c-0322cc2d25f602d3c746cfd548389143]
 
 *Extent: E+W*
 
@@ -65,6 +65,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e0ea19afeb6db0a67095e9ce94b4b942]: Commencement: S. 91 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-e0ea19afeb6db0a67095e9ce94b4b942]: Commencement: S. 91 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-0322cc2d25f602d3c746cfd548389143]: Commencement: [S. 91](https://www.legislation.gov.uk/ukpga/2022/31/section/91) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-0322cc2d25f602d3c746cfd548389143]: Commencement: [S. 91](https://www.legislation.gov.uk/ukpga/2022/31/section/91) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

@@ -164,13 +164,13 @@ Section 102.
 
 **7.** (1) In Schedule 7A to the Taxation of Chargeable Gains Act 1992 (restriction on set-off of pre-entry losses), paragraph 1 (application and construction of Schedule) is amended as follows.
 
-(2)[^key-eb9a8cd063ece4883ade8a040291ebca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-eb9a8cd063ece4883ade8a040291ebca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-eb9a8cd063ece4883ade8a040291ebca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-eb9a8cd063ece4883ade8a040291ebca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-eb9a8cd063ece4883ade8a040291ebca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-eb9a8cd063ece4883ade8a040291ebca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-eb9a8cd063ece4883ade8a040291ebca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-eb9a8cd063ece4883ade8a040291ebca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) The above amendments, and the main amendments so far as they apply for the purposes of Schedule 7A, have effect in relation to the amount to be included in respect of chargeable gains in a company’s total profits for any accounting period ending on or after 21st March 2000.
 
@@ -187,7 +187,7 @@ Schedule 7A to that Act shall not have effect in relation to any losses accruing
 
 #### Restrictions on setting losses against pre-entry gains
 
-**8.**[^key-3188d4075058df19b5fe9a3a5b7691e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-3188d4075058df19b5fe9a3a5b7691e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Recovery of unpaid tax
 
@@ -418,11 +418,11 @@ Schedule 7A to that Act shall not have effect in relation to any losses accruing
 
 #### Section 31A of the Taxation of Chargeable Gains Act 1992[^c14060131]
 
-**17.**[^key-6bbdeeb110101c7f4ec688cc4f1cef25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-6bbdeeb110101c7f4ec688cc4f1cef25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Section 106 of the Taxation of Chargeable Gains Act 1992
 
-**18.**[^key-f423ae2da2f8472dc31ff5e389cbdfde] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-f423ae2da2f8472dc31ff5e389cbdfde] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Section 116 of the Taxation of Chargeable Gains Act 1992
 
@@ -483,7 +483,7 @@ Schedule 7A to that Act shall not have effect in relation to any losses accruing
 
 #### Section 211 of the Taxation of Chargeable Gains Act 1992
 
-**30.**[^key-2bb42c49393ef7a6415b73d958d7dc63] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**30.**[^c-2bb42c49393ef7a6415b73d958d7dc63] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Section 216 of the Taxation of Chargeable Gains Act 1992
 
@@ -550,7 +550,7 @@ Schedule 7A to that Act shall not have effect in relation to any losses accruing
 
 #### Schedule 7B to the Taxation of Chargeable Gains Act 1992
 
-**39.**[^key-0be6a5df532989556ad0dd6099cc44c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**39.**[^c-0be6a5df532989556ad0dd6099cc44c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Schedule 7C to the Taxation of Chargeable Gains Act 1992
 
@@ -570,7 +570,7 @@ Schedule 7A to that Act shall not have effect in relation to any losses accruing
 
 #### Schedule 9 to the Finance Act 1996
 
-**44.**[^key-e83762c7014cc3edf9107b2d7077cf97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**44.**[^c-e83762c7014cc3edf9107b2d7077cf97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Schedule 15 to the Finance Act 1996
 
@@ -650,13 +650,13 @@ subsection (3)(b) of new section 170 shall not apply in relation to the company 
 
 [^c14060041]: Marginal citation: [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12).
 
-[^key-eb9a8cd063ece4883ade8a040291ebca]: Textual amendment: Sch. 29 para. 7(2)-(5) repealed (with effect in accordance with Sch. 11 paras. 11, 12 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 11 para. 10(c)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/11/paragraph/10/c)
+[^c-eb9a8cd063ece4883ade8a040291ebca]: Textual amendment: Sch. 29 para. 7(2)-(5) repealed (with effect in accordance with Sch. 11 paras. 11, 12 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 11 para. 10(c)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/11/paragraph/10/c)
 
 [^c14060051]: Marginal citation: [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12).
 
 [^c14060061]: Marginal citation: [1979 c. 14](https://www.legislation.gov.uk/ukpga/1979/14).
 
-[^key-3188d4075058df19b5fe9a3a5b7691e6]: Textual amendment: Sch. 29 para. 8 repealed (with effect in accordance with s. 70(6)-(11) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 3(9)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/3/9)
+[^c-3188d4075058df19b5fe9a3a5b7691e6]: Textual amendment: Sch. 29 para. 8 repealed (with effect in accordance with s. 70(6)-(11) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 3(9)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/3/9)
 
 [^c14060071]: Marginal citation: [1988 c. 36](https://www.legislation.gov.uk/ukpga/1988/36).
 
@@ -672,9 +672,9 @@ subsection (3)(b) of new section 170 shall not apply in relation to the company 
 
 [^c14060131]: Marginal citation: [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12).
 
-[^key-6bbdeeb110101c7f4ec688cc4f1cef25]: Textual amendment: [Sch. 29 para. 17](https://www.legislation.gov.uk/ukpga/2000/17/schedule/29/paragraph/17) repealed (with effect in accordance with Sch. 9 para. 6 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 9 para. 5(c)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/9/paragraph/5/c)
+[^c-6bbdeeb110101c7f4ec688cc4f1cef25]: Textual amendment: [Sch. 29 para. 17](https://www.legislation.gov.uk/ukpga/2000/17/schedule/29/paragraph/17) repealed (with effect in accordance with Sch. 9 para. 6 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 9 para. 5(c)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/9/paragraph/5/c)
 
-[^key-f423ae2da2f8472dc31ff5e389cbdfde]: Textual amendment: Sch. 29 para. 18 repealed (with effect in accordance with s. 72 of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 3(9)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/3/9)
+[^c-f423ae2da2f8472dc31ff5e389cbdfde]: Textual amendment: Sch. 29 para. 18 repealed (with effect in accordance with s. 72 of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 3(9)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/3/9)
 
 [^c14060141]: Marginal citation: [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12).
 
@@ -684,13 +684,13 @@ subsection (3)(b) of new section 170 shall not apply in relation to the company 
 
 [^c14060181]: Marginal citation: [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12).
 
-[^key-2bb42c49393ef7a6415b73d958d7dc63]: Textual amendment: [Sch. 29 para. 30](https://www.legislation.gov.uk/ukpga/2000/17/schedule/29/paragraph/30) repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 2(9)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/9)
+[^c-2bb42c49393ef7a6415b73d958d7dc63]: Textual amendment: [Sch. 29 para. 30](https://www.legislation.gov.uk/ukpga/2000/17/schedule/29/paragraph/30) repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 2(9)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/9)
 
 [^c14060191]: Marginal citation: [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12).
 
 [^c14060201]: Marginal citation: [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12).
 
-[^key-0be6a5df532989556ad0dd6099cc44c1]: Textual amendment: Sch. 29 para. 39 repealed (with effect in relation to periods of account (whenever beginning) which end on or after 31.12.2006) by [The Overseas Life Insurance Companies Regulations 2006 (S.I. 2006/3271)](https://www.legislation.gov.uk/uksi/2006/3271), [reg. 1](https://www.legislation.gov.uk/uksi/2006/3271/regulation/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2006/3271/schedule/part/1)
+[^c-0be6a5df532989556ad0dd6099cc44c1]: Textual amendment: Sch. 29 para. 39 repealed (with effect in relation to periods of account (whenever beginning) which end on or after 31.12.2006) by [The Overseas Life Insurance Companies Regulations 2006 (S.I. 2006/3271)](https://www.legislation.gov.uk/uksi/2006/3271), [reg. 1](https://www.legislation.gov.uk/uksi/2006/3271/regulation/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2006/3271/schedule/part/1)
 
 [^c14060231]: Textual amendment: [Sch. 29 paras. 41-43](https://www.legislation.gov.uk/ukpga/2000/17/schedule/29/paragraph/41) repealed (with effect as mentioned in Sch. 40 Pt. 3(10) Note 2 of the repealing Act) by [2002 c. 23](https://www.legislation.gov.uk/ukpga/2002/23), [s. 141](https://www.legislation.gov.uk/ukpga/2002/23/section/141), [Sch. 40 Pt. 3(10)](https://www.legislation.gov.uk/ukpga/2002/23/schedule/40/part/3/10) Note 2
 
@@ -698,7 +698,7 @@ subsection (3)(b) of new section 170 shall not apply in relation to the company 
 
 [^c14060251]: Textual amendment: [Sch. 29 paras. 41-43](https://www.legislation.gov.uk/ukpga/2000/17/schedule/29/paragraph/41) repealed (24.7.2002 with effect as mentioned in Sch. 40 Pt. 3(10) Note 2 of the repealing Act) by [2002 c. 23](https://www.legislation.gov.uk/ukpga/2002/23), [s. 41](https://www.legislation.gov.uk/ukpga/2002/23/section/41), [Sch. 40](https://www.legislation.gov.uk/ukpga/2002/23/schedule/40), [Pt. 3(10)](https://www.legislation.gov.uk/ukpga/2002/23/part/3/10) Note 2
 
-[^key-e83762c7014cc3edf9107b2d7077cf97]: Textual amendment: [Sch. 29 para. 44](https://www.legislation.gov.uk/ukpga/2000/17/schedule/29/paragraph/44) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-e83762c7014cc3edf9107b2d7077cf97]: Textual amendment: [Sch. 29 para. 44](https://www.legislation.gov.uk/ukpga/2000/17/schedule/29/paragraph/44) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
 [^c14060281]: Marginal citation: [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12).
 

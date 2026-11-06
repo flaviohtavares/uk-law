@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 12. Dose limitation[^key-a2e58521d843d41378f4c0228036ebd3][^key-77f7a94e65a80723ffcdc6e4870be6ee]
+## 12. Dose limitation[^c-a2e58521d843d41378f4c0228036ebd3][^c-77f7a94e65a80723ffcdc6e4870be6ee]
 
 *Extent: E+W+S*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a2e58521d843d41378f4c0228036ebd3]: Modification: Reg. 12 excluded by S.I. 2009/1348, Sch. 2 para. 8 (as substituted (21.4.2019) by [The Carriage of Dangerous Goods (Amendment) Regulations 2019 (S.I. 2019/598)](https://www.legislation.gov.uk/uksi/2019/598), [reg. 1](https://www.legislation.gov.uk/uksi/2019/598/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2019/598/schedule))
+[^c-a2e58521d843d41378f4c0228036ebd3]: Modification: Reg. 12 excluded by S.I. 2009/1348, Sch. 2 para. 8 (as substituted (21.4.2019) by [The Carriage of Dangerous Goods (Amendment) Regulations 2019 (S.I. 2019/598)](https://www.legislation.gov.uk/uksi/2019/598), [reg. 1](https://www.legislation.gov.uk/uksi/2019/598/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2019/598/schedule))
 
-[^key-77f7a94e65a80723ffcdc6e4870be6ee]: Modification: Reg. 12 excluded (22.5.2019) by [The Radiation (Emergency Preparedness and Public Information) Regulations 2019 (S.I. 2019/703)](https://www.legislation.gov.uk/uksi/2019/703), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1), [19](https://www.legislation.gov.uk/uksi/2019/703/regulation/19) (with [reg. 3](https://www.legislation.gov.uk/uksi/2019/703/regulation/3))
+[^c-77f7a94e65a80723ffcdc6e4870be6ee]: Modification: Reg. 12 excluded (22.5.2019) by [The Radiation (Emergency Preparedness and Public Information) Regulations 2019 (S.I. 2019/703)](https://www.legislation.gov.uk/uksi/2019/703), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1), [19](https://www.legislation.gov.uk/uksi/2019/703/regulation/19) (with [reg. 3](https://www.legislation.gov.uk/uksi/2019/703/regulation/3))

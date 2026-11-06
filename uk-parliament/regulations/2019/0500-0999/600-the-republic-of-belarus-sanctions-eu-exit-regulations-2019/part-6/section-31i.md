@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31I. Ships: exceptions relating to port entry in emergencies[^key-570281f4974b95f3347c4ee6f8472e90]
+## 31I. Ships: exceptions relating to port entry in emergencies[^c-570281f4974b95f3347c4ee6f8472e90]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-570281f4974b95f3347c4ee6f8472e90]: Textual amendment: [Regs. 31D-31I](https://www.legislation.gov.uk/uksi/2019/600/regulation/31D) inserted (5.7.2022) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2022 (S.I. 2022/748)](https://www.legislation.gov.uk/uksi/2022/748), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/748/regulation/1/2), [34](https://www.legislation.gov.uk/uksi/2022/748/regulation/34)
+[^c-570281f4974b95f3347c4ee6f8472e90]: Textual amendment: [Regs. 31D-31I](https://www.legislation.gov.uk/uksi/2019/600/regulation/31D) inserted (5.7.2022) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2022 (S.I. 2022/748)](https://www.legislation.gov.uk/uksi/2022/748), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/748/regulation/1/2), [34](https://www.legislation.gov.uk/uksi/2022/748/regulation/34)

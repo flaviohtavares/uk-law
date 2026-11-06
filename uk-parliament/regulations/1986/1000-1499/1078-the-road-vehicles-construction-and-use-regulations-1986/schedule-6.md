@@ -24,11 +24,11 @@ summary: ''
 
 The requirements referred to in regulation 41 are as follows—
 
-### 1. Exhaust pipes[^key-44ed80c7ad4ec29c8a1f2e406bfc72c8]
+### 1. Exhaust pipes[^c-44ed80c7ad4ec29c8a1f2e406bfc72c8]
 
 The outlet of every exhaust pipe fitted to a minibus shall be either at the rear or on the off side of the vehicle.
 
-### 2. Doors—number and position[^key-fa4c193fe3eed8c17c88f323a3686ab3]
+### 2. Doors—number and position[^c-fa4c193fe3eed8c17c88f323a3686ab3]
 
 (1) Every minibus shall be fitted with at least—
 
@@ -37,7 +37,7 @@ The outlet of every exhaust pipe fitted to a minibus shall be either at the rear
 
 (2) No minibus shall be fitted with any door on its off side other than a driver's door and an emergency door.
 
-### 3. Emergency Doors[^key-b11fe6518b0a2c7e90902d31c32adec6]
+### 3. Emergency Doors[^c-b11fe6518b0a2c7e90902d31c32adec6]
 
 Every emergency door fitted to a minibus, whether or not required pursuant to these Regulations, shall—
 
@@ -46,7 +46,7 @@ Every emergency door fitted to a minibus, whether or not required pursuant to th
 - (c) be capable of being operated manually; and
 - (d) when fully opened, give an aperture in the body of the vehicle not less than 1210 mm high nor less than 530 mm wide.
 
-### 4. Power-operated doors[^key-2e31b081d58e95ab206fea55c8409164]
+### 4. Power-operated doors[^c-2e31b081d58e95ab206fea55c8409164]
 
 (1) Every power-operated door fitted to a minibus shall—
 
@@ -63,7 +63,7 @@ Every emergency door fitted to a minibus, whether or not required pursuant to th
 
 (2) No minibus shall be equipped with a system for the storage or transmission of energy in respect of the opening or closing of any door which, either in normal operation or if the system fails, is capable of adversely affecting the operation of the vehicle's braking system.
 
-### 5. Locks, handles and hinges of doors[^key-9320b62af02e4e23d20a0ac30bb95769]
+### 5. Locks, handles and hinges of doors[^c-9320b62af02e4e23d20a0ac30bb95769]
 
 No minibus shall be fitted with—
 
@@ -78,13 +78,13 @@ No minibus shall be fitted with—
 
 Provided that the provisions of sub-paragraphs *(a), (c), (d)* and *(f)* of this paragraph shall not apply in respect of a near side rear door forming part of a pair of doors fitted at the rear of a vehicle if that door is capable of being held securely closed by the other door of that pair.
 
-### 6. View of doors[^key-870bf03c487ff4f8a534a718bed8aadf]
+### 6. View of doors[^c-870bf03c487ff4f8a534a718bed8aadf]
 
 (1) Save as provided in sub-paragraph (2), every minibus shall be fitted with mirrors or other means so that the driver, when occupying the driver's seat, can see clearly the area immediately inside and outside every service door of the vehicle.
 
 (2) The provisions of sub-paragraph (1) shall be deemed to be satisfied in respect of a rear service door if a person 1.3 metres tall standing 1 metre behind the vehicle is visible to the driver when occupying the driver's seat.
 
-### 7. Access to doors[^key-09301606236785a561733e0cda6b1716]
+### 7. Access to doors[^c-09301606236785a561733e0cda6b1716]
 
 (1) Save as provided in sub-paragraph (2), there shall be unobstructed access from every passenger seat in a minibus to at least two doors one of which must be on the nearside of the vehicle and one of which must be either at the rear or on the offside of the vehicle.
 
@@ -95,11 +95,11 @@ Provided that the provisions of sub-paragraphs *(a), (c), (d)* and *(f)* of this
   - (i) does not obstruct the handle or other device on the inside for opening the door with which the platform or ramp is associated, and
   - (ii) when the door is open, can be pushed or pulled out of the way from the inside so as to leave the doorway clear for use in an emergency.
 
-### 8. Grab handles and hand rails[^key-1c2fee6a0fc9d7fcd80a42a3a2a0a030]
+### 8. Grab handles and hand rails[^c-1c2fee6a0fc9d7fcd80a42a3a2a0a030]
 
 Every minibus shall be fitted as respects every side service door with a grab handle or a hand rail to assist passengers to get on or off the vehicle.
 
-### 9. Seats[^key-6c2bee4da8d1da8a77d37635cefc87f7]
+### 9. Seats[^c-6c2bee4da8d1da8a77d37635cefc87f7]
 
 (1) No seat shall be fitted to any door of a minibus.
 
@@ -114,7 +114,7 @@ Every minibus shall be fitted as respects every side service door with a grab ha
 - (a) facing either side of the vehicle and immediately forward of a rear door unless the seat is fitted with an arm-rest or similar device to guard against a passenger on that seat falling through the doorway; or
 - (b) so placed that a passenger on it would, without protection, be liable to be thrown through any doorway which is provided with a power-operated door or down any steps, unless the vehicle is fitted with a screen or guard which affords adequate protection against that occurrence.
 
-### 10. Electrical equipment and wiring[^key-337b5fc0f5426dc8f87f0eb02f14d84d]
+### 10. Electrical equipment and wiring[^c-337b5fc0f5426dc8f87f0eb02f14d84d]
 
 (1) Save as provided in sub-paragraph (2) no minibus shall be fitted with any—
 
@@ -134,19 +134,19 @@ Every minibus shall be fitted as respects every side service door with a grab ha
 
 (2) The provisions of sub-paragraph (1) do not apply in respect of a high tension ignition circuit or a circuit within a unit of equipment.
 
-### 11. Fuel tanks[^key-31104fad79f89ced5027e2b78e146f24]
+### 11. Fuel tanks[^c-31104fad79f89ced5027e2b78e146f24]
 
 No minibus shall be fitted with a fuel tank or any apparatus for the supply of fuel which is in the compartments or other spaces provided for the accommodation of the driver or passengers.
 
-### 12. Lighting of steps[^key-b795de0f7a59f691126e957bf91d1065]
+### 12. Lighting of steps[^c-b795de0f7a59f691126e957bf91d1065]
 
 Every minibus shall be provided with lamps to illuminate every step at a passenger exit or in a gangway.
 
-### 13. General construction and maintenance[^key-87664b2f01e0987e149e668649c7393b]
+### 13. General construction and maintenance[^c-87664b2f01e0987e149e668649c7393b]
 
 Every minibus, including all bodywork and fittings, shall be soundly and properly constructed of suitable materials and maintained in good and serviceable condition, and shall be of such design as to be capable of withstanding the loads and stresses likely to be met in the normal operation of the vehicle.
 
-### 14. Definitions[^key-e46bf8bc2e08643a8cd0eee7e0b16791]
+### 14. Definitions[^c-e46bf8bc2e08643a8cd0eee7e0b16791]
 
 In this Schedule—
 
@@ -156,30 +156,30 @@ In this Schedule—
 
 ## Annotations
 
-[^key-44ed80c7ad4ec29c8a1f2e406bfc72c8]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/uksi/1986/1078/schedule/6/paragraph/1) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-44ed80c7ad4ec29c8a1f2e406bfc72c8]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/uksi/1986/1078/schedule/6/paragraph/1) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
 
-[^key-fa4c193fe3eed8c17c88f323a3686ab3]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/uksi/1986/1078/schedule/6/paragraph/2) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-fa4c193fe3eed8c17c88f323a3686ab3]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/uksi/1986/1078/schedule/6/paragraph/2) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
 
-[^key-b11fe6518b0a2c7e90902d31c32adec6]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/uksi/1986/1078/schedule/6/paragraph/3) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-b11fe6518b0a2c7e90902d31c32adec6]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/uksi/1986/1078/schedule/6/paragraph/3) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
 
-[^key-2e31b081d58e95ab206fea55c8409164]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/uksi/1986/1078/schedule/6/paragraph/4) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-2e31b081d58e95ab206fea55c8409164]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/uksi/1986/1078/schedule/6/paragraph/4) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
 
-[^key-9320b62af02e4e23d20a0ac30bb95769]: Commencement: [Sch. 6 para. 5](https://www.legislation.gov.uk/uksi/1986/1078/schedule/6/paragraph/5) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-9320b62af02e4e23d20a0ac30bb95769]: Commencement: [Sch. 6 para. 5](https://www.legislation.gov.uk/uksi/1986/1078/schedule/6/paragraph/5) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
 
-[^key-870bf03c487ff4f8a534a718bed8aadf]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/uksi/1986/1078/schedule/6/paragraph/6) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-870bf03c487ff4f8a534a718bed8aadf]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/uksi/1986/1078/schedule/6/paragraph/6) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
 
-[^key-09301606236785a561733e0cda6b1716]: Commencement: [Sch. 6 para. 7](https://www.legislation.gov.uk/uksi/1986/1078/schedule/6/paragraph/7) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-09301606236785a561733e0cda6b1716]: Commencement: [Sch. 6 para. 7](https://www.legislation.gov.uk/uksi/1986/1078/schedule/6/paragraph/7) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
 
-[^key-1c2fee6a0fc9d7fcd80a42a3a2a0a030]: Commencement: [Sch. 6 para. 8](https://www.legislation.gov.uk/uksi/1986/1078/schedule/6/paragraph/8) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-1c2fee6a0fc9d7fcd80a42a3a2a0a030]: Commencement: [Sch. 6 para. 8](https://www.legislation.gov.uk/uksi/1986/1078/schedule/6/paragraph/8) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
 
-[^key-6c2bee4da8d1da8a77d37635cefc87f7]: Commencement: [Sch. 6 para. 9](https://www.legislation.gov.uk/uksi/1986/1078/schedule/6/paragraph/9) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-6c2bee4da8d1da8a77d37635cefc87f7]: Commencement: [Sch. 6 para. 9](https://www.legislation.gov.uk/uksi/1986/1078/schedule/6/paragraph/9) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
 
-[^key-337b5fc0f5426dc8f87f0eb02f14d84d]: Commencement: [Sch. 6 para. 10](https://www.legislation.gov.uk/uksi/1986/1078/schedule/6/paragraph/10) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-337b5fc0f5426dc8f87f0eb02f14d84d]: Commencement: [Sch. 6 para. 10](https://www.legislation.gov.uk/uksi/1986/1078/schedule/6/paragraph/10) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
 
-[^key-31104fad79f89ced5027e2b78e146f24]: Commencement: [Sch. 6 para. 11](https://www.legislation.gov.uk/uksi/1986/1078/schedule/6/paragraph/11) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-31104fad79f89ced5027e2b78e146f24]: Commencement: [Sch. 6 para. 11](https://www.legislation.gov.uk/uksi/1986/1078/schedule/6/paragraph/11) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
 
-[^key-b795de0f7a59f691126e957bf91d1065]: Commencement: [Sch. 6 para. 12](https://www.legislation.gov.uk/uksi/1986/1078/schedule/6/paragraph/12) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-b795de0f7a59f691126e957bf91d1065]: Commencement: [Sch. 6 para. 12](https://www.legislation.gov.uk/uksi/1986/1078/schedule/6/paragraph/12) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
 
-[^key-87664b2f01e0987e149e668649c7393b]: Commencement: [Sch. 6 para. 13](https://www.legislation.gov.uk/uksi/1986/1078/schedule/6/paragraph/13) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-87664b2f01e0987e149e668649c7393b]: Commencement: [Sch. 6 para. 13](https://www.legislation.gov.uk/uksi/1986/1078/schedule/6/paragraph/13) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
 
-[^key-e46bf8bc2e08643a8cd0eee7e0b16791]: Commencement: [Sch. 6 para. 14](https://www.legislation.gov.uk/uksi/1986/1078/schedule/6/paragraph/14) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-e46bf8bc2e08643a8cd0eee7e0b16791]: Commencement: [Sch. 6 para. 14](https://www.legislation.gov.uk/uksi/1986/1078/schedule/6/paragraph/14) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)

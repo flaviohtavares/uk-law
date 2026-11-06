@@ -69,19 +69,19 @@ The Social Security Advisory Committee has agreed that proposals in respect of t
 
 ## PART 2 — Application fee
 
-### 2. Interpretation of this Part[^key-3925a7248a8bbfcadfb43f6c9e47831c]
+### 2. Interpretation of this Part[^c-3925a7248a8bbfcadfb43f6c9e47831c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. The application fee[^key-3925a7248a8bbfcadfb43f6c9e47831c]
+### 3. The application fee[^c-3925a7248a8bbfcadfb43f6c9e47831c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Waiver of the application fee[^key-3925a7248a8bbfcadfb43f6c9e47831c]
+### 4. Waiver of the application fee[^c-3925a7248a8bbfcadfb43f6c9e47831c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Repayment of the application fee[^key-3925a7248a8bbfcadfb43f6c9e47831c]
+### 5. Repayment of the application fee[^c-3925a7248a8bbfcadfb43f6c9e47831c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -119,7 +119,7 @@ in relation to a case where there are arrangements for collection.
 
 (5) Where a calculation carried out under this regulation results in a fraction of a penny, that is to be treated as a penny if it is either one half or exceeds one half, and otherwise it is to be disregarded.
 
-(6) For the purposes of this regulation, there are arrangements for collection where the Secretary of State is making arrangements to collect child support maintenance under section 29(1) (collection of child support maintenance) of the 1991 Act [^c2205228] and specifies that payments shall be made to, or through, the Secretary of State in accordance with regulation 2(1)(b) of the Child Support (Collection and Enforcement) Regulations 1992.[^key-1afc52948be864bca4c2bf290bb010ef]
+(6) For the purposes of this regulation, there are arrangements for collection where the Secretary of State is making arrangements to collect child support maintenance under section 29(1) (collection of child support maintenance) of the 1991 Act [^c2205228] and specifies that payments shall be made to, or through, the Secretary of State in accordance with regulation 2(1)(b) of the Child Support (Collection and Enforcement) Regulations 1992.[^c-1afc52948be864bca4c2bf290bb010ef]
 
 ### 8. Recovery of the collection fee
 
@@ -144,7 +144,7 @@ For the purposes of this Part—
 
 ### 10. The enforcement fee
 
-(...)[^key-75940692ca0c633a54f792e1e52e5689] An enforcement fee of an amount set out in column (2) of the table below is payable to the Secretary of State by a non-resident parent when the Secretary of State takes a method of enforcement action specified in column (1) of the table below to secure payment of child support maintenance.
+(...)[^c-75940692ca0c633a54f792e1e52e5689] An enforcement fee of an amount set out in column (2) of the table below is payable to the Secretary of State by a non-resident parent when the Secretary of State takes a method of enforcement action specified in column (1) of the table below to secure payment of child support maintenance.
 
 | *Column (1)* | *Column (2)* |
 | --- | --- |
@@ -154,7 +154,7 @@ For the purposes of this Part—
 | (iii) Making a lump sum deduction order | £200 |
 | (iv) Making an application for a liability order | £300 |
 
-[^key-75940692ca0c633a54f792e1e52e5689]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-75940692ca0c633a54f792e1e52e5689]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 11. Recovery of an enforcement fee
 
@@ -162,9 +162,9 @@ An enforcement fee payable by a non-resident parent under regulation 10 (the enf
 
 ### 12. Waiver of an enforcement fee
 
-(1) An enforcement fee payable under regulation 10[^key-50f37922ad1f90f8b3cfaf906b7a5e96]... may be waived in the circumstances specified in paragraphs (2) to (6).
+(1) An enforcement fee payable under regulation 10[^c-50f37922ad1f90f8b3cfaf906b7a5e96]... may be waived in the circumstances specified in paragraphs (2) to (6).
 
-(1A)[^key-50f37922ad1f90f8b3cfaf906b7a5e96] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1A)[^c-50f37922ad1f90f8b3cfaf906b7a5e96] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) The circumstances specified in this paragraph are where an additional enforcement fee is payable with respect to concurrent or subsequent action of the same type taken by the Secretary of State in circumstances where—
 
@@ -185,13 +185,13 @@ An enforcement fee payable by a non-resident parent under regulation 10 (the enf
 
 (5) The circumstances specified in this paragraph are where a non-resident parent elects to pay child support maintenance by way of a deduction from earnings order.
 
-(6) The circumstances specified in this paragraph are where a deduction from earnings request is made[^key-50f37922ad1f90f8b3cfaf906b7a5e96]..., when the non-resident parent to which it relates is committed to operations.
+(6) The circumstances specified in this paragraph are where a deduction from earnings request is made[^c-50f37922ad1f90f8b3cfaf906b7a5e96]..., when the non-resident parent to which it relates is committed to operations.
 
-## PART 4A — Segment 5 cases[^key-3d82ea181b7822a7f21c3ab6a8165038]
+## PART 4A — Segment 5 cases[^c-3d82ea181b7822a7f21c3ab6a8165038]
 
 **No longer in force.**
 
-### 12A. Waiver of a collection fee and an enforcement fee in certain segment 5 cases[^key-3d82ea181b7822a7f21c3ab6a8165038]
+### 12A. Waiver of a collection fee and an enforcement fee in certain segment 5 cases[^c-3d82ea181b7822a7f21c3ab6a8165038]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -209,7 +209,7 @@ shall apply equally to the collection and enforcement of fees payable by virtue 
 (2) The following provisions of the 1991 Act do not apply where those provisions would be used solely to enforce payment of a fee payable by virtue of one or both of Parts 3 and 4—
 
 - (a) section 39A (commitment to prison and disqualification from driving) [^c2205232];
-- (aa)[^key-3f0d0413bbec5acc36772e0366c4af60] section 39B(disqualification for holding or obtaining travel authorisation);
+- (aa)[^c-3f0d0413bbec5acc36772e0366c4af60] section 39B(disqualification for holding or obtaining travel authorisation);
 - (ab) section 39G (application of sections 39B and 39F to Scotland);
 - (b) section 40 (commitment to prison) [^c2205233];
 - (c) section 40A (commitment to prison: Scotland) [^c2205234]; and
@@ -329,13 +329,13 @@ An assessment of the impact of these Regulations on the costs of business and th
 
 [^c2205222]: Marginal citation: [2012 c. 5](https://www.legislation.gov.uk/ukpga/2012/5).
 
-[^key-3925a7248a8bbfcadfb43f6c9e47831c]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/uksi/2014/612/part/2) omitted (26.2.2024) by virtue of [The Child Support (Management of Payments and Arrears and Fees) (Amendment) Regulations 2024 (S.I. 2024/87)](https://www.legislation.gov.uk/uksi/2024/87), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/87/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2024/87/regulation/7)
+[^c-3925a7248a8bbfcadfb43f6c9e47831c]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/uksi/2014/612/part/2) omitted (26.2.2024) by virtue of [The Child Support (Management of Payments and Arrears and Fees) (Amendment) Regulations 2024 (S.I. 2024/87)](https://www.legislation.gov.uk/uksi/2024/87), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/87/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2024/87/regulation/7)
 
 [^c2205227]: Marginal citation: Part 1 of Schedule 1 to the 1991 Act was substituted by section 1(3) of, and Schedule 1 to, the 2000 Act and amended by Schedule 4 to the 2008 Act.
 
 [^c2205228]: Marginal citation: Section 29(1) of the 1991 Act was amended by s.1(2)(a) of the 2000 Act and Schedule 8 to the 2008 Act.
 
-[^key-1afc52948be864bca4c2bf290bb010ef]: Textual amendment: Words in [reg. 7(6)](https://www.legislation.gov.uk/uksi/2014/612/regulation/7/6) substituted (4.7.2019) by [The Child Support (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1084)](https://www.legislation.gov.uk/uksi/2019/1084), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1084/regulation/1/3), [15](https://www.legislation.gov.uk/uksi/2019/1084/regulation/15)
+[^c-1afc52948be864bca4c2bf290bb010ef]: Textual amendment: Words in [reg. 7(6)](https://www.legislation.gov.uk/uksi/2014/612/regulation/7/6) substituted (4.7.2019) by [The Child Support (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1084)](https://www.legislation.gov.uk/uksi/2019/1084), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1084/regulation/1/3), [15](https://www.legislation.gov.uk/uksi/2019/1084/regulation/15)
 
 [^c2205229]: Marginal citation: Section 31(2) of the 1991 Act was amended by section 1(2) of the 2000 Act.
 
@@ -343,15 +343,15 @@ An assessment of the impact of these Regulations on the costs of business and th
 
 [^c2205231]: Marginal citation: Section 32A(1) of the 1991 Act was inserted by section 22 of the 2008 Act.
 
-[^key-75940692ca0c633a54f792e1e52e5689]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/2014/612/regulation/10) amendments by S.I. 2016/439, reg. 3(2) ceases to have effect (22.5.2021) by virtue of [The Child Support (Deduction Orders and Fees) (Amendment and Modification) Regulations 2016 (S.I. 2016/439)](https://www.legislation.gov.uk/uksi/2016/439), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/439/regulation/1/2)
+[^c-75940692ca0c633a54f792e1e52e5689]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/2014/612/regulation/10) amendments by S.I. 2016/439, reg. 3(2) ceases to have effect (22.5.2021) by virtue of [The Child Support (Deduction Orders and Fees) (Amendment and Modification) Regulations 2016 (S.I. 2016/439)](https://www.legislation.gov.uk/uksi/2016/439), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/439/regulation/1/2)
 
-[^key-50f37922ad1f90f8b3cfaf906b7a5e96]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/uksi/2014/612/regulation/12) amendments by S.I. 2016/439, reg. 3(3) cease to have effect (22.5.2021) by virtue of [The Child Support (Deduction Orders and Fees) (Amendment and Modification) Regulations 2016 (S.I. 2016/439)](https://www.legislation.gov.uk/uksi/2016/439), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/439/regulation/1/2)
+[^c-50f37922ad1f90f8b3cfaf906b7a5e96]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/uksi/2014/612/regulation/12) amendments by S.I. 2016/439, reg. 3(3) cease to have effect (22.5.2021) by virtue of [The Child Support (Deduction Orders and Fees) (Amendment and Modification) Regulations 2016 (S.I. 2016/439)](https://www.legislation.gov.uk/uksi/2016/439), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/439/regulation/1/2)
 
-[^key-3d82ea181b7822a7f21c3ab6a8165038]: Textual amendment: [Pt. 4A](https://www.legislation.gov.uk/uksi/2014/612/part/4A) revoked by virtue of (22.5.2021) by [The Child Support (Deduction Orders and Fees) (Amendment and Modification) Regulations 2016 (S.I. 2016/439)](https://www.legislation.gov.uk/uksi/2016/439), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/439/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2016/439/regulation/3/4)
+[^c-3d82ea181b7822a7f21c3ab6a8165038]: Textual amendment: [Pt. 4A](https://www.legislation.gov.uk/uksi/2014/612/part/4A) revoked by virtue of (22.5.2021) by [The Child Support (Deduction Orders and Fees) (Amendment and Modification) Regulations 2016 (S.I. 2016/439)](https://www.legislation.gov.uk/uksi/2016/439), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/439/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2016/439/regulation/3/4)
 
 [^c2205232]: Marginal citation: Section 39A of the [Child Support Act 1991 (c. 48)](https://www.legislation.gov.uk/ukpga/1991/48) was inserted by section 16 of the [Child Support, Pensions and Social Security Act 2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19) (“**the 2000 Act**”).
 
-[^key-3f0d0413bbec5acc36772e0366c4af60]: Textual amendment: [Reg. 13(2)(aa)-(ab)](https://www.legislation.gov.uk/uksi/2014/612/regulation/13/2/aa) inserted (13.12.2018) by [The Child Support (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1279)](https://www.legislation.gov.uk/uksi/2018/1279), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/6/2)
+[^c-3f0d0413bbec5acc36772e0366c4af60]: Textual amendment: [Reg. 13(2)(aa)-(ab)](https://www.legislation.gov.uk/uksi/2014/612/regulation/13/2/aa) inserted (13.12.2018) by [The Child Support (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1279)](https://www.legislation.gov.uk/uksi/2018/1279), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/6/2)
 
 [^c2205233]: Marginal citation: Section 40 of the 1991 Act was amended by sections 16(2), 17(1) and 85 of, and Part 1 of Schedule 9 to, the 2000 Act.
 

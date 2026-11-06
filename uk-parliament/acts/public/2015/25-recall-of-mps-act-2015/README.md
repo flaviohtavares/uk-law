@@ -34,7 +34,7 @@ An Act to make provision about the recall of members of the House of Commons; an
 
 \[26th March 2015\][^M_C_bf80ec56-cb60-4d5e-aeda-98b0d1b7e976]
 
-Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-b6ea195d15c637be6f8573c675850f48]
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-b6ea195d15c637be6f8573c675850f48]
 
 ## Contents
 
@@ -94,4 +94,4 @@ SCHEDULES
 
 [^M_C_bf80ec56-cb60-4d5e-aeda-98b0d1b7e976]: Modification: Act: transfer of functions (22.6.2015) by [The Chancellor of the Duchy of Lancaster Order 2015 (S.I. 2015/1376)](https://www.legislation.gov.uk/uksi/2015/1376), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1376/article/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2015/1376/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2015/1376/schedule/1) (with [art. 9](https://www.legislation.gov.uk/uksi/2015/1376/article/9))
 
-[^key-b6ea195d15c637be6f8573c675850f48]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2015/25) functions transferred (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2016/997/article/3/1), [Sch. 1(v)](https://www.legislation.gov.uk/uksi/2016/997/schedule/1/v) (with [arts. 3(2)](https://www.legislation.gov.uk/uksi/2016/997/article/3/2), [6](https://www.legislation.gov.uk/uksi/2016/997/article/6), [12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-b6ea195d15c637be6f8573c675850f48]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2015/25) functions transferred (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2016/997/article/3/1), [Sch. 1(v)](https://www.legislation.gov.uk/uksi/2016/997/schedule/1/v) (with [arts. 3(2)](https://www.legislation.gov.uk/uksi/2016/997/article/3/2), [6](https://www.legislation.gov.uk/uksi/2016/997/article/6), [12](https://www.legislation.gov.uk/uksi/2016/997/article/12))

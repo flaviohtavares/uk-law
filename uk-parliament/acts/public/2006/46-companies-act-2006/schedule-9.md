@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 9 — Removal of special provisions about accounts and audit of charitable companies[^key-1a1a78754974611e08e2e057c208cd0f]
+## SCHEDULE 9 — Removal of special provisions about accounts and audit of charitable companies[^c-1a1a78754974611e08e2e057c208cd0f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,42 +24,42 @@ summary: ''
 
 Section 1175
 
-### Part 1 — The Companies Act 1985 (c. 6)[^key-1a1a78754974611e08e2e057c208cd0f]
+### Part 1 — The Companies Act 1985 (c. 6)[^c-1a1a78754974611e08e2e057c208cd0f]
 
-**1.**[^key-1a1a78754974611e08e2e057c208cd0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-1a1a78754974611e08e2e057c208cd0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-1a1a78754974611e08e2e057c208cd0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-1a1a78754974611e08e2e057c208cd0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-1a1a78754974611e08e2e057c208cd0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-1a1a78754974611e08e2e057c208cd0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-1a1a78754974611e08e2e057c208cd0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-1a1a78754974611e08e2e057c208cd0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-1a1a78754974611e08e2e057c208cd0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-1a1a78754974611e08e2e057c208cd0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-1a1a78754974611e08e2e057c208cd0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-1a1a78754974611e08e2e057c208cd0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-1a1a78754974611e08e2e057c208cd0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-1a1a78754974611e08e2e057c208cd0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-1a1a78754974611e08e2e057c208cd0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-1a1a78754974611e08e2e057c208cd0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part 2 — The Companies (Northern Ireland) Order 1986 (S.I. 1986/1032 (N.I. 6)[^key-1a1a78754974611e08e2e057c208cd0f]
+### Part 2 — The Companies (Northern Ireland) Order 1986 (S.I. 1986/1032 (N.I. 6)[^c-1a1a78754974611e08e2e057c208cd0f]
 
-**9.**[^key-1a1a78754974611e08e2e057c208cd0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-1a1a78754974611e08e2e057c208cd0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-1a1a78754974611e08e2e057c208cd0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-1a1a78754974611e08e2e057c208cd0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-1a1a78754974611e08e2e057c208cd0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-1a1a78754974611e08e2e057c208cd0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-1a1a78754974611e08e2e057c208cd0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-1a1a78754974611e08e2e057c208cd0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-1a1a78754974611e08e2e057c208cd0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-1a1a78754974611e08e2e057c208cd0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-1a1a78754974611e08e2e057c208cd0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-1a1a78754974611e08e2e057c208cd0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-1a1a78754974611e08e2e057c208cd0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-1a1a78754974611e08e2e057c208cd0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-1a1a78754974611e08e2e057c208cd0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-1a1a78754974611e08e2e057c208cd0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1a1a78754974611e08e2e057c208cd0f]: Textual amendment: [Sch. 9](https://www.legislation.gov.uk/ukpga/2006/46/schedule/9) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 1](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/1)
+[^c-1a1a78754974611e08e2e057c208cd0f]: Textual amendment: [Sch. 9](https://www.legislation.gov.uk/ukpga/2006/46/schedule/9) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 1](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/1)

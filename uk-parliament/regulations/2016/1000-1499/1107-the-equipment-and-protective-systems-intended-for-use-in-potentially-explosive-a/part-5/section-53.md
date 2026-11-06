@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 53. Enforcement powers[^key-4b803a8484772340558e4c430db07511]
+## 53. Enforcement powers[^c-4b803a8484772340558e4c430db07511]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4b803a8484772340558e4c430db07511]: Commencement: Reg. 53 in force at 8.12.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/1/1)
+[^c-4b803a8484772340558e4c430db07511]: Commencement: Reg. 53 in force at 8.12.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/1/1)

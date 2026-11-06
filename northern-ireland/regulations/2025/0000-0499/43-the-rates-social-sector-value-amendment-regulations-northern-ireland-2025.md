@@ -42,15 +42,15 @@ Coming into operation-
 
 The Department of Finance[^f00001] makes the following Regulations in exercise of the powers conferred by Article 23A of the Rates (Northern Ireland) Order 1977[^f00002].
 
-## 1. Citation and commencement[^key-802f2a872c744575615b1fa70045f1ca]
+## 1. Citation and commencement[^c-802f2a872c744575615b1fa70045f1ca]
 
 These Regulations may be cited as the Rates (Social Sector Value) (Amendment) Regulations (Northern Ireland) 2025 and shall come into operation on 1st April 2025.
 
-## 2. Amendment of the Rates (Social Sector Value) Regulations (Northern Ireland) 2007[^key-6962465e8fa4768319d4f5f4d8068009]
+## 2. Amendment of the Rates (Social Sector Value) Regulations (Northern Ireland) 2007[^c-6962465e8fa4768319d4f5f4d8068009]
 
 For Schedule 1 to the Rates (Social Sector Value) Regulations (Northern Ireland) 2007[^f00003] there shall be substituted the Schedule 1 set out in the Schedule to these Regulations.
 
-## 3. Revocation[^key-20957986b360619a408ce281b4c6be4b]
+## 3. Revocation[^c-20957986b360619a408ce281b4c6be4b]
 
 The Rates (Social Sector Value) (Amendment) Regulations (Northern Ireland) 2022[^f00004] are revoked.
 
@@ -62,7 +62,7 @@ Andrew McAvoy
 
 A senior officer of the Department of Finance
 
-## SCHEDULE — Schedule substituted for Schedule 1 to the Rates (Social Sector Value) Regulations (Northern Ireland) 2007[^key-9f44571fbd1518655ffdf9a4b98bb7c1]
+## SCHEDULE — Schedule substituted for Schedule 1 to the Rates (Social Sector Value) Regulations (Northern Ireland) 2007[^c-9f44571fbd1518655ffdf9a4b98bb7c1]
 
 Regulation 2
 
@@ -122,14 +122,14 @@ These Regulations substitute the list of housing associations in Schedule 1 to t
 
 [^f00002]: Footnote: [S.I. 1977/2157 (N.I. 28)](https://www.legislation.gov.uk/nisi/1977/2157); Article 23A was inserted by Article 7 of the Rates (Amendment) (Northern Ireland) Order 2006 ([S.I. 2006/2954 (N.I. 18))](https://www.legislation.gov.uk/nisi/2006/2954)
 
-[^key-802f2a872c744575615b1fa70045f1ca]: Commencement: Reg. 1 in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/43/regulation/1)
+[^c-802f2a872c744575615b1fa70045f1ca]: Commencement: Reg. 1 in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/43/regulation/1)
 
-[^key-6962465e8fa4768319d4f5f4d8068009]: Commencement: Reg. 2 in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/43/regulation/1)
+[^c-6962465e8fa4768319d4f5f4d8068009]: Commencement: Reg. 2 in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/43/regulation/1)
 
 [^f00003]: Footnote: [S.R. 2007 No. 86](https://www.legislation.gov.uk/nisr/2007/86) as amended by [S.R. 2022 No. 125](https://www.legislation.gov.uk/nisr/2022/125)
 
-[^key-20957986b360619a408ce281b4c6be4b]: Commencement: Reg. 3 in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/43/regulation/1)
+[^c-20957986b360619a408ce281b4c6be4b]: Commencement: Reg. 3 in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/43/regulation/1)
 
 [^f00004]: Footnote: [S.R. 2022 No. 125](https://www.legislation.gov.uk/nisr/2022/125)
 
-[^key-9f44571fbd1518655ffdf9a4b98bb7c1]: Commencement: Sch. in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/43/regulation/1)
+[^c-9f44571fbd1518655ffdf9a4b98bb7c1]: Commencement: Sch. in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/43/regulation/1)

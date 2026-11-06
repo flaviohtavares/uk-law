@@ -48,13 +48,13 @@ The Secretary of State, having been designated [^c24240321] for the purposes of 
 
 ## PART 1
 
-### 1. Citation and commencement[^key-82c3f4ca4880a8ac304d5e14776ae9e6]
+### 1. Citation and commencement[^c-82c3f4ca4880a8ac304d5e14776ae9e6]
 
 These Regulations may be cited as the Infrastructure Planning (Publication and Notification of Applications etc.) (Coronavirus) (Amendment) Regulations 2020 and come into force on 22nd July 2020.
 
 ## PART 2 — Amendments to the Infrastructure Planning (Applications: Prescribed Forms and Procedure) Regulations 2009
 
-### 2. Amendments to the Infrastructure Planning (Applications: Prescribed Forms and Procedure) Regulations 2009[^key-d2f4710d4bc99f090b6d9f48c7ece944]
+### 2. Amendments to the Infrastructure Planning (Applications: Prescribed Forms and Procedure) Regulations 2009[^c-d2f4710d4bc99f090b6d9f48c7ece944]
 
 (1) The Infrastructure Planning (Applications: Prescribed Forms and Procedure) Regulations 2009 [^c24240351] are amended as follows.
 
@@ -106,7 +106,7 @@ These Regulations may be cited as the Infrastructure Planning (Publication and N
 
 ## PART 3 — Amendments to the Infrastructure Planning (Changes to, and Revocation of, Development Consent Orders) Regulations 2011
 
-### 3. Amendments to the Infrastructure Planning (Changes to, and Revocation of, Development Consent Orders) Regulations 2011[^key-00e8b1e1bc0d65e6adf55abe1d580886]
+### 3. Amendments to the Infrastructure Planning (Changes to, and Revocation of, Development Consent Orders) Regulations 2011[^c-00e8b1e1bc0d65e6adf55abe1d580886]
 
 (1) The Infrastructure Planning (Changes to, and Revocation of, Development Consent Orders) Regulations 2011 [^c24240361] are amended as follows.
 
@@ -204,7 +204,7 @@ These Regulations may be cited as the Infrastructure Planning (Publication and N
 
 ## PART 4 — Amendments to the Infrastructure Planning (Compulsory Acquisition) Regulations 2010
 
-### 4. Amendments to the Infrastructure Planning (Compulsory Acquisition) Regulations 2010[^key-c559e037cef3b0ebf63b461103ec38a6]
+### 4. Amendments to the Infrastructure Planning (Compulsory Acquisition) Regulations 2010[^c-c559e037cef3b0ebf63b461103ec38a6]
 
 (1) The Infrastructure Planning (Compulsory Acquisition) Regulations 2010 [^c24240371] are amended as follows.
 
@@ -242,7 +242,7 @@ These Regulations may be cited as the Infrastructure Planning (Publication and N
 
 ## PART 5 — Amendments to the Infrastructure Planning (Environmental Impact Assessment) Regulations 2017
 
-### 5. Amendments to the Infrastructure Planning (Environmental Impact Assessment) Regulations 2017[^key-c0eb12d4e2d8cd16e6da781e330eb144]
+### 5. Amendments to the Infrastructure Planning (Environmental Impact Assessment) Regulations 2017[^c-c0eb12d4e2d8cd16e6da781e330eb144]
 
 (1) The Infrastructure Planning (Environmental Impact Assessment) Regulations 2017 [^c24240381] are amended as follows.
 
@@ -306,7 +306,7 @@ These Regulations may be cited as the Infrastructure Planning (Publication and N
 
 ## PART 6 — Transitional provisions
 
-### 6. Transitional provisions[^key-ae74e0fd4cc1f76c6e3390d0d6141f52]
+### 6. Transitional provisions[^c-ae74e0fd4cc1f76c6e3390d0d6141f52]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -344,22 +344,22 @@ An impact assessment has not been produced for this instrument as this is a temp
 
 [^c24240341]: Marginal citation: [2008 c. 29](https://www.legislation.gov.uk/ukpga/2008/29). Section 56 was amended by section 138(2) and paragraph 14 of part 1 of Schedule 13 to the [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20) and by section 23(5)(a) of the [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23). Sections 114 and 123 were amended by paragraphs 55(3) and 62 of part 1 of Schedule 13 to the [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20). Paragraph 2(8) of Schedule 6 was amended by paragraph 72(3) of part 1 of Schedule 13 to the [Localism Act 2011 (c.20)](https://www.legislation.gov.uk/ukpga/2011/20) and by section 28(2)(a) of the [Infrastructure Act 2015 (c.7)](https://www.legislation.gov.uk/ukpga/2015/7). There are other amendments not relevant to this instrument.
 
-[^key-82c3f4ca4880a8ac304d5e14776ae9e6]: Commencement: Reg. 1 in force at 22.7.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/764/regulation/1)
+[^c-82c3f4ca4880a8ac304d5e14776ae9e6]: Commencement: Reg. 1 in force at 22.7.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/764/regulation/1)
 
-[^key-d2f4710d4bc99f090b6d9f48c7ece944]: Commencement: Reg. 2 in force at 22.7.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/764/regulation/1)
+[^c-d2f4710d4bc99f090b6d9f48c7ece944]: Commencement: Reg. 2 in force at 22.7.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/764/regulation/1)
 
 [^c24240351]: Marginal citation: [S.I. 2009/2264](https://www.legislation.gov.uk/uksi/2009/2264); relevant amending instruments are [S.I. 2012/635](https://www.legislation.gov.uk/uksi/2012/635), 2017/572.
 
-[^key-00e8b1e1bc0d65e6adf55abe1d580886]: Commencement: Reg. 3 in force at 22.7.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/764/regulation/1)
+[^c-00e8b1e1bc0d65e6adf55abe1d580886]: Commencement: Reg. 3 in force at 22.7.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/764/regulation/1)
 
 [^c24240361]: Marginal citation: [S.I. 2011/2055](https://www.legislation.gov.uk/uksi/2011/2055); relevant amending instruments are [S.I. 2012/635](https://www.legislation.gov.uk/uksi/2012/635), 2015/760.
 
-[^key-c559e037cef3b0ebf63b461103ec38a6]: Commencement: Reg. 4 in force at 22.7.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/764/regulation/1)
+[^c-c559e037cef3b0ebf63b461103ec38a6]: Commencement: Reg. 4 in force at 22.7.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/764/regulation/1)
 
 [^c24240371]: Marginal citation: [S.I. 2010/104](https://www.legislation.gov.uk/uksi/2010/104), amended by [S.I. 2012/635](https://www.legislation.gov.uk/uksi/2012/635); there are other amending instruments but none is relevant.
 
-[^key-c0eb12d4e2d8cd16e6da781e330eb144]: Commencement: Reg. 5 in force at 22.7.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/764/regulation/1)
+[^c-c0eb12d4e2d8cd16e6da781e330eb144]: Commencement: Reg. 5 in force at 22.7.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/764/regulation/1)
 
 [^c24240381]: Marginal citation: [S.I. 2017/572](https://www.legislation.gov.uk/uksi/2017/572), amended by [S.I. 2018/695](https://www.legislation.gov.uk/uksi/2018/695); there are other amending instruments but none is relevant.
 
-[^key-ae74e0fd4cc1f76c6e3390d0d6141f52]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2020/764/regulation/6) omitted (31.12.2020 immediately before 11 p.m.) by virtue of [The Infrastructure Planning (Publication and Notification of Applications etc.) (Amendment) Regulations 2020 (S.I. 2020/1534)](https://www.legislation.gov.uk/uksi/2020/1534), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1534/regulation/1), [6](https://www.legislation.gov.uk/uksi/2020/1534/regulation/6) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1534/regulation/7))
+[^c-ae74e0fd4cc1f76c6e3390d0d6141f52]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2020/764/regulation/6) omitted (31.12.2020 immediately before 11 p.m.) by virtue of [The Infrastructure Planning (Publication and Notification of Applications etc.) (Amendment) Regulations 2020 (S.I. 2020/1534)](https://www.legislation.gov.uk/uksi/2020/1534), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1534/regulation/1), [6](https://www.legislation.gov.uk/uksi/2020/1534/regulation/6) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1534/regulation/7))

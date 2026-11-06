@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33.44. Preparation of documents[^key-405c2cb722619843916a75f1ac512cad]
+## 33.44. Preparation of documents[^c-405c2cb722619843916a75f1ac512cad]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-405c2cb722619843916a75f1ac512cad]: Commencement: [Rule 33.44](https://www.legislation.gov.uk/uksi/2025/909/rule/33.44) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-405c2cb722619843916a75f1ac512cad]: Commencement: [Rule 33.44](https://www.legislation.gov.uk/uksi/2025/909/rule/33.44) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

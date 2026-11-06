@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 43. Official controls on animals and goods entering Great Britain[^key-a3c5c35405a8a7929249faa86a01b40a]
+## Article 43. Official controls on animals and goods entering Great Britain[^c-a3c5c35405a8a7929249faa86a01b40a]
 
 *Extent: E+W+S+N.I.*
 
-Official controls on animals and goods entering Great Britain[^key-a2caa20c411278ff9d4d401672226a9c] shall be organised on a risk basis. In relation to animals and goods referred to in Articles 47 and 48, such official controls shall be performed in accordance with Articles 47 to 64.
+Official controls on animals and goods entering Great Britain[^c-a2caa20c411278ff9d4d401672226a9c] shall be organised on a risk basis. In relation to animals and goods referred to in Articles 47 and 48, such official controls shall be performed in accordance with Articles 47 to 64.
 
 ## Annotations
 
-[^key-a3c5c35405a8a7929249faa86a01b40a]: Textual amendment: Words in [Art. 43](https://www.legislation.gov.uk/eur/2017/625/article/43) heading substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [9(1)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/9/1) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-a3c5c35405a8a7929249faa86a01b40a]: Textual amendment: Words in [Art. 43](https://www.legislation.gov.uk/eur/2017/625/article/43) heading substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [9(1)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/9/1) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
 
-[^key-a2caa20c411278ff9d4d401672226a9c]: Textual amendment: Words in [Art. 43](https://www.legislation.gov.uk/eur/2017/625/article/43) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [9(2)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/9/2) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-a2caa20c411278ff9d4d401672226a9c]: Textual amendment: Words in [Art. 43](https://www.legislation.gov.uk/eur/2017/625/article/43) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [9(2)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/9/2) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))

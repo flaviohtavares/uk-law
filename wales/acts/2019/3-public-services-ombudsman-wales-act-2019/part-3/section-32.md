@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Restrictions on power to amend Schedule 3[^key-78e354ffdc2fce134e67d5903ea0abc5]
+## 32. Restrictions on power to amend Schedule 3[^c-78e354ffdc2fce134e67d5903ea0abc5]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-78e354ffdc2fce134e67d5903ea0abc5]: Commencement: [S. 32](https://www.legislation.gov.uk/anaw/2019/3/section/32) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)
+[^c-78e354ffdc2fce134e67d5903ea0abc5]: Commencement: [S. 32](https://www.legislation.gov.uk/anaw/2019/3/section/32) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)

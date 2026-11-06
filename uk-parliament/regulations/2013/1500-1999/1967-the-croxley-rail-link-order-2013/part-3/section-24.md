@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 24. Temporary use of land for maintenance of works[^key-9879092faba1760cea9be5b1d078a39b]
+## 24. Temporary use of land for maintenance of works[^c-9879092faba1760cea9be5b1d078a39b]
 
 *Extent: E+W+S*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9879092faba1760cea9be5b1d078a39b]: Commencement: Art. 24 in force at 21.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1967/article/1)
+[^c-9879092faba1760cea9be5b1d078a39b]: Commencement: Art. 24 in force at 21.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1967/article/1)

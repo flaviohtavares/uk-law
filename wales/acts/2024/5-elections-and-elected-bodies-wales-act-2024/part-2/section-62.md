@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 62. Disqualification for corrupt or illegal practice: local government elections[^key-58aa6333369ff7e8a258298a38ca38d2]
+## 62. Disqualification for corrupt or illegal practice: local government elections[^c-58aa6333369ff7e8a258298a38ca38d2]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ In section 80A(1) of the Local Government Act [1972 (c. 70)](https://www.legisla
 
 ## Annotations
 
-[^key-58aa6333369ff7e8a258298a38ca38d2]: Commencement: [S. 62](https://www.legislation.gov.uk/asc/2024/5/section/62) in force at 9.11.2024, see [s. 72(2)(d)](https://www.legislation.gov.uk/asc/2024/5/section/72/2/d)
+[^c-58aa6333369ff7e8a258298a38ca38d2]: Commencement: [S. 62](https://www.legislation.gov.uk/asc/2024/5/section/62) in force at 9.11.2024, see [s. 72(2)(d)](https://www.legislation.gov.uk/asc/2024/5/section/72/2/d)

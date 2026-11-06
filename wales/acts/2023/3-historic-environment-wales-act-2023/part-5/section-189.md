@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 189. Service of documents on the Crown[^key-e631535e8f53b885738de1120e54a60e][^key-98138023744e37cd5f8d800e327ce428]
+## 189. Service of documents on the Crown[^c-e631535e8f53b885738de1120e54a60e][^c-98138023744e37cd5f8d800e327ce428]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e631535e8f53b885738de1120e54a60e]: Commencement: S. 189 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-e631535e8f53b885738de1120e54a60e]: Commencement: S. 189 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-98138023744e37cd5f8d800e327ce428]: Commencement: [S. 189](https://www.legislation.gov.uk/asc/2023/3/section/189) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)
+[^c-98138023744e37cd5f8d800e327ce428]: Commencement: [S. 189](https://www.legislation.gov.uk/asc/2023/3/section/189) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)

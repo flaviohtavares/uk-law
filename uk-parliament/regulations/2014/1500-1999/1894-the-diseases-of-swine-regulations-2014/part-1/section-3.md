@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 3. Occupier and changes of occupier[^key-1757dd0584ff5bf64670e44c4c273506]
+## 3. Occupier and changes of occupier[^c-1757dd0584ff5bf64670e44c4c273506]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1757dd0584ff5bf64670e44c4c273506]: Commencement: Reg. 3 in force at 14.8.2014, see [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/1/1/c)
+[^c-1757dd0584ff5bf64670e44c4c273506]: Commencement: Reg. 3 in force at 14.8.2014, see [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/1/1/c)

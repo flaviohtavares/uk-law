@@ -18,11 +18,11 @@ summary: ''
 
 *Extent: E+W*
 
-**83.**[^key-963e588204f076013e044239d1f23d23] In paragraph 1(4)—
+**83.**[^c-963e588204f076013e044239d1f23d23] In paragraph 1(4)—
 
 - (a) after “particular magistrates’ court” insert “in Northern Ireland”; and
 - (b) for the words after “any magistrates’ court” substitute “acting for the same petty sessions district as that court”.
 
 ## Annotations
 
-[^key-963e588204f076013e044239d1f23d23]: Commencement: Art. 83 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-963e588204f076013e044239d1f23d23]: Commencement: Art. 83 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

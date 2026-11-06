@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 52. Defence to proceedings in respect of statutory nuisance[^key-9630ca6a1e81bf1922f21d02c0f2fac0]
+## 52. Defence to proceedings in respect of statutory nuisance[^c-9630ca6a1e81bf1922f21d02c0f2fac0]
 
 *Extent: E+W+S*
 
@@ -34,7 +34,7 @@ do not apply where the consent relates to the use of premises by the Agency for 
 
 ## Annotations
 
-[^key-9630ca6a1e81bf1922f21d02c0f2fac0]: Commencement: Art. 52 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)
+[^c-9630ca6a1e81bf1922f21d02c0f2fac0]: Commencement: Art. 52 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)
 
 [^f00023]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43).
 

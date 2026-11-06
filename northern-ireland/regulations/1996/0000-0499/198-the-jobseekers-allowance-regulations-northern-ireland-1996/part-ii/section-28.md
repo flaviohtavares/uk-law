@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 28. Matters to be taken into account in determining whether a claimant has good cause for failing to comply with a notice under regulation 23[^key-d4cedc7b0c897fbdeb340c6da1a7c5d0]
+## 28. Matters to be taken into account in determining whether a claimant has good cause for failing to comply with a notice under regulation 23[^c-d4cedc7b0c897fbdeb340c6da1a7c5d0]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d4cedc7b0c897fbdeb340c6da1a7c5d0]: Commencement: Reg. 28 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-d4cedc7b0c897fbdeb340c6da1a7c5d0]: Commencement: Reg. 28 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

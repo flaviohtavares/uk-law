@@ -22,7 +22,7 @@ summary: ''
 
 (1) Information is specified information if it comes to a public authority in connection with the exercise of any function it has under or by virtue of—
 
-- (a) Part 1, 3, 4, 6 or 7[^key-77105df2e8883376c80f5c955cd62797];
+- (a) Part 1, 3, 4, 6 or 7[^c-77105df2e8883376c80f5c955cd62797];
 - (b) an enactment specified in Schedule 14;
 - (c) such subordinate legislation as the Secretary of State may by order specify for the purposes of this subsection.
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-77105df2e8883376c80f5c955cd62797]: Textual amendment: Words in s. 238(1)(a) substituted (6.4.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 18 para. 5](https://www.legislation.gov.uk/ukpga/2024/13/schedule/18/paragraph/5) (with [Sch. 19](https://www.legislation.gov.uk/ukpga/2024/13/schedule/19)); [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(9)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/9)
+[^c-77105df2e8883376c80f5c955cd62797]: Textual amendment: Words in s. 238(1)(a) substituted (6.4.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 18 para. 5](https://www.legislation.gov.uk/ukpga/2024/13/schedule/18/paragraph/5) (with [Sch. 19](https://www.legislation.gov.uk/ukpga/2024/13/schedule/19)); [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(9)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/9)

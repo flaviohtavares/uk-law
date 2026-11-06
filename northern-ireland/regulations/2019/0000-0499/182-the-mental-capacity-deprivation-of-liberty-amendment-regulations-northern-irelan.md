@@ -32,7 +32,7 @@ summary: ''
 
 Mental Capacity
 
-The Mental Capacity (Deprivation of Liberty) (Amendment) Regulations (Northern Ireland) 2019 (revoked)[^key-12fce2fe6cefb5b3fb6caf564d0b47c8]
+The Mental Capacity (Deprivation of Liberty) (Amendment) Regulations (Northern Ireland) 2019 (revoked)[^c-12fce2fe6cefb5b3fb6caf564d0b47c8]
 
 Made
 
@@ -44,24 +44,24 @@ Laid before Assembly
 
 Coming into operation in accordance with regulation 1.
 
-[^key-12fce2fe6cefb5b3fb6caf564d0b47c8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-12fce2fe6cefb5b3fb6caf564d0b47c8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-12fce2fe6cefb5b3fb6caf564d0b47c8]
+## 1. Citation and commencement[^c-12fce2fe6cefb5b3fb6caf564d0b47c8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the principal Regulations[^key-12fce2fe6cefb5b3fb6caf564d0b47c8]
+## 2. Amendment to the principal Regulations[^c-12fce2fe6cefb5b3fb6caf564d0b47c8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-12fce2fe6cefb5b3fb6caf564d0b47c8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-12fce2fe6cefb5b3fb6caf564d0b47c8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-12fce2fe6cefb5b3fb6caf564d0b47c8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-12fce2fe6cefb5b3fb6caf564d0b47c8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-12fce2fe6cefb5b3fb6caf564d0b47c8]: Textual amendment: Regulations revoked (1.10.2019) by [The Mental Capacity (Deprivation of Liberty) (Revocation) Regulations (Northern Ireland) 2019 (S.R. 2019/192)](https://www.legislation.gov.uk/nisr/2019/192), [regs. 1](https://www.legislation.gov.uk/nisr/2019/192/regulation/1), [2(b)](https://www.legislation.gov.uk/nisr/2019/192/regulation/2/b)
+[^c-12fce2fe6cefb5b3fb6caf564d0b47c8]: Textual amendment: Regulations revoked (1.10.2019) by [The Mental Capacity (Deprivation of Liberty) (Revocation) Regulations (Northern Ireland) 2019 (S.R. 2019/192)](https://www.legislation.gov.uk/nisr/2019/192), [regs. 1](https://www.legislation.gov.uk/nisr/2019/192/regulation/1), [2(b)](https://www.legislation.gov.uk/nisr/2019/192/regulation/2/b)

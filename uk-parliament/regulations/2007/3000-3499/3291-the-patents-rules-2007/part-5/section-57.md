@@ -30,8 +30,8 @@ summary: ''
 
 (5) But paragraph (2) does not apply where a translation is delivered in electronic form or using electronic communications.
 
-(6) The period prescribed for the purposes of section 80(3) for payment of the prescribed fee is 14 days beginning immediately after[^key-41c417dfa1512d9128d63c6b14daa730] the day the corrected translation is filed.
+(6) The period prescribed for the purposes of section 80(3) for payment of the prescribed fee is 14 days beginning immediately after[^c-41c417dfa1512d9128d63c6b14daa730] the day the corrected translation is filed.
 
 ## Annotations
 
-[^key-41c417dfa1512d9128d63c6b14daa730]: Textual amendment: Words in [rule 57(6)](https://www.legislation.gov.uk/uksi/2007/3291/rule/57/6) substituted (1.10.2011) by [The Patents (Amendment) Rules 2011 (S.I. 2011/2052)](https://www.legislation.gov.uk/uksi/2011/2052), [rules 1](https://www.legislation.gov.uk/uksi/2011/2052/rule/1), [3](https://www.legislation.gov.uk/uksi/2011/2052/rule/3), [Sch.](https://www.legislation.gov.uk/uksi/2011/2052/schedule) (with [rule 4](https://www.legislation.gov.uk/uksi/2011/2052/rule/4))
+[^c-41c417dfa1512d9128d63c6b14daa730]: Textual amendment: Words in [rule 57(6)](https://www.legislation.gov.uk/uksi/2007/3291/rule/57/6) substituted (1.10.2011) by [The Patents (Amendment) Rules 2011 (S.I. 2011/2052)](https://www.legislation.gov.uk/uksi/2011/2052), [rules 1](https://www.legislation.gov.uk/uksi/2011/2052/rule/1), [3](https://www.legislation.gov.uk/uksi/2011/2052/rule/3), [Sch.](https://www.legislation.gov.uk/uksi/2011/2052/schedule) (with [rule 4](https://www.legislation.gov.uk/uksi/2011/2052/rule/4))

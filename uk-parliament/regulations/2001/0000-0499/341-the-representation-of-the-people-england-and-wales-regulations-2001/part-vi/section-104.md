@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 104. Supply of full register to holders of relevant elective offices and candidates[^key-e7e11c4a1689c6ea930c08863d88fdb7]
+## 104. Supply of full register to holders of relevant elective offices and candidates[^c-e7e11c4a1689c6ea930c08863d88fdb7]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ otherwise than for the purpose set out in paragraph (4) below.
 
 ## Annotations
 
-[^key-e7e11c4a1689c6ea930c08863d88fdb7]: Textual amendment: Pt. 6 inserted (16.10.2002) by [The Representation of the People (England and Wales) (Amendment) Regulations 2002 (S.I. 2002/1871)](https://www.legislation.gov.uk/uksi/2002/1871), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2002/1871/regulation/2/2), [15](https://www.legislation.gov.uk/uksi/2002/1871/regulation/15) (with [reg. 2(3)](https://www.legislation.gov.uk/uksi/2002/1871/regulation/2/3))
+[^c-e7e11c4a1689c6ea930c08863d88fdb7]: Textual amendment: Pt. 6 inserted (16.10.2002) by [The Representation of the People (England and Wales) (Amendment) Regulations 2002 (S.I. 2002/1871)](https://www.legislation.gov.uk/uksi/2002/1871), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2002/1871/regulation/2/2), [15](https://www.legislation.gov.uk/uksi/2002/1871/regulation/15) (with [reg. 2(3)](https://www.legislation.gov.uk/uksi/2002/1871/regulation/2/3))

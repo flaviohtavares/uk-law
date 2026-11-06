@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Other amendments relating to NHS foundation trusts[^key-00af21c1252bc9553fba1962da41663a]
+## 34. Other amendments relating to NHS foundation trusts[^c-00af21c1252bc9553fba1962da41663a]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 4 (which makes amendments relating to NHS foundation trusts) has effect
 
 ## Annotations
 
-[^key-00af21c1252bc9553fba1962da41663a]: Commencement: S. 34 in force at 1.4.2004 by [S.I. 2004/759](https://www.legislation.gov.uk/uksi/2004/759), [art. 2](https://www.legislation.gov.uk/uksi/2004/759/article/2)
+[^c-00af21c1252bc9553fba1962da41663a]: Commencement: S. 34 in force at 1.4.2004 by [S.I. 2004/759](https://www.legislation.gov.uk/uksi/2004/759), [art. 2](https://www.legislation.gov.uk/uksi/2004/759/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Recruitment arrangements: other ranks.[^c1055558][^key-6d9a106ba2fe2ed2f1f59d913ea2d74d][^key-f1c320bc157c19c0b9981a54d1b05437][^key-7863e5ac18615841ae38ec9cd08b8280]
+## 45. Recruitment arrangements: other ranks.[^c1055558][^c-6d9a106ba2fe2ed2f1f59d913ea2d74d][^c-f1c320bc157c19c0b9981a54d1b05437][^c-7863e5ac18615841ae38ec9cd08b8280]
 
 *Extent: N.I.*
 
@@ -37,8 +37,8 @@ summary: ''
 
 [^c1055558]: Modification: S. 45 shall expire on the third anniversary of the commencement date unless continued by order as mentioned in s. 47.
 
-[^key-6d9a106ba2fe2ed2f1f59d913ea2d74d]: Modification: S. 45 continued (30.3.2004) (temp. until 28.3.2007) by [Police (Northern Ireland) Act 2000 (Renewal of Temporary Provisions) Order 2004 (S.R. 2004/114)](https://www.legislation.gov.uk/nisr/2004/114), [art. 2](https://www.legislation.gov.uk/nisr/2004/114/article/2)
+[^c-6d9a106ba2fe2ed2f1f59d913ea2d74d]: Modification: S. 45 continued (30.3.2004) (temp. until 28.3.2007) by [Police (Northern Ireland) Act 2000 (Renewal of Temporary Provisions) Order 2004 (S.R. 2004/114)](https://www.legislation.gov.uk/nisr/2004/114), [art. 2](https://www.legislation.gov.uk/nisr/2004/114/article/2)
 
-[^key-f1c320bc157c19c0b9981a54d1b05437]: Modification: S. 45 continued (29.3.2007) (temp. from 28.3.2007 until 28.3.2010) by [Police (Northern Ireland) Act 2000 (Renewal of Temporary Provisions) Order 2007 (S.R. 2007/214)](https://www.legislation.gov.uk/nisr/2007/214), [arts. 1](https://www.legislation.gov.uk/nisr/2007/214/article/1), [2](https://www.legislation.gov.uk/nisr/2007/214/article/2)
+[^c-f1c320bc157c19c0b9981a54d1b05437]: Modification: S. 45 continued (29.3.2007) (temp. from 28.3.2007 until 28.3.2010) by [Police (Northern Ireland) Act 2000 (Renewal of Temporary Provisions) Order 2007 (S.R. 2007/214)](https://www.legislation.gov.uk/nisr/2007/214), [arts. 1](https://www.legislation.gov.uk/nisr/2007/214/article/1), [2](https://www.legislation.gov.uk/nisr/2007/214/article/2)
 
-[^key-7863e5ac18615841ae38ec9cd08b8280]: Modification: S. 45 continued (29.3.2010 with effect in accordance with art. 2 of the amending S.R.) by [Police (Northern Ireland) Act 2000 (Renewal of Temporary Provisions) Order 2010 (S.R. 2010/112)](https://www.legislation.gov.uk/nisr/2010/112), [arts. 1](https://www.legislation.gov.uk/nisr/2010/112/article/1), [2](https://www.legislation.gov.uk/nisr/2010/112/article/2)
+[^c-7863e5ac18615841ae38ec9cd08b8280]: Modification: S. 45 continued (29.3.2010 with effect in accordance with art. 2 of the amending S.R.) by [Police (Northern Ireland) Act 2000 (Renewal of Temporary Provisions) Order 2010 (S.R. 2010/112)](https://www.legislation.gov.uk/nisr/2010/112), [arts. 1](https://www.legislation.gov.uk/nisr/2010/112/article/1), [2](https://www.legislation.gov.uk/nisr/2010/112/article/2)

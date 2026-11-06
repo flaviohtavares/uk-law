@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Review of combined authority’s constitutional arrangements[^key-21415b38ec203cc1711c14cded9d5034]
+## 58. Review of combined authority’s constitutional arrangements[^c-21415b38ec203cc1711c14cded9d5034]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ After section 104C of the Local Democracy, Economic Development and Construction
 
 ## Annotations
 
-[^key-21415b38ec203cc1711c14cded9d5034]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2023/55/section/58) in force at 26.12.2023, see [s. 255(2)(d)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/d)
+[^c-21415b38ec203cc1711c14cded9d5034]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2023/55/section/58) in force at 26.12.2023, see [s. 255(2)(d)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/d)

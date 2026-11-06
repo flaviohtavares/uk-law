@@ -280,7 +280,7 @@ In this Act (apart from Part 6)—
 - (c) the reference to “the insured” in subsection (1)(c) is to both CF and A,
 - (d) the reference in subsection (2)(b) to the premiums paid under the contract is to premiums paid in respect of the cover for CF.
 
-## PART 4A — Late payment of claims[^key-8471d2a2de8f233a1551063a5bc461cb]
+## PART 4A — Late payment of claims[^c-8471d2a2de8f233a1551063a5bc461cb]
 
 ### 13A. Implied term about payment of claims
 
@@ -342,7 +342,7 @@ In this Act (apart from Part 6)—
 
 (4) This section does not apply in relation to a contract for the settlement of a claim arising under a non-consumer insurance contract.
 
-#### 16A. Contracting out of the implied term about payment of claims: consumer and non-consumer insurance contracts[^key-e7001fca394668268f126c8dcf2cdc71]
+#### 16A. Contracting out of the implied term about payment of claims: consumer and non-consumer insurance contracts[^c-e7001fca394668268f126c8dcf2cdc71]
 
 (1) A term of a consumer insurance contract, or of any other contract, which would put the consumer in a worse position as respects any of the matters provided for in section 13A than the consumer would be in by virtue of the provisions of that section (so far as relating to consumer insurance contracts) is to that extent of no effect.
 
@@ -361,7 +361,7 @@ In this Act (apart from Part 6)—
 
 #### 17. The transparency requirements
 
-(1) In this section, “**the disadvantageous term**” means such a term as is mentioned in section 16(2) or 16A(4)[^key-30cac5f4ac0a4cfd21b613917467ed52] .
+(1) In this section, “**the disadvantageous term**” means such a term as is mentioned in section 16(2) or 16A(4)[^c-30cac5f4ac0a4cfd21b613917467ed52] .
 
 (2) The insurer must take sufficient steps to draw the disadvantageous term to the insured's attention before the contract is entered into or the variation agreed.
 
@@ -493,7 +493,7 @@ Schedule 2 amends the Third Parties (Rights against Insurers) Act 2010 in relati
 
 (3) In subsections (1) and (2) “**the relevant period**” means the period of 18 months beginning with the day on which this Act is passed.
 
-(3A)[^key-07dee5af28b1fec0d9149d6c0374fb20] Part 4A applies only in relation to contracts of insurance entered into after that Part has come into force, and variations to such contracts.
+(3A)[^c-07dee5af28b1fec0d9149d6c0374fb20] Part 4A applies only in relation to contracts of insurance entered into after that Part has come into force, and variations to such contracts.
 
 (4) Unless the contrary intention appears, references in Parts 2 to 5 to something being done by or in relation to the insurer or the insured include its being done by or in relation to that person's agent.
 
@@ -707,12 +707,12 @@ Section 20
 
 ## Annotations
 
-[^key-8471d2a2de8f233a1551063a5bc461cb]: Textual amendment: [Pt. 4A](https://www.legislation.gov.uk/ukpga/2015/4/part/4A) inserted (4.5.2017) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 28(1)](https://www.legislation.gov.uk/ukpga/2016/12/section/28/1), [44(3)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/3) (with [s. 44(3)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/3))
+[^c-8471d2a2de8f233a1551063a5bc461cb]: Textual amendment: [Pt. 4A](https://www.legislation.gov.uk/ukpga/2015/4/part/4A) inserted (4.5.2017) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 28(1)](https://www.legislation.gov.uk/ukpga/2016/12/section/28/1), [44(3)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/3) (with [s. 44(3)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/3))
 
-[^key-e7001fca394668268f126c8dcf2cdc71]: Textual amendment: [S. 16A](https://www.legislation.gov.uk/ukpga/2015/4/section/16A) inserted (4.5.2017) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 29(1)](https://www.legislation.gov.uk/ukpga/2016/12/section/29/1), [44(3)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/3) (with [s. 44(3)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/3))
+[^c-e7001fca394668268f126c8dcf2cdc71]: Textual amendment: [S. 16A](https://www.legislation.gov.uk/ukpga/2015/4/section/16A) inserted (4.5.2017) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 29(1)](https://www.legislation.gov.uk/ukpga/2016/12/section/29/1), [44(3)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/3) (with [s. 44(3)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/3))
 
-[^key-30cac5f4ac0a4cfd21b613917467ed52]: Textual amendment: Words in [s. 17(1)](https://www.legislation.gov.uk/ukpga/2015/4/section/17/1) inserted (4.5.2017) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 29(2)](https://www.legislation.gov.uk/ukpga/2016/12/section/29/2), [44(3)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/3) (with [s. 44(3)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/3))
+[^c-30cac5f4ac0a4cfd21b613917467ed52]: Textual amendment: Words in [s. 17(1)](https://www.legislation.gov.uk/ukpga/2015/4/section/17/1) inserted (4.5.2017) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 29(2)](https://www.legislation.gov.uk/ukpga/2016/12/section/29/2), [44(3)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/3) (with [s. 44(3)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/3))
 
-[^key-07dee5af28b1fec0d9149d6c0374fb20]: Textual amendment: [S. 22(3A)](https://www.legislation.gov.uk/ukpga/2015/4/section/22/3A) inserted (4.5.2017) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 28(2)](https://www.legislation.gov.uk/ukpga/2016/12/section/28/2), [44(3)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/3) (with [s. 44(3)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/3))
+[^c-07dee5af28b1fec0d9149d6c0374fb20]: Textual amendment: [S. 22(3A)](https://www.legislation.gov.uk/ukpga/2015/4/section/22/3A) inserted (4.5.2017) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 28(2)](https://www.legislation.gov.uk/ukpga/2016/12/section/28/2), [44(3)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/3) (with [s. 44(3)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/3))
 
 [^c22572611]: Modification: S. 23(2) excluded (4.5.2016) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [s. 44(1)(g)(3)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/1/g/3)

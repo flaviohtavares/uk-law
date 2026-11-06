@@ -33,16 +33,16 @@ of 16 December 2015
 
 amending Regulation (EC) No 861/2007 establishing a European Small Claims Procedure and Regulation (EC) No 1896/2006 creating a European order for payment procedure (revoked)
 
-[^key-89d7c883977c88c33dd2f812c8f70159]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-89d7c883977c88c33dd2f812c8f70159]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-89d7c883977c88c33dd2f812c8f70159] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-89d7c883977c88c33dd2f812c8f70159] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-89d7c883977c88c33dd2f812c8f70159] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-89d7c883977c88c33dd2f812c8f70159] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-89d7c883977c88c33dd2f812c8f70159] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-89d7c883977c88c33dd2f812c8f70159] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-89d7c883977c88c33dd2f812c8f70159]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-89d7c883977c88c33dd2f812c8f70159]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-89d7c883977c88c33dd2f812c8f70159]: Textual amendment: Regulation revoked (31.12.2020) by [The European Enforcement Order, European Order for Payment and European Small Claims Procedure (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1311)](https://www.legislation.gov.uk/uksi/2018/1311), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1311/regulation/1), [13](https://www.legislation.gov.uk/uksi/2018/1311/regulation/13) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2018/1311/part/5)) (as substituted by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2020/1493/regulation/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-89d7c883977c88c33dd2f812c8f70159]: Textual amendment: Regulation revoked (31.12.2020) by [The European Enforcement Order, European Order for Payment and European Small Claims Procedure (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1311)](https://www.legislation.gov.uk/uksi/2018/1311), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1311/regulation/1), [13](https://www.legislation.gov.uk/uksi/2018/1311/regulation/13) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2018/1311/part/5)) (as substituted by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2020/1493/regulation/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

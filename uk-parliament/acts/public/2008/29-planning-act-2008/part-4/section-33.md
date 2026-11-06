@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Effect of requirement for development consent on other consent regimes[^key-0f7733bc4a666834bdc443b78ab52ff6]
+## 33. Effect of requirement for development consent on other consent regimes[^c-0f7733bc4a666834bdc443b78ab52ff6]
 
 *Extent: E+W+S*
 
@@ -26,8 +26,8 @@ summary: ''
 - (b) consent under section 10(1), 11(1) or 12(1) of the Green Belt (London and Home Counties) Act 1938 (c. xciii) (erection of buildings and construction of sewer main pipes, watercourses and electric lines etc. on Green Belt land);
 - (c) a pipe-line construction authorisation under section 1(1) of the Pipe-lines Act 1962 (c. 58) (authorisation for construction of cross-country pipe-lines);
 - (d) authorisation by an order under section 4(1) of the Gas Act 1965 (c. 36) (storage of gas in underground strata);
-- (e)[^key-8fd7920c9e6504acb3abe56c6f4b8122] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (f)[^key-20ff2c6542bf582a9bc17f2aaaf6d5b9] to the extent that the development relates to land in England, consent under section 2(3) or 3 of the Ancient Monuments and Archaeological Areas Act 1979;
+- (e)[^c-8fd7920c9e6504acb3abe56c6f4b8122] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-20ff2c6542bf582a9bc17f2aaaf6d5b9] to the extent that the development relates to land in England, consent under section 2(3) or 3 of the Ancient Monuments and Archaeological Areas Act 1979;
 - (g) to the extent that the development relates to land in England, notice under section 35 of the Ancient Monuments and Archaeological Areas Act 1979;
 - (h) consent under section 36 or 37 of the Electricity Act 1989 (c. 29) (construction etc. of generating stations and installation of overhead lines);
 - (i) to the extent that the development relates to land in England, consent under section 8(1), (2) or (3) of the Listed Buildings Act;
@@ -51,7 +51,7 @@ summary: ''
 - (f) an order under section 108 or 110 of that Act (orders authorising the diversion of navigable and non-navigable watercourses);
 - (g) an order under section 6 of the New Roads and Street Works Act 1991 (c. 22) (toll orders).
 
-(5)[^key-08990944129817bdff9c001f93dae9f8] The Secretary of State may by order—
+(5)[^c-08990944129817bdff9c001f93dae9f8] The Secretary of State may by order—
 
 - (a) amend subsection (1) or (2)—
   - (i) to add or remove a type of consent, or
@@ -89,10 +89,10 @@ summary: ''
 
 ## Annotations
 
-[^key-0f7733bc4a666834bdc443b78ab52ff6]: Commencement: S. 33 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 3(c)](https://www.legislation.gov.uk/uksi/2010/101/article/3/c) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
+[^c-0f7733bc4a666834bdc443b78ab52ff6]: Commencement: S. 33 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 3(c)](https://www.legislation.gov.uk/uksi/2010/101/article/3/c) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
 
-[^key-8fd7920c9e6504acb3abe56c6f4b8122]: Textual amendment: S. 33(1)(e) omitted (25.6.2013) by virtue of [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [ss. 18(3)(a)](https://www.legislation.gov.uk/ukpga/2013/27/section/18/3/a), [35(3)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/3)
+[^c-8fd7920c9e6504acb3abe56c6f4b8122]: Textual amendment: S. 33(1)(e) omitted (25.6.2013) by virtue of [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [ss. 18(3)(a)](https://www.legislation.gov.uk/ukpga/2013/27/section/18/3/a), [35(3)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/3)
 
-[^key-20ff2c6542bf582a9bc17f2aaaf6d5b9]: Modification: S. 33(1)(f) excluded in part (4.8.2023) by [The A303 (Amesbury to Berwick Down) Development Consent Order 2023 (S.I. 2023/834)](https://www.legislation.gov.uk/uksi/2023/834), [arts. 1](https://www.legislation.gov.uk/uksi/2023/834/article/1), [3(1)](https://www.legislation.gov.uk/uksi/2023/834/article/3/1) (with [arts. 6(2)](https://www.legislation.gov.uk/uksi/2023/834/article/6/2), [18](https://www.legislation.gov.uk/uksi/2023/834/article/18), [Sch. 11 paras. 5](https://www.legislation.gov.uk/uksi/2023/834/schedule/11/paragraph/5), [30](https://www.legislation.gov.uk/uksi/2023/834/schedule/11/paragraph/30))
+[^c-20ff2c6542bf582a9bc17f2aaaf6d5b9]: Modification: S. 33(1)(f) excluded in part (4.8.2023) by [The A303 (Amesbury to Berwick Down) Development Consent Order 2023 (S.I. 2023/834)](https://www.legislation.gov.uk/uksi/2023/834), [arts. 1](https://www.legislation.gov.uk/uksi/2023/834/article/1), [3(1)](https://www.legislation.gov.uk/uksi/2023/834/article/3/1) (with [arts. 6(2)](https://www.legislation.gov.uk/uksi/2023/834/article/6/2), [18](https://www.legislation.gov.uk/uksi/2023/834/article/18), [Sch. 11 paras. 5](https://www.legislation.gov.uk/uksi/2023/834/schedule/11/paragraph/5), [30](https://www.legislation.gov.uk/uksi/2023/834/schedule/11/paragraph/30))
 
-[^key-08990944129817bdff9c001f93dae9f8]: Textual amendment: S. 33(5)-(10) inserted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 131(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/131/2), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2) (with [s. 144](https://www.legislation.gov.uk/ukpga/2011/20/section/144)); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7(a)](https://www.legislation.gov.uk/uksi/2012/628/article/7/a)
+[^c-08990944129817bdff9c001f93dae9f8]: Textual amendment: S. 33(5)-(10) inserted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 131(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/131/2), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2) (with [s. 144](https://www.legislation.gov.uk/ukpga/2011/20/section/144)); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7(a)](https://www.legislation.gov.uk/uksi/2012/628/article/7/a)

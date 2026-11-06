@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Ballot for imposition and certain variations of a business rate supplement[^key-045580e178c1d6517e73ba245061f454]
+## 68. Ballot for imposition and certain variations of a business rate supplement[^c-045580e178c1d6517e73ba245061f454]
 
 *Extent: E+W*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-045580e178c1d6517e73ba245061f454]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2011/20/section/68) in force at 15.1.2012 for E. by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 3(a)](https://www.legislation.gov.uk/uksi/2012/57/article/3/a)
+[^c-045580e178c1d6517e73ba245061f454]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2011/20/section/68) in force at 15.1.2012 for E. by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 3(a)](https://www.legislation.gov.uk/uksi/2012/57/article/3/a)

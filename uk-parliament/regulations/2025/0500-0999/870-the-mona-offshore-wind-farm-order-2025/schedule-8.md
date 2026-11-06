@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 8 — Land in which only new rights etc. may be acquired[^key-7fa51b57b4ab5412cc46eb456b4133fc]
+## SCHEDULE 8 — Land in which only new rights etc. may be acquired[^c-7fa51b57b4ab5412cc46eb456b4133fc]
 
 *Extent: E+W*
 
-Article 21[^key-95b11ff4a2bd6bd2b4791b59527e4fb0]
+Article 21[^c-95b11ff4a2bd6bd2b4791b59527e4fb0]
 
-[^key-7fa51b57b4ab5412cc46eb456b4133fc]
+[^c-7fa51b57b4ab5412cc46eb456b4133fc]
 
 In the County of Conwy:
 
@@ -34,7 +34,7 @@ In the County of Conwy:
 | 03-038; 03-046; 03-048; 03-051; 03-053; 03-054; 03-056; 03-059; 03-064; 04-066; 04-072; 04-075; 04-077; 04-079; 05-081; 05-085; 05-086; 05-089; 05-090; 05-092; 06-107; 07-116; 07-128; 07-134; 08-147; 08-148 | Cable corridor access rights<br>Rights for the purposes of the construction, installation, operation, maintenance and decommissioning of the authorised project to—<br>- (a) pass and re-pass with or without vehicles, plant, machinery, apparatus, equipment and materials for the purposes of the authorised project, the inspection, testing, maintenance, renewal, upgrading, replacement and removal of the cables and connection into any adjacent cables and associated works, to take plant and equipment on to adjoining land and make such investigations in or on the Land which is ancillary for the purposes of exercise of the rights;<br>- (b) to construct, use, maintain and improve a permanent means of access including visibility splays, and retain, maintain, straighten, widen, repair, alter, upgrade and use existing access routes for the purposes of accessing the land, adjoining land and the highway;<br>- (c) construct, lay down, use and remove temporary access roads including any necessary hard standing and other surface materials including (but not limited to) matting, aggregate, trackway, stone, tarmacadam, terram, temporary bridging, culverting or diversion of water courses and drains during any period during which construction, maintenance, repair, renewal or decommissioning is being carried out;<br>- (d) erect temporary bridges and supporting or protective structures for the purposes of access to adjoining land;<br>- (e) place and use plant, machinery, structures and temporary structures within the land, and to erect temporary signage and provide measures for the benefit of public and personnel safety;<br>- (f) fell, lop, cut, coppice wood, uproot trees or hedges or shrubs which now or hereafter may be present on the land for the purpose of enabling the right to pass and re-pass to adjoining land;<br>- (g) repair, improve, renew, remove, relocate and plant trees, woodland, shrubs, hedgerows, seeding and other ecological measures together with the right to maintain, inspect and replant such trees, shrubs and landscaping;<br>- (h) erect and remove temporary fencing, gates, walls, barriers or other means of enclosure; and<br>- (i) lay out temporary paths and bridleways for public use as temporary diversions for public rights of way which are interfered with during any period in which construction, maintenance, repair or renewal decommissioning is being carried out. |
 | 03-039; 03-040; 03-041; 03-042; 03-043; 03-044; 07-112; 07-113; 07-114; 07-115; 07-118; 07-119; 07-121; 07-122; 07-123; 07-124; 07-130; 07-131; 07-132; 08-141; 08-142; 08-143; 08-144; 08-145; 08-149 | Hedgerow enhancement rights and restrictive covenants<br>1\. Hedgerow enhancement rights<br>Rights for the purposes of the construction, installation, operation, maintenance and decommissioning of the authorised project to—<br>- (a) pass and re-pass with or without vehicles, plant, machinery, apparatus, equipment and materials for the purposes of the authorised project;<br>- (b) to use, maintain and improve a permanent means of access and retain, maintain, straighten, widen, repair, alter, upgrade and use existing access routes for the purposes of accessing the landscaping and mitigation land, adjoining land and highway;<br>- (c) place and use plant, machinery, structures and temporary structures within the land and to erect temporary signage and provide measures for the benefit of the public and personnel safety;<br>- (d) fell, lop, cut or remove or coppice wood, uproot trees or hedges or shrubs which now or hereafter may be standing on the land for the purpose of enabling the right to pass and re-pass to adjoining land;<br>- (e) install, execute, implement, retain, repair, improve, renew, remove, relocate and plant trees, woodland, shrubs, hedgerows, seeding and other hedgerow enhancement works together with the right to maintain, inspect and replant such trees, shrubs and landscaping; and<br>- (f) the installation of temporary barriers for the protection of fauna.<br>2\. Restrictive covenants<br>A restrictive covenant over the land for the benefit of the remainder of the Order land to prevent any activity which would in the reasonable opinion of the undertaker result in the disturbance of the hedgerow enhancement works without the prior written consent of the undertaker or as authorised by a planning permission or consent granted over the land. |
 
-[^key-7fa51b57b4ab5412cc46eb456b4133fc]
+[^c-7fa51b57b4ab5412cc46eb456b4133fc]
 
 In the County of Denbighshire:
 
@@ -51,6 +51,6 @@ In the County of Denbighshire:
 
 ## Annotations
 
-[^key-7fa51b57b4ab5412cc46eb456b4133fc]: Commencement: Sch. 8 in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)
+[^c-7fa51b57b4ab5412cc46eb456b4133fc]: Commencement: Sch. 8 in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)
 
-[^key-95b11ff4a2bd6bd2b4791b59527e4fb0]: Textual amendment: Word in [Sch. 8](https://www.legislation.gov.uk/uksi/2025/870/schedule/8) substituted (24.10.2025) by [The Mona Offshore Wind Farm (Correction) Order 2025 (S.I. 2025/1123)](https://www.legislation.gov.uk/uksi/2025/1123), [art. 1](https://www.legislation.gov.uk/uksi/2025/1123/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1123/schedule)
+[^c-95b11ff4a2bd6bd2b4791b59527e4fb0]: Textual amendment: Word in [Sch. 8](https://www.legislation.gov.uk/uksi/2025/870/schedule/8) substituted (24.10.2025) by [The Mona Offshore Wind Farm (Correction) Order 2025 (S.I. 2025/1123)](https://www.legislation.gov.uk/uksi/2025/1123), [art. 1](https://www.legislation.gov.uk/uksi/2025/1123/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1123/schedule)

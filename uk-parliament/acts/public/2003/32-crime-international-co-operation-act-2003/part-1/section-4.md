@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Service of process otherwise than by post[^key-c9004cd72194aeb8e34f86f0b97733f5]
+## 4. Service of process otherwise than by post[^c-c9004cd72194aeb8e34f86f0b97733f5]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c9004cd72194aeb8e34f86f0b97733f5]: Commencement: S. 4 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)
+[^c-c9004cd72194aeb8e34f86f0b97733f5]: Commencement: S. 4 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 68. Codes of practice[^key-4eb92f7355e655cb0a57893c02aed8f0]
+## 68. Codes of practice[^c-4eb92f7355e655cb0a57893c02aed8f0]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4eb92f7355e655cb0a57893c02aed8f0]: Commencement: [S. 68](https://www.legislation.gov.uk/mwa/2011/1/section/68) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(i)(iii)](https://www.legislation.gov.uk/wsi/2012/969/article/2/i/iii)
+[^c-4eb92f7355e655cb0a57893c02aed8f0]: Commencement: [S. 68](https://www.legislation.gov.uk/mwa/2011/1/section/68) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(i)(iii)](https://www.legislation.gov.uk/wsi/2012/969/article/2/i/iii)

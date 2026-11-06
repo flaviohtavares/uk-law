@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 87. Work notices[^key-f4b82402da8b9a5b4d84c39fb2ab8243]
+## 87. Work notices[^c-f4b82402da8b9a5b4d84c39fb2ab8243]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ In section 30(1) of the 2006 Act (work which may be required under a work notice
 
 ## Annotations
 
-[^key-f4b82402da8b9a5b4d84c39fb2ab8243]: Commencement: [S. 87](https://www.legislation.gov.uk/asp/2014/14/section/87) in force at 1.4.2015 by [S.S.I. 2015/122](https://www.legislation.gov.uk/ssi/2015/122), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/122/article/2/1)[(2)(b)](https://www.legislation.gov.uk/ssi/2015/122/article/2/2/b)
+[^c-f4b82402da8b9a5b4d84c39fb2ab8243]: Commencement: [S. 87](https://www.legislation.gov.uk/asp/2014/14/section/87) in force at 1.4.2015 by [S.S.I. 2015/122](https://www.legislation.gov.uk/ssi/2015/122), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/122/article/2/1)[(2)(b)](https://www.legislation.gov.uk/ssi/2015/122/article/2/2/b)

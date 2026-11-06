@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45A. Specified requirements under section 5 of the Control of Pollution (Amendment) Act 1989[^key-8fc8b3e91f6525f8e009d25262434587]
+## 45A. Specified requirements under section 5 of the Control of Pollution (Amendment) Act 1989[^c-8fc8b3e91f6525f8e009d25262434587]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8fc8b3e91f6525f8e009d25262434587]: Textual amendment: [Pt. 10A](https://www.legislation.gov.uk/uksi/2011/988/part/10A) inserted (6.4.2014) by [The Waste (England and Wales) (Amendment) Regulations 2014 (S.I. 2014/656)](https://www.legislation.gov.uk/uksi/2014/656), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/656/regulation/1/1/b), [7](https://www.legislation.gov.uk/uksi/2014/656/regulation/7)
+[^c-8fc8b3e91f6525f8e009d25262434587]: Textual amendment: [Pt. 10A](https://www.legislation.gov.uk/uksi/2011/988/part/10A) inserted (6.4.2014) by [The Waste (England and Wales) (Amendment) Regulations 2014 (S.I. 2014/656)](https://www.legislation.gov.uk/uksi/2014/656), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/656/regulation/1/1/b), [7](https://www.legislation.gov.uk/uksi/2014/656/regulation/7)

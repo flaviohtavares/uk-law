@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 87. Calculation of income and capital of students[^key-8dea69025d61c1d8419d49246d77d835]
+## 87. Calculation of income and capital of students[^c-8dea69025d61c1d8419d49246d77d835]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ The provisions of Chapters 2 to 7 (income and capital) are to have effect in rel
 
 ## Annotations
 
-[^key-8dea69025d61c1d8419d49246d77d835]: Commencement: [Reg. 87](https://www.legislation.gov.uk/nisr/2008/280/regulation/87) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-8dea69025d61c1d8419d49246d77d835]: Commencement: [Reg. 87](https://www.legislation.gov.uk/nisr/2008/280/regulation/87) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)

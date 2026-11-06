@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 3 — Calculation of Charges for Veterinary Checks[^key-f6feb52e9637b816b03afb30b2a07ffc]
+## SCHEDULE 3 — Calculation of Charges for Veterinary Checks[^c-f6feb52e9637b816b03afb30b2a07ffc]
 
 *Extent: E+W*
 
@@ -24,36 +24,36 @@ summary: ''
 
 Regulations 54, 55 and 56
 
-### PART 1 — COSTS COVERED BY THE CHARGES[^key-f6feb52e9637b816b03afb30b2a07ffc]
+### PART 1 — COSTS COVERED BY THE CHARGES[^c-f6feb52e9637b816b03afb30b2a07ffc]
 
-**1.**[^key-f6feb52e9637b816b03afb30b2a07ffc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-f6feb52e9637b816b03afb30b2a07ffc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-f6feb52e9637b816b03afb30b2a07ffc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-f6feb52e9637b816b03afb30b2a07ffc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — CONSIGNMENTS FROM NEW ZEALAND[^key-f6feb52e9637b816b03afb30b2a07ffc]
+### PART II — CONSIGNMENTS FROM NEW ZEALAND[^c-f6feb52e9637b816b03afb30b2a07ffc]
 
-[^key-f6feb52e9637b816b03afb30b2a07ffc]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### PART III — MEAT AND MEAT PRODUCTS[^key-f6feb52e9637b816b03afb30b2a07ffc]
-
-[^key-f6feb52e9637b816b03afb30b2a07ffc]
+[^c-f6feb52e9637b816b03afb30b2a07ffc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART IV — FISHERY PRODUCTS[^key-f6feb52e9637b816b03afb30b2a07ffc]
+### PART III — MEAT AND MEAT PRODUCTS[^c-f6feb52e9637b816b03afb30b2a07ffc]
 
-[^key-f6feb52e9637b816b03afb30b2a07ffc]
+[^c-f6feb52e9637b816b03afb30b2a07ffc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART V — ALL OTHER PRODUCTS[^key-f6feb52e9637b816b03afb30b2a07ffc]
+### PART IV — FISHERY PRODUCTS[^c-f6feb52e9637b816b03afb30b2a07ffc]
 
-[^key-f6feb52e9637b816b03afb30b2a07ffc]
+[^c-f6feb52e9637b816b03afb30b2a07ffc]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART V — ALL OTHER PRODUCTS[^c-f6feb52e9637b816b03afb30b2a07ffc]
+
+[^c-f6feb52e9637b816b03afb30b2a07ffc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f6feb52e9637b816b03afb30b2a07ffc]: Textual amendment: Regulations revoked (19.10.2011) by [The Trade in Animals and Related Products (Wales) Regulations 2011 (S.I. 2011/2379)](https://www.legislation.gov.uk/wsi/2011/2379), [regs. 1](https://www.legislation.gov.uk/wsi/2011/2379/regulation/1), [43(1)(e)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/43/1/e)
+[^c-f6feb52e9637b816b03afb30b2a07ffc]: Textual amendment: Regulations revoked (19.10.2011) by [The Trade in Animals and Related Products (Wales) Regulations 2011 (S.I. 2011/2379)](https://www.legislation.gov.uk/wsi/2011/2379), [regs. 1](https://www.legislation.gov.uk/wsi/2011/2379/regulation/1), [43(1)(e)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/43/1/e)

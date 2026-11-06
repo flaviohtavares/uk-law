@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 46. Maximum housing benefit[^key-c2ccd5646b08f57601e494ea44a0f21e]
+## 46. Maximum housing benefit[^c-c2ccd5646b08f57601e494ea44a0f21e]
 
 *Extent: E+W+S*
 
@@ -36,6 +36,6 @@ and shall be calculated on a weekly basis in accordance with regulation 56 (calc
 
 ## Annotations
 
-[^key-c2ccd5646b08f57601e494ea44a0f21e]: Commencement: [Reg. 46](https://www.legislation.gov.uk/uksi/1988/1890/regulation/46) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
+[^c-c2ccd5646b08f57601e494ea44a0f21e]: Commencement: [Reg. 46](https://www.legislation.gov.uk/uksi/1988/1890/regulation/46) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
 
 [^f00056]: Footnote: Schedule 2, paragraph 4A was inserted in the 1987 Act by the Local Government Finance Act [1988 (c. 41)](https://www.legislation.gov.uk/ukpga/1988/41), Schedule 12, paragraph 36(6).

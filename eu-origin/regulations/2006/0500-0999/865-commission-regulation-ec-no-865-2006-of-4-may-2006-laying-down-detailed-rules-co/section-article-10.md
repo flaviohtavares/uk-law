@@ -38,11 +38,11 @@ As regards caviar of sturgeon species ( *Acipenseriformes* spp.), re-export cert
 
 3a. The period of validity of sample collection certificates issued in accordance with Article 44a shall not exceed six months. The date of expiry of a sample collection certificate shall not be later than that of the ATA carnet accompanying it.
 
-(3b.)[^key-ca0d4e77227b76a27c614d3bc6731dbc] The period of validity of a certificate issued by the management authority under Article 60 shall not exceed five years but the management authority may re-issue the certificate prior to the certificate’s date of expiry for a further period not exceeding five years.
+(3b.)[^c-ca0d4e77227b76a27c614d3bc6731dbc] The period of validity of a certificate issued by the management authority under Article 60 shall not exceed five years but the management authority may re-issue the certificate prior to the certificate’s date of expiry for a further period not exceeding five years.
 
 (3c.) A certificate issued under Article 60 prior to 23rd June 2026 that does not specify an expiry date expires on 22nd June 2031.
 
-4.[^c000004] After their expiry, the permits and certificates referred to in paragraphs 1, 2, 3 , 3a and 3b[^key-59480c6ad0d213f28df77cb699b09503] shall be considered as void.
+4.[^c000004] After their expiry, the permits and certificates referred to in paragraphs 1, 2, 3 , 3a and 3b[^c-59480c6ad0d213f28df77cb699b09503] shall be considered as void.
 
 5. Travelling exhibition certificates, personal ownership certificates or musical instrument certificates shall cease to be valid if the specimen is sold, lost, destroyed or stolen, or if ownership of the specimen is otherwise transferred, or, in the case of a live specimen, if it has died, escaped or been released to the wild.
 
@@ -54,8 +54,8 @@ As regards caviar of sturgeon species ( *Acipenseriformes* spp.), re-export cert
 
 [^c000005]: Textual amendment: Inserted by [Commission Regulation (EC) No 100/2008 of 4 February 2008 amending, as regards sample collections and certain formalities relating to the trade in species of wild fauna and flora, Regulation (EC) No 865/2006 laying down detailed rules for the implementation of Council Regulation (EC) No 338/97](https://www.legislation.gov.uk/eur/2008/100).
 
-[^key-ca0d4e77227b76a27c614d3bc6731dbc]: Textual amendment: Art. 10(3b)(3c) inserted (23.6.2026) by [The Control of Trade in Endangered Species (Amendment and Revocation) Regulations 2026 (S.I. 2026/627)](https://www.legislation.gov.uk/uksi/2026/627), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/627/regulation/1/2), [3(4)(a)](https://www.legislation.gov.uk/uksi/2026/627/regulation/3/4/a)
+[^c-ca0d4e77227b76a27c614d3bc6731dbc]: Textual amendment: Art. 10(3b)(3c) inserted (23.6.2026) by [The Control of Trade in Endangered Species (Amendment and Revocation) Regulations 2026 (S.I. 2026/627)](https://www.legislation.gov.uk/uksi/2026/627), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/627/regulation/1/2), [3(4)(a)](https://www.legislation.gov.uk/uksi/2026/627/regulation/3/4/a)
 
 [^c000004]: Textual amendment: Substituted by [Commission Regulation (EC) No 100/2008 of 4 February 2008 amending, as regards sample collections and certain formalities relating to the trade in species of wild fauna and flora, Regulation (EC) No 865/2006 laying down detailed rules for the implementation of Council Regulation (EC) No 338/97](https://www.legislation.gov.uk/eur/2008/100).
 
-[^key-59480c6ad0d213f28df77cb699b09503]: Textual amendment: Words in Art. 10(4) substituted (23.6.2026) by [The Control of Trade in Endangered Species (Amendment and Revocation) Regulations 2026 (S.I. 2026/627)](https://www.legislation.gov.uk/uksi/2026/627), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/627/regulation/1/2), [3(4)(b)](https://www.legislation.gov.uk/uksi/2026/627/regulation/3/4/b)
+[^c-59480c6ad0d213f28df77cb699b09503]: Textual amendment: Words in Art. 10(4) substituted (23.6.2026) by [The Control of Trade in Endangered Species (Amendment and Revocation) Regulations 2026 (S.I. 2026/627)](https://www.legislation.gov.uk/uksi/2026/627), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/627/regulation/1/2), [3(4)(b)](https://www.legislation.gov.uk/uksi/2026/627/regulation/3/4/b)

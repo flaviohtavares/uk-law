@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 69. Complaints made before 1st April 2019 not concluded by that date[^key-00ff1c74968ed4c9b70e59b31a9d23bc][^key-d5f19ef1d2d5d35f9e807af8b2ea34d8]
+## 69. Complaints made before 1st April 2019 not concluded by that date[^c-00ff1c74968ed4c9b70e59b31a9d23bc][^c-d5f19ef1d2d5d35f9e807af8b2ea34d8]
 
 *Extent: E+W+S*
 
@@ -47,8 +47,8 @@ summary: ''
 
 ## Annotations
 
-[^key-00ff1c74968ed4c9b70e59b31a9d23bc]: Commencement: Art. 69 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
+[^c-00ff1c74968ed4c9b70e59b31a9d23bc]: Commencement: Art. 69 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
 
-[^key-d5f19ef1d2d5d35f9e807af8b2ea34d8]: Commencement: [Art. 69](https://www.legislation.gov.uk/uksi/2018/1253/article/69) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
+[^c-d5f19ef1d2d5d35f9e807af8b2ea34d8]: Commencement: [Art. 69](https://www.legislation.gov.uk/uksi/2018/1253/article/69) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
 
 [^f00105]: Footnote: Paragraph 13 of Schedule 17 was amended by the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), section 39 and by [S.I. 2009/209](https://www.legislation.gov.uk/uksi/2009/209), [2011/99](https://www.legislation.gov.uk/uksi/2011/99), [2015/542](https://www.legislation.gov.uk/uksi/2015/542), and [2017/752](https://www.legislation.gov.uk/uksi/2017/752).

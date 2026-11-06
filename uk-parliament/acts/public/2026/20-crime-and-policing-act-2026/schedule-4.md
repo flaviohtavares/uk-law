@@ -24,7 +24,7 @@ summary: ''
 
 Section 19
 
-### 1. Introduction[^key-8e5ec0d453de3e276542f644a16a3d44]
+### 1. Introduction[^c-8e5ec0d453de3e276542f644a16a3d44]
 
 In this Schedule—
 
@@ -36,7 +36,7 @@ In this Schedule—
   - (a) in relation to a penalty notice under section 19, means the service provider to which the notice is to be given;
   - (b) in relation to a penalty notice under section 24, means the service provider to which, or the content manager to whom, the notice is to be given.
 
-### 2. Notice of intent to issue penalty[^key-cafce1dd2b4ac0f9ec8fa58fb8b8d544]
+### 2. Notice of intent to issue penalty[^c-cafce1dd2b4ac0f9ec8fa58fb8b8d544]
 
 (1) The relevant officer may give a penalty notice only after—
 
@@ -52,7 +52,7 @@ In this Schedule—
 
 (3) The period specified under sub-paragraph (2)(c) must be at least 28 days beginning with the day on which the notice of intent is given.
 
-### 3. Contents of a penalty notice[^key-99fadcffbee411b03a975827974f1409]
+### 3. Contents of a penalty notice[^c-99fadcffbee411b03a975827974f1409]
 
 (1) A penalty notice must—
 
@@ -64,11 +64,11 @@ In this Schedule—
 
 (2) The period specified under sub-paragraph (1)(c) must be at least 28 days beginning with the day on which the penalty notice is given.
 
-### 4. Withdrawal of notice of intent or penalty notice[^key-0315f23094ec08b67f87167a57565705]
+### 4. Withdrawal of notice of intent or penalty notice[^c-0315f23094ec08b67f87167a57565705]
 
 The relevant officer may at any time withdraw a notice of intent or penalty notice by giving notice to that effect to the respondent.
 
-### 5. Excuse for non-compliance with content removal notice requirements[^key-5c6cabe4d67310c19cdb3df597524631]
+### 5. Excuse for non-compliance with content removal notice requirements[^c-5c6cabe4d67310c19cdb3df597524631]
 
 (1) This paragraph applies where a penalty notice is given under section 24.
 
@@ -76,7 +76,7 @@ The relevant officer may at any time withdraw a notice of intent or penalty noti
 
 (3) A penalty notice under section 24 (or a notice of intent) may be given without the relevant officer having established whether sub-paragraph (2) applies in respect of the respondent.
 
-### 6. Appeal[^key-e3ab8df6fa35f558a431ca0ea93b56d5]
+### 6. Appeal[^c-e3ab8df6fa35f558a431ca0ea93b56d5]
 
 (1) The respondent may appeal to the court against a decision to give a penalty notice.
 
@@ -113,7 +113,7 @@ The relevant officer may at any time withdraw a notice of intent or penalty noti
   - (i) a content manager who is habitually resident in Northern Ireland, or
   - (ii) a service provider where the provider’s registered office, or principal office in the United Kingdom, is in Northern Ireland.
 
-### 7. Enforcement etc[^key-535cb8ba9f14068da40dbc195ed74c23]
+### 7. Enforcement etc[^c-535cb8ba9f14068da40dbc195ed74c23]
 
 (1) A sum payable as a penalty under section 19 may be recovered as a debt due—
 
@@ -129,16 +129,16 @@ The relevant officer may at any time withdraw a notice of intent or penalty noti
 
 ## Annotations
 
-[^key-8e5ec0d453de3e276542f644a16a3d44]: Commencement: Sch. 4 para. 1 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-8e5ec0d453de3e276542f644a16a3d44]: Commencement: Sch. 4 para. 1 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-cafce1dd2b4ac0f9ec8fa58fb8b8d544]: Commencement: Sch. 4 para. 2 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-cafce1dd2b4ac0f9ec8fa58fb8b8d544]: Commencement: Sch. 4 para. 2 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-99fadcffbee411b03a975827974f1409]: Commencement: Sch. 4 para. 3 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-99fadcffbee411b03a975827974f1409]: Commencement: Sch. 4 para. 3 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-0315f23094ec08b67f87167a57565705]: Commencement: Sch. 4 para. 4 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-0315f23094ec08b67f87167a57565705]: Commencement: Sch. 4 para. 4 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-5c6cabe4d67310c19cdb3df597524631]: Commencement: Sch. 4 para. 5 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-5c6cabe4d67310c19cdb3df597524631]: Commencement: Sch. 4 para. 5 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-e3ab8df6fa35f558a431ca0ea93b56d5]: Commencement: Sch. 4 para. 6 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-e3ab8df6fa35f558a431ca0ea93b56d5]: Commencement: Sch. 4 para. 6 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-535cb8ba9f14068da40dbc195ed74c23]: Commencement: Sch. 4 para. 7 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-535cb8ba9f14068da40dbc195ed74c23]: Commencement: Sch. 4 para. 7 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

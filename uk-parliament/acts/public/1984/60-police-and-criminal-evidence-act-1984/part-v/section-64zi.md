@@ -32,7 +32,7 @@ summary: ''
 ((not yet in force: 3)) *(not yet in force: For the purposes of those sections, a person is to be treated as having been convicted of an offence if—)*
 
 - ((not yet in force: a)) *(not yet in force: he has been given a caution in respect of the offence which, at the time of the caution, he has admitted, or)*
-- ((not yet in force: b))[^key-2ba77521f521c60776ce0657f36ff627] *(not yet in force: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .)*
+- ((not yet in force: b))[^c-2ba77521f521c60776ce0657f36ff627] *(not yet in force: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .)*
 
 ((not yet in force: 4)) *(not yet in force: If a person is convicted of more than one offence arising out of a single course of action, those convictions are to be treated as a single conviction for the purpose of any provision of those sections relating to an exempt, first or subsequent conviction.)*
 
@@ -52,4 +52,4 @@ summary: ''
 
 [^c20929631]: Textual amendment: Ss. 64ZA-64ZN inserted (prosp.) by [Crime and Security Act 2010 (c. 17)](https://www.legislation.gov.uk/ukpga/2010/17), [ss. 14(2)](https://www.legislation.gov.uk/ukpga/2010/17/section/14/2), [59](https://www.legislation.gov.uk/ukpga/2010/17/section/59)
 
-[^key-2ba77521f521c60776ce0657f36ff627]: Textual amendment: S. 64ZI(3)(b) omitted (8.4.2013) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 24 para. 10](https://www.legislation.gov.uk/ukpga/2012/10/schedule/24/paragraph/10) (with [s. 135(4)](https://www.legislation.gov.uk/ukpga/2012/10/section/135/4)); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 4(f)](https://www.legislation.gov.uk/uksi/2013/453/article/4/f)
+[^c-2ba77521f521c60776ce0657f36ff627]: Textual amendment: S. 64ZI(3)(b) omitted (8.4.2013) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 24 para. 10](https://www.legislation.gov.uk/ukpga/2012/10/schedule/24/paragraph/10) (with [s. 135(4)](https://www.legislation.gov.uk/ukpga/2012/10/section/135/4)); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 4(f)](https://www.legislation.gov.uk/uksi/2013/453/article/4/f)

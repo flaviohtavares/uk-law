@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 144E. Exceptions from sections 144C and 144D etc[^key-fbbee4ab274d91651f671f3842382e6e][^key-509780283d17eb4285c791cbe4a7e092]
+## 144E. Exceptions from sections 144C and 144D etc[^c-fbbee4ab274d91651f671f3842382e6e][^c-509780283d17eb4285c791cbe4a7e092]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,6 +54,6 @@ but, if it makes rules making such provision, the PRA must publish a statement o
 
 ## Annotations
 
-[^key-fbbee4ab274d91651f671f3842382e6e]: Modification: [S. 144E](https://www.legislation.gov.uk/ukpga/2000/8/section/144E) restricted in part (13.3.2023 at 8.00 a.m.) by [The Amendments of the Law (Resolution of Silicon Valley Bank UK Limited) Order 2023 (S.I. 2023/319)](https://www.legislation.gov.uk/uksi/2023/319), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/319/article/1/2), [4(1)](https://www.legislation.gov.uk/uksi/2023/319/article/4/1)
+[^c-fbbee4ab274d91651f671f3842382e6e]: Modification: [S. 144E](https://www.legislation.gov.uk/ukpga/2000/8/section/144E) restricted in part (13.3.2023 at 8.00 a.m.) by [The Amendments of the Law (Resolution of Silicon Valley Bank UK Limited) Order 2023 (S.I. 2023/319)](https://www.legislation.gov.uk/uksi/2023/319), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/319/article/1/2), [4(1)](https://www.legislation.gov.uk/uksi/2023/319/article/4/1)
 
-[^key-509780283d17eb4285c791cbe4a7e092]: Modification: [S. 144E](https://www.legislation.gov.uk/ukpga/2000/8/section/144E) modified (temp.) (22.8.2023) by [The Financial Services and Markets Act 2023 (Commencement No. 2 and Transitional Provisions) Regulations 2023 (S.I. 2023/936)](https://www.legislation.gov.uk/uksi/2023/936), [reg. 5](https://www.legislation.gov.uk/uksi/2023/936/regulation/5)
+[^c-509780283d17eb4285c791cbe4a7e092]: Modification: [S. 144E](https://www.legislation.gov.uk/ukpga/2000/8/section/144E) modified (temp.) (22.8.2023) by [The Financial Services and Markets Act 2023 (Commencement No. 2 and Transitional Provisions) Regulations 2023 (S.I. 2023/936)](https://www.legislation.gov.uk/uksi/2023/936), [reg. 5](https://www.legislation.gov.uk/uksi/2023/936/regulation/5)

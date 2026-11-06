@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Special advisers code[^key-c65e9cf2f7f41bccb99caec39681b08d]
+## 8. Special advisers code[^c-c65e9cf2f7f41bccb99caec39681b08d]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c65e9cf2f7f41bccb99caec39681b08d]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2010/25/section/8) in force at 11.11.2010 by [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/a)
+[^c-c65e9cf2f7f41bccb99caec39681b08d]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2010/25/section/8) in force at 11.11.2010 by [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/a)

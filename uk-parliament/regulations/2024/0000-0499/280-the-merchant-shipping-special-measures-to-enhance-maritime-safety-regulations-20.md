@@ -46,17 +46,17 @@ Coming into force
 
 The Secretary of State, after consulting the persons referred to in section 86(4) of the Merchant Shipping Act 1995[^f00001], and in exercise of the powers conferred by sections 85(1), (3)(a), (c), (d), (o), (p) and (q), (5) to (7), 86(1)(a), (b), (c) and (d), 302(1) and 306A of that Act and article 2 of the Merchant Shipping (Control of Pollution) (SOLAS) Order 1998[^f00002], and with the consent of the Treasury, makes the following Regulations.
 
-## 1. Citation, commencement and extent[^key-733417816f6fa568a451de4b4c6e6494]
+## 1. Citation, commencement and extent[^c-733417816f6fa568a451de4b4c6e6494]
 
 (1) These Regulations may be cited as the Merchant Shipping (Special Measures to Enhance Maritime Safety) Regulations 2024 and come into force on 2nd April 2024.
 
 (2) These Regulations extend to England and Wales, Scotland and Northern Ireland.
 
-## 2. Amendment of regulations[^key-33072dd7b49c6105cde57c3b06548ece]
+## 2. Amendment of regulations[^c-33072dd7b49c6105cde57c3b06548ece]
 
 The amendments listed in the Schedule have effect.
 
-## 3. Interpretation[^key-2e39c8bf58690064489f2d80bfc664fa]
+## 3. Interpretation[^c-2e39c8bf58690064489f2d80bfc664fa]
 
 (1) In these Regulations—
 
@@ -83,7 +83,7 @@ The amendments listed in the Schedule have effect.
 
 (2) For the purposes of these Regulations, in circumstances where the Company is also the owner of a ship, any obligation placed on both the Company and the owner is placed on the Company alone.
 
-## 4. Application[^key-b7f74b50bac1ee1d1ad134d499f6f8a5]
+## 4. Application[^c-b7f74b50bac1ee1d1ad134d499f6f8a5]
 
 (1) Subject to paragraphs (2), (3) and (5) to (7), these Regulations apply to—
 
@@ -142,7 +142,7 @@ those persons are not to be taken into account for the purpose of determining th
 - “sea”, other than in the definition of “fishing vessel”, includes any estuary or arm of the sea but does not include Category A, B, C or D waters as specified in Merchant Shipping Notice 1837(M) Amendment 2[^f00011] and, for the purposes of this definition, “**Merchant Shipping Notice**” means a notice described as such and issued by the Maritime and Coastguard Agency (an executive agency of the Department for Transport) and includes a reference to any document amending or replacing that notice which is considered by the Secretary of State to be relevant from time to time and is specified in a Merchant Shipping Notice;
 - “**tanker**” means a cargo ship constructed or adapted for the carriage in bulk of liquid cargoes of an inflammable nature.
 
-## 5. Ambulatory reference[^key-bddfb4a1f978688425a27a11d6e2ea13]
+## 5. Ambulatory reference[^c-bddfb4a1f978688425a27a11d6e2ea13]
 
 (1) In these Regulations, any reference to Chapter IX, Chapter XI-1 or Part A of the ISPS Code is to be construed—
 
@@ -153,7 +153,7 @@ those persons are not to be taken into account for the purpose of determining th
 
 (3) A modification or replacement of Chapter IX, Chapter XI-1 or Part A of the ISPS Code has effect at the time such modification or replacement comes into force in accordance with Article VIII of the Convention.
 
-## 6. Exemptions[^key-5fcdf5ecaa55115f8b707a9d3fb1cf97]
+## 6. Exemptions[^c-5fcdf5ecaa55115f8b707a9d3fb1cf97]
 
 (1) The Secretary of State may exempt from any provision of these Regulations—
 
@@ -178,7 +178,7 @@ those persons are not to be taken into account for the purpose of determining th
 
 (6) Where an exemption is granted subject to safety requirements under paragraph (2), the exemption ceases to have effect if those requirements are not complied with.
 
-## 7. Ship identification number[^key-57008cde956dbd39ad3f1cd3d01c9e53]
+## 7. Ship identification number[^c-57008cde956dbd39ad3f1cd3d01c9e53]
 
 (1) A Company, owner and master must each ensure that a ship to which this regulation applies is not operated unless—
 
@@ -216,7 +216,7 @@ those persons are not to be taken into account for the purpose of determining th
 - (b) received in legible form; and
 - (c) capable of being used for subsequent reference.
 
-## 8. Company and registered owner identification number[^key-ba332aa5063430a199da4700230d63b6]
+## 8. Company and registered owner identification number[^c-ba332aa5063430a199da4700230d63b6]
 
 (1) A Company and owner must each ensure that a ship to which this regulation applies is not operated unless—
 
@@ -227,14 +227,14 @@ those persons are not to be taken into account for the purpose of determining th
 
 - (a) in the case of a United Kingdom ship—
   - (i)
-    - (aa)[^key-383e5c70c46e37b460cd707fdbe8483a] the Document of Compliance and Safety Management Certificate issued under the Merchant Shipping (International Safety Management (ISM) Code) Regulations 2026;
+    - (aa)[^c-383e5c70c46e37b460cd707fdbe8483a] the Document of Compliance and Safety Management Certificate issued under the Merchant Shipping (International Safety Management (ISM) Code) Regulations 2026;
     - (bb) the Domestic Ship Safety Management Certificate issued under regulation 6 of the Merchant Shipping (Domestic Passenger Ships) (Safety Management Code) Regulations 2001[^f00016] (issue of Domestic Ship Safety Management Certificate); and
   - (ii) certificates issued in accordance with section A/19.2 (issue or endorsement of certificate) or A/19.4 (interim certification) of Part A of the ISPS Code; or
 - (b) in the case of a non-United Kingdom ship—
   - (i) the Document of Compliance and Safety Management Certificate issued in accordance with regulation 4 of Chapter IX (certification for the purposes of the International Safety Management Code); and
   - (ii) certificates issued in accordance with section A/19.2 (issue or endorsement of certificate) or A/19.4 (interim certification) of Part A of the ISPS Code.
 
-## 9. Continuous Synopsis Record[^key-4dff1ba72af7fdbac284a82f79ec3723]
+## 9. Continuous Synopsis Record[^c-4dff1ba72af7fdbac284a82f79ec3723]
 
 (1) A Company, owner and master must each ensure that a ship to which this regulation applies is not operated unless the ship has been issued with a Continuous Synopsis Record which—
 
@@ -281,7 +281,7 @@ those persons are not to be taken into account for the purpose of determining th
 - “**Continuous Synopsis Record**” means the document described as such in regulation 5 of Chapter XI-1 (continuous synopsis record) and issued by the State of a ship’s flag administration[^f00020];
 - “**prescribed fee**” means the fee prescribed by the Secretary of State under section 302 of the Merchant Shipping Act 1995[^f00021].
 
-## 10. Offences and penalties[^key-874992ef28a7dfe57c2d99f669852eea]
+## 10. Offences and penalties[^c-874992ef28a7dfe57c2d99f669852eea]
 
 (1) Any contravention of regulation 7(1) or (4) (ship identification number) or regulation 9(1), (2), (3), (5), (7), (10)(a) or (11) (continuous synopsis record) is an offence by—
 
@@ -322,7 +322,7 @@ in each case of non-compliance.
 
 (8) It is a defence for the person charged with an offence under this regulation to prove that the person charged took all reasonable steps to avoid the commission of the offence.
 
-## 11. Detention[^key-22c464142099dcfe29d198e87b179bf6]
+## 11. Detention[^c-22c464142099dcfe29d198e87b179bf6]
 
 (1) For the purposes of this regulation, any reference to “**the Act**” is a reference to the Merchant Shipping Act 1995.
 
@@ -352,7 +352,7 @@ in each case of non-compliance.
 
 (8) If it is not possible to inform the ship’s flag administration in accordance with paragraph (7), the Secretary of State must inform the Consul of the State of the flag administration, or in the absence of a Consul, the nearest diplomatic representative of the State of the flag administration.
 
-## 12. Review of the Regulations[^key-2ff0d3b9fc94b1289359dedfe1cb816b]
+## 12. Review of the Regulations[^c-2ff0d3b9fc94b1289359dedfe1cb816b]
 
 (1) The Secretary of State must from time to time—
 
@@ -398,11 +398,11 @@ Two of the Lord’s Commissioners of His Majesty’s Treasury
 
 Regulation 2
 
-### 1. Amendment of the 2015 Regulations[^key-7c2ba0df320921bd7eddfafedbe674d3]
+### 1. Amendment of the 2015 Regulations[^c-7c2ba0df320921bd7eddfafedbe674d3]
 
 The 2015 Regulations are amended as follows.
 
-### 2.[^key-f47a50c73278cfefe6693827b142d431]
+### 2.[^c-f47a50c73278cfefe6693827b142d431]
 
 In regulation 9 (surveys of cargo ship structure, machinery and equipment), at the end, insert—
 
@@ -424,11 +424,11 @@ In regulation 9 (surveys of cargo ship structure, machinery and equipment), at t
 
 .
 
-### 3. Amendment of the Merchant Shipping (Fees) Regulations 2018[^key-c3f53e5bb099780523d9c86b755e82eb]
+### 3. Amendment of the Merchant Shipping (Fees) Regulations 2018[^c-c3f53e5bb099780523d9c86b755e82eb]
 
 The Merchant Shipping (Fees) Regulations 2018[^f00029] are amended as follows.
 
-### 4.[^key-c4b1dc98286499ebeadcbca01d896aa3]
+### 4.[^c-c4b1dc98286499ebeadcbca01d896aa3]
 
 In Part 1 of Schedule 1 (fees under the Merchant Shipping Act 1995), in the table in paragraph 5 (fees for inspections, etc.)—
 
@@ -475,11 +475,11 @@ An Explanatory Memorandum is published alongside the instrument on www.legislati
 
 [^f00002]: Footnote: [S.I. 1998/1500](https://www.legislation.gov.uk/uksi/1998/1500).
 
-[^key-733417816f6fa568a451de4b4c6e6494]: Commencement: Reg. 1 in force at 2.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/280/regulation/1/1)
+[^c-733417816f6fa568a451de4b4c6e6494]: Commencement: Reg. 1 in force at 2.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/280/regulation/1/1)
 
-[^key-33072dd7b49c6105cde57c3b06548ece]: Commencement: Reg. 2 in force at 2.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/280/regulation/1/1)
+[^c-33072dd7b49c6105cde57c3b06548ece]: Commencement: Reg. 2 in force at 2.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/280/regulation/1/1)
 
-[^key-2e39c8bf58690064489f2d80bfc664fa]: Commencement: Reg. 3 in force at 2.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/280/regulation/1/1)
+[^c-2e39c8bf58690064489f2d80bfc664fa]: Commencement: Reg. 3 in force at 2.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/280/regulation/1/1)
 
 [^f00003]: Footnote: [S.I. 2015/508](https://www.legislation.gov.uk/uksi/2015/508), amended by [S.I. 2018/53](https://www.legislation.gov.uk/uksi/2018/53), [S.I. 2018/1221](https://www.legislation.gov.uk/uksi/2018/1221), [S.I. 2022/41](https://www.legislation.gov.uk/uksi/2022/41), [S.I. 2022/1169](https://www.legislation.gov.uk/uksi/2022/1169) and [S.I. 2022/1219](https://www.legislation.gov.uk/uksi/2022/1219).
 
@@ -491,7 +491,7 @@ An Explanatory Memorandum is published alongside the instrument on www.legislati
 
 [^f00007]: Footnote: The International Code for the Security of Ships and of Port Facilities (ISPS Code) was adopted by Resolution 2 of the Conference of the Contracting Governments to the International Convention for the Safety of Life at Sea, 1974 (SOLAS) on 12th December 2002. Part A of the Code was made mandatory by Chapter XI-2 in the Annex to SOLAS, which was adopted by the same Resolution and came into force on 1st July 2004. Part A was amended by International Maritime Organization (IMO) Resolution MSC.196(80). Resolution 2 can be obtained from the IMO of 4 Albert Embankment, London SE1 7SR or from the Maritime and Coastguard Agency (MCA) of Spring Place, 105 Commercial Road, Southampton, SO15 1EG (telephone 020 3817 2000 and email infoline@mcga.gov.uk), and Resolution MSC.196(80) can be found at https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.196(80).pdf or can be obtained in hard copy from the IMO or the MCA.
 
-[^key-b7f74b50bac1ee1d1ad134d499f6f8a5]: Commencement: Reg. 4 in force at 2.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/280/regulation/1/1)
+[^c-b7f74b50bac1ee1d1ad134d499f6f8a5]: Commencement: Reg. 4 in force at 2.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/280/regulation/1/1)
 
 [^f00008]: Footnote: Regulation 33 in Chapter V of the Convention (safety of navigation) places an obligation on the master to provide assistance to persons in distress at sea and this obligation is implemented in the Merchant Shipping (Safety of Navigation) Regulations 2020 ([S.I. 2020/673](https://www.legislation.gov.uk/uksi/2020/673)).
 
@@ -501,25 +501,25 @@ An Explanatory Memorandum is published alongside the instrument on www.legislati
 
 [^f00011]: Footnote: Merchant Shipping Notice 1837(M) Amendment 2 is available on https://www.gov.uk/government/publications/msn-1837-m-amendment-2-categorisation-of-waters, and in hard copy from the Maritime and Coastguard Agency of Spring Place, 105 Commercial Road, Southampton SO15 1EG (telephone 020 3817 2000 and email infoline@mcga.gov.uk).
 
-[^key-bddfb4a1f978688425a27a11d6e2ea13]: Commencement: Reg. 5 in force at 2.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/280/regulation/1/1)
+[^c-bddfb4a1f978688425a27a11d6e2ea13]: Commencement: Reg. 5 in force at 2.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/280/regulation/1/1)
 
-[^key-5fcdf5ecaa55115f8b707a9d3fb1cf97]: Commencement: Reg. 6 in force at 2.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/280/regulation/1/1)
+[^c-5fcdf5ecaa55115f8b707a9d3fb1cf97]: Commencement: Reg. 6 in force at 2.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/280/regulation/1/1)
 
-[^key-57008cde956dbd39ad3f1cd3d01c9e53]: Commencement: Reg. 7 in force at 2.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/280/regulation/1/1)
+[^c-57008cde956dbd39ad3f1cd3d01c9e53]: Commencement: Reg. 7 in force at 2.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/280/regulation/1/1)
 
 [^f00012]: Footnote: Resolution A.1117(30) contains the IMO ship identification number scheme and revoked Resolution A.1078(28), which contained the previous IMO ship identification number scheme. Resolution A.1117(30) can be obtained in hard copy from the IMO of 4 Albert Embankment, London SE1 7SR or from the Maritime and Coastguard Agency (MCA) of Spring Place, 105 Commercial Road, Southampton, SO15 1EG (telephone 020 3817 2000 and email infoline@mcga.gov.uk), and at https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.1117(30).pdf. The procedure for obtaining a ship identification number is explained in IMO Circular Letter No.1886/Rev.7 dated 28th November 2022, which is also available in hard copy from the IMO and the MCA.
 
 [^f00013]: Footnote: Chapter I was abrogated and replaced by the Protocol to the Convention of 1988 (Cm 5044) (https://treaties.fcdo.gov.uk/awweb/pdfopener?md=1&did=69573) with respect to the parties to the 1988 Protocol.
 
-[^key-ba332aa5063430a199da4700230d63b6]: Commencement: Reg. 8 in force at 2.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/280/regulation/1/1)
+[^c-ba332aa5063430a199da4700230d63b6]: Commencement: Reg. 8 in force at 2.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/280/regulation/1/1)
 
 [^f00014]: Footnote: The IMO Unique Company and Registered Owner Identification Number Scheme was adopted by the Maritime and Safety Committee of the International Maritime Organization (IMO) in Resolution MSC.160(78) and the procedures for its implementation are contained in IMO Circular letter No.2554/Rev.4. Resolution MSC.160(78) and Circular letter No.2554/Rev.4 dated 8th March 2023 can be obtained in hard copy from the IMO of 4 Albert Embankment, London SE1 7SR or from the Maritime and Coastguard Agency (MCA) of Spring Place, 105 Commercial Road, Southampton, SO15 1EG (telephone 020 3817 2000 and email infoline@mcga.gov.uk. Resolution MSC.160(78) is also available at https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.160(78).pdf and https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC%2078-26-Add.2-Corr.1.pdf.
 
-[^key-383e5c70c46e37b460cd707fdbe8483a]: Textual amendment: [Reg. 8(2)(a)(i)(aa)](https://www.legislation.gov.uk/uksi/2024/280/regulation/8/2/a/i/aa) substituted (31.3.2026) by [The Merchant Shipping (International Safety Management (ISM) Code) Regulations 2026 (S.I. 2026/194)](https://www.legislation.gov.uk/uksi/2026/194), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/194/regulation/1/1), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2026/194/schedule/paragraph/4) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/194/regulation/5))
+[^c-383e5c70c46e37b460cd707fdbe8483a]: Textual amendment: [Reg. 8(2)(a)(i)(aa)](https://www.legislation.gov.uk/uksi/2024/280/regulation/8/2/a/i/aa) substituted (31.3.2026) by [The Merchant Shipping (International Safety Management (ISM) Code) Regulations 2026 (S.I. 2026/194)](https://www.legislation.gov.uk/uksi/2026/194), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/194/regulation/1/1), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2026/194/schedule/paragraph/4) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/194/regulation/5))
 
 [^f00016]: Footnote: [S.I. 2001/3209](https://www.legislation.gov.uk/uksi/2001/3209), amended by [S.I. 2010/680](https://www.legislation.gov.uk/uksi/2010/680), [S.I. 2014/1512](https://www.legislation.gov.uk/uksi/2014/1512) and [S.I. 2022/1219](https://www.legislation.gov.uk/uksi/2022/1219).
 
-[^key-4dff1ba72af7fdbac284a82f79ec3723]: Commencement: Reg. 9 in force at 2.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/280/regulation/1/1)
+[^c-4dff1ba72af7fdbac284a82f79ec3723]: Commencement: Reg. 9 in force at 2.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/280/regulation/1/1)
 
 [^f00017]: Footnote: International Maritime Organization (IMO) Resolution A.959(23) was amended by MSC.198(80) and is supplemented by MSC/Circ.1113 (guidance to port State control officers on the non-security related elements of the 2002 SOLAS amendments). These can be obtained in hard copy from the IMO of 4 Albert Embankment, London SE1 7SR or from the Maritime and Coastguard Agency (MCA) of Spring Place, 105 Commercial Road, Southampton, SO15 1EG (telephone 020 3817 2000 and email infoline@mcga.gov.uk), and at https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/AssemblyDocuments/A.959(23).pdf, https://wwwcdn.imo.org/localresources/en/OurWork/Security/Documents/MSC.198(80).pdf and https://wwwcdn.imo.org/localresources/en/OurWork/Security/Documents/MSC.Circ.1113.pdf.
 
@@ -531,9 +531,9 @@ An Explanatory Memorandum is published alongside the instrument on www.legislati
 
 [^f00021]: Footnote: The prescribed fee is found in the Merchant Shipping (Fees) Regulations 2018 ([S.I. 2018/1104](https://www.legislation.gov.uk/uksi/2018/1104)), which were made under section 302 of the Merchant Shipping Act 1995 and the Hovercraft (General) Order 1972 ([S.I. 1972/674](https://www.legislation.gov.uk/uksi/1972/674)).
 
-[^key-874992ef28a7dfe57c2d99f669852eea]: Commencement: Reg. 10 in force at 2.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/280/regulation/1/1)
+[^c-874992ef28a7dfe57c2d99f669852eea]: Commencement: Reg. 10 in force at 2.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/280/regulation/1/1)
 
-[^key-22c464142099dcfe29d198e87b179bf6]: Commencement: Reg. 11 in force at 2.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/280/regulation/1/1)
+[^c-22c464142099dcfe29d198e87b179bf6]: Commencement: Reg. 11 in force at 2.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/280/regulation/1/1)
 
 [^f00022]: Footnote: Section 284 was amended by Schedule 1 to the Merchant Shipping and Maritime Security Act [1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28) and [S.I. 2015/664](https://www.legislation.gov.uk/uksi/2015/664).
 
@@ -541,13 +541,13 @@ An Explanatory Memorandum is published alongside the instrument on www.legislati
 
 [^f00024]: Footnote: Section 95 was amended by Schedule 1 to the Merchant Shipping and Maritime Security Act [1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28).
 
-[^key-2ff0d3b9fc94b1289359dedfe1cb816b]: Commencement: Reg. 12 in force at 2.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/280/regulation/1/1)
+[^c-2ff0d3b9fc94b1289359dedfe1cb816b]: Commencement: Reg. 12 in force at 2.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/280/regulation/1/1)
 
 [^f00025]: Footnote: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26). Section 28(4) was amended by the Advanced Research and Invention Agency Act [2022 (c. 4)](https://www.legislation.gov.uk/ukpga/2022/4), Schedule 3, paragraphs 7 and 11. Section 29(5) was amended by the Retained EU Law (Revocation and Reform) Act [2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), section 18(2) and (3). Section 30(3) was amended by section 19 of the Enterprise Act [2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12) and Schedule 8 to the European Union (Withdrawal) Act [2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-7c2ba0df320921bd7eddfafedbe674d3]: Commencement: Sch. para. 1 in force at 2.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/280/regulation/1/1)
+[^c-7c2ba0df320921bd7eddfafedbe674d3]: Commencement: Sch. para. 1 in force at 2.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/280/regulation/1/1)
 
-[^key-f47a50c73278cfefe6693827b142d431]: Commencement: Sch. para. 2 in force at 2.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/280/regulation/1/1)
+[^c-f47a50c73278cfefe6693827b142d431]: Commencement: Sch. para. 2 in force at 2.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/280/regulation/1/1)
 
 [^f00026]: Footnote: See Merchant Shipping Notice (MSN) 1751 (M+F) Amendment 1 for information on the enhanced programme of inspections in the ESP Code. This Merchant Shipping Notice can be found at www.gov.uk/topic/ships-cargoes/m-notices and is available in hard copy from the Maritime and Coastguard Agency (MCA) of Spring Place, 105 Commercial Road, Southampton, SO15 1EG (telephone 020 3817 2000 and email infoline@mcga.gov.uk).
 
@@ -555,8 +555,8 @@ An Explanatory Memorandum is published alongside the instrument on www.legislati
 
 [^f00028]: Footnote: The International Convention for the Prevention of Pollution from Ships, 1973 (MARPOL) was published in Cmnd 5748. It was modified by the Protocol of 1978 (Cmnd 7347) and amended by the Protocol of 1997 (Cm 4427). MEPC.21(22) amended the Convention to introduce Protocol I, which was amended by MEPC.68(38). Annex I was revised and replaced by IMO Resolution MEPC.117(52), which amended the Annex to the Protocol of 1978 and came into force on 1st January 2007. Annex I was further amended by IMO Resolutions MEPC.141(54), 154(55), 164(56), 186(59), 187(59), 189(60), 216(63), 238(65), 246(66), 248(66), 256(67), 265(68), 266(68), 276(70), 314(74) and 330(76). MARPOL is available in hard copy from the IMO of 4 Albert Embankment, London SE1 7SR. Hard copies of the Command Papers are available for inspection free of charge but by appointment at the Parliamentary Archives, Houses of Parliament, London SW1A 0PW. The IMO Resolutions are also available from the IMO at https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/MEPC.aspx or found on the Foreign, Commonwealth and Development Office treaties database (https://treaties.fcdo.gov.uk/responsive/app/consolidatedSearch).
 
-[^key-c3f53e5bb099780523d9c86b755e82eb]: Commencement: Sch. para. 3 in force at 2.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/280/regulation/1/1)
+[^c-c3f53e5bb099780523d9c86b755e82eb]: Commencement: Sch. para. 3 in force at 2.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/280/regulation/1/1)
 
 [^f00029]: Footnote: [S.I. 2018/1104](https://www.legislation.gov.uk/uksi/2018/1104). There are amendments but none is relevant.
 
-[^key-c4b1dc98286499ebeadcbca01d896aa3]: Commencement: Sch. para. 4 in force at 2.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/280/regulation/1/1)
+[^c-c4b1dc98286499ebeadcbca01d896aa3]: Commencement: Sch. para. 4 in force at 2.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/280/regulation/1/1)

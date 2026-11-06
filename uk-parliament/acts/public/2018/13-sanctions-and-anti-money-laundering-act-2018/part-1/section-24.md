@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Periodic review of certain designations[^key-03ffb9cb1d29959f62fdc294ab5b1079]
+## 24. Periodic review of certain designations[^c-03ffb9cb1d29959f62fdc294ab5b1079]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-03ffb9cb1d29959f62fdc294ab5b1079]: Textual amendment: [S. 24](https://www.legislation.gov.uk/ukpga/2018/13/section/24) omitted (15.3.2022) by virtue of [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [ss. 62(1)(a)](https://www.legislation.gov.uk/ukpga/2022/10/section/62/1/a), [69(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/3)
+[^c-03ffb9cb1d29959f62fdc294ab5b1079]: Textual amendment: [S. 24](https://www.legislation.gov.uk/ukpga/2018/13/section/24) omitted (15.3.2022) by virtue of [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [ss. 62(1)(a)](https://www.legislation.gov.uk/ukpga/2022/10/section/62/1/a), [69(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/3)

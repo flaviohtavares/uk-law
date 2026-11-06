@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Recyclability assessments[^key-2df314467ad0f96f4c9db32aa2b6ab85]
+## 26. Recyclability assessments[^c-2df314467ad0f96f4c9db32aa2b6ab85]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ A producer who is required by regulation 25(3)(a) to assess the recyclability of
 
 ## Annotations
 
-[^key-2df314467ad0f96f4c9db32aa2b6ab85]: Commencement: Reg. 26 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-2df314467ad0f96f4c9db32aa2b6ab85]: Commencement: Reg. 26 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

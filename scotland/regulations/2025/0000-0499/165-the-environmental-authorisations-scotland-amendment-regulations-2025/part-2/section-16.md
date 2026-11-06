@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16. Amendment of regulation 30 (surrender of registration or permit)[^key-33f94a5763831865c207c598109418fb]
+## 16. Amendment of regulation 30 (surrender of registration or permit)[^c-33f94a5763831865c207c598109418fb]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ In regulation 30(c)(ii) (surrender of registration or permit), after “registra
 
 ## Annotations
 
-[^key-33f94a5763831865c207c598109418fb]: Commencement: Reg. 16 in force at 1.6.2025, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3)
+[^c-33f94a5763831865c207c598109418fb]: Commencement: Reg. 16 in force at 1.6.2025, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3)

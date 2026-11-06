@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.162. Resolutions by post[^key-4b278d9203c00f7d5f6c65ab49cc933e]
+## 6.162. Resolutions by post[^c-4b278d9203c00f7d5f6c65ab49cc933e]
 
 *Extent: E+W*
 
 (1) In accordance with this Rule, the trustee may seek to obtain the agreement of members of the creditors' committee to a resolution by sending to every member (or his representative designated for the purpose) a copy of the proposed resolution.
 
-(2) Where the trustee makes use of the procedure allowed by this Rule, he shall send out to members of the committee or their representatives (as the case may be) a copy of any proposed resolution on which a decision is sought, which shall be set out in such a way that agreement with or dissent from each separate resolution may be indicated by the recipient on the copy so sent[^key-a0ca7a5da0cc6e2bc3509f33d060e196].
+(2) Where the trustee makes use of the procedure allowed by this Rule, he shall send out to members of the committee or their representatives (as the case may be) a copy of any proposed resolution on which a decision is sought, which shall be set out in such a way that agreement with or dissent from each separate resolution may be indicated by the recipient on the copy so sent[^c-a0ca7a5da0cc6e2bc3509f33d060e196].
 
-(3) Any member of the committee may, within 7 business[^key-301410b8c87607d21975a252bb2ed31e] days from the date of the trustee sending out a resolution, require the trustee to summon a meeting of the committee to consider the matters raised by the resolution.
+(3) Any member of the committee may, within 7 business[^c-301410b8c87607d21975a252bb2ed31e] days from the date of the trustee sending out a resolution, require the trustee to summon a meeting of the committee to consider the matters raised by the resolution.
 
 (4) In the absence of such a request, the resolution is deemed to have been carried in the committee if and when the trustee is notified in writing by a majority of the members that they concur with it.
 
@@ -32,8 +32,8 @@ summary: ''
 
 ## Annotations
 
-[^key-4b278d9203c00f7d5f6c65ab49cc933e]: Commencement: [Rule 6.162](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.162) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-4b278d9203c00f7d5f6c65ab49cc933e]: Commencement: [Rule 6.162](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.162) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
-[^key-a0ca7a5da0cc6e2bc3509f33d060e196]: Textual amendment: Words in [rule 6.162(2)](https://www.legislation.gov.uk/uksi/1986/1925/article/6.162/2) substituted (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 119(1)](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/119/1)
+[^c-a0ca7a5da0cc6e2bc3509f33d060e196]: Textual amendment: Words in [rule 6.162(2)](https://www.legislation.gov.uk/uksi/1986/1925/article/6.162/2) substituted (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 119(1)](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/119/1)
 
-[^key-301410b8c87607d21975a252bb2ed31e]: Textual amendment: Word in [rule 6.162(3)](https://www.legislation.gov.uk/uksi/1986/1925/article/6.162/3) inserted (11.1.1988 with application in accordance with rule 3(1)(2)) by virtue of [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 119(2)](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/119/2)
+[^c-301410b8c87607d21975a252bb2ed31e]: Textual amendment: Word in [rule 6.162(3)](https://www.legislation.gov.uk/uksi/1986/1925/article/6.162/3) inserted (11.1.1988 with application in accordance with rule 3(1)(2)) by virtue of [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 119(2)](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/119/2)

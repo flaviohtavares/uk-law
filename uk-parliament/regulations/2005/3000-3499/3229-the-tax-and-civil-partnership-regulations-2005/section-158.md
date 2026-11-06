@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 158.[^key-70304eab35178151fa27139b3f26240f]
+## 158.[^c-70304eab35178151fa27139b3f26240f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 615 (certain overseas government pensions paid in the United Kingdom)
 
 ## Annotations
 
-[^key-70304eab35178151fa27139b3f26240f]: Commencement: Reg. 158 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-70304eab35178151fa27139b3f26240f]: Commencement: Reg. 158 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

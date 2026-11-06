@@ -24,7 +24,7 @@ summary: ''
 
 Regulation 5(1) and (2)
 
-### Part I — Occupational Diseases[^key-b9983d1600fda5eabd9a800b647b4a80]
+### Part I — Occupational Diseases[^c-b9983d1600fda5eabd9a800b647b4a80]
 
 <table>
 <thead>
@@ -86,7 +86,7 @@ Regulation 5(1) and (2)
 </tbody>
 </table>
 
-### Part II — Diseases Additionally Reportable In Respect of Offshore Workplaces[^key-cc862bc764868672dc613c5bfe8cd941]
+### Part II — Diseases Additionally Reportable In Respect of Offshore Workplaces[^c-cc862bc764868672dc613c5bfe8cd941]
 
 |  |
 | --- |
@@ -118,6 +118,6 @@ Regulation 5(1) and (2)
 
 ## Annotations
 
-[^key-b9983d1600fda5eabd9a800b647b4a80]: Commencement: Sch. 3 Pt. I in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/455/regulation/1/1)
+[^c-b9983d1600fda5eabd9a800b647b4a80]: Commencement: Sch. 3 Pt. I in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/455/regulation/1/1)
 
-[^key-cc862bc764868672dc613c5bfe8cd941]: Commencement: Sch. 3 Pt. II in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/455/regulation/1/1)
+[^c-cc862bc764868672dc613c5bfe8cd941]: Commencement: Sch. 3 Pt. II in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/455/regulation/1/1)

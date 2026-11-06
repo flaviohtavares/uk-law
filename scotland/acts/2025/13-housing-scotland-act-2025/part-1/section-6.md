@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6. Ministerial guidance on assessments of rent conditions[^key-8f9f319a1bf3a4fe6215b34738d1b8bb][^key-c21222b3fe4550171408829c34231082]
+## 6. Ministerial guidance on assessments of rent conditions[^c-8f9f319a1bf3a4fe6215b34738d1b8bb][^c-c21222b3fe4550171408829c34231082]
 
 *Extent: S*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8f9f319a1bf3a4fe6215b34738d1b8bb]: Commencement: S. 6 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
+[^c-8f9f319a1bf3a4fe6215b34738d1b8bb]: Commencement: S. 6 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
 
-[^key-c21222b3fe4550171408829c34231082]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2025/13/section/6) in force at 1.4.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+[^c-c21222b3fe4550171408829c34231082]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2025/13/section/6) in force at 1.4.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)

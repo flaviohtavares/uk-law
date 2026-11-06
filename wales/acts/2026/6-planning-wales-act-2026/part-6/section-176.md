@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 176. Default liability for CIL[^key-16501df36f19b05545545af1cbeb8779]
+## 176. Default liability for CIL[^c-16501df36f19b05545545af1cbeb8779]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-16501df36f19b05545545af1cbeb8779]: Commencement: S. 176 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-16501df36f19b05545545af1cbeb8779]: Commencement: S. 176 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

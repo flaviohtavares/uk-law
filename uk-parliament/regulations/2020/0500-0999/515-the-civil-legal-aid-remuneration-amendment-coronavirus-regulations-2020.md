@@ -32,7 +32,7 @@ summary: ''
 
 Legal Aid And Advice, England And Wales
 
-The Civil Legal Aid (Remuneration) (Amendment) (Coronavirus) Regulations 2020 (revoked)[^key-809407fd551b41fdc6db4b062392e7d2]
+The Civil Legal Aid (Remuneration) (Amendment) (Coronavirus) Regulations 2020 (revoked)[^c-809407fd551b41fdc6db4b062392e7d2]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 8th June 2020
 
-[^key-809407fd551b41fdc6db4b062392e7d2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-809407fd551b41fdc6db4b062392e7d2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, Commencement and Expiry[^key-809407fd551b41fdc6db4b062392e7d2]
+## 1. Citation, Commencement and Expiry[^c-809407fd551b41fdc6db4b062392e7d2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Civil Legal Aid (Remuneration) Regulations 2013[^key-809407fd551b41fdc6db4b062392e7d2]
+## 2. Amendment to the Civil Legal Aid (Remuneration) Regulations 2013[^c-809407fd551b41fdc6db4b062392e7d2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-809407fd551b41fdc6db4b062392e7d2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-809407fd551b41fdc6db4b062392e7d2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-809407fd551b41fdc6db4b062392e7d2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-809407fd551b41fdc6db4b062392e7d2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-809407fd551b41fdc6db4b062392e7d2]: Textual amendment: Regulations revoked (7.10.2020) by [The Civil Legal Aid (Remuneration) (Amendment) (No. 2) (Coronavirus) Regulations 2020 (S.I. 2020/1001)](https://www.legislation.gov.uk/uksi/2020/1001), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1001/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2020/1001/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/1001/regulation/4))
+[^c-809407fd551b41fdc6db4b062392e7d2]: Textual amendment: Regulations revoked (7.10.2020) by [The Civil Legal Aid (Remuneration) (Amendment) (No. 2) (Coronavirus) Regulations 2020 (S.I. 2020/1001)](https://www.legislation.gov.uk/uksi/2020/1001), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1001/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2020/1001/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/1001/regulation/4))

@@ -54,7 +54,7 @@ The Deregulation and Contracting Out (Northern Ireland) Order 1996
   - (b) an instrument made under such an Act (except a Northern Ireland Order in Council);
 - “function”, in relation to a district council, includes any power to do anything which is calculated to facilitate, or is conducive or incidental to, the exercise of a function;
 - “instrument” has the meaning assigned by section 1(c) of the [^m00002] Interpretation Act (Northern Ireland) 1954;
-- “joint committee” has the same meaning as in the Local Government Act (Northern Ireland) 2014[^key-2071b401543df46de876951cf1cf0bda];
+- “joint committee” has the same meaning as in the Local Government Act (Northern Ireland) 2014[^c-2071b401543df46de876951cf1cf0bda];
 - “Minister” has the same meaning as Minister of the Crown has in the Ministers of the [^m00004] Crown Act 1975;
 - “Northern Ireland office-holder” does not include a Department or an officer of the Assembly, but, subject to that, means—
   - (a) the holder of an office created or continued in existence by a public general Act of the Parliament of Northern Ireland or the Parliament of Ireland or public general Measure of the Assembly or by a Northern Ireland Order in Council;
@@ -728,7 +728,7 @@ can lawfully be used by that authority for the purpose of facilitating the exerc
 
 [^m00002]: Marginal citation: 1954 c. 33 (N.I.).
 
-[^key-2071b401543df46de876951cf1cf0bda]: Textual amendment: Words in art. 2(2) substituted (2.6.2014) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [s. 129](https://www.legislation.gov.uk/nia/2014/8/section/129), [Sch. 9 para. 5](https://www.legislation.gov.uk/nia/2014/8/schedule/9/paragraph/5) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)
+[^c-2071b401543df46de876951cf1cf0bda]: Textual amendment: Words in art. 2(2) substituted (2.6.2014) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [s. 129](https://www.legislation.gov.uk/nia/2014/8/section/129), [Sch. 9 para. 5](https://www.legislation.gov.uk/nia/2014/8/schedule/9/paragraph/5) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)
 
 [^m00004]: Marginal citation: 1975 c. 26.
 

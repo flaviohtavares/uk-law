@@ -39,7 +39,7 @@ Coming into operation in accordance with regulation 1(1)
 
 The Department for Social Development, in exercise of the powers conferred by sections 122(1)(a) and (d), 129(4), 131(1), 132(1), (3) and (4), 132A(3) and (4)(a), 133(2)(c), (d) and (h) and 171(1) and (3) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001], sections 5(1)(h) and 165(1), (4) and (6) of the Social Security Administration (Northern Ireland) Act 1992[^f00002], Article 6(5) of the Jobseekers (Northern Ireland) Order 1995[^f00003] and Articles 11(6) and 74(1) of the Social Security (Northern Ireland) Order 1998[^f00004] and now vested in it[^f00005] and paragraphs 4(5) and 20(1)(b) of Schedule 7 to the Child Support, Pensions and Social Security Act (Northern Ireland) 2000[^f00006] and sections 2(3)(b), 15(1)(j) and (6)(b) and 16(2)(a) of the State Pension Credit Act (Northern Ireland) 2002[^f00007] and of all other powers enabling it in that behalf, with the consent of the Department of Finance and Personnel[^f00008], in so far as regulation 2 is concerned and after agreement by the Social Security Advisory Committee that proposals in respect of that Regulation should not be referred to it[^f00009], hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-c69bc1653395333ba4b6571a38a00bd4][^key-c69bc1653395333ba4b6571a38a00bd4]
+## 1. Citation, commencement and interpretation[^c-c69bc1653395333ba4b6571a38a00bd4][^c-c69bc1653395333ba4b6571a38a00bd4]
 
 (1) These Regulations may be cited as the Social Security (Housing Benefit, State Pension Credit and Miscellaneous Amendments) Regulations (Northern Ireland) 2004 and shall come into operation –
 
@@ -47,19 +47,19 @@ The Department for Social Development, in exercise of the powers conferred by se
 - (b) for the purposes of regulation 7, on 6th October 2004;
 - (c) for all other purposes, on 4th April 2005.
 
-(2)[^key-2f23886a550def23629f6503a2a0c3a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-2f23886a550def23629f6503a2a0c3a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The Interpretation Act (Northern Ireland) 1954[^f00011] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Housing Benefit Regulations[^key-0a7e83634a0ab2691b2e78c6bfa02760]
+## 2. Amendment of the Housing Benefit Regulations[^c-0a7e83634a0ab2691b2e78c6bfa02760]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of Social Security and Child Support (Decisions and Appeals) Regulations[^key-6057882119426a4148359644d26fc46f]
+## 3. Amendment of Social Security and Child Support (Decisions and Appeals) Regulations[^c-6057882119426a4148359644d26fc46f]
 
 In regulation 7(17B)(d)(ii) of the Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999[^f00031] (date from which a decision superseded under Article 11 takes effect) for “a non-dependant’s income increases and this affects” there shall be substituted “there has been a change of circumstances in respect of a non-dependant and this reduces”.
 
-## 4. Amendment of the Income Support (General) Regulations[^key-140bb151b8e3976d381c08e4d7049d71]
+## 4. Amendment of the Income Support (General) Regulations[^c-140bb151b8e3976d381c08e4d7049d71]
 
 In Schedule 3[^f00032] to the Income Support (General) Regulations (Northern Ireland) 1987[^f00033] (housing costs) –
 
@@ -76,14 +76,14 @@ In Schedule 3[^f00032] to the Income Support (General) Regulations (Northern Ire
 
     ;
   - (ii) in sub-paragraph (7) –
-    - (aa)[^key-4dea0388aa051fc2e683e62e68097cc8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+    - (aa)[^c-4dea0388aa051fc2e683e62e68097cc8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
     - (bb) after head (g) there shall be added the following head –
 
       > - (h) if he is in receipt of state pension credit.
 
       .
 
-## 5. Amendment of the Jobseeker’s Allowance Regulations[^key-724ca613d7d5f69e8a4370c1a36b7190]
+## 5. Amendment of the Jobseeker’s Allowance Regulations[^c-724ca613d7d5f69e8a4370c1a36b7190]
 
 In Schedule 2 to the Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00036] (housing costs) –
 
@@ -100,18 +100,18 @@ In Schedule 2 to the Jobseeker’s Allowance Regulations (Northern Ireland) 1996
 
     ;
   - (ii) in sub-paragraph (7) –
-    - (aa)[^key-26e87b5292996b9a2e2e5803e0d0bd30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+    - (aa)[^c-26e87b5292996b9a2e2e5803e0d0bd30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
     - (bb) after head (g) there shall be added the following head –
 
       > - (h) if he is in receipt of state pension credit.
 
       .
 
-## 6. Amendment of the State Pension Credit Regulations[^key-fe65bb548dfea2d5d237f56cb63d6e80][^key-2683acac7a58e7951ef391bcbd75910d][^key-fe65bb548dfea2d5d237f56cb63d6e80]
+## 6. Amendment of the State Pension Credit Regulations[^c-fe65bb548dfea2d5d237f56cb63d6e80][^c-2683acac7a58e7951ef391bcbd75910d][^c-fe65bb548dfea2d5d237f56cb63d6e80]
 
-(1)[^key-fe65bb548dfea2d5d237f56cb63d6e80] The State Pension Credit Regulations (Northern Ireland) 2003[^f00040] shall be amended in accordance with paragraphs (2) to (6).
+(1)[^c-fe65bb548dfea2d5d237f56cb63d6e80] The State Pension Credit Regulations (Northern Ireland) 2003[^f00040] shall be amended in accordance with paragraphs (2) to (6).
 
-(2)[^key-fe65bb548dfea2d5d237f56cb63d6e80] In regulation 1(2) (interpretation), after the definition of “the Eileen Trust” there shall be inserted –
+(2)[^c-fe65bb548dfea2d5d237f56cb63d6e80] In regulation 1(2) (interpretation), after the definition of “the Eileen Trust” there shall be inserted –
 
 > - “equity release scheme” means a loan –
 >   - (a) made between a person (“the lender”) and the claimant;
@@ -120,19 +120,19 @@ In Schedule 2 to the Jobseeker’s Allowance Regulations (Northern Ireland) 1996
 
 .
 
-(3)[^key-fe65bb548dfea2d5d237f56cb63d6e80] In regulation 15(5) (income for the purposes of the Act) after sub-paragraph (i)[^f00041] there shall be added the following sub-paragraph –
+(3)[^c-fe65bb548dfea2d5d237f56cb63d6e80] In regulation 15(5) (income for the purposes of the Act) after sub-paragraph (i)[^f00041] there shall be added the following sub-paragraph –
 
 > - (j) any payment made at regular intervals under an equity release scheme.
 
 .
 
-(4)[^key-fe65bb548dfea2d5d237f56cb63d6e80] At the end of regulation 16 (retirement pension income) there shall be added the following paragraph –
+(4)[^c-fe65bb548dfea2d5d237f56cb63d6e80] At the end of regulation 16 (retirement pension income) there shall be added the following paragraph –
 
 > - (m) any payment made at regular intervals under an equity release scheme.
 
 .
 
-(5)[^key-2683acac7a58e7951ef391bcbd75910d] In Schedule 2 (housing costs) –
+(5)[^c-2683acac7a58e7951ef391bcbd75910d] In Schedule 2 (housing costs) –
 
 - (a) in paragraph 4(11)(c) (circumstances in which a person is to be treated as occupying a dwelling as his home) for sub-head (i) there shall be substituted the following sub-head –
 
@@ -154,9 +154,9 @@ In Schedule 2 to the Jobseeker’s Allowance Regulations (Northern Ireland) 1996
 
       .
 
-(6)[^key-fe65bb548dfea2d5d237f56cb63d6e80] In paragraph 4(a) of Schedule 5 (capital disregarded for the purpose of calculating income), for the words from “partner” to “claimant” there shall be substituted “person who is a close relative, grandparent, grandchild, uncle, aunt, nephew or niece of the claimant or of his partner”.
+(6)[^c-fe65bb548dfea2d5d237f56cb63d6e80] In paragraph 4(a) of Schedule 5 (capital disregarded for the purpose of calculating income), for the words from “partner” to “claimant” there shall be substituted “person who is a close relative, grandparent, grandchild, uncle, aunt, nephew or niece of the claimant or of his partner”.
 
-## 7. Amendment of the Social Security (Claims and Payments) Regulations[^key-c0f177aeac94c6f953f2004ae47b9cf6]
+## 7. Amendment of the Social Security (Claims and Payments) Regulations[^c-c0f177aeac94c6f953f2004ae47b9cf6]
 
 In regulation 4E(3) of the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00044] (making a claim after attaining the qualifying age: date of claim) –
 
@@ -239,19 +239,19 @@ These Regulations do not impose any charge on business.
 
 [^f00009]: Footnote: *See* section 150(1)(b) of the Social Security Administration (Northern Ireland) Act 1992
 
-[^key-c69bc1653395333ba4b6571a38a00bd4]: Commencement: Reg. 1 in operation at 4.10.2004, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2004/394/regulation/1/1/a)
+[^c-c69bc1653395333ba4b6571a38a00bd4]: Commencement: Reg. 1 in operation at 4.10.2004, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2004/394/regulation/1/1/a)
 
-[^key-2f23886a550def23629f6503a2a0c3a3]: Textual amendment: [Reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/394/regulation/1/2) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-2f23886a550def23629f6503a2a0c3a3]: Textual amendment: [Reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/394/regulation/1/2) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
 [^f00011]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-0a7e83634a0ab2691b2e78c6bfa02760]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2004/394/regulation/2) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-0a7e83634a0ab2691b2e78c6bfa02760]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2004/394/regulation/2) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
-[^key-6057882119426a4148359644d26fc46f]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2004/394/regulation/3) in operation at 4.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2004/394/regulation/1/1/c)
+[^c-6057882119426a4148359644d26fc46f]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2004/394/regulation/3) in operation at 4.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2004/394/regulation/1/1/c)
 
 [^f00031]: Footnote: [S.R. 1999 No. 162](https://www.legislation.gov.uk/nisr/1999/162); paragraph (17B) was substituted by regulation 2(a) of [S.R. 2004 No. 110](https://www.legislation.gov.uk/nisr/2004/110)
 
-[^key-140bb151b8e3976d381c08e4d7049d71]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2004/394/regulation/4) in operation at 4.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2004/394/regulation/1/1/c)
+[^c-140bb151b8e3976d381c08e4d7049d71]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2004/394/regulation/4) in operation at 4.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2004/394/regulation/1/1/c)
 
 [^f00032]: Footnote: Schedule 3 was substituted by regulation 2 of and Schedule 1 to [S.R. 1995 No. 301](https://www.legislation.gov.uk/nisr/1995/301)
 
@@ -259,9 +259,9 @@ These Regulations do not impose any charge on business.
 
 [^f00034]: Footnote: Heads (a) to (c) were substituted by regulation 24(6)(e) of [S.R. 2003 No. 191](https://www.legislation.gov.uk/nisr/2003/191) and amended by Article 16(6)(a) of [S.R. 2004 No. 82](https://www.legislation.gov.uk/nisr/2004/82)
 
-[^key-4dea0388aa051fc2e683e62e68097cc8]: Textual amendment: [Reg. 4(b)(ii)(aa)](https://www.legislation.gov.uk/nisr/2004/394/regulation/4/b/ii/aa) revoked (coming into force in accordance with of the amending Rule) by [The Social Security (Hospital In-Patients) Regulations (Northern Ireland) 2005 (S.R. 2005/580)](https://www.legislation.gov.uk/nisr/2005/580), [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/2005/580/regulation/1/1/d), [Sch. 1](https://www.legislation.gov.uk/nisr/2005/580/schedule/1)
+[^c-4dea0388aa051fc2e683e62e68097cc8]: Textual amendment: [Reg. 4(b)(ii)(aa)](https://www.legislation.gov.uk/nisr/2004/394/regulation/4/b/ii/aa) revoked (coming into force in accordance with of the amending Rule) by [The Social Security (Hospital In-Patients) Regulations (Northern Ireland) 2005 (S.R. 2005/580)](https://www.legislation.gov.uk/nisr/2005/580), [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/2005/580/regulation/1/1/d), [Sch. 1](https://www.legislation.gov.uk/nisr/2005/580/schedule/1)
 
-[^key-724ca613d7d5f69e8a4370c1a36b7190]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2004/394/regulation/5) in operation at 4.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2004/394/regulation/1/1/c)
+[^c-724ca613d7d5f69e8a4370c1a36b7190]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2004/394/regulation/5) in operation at 4.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2004/394/regulation/1/1/c)
 
 [^f00036]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198); relevant amending Rules are [S.R. 1996 No. 358](https://www.legislation.gov.uk/nisr/1996/358), [S.R. 2003 Nos. 191](https://www.legislation.gov.uk/nisr/2003/191) and [261](https://www.legislation.gov.uk/nisr/2003/261) and [S.R. 2004 No. 82](https://www.legislation.gov.uk/nisr/2004/82)
 
@@ -269,11 +269,11 @@ These Regulations do not impose any charge on business.
 
 [^f00038]: Footnote: Heads (a) to (c) were substituted by regulation 32(c) of [S.R. 2003 No. 191](https://www.legislation.gov.uk/nisr/2003/191) and amended by Article 22(7)(a) of [S.R. 2004 No. 82](https://www.legislation.gov.uk/nisr/2004/82)
 
-[^key-26e87b5292996b9a2e2e5803e0d0bd30]: Textual amendment: [Reg. 5(b)(ii)(aa)](https://www.legislation.gov.uk/nisr/2004/394/regulation/5/b/ii/aa) revoked (coming into force in accordance with of the amending Rule) by [The Social Security (Hospital In-Patients) Regulations (Northern Ireland) 2005 (S.R. 2005/580)](https://www.legislation.gov.uk/nisr/2005/580), [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/2005/580/regulation/1/1/d), [Sch. 1](https://www.legislation.gov.uk/nisr/2005/580/schedule/1)
+[^c-26e87b5292996b9a2e2e5803e0d0bd30]: Textual amendment: [Reg. 5(b)(ii)(aa)](https://www.legislation.gov.uk/nisr/2004/394/regulation/5/b/ii/aa) revoked (coming into force in accordance with of the amending Rule) by [The Social Security (Hospital In-Patients) Regulations (Northern Ireland) 2005 (S.R. 2005/580)](https://www.legislation.gov.uk/nisr/2005/580), [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/2005/580/regulation/1/1/d), [Sch. 1](https://www.legislation.gov.uk/nisr/2005/580/schedule/1)
 
-[^key-fe65bb548dfea2d5d237f56cb63d6e80]: Commencement: Reg. 6(1)-(4)(6) in operation at 4.10.2004, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2004/394/regulation/1/1/a)
+[^c-fe65bb548dfea2d5d237f56cb63d6e80]: Commencement: Reg. 6(1)-(4)(6) in operation at 4.10.2004, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2004/394/regulation/1/1/a)
 
-[^key-2683acac7a58e7951ef391bcbd75910d]: Commencement: [Reg. 6(5)](https://www.legislation.gov.uk/nisr/2004/394/regulation/6/5) in operation at 4.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2004/394/regulation/1/1/c)
+[^c-2683acac7a58e7951ef391bcbd75910d]: Commencement: [Reg. 6(5)](https://www.legislation.gov.uk/nisr/2004/394/regulation/6/5) in operation at 4.4.2005, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2004/394/regulation/1/1/c)
 
 [^f00040]: Footnote: [S.R. 2003 No. 28](https://www.legislation.gov.uk/nisr/2003/28); relevant amending Rules are [S.R. 2003 Nos. 261](https://www.legislation.gov.uk/nisr/2003/261) and [421](https://www.legislation.gov.uk/nisr/2003/421) and [S.R. 2004 No. 82](https://www.legislation.gov.uk/nisr/2004/82)
 
@@ -283,6 +283,6 @@ These Regulations do not impose any charge on business.
 
 [^f00043]: Footnote: Head (e) was amended by regulation 7(2) of [S.R. 2003 No. 261](https://www.legislation.gov.uk/nisr/2003/261)
 
-[^key-c0f177aeac94c6f953f2004ae47b9cf6]: Commencement: Reg. 7 in operation at 6.10.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/394/regulation/1/1/b)
+[^c-c0f177aeac94c6f953f2004ae47b9cf6]: Commencement: Reg. 7 in operation at 6.10.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/394/regulation/1/1/b)
 
 [^f00044]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); regulation 4E was inserted by regulation 4(3) of [S.R. 2003 No. 191](https://www.legislation.gov.uk/nisr/2003/191) and amended by regulation 2(5) of [S.R. 2003 No. 317](https://www.legislation.gov.uk/nisr/2003/317)

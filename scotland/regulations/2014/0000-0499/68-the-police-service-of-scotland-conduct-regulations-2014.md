@@ -50,11 +50,11 @@ In accordance with section 54(2) of that Act, the Scottish Ministers have consul
 
 ## PART 1 — General
 
-### 1. Citation and commencement[^key-fba1740f083b124d2d189ac6ddb654f3]
+### 1. Citation and commencement[^c-fba1740f083b124d2d189ac6ddb654f3]
 
 These Regulations may be cited as the Police Service of Scotland (Conduct) Regulations 2014 and come into force on 1st April 2014.
 
-### 2. Interpretation[^key-b100c6ba12988a4efa48e39500b899ca]
+### 2. Interpretation[^c-b100c6ba12988a4efa48e39500b899ca]
 
 In these Regulations—
 
@@ -88,7 +88,7 @@ In these Regulations—
   - (c) a day which is a public holiday in Scotland; and
 - “writing” includes electronic communications within the meaning given by section 15 of the Electronic Communications Act 2000[^f00006] (and “written” is to be construed accordingly).
 
-### 3. Application[^key-b54663e93c2a4f2cbdbfccee1a9ca7b3]
+### 3. Application[^c-b54663e93c2a4f2cbdbfccee1a9ca7b3]
 
 (1) These Regulations apply only in relation to conduct on the part of constables below the rank of assistant chief constable.
 
@@ -100,7 +100,7 @@ In these Regulations—
   - (ii) by virtue of paragraph 8(2) of schedule 5 to the Act; or
 - (c) conduct of a special constable appointed under section 9 of the Act.
 
-### 4. Revocation and transitional provision[^key-e3be59d1630b4dd5659697f07cdb4f9a]
+### 4. Revocation and transitional provision[^c-e3be59d1630b4dd5659697f07cdb4f9a]
 
 (1) Subject to paragraph (2) and (4), the 2013 Regulations are revoked.
 
@@ -113,7 +113,7 @@ In these Regulations—
 
 (4) Paragraph (1) does not revoke regulation 29 of, or Schedule 2 to, the 2013 Regulations.
 
-### 5. Designation of deputy chief constable[^key-e753747ab8ba57b4e7ae1252c646e0be]
+### 5. Designation of deputy chief constable[^c-e753747ab8ba57b4e7ae1252c646e0be]
 
 (1) The chief constable must designate a deputy chief constable to exercise functions under these Regulations (and references in these Regulations to the “deputy chief constable” are, unless the context otherwise requires, references to that individual).
 
@@ -124,7 +124,7 @@ In these Regulations—
 - (a) responsibility for the carrying out of delegated functions; or
 - (b) ability to carry out delegated functions.
 
-### 6. Police representative[^key-9e1dc93d5e1878d1b80f8ff2ee7928bc]
+### 6. Police representative[^c-9e1dc93d5e1878d1b80f8ff2ee7928bc]
 
 (1) The constable may choose a person mentioned in paragraph (2) to act as the constable’s police representative.
 
@@ -144,7 +144,7 @@ In these Regulations—
 
 (5) The chief constable must permit any constable acting as a police representative under these Regulations to use a reasonable amount of duty time for the purpose of performing the functions mentioned in paragraph (4).
 
-### 7. Legal representation[^key-e83229db622fd4be099f9c300b772ad9]
+### 7. Legal representation[^c-e83229db622fd4be099f9c300b772ad9]
 
 (1) The constable is, in accordance with this regulation, entitled to be legally represented by a solicitor or advocate of the constable’s choice at any—
 
@@ -158,7 +158,7 @@ In these Regulations—
 - (a) is not entitled to be legally represented; and
 - (b) may be dismissed or receive, in accordance with these Regulations, any other disciplinary or improvement action without being so represented.
 
-### 8. Suspension[^key-8a451f56b741a4019aaa5fdad1501a8f]
+### 8. Suspension[^c-8a451f56b741a4019aaa5fdad1501a8f]
 
 (1) A constable may be suspended from the office of constable by a senior constable if an allegation comes to the senior constable’s attention from which it can reasonably be inferred that any conduct of the constable may—
 
@@ -194,7 +194,7 @@ In these Regulations—
 
 (9) In this regulation “senior constable” means a constable of a higher rank than the suspended constable.
 
-### 9. Alleged offences[^key-40cd8990264825311daa8b7d7cabf2c9]
+### 9. Alleged offences[^c-40cd8990264825311daa8b7d7cabf2c9]
 
 (1) If the deputy chief constable considers that it can reasonably be inferred that a constable may have committed a criminal offence, the deputy chief constable—
 
@@ -217,7 +217,7 @@ In these Regulations—
 
 ## PART 2 — Misconduct investigations
 
-### 10. Preliminary assessment[^key-b97511b54d1c8c758f1f8b2d9c62916a]
+### 10. Preliminary assessment[^c-b97511b54d1c8c758f1f8b2d9c62916a]
 
 (1) This regulation applies if a misconduct allegation comes to the attention of the deputy chief constable.
 
@@ -251,7 +251,7 @@ In these Regulations—
 
 (8) Paragraph (5) and (6) apply to the appointment of a replacement investigator under paragraph (7).
 
-### 11. Notice of investigation[^key-a75a586d15aa52cae871d6b707bf2282]
+### 11. Notice of investigation[^c-a75a586d15aa52cae871d6b707bf2282]
 
 (1) The investigator must, as soon as reasonably practicable following appointment, give the constable written notice—
 
@@ -265,7 +265,7 @@ In these Regulations—
 
 (2) If, at any time after the notice mentioned in paragraph (1) is issued but before the report mentioned in regulation 13(1) is issued, the investigator’s assessment of whether the constable’s conduct would amount to misconduct or gross misconduct changes, the investigator must issue a further notice of investigation in accordance with this regulation notifying the constable of that change.
 
-### 12. Misconduct interview[^key-b9e16f09a84e8314fa2bcd34a598ef70]
+### 12. Misconduct interview[^c-b9e16f09a84e8314fa2bcd34a598ef70]
 
 (1) The investigator—
 
@@ -296,7 +296,7 @@ any misconduct or gross misconduct is alleged to have occurred.
 - (c) the investigator must consider any representations made; and
 - (d) having considered those representations (if any), the investigator must send a copy of the final written record of the interview to the constable.
 
-### 13. Investigator’s report[^key-e1ff6ca2cc2690fa3bb6a7d8631e7ada]
+### 13. Investigator’s report[^c-e1ff6ca2cc2690fa3bb6a7d8631e7ada]
 
 (1) At the conclusion of the misconduct investigation, the investigator must—
 
@@ -313,7 +313,7 @@ any misconduct or gross misconduct is alleged to have occurred.
 - (a) a copy of any audio recording made of an interview under regulation 12(7); and
 - (b) a copy of any written record of such an interview prepared under regulation 12(8).
 
-### 14. Referral to misconduct proceedings[^key-2a4f39df4e29bed5f9f332db8acb06d7]
+### 14. Referral to misconduct proceedings[^c-2a4f39df4e29bed5f9f332db8acb06d7]
 
 (1) On receipt of the investigator’s report, the deputy chief constable must, as soon as reasonably practicable, determine whether the constable has a case to answer in respect of—
 
@@ -340,7 +340,7 @@ the deputy chief constable must refer the misconduct allegation to a misconduct 
 
 ## PART 3 — Misconduct proceedings
 
-### 15. Arrangement of misconduct proceedings[^key-5fa3fbbd8d365b6371305185ffe0d617]
+### 15. Arrangement of misconduct proceedings[^c-5fa3fbbd8d365b6371305185ffe0d617]
 
 (1) This regulation applies if the deputy chief constable has referred a case to misconduct proceedings.
 
@@ -405,7 +405,7 @@ the deputy chief constable must refer the misconduct allegation to a misconduct 
 
 (14) If any document is withheld by virtue of the application of paragraph (13), the deputy chief constable must, so far as is reasonably possible without prejudicing any of the matters mentioned in that paragraph, provide the constable with a summary of the content of that document.
 
-### 16. Appointment of person to conduct misconduct proceedings[^key-3e090b7332beebf0c4c5b09746568779]
+### 16. Appointment of person to conduct misconduct proceedings[^c-3e090b7332beebf0c4c5b09746568779]
 
 (1) If the deputy chief constable refers a misconduct allegation to misconduct proceedings, the deputy chief constable must appoint another constable to conduct those proceedings.
 
@@ -437,7 +437,7 @@ the deputy chief constable must refer the misconduct allegation to a misconduct 
   - (i) make a new appointment in accordance with this regulation; and
   - (ii) notify the constable in writing of the name of the individual appointed.
 
-### 17. Witnesses[^key-786099951db9bc8c4fb8c4dfdbe7b954]
+### 17. Witnesses[^c-786099951db9bc8c4fb8c4dfdbe7b954]
 
 (1) The constable and the deputy chief constable must, not more than 10 working days after a notice is given under regulation 15(5), seek to agree a joint list of witnesses based on the lists provided under regulation 15(4) and (6) and provide that list to the person conducting the misconduct proceedings.
 
@@ -454,7 +454,7 @@ the deputy chief constable must refer the misconduct allegation to a misconduct 
 
 (6) The deputy chief constable must, not less than 5 working days before the date of the misconduct proceedings, notify in writing any witness who is to give evidence at those proceedings.
 
-### 18. Procedure at misconduct proceedings[^key-f187f676572440a069384ac99d454c67]
+### 18. Procedure at misconduct proceedings[^c-f187f676572440a069384ac99d454c67]
 
 (1) Subject to the following paragraphs of this regulation and regulations 19 and 20, the person conducting the misconduct proceedings is to determine the procedure at those proceedings.
 
@@ -477,7 +477,7 @@ the deputy chief constable must refer the misconduct allegation to a misconduct 
 - (c) the person conducting the misconduct proceedings must consider any representations made; and
 - (d) having considered those representations (if any), that person must send a copy of the final written record of the proceedings to the constable.
 
-### 19. Proceedings in the constable’s absence[^key-195b1f329ef34da3f442497ca892a582]
+### 19. Proceedings in the constable’s absence[^c-195b1f329ef34da3f442497ca892a582]
 
 (1) The person conducting the misconduct proceedings may permit the constable to participate in those proceedings by video link or other suitable means if satisfied that the constable is unable, on reasonable grounds, to attend those proceedings.
 
@@ -491,7 +491,7 @@ the deputy chief constable must refer the misconduct allegation to a misconduct 
 - (a) the constable may be represented at the misconduct proceedings by the constable’s police representative or, in the case of a misconduct hearing, an advocate or a solicitor; and
 - (b) the proceedings may be proceeded with and concluded in the constable’s absence (whether or not the constable is so represented).
 
-### 20. Attendance of third parties[^key-bfeceffe03b8caa07926906dc93364f2]
+### 20. Attendance of third parties[^c-bfeceffe03b8caa07926906dc93364f2]
 
 (1) Subject to the following paragraphs of this regulation, the misconduct proceedings are to be held in private.
 
@@ -506,7 +506,7 @@ the deputy chief constable must refer the misconduct allegation to a misconduct 
 
 (5) Paragraphs (2) to (4) do not apply to any part of the misconduct proceedings at which the determination under regulation 21 or disciplinary action is being considered.
 
-### 21. Determination[^key-4ec0ff5ac660cfbe2f59776c8ac528a5]
+### 21. Determination[^c-4ec0ff5ac660cfbe2f59776c8ac528a5]
 
 (1) At the conclusion of the misconduct proceedings, the person conducting those proceedings must—
 
@@ -527,7 +527,7 @@ the deputy chief constable must refer the misconduct allegation to a misconduct 
 - (b) take improvement action; or
 - (c) refer the matter to be dealt with under procedures established by the Performance Regulations.
 
-### 22. Disciplinary action[^key-6969693b8c392762bd1cc3360cadf924]
+### 22. Disciplinary action[^c-6969693b8c392762bd1cc3360cadf924]
 
 (1) This regulation applies if—
 
@@ -569,7 +569,7 @@ the deputy chief constable must refer the misconduct allegation to a misconduct 
 - (b) fine; or
 - (c) admonition.
 
-### 23. Notification of determination and action to be taken[^key-ffd03eaec5b7f3c38627fff70f018995]
+### 23. Notification of determination and action to be taken[^c-ffd03eaec5b7f3c38627fff70f018995]
 
 (1) The person conducting the misconduct proceedings must, as soon as reasonably practicable after the conclusion of those proceedings (and not later than 10 working days from the date of conclusion of the proceedings), notify the constable in writing of—
 
@@ -591,7 +591,7 @@ the deputy chief constable must refer the misconduct allegation to a misconduct 
 
 ## PART 4 — Appeals
 
-### 24. Appeals[^key-5f9efe3d89055ed740419f3c302801d9]
+### 24. Appeals[^c-5f9efe3d89055ed740419f3c302801d9]
 
 (1) This regulation applies where—
 
@@ -627,7 +627,7 @@ the deputy chief constable must refer the misconduct allegation to a misconduct 
 - (a) send with the appeal notice a copy of any document or other information which it is considered supports the constable’s appeal; and
 - (b) without prejudice to the generality of sub-paragraph (a), where the constable seeks to rely on the ground of appeal mentioned in paragraph (3)(b), submit with the appeal notice details of the evidence which the constable considers could have affected materially any determination or decision of the person conducting the misconduct proceedings.
 
-### 25. Appeal procedure[^key-f481a2b118c33ed8e6ed0df791918d52]
+### 25. Appeal procedure[^c-f481a2b118c33ed8e6ed0df791918d52]
 
 (1) An appeal under regulation 24 is to be determined in accordance with this regulation.
 
@@ -663,7 +663,7 @@ the deputy chief constable must refer the misconduct allegation to a misconduct 
 - (b) in a case where any disciplinary action mentioned in regulation 22(3)(d) to (f) has been ordered, any advocate or solicitor representing the constable must be permitted to attend; and
 - (c) the constable (or any person representing the constable) must be permitted to make oral representations.
 
-### 26. Outcome of appeal[^key-599d1116e94a9708b7d835df1b9cc7aa]
+### 26. Outcome of appeal[^c-599d1116e94a9708b7d835df1b9cc7aa]
 
 (1) The person determining the appeal may, whether after an appeal hearing or otherwise—
 
@@ -685,9 +685,9 @@ the deputy chief constable must refer the misconduct allegation to a misconduct 
 - (a) dismissal of the constable is confirmed; or
 - (b) demotion in rank of the constable is confirmed or ordered,
 
-a notice under paragraph (2) must inform the constable of the right to appeal to the First-tier Tribunal[^key-32950fa0f9457458c3c8b7c8a62150aa] and the procedure for making such an appeal.
+a notice under paragraph (2) must inform the constable of the right to appeal to the First-tier Tribunal[^c-32950fa0f9457458c3c8b7c8a62150aa] and the procedure for making such an appeal.
 
-### 27. Procedure where misconduct allegation remitted back to person who conducted misconduct proceedings[^key-ed8dfdf14f7776ce96e3fb5b417ed095]
+### 27. Procedure where misconduct allegation remitted back to person who conducted misconduct proceedings[^c-ed8dfdf14f7776ce96e3fb5b417ed095]
 
 (1) This regulation applies where a misconduct allegation is remitted back to the person who conducted the misconduct proceedings in accordance with regulation 26(1)(f).
 
@@ -707,7 +707,7 @@ a notice under paragraph (2) must inform the constable of the right to appeal to
 
 ## PART 5 — Modifications
 
-**28.**[^key-c7b17be564a58957879d5c57d64077f9] Schedule 2 modifies certain Scottish instruments.
+**28.**[^c-c7b17be564a58957879d5c57d64077f9] Schedule 2 modifies certain Scottish instruments.
 
 KENNY MACASKILL
 
@@ -719,16 +719,16 @@ Edinburgh
 
 28th February 2014
 
-## SCHEDULE 1 — Standards of Professional Behaviour[^key-1326d85aad15a1f7f976a77b662f1330]
+## SCHEDULE 1 — Standards of Professional Behaviour[^c-1326d85aad15a1f7f976a77b662f1330]
 
 Regulation 2
 
-[^key-1326d85aad15a1f7f976a77b662f1330]
+[^c-1326d85aad15a1f7f976a77b662f1330]
 
 - **Honesty and integrity**
 
   Constables are honest, act with integrity and do not compromise or abuse their position.
-- **Candour[^key-bd0280f4ca28d96bd2a4f7d0ba0895c5]**
+- **Candour[^c-bd0280f4ca28d96bd2a4f7d0ba0895c5]**
 
   Constables act with candour and are open and truthful in their dealings, without favour to their own interests or the interests of the Police Service subject, in particular, to the reasonable assertion of the privilege against self-incrimination.
 
@@ -769,7 +769,7 @@ Regulation 2
 
 Regulation 28
 
-### 1. The Police Service of Scotland (Senior Officers) (Conduct) Regulations 2013[^key-76666f2cd932d6ee551ad39a1b97edaf]
+### 1. The Police Service of Scotland (Senior Officers) (Conduct) Regulations 2013[^c-76666f2cd932d6ee551ad39a1b97edaf]
 
 (1) The Police Service of Scotland (Senior Officers) (Conduct) Regulations 2013[^f00007] are modified as follows.
 
@@ -825,11 +825,11 @@ Regulation 28
 
   .
 
-### 2. The Police Service of Scotland Regulations 2013[^key-af4c745c69060c0928101e2a585f10fb]
+### 2. The Police Service of Scotland Regulations 2013[^c-af4c745c69060c0928101e2a585f10fb]
 
 In regulation 2 (interpretation and application) of the Police Service of Scotland Regulations 2013[^f00008], in the definition of “Conduct Regulations”, for “2013”, where it first appears, substitute “2014”.
 
-### 3. The Police Appeals Tribunal (Scotland) Rules 2013[^key-d29dff65c424df124f8dec8baebc2c2e]
+### 3. The Police Appeals Tribunal (Scotland) Rules 2013[^c-d29dff65c424df124f8dec8baebc2c2e]
 
 In rule 2 (interpretation) of the Police Appeals Tribunal (Scotland) Rules 2013[^f00009], in the definition of “Conduct Regulations”, for “2013” substitute “2014”.
 
@@ -867,9 +867,9 @@ Part 5 and Schedule 2 modify the Police Service of Scotland (Senior Officers) (C
 
 [^f00001]: Footnote: [2012 asp 8](https://www.legislation.gov.uk/asp/2012/8).
 
-[^key-fba1740f083b124d2d189ac6ddb654f3]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1)
+[^c-fba1740f083b124d2d189ac6ddb654f3]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1)
 
-[^key-b100c6ba12988a4efa48e39500b899ca]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2014/68/regulation/2) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1)
+[^c-b100c6ba12988a4efa48e39500b899ca]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2014/68/regulation/2) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1)
 
 [^f00002]: Footnote: [S.S.I. 2014/67](https://www.legislation.gov.uk/ssi/2014/67).
 
@@ -881,72 +881,72 @@ Part 5 and Schedule 2 modify the Police Service of Scotland (Senior Officers) (C
 
 [^f00006]: Footnote: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7). Section 15 has been amended by the Schedule 17 to the Communications Act [2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-b54663e93c2a4f2cbdbfccee1a9ca7b3]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2014/68/regulation/3) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1)
+[^c-b54663e93c2a4f2cbdbfccee1a9ca7b3]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2014/68/regulation/3) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1)
 
-[^key-e3be59d1630b4dd5659697f07cdb4f9a]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2014/68/regulation/4) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1)
+[^c-e3be59d1630b4dd5659697f07cdb4f9a]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2014/68/regulation/4) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1)
 
-[^key-e753747ab8ba57b4e7ae1252c646e0be]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2014/68/regulation/5) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1)
+[^c-e753747ab8ba57b4e7ae1252c646e0be]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2014/68/regulation/5) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1)
 
-[^key-9e1dc93d5e1878d1b80f8ff2ee7928bc]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2014/68/regulation/6) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1)
+[^c-9e1dc93d5e1878d1b80f8ff2ee7928bc]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2014/68/regulation/6) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1)
 
-[^key-e83229db622fd4be099f9c300b772ad9]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2014/68/regulation/7) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1)
+[^c-e83229db622fd4be099f9c300b772ad9]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2014/68/regulation/7) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1)
 
-[^key-8a451f56b741a4019aaa5fdad1501a8f]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2014/68/regulation/8) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1)
+[^c-8a451f56b741a4019aaa5fdad1501a8f]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2014/68/regulation/8) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1)
 
-[^key-40cd8990264825311daa8b7d7cabf2c9]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2014/68/regulation/9) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1)
+[^c-40cd8990264825311daa8b7d7cabf2c9]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2014/68/regulation/9) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1)
 
-[^key-b97511b54d1c8c758f1f8b2d9c62916a]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2014/68/regulation/10) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1)
+[^c-b97511b54d1c8c758f1f8b2d9c62916a]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2014/68/regulation/10) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1)
 
-[^key-a75a586d15aa52cae871d6b707bf2282]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2014/68/regulation/11) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1)
+[^c-a75a586d15aa52cae871d6b707bf2282]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2014/68/regulation/11) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1)
 
-[^key-b9e16f09a84e8314fa2bcd34a598ef70]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2014/68/regulation/12) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1)
+[^c-b9e16f09a84e8314fa2bcd34a598ef70]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2014/68/regulation/12) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1)
 
-[^key-e1ff6ca2cc2690fa3bb6a7d8631e7ada]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2014/68/regulation/13) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1)
+[^c-e1ff6ca2cc2690fa3bb6a7d8631e7ada]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2014/68/regulation/13) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1)
 
-[^key-2a4f39df4e29bed5f9f332db8acb06d7]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2014/68/regulation/14) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1)
+[^c-2a4f39df4e29bed5f9f332db8acb06d7]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2014/68/regulation/14) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1)
 
-[^key-5fa3fbbd8d365b6371305185ffe0d617]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2014/68/regulation/15) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1)
+[^c-5fa3fbbd8d365b6371305185ffe0d617]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2014/68/regulation/15) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1)
 
-[^key-3e090b7332beebf0c4c5b09746568779]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2014/68/regulation/16) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1)
+[^c-3e090b7332beebf0c4c5b09746568779]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2014/68/regulation/16) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1)
 
-[^key-786099951db9bc8c4fb8c4dfdbe7b954]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2014/68/regulation/17) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1)
+[^c-786099951db9bc8c4fb8c4dfdbe7b954]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2014/68/regulation/17) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1)
 
-[^key-f187f676572440a069384ac99d454c67]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2014/68/regulation/18) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1)
+[^c-f187f676572440a069384ac99d454c67]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2014/68/regulation/18) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1)
 
-[^key-195b1f329ef34da3f442497ca892a582]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2014/68/regulation/19) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1)
+[^c-195b1f329ef34da3f442497ca892a582]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2014/68/regulation/19) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1)
 
-[^key-bfeceffe03b8caa07926906dc93364f2]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2014/68/regulation/20) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1)
+[^c-bfeceffe03b8caa07926906dc93364f2]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2014/68/regulation/20) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1)
 
-[^key-4ec0ff5ac660cfbe2f59776c8ac528a5]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2014/68/regulation/21) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1)
+[^c-4ec0ff5ac660cfbe2f59776c8ac528a5]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2014/68/regulation/21) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1)
 
-[^key-6969693b8c392762bd1cc3360cadf924]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2014/68/regulation/22) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1)
+[^c-6969693b8c392762bd1cc3360cadf924]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2014/68/regulation/22) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1)
 
-[^key-ffd03eaec5b7f3c38627fff70f018995]: Commencement: [Reg. 23](https://www.legislation.gov.uk/ssi/2014/68/regulation/23) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1)
+[^c-ffd03eaec5b7f3c38627fff70f018995]: Commencement: [Reg. 23](https://www.legislation.gov.uk/ssi/2014/68/regulation/23) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1)
 
-[^key-5f9efe3d89055ed740419f3c302801d9]: Commencement: [Reg. 24](https://www.legislation.gov.uk/ssi/2014/68/regulation/24) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1)
+[^c-5f9efe3d89055ed740419f3c302801d9]: Commencement: [Reg. 24](https://www.legislation.gov.uk/ssi/2014/68/regulation/24) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1)
 
-[^key-f481a2b118c33ed8e6ed0df791918d52]: Commencement: [Reg. 25](https://www.legislation.gov.uk/ssi/2014/68/regulation/25) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1)
+[^c-f481a2b118c33ed8e6ed0df791918d52]: Commencement: [Reg. 25](https://www.legislation.gov.uk/ssi/2014/68/regulation/25) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1)
 
-[^key-599d1116e94a9708b7d835df1b9cc7aa]: Commencement: [Reg. 26](https://www.legislation.gov.uk/ssi/2014/68/regulation/26) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1)
+[^c-599d1116e94a9708b7d835df1b9cc7aa]: Commencement: [Reg. 26](https://www.legislation.gov.uk/ssi/2014/68/regulation/26) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1)
 
-[^key-32950fa0f9457458c3c8b7c8a62150aa]: Textual amendment: Words in [reg. 26(5)](https://www.legislation.gov.uk/ssi/2014/68/regulation/26/5) substituted (29.12.2025) by [The First-tier Tribunal for Scotland (Transfer of Functions and Members of the Police Appeals Tribunal) Regulations 2025 (S.S.I. 2025/378)](https://www.legislation.gov.uk/ssi/2025/378), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/378/regulation/1/1), [sch. 2 para. 5](https://www.legislation.gov.uk/ssi/2025/378/schedule/2/paragraph/5) (with [sch. 1](https://www.legislation.gov.uk/ssi/2025/378/schedule/1))
+[^c-32950fa0f9457458c3c8b7c8a62150aa]: Textual amendment: Words in [reg. 26(5)](https://www.legislation.gov.uk/ssi/2014/68/regulation/26/5) substituted (29.12.2025) by [The First-tier Tribunal for Scotland (Transfer of Functions and Members of the Police Appeals Tribunal) Regulations 2025 (S.S.I. 2025/378)](https://www.legislation.gov.uk/ssi/2025/378), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/378/regulation/1/1), [sch. 2 para. 5](https://www.legislation.gov.uk/ssi/2025/378/schedule/2/paragraph/5) (with [sch. 1](https://www.legislation.gov.uk/ssi/2025/378/schedule/1))
 
-[^key-ed8dfdf14f7776ce96e3fb5b417ed095]: Commencement: [Reg. 27](https://www.legislation.gov.uk/ssi/2014/68/regulation/27) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1)
+[^c-ed8dfdf14f7776ce96e3fb5b417ed095]: Commencement: [Reg. 27](https://www.legislation.gov.uk/ssi/2014/68/regulation/27) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1)
 
-[^key-c7b17be564a58957879d5c57d64077f9]: Commencement: [Reg. 28](https://www.legislation.gov.uk/ssi/2014/68/regulation/28) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1)
+[^c-c7b17be564a58957879d5c57d64077f9]: Commencement: [Reg. 28](https://www.legislation.gov.uk/ssi/2014/68/regulation/28) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1)
 
-[^key-1326d85aad15a1f7f976a77b662f1330]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2014/68/schedule/1) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1)
+[^c-1326d85aad15a1f7f976a77b662f1330]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2014/68/schedule/1) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1)
 
-[^key-bd0280f4ca28d96bd2a4f7d0ba0895c5]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2014/68/schedule/1) inserted (25.6.2025) by [Police (Ethics, Conduct and Scrutiny) (Scotland) Act 2025 (asp 5)](https://www.legislation.gov.uk/asp/2025/5), [ss. 3(5)](https://www.legislation.gov.uk/asp/2025/5/section/3/5), [22(2)](https://www.legislation.gov.uk/asp/2025/5/section/22/2); [S.S.I. 2025/175](https://www.legislation.gov.uk/ssi/2025/175), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2025/175/regulation/2/c)
+[^c-bd0280f4ca28d96bd2a4f7d0ba0895c5]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2014/68/schedule/1) inserted (25.6.2025) by [Police (Ethics, Conduct and Scrutiny) (Scotland) Act 2025 (asp 5)](https://www.legislation.gov.uk/asp/2025/5), [ss. 3(5)](https://www.legislation.gov.uk/asp/2025/5/section/3/5), [22(2)](https://www.legislation.gov.uk/asp/2025/5/section/22/2); [S.S.I. 2025/175](https://www.legislation.gov.uk/ssi/2025/175), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2025/175/regulation/2/c)
 
-[^key-76666f2cd932d6ee551ad39a1b97edaf]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2014/68/schedule/2/paragraph/1) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1)
+[^c-76666f2cd932d6ee551ad39a1b97edaf]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2014/68/schedule/2/paragraph/1) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1)
 
 [^f00007]: Footnote: [S.S.I. 2013/62](https://www.legislation.gov.uk/ssi/2013/62).
 
-[^key-af4c745c69060c0928101e2a585f10fb]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2014/68/schedule/2/paragraph/2) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1)
+[^c-af4c745c69060c0928101e2a585f10fb]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2014/68/schedule/2/paragraph/2) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1)
 
 [^f00008]: Footnote: [S.S.I. 2013/35](https://www.legislation.gov.uk/ssi/2013/35). This instrument has been amended by [S.S.I 2013/122](https://www.legislation.gov.uk/ssi/2013/122), [2013/125](https://www.legislation.gov.uk/ssi/2013/125) and [2014/1](https://www.legislation.gov.uk/ssi/2014/1).
 
-[^key-d29dff65c424df124f8dec8baebc2c2e]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ssi/2014/68/schedule/2/paragraph/3) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1)
+[^c-d29dff65c424df124f8dec8baebc2c2e]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ssi/2014/68/schedule/2/paragraph/3) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1)
 
 [^f00009]: Footnote: [S.S.I. 2013/63](https://www.legislation.gov.uk/ssi/2013/63).

@@ -22,7 +22,7 @@ summary: ''
 
 Section 27
 
-**1.**[^key-7c7986b5925be04beac25ef8e79bb9d1] (1) Paragraph 9 of Schedule 8 to the Traffic Management Act 2004 (civil enforcement areas and enforcement authorities outside Greater London: bus lane contraventions) is amended in accordance with this paragraph.
+**1.**[^c-7c7986b5925be04beac25ef8e79bb9d1] (1) Paragraph 9 of Schedule 8 to the Traffic Management Act 2004 (civil enforcement areas and enforcement authorities outside Greater London: bus lane contraventions) is amended in accordance with this paragraph.
 
 (2) In sub-paragraph (4), for “are to the local authority in whose area the contravention is committed” substitute
 
@@ -52,7 +52,7 @@ Section 27
 >
 >     and here “**unitary district council**” means the council for a district for which there is no county council.
 
-**2.**[^key-51126ecda1b98d4b629ff0baedf7ceb1] (1) Paragraph 10 of Schedule 8 to the Traffic Management Act 2004 (civil enforcement areas and enforcement authorities outside Greater London: moving traffic contraventions) is amended in accordance with this paragraph.
+**2.**[^c-51126ecda1b98d4b629ff0baedf7ceb1] (1) Paragraph 10 of Schedule 8 to the Traffic Management Act 2004 (civil enforcement areas and enforcement authorities outside Greater London: moving traffic contraventions) is amended in accordance with this paragraph.
 
 (2) For sub-paragraph (5) substitute—
 
@@ -78,6 +78,6 @@ Section 27
 
 ## Annotations
 
-[^key-7c7986b5925be04beac25ef8e79bb9d1]: Commencement: Sch. 10 para. 1 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-7c7986b5925be04beac25ef8e79bb9d1]: Commencement: Sch. 10 para. 1 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-51126ecda1b98d4b629ff0baedf7ceb1]: Commencement: Sch. 10 para. 2 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-51126ecda1b98d4b629ff0baedf7ceb1]: Commencement: Sch. 10 para. 2 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 58. Covenant income where no grant income or no contribution is assessed[^key-6701674d5676c68971508a1882e7bc43]
+## 58. Covenant income where no grant income or no contribution is assessed[^c-6701674d5676c68971508a1882e7bc43]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6701674d5676c68971508a1882e7bc43]: Commencement: [Reg. 58](https://www.legislation.gov.uk/nisr/2006/405/regulation/58) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
+[^c-6701674d5676c68971508a1882e7bc43]: Commencement: [Reg. 58](https://www.legislation.gov.uk/nisr/2006/405/regulation/58) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 6 — CATEGORIES OF SEED THAT MAY BE MARKETED[^key-c3f0050130b836abe8b6f3a6b527f9fd]
+## SCHEDULE 6 — CATEGORIES OF SEED THAT MAY BE MARKETED[^c-c3f0050130b836abe8b6f3a6b527f9fd]
 
 *Extent: N.I.*
 
@@ -24,74 +24,74 @@ summary: ''
 
 Regulation 14(1)
 
-### 1. Breeder’s seed[^key-c3f0050130b836abe8b6f3a6b527f9fd]
+### 1. Breeder’s seed[^c-c3f0050130b836abe8b6f3a6b527f9fd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Pre-basic seed of a listed variety[^key-c3f0050130b836abe8b6f3a6b527f9fd]
+### 2. Pre-basic seed of a listed variety[^c-c3f0050130b836abe8b6f3a6b527f9fd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-c3f0050130b836abe8b6f3a6b527f9fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-c3f0050130b836abe8b6f3a6b527f9fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-c3f0050130b836abe8b6f3a6b527f9fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-c3f0050130b836abe8b6f3a6b527f9fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-c3f0050130b836abe8b6f3a6b527f9fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-c3f0050130b836abe8b6f3a6b527f9fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Basic seed of a listed variety[^key-c3f0050130b836abe8b6f3a6b527f9fd]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**7.**[^key-c3f0050130b836abe8b6f3a6b527f9fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**8.**[^key-c3f0050130b836abe8b6f3a6b527f9fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**9.**[^key-c3f0050130b836abe8b6f3a6b527f9fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 10. CS seed of a listed variety[^key-c3f0050130b836abe8b6f3a6b527f9fd]
+### 6. Basic seed of a listed variety[^c-c3f0050130b836abe8b6f3a6b527f9fd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-c3f0050130b836abe8b6f3a6b527f9fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-c3f0050130b836abe8b6f3a6b527f9fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-c3f0050130b836abe8b6f3a6b527f9fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-c3f0050130b836abe8b6f3a6b527f9fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-c3f0050130b836abe8b6f3a6b527f9fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-c3f0050130b836abe8b6f3a6b527f9fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Early movement pre-basic seed of a listed variety[^key-c3f0050130b836abe8b6f3a6b527f9fd]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**15.**[^key-c3f0050130b836abe8b6f3a6b527f9fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 16. Early movement basic seed of a listed variety[^key-c3f0050130b836abe8b6f3a6b527f9fd]
+### 10. CS seed of a listed variety[^c-c3f0050130b836abe8b6f3a6b527f9fd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-c3f0050130b836abe8b6f3a6b527f9fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-c3f0050130b836abe8b6f3a6b527f9fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Early movement CS seed of a listed variety[^key-c3f0050130b836abe8b6f3a6b527f9fd]
+**12.**[^c-c3f0050130b836abe8b6f3a6b527f9fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-c3f0050130b836abe8b6f3a6b527f9fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-c3f0050130b836abe8b6f3a6b527f9fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 20. Basic seed of a component of a listed hybrid variety[^key-c3f0050130b836abe8b6f3a6b527f9fd]
+### 14. Early movement pre-basic seed of a listed variety[^c-c3f0050130b836abe8b6f3a6b527f9fd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**21.**[^key-c3f0050130b836abe8b6f3a6b527f9fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-c3f0050130b836abe8b6f3a6b527f9fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**22.**[^key-c3f0050130b836abe8b6f3a6b527f9fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**23.**[^key-c3f0050130b836abe8b6f3a6b527f9fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 24. Early movement basic seed of a component of a listed hybrid variety[^key-c3f0050130b836abe8b6f3a6b527f9fd]
+### 16. Early movement basic seed of a listed variety[^c-c3f0050130b836abe8b6f3a6b527f9fd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**25.**[^key-c3f0050130b836abe8b6f3a6b527f9fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-c3f0050130b836abe8b6f3a6b527f9fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 18. Early movement CS seed of a listed variety[^c-c3f0050130b836abe8b6f3a6b527f9fd]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**19.**[^c-c3f0050130b836abe8b6f3a6b527f9fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 20. Basic seed of a component of a listed hybrid variety[^c-c3f0050130b836abe8b6f3a6b527f9fd]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**21.**[^c-c3f0050130b836abe8b6f3a6b527f9fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**22.**[^c-c3f0050130b836abe8b6f3a6b527f9fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**23.**[^c-c3f0050130b836abe8b6f3a6b527f9fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 24. Early movement basic seed of a component of a listed hybrid variety[^c-c3f0050130b836abe8b6f3a6b527f9fd]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**25.**[^c-c3f0050130b836abe8b6f3a6b527f9fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c3f0050130b836abe8b6f3a6b527f9fd]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2009/384) revoked (14.7.2016) by [The Seed Marketing Regulations (Northern Ireland) 2016 (S.R. 2016/244)](https://www.legislation.gov.uk/nisr/2016/244), [reg. 35(2)(b)](https://www.legislation.gov.uk/nisr/2016/244/regulation/35/2/b)
+[^c-c3f0050130b836abe8b6f3a6b527f9fd]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2009/384) revoked (14.7.2016) by [The Seed Marketing Regulations (Northern Ireland) 2016 (S.R. 2016/244)](https://www.legislation.gov.uk/nisr/2016/244), [reg. 35(2)(b)](https://www.legislation.gov.uk/nisr/2016/244/regulation/35/2/b)

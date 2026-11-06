@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Transfer schemes in connection with regulations under section 92(1)[^key-fa1b06cf98ae8b35957699dcbfb94a18][^key-3236b79300e3b48842351b8da58ee54f]
+## 93. Transfer schemes in connection with regulations under section 92(1)[^c-fa1b06cf98ae8b35957699dcbfb94a18][^c-3236b79300e3b48842351b8da58ee54f]
 
 *Extent: E+W*
 
@@ -63,6 +63,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fa1b06cf98ae8b35957699dcbfb94a18]: Commencement: S. 93 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-fa1b06cf98ae8b35957699dcbfb94a18]: Commencement: S. 93 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-3236b79300e3b48842351b8da58ee54f]: Commencement: [S. 93](https://www.legislation.gov.uk/ukpga/2025/34/section/93) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)
+[^c-3236b79300e3b48842351b8da58ee54f]: Commencement: [S. 93](https://www.legislation.gov.uk/ukpga/2025/34/section/93) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)

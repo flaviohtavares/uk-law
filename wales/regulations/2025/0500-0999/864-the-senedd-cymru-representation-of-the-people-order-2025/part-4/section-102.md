@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 102. Election determined to be void by election court[^key-56cc7dc15ad8549e512389f0dd65f61b]
+## 102. Election determined to be void by election court[^c-56cc7dc15ad8549e512389f0dd65f61b]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-56cc7dc15ad8549e512389f0dd65f61b]: Commencement: Art. 102 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-56cc7dc15ad8549e512389f0dd65f61b]: Commencement: Art. 102 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

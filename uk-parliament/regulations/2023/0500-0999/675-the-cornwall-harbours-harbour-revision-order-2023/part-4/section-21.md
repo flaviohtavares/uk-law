@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Restriction of works and dredging[^key-416d4d7e18a9ab050501b132ad883034]
+## 21. Restriction of works and dredging[^c-416d4d7e18a9ab050501b132ad883034]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-416d4d7e18a9ab050501b132ad883034]: Commencement: Art. 21 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
+[^c-416d4d7e18a9ab050501b132ad883034]: Commencement: Art. 21 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)

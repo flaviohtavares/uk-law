@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Determination of the individual schools budget for the funding period and limit on increase in central expenditure[^key-f8616460541bee34df66c8f78b079ca5]
+## 8. Determination of the individual schools budget for the funding period and limit on increase in central expenditure[^c-f8616460541bee34df66c8f78b079ca5]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f8616460541bee34df66c8f78b079ca5]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2021/59) revoked (with application in accordance with reg.1(2) of the amending S.I.) by [The School and Early Years Finance (England) Regulations 2023 (S.I. 2023/59)](https://www.legislation.gov.uk/uksi/2023/59), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/59/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2023/59/regulation/2)
+[^c-f8616460541bee34df66c8f78b079ca5]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2021/59) revoked (with application in accordance with reg.1(2) of the amending S.I.) by [The School and Early Years Finance (England) Regulations 2023 (S.I. 2023/59)](https://www.legislation.gov.uk/uksi/2023/59), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/59/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2023/59/regulation/2)

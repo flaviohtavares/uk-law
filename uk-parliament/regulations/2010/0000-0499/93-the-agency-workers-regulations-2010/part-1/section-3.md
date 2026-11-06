@@ -25,7 +25,7 @@ summary: ''
 - (a) is supplied by a temporary work agency to work temporarily for and under the supervision and direction of a hirer; and
 - (b) has a contract with the temporary work agency which is—
   - (i) a contract of employment with the agency, or
-  - (ii)[^key-abf24bb5e550e4027f0ae1dfcc507318] any other contract with the agency to perform work or services personally.
+  - (ii)[^c-abf24bb5e550e4027f0ae1dfcc507318] any other contract with the agency to perform work or services personally.
 
 (2) But an individual is not an agency worker if—
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-abf24bb5e550e4027f0ae1dfcc507318]: Textual amendment: Reg. 3(1)(b)(ii) substituted (1.9.2011) by [The Agency Workers (Amendment) Regulations 2011 (S.I. 2011/1941)](https://www.legislation.gov.uk/uksi/2011/1941), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1941/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2011/1941/regulation/2/2)
+[^c-abf24bb5e550e4027f0ae1dfcc507318]: Textual amendment: Reg. 3(1)(b)(ii) substituted (1.9.2011) by [The Agency Workers (Amendment) Regulations 2011 (S.I. 2011/1941)](https://www.legislation.gov.uk/uksi/2011/1941), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1941/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2011/1941/regulation/2/2)

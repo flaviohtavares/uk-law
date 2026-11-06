@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 53. Calculation of voting rights: special cases (creditors)[^key-0b15756ef463156b2f9f4b230b3c96c5]
+## 53. Calculation of voting rights: special cases (creditors)[^c-0b15756ef463156b2f9f4b230b3c96c5]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0b15756ef463156b2f9f4b230b3c96c5]: Commencement: [Rule 53](https://www.legislation.gov.uk/nisr/2026/11/rule/53) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-0b15756ef463156b2f9f4b230b3c96c5]: Commencement: [Rule 53](https://www.legislation.gov.uk/nisr/2026/11/rule/53) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

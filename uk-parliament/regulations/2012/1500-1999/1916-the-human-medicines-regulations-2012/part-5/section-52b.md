@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52B. Application for UKMA(UK) relating to certain medicinal products that do not qualify as generic etc.[^key-6b30b9d77d8b559d64f18d8de427c5c5]
+## 52B. Application for UKMA(UK) relating to certain medicinal products that do not qualify as generic etc.[^c-6b30b9d77d8b559d64f18d8de427c5c5]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6b30b9d77d8b559d64f18d8de427c5c5]: Textual amendment: [Reg. 52B](https://www.legislation.gov.uk/uksi/2012/1916/regulation/52B) substituted (1.1.2025) by [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [39](https://www.legislation.gov.uk/uksi/2024/832/regulation/39)
+[^c-6b30b9d77d8b559d64f18d8de427c5c5]: Textual amendment: [Reg. 52B](https://www.legislation.gov.uk/uksi/2012/1916/regulation/52B) substituted (1.1.2025) by [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [39](https://www.legislation.gov.uk/uksi/2024/832/regulation/39)

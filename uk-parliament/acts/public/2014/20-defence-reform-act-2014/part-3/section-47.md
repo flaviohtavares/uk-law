@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Report on volunteer reserve forces[^key-6ac9f89bc7ef8e5be7a6b31d406ff45d]
+## 47. Report on volunteer reserve forces[^c-6ac9f89bc7ef8e5be7a6b31d406ff45d]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,4 +55,4 @@ In Part 11 of the Reserve Forces Act 1996 (reserve associations), after section 
 
 ## Annotations
 
-[^key-6ac9f89bc7ef8e5be7a6b31d406ff45d]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2014/20/section/47) in force at 1.10.2014 by [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(c)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/c)
+[^c-6ac9f89bc7ef8e5be7a6b31d406ff45d]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2014/20/section/47) in force at 1.10.2014 by [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(c)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/c)

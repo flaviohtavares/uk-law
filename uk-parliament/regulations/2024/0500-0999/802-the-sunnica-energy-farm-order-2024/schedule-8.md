@@ -22,7 +22,7 @@ summary: ''
 
 Article 19
 
-### 1. Interpretation[^key-7abca746177e9d015566f0158e456132]
+### 1. Interpretation[^c-7abca746177e9d015566f0158e456132]
 
 In this Schedule—
 
@@ -44,8 +44,8 @@ In this Schedule—
 
   | *(1)*<br>*Plot reference number shown on the land plans* | *(2)*<br>*Purposes for which rights over land may be acquired and restrictive covenants imposed* |
   | --- | --- |
-  | [^key-6c555e6a6c144829da1c3f6c06bed217]. . . | [^key-6c555e6a6c144829da1c3f6c06bed217]. . . |
-  | [^key-6c555e6a6c144829da1c3f6c06bed217]. . . | [^key-6c555e6a6c144829da1c3f6c06bed217]. . . |
+  | [^c-6c555e6a6c144829da1c3f6c06bed217]. . . | [^c-6c555e6a6c144829da1c3f6c06bed217]. . . |
+  | [^c-6c555e6a6c144829da1c3f6c06bed217]. . . | [^c-6c555e6a6c144829da1c3f6c06bed217]. . . |
   | 1-04 | Access rights |
   | 1-05 | Access rights |
   | 1-06 | Access rights |
@@ -66,7 +66,7 @@ In this Schedule—
   | 5-08 | Cable rights and access rights |
   | 5-09 | Cable rights |
   | 5-10 | Cable rights and access rights |
-  | [^key-6c555e6a6c144829da1c3f6c06bed217]. . . | [^key-6c555e6a6c144829da1c3f6c06bed217]. . . |
+  | [^c-6c555e6a6c144829da1c3f6c06bed217]. . . | [^c-6c555e6a6c144829da1c3f6c06bed217]. . . |
   | 6-02 | Cable rights and access rights |
   | 6-07 | Access rights |
   | 6-08 | Access rights |
@@ -140,8 +140,8 @@ In this Schedule—
   | 16-11 | Cable rights |
   | 16-12 | Access rights |
   | 16-13 | Access rights |
-  | 16-14 | Cable rights [^key-6c555e6a6c144829da1c3f6c06bed217]... |
-  | 16-15 | Cable rights and access rights[^key-92c7273929fb4786c93f3105206a01df] |
+  | 16-14 | Cable rights [^c-6c555e6a6c144829da1c3f6c06bed217]... |
+  | 16-15 | Cable rights and access rights[^c-92c7273929fb4786c93f3105206a01df] |
   | 16-16 | Cable rights |
   | 16-17 | Cable rights |
   | 16-18 | Cable rights |
@@ -221,8 +221,8 @@ In this Schedule—
 
 ## Annotations
 
-[^key-7abca746177e9d015566f0158e456132]: Commencement: Sch. 8 para. 1 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/802/article/1)
+[^c-7abca746177e9d015566f0158e456132]: Commencement: Sch. 8 para. 1 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/802/article/1)
 
-[^key-6c555e6a6c144829da1c3f6c06bed217]: Textual amendment: Words in [Sch. 8](https://www.legislation.gov.uk/uksi/2024/802/schedule/8) omitted (13.11.2024) by virtue of [The Sunnica Energy Farm (Correction) Order 2024 (S.I. 2024/1154)](https://www.legislation.gov.uk/uksi/2024/1154), [art. 1](https://www.legislation.gov.uk/uksi/2024/1154/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1154/schedule)
+[^c-6c555e6a6c144829da1c3f6c06bed217]: Textual amendment: Words in [Sch. 8](https://www.legislation.gov.uk/uksi/2024/802/schedule/8) omitted (13.11.2024) by virtue of [The Sunnica Energy Farm (Correction) Order 2024 (S.I. 2024/1154)](https://www.legislation.gov.uk/uksi/2024/1154), [art. 1](https://www.legislation.gov.uk/uksi/2024/1154/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1154/schedule)
 
-[^key-92c7273929fb4786c93f3105206a01df]: Textual amendment: Words in [Sch. 8](https://www.legislation.gov.uk/uksi/2024/802/schedule/8) inserted (13.11.2024) by [The Sunnica Energy Farm (Correction) Order 2024 (S.I. 2024/1154)](https://www.legislation.gov.uk/uksi/2024/1154), [art. 1](https://www.legislation.gov.uk/uksi/2024/1154/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1154/schedule)
+[^c-92c7273929fb4786c93f3105206a01df]: Textual amendment: Words in [Sch. 8](https://www.legislation.gov.uk/uksi/2024/802/schedule/8) inserted (13.11.2024) by [The Sunnica Energy Farm (Correction) Order 2024 (S.I. 2024/1154)](https://www.legislation.gov.uk/uksi/2024/1154), [art. 1](https://www.legislation.gov.uk/uksi/2024/1154/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1154/schedule)

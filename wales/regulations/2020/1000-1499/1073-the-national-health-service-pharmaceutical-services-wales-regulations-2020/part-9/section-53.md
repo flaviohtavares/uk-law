@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 53. Removal of listings: cases relating to remedial notices and breach notices[^key-b6ba9ad102965f3751849fc1d9632845]
+## 53. Removal of listings: cases relating to remedial notices and breach notices[^c-b6ba9ad102965f3751849fc1d9632845]
 
 *Extent: E+W*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b6ba9ad102965f3751849fc1d9632845]: Commencement: Reg. 53 in force at 1.10.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/c)
+[^c-b6ba9ad102965f3751849fc1d9632845]: Commencement: Reg. 53 in force at 1.10.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/c)

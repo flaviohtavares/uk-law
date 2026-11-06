@@ -26,7 +26,7 @@ For the purposes of Article 50c, the following shall apply:
 - ((b)) where the rules of a CCP provide that it use part or all of its financial resources to cover its losses due to the default of one or more of its clearing members after it has depleted its default fund, but before it calls on the contractually committed contributions of its clearing members, the CCP shall add the corresponding amount of those additional financial resources [formula: see source](https://www.legislation.gov.uk/eur/2012/648) to the total amount of pre-funded contributions (DF) as follows:
 
   [formula: see source](https://www.legislation.gov.uk/eur/2012/648) .
-- ((c)) [^key-feeb66f51d7361c93deb1a2915c3fdc6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- ((c)) [^c-feeb66f51d7361c93deb1a2915c3fdc6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -34,4 +34,4 @@ For the purposes of Article 50c, the following shall apply:
 
 [^c000017]: Textual amendment: Inserted by [Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2013/575).
 
-[^key-feeb66f51d7361c93deb1a2915c3fdc6]: Textual amendment: [Art. 50d(c)](https://www.legislation.gov.uk/eur/2012/648/article/50d/c) omitted (1.1.2022) by virtue of [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [24(8)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/24/8)
+[^c-feeb66f51d7361c93deb1a2915c3fdc6]: Textual amendment: [Art. 50d(c)](https://www.legislation.gov.uk/eur/2012/648/article/50d/c) omitted (1.1.2022) by virtue of [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [24(8)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/24/8)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Interpretation: general[^key-a5e111e7f74848f76f948cace43795f7]
+## 32. Interpretation: general[^c-a5e111e7f74848f76f948cace43795f7]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In this group of sections—
 
 ## Annotations
 
-[^key-a5e111e7f74848f76f948cace43795f7]: Commencement: S. 32 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/1)
+[^c-a5e111e7f74848f76f948cace43795f7]: Commencement: S. 32 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/1)

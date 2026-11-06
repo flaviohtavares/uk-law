@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 12. Amendment of National Planning Framework and local development plans[^key-03144376793183b6590880ae1fa6e246][^key-b78c91f3ab4e461bf3d5917df2535cb5]
+## 12. Amendment of National Planning Framework and local development plans[^c-03144376793183b6590880ae1fa6e246][^c-b78c91f3ab4e461bf3d5917df2535cb5]
 
 *Extent: S*
 
@@ -77,6 +77,6 @@ summary: ''
 
 ## Annotations
 
-[^key-03144376793183b6590880ae1fa6e246]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2019/13/section/12) in force at 1.4.2024 for specified purposes by [S.S.I. 2024/79](https://www.legislation.gov.uk/ssi/2024/79), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/79/regulation/2/1)[(2)(a)](https://www.legislation.gov.uk/ssi/2024/79/regulation/2/2/a)[(3)](https://www.legislation.gov.uk/ssi/2024/79/regulation/2/3)
+[^c-03144376793183b6590880ae1fa6e246]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2019/13/section/12) in force at 1.4.2024 for specified purposes by [S.S.I. 2024/79](https://www.legislation.gov.uk/ssi/2024/79), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/79/regulation/2/1)[(2)(a)](https://www.legislation.gov.uk/ssi/2024/79/regulation/2/2/a)[(3)](https://www.legislation.gov.uk/ssi/2024/79/regulation/2/3)
 
-[^key-b78c91f3ab4e461bf3d5917df2535cb5]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2019/13/section/12) in force at 5.12.2024 in so far as not already in force by [S.S.I. 2024/252](https://www.legislation.gov.uk/ssi/2024/252), [reg. 2(2)(a)](https://www.legislation.gov.uk/ssi/2024/252/regulation/2/2/a)
+[^c-b78c91f3ab4e461bf3d5917df2535cb5]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2019/13/section/12) in force at 5.12.2024 in so far as not already in force by [S.S.I. 2024/252](https://www.legislation.gov.uk/ssi/2024/252), [reg. 2(2)(a)](https://www.legislation.gov.uk/ssi/2024/252/regulation/2/2/a)

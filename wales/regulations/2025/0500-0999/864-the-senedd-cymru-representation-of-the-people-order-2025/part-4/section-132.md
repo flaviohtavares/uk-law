@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 132. Director of Public Prosecutions[^key-c91be11b7dba36e20466c55aa90f61d3]
+## 132. Director of Public Prosecutions[^c-c91be11b7dba36e20466c55aa90f61d3]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c91be11b7dba36e20466c55aa90f61d3]: Commencement: Art. 132 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-c91be11b7dba36e20466c55aa90f61d3]: Commencement: Art. 132 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

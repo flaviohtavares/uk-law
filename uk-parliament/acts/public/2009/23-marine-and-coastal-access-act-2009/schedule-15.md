@@ -24,7 +24,7 @@ Section 201
 
 ### Sea Fish (Conservation) Act 1967 (c. 84)
 
-**1.**[^key-eb0eba5fa008db12d19d8a48cf22cba5] (1) Section 1 (size limits, etc for fish) is amended as follows.
+**1.**[^c-eb0eba5fa008db12d19d8a48cf22cba5] (1) Section 1 (size limits, etc for fish) is amended as follows.
 
 (2) In subsection (4)—
 
@@ -41,13 +41,13 @@ Section 201
 - (a) for “a relevant British fishing boat or a Scottish fishing boat” substitute “ a relevant British vessel, a Scottish fishing boat or a Northern Ireland fishing boat ”;
 - (b) for “foreign fishing boat” substitute “ foreign vessel ”.
 
-**2.**[^key-8422656b87fcc7e54d6269c67c90adbf] (1) Section 3 (regulation of nets and other fishing gear) is amended as follows.
+**2.**[^c-8422656b87fcc7e54d6269c67c90adbf] (1) Section 3 (regulation of nets and other fishing gear) is amended as follows.
 
 (2) In subsection (3)(c), after “classes of fishing boats,” insert “ or particular persons or persons of a particular description, ”.
 
 (3) In subsection (7), after “carrying” (in each place where it occurs) insert “ or use ”.
 
-**3.**[^key-07b93dc06d29203869cd47b5e9a42802] (1) Section 5 (power to restrict fishing for sea fish) is amended as follows.
+**3.**[^c-07b93dc06d29203869cd47b5e9a42802] (1) Section 5 (power to restrict fishing for sea fish) is amended as follows.
 
 (2) In subsection (2), for the words after “different provision” substitute “ for different cases ”.
 
@@ -63,11 +63,11 @@ Section 201
 
 > (6A) A person who does not comply with subsection (6) above shall be guilty of an offence under that subsection.
 
-**4.**[^key-98cb1a0210cab1f94e3b9e2c410631a6] In section 11 (penalties for offences), in subsection (3), for “subsection (5)” substitute “ subsection (4) ”.
+**4.**[^c-98cb1a0210cab1f94e3b9e2c410631a6] In section 11 (penalties for offences), in subsection (3), for “subsection (5)” substitute “ subsection (4) ”.
 
 ### Fisheries Act 1981 (c. 29)
 
-**5.**[^key-cae2c73b422acfa92d1e39ea02e1e100] (1) Schedule 4 (exemptions for fish farming) is amended as follows.
+**5.**[^c-cae2c73b422acfa92d1e39ea02e1e100] (1) Schedule 4 (exemptions for fish farming) is amended as follows.
 
 (2) In Part 1 (offences to which section 33(1) applies)—
 
@@ -82,12 +82,12 @@ Section 201
 
 ## Annotations
 
-[^key-eb0eba5fa008db12d19d8a48cf22cba5]: Commencement: [Sch. 15 para. 1](https://www.legislation.gov.uk/ukpga/2009/23/schedule/15/paragraph/1) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/8)
+[^c-eb0eba5fa008db12d19d8a48cf22cba5]: Commencement: [Sch. 15 para. 1](https://www.legislation.gov.uk/ukpga/2009/23/schedule/15/paragraph/1) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/8)
 
-[^key-8422656b87fcc7e54d6269c67c90adbf]: Commencement: [Sch. 15 para. 2](https://www.legislation.gov.uk/ukpga/2009/23/schedule/15/paragraph/2) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/8)
+[^c-8422656b87fcc7e54d6269c67c90adbf]: Commencement: [Sch. 15 para. 2](https://www.legislation.gov.uk/ukpga/2009/23/schedule/15/paragraph/2) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/8)
 
-[^key-07b93dc06d29203869cd47b5e9a42802]: Commencement: [Sch. 15 para. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/15/paragraph/3) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/8)
+[^c-07b93dc06d29203869cd47b5e9a42802]: Commencement: [Sch. 15 para. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/15/paragraph/3) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/8)
 
-[^key-98cb1a0210cab1f94e3b9e2c410631a6]: Commencement: [Sch. 15 para. 4](https://www.legislation.gov.uk/ukpga/2009/23/schedule/15/paragraph/4) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/8)
+[^c-98cb1a0210cab1f94e3b9e2c410631a6]: Commencement: [Sch. 15 para. 4](https://www.legislation.gov.uk/ukpga/2009/23/schedule/15/paragraph/4) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/8)
 
-[^key-cae2c73b422acfa92d1e39ea02e1e100]: Commencement: [Sch. 15 para. 5](https://www.legislation.gov.uk/ukpga/2009/23/schedule/15/paragraph/5) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/8)
+[^c-cae2c73b422acfa92d1e39ea02e1e100]: Commencement: [Sch. 15 para. 5](https://www.legislation.gov.uk/ukpga/2009/23/schedule/15/paragraph/5) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/8)

@@ -48,11 +48,11 @@ The Treasury make this Order in exercise of the powers conferred by section 10(1
 
 In accordance with section 10(7) of that Act the Treasury have consulted the Welsh Ministers where they have thought it appropriate.
 
-## 1. Citation and commencement[^key-a368af6753a2d187ec80115e27f50f1a]
+## 1. Citation and commencement[^c-a368af6753a2d187ec80115e27f50f1a]
 
 This Order may be cited as the Whole of Government Accounts (Designation of Bodies) Order 2013 and shall come into force on 9th August 2013.
 
-## 2. Designation[^key-105ba5c881755c481a370604bd59f9d4]
+## 2. Designation[^c-105ba5c881755c481a370604bd59f9d4]
 
 The bodies listed in the Schedule to this Order are designated in respect of the financial year ending on 31st March 2013 for the purposes of section 10 of the Government Resources and Accounts Act 2000.
 
@@ -64,7 +64,7 @@ Two of the Lords Commissioners of Her Majesty’s Treasury
 
 16th July 2013
 
-## SCHEDULE — Designated Bodies for 2012-2013[^key-aeccf6c849943387961c8fd5178da1b5]
+## SCHEDULE — Designated Bodies for 2012-2013[^c-aeccf6c849943387961c8fd5178da1b5]
 
 Article 2
 
@@ -111,7 +111,7 @@ Article 2
 - Channel Four Television Corporation
 - Charity Commission
 - Cheshire Probation Trust
-- [^key-243cdbdfb3df41cfe5cc9b4adbf24397]...
+- [^c-243cdbdfb3df41cfe5cc9b4adbf24397]...
 - Child Maintenance and Enforcement Commission
 - Children and Family Court Advisory and Support Service
 - Children’s Commissioner for Wales
@@ -3713,10 +3713,10 @@ An impact assessment has not been prepared for this instrument as no impact on t
 
 [^f00001]: Footnote: [2000 c.20](https://www.legislation.gov.uk/ukpga/2000/20). Section 10 was amended by paragraph 57 of Schedule 10 to the Government of Wales Act [2006 (c.32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-a368af6753a2d187ec80115e27f50f1a]: Commencement: Art. 1 in force at 9.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1796/article/1)
+[^c-a368af6753a2d187ec80115e27f50f1a]: Commencement: Art. 1 in force at 9.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1796/article/1)
 
-[^key-105ba5c881755c481a370604bd59f9d4]: Commencement: Art. 2 in force at 9.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1796/article/1)
+[^c-105ba5c881755c481a370604bd59f9d4]: Commencement: Art. 2 in force at 9.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1796/article/1)
 
-[^key-aeccf6c849943387961c8fd5178da1b5]: Commencement: Sch. in force at 9.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1796/article/1)
+[^c-aeccf6c849943387961c8fd5178da1b5]: Commencement: Sch. in force at 9.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1796/article/1)
 
-[^key-243cdbdfb3df41cfe5cc9b4adbf24397]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2013/1796/schedule) omitted (26.5.2015) by virtue of [The Deregulation Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/971)](https://www.legislation.gov.uk/uksi/2015/971), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/article/1/2/a), [Sch. 3 para. 28](https://www.legislation.gov.uk/uksi/2015/971/schedule/3/paragraph/28)
+[^c-243cdbdfb3df41cfe5cc9b4adbf24397]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2013/1796/schedule) omitted (26.5.2015) by virtue of [The Deregulation Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/971)](https://www.legislation.gov.uk/uksi/2015/971), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/article/1/2/a), [Sch. 3 para. 28](https://www.legislation.gov.uk/uksi/2015/971/schedule/3/paragraph/28)

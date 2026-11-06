@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 356JB. Other definitions[^key-85a4309dc4c6cdaa460c0f2040952fa9]
+## 356JB. Other definitions[^c-85a4309dc4c6cdaa460c0f2040952fa9]
 
 *Extent: E+W+S+N.I.*
 
 In this Chapter (except where otherwise specified)—
 
-- “**adjusted ring fence profits**”, in relation to a company and an accounting period, is to be read in accordance with section 330ZA[^key-866e4d48b2f54e29f9b7f447dce03434];
+- “**adjusted ring fence profits**”, in relation to a company and an accounting period, is to be read in accordance with section 330ZA[^c-866e4d48b2f54e29f9b7f447dce03434];
 - “**cumulative total amount of activated allowance**” has the meaning given by section 356D(2);
 - “**licence**” has the same meaning as in Part 1 of OTA 1975 (see section 12(1) of that Act);
 - “**licensed area**” has the same meaning as in Part 1 of OTA 1975;
@@ -33,6 +33,6 @@ In this Chapter (except where otherwise specified)—
 
 ## Annotations
 
-[^key-85a4309dc4c6cdaa460c0f2040952fa9]: Textual amendment: Pt. 8 Ch. 8 inserted (with effect in accordance with Sch. 15 paras. 6(1), 9(2) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 15 para. 3](https://www.legislation.gov.uk/ukpga/2014/26/schedule/15/paragraph/3)
+[^c-85a4309dc4c6cdaa460c0f2040952fa9]: Textual amendment: Pt. 8 Ch. 8 inserted (with effect in accordance with Sch. 15 paras. 6(1), 9(2) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 15 para. 3](https://www.legislation.gov.uk/ukpga/2014/26/schedule/15/paragraph/3)
 
-[^key-866e4d48b2f54e29f9b7f447dce03434]: Textual amendment: Words in s. 356JB substituted (with effect in accordance with Sch. 14 para. 10 of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 14 para. 8](https://www.legislation.gov.uk/ukpga/2015/11/schedule/14/paragraph/8)
+[^c-866e4d48b2f54e29f9b7f447dce03434]: Textual amendment: Words in s. 356JB substituted (with effect in accordance with Sch. 14 para. 10 of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 14 para. 8](https://www.legislation.gov.uk/ukpga/2015/11/schedule/14/paragraph/8)

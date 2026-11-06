@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4. Supply zones[^key-65b633ce12981778a842301e2302f0c6]
+## 4. Supply zones[^c-65b633ce12981778a842301e2302f0c6]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-65b633ce12981778a842301e2302f0c6]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2017/282/regulation/4) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-65b633ce12981778a842301e2302f0c6]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2017/282/regulation/4) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)

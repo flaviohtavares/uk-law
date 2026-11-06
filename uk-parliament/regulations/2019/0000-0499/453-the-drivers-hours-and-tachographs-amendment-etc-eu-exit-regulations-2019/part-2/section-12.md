@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12.[^key-ef11d9978e4c0deb7630c3266eaa43f5]
+## 12.[^c-ef11d9978e4c0deb7630c3266eaa43f5]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ In section 97G(2) [^c23620661], after “Community Drivers' Hours Regulation” 
 
 ## Annotations
 
-[^key-ef11d9978e4c0deb7630c3266eaa43f5]: Commencement: Reg. 12 in force at 26.3.2019, see reg. 1(2)
+[^c-ef11d9978e4c0deb7630c3266eaa43f5]: Commencement: Reg. 12 in force at 26.3.2019, see reg. 1(2)
 
 [^c23620661]: Marginal citation: Section 97G was inserted by [S.I. 2008/198](https://www.legislation.gov.uk/uksi/2008/198).

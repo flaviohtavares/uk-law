@@ -22,7 +22,7 @@ summary: ''
 
 (1) The Secretary of State may modify—
 
-- (a) a condition of a particular licence under section 6(1)(a), (c) or (da)[^key-ec66063513cfcb98c75a65e91c890548] of EA 1989 (generation, distribution and electricity system operator licences[^key-e14ac06c0345968cbbded1171757f112]);
+- (a) a condition of a particular licence under section 6(1)(a), (c) or (da)[^c-ec66063513cfcb98c75a65e91c890548] of EA 1989 (generation, distribution and electricity system operator licences[^c-e14ac06c0345968cbbded1171757f112]);
 - (b) the standard conditions incorporated in licences under that provision by virtue of section 8A(1A) of that Act;
 - (c) a document maintained in accordance with the conditions of licences under that provision, or an agreement that gives effect to a document so maintained.
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ec66063513cfcb98c75a65e91c890548]: Textual amendment: Words in s. 26(1)(a) substituted (1.10.2024) by [The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706)](https://www.legislation.gov.uk/uksi/2024/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/706/regulation/1/1), [9(3)(a)](https://www.legislation.gov.uk/uksi/2024/706/regulation/9/3/a); [S.I. 2024/957](https://www.legislation.gov.uk/uksi/2024/957), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/957/regulation/2/a)
+[^c-ec66063513cfcb98c75a65e91c890548]: Textual amendment: Words in s. 26(1)(a) substituted (1.10.2024) by [The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706)](https://www.legislation.gov.uk/uksi/2024/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/706/regulation/1/1), [9(3)(a)](https://www.legislation.gov.uk/uksi/2024/706/regulation/9/3/a); [S.I. 2024/957](https://www.legislation.gov.uk/uksi/2024/957), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/957/regulation/2/a)
 
-[^key-e14ac06c0345968cbbded1171757f112]: Textual amendment: Words in s. 26(1)(a) substituted (1.10.2024) by [The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706)](https://www.legislation.gov.uk/uksi/2024/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/706/regulation/1/1), [9(3)(b)](https://www.legislation.gov.uk/uksi/2024/706/regulation/9/3/b); [S.I. 2024/957](https://www.legislation.gov.uk/uksi/2024/957), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/957/regulation/2/a)
+[^c-e14ac06c0345968cbbded1171757f112]: Textual amendment: Words in s. 26(1)(a) substituted (1.10.2024) by [The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706)](https://www.legislation.gov.uk/uksi/2024/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/706/regulation/1/1), [9(3)(b)](https://www.legislation.gov.uk/uksi/2024/706/regulation/9/3/b); [S.I. 2024/957](https://www.legislation.gov.uk/uksi/2024/957), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/957/regulation/2/a)

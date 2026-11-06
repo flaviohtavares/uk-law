@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 41. Disclosure of confidential information[^key-316155ea837ebebe3c5aec8e989ed3f0]
+## 41. Disclosure of confidential information[^c-316155ea837ebebe3c5aec8e989ed3f0]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ is guilty of an offence and liable on summary conviction to a fine not exceeding
 
 ## Annotations
 
-[^key-316155ea837ebebe3c5aec8e989ed3f0]: Commencement: Art. 41 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)
+[^c-316155ea837ebebe3c5aec8e989ed3f0]: Commencement: Art. 41 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)

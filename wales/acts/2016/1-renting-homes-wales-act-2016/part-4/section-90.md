@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 90. Fixed term standard contracts: determining the length of term[^key-106572f4300b0db8b7784a364c9a0bd4]
+## 90. Fixed term standard contracts: determining the length of term[^c-106572f4300b0db8b7784a364c9a0bd4]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-106572f4300b0db8b7784a364c9a0bd4]: Commencement: [S. 90](https://www.legislation.gov.uk/anaw/2016/1/section/90) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-106572f4300b0db8b7784a364c9a0bd4]: Commencement: [S. 90](https://www.legislation.gov.uk/anaw/2016/1/section/90) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

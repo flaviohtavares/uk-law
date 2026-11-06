@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 4 — LAND IN WHICH SURVEYS AND INVESTIGATIONS MAY BE CARRIED OUT[^key-c15e3ed24e94221a2e6278ce99d1d047]
+## SCHEDULE 4 — LAND IN WHICH SURVEYS AND INVESTIGATIONS MAY BE CARRIED OUT[^c-c15e3ed24e94221a2e6278ce99d1d047]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ Article 15(1)
 
 ## Annotations
 
-[^key-c15e3ed24e94221a2e6278ce99d1d047]: Commencement: Sch. 4 in force at 7.1.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3328/article/1)
+[^c-c15e3ed24e94221a2e6278ce99d1d047]: Commencement: Sch. 4 in force at 7.1.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3328/article/1)

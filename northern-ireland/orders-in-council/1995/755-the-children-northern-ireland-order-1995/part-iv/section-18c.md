@@ -65,7 +65,7 @@ and the authority has decided for the purposes of Article 18 that the child's ne
 (7) A person falls within this subsection if he is—
 
 - (a) a person falling within paragraph (2)(a) or (b) and the child in question is aged 16 or 17; or
-- (b) a person who is in receipt of universal credit (except in such circumstances as may be prescribed),[^key-eea23640e735444cd783d160b9c4e629] of income support, working families' tax credit or disabled person's tax credit under Part VII of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 (c. 7), of any element of child tax credit other than the family element, of working tax credit[^c17269451], of an income-based jobseeker's allowance or of an income-related employment and support allowance[^c20586041].
+- (b) a person who is in receipt of universal credit (except in such circumstances as may be prescribed),[^c-eea23640e735444cd783d160b9c4e629] of income support, working families' tax credit or disabled person's tax credit under Part VII of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 (c. 7), of any element of child tax credit other than the family element, of working tax credit[^c17269451], of an income-based jobseeker's allowance or of an income-related employment and support allowance[^c20586041].
 
 (8) Regulations made for the purposes of paragraph (3)(a) may provide that direct payments shall not be made in respect of the provision of residential accommodation for any person for a period in excess of a prescribed period.
 
@@ -75,7 +75,7 @@ and the authority has decided for the purposes of Article 18 that the child's ne
 
 [^c20586001]: Textual amendment: [2002 c. 6 (NI)](https://www.legislation.gov.uk/nia/2002/6)
 
-[^key-eea23640e735444cd783d160b9c4e629]: Textual amendment: Words in [art. 18C(7)(b)](https://www.legislation.gov.uk/nisi/1995/755/article/18C/7/b) inserted (27.9.2017) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 2 para. 28(b)](https://www.legislation.gov.uk/nisi/2015/2006/schedule/2/paragraph/28/b); [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 4(1)](https://www.legislation.gov.uk/nisr/2017/190/article/4/1)[(2)(g)(i)](https://www.legislation.gov.uk/nisr/2017/190/article/4/2/g/i)
+[^c-eea23640e735444cd783d160b9c4e629]: Textual amendment: Words in [art. 18C(7)(b)](https://www.legislation.gov.uk/nisi/1995/755/article/18C/7/b) inserted (27.9.2017) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 2 para. 28(b)](https://www.legislation.gov.uk/nisi/2015/2006/schedule/2/paragraph/28/b); [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 4(1)](https://www.legislation.gov.uk/nisr/2017/190/article/4/1)[(2)(g)(i)](https://www.legislation.gov.uk/nisr/2017/190/article/4/2/g/i)
 
 [^c17269451]: Textual amendment: [2002 c. 21](https://www.legislation.gov.uk/ukpga/2002/21)
 

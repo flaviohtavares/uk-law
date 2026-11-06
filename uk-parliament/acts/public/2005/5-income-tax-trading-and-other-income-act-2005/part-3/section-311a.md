@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 311A. Replacement domestic items relief[^key-9603d9724529cca5f67ce09bd6ce6980]
+## 311A. Replacement domestic items relief[^c-9603d9724529cca5f67ce09bd6ce6980]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,9 +36,9 @@ summary: ''
 
 (5) Condition D is that no allowance under CAA 2001 may be claimed in respect of the expenditure.
 
-(6) In calculating the profits of the business, a deduction for the expenditure is allowed. But this is subject to subsection (8)[^key-a121f821f9cfd0d4638731bfc6afa493].
+(6) In calculating the profits of the business, a deduction for the expenditure is allowed. But this is subject to subsection (8)[^c-a121f821f9cfd0d4638731bfc6afa493].
 
-(7)[^key-8faaf603f5a840b0182fe1060ff2a169] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-8faaf603f5a840b0182fe1060ff2a169] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) No deduction is allowed for expenditure in a tax year if—
 
@@ -72,22 +72,22 @@ Subsections (10) to (13) make further provision about the calculation of the ded
 
 (15) In this section—
 
-- “[^key-09cc8e54e2e23301ff656f9e6bd49b00]**the capital expenditure rule**” means—
+- “[^c-09cc8e54e2e23301ff656f9e6bd49b00]**the capital expenditure rule**” means—
   - (a) in relation to a property business whose profits are calculated in accordance with GAAP, section 33 (capital expenditure), as applied by section 272, and
   - (b) in relation to a property business whose profits are calculated on the cash basis, section 307B (cash basis: capital expenditure);
 - “**lessee**” means the person who is entitled to the use of the dwelling-house under a lease or other arrangement under which a sum is payable in respect of the use of the dwelling-house;
-- “**the wholly and exclusively rule**” means [^key-00e0a897dbafc01a507165dabe55e5bb]... section 34 (expenses not wholly and exclusively for trade and unconnected losses), as applied by section 272 or 272ZA[^key-12b1d649c88b2f10103e2e4c44e6f05c].
+- “**the wholly and exclusively rule**” means [^c-00e0a897dbafc01a507165dabe55e5bb]... section 34 (expenses not wholly and exclusively for trade and unconnected losses), as applied by section 272 or 272ZA[^c-12b1d649c88b2f10103e2e4c44e6f05c].
 
 ## Annotations
 
-[^key-9603d9724529cca5f67ce09bd6ce6980]: Textual amendment: S. 311A and cross-heading inserted (with effect in accordance with s. 73(8)(9) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 73(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/73/1)
+[^c-9603d9724529cca5f67ce09bd6ce6980]: Textual amendment: S. 311A and cross-heading inserted (with effect in accordance with s. 73(8)(9) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 73(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/73/1)
 
-[^key-a121f821f9cfd0d4638731bfc6afa493]: Textual amendment: Words in [s. 311A(6)](https://www.legislation.gov.uk/ukpga/2005/5/section/311A/6) substituted (for the purposes of income tax in relation to the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 5 paras. 2(6)(a)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/2/6/a), [12(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/12/1) (with [Sch. 5 paras. 15](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/15), [18(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/18/4), [19](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/19))
+[^c-a121f821f9cfd0d4638731bfc6afa493]: Textual amendment: Words in [s. 311A(6)](https://www.legislation.gov.uk/ukpga/2005/5/section/311A/6) substituted (for the purposes of income tax in relation to the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 5 paras. 2(6)(a)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/2/6/a), [12(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/12/1) (with [Sch. 5 paras. 15](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/15), [18(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/18/4), [19](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/19))
 
-[^key-8faaf603f5a840b0182fe1060ff2a169]: Textual amendment: [S. 311A(7)](https://www.legislation.gov.uk/ukpga/2005/5/section/311A/7) omitted (for the purposes of income tax in relation to the tax year 2025-26 and subsequent tax years) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 5 paras. 2(6)(b)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/2/6/b), [12(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/12/1) (with [Sch. 5 paras. 15](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/15), [18(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/18/4), [19](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/19))
+[^c-8faaf603f5a840b0182fe1060ff2a169]: Textual amendment: [S. 311A(7)](https://www.legislation.gov.uk/ukpga/2005/5/section/311A/7) omitted (for the purposes of income tax in relation to the tax year 2025-26 and subsequent tax years) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 5 paras. 2(6)(b)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/2/6/b), [12(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/12/1) (with [Sch. 5 paras. 15](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/15), [18(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/18/4), [19](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/19))
 
-[^key-09cc8e54e2e23301ff656f9e6bd49b00]: Textual amendment: Words in [s. 311A(15)](https://www.legislation.gov.uk/ukpga/2005/5/section/311A/15) substituted (16.11.2017) (with effect in accordance with Sch. 2 para. 64 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 2 para. 24(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/2/paragraph/24/a)
+[^c-09cc8e54e2e23301ff656f9e6bd49b00]: Textual amendment: Words in [s. 311A(15)](https://www.legislation.gov.uk/ukpga/2005/5/section/311A/15) substituted (16.11.2017) (with effect in accordance with Sch. 2 para. 64 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 2 para. 24(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/2/paragraph/24/a)
 
-[^key-00e0a897dbafc01a507165dabe55e5bb]: Textual amendment: Words in [s. 311A(15)](https://www.legislation.gov.uk/ukpga/2005/5/section/311A/15) omitted (16.11.2017) (with effect in accordance with Sch. 2 para. 64 of the amending Act) by virtue of [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 2 para. 24(b)(i)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/2/paragraph/24/b/i)
+[^c-00e0a897dbafc01a507165dabe55e5bb]: Textual amendment: Words in [s. 311A(15)](https://www.legislation.gov.uk/ukpga/2005/5/section/311A/15) omitted (16.11.2017) (with effect in accordance with Sch. 2 para. 64 of the amending Act) by virtue of [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 2 para. 24(b)(i)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/2/paragraph/24/b/i)
 
-[^key-12b1d649c88b2f10103e2e4c44e6f05c]: Textual amendment: Words in [s. 311A(15)](https://www.legislation.gov.uk/ukpga/2005/5/section/311A/15) inserted (16.11.2017) (with effect in accordance with Sch. 2 para. 64 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 2 para. 24(b)(ii)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/2/paragraph/24/b/ii)
+[^c-12b1d649c88b2f10103e2e4c44e6f05c]: Textual amendment: Words in [s. 311A(15)](https://www.legislation.gov.uk/ukpga/2005/5/section/311A/15) inserted (16.11.2017) (with effect in accordance with Sch. 2 para. 64 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 2 para. 24(b)(ii)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/2/paragraph/24/b/ii)

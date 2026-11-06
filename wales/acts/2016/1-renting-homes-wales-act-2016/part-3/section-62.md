@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 62. End of head contract[^key-899a2fb208e0ccef9fd3c6cbb01be83a]
+## 62. End of head contract[^c-899a2fb208e0ccef9fd3c6cbb01be83a]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-899a2fb208e0ccef9fd3c6cbb01be83a]: Commencement: [S. 62](https://www.legislation.gov.uk/anaw/2016/1/section/62) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-899a2fb208e0ccef9fd3c6cbb01be83a]: Commencement: [S. 62](https://www.legislation.gov.uk/anaw/2016/1/section/62) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

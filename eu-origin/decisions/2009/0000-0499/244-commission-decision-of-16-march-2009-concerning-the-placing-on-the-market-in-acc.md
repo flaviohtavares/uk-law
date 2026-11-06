@@ -41,32 +41,32 @@ concerning the placing on the market, in accordance with Directive 2001/18/EC of
 
 (2009/244/EC) (revoked)
 
-[^key-242d2e5c98ead4614f908dc7c5748e15]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-242d2e5c98ead4614f908dc7c5748e15]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Consent[^key-242d2e5c98ead4614f908dc7c5748e15]
+## Article 1. Consent[^c-242d2e5c98ead4614f908dc7c5748e15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Product[^key-242d2e5c98ead4614f908dc7c5748e15]
+## Article 2. Product[^c-242d2e5c98ead4614f908dc7c5748e15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Conditions for placing on the market[^key-242d2e5c98ead4614f908dc7c5748e15]
+## Article 3. Conditions for placing on the market[^c-242d2e5c98ead4614f908dc7c5748e15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Monitoring[^key-242d2e5c98ead4614f908dc7c5748e15]
+## Article 4. Monitoring[^c-242d2e5c98ead4614f908dc7c5748e15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Addressee[^key-242d2e5c98ead4614f908dc7c5748e15]
+## Article 5. Addressee[^c-242d2e5c98ead4614f908dc7c5748e15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-242d2e5c98ead4614f908dc7c5748e15]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-242d2e5c98ead4614f908dc7c5748e15]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-242d2e5c98ead4614f908dc7c5748e15]: Textual amendment: Decision revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-242d2e5c98ead4614f908dc7c5748e15]: Textual amendment: Decision revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

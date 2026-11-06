@@ -36,7 +36,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Contents
 
-### Part 1 — The Scottish Legal Complaints Commission[^key-ad4fa5d12ed7fef5694d6bab329d19e2]
+### Part 1 — The Scottish Legal Complaints Commission[^c-ad4fa5d12ed7fef5694d6bab329d19e2]
 
 #### Establishment
 
@@ -125,7 +125,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 56 — Powers to fine and award compensation for professional misconduct etc.](part-2/section-56.md)
 - [Section 57 — Review of and appeal against decisions on remitted conduct complaints: cases other than unsatisfactory professional conduct](part-2/section-57.md)
 
-### Part 2A — Special provision for licensed providers[^key-06b4f1e319c925bfc798c748c2e1a556]
+### Part 2A — Special provision for licensed providers[^c-06b4f1e319c925bfc798c748c2e1a556]
 
 *Extent: S*
 
@@ -137,7 +137,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 57F — Effectiveness of compensation fund](part-2a/section-57f.md)
 - [Section 57G — Interpretation of Part 2A](part-2a/section-57g.md)
 
-### Part 2B — Special provision for confirmation agents and will writers[^key-c6cae0773876b5fff30f71dad55c877e]
+### Part 2B — Special provision for confirmation agents and will writers[^c-c6cae0773876b5fff30f71dad55c877e]
 
 - [Section 57H — Complaints about agents and writers](part-2b/section-57h.md)
 - [Section 57I — Handling complaints](part-2b/section-57i.md)
@@ -189,8 +189,8 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 [^c20881301]: Modification: Act applied (1.10.2008) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [ss. 195(1)](https://www.legislation.gov.uk/ukpga/2007/29/section/195/1), [211](https://www.legislation.gov.uk/ukpga/2007/29/section/211)(with ss. 29, 192, 193); [S.I. 2008/1436](https://www.legislation.gov.uk/uksi/2008/1436), [art. 3(a)](https://www.legislation.gov.uk/uksi/2008/1436/article/3/a) (with transitional provisions in [art. 4](https://www.legislation.gov.uk/uksi/2008/1436/article/4))
 
-[^key-ad4fa5d12ed7fef5694d6bab329d19e2]: Modification: [Pt. 1](https://www.legislation.gov.uk/asp/2007/5/part/1) applied (with modifications) (2.7.2012) by [The Licensed Legal Services (Complaints and Compensation Arrangements) (Scotland) Regulations 2012 (S.S.I. 2012/153)](https://www.legislation.gov.uk/ssi/2012/153), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/153/regulation/1/1), [2](https://www.legislation.gov.uk/ssi/2012/153/regulation/2)
+[^c-ad4fa5d12ed7fef5694d6bab329d19e2]: Modification: [Pt. 1](https://www.legislation.gov.uk/asp/2007/5/part/1) applied (with modifications) (2.7.2012) by [The Licensed Legal Services (Complaints and Compensation Arrangements) (Scotland) Regulations 2012 (S.S.I. 2012/153)](https://www.legislation.gov.uk/ssi/2012/153), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/153/regulation/1/1), [2](https://www.legislation.gov.uk/ssi/2012/153/regulation/2)
 
-[^key-06b4f1e319c925bfc798c748c2e1a556]: Textual amendment: Pt. 2A inserted (1.4.2011 for specified purposes, 2.7.2012 in so far as not already in force) by [Legal Services (Scotland) Act 2010 (asp 16)](https://www.legislation.gov.uk/asp/2010/16), [ss. 81](https://www.legislation.gov.uk/asp/2010/16/section/81), [150(2)](https://www.legislation.gov.uk/asp/2010/16/section/150/2) (with [ss. 30(3)](https://www.legislation.gov.uk/asp/2010/16/section/30/3), [60(3)](https://www.legislation.gov.uk/asp/2010/16/section/60/3), [89](https://www.legislation.gov.uk/asp/2010/16/section/89), [121(5)](https://www.legislation.gov.uk/asp/2010/16/section/121/5), [124(3)](https://www.legislation.gov.uk/asp/2010/16/section/124/3)); [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule); [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2012/152/article/3))
+[^c-06b4f1e319c925bfc798c748c2e1a556]: Textual amendment: Pt. 2A inserted (1.4.2011 for specified purposes, 2.7.2012 in so far as not already in force) by [Legal Services (Scotland) Act 2010 (asp 16)](https://www.legislation.gov.uk/asp/2010/16), [ss. 81](https://www.legislation.gov.uk/asp/2010/16/section/81), [150(2)](https://www.legislation.gov.uk/asp/2010/16/section/150/2) (with [ss. 30(3)](https://www.legislation.gov.uk/asp/2010/16/section/30/3), [60(3)](https://www.legislation.gov.uk/asp/2010/16/section/60/3), [89](https://www.legislation.gov.uk/asp/2010/16/section/89), [121(5)](https://www.legislation.gov.uk/asp/2010/16/section/121/5), [124(3)](https://www.legislation.gov.uk/asp/2010/16/section/124/3)); [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule); [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2012/152/article/3))
 
-[^key-c6cae0773876b5fff30f71dad55c877e]: Textual amendment: [Pt. 2B](https://www.legislation.gov.uk/asp/2007/5/part/2B) inserted (1.4.2011 for specified purposes) by [Legal Services (Scotland) Act 2010 (asp 16)](https://www.legislation.gov.uk/asp/2010/16), [ss. 114](https://www.legislation.gov.uk/asp/2010/16/section/114), [150(2)](https://www.legislation.gov.uk/asp/2010/16/section/150/2); [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-c6cae0773876b5fff30f71dad55c877e]: Textual amendment: [Pt. 2B](https://www.legislation.gov.uk/asp/2007/5/part/2B) inserted (1.4.2011 for specified purposes) by [Legal Services (Scotland) Act 2010 (asp 16)](https://www.legislation.gov.uk/asp/2010/16), [ss. 114](https://www.legislation.gov.uk/asp/2010/16/section/114), [150(2)](https://www.legislation.gov.uk/asp/2010/16/section/150/2); [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)

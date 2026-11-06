@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 92. “Appropriate tribunal”[^key-571ec808031dabca0e03da9e80bd1d3e][^key-6448e6342894f8915181acf73cc1e2e2]
+## 92. “Appropriate tribunal”[^c-571ec808031dabca0e03da9e80bd1d3e][^c-6448e6342894f8915181acf73cc1e2e2]
 
 *Extent: S*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-571ec808031dabca0e03da9e80bd1d3e]: Commencement: [S. 92](https://www.legislation.gov.uk/asp/2014/16/section/92) in force at 7.11.2014 for specified purposes by [S.S.I. 2014/278](https://www.legislation.gov.uk/ssi/2014/278), [art. 2](https://www.legislation.gov.uk/ssi/2014/278/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/278/schedule)
+[^c-571ec808031dabca0e03da9e80bd1d3e]: Commencement: [S. 92](https://www.legislation.gov.uk/asp/2014/16/section/92) in force at 7.11.2014 for specified purposes by [S.S.I. 2014/278](https://www.legislation.gov.uk/ssi/2014/278), [art. 2](https://www.legislation.gov.uk/ssi/2014/278/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/278/schedule)
 
-[^key-6448e6342894f8915181acf73cc1e2e2]: Commencement: [S. 92](https://www.legislation.gov.uk/asp/2014/16/section/92) in force at 1.4.2015 in so far as not already in force by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-6448e6342894f8915181acf73cc1e2e2]: Commencement: [S. 92](https://www.legislation.gov.uk/asp/2014/16/section/92) in force at 1.4.2015 in so far as not already in force by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

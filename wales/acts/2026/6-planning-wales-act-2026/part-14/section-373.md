@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 373. Orders relating to costs of parties[^key-ac34811a33db955c01bfc0fd2a0007fb]
+## 373. Orders relating to costs of parties[^c-ac34811a33db955c01bfc0fd2a0007fb]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ac34811a33db955c01bfc0fd2a0007fb]: Commencement: S. 373 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-ac34811a33db955c01bfc0fd2a0007fb]: Commencement: S. 373 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

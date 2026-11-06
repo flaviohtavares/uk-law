@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Contingency plan policy[^key-24bf503b97b978c1050a9b3541226128]
+## 23. Contingency plan policy[^c-24bf503b97b978c1050a9b3541226128]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ in the event that the undertaking ceases, whether permanently or temporarily, to
 
 ## Annotations
 
-[^key-24bf503b97b978c1050a9b3541226128]: Commencement: Reg. 23 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)
+[^c-24bf503b97b978c1050a9b3541226128]: Commencement: Reg. 23 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)

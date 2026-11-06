@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Amount of duty: introduction[^c23428791][^key-a857371654fb576e6e7f7e368650b6fb]
+## 7. Amount of duty: introduction[^c23428791][^c-a857371654fb576e6e7f7e368650b6fb]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-fee585b6ab987be1ddedc00f445e5441][^key-cee4d9f9dab158dbfa3631d26d02cf96][^key-1fe6e00030eff25ae759950844d5d0b0][^key-e13f1fbf4854b0295fafeaff5ddc8b40] The amount of import duty applicable to any goods is to be determined in accordance with the customs tariff (see section 8), as amended or adjusted by provision made under any of the following sections—
+(1)[^c-fee585b6ab987be1ddedc00f445e5441][^c-cee4d9f9dab158dbfa3631d26d02cf96][^c-1fe6e00030eff25ae759950844d5d0b0][^c-e13f1fbf4854b0295fafeaff5ddc8b40] The amount of import duty applicable to any goods is to be determined in accordance with the customs tariff (see section 8), as amended or adjusted by provision made under any of the following sections—
 
 - (a) section 9 (preferential rates: arrangements with countries or territories outside UK),
 - (b) section 10 (preferential rates given unilaterally),
@@ -39,12 +39,12 @@ summary: ''
 
 [^c23428791]: Commencement: S. 7 in force for specified purposes at 13.9.2018, see s. 57(1)(a)
 
-[^key-a857371654fb576e6e7f7e368650b6fb]: Commencement: S. 7 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-a857371654fb576e6e7f7e368650b6fb]: Commencement: S. 7 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
-[^key-fee585b6ab987be1ddedc00f445e5441]: Modification: S. 7(1) applied (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2020/1605/regulation/13); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-fee585b6ab987be1ddedc00f445e5441]: Modification: S. 7(1) applied (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2020/1605/regulation/13); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-cee4d9f9dab158dbfa3631d26d02cf96]: Modification: S. 7(1) applied (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2020/1605/regulation/7); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-cee4d9f9dab158dbfa3631d26d02cf96]: Modification: S. 7(1) applied (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2020/1605/regulation/7); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-1fe6e00030eff25ae759950844d5d0b0]: Modification: S. 7(1) applied (with modifications) (31.12.2020) by S.I. 2020/1605, reg. 7(3) (as inserted by [The Customs (Modification and Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1629)](https://www.legislation.gov.uk/uksi/2020/1629), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1629/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2020/1629/regulation/6/3))
+[^c-1fe6e00030eff25ae759950844d5d0b0]: Modification: S. 7(1) applied (with modifications) (31.12.2020) by S.I. 2020/1605, reg. 7(3) (as inserted by [The Customs (Modification and Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1629)](https://www.legislation.gov.uk/uksi/2020/1629), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1629/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2020/1629/regulation/6/3))
 
-[^key-e13f1fbf4854b0295fafeaff5ddc8b40]: Modification: S. 7(1) applied (with modifications) (31.12.2020) by S.I. 2020/1605, reg. 13(3) (as inserted by [The Customs (Modification and Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1629)](https://www.legislation.gov.uk/uksi/2020/1629), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1629/regulation/1/2), [6(5)(b)](https://www.legislation.gov.uk/uksi/2020/1629/regulation/6/5/b))
+[^c-e13f1fbf4854b0295fafeaff5ddc8b40]: Modification: S. 7(1) applied (with modifications) (31.12.2020) by S.I. 2020/1605, reg. 13(3) (as inserted by [The Customs (Modification and Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1629)](https://www.legislation.gov.uk/uksi/2020/1629), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1629/regulation/1/2), [6(5)(b)](https://www.legislation.gov.uk/uksi/2020/1629/regulation/6/5/b))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49. Withdrawal or variation of proof[^key-6dc79e0889e1b60192ea2fcc10a329a1]
+## 49. Withdrawal or variation of proof[^c-6dc79e0889e1b60192ea2fcc10a329a1]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A creditor’s proof may at any time, by agreement between themselves and the po
 
 ## Annotations
 
-[^key-6dc79e0889e1b60192ea2fcc10a329a1]: Commencement: [Rule 49](https://www.legislation.gov.uk/uksi/2013/3208/rule/49) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-6dc79e0889e1b60192ea2fcc10a329a1]: Commencement: [Rule 49](https://www.legislation.gov.uk/uksi/2013/3208/rule/49) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

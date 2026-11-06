@@ -22,7 +22,7 @@ summary: ''
 
 Article ‎11
 
-### PART 1 — TEMPORARY PROHIBITION OR RESTRICTION OF THE USE OF STREETS[^key-859d89ed34b2d0be30770008adbfac73]
+### PART 1 — TEMPORARY PROHIBITION OR RESTRICTION OF THE USE OF STREETS[^c-859d89ed34b2d0be30770008adbfac73]
 
 | *(1)*<br>*Area* | *(2)*<br>*Street* | *(3)*<br>*Measure* |
 | --- | --- | --- |
@@ -61,18 +61,18 @@ Article ‎11
 | District of Bassetlaw | Approximately 357 metres of private track West Burton Power Station access as shown between points 10k and 10o and shaded green and outlined in yellow on sheet 10 of the streets plan | Temporarily closed to all traffic save for traffic under the direction of the undertaker |
 | District of Bassetlaw | Approximately 238 metres of private track West Burton Power Station access as shown between points 10m and 10n and shaded green and outlined in yellow on sheet 10 of the streets plan | Temporarily closed to all traffic save for traffic under the direction of the undertaker |
 
-### PART 2 — TEMPORARY PROHIBITION OR RESTRICTION OF PUBLIC RIGHTS OF WAY WITH DIVERSION[^key-b6a077d824e7c2625a45540288896059]
+### PART 2 — TEMPORARY PROHIBITION OR RESTRICTION OF PUBLIC RIGHTS OF WAY WITH DIVERSION[^c-b6a077d824e7c2625a45540288896059]
 
 | *(1)*<br>*Area* | *(2)*<br>*Public right of way* | *(3)*<br>*Measure* |
 | --- | --- | --- |
 | District of West Lindsey | Approximately 159 metres of footpath reference 1i - Brox/196/1 between points marked 1i/a and 1i/b on sheet 1 of the public rights of way plan | Temporarily closed along a route shown in yellow and diverted along a route contained within the diversion area shown hatched olive green on sheet 1 of the public rights of way plan to facilitate the construction of the authorised development. |
 | District of West Lindsey | Approximately 201 metres of footpath reference 7i - Mton/68/1 between points marked 7i/a and 7i/b on sheet 7 of the public rights of way plan | Temporarily closed along a route shown in yellow and diverted along a route contained within the diversion area shown hatched olive green on sheet 7 of the public rights of way plan to facilitate the construction of the authorised development. |
 
-### PART 3 — TEMPORARY PROHIBITION OR RESTRICTION OF PUBLIC RIGHTS OF WAY[^key-9571fbfeb0b2c80641f92632d42fa305]
+### PART 3 — TEMPORARY PROHIBITION OR RESTRICTION OF PUBLIC RIGHTS OF WAY[^c-9571fbfeb0b2c80641f92632d42fa305]
 
 | *(1)*<br>*Area* | *(2)*<br>*Public Right of Way* | *(3)*<br>*Measure* |
 | --- | --- | --- |
-| District of West Lindsey[^key-91f93a8333b5c818ec875de85ab934b5] | Approximately 580 metres of footpath reference Bram/66/1 between points marked 7ii/a and 7ii/b on sheet 7 of the public rights of way plan | Temporarily closed along the route shown in orange and labelled Bram/66/1 |
+| District of West Lindsey[^c-91f93a8333b5c818ec875de85ab934b5] | Approximately 580 metres of footpath reference Bram/66/1 between points marked 7ii/a and 7ii/b on sheet 7 of the public rights of way plan | Temporarily closed along the route shown in orange and labelled Bram/66/1 |
 | District of West Lindsey | Approximately 129 metres of footpath reference Mton/66/4 between points marked 7iii/a and 7iii/b on sheet 7 of the public rights of way plan | Temporarily closed along the route shown in orange and labelled Mton/66/4 |
 | District of Bassetlaw | Approximately 187 metres of footpath reference Cottam FP1 between points marked 7iv/a and 7iv/b on sheet 7 of the public rights of way plan | Temporarily closed along the route shown in orange and labelled NT“Cottam”FP1 |
 | District of Bassetlaw | Approximately 32 metres of footpath reference North Leverton With Habblesthorpe FP9 between points marked 7v/a and 7v/b on sheet 7 of the public rights of way plan | Temporarily closed along the route shown in orange and labelled NT“North Leverton With Habblesthorpe”FP9 |
@@ -91,10 +91,10 @@ Article ‎11
 
 ## Annotations
 
-[^key-859d89ed34b2d0be30770008adbfac73]: Commencement: Sch. 6 Pt. 1 in force at 15.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/116/article/1)
+[^c-859d89ed34b2d0be30770008adbfac73]: Commencement: Sch. 6 Pt. 1 in force at 15.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/116/article/1)
 
-[^key-b6a077d824e7c2625a45540288896059]: Commencement: Sch. 6 Pt. 2 in force at 15.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/116/article/1)
+[^c-b6a077d824e7c2625a45540288896059]: Commencement: Sch. 6 Pt. 2 in force at 15.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/116/article/1)
 
-[^key-9571fbfeb0b2c80641f92632d42fa305]: Commencement: Sch. 6 Pt. 3 in force at 15.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/116/article/1)
+[^c-9571fbfeb0b2c80641f92632d42fa305]: Commencement: Sch. 6 Pt. 3 in force at 15.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/116/article/1)
 
-[^key-91f93a8333b5c818ec875de85ab934b5]: Textual amendment: [Sch. 6 Pt. 3](https://www.legislation.gov.uk/uksi/2025/116/schedule/6/part/3) substituted (4.6.2025) by [The West Burton Solar Project (Correction) Order 2025 (S.I. 2025/647)](https://www.legislation.gov.uk/uksi/2025/647), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/647/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2025/647/schedule/2)
+[^c-91f93a8333b5c818ec875de85ab934b5]: Textual amendment: [Sch. 6 Pt. 3](https://www.legislation.gov.uk/uksi/2025/116/schedule/6/part/3) substituted (4.6.2025) by [The West Burton Solar Project (Correction) Order 2025 (S.I. 2025/647)](https://www.legislation.gov.uk/uksi/2025/647), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/647/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2025/647/schedule/2)

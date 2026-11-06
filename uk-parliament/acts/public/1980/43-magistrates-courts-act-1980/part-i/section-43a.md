@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43A. Functions of magistrates’ court where a person in custody is brought before it with a view to his appearance before the Crown Court.[^key-67a760700dc8ddb81d3d69da78a9a3dd][^c18242881]
+## 43A. Functions of magistrates’ court where a person in custody is brought before it with a view to his appearance before the Crown Court.[^c-67a760700dc8ddb81d3d69da78a9a3dd][^c18242881]
 
 *Extent: E+W*
 
@@ -29,7 +29,7 @@ summary: ''
 
 ## Annotations
 
-[^key-67a760700dc8ddb81d3d69da78a9a3dd]: Modification: S. 43A applied (with modifications) (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 7 para. 25(3)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/7/paragraph/25/3)[(4)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/7/paragraph/25/4) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-67a760700dc8ddb81d3d69da78a9a3dd]: Modification: S. 43A applied (with modifications) (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 7 para. 25(3)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/7/paragraph/25/3)[(4)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/7/paragraph/25/4) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
 [^c18242881]: Textual amendment: S. 43A inserted by [Supreme Court Act 1981 (c. 54, SIF 37)](https://www.legislation.gov.uk/ukpga/1981/54), [s. 152(1)](https://www.legislation.gov.uk/ukpga/1981/54/section/152/1), [Sch. 5](https://www.legislation.gov.uk/ukpga/1981/54/schedule/5)
 

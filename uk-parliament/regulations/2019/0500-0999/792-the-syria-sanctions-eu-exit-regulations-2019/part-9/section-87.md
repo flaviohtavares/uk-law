@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Monetary penalties[^key-89800eb7749487b64baf79b5e5a7e136]
+## 87. Monetary penalties[^c-89800eb7749487b64baf79b5e5a7e136]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Each provision in Part 5 (Trade) which contains a prohibition imposed for a purp
 
 ## Annotations
 
-[^key-89800eb7749487b64baf79b5e5a7e136]: Commencement: Reg. 87 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-89800eb7749487b64baf79b5e5a7e136]: Commencement: Reg. 87 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23698391]: Marginal citation: [2017 c.3](https://www.legislation.gov.uk/ukpga/2017/3); see [section 143(4)(f)](https://www.legislation.gov.uk/ukpga/2017/3/section/143/4/f) and (4A).

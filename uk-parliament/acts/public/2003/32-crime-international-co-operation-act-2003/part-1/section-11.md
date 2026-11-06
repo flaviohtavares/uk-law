@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Sending freezing orders[^key-51e40c60e354091b4438fe5ab4f38ed6]
+## 11. Sending freezing orders[^c-51e40c60e354091b4438fe5ab4f38ed6]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ The signature may be an electronic signature.
 
 ## Annotations
 
-[^key-51e40c60e354091b4438fe5ab4f38ed6]: Commencement: S. 11 in force at 19.10.2009 by [S.I. 2009/2605](https://www.legislation.gov.uk/uksi/2009/2605), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/2605/article/2/a)
+[^c-51e40c60e354091b4438fe5ab4f38ed6]: Commencement: S. 11 in force at 19.10.2009 by [S.I. 2009/2605](https://www.legislation.gov.uk/uksi/2009/2605), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/2605/article/2/a)

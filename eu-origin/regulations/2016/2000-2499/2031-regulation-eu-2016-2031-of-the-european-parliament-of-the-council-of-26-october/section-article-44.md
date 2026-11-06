@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-1.[^key-23f66a299680add000ea403ae88a9f24] The appropriate authority may by regulations make provision for the purpose of giving effect to a relevant decision.
+1.[^c-23f66a299680add000ea403ae88a9f24] The appropriate authority may by regulations make provision for the purpose of giving effect to a relevant decision.
 
 1A. Regulations under paragraph 1 may in particular:
 
@@ -29,10 +29,10 @@ summary: ''
 
 1B. In paragraph 1, ‘relevant decision’ means a decision of the UK NPPO confirming that specific measures which are applied in the third country in relation to a particular plant, plant product or other object from that third country provide a level of phytosanitary protection which is equivalent to the measures included in the special requirements in relation to that plant, plant product or other object in Annex 7 to the Phytosanitary Conditions Regulation.
 
-2.[^key-580d254353a029cd2f0bec9537830d4a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.[^c-580d254353a029cd2f0bec9537830d4a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-23f66a299680add000ea403ae88a9f24]: Textual amendment: Art. 44(1)-(1B) substituted for Art. 44(1) (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [29(7)(a)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/29/7/a) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
+[^c-23f66a299680add000ea403ae88a9f24]: Textual amendment: Art. 44(1)-(1B) substituted for Art. 44(1) (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [29(7)(a)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/29/7/a) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
 
-[^key-580d254353a029cd2f0bec9537830d4a]: Textual amendment: Art. 44(2) omitted (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [29(7)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/29/7/b) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
+[^c-580d254353a029cd2f0bec9537830d4a]: Textual amendment: Art. 44(2) omitted (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [29(7)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/29/7/b) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))

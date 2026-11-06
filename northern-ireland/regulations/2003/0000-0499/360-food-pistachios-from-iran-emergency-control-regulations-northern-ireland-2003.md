@@ -31,7 +31,7 @@ summary: ''
 
 FOOD
 
-Food (Pistachios from Iran) (Emergency Control) Regulations (Northern Ireland) 2003 (revoked)[^key-7090b98099dfcb5530a53fd3951990be]
+Food (Pistachios from Iran) (Emergency Control) Regulations (Northern Ireland) 2003 (revoked)[^c-7090b98099dfcb5530a53fd3951990be]
 
 Made
 
@@ -41,44 +41,44 @@ Coming into operation
 
 1st August 2003
 
-[^key-7090b98099dfcb5530a53fd3951990be]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7090b98099dfcb5530a53fd3951990be]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-7090b98099dfcb5530a53fd3951990be]
+## 1. Citation and commencement[^c-7090b98099dfcb5530a53fd3951990be]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-7090b98099dfcb5530a53fd3951990be]
+## 2. Interpretation[^c-7090b98099dfcb5530a53fd3951990be]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prohibition on import[^key-7090b98099dfcb5530a53fd3951990be]
+## 3. Prohibition on import[^c-7090b98099dfcb5530a53fd3951990be]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Enforcement[^key-7090b98099dfcb5530a53fd3951990be]
+## 4. Enforcement[^c-7090b98099dfcb5530a53fd3951990be]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Application of various provisions of the Order and sampling and analysis[^key-7090b98099dfcb5530a53fd3951990be]
+## 5. Application of various provisions of the Order and sampling and analysis[^c-7090b98099dfcb5530a53fd3951990be]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Re-dispatch or destruction of illegal imports[^key-7090b98099dfcb5530a53fd3951990be]
+## 6. Re-dispatch or destruction of illegal imports[^c-7090b98099dfcb5530a53fd3951990be]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Revocation of the Food (Pistachios from Iran) (Emergency Control) Order (Northern Ireland) 1997[^key-7090b98099dfcb5530a53fd3951990be]
+## 7. Revocation of the Food (Pistachios from Iran) (Emergency Control) Order (Northern Ireland) 1997[^c-7090b98099dfcb5530a53fd3951990be]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7090b98099dfcb5530a53fd3951990be]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7090b98099dfcb5530a53fd3951990be]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-7090b98099dfcb5530a53fd3951990be]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7090b98099dfcb5530a53fd3951990be]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7090b98099dfcb5530a53fd3951990be]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/360) revoked (1.10.2006) by [The Food (Emergency Control) (Revocation) Regulations (Northern Ireland) 2006 (S.R. 2006/351)](https://www.legislation.gov.uk/nisr/2006/351), [regs. 1](https://www.legislation.gov.uk/nisr/2006/351/regulation/1), [2](https://www.legislation.gov.uk/nisr/2006/351/regulation/2), [Sch.](https://www.legislation.gov.uk/nisr/2006/351/schedule)
+[^c-7090b98099dfcb5530a53fd3951990be]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/360) revoked (1.10.2006) by [The Food (Emergency Control) (Revocation) Regulations (Northern Ireland) 2006 (S.R. 2006/351)](https://www.legislation.gov.uk/nisr/2006/351), [regs. 1](https://www.legislation.gov.uk/nisr/2006/351/regulation/1), [2](https://www.legislation.gov.uk/nisr/2006/351/regulation/2), [Sch.](https://www.legislation.gov.uk/nisr/2006/351/schedule)

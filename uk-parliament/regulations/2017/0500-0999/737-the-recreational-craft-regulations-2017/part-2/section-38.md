@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Obligations on private importers to identify economic operators[^key-93d60414fc3e90bbac1f54de5cd0c603]
+## 38. Obligations on private importers to identify economic operators[^c-93d60414fc3e90bbac1f54de5cd0c603]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-93d60414fc3e90bbac1f54de5cd0c603]: Commencement: Reg. 38 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)
+[^c-93d60414fc3e90bbac1f54de5cd0c603]: Commencement: Reg. 38 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)

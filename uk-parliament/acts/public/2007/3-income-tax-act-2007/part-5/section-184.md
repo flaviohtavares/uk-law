@@ -32,7 +32,7 @@ summary: ''
 
 (3) For the purposes of subsection (2), shares, stocks, debentures or other securities are marketed to the general public if they are—
 
-- (a) listed on a recognised stock exchange,[^key-b9a6eb2c553e5dad2430922616efb5c0]
+- (a) listed on a recognised stock exchange,[^c-b9a6eb2c553e5dad2430922616efb5c0]
 - (b) listed on a designated exchange in a country outside the United Kingdom, or
 - (c) dealt in outside the United Kingdom by such means as may be designated.
 
@@ -42,13 +42,13 @@ summary: ''
 
 (6) The arrangements referred to in subsection (1)(b) and (c)(ii) do not include arrangements in consequence of which any shares, stocks, debentures or other securities of the company are at any subsequent time—
 
-- (a) listed on a stock exchange that is a recognised stock exchange by virtue of an order made under section 1005(1)(b)[^key-533605f310351c5d67c8bcb84739d74b], or
+- (a) listed on a stock exchange that is a recognised stock exchange by virtue of an order made under section 1005(1)(b)[^c-533605f310351c5d67c8bcb84739d74b], or
 - (b) listed on an exchange, or dealt in by any means, designated by an order made for the purposes of subsection (3)(b) or (c),
 
 if the order was made after the beginning of period B.
 
 ## Annotations
 
-[^key-b9a6eb2c553e5dad2430922616efb5c0]: Textual amendment: Words in s. 184(3)(a) substituted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 26 para. 12(4)(a)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/26/paragraph/12/4/a)
+[^c-b9a6eb2c553e5dad2430922616efb5c0]: Textual amendment: Words in s. 184(3)(a) substituted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 26 para. 12(4)(a)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/26/paragraph/12/4/a)
 
-[^key-533605f310351c5d67c8bcb84739d74b]: Textual amendment: Word in s. 184(6)(a) substituted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 26 para. 12(4)(b)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/26/paragraph/12/4/b)
+[^c-533605f310351c5d67c8bcb84739d74b]: Textual amendment: Word in s. 184(6)(a) substituted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 26 para. 12(4)(b)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/26/paragraph/12/4/b)

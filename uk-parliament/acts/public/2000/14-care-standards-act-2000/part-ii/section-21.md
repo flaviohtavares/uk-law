@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Appeals to the Tribunal.[^c12426271][^key-7fe4349c6a6c2a2732c5cf80be07b3c6]
+## 21. Appeals to the Tribunal.[^c12426271][^c-7fe4349c6a6c2a2732c5cf80be07b3c6]
 
 *Extent: E+W*
 
@@ -53,7 +53,7 @@ shall lie to the Tribunal.
 
 (6)[^c21092401] Subsection (1) does not apply to a decision of the Welsh Ministers under section 30ZA (penalty notices).
 
-(7)[^key-4aacb5246529a4c81bc07b638a919908] Subsection (1) does not apply to a decision of the CIECSS—
+(7)[^c-4aacb5246529a4c81bc07b638a919908] Subsection (1) does not apply to a decision of the CIECSS—
 
 - (a) to impose a monetary penalty under section 30ZC;
 - (b) as to the amount of such a penalty.
@@ -62,7 +62,7 @@ shall lie to the Tribunal.
 
 [^c12426271]: Commencement: S. 21 partly in force; s. 21 not in force at Royal Assent see s. 122; s. 21 in force for E. for certain purposes at 20.11.2001 by [S.I. 2001/3852](https://www.legislation.gov.uk/uksi/2001/3852), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2001/3852/article/1/4), [3(2)(3)(b)](https://www.legislation.gov.uk/uksi/2001/3852/article/3/2/3/b) (subject to transitional provisions in [Sch. 1](https://www.legislation.gov.uk/uksi/2001/3852/schedule/1) and with transitional provisions in [Sch. 2](https://www.legislation.gov.uk/uksi/2001/3852/schedule/2)) (as amended by [S.I. 2001/4150](https://www.legislation.gov.uk/uksi/2001/4150), 2002/1493, 2002/1790, 2002/2001, 2002/3210); s. 21 in force for E. at 1.4.2002 by [S.I. 2001/3852](https://www.legislation.gov.uk/uksi/2001/3852), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2001/3852/article/1/4), [3(2)(7)(f)](https://www.legislation.gov.uk/uksi/2001/3852/article/3/2/7/f) (subject to transitional provisions in [Sch. 1](https://www.legislation.gov.uk/uksi/2001/3852/schedule/1) and with transitional provisions in [Sch. 2](https://www.legislation.gov.uk/uksi/2001/3852/schedule/2)) (as amended by [S.I. 2001/4150](https://www.legislation.gov.uk/uksi/2001/4150), 2002/1493, 2002/1790, 2002/2001, 2002/3210); s. 21 in force for W. for certain purposes at 1.4.2002 by [S.I. 2002/920](https://www.legislation.gov.uk/uksi/2002/920), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2002/920/article/1/4), [3(3)](https://www.legislation.gov.uk/uksi/2002/920/article/3/3) (subject to [art. 3(4)(5)](https://www.legislation.gov.uk/uksi/2002/920/article/3/4/5) and to transitional provisions in [Schs. 1-3](https://www.legislation.gov.uk/uksi/2002/920/schedule/1)); s. 21 in force for W. for certain purposes at 30.1.2003 by [S.I. 2003/152](https://www.legislation.gov.uk/uksi/2003/152), [art. 2](https://www.legislation.gov.uk/uksi/2003/152/article/2); s. 21 in force for W. for certain purposes at 2.10.2003 by [S.I. 2003/2528](https://www.legislation.gov.uk/uksi/2003/2528), [art. 2](https://www.legislation.gov.uk/uksi/2003/2528/article/2); s. 21 in force for W. for certain purposes at 1.4.2004 by [S.I. 2004/1015](https://www.legislation.gov.uk/uksi/2004/1015), [art. 2](https://www.legislation.gov.uk/uksi/2004/1015/article/2); s. 21 in force for W. for certain purposes at 7.4.2004 by [S.I. 2004/1730](https://www.legislation.gov.uk/uksi/2004/1730), [art. 2](https://www.legislation.gov.uk/uksi/2004/1730/article/2)
 
-[^key-7fe4349c6a6c2a2732c5cf80be07b3c6]: Modification: S. 21 applied (with modifications) (1.7.2013) by [The Residential Holiday Schemes for Disabled Children (England) Regulations 2013 (S.I. 2013/1394)](https://www.legislation.gov.uk/uksi/2013/1394), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1), [Sch. 7 para. 8](https://www.legislation.gov.uk/uksi/2013/1394/schedule/7/paragraph/8) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/2))
+[^c-7fe4349c6a6c2a2732c5cf80be07b3c6]: Modification: S. 21 applied (with modifications) (1.7.2013) by [The Residential Holiday Schemes for Disabled Children (England) Regulations 2013 (S.I. 2013/1394)](https://www.legislation.gov.uk/uksi/2013/1394), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1), [Sch. 7 para. 8](https://www.legislation.gov.uk/uksi/2013/1394/schedule/7/paragraph/8) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/2))
 
 [^c21092491]: Textual amendment: Word preceding s. 21(1)(b) repealed (1.4.2010 for E. and 28.3.2011 for W.) by [Children and Young Persons Act 2008 (c. 23)](https://www.legislation.gov.uk/ukpga/2008/23), [ss. 42](https://www.legislation.gov.uk/ukpga/2008/23/section/42), [44](https://www.legislation.gov.uk/ukpga/2008/23/section/44), [Sch. 4](https://www.legislation.gov.uk/ukpga/2008/23/schedule/4); [S.I. 2009/3354](https://www.legislation.gov.uk/uksi/2009/3354), [art. 3(2)](https://www.legislation.gov.uk/uksi/2009/3354/article/3/2); [S.I. 2011/949](https://www.legislation.gov.uk/uksi/2011/949), [art. 3(1)(d)](https://www.legislation.gov.uk/uksi/2011/949/article/3/1/d)
 
@@ -86,4 +86,4 @@ shall lie to the Tribunal.
 
 [^c21092401]: Textual amendment: S. 21(6) inserted (1.4.2009) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [ss. 166](https://www.legislation.gov.uk/ukpga/2008/14/section/166), [170(3)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/3), [Sch. 5 para. 20(6)](https://www.legislation.gov.uk/ukpga/2008/14/schedule/5/paragraph/20/6); [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2](https://www.legislation.gov.uk/uksi/2009/462/article/2), [Sch. 1 para. 35](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/35)
 
-[^key-4aacb5246529a4c81bc07b638a919908]: Textual amendment: S. 21(7) inserted (15.7.2026) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 15(4)](https://www.legislation.gov.uk/ukpga/2026/21/section/15/4), [78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5); [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 3(d)(ii)](https://www.legislation.gov.uk/uksi/2026/803/regulation/3/d/ii)
+[^c-4aacb5246529a4c81bc07b638a919908]: Textual amendment: S. 21(7) inserted (15.7.2026) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 15(4)](https://www.legislation.gov.uk/ukpga/2026/21/section/15/4), [78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5); [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 3(d)(ii)](https://www.legislation.gov.uk/uksi/2026/803/regulation/3/d/ii)

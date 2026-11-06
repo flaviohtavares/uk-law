@@ -32,7 +32,7 @@ summary: ''
 
 National Health Service
 
-The NHS Education for Scotland Amendment Order 2021 (revoked)[^key-82d9509805e23db5a31e57dc551ebba9]
+The NHS Education for Scotland Amendment Order 2021 (revoked)[^c-82d9509805e23db5a31e57dc551ebba9]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 18th November 2021
 
-[^key-82d9509805e23db5a31e57dc551ebba9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-82d9509805e23db5a31e57dc551ebba9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-82d9509805e23db5a31e57dc551ebba9]
+## 1. Citation, commencement and interpretation[^c-82d9509805e23db5a31e57dc551ebba9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of article 4(1) of the principal Order[^key-82d9509805e23db5a31e57dc551ebba9]
+## 2. Amendment of article 4(1) of the principal Order[^c-82d9509805e23db5a31e57dc551ebba9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the schedule of the principal Order[^key-82d9509805e23db5a31e57dc551ebba9]
+## 3. Amendment of the schedule of the principal Order[^c-82d9509805e23db5a31e57dc551ebba9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-82d9509805e23db5a31e57dc551ebba9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-82d9509805e23db5a31e57dc551ebba9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-82d9509805e23db5a31e57dc551ebba9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-82d9509805e23db5a31e57dc551ebba9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-82d9509805e23db5a31e57dc551ebba9]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2021/330) revoked (1.4.2026) by [The National Health Service (Functions of the Common Services Agency) (Miscellaneous Amendments) (Scotland) Order 2026 (S.S.I. 2026/20)](https://www.legislation.gov.uk/ssi/2026/20), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2026/20/article/1/1), [3(2)(d)](https://www.legislation.gov.uk/ssi/2026/20/article/3/2/d) (with [art. 6](https://www.legislation.gov.uk/ssi/2026/20/article/6))
+[^c-82d9509805e23db5a31e57dc551ebba9]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2021/330) revoked (1.4.2026) by [The National Health Service (Functions of the Common Services Agency) (Miscellaneous Amendments) (Scotland) Order 2026 (S.S.I. 2026/20)](https://www.legislation.gov.uk/ssi/2026/20), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2026/20/article/1/1), [3(2)(d)](https://www.legislation.gov.uk/ssi/2026/20/article/3/2/d) (with [art. 6](https://www.legislation.gov.uk/ssi/2026/20/article/6))

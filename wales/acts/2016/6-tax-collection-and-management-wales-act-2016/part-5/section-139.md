@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 139. Reduction in penalty under Chapter 3 for disclosure[^key-dc0d12d51f0116dfdcdd2b165e6018aa]
+## 139. Reduction in penalty under Chapter 3 for disclosure[^c-dc0d12d51f0116dfdcdd2b165e6018aa]
 
 *Extent: E+W*
 
@@ -24,10 +24,10 @@ summary: ''
 
 (2) A “**qualifying disclosure**” means disclosure of—
 
-- (a) an inaccuracy which is relevant to a person's liability to a WRA-collected[^key-fff3af6ed431e746ec4d55fe1114ea14] tax,
-- (b) a supply of false information, or withholding of information, which is relevant to a person's liability to a WRA-collected tax, [^key-4f4aa4a8374f6fc1302d3944a16dcd78]...
+- (a) an inaccuracy which is relevant to a person's liability to a WRA-collected[^c-fff3af6ed431e746ec4d55fe1114ea14] tax,
+- (b) a supply of false information, or withholding of information, which is relevant to a person's liability to a WRA-collected tax, [^c-4f4aa4a8374f6fc1302d3944a16dcd78]...
 - (c) a failure to disclose an under-assessment in respect of a WRA-collected tax,
-- (d)[^key-54a5568d85d0b879033d1b5ec5230a1f] an inaccuracy which is relevant to a person’s entitlement to a tax credit or liability to pay an amount in respect of a tax credit,
+- (d)[^c-54a5568d85d0b879033d1b5ec5230a1f] an inaccuracy which is relevant to a person’s entitlement to a tax credit or liability to pay an amount in respect of a tax credit,
 - (e) a supply of false information, or withholding of information, which is relevant to a person’s entitlement to a tax credit or liability to pay an amount in respect of a tax credit, or
 - (f) a failure to disclose an under-assessment in respect of a person’s liability to pay an amount in respect of a tax credit.
 
@@ -59,10 +59,10 @@ summary: ''
 
 ## Annotations
 
-[^key-dc0d12d51f0116dfdcdd2b165e6018aa]: Commencement: S. 139 in force at 1.4.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 3](https://www.legislation.gov.uk/wsi/2018/33/article/3)
+[^c-dc0d12d51f0116dfdcdd2b165e6018aa]: Commencement: S. 139 in force at 1.4.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 3](https://www.legislation.gov.uk/wsi/2018/33/article/3)
 
-[^key-fff3af6ed431e746ec4d55fe1114ea14]: Textual amendment: Word in Act substituted (19.9.2025) by [Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](https://www.legislation.gov.uk/asc/2025/5), [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1), [Sch. 2 para. 21](https://www.legislation.gov.uk/asc/2025/5/schedule/2/paragraph/21)
+[^c-fff3af6ed431e746ec4d55fe1114ea14]: Textual amendment: Word in Act substituted (19.9.2025) by [Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](https://www.legislation.gov.uk/asc/2025/5), [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1), [Sch. 2 para. 21](https://www.legislation.gov.uk/asc/2025/5/schedule/2/paragraph/21)
 
-[^key-4f4aa4a8374f6fc1302d3944a16dcd78]: Textual amendment: Word in [s. 139(2)](https://www.legislation.gov.uk/anaw/2016/6/section/139/2) omitted (1.4.2018) by virtue of [The Landfill Disposals Tax (Administration) (Wales) Regulations 2018 (S.I. 2018/101)](https://www.legislation.gov.uk/wsi/2018/101), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/101/regulation/1/2), [Sch. para. 34(a)](https://www.legislation.gov.uk/wsi/2018/101/schedule/paragraph/34/a)
+[^c-4f4aa4a8374f6fc1302d3944a16dcd78]: Textual amendment: Word in [s. 139(2)](https://www.legislation.gov.uk/anaw/2016/6/section/139/2) omitted (1.4.2018) by virtue of [The Landfill Disposals Tax (Administration) (Wales) Regulations 2018 (S.I. 2018/101)](https://www.legislation.gov.uk/wsi/2018/101), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/101/regulation/1/2), [Sch. para. 34(a)](https://www.legislation.gov.uk/wsi/2018/101/schedule/paragraph/34/a)
 
-[^key-54a5568d85d0b879033d1b5ec5230a1f]: Textual amendment: [S. 139(2)(d)-(f)](https://www.legislation.gov.uk/anaw/2016/6/section/139/2/d) inserted (1.4.2018) by [The Landfill Disposals Tax (Administration) (Wales) Regulations 2018 (S.I. 2018/101)](https://www.legislation.gov.uk/wsi/2018/101), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/101/regulation/1/2), [Sch. para. 34(b)](https://www.legislation.gov.uk/wsi/2018/101/schedule/paragraph/34/b)
+[^c-54a5568d85d0b879033d1b5ec5230a1f]: Textual amendment: [S. 139(2)(d)-(f)](https://www.legislation.gov.uk/anaw/2016/6/section/139/2/d) inserted (1.4.2018) by [The Landfill Disposals Tax (Administration) (Wales) Regulations 2018 (S.I. 2018/101)](https://www.legislation.gov.uk/wsi/2018/101), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/101/regulation/1/2), [Sch. para. 34(b)](https://www.legislation.gov.uk/wsi/2018/101/schedule/paragraph/34/b)

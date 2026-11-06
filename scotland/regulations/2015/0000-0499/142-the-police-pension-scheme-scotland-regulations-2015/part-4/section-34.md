@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 34. Meaning of “deferred member”[^key-465d143bef270d202828dfeb43570e89]
+## 34. Meaning of “deferred member”[^c-465d143bef270d202828dfeb43570e89]
 
 *Extent: S*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-465d143bef270d202828dfeb43570e89]: Commencement: Reg. 34 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-465d143bef270d202828dfeb43570e89]: Commencement: Reg. 34 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
 [^f00038]: Footnote: See regulation 13 for periods of unpaid leave during which the employment relationship continues.

@@ -20,16 +20,16 @@ summary: ''
 
 *Extent: E+W+N.I.*
 
-(1)[^key-85366b639f513d5cdf73a37d147cf127] Section 42 of the Childcare Act 2006 (c. 21) (further provisions about assessment arrangements) is amended as follows.
+(1)[^c-85366b639f513d5cdf73a37d147cf127] Section 42 of the Childcare Act 2006 (c. 21) (further provisions about assessment arrangements) is amended as follows.
 
-(2)[^key-85366b639f513d5cdf73a37d147cf127] Before subsection (1) insert—
+(2)[^c-85366b639f513d5cdf73a37d147cf127] Before subsection (1) insert—
 
 > (A1) Before making a learning and development order specifying assessment arrangements the Secretary of State—
 >
 > - (a) must consult the Office of Qualifications and Examinations Regulation, and
 > - (b) may consult such other persons as the Secretary of State considers appropriate.
 
-(3)[^key-230f5b8d7c66af5c41e2fe723899be54] After subsection (3) insert—
+(3)[^c-230f5b8d7c66af5c41e2fe723899be54] After subsection (3) insert—
 
 > (3A) A learning and development order which includes provision made by virtue of subsection (3) must provide that before making or revising the assessment arrangements the person specified in the order—
 >
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-85366b639f513d5cdf73a37d147cf127]: Commencement: S. 160(1)(2) in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1)
+[^c-85366b639f513d5cdf73a37d147cf127]: Commencement: S. 160(1)(2) in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1)
 
-[^key-230f5b8d7c66af5c41e2fe723899be54]: Commencement: S. 160(3)(4) in force at 1.4.2010 for specified purposes by [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1)
+[^c-230f5b8d7c66af5c41e2fe723899be54]: Commencement: S. 160(3)(4) in force at 1.4.2010 for specified purposes by [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1)

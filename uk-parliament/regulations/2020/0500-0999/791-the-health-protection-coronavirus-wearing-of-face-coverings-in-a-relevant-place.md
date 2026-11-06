@@ -32,7 +32,7 @@ summary: ''
 
 Public Health, England
 
-The Health Protection (Coronavirus, Wearing of Face Coverings in a Relevant Place) (England) Regulations 2020 (revoked)[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3]
+The Health Protection (Coronavirus, Wearing of Face Coverings in a Relevant Place) (England) Regulations 2020 (revoked)[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3]
 
 Approved by both Houses of Parliament
 
@@ -48,208 +48,208 @@ Coming into force
 
 24th July 2020
 
-[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — Introductory[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3]
+## PART 1 — Introductory[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3]
 
-### 1. Citation, commencement and application[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Interpretation[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3]
+### 1. Citation, commencement and application[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — Relevant place: requirement to wear a face covering[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3]
-
-### 3. Requirement to wear a face covering whilst entering or remaining within a relevant place[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3]
+### 2. Interpretation[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Reasonable excuse[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3]
+## PART 2 — Relevant place: requirement to wear a face covering[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3]
+
+### 3. Requirement to wear a face covering whilst entering or remaining within a relevant place[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — Enforcement[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3]
-
-### 5. Enforcement of requirement to wear a face covering whilst entering or remaining within a relevant place[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3]
+### 4. Reasonable excuse[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Offence and penalties[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3]
+## PART 3 — Enforcement[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3]
+
+### 5. Enforcement of requirement to wear a face covering whilst entering or remaining within a relevant place[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Fixed penalty notices[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3]
+### 6. Offence and penalties[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Prosecutions[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3]
+### 7. Fixed penalty notices[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Review[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3]
+### 8. Prosecutions[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Expiry[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3]
+### 9. Review[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 10. Expiry[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Relevant places where face coverings must be worn[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3]
+## SCHEDULE 1 — Relevant places where face coverings must be worn[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3]
 
 Regulations 2 and 3
 
-**1.**[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Exemptions from definition of shop - regulation 2(2)[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3]
+### PART 2 — Exemptions from definition of shop - regulation 2(2)[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3]
 
-**5.**[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**21.**[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**22.**[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**23.**[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**24.**[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**25.**[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**25.**[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**26.**[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**26.**[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**27.**[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**27.**[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**28.**[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**28.**[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Exemptions from definition of shop[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3]
+## SCHEDULE 2 — Exemptions from definition of shop[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3]
 
 Regulation 2(2)
 
-**1.**[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — Relevant places in which the exemptions from the requirement to wear face coverings by employees or persons providing services do not apply[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3]
+## SCHEDULE 3 — Relevant places in which the exemptions from the requirement to wear face coverings by employees or persons providing services do not apply[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3]
 
 Regulation 3(2A)
 
-**1.**[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7ea44b2ce5bcda8bad7ba3e1bca655c3]: Textual amendment: Regulations revoked (18.7.2021 at 11.55 p.m.) by [The Health Protection (Coronavirus, Restrictions) (Steps etc.) (England) (Revocation and Amendment) Regulations 2021 (S.I. 2021/848)](https://www.legislation.gov.uk/uksi/2021/848), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/848/regulation/1/2), [2(c)](https://www.legislation.gov.uk/uksi/2021/848/regulation/2/c) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/848/regulation/5))
+[^c-7ea44b2ce5bcda8bad7ba3e1bca655c3]: Textual amendment: Regulations revoked (18.7.2021 at 11.55 p.m.) by [The Health Protection (Coronavirus, Restrictions) (Steps etc.) (England) (Revocation and Amendment) Regulations 2021 (S.I. 2021/848)](https://www.legislation.gov.uk/uksi/2021/848), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/848/regulation/1/2), [2(c)](https://www.legislation.gov.uk/uksi/2021/848/regulation/2/c) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/848/regulation/5))

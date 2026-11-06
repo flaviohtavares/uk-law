@@ -31,7 +31,7 @@ summary: ''
 
 Local Government, Wales
 
-The Accounts and Audit (Wales) (Amendment) Regulations 2013 (revoked)[^key-4452fe1dd58ba959180d2d72de8c33ba]
+The Accounts and Audit (Wales) (Amendment) Regulations 2013 (revoked)[^c-4452fe1dd58ba959180d2d72de8c33ba]
 
 Made
 
@@ -45,24 +45,24 @@ Coming into force
 
 1 March 2013
 
-[^key-4452fe1dd58ba959180d2d72de8c33ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4452fe1dd58ba959180d2d72de8c33ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-4452fe1dd58ba959180d2d72de8c33ba]
+## 1. Title and commencement[^c-4452fe1dd58ba959180d2d72de8c33ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Accounts and Audit (Wales) Regulations 2005[^key-4452fe1dd58ba959180d2d72de8c33ba]
+## 2. Amendment of the Accounts and Audit (Wales) Regulations 2005[^c-4452fe1dd58ba959180d2d72de8c33ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4452fe1dd58ba959180d2d72de8c33ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4452fe1dd58ba959180d2d72de8c33ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4452fe1dd58ba959180d2d72de8c33ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4452fe1dd58ba959180d2d72de8c33ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4452fe1dd58ba959180d2d72de8c33ba]: Textual amendment: Regulations revoked (31.3.2015) by [The Accounts and Audit (Wales) Regulations 2014 (S.I. 2014/3362)](https://www.legislation.gov.uk/uksi/2014/3362), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3362/regulation/1/1), [30(1)(d)](https://www.legislation.gov.uk/uksi/2014/3362/regulation/30/1/d) (with [reg. 30(2)](https://www.legislation.gov.uk/uksi/2014/3362/regulation/30/2))
+[^c-4452fe1dd58ba959180d2d72de8c33ba]: Textual amendment: Regulations revoked (31.3.2015) by [The Accounts and Audit (Wales) Regulations 2014 (S.I. 2014/3362)](https://www.legislation.gov.uk/uksi/2014/3362), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3362/regulation/1/1), [30(1)(d)](https://www.legislation.gov.uk/uksi/2014/3362/regulation/30/1/d) (with [reg. 30(2)](https://www.legislation.gov.uk/uksi/2014/3362/regulation/30/2))

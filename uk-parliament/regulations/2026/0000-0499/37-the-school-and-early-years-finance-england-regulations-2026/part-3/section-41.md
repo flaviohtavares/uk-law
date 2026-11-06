@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Pupils permanently excluded from, or leaving, maintained schools[^key-f6339d2d132a87df5efb549efbe77942]
+## 41. Pupils permanently excluded from, or leaving, maintained schools[^c-f6339d2d132a87df5efb549efbe77942]
 
 *Extent: E+W*
 
@@ -84,6 +84,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f6339d2d132a87df5efb549efbe77942]: Commencement: Reg. 41 in force at 11.2.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/37/regulation/1/2)
+[^c-f6339d2d132a87df5efb549efbe77942]: Commencement: Reg. 41 in force at 11.2.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/37/regulation/1/2)
 
 [^f00099]: Footnote: [S.I. 2012/1033](https://www.legislation.gov.uk/uksi/2012/1033). Regulation 25 was amended by [S.I. 2022/788](https://www.legislation.gov.uk/uksi/2022/788).

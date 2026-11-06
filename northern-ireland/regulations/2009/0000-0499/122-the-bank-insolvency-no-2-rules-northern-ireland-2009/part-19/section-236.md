@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 236. Right of inspection[^key-c56101bb2f7488f883b534147ab39a45]
+## 236. Right of inspection[^c-c56101bb2f7488f883b534147ab39a45]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c56101bb2f7488f883b534147ab39a45]: Commencement: Rule 236 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-c56101bb2f7488f883b534147ab39a45]: Commencement: Rule 236 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

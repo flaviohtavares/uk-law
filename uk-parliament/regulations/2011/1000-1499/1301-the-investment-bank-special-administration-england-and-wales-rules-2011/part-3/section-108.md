@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 108. Quorum[^key-f73605747a3f6ed4af56ae7a7f53afbe]
+## 108. Quorum[^c-f73605747a3f6ed4af56ae7a7f53afbe]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A meeting of the committee is duly constituted if due notice of it has been give
 
 ## Annotations
 
-[^key-f73605747a3f6ed4af56ae7a7f53afbe]: Commencement: [Rule 108](https://www.legislation.gov.uk/uksi/2011/1301/rule/108) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-f73605747a3f6ed4af56ae7a7f53afbe]: Commencement: [Rule 108](https://www.legislation.gov.uk/uksi/2011/1301/rule/108) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

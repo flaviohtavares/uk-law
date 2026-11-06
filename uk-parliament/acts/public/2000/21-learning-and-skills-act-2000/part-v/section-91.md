@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91. Dissolution of FEFC for Wales.[^key-69c820a10d0288482749b433da3235c1]
+## 91. Dissolution of FEFC for Wales.[^c-69c820a10d0288482749b433da3235c1]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-69c820a10d0288482749b433da3235c1]: Textual amendment: [S. 91](https://www.legislation.gov.uk/ukpga/2000/21/section/91) omitted (1.4.2006) by virtue of [National Council for Education and Training for Wales (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3238)](https://www.legislation.gov.uk/wsi/2005/3238), [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3238/article/1/1), [Sch. 1 para. 68](https://www.legislation.gov.uk/wsi/2005/3238/schedule/1/paragraph/68) (with [art. 7](https://www.legislation.gov.uk/wsi/2005/3238/article/7))
+[^c-69c820a10d0288482749b433da3235c1]: Textual amendment: [S. 91](https://www.legislation.gov.uk/ukpga/2000/21/section/91) omitted (1.4.2006) by virtue of [National Council for Education and Training for Wales (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3238)](https://www.legislation.gov.uk/wsi/2005/3238), [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3238/article/1/1), [Sch. 1 para. 68](https://www.legislation.gov.uk/wsi/2005/3238/schedule/1/paragraph/68) (with [art. 7](https://www.legislation.gov.uk/wsi/2005/3238/article/7))

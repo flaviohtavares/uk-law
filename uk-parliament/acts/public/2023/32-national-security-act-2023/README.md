@@ -34,7 +34,7 @@ An Act to make provision about threats to national security from espionage, sabo
 
 \[11th July 2023\]
 
-Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-ed4e49498f240910acdfb83c986d4312]
+Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-ed4e49498f240910acdfb83c986d4312]
 
 ## Contents
 
@@ -84,7 +84,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 - [Section 17 — Obtaining etc material benefits from a foreign intelligence service](part-1/section-17.md)
 
-#### Offences relating to designated bodies[^key-e826a7a7c945d8a9a3d636c947af286e]
+#### Offences relating to designated bodies[^c-e826a7a7c945d8a9a3d636c947af286e]
 
 - [Section 17A — Supporting a designated body](part-1/section-17a.md)
 - [Section 17B — Assisting a designated body](part-1/section-17b.md)
@@ -96,7 +96,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 - [Section 18 — Preparatory conduct](part-1/section-18.md)
 
-#### Acting for foreign power or designated body as aggravating factor in sentencing[^key-0f08f4aa756fb6f453dd9011bdf737ad]
+#### Acting for foreign power or designated body as aggravating factor in sentencing[^c-0f08f4aa756fb6f453dd9011bdf737ad]
 
 *Extent: E+W+S+N.I.*
 
@@ -126,12 +126,12 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 - [Section 32 — Meaning of “foreign power”](part-1/section-32.md)
 - [Section 33 — Foreign power threat activity and involvement in that activity](part-1/section-33.md)
 
-#### Designation of bodies involved in foreign power threat activity[^key-53622ab9fce0dade5fc5e339a1e223aa]
+#### Designation of bodies involved in foreign power threat activity[^c-53622ab9fce0dade5fc5e339a1e223aa]
 
 - [Section 33A — Power to designate bodies involved in foreign power threat activity](part-1/section-33a.md)
 - [Section 33B — The designated body condition](part-1/section-33b.md)
 
-#### Removal of designation[^key-f8c57c901b82ed01e2f3393b1d86e588]
+#### Removal of designation[^c-f8c57c901b82ed01e2f3393b1d86e588]
 
 - [Section 33C — Removal of designation: application](part-1/section-33c.md)
 - [Section 33D — Removal of designation: appeal](part-1/section-33d.md)
@@ -377,12 +377,12 @@ Schedules
 
 ## Annotations
 
-[^key-ed4e49498f240910acdfb83c986d4312]: Modification: Act extended (with modifications) (23.10.2024) by [The National Security Act 2023 (Sovereign Base Areas) Order 2024 (S.I. 2024/993)](https://www.legislation.gov.uk/uksi/2024/993), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/993/article/1/2), [3](https://www.legislation.gov.uk/uksi/2024/993/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2024/993/schedule) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/993/article/4))
+[^c-ed4e49498f240910acdfb83c986d4312]: Modification: Act extended (with modifications) (23.10.2024) by [The National Security Act 2023 (Sovereign Base Areas) Order 2024 (S.I. 2024/993)](https://www.legislation.gov.uk/uksi/2024/993), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/993/article/1/2), [3](https://www.legislation.gov.uk/uksi/2024/993/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2024/993/schedule) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/993/article/4))
 
-[^key-e826a7a7c945d8a9a3d636c947af286e]: Textual amendment: [Ss. 17A-17C](https://www.legislation.gov.uk/ukpga/2023/32/section/17A) and cross-heading inserted (8.7.2026) by [National Security (State Threats) Act 2026 (c. 24)](https://www.legislation.gov.uk/ukpga/2026/24), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2026/24/section/2/2), [7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
+[^c-e826a7a7c945d8a9a3d636c947af286e]: Textual amendment: [Ss. 17A-17C](https://www.legislation.gov.uk/ukpga/2023/32/section/17A) and cross-heading inserted (8.7.2026) by [National Security (State Threats) Act 2026 (c. 24)](https://www.legislation.gov.uk/ukpga/2026/24), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2026/24/section/2/2), [7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
 
-[^key-0f08f4aa756fb6f453dd9011bdf737ad]: Textual amendment: Words in [s. 19 cross-heading](https://www.legislation.gov.uk/ukpga/2023/32/part/1/crossheading/acting-for-foreign-power-as-aggravating-factor-in-sentencing) inserted (8.7.2026) by [National Security (State Threats) Act 2026 (c. 24)](https://www.legislation.gov.uk/ukpga/2026/24), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1), [Sch. para. 21](https://www.legislation.gov.uk/ukpga/2026/24/schedule/paragraph/21)
+[^c-0f08f4aa756fb6f453dd9011bdf737ad]: Textual amendment: Words in [s. 19 cross-heading](https://www.legislation.gov.uk/ukpga/2023/32/part/1/crossheading/acting-for-foreign-power-as-aggravating-factor-in-sentencing) inserted (8.7.2026) by [National Security (State Threats) Act 2026 (c. 24)](https://www.legislation.gov.uk/ukpga/2026/24), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1), [Sch. para. 21](https://www.legislation.gov.uk/ukpga/2026/24/schedule/paragraph/21)
 
-[^key-53622ab9fce0dade5fc5e339a1e223aa]: Textual amendment: [Ss. 33A](https://www.legislation.gov.uk/ukpga/2023/32/section/33A), [33B](https://www.legislation.gov.uk/ukpga/2023/32/section/33B) and cross-heading inserted (8.7.2026) by [National Security (State Threats) Act 2026 (c. 24)](https://www.legislation.gov.uk/ukpga/2026/24), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2026/24/section/1/2), [7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
+[^c-53622ab9fce0dade5fc5e339a1e223aa]: Textual amendment: [Ss. 33A](https://www.legislation.gov.uk/ukpga/2023/32/section/33A), [33B](https://www.legislation.gov.uk/ukpga/2023/32/section/33B) and cross-heading inserted (8.7.2026) by [National Security (State Threats) Act 2026 (c. 24)](https://www.legislation.gov.uk/ukpga/2026/24), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2026/24/section/1/2), [7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
 
-[^key-f8c57c901b82ed01e2f3393b1d86e588]: Textual amendment: [Ss. 33C-33H](https://www.legislation.gov.uk/ukpga/2023/32/section/33C) and cross-heading inserted (8.7.2026) by [National Security (State Threats) Act 2026 (c. 24)](https://www.legislation.gov.uk/ukpga/2026/24), [ss. 3(2)](https://www.legislation.gov.uk/ukpga/2026/24/section/3/2), [7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
+[^c-f8c57c901b82ed01e2f3393b1d86e588]: Textual amendment: [Ss. 33C-33H](https://www.legislation.gov.uk/ukpga/2023/32/section/33C) and cross-heading inserted (8.7.2026) by [National Security (State Threats) Act 2026 (c. 24)](https://www.legislation.gov.uk/ukpga/2026/24), [ss. 3(2)](https://www.legislation.gov.uk/ukpga/2026/24/section/3/2), [7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)

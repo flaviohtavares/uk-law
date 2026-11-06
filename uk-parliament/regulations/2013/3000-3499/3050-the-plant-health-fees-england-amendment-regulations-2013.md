@@ -32,7 +32,7 @@ summary: ''
 
 Plant Health, England
 
-The Plant Health (Fees) (England) (Amendment) Regulations 2013 (revoked)[^key-ab1e225fd32a9f0130ee0cf5738b48a1]
+The Plant Health (Fees) (England) (Amendment) Regulations 2013 (revoked)[^c-ab1e225fd32a9f0130ee0cf5738b48a1]
 
 Made
 
@@ -46,31 +46,31 @@ Coming into force
 
 1st January 2014
 
-[^key-ab1e225fd32a9f0130ee0cf5738b48a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ab1e225fd32a9f0130ee0cf5738b48a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-ab1e225fd32a9f0130ee0cf5738b48a1]
+## 1. Citation and commencement[^c-ab1e225fd32a9f0130ee0cf5738b48a1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Plant Health (Fees) (England) Regulations 2013[^key-ab1e225fd32a9f0130ee0cf5738b48a1]
+## 2. Amendment of the Plant Health (Fees) (England) Regulations 2013[^c-ab1e225fd32a9f0130ee0cf5738b48a1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of Schedule 1[^key-ab1e225fd32a9f0130ee0cf5738b48a1]
+## 3. Amendment of Schedule 1[^c-ab1e225fd32a9f0130ee0cf5738b48a1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Substitution of Schedule 2[^key-ab1e225fd32a9f0130ee0cf5738b48a1]
+## 4. Substitution of Schedule 2[^c-ab1e225fd32a9f0130ee0cf5738b48a1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ab1e225fd32a9f0130ee0cf5738b48a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ab1e225fd32a9f0130ee0cf5738b48a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-ab1e225fd32a9f0130ee0cf5738b48a1]EXPLANATORY NOTE
+[^c-ab1e225fd32a9f0130ee0cf5738b48a1]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -94,4 +94,4 @@ An impact assessment has not been produced for this instrument as no or no signi
 
 ## Annotations
 
-[^key-ab1e225fd32a9f0130ee0cf5738b48a1]: Textual amendment: Regulations revoked (6.4.2014) by [The Plant Health (Fees) (England) Regulations 2014 (S.I. 2014/601)](https://www.legislation.gov.uk/uksi/2014/601), regs. 1(1), [9(b)](https://www.legislation.gov.uk/uksi/2014/601/regulation/9/b)
+[^c-ab1e225fd32a9f0130ee0cf5738b48a1]: Textual amendment: Regulations revoked (6.4.2014) by [The Plant Health (Fees) (England) Regulations 2014 (S.I. 2014/601)](https://www.legislation.gov.uk/uksi/2014/601), regs. 1(1), [9(b)](https://www.legislation.gov.uk/uksi/2014/601/regulation/9/b)

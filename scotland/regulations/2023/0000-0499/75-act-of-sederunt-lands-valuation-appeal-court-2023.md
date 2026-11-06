@@ -31,7 +31,7 @@ summary: ''
 
 Court Of Session
 
-Act of Sederunt (Lands Valuation Appeal Court) 2023 (revoked)[^key-b7c141707641d4e57f400d25b7bc1ebf]
+Act of Sederunt (Lands Valuation Appeal Court) 2023 (revoked)[^c-b7c141707641d4e57f400d25b7bc1ebf]
 
 Made
 
@@ -45,28 +45,28 @@ Coming into force
 
 30th April 2023
 
-[^key-b7c141707641d4e57f400d25b7bc1ebf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b7c141707641d4e57f400d25b7bc1ebf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement, etc.[^key-b7c141707641d4e57f400d25b7bc1ebf]
+## 1. Citation and commencement, etc.[^c-b7c141707641d4e57f400d25b7bc1ebf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Lands Valuation Appeal Court[^key-b7c141707641d4e57f400d25b7bc1ebf]
+## 2. Lands Valuation Appeal Court[^c-b7c141707641d4e57f400d25b7bc1ebf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-b7c141707641d4e57f400d25b7bc1ebf]
+## 3. Revocation[^c-b7c141707641d4e57f400d25b7bc1ebf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b7c141707641d4e57f400d25b7bc1ebf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b7c141707641d4e57f400d25b7bc1ebf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-b7c141707641d4e57f400d25b7bc1ebf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b7c141707641d4e57f400d25b7bc1ebf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b7c141707641d4e57f400d25b7bc1ebf]: Textual amendment: Act of Sederunt revoked (10.6.2025) by [Act of Sederunt (Lands Valuation Appeal Court) 2025 (S.S.I. 2025/140)](https://www.legislation.gov.uk/ssi/2025/140), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2025/140/paragraph/1/2), [3](https://www.legislation.gov.uk/ssi/2025/140/paragraph/3)
+[^c-b7c141707641d4e57f400d25b7bc1ebf]: Textual amendment: Act of Sederunt revoked (10.6.2025) by [Act of Sederunt (Lands Valuation Appeal Court) 2025 (S.S.I. 2025/140)](https://www.legislation.gov.uk/ssi/2025/140), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2025/140/paragraph/1/2), [3](https://www.legislation.gov.uk/ssi/2025/140/paragraph/3)

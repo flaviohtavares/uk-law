@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 22. Entry and search under warrant in connection with offences[^key-cbab69b2c70d60663595e74109063d5b]
+## 22. Entry and search under warrant in connection with offences[^c-cbab69b2c70d60663595e74109063d5b]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cbab69b2c70d60663595e74109063d5b]: Modification: [S. 22](https://www.legislation.gov.uk/nia/2011/16/section/22) modified (1.4.2013) by [The Welfare of Animals (Dog Breeding Establishments and Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/43)](https://www.legislation.gov.uk/nisr/2013/43), [regs. 1](https://www.legislation.gov.uk/nisr/2013/43/regulation/1), [15](https://www.legislation.gov.uk/nisr/2013/43/regulation/15)
+[^c-cbab69b2c70d60663595e74109063d5b]: Modification: [S. 22](https://www.legislation.gov.uk/nia/2011/16/section/22) modified (1.4.2013) by [The Welfare of Animals (Dog Breeding Establishments and Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/43)](https://www.legislation.gov.uk/nisr/2013/43), [regs. 1](https://www.legislation.gov.uk/nisr/2013/43/regulation/1), [15](https://www.legislation.gov.uk/nisr/2013/43/regulation/15)

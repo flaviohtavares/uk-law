@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 78. President’s responsibility for efficient disposal of business[^key-a4b2e477d4f5f3866fdd50f983a424eb]
+## 78. President’s responsibility for efficient disposal of business[^c-a4b2e477d4f5f3866fdd50f983a424eb]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a4b2e477d4f5f3866fdd50f983a424eb]: Commencement: S. 78 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-a4b2e477d4f5f3866fdd50f983a424eb]: Commencement: S. 78 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

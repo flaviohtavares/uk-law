@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35.11. Use by one party of expert’s report disclosed by another[^key-8fda273c884c3edf653e977aaef9f54d]
+## 35.11. Use by one party of expert’s report disclosed by another[^c-8fda273c884c3edf653e977aaef9f54d]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where a party has disclosed an expert’s report, any party may use that expert�
 
 ## Annotations
 
-[^key-8fda273c884c3edf653e977aaef9f54d]: Commencement: [Rule 35.11](https://www.legislation.gov.uk/uksi/1998/3132/rule/35.11) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-8fda273c884c3edf653e977aaef9f54d]: Commencement: [Rule 35.11](https://www.legislation.gov.uk/uksi/1998/3132/rule/35.11) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)

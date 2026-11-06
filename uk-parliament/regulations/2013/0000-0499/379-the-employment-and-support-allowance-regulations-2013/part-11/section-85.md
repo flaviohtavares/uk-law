@@ -20,11 +20,11 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1) The number of days prescribed for the purposes of paragraph 2 of Schedule 2 to the Act (days during which a person is not entitled to an employment and support allowance at the beginning of a period of limited capability for work) is seven[^key-3c984f5509428f2ba39b7a7a2eb276ce].
+(1) The number of days prescribed for the purposes of paragraph 2 of Schedule 2 to the Act (days during which a person is not entitled to an employment and support allowance at the beginning of a period of limited capability for work) is seven[^c-3c984f5509428f2ba39b7a7a2eb276ce].
 
 (2) Paragraph 2 of Schedule 2 to the Act does not apply where—
 
-- (a) the claimant's entitlement to an employment and support allowance commences within 12 weeks of the claimant's entitlement to income support, incapacity benefit, severe disablement allowance, state pension credit, a jobseeker's allowance, a carer's allowance, carer support payment,[^key-e1979ef8fe03a98af20249b276ad6356] statutory sick pay or a maternity allowance coming to an end;
+- (a) the claimant's entitlement to an employment and support allowance commences within 12 weeks of the claimant's entitlement to income support, incapacity benefit, severe disablement allowance, state pension credit, a jobseeker's allowance, a carer's allowance, carer support payment,[^c-e1979ef8fe03a98af20249b276ad6356] statutory sick pay or a maternity allowance coming to an end;
 - (b) the claimant is terminally ill and has—
   - (i) made a claim expressly on the ground of being terminally ill; or
   - (ii) made an application for supersession or revision in accordance with the Decisions and Appeals Regulations 1999 or the Decisions and Appeals Regulations 2013 which contains an express statement that the claimant is terminally ill;
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3c984f5509428f2ba39b7a7a2eb276ce]: Textual amendment: Word in reg. 85(1) substituted (27.10.2014) by [The Social Security (Jobseeker's Allowance and Employment and Support Allowance) (Waiting Days) Amendment Regulations 2014 (S.I. 2014/2309)](https://www.legislation.gov.uk/uksi/2014/2309), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2309/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2014/2309/regulation/2/4) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2014/2309/regulation/4/2))
+[^c-3c984f5509428f2ba39b7a7a2eb276ce]: Textual amendment: Word in reg. 85(1) substituted (27.10.2014) by [The Social Security (Jobseeker's Allowance and Employment and Support Allowance) (Waiting Days) Amendment Regulations 2014 (S.I. 2014/2309)](https://www.legislation.gov.uk/uksi/2014/2309), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2309/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2014/2309/regulation/2/4) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2014/2309/regulation/4/2))
 
-[^key-e1979ef8fe03a98af20249b276ad6356]: Textual amendment: Words in [reg. 85(2)(a)](https://www.legislation.gov.uk/uksi/2013/379/regulation/85/2/a) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [25(5)](https://www.legislation.gov.uk/uksi/2023/1218/article/25/5)
+[^c-e1979ef8fe03a98af20249b276ad6356]: Textual amendment: Words in [reg. 85(2)(a)](https://www.legislation.gov.uk/uksi/2013/379/regulation/85/2/a) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [25(5)](https://www.legislation.gov.uk/uksi/2023/1218/article/25/5)

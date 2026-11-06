@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 45. Amendments to Schedule 1 to the Energy Order – Members of the Authority[^key-6d680369f3a18eafe2c3f293964d004a]
+## 45. Amendments to Schedule 1 to the Energy Order – Members of the Authority[^c-6d680369f3a18eafe2c3f293964d004a]
 
 *Extent: N.I.*
 
@@ -52,4 +52,4 @@ In Schedule 1 to the Energy Order—
 
 ## Annotations
 
-[^key-6d680369f3a18eafe2c3f293964d004a]: Commencement: Reg. 45 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
+[^c-6d680369f3a18eafe2c3f293964d004a]: Commencement: Reg. 45 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)

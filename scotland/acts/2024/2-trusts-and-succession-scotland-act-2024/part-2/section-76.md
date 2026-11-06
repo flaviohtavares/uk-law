@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 76. Effect of divorce, dissolution or annulment on special destination[^key-c011471e1adf4fb20581e73fbbf2ea00]
+## 76. Effect of divorce, dissolution or annulment on special destination[^c-c011471e1adf4fb20581e73fbbf2ea00]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ In section 2(2) of the Succession (Scotland) Act 2016 (effect of divorce, dissol
 
 ## Annotations
 
-[^key-c011471e1adf4fb20581e73fbbf2ea00]: Commencement: [S. 76](https://www.legislation.gov.uk/asp/2024/2/section/76) in force at 30.4.2024, see [s. 88(2)](https://www.legislation.gov.uk/asp/2024/2/section/88/2)
+[^c-c011471e1adf4fb20581e73fbbf2ea00]: Commencement: [S. 76](https://www.legislation.gov.uk/asp/2024/2/section/76) in force at 30.4.2024, see [s. 88(2)](https://www.legislation.gov.uk/asp/2024/2/section/88/2)

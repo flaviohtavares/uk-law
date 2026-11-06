@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Emergency control orders.[^key-46ddfcdef46556320c69d6b53e1c935a]
+## 13. Emergency control orders.[^c-46ddfcdef46556320c69d6b53e1c935a]
 
 *Extent: E+W+S*
 
@@ -42,11 +42,11 @@ summary: ''
 
 *Extent: S*
 
-(8)[^key-621fbe2b44b73ccfb63f6cc15ad9a607] In the application of this section to Scotland, the references to the Food Standards Agency are to be ignored.
+(8)[^c-621fbe2b44b73ccfb63f6cc15ad9a607] In the application of this section to Scotland, the references to the Food Standards Agency are to be ignored.
 
 ## Annotations
 
-[^key-46ddfcdef46556320c69d6b53e1c935a]: Modification: S. 13: transfer of functions (23.3.2005) by [Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2005 (S.I. 2005/849)](https://www.legislation.gov.uk/uksi/2005/849), [art. 1](https://www.legislation.gov.uk/uksi/2005/849/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/849/schedule) (with [art. 6](https://www.legislation.gov.uk/uksi/2005/849/article/6))
+[^c-46ddfcdef46556320c69d6b53e1c935a]: Modification: S. 13: transfer of functions (23.3.2005) by [Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2005 (S.I. 2005/849)](https://www.legislation.gov.uk/uksi/2005/849), [art. 1](https://www.legislation.gov.uk/uksi/2005/849/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/849/schedule) (with [art. 6](https://www.legislation.gov.uk/uksi/2005/849/article/6))
 
 [^c10203301]: Modification: S. 13(1) amended (1.4.2000) by [1999 c. 28](https://www.legislation.gov.uk/ukpga/1999/28), [s. 17(1)(b)](https://www.legislation.gov.uk/ukpga/1999/28/section/17/1/b) (with [s. 38](https://www.legislation.gov.uk/ukpga/1999/28/section/38)); [S.I. 2000/1066](https://www.legislation.gov.uk/uksi/2000/1066), [art. 2](https://www.legislation.gov.uk/uksi/2000/1066/article/2)
 
@@ -72,4 +72,4 @@ summary: ''
 
 [^c10203431]: Textual amendment: Words in [s. 13(7)](https://www.legislation.gov.uk/ukpga/1990/16/section/13/7) substituted (1.4.2000) by [1999 c. 28](https://www.legislation.gov.uk/ukpga/1999/28), [s. 40(1)](https://www.legislation.gov.uk/ukpga/1999/28/section/40/1), [Sch. 5 para. 11(4)](https://www.legislation.gov.uk/ukpga/1999/28/schedule/5/paragraph/11/4) (with [ss. 38](https://www.legislation.gov.uk/ukpga/1999/28/section/38), [40(2)](https://www.legislation.gov.uk/ukpga/1999/28/section/40/2)); [S.I. 2000/1066](https://www.legislation.gov.uk/uksi/2000/1066), [art. 2](https://www.legislation.gov.uk/uksi/2000/1066/article/2)
 
-[^key-621fbe2b44b73ccfb63f6cc15ad9a607]: Textual amendment: S. 13(8) inserted (S.) (1.4.2015) by [Food (Scotland) Act 2015 (asp 1)](https://www.legislation.gov.uk/asp/2015/1), [s. 63(2)](https://www.legislation.gov.uk/asp/2015/1/section/63/2), [sch. para. 3(3)](https://www.legislation.gov.uk/asp/2015/1/schedule/paragraph/3/3) (with [s. 62](https://www.legislation.gov.uk/asp/2015/1/section/62)); [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-621fbe2b44b73ccfb63f6cc15ad9a607]: Textual amendment: S. 13(8) inserted (S.) (1.4.2015) by [Food (Scotland) Act 2015 (asp 1)](https://www.legislation.gov.uk/asp/2015/1), [s. 63(2)](https://www.legislation.gov.uk/asp/2015/1/section/63/2), [sch. para. 3(3)](https://www.legislation.gov.uk/asp/2015/1/schedule/paragraph/3/3) (with [s. 62](https://www.legislation.gov.uk/asp/2015/1/section/62)); [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)

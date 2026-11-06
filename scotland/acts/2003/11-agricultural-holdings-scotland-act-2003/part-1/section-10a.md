@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10A. Landlord improvement notices[^key-b05e7b62e6cab1e664b0901e0b0d860f]
+## 10A. Landlord improvement notices[^c-b05e7b62e6cab1e664b0901e0b0d860f]
 
 *Extent: S*
 
 (1) This section applies where the landlord of—
 
 - (a) a short limited duration tenancy within the meaning of section 4,
-- (b) a limited duration tenancy [^key-70d24146a69ef3c6a6179b41209a2bd7]...,
+- (b) a limited duration tenancy [^c-70d24146a69ef3c6a6179b41209a2bd7]...,
 - (c) a modern limited duration tenancy within the meaning of section 5A, or
 - (d) subject to subsection (2), a repairing tenancy within the meaning of section 5C,
 
@@ -52,6 +52,6 @@ intends to carry out a relevant improvement.
 
 ## Annotations
 
-[^key-b05e7b62e6cab1e664b0901e0b0d860f]: Textual amendment: Ss. 10A-10F inserted (23.12.2016) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 119(4)](https://www.legislation.gov.uk/asp/2016/18/section/119/4), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule) (with [regs. 10](https://www.legislation.gov.uk/ssi/2016/365/regulation/10), [11](https://www.legislation.gov.uk/ssi/2016/365/regulation/11))
+[^c-b05e7b62e6cab1e664b0901e0b0d860f]: Textual amendment: Ss. 10A-10F inserted (23.12.2016) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 119(4)](https://www.legislation.gov.uk/asp/2016/18/section/119/4), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule) (with [regs. 10](https://www.legislation.gov.uk/ssi/2016/365/regulation/10), [11](https://www.legislation.gov.uk/ssi/2016/365/regulation/11))
 
-[^key-70d24146a69ef3c6a6179b41209a2bd7]: Textual amendment: Words in s. 10A(1)(b) omitted (30.11.2017) by virtue of [The Land Reform (Scotland) Act 2016 (Supplementary, Consequential, Transitory and Saving Provisions) Regulations 2017 (S.S.I. 2017/416)](https://www.legislation.gov.uk/ssi/2017/416), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/416/regulation/1/1), [sch. 1 para. 8(2)](https://www.legislation.gov.uk/ssi/2017/416/schedule/1/paragraph/8/2)
+[^c-70d24146a69ef3c6a6179b41209a2bd7]: Textual amendment: Words in s. 10A(1)(b) omitted (30.11.2017) by virtue of [The Land Reform (Scotland) Act 2016 (Supplementary, Consequential, Transitory and Saving Provisions) Regulations 2017 (S.S.I. 2017/416)](https://www.legislation.gov.uk/ssi/2017/416), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/416/regulation/1/1), [sch. 1 para. 8(2)](https://www.legislation.gov.uk/ssi/2017/416/schedule/1/paragraph/8/2)

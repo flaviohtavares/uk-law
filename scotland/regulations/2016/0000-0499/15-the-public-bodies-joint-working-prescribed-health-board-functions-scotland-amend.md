@@ -34,7 +34,7 @@ Public Health
 
 Social Care
 
-The Public Bodies (Joint Working) (Prescribed Health Board Functions) (Scotland) Amendment Regulations 2016 (revoked)[^key-811fb3a50647304768302646aa82b628]
+The Public Bodies (Joint Working) (Prescribed Health Board Functions) (Scotland) Amendment Regulations 2016 (revoked)[^c-811fb3a50647304768302646aa82b628]
 
 Made
 
@@ -48,24 +48,24 @@ Coming into force
 
 31st August 2016
 
-[^key-811fb3a50647304768302646aa82b628]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-811fb3a50647304768302646aa82b628]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-811fb3a50647304768302646aa82b628]
+## 1. Citation and commencement[^c-811fb3a50647304768302646aa82b628]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Public Bodies (Joint Working) (Prescribed Health Board Functions) (Scotland) Regulations 2014[^key-811fb3a50647304768302646aa82b628]
+## 2. Amendment of the Public Bodies (Joint Working) (Prescribed Health Board Functions) (Scotland) Regulations 2014[^c-811fb3a50647304768302646aa82b628]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-811fb3a50647304768302646aa82b628]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-811fb3a50647304768302646aa82b628]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-811fb3a50647304768302646aa82b628]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-811fb3a50647304768302646aa82b628]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-811fb3a50647304768302646aa82b628]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2016/15) revoked (5.5.2025) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [s. 38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3), [sch. para. 31](https://www.legislation.gov.uk/asp/2024/5/schedule/paragraph/31); [S.S.I. 2025/115](https://www.legislation.gov.uk/ssi/2025/115), [reg. 2(1)(f)](https://www.legislation.gov.uk/ssi/2025/115/regulation/2/1/f)
+[^c-811fb3a50647304768302646aa82b628]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2016/15) revoked (5.5.2025) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [s. 38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3), [sch. para. 31](https://www.legislation.gov.uk/asp/2024/5/schedule/paragraph/31); [S.S.I. 2025/115](https://www.legislation.gov.uk/ssi/2025/115), [reg. 2(1)(f)](https://www.legislation.gov.uk/ssi/2025/115/regulation/2/1/f)

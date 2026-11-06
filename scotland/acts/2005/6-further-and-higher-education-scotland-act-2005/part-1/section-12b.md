@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 12B. Funding of assigned colleges[^key-e5a34f3f15c9fcf419ed66dac0524fcf]
+## 12B. Funding of assigned colleges[^c-e5a34f3f15c9fcf419ed66dac0524fcf]
 
 *Extent: S*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e5a34f3f15c9fcf419ed66dac0524fcf]: Textual amendment: S. 12A, 12B inserted (1.5.2014 for the insertion of s. 12A) by [Post-16 Education (Scotland) Act 2013 (asp 12)](https://www.legislation.gov.uk/asp/2013/12), [ss. 9(2)](https://www.legislation.gov.uk/asp/2013/12/section/9/2), [23(2)](https://www.legislation.gov.uk/asp/2013/12/section/23/2); [S.S.I. 2014/79](https://www.legislation.gov.uk/ssi/2014/79), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/79/article/2/1)[(3)](https://www.legislation.gov.uk/ssi/2014/79/article/2/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/79/schedule/1)
+[^c-e5a34f3f15c9fcf419ed66dac0524fcf]: Textual amendment: S. 12A, 12B inserted (1.5.2014 for the insertion of s. 12A) by [Post-16 Education (Scotland) Act 2013 (asp 12)](https://www.legislation.gov.uk/asp/2013/12), [ss. 9(2)](https://www.legislation.gov.uk/asp/2013/12/section/9/2), [23(2)](https://www.legislation.gov.uk/asp/2013/12/section/23/2); [S.S.I. 2014/79](https://www.legislation.gov.uk/ssi/2014/79), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/79/article/2/1)[(3)](https://www.legislation.gov.uk/ssi/2014/79/article/2/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/79/schedule/1)

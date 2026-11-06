@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 106. Appeal against decision on relevant funds claim[^key-b823148656ac77ca10cfdbb0659ce214]
+## 106. Appeal against decision on relevant funds claim[^c-b823148656ac77ca10cfdbb0659ce214]
 
 *Extent: N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b823148656ac77ca10cfdbb0659ce214]: Commencement: [Rule 106](https://www.legislation.gov.uk/nisr/2026/11/rule/106) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-b823148656ac77ca10cfdbb0659ce214]: Commencement: [Rule 106](https://www.legislation.gov.uk/nisr/2026/11/rule/106) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

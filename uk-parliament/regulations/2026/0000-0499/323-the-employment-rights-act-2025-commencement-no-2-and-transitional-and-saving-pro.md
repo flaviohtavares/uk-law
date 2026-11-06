@@ -41,7 +41,7 @@ Made
 
 The Secretary of State makes these Regulations in exercise of the powers conferred by sections 155 and 159(3) and (4) of the Employment Rights Act 2025[^f00001].
 
-## 1. Citation and interpretation[^key-8050d3a5eea476ef1bdd6b6c7de1d95d]
+## 1. Citation and interpretation[^c-8050d3a5eea476ef1bdd6b6c7de1d95d]
 
 (1) These Regulations may be cited as the Employment Rights Act 2025 (Commencement No. 2 and Transitional and Saving Provisions) (Amendment) Regulations 2026.
 
@@ -51,11 +51,11 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 - “**the 1996 Act**” means the Employment Rights Act 1996[^f00003];
 - “**the 2025 Act**” means the Employment Rights Act 2025.
 
-## 2. Provisions of the 2025 Act coming into force on 1st April 2026[^key-686f00210a2da350d5c5c67c40f4503f]
+## 2. Provisions of the 2025 Act coming into force on 1st April 2026[^c-686f00210a2da350d5c5c67c40f4503f]
 
 Section 85 (removal of power to impose levy) of the 2025 Act comes into force on 1st April 2026.
 
-## 3. Provisions of the 2025 Act coming into force on 6th April 2026[^key-11917a7d8c97f7aa8aa46d48b1d81760]
+## 3. Provisions of the 2025 Act coming into force on 6th April 2026[^c-11917a7d8c97f7aa8aa46d48b1d81760]
 
 (1) The provisions of the 2025 Act specified in the following paragraphs of this regulation come into force on 6th April 2026, subject to the transitional provisions in regulations 5 and 6.
 
@@ -136,7 +136,7 @@ Section 85 (removal of power to impose levy) of the 2025 Act comes into force on
 - (i) paragraphs 42 to 44;
 - (j) paragraph 65.
 
-## 4. Provisions of the 2025 Act coming into force on 7th April 2026[^key-490f204ca25e931a24928a547784af36]
+## 4. Provisions of the 2025 Act coming into force on 7th April 2026[^c-490f204ca25e931a24928a547784af36]
 
 (1) The provisions of Part 5 of the 2025 Act (enforcement of labour market legislation) specified in the following paragraphs of this regulation come into force on 7th April 2026, subject to the transitional provisions in regulation 7.
 
@@ -283,11 +283,11 @@ Section 85 (removal of power to impose levy) of the 2025 Act comes into force on
 
 (56) Part 2 of Schedule 11 (transitional and saving provision relating to part 5).
 
-## 5. Transitional and saving provisions in relation to section 30 of the 2025 Act[^key-a3fc13e0fceadc68a62911395a8af97a]
+## 5. Transitional and saving provisions in relation to section 30 of the 2025 Act[^c-a3fc13e0fceadc68a62911395a8af97a]
 
 Section 30 of the 2025 Act does not apply in relation to dismissals taking effect before 6th April 2026.
 
-## 6. Transitional and saving provisions in relation to Schedule 6 of the 2025 Act[^key-e846f1d2b508bc989ded002b74a59bad]
+## 6. Transitional and saving provisions in relation to Schedule 6 of the 2025 Act[^c-e846f1d2b508bc989ded002b74a59bad]
 
 (1) The provisions of Schedule 6 to the 2025 Act specified in the following sub-paragraphs do not apply in cases where an application under paragraph 11 or 12 of Schedule A1 to the 1992 Act was received by the Central Arbitration Committee before 6th April 2026—
 
@@ -310,11 +310,11 @@ Section 30 of the 2025 Act does not apply in relation to dismissals taking effec
 - (a) paragraphs 42, 43 and 44;
 - (b) paragraph 65, to the extent it inserts a definition of “**the required percentage**” for the purposes of the provisions amended by the provisions specified in sub-paragraph (a) above.
 
-## 7. Transitional provisions in relation to Part 5 of the 2025 Act[^key-0ae5506122e0c004f1ad8d6b306195e8]
+## 7. Transitional provisions in relation to Part 5 of the 2025 Act[^c-0ae5506122e0c004f1ad8d6b306195e8]
 
 (1) This regulation applies before section 6(1) of the 2025 Act comes fully into force.
 
-(2) Where this regulation[^key-4a7e8f3802c5780a26fdd5ead11fab0b] applies—
+(2) Where this regulation[^c-4a7e8f3802c5780a26fdd5ead11fab0b] applies—
 
 - (a) section 151(2)(e) of the 2025 Act is to be read as if for paragraph (ii) (but not the “or” after it) there were substituted—
 
@@ -327,7 +327,7 @@ Section 30 of the 2025 Act does not apply in relation to dismissals taking effec
 
   .
 
-## 8. Transitional and saving provisions in relation to amendments to the Police Reform Act 2002[^key-34ccf72617d6246e22d2313378934b18]
+## 8. Transitional and saving provisions in relation to amendments to the Police Reform Act 2002[^c-34ccf72617d6246e22d2313378934b18]
 
 (1) This regulation applies during the period from 7th April 2026 until the coming into force of any regulations made under section 26CA of the 2002 Act (enforcement officers appointed under the Employment Rights Act 2025).
 
@@ -355,7 +355,7 @@ Section 30 of the 2025 Act does not apply in relation to dismissals taking effec
   - (ii) “the Chief Executive”;
   - (iii) “labour abuse prevention officer” or “LAPO”.
 
-## 9. Amendments to the Employment Rights Act 2025 (Commencement No. 1 and Transitional and Saving Provisions) Regulations 2026[^key-faabd542b17846248d8727cd1421a46c]
+## 9. Amendments to the Employment Rights Act 2025 (Commencement No. 1 and Transitional and Saving Provisions) Regulations 2026[^c-faabd542b17846248d8727cd1421a46c]
 
 (1) The Employment Rights Act 2025 (Commencement No.1 and Transitional and Saving Provisions) Regulations 2026[^f00010] are amended as follows.
 
@@ -474,31 +474,31 @@ The following provisions of the Employment Rights Act 2025 have been brought int
 
 [^f00001]: Footnote: [2025 c. 36](https://www.legislation.gov.uk/ukpga/2025/36).
 
-[^key-8050d3a5eea476ef1bdd6b6c7de1d95d]: Commencement: Reg. 1 in force at made date
+[^c-8050d3a5eea476ef1bdd6b6c7de1d95d]: Commencement: Reg. 1 in force at made date
 
 [^f00002]: Footnote: [1992 c. 52](https://www.legislation.gov.uk/ukpga/1992/52).
 
 [^f00003]: Footnote: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18).
 
-[^key-686f00210a2da350d5c5c67c40f4503f]: Commencement: Reg. 2 in force at made date
+[^c-686f00210a2da350d5c5c67c40f4503f]: Commencement: Reg. 2 in force at made date
 
-[^key-11917a7d8c97f7aa8aa46d48b1d81760]: Commencement: Reg. 3 in force at made date
+[^c-11917a7d8c97f7aa8aa46d48b1d81760]: Commencement: Reg. 3 in force at made date
 
 [^f00004]: Footnote: Sections 104I to 104K were inserted into the Employment Rights Act [1996 (c. 18)](https://www.legislation.gov.uk/ukpga/1996/18) by section 28(1) to (3) of the Employment Rights Act [2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36).
 
-[^key-490f204ca25e931a24928a547784af36]: Commencement: Reg. 4 in force at made date
+[^c-490f204ca25e931a24928a547784af36]: Commencement: Reg. 4 in force at made date
 
 [^f00005]: Footnote: See section 135(1) of the Employment Rights Act 2025 for the definition of “civil proceedings function”.
 
-[^key-a3fc13e0fceadc68a62911395a8af97a]: Commencement: Reg. 5 in force at made date
+[^c-a3fc13e0fceadc68a62911395a8af97a]: Commencement: Reg. 5 in force at made date
 
-[^key-e846f1d2b508bc989ded002b74a59bad]: Commencement: Reg. 6 in force at made date
+[^c-e846f1d2b508bc989ded002b74a59bad]: Commencement: Reg. 6 in force at made date
 
-[^key-0ae5506122e0c004f1ad8d6b306195e8]: Commencement: Reg. 7 in force at made date
+[^c-0ae5506122e0c004f1ad8d6b306195e8]: Commencement: Reg. 7 in force at made date
 
-[^key-4a7e8f3802c5780a26fdd5ead11fab0b]: Textual amendment: Word in reg. 7(2) substituted (2.9.2026) by [The Employment Rights Act 2025 (Commencement No. 5 and Transitional Provisions) (Amendment) Regulations 2026 (S.I. 2026/954)](https://www.legislation.gov.uk/uksi/2026/954), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/954/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2026/954/regulation/5)
+[^c-4a7e8f3802c5780a26fdd5ead11fab0b]: Textual amendment: Word in reg. 7(2) substituted (2.9.2026) by [The Employment Rights Act 2025 (Commencement No. 5 and Transitional Provisions) (Amendment) Regulations 2026 (S.I. 2026/954)](https://www.legislation.gov.uk/uksi/2026/954), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/954/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2026/954/regulation/5)
 
-[^key-34ccf72617d6246e22d2313378934b18]: Commencement: Reg. 8 in force at made date
+[^c-34ccf72617d6246e22d2313378934b18]: Commencement: Reg. 8 in force at made date
 
 [^f00006]: Footnote: [S.I. 2017/521](https://www.legislation.gov.uk/uksi/2017/521), as amended by [S.I. 2017/1250](https://www.legislation.gov.uk/uksi/2017/1250).
 
@@ -508,6 +508,6 @@ The following provisions of the Employment Rights Act 2025 have been brought int
 
 [^f00009]: Footnote: The Gangmasters and Labour Abuse Authority was established under section 1 of the Gangmasters (Licensing) Act [2004 (c. 11)](https://www.legislation.gov.uk/ukpga/2004/11), as amended by paragraph 3 of Schedule 15 to the Immigration Act [2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), and abolished by section 148(1)(a) of the Employment Rights Act 2025.
 
-[^key-faabd542b17846248d8727cd1421a46c]: Commencement: Reg. 9 in force at made date
+[^c-faabd542b17846248d8727cd1421a46c]: Commencement: Reg. 9 in force at made date
 
 [^f00010]: Footnote: [S.I. 2026/3 (C. 2)](https://www.legislation.gov.uk/uksi/2026/3).

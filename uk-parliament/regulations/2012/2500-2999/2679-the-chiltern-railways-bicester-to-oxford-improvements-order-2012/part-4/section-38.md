@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 38. Defence to proceedings in respect of statutory nuisance[^key-97eeb83aa83b2e0007449e349df4b918]
+## 38. Defence to proceedings in respect of statutory nuisance[^c-97eeb83aa83b2e0007449e349df4b918]
 
 *Extent: E+W+S*
 
@@ -36,7 +36,7 @@ do not apply where the consent relates to the use of premises by the Company for
 
 ## Annotations
 
-[^key-97eeb83aa83b2e0007449e349df4b918]: Commencement: Art. 38 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)
+[^c-97eeb83aa83b2e0007449e349df4b918]: Commencement: Art. 38 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)
 
 [^f00028]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43).
 

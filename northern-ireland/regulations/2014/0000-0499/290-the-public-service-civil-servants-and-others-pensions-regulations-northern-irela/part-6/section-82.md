@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 82. Option to buy out early payment reduction[^key-ee9733fc294e1cf32c48dfe3fc52728a]
+## 82. Option to buy out early payment reduction[^c-ee9733fc294e1cf32c48dfe3fc52728a]
 
 *Extent: N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ee9733fc294e1cf32c48dfe3fc52728a]: Commencement: [Reg. 82](https://www.legislation.gov.uk/nisr/2014/290/regulation/82) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-ee9733fc294e1cf32c48dfe3fc52728a]: Commencement: [Reg. 82](https://www.legislation.gov.uk/nisr/2014/290/regulation/82) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

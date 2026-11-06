@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 69. Undue influence[^key-470c26c8a968606cb525a8f968f4dea9]
+## 69. Undue influence[^c-470c26c8a968606cb525a8f968f4dea9]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-470c26c8a968606cb525a8f968f4dea9]: Textual amendment: [Art. 69](https://www.legislation.gov.uk/uksi/2012/1917/article/69) substituted (1.11.2023) by [The Mayoral and Police and Crime Commissioner Elections, Recall Petitions and Referendums (Ballot Secrecy, Candidates and Undue Influence) Regulations 2023 (S.I. 2023/1141)](https://www.legislation.gov.uk/uksi/2023/1141), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1141/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2023/1141/regulation/4/3)
+[^c-470c26c8a968606cb525a8f968f4dea9]: Textual amendment: [Art. 69](https://www.legislation.gov.uk/uksi/2012/1917/article/69) substituted (1.11.2023) by [The Mayoral and Police and Crime Commissioner Elections, Recall Petitions and Referendums (Ballot Secrecy, Candidates and Undue Influence) Regulations 2023 (S.I. 2023/1141)](https://www.legislation.gov.uk/uksi/2023/1141), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1141/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2023/1141/regulation/4/3)

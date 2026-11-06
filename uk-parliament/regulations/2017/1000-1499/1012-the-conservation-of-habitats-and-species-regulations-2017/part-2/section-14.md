@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Consultation as to inclusion of site omitted from the list[^key-63617f3b38ab0451b01e240cdd86ff11]
+## 14. Consultation as to inclusion of site omitted from the list[^c-63617f3b38ab0451b01e240cdd86ff11]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-63617f3b38ab0451b01e240cdd86ff11]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/uksi/2017/1012/regulation/14) omitted (31.12.2020) by virtue of [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [11](https://www.legislation.gov.uk/uksi/2019/579/regulation/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-63617f3b38ab0451b01e240cdd86ff11]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/uksi/2017/1012/regulation/14) omitted (31.12.2020) by virtue of [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [11](https://www.legislation.gov.uk/uksi/2019/579/regulation/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

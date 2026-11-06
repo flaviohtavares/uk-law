@@ -24,7 +24,7 @@ summary: ''
 
 ### Land Reform (Scotland) Act 2003
 
-**1.**[^key-2ba641c42fb55dc2e832b44a69ef207d] (1) The Land Reform (Scotland) Act 2003 is amended as follows.
+**1.**[^c-2ba641c42fb55dc2e832b44a69ef207d] (1) The Land Reform (Scotland) Act 2003 is amended as follows.
 
 (2) In section 35 (provisions supplementary to section 34)—
 
@@ -87,4 +87,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2ba641c42fb55dc2e832b44a69ef207d]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/asp/2016/18/schedule/1/paragraph/1) in force at 27.6.2018 by [S.S.I. 2018/138](https://www.legislation.gov.uk/ssi/2018/138), [art. 3](https://www.legislation.gov.uk/ssi/2018/138/article/3), [sch. 2](https://www.legislation.gov.uk/ssi/2018/138/schedule/2) (with [reg. 4](https://www.legislation.gov.uk/ssi/2018/138/regulation/4))
+[^c-2ba641c42fb55dc2e832b44a69ef207d]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/asp/2016/18/schedule/1/paragraph/1) in force at 27.6.2018 by [S.S.I. 2018/138](https://www.legislation.gov.uk/ssi/2018/138), [art. 3](https://www.legislation.gov.uk/ssi/2018/138/article/3), [sch. 2](https://www.legislation.gov.uk/ssi/2018/138/schedule/2) (with [reg. 4](https://www.legislation.gov.uk/ssi/2018/138/regulation/4))

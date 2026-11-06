@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48A. Notification of changes: financial information and information about identification documents[^key-e7cd7919fdb7ed31c086f2e5b8d9c827]
+## 48A. Notification of changes: financial information and information about identification documents[^c-e7cd7919fdb7ed31c086f2e5b8d9c827]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ is to be ignored.
 
 ## Annotations
 
-[^key-e7cd7919fdb7ed31c086f2e5b8d9c827]: Textual amendment: S. 48A inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 12(4)](https://www.legislation.gov.uk/ukpga/2019/3/section/12/4), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 24(1)-(5)](https://www.legislation.gov.uk/ukpga/2019/3/section/24/1))
+[^c-e7cd7919fdb7ed31c086f2e5b8d9c827]: Textual amendment: S. 48A inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 12(4)](https://www.legislation.gov.uk/ukpga/2019/3/section/12/4), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 24(1)-(5)](https://www.legislation.gov.uk/ukpga/2019/3/section/24/1))

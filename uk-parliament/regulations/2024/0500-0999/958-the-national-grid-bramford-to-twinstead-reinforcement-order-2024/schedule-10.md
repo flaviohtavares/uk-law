@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 10 — LAND OF WHICH ONLY TEMPORARY POSSESSION MAY BE TAKEN[^key-9a1b4720adf44ceb2322f4d7a0919bff]
+## SCHEDULE 10 — LAND OF WHICH ONLY TEMPORARY POSSESSION MAY BE TAKEN[^c-9a1b4720adf44ceb2322f4d7a0919bff]
 
 *Extent: E+W*
 
@@ -191,4 +191,4 @@ Articles 25 and 26
 
 ## Annotations
 
-[^key-9a1b4720adf44ceb2322f4d7a0919bff]: Commencement: Sch. 10 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-9a1b4720adf44ceb2322f4d7a0919bff]: Commencement: Sch. 10 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Infanticide (Northern Ireland)[^key-f3e6426eea4b2b4aec0f4519e14779e1]
+## 58. Infanticide (Northern Ireland)[^c-f3e6426eea4b2b4aec0f4519e14779e1]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f3e6426eea4b2b4aec0f4519e14779e1]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2009/25/section/58) in force at 1.6.2011 for N.I. by [S.R. 2011/182](https://www.legislation.gov.uk/nisr/2011/182), [art. 3(e)](https://www.legislation.gov.uk/nisr/2011/182/article/3/e)
+[^c-f3e6426eea4b2b4aec0f4519e14779e1]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2009/25/section/58) in force at 1.6.2011 for N.I. by [S.R. 2011/182](https://www.legislation.gov.uk/nisr/2011/182), [art. 3(e)](https://www.legislation.gov.uk/nisr/2011/182/article/3/e)

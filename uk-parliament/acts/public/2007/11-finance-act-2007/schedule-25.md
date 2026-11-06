@@ -26,11 +26,11 @@ Section 105
 
 #### Exemption from corporation tax for profits of charitable companies from certain lotteries
 
-**1.**[^key-d07e2d255edd1c16e8faaefe1dfa8574] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-d07e2d255edd1c16e8faaefe1dfa8574] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Exemption from income tax for profits of charitable trusts from certain lotteries
 
-**2.**[^key-5111fbf292fda1b4cd71e9295851370d] In section 530(2) of ITA 2007 (charitable trusts: exemption for profits from lotteries), for paragraph (a) (together with the “or” following it) substitute—
+**2.**[^c-5111fbf292fda1b4cd71e9295851370d] In section 530(2) of ITA 2007 (charitable trusts: exemption for profits from lotteries), for paragraph (a) (together with the “or” following it) substitute—
 
 > - (a) the lottery is an exempt lottery within the meaning of the Gambling Act 2005 by virtue of Part 1 or 4 of Schedule 11 to that Act,
 > - (ab) the lottery is promoted in accordance with a lottery operating licence within the meaning of Part 5 of that Act, or
@@ -55,7 +55,7 @@ Section 105
 
 #### Liability to pay general betting duty
 
-**5.**[^key-cd8626aa9a10491047f217411928497b] In section 5B(3)(a) (liability to pay general betting duty), for “bookmaker's permit” substitute “ general betting operating licence (in Great Britain), or a bookmaker's permit (in Northern Ireland), ”.
+**5.**[^c-cd8626aa9a10491047f217411928497b] In section 5B(3)(a) (liability to pay general betting duty), for “bookmaker's permit” substitute “ general betting operating licence (in Great Britain), or a bookmaker's permit (in Northern Ireland), ”.
 
 #### Bet-brokers
 
@@ -65,11 +65,11 @@ Section 105
 
 **7.**[^c18897111] (1) Section 12(4) (definitions for purposes of Part 1) is amended as follows.
 
-(2)[^key-ae4c04a48dc0a0b9f0b979c74c3475fa] In the definition of “betting office licence”, omit paragraph (a) (together with the “and” following it).
+(2)[^c-ae4c04a48dc0a0b9f0b979c74c3475fa] In the definition of “betting office licence”, omit paragraph (a) (together with the “and” following it).
 
-(3)[^key-ae4c04a48dc0a0b9f0b979c74c3475fa] In the definition of “bookmaker's permit”, omit paragraph (a) (together with the “and” following it).
+(3)[^c-ae4c04a48dc0a0b9f0b979c74c3475fa] In the definition of “bookmaker's permit”, omit paragraph (a) (together with the “and” following it).
 
-(4)[^key-ae4c04a48dc0a0b9f0b979c74c3475fa] After that definition insert—
+(4)[^c-ae4c04a48dc0a0b9f0b979c74c3475fa] After that definition insert—
 
 > - “**general betting operating licence**” has the same meaning as in Part 5 of the Gambling Act 2005 (see section 65(2)(c));
 
@@ -79,15 +79,15 @@ Section 105
 
 #### Combined bingo
 
-**8.**[^key-0c9f97fe6ad4349dac66bcdfa1c83d69] In section 20A(1) (meaning of “combined bingo”), omit paragraph (a) (together with the “or” following it).
+**8.**[^c-0c9f97fe6ad4349dac66bcdfa1c83d69] In section 20A(1) (meaning of “combined bingo”), omit paragraph (a) (together with the “or” following it).
 
-#### ...[^key-7f846435b02433f4d1ddee142c952b3a]
+#### ...[^c-7f846435b02433f4d1ddee142c952b3a]
 
-**9.**[^key-7f846435b02433f4d1ddee142c952b3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-7f846435b02433f4d1ddee142c952b3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Definition of “gaming”
 
-**10.**[^key-baecd7833b5583dcf9645f38653ca4e8] In section 33(1) (interpretation of Act), for the definition of “gaming” substitute—
+**10.**[^c-baecd7833b5583dcf9645f38653ca4e8] In section 33(1) (interpretation of Act), for the definition of “gaming” substitute—
 
 > “**gaming**” means playing a game of chance for a prize within the meaning of Group 4 of Schedule 9 to the Value Added Tax Act 1994;
 
@@ -99,7 +99,7 @@ Section 105
 
 (2) Omit paragraph 7 (production of documents etc relating to general betting business or pool betting business).
 
-(3)[^key-0e2dd49644d5a068494930834a9e6b9f] In paragraph 15 (cancellation of betting office licence)—
+(3)[^c-0e2dd49644d5a068494930834a9e6b9f] In paragraph 15 (cancellation of betting office licence)—
 
 - (a) at the beginning insert—
 
@@ -112,7 +112,7 @@ Section 105
 
 #### Exemptions from bingo duty
 
-**12.**[^key-3b03ee20e77ef9792ca890b842cf13c0] (1) Schedule 3 (exemptions from bingo duty) is amended as follows.
+**12.**[^c-3b03ee20e77ef9792ca890b842cf13c0] (1) Schedule 3 (exemptions from bingo duty) is amended as follows.
 
 (2) For paragraph 2B (and the italic cross-heading before it) substitute—
 
@@ -153,7 +153,7 @@ Section 105
 
 #### Charge to lottery duty
 
-**14.**[^key-a54e67849d6af45b586788dce1432778] In section 24(4) (lotteries in respect of which lottery duty not chargeable)—
+**14.**[^c-a54e67849d6af45b586788dce1432778] In section 24(4) (lotteries in respect of which lottery duty not chargeable)—
 
 - (a) in the opening words, for “not chargeable in respect” substitute “ not chargeable (in Great Britain) in respect of a lottery which is an exempt lottery within the meaning of the Gambling Act 2005 (see section 258) or (in Northern Ireland) in respect ”,
 - (b) in paragraph (a), omit “the Lotteries and Amusements Act 1976 or”,
@@ -176,7 +176,7 @@ Section 105
 
 #### Charge to gaming duty
 
-**17.**[^key-ff15978ea3eeaf6367e4386d33c54690] (1) Section 10 (charge to gaming duty) is amended as follows.
+**17.**[^c-ff15978ea3eeaf6367e4386d33c54690] (1) Section 10 (charge to gaming duty) is amended as follows.
 
 (2) In subsection (3)—
 
@@ -197,11 +197,11 @@ Section 105
 > - (a) deductions on account of reasonable expenses incurred in providing the facilities for the purposes of the games, and
 > - (b) deductions for the provision of prizes or awards in respect of the games.
 
-(4)[^key-44bd3372dfe2988acdf242ba7ae8bf13] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-44bd3372dfe2988acdf242ba7ae8bf13] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Banker's profits from gaming
 
-**18.**[^key-7413d4c04ed9390245647fe289e66ec2] (1) Section 11 (rate of gaming duty) is amended as follows.
+**18.**[^c-7413d4c04ed9390245647fe289e66ec2] (1) Section 11 (rate of gaming duty) is amended as follows.
 
 (2) In paragraph (b) of subsection (10), for “the value, in money or money's worth, of the winnings paid” substitute “ the value of the prizes provided ”.
 
@@ -213,7 +213,7 @@ Section 105
 
 #### Definition of “gaming”
 
-**19.**[^key-822d19e4082fcf9c5b780e301ab8487b] In section 15(3) (definitions for purposes of the gaming duty provisions), for the definition of “gaming” substitute—
+**19.**[^c-822d19e4082fcf9c5b780e301ab8487b] In section 15(3) (definitions for purposes of the gaming duty provisions), for the definition of “gaming” substitute—
 
 > “**gaming**” has the same meaning as in the Betting and Gaming Duties Act 1981 (see section 33(1));
 
@@ -223,7 +223,7 @@ Section 105
 
 **20.**[^c18890211] (1) Schedule 1 (gaming duty: administration, enforcement etc) is amended as follows.
 
-(2)[^key-9b20a8d3172da31871a1247cab33d622] In sub-paragraph (1) of paragraph 2 (interpretation), before the definition of “the register” insert—
+(2)[^c-9b20a8d3172da31871a1247cab33d622] In sub-paragraph (1) of paragraph 2 (interpretation), before the definition of “the register” insert—
 
 > “**casino premises licence**” has the same meaning as in Part 8 of the Gambling Act 2005 (see section 150(1)(a));
 >
@@ -231,17 +231,17 @@ Section 105
 
 .
 
-(3)[^key-9b20a8d3172da31871a1247cab33d622] In sub-paragraph (2) of that paragraph, for paragraphs (a) and (b) substitute—
+(3)[^c-9b20a8d3172da31871a1247cab33d622] In sub-paragraph (2) of that paragraph, for paragraphs (a) and (b) substitute—
 
 > - (a) in respect of which a casino premises licence is for the time being in force, or
 > - (b) in respect of which a club gaming permit is for the time being in force.
 
-(4)[^key-9b20a8d3172da31871a1247cab33d622] In paragraph 3(4)(a) (registrable persons: holders of licences under the Gaming Act 1968)—
+(4)[^c-9b20a8d3172da31871a1247cab33d622] In paragraph 3(4)(a) (registrable persons: holders of licences under the Gaming Act 1968)—
 
 - (a) for “licence under the Gaming Act 1968” substitute “ casino premises licence or club gaming permit ”, and
 - (b) after “which the licence” insert “ or permit ”.
 
-(5)[^key-9b20a8d3172da31871a1247cab33d622] In paragraph 6 (notification of premises)—
+(5)[^c-9b20a8d3172da31871a1247cab33d622] In paragraph 6 (notification of premises)—
 
 - (a) in sub-paragraph (10)(a), for “licence under the Gaming Act 1968” substitute “ casino premises licence or club gaming permit ” and after “of the licence” insert “ or permit ”, and
 - (b) in sub-paragraph (11)(a), for “licence under the Gaming Act 1968” substitute “ casino premises licence or club gaming permit ” and after “of the licence” insert “ or permit ”.
@@ -255,11 +255,11 @@ Section 105
 
 #### Provision of FA 1966 relating to repealed law
 
-**21.**[^key-678d0b3794ffa640b6f713fa45906e81] In Schedule 3 to FA 1966 (provision relating to Schedule 1 to the Betting, Gaming and Lotteries Act 1963 (c. 2)), omit paragraph 6.
+**21.**[^c-678d0b3794ffa640b6f713fa45906e81] In Schedule 3 to FA 1966 (provision relating to Schedule 1 to the Betting, Gaming and Lotteries Act 1963 (c. 2)), omit paragraph 6.
 
 #### Customs and Excise Management Act 1979
 
-**22.**[^key-c767458a8886b39d17f7e06328ecb111] In section 1(1) of CEMA 1979 (interpretation), in paragraph (a)(ic) of the definition of “revenue trader”, for the words from “any gaming” to the end substitute “ gaming within the meaning of the Betting and Gaming Duties Act 1981 (see section 33(1)) ”.
+**22.**[^c-c767458a8886b39d17f7e06328ecb111] In section 1(1) of CEMA 1979 (interpretation), in paragraph (a)(ic) of the definition of “revenue trader”, for the words from “any gaming” to the end substitute “ gaming within the meaning of the Betting and Gaming Duties Act 1981 (see section 33(1)) ”.
 
 ### Part 6 — Commencement
 
@@ -276,42 +276,42 @@ Section 105
 
 ## Annotations
 
-[^key-d07e2d255edd1c16e8faaefe1dfa8574]: Textual amendment: Sch. 25 para. 1 repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-d07e2d255edd1c16e8faaefe1dfa8574]: Textual amendment: Sch. 25 para. 1 repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-5111fbf292fda1b4cd71e9295851370d]: Commencement: Sch. 25 para. 2 in force at 1.9.2007 by [S.I. 2007/2532](https://www.legislation.gov.uk/uksi/2007/2532), [art. 2](https://www.legislation.gov.uk/uksi/2007/2532/article/2)
+[^c-5111fbf292fda1b4cd71e9295851370d]: Commencement: Sch. 25 para. 2 in force at 1.9.2007 by [S.I. 2007/2532](https://www.legislation.gov.uk/uksi/2007/2532), [art. 2](https://www.legislation.gov.uk/uksi/2007/2532/article/2)
 
-[^key-cd8626aa9a10491047f217411928497b]: Commencement: Sch. 25 para. 5 in force at 1.9.2007 by [S.I. 2007/2532](https://www.legislation.gov.uk/uksi/2007/2532), [art. 2](https://www.legislation.gov.uk/uksi/2007/2532/article/2)
+[^c-cd8626aa9a10491047f217411928497b]: Commencement: Sch. 25 para. 5 in force at 1.9.2007 by [S.I. 2007/2532](https://www.legislation.gov.uk/uksi/2007/2532), [art. 2](https://www.legislation.gov.uk/uksi/2007/2532/article/2)
 
 [^c18897111]: Commencement: Sch. 25 para. 7(1)(5) in force at Royal Assent see Sch. 25 para. 23
 
-[^key-ae4c04a48dc0a0b9f0b979c74c3475fa]: Commencement: Sch. 25 para. 7(2)-(4) in force at 1.9.2007 by [S.I. 2007/2532](https://www.legislation.gov.uk/uksi/2007/2532), [art. 2](https://www.legislation.gov.uk/uksi/2007/2532/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2532/article/4))
+[^c-ae4c04a48dc0a0b9f0b979c74c3475fa]: Commencement: Sch. 25 para. 7(2)-(4) in force at 1.9.2007 by [S.I. 2007/2532](https://www.legislation.gov.uk/uksi/2007/2532), [art. 2](https://www.legislation.gov.uk/uksi/2007/2532/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2532/article/4))
 
-[^key-0c9f97fe6ad4349dac66bcdfa1c83d69]: Commencement: Sch. 25 para. 8 in force at 1.9.2007 by [S.I. 2007/2532](https://www.legislation.gov.uk/uksi/2007/2532), [art. 2](https://www.legislation.gov.uk/uksi/2007/2532/article/2)
+[^c-0c9f97fe6ad4349dac66bcdfa1c83d69]: Commencement: Sch. 25 para. 8 in force at 1.9.2007 by [S.I. 2007/2532](https://www.legislation.gov.uk/uksi/2007/2532), [art. 2](https://www.legislation.gov.uk/uksi/2007/2532/article/2)
 
-[^key-7f846435b02433f4d1ddee142c952b3a]: Textual amendment: [Sch. 25 para. 9 and cross-heading](https://www.legislation.gov.uk/ukpga/2007/11/schedule/25/part/2/crossheading/definitions-for-purposes-of-bingo-duty) omitted (1.4.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 88(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/88/3), [Sch. 13 para. 11(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/11/b) (with [Sch. 13 para. 21](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/21))
+[^c-7f846435b02433f4d1ddee142c952b3a]: Textual amendment: [Sch. 25 para. 9 and cross-heading](https://www.legislation.gov.uk/ukpga/2007/11/schedule/25/part/2/crossheading/definitions-for-purposes-of-bingo-duty) omitted (1.4.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 88(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/88/3), [Sch. 13 para. 11(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/11/b) (with [Sch. 13 para. 21](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/21))
 
-[^key-baecd7833b5583dcf9645f38653ca4e8]: Commencement: Sch. 25 para. 10 in force at 1.9.2007 by [S.I. 2007/2532](https://www.legislation.gov.uk/uksi/2007/2532), [art. 2](https://www.legislation.gov.uk/uksi/2007/2532/article/2)
+[^c-baecd7833b5583dcf9645f38653ca4e8]: Commencement: Sch. 25 para. 10 in force at 1.9.2007 by [S.I. 2007/2532](https://www.legislation.gov.uk/uksi/2007/2532), [art. 2](https://www.legislation.gov.uk/uksi/2007/2532/article/2)
 
 [^c18890201]: Commencement: Sch. 25 para. 11(1)(2) in force at Royal Assent, see Sch. 25 para 23
 
-[^key-0e2dd49644d5a068494930834a9e6b9f]: Commencement: Sch. 25 para. 11(3) in force at 1.9.2007 by [S.I. 2007/2532](https://www.legislation.gov.uk/uksi/2007/2532), [art. 2](https://www.legislation.gov.uk/uksi/2007/2532/article/2)
+[^c-0e2dd49644d5a068494930834a9e6b9f]: Commencement: Sch. 25 para. 11(3) in force at 1.9.2007 by [S.I. 2007/2532](https://www.legislation.gov.uk/uksi/2007/2532), [art. 2](https://www.legislation.gov.uk/uksi/2007/2532/article/2)
 
-[^key-3b03ee20e77ef9792ca890b842cf13c0]: Commencement: Sch. 25 para. 12 in force at 1.9.2007 by [S.I. 2007/2532](https://www.legislation.gov.uk/uksi/2007/2532), [art. 2](https://www.legislation.gov.uk/uksi/2007/2532/article/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2007/2532/article/6))
+[^c-3b03ee20e77ef9792ca890b842cf13c0]: Commencement: Sch. 25 para. 12 in force at 1.9.2007 by [S.I. 2007/2532](https://www.legislation.gov.uk/uksi/2007/2532), [art. 2](https://www.legislation.gov.uk/uksi/2007/2532/article/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2007/2532/article/6))
 
-[^key-a54e67849d6af45b586788dce1432778]: Commencement: Sch. 25 para. 14 in force at 1.9.2007 by [S.I. 2007/2532](https://www.legislation.gov.uk/uksi/2007/2532), [art. 2](https://www.legislation.gov.uk/uksi/2007/2532/article/2)
+[^c-a54e67849d6af45b586788dce1432778]: Commencement: Sch. 25 para. 14 in force at 1.9.2007 by [S.I. 2007/2532](https://www.legislation.gov.uk/uksi/2007/2532), [art. 2](https://www.legislation.gov.uk/uksi/2007/2532/article/2)
 
-[^key-ff15978ea3eeaf6367e4386d33c54690]: Commencement: Sch. 25 para. 17 in force at 1.9.2007 by [S.I. 2007/2532](https://www.legislation.gov.uk/uksi/2007/2532), [art. 2](https://www.legislation.gov.uk/uksi/2007/2532/article/2)
+[^c-ff15978ea3eeaf6367e4386d33c54690]: Commencement: Sch. 25 para. 17 in force at 1.9.2007 by [S.I. 2007/2532](https://www.legislation.gov.uk/uksi/2007/2532), [art. 2](https://www.legislation.gov.uk/uksi/2007/2532/article/2)
 
-[^key-44bd3372dfe2988acdf242ba7ae8bf13]: Textual amendment: Sch. 25 para. 17(4) omitted (retrospective to 27.4.2009) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 114(16)(b)](https://www.legislation.gov.uk/ukpga/2009/10/section/114/16/b)[(17)](https://www.legislation.gov.uk/ukpga/2009/10/section/114/17) (with [s. 114(18)](https://www.legislation.gov.uk/ukpga/2009/10/section/114/18))
+[^c-44bd3372dfe2988acdf242ba7ae8bf13]: Textual amendment: Sch. 25 para. 17(4) omitted (retrospective to 27.4.2009) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 114(16)(b)](https://www.legislation.gov.uk/ukpga/2009/10/section/114/16/b)[(17)](https://www.legislation.gov.uk/ukpga/2009/10/section/114/17) (with [s. 114(18)](https://www.legislation.gov.uk/ukpga/2009/10/section/114/18))
 
-[^key-7413d4c04ed9390245647fe289e66ec2]: Commencement: Sch. 25 para. 18 in force at 1.9.2007 by [S.I. 2007/2532](https://www.legislation.gov.uk/uksi/2007/2532), [art. 2](https://www.legislation.gov.uk/uksi/2007/2532/article/2)
+[^c-7413d4c04ed9390245647fe289e66ec2]: Commencement: Sch. 25 para. 18 in force at 1.9.2007 by [S.I. 2007/2532](https://www.legislation.gov.uk/uksi/2007/2532), [art. 2](https://www.legislation.gov.uk/uksi/2007/2532/article/2)
 
-[^key-822d19e4082fcf9c5b780e301ab8487b]: Commencement: Sch. 25 para. 19 in force at 1.9.2007 by [S.I. 2007/2532](https://www.legislation.gov.uk/uksi/2007/2532), [art. 2](https://www.legislation.gov.uk/uksi/2007/2532/article/2)
+[^c-822d19e4082fcf9c5b780e301ab8487b]: Commencement: Sch. 25 para. 19 in force at 1.9.2007 by [S.I. 2007/2532](https://www.legislation.gov.uk/uksi/2007/2532), [art. 2](https://www.legislation.gov.uk/uksi/2007/2532/article/2)
 
 [^c18890211]: Commencement: Sch. 25 para. 20(1)(6) in force at Royal Assent, see Sch. 25 para. 23
 
-[^key-9b20a8d3172da31871a1247cab33d622]: Commencement: Sch. 25 para. 20(2)-(5) in force at 1.9.2007 by [S.I. 2007/2532](https://www.legislation.gov.uk/uksi/2007/2532), [art. 2](https://www.legislation.gov.uk/uksi/2007/2532/article/2)
+[^c-9b20a8d3172da31871a1247cab33d622]: Commencement: Sch. 25 para. 20(2)-(5) in force at 1.9.2007 by [S.I. 2007/2532](https://www.legislation.gov.uk/uksi/2007/2532), [art. 2](https://www.legislation.gov.uk/uksi/2007/2532/article/2)
 
-[^key-678d0b3794ffa640b6f713fa45906e81]: Commencement: Sch. 25 para. 21 in force at 1.9.2007 by [S.I. 2007/2532](https://www.legislation.gov.uk/uksi/2007/2532), [art. 2](https://www.legislation.gov.uk/uksi/2007/2532/article/2)
+[^c-678d0b3794ffa640b6f713fa45906e81]: Commencement: Sch. 25 para. 21 in force at 1.9.2007 by [S.I. 2007/2532](https://www.legislation.gov.uk/uksi/2007/2532), [art. 2](https://www.legislation.gov.uk/uksi/2007/2532/article/2)
 
-[^key-c767458a8886b39d17f7e06328ecb111]: Commencement: Sch. 25 para. 22 in force at 1.9.2007 by [S.I. 2007/2532](https://www.legislation.gov.uk/uksi/2007/2532), [art. 2](https://www.legislation.gov.uk/uksi/2007/2532/article/2)
+[^c-c767458a8886b39d17f7e06328ecb111]: Commencement: Sch. 25 para. 22 in force at 1.9.2007 by [S.I. 2007/2532](https://www.legislation.gov.uk/uksi/2007/2532), [art. 2](https://www.legislation.gov.uk/uksi/2007/2532/article/2)

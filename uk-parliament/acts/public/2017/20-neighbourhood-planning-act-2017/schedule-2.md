@@ -24,19 +24,19 @@ Section 10
 
 *Extent: E+W*
 
-**1.**[^key-6ef91657898b433ccae73e71cf2c6d8c] The Planning and Compulsory Purchase Act 2004 is amended as follows.
+**1.**[^c-6ef91657898b433ccae73e71cf2c6d8c] The Planning and Compulsory Purchase Act 2004 is amended as follows.
 
 *Extent: E+W*
 
-**2.**[^key-dbe7401d09c9dd53d7e68acd76dd3a37] Schedule A1 (default powers exercisable by Mayor of London or combined authority) is amended in accordance with paragraphs 3 to 8.
+**2.**[^c-dbe7401d09c9dd53d7e68acd76dd3a37] Schedule A1 (default powers exercisable by Mayor of London or combined authority) is amended in accordance with paragraphs 3 to 8.
 
 *Extent: E+W*
 
-**3.**[^key-78deb9459564ddb595c184a5f73c15d9] In the heading for “or combined authority” substitute “ , combined authority or county council ”.
+**3.**[^c-78deb9459564ddb595c184a5f73c15d9] In the heading for “or combined authority” substitute “ , combined authority or county council ”.
 
 *Extent: E+W*
 
-**4.**[^key-896dc8efe455a5a9814c7ac84beb5f42] After paragraph 7 insert—
+**4.**[^c-896dc8efe455a5a9814c7ac84beb5f42] After paragraph 7 insert—
 
 > **Default powers exercisable by county council**
 >
@@ -82,7 +82,7 @@ Section 10
 
 *Extent: E+W*
 
-**5.**[^key-aeba159b16c0ccdc57eb0e0214248dc2] (1) Paragraph 8 is amended as follows.
+**5.**[^c-aeba159b16c0ccdc57eb0e0214248dc2] (1) Paragraph 8 is amended as follows.
 
 (2) In sub-paragraph (1)—
 
@@ -109,48 +109,48 @@ Section 10
 
 *Extent: E+W*
 
-**6.**[^key-6677625942a8226c4ebd4fb4de7e8d15] In paragraph 9(8) for “or the combined authority” substitute “ , the combined authority or the upper-tier county council ”.
+**6.**[^c-6677625942a8226c4ebd4fb4de7e8d15] In paragraph 9(8) for “or the combined authority” substitute “ , the combined authority or the upper-tier county council ”.
 
 *Extent: E+W*
 
-**7.**[^key-cac74ffcb8aa7df28a9b06972b2da8e6] In paragraph 12—
+**7.**[^c-cac74ffcb8aa7df28a9b06972b2da8e6] In paragraph 12—
 
 - (a) for “or the combined authority” substitute “ , the combined authority or the upper-tier county council ”, and
 - (b) for “or the authority” substitute “ , the authority or the council ”.
 
 *Extent: E+W*
 
-**8.**[^key-26901f3a291e16182cfb16145a0acc26] In paragraph 13(1)—
+**8.**[^c-26901f3a291e16182cfb16145a0acc26] In paragraph 13(1)—
 
 - (a) for “or a combined authority” substitute “ , a combined authority or an upper-tier county council ”, and
 - (b) for “or the authority” substitute “ , the authority or the council ”.
 
-**9.**[^key-4512dd8b1bd8991f6bd088b500c43e51] In section 17(8) (document a local development document only if adopted or approved) after paragraph (d) insert—
+**9.**[^c-4512dd8b1bd8991f6bd088b500c43e51] In section 17(8) (document a local development document only if adopted or approved) after paragraph (d) insert—
 
 > - (e) is approved by an upper-tier county council (as defined in that Schedule) under paragraph 7C of that Schedule.
 
 *Extent: E+W*
 
-**10.**[^key-586398c7d375a023a5fabefe7f1dfbb7] In section 27A (default powers exercisable by Mayor of London or combined authority) for “or combined authority” in both places substitute “ , combined authority or county council ”.
+**10.**[^c-586398c7d375a023a5fabefe7f1dfbb7] In section 27A (default powers exercisable by Mayor of London or combined authority) for “or combined authority” in both places substitute “ , combined authority or county council ”.
 
 ## Annotations
 
-[^key-6ef91657898b433ccae73e71cf2c6d8c]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2017/20/schedule/2/paragraph/1) in force at 16.1.2018 by [S.I. 2018/38](https://www.legislation.gov.uk/uksi/2018/38), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2018/38/regulation/2/c)
+[^c-6ef91657898b433ccae73e71cf2c6d8c]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2017/20/schedule/2/paragraph/1) in force at 16.1.2018 by [S.I. 2018/38](https://www.legislation.gov.uk/uksi/2018/38), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2018/38/regulation/2/c)
 
-[^key-dbe7401d09c9dd53d7e68acd76dd3a37]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2017/20/schedule/2/paragraph/2) in force at 16.1.2018 by [S.I. 2018/38](https://www.legislation.gov.uk/uksi/2018/38), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2018/38/regulation/2/c)
+[^c-dbe7401d09c9dd53d7e68acd76dd3a37]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2017/20/schedule/2/paragraph/2) in force at 16.1.2018 by [S.I. 2018/38](https://www.legislation.gov.uk/uksi/2018/38), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2018/38/regulation/2/c)
 
-[^key-78deb9459564ddb595c184a5f73c15d9]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2017/20/schedule/2/paragraph/3) in force at 16.1.2018 by [S.I. 2018/38](https://www.legislation.gov.uk/uksi/2018/38), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2018/38/regulation/2/c)
+[^c-78deb9459564ddb595c184a5f73c15d9]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2017/20/schedule/2/paragraph/3) in force at 16.1.2018 by [S.I. 2018/38](https://www.legislation.gov.uk/uksi/2018/38), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2018/38/regulation/2/c)
 
-[^key-896dc8efe455a5a9814c7ac84beb5f42]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2017/20/schedule/2/paragraph/4) in force at 16.1.2018 by [S.I. 2018/38](https://www.legislation.gov.uk/uksi/2018/38), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2018/38/regulation/2/c)
+[^c-896dc8efe455a5a9814c7ac84beb5f42]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2017/20/schedule/2/paragraph/4) in force at 16.1.2018 by [S.I. 2018/38](https://www.legislation.gov.uk/uksi/2018/38), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2018/38/regulation/2/c)
 
-[^key-aeba159b16c0ccdc57eb0e0214248dc2]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2017/20/schedule/2/paragraph/5) in force at 16.1.2018 by [S.I. 2018/38](https://www.legislation.gov.uk/uksi/2018/38), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2018/38/regulation/2/c)
+[^c-aeba159b16c0ccdc57eb0e0214248dc2]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2017/20/schedule/2/paragraph/5) in force at 16.1.2018 by [S.I. 2018/38](https://www.legislation.gov.uk/uksi/2018/38), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2018/38/regulation/2/c)
 
-[^key-6677625942a8226c4ebd4fb4de7e8d15]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2017/20/schedule/2/paragraph/6) in force at 16.1.2018 by [S.I. 2018/38](https://www.legislation.gov.uk/uksi/2018/38), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2018/38/regulation/2/c)
+[^c-6677625942a8226c4ebd4fb4de7e8d15]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2017/20/schedule/2/paragraph/6) in force at 16.1.2018 by [S.I. 2018/38](https://www.legislation.gov.uk/uksi/2018/38), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2018/38/regulation/2/c)
 
-[^key-cac74ffcb8aa7df28a9b06972b2da8e6]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2017/20/schedule/2/paragraph/7) in force at 16.1.2018 by [S.I. 2018/38](https://www.legislation.gov.uk/uksi/2018/38), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2018/38/regulation/2/c)
+[^c-cac74ffcb8aa7df28a9b06972b2da8e6]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2017/20/schedule/2/paragraph/7) in force at 16.1.2018 by [S.I. 2018/38](https://www.legislation.gov.uk/uksi/2018/38), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2018/38/regulation/2/c)
 
-[^key-26901f3a291e16182cfb16145a0acc26]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2017/20/schedule/2/paragraph/8) in force at 16.1.2018 by [S.I. 2018/38](https://www.legislation.gov.uk/uksi/2018/38), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2018/38/regulation/2/c)
+[^c-26901f3a291e16182cfb16145a0acc26]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2017/20/schedule/2/paragraph/8) in force at 16.1.2018 by [S.I. 2018/38](https://www.legislation.gov.uk/uksi/2018/38), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2018/38/regulation/2/c)
 
-[^key-4512dd8b1bd8991f6bd088b500c43e51]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2017/20/schedule/2/paragraph/9) in force at 16.1.2018 by [S.I. 2018/38](https://www.legislation.gov.uk/uksi/2018/38), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2018/38/regulation/2/c)
+[^c-4512dd8b1bd8991f6bd088b500c43e51]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2017/20/schedule/2/paragraph/9) in force at 16.1.2018 by [S.I. 2018/38](https://www.legislation.gov.uk/uksi/2018/38), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2018/38/regulation/2/c)
 
-[^key-586398c7d375a023a5fabefe7f1dfbb7]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2017/20/schedule/2/paragraph/10) in force at 16.1.2018 by [S.I. 2018/38](https://www.legislation.gov.uk/uksi/2018/38), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2018/38/regulation/2/c)
+[^c-586398c7d375a023a5fabefe7f1dfbb7]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2017/20/schedule/2/paragraph/10) in force at 16.1.2018 by [S.I. 2018/38](https://www.legislation.gov.uk/uksi/2018/38), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2018/38/regulation/2/c)

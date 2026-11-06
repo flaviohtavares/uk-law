@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 88.29. Order of filing and serving material and written submissions[^key-270bf180eeba0836ea41457ffcd264be]
+## 88.29. Order of filing and serving material and written submissions[^c-270bf180eeba0836ea41457ffcd264be]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ Subject to any directions given by the court, the parties must file and serve an
 
 ## Annotations
 
-[^key-270bf180eeba0836ea41457ffcd264be]: Textual amendment: [Pt. 88](https://www.legislation.gov.uk/uksi/1998/3132/part/88) inserted (27.2.2015) by [The Civil Procedure (Amendment) Rules 2015 (S.I. 2015/406)](https://www.legislation.gov.uk/uksi/2015/406), [rule 1](https://www.legislation.gov.uk/uksi/2015/406/rule/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/406/schedule)
+[^c-270bf180eeba0836ea41457ffcd264be]: Textual amendment: [Pt. 88](https://www.legislation.gov.uk/uksi/1998/3132/part/88) inserted (27.2.2015) by [The Civil Procedure (Amendment) Rules 2015 (S.I. 2015/406)](https://www.legislation.gov.uk/uksi/2015/406), [rule 1](https://www.legislation.gov.uk/uksi/2015/406/rule/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/406/schedule)

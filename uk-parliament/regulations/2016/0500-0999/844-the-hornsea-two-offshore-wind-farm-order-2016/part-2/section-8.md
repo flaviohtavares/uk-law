@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 8. Operation of generating stations[^key-c9377824c44063ff01579fbb9d511f82]
+## 8. Operation of generating stations[^c-c9377824c44063ff01579fbb9d511f82]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c9377824c44063ff01579fbb9d511f82]: Commencement: Art. 8 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
+[^c-c9377824c44063ff01579fbb9d511f82]: Commencement: Art. 8 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Power to pay compensation[^key-edf6c1b1c18143ce51bb556b577bda88][^key-6e90b4434b16f175cae945066ccc09a3]
+## 82. Power to pay compensation[^c-edf6c1b1c18143ce51bb556b577bda88][^c-6e90b4434b16f175cae945066ccc09a3]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,6 +58,6 @@ whether pursuant to an order of a court or tribunal or otherwise.
 
 ## Annotations
 
-[^key-edf6c1b1c18143ce51bb556b577bda88]: Commencement: S. 82 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
+[^c-edf6c1b1c18143ce51bb556b577bda88]: Commencement: S. 82 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
 
-[^key-6e90b4434b16f175cae945066ccc09a3]: Commencement: [S. 82](https://www.legislation.gov.uk/ukpga/2022/7/section/82) in force at 1.10.2023 in force in so far as not already in force (or on such earlier day as may be appointed), see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(2)(d)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/d)[(e)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/e)
+[^c-6e90b4434b16f175cae945066ccc09a3]: Commencement: [S. 82](https://www.legislation.gov.uk/ukpga/2022/7/section/82) in force at 1.10.2023 in force in so far as not already in force (or on such earlier day as may be appointed), see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(2)(d)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/d)[(e)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/e)

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 53. Direct payments: further provision[^key-6e8f16494ca514948517beee6c4fec97]
+## 53. Direct payments: further provision[^c-6e8f16494ca514948517beee6c4fec97]
 
 *Extent: E+W*
 
-(1) Regulations under section 49A[^key-b5e93031616cfb4b9b682e5561d314d7] may also make provision about the following matters (among other matters)—
+(1) Regulations under section 49A[^c-b5e93031616cfb4b9b682e5561d314d7] may also make provision about the following matters (among other matters)—
 
 - (a) the manner in which the amounts of the direct payments are to be determined;
 - (b) the making of direct payments as gross payments or alternatively as net payments;
@@ -34,7 +34,7 @@ summary: ''
 - (h) cases or circumstances in which a local authority may act as an agent on behalf of a person to whom direct payments are made;
 - (i) conditions subject to which, and the extent to which, a local authority's duty or power to meet a person's needs for care and support or a carer's needs for support is displaced by the making of direct payments;
 - (j) cases or circumstances in which a local authority must not, or is allowed not to, make payments to a person or in relation to a person;
-- (k) cases or circumstances in which a person who no longer lacks, or who the local authority believes no longer lacks, capacity to consent to the making of direct payments must or may nonetheless be treated for the purposes of sections 49A[^key-d8b8d2dfa06eb90c89a8647691f9949d] to 52 as lacking capacity to do so;
+- (k) cases or circumstances in which a person who no longer lacks, or who the local authority believes no longer lacks, capacity to consent to the making of direct payments must or may nonetheless be treated for the purposes of sections 49A[^c-d8b8d2dfa06eb90c89a8647691f9949d] to 52 as lacking capacity to do so;
 - (l) cases or circumstances in which a local authority making direct payments may or must review the making of those payments;
 - (m) cases or circumstances in which a local authority making direct payments may or must—
   - (i) terminate the making of those payments;
@@ -58,7 +58,7 @@ summary: ''
 
 (6) In subsection (5) “**relevant persons**” means persons whose consent must be obtained to the making of direct payments under regulations made under section 49A.
 
-(7) Regulations under section 49A(1)(b)[^key-4a737d10ff6bc878886cd3d2a6629b8e] must specify that where direct payments are made to a person who receives a benefit falling within a specified category, the payments—
+(7) Regulations under section 49A(1)(b)[^c-4a737d10ff6bc878886cd3d2a6629b8e] must specify that where direct payments are made to a person who receives a benefit falling within a specified category, the payments—
 
 - (a) must be made at a rate that the local authority estimates to be equivalent to the reasonable cost of securing the provision of the care and support in respect of which the payments are made, and
 - (b) must not be made subject to any condition that requires a person to pay any amount to the authority by way of reimbursement.
@@ -69,16 +69,16 @@ summary: ''
 
 (10) A local authority may impose a reasonable charge for the provision of care and support (or, in the case of a carer, support) to meet needs in respect of which a direct payment has been made.
 
-(11)[^key-73fd24ff6cfbc21743e9a65352447fd9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-73fd24ff6cfbc21743e9a65352447fd9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6e8f16494ca514948517beee6c4fec97]: Commencement: S. 53 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
+[^c-6e8f16494ca514948517beee6c4fec97]: Commencement: S. 53 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
 
-[^key-b5e93031616cfb4b9b682e5561d314d7]: Textual amendment: Word in [s. 53](https://www.legislation.gov.uk/anaw/2014/4/section/53) substituted (1.4.2026) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2), [Sch. 1 para. 5(3)(a)](https://www.legislation.gov.uk/asc/2025/1/schedule/1/paragraph/5/3/a); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 3(2)(f)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/2/f)
+[^c-b5e93031616cfb4b9b682e5561d314d7]: Textual amendment: Word in [s. 53](https://www.legislation.gov.uk/anaw/2014/4/section/53) substituted (1.4.2026) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2), [Sch. 1 para. 5(3)(a)](https://www.legislation.gov.uk/asc/2025/1/schedule/1/paragraph/5/3/a); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 3(2)(f)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/2/f)
 
-[^key-d8b8d2dfa06eb90c89a8647691f9949d]: Textual amendment: Word in [s. 53(1)(k)](https://www.legislation.gov.uk/anaw/2014/4/section/53/1/k) substituted (1.4.2026) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2), [Sch. 1 para. 5(3)(b)](https://www.legislation.gov.uk/asc/2025/1/schedule/1/paragraph/5/3/b); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 3(2)(f)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/2/f)
+[^c-d8b8d2dfa06eb90c89a8647691f9949d]: Textual amendment: Word in [s. 53(1)(k)](https://www.legislation.gov.uk/anaw/2014/4/section/53/1/k) substituted (1.4.2026) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2), [Sch. 1 para. 5(3)(b)](https://www.legislation.gov.uk/asc/2025/1/schedule/1/paragraph/5/3/b); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 3(2)(f)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/2/f)
 
-[^key-4a737d10ff6bc878886cd3d2a6629b8e]: Textual amendment: Word in [s. 53(7)](https://www.legislation.gov.uk/anaw/2014/4/section/53/7) substituted (1.4.2026) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2), [Sch. 1 para. 5(3)(c)](https://www.legislation.gov.uk/asc/2025/1/schedule/1/paragraph/5/3/c); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 3(2)(f)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/2/f)
+[^c-4a737d10ff6bc878886cd3d2a6629b8e]: Textual amendment: Word in [s. 53(7)](https://www.legislation.gov.uk/anaw/2014/4/section/53/7) substituted (1.4.2026) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2), [Sch. 1 para. 5(3)(c)](https://www.legislation.gov.uk/asc/2025/1/schedule/1/paragraph/5/3/c); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 3(2)(f)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/2/f)
 
-[^key-73fd24ff6cfbc21743e9a65352447fd9]: Textual amendment: [S. 53(11)](https://www.legislation.gov.uk/anaw/2014/4/section/53/11) omitted (1.1.2026) by virtue of [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2), [Sch. 1 para. 5(3)(d)](https://www.legislation.gov.uk/asc/2025/1/schedule/1/paragraph/5/3/d); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 3(1)(e)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/1/e)
+[^c-73fd24ff6cfbc21743e9a65352447fd9]: Textual amendment: [S. 53(11)](https://www.legislation.gov.uk/anaw/2014/4/section/53/11) omitted (1.1.2026) by virtue of [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2), [Sch. 1 para. 5(3)(d)](https://www.legislation.gov.uk/asc/2025/1/schedule/1/paragraph/5/3/d); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 3(1)(e)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/1/e)

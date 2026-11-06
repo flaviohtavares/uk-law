@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Children’s risk assessment duties[^key-f34a00d2c1ff1bca4bfb08072069131d][^key-0978fc41830c888bfe3bdbdcbdc9e460]
+## 11. Children’s risk assessment duties[^c-f34a00d2c1ff1bca4bfb08072069131d][^c-0978fc41830c888bfe3bdbdcbdc9e460]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,6 +60,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f34a00d2c1ff1bca4bfb08072069131d]: Commencement: S. 11 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-f34a00d2c1ff1bca4bfb08072069131d]: Commencement: S. 11 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-0978fc41830c888bfe3bdbdcbdc9e460]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2023/50/section/11) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/d)
+[^c-0978fc41830c888bfe3bdbdcbdc9e460]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2023/50/section/11) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/d)

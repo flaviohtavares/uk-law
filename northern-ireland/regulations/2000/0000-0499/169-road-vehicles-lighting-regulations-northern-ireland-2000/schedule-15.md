@@ -35,7 +35,7 @@ Regulation 21
 | *Extent: E+W+S+N.I.*<br>**10.** Electrical connections: | No individual requirement |
 | *Extent: E+W+S+N.I.*<br>**11.** Tell-tale: | No requirement |
 
-**12.**[^key-785d969bef315c9539acdc65f0882c7d] Definitions—
+**12.**[^c-785d969bef315c9539acdc65f0882c7d] Definitions—
 
 In this Schedule “approval mark” means—
 
@@ -44,10 +44,10 @@ In this Schedule “approval mark” means—
   - (i) a marking designated as an approval mark by regulation 5 of the Designation of Approval Marks Regulations and shown at item 10 of Schedule 4 to those Regulations; or
   - (ii) a marking designated as an approval mark by regulation 4 of the Designation of Approval Marks Regulations and shown at item 4 of Schedule 2 to those Regulations.
 
-**13.**[^key-d197ef06aa874fce0004c450a36f51d5] In this Schedule a reference to a rear registration plate does not include a registration plate fixed to the rear of a trailer displaying a registration mark assigned to that trailer in accordance with regulations made under section 15 of the Haulage Permits and Trailer Registration Act.
+**13.**[^c-d197ef06aa874fce0004c450a36f51d5] In this Schedule a reference to a rear registration plate does not include a registration plate fixed to the rear of a trailer displaying a registration mark assigned to that trailer in accordance with regulations made under section 15 of the Haulage Permits and Trailer Registration Act.
 
 ## Annotations
 
-[^key-785d969bef315c9539acdc65f0882c7d]: Commencement: [Sch. 15 para. 12](https://www.legislation.gov.uk/nisr/2000/169/schedule/15/paragraph/12) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
+[^c-785d969bef315c9539acdc65f0882c7d]: Commencement: [Sch. 15 para. 12](https://www.legislation.gov.uk/nisr/2000/169/schedule/15/paragraph/12) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
 
-[^key-d197ef06aa874fce0004c450a36f51d5]: Textual amendment: [Sch. 15 para. 13](https://www.legislation.gov.uk/nisr/2000/169/schedule/15/paragraph/13) added (18.3.2019) by [The Road Vehicles Lighting (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/20)](https://www.legislation.gov.uk/nisr/2019/20), [regs. 1](https://www.legislation.gov.uk/nisr/2019/20/regulation/1), [2(4)](https://www.legislation.gov.uk/nisr/2019/20/regulation/2/4)
+[^c-d197ef06aa874fce0004c450a36f51d5]: Textual amendment: [Sch. 15 para. 13](https://www.legislation.gov.uk/nisr/2000/169/schedule/15/paragraph/13) added (18.3.2019) by [The Road Vehicles Lighting (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/20)](https://www.legislation.gov.uk/nisr/2019/20), [regs. 1](https://www.legislation.gov.uk/nisr/2019/20/regulation/1), [2(4)](https://www.legislation.gov.uk/nisr/2019/20/regulation/2/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Legal assessors[^key-c20aff2971b2dc1455a8827285694c1c][^key-46374bbeb0b56269f74de237571697fc]
+## 34. Legal assessors[^c-c20aff2971b2dc1455a8827285694c1c][^c-46374bbeb0b56269f74de237571697fc]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,7 +33,7 @@ on questions of law arising in connection with any matter which any of those per
 
 (3) They may at the request of the person mentioned in paragraph (2) assist in the drafting of any decision required by this Order to be issued under any of the provisions mentioned in that paragraph.
 
-(4)[^key-a9a74d4d2ee18a2fdc4cb9839c05d653] They shall have such other functions as may be conferred on them by rules made by the Council.
+(4)[^c-a9a74d4d2ee18a2fdc4cb9839c05d653] They shall have such other functions as may be conferred on them by rules made by the Council.
 
 (5) To be qualified for appointment as a legal assessor, a person must—
 
@@ -55,8 +55,8 @@ on questions of law arising in connection with any matter which any of those per
 
 ## Annotations
 
-[^key-c20aff2971b2dc1455a8827285694c1c]: Commencement: Art. 34 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/254/article/1/2)
+[^c-c20aff2971b2dc1455a8827285694c1c]: Commencement: Art. 34 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/254/article/1/2)
 
-[^key-46374bbeb0b56269f74de237571697fc]: Commencement: [Art. 34](https://www.legislation.gov.uk/uksi/2002/254/article/34) in force at 9.7.2003 in so far as not already in force as notified in the London Gazette dated 27.6.2003, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2002/254/article/1/3) (with transitional provisions in [S.I. 2003/1700](https://www.legislation.gov.uk/uksi/2003/1700))
+[^c-46374bbeb0b56269f74de237571697fc]: Commencement: [Art. 34](https://www.legislation.gov.uk/uksi/2002/254/article/34) in force at 9.7.2003 in so far as not already in force as notified in the London Gazette dated 27.6.2003, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2002/254/article/1/3) (with transitional provisions in [S.I. 2003/1700](https://www.legislation.gov.uk/uksi/2003/1700))
 
-[^key-a9a74d4d2ee18a2fdc4cb9839c05d653]: Commencement: [Art. 34(4)](https://www.legislation.gov.uk/uksi/2002/254/article/34/4) in force at 14.3.2003 for specified purposes as notified in the London Gazette dated 7.3.2003, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2002/254/article/1/3)
+[^c-a9a74d4d2ee18a2fdc4cb9839c05d653]: Commencement: [Art. 34(4)](https://www.legislation.gov.uk/uksi/2002/254/article/34/4) in force at 14.3.2003 for specified purposes as notified in the London Gazette dated 7.3.2003, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2002/254/article/1/3)

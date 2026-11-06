@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 161. Payment of member contributions[^key-ed68869345d35dfc3f6dff82296fe682]
+## 161. Payment of member contributions[^c-ed68869345d35dfc3f6dff82296fe682]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ed68869345d35dfc3f6dff82296fe682]: Commencement: Reg. 161 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-ed68869345d35dfc3f6dff82296fe682]: Commencement: Reg. 161 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

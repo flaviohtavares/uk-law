@@ -22,15 +22,15 @@ summary: ''
 
 (1) This regulation applies for the purpose of determining the meaning of “reckonable pay” in relation to—
 
-- (a) a member whose active membership ceases, [^key-514784b686e6e8e3235c263384fb0362]...
+- (a) a member whose active membership ceases, [^c-514784b686e6e8e3235c263384fb0362]...
 - (b) a member becoming entitled to the immediate payment of a pension during the member’s active membership period—
   - (i) on the exercise of the option under regulation 2.D.5 (partial retirement: members aged at least 55), or
-  - (ii) under regulation 2.D.1(1)(b)(ii) ; or[^key-b6679e898a35070776fd42d2ff3b632f]
+  - (ii) under regulation 2.D.1(1)(b)(ii) ; or[^c-b6679e898a35070776fd42d2ff3b632f]
 - (c) a non-contributing member.
 
-(2) This regulation is subject to regulations 2.A.11 to 2.A.14 , 2.K.7 and 2.K.9 to 2.K.11[^key-4513c69d2fe9c1e0cf2617393d60c1a1].
+(2) This regulation is subject to regulations 2.A.11 to 2.A.14 , 2.K.7 and 2.K.9 to 2.K.11[^c-4513c69d2fe9c1e0cf2617393d60c1a1].
 
-(3)[^key-4522d7531a3795adf8d07f525b64f8aa] A member’s “reckonable pay” is determined by the formula—
+(3)[^c-4522d7531a3795adf8d07f525b64f8aa] A member’s “reckonable pay” is determined by the formula—
 
 [formula: see source](https://www.legislation.gov.uk/uksi/2008/653)
 
@@ -45,9 +45,9 @@ Where—
 (5) In this regulation—
 
 - (a) “the relevant day” means—
-  - (i) in a case within paragraph (1)(a), the day on which the member’s active membership ceases, [^key-2b0ea5d182ddffdb058a983cecb7b4e9]...
+  - (i) in a case within paragraph (1)(a), the day on which the member’s active membership ceases, [^c-2b0ea5d182ddffdb058a983cecb7b4e9]...
   - (ii) in a case within paragraph (1)(b), the day before that on which the member becomes entitled to the pension;
-  - (iii)[^key-29257fb243a63762230e8af9fc667021] in a case within paragraph (1)(c), the member’s last day of pensionable service.
+  - (iii)[^c-29257fb243a63762230e8af9fc667021] in a case within paragraph (1)(c), the member’s last day of pensionable service.
 - (b) “the best consecutive 1095 day period” shall be determined by comparing—
   - (i) the period of 1095 days immediately preceding the relevant day (Period 1);
   - (ii) the period of 1095 days which overlaps Period 1 by 730 days (Period 2);
@@ -91,7 +91,7 @@ are references to periods together amounting to periods of that length, disregar
 
 the member’s pensionable pay for that period in the other employment must be taken into account in that determination.
 
-(11)[^key-a57d04f30bde92882653ceccbc420c2d] For the purposes of this regulation, pensionable service does not include—
+(11)[^c-a57d04f30bde92882653ceccbc420c2d] For the purposes of this regulation, pensionable service does not include—
 
 - (a) any period of pensionable service that a member is entitled to count under Chapter 2.F unless the transfer value payment in respect of that service is accepted from a corresponding 2008 scheme;
 - (b) any period of pensionable service that a 2008 Section Optant is entitled to count under—
@@ -101,16 +101,16 @@ the member’s pensionable pay for that period in the other employment must be t
 
 ## Annotations
 
-[^key-514784b686e6e8e3235c263384fb0362]: Textual amendment: Word in [reg. 2.A.10(1)(a)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.A.10/1/a) omitted (1.4.2009) by virtue of [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2009 (S.I. 2009/381)](https://www.legislation.gov.uk/uksi/2009/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/2), [18(a)(i)](https://www.legislation.gov.uk/uksi/2009/381/regulation/18/a/i) (with [reg. 89](https://www.legislation.gov.uk/uksi/2009/381/regulation/89))
+[^c-514784b686e6e8e3235c263384fb0362]: Textual amendment: Word in [reg. 2.A.10(1)(a)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.A.10/1/a) omitted (1.4.2009) by virtue of [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2009 (S.I. 2009/381)](https://www.legislation.gov.uk/uksi/2009/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/2), [18(a)(i)](https://www.legislation.gov.uk/uksi/2009/381/regulation/18/a/i) (with [reg. 89](https://www.legislation.gov.uk/uksi/2009/381/regulation/89))
 
-[^key-b6679e898a35070776fd42d2ff3b632f]: Textual amendment: [Reg. 2.A.10(1)(c)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.A.10/1/c) and word added (1.4.2009) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2009 (S.I. 2009/381)](https://www.legislation.gov.uk/uksi/2009/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/2), [18(a)(ii)](https://www.legislation.gov.uk/uksi/2009/381/regulation/18/a/ii) (with [reg. 89](https://www.legislation.gov.uk/uksi/2009/381/regulation/89))
+[^c-b6679e898a35070776fd42d2ff3b632f]: Textual amendment: [Reg. 2.A.10(1)(c)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.A.10/1/c) and word added (1.4.2009) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2009 (S.I. 2009/381)](https://www.legislation.gov.uk/uksi/2009/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/2), [18(a)(ii)](https://www.legislation.gov.uk/uksi/2009/381/regulation/18/a/ii) (with [reg. 89](https://www.legislation.gov.uk/uksi/2009/381/regulation/89))
 
-[^key-4513c69d2fe9c1e0cf2617393d60c1a1]: Textual amendment: Words in [reg. 2.A.10(2)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.A.10/2) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [16(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/16/2)
+[^c-4513c69d2fe9c1e0cf2617393d60c1a1]: Textual amendment: Words in [reg. 2.A.10(2)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.A.10/2) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [16(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/16/2)
 
-[^key-4522d7531a3795adf8d07f525b64f8aa]: Textual amendment: [Reg. 2.A.10(3)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.A.10/3) substituted (1.4.2010) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2010 (S.I. 2010/492)](https://www.legislation.gov.uk/uksi/2010/492), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/492/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2010/492/regulation/18)
+[^c-4522d7531a3795adf8d07f525b64f8aa]: Textual amendment: [Reg. 2.A.10(3)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.A.10/3) substituted (1.4.2010) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2010 (S.I. 2010/492)](https://www.legislation.gov.uk/uksi/2010/492), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/492/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2010/492/regulation/18)
 
-[^key-2b0ea5d182ddffdb058a983cecb7b4e9]: Textual amendment: Word in [reg. 2.A.10(5)(a)(i)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.A.10/5/a/i) omitted (1.4.2009) by virtue of [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2009 (S.I. 2009/381)](https://www.legislation.gov.uk/uksi/2009/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/2), [18(b)(i)](https://www.legislation.gov.uk/uksi/2009/381/regulation/18/b/i) (with [reg. 89](https://www.legislation.gov.uk/uksi/2009/381/regulation/89))
+[^c-2b0ea5d182ddffdb058a983cecb7b4e9]: Textual amendment: Word in [reg. 2.A.10(5)(a)(i)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.A.10/5/a/i) omitted (1.4.2009) by virtue of [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2009 (S.I. 2009/381)](https://www.legislation.gov.uk/uksi/2009/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/2), [18(b)(i)](https://www.legislation.gov.uk/uksi/2009/381/regulation/18/b/i) (with [reg. 89](https://www.legislation.gov.uk/uksi/2009/381/regulation/89))
 
-[^key-29257fb243a63762230e8af9fc667021]: Textual amendment: [Reg. 2.A.10(5)(a)(iii)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.A.10/5/a/iii) added (1.4.2009) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2009 (S.I. 2009/381)](https://www.legislation.gov.uk/uksi/2009/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/2), [18(b)(ii)](https://www.legislation.gov.uk/uksi/2009/381/regulation/18/b/ii) (with [reg. 89](https://www.legislation.gov.uk/uksi/2009/381/regulation/89))
+[^c-29257fb243a63762230e8af9fc667021]: Textual amendment: [Reg. 2.A.10(5)(a)(iii)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.A.10/5/a/iii) added (1.4.2009) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2009 (S.I. 2009/381)](https://www.legislation.gov.uk/uksi/2009/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/2), [18(b)(ii)](https://www.legislation.gov.uk/uksi/2009/381/regulation/18/b/ii) (with [reg. 89](https://www.legislation.gov.uk/uksi/2009/381/regulation/89))
 
-[^key-a57d04f30bde92882653ceccbc420c2d]: Textual amendment: [Reg. 2.A.10(11)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.A.10/11) inserted (with effect from 1.4.2008) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/3), [16(4)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/16/4)
+[^c-a57d04f30bde92882653ceccbc420c2d]: Textual amendment: [Reg. 2.A.10(11)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.A.10/11) inserted (with effect from 1.4.2008) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/3), [16(4)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/16/4)

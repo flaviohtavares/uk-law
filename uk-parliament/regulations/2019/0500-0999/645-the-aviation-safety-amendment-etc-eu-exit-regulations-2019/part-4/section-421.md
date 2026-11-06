@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 421. Amendment of Annex 3 to [Commission Regulation (EU) No 139/2014](https://www.legislation.gov.uk/eur/2014/0139)[^key-38a9e74a82f5f1ed38773d6352deaa3a]
+## 421. Amendment of Annex 3 to [Commission Regulation (EU) No 139/2014](https://www.legislation.gov.uk/eur/2014/0139)[^c-38a9e74a82f5f1ed38773d6352deaa3a]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-38a9e74a82f5f1ed38773d6352deaa3a]: Commencement: Reg. 421 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-38a9e74a82f5f1ed38773d6352deaa3a]: Commencement: Reg. 421 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

@@ -55,13 +55,13 @@ As required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislatio
 
 ## PART 1 — General
 
-### 1. Title, application and commencement[^key-e6d4641919d4c76733376ebfaba789db]
+### 1. Title, application and commencement[^c-e6d4641919d4c76733376ebfaba789db]
 
 (1) The title of these Regulations is the Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020.
 
 (2) These Regulations apply in relation to Wales and come into force on 31 January 2020.
 
-### 2. Interpretation[^key-663f250c4329fb9b350bbcf7f0a3e9ce]
+### 2. Interpretation[^c-663f250c4329fb9b350bbcf7f0a3e9ce]
 
 (1) In these Regulations—
 
@@ -69,9 +69,9 @@ As required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislatio
 - “**audit**” (“***archwiliad***”) means an audit of a competent authority carried out for the purposes of Article 6 in relation to relevant legislation;
 - “**auditor**” (“***archwilydd***”) means a person carrying out an audit on behalf of a competent authority;
 - “**designated authority**” (“***awdurdod dynodedig***”) means an authority designated by the Welsh Ministers under regulation 3;
-- “the Official Controls Regulations” (“[^key-6b567bd97f923862f951c007d7e26062]*y Rheoliadau Rheolaethau Swyddogol* ”) means the EU Regulation and the Implementing Regulations, Delegated Regulations and statutory instruments made under it;
+- “the Official Controls Regulations” (“[^c-6b567bd97f923862f951c007d7e26062]*y Rheoliadau Rheolaethau Swyddogol* ”) means the EU Regulation and the Implementing Regulations, Delegated Regulations and statutory instruments made under it;
 - “**the EU Regulation**” (“***Rheoliad yr UE***”) means Regulation (EU) 2017/625 of the European Parliament and of the Council of 15th March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products [^c23965301];
-- “**enforcement officer**” (“***swyddog gorfodi***”) means an officer authorised by the Welsh Ministers or a designated authority to enforce the [^key-e6dce2afd00d65aa95e2fb0257310490]... Official Controls Regulations and these Regulations;
+- “**enforcement officer**” (“***swyddog gorfodi***”) means an officer authorised by the Welsh Ministers or a designated authority to enforce the [^c-e6dce2afd00d65aa95e2fb0257310490]... Official Controls Regulations and these Regulations;
 - “**the Feed and Food Regulations**” (“***y Rheoliadau Bwyd Anifeiliaid a Bwyd***”) means the Official Feed and Food Controls (Wales) Regulations 2009 [^c23965311];
 - “**food authority**” (“***awdurdod bwyd***”) in relation to any relevant legislation has the same meaning as it has in that relevant legislation;
 - “**inspector**” (“***arolygydd***”), in relation to any relevant legislation, means an inspector, veterinary inspector, or other officer authorised by the Welsh Ministers or other designated authority to act under that relevant legislation;
@@ -81,7 +81,7 @@ As required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislatio
 - “**official veterinarian**” (“***milfeddyg swyddogol***”) means a veterinarian appointed by the Welsh Ministers and appropriately qualified to carry out official controls and other official activities for verification of compliance with the rules referred to in Article 1(2);
 - “**other official activities**” (“***gweithgareddau swyddogol eraill***”) has the meaning given by Article 2(2);
 - “**premises**” (“***mangre***”) includes any means of transport;
-- “**relevant legislation**” (“***deddfwriaeth berthnasol***”) means assimilated direct[^key-8fdb87e7e8bc46c2df7090a96672cfd0] and domestic legislation governing the areas listed in sub-paragraphs (a) to (f)[^key-b1be095d6392f83e86493074c8318ff8] of Article 1(2), with the exception of food and food safety, feed and feed safety legislation in so far as—
+- “**relevant legislation**” (“***deddfwriaeth berthnasol***”) means assimilated direct[^c-8fdb87e7e8bc46c2df7090a96672cfd0] and domestic legislation governing the areas listed in sub-paragraphs (a) to (f)[^c-b1be095d6392f83e86493074c8318ff8] of Article 1(2), with the exception of food and food safety, feed and feed safety legislation in so far as—
   - (a) such legislation is defined as “relevant feed law” or “relevant food law” in the Feed and Food Regulations,
   - (b) such legislation involves substances the use or presence of which on crops to produce or process food or feed may result in residues of those substances in food or feed, or
   - (c) it relates to feed additives or medicated feedingstuffs.
@@ -95,7 +95,7 @@ As required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislatio
 
 (4) Unless the context otherwise requires, any reference in these Regulations to an “Article” or “Title” is to an Article or Title of the EU Regulation.
 
-### 3. Designations for the purposes of Article 4[^key-357f4902e12837f050a511ed982f2384]
+### 3. Designations for the purposes of Article 4[^c-357f4902e12837f050a511ed982f2384]
 
 (1) The Agency is designated as the competent authority for the purposes of Article 4 in relation to welfare requirements of animals, to the extent that it is designated as the competent authority mentioned in regulation 4(1) of the Welfare of Animals at the Time of Killing (Wales) Regulations 2014 [^c23965331].
 
@@ -112,15 +112,15 @@ As required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislatio
 
 (5) Where non-compliance has been identified by any designated authority through the application of official controls, it must promptly inform the business operator of the non-compliance.
 
-### 4. Exchange of information[^key-134ce3f1108308e7c772d8cdeeb9f2ed]
+### 4. Exchange of information[^c-134ce3f1108308e7c772d8cdeeb9f2ed]
 
-The Welsh Ministers and any other designated authorities may disclose information to each other and to other competent authorities [^key-5d74af0f44244b9f404b16560490c7e0]... for the purposes of applying these Regulations and the Official Controls Regulations[^key-4112a956ee3a3779cadf500222a9eb3f].
+The Welsh Ministers and any other designated authorities may disclose information to each other and to other competent authorities [^c-5d74af0f44244b9f404b16560490c7e0]... for the purposes of applying these Regulations and the Official Controls Regulations[^c-4112a956ee3a3779cadf500222a9eb3f].
 
 ## PART 2 — Audits and official controls
 
-### 5. Powers of auditors[^key-dbd71ae10242ba3817674d6b7d87b163]
+### 5. Powers of auditors[^c-dbd71ae10242ba3817674d6b7d87b163]
 
-(1) An auditor may exercise the powers in this regulation and carry out an audit in accordance with the Official Controls Regulations[^key-0ae021be72386cdc7072c8c78aed2f83] if so authorised—
+(1) An auditor may exercise the powers in this regulation and carry out an audit in accordance with the Official Controls Regulations[^c-0ae021be72386cdc7072c8c78aed2f83] if so authorised—
 
 - (a) in relation to carrying out an audit of the activities of a designated authority, by the designated authority, or
 - (b) in relation to carrying out an audit pursuant to regulation 6(2), by the Welsh Ministers.
@@ -137,7 +137,7 @@ The Welsh Ministers and any other designated authorities may disclose informatio
 
 (7) This regulation does not apply where an auditor undertakes an audit in accordance with regulation 7 on behalf of the Agency.
 
-### 6. Powers of the Welsh Ministers in relation to audits of designated authorities[^key-86c2c3a8dc5cc5061f19067eb6c9bca8]
+### 6. Powers of the Welsh Ministers in relation to audits of designated authorities[^c-86c2c3a8dc5cc5061f19067eb6c9bca8]
 
 (1) The Welsh Ministers may make a written request to a designated authority to provide information by a specified date about any audits it has carried out or undergone or which it plans to carry out or undergo.
 
@@ -145,7 +145,7 @@ The Welsh Ministers and any other designated authorities may disclose informatio
 
 (3) The designated authority must provide such assistance to that auditor as may reasonably be required in order for the auditor to carry out the audit effectively.
 
-### 7. Powers of the Agency undertaking audits on behalf of the Welsh Ministers[^key-e3cba48b6d6c3422f860cfd028c0f8ad]
+### 7. Powers of the Agency undertaking audits on behalf of the Welsh Ministers[^c-e3cba48b6d6c3422f860cfd028c0f8ad]
 
 (1) Where the Welsh Ministers arranges for the Agency to undertake an audit, the audit provisions of the Feed and Food Regulations apply as if—
 
@@ -161,23 +161,23 @@ The Welsh Ministers and any other designated authorities may disclose informatio
 
 ## PART 3 — Assistance and co-operation under Title IV and recovery of expenses
 
-### 8. Duties of designated authorities[^key-b51070ac6fd2bd26946be432bfedca88]
+### 8. Duties of designated authorities[^c-b51070ac6fd2bd26946be432bfedca88]
 
 A designated authority must notify the Welsh Ministers if it considers that it is unable to undertake action required in any individual case under Title IV (administrative assistance and cooperation) and must provide such information to the Welsh Ministers as may reasonably be requested.
 
-### 9. Facilitating assistance and co-operation[^key-d2cea9adc9a0b4c26f2d147f8341e421]
+### 9. Facilitating assistance and co-operation[^c-d2cea9adc9a0b4c26f2d147f8341e421]
 
-(1) For the purposes of assisting a competent authority [^key-fd2bfe74f51859923e1f9b73330dc651]... as provided for in Article 104, or enabling the Welsh Ministers or a designated authority to do so, an inspector exercising powers under relevant legislation to enter premises or to inspect records may—
+(1) For the purposes of assisting a competent authority [^c-fd2bfe74f51859923e1f9b73330dc651]... as provided for in Article 104, or enabling the Welsh Ministers or a designated authority to do so, an inspector exercising powers under relevant legislation to enter premises or to inspect records may—
 
-- (a) be accompanied by authorised officers of another competent authority[^key-10e43ee4aaf8dd08085e77580a172a44],
+- (a) be accompanied by authorised officers of another competent authority[^c-10e43ee4aaf8dd08085e77580a172a44],
 - (b) show records to such accompanying authorised officers, and
 - (c) make copies for them, or require copies to be made for them, of the records.
 
-(2)[^key-b59c5f51efbad5af9ac09d94cce0abe5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-b59c5f51efbad5af9ac09d94cce0abe5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) Any person may be required to provide an enforcement officer with such assistance, information or facilities as the officer may reasonably require for the purpose of the execution or enforcement of these Regulations or the Official Controls Regulations[^key-71505cd414e6f595801eb5cdb7cfc5a0].
+(3) Any person may be required to provide an enforcement officer with such assistance, information or facilities as the officer may reasonably require for the purpose of the execution or enforcement of these Regulations or the Official Controls Regulations[^c-71505cd414e6f595801eb5cdb7cfc5a0].
 
-### 10. Recovery of expenses[^key-a89067e76d3df430b8869c3ca0298696]
+### 10. Recovery of expenses[^c-a89067e76d3df430b8869c3ca0298696]
 
 (1) Any expenses incurred by the Welsh Ministers or a designated authority in carrying out enforcement activities under these Regulations, or measures under Article 66, 67, 69 or 138 may be charged to the relevant business operator and such expenses must be paid on written demand.
 
@@ -188,13 +188,13 @@ A designated authority must notify the Welsh Ministers if it considers that it i
 
 ## PART 4 — Enforcement and penalties
 
-### 11. Enforcement and prosecution[^key-6e065a579060f4d3c508eb34a1fb967b]
+### 11. Enforcement and prosecution[^c-6e065a579060f4d3c508eb34a1fb967b]
 
-(1) Enforcement of these Regulations and the Official Controls Regulations[^key-1f5feeed00656a4edd2e0b672ab2fb2e] is the responsibility of the competent authority or a designated authority.
+(1) Enforcement of these Regulations and the Official Controls Regulations[^c-1f5feeed00656a4edd2e0b672ab2fb2e] is the responsibility of the competent authority or a designated authority.
 
 (2) The Welsh Ministers may direct, in relation to cases of a particular description or to a particular case that these Regulations are to be enforced by the Welsh Ministers instead of a local authority.
 
-### 12. Powers of enforcement officers[^key-2ecc6c0028301e6dad88093cbbba05c3]
+### 12. Powers of enforcement officers[^c-2ecc6c0028301e6dad88093cbbba05c3]
 
 (1) An enforcement officer may—
 
@@ -204,7 +204,7 @@ A designated authority must notify the Welsh Ministers if it considers that it i
 - (d) require the production of any label, document or record (in whatever form it is held);
 - (e) inspect and take a copy of, or take a copy of an extract from, any label, document or record;
 - (f) have access to, and inspect and check the data on, and operation of, any computer;
-- (g) if the enforcement officer has reason to believe that a person is in contravention of these Regulations or the Official Controls Regulations[^key-3055f7531a617c04796114dc25709c37], and that the data may be relevant to the contravention, seize and detain any computer equipment for the purpose of copying the data or, if it has not been possible carry out adequate inspection on the premises, of further inspection;
+- (g) if the enforcement officer has reason to believe that a person is in contravention of these Regulations or the Official Controls Regulations[^c-3055f7531a617c04796114dc25709c37], and that the data may be relevant to the contravention, seize and detain any computer equipment for the purpose of copying the data or, if it has not been possible carry out adequate inspection on the premises, of further inspection;
 - (h) if the enforcement officer has reason to believe that a person is in contravention of these Regulations or the Official Controls Regulations, and that certain records may be relevant to the contravention, seize and detain the records.
 
 (2) An enforcement officer must—
@@ -214,9 +214,9 @@ A designated authority must notify the Welsh Ministers if it considers that it i
   - (i) provide to the person appearing to be responsible for any records removed from any premises a written receipt identifying those records, and
   - (ii) after deciding that they are no longer required, return anything removed, apart from records or other things to be used as evidence in court proceedings.
 
-### 13. Powers of entry[^key-6473a78583f8b16fedf0755cd0a35969]
+### 13. Powers of entry[^c-6473a78583f8b16fedf0755cd0a35969]
 
-(1) An enforcement officer may enter any premises (except any premises used wholly or mainly as a private dwelling) during normal working hours without prior notice, if the officer believes that it is necessary for the purpose of official controls or other official activities under these Regulations or the Official Controls Regulations[^key-41c23f9503cf327d7e16455d2bdb00e3].
+(1) An enforcement officer may enter any premises (except any premises used wholly or mainly as a private dwelling) during normal working hours without prior notice, if the officer believes that it is necessary for the purpose of official controls or other official activities under these Regulations or the Official Controls Regulations[^c-41c23f9503cf327d7e16455d2bdb00e3].
 
 (2) In circumstances where an enforcement officer is carrying out routine verification checks, notice must be provided before exercising a power of entry to premises during normal working hours.
 
@@ -249,7 +249,7 @@ A designated authority must notify the Welsh Ministers if it considers that it i
 - (a) be accompanied by such other persons, up to a maximum of three, as the enforcement officer considers necessary;
 - (b) bring onto the premises such equipment as the enforcement officer considers necessary.
 
-### 14. Offences and penalties[^key-331af7c10f670b36024c7796d2a1b805]
+### 14. Offences and penalties[^c-331af7c10f670b36024c7796d2a1b805]
 
 (1) A person is guilty of an offence if without reasonable excuse that person obstructs or causes or permits to be obstructed—
 
@@ -267,7 +267,7 @@ A designated authority must notify the Welsh Ministers if it considers that it i
 
 (4) A person guilty of an offence under this regulation is liable on summary conviction to a fine of any amount.
 
-### 15. Offences by bodies corporate[^key-24f7bac502d7837f53d15d128bde7d24]
+### 15. Offences by bodies corporate[^c-24f7bac502d7837f53d15d128bde7d24]
 
 (1) If an offence under regulation 14 is committed by a body corporate, and is shown to have been committed with the consent or connivance of an officer, or to be attributable to the neglect of such officer, that officer as well as the body corporate is guilty of the offence and liable to be proceeded against and punished accordingly.
 
@@ -275,7 +275,7 @@ A designated authority must notify the Welsh Ministers if it considers that it i
 
 (3) “**Officer**”, in relation to a body corporate, means a director, member of the committee of management, chief executive, manager, secretary or other similar officer of the body, or a person purporting to act in any such capacity.
 
-### 16. Time limits for prosecution[^key-343eac41a4bcfcf1f5eedf0e2ffcadde]
+### 16. Time limits for prosecution[^c-343eac41a4bcfcf1f5eedf0e2ffcadde]
 
 A prosecution for an offence under this Part may begin no later than the earlier of the expiry of—
 
@@ -284,11 +284,11 @@ A prosecution for an offence under this Part may begin no later than the earlier
 
 ## PART 5 — Consequential amendments to secondary legislation relating to animals, food and trade
 
-### 17. Amendment to the Foot-and-Mouth Disease (Wales) Order 2006[^key-1f1c582aa7ed30f5441ca91414004fc7]
+### 17. Amendment to the Foot-and-Mouth Disease (Wales) Order 2006[^c-1f1c582aa7ed30f5441ca91414004fc7]
 
 In article 3(1) of the Foot-and-Mouth Disease (Wales) Order 2006 [^c23965341], in the definition of “health marked”, for the words “required by” to the end, substitute “ as defined in Article 3(51) of Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products [^c23965351] ”.
 
-### 18. Amendment to the Foot-and-Mouth Disease (Control of Vaccination) (Wales) Regulations 2006[^key-5aff5f3c977dfedd11de65835b3c5190]
+### 18. Amendment to the Foot-and-Mouth Disease (Control of Vaccination) (Wales) Regulations 2006[^c-5aff5f3c977dfedd11de65835b3c5190]
 
 In regulation 2(1) of the Foot-and-Mouth Disease (Control of Vaccination) (Wales) Regulations 2006 [^c23965361], for the definition of “health marked” substitute—
 
@@ -296,19 +296,19 @@ In regulation 2(1) of the Foot-and-Mouth Disease (Control of Vaccination) (Wales
 
 .
 
-### 19. Amendment to the Avian Influenza (H5N1 in Poultry) (Wales) Order 2006[^key-0a06da5767ff5cce7ecfb12bb9105a8b]
+### 19. Amendment to the Avian Influenza (H5N1 in Poultry) (Wales) Order 2006[^c-0a06da5767ff5cce7ecfb12bb9105a8b]
 
 In article 11(2)(b)(ii) of the Avian Influenza (H5N1 in Poultry) (Wales) Order 2006 [^c23965381], for the words “Chapter VIII” to the end, substitute “ Article 18 of Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of feed and food law, rules on animal health and welfare, plant health and plant protection products [^c23965391] ”.
 
-### 20. Amendment to the Avian Influenza (H5N1 in Wild Birds) (Wales) Order 2006[^key-361035d4b1c85bdf6e66fb29c66cf5de]
+### 20. Amendment to the Avian Influenza (H5N1 in Wild Birds) (Wales) Order 2006[^c-361035d4b1c85bdf6e66fb29c66cf5de]
 
 In Schedule 1 to the Avian Influenza (H5N1 in Wild Birds) (Wales) Order 2006 [^c23965401], in Part 3, in paragraph 9(2)(a), for the words “Sections I, II and III, and Chapters V” to the end, substitute “ Article 18 of Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products [^c23965411] ”.
 
-### 21. Amendment to the Welfare of Animals (Transport) (Wales) Order 2007[^key-53f051e9ceab7d86dee2f67f69112164]
+### 21. Amendment to the Welfare of Animals (Transport) (Wales) Order 2007[^c-53f051e9ceab7d86dee2f67f69112164]
 
 In article 20(2) of the Welfare of Animals (Transport) (Wales) Order 2007 [^c23965421], omit sub-paragraph (j).
 
-### 22. Amendment to the Welfare of Farmed Animals (Wales) Regulations 2007[^key-9db3cc3641b97818bd7e4d1eb3c4df2e]
+### 22. Amendment to the Welfare of Farmed Animals (Wales) Regulations 2007[^c-9db3cc3641b97818bd7e4d1eb3c4df2e]
 
 (1) The Welfare of Farmed Animals (Wales) Regulations 2007 [^c23965431] are amended as follows.
 
@@ -324,7 +324,7 @@ In article 20(2) of the Welfare of Animals (Transport) (Wales) Order 2007 [^c239
     ;
 - (b) in paragraph 15(1), for “Regulation 854/2004” substitute “ Regulation (EU) 2017/625 ”.
 
-### 23. Amendment to the Trade in Animals and Related Products (Wales) Regulations 2011[^key-fa895b45c66de3dfc6107e214cf75246]
+### 23. Amendment to the Trade in Animals and Related Products (Wales) Regulations 2011[^c-fa895b45c66de3dfc6107e214cf75246]
 
 (1) The Trade in Animals and Related Products (Wales) Regulations 2011 [^c23965451] are amended as follows.
 
@@ -862,7 +862,7 @@ In article 20(2) of the Welfare of Animals (Transport) (Wales) Order 2007 [^c239
   >
   > (2) Sub-paragraph (1) does not apply to honey bees (Apis mellifera), bumble bees (Bombus spp), molluscs belonging to the phylum Mollusca or crustaceans belonging to the subphylum Crustacea.
 
-### 24. Amendment to the Veterinary Medicines Regulations 2013[^key-ca5a23a0e4aeec56d266bff99c9c690a]
+### 24. Amendment to the Veterinary Medicines Regulations 2013[^c-ca5a23a0e4aeec56d266bff99c9c690a]
 
 (1) The Veterinary Medicines Regulations 2013 [^c23965611] are amended as follows—
 
@@ -883,19 +883,19 @@ In article 20(2) of the Welfare of Animals (Transport) (Wales) Order 2007 [^c239
   - (i) in the Contents, in item 4, for “Regulation [(EC) No 882/2004](https://www.legislation.gov.uk/european/regulation/2004/0882)” substitute “ Regulation (EU) 2017/625 ”, and
   - (ii) in paragraph 4 and the heading to that paragraph, for “Regulation [(EC) No 882/2004](https://www.legislation.gov.uk/european/regulation/2004/0882)” substitute “ Regulation (EU) 2017/625 ”.
 
-### 25. Amendment to the Welfare of Animals at the Time of Killing (Wales) Regulations 2014[^key-b3b783b513eee39c7b5aad4ef1ae45e1]
+### 25. Amendment to the Welfare of Animals at the Time of Killing (Wales) Regulations 2014[^c-b3b783b513eee39c7b5aad4ef1ae45e1]
 
 In regulation 4(1)(c)(iii) of the Welfare of Animals at the Time of Killing (Wales) Regulations 2014 [^c23965631], for “Article 22(1)” substitute “ Article 138 (actions in the event of established non-compliance) of Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products [^c23965641] ”.
 
-### 26. Amendment to the Carcase Classification and Price Reporting (Wales) Regulations 2018[^key-cfdec34c7eb6b4b64515826ddfde6cee]
+### 26. Amendment to the Carcase Classification and Price Reporting (Wales) Regulations 2018[^c-cfdec34c7eb6b4b64515826ddfde6cee]
 
 In regulation 2(1) of the Carcase Classification and Price Reporting (Wales) Regulations 2018 [^c23965651], in the definition of “bovine carcase”, for the words “provided for in Article 5(2)” to the end substitute “ as defined in Article 3(51) of Regulation EU 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products [^c23965661] ”.
 
-### 27. Amendment to the Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018[^key-62e11ffa82dedda407c0ef1c4937d72f]
+### 27. Amendment to the Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018[^c-62e11ffa82dedda407c0ef1c4937d72f]
 
 In the Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 [^c23965671], omit regulation 11.
 
-### 28. Amendment to the Transmissible Spongiform Encephalopathies (Wales) Regulations 2018[^key-1d4df861537f5356d187cdfd5e37427a]
+### 28. Amendment to the Transmissible Spongiform Encephalopathies (Wales) Regulations 2018[^c-1d4df861537f5356d187cdfd5e37427a]
 
 (1) The Transmissible Spongiform Encephalopathies (Wales) Regulations 2018 [^c23965681] are amended as follows.
 
@@ -910,17 +910,17 @@ In the Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulati
 
   .
 
-### 29. Amendment to the Trade in Animals and Related Products (Amendment) (Wales) (EU Exit) Regulations 2019[^key-3339e23b763cfd9cf7a01b47845915a4]
+### 29. Amendment to the Trade in Animals and Related Products (Amendment) (Wales) (EU Exit) Regulations 2019[^c-3339e23b763cfd9cf7a01b47845915a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 30. Amendment to the Food and Feed Hygiene and Safety (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019[^key-da495224993e825b81a61384b31b56c6]
+### 30. Amendment to the Food and Feed Hygiene and Safety (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019[^c-da495224993e825b81a61384b31b56c6]
 
 In the Food and Feed Hygiene and Safety (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 [^c23965711], omit regulation 3.
 
 ## PART 6 — Amendments to secondary legislation relating to plant health fees
 
-### 31. The Plant Health (Export Certification) (Forestry) (Great Britain) Order 2004[^key-a6c440a756446dc012a8c55dd3d419a1]
+### 31. The Plant Health (Export Certification) (Forestry) (Great Britain) Order 2004[^c-a6c440a756446dc012a8c55dd3d419a1]
 
 In the Plant Health (Export Certification) (Forestry) (Great Britain) Order 2004 [^c23965721]—
 
@@ -928,7 +928,7 @@ In the Plant Health (Export Certification) (Forestry) (Great Britain) Order 2004
 - (b) omit article 4;
 - (c) omit Schedule 3.
 
-### 32. The Plant Health (Export Certification) (Wales) Order 2006[^key-511ff1d31321b04dbcfc1a195fdaa1e9]
+### 32. The Plant Health (Export Certification) (Wales) Order 2006[^c-511ff1d31321b04dbcfc1a195fdaa1e9]
 
 In the Plant Health (Export Certification) (Wales) Order 2006 [^c23965731]—
 
@@ -936,14 +936,14 @@ In the Plant Health (Export Certification) (Wales) Order 2006 [^c23965731]—
 - (b) omit article 5;
 - (c) omit Schedule 3.
 
-### 33. The Plant Health (Wood Packaging Material Marking) (Forestry) (Order) 2006[^key-381539db77f04fbf3e311425dd75077e]
+### 33. The Plant Health (Wood Packaging Material Marking) (Forestry) (Order) 2006[^c-381539db77f04fbf3e311425dd75077e]
 
 In the Plant Health (Wood Packaging Material Marking) (Forestry) Order 2006 [^c23965741]—
 
 - (a) omit article 7;
 - (b) omit Schedule 1.
 
-### 34. The Plant Health etc. (Fees) (Wales) Regulations 2018[^key-b21d2beb2fc7c2020cfa769dca3dd10b]
+### 34. The Plant Health etc. (Fees) (Wales) Regulations 2018[^c-b21d2beb2fc7c2020cfa769dca3dd10b]
 
 (1) The Plant Health etc. (Fees) (Wales) Regulations 2018 [^c23965751] are amended as follows.
 
@@ -1039,7 +1039,7 @@ In the Plant Health (Wood Packaging Material Marking) (Forestry) Order 2006 [^c2
 > | Issue of certificate | 12.76 per certificate | 25.52 per certificate |
 > | Amendment of a certificate at the request of the exporter | 7.88 per certificate | 15.76 per certificate |
 
-### 35. The Plant Health (Fees) (Forestry) (Wales) Regulations 2019[^key-37b1a206d8cae2750fbc30c930d77e4a]
+### 35. The Plant Health (Fees) (Forestry) (Wales) Regulations 2019[^c-37b1a206d8cae2750fbc30c930d77e4a]
 
 (1) The Plant Health (Fees) (Forestry) (Wales) Regulations 2019 [^c23965801] are amended as follows.
 
@@ -1098,7 +1098,7 @@ In the Plant Health (Wood Packaging Material Marking) (Forestry) Order 2006 [^c2
 
 ## PART 7 — Revocation
 
-### 36.[^key-dae3005267d41c4dbee12738fcc9f55f]
+### 36.[^c-dae3005267d41c4dbee12738fcc9f55f]
 
 The Official Controls (Animals, Feed and Food) (Wales) Regulations 2007 [^c23965851] are revoked.
 
@@ -1142,109 +1142,109 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c23965291]: Marginal citation: OJ No. L 31, 1.2.2002, p. 1, as last amended by Regulation (EU) 2019/1243 of the European Parliament and of the Council (OJ No. L 198, 25.7.2019, p. 241).
 
-[^key-e6d4641919d4c76733376ebfaba789db]: Commencement: Reg. 1 in force at 31.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2)
+[^c-e6d4641919d4c76733376ebfaba789db]: Commencement: Reg. 1 in force at 31.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2)
 
-[^key-663f250c4329fb9b350bbcf7f0a3e9ce]: Commencement: Reg. 2 in force at 31.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2)
+[^c-663f250c4329fb9b350bbcf7f0a3e9ce]: Commencement: Reg. 2 in force at 31.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2)
 
-[^key-6b567bd97f923862f951c007d7e26062]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2020/44/regulation/2/1) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1639)](https://www.legislation.gov.uk/wsi/2020/1639), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1639/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/wsi/2020/1639/regulation/3/2/a)
+[^c-6b567bd97f923862f951c007d7e26062]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2020/44/regulation/2/1) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1639)](https://www.legislation.gov.uk/wsi/2020/1639), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1639/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/wsi/2020/1639/regulation/3/2/a)
 
 [^c23965301]: Marginal citation: OJ No. L 95, 7.4.2017, p. 1, as amended by Commission Delegated Regulation (EU) 2019/478 (OJ No. L 82, 25.3.2019, p. 4).
 
-[^key-e6dce2afd00d65aa95e2fb0257310490]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2020/44/regulation/2/1) omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1639)](https://www.legislation.gov.uk/wsi/2020/1639), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1639/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/wsi/2020/1639/regulation/3/2/b)
+[^c-e6dce2afd00d65aa95e2fb0257310490]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2020/44/regulation/2/1) omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1639)](https://www.legislation.gov.uk/wsi/2020/1639), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1639/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/wsi/2020/1639/regulation/3/2/b)
 
 [^c23965311]: Marginal citation: [S.I. 2009/3376](https://www.legislation.gov.uk/uksi/2009/3376) (W. 298), amended by [S.I. 2011/626](https://www.legislation.gov.uk/uksi/2011/626) (W. 90), [S.I. 2013/479](https://www.legislation.gov.uk/uksi/2013/479) (W. 55), [S.I. 2013/2007](https://www.legislation.gov.uk/uksi/2013/2007) (W. 298), [S.I. 2014/2714](https://www.legislation.gov.uk/uksi/2014/2714) (W. 271) and prospectively amended by [S.I. 2019/434](https://www.legislation.gov.uk/uksi/2019/434) (W. 102) and XXXX (W. XX).
 
-[^key-8fdb87e7e8bc46c2df7090a96672cfd0]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2020/44/regulation/2/1) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [22](https://www.legislation.gov.uk/wsi/2023/1332/regulation/22)
+[^c-8fdb87e7e8bc46c2df7090a96672cfd0]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2020/44/regulation/2/1) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [22](https://www.legislation.gov.uk/wsi/2023/1332/regulation/22)
 
-[^key-b1be095d6392f83e86493074c8318ff8]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2020/44/regulation/2/1) substituted (27.3.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) Regulations 2020 (S.I. 2020/206)](https://www.legislation.gov.uk/wsi/2020/206), [regs. 1](https://www.legislation.gov.uk/wsi/2020/206/regulation/1), [55(2)](https://www.legislation.gov.uk/wsi/2020/206/regulation/55/2)
+[^c-b1be095d6392f83e86493074c8318ff8]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2020/44/regulation/2/1) substituted (27.3.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) Regulations 2020 (S.I. 2020/206)](https://www.legislation.gov.uk/wsi/2020/206), [regs. 1](https://www.legislation.gov.uk/wsi/2020/206/regulation/1), [55(2)](https://www.legislation.gov.uk/wsi/2020/206/regulation/55/2)
 
 [^c23965321]: Marginal citation: OJ No. L 268, 18.10.2003, p. 29 as last amended by OJ No. L 156, 13.6.2019, p. 1.
 
-[^key-357f4902e12837f050a511ed982f2384]: Commencement: Reg. 3 in force at 31.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2)
+[^c-357f4902e12837f050a511ed982f2384]: Commencement: Reg. 3 in force at 31.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2)
 
 [^c23965331]: Marginal citation: [S.I. 2014/951](https://www.legislation.gov.uk/uksi/2014/951) (W. 92), to which there are amendments not relevant to these Regulations.
 
-[^key-134ce3f1108308e7c772d8cdeeb9f2ed]: Commencement: Reg. 4 in force at 31.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2)
+[^c-134ce3f1108308e7c772d8cdeeb9f2ed]: Commencement: Reg. 4 in force at 31.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2)
 
-[^key-5d74af0f44244b9f404b16560490c7e0]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/wsi/2020/44/regulation/4) omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1639)](https://www.legislation.gov.uk/wsi/2020/1639), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1639/regulation/1/2), [3(3)](https://www.legislation.gov.uk/wsi/2020/1639/regulation/3/3)
+[^c-5d74af0f44244b9f404b16560490c7e0]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/wsi/2020/44/regulation/4) omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1639)](https://www.legislation.gov.uk/wsi/2020/1639), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1639/regulation/1/2), [3(3)](https://www.legislation.gov.uk/wsi/2020/1639/regulation/3/3)
 
-[^key-4112a956ee3a3779cadf500222a9eb3f]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/wsi/2020/44/regulation/4) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1639)](https://www.legislation.gov.uk/wsi/2020/1639), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1639/regulation/1/2), [3(4)](https://www.legislation.gov.uk/wsi/2020/1639/regulation/3/4)
+[^c-4112a956ee3a3779cadf500222a9eb3f]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/wsi/2020/44/regulation/4) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1639)](https://www.legislation.gov.uk/wsi/2020/1639), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1639/regulation/1/2), [3(4)](https://www.legislation.gov.uk/wsi/2020/1639/regulation/3/4)
 
-[^key-dbd71ae10242ba3817674d6b7d87b163]: Commencement: Reg. 5 in force at 31.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2)
+[^c-dbd71ae10242ba3817674d6b7d87b163]: Commencement: Reg. 5 in force at 31.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2)
 
-[^key-0ae021be72386cdc7072c8c78aed2f83]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/wsi/2020/44/regulation/5/1) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1639)](https://www.legislation.gov.uk/wsi/2020/1639), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1639/regulation/1/2), [3(4)](https://www.legislation.gov.uk/wsi/2020/1639/regulation/3/4)
+[^c-0ae021be72386cdc7072c8c78aed2f83]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/wsi/2020/44/regulation/5/1) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1639)](https://www.legislation.gov.uk/wsi/2020/1639), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1639/regulation/1/2), [3(4)](https://www.legislation.gov.uk/wsi/2020/1639/regulation/3/4)
 
-[^key-86c2c3a8dc5cc5061f19067eb6c9bca8]: Commencement: Reg. 6 in force at 31.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2)
+[^c-86c2c3a8dc5cc5061f19067eb6c9bca8]: Commencement: Reg. 6 in force at 31.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2)
 
-[^key-e3cba48b6d6c3422f860cfd028c0f8ad]: Commencement: Reg. 7 in force at 31.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2)
+[^c-e3cba48b6d6c3422f860cfd028c0f8ad]: Commencement: Reg. 7 in force at 31.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2)
 
-[^key-b51070ac6fd2bd26946be432bfedca88]: Commencement: Reg. 8 in force at 31.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2)
+[^c-b51070ac6fd2bd26946be432bfedca88]: Commencement: Reg. 8 in force at 31.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2)
 
-[^key-d2cea9adc9a0b4c26f2d147f8341e421]: Commencement: Reg. 9 in force at 31.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2)
+[^c-d2cea9adc9a0b4c26f2d147f8341e421]: Commencement: Reg. 9 in force at 31.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2)
 
-[^key-fd2bfe74f51859923e1f9b73330dc651]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/wsi/2020/44/regulation/9/1) omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1639)](https://www.legislation.gov.uk/wsi/2020/1639), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1639/regulation/1/2), [3(5)(a)(i)](https://www.legislation.gov.uk/wsi/2020/1639/regulation/3/5/a/i)
+[^c-fd2bfe74f51859923e1f9b73330dc651]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/wsi/2020/44/regulation/9/1) omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1639)](https://www.legislation.gov.uk/wsi/2020/1639), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1639/regulation/1/2), [3(5)(a)(i)](https://www.legislation.gov.uk/wsi/2020/1639/regulation/3/5/a/i)
 
-[^key-10e43ee4aaf8dd08085e77580a172a44]: Textual amendment: Words in [reg. 9(1)(a)](https://www.legislation.gov.uk/wsi/2020/44/regulation/9/1/a) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1639)](https://www.legislation.gov.uk/wsi/2020/1639), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1639/regulation/1/2), [3(5)(a)(ii)](https://www.legislation.gov.uk/wsi/2020/1639/regulation/3/5/a/ii)
+[^c-10e43ee4aaf8dd08085e77580a172a44]: Textual amendment: Words in [reg. 9(1)(a)](https://www.legislation.gov.uk/wsi/2020/44/regulation/9/1/a) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1639)](https://www.legislation.gov.uk/wsi/2020/1639), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1639/regulation/1/2), [3(5)(a)(ii)](https://www.legislation.gov.uk/wsi/2020/1639/regulation/3/5/a/ii)
 
-[^key-b59c5f51efbad5af9ac09d94cce0abe5]: Textual amendment: [Reg. 9(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/9/2) omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1639)](https://www.legislation.gov.uk/wsi/2020/1639), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1639/regulation/1/2), [3(5)(b)](https://www.legislation.gov.uk/wsi/2020/1639/regulation/3/5/b)
+[^c-b59c5f51efbad5af9ac09d94cce0abe5]: Textual amendment: [Reg. 9(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/9/2) omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1639)](https://www.legislation.gov.uk/wsi/2020/1639), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1639/regulation/1/2), [3(5)(b)](https://www.legislation.gov.uk/wsi/2020/1639/regulation/3/5/b)
 
-[^key-71505cd414e6f595801eb5cdb7cfc5a0]: Textual amendment: Words in [reg. 9(3)](https://www.legislation.gov.uk/wsi/2020/44/regulation/9/3) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1639)](https://www.legislation.gov.uk/wsi/2020/1639), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1639/regulation/1/2), [3(4)](https://www.legislation.gov.uk/wsi/2020/1639/regulation/3/4)
+[^c-71505cd414e6f595801eb5cdb7cfc5a0]: Textual amendment: Words in [reg. 9(3)](https://www.legislation.gov.uk/wsi/2020/44/regulation/9/3) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1639)](https://www.legislation.gov.uk/wsi/2020/1639), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1639/regulation/1/2), [3(4)](https://www.legislation.gov.uk/wsi/2020/1639/regulation/3/4)
 
-[^key-a89067e76d3df430b8869c3ca0298696]: Commencement: Reg. 10 in force at 31.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2)
+[^c-a89067e76d3df430b8869c3ca0298696]: Commencement: Reg. 10 in force at 31.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2)
 
-[^key-6e065a579060f4d3c508eb34a1fb967b]: Commencement: Reg. 11 in force at 31.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2)
+[^c-6e065a579060f4d3c508eb34a1fb967b]: Commencement: Reg. 11 in force at 31.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2)
 
-[^key-1f5feeed00656a4edd2e0b672ab2fb2e]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/wsi/2020/44/regulation/11/1) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1639)](https://www.legislation.gov.uk/wsi/2020/1639), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1639/regulation/1/2), [3(4)](https://www.legislation.gov.uk/wsi/2020/1639/regulation/3/4)
+[^c-1f5feeed00656a4edd2e0b672ab2fb2e]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/wsi/2020/44/regulation/11/1) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1639)](https://www.legislation.gov.uk/wsi/2020/1639), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1639/regulation/1/2), [3(4)](https://www.legislation.gov.uk/wsi/2020/1639/regulation/3/4)
 
-[^key-2ecc6c0028301e6dad88093cbbba05c3]: Commencement: Reg. 12 in force at 31.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2)
+[^c-2ecc6c0028301e6dad88093cbbba05c3]: Commencement: Reg. 12 in force at 31.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2)
 
-[^key-3055f7531a617c04796114dc25709c37]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/wsi/2020/44/regulation/12/1) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1639)](https://www.legislation.gov.uk/wsi/2020/1639), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1639/regulation/1/2), [3(4)](https://www.legislation.gov.uk/wsi/2020/1639/regulation/3/4)
+[^c-3055f7531a617c04796114dc25709c37]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/wsi/2020/44/regulation/12/1) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1639)](https://www.legislation.gov.uk/wsi/2020/1639), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1639/regulation/1/2), [3(4)](https://www.legislation.gov.uk/wsi/2020/1639/regulation/3/4)
 
-[^key-6473a78583f8b16fedf0755cd0a35969]: Commencement: Reg. 13 in force at 31.1.2020, see reg. 1(2)
+[^c-6473a78583f8b16fedf0755cd0a35969]: Commencement: Reg. 13 in force at 31.1.2020, see reg. 1(2)
 
-[^key-41c23f9503cf327d7e16455d2bdb00e3]: Textual amendment: Words in [reg. 13](https://www.legislation.gov.uk/wsi/2020/44/regulation/13) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1639)](https://www.legislation.gov.uk/wsi/2020/1639), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1639/regulation/1/2), [3(4)](https://www.legislation.gov.uk/wsi/2020/1639/regulation/3/4)
+[^c-41c23f9503cf327d7e16455d2bdb00e3]: Textual amendment: Words in [reg. 13](https://www.legislation.gov.uk/wsi/2020/44/regulation/13) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1639)](https://www.legislation.gov.uk/wsi/2020/1639), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1639/regulation/1/2), [3(4)](https://www.legislation.gov.uk/wsi/2020/1639/regulation/3/4)
 
-[^key-331af7c10f670b36024c7796d2a1b805]: Commencement: Reg. 14 in force at 31.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2)
+[^c-331af7c10f670b36024c7796d2a1b805]: Commencement: Reg. 14 in force at 31.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2)
 
-[^key-24f7bac502d7837f53d15d128bde7d24]: Commencement: Reg. 15 in force at 31.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2)
+[^c-24f7bac502d7837f53d15d128bde7d24]: Commencement: Reg. 15 in force at 31.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2)
 
-[^key-343eac41a4bcfcf1f5eedf0e2ffcadde]: Commencement: Reg. 16 in force at 31.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2)
+[^c-343eac41a4bcfcf1f5eedf0e2ffcadde]: Commencement: Reg. 16 in force at 31.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2)
 
-[^key-1f1c582aa7ed30f5441ca91414004fc7]: Commencement: Reg. 17 in force at 31.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2)
+[^c-1f1c582aa7ed30f5441ca91414004fc7]: Commencement: Reg. 17 in force at 31.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2)
 
 [^c23965341]: Marginal citation: [S.I. 2006/179](https://www.legislation.gov.uk/uksi/2006/179) (W. 30), to which there are amendments not relevant to these Regulations.
 
 [^c23965351]: Marginal citation: OJ No. L 95, 7.4.2017, p. 1, as amended by Commission Delegated Regulation (EU) 2019/478 (OJ No. L 82, 25.5.2019, p. 4).
 
-[^key-5aff5f3c977dfedd11de65835b3c5190]: Commencement: Reg. 18 in force at 31.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2)
+[^c-5aff5f3c977dfedd11de65835b3c5190]: Commencement: Reg. 18 in force at 31.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2)
 
 [^c23965361]: Marginal citation: [S.I. 2006/180](https://www.legislation.gov.uk/uksi/2006/180) (W. 31), to which there are amendments not relevant to these Regulations.
 
 [^c23965371]: Marginal citation: OJ No. L 95, 7.4.2017, p. 1.
 
-[^key-0a06da5767ff5cce7ecfb12bb9105a8b]: Commencement: Reg. 19 in force at 31.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2)
+[^c-0a06da5767ff5cce7ecfb12bb9105a8b]: Commencement: Reg. 19 in force at 31.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2)
 
 [^c23965381]: Marginal citation: [S.I. 2006/3309](https://www.legislation.gov.uk/uksi/2006/3309) (W. 299), to which there are amendments not relevant to these Regulations.
 
 [^c23965391]: Marginal citation: OJ No. L 95, 7.4.2017, p. 1, as amended by Commission Delegated Regulation (EU) 2019/478 (OJ No. L 82, 25.5.2019, p. 4).
 
-[^key-361035d4b1c85bdf6e66fb29c66cf5de]: Commencement: Reg. 20 in force at 31.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2)
+[^c-361035d4b1c85bdf6e66fb29c66cf5de]: Commencement: Reg. 20 in force at 31.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2)
 
 [^c23965401]: Marginal citation: [S.I. 2006/3310](https://www.legislation.gov.uk/uksi/2006/3310) (W. 300), to which there are amendments not relevant to these Regulations.
 
 [^c23965411]: Marginal citation: OJ No. L 95, 7.4.2017, p.1, as amended by Commission Delegated Regulation (EU) 2019/478 (OJ No. L 82, 25.5.2019, p. 4).
 
-[^key-53f051e9ceab7d86dee2f67f69112164]: Commencement: Reg. 21 in force at 31.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2)
+[^c-53f051e9ceab7d86dee2f67f69112164]: Commencement: Reg. 21 in force at 31.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2)
 
 [^c23965421]: Marginal citation: [S.I. 2007/1047](https://www.legislation.gov.uk/uksi/2007/1047) (W. 105); there is a relevant prospective amendment within [S.I. 2019/684](https://www.legislation.gov.uk/uksi/2019/684) (W. 131).
 
-[^key-9db3cc3641b97818bd7e4d1eb3c4df2e]: Commencement: Reg. 22 in force at 31.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2)
+[^c-9db3cc3641b97818bd7e4d1eb3c4df2e]: Commencement: Reg. 22 in force at 31.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2)
 
 [^c23965431]: Marginal citation: [S.I. 2007/3070](https://www.legislation.gov.uk/uksi/2007/3070) (W. 264), the relevant amending instrument is [S.I. 2010/2713](https://www.legislation.gov.uk/uksi/2010/2713) (W. 229).
 
 [^c23965441]: Marginal citation: OJ No. L 95, 7.4.2017, p. 1, as amended by Commission Delegated Regulation (EU) 2019/478 (OJ No. L 82, 25.5.2019, p. 4).
 
-[^key-fa895b45c66de3dfc6107e214cf75246]: Commencement: Reg. 23 in force at 31.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2)
+[^c-fa895b45c66de3dfc6107e214cf75246]: Commencement: Reg. 23 in force at 31.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2)
 
 [^c23965451]: Marginal citation: [S.I. 2011/2379](https://www.legislation.gov.uk/uksi/2011/2379) (W. 252), amended by [S.I. 2014/3158](https://www.legislation.gov.uk/uksi/2014/3158), 2018/1152, 2019/463, 2019/597 2019/737 2019/799 and 2019/526.
 
@@ -1278,53 +1278,53 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c23965601]: Marginal citation: OJ No. L. 317, 4.11.2014, p. 35.
 
-[^key-ca5a23a0e4aeec56d266bff99c9c690a]: Commencement: Reg. 24 in force at 31.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2)
+[^c-ca5a23a0e4aeec56d266bff99c9c690a]: Commencement: Reg. 24 in force at 31.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2)
 
 [^c23965611]: Marginal citation: [S.I. 2013/2033](https://www.legislation.gov.uk/uksi/2013/2033), to which there are amendments not relevant to these Regulations.
 
 [^c23965621]: Marginal citation: OJ No. L 95, 7.4.2017, p. 1, as amended by Commission Delegated Regulation (EU) 2019/478 (OJ No. L 82, 25.5.2019, p. 4).
 
-[^key-b3b783b513eee39c7b5aad4ef1ae45e1]: Commencement: Reg. 25 in force at 31.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2)
+[^c-b3b783b513eee39c7b5aad4ef1ae45e1]: Commencement: Reg. 25 in force at 31.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2)
 
 [^c23965631]: Marginal citation: [S.I. 2014/951](https://www.legislation.gov.uk/uksi/2014/951) (W. 92), to which there are amendments not relevant to these Regulations.
 
 [^c23965641]: Marginal citation: OJ No. L 95, 7.4.2017, p. 1, as amended by Commission Delegated Regulation (EU) 2019/478 (OJ No. L 82, 25.5.2019, p. 4).
 
-[^key-cfdec34c7eb6b4b64515826ddfde6cee]: Commencement: Reg. 26 in force at 31.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2)
+[^c-cfdec34c7eb6b4b64515826ddfde6cee]: Commencement: Reg. 26 in force at 31.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2)
 
 [^c23965651]: Marginal citation: [S.I. 2018/1215](https://www.legislation.gov.uk/uksi/2018/1215) (W. 248); to which there are amendments not relevant to these Regulations.
 
 [^c23965661]: Marginal citation: OJ No. L 95, 7.4.2017, p. 1, as amended by Commission Delegated Regulation (EU) 2019/478 (OJ No. L 82, 25.5.2019, p. 4).
 
-[^key-62e11ffa82dedda407c0ef1c4937d72f]: Commencement: Reg. 27 in force at 31.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2)
+[^c-62e11ffa82dedda407c0ef1c4937d72f]: Commencement: Reg. 27 in force at 31.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2)
 
 [^c23965671]: Marginal citation: [S.I. 2018/806](https://www.legislation.gov.uk/uksi/2018/806) (W. 162).
 
-[^key-1d4df861537f5356d187cdfd5e37427a]: Commencement: Reg. 28 in force at 31.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2)
+[^c-1d4df861537f5356d187cdfd5e37427a]: Commencement: Reg. 28 in force at 31.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2)
 
 [^c23965681]: Marginal citation: [S.I. 2018/968](https://www.legislation.gov.uk/uksi/2018/968) (W.248), amended by [S.I. 2018/942](https://www.legislation.gov.uk/uksi/2018/942) and 2018/1120.
 
 [^c23965691]: Marginal citation: OJ No. L 95, 7.4.2017, p. 1, as amended by Commission Delegated Regulation (EU) 2019/478 (OJ No. L 82, 25.5.2019, p. 4).
 
-[^key-3339e23b763cfd9cf7a01b47845915a4]: Textual amendment: [Reg. 29](https://www.legislation.gov.uk/wsi/2020/44/regulation/29) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/2), [37](https://www.legislation.gov.uk/wsi/2020/1612/regulation/37)
+[^c-3339e23b763cfd9cf7a01b47845915a4]: Textual amendment: [Reg. 29](https://www.legislation.gov.uk/wsi/2020/44/regulation/29) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/2), [37](https://www.legislation.gov.uk/wsi/2020/1612/regulation/37)
 
-[^key-da495224993e825b81a61384b31b56c6]: Commencement: Reg. 30 in force at 31.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2)
+[^c-da495224993e825b81a61384b31b56c6]: Commencement: Reg. 30 in force at 31.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2)
 
 [^c23965711]: Marginal citation: [S.I. 2019/434](https://www.legislation.gov.uk/uksi/2019/434) (W. 102).
 
-[^key-a6c440a756446dc012a8c55dd3d419a1]: Commencement: Reg. 31 in force at 31.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2)
+[^c-a6c440a756446dc012a8c55dd3d419a1]: Commencement: Reg. 31 in force at 31.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2)
 
 [^c23965721]: Marginal citation: [S.I. 2004/1684](https://www.legislation.gov.uk/uksi/2004/1684), amended by [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755), 2019/734.
 
-[^key-511ff1d31321b04dbcfc1a195fdaa1e9]: Commencement: Reg. 32 in force at 31.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2)
+[^c-511ff1d31321b04dbcfc1a195fdaa1e9]: Commencement: Reg. 32 in force at 31.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2)
 
 [^c23965731]: Marginal citation: [S.I. 2006/1701](https://www.legislation.gov.uk/uksi/2006/1701) (W. 163), amended by [S.I. 2013/1658](https://www.legislation.gov.uk/uksi/2013/1658) (W. 156), [S.I. 2014/1759](https://www.legislation.gov.uk/uksi/2014/1759) (W. 174), [S.I. 2016/1084](https://www.legislation.gov.uk/uksi/2016/1084) (W. 259) and [S.I. 2018/772](https://www.legislation.gov.uk/uksi/2018/772) (W. 156).
 
-[^key-381539db77f04fbf3e311425dd75077e]: Commencement: Reg. 33 in force at 31.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2)
+[^c-381539db77f04fbf3e311425dd75077e]: Commencement: Reg. 33 in force at 31.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2)
 
 [^c23965741]: Marginal citation: [S.I. 2006/2695](https://www.legislation.gov.uk/uksi/2006/2695), amended by [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755), 2019/734.
 
-[^key-b21d2beb2fc7c2020cfa769dca3dd10b]: Commencement: Reg. 34 in force at 31.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2)
+[^c-b21d2beb2fc7c2020cfa769dca3dd10b]: Commencement: Reg. 34 in force at 31.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2)
 
 [^c23965751]: Marginal citation: [S.I. 2018/1179](https://www.legislation.gov.uk/uksi/2018/1179) (W. 238), amended by [S.I. 2019/1378](https://www.legislation.gov.uk/uksi/2019/1378) (W. 244).
 
@@ -1336,7 +1336,7 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c23965791]: Marginal citation: [1994 c. 23](https://www.legislation.gov.uk/ukpga/1994/23).
 
-[^key-37b1a206d8cae2750fbc30c930d77e4a]: Commencement: Reg. 35 in force at 31.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2)
+[^c-37b1a206d8cae2750fbc30c930d77e4a]: Commencement: Reg. 35 in force at 31.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2)
 
 [^c23965801]: Marginal citation: [S.I. 2019/497](https://www.legislation.gov.uk/uksi/2019/497) (W. 114); there is a relevant prospective amendment within [S.I. 2019/735](https://www.legislation.gov.uk/uksi/2019/735) (W. 138).
 
@@ -1348,6 +1348,6 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c23965841]: Marginal citation: OJ No. L 317, 23.11.2016, p. 4, as amended by Regulation (EU) 2017/625 of the European Parliament and of the Council (OJ No. L 95, 7.4.2017, p. 1).
 
-[^key-dae3005267d41c4dbee12738fcc9f55f]: Commencement: Reg. 36 in force at 31.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2)
+[^c-dae3005267d41c4dbee12738fcc9f55f]: Commencement: Reg. 36 in force at 31.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2)
 
 [^c23965851]: Marginal citation: [S.I. 2007/196](https://www.legislation.gov.uk/uksi/2007/196) (W. 15).

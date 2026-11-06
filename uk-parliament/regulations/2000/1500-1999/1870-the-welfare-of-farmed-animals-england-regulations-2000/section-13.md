@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Offences[^key-831fc4a29061b99f15c1e1345d29d4a2]
+## 13. Offences[^c-831fc4a29061b99f15c1e1345d29d4a2]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-831fc4a29061b99f15c1e1345d29d4a2]: Textual amendment: Regulations lapsed by virtue of the repeal of the enabling provision (1.10.2007) by [Animal Welfare Act 2006 (c. 45)](https://www.legislation.gov.uk/ukpga/2006/45), [s. 68(3)](https://www.legislation.gov.uk/ukpga/2006/45/section/68/3), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/45/schedule/4) (with [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2006/45/section/1/2), [58(1)](https://www.legislation.gov.uk/ukpga/2006/45/section/58/1), [59](https://www.legislation.gov.uk/ukpga/2006/45/section/59), [60](https://www.legislation.gov.uk/ukpga/2006/45/section/60)); [S.I. 2007/2711](https://www.legislation.gov.uk/uksi/2007/2711), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2007/2711/article/2/b/i) (with [art. 3](https://www.legislation.gov.uk/uksi/2007/2711/article/3))
+[^c-831fc4a29061b99f15c1e1345d29d4a2]: Textual amendment: Regulations lapsed by virtue of the repeal of the enabling provision (1.10.2007) by [Animal Welfare Act 2006 (c. 45)](https://www.legislation.gov.uk/ukpga/2006/45), [s. 68(3)](https://www.legislation.gov.uk/ukpga/2006/45/section/68/3), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/45/schedule/4) (with [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2006/45/section/1/2), [58(1)](https://www.legislation.gov.uk/ukpga/2006/45/section/58/1), [59](https://www.legislation.gov.uk/ukpga/2006/45/section/59), [60](https://www.legislation.gov.uk/ukpga/2006/45/section/60)); [S.I. 2007/2711](https://www.legislation.gov.uk/uksi/2007/2711), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2007/2711/article/2/b/i) (with [art. 3](https://www.legislation.gov.uk/uksi/2007/2711/article/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Delegation[^key-55e0728020f6e0ffee2d2f7f3c2ef351]
+## 5. Delegation[^c-55e0728020f6e0ffee2d2f7f3c2ef351]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-55e0728020f6e0ffee2d2f7f3c2ef351]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2014/2848/regulation/5) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-55e0728020f6e0ffee2d2f7f3c2ef351]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2014/2848/regulation/5) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

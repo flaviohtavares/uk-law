@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 35C — School Travel Schemes[^key-17f259bff6d1485fe1faba83fa276bc4]
+## SCHEDULE 35C — School Travel Schemes[^c-17f259bff6d1485fe1faba83fa276bc4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ Section 508E
 
 ### Power to make scheme
 
-**1.** (1) A local authority[^key-6f7ad3e2cc8ee9e0ff2977c70c6c2e41] in England may make a school travel scheme for their area.
+**1.** (1) A local authority[^c-6f7ad3e2cc8ee9e0ff2977c70c6c2e41] in England may make a school travel scheme for their area.
 
 (2) Before making a school travel scheme, a local authority must consult such persons as the authority consider appropriate.
 
@@ -63,9 +63,9 @@ the scheme authority must make suitable alternative arrangements.
 
 ### Travel arrangements for “eligible children”
 
-**3.** (1)[^key-125b6810f5cfc3ed25e47ae9d4537431] A school travel scheme must require that, in the case of an eligible child in the scheme authority's area to whom sub-paragraph (2) applies, the authority must make such travel arrangements as they consider necessary in order to secure that suitable home to school travel arrangements, for the purpose of facilitating the child's attendance at the relevant educational establishment in relation to him, are made in relation to the child.
+**3.** (1)[^c-125b6810f5cfc3ed25e47ae9d4537431] A school travel scheme must require that, in the case of an eligible child in the scheme authority's area to whom sub-paragraph (2) applies, the authority must make such travel arrangements as they consider necessary in order to secure that suitable home to school travel arrangements, for the purpose of facilitating the child's attendance at the relevant educational establishment in relation to him, are made in relation to the child.
 
-(2)[^key-125b6810f5cfc3ed25e47ae9d4537431] This sub-paragraph applies to an eligible child if—
+(2)[^c-125b6810f5cfc3ed25e47ae9d4537431] This sub-paragraph applies to an eligible child if—
 
 - (a) no travel arrangements relating to travel in either direction between his home and the relevant educational establishment in relation to him, or in both directions, are provided in relation to him by any person who is not the scheme authority, or
 - (b) such travel arrangements are provided in relation to him by any person who is not the scheme authority but those arrangements, taken together with any other such travel arrangements which are so provided, do not provide suitable home to school travel arrangements for the purpose of facilitating his attendance at the relevant educational establishment in relation to him.
@@ -205,17 +205,17 @@ as the Secretary of State may require for any of the purposes mentioned in sub-p
 
 **14.** In this Schedule—
 
-- “**disabled child**” means a child who has a disability for the purposes of the Equality Act 2010[^key-f485b5323d32cb8a9e5f85106c806e9f] , and “**disability**” is to be construed accordingly;
+- “**disabled child**” means a child who has a disability for the purposes of the Equality Act 2010[^c-f485b5323d32cb8a9e5f85106c806e9f] , and “**disability**” is to be construed accordingly;
 - “**qualifying school**” has the same meaning as it has for the purposes of Schedule 35B;
 - “**scheme authority**”, in relation to a school travel scheme, means the local authority by which the scheme is made;
 - “**walking distance**” has the meaning given by section 444(5).
 
 ## Annotations
 
-[^key-17f259bff6d1485fe1faba83fa276bc4]: Textual amendment: Sch. 35C inserted (1.4.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 9](https://www.legislation.gov.uk/ukpga/2006/40/schedule/9); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(dd)](https://www.legislation.gov.uk/uksi/2007/935/article/5/dd)
+[^c-17f259bff6d1485fe1faba83fa276bc4]: Textual amendment: Sch. 35C inserted (1.4.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 9](https://www.legislation.gov.uk/ukpga/2006/40/schedule/9); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(dd)](https://www.legislation.gov.uk/uksi/2007/935/article/5/dd)
 
-[^key-6f7ad3e2cc8ee9e0ff2977c70c6c2e41]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/2) (with [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/5))
+[^c-6f7ad3e2cc8ee9e0ff2977c70c6c2e41]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/2) (with [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/5))
 
-[^key-125b6810f5cfc3ed25e47ae9d4537431]: Modification: Sch. 35C para. 3(1)(2) modified (E.) (1.6.2007) by [The School Travel (Pupils with Dual Registration) (England) Regulations 2007 (S.I. 2007/1367)](https://www.legislation.gov.uk/uksi/2007/1367), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2007/1367/regulation/1/2/a), [2](https://www.legislation.gov.uk/uksi/2007/1367/regulation/2)
+[^c-125b6810f5cfc3ed25e47ae9d4537431]: Modification: Sch. 35C para. 3(1)(2) modified (E.) (1.6.2007) by [The School Travel (Pupils with Dual Registration) (England) Regulations 2007 (S.I. 2007/1367)](https://www.legislation.gov.uk/uksi/2007/1367), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2007/1367/regulation/1/2/a), [2](https://www.legislation.gov.uk/uksi/2007/1367/regulation/2)
 
-[^key-f485b5323d32cb8a9e5f85106c806e9f]: Textual amendment: Words in Sch. 35C para. 14 substituted by 2010 c. 15, Sch. 26 Pt. 1 para. 41 (as inserted (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2010/2279/schedule/1/paragraph/5)) (see S.I. 2010/2317, art. 2)
+[^c-f485b5323d32cb8a9e5f85106c806e9f]: Textual amendment: Words in Sch. 35C para. 14 substituted by 2010 c. 15, Sch. 26 Pt. 1 para. 41 (as inserted (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2010/2279/schedule/1/paragraph/5)) (see S.I. 2010/2317, art. 2)

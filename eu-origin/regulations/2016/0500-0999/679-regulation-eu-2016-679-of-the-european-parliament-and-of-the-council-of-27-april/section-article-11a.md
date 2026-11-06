@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 11A. Further provision about processing of special categories of personal data[^key-be5e7493da4dea8027373869d2add73e]
+## Article 11A. Further provision about processing of special categories of personal data[^c-be5e7493da4dea8027373869d2add73e]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-be5e7493da4dea8027373869d2add73e]: Textual amendment: Art. 11A inserted (19.6.2025 for specified purposes, 20.8.2025 in so far as not already in force) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 74(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/74/1), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)[(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/h); [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/c)
+[^c-be5e7493da4dea8027373869d2add73e]: Textual amendment: Art. 11A inserted (19.6.2025 for specified purposes, 20.8.2025 in so far as not already in force) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 74(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/74/1), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)[(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/h); [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/c)

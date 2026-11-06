@@ -90,8 +90,8 @@ These Regulations may be cited as the Working Time Regulations (Northern Ireland
   - (b) any other contract, whether express or implied and (if it is express) whether oral or in writing, whereby the individual undertakes to do or perform personally any work or services for another party to the contract whose status is not by virtue of the contract that of a client or customer of any profession or business undertaking carried on by the individual;
 
   and any reference to a worker's contract shall be construed accordingly;
-- “[^key-353b1195757989821b5e894f463096fa]**sick leave**” means absence from work due to sickness or injury;
-- “[^key-cf30a09738fd50a0ba88d81e79f12d45]**statutory leave**” means leave provided for in Part IX of the 1996 Order;
+- “[^c-353b1195757989821b5e894f463096fa]**sick leave**” means absence from work due to sickness or injury;
+- “[^c-cf30a09738fd50a0ba88d81e79f12d45]**statutory leave**” means leave provided for in Part IX of the 1996 Order;
 - “**worker employed in agriculture**” has the same meaning as in the Agricultural Wages (Regulation) (Northern Ireland) Order 1977 [^c22818161] and a reference to a worker partly employed in agriculture is to a worker employed in agriculture whose employer also employs that worker for non-agricultural purposes;
 - “**workforce agreement**” means an agreement between an employer and workers employed by that employer or their representatives in respect of which the conditions set out in Schedule 1 are satisfied;
 - “**working time**”, in relation to a worker, means—
@@ -319,10 +319,10 @@ in place of the entitlement provided for in paragraph (1).
 
 (5) Leave to which a worker is entitled under this regulation may be taken in instalments, but—
 
-- (a) subject to the exceptions in paragraphs (6), (7), (10), (11) and (13)[^key-e6f01d363bbe171bd434e4cf45150876] it may only be taken in the leave year in respect of which it is due, and
+- (a) subject to the exceptions in paragraphs (6), (7), (10), (11) and (13)[^c-e6f01d363bbe171bd434e4cf45150876] it may only be taken in the leave year in respect of which it is due, and
 - (b) it may not be replaced by a payment in lieu except where the worker's employment is terminated.
 
-(6)[^key-f33d7e9d09b1058b529c33e887d20d29] Where in any leave year it was not reasonably practicable for a worker to take some or all of the leave to which the worker was entitled under this regulation as a result of the effects of coronavirus (including on the worker, the employer or the wider economy or society), the worker shall be entitled to carry forward such untaken leave as provided for in paragraph (7).
+(6)[^c-f33d7e9d09b1058b529c33e887d20d29] Where in any leave year it was not reasonably practicable for a worker to take some or all of the leave to which the worker was entitled under this regulation as a result of the effects of coronavirus (including on the worker, the employer or the wider economy or society), the worker shall be entitled to carry forward such untaken leave as provided for in paragraph (7).
 
 (7) Leave to which paragraph (6) applies may be carried forward and taken in the two leave years immediately following the leave year in respect of which it was due.
 
@@ -330,7 +330,7 @@ in place of the entitlement provided for in paragraph (1).
 
 (9) For the purpose of this regulation “coronavirus” means severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).
 
-(10)[^key-aa27d3431036b34833d2c57f999a5412] Where, as a result of taking a period of statutory leave in any leave year, a worker is unable to take some or all of the annual leave to which the worker is entitled in that leave year under this regulation, the worker is entitled to carry forward such untaken leave into the following leave year.
+(10)[^c-aa27d3431036b34833d2c57f999a5412] Where, as a result of taking a period of statutory leave in any leave year, a worker is unable to take some or all of the annual leave to which the worker is entitled in that leave year under this regulation, the worker is entitled to carry forward such untaken leave into the following leave year.
 
 (11) Where, as a result of taking a period of sick leave in any leave year, a worker is unable to take some or all of the annual leave to which the worker is entitled in that leave year under this regulation, the worker is entitled to carry forward such untaken leave into the following leave year provided it is taken by the end of the period of 18 months from the end of the leave year in which the entitlement originally arose.
 
@@ -358,11 +358,11 @@ in place of the entitlement provided for in paragraph (1).
 
 (6) A relevant agreement may provide for any leave to which a worker is entitled under this regulation to be carried forward into the leave year immediately following the leave year in respect of which it is due.
 
-(7)[^key-9904fecf6646cf2216c9d45ffcb05e12] Where, as a result of taking a period of statutory leave in any year, a worker is unable to take some or all of the annual leave to which the worker is entitled in that leave year under this regulation, the worker is entitled to carry forward such untaken leave into the following leave year.
+(7)[^c-9904fecf6646cf2216c9d45ffcb05e12] Where, as a result of taking a period of statutory leave in any year, a worker is unable to take some or all of the annual leave to which the worker is entitled in that leave year under this regulation, the worker is entitled to carry forward such untaken leave into the following leave year.
 
 ### 17. Compensation related to entitlement to leave
 
-(1) Paragraphs (1) to (4) apply where—[^key-9bf4ea4e3c4c0f0e16d50cfac9c4fd09]
+(1) Paragraphs (1) to (4) apply where—[^c-9bf4ea4e3c4c0f0e16d50cfac9c4fd09]
 
 - (a) a worker's employment is terminated during the course of the worker's leave year, and
 - (b) on the date on which the termination takes effect (“**the termination date**”), the proportion of leave taken to which the worker is entitled in the leave year under regulation 15 and regulation 16 differs from the proportion of the leave year which has expired.
@@ -386,7 +386,7 @@ in place of the entitlement provided for in paragraph (1).
 
 (4) A relevant agreement may provide that, where the proportion of leave taken by the worker exceeds the proportion of the leave year which has expired, the worker shall compensate the employer, whether by a payment, by undertaking additional work or otherwise.
 
-(5)[^key-9aaba20e9d30b56435d27e977b600df8] Where a worker’s employment is terminated and on the termination date the worker remains entitled to leave in respect of any previous leave year which carried forward under regulation 15(6), (7), (10), (11) or (13) or[^key-efe0fa94e490ff18cc41ed6be3232965] regulation 16(6) or (7)[^key-ec97e524a49383e16b271423d0912cb9] , the employer shall make the worker a payment in lieu of leave equal to the sum due under regulation 20 for the period of untaken leave.
+(5)[^c-9aaba20e9d30b56435d27e977b600df8] Where a worker’s employment is terminated and on the termination date the worker remains entitled to leave in respect of any previous leave year which carried forward under regulation 15(6), (7), (10), (11) or (13) or[^c-efe0fa94e490ff18cc41ed6be3232965] regulation 16(6) or (7)[^c-ec97e524a49383e16b271423d0912cb9] , the employer shall make the worker a payment in lieu of leave equal to the sum due under regulation 20 for the period of untaken leave.
 
 ### 18. Dates on which leave is taken
 
@@ -395,7 +395,7 @@ in place of the entitlement provided for in paragraph (1).
 (2) A worker's employer may require the worker—
 
 - (a) to take leave to which the worker is entitled under regulation 15 or regulation 16; or
-- (b) not to take such leave (subject, where it applies, to the requirement in regulation 15(8))[^key-ac4bca122bdc039f25ba43f606f69e42],
+- (b) not to take such leave (subject, where it applies, to the requirement in regulation 15(8))[^c-ac4bca122bdc039f25ba43f606f69e42],
 
 on particular days, by giving notice to the worker in accordance with paragraph (3).
 
@@ -426,17 +426,17 @@ on particular days, by giving notice to the worker in accordance with paragraph 
 
 (1) A worker is entitled to be paid in respect of any period of annual leave to which the worker is entitled under regulation 15 and regulation 16, at the rate of a week's pay in respect of each week of leave.
 
-(2) Articles 17 to 20 of the 1996 Order shall apply for the purpose of determining the amount of a week's pay for the purposes of this regulation, subject to the modifications set out in paragraph (3) and the supplementary provisions in paragraphs (3A) to (3G)[^key-4dd5730ea9a30617f0da52c854673559].
+(2) Articles 17 to 20 of the 1996 Order shall apply for the purpose of determining the amount of a week's pay for the purposes of this regulation, subject to the modifications set out in paragraph (3) and the supplementary provisions in paragraphs (3A) to (3G)[^c-4dd5730ea9a30617f0da52c854673559].
 
 (3) The provisions referred to in paragraph (2) shall apply—
 
 - (a) as if references to the employee were references to the worker;
 - (b) as if references to the employee's contract of employment were references to the worker's contract;
-- (c) as if the calculation date were the first day of the period of leave in question; [^key-30e5f3da3c2bc500e7cdb312679185f3]...
-- (d) as if the references to Articles 23 and 24 did not apply; and[^key-c9280386194b305a2f9c44aba48359d5]
-- (e)[^key-4e81128e0e3b6dcf52d3c097b3cea225] as if, in the case of entitlement under regulation 13, Articles 5 and 19(3) did not apply.
+- (c) as if the calculation date were the first day of the period of leave in question; [^c-30e5f3da3c2bc500e7cdb312679185f3]...
+- (d) as if the references to Articles 23 and 24 did not apply; and[^c-c9280386194b305a2f9c44aba48359d5]
+- (e)[^c-4e81128e0e3b6dcf52d3c097b3cea225] as if, in the case of entitlement under regulation 13, Articles 5 and 19(3) did not apply.
 
-(3A)[^key-98e41928814eeacddfc72b0ec3dafc2b] In the case of entitlement under regulation 15 the following types of payments are to be included when determining the amount of a week’s pay for the purposes of this regulation—
+(3A)[^c-98e41928814eeacddfc72b0ec3dafc2b] In the case of entitlement under regulation 15 the following types of payments are to be included when determining the amount of a week’s pay for the purposes of this regulation—
 
 - (a) payments, including commission payments, which are intrinsically linked to the performance of tasks which a worker is obliged to carry out under the terms of their contract;
 - (b) payments for professional or personal status relating to length of service, seniority or professional qualifications;
@@ -477,8 +477,8 @@ Where during any period a worker is entitled to a rest period, rest break or ann
 
 (1) These Regulations do not apply—
 
-- (a) to workers to whom the Merchant Shipping (Maritime Labour Convention) (Hours of Work) Regulations 2018[^key-61d1e3a7b4159c77621697ede6b15cee] apply;
-- (b)[^key-e1572977bc555f2dda34f295689346b3] to workers to whom the Civil Aviation (Working Time) Regulations 2004 apply.
+- (a) to workers to whom the Merchant Shipping (Maritime Labour Convention) (Hours of Work) Regulations 2018[^c-61d1e3a7b4159c77621697ede6b15cee] apply;
+- (b)[^c-e1572977bc555f2dda34f295689346b3] to workers to whom the Civil Aviation (Working Time) Regulations 2004 apply.
 - (c) to workers to whom the Merchant Shipping (Working Time: Inland Waterways) Regulations 2003 apply.
 
 (2) Regulations 4(1) and (2), 7(1), (2) and (6), 9(1) and (6), 10, 12(1), 13(1) and (2), 14(1), 15, 16 and 20 do not apply—
@@ -486,7 +486,7 @@ Where during any period a worker is entitled to a rest period, rest break or ann
 - (a) where characteristics peculiar to certain specific services such as the armed forces or the police, or to certain specific activities in the civil protection services, inevitably conflict with the provisions of these Regulations; or
 - (b) to workers to whom the European Agreement on the organisation of working time of mobile staff in civil aviation concluded on 22nd March 2000 and implemented by Council Directive [2000/79/EC](https://www.legislation.gov.uk/eudr/2000/79) of 27th November 2000 [^c22818241] applies.
 
-(3) Regulations 4(1) and (2), 7(1), (2) and (6), 10, 12(1), 13(1) and (2) and 14(1) do not apply to workers to whom the Road Transport (Working Time) Regulations (Northern Ireland) 2005 apply[^key-865d76d2537dac846eeba767d32e35fc] .
+(3) Regulations 4(1) and (2), 7(1), (2) and (6), 10, 12(1), 13(1) and (2) and 14(1) do not apply to workers to whom the Road Transport (Working Time) Regulations (Northern Ireland) 2005 apply[^c-865d76d2537dac846eeba767d32e35fc] .
 
 (4) Regulation 28 does not apply to workers to whom the Cross-border Railways Services (Working Time) Regulations (Northern Ireland) 2008 [^c22818261] apply.
 
@@ -787,7 +787,7 @@ An inspector, if authorised in that behalf by an enforcement authority, may, alt
   - (iv) regulation 30(3), 34(2) or 35(4)(b); or
 - (b) has failed to pay the whole or any part of any amount due to the worker under regulation 17(2) or 20(1).
 
-(2) An[^key-9e4eb90297e1091a1409c2a7afed47c1] industrial tribunal shall not consider a complaint under this regulation unless it is presented—
+(2) An[^c-9e4eb90297e1091a1409c2a7afed47c1] industrial tribunal shall not consider a complaint under this regulation unless it is presented—
 
 - (a) before the end of the period of three months (or, in a case to which regulation 49(2) applies, six months) beginning with the date on which it is alleged that the exercise of the right should have been permitted (or in the case of a rest period or leave extending over more than one day, the date on which it should have been permitted to begin) or, as the case may be, the payment should have been made; or
 - (b) within such further period as the tribunal considers reasonable in a case where it is satisfied that it was not reasonably practicable for the complaint to be presented before the end of that period of three or, as the case may be, six months.
@@ -804,11 +804,11 @@ An inspector, if authorised in that behalf by an enforcement authority, may, alt
 
 (5) Where on a complaint under paragraph (1)(b) an industrial tribunal finds that an employer has failed to pay a worker in accordance with regulation 17(2) or 20(1), it shall order the employer to pay to the worker the amount which it finds to be due.
 
-### 44. Extension of time limits because of mediation in certain cross-border disputes[^key-bf31d14c7fd2b4bc8d75545f5cc5db20]
+### 44. Extension of time limits because of mediation in certain cross-border disputes[^c-bf31d14c7fd2b4bc8d75545f5cc5db20]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 44A. Extension of time limit to facilitate conciliation before institution of proceedings[^key-77f25c326002c764c82a16a40b28071a]
+### 44A. Extension of time limit to facilitate conciliation before institution of proceedings[^c-77f25c326002c764c82a16a40b28071a]
 
 (1) In this regulation—
 
@@ -830,7 +830,7 @@ An inspector, if authorised in that behalf by an enforcement authority, may, alt
 
 (2) Paragraph (1) does not apply to—
 
-- (a) any agreement to refrain from instituting or continuing proceedings where the Labour Relations Agency has taken action under any of Articles 20A to 20C[^key-e6489c09bd69d20b6bb752a771aacc96] of the Industrial Tribunals (Northern Ireland) Order 1996 [^c22818331] (conciliation); or
+- (a) any agreement to refrain from instituting or continuing proceedings where the Labour Relations Agency has taken action under any of Articles 20A to 20C[^c-e6489c09bd69d20b6bb752a771aacc96] of the Industrial Tribunals (Northern Ireland) Order 1996 [^c22818331] (conciliation); or
 - (b) any agreement to refrain from instituting or continuing proceedings within Article 20(1)(f) of the Industrial Tribunals (Northern Ireland) Order 1996 (proceedings under these Regulations where conciliation is available), if the conditions regulating compromise agreements under these Regulations are satisfied in relation to the agreement.
 
 (3) For the purposes of paragraph (2)(b) the conditions regulating compromise agreements under these Regulations are that—
@@ -910,20 +910,20 @@ and as if that person were the agency worker's employer.
 
 (2) No complaint concerning the service of any person as a member of the armed forces may be presented to an industrial tribunal under regulation 43 unless—
 
-- (a)[^key-d45694c5f9da4753edde0ad080b70c8c] that person (“the complainant”) has made a service complaint in respect of the same matter, and
+- (a)[^c-d45694c5f9da4753edde0ad080b70c8c] that person (“the complainant”) has made a service complaint in respect of the same matter, and
 - (b) that complaint has not been withdrawn.
 
-(3)[^key-183c75f0169a34bd7c94fa8f8fd08dcf] Where the service complaint is dealt with by a person or panel appointed by the Defence Council by virtue of section 340C(1)(a) of the Armed Forces Act 2006, it is to be treated for the purposes of paragraph (2)(b) as withdrawn if—
+(3)[^c-183c75f0169a34bd7c94fa8f8fd08dcf] Where the service complaint is dealt with by a person or panel appointed by the Defence Council by virtue of section 340C(1)(a) of the Armed Forces Act 2006, it is to be treated for the purposes of paragraph (2)(b) as withdrawn if—
 
 - (a) the period allowed in accordance with service complaints regulations for bringing an appeal against the person’s or panel’s decision expires,
 - (b) there are grounds (of which the complainant is aware) on which the complainant is entitled to bring such an appeal, and
 - (c) either—
-  - (i) the complainant does not apply to the Armed Forces Commissioner[^key-00885f28de50c6ab58edb2aa48a1bb7b] for a review by virtue of section 340D(6)(a) of the Armed Forces Act 2006 (review of decision that appeal brought out of time cannot proceed), or
-  - (ii) the complainant does apply for such a review and the Commissioner[^key-f7f00400bd917f5fed55f0732373f508] decides that an appeal against the person’s or panel’s decision cannot be proceeded with.
+  - (i) the complainant does not apply to the Armed Forces Commissioner[^c-00885f28de50c6ab58edb2aa48a1bb7b] for a review by virtue of section 340D(6)(a) of the Armed Forces Act 2006 (review of decision that appeal brought out of time cannot proceed), or
+  - (ii) the complainant does apply for such a review and the Commissioner[^c-f7f00400bd917f5fed55f0732373f508] decides that an appeal against the person’s or panel’s decision cannot be proceeded with.
 
-(4) Where a complaint of the kind referred to in paragraph (2) is presented to an industrial tribunal, the procedures set out in service complaints regulations[^key-8d17b2dd9a0d00e6241b156caad11f40] may continue after the complaint is presented.
+(4) Where a complaint of the kind referred to in paragraph (2) is presented to an industrial tribunal, the procedures set out in service complaints regulations[^c-8d17b2dd9a0d00e6241b156caad11f40] may continue after the complaint is presented.
 
-(5)[^key-ae3165d80cedeb42a508f72dfa2ff3f8] In this regulation—
+(5)[^c-ae3165d80cedeb42a508f72dfa2ff3f8] In this regulation—
 
 - “**service complaint**” means a complaint under section 340A of the Armed Forces Act 2006;
 - “**service complaints regulations**” means regulations made under section 340B(1) of that Act.
@@ -1245,9 +1245,9 @@ Regulations 53 and 54 provide for consequential amendments, the revocation of th
 
 [^c22818151]: Marginal citation: [1983 c. 54](https://www.legislation.gov.uk/ukpga/1983/54)
 
-[^key-353b1195757989821b5e894f463096fa]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2016/49/regulation/2/2) inserted (1.1.2024) by [The Working Time (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/223)](https://www.legislation.gov.uk/nisr/2023/223), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/223/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/nisr/2023/223/regulation/2/2/a)
+[^c-353b1195757989821b5e894f463096fa]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2016/49/regulation/2/2) inserted (1.1.2024) by [The Working Time (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/223)](https://www.legislation.gov.uk/nisr/2023/223), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/223/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/nisr/2023/223/regulation/2/2/a)
 
-[^key-cf30a09738fd50a0ba88d81e79f12d45]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2016/49/regulation/2/2) substituted (4.7.2024) by [The Working Time (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/153)](https://www.legislation.gov.uk/nisr/2024/153), [regs. 1](https://www.legislation.gov.uk/nisr/2024/153/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2024/153/regulation/2/2)
+[^c-cf30a09738fd50a0ba88d81e79f12d45]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2016/49/regulation/2/2) substituted (4.7.2024) by [The Working Time (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/153)](https://www.legislation.gov.uk/nisr/2024/153), [regs. 1](https://www.legislation.gov.uk/nisr/2024/153/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2024/153/regulation/2/2)
 
 [^c22818161]: Marginal citation: [S.I. 1977/2151 (N.I. 22)](https://www.legislation.gov.uk/nisi/1977/2151)
 
@@ -1259,41 +1259,41 @@ Regulations 53 and 54 provide for consequential amendments, the revocation of th
 
 [^c22818201]: Marginal citation: S.R. [2000 No. 388](https://www.legislation.gov.uk/ukcm/2000/388)
 
-[^key-e6f01d363bbe171bd434e4cf45150876]: Textual amendment: Words in [reg. 15(5)(a)](https://www.legislation.gov.uk/nisr/2016/49/regulation/15/5/a) substituted (1.1.2024) by [The Working Time (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/223)](https://www.legislation.gov.uk/nisr/2023/223), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/223/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/nisr/2023/223/regulation/2/3/a)
+[^c-e6f01d363bbe171bd434e4cf45150876]: Textual amendment: Words in [reg. 15(5)(a)](https://www.legislation.gov.uk/nisr/2016/49/regulation/15/5/a) substituted (1.1.2024) by [The Working Time (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/223)](https://www.legislation.gov.uk/nisr/2023/223), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/223/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/nisr/2023/223/regulation/2/3/a)
 
-[^key-f33d7e9d09b1058b529c33e887d20d29]: Textual amendment: [Reg. 15(6)-(9)](https://www.legislation.gov.uk/nisr/2016/49/regulation/15/6) inserted (24.4.2020) by [The Working Time (Coronavirus) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/68)](https://www.legislation.gov.uk/nisr/2020/68), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/68/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2020/68/regulation/2/2/b)
+[^c-f33d7e9d09b1058b529c33e887d20d29]: Textual amendment: [Reg. 15(6)-(9)](https://www.legislation.gov.uk/nisr/2016/49/regulation/15/6) inserted (24.4.2020) by [The Working Time (Coronavirus) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/68)](https://www.legislation.gov.uk/nisr/2020/68), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/68/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2020/68/regulation/2/2/b)
 
-[^key-aa27d3431036b34833d2c57f999a5412]: Textual amendment: [Reg. 15(10)-(14)](https://www.legislation.gov.uk/nisr/2016/49/regulation/15/10) inserted (1.1.2024) by [The Working Time (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/223)](https://www.legislation.gov.uk/nisr/2023/223), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/223/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/nisr/2023/223/regulation/2/3/b)
+[^c-aa27d3431036b34833d2c57f999a5412]: Textual amendment: [Reg. 15(10)-(14)](https://www.legislation.gov.uk/nisr/2016/49/regulation/15/10) inserted (1.1.2024) by [The Working Time (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/223)](https://www.legislation.gov.uk/nisr/2023/223), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/223/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/nisr/2023/223/regulation/2/3/b)
 
-[^key-9904fecf6646cf2216c9d45ffcb05e12]: Textual amendment: [Reg. 16(7)](https://www.legislation.gov.uk/nisr/2016/49/regulation/16/7) inserted (1.1.2024) by [The Working Time (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/223)](https://www.legislation.gov.uk/nisr/2023/223), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/223/regulation/1/2), [2(4)](https://www.legislation.gov.uk/nisr/2023/223/regulation/2/4)
+[^c-9904fecf6646cf2216c9d45ffcb05e12]: Textual amendment: [Reg. 16(7)](https://www.legislation.gov.uk/nisr/2016/49/regulation/16/7) inserted (1.1.2024) by [The Working Time (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/223)](https://www.legislation.gov.uk/nisr/2023/223), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/223/regulation/1/2), [2(4)](https://www.legislation.gov.uk/nisr/2023/223/regulation/2/4)
 
-[^key-9bf4ea4e3c4c0f0e16d50cfac9c4fd09]: Textual amendment: Words in [reg. 17(1)](https://www.legislation.gov.uk/nisr/2016/49/regulation/17/1) substituted (24.4.2020) by [The Working Time (Coronavirus) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/68)](https://www.legislation.gov.uk/nisr/2020/68), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/68/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/nisr/2020/68/regulation/2/3/a)
+[^c-9bf4ea4e3c4c0f0e16d50cfac9c4fd09]: Textual amendment: Words in [reg. 17(1)](https://www.legislation.gov.uk/nisr/2016/49/regulation/17/1) substituted (24.4.2020) by [The Working Time (Coronavirus) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/68)](https://www.legislation.gov.uk/nisr/2020/68), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/68/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/nisr/2020/68/regulation/2/3/a)
 
-[^key-9aaba20e9d30b56435d27e977b600df8]: Textual amendment: [Reg. 17(5)](https://www.legislation.gov.uk/nisr/2016/49/regulation/17/5) inserted (24.4.2020) by [The Working Time (Coronavirus) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/68)](https://www.legislation.gov.uk/nisr/2020/68), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/68/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/nisr/2020/68/regulation/2/3/b)
+[^c-9aaba20e9d30b56435d27e977b600df8]: Textual amendment: [Reg. 17(5)](https://www.legislation.gov.uk/nisr/2016/49/regulation/17/5) inserted (24.4.2020) by [The Working Time (Coronavirus) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/68)](https://www.legislation.gov.uk/nisr/2020/68), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/68/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/nisr/2020/68/regulation/2/3/b)
 
-[^key-efe0fa94e490ff18cc41ed6be3232965]: Textual amendment: Words in [reg. 17(5)](https://www.legislation.gov.uk/nisr/2016/49/regulation/17/5) substituted (1.1.2024) by [The Working Time (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/223)](https://www.legislation.gov.uk/nisr/2023/223), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/223/regulation/1/2), [2(5)](https://www.legislation.gov.uk/nisr/2023/223/regulation/2/5)
+[^c-efe0fa94e490ff18cc41ed6be3232965]: Textual amendment: Words in [reg. 17(5)](https://www.legislation.gov.uk/nisr/2016/49/regulation/17/5) substituted (1.1.2024) by [The Working Time (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/223)](https://www.legislation.gov.uk/nisr/2023/223), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/223/regulation/1/2), [2(5)](https://www.legislation.gov.uk/nisr/2023/223/regulation/2/5)
 
-[^key-ec97e524a49383e16b271423d0912cb9]: Textual amendment: Words in [reg. 17(5)](https://www.legislation.gov.uk/nisr/2016/49/regulation/17/5) substituted (4.7.2024) by [The Working Time (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/153)](https://www.legislation.gov.uk/nisr/2024/153), [regs. 1](https://www.legislation.gov.uk/nisr/2024/153/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2024/153/regulation/2/3)
+[^c-ec97e524a49383e16b271423d0912cb9]: Textual amendment: Words in [reg. 17(5)](https://www.legislation.gov.uk/nisr/2016/49/regulation/17/5) substituted (4.7.2024) by [The Working Time (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/153)](https://www.legislation.gov.uk/nisr/2024/153), [regs. 1](https://www.legislation.gov.uk/nisr/2024/153/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2024/153/regulation/2/3)
 
-[^key-ac4bca122bdc039f25ba43f606f69e42]: Textual amendment: Words in [reg. 18(2)(b)](https://www.legislation.gov.uk/nisr/2016/49/regulation/18/2/b) inserted (24.4.2020) by [The Working Time (Coronavirus) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/68)](https://www.legislation.gov.uk/nisr/2020/68), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/68/regulation/1/1), [2(4)](https://www.legislation.gov.uk/nisr/2020/68/regulation/2/4)
+[^c-ac4bca122bdc039f25ba43f606f69e42]: Textual amendment: Words in [reg. 18(2)(b)](https://www.legislation.gov.uk/nisr/2016/49/regulation/18/2/b) inserted (24.4.2020) by [The Working Time (Coronavirus) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/68)](https://www.legislation.gov.uk/nisr/2020/68), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/68/regulation/1/1), [2(4)](https://www.legislation.gov.uk/nisr/2020/68/regulation/2/4)
 
-[^key-4dd5730ea9a30617f0da52c854673559]: Textual amendment: Words in [reg. 20(2)](https://www.legislation.gov.uk/nisr/2016/49/regulation/20/2) inserted (1.1.2024) by [The Working Time (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/223)](https://www.legislation.gov.uk/nisr/2023/223), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/223/regulation/1/2), [2(6)(a)](https://www.legislation.gov.uk/nisr/2023/223/regulation/2/6/a)
+[^c-4dd5730ea9a30617f0da52c854673559]: Textual amendment: Words in [reg. 20(2)](https://www.legislation.gov.uk/nisr/2016/49/regulation/20/2) inserted (1.1.2024) by [The Working Time (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/223)](https://www.legislation.gov.uk/nisr/2023/223), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/223/regulation/1/2), [2(6)(a)](https://www.legislation.gov.uk/nisr/2023/223/regulation/2/6/a)
 
-[^key-30e5f3da3c2bc500e7cdb312679185f3]: Textual amendment: Word in [reg. 20(3)(c)](https://www.legislation.gov.uk/nisr/2016/49/regulation/20/3/c) omitted (1.1.2024) by virtue of [The Working Time (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/223)](https://www.legislation.gov.uk/nisr/2023/223), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/223/regulation/1/2), [2(6)(b)(i)](https://www.legislation.gov.uk/nisr/2023/223/regulation/2/6/b/i)
+[^c-30e5f3da3c2bc500e7cdb312679185f3]: Textual amendment: Word in [reg. 20(3)(c)](https://www.legislation.gov.uk/nisr/2016/49/regulation/20/3/c) omitted (1.1.2024) by virtue of [The Working Time (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/223)](https://www.legislation.gov.uk/nisr/2023/223), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/223/regulation/1/2), [2(6)(b)(i)](https://www.legislation.gov.uk/nisr/2023/223/regulation/2/6/b/i)
 
-[^key-c9280386194b305a2f9c44aba48359d5]: Textual amendment: Word in [reg. 20(3)(d)](https://www.legislation.gov.uk/nisr/2016/49/regulation/20/3/d) substituted (1.1.2024) by [The Working Time (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/223)](https://www.legislation.gov.uk/nisr/2023/223), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/223/regulation/1/2), [2(6)(b)(ii)](https://www.legislation.gov.uk/nisr/2023/223/regulation/2/6/b/ii)
+[^c-c9280386194b305a2f9c44aba48359d5]: Textual amendment: Word in [reg. 20(3)(d)](https://www.legislation.gov.uk/nisr/2016/49/regulation/20/3/d) substituted (1.1.2024) by [The Working Time (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/223)](https://www.legislation.gov.uk/nisr/2023/223), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/223/regulation/1/2), [2(6)(b)(ii)](https://www.legislation.gov.uk/nisr/2023/223/regulation/2/6/b/ii)
 
-[^key-4e81128e0e3b6dcf52d3c097b3cea225]: Textual amendment: [Reg. 20(3)(e)](https://www.legislation.gov.uk/nisr/2016/49/regulation/20/3/e) inserted (1.1.2024) by [The Working Time (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/223)](https://www.legislation.gov.uk/nisr/2023/223), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/223/regulation/1/2), [2(6)(b)(iii)](https://www.legislation.gov.uk/nisr/2023/223/regulation/2/6/b/iii)
+[^c-4e81128e0e3b6dcf52d3c097b3cea225]: Textual amendment: [Reg. 20(3)(e)](https://www.legislation.gov.uk/nisr/2016/49/regulation/20/3/e) inserted (1.1.2024) by [The Working Time (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/223)](https://www.legislation.gov.uk/nisr/2023/223), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/223/regulation/1/2), [2(6)(b)(iii)](https://www.legislation.gov.uk/nisr/2023/223/regulation/2/6/b/iii)
 
-[^key-98e41928814eeacddfc72b0ec3dafc2b]: Textual amendment: [Reg. 20(3A)-(3G)](https://www.legislation.gov.uk/nisr/2016/49/regulation/20/3A) inserted (1.1.2024) by [The Working Time (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/223)](https://www.legislation.gov.uk/nisr/2023/223), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/223/regulation/1/2), [2(6)(c)](https://www.legislation.gov.uk/nisr/2023/223/regulation/2/6/c)
+[^c-98e41928814eeacddfc72b0ec3dafc2b]: Textual amendment: [Reg. 20(3A)-(3G)](https://www.legislation.gov.uk/nisr/2016/49/regulation/20/3A) inserted (1.1.2024) by [The Working Time (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/223)](https://www.legislation.gov.uk/nisr/2023/223), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/223/regulation/1/2), [2(6)(c)](https://www.legislation.gov.uk/nisr/2023/223/regulation/2/6/c)
 
-[^key-61d1e3a7b4159c77621697ede6b15cee]: Textual amendment: Words in reg. 22(1)(a) substituted (6.4.2018) by [The Merchant Shipping (Maritime Labour Convention) (Hours of Work) Regulations 2018 (S.I. 2018/58)](https://www.legislation.gov.uk/uksi/2018/58), [reg. 1](https://www.legislation.gov.uk/uksi/2018/58/regulation/1), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2018/58/schedule/2/paragraph/6) (with [regs. 3](https://www.legislation.gov.uk/uksi/2018/58/regulation/3), [4](https://www.legislation.gov.uk/uksi/2018/58/regulation/4))
+[^c-61d1e3a7b4159c77621697ede6b15cee]: Textual amendment: Words in reg. 22(1)(a) substituted (6.4.2018) by [The Merchant Shipping (Maritime Labour Convention) (Hours of Work) Regulations 2018 (S.I. 2018/58)](https://www.legislation.gov.uk/uksi/2018/58), [reg. 1](https://www.legislation.gov.uk/uksi/2018/58/regulation/1), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2018/58/schedule/2/paragraph/6) (with [regs. 3](https://www.legislation.gov.uk/uksi/2018/58/regulation/3), [4](https://www.legislation.gov.uk/uksi/2018/58/regulation/4))
 
-[^key-e1572977bc555f2dda34f295689346b3]: Textual amendment: Reg. 22(2)(b) substituted (31.12.2020) by [The Employment Rights (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/537)](https://www.legislation.gov.uk/uksi/2019/537), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/537/regulation/1/1), [Sch. para. 9(2)(a)](https://www.legislation.gov.uk/uksi/2019/537/schedule/paragraph/9/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e1572977bc555f2dda34f295689346b3]: Textual amendment: Reg. 22(2)(b) substituted (31.12.2020) by [The Employment Rights (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/537)](https://www.legislation.gov.uk/uksi/2019/537), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/537/regulation/1/1), [Sch. para. 9(2)(a)](https://www.legislation.gov.uk/uksi/2019/537/schedule/paragraph/9/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22818241]: Marginal citation: O.J. No. L302, 1.12.00, p. 57
 
-[^key-865d76d2537dac846eeba767d32e35fc]: Textual amendment: Words in reg. 22(3) substituted (31.12.2020) by [The Employment Rights (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/537)](https://www.legislation.gov.uk/uksi/2019/537), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/537/regulation/1/1), [Sch. para. 9(2)(b)](https://www.legislation.gov.uk/uksi/2019/537/schedule/paragraph/9/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-865d76d2537dac846eeba767d32e35fc]: Textual amendment: Words in reg. 22(3) substituted (31.12.2020) by [The Employment Rights (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/537)](https://www.legislation.gov.uk/uksi/2019/537), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/537/regulation/1/1), [Sch. para. 9(2)(b)](https://www.legislation.gov.uk/uksi/2019/537/schedule/paragraph/9/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22818261]: Marginal citation: S.R [2008 No. 315](https://www.legislation.gov.uk/ukcm/2008/315)
 
@@ -1307,29 +1307,29 @@ Regulations 53 and 54 provide for consequential amendments, the revocation of th
 
 [^c22818311]: Marginal citation: S.R. [1999 No. 90](https://www.legislation.gov.uk/ukcm/1999/90)
 
-[^key-9e4eb90297e1091a1409c2a7afed47c1]: Textual amendment: Word in [reg. 43(2)](https://www.legislation.gov.uk/nisr/2016/49/regulation/43/2) substituted (31.12.2020) by [The Cross-Border Mediation (EU Directive) (EU Exit) Regulations 2019 (S.I. 2019/469)](https://www.legislation.gov.uk/uksi/2019/469), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/469/regulation/1/1), [Sch. 1 para. 22(2)](https://www.legislation.gov.uk/uksi/2019/469/schedule/1/paragraph/22/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/469/regulation/5)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [4(5)(6)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/4/5/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9e4eb90297e1091a1409c2a7afed47c1]: Textual amendment: Word in [reg. 43(2)](https://www.legislation.gov.uk/nisr/2016/49/regulation/43/2) substituted (31.12.2020) by [The Cross-Border Mediation (EU Directive) (EU Exit) Regulations 2019 (S.I. 2019/469)](https://www.legislation.gov.uk/uksi/2019/469), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/469/regulation/1/1), [Sch. 1 para. 22(2)](https://www.legislation.gov.uk/uksi/2019/469/schedule/1/paragraph/22/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/469/regulation/5)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [4(5)(6)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/4/5/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-bf31d14c7fd2b4bc8d75545f5cc5db20]: Textual amendment: [Reg. 44](https://www.legislation.gov.uk/nisr/2016/49/regulation/44) omitted (31.12.2020) by virtue of [The Cross-Border Mediation (EU Directive) (EU Exit) Regulations 2019 (S.I. 2019/469)](https://www.legislation.gov.uk/uksi/2019/469), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/469/regulation/1/1), [Sch. 1 para. 22(3)](https://www.legislation.gov.uk/uksi/2019/469/schedule/1/paragraph/22/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/469/regulation/5)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [4(5)(6)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/4/5/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bf31d14c7fd2b4bc8d75545f5cc5db20]: Textual amendment: [Reg. 44](https://www.legislation.gov.uk/nisr/2016/49/regulation/44) omitted (31.12.2020) by virtue of [The Cross-Border Mediation (EU Directive) (EU Exit) Regulations 2019 (S.I. 2019/469)](https://www.legislation.gov.uk/uksi/2019/469), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/469/regulation/1/1), [Sch. 1 para. 22(3)](https://www.legislation.gov.uk/uksi/2019/469/schedule/1/paragraph/22/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/469/regulation/5)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [4(5)(6)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/4/5/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-77f25c326002c764c82a16a40b28071a]: Textual amendment: [Reg. 44A](https://www.legislation.gov.uk/nisr/2016/49/regulation/44A) inserted (27.1.2020) by [The Industrial Tribunals (1996 Order) (Application of Conciliation Provisions) Order (Northern Ireland) 2020 (S.R. 2020/4)](https://www.legislation.gov.uk/nisr/2020/4), [art. 1](https://www.legislation.gov.uk/nisr/2020/4/article/1), [Sch. para. 58](https://www.legislation.gov.uk/nisr/2020/4/schedule/paragraph/58)
+[^c-77f25c326002c764c82a16a40b28071a]: Textual amendment: [Reg. 44A](https://www.legislation.gov.uk/nisr/2016/49/regulation/44A) inserted (27.1.2020) by [The Industrial Tribunals (1996 Order) (Application of Conciliation Provisions) Order (Northern Ireland) 2020 (S.R. 2020/4)](https://www.legislation.gov.uk/nisr/2020/4), [art. 1](https://www.legislation.gov.uk/nisr/2020/4/article/1), [Sch. para. 58](https://www.legislation.gov.uk/nisr/2020/4/schedule/paragraph/58)
 
-[^key-e6489c09bd69d20b6bb752a771aacc96]: Textual amendment: Words in [reg. 45(2)(a)](https://www.legislation.gov.uk/nisr/2016/49/regulation/45/2/a) substituted (27.1.2020) by [The Industrial Tribunals (1996 Order) (Application of Conciliation Provisions) Order (Northern Ireland) 2020 (S.R. 2020/4)](https://www.legislation.gov.uk/nisr/2020/4), [art. 1](https://www.legislation.gov.uk/nisr/2020/4/article/1), [Sch. para. 59](https://www.legislation.gov.uk/nisr/2020/4/schedule/paragraph/59)
+[^c-e6489c09bd69d20b6bb752a771aacc96]: Textual amendment: Words in [reg. 45(2)(a)](https://www.legislation.gov.uk/nisr/2016/49/regulation/45/2/a) substituted (27.1.2020) by [The Industrial Tribunals (1996 Order) (Application of Conciliation Provisions) Order (Northern Ireland) 2020 (S.R. 2020/4)](https://www.legislation.gov.uk/nisr/2020/4), [art. 1](https://www.legislation.gov.uk/nisr/2020/4/article/1), [Sch. para. 59](https://www.legislation.gov.uk/nisr/2020/4/schedule/paragraph/59)
 
 [^c22818331]: Marginal citation: [S.I. 1996/1921 (N.I. 18)](https://www.legislation.gov.uk/nisi/1996/1921)
 
 [^c22818341]: Marginal citation: [1996 c. 14](https://www.legislation.gov.uk/ukpga/1996/14)
 
-[^key-d45694c5f9da4753edde0ad080b70c8c]: Textual amendment: [Reg. 49(2)(a)](https://www.legislation.gov.uk/nisr/2016/49/regulation/49/2/a) substituted (1.5.2022 for specified purposes, 15.6.2022 in so far as not already in operation) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 3 para. 9(a)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/3/paragraph/9/a); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/d); [S.I. 2022/625](https://www.legislation.gov.uk/uksi/2022/625), [reg. 2](https://www.legislation.gov.uk/uksi/2022/625/regulation/2)
+[^c-d45694c5f9da4753edde0ad080b70c8c]: Textual amendment: [Reg. 49(2)(a)](https://www.legislation.gov.uk/nisr/2016/49/regulation/49/2/a) substituted (1.5.2022 for specified purposes, 15.6.2022 in so far as not already in operation) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 3 para. 9(a)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/3/paragraph/9/a); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/d); [S.I. 2022/625](https://www.legislation.gov.uk/uksi/2022/625), [reg. 2](https://www.legislation.gov.uk/uksi/2022/625/regulation/2)
 
-[^key-183c75f0169a34bd7c94fa8f8fd08dcf]: Textual amendment: [Reg. 49(3)](https://www.legislation.gov.uk/nisr/2016/49/regulation/49/3) substituted (1.5.2022 for specified purposes, 15.6.2022 in so far as not already in operation) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 3 para. 9(b)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/3/paragraph/9/b); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/d); [S.I. 2022/625](https://www.legislation.gov.uk/uksi/2022/625), [reg. 2](https://www.legislation.gov.uk/uksi/2022/625/regulation/2)
+[^c-183c75f0169a34bd7c94fa8f8fd08dcf]: Textual amendment: [Reg. 49(3)](https://www.legislation.gov.uk/nisr/2016/49/regulation/49/3) substituted (1.5.2022 for specified purposes, 15.6.2022 in so far as not already in operation) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 3 para. 9(b)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/3/paragraph/9/b); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/d); [S.I. 2022/625](https://www.legislation.gov.uk/uksi/2022/625), [reg. 2](https://www.legislation.gov.uk/uksi/2022/625/regulation/2)
 
-[^key-00885f28de50c6ab58edb2aa48a1bb7b]: Textual amendment: Words in [reg. 49(3)(c)(i)](https://www.legislation.gov.uk/nisr/2016/49/regulation/49/3/c/i) substituted (1.4.2026) by [Armed Forces Commissioner Act 2025 (c. 23)](https://www.legislation.gov.uk/ukpga/2025/23), [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2), [Sch. 2 para. 26(a)](https://www.legislation.gov.uk/ukpga/2025/23/schedule/2/paragraph/26/a); [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [regs. 2](https://www.legislation.gov.uk/uksi/2026/14/regulation/2), [4(e)](https://www.legislation.gov.uk/uksi/2026/14/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
+[^c-00885f28de50c6ab58edb2aa48a1bb7b]: Textual amendment: Words in [reg. 49(3)(c)(i)](https://www.legislation.gov.uk/nisr/2016/49/regulation/49/3/c/i) substituted (1.4.2026) by [Armed Forces Commissioner Act 2025 (c. 23)](https://www.legislation.gov.uk/ukpga/2025/23), [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2), [Sch. 2 para. 26(a)](https://www.legislation.gov.uk/ukpga/2025/23/schedule/2/paragraph/26/a); [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [regs. 2](https://www.legislation.gov.uk/uksi/2026/14/regulation/2), [4(e)](https://www.legislation.gov.uk/uksi/2026/14/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
 
-[^key-f7f00400bd917f5fed55f0732373f508]: Textual amendment: Word in [reg. 49(3)(c)(ii)](https://www.legislation.gov.uk/nisr/2016/49/regulation/49/3/c/ii) substituted (1.4.2026) by [Armed Forces Commissioner Act 2025 (c. 23)](https://www.legislation.gov.uk/ukpga/2025/23), [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2), [Sch. 2 para. 26(b)](https://www.legislation.gov.uk/ukpga/2025/23/schedule/2/paragraph/26/b); [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [regs. 2](https://www.legislation.gov.uk/uksi/2026/14/regulation/2), [4(e)](https://www.legislation.gov.uk/uksi/2026/14/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
+[^c-f7f00400bd917f5fed55f0732373f508]: Textual amendment: Word in [reg. 49(3)(c)(ii)](https://www.legislation.gov.uk/nisr/2016/49/regulation/49/3/c/ii) substituted (1.4.2026) by [Armed Forces Commissioner Act 2025 (c. 23)](https://www.legislation.gov.uk/ukpga/2025/23), [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2), [Sch. 2 para. 26(b)](https://www.legislation.gov.uk/ukpga/2025/23/schedule/2/paragraph/26/b); [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [regs. 2](https://www.legislation.gov.uk/uksi/2026/14/regulation/2), [4(e)](https://www.legislation.gov.uk/uksi/2026/14/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
 
-[^key-8d17b2dd9a0d00e6241b156caad11f40]: Textual amendment: Words in [reg. 49(4)](https://www.legislation.gov.uk/nisr/2016/49/regulation/49/4) substituted (1.5.2022 for specified purposes, 15.6.2022 in so far as not already in operation) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 3 para. 9(c)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/3/paragraph/9/c); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/d); [S.I. 2022/625](https://www.legislation.gov.uk/uksi/2022/625), [reg. 2](https://www.legislation.gov.uk/uksi/2022/625/regulation/2)
+[^c-8d17b2dd9a0d00e6241b156caad11f40]: Textual amendment: Words in [reg. 49(4)](https://www.legislation.gov.uk/nisr/2016/49/regulation/49/4) substituted (1.5.2022 for specified purposes, 15.6.2022 in so far as not already in operation) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 3 para. 9(c)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/3/paragraph/9/c); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/d); [S.I. 2022/625](https://www.legislation.gov.uk/uksi/2022/625), [reg. 2](https://www.legislation.gov.uk/uksi/2022/625/regulation/2)
 
-[^key-ae3165d80cedeb42a508f72dfa2ff3f8]: Textual amendment: [Reg. 49(5)](https://www.legislation.gov.uk/nisr/2016/49/regulation/49/5) substituted (1.5.2022 for specified purposes, 15.6.2022 in so far as not already in operation) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 3 para. 9(d)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/3/paragraph/9/d); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/d); [S.I. 2022/625](https://www.legislation.gov.uk/uksi/2022/625), [reg. 2](https://www.legislation.gov.uk/uksi/2022/625/regulation/2)
+[^c-ae3165d80cedeb42a508f72dfa2ff3f8]: Textual amendment: [Reg. 49(5)](https://www.legislation.gov.uk/nisr/2016/49/regulation/49/5) substituted (1.5.2022 for specified purposes, 15.6.2022 in so far as not already in operation) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 3 para. 9(d)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/3/paragraph/9/d); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/d); [S.I. 2022/625](https://www.legislation.gov.uk/uksi/2022/625), [reg. 2](https://www.legislation.gov.uk/uksi/2022/625/regulation/2)
 
 [^c22818361]: Marginal citation: S.R. [1991 No. 168](https://www.legislation.gov.uk/ukcm/1991/168)
 

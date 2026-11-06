@@ -28,20 +28,20 @@ summary: ''
 
 (4) For this purpose an intangible asset is a “relevant intangible asset” if the whole or greater part (in terms of value) of it has been created—
 
-- (a)[^key-5b40901b051da8fe24abb29020825187] by the relevant company, or
+- (a)[^c-5b40901b051da8fe24abb29020825187] by the relevant company, or
 - (b) by a company which was a qualifying subsidiary of the relevant company throughout a period during which it created the whole or greater part (in terms of value) of the intangible asset.
 
 (5) In the case of an intangible asset that is intellectual property, references to the creation of an asset by a company are to its creation in circumstances in which the right to exploit it vests in the company (whether alone or jointly with others).
 
 (6) In this section—
 
-- [^key-3309ca34f52a6c9a80b51b2af47ff674]...
+- [^c-3309ca34f52a6c9a80b51b2af47ff674]...
 - “**intangible asset**” means any asset which falls to be treated as an intangible asset in accordance with generally accepted accountancy practice, and
 - “**intellectual property**” means—
   - (a) any patent, trade mark, registered design, copyright, design right, performer's right or plant breeder's right, or
   - (b) any rights under the law of a country or territory outside the United Kingdom which correspond or are similar to those falling within paragraph (a).
 
-(7)[^key-196af511cba012219e7ba6d52f133dc3] If—
+(7)[^c-196af511cba012219e7ba6d52f133dc3] If—
 
 - (a) the relevant company acquired all the shares (“old shares”) in another company (“the old company”) at a time when the only shares issued in the relevant company were subscriber shares, and
 - (b) the consideration for the old shares consisted wholly of the issue of shares in the relevant company,
@@ -50,8 +50,8 @@ references in subsection (4) to the relevant company include the old company.
 
 ## Annotations
 
-[^key-5b40901b051da8fe24abb29020825187]: Textual amendment: S. 306(4)(a)(b) substituted (retrospective to 6.4.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 16 paras. 12(2)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/16/paragraph/12/2), [13](https://www.legislation.gov.uk/ukpga/2007/11/schedule/16/paragraph/13)
+[^c-5b40901b051da8fe24abb29020825187]: Textual amendment: S. 306(4)(a)(b) substituted (retrospective to 6.4.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 16 paras. 12(2)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/16/paragraph/12/2), [13](https://www.legislation.gov.uk/ukpga/2007/11/schedule/16/paragraph/13)
 
-[^key-3309ca34f52a6c9a80b51b2af47ff674]: Textual amendment: Words in s. 306(6) repealed (retrospective to 6.4.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 16 paras. 12(3)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/16/paragraph/12/3), [13](https://www.legislation.gov.uk/ukpga/2007/11/schedule/16/paragraph/13), [Sch. 27 Pt. 2(16)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/16)
+[^c-3309ca34f52a6c9a80b51b2af47ff674]: Textual amendment: Words in s. 306(6) repealed (retrospective to 6.4.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 16 paras. 12(3)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/16/paragraph/12/3), [13](https://www.legislation.gov.uk/ukpga/2007/11/schedule/16/paragraph/13), [Sch. 27 Pt. 2(16)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/16)
 
-[^key-196af511cba012219e7ba6d52f133dc3]: Textual amendment: S. 306(7) inserted (retrospective to 6.4.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 16 paras. 12(4)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/16/paragraph/12/4), [13](https://www.legislation.gov.uk/ukpga/2007/11/schedule/16/paragraph/13)
+[^c-196af511cba012219e7ba6d52f133dc3]: Textual amendment: S. 306(7) inserted (retrospective to 6.4.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 16 paras. 12(4)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/16/paragraph/12/4), [13](https://www.legislation.gov.uk/ukpga/2007/11/schedule/16/paragraph/13)

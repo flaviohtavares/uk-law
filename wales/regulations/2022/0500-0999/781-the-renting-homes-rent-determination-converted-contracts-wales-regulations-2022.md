@@ -45,11 +45,11 @@ Coming into force in accordance with regulation 1
 
 The Welsh Ministers make the following Regulations in exercise of the powers conferred by sections 236(3) and 256(1) and (2)[^f00001] of and paragraph 15(2) of Schedule 12 to the Renting Homes (Wales) Act 2016[^f00002].
 
-## 1. Title and commencement[^key-1cf89b597c158f10a867a0e2b81b941b]
+## 1. Title and commencement[^c-1cf89b597c158f10a867a0e2b81b941b]
 
-The title of these Regulations is the Renting Homes (Rent Determination) (Converted Contracts) (Wales) Regulations 2022 and they come into force on 1 December 2022 (the day on which section 239 of the Act comes into force)[^key-6e09efb8833e3deb6ad71c62eb515e0f] [^f00003].
+The title of these Regulations is the Renting Homes (Rent Determination) (Converted Contracts) (Wales) Regulations 2022 and they come into force on 1 December 2022 (the day on which section 239 of the Act comes into force)[^c-6e09efb8833e3deb6ad71c62eb515e0f] [^f00003].
 
-## 2. Interpretation[^key-5e4abbf5bce99fb100293fbd55d81426][^M_F_5429f911-e8a6-4072-ea58-98831d678b63]
+## 2. Interpretation[^c-5e4abbf5bce99fb100293fbd55d81426][^M_F_5429f911-e8a6-4072-ea58-98831d678b63]
 
 In these Regulations—
 
@@ -72,12 +72,12 @@ In these Regulations—
     - (iii) on the coming to an end of an assured tenancy or an assured agricultural occupancy, at any time during that period, the tenant or licensee (or, in case of joint tenants or licensees, at least one of them) did not quit;
 - “**rent**” (“***rhent***”) does not include—
   - (a) any service charge within the meaning of section 18 of the Landlord and Tenant Act 1985, or
-  - (b) any payments prohibited under section 4 of the Renting Homes (Fees, Discrimination etc.) (Wales) Act 2019[^key-a4b5e875ffe2b84cc3fa6f329a1f4915],
+  - (b) any payments prohibited under section 4 of the Renting Homes (Fees, Discrimination etc.) (Wales) Act 2019[^c-a4b5e875ffe2b84cc3fa6f329a1f4915],
 
   but, subject to that, includes any sums payable by the relevant contract-holder to the landlord on account of the use of furniture, in respect of council tax or for any of the matters referred to in section 18(1)(a) of the Landlord and Tenant Act 1985, whether or not those sums are separate from the sums payable for the occupation of the dwelling concerned or are payable under separate agreements;
 - “**rent assessment committee**” (“***pwyllgor asesu rhenti***”) means a rent assessment committee constituted in accordance with Schedule 10 to the Rent Act 1977.
 
-## 3. Application to a rent assessment committee[^key-6b82cb771bc6fde5fbc0e581dcf3c320]
+## 3. Application to a rent assessment committee[^c-6b82cb771bc6fde5fbc0e581dcf3c320]
 
 (1) Following receipt of a notice under section 104 or 123 of the Act, a relevant contract-holder may apply to a rent assessment committee for a determination of the rent for the dwelling.
 
@@ -90,15 +90,15 @@ In these Regulations—
 
 (4) An application in a form substantially to the same effect as the prescribed form is valid.
 
-## 4. Determination of rent by a rent assessment committee[^key-4580a1b36ef8111c1cc4c5e0e4def6a7]
+## 4. Determination of rent by a rent assessment committee[^c-4580a1b36ef8111c1cc4c5e0e4def6a7]
 
 A rent assessment committee must determine all applications made under regulation 3 in accordance with the assumptions set out in regulation 6.
 
-## 5. Variation of rent upon a determination by a rent assessment committee[^key-f2c4047cab0aea4be468ad1eb546a2fc]
+## 5. Variation of rent upon a determination by a rent assessment committee[^c-f2c4047cab0aea4be468ad1eb546a2fc]
 
 A rent determined by a rent assessment committee, in accordance with the assumptions set out in regulation 6, will be the rent for the dwelling under the relevant converted contract with effect from the date specified in the notice under section 104 or 123 of the Act, unless the landlord and the relevant contract-holder otherwise agree.
 
-## 6. Assumptions in accordance with which a rent assessment committee must determine rent[^key-0810ca0ea16939bf0f67ca279171e104]
+## 6. Assumptions in accordance with which a rent assessment committee must determine rent[^c-0810ca0ea16939bf0f67ca279171e104]
 
 When making a determination of rent for a dwelling under these Regulations, a rent assessment committee must determine the rent at which it considers the dwelling concerned might reasonably be expected to be let in the open market by a willing landlord under an occupation contract of the same type as the relevant converted contract[^M_F_4892f1b0-3f27-4123-d39e-2432a1a9fa5e] to which the notice under section 104 or 123 of the Act relates, assuming that—
 
@@ -115,11 +115,11 @@ When making a determination of rent for a dwelling under these Regulations, a re
   has an effect on the rent, but any discount or other reduction affecting the amount of council tax payable has no effect on the rent, and
 - (f) neither the landlord nor a superior landlord is paying rates in respect of the dwelling.
 
-## 7. Landlord and relevant contract-holder notice to a rent assessment committee[^key-a0199863ef7a7a5471ede493c0abec9d]
+## 7. Landlord and relevant contract-holder notice to a rent assessment committee[^c-a0199863ef7a7a5471ede493c0abec9d]
 
 Nothing in these Regulations requires the rent assessment committee to continue with its determination of a rent for a dwelling under the relevant converted contract if the landlord and relevant contract-holder give notice in writing that they no longer require such a determination or if the relevant converted contract has come to an end.
 
-## 8. Consequential amendments to the Rent Assessment Committees (England and Wales) Regulations 1971[^key-8c5ef94a133eb839ee5f26ed5d75fcbd]
+## 8. Consequential amendments to the Rent Assessment Committees (England and Wales) Regulations 1971[^c-8c5ef94a133eb839ee5f26ed5d75fcbd]
 
 (1) The Rent Assessment Committees (England and Wales) Regulations 1971[^f00012] are amended as follows.
 
@@ -178,7 +178,7 @@ Minister for Climate Change, one of the Welsh Ministers
 
 15 July 2022
 
-## SCHEDULE[^key-f0ac8b17932735a54cbc3396972e557e][^M_F_b89f2325-402c-4992-8c68-b23ce8035a3c]
+## SCHEDULE[^c-f0ac8b17932735a54cbc3396972e557e][^M_F_b89f2325-402c-4992-8c68-b23ce8035a3c]
 
 Regulation 3
 
@@ -212,25 +212,25 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00002]: Footnote: [2016 anaw 1](https://www.legislation.gov.uk/anaw/2016/1). Schedule 12 is introduced by section 240.
 
-[^key-1cf89b597c158f10a867a0e2b81b941b]: Commencement: Reg. 1 in force at 1.12.2022 , see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 13](https://www.legislation.gov.uk/uksi/2022/906/article/13))
+[^c-1cf89b597c158f10a867a0e2b81b941b]: Commencement: Reg. 1 in force at 1.12.2022 , see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 13](https://www.legislation.gov.uk/uksi/2022/906/article/13))
 
-[^key-6e09efb8833e3deb6ad71c62eb515e0f]: Textual amendment: Words in [reg. 1](https://www.legislation.gov.uk/wsi/2022/781/regulation/1) substituted (13.8.2022) by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/wsi/2022/906), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2022/906/article/1/2), [13](https://www.legislation.gov.uk/wsi/2022/906/article/13)
+[^c-6e09efb8833e3deb6ad71c62eb515e0f]: Textual amendment: Words in [reg. 1](https://www.legislation.gov.uk/wsi/2022/781/regulation/1) substituted (13.8.2022) by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/wsi/2022/906), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2022/906/article/1/2), [13](https://www.legislation.gov.uk/wsi/2022/906/article/13)
 
 [^f00003]: Footnote: Section 239 of the Renting Homes (Wales) Act 2016 comes into force on a day appointed by the Welsh Ministers in an order made by statutory instrument.
 
-[^key-5e4abbf5bce99fb100293fbd55d81426]: Commencement: Reg. 2 in force at 1.12.2022 , see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 13](https://www.legislation.gov.uk/uksi/2022/906/article/13))
+[^c-5e4abbf5bce99fb100293fbd55d81426]: Commencement: Reg. 2 in force at 1.12.2022 , see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 13](https://www.legislation.gov.uk/uksi/2022/906/article/13))
 
 [^M_F_5429f911-e8a6-4072-ea58-98831d678b63]: Textual amendment: Reg. 2 substituted (30.11.2022) by [The Renting Homes (Rent Determination) (Converted Contracts) (Wales) (Amendment) Regulations 2022 (S.I. 2022/1078)](https://www.legislation.gov.uk/uksi/2022/1078), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1078/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2022/1078/regulation/3/2)
 
-[^key-a4b5e875ffe2b84cc3fa6f329a1f4915]: Textual amendment: Words in reg. 2 substituted (1.6.2026) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 45(4)(c)](https://www.legislation.gov.uk/ukpga/2025/26/section/45/4/c), [145(3)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/3) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [W.S.I. 2026/6](https://www.legislation.gov.uk/wsi/2026/6), [art. 2(c)](https://www.legislation.gov.uk/wsi/2026/6/article/2/c)
+[^c-a4b5e875ffe2b84cc3fa6f329a1f4915]: Textual amendment: Words in reg. 2 substituted (1.6.2026) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 45(4)(c)](https://www.legislation.gov.uk/ukpga/2025/26/section/45/4/c), [145(3)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/3) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [W.S.I. 2026/6](https://www.legislation.gov.uk/wsi/2026/6), [art. 2(c)](https://www.legislation.gov.uk/wsi/2026/6/article/2/c)
 
-[^key-6b82cb771bc6fde5fbc0e581dcf3c320]: Commencement: Reg. 3 in force at 1.12.2022 , see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 13](https://www.legislation.gov.uk/uksi/2022/906/article/13))
+[^c-6b82cb771bc6fde5fbc0e581dcf3c320]: Commencement: Reg. 3 in force at 1.12.2022 , see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 13](https://www.legislation.gov.uk/uksi/2022/906/article/13))
 
-[^key-4580a1b36ef8111c1cc4c5e0e4def6a7]: Commencement: Reg. 4 in force at 1.12.2022 , see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 13](https://www.legislation.gov.uk/uksi/2022/906/article/13))
+[^c-4580a1b36ef8111c1cc4c5e0e4def6a7]: Commencement: Reg. 4 in force at 1.12.2022 , see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 13](https://www.legislation.gov.uk/uksi/2022/906/article/13))
 
-[^key-f2c4047cab0aea4be468ad1eb546a2fc]: Commencement: Reg. 5 in force at 1.12.2022 , see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 13](https://www.legislation.gov.uk/uksi/2022/906/article/13))
+[^c-f2c4047cab0aea4be468ad1eb546a2fc]: Commencement: Reg. 5 in force at 1.12.2022 , see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 13](https://www.legislation.gov.uk/uksi/2022/906/article/13))
 
-[^key-0810ca0ea16939bf0f67ca279171e104]: Commencement: Reg. 6 in force at 1.12.2022 , see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 13](https://www.legislation.gov.uk/uksi/2022/906/article/13))
+[^c-0810ca0ea16939bf0f67ca279171e104]: Commencement: Reg. 6 in force at 1.12.2022 , see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 13](https://www.legislation.gov.uk/uksi/2022/906/article/13))
 
 [^M_F_4892f1b0-3f27-4123-d39e-2432a1a9fa5e]: Textual amendment: Words in reg. 6 substituted (30.11.2022) by [The Renting Homes (Rent Determination) (Converted Contracts) (Wales) (Amendment) Regulations 2022 (S.I. 2022/1078)](https://www.legislation.gov.uk/uksi/2022/1078), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1078/regulation/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2022/1078/regulation/3/3/b)
 
@@ -244,9 +244,9 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^M_F_c21d282d-e750-4d36-a922-1851027fda7a]: Textual amendment: Words in reg. 6(d) inserted (30.11.2022) by [The Renting Homes (Rent Determination) (Converted Contracts) (Wales) (Amendment) Regulations 2022 (S.I. 2022/1078)](https://www.legislation.gov.uk/uksi/2022/1078), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1078/regulation/1), [3(3)(e)(iii)](https://www.legislation.gov.uk/uksi/2022/1078/regulation/3/3/e/iii)
 
-[^key-a0199863ef7a7a5471ede493c0abec9d]: Commencement: Reg. 7 in force at 1.12.2022 , see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 13](https://www.legislation.gov.uk/uksi/2022/906/article/13))
+[^c-a0199863ef7a7a5471ede493c0abec9d]: Commencement: Reg. 7 in force at 1.12.2022 , see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 13](https://www.legislation.gov.uk/uksi/2022/906/article/13))
 
-[^key-8c5ef94a133eb839ee5f26ed5d75fcbd]: Commencement: Reg. 8 in force at 1.12.2022 , see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 13](https://www.legislation.gov.uk/uksi/2022/906/article/13))
+[^c-8c5ef94a133eb839ee5f26ed5d75fcbd]: Commencement: Reg. 8 in force at 1.12.2022 , see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 13](https://www.legislation.gov.uk/uksi/2022/906/article/13))
 
 [^f00012]: Footnote: [S.I. 1971/1065](https://www.legislation.gov.uk/uksi/1971/1065).
 
@@ -274,6 +274,6 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^M_F_77d19ad8-5954-446f-f3e2-a5fad23aee45]: Textual amendment: Reg. 8(5)(a) substituted (30.11.2022) by [The Renting Homes (Rent Determination) (Converted Contracts) (Wales) (Amendment) Regulations 2022 (S.I. 2022/1078)](https://www.legislation.gov.uk/uksi/2022/1078), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1078/regulation/1), [3(4)(c)](https://www.legislation.gov.uk/uksi/2022/1078/regulation/3/4/c)
 
-[^key-f0ac8b17932735a54cbc3396972e557e]: Commencement: Sch. in force at 1.12.2022 , see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 13](https://www.legislation.gov.uk/uksi/2022/906/article/13))
+[^c-f0ac8b17932735a54cbc3396972e557e]: Commencement: Sch. in force at 1.12.2022 , see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 13](https://www.legislation.gov.uk/uksi/2022/906/article/13))
 
 [^M_F_b89f2325-402c-4992-8c68-b23ce8035a3c]: Textual amendment: Sch.: in the prescribed form, after “8. Improvements”, for paragraph (a) there is substituted "(a) Have you or any former tenant(s) or licensee(s) carried out improvements or replaced fixtures, fittings or furniture for which you or they were NOT responsible under the terms of the tenancy or licence/occupation contract?" (30.11.2022) by [The Renting Homes (Rent Determination) (Converted Contracts) (Wales) (Amendment) Regulations 2022 (S.I. 2022/1078)](https://www.legislation.gov.uk/uksi/2022/1078), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1078/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2022/1078/regulation/3/5)

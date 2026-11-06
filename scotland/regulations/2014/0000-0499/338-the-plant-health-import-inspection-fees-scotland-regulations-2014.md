@@ -58,17 +58,17 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 
 (1) In these Regulations—
 
-- [^key-f56c1b7102133a89418cf39fd2c024b7]...
-- [^key-ff3f9c577f240e2e562cba4e1063eab2]...
-- [^key-e565bce21f31537a0c1397af0e9bf202]...
-- [^key-51f01ce2d3126105b9e1f11ea1e58679]...
-- [^key-59b8460df0ab777798c508cc2417352f]...
-- [^key-5877fa978d1f88b584cfc4800aab97fa]...
-- “[^key-3e5b04c4ed9e244416545e4c60f27dc7]**European Union**” means the territories of the Member States [^key-449b9cc2a2d53c35027912b4a8588a73]... excluding Canary Islands, Ceuta, Melilla, Guadeloupe, French Guiana, Martinique, Réunion, Saint-Barthélemy and Saint-Martin
-- [^key-8ed71db4ae40a8b4694517dc9dff73fb]...
-- [^key-41b2dc326b5be55388377b690715d9bc]...
+- [^c-f56c1b7102133a89418cf39fd2c024b7]...
+- [^c-ff3f9c577f240e2e562cba4e1063eab2]...
+- [^c-e565bce21f31537a0c1397af0e9bf202]...
+- [^c-51f01ce2d3126105b9e1f11ea1e58679]...
+- [^c-59b8460df0ab777798c508cc2417352f]...
+- [^c-5877fa978d1f88b584cfc4800aab97fa]...
+- “[^c-3e5b04c4ed9e244416545e4c60f27dc7]**European Union**” means the territories of the Member States [^c-449b9cc2a2d53c35027912b4a8588a73]... excluding Canary Islands, Ceuta, Melilla, Guadeloupe, French Guiana, Martinique, Réunion, Saint-Barthélemy and Saint-Martin
+- [^c-8ed71db4ae40a8b4694517dc9dff73fb]...
+- [^c-41b2dc326b5be55388377b690715d9bc]...
 - “**landed in Scotland**” means introduced into Scotland by any means, including by post;
-- “lot” means a number of units of a single commodity, identifiable by its homogeneity of composition and origin and forming part of a consignment,[^key-c966637ac8bbc2aff6eda624300c7141]
+- “lot” means a number of units of a single commodity, identifiable by its homogeneity of composition and origin and forming part of a consignment,[^c-c966637ac8bbc2aff6eda624300c7141]
 - “**normal working hours**” means any time between the hours of 6 a.m. to 5 p.m. on any day except—
   - (a) a Saturday;
   - (b) a Sunday;
@@ -76,62 +76,62 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
   - (d) 26th December, if it is not a Saturday or Sunday;
   - (e) 27th December, in a year in which 25th or 26th December is a Sunday; or
   - (f) a day which is a bank holiday in Scotland under the Banking and Financial Dealings Act 1971 [^c22271151];
-- “Official Controls Regulation” means Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations[^key-64288b66479a3aa7790004d90f12c1de] [(EC) No 999/2001](https://www.legislation.gov.uk/eur/2001/0999), [(EC) No 396/2005](https://www.legislation.gov.uk/eur/2005/0396), [(EC) No 1069/2009](https://www.legislation.gov.uk/eur/2009/1069), [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107), (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations [(EC) No 1/2005](https://www.legislation.gov.uk/eur/2005/0001) and [(EC) No 1099/2009](https://www.legislation.gov.uk/eur/2009/1099) and Council Directives [98/58/EC](https://www.legislation.gov.uk/eudr/1998/58), [1999/74/EC](https://www.legislation.gov.uk/eudr/1999/74), [2007/43/EC](https://www.legislation.gov.uk/eudr/2007/43), [2008/119/EC](https://www.legislation.gov.uk/eudr/2008/119) and [2008/120/EC](https://www.legislation.gov.uk/eudr/2008/120), and repealing Regulations [(EC) No 854/2004](https://www.legislation.gov.uk/eur/2004/0854) and [(EC) No 882/2004](https://www.legislation.gov.uk/eur/2004/0882) of the European Parliament and of the Council, Council Directives [89/608/EEC](https://www.legislation.gov.uk/eudr/1989/608), [89/662/EEC](https://www.legislation.gov.uk/eudr/1989/662), [90/425/EEC](https://www.legislation.gov.uk/eudr/1990/425), [91/496/EEC](https://www.legislation.gov.uk/eudr/1991/496), [96/23/EC](https://www.legislation.gov.uk/eudr/1996/23), [96/93/EC](https://www.legislation.gov.uk/eudr/1996/93) and [97/78/EC](https://www.legislation.gov.uk/eudr/1997/78) and Council [Decision 92/438/EEC](https://www.legislation.gov.uk/eud/1992/0438), insofar as it applies to rules referred to Article 1(2)(g) of that Regulation;
-- “Plant Health Regulation” means Regulation (EU) 2016/2031 of the European Parliament of the Council on protective measures against pests of plants, amending Regulations (EU) No 228/2013, (EU) No 652/2014 and (EU) No 1143/2014 of the European Parliament and of the Council and repealing Council Directives[^key-d9ef97eeea6567b68c5aad28fc9dab2d] [69/464/EEC](https://www.legislation.gov.uk/european/directive/1969/0464), [74/647/EEC](https://www.legislation.gov.uk/european/directive/1974/0647), [93/85/EEC](https://www.legislation.gov.uk/european/directive/1993/0085), [98/57/EC](https://www.legislation.gov.uk/european/directive/1998/0057), [2000/29/EC](https://www.legislation.gov.uk/european/directive/2000/0029), [2006/91/EC](https://www.legislation.gov.uk/european/directive/2006/0091) and [2007/33/EC](https://www.legislation.gov.uk/european/directive/2007/0033).
-- “[^key-2b3ddd7d2445528826ea447603ce85b1]**Relevant ports**” means any of the following seaports—
+- “Official Controls Regulation” means Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations[^c-64288b66479a3aa7790004d90f12c1de] [(EC) No 999/2001](https://www.legislation.gov.uk/eur/2001/0999), [(EC) No 396/2005](https://www.legislation.gov.uk/eur/2005/0396), [(EC) No 1069/2009](https://www.legislation.gov.uk/eur/2009/1069), [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107), (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations [(EC) No 1/2005](https://www.legislation.gov.uk/eur/2005/0001) and [(EC) No 1099/2009](https://www.legislation.gov.uk/eur/2009/1099) and Council Directives [98/58/EC](https://www.legislation.gov.uk/eudr/1998/58), [1999/74/EC](https://www.legislation.gov.uk/eudr/1999/74), [2007/43/EC](https://www.legislation.gov.uk/eudr/2007/43), [2008/119/EC](https://www.legislation.gov.uk/eudr/2008/119) and [2008/120/EC](https://www.legislation.gov.uk/eudr/2008/120), and repealing Regulations [(EC) No 854/2004](https://www.legislation.gov.uk/eur/2004/0854) and [(EC) No 882/2004](https://www.legislation.gov.uk/eur/2004/0882) of the European Parliament and of the Council, Council Directives [89/608/EEC](https://www.legislation.gov.uk/eudr/1989/608), [89/662/EEC](https://www.legislation.gov.uk/eudr/1989/662), [90/425/EEC](https://www.legislation.gov.uk/eudr/1990/425), [91/496/EEC](https://www.legislation.gov.uk/eudr/1991/496), [96/23/EC](https://www.legislation.gov.uk/eudr/1996/23), [96/93/EC](https://www.legislation.gov.uk/eudr/1996/93) and [97/78/EC](https://www.legislation.gov.uk/eudr/1997/78) and Council [Decision 92/438/EEC](https://www.legislation.gov.uk/eud/1992/0438), insofar as it applies to rules referred to Article 1(2)(g) of that Regulation;
+- “Plant Health Regulation” means Regulation (EU) 2016/2031 of the European Parliament of the Council on protective measures against pests of plants, amending Regulations (EU) No 228/2013, (EU) No 652/2014 and (EU) No 1143/2014 of the European Parliament and of the Council and repealing Council Directives[^c-d9ef97eeea6567b68c5aad28fc9dab2d] [69/464/EEC](https://www.legislation.gov.uk/european/directive/1969/0464), [74/647/EEC](https://www.legislation.gov.uk/european/directive/1974/0647), [93/85/EEC](https://www.legislation.gov.uk/european/directive/1993/0085), [98/57/EC](https://www.legislation.gov.uk/european/directive/1998/0057), [2000/29/EC](https://www.legislation.gov.uk/european/directive/2000/0029), [2006/91/EC](https://www.legislation.gov.uk/european/directive/2006/0091) and [2007/33/EC](https://www.legislation.gov.uk/european/directive/2007/0033).
+- “[^c-2b3ddd7d2445528826ea447603ce85b1]**Relevant ports**” means any of the following seaports—
   - (a) Ayr;
   - (b) Cairnryan;
   - (c) Greenock.
-- [^key-a0b023ba1f19c16975dfa6af2c086cc5]...
-- [^key-893e48de910c6658e74c2bb5511631d1]...
-- [^key-90c06b8f0cba2e6f1ce5daa49285633b]...
-- [^key-5877fa978d1f88b584cfc4800aab97fa]...
+- [^c-a0b023ba1f19c16975dfa6af2c086cc5]...
+- [^c-893e48de910c6658e74c2bb5511631d1]...
+- [^c-90c06b8f0cba2e6f1ce5daa49285633b]...
+- [^c-5877fa978d1f88b584cfc4800aab97fa]...
 
-(2)[^key-169ceea168a861bc76c7154aeda76464] A reference in these Regulations to anything done in writing or produced in written form includes a reference to an electronic communication, as defined in section 15(1) of the Electronic Communications Act 2000 [^c22271161], which has been recorded and is consequently capable of being reproduced.
+(2)[^c-169ceea168a861bc76c7154aeda76464] A reference in these Regulations to anything done in writing or produced in written form includes a reference to an electronic communication, as defined in section 15(1) of the Electronic Communications Act 2000 [^c22271161], which has been recorded and is consequently capable of being reproduced.
 
-(3)[^key-d9f6721b73d42152f14177f0bb61d84d] Unless the context otherwise requires, words and expressions which are not defined in these Regulations and which appear in the [^key-3150d5975f0e18f24d4cd5e7f29727ca]... Plant Health Regulation or the Official Controls Regulation have the same meaning in these Regulations as in the [^key-3150d5975f0e18f24d4cd5e7f29727ca]... Plant Health Regulation or, as the case may be, in the Official Controls Regulation.
+(3)[^c-d9f6721b73d42152f14177f0bb61d84d] Unless the context otherwise requires, words and expressions which are not defined in these Regulations and which appear in the [^c-3150d5975f0e18f24d4cd5e7f29727ca]... Plant Health Regulation or the Official Controls Regulation have the same meaning in these Regulations as in the [^c-3150d5975f0e18f24d4cd5e7f29727ca]... Plant Health Regulation or, as the case may be, in the Official Controls Regulation.
 
 ## 3. Application of the import inspection fee
 
-(1)[^key-dab7b5070611afde6db6cb795e7625d3] An importer of a consignment to which this regulation applies must pay to the Scottish Ministers the fees specified in regulation 4.
+(1)[^c-dab7b5070611afde6db6cb795e7625d3] An importer of a consignment to which this regulation applies must pay to the Scottish Ministers the fees specified in regulation 4.
 
 (2) This regulation applies to a consignment, or to such part of a consignment, which—
 
-- (a)[^key-3479bb958b4ee916f55b16c00015927f] consists of plants, plant products and other objects of a description specified in the second column of Schedule 1 and that are listed in Part A of Annex 11 or in Annex 12 to the Phytosanitary Conditions Regulation, as amended from time to time;  and
-- (b)[^key-ef7a5b05f5e6ddecfb95c849b985c648] is—
-  - (i) landed in Scotland from a third country, [^key-06f40727878bbb658dd17b0ef9623127]... or
+- (a)[^c-3479bb958b4ee916f55b16c00015927f] consists of plants, plant products and other objects of a description specified in the second column of Schedule 1 and that are listed in Part A of Annex 11 or in Annex 12 to the Phytosanitary Conditions Regulation, as amended from time to time;  and
+- (b)[^c-ef7a5b05f5e6ddecfb95c849b985c648] is—
+  - (i) landed in Scotland from a third country, [^c-06f40727878bbb658dd17b0ef9623127]... or
   - (ii) subject to any agreement made under the provisions of any legislation that establishes the cases where, and the conditions under which, identity checks and physical checks of transhipped consignments and of animals arriving by air or sea and staying on the same means of transport for onward travel may be performed at a border control post other than the one of first arrival under Article 51(1) (specific rules for official controls at border inspection posts) of the Official Controls Regulation.
 
-## 4. Fees[^key-3db445de313997c501796e0ea42e7ef3][^key-52b7df296046eb5851008c50f35a3608]
+## 4. Fees[^c-3db445de313997c501796e0ea42e7ef3][^c-52b7df296046eb5851008c50f35a3608]
 
-(1) Subject to paragraph (8), the fee specified for a physical check for a consignment, or such part of a consignment, consisting of plants, plant products or other objects—[^key-44bd19b76b8f631fbfd6904cfa8cb4a1]
+(1) Subject to paragraph (8), the fee specified for a physical check for a consignment, or such part of a consignment, consisting of plants, plant products or other objects—[^c-44bd19b76b8f631fbfd6904cfa8cb4a1]
 
-- (a) during normal working hours, is the fee specified in the fifth[^key-cfc22710291504f9d9cc9d08d7917fc1] column of schedule 1 and corresponding to the relevant plants, plant products or other objects as described in the second column of that schedule, or
-- (b) outside normal working hours, is the fee specified in the sixth[^key-60b8866e3e0b30173fd47450b97e41df] column of schedule 1 and corresponding to the relevant plants, plant products or other objects as described in the second column of that schedule.
+- (a) during normal working hours, is the fee specified in the fifth[^c-cfc22710291504f9d9cc9d08d7917fc1] column of schedule 1 and corresponding to the relevant plants, plant products or other objects as described in the second column of that schedule, or
+- (b) outside normal working hours, is the fee specified in the sixth[^c-60b8866e3e0b30173fd47450b97e41df] column of schedule 1 and corresponding to the relevant plants, plant products or other objects as described in the second column of that schedule.
 
-(2)[^key-d059ee6e9360053483842eacd1503e23] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-d059ee6e9360053483842eacd1503e23] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-d059ee6e9360053483842eacd1503e23] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-d059ee6e9360053483842eacd1503e23] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-d059ee6e9360053483842eacd1503e23] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-d059ee6e9360053483842eacd1503e23] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-d059ee6e9360053483842eacd1503e23] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-d059ee6e9360053483842eacd1503e23] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-8214d8237efeef4d9238cdb583755710][^key-35fa8175762cb56602fb6fae050bc0e6] Subject to paragraph (8), the fee specified for a documentary check for a consignment or such part of a consignment consisting of plants, plant products or other objects is—
+(6)[^c-8214d8237efeef4d9238cdb583755710][^c-35fa8175762cb56602fb6fae050bc0e6] Subject to paragraph (8), the fee specified for a documentary check for a consignment or such part of a consignment consisting of plants, plant products or other objects is—
 
 - (a) in the case of a consignment originating in an EU Member State, Liechtenstein or Switzerland and containing only plants or plant products falling within column 1 of table 3 of schedule 2A, the fee specified for that check in the second column of that table, or
 - (b) in any other case, £6.00.
 
 (7) Subject to paragraph (8), the fee specified for an identity check for a consignment or such part of a consignment, consisting of any plants, plant products or other objects is the fee specified for that check in the seventh column of the table in schedule 1.
 
-(8)[^key-b18b80464c4d481c7e1a74b2ba7f666d] No fee is payable under paragraphs (1), (6) and (7) in respect of—
+(8)[^c-b18b80464c4d481c7e1a74b2ba7f666d] No fee is payable under paragraphs (1), (6) and (7) in respect of—
 
-- (a) goods in a consignment originating in an EU Member State, Liechtenstein or Switzerland listed in the table in schedule 2A to the Plant Health (Amendment etc.) (EU Exit) Regulations 2020 imported before 1st July 2025[^key-edcd9e6d44d5c69c2e9f377a502d8fad]; or
-- (b) a consignment originating in an EU Member State, Liechtenstein or Switzerland consisting solely of plants, plant products and other objects referred to in the lists established pursuant to Article 72(1) of [Regulation (EU) 2016/2031](https://www.legislation.gov.uk/european/regulation/2016/2031), imported into Scotland through a relevant port before 1st July 2025[^key-1df975b934d726fdce3d01fdf9d61178].
+- (a) goods in a consignment originating in an EU Member State, Liechtenstein or Switzerland listed in the table in schedule 2A to the Plant Health (Amendment etc.) (EU Exit) Regulations 2020 imported before 1st July 2025[^c-edcd9e6d44d5c69c2e9f377a502d8fad]; or
+- (b) a consignment originating in an EU Member State, Liechtenstein or Switzerland consisting solely of plants, plant products and other objects referred to in the lists established pursuant to Article 72(1) of [Regulation (EU) 2016/2031](https://www.legislation.gov.uk/european/regulation/2016/2031), imported into Scotland through a relevant port before 1st July 2025[^c-1df975b934d726fdce3d01fdf9d61178].
 
-(9)[^key-153d3a3760ba7d1654a1834b2ddfc4c4] Paragraph (8) does not apply where the consignment originated in Liechtenstein and includes any goods falling within the table in schedule 2A and also within schedule 1 to the Official Controls (Plant Health) (Frequency of Checks) Regulations 2022.
+(9)[^c-153d3a3760ba7d1654a1834b2ddfc4c4] Paragraph (8) does not apply where the consignment originated in Liechtenstein and includes any goods falling within the table in schedule 2A and also within schedule 1 to the Official Controls (Plant Health) (Frequency of Checks) Regulations 2022.
 
-## 5. Additional fees in respect of Potatoes Originating in Egypt and Lebanon[^key-46e74b1667fa90ef3f08727059e74b50]
+## 5. Additional fees in respect of Potatoes Originating in Egypt and Lebanon[^c-46e74b1667fa90ef3f08727059e74b50]
 
 (1) Where paragraph (2) applies, an importer must pay to the Scottish Ministers the fee specified in the fourth column of schedule 3, in addition to any fee payable in accordance with regulations 3 and 4.
 
@@ -141,7 +141,7 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 
 (1) Subject to paragraph (2), the following regulations are revoked:—
 
-- (a)[^key-6d73b3afd1ebc3cdbd049b5dc846b4e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-6d73b3afd1ebc3cdbd049b5dc846b4e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) the Plant Health (Import Inspection Fees) (Scotland) Regulations 2005 [^c22271231];
 - (c) the Plant Health (Import Inspection Fees) (Scotland) Amendment Regulations 2007 [^c22271241];
 - (d) the Plant Health (Import Inspection Fees) (Scotland) Amendment (No. 2) Regulations 2007 [^c22271251];
@@ -150,7 +150,7 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 - (g) the Plant Health (Import Inspection Fees) (Scotland) Amendment Regulations 2010 [^c22271281]; and
 - (h) the Plant Health (Import Inspection Fees) (Scotland) Amendment Regulations 2011 [^c22271291].
 
-(2) Despite paragraph (1), an importer must pay to the Scottish Ministers any fee which is payable under [^key-1f2c0c29f47c239b62fe7eeb79abd873]... regulation 4 of the Plant Health (Import Inspection Fees) (Scotland) Regulations 2005 in respect of a consignment, or part of a consignment, which was landed in Scotland prior to the coming into force of these Regulations.
+(2) Despite paragraph (1), an importer must pay to the Scottish Ministers any fee which is payable under [^c-1f2c0c29f47c239b62fe7eeb79abd873]... regulation 4 of the Plant Health (Import Inspection Fees) (Scotland) Regulations 2005 in respect of a consignment, or part of a consignment, which was landed in Scotland prior to the coming into force of these Regulations.
 
 RICHARD LOCHHEAD
 
@@ -160,7 +160,7 @@ St Andrew's House,
 
 Edinburgh
 
-## SCHEDULE 1 — IMPORT INSPECTION FEES FOR PHYSICAL AND IDENTITY CHECKS[^key-63bf1356e5aa11748566e60518aacdcb]
+## SCHEDULE 1 — IMPORT INSPECTION FEES FOR PHYSICAL AND IDENTITY CHECKS[^c-63bf1356e5aa11748566e60518aacdcb]
 
 Regulations 3, 4(1) and 4(7)
 
@@ -366,7 +366,7 @@ Regulations 3, 4(1) and 4(7)
 
 [^f01000][^f01000][^f01000][^f01003][^f01001][^f01000][^f01002][^f01002][^f01002][^f01002][^f01002][^f01002]
 
-## SCHEDULE 1A — IMPORT INSPECTION FEES FOR PHYSICAL CHECKS ON CONSIGNMENTS ORIGINATING IN THE EUROPEAN UNION, LIECHTENSTEIN OR SWITZERLAND[^key-8771d79b06d87c7898c5d18e05d4cd7f]
+## SCHEDULE 1A — IMPORT INSPECTION FEES FOR PHYSICAL CHECKS ON CONSIGNMENTS ORIGINATING IN THE EUROPEAN UNION, LIECHTENSTEIN OR SWITZERLAND[^c-8771d79b06d87c7898c5d18e05d4cd7f]
 
 **No longer in force.**
 
@@ -374,31 +374,31 @@ Regulations 3 and 4(1)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — LIST OF PLANTS AND PLANT PRODUCTS ORIGINATING IN AN EU MEMBER STATE, LIECHTENSTEIN OR SWITZERLAND NOT SUBJECT TO FEES FOR DOCUMENTARY, IDENTITY AND PHYSICAL CHECKS[^key-445475a2e28440fe57cf56ec4a98ccdc]
+## SCHEDULE 2 — LIST OF PLANTS AND PLANT PRODUCTS ORIGINATING IN AN EU MEMBER STATE, LIECHTENSTEIN OR SWITZERLAND NOT SUBJECT TO FEES FOR DOCUMENTARY, IDENTITY AND PHYSICAL CHECKS[^c-445475a2e28440fe57cf56ec4a98ccdc]
 
 **No longer in force.**
 
 Regulation 4(8)
 
-**1.**[^key-445475a2e28440fe57cf56ec4a98ccdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-445475a2e28440fe57cf56ec4a98ccdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-445475a2e28440fe57cf56ec4a98ccdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-445475a2e28440fe57cf56ec4a98ccdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-445475a2e28440fe57cf56ec4a98ccdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-445475a2e28440fe57cf56ec4a98ccdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-445475a2e28440fe57cf56ec4a98ccdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-445475a2e28440fe57cf56ec4a98ccdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-445475a2e28440fe57cf56ec4a98ccdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-445475a2e28440fe57cf56ec4a98ccdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-445475a2e28440fe57cf56ec4a98ccdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-445475a2e28440fe57cf56ec4a98ccdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-445475a2e28440fe57cf56ec4a98ccdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-445475a2e28440fe57cf56ec4a98ccdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-445475a2e28440fe57cf56ec4a98ccdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-445475a2e28440fe57cf56ec4a98ccdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-445475a2e28440fe57cf56ec4a98ccdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-445475a2e28440fe57cf56ec4a98ccdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2ZA — REDUCED IMPORT INSPECTION FEES FOR OTHER CONSIGNMENTS ORIGINATING IN THE EUROPEAN UNION, LIECHTENSTEIN OR SWITZERLAND[^key-02ab99a5d915f8201a2218dc25fd5317]
+## SCHEDULE 2ZA — REDUCED IMPORT INSPECTION FEES FOR OTHER CONSIGNMENTS ORIGINATING IN THE EUROPEAN UNION, LIECHTENSTEIN OR SWITZERLAND[^c-02ab99a5d915f8201a2218dc25fd5317]
 
 **No longer in force.**
 
@@ -406,7 +406,7 @@ Regulations 3 and 4(5)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2A — IMPORT INSPECTION FEES FOR DOCUMENTARY CHECKS ON PLANTS AND PLANT PRODUCTS ORIGINATING IN THE EUROPEAN UNION, LIECHTENSTEIN OR SWITZERLAND[^key-866d1301b33a4da606e8e3bfc3c34a54]
+## SCHEDULE 2A — IMPORT INSPECTION FEES FOR DOCUMENTARY CHECKS ON PLANTS AND PLANT PRODUCTS ORIGINATING IN THE EUROPEAN UNION, LIECHTENSTEIN OR SWITZERLAND[^c-866d1301b33a4da606e8e3bfc3c34a54]
 
 Regulation 4(6)
 
@@ -437,7 +437,7 @@ Table 3
 </tbody>
 </table>
 
-## SCHEDULE 3 — ADDITIONAL FEES[^key-0c0498b7604c735cbe834b428289a2eb]
+## SCHEDULE 3 — ADDITIONAL FEES[^c-0c0498b7604c735cbe834b428289a2eb]
 
 Regulation 5
 
@@ -452,7 +452,7 @@ Regulation 5
 </tbody>
 </table>
 
-[^key-80210d930a61a3518659c3c6cbec81ef][^key-ea46f5e7ed299c272e0b0302ea047af4]
+[^c-80210d930a61a3518659c3c6cbec81ef][^c-ea46f5e7ed299c272e0b0302ea047af4]
 
 *(This note is not part of the Regulations)*
 
@@ -564,85 +564,85 @@ A business and regulatory impact assessment has been prepared, and placed in the
 
 [^c22271131]: Marginal citation: OJ L 169, 10.7.2000, p.1, as last amended by Regulation (EU) No 652/2014 (OJ L 189, 27.6.2014, p.1).
 
-[^key-f56c1b7102133a89418cf39fd2c024b7]: Textual amendment: Words in reg. 2(1) omitted (22.2.2020) by virtue of [The Plant Health (Import Inspection Fees) (Scotland) Amendment (No. 2) Regulations 2019 (S.S.I. 2019/425)](https://www.legislation.gov.uk/ssi/2019/425), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/425/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2019/425/regulation/2/2/a)
+[^c-f56c1b7102133a89418cf39fd2c024b7]: Textual amendment: Words in reg. 2(1) omitted (22.2.2020) by virtue of [The Plant Health (Import Inspection Fees) (Scotland) Amendment (No. 2) Regulations 2019 (S.S.I. 2019/425)](https://www.legislation.gov.uk/ssi/2019/425), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/425/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2019/425/regulation/2/2/a)
 
-[^key-ff3f9c577f240e2e562cba4e1063eab2]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2014/338/regulation/2/1) omitted (31.12.2020) by virtue of [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/a), [3(2)(a)(i)](https://www.legislation.gov.uk/ssi/2020/466/regulation/3/2/a/i) (with [reg. 32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))
+[^c-ff3f9c577f240e2e562cba4e1063eab2]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2014/338/regulation/2/1) omitted (31.12.2020) by virtue of [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/a), [3(2)(a)(i)](https://www.legislation.gov.uk/ssi/2020/466/regulation/3/2/a/i) (with [reg. 32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))
 
-[^key-e565bce21f31537a0c1397af0e9bf202]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2014/338/regulation/2/1) omitted (31.12.2020) by virtue of [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/a), [3(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2020/466/regulation/3/2/a/ii) (with [reg. 32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))
+[^c-e565bce21f31537a0c1397af0e9bf202]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2014/338/regulation/2/1) omitted (31.12.2020) by virtue of [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/a), [3(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2020/466/regulation/3/2/a/ii) (with [reg. 32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))
 
-[^key-51f01ce2d3126105b9e1f11ea1e58679]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2014/338/regulation/2/1) omitted (31.12.2020) by virtue of [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/a), [3(2)(a)(iii)](https://www.legislation.gov.uk/ssi/2020/466/regulation/3/2/a/iii) (with [reg. 32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))
+[^c-51f01ce2d3126105b9e1f11ea1e58679]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2014/338/regulation/2/1) omitted (31.12.2020) by virtue of [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/a), [3(2)(a)(iii)](https://www.legislation.gov.uk/ssi/2020/466/regulation/3/2/a/iii) (with [reg. 32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))
 
-[^key-59b8460df0ab777798c508cc2417352f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2014/338/regulation/2/1) omitted (31.12.2020) by virtue of [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [regs. 1(1)(c)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/c), [7(2)(a)(i)](https://www.legislation.gov.uk/ssi/2020/466/regulation/7/2/a/i) (with [regs. 31(b)](https://www.legislation.gov.uk/ssi/2020/466/regulation/31/b), [32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))
+[^c-59b8460df0ab777798c508cc2417352f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2014/338/regulation/2/1) omitted (31.12.2020) by virtue of [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [regs. 1(1)(c)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/c), [7(2)(a)(i)](https://www.legislation.gov.uk/ssi/2020/466/regulation/7/2/a/i) (with [regs. 31(b)](https://www.legislation.gov.uk/ssi/2020/466/regulation/31/b), [32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))
 
-[^key-5877fa978d1f88b584cfc4800aab97fa]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2014/338/regulation/2) omitted (22.7.2022) by virtue of [The Plant Health (Fees) (Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/230)](https://www.legislation.gov.uk/ssi/2022/230), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/230/regulation/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2022/230/regulation/2/2)
+[^c-5877fa978d1f88b584cfc4800aab97fa]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2014/338/regulation/2) omitted (22.7.2022) by virtue of [The Plant Health (Fees) (Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/230)](https://www.legislation.gov.uk/ssi/2022/230), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/230/regulation/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2022/230/regulation/2/2)
 
-[^key-3e5b04c4ed9e244416545e4c60f27dc7]: Textual amendment: Words in reg. 2(1) inserted (22.2.2020) by [The Plant Health (Import Inspection Fees) (Scotland) Amendment (No. 2) Regulations 2019 (S.S.I. 2019/425)](https://www.legislation.gov.uk/ssi/2019/425), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/425/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2019/425/regulation/2/2/b)
+[^c-3e5b04c4ed9e244416545e4c60f27dc7]: Textual amendment: Words in reg. 2(1) inserted (22.2.2020) by [The Plant Health (Import Inspection Fees) (Scotland) Amendment (No. 2) Regulations 2019 (S.S.I. 2019/425)](https://www.legislation.gov.uk/ssi/2019/425), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/425/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2019/425/regulation/2/2/b)
 
-[^key-449b9cc2a2d53c35027912b4a8588a73]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2014/338/regulation/2/1) omitted (31.12.2020) by virtue of [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [regs. 1(1)(c)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/c), [7(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2020/466/regulation/7/2/a/ii) (with [regs. 31(b)](https://www.legislation.gov.uk/ssi/2020/466/regulation/31/b), [32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))
+[^c-449b9cc2a2d53c35027912b4a8588a73]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2014/338/regulation/2/1) omitted (31.12.2020) by virtue of [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [regs. 1(1)(c)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/c), [7(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2020/466/regulation/7/2/a/ii) (with [regs. 31(b)](https://www.legislation.gov.uk/ssi/2020/466/regulation/31/b), [32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))
 
-[^key-8ed71db4ae40a8b4694517dc9dff73fb]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2014/338/regulation/2/1) omitted (31.12.2020) by virtue of [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/a), [3(2)(a)(iv)](https://www.legislation.gov.uk/ssi/2020/466/regulation/3/2/a/iv) (with [reg. 32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))
+[^c-8ed71db4ae40a8b4694517dc9dff73fb]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2014/338/regulation/2/1) omitted (31.12.2020) by virtue of [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/a), [3(2)(a)(iv)](https://www.legislation.gov.uk/ssi/2020/466/regulation/3/2/a/iv) (with [reg. 32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))
 
-[^key-41b2dc326b5be55388377b690715d9bc]: Textual amendment: Words in reg. 2(1) omitted (14.12.2019) by virtue of [The Plant Health (Official Controls and Miscellaneous Provisions) (Scotland) Regulations 2019 (S.S.I. 2019/421)](https://www.legislation.gov.uk/ssi/2019/421), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1), [sch. 5 para. 8(2)(b)](https://www.legislation.gov.uk/ssi/2019/421/schedule/5/paragraph/8/2/b)
+[^c-41b2dc326b5be55388377b690715d9bc]: Textual amendment: Words in reg. 2(1) omitted (14.12.2019) by virtue of [The Plant Health (Official Controls and Miscellaneous Provisions) (Scotland) Regulations 2019 (S.S.I. 2019/421)](https://www.legislation.gov.uk/ssi/2019/421), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1), [sch. 5 para. 8(2)(b)](https://www.legislation.gov.uk/ssi/2019/421/schedule/5/paragraph/8/2/b)
 
-[^key-c966637ac8bbc2aff6eda624300c7141]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2014/338/regulation/2/1) inserted (31.12.2020) by [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/a), [3(2)(a)(v)](https://www.legislation.gov.uk/ssi/2020/466/regulation/3/2/a/v) (with [reg. 32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))
+[^c-c966637ac8bbc2aff6eda624300c7141]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2014/338/regulation/2/1) inserted (31.12.2020) by [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/a), [3(2)(a)(v)](https://www.legislation.gov.uk/ssi/2020/466/regulation/3/2/a/v) (with [reg. 32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))
 
 [^c22271151]: Marginal citation: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-64288b66479a3aa7790004d90f12c1de]: Textual amendment: Words in reg. 2(1) inserted (14.12.2019) by [The Plant Health (Official Controls and Miscellaneous Provisions) (Scotland) Regulations 2019 (S.S.I. 2019/421)](https://www.legislation.gov.uk/ssi/2019/421), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1), [sch. 5 para. 8(2)(c)](https://www.legislation.gov.uk/ssi/2019/421/schedule/5/paragraph/8/2/c)
+[^c-64288b66479a3aa7790004d90f12c1de]: Textual amendment: Words in reg. 2(1) inserted (14.12.2019) by [The Plant Health (Official Controls and Miscellaneous Provisions) (Scotland) Regulations 2019 (S.S.I. 2019/421)](https://www.legislation.gov.uk/ssi/2019/421), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1), [sch. 5 para. 8(2)(c)](https://www.legislation.gov.uk/ssi/2019/421/schedule/5/paragraph/8/2/c)
 
-[^key-d9ef97eeea6567b68c5aad28fc9dab2d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2014/338/regulation/2/1) inserted (31.12.2020) by [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [regs. 1(1)(c)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/c), [7(2)(a)(iii)](https://www.legislation.gov.uk/ssi/2020/466/regulation/7/2/a/iii) (with [regs. 31(b)](https://www.legislation.gov.uk/ssi/2020/466/regulation/31/b), [32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))
+[^c-d9ef97eeea6567b68c5aad28fc9dab2d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2014/338/regulation/2/1) inserted (31.12.2020) by [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [regs. 1(1)(c)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/c), [7(2)(a)(iii)](https://www.legislation.gov.uk/ssi/2020/466/regulation/7/2/a/iii) (with [regs. 31(b)](https://www.legislation.gov.uk/ssi/2020/466/regulation/31/b), [32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))
 
-[^key-2b3ddd7d2445528826ea447603ce85b1]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2014/338/regulation/2) inserted (30.4.2024) by [The Plant Health (Import Inspection Fees) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/123)](https://www.legislation.gov.uk/ssi/2024/123), [regs. 1](https://www.legislation.gov.uk/ssi/2024/123/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2024/123/regulation/2/2)
+[^c-2b3ddd7d2445528826ea447603ce85b1]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2014/338/regulation/2) inserted (30.4.2024) by [The Plant Health (Import Inspection Fees) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/123)](https://www.legislation.gov.uk/ssi/2024/123), [regs. 1](https://www.legislation.gov.uk/ssi/2024/123/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2024/123/regulation/2/2)
 
-[^key-a0b023ba1f19c16975dfa6af2c086cc5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2014/338/regulation/2/1) omitted (31.12.2020) by virtue of [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/a), [3(2)(a)(vi)](https://www.legislation.gov.uk/ssi/2020/466/regulation/3/2/a/vi) (with [reg. 32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))
+[^c-a0b023ba1f19c16975dfa6af2c086cc5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2014/338/regulation/2/1) omitted (31.12.2020) by virtue of [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/a), [3(2)(a)(vi)](https://www.legislation.gov.uk/ssi/2020/466/regulation/3/2/a/vi) (with [reg. 32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))
 
-[^key-893e48de910c6658e74c2bb5511631d1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2014/338/regulation/2/1) omitted (31.12.2020) by virtue of [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/a), [3(2)(a)(vii)](https://www.legislation.gov.uk/ssi/2020/466/regulation/3/2/a/vii) (with [reg. 32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))
+[^c-893e48de910c6658e74c2bb5511631d1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2014/338/regulation/2/1) omitted (31.12.2020) by virtue of [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/a), [3(2)(a)(vii)](https://www.legislation.gov.uk/ssi/2020/466/regulation/3/2/a/vii) (with [reg. 32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))
 
-[^key-90c06b8f0cba2e6f1ce5daa49285633b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2014/338/regulation/2/1) omitted (31.12.2020) by virtue of [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/a), [3(2)(a)(viii)](https://www.legislation.gov.uk/ssi/2020/466/regulation/3/2/a/viii) (with [reg. 32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))
+[^c-90c06b8f0cba2e6f1ce5daa49285633b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2014/338/regulation/2/1) omitted (31.12.2020) by virtue of [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/a), [3(2)(a)(viii)](https://www.legislation.gov.uk/ssi/2020/466/regulation/3/2/a/viii) (with [reg. 32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))
 
-[^key-169ceea168a861bc76c7154aeda76464]: Textual amendment: Words in reg. 2(1) substituted (22.2.2020) by [The Plant Health (Import Inspection Fees) (Scotland) Amendment (No. 2) Regulations 2019 (S.S.I. 2019/425)](https://www.legislation.gov.uk/ssi/2019/425), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/425/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/ssi/2019/425/regulation/2/2/c)
+[^c-169ceea168a861bc76c7154aeda76464]: Textual amendment: Words in reg. 2(1) substituted (22.2.2020) by [The Plant Health (Import Inspection Fees) (Scotland) Amendment (No. 2) Regulations 2019 (S.S.I. 2019/425)](https://www.legislation.gov.uk/ssi/2019/425), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/425/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/ssi/2019/425/regulation/2/2/c)
 
 [^c22271161]: Marginal citation: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7). Section 15(1) was amended by the [Communications Act 2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21) section 406 and Schedule 17, paragraph 158.
 
-[^key-d9f6721b73d42152f14177f0bb61d84d]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/ssi/2014/338/regulation/2/3) inserted (31.12.2020) by [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/a), [3(2)(b)](https://www.legislation.gov.uk/ssi/2020/466/regulation/3/2/b) (with [reg. 32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))
+[^c-d9f6721b73d42152f14177f0bb61d84d]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/ssi/2014/338/regulation/2/3) inserted (31.12.2020) by [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/a), [3(2)(b)](https://www.legislation.gov.uk/ssi/2020/466/regulation/3/2/b) (with [reg. 32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))
 
-[^key-3150d5975f0e18f24d4cd5e7f29727ca]: Textual amendment: Word in [reg. 2(3)](https://www.legislation.gov.uk/ssi/2014/338/regulation/2/3) omitted (31.12.2020) by virtue of [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [regs. 1(1)(c)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/c), [7(2)(b)](https://www.legislation.gov.uk/ssi/2020/466/regulation/7/2/b) (with [regs. 31(b)](https://www.legislation.gov.uk/ssi/2020/466/regulation/31/b), [32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))
+[^c-3150d5975f0e18f24d4cd5e7f29727ca]: Textual amendment: Word in [reg. 2(3)](https://www.legislation.gov.uk/ssi/2014/338/regulation/2/3) omitted (31.12.2020) by virtue of [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [regs. 1(1)(c)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/c), [7(2)(b)](https://www.legislation.gov.uk/ssi/2020/466/regulation/7/2/b) (with [regs. 31(b)](https://www.legislation.gov.uk/ssi/2020/466/regulation/31/b), [32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))
 
-[^key-dab7b5070611afde6db6cb795e7625d3]: Textual amendment: [Reg. 3(1)](https://www.legislation.gov.uk/ssi/2014/338/regulation/3/1) substituted (22.2.2020) by [The Plant Health (Import Inspection Fees) (Scotland) Amendment (No. 2) Regulations 2019 (S.S.I. 2019/425)](https://www.legislation.gov.uk/ssi/2019/425), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/425/regulation/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2019/425/regulation/2/3)
+[^c-dab7b5070611afde6db6cb795e7625d3]: Textual amendment: [Reg. 3(1)](https://www.legislation.gov.uk/ssi/2014/338/regulation/3/1) substituted (22.2.2020) by [The Plant Health (Import Inspection Fees) (Scotland) Amendment (No. 2) Regulations 2019 (S.S.I. 2019/425)](https://www.legislation.gov.uk/ssi/2019/425), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/425/regulation/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2019/425/regulation/2/3)
 
-[^key-3479bb958b4ee916f55b16c00015927f]: Textual amendment: [Reg. 3(2)(a)](https://www.legislation.gov.uk/ssi/2014/338/regulation/3/2/a) substituted (30.4.2024) by [The Plant Health (Import Inspection Fees) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/123)](https://www.legislation.gov.uk/ssi/2024/123), [regs. 1](https://www.legislation.gov.uk/ssi/2024/123/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2024/123/regulation/2/3)
+[^c-3479bb958b4ee916f55b16c00015927f]: Textual amendment: [Reg. 3(2)(a)](https://www.legislation.gov.uk/ssi/2014/338/regulation/3/2/a) substituted (30.4.2024) by [The Plant Health (Import Inspection Fees) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/123)](https://www.legislation.gov.uk/ssi/2024/123), [regs. 1](https://www.legislation.gov.uk/ssi/2024/123/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2024/123/regulation/2/3)
 
-[^key-ef7a5b05f5e6ddecfb95c849b985c648]: Textual amendment: [Reg. 3(2)(b)](https://www.legislation.gov.uk/ssi/2014/338/regulation/3/2/b) substituted (1.4.2021) by [The Plant Health (EU Exit) (Scotland) (Amendment) Regulations 2021 (S.S.I. 2021/159)](https://www.legislation.gov.uk/ssi/2021/159), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2021/159/regulation/1/1/b), [2(2)](https://www.legislation.gov.uk/ssi/2021/159/regulation/2/2)
+[^c-ef7a5b05f5e6ddecfb95c849b985c648]: Textual amendment: [Reg. 3(2)(b)](https://www.legislation.gov.uk/ssi/2014/338/regulation/3/2/b) substituted (1.4.2021) by [The Plant Health (EU Exit) (Scotland) (Amendment) Regulations 2021 (S.S.I. 2021/159)](https://www.legislation.gov.uk/ssi/2021/159), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2021/159/regulation/1/1/b), [2(2)](https://www.legislation.gov.uk/ssi/2021/159/regulation/2/2)
 
-[^key-06f40727878bbb658dd17b0ef9623127]: Textual amendment: Words in [reg. 3(2)(b)(i)](https://www.legislation.gov.uk/ssi/2014/338/regulation/3/2/b/i) omitted (22.7.2022) by virtue of [The Plant Health (Fees) (Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/230)](https://www.legislation.gov.uk/ssi/2022/230), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/230/regulation/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2022/230/regulation/2/3)
+[^c-06f40727878bbb658dd17b0ef9623127]: Textual amendment: Words in [reg. 3(2)(b)(i)](https://www.legislation.gov.uk/ssi/2014/338/regulation/3/2/b/i) omitted (22.7.2022) by virtue of [The Plant Health (Fees) (Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/230)](https://www.legislation.gov.uk/ssi/2022/230), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/230/regulation/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2022/230/regulation/2/3)
 
-[^key-3db445de313997c501796e0ea42e7ef3]: Textual amendment: Reg. 4 substituted (1.4.2021 except for the insertion of reg. 4(5)(6)(d), 1.7.2021 in so far as not already in force) by [The Plant Health (EU Exit) (Scotland) (Amendment) Regulations 2021 (S.S.I. 2021/159)](https://www.legislation.gov.uk/ssi/2021/159), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/159/regulation/1/1)[(2)](https://www.legislation.gov.uk/ssi/2021/159/regulation/1/2), [2(3)](https://www.legislation.gov.uk/ssi/2021/159/regulation/2/3)
+[^c-3db445de313997c501796e0ea42e7ef3]: Textual amendment: Reg. 4 substituted (1.4.2021 except for the insertion of reg. 4(5)(6)(d), 1.7.2021 in so far as not already in force) by [The Plant Health (EU Exit) (Scotland) (Amendment) Regulations 2021 (S.S.I. 2021/159)](https://www.legislation.gov.uk/ssi/2021/159), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/159/regulation/1/1)[(2)](https://www.legislation.gov.uk/ssi/2021/159/regulation/1/2), [2(3)](https://www.legislation.gov.uk/ssi/2021/159/regulation/2/3)
 
-[^key-52b7df296046eb5851008c50f35a3608]: Textual amendment: Reg. 4 heading expressed to be re-inserted (22.7.2022) by [The Plant Health (Fees) (Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/230)](https://www.legislation.gov.uk/ssi/2022/230), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/230/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/ssi/2022/230/regulation/2/4/a)
+[^c-52b7df296046eb5851008c50f35a3608]: Textual amendment: Reg. 4 heading expressed to be re-inserted (22.7.2022) by [The Plant Health (Fees) (Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/230)](https://www.legislation.gov.uk/ssi/2022/230), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/230/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/ssi/2022/230/regulation/2/4/a)
 
-[^key-44bd19b76b8f631fbfd6904cfa8cb4a1]: Textual amendment: Words in reg. 4(1) substituted (22.7.2022) by [The Plant Health (Fees) (Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/230)](https://www.legislation.gov.uk/ssi/2022/230), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/230/regulation/1/1), [2(4)(b)(i)](https://www.legislation.gov.uk/ssi/2022/230/regulation/2/4/b/i)
+[^c-44bd19b76b8f631fbfd6904cfa8cb4a1]: Textual amendment: Words in reg. 4(1) substituted (22.7.2022) by [The Plant Health (Fees) (Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/230)](https://www.legislation.gov.uk/ssi/2022/230), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/230/regulation/1/1), [2(4)(b)(i)](https://www.legislation.gov.uk/ssi/2022/230/regulation/2/4/b/i)
 
-[^key-cfc22710291504f9d9cc9d08d7917fc1]: Textual amendment: Word in reg. 4(1)(a) substituted (22.7.2022) by [The Plant Health (Fees) (Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/230)](https://www.legislation.gov.uk/ssi/2022/230), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/230/regulation/1/1), [2(4)(b)(ii)](https://www.legislation.gov.uk/ssi/2022/230/regulation/2/4/b/ii)
+[^c-cfc22710291504f9d9cc9d08d7917fc1]: Textual amendment: Word in reg. 4(1)(a) substituted (22.7.2022) by [The Plant Health (Fees) (Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/230)](https://www.legislation.gov.uk/ssi/2022/230), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/230/regulation/1/1), [2(4)(b)(ii)](https://www.legislation.gov.uk/ssi/2022/230/regulation/2/4/b/ii)
 
-[^key-60b8866e3e0b30173fd47450b97e41df]: Textual amendment: Word in reg. 4(1)(b) substituted (22.7.2022) by [The Plant Health (Fees) (Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/230)](https://www.legislation.gov.uk/ssi/2022/230), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/230/regulation/1/1), [2(4)(b)(iii)](https://www.legislation.gov.uk/ssi/2022/230/regulation/2/4/b/iii)
+[^c-60b8866e3e0b30173fd47450b97e41df]: Textual amendment: Word in reg. 4(1)(b) substituted (22.7.2022) by [The Plant Health (Fees) (Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/230)](https://www.legislation.gov.uk/ssi/2022/230), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/230/regulation/1/1), [2(4)(b)(iii)](https://www.legislation.gov.uk/ssi/2022/230/regulation/2/4/b/iii)
 
-[^key-d059ee6e9360053483842eacd1503e23]: Textual amendment: Reg. 4(2)-(5) omitted (22.7.2022) by virtue of [The Plant Health (Fees) (Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/230)](https://www.legislation.gov.uk/ssi/2022/230), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/230/regulation/1/1), [2(4)(c)](https://www.legislation.gov.uk/ssi/2022/230/regulation/2/4/c)
+[^c-d059ee6e9360053483842eacd1503e23]: Textual amendment: Reg. 4(2)-(5) omitted (22.7.2022) by virtue of [The Plant Health (Fees) (Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/230)](https://www.legislation.gov.uk/ssi/2022/230), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/230/regulation/1/1), [2(4)(c)](https://www.legislation.gov.uk/ssi/2022/230/regulation/2/4/c)
 
-[^key-8214d8237efeef4d9238cdb583755710]: Textual amendment: Reg. 4(6) substituted (30.4.2024) by [The Plant Health (Import Inspection Fees) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/123)](https://www.legislation.gov.uk/ssi/2024/123), [regs. 1](https://www.legislation.gov.uk/ssi/2024/123/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/ssi/2024/123/regulation/2/4/a)
+[^c-8214d8237efeef4d9238cdb583755710]: Textual amendment: Reg. 4(6) substituted (30.4.2024) by [The Plant Health (Import Inspection Fees) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/123)](https://www.legislation.gov.uk/ssi/2024/123), [regs. 1](https://www.legislation.gov.uk/ssi/2024/123/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/ssi/2024/123/regulation/2/4/a)
 
-[^key-35fa8175762cb56602fb6fae050bc0e6]: Textual amendment: Reg. 4(6)-(8) substituted for reg. 4(6) (22.7.2022) by [The Plant Health (Fees) (Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/230)](https://www.legislation.gov.uk/ssi/2022/230), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/230/regulation/1/1), [2(4)(d)](https://www.legislation.gov.uk/ssi/2022/230/regulation/2/4/d)
+[^c-35fa8175762cb56602fb6fae050bc0e6]: Textual amendment: Reg. 4(6)-(8) substituted for reg. 4(6) (22.7.2022) by [The Plant Health (Fees) (Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/230)](https://www.legislation.gov.uk/ssi/2022/230), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/230/regulation/1/1), [2(4)(d)](https://www.legislation.gov.uk/ssi/2022/230/regulation/2/4/d)
 
-[^key-b18b80464c4d481c7e1a74b2ba7f666d]: Textual amendment: Reg. 4(8) substituted (30.4.2024) by [The Plant Health (Import Inspection Fees) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/123)](https://www.legislation.gov.uk/ssi/2024/123), [regs. 1](https://www.legislation.gov.uk/ssi/2024/123/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/ssi/2024/123/regulation/2/4/b)
+[^c-b18b80464c4d481c7e1a74b2ba7f666d]: Textual amendment: Reg. 4(8) substituted (30.4.2024) by [The Plant Health (Import Inspection Fees) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/123)](https://www.legislation.gov.uk/ssi/2024/123), [regs. 1](https://www.legislation.gov.uk/ssi/2024/123/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/ssi/2024/123/regulation/2/4/b)
 
-[^key-edcd9e6d44d5c69c2e9f377a502d8fad]: Textual amendment: Words in [reg. 4(8)(a)](https://www.legislation.gov.uk/ssi/2014/338/regulation/4/8/a) substituted (30.10.2024) by [The Plant Health (Import Inspection Fees) (Scotland) Amendment (No. 2) Regulations 2024 (S.S.I. 2024/294)](https://www.legislation.gov.uk/ssi/2024/294), [regs. 1](https://www.legislation.gov.uk/ssi/2024/294/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2024/294/regulation/2/2/a)
+[^c-edcd9e6d44d5c69c2e9f377a502d8fad]: Textual amendment: Words in [reg. 4(8)(a)](https://www.legislation.gov.uk/ssi/2014/338/regulation/4/8/a) substituted (30.10.2024) by [The Plant Health (Import Inspection Fees) (Scotland) Amendment (No. 2) Regulations 2024 (S.S.I. 2024/294)](https://www.legislation.gov.uk/ssi/2024/294), [regs. 1](https://www.legislation.gov.uk/ssi/2024/294/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2024/294/regulation/2/2/a)
 
-[^key-1df975b934d726fdce3d01fdf9d61178]: Textual amendment: Words in [reg. 4(8)(b)](https://www.legislation.gov.uk/ssi/2014/338/regulation/4/8/b) inserted (30.10.2024) by [The Plant Health (Import Inspection Fees) (Scotland) Amendment (No. 2) Regulations 2024 (S.S.I. 2024/294)](https://www.legislation.gov.uk/ssi/2024/294), [regs. 1](https://www.legislation.gov.uk/ssi/2024/294/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2024/294/regulation/2/2/b)
+[^c-1df975b934d726fdce3d01fdf9d61178]: Textual amendment: Words in [reg. 4(8)(b)](https://www.legislation.gov.uk/ssi/2014/338/regulation/4/8/b) inserted (30.10.2024) by [The Plant Health (Import Inspection Fees) (Scotland) Amendment (No. 2) Regulations 2024 (S.S.I. 2024/294)](https://www.legislation.gov.uk/ssi/2024/294), [regs. 1](https://www.legislation.gov.uk/ssi/2024/294/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2024/294/regulation/2/2/b)
 
-[^key-153d3a3760ba7d1654a1834b2ddfc4c4]: Textual amendment: Reg. 4(9) inserted (30.4.2024) by [The Plant Health (Import Inspection Fees) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/123)](https://www.legislation.gov.uk/ssi/2024/123), [regs. 1](https://www.legislation.gov.uk/ssi/2024/123/regulation/1), [2(4)(c)](https://www.legislation.gov.uk/ssi/2024/123/regulation/2/4/c)
+[^c-153d3a3760ba7d1654a1834b2ddfc4c4]: Textual amendment: Reg. 4(9) inserted (30.4.2024) by [The Plant Health (Import Inspection Fees) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/123)](https://www.legislation.gov.uk/ssi/2024/123), [regs. 1](https://www.legislation.gov.uk/ssi/2024/123/regulation/1), [2(4)(c)](https://www.legislation.gov.uk/ssi/2024/123/regulation/2/4/c)
 
-[^key-46e74b1667fa90ef3f08727059e74b50]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/ssi/2014/338/regulation/5) substituted (30.4.2024) by [The Plant Health (Import Inspection Fees) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/123)](https://www.legislation.gov.uk/ssi/2024/123), [regs. 1](https://www.legislation.gov.uk/ssi/2024/123/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2024/123/regulation/2/5)
+[^c-46e74b1667fa90ef3f08727059e74b50]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/ssi/2014/338/regulation/5) substituted (30.4.2024) by [The Plant Health (Import Inspection Fees) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/123)](https://www.legislation.gov.uk/ssi/2024/123), [regs. 1](https://www.legislation.gov.uk/ssi/2024/123/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2024/123/regulation/2/5)
 
-[^key-6d73b3afd1ebc3cdbd049b5dc846b4e8]: Textual amendment: [Reg. 6(1)(a)](https://www.legislation.gov.uk/ssi/2014/338/regulation/6/1/a) omitted (27.6.2020) by virtue of [The Plant Health (Official Controls and Miscellaneous Provisions) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/176)](https://www.legislation.gov.uk/ssi/2020/176), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/176/regulation/1/1), [24(a)](https://www.legislation.gov.uk/ssi/2020/176/regulation/24/a)
+[^c-6d73b3afd1ebc3cdbd049b5dc846b4e8]: Textual amendment: [Reg. 6(1)(a)](https://www.legislation.gov.uk/ssi/2014/338/regulation/6/1/a) omitted (27.6.2020) by virtue of [The Plant Health (Official Controls and Miscellaneous Provisions) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/176)](https://www.legislation.gov.uk/ssi/2020/176), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/176/regulation/1/1), [24(a)](https://www.legislation.gov.uk/ssi/2020/176/regulation/24/a)
 
 [^c22271231]: Marginal citation: [S.S.I. 2005/216](https://www.legislation.gov.uk/ssi/2005/216).
 
@@ -658,11 +658,11 @@ A business and regulatory impact assessment has been prepared, and placed in the
 
 [^c22271291]: Marginal citation: [S.S.I. 2011/311](https://www.legislation.gov.uk/ssi/2011/311).
 
-[^key-1f2c0c29f47c239b62fe7eeb79abd873]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/ssi/2014/338/regulation/6/2) omitted (27.6.2020) by virtue of [The Plant Health (Official Controls and Miscellaneous Provisions) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/176)](https://www.legislation.gov.uk/ssi/2020/176), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/176/regulation/1/1), [24(b)](https://www.legislation.gov.uk/ssi/2020/176/regulation/24/b)
+[^c-1f2c0c29f47c239b62fe7eeb79abd873]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/ssi/2014/338/regulation/6/2) omitted (27.6.2020) by virtue of [The Plant Health (Official Controls and Miscellaneous Provisions) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/176)](https://www.legislation.gov.uk/ssi/2020/176), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/176/regulation/1/1), [24(b)](https://www.legislation.gov.uk/ssi/2020/176/regulation/24/b)
 
-[^key-63bf1356e5aa11748566e60518aacdcb]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ssi/2014/338/schedule/1) substituted (30.4.2024) by [The Plant Health (Import Inspection Fees) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/123)](https://www.legislation.gov.uk/ssi/2024/123), [reg. 1](https://www.legislation.gov.uk/ssi/2024/123/regulation/1), [sch. 1](https://www.legislation.gov.uk/ssi/2024/123/schedule/1)
+[^c-63bf1356e5aa11748566e60518aacdcb]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ssi/2014/338/schedule/1) substituted (30.4.2024) by [The Plant Health (Import Inspection Fees) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/123)](https://www.legislation.gov.uk/ssi/2024/123), [reg. 1](https://www.legislation.gov.uk/ssi/2024/123/regulation/1), [sch. 1](https://www.legislation.gov.uk/ssi/2024/123/schedule/1)
 
-[^f01000]: Footnote: (1)[^key-63bf1356e5aa11748566e60518aacdcb]
+[^f01000]: Footnote: (1)[^c-63bf1356e5aa11748566e60518aacdcb]
 
     “**Final consumers**” means by evidence from the packaging, labelling or by other means, for direct sales to final consumers.
 
@@ -678,16 +678,16 @@ A business and regulatory impact assessment has been prepared, and placed in the
 
     “**European Third countries**” includes Albania, Andorra, Armenia, Azerbaijan, Belarus, Bosnia and Herzegovina, Canary Islands, Faeroe Islands, Georgia, Iceland, Liechtenstein, Moldova, Monaco, Montenegro, North Macedonia, Norway, Russia (only the following parts: Central Federal District (Tsentralny federalny okrug), Northwestern Federal District (Severo-Zapadny federalny okrug), Southern Federal District (Yuzhny federalny okrug), North Caucasian Federal District (Severo-Kavkazsky federalny okrug) and Volga Federal District (Privolzhsky federalny okrug)), San Marino, Serbia, Turkey and Ukraine.
 
-[^key-8771d79b06d87c7898c5d18e05d4cd7f]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/ssi/2014/338/schedule/1A) omitted (22.7.2022) by virtue of [The Plant Health (Fees) (Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/230)](https://www.legislation.gov.uk/ssi/2022/230), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/230/regulation/1/1), [2(6)](https://www.legislation.gov.uk/ssi/2022/230/regulation/2/6)
+[^c-8771d79b06d87c7898c5d18e05d4cd7f]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/ssi/2014/338/schedule/1A) omitted (22.7.2022) by virtue of [The Plant Health (Fees) (Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/230)](https://www.legislation.gov.uk/ssi/2022/230), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/230/regulation/1/1), [2(6)](https://www.legislation.gov.uk/ssi/2022/230/regulation/2/6)
 
-[^key-445475a2e28440fe57cf56ec4a98ccdc]: Textual amendment: Sch. 2 omitted (30.4.2024) by virtue of [The Plant Health (Import Inspection Fees) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/123)](https://www.legislation.gov.uk/ssi/2024/123), [regs. 1](https://www.legislation.gov.uk/ssi/2024/123/regulation/1), [2(7)](https://www.legislation.gov.uk/ssi/2024/123/regulation/2/7)
+[^c-445475a2e28440fe57cf56ec4a98ccdc]: Textual amendment: Sch. 2 omitted (30.4.2024) by virtue of [The Plant Health (Import Inspection Fees) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/123)](https://www.legislation.gov.uk/ssi/2024/123), [regs. 1](https://www.legislation.gov.uk/ssi/2024/123/regulation/1), [2(7)](https://www.legislation.gov.uk/ssi/2024/123/regulation/2/7)
 
-[^key-02ab99a5d915f8201a2218dc25fd5317]: Textual amendment: [Sch. 2ZA](https://www.legislation.gov.uk/ssi/2014/338/schedule/2ZA) omitted (22.7.2022) by virtue of [The Plant Health (Fees) (Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/230)](https://www.legislation.gov.uk/ssi/2022/230), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/230/regulation/1/1), [2(8)](https://www.legislation.gov.uk/ssi/2022/230/regulation/2/8)
+[^c-02ab99a5d915f8201a2218dc25fd5317]: Textual amendment: [Sch. 2ZA](https://www.legislation.gov.uk/ssi/2014/338/schedule/2ZA) omitted (22.7.2022) by virtue of [The Plant Health (Fees) (Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/230)](https://www.legislation.gov.uk/ssi/2022/230), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/230/regulation/1/1), [2(8)](https://www.legislation.gov.uk/ssi/2022/230/regulation/2/8)
 
-[^key-866d1301b33a4da606e8e3bfc3c34a54]: Textual amendment: [Sch. 2A](https://www.legislation.gov.uk/ssi/2014/338/schedule/2A) substituted (30.4.2024) by [The Plant Health (Import Inspection Fees) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/123)](https://www.legislation.gov.uk/ssi/2024/123), [reg. 1](https://www.legislation.gov.uk/ssi/2024/123/regulation/1), [sch. 2](https://www.legislation.gov.uk/ssi/2024/123/schedule/2)
+[^c-866d1301b33a4da606e8e3bfc3c34a54]: Textual amendment: [Sch. 2A](https://www.legislation.gov.uk/ssi/2014/338/schedule/2A) substituted (30.4.2024) by [The Plant Health (Import Inspection Fees) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/123)](https://www.legislation.gov.uk/ssi/2024/123), [reg. 1](https://www.legislation.gov.uk/ssi/2024/123/regulation/1), [sch. 2](https://www.legislation.gov.uk/ssi/2024/123/schedule/2)
 
-[^key-0c0498b7604c735cbe834b428289a2eb]: Textual amendment: Sch. 3 substituted (1.1.2016) by [The Plant Health (Import Inspection Fees) (Scotland) Amendment Regulations 2015 (S.S.I. 2015/392)](https://www.legislation.gov.uk/ssi/2015/392), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/392/regulation/1/1), [2(b)](https://www.legislation.gov.uk/ssi/2015/392/regulation/2/b)
+[^c-0c0498b7604c735cbe834b428289a2eb]: Textual amendment: Sch. 3 substituted (1.1.2016) by [The Plant Health (Import Inspection Fees) (Scotland) Amendment Regulations 2015 (S.S.I. 2015/392)](https://www.legislation.gov.uk/ssi/2015/392), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/392/regulation/1/1), [2(b)](https://www.legislation.gov.uk/ssi/2015/392/regulation/2/b)
 
-[^key-80210d930a61a3518659c3c6cbec81ef]: Textual amendment: Words in [sch. 3](https://www.legislation.gov.uk/ssi/2014/338/schedule/3) inserted (30.4.2024) by [The Plant Health (Import Inspection Fees) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/123)](https://www.legislation.gov.uk/ssi/2024/123), [regs. 1](https://www.legislation.gov.uk/ssi/2024/123/regulation/1), [2(9)](https://www.legislation.gov.uk/ssi/2024/123/regulation/2/9)
+[^c-80210d930a61a3518659c3c6cbec81ef]: Textual amendment: Words in [sch. 3](https://www.legislation.gov.uk/ssi/2014/338/schedule/3) inserted (30.4.2024) by [The Plant Health (Import Inspection Fees) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/123)](https://www.legislation.gov.uk/ssi/2024/123), [regs. 1](https://www.legislation.gov.uk/ssi/2024/123/regulation/1), [2(9)](https://www.legislation.gov.uk/ssi/2024/123/regulation/2/9)
 
-[^key-ea46f5e7ed299c272e0b0302ea047af4]: Textual amendment: Words in [sch. 3](https://www.legislation.gov.uk/ssi/2014/338/schedule/3) omitted (31.12.2020) by virtue of [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/a), [3(8)](https://www.legislation.gov.uk/ssi/2020/466/regulation/3/8) (with [reg. 32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))
+[^c-ea46f5e7ed299c272e0b0302ea047af4]: Textual amendment: Words in [sch. 3](https://www.legislation.gov.uk/ssi/2014/338/schedule/3) omitted (31.12.2020) by virtue of [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/a), [3(8)](https://www.legislation.gov.uk/ssi/2020/466/regulation/3/8) (with [reg. 32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))

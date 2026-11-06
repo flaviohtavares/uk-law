@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 178. Power to apply Part 1 amendments to register of overseas entities[^key-ebd8ac32507b05ae7aeb4c374f2509c9]
+## 178. Power to apply Part 1 amendments to register of overseas entities[^c-ebd8ac32507b05ae7aeb4c374f2509c9]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ebd8ac32507b05ae7aeb4c374f2509c9]: Commencement: S. 178 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-ebd8ac32507b05ae7aeb4c374f2509c9]: Commencement: S. 178 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)

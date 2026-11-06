@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 109. Television sets[^key-0957f91cd3751f87e68954d4e68df483]
+## 109. Television sets[^c-0957f91cd3751f87e68954d4e68df483]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0957f91cd3751f87e68954d4e68df483]: Commencement: [Reg. 109](https://www.legislation.gov.uk/uksi/1986/1078/regulation/109) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-0957f91cd3751f87e68954d4e68df483]: Commencement: [Reg. 109](https://www.legislation.gov.uk/uksi/1986/1078/regulation/109) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)

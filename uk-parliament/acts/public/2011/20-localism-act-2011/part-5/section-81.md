@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Duty to consider expression of interest[^c2116493][^key-ec815aec62d90a00a00f8fa4e0340bfd][^key-e188daa4a883149d7448a4907ed50968]
+## 81. Duty to consider expression of interest[^c2116493][^c-ec815aec62d90a00a00f8fa4e0340bfd][^c-e188daa4a883149d7448a4907ed50968]
 
 *Extent: E+W*
 
@@ -64,6 +64,6 @@ This is subject to section 82 (timing of expressions of interest).
 
 [^c2116493]: Commencement: S. 81 in force for specified purposes at Royal Assent see [s. 240(5)(d)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/5/d)
 
-[^key-ec815aec62d90a00a00f8fa4e0340bfd]: Commencement: S. 81 in force at 27.6.2012 in so far as not already in force by [S.I. 2012/1463](https://www.legislation.gov.uk/uksi/2012/1463), [art. 4](https://www.legislation.gov.uk/uksi/2012/1463/article/4)
+[^c-ec815aec62d90a00a00f8fa4e0340bfd]: Commencement: S. 81 in force at 27.6.2012 in so far as not already in force by [S.I. 2012/1463](https://www.legislation.gov.uk/uksi/2012/1463), [art. 4](https://www.legislation.gov.uk/uksi/2012/1463/article/4)
 
-[^key-e188daa4a883149d7448a4907ed50968]: Modification: Pt. 5 Ch. 2 modified in part by S.I. 2008/2113, reg. 10A (as inserted (5.9.2018) by [The Local Government (Structural Changes) (General) (Amendment) Regulations 2018 (S.I. 2018/930)](https://www.legislation.gov.uk/uksi/2018/930), [regs. 1](https://www.legislation.gov.uk/uksi/2018/930/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2018/930/regulation/3/4) as amended (2.1.2019) by S.I. 2018/1296, reg. 14(2))
+[^c-e188daa4a883149d7448a4907ed50968]: Modification: Pt. 5 Ch. 2 modified in part by S.I. 2008/2113, reg. 10A (as inserted (5.9.2018) by [The Local Government (Structural Changes) (General) (Amendment) Regulations 2018 (S.I. 2018/930)](https://www.legislation.gov.uk/uksi/2018/930), [regs. 1](https://www.legislation.gov.uk/uksi/2018/930/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2018/930/regulation/3/4) as amended (2.1.2019) by S.I. 2018/1296, reg. 14(2))

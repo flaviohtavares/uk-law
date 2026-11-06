@@ -47,11 +47,11 @@ to make the following Regulations;
 
 - Now therefore the said Department concerned, in exercise of the powers conferred by Articles 15(1) and (3), 16(1), 18(1), 25, 26(3) and 47(2) of the Food Safety (Northern Ireland) Order 1991[^f00001] and of every other power enabling it in that behalf, and after consultation, in accordance with Article 47(3) of that Order, with such organisations that appear to it to be representative of interests substantially affected by the Regulations, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-a525a95c0091d499f0aed5817eefcfe2]
+## 1. Citation and commencement[^c-a525a95c0091d499f0aed5817eefcfe2]
 
 These Regulations, which relate to material which may contain the agent causing bovine spongiform encephalopathy and which implement paragraph 3(*a*) of Article 3 of Commission Decision [94/474/EC](https://www.legislation.gov.uk/european/decision/1994/0474) (concerning certain protection measures relating to bovine spongiform encephalopathy and repealing Decision [89/469/EEC](https://www.legislation.gov.uk/european/decision/1989/0469) and [90/200/EEC](https://www.legislation.gov.uk/european/decision/1990/0200))[^f00002] may be cited as the Specified Bovine Material (Treatment and Disposal) Regulations (Northern Ireland) 1997 and shall come into operation on 1st May 1997.
 
-## 2. Interpretation[^key-8cc9f9a2caa557f9d5ed814940d0deca]
+## 2. Interpretation[^c-8cc9f9a2caa557f9d5ed814940d0deca]
 
 (1) In these Regulations—
 
@@ -84,7 +84,7 @@ These Regulations, which relate to material which may contain the agent causing 
 
 (3) The provisions of these Regulations shall apply to specified bovine material from a scheme animal, except that the provisions appearing in Column 1 of the Table in the Schedule shall apply only to the extent, and subject to the modifications, specified in Column 2 thereof.
 
-## 3. Approvals[^key-0bc65d1d573c977ba71382af293608bd]
+## 3. Approvals[^c-0bc65d1d573c977ba71382af293608bd]
 
 (1) The Department may, on application made to it, approve any premises for the purposes of these Regulations if it is satisfied that such premises are properly equipped to carry out the functions to which the approval relates and comply with the requirements of these Regulations.
 
@@ -94,7 +94,7 @@ These Regulations, which relate to material which may contain the agent causing 
 - (b) may be made subject to conditions; and
 - (c) if the Department is satisfied that the conditions of these Regulations, or any additional conditions in the approval are not being complied with, may be amended, suspended or revoked at any time by notice in writing served on the person to whom the approval was granted.
 
-## 4. Prohibition of sale of specified bovine material for human consumption[^key-35dc3ebda671afc99de7b8d8a838d9d9]
+## 4. Prohibition of sale of specified bovine material for human consumption[^c-35dc3ebda671afc99de7b8d8a838d9d9]
 
 (1) A person shall not sell any specified bovine material, or any food containing specified bovine material, for human consumption.
 
@@ -104,7 +104,7 @@ These Regulations, which relate to material which may contain the agent causing 
 
 (4) For the purposes of this regulation “specified bovine material” includes anything derived from it.
 
-## 5. Specified bovine material for use in cosmetic, pharmaceutical and medical products[^key-fbf9f6038a1c18d6979538cf4aa5250b]
+## 5. Specified bovine material for use in cosmetic, pharmaceutical and medical products[^c-fbf9f6038a1c18d6979538cf4aa5250b]
 
 (1) A person shall not sell any cosmetic, pharmaceutical or medical product containing specified bovine material.
 
@@ -114,7 +114,7 @@ These Regulations, which relate to material which may contain the agent causing 
 
 (4) For the purposes of this regulation, “specified bovine material” includes anything derived from it.
 
-## 6. Prohibitions applying to the vertebral column[^key-52028b18ba50d6dcf11a24932f8065d6]
+## 6. Prohibitions applying to the vertebral column[^c-52028b18ba50d6dcf11a24932f8065d6]
 
 (1) A person shall not use the vertebral column of a bovine animal in the recovery of meat by mechanical means.
 
@@ -122,7 +122,7 @@ These Regulations, which relate to material which may contain the agent causing 
 
 (3) A person shall not use the vertebral column of a bovine animal from which meat has been cut, to produce food other than fat or gelatin for sale for human consumption.
 
-## 7. Registration of premises on which meat is recovered by mechanical means from bovine animals[^key-d0eae031b7fcc52b5659dde761e1170a]
+## 7. Registration of premises on which meat is recovered by mechanical means from bovine animals[^c-d0eae031b7fcc52b5659dde761e1170a]
 
 (1) A person shall not on any premises recover meat by mechanical means from the carcase of a bovine animal unless his name and the address of those premises are registered with the Department.
 
@@ -139,7 +139,7 @@ These Regulations, which relate to material which may contain the agent causing 
 
 (5) A person whose name is registered under paragraph (1) in respect of any premises shall notify the Department in writing of any change in the particulars previously notified to it under paragraph (4) within 14 days of any such change.
 
-## 8. Initial treatment of bovine carcases in a slaughterhouse[^key-93a080339652ea1c7dd04de660becfaf]
+## 8. Initial treatment of bovine carcases in a slaughterhouse[^c-93a080339652ea1c7dd04de660becfaf]
 
 (1) When a bovine animal is slaughtered in a slaughterhouse, or slaughtered elsewhere than in a slaughterhouse but brought immediately to a slaughterhouse to be dressed for human consumption, the occupier of the slaughterhouse (in this regulation referred to as “the occupier”) shall ensure that all specified bovine material is removed from the rest of the carcase.
 
@@ -166,7 +166,7 @@ These Regulations, which relate to material which may contain the agent causing 
 
 and shall give to the authorised officer such reasonable assistance as he may require for the purpose.
 
-## 9. Initial treatment of specified bovine material elsewhere than at a slaughterhouse[^key-21964e4b83de7f3048c162e969a8e1f9]
+## 9. Initial treatment of specified bovine material elsewhere than at a slaughterhouse[^c-21964e4b83de7f3048c162e969a8e1f9]
 
 (1) Subject to the provisions of this regulation, when specified bovine material is removed from the carcase of a bovine animal elsewhere than in a slaughterhouse, the occupier of the premises at which the specified bovine material is removed (in this regulation referred to as “the occupier”) shall ensure that it is stained immediately, and in any event before it is frozen.
 
@@ -178,7 +178,7 @@ and shall give to the authorised officer such reasonable assistance as he may re
 
 (5) The provisions of this regulation shall not apply in the case of a post-mortem examination carried out by a veterinary surgeon or a veterinary practitioner at a farm provided that he makes arrangements for the disposal of the whole carcase by burial there.
 
-## 10. Exceptions from the requirement to stain specified bovine material[^key-2b3d1a488de2d888c24e372318b7d3f7]
+## 10. Exceptions from the requirement to stain specified bovine material[^c-2b3d1a488de2d888c24e372318b7d3f7]
 
 (1) The requirements in regulations 8 and 9 to stain specified bovine material shall not apply—
 
@@ -211,11 +211,11 @@ and shall keep such records for two years from the date of arrival.
 - (b) ensure (where specified bovine material is consigned for destruction in accordance with sub-paragraph (*a*)) that the specified bovine material is stained before consignment; and
 - (c) keep a record for two years of the place and method of burial or destruction.
 
-## 11. Measures in relation to stained specified bovine material[^key-bc53d2272dd76eb6964340559159c441]
+## 11. Measures in relation to stained specified bovine material[^c-bc53d2272dd76eb6964340559159c441]
 
 Where specified bovine material has been stained in accordance with regulations 8, 9 and 10 the occupier of any premises at which that specified bovine material is stored or handled and, in the case of a place approved under regulation 14 or Articles 5 or 6 of the SBM Order, the operator of that place shall take appropriate measures to ensure that colouring remains over the whole surface of it until it is incinerated or rendered in accordance with regulation 14 or Article 6 of the SBM Order.
 
-## 12. Prohibition on the removal of the brain and eyes of a bovine animal[^key-aed554c7e464064789fccdc1d265ceee]
+## 12. Prohibition on the removal of the brain and eyes of a bovine animal[^c-aed554c7e464064789fccdc1d265ceee]
 
 (1) A person shall not in any premises remove the brain or eyes from the head of a bovine animal over six months except—
 
@@ -224,7 +224,7 @@ Where specified bovine material has been stained in accordance with regulations 
 
 (2) The prohibition in paragraph (1) shall not apply to the removal under Article 29 of the Order of the eyeballs of bovine animals at the place of slaughter by a veterinary inspector or other authorised officer of the Department for the purposes of analysis under Article 31(1) of the Order.
 
-## 13. Prohibition on the removal of the spinal cord of a bovine animal[^key-30e9532f4f9789985ca8056bcc78bfe9]
+## 13. Prohibition on the removal of the spinal cord of a bovine animal[^c-30e9532f4f9789985ca8056bcc78bfe9]
 
 (1) A person shall not remove the spinal cord or any part of it from the vertebral column of a bovine animal aged six months or over or longitudinally split the vertebral column of such an animal except in a slaughterhouse or for the purposes of veterinary or scientific examination.
 
@@ -232,7 +232,7 @@ Where specified bovine material has been stained in accordance with regulations 
 
 (3) If the spinal cord is removed at any premises other than a slaughterhouse for the purposes of veterinary or scientific examination, after that examination both the spinal cord and the vertebral column shall be disposed of as specified bovine material in accordance with these Regulations.
 
-## 14. Approved incinerators[^key-ace5b2a07aad5b430270ef4f180f9c34]
+## 14. Approved incinerators[^c-ace5b2a07aad5b430270ef4f180f9c34]
 
 (1) Any person delivering specified bovine material to an approved incinerator shall state in writing to the operator of the incinerator the place from which that specified bovine material was collected for delivery to that incinerator.
 
@@ -257,7 +257,7 @@ and shall keep such records for two years from the date of arrival.
 
 (5) A person shall not remove specified bovine material from an approved incinerator unless it has been completely incinerated.
 
-## 15. Disposal of processed specified bovine material[^key-90eb0fdcc25c152379619b6bd59a2724]
+## 15. Disposal of processed specified bovine material[^c-90eb0fdcc25c152379619b6bd59a2724]
 
 (1) After specified bovine material has been processed and separated into protein and tallow in a rendering plant licensed under Article 6(1) of the SBM Order the operator of the rendering plant shall ensure that—
 
@@ -274,7 +274,7 @@ and shall keep such records for two years from the date of arrival.
 
 (3) The operator of any rendering plant licensed under Article 6 of the SBM Order shall keep a record for two years of the weight of protein consigned from the plant in accordance with this regulation and a separate record of the weight of tallow consigned, and in each case the date of such consignment and the place of destination.
 
-## 16. Approved premises not connected with food, pharmaceuticals, medical products and cosmetics[^key-a0c57894643f3e1017d91321694caa47]
+## 16. Approved premises not connected with food, pharmaceuticals, medical products and cosmetics[^c-a0c57894643f3e1017d91321694caa47]
 
 (1) Upon the Department being satisfied that—
 
@@ -300,27 +300,27 @@ and shall keep such records for two years from the date of arrival.
 
 and shall keep such records for two years from the date of arrival.
 
-## 17. Powers to give directions[^key-7d458a348c3ac4b525da7ba20236ccc2]
+## 17. Powers to give directions[^c-7d458a348c3ac4b525da7ba20236ccc2]
 
 (1) If the Department is satisfied that specified bovine material cannot be disposed of in accordance with these Regulations, whether for reason of mechanical breakdown of equipment or otherwise, it may give written directions to the owner or person in control of the specified bovine material for its disposal in a safe manner.
 
 (2) In the event of any person not complying with directions given to him under paragraph (1), the Department may make arrangements for the disposal of the specified bovine material to which the direction relates at the expense of the owner.
 
-## 18. Storage[^key-95e8d7012c6a0d4b9a9a1bf4107977d1]
+## 18. Storage[^c-95e8d7012c6a0d4b9a9a1bf4107977d1]
 
 (1) Subject to paragraph (2), a person shall not store specified bovine material in the same room as food, cosmetics, pharmaceutical or medical products or the ingredients of such products.
 
 (2) The prohibition in paragraph (1) shall not apply where an authorised officer or an officer of the Department has approved the storage of specified bovine material in the same room as food, cosmetics, pharmaceutical or medical products or any ingredients thereof on being satisfied that the arrangements for storage will ensure the adequate separation of the specified bovine material from the food, product or ingredient, as the case may be.
 
-## 19. Offences[^key-aec2aac219396cbc4f1cbe6614f0aa3f]
+## 19. Offences[^c-aec2aac219396cbc4f1cbe6614f0aa3f]
 
 A person who contravenes these Regulations or any direction given under these Regulations, shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding level 5 on the Standard Scale.
 
-## 20. Enforcement[^key-a5430fe5c51c56e44fec344d66ae9386]
+## 20. Enforcement[^c-a5430fe5c51c56e44fec344d66ae9386]
 
 These Regulations shall be enforced and executed by the Department.
 
-## 21. Application of the Order[^key-ab851c1620cbd6716ba5fb6eb199f55a]
+## 21. Application of the Order[^c-ab851c1620cbd6716ba5fb6eb199f55a]
 
 (1) The provisions of the Order set out in paragraph (2) shall apply for the purposes of these Regulations as they apply for the purposes of the Order and, accordingly, any reference in the provisions set out in paragraph (2) to the Order shall be construed as including a reference to these Regulations.
 
@@ -334,7 +334,7 @@ These Regulations shall be enforced and executed by the Department.
 - (f) Article 34 (obstruction, etc., of officers);
 - (g) Article 35 (time limit for prosecutions).
 
-## 22. Revocations[^key-a97bb6fb0bf6053591290ab7e756836c]
+## 22. Revocations[^c-a97bb6fb0bf6053591290ab7e756836c]
 
 The Specified Bovine Material (Treatment and Disposal) (No. 3) Regulations (Northern Ireland) 1996[^f00008] and the Specified Bovine Material (Treatment and Disposal) (No. 3) (Amendment) Regulations (Northern Ireland) 1996[^f00009] are hereby revoked.
 
@@ -346,7 +346,7 @@ Assistant Secretary
 
 30th April 1997.
 
-## SCHEDULE — Application of the Regulations to Scheme Animals[^key-64c10ee0287290b1b7a96d0b561eed47]
+## SCHEDULE — Application of the Regulations to Scheme Animals[^c-64c10ee0287290b1b7a96d0b561eed47]
 
 Regulation 2(3)
 
@@ -379,11 +379,11 @@ The amendments made by these Regulations are as follows, they—
 
 [^f00001]: Footnote: [S.I. 1991 No. 762 (N.I. 7)](https://www.legislation.gov.uk/nisi/1991/762) as amended by [S.I. 1996 No. 1633 (N.I. 12)](https://www.legislation.gov.uk/nisi/1996/1633)
 
-[^key-a525a95c0091d499f0aed5817eefcfe2]: Commencement: Reg. 1 in operation at 1.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/230/regulation/1)
+[^c-a525a95c0091d499f0aed5817eefcfe2]: Commencement: Reg. 1 in operation at 1.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/230/regulation/1)
 
 [^f00002]: Footnote: O.J. No. L194, 29.7.1994, p. 96
 
-[^key-8cc9f9a2caa557f9d5ed814940d0deca]: Commencement: Reg. 2 in operation at 1.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/230/regulation/1)
+[^c-8cc9f9a2caa557f9d5ed814940d0deca]: Commencement: Reg. 2 in operation at 1.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/230/regulation/1)
 
 [^f00003]: Footnote: [S.I. 1997 No. 231](https://www.legislation.gov.uk/uksi/1997/231)
 
@@ -393,50 +393,50 @@ The amendments made by these Regulations are as follows, they—
 
 [^f00006]: Footnote: Colour Index is published by the Society of Dyers and Colourists at Perkin House, 82 Grattan Road, Bradford, West Yorkshire BD1 2JB
 
-[^key-0bc65d1d573c977ba71382af293608bd]: Commencement: Reg. 3 in operation at 1.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/230/regulation/1)
+[^c-0bc65d1d573c977ba71382af293608bd]: Commencement: Reg. 3 in operation at 1.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/230/regulation/1)
 
-[^key-35dc3ebda671afc99de7b8d8a838d9d9]: Commencement: Reg. 4 in operation at 1.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/230/regulation/1)
+[^c-35dc3ebda671afc99de7b8d8a838d9d9]: Commencement: Reg. 4 in operation at 1.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/230/regulation/1)
 
-[^key-fbf9f6038a1c18d6979538cf4aa5250b]: Commencement: Reg. 5 in operation at 1.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/230/regulation/1)
+[^c-fbf9f6038a1c18d6979538cf4aa5250b]: Commencement: Reg. 5 in operation at 1.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/230/regulation/1)
 
-[^key-52028b18ba50d6dcf11a24932f8065d6]: Commencement: Reg. 6 in operation at 1.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/230/regulation/1)
+[^c-52028b18ba50d6dcf11a24932f8065d6]: Commencement: Reg. 6 in operation at 1.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/230/regulation/1)
 
-[^key-d0eae031b7fcc52b5659dde761e1170a]: Commencement: Reg. 7 in operation at 1.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/230/regulation/1)
+[^c-d0eae031b7fcc52b5659dde761e1170a]: Commencement: Reg. 7 in operation at 1.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/230/regulation/1)
 
-[^key-93a080339652ea1c7dd04de660becfaf]: Commencement: Reg. 8 in operation at 1.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/230/regulation/1)
+[^c-93a080339652ea1c7dd04de660becfaf]: Commencement: Reg. 8 in operation at 1.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/230/regulation/1)
 
-[^key-21964e4b83de7f3048c162e969a8e1f9]: Commencement: Reg. 9 in operation at 1.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/230/regulation/1)
+[^c-21964e4b83de7f3048c162e969a8e1f9]: Commencement: Reg. 9 in operation at 1.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/230/regulation/1)
 
-[^key-2b3d1a488de2d888c24e372318b7d3f7]: Commencement: Reg. 10 in operation at 1.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/230/regulation/1)
+[^c-2b3d1a488de2d888c24e372318b7d3f7]: Commencement: Reg. 10 in operation at 1.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/230/regulation/1)
 
-[^key-bc53d2272dd76eb6964340559159c441]: Commencement: Reg. 11 in operation at 1.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/230/regulation/1)
+[^c-bc53d2272dd76eb6964340559159c441]: Commencement: Reg. 11 in operation at 1.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/230/regulation/1)
 
-[^key-aed554c7e464064789fccdc1d265ceee]: Commencement: Reg. 12 in operation at 1.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/230/regulation/1)
+[^c-aed554c7e464064789fccdc1d265ceee]: Commencement: Reg. 12 in operation at 1.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/230/regulation/1)
 
-[^key-30e9532f4f9789985ca8056bcc78bfe9]: Commencement: Reg. 13 in operation at 1.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/230/regulation/1)
+[^c-30e9532f4f9789985ca8056bcc78bfe9]: Commencement: Reg. 13 in operation at 1.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/230/regulation/1)
 
-[^key-ace5b2a07aad5b430270ef4f180f9c34]: Commencement: Reg. 14 in operation at 1.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/230/regulation/1)
+[^c-ace5b2a07aad5b430270ef4f180f9c34]: Commencement: Reg. 14 in operation at 1.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/230/regulation/1)
 
-[^key-90eb0fdcc25c152379619b6bd59a2724]: Commencement: Reg. 15 in operation at 1.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/230/regulation/1)
+[^c-90eb0fdcc25c152379619b6bd59a2724]: Commencement: Reg. 15 in operation at 1.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/230/regulation/1)
 
 [^f00007]: Footnote: [S.I. 1978/1049 (N.I. 19)](https://www.legislation.gov.uk/nisi/1978/1049)
 
-[^key-a0c57894643f3e1017d91321694caa47]: Commencement: Reg. 16 in operation at 1.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/230/regulation/1)
+[^c-a0c57894643f3e1017d91321694caa47]: Commencement: Reg. 16 in operation at 1.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/230/regulation/1)
 
-[^key-7d458a348c3ac4b525da7ba20236ccc2]: Commencement: Reg. 17 in operation at 1.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/230/regulation/1)
+[^c-7d458a348c3ac4b525da7ba20236ccc2]: Commencement: Reg. 17 in operation at 1.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/230/regulation/1)
 
-[^key-95e8d7012c6a0d4b9a9a1bf4107977d1]: Commencement: Reg. 18 in operation at 1.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/230/regulation/1)
+[^c-95e8d7012c6a0d4b9a9a1bf4107977d1]: Commencement: Reg. 18 in operation at 1.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/230/regulation/1)
 
-[^key-aec2aac219396cbc4f1cbe6614f0aa3f]: Commencement: Reg. 19 in operation at 1.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/230/regulation/1)
+[^c-aec2aac219396cbc4f1cbe6614f0aa3f]: Commencement: Reg. 19 in operation at 1.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/230/regulation/1)
 
-[^key-a5430fe5c51c56e44fec344d66ae9386]: Commencement: Reg. 20 in operation at 1.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/230/regulation/1)
+[^c-a5430fe5c51c56e44fec344d66ae9386]: Commencement: Reg. 20 in operation at 1.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/230/regulation/1)
 
-[^key-ab851c1620cbd6716ba5fb6eb199f55a]: Commencement: Reg. 21 in operation at 1.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/230/regulation/1)
+[^c-ab851c1620cbd6716ba5fb6eb199f55a]: Commencement: Reg. 21 in operation at 1.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/230/regulation/1)
 
-[^key-a97bb6fb0bf6053591290ab7e756836c]: Commencement: Reg. 22 in operation at 1.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/230/regulation/1)
+[^c-a97bb6fb0bf6053591290ab7e756836c]: Commencement: Reg. 22 in operation at 1.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/230/regulation/1)
 
 [^f00008]: Footnote: [S.R. 1996 No. 390](https://www.legislation.gov.uk/nisr/1996/390)
 
 [^f00009]: Footnote: [S.R. 1996 No. 594](https://www.legislation.gov.uk/nisr/1996/594)
 
-[^key-64c10ee0287290b1b7a96d0b561eed47]: Commencement: Sch. in operation at 1.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/230/regulation/1)
+[^c-64c10ee0287290b1b7a96d0b561eed47]: Commencement: Sch. in operation at 1.5.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/230/regulation/1)

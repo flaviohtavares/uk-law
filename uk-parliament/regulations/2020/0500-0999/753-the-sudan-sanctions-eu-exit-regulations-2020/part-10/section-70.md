@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Transitional provision: Treasury licences[^key-535a572ef3421a783d3dc8622b569056]
+## 70. Transitional provision: Treasury licences[^c-535a572ef3421a783d3dc8622b569056]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,7 +61,7 @@ is to be treated on and after the relevant date as a reference to the correspond
 
 ## Annotations
 
-[^key-535a572ef3421a783d3dc8622b569056]: Commencement: Reg. 70 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 15(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/15/2)
+[^c-535a572ef3421a783d3dc8622b569056]: Commencement: Reg. 70 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 15(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/15/2)
 
 [^c24239951]: Marginal citation: [S.I. 2012/1507](https://www.legislation.gov.uk/uksi/2012/1507). These regulations were revoked and replaced by [S.I. 2014/1826](https://www.legislation.gov.uk/uksi/2014/1826).
 

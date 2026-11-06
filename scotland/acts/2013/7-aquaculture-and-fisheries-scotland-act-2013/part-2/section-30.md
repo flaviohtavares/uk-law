@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 30. Power to vary procedures for orders, etc. relating to certain fisheries[^key-f606c56f185615469a45e3ba37e0e39f]
+## 30. Power to vary procedures for orders, etc. relating to certain fisheries[^c-f606c56f185615469a45e3ba37e0e39f]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f606c56f185615469a45e3ba37e0e39f]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2013/7/section/30) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-f606c56f185615469a45e3ba37e0e39f]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2013/7/section/30) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)

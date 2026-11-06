@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7A. Qualifying judicial offices with retrospective entitlements[^key-78eddcc6ec3c542139851162b452f601]
+## 7A. Qualifying judicial offices with retrospective entitlements[^c-78eddcc6ec3c542139851162b452f601]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-78eddcc6ec3c542139851162b452f601]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/uksi/2022/319/regulation/7A) inserted (17.12.2024) by [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2024/1358/regulation/4)
+[^c-78eddcc6ec3c542139851162b452f601]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/uksi/2022/319/regulation/7A) inserted (17.12.2024) by [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2024/1358/regulation/4)

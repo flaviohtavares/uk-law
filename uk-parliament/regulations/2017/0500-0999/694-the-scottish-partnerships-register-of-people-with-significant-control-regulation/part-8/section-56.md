@@ -22,7 +22,7 @@ summary: ''
 
 (1) The registrar may revoke a determination made under regulation 48(5), 49(5) or 50(5) that an application is successful if—
 
-- (a) the applicant in relation to the determination or (if different) the individual to whom the application relates has been found guilty of an offence under section 1112 (false statements: basic offence) or section 1112A (false statements: aggravated offence) of the Companies Act 2006[^key-875c28c2eb4a8663c19d859d39755cee] in respect of purported compliance with any provision of this Part;
+- (a) the applicant in relation to the determination or (if different) the individual to whom the application relates has been found guilty of an offence under section 1112 (false statements: basic offence) or section 1112A (false statements: aggravated offence) of the Companies Act 2006[^c-875c28c2eb4a8663c19d859d39755cee] in respect of purported compliance with any provision of this Part;
 - (b) the registrar has sent a notice in accordance with paragraph (2) to the applicant in relation to the determination and (if different) the individual to whom the determination relates; and
 - (c) the period of 28 days beginning with the date of that notice has expired.
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-875c28c2eb4a8663c19d859d39755cee]: Textual amendment: Words in [reg. 56(1)(a)](https://www.legislation.gov.uk/uksi/2017/694/regulation/56/1/a) substituted (21.3.2024) by [The Economic Crime and Corporate Transparency Act 2023 (Consequential, Supplementary and Incidental Provisions) Regulations 2024 (S.I. 2024/410)](https://www.legislation.gov.uk/uksi/2024/410), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/410/regulation/1/2), [Sch. 2 para. 8(10)](https://www.legislation.gov.uk/uksi/2024/410/schedule/2/paragraph/8/10)
+[^c-875c28c2eb4a8663c19d859d39755cee]: Textual amendment: Words in [reg. 56(1)(a)](https://www.legislation.gov.uk/uksi/2017/694/regulation/56/1/a) substituted (21.3.2024) by [The Economic Crime and Corporate Transparency Act 2023 (Consequential, Supplementary and Incidental Provisions) Regulations 2024 (S.I. 2024/410)](https://www.legislation.gov.uk/uksi/2024/410), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/410/regulation/1/2), [Sch. 2 para. 8(10)](https://www.legislation.gov.uk/uksi/2024/410/schedule/2/paragraph/8/10)

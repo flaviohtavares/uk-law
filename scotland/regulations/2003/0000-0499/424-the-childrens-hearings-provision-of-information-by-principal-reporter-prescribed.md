@@ -31,7 +31,7 @@ summary: ''
 
 CHILDREN AND YOUNG PERSONS
 
-The Children’s Hearings (Provision of Information by Principal Reporter) (Prescribed Persons) (Scotland) Order 2003 (revoked)[^key-b93f24d33e13c54a19ed022220b17c31]
+The Children’s Hearings (Provision of Information by Principal Reporter) (Prescribed Persons) (Scotland) Order 2003 (revoked)[^c-b93f24d33e13c54a19ed022220b17c31]
 
 Made
 
@@ -45,26 +45,26 @@ Coming into force
 
 1st October 2003
 
-[^key-b93f24d33e13c54a19ed022220b17c31]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b93f24d33e13c54a19ed022220b17c31]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-b93f24d33e13c54a19ed022220b17c31]
+## 1. Citation, commencement and interpretation[^c-b93f24d33e13c54a19ed022220b17c31]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Prescribed Persons[^key-b93f24d33e13c54a19ed022220b17c31]
+## 2. Prescribed Persons[^c-b93f24d33e13c54a19ed022220b17c31]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prescribed Conditions[^key-b93f24d33e13c54a19ed022220b17c31]
+## 3. Prescribed Conditions[^c-b93f24d33e13c54a19ed022220b17c31]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b93f24d33e13c54a19ed022220b17c31]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b93f24d33e13c54a19ed022220b17c31]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b93f24d33e13c54a19ed022220b17c31]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b93f24d33e13c54a19ed022220b17c31]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b93f24d33e13c54a19ed022220b17c31]: Textual amendment: Order revoked (4.2.2021) by The Children’s [Hearings (Provision of Information by Principal Reporter) (Specified Persons) (Scotland) Regulations 2020 (S.S.I. 2020/449)](https://www.legislation.gov.uk/ssi/2020/449), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/449/regulation/1/1), [4](https://www.legislation.gov.uk/ssi/2020/449/regulation/4)
+[^c-b93f24d33e13c54a19ed022220b17c31]: Textual amendment: Order revoked (4.2.2021) by The Children’s [Hearings (Provision of Information by Principal Reporter) (Specified Persons) (Scotland) Regulations 2020 (S.S.I. 2020/449)](https://www.legislation.gov.uk/ssi/2020/449), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/449/regulation/1/1), [4](https://www.legislation.gov.uk/ssi/2020/449/regulation/4)

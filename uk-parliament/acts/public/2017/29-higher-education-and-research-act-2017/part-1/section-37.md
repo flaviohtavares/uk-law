@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Power of Secretary of State to require a report[^key-d308b34be0bbdf1df3020552e1a45b06]
+## 37. Power of Secretary of State to require a report[^c-d308b34be0bbdf1df3020552e1a45b06]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ on such matters relating to equality of opportunity as may be specified in the d
 
 ## Annotations
 
-[^key-d308b34be0bbdf1df3020552e1a45b06]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2017/29/section/37) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/d)
+[^c-d308b34be0bbdf1df3020552e1a45b06]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2017/29/section/37) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Publicity and other information in connection with referendums[^key-0a5f15735c1cc5b3c0be008ead0f75e8]
+## 4. Publicity and other information in connection with referendums[^c-0a5f15735c1cc5b3c0be008ead0f75e8]
 
 *Extent: E+W*
 
@@ -72,4 +72,4 @@ to consider whether it would be practicable to combine that referendum with the 
 
 ## Annotations
 
-[^key-0a5f15735c1cc5b3c0be008ead0f75e8]: Commencement: Reg. 4 in force at 27.7.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2089/regulation/1/2)
+[^c-0a5f15735c1cc5b3c0be008ead0f75e8]: Commencement: Reg. 4 in force at 27.7.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2089/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 5. Consequential modification of contracts of employment and collective agreements[^key-10d17cc539c2119ec540634a708df89e]
+## 5. Consequential modification of contracts of employment and collective agreements[^c-10d17cc539c2119ec540634a708df89e]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-10d17cc539c2119ec540634a708df89e]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2024/143/regulation/5) in force at 9.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/143/regulation/1/2)
+[^c-10d17cc539c2119ec540634a708df89e]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2024/143/regulation/5) in force at 9.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/143/regulation/1/2)

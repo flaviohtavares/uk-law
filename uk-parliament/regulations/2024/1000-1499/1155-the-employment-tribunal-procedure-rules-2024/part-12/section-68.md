@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 68. Principles[^key-cb68ac5686cbaa6e8516a6b0d6220099]
+## 68. Principles[^c-cb68ac5686cbaa6e8516a6b0d6220099]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cb68ac5686cbaa6e8516a6b0d6220099]: Commencement: [Rule 68](https://www.legislation.gov.uk/uksi/2024/1155/rule/68) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-cb68ac5686cbaa6e8516a6b0d6220099]: Commencement: [Rule 68](https://www.legislation.gov.uk/uksi/2024/1155/rule/68) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 51. Payments to children[^key-6b922f5aa47a7931f8ef52a7b264e8b6]
+## 51. Payments to children[^c-6b922f5aa47a7931f8ef52a7b264e8b6]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6b922f5aa47a7931f8ef52a7b264e8b6]: Commencement: [S. 51](https://www.legislation.gov.uk/asp/2021/15/section/51) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)
+[^c-6b922f5aa47a7931f8ef52a7b264e8b6]: Commencement: [S. 51](https://www.legislation.gov.uk/asp/2021/15/section/51) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)

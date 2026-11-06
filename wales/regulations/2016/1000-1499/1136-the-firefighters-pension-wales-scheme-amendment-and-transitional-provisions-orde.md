@@ -47,7 +47,7 @@ Coming into force
 
 The Welsh Ministers, in exercise of the powers conferred upon the Secretary of State by section 26(1) to (5) of the Fire Services Act 1947[^f00001]and section 12 of the Superannuation Act 1972[^f00002]as applied by section 16(3)[^f00003] of that Act, and now vested in them[^f00004], make the following Order.
 
-## 1. Title and commencement[^key-f8f7c88a6fe913710182501609978871]
+## 1. Title and commencement[^c-f8f7c88a6fe913710182501609978871]
 
 (1) The title of this Order is the Firefighters’ Pension (Wales) Scheme (Amendment and Transitional Provisions) Order 2016.
 
@@ -55,23 +55,23 @@ The Welsh Ministers, in exercise of the powers conferred upon the Secretary of S
 
 ## 2. Amendment of the Firemen’s Pension Scheme Order 1992
 
-(1)[^key-a8fd67c2eecb75207ac6567c86e9bd3f] Schedule 2 to the Firemen’s Pension Scheme Order 1992[^f00006] (in which is set out the Firefighters’ Pension (Wales) Scheme) is amended as follows.
+(1)[^c-a8fd67c2eecb75207ac6567c86e9bd3f] Schedule 2 to the Firemen’s Pension Scheme Order 1992[^f00006] (in which is set out the Firefighters’ Pension (Wales) Scheme) is amended as follows.
 
-(2)[^key-0d648fda96af89e8b2c4d08954d086e0] In rule G2 (pension contributions)[^f00007]—
+(2)[^c-0d648fda96af89e8b2c4d08954d086e0] In rule G2 (pension contributions)[^f00007]—
 
 - (a) in paragraph (1) for “A regular firefighter shall” substitute “Subject to paragraph (1B), a regular firefighter shall”; and
 - (b) before paragraph (2) insert—
 
   > (1B) Paragraph (1) does not apply to a firefighter below the age of 50 who has reckoned 30 years or more pensionable service.
 
-(3)[^key-a8fd67c2eecb75207ac6567c86e9bd3f] In rule LA1(3) (establishment, maintenance and operation of Firefighters’ Pension Fund, etc.)[^f00008]—
+(3)[^c-a8fd67c2eecb75207ac6567c86e9bd3f] In rule LA1(3) (establishment, maintenance and operation of Firefighters’ Pension Fund, etc.)[^f00008]—
 
 - (a) at the end of sub-paragraph (d) for “.” substitute “; and”; and
 - (b) after sub-paragraph (d) insert—
 
   > - (e) sums payable under article 3 of the Firefighters’ Pension (Wales) Scheme (Amendment and Transitional Provisions) Order 2016.
 
-## 3. Transitional provision[^key-86101f52e8174d7406f4aeb88cc9cbe4]
+## 3. Transitional provision[^c-86101f52e8174d7406f4aeb88cc9cbe4]
 
 (1) A fire and rescue authority must pay the required amount as described in paragraph (3) to a firefighter who falls within paragraph (2).
 
@@ -79,7 +79,7 @@ The Welsh Ministers, in exercise of the powers conferred upon the Secretary of S
 
 (3) The required amount is a lump sum equal to [formula: see source](https://www.legislation.gov.uk/wsi/2016/1136), where—
 
-- A is the total value of each contribution (not including any contribution in relation to an additional pension benefit)[^key-907a8e1036e9ceee4f0d3d48421df0b5] paid net of any tax that would have been payable by the firefighter had the contribution not been paid;
+- A is the total value of each contribution (not including any contribution in relation to an additional pension benefit)[^c-907a8e1036e9ceee4f0d3d48421df0b5] paid net of any tax that would have been payable by the firefighter had the contribution not been paid;
 - B is the interest on A calculated in accordance with paragraph (4); and
 - C is 100/60.
 
@@ -128,23 +128,23 @@ The Welsh Ministers’ Regulatory Impact Assessment Code for Subordinate Legisla
 
 [^f00004]: Footnote: For the purposes of the Firefighters’ Pension (Wales) Scheme, section 26(1) to (5) have effect as if for each reference to the “Secretary of State” there were substituted a reference to the “National Assembly for Wales”; see article 2 of [S.I. 2006/1672 (W. 160)](https://www.legislation.gov.uk/wsi/2006/1672). By virtue of paragraph 30 of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32) the Assembly’s functions under section 26 of the Fire Services Act 1947 are now vested in the Welsh Ministers so far as they are exercisable in relation to Wales.
 
-[^key-f8f7c88a6fe913710182501609978871]: Commencement: [Art. 1](https://www.legislation.gov.uk/wsi/2016/1136/article/1) in force at 31.12.2016, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2016/1136/article/1/2)
+[^c-f8f7c88a6fe913710182501609978871]: Commencement: [Art. 1](https://www.legislation.gov.uk/wsi/2016/1136/article/1) in force at 31.12.2016, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2016/1136/article/1/2)
 
 [^f00005]: Footnote: Power to give retrospective effect is conferred by section 12(1) of the Superannuation Act [1972 (c. 11)](https://www.legislation.gov.uk/ukpga/1972/11).
 
-[^key-a8fd67c2eecb75207ac6567c86e9bd3f]: Commencement: [Art. 2(1)](https://www.legislation.gov.uk/wsi/2016/1136/article/2/1)[(3)](https://www.legislation.gov.uk/wsi/2016/1136/article/2/3) in force at 31.12.2016, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2016/1136/article/1/2)
+[^c-a8fd67c2eecb75207ac6567c86e9bd3f]: Commencement: [Art. 2(1)](https://www.legislation.gov.uk/wsi/2016/1136/article/2/1)[(3)](https://www.legislation.gov.uk/wsi/2016/1136/article/2/3) in force at 31.12.2016, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2016/1136/article/1/2)
 
 [^f00006]: Footnote: [S.I. 1992/129](https://www.legislation.gov.uk/uksi/1992/129); amended by S.I.s [1997/2309](https://www.legislation.gov.uk/uksi/1997/2309) and [2851](https://www.legislation.gov.uk/uksi/1997/2851), [1998/1010](https://www.legislation.gov.uk/uksi/1998/1010), [2001/3649](https://www.legislation.gov.uk/uksi/2001/3649) and [3691](https://www.legislation.gov.uk/uksi/2001/3691), [2004/1912](https://www.legislation.gov.uk/uksi/2004/1912) and [2918 (W. 257)](https://www.legislation.gov.uk/wsi/2004/2918), [2006/1672 (W. 160)](https://www.legislation.gov.uk/wsi/2006/1672), [2007/1074 (W. 112)](https://www.legislation.gov.uk/wsi/2007/1074), [2009/1226 (W. 109)](https://www.legislation.gov.uk/wsi/2009/1226), [2010/234](https://www.legislation.gov.uk/uksi/2010/234), [2013/736 (W. 88)](https://www.legislation.gov.uk/wsi/2013/736), [2014/522 (W. 63)](https://www.legislation.gov.uk/wsi/2014/522) and [3242 (W. 329)](https://www.legislation.gov.uk/wsi/2014/3242) and [2015/1016 (W. 71)](https://www.legislation.gov.uk/wsi/2015/1016).
 
-[^key-0d648fda96af89e8b2c4d08954d086e0]: Commencement: [Art. 2(2)](https://www.legislation.gov.uk/wsi/2016/1136/article/2/2) in force at 31.12.2016 with effect from 1.12.2006, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2016/1136/article/1/2)
+[^c-0d648fda96af89e8b2c4d08954d086e0]: Commencement: [Art. 2(2)](https://www.legislation.gov.uk/wsi/2016/1136/article/2/2) in force at 31.12.2016 with effect from 1.12.2006, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2016/1136/article/1/2)
 
 [^f00007]: Footnote: Paragraphs (1) and (1A) were substituted for paragraph (1) by article 2 of, and Schedule 1 to, [S.I. 2007/1074 (W. 112)](https://www.legislation.gov.uk/wsi/2007/1074); paragraph (1) was amended, and paragraph (1A) revoked, by article 3 of [S.I. 2012/974 (W. 128)](https://www.legislation.gov.uk/wsi/2012/974). There are other amendments to rule G2 which are not relevant to this instrument.
 
 [^f00008]: Footnote: Part LA was inserted by [S.I. 2007/1074 (W. 112)](https://www.legislation.gov.uk/wsi/2007/1074).
 
-[^key-86101f52e8174d7406f4aeb88cc9cbe4]: Commencement: [Art. 3](https://www.legislation.gov.uk/wsi/2016/1136/article/3) in force at 31.12.2016, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2016/1136/article/1/2)
+[^c-86101f52e8174d7406f4aeb88cc9cbe4]: Commencement: [Art. 3](https://www.legislation.gov.uk/wsi/2016/1136/article/3) in force at 31.12.2016, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2016/1136/article/1/2)
 
-[^key-907a8e1036e9ceee4f0d3d48421df0b5]: Textual amendment: Words in art. 3(3) inserted (retrospective to 31.12.2016) by [The Firefighters’ Pension Schemes and Compensation Scheme (Wales) (Amendment) Order 2018 (S.I. 2018/577)](https://www.legislation.gov.uk/wsi/2018/577), [arts. 1(5)](https://www.legislation.gov.uk/wsi/2018/577/article/1/5), [5](https://www.legislation.gov.uk/wsi/2018/577/article/5)
+[^c-907a8e1036e9ceee4f0d3d48421df0b5]: Textual amendment: Words in art. 3(3) inserted (retrospective to 31.12.2016) by [The Firefighters’ Pension Schemes and Compensation Scheme (Wales) (Amendment) Order 2018 (S.I. 2018/577)](https://www.legislation.gov.uk/wsi/2018/577), [arts. 1(5)](https://www.legislation.gov.uk/wsi/2018/577/article/1/5), [5](https://www.legislation.gov.uk/wsi/2018/577/article/5)
 
 [^f00009]: Footnote: [1998 c. 11](https://www.legislation.gov.uk/ukpga/1998/11).
 

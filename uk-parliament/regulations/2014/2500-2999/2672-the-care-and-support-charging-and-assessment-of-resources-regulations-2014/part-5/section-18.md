@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Calculation of capital[^key-9a72747762ab41c7cf845c1f52ce4a37]
+## 18. Calculation of capital[^c-9a72747762ab41c7cf845c1f52ce4a37]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9a72747762ab41c7cf845c1f52ce4a37]: Commencement: Reg. 18 in force at 1.4.2015 in accordance with reg. 1
+[^c-9a72747762ab41c7cf845c1f52ce4a37]: Commencement: Reg. 18 in force at 1.4.2015 in accordance with reg. 1

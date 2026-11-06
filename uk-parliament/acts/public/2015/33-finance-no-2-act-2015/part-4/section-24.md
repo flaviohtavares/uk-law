@@ -67,7 +67,7 @@ summary: ''
 
 (4) In section 274(3) (meaning of “relevant prohibitive rule”) after “as applied by section 272” insert “ , and apart also from section 272A ”.
 
-(5)[^key-ca5989823c77d25cd621dea59801d4d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-ca5989823c77d25cd621dea59801d4d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) In section 322 (which lists provisions relying on the definition of “commercial letting of furnished holiday accommodation”)—
 
@@ -141,4 +141,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ca5989823c77d25cd621dea59801d4d0]: Textual amendment: [S. 24(5)](https://www.legislation.gov.uk/ukpga/2015/33/section/24/5) omitted (15.9.2016) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 26(2)](https://www.legislation.gov.uk/ukpga/2016/24/section/26/2)
+[^c-ca5989823c77d25cd621dea59801d4d0]: Textual amendment: [S. 24(5)](https://www.legislation.gov.uk/ukpga/2015/33/section/24/5) omitted (15.9.2016) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 26(2)](https://www.legislation.gov.uk/ukpga/2016/24/section/26/2)

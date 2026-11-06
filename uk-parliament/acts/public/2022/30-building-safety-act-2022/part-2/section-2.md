@@ -16,22 +16,22 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. The building safety regulator[^key-d438d6d68b5350cbdea1a984ee615c06][^key-deac099e079f47e4cdc064e3b1878d3b]
+## 2. The building safety regulator[^c-d438d6d68b5350cbdea1a984ee615c06][^c-deac099e079f47e4cdc064e3b1878d3b]
 
 *Extent: E+W+S*
 
-(1)[^key-d438d6d68b5350cbdea1a984ee615c06] In this Part “**the regulator**” means the Building Safety Regulator[^key-c7107dee7331a51ad0dbebc6eb1b37fc].
+(1)[^c-d438d6d68b5350cbdea1a984ee615c06] In this Part “**the regulator**” means the Building Safety Regulator[^c-c7107dee7331a51ad0dbebc6eb1b37fc].
 
-(2)[^key-deac099e079f47e4cdc064e3b1878d3b][^key-3f747504b50cc4414d50681bf3790807] Schedule 1 contains amendments of provisions of the Health and Safety at Work etc Act 1974 [^key-feabd59e551dac873b7a737de3b1b4ea]....
+(2)[^c-deac099e079f47e4cdc064e3b1878d3b][^c-3f747504b50cc4414d50681bf3790807] Schedule 1 contains amendments of provisions of the Health and Safety at Work etc Act 1974 [^c-feabd59e551dac873b7a737de3b1b4ea]....
 
 ## Annotations
 
-[^key-d438d6d68b5350cbdea1a984ee615c06]: Commencement: S. 2(1) in force at Royal Assent, see [s. 170(1)(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/1/b)
+[^c-d438d6d68b5350cbdea1a984ee615c06]: Commencement: S. 2(1) in force at Royal Assent, see [s. 170(1)(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/1/b)
 
-[^key-deac099e079f47e4cdc064e3b1878d3b]: Commencement: S. 2(2) in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-deac099e079f47e4cdc064e3b1878d3b]: Commencement: S. 2(2) in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-c7107dee7331a51ad0dbebc6eb1b37fc]: Textual amendment: Words in [s. 2(1)](https://www.legislation.gov.uk/ukpga/2022/30/section/2/1) substituted (27.1.2026) by [The Building Safety Regulator (Establishment of New Body and Transfer of Functions etc.) Regulations 2026 (S.I. 2026/20)](https://www.legislation.gov.uk/uksi/2026/20), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/20/regulation/1/2), [Sch. 2 para. 11(a)](https://www.legislation.gov.uk/uksi/2026/20/schedule/2/paragraph/11/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/20/regulation/5))
+[^c-c7107dee7331a51ad0dbebc6eb1b37fc]: Textual amendment: Words in [s. 2(1)](https://www.legislation.gov.uk/ukpga/2022/30/section/2/1) substituted (27.1.2026) by [The Building Safety Regulator (Establishment of New Body and Transfer of Functions etc.) Regulations 2026 (S.I. 2026/20)](https://www.legislation.gov.uk/uksi/2026/20), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/20/regulation/1/2), [Sch. 2 para. 11(a)](https://www.legislation.gov.uk/uksi/2026/20/schedule/2/paragraph/11/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/20/regulation/5))
 
-[^key-3f747504b50cc4414d50681bf3790807]: Commencement: [S. 2(2)](https://www.legislation.gov.uk/ukpga/2022/30/section/2/2) in force at 28.6.2022 in so far as not already in force by [S.I. 2022/561](https://www.legislation.gov.uk/uksi/2022/561), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/561/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2022/561/regulation/3/a)
+[^c-3f747504b50cc4414d50681bf3790807]: Commencement: [S. 2(2)](https://www.legislation.gov.uk/ukpga/2022/30/section/2/2) in force at 28.6.2022 in so far as not already in force by [S.I. 2022/561](https://www.legislation.gov.uk/uksi/2022/561), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/561/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2022/561/regulation/3/a)
 
-[^key-feabd59e551dac873b7a737de3b1b4ea]: Textual amendment: Words in [s. 2(2)](https://www.legislation.gov.uk/ukpga/2022/30/section/2/2) omitted (27.1.2026) by virtue of [The Building Safety Regulator (Establishment of New Body and Transfer of Functions etc.) Regulations 2026 (S.I. 2026/20)](https://www.legislation.gov.uk/uksi/2026/20), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/20/regulation/1/2), [Sch. 2 para. 11(b)](https://www.legislation.gov.uk/uksi/2026/20/schedule/2/paragraph/11/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/20/regulation/5))
+[^c-feabd59e551dac873b7a737de3b1b4ea]: Textual amendment: Words in [s. 2(2)](https://www.legislation.gov.uk/ukpga/2022/30/section/2/2) omitted (27.1.2026) by virtue of [The Building Safety Regulator (Establishment of New Body and Transfer of Functions etc.) Regulations 2026 (S.I. 2026/20)](https://www.legislation.gov.uk/uksi/2026/20), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/20/regulation/1/2), [Sch. 2 para. 11(b)](https://www.legislation.gov.uk/uksi/2026/20/schedule/2/paragraph/11/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/20/regulation/5))

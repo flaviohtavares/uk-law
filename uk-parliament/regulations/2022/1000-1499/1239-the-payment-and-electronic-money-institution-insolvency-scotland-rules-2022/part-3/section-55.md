@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 55. Procedure for admitting customers’ relevant funds claims for voting[^key-71e4aff4d1ffec7b854a93645b24284c]
+## 55. Procedure for admitting customers’ relevant funds claims for voting[^c-71e4aff4d1ffec7b854a93645b24284c]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-71e4aff4d1ffec7b854a93645b24284c]: Commencement: Rule 55 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-71e4aff4d1ffec7b854a93645b24284c]: Commencement: Rule 55 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

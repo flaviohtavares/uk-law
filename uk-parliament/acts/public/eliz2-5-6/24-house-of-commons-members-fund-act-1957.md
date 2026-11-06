@@ -31,20 +31,20 @@ House Of Commons Members’ Fund Act 1957 (repealed)
 
 1957 c.24
 
-[^key-ee55f388ecb045bd6a276f1041cea907]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ee55f388ecb045bd6a276f1041cea907]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Power of Treasury to contribute to Fund.[^key-ee55f388ecb045bd6a276f1041cea907]
+## 1. Power of Treasury to contribute to Fund.[^c-ee55f388ecb045bd6a276f1041cea907]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-ee55f388ecb045bd6a276f1041cea907]
+## 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-ee55f388ecb045bd6a276f1041cea907]
 
-## 3. Short title and citation.[^key-ee55f388ecb045bd6a276f1041cea907]
+## 3. Short title and citation.[^c-ee55f388ecb045bd6a276f1041cea907]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ee55f388ecb045bd6a276f1041cea907]: Textual amendment: Act repealed (12.8.2016) by [House of Commons Members' Fund Act 2016 (c. 18)](https://www.legislation.gov.uk/ukpga/2016/18), [s. 9(c)](https://www.legislation.gov.uk/ukpga/2016/18/section/9/c)
+[^c-ee55f388ecb045bd6a276f1041cea907]: Textual amendment: Act repealed (12.8.2016) by [House of Commons Members' Fund Act 2016 (c. 18)](https://www.legislation.gov.uk/ukpga/2016/18), [s. 9(c)](https://www.legislation.gov.uk/ukpga/2016/18/section/9/c)

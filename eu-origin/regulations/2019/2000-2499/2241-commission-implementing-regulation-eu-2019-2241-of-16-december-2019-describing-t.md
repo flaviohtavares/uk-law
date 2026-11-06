@@ -35,80 +35,80 @@ describing the variables and the length, quality requirements and level of detai
 
 (Text with EEA relevance) (revoked)
 
-[^key-43f4e67cf941b45a3946b7aede220753]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-43f4e67cf941b45a3946b7aede220753]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Subject matter[^key-43f4e67cf941b45a3946b7aede220753]
+## Article 1. Subject matter[^c-43f4e67cf941b45a3946b7aede220753]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Definitions[^key-43f4e67cf941b45a3946b7aede220753]
+## Article 2. Definitions[^c-43f4e67cf941b45a3946b7aede220753]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Data requirements[^key-43f4e67cf941b45a3946b7aede220753]
+## Article 3. Data requirements[^c-43f4e67cf941b45a3946b7aede220753]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Transmission deadlines[^key-43f4e67cf941b45a3946b7aede220753]
+## Article 4. Transmission deadlines[^c-43f4e67cf941b45a3946b7aede220753]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Back series[^key-43f4e67cf941b45a3946b7aede220753]
+## Article 5. Back series[^c-43f4e67cf941b45a3946b7aede220753]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Sources and methods[^key-43f4e67cf941b45a3946b7aede220753]
+## Article 6. Sources and methods[^c-43f4e67cf941b45a3946b7aede220753]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Quality requirements[^key-43f4e67cf941b45a3946b7aede220753]
+## Article 7. Quality requirements[^c-43f4e67cf941b45a3946b7aede220753]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Entry into force[^key-43f4e67cf941b45a3946b7aede220753]
+## Article 8. Entry into force[^c-43f4e67cf941b45a3946b7aede220753]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f4e67cf941b45a3946b7aede220753]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-43f4e67cf941b45a3946b7aede220753]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I — Monthly unemployment statistics submitted in accordance with Article 3(1) \[option 1\][^key-43f4e67cf941b45a3946b7aede220753]
+## ANNEX I — Monthly unemployment statistics submitted in accordance with Article 3(1) \[option 1\][^c-43f4e67cf941b45a3946b7aede220753]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — Monthly unemployment inputs submitted in accordance with Article 3(1) \[option 2\][^key-43f4e67cf941b45a3946b7aede220753]
+## ANNEX II — Monthly unemployment inputs submitted in accordance with Article 3(1) \[option 2\][^c-43f4e67cf941b45a3946b7aede220753]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III — Monthly unemployment estimates submitted in accordance with Article 3(1) \[option 3\][^key-43f4e67cf941b45a3946b7aede220753]
+## ANNEX III — Monthly unemployment estimates submitted in accordance with Article 3(1) \[option 3\][^c-43f4e67cf941b45a3946b7aede220753]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX IV — Quality[^key-43f4e67cf941b45a3946b7aede220753]
+## ANNEX IV — Quality[^c-43f4e67cf941b45a3946b7aede220753]
 
-[^key-43f4e67cf941b45a3946b7aede220753]
+[^c-43f4e67cf941b45a3946b7aede220753]
 
 The quality of the overall monthly unemployment rate shall be monitored through a set of indicators measuring volatility and revisions, as detailed below.
 
-[^key-43f4e67cf941b45a3946b7aede220753]
+[^c-43f4e67cf941b45a3946b7aede220753]
 
 The indicators shall be calculated over the last 36 monthly observations available starting in May 2022.
 
-[^key-43f4e67cf941b45a3946b7aede220753]
+[^c-43f4e67cf941b45a3946b7aede220753]
 
 Those indicators shall be updated by the Commission (Eurostat) every three years.
 
-[^key-43f4e67cf941b45a3946b7aede220753]**Volatility**
+[^c-43f4e67cf941b45a3946b7aede220753]**Volatility**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f4e67cf941b45a3946b7aede220753]**Revisions**
+[^c-43f4e67cf941b45a3946b7aede220753]**Revisions**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-43f4e67cf941b45a3946b7aede220753]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 122](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/122)
+[^c-43f4e67cf941b45a3946b7aede220753]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 122](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/122)

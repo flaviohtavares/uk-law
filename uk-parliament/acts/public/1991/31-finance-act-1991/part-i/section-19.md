@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Vehicles leased to the handicapped.[^key-fc2946dc31e5b7c74708d3713982941e]
+## 19. Vehicles leased to the handicapped.[^c-fc2946dc31e5b7c74708d3713982941e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fc2946dc31e5b7c74708d3713982941e]: Textual amendment: [S. 19](https://www.legislation.gov.uk/ukpga/1991/31/section/19) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 5
+[^c-fc2946dc31e5b7c74708d3713982941e]: Textual amendment: [S. 19](https://www.legislation.gov.uk/ukpga/1991/31/section/19) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 5

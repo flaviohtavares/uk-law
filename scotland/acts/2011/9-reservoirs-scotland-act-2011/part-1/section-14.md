@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 14. Fees: registration and administration[^key-aa7178e2f275de0e2c15e10bc7ccb6c0]
+## 14. Fees: registration and administration[^c-aa7178e2f275de0e2c15e10bc7ccb6c0]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aa7178e2f275de0e2c15e10bc7ccb6c0]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2011/9/section/14) in force at 1.1.2015 by [S.S.I. 2014/348](https://www.legislation.gov.uk/ssi/2014/348), [art. 2](https://www.legislation.gov.uk/ssi/2014/348/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/348/schedule)
+[^c-aa7178e2f275de0e2c15e10bc7ccb6c0]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2011/9/section/14) in force at 1.1.2015 by [S.S.I. 2014/348](https://www.legislation.gov.uk/ssi/2014/348), [art. 2](https://www.legislation.gov.uk/ssi/2014/348/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/348/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Primary authorities[^key-cceb609f7c7ca9359ab35f235a0586b6]
+## 67. Primary authorities[^c-cceb609f7c7ca9359ab35f235a0586b6]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cceb609f7c7ca9359ab35f235a0586b6]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2013/24/section/67) in force at 1.10.2013 by [S.I. 2013/2227](https://www.legislation.gov.uk/uksi/2013/2227), [art. 2(d)](https://www.legislation.gov.uk/uksi/2013/2227/article/2/d)
+[^c-cceb609f7c7ca9359ab35f235a0586b6]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2013/24/section/67) in force at 1.10.2013 by [S.I. 2013/2227](https://www.legislation.gov.uk/uksi/2013/2227), [art. 2(d)](https://www.legislation.gov.uk/uksi/2013/2227/article/2/d)

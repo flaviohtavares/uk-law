@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 56. Notice of final hearing[^key-8fe78b2892097861f5bb3aceb7eb7bfe]
+## 56. Notice of final hearing[^c-8fe78b2892097861f5bb3aceb7eb7bfe]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8fe78b2892097861f5bb3aceb7eb7bfe]: Commencement: [Rule 56](https://www.legislation.gov.uk/uksi/2024/1155/rule/56) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-8fe78b2892097861f5bb3aceb7eb7bfe]: Commencement: [Rule 56](https://www.legislation.gov.uk/uksi/2024/1155/rule/56) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)

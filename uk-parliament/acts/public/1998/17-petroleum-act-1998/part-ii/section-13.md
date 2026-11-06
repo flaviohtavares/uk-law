@@ -25,7 +25,7 @@ summary: ''
 - “**foreign sector of the continental shelf**” has the meaning given by section 48(1); and
 - “**installation**” includes any floating structure or device maintained on a station by whatever means.
 
-(2)[^key-f860660c899089992ff5d9cd0e975386] An Order in Council under section 126(2) of the Scotland Act 1998 (apportionment of sea areas) has effect for the purposes of this Part if, or to the extent that, the Order is expressed to apply—
+(2)[^c-f860660c899089992ff5d9cd0e975386] An Order in Council under section 126(2) of the Scotland Act 1998 (apportionment of sea areas) has effect for the purposes of this Part if, or to the extent that, the Order is expressed to apply—
 
 - (a) by virtue of this subsection, for the purposes of this Part, or
 - (b) if no provision has been made by virtue of paragraph (a), for the general or residual purposes of that Act.
@@ -34,4 +34,4 @@ summary: ''
 
 [^M_F_03720a68-02b9-49e2-adc0-441ff71e879c]: Textual amendment: S. 13 renumbered as s. 13(1) (6.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [s. 110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2), [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2008/32/schedule/1/paragraph/8); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(a)(iii)](https://www.legislation.gov.uk/uksi/2009/45/article/4/a/iii)
 
-[^key-f860660c899089992ff5d9cd0e975386]: Textual amendment: S. 13(2) inserted (6.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [s. 110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2), [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2008/32/schedule/1/paragraph/8); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(a)(iii)](https://www.legislation.gov.uk/uksi/2009/45/article/4/a/iii)
+[^c-f860660c899089992ff5d9cd0e975386]: Textual amendment: S. 13(2) inserted (6.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [s. 110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2), [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2008/32/schedule/1/paragraph/8); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(a)(iii)](https://www.legislation.gov.uk/uksi/2009/45/article/4/a/iii)

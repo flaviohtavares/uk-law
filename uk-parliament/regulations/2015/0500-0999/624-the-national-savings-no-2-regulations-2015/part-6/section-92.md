@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Transfer of unclaimed money to the National Savings Bank[^key-ab706c434f5de911224ca300518052de]
+## 92. Transfer of unclaimed money to the National Savings Bank[^c-ab706c434f5de911224ca300518052de]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ab706c434f5de911224ca300518052de]: Commencement: Reg. 92 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-ab706c434f5de911224ca300518052de]: Commencement: Reg. 92 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)

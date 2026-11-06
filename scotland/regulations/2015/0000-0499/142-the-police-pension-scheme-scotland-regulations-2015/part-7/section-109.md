@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 109. Decision of employer void if appeal against decision of selected medical practitioner is successful[^key-ad53cc736e268cc89ad482e329b56032]
+## 109. Decision of employer void if appeal against decision of selected medical practitioner is successful[^c-ad53cc736e268cc89ad482e329b56032]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ad53cc736e268cc89ad482e329b56032]: Commencement: Reg. 109 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-ad53cc736e268cc89ad482e329b56032]: Commencement: Reg. 109 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

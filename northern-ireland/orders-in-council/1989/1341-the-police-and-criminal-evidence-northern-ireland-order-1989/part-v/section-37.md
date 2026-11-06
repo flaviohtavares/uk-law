@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 37. Custody officers at police stations[^c20414791][^key-071c4a9722a2b9ecd5a22ee23b01f72b]
+## 37. Custody officers at police stations[^c20414791][^c-071c4a9722a2b9ecd5a22ee23b01f72b]
 
 *Extent: N.I.*
 
@@ -68,7 +68,7 @@ that he is to do so.
 
 [^c20414791]: Modification: [Art. 37](https://www.legislation.gov.uk/nisi/1989/1341/article/37) applied (with modifications) (1.12.2007) by [Police and Criminal Evidence (Application to Revenue and Customs) Order (Northern Ireland) 2007 (S.R. 2007/464)](https://www.legislation.gov.uk/nisr/2007/464), [arts. 3-15](https://www.legislation.gov.uk/nisr/2007/464/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2007/464/schedule/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2007/464/schedule/2)
 
-[^key-071c4a9722a2b9ecd5a22ee23b01f72b]: Modification: [Art. 37](https://www.legislation.gov.uk/nisi/1989/1341/article/37) applied in part (with modifications) (10.2.2026) by [The Police and Criminal Evidence (Northern Ireland) Order 1989 (Application to Immigration Officers and Designated Customs Officials in Northern Ireland) and Consequential Amendments Regulations 2026 (S.I. 2026/117)](https://www.legislation.gov.uk/uksi/2026/117), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/1/2), [12-15](https://www.legislation.gov.uk/uksi/2026/117/regulation/12), [18(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/18/2), [22](https://www.legislation.gov.uk/uksi/2026/117/regulation/22), [Sch. 2](https://www.legislation.gov.uk/uksi/2026/117/schedule/2)
+[^c-071c4a9722a2b9ecd5a22ee23b01f72b]: Modification: [Art. 37](https://www.legislation.gov.uk/nisi/1989/1341/article/37) applied in part (with modifications) (10.2.2026) by [The Police and Criminal Evidence (Northern Ireland) Order 1989 (Application to Immigration Officers and Designated Customs Officials in Northern Ireland) and Consequential Amendments Regulations 2026 (S.I. 2026/117)](https://www.legislation.gov.uk/uksi/2026/117), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/1/2), [12-15](https://www.legislation.gov.uk/uksi/2026/117/regulation/12), [18(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/18/2), [22](https://www.legislation.gov.uk/uksi/2026/117/regulation/22), [Sch. 2](https://www.legislation.gov.uk/uksi/2026/117/schedule/2)
 
 [^c21395421]: Textual amendment: [Art. 37(3)](https://www.legislation.gov.uk/nisi/1989/1341/article/37/3) substituted (12.1.2010) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 112(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/112/1), [116(6)(a)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/6/a), [Sch. 7 para. 124(2)(a)](https://www.legislation.gov.uk/ukpga/2009/26/schedule/7/paragraph/124/2/a)
 

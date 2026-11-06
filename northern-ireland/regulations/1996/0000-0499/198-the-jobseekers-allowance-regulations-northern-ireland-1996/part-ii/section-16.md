@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 16. Further circumstances in which a person is to be treated as available: permitted period[^key-c6e8cc82c56d1965a93e6cdc09ed223f]
+## 16. Further circumstances in which a person is to be treated as available: permitted period[^c-c6e8cc82c56d1965a93e6cdc09ed223f]
 
 *Extent: N.I.*
 
@@ -41,4 +41,4 @@ may be treated for a permitted period as available for employment in that period
 
 ## Annotations
 
-[^key-c6e8cc82c56d1965a93e6cdc09ed223f]: Commencement: Reg. 16 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-c6e8cc82c56d1965a93e6cdc09ed223f]: Commencement: Reg. 16 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

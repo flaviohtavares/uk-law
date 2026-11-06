@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Appropriate decisions on determination by interim tribunal[^key-73372085f8617c9c772f2baf3df7ea15]
+## 60. Appropriate decisions on determination by interim tribunal[^c-73372085f8617c9c772f2baf3df7ea15]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-73372085f8617c9c772f2baf3df7ea15]: Commencement: Art. 60 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-73372085f8617c9c772f2baf3df7ea15]: Commencement: Art. 60 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

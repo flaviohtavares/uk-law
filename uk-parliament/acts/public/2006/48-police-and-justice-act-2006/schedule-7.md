@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 7 — Schedule to be inserted into the Police Reform Act 2002[^key-2f1cf5436b0b84d6b4c13d8c3ea34f24]
+## SCHEDULE 7 — Schedule to be inserted into the Police Reform Act 2002[^c-2f1cf5436b0b84d6b4c13d8c3ea34f24]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ Section 15
 
 ## Annotations
 
-[^key-2f1cf5436b0b84d6b4c13d8c3ea34f24]: Commencement: [Sch. 7](https://www.legislation.gov.uk/ukpga/2006/48/schedule/7) in force at 1.4.2007 by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(k)](https://www.legislation.gov.uk/uksi/2007/709/article/3/k) (with [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
+[^c-2f1cf5436b0b84d6b4c13d8c3ea34f24]: Commencement: [Sch. 7](https://www.legislation.gov.uk/ukpga/2006/48/schedule/7) in force at 1.4.2007 by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(k)](https://www.legislation.gov.uk/uksi/2007/709/article/3/k) (with [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))

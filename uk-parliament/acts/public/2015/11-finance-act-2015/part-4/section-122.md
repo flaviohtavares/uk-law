@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 122. Country-by-country reporting[^key-c44bf579fcabc7b277b54412cc143b77]
+## 122. Country-by-country reporting[^c-c44bf579fcabc7b277b54412cc143b77]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c44bf579fcabc7b277b54412cc143b77]: Textual amendment: [S. 122](https://www.legislation.gov.uk/ukpga/2015/11/section/122) repealed (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 349(11)(b)](https://www.legislation.gov.uk/ukpga/2023/30/section/349/11/b)
+[^c-c44bf579fcabc7b277b54412cc143b77]: Textual amendment: [S. 122](https://www.legislation.gov.uk/ukpga/2015/11/section/122) repealed (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 349(11)(b)](https://www.legislation.gov.uk/ukpga/2023/30/section/349/11/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Supplementary and transitional provision about elections[^key-86644d52acc8165d3fdaaa2579e848a2]
+## 3. Supplementary and transitional provision about elections[^c-86644d52acc8165d3fdaaa2579e848a2]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-86644d52acc8165d3fdaaa2579e848a2]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2012/11/section/3) in force at 1.7.2015 by [S.I. 2015/682](https://www.legislation.gov.uk/uksi/2015/682), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/682/article/2/b)
+[^c-86644d52acc8165d3fdaaa2579e848a2]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2012/11/section/3) in force at 1.7.2015 by [S.I. 2015/682](https://www.legislation.gov.uk/uksi/2015/682), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/682/article/2/b)

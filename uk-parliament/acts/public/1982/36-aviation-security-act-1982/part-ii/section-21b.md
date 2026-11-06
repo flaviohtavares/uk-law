@@ -34,7 +34,7 @@ he makes to any of the persons specified in subsection (3) below, to any employe
 - (a) the manager of an aerodrome in the United Kingdom,
 - (b) the authority responsible for an air navigation installation in the United Kingdom,
 - (c) the operator of one or more aircraft registered or operating in the United Kingdom, [^c794662] . . .
-- (d) any person who is permitted to have access to a security restricted area[^key-5126c9be7a6dc06fc81925af9f68dd08] of an aerodrome or air navigation installation for the purposes of the activities of a business carried on by him.
+- (d) any person who is permitted to have access to a security restricted area[^c-5126c9be7a6dc06fc81925af9f68dd08] of an aerodrome or air navigation installation for the purposes of the activities of a business carried on by him.
 
 [^c794663] and
 
@@ -56,6 +56,6 @@ he makes to any of the persons specified in subsection (3) below, to any employe
 
 [^c794662]: Textual amendment: Word in s. 21B(3)(c) omitted (1.9.1993) by virtue of [S.I. 1993/1073](https://www.legislation.gov.uk/uksi/1993/1073) , [reg. 12(2)(a)](https://www.legislation.gov.uk/uksi/1993/1073/regulation/12/2/a)
 
-[^key-5126c9be7a6dc06fc81925af9f68dd08]: Textual amendment: Words in s. 21B(3)(d) substituted (29.4.2010) by [The Aviation Security Regulations 2010 (S.I. 2010/902)](https://www.legislation.gov.uk/uksi/2010/902), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/902/regulation/1/1), [9(g)](https://www.legislation.gov.uk/uksi/2010/902/regulation/9/g)
+[^c-5126c9be7a6dc06fc81925af9f68dd08]: Textual amendment: Words in s. 21B(3)(d) substituted (29.4.2010) by [The Aviation Security Regulations 2010 (S.I. 2010/902)](https://www.legislation.gov.uk/uksi/2010/902), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/902/regulation/1/1), [9(g)](https://www.legislation.gov.uk/uksi/2010/902/regulation/9/g)
 
 [^c794663]: Textual amendment: S. 21B(3)(e) and 'and' preceding it added (1.9.1993) by [S.I. 1993/1073](https://www.legislation.gov.uk/uksi/1993/1073) , [reg. 12(2)(b)](https://www.legislation.gov.uk/uksi/1993/1073/regulation/12/2/b)

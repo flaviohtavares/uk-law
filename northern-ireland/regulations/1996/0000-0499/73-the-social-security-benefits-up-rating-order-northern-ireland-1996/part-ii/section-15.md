@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 15. Increase in rates of transitional invalidity allowance in long-term incapacity benefit cases[^key-055722003343e34aa82522bc98a37514]
+## 15. Increase in rates of transitional invalidity allowance in long-term incapacity benefit cases[^c-055722003343e34aa82522bc98a37514]
 
 *Extent: N.I.*
 
@@ -30,6 +30,6 @@ In regulation 18(2) of the Social Security (Incapacity Benefit) (Transitional) R
 
 ## Annotations
 
-[^key-055722003343e34aa82522bc98a37514]: Commencement: Art. 15 in operation at 11.4.1996, see [art. 1(1)(g)](https://www.legislation.gov.uk/nisr/1996/73/article/1/1/g)
+[^c-055722003343e34aa82522bc98a37514]: Commencement: Art. 15 in operation at 11.4.1996, see [art. 1(1)(g)](https://www.legislation.gov.uk/nisr/1996/73/article/1/1/g)
 
 [^f00024]: Footnote: [S.R. 1995 No. 35](https://www.legislation.gov.uk/nisr/1995/35); relevant amending provisions are [S.R. 1995 No. 71](https://www.legislation.gov.uk/nisr/1995/71)

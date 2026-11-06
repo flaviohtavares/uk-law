@@ -22,7 +22,7 @@ summary: ''
 
 Article 9
 
-### PART 1 — PERMANENT ALTERATION OF LAYOUT[^key-c21de45d95aafd9eb00aab8daf9ac573]
+### PART 1 — PERMANENT ALTERATION OF LAYOUT[^c-c21de45d95aafd9eb00aab8daf9ac573]
 
 | *(1)*<br>*District* | *(2)*<br>*Street name and maintenance* | *(3)*<br>*Description of alteration* |
 | --- | --- | --- |
@@ -41,7 +41,7 @@ Article 9
 | East Cambridgeshire District | Newnham Drove (publicly maintained) | Works for the provision of a permanent means of access to the authorised development within the area shown hatched orange on sheet 20 of the access and rights of way plans, reference AS-34. |
 | East Cambridgeshire District | Weirs Drove (publicly maintained) | Works for the provision of a permanent means of access to the authorised development within the area shown hatched orange on sheet 20 of the access and rights of way plans, reference AS-35. |
 
-### PART 2 — TEMPORARY ALTERATION OF LAYOUT[^key-9477ce777f0811310aec297b34a25a2f]
+### PART 2 — TEMPORARY ALTERATION OF LAYOUT[^c-9477ce777f0811310aec297b34a25a2f]
 
 | *(1)*<br>*District* | *(2)*<br>*Street* | *(3)*<br>*Description of alteration* |
 | --- | --- | --- |
@@ -71,6 +71,6 @@ Article 9
 
 ## Annotations
 
-[^key-c21de45d95aafd9eb00aab8daf9ac573]: Commencement: Sch. 5 Pt. 1 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/802/article/1)
+[^c-c21de45d95aafd9eb00aab8daf9ac573]: Commencement: Sch. 5 Pt. 1 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/802/article/1)
 
-[^key-9477ce777f0811310aec297b34a25a2f]: Commencement: Sch. 5 Pt. 2 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/802/article/1)
+[^c-9477ce777f0811310aec297b34a25a2f]: Commencement: Sch. 5 Pt. 2 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/802/article/1)

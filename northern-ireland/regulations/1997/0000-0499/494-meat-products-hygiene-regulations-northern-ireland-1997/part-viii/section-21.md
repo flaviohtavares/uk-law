@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 21. Application of various Articles of Food Safety (Northern Ireland) Order 1991[^key-27215fdc12b809dd487cd7bff26612b2]
+## 21. Application of various Articles of Food Safety (Northern Ireland) Order 1991[^c-27215fdc12b809dd487cd7bff26612b2]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ The following provisions of the Order shall apply for the purposes of these Regu
 
 ## Annotations
 
-[^key-27215fdc12b809dd487cd7bff26612b2]: Commencement: Reg. 21 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/494/regulation/1)
+[^c-27215fdc12b809dd487cd7bff26612b2]: Commencement: Reg. 21 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/494/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. The Consumers Committee, and other committees of the Commission.[^key-93fb1691267dd1fa93a11302358d293c][^c14209931][^c14209941]
+## 2. The Consumers Committee, and other committees of the Commission.[^c-93fb1691267dd1fa93a11302358d293c][^c14209931][^c14209941]
 
 *Extent: E+W+S*
 
@@ -24,7 +24,7 @@ summary: ''
 
 ## Annotations
 
-[^key-93fb1691267dd1fa93a11302358d293c]: Textual amendment: Ss. 1-25 repealed (1.4.2008) by [The Agriculture and Horticulture Development Board Order 2008 (S.I. 2008/576)](https://www.legislation.gov.uk/uksi/2008/576), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/576/article/1/3), [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/2008/576/schedule/5/paragraph/7) (with [Sch. 4 para. 10](https://www.legislation.gov.uk/uksi/2008/576/schedule/4/paragraph/10))
+[^c-93fb1691267dd1fa93a11302358d293c]: Textual amendment: Ss. 1-25 repealed (1.4.2008) by [The Agriculture and Horticulture Development Board Order 2008 (S.I. 2008/576)](https://www.legislation.gov.uk/uksi/2008/576), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/576/article/1/3), [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/2008/576/schedule/5/paragraph/7) (with [Sch. 4 para. 10](https://www.legislation.gov.uk/uksi/2008/576/schedule/4/paragraph/10))
 
 [^c14209931]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/1967/22/section/2) substituted with saving by [Agriculture (Miscellaneous Provisions) Act 1976 (c. 55)](https://www.legislation.gov.uk/ukpga/1976/55), [s. 3(4)](https://www.legislation.gov.uk/ukpga/1976/55/section/3/4), [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/1976/55/schedule/1/paragraph/2)
 

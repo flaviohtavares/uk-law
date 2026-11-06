@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 87. Right to make representations to SCSWIS under Chapter 4 as respects conditions[^key-0bb87620b1fea5b28d90b689a9909620][^key-eaa930c704556f5cd299ed193627f3eb]
+## 87. Right to make representations to SCSWIS under Chapter 4 as respects conditions[^c-0bb87620b1fea5b28d90b689a9909620][^c-eaa930c704556f5cd299ed193627f3eb]
 
 *Extent: S*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0bb87620b1fea5b28d90b689a9909620]: Commencement: [S. 87](https://www.legislation.gov.uk/asp/2010/8/section/87) in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-0bb87620b1fea5b28d90b689a9909620]: Commencement: [S. 87](https://www.legislation.gov.uk/asp/2010/8/section/87) in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
 
-[^key-eaa930c704556f5cd299ed193627f3eb]: Commencement: [S. 87](https://www.legislation.gov.uk/asp/2010/8/section/87) in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
+[^c-eaa930c704556f5cd299ed193627f3eb]: Commencement: [S. 87](https://www.legislation.gov.uk/asp/2010/8/section/87) in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)

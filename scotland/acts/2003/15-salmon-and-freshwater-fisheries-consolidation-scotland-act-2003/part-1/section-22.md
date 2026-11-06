@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 22. Size limit for selling trout[^key-687ee5f19bc1a4913f561f6f1d5ce8c0]
+## 22. Size limit for selling trout[^c-687ee5f19bc1a4913f561f6f1d5ce8c0]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ shall be guilty of an offence, and liable on summary conviction to a fine not ex
 
 ## Annotations
 
-[^key-687ee5f19bc1a4913f561f6f1d5ce8c0]: Commencement: S. 22 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-687ee5f19bc1a4913f561f6f1d5ce8c0]: Commencement: S. 22 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)

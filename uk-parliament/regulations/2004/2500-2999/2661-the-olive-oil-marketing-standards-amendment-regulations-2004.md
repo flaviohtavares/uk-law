@@ -32,7 +32,7 @@ summary: ''
 
 FOOD
 
-The Olive Oil (Marketing Standards) (Amendment) Regulations 2004 (revoked)[^key-4d1d465b6316b29c75bcf47a4b3d82fd]
+The Olive Oil (Marketing Standards) (Amendment) Regulations 2004 (revoked)[^c-4d1d465b6316b29c75bcf47a4b3d82fd]
 
 Made
 
@@ -52,24 +52,24 @@ for all other purposes
 
 1st November 2004
 
-[^key-4d1d465b6316b29c75bcf47a4b3d82fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4d1d465b6316b29c75bcf47a4b3d82fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, extent and commencement[^key-4d1d465b6316b29c75bcf47a4b3d82fd]
+## 1. Title, extent and commencement[^c-4d1d465b6316b29c75bcf47a4b3d82fd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Olive Oil (Marketing Standards) Regulations 2003[^key-4d1d465b6316b29c75bcf47a4b3d82fd]
+## 2. Amendment of the Olive Oil (Marketing Standards) Regulations 2003[^c-4d1d465b6316b29c75bcf47a4b3d82fd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4d1d465b6316b29c75bcf47a4b3d82fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4d1d465b6316b29c75bcf47a4b3d82fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4d1d465b6316b29c75bcf47a4b3d82fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4d1d465b6316b29c75bcf47a4b3d82fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4d1d465b6316b29c75bcf47a4b3d82fd]: Textual amendment: Regulations revoked (1.3.2014) by [The Olive Oil (Marketing Standards) Regulations 2014 (S.I. 2014/195)](https://www.legislation.gov.uk/uksi/2014/195), [regs. 1](https://www.legislation.gov.uk/uksi/2014/195/regulation/1), [20(g)](https://www.legislation.gov.uk/uksi/2014/195/regulation/20/g)
+[^c-4d1d465b6316b29c75bcf47a4b3d82fd]: Textual amendment: Regulations revoked (1.3.2014) by [The Olive Oil (Marketing Standards) Regulations 2014 (S.I. 2014/195)](https://www.legislation.gov.uk/uksi/2014/195), [regs. 1](https://www.legislation.gov.uk/uksi/2014/195/regulation/1), [20(g)](https://www.legislation.gov.uk/uksi/2014/195/regulation/20/g)

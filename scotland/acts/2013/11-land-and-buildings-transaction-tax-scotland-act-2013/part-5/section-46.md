@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 46. Open-ended investment companies[^key-742a8a7f138847bca7ac1ccc86434104]
+## 46. Open-ended investment companies[^c-742a8a7f138847bca7ac1ccc86434104]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ in a manner corresponding, subject to such modifications as the Scottish Ministe
 
 ## Annotations
 
-[^key-742a8a7f138847bca7ac1ccc86434104]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2013/11/section/46) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-742a8a7f138847bca7ac1ccc86434104]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2013/11/section/46) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)

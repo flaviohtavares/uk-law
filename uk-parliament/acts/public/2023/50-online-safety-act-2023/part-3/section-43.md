@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Procedure for issuing codes of practice[^key-5b4242e55b18ff43ce16caefe216c021]
+## 43. Procedure for issuing codes of practice[^c-5b4242e55b18ff43ce16caefe216c021]
 
 *Extent: E+W+S+N.I.*
 
@@ -78,4 +78,4 @@ But this is subject to subsection (15).
 
 ## Annotations
 
-[^key-5b4242e55b18ff43ce16caefe216c021]: Commencement: S. 43 in force at Royal Assent, see [s. 240(4)(e)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/e)
+[^c-5b4242e55b18ff43ce16caefe216c021]: Commencement: S. 43 in force at Royal Assent, see [s. 240(4)(e)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/e)

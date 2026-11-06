@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 196. General effect of orders under section 193[^key-1617484e7e11cb0fd6583632759c1d68]
+## 196. General effect of orders under section 193[^c-1617484e7e11cb0fd6583632759c1d68]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ the order shall not have effect until the occurrence of the first to occur of th
 
 ## Annotations
 
-[^key-1617484e7e11cb0fd6583632759c1d68]: Commencement: [S. 196](https://www.legislation.gov.uk/asp/2003/13/section/196) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
+[^c-1617484e7e11cb0fd6583632759c1d68]: Commencement: [S. 196](https://www.legislation.gov.uk/asp/2003/13/section/196) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Amendment of existing provisions about schemes for ordinary elections[^key-4357171787b74748c36357c6a636f908]
+## 54. Amendment of existing provisions about schemes for ordinary elections[^c-4357171787b74748c36357c6a636f908]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ the repeal of section 7(4) to (6) of the 1972 Act does not apply to the request 
 
 ## Annotations
 
-[^key-4357171787b74748c36357c6a636f908]: Commencement: S. 54 in force at 30.12.2007, see s. 245(2)
+[^c-4357171787b74748c36357c6a636f908]: Commencement: S. 54 in force at 30.12.2007, see s. 245(2)

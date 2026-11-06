@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**104.**[^key-08b386672d76c015827b61e5fd92afa6] In section 86A[^f00131] (visitors for children notified to local authority under section 85 or 86)—
+**104.**[^c-08b386672d76c015827b61e5fd92afa6] In section 86A[^f00131] (visitors for children notified to local authority under section 85 or 86)—
 
 - (a) in subsection (1) after “local authority” insert “in England”;
 - (b) in subsection (1)(a) after “section 85(1) or 86(1)” insert “, or under section 120(2)(a) of the Social Services and Well-being (Wales) Act 2014”;
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-08b386672d76c015827b61e5fd92afa6]: Commencement: Reg. 104 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-08b386672d76c015827b61e5fd92afa6]: Commencement: Reg. 104 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00131]: Footnote: Section 86A was inserted by the Children and Young Persons Act [2008 (c. 23)](https://www.legislation.gov.uk/ukpga/2008/23), section 18.

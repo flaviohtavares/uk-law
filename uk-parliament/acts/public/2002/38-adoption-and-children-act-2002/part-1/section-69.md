@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Rules of interpretation for instruments concerning property[^key-8609561c1a16fff68e5fc03d29dd1953][^key-88a9b570df2410603f09823bd84b3e11]
+## 69. Rules of interpretation for instruments concerning property[^c-8609561c1a16fff68e5fc03d29dd1953][^c-88a9b570df2410603f09823bd84b3e11]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,8 +39,8 @@ but this does not affect any reference to a person’s age.
 
 (4) Section 67(3) does not prejudice—
 
-- (a) any qualifying interest, [^key-163da06ee31210c4a849fddbf2a033c3]...
-- (b) any interest expectant (whether immediately or not) upon a qualifying interest, or[^key-c6da3c63549fb5b9ac64f7a58acc644c]
+- (a) any qualifying interest, [^c-163da06ee31210c4a849fddbf2a033c3]...
+- (b) any interest expectant (whether immediately or not) upon a qualifying interest, or[^c-c6da3c63549fb5b9ac64f7a58acc644c]
 - (c) any contingent interest (other than a contingent interest in remainder) which the adopted person has immediately before the adoption in the estate of a deceased parent, whether testate or intestate.
 
 “**Qualifying interest**” means an interest vested in possession in the adopted person before the adoption.
@@ -54,10 +54,10 @@ but this does not affect any reference to a person’s age.
 
 ## Annotations
 
-[^key-8609561c1a16fff68e5fc03d29dd1953]: Commencement: S. 69 in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(d)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/d) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
+[^c-8609561c1a16fff68e5fc03d29dd1953]: Commencement: S. 69 in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(d)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/d) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
 
-[^key-88a9b570df2410603f09823bd84b3e11]: Modification: S. 69 applied (with modifications) (6.4.2010) by [The Human Fertilisation and Embryology (Parental Orders) Regulations 2010 (S.I. 2010/985)](https://www.legislation.gov.uk/uksi/2010/985), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/985/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2010/985/regulation/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/985/schedule/1)
+[^c-88a9b570df2410603f09823bd84b3e11]: Modification: S. 69 applied (with modifications) (6.4.2010) by [The Human Fertilisation and Embryology (Parental Orders) Regulations 2010 (S.I. 2010/985)](https://www.legislation.gov.uk/uksi/2010/985), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/985/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2010/985/regulation/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/985/schedule/1)
 
-[^key-163da06ee31210c4a849fddbf2a033c3]: Textual amendment: Word in s. 69(4) omitted (1.10.2014) by virtue of [Inheritance and Trustees' Powers Act 2014 (c. 16)](https://www.legislation.gov.uk/ukpga/2014/16), [ss. 4(1)(a)](https://www.legislation.gov.uk/ukpga/2014/16/section/4/1/a), [12(2)](https://www.legislation.gov.uk/ukpga/2014/16/section/12/2) (with [s. 4(2)](https://www.legislation.gov.uk/ukpga/2014/16/section/4/2)); [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
+[^c-163da06ee31210c4a849fddbf2a033c3]: Textual amendment: Word in s. 69(4) omitted (1.10.2014) by virtue of [Inheritance and Trustees' Powers Act 2014 (c. 16)](https://www.legislation.gov.uk/ukpga/2014/16), [ss. 4(1)(a)](https://www.legislation.gov.uk/ukpga/2014/16/section/4/1/a), [12(2)](https://www.legislation.gov.uk/ukpga/2014/16/section/12/2) (with [s. 4(2)](https://www.legislation.gov.uk/ukpga/2014/16/section/4/2)); [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
 
-[^key-c6da3c63549fb5b9ac64f7a58acc644c]: Textual amendment: S. 69(4)(c) inserted (1.10.2014) by [Inheritance and Trustees' Powers Act 2014 (c. 16)](https://www.legislation.gov.uk/ukpga/2014/16), [ss. 4(1)(b)](https://www.legislation.gov.uk/ukpga/2014/16/section/4/1/b), [12(2)](https://www.legislation.gov.uk/ukpga/2014/16/section/12/2) (with [s. 4(2)](https://www.legislation.gov.uk/ukpga/2014/16/section/4/2)); [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
+[^c-c6da3c63549fb5b9ac64f7a58acc644c]: Textual amendment: S. 69(4)(c) inserted (1.10.2014) by [Inheritance and Trustees' Powers Act 2014 (c. 16)](https://www.legislation.gov.uk/ukpga/2014/16), [ss. 4(1)(b)](https://www.legislation.gov.uk/ukpga/2014/16/section/4/1/b), [12(2)](https://www.legislation.gov.uk/ukpga/2014/16/section/12/2) (with [s. 4(2)](https://www.legislation.gov.uk/ukpga/2014/16/section/4/2)); [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)

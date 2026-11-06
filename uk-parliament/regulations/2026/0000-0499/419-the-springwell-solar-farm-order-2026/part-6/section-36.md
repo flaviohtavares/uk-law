@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Consent to transfer the benefit of the Order[^key-d6493951dcf428578c512b572c60423b]
+## 36. Consent to transfer the benefit of the Order[^c-d6493951dcf428578c512b572c60423b]
 
 *Extent: E+W*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d6493951dcf428578c512b572c60423b]: Commencement: Art. 36 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
+[^c-d6493951dcf428578c512b572c60423b]: Commencement: Art. 36 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)

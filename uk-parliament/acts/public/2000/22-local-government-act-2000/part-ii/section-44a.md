@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44A. Election of leader: whole-council elections[^key-481f790cbb57a8408a496b5114706f83][^key-dfd6ae37e1cf972d9b3d339ddef7504b]
+## 44A. Election of leader: whole-council elections[^c-481f790cbb57a8408a496b5114706f83][^c-dfd6ae37e1cf972d9b3d339ddef7504b]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-481f790cbb57a8408a496b5114706f83]: Textual amendment: S. 44A and cross-heading repealed (4.5.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 3 para. 58](https://www.legislation.gov.uk/ukpga/2011/20/schedule/3/paragraph/58), [Sch. 25 Pt. 4](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/4); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 4(b)(c)](https://www.legislation.gov.uk/uksi/2012/1008/article/4/b/c)
+[^c-481f790cbb57a8408a496b5114706f83]: Textual amendment: S. 44A and cross-heading repealed (4.5.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 3 para. 58](https://www.legislation.gov.uk/ukpga/2011/20/schedule/3/paragraph/58), [Sch. 25 Pt. 4](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/4); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 4(b)(c)](https://www.legislation.gov.uk/uksi/2012/1008/article/4/b/c)
 
-[^key-dfd6ae37e1cf972d9b3d339ddef7504b]: Modification: S. 44A saving for effect of 2011 c. 20, Sch. 3 para. 58 (4.5.2012) by [The Localism Act 2011 (Local Authority Governance Transitional Provisions) (England) Order 2012 (S.I. 2012/1023)](https://www.legislation.gov.uk/uksi/2012/1023), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/1023/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2012/1023/article/2/2)
+[^c-dfd6ae37e1cf972d9b3d339ddef7504b]: Modification: S. 44A saving for effect of 2011 c. 20, Sch. 3 para. 58 (4.5.2012) by [The Localism Act 2011 (Local Authority Governance Transitional Provisions) (England) Order 2012 (S.I. 2012/1023)](https://www.legislation.gov.uk/uksi/2012/1023), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/1023/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2012/1023/article/2/2)

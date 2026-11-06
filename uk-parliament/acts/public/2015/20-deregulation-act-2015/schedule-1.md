@@ -24,7 +24,7 @@ Section 3
 
 ### PART 1 — Main amendments
 
-**1.**[^c22547961][^key-83e93b52fb2823c943af0b473de79971] In Part 1 of the Apprenticeships, Skills, Children and Learning Act 2009 (apprenticeships, study and training), before Chapter 1 insert—
+**1.**[^c22547961][^c-83e93b52fb2823c943af0b473de79971] In Part 1 of the Apprenticeships, Skills, Children and Learning Act 2009 (apprenticeships, study and training), before Chapter 1 insert—
 
 > **CHAPTER A1 — Apprenticeships: England**
 >
@@ -158,7 +158,7 @@ Section 3
 > - “**relevant member of the House of Commons staff**” has the meaning given by section 195(5) of the Employment Rights Act 1996;
 > - “**relevant member of the House of Lords staff**” has the meaning given by section 194(6) of that Act.
 
-**2.**[^c22547971][^key-0a3d4698acf9df58cdd420c24be08bb7] (1) Section 100 of the Apprenticeships, Skills, Children and Learning Act 2009 (provision of financial resources) is amended as follows.
+**2.**[^c22547971][^c-0a3d4698acf9df58cdd420c24be08bb7] (1) Section 100 of the Apprenticeships, Skills, Children and Learning Act 2009 (provision of financial resources) is amended as follows.
 
 (2) In subsection (1), after “financial resources” insert “ under this subsection ”.
 
@@ -173,7 +173,7 @@ Section 3
 
 (5) In subsection (4), after “subsection (1)(c)” insert “ or (1A) ”.
 
-**3.**[^c22547981][^key-ca2eb0854537a694b1c7a04987abdc40] (1) Section 101 of that Act (financial resources: conditions) is amended as follows.
+**3.**[^c22547981][^c-ca2eb0854537a694b1c7a04987abdc40] (1) Section 101 of that Act (financial resources: conditions) is amended as follows.
 
 (2) In subsection (2)—
 
@@ -182,62 +182,62 @@ Section 3
 
 (3) Omit subsections (4) and (5).
 
-**4.**[^c22547991][^key-939aab83788a3b336465ab52d23b0f21] In section 103 of that Act (means tests), in subsection (1) (as amended by paragraph 16 of Schedule 14), after “section 100(1)(c), (d) or (e)” insert “ or (1A) ”.
+**4.**[^c22547991][^c-939aab83788a3b336465ab52d23b0f21] In section 103 of that Act (means tests), in subsection (1) (as amended by paragraph 16 of Schedule 14), after “section 100(1)(c), (d) or (e)” insert “ or (1A) ”.
 
 ### PART 2 — Consequential amendments
 
-**5.**[^key-c49ca1c609019183bae8db1f553f5750] In consequence of the amendments made by Part 1 of this Schedule, the Apprenticeships, Skills, Children and Learning Act 2009 is further amended as follows.
+**5.**[^c-c49ca1c609019183bae8db1f553f5750] In consequence of the amendments made by Part 1 of this Schedule, the Apprenticeships, Skills, Children and Learning Act 2009 is further amended as follows.
 
 #### Amendments of Part 1
 
-**6.**[^key-30fcb4ad1a22f1472f4c6823dffcc841] For the title of Chapter 1, substitute “ Apprenticeships: Wales ”.
+**6.**[^c-30fcb4ad1a22f1472f4c6823dffcc841] For the title of Chapter 1, substitute “ Apprenticeships: Wales ”.
 
-**7.**[^key-526749c486c2ee8c33767b301e7f709d] Omit section 1, and the italic cross-heading before it.
+**7.**[^c-526749c486c2ee8c33767b301e7f709d] Omit section 1, and the italic cross-heading before it.
 
-**8.**[^key-c3998fa720b468035ab79f4b4bb792ec] Omit sections 3 to 6, and the italic cross-heading before them.
+**8.**[^c-c3998fa720b468035ab79f4b4bb792ec] Omit sections 3 to 6, and the italic cross-heading before them.
 
-**9.**[^key-f07f439312d5b1db27e8cdb243cade99] In section 11—
+**9.**[^c-f07f439312d5b1db27e8cdb243cade99] In section 11—
 
 - (a) in subsection (2), for “the appropriate national authority” substitute “ the Welsh Ministers ”;
 - (b) omit subsection (3);
 - (c) in the italic cross-heading before that section, omit “England and”.
 
-**10.**[^key-d87d64cb470cf11be0933af3f2ee077e] In section 12—
+**10.**[^c-d87d64cb470cf11be0933af3f2ee077e] In section 12—
 
 - (a) omit subsection (3);
 - (b) in the italic cross-heading before that section, omit “England and”.
 
-**11.**[^key-3852cefc6ebf08689596c1fd16a77d91] Omit sections 13 to 17, and the italic cross-heading before them.
+**11.**[^c-3852cefc6ebf08689596c1fd16a77d91] Omit sections 13 to 17, and the italic cross-heading before them.
 
-**12.**[^key-bfdfbb13279bf5c2ecdb1dfe6abe73df] Omit sections 23 to 27, and the italic cross-heading before them.
+**12.**[^c-bfdfbb13279bf5c2ecdb1dfe6abe73df] Omit sections 23 to 27, and the italic cross-heading before them.
 
-**13.**[^key-510995be237e94009f214ec9f39d702a] In the italic cross-heading before section 32, omit “England and”.
+**13.**[^c-510995be237e94009f214ec9f39d702a] In the italic cross-heading before section 32, omit “England and”.
 
-**14.**[^key-72d9be5d91a1c2942045e57259ebe60c] In section 32, omit subsection (6)(a), and the “or” following it.
+**14.**[^c-72d9be5d91a1c2942045e57259ebe60c] In section 32, omit subsection (6)(a), and the “or” following it.
 
-**15.**[^key-f68c9a2d57c78d8b0b95bbb8c0a67897] In section 38—
+**15.**[^c-f68c9a2d57c78d8b0b95bbb8c0a67897] In section 38—
 
 - (a) in subsection (1), for “The Secretary of State” substitute “ The Welsh Ministers ”;
 - (b) in subsection (2), for “the Secretary of State” substitute “ the Welsh Ministers ”.
 
-**16.**[^key-39264946917200cc7cb55f34cf895286] In section 39, in subsection (1)—
+**16.**[^c-39264946917200cc7cb55f34cf895286] In section 39, in subsection (1)—
 
 - (a) in the definition of “apprenticeship certificate”, omit “3, 4,”;
 - (b) omit the definitions of “English certifying authority”, “English issuing authority”, “recognised English framework” and “the specification of apprenticeship standards for England”.
 
 #### Other amendments of the 2009 Act
 
-**17.**[^key-f77bc073d517143bd2b312b8f1c4db28] In section 83, in subsection (5), for paragraphs (a) to (c) substitute—
+**17.**[^c-f77bc073d517143bd2b312b8f1c4db28] In section 83, in subsection (5), for paragraphs (a) to (c) substitute—
 
 > - (a) an approved English apprenticeship, or
 > - (b) any contract of service (other than an approved English apprenticeship agreement) or contract of apprenticeship.
 
-**18.**[^key-717577ad355524a378d945ddf328e34a] In section 83A—
+**18.**[^c-717577ad355524a378d945ddf328e34a] In section 83A—
 
 - (a) in subsection (3), for the words from “opportunity to” to the end of the subsection substitute “ opportunity to enter into an approved English apprenticeship. ”;
 - (b) omit subsection (11).
 
-**19.**[^key-147ef6aac44af822dcb51a7ed4fc432f] (1) Section 83B is amended as follows.
+**19.**[^c-147ef6aac44af822dcb51a7ed4fc432f] (1) Section 83B is amended as follows.
 
 (2) In subsection (1), for the words from “at a particular level” to the end of the subsection substitute “for the purpose of assisting a person to achieve a particular approved apprenticeship standard if the person—
 
@@ -251,14 +251,14 @@ Section 3
 
 (4) Omit subsections (2) to (5).
 
-**20.**[^key-0d2457435b23f37fcf5341da7e09a676] In section 90, in subsection (2), for paragraphs (a) and (b) substitute—
+**20.**[^c-0d2457435b23f37fcf5341da7e09a676] In section 90, in subsection (2), for paragraphs (a) and (b) substitute—
 
 > - (a) an approved English apprenticeship, or
 > - (b) any contract of employment (other than an approved English apprenticeship agreement) in connection with which training is provided.
 
-**21.**[^key-371daf30c8f1c49d6b7c7c228e380a70] Omit section 105.
+**21.**[^c-371daf30c8f1c49d6b7c7c228e380a70] Omit section 105.
 
-**22.**[^key-a0dca24560709b3eeec2f87bbde837d0] In section 121, in subsection (1)—
+**22.**[^c-a0dca24560709b3eeec2f87bbde837d0] In section 121, in subsection (1)—
 
 - (a) omit the definition of “apprenticeship agreement”;
 - (b) after the definition of “apprenticeship training” insert—
@@ -267,13 +267,13 @@ Section 3
 
   .
 
-**23.**[^key-102f38332a5fd4adff875745ee547cfd] In section 267, in subsection (2), for “Chapter 1” substitute “ Chapter A1 ”.
+**23.**[^c-102f38332a5fd4adff875745ee547cfd] In section 267, in subsection (2), for “Chapter 1” substitute “ Chapter A1 ”.
 
 ### PART 3 — Apprenticeships: Wales
 
-**24.**[^key-72ed9f1df8f4961e0312325473b2d96b] Part 1 of the Apprenticeships, Skills, Children and Learning Act 2009 is amended as follows.
+**24.**[^c-72ed9f1df8f4961e0312325473b2d96b] Part 1 of the Apprenticeships, Skills, Children and Learning Act 2009 is amended as follows.
 
-**25.**[^key-7562d64f6e77cd6fd104ea455295ceb9] (1) Section 18 (Welsh issuing authority) is amended as follows.
+**25.**[^c-7562d64f6e77cd6fd104ea455295ceb9] (1) Section 18 (Welsh issuing authority) is amended as follows.
 
 (2) For subsection (2) substitute—
 
@@ -286,12 +286,12 @@ Section 3
 > - (a) the person (if any) designated under this section to issue frameworks of that description;
 > - (b) if there is no-one so designated, the Welsh Ministers.
 
-**26.**[^key-bb8cb0cfa0c11c73b52335e7708b6302] In section 19 (issue: Wales), in subsection (2)—
+**26.**[^c-bb8cb0cfa0c11c73b52335e7708b6302] In section 19 (issue: Wales), in subsection (2)—
 
 - (a) after “withdrawn” insert “ by the Welsh issuing authority ”;
 - (b) omit paragraphs (a) and (b).
 
-**27.**[^key-0e2ebc3744aa480f5865cd4b0a1362f3] (1) Section 20 (recognised Welsh frameworks: notification and publication) is amended as follows.
+**27.**[^c-0e2ebc3744aa480f5865cd4b0a1362f3] (1) Section 20 (recognised Welsh frameworks: notification and publication) is amended as follows.
 
 (2) In subsection (1)(b), at the beginning insert “ if the issuing authority is not the Welsh Ministers, ”.
 
@@ -311,64 +311,64 @@ Section 3
 
 [^c22547961]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2015/20/schedule/1/paragraph/1) in force for certain purposes at Royal Assent, see [s. 115](https://www.legislation.gov.uk/ukpga/2015/20/section/115)
 
-[^key-83e93b52fb2823c943af0b473de79971]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2015/20/schedule/1/paragraph/1) in force at 26.5.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(a)](https://www.legislation.gov.uk/uksi/2015/994/article/6/a) (with [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/2))
+[^c-83e93b52fb2823c943af0b473de79971]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2015/20/schedule/1/paragraph/1) in force at 26.5.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(a)](https://www.legislation.gov.uk/uksi/2015/994/article/6/a) (with [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/2))
 
 [^c22547971]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2015/20/schedule/1/paragraph/2) in force for certain purposes at Royal Assent, see [s. 115](https://www.legislation.gov.uk/ukpga/2015/20/section/115)
 
-[^key-0a3d4698acf9df58cdd420c24be08bb7]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2015/20/schedule/1/paragraph/2) in force at 26.5.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(a)](https://www.legislation.gov.uk/uksi/2015/994/article/6/a) (with [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/2))
+[^c-0a3d4698acf9df58cdd420c24be08bb7]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2015/20/schedule/1/paragraph/2) in force at 26.5.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(a)](https://www.legislation.gov.uk/uksi/2015/994/article/6/a) (with [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/2))
 
 [^c22547981]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2015/20/schedule/1/paragraph/3) in force for certain purposes at Royal Assent, see [s. 115](https://www.legislation.gov.uk/ukpga/2015/20/section/115)
 
-[^key-ca2eb0854537a694b1c7a04987abdc40]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2015/20/schedule/1/paragraph/3) in force at 26.5.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(a)](https://www.legislation.gov.uk/uksi/2015/994/article/6/a) (with [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/2))
+[^c-ca2eb0854537a694b1c7a04987abdc40]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2015/20/schedule/1/paragraph/3) in force at 26.5.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(a)](https://www.legislation.gov.uk/uksi/2015/994/article/6/a) (with [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/2))
 
 [^c22547991]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2015/20/schedule/1/paragraph/4) in force for certain purposes at Royal Assent, see [s. 115](https://www.legislation.gov.uk/ukpga/2015/20/section/115)
 
-[^key-939aab83788a3b336465ab52d23b0f21]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2015/20/schedule/1/paragraph/4) in force at 26.5.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(a)](https://www.legislation.gov.uk/uksi/2015/994/article/6/a) (with [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/2))
+[^c-939aab83788a3b336465ab52d23b0f21]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2015/20/schedule/1/paragraph/4) in force at 26.5.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(a)](https://www.legislation.gov.uk/uksi/2015/994/article/6/a) (with [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/2))
 
-[^key-c49ca1c609019183bae8db1f553f5750]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2015/20/schedule/1/paragraph/5) in force at 26.5.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(a)](https://www.legislation.gov.uk/uksi/2015/994/article/6/a) (with [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/2))
+[^c-c49ca1c609019183bae8db1f553f5750]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2015/20/schedule/1/paragraph/5) in force at 26.5.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(a)](https://www.legislation.gov.uk/uksi/2015/994/article/6/a) (with [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/2))
 
-[^key-30fcb4ad1a22f1472f4c6823dffcc841]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2015/20/schedule/1/paragraph/6) in force at 26.5.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(a)](https://www.legislation.gov.uk/uksi/2015/994/article/6/a) (with [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/2))
+[^c-30fcb4ad1a22f1472f4c6823dffcc841]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2015/20/schedule/1/paragraph/6) in force at 26.5.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(a)](https://www.legislation.gov.uk/uksi/2015/994/article/6/a) (with [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/2))
 
-[^key-526749c486c2ee8c33767b301e7f709d]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2015/20/schedule/1/paragraph/7) in force at 26.5.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(a)](https://www.legislation.gov.uk/uksi/2015/994/article/6/a) (with [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/2))
+[^c-526749c486c2ee8c33767b301e7f709d]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2015/20/schedule/1/paragraph/7) in force at 26.5.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(a)](https://www.legislation.gov.uk/uksi/2015/994/article/6/a) (with [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/2))
 
-[^key-c3998fa720b468035ab79f4b4bb792ec]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2015/20/schedule/1/paragraph/8) in force at 26.5.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(a)](https://www.legislation.gov.uk/uksi/2015/994/article/6/a) (with [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/2))
+[^c-c3998fa720b468035ab79f4b4bb792ec]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2015/20/schedule/1/paragraph/8) in force at 26.5.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(a)](https://www.legislation.gov.uk/uksi/2015/994/article/6/a) (with [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/2))
 
-[^key-f07f439312d5b1db27e8cdb243cade99]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2015/20/schedule/1/paragraph/9) in force at 26.5.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(a)](https://www.legislation.gov.uk/uksi/2015/994/article/6/a) (with [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/2))
+[^c-f07f439312d5b1db27e8cdb243cade99]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2015/20/schedule/1/paragraph/9) in force at 26.5.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(a)](https://www.legislation.gov.uk/uksi/2015/994/article/6/a) (with [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/2))
 
-[^key-d87d64cb470cf11be0933af3f2ee077e]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2015/20/schedule/1/paragraph/10) in force at 26.5.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(a)](https://www.legislation.gov.uk/uksi/2015/994/article/6/a) (with [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/2))
+[^c-d87d64cb470cf11be0933af3f2ee077e]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2015/20/schedule/1/paragraph/10) in force at 26.5.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(a)](https://www.legislation.gov.uk/uksi/2015/994/article/6/a) (with [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/2))
 
-[^key-3852cefc6ebf08689596c1fd16a77d91]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2015/20/schedule/1/paragraph/11) in force at 26.5.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(a)](https://www.legislation.gov.uk/uksi/2015/994/article/6/a) (with [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/2))
+[^c-3852cefc6ebf08689596c1fd16a77d91]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2015/20/schedule/1/paragraph/11) in force at 26.5.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(a)](https://www.legislation.gov.uk/uksi/2015/994/article/6/a) (with [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/2))
 
-[^key-bfdfbb13279bf5c2ecdb1dfe6abe73df]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2015/20/schedule/1/paragraph/12) in force at 26.5.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(a)](https://www.legislation.gov.uk/uksi/2015/994/article/6/a) (with [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/2))
+[^c-bfdfbb13279bf5c2ecdb1dfe6abe73df]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2015/20/schedule/1/paragraph/12) in force at 26.5.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(a)](https://www.legislation.gov.uk/uksi/2015/994/article/6/a) (with [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/2))
 
-[^key-510995be237e94009f214ec9f39d702a]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2015/20/schedule/1/paragraph/13) in force at 26.5.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(a)](https://www.legislation.gov.uk/uksi/2015/994/article/6/a) (with [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/2))
+[^c-510995be237e94009f214ec9f39d702a]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2015/20/schedule/1/paragraph/13) in force at 26.5.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(a)](https://www.legislation.gov.uk/uksi/2015/994/article/6/a) (with [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/2))
 
-[^key-72d9be5d91a1c2942045e57259ebe60c]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2015/20/schedule/1/paragraph/14) in force at 26.5.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(a)](https://www.legislation.gov.uk/uksi/2015/994/article/6/a) (with [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/2))
+[^c-72d9be5d91a1c2942045e57259ebe60c]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2015/20/schedule/1/paragraph/14) in force at 26.5.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(a)](https://www.legislation.gov.uk/uksi/2015/994/article/6/a) (with [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/2))
 
-[^key-f68c9a2d57c78d8b0b95bbb8c0a67897]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/2015/20/schedule/1/paragraph/15) in force at 26.5.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(a)](https://www.legislation.gov.uk/uksi/2015/994/article/6/a) (with [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/2))
+[^c-f68c9a2d57c78d8b0b95bbb8c0a67897]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/2015/20/schedule/1/paragraph/15) in force at 26.5.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(a)](https://www.legislation.gov.uk/uksi/2015/994/article/6/a) (with [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/2))
 
-[^key-39264946917200cc7cb55f34cf895286]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2015/20/schedule/1/paragraph/16) in force at 26.5.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(a)](https://www.legislation.gov.uk/uksi/2015/994/article/6/a) (with [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/2))
+[^c-39264946917200cc7cb55f34cf895286]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2015/20/schedule/1/paragraph/16) in force at 26.5.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(a)](https://www.legislation.gov.uk/uksi/2015/994/article/6/a) (with [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/2))
 
-[^key-f77bc073d517143bd2b312b8f1c4db28]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/ukpga/2015/20/schedule/1/paragraph/17) in force at 26.5.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(a)](https://www.legislation.gov.uk/uksi/2015/994/article/6/a) (with [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/2))
+[^c-f77bc073d517143bd2b312b8f1c4db28]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/ukpga/2015/20/schedule/1/paragraph/17) in force at 26.5.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(a)](https://www.legislation.gov.uk/uksi/2015/994/article/6/a) (with [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/2))
 
-[^key-717577ad355524a378d945ddf328e34a]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2015/20/schedule/1/paragraph/18) in force at 26.5.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(a)](https://www.legislation.gov.uk/uksi/2015/994/article/6/a) (with [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/2))
+[^c-717577ad355524a378d945ddf328e34a]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2015/20/schedule/1/paragraph/18) in force at 26.5.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(a)](https://www.legislation.gov.uk/uksi/2015/994/article/6/a) (with [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/2))
 
-[^key-147ef6aac44af822dcb51a7ed4fc432f]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/ukpga/2015/20/schedule/1/paragraph/19) in force at 26.5.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(a)](https://www.legislation.gov.uk/uksi/2015/994/article/6/a) (with [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/2))
+[^c-147ef6aac44af822dcb51a7ed4fc432f]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/ukpga/2015/20/schedule/1/paragraph/19) in force at 26.5.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(a)](https://www.legislation.gov.uk/uksi/2015/994/article/6/a) (with [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/2))
 
-[^key-0d2457435b23f37fcf5341da7e09a676]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/ukpga/2015/20/schedule/1/paragraph/20) in force at 26.5.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(a)](https://www.legislation.gov.uk/uksi/2015/994/article/6/a) (with [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/2))
+[^c-0d2457435b23f37fcf5341da7e09a676]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/ukpga/2015/20/schedule/1/paragraph/20) in force at 26.5.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(a)](https://www.legislation.gov.uk/uksi/2015/994/article/6/a) (with [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/2))
 
-[^key-371daf30c8f1c49d6b7c7c228e380a70]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/ukpga/2015/20/schedule/1/paragraph/21) in force at 26.5.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(a)](https://www.legislation.gov.uk/uksi/2015/994/article/6/a) (with [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/2))
+[^c-371daf30c8f1c49d6b7c7c228e380a70]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/ukpga/2015/20/schedule/1/paragraph/21) in force at 26.5.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(a)](https://www.legislation.gov.uk/uksi/2015/994/article/6/a) (with [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/2))
 
-[^key-a0dca24560709b3eeec2f87bbde837d0]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/ukpga/2015/20/schedule/1/paragraph/22) in force at 26.5.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(a)](https://www.legislation.gov.uk/uksi/2015/994/article/6/a) (with [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/2))
+[^c-a0dca24560709b3eeec2f87bbde837d0]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/ukpga/2015/20/schedule/1/paragraph/22) in force at 26.5.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(a)](https://www.legislation.gov.uk/uksi/2015/994/article/6/a) (with [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/2))
 
-[^key-102f38332a5fd4adff875745ee547cfd]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/ukpga/2015/20/schedule/1/paragraph/23) in force at 26.5.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(a)](https://www.legislation.gov.uk/uksi/2015/994/article/6/a) (with [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/2))
+[^c-102f38332a5fd4adff875745ee547cfd]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/ukpga/2015/20/schedule/1/paragraph/23) in force at 26.5.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(a)](https://www.legislation.gov.uk/uksi/2015/994/article/6/a) (with [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/2))
 
-[^key-72ed9f1df8f4961e0312325473b2d96b]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/ukpga/2015/20/schedule/1/paragraph/24) in force at 21.9.2018 by [S.I. 2018/883](https://www.legislation.gov.uk/wsi/2018/883), [art. 2](https://www.legislation.gov.uk/wsi/2018/883/article/2)
+[^c-72ed9f1df8f4961e0312325473b2d96b]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/ukpga/2015/20/schedule/1/paragraph/24) in force at 21.9.2018 by [S.I. 2018/883](https://www.legislation.gov.uk/wsi/2018/883), [art. 2](https://www.legislation.gov.uk/wsi/2018/883/article/2)
 
-[^key-7562d64f6e77cd6fd104ea455295ceb9]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/ukpga/2015/20/schedule/1/paragraph/25) in force at 21.9.2018 by [S.I. 2018/883](https://www.legislation.gov.uk/wsi/2018/883), [art. 2](https://www.legislation.gov.uk/wsi/2018/883/article/2)
+[^c-7562d64f6e77cd6fd104ea455295ceb9]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/ukpga/2015/20/schedule/1/paragraph/25) in force at 21.9.2018 by [S.I. 2018/883](https://www.legislation.gov.uk/wsi/2018/883), [art. 2](https://www.legislation.gov.uk/wsi/2018/883/article/2)
 
-[^key-bb8cb0cfa0c11c73b52335e7708b6302]: Commencement: [Sch. 1 para. 26](https://www.legislation.gov.uk/ukpga/2015/20/schedule/1/paragraph/26) in force at 21.9.2018 by [S.I. 2018/883](https://www.legislation.gov.uk/wsi/2018/883), [art. 2](https://www.legislation.gov.uk/wsi/2018/883/article/2)
+[^c-bb8cb0cfa0c11c73b52335e7708b6302]: Commencement: [Sch. 1 para. 26](https://www.legislation.gov.uk/ukpga/2015/20/schedule/1/paragraph/26) in force at 21.9.2018 by [S.I. 2018/883](https://www.legislation.gov.uk/wsi/2018/883), [art. 2](https://www.legislation.gov.uk/wsi/2018/883/article/2)
 
-[^key-0e2ebc3744aa480f5865cd4b0a1362f3]: Commencement: [Sch. 1 para. 27](https://www.legislation.gov.uk/ukpga/2015/20/schedule/1/paragraph/27) in force at 21.9.2018 by [S.I. 2018/883](https://www.legislation.gov.uk/wsi/2018/883), [art. 2](https://www.legislation.gov.uk/wsi/2018/883/article/2)
+[^c-0e2ebc3744aa480f5865cd4b0a1362f3]: Commencement: [Sch. 1 para. 27](https://www.legislation.gov.uk/ukpga/2015/20/schedule/1/paragraph/27) in force at 21.9.2018 by [S.I. 2018/883](https://www.legislation.gov.uk/wsi/2018/883), [art. 2](https://www.legislation.gov.uk/wsi/2018/883/article/2)
 
 [^c22548001]: Commencement: [Sch. 1 para. 28](https://www.legislation.gov.uk/ukpga/2015/20/schedule/1/paragraph/28) in force for certain purposes at Royal Assent, see [s. 115](https://www.legislation.gov.uk/ukpga/2015/20/section/115)

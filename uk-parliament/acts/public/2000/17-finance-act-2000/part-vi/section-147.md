@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 147. International exchange of information: inheritance tax.[^key-a88b552aa62d6c9430d00b44c4f61c38]
+## 147. International exchange of information: inheritance tax.[^c-a88b552aa62d6c9430d00b44c4f61c38]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a88b552aa62d6c9430d00b44c4f61c38]: Textual amendment: [S. 147](https://www.legislation.gov.uk/ukpga/2000/17/section/147) repealed (19.7.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 8(2)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/8/2)
+[^c-a88b552aa62d6c9430d00b44c4f61c38]: Textual amendment: [S. 147](https://www.legislation.gov.uk/ukpga/2000/17/section/147) repealed (19.7.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 8(2)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/8/2)

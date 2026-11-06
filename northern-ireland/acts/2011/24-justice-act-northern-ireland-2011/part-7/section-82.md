@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 82. Eligibility of persons in receipt of guarantee credit[^key-0a04073f8150cb677cc863cd7862305d][^key-97ccb4e7fc34854c2e559c94bc8456e1]
+## 82. Eligibility of persons in receipt of guarantee credit[^c-0a04073f8150cb677cc863cd7862305d][^c-97ccb4e7fc34854c2e559c94bc8456e1]
 
 *Extent: N.I.*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0a04073f8150cb677cc863cd7862305d]: Textual amendment: [S. 82](https://www.legislation.gov.uk/nia/2011/24/section/82) repealed (1.4.2015) by [Legal Aid and Coroners‘ Courts Act (Northern Ireland) 2014 (c. 11)](https://www.legislation.gov.uk/nia/2014/11), [s. 12(1)](https://www.legislation.gov.uk/nia/2014/11/section/12/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/nia/2014/11/schedule/3/part/1) (with [ss. 2(3)](https://www.legislation.gov.uk/nia/2014/11/section/2/3), [9](https://www.legislation.gov.uk/nia/2014/11/section/9), [Sch. 1 para. 3(3)](https://www.legislation.gov.uk/nia/2014/11/schedule/1/paragraph/3/3)); [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(f)](https://www.legislation.gov.uk/nisr/2015/193/article/2/f)
+[^c-0a04073f8150cb677cc863cd7862305d]: Textual amendment: [S. 82](https://www.legislation.gov.uk/nia/2011/24/section/82) repealed (1.4.2015) by [Legal Aid and Coroners‘ Courts Act (Northern Ireland) 2014 (c. 11)](https://www.legislation.gov.uk/nia/2014/11), [s. 12(1)](https://www.legislation.gov.uk/nia/2014/11/section/12/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/nia/2014/11/schedule/3/part/1) (with [ss. 2(3)](https://www.legislation.gov.uk/nia/2014/11/section/2/3), [9](https://www.legislation.gov.uk/nia/2014/11/section/9), [Sch. 1 para. 3(3)](https://www.legislation.gov.uk/nia/2014/11/schedule/1/paragraph/3/3)); [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(f)](https://www.legislation.gov.uk/nisr/2015/193/article/2/f)
 
-[^key-97ccb4e7fc34854c2e559c94bc8456e1]: Commencement: S. 82 in operation at 7.1.2013 by [S.R. 2012/449](https://www.legislation.gov.uk/nisr/2012/449), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/449/article/2/a)
+[^c-97ccb4e7fc34854c2e559c94bc8456e1]: Commencement: S. 82 in operation at 7.1.2013 by [S.R. 2012/449](https://www.legislation.gov.uk/nisr/2012/449), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/449/article/2/a)

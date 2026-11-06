@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Consideration of applications[^key-e43bf2172654c46c8217142ed34de75d]
+## 26. Consideration of applications[^c-e43bf2172654c46c8217142ed34de75d]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ in such manner as it may reasonably require.
 
 ## Annotations
 
-[^key-e43bf2172654c46c8217142ed34de75d]: Commencement: Reg. 26 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)
+[^c-e43bf2172654c46c8217142ed34de75d]: Commencement: Reg. 26 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)

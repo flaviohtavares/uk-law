@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 2 — The Scottish Civil Enforcement Commission[^key-e78258c56b20a62e6ee0367d0e428e3c]
+## SCHEDULE 2 — The Scottish Civil Enforcement Commission[^c-e78258c56b20a62e6ee0367d0e428e3c]
 
 *Extent: S*
 
@@ -150,4 +150,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e78258c56b20a62e6ee0367d0e428e3c]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/asp/2007/3/schedule/2) repealed (31.1.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/asp/2010/8/schedule/4/part/2); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/30/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2011/30/schedule/1)
+[^c-e78258c56b20a62e6ee0367d0e428e3c]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/asp/2007/3/schedule/2) repealed (31.1.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/asp/2010/8/schedule/4/part/2); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/30/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2011/30/schedule/1)

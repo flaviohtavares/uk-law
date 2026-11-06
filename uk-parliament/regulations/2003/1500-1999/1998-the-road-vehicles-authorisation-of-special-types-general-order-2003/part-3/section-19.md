@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 19. Agricultural vehicles: recognised categories and defined terms[^key-d28b237c31cc755f87713873a0a03652]
+## 19. Agricultural vehicles: recognised categories and defined terms[^c-d28b237c31cc755f87713873a0a03652]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d28b237c31cc755f87713873a0a03652]: Commencement: Art. 19 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-d28b237c31cc755f87713873a0a03652]: Commencement: Art. 19 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)

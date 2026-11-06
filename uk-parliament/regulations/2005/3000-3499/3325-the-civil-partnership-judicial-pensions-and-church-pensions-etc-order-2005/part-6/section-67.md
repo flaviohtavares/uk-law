@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**67.**[^key-24263afe9ec22e01f8e691f5ffa8c71e] In Schedule 2 (transitory provisions), after paragraph 28 insert—
+**67.**[^c-24263afe9ec22e01f8e691f5ffa8c71e] In Schedule 2 (transitory provisions), after paragraph 28 insert—
 
 > **PART 5 — SURVIVING CIVIL PARTNERS' PENSIONS**
 >
@@ -65,6 +65,6 @@ summary: ''
 
 ## Annotations
 
-[^key-24263afe9ec22e01f8e691f5ffa8c71e]: Commencement: Art. 67 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
+[^c-24263afe9ec22e01f8e691f5ffa8c71e]: Commencement: Art. 67 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
 
 [^f00021]: Footnote: [1961 c. 42](https://www.legislation.gov.uk/ukpga/1961/42).

@@ -31,7 +31,7 @@ summary: ''
 
 EUROPEAN COMMUNITIES
 
-The European Communities (Designation) (No. 5) Order 2000 (revoked)[^key-2b9f20186092399dc5dab4706d96c51a]
+The European Communities (Designation) (No. 5) Order 2000 (revoked)[^c-2b9f20186092399dc5dab4706d96c51a]
 
 Made
 
@@ -51,40 +51,40 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-2b9f20186092399dc5dab4706d96c51a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2b9f20186092399dc5dab4706d96c51a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-2b9f20186092399dc5dab4706d96c51a]
+## 1. Citation, commencement and interpretation[^c-2b9f20186092399dc5dab4706d96c51a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Designation of Ministers or Departments[^key-2b9f20186092399dc5dab4706d96c51a]
+## 2. Designation of Ministers or Departments[^c-2b9f20186092399dc5dab4706d96c51a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocations[^key-2b9f20186092399dc5dab4706d96c51a]
+## 3. Revocations[^c-2b9f20186092399dc5dab4706d96c51a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2b9f20186092399dc5dab4706d96c51a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2b9f20186092399dc5dab4706d96c51a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — DESIGNATIONS[^key-2b9f20186092399dc5dab4706d96c51a]
+## SCHEDULE 1 — DESIGNATIONS[^c-2b9f20186092399dc5dab4706d96c51a]
 
 Article (2)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — REVOCATION OF PREVIOUS DESIGNATIONS[^key-2b9f20186092399dc5dab4706d96c51a]
+## SCHEDULE 2 — REVOCATION OF PREVIOUS DESIGNATIONS[^c-2b9f20186092399dc5dab4706d96c51a]
 
 Article 3
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2b9f20186092399dc5dab4706d96c51a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2b9f20186092399dc5dab4706d96c51a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2b9f20186092399dc5dab4706d96c51a]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2000/3238) revoked (31.12.2020) by [The European Communities (Designation Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1011)](https://www.legislation.gov.uk/uksi/2018/1011), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1011/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1011/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2b9f20186092399dc5dab4706d96c51a]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2000/3238) revoked (31.12.2020) by [The European Communities (Designation Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1011)](https://www.legislation.gov.uk/uksi/2018/1011), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1011/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1011/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

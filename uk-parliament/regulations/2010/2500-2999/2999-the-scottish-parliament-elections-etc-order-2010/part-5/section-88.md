@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Dissolution of Parliament: minimum period[^key-7cbc04efd2b121e5e04fa63eb199ee83]
+## 88. Dissolution of Parliament: minimum period[^c-7cbc04efd2b121e5e04fa63eb199ee83]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The “minimum period” for the purpose of section 2(3) of the 1998 Act (ordina
 
 ## Annotations
 
-[^key-7cbc04efd2b121e5e04fa63eb199ee83]: Commencement: Art. 88 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-7cbc04efd2b121e5e04fa63eb199ee83]: Commencement: Art. 88 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)

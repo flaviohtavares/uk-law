@@ -32,7 +32,7 @@ summary: ''
 
 Public Health
 
-The Health Protection (Coronavirus, Restrictions) (No. 2) Regulations (Northern Ireland) 2020 (revoked)[^key-72594a79287166875e2a0d9279fe737d]
+The Health Protection (Coronavirus, Restrictions) (No. 2) Regulations (Northern Ireland) 2020 (revoked)[^c-72594a79287166875e2a0d9279fe737d]
 
 Made
 
@@ -46,174 +46,174 @@ Coming into operation
 
 at 11.00 p.m. on 23rd July 2020
 
-[^key-72594a79287166875e2a0d9279fe737d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-72594a79287166875e2a0d9279fe737d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-72594a79287166875e2a0d9279fe737d]
+## 1. Citation, commencement and interpretation[^c-72594a79287166875e2a0d9279fe737d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocations and Savings[^key-72594a79287166875e2a0d9279fe737d]
+## 2. Revocations and Savings[^c-72594a79287166875e2a0d9279fe737d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Review of the need for restrictions or requirements[^key-72594a79287166875e2a0d9279fe737d]
+## 3. Review of the need for restrictions or requirements[^c-72594a79287166875e2a0d9279fe737d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Requirement to close businesses and premises[^key-72594a79287166875e2a0d9279fe737d]
+## 4. Requirement to close businesses and premises[^c-72594a79287166875e2a0d9279fe737d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4A. Visitor Information[^key-72594a79287166875e2a0d9279fe737d]
+## 4A. Visitor Information[^c-72594a79287166875e2a0d9279fe737d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4B. Restrictions on non-essential retail businesses[^key-72594a79287166875e2a0d9279fe737d]
+## 4B. Restrictions on non-essential retail businesses[^c-72594a79287166875e2a0d9279fe737d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4BA.[^key-72594a79287166875e2a0d9279fe737d]
+## 4BA.[^c-72594a79287166875e2a0d9279fe737d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4C. Restrictions on essential retail businesses[^key-72594a79287166875e2a0d9279fe737d]
+## 4C. Restrictions on essential retail businesses[^c-72594a79287166875e2a0d9279fe737d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4D. Restrictions on close contact services[^key-72594a79287166875e2a0d9279fe737d]
+## 4D. Restrictions on close contact services[^c-72594a79287166875e2a0d9279fe737d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4DA. Restrictions on licenced premises[^key-72594a79287166875e2a0d9279fe737d]
+## 4DA. Restrictions on licenced premises[^c-72594a79287166875e2a0d9279fe737d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4DB. Restrictions on unlicenced premises[^key-72594a79287166875e2a0d9279fe737d]
+## 4DB. Restrictions on unlicenced premises[^c-72594a79287166875e2a0d9279fe737d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4DC. Restrictions on off-licence businesses[^key-72594a79287166875e2a0d9279fe737d]
+## 4DC. Restrictions on off-licence businesses[^c-72594a79287166875e2a0d9279fe737d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4DD. Restrictions on take-away food businesses[^key-72594a79287166875e2a0d9279fe737d]
+## 4DD. Restrictions on take-away food businesses[^c-72594a79287166875e2a0d9279fe737d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4DE. Restrictions on libraries[^key-72594a79287166875e2a0d9279fe737d]
+## 4DE. Restrictions on libraries[^c-72594a79287166875e2a0d9279fe737d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4E. Requirement in relation to social distancing.[^key-72594a79287166875e2a0d9279fe737d]
+## 4E. Requirement in relation to social distancing.[^c-72594a79287166875e2a0d9279fe737d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Restrictions on gatherings[^key-72594a79287166875e2a0d9279fe737d]
+## 5. Restrictions on gatherings[^c-72594a79287166875e2a0d9279fe737d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5A. Restrictions on large gatherings[^key-72594a79287166875e2a0d9279fe737d]
+## 5A. Restrictions on large gatherings[^c-72594a79287166875e2a0d9279fe737d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5B. Restrictions on sporting events[^key-72594a79287166875e2a0d9279fe737d]
+## 5B. Restrictions on sporting events[^c-72594a79287166875e2a0d9279fe737d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5C. Linked households[^key-72594a79287166875e2a0d9279fe737d]
+## 5C. Linked households[^c-72594a79287166875e2a0d9279fe737d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Restrictions on gatherings: private dwellings[^key-72594a79287166875e2a0d9279fe737d]
+## 6. Restrictions on gatherings: private dwellings[^c-72594a79287166875e2a0d9279fe737d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6A. Overnight stays[^key-72594a79287166875e2a0d9279fe737d]
+## 6A. Overnight stays[^c-72594a79287166875e2a0d9279fe737d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6B. Enforcement officers and premises improvement notices[^key-72594a79287166875e2a0d9279fe737d]
+## 6B. Enforcement officers and premises improvement notices[^c-72594a79287166875e2a0d9279fe737d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6C. Restrictions on movement[^key-72594a79287166875e2a0d9279fe737d]
+## 6C. Restrictions on movement[^c-72594a79287166875e2a0d9279fe737d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Enforcement of requirement[^key-72594a79287166875e2a0d9279fe737d]
+## 7. Enforcement of requirement[^c-72594a79287166875e2a0d9279fe737d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7A. Appeals against notices[^key-72594a79287166875e2a0d9279fe737d]
+## 7A. Appeals against notices[^c-72594a79287166875e2a0d9279fe737d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Offences and penalties[^key-72594a79287166875e2a0d9279fe737d]
+## 8. Offences and penalties[^c-72594a79287166875e2a0d9279fe737d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Fixed Penalty Notices[^key-72594a79287166875e2a0d9279fe737d]
+## 9. Fixed Penalty Notices[^c-72594a79287166875e2a0d9279fe737d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Effect of fixed penalty notice[^key-72594a79287166875e2a0d9279fe737d]
+## 10. Effect of fixed penalty notice[^c-72594a79287166875e2a0d9279fe737d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Registration certificates[^key-72594a79287166875e2a0d9279fe737d]
+## 11. Registration certificates[^c-72594a79287166875e2a0d9279fe737d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Registration of penalty[^key-72594a79287166875e2a0d9279fe737d]
+## 12. Registration of penalty[^c-72594a79287166875e2a0d9279fe737d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Challenge to notice[^key-72594a79287166875e2a0d9279fe737d]
+## 13. Challenge to notice[^c-72594a79287166875e2a0d9279fe737d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Setting aside of sum enforceable under regulation 12[^key-72594a79287166875e2a0d9279fe737d]
+## 14. Setting aside of sum enforceable under regulation 12[^c-72594a79287166875e2a0d9279fe737d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Expiry[^key-72594a79287166875e2a0d9279fe737d]
+## 15. Expiry[^c-72594a79287166875e2a0d9279fe737d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-72594a79287166875e2a0d9279fe737d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-72594a79287166875e2a0d9279fe737d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1[^key-72594a79287166875e2a0d9279fe737d]
+## SCHEDULE 1[^c-72594a79287166875e2a0d9279fe737d]
 
 Regulation 4
 
-### PART 1 — Businesses, services providers and premises subject to restrictions or closure[^key-72594a79287166875e2a0d9279fe737d]
+### PART 1 — Businesses, services providers and premises subject to restrictions or closure[^c-72594a79287166875e2a0d9279fe737d]
 
-**1.**[^key-72594a79287166875e2a0d9279fe737d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-72594a79287166875e2a0d9279fe737d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Essential retail businesses Regulations 4B and 4C[^key-72594a79287166875e2a0d9279fe737d]
+### PART 2 — Essential retail businesses Regulations 4B and 4C[^c-72594a79287166875e2a0d9279fe737d]
 
-**2.**[^key-72594a79287166875e2a0d9279fe737d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-72594a79287166875e2a0d9279fe737d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Close contact services[^key-72594a79287166875e2a0d9279fe737d]
+## SCHEDULE 2 — Close contact services[^c-72594a79287166875e2a0d9279fe737d]
 
 Regulation 4D
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — Sign to be displayed with premises improvement notice[^key-72594a79287166875e2a0d9279fe737d]
+## SCHEDULE 3 — Sign to be displayed with premises improvement notice[^c-72594a79287166875e2a0d9279fe737d]
 
 Regulation 6B
 
-[^key-72594a79287166875e2a0d9279fe737d] 
+[^c-72594a79287166875e2a0d9279fe737d] 
 
 **May not be in force at this date. Check the source.**
 
-[^key-72594a79287166875e2a0d9279fe737d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-72594a79287166875e2a0d9279fe737d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-72594a79287166875e2a0d9279fe737d]: Textual amendment: Regulations revoked (9.4.2021) by [The Health Protection (Coronavirus, Restrictions) Regulations (Northern Ireland) 2021 (S.R. 2021/93)](https://www.legislation.gov.uk/nisr/2021/93), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/93/regulation/1), [29(a)](https://www.legislation.gov.uk/nisr/2021/93/regulation/29/a) (with [regs. 30](https://www.legislation.gov.uk/nisr/2021/93/regulation/30), [31](https://www.legislation.gov.uk/nisr/2021/93/regulation/31))
+[^c-72594a79287166875e2a0d9279fe737d]: Textual amendment: Regulations revoked (9.4.2021) by [The Health Protection (Coronavirus, Restrictions) Regulations (Northern Ireland) 2021 (S.R. 2021/93)](https://www.legislation.gov.uk/nisr/2021/93), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/93/regulation/1), [29(a)](https://www.legislation.gov.uk/nisr/2021/93/regulation/29/a) (with [regs. 30](https://www.legislation.gov.uk/nisr/2021/93/regulation/30), [31](https://www.legislation.gov.uk/nisr/2021/93/regulation/31))

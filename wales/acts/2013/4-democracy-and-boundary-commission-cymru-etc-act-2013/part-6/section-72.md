@@ -25,13 +25,13 @@ summary: ''
 - “**1972 Act**” means the Local Government Act 1972 (c. 70),
 - “**2011 Measure**” means the Local Government (Wales) Measure 2011 (nawm 4),
 - “community meeting” is a meeting of the local government electors for a community convened under section 27(1) of the 1972 Act,
-- “[^key-c65ebfebf6eb6d0cdda050beb6993b46]**enactment**” means any of the following or a provision of any of the following—
+- “[^c-c65ebfebf6eb6d0cdda050beb6993b46]**enactment**” means any of the following or a provision of any of the following—
   - (a) an Act or Measure of Senedd Cymru;
   - (b) an Act of the Parliament of the United Kingdom;
   - (c) any subordinate legislation.
 - “**local authority**” means a principal council or a community council,
 - “**local government area**” means a principal area or a community,
-- “[^key-430ce8587e7b9a04fb14c5e4c2eb7d45]**member of a UK legislature**” means—
+- “[^c-430ce8587e7b9a04fb14c5e4c2eb7d45]**member of a UK legislature**” means—
   - (a) a Member of the Senedd;
   - (b) a member of the House of Commons;
   - (c) a member of the House of Lords;
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c65ebfebf6eb6d0cdda050beb6993b46]: Textual amendment: Words in s. 72 substituted (1.1.2025) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4), [Sch. 1 para. 1(5)](https://www.legislation.gov.uk/asc/2024/5/schedule/1/paragraph/1/5); [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 2(b)](https://www.legislation.gov.uk/wsi/2024/1337/article/2/b)
+[^c-c65ebfebf6eb6d0cdda050beb6993b46]: Textual amendment: Words in s. 72 substituted (1.1.2025) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4), [Sch. 1 para. 1(5)](https://www.legislation.gov.uk/asc/2024/5/schedule/1/paragraph/1/5); [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 2(b)](https://www.legislation.gov.uk/wsi/2024/1337/article/2/b)
 
-[^key-430ce8587e7b9a04fb14c5e4c2eb7d45]: Textual amendment: Words in s. 72(1) inserted (25.6.2024) by [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [ss. 14(3)](https://www.legislation.gov.uk/asc/2024/4/section/14/3), [25(1)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/a)
+[^c-430ce8587e7b9a04fb14c5e4c2eb7d45]: Textual amendment: Words in s. 72(1) inserted (25.6.2024) by [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [ss. 14(3)](https://www.legislation.gov.uk/asc/2024/4/section/14/3), [25(1)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/a)

@@ -29,7 +29,7 @@ shall be guilty of an offence and shall be liable, on conviction on indictment, 
 
 (2) A proceeding or conviction for any offence under subsection (1) shall not affect any remedy to which any person aggrieved by the offence may be entitled.
 
-(3) Nothing in this Act shall entitle any person to refuse to make a complete discovery in any legal proceeding, or to answer any question or interrogatory in any civil proceeding, but such a discovery or answer shall not be admissible in evidence against that person, or the spouse or civil partner[^key-aeff3e59920565b1dd68ca2b7367d5b0] of that person, in any criminal proceeding under this Act.
+(3) Nothing in this Act shall entitle any person to refuse to make a complete discovery in any legal proceeding, or to answer any question or interrogatory in any civil proceeding, but such a discovery or answer shall not be admissible in evidence against that person, or the spouse or civil partner[^c-aeff3e59920565b1dd68ca2b7367d5b0] of that person, in any criminal proceeding under this Act.
 
 ## Annotations
 
@@ -37,4 +37,4 @@ shall be guilty of an offence and shall be liable, on conviction on indictment, 
 
 [^c16957451]: Textual amendment: [1984 NI 3](https://www.legislation.gov.uk/nisi/1984)
 
-[^key-aeff3e59920565b1dd68ca2b7367d5b0]: Textual amendment: Words in [s. 82(3)](https://www.legislation.gov.uk/apni/1970/18/section/82/3) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [128](https://www.legislation.gov.uk/uksi/2019/1514/regulation/128) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-aeff3e59920565b1dd68ca2b7367d5b0]: Textual amendment: Words in [s. 82(3)](https://www.legislation.gov.uk/apni/1970/18/section/82/3) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [128](https://www.legislation.gov.uk/uksi/2019/1514/regulation/128) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))

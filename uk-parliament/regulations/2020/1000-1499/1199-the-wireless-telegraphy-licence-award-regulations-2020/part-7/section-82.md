@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Full adjacency agreement[^key-e9c56e5cc2e766c9b63cd0000bc415cb]
+## 82. Full adjacency agreement[^c-e9c56e5cc2e766c9b63cd0000bc415cb]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ A full adjacency agreement is an agreement between all of the winning bidders fo
 
 ## Annotations
 
-[^key-e9c56e5cc2e766c9b63cd0000bc415cb]: Commencement: Reg. 82 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-e9c56e5cc2e766c9b63cd0000bc415cb]: Commencement: Reg. 82 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

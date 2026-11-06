@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Meaning of “deferred member”[^key-6236edc89367028ef7c5aa0947bfff8d]
+## 19. Meaning of “deferred member”[^c-6236edc89367028ef7c5aa0947bfff8d]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ A person (P) becomes a deferred member of this scheme in relation to a continuou
 
 ## Annotations
 
-[^key-6236edc89367028ef7c5aa0947bfff8d]: Commencement: Reg. 19 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-6236edc89367028ef7c5aa0947bfff8d]: Commencement: Reg. 19 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 94. Pre-commencement consultation[^key-78a57e09a477c827dcc6bb9a4b61ad38]
+## 94. Pre-commencement consultation[^c-78a57e09a477c827dcc6bb9a4b61ad38]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ the IFR may elect for subsection (3) to apply.
 
 ## Annotations
 
-[^key-78a57e09a477c827dcc6bb9a4b61ad38]: Commencement: S. 94 in force at Royal Assent, see [s. 100(2)(d)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/d)
+[^c-78a57e09a477c827dcc6bb9a4b61ad38]: Commencement: S. 94 in force at Royal Assent, see [s. 100(2)(d)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/d)

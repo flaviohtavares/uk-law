@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 45E. Supply of the record of anonymous entries to police forces and other organisations[^key-a6cf39ee2f48a767abab5b051a6d4fa8]
+## 45E. Supply of the record of anonymous entries to police forces and other organisations[^c-a6cf39ee2f48a767abab5b051a6d4fa8]
 
 *Extent: S*
 
@@ -24,7 +24,7 @@ summary: ''
 
 - (a) any police force in Great Britain;
 - (b) the Police Service of Northern Ireland or the Police Service of Northern Ireland (Reserve);
-- (c) so far as the record relates to an anonymous entry in a register of local government electors,[^key-5327b6e6f2f6b261560c2f612efc7f8e] the Police Information Technology Organisation;
+- (c) so far as the record relates to an anonymous entry in a register of local government electors,[^c-5327b6e6f2f6b261560c2f612efc7f8e] the Police Information Technology Organisation;
 - (d) any body of constables established under an enactment; or
 - (e) the Serious Organised Crime Agency.
 
@@ -55,6 +55,6 @@ otherwise than for the purposes specified in paragraph (4).
 
 ## Annotations
 
-[^key-a6cf39ee2f48a767abab5b051a6d4fa8]: Textual amendment: [Regs. 45A-45G](https://www.legislation.gov.uk/uksi/2001/497/regulation/45A) inserted (1.4.2007) by [The Representation of the People (Scotland) (Amendment) Regulations 2007 (S.I. 2007/925)](https://www.legislation.gov.uk/uksi/2007/925), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/925/regulation/1/1), [18](https://www.legislation.gov.uk/uksi/2007/925/regulation/18)
+[^c-a6cf39ee2f48a767abab5b051a6d4fa8]: Textual amendment: [Regs. 45A-45G](https://www.legislation.gov.uk/uksi/2001/497/regulation/45A) inserted (1.4.2007) by [The Representation of the People (Scotland) (Amendment) Regulations 2007 (S.I. 2007/925)](https://www.legislation.gov.uk/uksi/2007/925), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/925/regulation/1/1), [18](https://www.legislation.gov.uk/uksi/2007/925/regulation/18)
 
-[^key-5327b6e6f2f6b261560c2f612efc7f8e]: Textual amendment: Words in [reg. 45E(1)(c)](https://www.legislation.gov.uk/uksi/2001/497/regulation/45E/1/c) inserted (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [39(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/39/3)
+[^c-5327b6e6f2f6b261560c2f612efc7f8e]: Textual amendment: Words in [reg. 45E(1)(c)](https://www.legislation.gov.uk/uksi/2001/497/regulation/45E/1/c) inserted (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [39(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/39/3)

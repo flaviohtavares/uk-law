@@ -84,7 +84,7 @@ The Secretary of State, being designated[^f00001] for the purposes of section 2(
 
 .
 
-## 4. Amendment of the Controlled Waste Regulations 1992[^key-c39b44e101ed711ff3a53dffb3c26d50]
+## 4. Amendment of the Controlled Waste Regulations 1992[^c-c39b44e101ed711ff3a53dffb3c26d50]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -126,7 +126,7 @@ Copies of the transposition note and the regulatory impact assessment are availa
 
 [^f00004]: Footnote: [2005 c. 16](https://www.legislation.gov.uk/ukpga/2005/16).
 
-[^key-c39b44e101ed711ff3a53dffb3c26d50]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2005/2900/regulation/4) omitted (6.4.2012) by virtue of [The Controlled Waste (England and Wales) Regulations 2012 (S.I. 2012/811)](https://www.legislation.gov.uk/uksi/2012/811), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2012/811/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2012/811/regulation/6), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2012/811/schedule/2/paragraph/1)
+[^c-c39b44e101ed711ff3a53dffb3c26d50]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2005/2900/regulation/4) omitted (6.4.2012) by virtue of [The Controlled Waste (England and Wales) Regulations 2012 (S.I. 2012/811)](https://www.legislation.gov.uk/uksi/2012/811), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2012/811/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2012/811/regulation/6), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2012/811/schedule/2/paragraph/1)
 
 [^f00006]: Footnote: S.I. [1994/1056](https://www.legislation.gov.uk/uksi/1994/1056); relevant amending instruments are S.I. [2005/894](https://www.legislation.gov.uk/uksi/2005/894) and S.I. [2005/1806](https://www.legislation.gov.uk/uksi/2005/1806).
 

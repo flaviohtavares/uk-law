@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103. Determination of 700 MHz individual frequency lot additional prices[^key-f63c398d256ae2d32cc76cc48fa4ab34]
+## 103. Determination of 700 MHz individual frequency lot additional prices[^c-f63c398d256ae2d32cc76cc48fa4ab34]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In respect of each winning 700 MHz individual frequency lot assignment stage bid
 
 ## Annotations
 
-[^key-f63c398d256ae2d32cc76cc48fa4ab34]: Commencement: Reg. 103 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-f63c398d256ae2d32cc76cc48fa4ab34]: Commencement: Reg. 103 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

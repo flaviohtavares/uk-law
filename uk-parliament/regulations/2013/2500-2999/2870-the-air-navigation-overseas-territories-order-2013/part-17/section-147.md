@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 147. Incapacity of air traffic controllers[^key-5384b6fa1f26955e81a523520957cb6d]
+## 147. Incapacity of air traffic controllers[^c-5384b6fa1f26955e81a523520957cb6d]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ must inform the Governor in writing of such injury, illness or pregnancy as soon
 
 ## Annotations
 
-[^key-5384b6fa1f26955e81a523520957cb6d]: Commencement: [Art. 147](https://www.legislation.gov.uk/uksi/2013/2870/article/147) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-5384b6fa1f26955e81a523520957cb6d]: Commencement: [Art. 147](https://www.legislation.gov.uk/uksi/2013/2870/article/147) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

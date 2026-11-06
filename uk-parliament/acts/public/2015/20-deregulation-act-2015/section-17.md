@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Authorisation of insolvency practitioners[^key-36531dcc5b8e4e131bd72d1ec8cfae33]
+## 17. Authorisation of insolvency practitioners[^c-36531dcc5b8e4e131bd72d1ec8cfae33]
 
 *Extent: E+W+S*
 
@@ -139,4 +139,4 @@ summary: ''
 
 ## Annotations
 
-[^key-36531dcc5b8e4e131bd72d1ec8cfae33]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2015/20/section/17) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(c)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/c)
+[^c-36531dcc5b8e4e131bd72d1ec8cfae33]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2015/20/section/17) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(c)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/c)

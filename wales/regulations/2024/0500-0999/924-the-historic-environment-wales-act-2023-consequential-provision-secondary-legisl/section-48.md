@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. The Infrastructure Planning (Decisions) Regulations 2010[^key-c799fc3c9921e0798ef0cb07844624af]
+## 48. The Infrastructure Planning (Decisions) Regulations 2010[^c-c799fc3c9921e0798ef0cb07844624af]
 
 *Extent: E+W*
 
@@ -32,6 +32,6 @@ In regulation 2 of the Infrastructure Planning (Decisions) Regulations 2010[^f00
 
 ## Annotations
 
-[^key-c799fc3c9921e0798ef0cb07844624af]: Commencement: [Reg. 48](https://www.legislation.gov.uk/wsi/2024/924/regulation/48) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-c799fc3c9921e0798ef0cb07844624af]: Commencement: [Reg. 48](https://www.legislation.gov.uk/wsi/2024/924/regulation/48) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
 
 [^f00032]: Footnote: [S.I. 2010/305](https://www.legislation.gov.uk/uksi/2010/305), to which there are amendments not relevant to these Regulations.

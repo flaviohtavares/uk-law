@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**57.**[^key-72b1bfbd0dd05d8543a4d817e733dfb5] (1) After the heading in Part 3 insert—
+**57.**[^c-72b1bfbd0dd05d8543a4d817e733dfb5] (1) After the heading in Part 3 insert—
 
 > **Application to local authorities in England**
 >
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-72b1bfbd0dd05d8543a4d817e733dfb5]: Commencement: Reg. 57 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-72b1bfbd0dd05d8543a4d817e733dfb5]: Commencement: Reg. 57 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

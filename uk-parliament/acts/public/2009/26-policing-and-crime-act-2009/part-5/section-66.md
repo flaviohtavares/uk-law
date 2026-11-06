@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Transfer of jurisdiction to Crown Court[^key-2cccc9f2f3dedef8841e0f93644b65a1][^key-d04b168b7e14cb9a6f4e3a6f643a6ccf]
+## 66. Transfer of jurisdiction to Crown Court[^c-2cccc9f2f3dedef8841e0f93644b65a1][^c-d04b168b7e14cb9a6f4e3a6f643a6ccf]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-1acf674b734e2f821b551cb5d77926bb] The Proceeds of Crime Act 2002 (c. 29) is amended as follows.
+(1)[^c-1acf674b734e2f821b551cb5d77926bb] The Proceeds of Crime Act 2002 (c. 29) is amended as follows.
 
 (2) In section 343 (judges)—
 
@@ -37,7 +37,7 @@ summary: ''
 - (a) in paragraph (a) for “or a money laundering investigation” substitute “ , a money laundering investigation or a detained cash investigation ”, and
 - (b) in paragraph (b) omit “or a detained cash investigation”.
 
-(5)[^key-1acf674b734e2f821b551cb5d77926bb] In section 351 (supplementary provisions in connection with production orders and orders to grant entry), in subsection (8) omit “or a detained cash investigation”.
+(5)[^c-1acf674b734e2f821b551cb5d77926bb] In section 351 (supplementary provisions in connection with production orders and orders to grant entry), in subsection (8) omit “or a detained cash investigation”.
 
 (6) In section 355 (further provisions: confiscation and money laundering), in subsection (1)(a) for “or a money laundering investigation” substitute “ , a money laundering investigation or a detained cash investigation ”.
 
@@ -50,8 +50,8 @@ summary: ''
 
 ## Annotations
 
-[^key-2cccc9f2f3dedef8841e0f93644b65a1]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2009/26/section/66) in force at 1.6.2015 for E.W.S. by [S.I. 2015/983](https://www.legislation.gov.uk/uksi/2015/983), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2015/983/article/2/2/a) (with [art. 5](https://www.legislation.gov.uk/uksi/2015/983/article/5))
+[^c-2cccc9f2f3dedef8841e0f93644b65a1]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2009/26/section/66) in force at 1.6.2015 for E.W.S. by [S.I. 2015/983](https://www.legislation.gov.uk/uksi/2015/983), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2015/983/article/2/2/a) (with [art. 5](https://www.legislation.gov.uk/uksi/2015/983/article/5))
 
-[^key-d04b168b7e14cb9a6f4e3a6f643a6ccf]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2009/26/section/66) in force at 1.3.2016 in so far as not already in force by [S.I. 2016/147](https://www.legislation.gov.uk/uksi/2016/147), [art. 3(f)](https://www.legislation.gov.uk/uksi/2016/147/article/3/f) (with [art. 5](https://www.legislation.gov.uk/uksi/2016/147/article/5))
+[^c-d04b168b7e14cb9a6f4e3a6f643a6ccf]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2009/26/section/66) in force at 1.3.2016 in so far as not already in force by [S.I. 2016/147](https://www.legislation.gov.uk/uksi/2016/147), [art. 3(f)](https://www.legislation.gov.uk/uksi/2016/147/article/3/f) (with [art. 5](https://www.legislation.gov.uk/uksi/2016/147/article/5))
 
-[^key-1acf674b734e2f821b551cb5d77926bb]: Commencement: [S. 66(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/66/1)[(5)](https://www.legislation.gov.uk/ukpga/2009/26/section/66/5) in force at 22.11.2014 for specified purposes by [S.I. 2014/3101](https://www.legislation.gov.uk/uksi/2014/3101), [art. 3](https://www.legislation.gov.uk/uksi/2014/3101/article/3)
+[^c-1acf674b734e2f821b551cb5d77926bb]: Commencement: [S. 66(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/66/1)[(5)](https://www.legislation.gov.uk/ukpga/2009/26/section/66/5) in force at 22.11.2014 for specified purposes by [S.I. 2014/3101](https://www.legislation.gov.uk/uksi/2014/3101), [art. 3](https://www.legislation.gov.uk/uksi/2014/3101/article/3)

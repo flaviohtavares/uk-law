@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. Certification of plans, etc.[^key-09d6d316d18bf0a5972cbeaa55ee9f9b]
+## 34. Certification of plans, etc.[^c-09d6d316d18bf0a5972cbeaa55ee9f9b]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-09d6d316d18bf0a5972cbeaa55ee9f9b]: Commencement: Art. 34 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
+[^c-09d6d316d18bf0a5972cbeaa55ee9f9b]: Commencement: Art. 34 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)

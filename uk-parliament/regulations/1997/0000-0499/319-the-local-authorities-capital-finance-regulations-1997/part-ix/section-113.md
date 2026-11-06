@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 113. Disposal of lease in exchange for lessor’s promise to forbear[^key-7ca49e908e5db4b39411b02a26e614ef]
+## 113. Disposal of lease in exchange for lessor’s promise to forbear[^c-7ca49e908e5db4b39411b02a26e614ef]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ In the case of non-monetary consideration received in respect of an assignment o
 
 ## Annotations
 
-[^key-7ca49e908e5db4b39411b02a26e614ef]: Commencement: Reg. 113 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-7ca49e908e5db4b39411b02a26e614ef]: Commencement: Reg. 113 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

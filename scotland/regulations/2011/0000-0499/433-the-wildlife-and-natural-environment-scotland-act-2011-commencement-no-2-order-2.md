@@ -45,7 +45,7 @@ Coming into force
 
 The Scottish Ministers make the following Order in exercise of the powers conferred by section 43(1) and (2)(a) of the Wildlife and Natural Environment (Scotland) Act 2011[^f00001].
 
-## 1. Citation, commencement and interpretation[^key-b0b04cb9b54419fa148e66f4f58467c3]
+## 1. Citation, commencement and interpretation[^c-b0b04cb9b54419fa148e66f4f58467c3]
 
 (1) This Order may be cited as the Wildlife and Natural Environment (Scotland) Act 2011 (Commencement No. 2) Order 2011 and comes into force on 20th December 2011.
 
@@ -54,7 +54,7 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 - (a) “the 1981 Act” means the Wildlife and Countryside Act 1981[^f00002]; and
 - (b) “the 2011 Act” means the Wildlife and Natural Environment (Scotland) Act 2011.
 
-## 2. Appointed days[^key-26228edd590c2dbbab323922076a8b82]
+## 2. Appointed days[^c-26228edd590c2dbbab323922076a8b82]
 
 (1) 1st January 2012 is the day appointed for the coming into force of the following provisions of the 2011 Act:—
 
@@ -75,14 +75,14 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 
 (2) 2nd January 2012 is the day appointed for the coming into force of section 20 of the 2011 Act.
 
-(3A)[^key-8e65110374960f4141d6d2b1d07f81b0] 22nd November 2012 is the day appointed for the coming into force of—
+(3A)[^c-8e65110374960f4141d6d2b1d07f81b0] 22nd November 2012 is the day appointed for the coming into force of—
 
 - (a) section 13(3) of the 2011 Act so far as it inserts section 11A(4) and (9) into the 1981 Act; and
 - (b) section 13(5) of the 2011 Act.
 
 (3) 1st April 2012 is the day appointed for the coming into force of section 29 of the 2011 Act.
 
-(4) 1st[^key-aac4920fa35eef70b7825336c2559e8c] April 2013 is the day appointed for the coming into force of section 13 of the 2011 Act, so far as not already in force on that day.
+(4) 1st[^c-aac4920fa35eef70b7825336c2559e8c] April 2013 is the day appointed for the coming into force of section 13 of the 2011 Act, so far as not already in force on that day.
 
 RICHARD LOCHHEAD
 
@@ -162,14 +162,14 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
 [^f00001]: Footnote: [2011 asp 6](https://www.legislation.gov.uk/asp/2011/6).
 
-[^key-b0b04cb9b54419fa148e66f4f58467c3]: Commencement: Art. 1 in force at 20.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/433/article/1/1)
+[^c-b0b04cb9b54419fa148e66f4f58467c3]: Commencement: Art. 1 in force at 20.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/433/article/1/1)
 
 [^f00002]: Footnote: [1981 c.69](https://www.legislation.gov.uk/ukpga/1981/69).
 
-[^key-26228edd590c2dbbab323922076a8b82]: Commencement: Art. 2 in force at 20.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/433/article/1/1)
+[^c-26228edd590c2dbbab323922076a8b82]: Commencement: Art. 2 in force at 20.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/433/article/1/1)
 
-[^key-8e65110374960f4141d6d2b1d07f81b0]: Textual amendment: [Art. 2(3A)](https://www.legislation.gov.uk/ssi/2011/433/article/2/3A) inserted (22.11.2012) by [The Wildlife and Natural Environment (Scotland) Act 2011 (Commencement No. 2) Amendment (No. 2) Order 2012 (S.S.I. 2012/281)](https://www.legislation.gov.uk/ssi/2012/281), [arts. 1](https://www.legislation.gov.uk/ssi/2012/281/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2012/281/article/2/2)
+[^c-8e65110374960f4141d6d2b1d07f81b0]: Textual amendment: [Art. 2(3A)](https://www.legislation.gov.uk/ssi/2011/433/article/2/3A) inserted (22.11.2012) by [The Wildlife and Natural Environment (Scotland) Act 2011 (Commencement No. 2) Amendment (No. 2) Order 2012 (S.S.I. 2012/281)](https://www.legislation.gov.uk/ssi/2012/281), [arts. 1](https://www.legislation.gov.uk/ssi/2012/281/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2012/281/article/2/2)
 
-[^key-aac4920fa35eef70b7825336c2559e8c]: Textual amendment: Words in [art. 2(4)](https://www.legislation.gov.uk/ssi/2011/433/article/2/4) substituted (22.11.2012) by [The Wildlife and Natural Environment (Scotland) Act 2011 (Commencement No. 2) Amendment (No. 2) Order 2012 (S.S.I. 2012/281)](https://www.legislation.gov.uk/ssi/2012/281), [arts. 1](https://www.legislation.gov.uk/ssi/2012/281/article/1), [2(3)](https://www.legislation.gov.uk/ssi/2012/281/article/2/3)
+[^c-aac4920fa35eef70b7825336c2559e8c]: Textual amendment: Words in [art. 2(4)](https://www.legislation.gov.uk/ssi/2011/433/article/2/4) substituted (22.11.2012) by [The Wildlife and Natural Environment (Scotland) Act 2011 (Commencement No. 2) Amendment (No. 2) Order 2012 (S.S.I. 2012/281)](https://www.legislation.gov.uk/ssi/2012/281), [arts. 1](https://www.legislation.gov.uk/ssi/2012/281/article/1), [2(3)](https://www.legislation.gov.uk/ssi/2012/281/article/2/3)
 
 [^f00003]: Footnote: As amended by [S.S.I. 2011/287](https://www.legislation.gov.uk/ssi/2011/287).

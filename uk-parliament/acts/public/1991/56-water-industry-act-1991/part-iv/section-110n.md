@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110N. Interim licensees: schemes for terms and conditions[^key-e7ab4d41335e4fe91a1207581abd3913]
+## 110N. Interim licensees: schemes for terms and conditions[^c-e7ab4d41335e4fe91a1207581abd3913]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e7ab4d41335e4fe91a1207581abd3913]: Textual amendment: Ss. 110K-110O and cross-heading inserted (6.3.2017 for the insertion of s. 110K, 1.4.2017 in so far as not already in force) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 32](https://www.legislation.gov.uk/ukpga/2014/21/section/32), [94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3); [S.I. 2017/58](https://www.legislation.gov.uk/uksi/2017/58), [art. 2(a)](https://www.legislation.gov.uk/uksi/2017/58/article/2/a) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2017/58/article/3/2)); [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(g)](https://www.legislation.gov.uk/uksi/2017/462/article/3/g)
+[^c-e7ab4d41335e4fe91a1207581abd3913]: Textual amendment: Ss. 110K-110O and cross-heading inserted (6.3.2017 for the insertion of s. 110K, 1.4.2017 in so far as not already in force) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 32](https://www.legislation.gov.uk/ukpga/2014/21/section/32), [94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3); [S.I. 2017/58](https://www.legislation.gov.uk/uksi/2017/58), [art. 2(a)](https://www.legislation.gov.uk/uksi/2017/58/article/2/a) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2017/58/article/3/2)); [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(g)](https://www.legislation.gov.uk/uksi/2017/462/article/3/g)

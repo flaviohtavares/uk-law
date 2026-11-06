@@ -34,7 +34,7 @@ Animals, England
 
 Animal Health
 
-The Tuberculosis (Miscellaneous Amendments) (England) Order 2015 (revoked)[^key-b0cf056dc691af6dd2cf066b2949bcc6]
+The Tuberculosis (Miscellaneous Amendments) (England) Order 2015 (revoked)[^c-b0cf056dc691af6dd2cf066b2949bcc6]
 
 Made
 
@@ -44,28 +44,28 @@ Coming into force
 
 10th November 2015
 
-[^key-b0cf056dc691af6dd2cf066b2949bcc6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b0cf056dc691af6dd2cf066b2949bcc6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-b0cf056dc691af6dd2cf066b2949bcc6]
+## 1. Citation and commencement[^c-b0cf056dc691af6dd2cf066b2949bcc6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Cattle Compensation (England) Order 2012[^key-b0cf056dc691af6dd2cf066b2949bcc6]
+## 2. Amendment to the Cattle Compensation (England) Order 2012[^c-b0cf056dc691af6dd2cf066b2949bcc6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment to the Tuberculosis (England) Order 2014[^key-b0cf056dc691af6dd2cf066b2949bcc6]
+## 3. Amendment to the Tuberculosis (England) Order 2014[^c-b0cf056dc691af6dd2cf066b2949bcc6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b0cf056dc691af6dd2cf066b2949bcc6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b0cf056dc691af6dd2cf066b2949bcc6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-b0cf056dc691af6dd2cf066b2949bcc6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b0cf056dc691af6dd2cf066b2949bcc6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b0cf056dc691af6dd2cf066b2949bcc6]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2015/1838) revoked (1.10.2021) by [The Tuberculosis in Animals (England) Order 2021 (S.I. 2021/1001)](https://www.legislation.gov.uk/uksi/2021/1001), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1001/article/1/1), [26](https://www.legislation.gov.uk/uksi/2021/1001/article/26)
+[^c-b0cf056dc691af6dd2cf066b2949bcc6]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2015/1838) revoked (1.10.2021) by [The Tuberculosis in Animals (England) Order 2021 (S.I. 2021/1001)](https://www.legislation.gov.uk/uksi/2021/1001), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1001/article/1/1), [26](https://www.legislation.gov.uk/uksi/2021/1001/article/26)

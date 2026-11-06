@@ -38,7 +38,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 ## Sunsets of retained EU law
 
-### 1. Sunset of EU-derived subordinate legislation and retained direct EU legislation[^key-1a0555b683d6f89c54470b6a2ed8b88b]
+### 1. Sunset of EU-derived subordinate legislation and retained direct EU legislation[^c-1a0555b683d6f89c54470b6a2ed8b88b]
 
 (1) Legislation listed in Schedule 1 is revoked at the end of 2023, to the extent specified there.
 
@@ -53,7 +53,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 (5) No regulations may be made under subsection (4) after 31 October 2023.
 
-### 2. Sunset of retained EU rights, powers, liabilities etc[^key-41e311f60a1055c9a788d62c18464d97]
+### 2. Sunset of retained EU rights, powers, liabilities etc[^c-41e311f60a1055c9a788d62c18464d97]
 
 (1) Section 4 of the European Union (Withdrawal) Act 2018 (saving for rights, powers, liabilities etc under section 2(1) of the European Communities Act 1972) is repealed at the end of 2023.
 
@@ -61,7 +61,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 ## Assimilation of retained EU law
 
-### 3. Abolition of supremacy of EU law[^key-b4d09067fb93eadc296ef519a2d0463c][^key-11872e89c47fc0bbb9b99abd6fb37b9b]
+### 3. Abolition of supremacy of EU law[^c-b4d09067fb93eadc296ef519a2d0463c][^c-11872e89c47fc0bbb9b99abd6fb37b9b]
 
 (1) In section 5 of the European Union (Withdrawal) Act 2018 (exceptions to savings and incorporation), before subsection (1) insert—
 
@@ -91,7 +91,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 - (b) in section 7(5)(a), for “(1) to (3)” substitute “(A1) to (A3)”;
 - (c) in Schedule 1 omit paragraph 5(2).
 
-### 4. Abolition of general principles of EU law[^key-29d9ab4e82396280bf1fadb0038ad167][^key-29f9a0875d3a3303c61fad773b9918f5]
+### 4. Abolition of general principles of EU law[^c-29d9ab4e82396280bf1fadb0038ad167][^c-29f9a0875d3a3303c61fad773b9918f5]
 
 (1) The European Union (Withdrawal) Act 2018 is amended as follows.
 
@@ -123,9 +123,9 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 - (d) in sub-paragraph (4) for “1 to 4” substitute “1 and 4”;
 - (e) omit sub-paragraphs (5) and (6).
 
-### 5. “Assimilated law”[^key-d4471072a2bf4432f53e46ffdc02ef20]
+### 5. “Assimilated law”[^c-d4471072a2bf4432f53e46ffdc02ef20]
 
-(1)[^key-d4471072a2bf4432f53e46ffdc02ef20] As regards all times after the end of 2023, the things listed in the left-hand column are to be known by the names in the right-hand column.
+(1)[^c-d4471072a2bf4432f53e46ffdc02ef20] As regards all times after the end of 2023, the things listed in the left-hand column are to be known by the names in the right-hand column.
 
 | At or before the end of 2023 | After the end of 2023 |
 | --- | --- |
@@ -140,20 +140,20 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 | Retained EU law governing the CAP direct payment schemes | Assimilated law governing the CAP direct payment schemes |
 | Retained direct EU CAP legislation | Assimilated direct CAP legislation |
 
-(2)[^key-d4471072a2bf4432f53e46ffdc02ef20] Accordingly, as regards all times at or before the end of 2023, the things listed in the right-hand column continue to be known by the names in the left-hand column.
+(2)[^c-d4471072a2bf4432f53e46ffdc02ef20] Accordingly, as regards all times at or before the end of 2023, the things listed in the right-hand column continue to be known by the names in the left-hand column.
 
-(3)[^key-2827e3d6a442647d1c33d15ce92708b7] Schedule 2 contains amendments consequential on subsection (1).
+(3)[^c-2827e3d6a442647d1c33d15ce92708b7] Schedule 2 contains amendments consequential on subsection (1).
 
-(4)[^key-d4471072a2bf4432f53e46ffdc02ef20] A reference in an enactment to a thing in the left-hand column of the table in subsection (1) is to be read, as regards all times after the end of 2023, as a reference to the thing by its name in the right-hand column.
+(4)[^c-d4471072a2bf4432f53e46ffdc02ef20] A reference in an enactment to a thing in the left-hand column of the table in subsection (1) is to be read, as regards all times after the end of 2023, as a reference to the thing by its name in the right-hand column.
 
-(5)[^key-d4471072a2bf4432f53e46ffdc02ef20] Subsection (4) does not apply to any title of an enactment (including any provision about how an enactment may be cited) or any reference to a title of an enactment.
+(5)[^c-d4471072a2bf4432f53e46ffdc02ef20] Subsection (4) does not apply to any title of an enactment (including any provision about how an enactment may be cited) or any reference to a title of an enactment.
 
-(6)[^key-d4471072a2bf4432f53e46ffdc02ef20] The provision that may be made by regulations under section 19 (power to make consequential provision) in consequence of subsection (1) of this section includes, in particular—
+(6)[^c-d4471072a2bf4432f53e46ffdc02ef20] The provision that may be made by regulations under section 19 (power to make consequential provision) in consequence of subsection (1) of this section includes, in particular—
 
 - (a) provision adding entries to the table in subsection (1) for things which relate to the things for which there are entries in the table (and adding definitions for those things to subsection (7));
 - (b) provision amending an enactment in consequence of the name of a thing being changed by subsection (1) (including by virtue of regulations under section 19).
 
-(7)[^key-d4471072a2bf4432f53e46ffdc02ef20] In this section—
+(7)[^c-d4471072a2bf4432f53e46ffdc02ef20] In this section—
 
 - “**retained case law**”, “retained domestic case law” and “retained EU case law” have the meaning given by section 6(7) of the European Union (Withdrawal) Act 2018 (as it has effect on the day on which this Act is passed);
 - “**retained EU law**”, “retained direct EU legislation”, “retained direct minor EU legislation”, “retained direct principal EU legislation” and “retained EU obligation” have the meaning given by Schedule 1 to the Interpretation Act 1978 (as it has effect on the day on which this Act is passed);
@@ -161,7 +161,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 ## Interpretation and effect of retained EU law
 
-### 6. Role of courts[^key-e5f5985f81519f31491bbeb5d0e54794]
+### 6. Role of courts[^c-e5f5985f81519f31491bbeb5d0e54794]
 
 **Not yet in force.**
 
@@ -366,14 +366,14 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 > (10) Section 6(2) to (6) of the European Union (Withdrawal) Act 2018 (which make provision similar to that made by this section) do not apply.
 
-### 7. Compatibility[^key-5068affe928fc5387c92c3d619cbd4cd]
+### 7. Compatibility[^c-5068affe928fc5387c92c3d619cbd4cd]
 
 (1) A relevant national authority may by regulations provide that subsection (2) applies (and section 5(A2) of the European Union (Withdrawal) Act 2018 does not apply) to the relationship between—
 
 - (a) any domestic enactment specified in the regulations, and
-- (b) any provision of assimilated direct[^key-13802628fdbf171c5e33313979aa97e4] legislation so specified.
+- (b) any provision of assimilated direct[^c-13802628fdbf171c5e33313979aa97e4] legislation so specified.
 
-(2)[^key-23dca9471a03282f0570ef53de652b77] Where this subsection applies, the domestic enactment specified under subsection (1)(a)—
+(2)[^c-23dca9471a03282f0570ef53de652b77] Where this subsection applies, the domestic enactment specified under subsection (1)(a)—
 
 - (a) must, so far as possible, be read and given effect in a way which is compatible with the provision of assimilated direct legislation specified under subsection (1)(b), and
 - (b) is subject to that provision of assimilated direct legislation so far as it is incompatible with it.
@@ -384,7 +384,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 (5) In this section “**domestic enactment**” has the same meaning as in section 5 of the European Union (Withdrawal) Act 2018.
 
-### 8. Incompatibility orders[^key-04a39fd4fa3907c4b40a46c0f7b23f36][^key-6e1a16cd9cf9b96fd7a1083d2866fa6d]
+### 8. Incompatibility orders[^c-04a39fd4fa3907c4b40a46c0f7b23f36][^c-6e1a16cd9cf9b96fd7a1083d2866fa6d]
 
 After section 6C of the European Union (Withdrawal) Act 2018 (inserted by section 6 of this Act) insert—
 
@@ -412,7 +412,7 @@ After section 6C of the European Union (Withdrawal) Act 2018 (inserted by sectio
 
 ## Modification of retained EU law
 
-### 9. Scope of powers[^key-891b65f3db734ecf0c01b75c66e1b117]
+### 9. Scope of powers[^c-891b65f3db734ecf0c01b75c66e1b117]
 
 (1) Part 1 of Schedule 8 to the European Union (Withdrawal) Act 2018 (general consequential provision) is amended as specified in subsections (2) to (7).
 
@@ -488,7 +488,7 @@ After section 6C of the European Union (Withdrawal) Act 2018 (inserted by sectio
 
 (9) Part 2 of that Schedule contains amendments consequential on the amendments made by this section.
 
-### 10. Procedural requirements[^key-9609b8c562ccf30b5fee6c4408db982c]
+### 10. Procedural requirements[^c-9609b8c562ccf30b5fee6c4408db982c]
 
 (1) In Schedule 8 to the European Union (Withdrawal) Act 2018 omit—
 
@@ -525,7 +525,7 @@ including the italic headings before paragraphs 13 and 14 (but not the italic he
 
 ## Powers relating to retained EU law and assimilated law
 
-### 11. Power to restate retained EU law[^key-18cd49a7e87280d37d72dd6239616deb]
+### 11. Power to restate retained EU law[^c-18cd49a7e87280d37d72dd6239616deb]
 
 (1) A relevant national authority may by regulations restate, to any extent, any secondary retained EU law.
 
@@ -553,7 +553,7 @@ including the italic headings before paragraphs 13 and 14 (but not the italic he
 - “**restatement**”: references to restatement, in relation to anything which is retained EU law by virtue of section 4 or 6(3) or (6) of the European Union (Withdrawal) Act 2018, include codification;
 - “**retained general principles of EU law**” has the meaning given by section 6(7) of the European Union (Withdrawal) Act 2018.
 
-### 12. Power to restate assimilated law or reproduce sunsetted retained EU rights, powers, liabilities etc[^key-b7f609ea1cd214c648d255d051837c41]
+### 12. Power to restate assimilated law or reproduce sunsetted retained EU rights, powers, liabilities etc[^c-b7f609ea1cd214c648d255d051837c41]
 
 (1) A relevant national authority may by regulations restate, to any extent, any secondary assimilated law.
 
@@ -585,7 +585,7 @@ including the italic headings before paragraphs 13 and 14 (but not the italic he
 - “**restatement**”: references to restatement, in relation to anything which is assimilated law by virtue of section 6(3) or (6) of the European Union (Withdrawal) Act 2018, include codification;
 - “**retained general principles of EU law**” has the meaning that was given by section 6(7) of the European Union (Withdrawal) Act 2018 immediately before the end of 2023.
 
-### 13. Powers to restate or reproduce: general[^key-4b7a221b386d8fa800d1554c6fb49210]
+### 13. Powers to restate or reproduce: general[^c-4b7a221b386d8fa800d1554c6fb49210]
 
 (1) This section applies for the purposes of sections 11 and 12.
 
@@ -615,7 +615,7 @@ including the italic headings before paragraphs 13 and 14 (but not the italic he
 
 (9) In subsection (4)(a) “**relevant enactment**” means—
 
-- (a) if the provision made by the regulations is made by modifying assimilated direct[^key-caf0793c4cc3183ac66103626d42c0f8] legislation, any assimilated direct legislation;
+- (a) if the provision made by the regulations is made by modifying assimilated direct[^c-caf0793c4cc3183ac66103626d42c0f8] legislation, any assimilated direct legislation;
 - (b) otherwise, any domestic enactment (as defined by section 5 of the European Union (Withdrawal) Act 2018).
 
 (10) In subsections (5) and (6) “**retained general principles of EU law**” has the same meaning as in section 11 or 12 (as the case may be).
@@ -627,7 +627,7 @@ including the italic headings before paragraphs 13 and 14 (but not the italic he
 
 and similar references are to be read accordingly.
 
-### 14. Powers to revoke or replace[^key-53f513bd1db7d2572b54c6c03db79b45]
+### 14. Powers to revoke or replace[^c-53f513bd1db7d2572b54c6c03db79b45]
 
 (1) A relevant national authority may by regulations revoke any secondary retained EU law without replacing it.
 
@@ -671,7 +671,7 @@ and similar references are to be read accordingly.
 
 (11) In subsection (8) the reference to retained EU law is to be read after the end of 2023 as a reference to assimilated law.
 
-### 15. Power to update[^key-95dd529361f5ad39276bcfc1d2869c00]
+### 15. Power to update[^c-95dd529361f5ad39276bcfc1d2869c00]
 
 (1) A relevant national authority may by regulations make such modifications of any secondary retained EU law, or of any provision made by virtue of section 11, 12 or 14, as the relevant national authority considers appropriate to take account of—
 
@@ -680,7 +680,7 @@ and similar references are to be read accordingly.
 
 (2) In subsection (1), the reference to secondary retained EU law is to be read after the end of 2023 as a reference to secondary assimilated law.
 
-### 16. Power to remove or reduce burdens[^key-10dca27d2f63e7db09d382af682e4a94]
+### 16. Power to remove or reduce burdens[^c-10dca27d2f63e7db09d382af682e4a94]
 
 (1) Part 1 of the Legislative and Regulatory Reform Act 2006 (order-making powers) is amended as follows.
 
@@ -696,7 +696,7 @@ and similar references are to be read accordingly.
 
 ## Assimilated law dashboard and report[^M_F_b1152289-36f2-4e2b-b81a-c4ade4f54c6a]
 
-### 17. Assimilated law dashboard and report[^key-e9f9724edc621d94d5763a2b4db54a16][^key-9e2df5c6387988473071a7ec7a00b17c]
+### 17. Assimilated law dashboard and report[^c-e9f9724edc621d94d5763a2b4db54a16][^c-9e2df5c6387988473071a7ec7a00b17c]
 
 (1) The Secretary of State must within the period of 30 days beginning with the day after the end of each reporting period—
 
@@ -734,7 +734,7 @@ and similar references are to be read accordingly.
 
 ## Business impact target
 
-### 18. Abolition of business impact target[^key-3f6d911e09815e88cdd09d64e3c3a7b8]
+### 18. Abolition of business impact target[^c-3f6d911e09815e88cdd09d64e3c3a7b8]
 
 (1) In the Small Business, Enterprise and Employment Act 2015, omit sections 21 to 27 (business impact target) including the italic heading before section 21.
 
@@ -765,13 +765,13 @@ and similar references are to be read accordingly.
 
 ## Final provisions
 
-### 19. Consequential provision[^key-2f06c5d37d09aa9c1da1553c6881ac95]
+### 19. Consequential provision[^c-2f06c5d37d09aa9c1da1553c6881ac95]
 
 (1) A relevant national authority may by regulations make such provision as the relevant national authority considers appropriate in consequence of this Act.
 
 (2) The provision referred to in subsection (1) includes provision modifying any enactment, including this Act.
 
-### 20. Regulations: general[^key-840314535cef1bd9c1f4889350954f67]
+### 20. Regulations: general[^c-840314535cef1bd9c1f4889350954f67]
 
 (1) A power to make regulations under this Act includes power to make—
 
@@ -786,7 +786,7 @@ and similar references are to be read accordingly.
 
 (5) Section 28 of the Small Business, Enterprise and Employment Act 2015 (duty to review regulatory provisions in secondary legislation) does not apply in relation to any power to make regulations under this Act.
 
-### 21. Interpretation[^key-737d050c839e085d9d32c4a8d480fe70]
+### 21. Interpretation[^c-737d050c839e085d9d32c4a8d480fe70]
 
 (1) In this Act—
 
@@ -798,7 +798,7 @@ and similar references are to be read accordingly.
 - “**domestic law**” means the law of England and Wales, Scotland or Northern Ireland;
 - “**enactment**” means—
   - (a) an enactment (whenever passed or made) contained in, or in an instrument made under, any primary legislation, or
-  - (b) any assimilated direct[^key-2f9aa62e69b3b6cd3e4ffa6e7df03ebf] legislation;
+  - (b) any assimilated direct[^c-2f9aa62e69b3b6cd3e4ffa6e7df03ebf] legislation;
 - “**Minister of the Crown**” has the same meaning as in the Ministers of the Crown Act 1975 and also includes the Commissioners for His Majesty’s Revenue and Customs;
 - “**modify**” includes amend, repeal or revoke (and related expressions are to be read accordingly);
 - “**Northern Ireland devolved authority**” means—
@@ -823,11 +823,11 @@ and similar references are to be read accordingly.
 (2) In this Act—
 
 - (a) references to an instrument made under an Act include in particular any Order in Council, order, rules, regulations, scheme, warrant or byelaw made under an Act;
-- (b) references to an instrument made under any assimilated direct[^key-17df51ebcb969fc9c36e8f7b2e839897] legislation include in particular any Order in Council, order, rules, regulations, scheme, warrant or byelaw made under any assimilated direct legislation.
+- (b) references to an instrument made under any assimilated direct[^c-17df51ebcb969fc9c36e8f7b2e839897] legislation include in particular any Order in Council, order, rules, regulations, scheme, warrant or byelaw made under any assimilated direct legislation.
 
 (3) In this Act references to anything which is retained EU law by virtue of section 4 of the European Union (Withdrawal) Act 2018 include references to any modifications, made on or after IP completion day, of the rights, powers, liabilities, obligations, restrictions, remedies or procedures concerned.
 
-### 22. Commencement, transitional and savings[^key-d43de23ca56471d9c529b22bf47b407b]
+### 22. Commencement, transitional and savings[^c-d43de23ca56471d9c529b22bf47b407b]
 
 (1) The following provisions come into force on the day on which this Act is passed—
 
@@ -851,7 +851,7 @@ and similar references are to be read accordingly.
 
 (6) The amendments made by Schedule 2 do not apply as regards any time at or before the end of 2023.
 
-### 23. Extent and short title[^key-ebb90b0e219d9bf9921c0e43963bd709]
+### 23. Extent and short title[^c-ebb90b0e219d9bf9921c0e43963bd709]
 
 (1) Subject to subsection (2), this Act extends to England and Wales, Scotland and Northern Ireland.
 
@@ -865,7 +865,7 @@ Schedules
 
 Section 1
 
-### Part 1[^key-26675811ebc9d4c4bd6edd775aaccda2][^key-68351cd67867b88d025cdaff7c65a7f1][^key-075021d0d1fc15cde5edac486993cb01]
+### Part 1[^c-26675811ebc9d4c4bd6edd775aaccda2][^c-68351cd67867b88d025cdaff7c65a7f1][^c-075021d0d1fc15cde5edac486993cb01]
 
 | Title | Extent of revocation |
 | --- | --- |
@@ -1000,7 +1000,7 @@ Section 1
 | Wireless Telegraphy (Mobile Repeater) (Exemption) (Amendment) Regulations 2019 ([S.I. 2019/1450](https://www.legislation.gov.uk/uksi/2019/1450)) | The whole Regulations |
 | Posted Workers (Agency Workers) Regulations 2020 ([S.I. 2020/384](https://www.legislation.gov.uk/uksi/2020/384)) | The whole Regulations |
 
-### Part 2 — Retained direct EU legislation[^key-89416914f4f5425a0186129ea9212601][^key-78d7ef5c7e07c150d06ec824389081fe][^key-817a09ce5dc5c0dec8fbe19524033deb][^key-f822c0495b8e14752476175f2c9bb5b3]
+### Part 2 — Retained direct EU legislation[^c-89416914f4f5425a0186129ea9212601][^c-78d7ef5c7e07c150d06ec824389081fe][^c-817a09ce5dc5c0dec8fbe19524033deb][^c-f822c0495b8e14752476175f2c9bb5b3]
 
 | Title | Extent of Revocation |
 | --- | --- |
@@ -1466,7 +1466,7 @@ Section 1
 
 Section 5
 
-### 1. [Interpretation Act (Northern Ireland) 1954 (c. 33 (N.I.))](https://www.legislation.gov.uk/apni/1954/33)[^key-1042fbd902eb9a9c6f0677b4305a2ec3][^key-e8ca651d9307a99ac8917fb59181a909]
+### 1. [Interpretation Act (Northern Ireland) 1954 (c. 33 (N.I.))](https://www.legislation.gov.uk/apni/1954/33)[^c-1042fbd902eb9a9c6f0677b4305a2ec3][^c-e8ca651d9307a99ac8917fb59181a909]
 
 (1) The Interpretation Act (Northern Ireland) 1954 is amended as follows.
 
@@ -1493,7 +1493,7 @@ Section 5
 - (b) omit the definition of “retained EU law”, “retained direct minor EU legislation”, “retained direct principal EU legislation” and “retained direct EU legislation”;
 - (c) omit the definition of “retained EU obligation”.
 
-### 2. Interpretation Act 1978[^key-530ee9d4502fb21b47ca03ecff55af04][^key-dbc1e206592fcf3bb7e5a48c5af53ee0]
+### 2. Interpretation Act 1978[^c-530ee9d4502fb21b47ca03ecff55af04][^c-dbc1e206592fcf3bb7e5a48c5af53ee0]
 
 (1) The Interpretation Act 1978 is amended as follows.
 
@@ -1526,11 +1526,11 @@ Section 5
 
 (7) In Schedule 2 (application of Act to existing enactments), in paragraph 8 for “retained direct EU” substitute “assimilated direct”.
 
-### 3. Scotland Act 1998[^key-a01f5b235e2decd14951a2cb57f0655a][^key-3b56be9d411cd0d98441463d37833562]
+### 3. Scotland Act 1998[^c-a01f5b235e2decd14951a2cb57f0655a][^c-3b56be9d411cd0d98441463d37833562]
 
 In section 106 of the Scotland Act 1998 (power to adapt functions), in subsection (5), for “a retained EU” substitute “an assimilated”.
 
-### 4. Northern Ireland Act 1998[^key-01dba7bddbf343a63d7d2eb2bcc12a15][^key-867ca71510223ce5e61f0c22cdee208a]
+### 4. Northern Ireland Act 1998[^c-01dba7bddbf343a63d7d2eb2bcc12a15][^c-867ca71510223ce5e61f0c22cdee208a]
 
 In section 27 of the Northern Ireland Act 1998 (quotas for purposes of international etc obligations)—
 
@@ -1538,7 +1538,7 @@ In section 27 of the Northern Ireland Act 1998 (quotas for purposes of internati
 - (b) in subsection (2), for “retained EU” substitute “assimilated”;
 - (c) in subsection (4A), for “a retained EU” substitute “an assimilated”.
 
-### 5. Government of Wales Act 2006[^key-de930f72a68bf366711d2d58d5898ba4][^key-05a5dad0f18a1a803f588ab398584e6d]
+### 5. Government of Wales Act 2006[^c-de930f72a68bf366711d2d58d5898ba4][^c-05a5dad0f18a1a803f588ab398584e6d]
 
 (1) The Government of Wales 2006 is amended as follows.
 
@@ -1558,7 +1558,7 @@ In section 27 of the Northern Ireland Act 1998 (quotas for purposes of internati
   - (i) for “a retained EU” substitute “an assimilated”;
   - (ii) for “the retained EU” substitute “the assimilated”.
 
-### 6. Legislative and Regulatory Reform Act 2006[^key-08ecfb9a53c24c751658d7a88d0f546f][^key-02b7bce545fd14f2dbe127fbcf89d9d5]
+### 6. Legislative and Regulatory Reform Act 2006[^c-08ecfb9a53c24c751658d7a88d0f546f][^c-02b7bce545fd14f2dbe127fbcf89d9d5]
 
 (1) The Legislative and Regulatory Reform Act 2006 (as amended by this Act) is amended as follows.
 
@@ -1566,7 +1566,7 @@ In section 27 of the Northern Ireland Act 1998 (quotas for purposes of internati
 
 (3) In section 12 (procedure: introductory), in subsection (3), for “retained direct EU” substitute “assimilated direct”.
 
-### 7. [Interpretation and Legislative Reform (Scotland) Act 2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10)[^key-5bc5420cb2ca7b637e787b51e82e4fa9][^key-87c5927ff38665a459a590b74f1adc8d]
+### 7. [Interpretation and Legislative Reform (Scotland) Act 2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10)[^c-5bc5420cb2ca7b637e787b51e82e4fa9][^c-87c5927ff38665a459a590b74f1adc8d]
 
 (1) The Interpretation and Legislative Reform (Scotland) Act 2010 is amended as follows.
 
@@ -1609,7 +1609,7 @@ In section 27 of the Northern Ireland Act 1998 (quotas for purposes of internati
 - (e) omit the entry for “retained EU obligation”;
 - (f) in the entry for “EU instrument”, for “retained direct EU” substitute “assimilated direct”.
 
-### 8. European Union (Withdrawal) Act 2018[^key-3e8c0e8d51fb9df336c445bb94994b01][^key-abd176a48e92d55ae09ee276fe100779]
+### 8. European Union (Withdrawal) Act 2018[^c-3e8c0e8d51fb9df336c445bb94994b01][^c-abd176a48e92d55ae09ee276fe100779]
 
 (1) The European Union (Withdrawal) Act 2018 (as amended by this Act) is amended as follows.
 
@@ -1722,7 +1722,7 @@ In section 27 of the Northern Ireland Act 1998 (quotas for purposes of internati
   - (i) for “**retained direct minor EU**” (in each place it appears) substitute “assimilated direct minor”;
   - (ii) for “**retained direct principal EU**” (in each place it appears) substitute “assimilated direct principal”.
 
-### 9. [Legislation (Wales) Act 2019 (anaw 4)](https://www.legislation.gov.uk/anaw/2019/4)[^key-534402976845550f096919ac015879e8][^key-7849325b3dfd81d130d1b8b863ebb87d]
+### 9. [Legislation (Wales) Act 2019 (anaw 4)](https://www.legislation.gov.uk/anaw/2019/4)[^c-534402976845550f096919ac015879e8][^c-7849325b3dfd81d130d1b8b863ebb87d]
 
 (1) The Legislation (Wales) Act 2019 is amended as follows.
 
@@ -1741,7 +1741,7 @@ In section 27 of the Northern Ireland Act 1998 (quotas for purposes of internati
 - (a) in the Welsh language text, for “UE a ddargedwir” substitute “a gymathwyd”;
 - (b) in the English language text, for “retained direct EU” substitute “assimilated direct”.
 
-(5)[^key-b53c0fb5591788620f7f536bfc8c34b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-b53c0fb5591788620f7f536bfc8c34b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) In Schedule 1 (definition of words and expressions), in the table—
 
@@ -1788,7 +1788,7 @@ In section 27 of the Northern Ireland Act 1998 (quotas for purposes of internati
   - (ii) in the entries for “EEA agreement”, “enactment”, “EU instrument” and “subordinate legislation”, for “retained direct EU” substitute “assimilated direct”;
   - (iii) omit the entries for “retained direct EU legislation”, “retained direct minor EU legislation”, “retained direct principal EU legislation”, “retained EU law” and “retained EU obligation”.
 
-### 10. Direct Payments to Farmers (Legislative Continuity) Act 2020[^key-e189d0b4566a98b7fcb36d6fa21d6cfc][^key-3f8d5a8ef422888bb5016d69e5501e9f]
+### 10. Direct Payments to Farmers (Legislative Continuity) Act 2020[^c-e189d0b4566a98b7fcb36d6fa21d6cfc][^c-3f8d5a8ef422888bb5016d69e5501e9f]
 
 (1) The Direct Payments to Farmers (Legislative Continuity) Act 2020 is amended as follows.
 
@@ -1849,7 +1849,7 @@ In section 27 of the Northern Ireland Act 1998 (quotas for purposes of internati
   - (i) omit “3 or”;
   - (ii) for “the terms mentioned in paragraph 3” substitute ““assimilated law”, “assimilated direct legislation”, “assimilated direct minor legislation” and “assimilated direct principal legislation””.
 
-### 11. This Act[^key-d064a8012afa8ff59552bc4846d84d0c][^key-9d34cb4d5503339b46ad93615ab5c911]
+### 11. This Act[^c-d064a8012afa8ff59552bc4846d84d0c][^c-9d34cb4d5503339b46ad93615ab5c911]
 
 (1) This Act is amended as follows.
 
@@ -1870,21 +1870,21 @@ Section 9
 
 ### Part 1 — Change of parliamentary procedure
 
-#### 1. [Environmental Protection Act 1990 (c. 43)](https://www.legislation.gov.uk/ukpga/1990/43)[^key-b04c442e6e3d8161e05ace3ebe00cbb8]
+#### 1. [Environmental Protection Act 1990 (c. 43)](https://www.legislation.gov.uk/ukpga/1990/43)[^c-b04c442e6e3d8161e05ace3ebe00cbb8]
 
 In section 160A(2) of the Environmental Protection Act 1990 (regulations and orders subject to affirmative procedure), in the Table—
 
 - (a) in the second column of the entry for section 34CA, in paragraph (e) omit “or retained direct principal EU legislation”;
 - (b) in the second column of the entry for section 141, in paragraph (f) omit “or retained direct principal EU legislation”.
 
-#### 2. [Waste and Contaminated Land (Northern Ireland) Order 1997 (S.I. 1997/2778 (N.I. 19))](https://www.legislation.gov.uk/nisi/1997/2778)[^key-44582e946d84cc6506aa9acf55d61983]
+#### 2. [Waste and Contaminated Land (Northern Ireland) Order 1997 (S.I. 1997/2778 (N.I. 19))](https://www.legislation.gov.uk/nisi/1997/2778)[^c-44582e946d84cc6506aa9acf55d61983]
 
 In Article 82(1B) of the Waste and Contaminated Land (Northern Ireland) Order 1997 (regulations subject to affirmative procedure)—
 
 - (a) insert “or” at the end of sub-paragraph (d);
 - (b) omit sub-paragraph (f) and the “or” before it.
 
-#### 3. [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16)[^key-4b71c5dd6a46f4badf79d331fb444556]
+#### 3. [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16)[^c-4b71c5dd6a46f4badf79d331fb444556]
 
 (1) Schedule 7 to the European Union (Withdrawal) Act 2018 (regulations) is amended as follows.
 
@@ -1897,7 +1897,7 @@ In Article 82(1B) of the Waste and Contaminated Land (Northern Ireland) Order 19
 
 (3) In paragraph 8F(2)(a) (affirmative procedure for powers in connection with the Northern Ireland Protocol) omit “or retained direct principal EU legislation”.
 
-#### 4. [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1)[^key-10efdcf8b0f1b10855b2b3e9cf061e31]
+#### 4. [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1)[^c-10efdcf8b0f1b10855b2b3e9cf061e31]
 
 (1) Schedule 4 to the European Union (Withdrawal Agreement) Act 2020 (regulations under that Act) is amended as follows.
 
@@ -1909,7 +1909,7 @@ In Article 82(1B) of the Waste and Contaminated Land (Northern Ireland) Order 19
 - (b) paragraph 3(1), (3), (5) and (7) (affirmative procedure for certain sole regulations under section 12, 13 or 14 of the Act of 2020);
 - (c) paragraph 4(3), (5), (10) and (12) (affirmative procedure for certain joint regulations under section 12, 13 or 14 of the Act of 2020).
 
-#### 5. [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29)[^key-3fb3d3ce8323910f0f0a5d6bec758c3b]
+#### 5. [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29)[^c-3fb3d3ce8323910f0f0a5d6bec758c3b]
 
 (1) Schedule 5 to the European Union (Future Relationship) Act 2020 (regulations under that Act) is amended as follows.
 
@@ -1917,18 +1917,18 @@ In Article 82(1B) of the Waste and Contaminated Land (Northern Ireland) Order 19
 
 (3) In paragraph 12(2) (affirmative procedure for certain regulations relating to the functioning of agreements) omit paragraph (b) and the “or” before it.
 
-#### 6. [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22)[^key-4b19d753e674de8f9141dda48c5ee84a]
+#### 6. [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22)[^c-4b19d753e674de8f9141dda48c5ee84a]
 
 In section 45(4) of the Financial Services Act 2021 (consequential regulations subject to affirmative procedure) omit paragraph (b).
 
-#### 7. [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30)[^key-4e19f2e1949e8bc1e72da294ab9e1858]
+#### 7. [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30)[^c-4e19f2e1949e8bc1e72da294ab9e1858]
 
 In section 142(7) of the Environment Act 2021 (consequential regulations subject to affirmative procedure)—
 
 - (a) at the end of paragraph (c) insert “or”;
 - (b) omit paragraph (e) and the “or” before it.
 
-#### 8. [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7)[^key-74a098fec887c14758f66c984ea8c80d]
+#### 8. [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7)[^c-74a098fec887c14758f66c984ea8c80d]
 
 (1) The Public Service Pensions and Judicial Offices Act 2022 is amended as follows.
 
@@ -1936,25 +1936,25 @@ In section 142(7) of the Environment Act 2021 (consequential regulations subject
 
 (3) In section 128(7) (consequential etc provision) in the definition of “primary legislation” omit paragraph (b).
 
-#### 9. [Professional Qualifications Act 2022 (c. 20)](https://www.legislation.gov.uk/ukpga/2022/20)[^key-4269ac4939f777571959a0faac791278]
+#### 9. [Professional Qualifications Act 2022 (c. 20)](https://www.legislation.gov.uk/ukpga/2022/20)[^c-4269ac4939f777571959a0faac791278]
 
 In section 18(1) of the Professional Qualifications Act 2022 (regulations subject to affirmative procedure) omit “or retained direct principal EU legislation”.
 
-#### 10. [Subsidy Control Act 2022 (c. 23)](https://www.legislation.gov.uk/ukpga/2022/23)[^key-7edb0b0b9cd8d66a3956d42c84f4aac4]
+#### 10. [Subsidy Control Act 2022 (c. 23)](https://www.legislation.gov.uk/ukpga/2022/23)[^c-7edb0b0b9cd8d66a3956d42c84f4aac4]
 
 In section 86(3) of the Subsidy Control Act 2022 (consequential provision: regulations subject to affirmative procedure) omit “or retained direct principal EU legislation”.
 
-#### 11. [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30)[^key-f9b0df838661061008fe75ee59d9b551]
+#### 11. [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30)[^c-f9b0df838661061008fe75ee59d9b551]
 
 In Schedule 11 to the Building Safety Act 2022 (construction products regulations), in paragraph 23(3) (regulations requiring affirmative procedure) omit paragraph (d).
 
-#### 12. [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36)[^key-7e7c9a1793d28262b61d1cd6dd5be97a]
+#### 12. [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36)[^c-7e7c9a1793d28262b61d1cd6dd5be97a]
 
 In section 84(5) of the Nationality and Borders Act 2022 (consequential provision: regulations subject to affirmative procedure) omit paragraph (b).
 
 ### Part 2 — Consequential amendments
 
-#### 13. European Union (Withdrawal) Act 2018[^key-633add070d22aa9c457cd72f24195275]
+#### 13. European Union (Withdrawal) Act 2018[^c-633add070d22aa9c457cd72f24195275]
 
 In section 7 of the European Union (Withdrawal) Act 2018 (status of retained EU law) for subsections (2) to (4) substitute—
 
@@ -1967,7 +1967,7 @@ In section 7 of the European Union (Withdrawal) Act 2018 (status of retained EU 
 >   - (iii) any provision made by or under an Act of Parliament passed before, and in the same Session as, this Act, or
 >   - (iv) any provision made on or after the passing of this Act by or under primary legislation.
 
-#### 14. Direct Payments to Farmers (Legislative Continuity) Act 2020[^key-3edc317374da36079c9d895913ee140f]
+#### 14. Direct Payments to Farmers (Legislative Continuity) Act 2020[^c-3edc317374da36079c9d895913ee140f]
 
 In section 2(3)(b) of the Direct Payments to Farmers (Legislative Continuity) Act 2020 (interpretation and status) for “10” substitute “11A”.
 
@@ -1975,11 +1975,11 @@ In section 2(3)(b) of the Direct Payments to Farmers (Legislative Continuity) Ac
 
 Section 20
 
-### 1. Introductory[^key-ca14729c8e52196dcd99477beb01e66f]
+### 1. Introductory[^c-ca14729c8e52196dcd99477beb01e66f]
 
 This Schedule applies to regulations under this Act where the power to make the regulations is conferred on a relevant national authority.
 
-### 2. No power to make provision outside devolved competence[^key-25586479a049616d519af51c2cc33218]
+### 2. No power to make provision outside devolved competence[^c-25586479a049616d519af51c2cc33218]
 
 (1) Provision may be made in regulations to which this Schedule applies by a devolved authority acting alone only if the provision is within the devolved competence of the devolved authority.
 
@@ -1998,7 +1998,7 @@ This Schedule applies to regulations under this Act where the power to make the 
 - (a) it would be within the legislative competence of the Northern Ireland Assembly if it were contained in an Act of that Assembly and it would not, if it were contained in a Bill in the Northern Ireland Assembly, result in the Bill requiring the consent of the Secretary of State under section 8 of the Northern Ireland Act 1998, or
 - (b) it is provision which could be made in other subordinate legislation by any Northern Ireland devolved authority acting alone.
 
-### 3. Requirement for consent where it would otherwise be required[^key-8c069217301abf04df13c6a26c0c14bf]
+### 3. Requirement for consent where it would otherwise be required[^c-8c069217301abf04df13c6a26c0c14bf]
 
 (1) The consent of a Minister of the Crown is required before any provision is made in regulations to which this Schedule applies by the Welsh Ministers acting alone so far as that provision, if contained in an Act of Senedd Cymru, would require the consent of a Minister of the Crown.
 
@@ -2021,7 +2021,7 @@ This Schedule applies to regulations under this Act where the power to make the 
   - (ii) different subordinate legislation of the kind mentioned in sub-paragraph (4)(a) or (b) and of a devolved authority acting alone or (as the case may be) other person acting alone, and
 - (b) no such consent would be required in that case.
 
-### 4. Requirement for joint exercise where it would otherwise be required[^key-5db95d3299cf431c91b9896bfccb4df1]
+### 4. Requirement for joint exercise where it would otherwise be required[^c-5db95d3299cf431c91b9896bfccb4df1]
 
 (1) No regulations to which this Schedule applies may be made by the Scottish Ministers, so far as they contain provision which relates to a matter in respect of which a power to make subordinate legislation otherwise than under this Act is exercisable by—
 
@@ -2047,7 +2047,7 @@ unless the regulations are, to that extent, made jointly with the Minister of th
   - (ii) the Welsh Ministers acting alone, or (as the case may be)
   - (iii) a Northern Ireland devolved authority acting alone.
 
-### 5. Requirement for consultation where it would otherwise be required[^key-3d0e7a5b3f398db8914debae8346507f]
+### 5. Requirement for consultation where it would otherwise be required[^c-3d0e7a5b3f398db8914debae8346507f]
 
 (1) No regulations to which this Schedule applies may be made by the Welsh Ministers acting alone, so far as they contain provision which, if contained in an Act of Senedd Cymru, would require consultation with a Minister of the Crown, unless the regulations are, to that extent, made after consulting with the Minister of the Crown.
 
@@ -2076,7 +2076,7 @@ Section 20
 
 ### Part 1 — General
 
-#### 1. Making of regulations by statutory instrument etc[^key-b6d9faf5dc60480d95dc99c57660d57d]
+#### 1. Making of regulations by statutory instrument etc[^c-b6d9faf5dc60480d95dc99c57660d57d]
 
 (1) A power to make regulations under this Act—
 
@@ -2085,7 +2085,7 @@ Section 20
 
 (2) For regulations made under this Act by the Scottish Ministers, see section 27 of the Interpretation and Legislative Reform (Scotland) Act 2010 (Scottish statutory instruments).
 
-#### 2. Combining provision[^key-9477c21fcb35a341d959bb714563ea09]
+#### 2. Combining provision[^c-9477c21fcb35a341d959bb714563ea09]
 
 (1) Sub-paragraph (2) applies to a statutory instrument containing regulations under this Act which is subject to a procedure before Parliament for the approval of the instrument in draft before it is made.
 
@@ -2103,20 +2103,20 @@ Section 20
 
 (8) Nothing in this paragraph prevents the inclusion of other regulations in a statutory instrument or statutory rule which contains regulations under this Act.
 
-#### 3. Hybrid instruments[^key-99e1c1c673fa4233d2faf0b565fd463f]
+#### 3. Hybrid instruments[^c-99e1c1c673fa4233d2faf0b565fd463f]
 
 If an instrument, or a draft of an instrument, containing regulations under this Act would otherwise be treated as a hybrid instrument for the purposes of the standing orders of either House of Parliament, it is to proceed in that House as if it were not a hybrid instrument.
 
 ### Part 2 — Powers of relevant national authority: separate exercise
 
-#### 4. Introductory[^key-7becde0e69e0be4e14820d23a94fee1d]
+#### 4. Introductory[^c-7becde0e69e0be4e14820d23a94fee1d]
 
 This Part of this Schedule applies to regulations under any provision of this Act except section 22(4), where—
 
 - (a) the power to make the regulations is conferred on a “relevant national authority”, and
 - (b) the power is exercised by one relevant national authority acting alone.
 
-#### 5. Separate exercise by a Minister of the Crown[^key-0b4cba781134d2443f36aa445e63769a]
+#### 5. Separate exercise by a Minister of the Crown[^c-0b4cba781134d2443f36aa445e63769a]
 
 (1) A Minister of the Crown may not make a statutory instrument containing regulations to which this Part of this Schedule applies and which are within sub-paragraph (2) unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
 
@@ -2139,7 +2139,7 @@ This Part of this Schedule applies to regulations under any provision of this Ac
 
 (5) A statutory instrument made by a Minister of the Crown containing regulations to which this Part of this Schedule applies and to which neither sub-paragraph (1) nor sub-paragraph (3) applies is (if a draft of the instrument has not been laid before, and approved by a resolution of, each House of Parliament) subject to annulment in pursuance of a resolution of either House of Parliament.
 
-**6.**[^key-aae0d7e47ba8a028e9d0bd925ee42026] (1) Sub-paragraph (2) applies where—
+**6.**[^c-aae0d7e47ba8a028e9d0bd925ee42026] (1) Sub-paragraph (2) applies where—
 
 - (a) a Minister of the Crown, acting alone, is to make a statutory instrument containing regulations under section 11, 12 or 14,
 - (b) paragraph 5(5) applies to the regulations, and
@@ -2192,7 +2192,7 @@ and, for the purposes of sub-paragraph (10) and this sub-paragraph, a day is onl
 
 (13) Section 6(1) of the Statutory Instruments Act 1946 (alternative procedure for certain instruments laid in draft before Parliament) does not apply in relation to any statutory instrument to which this paragraph applies.
 
-#### 7. Separate exercise by Scottish Ministers[^key-01a627acc622f8b1d943ec226fb25841]
+#### 7. Separate exercise by Scottish Ministers[^c-01a627acc622f8b1d943ec226fb25841]
 
 (1) Regulations of the Scottish Ministers to which this Part of this Schedule applies and which are within paragraph 5(2) are subject to the affirmative procedure.
 
@@ -2202,7 +2202,7 @@ and, for the purposes of sub-paragraph (10) and this sub-paragraph, a day is onl
 
 (4) For the negative procedure and the affirmative procedure, see sections 28 and 29 of the Interpretation and [Legislative Reform (Scotland) Act 2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10) respectively.
 
-#### 8. Separate exercise by Welsh Ministers[^key-d882ae906b9472b3fc9c3bed9c7250a7]
+#### 8. Separate exercise by Welsh Ministers[^c-d882ae906b9472b3fc9c3bed9c7250a7]
 
 (1) The Welsh Ministers may not make a statutory instrument containing regulations to which this Part of this Schedule applies and which fall within paragraph 5(2) unless a draft of the instrument has been laid before, and approved by a resolution of, Senedd Cymru.
 
@@ -2210,7 +2210,7 @@ and, for the purposes of sub-paragraph (10) and this sub-paragraph, a day is onl
 
 (3) A statutory instrument made by the Welsh Ministers containing regulations to which this Part of this Schedule applies and to which neither sub-paragraph (1) nor sub-paragraph (2) applies is (if a draft of the instrument has not been laid before, and approved by a resolution of, Senedd Cymru) subject to annulment in pursuance of a resolution of the Senedd.
 
-**9.**[^key-e6c247bc4ed618181bfca81f1997eeec] (1) Sub-paragraph (2) applies if—
+**9.**[^c-e6c247bc4ed618181bfca81f1997eeec] (1) Sub-paragraph (2) applies if—
 
 - (a) the Welsh Ministers, acting alone, are to make a statutory instrument containing regulations under section 11, 12 or 14,
 - (b) paragraph 8(3) applies to the instrument, and
@@ -2241,7 +2241,7 @@ and, for the purposes of sub-paragraph (10) and this sub-paragraph, a day is onl
 
 (8) Section 6(1) of the Statutory Instruments Act 1946 as applied by section 11A of that Act (alternative procedure for certain instruments laid in draft before Senedd Cymru) does not apply in relation to any statutory instrument to which this paragraph applies.
 
-#### 10. Separate exercise by Northern Ireland department[^key-e4813a25450d82f6975d58076474712c]
+#### 10. Separate exercise by Northern Ireland department[^c-e4813a25450d82f6975d58076474712c]
 
 (1) A Northern Ireland department may not make regulations to which this Part of this Schedule applies and which fall within paragraph 5(2) unless a draft of the regulations has been laid before, and approved by a resolution of, the Northern Ireland Assembly.
 
@@ -2253,7 +2253,7 @@ and, for the purposes of sub-paragraph (10) and this sub-paragraph, a day is onl
 
 ### Part 3 — Powers of relevant national authority: joint exercise
 
-#### 11. Parliamentary procedure[^key-3632958ffe97b0fcdb9079d4dcd3dcff]
+#### 11. Parliamentary procedure[^c-3632958ffe97b0fcdb9079d4dcd3dcff]
 
 (1) A statutory instrument containing regulations within paragraph 5(2) may not be made by a Minister of the Crown jointly with a devolved authority unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
 
@@ -2263,7 +2263,7 @@ and, for the purposes of sub-paragraph (10) and this sub-paragraph, a day is onl
 
 (4) The procedure provided for by this paragraph is in addition to any other procedure provided for by this Part of this Schedule.
 
-#### 12. Joint exercise with Scottish Ministers[^key-c803bd9dc0f144b768395676433b4f23]
+#### 12. Joint exercise with Scottish Ministers[^c-c803bd9dc0f144b768395676433b4f23]
 
 (1) Regulations within paragraph 5(2) of a Minister of the Crown acting jointly with the Scottish Ministers are subject to the affirmative procedure.
 
@@ -2271,7 +2271,7 @@ and, for the purposes of sub-paragraph (10) and this sub-paragraph, a day is onl
 
 (3) Regulations under this Act made by a Minister of the Crown jointly with the Scottish Ministers and to which neither sub-paragraph (1) nor sub-paragraph (2) applies are (if they have not been subject to the affirmative procedure) subject to the negative procedure.
 
-**13.**[^key-3cbd95e7c4d72327cf33532bd9952940] (1) This paragraph applies in relation to regulations under this Act to which any provision of paragraph 12 applies.
+**13.**[^c-3cbd95e7c4d72327cf33532bd9952940] (1) This paragraph applies in relation to regulations under this Act to which any provision of paragraph 12 applies.
 
 (2) If the regulations are subject to the affirmative procedure, section 29 of the Interpretation and Legislative Reform (Scotland) Act 2010 (affirmative procedure) applies in relation to the regulations as it applies in relation to devolved subordinate legislation (within the meaning of Part 2 of that Act) which is subject to the affirmative procedure (but as if references to a Scottish statutory instrument were references to a statutory instrument).
 
@@ -2279,7 +2279,7 @@ and, for the purposes of sub-paragraph (10) and this sub-paragraph, a day is onl
 
 (4) Section 32 of that Act (laying) applies in relation to the laying before the Scottish Parliament of a statutory instrument containing the regulations as it applies in relation to the laying before that Parliament of a Scottish statutory instrument (within the meaning of Part 2 of that Act).
 
-#### 14. Joint exercise with Welsh Ministers[^key-34fbf6c5d44d3deab30da15c22e178a3]
+#### 14. Joint exercise with Welsh Ministers[^c-34fbf6c5d44d3deab30da15c22e178a3]
 
 (1) A statutory instrument containing regulations within paragraph 5(2) may not be made by a Minister of the Crown jointly with the Welsh Ministers unless a draft of the instrument has been laid before, and approved by a resolution of, Senedd Cymru.
 
@@ -2287,7 +2287,7 @@ and, for the purposes of sub-paragraph (10) and this sub-paragraph, a day is onl
 
 (3) A statutory instrument containing regulations under this Act that are made by a Minister of the Crown jointly with the Welsh Ministers and to which neither sub-paragraph (1) nor sub-paragraph (2) applies is (if a draft of the instrument has not been laid before, and approved by a resolution of, Senedd Cymru) subject to annulment in pursuance of a resolution of the Senedd.
 
-#### 15. Joint exercise with Northern Ireland department[^key-ae3476065b31df44a01255bb23c2463a]
+#### 15. Joint exercise with Northern Ireland department[^c-ae3476065b31df44a01255bb23c2463a]
 
 (1) Regulations within paragraph 5(2) may not be made by a Minister of the Crown jointly with a Northern Ireland department unless a draft of the regulations been laid before, and approved by a resolution of, the Northern Ireland Assembly.
 
@@ -2297,7 +2297,7 @@ and, for the purposes of sub-paragraph (10) and this sub-paragraph, a day is onl
 
 (4) In this paragraph “**subject to negative resolution**” means subject to negative resolution within the meaning of section 41(6) of the Interpretation Act (Northern Ireland) 1954 as if they were a statutory instrument within the meaning of that Act.
 
-#### 16. Effect of annulment resolution[^key-4c3c90cb2e60f9da8bbac86187f44f36]
+#### 16. Effect of annulment resolution[^c-4c3c90cb2e60f9da8bbac86187f44f36]
 
 (1) If in accordance with this Part of this Schedule—
 
@@ -2319,208 +2319,208 @@ nothing further is to be done under the instrument after the date of the resolut
 
 (4) This paragraph applies in place of provision made by any other enactment about the effect of such a resolution.
 
-#### 17. Transitional, transitory or saving provision[^key-2ddafbe990a09a9493580ed21dbb8077]
+#### 17. Transitional, transitory or saving provision[^c-2ddafbe990a09a9493580ed21dbb8077]
 
 This Part of this Schedule does not apply in relation to regulations under section 22(4).
 
 ## Annotations
 
-[^key-1a0555b683d6f89c54470b6a2ed8b88b]: Commencement: S. 1 in force at Royal Assent, see [s. 22(1)(a)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/a)
+[^c-1a0555b683d6f89c54470b6a2ed8b88b]: Commencement: S. 1 in force at Royal Assent, see [s. 22(1)(a)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/a)
 
-[^key-41e311f60a1055c9a788d62c18464d97]: Commencement: S. 2 in force at Royal Assent, see [s. 22(1)(a)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/a)
+[^c-41e311f60a1055c9a788d62c18464d97]: Commencement: S. 2 in force at Royal Assent, see [s. 22(1)(a)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/a)
 
-[^key-b4d09067fb93eadc296ef519a2d0463c]: Commencement: S. 3 not in force at Royal Assent, see [s. 22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3)
+[^c-b4d09067fb93eadc296ef519a2d0463c]: Commencement: S. 3 not in force at Royal Assent, see [s. 22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3)
 
-[^key-11872e89c47fc0bbb9b99abd6fb37b9b]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2023/28/section/3) in force at 1.1.2024 by [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2023/1363/regulation/3/a)
+[^c-11872e89c47fc0bbb9b99abd6fb37b9b]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2023/28/section/3) in force at 1.1.2024 by [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2023/1363/regulation/3/a)
 
-[^key-29d9ab4e82396280bf1fadb0038ad167]: Commencement: S. 4 not in force at Royal Assent, see [s. 22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3)
+[^c-29d9ab4e82396280bf1fadb0038ad167]: Commencement: S. 4 not in force at Royal Assent, see [s. 22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3)
 
-[^key-29f9a0875d3a3303c61fad773b9918f5]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2023/28/section/4) in force at 1.1.2024 by [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/1363/regulation/3/b)
+[^c-29f9a0875d3a3303c61fad773b9918f5]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2023/28/section/4) in force at 1.1.2024 by [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/1363/regulation/3/b)
 
-[^key-d4471072a2bf4432f53e46ffdc02ef20]: Commencement: S. 5(1)(2)(4)-(7) in force at Royal Assent, see [s. 22(1)(b)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/b)
+[^c-d4471072a2bf4432f53e46ffdc02ef20]: Commencement: S. 5(1)(2)(4)-(7) in force at Royal Assent, see [s. 22(1)(b)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/b)
 
-[^key-2827e3d6a442647d1c33d15ce92708b7]: Commencement: [S. 5(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/5/3) in force at 1.1.2024 by [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2023/1363/regulation/3/c)
+[^c-2827e3d6a442647d1c33d15ce92708b7]: Commencement: [S. 5(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/5/3) in force at 1.1.2024 by [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2023/1363/regulation/3/c)
 
-[^key-e5f5985f81519f31491bbeb5d0e54794]: Commencement: S. 6 not in force at Royal Assent, see [s. 22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3)
+[^c-e5f5985f81519f31491bbeb5d0e54794]: Commencement: S. 6 not in force at Royal Assent, see [s. 22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3)
 
-[^key-5068affe928fc5387c92c3d619cbd4cd]: Commencement: S. 7 in force at Royal Assent, see [s. 22(1)(c)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/c)
+[^c-5068affe928fc5387c92c3d619cbd4cd]: Commencement: S. 7 in force at Royal Assent, see [s. 22(1)(c)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/c)
 
-[^key-13802628fdbf171c5e33313979aa97e4]: Textual amendment: Words in [s. 7](https://www.legislation.gov.uk/ukpga/2023/28/section/7) substituted (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 2 para. 11(2)](https://www.legislation.gov.uk/ukpga/2023/28/schedule/2/paragraph/11/2) (with [s. 22(6)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/6)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1363/regulation/3/e)
+[^c-13802628fdbf171c5e33313979aa97e4]: Textual amendment: Words in [s. 7](https://www.legislation.gov.uk/ukpga/2023/28/section/7) substituted (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 2 para. 11(2)](https://www.legislation.gov.uk/ukpga/2023/28/schedule/2/paragraph/11/2) (with [s. 22(6)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/6)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1363/regulation/3/e)
 
-[^key-23dca9471a03282f0570ef53de652b77]: Modification: [S. 7(2)](https://www.legislation.gov.uk/ukpga/2023/28/section/7/2) applied (4.6.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Social Security Co-ordination) (Compatibility) Regulations 2025 (S.I. 2025/580)](https://www.legislation.gov.uk/uksi/2025/580), [regs. 1](https://www.legislation.gov.uk/uksi/2025/580/regulation/1), [2](https://www.legislation.gov.uk/uksi/2025/580/regulation/2)
+[^c-23dca9471a03282f0570ef53de652b77]: Modification: [S. 7(2)](https://www.legislation.gov.uk/ukpga/2023/28/section/7/2) applied (4.6.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Social Security Co-ordination) (Compatibility) Regulations 2025 (S.I. 2025/580)](https://www.legislation.gov.uk/uksi/2025/580), [regs. 1](https://www.legislation.gov.uk/uksi/2025/580/regulation/1), [2](https://www.legislation.gov.uk/uksi/2025/580/regulation/2)
 
-[^key-04a39fd4fa3907c4b40a46c0f7b23f36]: Commencement: S. 8 not in force at Royal Assent, see [s. 22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3)
+[^c-04a39fd4fa3907c4b40a46c0f7b23f36]: Commencement: S. 8 not in force at Royal Assent, see [s. 22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3)
 
-[^key-6e1a16cd9cf9b96fd7a1083d2866fa6d]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2023/28/section/8) in force at 1.1.2024 by [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2023/1363/regulation/3/d)
+[^c-6e1a16cd9cf9b96fd7a1083d2866fa6d]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2023/28/section/8) in force at 1.1.2024 by [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2023/1363/regulation/3/d)
 
-[^key-891b65f3db734ecf0c01b75c66e1b117]: Commencement: S. 9 in force at Royal Assent, see [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d)
+[^c-891b65f3db734ecf0c01b75c66e1b117]: Commencement: S. 9 in force at Royal Assent, see [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d)
 
-[^key-9609b8c562ccf30b5fee6c4408db982c]: Commencement: S. 10 in force at Royal Assent, see [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d)
+[^c-9609b8c562ccf30b5fee6c4408db982c]: Commencement: S. 10 in force at Royal Assent, see [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d)
 
-[^key-18cd49a7e87280d37d72dd6239616deb]: Commencement: S. 11 in force at Royal Assent, see [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d)
+[^c-18cd49a7e87280d37d72dd6239616deb]: Commencement: S. 11 in force at Royal Assent, see [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d)
 
-[^key-b7f609ea1cd214c648d255d051837c41]: Commencement: S. 12 in force at Royal Assent, see [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d)
+[^c-b7f609ea1cd214c648d255d051837c41]: Commencement: S. 12 in force at Royal Assent, see [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d)
 
-[^key-4b7a221b386d8fa800d1554c6fb49210]: Commencement: S. 13 in force at Royal Assent, see [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d)
+[^c-4b7a221b386d8fa800d1554c6fb49210]: Commencement: S. 13 in force at Royal Assent, see [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d)
 
-[^key-caf0793c4cc3183ac66103626d42c0f8]: Textual amendment: Words in [s. 13(9)(a)](https://www.legislation.gov.uk/ukpga/2023/28/section/13/9/a) substituted (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 2 para. 11(3)](https://www.legislation.gov.uk/ukpga/2023/28/schedule/2/paragraph/11/3) (with [s. 22(6)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/6)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1363/regulation/3/e)
+[^c-caf0793c4cc3183ac66103626d42c0f8]: Textual amendment: Words in [s. 13(9)(a)](https://www.legislation.gov.uk/ukpga/2023/28/section/13/9/a) substituted (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 2 para. 11(3)](https://www.legislation.gov.uk/ukpga/2023/28/schedule/2/paragraph/11/3) (with [s. 22(6)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/6)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1363/regulation/3/e)
 
-[^key-53f513bd1db7d2572b54c6c03db79b45]: Commencement: S. 14 in force at Royal Assent, see [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d)
+[^c-53f513bd1db7d2572b54c6c03db79b45]: Commencement: S. 14 in force at Royal Assent, see [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d)
 
-[^key-95dd529361f5ad39276bcfc1d2869c00]: Commencement: S. 15 in force at Royal Assent, see [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d)
+[^c-95dd529361f5ad39276bcfc1d2869c00]: Commencement: S. 15 in force at Royal Assent, see [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d)
 
-[^key-10dca27d2f63e7db09d382af682e4a94]: Commencement: S. 16 in force at Royal Assent, see [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d)
+[^c-10dca27d2f63e7db09d382af682e4a94]: Commencement: S. 16 in force at Royal Assent, see [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d)
 
 [^M_F_b1152289-36f2-4e2b-b81a-c4ade4f54c6a]: Textual amendment: Word in s. 17 cross-heading substituted (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 2 para. 11(4)](https://www.legislation.gov.uk/ukpga/2023/28/schedule/2/paragraph/11/4) (with [s. 22(6)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/6)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1363/regulation/3/e)
 
-[^key-e9f9724edc621d94d5763a2b4db54a16]: Commencement: S. 17 in force at Royal Assent, see [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d)
+[^c-e9f9724edc621d94d5763a2b4db54a16]: Commencement: S. 17 in force at Royal Assent, see [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d)
 
-[^key-9e2df5c6387988473071a7ec7a00b17c]: Textual amendment: Word in [s. 17](https://www.legislation.gov.uk/ukpga/2023/28/section/17) substituted (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 2 para. 11(4)](https://www.legislation.gov.uk/ukpga/2023/28/schedule/2/paragraph/11/4) (with [s. 22(6)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/6)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1363/regulation/3/e)
+[^c-9e2df5c6387988473071a7ec7a00b17c]: Textual amendment: Word in [s. 17](https://www.legislation.gov.uk/ukpga/2023/28/section/17) substituted (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 2 para. 11(4)](https://www.legislation.gov.uk/ukpga/2023/28/schedule/2/paragraph/11/4) (with [s. 22(6)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/6)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1363/regulation/3/e)
 
-[^key-3f6d911e09815e88cdd09d64e3c3a7b8]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2023/28/section/18) in force at 29.8.2023, see [s. 22(2)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/2)
+[^c-3f6d911e09815e88cdd09d64e3c3a7b8]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2023/28/section/18) in force at 29.8.2023, see [s. 22(2)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/2)
 
-[^key-2f06c5d37d09aa9c1da1553c6881ac95]: Commencement: S. 19 in force at Royal Assent, see [s. 22(1)(e)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/e)
+[^c-2f06c5d37d09aa9c1da1553c6881ac95]: Commencement: S. 19 in force at Royal Assent, see [s. 22(1)(e)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/e)
 
-[^key-840314535cef1bd9c1f4889350954f67]: Commencement: S. 20 in force at Royal Assent, see [s. 22(1)(e)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/e)
+[^c-840314535cef1bd9c1f4889350954f67]: Commencement: S. 20 in force at Royal Assent, see [s. 22(1)(e)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/e)
 
-[^key-737d050c839e085d9d32c4a8d480fe70]: Commencement: S. 21 in force at Royal Assent, see [s. 22(1)(e)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/e)
+[^c-737d050c839e085d9d32c4a8d480fe70]: Commencement: S. 21 in force at Royal Assent, see [s. 22(1)(e)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/e)
 
-[^key-2f9aa62e69b3b6cd3e4ffa6e7df03ebf]: Textual amendment: Words in [s. 21(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/21/1) substituted (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 2 para. 11(5)(a)](https://www.legislation.gov.uk/ukpga/2023/28/schedule/2/paragraph/11/5/a) (with [s. 22(6)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/6)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1363/regulation/3/e)
+[^c-2f9aa62e69b3b6cd3e4ffa6e7df03ebf]: Textual amendment: Words in [s. 21(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/21/1) substituted (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 2 para. 11(5)(a)](https://www.legislation.gov.uk/ukpga/2023/28/schedule/2/paragraph/11/5/a) (with [s. 22(6)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/6)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1363/regulation/3/e)
 
-[^key-17df51ebcb969fc9c36e8f7b2e839897]: Textual amendment: Words in [s. 21(2)](https://www.legislation.gov.uk/ukpga/2023/28/section/21/2) substituted (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 2 para. 11(5)(b)](https://www.legislation.gov.uk/ukpga/2023/28/schedule/2/paragraph/11/5/b) (with [s. 22(6)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/6)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1363/regulation/3/e)
+[^c-17df51ebcb969fc9c36e8f7b2e839897]: Textual amendment: Words in [s. 21(2)](https://www.legislation.gov.uk/ukpga/2023/28/section/21/2) substituted (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 2 para. 11(5)(b)](https://www.legislation.gov.uk/ukpga/2023/28/schedule/2/paragraph/11/5/b) (with [s. 22(6)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/6)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1363/regulation/3/e)
 
-[^key-d43de23ca56471d9c529b22bf47b407b]: Commencement: S. 22 in force at Royal Assent, see [s. 22(1)(e)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/e)
+[^c-d43de23ca56471d9c529b22bf47b407b]: Commencement: S. 22 in force at Royal Assent, see [s. 22(1)(e)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/e)
 
-[^key-ebb90b0e219d9bf9921c0e43963bd709]: Commencement: S. 23 in force at Royal Assent, see [s. 22(1)(e)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/e)
+[^c-ebb90b0e219d9bf9921c0e43963bd709]: Commencement: S. 23 in force at Royal Assent, see [s. 22(1)(e)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/e)
 
-[^key-26675811ebc9d4c4bd6edd775aaccda2]: Commencement: [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) not in force at Royal Assent, see [s. 22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3)
+[^c-26675811ebc9d4c4bd6edd775aaccda2]: Commencement: [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) not in force at Royal Assent, see [s. 22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3)
 
-[^key-68351cd67867b88d025cdaff7c65a7f1]: Commencement: [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) in force at 31.12.2023 immediately before the end of 2023 by [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2) (but the revocations have effect at the end of 2023 in accordance with s. 1(1) of this Act)
+[^c-68351cd67867b88d025cdaff7c65a7f1]: Commencement: [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) in force at 31.12.2023 immediately before the end of 2023 by [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2) (but the revocations have effect at the end of 2023 in accordance with s. 1(1) of this Act)
 
-[^key-075021d0d1fc15cde5edac486993cb01]: Modification: [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) disapplied in relation to specified instruments (31.12.2023 immediately before the end of 2023) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/2), [4](https://www.legislation.gov.uk/uksi/2023/1143/regulation/4), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/1/part/1)
+[^c-075021d0d1fc15cde5edac486993cb01]: Modification: [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) disapplied in relation to specified instruments (31.12.2023 immediately before the end of 2023) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/2), [4](https://www.legislation.gov.uk/uksi/2023/1143/regulation/4), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/1/part/1)
 
-[^key-89416914f4f5425a0186129ea9212601]: Commencement: [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) not in force at Royal Assent, see [s. 22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3)
+[^c-89416914f4f5425a0186129ea9212601]: Commencement: [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) not in force at Royal Assent, see [s. 22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3)
 
-[^key-78d7ef5c7e07c150d06ec824389081fe]: Commencement: [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) in force at 31.12.2023 immediately before the end of 2023 by [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2) (but the revocations have effect at the end of 2023 in accordance with s. 1(1) of this Act)
+[^c-78d7ef5c7e07c150d06ec824389081fe]: Commencement: [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) in force at 31.12.2023 immediately before the end of 2023 by [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2) (but the revocations have effect at the end of 2023 in accordance with s. 1(1) of this Act)
 
-[^key-817a09ce5dc5c0dec8fbe19524033deb]: Modification: [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) disapplied in relation to specified instruments (31.12.2023 immediately before the end of 2023) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/2), [4](https://www.legislation.gov.uk/uksi/2023/1143/regulation/4), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1143/schedule/1/part/2)
+[^c-817a09ce5dc5c0dec8fbe19524033deb]: Modification: [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) disapplied in relation to specified instruments (31.12.2023 immediately before the end of 2023) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/2), [4](https://www.legislation.gov.uk/uksi/2023/1143/regulation/4), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1143/schedule/1/part/2)
 
-[^key-f822c0495b8e14752476175f2c9bb5b3]: Modification: [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) disapplied in relation to specified instruments (N.I.) (31.12.2023 immediately before the end of 2023) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/2), [4](https://www.legislation.gov.uk/uksi/2023/1143/regulation/4), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2023/1143/schedule/1/part/3)
+[^c-f822c0495b8e14752476175f2c9bb5b3]: Modification: [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) disapplied in relation to specified instruments (N.I.) (31.12.2023 immediately before the end of 2023) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/2), [4](https://www.legislation.gov.uk/uksi/2023/1143/regulation/4), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2023/1143/schedule/1/part/3)
 
-[^key-1042fbd902eb9a9c6f0677b4305a2ec3]: Commencement: Sch. 2 para. 1 not in force at Royal Assent, see [s. 22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3)
+[^c-1042fbd902eb9a9c6f0677b4305a2ec3]: Commencement: Sch. 2 para. 1 not in force at Royal Assent, see [s. 22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3)
 
-[^key-e8ca651d9307a99ac8917fb59181a909]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/2/paragraph/1) in force at 1.1.2024 by [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1363/regulation/3/e)
+[^c-e8ca651d9307a99ac8917fb59181a909]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/2/paragraph/1) in force at 1.1.2024 by [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1363/regulation/3/e)
 
-[^key-530ee9d4502fb21b47ca03ecff55af04]: Commencement: Sch. 2 para. 2 not in force at Royal Assent, see [s. 22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3)
+[^c-530ee9d4502fb21b47ca03ecff55af04]: Commencement: Sch. 2 para. 2 not in force at Royal Assent, see [s. 22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3)
 
-[^key-dbc1e206592fcf3bb7e5a48c5af53ee0]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/2/paragraph/2) in force at 1.1.2024 by [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1363/regulation/3/e)
+[^c-dbc1e206592fcf3bb7e5a48c5af53ee0]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/2/paragraph/2) in force at 1.1.2024 by [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1363/regulation/3/e)
 
-[^key-a01f5b235e2decd14951a2cb57f0655a]: Commencement: Sch. 2 para. 3 not in force at Royal Assent, see [s. 22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3)
+[^c-a01f5b235e2decd14951a2cb57f0655a]: Commencement: Sch. 2 para. 3 not in force at Royal Assent, see [s. 22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3)
 
-[^key-3b56be9d411cd0d98441463d37833562]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2023/28/schedule/2/paragraph/3) in force at 1.1.2024 by [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1363/regulation/3/e)
+[^c-3b56be9d411cd0d98441463d37833562]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2023/28/schedule/2/paragraph/3) in force at 1.1.2024 by [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1363/regulation/3/e)
 
-[^key-01dba7bddbf343a63d7d2eb2bcc12a15]: Commencement: Sch. 2 para. 4 not in force at Royal Assent, see [s. 22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3)
+[^c-01dba7bddbf343a63d7d2eb2bcc12a15]: Commencement: Sch. 2 para. 4 not in force at Royal Assent, see [s. 22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3)
 
-[^key-867ca71510223ce5e61f0c22cdee208a]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2023/28/schedule/2/paragraph/4) in force at 1.1.2024 by [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1363/regulation/3/e)
+[^c-867ca71510223ce5e61f0c22cdee208a]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2023/28/schedule/2/paragraph/4) in force at 1.1.2024 by [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1363/regulation/3/e)
 
-[^key-de930f72a68bf366711d2d58d5898ba4]: Commencement: Sch. 2 para. 5 not in force at Royal Assent, see [s. 22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3)
+[^c-de930f72a68bf366711d2d58d5898ba4]: Commencement: Sch. 2 para. 5 not in force at Royal Assent, see [s. 22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3)
 
-[^key-05a5dad0f18a1a803f588ab398584e6d]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2023/28/schedule/2/paragraph/5) in force at 1.1.2024 by [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1363/regulation/3/e)
+[^c-05a5dad0f18a1a803f588ab398584e6d]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2023/28/schedule/2/paragraph/5) in force at 1.1.2024 by [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1363/regulation/3/e)
 
-[^key-08ecfb9a53c24c751658d7a88d0f546f]: Commencement: Sch. 2 para. 6 not in force at Royal Assent, see [s. 22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3)
+[^c-08ecfb9a53c24c751658d7a88d0f546f]: Commencement: Sch. 2 para. 6 not in force at Royal Assent, see [s. 22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3)
 
-[^key-02b7bce545fd14f2dbe127fbcf89d9d5]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2023/28/schedule/2/paragraph/6) in force at 1.1.2024 by [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1363/regulation/3/e)
+[^c-02b7bce545fd14f2dbe127fbcf89d9d5]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2023/28/schedule/2/paragraph/6) in force at 1.1.2024 by [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1363/regulation/3/e)
 
-[^key-5bc5420cb2ca7b637e787b51e82e4fa9]: Commencement: Sch. 2 para. 7 not in force at Royal Assent, see [s. 22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3)
+[^c-5bc5420cb2ca7b637e787b51e82e4fa9]: Commencement: Sch. 2 para. 7 not in force at Royal Assent, see [s. 22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3)
 
-[^key-87c5927ff38665a459a590b74f1adc8d]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2023/28/schedule/2/paragraph/7) in force at 1.1.2024 by [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1363/regulation/3/e)
+[^c-87c5927ff38665a459a590b74f1adc8d]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2023/28/schedule/2/paragraph/7) in force at 1.1.2024 by [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1363/regulation/3/e)
 
-[^key-3e8c0e8d51fb9df336c445bb94994b01]: Commencement: Sch. 2 para. 8 not in force at Royal Assent, see [s. 22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3)
+[^c-3e8c0e8d51fb9df336c445bb94994b01]: Commencement: Sch. 2 para. 8 not in force at Royal Assent, see [s. 22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3)
 
-[^key-abd176a48e92d55ae09ee276fe100779]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2023/28/schedule/2/paragraph/8) in force at 1.1.2024 by [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1363/regulation/3/e)
+[^c-abd176a48e92d55ae09ee276fe100779]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2023/28/schedule/2/paragraph/8) in force at 1.1.2024 by [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1363/regulation/3/e)
 
-[^key-534402976845550f096919ac015879e8]: Commencement: Sch. 2 para. 9 not in force at Royal Assent, see [s. 22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3)
+[^c-534402976845550f096919ac015879e8]: Commencement: Sch. 2 para. 9 not in force at Royal Assent, see [s. 22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3)
 
-[^key-7849325b3dfd81d130d1b8b863ebb87d]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2023/28/schedule/2/paragraph/9) in force at 1.1.2024 by [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1363/regulation/3/e)
+[^c-7849325b3dfd81d130d1b8b863ebb87d]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2023/28/schedule/2/paragraph/9) in force at 1.1.2024 by [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1363/regulation/3/e)
 
-[^key-b53c0fb5591788620f7f536bfc8c34b1]: Textual amendment: [Sch. 2 para. 9(5)](https://www.legislation.gov.uk/ukpga/2023/28/schedule/2/paragraph/9/5) omitted (1.1.2026) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(4)](https://www.legislation.gov.uk/asc/2025/3/section/9/4), [Sch. 3 para. 17](https://www.legislation.gov.uk/asc/2025/3/schedule/3/paragraph/17); [S.I. 2025/1160](https://www.legislation.gov.uk/wsi/2025/1160), [art. 2(e)](https://www.legislation.gov.uk/wsi/2025/1160/article/2/e)
+[^c-b53c0fb5591788620f7f536bfc8c34b1]: Textual amendment: [Sch. 2 para. 9(5)](https://www.legislation.gov.uk/ukpga/2023/28/schedule/2/paragraph/9/5) omitted (1.1.2026) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(4)](https://www.legislation.gov.uk/asc/2025/3/section/9/4), [Sch. 3 para. 17](https://www.legislation.gov.uk/asc/2025/3/schedule/3/paragraph/17); [S.I. 2025/1160](https://www.legislation.gov.uk/wsi/2025/1160), [art. 2(e)](https://www.legislation.gov.uk/wsi/2025/1160/article/2/e)
 
-[^key-e189d0b4566a98b7fcb36d6fa21d6cfc]: Commencement: Sch. 2 para. 10 not in force at Royal Assent, see [s. 22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3)
+[^c-e189d0b4566a98b7fcb36d6fa21d6cfc]: Commencement: Sch. 2 para. 10 not in force at Royal Assent, see [s. 22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3)
 
-[^key-3f8d5a8ef422888bb5016d69e5501e9f]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2023/28/schedule/2/paragraph/10) in force at 1.1.2024 by [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1363/regulation/3/e)
+[^c-3f8d5a8ef422888bb5016d69e5501e9f]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2023/28/schedule/2/paragraph/10) in force at 1.1.2024 by [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1363/regulation/3/e)
 
-[^key-d064a8012afa8ff59552bc4846d84d0c]: Commencement: Sch. 2 para. 11 not in force at Royal Assent, see [s. 22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3)
+[^c-d064a8012afa8ff59552bc4846d84d0c]: Commencement: Sch. 2 para. 11 not in force at Royal Assent, see [s. 22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3)
 
-[^key-9d34cb4d5503339b46ad93615ab5c911]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2023/28/schedule/2/paragraph/11) in force at 1.1.2024 by [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1363/regulation/3/e)
+[^c-9d34cb4d5503339b46ad93615ab5c911]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2023/28/schedule/2/paragraph/11) in force at 1.1.2024 by [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1363/regulation/3/e)
 
-[^key-b04c442e6e3d8161e05ace3ebe00cbb8]: Commencement: Sch. 3 para. 1 in force at Royal Assent, see [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d)
+[^c-b04c442e6e3d8161e05ace3ebe00cbb8]: Commencement: Sch. 3 para. 1 in force at Royal Assent, see [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d)
 
-[^key-44582e946d84cc6506aa9acf55d61983]: Commencement: Sch. 3 para. 2 in force at Royal Assent, see [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d)
+[^c-44582e946d84cc6506aa9acf55d61983]: Commencement: Sch. 3 para. 2 in force at Royal Assent, see [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d)
 
-[^key-4b71c5dd6a46f4badf79d331fb444556]: Commencement: Sch. 3 para. 3 in force at Royal Assent, see [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d)
+[^c-4b71c5dd6a46f4badf79d331fb444556]: Commencement: Sch. 3 para. 3 in force at Royal Assent, see [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d)
 
-[^key-10efdcf8b0f1b10855b2b3e9cf061e31]: Commencement: Sch. 3 para. 4 in force at Royal Assent, see [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d)
+[^c-10efdcf8b0f1b10855b2b3e9cf061e31]: Commencement: Sch. 3 para. 4 in force at Royal Assent, see [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d)
 
-[^key-3fb3d3ce8323910f0f0a5d6bec758c3b]: Commencement: Sch. 3 para. 5 in force at Royal Assent, see [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d)
+[^c-3fb3d3ce8323910f0f0a5d6bec758c3b]: Commencement: Sch. 3 para. 5 in force at Royal Assent, see [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d)
 
-[^key-4b19d753e674de8f9141dda48c5ee84a]: Commencement: Sch. 3 para. 6 in force at Royal Assent, see [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d)
+[^c-4b19d753e674de8f9141dda48c5ee84a]: Commencement: Sch. 3 para. 6 in force at Royal Assent, see [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d)
 
-[^key-4e19f2e1949e8bc1e72da294ab9e1858]: Commencement: Sch. 3 para. 7 in force at Royal Assent, see [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d)
+[^c-4e19f2e1949e8bc1e72da294ab9e1858]: Commencement: Sch. 3 para. 7 in force at Royal Assent, see [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d)
 
-[^key-74a098fec887c14758f66c984ea8c80d]: Commencement: Sch. 3 para. 8 in force at Royal Assent, see [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d)
+[^c-74a098fec887c14758f66c984ea8c80d]: Commencement: Sch. 3 para. 8 in force at Royal Assent, see [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d)
 
-[^key-4269ac4939f777571959a0faac791278]: Commencement: Sch. 3 para. 9 in force at Royal Assent, see [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d)
+[^c-4269ac4939f777571959a0faac791278]: Commencement: Sch. 3 para. 9 in force at Royal Assent, see [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d)
 
-[^key-7edb0b0b9cd8d66a3956d42c84f4aac4]: Commencement: Sch. 3 para. 10 in force at Royal Assent, see [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d)
+[^c-7edb0b0b9cd8d66a3956d42c84f4aac4]: Commencement: Sch. 3 para. 10 in force at Royal Assent, see [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d)
 
-[^key-f9b0df838661061008fe75ee59d9b551]: Commencement: Sch. 3 para. 11 in force at Royal Assent, see [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d)
+[^c-f9b0df838661061008fe75ee59d9b551]: Commencement: Sch. 3 para. 11 in force at Royal Assent, see [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d)
 
-[^key-7e7c9a1793d28262b61d1cd6dd5be97a]: Commencement: Sch. 3 para. 12 in force at Royal Assent, see [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d)
+[^c-7e7c9a1793d28262b61d1cd6dd5be97a]: Commencement: Sch. 3 para. 12 in force at Royal Assent, see [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d)
 
-[^key-633add070d22aa9c457cd72f24195275]: Commencement: Sch. 3 para. 13 in force at Royal Assent, see [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d)
+[^c-633add070d22aa9c457cd72f24195275]: Commencement: Sch. 3 para. 13 in force at Royal Assent, see [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d)
 
-[^key-3edc317374da36079c9d895913ee140f]: Commencement: Sch. 3 para. 14 in force at Royal Assent, see [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d)
+[^c-3edc317374da36079c9d895913ee140f]: Commencement: Sch. 3 para. 14 in force at Royal Assent, see [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d)
 
-[^key-ca14729c8e52196dcd99477beb01e66f]: Commencement: Sch. 4 para. 1 in force at Royal Assent, see [s. 22(1)(e)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/e)
+[^c-ca14729c8e52196dcd99477beb01e66f]: Commencement: Sch. 4 para. 1 in force at Royal Assent, see [s. 22(1)(e)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/e)
 
-[^key-25586479a049616d519af51c2cc33218]: Commencement: Sch. 4 para. 2 in force at Royal Assent, see [s. 22(1)(e)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/e)
+[^c-25586479a049616d519af51c2cc33218]: Commencement: Sch. 4 para. 2 in force at Royal Assent, see [s. 22(1)(e)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/e)
 
-[^key-8c069217301abf04df13c6a26c0c14bf]: Commencement: Sch. 4 para. 3 in force at Royal Assent, see [s. 22(1)(e)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/e)
+[^c-8c069217301abf04df13c6a26c0c14bf]: Commencement: Sch. 4 para. 3 in force at Royal Assent, see [s. 22(1)(e)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/e)
 
-[^key-5db95d3299cf431c91b9896bfccb4df1]: Commencement: Sch. 4 para. 4 in force at Royal Assent, see [s. 22(1)(e)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/e)
+[^c-5db95d3299cf431c91b9896bfccb4df1]: Commencement: Sch. 4 para. 4 in force at Royal Assent, see [s. 22(1)(e)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/e)
 
-[^key-3d0e7a5b3f398db8914debae8346507f]: Commencement: Sch. 4 para. 5 in force at Royal Assent, see [s. 22(1)(e)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/e)
+[^c-3d0e7a5b3f398db8914debae8346507f]: Commencement: Sch. 4 para. 5 in force at Royal Assent, see [s. 22(1)(e)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/e)
 
-[^key-b6d9faf5dc60480d95dc99c57660d57d]: Commencement: Sch. 5 para. 1 in force at Royal Assent, see [s. 22(1)(e)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/e)
+[^c-b6d9faf5dc60480d95dc99c57660d57d]: Commencement: Sch. 5 para. 1 in force at Royal Assent, see [s. 22(1)(e)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/e)
 
-[^key-9477c21fcb35a341d959bb714563ea09]: Commencement: Sch. 5 para. 2 in force at Royal Assent, see [s. 22(1)(e)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/e)
+[^c-9477c21fcb35a341d959bb714563ea09]: Commencement: Sch. 5 para. 2 in force at Royal Assent, see [s. 22(1)(e)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/e)
 
-[^key-99e1c1c673fa4233d2faf0b565fd463f]: Commencement: Sch. 5 para. 3 in force at Royal Assent, see [s. 22(1)(e)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/e)
+[^c-99e1c1c673fa4233d2faf0b565fd463f]: Commencement: Sch. 5 para. 3 in force at Royal Assent, see [s. 22(1)(e)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/e)
 
-[^key-7becde0e69e0be4e14820d23a94fee1d]: Commencement: Sch. 5 para. 4 in force at Royal Assent, see [s. 22(1)(e)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/e)
+[^c-7becde0e69e0be4e14820d23a94fee1d]: Commencement: Sch. 5 para. 4 in force at Royal Assent, see [s. 22(1)(e)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/e)
 
-[^key-0b4cba781134d2443f36aa445e63769a]: Commencement: Sch. 5 para. 5 in force at Royal Assent, see [s. 22(1)(e)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/e)
+[^c-0b4cba781134d2443f36aa445e63769a]: Commencement: Sch. 5 para. 5 in force at Royal Assent, see [s. 22(1)(e)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/e)
 
-[^key-aae0d7e47ba8a028e9d0bd925ee42026]: Commencement: Sch. 5 para. 6 in force at Royal Assent, see [s. 22(1)(e)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/e)
+[^c-aae0d7e47ba8a028e9d0bd925ee42026]: Commencement: Sch. 5 para. 6 in force at Royal Assent, see [s. 22(1)(e)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/e)
 
-[^key-01a627acc622f8b1d943ec226fb25841]: Commencement: Sch. 5 para. 7 in force at Royal Assent, see [s. 22(1)(e)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/e)
+[^c-01a627acc622f8b1d943ec226fb25841]: Commencement: Sch. 5 para. 7 in force at Royal Assent, see [s. 22(1)(e)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/e)
 
-[^key-d882ae906b9472b3fc9c3bed9c7250a7]: Commencement: Sch. 5 para. 8 in force at Royal Assent, see [s. 22(1)(e)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/e)
+[^c-d882ae906b9472b3fc9c3bed9c7250a7]: Commencement: Sch. 5 para. 8 in force at Royal Assent, see [s. 22(1)(e)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/e)
 
-[^key-e6c247bc4ed618181bfca81f1997eeec]: Commencement: Sch. 5 para. 9 in force at Royal Assent, see [s. 22(1)(e)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/e)
+[^c-e6c247bc4ed618181bfca81f1997eeec]: Commencement: Sch. 5 para. 9 in force at Royal Assent, see [s. 22(1)(e)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/e)
 
-[^key-e4813a25450d82f6975d58076474712c]: Commencement: Sch. 5 para. 10 in force at Royal Assent, see [s. 22(1)(e)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/e)
+[^c-e4813a25450d82f6975d58076474712c]: Commencement: Sch. 5 para. 10 in force at Royal Assent, see [s. 22(1)(e)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/e)
 
-[^key-3632958ffe97b0fcdb9079d4dcd3dcff]: Commencement: Sch. 5 para. 11 in force at Royal Assent, see [s. 22(1)(e)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/e)
+[^c-3632958ffe97b0fcdb9079d4dcd3dcff]: Commencement: Sch. 5 para. 11 in force at Royal Assent, see [s. 22(1)(e)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/e)
 
-[^key-c803bd9dc0f144b768395676433b4f23]: Commencement: Sch. 5 para. 12 in force at Royal Assent, see [s. 22(1)(e)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/e)
+[^c-c803bd9dc0f144b768395676433b4f23]: Commencement: Sch. 5 para. 12 in force at Royal Assent, see [s. 22(1)(e)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/e)
 
-[^key-3cbd95e7c4d72327cf33532bd9952940]: Commencement: Sch. 5 para. 13 in force at Royal Assent, see [s. 22(1)(e)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/e)
+[^c-3cbd95e7c4d72327cf33532bd9952940]: Commencement: Sch. 5 para. 13 in force at Royal Assent, see [s. 22(1)(e)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/e)
 
-[^key-34fbf6c5d44d3deab30da15c22e178a3]: Commencement: Sch. 5 para. 14 in force at Royal Assent, see [s. 22(1)(e)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/e)
+[^c-34fbf6c5d44d3deab30da15c22e178a3]: Commencement: Sch. 5 para. 14 in force at Royal Assent, see [s. 22(1)(e)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/e)
 
-[^key-ae3476065b31df44a01255bb23c2463a]: Commencement: Sch. 5 para. 15 in force at Royal Assent, see [s. 22(1)(e)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/e)
+[^c-ae3476065b31df44a01255bb23c2463a]: Commencement: Sch. 5 para. 15 in force at Royal Assent, see [s. 22(1)(e)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/e)
 
-[^key-4c3c90cb2e60f9da8bbac86187f44f36]: Commencement: Sch. 5 para. 16 in force at Royal Assent, see [s. 22(1)(e)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/e)
+[^c-4c3c90cb2e60f9da8bbac86187f44f36]: Commencement: Sch. 5 para. 16 in force at Royal Assent, see [s. 22(1)(e)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/e)
 
-[^key-2ddafbe990a09a9493580ed21dbb8077]: Commencement: Sch. 5 para. 17 in force at Royal Assent, see [s. 22(1)(e)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/e)
+[^c-2ddafbe990a09a9493580ed21dbb8077]: Commencement: Sch. 5 para. 17 in force at Royal Assent, see [s. 22(1)(e)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/e)

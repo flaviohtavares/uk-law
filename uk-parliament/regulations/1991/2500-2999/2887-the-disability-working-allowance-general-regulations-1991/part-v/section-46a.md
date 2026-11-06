@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 46A. Calculation of capital—lump sum access fund payment[^key-f9e9bd0716b007361bf5a68604edcc06]
+## 46A. Calculation of capital—lump sum access fund payment[^c-f9e9bd0716b007361bf5a68604edcc06]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ There shall be disregarded from the calculation of a student’s capital under r
 
 ## Annotations
 
-[^key-f9e9bd0716b007361bf5a68604edcc06]: Textual amendment: [Reg. 46A](https://www.legislation.gov.uk/uksi/1991/2887/regulation/46A) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Tax Credits Schemes (Miscellaneous Amendments No. 3) Regulations 2000 (S.I. 2000/1807)](https://www.legislation.gov.uk/uksi/2000/1807), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2000/1807/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2000/1807/regulation/14)
+[^c-f9e9bd0716b007361bf5a68604edcc06]: Textual amendment: [Reg. 46A](https://www.legislation.gov.uk/uksi/1991/2887/regulation/46A) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Tax Credits Schemes (Miscellaneous Amendments No. 3) Regulations 2000 (S.I. 2000/1807)](https://www.legislation.gov.uk/uksi/2000/1807), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2000/1807/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2000/1807/regulation/14)

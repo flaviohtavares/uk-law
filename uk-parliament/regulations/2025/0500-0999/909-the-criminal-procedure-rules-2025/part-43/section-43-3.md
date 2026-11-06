@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43.3. Determination of detention pending appeal, etc.[^key-1a09eff99a535625efd36be52d529c6b]
+## 43.3. Determination of detention pending appeal, etc.[^c-1a09eff99a535625efd36be52d529c6b]
 
 *Extent: E+W*
 
@@ -37,7 +37,7 @@ On an application for permission to appeal, the Court of Appeal must—
 
 ## Annotations
 
-[^key-1a09eff99a535625efd36be52d529c6b]: Commencement: [Rule 43.3](https://www.legislation.gov.uk/uksi/2025/909/rule/43.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-1a09eff99a535625efd36be52d529c6b]: Commencement: [Rule 43.3](https://www.legislation.gov.uk/uksi/2025/909/rule/43.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01028]: Footnote: [1968 c. 19](https://www.legislation.gov.uk/ukpga/1968/19); section 37 was amended by section 65(1) of, and paragraph 39 of Schedule 3 to, the Mental Health (Amendment) Act [1982 (c. 51)](https://www.legislation.gov.uk/ukpga/1982/51), section 148 of, and paragraph 23 of Schedule 4 to, the Mental Health Act [1983 (c. 20)](https://www.legislation.gov.uk/ukpga/1983/20), section 58(1) of, and paragraph 5 of Schedule 10 to, the Domestic Violence, Crime and Victims Act [2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), section 40 of, and paragraph 16 of Schedule 9 to, the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4) and section 47 of, and paragraphs 1 and 13 of Schedule 8 to, the Criminal Justice and Immigration Act [2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4).
 

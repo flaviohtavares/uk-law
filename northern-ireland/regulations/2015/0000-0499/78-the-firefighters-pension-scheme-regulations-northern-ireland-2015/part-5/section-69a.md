@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 69A. Early payment reduction[^key-bb2aef142f77141b795109f3ccd8a609]
+## 69A. Early payment reduction[^c-bb2aef142f77141b795109f3ccd8a609]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bb2aef142f77141b795109f3ccd8a609]: Textual amendment: [Reg. 69A](https://www.legislation.gov.uk/nisr/2015/78/regulation/69A) inserted (9.1.2025 with effect from 1.4.2015) by [The Firefighters’ Pension Schemes and Compensation Scheme (Amendment) (No. 2) Regulations (Northern Ireland) 2024 (S.R. 2024/218)](https://www.legislation.gov.uk/nisr/2024/218), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/218/regulation/1/1)[(2)](https://www.legislation.gov.uk/nisr/2024/218/regulation/1/2), [5(4)(b)](https://www.legislation.gov.uk/nisr/2024/218/regulation/5/4/b)
+[^c-bb2aef142f77141b795109f3ccd8a609]: Textual amendment: [Reg. 69A](https://www.legislation.gov.uk/nisr/2015/78/regulation/69A) inserted (9.1.2025 with effect from 1.4.2015) by [The Firefighters’ Pension Schemes and Compensation Scheme (Amendment) (No. 2) Regulations (Northern Ireland) 2024 (S.R. 2024/218)](https://www.legislation.gov.uk/nisr/2024/218), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/218/regulation/1/1)[(2)](https://www.legislation.gov.uk/nisr/2024/218/regulation/1/2), [5(4)(b)](https://www.legislation.gov.uk/nisr/2024/218/regulation/5/4/b)

@@ -35,58 +35,58 @@ on quarterly statistics on Community job vacancies
 
 (Text with EEA relevance) (revoked)
 
-[^key-349bbb33518cc0204123a5f8797cc30b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-349bbb33518cc0204123a5f8797cc30b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Subject matter and scope[^key-349bbb33518cc0204123a5f8797cc30b]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Definitions[^key-349bbb33518cc0204123a5f8797cc30b]
+## Article 1. Subject matter and scope[^c-349bbb33518cc0204123a5f8797cc30b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Reference dates and technical specifications[^key-349bbb33518cc0204123a5f8797cc30b]
+## Article 2. Definitions[^c-349bbb33518cc0204123a5f8797cc30b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Sources[^key-349bbb33518cc0204123a5f8797cc30b]
+## Article 3. Reference dates and technical specifications[^c-349bbb33518cc0204123a5f8797cc30b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Data transmission[^key-349bbb33518cc0204123a5f8797cc30b]
+## Article 4. Sources[^c-349bbb33518cc0204123a5f8797cc30b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Quality assessment[^key-349bbb33518cc0204123a5f8797cc30b]
+## Article 5. Data transmission[^c-349bbb33518cc0204123a5f8797cc30b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Feasibility studies[^key-349bbb33518cc0204123a5f8797cc30b]
+## Article 6. Quality assessment[^c-349bbb33518cc0204123a5f8797cc30b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Financing[^key-349bbb33518cc0204123a5f8797cc30b]
+## Article 7. Feasibility studies[^c-349bbb33518cc0204123a5f8797cc30b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Committee[^key-349bbb33518cc0204123a5f8797cc30b]
+## Article 8. Financing[^c-349bbb33518cc0204123a5f8797cc30b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Report on implementation[^key-349bbb33518cc0204123a5f8797cc30b]
+## Article 9. Committee[^c-349bbb33518cc0204123a5f8797cc30b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 11. Publication of statistical data[^key-349bbb33518cc0204123a5f8797cc30b]
+## Article 10. Report on implementation[^c-349bbb33518cc0204123a5f8797cc30b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 12. Entry into force[^key-349bbb33518cc0204123a5f8797cc30b]
+## Article 11. Publication of statistical data[^c-349bbb33518cc0204123a5f8797cc30b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-349bbb33518cc0204123a5f8797cc30b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 12. Entry into force[^c-349bbb33518cc0204123a5f8797cc30b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-349bbb33518cc0204123a5f8797cc30b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-349bbb33518cc0204123a5f8797cc30b]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 128](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/128); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-349bbb33518cc0204123a5f8797cc30b]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 128](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/128); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 10. Management, etc., of agencies[^key-835a9d676616ff5dab1e5c8f909edbdd]
+## 10. Management, etc., of agencies[^c-835a9d676616ff5dab1e5c8f909edbdd]
 
 *Extent: N.I.*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-835a9d676616ff5dab1e5c8f909edbdd]: Commencement: S. 10 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-835a9d676616ff5dab1e5c8f909edbdd]: Commencement: S. 10 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

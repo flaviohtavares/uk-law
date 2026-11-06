@@ -32,7 +32,7 @@ summary: ''
 - (d) for amending, repealing or revoking (with or without savings) any provision of an Act passed, or an instrument under an Act made, before the abolition date, for applying any such provision (with or without modification) and for making savings or additional savings from the effect of any amendment or repeal made by this Act;
 - (e) with respect to the membership of any body so far as consisting of persons elected by, or appointed by or on the nomination of ILEA, whether alone or together with one or more other bodies.
 
-(4)[^key-edb9a53b9d3f7aa20545fb96b668eaa3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-edb9a53b9d3f7aa20545fb96b668eaa3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) The amendments that may be made under subsection (3)(d) above—
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-edb9a53b9d3f7aa20545fb96b668eaa3]: Textual amendment: [S. 231(4)](https://www.legislation.gov.uk/ukpga/1988/40/section/231/4) repealed (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 4(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/4/5), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2010/1158/schedule/3/part/1)
+[^c-edb9a53b9d3f7aa20545fb96b668eaa3]: Textual amendment: [S. 231(4)](https://www.legislation.gov.uk/ukpga/1988/40/section/231/4) repealed (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 4(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/4/5), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2010/1158/schedule/3/part/1)

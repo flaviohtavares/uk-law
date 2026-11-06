@@ -35,7 +35,7 @@ completing the technical requirements for waste characterisation laid down by Di
 
 (2009/360/EC)
 
-[^key-7b7bcfe38b59aae3fc967bebdece3859]
+[^c-7b7bcfe38b59aae3fc967bebdece3859]
 
 THE COMMISSION OF THE EUROPEAN COMMUNITIES,
 
@@ -71,7 +71,7 @@ The measures provided for in this Decision are in accordance with the opinion of
 
 HAS ADOPTED THIS DECISION:
 
-## Article A1.[^key-5ceacf2a5b4d8ca518d33e5850ddbe4d]
+## Article A1.[^c-5ceacf2a5b4d8ca518d33e5850ddbe4d]
 
 (1.) A term which is used in this Decision—
 
@@ -103,7 +103,7 @@ HAS ADOPTED THIS DECISION:
 - (a) in paragraph 1, “Member States shall take appropriate measures to ensure that” were omitted;
 - (b) after paragraph 1 there were inserted—
   - (1A.) Any decision as to whether a substance or object has ceased to be waste must be made—
-    - (a) in accordance with any regulations or assimilated direct[^key-e57272717e7d37e27b9cbce65e650ca6] legislation setting out detailed criteria on the application of the conditions in paragraph 1 to specific types of waste; and
+    - (a) in accordance with any regulations or assimilated direct[^c-e57272717e7d37e27b9cbce65e650ca6] legislation setting out detailed criteria on the application of the conditions in paragraph 1 to specific types of waste; and
     - (b) having regard to any guidance published by the appropriate authority or the appropriate agency for the purposes of this Article.
 - (c) in paragraph 2—
   - (i) the first subparagraph were omitted;
@@ -161,7 +161,7 @@ HAS ADOPTED THIS DECISION:
 
 ## Article 1. Waste characterisation
 
-1. The appropriate agency[^key-cbd8207dcbc812988c9b01daded2f257] shall ensure that the waste characterisation to be carried out by operators in the extractive industries complies with this Decision.
+1. The appropriate agency[^c-cbd8207dcbc812988c9b01daded2f257] shall ensure that the waste characterisation to be carried out by operators in the extractive industries complies with this Decision.
 
 2. Waste characterisation shall cover the following categories of information as specified in the Annex:
 
@@ -177,7 +177,7 @@ HAS ADOPTED THIS DECISION:
 
 1. Information and data necessary for the waste characterisation shall be collected in the order set out in paragraphs 2 to 5.
 
-2. Existing investigations and studies, including existing permits, geological surveys, similar sites, lists of inert waste, appropriate certification schemes, [^key-4c855d5fc428c264a5c244399d212c62]... or national standards for similar material, which satisfy the technical requirements set out in the Annex shall be used.
+2. Existing investigations and studies, including existing permits, geological surveys, similar sites, lists of inert waste, appropriate certification schemes, [^c-4c855d5fc428c264a5c244399d212c62]... or national standards for similar material, which satisfy the technical requirements set out in the Annex shall be used.
 
 3. The quality and representativity of all information shall be evaluated and possible missing information shall be identified.
 
@@ -192,7 +192,7 @@ The reliability and quality of the sampling results shall be evaluated.
 
 5. The results of the characterisation process shall be evaluated. Where necessary, additional information shall be collected following the same methodology. The final result shall feed into the waste management plan.
 
-**Article 3.**[^key-9fe6153ed1c7907394875a566a3d4596] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-9fe6153ed1c7907394875a566a3d4596] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Done at Brussels, 30 April 2009.
 
@@ -262,7 +262,7 @@ Prediction of drainage chemistry over time for each type of waste, taking into a
 
 ## Annotations
 
-[^key-7b7bcfe38b59aae3fc967bebdece3859]: Modification: Decision: power to modify conferred (26.2.2022) by [The Waste and Agriculture (Legislative Functions) Regulations 2022 (S.I. 2022/190)](https://www.legislation.gov.uk/uksi/2022/190), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/190/regulation/1/1), [10(1)](https://www.legislation.gov.uk/uksi/2022/190/regulation/10/1)[(2)(d)](https://www.legislation.gov.uk/uksi/2022/190/regulation/10/2/d)
+[^c-7b7bcfe38b59aae3fc967bebdece3859]: Modification: Decision: power to modify conferred (26.2.2022) by [The Waste and Agriculture (Legislative Functions) Regulations 2022 (S.I. 2022/190)](https://www.legislation.gov.uk/uksi/2022/190), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/190/regulation/1/1), [10(1)](https://www.legislation.gov.uk/uksi/2022/190/regulation/10/1)[(2)(d)](https://www.legislation.gov.uk/uksi/2022/190/regulation/10/2/d)
 
 [^f00001]: Footnote: [OJ L 102, 11.4.2006, p. 15](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2006.102.01.0015.01.ENG).
 
@@ -270,14 +270,14 @@ Prediction of drainage chemistry over time for each type of waste, taking into a
 
 [^f00003]: Footnote: [OJ L 114, 27.4.2006, p. 9](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2006.114.01.0009.01.ENG).
 
-[^key-5ceacf2a5b4d8ca518d33e5850ddbe4d]: Textual amendment: [Art. A1](https://www.legislation.gov.uk/eudn/2009/360/article/A1) inserted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [20(2)](https://www.legislation.gov.uk/uksi/2019/620/regulation/20/2) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [14](https://www.legislation.gov.uk/uksi/2020/1540/regulation/14)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5ceacf2a5b4d8ca518d33e5850ddbe4d]: Textual amendment: [Art. A1](https://www.legislation.gov.uk/eudn/2009/360/article/A1) inserted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [20(2)](https://www.legislation.gov.uk/uksi/2019/620/regulation/20/2) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [14](https://www.legislation.gov.uk/uksi/2020/1540/regulation/14)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e57272717e7d37e27b9cbce65e650ca6]: Textual amendment: Words in [Art. A1(6)(b)](https://www.legislation.gov.uk/eudn/2009/360/article/A1/6/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 84](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/84)
+[^c-e57272717e7d37e27b9cbce65e650ca6]: Textual amendment: Words in [Art. A1(6)(b)](https://www.legislation.gov.uk/eudn/2009/360/article/A1/6/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 84](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/84)
 
-[^key-cbd8207dcbc812988c9b01daded2f257]: Textual amendment: Words in [Art. 1(1)](https://www.legislation.gov.uk/eudn/2009/360/article/1/1) substituted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [20(3)](https://www.legislation.gov.uk/uksi/2019/620/regulation/20/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cbd8207dcbc812988c9b01daded2f257]: Textual amendment: Words in [Art. 1(1)](https://www.legislation.gov.uk/eudn/2009/360/article/1/1) substituted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [20(3)](https://www.legislation.gov.uk/uksi/2019/620/regulation/20/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4c855d5fc428c264a5c244399d212c62]: Textual amendment: Word in [Art. 2(2)](https://www.legislation.gov.uk/eudn/2009/360/article/2/2) omitted (31.12.2020) by virtue of [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [20(4)](https://www.legislation.gov.uk/uksi/2019/620/regulation/20/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4c855d5fc428c264a5c244399d212c62]: Textual amendment: Word in [Art. 2(2)](https://www.legislation.gov.uk/eudn/2009/360/article/2/2) omitted (31.12.2020) by virtue of [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [20(4)](https://www.legislation.gov.uk/uksi/2019/620/regulation/20/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9fe6153ed1c7907394875a566a3d4596]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/eudn/2009/360/article/3) omitted (31.12.2020) by virtue of [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [20(5)](https://www.legislation.gov.uk/uksi/2019/620/regulation/20/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9fe6153ed1c7907394875a566a3d4596]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/eudn/2009/360/article/3) omitted (31.12.2020) by virtue of [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [20(5)](https://www.legislation.gov.uk/uksi/2019/620/regulation/20/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00004]: Footnote: [OJ L 226, 6.9.2000, p. 3](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2000.226.01.0003.01.ENG).

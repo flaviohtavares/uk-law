@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 53. Use of private roads for construction[^key-a127840c4e236335f498e72c2241e607]
+## 53. Use of private roads for construction[^c-a127840c4e236335f498e72c2241e607]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a127840c4e236335f498e72c2241e607]: Commencement: Art. 53 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
+[^c-a127840c4e236335f498e72c2241e607]: Commencement: Art. 53 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)

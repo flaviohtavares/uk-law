@@ -34,7 +34,7 @@ Section 117(1).
 
 ### Public Health (Scotland) Act 1897 (c. 38)
 
-**2.**[^key-d54c1683b3165e17a4a3f2c4b4778b81] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-d54c1683b3165e17a4a3f2c4b4778b81] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Public Health Acts Amendment Act 1907 (c. 53)
 
@@ -114,7 +114,7 @@ Section 117(1).
 
 ### Industrial and Provident Societies Act 1965 (c. 12)
 
-**13.**[^key-77a23b320084bcdce36ddc44a1d9b24f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-77a23b320084bcdce36ddc44a1d9b24f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Public Works Loans Act 1965 (c. 63)
 
@@ -254,8 +254,8 @@ Section 117(1).
 
 **44.**[^c12084241] In Schedule 3 to that Act (which relates to borrowing and lending by local authorities)—
 
-- (a) in paragraph 6(2)(a), for the words “the community charges and the community water charges" there shall be substituted the words *(Extent: S)* *(affected by repeal, see note)*[^key-e788f07d35830ec0527b9d208d64b2f6] “ the council tax and the council water charge ” *(Extent: S)* *(affected by repeal, see note)*[^key-e788f07d35830ec0527b9d208d64b2f6]; *(Extent: S)* *(affected by repeal, see note)*[^key-e788f07d35830ec0527b9d208d64b2f6]
-- (b) in paragraph 20(2), for the words “the community charges and the community water charges" there shall be substituted the words *(Extent: S)* *(affected by repeal, see note)*[^key-e788f07d35830ec0527b9d208d64b2f6] “ the council tax and the council water charge ” *(Extent: S)* *(affected by repeal, see note)*[^key-e788f07d35830ec0527b9d208d64b2f6]; *(Extent: S)* *(affected by repeal, see note)*[^key-e788f07d35830ec0527b9d208d64b2f6]
+- (a) in paragraph 6(2)(a), for the words “the community charges and the community water charges" there shall be substituted the words *(Extent: S)* *(affected by repeal, see note)*[^c-e788f07d35830ec0527b9d208d64b2f6] “ the council tax and the council water charge ” *(Extent: S)* *(affected by repeal, see note)*[^c-e788f07d35830ec0527b9d208d64b2f6]; *(Extent: S)* *(affected by repeal, see note)*[^c-e788f07d35830ec0527b9d208d64b2f6]
+- (b) in paragraph 20(2), for the words “the community charges and the community water charges" there shall be substituted the words *(Extent: S)* *(affected by repeal, see note)*[^c-e788f07d35830ec0527b9d208d64b2f6] “ the council tax and the council water charge ” *(Extent: S)* *(affected by repeal, see note)*[^c-e788f07d35830ec0527b9d208d64b2f6]; *(Extent: S)* *(affected by repeal, see note)*[^c-e788f07d35830ec0527b9d208d64b2f6]
 - (c) in paragraph 22(2), after the words “incurred by the authority for the purposes of" there shall be inserted—
 
   > - (a) their functions under any enactment (within the meaning of section 109(1) of the [^c12084251]Water (Scotland) Act 1980) in relation to water supply in their area; or
@@ -263,13 +263,13 @@ Section 117(1).
   > - (c)
 
   ; and
-- (d) in paragraph 31, after the definition of “borrowing account" there shall be inserted the following definitions— *(Extent: S)* *(affected by repeal, see note)*[^key-e788f07d35830ec0527b9d208d64b2f6]
+- (d) in paragraph 31, after the definition of “borrowing account" there shall be inserted the following definitions— *(Extent: S)* *(affected by repeal, see note)*[^c-e788f07d35830ec0527b9d208d64b2f6]
 
-  > “ *(Extent: S)* *(affected by repeal, see note)*[^key-e788f07d35830ec0527b9d208d64b2f6]**council tax *(Extent: S)* *(affected by repeal, see note)*[^key-e788f07d35830ec0527b9d208d64b2f6]**” shall be construed in accordance with the provisions of section 70(1) of the Local Government Finance Act 1992; *(Extent: S)* *(affected by repeal, see note)*[^key-e788f07d35830ec0527b9d208d64b2f6]
+  > “ *(Extent: S)* *(affected by repeal, see note)*[^c-e788f07d35830ec0527b9d208d64b2f6]**council tax *(Extent: S)* *(affected by repeal, see note)*[^c-e788f07d35830ec0527b9d208d64b2f6]**” shall be construed in accordance with the provisions of section 70(1) of the Local Government Finance Act 1992; *(Extent: S)* *(affected by repeal, see note)*[^c-e788f07d35830ec0527b9d208d64b2f6]
   >
-  > “ *(Extent: S)* *(affected by repeal, see note)*[^key-e788f07d35830ec0527b9d208d64b2f6]**council water charge *(Extent: S)* *(affected by repeal, see note)*[^key-e788f07d35830ec0527b9d208d64b2f6]**” shall be construed in accordance with the provisions of paragraph 6 to Schedule 11 to the Local Government Finance Act 1992; *(Extent: S)* *(affected by repeal, see note)*[^key-e788f07d35830ec0527b9d208d64b2f6]
+  > “ *(Extent: S)* *(affected by repeal, see note)*[^c-e788f07d35830ec0527b9d208d64b2f6]**council water charge *(Extent: S)* *(affected by repeal, see note)*[^c-e788f07d35830ec0527b9d208d64b2f6]**” shall be construed in accordance with the provisions of paragraph 6 to Schedule 11 to the Local Government Finance Act 1992; *(Extent: S)* *(affected by repeal, see note)*[^c-e788f07d35830ec0527b9d208d64b2f6]
 
-  ; and the definitions of “community charges" and “community water charges" shall cease to have effect. *(Extent: S)* *(affected by repeal, see note)*[^key-e788f07d35830ec0527b9d208d64b2f6]
+  ; and the definitions of “community charges" and “community water charges" shall cease to have effect. *(Extent: S)* *(affected by repeal, see note)*[^c-e788f07d35830ec0527b9d208d64b2f6]
 
 ### Local Government (Miscellaneous Provisions) Act 1976 (c.57)
 
@@ -363,7 +363,7 @@ Section 117(1).
 
 ### Income and Corporation Taxes Act 1988 (c. 1)
 
-**57.**[^key-e9f14ea428a95a1aa0345d2b3aec1e8c][^c12084431] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**57.**[^c-e9f14ea428a95a1aa0345d2b3aec1e8c][^c12084431] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Education Reform Act 1988 (c. 40)
 
@@ -480,10 +480,10 @@ In section 118 of that Act (rates: power to abolish or modify), in subsection (1
 
 **78.** (1) In subsection (1) of section 140 of that Act (separate administration for England and Wales), for the words from “Parts III" to “Schedule 12A below" there shall be substituted the words “ Parts III and V ”.
 
-(2) In subsection (2) of that section, for paragraphs (d) to (g) there shall be substituted the following paragraphs— *(Extent: E+W)* *(affected by repeal, see note)*[^key-d3228c9f1f8ec2e54eb780ca351811e6]
+(2) In subsection (2) of that section, for paragraphs (d) to (g) there shall be substituted the following paragraphs— *(Extent: E+W)* *(affected by repeal, see note)*[^c-d3228c9f1f8ec2e54eb780ca351811e6]
 
-> - (d (Extent: E+W) (affected by repeal, see note))[^key-d3228c9f1f8ec2e54eb780ca351811e6] separate local government finance reports shall be made, and *(Extent: E+W)* *(affected by repeal, see note)*[^key-d3228c9f1f8ec2e54eb780ca351811e6]
-> - (e (Extent: E+W) (affected by repeal, see note))[^key-d3228c9f1f8ec2e54eb780ca351811e6] separate amending reports under section 84A above or paragraph 13 of Schedule 8 below shall be made. *(Extent: E+W)* *(affected by repeal, see note)*[^key-d3228c9f1f8ec2e54eb780ca351811e6]
+> - (d (Extent: E+W) (affected by repeal, see note))[^c-d3228c9f1f8ec2e54eb780ca351811e6] separate local government finance reports shall be made, and *(Extent: E+W)* *(affected by repeal, see note)*[^c-d3228c9f1f8ec2e54eb780ca351811e6]
+> - (e (Extent: E+W) (affected by repeal, see note))[^c-d3228c9f1f8ec2e54eb780ca351811e6] separate amending reports under section 84A above or paragraph 13 of Schedule 8 below shall be made. *(Extent: E+W)* *(affected by repeal, see note)*[^c-d3228c9f1f8ec2e54eb780ca351811e6]
 
 (3) In subsection (3) of that section, for the words from “Parts III" to “Schedule 12A below" there shall be substituted the words “ Parts III and V ”.
 
@@ -755,7 +755,7 @@ In section 118 of that Act (rates: power to abolish or modify), in subsection (1
 
 [^c12083861]: Marginal citation: [1988 c. 41](https://www.legislation.gov.uk/ukpga/1988/41).
 
-[^key-d54c1683b3165e17a4a3f2c4b4778b81]: Textual amendment: Sch. 13 para. 2 repealed (S.) (1.10.2009) by [Public Health etc. (Scotland) Act 2008 (asp 5)](https://www.legislation.gov.uk/asp/2008/5), [s. 128(2)](https://www.legislation.gov.uk/asp/2008/5/section/128/2), [sch. 3 Pt. 1](https://www.legislation.gov.uk/asp/2008/5/schedule/3/part/1) (with [s. 127](https://www.legislation.gov.uk/asp/2008/5/section/127)); [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-d54c1683b3165e17a4a3f2c4b4778b81]: Textual amendment: Sch. 13 para. 2 repealed (S.) (1.10.2009) by [Public Health etc. (Scotland) Act 2008 (asp 5)](https://www.legislation.gov.uk/asp/2008/5), [s. 128(2)](https://www.legislation.gov.uk/asp/2008/5/section/128/2), [sch. 3 Pt. 1](https://www.legislation.gov.uk/asp/2008/5/schedule/3/part/1) (with [s. 127](https://www.legislation.gov.uk/asp/2008/5/section/127)); [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
 
 [^c12083881]: Commencement: Sch. 13 para. 3 wholly in force at 1.4.1993 see s. 119(2)(d) and [S.I. 1992/2454](https://www.legislation.gov.uk/uksi/1992/2454), [art. 3(1)(a)](https://www.legislation.gov.uk/uksi/1992/2454/article/3/1/a).
 
@@ -781,7 +781,7 @@ In section 118 of that Act (rates: power to abolish or modify), in subsection (1
 
 [^c12083981]: Marginal citation: [1988 c. 41](https://www.legislation.gov.uk/ukpga/1988/41).
 
-[^key-77a23b320084bcdce36ddc44a1d9b24f]: Textual amendment: Sch. 13 para. 13 repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-77a23b320084bcdce36ddc44a1d9b24f]: Textual amendment: Sch. 13 para. 13 repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
 [^c12084001]: Commencement: Sch. 13 para. 14 wholly in force at 2.11.1992 see s. 119(2)(d) and [S.I. 1992/2454](https://www.legislation.gov.uk/uksi/1992/2454), [art. 2](https://www.legislation.gov.uk/uksi/1992/2454/article/2).
 
@@ -821,7 +821,7 @@ In section 118 of that Act (rates: power to abolish or modify), in subsection (1
 
 [^c12084241]: Commencement: Sch. 13 para. 44 wholly in force; para. 44(c) in force at Royal Assent see s. 119(2)(d); para. 44(a)(b)(d) in force at 1.4.1993 by [S.I. 1993/575](https://www.legislation.gov.uk/uksi/1993/575), [art. 2](https://www.legislation.gov.uk/uksi/1993/575/article/2)
 
-[^key-e788f07d35830ec0527b9d208d64b2f6]: Textual amendment: [Sch. 13 para. 44(a)(b)](https://www.legislation.gov.uk/ukpga/1992/14/schedule/13/paragraph/44/a/b)[(d)](https://www.legislation.gov.uk/ukpga/1992/14/schedule/13/paragraph/44/a/d) repealed (S.) (1.4.2016) by [Local Government etc. (Scotland) Act 1994 (c. 39)](https://www.legislation.gov.uk/ukpga/1994/39), [s. 184(2)](https://www.legislation.gov.uk/ukpga/1994/39/section/184/2), [Sch. 14](https://www.legislation.gov.uk/ukpga/1994/39/schedule/14); [S.S.I. 2016/31](https://www.legislation.gov.uk/ssi/2016/31), [art. 2(c)](https://www.legislation.gov.uk/ssi/2016/31/article/2/c)
+[^c-e788f07d35830ec0527b9d208d64b2f6]: Textual amendment: [Sch. 13 para. 44(a)(b)](https://www.legislation.gov.uk/ukpga/1992/14/schedule/13/paragraph/44/a/b)[(d)](https://www.legislation.gov.uk/ukpga/1992/14/schedule/13/paragraph/44/a/d) repealed (S.) (1.4.2016) by [Local Government etc. (Scotland) Act 1994 (c. 39)](https://www.legislation.gov.uk/ukpga/1994/39), [s. 184(2)](https://www.legislation.gov.uk/ukpga/1994/39/section/184/2), [Sch. 14](https://www.legislation.gov.uk/ukpga/1994/39/schedule/14); [S.S.I. 2016/31](https://www.legislation.gov.uk/ssi/2016/31), [art. 2(c)](https://www.legislation.gov.uk/ssi/2016/31/article/2/c)
 
 [^c12084251]: Marginal citation: [1980 c. 45](https://www.legislation.gov.uk/ukpga/1980/45).
 
@@ -845,7 +845,7 @@ In section 118 of that Act (rates: power to abolish or modify), in subsection (1
 
 [^c12084421]: Marginal citation: [1987 c. 47](https://www.legislation.gov.uk/ukpga/1987/47).
 
-[^key-e9f14ea428a95a1aa0345d2b3aec1e8c]: Textual amendment: Sch. 13 para. 57 repealed (1.4.2010) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-e9f14ea428a95a1aa0345d2b3aec1e8c]: Textual amendment: Sch. 13 para. 57 repealed (1.4.2010) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
 [^c12084431]: Commencement: Sch. 13 para. 57 wholly in force at 1.4.1993 see s. 119(2)(d) and [S.I. 1992/2454](https://www.legislation.gov.uk/uksi/1992/2454), [art. 3(1)(a)](https://www.legislation.gov.uk/uksi/1992/2454/article/3/1/a).
 
@@ -857,7 +857,7 @@ In section 118 of that Act (rates: power to abolish or modify), in subsection (1
 
 [^c12084501]: Marginal citation: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
 
-[^key-d3228c9f1f8ec2e54eb780ca351811e6]: Textual amendment: Sch. 13 para. 78(2) omitted (E.W.) (with effect in accordance with s. 5(3) of the amending Act) by virtue of [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [Sch. 3 para. 30](https://www.legislation.gov.uk/ukpga/2012/17/schedule/3/paragraph/30)
+[^c-d3228c9f1f8ec2e54eb780ca351811e6]: Textual amendment: Sch. 13 para. 78(2) omitted (E.W.) (with effect in accordance with s. 5(3) of the amending Act) by virtue of [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [Sch. 3 para. 30](https://www.legislation.gov.uk/ukpga/2012/17/schedule/3/paragraph/30)
 
 [^c12084511]: Marginal citation: [1991 c. 9](https://www.legislation.gov.uk/ukpga/1991/9).
 

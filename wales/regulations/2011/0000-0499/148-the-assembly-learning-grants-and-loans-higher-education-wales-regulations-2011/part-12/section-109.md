@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 109. Payment of support to eligible part-time students[^key-b537de605800a14d54234ed1239dbf70]
+## 109. Payment of support to eligible part-time students[^c-b537de605800a14d54234ed1239dbf70]
 
 *Extent: E+W*
 
@@ -24,8 +24,8 @@ summary: ''
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**110.**[^key-b537de605800a14d54234ed1239dbf70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**110.**[^c-b537de605800a14d54234ed1239dbf70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b537de605800a14d54234ed1239dbf70]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2011/148) revoked (1.9.2012) by [The Assembly Learning Grants and Loans (Higher Education) (Wales) (No. 2) Regulations 2011 (S.I. 2011/886)](https://www.legislation.gov.uk/wsi/2011/886), [reg. 3(1)](https://www.legislation.gov.uk/wsi/2011/886/regulation/3/1) (with [reg. 3(10)](https://www.legislation.gov.uk/wsi/2011/886/regulation/3/10)[(12)](https://www.legislation.gov.uk/wsi/2011/886/regulation/3/12))
+[^c-b537de605800a14d54234ed1239dbf70]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2011/148) revoked (1.9.2012) by [The Assembly Learning Grants and Loans (Higher Education) (Wales) (No. 2) Regulations 2011 (S.I. 2011/886)](https://www.legislation.gov.uk/wsi/2011/886), [reg. 3(1)](https://www.legislation.gov.uk/wsi/2011/886/regulation/3/1) (with [reg. 3(10)](https://www.legislation.gov.uk/wsi/2011/886/regulation/3/10)[(12)](https://www.legislation.gov.uk/wsi/2011/886/regulation/3/12))

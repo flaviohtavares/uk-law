@@ -51,7 +51,7 @@ An Act to abolish the defence of common employment, to amend the law relating to
 
 (3)[^c634688] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) In an action for damages for personal injuries (including any such action arising out of a contract), there shall be disregarded, in determining the reasonableness of any expenses, the possibility of avoiding those expenses or part of them by taking advantage of facilities available under the National Health Service Act 2006 or the National Health Service (Wales) Act 2006[^key-e9478ba1986cf09f4a565c22d281d9fe] or the [^c634695]National Health Service (Scotland) Act 1978[^c634694], or of any corresponding facilities in Northern Ireland.
+(4) In an action for damages for personal injuries (including any such action arising out of a contract), there shall be disregarded, in determining the reasonableness of any expenses, the possibility of avoiding those expenses or part of them by taking advantage of facilities available under the National Health Service Act 2006 or the National Health Service (Wales) Act 2006[^c-e9478ba1986cf09f4a565c22d281d9fe] or the [^c634695]National Health Service (Scotland) Act 1978[^c634694], or of any corresponding facilities in Northern Ireland.
 
 (5)[^c634696] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -87,7 +87,7 @@ This Act shall bind the Crown.
 
 [^c634690]: Textual amendment: S. 2(2) repealed by [Social Security Act 1989 (c.24)](https://www.legislation.gov.uk/ukpga/1989/24), [ss. 22](https://www.legislation.gov.uk/ukpga/1989/24/section/22), 31(2), Sch.4 para. 22(3), Sch. 9
 
-[^key-e9478ba1986cf09f4a565c22d281d9fe]: Textual amendment: Words in s. 2(4) substituted (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/11) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
+[^c-e9478ba1986cf09f4a565c22d281d9fe]: Textual amendment: Words in s. 2(4) substituted (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/11) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
 
 [^c634695]: Marginal citation: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29).
 

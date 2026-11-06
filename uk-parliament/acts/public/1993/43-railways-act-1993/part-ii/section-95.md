@@ -25,7 +25,7 @@ summary: ''
 - (a) to furnish him with such information as the relevant authority considers necessary to enable him to make the scheme; and
 - (b) to do so within such time (being not less than 28 days from the giving of the direction) as may be specified in the direction;
 
-and the persons to whom this section applies are the Office of Rail and Road[^key-5469767254bfdf98d707989f08266dd7], the Board, any wholly owned subsidiary of the Board, any publicly owned railway company, any franchise company and any company which is wholly owned by the Franchising Director.
+and the persons to whom this section applies are the Office of Rail and Road[^c-5469767254bfdf98d707989f08266dd7], the Board, any wholly owned subsidiary of the Board, any publicly owned railway company, any franchise company and any company which is wholly owned by the Franchising Director.
 
 (2) If a person fails to comply with a direction under subsection (1) above, the relevant authority may serve a notice under subsection (3) below on that person.
 
@@ -51,4 +51,4 @@ and the persons to whom this section applies are the Office of Rail and Road[^ke
 
 ## Annotations
 
-[^key-5469767254bfdf98d707989f08266dd7]: Textual amendment: Words in s. 95(1) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 1(yy)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/1/yy)
+[^c-5469767254bfdf98d707989f08266dd7]: Textual amendment: Words in s. 95(1) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 1(yy)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/1/yy)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 8. Co-operation[^key-55e928031f44e314542d10bfe6c35f03]
+## 8. Co-operation[^c-55e928031f44e314542d10bfe6c35f03]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Every employer of persons at work at a mine and every person at work at a mine s
 
 ## Annotations
 
-[^key-55e928031f44e314542d10bfe6c35f03]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2016/427/regulation/8) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-55e928031f44e314542d10bfe6c35f03]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2016/427/regulation/8) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)

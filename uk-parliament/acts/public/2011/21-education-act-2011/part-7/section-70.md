@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Securing the provision of apprenticeship training[^key-7a69ec32ea5c3609bc69f26c17f62149]
+## 70. Securing the provision of apprenticeship training[^c-7a69ec32ea5c3609bc69f26c17f62149]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7a69ec32ea5c3609bc69f26c17f62149]: Textual amendment: [S. 70](https://www.legislation.gov.uk/ukpga/2011/21/section/70) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(g)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/g), [Sch. 14 para. 65(b)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/14/paragraph/65/b)
+[^c-7a69ec32ea5c3609bc69f26c17f62149]: Textual amendment: [S. 70](https://www.legislation.gov.uk/ukpga/2011/21/section/70) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(g)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/g), [Sch. 14 para. 65(b)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/14/paragraph/65/b)

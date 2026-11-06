@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2 — SUPPORT FOR CHILDREN AND FAMILIES PROVIDED BY LOCAL AUTHORITIES IN ENGLAND[^c15177371][^c19957981][^key-c1e87781fcfcaf7da61d925a9627aedd]
+## SCHEDULE 2 — SUPPORT FOR CHILDREN AND FAMILIES PROVIDED BY LOCAL AUTHORITIES IN ENGLAND[^c15177371][^c19957981][^c-c1e87781fcfcaf7da61d925a9627aedd]
 
 *Extent: E+W+S+N.I.*
 
 Sections 17, 23 and 29.
 
-### Application to local authorities in England[^key-f71514ae6aeeac250c909ff4a17289e5]
+### Application to local authorities in England[^c-f71514ae6aeeac250c909ff4a17289e5]
 
 **A1.** (1) This Schedule applies only in relation to local authorities in England.
 
@@ -39,7 +39,7 @@ Sections 17, 23 and 29.
 (2) Every local authority shall—
 
 - (a) publish information—
-  - (i) about services provided by them under sections 17, 18, 20[^c15177421] and 23D[^key-59659d5788825933a652eefe0516c994] ; and
+  - (i) about services provided by them under sections 17, 18, 20[^c15177421] and 23D[^c-59659d5788825933a652eefe0516c994] ; and
   - (ii) where they consider it appropriate, about the provision by others (including, in particular, voluntary organisations) of services which the authority have power to provide under those sections; and
 - (b) take such steps as are reasonably practicable to ensure that those who might benefit from the services receive the information relevant to them.
 
@@ -59,7 +59,7 @@ Sections 17, 23 and 29.
 
 - (a) the [^c15177741]Chronically Sick and Disabled Persons Act 1970;
 - (b) Part IV of the Education Act 1996[^c15177751];
-- (ba)[^key-532bbc04c94a51f6714190681cb3cb38] Part 3 of the Children and Families Act 2014;
+- (ba)[^c-532bbc04c94a51f6714190681cb3cb38] Part 3 of the Children and Families Act 2014;
 - (c) the [^c15177761]Disabled Persons (Services, Consultation and Representation) Act 1986; or
 - (d) any other enactment.
 
@@ -70,11 +70,11 @@ Sections 17, 23 and 29.
 (2) Where a local authority believe that a child who is at any time within their area—
 
 - (a) is likely to suffer harm; but
-- (b) lives or proposes to live in the area of another local authority or in the area of a local authority in Wales[^key-ed7949b7383fb58ed0d52df561d99396]
+- (b) lives or proposes to live in the area of another local authority or in the area of a local authority in Wales[^c-ed7949b7383fb58ed0d52df561d99396]
 
-they shall inform that other local authority or the local authority in Wales, as the case may be[^key-6e777e0e8d3abb4a306112b982165a70].
+they shall inform that other local authority or the local authority in Wales, as the case may be[^c-6e777e0e8d3abb4a306112b982165a70].
 
-(3) When informing that other local authority or the local authority in Wales[^key-0ab8294e23944a6e575efd87d926c3ab] they shall specify—
+(3) When informing that other local authority or the local authority in Wales[^c-0ab8294e23944a6e575efd87d926c3ab] they shall specify—
 
 - (a) the harm that they believe he is likely to suffer; and
 - (b) (if they can) where the child lives or proposes to live.
@@ -100,7 +100,7 @@ the authority may assist that other person to obtain alternative accommodation.
 - (b) to give such children the opportunity to lead lives which are as normal as possible ; and[^c19958781]
 - (c) to assist individuals who provide care for such children to continue to do so, or to do so more effectively, by giving them breaks from caring.
 
-(2)[^c19958801] The duty imposed by sub-paragraph (1)(c) shall be performed in accordance with regulations made by the Secretary of State[^key-7ec83e46cd19ce5639e590198db2f8f1].
+(2)[^c19958801] The duty imposed by sub-paragraph (1)(c) shall be performed in accordance with regulations made by the Secretary of State[^c-7ec83e46cd19ce5639e590198db2f8f1].
 
 #### Provision to reduce need for care proceedings etc.
 
@@ -112,7 +112,7 @@ the authority may assist that other person to obtain alternative accommodation.
   - (iii) any family or other proceedings with respect to such children which might lead to them being placed in the authority’s care; or
   - (iv) proceedings under the inherent jurisdiction of the High Court with respect to children;
 - (b) to encourage children within their area not to commit criminal offences; and
-- (c) to avoid the need for children within their area to be placed in secure accommodation within the meaning given in section 25 and in section 119 of the Social Services and Well-being (Wales) Act 2014[^key-fb8a47abaad7eb516a436f84e7f86251].
+- (c) to avoid the need for children within their area to be placed in secure accommodation within the meaning given in section 25 and in section 119 of the Social Services and Well-being (Wales) Act 2014[^c-fb8a47abaad7eb516a436f84e7f86251].
 
 #### Provision for children living with their families
 
@@ -128,7 +128,7 @@ the authority may assist that other person to obtain alternative accommodation.
 
 **8A.** (1) Every local authority shall make provision for such services as they consider appropriate to be available with respect to accommodated children.
 
-(2) “Accommodated children” are those children in respect of whose accommodation the local authority have been notified under section 85 or 86 or under section 120 of the Social Services and Well-being (Wales) Act 2014 (assessment of children accommodated by health authorities and education authorities)[^key-c5901e09a8a4a50777e7d106754a9b37].
+(2) “Accommodated children” are those children in respect of whose accommodation the local authority have been notified under section 85 or 86 or under section 120 of the Social Services and Well-being (Wales) Act 2014 (assessment of children accommodated by health authorities and education authorities)[^c-c5901e09a8a4a50777e7d106754a9b37].
 
 (3) The services shall be provided with a view to promoting contact between each accommodated child and that child's family.
 
@@ -175,7 +175,7 @@ if, in their opinion, it is necessary to do so in order to safeguard or promote 
 
 have regard to the different racial groups to which children within their area who are in need belong.
 
-### Part II — Children Looked After By Local Authorities in England[^key-033944afc98c633f7815b138d023755b]
+### Part II — Children Looked After By Local Authorities in England[^c-033944afc98c633f7815b138d023755b]
 
 *Extent: E+W*
 
@@ -246,11 +246,11 @@ have regard to the different racial groups to which children within their area w
 
 #### Avoidance of disruption in education
 
-**12D.** (1) Regulations under section 22C may, in particular, impose requirements which a local authority must comply with before making any decision concerning a child's placement if he is in the fourth key stage or within sub-paragraph (3)[^key-9b42638f77fa3fc4057559e7e060f0b3].
+**12D.** (1) Regulations under section 22C may, in particular, impose requirements which a local authority must comply with before making any decision concerning a child's placement if he is in the fourth key stage or within sub-paragraph (3)[^c-9b42638f77fa3fc4057559e7e060f0b3].
 
-(2) A child is “in the fourth key stage” if he is a pupil in the fourth key stage for the purposes of Part 6 [^key-9202980ebfce57b5c25f38bbe819cd29]... of the Education 2002 (see section 82 [^key-0b777a4ea56b822287bd556b2d051003]... of that Act).
+(2) A child is “in the fourth key stage” if he is a pupil in the fourth key stage for the purposes of Part 6 [^c-9202980ebfce57b5c25f38bbe819cd29]... of the Education 2002 (see section 82 [^c-0b777a4ea56b822287bd556b2d051003]... of that Act).
 
-(3)[^key-5961fc3c62524cea744863c4b897b253] A child is within this sub-paragraph if the child—
+(3)[^c-5961fc3c62524cea744863c4b897b253] A child is within this sub-paragraph if the child—
 
 - (a) is a pupil at a maintained school maintained by a local authority in Wales,
 - (b) has completed the school year in which the majority of pupils in the child’s class attained the age of 14, and
@@ -278,8 +278,8 @@ have regard to the different racial groups to which children within their area w
 
 **12F.** (1) Regulations under section 22C may, in particular, also make provision—
 
-- (a) for securing that a child is not placed with a local authority foster parent unless that person is for the time being approved as a local authority foster parent by such local authority as may be prescribed in regulations made by the Secretary of State[^key-a4ff079747e347efa0e537ccd1ef6f6d];
-- (b) establishing a procedure under which any person in respect of whom a qualifying determination has been made may apply to the Secretary of State[^key-e0e533fb9dae6828f1805f2d1b76aa7d] for a review of that determination by a panel constituted by the Secretary of State[^key-9ee19e9a42c40e9490ba2f17a7e41f8d].
+- (a) for securing that a child is not placed with a local authority foster parent unless that person is for the time being approved as a local authority foster parent by such local authority as may be prescribed in regulations made by the Secretary of State[^c-a4ff079747e347efa0e537ccd1ef6f6d];
+- (b) establishing a procedure under which any person in respect of whom a qualifying determination has been made may apply to the Secretary of State[^c-e0e533fb9dae6828f1805f2d1b76aa7d] for a review of that determination by a panel constituted by the Secretary of State[^c-9ee19e9a42c40e9490ba2f17a7e41f8d].
 
 (2) A determination is a qualifying determination if—
 
@@ -295,25 +295,25 @@ have regard to the different racial groups to which children within their area w
 - (e) the duties of any person in connection with a review conducted under the regulations;
 - (f) the monitoring of any such reviews.
 
-(4) Regulations made by virtue of sub-paragraph (3)(e) may impose a duty to pay to the Secretary of State[^key-65a309b439a3ba4d9dc6a19787c6a169] such sum as that national authority may determine; but such a duty may not be imposed upon a person who has applied for a review of a qualifying determination.
+(4) Regulations made by virtue of sub-paragraph (3)(e) may impose a duty to pay to the Secretary of State[^c-65a309b439a3ba4d9dc6a19787c6a169] such sum as that national authority may determine; but such a duty may not be imposed upon a person who has applied for a review of a qualifying determination.
 
-(5) The Secretary of State[^key-4d9e4e8beafef77ee1709764b815fa4e] must secure that, taking one financial year with another, the aggregate of the sums which become payable to it under regulations made by virtue of sub-paragraph (4) does not exceed the cost to it of performing its independent review functions.
+(5) The Secretary of State[^c-4d9e4e8beafef77ee1709764b815fa4e] must secure that, taking one financial year with another, the aggregate of the sums which become payable to it under regulations made by virtue of sub-paragraph (4) does not exceed the cost to it of performing its independent review functions.
 
-(6) The Secretary of State[^key-4aecffd2a94c3197c1918d4efd28ff3e] may make an arrangement with an organisation under which independent review functions are performed by the organisation on the national authority's behalf.
+(6) The Secretary of State[^c-4aecffd2a94c3197c1918d4efd28ff3e] may make an arrangement with an organisation under which independent review functions are performed by the organisation on the national authority's behalf.
 
-(7) If the Secretary of State[^key-4db2790c3aef15ddd37688910c88dbcc] makes such an arrangement with an organisation, the organisation is to perform its functions under the arrangement in accordance with any general or special directions given by that national authority.
+(7) If the Secretary of State[^c-4db2790c3aef15ddd37688910c88dbcc] makes such an arrangement with an organisation, the organisation is to perform its functions under the arrangement in accordance with any general or special directions given by that national authority.
 
-(8) The arrangement may include provision for payments to be made to the organisation by the Secretary of State[^key-db74816758e36f0f835ae1aea45d05eb].
+(8) The arrangement may include provision for payments to be made to the organisation by the Secretary of State[^c-db74816758e36f0f835ae1aea45d05eb].
 
-(9) Payments made by the Secretary of State[^key-623c7b725d6fe3b5f6e75113801455c6] in accordance with such provision shall be taken into account in determining (for the purpose of sub-paragraph (5)) the cost to that national authority of performing its independent review functions.
+(9) Payments made by the Secretary of State[^c-623c7b725d6fe3b5f6e75113801455c6] in accordance with such provision shall be taken into account in determining (for the purpose of sub-paragraph (5)) the cost to that national authority of performing its independent review functions.
 
-(10)[^key-ac3acfa7a9b0c4fa9d713943bed1dd1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-ac3acfa7a9b0c4fa9d713943bed1dd1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (11) In this paragraph—
 
 - “ **financial year** ” means a period of twelve months ending with 31st March;
 - “ **independent review function** ” means a function conferred or imposed on a national authority by regulations made by virtue of sub-paragraph (1)(b);
-- “ **organisation** ” includes the Welsh Ministers,[^key-40065f256b6ded0abff2794975314e9e] a public body and a private or voluntary organisation.
+- “ **organisation** ” includes the Welsh Ministers,[^c-40065f256b6ded0abff2794975314e9e] a public body and a private or voluntary organisation.
 
 **12G.** Regulations under section 22C may, in particular, also make provision as to the circumstances in which local authorities may make arrangements for duties imposed on them by the regulations to be discharged on their behalf.
 
@@ -334,7 +334,7 @@ have regard to the different racial groups to which children within their area w
   are kept informed of where he is being accommodated; and
 - (b) every such person shall secure that the authority are kept informed of his or her address.
 
-(3) Where a local authority (“the receiving authority") take over the provision of accommodation for a child from another local authority or a local authority in Wales[^key-b7b9d4e8f00adcfeb72bea0500b464fd] (“the transferring authority") under section 20(2)—
+(3) Where a local authority (“the receiving authority") take over the provision of accommodation for a child from another local authority or a local authority in Wales[^c-b7b9d4e8f00adcfeb72bea0500b464fd] (“the transferring authority") under section 20(2)—
 
 - (a) the receiving authority shall (where reasonably practicable) inform—
   - (i) the child’s parents; and
@@ -378,7 +378,7 @@ have regard to the different racial groups to which children within their area w
 
 #### Appointment of visitor for child who is not being visited
 
-**17.**[^key-93ed8e39b0ffa69c9e80b93d356b8ebb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-93ed8e39b0ffa69c9e80b93d356b8ebb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Power to guarantee apprenticeship deeds etc.
 
@@ -416,7 +416,7 @@ have regard to the different racial groups to which children within their area w
 - (a) where an appeal is made against the decision, the period between the making of the decision and the determination of the appeal; and
 - (b) otherwise, the period during which an appeal may be made against the decision.
 
-(9)[^c15178031] This paragraph does not apply —[^key-a7f3d9a76ef6e9e90c7cc25365061416]
+(9)[^c15178031] This paragraph does not apply —[^c-a7f3d9a76ef6e9e90c7cc25365061416]
 
 - (a) to a local authority placing a child in secure accommodation in Scotland under section 25, or
 - (b) to a local authority placing a child for adoption with prospective adopters.
@@ -430,9 +430,9 @@ have regard to the different racial groups to which children within their area w
 (2)[^c15178071] In sub-paragraph (1) “ **eligible child** ” means, subject to sub-paragraph (3), a child who—
 
 - (a) is aged sixteen or seventeen; and
-- (b) has been looked after by a local authority or by a local authority in Wales[^key-39a96a8365170a637ea86c436ec3853c] for a prescribed period, or periods amounting in all to a prescribed period, which began after he reached a prescribed age and ended after he reached the age of sixteen.
+- (b) has been looked after by a local authority or by a local authority in Wales[^c-39a96a8365170a637ea86c436ec3853c] for a prescribed period, or periods amounting in all to a prescribed period, which began after he reached a prescribed age and ended after he reached the age of sixteen.
 
-(3) The Secretary of State[^key-64075c43fd88aa3ae9e905981435302d] may prescribe—
+(3) The Secretary of State[^c-64075c43fd88aa3ae9e905981435302d] may prescribe—
 
 - (a) additional categories of eligible children; and
 - (b) categories of children who are not to be eligible children despite falling within sub-paragraph (2).
@@ -448,13 +448,13 @@ and shall then prepare a pathway plan for him.
 
 (6) Any such review may be carried out at the same time as a review of the child’s case carried out by virtue of section 26.
 
-(7) The Secretary of State[^key-70ca398bd04cb257dae75c016f63c4bc] may by regulations make provision as to assessments for the purposes of sub-paragraph (4).
+(7) The Secretary of State[^c-70ca398bd04cb257dae75c016f63c4bc] may by regulations make provision as to assessments for the purposes of sub-paragraph (4).
 
 (8) The regulations may in particular provide for the matters set out in section 23B(6).
 
-#### Preparation for ceasing to be looked after: staying put arrangements[^key-d97dd125fc304f1230f2e4514e478aa7]
+#### Preparation for ceasing to be looked after: staying put arrangements[^c-d97dd125fc304f1230f2e4514e478aa7]
 
-**19BA.** (1) This paragraph applies in relation to an eligible child (within the meaning of paragraph 19B) who has been placed by a local authority [^key-37b54f734eaa7f9e6e356e67c33cdb50]... with a local authority foster parent.
+**19BA.** (1) This paragraph applies in relation to an eligible child (within the meaning of paragraph 19B) who has been placed by a local authority [^c-37b54f734eaa7f9e6e356e67c33cdb50]... with a local authority foster parent.
 
 (2) When carrying out the assessment of the child's needs in accordance with paragraph 19B(4), the local authority must determine whether it would be appropriate to provide advice, assistance and support under this Act in order to facilitate a staying put arrangement, and with a view to maintaining such an arrangement, after the local authority cease to look after him or her.
 
@@ -471,7 +471,7 @@ and shall then prepare a pathway plan for him.
 
 **20.**[^c15178091] (1) If a child who is being looked after by a local authority dies, the authority—
 
-- (a)[^key-3d7034ceb2f1844a81e16617bce4b834] shall notify the Secretary of State and Her Majesty’s Chief Inspector of Education, Children’s Services and Skills;
+- (a)[^c-3d7034ceb2f1844a81e16617bce4b834] shall notify the Secretary of State and Her Majesty’s Chief Inspector of Education, Children’s Services and Skills;
 - (b) shall, so far as is reasonably practicable, notify the child’s parents and every person who is not a parent of his but who has parental responsibility for him;
 - (c) may, with the consent (so far as it is reasonably practicable to obtain it) of every person who has parental responsibility for the child, arrange for the child’s body to be buried or cremated; and
 - (d) may, if the conditions mentioned in sub-paragraph (2) are satisfied, make payments to any person who has parental responsibility for the child, or any relative, friend or other person connected with the child, in respect of travelling, subsistence or other expenses incurred by that person in attending the child’s funeral.
@@ -489,13 +489,13 @@ and shall then prepare a pathway plan for him.
 
 (6) Nothing in this paragraph affects any enactment regulating or authorising the burial, cremation or anatomical examination of the body of a deceased person.
 
-### Part III — Contributions Towards Maintenance of Children Looked After by Local Authorities in England[^c15178101][^key-30917f9ee7bb527f0da7aaf0096c80f5]
+### Part III — Contributions Towards Maintenance of Children Looked After by Local Authorities in England[^c15178101][^c-30917f9ee7bb527f0da7aaf0096c80f5]
 
 #### Liability to contribute
 
 *Extent: E+W*
 
-**21.**[^c15178421][^c15178431][^c18921531][^key-9f70dc1706531e7ef379b5d080627900] (1) Where a local authority are looking after a child (other than in the cases mentioned in sub-paragraph (7)) they shall consider whether they should recover contributions towards the child’s maintenance from any person liable to contribute (“a contributor").
+**21.**[^c15178421][^c15178431][^c18921531][^c-9f70dc1706531e7ef379b5d080627900] (1) Where a local authority are looking after a child (other than in the cases mentioned in sub-paragraph (7)) they shall consider whether they should recover contributions towards the child’s maintenance from any person liable to contribute (“a contributor").
 
 (2) An authority may only recover contributions from a contributor if they consider it reasonable to do so.
 
@@ -504,9 +504,9 @@ and shall then prepare a pathway plan for him.
 - (a) where the child is under sixteen, each of his parents;
 - (b) where he has reached the age of sixteen, the child himself.
 
-(4) A parent is not liable to contribute during any period when he is in receipt of universal credit (except in such circumstances as may be prescribed),[^key-e1eb1cebb844f5b8d9678b9b5443b3e1] of income support under[^c15178441] Part VII of the Social Security Contributions and Benefits Act 1992,[^c15178451] of any element of child tax credit other than the family element, of working tax credit[^c15178461], of an income-based jobseeker's allowance or of an income-related employment and support allowance[^c19737211][^c15178471].
+(4) A parent is not liable to contribute during any period when he is in receipt of universal credit (except in such circumstances as may be prescribed),[^c-e1eb1cebb844f5b8d9678b9b5443b3e1] of income support under[^c15178441] Part VII of the Social Security Contributions and Benefits Act 1992,[^c15178451] of any element of child tax credit other than the family element, of working tax credit[^c15178461], of an income-based jobseeker's allowance or of an income-related employment and support allowance[^c19737211][^c15178471].
 
-(5) A person is not liable to contribute towards the maintenance of a child in the care of a local authority in respect of any period during which the child is [^key-acc7e796a7675b588f63a84623ad56f2]living with, under arrangements made by the authority in accordance with section 22C, a parent of his.
+(5) A person is not liable to contribute towards the maintenance of a child in the care of a local authority in respect of any period during which the child is [^c-acc7e796a7675b588f63a84623ad56f2]living with, under arrangements made by the authority in accordance with section 22C, a parent of his.
 
 (6) A contributor is not obliged to make any contribution towards a child’s maintenance except as agreed or determined in accordance with this Part of this Schedule.
 
@@ -514,7 +514,7 @@ and shall then prepare a pathway plan for him.
 
 - (a) section 21;
 - (b) an interim care order;
-- (c) section 92 of the Powers of Criminal Courts (Sentencing) Act 2000[^c15178481] or section 260 of the Sentencing Code[^key-ef250cbec8c8cc107ced3d3245eb101e].
+- (c) section 92 of the Powers of Criminal Courts (Sentencing) Act 2000[^c15178481] or section 260 of the Sentencing Code[^c-ef250cbec8c8cc107ced3d3245eb101e].
 
 #### Agreed contributions
 
@@ -608,7 +608,7 @@ the effect of the agreement shall be to discharge the order from the date on whi
 
 #### Enforcement of contribution orders etc.
 
-**24.**[^c15178551] (1)[^key-a7255d13e5b7f4cccc2a3e428e03d132] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c15178551] (1)[^c-a7255d13e5b7f4cccc2a3e428e03d132] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Where a contributor has agreed, or has been ordered, to make contributions to a local authority, any other local authority within whose area the contributor is for the time being living may—
 
@@ -621,9 +621,9 @@ collect from the contributor any contributions due on behalf of the authority wh
 
 *Extent: E+W*
 
-- (aa)[^key-2be2d515fe26867e9f5c2dccde019887] a local authority in Wales;
+- (aa)[^c-2be2d515fe26867e9f5c2dccde019887] a local authority in Wales;
 - (a) a local authority within the meaning of section 1(2) of the [^c15178571]Social Work (Scotland) Act 1968; and
-- (b)[^key-ae6d5202e8ca69c53f976db3176eb998] a Health and Social Care trust established under Article 10 of the Health and Personal Social Services (Northern Ireland) Order 1991 ([S.I. 1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194)).
+- (b)[^c-ae6d5202e8ca69c53f976db3176eb998] a Health and Social Care trust established under Article 10 of the Health and Personal Social Services (Northern Ireland) Order 1991 ([S.I. 1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194)).
 
 (4) The power to collect sums under sub-paragraph (2) includes the power to—
 
@@ -652,14 +652,14 @@ shall be evidence that the sum is overdue and unpaid.
 
 *Extent: E+W*
 
-**25.**[^c15178601] The Secretary of State[^key-7025720eab32915649b1a83810a37138] may make regulations—
+**25.**[^c15178601] The Secretary of State[^c-7025720eab32915649b1a83810a37138] may make regulations—
 
 - (a) as to the considerations which a local authority must take into account in deciding—
   - (i) whether it is reasonable to recover contributions; and
   - (ii) what the arrangements for payment should be;
-- (b) as to the procedures they[^key-4d849b0d26c42160b6d84fe7e613eec3] must follow in reaching agreements with—
+- (b) as to the procedures they[^c-4d849b0d26c42160b6d84fe7e613eec3] must follow in reaching agreements with—
   - (i) contributors (under paragraphs 22 and 23); and
-  - (ii)[^key-58183c108b5b7acab7bdded4364abc4b] any other local authority under paragraph 24(2).
+  - (ii)[^c-58183c108b5b7acab7bdded4364abc4b] any other local authority under paragraph 24(2).
 
 ## Annotations
 
@@ -667,9 +667,9 @@ shall be evidence that the sum is overdue and unpaid.
 
 [^c19957981]: Modification: Sch. 2 modified (temp.) (12.2.2009 for E. and 31.3.2010 for W.) by [Children and Young Persons Act 2008 (c. 23)](https://www.legislation.gov.uk/ukpga/2008/23), [ss. 8(3)](https://www.legislation.gov.uk/ukpga/2008/23/section/8/3), [44](https://www.legislation.gov.uk/ukpga/2008/23/section/44), [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2008/23/schedule/2/paragraph/2); [S.I. 2009/268](https://www.legislation.gov.uk/uksi/2009/268), [art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2009/268/article/3/1/b); [S.I. 2010/749](https://www.legislation.gov.uk/uksi/2010/749), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/749/article/2/a)
 
-[^key-c1e87781fcfcaf7da61d925a9627aedd]: Textual amendment: Sch. 2 heading substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [121](https://www.legislation.gov.uk/wsi/2016/413/regulation/121)
+[^c-c1e87781fcfcaf7da61d925a9627aedd]: Textual amendment: Sch. 2 heading substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [121](https://www.legislation.gov.uk/wsi/2016/413/regulation/121)
 
-[^key-f71514ae6aeeac250c909ff4a17289e5]: Textual amendment: Sch. 2 para. A1 and cross-heading inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [107](https://www.legislation.gov.uk/wsi/2016/413/regulation/107)
+[^c-f71514ae6aeeac250c909ff4a17289e5]: Textual amendment: Sch. 2 para. A1 and cross-heading inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [107](https://www.legislation.gov.uk/wsi/2016/413/regulation/107)
 
 [^c15177391]: Commencement: Sch. 2 Part I wholly in force at 14.10.1991 see s. 108(2)(3) and [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2)
 
@@ -677,7 +677,7 @@ shall be evidence that the sum is overdue and unpaid.
 
 [^c15177421]: Textual amendment: Words in Sch. 2 Pt. I para. 1(2)(a)(i) substituted (1.10.2001) by [2000 c. 35](https://www.legislation.gov.uk/ukpga/2000/35), [s. 7(4)](https://www.legislation.gov.uk/ukpga/2000/35/section/7/4); [S.I. 2001/2191](https://www.legislation.gov.uk/uksi/2001/2191), [art. 2](https://www.legislation.gov.uk/uksi/2001/2191/article/2); [S.I. 2001/2878](https://www.legislation.gov.uk/uksi/2001/2878), [art. 2](https://www.legislation.gov.uk/uksi/2001/2878/article/2)
 
-[^key-59659d5788825933a652eefe0516c994]: Textual amendment: Words in [Sch. 2 para. 1(2)(a)(i)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/2/paragraph/1/2/a/i) substituted (1.4.2018) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2), [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2017/16/schedule/2/paragraph/2); [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 4(aa)](https://www.legislation.gov.uk/uksi/2018/346/regulation/4/aa)
+[^c-59659d5788825933a652eefe0516c994]: Textual amendment: Words in [Sch. 2 para. 1(2)(a)(i)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/2/paragraph/1/2/a/i) substituted (1.4.2018) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2), [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2017/16/schedule/2/paragraph/2); [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 4(aa)](https://www.legislation.gov.uk/uksi/2018/346/regulation/4/aa)
 
 [^c15177431]: Textual amendment: Sch. 2 para. 1A and cross heading inserted (1.4.1996) by [S.I. 1996/785](https://www.legislation.gov.uk/uksi/1996/785), [art. 2](https://www.legislation.gov.uk/uksi/1996/785/article/2)
 
@@ -691,17 +691,17 @@ shall be evidence that the sum is overdue and unpaid.
 
 [^c15177751]: Textual amendment: Words in Sch. 2 para. 3(b) substituted (1.11.1996) by [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56), [ss. 1(4)](https://www.legislation.gov.uk/ukpga/1996/56/section/1/4), [582(1)](https://www.legislation.gov.uk/ukpga/1996/56/section/582/1), [583(2)](https://www.legislation.gov.uk/ukpga/1996/56/section/583/2), [Sch. 37](https://www.legislation.gov.uk/ukpga/1996/56/schedule/37), [para. 92](https://www.legislation.gov.uk/ukpga/1996/56/paragraph/92)
 
-[^key-532bbc04c94a51f6714190681cb3cb38]: Textual amendment: Sch. 2 para. 3(ba) inserted (1.9.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 3 para. 65(3)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/3/paragraph/65/3); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a)
+[^c-532bbc04c94a51f6714190681cb3cb38]: Textual amendment: Sch. 2 para. 3(ba) inserted (1.9.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 3 para. 65(3)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/3/paragraph/65/3); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a)
 
 [^c15177761]: Marginal citation: [1986 c. 33](https://www.legislation.gov.uk/ukpga/1986/33).
 
 [^c15177771]: Commencement: Sch. 2 Pt. I para. 4 wholly in force at 14.10.1991 see s. 108(2)(3) and [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2)
 
-[^key-ed7949b7383fb58ed0d52df561d99396]: Textual amendment: Words in [Sch. 2 para. 4(2)(b)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/2/paragraph/4/2/b) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [108(a)](https://www.legislation.gov.uk/wsi/2016/413/regulation/108/a)
+[^c-ed7949b7383fb58ed0d52df561d99396]: Textual amendment: Words in [Sch. 2 para. 4(2)(b)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/2/paragraph/4/2/b) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [108(a)](https://www.legislation.gov.uk/wsi/2016/413/regulation/108/a)
 
-[^key-6e777e0e8d3abb4a306112b982165a70]: Textual amendment: Words in [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/2/paragraph/4/2) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [108(b)](https://www.legislation.gov.uk/wsi/2016/413/regulation/108/b)
+[^c-6e777e0e8d3abb4a306112b982165a70]: Textual amendment: Words in [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/2/paragraph/4/2) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [108(b)](https://www.legislation.gov.uk/wsi/2016/413/regulation/108/b)
 
-[^key-0ab8294e23944a6e575efd87d926c3ab]: Textual amendment: Words in [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/2/paragraph/4/3) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [108(c)](https://www.legislation.gov.uk/wsi/2016/413/regulation/108/c)
+[^c-0ab8294e23944a6e575efd87d926c3ab]: Textual amendment: Words in [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/2/paragraph/4/3) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [108(c)](https://www.legislation.gov.uk/wsi/2016/413/regulation/108/c)
 
 [^c15177781]: Commencement: Sch. 2 Pt. I para. 5 wholly in force at 14.10.1991 see s. 108(2)(3) and [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2)
 
@@ -715,17 +715,17 @@ shall be evidence that the sum is overdue and unpaid.
 
 [^c19958801]: Textual amendment: Sch. 2 para. 6(2) inserted (1.9.2009 for E. for specified purposes, 26.4.2010 for W. for specified purposes, 1.4.2011 for E. in so far as not already in force, 19.6.2012 for W. in so far as not already in force) by [Children and Young Persons Act 2008 (c. 23)](https://www.legislation.gov.uk/ukpga/2008/23), [ss. 25(4)](https://www.legislation.gov.uk/ukpga/2008/23/section/25/4), [44(4)](https://www.legislation.gov.uk/ukpga/2008/23/section/44/4); [S.I. 2009/2273](https://www.legislation.gov.uk/uksi/2009/2273), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2009/2273/article/2/2/h); [S.I. 2010/1329](https://www.legislation.gov.uk/uksi/2010/1329), [art. 2(j)](https://www.legislation.gov.uk/uksi/2010/1329/article/2/j); [S.I. 2010/2981](https://www.legislation.gov.uk/uksi/2010/2981), [art. 4(j)](https://www.legislation.gov.uk/uksi/2010/2981/article/4/j); [S.I. 2012/1553](https://www.legislation.gov.uk/wsi/2012/1553), [art. 2(d)](https://www.legislation.gov.uk/wsi/2012/1553/article/2/d)
 
-[^key-7ec83e46cd19ce5639e590198db2f8f1]: Textual amendment: Words in [Sch. 2 para. 6(2)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/2/paragraph/6/2) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [109](https://www.legislation.gov.uk/wsi/2016/413/regulation/109)
+[^c-7ec83e46cd19ce5639e590198db2f8f1]: Textual amendment: Words in [Sch. 2 para. 6(2)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/2/paragraph/6/2) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [109](https://www.legislation.gov.uk/wsi/2016/413/regulation/109)
 
 [^c15177801]: Commencement: Sch. 2 Pt. I para. 7 wholly in force at 14.10.1991 see s. 108(2)(3) and [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2)
 
-[^key-fb8a47abaad7eb516a436f84e7f86251]: Textual amendment: Words in [Sch. 2 para. 7(c)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/2/paragraph/7/c) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [110](https://www.legislation.gov.uk/wsi/2016/413/regulation/110)
+[^c-fb8a47abaad7eb516a436f84e7f86251]: Textual amendment: Words in [Sch. 2 para. 7(c)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/2/paragraph/7/c) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [110](https://www.legislation.gov.uk/wsi/2016/413/regulation/110)
 
 [^c15177811]: Commencement: Sch. 2 Pt. I para. 8 wholly in force at 14.10.1991 see s. 108(2)(3) and [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2)
 
 [^c19958831]: Textual amendment: Sch. 2 para. 8A and cross-heading inserted (28.3.2011 for W., 1.4.2011 for E.) by [Children and Young Persons Act 2008 (c. 23)](https://www.legislation.gov.uk/ukpga/2008/23), [ss. 19](https://www.legislation.gov.uk/ukpga/2008/23/section/19), [44](https://www.legislation.gov.uk/ukpga/2008/23/section/44); [S.I. 2010/2981](https://www.legislation.gov.uk/uksi/2010/2981), [art. 4(f)](https://www.legislation.gov.uk/uksi/2010/2981/article/4/f); [S.I. 2011/949](https://www.legislation.gov.uk/uksi/2011/949), [art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2011/949/article/3/1/b)
 
-[^key-c5901e09a8a4a50777e7d106754a9b37]: Textual amendment: Words in [Sch. 2 para. 8A(2)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/2/paragraph/8A/2) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [111](https://www.legislation.gov.uk/wsi/2016/413/regulation/111)
+[^c-c5901e09a8a4a50777e7d106754a9b37]: Textual amendment: Words in [Sch. 2 para. 8A(2)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/2/paragraph/8A/2) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [111](https://www.legislation.gov.uk/wsi/2016/413/regulation/111)
 
 [^c15177821]: Commencement: Sch. 2 Pt. I para. 9 wholly in force at 14.10.1991 see s. 108(2)(3) and [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2)
 
@@ -733,7 +733,7 @@ shall be evidence that the sum is overdue and unpaid.
 
 [^c15177841]: Commencement: Sch. 2 Pt. I para. 11 wholly in force at 14.10.1991 see s. 108(2)(3) and [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2)
 
-[^key-033944afc98c633f7815b138d023755b]: Textual amendment: Words in Sch. 2 Pt. 2 inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [112](https://www.legislation.gov.uk/wsi/2016/413/regulation/112)
+[^c-033944afc98c633f7815b138d023755b]: Textual amendment: Words in Sch. 2 Pt. 2 inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [112](https://www.legislation.gov.uk/wsi/2016/413/regulation/112)
 
 [^c15177851]: Commencement: Sch. 2 Pt. II para. 12 wholly in force at 14.10.1991 see s. 108(2)(3) and [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2)
 
@@ -753,35 +753,35 @@ shall be evidence that the sum is overdue and unpaid.
 
 [^c20122151]: Textual amendment: Sch. 2 paras. 12A-12G substituted for Sch. 2 paras. 12-14 (1.9.2009 for E., 26.4.2010 for W.) by [Children and Young Persons Act 2008 (c. 23)](https://www.legislation.gov.uk/ukpga/2008/23), [ss. 8(2)](https://www.legislation.gov.uk/ukpga/2008/23/section/8/2), [44](https://www.legislation.gov.uk/ukpga/2008/23/section/44), [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2008/23/schedule/1/paragraph/4); [S.I. 2009/2273](https://www.legislation.gov.uk/uksi/2009/2273), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2009/2273/article/2/2/b), [S.I](https://www.legislation.gov.uk/uksi/2009/2273/section/I). 2010/1329, art. 2(b)
 
-[^key-9b42638f77fa3fc4057559e7e060f0b3]: Textual amendment: Words in Sch. 2 para. 12D(1) inserted (1.9.2022 for specified purposes, 1.9.2023 for specified purposes, 1.9.2024 for specified purposes, 1.9.2025 for specified purposes, 1.9.2026 for specified purposes) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Primary Legislation) Regulations 2022 (S.I. 2022/744)](https://www.legislation.gov.uk/wsi/2022/744), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3), [Sch. 2 para. 1(3)(a)](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/1/3/a)
+[^c-9b42638f77fa3fc4057559e7e060f0b3]: Textual amendment: Words in Sch. 2 para. 12D(1) inserted (1.9.2022 for specified purposes, 1.9.2023 for specified purposes, 1.9.2024 for specified purposes, 1.9.2025 for specified purposes, 1.9.2026 for specified purposes) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Primary Legislation) Regulations 2022 (S.I. 2022/744)](https://www.legislation.gov.uk/wsi/2022/744), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3), [Sch. 2 para. 1(3)(a)](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/1/3/a)
 
-[^key-9202980ebfce57b5c25f38bbe819cd29]: Textual amendment: Words in Sch. 2 para. 12D(2) omitted (1.9.2022 for specified purposes, 1.9.2023 for specified purposes, 1.9.2024 for specified purposes, 1.9.2025 for specified purposes, 1.9.2026 for specified purposes) by virtue of [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Primary Legislation) Regulations 2022 (S.I. 2022/744)](https://www.legislation.gov.uk/wsi/2022/744), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3), [Sch. 2 para. 1(3)(b)(i)](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/1/3/b/i)
+[^c-9202980ebfce57b5c25f38bbe819cd29]: Textual amendment: Words in Sch. 2 para. 12D(2) omitted (1.9.2022 for specified purposes, 1.9.2023 for specified purposes, 1.9.2024 for specified purposes, 1.9.2025 for specified purposes, 1.9.2026 for specified purposes) by virtue of [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Primary Legislation) Regulations 2022 (S.I. 2022/744)](https://www.legislation.gov.uk/wsi/2022/744), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3), [Sch. 2 para. 1(3)(b)(i)](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/1/3/b/i)
 
-[^key-0b777a4ea56b822287bd556b2d051003]: Textual amendment: Words in Sch. 2 para. 12D(2) omitted (1.9.2022 for specified purposes, 1.9.2023 for specified purposes, 1.9.2024 for specified purposes, 1.9.2025 for specified purposes, 1.9.2026 for specified purposes) by virtue of [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Primary Legislation) Regulations 2022 (S.I. 2022/744)](https://www.legislation.gov.uk/wsi/2022/744), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3), [Sch. 2 para. 1(3)(b)(ii)](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/1/3/b/ii)
+[^c-0b777a4ea56b822287bd556b2d051003]: Textual amendment: Words in Sch. 2 para. 12D(2) omitted (1.9.2022 for specified purposes, 1.9.2023 for specified purposes, 1.9.2024 for specified purposes, 1.9.2025 for specified purposes, 1.9.2026 for specified purposes) by virtue of [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Primary Legislation) Regulations 2022 (S.I. 2022/744)](https://www.legislation.gov.uk/wsi/2022/744), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3), [Sch. 2 para. 1(3)(b)(ii)](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/1/3/b/ii)
 
-[^key-5961fc3c62524cea744863c4b897b253]: Textual amendment: Sch. 2 para. 12D(3)(4) inserted (1.9.2022 for specified purposes, 1.9.2023 for specified purposes, 1.9.2024 for specified purposes, 1.9.2025 for specified purposes, 1.9.2026 for specified purposes) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Primary Legislation) Regulations 2022 (S.I. 2022/744)](https://www.legislation.gov.uk/wsi/2022/744), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3), [Sch. 2 para. 1(3)(c)](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/1/3/c)
+[^c-5961fc3c62524cea744863c4b897b253]: Textual amendment: Sch. 2 para. 12D(3)(4) inserted (1.9.2022 for specified purposes, 1.9.2023 for specified purposes, 1.9.2024 for specified purposes, 1.9.2025 for specified purposes, 1.9.2026 for specified purposes) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Primary Legislation) Regulations 2022 (S.I. 2022/744)](https://www.legislation.gov.uk/wsi/2022/744), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3), [Sch. 2 para. 1(3)(c)](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/1/3/c)
 
-[^key-a4ff079747e347efa0e537ccd1ef6f6d]: Textual amendment: Words in Sch. 2 para. 12F(1)(a) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [113(a)](https://www.legislation.gov.uk/wsi/2016/413/regulation/113/a)
+[^c-a4ff079747e347efa0e537ccd1ef6f6d]: Textual amendment: Words in Sch. 2 para. 12F(1)(a) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [113(a)](https://www.legislation.gov.uk/wsi/2016/413/regulation/113/a)
 
-[^key-e0e533fb9dae6828f1805f2d1b76aa7d]: Textual amendment: Words in Sch. 2 para. 12F(1)(b) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [113(c)(i)](https://www.legislation.gov.uk/wsi/2016/413/regulation/113/c/i)
+[^c-e0e533fb9dae6828f1805f2d1b76aa7d]: Textual amendment: Words in Sch. 2 para. 12F(1)(b) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [113(c)(i)](https://www.legislation.gov.uk/wsi/2016/413/regulation/113/c/i)
 
-[^key-9ee19e9a42c40e9490ba2f17a7e41f8d]: Textual amendment: Words in Sch. 2 para. 12F(1)(b) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [113(b)](https://www.legislation.gov.uk/wsi/2016/413/regulation/113/b)
+[^c-9ee19e9a42c40e9490ba2f17a7e41f8d]: Textual amendment: Words in Sch. 2 para. 12F(1)(b) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [113(b)](https://www.legislation.gov.uk/wsi/2016/413/regulation/113/b)
 
-[^key-65a309b439a3ba4d9dc6a19787c6a169]: Textual amendment: Words in Sch. 2 para. 12F(4) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [113(c)(ii)](https://www.legislation.gov.uk/wsi/2016/413/regulation/113/c/ii)
+[^c-65a309b439a3ba4d9dc6a19787c6a169]: Textual amendment: Words in Sch. 2 para. 12F(4) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [113(c)(ii)](https://www.legislation.gov.uk/wsi/2016/413/regulation/113/c/ii)
 
-[^key-4d9e4e8beafef77ee1709764b815fa4e]: Textual amendment: Words in Sch. 2 para. 12F(5) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [113(c)(iii)](https://www.legislation.gov.uk/wsi/2016/413/regulation/113/c/iii)
+[^c-4d9e4e8beafef77ee1709764b815fa4e]: Textual amendment: Words in Sch. 2 para. 12F(5) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [113(c)(iii)](https://www.legislation.gov.uk/wsi/2016/413/regulation/113/c/iii)
 
-[^key-4aecffd2a94c3197c1918d4efd28ff3e]: Textual amendment: Words in Sch. 2 para. 12F(6) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [113(c)(iv)](https://www.legislation.gov.uk/wsi/2016/413/regulation/113/c/iv)
+[^c-4aecffd2a94c3197c1918d4efd28ff3e]: Textual amendment: Words in Sch. 2 para. 12F(6) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [113(c)(iv)](https://www.legislation.gov.uk/wsi/2016/413/regulation/113/c/iv)
 
-[^key-4db2790c3aef15ddd37688910c88dbcc]: Textual amendment: Words in Sch. 2 para. 12F(7) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [113(c)(v)](https://www.legislation.gov.uk/wsi/2016/413/regulation/113/c/v)
+[^c-4db2790c3aef15ddd37688910c88dbcc]: Textual amendment: Words in Sch. 2 para. 12F(7) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [113(c)(v)](https://www.legislation.gov.uk/wsi/2016/413/regulation/113/c/v)
 
-[^key-db74816758e36f0f835ae1aea45d05eb]: Textual amendment: Words in Sch. 2 para. 12F(8) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [113(c)(vi)](https://www.legislation.gov.uk/wsi/2016/413/regulation/113/c/vi)
+[^c-db74816758e36f0f835ae1aea45d05eb]: Textual amendment: Words in Sch. 2 para. 12F(8) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [113(c)(vi)](https://www.legislation.gov.uk/wsi/2016/413/regulation/113/c/vi)
 
-[^key-623c7b725d6fe3b5f6e75113801455c6]: Textual amendment: Words in Sch. 2 para. 12F(9) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [113(c)(vii)](https://www.legislation.gov.uk/wsi/2016/413/regulation/113/c/vii)
+[^c-623c7b725d6fe3b5f6e75113801455c6]: Textual amendment: Words in Sch. 2 para. 12F(9) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [113(c)(vii)](https://www.legislation.gov.uk/wsi/2016/413/regulation/113/c/vii)
 
-[^key-ac3acfa7a9b0c4fa9d713943bed1dd1c]: Textual amendment: Sch. 2 para. 12F(10) omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [113(d)](https://www.legislation.gov.uk/wsi/2016/413/regulation/113/d)
+[^c-ac3acfa7a9b0c4fa9d713943bed1dd1c]: Textual amendment: Sch. 2 para. 12F(10) omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [113(d)](https://www.legislation.gov.uk/wsi/2016/413/regulation/113/d)
 
-[^key-40065f256b6ded0abff2794975314e9e]: Textual amendment: Words in Sch. 2 para. 12F(11) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [113(e)](https://www.legislation.gov.uk/wsi/2016/413/regulation/113/e)
+[^c-40065f256b6ded0abff2794975314e9e]: Textual amendment: Words in Sch. 2 para. 12F(11) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [113(e)](https://www.legislation.gov.uk/wsi/2016/413/regulation/113/e)
 
 [^c15177931]: Commencement: Sch. 2 Pt. II para. 15 wholly in force at 14.10.1991 see s. 108(2)(3) and [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2)
 
@@ -789,11 +789,11 @@ shall be evidence that the sum is overdue and unpaid.
 
 [^c18921251]: Modification: Sch. 2 para. 15 excluded (30.12.2005) by: [The Adoption Agencies Regulations 2005 (S.I. 2005/389)](https://www.legislation.gov.uk/uksi/2005/389), [reg. 45(2)(d)](https://www.legislation.gov.uk/uksi/2005/389/regulation/45/2/d); [The Adoption Agencies (Wales) Regulations 2005 (S.I. 2005/1313)](https://www.legislation.gov.uk/uksi/2005/1313), [reg. 46(2)(d)](https://www.legislation.gov.uk/uksi/2005/1313/regulation/46/2/d)
 
-[^key-b7b9d4e8f00adcfeb72bea0500b464fd]: Textual amendment: Words in Sch. 2 para. 15(3) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [114](https://www.legislation.gov.uk/wsi/2016/413/regulation/114)
+[^c-b7b9d4e8f00adcfeb72bea0500b464fd]: Textual amendment: Words in Sch. 2 para. 15(3) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [114](https://www.legislation.gov.uk/wsi/2016/413/regulation/114)
 
 [^c15177951]: Commencement: Sch. 2 Pt. II para. 16 wholly in force at 14.10.1991 see s. 108(2)(3) and [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2)
 
-[^key-93ed8e39b0ffa69c9e80b93d356b8ebb]: Textual amendment: Sch. 2 para. 17 repealed (1.4.2011 for E., 6.4.2016 for W.) by [Children and Young Persons Act 2008 (c. 23)](https://www.legislation.gov.uk/ukpga/2008/23), [ss. 16(2)](https://www.legislation.gov.uk/ukpga/2008/23/section/16/2), [44(4)](https://www.legislation.gov.uk/ukpga/2008/23/section/44/4), [Sch. 4](https://www.legislation.gov.uk/ukpga/2008/23/schedule/4); [S.I. 2010/2981](https://www.legislation.gov.uk/uksi/2010/2981), [art. 4(e)(l)](https://www.legislation.gov.uk/uksi/2010/2981/article/4/e/l); [S.I. 2016/452](https://www.legislation.gov.uk/wsi/2016/452), [art. 2(d)](https://www.legislation.gov.uk/wsi/2016/452/article/2/d)
+[^c-93ed8e39b0ffa69c9e80b93d356b8ebb]: Textual amendment: Sch. 2 para. 17 repealed (1.4.2011 for E., 6.4.2016 for W.) by [Children and Young Persons Act 2008 (c. 23)](https://www.legislation.gov.uk/ukpga/2008/23), [ss. 16(2)](https://www.legislation.gov.uk/ukpga/2008/23/section/16/2), [44(4)](https://www.legislation.gov.uk/ukpga/2008/23/section/44/4), [Sch. 4](https://www.legislation.gov.uk/ukpga/2008/23/schedule/4); [S.I. 2010/2981](https://www.legislation.gov.uk/uksi/2010/2981), [art. 4(e)(l)](https://www.legislation.gov.uk/uksi/2010/2981/article/4/e/l); [S.I. 2016/452](https://www.legislation.gov.uk/wsi/2016/452), [art. 2(d)](https://www.legislation.gov.uk/wsi/2016/452/article/2/d)
 
 [^c15177971]: Commencement: Sch. 2 Pt. II para. 18 wholly in force at 14.10.1991 see s. 108(2)(3) and [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2)
 
@@ -805,7 +805,7 @@ shall be evidence that the sum is overdue and unpaid.
 
 [^c15178031]: Textual amendment: Sch. 2 para. 19(9) inserted (30.12.2005) by [2002 c. 38](https://www.legislation.gov.uk/ukpga/2002/38), [ss. 139](https://www.legislation.gov.uk/ukpga/2002/38/section/139), [148](https://www.legislation.gov.uk/ukpga/2002/38/section/148), [Sch. 3 para. 72(c)](https://www.legislation.gov.uk/ukpga/2002/38/schedule/3/paragraph/72/c) (with [Sch. 4 paras. 6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(o)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/o)
 
-[^key-a7f3d9a76ef6e9e90c7cc25365061416]: Textual amendment: Words in Sch. 2 para. 19(9) inserted (27.4.2017) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [s. 70(1)(a)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/1/a), [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2017/16/schedule/1/paragraph/3)
+[^c-a7f3d9a76ef6e9e90c7cc25365061416]: Textual amendment: Words in Sch. 2 para. 19(9) inserted (27.4.2017) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [s. 70(1)(a)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/1/a), [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2017/16/schedule/1/paragraph/3)
 
 [^c15178041]: Textual amendment: Sch. 2 Pt. II paras. 19A-19C and preceding cross-headings inserted (1.10.2001) by [2000 c. 35](https://www.legislation.gov.uk/ukpga/2000/35), [s. 1](https://www.legislation.gov.uk/ukpga/2000/35/section/1); [S.I. 2001/2191](https://www.legislation.gov.uk/uksi/2001/2191), [art. 2](https://www.legislation.gov.uk/uksi/2001/2191/article/2); [S.I. 2001/2878](https://www.legislation.gov.uk/uksi/2001/2878), [art. 2](https://www.legislation.gov.uk/uksi/2001/2878/article/2)
 
@@ -815,25 +815,25 @@ shall be evidence that the sum is overdue and unpaid.
 
 [^c15178071]: Modification: Sch. 2 pt. II para. 19B(2) restricted (W.) (1.10.2001) by [S.I. 2001/2189](https://www.legislation.gov.uk/uksi/2001/2189), [reg. 3(2)](https://www.legislation.gov.uk/uksi/2001/2189/regulation/3/2)
 
-[^key-39a96a8365170a637ea86c436ec3853c]: Textual amendment: Words in Sch. 2 para. 19B(2)(b) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [115(a)](https://www.legislation.gov.uk/wsi/2016/413/regulation/115/a)
+[^c-39a96a8365170a637ea86c436ec3853c]: Textual amendment: Words in Sch. 2 para. 19B(2)(b) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [115(a)](https://www.legislation.gov.uk/wsi/2016/413/regulation/115/a)
 
-[^key-64075c43fd88aa3ae9e905981435302d]: Textual amendment: Words in Sch. 2 para. 19B(3) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [115(b)](https://www.legislation.gov.uk/wsi/2016/413/regulation/115/b)
+[^c-64075c43fd88aa3ae9e905981435302d]: Textual amendment: Words in Sch. 2 para. 19B(3) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [115(b)](https://www.legislation.gov.uk/wsi/2016/413/regulation/115/b)
 
-[^key-70ca398bd04cb257dae75c016f63c4bc]: Textual amendment: Words in Sch. 2 para. 19B(7) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [115(c)](https://www.legislation.gov.uk/wsi/2016/413/regulation/115/c)
+[^c-70ca398bd04cb257dae75c016f63c4bc]: Textual amendment: Words in Sch. 2 para. 19B(7) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [115(c)](https://www.legislation.gov.uk/wsi/2016/413/regulation/115/c)
 
-[^key-d97dd125fc304f1230f2e4514e478aa7]: Textual amendment: S. 19BA and cross-heading inserted (13.5.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 98(3)](https://www.legislation.gov.uk/ukpga/2014/6/section/98/3), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 5(e)](https://www.legislation.gov.uk/uksi/2014/889/article/5/e)
+[^c-d97dd125fc304f1230f2e4514e478aa7]: Textual amendment: S. 19BA and cross-heading inserted (13.5.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 98(3)](https://www.legislation.gov.uk/ukpga/2014/6/section/98/3), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 5(e)](https://www.legislation.gov.uk/uksi/2014/889/article/5/e)
 
-[^key-37b54f734eaa7f9e6e356e67c33cdb50]: Textual amendment: Words in Sch. 2 para. 19BA(1) omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [116](https://www.legislation.gov.uk/wsi/2016/413/regulation/116)
+[^c-37b54f734eaa7f9e6e356e67c33cdb50]: Textual amendment: Words in Sch. 2 para. 19BA(1) omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [116](https://www.legislation.gov.uk/wsi/2016/413/regulation/116)
 
 [^c15178081]: Textual amendment: Sch. 2 Pt. II paras. 19A-19C and preceding cross-headings inserted (1.10.2001) by [2000 c. 35](https://www.legislation.gov.uk/ukpga/2000/35), [s. 1](https://www.legislation.gov.uk/ukpga/2000/35/section/1); [S.I. 2001/2191](https://www.legislation.gov.uk/uksi/2001/2191), [art. 2](https://www.legislation.gov.uk/uksi/2001/2191/article/2); [S.I. 2001/2878](https://www.legislation.gov.uk/uksi/2001/2878), [art. 2](https://www.legislation.gov.uk/uksi/2001/2878/article/2)
 
 [^c15178091]: Commencement: Sch. 2 Pt. II para. 20 wholly in force at 14.10.1991 see s. 108(2)(3) and [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2)
 
-[^key-3d7034ceb2f1844a81e16617bce4b834]: Textual amendment: Sch. 2 para. 20(1)(a) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [117](https://www.legislation.gov.uk/wsi/2016/413/regulation/117)
+[^c-3d7034ceb2f1844a81e16617bce4b834]: Textual amendment: Sch. 2 para. 20(1)(a) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [117](https://www.legislation.gov.uk/wsi/2016/413/regulation/117)
 
 [^c15178101]: Modification: Sch. 2 Pt. III modified (30.12.2005) by [2002 c. 38](https://www.legislation.gov.uk/ukpga/2002/38), [ss. 53(4)-(6)](https://www.legislation.gov.uk/ukpga/2002/38/section/53/4), [148](https://www.legislation.gov.uk/ukpga/2002/38/section/148) (with [Sch. 4 paras. 1](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/1), [6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); S.I 2005/2213, {art. 2(c)}
 
-[^key-30917f9ee7bb527f0da7aaf0096c80f5]: Textual amendment: Words in Sch. 2 Pt. 3 heading inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [118](https://www.legislation.gov.uk/wsi/2016/413/regulation/118)
+[^c-30917f9ee7bb527f0da7aaf0096c80f5]: Textual amendment: Words in Sch. 2 Pt. 3 heading inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [118](https://www.legislation.gov.uk/wsi/2016/413/regulation/118)
 
 [^c15178421]: Commencement: Sch. 2 Pt. III para. 21 wholly in force at 14.10.1991 see s. 108(2)(3) and [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2)
 
@@ -841,9 +841,9 @@ shall be evidence that the sum is overdue and unpaid.
 
 [^c18921531]: Modification: Sch. 2 para. 21 excluded (30.12.2005) by: [The Adoption Agencies Regulations 2005 (S.I. 2005/389)](https://www.legislation.gov.uk/uksi/2005/389), [reg. 45(2)(d)](https://www.legislation.gov.uk/uksi/2005/389/regulation/45/2/d); [The Adoption Agencies (Wales) Regulations 2005 (S.I. 2005/1313)](https://www.legislation.gov.uk/uksi/2005/1313), [reg. 46(2)(d)](https://www.legislation.gov.uk/uksi/2005/1313/regulation/46/2/d)
 
-[^key-9f70dc1706531e7ef379b5d080627900]: Modification: Sch. 2 para. 21 excluded (3.12.2012) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Children Act 1989) (Children Remanded to Youth Detention Accommodation) Regulations 2012 (S.I. 2012/2813)](https://www.legislation.gov.uk/uksi/2012/2813), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2813/regulation/1/1), [2(d)](https://www.legislation.gov.uk/uksi/2012/2813/regulation/2/d), [5](https://www.legislation.gov.uk/uksi/2012/2813/regulation/5)
+[^c-9f70dc1706531e7ef379b5d080627900]: Modification: Sch. 2 para. 21 excluded (3.12.2012) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Children Act 1989) (Children Remanded to Youth Detention Accommodation) Regulations 2012 (S.I. 2012/2813)](https://www.legislation.gov.uk/uksi/2012/2813), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2813/regulation/1/1), [2(d)](https://www.legislation.gov.uk/uksi/2012/2813/regulation/2/d), [5](https://www.legislation.gov.uk/uksi/2012/2813/regulation/5)
 
-[^key-e1eb1cebb844f5b8d9678b9b5443b3e1]: Textual amendment: Words in Sch. 2 para. 21(4) inserted (29.4.2013) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3), [Sch. 2 para. 1(d)](https://www.legislation.gov.uk/ukpga/2012/5/schedule/2/paragraph/1/d); [S.I. 2013/983](https://www.legislation.gov.uk/uksi/2013/983), [art. 3(1)(b)(i)](https://www.legislation.gov.uk/uksi/2013/983/article/3/1/b/i)
+[^c-e1eb1cebb844f5b8d9678b9b5443b3e1]: Textual amendment: Words in Sch. 2 para. 21(4) inserted (29.4.2013) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3), [Sch. 2 para. 1(d)](https://www.legislation.gov.uk/ukpga/2012/5/schedule/2/paragraph/1/d); [S.I. 2013/983](https://www.legislation.gov.uk/uksi/2013/983), [art. 3(1)(b)(i)](https://www.legislation.gov.uk/uksi/2013/983/article/3/1/b/i)
 
 [^c15178441]: Textual amendment: Words in Sch. 2 para. 21(4) substituted (6.4.2003) by [2002 c. 21](https://www.legislation.gov.uk/ukpga/2002/21), [ss. 47](https://www.legislation.gov.uk/ukpga/2002/21/section/47), [61](https://www.legislation.gov.uk/ukpga/2002/21/section/61), [Sch. 3 para. 20(a)](https://www.legislation.gov.uk/ukpga/2002/21/schedule/3/paragraph/20/a); [S.I. 2003/962](https://www.legislation.gov.uk/uksi/2003/962), [art. 2(3)(d)(iii)](https://www.legislation.gov.uk/uksi/2003/962/article/2/3/d/iii) (subject to transitional savings and provisions in arts. 3 and 4)
 
@@ -855,11 +855,11 @@ shall be evidence that the sum is overdue and unpaid.
 
 [^c15178471]: Textual amendment: Words in Sch. 2 para. 21(4) added (7.10.1996) by [1995 c. 18](https://www.legislation.gov.uk/ukpga/1995/18), [s. 41(4)](https://www.legislation.gov.uk/ukpga/1995/18/section/41/4), [Sch. 2 para. 19(5)](https://www.legislation.gov.uk/ukpga/1995/18/schedule/2/paragraph/19/5); [S.I. 1996/2208](https://www.legislation.gov.uk/uksi/1996/2208), [art. 2](https://www.legislation.gov.uk/uksi/1996/2208/article/2)
 
-[^key-acc7e796a7675b588f63a84623ad56f2]: Textual amendment: Words in Sch. 2 para. 21(5) substituted (1.4.2011 for E., 6.4.2016 for W.) by [Children and Young Persons Act 2008 (c. 23)](https://www.legislation.gov.uk/ukpga/2008/23), [s. 44(4)](https://www.legislation.gov.uk/ukpga/2008/23/section/44/4), [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2008/23/schedule/1/paragraph/5); [S.I. 2010/2981](https://www.legislation.gov.uk/uksi/2010/2981), [art. 4(a)](https://www.legislation.gov.uk/uksi/2010/2981/article/4/a); [S.I. 2016/452](https://www.legislation.gov.uk/wsi/2016/452), [art. 2(b)](https://www.legislation.gov.uk/wsi/2016/452/article/2/b)
+[^c-acc7e796a7675b588f63a84623ad56f2]: Textual amendment: Words in Sch. 2 para. 21(5) substituted (1.4.2011 for E., 6.4.2016 for W.) by [Children and Young Persons Act 2008 (c. 23)](https://www.legislation.gov.uk/ukpga/2008/23), [s. 44(4)](https://www.legislation.gov.uk/ukpga/2008/23/section/44/4), [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2008/23/schedule/1/paragraph/5); [S.I. 2010/2981](https://www.legislation.gov.uk/uksi/2010/2981), [art. 4(a)](https://www.legislation.gov.uk/uksi/2010/2981/article/4/a); [S.I. 2016/452](https://www.legislation.gov.uk/wsi/2016/452), [art. 2(b)](https://www.legislation.gov.uk/wsi/2016/452/article/2/b)
 
 [^c15178481]: Textual amendment: Words in Sch. 2 Pt. III para. 21(7)(c) substituted (25.8.2000) by [2000 c. 6](https://www.legislation.gov.uk/ukpga/2000/6), [ss. 165(1)](https://www.legislation.gov.uk/ukpga/2000/6/section/165/1), [168(1)](https://www.legislation.gov.uk/ukpga/2000/6/section/168/1), [Sch. 9 para. 130](https://www.legislation.gov.uk/ukpga/2000/6/schedule/9/paragraph/130)
 
-[^key-ef250cbec8c8cc107ced3d3245eb101e]: Textual amendment: Words in Sch. 2 para. 21(7)(c) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 113](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/113) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-ef250cbec8c8cc107ced3d3245eb101e]: Textual amendment: Words in Sch. 2 para. 21(7)(c) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 113](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/113) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
 [^c15178491]: Commencement: Sch. 2 Pt. III para. 22 wholly in force at 14.10.1991 see s. 108(2)(3) and [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2)
 
@@ -867,20 +867,20 @@ shall be evidence that the sum is overdue and unpaid.
 
 [^c15178551]: Commencement: Sch. 2 Pt. III para. 24 wholly in force at 14.10.1991 see s. 108(2)(3) and [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2)
 
-[^key-a7255d13e5b7f4cccc2a3e428e03d132]: Textual amendment: Sch. 2 para. 24(1) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 120](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/120); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-a7255d13e5b7f4cccc2a3e428e03d132]: Textual amendment: Sch. 2 para. 24(1) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 120](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/120); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-2be2d515fe26867e9f5c2dccde019887]: Textual amendment: Sch. 2 para. 24(3)(aa) inserted (E.W.) (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [119](https://www.legislation.gov.uk/wsi/2016/413/regulation/119)
+[^c-2be2d515fe26867e9f5c2dccde019887]: Textual amendment: Sch. 2 para. 24(3)(aa) inserted (E.W.) (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [119](https://www.legislation.gov.uk/wsi/2016/413/regulation/119)
 
 [^c15178571]: Marginal citation: [1968 c. 49](https://www.legislation.gov.uk/ukpga/1968/49).
 
-[^key-ae6d5202e8ca69c53f976db3176eb998]: Textual amendment: [Sch. 2 para. 24(3)(b)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/2/paragraph/24/3/b) substituted (30.11.2022) by [The Health and Social Care Act (Northern Ireland) 2022 (Consequential Amendments) Order 2022 (S.I. 2022/1174)](https://www.legislation.gov.uk/uksi/2022/1174), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/1174/article/1/2), [14](https://www.legislation.gov.uk/uksi/2022/1174/article/14)
+[^c-ae6d5202e8ca69c53f976db3176eb998]: Textual amendment: [Sch. 2 para. 24(3)(b)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/2/paragraph/24/3/b) substituted (30.11.2022) by [The Health and Social Care Act (Northern Ireland) 2022 (Consequential Amendments) Order 2022 (S.I. 2022/1174)](https://www.legislation.gov.uk/uksi/2022/1174), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/1174/article/1/2), [14](https://www.legislation.gov.uk/uksi/2022/1174/article/14)
 
 [^c18928381]: Textual amendment: Words in Sch. 2 para. 24(6) substituted (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 190(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/190/1), [Sch. 8 para. 340](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/340); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
 
 [^c15178601]: Commencement: Sch. 2 Pt. III para. 25 wholly in force at 14.10.1991 see s. 108(2)(3) and [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2)
 
-[^key-7025720eab32915649b1a83810a37138]: Textual amendment: Words in Sch. 2 para. 25 substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [120(a)](https://www.legislation.gov.uk/wsi/2016/413/regulation/120/a)
+[^c-7025720eab32915649b1a83810a37138]: Textual amendment: Words in Sch. 2 para. 25 substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [120(a)](https://www.legislation.gov.uk/wsi/2016/413/regulation/120/a)
 
-[^key-4d849b0d26c42160b6d84fe7e613eec3]: Textual amendment: Words in Sch. 2 para. 25(b) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [120(b)](https://www.legislation.gov.uk/wsi/2016/413/regulation/120/b)
+[^c-4d849b0d26c42160b6d84fe7e613eec3]: Textual amendment: Words in Sch. 2 para. 25(b) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [120(b)](https://www.legislation.gov.uk/wsi/2016/413/regulation/120/b)
 
-[^key-58183c108b5b7acab7bdded4364abc4b]: Textual amendment: Sch. 2 para. 25(b)(ii) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [120(c)](https://www.legislation.gov.uk/wsi/2016/413/regulation/120/c)
+[^c-58183c108b5b7acab7bdded4364abc4b]: Textual amendment: Sch. 2 para. 25(b)(ii) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [120(c)](https://www.legislation.gov.uk/wsi/2016/413/regulation/120/c)

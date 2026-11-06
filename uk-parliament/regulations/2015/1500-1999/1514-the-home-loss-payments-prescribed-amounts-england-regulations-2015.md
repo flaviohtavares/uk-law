@@ -34,7 +34,7 @@ Acquisition Of Land, England
 
 Compensation
 
-The Home Loss Payments (Prescribed Amounts) (England) Regulations 2015 (revoked)[^key-b665d2d6bf644773bc2b9f0644903c13]
+The Home Loss Payments (Prescribed Amounts) (England) Regulations 2015 (revoked)[^c-b665d2d6bf644773bc2b9f0644903c13]
 
 Made
 
@@ -48,28 +48,28 @@ Coming into force
 
 1st October 2015
 
-[^key-b665d2d6bf644773bc2b9f0644903c13]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b665d2d6bf644773bc2b9f0644903c13]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-b665d2d6bf644773bc2b9f0644903c13]
+## 1. Citation, commencement and application[^c-b665d2d6bf644773bc2b9f0644903c13]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revision of prescribed amounts for home loss payment[^key-b665d2d6bf644773bc2b9f0644903c13]
+## 2. Revision of prescribed amounts for home loss payment[^c-b665d2d6bf644773bc2b9f0644903c13]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation and savings[^key-b665d2d6bf644773bc2b9f0644903c13]
+## 3. Revocation and savings[^c-b665d2d6bf644773bc2b9f0644903c13]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b665d2d6bf644773bc2b9f0644903c13]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b665d2d6bf644773bc2b9f0644903c13]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-b665d2d6bf644773bc2b9f0644903c13]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b665d2d6bf644773bc2b9f0644903c13]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b665d2d6bf644773bc2b9f0644903c13]: Textual amendment: Regulations revoked (1.10.2016) by [The Home Loss Payments (Prescribed Amounts) (England) Regulations 2016 (S.I. 2016/789)](https://www.legislation.gov.uk/uksi/2016/789), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/789/regulation/1/1), [3(1)](https://www.legislation.gov.uk/uksi/2016/789/regulation/3/1) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2016/789/regulation/3/2))
+[^c-b665d2d6bf644773bc2b9f0644903c13]: Textual amendment: Regulations revoked (1.10.2016) by [The Home Loss Payments (Prescribed Amounts) (England) Regulations 2016 (S.I. 2016/789)](https://www.legislation.gov.uk/uksi/2016/789), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/789/regulation/1/1), [3(1)](https://www.legislation.gov.uk/uksi/2016/789/regulation/3/1) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2016/789/regulation/3/2))

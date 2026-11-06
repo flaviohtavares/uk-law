@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Immigration health charge[^key-e822db0818f3110359773f9893565195][^key-0e13bf97fe92c24fed934219493f9e36]
+## 38. Immigration health charge[^c-e822db0818f3110359773f9893565195][^c-0e13bf97fe92c24fed934219493f9e36]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,6 +56,6 @@ and the references to applying for leave to enter or remain for a limited period
 
 ## Annotations
 
-[^key-e822db0818f3110359773f9893565195]: Commencement: S. 38 in force at 20.10.2014 by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 4(b)](https://www.legislation.gov.uk/uksi/2014/2771/article/4/b)
+[^c-e822db0818f3110359773f9893565195]: Commencement: S. 38 in force at 20.10.2014 by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 4(b)](https://www.legislation.gov.uk/uksi/2014/2771/article/4/b)
 
-[^key-0e13bf97fe92c24fed934219493f9e36]: Modification: [S. 38](https://www.legislation.gov.uk/ukpga/2014/22/section/38) extended (with modifications) (Isle of Man) (4.2.2026) by [S.I. 2008/680](https://www.legislation.gov.uk/uksi/2008/680), [art. 22](https://www.legislation.gov.uk/uksi/2008/680/article/22), [Sch. 9A para. A4A](https://www.legislation.gov.uk/uksi/2008/680/schedule/9A/paragraph/A4A) (as amended by [The Immigration (Isle of Man) (Amendment) Order 2026 (S.I. 2026/98)](https://www.legislation.gov.uk/uksi/2026/98), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/98/article/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2026/98/article/3/2), [5](https://www.legislation.gov.uk/uksi/2026/98/article/5))
+[^c-0e13bf97fe92c24fed934219493f9e36]: Modification: [S. 38](https://www.legislation.gov.uk/ukpga/2014/22/section/38) extended (with modifications) (Isle of Man) (4.2.2026) by [S.I. 2008/680](https://www.legislation.gov.uk/uksi/2008/680), [art. 22](https://www.legislation.gov.uk/uksi/2008/680/article/22), [Sch. 9A para. A4A](https://www.legislation.gov.uk/uksi/2008/680/schedule/9A/paragraph/A4A) (as amended by [The Immigration (Isle of Man) (Amendment) Order 2026 (S.I. 2026/98)](https://www.legislation.gov.uk/uksi/2026/98), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/98/article/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2026/98/article/3/2), [5](https://www.legislation.gov.uk/uksi/2026/98/article/5))

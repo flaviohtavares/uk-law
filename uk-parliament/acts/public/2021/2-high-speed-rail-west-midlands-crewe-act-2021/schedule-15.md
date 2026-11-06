@@ -104,7 +104,7 @@ Section 13
 
 (9) In this paragraph—
 
-- “**appropriate Ministers**” means the Secretary of State for Housing, Communities and Local Government[^key-80bbeb3d037298e0bbd658f180c8acc8] and the Secretary of State for Transport and, in relation to the carrying out of any function, means those Ministers acting jointly;
+- “**appropriate Ministers**” means the Secretary of State for Housing, Communities and Local Government[^c-80bbeb3d037298e0bbd658f180c8acc8] and the Secretary of State for Transport and, in relation to the carrying out of any function, means those Ministers acting jointly;
 - “**relevant planning authority**” means the unitary authority or, in a non-unitary area, the district council in whose area the land is situated.
 
 ### PART 2 — Temporary possession for maintenance of works
@@ -194,4 +194,4 @@ Section 13
 
 ## Annotations
 
-[^key-80bbeb3d037298e0bbd658f180c8acc8]: Textual amendment: Words in Sch. 15 para. 5(9) substituted (30.10.2024) by [The Transfer of Functions (Secretary of State for Housing, Communities and Local Government) Order 2024 (S.I. 2024/991)](https://www.legislation.gov.uk/uksi/2024/991), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/991/article/1/2), [Sch. para. 14(b)](https://www.legislation.gov.uk/uksi/2024/991/schedule/paragraph/14/b) (with [art. 7](https://www.legislation.gov.uk/uksi/2024/991/article/7))
+[^c-80bbeb3d037298e0bbd658f180c8acc8]: Textual amendment: Words in Sch. 15 para. 5(9) substituted (30.10.2024) by [The Transfer of Functions (Secretary of State for Housing, Communities and Local Government) Order 2024 (S.I. 2024/991)](https://www.legislation.gov.uk/uksi/2024/991), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/991/article/1/2), [Sch. para. 14(b)](https://www.legislation.gov.uk/uksi/2024/991/schedule/paragraph/14/b) (with [art. 7](https://www.legislation.gov.uk/uksi/2024/991/article/7))

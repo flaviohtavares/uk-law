@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 64. 24 hour licences to be granted only in exceptional circumstances[^key-8ad4c97d4b760febc6e9b63dd23fb02c]
+## 64. 24 hour licences to be granted only in exceptional circumstances[^c-8ad4c97d4b760febc6e9b63dd23fb02c]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8ad4c97d4b760febc6e9b63dd23fb02c]: Commencement: S. 64 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
+[^c-8ad4c97d4b760febc6e9b63dd23fb02c]: Commencement: S. 64 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)

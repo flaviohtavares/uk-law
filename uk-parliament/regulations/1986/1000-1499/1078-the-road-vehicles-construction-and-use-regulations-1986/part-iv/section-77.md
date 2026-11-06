@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 77. Maximum permitted laden weight of an articulated vehicle[^key-4dae6c7b26799b1d0888bb6ea33a8a5d]
+## 77. Maximum permitted laden weight of an articulated vehicle[^c-4dae6c7b26799b1d0888bb6ea33a8a5d]
 
 *Extent: E+W+S*
 
@@ -40,22 +40,22 @@ TABLE
 </tbody>
 </table>
 
-[^key-c2d7dde103e523f061ce16a29778c6ba]
+[^c-c2d7dde103e523f061ce16a29778c6ba]
 
 (2) This regulation does not apply to an agricultural motor vehicle, an agricultural trailer or an agricultural trailed appliance.
 
-(2A)[^key-47b20850c00c1199cd294e3ef388fdef] This regulation is subject to Schedule 11A (exemptions relating to intermodal transport operations[^key-76a86a3b1029f2f0f6d54b2ac1dcba4c]).
+(2A)[^c-47b20850c00c1199cd294e3ef388fdef] This regulation is subject to Schedule 11A (exemptions relating to intermodal transport operations[^c-76a86a3b1029f2f0f6d54b2ac1dcba4c]).
 
-(3)[^key-36062bf4abcd9fd690c5f8aa7f47b29e] In Part IV of Schedule 11, “road friendly suspension” and “twin tyres” shall be construed in accordance with regulation 75(5) and (6).
+(3)[^c-36062bf4abcd9fd690c5f8aa7f47b29e] In Part IV of Schedule 11, “road friendly suspension” and “twin tyres” shall be construed in accordance with regulation 75(5) and (6).
 
 ## Annotations
 
-[^key-4dae6c7b26799b1d0888bb6ea33a8a5d]: Commencement: [Reg. 77](https://www.legislation.gov.uk/uksi/1986/1078/regulation/77) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-4dae6c7b26799b1d0888bb6ea33a8a5d]: Commencement: [Reg. 77](https://www.legislation.gov.uk/uksi/1986/1078/regulation/77) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
 
-[^key-c2d7dde103e523f061ce16a29778c6ba]: Textual amendment: Words in [reg. 77](https://www.legislation.gov.uk/uksi/1986/1078/regulation/77) Table Item 1 omitted (24.3.1994) by virtue of [The Road Vehicles (Construction and Use) (Amendment) (No. 2) Regulations 1994 (S.I. 1994/329)](https://www.legislation.gov.uk/uksi/1994/329), [regs. 1](https://www.legislation.gov.uk/uksi/1994/329/regulation/1), [8(3)](https://www.legislation.gov.uk/uksi/1994/329/regulation/8/3)
+[^c-c2d7dde103e523f061ce16a29778c6ba]: Textual amendment: Words in [reg. 77](https://www.legislation.gov.uk/uksi/1986/1078/regulation/77) Table Item 1 omitted (24.3.1994) by virtue of [The Road Vehicles (Construction and Use) (Amendment) (No. 2) Regulations 1994 (S.I. 1994/329)](https://www.legislation.gov.uk/uksi/1994/329), [regs. 1](https://www.legislation.gov.uk/uksi/1994/329/regulation/1), [8(3)](https://www.legislation.gov.uk/uksi/1994/329/regulation/8/3)
 
-[^key-47b20850c00c1199cd294e3ef388fdef]: Textual amendment: [Reg. 77(2A)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/77/2A) inserted (24.3.1994) by [The Road Vehicles (Construction and Use) (Amendment) (No. 2) Regulations 1994 (S.I. 1994/329)](https://www.legislation.gov.uk/uksi/1994/329), [regs. 1](https://www.legislation.gov.uk/uksi/1994/329/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/1994/329/regulation/8/2)
+[^c-47b20850c00c1199cd294e3ef388fdef]: Textual amendment: [Reg. 77(2A)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/77/2A) inserted (24.3.1994) by [The Road Vehicles (Construction and Use) (Amendment) (No. 2) Regulations 1994 (S.I. 1994/329)](https://www.legislation.gov.uk/uksi/1994/329), [regs. 1](https://www.legislation.gov.uk/uksi/1994/329/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/1994/329/regulation/8/2)
 
-[^key-76a86a3b1029f2f0f6d54b2ac1dcba4c]: Textual amendment: Words in [reg. 77(2A)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/77/2A) substituted (1.10.2017) by [The Road Vehicles (Authorised Weight) and (Construction and Use) (Amendment) Regulations 2017 (S.I. 2017/881)](https://www.legislation.gov.uk/uksi/2017/881), [regs. 1](https://www.legislation.gov.uk/uksi/2017/881/regulation/1), [15](https://www.legislation.gov.uk/uksi/2017/881/regulation/15)
+[^c-76a86a3b1029f2f0f6d54b2ac1dcba4c]: Textual amendment: Words in [reg. 77(2A)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/77/2A) substituted (1.10.2017) by [The Road Vehicles (Authorised Weight) and (Construction and Use) (Amendment) Regulations 2017 (S.I. 2017/881)](https://www.legislation.gov.uk/uksi/2017/881), [regs. 1](https://www.legislation.gov.uk/uksi/2017/881/regulation/1), [15](https://www.legislation.gov.uk/uksi/2017/881/regulation/15)
 
-[^key-36062bf4abcd9fd690c5f8aa7f47b29e]: Textual amendment: [Reg. 77(3)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/77/3) inserted (1.1.1993) by [The Road Vehicles (Construction and Use) (Amendment) (No. 4) Regulations 1992 (S.I. 1992/2016)](https://www.legislation.gov.uk/uksi/1992/2016), [regs. 1](https://www.legislation.gov.uk/uksi/1992/2016/regulation/1), [6](https://www.legislation.gov.uk/uksi/1992/2016/regulation/6)
+[^c-36062bf4abcd9fd690c5f8aa7f47b29e]: Textual amendment: [Reg. 77(3)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/77/3) inserted (1.1.1993) by [The Road Vehicles (Construction and Use) (Amendment) (No. 4) Regulations 1992 (S.I. 1992/2016)](https://www.legislation.gov.uk/uksi/1992/2016), [regs. 1](https://www.legislation.gov.uk/uksi/1992/2016/regulation/1), [6](https://www.legislation.gov.uk/uksi/1992/2016/regulation/6)

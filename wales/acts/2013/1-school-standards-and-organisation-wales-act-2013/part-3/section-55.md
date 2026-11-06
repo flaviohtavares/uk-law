@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 55. Implementation[^key-b14b734ee731172761568bfe0fcdfafd]
+## 55. Implementation[^c-b14b734ee731172761568bfe0fcdfafd]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b14b734ee731172761568bfe0fcdfafd]: Commencement: [S. 55](https://www.legislation.gov.uk/anaw/2013/1/section/55) in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(a)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/a) (with [art. 4](https://www.legislation.gov.uk/wsi/2013/1800/article/4))
+[^c-b14b734ee731172761568bfe0fcdfafd]: Commencement: [S. 55](https://www.legislation.gov.uk/anaw/2013/1/section/55) in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(a)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/a) (with [art. 4](https://www.legislation.gov.uk/wsi/2013/1800/article/4))

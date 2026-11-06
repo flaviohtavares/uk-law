@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 11. Effect of national and local strategies: England[^key-380b051a2ca3cc12f72c390e8210b6c3][^key-cab8f0afdb55cf533925e1caa2be051c]
+## 11. Effect of national and local strategies: England[^c-380b051a2ca3cc12f72c390e8210b6c3][^c-cab8f0afdb55cf533925e1caa2be051c]
 
 *Extent: E+W*
 
@@ -41,7 +41,7 @@ summary: ''
 
 (6) Subsection (5) does not affect the duties of a cross-border internal drainage board under section 12.
 
-(6A)[^key-ffc2fb3f295b8ed3a7961d71aafd08c4] In exercising a function in a manner which may affect a flood risk or coastal erosion risk in England, the Natural Resources Body for Wales must have regard to the national and local strategies and guidance.
+(6A)[^c-ffc2fb3f295b8ed3a7961d71aafd08c4] In exercising a function in a manner which may affect a flood risk or coastal erosion risk in England, the Natural Resources Body for Wales must have regard to the national and local strategies and guidance.
 
 (7) The Secretary of State may by order require a specified person to have regard to the national and local strategies and guidance in exercising a statutory function which may affect a flood risk or coastal erosion risk in England.
 
@@ -54,8 +54,8 @@ summary: ''
 
 ## Annotations
 
-[^key-380b051a2ca3cc12f72c390e8210b6c3]: Commencement: S. 11 in force at 19.7.2011 for E. by [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(a)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/a)
+[^c-380b051a2ca3cc12f72c390e8210b6c3]: Commencement: S. 11 in force at 19.7.2011 for E. by [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(a)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/a)
 
-[^key-cab8f0afdb55cf533925e1caa2be051c]: Commencement: S. 11 in force at 1.11.2011 for W. by [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 4(a)](https://www.legislation.gov.uk/uksi/2011/2204/article/4/a)
+[^c-cab8f0afdb55cf533925e1caa2be051c]: Commencement: S. 11 in force at 1.11.2011 for W. by [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 4(a)](https://www.legislation.gov.uk/uksi/2011/2204/article/4/a)
 
-[^key-ffc2fb3f295b8ed3a7961d71aafd08c4]: Textual amendment: S. 11(6A) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 453](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/453) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-ffc2fb3f295b8ed3a7961d71aafd08c4]: Textual amendment: S. 11(6A) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 453](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/453) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

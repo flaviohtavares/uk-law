@@ -48,13 +48,13 @@ The Treasury make this Order in exercise of the powers conferred by section 10(1
 
 In accordance with section 10(7)[^f00002] of that Act, the Treasury have consulted the Welsh Ministers where they have thought it appropriate.
 
-## 1. Citation, commencement and extent[^key-4b2776e5d855ee878511568a678d1dc8]
+## 1. Citation, commencement and extent[^c-4b2776e5d855ee878511568a678d1dc8]
 
 (1) This Order may be cited as the Whole of Government Accounts (Designation of Bodies) Order 2025 and comes into force on 18th March 2025.
 
 (2) This Order extends to England and Wales, Scotland and Northern Ireland.
 
-## 2. Designation[^key-6f196acd85ed23d187c686ec53bb9989]
+## 2. Designation[^c-6f196acd85ed23d187c686ec53bb9989]
 
 The bodies listed in the Schedule (designated bodies for 2024-2025) to this Order are designated in respect of the financial year ending with 31st March 2025 for the purposes of section 10 (obtaining information) of the Government Resources and Accounts Act 2000.
 
@@ -66,7 +66,7 @@ Two of the Lord Commissioners of His Majesty's Treasury
 
 24th February 2025
 
-## Schedule — Designated Bodies for 2024-2025[^key-018b85cd76eff39b5117e3d4b9f95637][^key-6d112cb1520b1a51b9792d9e0a814e4b]
+## Schedule — Designated Bodies for 2024-2025[^c-018b85cd76eff39b5117e3d4b9f95637][^c-6d112cb1520b1a51b9792d9e0a814e4b]
 
 Article 2
 
@@ -196,8 +196,8 @@ Article 2
 - Independent Monitoring Authority for the Citizens’ Rights Agreements
 - Independent Office for Police Conduct
 - Independent Reporting Commission
-- Information Commission[^key-117f765996063e9127ec9c448893e255]
-- [^key-476bc0df7da399b273d5749f6ae36ef0]...
+- Information Commission[^c-117f765996063e9127ec9c448893e255]
+- [^c-476bc0df7da399b273d5749f6ae36ef0]...
 - Institute for Apprenticeships and Technical Education
 - International Military Services Limited
 - IUK Investments Holdings Limited
@@ -793,14 +793,14 @@ An impact assessment has not been prepared for this instrument as no, or no sign
 
 [^f00002]: Footnote: Section 10(7) was amended by paragraph 57 of Schedule 10 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-4b2776e5d855ee878511568a678d1dc8]: Commencement: Art. 1 in force at 18.3.2025, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/208/article/1/1)
+[^c-4b2776e5d855ee878511568a678d1dc8]: Commencement: Art. 1 in force at 18.3.2025, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/208/article/1/1)
 
-[^key-6f196acd85ed23d187c686ec53bb9989]: Commencement: Art. 2 in force at 18.3.2025, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/208/article/1/1)
+[^c-6f196acd85ed23d187c686ec53bb9989]: Commencement: Art. 2 in force at 18.3.2025, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/208/article/1/1)
 
-[^key-018b85cd76eff39b5117e3d4b9f95637]: Commencement: Sch. crossheading(local)(government) in force at 18.3.2025, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/208/article/1/1)
+[^c-018b85cd76eff39b5117e3d4b9f95637]: Commencement: Sch. crossheading(local)(government) in force at 18.3.2025, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/208/article/1/1)
 
-[^key-6d112cb1520b1a51b9792d9e0a814e4b]: Commencement: Sch. crossheading(central)(government)(public)(corporations)(etc) in force at 18.3.2025, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/208/article/1/1)
+[^c-6d112cb1520b1a51b9792d9e0a814e4b]: Commencement: Sch. crossheading(central)(government)(public)(corporations)(etc) in force at 18.3.2025, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/208/article/1/1)
 
-[^key-117f765996063e9127ec9c448893e255]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2025/208/schedule) inserted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 31(a)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/31/a); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-117f765996063e9127ec9c448893e255]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2025/208/schedule) inserted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 31(a)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/31/a); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
 
-[^key-476bc0df7da399b273d5749f6ae36ef0]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2025/208/schedule) omitted (30.9.2026) by virtue of [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 31(b)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/31/b); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-476bc0df7da399b273d5749f6ae36ef0]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2025/208/schedule) omitted (30.9.2026) by virtue of [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 31(b)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/31/b); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)

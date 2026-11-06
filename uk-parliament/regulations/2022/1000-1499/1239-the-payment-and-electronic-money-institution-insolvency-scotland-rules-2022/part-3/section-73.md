@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 73. Resignation[^key-02bd86520570128aeb4dfe21027407ff]
+## 73. Resignation[^c-02bd86520570128aeb4dfe21027407ff]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ A member of the creditors’ committee may resign by notice in writing delivered
 
 ## Annotations
 
-[^key-02bd86520570128aeb4dfe21027407ff]: Commencement: Rule 73 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-02bd86520570128aeb4dfe21027407ff]: Commencement: Rule 73 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

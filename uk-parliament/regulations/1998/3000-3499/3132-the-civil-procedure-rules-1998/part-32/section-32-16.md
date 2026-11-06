@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32.16. Form of affidavits[^key-f0a7fd002d091cd821de6391be85a65f]
+## 32.16. Form of affidavits[^c-f0a7fd002d091cd821de6391be85a65f]
 
 *Extent: E+W*
 
-An affidavit<sup>(GL)</sup> must comply with the requirements set out in Practice Direction 32[^key-ee85536d2268f9310834160d3820e794].
+An affidavit<sup>(GL)</sup> must comply with the requirements set out in Practice Direction 32[^c-ee85536d2268f9310834160d3820e794].
 
 ## Annotations
 
-[^key-f0a7fd002d091cd821de6391be85a65f]: Commencement: [Rule 32.16](https://www.legislation.gov.uk/uksi/1998/3132/rule/32.16) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-f0a7fd002d091cd821de6391be85a65f]: Commencement: [Rule 32.16](https://www.legislation.gov.uk/uksi/1998/3132/rule/32.16) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
 
-[^key-ee85536d2268f9310834160d3820e794]: Textual amendment: Words in [rule 32.16](https://www.legislation.gov.uk/uksi/1998/3132/rule/32.16) substituted (6.4.2010) by [The Civil Procedure (Amendment No.2) Rules 2009 (S.I. 2009/3390)](https://www.legislation.gov.uk/uksi/2009/3390), [rules 1(2)](https://www.legislation.gov.uk/uksi/2009/3390/rule/1/2), [16](https://www.legislation.gov.uk/uksi/2009/3390/rule/16)
+[^c-ee85536d2268f9310834160d3820e794]: Textual amendment: Words in [rule 32.16](https://www.legislation.gov.uk/uksi/1998/3132/rule/32.16) substituted (6.4.2010) by [The Civil Procedure (Amendment No.2) Rules 2009 (S.I. 2009/3390)](https://www.legislation.gov.uk/uksi/2009/3390), [rules 1(2)](https://www.legislation.gov.uk/uksi/2009/3390/rule/1/2), [16](https://www.legislation.gov.uk/uksi/2009/3390/rule/16)

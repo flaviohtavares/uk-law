@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Ban on manufacture of snus etc[^key-c6b452408af83e7655b19686823d0b9b]
+## 58. Ban on manufacture of snus etc[^c-c6b452408af83e7655b19686823d0b9b]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ After section 9 of the Tobacco and Primary Medical Services (Scotland) Act [2010
 
 ## Annotations
 
-[^key-c6b452408af83e7655b19686823d0b9b]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2026/18/section/58) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-c6b452408af83e7655b19686823d0b9b]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2026/18/section/58) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)

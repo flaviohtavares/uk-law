@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 104. Sederunt book[^key-a259bf00c3a3b15766d545a63d511426]
+## 104. Sederunt book[^c-a259bf00c3a3b15766d545a63d511426]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a259bf00c3a3b15766d545a63d511426]: Commencement: Rule 104 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-a259bf00c3a3b15766d545a63d511426]: Commencement: Rule 104 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)

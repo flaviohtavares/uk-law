@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. The community electricity right[^key-77e1dc5a70bc5946f1029d0254ed643d]
+## 38. The community electricity right[^c-77e1dc5a70bc5946f1029d0254ed643d]
 
 *Extent: E+W+S*
 
@@ -79,4 +79,4 @@ if the Secretary of State considers that the modification is appropriate in conn
 
 ## Annotations
 
-[^key-77e1dc5a70bc5946f1029d0254ed643d]: Commencement: S. 38 in force at 1.6.2016, see s. 57(7)(a)
+[^c-77e1dc5a70bc5946f1029d0254ed643d]: Commencement: S. 38 in force at 1.6.2016, see s. 57(7)(a)

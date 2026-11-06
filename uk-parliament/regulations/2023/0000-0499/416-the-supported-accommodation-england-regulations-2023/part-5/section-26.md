@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Storage of records[^key-c7f05adf08081c22da51629e5fe6dbec]
+## 26. Storage of records[^c-c7f05adf08081c22da51629e5fe6dbec]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ The registered person must ensure that the following items, which may be kept in
 
 ## Annotations
 
-[^key-c7f05adf08081c22da51629e5fe6dbec]: Commencement: Reg. 26 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)
+[^c-c7f05adf08081c22da51629e5fe6dbec]: Commencement: Reg. 26 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Interpretation[^key-672faca9f51fdd655cfe35c4b530ada2]
+## 2. Interpretation[^c-672faca9f51fdd655cfe35c4b530ada2]
 
 *Extent: E+W*
 
@@ -44,7 +44,7 @@ summary: ''
 - “**commence**” means beginning to carry out any material operation, as defined in section 155 of the 2008 Act (which explains when development begins), comprised in or carried out for the purposes of the authorised development other than the pre–commencement works and the words “commencement” and “commenced” and other cognate expressions are to be construed accordingly;
 - “**commissioning**” means the process of assuring that all systems and components of the authorised development or part of the authorised development (which are installed or installation is near to completion) are tested to verify that they function and are operable in accordance with design objectives, specifications and operational requirements of the undertaker and “commission” and other cognate expressions are to be construed accordingly;
 - “**compulsory acquisition notice**” means a notice served in accordance with section 134 (notice of authorisation of compulsory acquisition) of the 2008 Act;
-- “[^key-5d4c5a37d7b9060c7957366d756c05cc]**Cory group company**” means any company that is a direct or indirect subsidiary of Cory Topco Limited (company number 11385842) including a direct or indirect subsidiary of Cory Environmental Holdings Limited;
+- “[^c-5d4c5a37d7b9060c7957366d756c05cc]**Cory group company**” means any company that is a direct or indirect subsidiary of Cory Topco Limited (company number 11385842) including a direct or indirect subsidiary of Cory Environmental Holdings Limited;
 - “**date of final commissioning**” means the date on which the commissioning of the authorised development (or any part of the authorised development as the context requires) is completed as notified as such by the undertaker to the relevant planning authority pursuant to requirement 23 of Schedule 2 (requirements);
 - “**Defra biodiversity off–setting metric**” means the mechanism published by the Department for Environment, Food and Rural Affairs in 2012 to quantify impacts on biodiversity, which allows biodiversity losses and gains affecting different habitats to be compared and ensures offsets are sufficient to compensate for residual losses of biodiversity;
 - “**design principles**” means the document of that description referred to in Schedule 11 certified by the Secretary of State as the design principles for the purposes of this Order under article 40 (certification of plans etc.);
@@ -83,7 +83,7 @@ summary: ''
 - “**requirements**” means those matters set out in Schedule 2 to this Order;
 - “**Riverside Energy Park Limited**” means the company of that name (company number 11536739) whose registered address is Level 5, 10 Dominion Street, London, England, EC2M 2EF;
 - “**RRRF**” means the Riverside Energy from Waste Facility known as Riverside Resource Recovery Facility located at Norman Road, Belvedere, Kent;
-- “[^key-de314172ed3e421d396f2e64d50fae6f]**RRRF 2021 condition**” means a condition to the RRRF 2021 planning permission and where a condition is referred to by a number, that reference is to the corresponding numbered condition on the RRRF 2021 planning permission;
+- “[^c-de314172ed3e421d396f2e64d50fae6f]**RRRF 2021 condition**” means a condition to the RRRF 2021 planning permission and where a condition is referred to by a number, that reference is to the corresponding numbered condition on the RRRF 2021 planning permission;
 - “**RRRF 2021 planning permission**” means the planning permission deemed to be granted under the 1990 Act by the Secretary of State for the RRRF and dated 17th December 2021;
 - “**RRRF condition**” means a condition to the RRRF planning permission and where a condition is referred to by a number, that reference is to the corresponding numbered condition on the RRRF planning permission;
 - “**RRRF planning permission**” means the planning permission granted under the 1990 Act by the relevant planning authority for the RRRF and given reference number 16/02167/FUL;
@@ -117,7 +117,7 @@ summary: ''
 
 ## Annotations
 
-[^key-672faca9f51fdd655cfe35c4b530ada2]: Commencement: Art. 2 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
+[^c-672faca9f51fdd655cfe35c4b530ada2]: Commencement: Art. 2 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
 
 [^c24052441]: Marginal citation: [1961 c.33](https://www.legislation.gov.uk/ukpga/1961/33).
 
@@ -135,13 +135,13 @@ summary: ''
 
 [^c24052511]: Marginal citation: [2008 c.29](https://www.legislation.gov.uk/ukpga/2008/29).
 
-[^key-5d4c5a37d7b9060c7957366d756c05cc]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/419/article/2/1) inserted (10.3.2021) by [The Riverside Energy Park (Correction) Order 2021 (S.I. 2021/273)](https://www.legislation.gov.uk/uksi/2021/273), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/273/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/273/schedule)
+[^c-5d4c5a37d7b9060c7957366d756c05cc]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/419/article/2/1) inserted (10.3.2021) by [The Riverside Energy Park (Correction) Order 2021 (S.I. 2021/273)](https://www.legislation.gov.uk/uksi/2021/273), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/273/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/273/schedule)
 
 [^c24052521]: Marginal citation: [S.I. 2016/1154](https://www.legislation.gov.uk/uksi/2016/1154).
 
 [^c24052531]: Marginal citation: 1981\. c.67. Section 7 was amended by paragraph 9 of Schedule 15 to the [Planning and Compensation Act 1991 (c.34)](https://www.legislation.gov.uk/ukpga/1991/34). There are other amendments to this section which are not relevant to this Order.
 
-[^key-de314172ed3e421d396f2e64d50fae6f]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/419/article/2/1) inserted (17.2.2023) by [The Riverside Energy Park (Amendment) Order 2023 (S.I. 2023/165)](https://www.legislation.gov.uk/uksi/2023/165), [arts. 1](https://www.legislation.gov.uk/uksi/2023/165/article/1), [3](https://www.legislation.gov.uk/uksi/2023/165/article/3)
+[^c-de314172ed3e421d396f2e64d50fae6f]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/419/article/2/1) inserted (17.2.2023) by [The Riverside Energy Park (Amendment) Order 2023 (S.I. 2023/165)](https://www.legislation.gov.uk/uksi/2023/165), [arts. 1](https://www.legislation.gov.uk/uksi/2023/165/article/1), [3](https://www.legislation.gov.uk/uksi/2023/165/article/3)
 
 [^c24052541]: Marginal citation: [1989 c.29](https://www.legislation.gov.uk/ukpga/1989/29)
 

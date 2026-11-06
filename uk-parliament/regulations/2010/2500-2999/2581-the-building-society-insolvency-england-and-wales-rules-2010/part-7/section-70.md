@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 70. Negotiable instruments, etc.[^key-30b63b50cb5ec2f18fea8303d84196e6]
+## 70. Negotiable instruments, etc.[^c-30b63b50cb5ec2f18fea8303d84196e6]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.87 of the 1986 Rules.
 
 ## Annotations
 
-[^key-30b63b50cb5ec2f18fea8303d84196e6]: Commencement: Rule 70 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-30b63b50cb5ec2f18fea8303d84196e6]: Commencement: Rule 70 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

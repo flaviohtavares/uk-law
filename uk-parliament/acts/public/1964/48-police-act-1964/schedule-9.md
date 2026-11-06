@@ -30,7 +30,7 @@ Section 63
 | [^c11167231]. . . | [^c11167231]. . . |
 | [^c11167251]. . . | [^c11167251]. . . |
 | The [^c11167271]Metropolitan Police Act 1886. | In section 2 for the words “Minister of Health” there shall be substituted the words “Secretary of State”. |
-| [^key-9e29ae387cf2dcc1fb948793bfdd3375]. . . | [^key-9e29ae387cf2dcc1fb948793bfdd3375]. . . |
+| [^c-9e29ae387cf2dcc1fb948793bfdd3375]. . . | [^c-9e29ae387cf2dcc1fb948793bfdd3375]. . . |
 | The [^c11167291]Metropolitan Police (Reciever) Act 1895. | In section 1 for the words “absent from his duties” there shall be substituted the words “unable to act whether by reason of absence or otherwise”. |
 | [^c11167301]. . . | [^c11167301]. . . |
 | [^c11167311]. . . | [^c11167311] . . . |
@@ -45,7 +45,7 @@ Section 63
 | [^c11167191]. . . | [^c11167191]. . . |
 | The [^c11167451]Local Government Act 1958. | In section 60(2), after the words “the Act of 1933” there shall be inserted the words “or of any order under Part I of the Police Act 1964”; and for the words “that Act” there shall be substituted the words “the Act of 1933”. |
 | [^c11167191]. . . | [^c11167191]. . . |
-| [^key-d5b6113ac41cba01044375a810737b37]. . . | [^key-d5b6113ac41cba01044375a810737b37]. . . |
+| [^c-d5b6113ac41cba01044375a810737b37]. . . | [^c-d5b6113ac41cba01044375a810737b37]. . . |
 
 ## Annotations
 
@@ -61,7 +61,7 @@ Section 63
 
 [^c11167271]: Marginal citation: 49 & 50 Vict. 22
 
-[^key-9e29ae387cf2dcc1fb948793bfdd3375]: Textual amendment: Sch. 9 entry omitted (6.4.2017) by virtue of [Riot Compensation Act 2016 (c. 8)](https://www.legislation.gov.uk/ukpga/2016/8), [ss. 10(3)(a)](https://www.legislation.gov.uk/ukpga/2016/8/section/10/3/a), [12(1)](https://www.legislation.gov.uk/ukpga/2016/8/section/12/1)[(2)](https://www.legislation.gov.uk/ukpga/2016/8/section/12/2); [S.I. 2017/379](https://www.legislation.gov.uk/uksi/2017/379), [reg. 2](https://www.legislation.gov.uk/uksi/2017/379/regulation/2)
+[^c-9e29ae387cf2dcc1fb948793bfdd3375]: Textual amendment: Sch. 9 entry omitted (6.4.2017) by virtue of [Riot Compensation Act 2016 (c. 8)](https://www.legislation.gov.uk/ukpga/2016/8), [ss. 10(3)(a)](https://www.legislation.gov.uk/ukpga/2016/8/section/10/3/a), [12(1)](https://www.legislation.gov.uk/ukpga/2016/8/section/12/1)[(2)](https://www.legislation.gov.uk/ukpga/2016/8/section/12/2); [S.I. 2017/379](https://www.legislation.gov.uk/uksi/2017/379), [reg. 2](https://www.legislation.gov.uk/uksi/2017/379/regulation/2)
 
 [^c11167291]: Marginal citation: 58 & 59 Vict c. 12
 
@@ -79,4 +79,4 @@ Section 63
 
 [^c11167451]: Marginal citation: 6 & 7 Eliz. 2. c. 55
 
-[^key-d5b6113ac41cba01044375a810737b37]: Textual amendment: Sch. 9 entry repealed (1.9.2007) by [Gambling Act 2005 (c. 19)](https://www.legislation.gov.uk/ukpga/2005/19), [s. 358(1)](https://www.legislation.gov.uk/ukpga/2005/19/section/358/1), [Sch. 17](https://www.legislation.gov.uk/ukpga/2005/19/schedule/17) (with [ss. 352](https://www.legislation.gov.uk/ukpga/2005/19/section/352), [354](https://www.legislation.gov.uk/ukpga/2005/19/section/354)); [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(4)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/4)[(5)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/5), [Sch. 3B](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3B) (with Sch. 4 (as amended by [S.I. 2007/1157](https://www.legislation.gov.uk/uksi/2007/1157), arts. 7-12; [S.I. 2007/2169](https://www.legislation.gov.uk/uksi/2007/2169), arts. 7-11)) (as inserted by [S.I. 2007/2169](https://www.legislation.gov.uk/uksi/2007/2169), arts. 3, 6, Sch.)
+[^c-d5b6113ac41cba01044375a810737b37]: Textual amendment: Sch. 9 entry repealed (1.9.2007) by [Gambling Act 2005 (c. 19)](https://www.legislation.gov.uk/ukpga/2005/19), [s. 358(1)](https://www.legislation.gov.uk/ukpga/2005/19/section/358/1), [Sch. 17](https://www.legislation.gov.uk/ukpga/2005/19/schedule/17) (with [ss. 352](https://www.legislation.gov.uk/ukpga/2005/19/section/352), [354](https://www.legislation.gov.uk/ukpga/2005/19/section/354)); [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(4)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/4)[(5)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/5), [Sch. 3B](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3B) (with Sch. 4 (as amended by [S.I. 2007/1157](https://www.legislation.gov.uk/uksi/2007/1157), arts. 7-12; [S.I. 2007/2169](https://www.legislation.gov.uk/uksi/2007/2169), arts. 7-11)) (as inserted by [S.I. 2007/2169](https://www.legislation.gov.uk/uksi/2007/2169), arts. 3, 6, Sch.)

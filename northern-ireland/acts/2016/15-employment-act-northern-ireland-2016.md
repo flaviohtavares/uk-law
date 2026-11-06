@@ -38,7 +38,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 ## Industrial tribunals
 
-### 1. Conciliation before and after institution of proceedings[^key-a0a94faa9afba5039ce0b0903735807f]
+### 1. Conciliation before and after institution of proceedings[^c-a0a94faa9afba5039ce0b0903735807f]
 
 (1) After Article 20 of the Industrial Tribunals (Northern Ireland) Order 1996 insert—
 
@@ -132,11 +132,11 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 (2) Schedule 1 (conciliation: minor and consequential amendments) shall have effect.
 
-### 2. Extension of limitation periods to allow conciliation[^key-6efbbf7c654ab3ac49750e5509f76624]
+### 2. Extension of limitation periods to allow conciliation[^c-6efbbf7c654ab3ac49750e5509f76624]
 
 Schedule 2 (extension of limitation periods to allow for conciliation) shall have effect.
 
-### 3. Extended power to define “relevant proceedings” for conciliation purposes[^key-a851460952067d80813e7411f5e9871b]
+### 3. Extended power to define “relevant proceedings” for conciliation purposes[^c-a851460952067d80813e7411f5e9871b]
 
 (1) Article 20 of the Industrial Tribunals (Northern Ireland) Order 1996 (conciliation) is amended as follows.
 
@@ -153,7 +153,7 @@ Schedule 2 (extension of limitation periods to allow for conciliation) shall hav
 
 .
 
-### 4. Power to require party to proceedings to pay deposit[^key-8a60d9dd823b894eb545b2abd1d75e57]
+### 4. Power to require party to proceedings to pay deposit[^c-8a60d9dd823b894eb545b2abd1d75e57]
 
 (1) Article 11 of the Industrial Tribunals (Northern Ireland) Order 1996 (pre-hearing reviews and preliminary matters), in paragraph (2)(a) (power to require party to proceedings to pay deposit)—
 
@@ -171,7 +171,7 @@ Schedule 2 (extension of limitation periods to allow for conciliation) shall hav
 
 ## Fair Employment Tribunal
 
-### 5. Conciliation before and after complaint to Fair Employment Tribunal[^key-deca0b18fb613cebb4a521547e4df5ec]
+### 5. Conciliation before and after complaint to Fair Employment Tribunal[^c-deca0b18fb613cebb4a521547e4df5ec]
 
 (1) The Fair Employment and Treatment (Northern Ireland) Order 1998 is amended as follows.
 
@@ -261,7 +261,7 @@ Schedule 2 (extension of limitation periods to allow for conciliation) shall hav
 - (c) in Article 88A (conciliation: recovery of sums payable under compromises), in paragraph (1)(a)(i), for “Article 88” substitute “ any of Articles 88ZA to 88ZC ”;
 - (d) in Article 100 (restrictions on contracting out), in paragraph (2)(a), for “Article 88(1) or (2)” substitute “ any of Articles 88ZA to 88ZC ”.
 
-### 6. Extension of time limit to allow conciliation[^key-417c7506e282144068425ec5aebf6c5e]
+### 6. Extension of time limit to allow conciliation[^c-417c7506e282144068425ec5aebf6c5e]
 
 (1) In Article 46 of the Fair Employment and Treatment (Northern Ireland) Order 1998 (period within which proceedings must be brought), in paragraph (1), for “to Article 46A” substitute “ and to Articles 46A and 46B ”.
 
@@ -286,7 +286,7 @@ Schedule 2 (extension of limitation periods to allow for conciliation) shall hav
 
 .
 
-### 7. Power to require party to proceedings to pay deposit[^key-0106eafc223f77d2367e6650a667c0d1]
+### 7. Power to require party to proceedings to pay deposit[^c-0106eafc223f77d2367e6650a667c0d1]
 
 (1) In Article 84B of the Fair Employment and Treatment (Northern Ireland) Order 1998 (pre-hearing reviews and preliminary matters), in paragraph (2)(a) (power to require party to proceedings to pay deposit)—
 
@@ -316,7 +316,7 @@ Schedule 2 (extension of limitation periods to allow for conciliation) shall hav
 
 ## Reviews
 
-### 9. Review of early conciliation[^key-179c0399ccf03f4fa93404c794c5b603]
+### 9. Review of early conciliation[^c-179c0399ccf03f4fa93404c794c5b603]
 
 (1) The Department must review the operation of—
 
@@ -356,7 +356,7 @@ at the end of the period of one year beginning with the commencement of this sec
 
 ## Employment judges
 
-### 11. Employment judges: industrial tribunals[^key-e34eea9f674fab15f3ffc35c45140c5a]
+### 11. Employment judges: industrial tribunals[^c-e34eea9f674fab15f3ffc35c45140c5a]
 
 In Article 3 of the Industrial Tribunals (Northern Ireland) Order 1996 (industrial tribunals), after paragraph (2) add—
 
@@ -369,17 +369,17 @@ In Article 3 of the Industrial Tribunals (Northern Ireland) Order 1996 (industri
 
 .
 
-### 12. Employment judges: Fair Employment Tribunal[^key-b01f327b8f1af05b1f4bd3bc0be9e99f]
+### 12. Employment judges: Fair Employment Tribunal[^c-b01f327b8f1af05b1f4bd3bc0be9e99f]
 
 In Article 82 of the Fair Employment and Treatment (Northern Ireland) Order 1998 (President, Vice-President and Chairmen), in paragraph (5), after the words “regulations under Article 81” add “ and regulations under that Article may provide that a person so appointed may be referred to as an employment judge ”.
 
 ## Protected disclosures
 
-### 13. Disclosures not protected unless believed to be made in the public interest[^key-7abde429805d0fe0a3f99d9f04fc0c32]
+### 13. Disclosures not protected unless believed to be made in the public interest[^c-7abde429805d0fe0a3f99d9f04fc0c32]
 
 In Article 67B of the Employment Rights (Northern Ireland) Order 1996 (disclosures qualifying for protection), in paragraph (1), after “in the reasonable belief of the worker making the disclosure,” insert “ is made in the public interest and ”.
 
-### 14. Power to reduce compensation where disclosure not made in good faith[^key-dfea2948da5f09f617086d21b8684e44]
+### 14. Power to reduce compensation where disclosure not made in good faith[^c-dfea2948da5f09f617086d21b8684e44]
 
 (1) Omit the words “in good faith” in the following provisions of Part 5A of the Employment Rights (Northern Ireland) Order 1996 (protected disclosures)—
 
@@ -419,7 +419,7 @@ In Article 67B of the Employment Rights (Northern Ireland) Order 1996 (disclosur
 
 .
 
-### 15. Protected disclosures: reporting requirements[^key-dcb523873e9694fa341aaa10a2ee8d13]
+### 15. Protected disclosures: reporting requirements[^c-dcb523873e9694fa341aaa10a2ee8d13]
 
 After Article 67F of the Employment Rights (Northern Ireland) Order 1996 (disclosure to prescribed person) insert—
 
@@ -442,7 +442,7 @@ After Article 67F of the Employment Rights (Northern Ireland) Order 1996 (disclo
 
 .
 
-### 16. Worker subjected to detriment by co-worker or agent of employer[^key-718f364bf4646da04fc6a4076ff1cd4c]
+### 16. Worker subjected to detriment by co-worker or agent of employer[^c-718f364bf4646da04fc6a4076ff1cd4c]
 
 (1) In Article 70B of the Employment Rights (Northern Ireland) Order 1996 (protected disclosures), after paragraph (1) insert—
 
@@ -484,7 +484,7 @@ After Article 67F of the Employment Rights (Northern Ireland) Order 1996 (disclo
 
   .
 
-### 17. Extension of meaning of “worker”[^key-6e703c7960fa0e164453fbbd71c94a6e]
+### 17. Extension of meaning of “worker”[^c-6e703c7960fa0e164453fbbd71c94a6e]
 
 (1) Article 67K of the Employment Rights (Northern Ireland) Order 1996 (extension of meaning of “worker”) is amended as follows.
 
@@ -506,7 +506,7 @@ After Article 67F of the Employment Rights (Northern Ireland) Order 1996 (disclo
 
 ## Zero hours workers
 
-### 18. Zero hours workers[^key-05239a32bc47778ab488479969d894fc]
+### 18. Zero hours workers[^c-05239a32bc47778ab488479969d894fc]
 
 After Article 59 of the Employment Rights (Northern Ireland) Order 1996 (meaning of “wages” etc.) insert—
 
@@ -546,7 +546,7 @@ After Article 59 of the Employment Rights (Northern Ireland) Order 1996 (meaning
 
 **Not yet in force.**
 
-### 19. Gender pay gap information[^key-603649f76f902ba534277f798d4119eb]
+### 19. Gender pay gap information[^c-603649f76f902ba534277f798d4119eb]
 
 (1) Employers must, in accordance with regulations to be made by the Department under this section, publish—
 
@@ -587,11 +587,11 @@ After Article 59 of the Employment Rights (Northern Ireland) Order 1996 (meaning
 
 (11) Within 18 months of the day on which this Act receives Royal Assent, the Department must, in consultation with trade unions, publish a strategy including an action plan, on eliminating differences in the pay of male and female employees.
 
-(12)[^key-1f4bff94cdab83ff7fe5c491fc0c4f6d] For the purposes of this section, “the Department” means the Department for Communities.
+(12)[^c-1f4bff94cdab83ff7fe5c491fc0c4f6d] For the purposes of this section, “the Department” means the Department for Communities.
 
 ## Careers guidance
 
-### 20. Careers guidance[^key-8ec58fb69757865fa3e7805f727016eb]
+### 20. Careers guidance[^c-8ec58fb69757865fa3e7805f727016eb]
 
 In section 1 of the Employment and Training Act (Northern Ireland) 1950 (general functions of Department as to employment and training for employment), after subsection (3) insert—
 
@@ -611,7 +611,7 @@ In section 1 of the Employment and Training Act (Northern Ireland) 1950 (general
 
 ## Apprenticeships
 
-### 21. Apprenticeships[^key-5e600b1d23d62f2c970a0ab50861c59c]
+### 21. Apprenticeships[^c-5e600b1d23d62f2c970a0ab50861c59c]
 
 In section 1 of the Employment and Training Act (Northern Ireland) 1950 (general functions of Department as to employment and training for employment), after subsection (7) (inserted by section 20) add—
 
@@ -623,7 +623,7 @@ In section 1 of the Employment and Training Act (Northern Ireland) 1950 (general
 
 ## Miscellaneous
 
-### 22. Indexation of amounts: timing and rounding[^key-7b26346286612fc48ea07dc79d6011ef]
+### 22. Indexation of amounts: timing and rounding[^c-7b26346286612fc48ea07dc79d6011ef]
 
 (1) Article 33 of the Employment Relations (Northern Ireland) Order 1999 (indexation of amounts, etc.) is amended as follows.
 
@@ -644,7 +644,7 @@ In section 1 of the Employment and Training Act (Northern Ireland) 1950 (general
 
 .
 
-### 23. Prohibition on disclosure of information held by the Labour Relations Agency[^key-eba0f67e65738c5a9344d0fe1dd2153b]
+### 23. Prohibition on disclosure of information held by the Labour Relations Agency[^c-eba0f67e65738c5a9344d0fe1dd2153b]
 
 After Article 90A of the Industrial Relations (Northern Ireland) Order 1992 (fees for exercise of functions by the Labour Relations Agency) insert—
 
@@ -686,7 +686,7 @@ After Article 90A of the Industrial Relations (Northern Ireland) Order 1992 (fee
 
 .
 
-### 24. Variation in procedures for certain orders and regulations[^key-08a828ee8f0ec450de605a0f50901f91]
+### 24. Variation in procedures for certain orders and regulations[^c-08a828ee8f0ec450de605a0f50901f91]
 
 (1) Article 251 of the Employment Rights (Northern Ireland) Order 1996 (orders and regulations) is amended as follows.
 
@@ -726,7 +726,7 @@ After Article 90A of the Industrial Relations (Northern Ireland) Order 1992 (fee
 
 .
 
-### 25. Statutory shared parental pay: correction of references[^key-f7c8c900b196a856b5af89c7d81dfac0]
+### 25. Statutory shared parental pay: correction of references[^c-f7c8c900b196a856b5af89c7d81dfac0]
 
 (1) Part 12ZC of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 (statutory shared parental pay) is amended as follows.
 
@@ -744,7 +744,7 @@ for “(2)(h) or, as the case may be, (4)(i)” substitute “ (2)(g) or, as the
 - (c) in sub-paragraph (v) for “(o)” substitute “ (n) ”;
 - (d) in sub-paragraph (vi) for “(p)” substitute “ (o) ”.
 
-### 26. References to tribunal jurisdictions to which Articles 17 and 27 of the Employment (Northern Ireland) Order 2003 apply[^key-267360f0548db9f50205156aeb0218af]
+### 26. References to tribunal jurisdictions to which Articles 17 and 27 of the Employment (Northern Ireland) Order 2003 apply[^c-267360f0548db9f50205156aeb0218af]
 
 (1) In Schedule 2 to the Employment (Northern Ireland) Order 2003 (tribunal jurisdictions to which Article 17 of that Order applies)—
 
@@ -762,7 +762,7 @@ for “(2)(h) or, as the case may be, (4)(i)” substitute “ (2)(g) or, as the
 
 ## Supplementary
 
-### 27. Repeals[^key-49ea62559a98b0184db3d26a3e77c9de][^key-22f40e2f3d7b3d3025c110cd63768802][^key-1949b72312221fcb2c823528c3286ea0][^key-2afd2b131a1ee4cfe3c63a1bc11bf10b]
+### 27. Repeals[^c-49ea62559a98b0184db3d26a3e77c9de][^c-22f40e2f3d7b3d3025c110cd63768802][^c-1949b72312221fcb2c823528c3286ea0][^c-2afd2b131a1ee4cfe3c63a1bc11bf10b]
 
 The statutory provisions set out in Schedule3 are repealed to the extent specified in the second column of that Schedule.
 
@@ -788,13 +788,13 @@ Section 1(2).
 
 ### Employment Rights (Northern Ireland) Order 1996 (NI 16)
 
-**1.**[^key-467b2a0f777aae4733f777826c506344] In Article 245 (restrictions on contracting out), in paragraph (2)(e), for “Article 20” substitute “ any of Articles 20A to 20C ”.
+**1.**[^c-467b2a0f777aae4733f777826c506344] In Article 245 (restrictions on contracting out), in paragraph (2)(e), for “Article 20” substitute “ any of Articles 20A to 20C ”.
 
 ### Industrial Tribunals (Northern Ireland) Order 1996 (NI 18)
 
-**2.**[^key-94e4dfb2156a944af86d780d311bca5a] In Article 9 (industrial tribunal procedure regulations), in paragraph (3ZA)(b), after “form” insert “ (including certificates issued under Article 20A(4)) ”.
+**2.**[^c-94e4dfb2156a944af86d780d311bca5a] In Article 9 (industrial tribunal procedure regulations), in paragraph (3ZA)(b), after “form” insert “ (including certificates issued under Article 20A(4)) ”.
 
-**3.**[^key-d12d40b7571db95dcb76082686615c48] (1) Amend Article 20 (conciliation) as follows.
+**3.**[^c-d12d40b7571db95dcb76082686615c48] (1) Amend Article 20 (conciliation) as follows.
 
 (2) At the end of the heading add “ : relevant proceedings etc. ”.
 
@@ -819,15 +819,15 @@ Section 1(2).
 
 (9) In paragraphs (6) and (7), for “this Article” substitute “ any of Articles 20A to 20C ”.
 
-**4.**[^key-a01dcabbfd949c1dbdf6021c7eb5fb1b] In Article 21A (conciliation: recovery of sums payable under compromises), in paragraph (1)(a)(i), for “Article 20” substitute “ any of Articles 20A to 20C ”.
+**4.**[^c-a01dcabbfd949c1dbdf6021c7eb5fb1b] In Article 21A (conciliation: recovery of sums payable under compromises), in paragraph (1)(a)(i), for “Article 20” substitute “ any of Articles 20A to 20C ”.
 
 ### National Minimum Wage Act 1998 (c. 39)
 
-**5.**[^key-be5f6c63e7f7f285a02f0a100eed98b0] In section 49 (restrictions on contracting out), in subsection (2)(b), for “Article 20” substitute “ any of Articles 20A to 20C ”.
+**5.**[^c-be5f6c63e7f7f285a02f0a100eed98b0] In section 49 (restrictions on contracting out), in subsection (2)(b), for “Article 20” substitute “ any of Articles 20A to 20C ”.
 
 ### Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13)
 
-**6.**[^key-d22883f6fea6988aedf84ecaefea21b9] In section 58 (restrictions on agreements to limit the operation of Part 1 of that Act), in subsection (3), for “Article 20” substitute “ any of Articles 20A to 20C ”.
+**6.**[^c-d22883f6fea6988aedf84ecaefea21b9] In section 58 (restrictions on agreements to limit the operation of Part 1 of that Act), in subsection (3), for “Article 20” substitute “ any of Articles 20A to 20C ”.
 
 ## SCHEDULE 2 — EXTENSION OF LIMITATION PERIODS TO ALLOW FOR CONCILIATION
 
@@ -835,9 +835,9 @@ Section 2.
 
 ### Equal Pay Act (Northern Ireland) 1970 (c. 32)
 
-**1.**[^key-4e139e031e028d7628ebb46360665a99] In section 2ZA (“qualifying date” under section 2(4)), in subsections (3) to (6), for “section ZAA” substitute “ sections 2ZAA and 2ZAB ”.
+**1.**[^c-4e139e031e028d7628ebb46360665a99] In section 2ZA (“qualifying date” under section 2(4)), in subsections (3) to (6), for “section ZAA” substitute “ sections 2ZAA and 2ZAB ”.
 
-**2.**[^key-643a973881dc719c5a783a8719052eb6] After section 2ZAA insert—
+**2.**[^c-643a973881dc719c5a783a8719052eb6] After section 2ZAA insert—
 
 > **2ZAB. Extension of time limits to facilitate conciliation before institution of proceedings**
 >
@@ -858,7 +858,7 @@ Section 2.
 
 ### Sex Discrimination (Northern Ireland) Order 1976 (NI 15)
 
-**3.**[^key-a95cbe71281d15dbb508ab16afe36191] In Article 76 (period within which proceedings must be brought), after paragraph (1) insert—
+**3.**[^c-a95cbe71281d15dbb508ab16afe36191] In Article 76 (period within which proceedings must be brought), after paragraph (1) insert—
 
 > (1A) Article 249B of the Employment Rights (Northern Ireland) Order 1996 (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (1)(a).
 >
@@ -868,19 +868,19 @@ Section 2.
 
 ### Trade Union and Labour Relations (Northern Ireland) Order 1995 (NI 12)
 
-**4.**[^key-6f5784306bf5a556837d009264eb0edf] In Article 33 (complaint of infringement of right under Article 31), after paragraph (2) insert—
+**4.**[^c-6f5784306bf5a556837d009264eb0edf] In Article 33 (complaint of infringement of right under Article 31), after paragraph (2) insert—
 
 > (2A) Article 147A (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2)(a).
 
 .
 
-**5.**[^key-bd8bfe67996044d14a3fef7d28e4d52a] In Article 36 (complaint of infringement of rights under Article 35), after paragraph (1) insert—
+**5.**[^c-bd8bfe67996044d14a3fef7d28e4d52a] In Article 36 (complaint of infringement of rights under Article 35), after paragraph (1) insert—
 
 > (1A) Article 147A (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (1)(a).
 
 .
 
-**6.**[^key-b3250c01ccd2410a1b51db886654ab0d] (1) Article 39 (time limit for proceedings under Article 38) is amended as follows.
+**6.**[^c-b3250c01ccd2410a1b51db886654ab0d] (1) Article 39 (time limit for proceedings under Article 38) is amended as follows.
 
 (2) The existing text becomes paragraph (1).
 
@@ -890,19 +890,19 @@ Section 2.
 
 .
 
-**7.**[^key-5da3646b620c660c76f07ae3e07e4523] In Article 44C (Article 44B: complaint to industrial tribunal), after paragraph (2) insert—
+**7.**[^c-5da3646b620c660c76f07ae3e07e4523] In Article 44C (Article 44B: complaint to industrial tribunal), after paragraph (2) insert—
 
 > (2A) Article 147A (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2)(a).
 
 .
 
-**8.**[^key-957e2316177843a41ad342befcb93569] In Article 61 (complaint in respect of employer's failure under Article 60), after paragraph (2) insert—
+**8.**[^c-957e2316177843a41ad342befcb93569] In Article 61 (complaint in respect of employer's failure under Article 60), after paragraph (2) insert—
 
 > (2A) Article 147A (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2)(a).
 
 .
 
-**9.**[^key-5401818f43e280ef0dd468d105937bb4] After Article 147 (employment governed by foreign law) insert—
+**9.**[^c-5401818f43e280ef0dd468d105937bb4] After Article 147 (employment governed by foreign law) insert—
 
 > **Extension of certain time limits**
 >
@@ -923,7 +923,7 @@ Section 2.
 
 .
 
-**10.**[^key-f9034e9c5453a71a8f06d7a84029eaaa] In Schedule 1A (collective bargaining: recognition), in paragraph 157 (complaint to industrial tribunal: contravention of paragraph 156), after sub-paragraph (3) add—
+**10.**[^c-f9034e9c5453a71a8f06d7a84029eaaa] In Schedule 1A (collective bargaining: recognition), in paragraph 157 (complaint to industrial tribunal: contravention of paragraph 156), after sub-paragraph (3) add—
 
 > (4) Article 147A (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of sub-paragraph (1)(a).
 
@@ -931,7 +931,7 @@ Section 2.
 
 ### Disability Discrimination Act 1995 (c. 50)
 
-**11.**[^key-bc55a6f521c981dca0b28b05524ddadf] In Part 1 of Schedule 3 (enforcement and procedure), in paragraph 3, after sub-paragraph (1) insert—
+**11.**[^c-bc55a6f521c981dca0b28b05524ddadf] In Part 1 of Schedule 3 (enforcement and procedure), in paragraph 3, after sub-paragraph (1) insert—
 
 > (1A) Article 249B of the Employment Rights (Northern Ireland) Order 1996 (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of sub-paragraph (1)(a).
 >
@@ -941,43 +941,43 @@ Section 2.
 
 ### Employment Rights (Northern Ireland) Order 1996 (NI 16)
 
-**12.**[^key-ac41c8f983bfa78e27e96a86abe71831] In Article 28 (complaint to industrial in respect of employer's failure under Article 26 or 27), after paragraph (4) add—
+**12.**[^c-ac41c8f983bfa78e27e96a86abe71831] In Article 28 (complaint to industrial in respect of employer's failure under Article 26 or 27), after paragraph (4) add—
 
 > (5) Article 249B (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2)(a).
 
 .
 
-**13.**[^key-64c2c3f502cf2b8b2d68b57e6d858596] In Article 43 (references to industrial tribunals: contravention of Articles 33, 36 and 40), after paragraph (4) add—
+**13.**[^c-64c2c3f502cf2b8b2d68b57e6d858596] In Article 43 (references to industrial tribunals: contravention of Articles 33, 36 and 40), after paragraph (4) add—
 
 > (5) Article 249B (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (4)(a).
 
 .
 
-**14.**[^key-ed0049abe12a343830a128e751cab685] In Article 55 (complaints to industrial tribunals: contravention of Article 45, 47, 50(1) or 53(1)), after paragraph (2) insert—
+**14.**[^c-ed0049abe12a343830a128e751cab685] In Article 55 (complaints to industrial tribunals: contravention of Article 45, 47, 50(1) or 53(1)), after paragraph (2) insert—
 
 > (2A) Article 249B (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2).
 
 .
 
-**15.**[^key-56b57bf2e9ab95779389733840aa827a] In Article 66 (complaints to industrial tribunals: guarantee payments), after paragraph (2) insert—
+**15.**[^c-56b57bf2e9ab95779389733840aa827a] In Article 66 (complaints to industrial tribunals: guarantee payments), after paragraph (2) insert—
 
 > (2A) Article 249B (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2)(a).
 
 .
 
-**16.**[^key-29d7703b49db5b7abb3116770334fba7] In Article 71 (complaints to industrial tribunals: rights not to suffer detriment), after paragraph (3) insert—
+**16.**[^c-29d7703b49db5b7abb3116770334fba7] In Article 71 (complaints to industrial tribunals: rights not to suffer detriment), after paragraph (3) insert—
 
 > (3A) Article 249B (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (3)(a).
 
 .
 
-**17.**[^key-3c4d9472f39be32743311ee4a5ece0cc] In Article 74 (complaints to industrial tribunal in respect of employer's failure under Article 73), after paragraph (2) insert—
+**17.**[^c-3c4d9472f39be32743311ee4a5ece0cc] In Article 74 (complaints to industrial tribunal in respect of employer's failure under Article 73), after paragraph (2) insert—
 
 > (2A) Article 249B (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2)(a).
 
 .
 
-**18.**[^key-c439f468fe3585910c13ea2bedd29d27] (1) Article 77C (time limit for proceedings under Articles 77A and 77B) is amended as follows.
+**18.**[^c-c439f468fe3585910c13ea2bedd29d27] (1) Article 77C (time limit for proceedings under Articles 77A and 77B) is amended as follows.
 
 (2) The existing text becomes paragraph (1).
 
@@ -987,139 +987,139 @@ Section 2.
 
 .
 
-**19.**[^key-8fb91cdae96bbd21da2c8f92754531c5] In Article 79 (complaints to industrial tribunals: contravention of Article 78), after paragraph (2) insert—
+**19.**[^c-8fb91cdae96bbd21da2c8f92754531c5] In Article 79 (complaints to industrial tribunals: contravention of Article 78), after paragraph (2) insert—
 
 > (2A) Article 249B (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2)(a).
 
 .
 
-**20.**[^key-06ff1f254c7b953558b2801e23dc71dd] In Article 82 (complaints to industrial tribunals: contravention of Article 80 or 81), after paragraph (2) insert—
+**20.**[^c-06ff1f254c7b953558b2801e23dc71dd] In Article 82 (complaints to industrial tribunals: contravention of Article 80 or 81), after paragraph (2) insert—
 
 > (2A) Article 249B (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2)(a).
 
 .
 
-**21.**[^key-465f1ded3a2079cf4b85621ed2de8d65] In Article 85 (complaints to industrial tribunals: contravention of Article 83 or 84), after paragraph (2) insert—
+**21.**[^c-465f1ded3a2079cf4b85621ed2de8d65] In Article 85 (complaints to industrial tribunals: contravention of Article 83 or 84), after paragraph (2) insert—
 
 > (2A) Article 249B (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2)(a).
 
 .
 
-**22.**[^key-808d7683a40f2e291a8ff2db9b8a6811] In Article 85ZC (complaints to industrial tribunals: contravention of Article 85ZA or 85ZB), after paragraph (3) insert—
+**22.**[^c-808d7683a40f2e291a8ff2db9b8a6811] In Article 85ZC (complaints to industrial tribunals: contravention of Article 85ZA or 85ZB), after paragraph (3) insert—
 
 > (3A) Article 249B (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (3).
 
 .
 
-**23.**[^key-46f089418906528915679a66a79790f4] In Article 85ZF (right to time off to accompany to ante-natal appointments), after paragraph (2) insert—
+**23.**[^c-46f089418906528915679a66a79790f4] In Article 85ZF (right to time off to accompany to ante-natal appointments), after paragraph (2) insert—
 
 > (2A) Article 249B (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2)(a).
 
 .
 
-**24.**[^key-cf06348b40b3da322a07d7f82cf72e1a] In Article 85ZH (complaint to industrial tribunal: agency workers), after paragraph (3) insert—
+**24.**[^c-cf06348b40b3da322a07d7f82cf72e1a] In Article 85ZH (complaint to industrial tribunal: agency workers), after paragraph (3) insert—
 
 > (3A) Article 249B (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (3)(a).
 
 .
 
-**25.**[^key-5ae32834d26040b0c77e7f0dd7f6d3fa] In Article 85ZM (complaint to industrial tribunal: contravention of Article 85ZJ, 85ZK or 85ZL), after paragraph (2) insert—
+**25.**[^c-5ae32834d26040b0c77e7f0dd7f6d3fa] In Article 85ZM (complaint to industrial tribunal: contravention of Article 85ZJ, 85ZK or 85ZL), after paragraph (2) insert—
 
 > (2A) Article 249B (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2)(a).
 
 .
 
-**26.**[^key-820b0769cfad8bfe52f4133418498108] In Article 85ZQ (complaint to industrial tribunal: contravention of Article 85ZN, 85ZO or 85ZP), after paragraph (3) insert—
+**26.**[^c-820b0769cfad8bfe52f4133418498108] In Article 85ZQ (complaint to industrial tribunal: contravention of Article 85ZN, 85ZO or 85ZP), after paragraph (3) insert—
 
 > (3A) Article 249B (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (3)(a).
 
 .
 
-**27.**[^key-81ddbf8b88469adea69ac221aff3a5f8] In Article 85B (complaints to industrial tribunals: contravention of Article 85A), after paragraph (2) insert—
+**27.**[^c-81ddbf8b88469adea69ac221aff3a5f8] In Article 85B (complaints to industrial tribunals: contravention of Article 85A), after paragraph (2) insert—
 
 > (2A) Article 249B (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2)(a).
 
 .
 
-**28.**[^key-ba5ed2034e010fb3236a679cb43cfd61] In Article 88 (complaints to industrial tribunals: contravention of Article 86 or 87), after paragraph (2) insert—
+**28.**[^c-ba5ed2034e010fb3236a679cb43cfd61] In Article 88 (complaints to industrial tribunals: contravention of Article 86 or 87), after paragraph (2) insert—
 
 > (2A) Article 249B (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2)(a).
 
 .
 
-**29.**[^key-27848b471f3141cb1c7680d346f62c70] In Article 91 (complaints to industrial tribunals: contravention of Article 89 or 90), after paragraph (2) insert—
+**29.**[^c-27848b471f3141cb1c7680d346f62c70] In Article 91 (complaints to industrial tribunals: contravention of Article 89 or 90), after paragraph (2) insert—
 
 > (2A) Article 249B (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2)(a).
 
 .
 
-**30.**[^key-6ede3c2eb14b461420887238467429a3] In Article 91C (complaints to industrial tribunals: contravention of Article 91A or 91B), after paragraph (2) insert—
+**30.**[^c-6ede3c2eb14b461420887238467429a3] In Article 91C (complaints to industrial tribunals: contravention of Article 91A or 91B), after paragraph (2) insert—
 
 > (2A) Article 249B (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2)(a).
 
 .
 
-**31.**[^key-375a766496f7f69d559d6091828688fe] In Article 95 (complaints to industrial tribunals in respect of employer's failure under Articles 92 to 94), after paragraph (2) insert—
+**31.**[^c-375a766496f7f69d559d6091828688fe] In Article 95 (complaints to industrial tribunals in respect of employer's failure under Articles 92 to 94), after paragraph (2) insert—
 
 > (2A) Article 249B (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2)(a).
 
 .
 
-**32.**[^key-7b98f656aa107fe6dbe5d5506a633992] In Article 95F (complaints to industrial tribunals: contravention of Article 95C(4), (5) or (6) or 95F(1)(b)), after paragraph (5) insert—
+**32.**[^c-7b98f656aa107fe6dbe5d5506a633992] In Article 95F (complaints to industrial tribunals: contravention of Article 95C(4), (5) or (6) or 95F(1)(b)), after paragraph (5) insert—
 
 > (5A) Article 249B (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (5)(a).
 
 .
 
-**33.**[^key-91c35d6279d818bc27ed87f017363651] In Article 102 (complaints to industrial tribunals: contravention of Articles 96 or 100), after paragraph (2) insert—
+**33.**[^c-91c35d6279d818bc27ed87f017363651] In Article 102 (complaints to industrial tribunals: contravention of Articles 96 or 100), after paragraph (2) insert—
 
 > (2A) Article 249B (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2)(a).
 
 .
 
-**34.**[^key-e4fb989846755089fa1db4a3ffded4c0] In Article 102A (complaints to industrial tribunals: contravention of Article 100C), after paragraph (2) insert—
+**34.**[^c-e4fb989846755089fa1db4a3ffded4c0] In Article 102A (complaints to industrial tribunals: contravention of Article 100C), after paragraph (2) insert—
 
 > (2A) Article 249B (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2)(a).
 
 .
 
-**35.**[^key-222021c2ae1fccb3a7df2b5dbda671a8] In Article 112 (complaints to industrial tribunals: parental leave), after paragraph (2) insert—
+**35.**[^c-222021c2ae1fccb3a7df2b5dbda671a8] In Article 112 (complaints to industrial tribunals: parental leave), after paragraph (2) insert—
 
 > (2A) Article 249B (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2)(a).
 
 .
 
-**36.**[^key-c1fec11a7e7bd59a28e53a1e6e4529c5] In Article 112H (complaints to industrial tribunals: contravention of Article 112G(1) or 112H(1)(b)), after paragraph (6) add—
+**36.**[^c-c1fec11a7e7bd59a28e53a1e6e4529c5] In Article 112H (complaints to industrial tribunals: contravention of Article 112G(1) or 112H(1)(b)), after paragraph (6) add—
 
 > (7) Article 249B (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (5)(a).
 
 .
 
-**37.**[^key-aefde2113ab562549d0bd5da6f9d089d] In Article 145 (complaints to industrial tribunals: unfair dismissal), after paragraph (2) insert—
+**37.**[^c-aefde2113ab562549d0bd5da6f9d089d] In Article 145 (complaints to industrial tribunals: unfair dismissal), after paragraph (2) insert—
 
 > (2A) Article 249B (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2)(a).
 
 .
 
-**38.**[^key-78b3cdbac82f23a331b11143f38cbcc2] In Article 199 (claims for redundancy payment), after paragraph (3) add—
+**38.**[^c-78b3cdbac82f23a331b11143f38cbcc2] In Article 199 (claims for redundancy payment), after paragraph (3) add—
 
 > (4) Article 249B (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraphs (1)(c) and (2).
 
 .
 
-**39.**[^key-ad2361faf50a5dbca7679e9d4de0e82b] In Article 217 (complaint in respect of failure to comply with Article 216 or 216A), after paragraph (5) insert—
+**39.**[^c-ad2361faf50a5dbca7679e9d4de0e82b] In Article 217 (complaint in respect of failure to comply with Article 216 or 216A), after paragraph (5) insert—
 
 > (5A) Article 249B (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (5)(b).
 
 .
 
-**40.**[^key-f71b06220734d91ca40c2bea4e6cf39a] In Article 220 (complaint by employee to industrial tribunal), after paragraph (2) insert—
+**40.**[^c-f71b06220734d91ca40c2bea4e6cf39a] In Article 220 (complaint by employee to industrial tribunal), after paragraph (2) insert—
 
 > (2A) Article 249B (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2)(a).
 
 .
 
-**41.**[^key-0afdd3f09c1a3e8df5b474d751a94490] After Article 249A (time limits in relation to certain mediated cross-border disputes) insert—
+**41.**[^c-0afdd3f09c1a3e8df5b474d751a94490] After Article 249A (time limits in relation to certain mediated cross-border disputes) insert—
 
 > **Extension of certain time limits**
 >
@@ -1144,7 +1144,7 @@ Section 2.
 
 ### Race Relations (Northern Ireland) Order 1997 (NI 6)
 
-**42.**[^key-fd2b95c56dd98f5976d280e868b39f39] In Article 65 (period within which proceedings to be brought), after paragraph (1) insert—
+**42.**[^c-fd2b95c56dd98f5976d280e868b39f39] In Article 65 (period within which proceedings to be brought), after paragraph (1) insert—
 
 > (1A) Article 249B of the Employment Rights (Northern Ireland) Order 1996 (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (1)(a).
 >
@@ -1154,7 +1154,7 @@ Section 2.
 
 ### National Minimum Wage Act 1998 (c. 39)
 
-**43.**[^key-9dfcdcd0ff54e5a1c39685a3e4260cd3] In section 11 (failure of employer to allow access to records), after subsection (4A) insert—
+**43.**[^c-9dfcdcd0ff54e5a1c39685a3e4260cd3] In section 11 (failure of employer to allow access to records), after subsection (4A) insert—
 
 > (4B) Where the complaint is presented to an industrial tribunal in Northern Ireland, Article 249B of the Employment Rights (Northern Ireland) Order 1996 applies for the purposes of subsection (3) and that subsection and this subsection are to be treated as provisions of that Order for the purposes of that Article.
 
@@ -1162,7 +1162,7 @@ Section 2.
 
 ### Employment Relations (Northern Ireland) Order 1999 (NI 9)
 
-**44.**[^key-cae1340125fd8a87375f30a742a75abc] In Article 13 (complaint to industrial tribunal), after paragraph (2) insert—
+**44.**[^c-cae1340125fd8a87375f30a742a75abc] In Article 13 (complaint to industrial tribunal), after paragraph (2) insert—
 
 > (2A) Article 249B of the Employment Rights Order (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2)(a).
 >
@@ -1170,7 +1170,7 @@ Section 2.
 
 .
 
-## SCHEDULE 3 — REPEALS[^key-d19902bd3dae54497a1c80cfdd302f0f][^key-ba53eed9912fb881289fe10b951a9cd0][^key-55ca7b1e509fe401d9f0a993ad9cf669][^key-13fce2a4c97ddfd6c68f12f3f2e7702d]
+## SCHEDULE 3 — REPEALS[^c-d19902bd3dae54497a1c80cfdd302f0f][^c-ba53eed9912fb881289fe10b951a9cd0][^c-55ca7b1e509fe401d9f0a993ad9cf669][^c-13fce2a4c97ddfd6c68f12f3f2e7702d]
 
 Section 27.
 
@@ -1200,168 +1200,168 @@ Section 27.
 
 ## Annotations
 
-[^key-a0a94faa9afba5039ce0b0903735807f]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2016/15/section/1) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(a)](https://www.legislation.gov.uk/nisr/2020/1/article/2/a)
+[^c-a0a94faa9afba5039ce0b0903735807f]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2016/15/section/1) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(a)](https://www.legislation.gov.uk/nisr/2020/1/article/2/a)
 
-[^key-6efbbf7c654ab3ac49750e5509f76624]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2016/15/section/2) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(b)](https://www.legislation.gov.uk/nisr/2020/1/article/2/b)
+[^c-6efbbf7c654ab3ac49750e5509f76624]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2016/15/section/2) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(b)](https://www.legislation.gov.uk/nisr/2020/1/article/2/b)
 
-[^key-a851460952067d80813e7411f5e9871b]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2016/15/section/3) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(c)](https://www.legislation.gov.uk/nisr/2020/1/article/2/c)
+[^c-a851460952067d80813e7411f5e9871b]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2016/15/section/3) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(c)](https://www.legislation.gov.uk/nisr/2020/1/article/2/c)
 
-[^key-8a60d9dd823b894eb545b2abd1d75e57]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2016/15/section/4) in operation at 20.9.2021 by [S.R. 2021/253](https://www.legislation.gov.uk/nisr/2021/253), [art. 2(a)](https://www.legislation.gov.uk/nisr/2021/253/article/2/a)
+[^c-8a60d9dd823b894eb545b2abd1d75e57]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2016/15/section/4) in operation at 20.9.2021 by [S.R. 2021/253](https://www.legislation.gov.uk/nisr/2021/253), [art. 2(a)](https://www.legislation.gov.uk/nisr/2021/253/article/2/a)
 
-[^key-deca0b18fb613cebb4a521547e4df5ec]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2016/15/section/5) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(d)](https://www.legislation.gov.uk/nisr/2020/1/article/2/d)
+[^c-deca0b18fb613cebb4a521547e4df5ec]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2016/15/section/5) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(d)](https://www.legislation.gov.uk/nisr/2020/1/article/2/d)
 
-[^key-417c7506e282144068425ec5aebf6c5e]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2016/15/section/6) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(e)](https://www.legislation.gov.uk/nisr/2020/1/article/2/e)
+[^c-417c7506e282144068425ec5aebf6c5e]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2016/15/section/6) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(e)](https://www.legislation.gov.uk/nisr/2020/1/article/2/e)
 
-[^key-0106eafc223f77d2367e6650a667c0d1]: Commencement: [S. 7](https://www.legislation.gov.uk/nia/2016/15/section/7) in operation at 20.9.2021 by [S.R. 2021/253](https://www.legislation.gov.uk/nisr/2021/253), [art. 2(b)](https://www.legislation.gov.uk/nisr/2021/253/article/2/b)
+[^c-0106eafc223f77d2367e6650a667c0d1]: Commencement: [S. 7](https://www.legislation.gov.uk/nia/2016/15/section/7) in operation at 20.9.2021 by [S.R. 2021/253](https://www.legislation.gov.uk/nisr/2021/253), [art. 2(b)](https://www.legislation.gov.uk/nisr/2021/253/article/2/b)
 
-[^key-179c0399ccf03f4fa93404c794c5b603]: Commencement: [S. 9](https://www.legislation.gov.uk/nia/2016/15/section/9) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(f)](https://www.legislation.gov.uk/nisr/2020/1/article/2/f)
+[^c-179c0399ccf03f4fa93404c794c5b603]: Commencement: [S. 9](https://www.legislation.gov.uk/nia/2016/15/section/9) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(f)](https://www.legislation.gov.uk/nisr/2020/1/article/2/f)
 
-[^key-e34eea9f674fab15f3ffc35c45140c5a]: Commencement: [S. 11](https://www.legislation.gov.uk/nia/2016/15/section/11) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(g)](https://www.legislation.gov.uk/nisr/2020/1/article/2/g)
+[^c-e34eea9f674fab15f3ffc35c45140c5a]: Commencement: [S. 11](https://www.legislation.gov.uk/nia/2016/15/section/11) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(g)](https://www.legislation.gov.uk/nisr/2020/1/article/2/g)
 
-[^key-b01f327b8f1af05b1f4bd3bc0be9e99f]: Commencement: [S. 12](https://www.legislation.gov.uk/nia/2016/15/section/12) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(h)](https://www.legislation.gov.uk/nisr/2020/1/article/2/h)
+[^c-b01f327b8f1af05b1f4bd3bc0be9e99f]: Commencement: [S. 12](https://www.legislation.gov.uk/nia/2016/15/section/12) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(h)](https://www.legislation.gov.uk/nisr/2020/1/article/2/h)
 
-[^key-7abde429805d0fe0a3f99d9f04fc0c32]: Commencement: [S. 13](https://www.legislation.gov.uk/nia/2016/15/section/13) in operation at 1.10.2017 by [S.R. 2017/199](https://www.legislation.gov.uk/nisr/2017/199), [art. 2(1)](https://www.legislation.gov.uk/nisr/2017/199/article/2/1)
+[^c-7abde429805d0fe0a3f99d9f04fc0c32]: Commencement: [S. 13](https://www.legislation.gov.uk/nia/2016/15/section/13) in operation at 1.10.2017 by [S.R. 2017/199](https://www.legislation.gov.uk/nisr/2017/199), [art. 2(1)](https://www.legislation.gov.uk/nisr/2017/199/article/2/1)
 
-[^key-dfea2948da5f09f617086d21b8684e44]: Commencement: [S. 14](https://www.legislation.gov.uk/nia/2016/15/section/14) in operation at 1.10.2017 by [S.R. 2017/199](https://www.legislation.gov.uk/nisr/2017/199), [art. 2(1)](https://www.legislation.gov.uk/nisr/2017/199/article/2/1)
+[^c-dfea2948da5f09f617086d21b8684e44]: Commencement: [S. 14](https://www.legislation.gov.uk/nia/2016/15/section/14) in operation at 1.10.2017 by [S.R. 2017/199](https://www.legislation.gov.uk/nisr/2017/199), [art. 2(1)](https://www.legislation.gov.uk/nisr/2017/199/article/2/1)
 
-[^key-dcb523873e9694fa341aaa10a2ee8d13]: Commencement: [S. 15](https://www.legislation.gov.uk/nia/2016/15/section/15) in operation at 1.10.2017 by [S.R. 2017/199](https://www.legislation.gov.uk/nisr/2017/199), [art. 2(1)](https://www.legislation.gov.uk/nisr/2017/199/article/2/1)
+[^c-dcb523873e9694fa341aaa10a2ee8d13]: Commencement: [S. 15](https://www.legislation.gov.uk/nia/2016/15/section/15) in operation at 1.10.2017 by [S.R. 2017/199](https://www.legislation.gov.uk/nisr/2017/199), [art. 2(1)](https://www.legislation.gov.uk/nisr/2017/199/article/2/1)
 
-[^key-718f364bf4646da04fc6a4076ff1cd4c]: Commencement: [S. 16](https://www.legislation.gov.uk/nia/2016/15/section/16) in operation at 1.10.2017 by [S.R. 2017/199](https://www.legislation.gov.uk/nisr/2017/199), [art. 2(1)](https://www.legislation.gov.uk/nisr/2017/199/article/2/1)
+[^c-718f364bf4646da04fc6a4076ff1cd4c]: Commencement: [S. 16](https://www.legislation.gov.uk/nia/2016/15/section/16) in operation at 1.10.2017 by [S.R. 2017/199](https://www.legislation.gov.uk/nisr/2017/199), [art. 2(1)](https://www.legislation.gov.uk/nisr/2017/199/article/2/1)
 
-[^key-6e703c7960fa0e164453fbbd71c94a6e]: Commencement: [S. 17](https://www.legislation.gov.uk/nia/2016/15/section/17) in operation at 1.10.2017 by [S.R. 2017/199](https://www.legislation.gov.uk/nisr/2017/199), [art. 2(1)](https://www.legislation.gov.uk/nisr/2017/199/article/2/1)
+[^c-6e703c7960fa0e164453fbbd71c94a6e]: Commencement: [S. 17](https://www.legislation.gov.uk/nia/2016/15/section/17) in operation at 1.10.2017 by [S.R. 2017/199](https://www.legislation.gov.uk/nisr/2017/199), [art. 2(1)](https://www.legislation.gov.uk/nisr/2017/199/article/2/1)
 
-[^key-05239a32bc47778ab488479969d894fc]: Commencement: [S. 18](https://www.legislation.gov.uk/nia/2016/15/section/18) in operation at 20.9.2021 by [S.R. 2021/253](https://www.legislation.gov.uk/nisr/2021/253), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/253/article/2/c)
+[^c-05239a32bc47778ab488479969d894fc]: Commencement: [S. 18](https://www.legislation.gov.uk/nia/2016/15/section/18) in operation at 20.9.2021 by [S.R. 2021/253](https://www.legislation.gov.uk/nisr/2021/253), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/253/article/2/c)
 
-[^key-603649f76f902ba534277f798d4119eb]: Modification: S. 19: Transfer of functions (2.6.2021) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2021 (S.R. 2021/114)](https://www.legislation.gov.uk/nisr/2021/114), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2021/114/article/1/2), [3](https://www.legislation.gov.uk/nisr/2021/114/article/3) (with [art. 2(2)(a)](https://www.legislation.gov.uk/nisr/2021/114/article/2/2/a)[(b)](https://www.legislation.gov.uk/nisr/2021/114/article/2/2/b))
+[^c-603649f76f902ba534277f798d4119eb]: Modification: S. 19: Transfer of functions (2.6.2021) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2021 (S.R. 2021/114)](https://www.legislation.gov.uk/nisr/2021/114), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2021/114/article/1/2), [3](https://www.legislation.gov.uk/nisr/2021/114/article/3) (with [art. 2(2)(a)](https://www.legislation.gov.uk/nisr/2021/114/article/2/2/a)[(b)](https://www.legislation.gov.uk/nisr/2021/114/article/2/2/b))
 
-[^key-1f4bff94cdab83ff7fe5c491fc0c4f6d]: Textual amendment: [S. 19(12)](https://www.legislation.gov.uk/nia/2016/15/section/19/12) substituted (2.6.2021) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2021 (S.R. 2021/114)](https://www.legislation.gov.uk/nisr/2021/114), [art. 1(2)](https://www.legislation.gov.uk/nisr/2021/114/article/1/2), [Sch. para. 1](https://www.legislation.gov.uk/nisr/2021/114/schedule/paragraph/1) (with [art. 2(2)(a)](https://www.legislation.gov.uk/nisr/2021/114/article/2/2/a)[(b)](https://www.legislation.gov.uk/nisr/2021/114/article/2/2/b))
+[^c-1f4bff94cdab83ff7fe5c491fc0c4f6d]: Textual amendment: [S. 19(12)](https://www.legislation.gov.uk/nia/2016/15/section/19/12) substituted (2.6.2021) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2021 (S.R. 2021/114)](https://www.legislation.gov.uk/nisr/2021/114), [art. 1(2)](https://www.legislation.gov.uk/nisr/2021/114/article/1/2), [Sch. para. 1](https://www.legislation.gov.uk/nisr/2021/114/schedule/paragraph/1) (with [art. 2(2)(a)](https://www.legislation.gov.uk/nisr/2021/114/article/2/2/a)[(b)](https://www.legislation.gov.uk/nisr/2021/114/article/2/2/b))
 
-[^key-8ec58fb69757865fa3e7805f727016eb]: Commencement: [S. 20](https://www.legislation.gov.uk/nia/2016/15/section/20) in operation at 20.9.2021 by [S.R. 2021/253](https://www.legislation.gov.uk/nisr/2021/253), [art. 2(d)](https://www.legislation.gov.uk/nisr/2021/253/article/2/d)
+[^c-8ec58fb69757865fa3e7805f727016eb]: Commencement: [S. 20](https://www.legislation.gov.uk/nia/2016/15/section/20) in operation at 20.9.2021 by [S.R. 2021/253](https://www.legislation.gov.uk/nisr/2021/253), [art. 2(d)](https://www.legislation.gov.uk/nisr/2021/253/article/2/d)
 
-[^key-5e600b1d23d62f2c970a0ab50861c59c]: Commencement: [S. 21](https://www.legislation.gov.uk/nia/2016/15/section/21) in operation at 20.9.2021 by [S.R. 2021/253](https://www.legislation.gov.uk/nisr/2021/253), [art. 2(e)](https://www.legislation.gov.uk/nisr/2021/253/article/2/e)
+[^c-5e600b1d23d62f2c970a0ab50861c59c]: Commencement: [S. 21](https://www.legislation.gov.uk/nia/2016/15/section/21) in operation at 20.9.2021 by [S.R. 2021/253](https://www.legislation.gov.uk/nisr/2021/253), [art. 2(e)](https://www.legislation.gov.uk/nisr/2021/253/article/2/e)
 
-[^key-7b26346286612fc48ea07dc79d6011ef]: Commencement: [S. 22](https://www.legislation.gov.uk/nia/2016/15/section/22) in operation at 30.3.2018 by [S.R. 2018/79](https://www.legislation.gov.uk/nisr/2018/79), [art. 2(1)](https://www.legislation.gov.uk/nisr/2018/79/article/2/1)
+[^c-7b26346286612fc48ea07dc79d6011ef]: Commencement: [S. 22](https://www.legislation.gov.uk/nia/2016/15/section/22) in operation at 30.3.2018 by [S.R. 2018/79](https://www.legislation.gov.uk/nisr/2018/79), [art. 2(1)](https://www.legislation.gov.uk/nisr/2018/79/article/2/1)
 
-[^key-eba0f67e65738c5a9344d0fe1dd2153b]: Commencement: [S. 23](https://www.legislation.gov.uk/nia/2016/15/section/23) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(i)](https://www.legislation.gov.uk/nisr/2020/1/article/2/i)
+[^c-eba0f67e65738c5a9344d0fe1dd2153b]: Commencement: [S. 23](https://www.legislation.gov.uk/nia/2016/15/section/23) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(i)](https://www.legislation.gov.uk/nisr/2020/1/article/2/i)
 
-[^key-08a828ee8f0ec450de605a0f50901f91]: Commencement: [S. 24](https://www.legislation.gov.uk/nia/2016/15/section/24) in operation at 20.9.2021 by [S.R. 2021/253](https://www.legislation.gov.uk/nisr/2021/253), [art. 2(f)](https://www.legislation.gov.uk/nisr/2021/253/article/2/f)
+[^c-08a828ee8f0ec450de605a0f50901f91]: Commencement: [S. 24](https://www.legislation.gov.uk/nia/2016/15/section/24) in operation at 20.9.2021 by [S.R. 2021/253](https://www.legislation.gov.uk/nisr/2021/253), [art. 2(f)](https://www.legislation.gov.uk/nisr/2021/253/article/2/f)
 
-[^key-f7c8c900b196a856b5af89c7d81dfac0]: Commencement: [S. 25](https://www.legislation.gov.uk/nia/2016/15/section/25) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(j)](https://www.legislation.gov.uk/nisr/2020/1/article/2/j)
+[^c-f7c8c900b196a856b5af89c7d81dfac0]: Commencement: [S. 25](https://www.legislation.gov.uk/nia/2016/15/section/25) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(j)](https://www.legislation.gov.uk/nisr/2020/1/article/2/j)
 
-[^key-267360f0548db9f50205156aeb0218af]: Commencement: [S. 26](https://www.legislation.gov.uk/nia/2016/15/section/26) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(k)](https://www.legislation.gov.uk/nisr/2020/1/article/2/k)
+[^c-267360f0548db9f50205156aeb0218af]: Commencement: [S. 26](https://www.legislation.gov.uk/nia/2016/15/section/26) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(k)](https://www.legislation.gov.uk/nisr/2020/1/article/2/k)
 
-[^key-49ea62559a98b0184db3d26a3e77c9de]: Commencement: [S. 27](https://www.legislation.gov.uk/nia/2016/15/section/27) in operation at 1.10.2017 for specified purposes by [S.R. 2017/199](https://www.legislation.gov.uk/nisr/2017/199), [art. 2(2)](https://www.legislation.gov.uk/nisr/2017/199/article/2/2)
+[^c-49ea62559a98b0184db3d26a3e77c9de]: Commencement: [S. 27](https://www.legislation.gov.uk/nia/2016/15/section/27) in operation at 1.10.2017 for specified purposes by [S.R. 2017/199](https://www.legislation.gov.uk/nisr/2017/199), [art. 2(2)](https://www.legislation.gov.uk/nisr/2017/199/article/2/2)
 
-[^key-22f40e2f3d7b3d3025c110cd63768802]: Commencement: [S. 27](https://www.legislation.gov.uk/nia/2016/15/section/27) in operation at 30.3.2018 for specified purposes by [S.R. 2018/79](https://www.legislation.gov.uk/nisr/2018/79), [art. 2(2)](https://www.legislation.gov.uk/nisr/2018/79/article/2/2)
+[^c-22f40e2f3d7b3d3025c110cd63768802]: Commencement: [S. 27](https://www.legislation.gov.uk/nia/2016/15/section/27) in operation at 30.3.2018 for specified purposes by [S.R. 2018/79](https://www.legislation.gov.uk/nisr/2018/79), [art. 2(2)](https://www.legislation.gov.uk/nisr/2018/79/article/2/2)
 
-[^key-1949b72312221fcb2c823528c3286ea0]: Commencement: [S. 27](https://www.legislation.gov.uk/nia/2016/15/section/27) in operation at 27.1.2020 for specified purposes by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(l)](https://www.legislation.gov.uk/nisr/2020/1/article/2/l)
+[^c-1949b72312221fcb2c823528c3286ea0]: Commencement: [S. 27](https://www.legislation.gov.uk/nia/2016/15/section/27) in operation at 27.1.2020 for specified purposes by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(l)](https://www.legislation.gov.uk/nisr/2020/1/article/2/l)
 
-[^key-2afd2b131a1ee4cfe3c63a1bc11bf10b]: Commencement: [S. 27](https://www.legislation.gov.uk/nia/2016/15/section/27) in operation at 20.9.2021 in so far as not already in operation by [S.R. 2021/253](https://www.legislation.gov.uk/nisr/2021/253), [art. 2(g)](https://www.legislation.gov.uk/nisr/2021/253/article/2/g)
+[^c-2afd2b131a1ee4cfe3c63a1bc11bf10b]: Commencement: [S. 27](https://www.legislation.gov.uk/nia/2016/15/section/27) in operation at 20.9.2021 in so far as not already in operation by [S.R. 2021/253](https://www.legislation.gov.uk/nisr/2021/253), [art. 2(g)](https://www.legislation.gov.uk/nisr/2021/253/article/2/g)
 
-[^key-467b2a0f777aae4733f777826c506344]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nia/2016/15/schedule/1/paragraph/1) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(m)](https://www.legislation.gov.uk/nisr/2020/1/article/2/m)
+[^c-467b2a0f777aae4733f777826c506344]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nia/2016/15/schedule/1/paragraph/1) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(m)](https://www.legislation.gov.uk/nisr/2020/1/article/2/m)
 
-[^key-94e4dfb2156a944af86d780d311bca5a]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nia/2016/15/schedule/1/paragraph/2) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(m)](https://www.legislation.gov.uk/nisr/2020/1/article/2/m)
+[^c-94e4dfb2156a944af86d780d311bca5a]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nia/2016/15/schedule/1/paragraph/2) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(m)](https://www.legislation.gov.uk/nisr/2020/1/article/2/m)
 
-[^key-d12d40b7571db95dcb76082686615c48]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nia/2016/15/schedule/1/paragraph/3) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(m)](https://www.legislation.gov.uk/nisr/2020/1/article/2/m)
+[^c-d12d40b7571db95dcb76082686615c48]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nia/2016/15/schedule/1/paragraph/3) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(m)](https://www.legislation.gov.uk/nisr/2020/1/article/2/m)
 
-[^key-a01dcabbfd949c1dbdf6021c7eb5fb1b]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/nia/2016/15/schedule/1/paragraph/4) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(m)](https://www.legislation.gov.uk/nisr/2020/1/article/2/m)
+[^c-a01dcabbfd949c1dbdf6021c7eb5fb1b]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/nia/2016/15/schedule/1/paragraph/4) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(m)](https://www.legislation.gov.uk/nisr/2020/1/article/2/m)
 
-[^key-be5f6c63e7f7f285a02f0a100eed98b0]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/nia/2016/15/schedule/1/paragraph/5) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(m)](https://www.legislation.gov.uk/nisr/2020/1/article/2/m)
+[^c-be5f6c63e7f7f285a02f0a100eed98b0]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/nia/2016/15/schedule/1/paragraph/5) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(m)](https://www.legislation.gov.uk/nisr/2020/1/article/2/m)
 
-[^key-d22883f6fea6988aedf84ecaefea21b9]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/nia/2016/15/schedule/1/paragraph/6) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(m)](https://www.legislation.gov.uk/nisr/2020/1/article/2/m)
+[^c-d22883f6fea6988aedf84ecaefea21b9]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/nia/2016/15/schedule/1/paragraph/6) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(m)](https://www.legislation.gov.uk/nisr/2020/1/article/2/m)
 
-[^key-4e139e031e028d7628ebb46360665a99]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/1) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
+[^c-4e139e031e028d7628ebb46360665a99]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/1) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
 
-[^key-643a973881dc719c5a783a8719052eb6]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/2) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
+[^c-643a973881dc719c5a783a8719052eb6]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/2) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
 
-[^key-a95cbe71281d15dbb508ab16afe36191]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/3) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
+[^c-a95cbe71281d15dbb508ab16afe36191]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/3) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
 
-[^key-6f5784306bf5a556837d009264eb0edf]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/4) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
+[^c-6f5784306bf5a556837d009264eb0edf]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/4) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
 
-[^key-bd8bfe67996044d14a3fef7d28e4d52a]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/5) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
+[^c-bd8bfe67996044d14a3fef7d28e4d52a]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/5) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
 
-[^key-b3250c01ccd2410a1b51db886654ab0d]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/6) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
+[^c-b3250c01ccd2410a1b51db886654ab0d]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/6) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
 
-[^key-5da3646b620c660c76f07ae3e07e4523]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/7) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
+[^c-5da3646b620c660c76f07ae3e07e4523]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/7) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
 
-[^key-957e2316177843a41ad342befcb93569]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/8) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
+[^c-957e2316177843a41ad342befcb93569]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/8) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
 
-[^key-5401818f43e280ef0dd468d105937bb4]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/9) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
+[^c-5401818f43e280ef0dd468d105937bb4]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/9) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
 
-[^key-f9034e9c5453a71a8f06d7a84029eaaa]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/10) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
+[^c-f9034e9c5453a71a8f06d7a84029eaaa]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/10) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
 
-[^key-bc55a6f521c981dca0b28b05524ddadf]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/11) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
+[^c-bc55a6f521c981dca0b28b05524ddadf]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/11) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
 
-[^key-ac41c8f983bfa78e27e96a86abe71831]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/12) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
+[^c-ac41c8f983bfa78e27e96a86abe71831]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/12) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
 
-[^key-64c2c3f502cf2b8b2d68b57e6d858596]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/13) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
+[^c-64c2c3f502cf2b8b2d68b57e6d858596]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/13) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
 
-[^key-ed0049abe12a343830a128e751cab685]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/14) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
+[^c-ed0049abe12a343830a128e751cab685]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/14) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
 
-[^key-56b57bf2e9ab95779389733840aa827a]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/15) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
+[^c-56b57bf2e9ab95779389733840aa827a]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/15) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
 
-[^key-29d7703b49db5b7abb3116770334fba7]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/16) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
+[^c-29d7703b49db5b7abb3116770334fba7]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/16) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
 
-[^key-3c4d9472f39be32743311ee4a5ece0cc]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/17) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
+[^c-3c4d9472f39be32743311ee4a5ece0cc]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/17) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
 
-[^key-c439f468fe3585910c13ea2bedd29d27]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/18) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
+[^c-c439f468fe3585910c13ea2bedd29d27]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/18) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
 
-[^key-8fb91cdae96bbd21da2c8f92754531c5]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/19) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
+[^c-8fb91cdae96bbd21da2c8f92754531c5]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/19) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
 
-[^key-06ff1f254c7b953558b2801e23dc71dd]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/20) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
+[^c-06ff1f254c7b953558b2801e23dc71dd]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/20) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
 
-[^key-465f1ded3a2079cf4b85621ed2de8d65]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/21) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
+[^c-465f1ded3a2079cf4b85621ed2de8d65]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/21) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
 
-[^key-808d7683a40f2e291a8ff2db9b8a6811]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/22) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
+[^c-808d7683a40f2e291a8ff2db9b8a6811]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/22) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
 
-[^key-46f089418906528915679a66a79790f4]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/23) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
+[^c-46f089418906528915679a66a79790f4]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/23) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
 
-[^key-cf06348b40b3da322a07d7f82cf72e1a]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/24) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
+[^c-cf06348b40b3da322a07d7f82cf72e1a]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/24) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
 
-[^key-5ae32834d26040b0c77e7f0dd7f6d3fa]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/25) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
+[^c-5ae32834d26040b0c77e7f0dd7f6d3fa]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/25) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
 
-[^key-820b0769cfad8bfe52f4133418498108]: Commencement: [Sch. 2 para. 26](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/26) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
+[^c-820b0769cfad8bfe52f4133418498108]: Commencement: [Sch. 2 para. 26](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/26) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
 
-[^key-81ddbf8b88469adea69ac221aff3a5f8]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/27) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
+[^c-81ddbf8b88469adea69ac221aff3a5f8]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/27) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
 
-[^key-ba5ed2034e010fb3236a679cb43cfd61]: Commencement: [Sch. 2 para. 28](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/28) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
+[^c-ba5ed2034e010fb3236a679cb43cfd61]: Commencement: [Sch. 2 para. 28](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/28) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
 
-[^key-27848b471f3141cb1c7680d346f62c70]: Commencement: [Sch. 2 para. 29](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/29) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
+[^c-27848b471f3141cb1c7680d346f62c70]: Commencement: [Sch. 2 para. 29](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/29) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
 
-[^key-6ede3c2eb14b461420887238467429a3]: Commencement: [Sch. 2 para. 30](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/30) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
+[^c-6ede3c2eb14b461420887238467429a3]: Commencement: [Sch. 2 para. 30](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/30) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
 
-[^key-375a766496f7f69d559d6091828688fe]: Commencement: [Sch. 2 para. 31](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/31) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
+[^c-375a766496f7f69d559d6091828688fe]: Commencement: [Sch. 2 para. 31](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/31) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
 
-[^key-7b98f656aa107fe6dbe5d5506a633992]: Commencement: [Sch. 2 para. 32](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/32) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
+[^c-7b98f656aa107fe6dbe5d5506a633992]: Commencement: [Sch. 2 para. 32](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/32) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
 
-[^key-91c35d6279d818bc27ed87f017363651]: Commencement: [Sch. 2 para. 33](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/33) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
+[^c-91c35d6279d818bc27ed87f017363651]: Commencement: [Sch. 2 para. 33](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/33) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
 
-[^key-e4fb989846755089fa1db4a3ffded4c0]: Commencement: [Sch. 2 para. 34](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/34) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
+[^c-e4fb989846755089fa1db4a3ffded4c0]: Commencement: [Sch. 2 para. 34](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/34) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
 
-[^key-222021c2ae1fccb3a7df2b5dbda671a8]: Commencement: [Sch. 2 para. 35](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/35) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
+[^c-222021c2ae1fccb3a7df2b5dbda671a8]: Commencement: [Sch. 2 para. 35](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/35) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
 
-[^key-c1fec11a7e7bd59a28e53a1e6e4529c5]: Commencement: [Sch. 2 para. 36](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/36) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
+[^c-c1fec11a7e7bd59a28e53a1e6e4529c5]: Commencement: [Sch. 2 para. 36](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/36) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
 
-[^key-aefde2113ab562549d0bd5da6f9d089d]: Commencement: [Sch. 2 para. 37](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/37) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
+[^c-aefde2113ab562549d0bd5da6f9d089d]: Commencement: [Sch. 2 para. 37](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/37) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
 
-[^key-78b3cdbac82f23a331b11143f38cbcc2]: Commencement: [Sch. 2 para. 38](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/38) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
+[^c-78b3cdbac82f23a331b11143f38cbcc2]: Commencement: [Sch. 2 para. 38](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/38) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
 
-[^key-ad2361faf50a5dbca7679e9d4de0e82b]: Commencement: [Sch. 2 para. 39](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/39) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
+[^c-ad2361faf50a5dbca7679e9d4de0e82b]: Commencement: [Sch. 2 para. 39](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/39) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
 
-[^key-f71b06220734d91ca40c2bea4e6cf39a]: Commencement: [Sch. 2 para. 40](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/40) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
+[^c-f71b06220734d91ca40c2bea4e6cf39a]: Commencement: [Sch. 2 para. 40](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/40) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
 
-[^key-0afdd3f09c1a3e8df5b474d751a94490]: Commencement: [Sch. 2 para. 41](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/41) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
+[^c-0afdd3f09c1a3e8df5b474d751a94490]: Commencement: [Sch. 2 para. 41](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/41) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
 
-[^key-fd2b95c56dd98f5976d280e868b39f39]: Commencement: [Sch. 2 para. 42](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/42) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
+[^c-fd2b95c56dd98f5976d280e868b39f39]: Commencement: [Sch. 2 para. 42](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/42) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
 
-[^key-9dfcdcd0ff54e5a1c39685a3e4260cd3]: Commencement: [Sch. 2 para. 43](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/43) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
+[^c-9dfcdcd0ff54e5a1c39685a3e4260cd3]: Commencement: [Sch. 2 para. 43](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/43) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
 
-[^key-cae1340125fd8a87375f30a742a75abc]: Commencement: [Sch. 2 para. 44](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/44) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
+[^c-cae1340125fd8a87375f30a742a75abc]: Commencement: [Sch. 2 para. 44](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/44) in operation at 27.1.2020 by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
 
-[^key-d19902bd3dae54497a1c80cfdd302f0f]: Commencement: [Sch. 3](https://www.legislation.gov.uk/nia/2016/15/schedule/3) in operation at 1.10.2017 for specified purposes by [S.R. 2017/199](https://www.legislation.gov.uk/nisr/2017/199), [art. 2(2)](https://www.legislation.gov.uk/nisr/2017/199/article/2/2)
+[^c-d19902bd3dae54497a1c80cfdd302f0f]: Commencement: [Sch. 3](https://www.legislation.gov.uk/nia/2016/15/schedule/3) in operation at 1.10.2017 for specified purposes by [S.R. 2017/199](https://www.legislation.gov.uk/nisr/2017/199), [art. 2(2)](https://www.legislation.gov.uk/nisr/2017/199/article/2/2)
 
-[^key-ba53eed9912fb881289fe10b951a9cd0]: Commencement: [Sch. 3](https://www.legislation.gov.uk/nia/2016/15/schedule/3) in operation at 30.3.2018 for specified purposes by [S.R. 2018/79](https://www.legislation.gov.uk/nisr/2018/79), [art. 2(2)](https://www.legislation.gov.uk/nisr/2018/79/article/2/2)
+[^c-ba53eed9912fb881289fe10b951a9cd0]: Commencement: [Sch. 3](https://www.legislation.gov.uk/nia/2016/15/schedule/3) in operation at 30.3.2018 for specified purposes by [S.R. 2018/79](https://www.legislation.gov.uk/nisr/2018/79), [art. 2(2)](https://www.legislation.gov.uk/nisr/2018/79/article/2/2)
 
-[^key-55ca7b1e509fe401d9f0a993ad9cf669]: Commencement: [Sch. 3](https://www.legislation.gov.uk/nia/2016/15/schedule/3) in operation at 27.1.2020 for specified purposes by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(o)](https://www.legislation.gov.uk/nisr/2020/1/article/2/o)
+[^c-55ca7b1e509fe401d9f0a993ad9cf669]: Commencement: [Sch. 3](https://www.legislation.gov.uk/nia/2016/15/schedule/3) in operation at 27.1.2020 for specified purposes by [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(o)](https://www.legislation.gov.uk/nisr/2020/1/article/2/o)
 
-[^key-13fce2a4c97ddfd6c68f12f3f2e7702d]: Commencement: [Sch. 3](https://www.legislation.gov.uk/nia/2016/15/schedule/3) in operation at 20.9.2021 in so far as not already in operation by [S.R. 2021/253](https://www.legislation.gov.uk/nisr/2021/253), [art. 2(h)](https://www.legislation.gov.uk/nisr/2021/253/article/2/h)
+[^c-13fce2a4c97ddfd6c68f12f3f2e7702d]: Commencement: [Sch. 3](https://www.legislation.gov.uk/nia/2016/15/schedule/3) in operation at 20.9.2021 in so far as not already in operation by [S.R. 2021/253](https://www.legislation.gov.uk/nisr/2021/253), [art. 2(h)](https://www.legislation.gov.uk/nisr/2021/253/article/2/h)

@@ -88,7 +88,7 @@ up to such amounts as the Minister may with the approval of the Treasury determi
 
 (5A)[^c632177] For the purposes of this section—
 
-- (a) a person is a disabled person if he is a disabled person for the purposes of the Equality Act 2010[^key-c3e029d9550ece03eb9505c787aa2512]; and
+- (a) a person is a disabled person if he is a disabled person for the purposes of the Equality Act 2010[^c-c3e029d9550ece03eb9505c787aa2512]; and
 - (b) “ **disability** ” has the same meaning as in that Act.
 
 (6) Expenses incurred by the Minister under this section shall be defrayed out of moneys provided by Parliament.
@@ -242,7 +242,7 @@ There shall be paid by the Minister out of moneys provided by Parliament to the 
 
 [^c632177]: Textual amendment: S. 15(5A) inserted (2.12.1996) by [1995 c. 50](https://www.legislation.gov.uk/ukpga/1995/50), [s. 61(5)](https://www.legislation.gov.uk/ukpga/1995/50/section/61/5) (with [ss. 59](https://www.legislation.gov.uk/ukpga/1995/50/section/59), [64](https://www.legislation.gov.uk/ukpga/1995/50/section/64), [65](https://www.legislation.gov.uk/ukpga/1995/50/section/65)); [S.I. 1996/1474](https://www.legislation.gov.uk/uksi/1996/1474), [art. 2(3)](https://www.legislation.gov.uk/uksi/1996/1474/article/2/3), [Sch. Pt. III](https://www.legislation.gov.uk/uksi/1996/1474/schedule/part/III)
 
-[^key-c3e029d9550ece03eb9505c787aa2512]: Textual amendment: Words in s. 15(5A) substituted by 2010 c. 15 Sch. 26 Pt. 1 para. 1 (as inserted (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/1/paragraph/2) (see S.I. 2010/2317, art. 2))
+[^c-c3e029d9550ece03eb9505c787aa2512]: Textual amendment: Words in s. 15(5A) substituted by 2010 c. 15 Sch. 26 Pt. 1 para. 1 (as inserted (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/1/paragraph/2) (see S.I. 2010/2317, art. 2))
 
 [^c632183]: Textual amendment: [S. 16](https://www.legislation.gov.uk/ukpga/Geo6/7-8/10/section/16) renumbered as s. 16(1) (2.12.1996) by [1995 c. 50](https://www.legislation.gov.uk/ukpga/1995/50), [s. 61(6)](https://www.legislation.gov.uk/ukpga/1995/50/section/61/6) (with [ss. 59](https://www.legislation.gov.uk/ukpga/1995/50/section/59), [64](https://www.legislation.gov.uk/ukpga/1995/50/section/64), [65](https://www.legislation.gov.uk/ukpga/1995/50/section/65)); [S.I. 1996/1474](https://www.legislation.gov.uk/uksi/1996/1474), [art. 2(3)](https://www.legislation.gov.uk/uksi/1996/1474/article/2/3), [Sch. Pt. III](https://www.legislation.gov.uk/uksi/1996/1474/schedule/part/III)
 

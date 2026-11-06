@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 261ZA. Statements by accused[^key-c7cf9141907a8cdf22c1e861e9b26586]
+## 261ZA. Statements by accused[^c-c7cf9141907a8cdf22c1e861e9b26586]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c7cf9141907a8cdf22c1e861e9b26586]: Textual amendment: S. 261ZA inserted (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [ss. 109(1)](https://www.legislation.gov.uk/asp/2016/1/section/109/1), [117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule) (with [art. 9](https://www.legislation.gov.uk/ssi/2017/345/article/9))
+[^c-c7cf9141907a8cdf22c1e861e9b26586]: Textual amendment: S. 261ZA inserted (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [ss. 109(1)](https://www.legislation.gov.uk/asp/2016/1/section/109/1), [117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule) (with [art. 9](https://www.legislation.gov.uk/ssi/2017/345/article/9))

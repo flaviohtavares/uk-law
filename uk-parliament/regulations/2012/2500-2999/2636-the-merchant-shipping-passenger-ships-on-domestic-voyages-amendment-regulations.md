@@ -48,11 +48,11 @@ Coming into force
 
 The Secretary of State, after consulting the persons referred to in section 86(4) of the Merchant Shipping Act 1995[^f00001]makes the following Regulations in exercise of the powers conferred by sections 85(1)(a) and (b), (3) and (7) and 86(1) of that Act:
 
-## 1. Citation and commencement[^key-ba1b314e065a3d089a5659f0db3eab51]
+## 1. Citation and commencement[^c-ba1b314e065a3d089a5659f0db3eab51]
 
 These Regulations may be cited as the Merchant Shipping (Passenger Ships on Domestic Voyages)(Amendment) Regulations 2012 and come into force on 16th November 2012.
 
-## 2. Amendment of the Merchant Shipping (Survey and Certification) Regulations 1995[^key-85e58279de8484cd1e38880699170dbf]
+## 2. Amendment of the Merchant Shipping (Survey and Certification) Regulations 1995[^c-85e58279de8484cd1e38880699170dbf]
 
 (1) The Merchant Shipping (Survey and Certification) Regulations 1995[^f00002] are amended as follows.
 
@@ -99,7 +99,7 @@ These Regulations may be cited as the Merchant Shipping (Passenger Ships on Dome
 
 .
 
-## 3. Amendment to the Merchant Shipping (Passenger Ships on Domestic Voyages) Regulations 2000[^key-378d193d6c62dfe6c982ad6da234941f]
+## 3. Amendment to the Merchant Shipping (Passenger Ships on Domestic Voyages) Regulations 2000[^c-378d193d6c62dfe6c982ad6da234941f]
 
 (1) The Merchant Shipping (Passenger Ships on Domestic Voyages) Regulations 2000[^f00004] are amended as follows.
 
@@ -158,7 +158,7 @@ These Regulations may be cited as the Merchant Shipping (Passenger Ships on Dome
 
 .
 
-## 4. Amendment of the Merchant Shipping (High Speed Craft) Regulations 2004[^key-7a265e03abd3525d73655cf920ae7a2b]
+## 4. Amendment of the Merchant Shipping (High Speed Craft) Regulations 2004[^c-7a265e03abd3525d73655cf920ae7a2b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -192,18 +192,18 @@ An impact assessment of the effect these Regulations will have on the costs of t
 
 [^f00001]: Footnote: [1995 c.21](https://www.legislation.gov.uk/ukpga/1995/21). Subsection 85(1) was amended by section 8(2) of the Merchant Shipping and Maritime Security Act [1997 c.28](https://www.legislation.gov.uk/ukpga/1997/28).
 
-[^key-ba1b314e065a3d089a5659f0db3eab51]: Commencement: Reg. 1 in force at 16.11.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2636/regulation/1)
+[^c-ba1b314e065a3d089a5659f0db3eab51]: Commencement: Reg. 1 in force at 16.11.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2636/regulation/1)
 
-[^key-85e58279de8484cd1e38880699170dbf]: Commencement: Reg. 2 in force at 16.11.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2636/regulation/1)
+[^c-85e58279de8484cd1e38880699170dbf]: Commencement: Reg. 2 in force at 16.11.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2636/regulation/1)
 
 [^f00002]: Footnote: [S.I.1995/1210](https://www.legislation.gov.uk/uksi/1995/1210), amended by [S.I. 2000/2687](https://www.legislation.gov.uk/uksi/2000/2687), there are other amending instruments but none is relevant.
 
 [^f00003]: Footnote: O.J. L 163, 25.6.2009, p.1, amended by Commission Directive 2010/36/EU of 1st June 2010, O.J.L 162, 29.6.2010, p.1.
 
-[^key-378d193d6c62dfe6c982ad6da234941f]: Commencement: Reg. 3 in force at 16.11.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2636/regulation/1)
+[^c-378d193d6c62dfe6c982ad6da234941f]: Commencement: Reg. 3 in force at 16.11.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2636/regulation/1)
 
 [^f00004]: Footnote: [S.I.2000/2687](https://www.legislation.gov.uk/uksi/2000/2687), amended by [S.I. 2004/302](https://www.legislation.gov.uk/uksi/2004/302), [S.I.2004/1107](https://www.legislation.gov.uk/uksi/2004/1107) and [2010/680](https://www.legislation.gov.uk/uksi/2010/680); there are other amending instruments but none is relevant.
 
 [^f00005]: Footnote: O.J. L 163, 25.6.2009, p.1, amended by Commission Directive 2010/36/EU of 1st June 2010, O.J.L 162, 29.6.2010, p.1.
 
-[^key-7a265e03abd3525d73655cf920ae7a2b]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2012/2636/regulation/4) revoked (19.12.2022) by [The Merchant Shipping (High Speed Craft) Regulations 2022 (S.I. 2022/1219)](https://www.legislation.gov.uk/uksi/2022/1219), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2022/1219/schedule/part/2) (with [reg. 4(2)-(4)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/4/2))
+[^c-7a265e03abd3525d73655cf920ae7a2b]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2012/2636/regulation/4) revoked (19.12.2022) by [The Merchant Shipping (High Speed Craft) Regulations 2022 (S.I. 2022/1219)](https://www.legislation.gov.uk/uksi/2022/1219), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2022/1219/schedule/part/2) (with [reg. 4(2)-(4)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/4/2))

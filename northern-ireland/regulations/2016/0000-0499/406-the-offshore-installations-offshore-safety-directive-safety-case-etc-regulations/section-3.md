@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 3. Communication and storage of information by electronic means[^key-d3d6c67a7a235fa65953af438d0fdf99]
+## 3. Communication and storage of information by electronic means[^c-d3d6c67a7a235fa65953af438d0fdf99]
 
 *Extent: N.I.*
 
@@ -79,4 +79,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d3d6c67a7a235fa65953af438d0fdf99]: Commencement: Reg. 3 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-d3d6c67a7a235fa65953af438d0fdf99]: Commencement: Reg. 3 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)

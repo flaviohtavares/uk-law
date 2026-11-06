@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20B. Projects with significant transboundary effects[^key-01824b2d26321a17af4b99db3cd68399][^key-69eca98abd5db250ac552fea222ab7ee]
+## 20B. Projects with significant transboundary effects[^c-01824b2d26321a17af4b99db3cd68399][^c-69eca98abd5db250ac552fea222ab7ee]
 
 *Extent: S*
 
@@ -33,7 +33,7 @@ summary: ''
 (3) The factors are—
 
 - (a) population and human health;
-- (b) biodiversity, and in particular species and habitats protected under any law in Scotland that implemented[^key-fe63bb48daa796e9f419a9e6d5fbc7cd] [Directive 92/43/EEC](https://www.legislation.gov.uk/eudr/1992/0043) and [Directive 2009/147/EC](https://www.legislation.gov.uk/eudr/2009/0147) , as amended by Regulation (EU) 2019/1010[^key-4eccd63c207ab219becccd6263d3ce74];
+- (b) biodiversity, and in particular species and habitats protected under any law in Scotland that implemented[^c-fe63bb48daa796e9f419a9e6d5fbc7cd] [Directive 92/43/EEC](https://www.legislation.gov.uk/eudr/1992/0043) and [Directive 2009/147/EC](https://www.legislation.gov.uk/eudr/2009/0147) , as amended by Regulation (EU) 2019/1010[^c-4eccd63c207ab219becccd6263d3ce74];
 - (c) land, soil, water, air and climate, and
 - (d) material assets, cultural heritage and the landscape.
 
@@ -47,10 +47,10 @@ summary: ''
 
 ## Annotations
 
-[^key-01824b2d26321a17af4b99db3cd68399]: Modification: [Ss. 20A-20G](https://www.legislation.gov.uk/ukpga/1984/54/section/20A) power to amend or repeal conferred (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 164(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/164/3), [255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5), [Sch. 14 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/55/schedule/14/part/2) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-01824b2d26321a17af4b99db3cd68399]: Modification: [Ss. 20A-20G](https://www.legislation.gov.uk/ukpga/1984/54/section/20A) power to amend or repeal conferred (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 164(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/164/3), [255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5), [Sch. 14 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/55/schedule/14/part/2) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
-[^key-69eca98abd5db250ac552fea222ab7ee]: Textual amendment: Ss. 20A-20G substituted for ss. 20A, 20B (16.5.2017) by [The Roads (Scotland) Act 1984 (Environmental Impact Assessment) Regulations 2017 (S.S.I. 2017/137)](https://www.legislation.gov.uk/ssi/2017/137), [regs. 1](https://www.legislation.gov.uk/ssi/2017/137/regulation/1), [5](https://www.legislation.gov.uk/ssi/2017/137/regulation/5) (with [reg. 12](https://www.legislation.gov.uk/ssi/2017/137/regulation/12))
+[^c-69eca98abd5db250ac552fea222ab7ee]: Textual amendment: Ss. 20A-20G substituted for ss. 20A, 20B (16.5.2017) by [The Roads (Scotland) Act 1984 (Environmental Impact Assessment) Regulations 2017 (S.S.I. 2017/137)](https://www.legislation.gov.uk/ssi/2017/137), [regs. 1](https://www.legislation.gov.uk/ssi/2017/137/regulation/1), [5](https://www.legislation.gov.uk/ssi/2017/137/regulation/5) (with [reg. 12](https://www.legislation.gov.uk/ssi/2017/137/regulation/12))
 
-[^key-fe63bb48daa796e9f419a9e6d5fbc7cd]: Textual amendment: Words in [s. 20B(3)(b)](https://www.legislation.gov.uk/ukpga/1984/54/section/20B/3/b) inserted (31.12.2020) by [The Environmental Impact Assessment (Transport) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/415)](https://www.legislation.gov.uk/ssi/2019/415), [regs. 1](https://www.legislation.gov.uk/ssi/2019/415/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2019/415/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fe63bb48daa796e9f419a9e6d5fbc7cd]: Textual amendment: Words in [s. 20B(3)(b)](https://www.legislation.gov.uk/ukpga/1984/54/section/20B/3/b) inserted (31.12.2020) by [The Environmental Impact Assessment (Transport) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/415)](https://www.legislation.gov.uk/ssi/2019/415), [regs. 1](https://www.legislation.gov.uk/ssi/2019/415/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2019/415/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4eccd63c207ab219becccd6263d3ce74]: Textual amendment: Words in s. 20B(3)(b) inserted (7.12.2019) by [The Environmental Impact Assessment (Transport) (Scotland) Regulations 2019 (S.S.I. 2019/322)](https://www.legislation.gov.uk/ssi/2019/322), [regs. 1](https://www.legislation.gov.uk/ssi/2019/322/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2019/322/regulation/2/2)
+[^c-4eccd63c207ab219becccd6263d3ce74]: Textual amendment: Words in s. 20B(3)(b) inserted (7.12.2019) by [The Environmental Impact Assessment (Transport) (Scotland) Regulations 2019 (S.S.I. 2019/322)](https://www.legislation.gov.uk/ssi/2019/322), [regs. 1](https://www.legislation.gov.uk/ssi/2019/322/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2019/322/regulation/2/2)

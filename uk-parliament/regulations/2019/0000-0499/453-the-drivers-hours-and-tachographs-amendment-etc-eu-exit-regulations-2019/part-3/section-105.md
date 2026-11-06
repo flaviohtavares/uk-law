@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105. Commission Implementing Regulation (EU) No 2016/799[^key-5a905517934f902d94bfba064dcc8074]
+## 105. Commission Implementing Regulation (EU) No 2016/799[^c-5a905517934f902d94bfba064dcc8074]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Commission Implementing Regulation (EU) No 2016/799, implementing Regulation (EU
 
 ## Annotations
 
-[^key-5a905517934f902d94bfba064dcc8074]: Commencement: Reg. 105 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-5a905517934f902d94bfba064dcc8074]: Commencement: Reg. 105 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)

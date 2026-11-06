@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 15. Contact and access to communications[^key-903c2e35c7abe6bb66bb78a8c4809a84]
+## 15. Contact and access to communications[^c-903c2e35c7abe6bb66bb78a8c4809a84]
 
 *Extent: N.I.*
 
@@ -30,10 +30,10 @@ summary: ''
 - (a) any solicitor or other adviser or advocate acting for the child;
 - (b) any guardian ad litem appointed for him;
 - (c) any social worker for the time being assigned to the child by his placing authority;
-- (cc)[^key-4d06115513fbe74f8ef2cd137ea26259] any independent guardian appointed for the child under section 21 of the Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015;
+- (cc)[^c-4d06115513fbe74f8ef2cd137ea26259] any independent guardian appointed for the child under section 21 of the Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015;
 - (d) any person appointed in respect of any requirement of the procedure specified in the Representations Procedure (Children) Regulations (Northern Ireland) 1996[^f00013];
 - (e) any person appointed as an independent visitor for him;
-- (f) any person authorised by the RQIA[^key-4ca5e5950155e725f54604a422e453f9];
+- (f) any person authorised by the RQIA[^c-4ca5e5950155e725f54604a422e453f9];
 - (g) any person authorised by the HSS trust in whose area the children’s home is situated;
 - (h) any person authorised in accordance with Article 149 of the Children Order (inspection of children’s homes, etc.) by the Department to conduct an inspection of the children’s home and the children there; and
 - (i) the Commissioner.
@@ -58,12 +58,12 @@ summary: ''
 
 ## Annotations
 
-[^key-903c2e35c7abe6bb66bb78a8c4809a84]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2005/176/regulation/15) in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/176/regulation/1)
+[^c-903c2e35c7abe6bb66bb78a8c4809a84]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2005/176/regulation/15) in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/176/regulation/1)
 
-[^key-4d06115513fbe74f8ef2cd137ea26259]: Textual amendment: [Reg. 15(2)(cc)](https://www.legislation.gov.uk/nisr/2005/176/regulation/15/2/cc) inserted (19.12.2016) by [The Human Trafficking and Exploitation (Criminal Justice and Support for Victims) (Independent Guardian) Regulations (Northern Ireland) 2016 (S.R. 2016/410)](https://www.legislation.gov.uk/nisr/2016/410), [regs. 1](https://www.legislation.gov.uk/nisr/2016/410/regulation/1), [5(2)](https://www.legislation.gov.uk/nisr/2016/410/regulation/5/2)
+[^c-4d06115513fbe74f8ef2cd137ea26259]: Textual amendment: [Reg. 15(2)(cc)](https://www.legislation.gov.uk/nisr/2005/176/regulation/15/2/cc) inserted (19.12.2016) by [The Human Trafficking and Exploitation (Criminal Justice and Support for Victims) (Independent Guardian) Regulations (Northern Ireland) 2016 (S.R. 2016/410)](https://www.legislation.gov.uk/nisr/2016/410), [regs. 1](https://www.legislation.gov.uk/nisr/2016/410/regulation/1), [5(2)](https://www.legislation.gov.uk/nisr/2016/410/regulation/5/2)
 
 [^f00013]: Footnote: [S.R. 1996 No. 451](https://www.legislation.gov.uk/nisr/1996/451)
 
-[^key-4ca5e5950155e725f54604a422e453f9]: Textual amendment: Words in Regulation substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/a) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))
+[^c-4ca5e5950155e725f54604a422e453f9]: Textual amendment: Words in Regulation substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/a) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))
 
 [^f00014]: Footnote: Article 70(1) is amended by Schedule 4 to the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003 with effect from 1st April 2005

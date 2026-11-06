@@ -38,7 +38,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Offences
 
-#### 1. Offence of hunting a wild mammal using a dog[^key-e252debffcc3172dd441729edb3f9e86][^key-e7a65a9b287462fca13544285acd5692]
+#### 1. Offence of hunting a wild mammal using a dog[^c-e252debffcc3172dd441729edb3f9e86][^c-e7a65a9b287462fca13544285acd5692]
 
 (1) A person commits an offence if—
 
@@ -65,7 +65,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (4) In this Part, a person is “using a dog” when the hunting of a wild mammal by that person involves the use of a dog, even if the dog is not under that person’s control or direction (and related expressions are to be construed accordingly).
 
-#### 2. Offences of knowingly causing or permitting another person to hunt using a dog[^key-c05828a5519b7732db627789e0680d05][^key-6b490685b696954be9696c636286e762]
+#### 2. Offences of knowingly causing or permitting another person to hunt using a dog[^c-c05828a5519b7732db627789e0680d05][^c-6b490685b696954be9696c636286e762]
 
 (1) A person commits an offence if—
 
@@ -98,7 +98,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Exceptions to the offences
 
-#### 3. Exception: management of wild mammals above ground[^key-d19f612f5f0e2f3183a6b5bd5ca79c05][^key-61123a24a550585c8fd24745cc317880]
+#### 3. Exception: management of wild mammals above ground[^c-d19f612f5f0e2f3183a6b5bd5ca79c05][^c-61123a24a550585c8fd24745cc317880]
 
 (1) This section applies if—
 
@@ -124,7 +124,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (e) the wild mammal which is being searched for, stalked or flushed is shot dead, or killed by a bird of prey, as soon as reasonably possible,
 - (f) if an attempt to kill the wild mammal, as mentioned in paragraph (e), results in it being injured but not killed, reasonable steps are taken to kill it in a way (other than by using a dog) that causes it the minimum possible suffering.
 
-#### 4. Licence for use of more than two dogs in connection with section 3[^key-f41d532c4cd46eebeb1f9b15ec557690][^key-73fcfb8792c6cf366e409e4263ac0378]
+#### 4. Licence for use of more than two dogs in connection with section 3[^c-f41d532c4cd46eebeb1f9b15ec557690][^c-73fcfb8792c6cf366e409e4263ac0378]
 
 (1) A person may apply for a licence permitting the use of more than two dogs for the activity mentioned in section 3(1)(a).
 
@@ -165,7 +165,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (a) the Scottish Ministers, or
 - (b) where the Scottish Ministers have delegated their functions in relation to licences, Scottish Natural Heritage.
 
-#### 5. Exception: management of foxes below ground[^key-6cd7a2130bb5591e51fe639bc4b9db6f][^key-102a0c8c603f4be5e79201aa8447f907]
+#### 5. Exception: management of foxes below ground[^c-6cd7a2130bb5591e51fe639bc4b9db6f][^c-102a0c8c603f4be5e79201aa8447f907]
 
 (1) This section applies if—
 
@@ -199,7 +199,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (4) In this section, “**dependent**” means that the mother of a fox is dead and it is too young to survive on its own.
 
-#### 6. Exception: falconry, game shooting and deer stalking[^key-6214ea39cf873a9a48b01ec914a7fdd7][^key-9945c60169d8691436c17c75cd898e61]
+#### 6. Exception: falconry, game shooting and deer stalking[^c-6214ea39cf873a9a48b01ec914a7fdd7][^c-9945c60169d8691436c17c75cd898e61]
 
 (1) This section applies if—
 
@@ -224,7 +224,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - “**game shooting**” means shooting wild mammals for sport,
 - “**quarry**” means the wild mammal intended to be killed by a bird of prey or shot.
 
-#### 7. Exception: relieving the suffering of injured wild mammals[^key-e1175e3442d8ee2abc2ce2ddb0f527ac][^key-86105cfbad954aff1869ebc19dcd2823]
+#### 7. Exception: relieving the suffering of injured wild mammals[^c-e1175e3442d8ee2abc2ce2ddb0f527ac][^c-86105cfbad954aff1869ebc19dcd2823]
 
 (1) This section applies if—
 
@@ -249,7 +249,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
   - (iv) observed and allowed to escape without being pursued or killed,
 - (f) if an attempt to kill the wild mammal, as mentioned in paragraph (e)(iii), results in it being injured but not killed, reasonable steps are taken to kill it in a way (other than by using a dog) that causes it the minimum possible suffering.
 
-#### 8. Exception: searching for dead wild mammals[^key-e3260ade13fabb7f587459794d70724c][^key-420455ef585c1ebfadee2c104ea508fe]
+#### 8. Exception: searching for dead wild mammals[^c-e3260ade13fabb7f587459794d70724c][^c-420455ef585c1ebfadee2c104ea508fe]
 
 (1) This section applies if—
 
@@ -268,7 +268,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
   - (iv) the person carrying out the activity is exercising a power of entry under section 15 of the Deer (Scotland) Act 1996,
 - (e) reasonable steps are taken to ensure that no wild mammal is pursued, injured or killed.
 
-#### 9. Exception: environmental benefit[^key-5a8855a08e6e211f14e35f822b2f9714][^key-47704ab606397795aecc7c94c02d46be]
+#### 9. Exception: environmental benefit[^c-5a8855a08e6e211f14e35f822b2f9714][^c-47704ab606397795aecc7c94c02d46be]
 
 (1) This section applies if—
 
@@ -309,7 +309,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
     - (ii) having or likely to have a significant adverse impact on biodiversity, the environment, social or economic interests or human or animal health,
 - “**Scottish list of species of special concern**” means the list of species in the Annex to [Commission Implementing Regulation (EU) 2016/1141](https://www.legislation.gov.uk/european/regulation/2016/1141) adopting a list of invasive alien species of Union concern pursuant to [Regulation (EU) No 1143/2014](https://www.legislation.gov.uk/european/regulation/2014/1143) of the European Parliament and of the Council, as amended from time to time.
 
-#### 10. Licence for use of more than two dogs in connection with section 9[^key-778424a9e27688e7a4bf014867e6693d][^key-0f195abf6d40c958e0e2ea17c7677c96]
+#### 10. Licence for use of more than two dogs in connection with section 9[^c-778424a9e27688e7a4bf014867e6693d][^c-0f195abf6d40c958e0e2ea17c7677c96]
 
 (1) A person may apply for a licence permitting the use of more than two dogs for the activity mentioned in section 9(1)(a).
 
@@ -351,7 +351,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### General provision on licences
 
-#### 11. Delegation of functions in relation to licences[^key-4e080043e6c251b5dde0ba5878be7947][^key-d5b8c50458427457d22ab8c94d4261a6]
+#### 11. Delegation of functions in relation to licences[^c-4e080043e6c251b5dde0ba5878be7947][^c-d5b8c50458427457d22ab8c94d4261a6]
 
 (1) The Scottish Ministers may delegate their functions in relation to licences under sections 4 and 10 to Scottish Natural Heritage.
 
@@ -363,13 +363,13 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (5) If a direction is revoked, any licence granted while the direction was in force continues to have effect unless the revocation provides otherwise.
 
-#### 12. Offence of providing false information to obtain a licence[^key-7e06705b252e0ea944df9c069306e62e][^key-fd9d92f9302fe1fd5d11a5e4f752ac17]
+#### 12. Offence of providing false information to obtain a licence[^c-7e06705b252e0ea944df9c069306e62e][^c-fd9d92f9302fe1fd5d11a5e4f752ac17]
 
 (1) A person commits an offence if the person knowingly or recklessly makes a false or misleading statement for the purposes of obtaining (either personally or for another person) a licence under section 4 or 10.
 
 (2) A person who commits an offence under subsection (1) is liable on summary conviction to imprisonment for a term not exceeding 6 months or a fine not exceeding level 5 on the standard scale (or both).
 
-#### 13. Review of operation of sections 4 and 10[^key-0355db0c6e0b81fb75d18bcde7425ff9][^key-8575f1f743ed246095974a9d4a8e6910]
+#### 13. Review of operation of sections 4 and 10[^c-0355db0c6e0b81fb75d18bcde7425ff9][^c-8575f1f743ed246095974a9d4a8e6910]
 
 (1) The Scottish Ministers must review the operation of sections 4 and 10.
 
@@ -396,7 +396,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Offences
 
-#### 14. Offences relating to trail hunting[^key-b774fdb81892bf59574733953690c5fb][^key-cb8418475d6fc3766a3411f5dfd116a0]
+#### 14. Offences relating to trail hunting[^c-b774fdb81892bf59574733953690c5fb][^c-cb8418475d6fc3766a3411f5dfd116a0]
 
 (1) A person commits an offence if—
 
@@ -433,7 +433,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (a) manages or controls that land, or
 - (b) is authorised to give permission for that land to be used for trail hunting.
 
-#### 15. Power to modify meaning of trail hunting[^key-294c404e135d94d3fe74422e4156f789][^key-cffe538031972b34abb15165880905c0]
+#### 15. Power to modify meaning of trail hunting[^c-294c404e135d94d3fe74422e4156f789][^c-cffe538031972b34abb15165880905c0]
 
 (1) The Scottish Ministers may by regulations modify section 14 so as to include in the definition of trail hunting a scent other than an animal-based scent.
 
@@ -453,7 +453,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Exception to the offences
 
-#### 16. Exception: training dogs to follow an animal-based scent[^key-b14b2ea63c6d46d848bcda81c16f0151][^key-2d54ed96bc3d2b8dba9a69327bfc4670]
+#### 16. Exception: training dogs to follow an animal-based scent[^c-b14b2ea63c6d46d848bcda81c16f0151][^c-2d54ed96bc3d2b8dba9a69327bfc4670]
 
 (1) This section applies if—
 
@@ -476,7 +476,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Enforcement
 
-#### 17. Search of a person without warrant[^key-5833b53095b35711c36f562273a82a65][^key-d1c140bd7ebda4c56c5cf15063e54b81]
+#### 17. Search of a person without warrant[^c-5833b53095b35711c36f562273a82a65][^c-d1c140bd7ebda4c56c5cf15063e54b81]
 
 If a constable has reasonable grounds for suspecting that a person has committed or is committing an offence under this Act, the constable may—
 
@@ -484,13 +484,13 @@ If a constable has reasonable grounds for suspecting that a person has committed
 - (b) search or examine any thing found in the course of a search, if the constable has reasonable grounds for suspecting that evidence of the commission of the offence is to be found in or on that thing,
 - (c) seize any thing found in the course of a search which may be relevant to the commission of the offence.
 
-#### 18. Powers of enforcement[^key-c529a2610603ba932c9a17c287e0ec6d][^key-769a03d991d1f14580231c7571ec1bba]
+#### 18. Powers of enforcement[^c-c529a2610603ba932c9a17c287e0ec6d][^c-769a03d991d1f14580231c7571ec1bba]
 
 The schedule makes further provision about the powers of constables for the purposes of and in connection with this Act.
 
 ### Proceedings
 
-#### 19. Time limit for summary proceedings[^key-f563d87569205119ea6a4375ddce0560][^key-1c8a4c7819178bda226fe12830d06ccd]
+#### 19. Time limit for summary proceedings[^c-f563d87569205119ea6a4375ddce0560][^c-1c8a4c7819178bda226fe12830d06ccd]
 
 (1) Proceedings for an offence under section 2(1) or (2) or section 14(1), (3) or (4) may be brought within the period of 6 months beginning with the date on which evidence sufficient in the opinion of the prosecutor to justify the proceedings came to the prosecutor’s knowledge.
 
@@ -501,7 +501,7 @@ The schedule makes further provision about the powers of constables for the purp
 
 (3) A certificate signed by or on behalf of the prosecutor which states the date on which evidence referred to in subsection (1) came to the prosecutor’s knowledge is conclusive evidence of that fact, and such a certificate which purports to be so signed is to be treated as being so signed unless the contrary is proved.
 
-#### 20. Individual culpability where organisation commits an offence[^key-0c19bf95fa07da8035052f8559feaed0][^key-24de3bedcd7002381dbbdb60b2f9d50f]
+#### 20. Individual culpability where organisation commits an offence[^c-0c19bf95fa07da8035052f8559feaed0][^c-24de3bedcd7002381dbbdb60b2f9d50f]
 
 (1) This section applies where—
 
@@ -530,7 +530,7 @@ The schedule makes further provision about the powers of constables for the purp
 
 ### Court orders
 
-#### 21. Deprivation orders[^key-f60b41910d80893dd4c7d47590fcae94][^key-4494fd1bcdf55ea934844cb9adac7167]
+#### 21. Deprivation orders[^c-f60b41910d80893dd4c7d47590fcae94][^c-4494fd1bcdf55ea934844cb9adac7167]
 
 (1) Where a person is convicted of a relevant offence, the convicting court may make an order (in this Part referred to as a “**deprivation order**”) in respect of any dog or horse used in or present at the commission of the offence.
 
@@ -583,7 +583,7 @@ The schedule makes further provision about the powers of constables for the purp
 - (c) an offence under section 14(1) or (4),
 - (d) an offence under section 22(10) committed by reason of owning or keeping a dog.
 
-#### 22. Disqualification orders[^key-0a21497ae28eb3a0130f9fa031f64685][^key-b386d384912ac789f8d7a23b3c5a0cbb]
+#### 22. Disqualification orders[^c-0a21497ae28eb3a0130f9fa031f64685][^c-b386d384912ac789f8d7a23b3c5a0cbb]
 
 (1) Where a person is convicted of a relevant offence, the convicting court may make an order (in this Part referred to as a “**disqualification order**”) which imposes on the person one or more of the disqualifications specified in subsection (2).
 
@@ -646,7 +646,7 @@ it must state its reasons.
 - (c) an offence under section 14(1) or (4),
 - (d) an offence under subsection (10).
 
-#### 23. Seizure orders where disqualification breached[^key-36ac9daf8f94f985061caf08534c1cb0][^key-e00603c6b6f39df30b809ce0fa9e6a36]
+#### 23. Seizure orders where disqualification breached[^c-36ac9daf8f94f985061caf08534c1cb0][^c-e00603c6b6f39df30b809ce0fa9e6a36]
 
 (1) Where the court is satisfied that a person who is subject to a disqualification order owns or keeps a dog in breach of the order, the court may make an order (in this Part referred to as a “**seizure order**”) in respect of any dog which the person owns or keeps in breach of the disqualification order.
 
@@ -700,7 +700,7 @@ it must state its reasons.
 
 (10) Subsections (5), (6)(a) and (8) apply in relation to an interim order as they apply in relation to a seizure order.
 
-#### 24. Termination or variation of disqualification[^key-4700130323824c07cd73c8ab281be0ae][^key-6fb0c9a21a17068ab318c7bcea0edbff]
+#### 24. Termination or variation of disqualification[^c-4700130323824c07cd73c8ab281be0ae][^c-6fb0c9a21a17068ab318c7bcea0edbff]
 
 (1) A person who is subject to a disqualification order may request the court which made the order to terminate or vary the order.
 
@@ -726,7 +726,7 @@ it must state its reasons.
 
 (5) Where the court refuses an application made under subsection (1), the court may specify a period within which the applicant may not make a further application under that subsection in relation to the same order.
 
-#### 25. Appeals against orders[^key-d20cc2d5b1749fa802eeac18ce4d94bf][^key-32cdd1331eac91f71fca33843ef59f5b]
+#### 25. Appeals against orders[^c-d20cc2d5b1749fa802eeac18ce4d94bf][^c-32cdd1331eac91f71fca33843ef59f5b]
 
 (1) Any deprivation order or disqualification order is, for the purposes of any appeal under the Criminal Procedure (Scotland) Act 1995, to be treated as a sentence.
 
@@ -767,7 +767,7 @@ it must state its reasons.
 
 ## Part 4 — General provisions
 
-### 26. Ancillary provision[^key-e076be836abb31f0507da220cf985313]
+### 26. Ancillary provision[^c-e076be836abb31f0507da220cf985313]
 
 (1) The Scottish Ministers may by regulations make any incidental, supplementary, consequential, transitional, transitory or saving provision they consider appropriate for the purposes of, in connection with or for giving full effect to this Act.
 
@@ -781,7 +781,7 @@ it must state its reasons.
 - (a) are subject to the affirmative procedure if they add to, replace or omit any part of the text of this or any other Act,
 - (b) otherwise, are subject to the negative procedure.
 
-### 27. Interpretation[^key-1f2d9588ba8a289b72527c4f74ede983][^key-8daf4baf961bb3d0d0afa586e7b95a48]
+### 27. Interpretation[^c-1f2d9588ba8a289b72527c4f74ede983][^c-8daf4baf961bb3d0d0afa586e7b95a48]
 
 In this Act—
 
@@ -807,7 +807,7 @@ In this Act—
 - “**wild mammal**” has the meaning given by section 1(3),
 - “**woodland**” means land on which trees are grown, whether or not commercially, and includes any such trees and any vegetation planted or growing naturally among such trees on that land.
 
-### 28. Repeal of the Protection of Wild Mammals (Scotland) Act 2002 and consequential modifications[^key-cf4dac2b513fb9dae5b1e1dc9a8669d7][^key-e2399fc0bd969a020af10ab1154a79cc]
+### 28. Repeal of the Protection of Wild Mammals (Scotland) Act 2002 and consequential modifications[^c-cf4dac2b513fb9dae5b1e1dc9a8669d7][^c-e2399fc0bd969a020af10ab1154a79cc]
 
 (1) The Protection of Wild Mammals (Scotland) Act 2002 is repealed.
 
@@ -817,7 +817,7 @@ In this Act—
 
 .
 
-### 29. Crown application: criminal offences[^key-b6ddc54f1c24cd11a80bd073924eb92c][^key-b038bcbf4e10b80a100979a19957d245]
+### 29. Crown application: criminal offences[^c-b6ddc54f1c24cd11a80bd073924eb92c][^c-b038bcbf4e10b80a100979a19957d245]
 
 (1) Nothing in this Act makes the Crown criminally liable.
 
@@ -825,7 +825,7 @@ In this Act—
 
 (3) Subsection (1) does not affect the criminal liability of persons in the service of the Crown.
 
-### 30. Crown application: powers of entry[^key-a1e29e2cb4519e5cf6a0ac991a52eebe][^key-be00a939a063d75ad3b5c78d40c33828]
+### 30. Crown application: powers of entry[^c-a1e29e2cb4519e5cf6a0ac991a52eebe][^c-be00a939a063d75ad3b5c78d40c33828]
 
 (1) A power of entry conferred by or under this Act is exercisable in relation to Crown land specified in column 1 of the following table only with the consent of the person specified in the corresponding entry in column 2 of the table (the “appropriate authority”).
 
@@ -848,7 +848,7 @@ In this Act—
 
 (3) It is for the Scottish Ministers to determine any question that arises as to who in accordance with subsection (1) is the appropriate authority in relation to any land, and their decision is final.
 
-### 31. Commencement[^key-1af70940f51792164b757b95cca95733]
+### 31. Commencement[^c-1af70940f51792164b757b95cca95733]
 
 (1) This section and sections 26 and 32 come into force on the day after Royal Assent.
 
@@ -859,7 +859,7 @@ In this Act—
 - (a) include transitional, transitory or saving provision,
 - (b) make different provision for different purposes.
 
-### 32. Short title[^key-b08111e91afeb9797aecbdaf95869cc9]
+### 32. Short title[^c-b08111e91afeb9797aecbdaf95869cc9]
 
 The short title of this Act is the Hunting with Dogs (Scotland) Act 2023.
 
@@ -867,7 +867,7 @@ The short title of this Act is the Hunting with Dogs (Scotland) Act 2023.
 
 (introduced by section 18)
 
-### 1. Interpretation[^key-a7b1792cfe0fdaf9dc38c0e35708fc9a][^key-ce5d5e758a0bdee8d99167972155c505]
+### 1. Interpretation[^c-a7b1792cfe0fdaf9dc38c0e35708fc9a][^c-ce5d5e758a0bdee8d99167972155c505]
 
 In this schedule—
 
@@ -892,14 +892,14 @@ In this schedule—
   - (a) a provision of this schedule, or
   - (b) a warrant granted under a provision of this schedule.
 
-### 2. Entry and associated powers[^key-c2af017ffec4b76dfe1a6389d84c44c2][^key-b32d0815d4fe476cc632328daef42b40]
+### 2. Entry and associated powers[^c-c2af017ffec4b76dfe1a6389d84c44c2][^c-b32d0815d4fe476cc632328daef42b40]
 
 A constable may enter any premises (other than domestic premises)—
 
 - (a) if there are reasonable grounds for suspecting that a relevant offence has been or is being committed at the premises, and
 - (b) for the purpose of ascertaining whether or not a relevant offence has been or is being committed at the premises.
 
-**3.**[^key-cc089213eb8ce381beb0676fe89c736f][^key-f9762cb63134f4736cb44641a92fbba2] (1) A sheriff or justice of the peace may grant a warrant under this sub-paragraph if satisfied—
+**3.**[^c-cc089213eb8ce381beb0676fe89c736f][^c-f9762cb63134f4736cb44641a92fbba2] (1) A sheriff or justice of the peace may grant a warrant under this sub-paragraph if satisfied—
 
 - (a) that there are reasonable grounds for suspecting—
   - (i) that a relevant offence has been or is being committed at any premises, or
@@ -918,12 +918,12 @@ A constable may enter any premises (other than domestic premises)—
 - (a) the premises are unoccupied, or
 - (b) the occupier is temporarily absent.
 
-**4.**[^key-dae8a2469c0a715c1f3c7445c4fbc73e][^key-aef225a89d283e7c9b12242c583b64bb] A warrant under paragraph 3(1) authorises a constable—
+**4.**[^c-dae8a2469c0a715c1f3c7445c4fbc73e][^c-aef225a89d283e7c9b12242c583b64bb] A warrant under paragraph 3(1) authorises a constable—
 
 - (a) to enter the premises,
 - (b) to search for, examine and seize any animal (including the carcase of an animal), vehicle, equipment, document or other thing tending to provide evidence of the commission of, or participation in, a relevant offence.
 
-**5.**[^key-cc37daec78caef563737bdbb186269c1][^key-758d1cbc298bb83f471c3081e317e35c] (1) A constable may exercise the powers in sub-paragraph (2) without a warrant under paragraph 3(1) if—
+**5.**[^c-cc37daec78caef563737bdbb186269c1][^c-758d1cbc298bb83f471c3081e317e35c] (1) A constable may exercise the powers in sub-paragraph (2) without a warrant under paragraph 3(1) if—
 
 - (a) it appears to the constable that any delay would frustrate the purpose for which the powers are to be exercised, and
 - (b) the premises are not domestic premises.
@@ -933,21 +933,21 @@ A constable may enter any premises (other than domestic premises)—
 - (a) to enter premises,
 - (b) to search for, examine and seize any animal (including the carcase of an animal), vehicle, equipment, document or other thing tending to provide evidence of the commission of, or participation in, a relevant offence.
 
-**6.**[^key-0ee2d279e86e19e310e27d3284d32b64][^key-5f3c13095af2a97d610588f4625497e6] The power to seize an animal or vehicle under paragraph 4(b) or 5(2)(b) may only be exercised—
+**6.**[^c-0ee2d279e86e19e310e27d3284d32b64][^c-5f3c13095af2a97d610588f4625497e6] The power to seize an animal or vehicle under paragraph 4(b) or 5(2)(b) may only be exercised—
 
 - (a) where the animal or vehicle is in the possession or control of a person who the constable has reasonable grounds for suspecting has committed or is committing a relevant offence, and
 - (b) where the constable considers it appropriate to seize the animal or vehicle for the purposes of—
   - (i) enabling the animal or vehicle to be used in proceedings for a relevant offence, or
   - (ii) enabling the animal or vehicle to be forfeited in accordance with Part 2 of the Proceeds of Crime (Scotland) Act 1995.
 
-**7.**[^key-2b9766abb8c9d7737a5d63b313af92df][^key-3630968edd917fc00677d96880e1ca3b] (1) A thing seized in exercise of the power in paragraph 4(b) or 5(2)(b) must be returned when retention of it is no longer justified for the purposes of—
+**7.**[^c-2b9766abb8c9d7737a5d63b313af92df][^c-3630968edd917fc00677d96880e1ca3b] (1) A thing seized in exercise of the power in paragraph 4(b) or 5(2)(b) must be returned when retention of it is no longer justified for the purposes of—
 
 - (a) enabling it to be used in proceedings for a relevant offence, or
 - (b) enabling it to be forfeited in accordance with Part 2 of the Proceeds of Crime (Scotland) Act 1995.
 
 (2) Sub-paragraph (1) does not apply to perishable things which no longer have any commercial value.
 
-### 8. Stopping and detaining vehicles or vessels[^key-ec71be87e91308b6d63eb899ff142f76][^key-30b82ff068115528ea9cb9333ada9322]
+### 8. Stopping and detaining vehicles or vessels[^c-ec71be87e91308b6d63eb899ff142f76][^c-30b82ff068115528ea9cb9333ada9322]
 
 (1) A constable in uniform may stop and detain a vehicle or vessel for the purpose of the exercise of a relevant power.
 
@@ -957,17 +957,17 @@ A constable may enter any premises (other than domestic premises)—
 
 (4) In this paragraph, “**vehicle**” includes caravan (within the meaning of section 29(1) of the Caravan Sites and Control of Development Act 1960).
 
-### 9. Entry and associated powers: supplementary[^key-b288e95f1ac60704749495a82ef62f55][^key-1ca83c865b7ce8a1dfc36b9e023bf356]
+### 9. Entry and associated powers: supplementary[^c-b288e95f1ac60704749495a82ef62f55][^c-1ca83c865b7ce8a1dfc36b9e023bf356]
 
 A warrant granted under paragraph 3(1) expires when it is no longer required for the purpose for which it is granted.
 
-**10.**[^key-7ad6a1d3d1823dc9356a7990beb50407][^key-6fbf46cbb457d183b23506504c832e68] A constable exercising a relevant power must do so at a reasonable time unless it appears to the constable that the purpose of exercising the power would be frustrated by exercising it at such a time.
+**10.**[^c-7ad6a1d3d1823dc9356a7990beb50407][^c-6fbf46cbb457d183b23506504c832e68] A constable exercising a relevant power must do so at a reasonable time unless it appears to the constable that the purpose of exercising the power would be frustrated by exercising it at such a time.
 
-**11.**[^key-fee8e285f207636963b4357b8feae544][^key-23a6ea6446df332d2abd6e86ce3099f0] A constable may, if necessary, use reasonable force when exercising a relevant power.
+**11.**[^c-fee8e285f207636963b4357b8feae544][^c-23a6ea6446df332d2abd6e86ce3099f0] A constable may, if necessary, use reasonable force when exercising a relevant power.
 
-**12.**[^key-3b2fd7b15c688cea44735e1bedf72694][^key-d1bd1269cdd29bd491c86299826f3b9f] A constable exercising a relevant power must produce evidence of the constable’s authority if asked to do so.
+**12.**[^c-3b2fd7b15c688cea44735e1bedf72694][^c-d1bd1269cdd29bd491c86299826f3b9f] A constable exercising a relevant power must produce evidence of the constable’s authority if asked to do so.
 
-**13.**[^key-c22a176799ea2b0fb164dc08d1bfaba8][^key-8ee2fb5558573bc41c243947e3adeb76] (1) A relevant power includes power to take onto premises—
+**13.**[^c-c22a176799ea2b0fb164dc08d1bfaba8][^c-8ee2fb5558573bc41c243947e3adeb76] (1) A relevant power includes power to take onto premises—
 
 - (a) such persons for assistance as are required for the purpose of exercising the power, and
 - (b) such equipment as is required for that purpose.
@@ -979,7 +979,7 @@ A warrant granted under paragraph 3(1) expires when it is no longer required for
   - (ii) any equipment, substance or thing,
 - (b) the identifying of an animal by use of a mark, microchip or any other method of identification.
 
-**14.**[^key-04b90d510ee185ce2bf5b5f23d2904be][^key-7c96187491fec63ac884734ac975c7e8] (1) A person mentioned in sub-paragraph (2) must—
+**14.**[^c-04b90d510ee185ce2bf5b5f23d2904be][^c-7c96187491fec63ac884734ac975c7e8] (1) A person mentioned in sub-paragraph (2) must—
 
 - (a) comply with any reasonable direction made by a constable exercising a relevant power, and
 - (b) in particular, give the constable such information and assistance as the constable may reasonably require.
@@ -994,9 +994,9 @@ A warrant granted under paragraph 3(1) expires when it is no longer required for
   - (iv) to have actual care and control of a person under the age of 16 years who is responsible for the animal,
 - (c) a person who appears to be under the direction or control of a person mentioned in paragraph (a) or (b).
 
-**15.**[^key-2fa73911b86327695f166b87c60a8a4c][^key-e55068c471a17f8cdbd9da1fd4e2b220] A constable exercising a relevant power in relation to unoccupied premises must leave the premises as effectively secured against entry as the constable found them.
+**15.**[^c-2fa73911b86327695f166b87c60a8a4c][^c-e55068c471a17f8cdbd9da1fd4e2b220] A constable exercising a relevant power in relation to unoccupied premises must leave the premises as effectively secured against entry as the constable found them.
 
-### 16. Offences[^key-ba0fa8e03f093419425587d8980b58ce][^key-9be8203ee47022bee7ebae37b3f6d2a4]
+### 16. Offences[^c-ba0fa8e03f093419425587d8980b58ce][^c-9be8203ee47022bee7ebae37b3f6d2a4]
 
 (1) A person commits an offence if the person contravenes paragraph 14(1) without reasonable excuse.
 
@@ -1004,198 +1004,198 @@ A warrant granted under paragraph 3(1) expires when it is no longer required for
 
 (3) A person who commits an offence under sub-paragraph (1) or (2) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-### 17. Powers of constables under this schedule[^key-3591292ee8a6db84d6790c383585471c][^key-d16e6436b65171c8cb771f942353fd98]
+### 17. Powers of constables under this schedule[^c-3591292ee8a6db84d6790c383585471c][^c-d16e6436b65171c8cb771f942353fd98]
 
 The powers conferred on constables by this schedule do not affect any powers conferred on constables apart from this schedule.
 
 ## Annotations
 
-[^key-e252debffcc3172dd441729edb3f9e86]: Commencement: S. 1 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+[^c-e252debffcc3172dd441729edb3f9e86]: Commencement: S. 1 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
 
-[^key-e7a65a9b287462fca13544285acd5692]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2023/1/section/1) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+[^c-e7a65a9b287462fca13544285acd5692]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2023/1/section/1) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
 
-[^key-c05828a5519b7732db627789e0680d05]: Commencement: S. 2 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+[^c-c05828a5519b7732db627789e0680d05]: Commencement: S. 2 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
 
-[^key-6b490685b696954be9696c636286e762]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2023/1/section/2) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+[^c-6b490685b696954be9696c636286e762]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2023/1/section/2) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
 
-[^key-d19f612f5f0e2f3183a6b5bd5ca79c05]: Commencement: S. 3 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+[^c-d19f612f5f0e2f3183a6b5bd5ca79c05]: Commencement: S. 3 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
 
-[^key-61123a24a550585c8fd24745cc317880]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2023/1/section/3) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+[^c-61123a24a550585c8fd24745cc317880]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2023/1/section/3) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
 
-[^key-f41d532c4cd46eebeb1f9b15ec557690]: Commencement: S. 4 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+[^c-f41d532c4cd46eebeb1f9b15ec557690]: Commencement: S. 4 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
 
-[^key-73fcfb8792c6cf366e409e4263ac0378]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2023/1/section/4) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+[^c-73fcfb8792c6cf366e409e4263ac0378]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2023/1/section/4) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
 
-[^key-6cd7a2130bb5591e51fe639bc4b9db6f]: Commencement: S. 5 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+[^c-6cd7a2130bb5591e51fe639bc4b9db6f]: Commencement: S. 5 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
 
-[^key-102a0c8c603f4be5e79201aa8447f907]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2023/1/section/5) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+[^c-102a0c8c603f4be5e79201aa8447f907]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2023/1/section/5) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
 
-[^key-6214ea39cf873a9a48b01ec914a7fdd7]: Commencement: S. 6 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+[^c-6214ea39cf873a9a48b01ec914a7fdd7]: Commencement: S. 6 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
 
-[^key-9945c60169d8691436c17c75cd898e61]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2023/1/section/6) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+[^c-9945c60169d8691436c17c75cd898e61]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2023/1/section/6) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
 
-[^key-e1175e3442d8ee2abc2ce2ddb0f527ac]: Commencement: S. 7 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+[^c-e1175e3442d8ee2abc2ce2ddb0f527ac]: Commencement: S. 7 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
 
-[^key-86105cfbad954aff1869ebc19dcd2823]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2023/1/section/7) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+[^c-86105cfbad954aff1869ebc19dcd2823]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2023/1/section/7) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
 
-[^key-e3260ade13fabb7f587459794d70724c]: Commencement: S. 8 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+[^c-e3260ade13fabb7f587459794d70724c]: Commencement: S. 8 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
 
-[^key-420455ef585c1ebfadee2c104ea508fe]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2023/1/section/8) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+[^c-420455ef585c1ebfadee2c104ea508fe]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2023/1/section/8) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
 
-[^key-5a8855a08e6e211f14e35f822b2f9714]: Commencement: S. 9 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+[^c-5a8855a08e6e211f14e35f822b2f9714]: Commencement: S. 9 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
 
-[^key-47704ab606397795aecc7c94c02d46be]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2023/1/section/9) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+[^c-47704ab606397795aecc7c94c02d46be]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2023/1/section/9) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
 
-[^key-778424a9e27688e7a4bf014867e6693d]: Commencement: S. 10 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+[^c-778424a9e27688e7a4bf014867e6693d]: Commencement: S. 10 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
 
-[^key-0f195abf6d40c958e0e2ea17c7677c96]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2023/1/section/10) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+[^c-0f195abf6d40c958e0e2ea17c7677c96]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2023/1/section/10) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
 
-[^key-4e080043e6c251b5dde0ba5878be7947]: Commencement: S. 11 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+[^c-4e080043e6c251b5dde0ba5878be7947]: Commencement: S. 11 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
 
-[^key-d5b8c50458427457d22ab8c94d4261a6]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2023/1/section/11) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+[^c-d5b8c50458427457d22ab8c94d4261a6]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2023/1/section/11) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
 
-[^key-7e06705b252e0ea944df9c069306e62e]: Commencement: S. 12 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+[^c-7e06705b252e0ea944df9c069306e62e]: Commencement: S. 12 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
 
-[^key-fd9d92f9302fe1fd5d11a5e4f752ac17]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2023/1/section/12) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+[^c-fd9d92f9302fe1fd5d11a5e4f752ac17]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2023/1/section/12) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
 
-[^key-0355db0c6e0b81fb75d18bcde7425ff9]: Commencement: S. 13 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+[^c-0355db0c6e0b81fb75d18bcde7425ff9]: Commencement: S. 13 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
 
-[^key-8575f1f743ed246095974a9d4a8e6910]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2023/1/section/13) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+[^c-8575f1f743ed246095974a9d4a8e6910]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2023/1/section/13) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
 
-[^key-b774fdb81892bf59574733953690c5fb]: Commencement: S. 14 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+[^c-b774fdb81892bf59574733953690c5fb]: Commencement: S. 14 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
 
-[^key-cb8418475d6fc3766a3411f5dfd116a0]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2023/1/section/14) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+[^c-cb8418475d6fc3766a3411f5dfd116a0]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2023/1/section/14) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
 
-[^key-294c404e135d94d3fe74422e4156f789]: Commencement: S. 15 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+[^c-294c404e135d94d3fe74422e4156f789]: Commencement: S. 15 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
 
-[^key-cffe538031972b34abb15165880905c0]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2023/1/section/15) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+[^c-cffe538031972b34abb15165880905c0]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2023/1/section/15) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
 
-[^key-b14b2ea63c6d46d848bcda81c16f0151]: Commencement: S. 16 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+[^c-b14b2ea63c6d46d848bcda81c16f0151]: Commencement: S. 16 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
 
-[^key-2d54ed96bc3d2b8dba9a69327bfc4670]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2023/1/section/16) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+[^c-2d54ed96bc3d2b8dba9a69327bfc4670]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2023/1/section/16) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
 
-[^key-5833b53095b35711c36f562273a82a65]: Commencement: S. 17 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+[^c-5833b53095b35711c36f562273a82a65]: Commencement: S. 17 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
 
-[^key-d1c140bd7ebda4c56c5cf15063e54b81]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2023/1/section/17) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+[^c-d1c140bd7ebda4c56c5cf15063e54b81]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2023/1/section/17) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
 
-[^key-c529a2610603ba932c9a17c287e0ec6d]: Commencement: S. 18 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+[^c-c529a2610603ba932c9a17c287e0ec6d]: Commencement: S. 18 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
 
-[^key-769a03d991d1f14580231c7571ec1bba]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2023/1/section/18) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+[^c-769a03d991d1f14580231c7571ec1bba]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2023/1/section/18) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
 
-[^key-f563d87569205119ea6a4375ddce0560]: Commencement: S. 19 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+[^c-f563d87569205119ea6a4375ddce0560]: Commencement: S. 19 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
 
-[^key-1c8a4c7819178bda226fe12830d06ccd]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2023/1/section/19) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+[^c-1c8a4c7819178bda226fe12830d06ccd]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2023/1/section/19) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
 
-[^key-0c19bf95fa07da8035052f8559feaed0]: Commencement: S. 20 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+[^c-0c19bf95fa07da8035052f8559feaed0]: Commencement: S. 20 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
 
-[^key-24de3bedcd7002381dbbdb60b2f9d50f]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2023/1/section/20) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+[^c-24de3bedcd7002381dbbdb60b2f9d50f]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2023/1/section/20) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
 
-[^key-f60b41910d80893dd4c7d47590fcae94]: Commencement: S. 21 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+[^c-f60b41910d80893dd4c7d47590fcae94]: Commencement: S. 21 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
 
-[^key-4494fd1bcdf55ea934844cb9adac7167]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2023/1/section/21) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+[^c-4494fd1bcdf55ea934844cb9adac7167]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2023/1/section/21) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
 
-[^key-0a21497ae28eb3a0130f9fa031f64685]: Commencement: S. 22 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+[^c-0a21497ae28eb3a0130f9fa031f64685]: Commencement: S. 22 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
 
-[^key-b386d384912ac789f8d7a23b3c5a0cbb]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2023/1/section/22) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+[^c-b386d384912ac789f8d7a23b3c5a0cbb]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2023/1/section/22) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
 
-[^key-36ac9daf8f94f985061caf08534c1cb0]: Commencement: S. 23 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+[^c-36ac9daf8f94f985061caf08534c1cb0]: Commencement: S. 23 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
 
-[^key-e00603c6b6f39df30b809ce0fa9e6a36]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2023/1/section/23) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+[^c-e00603c6b6f39df30b809ce0fa9e6a36]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2023/1/section/23) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
 
-[^key-4700130323824c07cd73c8ab281be0ae]: Commencement: S. 24 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+[^c-4700130323824c07cd73c8ab281be0ae]: Commencement: S. 24 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
 
-[^key-6fb0c9a21a17068ab318c7bcea0edbff]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2023/1/section/24) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+[^c-6fb0c9a21a17068ab318c7bcea0edbff]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2023/1/section/24) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
 
-[^key-d20cc2d5b1749fa802eeac18ce4d94bf]: Commencement: S. 25 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+[^c-d20cc2d5b1749fa802eeac18ce4d94bf]: Commencement: S. 25 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
 
-[^key-32cdd1331eac91f71fca33843ef59f5b]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2023/1/section/25) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+[^c-32cdd1331eac91f71fca33843ef59f5b]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2023/1/section/25) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
 
-[^key-e076be836abb31f0507da220cf985313]: Commencement: S. 26 in force at 8.3.2023, see [s. 31(1)](https://www.legislation.gov.uk/asp/2023/1/section/31/1)
+[^c-e076be836abb31f0507da220cf985313]: Commencement: S. 26 in force at 8.3.2023, see [s. 31(1)](https://www.legislation.gov.uk/asp/2023/1/section/31/1)
 
-[^key-1f2d9588ba8a289b72527c4f74ede983]: Commencement: S. 27 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+[^c-1f2d9588ba8a289b72527c4f74ede983]: Commencement: S. 27 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
 
-[^key-8daf4baf961bb3d0d0afa586e7b95a48]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2023/1/section/27) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+[^c-8daf4baf961bb3d0d0afa586e7b95a48]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2023/1/section/27) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
 
-[^key-cf4dac2b513fb9dae5b1e1dc9a8669d7]: Commencement: S. 28 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+[^c-cf4dac2b513fb9dae5b1e1dc9a8669d7]: Commencement: S. 28 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
 
-[^key-e2399fc0bd969a020af10ab1154a79cc]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2023/1/section/28) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+[^c-e2399fc0bd969a020af10ab1154a79cc]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2023/1/section/28) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
 
-[^key-b6ddc54f1c24cd11a80bd073924eb92c]: Commencement: S. 29 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+[^c-b6ddc54f1c24cd11a80bd073924eb92c]: Commencement: S. 29 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
 
-[^key-b038bcbf4e10b80a100979a19957d245]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2023/1/section/29) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+[^c-b038bcbf4e10b80a100979a19957d245]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2023/1/section/29) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
 
-[^key-a1e29e2cb4519e5cf6a0ac991a52eebe]: Commencement: S. 30 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+[^c-a1e29e2cb4519e5cf6a0ac991a52eebe]: Commencement: S. 30 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
 
-[^key-be00a939a063d75ad3b5c78d40c33828]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2023/1/section/30) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+[^c-be00a939a063d75ad3b5c78d40c33828]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2023/1/section/30) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
 
-[^key-1af70940f51792164b757b95cca95733]: Commencement: S. 31 in force at 8.3.2023, see [s. 31(1)](https://www.legislation.gov.uk/asp/2023/1/section/31/1)
+[^c-1af70940f51792164b757b95cca95733]: Commencement: S. 31 in force at 8.3.2023, see [s. 31(1)](https://www.legislation.gov.uk/asp/2023/1/section/31/1)
 
-[^key-b08111e91afeb9797aecbdaf95869cc9]: Commencement: S. 32 in force at 8.3.2023, see [s. 31(1)](https://www.legislation.gov.uk/asp/2023/1/section/31/1)
+[^c-b08111e91afeb9797aecbdaf95869cc9]: Commencement: S. 32 in force at 8.3.2023, see [s. 31(1)](https://www.legislation.gov.uk/asp/2023/1/section/31/1)
 
-[^key-a7b1792cfe0fdaf9dc38c0e35708fc9a]: Commencement: Sch. para. 1 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+[^c-a7b1792cfe0fdaf9dc38c0e35708fc9a]: Commencement: Sch. para. 1 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
 
-[^key-ce5d5e758a0bdee8d99167972155c505]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/asp/2023/1/schedule/paragraph/1) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+[^c-ce5d5e758a0bdee8d99167972155c505]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/asp/2023/1/schedule/paragraph/1) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
 
-[^key-c2af017ffec4b76dfe1a6389d84c44c2]: Commencement: Sch. para. 2 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+[^c-c2af017ffec4b76dfe1a6389d84c44c2]: Commencement: Sch. para. 2 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
 
-[^key-b32d0815d4fe476cc632328daef42b40]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/asp/2023/1/schedule/paragraph/2) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+[^c-b32d0815d4fe476cc632328daef42b40]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/asp/2023/1/schedule/paragraph/2) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
 
-[^key-cc089213eb8ce381beb0676fe89c736f]: Commencement: Sch. para. 3 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+[^c-cc089213eb8ce381beb0676fe89c736f]: Commencement: Sch. para. 3 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
 
-[^key-f9762cb63134f4736cb44641a92fbba2]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/asp/2023/1/schedule/paragraph/3) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+[^c-f9762cb63134f4736cb44641a92fbba2]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/asp/2023/1/schedule/paragraph/3) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
 
-[^key-dae8a2469c0a715c1f3c7445c4fbc73e]: Commencement: Sch. para. 4 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+[^c-dae8a2469c0a715c1f3c7445c4fbc73e]: Commencement: Sch. para. 4 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
 
-[^key-aef225a89d283e7c9b12242c583b64bb]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/asp/2023/1/schedule/paragraph/4) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+[^c-aef225a89d283e7c9b12242c583b64bb]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/asp/2023/1/schedule/paragraph/4) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
 
-[^key-cc37daec78caef563737bdbb186269c1]: Commencement: Sch. para. 5 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+[^c-cc37daec78caef563737bdbb186269c1]: Commencement: Sch. para. 5 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
 
-[^key-758d1cbc298bb83f471c3081e317e35c]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/asp/2023/1/schedule/paragraph/5) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+[^c-758d1cbc298bb83f471c3081e317e35c]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/asp/2023/1/schedule/paragraph/5) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
 
-[^key-0ee2d279e86e19e310e27d3284d32b64]: Commencement: Sch. para. 6 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+[^c-0ee2d279e86e19e310e27d3284d32b64]: Commencement: Sch. para. 6 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
 
-[^key-5f3c13095af2a97d610588f4625497e6]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/asp/2023/1/schedule/paragraph/6) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+[^c-5f3c13095af2a97d610588f4625497e6]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/asp/2023/1/schedule/paragraph/6) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
 
-[^key-2b9766abb8c9d7737a5d63b313af92df]: Commencement: Sch. para. 7 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+[^c-2b9766abb8c9d7737a5d63b313af92df]: Commencement: Sch. para. 7 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
 
-[^key-3630968edd917fc00677d96880e1ca3b]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/asp/2023/1/schedule/paragraph/7) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+[^c-3630968edd917fc00677d96880e1ca3b]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/asp/2023/1/schedule/paragraph/7) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
 
-[^key-ec71be87e91308b6d63eb899ff142f76]: Commencement: Sch. para. 8 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+[^c-ec71be87e91308b6d63eb899ff142f76]: Commencement: Sch. para. 8 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
 
-[^key-30b82ff068115528ea9cb9333ada9322]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/asp/2023/1/schedule/paragraph/8) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+[^c-30b82ff068115528ea9cb9333ada9322]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/asp/2023/1/schedule/paragraph/8) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
 
-[^key-b288e95f1ac60704749495a82ef62f55]: Commencement: Sch. para. 9 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+[^c-b288e95f1ac60704749495a82ef62f55]: Commencement: Sch. para. 9 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
 
-[^key-1ca83c865b7ce8a1dfc36b9e023bf356]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/asp/2023/1/schedule/paragraph/9) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+[^c-1ca83c865b7ce8a1dfc36b9e023bf356]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/asp/2023/1/schedule/paragraph/9) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
 
-[^key-7ad6a1d3d1823dc9356a7990beb50407]: Commencement: Sch. para. 10 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+[^c-7ad6a1d3d1823dc9356a7990beb50407]: Commencement: Sch. para. 10 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
 
-[^key-6fbf46cbb457d183b23506504c832e68]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/asp/2023/1/schedule/paragraph/10) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+[^c-6fbf46cbb457d183b23506504c832e68]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/asp/2023/1/schedule/paragraph/10) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
 
-[^key-fee8e285f207636963b4357b8feae544]: Commencement: Sch. para. 11 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+[^c-fee8e285f207636963b4357b8feae544]: Commencement: Sch. para. 11 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
 
-[^key-23a6ea6446df332d2abd6e86ce3099f0]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/asp/2023/1/schedule/paragraph/11) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+[^c-23a6ea6446df332d2abd6e86ce3099f0]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/asp/2023/1/schedule/paragraph/11) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
 
-[^key-3b2fd7b15c688cea44735e1bedf72694]: Commencement: Sch. para. 12 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+[^c-3b2fd7b15c688cea44735e1bedf72694]: Commencement: Sch. para. 12 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
 
-[^key-d1bd1269cdd29bd491c86299826f3b9f]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/asp/2023/1/schedule/paragraph/12) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+[^c-d1bd1269cdd29bd491c86299826f3b9f]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/asp/2023/1/schedule/paragraph/12) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
 
-[^key-c22a176799ea2b0fb164dc08d1bfaba8]: Commencement: Sch. para. 13 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+[^c-c22a176799ea2b0fb164dc08d1bfaba8]: Commencement: Sch. para. 13 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
 
-[^key-8ee2fb5558573bc41c243947e3adeb76]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/asp/2023/1/schedule/paragraph/13) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+[^c-8ee2fb5558573bc41c243947e3adeb76]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/asp/2023/1/schedule/paragraph/13) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
 
-[^key-04b90d510ee185ce2bf5b5f23d2904be]: Commencement: Sch. para. 14 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+[^c-04b90d510ee185ce2bf5b5f23d2904be]: Commencement: Sch. para. 14 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
 
-[^key-7c96187491fec63ac884734ac975c7e8]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/asp/2023/1/schedule/paragraph/14) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+[^c-7c96187491fec63ac884734ac975c7e8]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/asp/2023/1/schedule/paragraph/14) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
 
-[^key-2fa73911b86327695f166b87c60a8a4c]: Commencement: Sch. para. 15 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+[^c-2fa73911b86327695f166b87c60a8a4c]: Commencement: Sch. para. 15 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
 
-[^key-e55068c471a17f8cdbd9da1fd4e2b220]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/asp/2023/1/schedule/paragraph/15) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+[^c-e55068c471a17f8cdbd9da1fd4e2b220]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/asp/2023/1/schedule/paragraph/15) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
 
-[^key-ba0fa8e03f093419425587d8980b58ce]: Commencement: Sch. para. 16 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+[^c-ba0fa8e03f093419425587d8980b58ce]: Commencement: Sch. para. 16 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
 
-[^key-9be8203ee47022bee7ebae37b3f6d2a4]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/asp/2023/1/schedule/paragraph/16) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+[^c-9be8203ee47022bee7ebae37b3f6d2a4]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/asp/2023/1/schedule/paragraph/16) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
 
-[^key-3591292ee8a6db84d6790c383585471c]: Commencement: Sch. para. 17 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+[^c-3591292ee8a6db84d6790c383585471c]: Commencement: Sch. para. 17 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
 
-[^key-d16e6436b65171c8cb771f942353fd98]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/asp/2023/1/schedule/paragraph/17) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+[^c-d16e6436b65171c8cb771f942353fd98]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/asp/2023/1/schedule/paragraph/17) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)

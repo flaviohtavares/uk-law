@@ -22,7 +22,7 @@ summary: ''
 
 (1) In this Part—
 
-- “action plan” shall be construed in accordance with Article 13(2)[^key-9b083b65062736244efdc7d88004edd7] ;
+- “action plan” shall be construed in accordance with Article 13(2)[^c-9b083b65062736244efdc7d88004edd7] ;
 - “air” means ambient air;
 - “air quality objectives” means objectives prescribed by virtue of Article 15(2)(b);
 - “air quality review” means a review under Article 11 or 14;
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9b083b65062736244efdc7d88004edd7]: Textual amendment: Words in art. 27(1) substituted (12.4.2016) by [Environmental Better Regulation Act (NorthernIreland) 2016 (c. 13)](https://www.legislation.gov.uk/nia/2016/13), [ss. 18(4)](https://www.legislation.gov.uk/nia/2016/13/section/18/4), [27(1)](https://www.legislation.gov.uk/nia/2016/13/section/27/1)
+[^c-9b083b65062736244efdc7d88004edd7]: Textual amendment: Words in art. 27(1) substituted (12.4.2016) by [Environmental Better Regulation Act (NorthernIreland) 2016 (c. 13)](https://www.legislation.gov.uk/nia/2016/13), [ss. 18(4)](https://www.legislation.gov.uk/nia/2016/13/section/18/4), [27(1)](https://www.legislation.gov.uk/nia/2016/13/section/27/1)

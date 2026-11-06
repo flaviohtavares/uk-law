@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Procedure for modifying approved programme[^key-c616597ea1ca015d68cc096b8dba06cd][^key-d51145dcc8dca526bb730f185e74b715]
+## 49. Procedure for modifying approved programme[^c-c616597ea1ca015d68cc096b8dba06cd][^c-d51145dcc8dca526bb730f185e74b715]
 
 *Extent: E+W+N.I.*
 
@@ -27,9 +27,9 @@ summary: ''
 - (a) if the proposal is made by the Secretary of State, to the site operator, and
 - (b) in any other case, to the Secretary of State.
 
-(3) Where a proposal is made, or advice is sought from the Secretary of State about the making of a proposal,[^key-4fa453d1754ffc2ac562dc04240b67b6] the site operator must pay to the Secretary of State such fee as may be determined in accordance with regulations under section 54, in respect of the costs mentioned in subsection (4), at a time determined in accordance with such regulations.
+(3) Where a proposal is made, or advice is sought from the Secretary of State about the making of a proposal,[^c-4fa453d1754ffc2ac562dc04240b67b6] the site operator must pay to the Secretary of State such fee as may be determined in accordance with regulations under section 54, in respect of the costs mentioned in subsection (4), at a time determined in accordance with such regulations.
 
-(4) The costs are those incurred by the Secretary of State in relation to the consideration of the proposal (or the making of a proposal)[^key-9a247261a9fc3f046d98e6eb171457ed] , including, in particular, the costs of obtaining advice in relation to—
+(4) The costs are those incurred by the Secretary of State in relation to the consideration of the proposal (or the making of a proposal)[^c-9a247261a9fc3f046d98e6eb171457ed] , including, in particular, the costs of obtaining advice in relation to—
 
 - (a) the proposal, or
 - (b) information required in relation to the proposal in accordance with section 52(4).
@@ -52,10 +52,10 @@ summary: ''
 
 ## Annotations
 
-[^key-c616597ea1ca015d68cc096b8dba06cd]: Commencement: S. 49 in force at 6.4.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(b)(i)](https://www.legislation.gov.uk/uksi/2009/45/article/4/b/i)
+[^c-c616597ea1ca015d68cc096b8dba06cd]: Commencement: S. 49 in force at 6.4.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(b)(i)](https://www.legislation.gov.uk/uksi/2009/45/article/4/b/i)
 
-[^key-d51145dcc8dca526bb730f185e74b715]: Modification: S. 49 excluded (4.3.2013) by [The Nuclear Decommissioning and Waste Handling (Finance and Fees) Regulations 2013 (S.I. 2013/126)](https://www.legislation.gov.uk/uksi/2013/126), [regs. 1](https://www.legislation.gov.uk/uksi/2013/126/regulation/1), [11](https://www.legislation.gov.uk/uksi/2013/126/regulation/11)
+[^c-d51145dcc8dca526bb730f185e74b715]: Modification: S. 49 excluded (4.3.2013) by [The Nuclear Decommissioning and Waste Handling (Finance and Fees) Regulations 2013 (S.I. 2013/126)](https://www.legislation.gov.uk/uksi/2013/126), [regs. 1](https://www.legislation.gov.uk/uksi/2013/126/regulation/1), [11](https://www.legislation.gov.uk/uksi/2013/126/regulation/11)
 
-[^key-4fa453d1754ffc2ac562dc04240b67b6]: Textual amendment: Words in [s. 49(3)](https://www.legislation.gov.uk/ukpga/2008/32/section/49/3) inserted (18.2.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [ss. 149(4)(a)](https://www.legislation.gov.uk/ukpga/2013/32/section/149/4/a), [156(2)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/2)
+[^c-4fa453d1754ffc2ac562dc04240b67b6]: Textual amendment: Words in [s. 49(3)](https://www.legislation.gov.uk/ukpga/2008/32/section/49/3) inserted (18.2.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [ss. 149(4)(a)](https://www.legislation.gov.uk/ukpga/2013/32/section/149/4/a), [156(2)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/2)
 
-[^key-9a247261a9fc3f046d98e6eb171457ed]: Textual amendment: Words in [s. 49(4)](https://www.legislation.gov.uk/ukpga/2008/32/section/49/4) inserted (18.2.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [ss. 149(4)(b)](https://www.legislation.gov.uk/ukpga/2013/32/section/149/4/b), [156(2)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/2)
+[^c-9a247261a9fc3f046d98e6eb171457ed]: Textual amendment: Words in [s. 49(4)](https://www.legislation.gov.uk/ukpga/2008/32/section/49/4) inserted (18.2.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [ss. 149(4)(b)](https://www.legislation.gov.uk/ukpga/2013/32/section/149/4/b), [156(2)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/2)

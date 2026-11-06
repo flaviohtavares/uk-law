@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 272. Confidentiality of documents[^key-19d7cb34aebc3311866874d1b387fc1d]
+## 272. Confidentiality of documents[^c-19d7cb34aebc3311866874d1b387fc1d]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-19d7cb34aebc3311866874d1b387fc1d]: Commencement: Rule 272 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-19d7cb34aebc3311866874d1b387fc1d]: Commencement: Rule 272 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
 
 [^f00092]: Footnote: Rule 12.13 was amended by [S.I. 1987/1919](https://www.legislation.gov.uk/uksi/1987/1919).

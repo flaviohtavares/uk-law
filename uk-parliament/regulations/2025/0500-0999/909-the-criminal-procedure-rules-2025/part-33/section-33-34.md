@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33.34. Power of court to control evidence[^key-8ef25946281b4c693ba23e5203626c63]
+## 33.34. Power of court to control evidence[^c-8ef25946281b4c693ba23e5203626c63]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8ef25946281b4c693ba23e5203626c63]: Commencement: [Rule 33.34](https://www.legislation.gov.uk/uksi/2025/909/rule/33.34) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-8ef25946281b4c693ba23e5203626c63]: Commencement: [Rule 33.34](https://www.legislation.gov.uk/uksi/2025/909/rule/33.34) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

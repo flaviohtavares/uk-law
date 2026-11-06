@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Powers of enforcement administrators in respect of monetary external orders[^key-dbe0bc6ce40813357cbeebfc2320c361]
+## 74. Powers of enforcement administrators in respect of monetary external orders[^c-dbe0bc6ce40813357cbeebfc2320c361]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,7 +49,7 @@ unless it gives persons holding interests in the property a reasonable opportuni
 (8) Managing or otherwise dealing with property includes—
 
 - (a) selling the property or any part of it or interest in it;
-- (b) carrying on or arranging for another person to carry on any trade or business the assets of which are or are[^key-89338035dc3b3f9aed57d855ed4b4c66] part of the property;
+- (b) carrying on or arranging for another person to carry on any trade or business the assets of which are or are[^c-89338035dc3b3f9aed57d855ed4b4c66] part of the property;
 - (c) incurring capital expenditure in respect of the property.
 
 (9) The court may order that a power conferred by an order under this article is subject to such conditions and exceptions as it specifies.
@@ -64,6 +64,6 @@ unless it gives persons holding interests in the property a reasonable opportuni
 
 ## Annotations
 
-[^key-dbe0bc6ce40813357cbeebfc2320c361]: Commencement: [Art. 74](https://www.legislation.gov.uk/uksi/2005/3181/article/74) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-dbe0bc6ce40813357cbeebfc2320c361]: Commencement: [Art. 74](https://www.legislation.gov.uk/uksi/2005/3181/article/74) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
 
-[^key-89338035dc3b3f9aed57d855ed4b4c66]: Textual amendment: Words in [art. 74(8)(b)](https://www.legislation.gov.uk/uksi/2005/3181/article/74/8/b) inserted (11.8.2016) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2016 (S.I. 2016/662)](https://www.legislation.gov.uk/uksi/2016/662), [arts. 1](https://www.legislation.gov.uk/uksi/2016/662/article/1), [15](https://www.legislation.gov.uk/uksi/2016/662/article/15)
+[^c-89338035dc3b3f9aed57d855ed4b4c66]: Textual amendment: Words in [art. 74(8)(b)](https://www.legislation.gov.uk/uksi/2005/3181/article/74/8/b) inserted (11.8.2016) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2016 (S.I. 2016/662)](https://www.legislation.gov.uk/uksi/2016/662), [arts. 1](https://www.legislation.gov.uk/uksi/2016/662/article/1), [15](https://www.legislation.gov.uk/uksi/2016/662/article/15)

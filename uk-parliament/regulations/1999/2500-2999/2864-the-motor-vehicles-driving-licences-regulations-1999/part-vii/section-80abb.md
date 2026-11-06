@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 80ABB. Modification of regulation 80: Homes for Ukraine Sponsorship Scheme: fifth scenario[^key-cdf1e2d644e418dbf19c3b263256d10c]
+## 80ABB. Modification of regulation 80: Homes for Ukraine Sponsorship Scheme: fifth scenario[^c-cdf1e2d644e418dbf19c3b263256d10c]
 
 *Extent: E+W+S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cdf1e2d644e418dbf19c3b263256d10c]: Textual amendment: [Regs. 80ABA](https://www.legislation.gov.uk/uksi/1999/2864/regulation/80ABA), [80ABB](https://www.legislation.gov.uk/uksi/1999/2864/regulation/80ABB) inserted (27.7.2026) by [The Motor Vehicles (Driving Licences) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/741)](https://www.legislation.gov.uk/uksi/2026/741), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/741/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2026/741/regulation/7)
+[^c-cdf1e2d644e418dbf19c3b263256d10c]: Textual amendment: [Regs. 80ABA](https://www.legislation.gov.uk/uksi/1999/2864/regulation/80ABA), [80ABB](https://www.legislation.gov.uk/uksi/1999/2864/regulation/80ABB) inserted (27.7.2026) by [The Motor Vehicles (Driving Licences) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/741)](https://www.legislation.gov.uk/uksi/2026/741), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/741/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2026/741/regulation/7)

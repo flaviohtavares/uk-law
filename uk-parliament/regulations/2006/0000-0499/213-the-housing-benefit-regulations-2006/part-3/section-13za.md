@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 13ZA. Protection on death and 13 week protection[^key-2fdd98c383293136721c20e622da6b59]
+## 13ZA. Protection on death and 13 week protection[^c-2fdd98c383293136721c20e622da6b59]
 
 *Extent: E+W+S*
 
@@ -27,7 +27,7 @@ summary: ''
 
 for a period of 12 months from the date of such a death.
 
-(2) For the purposes of paragraph (1), a claimant shall be treated as occupying the dwelling if paragraph (13) of regulation 7 (circumstances in which a person is or is not to be treated as occupying a dwelling as his home) is satisfied and for that purpose sub-paragraph (b) of that paragraph of that regulation shall be treated as if it were omitted. *(affected by repeal, see note)*[^key-b0505a57b685a3a4303d675af03abf74]
+(2) For the purposes of paragraph (1), a claimant shall be treated as occupying the dwelling if paragraph (13) of regulation 7 (circumstances in which a person is or is not to be treated as occupying a dwelling as his home) is satisfied and for that purpose sub-paragraph (b) of that paragraph of that regulation shall be treated as if it were omitted. *(affected by repeal, see note)*[^c-b0505a57b685a3a4303d675af03abf74]
 
 For the purpose of paragraph (1), a claimant is treated as occupying the dwelling if—
 
@@ -40,6 +40,6 @@ For the purpose of paragraph (1), a claimant is treated as occupying the dwellin
 
 ## Annotations
 
-[^key-2fdd98c383293136721c20e622da6b59]: Textual amendment: Regs. 13-13ZB substituted for reg. 13 (7.4.2008) by [The Housing Benefit (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2868)](https://www.legislation.gov.uk/uksi/2007/2868), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2007/2868/regulation/6) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/1/6)(as amended by S.I. 2008/1082, reg. 2))
+[^c-2fdd98c383293136721c20e622da6b59]: Textual amendment: Regs. 13-13ZB substituted for reg. 13 (7.4.2008) by [The Housing Benefit (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2868)](https://www.legislation.gov.uk/uksi/2007/2868), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2007/2868/regulation/6) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/1/6)(as amended by S.I. 2008/1082, reg. 2))
 
-[^key-b0505a57b685a3a4303d675af03abf74]: Textual amendment: Reg. 13ZA(2) substituted (28.7.2016) by [The Housing Benefit and State Pension Credit (Temporary Absence) (Amendment) Regulations 2016 (S.I. 2016/624)](https://www.legislation.gov.uk/uksi/2016/624), [regs. 1](https://www.legislation.gov.uk/uksi/2016/624/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2016/624/regulation/2/4) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2016/624/regulation/5/1)[(2)](https://www.legislation.gov.uk/uksi/2016/624/regulation/5/2))
+[^c-b0505a57b685a3a4303d675af03abf74]: Textual amendment: Reg. 13ZA(2) substituted (28.7.2016) by [The Housing Benefit and State Pension Credit (Temporary Absence) (Amendment) Regulations 2016 (S.I. 2016/624)](https://www.legislation.gov.uk/uksi/2016/624), [regs. 1](https://www.legislation.gov.uk/uksi/2016/624/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2016/624/regulation/2/4) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2016/624/regulation/5/1)[(2)](https://www.legislation.gov.uk/uksi/2016/624/regulation/5/2))

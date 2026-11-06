@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 169. Medical examiners[^key-6fe60ca363a084c05303b81e86ad030b]
+## 169. Medical examiners[^c-6fe60ca363a084c05303b81e86ad030b]
 
 *Extent: E+W*
 
-(1)[^key-11c702cb9797602db7b800889e129ca6] After section 18 of the Coroners and Justice Act 2009 insert—
+(1)[^c-11c702cb9797602db7b800889e129ca6] After section 18 of the Coroners and Justice Act 2009 insert—
 
 > **18A. Medical examiners: England**
 >
@@ -63,7 +63,7 @@ summary: ''
 > - (b) a National Health Service trust established under section 18 of the National Health Service (Wales) Act 2006, or
 > - (c) a Special Health Authority established under section 22 of that Act.
 
-(2)[^key-11c702cb9797602db7b800889e129ca6] In section 19 of that Act (medical examiners)—
+(2)[^c-11c702cb9797602db7b800889e129ca6] In section 19 of that Act (medical examiners)—
 
 - (a) in the heading, after “examiners” insert “: supplementary”;
 - (b) omit subsections (1) and (2);
@@ -71,18 +71,18 @@ summary: ''
   - (i) after “Nothing in” insert “section 18A or 18B or”;
   - (ii) for “a local authority or a Local Health Board” substitute “an English NHS body (as defined by section 18A) or a Welsh NHS body (as defined by section 18B)”.
 
-(3)[^key-11c702cb9797602db7b800889e129ca6] In section 20 of that Act (medical certificate of cause of death), in subsection (5), for “a local authority or Local Health Board” substitute “an English NHS body (as defined by section 18A) or a Welsh NHS body (as defined by section 18B)”.
+(3)[^c-11c702cb9797602db7b800889e129ca6] In section 20 of that Act (medical certificate of cause of death), in subsection (5), for “a local authority or Local Health Board” substitute “an English NHS body (as defined by section 18A) or a Welsh NHS body (as defined by section 18B)”.
 
-(4)[^key-11c702cb9797602db7b800889e129ca6] In section 48 of that Act (interpretation: general), in subsection (1), in the definition of “medical examiner”, for “section 19” substitute “section 18A or 18B”.
+(4)[^c-11c702cb9797602db7b800889e129ca6] In section 48 of that Act (interpretation: general), in subsection (1), in the definition of “medical examiner”, for “section 19” substitute “section 18A or 18B”.
 
-(5)[^key-7ad3890f47aa2d327a56b7c7c784fec8] In section 41 of the Births and Deaths Registration Act 1953 (interpretation), in subsection (1), in the definition of “medical examiner”, for “means a person appointed under section 19” substitute “has the meaning given by section 48(1)”.
+(5)[^c-7ad3890f47aa2d327a56b7c7c784fec8] In section 41 of the Births and Deaths Registration Act 1953 (interpretation), in subsection (1), in the definition of “medical examiner”, for “means a person appointed under section 19” substitute “has the meaning given by section 48(1)”.
 
-(6)[^key-11c702cb9797602db7b800889e129ca6] In the Health and Social Care Act 2012 omit section 54 (which inserted references to local authorities into sections 19 and 20 of the Coroners and Justice Act 2009).
+(6)[^c-11c702cb9797602db7b800889e129ca6] In the Health and Social Care Act 2012 omit section 54 (which inserted references to local authorities into sections 19 and 20 of the Coroners and Justice Act 2009).
 
 ## Annotations
 
-[^key-6fe60ca363a084c05303b81e86ad030b]: Commencement: S. 169 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-6fe60ca363a084c05303b81e86ad030b]: Commencement: S. 169 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-11c702cb9797602db7b800889e129ca6]: Commencement: S. 169(1)-(4)(6) in force at 1.10.2023 by [S.I. 2023/1035](https://www.legislation.gov.uk/uksi/2023/1035), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1035/regulation/2/b)
+[^c-11c702cb9797602db7b800889e129ca6]: Commencement: S. 169(1)-(4)(6) in force at 1.10.2023 by [S.I. 2023/1035](https://www.legislation.gov.uk/uksi/2023/1035), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1035/regulation/2/b)
 
-[^key-7ad3890f47aa2d327a56b7c7c784fec8]: Commencement: [S. 169(5)](https://www.legislation.gov.uk/ukpga/2022/31/section/169/5) in force at 9.9.2024 by [S.I. 2024/511](https://www.legislation.gov.uk/uksi/2024/511), [reg. 2](https://www.legislation.gov.uk/uksi/2024/511/regulation/2)
+[^c-7ad3890f47aa2d327a56b7c7c784fec8]: Commencement: [S. 169(5)](https://www.legislation.gov.uk/ukpga/2022/31/section/169/5) in force at 9.9.2024 by [S.I. 2024/511](https://www.legislation.gov.uk/uksi/2024/511), [reg. 2](https://www.legislation.gov.uk/uksi/2024/511/regulation/2)

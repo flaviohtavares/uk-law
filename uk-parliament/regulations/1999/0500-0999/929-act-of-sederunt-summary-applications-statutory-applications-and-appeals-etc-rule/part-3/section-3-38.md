@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.38. Variation, renewal or discharge of foreign travel restriction order[^key-db15cf71f07ca23c2cc7f3dc06e7933b]
+## 3.38. Variation, renewal or discharge of foreign travel restriction order[^c-db15cf71f07ca23c2cc7f3dc06e7933b]
 
 *Extent: S*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-db15cf71f07ca23c2cc7f3dc06e7933b]: Textual amendment: Ch. 3 Pt. 38 inserted (1.10.2009) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2009 (S.S.I. 2009/294)](https://www.legislation.gov.uk/ssi/2009/294), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2009/294/paragraph/1/1), [18](https://www.legislation.gov.uk/ssi/2009/294/paragraph/18)
+[^c-db15cf71f07ca23c2cc7f3dc06e7933b]: Textual amendment: Ch. 3 Pt. 38 inserted (1.10.2009) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2009 (S.S.I. 2009/294)](https://www.legislation.gov.uk/ssi/2009/294), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2009/294/paragraph/1/1), [18](https://www.legislation.gov.uk/ssi/2009/294/paragraph/18)
 
 [^f00024]: Footnote: [1968 c. 65](https://www.legislation.gov.uk/ukpga/1968/65).

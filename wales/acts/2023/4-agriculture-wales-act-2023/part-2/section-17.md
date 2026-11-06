@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Power to modify legislation relating to the common agricultural policy[^key-dae90f1fe028dae85365baf227b785dd]
+## 17. Power to modify legislation relating to the common agricultural policy[^c-dae90f1fe028dae85365baf227b785dd]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dae90f1fe028dae85365baf227b785dd]: Commencement: [S. 17](https://www.legislation.gov.uk/asc/2023/4/section/17) in force at 17.10.2023, see [s. 56(2)(c)](https://www.legislation.gov.uk/asc/2023/4/section/56/2/c)
+[^c-dae90f1fe028dae85365baf227b785dd]: Commencement: [S. 17](https://www.legislation.gov.uk/asc/2023/4/section/17) in force at 17.10.2023, see [s. 56(2)(c)](https://www.legislation.gov.uk/asc/2023/4/section/56/2/c)

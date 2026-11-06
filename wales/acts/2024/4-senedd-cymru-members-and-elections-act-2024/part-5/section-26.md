@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Short title[^key-649973596bc7b41ad6df5bd911d9531b]
+## 26. Short title[^c-649973596bc7b41ad6df5bd911d9531b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The short title of this Act is the Senedd Cymru (Members and Elections) Act 2024
 
 ## Annotations
 
-[^key-649973596bc7b41ad6df5bd911d9531b]: Commencement: S. 26 in force at 25.6.2024, see [s. 25(1)(c)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/c)
+[^c-649973596bc7b41ad6df5bd911d9531b]: Commencement: S. 26 in force at 25.6.2024, see [s. 25(1)(c)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/c)

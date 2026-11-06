@@ -33,9 +33,9 @@ An Act to provide for the extent of the territorial sea adjacent to the British 
 
 \[15th May 1987\] [^c786559]
 
-[^c786560]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-daf11a2dab910d7353f3b5a8e6481d27]
+[^c786560]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-daf11a2dab910d7353f3b5a8e6481d27]
 
-## 1. Extension of territorial sea.[^c786561][^c786562][^key-828bed69f4dc2f028a283ceef33aec2b]
+## 1. Extension of territorial sea.[^c786561][^c786562][^c-828bed69f4dc2f028a283ceef33aec2b]
 
 (1) Subject to the provisions of this Act—
 
@@ -80,8 +80,8 @@ An Act to provide for the extent of the territorial sea adjacent to the British 
 (2) Her Majesty may by Order in Council—
 
 - (a) make, in relation to any enactment passed or instrument made before the date on which section 1 above comes into force, any amendment corresponding to any of those made by Schedule 1 to this Act;
-- (b (Extent: E+W) (affected by repeal, see note))[^key-3dcecf0284521668b1410010eafa6438] amend subsection (1) of section 36 of the *(Extent: E+W)* *(affected by repeal, see note)*[^key-3dcecf0284521668b1410010eafa6438] [^c786585] Wildlife and Countryside Act 1981 (marine nature reserves) so as to include such other parts of the territorial sea adjacent to Great Britain as may be specified in the Order in the waters and parts of the sea which, by virtue of paragraph 6 of Schedule 1 to this Act, may be designated under that section; *(Extent: E+W)* *(affected by repeal, see note)*[^key-3dcecf0284521668b1410010eafa6438]
-- (c) amend paragraph 1 of Article 20 of the *(Extent: N.I.)* *(affected by repeal, see note)*[^key-e6f2b2c4868bbdbcba8c13bbc09af6fe] [^c786586] Nature Conservation and Amenity Lands (Northern Ireland) Order 1985 (marine nature reserves) so as to include such other parts of the territorial sea adjacent to Northern Ireland as may be specified in the Order in the waters and parts of the sea which, by virtue of paragraph 9 of Schedule 1 to this Act, may be designated under that Article. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-e6f2b2c4868bbdbcba8c13bbc09af6fe]
+- (b (Extent: E+W) (affected by repeal, see note))[^c-3dcecf0284521668b1410010eafa6438] amend subsection (1) of section 36 of the *(Extent: E+W)* *(affected by repeal, see note)*[^c-3dcecf0284521668b1410010eafa6438] [^c786585] Wildlife and Countryside Act 1981 (marine nature reserves) so as to include such other parts of the territorial sea adjacent to Great Britain as may be specified in the Order in the waters and parts of the sea which, by virtue of paragraph 6 of Schedule 1 to this Act, may be designated under that section; *(Extent: E+W)* *(affected by repeal, see note)*[^c-3dcecf0284521668b1410010eafa6438]
+- (c) amend paragraph 1 of Article 20 of the *(Extent: N.I.)* *(affected by repeal, see note)*[^c-e6f2b2c4868bbdbcba8c13bbc09af6fe] [^c786586] Nature Conservation and Amenity Lands (Northern Ireland) Order 1985 (marine nature reserves) so as to include such other parts of the territorial sea adjacent to Northern Ireland as may be specified in the Order in the waters and parts of the sea which, by virtue of paragraph 9 of Schedule 1 to this Act, may be designated under that Article. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-e6f2b2c4868bbdbcba8c13bbc09af6fe]
 
 (3) Her Majesty may by Order in Council make such modifications of the effect of any Order in Council under section 1(7) of the [^c786587]Continental Shelf Act 1964 (designated areas) as appear to Her to be necessary or expedient in consequence of any provision made by or under this Act.
 
@@ -89,7 +89,7 @@ An Act to provide for the extent of the territorial sea adjacent to the British 
 
 ## 4. Short title, commencement and extent.[^c786589]
 
-(1)[^key-f9cf4d154c4806aedb1d7c14d84b96b3] This Act may be cited as the Territorial Sea Act 1987.
+(1)[^c-f9cf4d154c4806aedb1d7c14d84b96b3] This Act may be cited as the Territorial Sea Act 1987.
 
 (2)[^c786590] This Act shall come into force on such day as Her Majesty may by Order in Council appoint, and different days may be so appointed for different provisions and for different purposes.
 
@@ -123,7 +123,7 @@ Section 3.
 
 ### The Salmon and Freshwater Fisheries Act 1975
 
-**3.**[^key-aae0a1ca5cabc50949ae451455a6ca22] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-aae0a1ca5cabc50949ae451455a6ca22] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Customs and Excise Management Act 1979
 
@@ -150,14 +150,14 @@ Section 3.
 
 ### The Wildlife and Countryside Act 1981
 
-**6 (Extent: E+W) (affected by repeal, see note).**[^key-84c3474a9c20640c22d9d1a3aca2b3cf] In section 36 of the *(Extent: E+W)* *(affected by repeal, see note)*[^key-84c3474a9c20640c22d9d1a3aca2b3cf] [^c786597] Wildlife and Countryside Act 1981 (marine nature reserves)— *(Extent: E+W)* *(affected by repeal, see note)*[^key-84c3474a9c20640c22d9d1a3aca2b3cf]
+**6 (Extent: E+W) (affected by repeal, see note).**[^c-84c3474a9c20640c22d9d1a3aca2b3cf] In section 36 of the *(Extent: E+W)* *(affected by repeal, see note)*[^c-84c3474a9c20640c22d9d1a3aca2b3cf] [^c786597] Wildlife and Countryside Act 1981 (marine nature reserves)— *(Extent: E+W)* *(affected by repeal, see note)*[^c-84c3474a9c20640c22d9d1a3aca2b3cf]
 
-- (a (Extent: E+W) (affected by repeal, see note))[^key-84c3474a9c20640c22d9d1a3aca2b3cf] in subsection (1) for the words “in or adjacent to Great Britain up to the seaward limits of territorial waters” there shall be substituted the words *(Extent: E+W)* *(affected by repeal, see note)*[^key-84c3474a9c20640c22d9d1a3aca2b3cf] “ which are landward of the baselines from which the breadth of the territorial sea adjacent to Great Britain is measured or are seaward of those baselines up to a distance of three nautical miles ” *(Extent: E+W)* *(affected by repeal, see note)*[^key-84c3474a9c20640c22d9d1a3aca2b3cf] ; and *(Extent: E+W)* *(affected by repeal, see note)*[^key-84c3474a9c20640c22d9d1a3aca2b3cf]
-- (b (Extent: E+W) (affected by repeal, see note))[^key-84c3474a9c20640c22d9d1a3aca2b3cf] in subsection (7) after the definition of “local authority” there shall be inserted the following definition— *(Extent: E+W)* *(affected by repeal, see note)*[^key-84c3474a9c20640c22d9d1a3aca2b3cf]
+- (a (Extent: E+W) (affected by repeal, see note))[^c-84c3474a9c20640c22d9d1a3aca2b3cf] in subsection (1) for the words “in or adjacent to Great Britain up to the seaward limits of territorial waters” there shall be substituted the words *(Extent: E+W)* *(affected by repeal, see note)*[^c-84c3474a9c20640c22d9d1a3aca2b3cf] “ which are landward of the baselines from which the breadth of the territorial sea adjacent to Great Britain is measured or are seaward of those baselines up to a distance of three nautical miles ” *(Extent: E+W)* *(affected by repeal, see note)*[^c-84c3474a9c20640c22d9d1a3aca2b3cf] ; and *(Extent: E+W)* *(affected by repeal, see note)*[^c-84c3474a9c20640c22d9d1a3aca2b3cf]
+- (b (Extent: E+W) (affected by repeal, see note))[^c-84c3474a9c20640c22d9d1a3aca2b3cf] in subsection (7) after the definition of “local authority” there shall be inserted the following definition— *(Extent: E+W)* *(affected by repeal, see note)*[^c-84c3474a9c20640c22d9d1a3aca2b3cf]
 
-  > “ *(Extent: E+W)* *(affected by repeal, see note)*[^key-84c3474a9c20640c22d9d1a3aca2b3cf] **nautical miles *(Extent: E+W)* *(affected by repeal, see note)*[^key-84c3474a9c20640c22d9d1a3aca2b3cf]** ” means international nautical miles of 1,852 metres; *(Extent: E+W)* *(affected by repeal, see note)*[^key-84c3474a9c20640c22d9d1a3aca2b3cf]
+  > “ *(Extent: E+W)* *(affected by repeal, see note)*[^c-84c3474a9c20640c22d9d1a3aca2b3cf] **nautical miles *(Extent: E+W)* *(affected by repeal, see note)*[^c-84c3474a9c20640c22d9d1a3aca2b3cf]** ” means international nautical miles of 1,852 metres; *(Extent: E+W)* *(affected by repeal, see note)*[^c-84c3474a9c20640c22d9d1a3aca2b3cf]
 
-  . *(Extent: E+W)* *(affected by repeal, see note)*[^key-84c3474a9c20640c22d9d1a3aca2b3cf]
+  . *(Extent: E+W)* *(affected by repeal, see note)*[^c-84c3474a9c20640c22d9d1a3aca2b3cf]
 
 ### The Oil and Gas (Enterprise) Act 1982
 
@@ -169,14 +169,14 @@ Section 3.
 
 ### The Nature Conservation and Amenity Lands (Northern Ireland) Order 1985
 
-**9.** In Article 20 of the *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ec46eaf6d6b9a9ed4e28641f9ab61eef] [^c786601]Nature Conservation and Amenity Lands (Northern Ireland) Order 1985 (marine nature reserves)— *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ec46eaf6d6b9a9ed4e28641f9ab61eef]
+**9.** In Article 20 of the *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ec46eaf6d6b9a9ed4e28641f9ab61eef] [^c786601]Nature Conservation and Amenity Lands (Northern Ireland) Order 1985 (marine nature reserves)— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ec46eaf6d6b9a9ed4e28641f9ab61eef]
 
-- (a (Extent: N.I.) (affected by repeal, see note))[^key-ec46eaf6d6b9a9ed4e28641f9ab61eef] in paragraph (1) for the words “in or adjacent to Northern Ireland up to the seaward limits of territorial waters” there shall be substituted the words *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ec46eaf6d6b9a9ed4e28641f9ab61eef] “ which are landward of the baselines from which the breadth of the territorial sea adjacent to Northern Ireland is measured or are seaward of those baselines up to a distance of three nautical miles ” *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ec46eaf6d6b9a9ed4e28641f9ab61eef]; and *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ec46eaf6d6b9a9ed4e28641f9ab61eef]
-- (b (Extent: N.I.) (affected by repeal, see note))[^key-ec46eaf6d6b9a9ed4e28641f9ab61eef] in paragraph (6) before the definition of “relevant body” there shall be inserted the following definition— *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ec46eaf6d6b9a9ed4e28641f9ab61eef]
+- (a (Extent: N.I.) (affected by repeal, see note))[^c-ec46eaf6d6b9a9ed4e28641f9ab61eef] in paragraph (1) for the words “in or adjacent to Northern Ireland up to the seaward limits of territorial waters” there shall be substituted the words *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ec46eaf6d6b9a9ed4e28641f9ab61eef] “ which are landward of the baselines from which the breadth of the territorial sea adjacent to Northern Ireland is measured or are seaward of those baselines up to a distance of three nautical miles ” *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ec46eaf6d6b9a9ed4e28641f9ab61eef]; and *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ec46eaf6d6b9a9ed4e28641f9ab61eef]
+- (b (Extent: N.I.) (affected by repeal, see note))[^c-ec46eaf6d6b9a9ed4e28641f9ab61eef] in paragraph (6) before the definition of “relevant body” there shall be inserted the following definition— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ec46eaf6d6b9a9ed4e28641f9ab61eef]
 
-  > “ *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ec46eaf6d6b9a9ed4e28641f9ab61eef]**nautical miles *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ec46eaf6d6b9a9ed4e28641f9ab61eef]**” means international nautical miles of 1,852 metres; *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ec46eaf6d6b9a9ed4e28641f9ab61eef]
+  > “ *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ec46eaf6d6b9a9ed4e28641f9ab61eef]**nautical miles *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ec46eaf6d6b9a9ed4e28641f9ab61eef]**” means international nautical miles of 1,852 metres; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ec46eaf6d6b9a9ed4e28641f9ab61eef]
 
-  . *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ec46eaf6d6b9a9ed4e28641f9ab61eef]
+  . *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ec46eaf6d6b9a9ed4e28641f9ab61eef]
 
 ## SCHEDULE 2 — REPEALS
 
@@ -202,13 +202,13 @@ Section 3.
 
     Act extended (with modifications) (12.2.2002 with effect in accordance with art. 1 of [S.I. 2002/250](https://www.legislation.gov.uk/uksi/2002/250)) by [S.I. 1997/278](https://www.legislation.gov.uk/uksi/1997/278) (as amended by [S.I. 2002/250](https://www.legislation.gov.uk/uksi/2002/250), [art. 2(c)](https://www.legislation.gov.uk/uksi/2002/250/article/2/c))
 
-[^key-daf11a2dab910d7353f3b5a8e6481d27]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1987/49) extended (Guernsey) (with modifications) (23.7.2019) by [The Territorial Sea Act 1987 (Guernsey) Order 2019 (S.I. 2019/1108)](https://www.legislation.gov.uk/uksi/2019/1108), [art. 2](https://www.legislation.gov.uk/uksi/2019/1108/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2019/1108/schedule)
+[^c-daf11a2dab910d7353f3b5a8e6481d27]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1987/49) extended (Guernsey) (with modifications) (23.7.2019) by [The Territorial Sea Act 1987 (Guernsey) Order 2019 (S.I. 2019/1108)](https://www.legislation.gov.uk/uksi/2019/1108), [art. 2](https://www.legislation.gov.uk/uksi/2019/1108/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2019/1108/schedule)
 
 [^c786561]: Modification: [S. 1](https://www.legislation.gov.uk/ukpga/1987/49/section/1) applied (W.) (1.4.2002) by [S.I. 2002/676](https://www.legislation.gov.uk/uksi/2002/676), [art. 2(3)](https://www.legislation.gov.uk/uksi/2002/676/article/2/3)
 
 [^c786562]: Modification: [S. 1](https://www.legislation.gov.uk/ukpga/1987/49/section/1) modified (coming into force in accordance with [S.I. 2002/250](https://www.legislation.gov.uk/uksi/2002/250), [art. 1](https://www.legislation.gov.uk/uksi/2002/250/article/1)) by 1997/278 (as amended by 2002/250, arts. 1, 2)
 
-[^key-828bed69f4dc2f028a283ceef33aec2b]: Modification: [S. 1](https://www.legislation.gov.uk/ukpga/1987/49/section/1) extended (with modifications) (Guernsey) (19.5.2014) by [The Territorial Sea Act 1987 (Guernsey) Order 2014 (S.I. 2014/1105)](https://www.legislation.gov.uk/uksi/2014/1105), [arts. 1](https://www.legislation.gov.uk/uksi/2014/1105/article/1), [2](https://www.legislation.gov.uk/uksi/2014/1105/article/2), [Schs.](https://www.legislation.gov.uk/uksi/2014/1105/schedule)
+[^c-828bed69f4dc2f028a283ceef33aec2b]: Modification: [S. 1](https://www.legislation.gov.uk/ukpga/1987/49/section/1) extended (with modifications) (Guernsey) (19.5.2014) by [The Territorial Sea Act 1987 (Guernsey) Order 2014 (S.I. 2014/1105)](https://www.legislation.gov.uk/uksi/2014/1105), [arts. 1](https://www.legislation.gov.uk/uksi/2014/1105/article/1), [2](https://www.legislation.gov.uk/uksi/2014/1105/article/2), [Schs.](https://www.legislation.gov.uk/uksi/2014/1105/schedule)
 
 [^c786563]: Modification: [S. 1(7)](https://www.legislation.gov.uk/ukpga/1987/49/section/1/7) modified (coming into force in accordane with [S.I. 2002/250](https://www.legislation.gov.uk/uksi/2002/250), [art. 1](https://www.legislation.gov.uk/uksi/2002/250/article/1)) by [S.I. 1997/278](https://www.legislation.gov.uk/uksi/1997/278) (as amended by [S.I. 2002/250](https://www.legislation.gov.uk/uksi/2002/250), [arts. 1](https://www.legislation.gov.uk/uksi/2002/250/article/1), [2](https://www.legislation.gov.uk/uksi/2002/250/article/2))
 
@@ -230,11 +230,11 @@ Section 3.
 
 [^c786584]: Marginal citation: [1984 c. 22](https://www.legislation.gov.uk/ukpga/1984/22).
 
-[^key-3dcecf0284521668b1410010eafa6438]: Textual amendment: S. 3(2)(b) repealed (E.W.) (12.1.2010 for specified purposes and 12.12.2014 in so far as not already in force) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(4)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/4), [Sch. 22 Pt. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/3); [S.I. 2014/3088](https://www.legislation.gov.uk/wsi/2014/3088), [art. 2(c)](https://www.legislation.gov.uk/wsi/2014/3088/article/2/c) and s. 3(2)(b) repealed (S.) (1.7.2010) by [Marine (Scotland) Act 2010 (asp 5)](https://www.legislation.gov.uk/asp/2010/5), [s. 168(1)](https://www.legislation.gov.uk/asp/2010/5/section/168/1), [Sch. 4 para. 6(a)](https://www.legislation.gov.uk/asp/2010/5/schedule/4/paragraph/6/a) (with [s. 162](https://www.legislation.gov.uk/asp/2010/5/section/162)); [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(h)](https://www.legislation.gov.uk/ssi/2010/230/article/2/h)
+[^c-3dcecf0284521668b1410010eafa6438]: Textual amendment: S. 3(2)(b) repealed (E.W.) (12.1.2010 for specified purposes and 12.12.2014 in so far as not already in force) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(4)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/4), [Sch. 22 Pt. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/3); [S.I. 2014/3088](https://www.legislation.gov.uk/wsi/2014/3088), [art. 2(c)](https://www.legislation.gov.uk/wsi/2014/3088/article/2/c) and s. 3(2)(b) repealed (S.) (1.7.2010) by [Marine (Scotland) Act 2010 (asp 5)](https://www.legislation.gov.uk/asp/2010/5), [s. 168(1)](https://www.legislation.gov.uk/asp/2010/5/section/168/1), [Sch. 4 para. 6(a)](https://www.legislation.gov.uk/asp/2010/5/schedule/4/paragraph/6/a) (with [s. 162](https://www.legislation.gov.uk/asp/2010/5/section/162)); [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(h)](https://www.legislation.gov.uk/ssi/2010/230/article/2/h)
 
 [^c786585]: Marginal citation: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69).
 
-[^key-e6f2b2c4868bbdbcba8c13bbc09af6fe]: Textual amendment: S. 3(2)(c) repealed (N.I.) (18.9.2013) by [Marine Act (Northern Ireland) 2013 (c. 10)](https://www.legislation.gov.uk/nia/2013/10), [ss. 40(1)(b)(i)](https://www.legislation.gov.uk/nia/2013/10/section/40/1/b/i), [49](https://www.legislation.gov.uk/nia/2013/10/section/49) (with [ss. 1(1)](https://www.legislation.gov.uk/nia/2013/10/section/1/1), [46(3)](https://www.legislation.gov.uk/nia/2013/10/section/46/3), [47](https://www.legislation.gov.uk/nia/2013/10/section/47))
+[^c-e6f2b2c4868bbdbcba8c13bbc09af6fe]: Textual amendment: S. 3(2)(c) repealed (N.I.) (18.9.2013) by [Marine Act (Northern Ireland) 2013 (c. 10)](https://www.legislation.gov.uk/nia/2013/10), [ss. 40(1)(b)(i)](https://www.legislation.gov.uk/nia/2013/10/section/40/1/b/i), [49](https://www.legislation.gov.uk/nia/2013/10/section/49) (with [ss. 1(1)](https://www.legislation.gov.uk/nia/2013/10/section/1/1), [46(3)](https://www.legislation.gov.uk/nia/2013/10/section/46/3), [47](https://www.legislation.gov.uk/nia/2013/10/section/47))
 
 [^c786586]: Marginal citation: [S.I. 1985/170](https://www.legislation.gov.uk/uksi/1985/170) (N.I.).
 
@@ -242,7 +242,7 @@ Section 3.
 
 [^c786589]: Extent: [S. 4](https://www.legislation.gov.uk/ukpga/1987/49/section/4) does not extend to the Channel Islands nor the Colonies.
 
-[^key-f9cf4d154c4806aedb1d7c14d84b96b3]: Modification: [S. 4(1)](https://www.legislation.gov.uk/ukpga/1987/49/section/4/1) extended (with modifications) (Guernsey) (19.5.2014) by [The Territorial Sea Act 1987 (Guernsey) Order 2014 (S.I. 2014/1105)](https://www.legislation.gov.uk/uksi/2014/1105), [arts. 1](https://www.legislation.gov.uk/uksi/2014/1105/article/1), [2](https://www.legislation.gov.uk/uksi/2014/1105/article/2), [Schs.](https://www.legislation.gov.uk/uksi/2014/1105/schedule)
+[^c-f9cf4d154c4806aedb1d7c14d84b96b3]: Modification: [S. 4(1)](https://www.legislation.gov.uk/ukpga/1987/49/section/4/1) extended (with modifications) (Guernsey) (19.5.2014) by [The Territorial Sea Act 1987 (Guernsey) Order 2014 (S.I. 2014/1105)](https://www.legislation.gov.uk/uksi/2014/1105), [arts. 1](https://www.legislation.gov.uk/uksi/2014/1105/article/1), [2](https://www.legislation.gov.uk/uksi/2014/1105/article/2), [Schs.](https://www.legislation.gov.uk/uksi/2014/1105/schedule)
 
 [^c786590]: Modification: Power of appointment conferred by s. 4(2) fully exercised: 1.10.1987 appointed by [S.I. 1987/1270](https://www.legislation.gov.uk/uksi/1987/1270)
 
@@ -252,7 +252,7 @@ Section 3.
 
 [^c786593]: Marginal citation: [1971 c. 61](https://www.legislation.gov.uk/ukpga/1971/61).
 
-[^key-aae0a1ca5cabc50949ae451455a6ca22]: Textual amendment: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/1987/49/schedule/1/paragraph/3) repealed (1.1.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 22 Pt. 5(B)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/5/B); [S.I. 2010/298](https://www.legislation.gov.uk/uksi/2010/298), [art. 2](https://www.legislation.gov.uk/uksi/2010/298/article/2), [Sch. para. 14](https://www.legislation.gov.uk/uksi/2010/298/schedule/paragraph/14)
+[^c-aae0a1ca5cabc50949ae451455a6ca22]: Textual amendment: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/1987/49/schedule/1/paragraph/3) repealed (1.1.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 22 Pt. 5(B)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/5/B); [S.I. 2010/298](https://www.legislation.gov.uk/uksi/2010/298), [art. 2](https://www.legislation.gov.uk/uksi/2010/298/article/2), [Sch. para. 14](https://www.legislation.gov.uk/uksi/2010/298/schedule/paragraph/14)
 
 [^c786595]: Marginal citation: [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2).
 
@@ -260,7 +260,7 @@ Section 3.
 
 [^c2030440]: Textual amendment: [Sch. 1 para. 5(2)](https://www.legislation.gov.uk/ukpga/1987/49/schedule/1/paragraph/5/2) repealed (19.7.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 178](https://www.legislation.gov.uk/ukpga/2006/25/section/178), [Sch. 26 Pt. 1(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/1/1)
 
-[^key-84c3474a9c20640c22d9d1a3aca2b3cf]: Textual amendment: Sch. 1 para. 6 repealed (E.W.) (12.1.2010 for specified purposes and 12.12.2014 for W.) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(4)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/4), [Sch. 22 Pt. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/3); S.I. 2014/3088, art. 2(c) and Sch. 1 para. 6 repealed (S.) (1.7.2010) by [Marine (Scotland) Act 2010 (asp 5)](https://www.legislation.gov.uk/asp/2010/5), [s. 168(1)](https://www.legislation.gov.uk/asp/2010/5/section/168/1), [Sch. 4 para. 6(b)](https://www.legislation.gov.uk/asp/2010/5/schedule/4/paragraph/6/b) (with [s. 162](https://www.legislation.gov.uk/asp/2010/5/section/162)); [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(h)](https://www.legislation.gov.uk/ssi/2010/230/article/2/h)
+[^c-84c3474a9c20640c22d9d1a3aca2b3cf]: Textual amendment: Sch. 1 para. 6 repealed (E.W.) (12.1.2010 for specified purposes and 12.12.2014 for W.) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(4)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/4), [Sch. 22 Pt. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/3); S.I. 2014/3088, art. 2(c) and Sch. 1 para. 6 repealed (S.) (1.7.2010) by [Marine (Scotland) Act 2010 (asp 5)](https://www.legislation.gov.uk/asp/2010/5), [s. 168(1)](https://www.legislation.gov.uk/asp/2010/5/section/168/1), [Sch. 4 para. 6(b)](https://www.legislation.gov.uk/asp/2010/5/schedule/4/paragraph/6/b) (with [s. 162](https://www.legislation.gov.uk/asp/2010/5/section/162)); [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(h)](https://www.legislation.gov.uk/ssi/2010/230/article/2/h)
 
 [^c786597]: Marginal citation: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69).
 
@@ -268,6 +268,6 @@ Section 3.
 
 [^c786600]: Marginal citation: [1984 c. 22](https://www.legislation.gov.uk/ukpga/1984/22).
 
-[^key-ec46eaf6d6b9a9ed4e28641f9ab61eef]: Textual amendment: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/1987/49/schedule/1/paragraph/9) repealed (N.I.) (18.9.2013) by [Marine Act (Northern Ireland) 2013 (c. 10)](https://www.legislation.gov.uk/nia/2013/10), [ss. 40(1)(b)(ii)](https://www.legislation.gov.uk/nia/2013/10/section/40/1/b/ii), [49](https://www.legislation.gov.uk/nia/2013/10/section/49) (with [ss. 1(1)](https://www.legislation.gov.uk/nia/2013/10/section/1/1), [46(3)](https://www.legislation.gov.uk/nia/2013/10/section/46/3), [47](https://www.legislation.gov.uk/nia/2013/10/section/47))
+[^c-ec46eaf6d6b9a9ed4e28641f9ab61eef]: Textual amendment: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/1987/49/schedule/1/paragraph/9) repealed (N.I.) (18.9.2013) by [Marine Act (Northern Ireland) 2013 (c. 10)](https://www.legislation.gov.uk/nia/2013/10), [ss. 40(1)(b)(ii)](https://www.legislation.gov.uk/nia/2013/10/section/40/1/b/ii), [49](https://www.legislation.gov.uk/nia/2013/10/section/49) (with [ss. 1(1)](https://www.legislation.gov.uk/nia/2013/10/section/1/1), [46(3)](https://www.legislation.gov.uk/nia/2013/10/section/46/3), [47](https://www.legislation.gov.uk/nia/2013/10/section/47))
 
 [^c786601]: Marginal citation: [S.I. 1985/170 (N.I. 1)](https://www.legislation.gov.uk/nisi/1985/170).

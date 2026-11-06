@@ -31,34 +31,34 @@ summary: ''
 
 Saving Gateway Accounts
 
-The Saving Gateway Accounts Act 2009 (Commencement No. 2) Order 2010 (revoked)[^key-392b940c2e94e96ccd2f6dfc8453d9cd]
+The Saving Gateway Accounts Act 2009 (Commencement No. 2) Order 2010 (revoked)[^c-392b940c2e94e96ccd2f6dfc8453d9cd]
 
 Made
 
 24th March 2010
 
-[^key-392b940c2e94e96ccd2f6dfc8453d9cd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-392b940c2e94e96ccd2f6dfc8453d9cd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation[^key-392b940c2e94e96ccd2f6dfc8453d9cd]
+## 1. Citation[^c-392b940c2e94e96ccd2f6dfc8453d9cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Appointed day[^key-392b940c2e94e96ccd2f6dfc8453d9cd]
+## 2. Appointed day[^c-392b940c2e94e96ccd2f6dfc8453d9cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-392b940c2e94e96ccd2f6dfc8453d9cd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-392b940c2e94e96ccd2f6dfc8453d9cd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-392b940c2e94e96ccd2f6dfc8453d9cd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-392b940c2e94e96ccd2f6dfc8453d9cd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-392b940c2e94e96ccd2f6dfc8453d9cd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-392b940c2e94e96ccd2f6dfc8453d9cd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-392b940c2e94e96ccd2f6dfc8453d9cd]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2010/921) revoked (22.6.2010) by [The Saving Gateway Accounts Act 2009 (Revocation of Commencement) Order 2010 (S.I. 2010/1640)](https://www.legislation.gov.uk/uksi/2010/1640), [art. 2](https://www.legislation.gov.uk/uksi/2010/1640/article/2)
+[^c-392b940c2e94e96ccd2f6dfc8453d9cd]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2010/921) revoked (22.6.2010) by [The Saving Gateway Accounts Act 2009 (Revocation of Commencement) Order 2010 (S.I. 2010/1640)](https://www.legislation.gov.uk/uksi/2010/1640), [art. 2](https://www.legislation.gov.uk/uksi/2010/1640/article/2)

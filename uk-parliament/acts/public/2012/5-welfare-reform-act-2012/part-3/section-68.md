@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Determinations[^key-0763765dd59605eb4c12188f7374adf6]
+## 68. Determinations[^c-0763765dd59605eb4c12188f7374adf6]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0763765dd59605eb4c12188f7374adf6]: Commencement: S. 68 in force at 5.12.2012 by [S.I. 2012/2530](https://www.legislation.gov.uk/uksi/2012/2530), [art. 2(6)(d)](https://www.legislation.gov.uk/uksi/2012/2530/article/2/6/d)
+[^c-0763765dd59605eb4c12188f7374adf6]: Commencement: S. 68 in force at 5.12.2012 by [S.I. 2012/2530](https://www.legislation.gov.uk/uksi/2012/2530), [art. 2(6)(d)](https://www.legislation.gov.uk/uksi/2012/2530/article/2/6/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Tribunal to consider fitness for judicial office[^key-24ac562d4c4f8f49f9ca890e36c714d5]
+## 35. Tribunal to consider fitness for judicial office[^c-24ac562d4c4f8f49f9ca890e36c714d5]
 
 *Extent: S*
 
@@ -65,4 +65,4 @@ constitute a tribunal to investigate and report on whether a person holding a ju
 
 ## Annotations
 
-[^key-24ac562d4c4f8f49f9ca890e36c714d5]: Commencement: S. 35 in force at 1.4.2010 by [S.S.I. 2010/39](https://www.legislation.gov.uk/ssi/2010/39), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/39/article/2/b), [Sch.](https://www.legislation.gov.uk/ssi/2010/39/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2010/39/article/3))
+[^c-24ac562d4c4f8f49f9ca890e36c714d5]: Commencement: S. 35 in force at 1.4.2010 by [S.S.I. 2010/39](https://www.legislation.gov.uk/ssi/2010/39), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/39/article/2/b), [Sch.](https://www.legislation.gov.uk/ssi/2010/39/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2010/39/article/3))

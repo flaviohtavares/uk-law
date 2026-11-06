@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 299A. Voluntary office-holders: compensation for lost employment income[^key-c939ec8ceab8dea14b4ca21a0c360baa]
+## 299A. Voluntary office-holders: compensation for lost employment income[^c-c939ec8ceab8dea14b4ca21a0c360baa]
 
 *Extent: E+W+S+N.I.*
 
@@ -87,6 +87,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c939ec8ceab8dea14b4ca21a0c360baa]: Textual amendment: S. 299A and cross-heading inserted (6.4.2018) by [The Enactment of Extra-Statutory Concessions Order 2018 (S.I. 2018/282)](https://www.legislation.gov.uk/uksi/2018/282), [arts. 1](https://www.legislation.gov.uk/uksi/2018/282/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2018/282/article/2/2)
+[^c-c939ec8ceab8dea14b4ca21a0c360baa]: Textual amendment: S. 299A and cross-heading inserted (6.4.2018) by [The Enactment of Extra-Statutory Concessions Order 2018 (S.I. 2018/282)](https://www.legislation.gov.uk/uksi/2018/282), [arts. 1](https://www.legislation.gov.uk/uksi/2018/282/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2018/282/article/2/2)
 
 [^M_F_391cbace-4d4a-4889-a326-327c41923d88]: Textual amendment: Words in s. 299A(3)(a) inserted (with effect in relation to the tax year 2020-21 and subsequent tax years) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 14(2)(3)](https://www.legislation.gov.uk/ukpga/2020/14/section/14/2/3)

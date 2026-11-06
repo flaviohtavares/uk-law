@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 70. “National standard” and “regulated licence”[^key-1f172fb543052ba0653ea23e1a81c4ef]
+## 70. “National standard” and “regulated licence”[^c-1f172fb543052ba0653ea23e1a81c4ef]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ A “national standard” is a standard prescribed by the Secretary of State und
 
 ## Annotations
 
-[^key-1f172fb543052ba0653ea23e1a81c4ef]: Commencement: S. 70 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)
+[^c-1f172fb543052ba0653ea23e1a81c4ef]: Commencement: S. 70 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)

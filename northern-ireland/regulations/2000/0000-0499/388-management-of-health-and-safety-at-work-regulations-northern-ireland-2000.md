@@ -46,7 +46,7 @@ The Department of Enterprise, Trade and Investment, being a Department designate
 
 hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-567ea646b9e3861805a19d5947374bae]
+## 1. Citation, commencement and interpretation[^c-567ea646b9e3861805a19d5947374bae]
 
 (1) These Regulations may be cited as the Management of Health and Safety at Work Regulations (Northern Ireland) 2000 and shall come into operation on 1st February 2001.
 
@@ -55,7 +55,7 @@ hereby makes the following Regulations:
 - “the 1996 Order” means the Employment Rights (Northern Ireland) Order 1996[^f00007];
 - “the assessment” means, in the case of an employer or self-employed person, the assessment made or changed by him in accordance with regulation 3;
 - “child” means a person who is not over compulsory school age within the meaning of Article 46 of the Education and Libraries (Northern Ireland) Order 1986[^f00008];
-- “Directive 2014/27/[^key-5a813274bc9437b0e1f5ebc9db2971e3]EU” means Directive 2014/27/EU of the European Parliament and of the Council of 26 February 2014 amending Council Directives [92/58/EEC](https://www.legislation.gov.uk/european/directive/1992/0058), [92/85/EEC](https://www.legislation.gov.uk/european/directive/1992/0085), [94/33/EC](https://www.legislation.gov.uk/european/directive/1994/0033), [98/24/EC](https://www.legislation.gov.uk/european/directive/1998/0024) and Directive [2004/37/EC](https://www.legislation.gov.uk/european/directive/2004/0037) of the European Parliament and of the Council in order to align them to Regulation [(EC) No 1272/2008](https://www.legislation.gov.uk/european/regulation/2008/1272) on classification, labelling and packaging of substances and mixtures;
+- “Directive 2014/27/[^c-5a813274bc9437b0e1f5ebc9db2971e3]EU” means Directive 2014/27/EU of the European Parliament and of the Council of 26 February 2014 amending Council Directives [92/58/EEC](https://www.legislation.gov.uk/european/directive/1992/0058), [92/85/EEC](https://www.legislation.gov.uk/european/directive/1992/0085), [94/33/EC](https://www.legislation.gov.uk/european/directive/1994/0033), [98/24/EC](https://www.legislation.gov.uk/european/directive/1998/0024) and Directive [2004/37/EC](https://www.legislation.gov.uk/european/directive/2004/0037) of the European Parliament and of the Council in order to align them to Regulation [(EC) No 1272/2008](https://www.legislation.gov.uk/european/regulation/2008/1272) on classification, labelling and packaging of substances and mixtures;
 - “employment business” means a business (whether or not carried on with a view to profit and whether or not carried on in conjunction with any other business) which supplies persons (other than seafarers) who are employed in it to work for and under the control of other persons in any capacity;
 - “fixed-term contract of employment” means a contract of employment for a specific term which is fixed in advance or which can be ascertained in advance by reference to some relevant circumstance;
 - “given birth” means delivered of a living child or, after twenty-four weeks of pregnancy, a stillborn child;
@@ -68,7 +68,7 @@ hereby makes the following Regulations:
 
 (3) The Interpretation Act (Northern Ireland) 1954[^f00011] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly.
 
-## 2. Disapplication of these Regulations[^key-7a8254bde41658c7cd0b70f56b66bf03]
+## 2. Disapplication of these Regulations[^c-7a8254bde41658c7cd0b70f56b66bf03]
 
 (1) These Regulations shall not apply to or in relation to the master and crew of a ship, or to the employer of such persons, in respect of the normal ship-board activities of a ship’s crew which are carried out solely by the crew under the direction of the master.
 
@@ -81,7 +81,7 @@ hereby makes the following Regulations:
   - (b) the repair of a ship save repair when carried out in dry dock;
 - “ship” includes every description of vessel used in navigation, other than a ship belonging to Her Majesty which forms part of Her Majesty’s Navy.
 
-## 3. Risk assessment[^key-c253d391622962643133a6f6bf2f428a]
+## 3. Risk assessment[^c-c253d391622962643133a6f6bf2f428a]
 
 (1) Every employer shall make a suitable and sufficient assessment of—
 
@@ -114,28 +114,28 @@ and where as a result of any such review changes to an assessment are required, 
 - (d) the form, range and use of work equipment and the way in which it is handled;
 - (e) the organisation of processes and activities;
 - (f) the extent of the health and safety training provided or to be provided to young persons; and
-- (g)[^key-9e27544a93c24a8d4d6f248c472b18df] risks from agents, processes and work listed in the Annex to Council Directive [94/33/EC](https://www.legislation.gov.uk/european/directive/1994/0033) on the protection of young people at work, as amended by Directive 2014/27/EU.
+- (g)[^c-9e27544a93c24a8d4d6f248c472b18df] risks from agents, processes and work listed in the Annex to Council Directive [94/33/EC](https://www.legislation.gov.uk/european/directive/1994/0033) on the protection of young people at work, as amended by Directive 2014/27/EU.
 
 (6) Where the employer employs five or more employees, he shall record—
 
 - (a) the significant findings of the assessment; and
 - (b) any group of his employees identified by it as being especially at risk.
 
-## 4. Principles of prevention to be applied[^key-6002ec4a8ba5a42d4d9b7c93cce44117]
+## 4. Principles of prevention to be applied[^c-6002ec4a8ba5a42d4d9b7c93cce44117]
 
 Where an employer implements any preventive and protective measures he shall do so on the basis of the principles specified in Schedule 1.
 
-## 5. Health and safety arrangements[^key-f5b92535fb7d19e5aaa7e2f6ae9c765c]
+## 5. Health and safety arrangements[^c-f5b92535fb7d19e5aaa7e2f6ae9c765c]
 
 (1) Every employer shall make and give effect to such arrangements as are appropriate, having regard to the nature of his activities and the size of his undertaking, for the effective planning, organisation, control, monitoring and review of the preventive and protective measures.
 
 (2) Where the employer employs five or more employees, he shall record the arrangements referred to in paragraph (1).
 
-## 6. Health surveillance[^key-fcdb310920d3c48cf44688d314b5fdc5]
+## 6. Health surveillance[^c-fcdb310920d3c48cf44688d314b5fdc5]
 
 Every employer shall ensure that his employees are provided with such health surveillance as is appropriate having regard to the risks to their health and safety which are identified by the assessment.
 
-## 7. Health and safety assistance[^key-777114a329beaa7bceeea4afdcdc9a07]
+## 7. Health and safety assistance[^c-777114a329beaa7bceeea4afdcdc9a07]
 
 (1) Every employer shall, subject to paragraphs (6) and (7), appoint one or more competent persons to assist him in undertaking the measures he needs to take to comply with the requirements and prohibitions imposed upon him by or under the relevant statutory provisions.
 
@@ -165,7 +165,7 @@ Every employer shall ensure that his employees are provided with such health sur
 
 (8) Where there is a competent person in the employer’s employment, that person shall be appointed for the purposes of paragraph (1) in preference to a competent person not in his employment.
 
-## 8. Procedures for serious and imminent danger and for danger areas[^key-661216d45d354c1ae93ba8b9db06f2cd]
+## 8. Procedures for serious and imminent danger and for danger areas[^c-661216d45d354c1ae93ba8b9db06f2cd]
 
 (1) Every employer shall—
 
@@ -181,11 +181,11 @@ Every employer shall ensure that his employees are provided with such health sur
 
 (3) A person shall be regarded as competent for the purposes of paragraph (1)(*b*) where he has sufficient training and experience or knowledge and other qualities to enable him properly to implement the evacuation procedures referred to in that sub-paragraph.
 
-## 9. Contacts with external services[^key-f37365f1e863c7ca23fac52b98d6b7d1]
+## 9. Contacts with external services[^c-f37365f1e863c7ca23fac52b98d6b7d1]
 
 Every employer shall ensure that any necessary contacts with external services are arranged, particularly as regards first-aid, emergency medical care and rescue work.
 
-## 10. Information for employees[^key-4d6c6bf53d18d950f715008c4cd9bc4d]
+## 10. Information for employees[^c-4d6c6bf53d18d950f715008c4cd9bc4d]
 
 (1) Every employer shall provide his employees with comprehensible and relevant information on—
 
@@ -203,7 +203,7 @@ Every employer shall ensure that any necessary contacts with external services a
 
 (3) In paragraph (2), the reference to the parent of a child includes a person who has for that child parental responsibility within the meaning of Article 6 of the Children (Northern Ireland) Order 1995[^f00013].
 
-## 11. Co-operation and co-ordination[^key-b68f21dad584eb7e70dd0d9de3f7ef28]
+## 11. Co-operation and co-ordination[^c-b68f21dad584eb7e70dd0d9de3f7ef28]
 
 (1) Where two or more employers share a workplace (whether on a temporary or a permanent basis) each such employer shall—
 
@@ -213,7 +213,7 @@ Every employer shall ensure that any necessary contacts with external services a
 
 (2) Paragraph (1) shall apply to employers sharing a workplace with self-employed persons and to self-employed persons sharing a workplace with other self-employed persons as it applies to employers sharing a workplace with other employers; and the references in that paragraph to employers and the reference in the said paragraph to their employees shall be construed accordingly.
 
-## 12. Persons working in host employers' or self-employed persons' undertakings[^key-585e7a60c30890e74b511dbc61d7869e]
+## 12. Persons working in host employers' or self-employed persons' undertakings[^c-585e7a60c30890e74b511dbc61d7869e]
 
 (1) Every employer and every self-employed person shall ensure that the employer of any employees from an outside undertaking who are working in his undertaking is provided with comprehensible information on—
 
@@ -231,7 +231,7 @@ Every employer shall ensure that any necessary contacts with external services a
 
 (5) Paragraph (4) shall apply to a self-employed person who is working in an employer’s undertaking as it applies to employees from an outside undertaking who are working therein; and the reference in that paragraph to the employer of any employees from an outside undertaking who are working in an employer’s undertaking and the references in the said paragraph to employees from an outside undertaking who are working in an employer’s undertaking shall be construed accordingly.
 
-## 13. Capabilities and training[^key-8f8de3ba259b5dc3c1cfcca05270468b]
+## 13. Capabilities and training[^c-8f8de3ba259b5dc3c1cfcca05270468b]
 
 (1) Every employer shall, in entrusting tasks to his employees, take into account their capabilities as regards health and safety.
 
@@ -250,7 +250,7 @@ Every employer shall ensure that any necessary contacts with external services a
 - (b) be adapted to take account of any new or changed risks to the health and safety of the employees concerned; and
 - (c) take place during working hours.
 
-## 14. Employees' duties[^key-b2aba2a0415c511a8fd351b31ce7f454]
+## 14. Employees' duties[^c-b2aba2a0415c511a8fd351b31ce7f454]
 
 (1) Every employee shall use any machinery, equipment, dangerous substance, transport equipment, means of production or safety device provided to him by his employer in accordance both with any training in the use of the equipment concerned which has been received by him and the instructions respecting that use which have been provided to him by the said employer in compliance with the requirements and prohibitions imposed upon that employer by or under the relevant statutory provisions.
 
@@ -261,7 +261,7 @@ Every employer shall ensure that any necessary contacts with external services a
 
 in so far as that situation or matter either affects the health and safety of that first-mentioned employee or arises out of or in connection with his own activities at work, and has not previously been reported to his employer or to any other employee of that employer in accordance with this paragraph.
 
-## 15. Temporary workers[^key-bffe1efb838f6d0b74e7aacc2f7c24cf]
+## 15. Temporary workers[^c-bffe1efb838f6d0b74e7aacc2f7c24cf]
 
 (1) Every employer shall provide any person whom he has employed under a fixed-term contract of employment with comprehensible information on—
 
@@ -282,12 +282,12 @@ and shall provide the said information before the employee concerned commences h
 
 and the person carrying on the employment business concerned shall ensure that the information so provided is given to the said employees.
 
-## 16. Risk assessment in respect of new or expectant mothers[^key-66ddbd785b99a6ffc92b5652aa184c4f]
+## 16. Risk assessment in respect of new or expectant mothers[^c-66ddbd785b99a6ffc92b5652aa184c4f]
 
 (1) Where—
 
 - (a) the persons working in an undertaking include women of child- bearing age; and
-- (b) the work is of a kind which could involve risk, by reason of her condition, to the health and safety of a new or expectant mother, or to that of her baby, from any processes or working conditions, or physical, biological or chemical agents, including those specified in Annexes I and II of Council Directive [92/85/EEC](https://www.legislation.gov.uk/european/directive/1992/0085)[^f00014] on the introduction of measures to encourage improvements in the safety and health at work of pregnant workers and workers who have recently given birth or are breastfeeding, as amended by Directive 2014/27/[^key-3c10f740bc649a54b35b40df4f324e72]EU,
+- (b) the work is of a kind which could involve risk, by reason of her condition, to the health and safety of a new or expectant mother, or to that of her baby, from any processes or working conditions, or physical, biological or chemical agents, including those specified in Annexes I and II of Council Directive [92/85/EEC](https://www.legislation.gov.uk/european/directive/1992/0085)[^f00014] on the introduction of measures to encourage improvements in the safety and health at work of pregnant workers and workers who have recently given birth or are breastfeeding, as amended by Directive 2014/27/[^c-3c10f740bc649a54b35b40df4f324e72]EU,
 
 the assessment required by regulation 3(1) shall also include an assessment of such risk.
 
@@ -297,7 +297,7 @@ the assessment required by regulation 3(1) shall also include an assessment of s
 
 (4) In paragraphs (1) to (3) references to risk, in relation to risk from any infectious or contagious disease, are references to a level of risk at work which is in addition to the level to which a new or expectant mother may be expected to be exposed outside the workplace.
 
-## 16A. Alteration of working conditions in respect of new or expectant mothers (agency workers)[^key-e831ac351686f1cfa522c5f8e5cc6ded]
+## 16A. Alteration of working conditions in respect of new or expectant mothers (agency workers)[^c-e831ac351686f1cfa522c5f8e5cc6ded]
 
 (1) Where, in the case of an individual agency worker, the taking of any other action the hirer is required to take under the relevant statutory provisions would not avoid the risk referred to in regulation 16(1) the hirer shall, if it is reasonable to do so, and would avoid such risks, alter her working conditions or hours of work.
 
@@ -305,7 +305,7 @@ the assessment required by regulation 3(1) shall also include an assessment of s
 
 (3) In paragraphs (1) and (2) references to risk, in relation to risk from any infectious or contagious disease, are references to a level of risk at work which is in addition to the level to which a new or expectant mother may be expected to be exposed outside the workplace. 
 
-## 17. Certificate from a registered medical practitioner or a registered midwife in respect of new or expectant mothers[^key-bc47f2a0785cdc8d348a93ac8639efc3]
+## 17. Certificate from a registered medical practitioner or a registered midwife in respect of new or expectant mothers[^c-bc47f2a0785cdc8d348a93ac8639efc3]
 
 Where—
 
@@ -314,7 +314,7 @@ Where—
 
 the employer shall, subject to Article 99 of the 1996 Order (right to offer of alternative work), suspend her from work for so long as is necessary for her health or safety.
 
-## 17A. Certificate from registered medical practitioner in respect of new or expectant mothers (agency workers)[^key-38d7c8161846a425fb8cb7df7bd552e4]
+## 17A. Certificate from registered medical practitioner in respect of new or expectant mothers (agency workers)[^c-38d7c8161846a425fb8cb7df7bd552e4]
 
 Where—
 
@@ -323,7 +323,7 @@ Where—
 
 the hirer shall without delay inform the temporary work agency, who shall then end the supply of that agency worker to the hirer.
 
-## 18. Notification by new or expectant mothers[^key-af778bc2044149e628832d914d25c37c]
+## 18. Notification by new or expectant mothers[^c-af778bc2044149e628832d914d25c37c]
 
 (1) Nothing in paragraph (2) or (3) of regulation 16 shall require the employer to take any action in relation to an employee until she has notified the employer in writing that she is pregnant, has given birth within the previous six months, or is breastfeeding.
 
@@ -337,7 +337,7 @@ the hirer shall without delay inform the temporary work agency, who shall then e
 - (b) once the employer knows that she is no longer a new or expectant mother; or
 - (c) if the employer cannot establish whether she remains a new or expectant mother.
 
-## 18A. Notification by new or expectant mothers (agency workers)[^key-25ffb70018213535c41ee1ea7254abfd]
+## 18A. Notification by new or expectant mothers (agency workers)[^c-25ffb70018213535c41ee1ea7254abfd]
 
 (1) Nothing in regulation 16A(1) or (2) shall require the hirer to take any action in relation to an agency worker until she has notified the hirer in writing that she is pregnant, has given birth within the previous six months, or is breastfeeding.
 
@@ -370,7 +370,7 @@ the hirer shall without delay inform the temporary work agency, who shall then e
 - “qualifying period”;
 - “temporary work agency”.
 
-## 19. Protection of young persons[^key-964ae09fefd7c25a91697b4c78802ad3]
+## 19. Protection of young persons[^c-964ae09fefd7c25a91697b4c78802ad3]
 
 (1) Every employer shall ensure that young persons employed by him are protected at work from any risks to their health or safety which are a consequence of their lack of experience, of absence of awareness of existing or potential risks or the fact that young persons have not yet fully matured.
 
@@ -393,11 +393,11 @@ the hirer shall without delay inform the temporary work agency, who shall then e
 - (b) where the young person will be supervised by a competent person; and
 - (c) where any risk will be reduced to the lowest level that is reasonably practicable.
 
-## 20. Exemption certificates[^key-7a2a7236764ed5203c66c38f4d4e95b5]
+## 20. Exemption certificates[^c-7a2a7236764ed5203c66c38f4d4e95b5]
 
 (1) The Secretary of State for Defence may, in the interests of national security, by a certificate in writing exempt—
 
-- (a) any of the home forces, any visiting force or any headquarters from those requirements of these Regulations which impose obligations, other than those in regulations 16 to 18B[^key-b8930c1dd7fc7703fbc7c9de99feccd9] , on employers; or
+- (a) any of the home forces, any visiting force or any headquarters from those requirements of these Regulations which impose obligations, other than those in regulations 16 to 18B[^c-b8930c1dd7fc7703fbc7c9de99feccd9] , on employers; or
 - (b) any member of the home forces, any member of a visiting force or any member of a headquarters from the requirements imposed by regulation 14;
 
 and any exemption such as is specified in sub-paragraph (*a*) or (*b*) may be granted subject to conditions and to a limit of time and may be revoked by the said Secretary of State by a further certificate in writing at any time.
@@ -409,28 +409,28 @@ and any exemption such as is specified in sub-paragraph (*a*) or (*b*) may be gr
 - (c) “member of a headquarters” has the same meaning as in paragraph 1(1) of the Schedule to the International Headquarters and Defence Organisations Act 1964[^f00018]; and
 - (d) “visiting force” has the same meaning as it does for the purposes of any provision of Part I of the Visiting Forces Act 1952.
 
-## 21. Provisions as to liability[^key-4e52764205a2678bbdb0dd0f42af5475]
+## 21. Provisions as to liability[^c-4e52764205a2678bbdb0dd0f42af5475]
 
 Nothing in the relevant statutory provisions shall operate so as to afford an employer a defence in any criminal proceedings for a contravention of those provisions by reason of any act or default of—
 
 - (a) an employee of his, or
 - (b) a person appointed by him under regulation 7.
 
-## 22. Exclusion of civil liability[^key-3627bd3cb1639a64574e904c14260548]
+## 22. Exclusion of civil liability[^c-3627bd3cb1639a64574e904c14260548]
 
 Breach of a duty imposed on an employer by these Regulations shall not confer a right of action in any civil proceedings in so far as that duty applies for the protection of persons not in his employment.
 
-## 23. Application within territorial waters[^key-e686443f54d5755b3658e1e2e37ee64a]
+## 23. Application within territorial waters[^c-e686443f54d5755b3658e1e2e37ee64a]
 
 (1) Subject to paragraph (2), within territorial waters these Regulations shall apply only to and in relation to the premises and activities specified in paragraphs 2 to 6 of Schedule 2.
 
 (2) For the purposes of Part II of the 1978 Order, the meaning of “at work” shall be extended so that an employee or a self-employed person shall be treated as being at work throughout the time that he is present at the premises to and in relation to which these Regulations apply by virtue of paragraph (1); and, in that connection, these Regulations shall have effect subject to the extension effected by this paragraph.
 
-## 24. Amendment of the Health and Safety (First-Aid) Regulations (Northern Ireland) 1982[^key-31f7b446d9f3a7f6cbbb8f95b6d94c8a]
+## 24. Amendment of the Health and Safety (First-Aid) Regulations (Northern Ireland) 1982[^c-31f7b446d9f3a7f6cbbb8f95b6d94c8a]
 
 Regulation 6 of the Health and Safety (First-Aid) Regulations (Northern Ireland) 1982[^f00019] is hereby revoked.
 
-## 25. Amendment of the Offshore Installations and Pipeline Works (First-Aid) Regulations (Northern Ireland) 1993[^key-b40e07dacd0a17869d6d505170801d47]
+## 25. Amendment of the Offshore Installations and Pipeline Works (First-Aid) Regulations (Northern Ireland) 1993[^c-b40e07dacd0a17869d6d505170801d47]
 
 (1) The Offshore Installations and Pipeline Works (First-Aid) Regulations (Northern Ireland) 1993[^f00020] shall be amended in accordance with paragraphs (2) and (3).
 
@@ -442,7 +442,7 @@ Regulation 6 of the Health and Safety (First-Aid) Regulations (Northern Ireland)
 
 .
 
-## 26. Amendment of the Mines Miscellaneous Health and Safety Provisions Regulations (Northern Ireland) 1995[^key-a0c8a9dee1080f79e96863160718d8ce]
+## 26. Amendment of the Mines Miscellaneous Health and Safety Provisions Regulations (Northern Ireland) 1995[^c-a0c8a9dee1080f79e96863160718d8ce]
 
 (1) The Mines Miscellaneous Health and Safety Provisions Regulations (Northern Ireland) 1995[^f00021] shall be amended in accordance with paragraphs (2) and (3).
 
@@ -460,11 +460,11 @@ Regulation 6 of the Health and Safety (First-Aid) Regulations (Northern Ireland)
 
 .
 
-## 27. Amendment of the Construction (Health, Safety and Welfare) Regulations (Northern Ireland) 1996[^key-6b08647aaa5730ad6f6b0c822696a4ba]
+## 27. Amendment of the Construction (Health, Safety and Welfare) Regulations (Northern Ireland) 1996[^c-6b08647aaa5730ad6f6b0c822696a4ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 28. Revocations and consequential amendments[^key-34922645c1ee2a04a6107e3c2480b3b6]
+## 28. Revocations and consequential amendments[^c-34922645c1ee2a04a6107e3c2480b3b6]
 
 (1) The Management of Health and Safety at Work Regulations (Northern Ireland) 1992[^f00023], the Management of Health and Safety at Work (Amendment) Regulations (Northern Ireland) 1994[^f00024] and the Health and Safety (Young Persons) Regulations (Northern Ireland) 1997[^f00025] are hereby revoked.
 
@@ -478,11 +478,11 @@ Senior Officer of the
 
 Department of Enterprise, Trade and Investment
 
-## SCHEDULE 1 — General Principles of Prevention[^key-87edc4162f6480c30d64cdaffb907cb5]
+## SCHEDULE 1 — General Principles of Prevention[^c-87edc4162f6480c30d64cdaffb907cb5]
 
 Regulation 4
 
-[^key-87edc4162f6480c30d64cdaffb907cb5]
+[^c-87edc4162f6480c30d64cdaffb907cb5]
 
 (This Schedule specifies the general principles of prevention set out in Article 6(2) of Council Directive [89/391/EEC](https://www.legislation.gov.uk/european/directive/1989/0391)[^f00026])
 
@@ -500,7 +500,7 @@ Regulation 4
 
 Regulation 23(1)
 
-### 1. Interpretation[^key-9d50e9aa05ad9332af0ff1c08f45b548]
+### 1. Interpretation[^c-9d50e9aa05ad9332af0ff1c08f45b548]
 
 (1) In this Schedule—
 
@@ -521,7 +521,7 @@ and diving operations include the activity of any person in connection with the 
 
 (4) Any reference in this Schedule to premises and activities (howsoever described) shall include a reference to any person, article or substance on those premises or engaged in or, as the case may be, used or for use in connection with any such activity, but does not include a reference to an aircraft which is airborne.
 
-### 2. Offshore installations[^key-e092e7d21651d1e00a1fc1282a80e1e3]
+### 2. Offshore installations[^c-e092e7d21651d1e00a1fc1282a80e1e3]
 
 (1) Any offshore installation and any activity on it.
 
@@ -549,7 +549,7 @@ and which is not an excepted structure.
 - (d) a mobile structure which has been taken out of use and is not for the time being intended to be used for any of the purposes specified in sub-paragraph (4); and
 - (e) any part of a pipeline.
 
-### 3. Wells[^key-6ffab40d33f4c5773617d57be840bf7c]
+### 3. Wells[^c-6ffab40d33f4c5773617d57be840bf7c]
 
 (1) Subject to sub-paragraph (2)—
 
@@ -558,7 +558,7 @@ and which is not an excepted structure.
 
 (2) Sub-paragraph (1) includes keeping a vessel on station for the purpose of working on a well but otherwise does not include navigation or an activity connected with navigation.
 
-### 4. Pipelines[^key-273cc3fdacc0c9f26b17433debeaae08]
+### 4. Pipelines[^c-273cc3fdacc0c9f26b17433debeaae08]
 
 (1) Any pipeline.
 
@@ -591,13 +591,13 @@ being in either case a vessel which is engaged in pipeline works.
   - (e) any activities incidental to the activities described in paragraphs (*a*) to (*d*);
   - (f) diving operations in connection with any of the works mentioned in paragraphs (*a*) to (*e*) or for the purpose of determining whether a place is suitable as part of the site of a proposed pipeline and the carrying out of surveying operations for settling the route of a proposed pipeline.
 
-### 5. Mines[^key-86f53c21f5f70badae553005f96e9000]
+### 5. Mines[^c-86f53c21f5f70badae553005f96e9000]
 
 (1) The working of a mine, and work for the purpose of or in connection with the working of any part of a mine.
 
 (2) In this paragraph “mine” and “working of a mine” have the same meaning as in the Mines Act (Northern Ireland) 1969[^f00028].
 
-### 6. Other activities[^key-2bfd9d2a6ee22f35c0e9fdda3ea45993]
+### 6. Other activities[^c-2bfd9d2a6ee22f35c0e9fdda3ea45993]
 
 (1) Subject to sub-paragraph (2)—
 
@@ -609,7 +609,7 @@ being in either case a vessel which is engaged in pipeline works.
 
 (2) Sub-paragraph (1) shall not apply to vessels which are registered outside the United Kingdom and are on passage through territorial waters.
 
-## SCHEDULE 3 — Consequential Amendments[^key-36b1008a6a17e4bbb822cb89a5a159e5]
+## SCHEDULE 3 — Consequential Amendments[^c-36b1008a6a17e4bbb822cb89a5a159e5]
 
 Regulation 29(2)
 
@@ -644,7 +644,7 @@ Regulation 29(2)
 </tbody>
 </table>
 
-[^key-a21f2511459aaa4383502718f81b7bd2][^key-a21f2511459aaa4383502718f81b7bd2][^key-a21f2511459aaa4383502718f81b7bd2][^key-a21f2511459aaa4383502718f81b7bd2][^key-a21f2511459aaa4383502718f81b7bd2][^key-a21f2511459aaa4383502718f81b7bd2]
+[^c-a21f2511459aaa4383502718f81b7bd2][^c-a21f2511459aaa4383502718f81b7bd2][^c-a21f2511459aaa4383502718f81b7bd2][^c-a21f2511459aaa4383502718f81b7bd2][^c-a21f2511459aaa4383502718f81b7bd2][^c-a21f2511459aaa4383502718f81b7bd2]
 
 (This note is not part of the Regulations.)
 
@@ -686,13 +686,13 @@ Regulation 29(2)
 
 [^f00006]: Footnote: Article 46(3) was amended by [S.I.1998/2795 (N.I. 18)](https://www.legislation.gov.uk/nisi/1998/2795), Article 6(1) and Schedule 1, paragraphs 8 and 18
 
-[^key-567ea646b9e3861805a19d5947374bae]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2000/388/regulation/1) in operation at 1.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/388/regulation/1/1)
+[^c-567ea646b9e3861805a19d5947374bae]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2000/388/regulation/1) in operation at 1.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/388/regulation/1/1)
 
 [^f00007]: Footnote: [S.I. 1996/1919 (N.I. 16)](https://www.legislation.gov.uk/nisi/1996/1919)
 
 [^f00008]: Footnote: [S.I. 1986/594 (N.I. 3)](https://www.legislation.gov.uk/nisi/1986/594)
 
-[^key-5a813274bc9437b0e1f5ebc9db2971e3]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/388/regulation/1/2) inserted (1.7.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/265)](https://www.legislation.gov.uk/nisr/2015/265), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/265/regulation/1/1), [8(2)](https://www.legislation.gov.uk/nisr/2015/265/regulation/8/2)
+[^c-5a813274bc9437b0e1f5ebc9db2971e3]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/388/regulation/1/2) inserted (1.7.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/265)](https://www.legislation.gov.uk/nisr/2015/265), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/265/regulation/1/1), [8(2)](https://www.legislation.gov.uk/nisr/2015/265/regulation/8/2)
 
 [^f00009]: Footnote: [1983 c. 54](https://www.legislation.gov.uk/ukpga/1983/54)
 
@@ -700,61 +700,61 @@ Regulation 29(2)
 
 [^f00011]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-7a8254bde41658c7cd0b70f56b66bf03]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2000/388/regulation/2) substituted (24.11.2003) by [Management of Health and Safety at Work and Fire Precautions (Workplace) (Amendment) Regulations (Northern Ireland) 2003 (S.R. 2003/454)](https://www.legislation.gov.uk/nisr/2003/454), [regs. 1](https://www.legislation.gov.uk/nisr/2003/454/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2003/454/regulation/2/2)
+[^c-7a8254bde41658c7cd0b70f56b66bf03]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2000/388/regulation/2) substituted (24.11.2003) by [Management of Health and Safety at Work and Fire Precautions (Workplace) (Amendment) Regulations (Northern Ireland) 2003 (S.R. 2003/454)](https://www.legislation.gov.uk/nisr/2003/454), [regs. 1](https://www.legislation.gov.uk/nisr/2003/454/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2003/454/regulation/2/2)
 
-[^key-c253d391622962643133a6f6bf2f428a]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2000/388/regulation/3) in operation at 1.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/388/regulation/1/1)
+[^c-c253d391622962643133a6f6bf2f428a]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2000/388/regulation/3) in operation at 1.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/388/regulation/1/1)
 
-[^key-9e27544a93c24a8d4d6f248c472b18df]: Textual amendment: [Reg. 3(5)(g)](https://www.legislation.gov.uk/nisr/2000/388/regulation/3/5/g) substituted (1.7.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/265)](https://www.legislation.gov.uk/nisr/2015/265), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/265/regulation/1/1), [8(3)](https://www.legislation.gov.uk/nisr/2015/265/regulation/8/3)
+[^c-9e27544a93c24a8d4d6f248c472b18df]: Textual amendment: [Reg. 3(5)(g)](https://www.legislation.gov.uk/nisr/2000/388/regulation/3/5/g) substituted (1.7.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/265)](https://www.legislation.gov.uk/nisr/2015/265), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/265/regulation/1/1), [8(3)](https://www.legislation.gov.uk/nisr/2015/265/regulation/8/3)
 
-[^key-6002ec4a8ba5a42d4d9b7c93cce44117]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2000/388/regulation/4) in operation at 1.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/388/regulation/1/1)
+[^c-6002ec4a8ba5a42d4d9b7c93cce44117]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2000/388/regulation/4) in operation at 1.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/388/regulation/1/1)
 
-[^key-f5b92535fb7d19e5aaa7e2f6ae9c765c]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2000/388/regulation/5) in operation at 1.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/388/regulation/1/1)
+[^c-f5b92535fb7d19e5aaa7e2f6ae9c765c]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2000/388/regulation/5) in operation at 1.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/388/regulation/1/1)
 
-[^key-fcdb310920d3c48cf44688d314b5fdc5]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2000/388/regulation/6) in operation at 1.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/388/regulation/1/1)
+[^c-fcdb310920d3c48cf44688d314b5fdc5]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2000/388/regulation/6) in operation at 1.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/388/regulation/1/1)
 
-[^key-777114a329beaa7bceeea4afdcdc9a07]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2000/388/regulation/7) in operation at 1.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/388/regulation/1/1)
+[^c-777114a329beaa7bceeea4afdcdc9a07]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2000/388/regulation/7) in operation at 1.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/388/regulation/1/1)
 
-[^key-661216d45d354c1ae93ba8b9db06f2cd]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2000/388/regulation/8) in operation at 1.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/388/regulation/1/1)
+[^c-661216d45d354c1ae93ba8b9db06f2cd]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2000/388/regulation/8) in operation at 1.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/388/regulation/1/1)
 
-[^key-f37365f1e863c7ca23fac52b98d6b7d1]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2000/388/regulation/9) in operation at 1.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/388/regulation/1/1)
+[^c-f37365f1e863c7ca23fac52b98d6b7d1]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2000/388/regulation/9) in operation at 1.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/388/regulation/1/1)
 
-[^key-4d6c6bf53d18d950f715008c4cd9bc4d]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2000/388/regulation/10) in operation at 1.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/388/regulation/1/1)
+[^c-4d6c6bf53d18d950f715008c4cd9bc4d]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2000/388/regulation/10) in operation at 1.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/388/regulation/1/1)
 
 [^f00013]: Footnote: [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755)
 
-[^key-b68f21dad584eb7e70dd0d9de3f7ef28]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2000/388/regulation/11) in operation at 1.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/388/regulation/1/1)
+[^c-b68f21dad584eb7e70dd0d9de3f7ef28]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2000/388/regulation/11) in operation at 1.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/388/regulation/1/1)
 
-[^key-585e7a60c30890e74b511dbc61d7869e]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2000/388/regulation/12) in operation at 1.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/388/regulation/1/1)
+[^c-585e7a60c30890e74b511dbc61d7869e]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2000/388/regulation/12) in operation at 1.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/388/regulation/1/1)
 
-[^key-8f8de3ba259b5dc3c1cfcca05270468b]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2000/388/regulation/13) in operation at 1.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/388/regulation/1/1)
+[^c-8f8de3ba259b5dc3c1cfcca05270468b]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2000/388/regulation/13) in operation at 1.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/388/regulation/1/1)
 
-[^key-b2aba2a0415c511a8fd351b31ce7f454]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2000/388/regulation/14) in operation at 1.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/388/regulation/1/1)
+[^c-b2aba2a0415c511a8fd351b31ce7f454]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2000/388/regulation/14) in operation at 1.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/388/regulation/1/1)
 
-[^key-bffe1efb838f6d0b74e7aacc2f7c24cf]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2000/388/regulation/15) in operation at 1.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/388/regulation/1/1)
+[^c-bffe1efb838f6d0b74e7aacc2f7c24cf]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2000/388/regulation/15) in operation at 1.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/388/regulation/1/1)
 
-[^key-66ddbd785b99a6ffc92b5652aa184c4f]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2000/388/regulation/16) in operation at 1.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/388/regulation/1/1)
+[^c-66ddbd785b99a6ffc92b5652aa184c4f]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2000/388/regulation/16) in operation at 1.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/388/regulation/1/1)
 
 [^f00014]: Footnote: O.J. No. L348, 28.11.92, p. 1
 
-[^key-3c10f740bc649a54b35b40df4f324e72]: Textual amendment: Words in [reg. 16(1)(b)](https://www.legislation.gov.uk/nisr/2000/388/regulation/16/1/b) inserted (1.7.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/265)](https://www.legislation.gov.uk/nisr/2015/265), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/265/regulation/1/1), [8(4)](https://www.legislation.gov.uk/nisr/2015/265/regulation/8/4)
+[^c-3c10f740bc649a54b35b40df4f324e72]: Textual amendment: Words in [reg. 16(1)(b)](https://www.legislation.gov.uk/nisr/2000/388/regulation/16/1/b) inserted (1.7.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/265)](https://www.legislation.gov.uk/nisr/2015/265), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/265/regulation/1/1), [8(4)](https://www.legislation.gov.uk/nisr/2015/265/regulation/8/4)
 
 [^f00015]: Footnote: [S.I. 1996/1919 (N.I. 16)](https://www.legislation.gov.uk/nisi/1996/1919)
 
-[^key-e831ac351686f1cfa522c5f8e5cc6ded]: Textual amendment: [Reg. 16A](https://www.legislation.gov.uk/nisr/2000/388/regulation/16A) inserted (5.12.2011) by [THE AGENCY WORKERS REGULATIONS (NORTHERN IRELAND) 2011 (S.R. 2011/350)](https://www.legislation.gov.uk/nisr/2011/350), [reg. 1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1), [Sch. 2 para. 20](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/20)
+[^c-e831ac351686f1cfa522c5f8e5cc6ded]: Textual amendment: [Reg. 16A](https://www.legislation.gov.uk/nisr/2000/388/regulation/16A) inserted (5.12.2011) by [THE AGENCY WORKERS REGULATIONS (NORTHERN IRELAND) 2011 (S.R. 2011/350)](https://www.legislation.gov.uk/nisr/2011/350), [reg. 1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1), [Sch. 2 para. 20](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/20)
 
-[^key-bc47f2a0785cdc8d348a93ac8639efc3]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2000/388/regulation/17) in operation at 1.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/388/regulation/1/1)
+[^c-bc47f2a0785cdc8d348a93ac8639efc3]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2000/388/regulation/17) in operation at 1.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/388/regulation/1/1)
 
-[^key-38d7c8161846a425fb8cb7df7bd552e4]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/nisr/2000/388/regulation/17A) inserted (5.12.2011) by [THE AGENCY WORKERS REGULATIONS (NORTHERN IRELAND) 2011 (S.R. 2011/350)](https://www.legislation.gov.uk/nisr/2011/350), [reg. 1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1), [Sch. 2 para. 21](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/21)
+[^c-38d7c8161846a425fb8cb7df7bd552e4]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/nisr/2000/388/regulation/17A) inserted (5.12.2011) by [THE AGENCY WORKERS REGULATIONS (NORTHERN IRELAND) 2011 (S.R. 2011/350)](https://www.legislation.gov.uk/nisr/2011/350), [reg. 1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1), [Sch. 2 para. 21](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/21)
 
-[^key-af778bc2044149e628832d914d25c37c]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2000/388/regulation/18) in operation at 1.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/388/regulation/1/1)
+[^c-af778bc2044149e628832d914d25c37c]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2000/388/regulation/18) in operation at 1.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/388/regulation/1/1)
 
-[^key-25ffb70018213535c41ee1ea7254abfd]: Textual amendment: [Regs. 18A](https://www.legislation.gov.uk/nisr/2000/388/regulation/18A), [18B](https://www.legislation.gov.uk/nisr/2000/388/regulation/18B) inserted (5.12.2011) by [THE AGENCY WORKERS REGULATIONS (NORTHERN IRELAND) 2011 (S.R. 2011/350)](https://www.legislation.gov.uk/nisr/2011/350), [reg. 1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1), [Sch. 2 para. 22](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/22)
+[^c-25ffb70018213535c41ee1ea7254abfd]: Textual amendment: [Regs. 18A](https://www.legislation.gov.uk/nisr/2000/388/regulation/18A), [18B](https://www.legislation.gov.uk/nisr/2000/388/regulation/18B) inserted (5.12.2011) by [THE AGENCY WORKERS REGULATIONS (NORTHERN IRELAND) 2011 (S.R. 2011/350)](https://www.legislation.gov.uk/nisr/2011/350), [reg. 1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1), [Sch. 2 para. 22](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/22)
 
-[^key-964ae09fefd7c25a91697b4c78802ad3]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2000/388/regulation/19) in operation at 1.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/388/regulation/1/1)
+[^c-964ae09fefd7c25a91697b4c78802ad3]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2000/388/regulation/19) in operation at 1.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/388/regulation/1/1)
 
-[^key-7a2a7236764ed5203c66c38f4d4e95b5]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2000/388/regulation/20) in operation at 1.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/388/regulation/1/1)
+[^c-7a2a7236764ed5203c66c38f4d4e95b5]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2000/388/regulation/20) in operation at 1.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/388/regulation/1/1)
 
-[^key-b8930c1dd7fc7703fbc7c9de99feccd9]: Textual amendment: Words in [reg. 20(1)(a)](https://www.legislation.gov.uk/nisr/2000/388/regulation/20/1/a) substituted (5.12.2011) by [THE AGENCY WORKERS REGULATIONS (NORTHERN IRELAND) 2011 (S.R. 2011/350)](https://www.legislation.gov.uk/nisr/2011/350), [reg. 1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1), [Sch. 2 para. 23](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/23)
+[^c-b8930c1dd7fc7703fbc7c9de99feccd9]: Textual amendment: Words in [reg. 20(1)(a)](https://www.legislation.gov.uk/nisr/2000/388/regulation/20/1/a) substituted (5.12.2011) by [THE AGENCY WORKERS REGULATIONS (NORTHERN IRELAND) 2011 (S.R. 2011/350)](https://www.legislation.gov.uk/nisr/2011/350), [reg. 1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1), [Sch. 2 para. 23](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/23)
 
 [^f00016]: Footnote: [1952 c. 67](https://www.legislation.gov.uk/ukpga/1952/67)
 
@@ -762,27 +762,27 @@ Regulation 29(2)
 
 [^f00018]: Footnote: [1964 c. 5](https://www.legislation.gov.uk/ukpga/1964/5)
 
-[^key-4e52764205a2678bbdb0dd0f42af5475]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2000/388/regulation/21) in operation at 1.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/388/regulation/1/1)
+[^c-4e52764205a2678bbdb0dd0f42af5475]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2000/388/regulation/21) in operation at 1.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/388/regulation/1/1)
 
-[^key-3627bd3cb1639a64574e904c14260548]: Textual amendment: [Reg. 22](https://www.legislation.gov.uk/nisr/2000/388/regulation/22) substituted (24.11.2003) by [Management of Health and Safety at Work and Fire Precautions (Workplace) (Amendment) Regulations (Northern Ireland) 2003 (S.R. 2003/454)](https://www.legislation.gov.uk/nisr/2003/454), [regs. 1](https://www.legislation.gov.uk/nisr/2003/454/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2003/454/regulation/2/3)
+[^c-3627bd3cb1639a64574e904c14260548]: Textual amendment: [Reg. 22](https://www.legislation.gov.uk/nisr/2000/388/regulation/22) substituted (24.11.2003) by [Management of Health and Safety at Work and Fire Precautions (Workplace) (Amendment) Regulations (Northern Ireland) 2003 (S.R. 2003/454)](https://www.legislation.gov.uk/nisr/2003/454), [regs. 1](https://www.legislation.gov.uk/nisr/2003/454/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2003/454/regulation/2/3)
 
-[^key-e686443f54d5755b3658e1e2e37ee64a]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2000/388/regulation/23) in operation at 1.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/388/regulation/1/1)
+[^c-e686443f54d5755b3658e1e2e37ee64a]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2000/388/regulation/23) in operation at 1.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/388/regulation/1/1)
 
-[^key-31f7b446d9f3a7f6cbbb8f95b6d94c8a]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2000/388/regulation/24) in operation at 1.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/388/regulation/1/1)
+[^c-31f7b446d9f3a7f6cbbb8f95b6d94c8a]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2000/388/regulation/24) in operation at 1.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/388/regulation/1/1)
 
 [^f00019]: Footnote: [S.R. 1982 No. 429](https://www.legislation.gov.uk/nisr/1982/429); to which there are amendments not relevant to these Regulations
 
-[^key-b40e07dacd0a17869d6d505170801d47]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2000/388/regulation/25) in operation at 1.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/388/regulation/1/1)
+[^c-b40e07dacd0a17869d6d505170801d47]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2000/388/regulation/25) in operation at 1.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/388/regulation/1/1)
 
 [^f00020]: Footnote: [S.R. 1993 No. 323](https://www.legislation.gov.uk/nisr/1993/323); to which there are amendments not relevant to these Regulations
 
-[^key-a0c8a9dee1080f79e96863160718d8ce]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2000/388/regulation/26) in operation at 1.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/388/regulation/1/1)
+[^c-a0c8a9dee1080f79e96863160718d8ce]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2000/388/regulation/26) in operation at 1.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/388/regulation/1/1)
 
 [^f00021]: Footnote: [S.R. 1995 No. 379](https://www.legislation.gov.uk/nisr/1995/379)
 
-[^key-6b08647aaa5730ad6f6b0c822696a4ba]: Textual amendment: [Reg. 27](https://www.legislation.gov.uk/nisr/2000/388/regulation/27) revoked (9.7.2007) by [The Construction (Design and Management) Regulations (Northern Ireland) 2007 (revoked) 2007 (S.R. 2007/291)](https://www.legislation.gov.uk/nisr/2007/291), [reg. 1](https://www.legislation.gov.uk/nisr/2007/291/regulation/1), [Sch. 5](https://www.legislation.gov.uk/nisr/2007/291/schedule/5) (with [regs. 3](https://www.legislation.gov.uk/nisr/2007/291/regulation/3), [46](https://www.legislation.gov.uk/nisr/2007/291/regulation/46))
+[^c-6b08647aaa5730ad6f6b0c822696a4ba]: Textual amendment: [Reg. 27](https://www.legislation.gov.uk/nisr/2000/388/regulation/27) revoked (9.7.2007) by [The Construction (Design and Management) Regulations (Northern Ireland) 2007 (revoked) 2007 (S.R. 2007/291)](https://www.legislation.gov.uk/nisr/2007/291), [reg. 1](https://www.legislation.gov.uk/nisr/2007/291/regulation/1), [Sch. 5](https://www.legislation.gov.uk/nisr/2007/291/schedule/5) (with [regs. 3](https://www.legislation.gov.uk/nisr/2007/291/regulation/3), [46](https://www.legislation.gov.uk/nisr/2007/291/regulation/46))
 
-[^key-34922645c1ee2a04a6107e3c2480b3b6]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2000/388/regulation/28) in operation at 1.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/388/regulation/1/1)
+[^c-34922645c1ee2a04a6107e3c2480b3b6]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2000/388/regulation/28) in operation at 1.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/388/regulation/1/1)
 
 [^f00023]: Footnote: [S.R. 1992 No. 459](https://www.legislation.gov.uk/nisr/1992/459)
 
@@ -790,26 +790,26 @@ Regulation 29(2)
 
 [^f00025]: Footnote: [S.R. 1997 No. 387](https://www.legislation.gov.uk/nisr/1997/387)
 
-[^key-87edc4162f6480c30d64cdaffb907cb5]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2000/388/schedule/1) in operation at 1.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/388/regulation/1/1)
+[^c-87edc4162f6480c30d64cdaffb907cb5]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2000/388/schedule/1) in operation at 1.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/388/regulation/1/1)
 
 [^f00026]: Footnote: O.J. No. L183, 29.6.89, p. 1
 
-[^key-9d50e9aa05ad9332af0ff1c08f45b548]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2000/388/schedule/2/paragraph/1) in operation at 1.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/388/regulation/1/1)
+[^c-9d50e9aa05ad9332af0ff1c08f45b548]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2000/388/schedule/2/paragraph/1) in operation at 1.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/388/regulation/1/1)
 
 [^f00027]: Footnote: [1964 c. 29](https://www.legislation.gov.uk/ukpga/1964/29); section 1 was amended by the Oil and Gas (Enterprise) Act [1982 (c. 23)](https://www.legislation.gov.uk/ukpga/1982/23), Schedule 3, paragraph 1
 
-[^key-e092e7d21651d1e00a1fc1282a80e1e3]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2000/388/schedule/2/paragraph/2) in operation at 1.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/388/regulation/1/1)
+[^c-e092e7d21651d1e00a1fc1282a80e1e3]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2000/388/schedule/2/paragraph/2) in operation at 1.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/388/regulation/1/1)
 
-[^key-6ffab40d33f4c5773617d57be840bf7c]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2000/388/schedule/2/paragraph/3) in operation at 1.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/388/regulation/1/1)
+[^c-6ffab40d33f4c5773617d57be840bf7c]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2000/388/schedule/2/paragraph/3) in operation at 1.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/388/regulation/1/1)
 
-[^key-273cc3fdacc0c9f26b17433debeaae08]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2000/388/schedule/2/paragraph/4) in operation at 1.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/388/regulation/1/1)
+[^c-273cc3fdacc0c9f26b17433debeaae08]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2000/388/schedule/2/paragraph/4) in operation at 1.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/388/regulation/1/1)
 
-[^key-86f53c21f5f70badae553005f96e9000]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nisr/2000/388/schedule/2/paragraph/5) in operation at 1.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/388/regulation/1/1)
+[^c-86f53c21f5f70badae553005f96e9000]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nisr/2000/388/schedule/2/paragraph/5) in operation at 1.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/388/regulation/1/1)
 
 [^f00028]: Footnote: [1969 c. 6 (N.I.)](https://www.legislation.gov.uk/apni/1969/6)
 
-[^key-2bfd9d2a6ee22f35c0e9fdda3ea45993]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nisr/2000/388/schedule/2/paragraph/6) in operation at 1.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/388/regulation/1/1)
+[^c-2bfd9d2a6ee22f35c0e9fdda3ea45993]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nisr/2000/388/schedule/2/paragraph/6) in operation at 1.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/388/regulation/1/1)
 
-[^key-36b1008a6a17e4bbb822cb89a5a159e5]: Commencement: [Sch. 3](https://www.legislation.gov.uk/nisr/2000/388/schedule/3) in operation at 1.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/388/regulation/1/1)
+[^c-36b1008a6a17e4bbb822cb89a5a159e5]: Commencement: [Sch. 3](https://www.legislation.gov.uk/nisr/2000/388/schedule/3) in operation at 1.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/388/regulation/1/1)
 
-[^key-a21f2511459aaa4383502718f81b7bd2]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/nisr/2000/388/schedule/3) revoked (9.7.2007) by [The Construction (Design and Management) Regulations (Northern Ireland) 2007 (revoked) 2007 (S.R. 2007/291)](https://www.legislation.gov.uk/nisr/2007/291), [reg. 1](https://www.legislation.gov.uk/nisr/2007/291/regulation/1), [Sch. 5](https://www.legislation.gov.uk/nisr/2007/291/schedule/5) (with [regs. 3](https://www.legislation.gov.uk/nisr/2007/291/regulation/3), [46](https://www.legislation.gov.uk/nisr/2007/291/regulation/46))
+[^c-a21f2511459aaa4383502718f81b7bd2]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/nisr/2000/388/schedule/3) revoked (9.7.2007) by [The Construction (Design and Management) Regulations (Northern Ireland) 2007 (revoked) 2007 (S.R. 2007/291)](https://www.legislation.gov.uk/nisr/2007/291), [reg. 1](https://www.legislation.gov.uk/nisr/2007/291/regulation/1), [Sch. 5](https://www.legislation.gov.uk/nisr/2007/291/schedule/5) (with [regs. 3](https://www.legislation.gov.uk/nisr/2007/291/regulation/3), [46](https://www.legislation.gov.uk/nisr/2007/291/regulation/46))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 63. Requirements when carrying out standards investigations[^key-a01f2c136452b3482ef340306406b623]
+## 63. Requirements when carrying out standards investigations[^c-a01f2c136452b3482ef340306406b623]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ the Commissioner considers that it is inappropriate to do so.
 
 ## Annotations
 
-[^key-a01f2c136452b3482ef340306406b623]: Commencement: [S. 63](https://www.legislation.gov.uk/mwa/2011/1/section/63) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(i)(ii)](https://www.legislation.gov.uk/wsi/2012/969/article/2/i/ii)
+[^c-a01f2c136452b3482ef340306406b623]: Commencement: [S. 63](https://www.legislation.gov.uk/mwa/2011/1/section/63) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(i)(ii)](https://www.legislation.gov.uk/wsi/2012/969/article/2/i/ii)

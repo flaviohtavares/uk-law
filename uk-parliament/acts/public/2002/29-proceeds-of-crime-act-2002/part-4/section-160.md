@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 160. Assumptions to be made in case of criminal lifestyle[^key-4801421273dd228d1e78a31fc557210f][^key-e3634034bab4be7cd4cb838ceea63874][^key-e3634034bab4be7cd4cb838ceea63874]
+## 160. Assumptions to be made in case of criminal lifestyle[^c-4801421273dd228d1e78a31fc557210f][^c-e3634034bab4be7cd4cb838ceea63874][^c-e3634034bab4be7cd4cb838ceea63874]
 
 *Extent: N.I.*
 
@@ -63,6 +63,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4801421273dd228d1e78a31fc557210f]: Commencement: S. 160 in force at 24.3.2003 by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule)
+[^c-4801421273dd228d1e78a31fc557210f]: Commencement: S. 160 in force at 24.3.2003 by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule)
 
-[^key-e3634034bab4be7cd4cb838ceea63874]: Modification: Pt. 4 applied by [S.I. 1989/1341 (N.I. 12)](https://www.legislation.gov.uk/nisi/1989/1341), [arts. 57(5B)](https://www.legislation.gov.uk/nisi/1989/1341/article/57/5B), [59(8B)](https://www.legislation.gov.uk/nisi/1989/1341/article/59/8B) (as substituted (24.3.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), Supreme Court s. 458(1), Sch. 11 para. 19(2)(3); [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule))
+[^c-e3634034bab4be7cd4cb838ceea63874]: Modification: Pt. 4 applied by [S.I. 1989/1341 (N.I. 12)](https://www.legislation.gov.uk/nisi/1989/1341), [arts. 57(5B)](https://www.legislation.gov.uk/nisi/1989/1341/article/57/5B), [59(8B)](https://www.legislation.gov.uk/nisi/1989/1341/article/59/8B) (as substituted (24.3.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), Supreme Court s. 458(1), Sch. 11 para. 19(2)(3); [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule))

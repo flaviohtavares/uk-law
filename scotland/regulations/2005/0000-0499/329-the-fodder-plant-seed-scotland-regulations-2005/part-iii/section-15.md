@@ -16,19 +16,19 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 15. Sampling[^key-149785a7c952443ff489c58e00140854]
+## 15. Sampling[^c-149785a7c952443ff489c58e00140854]
 
 *Extent: S*
 
 (1) A sample of seed taken for the purposes of an official examination shall be taken–
 
 - (a)
-  - (i) by a International Authority[^key-e43cd9ebe7917cdda3696d665c171b98]; or
+  - (i) by a International Authority[^c-e43cd9ebe7917cdda3696d665c171b98]; or
   - (ii) by a licensed seed sampler in accordance with the terms of the licensed seed sampler’s licence;
 - (b) in accordance with the methods specified in Part I of Schedule 5; and
 - (c) from a homogeneous seed lot.
 
-(1A)[^key-9ccd5a7edbfdf5779d861c14fda1a4d1] A sample of seed of a Conservation Variety and of a directly harvested preservation mixture[^key-ec5b106f8fac7aca56f406a744c23195] taken for the purposes of checking compliance with these Regulations shall comply with paragraph (1)(b) and (c) and Part II of Schedule 5.
+(1A)[^c-9ccd5a7edbfdf5779d861c14fda1a4d1] A sample of seed of a Conservation Variety and of a directly harvested preservation mixture[^c-ec5b106f8fac7aca56f406a744c23195] taken for the purposes of checking compliance with these Regulations shall comply with paragraph (1)(b) and (c) and Part II of Schedule 5.
 
 (2) If a sample from a seed lot submitted or taken for the purpose of an official examination–
 
@@ -43,10 +43,10 @@ no, or no further, official examination of that sample shall be made under these
 
 ## Annotations
 
-[^key-149785a7c952443ff489c58e00140854]: Commencement: Reg. 15 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/1)
+[^c-149785a7c952443ff489c58e00140854]: Commencement: Reg. 15 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/1)
 
-[^key-e43cd9ebe7917cdda3696d665c171b98]: Textual amendment: Words in [reg. 15(1)(a)(i)](https://www.legislation.gov.uk/ssi/2005/329/regulation/15/1/a/i) substituted (31.12.2020) by [The Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/59)](https://www.legislation.gov.uk/ssi/2019/59), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/b), [14(16)](https://www.legislation.gov.uk/ssi/2019/59/regulation/14/16) (as amended by [S.S.I. 2020/445](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(15)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/15)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e43cd9ebe7917cdda3696d665c171b98]: Textual amendment: Words in [reg. 15(1)(a)(i)](https://www.legislation.gov.uk/ssi/2005/329/regulation/15/1/a/i) substituted (31.12.2020) by [The Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/59)](https://www.legislation.gov.uk/ssi/2019/59), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/b), [14(16)](https://www.legislation.gov.uk/ssi/2019/59/regulation/14/16) (as amended by [S.S.I. 2020/445](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(15)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/15)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9ccd5a7edbfdf5779d861c14fda1a4d1]: Textual amendment: [Reg. 15(1A)](https://www.legislation.gov.uk/ssi/2005/329/regulation/15/1A) inserted (30.6.2009) by [The Seed (Scotland) (Amendments for Conservation Varieties) Regulations 2009 (S.S.I. 2009/223)](https://www.legislation.gov.uk/ssi/2009/223), [regs. 1](https://www.legislation.gov.uk/ssi/2009/223/regulation/1), [27(a)](https://www.legislation.gov.uk/ssi/2009/223/regulation/27/a)
+[^c-9ccd5a7edbfdf5779d861c14fda1a4d1]: Textual amendment: [Reg. 15(1A)](https://www.legislation.gov.uk/ssi/2005/329/regulation/15/1A) inserted (30.6.2009) by [The Seed (Scotland) (Amendments for Conservation Varieties) Regulations 2009 (S.S.I. 2009/223)](https://www.legislation.gov.uk/ssi/2009/223), [regs. 1](https://www.legislation.gov.uk/ssi/2009/223/regulation/1), [27(a)](https://www.legislation.gov.uk/ssi/2009/223/regulation/27/a)
 
-[^key-ec5b106f8fac7aca56f406a744c23195]: Textual amendment: Words in [reg. 15(1A)](https://www.legislation.gov.uk/ssi/2005/329/regulation/15/1A) inserted (10.2.2012) by [The Fodder Plant Seed (Scotland) Amendment Regulations 2012 (S.S.I. 2012/5)](https://www.legislation.gov.uk/ssi/2012/5), [regs. 1](https://www.legislation.gov.uk/ssi/2012/5/regulation/1), [5](https://www.legislation.gov.uk/ssi/2012/5/regulation/5)
+[^c-ec5b106f8fac7aca56f406a744c23195]: Textual amendment: Words in [reg. 15(1A)](https://www.legislation.gov.uk/ssi/2005/329/regulation/15/1A) inserted (10.2.2012) by [The Fodder Plant Seed (Scotland) Amendment Regulations 2012 (S.S.I. 2012/5)](https://www.legislation.gov.uk/ssi/2012/5), [regs. 1](https://www.legislation.gov.uk/ssi/2012/5/regulation/1), [5](https://www.legislation.gov.uk/ssi/2012/5/regulation/5)

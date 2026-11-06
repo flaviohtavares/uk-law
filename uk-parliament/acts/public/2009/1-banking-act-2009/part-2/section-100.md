@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100. Liquidation committee[^M_I_704b8cec-def9-4d44-fbd8-c8cfbd51fe25][^key-319d585b44e74fa57952610cd23428d5]
+## 100. Liquidation committee[^M_I_704b8cec-def9-4d44-fbd8-c8cfbd51fe25][^c-319d585b44e74fa57952610cd23428d5]
 
 *Extent: E+W+S+N.I.*
 
 (1) Following a bank insolvency order a liquidation committee must be established, for the purpose of ensuring that the bank liquidator properly exercises the functions under this Part.
 
-(2)[^key-013ce276e65cc77e707ba9fcaccbb94e] The liquidation committee is to consist initially of—
+(2)[^c-013ce276e65cc77e707ba9fcaccbb94e] The liquidation committee is to consist initially of—
 
 - (a) two individuals nominated by the Bank of England,
 - (b) one individual nominated by the PRA,
@@ -48,7 +48,7 @@ summary: ''
 
 - (a) the bank liquidator must summon a meeting of creditors,
 - (b) the meeting may elect 2 or 4 individuals as new members of the liquidation committee,
-- (c) those individuals replace the members nominated by the Bank of England, the PRA and the FCA[^key-23aca8da3c03eff32bd3c7196d87b01d],
+- (c) those individuals replace the members nominated by the Bank of England, the PRA and the FCA[^c-23aca8da3c03eff32bd3c7196d87b01d],
 - (d) the FSCS may resign from the liquidation committee (in which case 3 or 5 new members may be elected under paragraph (b)), and
 - (e) if no individuals are elected under paragraph (b), or the resulting committee would have fewer than 3 members or an even number of members, the liquidation committee ceases to exist at the end of the meeting.
 
@@ -63,8 +63,8 @@ summary: ''
 
 [^M_I_704b8cec-def9-4d44-fbd8-c8cfbd51fe25]: Commencement: S. 100 in force at 17.2.2009 for specified purposes by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), arts. 2, 3, Sch. para. 2
 
-[^key-319d585b44e74fa57952610cd23428d5]: Commencement: S. 100 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/2)
+[^c-319d585b44e74fa57952610cd23428d5]: Commencement: S. 100 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/2)
 
-[^key-013ce276e65cc77e707ba9fcaccbb94e]: Textual amendment: S. 100(2) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 17 para. 36(2)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/17/paragraph/36/2) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-013ce276e65cc77e707ba9fcaccbb94e]: Textual amendment: S. 100(2) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 17 para. 36(2)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/17/paragraph/36/2) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-23aca8da3c03eff32bd3c7196d87b01d]: Textual amendment: Words in s. 100(6)(c) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 17 para. 36(3)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/17/paragraph/36/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-23aca8da3c03eff32bd3c7196d87b01d]: Textual amendment: Words in s. 100(6)(c) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 17 para. 36(3)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/17/paragraph/36/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

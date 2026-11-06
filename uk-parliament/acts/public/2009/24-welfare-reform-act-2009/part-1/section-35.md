@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Persons under pensionable age to take part in work-focused interviews etc.[^key-72ae36ce0245e8b459454c18e5049a2a][^key-83d2d45c8ca6ebfc0ce0085347e02d43]
+## 35. Persons under pensionable age to take part in work-focused interviews etc.[^c-72ae36ce0245e8b459454c18e5049a2a][^c-83d2d45c8ca6ebfc0ce0085347e02d43]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-72ae36ce0245e8b459454c18e5049a2a]: Textual amendment: [S. 35](https://www.legislation.gov.uk/ukpga/2009/24/section/35) repealed (1.4.2013 for specified purposes) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3), [Sch. 14 Pt. 1](https://www.legislation.gov.uk/ukpga/2012/5/schedule/14/part/1); [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 8(c)](https://www.legislation.gov.uk/uksi/2013/358/article/8/c), [Sch. 4](https://www.legislation.gov.uk/uksi/2013/358/schedule/4) (with [arts. 9](https://www.legislation.gov.uk/uksi/2013/358/article/9) [10](https://www.legislation.gov.uk/uksi/2013/358/article/10) [Sch. 5](https://www.legislation.gov.uk/uksi/2013/358/schedule/5))
+[^c-72ae36ce0245e8b459454c18e5049a2a]: Textual amendment: [S. 35](https://www.legislation.gov.uk/ukpga/2009/24/section/35) repealed (1.4.2013 for specified purposes) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3), [Sch. 14 Pt. 1](https://www.legislation.gov.uk/ukpga/2012/5/schedule/14/part/1); [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 8(c)](https://www.legislation.gov.uk/uksi/2013/358/article/8/c), [Sch. 4](https://www.legislation.gov.uk/uksi/2013/358/schedule/4) (with [arts. 9](https://www.legislation.gov.uk/uksi/2013/358/article/9) [10](https://www.legislation.gov.uk/uksi/2013/358/article/10) [Sch. 5](https://www.legislation.gov.uk/uksi/2013/358/schedule/5))
 
-[^key-83d2d45c8ca6ebfc0ce0085347e02d43]: Commencement: S. 35 in force at 10.2.2010 by [S.I. 2010/293](https://www.legislation.gov.uk/uksi/2010/293), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2010/293/article/2/1/b)
+[^c-83d2d45c8ca6ebfc0ce0085347e02d43]: Commencement: S. 35 in force at 10.2.2010 by [S.I. 2010/293](https://www.legislation.gov.uk/uksi/2010/293), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2010/293/article/2/1/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 10. Application of the 1991 Act[^key-f1d6f2c5a6e92ed0178a6c8669200b2c]
+## 10. Application of the 1991 Act[^c-f1d6f2c5a6e92ed0178a6c8669200b2c]
 
 *Extent: E+W+S*
 
@@ -42,4 +42,4 @@ whether or not the carrying out of the works or the closure, alteration or diver
 
 ## Annotations
 
-[^key-f1d6f2c5a6e92ed0178a6c8669200b2c]: Commencement: Art. 10 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-f1d6f2c5a6e92ed0178a6c8669200b2c]: Commencement: Art. 10 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)

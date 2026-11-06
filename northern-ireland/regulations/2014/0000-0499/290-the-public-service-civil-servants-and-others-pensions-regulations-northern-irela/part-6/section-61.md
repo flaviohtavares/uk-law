@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 61. Annual rate of full retirement pension (active members)[^key-7970f570a22acf0ddf0afc465884e4d3]
+## 61. Annual rate of full retirement pension (active members)[^c-7970f570a22acf0ddf0afc465884e4d3]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7970f570a22acf0ddf0afc465884e4d3]: Commencement: [Reg. 61](https://www.legislation.gov.uk/nisr/2014/290/regulation/61) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-7970f570a22acf0ddf0afc465884e4d3]: Commencement: [Reg. 61](https://www.legislation.gov.uk/nisr/2014/290/regulation/61) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 38. Abolition of duty on dog licences.[^key-906055fecb8dc8909203b439d2749d62]
+## 38. Abolition of duty on dog licences.[^c-906055fecb8dc8909203b439d2749d62]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-906055fecb8dc8909203b439d2749d62]: Textual amendment: [S. 38](https://www.legislation.gov.uk/ukpga/1988/9/section/38) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 1
+[^c-906055fecb8dc8909203b439d2749d62]: Textual amendment: [S. 38](https://www.legislation.gov.uk/ukpga/1988/9/section/38) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 1

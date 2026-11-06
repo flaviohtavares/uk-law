@@ -28,10 +28,10 @@ summary: ''
 - (b) is not required to deliver to the registrar any statement of additional matters under regulation 23, 24 or 25; and
 - (c) has not completed taking reasonable steps under regulation 10 to find out if any person is a registrable person or a registrable relevant legal entity in relation to the eligible Scottish partnership.
 
-(2)[^key-99911920473a67389719b4bc32623a33] The eligible Scottish partnership must comply with the requirement in paragraph (3) within the period of 14 days beginning with the day this regulation applies to it, unless any of sub-paragraphs (a)(i), (b) or (c) cease to apply to the eligible Scottish partnership before it complies with that requirement.
+(2)[^c-99911920473a67389719b4bc32623a33] The eligible Scottish partnership must comply with the requirement in paragraph (3) within the period of 14 days beginning with the day this regulation applies to it, unless any of sub-paragraphs (a)(i), (b) or (c) cease to apply to the eligible Scottish partnership before it complies with that requirement.
 
 (3) The requirement is to deliver to the registrar a statement that the eligible Scottish partnership has not yet completed taking reasonable steps to find out if any person is a registrable person or a registrable relevant legal entity in relation to it.
 
 ## Annotations
 
-[^key-99911920473a67389719b4bc32623a33]: Modification: [Reg. 26(2)](https://www.legislation.gov.uk/uksi/2017/694/regulation/26/2) modified (temp.) (27.6.2020) by [The Companies etc. (Filing Requirements) (Temporary Modifications) Regulations 2020 (S.I. 2020/645)](https://www.legislation.gov.uk/uksi/2020/645), [regs. 2](https://www.legislation.gov.uk/uksi/2020/645/regulation/2), [29](https://www.legislation.gov.uk/uksi/2020/645/regulation/29)
+[^c-99911920473a67389719b4bc32623a33]: Modification: [Reg. 26(2)](https://www.legislation.gov.uk/uksi/2017/694/regulation/26/2) modified (temp.) (27.6.2020) by [The Companies etc. (Filing Requirements) (Temporary Modifications) Regulations 2020 (S.I. 2020/645)](https://www.legislation.gov.uk/uksi/2020/645), [regs. 2](https://www.legislation.gov.uk/uksi/2020/645/regulation/2), [29](https://www.legislation.gov.uk/uksi/2020/645/regulation/29)

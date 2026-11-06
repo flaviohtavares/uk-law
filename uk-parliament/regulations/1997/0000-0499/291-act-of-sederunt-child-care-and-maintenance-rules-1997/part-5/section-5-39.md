@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5.39. Address of applicant’s solicitor for service[^key-851e3edfbd5a659c65308264ea9f1494]
+## 5.39. Address of applicant’s solicitor for service[^c-851e3edfbd5a659c65308264ea9f1494]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Where the sheriff clerk is informed by a solicitor practising in Scotland that h
 
 ## Annotations
 
-[^key-851e3edfbd5a659c65308264ea9f1494]: Commencement: Rule 5.39 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
+[^c-851e3edfbd5a659c65308264ea9f1494]: Commencement: Rule 5.39 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)

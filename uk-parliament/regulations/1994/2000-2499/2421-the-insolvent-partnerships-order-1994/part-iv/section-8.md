@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Winding up of insolvent partnership as unregistered company on the petition of creditor etc. where concurrent petitions presented against one or more members[^key-d0fb32dd1366a2ff8825e434def6d317][^key-ffb34fc2b39974280a99543c6447a069]
+## 8. Winding up of insolvent partnership as unregistered company on the petition of creditor etc. where concurrent petitions presented against one or more members[^c-d0fb32dd1366a2ff8825e434def6d317][^c-ffb34fc2b39974280a99543c6447a069]
 
 *Extent: E+W*
 
-(1) Subject to paragraph (2) below, the provisions of Part V of the Act (other than sections 223 and 224), shall apply in relation to the winding up of an insolvent partnership as an unregistered company on the petition of a creditor, of a liquidator (within the meaning of Article 2(b) of the[^key-8927262cc4b3c4c43a65e04ba3dead99] EC Regulation) appointed in proceedings by virtue of Article 3(1) of the EC Regulation, or of a temporary administrator (within the meaning of Article 38 of the EC Regulation) where insolvency petitions are presented by the petitioner against the partnership and against one or more members or former members of the partnership in their capacity as such.
+(1) Subject to paragraph (2) below, the provisions of Part V of the Act (other than sections 223 and 224), shall apply in relation to the winding up of an insolvent partnership as an unregistered company on the petition of a creditor, of a liquidator (within the meaning of Article 2(b) of the[^c-8927262cc4b3c4c43a65e04ba3dead99] EC Regulation) appointed in proceedings by virtue of Article 3(1) of the EC Regulation, or of a temporary administrator (within the meaning of Article 38 of the EC Regulation) where insolvency petitions are presented by the petitioner against the partnership and against one or more members or former members of the partnership in their capacity as such.
 
 (2) Certain of the provisions referred to in paragraph (1) are modified in their application in relation to insolvent partnerships which are being wound up by virtue of that paragraph in such manner that, after modification, they are as set out in Part I of Schedule 4 to this Order.
 
@@ -30,7 +30,7 @@ summary: ''
 
 (5) The provisions referred to in paragraph (4) are—
 
-- (a) Part IV [^key-23941e3c6aecc2fc01885d7b71336b89]...,
+- (a) Part IV [^c-23941e3c6aecc2fc01885d7b71336b89]...,
 - (b) Part VI,
 - (c) Part VII, and
 - (d) Parts XII to XIX.
@@ -48,10 +48,10 @@ summary: ''
 
 ## Annotations
 
-[^key-d0fb32dd1366a2ff8825e434def6d317]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/1994/2421/article/8) in force at 1.12.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/2421/article/1/1)
+[^c-d0fb32dd1366a2ff8825e434def6d317]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/1994/2421/article/8) in force at 1.12.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/2421/article/1/1)
 
-[^key-ffb34fc2b39974280a99543c6447a069]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/uksi/1994/2421/article/8) heading substituted (31.5.2002) by [The Insolvent Partnerships (Amendment) Order 2002 (S.I. 2002/1308)](https://www.legislation.gov.uk/uksi/2002/1308), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2002/1308/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2002/1308/article/4/2) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2002/1308/article/2/2))
+[^c-ffb34fc2b39974280a99543c6447a069]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/uksi/1994/2421/article/8) heading substituted (31.5.2002) by [The Insolvent Partnerships (Amendment) Order 2002 (S.I. 2002/1308)](https://www.legislation.gov.uk/uksi/2002/1308), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2002/1308/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2002/1308/article/4/2) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2002/1308/article/2/2))
 
-[^key-8927262cc4b3c4c43a65e04ba3dead99]: Textual amendment: Words in [art. 8(1)](https://www.legislation.gov.uk/uksi/1994/2421/article/8/1) substituted (31.5.2002) by [The Insolvent Partnerships (Amendment) Order 2002 (S.I. 2002/1308)](https://www.legislation.gov.uk/uksi/2002/1308), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2002/1308/article/1/1), [4(1)](https://www.legislation.gov.uk/uksi/2002/1308/article/4/1) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2002/1308/article/2/2))
+[^c-8927262cc4b3c4c43a65e04ba3dead99]: Textual amendment: Words in [art. 8(1)](https://www.legislation.gov.uk/uksi/1994/2421/article/8/1) substituted (31.5.2002) by [The Insolvent Partnerships (Amendment) Order 2002 (S.I. 2002/1308)](https://www.legislation.gov.uk/uksi/2002/1308), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2002/1308/article/1/1), [4(1)](https://www.legislation.gov.uk/uksi/2002/1308/article/4/1) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2002/1308/article/2/2))
 
-[^key-23941e3c6aecc2fc01885d7b71336b89]: Textual amendment: Words in [art. 8(5)(a)](https://www.legislation.gov.uk/uksi/1994/2421/article/8/5/a) omitted (6.4.2006) by virtue of [The Insolvent Partnerships (Amendment) Order 2006 (S.I. 2006/622)](https://www.legislation.gov.uk/uksi/2006/622), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/622/article/1/1), [3](https://www.legislation.gov.uk/uksi/2006/622/article/3) (with [art. 2](https://www.legislation.gov.uk/uksi/2006/622/article/2))
+[^c-23941e3c6aecc2fc01885d7b71336b89]: Textual amendment: Words in [art. 8(5)(a)](https://www.legislation.gov.uk/uksi/1994/2421/article/8/5/a) omitted (6.4.2006) by virtue of [The Insolvent Partnerships (Amendment) Order 2006 (S.I. 2006/622)](https://www.legislation.gov.uk/uksi/2006/622), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/622/article/1/1), [3](https://www.legislation.gov.uk/uksi/2006/622/article/3) (with [art. 2](https://www.legislation.gov.uk/uksi/2006/622/article/2))

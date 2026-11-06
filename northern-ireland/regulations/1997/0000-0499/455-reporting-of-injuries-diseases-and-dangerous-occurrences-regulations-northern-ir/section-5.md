@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 5. Reporting of cases of disease[^key-bdbc77c4de930a94a1bf61ab62769d87]
+## 5. Reporting of cases of disease[^c-bdbc77c4de930a94a1bf61ab62769d87]
 
 *Extent: N.I.*
 
@@ -44,4 +44,4 @@ the responsible person shall forthwith send a report thereof to the enforcing au
 
 ## Annotations
 
-[^key-bdbc77c4de930a94a1bf61ab62769d87]: Commencement: Reg. 5 in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/455/regulation/1/1)
+[^c-bdbc77c4de930a94a1bf61ab62769d87]: Commencement: Reg. 5 in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/455/regulation/1/1)

@@ -22,7 +22,7 @@ summary: ''
 
 Article 37
 
-### 1. Applications made under requirements[^key-f3cc247cd1dab2108f155e15db3deb03]
+### 1. Applications made under requirements[^c-f3cc247cd1dab2108f155e15db3deb03]
 
 (1) Where an application has been made to the relevant planning authority for any consent, agreement or approval required by a requirement the relevant planning authority must give notice to the undertaker of its decision on the application before the end of the decision period.
 
@@ -34,7 +34,7 @@ Article 37
 
 (3) Notice under sub-paragraph (1) above must be in writing and where the notice is a refusal the notice must provide the relevant planning authority's reasons for refusal.
 
-### 2. Further information[^key-728cc687097a1f5ec91a540d40d22577]
+### 2. Further information[^c-728cc687097a1f5ec91a540d40d22577]
 
 (1) In relation to any application to which this Schedule applies, the relevant planning authority has the right to request such further information from the undertaker as is necessary to enable it to consider the application.
 
@@ -42,7 +42,7 @@ Article 37
 
 (3) If the relevant planning authority does not give such notification as specified in sub-paragraph (2) it is to be deemed to have sufficient information to consider the application and is not subsequently entitled to request further information without the prior agreement of the undertaker.
 
-### 3. Fees[^key-e83ba169586bf307fa28dd605cfd3233]
+### 3. Fees[^c-e83ba169586bf307fa28dd605cfd3233]
 
 (1) Where an application is made to the relevant planning authority for consent, agreement or approval in respect of a requirement, a fee of £116 is to be paid to that authority.
 
@@ -53,7 +53,7 @@ Article 37
 
 unless within that period the undertaker agrees, in writing, that the fee is to be retained by the relevant planning authority and credited in respect of a future application.
 
-### 4. Appeals[^key-fba1f62ecd97540dd86c001f4d1f57d3]
+### 4. Appeals[^c-fba1f62ecd97540dd86c001f4d1f57d3]
 
 (1) The undertaker may appeal in the event that—
 
@@ -97,7 +97,7 @@ and may deal with the application as if it had been made to the appointed person
 
 (13) On application by the relevant planning authority or the undertaker, the appointed person may give directions as to the costs of the appeal parties and as to the parties by whom the costs of the appeal are to be paid. In considering whether to make any such direction and the terms on which it is to be made, the appointed person must have regard to the Planning Practice Guidance on appeals published on 3 March 2014 from the Ministry of Housing, Communities and Local Government or any circular or guidance which may from time to time replace it.
 
-### 5. Interpretation of Schedule 7[^key-f990565ec1f29b5acee750135b52ed71]
+### 5. Interpretation of Schedule 7[^c-f990565ec1f29b5acee750135b52ed71]
 
 In this Schedule—
 
@@ -107,12 +107,12 @@ In this Schedule—
 
 ## Annotations
 
-[^key-f3cc247cd1dab2108f155e15db3deb03]: Commencement: Sch. 7 para. 1 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-f3cc247cd1dab2108f155e15db3deb03]: Commencement: Sch. 7 para. 1 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-728cc687097a1f5ec91a540d40d22577]: Commencement: Sch. 7 para. 2 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-728cc687097a1f5ec91a540d40d22577]: Commencement: Sch. 7 para. 2 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-e83ba169586bf307fa28dd605cfd3233]: Commencement: Sch. 7 para. 3 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-e83ba169586bf307fa28dd605cfd3233]: Commencement: Sch. 7 para. 3 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-fba1f62ecd97540dd86c001f4d1f57d3]: Commencement: Sch. 7 para. 4 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-fba1f62ecd97540dd86c001f4d1f57d3]: Commencement: Sch. 7 para. 4 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-f990565ec1f29b5acee750135b52ed71]: Commencement: Sch. 7 para. 5 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-f990565ec1f29b5acee750135b52ed71]: Commencement: Sch. 7 para. 5 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)

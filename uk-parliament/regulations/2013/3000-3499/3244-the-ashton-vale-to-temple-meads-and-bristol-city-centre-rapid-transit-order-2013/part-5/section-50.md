@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 50. Penalty fares[^key-a4248faed5000a8d9103878ec94fdcec]
+## 50. Penalty fares[^c-a4248faed5000a8d9103878ec94fdcec]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a4248faed5000a8d9103878ec94fdcec]: Commencement: Art. 50 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
+[^c-a4248faed5000a8d9103878ec94fdcec]: Commencement: Art. 50 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)

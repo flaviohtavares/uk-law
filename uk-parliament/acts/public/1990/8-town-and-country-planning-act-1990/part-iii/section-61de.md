@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 61DE. Effect of revision or revocation on incomplete development[^key-bcfce2ecded10a69c31b75dd9e9b3873]
+## 61DE. Effect of revision or revocation on incomplete development[^c-bcfce2ecded10a69c31b75dd9e9b3873]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bcfce2ecded10a69c31b75dd9e9b3873]: Textual amendment: Ss. 61DA-61DE inserted (12.2.2015 for specified purposes) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(5)(d)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/5/d), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2015/7/schedule/4/paragraph/1)
+[^c-bcfce2ecded10a69c31b75dd9e9b3873]: Textual amendment: Ss. 61DA-61DE inserted (12.2.2015 for specified purposes) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(5)(d)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/5/d), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2015/7/schedule/4/paragraph/1)

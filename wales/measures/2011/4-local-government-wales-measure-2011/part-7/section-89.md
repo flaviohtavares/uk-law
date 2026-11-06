@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 89. Notice of community meeting convened by local government electors[^key-b2354bbaaf89447bd610ecbdcf54687b]
+## 89. Notice of community meeting convened by local government electors[^c-b2354bbaaf89447bd610ecbdcf54687b]
 
 *Extent: E+W*
 
@@ -63,4 +63,4 @@ After paragraph 30A of Schedule 12 to the Local Government Act 1972 insert the f
 
 ## Annotations
 
-[^key-b2354bbaaf89447bd610ecbdcf54687b]: Commencement: [S. 89](https://www.legislation.gov.uk/mwa/2011/4/section/89) in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(k)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/k)
+[^c-b2354bbaaf89447bd610ecbdcf54687b]: Commencement: [S. 89](https://www.legislation.gov.uk/mwa/2011/4/section/89) in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(k)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/k)

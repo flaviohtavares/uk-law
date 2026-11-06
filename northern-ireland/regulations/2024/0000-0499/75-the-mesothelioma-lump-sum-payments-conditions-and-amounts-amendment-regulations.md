@@ -44,7 +44,7 @@ Coming into operation
 
 The Department for Communities makes the following Regulations in exercise of the powers conferred by sections 1(3), 9(1) and (2)(a) of the Mesothelioma, etc., Act (Northern Ireland) 2008[^f00001].
 
-## 1. Citation, commencement and application[^key-f951380132de015fba53610e291fe1a3]
+## 1. Citation, commencement and application[^c-f951380132de015fba53610e291fe1a3]
 
 (1) These Regulations may be cited as the Mesothelioma Lump Sum Payments (Conditions and Amounts) (Amendment) Regulations (Northern Ireland) 2024 and shall come into operation on 1st April 2024.
 
@@ -59,8 +59,8 @@ The Department for Communities makes the following Regulations in exercise of th
 
 In the Schedule to the Mesothelioma Lump Sum Payments (Conditions and Amounts) Regulations (Northern Ireland) 2008[^f00002]—
 
-- (a)[^key-a4e862a2a81aaf42f7a12e348ddc7864] for Table 1 substitute the Table set out in Part 1 of the Schedule to these Regulations; and
-- (b)[^key-a3a23e6d9b1f77a478502031c06dd6d7] for Table 2 substitute the Table set out in Part 2 of the Schedule to these Regulations.
+- (a)[^c-a4e862a2a81aaf42f7a12e348ddc7864] for Table 1 substitute the Table set out in Part 1 of the Schedule to these Regulations; and
+- (b)[^c-a3a23e6d9b1f77a478502031c06dd6d7] for Table 2 substitute the Table set out in Part 2 of the Schedule to these Regulations.
 
 Sealed with the Official Seal of the Department for Communities on 25th March 2024
 
@@ -74,7 +74,7 @@ A senior officer of the Department for Communities
 
 Regulation 2
 
-### PART 1[^key-5912a53c5f08c3023218017c72443c3a]
+### PART 1[^c-5912a53c5f08c3023218017c72443c3a]
 
 > Table 1
 >
@@ -129,7 +129,7 @@ Regulation 2
 > </tbody>
 > </table>
 
-### PART 2[^key-03fdf89ba192f18e4d8b01e21093735d]
+### PART 2[^c-03fdf89ba192f18e4d8b01e21093735d]
 
 > Table 2
 >
@@ -184,14 +184,14 @@ These Regulations amend the Mesothelioma Lump Sum Payments (Conditions and Amoun
 
 [^f00001]: Footnote: [2008 c. 9 (N.I.)](https://www.legislation.gov.uk/nia/2008/9); *see* section 1(7) of the Departments Act (Northern Ireland) [2016 (c. 5 (N.I.))](https://www.legislation.gov.uk/nia/2016/5)
 
-[^key-f951380132de015fba53610e291fe1a3]: Commencement: Reg. 1 in operation at 1.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/75/regulation/1/1)
+[^c-f951380132de015fba53610e291fe1a3]: Commencement: Reg. 1 in operation at 1.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/75/regulation/1/1)
 
 [^f00002]: Footnote: [S.R. 2008 No. 354](https://www.legislation.gov.uk/nisr/2008/354); relevant amending Regulations are [S.R. 2024 No. 70](https://www.legislation.gov.uk/nisr/2024/70)
 
-[^key-a4e862a2a81aaf42f7a12e348ddc7864]: Commencement: [Reg. 2(a)](https://www.legislation.gov.uk/nisr/2024/75/regulation/2/a) in operation at 1.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/75/regulation/1/1) and with application in accordance with [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2024/75/regulation/1/2/a)
+[^c-a4e862a2a81aaf42f7a12e348ddc7864]: Commencement: [Reg. 2(a)](https://www.legislation.gov.uk/nisr/2024/75/regulation/2/a) in operation at 1.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/75/regulation/1/1) and with application in accordance with [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2024/75/regulation/1/2/a)
 
-[^key-a3a23e6d9b1f77a478502031c06dd6d7]: Commencement: [Reg. 2(b)](https://www.legislation.gov.uk/nisr/2024/75/regulation/2/b) in operation at 1.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/75/regulation/1/1) and with application in accordance with [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2024/75/regulation/1/2/b)
+[^c-a3a23e6d9b1f77a478502031c06dd6d7]: Commencement: [Reg. 2(b)](https://www.legislation.gov.uk/nisr/2024/75/regulation/2/b) in operation at 1.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/75/regulation/1/1) and with application in accordance with [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2024/75/regulation/1/2/b)
 
-[^key-5912a53c5f08c3023218017c72443c3a]: Commencement: Sch. Pt. 1 in operation at 1.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/75/regulation/1/1) and with application in accordance with [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2024/75/regulation/1/2/a)
+[^c-5912a53c5f08c3023218017c72443c3a]: Commencement: Sch. Pt. 1 in operation at 1.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/75/regulation/1/1) and with application in accordance with [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2024/75/regulation/1/2/a)
 
-[^key-03fdf89ba192f18e4d8b01e21093735d]: Commencement: Sch. Pt. 2 in operation at 1.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/75/regulation/1/1) and with application in accordance with [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2024/75/regulation/1/2/b)
+[^c-03fdf89ba192f18e4d8b01e21093735d]: Commencement: Sch. Pt. 2 in operation at 1.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/75/regulation/1/1) and with application in accordance with [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2024/75/regulation/1/2/b)

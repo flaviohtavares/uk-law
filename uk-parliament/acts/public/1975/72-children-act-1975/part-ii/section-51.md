@@ -33,9 +33,9 @@ summary: ''
 the council by whom the child is being looked after shall not remove him from the applicant’s care and possession except—
 
 - (i) with the applicant’s consent;
-- (ii) with the leave of the court; or *(affected by repeal, see note)*[^key-9d3b2f64fa47fb372a9bef7b46cd11e7]
-- (iii) in accordance with an order made, or authority or warrant granted, *(affected by repeal, see note)*[^key-bae87bf6cab4604eec7e715cb258ea6e] under Chapter 2 or *(affected by repeal, see note)*[^key-bae87bf6cab4604eec7e715cb258ea6e] 3 of Part II of the Children (Scotland) Act 1995.
-- (iv)[^key-d85f99956c97ee20810a1b45909b468a] in accordance with section 56 of the Children’s Hearings (Scotland) Act [2011 (asp 1)](https://www.legislation.gov.uk/asp/2011/1) (constable’s power to remove child to place of safety); or
+- (ii) with the leave of the court; or *(affected by repeal, see note)*[^c-9d3b2f64fa47fb372a9bef7b46cd11e7]
+- (iii) in accordance with an order made, or authority or warrant granted, *(affected by repeal, see note)*[^c-bae87bf6cab4604eec7e715cb258ea6e] under Chapter 2 or *(affected by repeal, see note)*[^c-bae87bf6cab4604eec7e715cb258ea6e] 3 of Part II of the Children (Scotland) Act 1995.
+- (iv)[^c-d85f99956c97ee20810a1b45909b468a] in accordance with section 56 of the Children’s Hearings (Scotland) Act [2011 (asp 1)](https://www.legislation.gov.uk/asp/2011/1) (constable’s power to remove child to place of safety); or
 - (v) in accordance with an order or warrant under that Act of 2011.
 
 (3) Any person who contravenes the provisions of subsection (1) commits an offence and shall be liable on summary conviction to imprisonment for a term not exceeding three months or a fine not exceeding level 5 on the standard scale[^c1078113] or both.
@@ -52,11 +52,11 @@ the council by whom the child is being looked after shall not remove him from th
 
 [^c1078112]: Textual amendment: S. 51(2) substituted (1.4.1997) by [1995 c. 36](https://www.legislation.gov.uk/ukpga/1995/36), [s. 105(4)](https://www.legislation.gov.uk/ukpga/1995/36/section/105/4), [Sch. 4 para. 26(4)(b)](https://www.legislation.gov.uk/ukpga/1995/36/schedule/4/paragraph/26/4/b) (with [s. 103(1)](https://www.legislation.gov.uk/ukpga/1995/36/section/103/1)); [S.I. 1996/3201](https://www.legislation.gov.uk/uksi/1996/3201), [art. 3(7)](https://www.legislation.gov.uk/uksi/1996/3201/article/3/7)
 
-[^key-9d3b2f64fa47fb372a9bef7b46cd11e7]: Textual amendment: Word in s. 51(2) repealed (S.) (24.6.2013) by [The Children's Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211)](https://www.legislation.gov.uk/ssi/2013/211), [art. 1](https://www.legislation.gov.uk/ssi/2013/211/article/1), [Sch. 1 para. 3(a)](https://www.legislation.gov.uk/ssi/2013/211/schedule/1/paragraph/3/a)
+[^c-9d3b2f64fa47fb372a9bef7b46cd11e7]: Textual amendment: Word in s. 51(2) repealed (S.) (24.6.2013) by [The Children's Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211)](https://www.legislation.gov.uk/ssi/2013/211), [art. 1](https://www.legislation.gov.uk/ssi/2013/211/article/1), [Sch. 1 para. 3(a)](https://www.legislation.gov.uk/ssi/2013/211/schedule/1/paragraph/3/a)
 
-[^key-bae87bf6cab4604eec7e715cb258ea6e]: Textual amendment: Words in s. 51(2)(iii) repealed (S.) (24.6.2013) by [The Children's Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211)](https://www.legislation.gov.uk/ssi/2013/211), [art. 1](https://www.legislation.gov.uk/ssi/2013/211/article/1), [Sch. 1 para. 3(b)](https://www.legislation.gov.uk/ssi/2013/211/schedule/1/paragraph/3/b)
+[^c-bae87bf6cab4604eec7e715cb258ea6e]: Textual amendment: Words in s. 51(2)(iii) repealed (S.) (24.6.2013) by [The Children's Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211)](https://www.legislation.gov.uk/ssi/2013/211), [art. 1](https://www.legislation.gov.uk/ssi/2013/211/article/1), [Sch. 1 para. 3(b)](https://www.legislation.gov.uk/ssi/2013/211/schedule/1/paragraph/3/b)
 
-[^key-d85f99956c97ee20810a1b45909b468a]: Textual amendment: S. 51(2)(iv)(v) inserted (S.) (24.6.2013) by [The Children's Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211)](https://www.legislation.gov.uk/ssi/2013/211), [art. 1](https://www.legislation.gov.uk/ssi/2013/211/article/1), [Sch. 1 para. 3(c)](https://www.legislation.gov.uk/ssi/2013/211/schedule/1/paragraph/3/c)
+[^c-d85f99956c97ee20810a1b45909b468a]: Textual amendment: S. 51(2)(iv)(v) inserted (S.) (24.6.2013) by [The Children's Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211)](https://www.legislation.gov.uk/ssi/2013/211), [art. 1](https://www.legislation.gov.uk/ssi/2013/211/article/1), [Sch. 1 para. 3(c)](https://www.legislation.gov.uk/ssi/2013/211/schedule/1/paragraph/3/c)
 
 [^c1078113]: Textual amendment: Words substituted by virtue of [Criminal Procedure (Scotland) Act 1975 (c. 21, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1975/21), [ss. 289F](https://www.legislation.gov.uk/ukpga/1975/21/section/289F), [289G](https://www.legislation.gov.uk/ukpga/1975/21/section/289G)
 

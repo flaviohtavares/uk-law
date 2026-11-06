@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Additional requirements for applications for signing sheets to be sent to different addresses from that shown in the record kept by the registration officer[^key-70f245773d5499cb3627ac9ff1a960e8]
+## 62. Additional requirements for applications for signing sheets to be sent to different addresses from that shown in the record kept by the registration officer[^c-70f245773d5499cb3627ac9ff1a960e8]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-70f245773d5499cb3627ac9ff1a960e8]: Commencement: Reg. 62 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-70f245773d5499cb3627ac9ff1a960e8]: Commencement: Reg. 62 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

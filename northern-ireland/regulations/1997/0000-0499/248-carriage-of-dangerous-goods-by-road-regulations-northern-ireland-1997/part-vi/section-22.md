@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 22. Accidents and emergencies[^key-c86504c5f8bfda0175effa8d3e885aa8]
+## 22. Accidents and emergencies[^c-c86504c5f8bfda0175effa8d3e885aa8]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c86504c5f8bfda0175effa8d3e885aa8]: Commencement: Reg. 22 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)
+[^c-c86504c5f8bfda0175effa8d3e885aa8]: Commencement: Reg. 22 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)

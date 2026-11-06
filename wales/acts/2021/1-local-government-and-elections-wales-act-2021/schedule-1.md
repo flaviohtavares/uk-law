@@ -24,11 +24,11 @@ summary: ''
 
 ### Initial reviews
 
-**1.**[^c24525411][^c24525731] (1) For the purposes of this Act, an “initial review” is a review conducted by the Democracy and Boundary Commission Cymru[^key-4d9c3be4d46e120bfbfe64826ae2f0d0] (“**the Commission**”) for the purpose of recommending electoral arrangements for the area under review.
+**1.**[^c24525411][^c24525731] (1) For the purposes of this Act, an “initial review” is a review conducted by the Democracy and Boundary Commission Cymru[^c-4d9c3be4d46e120bfbfe64826ae2f0d0] (“**the Commission**”) for the purpose of recommending electoral arrangements for the area under review.
 
 (2) In an initial review the Commission may also recommend relevant consequential changes.
 
-(3)[^key-6019bea1a3bfc82cfa31490e68f6fb5e] This paragraph is subject to anything specified, under section 11(3) or 138(3), in the direction requiring the Commission to conduct an initial review.
+(3)[^c-6019bea1a3bfc82cfa31490e68f6fb5e] This paragraph is subject to anything specified, under section 11(3) or 138(3), in the direction requiring the Commission to conduct an initial review.
 
 ### “Area under review”
 
@@ -38,14 +38,14 @@ summary: ''
 
 (3) Where, after the Welsh Ministers receive a merger application, the Commission is directed under section 138 to conduct an initial review, the area under review is the new principal area that is to be, or is, constituted by merger regulations.
 
-(4)[^key-cb2945ac02136e41a7a02e7e6ab0c86b] Where—
+(4)[^c-cb2945ac02136e41a7a02e7e6ab0c86b] Where—
 
 - (a) after the Welsh Ministers have given notice of their proposals as described in section 129(6), the Commission is directed under section 138 to conduct an initial review, and
 - (b) the transfer of part of the principal area to be abolished to another principal area is proposed, or provided for in restructuring regulations,
 
 the area under review is the area specified in the direction under section 138.
 
-(5)[^key-cb2945ac02136e41a7a02e7e6ab0c86b] Where—
+(5)[^c-cb2945ac02136e41a7a02e7e6ab0c86b] Where—
 
 - (a) after the Welsh Ministers have given notice of their proposals as described in section 129(6), the Commission is directed under section 138 to conduct an initial review, and
 - (b) the constitution of a new principal area is proposed, or provided for in restructuring regulations,
@@ -82,11 +82,11 @@ the area under review is the new principal area that is to be constituted by res
 
 ### Directions and guidance to Commission
 
-**4.**[^c24532641][^c24532651] (1)[^key-daf991c0e34945a04509be36e3c1d2a9] A direction under section 11 or 138 must specify the date by which the Commission must submit its final report to the Welsh Ministers under paragraph 8(3)(a).
+**4.**[^c24532641][^c24532651] (1)[^c-daf991c0e34945a04509be36e3c1d2a9] A direction under section 11 or 138 must specify the date by which the Commission must submit its final report to the Welsh Ministers under paragraph 8(3)(a).
 
-(2)[^key-daf991c0e34945a04509be36e3c1d2a9] A direction under section 11 or 138 may require the Commission to have regard to particular matters specified in the direction when conducting the initial review.
+(2)[^c-daf991c0e34945a04509be36e3c1d2a9] A direction under section 11 or 138 may require the Commission to have regard to particular matters specified in the direction when conducting the initial review.
 
-(3)[^key-daf991c0e34945a04509be36e3c1d2a9] The Welsh Ministers may give general directions about the conduct of initial reviews, including—
+(3)[^c-daf991c0e34945a04509be36e3c1d2a9] The Welsh Ministers may give general directions about the conduct of initial reviews, including—
 
 - (a) directions as to the order in which different initial reviews required by directions under section 11 or 138 are to be conducted and as to whether different reviews are to be conducted at the same time, and
 - (b) directions specifying matters to which the Commission must have regard in conducting initial reviews.
@@ -98,7 +98,7 @@ the area under review is the new principal area that is to be constituted by res
 
 (5) The Welsh Ministers may direct the Commission to stop conducting an initial review, and to take no further steps in relation to the review.
 
-(6)[^key-daf991c0e34945a04509be36e3c1d2a9] The Welsh Ministers may, after the publication by the Commission of an interim report under paragraph 7(2) in relation to an area under review, direct the Commission under section 11 or 138 to conduct another initial review in relation to the same area.
+(6)[^c-daf991c0e34945a04509be36e3c1d2a9] The Welsh Ministers may, after the publication by the Commission of an interim report under paragraph 7(2) in relation to an area under review, direct the Commission under section 11 or 138 to conduct another initial review in relation to the same area.
 
 (7) The Commission must have regard to any guidance issued by the Welsh Ministers about the conduct of initial reviews.
 
@@ -133,7 +133,7 @@ the area under review is the new principal area that is to be constituted by res
 (2) In this Schedule, “**the mandatory consultees**” means—
 
 - (a) in the case of an initial review conducted in accordance with a direction under section 11, the principal council of the area under review;
-- (b)[^key-257731bbac4623d6b29da07a79e43acd] in the case of an initial review conducted in accordance with a direction under section 138, the merging councils or the restructuring councils;
+- (b)[^c-257731bbac4623d6b29da07a79e43acd] in the case of an initial review conducted in accordance with a direction under section 138, the merging councils or the restructuring councils;
 - (c) the councils for the existing communities (if any) in the area under review;
 - (d) such other persons as are specified by the Welsh Ministers in a direction to conduct an initial review.
 
@@ -254,9 +254,9 @@ the area under review is the new principal area that is to be constituted by res
 
 ### Delegation by the Commission of functions under this Schedule
 
-**13.**[^key-728cfa0a76bba058ee4ef4f2a5ca3a11] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-728cfa0a76bba058ee4ef4f2a5ca3a11] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Orders under Part 3 of the Democracy and Boundary Commission Cymru etc. Act 2013 (anaw 4)[^key-4eca310c7b602c62cba294c07753bb97]
+### Orders under Part 3 of the Democracy and Boundary Commission Cymru etc. Act 2013 (anaw 4)[^c-4eca310c7b602c62cba294c07753bb97]
 
 **14.** In section 43 of the 2013 Act (variation and revocation of orders), after subsection (12) insert—
 
@@ -268,27 +268,27 @@ the area under review is the new principal area that is to be constituted by res
 
 [^c24525731]: Commencement: Sch. 1 para. 1(3) in force at 21.1.2021 for specified purposes, see [s. 175(1)(f)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/f)
 
-[^key-4d9c3be4d46e120bfbfe64826ae2f0d0]: Textual amendment: Words in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/asc/2021/1/schedule/1/paragraph/1/1) substituted (25.6.2024) by [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [s. 25(1)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/a), [Sch. 1 para. 50](https://www.legislation.gov.uk/asc/2024/4/schedule/1/paragraph/50)
+[^c-4d9c3be4d46e120bfbfe64826ae2f0d0]: Textual amendment: Words in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/asc/2021/1/schedule/1/paragraph/1/1) substituted (25.6.2024) by [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [s. 25(1)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/a), [Sch. 1 para. 50](https://www.legislation.gov.uk/asc/2024/4/schedule/1/paragraph/50)
 
-[^key-6019bea1a3bfc82cfa31490e68f6fb5e]: Commencement: Sch. 1 para. 1(3) in force at 6.5.2022 in so far as not already in force, see [s. 175(2)(k)(ii)(6)(b)](https://www.legislation.gov.uk/asc/2021/1/section/175/2/k)
+[^c-6019bea1a3bfc82cfa31490e68f6fb5e]: Commencement: Sch. 1 para. 1(3) in force at 6.5.2022 in so far as not already in force, see [s. 175(2)(k)(ii)(6)(b)](https://www.legislation.gov.uk/asc/2021/1/section/175/2/k)
 
 [^c24530451]: Commencement: [Sch. 1 para. 2(1)(3)](https://www.legislation.gov.uk/asc/2021/1/schedule/1/paragraph/2/1/3) in force at 21.1.2021, see [s. 175(1)(f)(2)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/f/2)
 
 [^c24532621]: Commencement: [Sch. 1 para. 2(2)](https://www.legislation.gov.uk/asc/2021/1/schedule/1/paragraph/2/2) in force at 6.5.2022, see [s. 175(2)(k)(iii)(6)(b)](https://www.legislation.gov.uk/asc/2021/1/section/175/2/k)
 
-[^key-cb2945ac02136e41a7a02e7e6ab0c86b]: Commencement: Sch. 1 para. 2(4)(5) in force at 1.4.2021 by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(g)](https://www.legislation.gov.uk/uksi/2021/297/article/2/g)
+[^c-cb2945ac02136e41a7a02e7e6ab0c86b]: Commencement: Sch. 1 para. 2(4)(5) in force at 1.4.2021 by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(g)](https://www.legislation.gov.uk/uksi/2021/297/article/2/g)
 
 [^c24532641]: Commencement: Sch. 1 para. 4(1)-(3)(6) in force at 21.1.2021 for specified purposes, see [s. 175(1)(f)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/f)
 
 [^c24532651]: Commencement: [Sch. 1 para. 4(4)(5)(7)](https://www.legislation.gov.uk/asc/2021/1/schedule/1/paragraph/4/4/5/7) in force at 21.1.2021, see [s. 175(1)(f)(2)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/f)
 
-[^key-daf991c0e34945a04509be36e3c1d2a9]: Commencement: Sch. 1 para. 4(1)-(3)(6) in force at 6.5.2022 in so far as not already in force, see [s. 175(2)(k)(i)(6)(b)](https://www.legislation.gov.uk/asc/2021/1/section/175/2/k)
+[^c-daf991c0e34945a04509be36e3c1d2a9]: Commencement: Sch. 1 para. 4(1)-(3)(6) in force at 6.5.2022 in so far as not already in force, see [s. 175(2)(k)(i)(6)(b)](https://www.legislation.gov.uk/asc/2021/1/section/175/2/k)
 
 [^c24532661]: Commencement: [Sch. 1 para. 6(1)(2)(b)-(d)](https://www.legislation.gov.uk/asc/2021/1/schedule/1/paragraph/6/1/2/b) in force at 21.1.2021 for specified purposes, see [s. 175(1)(f)(2)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/f)
 
 [^c24532681]: Commencement: [Sch. 1 para. 6(2)(a)](https://www.legislation.gov.uk/asc/2021/1/schedule/1/paragraph/6/2/a) in force at 6.5.2022, see [s. 175(2)(k)(iii)(6)(b)](https://www.legislation.gov.uk/asc/2021/1/section/175/2/k)
 
-[^key-257731bbac4623d6b29da07a79e43acd]: Commencement: Sch. 1 para. 6(2)(b) in force at 1.4.2021 in so far as not already in force by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(g)](https://www.legislation.gov.uk/uksi/2021/297/article/2/g)
+[^c-257731bbac4623d6b29da07a79e43acd]: Commencement: Sch. 1 para. 6(2)(b) in force at 1.4.2021 in so far as not already in force by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(g)](https://www.legislation.gov.uk/uksi/2021/297/article/2/g)
 
 [^c24532701]: Commencement: Sch. 1 para. 12(1)(a)(2) in force at 6.5.2022, see [s. 175(2)(k)(iii)(6)(b)](https://www.legislation.gov.uk/asc/2021/1/section/175/2/k)
 
@@ -298,6 +298,6 @@ the area under review is the new principal area that is to be constituted by res
 
 [^c24532731]: Commencement: [Sch. 1 para. 12(4)(b)](https://www.legislation.gov.uk/asc/2021/1/schedule/1/paragraph/12/4/b) in force at 21.1.2021, see [s. 175(1)(f)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/f)
 
-[^key-728cfa0a76bba058ee4ef4f2a5ca3a11]: Textual amendment: Sch. 1 para. 13 omitted (24.8.2024) by virtue of [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [s. 25(2)(c)](https://www.legislation.gov.uk/asc/2024/4/section/25/2/c), [Sch. 3 para. 2(7)](https://www.legislation.gov.uk/asc/2024/4/schedule/3/paragraph/2/7)
+[^c-728cfa0a76bba058ee4ef4f2a5ca3a11]: Textual amendment: Sch. 1 para. 13 omitted (24.8.2024) by virtue of [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [s. 25(2)(c)](https://www.legislation.gov.uk/asc/2024/4/section/25/2/c), [Sch. 3 para. 2(7)](https://www.legislation.gov.uk/asc/2024/4/schedule/3/paragraph/2/7)
 
-[^key-4eca310c7b602c62cba294c07753bb97]: Textual amendment: Words in [Sch. 1 para. 14 cross-heading](https://www.legislation.gov.uk/asc/2021/1/schedule/1/crossheading/orders-under-part-3-of-the-local-government-democracy-wales-act-2013-anaw-4) substituted (25.6.2024) by [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [s. 25(1)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/a), [Sch. 1 para. 7(3)](https://www.legislation.gov.uk/asc/2024/4/schedule/1/paragraph/7/3)
+[^c-4eca310c7b602c62cba294c07753bb97]: Textual amendment: Words in [Sch. 1 para. 14 cross-heading](https://www.legislation.gov.uk/asc/2021/1/schedule/1/crossheading/orders-under-part-3-of-the-local-government-democracy-wales-act-2013-anaw-4) substituted (25.6.2024) by [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [s. 25(1)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/a), [Sch. 1 para. 7(3)](https://www.legislation.gov.uk/asc/2024/4/schedule/1/paragraph/7/3)

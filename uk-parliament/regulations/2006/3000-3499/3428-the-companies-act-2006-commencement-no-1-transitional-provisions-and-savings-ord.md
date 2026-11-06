@@ -44,7 +44,7 @@ Coming into force in accordance with article 1(3), (4) and (5)
 
 The Secretary of State makes the following Order in exercise of the powers conferred by sections 1296(1) and (2) and 1300(2) of the Companies Act 2006[^f00001].
 
-## 1. Citation, interpretation and coming into force[^key-d98dd8c3b7e0a5ee10bfd5d472c8b6e7]
+## 1. Citation, interpretation and coming into force[^c-d98dd8c3b7e0a5ee10bfd5d472c8b6e7]
 
 (1) This Order may be cited as the Companies Act 2006 (Commencement No. 1, Transitional Provisions and Savings) Order 2006.
 
@@ -59,7 +59,7 @@ The Secretary of State makes the following Order in exercise of the powers confe
 
 (5) Articles 4 and 7(c) and Schedule 4 and Part 3 of Schedule 5 come into force on 6th April 2007.
 
-## 2. Provisions coming into force on 1st January 2007[^key-1a08990769929e6952ddf85db819180a]
+## 2. Provisions coming into force on 1st January 2007[^c-1a08990769929e6952ddf85db819180a]
 
 (1) The following provisions of the Companies Act 2006 come into force on 1st January 2007—
 
@@ -83,7 +83,7 @@ The Secretary of State makes the following Order in exercise of the powers confe
 - (g) in section 1173 (minor definitions: general), the definitions of “Gazette” and “working day”; and
 - (h) section 1284 (extension of Companies Acts to Northern Ireland).
 
-## 3. Provisions coming into force on 20th January 2007[^key-9d39f0252000b75f474d058fbc947f3a]
+## 3. Provisions coming into force on 20th January 2007[^c-9d39f0252000b75f474d058fbc947f3a]
 
 (1) The following provisions of the Companies Act 2006 come into force on 20th January 2007—
 
@@ -103,7 +103,7 @@ The Secretary of State makes the following Order in exercise of the powers confe
 
 (3) The provisions of the Companies Act 2006, so far as not brought into force by section 1300(1) of that Act or article 2 or the preceding provisions of this article, come into force on 20th January 2007 for the purpose of enabling the exercise of powers to make orders or regulations by statutory instrument.
 
-## 4. Provisions coming into force on 6th April 2007[^key-c3d2b60c7cc51cc94fca09cd7615aac3]
+## 4. Provisions coming into force on 6th April 2007[^c-c3d2b60c7cc51cc94fca09cd7615aac3]
 
 (1) The following provisions of the Companies Act 2006 come into force on 6th April 2007—
 
@@ -128,11 +128,11 @@ The Secretary of State makes the following Order in exercise of the powers confe
 
 (4) The coming into force of section 1063 by virtue of paragraph (1)(a) does not extend to Northern Ireland.
 
-## 5. Transitional adaptations of provisions brought into force[^key-e8f5bf042ebfdee50ae64179148110f2]
+## 5. Transitional adaptations of provisions brought into force[^c-e8f5bf042ebfdee50ae64179148110f2]
 
 The provisions brought into force by articles 2, 3 and 4 have effect subject to any transitional adaptations specified in Schedule 1.
 
-## 6. Interpretation of provisions brought into force[^key-ffce94a8548a6f5134f04735456c6bb5]
+## 6. Interpretation of provisions brought into force[^c-ffce94a8548a6f5134f04735456c6bb5]
 
 Where an expression in a provision brought into force by this Order (or in an adaptation made by this Order of such a provision)—
 
@@ -145,11 +145,11 @@ the expression has, for the purposes of the provision brought into force (or the
 
 Section 1295 of, and Schedule 16 to, the Companies Act 2006 (repeals) come into force—
 
-- (a)[^key-04e91836809c1d98e6e73a0a7becc335] on 1st January 2007 so far as relating to the repeal of the provisions specified in Schedule 2;
+- (a)[^c-04e91836809c1d98e6e73a0a7becc335] on 1st January 2007 so far as relating to the repeal of the provisions specified in Schedule 2;
 - (b)[^M_I_30075607-c3b3-4030-d992-ac53da0ddc22] on 20th January 2007 so far as relating to the repeal of the provisions specified in Schedule 3; and
 - (c)[^M_I_d2814254-e25d-49fa-96ec-b5989d4ba933] on 6th April 2007 so far as relating to the repeal of the provisions specified in Schedule 4.
 
-## 8. Transitional provisions and savings[^key-353ac34523c353b310101f8244a29bf5]
+## 8. Transitional provisions and savings[^c-353ac34523c353b310101f8244a29bf5]
 
 (1) Schedule 5 contains transitional provisions and savings relating to the provisions (and repeals) brought into force by this Order.
 
@@ -163,53 +163,53 @@ Department of Trade and Industry
 
 20th December 2006
 
-## SCHEDULE 1 — TRANSITIONAL ADAPTATIONS OF PROVISIONS BROUGHT INTO FORCE[^key-5e5a3f3a9b1630087e33f1b4ee905bb7]
+## SCHEDULE 1 — TRANSITIONAL ADAPTATIONS OF PROVISIONS BROUGHT INTO FORCE[^c-5e5a3f3a9b1630087e33f1b4ee905bb7]
 
 **No longer in force.**
 
 Article 5
 
-### 1. The Companies Acts[^key-5e5a3f3a9b1630087e33f1b4ee905bb7]
+### 1. The Companies Acts[^c-5e5a3f3a9b1630087e33f1b4ee905bb7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Information about interests in a company’s shares[^key-5e5a3f3a9b1630087e33f1b4ee905bb7]
+### 2. Information about interests in a company’s shares[^c-5e5a3f3a9b1630087e33f1b4ee905bb7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-5e5a3f3a9b1630087e33f1b4ee905bb7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-5e5a3f3a9b1630087e33f1b4ee905bb7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Documents delivered to registrar of companies[^key-5e5a3f3a9b1630087e33f1b4ee905bb7]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**5.**[^key-5e5a3f3a9b1630087e33f1b4ee905bb7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**6.**[^key-5e5a3f3a9b1630087e33f1b4ee905bb7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**7.**[^key-5e5a3f3a9b1630087e33f1b4ee905bb7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**8.**[^key-5e5a3f3a9b1630087e33f1b4ee905bb7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**9.**[^key-5e5a3f3a9b1630087e33f1b4ee905bb7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**10.**[^key-5e5a3f3a9b1630087e33f1b4ee905bb7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**11.**[^key-5e5a3f3a9b1630087e33f1b4ee905bb7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**12.**[^key-5e5a3f3a9b1630087e33f1b4ee905bb7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**13.**[^key-5e5a3f3a9b1630087e33f1b4ee905bb7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 14. The company communications provisions[^key-5e5a3f3a9b1630087e33f1b4ee905bb7]
+### 4. Documents delivered to registrar of companies[^c-5e5a3f3a9b1630087e33f1b4ee905bb7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Extension of Companies Acts to Northern Ireland[^key-5e5a3f3a9b1630087e33f1b4ee905bb7]
+**5.**[^c-5e5a3f3a9b1630087e33f1b4ee905bb7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**6.**[^c-5e5a3f3a9b1630087e33f1b4ee905bb7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**7.**[^c-5e5a3f3a9b1630087e33f1b4ee905bb7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**8.**[^c-5e5a3f3a9b1630087e33f1b4ee905bb7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**9.**[^c-5e5a3f3a9b1630087e33f1b4ee905bb7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**10.**[^c-5e5a3f3a9b1630087e33f1b4ee905bb7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**11.**[^c-5e5a3f3a9b1630087e33f1b4ee905bb7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**12.**[^c-5e5a3f3a9b1630087e33f1b4ee905bb7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**13.**[^c-5e5a3f3a9b1630087e33f1b4ee905bb7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 14. The company communications provisions[^c-5e5a3f3a9b1630087e33f1b4ee905bb7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Communications by a company[^key-5e5a3f3a9b1630087e33f1b4ee905bb7]
+### 15. Extension of Companies Acts to Northern Ireland[^c-5e5a3f3a9b1630087e33f1b4ee905bb7]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 16. Communications by a company[^c-5e5a3f3a9b1630087e33f1b4ee905bb7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -217,7 +217,7 @@ Article 5
 
 Article 7(a)
 
-### PART 1 — GREAT BRITAIN[^key-a4029505de0f675127bcdb33aec9dee1]
+### PART 1 — GREAT BRITAIN[^c-a4029505de0f675127bcdb33aec9dee1]
 
 | Short title and chapter | Extent of repeal brought into force |
 | --- | --- |
@@ -234,7 +234,7 @@ Article 7(a)
 | Insolvency Act [1986 (c.45)](https://www.legislation.gov.uk/ukpga/1986/45) | In Schedule 13, in Part 1, the entry relating to section 711(2) of the Companies Act 1985. |
 | Welsh Language Act [1993 (c.38)](https://www.legislation.gov.uk/ukpga/1993/38) | Section 30. |
 
-### PART 2 — NORTHERN IRELAND[^key-53774fb45f1fa8b6365dcc3af59d6c9b]
+### PART 2 — NORTHERN IRELAND[^c-53774fb45f1fa8b6365dcc3af59d6c9b]
 
 | Title and number | Extent of repeal brought into force |
 | --- | --- |
@@ -250,7 +250,7 @@ Article 7(a)
 
 Article 7(b)
 
-### PART 1 — GREAT BRITAIN[^key-57cea9f54dc53b59e0c5b6b6f9232252]
+### PART 1 — GREAT BRITAIN[^c-57cea9f54dc53b59e0c5b6b6f9232252]
 
 | Short title and chapter | Extent of repeal brought into force |
 | --- | --- |
@@ -271,7 +271,7 @@ Article 7(b)
 | Criminal Justice and Police Act [2001 (c.16)](https://www.legislation.gov.uk/ukpga/2001/16) | Section 45(4). |
 | Civil Partnership Act [2004 (c.33)](https://www.legislation.gov.uk/ukpga/2004/33) | In Schedule 27, paragraph 99. |
 
-### PART 2 — NORTHERN IRELAND[^key-290e269a323a4603d6be5cb339094762]
+### PART 2 — NORTHERN IRELAND[^c-290e269a323a4603d6be5cb339094762]
 
 | Title and number | Extent of repeal brought into force |
 | --- | --- |
@@ -295,7 +295,7 @@ Article 7(b)
 
 Article 7(c)
 
-### PART 1 — GREAT BRITAIN[^key-0e81823d2bdd97ac65c350c3ae6c37e5]
+### PART 1 — GREAT BRITAIN[^c-0e81823d2bdd97ac65c350c3ae6c37e5]
 
 <table>
 <thead>
@@ -330,7 +330,7 @@ Article 7(c)
 </tbody>
 </table>
 
-### PART 2 — NORTHERN IRELAND[^key-c3547ba28dc56490d0237a9f587fc0f1]
+### PART 2 — NORTHERN IRELAND[^c-c3547ba28dc56490d0237a9f587fc0f1]
 
 <table>
 <thead>
@@ -360,7 +360,7 @@ Article 8(1)
 
 ### PART 1 — PROVISIONS COMING INTO FORCE ON 1ST JANUARY 2007
 
-#### 1. Savings for certain provisions relating to Welsh companies[^key-2e9595fdfb2d36783d40e512ab03e2c1]
+#### 1. Savings for certain provisions relating to Welsh companies[^c-2e9595fdfb2d36783d40e512ab03e2c1]
 
 (1) Regulations 4 and 5 of the Companies (Welsh Language Forms and Documents) Regulations 1994[^f00006] continue to have effect notwithstanding the repeal of section 710B of the 1985 Act.
 
@@ -380,7 +380,7 @@ Article 8(1)
 
 ### PART 2 — PROVISIONS COMING INTO FORCE ON 20TH JANUARY 2007
 
-#### 2. Information about interests in a company’s shares[^key-56b3fa5bdc1d3c2c7b18dd53b98690a6]
+#### 2. Information about interests in a company’s shares[^c-56b3fa5bdc1d3c2c7b18dd53b98690a6]
 
 (1) The repeal of sections 198 to 210 and 220 of the 1985 Act or Articles 206 to 218 and 228 of the 1986 Order (obligation to disclose acquisitions and disposals of interests in shares) does not affect any obligation to which a person became subject under section 198 of that Act or Article 206 of that Order before 20th January 2007.
 
@@ -388,16 +388,16 @@ Article 8(1)
 
 (3) On and after 20th January 2007 any separate part of a register kept by a company under section 213 of the 1985 Act or Article 221 of the 1986 Order (register of interests disclosed in response to requirement by company) shall continue to be kept by the company and shall be treated as a register kept under and for the purposes of section 808 of the Companies Act 2006.
 
-(4) Until regulations under section 1136 of the Companies Act 2006 (regulations about where certain company records are to be kept available for inspection) come into force[^key-c9b4f4555b189be40697b323f3d08f57] specifying a place for the purposes of section 809(1)(b) of that Act—
+(4) Until regulations under section 1136 of the Companies Act 2006 (regulations about where certain company records are to be kept available for inspection) come into force[^c-c9b4f4555b189be40697b323f3d08f57] specifying a place for the purposes of section 809(1)(b) of that Act—
 
 - (a) the register kept under section 808 of that Act (register of interests disclosed) may be kept by a company at any place where its register of members is kept; and
 - (b) no notice need be given to the registrar of companies under section 809(2) of that Act.
 
-#### 3. False or misleading statements in reports[^key-458f851fa5d2bc9bddce6b6e877fbbdf]
+#### 3. False or misleading statements in reports[^c-458f851fa5d2bc9bddce6b6e877fbbdf]
 
 Section 463 of the Companies Act 2006 (liability for false or misleading statements in reports) does not apply to a directors’ report, directors’ remuneration report or summary financial statement first sent to members and others under section 238 or 251 of the 1985 Act, or Article 246 or 259 of the 1986 Order, before 20th January 2007.
 
-#### 4. Existing agreements to communication by electronic means[^key-b0e477963a629aae12bc337e873c35bb]
+#### 4. Existing agreements to communication by electronic means[^c-b0e477963a629aae12bc337e873c35bb]
 
 (1) This paragraph applies where an address has been notified by a person to a company for the purposes of—
 
@@ -407,7 +407,7 @@ Section 463 of the Companies Act 2006 (liability for false or misleading stateme
 
 (2) Any such notification that is in force immediately before 20th January 2007 shall have effect on and after that date, in relation to the matters to which it relates, as an agreement under paragraph 6(a) of Schedule 5 to the Companies Act 2006 (agreement to accept documents or information in electronic form) and as an address specified under paragraph 7(1) of Schedule 5 to that Act (address for communications in electronic form).
 
-**5.**[^key-eccadda0887153bafda3c9ff337e1ae5] (1) This paragraph applies where an agreement between a person and a company has been entered into for the purposes of—
+**5.**[^c-eccadda0887153bafda3c9ff337e1ae5] (1) This paragraph applies where an agreement between a person and a company has been entered into for the purposes of—
 
 - (a) section 238(4B) of the 1985 Act or Article 246(4B) of the 1986 Order (sending or supply of copies of accounts and reports by means of website);
 - (b) section 251(2B) of the 1985 Act or Article 259(2B) of the 1986 Order (sending of summary financial statement by means of website); or
@@ -417,22 +417,22 @@ Section 463 of the Companies Act 2006 (liability for false or misleading stateme
 
 ### PART 3 — PROVISIONS COMING INTO FORCE ON 6TH APRIL 2007
 
-#### 6. Saving for existing provisions relating to fees[^key-f1ebfdb0666baac98df9d2d249d44260]
+#### 6. Saving for existing provisions relating to fees[^c-f1ebfdb0666baac98df9d2d249d44260]
 
 (1) The coming into force of section 1063 of the Companies Act 2006 (fees payable to the registrar) does not affect the continued operation of any other provision under which the payment of fees to the registrar of companies may be required until—
 
 - (a) the coming into force of the repeal of the other provision; or
 - (b) the exercise of the power in section 1063 in a manner inconsistent with its continued operation.
 
-(2)[^key-474b37a75997fa94ffbc96f626ab186a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-474b37a75997fa94ffbc96f626ab186a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The repeal of section 708(5) of the 1985 Act shall not prevent the registrar from continuing to charge fees thereunder of which notice had before the repeal been given to those to whom the services in question have been, are being or are to be provided (including notice by publication of a list of fees in respect of services provided to any person who seeks their provision).
 
-#### 7. Saving for certain acts done by a person as director[^key-243903d849a828e0c34b0ac5691f94cb]
+#### 7. Saving for certain acts done by a person as director[^c-243903d849a828e0c34b0ac5691f94cb]
 
 The repeal of section 293(3) of the 1985 Act or Article 301(3) of the 1986 Order (age limit for directors: validity of acts done before it is discovered appointment has terminated) does not affect the validity of acts done by a person acting as director to whom that section or Article applied.
 
-#### 8. Saving for civil proceedings brought by Department of Enterprise, Trade and Investment[^key-42ac3da632cb8d7e96eac196c92fd1b0]
+#### 8. Saving for civil proceedings brought by Department of Enterprise, Trade and Investment[^c-42ac3da632cb8d7e96eac196c92fd1b0]
 
 The repeal of Article 431 of the 1986 Order (power of Department of Enterprise, Trade and Investment to bring civil proceedings on company’s behalf) does not affect proceedings brought under that Article before 6th April 2007.
 
@@ -464,68 +464,68 @@ Article 7 of the Order brings into force section 1295 of the Act (repeals) on 1s
 
 [^f00001]: Footnote: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-d98dd8c3b7e0a5ee10bfd5d472c8b6e7]: Commencement: Art. 1 in force at 1.1.2007, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2006/3428/article/1/3)
+[^c-d98dd8c3b7e0a5ee10bfd5d472c8b6e7]: Commencement: Art. 1 in force at 1.1.2007, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2006/3428/article/1/3)
 
 [^f00002]: Footnote: [1985 c.6](https://www.legislation.gov.uk/ukpga/1985/6).
 
 [^f00003]: Footnote: [S.I. 1986/1032 (N.I. 6)](https://www.legislation.gov.uk/nisi/1986/1032).
 
-[^key-1a08990769929e6952ddf85db819180a]: Commencement: Art. 2 in force at 1.1.2007, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2006/3428/article/1/3)
+[^c-1a08990769929e6952ddf85db819180a]: Commencement: Art. 2 in force at 1.1.2007, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2006/3428/article/1/3)
 
-[^key-9d39f0252000b75f474d058fbc947f3a]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2006/3428/article/3) in force at 20.1.2007, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2006/3428/article/1/4)
+[^c-9d39f0252000b75f474d058fbc947f3a]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2006/3428/article/3) in force at 20.1.2007, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2006/3428/article/1/4)
 
-[^key-c3d2b60c7cc51cc94fca09cd7615aac3]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2006/3428/article/4) in force at 6.4.2007, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2006/3428/article/1/5)
+[^c-c3d2b60c7cc51cc94fca09cd7615aac3]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2006/3428/article/4) in force at 6.4.2007, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2006/3428/article/1/5)
 
-[^key-e8f5bf042ebfdee50ae64179148110f2]: Commencement: Art. 5 in force at 1.1.2007, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2006/3428/article/1/3)
+[^c-e8f5bf042ebfdee50ae64179148110f2]: Commencement: Art. 5 in force at 1.1.2007, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2006/3428/article/1/3)
 
-[^key-ffce94a8548a6f5134f04735456c6bb5]: Commencement: Art. 6 in force at 1.1.2007, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2006/3428/article/1/3)
+[^c-ffce94a8548a6f5134f04735456c6bb5]: Commencement: Art. 6 in force at 1.1.2007, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2006/3428/article/1/3)
 
-[^key-04e91836809c1d98e6e73a0a7becc335]: Commencement: Art. 7(a) in force at 1.1.2007, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2006/3428/article/1/3)
+[^c-04e91836809c1d98e6e73a0a7becc335]: Commencement: Art. 7(a) in force at 1.1.2007, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2006/3428/article/1/3)
 
 [^M_I_30075607-c3b3-4030-d992-ac53da0ddc22]: Commencement: Art. 7(b) in force at 20.1.2007, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2006/3428/article/1/4)
 
 [^M_I_d2814254-e25d-49fa-96ec-b5989d4ba933]: Commencement: Art. 7(c) in force at 6.4.2007, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2006/3428/article/1/5)
 
-[^key-353ac34523c353b310101f8244a29bf5]: Commencement: Art. 8 in force at 1.1.2007, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2006/3428/article/1/3)
+[^c-353ac34523c353b310101f8244a29bf5]: Commencement: Art. 8 in force at 1.1.2007, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2006/3428/article/1/3)
 
 [^f00004]: Footnote: [S.I. 2001/1090](https://www.legislation.gov.uk/uksi/2001/1090).
 
 [^f00005]: Footnote: [S.R. (NI) 2004 No 307](https://www.legislation.gov.uk/nisr/2004/307).
 
-[^key-5e5a3f3a9b1630087e33f1b4ee905bb7]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2006/3428/schedule/1) revoked (1.10.2009) by [The Companies Act 2006 (Commencement No. 8, Transitional Provisions and Savings) Order 2008 (S.I. 2008/2860)](https://www.legislation.gov.uk/uksi/2008/2860), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2), [6](https://www.legislation.gov.uk/uksi/2008/2860/article/6) (with [arts. 7](https://www.legislation.gov.uk/uksi/2008/2860/article/7), [8](https://www.legislation.gov.uk/uksi/2008/2860/article/8), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2)) (which transitional provisions and savings in Sch. 2 are amended (1.10.2009) by [S.I. 2009/1802](https://www.legislation.gov.uk/uksi/2009/1802), [art. 18](https://www.legislation.gov.uk/uksi/2009/1802/article/18), [Sch.](https://www.legislation.gov.uk/uksi/2009/1802/schedule) and [S.I. 2009/2476](https://www.legislation.gov.uk/uksi/2009/2476), [reg. 2](https://www.legislation.gov.uk/uksi/2009/2476/regulation/2))
+[^c-5e5a3f3a9b1630087e33f1b4ee905bb7]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2006/3428/schedule/1) revoked (1.10.2009) by [The Companies Act 2006 (Commencement No. 8, Transitional Provisions and Savings) Order 2008 (S.I. 2008/2860)](https://www.legislation.gov.uk/uksi/2008/2860), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2), [6](https://www.legislation.gov.uk/uksi/2008/2860/article/6) (with [arts. 7](https://www.legislation.gov.uk/uksi/2008/2860/article/7), [8](https://www.legislation.gov.uk/uksi/2008/2860/article/8), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2)) (which transitional provisions and savings in Sch. 2 are amended (1.10.2009) by [S.I. 2009/1802](https://www.legislation.gov.uk/uksi/2009/1802), [art. 18](https://www.legislation.gov.uk/uksi/2009/1802/article/18), [Sch.](https://www.legislation.gov.uk/uksi/2009/1802/schedule) and [S.I. 2009/2476](https://www.legislation.gov.uk/uksi/2009/2476), [reg. 2](https://www.legislation.gov.uk/uksi/2009/2476/regulation/2))
 
-[^key-a4029505de0f675127bcdb33aec9dee1]: Commencement: Sch. 2 Pt. 1 in force at 1.1.2007, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2006/3428/article/1/3)
+[^c-a4029505de0f675127bcdb33aec9dee1]: Commencement: Sch. 2 Pt. 1 in force at 1.1.2007, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2006/3428/article/1/3)
 
-[^key-53774fb45f1fa8b6365dcc3af59d6c9b]: Commencement: Sch. 2 Pt. 2 in force at 1.1.2007, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2006/3428/article/1/3)
+[^c-53774fb45f1fa8b6365dcc3af59d6c9b]: Commencement: Sch. 2 Pt. 2 in force at 1.1.2007, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2006/3428/article/1/3)
 
-[^key-57cea9f54dc53b59e0c5b6b6f9232252]: Commencement: [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2006/3428/schedule/3/part/1) in force at 20.1.2007, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2006/3428/article/1/4)
+[^c-57cea9f54dc53b59e0c5b6b6f9232252]: Commencement: [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2006/3428/schedule/3/part/1) in force at 20.1.2007, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2006/3428/article/1/4)
 
-[^key-290e269a323a4603d6be5cb339094762]: Commencement: [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2006/3428/schedule/3/part/2) in force at 20.1.2007, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2006/3428/article/1/4)
+[^c-290e269a323a4603d6be5cb339094762]: Commencement: [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2006/3428/schedule/3/part/2) in force at 20.1.2007, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2006/3428/article/1/4)
 
-[^key-0e81823d2bdd97ac65c350c3ae6c37e5]: Commencement: [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2006/3428/schedule/4/part/1) in force at 6.4.2007, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2006/3428/article/1/5)
+[^c-0e81823d2bdd97ac65c350c3ae6c37e5]: Commencement: [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2006/3428/schedule/4/part/1) in force at 6.4.2007, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2006/3428/article/1/5)
 
-[^key-c3547ba28dc56490d0237a9f587fc0f1]: Commencement: [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2006/3428/schedule/4/part/2) in force at 6.4.2007, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2006/3428/article/1/5)
+[^c-c3547ba28dc56490d0237a9f587fc0f1]: Commencement: [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2006/3428/schedule/4/part/2) in force at 6.4.2007, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2006/3428/article/1/5)
 
-[^key-2e9595fdfb2d36783d40e512ab03e2c1]: Commencement: Sch. 5 para. 1 in force at 1.1.2007, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2006/3428/article/1/3)
+[^c-2e9595fdfb2d36783d40e512ab03e2c1]: Commencement: Sch. 5 para. 1 in force at 1.1.2007, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2006/3428/article/1/3)
 
 [^f00006]: Footnote: [S.I. 1994/117](https://www.legislation.gov.uk/uksi/1994/117).
 
 [^f00007]: Footnote: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-56b3fa5bdc1d3c2c7b18dd53b98690a6]: Commencement: Sch. 5 para. 2 in force at 20.1.2007, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2006/3428/article/1/4)
+[^c-56b3fa5bdc1d3c2c7b18dd53b98690a6]: Commencement: Sch. 5 para. 2 in force at 20.1.2007, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2006/3428/article/1/4)
 
-[^key-c9b4f4555b189be40697b323f3d08f57]: Textual amendment: Words in Sch. 5 para. 2(4) substituted (14.1.2008) by [The Companies Act 2006 (Commencement No. 5, Transitional Provisions and Savings) Order 2007 (S.I. 2007/3495)](https://www.legislation.gov.uk/uksi/2007/3495), [art. 2(6)(b)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/6/b), [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/2007/3495/schedule/5/paragraph/1) (with [art. 12](https://www.legislation.gov.uk/uksi/2007/3495/article/12))
+[^c-c9b4f4555b189be40697b323f3d08f57]: Textual amendment: Words in Sch. 5 para. 2(4) substituted (14.1.2008) by [The Companies Act 2006 (Commencement No. 5, Transitional Provisions and Savings) Order 2007 (S.I. 2007/3495)](https://www.legislation.gov.uk/uksi/2007/3495), [art. 2(6)(b)](https://www.legislation.gov.uk/uksi/2007/3495/article/2/6/b), [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/2007/3495/schedule/5/paragraph/1) (with [art. 12](https://www.legislation.gov.uk/uksi/2007/3495/article/12))
 
-[^key-458f851fa5d2bc9bddce6b6e877fbbdf]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/uksi/2006/3428/schedule/5/paragraph/3) in force at 20.1.2007, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2006/3428/article/1/4)
+[^c-458f851fa5d2bc9bddce6b6e877fbbdf]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/uksi/2006/3428/schedule/5/paragraph/3) in force at 20.1.2007, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2006/3428/article/1/4)
 
-[^key-b0e477963a629aae12bc337e873c35bb]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/uksi/2006/3428/schedule/5/paragraph/4) in force at 20.1.2007, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2006/3428/article/1/4)
+[^c-b0e477963a629aae12bc337e873c35bb]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/uksi/2006/3428/schedule/5/paragraph/4) in force at 20.1.2007, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2006/3428/article/1/4)
 
-[^key-eccadda0887153bafda3c9ff337e1ae5]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/uksi/2006/3428/schedule/5/paragraph/5) in force at 20.1.2007, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2006/3428/article/1/4)
+[^c-eccadda0887153bafda3c9ff337e1ae5]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/uksi/2006/3428/schedule/5/paragraph/5) in force at 20.1.2007, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2006/3428/article/1/4)
 
-[^key-f1ebfdb0666baac98df9d2d249d44260]: Commencement: Sch. 5 para. 6 in force at 6.4.2007, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2006/3428/article/1/5)
+[^c-f1ebfdb0666baac98df9d2d249d44260]: Commencement: Sch. 5 para. 6 in force at 6.4.2007, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2006/3428/article/1/5)
 
-[^key-474b37a75997fa94ffbc96f626ab186a]: Textual amendment: Sch. 5 para. 6(2) revoked (1.10.2009) by [The Registrar of Companies (Fees) (Limited Partnerships and Newspaper Proprietors) Regulations 2009 (S.I. 2009/2392)](https://www.legislation.gov.uk/uksi/2009/2392), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2392/regulation/1), [7](https://www.legislation.gov.uk/uksi/2009/2392/regulation/7) (with [reg. 6](https://www.legislation.gov.uk/uksi/2009/2392/regulation/6))
+[^c-474b37a75997fa94ffbc96f626ab186a]: Textual amendment: Sch. 5 para. 6(2) revoked (1.10.2009) by [The Registrar of Companies (Fees) (Limited Partnerships and Newspaper Proprietors) Regulations 2009 (S.I. 2009/2392)](https://www.legislation.gov.uk/uksi/2009/2392), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2392/regulation/1), [7](https://www.legislation.gov.uk/uksi/2009/2392/regulation/7) (with [reg. 6](https://www.legislation.gov.uk/uksi/2009/2392/regulation/6))
 
-[^key-243903d849a828e0c34b0ac5691f94cb]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/2006/3428/schedule/5/paragraph/7) in force at 6.4.2007, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2006/3428/article/1/5)
+[^c-243903d849a828e0c34b0ac5691f94cb]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/2006/3428/schedule/5/paragraph/7) in force at 6.4.2007, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2006/3428/article/1/5)
 
-[^key-42ac3da632cb8d7e96eac196c92fd1b0]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/uksi/2006/3428/schedule/5/paragraph/8) in force at 6.4.2007, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2006/3428/article/1/5)
+[^c-42ac3da632cb8d7e96eac196c92fd1b0]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/uksi/2006/3428/schedule/5/paragraph/8) in force at 6.4.2007, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2006/3428/article/1/5)

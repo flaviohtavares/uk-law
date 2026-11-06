@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 62. Application of landlord and tenant law[^key-a85428d4ec3e8e0254662de564ec20e4]
+## 62. Application of landlord and tenant law[^c-a85428d4ec3e8e0254662de564ec20e4]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a85428d4ec3e8e0254662de564ec20e4]: Commencement: Art. 62 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-a85428d4ec3e8e0254662de564ec20e4]: Commencement: Art. 62 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)

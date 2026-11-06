@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 2 — National Underground Asset Register (Northern Ireland): monetary penalties[^key-59cdd052f89a169b278598ce6c59aeda]
+## Schedule 2 — National Underground Asset Register (Northern Ireland): monetary penalties[^c-59cdd052f89a169b278598ce6c59aeda]
 
 *Extent: N.I.*
 
 Section 58
 
-[^key-59cdd052f89a169b278598ce6c59aeda]
+[^c-59cdd052f89a169b278598ce6c59aeda]
 
 In the Street Works (Northern Ireland) Order 1995 ([S.I. 1995/3210 (N.I. 19))](https://www.legislation.gov.uk/nisi/1995/3210), after Schedule 2 insert—
 
@@ -130,4 +130,4 @@ In the Street Works (Northern Ireland) Order 1995 ([S.I. 1995/3210 (N.I. 19))](h
 
 ## Annotations
 
-[^key-59cdd052f89a169b278598ce6c59aeda]: Commencement: Sch. 2 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
+[^c-59cdd052f89a169b278598ce6c59aeda]: Commencement: Sch. 2 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)

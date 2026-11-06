@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 86. Energy administrator deceased[^key-6912bbe53184be8719143dee86d524e7]
+## 86. Energy administrator deceased[^c-6912bbe53184be8719143dee86d524e7]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6912bbe53184be8719143dee86d524e7]: Commencement: Rule 86 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-6912bbe53184be8719143dee86d524e7]: Commencement: Rule 86 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

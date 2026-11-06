@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 130. Review[^key-ddf0e7d8b037560252177e0f367ed463][^key-09b973651d88b5eb61e12524a322ae69]
+## 130. Review[^c-ddf0e7d8b037560252177e0f367ed463][^c-09b973651d88b5eb61e12524a322ae69]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ddf0e7d8b037560252177e0f367ed463]: Commencement: S. 130 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-ddf0e7d8b037560252177e0f367ed463]: Commencement: S. 130 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-09b973651d88b5eb61e12524a322ae69]: Commencement: [S. 130](https://www.legislation.gov.uk/ukpga/2022/31/section/130) in force at 1.10.2023 by [S.I. 2023/1035](https://www.legislation.gov.uk/uksi/2023/1035), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1035/regulation/2/a)
+[^c-09b973651d88b5eb61e12524a322ae69]: Commencement: [S. 130](https://www.legislation.gov.uk/ukpga/2022/31/section/130) in force at 1.10.2023 by [S.I. 2023/1035](https://www.legislation.gov.uk/uksi/2023/1035), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1035/regulation/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Trade enforcement: application of CEMA[^key-207544b1733f563b043e724d203f8d83]
+## 71. Trade enforcement: application of CEMA[^c-207544b1733f563b043e724d203f8d83]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,7 +39,7 @@ the matter is to be treated as an assigned matter.
 - (f) regulation 62(6) (general trade licences: records), or
 - (g) regulation 63(5) (general trade licences: inspection of records).
 
-(3A)[^key-ac3fc8a2ca5801621de805f7499a52ca] The Commissioners may not investigate the suspected commission of a relevant offence listed in paragraphs (3B), (3C) or (3D), unless the suspected offence has been the subject of—
+(3A)[^c-ac3fc8a2ca5801621de805f7499a52ca] The Commissioners may not investigate the suspected commission of a relevant offence listed in paragraphs (3B), (3C) or (3D), unless the suspected offence has been the subject of—
 
 - (a) a referral to the Commissioners by the Secretary of State, or
 - (b) a decision by the Commissioners to treat the suspected offence as if it had been referred to them under sub-paragraph (a).
@@ -78,15 +78,15 @@ the matter is to be treated as an assigned matter.
 
 (6) The provisions of CEMA are sections 145, 146, 147, 148(1), 150, 151, 152, 154 and 155 [^c24412021] (legal proceedings).
 
-(7)[^key-1ffc01526543aa3d7f8f31361aa2da13] Any term in this regulation that is defined in Chapter 3 of Part 5 (Trade) bears the same meaning as in that Chapter of that Part.
+(7)[^c-1ffc01526543aa3d7f8f31361aa2da13] Any term in this regulation that is defined in Chapter 3 of Part 5 (Trade) bears the same meaning as in that Chapter of that Part.
 
 ## Annotations
 
-[^key-207544b1733f563b043e724d203f8d83]: Commencement: Reg. 71 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)
+[^c-207544b1733f563b043e724d203f8d83]: Commencement: Reg. 71 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)
 
 [^c24411991]: Marginal citation: The definition of “assigned matter” in section 1(1) of CEMA was amended by the [Commissioners for Revenue and Customs Act 2005 (c.11)](https://www.legislation.gov.uk/ukpga/2005/11), [Schedule 4](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4), [paragraph 22(a)](https://www.legislation.gov.uk/ukpga/2005/11/paragraph/22/a); the [Scotland Act 2012 (c.11)](https://www.legislation.gov.uk/ukpga/2012/11), [section 24(7)](https://www.legislation.gov.uk/ukpga/2012/11/section/24/7); and the [Wales Act 2014 (c.29)](https://www.legislation.gov.uk/ukpga/2014/29), [section 7(1)](https://www.legislation.gov.uk/ukpga/2014/29/section/7/1).
 
-[^key-ac3fc8a2ca5801621de805f7499a52ca]: Textual amendment: [Reg. 71(3A)-(3D)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/71/3A) inserted (5.6.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/644)](https://www.legislation.gov.uk/uksi/2024/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/1/2), [17(10)(a)](https://www.legislation.gov.uk/uksi/2024/644/regulation/17/10/a)
+[^c-ac3fc8a2ca5801621de805f7499a52ca]: Textual amendment: [Reg. 71(3A)-(3D)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/71/3A) inserted (5.6.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/644)](https://www.legislation.gov.uk/uksi/2024/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/1/2), [17(10)(a)](https://www.legislation.gov.uk/uksi/2024/644/regulation/17/10/a)
 
 [^c24412001]: Marginal citation: Section 138 of CEMA was amended by the [Police and Criminal Evidence Act 1984 (c.60)](https://www.legislation.gov.uk/ukpga/1984/60), [section 114(1)](https://www.legislation.gov.uk/ukpga/1984/60/section/114/1), [Schedule 6](https://www.legislation.gov.uk/ukpga/1984/60/schedule/6), [paragraph 37](https://www.legislation.gov.uk/ukpga/1984/60/paragraph/37), and Schedule 7, Part 1; the [Finance Act 1988 (c.39)](https://www.legislation.gov.uk/ukpga/1988/39), [section 11](https://www.legislation.gov.uk/ukpga/1988/39/section/11); the [Serious Organised Crime and Police Act 2005 (c.15)](https://www.legislation.gov.uk/ukpga/2005/15), [Schedule 7](https://www.legislation.gov.uk/ukpga/2005/15/schedule/7), [paragraph 54](https://www.legislation.gov.uk/ukpga/2005/15/paragraph/54); [S.I. 1989/1341 (N.I. 12)](https://www.legislation.gov.uk/nisi/1989/1341); and [S.I. 2007/288](https://www.legislation.gov.uk/uksi/2007/288).
 
@@ -94,4 +94,4 @@ the matter is to be treated as an assigned matter.
 
 [^c24412021]: Marginal citation: Section 145 of CEMA was amended by the Police and Criminal Evidence Act 1984, section 114(1); the [Commissioners for Revenue and Customs Act 2005 (c.11)](https://www.legislation.gov.uk/ukpga/2005/11), [Schedule 4](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4), [paragraph 23(a)](https://www.legislation.gov.uk/ukpga/2005/11/paragraph/23/a); and [S.I. 2014/834](https://www.legislation.gov.uk/uksi/2014/834). Section 147 was amended by the [Magistrates Courts Act 1980 (c.43)](https://www.legislation.gov.uk/ukpga/1980/43), [section 154](https://www.legislation.gov.uk/ukpga/1980/43/section/154) and Schedule 7, paragraph 176; the [Criminal Justice Act 1982 (c.48)](https://www.legislation.gov.uk/ukpga/1982/48), [section 77](https://www.legislation.gov.uk/ukpga/1982/48/section/77), [Schedule 14](https://www.legislation.gov.uk/ukpga/1982/48/schedule/14), [paragraph 42](https://www.legislation.gov.uk/ukpga/1982/48/paragraph/42); the [Finance Act 1989 (c.26)](https://www.legislation.gov.uk/ukpga/1989/26), [section 16(2)](https://www.legislation.gov.uk/ukpga/1989/26/section/16/2); and the [Criminal Justice Act 2003 (c.44)](https://www.legislation.gov.uk/ukpga/2003/44), [section 41](https://www.legislation.gov.uk/ukpga/2003/44/section/41), [Schedule 3](https://www.legislation.gov.uk/ukpga/2003/44/schedule/3), [paragraph 50](https://www.legislation.gov.uk/ukpga/2003/44/paragraph/50). Section 152 was amended by the Commissioners for Revenue and Customs Act 2005, section 50, Schedule 4, paragraph 26, and section 52, Schedule 5. Section 155 was amended by the Commissioners for Revenue and Customs Act 2005, section 50, Schedule 4, paragraph 27, and section 52, Schedule 5.
 
-[^key-1ffc01526543aa3d7f8f31361aa2da13]: Textual amendment: [Reg. 71(7)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/71/7) inserted (5.6.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/644)](https://www.legislation.gov.uk/uksi/2024/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/1/2), [17(10)(b)](https://www.legislation.gov.uk/uksi/2024/644/regulation/17/10/b)
+[^c-1ffc01526543aa3d7f8f31361aa2da13]: Textual amendment: [Reg. 71(7)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/71/7) inserted (5.6.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/644)](https://www.legislation.gov.uk/uksi/2024/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/1/2), [17(10)(b)](https://www.legislation.gov.uk/uksi/2024/644/regulation/17/10/b)

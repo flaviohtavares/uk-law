@@ -62,7 +62,7 @@ The Child Support Appeals (Jurisdiction of Courts) Order 1993 [^c960957], to the
 
 ## 3. Parentage appeals to be made to courts[^c2199993]
 
-An appeal under section 20 [^c960958] of the Act shall be made to a court instead of to the First-tier Tribunal[^key-fa3fb918fb9b9030db6682fafa3e5c9f] in the circumstances mentioned in article 4.
+An appeal under section 20 [^c960958] of the Act shall be made to a court instead of to the First-tier Tribunal[^c-fa3fb918fb9b9030db6682fafa3e5c9f] in the circumstances mentioned in article 4.
 
 ## 4.[^c2199994]
 
@@ -72,7 +72,7 @@ The circumstances are that—
 - (b) the determination made by the Secretary of State in making the decision to be appealed against included a determination that a particular person (whether the applicant or some other person) either was, or was not, a parent of the qualifying child in question (“a parentage determination”); and
 - (c) the ground of the appeal will be that the decision to be appealed against should not have included that parentage determination.
 
-## 5.[^c2199995][^key-73a58ec2585c812727398fdc141882c9]
+## 5.[^c2199995][^c-73a58ec2585c812727398fdc141882c9]
 
 Regulation 32 of Regulations and Rule 23 of the Tribunal Procedure (First-tier Tribunal) (Social Entitlement Chamber) Rules 2008 apply to appeals brought under this Order as if the word “Tribunal” is read as “court”.
 
@@ -104,10 +104,10 @@ The amendments are consequential on the replacement, by virtue of section 10 of 
 
 [^c960958]: Marginal citation: [1991 c. 48](https://www.legislation.gov.uk/ukpga/1991/48). Section 20 was substituted by section 10 of the [Child Support, Pensions and Social Security Act 2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19).
 
-[^key-fa3fb918fb9b9030db6682fafa3e5c9f]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2002/1915/article/3) substituted (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 180](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/180)
+[^c-fa3fb918fb9b9030db6682fafa3e5c9f]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2002/1915/article/3) substituted (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 180](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/180)
 
 [^c2199994]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2002/1915/article/4) wholly in force at 21.7.2002 subject to art. 1(3), see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/1915/article/1/2)
 
 [^c2199995]: Commencement: Art. 5 wholly in force at 21.7.2002 subject to art. 1(3), see art. 1(2)
 
-[^key-73a58ec2585c812727398fdc141882c9]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/uksi/2002/1915/article/5) substituted (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 181](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/181)
+[^c-73a58ec2585c812727398fdc141882c9]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/uksi/2002/1915/article/5) substituted (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 181](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/181)

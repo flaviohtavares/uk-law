@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE A1 — Topics on which questions may be asked in the test of knowledge[^key-69be0eee16d6e699e07ad6b397551691]
+## SCHEDULE A1 — Topics on which questions may be asked in the test of knowledge[^c-69be0eee16d6e699e07ad6b397551691]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ Regulation 2(1)
 
 ## Annotations
 
-[^key-69be0eee16d6e699e07ad6b397551691]: Textual amendment: [Sch. A1](https://www.legislation.gov.uk/ssi/2010/208/schedule/A1) inserted (26.10.2017) by [The National Health Service (General Dental Services) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/289)](https://www.legislation.gov.uk/ssi/2017/289), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/289/regulation/1/2), [10](https://www.legislation.gov.uk/ssi/2017/289/regulation/10) (with [reg. 14](https://www.legislation.gov.uk/ssi/2017/289/regulation/14))
+[^c-69be0eee16d6e699e07ad6b397551691]: Textual amendment: [Sch. A1](https://www.legislation.gov.uk/ssi/2010/208/schedule/A1) inserted (26.10.2017) by [The National Health Service (General Dental Services) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/289)](https://www.legislation.gov.uk/ssi/2017/289), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/289/regulation/1/2), [10](https://www.legislation.gov.uk/ssi/2017/289/regulation/10) (with [reg. 14](https://www.legislation.gov.uk/ssi/2017/289/regulation/14))

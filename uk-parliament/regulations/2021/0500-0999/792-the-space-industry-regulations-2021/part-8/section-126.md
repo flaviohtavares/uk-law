@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 126. Failure of a pilot in command or remote pilot to carry out obligations before the flight[^key-5976bf08359dbf9dbc67791a46ffa088]
+## 126. Failure of a pilot in command or remote pilot to carry out obligations before the flight[^c-5976bf08359dbf9dbc67791a46ffa088]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A pilot in command, or a remote pilot, who fails to comply with the obligations 
 
 ## Annotations
 
-[^key-5976bf08359dbf9dbc67791a46ffa088]: Commencement: Reg. 126 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-5976bf08359dbf9dbc67791a46ffa088]: Commencement: Reg. 126 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

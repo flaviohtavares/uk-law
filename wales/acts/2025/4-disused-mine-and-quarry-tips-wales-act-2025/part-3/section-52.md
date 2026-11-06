@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 52. Right of contributory to appeal against owner’s demand[^key-aff3e35439f77fe7109b8b69bb80a829]
+## 52. Right of contributory to appeal against owner’s demand[^c-aff3e35439f77fe7109b8b69bb80a829]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aff3e35439f77fe7109b8b69bb80a829]: Commencement: S. 52 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)
+[^c-aff3e35439f77fe7109b8b69bb80a829]: Commencement: S. 52 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)

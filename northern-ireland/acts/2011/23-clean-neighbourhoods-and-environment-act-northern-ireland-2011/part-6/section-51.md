@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 51. Nomination of key-holders[^key-4ba9080579957e42ffb54ac6faa62fe6]
+## 51. Nomination of key-holders[^c-4ba9080579957e42ffb54ac6faa62fe6]
 
 *Extent: N.I.*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4ba9080579957e42ffb54ac6faa62fe6]: Commencement: [S. 51](https://www.legislation.gov.uk/nia/2011/23/section/51) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-4ba9080579957e42ffb54ac6faa62fe6]: Commencement: [S. 51](https://www.legislation.gov.uk/nia/2011/23/section/51) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)

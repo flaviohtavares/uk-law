@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Compulsory acquisition of rights and imposition of restrictive covenants[^key-17346a7bff8c7913e8f2b376eb750510]
+## 27. Compulsory acquisition of rights and imposition of restrictive covenants[^c-17346a7bff8c7913e8f2b376eb750510]
 
 *Extent: E+W*
 
@@ -37,7 +37,7 @@ summary: ''
 
 ## Annotations
 
-[^key-17346a7bff8c7913e8f2b376eb750510]: Commencement: Art. 27 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)
+[^c-17346a7bff8c7913e8f2b376eb750510]: Commencement: Art. 27 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)
 
 [^f00065]: Footnote: Section 8 was amended by paragraphs 1 and 2 of Schedule 17 to the Housing and Planning Act [2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22) and [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).
 

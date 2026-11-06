@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Payment of lump sum death benefit[^key-8f3375fa1b9f19318561d4f715d07ccf]
+## 93. Payment of lump sum death benefit[^c-8f3375fa1b9f19318561d4f715d07ccf]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8f3375fa1b9f19318561d4f715d07ccf]: Commencement: Reg. 93 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-8f3375fa1b9f19318561d4f715d07ccf]: Commencement: Reg. 93 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

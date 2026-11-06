@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63S. Administering a benchmark[^key-4cc94feaae2606bd973245c6a02f914a]
+## 63S. Administering a benchmark[^c-4cc94feaae2606bd973245c6a02f914a]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4cc94feaae2606bd973245c6a02f914a]: Textual amendment: Arts. 63S, 63T inserted (27.2.2018) by [The Financial Services and Markets Act 2000 (Benchmarks) Regulations 2018 (S.I. 2018/135)](https://www.legislation.gov.uk/uksi/2018/135), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/135/regulation/1/2), [51](https://www.legislation.gov.uk/uksi/2018/135/regulation/51) (with [Pt. 7](https://www.legislation.gov.uk/uksi/2018/135/part/7))
+[^c-4cc94feaae2606bd973245c6a02f914a]: Textual amendment: Arts. 63S, 63T inserted (27.2.2018) by [The Financial Services and Markets Act 2000 (Benchmarks) Regulations 2018 (S.I. 2018/135)](https://www.legislation.gov.uk/uksi/2018/135), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/135/regulation/1/2), [51](https://www.legislation.gov.uk/uksi/2018/135/regulation/51) (with [Pt. 7](https://www.legislation.gov.uk/uksi/2018/135/part/7))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 51. Guidance to monitoring body[^key-0dd483104799f6524304673ce91fff06]
+## 51. Guidance to monitoring body[^c-0dd483104799f6524304673ce91fff06]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ as the Scottish Ministers consider appropriate.
 
 ## Annotations
 
-[^key-0dd483104799f6524304673ce91fff06]: Commencement: S. 51 in force at 1.1.2011 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(4)](https://www.legislation.gov.uk/ssi/2009/341/article/2/4)
+[^c-0dd483104799f6524304673ce91fff06]: Commencement: S. 51 in force at 1.1.2011 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(4)](https://www.legislation.gov.uk/ssi/2009/341/article/2/4)

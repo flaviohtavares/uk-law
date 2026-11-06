@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-e40f3112a69aa3819dbad50fc49b01dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-e40f3112a69aa3819dbad50fc49b01dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Schedule 2 to this Act shall have effect as respects the application of the enactments mentioned in that Schedule (which relate to statutory undertakers, statutory undertakings and related matters).
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e40f3112a69aa3819dbad50fc49b01dc]: Textual amendment: S. 19(1) repealed (1.7.2011) by [Bribery Act 2010 (c. 23)](https://www.legislation.gov.uk/ukpga/2010/23), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2010/23/section/19/1), [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/23/schedule/2) (with [ss. 16](https://www.legislation.gov.uk/ukpga/2010/23/section/16), [19(5)](https://www.legislation.gov.uk/ukpga/2010/23/section/19/5)); [S.I. 2011/1418](https://www.legislation.gov.uk/uksi/2011/1418), [art. 2](https://www.legislation.gov.uk/uksi/2011/1418/article/2)
+[^c-e40f3112a69aa3819dbad50fc49b01dc]: Textual amendment: S. 19(1) repealed (1.7.2011) by [Bribery Act 2010 (c. 23)](https://www.legislation.gov.uk/ukpga/2010/23), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2010/23/section/19/1), [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/23/schedule/2) (with [ss. 16](https://www.legislation.gov.uk/ukpga/2010/23/section/16), [19(5)](https://www.legislation.gov.uk/ukpga/2010/23/section/19/5)); [S.I. 2011/1418](https://www.legislation.gov.uk/uksi/2011/1418), [art. 2](https://www.legislation.gov.uk/uksi/2011/1418/article/2)

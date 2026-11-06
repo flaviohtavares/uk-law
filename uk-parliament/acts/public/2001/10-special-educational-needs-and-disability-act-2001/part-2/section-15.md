@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Accessibility strategies and plans: procedure[^key-c209344ee2a7450bc7e7f3e574c3e48f]
+## 15. Accessibility strategies and plans: procedure[^c-c209344ee2a7450bc7e7f3e574c3e48f]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c209344ee2a7450bc7e7f3e574c3e48f]: Textual amendment: [Ss. 11-33](https://www.legislation.gov.uk/ukpga/2001/10/section/11) repealed (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2) (see S.I. 2010/2317, art. 2)
+[^c-c209344ee2a7450bc7e7f3e574c3e48f]: Textual amendment: [Ss. 11-33](https://www.legislation.gov.uk/ukpga/2001/10/section/11) repealed (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2) (see S.I. 2010/2317, art. 2)

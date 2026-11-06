@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Blank template for profit and loss account[^key-37e93b05d3ff75745ed9539196282c7f]
+## 48. Blank template for profit and loss account[^c-37e93b05d3ff75745ed9539196282c7f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where the tied pub tenant so requests, the pub-owning business must provide to t
 
 ## Annotations
 
-[^key-37e93b05d3ff75745ed9539196282c7f]: Commencement: Reg. 48 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)
+[^c-37e93b05d3ff75745ed9539196282c7f]: Commencement: Reg. 48 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)

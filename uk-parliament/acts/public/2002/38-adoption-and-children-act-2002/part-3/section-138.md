@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 138. Proceedings in Great Britain[^key-671538a535738087099a5d0191d80d03]
+## 138. Proceedings in Great Britain[^c-671538a535738087099a5d0191d80d03]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ Proceedings for an offence by virtue of section 9, 59, 93, 94, 95 or 129—
 
 ## Annotations
 
-[^key-671538a535738087099a5d0191d80d03]: Commencement: S. 138 in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(n)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/n) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
+[^c-671538a535738087099a5d0191d80d03]: Commencement: S. 138 in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(n)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/n) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)

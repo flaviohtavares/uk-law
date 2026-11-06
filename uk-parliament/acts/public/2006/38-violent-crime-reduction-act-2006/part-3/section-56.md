@@ -25,7 +25,7 @@ summary: ''
 - (a) section 17 (which relates to the making of sexual offences prevention orders in Scotland); and
 - (b) section 18 and the Schedule, so far as they provide for the amendment of the Sexual Offences Act 2003 (c. 42) (see paragraph 3 of the Schedule, which relates to the offences in respect of which powers are exercisable under Part 2 of the 2003 Act).
 
-(2)[^key-6706b39c7eadcc07f3d372bb51b7b3de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-6706b39c7eadcc07f3d372bb51b7b3de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In section 129 of that Act, in subsection (1)(a) (effect of conviction under section 128), for “under section 128” substitute “ mentioned in subsection (1A) ”; and after subsection (1) insert—
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6706b39c7eadcc07f3d372bb51b7b3de]: Textual amendment: [S. 56(2)](https://www.legislation.gov.uk/ukpga/2006/38/section/56/2) repealed (8.3.2015 for E.W.) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 11 para. 80](https://www.legislation.gov.uk/ukpga/2014/12/schedule/11/paragraph/80) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 3(b)](https://www.legislation.gov.uk/uksi/2015/373/article/3/b)
+[^c-6706b39c7eadcc07f3d372bb51b7b3de]: Textual amendment: [S. 56(2)](https://www.legislation.gov.uk/ukpga/2006/38/section/56/2) repealed (8.3.2015 for E.W.) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 11 para. 80](https://www.legislation.gov.uk/ukpga/2014/12/schedule/11/paragraph/80) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 3(b)](https://www.legislation.gov.uk/uksi/2015/373/article/3/b)

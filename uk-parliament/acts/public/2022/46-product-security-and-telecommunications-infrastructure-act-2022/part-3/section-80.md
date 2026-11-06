@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Short title[^key-ff7e216cb3e10db45806b5353cd3538d]
+## 80. Short title[^c-ff7e216cb3e10db45806b5353cd3538d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ This Act may be cited as the Product Security and Telecommunications Infrastruct
 
 ## Annotations
 
-[^key-ff7e216cb3e10db45806b5353cd3538d]: Commencement: S. 80 in force at Royal Assent, see [s. 79(1)(b)](https://www.legislation.gov.uk/ukpga/2022/46/section/79/1/b)
+[^c-ff7e216cb3e10db45806b5353cd3538d]: Commencement: S. 80 in force at Royal Assent, see [s. 79(1)(b)](https://www.legislation.gov.uk/ukpga/2022/46/section/79/1/b)

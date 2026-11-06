@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5.16. Application for transmission of order to Hague Convention Country[^key-c14ab7e3db6d1d8a17ac7504c2cf7f96]
+## 5.16. Application for transmission of order to Hague Convention Country[^c-c14ab7e3db6d1d8a17ac7504c2cf7f96]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c14ab7e3db6d1d8a17ac7504c2cf7f96]: Commencement: Rule 5.16 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
+[^c-c14ab7e3db6d1d8a17ac7504c2cf7f96]: Commencement: Rule 5.16 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)

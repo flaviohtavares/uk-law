@@ -22,9 +22,9 @@ summary: ''
 
 Regulation 16
 
-**1.**[^key-00bec576933972fdec779c8d9e3fb323] The Recreational Craft Regulations 2017 are amended in accordance with paragraphs 2 to 7.
+**1.**[^c-00bec576933972fdec779c8d9e3fb323] The Recreational Craft Regulations 2017 are amended in accordance with paragraphs 2 to 7.
 
-### 2. Amendment to Part 1[^key-1a432364a39bc51a45c2ff9c2d4491e5]
+### 2. Amendment to Part 1[^c-1a432364a39bc51a45c2ff9c2d4491e5]
 
 (1) In regulation 2(1)—
 
@@ -64,7 +64,7 @@ Regulation 16
 
 (3) In regulation 2(5)(b) for “member State” substitute “ relevant state ”.
 
-### 3. Amendment to Part 2[^key-66619df01e62c18d6b6cf5a83a1c147f]
+### 3. Amendment to Part 2[^c-66619df01e62c18d6b6cf5a83a1c147f]
 
 (1) In regulation 7 for “the United Kingdom” substitute “ Northern Ireland ” (three times).
 
@@ -93,7 +93,7 @@ Regulation 16
 
 (9) In regulation 39(1) for “the EU” substitute “ a relevant state ”.
 
-### 4. Amendment to Part 4[^key-dd74cd76cfa1fd9cff5f5da4478fcf75]
+### 4. Amendment to Part 4[^c-dd74cd76cfa1fd9cff5f5da4478fcf75]
 
 (1) In regulation 55—
 
@@ -114,7 +114,7 @@ Regulation 16
 
 (3) In regulation 61(4) for “Member States” substitute “ relevant states ”.
 
-### 5. Amendment to Part 5[^key-02ee1f86b53afbd7626e663bf4552a0d]
+### 5. Amendment to Part 5[^c-02ee1f86b53afbd7626e663bf4552a0d]
 
 (1) In regulation 69—
 
@@ -153,11 +153,11 @@ Regulation 16
   - (ii) for “the United Kingdom” substitute “ in Northern Ireland ”;
 - (e) at the end of paragraphs (6) and (7) insert “ in respect of Northern Ireland ”.
 
-### 6. Amendment to Part 6[^key-4a80f9aa148eddecf31c3e3b4a81af8b]
+### 6. Amendment to Part 6[^c-4a80f9aa148eddecf31c3e3b4a81af8b]
 
 In regulation 88(4) for “member States” substitute “ relevant states ”.
 
-### 7. Amendment to Schedules[^key-571fa7c054caf6725b162198bf1e2fbc]
+### 7. Amendment to Schedules[^c-571fa7c054caf6725b162198bf1e2fbc]
 
 In the following provisions for “Member State” substitute “ relevant state ”
 
@@ -168,16 +168,16 @@ In the following provisions for “Member State” substitute “ relevant state
 
 ## Annotations
 
-[^key-00bec576933972fdec779c8d9e3fb323]: Commencement: [Sch. 15 para. 1](https://www.legislation.gov.uk/uksi/2020/1112/schedule/15/paragraph/1) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
+[^c-00bec576933972fdec779c8d9e3fb323]: Commencement: [Sch. 15 para. 1](https://www.legislation.gov.uk/uksi/2020/1112/schedule/15/paragraph/1) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
 
-[^key-1a432364a39bc51a45c2ff9c2d4491e5]: Commencement: [Sch. 15 para. 2](https://www.legislation.gov.uk/uksi/2020/1112/schedule/15/paragraph/2) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
+[^c-1a432364a39bc51a45c2ff9c2d4491e5]: Commencement: [Sch. 15 para. 2](https://www.legislation.gov.uk/uksi/2020/1112/schedule/15/paragraph/2) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
 
-[^key-66619df01e62c18d6b6cf5a83a1c147f]: Commencement: [Sch. 15 para. 3](https://www.legislation.gov.uk/uksi/2020/1112/schedule/15/paragraph/3) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
+[^c-66619df01e62c18d6b6cf5a83a1c147f]: Commencement: [Sch. 15 para. 3](https://www.legislation.gov.uk/uksi/2020/1112/schedule/15/paragraph/3) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
 
-[^key-dd74cd76cfa1fd9cff5f5da4478fcf75]: Commencement: [Sch. 15 para. 4](https://www.legislation.gov.uk/uksi/2020/1112/schedule/15/paragraph/4) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
+[^c-dd74cd76cfa1fd9cff5f5da4478fcf75]: Commencement: [Sch. 15 para. 4](https://www.legislation.gov.uk/uksi/2020/1112/schedule/15/paragraph/4) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
 
-[^key-02ee1f86b53afbd7626e663bf4552a0d]: Commencement: [Sch. 15 para. 5](https://www.legislation.gov.uk/uksi/2020/1112/schedule/15/paragraph/5) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
+[^c-02ee1f86b53afbd7626e663bf4552a0d]: Commencement: [Sch. 15 para. 5](https://www.legislation.gov.uk/uksi/2020/1112/schedule/15/paragraph/5) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
 
-[^key-4a80f9aa148eddecf31c3e3b4a81af8b]: Commencement: [Sch. 15 para. 6](https://www.legislation.gov.uk/uksi/2020/1112/schedule/15/paragraph/6) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
+[^c-4a80f9aa148eddecf31c3e3b4a81af8b]: Commencement: [Sch. 15 para. 6](https://www.legislation.gov.uk/uksi/2020/1112/schedule/15/paragraph/6) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
 
-[^key-571fa7c054caf6725b162198bf1e2fbc]: Commencement: [Sch. 15 para. 7](https://www.legislation.gov.uk/uksi/2020/1112/schedule/15/paragraph/7) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
+[^c-571fa7c054caf6725b162198bf1e2fbc]: Commencement: [Sch. 15 para. 7](https://www.legislation.gov.uk/uksi/2020/1112/schedule/15/paragraph/7) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)

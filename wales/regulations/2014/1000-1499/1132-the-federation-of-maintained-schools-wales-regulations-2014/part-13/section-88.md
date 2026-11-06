@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 88. Establishment of temporary governing body[^key-62169583ea609c3736b256d4d213695c]
+## 88. Establishment of temporary governing body[^c-62169583ea609c3736b256d4d213695c]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-62169583ea609c3736b256d4d213695c]: Commencement: Reg. 88 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-62169583ea609c3736b256d4d213695c]: Commencement: Reg. 88 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)

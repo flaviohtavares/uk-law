@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Determination of the individual schools budget for the funding period and limit on increase in central expenditure[^key-69833465bceaf28e1e7a0578ca3a3ea1]
+## 7. Determination of the individual schools budget for the funding period and limit on increase in central expenditure[^c-69833465bceaf28e1e7a0578ca3a3ea1]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ unless they obtain authorisation to exceed these limits from their schools forum
 
 ## Annotations
 
-[^key-69833465bceaf28e1e7a0578ca3a3ea1]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2011/371/regulation/7) in force at 15.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/371/regulation/1/1)
+[^c-69833465bceaf28e1e7a0578ca3a3ea1]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2011/371/regulation/7) in force at 15.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/371/regulation/1/1)

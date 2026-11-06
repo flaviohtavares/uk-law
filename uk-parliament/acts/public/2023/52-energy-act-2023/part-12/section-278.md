@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 278. Disclosure of information by HMRC[^key-3bd68dda50b42cf39b5adf94f2453e55][^key-20f621a88458265bfaa5b1f3ed243c71]
+## 278. Disclosure of information by HMRC[^c-3bd68dda50b42cf39b5adf94f2453e55][^c-20f621a88458265bfaa5b1f3ed243c71]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,6 +47,6 @@ In determining whether a disclosure would fall within paragraph (a) or (b), the 
 
 ## Annotations
 
-[^key-3bd68dda50b42cf39b5adf94f2453e55]: Commencement: S. 278 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-3bd68dda50b42cf39b5adf94f2453e55]: Commencement: S. 278 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-20f621a88458265bfaa5b1f3ed243c71]: Commencement: [S. 278](https://www.legislation.gov.uk/ukpga/2023/52/section/278) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(c)(iv)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/c/iv)
+[^c-20f621a88458265bfaa5b1f3ed243c71]: Commencement: [S. 278](https://www.legislation.gov.uk/ukpga/2023/52/section/278) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(c)(iv)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/c/iv)

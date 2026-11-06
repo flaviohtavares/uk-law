@@ -32,9 +32,9 @@ summary: ''
   - (i) P has accrued rights to benefits under the principal scheme; or
   - (ii) P would have such rights if P's qualifying judicial service had also ended on that date, and
 - (c) either—
-  - (i) P's age on 6th February 2013 was more than one year under normal pension age, and P exercises the option within twelve months of the amendment day (in which case the restriction in regulation 79 does not apply to P)[^key-b3ff996861c942249f58f9962cfdc343]; or
+  - (i) P's age on 6th February 2013 was more than one year under normal pension age, and P exercises the option within twelve months of the amendment day (in which case the restriction in regulation 79 does not apply to P)[^c-b3ff996861c942249f58f9962cfdc343]; or
   - (ii) P's age on the date P exercises the option is at least one year under normal pension age.
 
 ## Annotations
 
-[^key-b3ff996861c942249f58f9962cfdc343]: Textual amendment: Words in [reg. 72(2)(c)(i)](https://www.legislation.gov.uk/uksi/2017/522/regulation/72/2/c/i) substituted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [44](https://www.legislation.gov.uk/uksi/2023/403/regulation/44)
+[^c-b3ff996861c942249f58f9962cfdc343]: Textual amendment: Words in [reg. 72(2)(c)(i)](https://www.legislation.gov.uk/uksi/2017/522/regulation/72/2/c/i) substituted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [44](https://www.legislation.gov.uk/uksi/2023/403/regulation/44)

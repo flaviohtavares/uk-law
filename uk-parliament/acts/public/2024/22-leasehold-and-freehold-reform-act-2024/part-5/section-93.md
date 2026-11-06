@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Appointment orders: further provision[^key-cb779c67b08d54904fc616d56bc46057]
+## 93. Appointment orders: further provision[^c-cb779c67b08d54904fc616d56bc46057]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ the appropriate tribunal must have regard to whether the estate manager in relat
 
 ## Annotations
 
-[^key-cb779c67b08d54904fc616d56bc46057]: Commencement: S. 93 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-cb779c67b08d54904fc616d56bc46057]: Commencement: S. 93 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

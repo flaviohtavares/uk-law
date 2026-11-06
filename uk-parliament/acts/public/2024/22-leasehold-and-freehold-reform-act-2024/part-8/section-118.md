@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 118. Repeal of section 125 of the BSA 2022[^key-78b19bc0f4cb3e459a87a5bb5c959034]
+## 118. Repeal of section 125 of the BSA 2022[^c-78b19bc0f4cb3e459a87a5bb5c959034]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-78b19bc0f4cb3e459a87a5bb5c959034]: Commencement: [S. 118](https://www.legislation.gov.uk/ukpga/2024/22/section/118) in force at 24.7.2024, see [s. 124(2)(c)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/2/c)
+[^c-78b19bc0f4cb3e459a87a5bb5c959034]: Commencement: [S. 118](https://www.legislation.gov.uk/ukpga/2024/22/section/118) in force at 24.7.2024, see [s. 124(2)(c)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/2/c)

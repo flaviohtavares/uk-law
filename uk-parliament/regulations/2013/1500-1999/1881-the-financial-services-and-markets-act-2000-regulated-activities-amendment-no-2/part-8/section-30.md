@@ -20,12 +20,12 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-1ef84ff3302438940ace849c4a1caa05] In this Chapter, “**relevant person**” means a person who—
+(1)[^c-1ef84ff3302438940ace849c4a1caa05] In this Chapter, “**relevant person**” means a person who—
 
 - (a) immediately before 1st April 2014 held a licence under the 1974 Act, and
 - (b) on 1st April 2014 has a Part 4A permission to carry on a regulated activity by virtue of this Order (regardless of whether the person had permission via other means).
 
-(2)[^key-f1a4e3bc2eb5ba3879ef85cc8a6df06f] Paragraph (3) applies where, before 1st April 2014, the OFT—
+(2)[^c-f1a4e3bc2eb5ba3879ef85cc8a6df06f] Paragraph (3) applies where, before 1st April 2014, the OFT—
 
 - (a) had given a notice to a person (“A”) under section 32A(2) of the 1974 Act (suspension of a standard licence) that it is suspending A’s licence, but
 - (b) had not determined under section 34ZA of that Act (representations to OFT: suspension under section 32A) whether or not to confirm such a decision.
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1ef84ff3302438940ace849c4a1caa05]: Textual amendment: [Art. 30(1)](https://www.legislation.gov.uk/uksi/2013/1881/article/30/1): art. 30 renumbered as art. 30(1) (1.4.2014) by [The Financial Services and Markets Act 2000 (Consumer Credit) (Transitional Provisions) Order 2014 (S.I. 2014/376)](https://www.legislation.gov.uk/uksi/2014/376), [arts. 1](https://www.legislation.gov.uk/uksi/2014/376/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2014/376/article/3/2)
+[^c-1ef84ff3302438940ace849c4a1caa05]: Textual amendment: [Art. 30(1)](https://www.legislation.gov.uk/uksi/2013/1881/article/30/1): art. 30 renumbered as art. 30(1) (1.4.2014) by [The Financial Services and Markets Act 2000 (Consumer Credit) (Transitional Provisions) Order 2014 (S.I. 2014/376)](https://www.legislation.gov.uk/uksi/2014/376), [arts. 1](https://www.legislation.gov.uk/uksi/2014/376/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2014/376/article/3/2)
 
-[^key-f1a4e3bc2eb5ba3879ef85cc8a6df06f]: Textual amendment: [Art. 30(2)-(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/30/2) inserted (1.4.2014) by [The Financial Services and Markets Act 2000 (Consumer Credit) (Transitional Provisions) Order 2014 (S.I. 2014/376)](https://www.legislation.gov.uk/uksi/2014/376), [arts. 1](https://www.legislation.gov.uk/uksi/2014/376/article/1), [3(3)](https://www.legislation.gov.uk/uksi/2014/376/article/3/3)
+[^c-f1a4e3bc2eb5ba3879ef85cc8a6df06f]: Textual amendment: [Art. 30(2)-(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/30/2) inserted (1.4.2014) by [The Financial Services and Markets Act 2000 (Consumer Credit) (Transitional Provisions) Order 2014 (S.I. 2014/376)](https://www.legislation.gov.uk/uksi/2014/376), [arts. 1](https://www.legislation.gov.uk/uksi/2014/376/article/1), [3(3)](https://www.legislation.gov.uk/uksi/2014/376/article/3/3)

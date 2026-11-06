@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 70. Appeals and reviews of PPP administration orders[^key-21660bc5c8d4e5fcf4629371f4286767]
+## 70. Appeals and reviews of PPP administration orders[^c-21660bc5c8d4e5fcf4629371f4286767]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-21660bc5c8d4e5fcf4629371f4286767]: Commencement: [Rule 70](https://www.legislation.gov.uk/uksi/2007/3141/rule/70) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-21660bc5c8d4e5fcf4629371f4286767]: Commencement: [Rule 70](https://www.legislation.gov.uk/uksi/2007/3141/rule/70) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

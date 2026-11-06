@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 184D. Deductions working sheet for claimants awarded taxable employment and support allowance[^key-c08c73bf913dc1fcb9d8153ea8ca5d9b]
+## 184D. Deductions working sheet for claimants awarded taxable employment and support allowance[^c-c08c73bf913dc1fcb9d8153ea8ca5d9b]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c08c73bf913dc1fcb9d8153ea8ca5d9b]: Textual amendment: Pt. 8 Ch. 5 inserted (27.10.2008) by [The Income Tax (Pay As You Earn) (Amendment) (No.2) Regulations 2008 (S.I. 2008/2601)](https://www.legislation.gov.uk/uksi/2008/2601), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2601/regulation/1), [3](https://www.legislation.gov.uk/uksi/2008/2601/regulation/3)
+[^c-c08c73bf913dc1fcb9d8153ea8ca5d9b]: Textual amendment: Pt. 8 Ch. 5 inserted (27.10.2008) by [The Income Tax (Pay As You Earn) (Amendment) (No.2) Regulations 2008 (S.I. 2008/2601)](https://www.legislation.gov.uk/uksi/2008/2601), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2601/regulation/1), [3](https://www.legislation.gov.uk/uksi/2008/2601/regulation/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.193. Disclaimer presumed valid and effective[^key-31c59a3fec3d63335ad54b976f2e6e97]
+## 4.193. Disclaimer presumed valid and effective[^c-31c59a3fec3d63335ad54b976f2e6e97]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Any disclaimer of property by the liquidator is presumed valid and effective, un
 
 ## Annotations
 
-[^key-31c59a3fec3d63335ad54b976f2e6e97]: Commencement: [Rule 4.193](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.193) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-31c59a3fec3d63335ad54b976f2e6e97]: Commencement: [Rule 4.193](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.193) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

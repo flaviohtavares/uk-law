@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Extinguishment and suspension of private rights of way[^key-225584625bfa1952ba3f7fedfcfd0b57]
+## 31. Extinguishment and suspension of private rights of way[^c-225584625bfa1952ba3f7fedfcfd0b57]
 
 *Extent: E+W*
 
@@ -37,6 +37,6 @@ whichever is sooner.
 
 ## Annotations
 
-[^key-225584625bfa1952ba3f7fedfcfd0b57]: Commencement: Art. 31 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)
+[^c-225584625bfa1952ba3f7fedfcfd0b57]: Commencement: Art. 31 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)
 
 [^f00022]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8).

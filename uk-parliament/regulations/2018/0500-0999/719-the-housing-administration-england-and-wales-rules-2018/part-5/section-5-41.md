@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5.41. Debt payable at future time[^key-5ac93f80fe8cff97a5f76d7f744baaa8]
+## 5.41. Debt payable at future time[^c-5ac93f80fe8cff97a5f76d7f744baaa8]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ where—
 
 ## Annotations
 
-[^key-5ac93f80fe8cff97a5f76d7f744baaa8]: Commencement: Rule 5.41 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-5ac93f80fe8cff97a5f76d7f744baaa8]: Commencement: Rule 5.41 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

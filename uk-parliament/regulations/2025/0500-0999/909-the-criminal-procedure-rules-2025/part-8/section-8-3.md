@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8.3. Content of initial details[^key-82d6f07ea2f866e9451af34d4c1aad24]
+## 8.3. Content of initial details[^c-82d6f07ea2f866e9451af34d4c1aad24]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ Initial details of the prosecution case must include—
 
 ## Annotations
 
-[^key-82d6f07ea2f866e9451af34d4c1aad24]: Commencement: [Rule 8.3](https://www.legislation.gov.uk/uksi/2025/909/rule/8.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-82d6f07ea2f866e9451af34d4c1aad24]: Commencement: [Rule 8.3](https://www.legislation.gov.uk/uksi/2025/909/rule/8.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

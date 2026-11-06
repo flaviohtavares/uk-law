@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Amendment to regulation A81[^key-99d8742e59467e951abacae963a350fe]
+## 64. Amendment to regulation A81[^c-99d8742e59467e951abacae963a350fe]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In regulation A81 (application of regulations 81 to 94)[^f00075], and in the hea
 
 ## Annotations
 
-[^key-99d8742e59467e951abacae963a350fe]: Commencement: [Reg. 64](https://www.legislation.gov.uk/uksi/2024/832/regulation/64) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-99d8742e59467e951abacae963a350fe]: Commencement: [Reg. 64](https://www.legislation.gov.uk/uksi/2024/832/regulation/64) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00075]: Footnote: Regulation A81 was inserted by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488) and was amended by [S.I. 2021/1452](https://www.legislation.gov.uk/uksi/2021/1452).

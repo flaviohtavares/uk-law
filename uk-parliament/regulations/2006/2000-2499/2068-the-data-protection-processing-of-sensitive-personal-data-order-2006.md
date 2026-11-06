@@ -32,7 +32,7 @@ summary: ''
 
 DATA PROTECTION
 
-The Data Protection (Processing of Sensitive Personal Data) Order 2006 (revoked)[^key-ddc34a5bc76b77f878cf4a95d6a913bd]
+The Data Protection (Processing of Sensitive Personal Data) Order 2006 (revoked)[^c-ddc34a5bc76b77f878cf4a95d6a913bd]
 
 Made
 
@@ -40,24 +40,24 @@ Made
 
 Coming into force in accordance with article 1(1)
 
-[^key-ddc34a5bc76b77f878cf4a95d6a913bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ddc34a5bc76b77f878cf4a95d6a913bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-ddc34a5bc76b77f878cf4a95d6a913bd]
+## 1. Citation, commencement and interpretation[^c-ddc34a5bc76b77f878cf4a95d6a913bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Condition relevant for purposes of the First Principle: processing of sensitive personal data[^key-ddc34a5bc76b77f878cf4a95d6a913bd]
+## 2. Condition relevant for purposes of the First Principle: processing of sensitive personal data[^c-ddc34a5bc76b77f878cf4a95d6a913bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ddc34a5bc76b77f878cf4a95d6a913bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ddc34a5bc76b77f878cf4a95d6a913bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ddc34a5bc76b77f878cf4a95d6a913bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ddc34a5bc76b77f878cf4a95d6a913bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ddc34a5bc76b77f878cf4a95d6a913bd]: Textual amendment: Order revoked (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 321](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/321) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210) and sving in [Sch. 20 para. 58(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/58/2)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-ddc34a5bc76b77f878cf4a95d6a913bd]: Textual amendment: Order revoked (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 321](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/321) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210) and sving in [Sch. 20 para. 58(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/58/2)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)

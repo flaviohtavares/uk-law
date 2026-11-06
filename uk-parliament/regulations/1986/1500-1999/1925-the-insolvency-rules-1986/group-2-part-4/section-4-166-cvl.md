@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.166-CVL. Voting rights and resolutions[^key-5874263621e7503af69f63cde01ebf19]
+## 4.166-CVL. Voting rights and resolutions[^c-5874263621e7503af69f63cde01ebf19]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5874263621e7503af69f63cde01ebf19]: Commencement: [Rule 4.166CVL](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.166CVL) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-5874263621e7503af69f63cde01ebf19]: Commencement: [Rule 4.166CVL](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.166CVL) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

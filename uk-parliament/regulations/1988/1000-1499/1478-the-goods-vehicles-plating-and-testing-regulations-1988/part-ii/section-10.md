@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 10. Dates by which vehicles are to be submitted for periodical tests[^key-2fb5b889ec77149e47f97bea80425791][^key-e0ad29a046ddbd0d02e5cacb20a83c2b]
+## 10. Dates by which vehicles are to be submitted for periodical tests[^c-2fb5b889ec77149e47f97bea80425791][^c-e0ad29a046ddbd0d02e5cacb20a83c2b]
 
 *Extent: E+W+S*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2fb5b889ec77149e47f97bea80425791]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1988/1478/regulation/10) in force at 23.9.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/1478/regulation/1)
+[^c-2fb5b889ec77149e47f97bea80425791]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1988/1478/regulation/10) in force at 23.9.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/1478/regulation/1)
 
-[^key-e0ad29a046ddbd0d02e5cacb20a83c2b]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/1988/1478/regulation/10) substituted (5.3.1997) by [The Goods Vehicles (Plating and Testing) (Amendment) (No. 2) Regulations 1997 (S.I. 1997/263)](https://www.legislation.gov.uk/uksi/1997/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1997/263/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/1997/263/regulation/6)
+[^c-e0ad29a046ddbd0d02e5cacb20a83c2b]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/1988/1478/regulation/10) substituted (5.3.1997) by [The Goods Vehicles (Plating and Testing) (Amendment) (No. 2) Regulations 1997 (S.I. 1997/263)](https://www.legislation.gov.uk/uksi/1997/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1997/263/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/1997/263/regulation/6)

@@ -35,40 +35,40 @@ on the information to be provided by competent authorities to the European Secur
 
 **(Text with EEA relevance)** (revoked)
 
-[^key-a964fd5d31ea240a33ab597259950f8c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a964fd5d31ea240a33ab597259950f8c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-a964fd5d31ea240a33ab597259950f8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-a964fd5d31ea240a33ab597259950f8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-a964fd5d31ea240a33ab597259950f8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-a964fd5d31ea240a33ab597259950f8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-a964fd5d31ea240a33ab597259950f8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-a964fd5d31ea240a33ab597259950f8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-a964fd5d31ea240a33ab597259950f8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-a964fd5d31ea240a33ab597259950f8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-a964fd5d31ea240a33ab597259950f8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-a964fd5d31ea240a33ab597259950f8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-a964fd5d31ea240a33ab597259950f8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-a964fd5d31ea240a33ab597259950f8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 7.**[^key-a964fd5d31ea240a33ab597259950f8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 7.**[^c-a964fd5d31ea240a33ab597259950f8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 8.**[^key-a964fd5d31ea240a33ab597259950f8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 8.**[^c-a964fd5d31ea240a33ab597259950f8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 9.**[^key-a964fd5d31ea240a33ab597259950f8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 9.**[^c-a964fd5d31ea240a33ab597259950f8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 10.**[^key-a964fd5d31ea240a33ab597259950f8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 10.**[^c-a964fd5d31ea240a33ab597259950f8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 11.**[^key-a964fd5d31ea240a33ab597259950f8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 11.**[^c-a964fd5d31ea240a33ab597259950f8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 12.**[^key-a964fd5d31ea240a33ab597259950f8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 12.**[^c-a964fd5d31ea240a33ab597259950f8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 13.**[^key-a964fd5d31ea240a33ab597259950f8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 13.**[^c-a964fd5d31ea240a33ab597259950f8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 14.**[^key-a964fd5d31ea240a33ab597259950f8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 14.**[^c-a964fd5d31ea240a33ab597259950f8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 15.**[^key-a964fd5d31ea240a33ab597259950f8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 15.**[^c-a964fd5d31ea240a33ab597259950f8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a964fd5d31ea240a33ab597259950f8c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a964fd5d31ea240a33ab597259950f8c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a964fd5d31ea240a33ab597259950f8c]: Textual amendment: Regulation revoked (31.12.2020) by [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1/3), [43](https://www.legislation.gov.uk/uksi/2019/328/regulation/43) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [reg. 58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a964fd5d31ea240a33ab597259950f8c]: Textual amendment: Regulation revoked (31.12.2020) by [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1/3), [43](https://www.legislation.gov.uk/uksi/2019/328/regulation/43) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [reg. 58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

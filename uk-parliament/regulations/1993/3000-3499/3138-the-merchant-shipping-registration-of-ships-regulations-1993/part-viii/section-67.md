@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Period of provisional registration[^key-bea524c4e512486111bd3ac856c8b8b4]
+## 67. Period of provisional registration[^c-bea524c4e512486111bd3ac856c8b8b4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The Registrar, on being satisfied that the ship is eligible for registration, or
 
 ## Annotations
 
-[^key-bea524c4e512486111bd3ac856c8b8b4]: Commencement: [Reg. 67](https://www.legislation.gov.uk/uksi/1993/3138/regulation/67) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
+[^c-bea524c4e512486111bd3ac856c8b8b4]: Commencement: [Reg. 67](https://www.legislation.gov.uk/uksi/1993/3138/regulation/67) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)

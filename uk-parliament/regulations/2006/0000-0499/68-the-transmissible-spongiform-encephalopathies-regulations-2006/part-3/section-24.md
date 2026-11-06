@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Enforcement[^key-6e897418bb50b37ddace2868e5fd1a87]
+## 24. Enforcement[^c-6e897418bb50b37ddace2868e5fd1a87]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6e897418bb50b37ddace2868e5fd1a87]: Commencement: Reg. 24 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)
+[^c-6e897418bb50b37ddace2868e5fd1a87]: Commencement: Reg. 24 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)

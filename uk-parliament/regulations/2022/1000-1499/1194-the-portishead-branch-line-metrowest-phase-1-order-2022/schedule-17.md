@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 17 — Documents to be Certified[^key-a012ea397b306b16ecfd8a29f5e6c8ac]
+## SCHEDULE 17 — Documents to be Certified[^c-a012ea397b306b16ecfd8a29f5e6c8ac]
 
 *Extent: E+W*
 
 Article 55
 
-[^key-a012ea397b306b16ecfd8a29f5e6c8ac]
+[^c-a012ea397b306b16ecfd8a29f5e6c8ac]
 
 Documents for certification that they are true copies of the documents referred to in this Order—
 
@@ -64,4 +64,4 @@ Documents for certification that they are true copies of the documents referred 
 
 ## Annotations
 
-[^key-a012ea397b306b16ecfd8a29f5e6c8ac]: Commencement: Sch. 17 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)
+[^c-a012ea397b306b16ecfd8a29f5e6c8ac]: Commencement: Sch. 17 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England.
 
-## 67. Schemes under the Charities Act 1993 for redundant chapels belonging to charities[^key-841b047c79f66726608618a0c144121f]
+## 67. Schemes under the Charities Act 1993 for redundant chapels belonging to charities[^c-841b047c79f66726608618a0c144121f]
 
 *Extent: E*
 
-(1)[^key-af28d74fc9c0e1e8b4a50a093fc6a1f0] The power of the court (as defined by the Charities Act 2011) to make schemes under its jurisdiction with respect to charities, and the power of the Charity Commission to make schemes under that Act, shall extend to the making of schemes with respect to consecrated chapels belonging to charities which are no longer needed for the purposes of the charity, and section 10(2)(c) of that Act shall not be taken as preventing the making of any such scheme.
+(1)[^c-af28d74fc9c0e1e8b4a50a093fc6a1f0] The power of the court (as defined by the Charities Act 2011) to make schemes under its jurisdiction with respect to charities, and the power of the Charity Commission to make schemes under that Act, shall extend to the making of schemes with respect to consecrated chapels belonging to charities which are no longer needed for the purposes of the charity, and section 10(2)(c) of that Act shall not be taken as preventing the making of any such scheme.
 
 (2) Where a scheme is made under this section, the bishop may, if he thinks it proper to do so, by order under his seal direct that sections 74(1) and 78 of this Measure, if applicable, shall apply to the chapel as they apply to the buildings mentioned in those sections, and those sections shall thereupon apply accordingly, and the scheme, so far as it relates to the chapel, shall not have effect unless and until such an order is made, or the bishop directs that the scheme may have effect without such an order.
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-841b047c79f66726608618a0c144121f]: Commencement: S. 67 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-841b047c79f66726608618a0c144121f]: Commencement: S. 67 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
 
-[^key-af28d74fc9c0e1e8b4a50a093fc6a1f0]: Textual amendment: S. 67(1) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25) , [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355) , [Sch. 7 para. 146](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/146) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2) , [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8) )
+[^c-af28d74fc9c0e1e8b4a50a093fc6a1f0]: Textual amendment: S. 67(1) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25) , [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355) , [Sch. 7 para. 146](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/146) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2) , [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8) )

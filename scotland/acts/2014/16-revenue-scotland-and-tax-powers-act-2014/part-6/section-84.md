@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 84. Correction of return by Revenue Scotland[^key-230082ed1b0949a69737d24cde1a16a0]
+## 84. Correction of return by Revenue Scotland[^c-230082ed1b0949a69737d24cde1a16a0]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-230082ed1b0949a69737d24cde1a16a0]: Commencement: [S. 84](https://www.legislation.gov.uk/asp/2014/16/section/84) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-230082ed1b0949a69737d24cde1a16a0]: Commencement: [S. 84](https://www.legislation.gov.uk/asp/2014/16/section/84) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

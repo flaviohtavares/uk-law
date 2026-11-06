@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Possession of psychoactive substance with intent to supply[^key-228136fc61e151ddd436eebfdb13740b]
+## 7. Possession of psychoactive substance with intent to supply[^c-228136fc61e151ddd436eebfdb13740b]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-228136fc61e151ddd436eebfdb13740b]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2016/2/section/7) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
+[^c-228136fc61e151ddd436eebfdb13740b]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2016/2/section/7) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## E12. Pensions of widowers etc[^key-c84ab15b7b7105e8e4c18a7b18768889]
+## E12. Pensions of widowers etc[^c-c84ab15b7b7105e8e4c18a7b18768889]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ regulations E3 (amount of retirement pension and retiring allowance) and E5 to E
 
 ## Annotations
 
-[^key-c84ab15b7b7105e8e4c18a7b18768889]: Commencement: [Reg. E12](https://www.legislation.gov.uk/uksi/1986/24/regulation/E12) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-c84ab15b7b7105e8e4c18a7b18768889]: Commencement: [Reg. E12](https://www.legislation.gov.uk/uksi/1986/24/regulation/E12) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

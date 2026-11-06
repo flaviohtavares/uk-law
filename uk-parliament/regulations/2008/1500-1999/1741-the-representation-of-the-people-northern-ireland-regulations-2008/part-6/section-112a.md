@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 112A. Supply of additional elector information to the Northern Ireland Statistics and Research Agency[^key-dac6dfbcbb4346bf731dbc32dd71bd48]
+## 112A. Supply of additional elector information to the Northern Ireland Statistics and Research Agency[^c-dac6dfbcbb4346bf731dbc32dd71bd48]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dac6dfbcbb4346bf731dbc32dd71bd48]: Textual amendment: [Reg. 112A](https://www.legislation.gov.uk/uksi/2008/1741/regulation/112A) and cross-heading inserted (18.7.2013) by [The Representation of the People (Northern Ireland) (Amendment) Regulations 2013 (S.I. 2013/1846)](https://www.legislation.gov.uk/uksi/2013/1846), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1846/regulation/1/1), [4(1)](https://www.legislation.gov.uk/uksi/2013/1846/regulation/4/1)
+[^c-dac6dfbcbb4346bf731dbc32dd71bd48]: Textual amendment: [Reg. 112A](https://www.legislation.gov.uk/uksi/2008/1741/regulation/112A) and cross-heading inserted (18.7.2013) by [The Representation of the People (Northern Ireland) (Amendment) Regulations 2013 (S.I. 2013/1846)](https://www.legislation.gov.uk/uksi/2013/1846), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1846/regulation/1/1), [4(1)](https://www.legislation.gov.uk/uksi/2013/1846/regulation/4/1)

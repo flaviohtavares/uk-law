@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 139. Manner of distributing assets[^key-421b856aa36474c6b8d2bb23164e7fde]
+## 139. Manner of distributing assets[^c-421b856aa36474c6b8d2bb23164e7fde]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.180 of the 1986 Rules.
 
 ## Annotations
 
-[^key-421b856aa36474c6b8d2bb23164e7fde]: Commencement: Rule 139 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-421b856aa36474c6b8d2bb23164e7fde]: Commencement: Rule 139 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

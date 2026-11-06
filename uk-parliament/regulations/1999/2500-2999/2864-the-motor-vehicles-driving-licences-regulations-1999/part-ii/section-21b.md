@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 21B. Prohibition on holding more than one licence[^key-908cf2654422fefbedc129393dbf8d62]
+## 21B. Prohibition on holding more than one licence[^c-908cf2654422fefbedc129393dbf8d62]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-908cf2654422fefbedc129393dbf8d62]: Textual amendment: [Reg. 21B](https://www.legislation.gov.uk/uksi/1999/2864/regulation/21B) inserted (26.3.2015) by [The Motor Vehicles (Driving Licences) (Amendment) (No.3) Regulations 2015 (S.I. 2015/719)](https://www.legislation.gov.uk/uksi/2015/719), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/719/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2015/719/regulation/4)
+[^c-908cf2654422fefbedc129393dbf8d62]: Textual amendment: [Reg. 21B](https://www.legislation.gov.uk/uksi/1999/2864/regulation/21B) inserted (26.3.2015) by [The Motor Vehicles (Driving Licences) (Amendment) (No.3) Regulations 2015 (S.I. 2015/719)](https://www.legislation.gov.uk/uksi/2015/719), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/719/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2015/719/regulation/4)

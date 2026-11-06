@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 84. Preparation of Welsh in education strategic plans[^key-48886bc30bd77be19bdfaa6527188fe6]
+## 84. Preparation of Welsh in education strategic plans[^c-48886bc30bd77be19bdfaa6527188fe6]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-48886bc30bd77be19bdfaa6527188fe6]: Commencement: [S. 84](https://www.legislation.gov.uk/anaw/2013/1/section/84) in force at 3.12.2013 by [S.I. 2013/3024](https://www.legislation.gov.uk/wsi/2013/3024), [art. 2](https://www.legislation.gov.uk/wsi/2013/3024/article/2)
+[^c-48886bc30bd77be19bdfaa6527188fe6]: Commencement: [S. 84](https://www.legislation.gov.uk/anaw/2013/1/section/84) in force at 3.12.2013 by [S.I. 2013/3024](https://www.legislation.gov.uk/wsi/2013/3024), [art. 2](https://www.legislation.gov.uk/wsi/2013/3024/article/2)

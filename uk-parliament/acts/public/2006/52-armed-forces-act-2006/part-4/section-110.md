@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110. Arrest after charge or during proceedings by order of commanding officer[^key-0eb30e47aef69409017af9a0766745e2][^key-f815d5b00e489ca2380c3b7cbf4b4a8d][^key-425edda436f94cf600beb3b96d265630][^key-f815d5b00e489ca2380c3b7cbf4b4a8d]
+## 110. Arrest after charge or during proceedings by order of commanding officer[^c-0eb30e47aef69409017af9a0766745e2][^c-f815d5b00e489ca2380c3b7cbf4b4a8d][^c-425edda436f94cf600beb3b96d265630][^c-f815d5b00e489ca2380c3b7cbf4b4a8d]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,8 +50,8 @@ may, if satisfied that taking that person into service custody is justified, giv
 
 ## Annotations
 
-[^key-0eb30e47aef69409017af9a0766745e2]: Commencement: S. 110 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-0eb30e47aef69409017af9a0766745e2]: Commencement: S. 110 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-f815d5b00e489ca2380c3b7cbf4b4a8d]: Modification: Pt. 4 modified by 1968 c. 20, s. 20(1G)(1H) (as substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 8 para. 21(a)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/8/paragraph/21/a); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4))
+[^c-f815d5b00e489ca2380c3b7cbf4b4a8d]: Modification: Pt. 4 modified by 1968 c. 20, s. 20(1G)(1H) (as substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 8 para. 21(a)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/8/paragraph/21/a); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4))
 
-[^key-425edda436f94cf600beb3b96d265630]: Commencement: S. 110 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-425edda436f94cf600beb3b96d265630]: Commencement: S. 110 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

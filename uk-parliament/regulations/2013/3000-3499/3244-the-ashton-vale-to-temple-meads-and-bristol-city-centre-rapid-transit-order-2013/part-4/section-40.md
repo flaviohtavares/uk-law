@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 40. Traffic regulation[^key-6cfba2ff2d3b8ffc77278da519ee7c1d]
+## 40. Traffic regulation[^c-6cfba2ff2d3b8ffc77278da519ee7c1d]
 
 *Extent: E+W+S*
 
@@ -69,6 +69,6 @@ either at all times or at times, on days or during such periods as may be specif
 
 ## Annotations
 
-[^key-6cfba2ff2d3b8ffc77278da519ee7c1d]: Commencement: Art. 40 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
+[^c-6cfba2ff2d3b8ffc77278da519ee7c1d]: Commencement: Art. 40 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
 
 [^f00023]: Footnote: [2004 c. 18](https://www.legislation.gov.uk/ukpga/2004/18)

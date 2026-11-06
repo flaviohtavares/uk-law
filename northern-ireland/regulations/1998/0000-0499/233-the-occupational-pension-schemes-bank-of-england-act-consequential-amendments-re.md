@@ -40,17 +40,17 @@ Coming into operation
 
 The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by sections 93(2)(b) and 177(2) to (4) of the Pension Schemes (Northern Ireland) Act 1993[^f00001] and Articles 81(3)(a) and 166(1) to (3) of the Pensions (Northern Ireland) Order 1995[^f00002] and of all other powers enabling it in that behalf, by this statutory rule which contains only regulations consequential upon Part III of the Bank of England Act 1998[^f00003], hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-77f205764788b36d37a144e729851272]
+## 1. Citation, commencement and interpretation[^c-77f205764788b36d37a144e729851272]
 
 (1) These Regulations may be cited as the Occupational Pension Schemes (Bank of England Act) (Consequential Amendments) Regulations (Northern Ireland) 1998 and shall come into operation on 29th July 1998.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00004] shall apply to these Regulations as it applies to a Measure of the Assembly.
 
-## 2. Amendment of the Occupational Pension Schemes (Transfer Values) Regulations[^key-56007d6f0abb585b50d10f0454fb9a8d]
+## 2. Amendment of the Occupational Pension Schemes (Transfer Values) Regulations[^c-56007d6f0abb585b50d10f0454fb9a8d]
 
 In regulation 1(2) of the Occupational Pension Schemes (Transfer Values) Regulations (Northern Ireland) 1996[^f00005] (interpretation), in the definition of “reference banks”, in paragraph (a) the words “by the Bank of England” shall be omitted.
 
-## 3. Amendment of the Occupational Pension Schemes (Pensions Compensation Provisions) Regulations[^key-e4ee69d2bd162f165238b214f41ae3b5]
+## 3. Amendment of the Occupational Pension Schemes (Pensions Compensation Provisions) Regulations[^c-e4ee69d2bd162f165238b214f41ae3b5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -76,12 +76,12 @@ As these Regulations, in so far as they are made under Part II of the Pensions (
 
 [^f00003]: Footnote: [1998 c. 11](https://www.legislation.gov.uk/ukpga/1998/11)
 
-[^key-77f205764788b36d37a144e729851272]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/1998/233/regulation/1) in operation at 29.7.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/233/regulation/1/1)
+[^c-77f205764788b36d37a144e729851272]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/1998/233/regulation/1) in operation at 29.7.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/233/regulation/1/1)
 
 [^f00004]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-56007d6f0abb585b50d10f0454fb9a8d]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/1998/233/regulation/2) in operation at 29.7.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/233/regulation/1/1)
+[^c-56007d6f0abb585b50d10f0454fb9a8d]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/1998/233/regulation/2) in operation at 29.7.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/233/regulation/1/1)
 
 [^f00005]: Footnote: [S.R. 1996 No. 619](https://www.legislation.gov.uk/nisr/1996/619), to which there are amendments not relevant to these regulations
 
-[^key-e4ee69d2bd162f165238b214f41ae3b5]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/1998/233/regulation/3) revoked (2.6.2003) by [The Social Security and Pensions (Financial Services and Markets Act 2000) (Consequential Amendments) Regulations (Northern Ireland) 2003 (S.R. 2003/256)](https://www.legislation.gov.uk/nisr/2003/256), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2003/256/regulation/1/1), [19(d)](https://www.legislation.gov.uk/nisr/2003/256/regulation/19/d)
+[^c-e4ee69d2bd162f165238b214f41ae3b5]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/1998/233/regulation/3) revoked (2.6.2003) by [The Social Security and Pensions (Financial Services and Markets Act 2000) (Consequential Amendments) Regulations (Northern Ireland) 2003 (S.R. 2003/256)](https://www.legislation.gov.uk/nisr/2003/256), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2003/256/regulation/1/1), [19(d)](https://www.legislation.gov.uk/nisr/2003/256/regulation/19/d)

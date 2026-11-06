@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 357LJ. Investment managers: disregard of certain chargeable profits[^key-c37b3945cb98f086fe57c5b07af1f12f]
+## 357LJ. Investment managers: disregard of certain chargeable profits[^c-c37b3945cb98f086fe57c5b07af1f12f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c37b3945cb98f086fe57c5b07af1f12f]: Textual amendment: [S. 357LJ](https://www.legislation.gov.uk/ukpga/2010/4/section/357LJ) omitted (for chargeable periods beginning on or after 1.1.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 7 paras. 21(4)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/21/4), [30](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/30)
+[^c-c37b3945cb98f086fe57c5b07af1f12f]: Textual amendment: [S. 357LJ](https://www.legislation.gov.uk/ukpga/2010/4/section/357LJ) omitted (for chargeable periods beginning on or after 1.1.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 7 paras. 21(4)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/21/4), [30](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/30)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Appointment of election agent[^key-4d078c01100c6a705cbfecd5ed43c4e8]
+## 32. Appointment of election agent[^c-4d078c01100c6a705cbfecd5ed43c4e8]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,4 +55,4 @@ shall be of no effect under this article unless it is made and signed by that pe
 
 ## Annotations
 
-[^key-4d078c01100c6a705cbfecd5ed43c4e8]: Commencement: Art. 32 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-4d078c01100c6a705cbfecd5ed43c4e8]: Commencement: Art. 32 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)

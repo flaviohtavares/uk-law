@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 77. Appointment of manager: supplemental[^key-26ccdf1338d845e98ca051bf974e2eed]
+## 77. Appointment of manager: supplemental[^c-26ccdf1338d845e98ca051bf974e2eed]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ After paragraph 15F of Schedule 1 to the Housing Act 1996 insert—
 
 ## Annotations
 
-[^key-26ccdf1338d845e98ca051bf974e2eed]: Commencement: [S. 77](https://www.legislation.gov.uk/mwa/2011/5/section/77) in force at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(r)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/r)
+[^c-26ccdf1338d845e98ca051bf974e2eed]: Commencement: [S. 77](https://www.legislation.gov.uk/mwa/2011/5/section/77) in force at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(r)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/r)

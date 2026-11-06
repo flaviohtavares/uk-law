@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Supplementary amendments[^key-b67afbc85ba9f5c5fb7cdbe98d4f8599]
+## 56. Supplementary amendments[^c-b67afbc85ba9f5c5fb7cdbe98d4f8599]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 11 contains supplementary amendments relating to administration and enf
 
 ## Annotations
 
-[^key-b67afbc85ba9f5c5fb7cdbe98d4f8599]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2017/10/section/56) in force at 6.4.2018 by [S.I. 2018/464](https://www.legislation.gov.uk/uksi/2018/464), [art. 2(e)](https://www.legislation.gov.uk/uksi/2018/464/article/2/e)
+[^c-b67afbc85ba9f5c5fb7cdbe98d4f8599]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2017/10/section/56) in force at 6.4.2018 by [S.I. 2018/464](https://www.legislation.gov.uk/uksi/2018/464), [art. 2(e)](https://www.legislation.gov.uk/uksi/2018/464/article/2/e)

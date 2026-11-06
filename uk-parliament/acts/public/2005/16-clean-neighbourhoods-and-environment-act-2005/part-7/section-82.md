@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 82. Noise offences: fixed penalty notices[^key-a919248d12658512809cf864d2c4b6af][^key-3c08f47a47b78b52e1f76d99ca2366e8][^key-81d3db29f6978adae4231fbdfeb743d1]
+## 82. Noise offences: fixed penalty notices[^c-a919248d12658512809cf864d2c4b6af][^c-3c08f47a47b78b52e1f76d99ca2366e8][^c-81d3db29f6978adae4231fbdfeb743d1]
 
 *Extent: E+W*
 
@@ -57,8 +57,8 @@ summary: ''
 
 ## Annotations
 
-[^key-a919248d12658512809cf864d2c4b6af]: Commencement: [S. 82](https://www.legislation.gov.uk/ukpga/2005/16/section/82) in force at 16.3.2006 for specified purposes for W. by [S.I. 2006/768](https://www.legislation.gov.uk/wsi/2006/768), [art. 3](https://www.legislation.gov.uk/wsi/2006/768/article/3)
+[^c-a919248d12658512809cf864d2c4b6af]: Commencement: [S. 82](https://www.legislation.gov.uk/ukpga/2005/16/section/82) in force at 16.3.2006 for specified purposes for W. by [S.I. 2006/768](https://www.legislation.gov.uk/wsi/2006/768), [art. 3](https://www.legislation.gov.uk/wsi/2006/768/article/3)
 
-[^key-3c08f47a47b78b52e1f76d99ca2366e8]: Commencement: [S. 82](https://www.legislation.gov.uk/ukpga/2005/16/section/82) in force at 6.4.2006 for E. by [S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/795/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/795/schedule/2)
+[^c-3c08f47a47b78b52e1f76d99ca2366e8]: Commencement: [S. 82](https://www.legislation.gov.uk/ukpga/2005/16/section/82) in force at 6.4.2006 for E. by [S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/795/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/795/schedule/2)
 
-[^key-81d3db29f6978adae4231fbdfeb743d1]: Commencement: [S. 82](https://www.legislation.gov.uk/ukpga/2005/16/section/82) in force at 15.3.2007 (being the date on which S.I. 2007/739 came into force) for W. in so far as not already in force by [S.I. 2006/2797](https://www.legislation.gov.uk/wsi/2006/2797), [art. 4(jj)](https://www.legislation.gov.uk/wsi/2006/2797/article/4/jj)
+[^c-81d3db29f6978adae4231fbdfeb743d1]: Commencement: [S. 82](https://www.legislation.gov.uk/ukpga/2005/16/section/82) in force at 15.3.2007 (being the date on which S.I. 2007/739 came into force) for W. in so far as not already in force by [S.I. 2006/2797](https://www.legislation.gov.uk/wsi/2006/2797), [art. 4(jj)](https://www.legislation.gov.uk/wsi/2006/2797/article/4/jj)

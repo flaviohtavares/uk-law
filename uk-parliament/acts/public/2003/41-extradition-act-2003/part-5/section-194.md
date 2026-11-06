@@ -31,7 +31,7 @@ summary: ''
 
 (4) As applied by subsection (3), this Act has effect—
 
-- (a) as if sections 71(4), 73(5), 74(11)(b) , 74A to 74E[^key-c2b6b76d14f2cce28d2c246949d9ceca], 84(7) and 86(7) were omitted;
+- (a) as if sections 71(4), 73(5), 74(11)(b) , 74A to 74E[^c-c2b6b76d14f2cce28d2c246949d9ceca], 84(7) and 86(7) were omitted;
 - (b) with any other modifications specified in the certificate.
 
 (5) A certificate under subsection (2) in relation to a person is conclusive evidence that the conditions in paragraphs (a) and (b) of subsection (1) are satisfied in relation to the person’s extradition.
@@ -40,4 +40,4 @@ summary: ''
 
 [^c2087276]: Commencement: Act wholly in force at 1.1.2004, see s. 221 and [S.I. 2003/3103](https://www.legislation.gov.uk/uksi/2003/3103), [art. 2](https://www.legislation.gov.uk/uksi/2003/3103/article/2) (subject to [arts. 3-5](https://www.legislation.gov.uk/uksi/2003/3103/article/3)) (as amended by [S.I. 2003/3258](https://www.legislation.gov.uk/uksi/2003/3258) art. 2(2) and [S.I. 2003/3312](https://www.legislation.gov.uk/uksi/2003/3312) art. 2(2))
 
-[^key-c2b6b76d14f2cce28d2c246949d9ceca]: Textual amendment: Words in s. 194(4)(a) inserted (31.12.2020) by [Extradition (Provisional Arrest) Act 2020 (c. 18)](https://www.legislation.gov.uk/ukpga/2020/18), [s. 2(4)](https://www.legislation.gov.uk/ukpga/2020/18/section/2/4), [Sch. para. 21](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/21); [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
+[^c-c2b6b76d14f2cce28d2c246949d9ceca]: Textual amendment: Words in s. 194(4)(a) inserted (31.12.2020) by [Extradition (Provisional Arrest) Act 2020 (c. 18)](https://www.legislation.gov.uk/ukpga/2020/18), [s. 2(4)](https://www.legislation.gov.uk/ukpga/2020/18/section/2/4), [Sch. para. 21](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/21); [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)

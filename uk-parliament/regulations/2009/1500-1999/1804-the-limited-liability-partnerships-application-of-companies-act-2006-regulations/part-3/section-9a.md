@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9A. Names containing computer code[^key-a8bb470469e04f605b4d26677ba7a697]
+## 9A. Names containing computer code[^c-a8bb470469e04f605b4d26677ba7a697]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ Section 57A applies to LLPs, modified so it reads as follows—
 
 ## Annotations
 
-[^key-a8bb470469e04f605b4d26677ba7a697]: Textual amendment: [Reg. 9A](https://www.legislation.gov.uk/uksi/2009/1804/regulation/9A) inserted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2024/234/regulation/7); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
+[^c-a8bb470469e04f605b4d26677ba7a697]: Textual amendment: [Reg. 9A](https://www.legislation.gov.uk/uksi/2009/1804/regulation/9A) inserted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2024/234/regulation/7); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)

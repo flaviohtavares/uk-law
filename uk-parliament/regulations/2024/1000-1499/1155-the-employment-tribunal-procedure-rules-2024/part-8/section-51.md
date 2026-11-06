@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 51. Dismissal following withdrawal[^key-caa2b603e87211fb76601e51313e134e]
+## 51. Dismissal following withdrawal[^c-caa2b603e87211fb76601e51313e134e]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ Where a claim, or part of it, has been withdrawn under rule 50 (end of claim), t
 
 ## Annotations
 
-[^key-caa2b603e87211fb76601e51313e134e]: Commencement: [Rule 51](https://www.legislation.gov.uk/uksi/2024/1155/rule/51) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-caa2b603e87211fb76601e51313e134e]: Commencement: [Rule 51](https://www.legislation.gov.uk/uksi/2024/1155/rule/51) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)

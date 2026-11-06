@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Amendment to regulation 67[^key-adee347792250acaf6add45e0300443f]
+## 55. Amendment to regulation 67[^c-adee347792250acaf6add45e0300443f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In regulation 67 (failure to place on the market etc.)[^f00066], in paragraphs (
 
 ## Annotations
 
-[^key-adee347792250acaf6add45e0300443f]: Commencement: [Reg. 55](https://www.legislation.gov.uk/uksi/2024/832/regulation/55) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-adee347792250acaf6add45e0300443f]: Commencement: [Reg. 55](https://www.legislation.gov.uk/uksi/2024/832/regulation/55) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00066]: Footnote: In regulation 67, the words omitted were inserted by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488).

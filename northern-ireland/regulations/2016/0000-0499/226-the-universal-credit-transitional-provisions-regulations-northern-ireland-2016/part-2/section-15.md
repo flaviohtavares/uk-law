@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 15. Persons Unable to act[^key-67cd8a40ca91bd1a2cad9b870387fde5]
+## 15. Persons Unable to act[^c-67cd8a40ca91bd1a2cad9b870387fde5]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-67cd8a40ca91bd1a2cad9b870387fde5]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2016/226/regulation/15) coming into operation in accordance with [reg. 1](https://www.legislation.gov.uk/nisr/2016/226/regulation/1)
+[^c-67cd8a40ca91bd1a2cad9b870387fde5]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2016/226/regulation/15) coming into operation in accordance with [reg. 1](https://www.legislation.gov.uk/nisr/2016/226/regulation/1)

@@ -48,13 +48,13 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 In accordance with section 21(1) of the Public Service Pensions Act 2013, the Secretary of State has consulted such persons (or the representatives of such persons) as appeared to the Secretary of State likely to be affected by these Regulations.
 
-In accordance with section 3(5) of the Public Service Pensions Act 2013, the Secretary of State has obtained the consent of the Treasury before making these Regulations.[^key-abad9d436e7e9cc054610b30386e87e6]
+In accordance with section 3(5) of the Public Service Pensions Act 2013, the Secretary of State has obtained the consent of the Treasury before making these Regulations.[^c-abad9d436e7e9cc054610b30386e87e6]
 
-These Regulations are made in accordance with Treasury Directions made under section 85 of the Public Service Pensions and Judicial Offices Act 2022.[^key-abad9d436e7e9cc054610b30386e87e6]
+These Regulations are made in accordance with Treasury Directions made under section 85 of the Public Service Pensions and Judicial Offices Act 2022.[^c-abad9d436e7e9cc054610b30386e87e6]
 
 ## PART 1 — General provision
 
-### 1. Citation, commencement, extent and interpretation[^key-42a3c27226bec9f5e677ada00ebf5112]
+### 1. Citation, commencement, extent and interpretation[^c-42a3c27226bec9f5e677ada00ebf5112]
 
 (1) These Regulations may be cited as the Local Government Pension Scheme (Amendment) (No. 3) Regulations 2023.
 
@@ -69,7 +69,7 @@ These Regulations are made in accordance with Treasury Directions made under sec
 
 ## PART 2 — Amendments relating to the statutory underpin
 
-### 2. Amendment of the Local Government Pension Scheme (Transitional Provisions, Savings and Amendment) Regulations 2014[^key-c75a10b17dcca46ef9fca5990f13940d]
+### 2. Amendment of the Local Government Pension Scheme (Transitional Provisions, Savings and Amendment) Regulations 2014[^c-c75a10b17dcca46ef9fca5990f13940d]
 
 (1) The 2014 Regulations are amended as follows.
 
@@ -599,7 +599,7 @@ These Regulations are made in accordance with Treasury Directions made under sec
 
 (6) Omit regulation 24(4)(a) (underpin age for a person in relation to whom regulation 15 of the 2008 Scheme Transitional Regulations has effect).
 
-### 3. Amendment of the Local Government Pension Scheme Regulations 2013[^key-3399603768959a0dd393ac269c62626e]
+### 3. Amendment of the Local Government Pension Scheme Regulations 2013[^c-3399603768959a0dd393ac269c62626e]
 
 (1) The 2013 Regulations are amended as follows.
 
@@ -745,7 +745,7 @@ These Regulations are made in accordance with Treasury Directions made under sec
 
 ## PART 3 — Provision for certain classes of person
 
-### 4. Application and interpretation of this Part[^key-f8340e6b6768d3c05aa651399d59eb9a]
+### 4. Application and interpretation of this Part[^c-f8340e6b6768d3c05aa651399d59eb9a]
 
 (1) A person in category A is a person—
 
@@ -773,7 +773,7 @@ These Regulations are made in accordance with Treasury Directions made under sec
 
 (6) In this Part, “**final guarantee amount**” has the meaning given in regulation 1(6) of the 2014 Regulations.
 
-### 5. Members who retired or died before 1st October 2023[^key-200fe16cad1d5f80684ec4fcaa6705da]
+### 5. Members who retired or died before 1st October 2023[^c-200fe16cad1d5f80684ec4fcaa6705da]
 
 (1) This regulation applies to a person in category A, B or C.
 
@@ -789,7 +789,7 @@ These Regulations are made in accordance with Treasury Directions made under sec
 
 (7) Where the person elects or elected to commute the amount of pension payable under regulation 33 of the 2013 Regulations (election for lump sum instead of pension), that regulation is to be applied in relation to the final guarantee amount or, as the case may be, the difference between that and the amount payable under regulation 4 of the 2014 Regulations.
 
-### 6. Death grants calculated under regulation 43 of the 2013 Regulations in respect of members who died before 1st October 2023[^key-9c9c735b8566d95cf12890cfacb724a8]
+### 6. Death grants calculated under regulation 43 of the 2013 Regulations in respect of members who died before 1st October 2023[^c-9c9c735b8566d95cf12890cfacb724a8]
 
 (1) This regulation applies to a person in category A, B or C—
 
@@ -809,7 +809,7 @@ These Regulations are made in accordance with Treasury Directions made under sec
 
 (6) In this regulation, “**deferred guarantee amount**” has the meaning given in regulation 4P(3) of the 2014 Regulations.
 
-### 7. Pensioner member death grants in respect of members who died before 1st October 2023[^key-c4dc24b5cf62a509e5988d2037ec8d76]
+### 7. Pensioner member death grants in respect of members who died before 1st October 2023[^c-c4dc24b5cf62a509e5988d2037ec8d76]
 
 (1) This regulation applies to a person in category A, B or C—
 
@@ -823,12 +823,12 @@ These Regulations are made in accordance with Treasury Directions made under sec
 - (a) where there was a single recipient of the death grant, to that recipient; or
 - (b) where there was more than one recipient, to those recipients in the same proportions as they were paid the death grant.
 
-### 8. Survivor benefits in respect of members who died before 2nd October 2023;[^key-f006ced5f107fb4263231b1d2ef4df80][^key-12e2719c535acae9f7578cf502a0785e]
+### 8. Survivor benefits in respect of members who died before 2nd October 2023;[^c-f006ced5f107fb4263231b1d2ef4df80][^c-12e2719c535acae9f7578cf502a0785e]
 
 (1) This regulation applies to a person in category A, B or C—
 
 - (a) who is deceased; and
-- (b) in respect of whom a survivor member’s pension was paid under regulation 41, 42, 44, 45, 47 or 48 of the 2013 Regulations before 2nd October 2023.[^key-103eff21044c4b55fdddaaa72384a46a]
+- (b) in respect of whom a survivor member’s pension was paid under regulation 41, 42, 44, 45, 47 or 48 of the 2013 Regulations before 2nd October 2023.[^c-103eff21044c4b55fdddaaa72384a46a]
 
 (2) Provisional assumed benefits and a provisional underpin amount are to be calculated in relation to the person in accordance with regulations 4I and 4J respectively of the 2014 Regulations.
 
@@ -839,7 +839,7 @@ These Regulations are made in accordance with Treasury Directions made under sec
 - (a) where the person is in category A or B and a proportion of a survivor guarantee amount is payable in respect of the person, it is to be added to the survivor member’s pension account in question without undue delay;
 - (b) where the person is in category C and a survivor member’s pension, including any survivor guarantee amount, payable in respect of the person exceeds the annual rate of the survivor member’s pension which was previously payable, the difference is to be added to the survivor member’s pension account in question without undue delay.
 
-### 9. Members who transferred into the fund before 1st October 2023[^key-950d283bc78a51dc4873e2ad82828e75]
+### 9. Members who transferred into the fund before 1st October 2023[^c-950d283bc78a51dc4873e2ad82828e75]
 
 (1) This regulation applies to a transfer of remediable service into the 2014 Scheme—
 
@@ -856,7 +856,7 @@ These Regulations are made in accordance with Treasury Directions made under sec
 
 that transfer is to be treated as a transfer to which regulation 9(1ZA) and, as the case may be, (1ZB) of the 2014 Regulations applies.
 
-### 10. Members who took a transfer out of the fund before 1st October 2023[^key-9149a2215bff50e749f0af9d4e8bcfcf]
+### 10. Members who took a transfer out of the fund before 1st October 2023[^c-9149a2215bff50e749f0af9d4e8bcfcf]
 
 (1) This regulation applies to a person in category A, B or C—
 
@@ -881,7 +881,7 @@ that transfer is to be treated as a transfer to which regulation 9(1ZA) and, as 
 - “Club Memorandum” and “Club Transfer” have the meanings given in Schedule 1 to the 2013 Regulations;
 - “**new scheme**” has the meaning given in regulation 98(1) of the 2013 Regulations.
 
-### 11. Commutation payments taken before 1st October 2023[^key-ee7446cac28e849ad1d4bb8c10a86a67]
+### 11. Commutation payments taken before 1st October 2023[^c-ee7446cac28e849ad1d4bb8c10a86a67]
 
 (1) This regulation applies to a person in category A, B or C in respect of whom a lump sum is calculated under regulation 34(1) of the 2013 Regulations (trivial commutation) before 1st October 2023 (“**the original payment**”).
 
@@ -891,28 +891,28 @@ that transfer is to be treated as a transfer to which regulation 9(1ZA) and, as 
 
 (4) Notwithstanding regulation 34(3) of the 2013 Regulations (member entitled to no further benefits after payment), where the recalculated payment exceeds the original payment, the difference is to be paid to the person without undue delay.
 
-### 12. Divorce or dissolution of civil partnership before 1st October 2023.[^key-9b8eb241d7edff1e48751fcbb4a22f75]
+### 12. Divorce or dissolution of civil partnership before 1st October 2023.[^c-9b8eb241d7edff1e48751fcbb4a22f75]
 
-(1) This regulation applies to a person (“the pension debit member”)[^key-936277a41e8919e7080d7b77d0ad73c5] with remediable service—
+(1) This regulation applies to a person (“the pension debit member”)[^c-936277a41e8919e7080d7b77d0ad73c5] with remediable service—
 
 - (a) who was divorced, or dissolved a civil partnership, before 1st October 2023 and, in respect of that divorce or dissolution, has a pension sharing order with an effective date on or after 1st April 2014 but before 1st October 2023; and
-- (b) who had the cash equivalent value of their relevant benefits calculated[^key-83ebe60b6f7923d9d1d58151d4240019], because of that divorce or dissolution of civil partnership, [^key-645a7f3c1d0457825d6b05825e895b25]... for the purpose of section 29 of the Welfare Reform and Pensions Act 1999 (“the original calculation”).
+- (b) who had the cash equivalent value of their relevant benefits calculated[^c-83ebe60b6f7923d9d1d58151d4240019], because of that divorce or dissolution of civil partnership, [^c-645a7f3c1d0457825d6b05825e895b25]... for the purpose of section 29 of the Welfare Reform and Pensions Act 1999 (“the original calculation”).
 
-(2) Unless paragraph (2A) applies, the[^key-93ca8fbf32508e0348262350899e2099] cash equivalent value of the pension debit member’s[^key-5a306afa6d3cf6da05eda46bbbbe3093] relevant benefits for the purpose of section 29 of the Welfare Reform and Pensions Act 1999 is to be recalculated as at the date on which the original calculation was made in accordance with actuarial guidance issued by the Secretary of State.
+(2) Unless paragraph (2A) applies, the[^c-93ca8fbf32508e0348262350899e2099] cash equivalent value of the pension debit member’s[^c-5a306afa6d3cf6da05eda46bbbbe3093] relevant benefits for the purpose of section 29 of the Welfare Reform and Pensions Act 1999 is to be recalculated as at the date on which the original calculation was made in accordance with actuarial guidance issued by the Secretary of State.
 
-(2A)[^key-fd6c0f96c438cadc314604cb95565b8c] This paragraph applies where, before the application of this regulation, the appropriate amount in relation to the pension sharing order was the specified amount under section 29(3)(a) of the Welfare Reform and Pensions Act 1999.
+(2A)[^c-fd6c0f96c438cadc314604cb95565b8c] This paragraph applies where, before the application of this regulation, the appropriate amount in relation to the pension sharing order was the specified amount under section 29(3)(a) of the Welfare Reform and Pensions Act 1999.
 
-(3) Where one of the dates set out in regulation 4H(1) of the 2014 Regulations (statutory underpin: final underpin date) occurred in relation to the pension debit member[^key-9045ebaedeb443bfd98c0e2eaf461890] before the date on which the pension sharing order in respect of their divorce or the dissolution of their civil partnership took effect—
+(3) Where one of the dates set out in regulation 4H(1) of the 2014 Regulations (statutory underpin: final underpin date) occurred in relation to the pension debit member[^c-9045ebaedeb443bfd98c0e2eaf461890] before the date on which the pension sharing order in respect of their divorce or the dissolution of their civil partnership took effect—
 
 - (a) regulations 4A to 4V of the 2014 Regulations are to be applied to the pension debit member; and
 - (b) the recalculation must take into account any final guarantee amount to which the pension debit member is entitled.
 
-(4) Where one of the dates set out in regulation 4G of the 2014 Regulations (statutory underpin: underpin date) occurred in relation to the pension debit member[^key-5043e01bdeda73b0b90d2c9ec2d6ad27] before the date on which the pension sharing order in respect of their divorce or the dissolution of their civil partnership took effect but not one of the dates in regulation 4H of those Regulations—
+(4) Where one of the dates set out in regulation 4G of the 2014 Regulations (statutory underpin: underpin date) occurred in relation to the pension debit member[^c-5043e01bdeda73b0b90d2c9ec2d6ad27] before the date on which the pension sharing order in respect of their divorce or the dissolution of their civil partnership took effect but not one of the dates in regulation 4H of those Regulations—
 
 - (a) regulations 4A to 4V of the 2014 Regulations are to be applied to the pension debit member; and
 - (b) the recalculation must take into account the provisional assumed benefits and provisional underpin amount calculated under regulations 4I and 4J respectively of the 2014 Regulations.
 
-(5)[^key-601eabc73d1b399d1759a121efe9e616] If the recalculated cash equivalent value exceeds the original calculation—
+(5)[^c-601eabc73d1b399d1759a121efe9e616] If the recalculated cash equivalent value exceeds the original calculation—
 
 - (a) the appropriate amount is to be recalculated based on the recalculated cash equivalent value and on the same basis as which applied for the purposes of the original calculation;
 - (b) the pension debit member’s pension accounts are to be adjusted to give effect to the recalculated pension debit in accordance with actuarial guidance issued by the Secretary of State;
@@ -948,7 +948,7 @@ that transfer is to be treated as a transfer to which regulation 9(1ZA) and, as 
 - (a) it is to be recalculated based on the recalculated pension credit;
 - (b) the difference between the recalculated annual pension and the pension in payment is to be added to the retirement pension account, from the date that they first took payment of the pension.
 
-(6A)[^key-84146689e5753eb4bb95613f125f1b68] If the pension credit member died before 1st October 2023, and their pension was in payment on the date of their death—
+(6A)[^c-84146689e5753eb4bb95613f125f1b68] If the pension credit member died before 1st October 2023, and their pension was in payment on the date of their death—
 
 - (a) the pension is to be recalculated based on the recalculated pension credit;
 - (b) the difference between the recalculated annual pension and the pension that was in payment, from the date the pension credit member first took payment of the pension to the date of their death, is to be paid to the pension credit member’s personal representatives without undue delay.
@@ -985,12 +985,12 @@ that transfer is to be treated as a transfer to which regulation 9(1ZA) and, as 
 - (a) the original payment is to be recalculated in accordance with actuarial guidance issued by the Secretary of State, taking into account the recalculated pension based on the recalculated pension credit;
 - (b) the administering authority must take reasonable steps to pay the difference to the recipient of that original payment.
 
-(7)[^key-e17ad88c6db4df4afc9ddd8237f6bfb5] In this regulation—
+(7)[^c-e17ad88c6db4df4afc9ddd8237f6bfb5] In this regulation—
 
 - “**appropriate amount**” and “**relevant benefits**” have the same meaning as in [section 29](https://www.legislation.gov.uk/ukpga/1999/30/section/29) of the [Welfare Reform and Pensions Act 1999](https://www.legislation.gov.uk/ukpga/1999/30/contents);
 - “**pension credit**”, “**pension debit**” and “**pension sharing order**” have the meaning given in Schedule 1 to the 2013 Regulations.
 
-### 13. Persons with underpin dates before 1st October 2023[^key-80bb7237332e46f77f1bf061f3e6051b]
+### 13. Persons with underpin dates before 1st October 2023[^c-80bb7237332e46f77f1bf061f3e6051b]
 
 (1) This regulation applies to a person—
 
@@ -1018,26 +1018,26 @@ that transfer is to be treated as a transfer to which regulation 9(1ZA) and, as 
 
 .
 
-### 14. Interest on payments under the statutory underpin[^key-db6ec63af4902c52a7e785b8000f8d53]
+### 14. Interest on payments under the statutory underpin[^c-db6ec63af4902c52a7e785b8000f8d53]
 
-(1) This regulation applies in relation to a person to whom regulation 5(3), (4), (5), (6) or (7), 6(5), 7(3), 8(4)(a) or (b), 10(5), 11(4) or 12(5A)(b), (6)(b), (6A)(b), (6B)(b), (6C)(b), (6D)(b), (6E)(b) or (c)(ii), or (6F)(b)[^key-5a28a330545e559b2a5bede48fb70584] applies.
+(1) This regulation applies in relation to a person to whom regulation 5(3), (4), (5), (6) or (7), 6(5), 7(3), 8(4)(a) or (b), 10(5), 11(4) or 12(5A)(b), (6)(b), (6A)(b), (6B)(b), (6C)(b), (6D)(b), (6E)(b) or (c)(ii), or (6F)(b)[^c-5a28a330545e559b2a5bede48fb70584] applies.
 
 (2) An administering authority must pay interest in respect of the following sums—
 
 - (a) the amount to be added to the person’s pension account under regulation 5(3) or (4) (retired members) relating to the period beginning with the date on which the pension in question was put into payment and ending with the date on which the final guarantee amount was added to the pension account;
-- (b) the amount to be paid under regulation 5(5) or (6) or 12(6A)(b)[^key-43d56bf835e86de7004cf2e2cb7be688] (deceased members);
+- (b) the amount to be paid under regulation 5(5) or (6) or 12(6A)(b)[^c-43d56bf835e86de7004cf2e2cb7be688] (deceased members);
 - (c) where regulation 5(7) applies (person who elected to commute an amount of their pension), any new lump sum arising from the amount added to the person’s account under regulation 5(3) or (4);
-- (d) the amount to be paid under regulation 6(5), 7(3), or 12(6B)(b) or (6C)(b)[^key-7d0e8f1c80823afb9470952ffc55e140] (death grants);
+- (d) the amount to be paid under regulation 6(5), 7(3), or 12(6B)(b) or (6C)(b)[^c-7d0e8f1c80823afb9470952ffc55e140] (death grants);
 - (e) the amount to be added to the survivor member’s pension account under regulation 8(4)(a) or (b) (survivor member’s pension account) relating to the period beginning with the date on which the survivor pension was put into payment and ending with the date on which the survivor guarantee amount was added to the survivor pension account;
-- (f) the amount to be paid to the member under regulation 11(4) or 12(6E)(b) or (c)(ii)[^key-95426af05afacab275fc4a9b96e995e4] (commutation payments);
+- (f) the amount to be paid to the member under regulation 11(4) or 12(6E)(b) or (c)(ii)[^c-95426af05afacab275fc4a9b96e995e4] (commutation payments);
 - (g) the amount to be added under regulation 12(6)(b) (difference between recalculated pension credit and pension in payment) relating to the period beginning with the date on which the pension credit member’s pension was put into payment and ending with the date on which the difference between the recalculated annual pension and the pension in payment is to be added to the retirement pension account under regulation 12(6)(b).
 
-(3)[^key-453fcb189be7a76d78cc2e4bbee56579] An administering authority must take reasonable steps to pay interest in respect of—
+(3)[^c-453fcb189be7a76d78cc2e4bbee56579] An administering authority must take reasonable steps to pay interest in respect of—
 
 - (a) the amount to be paid to the scheme under regulation 10(5) or 12(6D)(b), unless the transfer to which that amount relates was a transfer to which paragraph (3A) applies;
 - (b) the amount to be paid to the person under regulation 12(6F)(b).
 
-(3A)[^key-e95e3ac623568d822cda348343f91712] This paragraph applies to a transfer which—
+(3A)[^c-e95e3ac623568d822cda348343f91712] This paragraph applies to a transfer which—
 
 - (a) is a Club Transfer, and
 - (b) is not a transfer—
@@ -1051,24 +1051,24 @@ that transfer is to be treated as a transfer to which regulation 9(1ZA) and, as 
 - (c) where paragraph (2)(d) applies, to the recipient of the death grant;
 - (d) where paragraph (2)(e) applies, to the person who has the survivor member’s pension account;
 - (e) where paragraph (2)(g) applies, to the pension credit member;
-- (f) where paragraph (3)(a)[^key-65b883430be96ee2cfd829577bcce518] applies, to the scheme that received the original transfer;
-- (g)[^key-f7b47c8e3139dd654fd7e2c21e31caba] where paragraph (3)(b) applies, to the person that received the original payment.
+- (f) where paragraph (3)(a)[^c-65b883430be96ee2cfd829577bcce518] applies, to the scheme that received the original transfer;
+- (g)[^c-f7b47c8e3139dd654fd7e2c21e31caba] where paragraph (3)(b) applies, to the person that received the original payment.
 
 (5) Interest under this regulation is payable from the relevant date until the day on which the amount in respect of which the interest is payable and the accrued interest are repaid in full.
 
 (6) The “relevant date” is—
 
-- (a) where regulation 5(3), (4), (5) or (6) or 12(6A)(b) or (6E)(c)(ii)[^key-c487313a776a511765fc4c365ffee811] applies, the day that falls half-way through the period beginning with the day after the member’s final underpin date and ending with the date on which payment is made;
+- (a) where regulation 5(3), (4), (5) or (6) or 12(6A)(b) or (6E)(c)(ii)[^c-c487313a776a511765fc4c365ffee811] applies, the day that falls half-way through the period beginning with the day after the member’s final underpin date and ending with the date on which payment is made;
 - (b) where regulation 5(7) applies, the earliest day from which the administering authority would have been able to make the payment for a lump sum paid under regulation 5(7);
-- (c) where regulation 6(5), 7(3), 10(5) , 11(4) or 12(6B)(b), (6C)(b), (6D)(b), (6E)(b) or (6F)(b)[^key-a15c66d5f9a99d39ef79d7b380e4e5d0] applies, the day on which the original payment was made;
+- (c) where regulation 6(5), 7(3), 10(5) , 11(4) or 12(6B)(b), (6C)(b), (6D)(b), (6E)(b) or (6F)(b)[^c-a15c66d5f9a99d39ef79d7b380e4e5d0] applies, the day on which the original payment was made;
 - (d) where regulation 8(4)(a) or (b) applies, the day that falls half-way through the period beginning with the day after the person’s date of death and ending with the date on which payment is made;
 - (e) where regulation 12(6)(b) applies, the day that falls half-way through the period beginning with the day on which the pension credit member’s pension was put into payment and ending with the date on which payment is made.
 
 (7) In paragraph (6)(c), “**original payment**” means—
 
 - (a) the death grant;
-- (b) the transfer out; [^key-449083d1e157c996d0121f27d7cc8cdb]...
-- (c) the lump sum ; or[^key-737d51a3d1077f31a64900620124bdf8]
+- (b) the transfer out; [^c-449083d1e157c996d0121f27d7cc8cdb]...
+- (c) the lump sum ; or[^c-737d51a3d1077f31a64900620124bdf8]
 - (d) the payment under paragraph 1(3) of Schedule 5 to the Welfare Reform and Pensions Act 1999
 
 that was paid, or, as the case may be, made before 1st October 2023.
@@ -1083,7 +1083,7 @@ that was paid, or, as the case may be, made before 1st October 2023.
 - “**pension credit member**” has the meaning given in regulation 8(1) of the 2013 Regulations;
 - “**the PSP Directions 2022**” means the Public Service Pensions (Exercise of Powers, Compensation and Information) Directions 2022.
 
-### 15. Interest on compensation[^key-d4bc70c24f6b1e8897436efae5c5a645]
+### 15. Interest on compensation[^c-d4bc70c24f6b1e8897436efae5c5a645]
 
 (1) This regulation applies in relation to a person to whom compensation is paid under [section 82](https://www.legislation.gov.uk/ukpga/2022/7/section/82)[(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/82) of the [Public Service Pensions and Judicial Offices Act 2022](https://www.legislation.gov.uk/ukpga/2022/7/contents) (power to pay compensation).
 
@@ -1219,15 +1219,15 @@ No impact assessment has been produced for this instrument as no, or no signific
 
 [^f00002]: Footnote: [2022 c. 7](https://www.legislation.gov.uk/ukpga/2022/7).
 
-[^key-abad9d436e7e9cc054610b30386e87e6]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2023/972) excluded in part (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Local Government Pension Scheme (Information) Regulations 2024 (S.I. 2024/880)](https://www.legislation.gov.uk/uksi/2024/880), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/880/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/880/regulation/2/2)[(3)(b)](https://www.legislation.gov.uk/uksi/2024/880/regulation/2/3/b)
+[^c-abad9d436e7e9cc054610b30386e87e6]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2023/972) excluded in part (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Local Government Pension Scheme (Information) Regulations 2024 (S.I. 2024/880)](https://www.legislation.gov.uk/uksi/2024/880), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/880/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/880/regulation/2/2)[(3)(b)](https://www.legislation.gov.uk/uksi/2024/880/regulation/2/3/b)
 
-[^key-42a3c27226bec9f5e677ada00ebf5112]: Commencement: Reg. 1 in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/972/regulation/1/2)
+[^c-42a3c27226bec9f5e677ada00ebf5112]: Commencement: Reg. 1 in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/972/regulation/1/2)
 
 [^f00003]: Footnote: [S.I. 2013/2356](https://www.legislation.gov.uk/uksi/2013/2356); amended by section 10(2) of, and paragraph 5(1)(a) of Schedule 6 to the Enterprise Act [2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), and [S.I. 2014/44](https://www.legislation.gov.uk/uksi/2014/44), [S.I. 2014/525](https://www.legislation.gov.uk/uksi/2014/525), [S.I. 2014/1146](https://www.legislation.gov.uk/uksi/2014/1146), [S.I. 2014/3255](https://www.legislation.gov.uk/uksi/2014/3255), [S.I. 2015/57](https://www.legislation.gov.uk/uksi/2015/57), [2015/755](https://www.legislation.gov.uk/uksi/2015/755), [S.I. 2018/493](https://www.legislation.gov.uk/uksi/2018/493), [S.I. 2019/1449](https://www.legislation.gov.uk/uksi/2019/1449), [S.I. 2020/123](https://www.legislation.gov.uk/uksi/2020/123), [2020/179](https://www.legislation.gov.uk/uksi/2020/179), [2020/354](https://www.legislation.gov.uk/uksi/2020/354), [2020/893](https://www.legislation.gov.uk/uksi/2020/893), [S.I. 2021/271](https://www.legislation.gov.uk/uksi/2021/271), [S.I. 2023/187](https://www.legislation.gov.uk/uksi/2023/187), [2023/279](https://www.legislation.gov.uk/uksi/2023/279) and [2023/522](https://www.legislation.gov.uk/uksi/2023/522).
 
 [^f00004]: Footnote: [S.I. 2014/525](https://www.legislation.gov.uk/uksi/2014/525); amended by [S.I. 2018/493](https://www.legislation.gov.uk/uksi/2018/493), [2018/1366](https://www.legislation.gov.uk/uksi/2018/1366). There are other amendments not relevant to these Regulations.
 
-[^key-c75a10b17dcca46ef9fca5990f13940d]: Commencement: Reg. 2 in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/972/regulation/1/2)
+[^c-c75a10b17dcca46ef9fca5990f13940d]: Commencement: Reg. 2 in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/972/regulation/1/2)
 
 [^f00005]: Footnote: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment\_data/file/1124480/The\_Public\_Service\_Pensions\_\_Exercise\_of\_Powers\_Compensation\_and\_Information\_\_Directions\_2022.pdf. A hard copy is available on request to His Majesty’s Treasury, 1 Horse Guards Road, London, SW1A 2HQ.
 
@@ -1267,80 +1267,80 @@ No impact assessment has been produced for this instrument as no, or no signific
 
 [^f00023]: Footnote: [1995 c. 26](https://www.legislation.gov.uk/ukpga/1995/26). Section 50 was substituted by section 273 of the Pensions Act [2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35) and amended by section 16 of the Pensions Act [2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22).
 
-[^key-3399603768959a0dd393ac269c62626e]: Commencement: Reg. 3 in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/972/regulation/1/2)
+[^c-3399603768959a0dd393ac269c62626e]: Commencement: Reg. 3 in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/972/regulation/1/2)
 
-[^key-f8340e6b6768d3c05aa651399d59eb9a]: Commencement: Reg. 4 in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/972/regulation/1/2)
+[^c-f8340e6b6768d3c05aa651399d59eb9a]: Commencement: Reg. 4 in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/972/regulation/1/2)
 
 [^f00024]: Footnote: For the meaning of remediable service, including the period in which it must take place, see section 77 of the Public Service Pensions and Judicial Offices Act [2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7).
 
-[^key-200fe16cad1d5f80684ec4fcaa6705da]: Commencement: Reg. 5 in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/972/regulation/1/2)
+[^c-200fe16cad1d5f80684ec4fcaa6705da]: Commencement: Reg. 5 in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/972/regulation/1/2)
 
-[^key-9c9c735b8566d95cf12890cfacb724a8]: Commencement: Reg. 6 in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/972/regulation/1/2)
+[^c-9c9c735b8566d95cf12890cfacb724a8]: Commencement: Reg. 6 in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/972/regulation/1/2)
 
-[^key-c4dc24b5cf62a509e5988d2037ec8d76]: Commencement: Reg. 7 in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/972/regulation/1/2)
+[^c-c4dc24b5cf62a509e5988d2037ec8d76]: Commencement: Reg. 7 in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/972/regulation/1/2)
 
-[^key-f006ced5f107fb4263231b1d2ef4df80]: Commencement: Reg. 8 in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/972/regulation/1/2)
+[^c-f006ced5f107fb4263231b1d2ef4df80]: Commencement: Reg. 8 in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/972/regulation/1/2)
 
-[^key-12e2719c535acae9f7578cf502a0785e]: Textual amendment: Words in [reg. 8](https://www.legislation.gov.uk/uksi/2023/972/regulation/8) heading substituted (with effect from 1.10.2023) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/b), [45(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/45/a)
+[^c-12e2719c535acae9f7578cf502a0785e]: Textual amendment: Words in [reg. 8](https://www.legislation.gov.uk/uksi/2023/972/regulation/8) heading substituted (with effect from 1.10.2023) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/b), [45(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/45/a)
 
-[^key-103eff21044c4b55fdddaaa72384a46a]: Textual amendment: Words in [reg. 8(1)(b)](https://www.legislation.gov.uk/uksi/2023/972/regulation/8/1/b) substituted (with effect from 1.10.2023) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/b), [45(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/45/b)
+[^c-103eff21044c4b55fdddaaa72384a46a]: Textual amendment: Words in [reg. 8(1)(b)](https://www.legislation.gov.uk/uksi/2023/972/regulation/8/1/b) substituted (with effect from 1.10.2023) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/b), [45(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/45/b)
 
-[^key-950d283bc78a51dc4873e2ad82828e75]: Commencement: Reg. 9 in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/972/regulation/1/2)
+[^c-950d283bc78a51dc4873e2ad82828e75]: Commencement: Reg. 9 in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/972/regulation/1/2)
 
-[^key-9149a2215bff50e749f0af9d4e8bcfcf]: Commencement: Reg. 10 in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/972/regulation/1/2)
+[^c-9149a2215bff50e749f0af9d4e8bcfcf]: Commencement: Reg. 10 in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/972/regulation/1/2)
 
-[^key-ee7446cac28e849ad1d4bb8c10a86a67]: Commencement: Reg. 11 in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/972/regulation/1/2)
+[^c-ee7446cac28e849ad1d4bb8c10a86a67]: Commencement: Reg. 11 in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/972/regulation/1/2)
 
-[^key-9b8eb241d7edff1e48751fcbb4a22f75]: Commencement: Reg. 12 in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/972/regulation/1/2)
+[^c-9b8eb241d7edff1e48751fcbb4a22f75]: Commencement: Reg. 12 in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/972/regulation/1/2)
 
-[^key-936277a41e8919e7080d7b77d0ad73c5]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/uksi/2023/972/regulation/12/1) inserted (with effect from 1.10.2023) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/b), [46(a)(i)](https://www.legislation.gov.uk/uksi/2026/226/regulation/46/a/i)
+[^c-936277a41e8919e7080d7b77d0ad73c5]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/uksi/2023/972/regulation/12/1) inserted (with effect from 1.10.2023) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/b), [46(a)(i)](https://www.legislation.gov.uk/uksi/2026/226/regulation/46/a/i)
 
-[^key-83ebe60b6f7923d9d1d58151d4240019]: Textual amendment: Words in [reg. 12(1)(b)](https://www.legislation.gov.uk/uksi/2023/972/regulation/12/1/b) substituted (with effect from 1.10.2023) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/b), [46(a)(ii)(aa)](https://www.legislation.gov.uk/uksi/2026/226/regulation/46/a/ii/aa)
+[^c-83ebe60b6f7923d9d1d58151d4240019]: Textual amendment: Words in [reg. 12(1)(b)](https://www.legislation.gov.uk/uksi/2023/972/regulation/12/1/b) substituted (with effect from 1.10.2023) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/b), [46(a)(ii)(aa)](https://www.legislation.gov.uk/uksi/2026/226/regulation/46/a/ii/aa)
 
-[^key-645a7f3c1d0457825d6b05825e895b25]: Textual amendment: Word in [reg. 12(1)(b)](https://www.legislation.gov.uk/uksi/2023/972/regulation/12/1/b) omitted (with effect from 1.10.2023) by virtue of [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/b), [46(a)(ii)(bb)](https://www.legislation.gov.uk/uksi/2026/226/regulation/46/a/ii/bb)
+[^c-645a7f3c1d0457825d6b05825e895b25]: Textual amendment: Word in [reg. 12(1)(b)](https://www.legislation.gov.uk/uksi/2023/972/regulation/12/1/b) omitted (with effect from 1.10.2023) by virtue of [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/b), [46(a)(ii)(bb)](https://www.legislation.gov.uk/uksi/2026/226/regulation/46/a/ii/bb)
 
-[^key-93ca8fbf32508e0348262350899e2099]: Textual amendment: Words in [reg. 12(2)](https://www.legislation.gov.uk/uksi/2023/972/regulation/12/2) substituted (with effect from 1.10.2023) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/b), [46(b)(i)](https://www.legislation.gov.uk/uksi/2026/226/regulation/46/b/i)
+[^c-93ca8fbf32508e0348262350899e2099]: Textual amendment: Words in [reg. 12(2)](https://www.legislation.gov.uk/uksi/2023/972/regulation/12/2) substituted (with effect from 1.10.2023) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/b), [46(b)(i)](https://www.legislation.gov.uk/uksi/2026/226/regulation/46/b/i)
 
-[^key-5a306afa6d3cf6da05eda46bbbbe3093]: Textual amendment: Words in [reg. 12(2)](https://www.legislation.gov.uk/uksi/2023/972/regulation/12/2) substituted (with effect from 1.10.2023) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/b), [46(b)(ii)](https://www.legislation.gov.uk/uksi/2026/226/regulation/46/b/ii)
+[^c-5a306afa6d3cf6da05eda46bbbbe3093]: Textual amendment: Words in [reg. 12(2)](https://www.legislation.gov.uk/uksi/2023/972/regulation/12/2) substituted (with effect from 1.10.2023) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/b), [46(b)(ii)](https://www.legislation.gov.uk/uksi/2026/226/regulation/46/b/ii)
 
-[^key-fd6c0f96c438cadc314604cb95565b8c]: Textual amendment: [Reg. 12(2A)](https://www.legislation.gov.uk/uksi/2023/972/regulation/12/2A) inserted (with effect from 1.10.2023) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/b), [46(c)](https://www.legislation.gov.uk/uksi/2026/226/regulation/46/c)
+[^c-fd6c0f96c438cadc314604cb95565b8c]: Textual amendment: [Reg. 12(2A)](https://www.legislation.gov.uk/uksi/2023/972/regulation/12/2A) inserted (with effect from 1.10.2023) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/b), [46(c)](https://www.legislation.gov.uk/uksi/2026/226/regulation/46/c)
 
-[^key-9045ebaedeb443bfd98c0e2eaf461890]: Textual amendment: Words in [reg. 12(3)](https://www.legislation.gov.uk/uksi/2023/972/regulation/12/3) substituted (with effect from 1.10.2023) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/b), [46(d)](https://www.legislation.gov.uk/uksi/2026/226/regulation/46/d)
+[^c-9045ebaedeb443bfd98c0e2eaf461890]: Textual amendment: Words in [reg. 12(3)](https://www.legislation.gov.uk/uksi/2023/972/regulation/12/3) substituted (with effect from 1.10.2023) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/b), [46(d)](https://www.legislation.gov.uk/uksi/2026/226/regulation/46/d)
 
-[^key-5043e01bdeda73b0b90d2c9ec2d6ad27]: Textual amendment: Words in [reg. 12(4)](https://www.legislation.gov.uk/uksi/2023/972/regulation/12/4) substituted (with effect from 1.10.2023) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/b), [46(e)](https://www.legislation.gov.uk/uksi/2026/226/regulation/46/e)
+[^c-5043e01bdeda73b0b90d2c9ec2d6ad27]: Textual amendment: Words in [reg. 12(4)](https://www.legislation.gov.uk/uksi/2023/972/regulation/12/4) substituted (with effect from 1.10.2023) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/b), [46(e)](https://www.legislation.gov.uk/uksi/2026/226/regulation/46/e)
 
-[^key-601eabc73d1b399d1759a121efe9e616]: Textual amendment: [Reg. 12(5)-(5C)](https://www.legislation.gov.uk/uksi/2023/972/regulation/12/5) substituted for [reg. 12(5)](https://www.legislation.gov.uk/uksi/2023/972/regulation/12/5) (with effect from 1.10.2023) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/b), [46(f)](https://www.legislation.gov.uk/uksi/2026/226/regulation/46/f)
+[^c-601eabc73d1b399d1759a121efe9e616]: Textual amendment: [Reg. 12(5)-(5C)](https://www.legislation.gov.uk/uksi/2023/972/regulation/12/5) substituted for [reg. 12(5)](https://www.legislation.gov.uk/uksi/2023/972/regulation/12/5) (with effect from 1.10.2023) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/b), [46(f)](https://www.legislation.gov.uk/uksi/2026/226/regulation/46/f)
 
-[^key-84146689e5753eb4bb95613f125f1b68]: Textual amendment: [Reg. 12(6A)-(6F)](https://www.legislation.gov.uk/uksi/2023/972/regulation/12/6A) inserted (with effect from 1.10.2023) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/b), [46(g)](https://www.legislation.gov.uk/uksi/2026/226/regulation/46/g)
+[^c-84146689e5753eb4bb95613f125f1b68]: Textual amendment: [Reg. 12(6A)-(6F)](https://www.legislation.gov.uk/uksi/2023/972/regulation/12/6A) inserted (with effect from 1.10.2023) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/b), [46(g)](https://www.legislation.gov.uk/uksi/2026/226/regulation/46/g)
 
-[^key-e17ad88c6db4df4afc9ddd8237f6bfb5]: Textual amendment: [Reg. 12(7)](https://www.legislation.gov.uk/uksi/2023/972/regulation/12/7) substituted (with effect from 1.10.2023) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/b), [46(h)](https://www.legislation.gov.uk/uksi/2026/226/regulation/46/h)
+[^c-e17ad88c6db4df4afc9ddd8237f6bfb5]: Textual amendment: [Reg. 12(7)](https://www.legislation.gov.uk/uksi/2023/972/regulation/12/7) substituted (with effect from 1.10.2023) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/b), [46(h)](https://www.legislation.gov.uk/uksi/2026/226/regulation/46/h)
 
-[^key-80bb7237332e46f77f1bf061f3e6051b]: Commencement: Reg. 13 in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/972/regulation/1/2)
+[^c-80bb7237332e46f77f1bf061f3e6051b]: Commencement: Reg. 13 in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/972/regulation/1/2)
 
-[^key-db6ec63af4902c52a7e785b8000f8d53]: Commencement: Reg. 14 in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/972/regulation/1/2)
+[^c-db6ec63af4902c52a7e785b8000f8d53]: Commencement: Reg. 14 in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/972/regulation/1/2)
 
-[^key-5a28a330545e559b2a5bede48fb70584]: Textual amendment: Words in [reg. 14(1)](https://www.legislation.gov.uk/uksi/2023/972/regulation/14/1) substituted (with effect from 1.10.2023) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/b), [47(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/47/a)
+[^c-5a28a330545e559b2a5bede48fb70584]: Textual amendment: Words in [reg. 14(1)](https://www.legislation.gov.uk/uksi/2023/972/regulation/14/1) substituted (with effect from 1.10.2023) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/b), [47(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/47/a)
 
-[^key-43d56bf835e86de7004cf2e2cb7be688]: Textual amendment: Words in [reg. 14(2)(b)](https://www.legislation.gov.uk/uksi/2023/972/regulation/14/2/b) inserted (with effect from 1.10.2023) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/b), [47(b)(i)](https://www.legislation.gov.uk/uksi/2026/226/regulation/47/b/i)
+[^c-43d56bf835e86de7004cf2e2cb7be688]: Textual amendment: Words in [reg. 14(2)(b)](https://www.legislation.gov.uk/uksi/2023/972/regulation/14/2/b) inserted (with effect from 1.10.2023) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/b), [47(b)(i)](https://www.legislation.gov.uk/uksi/2026/226/regulation/47/b/i)
 
-[^key-7d0e8f1c80823afb9470952ffc55e140]: Textual amendment: Words in [reg. 14(2)(d)](https://www.legislation.gov.uk/uksi/2023/972/regulation/14/2/d) substituted (with effect from 1.10.2023) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/b), [47(b)(ii)](https://www.legislation.gov.uk/uksi/2026/226/regulation/47/b/ii)
+[^c-7d0e8f1c80823afb9470952ffc55e140]: Textual amendment: Words in [reg. 14(2)(d)](https://www.legislation.gov.uk/uksi/2023/972/regulation/14/2/d) substituted (with effect from 1.10.2023) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/b), [47(b)(ii)](https://www.legislation.gov.uk/uksi/2026/226/regulation/47/b/ii)
 
-[^key-95426af05afacab275fc4a9b96e995e4]: Textual amendment: Words in [reg. 14(2)(f)](https://www.legislation.gov.uk/uksi/2023/972/regulation/14/2/f) inserted (with effect from 1.10.2023) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/b), [47(b)(iii)](https://www.legislation.gov.uk/uksi/2026/226/regulation/47/b/iii)
+[^c-95426af05afacab275fc4a9b96e995e4]: Textual amendment: Words in [reg. 14(2)(f)](https://www.legislation.gov.uk/uksi/2023/972/regulation/14/2/f) inserted (with effect from 1.10.2023) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/b), [47(b)(iii)](https://www.legislation.gov.uk/uksi/2026/226/regulation/47/b/iii)
 
-[^key-453fcb189be7a76d78cc2e4bbee56579]: Textual amendment: [Reg. 14(3)](https://www.legislation.gov.uk/uksi/2023/972/regulation/14/3) substituted (with effect from 1.10.2023) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/b), [47(c)](https://www.legislation.gov.uk/uksi/2026/226/regulation/47/c)
+[^c-453fcb189be7a76d78cc2e4bbee56579]: Textual amendment: [Reg. 14(3)](https://www.legislation.gov.uk/uksi/2023/972/regulation/14/3) substituted (with effect from 1.10.2023) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/b), [47(c)](https://www.legislation.gov.uk/uksi/2026/226/regulation/47/c)
 
-[^key-e95e3ac623568d822cda348343f91712]: Textual amendment: [Reg. 14(3A)](https://www.legislation.gov.uk/uksi/2023/972/regulation/14/3A) inserted (with effect from 1.10.2023) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/b), [47(d)](https://www.legislation.gov.uk/uksi/2026/226/regulation/47/d)
+[^c-e95e3ac623568d822cda348343f91712]: Textual amendment: [Reg. 14(3A)](https://www.legislation.gov.uk/uksi/2023/972/regulation/14/3A) inserted (with effect from 1.10.2023) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/b), [47(d)](https://www.legislation.gov.uk/uksi/2026/226/regulation/47/d)
 
-[^key-65b883430be96ee2cfd829577bcce518]: Textual amendment: Word in [reg. 14(4)(f)](https://www.legislation.gov.uk/uksi/2023/972/regulation/14/4/f) substituted (with effect from 1.10.2023) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/b), [47(e)(i)](https://www.legislation.gov.uk/uksi/2026/226/regulation/47/e/i)
+[^c-65b883430be96ee2cfd829577bcce518]: Textual amendment: Word in [reg. 14(4)(f)](https://www.legislation.gov.uk/uksi/2023/972/regulation/14/4/f) substituted (with effect from 1.10.2023) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/b), [47(e)(i)](https://www.legislation.gov.uk/uksi/2026/226/regulation/47/e/i)
 
-[^key-f7b47c8e3139dd654fd7e2c21e31caba]: Textual amendment: [Reg. 14(4)(g)](https://www.legislation.gov.uk/uksi/2023/972/regulation/14/4/g) inserted (with effect from 1.10.2023) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/b), [47(e)(ii)](https://www.legislation.gov.uk/uksi/2026/226/regulation/47/e/ii)
+[^c-f7b47c8e3139dd654fd7e2c21e31caba]: Textual amendment: [Reg. 14(4)(g)](https://www.legislation.gov.uk/uksi/2023/972/regulation/14/4/g) inserted (with effect from 1.10.2023) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/b), [47(e)(ii)](https://www.legislation.gov.uk/uksi/2026/226/regulation/47/e/ii)
 
-[^key-c487313a776a511765fc4c365ffee811]: Textual amendment: Words in [reg. 14(6)(a)](https://www.legislation.gov.uk/uksi/2023/972/regulation/14/6/a) inserted (with effect from 1.10.2023) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/b), [47(f)(i)](https://www.legislation.gov.uk/uksi/2026/226/regulation/47/f/i)
+[^c-c487313a776a511765fc4c365ffee811]: Textual amendment: Words in [reg. 14(6)(a)](https://www.legislation.gov.uk/uksi/2023/972/regulation/14/6/a) inserted (with effect from 1.10.2023) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/b), [47(f)(i)](https://www.legislation.gov.uk/uksi/2026/226/regulation/47/f/i)
 
-[^key-a15c66d5f9a99d39ef79d7b380e4e5d0]: Textual amendment: Words in [reg. 14(6)(c)](https://www.legislation.gov.uk/uksi/2023/972/regulation/14/6/c) substituted (with effect from 1.10.2023) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/b), [47(f)(ii)](https://www.legislation.gov.uk/uksi/2026/226/regulation/47/f/ii)
+[^c-a15c66d5f9a99d39ef79d7b380e4e5d0]: Textual amendment: Words in [reg. 14(6)(c)](https://www.legislation.gov.uk/uksi/2023/972/regulation/14/6/c) substituted (with effect from 1.10.2023) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/b), [47(f)(ii)](https://www.legislation.gov.uk/uksi/2026/226/regulation/47/f/ii)
 
-[^key-449083d1e157c996d0121f27d7cc8cdb]: Textual amendment: Word in [reg. 14(7)](https://www.legislation.gov.uk/uksi/2023/972/regulation/14/7) omitted (with effect from 1.10.2023) by virtue of [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/b), [47(g)(i)](https://www.legislation.gov.uk/uksi/2026/226/regulation/47/g/i)
+[^c-449083d1e157c996d0121f27d7cc8cdb]: Textual amendment: Word in [reg. 14(7)](https://www.legislation.gov.uk/uksi/2023/972/regulation/14/7) omitted (with effect from 1.10.2023) by virtue of [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/b), [47(g)(i)](https://www.legislation.gov.uk/uksi/2026/226/regulation/47/g/i)
 
-[^key-737d51a3d1077f31a64900620124bdf8]: Textual amendment: [Reg. 14(7)(d)](https://www.legislation.gov.uk/uksi/2023/972/regulation/14/7/d) and word inserted (with effect from 1.10.2023) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/b), [47(g)(ii)](https://www.legislation.gov.uk/uksi/2026/226/regulation/47/g/ii)
+[^c-737d51a3d1077f31a64900620124bdf8]: Textual amendment: [Reg. 14(7)(d)](https://www.legislation.gov.uk/uksi/2023/972/regulation/14/7/d) and word inserted (with effect from 1.10.2023) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/b), [47(g)(ii)](https://www.legislation.gov.uk/uksi/2026/226/regulation/47/g/ii)
 
-[^key-d4bc70c24f6b1e8897436efae5c5a645]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/uksi/2023/972/regulation/15) inserted (with effect from 1.10.2023) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/b), [48](https://www.legislation.gov.uk/uksi/2026/226/regulation/48)
+[^c-d4bc70c24f6b1e8897436efae5c5a645]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/uksi/2023/972/regulation/15) inserted (with effect from 1.10.2023) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/b), [48](https://www.legislation.gov.uk/uksi/2026/226/regulation/48)

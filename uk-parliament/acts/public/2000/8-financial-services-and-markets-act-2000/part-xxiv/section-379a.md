@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 379A. Power to apply settlement finality regime to payment institutions[^key-b81d0fc8fb194115f45a756cbe388cb4]
+## 379A. Power to apply settlement finality regime to payment institutions[^c-b81d0fc8fb194115f45a756cbe388cb4]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ summary: ''
 
 (2) “**Payment institution**” means—
 
-- (a) an authorised payment institution or small payment institution within the meaning of the Payment Services Regulations 2017[^key-e40314a575c23d81ac595b9fa3b3bdc8], or
+- (a) an authorised payment institution or small payment institution within the meaning of the Payment Services Regulations 2017[^c-e40314a575c23d81ac595b9fa3b3bdc8], or
 - (b) a person whose head office, registered office or place of residence, as the case may be, is outside the United Kingdom and whose functions correspond to those of an institution within paragraph (a).
 
 (3) “**Payment or securities settlement system**” means arrangements between a number of participants for or in connection with the clearing or execution of instructions by participants relating to any of the following—
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b81d0fc8fb194115f45a756cbe388cb4]: Textual amendment: S. 379A and cross-heading inserted (27.4.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 112](https://www.legislation.gov.uk/ukpga/2017/30/section/112), [118(1)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/1)
+[^c-b81d0fc8fb194115f45a756cbe388cb4]: Textual amendment: S. 379A and cross-heading inserted (27.4.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 112](https://www.legislation.gov.uk/ukpga/2017/30/section/112), [118(1)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/1)
 
-[^key-e40314a575c23d81ac595b9fa3b3bdc8]: Textual amendment: Word in s. 379A(2)(a) substituted (13.8.2017) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(2)(c)(i)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/2/c/i), [Sch. 8 para. 2(6)](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/2/6) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
+[^c-e40314a575c23d81ac595b9fa3b3bdc8]: Textual amendment: Word in s. 379A(2)(a) substituted (13.8.2017) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(2)(c)(i)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/2/c/i), [Sch. 8 para. 2(6)](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/2/6) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))

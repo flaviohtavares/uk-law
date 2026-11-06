@@ -49,15 +49,15 @@ Now, therefore, the Secretary of State for Social Security, in conjunction with 
 
 (1) These Regulations may be cited as the Child Benefit, Child Support and Social Security (Miscellaneous Amendments) Regulations 1996 and shall come into force—
 
-- (a) for the purposes of regulations 1,[^key-98c0019beded0a2a5a658521245d4561]... on 1st April 1997;
+- (a) for the purposes of regulations 1,[^c-98c0019beded0a2a5a658521245d4561]... on 1st April 1997;
 - (b) for the purposes of regulations 2 to 21 and 37 to 49, on 7th April 1997;
-- (c)[^key-6b34e4004a7e9acd93d13ae73932f39f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-6b34e4004a7e9acd93d13ae73932f39f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Regulations 37 to 41 of these Regulations shall have effect in relation to any particular claimant at the beginning of the first benefit week to commence for that claimant on or after 7th April 1997 which applies in his case and for the purpose of this paragraph, “benefit week" and “claimant" have the same meaning as in regulation 2(1) of the Income Support Regulations.
 
 (3) Regulations 42 to 46 of these Regulations shall have effect in relation to any particular claimant at the beginning of the first benefit week to commence for that claimant on or after 7th April 1997 which applies in his case and for the purpose of this paragraph, “benefit week" has the same meaning as in regulation 1(3) of the Jobseeker’s Allowance Regulations [^c1764811].
 
-(4)[^key-d3fb0d929b37affc3fd0aebf4cd843fe] In these Regulations—
+(4)[^c-d3fb0d929b37affc3fd0aebf4cd843fe] In these Regulations—
 
 “the Adjudication Regulations" means the Social Security (Adjudication) Regulations 1995 [^c1764812];
 
@@ -69,9 +69,9 @@ Now, therefore, the Secretary of State for Social Security, in conjunction with 
 
 “the Claims and Payments Regulations" means the Social Security (Claims and Payments) Regulations 1987 [^c1764816];
 
-[^key-7c6157276d66e6c9807a79c5f502ba94]...
+[^c-7c6157276d66e6c9807a79c5f502ba94]...
 
-[^key-7c6157276d66e6c9807a79c5f502ba94]...
+[^c-7c6157276d66e6c9807a79c5f502ba94]...
 
 “the Income Support Regulations" means the Income Support (General) Regulations 1987 [^c1764819];
 
@@ -79,23 +79,23 @@ Now, therefore, the Secretary of State for Social Security, in conjunction with 
 
 “the Overlapping Benefits Regulations" means the Social Security (Overlapping Benefits) Regulations 1979 [^c1764821].
 
-## 2. Amendment of regulation 59 of the Adjudication Regulations[^key-245cc5f65402b3fb58bc38cd0d260644]
+## 2. Amendment of regulation 59 of the Adjudication Regulations[^c-245cc5f65402b3fb58bc38cd0d260644]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of regulation 9 of the Child Benefit Regulations[^key-bad39caa649c3ca3b2a202053e640bbc]
+## 3. Amendment of regulation 9 of the Child Benefit Regulations[^c-bad39caa649c3ca3b2a202053e640bbc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Insertion of regulation 9A into the Child Benefit Regulations[^key-bad39caa649c3ca3b2a202053e640bbc]
+## 4. Insertion of regulation 9A into the Child Benefit Regulations[^c-bad39caa649c3ca3b2a202053e640bbc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of regulation 2 of the Child Benefit Rates Regulations[^key-2762ec1c56a9ed6a6f76c291379eaaca]
+## 5. Amendment of regulation 2 of the Child Benefit Rates Regulations[^c-2762ec1c56a9ed6a6f76c291379eaaca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Revocation of regulation 4 of the Child Benefit Rates Regulations[^key-60448567f305fa4da090c08f19b1eda9]
+## 6. Revocation of regulation 4 of the Child Benefit Rates Regulations[^c-60448567f305fa4da090c08f19b1eda9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -210,19 +210,19 @@ In regulation 28(1)(b) of the Child Support Maintenance Assessments Regulations 
 
 .
 
-## 18. Amendment of regulation 2 of the Claims and Payments Regulations[^key-20ce6bbde9399e8a8cd4496082eed1d9]
+## 18. Amendment of regulation 2 of the Claims and Payments Regulations[^c-20ce6bbde9399e8a8cd4496082eed1d9]
 
 In regulation 2(3) of the Claims and Payments Regulations [^c1764836] (treatment as separate benefits), the words from “and so shall" to the end of that paragraph shall be omitted.
 
-## 19. Amendment of regulation 9 of the Claims and Payments Regulations[^key-20ce6bbde9399e8a8cd4496082eed1d9]
+## 19. Amendment of regulation 9 of the Claims and Payments Regulations[^c-20ce6bbde9399e8a8cd4496082eed1d9]
 
 In regulation 9(3) of the Claims and Payments Regulations [^c1764837] (interchange of claims for child benefit with claims for other benefits), the words “(except an increase in child benefit)" shall be omitted.
 
-## 20. Amendment of Schedule 1 to the Claims and Payments Regulations[^key-20ce6bbde9399e8a8cd4496082eed1d9]
+## 20. Amendment of Schedule 1 to the Claims and Payments Regulations[^c-20ce6bbde9399e8a8cd4496082eed1d9]
 
 In Part II of Schedule 1 to the Claims and Payments Regulations (interchange of claims for child benefit with claims for other benefits), the words “Increase in child benefit under regulation 2(2) of the Child Benefit and Social Security (Fixing and Adjustment of Rates) Regulations 1976" shall be omitted.
 
-## 21. Amendment of Schedule 8 to the Claims and Payments Regulations[^key-20ce6bbde9399e8a8cd4496082eed1d9]
+## 21. Amendment of Schedule 8 to the Claims and Payments Regulations[^c-20ce6bbde9399e8a8cd4496082eed1d9]
 
 For paragraph 2(a) of Schedule 8 to the Claims and Payments Regulations [^c1764838] (election to have child benefit paid weekly), there shall be substituted the following sub-paragraph—
 
@@ -230,63 +230,63 @@ For paragraph 2(a) of Schedule 8 to the Claims and Payments Regulations [^c17648
 
 .
 
-## 22. Amendment of regulation 10 of the Council Tax Benefit Regulations[^key-fb4eae7b48f1b302e30f0db585e4633a]
+## 22. Amendment of regulation 10 of the Council Tax Benefit Regulations[^c-fb4eae7b48f1b302e30f0db585e4633a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 23. Amendment of regulation 26 of the Council Tax Benefit Regulations[^key-fb4eae7b48f1b302e30f0db585e4633a]
+## 23. Amendment of regulation 26 of the Council Tax Benefit Regulations[^c-fb4eae7b48f1b302e30f0db585e4633a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 24. Amendment of regulation 40 of the Council Tax Benefit Regulations[^key-fb4eae7b48f1b302e30f0db585e4633a]
+## 24. Amendment of regulation 40 of the Council Tax Benefit Regulations[^c-fb4eae7b48f1b302e30f0db585e4633a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 25. Amendment of Schedule 1 to the Council Tax Benefit Regulations[^key-fb4eae7b48f1b302e30f0db585e4633a]
+## 25. Amendment of Schedule 1 to the Council Tax Benefit Regulations[^c-fb4eae7b48f1b302e30f0db585e4633a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 26. Amendment of Schedule 3 to the Council Tax Benefit Regulations[^key-fb4eae7b48f1b302e30f0db585e4633a]
+## 26. Amendment of Schedule 3 to the Council Tax Benefit Regulations[^c-fb4eae7b48f1b302e30f0db585e4633a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 27. Amendment of Schedule 4 to the Council Tax Benefit Regulations[^key-fb4eae7b48f1b302e30f0db585e4633a]
+## 27. Amendment of Schedule 4 to the Council Tax Benefit Regulations[^c-fb4eae7b48f1b302e30f0db585e4633a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 28. Amendment of Schedule 5A to the Council Tax Benefit Regulations[^key-fb4eae7b48f1b302e30f0db585e4633a]
+## 28. Amendment of Schedule 5A to the Council Tax Benefit Regulations[^c-fb4eae7b48f1b302e30f0db585e4633a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 29. Amendment of regulation 18 of the Housing Benefit Regulations[^key-fb4eae7b48f1b302e30f0db585e4633a][^c2234295]
+## 29. Amendment of regulation 18 of the Housing Benefit Regulations[^c-fb4eae7b48f1b302e30f0db585e4633a][^c2234295]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 30. Amendment of regulation 35 of the Housing Benefit Regulations[^key-fb4eae7b48f1b302e30f0db585e4633a]
+## 30. Amendment of regulation 35 of the Housing Benefit Regulations[^c-fb4eae7b48f1b302e30f0db585e4633a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 31. Amendment of regulation 48A of the Housing Benefit Regulations[^key-fb4eae7b48f1b302e30f0db585e4633a][^c2234296]
+## 31. Amendment of regulation 48A of the Housing Benefit Regulations[^c-fb4eae7b48f1b302e30f0db585e4633a][^c2234296]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 32. Amendment of regulation 51 of the Housing Benefit Regulations[^key-fb4eae7b48f1b302e30f0db585e4633a][^c2234297]
+## 32. Amendment of regulation 51 of the Housing Benefit Regulations[^c-fb4eae7b48f1b302e30f0db585e4633a][^c2234297]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 33. Amendment of Schedule 2 to the Housing Benefit Regulations[^key-fb4eae7b48f1b302e30f0db585e4633a]
+## 33. Amendment of Schedule 2 to the Housing Benefit Regulations[^c-fb4eae7b48f1b302e30f0db585e4633a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 34. Amendment of Schedule 3 to the Housing Benefit Regulations[^key-fb4eae7b48f1b302e30f0db585e4633a]
+## 34. Amendment of Schedule 3 to the Housing Benefit Regulations[^c-fb4eae7b48f1b302e30f0db585e4633a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 35. Amendment of Schedule 4 to the Housing Benefit Regulations[^key-fb4eae7b48f1b302e30f0db585e4633a]
+## 35. Amendment of Schedule 4 to the Housing Benefit Regulations[^c-fb4eae7b48f1b302e30f0db585e4633a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 36. Amendment of Schedule 5A to the Housing Benefit Regulations[^key-fb4eae7b48f1b302e30f0db585e4633a]
+## 36. Amendment of Schedule 5A to the Housing Benefit Regulations[^c-fb4eae7b48f1b302e30f0db585e4633a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -331,7 +331,7 @@ In regulation 57 of the Income Support Regulations (period over which payments o
 
 In Schedule 7 to the Income Support Regulations (applicable amounts in special cases)—
 
-- (a)[^key-a8a1d9cf6d43e39e5a03fb6117cf634c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-a8a1d9cf6d43e39e5a03fb6117cf634c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in Column (2) of paragraph 10C [^c1764867] (applicable amounts for lone parents in residential accommodation temporarily), in sub-paragraph (b), the words “, or (d) in so far as that amount relates to the lone parent premium under paragraph 8 of Schedule 2" shall be omitted.
 
 ## 41. Amendment of Schedule 8 to the Income Support Regulations
@@ -409,7 +409,7 @@ Where an applicant for a review of a decision relating to child benefit—
 
 that application for review shall be treated, in addition, as if it were a claim for an increase in the weekly rate of child benefit under regulation 2(2) of those Regulations in respect of the relevant period.
 
-## 49. Transitional provision relating to maintenance assessments[^key-191468a7726e59bda501b1033689e41b]
+## 49. Transitional provision relating to maintenance assessments[^c-191468a7726e59bda501b1033689e41b]
 
 (1) A decision with respect to a maintenance assessment in force on 7th April 1997 shall not be superseded by a decision under section 17 of the Child Support Act 1991 (“ the Act ”) solely to give effect to these Regulations.
 
@@ -490,13 +490,13 @@ These Regulations do not impose a charge on business.
 
 [^c1764810]: Marginal citation: *See* section 172(1) of the [Social Security Administration Act 1992 (c.5)](https://www.legislation.gov.uk/ukpga/1992/5).
 
-[^key-98c0019beded0a2a5a658521245d4561]: Textual amendment: Words in reg. 1(1) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Schs. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-98c0019beded0a2a5a658521245d4561]: Textual amendment: Words in reg. 1(1) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Schs. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
-[^key-6b34e4004a7e9acd93d13ae73932f39f]: Textual amendment: Reg. 1(1)(c) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Schs. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-6b34e4004a7e9acd93d13ae73932f39f]: Textual amendment: Reg. 1(1)(c) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Schs. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c1764811]: Marginal citation: The definition of “benefit week" in regulation 2(1) of the Income Support Regulations is amended by [S.I. 1988/1445](https://www.legislation.gov.uk/uksi/1988/1445).
 
-[^key-d3fb0d929b37affc3fd0aebf4cd843fe]: Modification: Reg. 1(4) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardianâ€™s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pts. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
+[^c-d3fb0d929b37affc3fd0aebf4cd843fe]: Modification: Reg. 1(4) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardianâ€™s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pts. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
 
 [^c1764812]: Marginal citation: [S.I. 1995/1801](https://www.legislation.gov.uk/uksi/1995/1801).
 
@@ -508,7 +508,7 @@ These Regulations do not impose a charge on business.
 
 [^c1764816]: Marginal citation: [S.I. 1987/1968](https://www.legislation.gov.uk/uksi/1987/1968).
 
-[^key-7c6157276d66e6c9807a79c5f502ba94]: Textual amendment: Words in reg. 1(4) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Schs. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-7c6157276d66e6c9807a79c5f502ba94]: Textual amendment: Words in reg. 1(4) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Schs. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c1764819]: Marginal citation: [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967).
 
@@ -516,13 +516,13 @@ These Regulations do not impose a charge on business.
 
 [^c1764821]: Marginal citation: [S.I. 1979/597](https://www.legislation.gov.uk/uksi/1979/597).
 
-[^key-245cc5f65402b3fb58bc38cd0d260644]: Textual amendment: Reg. 2 revoked (6.4.1997) by [The Social Security (Miscellaneous Amendments) (No.2) Regulations 1997 (S.I. 1997/793)](https://www.legislation.gov.uk/uksi/1997/793), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1997/793/regulation/1/1/a), [19(a)](https://www.legislation.gov.uk/uksi/1997/793/regulation/19/a)
+[^c-245cc5f65402b3fb58bc38cd0d260644]: Textual amendment: Reg. 2 revoked (6.4.1997) by [The Social Security (Miscellaneous Amendments) (No.2) Regulations 1997 (S.I. 1997/793)](https://www.legislation.gov.uk/uksi/1997/793), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1997/793/regulation/1/1/a), [19(a)](https://www.legislation.gov.uk/uksi/1997/793/regulation/19/a)
 
-[^key-bad39caa649c3ca3b2a202053e640bbc]: Textual amendment: Reg. 4 revoked (7.4.2003) by [The Child Benefit (General) Regulations 2003 (S.I. 2003/493)](https://www.legislation.gov.uk/uksi/2003/493), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/493/regulation/1/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2003/493/schedule/2/part/1)
+[^c-bad39caa649c3ca3b2a202053e640bbc]: Textual amendment: Reg. 4 revoked (7.4.2003) by [The Child Benefit (General) Regulations 2003 (S.I. 2003/493)](https://www.legislation.gov.uk/uksi/2003/493), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/493/regulation/1/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2003/493/schedule/2/part/1)
 
-[^key-2762ec1c56a9ed6a6f76c291379eaaca]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/1996/1803/regulation/5) revoked (10.4.2006) by [Child Benefit (Rates) Regulations 2006 (S.I. 2006/965)](https://www.legislation.gov.uk/uksi/2006/965), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/965/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2006/965/regulation/4)
+[^c-2762ec1c56a9ed6a6f76c291379eaaca]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/1996/1803/regulation/5) revoked (10.4.2006) by [Child Benefit (Rates) Regulations 2006 (S.I. 2006/965)](https://www.legislation.gov.uk/uksi/2006/965), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/965/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2006/965/regulation/4)
 
-[^key-60448567f305fa4da090c08f19b1eda9]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/1996/1803/regulation/6) revoked (10.4.2006) by [Child Benefit (Rates) Regulations 2006 (S.I. 2006/965)](https://www.legislation.gov.uk/uksi/2006/965), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/965/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2006/965/regulation/4)
+[^c-60448567f305fa4da090c08f19b1eda9]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/1996/1803/regulation/6) revoked (10.4.2006) by [Child Benefit (Rates) Regulations 2006 (S.I. 2006/965)](https://www.legislation.gov.uk/uksi/2006/965), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/965/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2006/965/regulation/4)
 
 [^c1764825]: Marginal citation: Regulation 1(2) is amended by [S.I. 1993/913](https://www.legislation.gov.uk/uksi/1993/913), 1995/1045 and 1995/3261.
 
@@ -546,7 +546,7 @@ These Regulations do not impose a charge on business.
 
 [^c1764835]: Marginal citation: Schedule 1 is amended by [S.I. 1993/613](https://www.legislation.gov.uk/uksi/1993/613) and 1995/1045.
 
-[^key-20ce6bbde9399e8a8cd4496082eed1d9]: Modification: Regs. 18-21 modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardianâ€™s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pts. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
+[^c-20ce6bbde9399e8a8cd4496082eed1d9]: Modification: Regs. 18-21 modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardianâ€™s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pts. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
 
 [^c1764836]: Marginal citation: Regulation 2(3) is amended by [S.I. 1992/247](https://www.legislation.gov.uk/uksi/1992/247).
 
@@ -556,7 +556,7 @@ These Regulations do not impose a charge on business.
 
 [^c1764839]: Marginal citation: [S.I. 1976/1267](https://www.legislation.gov.uk/uksi/1976/1267); the relevant amending instrument is [S.I. 1996/1803](https://www.legislation.gov.uk/uksi/1996/1803).
 
-[^key-fb4eae7b48f1b302e30f0db585e4633a]: Textual amendment: Regs. 22-36 revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Schs. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-fb4eae7b48f1b302e30f0db585e4633a]: Textual amendment: Regs. 22-36 revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Schs. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c2234295]: Commencement: Regulation 29 not in force at Royal Assent see reg. 1; reg. 29 in force for certain purposes at (1.4.1997) by [S.I. 1996/1803](https://www.legislation.gov.uk/uksi/1996/1803), [reg. 1](https://www.legislation.gov.uk/uksi/1996/1803/regulation/1); reg. 29 in force for other specified purposes at (7.4.1997) by [S.I. 1996/1803](https://www.legislation.gov.uk/uksi/1996/1803), {reg. 1)}
 
@@ -574,7 +574,7 @@ These Regulations do not impose a charge on business.
 
 [^c1764865]: Marginal citation: Paragraph 4 is amended by [S.I. 1988/1445](https://www.legislation.gov.uk/uksi/1988/1445) and 1990/1776.
 
-[^key-a8a1d9cf6d43e39e5a03fb6117cf634c]: Textual amendment: [Reg. 40(a)](https://www.legislation.gov.uk/uksi/1996/1803/regulation/40/a) revoked (10.4.2006 for specified purposes) by [Social Security (Hospital In-Patients) Regulations 2005 (S.I. 2005/3360)](https://www.legislation.gov.uk/uksi/2005/3360), [regs. 1(e)](https://www.legislation.gov.uk/uksi/2005/3360/regulation/1/e), [9(2)](https://www.legislation.gov.uk/uksi/2005/3360/regulation/9/2), [Schs.](https://www.legislation.gov.uk/uksi/2005/3360/schedule)
+[^c-a8a1d9cf6d43e39e5a03fb6117cf634c]: Textual amendment: [Reg. 40(a)](https://www.legislation.gov.uk/uksi/1996/1803/regulation/40/a) revoked (10.4.2006 for specified purposes) by [Social Security (Hospital In-Patients) Regulations 2005 (S.I. 2005/3360)](https://www.legislation.gov.uk/uksi/2005/3360), [regs. 1(e)](https://www.legislation.gov.uk/uksi/2005/3360/regulation/1/e), [9(2)](https://www.legislation.gov.uk/uksi/2005/3360/regulation/9/2), [Schs.](https://www.legislation.gov.uk/uksi/2005/3360/schedule)
 
 [^c1764867]: Marginal citation: Paragraph 10C is inserted by [S.I. 1988/2022](https://www.legislation.gov.uk/uksi/1988/2022) and amended by [S.I. 1990/547](https://www.legislation.gov.uk/uksi/1990/547), 1992/3147 and 1995/559.
 
@@ -586,4 +586,4 @@ These Regulations do not impose a charge on business.
 
 [^c1764871]: Marginal citation: [S.I. 1976/1267](https://www.legislation.gov.uk/uksi/1976/1267); the relevant amending instrument is [S.I. 1996/1803](https://www.legislation.gov.uk/uksi/1996/1803).
 
-[^key-191468a7726e59bda501b1033689e41b]: Textual amendment: Reg. 49 substituted (1.6.1999) by [S.I. 1999/1510](https://www.legislation.gov.uk/uksi/1999/510), [art. 42](https://www.legislation.gov.uk/uksi/1999/510/article/42), [reg. 1](https://www.legislation.gov.uk/uksi/1999/510/regulation/1)
+[^c-191468a7726e59bda501b1033689e41b]: Textual amendment: Reg. 49 substituted (1.6.1999) by [S.I. 1999/1510](https://www.legislation.gov.uk/uksi/1999/510), [art. 42](https://www.legislation.gov.uk/uksi/1999/510/article/42), [reg. 1](https://www.legislation.gov.uk/uksi/1999/510/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Orders: procedure etc.[^key-99873b44b3191b3b515946d5b7af3aed]
+## 97. Orders: procedure etc.[^c-99873b44b3191b3b515946d5b7af3aed]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ whenever passed or made.
 
 ## Annotations
 
-[^key-99873b44b3191b3b515946d5b7af3aed]: Commencement: S. 97 in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-99873b44b3191b3b515946d5b7af3aed]: Commencement: S. 97 in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))

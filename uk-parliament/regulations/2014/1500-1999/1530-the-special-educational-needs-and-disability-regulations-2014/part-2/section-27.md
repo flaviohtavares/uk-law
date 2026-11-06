@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Amending or replacing an EHC plan following a re-assessment[^key-beded078003b1018c8eddab8cee12c5f]
+## 27. Amending or replacing an EHC plan following a re-assessment[^c-beded078003b1018c8eddab8cee12c5f]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-beded078003b1018c8eddab8cee12c5f]: Modification: Reg. 27 applied (with modifications) (1.9.2014) by [The Children and Families Act 2014 (Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/2270)](https://www.legislation.gov.uk/uksi/2014/2270), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/2270/article/1/2), [24(2)](https://www.legislation.gov.uk/uksi/2014/2270/article/24/2) (as amended (1.9.2015) by [S.I. 2015/1619](https://www.legislation.gov.uk/uksi/2015/1619), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1619/article/1), [5](https://www.legislation.gov.uk/uksi/2015/1619/article/5))
+[^c-beded078003b1018c8eddab8cee12c5f]: Modification: Reg. 27 applied (with modifications) (1.9.2014) by [The Children and Families Act 2014 (Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/2270)](https://www.legislation.gov.uk/uksi/2014/2270), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/2270/article/1/2), [24(2)](https://www.legislation.gov.uk/uksi/2014/2270/article/24/2) (as amended (1.9.2015) by [S.I. 2015/1619](https://www.legislation.gov.uk/uksi/2015/1619), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1619/article/1), [5](https://www.legislation.gov.uk/uksi/2015/1619/article/5))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Conservation of biological diversity.[^key-05d1c7528084e71a394c95c1b79b036f]
+## 74. Conservation of biological diversity.[^c-05d1c7528084e71a394c95c1b79b036f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-05d1c7528084e71a394c95c1b79b036f]: Textual amendment: [S. 74](https://www.legislation.gov.uk/ukpga/2000/37/section/74) repealed (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 162](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/162), [12](https://www.legislation.gov.uk/ukpga/2006/16/schedule/12); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-05d1c7528084e71a394c95c1b79b036f]: Textual amendment: [S. 74](https://www.legislation.gov.uk/ukpga/2000/37/section/74) repealed (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 162](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/162), [12](https://www.legislation.gov.uk/ukpga/2006/16/schedule/12); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))

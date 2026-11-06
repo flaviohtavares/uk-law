@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32. Taking possession of animals[^key-28e761a5b6a70cbe9a455e012e56af76]
+## 32. Taking possession of animals[^c-28e761a5b6a70cbe9a455e012e56af76]
 
 *Extent: S*
 
@@ -27,7 +27,7 @@ summary: ''
 
 such steps as appear to be immediately necessary to alleviate the animal's suffering.
 
-(2) However, subsection (1) does not authorise the destruction of a protected animal (for which sections 32A and 35 make[^key-50705905fa5bb78dfeeaf5616237d513] provision).
+(2) However, subsection (1) does not authorise the destruction of a protected animal (for which sections 32A and 35 make[^c-50705905fa5bb78dfeeaf5616237d513] provision).
 
 (3) If a veterinary surgeon certifies that a protected animal is—
 
@@ -51,7 +51,7 @@ an inspector or a constable may take possession of the animal.
 - (b) care for the animal, or arrange for it to be cared for—
   - (i) at the place where it was found,
   - (ii) at such other place as the inspector or constable considers appropriate.
-- (c)[^key-2df16642da7ba850529d3eb5e6a774c5] administer treatment (as defined in section 32A) to the animal, or arrange for treatment to be administered, but only where the treatment is, in the opinion of the inspector or constable, consistent with the long-term welfare of the animal and is unlikely to significantly—
+- (c)[^c-2df16642da7ba850529d3eb5e6a774c5] administer treatment (as defined in section 32A) to the animal, or arrange for treatment to be administered, but only where the treatment is, in the opinion of the inspector or constable, consistent with the long-term welfare of the animal and is unlikely to significantly—
   - (i) reduce the value of the animal, or
   - (ii) otherwise affect the character of the animal.
 
@@ -72,8 +72,8 @@ an inspector or a constable may take possession of the animal.
 
 ## Annotations
 
-[^key-28e761a5b6a70cbe9a455e012e56af76]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2006/11/section/32) in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
+[^c-28e761a5b6a70cbe9a455e012e56af76]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2006/11/section/32) in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
 
-[^key-50705905fa5bb78dfeeaf5616237d513]: Textual amendment: Words in [s. 32(2)](https://www.legislation.gov.uk/asp/2006/11/section/32/2) substituted (30.9.2021) by [Animals and Wildlife (Penalties, Protections and Powers) (Scotland) Act 2020 (asp 14)](https://www.legislation.gov.uk/asp/2020/14), [ss. 20(a)](https://www.legislation.gov.uk/asp/2020/14/section/20/a), [22(2)](https://www.legislation.gov.uk/asp/2020/14/section/22/2); [S.S.I. 2021/303](https://www.legislation.gov.uk/ssi/2021/303), [reg. 2(d)](https://www.legislation.gov.uk/ssi/2021/303/regulation/2/d)
+[^c-50705905fa5bb78dfeeaf5616237d513]: Textual amendment: Words in [s. 32(2)](https://www.legislation.gov.uk/asp/2006/11/section/32/2) substituted (30.9.2021) by [Animals and Wildlife (Penalties, Protections and Powers) (Scotland) Act 2020 (asp 14)](https://www.legislation.gov.uk/asp/2020/14), [ss. 20(a)](https://www.legislation.gov.uk/asp/2020/14/section/20/a), [22(2)](https://www.legislation.gov.uk/asp/2020/14/section/22/2); [S.S.I. 2021/303](https://www.legislation.gov.uk/ssi/2021/303), [reg. 2(d)](https://www.legislation.gov.uk/ssi/2021/303/regulation/2/d)
 
-[^key-2df16642da7ba850529d3eb5e6a774c5]: Textual amendment: [S. 32(6)(c)](https://www.legislation.gov.uk/asp/2006/11/section/32/6/c) inserted (30.9.2021) by [Animals and Wildlife (Penalties, Protections and Powers) (Scotland) Act 2020 (asp 14)](https://www.legislation.gov.uk/asp/2020/14), [ss. 20(b)](https://www.legislation.gov.uk/asp/2020/14/section/20/b), [22(2)](https://www.legislation.gov.uk/asp/2020/14/section/22/2); [S.S.I. 2021/303](https://www.legislation.gov.uk/ssi/2021/303), [reg. 2(d)](https://www.legislation.gov.uk/ssi/2021/303/regulation/2/d)
+[^c-2df16642da7ba850529d3eb5e6a774c5]: Textual amendment: [S. 32(6)(c)](https://www.legislation.gov.uk/asp/2006/11/section/32/6/c) inserted (30.9.2021) by [Animals and Wildlife (Penalties, Protections and Powers) (Scotland) Act 2020 (asp 14)](https://www.legislation.gov.uk/asp/2020/14), [ss. 20(b)](https://www.legislation.gov.uk/asp/2020/14/section/20/b), [22(2)](https://www.legislation.gov.uk/asp/2020/14/section/22/2); [S.S.I. 2021/303](https://www.legislation.gov.uk/ssi/2021/303), [reg. 2(d)](https://www.legislation.gov.uk/ssi/2021/303/regulation/2/d)

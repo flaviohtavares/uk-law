@@ -43,28 +43,28 @@ The Department of the Environment is designated[^f00001] for the purpose of sect
 
 The Department of the Environment, in exercise of the powers conferred by section 2(2) of that Act, makes the following Regulations:
 
-## 1. Citation and commencement[^key-84d989836781ba889a9594687654c3e9]
+## 1. Citation and commencement[^c-84d989836781ba889a9594687654c3e9]
 
 These Regulations may be cited as the Passenger and Goods Vehicles (Recording Equipment) (Tachograph Card) Regulations (Northern Ireland) 2007 and shall come into operation on 8th March 2007.
 
-## 2. Interpretation[^key-c55a2870be8ab8523a1166244dc2a964]
+## 2. Interpretation[^c-c55a2870be8ab8523a1166244dc2a964]
 
 (1) In these Regulations—
 
-- “the[^key-eea9013aa4c6c4bc96ce7557c58e2ed9] EU Tachographs Regulation” means Regulation (EU) No. 165/2014 of the European Parliament and of the Council of 4 February 2014 on tachographs in road transport, as read with the Community Drivers’ Hours and Recording Equipment (Exemptions and Supplementary Provisions) Regulations (Northern Ireland) 2009;
-- “company card”, “control card”, “driver card” and “workshop card” have the meanings given by Article 2 of the[^key-0dfde16eda23fc7f8ae4e56e17f52e52] EU Tachographs Regulation to the Community Recording Equipment Regulation;
-- “the Department” means the Department for Infrastructure[^key-b6e8bd5a6f9f6c03707d3ba6a4a10114] ;
+- “the[^c-eea9013aa4c6c4bc96ce7557c58e2ed9] EU Tachographs Regulation” means Regulation (EU) No. 165/2014 of the European Parliament and of the Council of 4 February 2014 on tachographs in road transport, as read with the Community Drivers’ Hours and Recording Equipment (Exemptions and Supplementary Provisions) Regulations (Northern Ireland) 2009;
+- “company card”, “control card”, “driver card” and “workshop card” have the meanings given by Article 2 of the[^c-0dfde16eda23fc7f8ae4e56e17f52e52] EU Tachographs Regulation to the Community Recording Equipment Regulation;
+- “the Department” means the Department for Infrastructure[^c-b6e8bd5a6f9f6c03707d3ba6a4a10114] ;
 - “PIN” means personal identification number for use in connection with a workshop card;
 - “relevant vehicle” means a vehicle in which there is recording equipment
-  - (i) which has been installed in accordance with the EU[^key-5831cdfc31ee8f03c468b533b362a666] Tachographs Regulation ; and
+  - (i) which has been installed in accordance with the EU[^c-5831cdfc31ee8f03c468b533b362a666] Tachographs Regulation ; and
   - (ii) complies with Annexes IB and II to that Regulation;
 - “tachograph card” means a company card, control card, driver card or workshop card.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00014] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly.
 
-(3)[^key-da7b63ecbb9b1335dc6b9fc40af47d14] A reference in this regulation to Annex IB to the EU Tachographs Regulation has effect, until the coming into force of that Annex, as a reference to Annex IB to [Council Regulation (EEC) No. 3821/85](https://www.legislation.gov.uk/european/regulation/1985/3821) on recording equipment in road transport, as read with the Community Drivers’ Hours and Recording Equipment (Exemptions and Supplementary Provisions) Regulations (Northern Ireland) 2009.
+(3)[^c-da7b63ecbb9b1335dc6b9fc40af47d14] A reference in this regulation to Annex IB to the EU Tachographs Regulation has effect, until the coming into force of that Annex, as a reference to Annex IB to [Council Regulation (EEC) No. 3821/85](https://www.legislation.gov.uk/european/regulation/1985/3821) on recording equipment in road transport, as read with the Community Drivers’ Hours and Recording Equipment (Exemptions and Supplementary Provisions) Regulations (Northern Ireland) 2009.
 
-## 3. Driver cards[^key-b1595378c05cc2b87a82b496bc087ce9]
+## 3. Driver cards[^c-b1595378c05cc2b87a82b496bc087ce9]
 
 (1) A person commits an offence—
 
@@ -98,7 +98,7 @@ as specified in paragraph (1).
 - (a) on summary conviction, to a fine not exceeding the statutory maximum; or
 - (b) on conviction on indictment, to imprisonment for a term not exceeding two years or to a fine, or both.
 
-## 4. Workshop cards[^key-18c35be9c121573f23071260dd85ed25]
+## 4. Workshop cards[^c-18c35be9c121573f23071260dd85ed25]
 
 (1) A person commits an offence—
 
@@ -134,7 +134,7 @@ as specified in paragraph (1).
 - (a) on summary conviction, to a fine not exceeding the statutory maximum; or
 - (b) on conviction on indictment, to imprisonment for a term not exceeding two years or to a fine, or both.
 
-## 5. Lost, stolen, damaged or malfunctioning cards[^key-21faeb9112db540cd99b3e4ed3a2b4de]
+## 5. Lost, stolen, damaged or malfunctioning cards[^c-21faeb9112db540cd99b3e4ed3a2b4de]
 
 (1) If a tachograph card is lost or stolen, the person to whom that card was issued shall notify the Department in writing and shall provide such information or documents concerning the loss or theft as the Department may require.
 
@@ -146,7 +146,7 @@ as specified in paragraph (1).
 
 (5) A person guilty of an offence under paragraph (4) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-## 6. Card particulars[^key-0565054fcd5b4f4fa6be44a51035df6a]
+## 6. Card particulars[^c-0565054fcd5b4f4fa6be44a51035df6a]
 
 (1) Where the details of the holder of a tachograph card specified on the card cease to be correct, the holder—
 
@@ -163,7 +163,7 @@ as specified in paragraph (1).
 
 (6) A person guilty of an offence under paragraph (5) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-## 7. Unauthorised cards[^key-7cf18fb2d0d2dddf6bdb02661328629e]
+## 7. Unauthorised cards[^c-7cf18fb2d0d2dddf6bdb02661328629e]
 
 (1) A person in possession of a tachograph card described in paragraph (3) shall surrender that card to the Department, by such means and to such address as may be specified by the Department.
 
@@ -215,30 +215,30 @@ A Regulatory Impact Assessment has not been prepared for these Regulations as th
 
 [^f00002]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-84d989836781ba889a9594687654c3e9]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2007/36/regulation/1) in operation at 8.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/36/regulation/1)
+[^c-84d989836781ba889a9594687654c3e9]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2007/36/regulation/1) in operation at 8.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/36/regulation/1)
 
-[^key-c55a2870be8ab8523a1166244dc2a964]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2007/36/regulation/2) in operation at 8.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/36/regulation/1)
+[^c-c55a2870be8ab8523a1166244dc2a964]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2007/36/regulation/2) in operation at 8.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/36/regulation/1)
 
-[^key-eea9013aa4c6c4bc96ce7557c58e2ed9]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/36/regulation/2/1) substituted (31.10.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/343)](https://www.legislation.gov.uk/nisr/2016/343), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/343/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/nisr/2016/343/regulation/4/2/a)
+[^c-eea9013aa4c6c4bc96ce7557c58e2ed9]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/36/regulation/2/1) substituted (31.10.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/343)](https://www.legislation.gov.uk/nisr/2016/343), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/343/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/nisr/2016/343/regulation/4/2/a)
 
-[^key-0dfde16eda23fc7f8ae4e56e17f52e52]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/36/regulation/2/1) substituted (31.10.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/343)](https://www.legislation.gov.uk/nisr/2016/343), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/343/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/nisr/2016/343/regulation/4/2/b)
+[^c-0dfde16eda23fc7f8ae4e56e17f52e52]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/36/regulation/2/1) substituted (31.10.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/343)](https://www.legislation.gov.uk/nisr/2016/343), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/343/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/nisr/2016/343/regulation/4/2/b)
 
-[^key-b6e8bd5a6f9f6c03707d3ba6a4a10114]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/36/regulation/2/1) substituted (18.2.2019) by [The Road Traffic and Vehicles and Waterways (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/6)](https://www.legislation.gov.uk/nisr/2019/6), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/6/regulation/1/1), [11](https://www.legislation.gov.uk/nisr/2019/6/regulation/11)
+[^c-b6e8bd5a6f9f6c03707d3ba6a4a10114]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/36/regulation/2/1) substituted (18.2.2019) by [The Road Traffic and Vehicles and Waterways (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/6)](https://www.legislation.gov.uk/nisr/2019/6), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/6/regulation/1/1), [11](https://www.legislation.gov.uk/nisr/2019/6/regulation/11)
 
-[^key-5831cdfc31ee8f03c468b533b362a666]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/36/regulation/2/1) substituted (31.10.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/343)](https://www.legislation.gov.uk/nisr/2016/343), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/343/regulation/1/1), [4(2)(c)](https://www.legislation.gov.uk/nisr/2016/343/regulation/4/2/c)
+[^c-5831cdfc31ee8f03c468b533b362a666]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/36/regulation/2/1) substituted (31.10.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/343)](https://www.legislation.gov.uk/nisr/2016/343), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/343/regulation/1/1), [4(2)(c)](https://www.legislation.gov.uk/nisr/2016/343/regulation/4/2/c)
 
 [^f00014]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-da7b63ecbb9b1335dc6b9fc40af47d14]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/nisr/2007/36/regulation/2/3) added (31.10.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/343)](https://www.legislation.gov.uk/nisr/2016/343), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/343/regulation/1/1), [4(3)](https://www.legislation.gov.uk/nisr/2016/343/regulation/4/3)
+[^c-da7b63ecbb9b1335dc6b9fc40af47d14]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/nisr/2007/36/regulation/2/3) added (31.10.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/343)](https://www.legislation.gov.uk/nisr/2016/343), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/343/regulation/1/1), [4(3)](https://www.legislation.gov.uk/nisr/2016/343/regulation/4/3)
 
-[^key-b1595378c05cc2b87a82b496bc087ce9]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2007/36/regulation/3) in operation at 8.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/36/regulation/1)
+[^c-b1595378c05cc2b87a82b496bc087ce9]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2007/36/regulation/3) in operation at 8.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/36/regulation/1)
 
-[^key-18c35be9c121573f23071260dd85ed25]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2007/36/regulation/4) in operation at 8.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/36/regulation/1)
+[^c-18c35be9c121573f23071260dd85ed25]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2007/36/regulation/4) in operation at 8.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/36/regulation/1)
 
-[^key-21faeb9112db540cd99b3e4ed3a2b4de]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2007/36/regulation/5) in operation at 8.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/36/regulation/1)
+[^c-21faeb9112db540cd99b3e4ed3a2b4de]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2007/36/regulation/5) in operation at 8.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/36/regulation/1)
 
-[^key-0565054fcd5b4f4fa6be44a51035df6a]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2007/36/regulation/6) in operation at 8.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/36/regulation/1)
+[^c-0565054fcd5b4f4fa6be44a51035df6a]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2007/36/regulation/6) in operation at 8.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/36/regulation/1)
 
-[^key-7cf18fb2d0d2dddf6bdb02661328629e]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2007/36/regulation/7) in operation at 8.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/36/regulation/1)
+[^c-7cf18fb2d0d2dddf6bdb02661328629e]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2007/36/regulation/7) in operation at 8.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/36/regulation/1)
 
 [^f00015]: Footnote: [S.I. 1995 No. 2994 (N.I.18)](https://www.legislation.gov.uk/nisi/1995/2994)

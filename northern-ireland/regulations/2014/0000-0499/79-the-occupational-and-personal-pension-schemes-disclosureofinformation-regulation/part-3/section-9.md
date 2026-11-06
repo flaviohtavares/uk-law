@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 9. Modification by the Regulator[^key-34df228d1c716f7a4e6b57be2cdcdc84]
+## 9. Modification by the Regulator[^c-34df228d1c716f7a4e6b57be2cdcdc84]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Active members must be informed of any modification to the scheme by the Regulat
 
 ## Annotations
 
-[^key-34df228d1c716f7a4e6b57be2cdcdc84]: Commencement: Reg. 9 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)
+[^c-34df228d1c716f7a4e6b57be2cdcdc84]: Commencement: Reg. 9 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)

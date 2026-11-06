@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Dissolution of certain bodies.[^key-74af1ed7be68d0937d05c2e9e92f1d38]
+## 39. Dissolution of certain bodies.[^c-74af1ed7be68d0937d05c2e9e92f1d38]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-74af1ed7be68d0937d05c2e9e92f1d38]: Textual amendment: [S. 39](https://www.legislation.gov.uk/ukpga/1983/47/section/39) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 10
+[^c-74af1ed7be68d0937d05c2e9e92f1d38]: Textual amendment: [S. 39](https://www.legislation.gov.uk/ukpga/1983/47/section/39) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 10

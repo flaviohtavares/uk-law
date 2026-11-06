@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 1. Citation and commencement[^key-4ab1b99053107ce4f965d84fa85baa9a]
+## 1. Citation and commencement[^c-4ab1b99053107ce4f965d84fa85baa9a]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ These Regulations may be cited as the Housing Renovation, etc. Grants (Reduction
 
 ## Annotations
 
-[^key-4ab1b99053107ce4f965d84fa85baa9a]: Commencement: Reg. 1 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
+[^c-4ab1b99053107ce4f965d84fa85baa9a]: Commencement: Reg. 1 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)

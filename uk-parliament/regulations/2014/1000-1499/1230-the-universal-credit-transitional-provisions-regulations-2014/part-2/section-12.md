@@ -22,9 +22,9 @@ summary: ''
 
 (1) This regulation applies where—
 
-- (a) a claim for universal credit is made, or is treated as having been made; and[^key-feb18f4636ba6eea7e54653788b135d6]
-- (b) the claimant is, or was at any time during the tax year in which the claim is made or treated as made, entitled to a tax credit; [^key-1b559929e517b1555916f9f57fb6b335]...
-- (c)[^key-1b559929e517b1555916f9f57fb6b335] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) a claim for universal credit is made, or is treated as having been made; and[^c-feb18f4636ba6eea7e54653788b135d6]
+- (b) the claimant is, or was at any time during the tax year in which the claim is made or treated as made, entitled to a tax credit; [^c-1b559929e517b1555916f9f57fb6b335]...
+- (c)[^c-1b559929e517b1555916f9f57fb6b335] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Where this regulation applies, the 2002 Act applies in relation to the claimant with the following modifications.
 
@@ -32,12 +32,12 @@ summary: ''
 
 - (a) in subsection (1)—
   - (i) after “tax year” in both places where it occurs, insert “ or part tax year ”;
-  - (ii)[^key-ed7f722767fd2ce81fcc7ddc08e2c7f4] in paragraph (b), for the words from “as if it were” to the end substitute “as an overpayment of universal credit”;
-- (b)[^key-9f3381557af0a127615d75b4ad25cd80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^c-ed7f722767fd2ce81fcc7ddc08e2c7f4] in paragraph (b), for the words from “as if it were” to the end substitute “as an overpayment of universal credit”;
+- (b)[^c-9f3381557af0a127615d75b4ad25cd80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) omit subsection (5);
 - (d) in subsection (6) omit “(apart from subsection (5))”.
 
-(4)[^key-68e9ae8ea75230962c2a4ec70ee422bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-68e9ae8ea75230962c2a4ec70ee422bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In section 48 after the definition of “overpayment” insert—
 
@@ -49,12 +49,12 @@ summary: ''
 
 ## Annotations
 
-[^key-feb18f4636ba6eea7e54653788b135d6]: Textual amendment: Word in [reg. 12(1)(a)](https://www.legislation.gov.uk/uksi/2014/1230/regulation/12/1/a) inserted (25.7.2022) by [The Universal Credit (Transitional Provisions) Amendment Regulations 2022 (S.I. 2022/752)](https://www.legislation.gov.uk/uksi/2022/752), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/752/regulation/1/1), [5(4)(a)](https://www.legislation.gov.uk/uksi/2022/752/regulation/5/4/a)
+[^c-feb18f4636ba6eea7e54653788b135d6]: Textual amendment: Word in [reg. 12(1)(a)](https://www.legislation.gov.uk/uksi/2014/1230/regulation/12/1/a) inserted (25.7.2022) by [The Universal Credit (Transitional Provisions) Amendment Regulations 2022 (S.I. 2022/752)](https://www.legislation.gov.uk/uksi/2022/752), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/752/regulation/1/1), [5(4)(a)](https://www.legislation.gov.uk/uksi/2022/752/regulation/5/4/a)
 
-[^key-1b559929e517b1555916f9f57fb6b335]: Textual amendment: [Reg. 12(1)(c)](https://www.legislation.gov.uk/uksi/2014/1230/regulation/12/1/c) and word omitted (25.7.2022) by virtue of [The Universal Credit (Transitional Provisions) Amendment Regulations 2022 (S.I. 2022/752)](https://www.legislation.gov.uk/uksi/2022/752), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/752/regulation/1/1), [5(4)(b)](https://www.legislation.gov.uk/uksi/2022/752/regulation/5/4/b)
+[^c-1b559929e517b1555916f9f57fb6b335]: Textual amendment: [Reg. 12(1)(c)](https://www.legislation.gov.uk/uksi/2014/1230/regulation/12/1/c) and word omitted (25.7.2022) by virtue of [The Universal Credit (Transitional Provisions) Amendment Regulations 2022 (S.I. 2022/752)](https://www.legislation.gov.uk/uksi/2022/752), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/752/regulation/1/1), [5(4)(b)](https://www.legislation.gov.uk/uksi/2022/752/regulation/5/4/b)
 
-[^key-ed7f722767fd2ce81fcc7ddc08e2c7f4]: Textual amendment: Reg. 12(3)(a)(ii) substituted (25.9.2017) by [The Tax Credits (Exercise of Functions in relation to Northern Ireland and Notices for Recovery of Tax Credit Overpayments) Order 2017 (S.I. 2017/781)](https://www.legislation.gov.uk/uksi/2017/781), [arts. 1](https://www.legislation.gov.uk/uksi/2017/781/article/1), [7(2)(a)](https://www.legislation.gov.uk/uksi/2017/781/article/7/2/a)
+[^c-ed7f722767fd2ce81fcc7ddc08e2c7f4]: Textual amendment: Reg. 12(3)(a)(ii) substituted (25.9.2017) by [The Tax Credits (Exercise of Functions in relation to Northern Ireland and Notices for Recovery of Tax Credit Overpayments) Order 2017 (S.I. 2017/781)](https://www.legislation.gov.uk/uksi/2017/781), [arts. 1](https://www.legislation.gov.uk/uksi/2017/781/article/1), [7(2)(a)](https://www.legislation.gov.uk/uksi/2017/781/article/7/2/a)
 
-[^key-9f3381557af0a127615d75b4ad25cd80]: Textual amendment: Reg. 12(3)(b) omitted (25.9.2017) by virtue of [The Tax Credits (Exercise of Functions in relation to Northern Ireland and Notices for Recovery of Tax Credit Overpayments) Order 2017 (S.I. 2017/781)](https://www.legislation.gov.uk/uksi/2017/781), [arts. 1](https://www.legislation.gov.uk/uksi/2017/781/article/1), [7(2)(b)](https://www.legislation.gov.uk/uksi/2017/781/article/7/2/b)
+[^c-9f3381557af0a127615d75b4ad25cd80]: Textual amendment: Reg. 12(3)(b) omitted (25.9.2017) by virtue of [The Tax Credits (Exercise of Functions in relation to Northern Ireland and Notices for Recovery of Tax Credit Overpayments) Order 2017 (S.I. 2017/781)](https://www.legislation.gov.uk/uksi/2017/781), [arts. 1](https://www.legislation.gov.uk/uksi/2017/781/article/1), [7(2)(b)](https://www.legislation.gov.uk/uksi/2017/781/article/7/2/b)
 
-[^key-68e9ae8ea75230962c2a4ec70ee422bf]: Textual amendment: Reg. 12(4) omitted (25.9.2017) by virtue of [The Tax Credits (Exercise of Functions in relation to Northern Ireland and Notices for Recovery of Tax Credit Overpayments) Order 2017 (S.I. 2017/781)](https://www.legislation.gov.uk/uksi/2017/781), [arts. 1](https://www.legislation.gov.uk/uksi/2017/781/article/1), [7(3)](https://www.legislation.gov.uk/uksi/2017/781/article/7/3)
+[^c-68e9ae8ea75230962c2a4ec70ee422bf]: Textual amendment: Reg. 12(4) omitted (25.9.2017) by virtue of [The Tax Credits (Exercise of Functions in relation to Northern Ireland and Notices for Recovery of Tax Credit Overpayments) Order 2017 (S.I. 2017/781)](https://www.legislation.gov.uk/uksi/2017/781), [arts. 1](https://www.legislation.gov.uk/uksi/2017/781/article/1), [7(3)](https://www.legislation.gov.uk/uksi/2017/781/article/7/3)

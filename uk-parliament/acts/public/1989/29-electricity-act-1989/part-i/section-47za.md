@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47ZA. Annual report by Authority on security of electricity supply[^key-ad645742e085140b43d43696bab205c1]
+## 47ZA. Annual report by Authority on security of electricity supply[^c-ad645742e085140b43d43696bab205c1]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ad645742e085140b43d43696bab205c1]: Textual amendment: S. 47ZA repealed (1.1.2015) by [The Electricity Capacity Regulations 2014 (S.I. 2014/2043)](https://www.legislation.gov.uk/uksi/2014/2043), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/1/4), [88](https://www.legislation.gov.uk/uksi/2014/2043/regulation/88)
+[^c-ad645742e085140b43d43696bab205c1]: Textual amendment: S. 47ZA repealed (1.1.2015) by [The Electricity Capacity Regulations 2014 (S.I. 2014/2043)](https://www.legislation.gov.uk/uksi/2014/2043), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/1/4), [88](https://www.legislation.gov.uk/uksi/2014/2043/regulation/88)

@@ -20,15 +20,15 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) A person or partnership with a patient list, or a person who performs services on behalf of a provider of primary medical services, who wishes to be granted the right to provide pharmaceutical services to patients on their own list or the provider's list (if the patients apply under regulation 48(1) on the basis of Condition 2 or 3) may apply in writing to NHS England[^key-fedf3951d93bcf656ad03378f887d7d5] for—
+(1) A person or partnership with a patient list, or a person who performs services on behalf of a provider of primary medical services, who wishes to be granted the right to provide pharmaceutical services to patients on their own list or the provider's list (if the patients apply under regulation 48(1) on the basis of Condition 2 or 3) may apply in writing to NHS England[^c-fedf3951d93bcf656ad03378f887d7d5] for—
 
 - (a) consent (“outline consent”) to the provision of pharmaceutical services to patients who request those services and who reside in the area specified in the application;
-- (b) approval of any medical practice premises at or[^key-3b1bb2e92623e90ef1b35efea7daaff3] from which D wishes to dispense (“premises approval”).
+- (b) approval of any medical practice premises at or[^c-3b1bb2e92623e90ef1b35efea7daaff3] from which D wishes to dispense (“premises approval”).
 
 (2) Where D has outline consent that has taken effect and wishes to apply for premises approval in relation to—
 
-- (a) additional medical practice premises at or[^key-356243efb9719a2c717096b86d00cd62] from which to provide pharmaceutical services to patients who reside in the area for which D has an outline consent; or
-- (b) medical practice premises at or[^key-09bd0f296863ddf0099f876ab9e5a080] from which D wishes to relocate to provide pharmaceutical services to patients who reside in the area for which D has an outline consent, but the move to new medical practice premises is not a relocation of the type provided for in regulation 55(2),
+- (a) additional medical practice premises at or[^c-356243efb9719a2c717096b86d00cd62] from which to provide pharmaceutical services to patients who reside in the area for which D has an outline consent; or
+- (b) medical practice premises at or[^c-09bd0f296863ddf0099f876ab9e5a080] from which D wishes to relocate to provide pharmaceutical services to patients who reside in the area for which D has an outline consent, but the move to new medical practice premises is not a relocation of the type provided for in regulation 55(2),
 
 the premises approval application need not have a related outline consent application, but in all other cases a premises approval application under paragraph (1)(b) must have a related outline consent application.
 
@@ -71,12 +71,12 @@ unless NHS England is satisfied that there has been a substantial and relevant c
 
 ## Annotations
 
-[^key-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
-[^key-3b1bb2e92623e90ef1b35efea7daaff3]: Textual amendment: Words in [reg. 51(1)(b)](https://www.legislation.gov.uk/uksi/2013/349/regulation/51/1/b) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [32(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/32/2)
+[^c-3b1bb2e92623e90ef1b35efea7daaff3]: Textual amendment: Words in [reg. 51(1)(b)](https://www.legislation.gov.uk/uksi/2013/349/regulation/51/1/b) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [32(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/32/2)
 
-[^key-356243efb9719a2c717096b86d00cd62]: Textual amendment: Words in [reg. 51(2)(a)](https://www.legislation.gov.uk/uksi/2013/349/regulation/51/2/a) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [32(3)(a)](https://www.legislation.gov.uk/uksi/2025/989/regulation/32/3/a)
+[^c-356243efb9719a2c717096b86d00cd62]: Textual amendment: Words in [reg. 51(2)(a)](https://www.legislation.gov.uk/uksi/2013/349/regulation/51/2/a) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [32(3)(a)](https://www.legislation.gov.uk/uksi/2025/989/regulation/32/3/a)
 
-[^key-09bd0f296863ddf0099f876ab9e5a080]: Textual amendment: Words in [reg. 51(2)(b)](https://www.legislation.gov.uk/uksi/2013/349/regulation/51/2/b) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [32(3)(b)](https://www.legislation.gov.uk/uksi/2025/989/regulation/32/3/b)
+[^c-09bd0f296863ddf0099f876ab9e5a080]: Textual amendment: Words in [reg. 51(2)(b)](https://www.legislation.gov.uk/uksi/2013/349/regulation/51/2/b) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [32(3)(b)](https://www.legislation.gov.uk/uksi/2025/989/regulation/32/3/b)
 
 [^c21646901]: Marginal citation: Prior to its revocation, regulation 18(2) was amended by [S.I. 2005/1501](https://www.legislation.gov.uk/uksi/2005/1501) and 2010/914.

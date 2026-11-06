@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Restriction on giving notice under section 173 and under landlord's break clause following retaliatory possession claim[^key-79f886e60f8b0c04b5ca2df0951a6e90]
+## 9. Restriction on giving notice under section 173 and under landlord's break clause following retaliatory possession claim[^c-79f886e60f8b0c04b5ca2df0951a6e90]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-79f886e60f8b0c04b5ca2df0951a6e90]: Commencement: [S. 9](https://www.legislation.gov.uk/asc/2021/3/section/9) in force at 7.6.2021, see [s. 19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3)
+[^c-79f886e60f8b0c04b5ca2df0951a6e90]: Commencement: [S. 9](https://www.legislation.gov.uk/asc/2021/3/section/9) in force at 7.6.2021, see [s. 19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3)

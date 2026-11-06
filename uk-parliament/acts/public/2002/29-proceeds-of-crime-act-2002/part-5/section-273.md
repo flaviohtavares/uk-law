@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 273. Payments in respect of rights under pension schemes[^key-45915e1c13c56026366a1c8ad7f990f1]
+## 273. Payments in respect of rights under pension schemes[^c-45915e1c13c56026366a1c8ad7f990f1]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,7 +34,7 @@ summary: ''
 (4) A recovery order made by virtue of subsection (2) may provide for the recovery by the trustees or managers of the scheme (whether by deduction from any amount which they are required to pay to the trustee for civil recovery or otherwise) of costs incurred by them in—
 
 - (a) complying with the recovery order, or
-- (b) providing information, before the order was made, to the enforcement authority, receiver appointed under section 245E, *(Extent: E+W+N.I.)*[^key-71101f46939aa0b22f4926b5da9c6f22] PPO receiver,[^key-6320778dbd120af6d0e22533cad709ce] interim receiver or interim administrator.
+- (b) providing information, before the order was made, to the enforcement authority, receiver appointed under section 245E, *(Extent: E+W+N.I.)*[^c-71101f46939aa0b22f4926b5da9c6f22] PPO receiver,[^c-6320778dbd120af6d0e22533cad709ce] interim receiver or interim administrator.
 
 (5) None of the following provisions applies to a court making a recovery order by virtue of subsection (2)—
 
@@ -44,8 +44,8 @@ summary: ''
 
 ## Annotations
 
-[^key-45915e1c13c56026366a1c8ad7f990f1]: Commencement: S. 273 in force at 24.2.2003 by [S.I. 2003/120](https://www.legislation.gov.uk/uksi/2003/120), [art. 2](https://www.legislation.gov.uk/uksi/2003/120/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/120/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/120/article/3), [4](https://www.legislation.gov.uk/uksi/2003/120/article/4)) (as amended (20.2.2003) by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), art. 14)
+[^c-45915e1c13c56026366a1c8ad7f990f1]: Commencement: S. 273 in force at 24.2.2003 by [S.I. 2003/120](https://www.legislation.gov.uk/uksi/2003/120), [art. 2](https://www.legislation.gov.uk/uksi/2003/120/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/120/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/120/article/3), [4](https://www.legislation.gov.uk/uksi/2003/120/article/4)) (as amended (20.2.2003) by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), art. 14)
 
-[^key-71101f46939aa0b22f4926b5da9c6f22]: Textual amendment: Words in s. 273(4)(b) inserted (E.W.N.I.) (6.4.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [ss. 83(2)](https://www.legislation.gov.uk/ukpga/2007/27/section/83/2), [94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1); [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 17(1)(h)](https://www.legislation.gov.uk/uksi/2008/755/article/17/1/h)
+[^c-71101f46939aa0b22f4926b5da9c6f22]: Textual amendment: Words in s. 273(4)(b) inserted (E.W.N.I.) (6.4.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [ss. 83(2)](https://www.legislation.gov.uk/ukpga/2007/27/section/83/2), [94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1); [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 17(1)(h)](https://www.legislation.gov.uk/uksi/2008/755/article/17/1/h)
 
-[^key-6320778dbd120af6d0e22533cad709ce]: Textual amendment: Words in s. 273(4)(b) inserted (1.6.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 4 para. 52](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/52); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 3(q)(iv)](https://www.legislation.gov.uk/uksi/2015/820/regulation/3/q/iv)
+[^c-6320778dbd120af6d0e22533cad709ce]: Textual amendment: Words in s. 273(4)(b) inserted (1.6.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 4 para. 52](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/52); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 3(q)(iv)](https://www.legislation.gov.uk/uksi/2015/820/regulation/3/q/iv)

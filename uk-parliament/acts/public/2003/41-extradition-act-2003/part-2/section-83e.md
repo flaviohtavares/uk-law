@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83E. Interpretation of sections 83A to 83D[^key-465d240a011ee7a98265e09fec07438b]
+## 83E. Interpretation of sections 83A to 83D[^c-465d240a011ee7a98265e09fec07438b]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-465d240a011ee7a98265e09fec07438b]: Textual amendment: [Ss. 83A-83E](https://www.legislation.gov.uk/ukpga/2003/41/section/83A) inserted (18.9.2013 for specified purposes, 14.10.2013 for E.W.N.I. in so far as not already in force) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 20 para. 6](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/6) (with [Sch. 20 para. 7](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/7)[8](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/8)); [S.I. 2013/2349](https://www.legislation.gov.uk/uksi/2013/2349), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/2349/article/2/2)[(3)](https://www.legislation.gov.uk/uksi/2013/2349/article/2/3)
+[^c-465d240a011ee7a98265e09fec07438b]: Textual amendment: [Ss. 83A-83E](https://www.legislation.gov.uk/ukpga/2003/41/section/83A) inserted (18.9.2013 for specified purposes, 14.10.2013 for E.W.N.I. in so far as not already in force) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 20 para. 6](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/6) (with [Sch. 20 para. 7](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/7)[8](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/8)); [S.I. 2013/2349](https://www.legislation.gov.uk/uksi/2013/2349), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/2349/article/2/2)[(3)](https://www.legislation.gov.uk/uksi/2013/2349/article/2/3)

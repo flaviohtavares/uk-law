@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1. Citation and commencement[^key-8987142af852aa967f3aef3fc93759ba]
+## 1. Citation and commencement[^c-8987142af852aa967f3aef3fc93759ba]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ This Order may be cited as the Docklands Light Railway (Capacity Enhancement) Or
 
 ## Annotations
 
-[^key-8987142af852aa967f3aef3fc93759ba]: Commencement: Art. 1 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)
+[^c-8987142af852aa967f3aef3fc93759ba]: Commencement: Art. 1 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)

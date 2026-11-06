@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 157. Publication of local policing information[^key-dae5be044aa654f57c13ab837eba43a9]
+## 157. Publication of local policing information[^c-dae5be044aa654f57c13ab837eba43a9]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ After section 8 of the Police Act 1996 (c. 16) insert—
 
 ## Annotations
 
-[^key-dae5be044aa654f57c13ab837eba43a9]: Commencement: [S. 157](https://www.legislation.gov.uk/ukpga/2005/15/section/157) in force at 1.4.2006 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 5(2)](https://www.legislation.gov.uk/uksi/2005/1521/article/5/2)
+[^c-dae5be044aa654f57c13ab837eba43a9]: Commencement: [S. 157](https://www.legislation.gov.uk/ukpga/2005/15/section/157) in force at 1.4.2006 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 5(2)](https://www.legislation.gov.uk/uksi/2005/1521/article/5/2)

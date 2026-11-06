@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 22. Information to be provided by enforcement authorities[^key-3f872560c3530da0ac11f07e9d50f1cd]
+## 22. Information to be provided by enforcement authorities[^c-3f872560c3530da0ac11f07e9d50f1cd]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Every district council shall provide the Department with such information relati
 
 ## Annotations
 
-[^key-3f872560c3530da0ac11f07e9d50f1cd]: Commencement: Reg. 22 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/494/regulation/1)
+[^c-3f872560c3530da0ac11f07e9d50f1cd]: Commencement: Reg. 22 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/494/regulation/1)

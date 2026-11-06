@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 34. Tenant Farming Commissioner: confidentiality of information[^key-728adc7b1bf1ff53b04ca323a28d5911]
+## 34. Tenant Farming Commissioner: confidentiality of information[^c-728adc7b1bf1ff53b04ca323a28d5911]
 
 *Extent: S*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-728adc7b1bf1ff53b04ca323a28d5911]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2016/18/section/34) in force at 1.4.2017 by [S.S.I. 2016/250](https://www.legislation.gov.uk/ssi/2016/250), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2016/250/regulation/2/3), [sch. 2](https://www.legislation.gov.uk/ssi/2016/250/schedule/2)
+[^c-728adc7b1bf1ff53b04ca323a28d5911]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2016/18/section/34) in force at 1.4.2017 by [S.S.I. 2016/250](https://www.legislation.gov.uk/ssi/2016/250), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2016/250/regulation/2/3), [sch. 2](https://www.legislation.gov.uk/ssi/2016/250/schedule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Scope of licence of right in different cases.[^key-1765e658f61a3ab11008568f3de7ed2e]
+## 26. Scope of licence of right in different cases.[^c-1765e658f61a3ab11008568f3de7ed2e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1765e658f61a3ab11008568f3de7ed2e]: Textual amendment: S. 26 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 7
+[^c-1765e658f61a3ab11008568f3de7ed2e]: Textual amendment: S. 26 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 7

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 60. Dealing with noise at night[^key-35fed6b61d828465d9385fce95156cd0]
+## 60. Dealing with noise at night[^c-35fed6b61d828465d9385fce95156cd0]
 
 *Extent: N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-35fed6b61d828465d9385fce95156cd0]: Commencement: [S. 60](https://www.legislation.gov.uk/nia/2011/23/section/60) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-35fed6b61d828465d9385fce95156cd0]: Commencement: [S. 60](https://www.legislation.gov.uk/nia/2011/23/section/60) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)

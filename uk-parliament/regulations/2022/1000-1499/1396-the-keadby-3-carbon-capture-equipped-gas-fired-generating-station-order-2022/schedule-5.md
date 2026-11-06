@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 5 — ACCESS - THOSE PARTS OF THE ACCESS TO BE MAINTAINED AT THE PUBLIC EXPENSE[^key-826630eb3c4cafa27a9c516eed9bef9d]
+## SCHEDULE 5 — ACCESS - THOSE PARTS OF THE ACCESS TO BE MAINTAINED AT THE PUBLIC EXPENSE[^c-826630eb3c4cafa27a9c516eed9bef9d]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ Table 3
 
 ## Annotations
 
-[^key-826630eb3c4cafa27a9c516eed9bef9d]: Commencement: Sch. 5 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
+[^c-826630eb3c4cafa27a9c516eed9bef9d]: Commencement: Sch. 5 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)

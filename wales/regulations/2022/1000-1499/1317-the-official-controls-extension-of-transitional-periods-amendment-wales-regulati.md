@@ -52,7 +52,7 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 In accordance with Article 144(7) of Regulation (EU) 2017/625 of the European Parliament and of the Council on officials controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, the Welsh Ministers, before making these Regulations, have consulted such bodies and persons as appear to the Welsh Ministers to be representative of the interests likely to be substantially affected by these Regulations and such other bodies or persons as the Welsh Ministers consider appropriate.
 
-## 1. Title, extent, application and commencement[^key-da1fc47fe894af654eeb763c0bd8b988]
+## 1. Title, extent, application and commencement[^c-da1fc47fe894af654eeb763c0bd8b988]
 
 (1) The title of these Regulations is the Official Controls (Extension of Transitional Periods) (Amendment) (Wales) Regulations 2022.
 
@@ -62,7 +62,7 @@ In accordance with Article 144(7) of Regulation (EU) 2017/625 of the European Pa
 - (b) apply in relation to Wales;
 - (c) come into force on 30 December 2022.
 
-## 2. Amendment to the Official Controls (Extension of Transitional Periods) Regulations 2021[^key-9b562182c6cc667df073e1f578fc4521]
+## 2. Amendment to the Official Controls (Extension of Transitional Periods) Regulations 2021[^c-9b562182c6cc667df073e1f578fc4521]
 
 (1) The Official Controls (Extension of Transitional Periods) Regulations 2021[^f00003] are amended as follows.
 
@@ -74,7 +74,7 @@ In accordance with Article 144(7) of Regulation (EU) 2017/625 of the European Pa
 
 .
 
-## 3. Amendment to the Meat Preparations (Amendment and Transitory Modification) (Wales) (EU Exit) Regulations 2021[^key-01f26b6593437615056ebe858641d823][^key-817796d9c9deeac3f79e735fdf2b9279]
+## 3. Amendment to the Meat Preparations (Amendment and Transitory Modification) (Wales) (EU Exit) Regulations 2021[^c-01f26b6593437615056ebe858641d823][^c-817796d9c9deeac3f79e735fdf2b9279]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -102,12 +102,12 @@ The Welsh Ministers’ code of practice on the carrying out of regulatory impact
 
 [^f00002]: Footnote: [S.I. 2011/2379 (W. 252)](https://www.legislation.gov.uk/wsi/2011/2379). Paragraph 11A was inserted into Schedule 2 by regulation 2(2) of the Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) (Amendment) (EU Exit) Regulations 2020 ([S.I. 2020/1639 (W. 344)](https://www.legislation.gov.uk/wsi/2020/1639)).
 
-[^key-da1fc47fe894af654eeb763c0bd8b988]: Commencement: Reg. 1 in force at 30.12.2022, see [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2022/1317/regulation/1/2/c)
+[^c-da1fc47fe894af654eeb763c0bd8b988]: Commencement: Reg. 1 in force at 30.12.2022, see [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2022/1317/regulation/1/2/c)
 
-[^key-9b562182c6cc667df073e1f578fc4521]: Commencement: Reg. 2 in force at 30.12.2022, see [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2022/1317/regulation/1/2/c)
+[^c-9b562182c6cc667df073e1f578fc4521]: Commencement: Reg. 2 in force at 30.12.2022, see [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2022/1317/regulation/1/2/c)
 
 [^f00003]: Footnote: [S.I. 2021/809](https://www.legislation.gov.uk/uksi/2021/809), amended by [S.I. 2021/1096](https://www.legislation.gov.uk/uksi/2021/1096), [2021/1443](https://www.legislation.gov.uk/uksi/2021/1443) and [2022/621](https://www.legislation.gov.uk/uksi/2022/621).
 
-[^key-01f26b6593437615056ebe858641d823]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/wsi/2022/1317/regulation/3) revoked (28.4.2024) by [The Meat Preparations (Amendment) (Wales) Regulations 2024 (S.I. 2024/502)](https://www.legislation.gov.uk/wsi/2024/502), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/502/regulation/1/2), [3(f)](https://www.legislation.gov.uk/wsi/2024/502/regulation/3/f)
+[^c-01f26b6593437615056ebe858641d823]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/wsi/2022/1317/regulation/3) revoked (28.4.2024) by [The Meat Preparations (Amendment) (Wales) Regulations 2024 (S.I. 2024/502)](https://www.legislation.gov.uk/wsi/2024/502), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/502/regulation/1/2), [3(f)](https://www.legislation.gov.uk/wsi/2024/502/regulation/3/f)
 
-[^key-817796d9c9deeac3f79e735fdf2b9279]: Commencement: Reg. 3 in force at 30.12.2022, see [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2022/1317/regulation/1/2/c)
+[^c-817796d9c9deeac3f79e735fdf2b9279]: Commencement: Reg. 3 in force at 30.12.2022, see [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2022/1317/regulation/1/2/c)

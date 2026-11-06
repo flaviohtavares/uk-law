@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63A. Claimants who have lost certain transitional protection because of error[^key-07994f1a36d6c69a77c528a6664a68e3]
+## 63A. Claimants who have lost certain transitional protection because of error[^c-07994f1a36d6c69a77c528a6664a68e3]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ within the month immediately preceding the first day of the award of universal c
 
 ## Annotations
 
-[^key-07994f1a36d6c69a77c528a6664a68e3]: Textual amendment: [Reg. 63A](https://www.legislation.gov.uk/uksi/2014/1230/regulation/63A) inserted (29.1.2026) by [The Universal Credit (Transitional Provisions) (Amendment) Regulations 2026 (S.I. 2026/6)](https://www.legislation.gov.uk/uksi/2026/6), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/6/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2026/6/regulation/2/3)
+[^c-07994f1a36d6c69a77c528a6664a68e3]: Textual amendment: [Reg. 63A](https://www.legislation.gov.uk/uksi/2014/1230/regulation/63A) inserted (29.1.2026) by [The Universal Credit (Transitional Provisions) (Amendment) Regulations 2026 (S.I. 2026/6)](https://www.legislation.gov.uk/uksi/2026/6), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/6/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2026/6/regulation/2/3)

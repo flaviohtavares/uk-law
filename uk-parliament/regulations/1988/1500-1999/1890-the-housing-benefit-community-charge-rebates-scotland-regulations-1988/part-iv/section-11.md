@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 11. Calculation of income on a weekly basis[^key-691e4916ec6f9727fa377461056be406]
+## 11. Calculation of income on a weekly basis[^c-691e4916ec6f9727fa377461056be406]
 
 *Extent: E+W+S*
 
@@ -25,10 +25,10 @@ summary: ''
 - (a) by estimating the amount which is likely to be his average weekly income over the benefit period in accordance with this Chapter and Chapters III to V of this Part; and
 - (b) by adding to that amount the weekly income calculated under regulation 35 (calculation of tariff income from capital).
 
-(2) For the purposes of paragraph (1) “income” includes income derived under regulations 24 and 25 (capital treated as income and notional income).[^key-809d3f1b901c0d1da246668af445d1df]
+(2) For the purposes of paragraph (1) “income” includes income derived under regulations 24 and 25 (capital treated as income and notional income).[^c-809d3f1b901c0d1da246668af445d1df]
 
 ## Annotations
 
-[^key-691e4916ec6f9727fa377461056be406]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1988/1890/regulation/11) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
+[^c-691e4916ec6f9727fa377461056be406]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1988/1890/regulation/11) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
 
-[^key-809d3f1b901c0d1da246668af445d1df]: Textual amendment: Words in [reg. 11(2)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/11/2) substituted (1.4.1989) by [The Housing Benefit (Community Charge Rebates) (Scotland) Amendment Regulations 1989 (S.I. 1989/361)](https://www.legislation.gov.uk/uksi/1989/361), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/1989/361/regulation/1/1/b), [3](https://www.legislation.gov.uk/uksi/1989/361/regulation/3)
+[^c-809d3f1b901c0d1da246668af445d1df]: Textual amendment: Words in [reg. 11(2)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/11/2) substituted (1.4.1989) by [The Housing Benefit (Community Charge Rebates) (Scotland) Amendment Regulations 1989 (S.I. 1989/361)](https://www.legislation.gov.uk/uksi/1989/361), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/1989/361/regulation/1/1/b), [3](https://www.legislation.gov.uk/uksi/1989/361/regulation/3)

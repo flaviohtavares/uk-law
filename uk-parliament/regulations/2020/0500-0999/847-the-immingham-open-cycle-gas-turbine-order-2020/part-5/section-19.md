@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Power to override easements and other rights[^key-f9cc0d90f26f956f86bcfa5f042bd7e1]
+## 19. Power to override easements and other rights[^c-f9cc0d90f26f956f86bcfa5f042bd7e1]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ caused by the carrying out or use of the authorised development and the operatio
 
 ## Annotations
 
-[^key-f9cc0d90f26f956f86bcfa5f042bd7e1]: Commencement: Art. 19 in force at 1.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/847/article/1)
+[^c-f9cc0d90f26f956f86bcfa5f042bd7e1]: Commencement: Art. 19 in force at 1.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/847/article/1)

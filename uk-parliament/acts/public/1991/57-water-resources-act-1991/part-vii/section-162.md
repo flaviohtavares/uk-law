@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Without prejudice to the powers conferred by sections 161 to 161D[^c18738171] above and subsections (2) and (3) below, the appropriate agency[^key-774ff675d85722d26d1b3d2b1983663b] shall have power, on any land—
+(1) Without prejudice to the powers conferred by sections 161 to 161D[^c18738171] above and subsections (2) and (3) below, the appropriate agency[^c-774ff675d85722d26d1b3d2b1983663b] shall have power, on any land—
 
 - (a) which belongs to the appropriate agency; or
 - (b) over or in which the appropriate agency has acquired the necessary easements or rights,
@@ -59,6 +59,6 @@ and the provisions of section 160 above shall, so far as applicable, have effect
 
 [^c18738171]: Textual amendment: Words in s. 162(1) substituted (29.4.1999) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 120](https://www.legislation.gov.uk/ukpga/1995/25/section/120), [Sch. 22 para. 163](https://www.legislation.gov.uk/ukpga/1995/25/schedule/22/paragraph/163) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1999/1301](https://www.legislation.gov.uk/uksi/1999/1301), [art. 2](https://www.legislation.gov.uk/uksi/1999/1301/article/2)
 
-[^key-774ff675d85722d26d1b3d2b1983663b]: Textual amendment: Words in ss. 161D-164 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 283](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/283) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-774ff675d85722d26d1b3d2b1983663b]: Textual amendment: Words in ss. 161D-164 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 283](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/283) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c18738241]: Marginal citation: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56).

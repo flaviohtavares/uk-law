@@ -23,17 +23,17 @@ summary: ''
 (1) A common licence shall not be granted unless one of the persons to be married has sworn before a person having authority to grant such a licence—
 
 - (a) that he or she believes that there is no impediment of kindred or alliance or any other lawful cause, nor any suit commenced in any court, to bar or hinder the solemnization of the marriage in accordance with the licence;
-- (b)[^key-864b82bc071f7ba93b391c64ab6996ab] that one of the persons to be married has had his or her usual place of residence in the parish or other ecclesiastical district in which the marriage is to be solemnized for fifteen days immediately before the grant of the licence or that the parish church or authorised chapel in which the marriage is to be solemnized is the usual place of worship of those persons or of one of them;
-- (c)[^key-83e97b7dd25cb75158903d196b8db8a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-864b82bc071f7ba93b391c64ab6996ab] that one of the persons to be married has had his or her usual place of residence in the parish or other ecclesiastical district in which the marriage is to be solemnized for fifteen days immediately before the grant of the licence or that the parish church or authorised chapel in which the marriage is to be solemnized is the usual place of worship of those persons or of one of them;
+- (c)[^c-83e97b7dd25cb75158903d196b8db8a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (1A)[^c6279841] A common licence shall not be granted for the solemnization of a marriage mentioned in subsection (2) of section 1 of this Act unless—
 
 - (a) the person having authority to grant the licence is satisfied by the production of evidence that both the persons to be married have attained the age of twenty-one; and
 - (b) he has received a declaration in writing made by each of those persons specifying their affinal relationship and declaring that the younger of those persons has not at any time before attaining the age of eighteen been a child of the family in relation to the other.
 
-(1B)[^key-e672eac1598eace72a5c2e59c1697928] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1B)[^c-e672eac1598eace72a5c2e59c1697928] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(1C)[^key-c41969911a453ebe330e816b1b03940a] A common licence shall not be granted unless the persons to be married deliver to the person granting the licence specified evidence that both of the persons are relevant nationals.
+(1C)[^c-c41969911a453ebe330e816b1b03940a] A common licence shall not be granted unless the persons to be married deliver to the person granting the licence specified evidence that both of the persons are relevant nationals.
 
 (1D) For that purpose “**specified evidence**” means evidence that is in accordance with regulations made under section 28G.
 
@@ -49,15 +49,15 @@ summary: ''
 
 ## Annotations
 
-[^key-864b82bc071f7ba93b391c64ab6996ab]: Modification: S. 16(1)(b) modified (18.3.2010) by [Marriage (Wales) Act 2010 (c. 6)](https://www.legislation.gov.uk/ukpga/2010/6), [ss. 3(1)](https://www.legislation.gov.uk/ukpga/2010/6/section/3/1), [6(2)](https://www.legislation.gov.uk/ukpga/2010/6/section/6/2) (with [s. 1](https://www.legislation.gov.uk/ukpga/2010/6/section/1))
+[^c-864b82bc071f7ba93b391c64ab6996ab]: Modification: S. 16(1)(b) modified (18.3.2010) by [Marriage (Wales) Act 2010 (c. 6)](https://www.legislation.gov.uk/ukpga/2010/6), [ss. 3(1)](https://www.legislation.gov.uk/ukpga/2010/6/section/3/1), [6(2)](https://www.legislation.gov.uk/ukpga/2010/6/section/6/2) (with [s. 1](https://www.legislation.gov.uk/ukpga/2010/6/section/1))
 
-[^key-83e97b7dd25cb75158903d196b8db8a0]: Textual amendment: [S. 16(1)(c)](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/76/section/16/1/c) omitted (27.2.2023) by virtue of [Marriage and Civil Partnership (Minimum Age) Act 2022 (c. 28)](https://www.legislation.gov.uk/ukpga/2022/28), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2022/28/section/7/1), [Sch. para. 1(2)](https://www.legislation.gov.uk/ukpga/2022/28/schedule/paragraph/1/2) (with [s. 8](https://www.legislation.gov.uk/ukpga/2022/28/section/8)); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2) (with [regs. 3-17](https://www.legislation.gov.uk/uksi/2023/88/regulation/3))
+[^c-83e97b7dd25cb75158903d196b8db8a0]: Textual amendment: [S. 16(1)(c)](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/76/section/16/1/c) omitted (27.2.2023) by virtue of [Marriage and Civil Partnership (Minimum Age) Act 2022 (c. 28)](https://www.legislation.gov.uk/ukpga/2022/28), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2022/28/section/7/1), [Sch. para. 1(2)](https://www.legislation.gov.uk/ukpga/2022/28/schedule/paragraph/1/2) (with [s. 8](https://www.legislation.gov.uk/ukpga/2022/28/section/8)); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2) (with [regs. 3-17](https://www.legislation.gov.uk/uksi/2023/88/regulation/3))
 
 [^c6279841]: Textual amendment: S. 16 (1A)(1B) inserted by [Marriage (Prohibited Degrees of Relationship) Act 1986 (c. 16, SIF 49:1)](https://www.legislation.gov.uk/ukpga/1986/16), [s. 1(4)(6)](https://www.legislation.gov.uk/ukpga/1986/16/section/1/4/6), [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/1986/16/schedule/1/paragraph/4)(*a*)
 
-[^key-e672eac1598eace72a5c2e59c1697928]: Textual amendment: S. 16(1B) repealed (1.3.2007) by [The Marriage Act 1949 (Remedial) Order 2007 (S.I. 2007/438)](https://www.legislation.gov.uk/uksi/2007/438), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/438/article/1/1), [3(a)(i)](https://www.legislation.gov.uk/uksi/2007/438/article/3/a/i) (with [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/438/section/1/2))
+[^c-e672eac1598eace72a5c2e59c1697928]: Textual amendment: S. 16(1B) repealed (1.3.2007) by [The Marriage Act 1949 (Remedial) Order 2007 (S.I. 2007/438)](https://www.legislation.gov.uk/uksi/2007/438), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/438/article/1/1), [3(a)(i)](https://www.legislation.gov.uk/uksi/2007/438/article/3/a/i) (with [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/438/section/1/2))
 
-[^key-c41969911a453ebe330e816b1b03940a]: Textual amendment: S. 16(1C)(1D) inserted (2.3.2015) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [ss. 57(4)](https://www.legislation.gov.uk/ukpga/2014/22/section/57/4), [75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3); [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(2)](https://www.legislation.gov.uk/uksi/2015/371/article/2/2) (with [art. 5](https://www.legislation.gov.uk/uksi/2015/371/article/5))
+[^c-c41969911a453ebe330e816b1b03940a]: Textual amendment: S. 16(1C)(1D) inserted (2.3.2015) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [ss. 57(4)](https://www.legislation.gov.uk/ukpga/2014/22/section/57/4), [75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3); [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(2)](https://www.legislation.gov.uk/uksi/2015/371/article/2/2) (with [art. 5](https://www.legislation.gov.uk/uksi/2015/371/article/5))
 
 [^c6279851]: Textual amendment: Words inserted by [Marriage (Prohibited Degrees of Relationship) Act 1986 (c. 16, SIF 49:1)](https://www.legislation.gov.uk/ukpga/1986/16), [s. 1(4)(6)](https://www.legislation.gov.uk/ukpga/1986/16/section/1/4/6), [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/1986/16/schedule/1/paragraph/4)(*b*)
 

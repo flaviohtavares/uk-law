@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 191. Interpretation of Part[^key-92e612ca2a8cc96516ccf960c911a9ce]
+## 191. Interpretation of Part[^c-92e612ca2a8cc96516ccf960c911a9ce]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-92e612ca2a8cc96516ccf960c911a9ce]: Textual amendment: Ss. 175-191 repealed (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 25](https://www.legislation.gov.uk/ukpga/2011/21/section/25), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-92e612ca2a8cc96516ccf960c911a9ce]: Textual amendment: Ss. 175-191 repealed (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 25](https://www.legislation.gov.uk/ukpga/2011/21/section/25), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)

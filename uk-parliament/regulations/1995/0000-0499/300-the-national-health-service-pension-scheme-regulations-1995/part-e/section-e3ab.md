@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## E3AB. Early retirement pension: additional contribution option[^key-cd8ddf0774391617335ec4c49f80fa62][^key-a34eee2796c72deba24f3a5639aa2017]
+## E3AB. Early retirement pension: additional contribution option[^c-cd8ddf0774391617335ec4c49f80fa62][^c-a34eee2796c72deba24f3a5639aa2017]
 
 *Extent: E+W+S*
 
@@ -59,6 +59,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cd8ddf0774391617335ec4c49f80fa62]: Textual amendment: [Reg. E3AB](https://www.legislation.gov.uk/uksi/1995/300/regulation/E3AB) inserted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2015/96/regulation/9)
+[^c-cd8ddf0774391617335ec4c49f80fa62]: Textual amendment: [Reg. E3AB](https://www.legislation.gov.uk/uksi/1995/300/regulation/E3AB) inserted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2015/96/regulation/9)
 
-[^key-a34eee2796c72deba24f3a5639aa2017]: Textual amendment: [Regs. E3-E3D](https://www.legislation.gov.uk/uksi/1995/300/regulation/E3) substituted for [reg. E3](https://www.legislation.gov.uk/uksi/1995/300/regulation/E3) (1.12.2006) by [The National Health Service (Pension Scheme and Compensation for Premature Retirement) Amendment Regulations 2006 (S.I. 2006/2919)](https://www.legislation.gov.uk/uksi/2006/2919), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/2919/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2006/2919/regulation/2/5)
+[^c-a34eee2796c72deba24f3a5639aa2017]: Textual amendment: [Regs. E3-E3D](https://www.legislation.gov.uk/uksi/1995/300/regulation/E3) substituted for [reg. E3](https://www.legislation.gov.uk/uksi/1995/300/regulation/E3) (1.12.2006) by [The National Health Service (Pension Scheme and Compensation for Premature Retirement) Amendment Regulations 2006 (S.I. 2006/2919)](https://www.legislation.gov.uk/uksi/2006/2919), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/2919/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2006/2919/regulation/2/5)

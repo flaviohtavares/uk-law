@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**76.**[^key-e5473c81e207df256f26748bcbd4c9a8] In rules 52.13(1)(a) and 52.13(1) and in the second note to rule 52.3(2), after “county court” insert “, family court”.
+**76.**[^c-e5473c81e207df256f26748bcbd4c9a8] In rules 52.13(1)(a) and 52.13(1) and in the second note to rule 52.3(2), after “county court” insert “, family court”.
 
 ## Annotations
 
-[^key-e5473c81e207df256f26748bcbd4c9a8]: Commencement: Art. 76 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-e5473c81e207df256f26748bcbd4c9a8]: Commencement: Art. 76 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

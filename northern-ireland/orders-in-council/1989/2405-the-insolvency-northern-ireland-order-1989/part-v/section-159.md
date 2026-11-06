@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 159. Notification that company is in liquidation[^key-5382c63d9681977c1c8e6a38bc2e3841]
+## 159. Notification that company is in liquidation[^c-5382c63d9681977c1c8e6a38bc2e3841]
 
 *Extent: N.I.*
 
@@ -31,7 +31,7 @@ must contain a statement that the company is being wound up.
 
 ## Annotations
 
-[^key-5382c63d9681977c1c8e6a38bc2e3841]: Modification: [Pts. 1-5](https://www.legislation.gov.uk/nisi/1989/2405/part/1) applied (with modifications) (4.1.2024) by [S.I. 2021/716](https://www.legislation.gov.uk/uksi/2021/716), [Sch. 1A para. 3](https://www.legislation.gov.uk/uksi/2021/716/schedule/1A/paragraph/3) (as inserted by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/1399/schedule/1))
+[^c-5382c63d9681977c1c8e6a38bc2e3841]: Modification: [Pts. 1-5](https://www.legislation.gov.uk/nisi/1989/2405/part/1) applied (with modifications) (4.1.2024) by [S.I. 2021/716](https://www.legislation.gov.uk/uksi/2021/716), [Sch. 1A para. 3](https://www.legislation.gov.uk/uksi/2021/716/schedule/1A/paragraph/3) (as inserted by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/1399/schedule/1))
 
 [^c20167831]: Textual amendment: [Art. 159(1)](https://www.legislation.gov.uk/nisi/1989/2405/article/159/1) substituted (1.1.2007) by [Companies (Registrar, Languages and Trading Disclosures) Regulations 2006 (S.I. 2006/3429)](https://www.legislation.gov.uk/uksi/2006/3429), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2006/3429/regulation/7/2)
 

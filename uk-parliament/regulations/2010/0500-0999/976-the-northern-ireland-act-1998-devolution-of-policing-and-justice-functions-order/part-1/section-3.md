@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Definitions[^key-9795eb5d9d374568fbbd641867cccd00]
+## 3. Definitions[^c-9795eb5d9d374568fbbd641867cccd00]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ In this Order—
 
 ## Annotations
 
-[^key-9795eb5d9d374568fbbd641867cccd00]: Commencement: Art. 3 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-9795eb5d9d374568fbbd641867cccd00]: Commencement: Art. 3 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)

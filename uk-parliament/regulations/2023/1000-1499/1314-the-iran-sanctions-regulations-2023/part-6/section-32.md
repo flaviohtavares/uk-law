@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Technical assistance relating to restricted goods and restricted technology[^key-558621f5ef590990a1c65a2fa6dad926]
+## 32. Technical assistance relating to restricted goods and restricted technology[^c-558621f5ef590990a1c65a2fa6dad926]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-558621f5ef590990a1c65a2fa6dad926]: Commencement: Reg. 32 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-558621f5ef590990a1c65a2fa6dad926]: Commencement: Reg. 32 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)

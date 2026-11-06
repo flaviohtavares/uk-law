@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 76. No failure to comply with a relevant requirement[^key-95b7a4613066024d63489a04a6a06eb5]
+## 76. No failure to comply with a relevant requirement[^c-95b7a4613066024d63489a04a6a06eb5]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-95b7a4613066024d63489a04a6a06eb5]: Commencement: [S. 76](https://www.legislation.gov.uk/mwa/2011/1/section/76) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(c)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/c)
+[^c-95b7a4613066024d63489a04a6a06eb5]: Commencement: [S. 76](https://www.legislation.gov.uk/mwa/2011/1/section/76) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(c)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/c)

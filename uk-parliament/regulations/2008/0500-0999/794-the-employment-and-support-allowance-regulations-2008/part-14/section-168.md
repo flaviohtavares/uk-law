@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 168. Reduction in certain cases[^key-ebfb7262a00c5dcc7578959fdbe9d08b]
+## 168. Reduction in certain cases[^c-ebfb7262a00c5dcc7578959fdbe9d08b]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ebfb7262a00c5dcc7578959fdbe9d08b]: Textual amendment: Reg. 168 substituted (29.10.2013) by [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2013 (S.I. 2013/2536)](https://www.legislation.gov.uk/uksi/2013/2536), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2536/regulation/1/1), [13(31)](https://www.legislation.gov.uk/uksi/2013/2536/regulation/13/31)
+[^c-ebfb7262a00c5dcc7578959fdbe9d08b]: Textual amendment: Reg. 168 substituted (29.10.2013) by [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2013 (S.I. 2013/2536)](https://www.legislation.gov.uk/uksi/2013/2536), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2536/regulation/1/1), [13(31)](https://www.legislation.gov.uk/uksi/2013/2536/regulation/13/31)

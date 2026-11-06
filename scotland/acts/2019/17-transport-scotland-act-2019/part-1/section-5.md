@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5. Reporting on strategy[^key-b077cd2eef18043f5109f44ea866ecc9]
+## 5. Reporting on strategy[^c-b077cd2eef18043f5109f44ea866ecc9]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b077cd2eef18043f5109f44ea866ecc9]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2019/17/section/5) in force at 15.1.2020 by [S.S.I. 2019/428](https://www.legislation.gov.uk/ssi/2019/428), [reg. 2](https://www.legislation.gov.uk/ssi/2019/428/regulation/2)
+[^c-b077cd2eef18043f5109f44ea866ecc9]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2019/17/section/5) in force at 15.1.2020 by [S.S.I. 2019/428](https://www.legislation.gov.uk/ssi/2019/428), [reg. 2](https://www.legislation.gov.uk/ssi/2019/428/regulation/2)

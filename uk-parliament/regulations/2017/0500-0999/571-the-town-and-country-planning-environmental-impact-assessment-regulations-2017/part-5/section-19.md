@@ -44,11 +44,11 @@ summary: ''
 
 (6) The relevant planning authority must not determine the EIA application until the expiry of 30 days from the last date on which a copy of the statement was served in accordance with this regulation.
 
-(7)[^key-6e0ced95fcfac8ec59853be3b1f1e3c4] For the purpose of this regulation references (however expressed) to—
+(7)[^c-6e0ced95fcfac8ec59853be3b1f1e3c4] For the purpose of this regulation references (however expressed) to—
 
 - (a) serving, submitting, sending or forwarding the environmental statement, or any other documents required under this regulation, includes serving, submitting, sending or forwarding that statement by electronic means; and
 - (b) an address includes an email address.
 
 ## Annotations
 
-[^key-6e0ced95fcfac8ec59853be3b1f1e3c4]: Textual amendment: [Reg. 19(7)](https://www.legislation.gov.uk/uksi/2017/571/regulation/19/7) inserted (temp. until 31.12.2021) (24.12.2020) by [The Town and Country Planning (Local Planning, Development Management Procedure, Listed Buildings etc.) (England) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/1398)](https://www.legislation.gov.uk/uksi/2020/1398), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1398/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2020/1398/regulation/8) (with [regs. 13](https://www.legislation.gov.uk/uksi/2020/1398/regulation/13), [15](https://www.legislation.gov.uk/uksi/2020/1398/regulation/15), [17-20](https://www.legislation.gov.uk/uksi/2020/1398/regulation/17))
+[^c-6e0ced95fcfac8ec59853be3b1f1e3c4]: Textual amendment: [Reg. 19(7)](https://www.legislation.gov.uk/uksi/2017/571/regulation/19/7) inserted (temp. until 31.12.2021) (24.12.2020) by [The Town and Country Planning (Local Planning, Development Management Procedure, Listed Buildings etc.) (England) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/1398)](https://www.legislation.gov.uk/uksi/2020/1398), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1398/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2020/1398/regulation/8) (with [regs. 13](https://www.legislation.gov.uk/uksi/2020/1398/regulation/13), [15](https://www.legislation.gov.uk/uksi/2020/1398/regulation/15), [17-20](https://www.legislation.gov.uk/uksi/2020/1398/regulation/17))

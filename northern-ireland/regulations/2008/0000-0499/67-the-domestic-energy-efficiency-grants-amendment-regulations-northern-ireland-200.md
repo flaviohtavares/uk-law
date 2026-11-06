@@ -31,7 +31,7 @@ summary: ''
 
 energy conservation
 
-The Domestic Energy Efficiency Grants (Amendment) Regulations (Northern Ireland) 2008 (revoked)[^key-45868c9892f9044d502cbf025676c354]
+The Domestic Energy Efficiency Grants (Amendment) Regulations (Northern Ireland) 2008 (revoked)[^c-45868c9892f9044d502cbf025676c354]
 
 Made
 
@@ -41,28 +41,28 @@ Coming into force
 
 1st April 2008
 
-[^key-45868c9892f9044d502cbf025676c354]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-45868c9892f9044d502cbf025676c354]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-45868c9892f9044d502cbf025676c354]
+## 1. Citation and commencement[^c-45868c9892f9044d502cbf025676c354]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments[^key-45868c9892f9044d502cbf025676c354]
+## 2. Amendments[^c-45868c9892f9044d502cbf025676c354]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-45868c9892f9044d502cbf025676c354] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-45868c9892f9044d502cbf025676c354] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-45868c9892f9044d502cbf025676c354] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-45868c9892f9044d502cbf025676c354] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-45868c9892f9044d502cbf025676c354]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-45868c9892f9044d502cbf025676c354]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-45868c9892f9044d502cbf025676c354]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-45868c9892f9044d502cbf025676c354]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-45868c9892f9044d502cbf025676c354]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2008/67) revoked (1.7.2009) by [The Domestic Energy Efficiency Grants Regulations (Northern Ireland) 2009 (S.R. 2009/195)](https://www.legislation.gov.uk/nisr/2009/195), [reg. 1](https://www.legislation.gov.uk/nisr/2009/195/regulation/1), [Sch.](https://www.legislation.gov.uk/nisr/2009/195/schedule)
+[^c-45868c9892f9044d502cbf025676c354]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2008/67) revoked (1.7.2009) by [The Domestic Energy Efficiency Grants Regulations (Northern Ireland) 2009 (S.R. 2009/195)](https://www.legislation.gov.uk/nisr/2009/195), [reg. 1](https://www.legislation.gov.uk/nisr/2009/195/regulation/1), [Sch.](https://www.legislation.gov.uk/nisr/2009/195/schedule)

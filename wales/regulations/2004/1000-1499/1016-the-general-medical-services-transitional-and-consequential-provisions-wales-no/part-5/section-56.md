@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 56. Interpretation of this Part[^key-bcfce83c81aa89622106707685a275e0]
+## 56. Interpretation of this Part[^c-bcfce83c81aa89622106707685a275e0]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ In this Part—
 
 ## Annotations
 
-[^key-bcfce83c81aa89622106707685a275e0]: Commencement: Art. 56 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-bcfce83c81aa89622106707685a275e0]: Commencement: Art. 56 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
 
 [^f00048]: Footnote: Paragraph 18A was inserted by [S.I. 1996/702](https://www.legislation.gov.uk/uksi/1996/702) and paragraph (2) was substituted, by [S.I. 2002/2548](https://www.legislation.gov.uk/uksi/2002/2548) and amended by [S.I. 2002/916 (W.104)](https://www.legislation.gov.uk/wsi/2002/916).

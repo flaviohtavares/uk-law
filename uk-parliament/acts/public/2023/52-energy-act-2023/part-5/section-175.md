@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 175. Pension arrangements[^key-75fc92379d9a26cf04b135f2117b7317]
+## 175. Pension arrangements[^c-75fc92379d9a26cf04b135f2117b7317]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 10 contains provision about pension arrangements in connection with the
 
 ## Annotations
 
-[^key-75fc92379d9a26cf04b135f2117b7317]: Commencement: S. 175 in force at Royal Assent, see [s. 334(2)(h)(ii)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/h)
+[^c-75fc92379d9a26cf04b135f2117b7317]: Commencement: S. 175 in force at Royal Assent, see [s. 334(2)(h)(ii)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/h)

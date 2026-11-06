@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68A. Aircraft: licensing offences[^key-d04117195232696d900c53745810f123]
+## 68A. Aircraft: licensing offences[^c-d04117195232696d900c53745810f123]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ for the purpose of obtaining an aircraft licence (whether for P or anyone else).
 
 ## Annotations
 
-[^key-d04117195232696d900c53745810f123]: Textual amendment: [Reg. 68A](https://www.legislation.gov.uk/uksi/2019/855/regulation/68A) inserted (30.3.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 7) Regulations 2022 (S.I. 2022/395)](https://www.legislation.gov.uk/uksi/2022/395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/395/regulation/1/2), [34](https://www.legislation.gov.uk/uksi/2022/395/regulation/34)
+[^c-d04117195232696d900c53745810f123]: Textual amendment: [Reg. 68A](https://www.legislation.gov.uk/uksi/2019/855/regulation/68A) inserted (30.3.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 7) Regulations 2022 (S.I. 2022/395)](https://www.legislation.gov.uk/uksi/2022/395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/395/regulation/1/2), [34](https://www.legislation.gov.uk/uksi/2022/395/regulation/34)

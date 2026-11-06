@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Registered person – general requirements[^key-5d453e1f2a92f7105450f54bd6fe8123]
+## 13. Registered person – general requirements[^c-5d453e1f2a92f7105450f54bd6fe8123]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5d453e1f2a92f7105450f54bd6fe8123]: Commencement: Reg. 13 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)
+[^c-5d453e1f2a92f7105450f54bd6fe8123]: Commencement: Reg. 13 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)

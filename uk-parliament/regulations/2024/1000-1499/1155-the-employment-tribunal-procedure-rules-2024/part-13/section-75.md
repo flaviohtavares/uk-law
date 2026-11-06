@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 75. Procedure[^key-f36812c04a6b54bc6baca3c7a043dcda]
+## 75. Procedure[^c-f36812c04a6b54bc6baca3c7a043dcda]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f36812c04a6b54bc6baca3c7a043dcda]: Commencement: [Rule 75](https://www.legislation.gov.uk/uksi/2024/1155/rule/75) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-f36812c04a6b54bc6baca3c7a043dcda]: Commencement: [Rule 75](https://www.legislation.gov.uk/uksi/2024/1155/rule/75) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)

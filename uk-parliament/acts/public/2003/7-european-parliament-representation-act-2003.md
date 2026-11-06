@@ -32,156 +32,156 @@ European Parliament (Representation) Act 2003 (repealed)
 
 2003 c. 7
 
-[^key-25a9deb29da61c0e3beac9b557b7e085]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-25a9deb29da61c0e3beac9b557b7e085]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Part 1 — Changes in total number of United Kingdom MEPs[^key-25a9deb29da61c0e3beac9b557b7e085]
+## Part 1 — Changes in total number of United Kingdom MEPs[^c-25a9deb29da61c0e3beac9b557b7e085]
 
-### Preliminary[^key-25a9deb29da61c0e3beac9b557b7e085]
+### Preliminary[^c-25a9deb29da61c0e3beac9b557b7e085]
 
-#### 1. Electoral regions in the United Kingdom[^key-25a9deb29da61c0e3beac9b557b7e085]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Electoral Commission recommendations relating to changes in total number of United Kingdom MEPs[^key-25a9deb29da61c0e3beac9b557b7e085]
-
-#### 2. References to changes under EU law[^key-25a9deb29da61c0e3beac9b557b7e085]
+#### 1. Electoral regions in the United Kingdom[^c-25a9deb29da61c0e3beac9b557b7e085]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3. Recommendations by Electoral Commission as to the distribution of United Kingdom MEPs[^key-25a9deb29da61c0e3beac9b557b7e085]
+### Electoral Commission recommendations relating to changes in total number of United Kingdom MEPs[^c-25a9deb29da61c0e3beac9b557b7e085]
+
+#### 2. References to changes under EU law[^c-25a9deb29da61c0e3beac9b557b7e085]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 4. Section 3: meaning of “elector”[^key-25a9deb29da61c0e3beac9b557b7e085]
+#### 3. Recommendations by Electoral Commission as to the distribution of United Kingdom MEPs[^c-25a9deb29da61c0e3beac9b557b7e085]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Implementation of changes in total number of United Kingdom MEPs[^key-25a9deb29da61c0e3beac9b557b7e085]
-
-#### 5. Orders implementing changes[^key-25a9deb29da61c0e3beac9b557b7e085]
+#### 4. Section 3: meaning of “elector”[^c-25a9deb29da61c0e3beac9b557b7e085]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 6. Section 5: supplementary[^key-25a9deb29da61c0e3beac9b557b7e085]
+### Implementation of changes in total number of United Kingdom MEPs[^c-25a9deb29da61c0e3beac9b557b7e085]
+
+#### 5. Orders implementing changes[^c-25a9deb29da61c0e3beac9b557b7e085]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Supplementary[^key-25a9deb29da61c0e3beac9b557b7e085]
-
-#### 7. Periodic reviews of distribution of MEPs[^key-25a9deb29da61c0e3beac9b557b7e085]
+#### 6. Section 5: supplementary[^c-25a9deb29da61c0e3beac9b557b7e085]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 8. Consequential amendments[^key-25a9deb29da61c0e3beac9b557b7e085]
+### Supplementary[^c-25a9deb29da61c0e3beac9b557b7e085]
+
+#### 7. Periodic reviews of distribution of MEPs[^c-25a9deb29da61c0e3beac9b557b7e085]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Part 2 — Gibraltar[^key-25a9deb29da61c0e3beac9b557b7e085]
-
-### New combined electoral region[^key-25a9deb29da61c0e3beac9b557b7e085]
-
-#### 9. Combination of Gibraltar with existing electoral region[^key-25a9deb29da61c0e3beac9b557b7e085]
+#### 8. Consequential amendments[^c-25a9deb29da61c0e3beac9b557b7e085]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 10. Electoral Commission recommendation as to the electoral region to be combined with Gibraltar[^key-25a9deb29da61c0e3beac9b557b7e085]
+## Part 2 — Gibraltar[^c-25a9deb29da61c0e3beac9b557b7e085]
+
+### New combined electoral region[^c-25a9deb29da61c0e3beac9b557b7e085]
+
+#### 9. Combination of Gibraltar with existing electoral region[^c-25a9deb29da61c0e3beac9b557b7e085]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 11. Establishment of combined region[^key-25a9deb29da61c0e3beac9b557b7e085]
+#### 10. Electoral Commission recommendation as to the electoral region to be combined with Gibraltar[^c-25a9deb29da61c0e3beac9b557b7e085]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 12. Power to make consequential etc provision[^key-25a9deb29da61c0e3beac9b557b7e085]
+#### 11. Establishment of combined region[^c-25a9deb29da61c0e3beac9b557b7e085]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 13. Sections 11 and 12: supplementary[^key-25a9deb29da61c0e3beac9b557b7e085]
+#### 12. Power to make consequential etc provision[^c-25a9deb29da61c0e3beac9b557b7e085]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Electoral registration and voting in Gibraltar[^key-25a9deb29da61c0e3beac9b557b7e085]
-
-#### 14. The Gibraltar register[^key-25a9deb29da61c0e3beac9b557b7e085]
+#### 13. Sections 11 and 12: supplementary[^c-25a9deb29da61c0e3beac9b557b7e085]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 15. Gibraltar franchise for European Parliamentary elections[^key-25a9deb29da61c0e3beac9b557b7e085]
+### Electoral registration and voting in Gibraltar[^c-25a9deb29da61c0e3beac9b557b7e085]
+
+#### 14. The Gibraltar register[^c-25a9deb29da61c0e3beac9b557b7e085]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 16. Entitlement to be registered in Gibraltar[^key-25a9deb29da61c0e3beac9b557b7e085]
+#### 15. Gibraltar franchise for European Parliamentary elections[^c-25a9deb29da61c0e3beac9b557b7e085]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 17. Regulations relating to sections 14 to 16[^key-25a9deb29da61c0e3beac9b557b7e085]
+#### 16. Entitlement to be registered in Gibraltar[^c-25a9deb29da61c0e3beac9b557b7e085]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 18. Section 17: supplementary[^key-25a9deb29da61c0e3beac9b557b7e085]
+#### 17. Regulations relating to sections 14 to 16[^c-25a9deb29da61c0e3beac9b557b7e085]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Miscellaneous provisions[^key-25a9deb29da61c0e3beac9b557b7e085]
-
-#### 19. Extension of 2002 Act to Gibraltar[^key-25a9deb29da61c0e3beac9b557b7e085]
+#### 18. Section 17: supplementary[^c-25a9deb29da61c0e3beac9b557b7e085]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 20. Returning officers[^key-25a9deb29da61c0e3beac9b557b7e085]
+### Miscellaneous provisions[^c-25a9deb29da61c0e3beac9b557b7e085]
+
+#### 19. Extension of 2002 Act to Gibraltar[^c-25a9deb29da61c0e3beac9b557b7e085]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 21. Disqualification from office of MEP[^key-25a9deb29da61c0e3beac9b557b7e085]
+#### 20. Returning officers[^c-25a9deb29da61c0e3beac9b557b7e085]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 22. European Parliamentary elections regulations[^key-25a9deb29da61c0e3beac9b557b7e085]
+#### 21. Disqualification from office of MEP[^c-25a9deb29da61c0e3beac9b557b7e085]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 23. Jurisdiction of courts[^key-25a9deb29da61c0e3beac9b557b7e085]
+#### 22. European Parliamentary elections regulations[^c-25a9deb29da61c0e3beac9b557b7e085]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 24. Effect of statutory powers on capacity of Gibraltar legislature[^key-25a9deb29da61c0e3beac9b557b7e085]
+#### 23. Jurisdiction of courts[^c-25a9deb29da61c0e3beac9b557b7e085]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Part 3 — Supplementary[^key-25a9deb29da61c0e3beac9b557b7e085]
-
-### 25. Financial provisions[^key-25a9deb29da61c0e3beac9b557b7e085]
+#### 24. Effect of statutory powers on capacity of Gibraltar legislature[^c-25a9deb29da61c0e3beac9b557b7e085]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 26. Functions of Lord Chancellor exercisable concurrently with Secretary of State[^key-25a9deb29da61c0e3beac9b557b7e085]
+## Part 3 — Supplementary[^c-25a9deb29da61c0e3beac9b557b7e085]
+
+### 25. Financial provisions[^c-25a9deb29da61c0e3beac9b557b7e085]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 26A. Functions of the Minister for the Cabinet Office[^key-25a9deb29da61c0e3beac9b557b7e085]
+### 26. Functions of Lord Chancellor exercisable concurrently with Secretary of State[^c-25a9deb29da61c0e3beac9b557b7e085]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 27. Interpretation[^key-25a9deb29da61c0e3beac9b557b7e085]
+### 26A. Functions of the Minister for the Cabinet Office[^c-25a9deb29da61c0e3beac9b557b7e085]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 28. Short title, extent and commencement[^key-25a9deb29da61c0e3beac9b557b7e085]
+### 27. Interpretation[^c-25a9deb29da61c0e3beac9b557b7e085]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 28. Short title, extent and commencement[^c-25a9deb29da61c0e3beac9b557b7e085]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Schedule 1A to the 2002 Act[^key-25a9deb29da61c0e3beac9b557b7e085]
+## SCHEDULE — Schedule 1A to the 2002 Act[^c-25a9deb29da61c0e3beac9b557b7e085]
 
 Section 7
 
-[^key-25a9deb29da61c0e3beac9b557b7e085]
+[^c-25a9deb29da61c0e3beac9b557b7e085]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-25a9deb29da61c0e3beac9b557b7e085]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/2003/7) repealed (31.12.2020) by [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), [s. 25(4)](https://www.legislation.gov.uk/ukpga/2018/16/section/25/4), [Sch. 9](https://www.legislation.gov.uk/ukpga/2018/16/schedule/9) (with [s. 19](https://www.legislation.gov.uk/ukpga/2018/16/section/19), [Sch. 8 para. 37](https://www.legislation.gov.uk/ukpga/2018/16/schedule/8/paragraph/37)); [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1622/regulation/2) (with [reg. 22](https://www.legislation.gov.uk/uksi/2020/1622/regulation/22))
+[^c-25a9deb29da61c0e3beac9b557b7e085]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/2003/7) repealed (31.12.2020) by [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), [s. 25(4)](https://www.legislation.gov.uk/ukpga/2018/16/section/25/4), [Sch. 9](https://www.legislation.gov.uk/ukpga/2018/16/schedule/9) (with [s. 19](https://www.legislation.gov.uk/ukpga/2018/16/section/19), [Sch. 8 para. 37](https://www.legislation.gov.uk/ukpga/2018/16/schedule/8/paragraph/37)); [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1622/regulation/2) (with [reg. 22](https://www.legislation.gov.uk/uksi/2020/1622/regulation/22))

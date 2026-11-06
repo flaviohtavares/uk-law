@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Finance[^key-58476132f4b5cdeef0282b39419d4a0f]
+## 36. Finance[^c-58476132f4b5cdeef0282b39419d4a0f]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-58476132f4b5cdeef0282b39419d4a0f]: Commencement: [S. 36](https://www.legislation.gov.uk/mwa/2009/2/section/36) in force at 17.7.2009 by [S.I. 2009/1796](https://www.legislation.gov.uk/wsi/2009/1796), [art. 2(n)](https://www.legislation.gov.uk/wsi/2009/1796/article/2/n)
+[^c-58476132f4b5cdeef0282b39419d4a0f]: Commencement: [S. 36](https://www.legislation.gov.uk/mwa/2009/2/section/36) in force at 17.7.2009 by [S.I. 2009/1796](https://www.legislation.gov.uk/wsi/2009/1796), [art. 2(n)](https://www.legislation.gov.uk/wsi/2009/1796/article/2/n)

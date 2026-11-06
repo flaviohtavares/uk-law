@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 216. Award of costs against responsible insolvency practitioner[^key-73bdeeff1150ded8584de2cb541e3573]
+## 216. Award of costs against responsible insolvency practitioner[^c-73bdeeff1150ded8584de2cb541e3573]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-73bdeeff1150ded8584de2cb541e3573]: Commencement: Rule 216 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-73bdeeff1150ded8584de2cb541e3573]: Commencement: Rule 216 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

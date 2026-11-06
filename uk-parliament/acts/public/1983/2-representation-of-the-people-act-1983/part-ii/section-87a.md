@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87A. Duty of appropriate officer to forward returns and declarations to Electoral Commission.[^c14495211][^M_C_402a2adc-54d6-427b-b1e0-669ef659f175][^key-a74e98e474fb049a86157667748ff177][^c14495201][^c14479931]
+## 87A. Duty of appropriate officer to forward returns and declarations to Electoral Commission.[^c14495211][^M_C_402a2adc-54d6-427b-b1e0-669ef659f175][^c-a74e98e474fb049a86157667748ff177][^c14495201][^c14479931]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,7 +35,7 @@ he shall as soon as reasonably practicable after receiving the return or declara
 
 [^M_C_402a2adc-54d6-427b-b1e0-669ef659f175]: Modification: S. 87A applied (with modifications) (27.3.2007) by [The Local Authorities (Mayoral Elections) (England and Wales) Regulations 2007 (S.I. 2007/1024)](https://www.legislation.gov.uk/uksi/2007/1024), [Sch. 2](https://www.legislation.gov.uk/uksi/2007/1024/schedule/2) Table 1
 
-[^key-a74e98e474fb049a86157667748ff177]: Modification: Ss. 73-90D restricted (W.) (4.12.2020) by [The Local Government (Coronavirus) (Postponement of Elections) (Wales) (No. 2) Regulations 2020 (S.I. 2020/1399)](https://www.legislation.gov.uk/wsi/2020/1399), [regs. 2](https://www.legislation.gov.uk/wsi/2020/1399/regulation/2), [7(2)](https://www.legislation.gov.uk/wsi/2020/1399/regulation/7/2) (with [reg. 7(8)](https://www.legislation.gov.uk/wsi/2020/1399/regulation/7/8))
+[^c-a74e98e474fb049a86157667748ff177]: Modification: Ss. 73-90D restricted (W.) (4.12.2020) by [The Local Government (Coronavirus) (Postponement of Elections) (Wales) (No. 2) Regulations 2020 (S.I. 2020/1399)](https://www.legislation.gov.uk/wsi/2020/1399), [regs. 2](https://www.legislation.gov.uk/wsi/2020/1399/regulation/2), [7(2)](https://www.legislation.gov.uk/wsi/2020/1399/regulation/7/2) (with [reg. 7(8)](https://www.legislation.gov.uk/wsi/2020/1399/regulation/7/8))
 
 [^c14495201]: Textual amendment: S. 87A inserted (16.2.2001) by [2000 c. 41](https://www.legislation.gov.uk/ukpga/2000/41), [s. 138(1)(2)](https://www.legislation.gov.uk/ukpga/2000/41/section/138/1/2), [Sch. 18 para. 9](https://www.legislation.gov.uk/ukpga/2000/41/schedule/18/paragraph/9) (with [s. 156(6)](https://www.legislation.gov.uk/ukpga/2000/41/section/156/6)); [S.I. 2001/222](https://www.legislation.gov.uk/uksi/2001/222), [art. 2](https://www.legislation.gov.uk/uksi/2001/222/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2001/222/schedule/1/part/I) (subject to transitional provisions in [Sch. 1 Pt. II](https://www.legislation.gov.uk/uksi/2001/222/schedule/1/part/II))
 

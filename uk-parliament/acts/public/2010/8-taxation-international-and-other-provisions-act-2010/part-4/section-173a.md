@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 173A. Exchange gains and losses arising as a result of qualifying loan relationships and derivative contracts[^key-9ce0bc15ae8992d504bdf6a3208c3eca]
+## 173A. Exchange gains and losses arising as a result of qualifying loan relationships and derivative contracts[^c-9ce0bc15ae8992d504bdf6a3208c3eca]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9ce0bc15ae8992d504bdf6a3208c3eca]: Textual amendment: [S. 173A](https://www.legislation.gov.uk/ukpga/2010/8/section/173A) inserted (for chargeable periods commencing on or after 1.1.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 6 paras. 29(2)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/29/2), [32(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/32/1) (with [Sch. 6 para. 32(3)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/32/3))
+[^c-9ce0bc15ae8992d504bdf6a3208c3eca]: Textual amendment: [S. 173A](https://www.legislation.gov.uk/ukpga/2010/8/section/173A) inserted (for chargeable periods commencing on or after 1.1.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 6 paras. 29(2)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/29/2), [32(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/32/1) (with [Sch. 6 para. 32(3)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/32/3))

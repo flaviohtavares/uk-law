@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 137. Service of notice etc[^key-695965fa9bd77713607740cfb98a0700]
+## 137. Service of notice etc[^c-695965fa9bd77713607740cfb98a0700]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ For the purposes of this Chapter, any notice, order or other document required t
 
 ## Annotations
 
-[^key-695965fa9bd77713607740cfb98a0700]: Commencement: S. 137 in force at 1.9.2009 in so far as not already in force by [S.I. 2009/1606](https://www.legislation.gov.uk/uksi/2009/1606), [art. 3](https://www.legislation.gov.uk/uksi/2009/1606/article/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2009/1606/article/5)) (which transitional provisions in art. 5 are revoked (22.12.2014) by [S.I. 2014/3364](https://www.legislation.gov.uk/uksi/2014/3364), art. 3(3), Sch.)
+[^c-695965fa9bd77713607740cfb98a0700]: Commencement: S. 137 in force at 1.9.2009 in so far as not already in force by [S.I. 2009/1606](https://www.legislation.gov.uk/uksi/2009/1606), [art. 3](https://www.legislation.gov.uk/uksi/2009/1606/article/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2009/1606/article/5)) (which transitional provisions in art. 5 are revoked (22.12.2014) by [S.I. 2014/3364](https://www.legislation.gov.uk/uksi/2014/3364), art. 3(3), Sch.)

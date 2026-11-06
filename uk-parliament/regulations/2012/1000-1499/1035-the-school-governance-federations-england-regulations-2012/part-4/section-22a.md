@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22A. Surplus governors[^key-f3b98c996a134c47dd7e45193976407d]
+## 22A. Surplus governors[^c-f3b98c996a134c47dd7e45193976407d]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ the number of governors in that category required to eliminate the excess must c
 
 ## Annotations
 
-[^key-f3b98c996a134c47dd7e45193976407d]: Textual amendment: [Reg. 22A](https://www.legislation.gov.uk/uksi/2012/1035/regulation/22A) inserted (1.9.2015) by [The School Governance (Constitution and Federations) (England) (Amendment) Regulations 2014 (S.I. 2014/1257)](https://www.legislation.gov.uk/uksi/2014/1257), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1257/regulation/1), [3(9)](https://www.legislation.gov.uk/uksi/2014/1257/regulation/3/9)
+[^c-f3b98c996a134c47dd7e45193976407d]: Textual amendment: [Reg. 22A](https://www.legislation.gov.uk/uksi/2012/1035/regulation/22A) inserted (1.9.2015) by [The School Governance (Constitution and Federations) (England) (Amendment) Regulations 2014 (S.I. 2014/1257)](https://www.legislation.gov.uk/uksi/2014/1257), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1257/regulation/1), [3(9)](https://www.legislation.gov.uk/uksi/2014/1257/regulation/3/9)

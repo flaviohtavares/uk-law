@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 175. Administrator deceased[^key-3db666ac800e1cde7bee20a2ad5eaaac]
+## 175. Administrator deceased[^c-3db666ac800e1cde7bee20a2ad5eaaac]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3db666ac800e1cde7bee20a2ad5eaaac]: Commencement: [Rule 175](https://www.legislation.gov.uk/nisr/2026/11/rule/175) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-3db666ac800e1cde7bee20a2ad5eaaac]: Commencement: [Rule 175](https://www.legislation.gov.uk/nisr/2026/11/rule/175) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

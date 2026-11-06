@@ -83,7 +83,7 @@ These Regulations may be cited as the Universal Credit Housing Costs (Executive 
 - (a) determine one or more broad rental market areas, and
 - (b) in respect of that broad rental market area, or those broad rental market areas, give to the Department a notice which identifies the areas and the postcodes contained within the broad rental market area (or each of them).
 
-(2A)[^key-f6e8a5133c1d3370c09d0d2c7272ca76] The power in paragraph (2) is not limited by paragraph 2(2)[^key-81bda9046594758992886278348e8e62] of Schedule 1.
+(2A)[^c-f6e8a5133c1d3370c09d0d2c7272ca76] The power in paragraph (2) is not limited by paragraph 2(2)[^c-81bda9046594758992886278348e8e62] of Schedule 1.
 
 (3) A broad rental market area is an area within which a person could reasonably be expected to live having regard to facilities and services for the purposes of health, education, recreation, personal banking and shopping, taking account of the distance of travel, by public and private transport, to and from those facilities and services.
 
@@ -97,15 +97,15 @@ These Regulations may be cited as the Universal Credit Housing Costs (Executive 
 (6) Any broad rental market area determination made in accordance with paragraph (2) shall take effect—
 
 - (a) on the day the determination is made for the purpose of enabling the Executive to determine a local housing allowance for that area, and
-- (b)[^key-c391a6d2eaae4136b1b95d23e4552fae] for all other purposes on the next relevant Monday following the day on which the determination is made.
+- (b)[^c-c391a6d2eaae4136b1b95d23e4552fae] for all other purposes on the next relevant Monday following the day on which the determination is made.
 
 (7) For broad rental market area determinations that take effect on the day on which these regulations come into force, the Executive must use the broad rental market area determinations in accordance with regulation 3 and the Schedule to the Housing Benefit (Executive Determinations) Regulations (Northern Ireland) 2008 [^c22829011] that apply on that day.
 
-(8)[^key-3bf1fb8b1b8603a218fc84a232097faf] “Relevant Monday” has the same meaning as in regulation 4(4).
+(8)[^c-3bf1fb8b1b8603a218fc84a232097faf] “Relevant Monday” has the same meaning as in regulation 4(4).
 
-## 4. Local housing allowance determinations[^key-e5690bd3043f72d2acce803c92fc57f2]
+## 4. Local housing allowance determinations[^c-e5690bd3043f72d2acce803c92fc57f2]
 
-(1) In 2017 and in each subsequent year, on the last working day of January and also the 31st March 2020[^key-1c65876cfe4c9f6c18edc0313b6314db], the Executive shall for each broad rental market area determine, in accordance with Schedule 1, a local housing allowance for each of the categories of dwelling set out in paragraph 1 of Schedule 1.
+(1) In 2017 and in each subsequent year, on the last working day of January and also the 31st March 2020[^c-1c65876cfe4c9f6c18edc0313b6314db], the Executive shall for each broad rental market area determine, in accordance with Schedule 1, a local housing allowance for each of the categories of dwelling set out in paragraph 1 of Schedule 1.
 
 (2) The Executive must notify the Department of the determination for each area.
 
@@ -116,7 +116,7 @@ These Regulations may be cited as the Universal Credit Housing Costs (Executive 
   - (ii) where the relevant Monday is not the first day of an assessment period for that person, on the first day of the next assessment period following that, or
 - (b) in any other case, on the relevant Monday.
 
-(3A)[^key-dc14d3d402980433a3bfd4ccccb9f350] The determinations made in accordance with paragraph (1) on 31st March 2020 shall take effect (under paragraph (3)) in place of the determinations made in accordance with paragraph (1) on the 31st January 2020.
+(3A)[^c-dc14d3d402980433a3bfd4ccccb9f350] The determinations made in accordance with paragraph (1) on 31st March 2020 shall take effect (under paragraph (3)) in place of the determinations made in accordance with paragraph (1) on the 31st January 2020.
 
 (4) For the purposes of this regulation—
 
@@ -144,7 +144,7 @@ Minister of State,
 
 Department for Work and Pensions
 
-## SCHEDULE 1 — Local Housing Allowance Determinations[^key-e143211bca32d86fd362bee537337f3e]
+## SCHEDULE 1 — Local Housing Allowance Determinations[^c-e143211bca32d86fd362bee537337f3e]
 
 Regulation 4
 
@@ -164,20 +164,20 @@ The categories of dwelling for which the Executive is required to determine a lo
 
 ### 2. Local housing allowance for category of dwelling in paragraph 1
 
-(1) Subject to paragraphs[^key-5cc5b0eed834283caa9f6a67a9879f7e] 4 (anomalous local housing allowances) and 6 (minimum local housing allowance)[^key-8377f5d10cdf6f8fedeba6a78a87c28d] the Executive must determine a local housing allowance for each category of dwelling in paragraph 1 in accordance with the following sub-paragraphs.
+(1) Subject to paragraphs[^c-5cc5b0eed834283caa9f6a67a9879f7e] 4 (anomalous local housing allowances) and 6 (minimum local housing allowance)[^c-8377f5d10cdf6f8fedeba6a78a87c28d] the Executive must determine a local housing allowance for each category of dwelling in paragraph 1 in accordance with the following sub-paragraphs.
 
-(2)[^key-a4b04f5838cf1a949701ed0f2a111464][^key-cfeb3af91fdda6cfdfedc02017547816][^key-c422bc01bffdaaae205f0b4ee6a21520][^key-ddc6509d7c655ebea0b49952b59fcd44][^key-bb0c309b9a91ff9ebdd44959727ae579] The local housing allowance for any category of accommodation is the lower of—
+(2)[^c-a4b04f5838cf1a949701ed0f2a111464][^c-cfeb3af91fdda6cfdfedc02017547816][^c-c422bc01bffdaaae205f0b4ee6a21520][^c-ddc6509d7c655ebea0b49952b59fcd44][^c-bb0c309b9a91ff9ebdd44959727ae579] The local housing allowance for any category of accommodation is the lower of—
 
 - (a) the rent at the 30th percentile determined in accordance with paragraph 3; and
 - (b) for a category of accommodation listed in column 1 of the following table, the amount listed in column 2 of that table (maximum local housing allowance)—
 
   | *1. Category of accommodation as specified in paragraph 1* | *2. Maximum local housing allowance for that category of accommodation* |
   | --- | --- |
-  | paragraph 1(a) (one bedroom, shared accommodation) | £1,439.97[^key-81d168c0933fcec2c16b94cf30b25396] |
-  | paragraph 1(b) (one bedroom, exclusive use) | £1,439.97[^key-e61f090c40bc3853d90cea6f802363ed] |
-  | paragraph 1(c) (two bedrooms) | £1,793.98[^key-fade5c3ac3a2b7e35b5245a26cd705c1] |
-  | paragraph 1(d) (three bedrooms) | £2,160.02[^key-d8acbf2883d5a6ea1c2649e18c17f7a5] |
-  | paragraph 1(e) (four bedrooms) | £3,060.00[^key-6109edcd9363cb0856528a5bd4cff276] |
+  | paragraph 1(a) (one bedroom, shared accommodation) | £1,439.97[^c-81d168c0933fcec2c16b94cf30b25396] |
+  | paragraph 1(b) (one bedroom, exclusive use) | £1,439.97[^c-e61f090c40bc3853d90cea6f802363ed] |
+  | paragraph 1(c) (two bedrooms) | £1,793.98[^c-fade5c3ac3a2b7e35b5245a26cd705c1] |
+  | paragraph 1(d) (three bedrooms) | £2,160.02[^c-d8acbf2883d5a6ea1c2649e18c17f7a5] |
+  | paragraph 1(e) (four bedrooms) | £3,060.00[^c-6109edcd9363cb0856528a5bd4cff276] |
 
 (3) Where the local housing allowance would otherwise not be a whole number of pence, it must be rounded to the nearest whole penny by disregarding any amount less than half a penny and treating any amount of half a penny or more as a whole penny.
 
@@ -230,7 +230,7 @@ where P2 is the position on the list found by multiplying the number of rents on
 
 ### 4. Anomalous local housing allowances
 
-Subject to paragraph 6, where—[^key-466388da594d016cebb23c3cbf83824b]
+Subject to paragraph 6, where—[^c-466388da594d016cebb23c3cbf83824b]
 
 - (a) the Executive has determined the local housing allowance for each of the categories of dwelling in paragraph 1 in accordance with the preceding paragraphs of this Schedule, and
 - (b) the local housing allowance for a category of dwelling in paragraph 1(b) to (e) is lower than the local housing allowance for any of the categories of dwelling which precede it, that local housing allowance is to be the same as the highest local housing allowance which precedes it.
@@ -239,7 +239,7 @@ Subject to paragraph 6, where—[^key-466388da594d016cebb23c3cbf83824b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Minimum local housing allowance[^key-155cdc88c3c239dfb0d4baa5438d8e76]
+### 6. Minimum local housing allowance[^c-155cdc88c3c239dfb0d4baa5438d8e76]
 
 Where—
 
@@ -278,52 +278,52 @@ An assessment of the impact of universal credit has been carried out. Copies of 
 
 [^c22829001]: Marginal citation: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33).
 
-[^key-f6e8a5133c1d3370c09d0d2c7272ca76]: Textual amendment: Reg. 3(2A) inserted (coming into operation in accordance with reg. 1 of the amending S.R.) by [The Universal Credit Housing Costs (Executive Determinations) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/144)](https://www.legislation.gov.uk/nisr/2017/144), [regs. 1](https://www.legislation.gov.uk/nisr/2017/144/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2017/144/regulation/2/2)
+[^c-f6e8a5133c1d3370c09d0d2c7272ca76]: Textual amendment: Reg. 3(2A) inserted (coming into operation in accordance with reg. 1 of the amending S.R.) by [The Universal Credit Housing Costs (Executive Determinations) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/144)](https://www.legislation.gov.uk/nisr/2017/144), [regs. 1](https://www.legislation.gov.uk/nisr/2017/144/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2017/144/regulation/2/2)
 
-[^key-81bda9046594758992886278348e8e62]: Textual amendment: Word in [reg. 3(2A)](https://www.legislation.gov.uk/nisr/2016/222/regulation/3/2A) substituted (30.1.2020) by [The Housing Benefit and Universal Credit Housing Costs (Executive Determinations) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/14)](https://www.legislation.gov.uk/nisr/2020/14), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/14/regulation/1/1), [3(2)](https://www.legislation.gov.uk/nisr/2020/14/regulation/3/2)
+[^c-81bda9046594758992886278348e8e62]: Textual amendment: Word in [reg. 3(2A)](https://www.legislation.gov.uk/nisr/2016/222/regulation/3/2A) substituted (30.1.2020) by [The Housing Benefit and Universal Credit Housing Costs (Executive Determinations) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/14)](https://www.legislation.gov.uk/nisr/2020/14), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/14/regulation/1/1), [3(2)](https://www.legislation.gov.uk/nisr/2020/14/regulation/3/2)
 
-[^key-c391a6d2eaae4136b1b95d23e4552fae]: Textual amendment: [Reg. 3(6)(b)](https://www.legislation.gov.uk/nisr/2016/222/regulation/3/6/b) substituted (31.1.2022) by [The Housing Benefit and Universal Credit Housing Costs (Executive Determinations) (Amendment and Modification) Regulations (Northern Ireland) 2022 (S.R. 2022/15)](https://www.legislation.gov.uk/nisr/2022/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/15/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2022/15/regulation/3)
+[^c-c391a6d2eaae4136b1b95d23e4552fae]: Textual amendment: [Reg. 3(6)(b)](https://www.legislation.gov.uk/nisr/2016/222/regulation/3/6/b) substituted (31.1.2022) by [The Housing Benefit and Universal Credit Housing Costs (Executive Determinations) (Amendment and Modification) Regulations (Northern Ireland) 2022 (S.R. 2022/15)](https://www.legislation.gov.uk/nisr/2022/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/15/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2022/15/regulation/3)
 
 [^c22829011]: Marginal citation: S.R. [2008 No. 100](https://www.legislation.gov.uk/ukcm/2008/100).
 
-[^key-3bf1fb8b1b8603a218fc84a232097faf]: Textual amendment: Reg. 3(8) inserted (2.4.2018) by [The Universal Credit Housing Costs (Executive Determinations) (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/36)](https://www.legislation.gov.uk/nisr/2018/36), [regs. 1](https://www.legislation.gov.uk/nisr/2018/36/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2018/36/regulation/2/2/b)
+[^c-3bf1fb8b1b8603a218fc84a232097faf]: Textual amendment: Reg. 3(8) inserted (2.4.2018) by [The Universal Credit Housing Costs (Executive Determinations) (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/36)](https://www.legislation.gov.uk/nisr/2018/36), [regs. 1](https://www.legislation.gov.uk/nisr/2018/36/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2018/36/regulation/2/2/b)
 
-[^key-e5690bd3043f72d2acce803c92fc57f2]: Modification: [Reg. 4](https://www.legislation.gov.uk/nisr/2016/222/regulation/4) modified (6.4.2020) by [The Social Security (Coronavirus) (Further Measures) Amendment Regulations (Northern Ireland) 2020 (S.R. 2020/61)](https://www.legislation.gov.uk/nisr/2020/61), [regs. 1](https://www.legislation.gov.uk/nisr/2020/61/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2020/61/regulation/2/2)
+[^c-e5690bd3043f72d2acce803c92fc57f2]: Modification: [Reg. 4](https://www.legislation.gov.uk/nisr/2016/222/regulation/4) modified (6.4.2020) by [The Social Security (Coronavirus) (Further Measures) Amendment Regulations (Northern Ireland) 2020 (S.R. 2020/61)](https://www.legislation.gov.uk/nisr/2020/61), [regs. 1](https://www.legislation.gov.uk/nisr/2020/61/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2020/61/regulation/2/2)
 
-[^key-1c65876cfe4c9f6c18edc0313b6314db]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/nisr/2016/222/regulation/4/1) inserted (30.3.2020) by [The Social Security (Coronavirus) (Further Measures) Regulations (Northern Ireland) 2020 (S.R. 2020/53)](https://www.legislation.gov.uk/nisr/2020/53), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/53/regulation/1/1), [4(2)(a)(i)](https://www.legislation.gov.uk/nisr/2020/53/regulation/4/2/a/i)
+[^c-1c65876cfe4c9f6c18edc0313b6314db]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/nisr/2016/222/regulation/4/1) inserted (30.3.2020) by [The Social Security (Coronavirus) (Further Measures) Regulations (Northern Ireland) 2020 (S.R. 2020/53)](https://www.legislation.gov.uk/nisr/2020/53), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/53/regulation/1/1), [4(2)(a)(i)](https://www.legislation.gov.uk/nisr/2020/53/regulation/4/2/a/i)
 
-[^key-dc14d3d402980433a3bfd4ccccb9f350]: Textual amendment: [Reg. 4(3A)](https://www.legislation.gov.uk/nisr/2016/222/regulation/4/3A) inserted (30.3.2020) by [The Social Security (Coronavirus) (Further Measures) Regulations (Northern Ireland) 2020 (S.R. 2020/53)](https://www.legislation.gov.uk/nisr/2020/53), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/53/regulation/1/1), [4(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2020/53/regulation/4/2/a/ii)
+[^c-dc14d3d402980433a3bfd4ccccb9f350]: Textual amendment: [Reg. 4(3A)](https://www.legislation.gov.uk/nisr/2016/222/regulation/4/3A) inserted (30.3.2020) by [The Social Security (Coronavirus) (Further Measures) Regulations (Northern Ireland) 2020 (S.R. 2020/53)](https://www.legislation.gov.uk/nisr/2020/53), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/53/regulation/1/1), [4(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2020/53/regulation/4/2/a/ii)
 
-[^key-e143211bca32d86fd362bee537337f3e]: Modification: [Sch. 1](https://www.legislation.gov.uk/nisr/2016/222/schedule/1) modified (28.1.2021) by [The Housing Benefit and Universal Credit Housing Costs (Executive Determinations) (Modification) Regulations (Northern Ireland) 2021 (S.R. 2021/14)](https://www.legislation.gov.uk/nisr/2021/14), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/14/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2021/14/regulation/3)
+[^c-e143211bca32d86fd362bee537337f3e]: Modification: [Sch. 1](https://www.legislation.gov.uk/nisr/2016/222/schedule/1) modified (28.1.2021) by [The Housing Benefit and Universal Credit Housing Costs (Executive Determinations) (Modification) Regulations (Northern Ireland) 2021 (S.R. 2021/14)](https://www.legislation.gov.uk/nisr/2021/14), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/14/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2021/14/regulation/3)
 
-[^key-5cc5b0eed834283caa9f6a67a9879f7e]: Textual amendment: Word in [Sch. 1 para. 2(1)](https://www.legislation.gov.uk/nisr/2016/222/schedule/1/paragraph/2/1) substituted (31.1.2024) by [The Housing Benefit and Universal Credit Housing Costs (Executive Determinations) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/3)](https://www.legislation.gov.uk/nisr/2024/3), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/3/regulation/1/1), [3(2)(a)(i)](https://www.legislation.gov.uk/nisr/2024/3/regulation/3/2/a/i)
+[^c-5cc5b0eed834283caa9f6a67a9879f7e]: Textual amendment: Word in [Sch. 1 para. 2(1)](https://www.legislation.gov.uk/nisr/2016/222/schedule/1/paragraph/2/1) substituted (31.1.2024) by [The Housing Benefit and Universal Credit Housing Costs (Executive Determinations) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/3)](https://www.legislation.gov.uk/nisr/2024/3), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/3/regulation/1/1), [3(2)(a)(i)](https://www.legislation.gov.uk/nisr/2024/3/regulation/3/2/a/i)
 
-[^key-8377f5d10cdf6f8fedeba6a78a87c28d]: Textual amendment: Words in [Sch. 1 para. 2(1)](https://www.legislation.gov.uk/nisr/2016/222/schedule/1/paragraph/2/1) inserted (31.1.2024) by [The Housing Benefit and Universal Credit Housing Costs (Executive Determinations) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/3)](https://www.legislation.gov.uk/nisr/2024/3), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/3/regulation/1/1), [3(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2024/3/regulation/3/2/a/ii)
+[^c-8377f5d10cdf6f8fedeba6a78a87c28d]: Textual amendment: Words in [Sch. 1 para. 2(1)](https://www.legislation.gov.uk/nisr/2016/222/schedule/1/paragraph/2/1) inserted (31.1.2024) by [The Housing Benefit and Universal Credit Housing Costs (Executive Determinations) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/3)](https://www.legislation.gov.uk/nisr/2024/3), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/3/regulation/1/1), [3(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2024/3/regulation/3/2/a/ii)
 
-[^key-a4b04f5838cf1a949701ed0f2a111464]: Modification: [Sch. 1 para. 2(2)](https://www.legislation.gov.uk/nisr/2016/222/schedule/1/paragraph/2/2) modified (31.1.2022) by [The Housing Benefit and Universal Credit Housing Costs (Executive Determinations) (Amendment and Modification) Regulations (Northern Ireland) 2022 (S.R. 2022/15)](https://www.legislation.gov.uk/nisr/2022/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/15/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2022/15/regulation/5)
+[^c-a4b04f5838cf1a949701ed0f2a111464]: Modification: [Sch. 1 para. 2(2)](https://www.legislation.gov.uk/nisr/2016/222/schedule/1/paragraph/2/2) modified (31.1.2022) by [The Housing Benefit and Universal Credit Housing Costs (Executive Determinations) (Amendment and Modification) Regulations (Northern Ireland) 2022 (S.R. 2022/15)](https://www.legislation.gov.uk/nisr/2022/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/15/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2022/15/regulation/5)
 
-[^key-cfeb3af91fdda6cfdfedc02017547816]: Modification: [Sch. 1 para. 2(2)](https://www.legislation.gov.uk/nisr/2016/222/schedule/1/paragraph/2/2) modified (31.1.2023) by [The Housing Benefit and Universal Credit Housing Costs (Executive Determinations) (Modification) Regulations (Northern Ireland) 2023 (S.R. 2023/4)](https://www.legislation.gov.uk/nisr/2023/4), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/4/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2023/4/regulation/3)
+[^c-cfeb3af91fdda6cfdfedc02017547816]: Modification: [Sch. 1 para. 2(2)](https://www.legislation.gov.uk/nisr/2016/222/schedule/1/paragraph/2/2) modified (31.1.2023) by [The Housing Benefit and Universal Credit Housing Costs (Executive Determinations) (Modification) Regulations (Northern Ireland) 2023 (S.R. 2023/4)](https://www.legislation.gov.uk/nisr/2023/4), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/4/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2023/4/regulation/3)
 
-[^key-c422bc01bffdaaae205f0b4ee6a21520]: Modification: [Sch. 1 para. 2(2)](https://www.legislation.gov.uk/nisr/2016/222/schedule/1/paragraph/2/2) modified (31.1.2025) by [The Housing Benefit and Universal Credit Housing Costs (Executive Determinations) (Modification) Regulations (Northern Ireland) 2025 (S.R. 2025/1)](https://www.legislation.gov.uk/nisr/2025/1), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/1/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2025/1/regulation/3)
+[^c-c422bc01bffdaaae205f0b4ee6a21520]: Modification: [Sch. 1 para. 2(2)](https://www.legislation.gov.uk/nisr/2016/222/schedule/1/paragraph/2/2) modified (31.1.2025) by [The Housing Benefit and Universal Credit Housing Costs (Executive Determinations) (Modification) Regulations (Northern Ireland) 2025 (S.R. 2025/1)](https://www.legislation.gov.uk/nisr/2025/1), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/1/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2025/1/regulation/3)
 
-[^key-ddc6509d7c655ebea0b49952b59fcd44]: Modification: [Sch. 1 para. 2(2)](https://www.legislation.gov.uk/nisr/2016/222/schedule/1/paragraph/2/2) modified (30.1.2026) by [The Housing Benefit and Universal Credit Housing Costs (Executive Determinations) (Modification) Regulations (Northern Ireland) 2026 (S.R. 2026/2)](https://www.legislation.gov.uk/nisr/2026/2), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/2/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2026/2/regulation/3)
+[^c-ddc6509d7c655ebea0b49952b59fcd44]: Modification: [Sch. 1 para. 2(2)](https://www.legislation.gov.uk/nisr/2016/222/schedule/1/paragraph/2/2) modified (30.1.2026) by [The Housing Benefit and Universal Credit Housing Costs (Executive Determinations) (Modification) Regulations (Northern Ireland) 2026 (S.R. 2026/2)](https://www.legislation.gov.uk/nisr/2026/2), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/2/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2026/2/regulation/3)
 
-[^key-bb0c309b9a91ff9ebdd44959727ae579]: Textual amendment: [Sch. 1 para. 2(2)](https://www.legislation.gov.uk/nisr/2016/222/schedule/1/paragraph/2/2) substituted (30.3.2020) by [The Social Security (Coronavirus) (Further Measures) Regulations (Northern Ireland) 2020 (S.R. 2020/53)](https://www.legislation.gov.uk/nisr/2020/53), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/53/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/nisr/2020/53/regulation/4/2/b)
+[^c-bb0c309b9a91ff9ebdd44959727ae579]: Textual amendment: [Sch. 1 para. 2(2)](https://www.legislation.gov.uk/nisr/2016/222/schedule/1/paragraph/2/2) substituted (30.3.2020) by [The Social Security (Coronavirus) (Further Measures) Regulations (Northern Ireland) 2020 (S.R. 2020/53)](https://www.legislation.gov.uk/nisr/2020/53), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/53/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/nisr/2020/53/regulation/4/2/b)
 
-[^key-81d168c0933fcec2c16b94cf30b25396]: Textual amendment: Sum in [Sch. 1 para. 2(2)(b)](https://www.legislation.gov.uk/nisr/2016/222/schedule/1) table substituted (31.1.2024) by [The Housing Benefit and Universal Credit Housing Costs (Executive Determinations) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/3)](https://www.legislation.gov.uk/nisr/2024/3), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/3/regulation/1/1), [3(2)(b)(i)](https://www.legislation.gov.uk/nisr/2024/3/regulation/3/2/b/i)
+[^c-81d168c0933fcec2c16b94cf30b25396]: Textual amendment: Sum in [Sch. 1 para. 2(2)(b)](https://www.legislation.gov.uk/nisr/2016/222/schedule/1) table substituted (31.1.2024) by [The Housing Benefit and Universal Credit Housing Costs (Executive Determinations) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/3)](https://www.legislation.gov.uk/nisr/2024/3), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/3/regulation/1/1), [3(2)(b)(i)](https://www.legislation.gov.uk/nisr/2024/3/regulation/3/2/b/i)
 
-[^key-e61f090c40bc3853d90cea6f802363ed]: Textual amendment: Sum in [Sch. 1 para. 2(2)(b)](https://www.legislation.gov.uk/nisr/2016/222/schedule/1) table substituted (31.1.2024) by [The Housing Benefit and Universal Credit Housing Costs (Executive Determinations) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/3)](https://www.legislation.gov.uk/nisr/2024/3), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/3/regulation/1/1), [3(2)(b)(ii)](https://www.legislation.gov.uk/nisr/2024/3/regulation/3/2/b/ii)
+[^c-e61f090c40bc3853d90cea6f802363ed]: Textual amendment: Sum in [Sch. 1 para. 2(2)(b)](https://www.legislation.gov.uk/nisr/2016/222/schedule/1) table substituted (31.1.2024) by [The Housing Benefit and Universal Credit Housing Costs (Executive Determinations) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/3)](https://www.legislation.gov.uk/nisr/2024/3), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/3/regulation/1/1), [3(2)(b)(ii)](https://www.legislation.gov.uk/nisr/2024/3/regulation/3/2/b/ii)
 
-[^key-fade5c3ac3a2b7e35b5245a26cd705c1]: Textual amendment: Sum in [Sch. 1 para. 2(2)(b)](https://www.legislation.gov.uk/nisr/2016/222/schedule/1) table substituted (31.1.2024) by [The Housing Benefit and Universal Credit Housing Costs (Executive Determinations) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/3)](https://www.legislation.gov.uk/nisr/2024/3), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/3/regulation/1/1), [3(2)(b)(iii)](https://www.legislation.gov.uk/nisr/2024/3/regulation/3/2/b/iii)
+[^c-fade5c3ac3a2b7e35b5245a26cd705c1]: Textual amendment: Sum in [Sch. 1 para. 2(2)(b)](https://www.legislation.gov.uk/nisr/2016/222/schedule/1) table substituted (31.1.2024) by [The Housing Benefit and Universal Credit Housing Costs (Executive Determinations) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/3)](https://www.legislation.gov.uk/nisr/2024/3), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/3/regulation/1/1), [3(2)(b)(iii)](https://www.legislation.gov.uk/nisr/2024/3/regulation/3/2/b/iii)
 
-[^key-d8acbf2883d5a6ea1c2649e18c17f7a5]: Textual amendment: Sum in [Sch. 1 para. 2(2)(b)](https://www.legislation.gov.uk/nisr/2016/222/schedule/1) table substituted (31.1.2024) by [The Housing Benefit and Universal Credit Housing Costs (Executive Determinations) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/3)](https://www.legislation.gov.uk/nisr/2024/3), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/3/regulation/1/1), [3(2)(b)(iv)](https://www.legislation.gov.uk/nisr/2024/3/regulation/3/2/b/iv)
+[^c-d8acbf2883d5a6ea1c2649e18c17f7a5]: Textual amendment: Sum in [Sch. 1 para. 2(2)(b)](https://www.legislation.gov.uk/nisr/2016/222/schedule/1) table substituted (31.1.2024) by [The Housing Benefit and Universal Credit Housing Costs (Executive Determinations) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/3)](https://www.legislation.gov.uk/nisr/2024/3), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/3/regulation/1/1), [3(2)(b)(iv)](https://www.legislation.gov.uk/nisr/2024/3/regulation/3/2/b/iv)
 
-[^key-6109edcd9363cb0856528a5bd4cff276]: Textual amendment: Sum in [Sch. 1 para. 2(2)(b)](https://www.legislation.gov.uk/nisr/2016/222/schedule/1) table substituted (31.1.2024) by [The Housing Benefit and Universal Credit Housing Costs (Executive Determinations) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/3)](https://www.legislation.gov.uk/nisr/2024/3), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/3/regulation/1/1), [3(2)(b)(v)](https://www.legislation.gov.uk/nisr/2024/3/regulation/3/2/b/v)
+[^c-6109edcd9363cb0856528a5bd4cff276]: Textual amendment: Sum in [Sch. 1 para. 2(2)(b)](https://www.legislation.gov.uk/nisr/2016/222/schedule/1) table substituted (31.1.2024) by [The Housing Benefit and Universal Credit Housing Costs (Executive Determinations) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/3)](https://www.legislation.gov.uk/nisr/2024/3), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/3/regulation/1/1), [3(2)(b)(v)](https://www.legislation.gov.uk/nisr/2024/3/regulation/3/2/b/v)
 
 [^c22829021]: Marginal citation: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7).
 
-[^key-466388da594d016cebb23c3cbf83824b]: Textual amendment: Words in [Sch. 1 para. 4](https://www.legislation.gov.uk/nisr/2016/222/schedule/1/paragraph/4) substituted (31.1.2024) by [The Housing Benefit and Universal Credit Housing Costs (Executive Determinations) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/3)](https://www.legislation.gov.uk/nisr/2024/3), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/3/regulation/1/1), [3(3)](https://www.legislation.gov.uk/nisr/2024/3/regulation/3/3)
+[^c-466388da594d016cebb23c3cbf83824b]: Textual amendment: Words in [Sch. 1 para. 4](https://www.legislation.gov.uk/nisr/2016/222/schedule/1/paragraph/4) substituted (31.1.2024) by [The Housing Benefit and Universal Credit Housing Costs (Executive Determinations) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/3)](https://www.legislation.gov.uk/nisr/2024/3), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/3/regulation/1/1), [3(3)](https://www.legislation.gov.uk/nisr/2024/3/regulation/3/3)
 
 [^M_F_0a257cfc-7b16-4b04-ade6-2d36d9c38ca1]: Textual amendment: Sch. 1 para. 5 omitted (30.1.2020) by [The Housing Benefit and Universal Credit Housing Costs (Executive Determinations) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/14)](https://www.legislation.gov.uk/nisr/2020/14), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/14/regulation/1/1), [3(3)(b)](https://www.legislation.gov.uk/nisr/2020/14/regulation/3/3/a)
 
-[^key-155cdc88c3c239dfb0d4baa5438d8e76]: Textual amendment: [Sch. 1 para. 6](https://www.legislation.gov.uk/nisr/2016/222/schedule/1/paragraph/6) and cross-heading inserted (31.1.2024) by [The Housing Benefit and Universal Credit Housing Costs (Executive Determinations) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/3)](https://www.legislation.gov.uk/nisr/2024/3), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/3/regulation/1/1), [3(4)](https://www.legislation.gov.uk/nisr/2024/3/regulation/3/4)
+[^c-155cdc88c3c239dfb0d4baa5438d8e76]: Textual amendment: [Sch. 1 para. 6](https://www.legislation.gov.uk/nisr/2016/222/schedule/1/paragraph/6) and cross-heading inserted (31.1.2024) by [The Housing Benefit and Universal Credit Housing Costs (Executive Determinations) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/3)](https://www.legislation.gov.uk/nisr/2024/3), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/3/regulation/1/1), [3(4)](https://www.legislation.gov.uk/nisr/2024/3/regulation/3/4)

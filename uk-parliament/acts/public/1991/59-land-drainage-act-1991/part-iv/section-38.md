@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) A drainage board for an internal drainage district, after consultation with the appropriate supervisory body[^key-a36e414d1e8ecfac21c53a7d5c904567], may—
+(1) A drainage board for an internal drainage district, after consultation with the appropriate supervisory body[^c-a36e414d1e8ecfac21c53a7d5c904567], may—
 
 - (a) for the purpose of levying differential drainage rates or issuing differential special levies, from time to time by order divide that district into sub-districts; and
 - (b) if, having regard to all the circumstances, they think that it is just to do so, exercise their powers, under Chapter II of this Part or any regulations made under section 75 of the [^c1415468]Local Government Finance Act 1988, to make and levy differential drainage rates or issue differential special levies.
@@ -44,7 +44,7 @@ and subsections (2) to (6) of section 37 above shall have effect in respect of e
 (5) When an order is made under this section by the drainage board for an internal drainage district, the board shall—
 
 - (a) submit the order to the relevant Minister; and
-- (b) forthwith thereafter publish[^key-4b701c9417a7dc7843a970a2aebdb904]... a notice under subsection (6) below.
+- (b) forthwith thereafter publish[^c-4b701c9417a7dc7843a970a2aebdb904]... a notice under subsection (6) below.
 
 (6) A notice under this subsection is a notice stating—
 
@@ -52,7 +52,7 @@ and subsections (2) to (6) of section 37 above shall have effect in respect of e
 - (b) that a copy of the order is open to inspection at a specified place; and
 - (c) that representations with respect to the order may be made to the relevant Minister within one month after the publication of the notice.
 
-(6A)[^key-a7016284c3df20fd26037ded9f0f32b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6A)[^c-a7016284c3df20fd26037ded9f0f32b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) Where an order is submitted to the relevant Minister under this section—
 
@@ -61,12 +61,12 @@ and subsections (2) to (6) of section 37 above shall have effect in respect of e
 
 ## Annotations
 
-[^key-a36e414d1e8ecfac21c53a7d5c904567]: Textual amendment: Words in s. 38 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 325](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/325) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-a36e414d1e8ecfac21c53a7d5c904567]: Textual amendment: Words in s. 38 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 325](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/325) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c1415468]: Marginal citation: [1988 c. 41](https://www.legislation.gov.uk/ukpga/1988/41).
 
 [^c1415470]: Marginal citation: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57).
 
-[^key-4b701c9417a7dc7843a970a2aebdb904]: Textual amendment: Words in s. 38(5)(b) repealed (14.7.2014) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 9 para. 4(2)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/9/paragraph/4/2); [S.I. 2014/1823](https://www.legislation.gov.uk/uksi/2014/1823), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/1823/article/2/b)
+[^c-4b701c9417a7dc7843a970a2aebdb904]: Textual amendment: Words in s. 38(5)(b) repealed (14.7.2014) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 9 para. 4(2)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/9/paragraph/4/2); [S.I. 2014/1823](https://www.legislation.gov.uk/uksi/2014/1823), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/1823/article/2/b)
 
-[^key-a7016284c3df20fd26037ded9f0f32b6]: Textual amendment: S. 38(6A) omitted (21.5.2016) by virtue of [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [ss. 82(1)](https://www.legislation.gov.uk/anaw/2016/3/section/82/1), [88(2)(d)](https://www.legislation.gov.uk/anaw/2016/3/section/88/2/d)
+[^c-a7016284c3df20fd26037ded9f0f32b6]: Textual amendment: S. 38(6A) omitted (21.5.2016) by virtue of [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [ss. 82(1)](https://www.legislation.gov.uk/anaw/2016/3/section/82/1), [88(2)(d)](https://www.legislation.gov.uk/anaw/2016/3/section/88/2/d)

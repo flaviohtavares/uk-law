@@ -46,27 +46,27 @@ Coming into force in accordance with rule 1
 
 The Civil Procedure Rule Committee, having power under section 2 of the Civil Procedure Act 1997[^f00001] to make rules under section 1 of and Schedule 1 to that Act and after fulfilling the requirements of section 2(6) of that Act, makes the following Rules.
 
-## 1. Citation, commencement and interpretation[^key-d85475f449edd4651447280f873cc3c3]
+## 1. Citation, commencement and interpretation[^c-d85475f449edd4651447280f873cc3c3]
 
 (1) These Rules may be cited as the Civil Procedure (Amendment No. 3) Rules 2020 and, subject to paragraphs (2) and (3), come into force on 1st October 2020.
 
 (2) The amendments made by rule 9(3) and (4) of these Rules to Part 34 come into force immediately after the amendments made to Part 34 by the Civil Procedure Rules 1998 (Amendment) (EU Exit) Regulations 2019[^f00002].
 
-(3) The amendments made by rules 6 and 16(1) and (2) of these Rules to Part 30 and Part 83 respectively come into force on 20th September 2020[^key-5620eb10125629d3b8b96877157124e9].
+(3) The amendments made by rules 6 and 16(1) and (2) of these Rules to Part 30 and Part 83 respectively come into force on 20th September 2020[^c-5620eb10125629d3b8b96877157124e9].
 
 (4) In these Rules, a reference to a Part or rule by number alone means the Part or rule so numbered in the Civil Procedure Rules 1998[^f00003].
 
-## 2. Transitional and saving provision[^key-38c927d5e77471387f691de64e36b09c]
+## 2. Transitional and saving provision[^c-38c927d5e77471387f691de64e36b09c]
 
-(1)[^key-b8fa8aa487e33b620c648ac5033cec20] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-b8fa8aa487e33b620c648ac5033cec20] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) No notice of eviction pursuant to rule 83.8A (as inserted by rule 16(1) of these Rules) may be delivered before 21st September 2020[^key-793e23d04362796918d28018cd33d757].
+(2) No notice of eviction pursuant to rule 83.8A (as inserted by rule 16(1) of these Rules) may be delivered before 21st September 2020[^c-793e23d04362796918d28018cd33d757].
 
-## 3. Amendments to the Civil Procedure Rules 1998[^key-1889afa5530a61bde91472c57358873d]
+## 3. Amendments to the Civil Procedure Rules 1998[^c-1889afa5530a61bde91472c57358873d]
 
 The Civil Procedure Rules 1998 are amended in accordance with rules 4 to 17 of these Rules.
 
-## 4. Amendment of Part 3[^key-8cfc0f682baf641e08065fd73b270c02]
+## 4. Amendment of Part 3[^c-8cfc0f682baf641e08065fd73b270c02]
 
 (1) In rule 3.12(2), after “proceedings” insert “(or variation costs as provided in rule 3.15A)”.
 
@@ -134,7 +134,7 @@ The Civil Procedure Rules 1998 are amended in accordance with rules 4 to 17 of t
 
 (6) In rule 3.18(c), for “paragraph 7.4 of Practice Direction 3E” substitute “3.17(3)”.
 
-## 5. Amendment of Part 7[^key-27940fe29b5783bb64819a739f411b5c]
+## 5. Amendment of Part 7[^c-27940fe29b5783bb64819a739f411b5c]
 
 (1) In the table of contents for Part 7, after the entry for rule 7.1 insert—
 
@@ -157,7 +157,7 @@ The Civil Procedure Rules 1998 are amended in accordance with rules 4 to 17 of t
 
 .
 
-## 6. Amendment of Part 30[^key-0492d18155c8c1a064aedfc3d533c5b1]
+## 6. Amendment of Part 30[^c-0492d18155c8c1a064aedfc3d533c5b1]
 
 In rule 30.4, after paragraph (2) insert—
 
@@ -170,7 +170,7 @@ In rule 30.4, after paragraph (2) insert—
 
 .
 
-## 7. Amendment of Part 31[^key-7ef933656cf1597135f6fd3a2f01db2a]
+## 7. Amendment of Part 31[^c-7ef933656cf1597135f6fd3a2f01db2a]
 
 In rule 31.23, for the words in parentheses following paragraph (1), substitute—
 
@@ -178,7 +178,7 @@ In rule 31.23, for the words in parentheses following paragraph (1), substitute�
 
 .
 
-## 8. Amendment of Part 32[^key-9f4706612a2684f86a1372186f417f03]
+## 8. Amendment of Part 32[^c-9f4706612a2684f86a1372186f417f03]
 
 For rule 32.14 and the words in parentheses after it substitute—
 
@@ -192,7 +192,7 @@ For rule 32.14 and the words in parentheses after it substitute—
 
 .
 
-## 9. Amendment of Part 34[^key-440184fe3c475829df7548e05662f47e][^key-6aae953777a339260170b74711c15fef]
+## 9. Amendment of Part 34[^c-440184fe3c475829df7548e05662f47e][^c-6aae953777a339260170b74711c15fef]
 
 (1) In the table of contents for Part 34, after the entry for rule 34.7 insert—
 
@@ -236,11 +236,11 @@ For rule 32.14 and the words in parentheses after it substitute—
 
 .
 
-## 10. Amendment of Part 45[^key-c5e51a059308d3276198afc9bc3d284c]
+## 10. Amendment of Part 45[^c-c5e51a059308d3276198afc9bc3d284c]
 
 In rule 45.18, in Tables 6 and 6A, in the headings to the second column of each table, omit the words “, but not more than £25,000”.
 
-## 11. Amendment of Part 61[^key-9cce4cc63d5cb29fe0312726b0412e5c]
+## 11. Amendment of Part 61[^c-9cce4cc63d5cb29fe0312726b0412e5c]
 
 In rule 61.13, below the full-out words at the end insert—
 
@@ -248,7 +248,7 @@ In rule 61.13, below the full-out words at the end insert—
 
 .
 
-## 12. Amendment of Part 70[^key-1c8831ba60553f01704c39ef072d59d6]
+## 12. Amendment of Part 70[^c-1c8831ba60553f01704c39ef072d59d6]
 
 (1) In the table of contents for Part 70, after the entry for rule 70.1 insert—
 
@@ -272,7 +272,7 @@ In rule 61.13, below the full-out words at the end insert—
 
 .
 
-## 13. Amendment of Part 73[^key-b3b53c7d77daebb059a2143895df10a8]
+## 13. Amendment of Part 73[^c-b3b53c7d77daebb059a2143895df10a8]
 
 (1) In rule 73.7—
 
@@ -308,7 +308,7 @@ In rule 61.13, below the full-out words at the end insert—
 
   .
 
-## 14. Amendment of Part 77[^key-8e8f22e6728d9f57dd60d932deb27c4a]
+## 14. Amendment of Part 77[^c-8e8f22e6728d9f57dd60d932deb27c4a]
 
 For rule 77.7 substitute—
 
@@ -318,13 +318,13 @@ For rule 77.7 substitute—
 
 .
 
-## 15. Amendment of Part 81[^key-89808da21094f21076fca1873fdabe27]
+## 15. Amendment of Part 81[^c-89808da21094f21076fca1873fdabe27]
 
 For Part 81 substitute Part 81 as set out in the Schedule to these Rules.
 
 ## 16. Amendment of Part 83
 
-(1)[^key-92e8a6f3a05ef38954f9f3175d644f7a] After rule 83.8 insert—
+(1)[^c-92e8a6f3a05ef38954f9f3175d644f7a] After rule 83.8 insert—
 
 > **83.8A. Notice of execution of writs and warrants of possession**
 >
@@ -396,7 +396,7 @@ For Part 81 substitute Part 81 as set out in the Schedule to these Rules.
 
   .
 
-(3)[^key-170952585aec5bec3bf0892da0364356] In rule 83.14—
+(3)[^c-170952585aec5bec3bf0892da0364356] In rule 83.14—
 
 - (a) in paragraph (1)—
   - (i) for sub-paragraph (b) substitute—
@@ -415,7 +415,7 @@ For Part 81 substitute Part 81 as set out in the Schedule to these Rules.
 
   .
 
-## 17. Amendment of Part 89[^key-de966cef64cc5545dbdbf2f00a14027d]
+## 17. Amendment of Part 89[^c-de966cef64cc5545dbdbf2f00a14027d]
 
 (1) In rule 89.16, for paragraph (2) substitute—
 
@@ -469,7 +469,7 @@ Parliamentary Under-Secretary of State for Justice
 
 Ministry of Justice
 
-## SCHEDULE[^key-59e73dc0002a54c0e19256980c3b7d2f]
+## SCHEDULE[^c-59e73dc0002a54c0e19256980c3b7d2f]
 
 Rule 15
 
@@ -643,56 +643,56 @@ These Rules amend the Civil Procedure Rules 1998 ([SI 1998/3132](https://www.leg
 
 [^f00001]: Footnote: [1997 c.12](https://www.legislation.gov.uk/ukpga/1997/12). Section 2(1) was substituted by the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), section 15 and Schedule 4, Part 1. Section 1(3) was substituted by section 82(1) of the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39) and further amended by the Constitutional Reform Act 2005, sections 15 and 146 and Schedule 4, Part 1, paragraphs 261 and 262 and Schedule 18. Section 1(1) was amended by the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), section 17(5) and Schedule 9, Part 3, paragraph 67(a).
 
-[^key-d85475f449edd4651447280f873cc3c3]: Commencement: [Rule 1](https://www.legislation.gov.uk/uksi/2020/747/rule/1) in force at 1.10.2020, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2020/747/rule/1/1)
+[^c-d85475f449edd4651447280f873cc3c3]: Commencement: [Rule 1](https://www.legislation.gov.uk/uksi/2020/747/rule/1) in force at 1.10.2020, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2020/747/rule/1/1)
 
 [^f00002]: Footnote: [S.I. 2019/521](https://www.legislation.gov.uk/uksi/2019/521).
 
-[^key-5620eb10125629d3b8b96877157124e9]: Textual amendment: Words in [rule 1(3)](https://www.legislation.gov.uk/uksi/2020/747/rule/1/3) substituted (22.8.2020) by [The Civil Procedure (Amendment No. 5) (Coronavirus) Rules 2020 (S.I. 2020/889)](https://www.legislation.gov.uk/uksi/2020/889), [rules 1](https://www.legislation.gov.uk/uksi/2020/889/rule/1), [3(a)](https://www.legislation.gov.uk/uksi/2020/889/rule/3/a)
+[^c-5620eb10125629d3b8b96877157124e9]: Textual amendment: Words in [rule 1(3)](https://www.legislation.gov.uk/uksi/2020/747/rule/1/3) substituted (22.8.2020) by [The Civil Procedure (Amendment No. 5) (Coronavirus) Rules 2020 (S.I. 2020/889)](https://www.legislation.gov.uk/uksi/2020/889), [rules 1](https://www.legislation.gov.uk/uksi/2020/889/rule/1), [3(a)](https://www.legislation.gov.uk/uksi/2020/889/rule/3/a)
 
 [^f00003]: Footnote: [S.I. 1998/3132](https://www.legislation.gov.uk/uksi/1998/3132). There are relevant amendments in [S.I. 2000/221](https://www.legislation.gov.uk/uksi/2000/221), [S.I. 2001/2792](https://www.legislation.gov.uk/uksi/2001/2792), [S.I. 2012/2208](https://www.legislation.gov.uk/uksi/2012/2208), [S.I. 2013/262](https://www.legislation.gov.uk/uksi/2013/262), [S.I. 2014/407](https://www.legislation.gov.uk/uksi/2014/407), [S.I. 2014/867](https://www.legislation.gov.uk/uksi/2014/867), [S.I. 2014/3299](https://www.legislation.gov.uk/uksi/2014/3299), [S.I. 2016/234](https://www.legislation.gov.uk/uksi/2016/234), [S.I. 2019/521](https://www.legislation.gov.uk/uksi/2019/521) and [S.I. 2020/82](https://www.legislation.gov.uk/uksi/2020/82).
 
-[^key-38c927d5e77471387f691de64e36b09c]: Commencement: [Rule 2](https://www.legislation.gov.uk/uksi/2020/747/rule/2) in force at 1.10.2020, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2020/747/rule/1/1)
+[^c-38c927d5e77471387f691de64e36b09c]: Commencement: [Rule 2](https://www.legislation.gov.uk/uksi/2020/747/rule/2) in force at 1.10.2020, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2020/747/rule/1/1)
 
-[^key-b8fa8aa487e33b620c648ac5033cec20]: Textual amendment: [Rule 2(1)](https://www.legislation.gov.uk/uksi/2020/747/rule/2/1) omitted (6.4.2021) by virtue of [The Civil Procedure (Amendment) Rules 2021 (S.I. 2021/117)](https://www.legislation.gov.uk/uksi/2021/117), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/117/rule/1/1), [21](https://www.legislation.gov.uk/uksi/2021/117/rule/21) (with [rule 2](https://www.legislation.gov.uk/uksi/2021/117/rule/2))
+[^c-b8fa8aa487e33b620c648ac5033cec20]: Textual amendment: [Rule 2(1)](https://www.legislation.gov.uk/uksi/2020/747/rule/2/1) omitted (6.4.2021) by virtue of [The Civil Procedure (Amendment) Rules 2021 (S.I. 2021/117)](https://www.legislation.gov.uk/uksi/2021/117), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/117/rule/1/1), [21](https://www.legislation.gov.uk/uksi/2021/117/rule/21) (with [rule 2](https://www.legislation.gov.uk/uksi/2021/117/rule/2))
 
-[^key-793e23d04362796918d28018cd33d757]: Textual amendment: Words in [rule 2(2)](https://www.legislation.gov.uk/uksi/2020/747/rule/2/2) substituted (22.8.2020) by [The Civil Procedure (Amendment No. 5) (Coronavirus) Rules 2020 (S.I. 2020/889)](https://www.legislation.gov.uk/uksi/2020/889), [rules 1](https://www.legislation.gov.uk/uksi/2020/889/rule/1), [3(b)](https://www.legislation.gov.uk/uksi/2020/889/rule/3/b)
+[^c-793e23d04362796918d28018cd33d757]: Textual amendment: Words in [rule 2(2)](https://www.legislation.gov.uk/uksi/2020/747/rule/2/2) substituted (22.8.2020) by [The Civil Procedure (Amendment No. 5) (Coronavirus) Rules 2020 (S.I. 2020/889)](https://www.legislation.gov.uk/uksi/2020/889), [rules 1](https://www.legislation.gov.uk/uksi/2020/889/rule/1), [3(b)](https://www.legislation.gov.uk/uksi/2020/889/rule/3/b)
 
-[^key-1889afa5530a61bde91472c57358873d]: Commencement: [Rule 3](https://www.legislation.gov.uk/uksi/2020/747/rule/3) in force at 1.10.2020, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2020/747/rule/1/1)
+[^c-1889afa5530a61bde91472c57358873d]: Commencement: [Rule 3](https://www.legislation.gov.uk/uksi/2020/747/rule/3) in force at 1.10.2020, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2020/747/rule/1/1)
 
-[^key-8cfc0f682baf641e08065fd73b270c02]: Commencement: [Rule 4](https://www.legislation.gov.uk/uksi/2020/747/rule/4) in force at 1.10.2020, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2020/747/rule/1/1)
+[^c-8cfc0f682baf641e08065fd73b270c02]: Commencement: [Rule 4](https://www.legislation.gov.uk/uksi/2020/747/rule/4) in force at 1.10.2020, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2020/747/rule/1/1)
 
-[^key-27940fe29b5783bb64819a739f411b5c]: Commencement: [Rule 5](https://www.legislation.gov.uk/uksi/2020/747/rule/5) in force at 1.10.2020, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2020/747/rule/1/1)
+[^c-27940fe29b5783bb64819a739f411b5c]: Commencement: [Rule 5](https://www.legislation.gov.uk/uksi/2020/747/rule/5) in force at 1.10.2020, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2020/747/rule/1/1)
 
-[^key-0492d18155c8c1a064aedfc3d533c5b1]: Commencement: [Rule 6](https://www.legislation.gov.uk/uksi/2020/747/rule/6) in force at 20.9.2020, see [rule 1(3)](https://www.legislation.gov.uk/uksi/2020/747/rule/1/3) (as amended by [S.I. 2020/889](https://www.legislation.gov.uk/uksi/2020/889), [rule 3(a)](https://www.legislation.gov.uk/uksi/2020/889/rule/3/a))
+[^c-0492d18155c8c1a064aedfc3d533c5b1]: Commencement: [Rule 6](https://www.legislation.gov.uk/uksi/2020/747/rule/6) in force at 20.9.2020, see [rule 1(3)](https://www.legislation.gov.uk/uksi/2020/747/rule/1/3) (as amended by [S.I. 2020/889](https://www.legislation.gov.uk/uksi/2020/889), [rule 3(a)](https://www.legislation.gov.uk/uksi/2020/889/rule/3/a))
 
-[^key-7ef933656cf1597135f6fd3a2f01db2a]: Commencement: [Rule 7](https://www.legislation.gov.uk/uksi/2020/747/rule/7) in force at 1.10.2020, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2020/747/rule/1/1)
+[^c-7ef933656cf1597135f6fd3a2f01db2a]: Commencement: [Rule 7](https://www.legislation.gov.uk/uksi/2020/747/rule/7) in force at 1.10.2020, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2020/747/rule/1/1)
 
-[^key-9f4706612a2684f86a1372186f417f03]: Commencement: [Rule 8](https://www.legislation.gov.uk/uksi/2020/747/rule/8) in force at 1.10.2020, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2020/747/rule/1/1)
+[^c-9f4706612a2684f86a1372186f417f03]: Commencement: [Rule 8](https://www.legislation.gov.uk/uksi/2020/747/rule/8) in force at 1.10.2020, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2020/747/rule/1/1)
 
-[^key-440184fe3c475829df7548e05662f47e]: Commencement: [Rule 9(1)](https://www.legislation.gov.uk/uksi/2020/747/rule/9/1)[(2)](https://www.legislation.gov.uk/uksi/2020/747/rule/9/2) in force at 1.10.2020, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2020/747/rule/1/1)
+[^c-440184fe3c475829df7548e05662f47e]: Commencement: [Rule 9(1)](https://www.legislation.gov.uk/uksi/2020/747/rule/9/1)[(2)](https://www.legislation.gov.uk/uksi/2020/747/rule/9/2) in force at 1.10.2020, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2020/747/rule/1/1)
 
-[^key-6aae953777a339260170b74711c15fef]: Commencement: Rule 9(3)(4) in force at 31.12.2020 immediately after the amendments made to Pt. 34 by [S.I. 2019/521](https://www.legislation.gov.uk/uksi/2019/521), see [rule 1(2)](https://www.legislation.gov.uk/uksi/2020/747/rule/1/2)
+[^c-6aae953777a339260170b74711c15fef]: Commencement: Rule 9(3)(4) in force at 31.12.2020 immediately after the amendments made to Pt. 34 by [S.I. 2019/521](https://www.legislation.gov.uk/uksi/2019/521), see [rule 1(2)](https://www.legislation.gov.uk/uksi/2020/747/rule/1/2)
 
 [^f00004]: Footnote: [1984 c.28](https://www.legislation.gov.uk/ukpga/1984/28). Section 55 was amended by the Courts and Legal Services Act [1990 (c.41)](https://www.legislation.gov.uk/ukpga/1990/41) section 74; the Criminal Justice Act [1991 (c.53)](https://www.legislation.gov.uk/ukpga/1991/53) section 17, 101, Schedule 4 Part I and Schedule 12; the Civil Procedure Act [1997 (c.12)](https://www.legislation.gov.uk/ukpga/1997/12) section 10, Schedule 2; and the Crime and Courts Act [2013 (c.22)](https://www.legislation.gov.uk/ukpga/2013/22) section 17(5), Schedule 9 Part 1.
 
 [^f00005]: Footnote: Rule 34.16(2) was amended by [S.I. 2019/521](https://www.legislation.gov.uk/uksi/2019/521), regulation 12(5)(b), which omitted sub-paragraph (b) and “and” at the end of sub-paragraph (a).
 
-[^key-c5e51a059308d3276198afc9bc3d284c]: Commencement: [Rule 10](https://www.legislation.gov.uk/uksi/2020/747/rule/10) in force at 1.10.2020, see [rule 1](https://www.legislation.gov.uk/uksi/2020/747/rule/1)
+[^c-c5e51a059308d3276198afc9bc3d284c]: Commencement: [Rule 10](https://www.legislation.gov.uk/uksi/2020/747/rule/10) in force at 1.10.2020, see [rule 1](https://www.legislation.gov.uk/uksi/2020/747/rule/1)
 
-[^key-9cce4cc63d5cb29fe0312726b0412e5c]: Commencement: [Rule 11](https://www.legislation.gov.uk/uksi/2020/747/rule/11) in force at 1.10.2020, see [rule 1](https://www.legislation.gov.uk/uksi/2020/747/rule/1)
+[^c-9cce4cc63d5cb29fe0312726b0412e5c]: Commencement: [Rule 11](https://www.legislation.gov.uk/uksi/2020/747/rule/11) in force at 1.10.2020, see [rule 1](https://www.legislation.gov.uk/uksi/2020/747/rule/1)
 
-[^key-1c8831ba60553f01704c39ef072d59d6]: Commencement: [Rule 12](https://www.legislation.gov.uk/uksi/2020/747/rule/12) in force at 1.10.2020, see [rule 1](https://www.legislation.gov.uk/uksi/2020/747/rule/1)
+[^c-1c8831ba60553f01704c39ef072d59d6]: Commencement: [Rule 12](https://www.legislation.gov.uk/uksi/2020/747/rule/12) in force at 1.10.2020, see [rule 1](https://www.legislation.gov.uk/uksi/2020/747/rule/1)
 
-[^key-b3b53c7d77daebb059a2143895df10a8]: Commencement: [Rule 13](https://www.legislation.gov.uk/uksi/2020/747/rule/13) in force at 1.10.2020, see [rule 1](https://www.legislation.gov.uk/uksi/2020/747/rule/1)
+[^c-b3b53c7d77daebb059a2143895df10a8]: Commencement: [Rule 13](https://www.legislation.gov.uk/uksi/2020/747/rule/13) in force at 1.10.2020, see [rule 1](https://www.legislation.gov.uk/uksi/2020/747/rule/1)
 
-[^key-8e8f22e6728d9f57dd60d932deb27c4a]: Commencement: [Rule 14](https://www.legislation.gov.uk/uksi/2020/747/rule/14) in force at 1.10.2020, see [rule 1](https://www.legislation.gov.uk/uksi/2020/747/rule/1)
+[^c-8e8f22e6728d9f57dd60d932deb27c4a]: Commencement: [Rule 14](https://www.legislation.gov.uk/uksi/2020/747/rule/14) in force at 1.10.2020, see [rule 1](https://www.legislation.gov.uk/uksi/2020/747/rule/1)
 
-[^key-89808da21094f21076fca1873fdabe27]: Commencement: [Rule 15](https://www.legislation.gov.uk/uksi/2020/747/rule/15) in force at 1.10.2020, see [rule 1](https://www.legislation.gov.uk/uksi/2020/747/rule/1)
+[^c-89808da21094f21076fca1873fdabe27]: Commencement: [Rule 15](https://www.legislation.gov.uk/uksi/2020/747/rule/15) in force at 1.10.2020, see [rule 1](https://www.legislation.gov.uk/uksi/2020/747/rule/1)
 
-[^key-92e8a6f3a05ef38954f9f3175d644f7a]: Commencement: [Rule 16(1)](https://www.legislation.gov.uk/uksi/2020/747/rule/16/1)[(2)](https://www.legislation.gov.uk/uksi/2020/747/rule/16/2) in force at 20.9.2020, see [rule 1(3)](https://www.legislation.gov.uk/uksi/2020/747/rule/1/3) (as amended by [S.I. 2020/889](https://www.legislation.gov.uk/uksi/2020/889), [rule 3(a)](https://www.legislation.gov.uk/uksi/2020/889/rule/3/a))
+[^c-92e8a6f3a05ef38954f9f3175d644f7a]: Commencement: [Rule 16(1)](https://www.legislation.gov.uk/uksi/2020/747/rule/16/1)[(2)](https://www.legislation.gov.uk/uksi/2020/747/rule/16/2) in force at 20.9.2020, see [rule 1(3)](https://www.legislation.gov.uk/uksi/2020/747/rule/1/3) (as amended by [S.I. 2020/889](https://www.legislation.gov.uk/uksi/2020/889), [rule 3(a)](https://www.legislation.gov.uk/uksi/2020/889/rule/3/a))
 
-[^key-170952585aec5bec3bf0892da0364356]: Commencement: [Rule 16(3)](https://www.legislation.gov.uk/uksi/2020/747/rule/16/3) in force at 1.10.2020, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2020/747/rule/1/1)
+[^c-170952585aec5bec3bf0892da0364356]: Commencement: [Rule 16(3)](https://www.legislation.gov.uk/uksi/2020/747/rule/16/3) in force at 1.10.2020, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2020/747/rule/1/1)
 
-[^key-de966cef64cc5545dbdbf2f00a14027d]: Commencement: [Rule 17](https://www.legislation.gov.uk/uksi/2020/747/rule/17) in force at 1.10.2020, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2020/747/rule/1/1)
+[^c-de966cef64cc5545dbdbf2f00a14027d]: Commencement: [Rule 17](https://www.legislation.gov.uk/uksi/2020/747/rule/17) in force at 1.10.2020, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2020/747/rule/1/1)
 
-[^key-59e73dc0002a54c0e19256980c3b7d2f]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2020/747/schedule) in force at 1.10.2020, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2020/747/rule/1/1)
+[^c-59e73dc0002a54c0e19256980c3b7d2f]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2020/747/schedule) in force at 1.10.2020, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2020/747/rule/1/1)

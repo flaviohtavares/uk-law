@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Duty to secure sufficient childcare for working parents[^key-69f6fb7972413244174ab578d7a61c2c]
+## 22. Duty to secure sufficient childcare for working parents[^c-69f6fb7972413244174ab578d7a61c2c]
 
 *Extent: E+W*
 
@@ -29,7 +29,7 @@ summary: ''
 
 - (a) must have regard to the needs of parents in their area for—
   - (i) the provision of childcare in respect of which the child care element of working tax credit is payable,
-  - (ia)[^key-51a3c754ae2a5f898da0ac43ae373b3c] the provision of childcare in respect of which an amount in respect of childcare costs may be included under section 12 of the Welfare Reform Act 2012 in the calculation of universal credit,
+  - (ia)[^c-51a3c754ae2a5f898da0ac43ae373b3c] the provision of childcare in respect of which an amount in respect of childcare costs may be included under section 12 of the Welfare Reform Act 2012 in the calculation of universal credit,
   - (ii) the provision of childcare which is suitable for disabled children, and
   - (iii) the provision of childcare involving the use of the Welsh language, and
 - (b) may have regard to any childcare which they expect to be available outside their area.
@@ -43,15 +43,15 @@ summary: ''
 (6) In this section—
 
 - “**child care element**”, in relation to working tax credit, is to be read in accordance with section 12 of the Tax Credits Act 2002 (c. 21);
-- “**disabled child**” means a child who has a disability for the purposes of the Equality Act 2010[^key-524b99b964591e23dbe7e4bd18a5438c];
+- “**disabled child**” means a child who has a disability for the purposes of the Equality Act 2010[^c-524b99b964591e23dbe7e4bd18a5438c];
 - “**parent**” includes any individual who—
   - (a) has parental responsibility for a child, or
   - (b) has care of a child.
 
 ## Annotations
 
-[^key-69f6fb7972413244174ab578d7a61c2c]: Commencement: S. 22 in force at 31.1.2008 by [S.I. 2008/17](https://www.legislation.gov.uk/wsi/2008/17), [art. 2(a)](https://www.legislation.gov.uk/wsi/2008/17/article/2/a)
+[^c-69f6fb7972413244174ab578d7a61c2c]: Commencement: S. 22 in force at 31.1.2008 by [S.I. 2008/17](https://www.legislation.gov.uk/wsi/2008/17), [art. 2(a)](https://www.legislation.gov.uk/wsi/2008/17/article/2/a)
 
-[^key-51a3c754ae2a5f898da0ac43ae373b3c]: Textual amendment: [S. 22(2)(a)](https://www.legislation.gov.uk/ukpga/2006/21/section/22/2/a)[(ia)](https://www.legislation.gov.uk/ukpga/2006/21/section/22/2/ia) inserted (W.) (17.7.2013) by [The Universal Credit (Consequential Provisions) (Childcare, Housing and Transport) (Wales) Regulations 2013 (No. 1788)](https://www.legislation.gov.uk/wsi/2013/1788), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2013/1788/regulation/1/1), [4](https://www.legislation.gov.uk/wsi/2013/1788/regulation/4)
+[^c-51a3c754ae2a5f898da0ac43ae373b3c]: Textual amendment: [S. 22(2)(a)](https://www.legislation.gov.uk/ukpga/2006/21/section/22/2/a)[(ia)](https://www.legislation.gov.uk/ukpga/2006/21/section/22/2/ia) inserted (W.) (17.7.2013) by [The Universal Credit (Consequential Provisions) (Childcare, Housing and Transport) (Wales) Regulations 2013 (No. 1788)](https://www.legislation.gov.uk/wsi/2013/1788), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2013/1788/regulation/1/1), [4](https://www.legislation.gov.uk/wsi/2013/1788/regulation/4)
 
-[^key-524b99b964591e23dbe7e4bd18a5438c]: Textual amendment: Words in s. 22(6) substituted by 2010 c. 15 Sch. 26 Pt. 1 para. 90 (as inserted) (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2010/2279/schedule/1/paragraph/6) (see S.I. 2010/2317, art. 2)
+[^c-524b99b964591e23dbe7e4bd18a5438c]: Textual amendment: Words in s. 22(6) substituted by 2010 c. 15 Sch. 26 Pt. 1 para. 90 (as inserted) (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2010/2279/schedule/1/paragraph/6) (see S.I. 2010/2317, art. 2)

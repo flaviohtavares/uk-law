@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 121. Interpretation of Part[^key-8aabc7f08172d5aa1bd94b1f71b8137f]
+## 121. Interpretation of Part[^c-8aabc7f08172d5aa1bd94b1f71b8137f]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ In this Part—
 
 ## Annotations
 
-[^key-8aabc7f08172d5aa1bd94b1f71b8137f]: Commencement: [Reg. 121](https://www.legislation.gov.uk/uksi/2014/2848/regulation/121) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-8aabc7f08172d5aa1bd94b1f71b8137f]: Commencement: [Reg. 121](https://www.legislation.gov.uk/uksi/2014/2848/regulation/121) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

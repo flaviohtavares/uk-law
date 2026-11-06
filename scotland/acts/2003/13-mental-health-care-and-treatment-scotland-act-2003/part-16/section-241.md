@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 241. Treatment mentioned in section 240(3): patients refusing consent or incapable of consenting[^key-cbcdbc756cafe6e839184889a05fcd6e]
+## 241. Treatment mentioned in section 240(3): patients refusing consent or incapable of consenting[^c-cbcdbc756cafe6e839184889a05fcd6e]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cbcdbc756cafe6e839184889a05fcd6e]: Commencement: [S. 241](https://www.legislation.gov.uk/asp/2003/13/section/241) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
+[^c-cbcdbc756cafe6e839184889a05fcd6e]: Commencement: [S. 241](https://www.legislation.gov.uk/asp/2003/13/section/241) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)

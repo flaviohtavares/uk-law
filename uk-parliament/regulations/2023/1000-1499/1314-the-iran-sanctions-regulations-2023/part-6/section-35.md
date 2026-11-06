@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Provision of interception and monitoring services[^key-00846212102a3809992c345c848dbaef]
+## 35. Provision of interception and monitoring services[^c-00846212102a3809992c345c848dbaef]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-00846212102a3809992c345c848dbaef]: Commencement: Reg. 35 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-00846212102a3809992c345c848dbaef]: Commencement: Reg. 35 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)

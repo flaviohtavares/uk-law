@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Commission Regulation [(EC) No 494/2002](https://www.legislation.gov.uk/eur/2002/494) establishing additional technical measures for the recovery of the stock of hake in ICES sub-areas III, IV, V, VI and VII and ICES divisions VIII a, b, d, e[^key-5aeb3ea6354ab95fa04e27bf808ba5a4]
+## 17. Commission Regulation [(EC) No 494/2002](https://www.legislation.gov.uk/eur/2002/494) establishing additional technical measures for the recovery of the stock of hake in ICES sub-areas III, IV, V, VI and VII and ICES divisions VIII a, b, d, e[^c-5aeb3ea6354ab95fa04e27bf808ba5a4]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5aeb3ea6354ab95fa04e27bf808ba5a4]: Commencement: Reg. 17 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-5aeb3ea6354ab95fa04e27bf808ba5a4]: Commencement: Reg. 17 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1

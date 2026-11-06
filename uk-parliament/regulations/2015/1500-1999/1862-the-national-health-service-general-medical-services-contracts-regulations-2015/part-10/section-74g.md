@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 74G. Medicines and Healthcare products Regulatory Agency Central Alerting System[^key-086546da24ace2c4a5aacb8887cb2230]
+## 74G. Medicines and Healthcare products Regulatory Agency Central Alerting System[^c-086546da24ace2c4a5aacb8887cb2230]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ A contractor must—
 
 ## Annotations
 
-[^key-086546da24ace2c4a5aacb8887cb2230]: Textual amendment: Reg. 74G inserted (1.10.2019) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2019 (S.I. 2019/1137)](https://www.legislation.gov.uk/uksi/2019/1137), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1137/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2019/1137/regulation/11)
+[^c-086546da24ace2c4a5aacb8887cb2230]: Textual amendment: Reg. 74G inserted (1.10.2019) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2019 (S.I. 2019/1137)](https://www.legislation.gov.uk/uksi/2019/1137), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1137/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2019/1137/regulation/11)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Amendment of return where general insurance business of foreign company accounted for on a non-annual basis[^key-5da6958e7e3bd0f2d2a48eeb341d723a]
+## 44. Amendment of return where general insurance business of foreign company accounted for on a non-annual basis[^c-5da6958e7e3bd0f2d2a48eeb341d723a]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ In section 755B (meaning of general insurance business)[^f00048] for subsection 
 
 ## Annotations
 
-[^key-5da6958e7e3bd0f2d2a48eeb341d723a]: Commencement: Art. 44 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-5da6958e7e3bd0f2d2a48eeb341d723a]: Commencement: Art. 44 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
 
 [^f00048]: Footnote: Section 755B was inserted by paragraph 14 of Schedule 17 to the Finance Act 1998.

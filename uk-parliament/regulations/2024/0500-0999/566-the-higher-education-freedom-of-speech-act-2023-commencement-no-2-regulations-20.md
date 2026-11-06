@@ -31,7 +31,7 @@ summary: ''
 
 EDUCATION, ENGLAND
 
-[^key-45a128d689bc9c852ebfd2697d29719a]The Higher Education (Freedom of Speech) Act 2023 (Commencement No. 2) Regulations 2024 (revoked)
+[^c-45a128d689bc9c852ebfd2697d29719a]The Higher Education (Freedom of Speech) Act 2023 (Commencement No. 2) Regulations 2024 (revoked)
 
 Made
 
@@ -41,28 +41,28 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 **No longer in force.**
 
-## 1. Citation, extent and interpretation[^key-45a128d689bc9c852ebfd2697d29719a]
+## 1. Citation, extent and interpretation[^c-45a128d689bc9c852ebfd2697d29719a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Provisions coming into force on 1st August 2024[^key-45a128d689bc9c852ebfd2697d29719a]
+## 2. Provisions coming into force on 1st August 2024[^c-45a128d689bc9c852ebfd2697d29719a]
 
 *Extent: E+W+S*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Provisions coming into force on 1st September 2025[^key-45a128d689bc9c852ebfd2697d29719a]
+## 3. Provisions coming into force on 1st September 2025[^c-45a128d689bc9c852ebfd2697d29719a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-45a128d689bc9c852ebfd2697d29719a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-45a128d689bc9c852ebfd2697d29719a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-45a128d689bc9c852ebfd2697d29719a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-45a128d689bc9c852ebfd2697d29719a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-45a128d689bc9c852ebfd2697d29719a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-45a128d689bc9c852ebfd2697d29719a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-45a128d689bc9c852ebfd2697d29719a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2024/566) revoked (25.7.2024) by [The Higher Education (Freedom of Speech) Act 2023 (Commencement No. 2) (Revocation) Regulations 2024 (S.I. 2024/824)](https://www.legislation.gov.uk/uksi/2024/824), [reg. 2](https://www.legislation.gov.uk/uksi/2024/824/regulation/2)
+[^c-45a128d689bc9c852ebfd2697d29719a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2024/566) revoked (25.7.2024) by [The Higher Education (Freedom of Speech) Act 2023 (Commencement No. 2) (Revocation) Regulations 2024 (S.I. 2024/824)](https://www.legislation.gov.uk/uksi/2024/824), [reg. 2](https://www.legislation.gov.uk/uksi/2024/824/regulation/2)

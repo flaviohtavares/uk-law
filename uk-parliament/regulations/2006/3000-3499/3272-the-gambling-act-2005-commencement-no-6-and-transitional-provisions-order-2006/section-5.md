@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 5. Repeal of the Lotteries and Amusements Act 1976[^key-8c40af0a081f86ae1316a64a39d2676b]
+## 5. Repeal of the Lotteries and Amusements Act 1976[^c-8c40af0a081f86ae1316a64a39d2676b]
 
 *Extent: E+W+S*
 
@@ -46,7 +46,7 @@ summary: ''
 
 ## Annotations
 
-[^key-8c40af0a081f86ae1316a64a39d2676b]: Commencement: Art. 5 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-8c40af0a081f86ae1316a64a39d2676b]: Commencement: Art. 5 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
 [^f00021]: Footnote: Schedule 1 to the 1976 Act was amended by the National Lottery etc. Act [1993 (c. 39)](https://www.legislation.gov.uk/ukpga/1993/39), paragraphs 2 and 3 of Schedule 7, and Schedule 10; by the Local Government (Wales) Act [1994 (c. 19)](https://www.legislation.gov.uk/ukpga/1994/19), paragraph 50(2) of Schedule 16; and by Local Government (Scotland) Act [1994 (c. 39)](https://www.legislation.gov.uk/ukpga/1994/39), paragraph 104(3) of Schedule 13. Other amendments were made to Schedule 1 which are not relevant. Schedule 1A was inserted by the National Lottery etc. Act 1993, section 48(5) and Part 2 of Schedule 7.
 

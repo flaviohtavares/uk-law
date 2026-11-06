@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. The NHS Commissioning Board[^key-b3a6cb0d47324e03c1898f7ddd3bcc6b][^key-50f7bb582b444ee8d70737c336f2fcf3]
+## 9. The NHS Commissioning Board[^c-b3a6cb0d47324e03c1898f7ddd3bcc6b][^c-50f7bb582b444ee8d70737c336f2fcf3]
 
 *Extent: E+W*
 
-(1)[^key-b2e697ff520819db58bb046123622fbb] After section 1G of the National Health Service Act 2006 insert—
+(1)[^c-b2e697ff520819db58bb046123622fbb] After section 1G of the National Health Service Act 2006 insert—
 
 > **Role of the Board in the health service in England**
 >
@@ -42,14 +42,14 @@ summary: ''
 > - (a) any reference to the public health functions of the Secretary of State is a reference to the functions of the Secretary of State under sections 2A and 2B and paragraphs 7C, 8 and 12 of Schedule 1, and
 > - (b) any reference to the public health functions of local authorities is a reference to the functions of local authorities under sections 2B and 111 and paragraphs 1 to 7B and 13 of Schedule 1.
 
-(2)[^key-c0af659eb88cb0d11462d623f2e9cef1] Before Schedule 1 to that Act, insert the Schedule set out in Schedule 1 to this Act.
+(2)[^c-c0af659eb88cb0d11462d623f2e9cef1] Before Schedule 1 to that Act, insert the Schedule set out in Schedule 1 to this Act.
 
 ## Annotations
 
-[^key-b3a6cb0d47324e03c1898f7ddd3bcc6b]: Commencement: S. 9 in force at 1.2.2013 for specified purposes by [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/4)
+[^c-b3a6cb0d47324e03c1898f7ddd3bcc6b]: Commencement: S. 9 in force at 1.2.2013 for specified purposes by [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/4)
 
-[^key-50f7bb582b444ee8d70737c336f2fcf3]: Commencement: S. 9 in force at 1.4.2013 in so far as not already in force by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-50f7bb582b444ee8d70737c336f2fcf3]: Commencement: S. 9 in force at 1.4.2013 in so far as not already in force by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-b2e697ff520819db58bb046123622fbb]: Commencement: S. 9(1) in force at 1.10.2012 for specified purposes by [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2012/1831/article/3/1))
+[^c-b2e697ff520819db58bb046123622fbb]: Commencement: S. 9(1) in force at 1.10.2012 for specified purposes by [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2012/1831/article/3/1))
 
-[^key-c0af659eb88cb0d11462d623f2e9cef1]: Commencement: S. 9(2) in force at 1.10.2012 for specified purposes by [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2) (with [art. 3(3)](https://www.legislation.gov.uk/uksi/2012/1831/article/3/3))
+[^c-c0af659eb88cb0d11462d623f2e9cef1]: Commencement: S. 9(2) in force at 1.10.2012 for specified purposes by [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2) (with [art. 3(3)](https://www.legislation.gov.uk/uksi/2012/1831/article/3/3))

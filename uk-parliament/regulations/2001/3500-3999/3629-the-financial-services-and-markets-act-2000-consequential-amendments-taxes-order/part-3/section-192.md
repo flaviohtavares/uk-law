@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 192. Payments to be disregarded in the calculation of earnings for the purposes of earnings-related contributions[^key-604e6ecaad3e503314c6e91149b3280f]
+## 192. Payments to be disregarded in the calculation of earnings for the purposes of earnings-related contributions[^c-604e6ecaad3e503314c6e91149b3280f]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-604e6ecaad3e503314c6e91149b3280f]: Commencement: Art. 192 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
+[^c-604e6ecaad3e503314c6e91149b3280f]: Commencement: Art. 192 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)

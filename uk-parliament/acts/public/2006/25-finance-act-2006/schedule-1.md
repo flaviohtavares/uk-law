@@ -22,37 +22,37 @@ summary: ''
 
 Section 27
 
-### Part 1 — Amendments of Chapter 4 of Part 10 of ICTA[^key-7b2e8a80406528c128a5b27175a2fd06]
+### Part 1 — Amendments of Chapter 4 of Part 10 of ICTA[^c-7b2e8a80406528c128a5b27175a2fd06]
 
 **No longer in force.**
 
-#### Availability of relief[^key-7b2e8a80406528c128a5b27175a2fd06]
+#### Availability of relief[^c-7b2e8a80406528c128a5b27175a2fd06]
 
-**1.**[^key-7b2e8a80406528c128a5b27175a2fd06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-7b2e8a80406528c128a5b27175a2fd06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Limits on group relief[^key-7b2e8a80406528c128a5b27175a2fd06]
+#### Limits on group relief[^c-7b2e8a80406528c128a5b27175a2fd06]
 
-**2.**[^key-7b2e8a80406528c128a5b27175a2fd06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-7b2e8a80406528c128a5b27175a2fd06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Relief for or in respect of non-resident companies within the charge to corporation tax[^key-7b2e8a80406528c128a5b27175a2fd06]
+#### Relief for or in respect of non-resident companies within the charge to corporation tax[^c-7b2e8a80406528c128a5b27175a2fd06]
 
-**3.**[^key-7b2e8a80406528c128a5b27175a2fd06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-7b2e8a80406528c128a5b27175a2fd06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Relief in respect of overseas losses of non-resident companies[^key-7b2e8a80406528c128a5b27175a2fd06]
+#### Relief in respect of overseas losses of non-resident companies[^c-7b2e8a80406528c128a5b27175a2fd06]
 
-**4.**[^key-7b2e8a80406528c128a5b27175a2fd06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-7b2e8a80406528c128a5b27175a2fd06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Interpretation of Chapter 4 of Part 10 of ICTA[^key-7b2e8a80406528c128a5b27175a2fd06]
+#### Interpretation of Chapter 4 of Part 10 of ICTA[^c-7b2e8a80406528c128a5b27175a2fd06]
 
-**5.**[^key-7b2e8a80406528c128a5b27175a2fd06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-7b2e8a80406528c128a5b27175a2fd06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Group relief: equity holders and profits or assets available for distribution[^key-7b2e8a80406528c128a5b27175a2fd06]
+#### Group relief: equity holders and profits or assets available for distribution[^c-7b2e8a80406528c128a5b27175a2fd06]
 
-**6.**[^key-7b2e8a80406528c128a5b27175a2fd06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-7b2e8a80406528c128a5b27175a2fd06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Meaning of conditions in section 403F etc[^key-7b2e8a80406528c128a5b27175a2fd06]
+#### Meaning of conditions in section 403F etc[^c-7b2e8a80406528c128a5b27175a2fd06]
 
-**7.**[^key-7b2e8a80406528c128a5b27175a2fd06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-7b2e8a80406528c128a5b27175a2fd06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part 2 — Amendments of other enactments
 
@@ -127,4 +127,4 @@ are to be treated as separate periods for the purposes of the amendments made by
 
 ## Annotations
 
-[^key-7b2e8a80406528c128a5b27175a2fd06]: Textual amendment: [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/25/schedule/1/part/1) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-7b2e8a80406528c128a5b27175a2fd06]: Textual amendment: [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/25/schedule/1/part/1) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

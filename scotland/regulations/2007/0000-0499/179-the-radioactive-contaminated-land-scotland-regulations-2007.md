@@ -44,7 +44,7 @@ Coming into force in accordance with regulation 1(1) and (2)
 
 The Scottish Ministers, in exercise of the powers conferred by sections 78A(9) and 78YC of the Environmental Protection Act 1990[^f00001] and of all other powers enabling them in that behalf, hereby make the following Regulations:
 
-## 1. Citation, commencement, interpretation and application[^key-6401a2fd62c107345a7e1f3738f5a0e8][^key-8594b506d94882f5cf3ba216ea0a39b6]
+## 1. Citation, commencement, interpretation and application[^c-6401a2fd62c107345a7e1f3738f5a0e8][^c-8594b506d94882f5cf3ba216ea0a39b6]
 
 (1) These Regulations may be cited as the Radioactive Contaminated Land (Scotland) Regulations 2007 and, subject to paragraph (2), shall come into force on 30th October 2007.
 
@@ -54,11 +54,11 @@ The Scottish Ministers, in exercise of the powers conferred by sections 78A(9) a
 
 (4) These Regulations extend to Scotland only.
 
-## 2. Extension and modification of Part IIA of the 1990 Act[^key-3d70dfd20594bbd9b0875ef298a0dcfc][^key-61be89f6ae657049227b82bf70a2202c]
+## 2. Extension and modification of Part IIA of the 1990 Act[^c-3d70dfd20594bbd9b0875ef298a0dcfc][^c-61be89f6ae657049227b82bf70a2202c]
 
 Part IIA of the 1990 Act[^f00002] is to have effect in relation to harm, or pollution of the water environment[^f00003], so far as attributable to any radioactivity possessed by any substance, with the modifications set out in regulations 3 to 15.
 
-## 3. Section 78A[^key-4c1fbbd518bbf3aa73eed8c52031f06f][^key-5d7b8e87d54f7d7f17dcdb344cc21d3b]
+## 3. Section 78A[^c-4c1fbbd518bbf3aa73eed8c52031f06f][^c-5d7b8e87d54f7d7f17dcdb344cc21d3b]
 
 In section 78A of the 1990 Act (preliminary)–
 
@@ -95,7 +95,7 @@ In section 78A of the 1990 Act (preliminary)–
 
     .
 
-## 4. Section 78B[^key-e33ae0641f2010f7e0f462f0304973de][^key-5139c166158e244a914e5bccaf9218cd]
+## 4. Section 78B[^c-e33ae0641f2010f7e0f462f0304973de][^c-5139c166158e244a914e5bccaf9218cd]
 
 In section 78B of the 1990 Act (identification of contaminated land) after subsection (4) insert–
 
@@ -103,7 +103,7 @@ In section 78B of the 1990 Act (identification of contaminated land) after subse
 
 .
 
-**5.**[^key-31437f041330e4b48394c84edd8e3c85][^key-7384f7de40d907982e3e9830aafc5332] After section 78B of the 1990 Act insert–
+**5.**[^c-31437f041330e4b48394c84edd8e3c85][^c-7384f7de40d907982e3e9830aafc5332] After section 78B of the 1990 Act insert–
 
 > **78BA. Duty to advise the appropriate Agency about radioactive contaminated land**
 >
@@ -139,7 +139,7 @@ In section 78B of the 1990 Act (identification of contaminated land) after subse
 
 .
 
-## 6. Section 78C[^key-63692f1c60a2a4d01019379c77f1ca33][^key-0e782133a47a224d33af4e04e2ed4d5b]
+## 6. Section 78C[^c-63692f1c60a2a4d01019379c77f1ca33][^c-0e782133a47a224d33af4e04e2ed4d5b]
 
 In section 78C of the 1990 Act (identification and designation of special sites), after subsection (10) insert–
 
@@ -147,7 +147,7 @@ In section 78C of the 1990 Act (identification and designation of special sites)
 
 .
 
-## 7. Section 78D[^key-6ff8fd34038683e97a316e62fdafea78][^key-4ea9621243c8c63fa241b82b87cd427a]
+## 7. Section 78D[^c-6ff8fd34038683e97a316e62fdafea78][^c-4ea9621243c8c63fa241b82b87cd427a]
 
 In section 78D of the 1990 Act (referral of special site decisions to the Scottish Ministers) after subsection (7) insert–
 
@@ -155,7 +155,7 @@ In section 78D of the 1990 Act (referral of special site decisions to the Scotti
 
 .
 
-## 8. Section 78E[^key-d558e4a82020daf9042316f659789795][^key-92ca49f80ea0136c5682a070771aeec9]
+## 8. Section 78E[^c-d558e4a82020daf9042316f659789795][^c-92ca49f80ea0136c5682a070771aeec9]
 
 In section 78E of the 1990 Act (duty of enforcing authority to require remediation of contaminated land etc.)–
 
@@ -177,11 +177,11 @@ In section 78E of the 1990 Act (duty of enforcing authority to require remediati
   ; and
 - (c) in subsection (5), in paragraph (c), after “(4)” insert “or (4A)”.
 
-## 9. Section 78F[^key-77e23e1992a39534c1547b5bb21d1025][^key-6d00aae3714fa4509039856a8aa5dca7]
+## 9. Section 78F[^c-77e23e1992a39534c1547b5bb21d1025][^c-6d00aae3714fa4509039856a8aa5dca7]
 
 In section 78F(9) of the 1990 Act (determination of the appropriate person to bear responsibility for remediation), after “process” insert “or radioactive decay”.
 
-## 10. Section 78H[^key-35893d07aeb7be92c2d0fe8f89fb013c][^key-95eaafb7e65df03b02747988bfc4d993]
+## 10. Section 78H[^c-35893d07aeb7be92c2d0fe8f89fb013c][^c-95eaafb7e65df03b02747988bfc4d993]
 
 In section 78H of the 1990 Act (restrictions and prohibitions on serving remediation notices)–
 
@@ -193,7 +193,7 @@ In section 78H of the 1990 Act (restrictions and prohibitions on serving remedia
 - (b) in subsection (5), in paragraph (a), after “78E(4)” insert “, (4A)”; and
 - (c) in subsection (6), after “78E(4)” insert “, (4A)”.
 
-## 11. Section 78N[^key-5854d245fc8adce9a54c5d008282a553][^key-c3f695d2cf43a8e3dd0f0519d70c24c9]
+## 11. Section 78N[^c-5854d245fc8adce9a54c5d008282a553][^c-c3f695d2cf43a8e3dd0f0519d70c24c9]
 
 In section 78N of the 1990 Act (powers of the enforcing authority to carry out remediation)–
 
@@ -209,7 +209,7 @@ In section 78N of the 1990 Act (powers of the enforcing authority to carry out r
   ; and
 - (b) in subsection (4), after “78E(4)” insert “, (4A)”.
 
-## 12. Section 78R[^key-2c90c8ee7b26e7acfd05b7e5997351f0][^key-361339dfad2cbd4385c3a10d0d59a3dc]
+## 12. Section 78R[^c-2c90c8ee7b26e7acfd05b7e5997351f0][^c-361339dfad2cbd4385c3a10d0d59a3dc]
 
 In section 78R(1) of the 1990 Act (registers), after paragraph (d) insert–
 
@@ -217,7 +217,7 @@ In section 78R(1) of the 1990 Act (registers), after paragraph (d) insert–
 
 .
 
-## 13. Section 78X[^key-0db39b3dc850f90165d4e6c22830839b][^key-831baa7b616d904c83366c7435049ccf]
+## 13. Section 78X[^c-0db39b3dc850f90165d4e6c22830839b][^c-831baa7b616d904c83366c7435049ccf]
 
 In section 78X (supplementary provisions) of the 1990 Act (supplementary provisions), after subsection (5) insert–
 
@@ -225,11 +225,11 @@ In section 78X (supplementary provisions) of the 1990 Act (supplementary provisi
 
 .
 
-## 14. Section 78YA[^key-b4c791197024c4f90275cc40bd44c91a][^key-7dd407fa2861b353fa541e755e5d9a46]
+## 14. Section 78YA[^c-b4c791197024c4f90275cc40bd44c91a][^c-7dd407fa2861b353fa541e755e5d9a46]
 
 In section 78YA(4A) of the 1990 Act (supplementary provisions with respect to guidance by the Scottish Ministers), after “78B(2)” insert “, 78BB(4)”.
 
-## 15. Section 78YB[^key-95af5fd098612f3d3e95c59412f1434d][^key-f1e599b8105c18004d0fd68663a75b1f]
+## 15. Section 78YB[^c-95af5fd098612f3d3e95c59412f1434d][^c-f1e599b8105c18004d0fd68663a75b1f]
 
 In section 78YB of the 1990 Act (interaction of Part IIA with other enactments), after subsection (4), insert–
 
@@ -263,7 +263,7 @@ In section 78YB of the 1990 Act (interaction of Part IIA with other enactments),
 
 .
 
-## 16. Modification of the Environment Act 1995[^key-f1c546b7f0e63cf24ed2873bd857140b]
+## 16. Modification of the Environment Act 1995[^c-f1c546b7f0e63cf24ed2873bd857140b]
 
 **Not yet in force.**
 
@@ -282,7 +282,7 @@ In section 108(15) (powers of enforcing authorities and persons authorised by th
 
   .
 
-## 17. Amendment of the Contaminated Land (Scotland) Regulations 2000[^key-1899da764dd4e12eb1c5c003d8834bbe]
+## 17. Amendment of the Contaminated Land (Scotland) Regulations 2000[^c-1899da764dd4e12eb1c5c003d8834bbe]
 
 **Not yet in force.**
 
@@ -351,80 +351,80 @@ A Regulatory Impact Assessment in relation to these Regulations has been placed 
 
 [^f00001]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43). Sections 78A to 78YC were inserted by section 57 of the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25); “prescribed” and “regulations” are defined in section 78A(9). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-6401a2fd62c107345a7e1f3738f5a0e8]: Commencement: Reg. 1 in force at 1.4.2007 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2007/179/regulation/1/2)
+[^c-6401a2fd62c107345a7e1f3738f5a0e8]: Commencement: Reg. 1 in force at 1.4.2007 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2007/179/regulation/1/2)
 
-[^key-8594b506d94882f5cf3ba216ea0a39b6]: Commencement: Reg. 1 in force at 30.10.2007 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2007/179/regulation/1/1)
+[^c-8594b506d94882f5cf3ba216ea0a39b6]: Commencement: Reg. 1 in force at 30.10.2007 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2007/179/regulation/1/1)
 
-[^key-3d70dfd20594bbd9b0875ef298a0dcfc]: Commencement: Reg. 2 in force at 1.4.2007 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2007/179/regulation/1/2)
+[^c-3d70dfd20594bbd9b0875ef298a0dcfc]: Commencement: Reg. 2 in force at 1.4.2007 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2007/179/regulation/1/2)
 
-[^key-61be89f6ae657049227b82bf70a2202c]: Commencement: Reg. 2 in force at 30.10.2007 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2007/179/regulation/1/1)
+[^c-61be89f6ae657049227b82bf70a2202c]: Commencement: Reg. 2 in force at 30.10.2007 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2007/179/regulation/1/1)
 
 [^f00002]: Footnote: Part IIA was amended by [S.S.I. 2005/658](https://www.legislation.gov.uk/ssi/2005/658), regulation 2.
 
 [^f00003]: Footnote: The phrase “water environment” was substituted for “controlled waters” in Part IIA of the 1990 Act by [S.S.I. 2005/658](https://www.legislation.gov.uk/ssi/2005/658).
 
-[^key-4c1fbbd518bbf3aa73eed8c52031f06f]: Commencement: Reg. 3 in force at 1.4.2007 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2007/179/regulation/1/2)
+[^c-4c1fbbd518bbf3aa73eed8c52031f06f]: Commencement: Reg. 3 in force at 1.4.2007 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2007/179/regulation/1/2)
 
-[^key-5d7b8e87d54f7d7f17dcdb344cc21d3b]: Commencement: Reg. 3 in force at 30.10.2007 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2007/179/regulation/1/1)
+[^c-5d7b8e87d54f7d7f17dcdb344cc21d3b]: Commencement: Reg. 3 in force at 30.10.2007 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2007/179/regulation/1/1)
 
 [^f00004]: Footnote: Subsection (4A) was inserted by SSI [2005/658](https://www.legislation.gov.uk/ssi/2005/658).
 
 [^f00005]: Footnote: O.J. No. L 159, 29.06.1996, p.1.
 
-[^key-e33ae0641f2010f7e0f462f0304973de]: Commencement: Reg. 4 in force at 1.4.2007 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2007/179/regulation/1/2)
+[^c-e33ae0641f2010f7e0f462f0304973de]: Commencement: Reg. 4 in force at 1.4.2007 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2007/179/regulation/1/2)
 
-[^key-5139c166158e244a914e5bccaf9218cd]: Commencement: Reg. 4 in force at 30.10.2007 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2007/179/regulation/1/1)
+[^c-5139c166158e244a914e5bccaf9218cd]: Commencement: Reg. 4 in force at 30.10.2007 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2007/179/regulation/1/1)
 
-[^key-31437f041330e4b48394c84edd8e3c85]: Commencement: Reg. 5 in force at 1.4.2007 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2007/179/regulation/1/2)
+[^c-31437f041330e4b48394c84edd8e3c85]: Commencement: Reg. 5 in force at 1.4.2007 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2007/179/regulation/1/2)
 
-[^key-7384f7de40d907982e3e9830aafc5332]: Commencement: Reg. 5 in force at 30.10.2007 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2007/179/regulation/1/1)
+[^c-7384f7de40d907982e3e9830aafc5332]: Commencement: Reg. 5 in force at 30.10.2007 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2007/179/regulation/1/1)
 
-[^key-63692f1c60a2a4d01019379c77f1ca33]: Commencement: Reg. 6 in force at 1.4.2007 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2007/179/regulation/1/2)
+[^c-63692f1c60a2a4d01019379c77f1ca33]: Commencement: Reg. 6 in force at 1.4.2007 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2007/179/regulation/1/2)
 
-[^key-0e782133a47a224d33af4e04e2ed4d5b]: Commencement: Reg. 6 in force at 30.10.2007 for specified purposes, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2007/179/regulation/1/1)
+[^c-0e782133a47a224d33af4e04e2ed4d5b]: Commencement: Reg. 6 in force at 30.10.2007 for specified purposes, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2007/179/regulation/1/1)
 
-[^key-6ff8fd34038683e97a316e62fdafea78]: Commencement: Reg. 7 in force at 1.4.2007 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2007/179/regulation/1/2)
+[^c-6ff8fd34038683e97a316e62fdafea78]: Commencement: Reg. 7 in force at 1.4.2007 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2007/179/regulation/1/2)
 
-[^key-4ea9621243c8c63fa241b82b87cd427a]: Commencement: Reg. 7 in force at 30.10.2007 for specified purposes, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2007/179/regulation/1/1)
+[^c-4ea9621243c8c63fa241b82b87cd427a]: Commencement: Reg. 7 in force at 30.10.2007 for specified purposes, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2007/179/regulation/1/1)
 
-[^key-d558e4a82020daf9042316f659789795]: Commencement: Reg. 8 in force at 1.4.2007 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2007/179/regulation/1/2)
+[^c-d558e4a82020daf9042316f659789795]: Commencement: Reg. 8 in force at 1.4.2007 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2007/179/regulation/1/2)
 
-[^key-92ca49f80ea0136c5682a070771aeec9]: Commencement: Reg. 8 in force at 30.10.2007 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2007/179/regulation/1/1)
+[^c-92ca49f80ea0136c5682a070771aeec9]: Commencement: Reg. 8 in force at 30.10.2007 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2007/179/regulation/1/1)
 
-[^key-77e23e1992a39534c1547b5bb21d1025]: Commencement: Reg. 9 in force at 1.4.2007 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2007/179/regulation/1/2)
+[^c-77e23e1992a39534c1547b5bb21d1025]: Commencement: Reg. 9 in force at 1.4.2007 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2007/179/regulation/1/2)
 
-[^key-6d00aae3714fa4509039856a8aa5dca7]: Commencement: Reg. 9 in force at 30.10.2007 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2007/179/regulation/1/1)
+[^c-6d00aae3714fa4509039856a8aa5dca7]: Commencement: Reg. 9 in force at 30.10.2007 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2007/179/regulation/1/1)
 
-[^key-35893d07aeb7be92c2d0fe8f89fb013c]: Commencement: Reg. 10 in force at 1.4.2007 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2007/179/regulation/1/2)
+[^c-35893d07aeb7be92c2d0fe8f89fb013c]: Commencement: Reg. 10 in force at 1.4.2007 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2007/179/regulation/1/2)
 
-[^key-95eaafb7e65df03b02747988bfc4d993]: Commencement: Reg. 10 in force at 30.10.2007 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2007/179/regulation/1/1)
+[^c-95eaafb7e65df03b02747988bfc4d993]: Commencement: Reg. 10 in force at 30.10.2007 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2007/179/regulation/1/1)
 
-[^key-5854d245fc8adce9a54c5d008282a553]: Commencement: Reg. 11 in force at 1.4.2007 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2007/179/regulation/1/2)
+[^c-5854d245fc8adce9a54c5d008282a553]: Commencement: Reg. 11 in force at 1.4.2007 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2007/179/regulation/1/2)
 
-[^key-c3f695d2cf43a8e3dd0f0519d70c24c9]: Commencement: Reg. 11 in force at 30.10.2007 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2007/179/regulation/1/1)
+[^c-c3f695d2cf43a8e3dd0f0519d70c24c9]: Commencement: Reg. 11 in force at 30.10.2007 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2007/179/regulation/1/1)
 
-[^key-2c90c8ee7b26e7acfd05b7e5997351f0]: Commencement: Reg. 12 in force at 1.4.2007 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2007/179/regulation/1/2)
+[^c-2c90c8ee7b26e7acfd05b7e5997351f0]: Commencement: Reg. 12 in force at 1.4.2007 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2007/179/regulation/1/2)
 
-[^key-361339dfad2cbd4385c3a10d0d59a3dc]: Commencement: Reg. 12 in force at 30.10.2007 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2007/179/regulation/1/1)
+[^c-361339dfad2cbd4385c3a10d0d59a3dc]: Commencement: Reg. 12 in force at 30.10.2007 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2007/179/regulation/1/1)
 
-[^key-0db39b3dc850f90165d4e6c22830839b]: Commencement: Reg. 13 in force at 1.4.2007 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2007/179/regulation/1/2)
+[^c-0db39b3dc850f90165d4e6c22830839b]: Commencement: Reg. 13 in force at 1.4.2007 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2007/179/regulation/1/2)
 
-[^key-831baa7b616d904c83366c7435049ccf]: Commencement: Reg. 13 in force at 30.10.2007 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2007/179/regulation/1/1)
+[^c-831baa7b616d904c83366c7435049ccf]: Commencement: Reg. 13 in force at 30.10.2007 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2007/179/regulation/1/1)
 
-[^key-b4c791197024c4f90275cc40bd44c91a]: Commencement: Reg. 14 in force at 1.4.2007 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2007/179/regulation/1/2)
+[^c-b4c791197024c4f90275cc40bd44c91a]: Commencement: Reg. 14 in force at 1.4.2007 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2007/179/regulation/1/2)
 
-[^key-7dd407fa2861b353fa541e755e5d9a46]: Commencement: Reg. 14 in force at 30.10.2007 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2007/179/regulation/1/1)
+[^c-7dd407fa2861b353fa541e755e5d9a46]: Commencement: Reg. 14 in force at 30.10.2007 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2007/179/regulation/1/1)
 
-[^key-95af5fd098612f3d3e95c59412f1434d]: Commencement: Reg. 15 in force at 1.4.2007 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2007/179/regulation/1/2)
+[^c-95af5fd098612f3d3e95c59412f1434d]: Commencement: Reg. 15 in force at 1.4.2007 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2007/179/regulation/1/2)
 
-[^key-f1e599b8105c18004d0fd68663a75b1f]: Commencement: Reg. 15 in force at 30.10.2007 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2007/179/regulation/1/1)
+[^c-f1e599b8105c18004d0fd68663a75b1f]: Commencement: Reg. 15 in force at 30.10.2007 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2007/179/regulation/1/1)
 
 [^f00006]: Footnote: S.I. [2001/2975](https://www.legislation.gov.uk/uksi/2001/2975).
 
-[^key-f1c546b7f0e63cf24ed2873bd857140b]: Commencement: Reg. 16 in force at 30.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2007/179/regulation/1/1)
+[^c-f1c546b7f0e63cf24ed2873bd857140b]: Commencement: Reg. 16 in force at 30.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2007/179/regulation/1/1)
 
 [^f00007]: Footnote: [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25).
 
-[^key-1899da764dd4e12eb1c5c003d8834bbe]: Commencement: Reg. 17 in force at 30.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2007/179/regulation/1/1)
+[^c-1899da764dd4e12eb1c5c003d8834bbe]: Commencement: Reg. 17 in force at 30.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2007/179/regulation/1/1)
 
 [^f00008]: Footnote: [S.S.I. 2000/178](https://www.legislation.gov.uk/ssi/2000/178) as amended by [S.S.I. 2000/323](https://www.legislation.gov.uk/ssi/2000/323), Schedule 10(2) paragraph 17(2)(b) and [S.S.I. 2005/658](https://www.legislation.gov.uk/ssi/2005/658), regulation 3.

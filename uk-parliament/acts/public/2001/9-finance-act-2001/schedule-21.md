@@ -61,24 +61,24 @@ In section 221(1) of that Act (meaning of “sale and finance leaseback”), in 
 
 ### 4. Effect of partnership changes
 
-(1)[^key-4acece22156933f7d446d33102d90457] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-4acece22156933f7d446d33102d90457] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In section 558 of that Act (effect of partnership changes for the purpose of other allowances), in subsection (1), for paragraph (c) substitute—
 
 > - (c) the change does not result in the relevant activity being treated as permanently discontinued under section 113(1) or 337(1) of ICTA (changes in persons carrying on a trade etc. and effect of company ceasing to trade etc.).
 
-### 5. Enterprise zones[^key-9677231c4c25798c7deb1ba6418a3cda]
+### 5. Enterprise zones[^c-9677231c4c25798c7deb1ba6418a3cda]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Highway concessions[^key-e4fd26efa7d6efc70a6467a431546e51]
+### 6. Highway concessions[^c-e4fd26efa7d6efc70a6467a431546e51]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4acece22156933f7d446d33102d90457]: Textual amendment: [Sch. 21 para. 4(1)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/21/paragraph/4/1) repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-4acece22156933f7d446d33102d90457]: Textual amendment: [Sch. 21 para. 4(1)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/21/paragraph/4/1) repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
-[^key-9677231c4c25798c7deb1ba6418a3cda]: Textual amendment: [Sch. 21 para. 5](https://www.legislation.gov.uk/ukpga/2001/9/schedule/21/paragraph/5) omitted (with effect in accordance with Sch. 27 para. 30(1) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 27 para. 23(3)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/27/paragraph/23/3)
+[^c-9677231c4c25798c7deb1ba6418a3cda]: Textual amendment: [Sch. 21 para. 5](https://www.legislation.gov.uk/ukpga/2001/9/schedule/21/paragraph/5) omitted (with effect in accordance with Sch. 27 para. 30(1) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 27 para. 23(3)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/27/paragraph/23/3)
 
-[^key-e4fd26efa7d6efc70a6467a431546e51]: Textual amendment: [Sch. 21 para. 6](https://www.legislation.gov.uk/ukpga/2001/9/schedule/21/paragraph/6) omitted (with effect in accordance with Sch. 27 para. 30(1) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 27 para. 23(3)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/27/paragraph/23/3)
+[^c-e4fd26efa7d6efc70a6467a431546e51]: Textual amendment: [Sch. 21 para. 6](https://www.legislation.gov.uk/ukpga/2001/9/schedule/21/paragraph/6) omitted (with effect in accordance with Sch. 27 para. 30(1) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 27 para. 23(3)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/27/paragraph/23/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124. Dangerous goods occurrence reporting[^key-ff2523987b323575e0275b1f224065e5]
+## 124. Dangerous goods occurrence reporting[^c-ff2523987b323575e0275b1f224065e5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 - (a) a Territory operator, wherever it occurs;
 - (b) a non-Territory operator, if it occurs in the Territory.
-- (c)[^key-fc38b2d45287f82c0e48021b132dc1cb] any entity in the Territory, other than operators, who are in possession of dangerous goods at the time a dangerous goods accident or incident occurs or is discovered;
+- (c)[^c-fc38b2d45287f82c0e48021b132dc1cb] any entity in the Territory, other than operators, who are in possession of dangerous goods at the time a dangerous goods accident or incident occurs or is discovered;
 - (d) any entities in the Territory, other than operators, who discover undeclared or misdeclared dangerous goods, which entities may include, but which are not limited to, freight forwarders, customs authorities, and secure screening providers.
 
 (2) A report required under paragraph (1) must contain such information specified by the Governor as is appropriate to the occurrence.
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ff2523987b323575e0275b1f224065e5]: Commencement: [Art. 124](https://www.legislation.gov.uk/uksi/2013/2870/article/124) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-ff2523987b323575e0275b1f224065e5]: Commencement: [Art. 124](https://www.legislation.gov.uk/uksi/2013/2870/article/124) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-fc38b2d45287f82c0e48021b132dc1cb]: Textual amendment: [Art. 124(1)(c)](https://www.legislation.gov.uk/uksi/2013/2870/article/124/1/c)[(d)](https://www.legislation.gov.uk/uksi/2013/2870/article/124/1/d) inserted (10.4.2024) by [The Air Navigation (Overseas Territories) (Amendment) Order 2024 (S.I. 2024/384)](https://www.legislation.gov.uk/uksi/2024/384), [arts. 1](https://www.legislation.gov.uk/uksi/2024/384/article/1), [9(2)](https://www.legislation.gov.uk/uksi/2024/384/article/9/2)
+[^c-fc38b2d45287f82c0e48021b132dc1cb]: Textual amendment: [Art. 124(1)(c)](https://www.legislation.gov.uk/uksi/2013/2870/article/124/1/c)[(d)](https://www.legislation.gov.uk/uksi/2013/2870/article/124/1/d) inserted (10.4.2024) by [The Air Navigation (Overseas Territories) (Amendment) Order 2024 (S.I. 2024/384)](https://www.legislation.gov.uk/uksi/2024/384), [arts. 1](https://www.legislation.gov.uk/uksi/2024/384/article/1), [9(2)](https://www.legislation.gov.uk/uksi/2024/384/article/9/2)

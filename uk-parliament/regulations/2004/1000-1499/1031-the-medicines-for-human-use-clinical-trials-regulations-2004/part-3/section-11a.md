@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11A. Definition of notifiable trial[^key-eaabab08601570b47bd0f50889b8fa37]
+## 11A. Definition of notifiable trial[^c-eaabab08601570b47bd0f50889b8fa37]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eaabab08601570b47bd0f50889b8fa37]: Textual amendment: Regs. 11A, 11B inserted (28.4.2026) by [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2025/538/regulation/11)
+[^c-eaabab08601570b47bd0f50889b8fa37]: Textual amendment: Regs. 11A, 11B inserted (28.4.2026) by [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2025/538/regulation/11)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Modification references to Monopolies Commission.[^key-3ee294c2c3bac4b9e84f1f15127e2933]
+## 12. Modification references to Monopolies Commission.[^c-3ee294c2c3bac4b9e84f1f15127e2933]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3ee294c2c3bac4b9e84f1f15127e2933]: Textual amendment: Ss. 12-14A omitted (10.11.2011) by virtue of [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [43(10)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/43/10) (with [reg. 44](https://www.legislation.gov.uk/uksi/2011/2704/regulation/44))
+[^c-3ee294c2c3bac4b9e84f1f15127e2933]: Textual amendment: Ss. 12-14A omitted (10.11.2011) by virtue of [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [43(10)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/43/10) (with [reg. 44](https://www.legislation.gov.uk/uksi/2011/2704/regulation/44))

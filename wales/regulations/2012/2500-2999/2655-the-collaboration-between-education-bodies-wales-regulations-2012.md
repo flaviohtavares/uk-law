@@ -45,27 +45,27 @@ Coming into force
 
 The Welsh Ministers, in exercise of the powers conferred on them by sections 6(1) and (2) and 32 of the Education (Wales) Measure 2011[^f00001], make the following Regulations:
 
-## 1. Title, commencement and application[^key-c8124eb04954010fd936130d8587cb8a]
+## 1. Title, commencement and application[^c-c8124eb04954010fd936130d8587cb8a]
 
 (1) The title of these Regulations is the Collaboration Between Education Bodies (Wales) Regulations 2012 and they come into force on 16 November 2012.
 
 (2) These Regulations apply in relation to Wales.
 
-## 2. Revocation[^key-52f8bcc4c2c0687860aaa91a77cbe789]
+## 2. Revocation[^c-52f8bcc4c2c0687860aaa91a77cbe789]
 
 The following regulations are revoked—
 
 - (a) the Collaboration Between Maintained Schools (Wales) Regulations 2008[^f00002]; and
 - (b) the Collaboration Arrangements (Maintained Schools and Further Education Bodies) (Wales) Regulations 2008[^f00003].
 
-## 3. Interpretation[^key-493856a8b873d47c5b6abceae79a549c]
+## 3. Interpretation[^c-493856a8b873d47c5b6abceae79a549c]
 
 (1) In these Regulations—
 
 - “chief education officer” (“*prif swyddog addysg*”) means a person appointed to that post pursuant to section 532 of the Education Act 1996[^f00004];
-- federation” ([^key-22c6430eea14ad26900fd04e55f01ef3]*“ffederasiwn”* ) and “federated school” (*“ysgol ffederal”*) are to be interpreted in accordance with section 21 of the Education (Wales) Measure 2011;
+- federation” ([^c-22c6430eea14ad26900fd04e55f01ef3]*“ffederasiwn”* ) and “federated school” (*“ysgol ffederal”*) are to be interpreted in accordance with section 21 of the Education (Wales) Measure 2011;
 - federation transition period” (“*cyfnod pontio’r ffederasiwn*”) means the period of time after a determination has been made to proceed with the proposals for a federation under regulations 7(1), 10(2), or 12(2) of the Federation of Maintained Schools (Wales) Regulations 2014 but before the federation date;.
-- “the Federation of Maintained Schools Regulations” (“*y Rheoliadau Ffedereiddio Ysgolion a Gynhelir*”) means the Federation of Maintained Schools (Wales) Regulations 2014[^key-84e3ee18e518725a527da0be42440d62];
+- “the Federation of Maintained Schools Regulations” (“*y Rheoliadau Ffedereiddio Ysgolion a Gynhelir*”) means the Federation of Maintained Schools (Wales) Regulations 2014[^c-84e3ee18e518725a527da0be42440d62];
 - “the Government of Maintained Schools Regulations” (“*y Rheoliadau Llywodraethu Ysgolion a Gynhelir*”) means the Government of Maintained Schools (Wales) Regulations 2005[^f00006];
 - “head teacher” (“*pennaeth*”) means a head teacher of a school the governing body of which is a collaborating education body;
 - “instrument and articles” (“*offeryn ac erthyglau*”) in relation to a further education body, means the instrument and articles of government in force under section 22 or 29 of the Further and Higher Education Act 1992[^f00007], as the case may be;
@@ -80,11 +80,11 @@ The following regulations are revoked—
 
 (4) Any reference in these Regulations to a school is a reference to a maintained school.
 
-## 4. Delegation of functions to a joint committee by education bodies[^key-52307b59ad6998fb6dd6019ed1b80a3d]
+## 4. Delegation of functions to a joint committee by education bodies[^c-52307b59ad6998fb6dd6019ed1b80a3d]
 
-(1) Subject to paragraph (5) where[^key-9efadd7c468b6be5e340c79c7f3d84e3] the collaborating education body is a—
+(1) Subject to paragraph (5) where[^c-9efadd7c468b6be5e340c79c7f3d84e3] the collaborating education body is a—
 
-- (a) governing body, that body may only delegate such functions to a joint committee as may be delegated to a committee under regulation 50 of the Government of Maintained Schools Regulations or regulation 62[^key-f7312fdf35513de11bed0f387ed0eaf2] of the Federation of Maintained Schools Regulations;
+- (a) governing body, that body may only delegate such functions to a joint committee as may be delegated to a committee under regulation 50 of the Government of Maintained Schools Regulations or regulation 62[^c-f7312fdf35513de11bed0f387ed0eaf2] of the Federation of Maintained Schools Regulations;
 - (b) further education body, that body may only delegate such functions to a joint committee as may be delegated to a committee under the relevant provisions of its instrument and articles; or
 - (c) local authority, that body may only delegate such functions to a joint committee as may be delegated to a committee under its constitution.
 
@@ -97,15 +97,15 @@ The following regulations are revoked—
 
 (3) Where a further education body delegates any of its functions which relate to individual members of the further education body’s staff to a joint committee, the relevant provisions of the instrument and articles apply to the discharge of such functions.
 
-(4) For the purposes of these Regulations, in regulations 50 to 52 of the Government of Maintained Schools Regulations and regulations 62 to 64[^key-d6c30154e5b2eea2a7c777e87a66a767] of the Federation of Maintained Schools Regulations—
+(4) For the purposes of these Regulations, in regulations 50 to 52 of the Government of Maintained Schools Regulations and regulations 62 to 64[^c-d6c30154e5b2eea2a7c777e87a66a767] of the Federation of Maintained Schools Regulations—
 
 - (a) “committee” (“*pwyllgor*”) means a joint committee established in accordance with these Regulations;
 - (b) “governor” (“*llywodraethwr*”) means a member excluding a non governor member of a joint committee established in accordance with these Regulations; and
 - (c) “head teacher” (“*pennaeth*”) means a head teacher of any of the schools the governing body of which is a collaborating education body.
 
-(5)[^key-b079efea0503179cc03909c799da4a81] During the federation transition period nothing in these Regulations prevents the governing bodies of schools intending to federate from forming a joint selection panel.
+(5)[^c-b079efea0503179cc03909c799da4a81] During the federation transition period nothing in these Regulations prevents the governing bodies of schools intending to federate from forming a joint selection panel.
 
-## 5. Establishment of joint committees[^key-22a7b46a035a2c51540be44bb0fafb20]
+## 5. Establishment of joint committees[^c-22a7b46a035a2c51540be44bb0fafb20]
 
 (1) The collaborating education bodies must determine, and review annually, the constitution, terms of reference and (subject to regulation 7) membership of any joint committee they decide to establish.
 
@@ -125,7 +125,7 @@ The following regulations are revoked—
 
 (7) Non governor members must not make up the majority of members on a joint committee excluding associate pupil governors.
 
-## 6. Clerks to joint committees[^key-2ace49ff396427f468dfb441ac503c73]
+## 6. Clerks to joint committees[^c-2ace49ff396427f468dfb441ac503c73]
 
 (1) A joint committee must appoint a clerk and may remove the clerk from office at any time.
 
@@ -142,11 +142,11 @@ The following regulations are revoked—
 - (b) attend meetings of the joint committee and ensure that minutes of the proceedings are drawn up; and
 - (c) perform any other functions determined by the joint committee.
 
-## 7. Non governor members[^key-56221d21697fada0a228fb20dba0daf7]
+## 7. Non governor members[^c-56221d21697fada0a228fb20dba0daf7]
 
 (1) A non governor member will continue in office until removed in accordance with regulation 5(1) or paragraph (5).
 
-(2) Any person who is disqualified from holding office as a governor under regulation 24 of, and paragraphs 2 to 12 of Schedule 5 to, the Government of Maintained Schools Regulations or under regulation 35 of, and paragraphs 2 to 13[^key-d56f63510dab96f1004bca857b9130fd] of Schedule 7 to, the Federation of Maintained Schools Regulations is disqualified from holding, or continuing to hold, office as a non governor member of a joint committee.
+(2) Any person who is disqualified from holding office as a governor under regulation 24 of, and paragraphs 2 to 12 of Schedule 5 to, the Government of Maintained Schools Regulations or under regulation 35 of, and paragraphs 2 to 13[^c-d56f63510dab96f1004bca857b9130fd] of Schedule 7 to, the Federation of Maintained Schools Regulations is disqualified from holding, or continuing to hold, office as a non governor member of a joint committee.
 
 (3) Subject to paragraphs (4) and (5) the collaborating education bodies must determine the voting rights of non governor members.
 
@@ -158,7 +158,7 @@ The following regulations are revoked—
 
 (5) A joint committee may remove a non governor member from office at any time.
 
-## 8. Right of persons to attend meetings of joint committees[^key-752d51b10957cf73ac64150ac82077b8]
+## 8. Right of persons to attend meetings of joint committees[^c-752d51b10957cf73ac64150ac82077b8]
 
 (1) Subject to regulation 10 and to the Schedule the following persons are entitled to attend any meeting of a joint committee—
 
@@ -180,7 +180,7 @@ The following regulations are revoked—
 - (a) individual member of staff, or
 - (b) individual pupil or student.
 
-## 9. Proceedings of joint committees[^key-d01643de18312416aa54a16b388713a5]
+## 9. Proceedings of joint committees[^c-d01643de18312416aa54a16b388713a5]
 
 (1) The clerk must convene meetings of the joint committee and, when exercising this function, the clerk must comply with any direction given by—
 
@@ -215,7 +215,7 @@ The following regulations are revoked—
 
 (10) Where there is an equal division of votes the person who is acting as chair for the purposes of the meeting has a second or casting vote, provided that person is a member of a collaborating education body excluding non governor members.
 
-## 10. Restrictions on persons taking part in proceedings[^key-91aa0e2f67482b7782137e571491e44d]
+## 10. Restrictions on persons taking part in proceedings[^c-91aa0e2f67482b7782137e571491e44d]
 
 (1) In this regulation and in the Schedule “relevant person” (“*person perthnasol*”) means—
 
@@ -246,7 +246,7 @@ that person, if present at a meeting of the joint committee at which the matter 
 
 (6) The Schedule makes provision for pecuniary interests and other specified conflicts of interest.
 
-## 11. Minutes[^key-db465b4847c1dc23c92031a564b62b0e]
+## 11. Minutes[^c-db465b4847c1dc23c92031a564b62b0e]
 
 (1) Minutes of the proceedings of a meeting of a joint committee must be drawn up by the clerk or by the person acting as the clerk for the purposes of the meeting; and must be signed (subject to the approval of the joint committee) by the chair of the next meeting of the joint committee.
 
@@ -280,7 +280,7 @@ Minister for Education and Skills, one of the Welsh Ministers
 
 (Regulation 10)
 
-### 1. Pecuniary interests[^key-d4577ee396f8e49fc4cb6f7cbb2a30d8]
+### 1. Pecuniary interests[^c-d4577ee396f8e49fc4cb6f7cbb2a30d8]
 
 (1) For the purposes of regulation 10, a pecuniary interest in a contract, proposed contract or other matter includes a case where—
 
@@ -296,7 +296,7 @@ Minister for Education and Skills, one of the Welsh Ministers
 
 (3) Members of the joint committee are not, by reason of their pecuniary interest in the matter, prevented from considering and voting upon proposals for one or more of the collaborating education bodies to take out insurance protecting its members against liabilities incurred by them arising out of their office and a collaborating education body is not, by reason of the pecuniary interest of its members, prevented from obtaining such insurance and paying the premiums.
 
-### 2. Appointment as member of the joint committee, chair or clerk[^key-e450c75feebe69bd72ef33eb8cfe3a5b]
+### 2. Appointment as member of the joint committee, chair or clerk[^c-e450c75feebe69bd72ef33eb8cfe3a5b]
 
 (1) This sub-paragraph applies where a relevant person is present at a meeting of the joint committee at which a subject of consideration is—
 
@@ -306,7 +306,7 @@ Minister for Education and Skills, one of the Welsh Ministers
 
 (2) In any case where sub-paragraph (1) applies, the relevant person’s interests must be treated for the purpose of regulation 10(2) as being in conflict with the collaborating education bodies' interests.
 
-### 3. Pay or appraisal of persons working at one of the collaborating education bodies[^key-fd832d1b77f02d1205e665082d54a915]
+### 3. Pay or appraisal of persons working at one of the collaborating education bodies[^c-fd832d1b77f02d1205e665082d54a915]
 
 (1) This sub-paragraph applies where a relevant person who is paid to work for a collaborating education body other than as head teacher or principal is present at a meeting of the joint committee at which a subject of consideration is the pay or performance appraisal of any particular person employed to work for a collaborating education body.
 
@@ -314,7 +314,7 @@ Minister for Education and Skills, one of the Welsh Ministers
 
 (3) In any case where sub-paragraph (1) or (2) applies, the relevant person’s interests shall be treated for the purpose of regulation 10(2) as being in conflict with the collaborating education bodies' interests.
 
-### 4. Persons who are members of more than one collaborating education body[^key-496eaac177ed1fbccb54963c694a7e6b]
+### 4. Persons who are members of more than one collaborating education body[^c-496eaac177ed1fbccb54963c694a7e6b]
 
 The fact that a person is a member of a joint committee of a collaborating education body for more than one school or further education body is not under any circumstances to be considered a conflict of interest for the purpose of these Regulations.
 
@@ -340,21 +340,21 @@ Regulation 11 deals with the drawing up of minutes of joint committee meetings a
 
 [^f00001]: Footnote: [2011 nawm 7](https://www.legislation.gov.uk/mwa/2011/7).
 
-[^key-c8124eb04954010fd936130d8587cb8a]: Commencement: Reg. 1 in force at 16.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/2655/regulation/1/1)
+[^c-c8124eb04954010fd936130d8587cb8a]: Commencement: Reg. 1 in force at 16.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/2655/regulation/1/1)
 
-[^key-52f8bcc4c2c0687860aaa91a77cbe789]: Commencement: Reg. 2 in force at 16.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/2655/regulation/1/1)
+[^c-52f8bcc4c2c0687860aaa91a77cbe789]: Commencement: Reg. 2 in force at 16.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/2655/regulation/1/1)
 
 [^f00002]: Footnote: S.I. [2008/168 (W.21)](https://www.legislation.gov.uk/wsi/2008/168).
 
 [^f00003]: Footnote: S.I. [2008/3082 (W.271)](https://www.legislation.gov.uk/wsi/2008/3082).
 
-[^key-493856a8b873d47c5b6abceae79a549c]: Commencement: Reg. 3 in force at 16.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/2655/regulation/1/1)
+[^c-493856a8b873d47c5b6abceae79a549c]: Commencement: Reg. 3 in force at 16.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/2655/regulation/1/1)
 
 [^f00004]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56) as amended by the Children Act [2004 (c. 31)](https://www.legislation.gov.uk/ukpga/2004/31) paragraph 4(1) and (2) of Schedule 2 and by S.I. [2010/1158](https://www.legislation.gov.uk/uksi/2010/1158).
 
-[^key-22c6430eea14ad26900fd04e55f01ef3]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/wsi/2012/2655/regulation/3/1) inserted (22.5.2014) by [The Federation of Maintained Schools (Wales) Regulations 2014 (S.I. 2014/1132)](https://www.legislation.gov.uk/wsi/2014/1132), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1), [92(2)(b)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/92/2/b)
+[^c-22c6430eea14ad26900fd04e55f01ef3]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/wsi/2012/2655/regulation/3/1) inserted (22.5.2014) by [The Federation of Maintained Schools (Wales) Regulations 2014 (S.I. 2014/1132)](https://www.legislation.gov.uk/wsi/2014/1132), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1), [92(2)(b)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/92/2/b)
 
-[^key-84e3ee18e518725a527da0be42440d62]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/wsi/2012/2655/regulation/3/1) substituted (22.5.2014) by [The Federation of Maintained Schools (Wales) Regulations 2014 (S.I. 2014/1132)](https://www.legislation.gov.uk/wsi/2014/1132), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1), [92(2)(a)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/92/2/a)
+[^c-84e3ee18e518725a527da0be42440d62]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/wsi/2012/2655/regulation/3/1) substituted (22.5.2014) by [The Federation of Maintained Schools (Wales) Regulations 2014 (S.I. 2014/1132)](https://www.legislation.gov.uk/wsi/2014/1132), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1), [92(2)(a)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/92/2/a)
 
 [^f00006]: Footnote: S.I. [2005/2914 (W.211)](https://www.legislation.gov.uk/wsi/2005/2914) as amended by S.I. [2005/3200 (W.236)](https://www.legislation.gov.uk/wsi/2005/3200), S.I. [2006/873 (W.81)](https://www.legislation.gov.uk/wsi/2006/873), S.I. [2007/944 (W.80)](https://www.legislation.gov.uk/wsi/2007/944), S.I. [2009/2544 (W.206)](https://www.legislation.gov.uk/wsi/2009/2544), S.I. [2010/638 (W.64)](https://www.legislation.gov.uk/wsi/2010/638), S.I. [2010/1142 (W.101)](https://www.legislation.gov.uk/wsi/2010/1142) and S.I. [2010/2582 (W.216)](https://www.legislation.gov.uk/wsi/2010/2582).
 
@@ -362,38 +362,38 @@ Regulation 11 deals with the drawing up of minutes of joint committee meetings a
 
 [^f00008]: Footnote: S.I. [2006/873 (W.81)](https://www.legislation.gov.uk/wsi/2006/873) as amended by S.I. [2007/944 (W.80)](https://www.legislation.gov.uk/wsi/2007/944), S.I. [2009/2544 (W.206)](https://www.legislation.gov.uk/wsi/2009/2544), S.I. [2009/3161 (W.275)](https://www.legislation.gov.uk/wsi/2009/3161) and S.I. [2010/1142 (W.101)](https://www.legislation.gov.uk/wsi/2010/1142).
 
-[^key-52307b59ad6998fb6dd6019ed1b80a3d]: Commencement: Reg. 4 in force at 16.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/2655/regulation/1/1)
+[^c-52307b59ad6998fb6dd6019ed1b80a3d]: Commencement: Reg. 4 in force at 16.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/2655/regulation/1/1)
 
-[^key-9efadd7c468b6be5e340c79c7f3d84e3]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/wsi/2012/2655/regulation/4/1) substituted (22.5.2014) by [The Federation of Maintained Schools (Wales) Regulations 2014 (S.I. 2014/1132)](https://www.legislation.gov.uk/wsi/2014/1132), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1), [92(3)(a)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/92/3/a)
+[^c-9efadd7c468b6be5e340c79c7f3d84e3]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/wsi/2012/2655/regulation/4/1) substituted (22.5.2014) by [The Federation of Maintained Schools (Wales) Regulations 2014 (S.I. 2014/1132)](https://www.legislation.gov.uk/wsi/2014/1132), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1), [92(3)(a)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/92/3/a)
 
-[^key-f7312fdf35513de11bed0f387ed0eaf2]: Textual amendment: Words in [reg. 4(1)(a)](https://www.legislation.gov.uk/wsi/2012/2655/regulation/4/1/a) substituted (22.5.2014) by [The Federation of Maintained Schools (Wales) Regulations 2014 (S.I. 2014/1132)](https://www.legislation.gov.uk/wsi/2014/1132), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1), [92(3)(b)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/92/3/b)
+[^c-f7312fdf35513de11bed0f387ed0eaf2]: Textual amendment: Words in [reg. 4(1)(a)](https://www.legislation.gov.uk/wsi/2012/2655/regulation/4/1/a) substituted (22.5.2014) by [The Federation of Maintained Schools (Wales) Regulations 2014 (S.I. 2014/1132)](https://www.legislation.gov.uk/wsi/2014/1132), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1), [92(3)(b)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/92/3/b)
 
-[^key-d6c30154e5b2eea2a7c777e87a66a767]: Textual amendment: Words in [reg. 4(4)](https://www.legislation.gov.uk/wsi/2012/2655/regulation/4/4) substituted (22.5.2014) by [The Federation of Maintained Schools (Wales) Regulations 2014 (S.I. 2014/1132)](https://www.legislation.gov.uk/wsi/2014/1132), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1), [92(3)(c)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/92/3/c)
+[^c-d6c30154e5b2eea2a7c777e87a66a767]: Textual amendment: Words in [reg. 4(4)](https://www.legislation.gov.uk/wsi/2012/2655/regulation/4/4) substituted (22.5.2014) by [The Federation of Maintained Schools (Wales) Regulations 2014 (S.I. 2014/1132)](https://www.legislation.gov.uk/wsi/2014/1132), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1), [92(3)(c)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/92/3/c)
 
-[^key-b079efea0503179cc03909c799da4a81]: Textual amendment: [Reg. 4(5)](https://www.legislation.gov.uk/wsi/2012/2655/regulation/4/5) inserted (22.5.2014) by [The Federation of Maintained Schools (Wales) Regulations 2014 (S.I. 2014/1132)](https://www.legislation.gov.uk/wsi/2014/1132), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1), [92(3)(d)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/92/3/d)
+[^c-b079efea0503179cc03909c799da4a81]: Textual amendment: [Reg. 4(5)](https://www.legislation.gov.uk/wsi/2012/2655/regulation/4/5) inserted (22.5.2014) by [The Federation of Maintained Schools (Wales) Regulations 2014 (S.I. 2014/1132)](https://www.legislation.gov.uk/wsi/2014/1132), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1), [92(3)(d)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/92/3/d)
 
-[^key-22a7b46a035a2c51540be44bb0fafb20]: Commencement: Reg. 5 in force at 16.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/2655/regulation/1/1)
+[^c-22a7b46a035a2c51540be44bb0fafb20]: Commencement: Reg. 5 in force at 16.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/2655/regulation/1/1)
 
-[^key-2ace49ff396427f468dfb441ac503c73]: Commencement: Reg. 6 in force at 16.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/2655/regulation/1/1)
+[^c-2ace49ff396427f468dfb441ac503c73]: Commencement: Reg. 6 in force at 16.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/2655/regulation/1/1)
 
-[^key-56221d21697fada0a228fb20dba0daf7]: Commencement: Reg. 7 in force at 16.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/2655/regulation/1/1)
+[^c-56221d21697fada0a228fb20dba0daf7]: Commencement: Reg. 7 in force at 16.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/2655/regulation/1/1)
 
-[^key-d56f63510dab96f1004bca857b9130fd]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/wsi/2012/2655/regulation/7/2) substituted (22.5.2014) by [The Federation of Maintained Schools (Wales) Regulations 2014 (S.I. 2014/1132)](https://www.legislation.gov.uk/wsi/2014/1132), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1), [92(4)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/92/4)
+[^c-d56f63510dab96f1004bca857b9130fd]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/wsi/2012/2655/regulation/7/2) substituted (22.5.2014) by [The Federation of Maintained Schools (Wales) Regulations 2014 (S.I. 2014/1132)](https://www.legislation.gov.uk/wsi/2014/1132), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1), [92(4)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/92/4)
 
-[^key-752d51b10957cf73ac64150ac82077b8]: Commencement: Reg. 8 in force at 16.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/2655/regulation/1/1)
+[^c-752d51b10957cf73ac64150ac82077b8]: Commencement: Reg. 8 in force at 16.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/2655/regulation/1/1)
 
-[^key-d01643de18312416aa54a16b388713a5]: Commencement: Reg. 9 in force at 16.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/2655/regulation/1/1)
+[^c-d01643de18312416aa54a16b388713a5]: Commencement: Reg. 9 in force at 16.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/2655/regulation/1/1)
 
-[^key-91aa0e2f67482b7782137e571491e44d]: Commencement: Reg. 10 in force at 16.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/2655/regulation/1/1)
+[^c-91aa0e2f67482b7782137e571491e44d]: Commencement: Reg. 10 in force at 16.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/2655/regulation/1/1)
 
-[^key-db465b4847c1dc23c92031a564b62b0e]: Commencement: Reg. 11 in force at 16.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/2655/regulation/1/1)
+[^c-db465b4847c1dc23c92031a564b62b0e]: Commencement: Reg. 11 in force at 16.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/2655/regulation/1/1)
 
-[^key-d4577ee396f8e49fc4cb6f7cbb2a30d8]: Commencement: Sch. para. 1 in force at 16.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/2655/regulation/1/1)
+[^c-d4577ee396f8e49fc4cb6f7cbb2a30d8]: Commencement: Sch. para. 1 in force at 16.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/2655/regulation/1/1)
 
 [^f00009]: Footnote: [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33).
 
-[^key-e450c75feebe69bd72ef33eb8cfe3a5b]: Commencement: Sch. para. 2 in force at 16.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/2655/regulation/1/1)
+[^c-e450c75feebe69bd72ef33eb8cfe3a5b]: Commencement: Sch. para. 2 in force at 16.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/2655/regulation/1/1)
 
-[^key-fd832d1b77f02d1205e665082d54a915]: Commencement: Sch. para. 3 in force at 16.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/2655/regulation/1/1)
+[^c-fd832d1b77f02d1205e665082d54a915]: Commencement: Sch. para. 3 in force at 16.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/2655/regulation/1/1)
 
-[^key-496eaac177ed1fbccb54963c694a7e6b]: Commencement: Sch. para. 4 in force at 16.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/2655/regulation/1/1)
+[^c-496eaac177ed1fbccb54963c694a7e6b]: Commencement: Sch. para. 4 in force at 16.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/2655/regulation/1/1)

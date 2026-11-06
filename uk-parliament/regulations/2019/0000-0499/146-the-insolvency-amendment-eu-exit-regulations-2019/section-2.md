@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Amendments[^key-d2a4bba3f6167b430b8042cb77d89c09][^key-0430ea4196a2d647b2785b1918535958]
+## 2. Amendments[^c-d2a4bba3f6167b430b8042cb77d89c09][^c-0430ea4196a2d647b2785b1918535958]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The Schedule has effect.
 
 ## Annotations
 
-[^key-d2a4bba3f6167b430b8042cb77d89c09]: Commencement: Reg. 2 in force at 31.1.2019 for specified purposes, see reg. 1(2)(a)
+[^c-d2a4bba3f6167b430b8042cb77d89c09]: Commencement: Reg. 2 in force at 31.1.2019 for specified purposes, see reg. 1(2)(a)
 
-[^key-0430ea4196a2d647b2785b1918535958]: Commencement: Reg. 2 in force, in so far as not already in force, on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-0430ea4196a2d647b2785b1918535958]: Commencement: Reg. 2 in force, in so far as not already in force, on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)

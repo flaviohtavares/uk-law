@@ -22,9 +22,9 @@ summary: ''
 
 (1) Section 11 of the [^c11040521]Criminal Justice Act 1967 (notice of alibi) shall cease to have effect, but subject to the following provisions of this section.
 
-(2)[^key-2a5e6cc793b628a985c9bf120bb04eab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-2a5e6cc793b628a985c9bf120bb04eab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-3f6c57b7c3989e425ac341a8c446c6c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-3f6c57b7c3989e425ac341a8c446c6c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In section 9(6) of the [^c11040531]Criminal Justice Act 1987 (disclosure in cases involving fraud) in paragraph (a) for the words “section 11 of the [^c11040541]Criminal Justice Act 1967” there shall be substituted “ section 5(7) of the Criminal Procedure and Investigations Act 1996 ”.
 
@@ -38,9 +38,9 @@ summary: ''
 
 [^c11040521]: Marginal citation: [1967 c. 80](https://www.legislation.gov.uk/ukpga/1967/80).
 
-[^key-2a5e6cc793b628a985c9bf120bb04eab]: Textual amendment: S. 74(2) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-2a5e6cc793b628a985c9bf120bb04eab]: Textual amendment: S. 74(2) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-3f6c57b7c3989e425ac341a8c446c6c9]: Textual amendment: S. 74(3) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-3f6c57b7c3989e425ac341a8c446c6c9]: Textual amendment: S. 74(3) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
 [^c11040531]: Marginal citation: [1987 c. 38](https://www.legislation.gov.uk/ukpga/1987/38).
 

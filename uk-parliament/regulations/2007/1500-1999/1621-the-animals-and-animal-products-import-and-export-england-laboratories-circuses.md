@@ -34,7 +34,7 @@ animals, england
 
 animal health
 
-The Animals and Animal Products (Import and Export) (England) (Laboratories, Circuses and Avian Quarantine) Regulations 2007 (revoked)[^key-00cc466f64393a0fe15ae5286403085e]
+The Animals and Animal Products (Import and Export) (England) (Laboratories, Circuses and Avian Quarantine) Regulations 2007 (revoked)[^c-00cc466f64393a0fe15ae5286403085e]
 
 Made
 
@@ -48,97 +48,97 @@ Coming into force
 
 1st July 2007
 
-[^key-00cc466f64393a0fe15ae5286403085e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-00cc466f64393a0fe15ae5286403085e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-00cc466f64393a0fe15ae5286403085e]
+## 1. Title, application and commencement[^c-00cc466f64393a0fe15ae5286403085e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Animals and Animal Products (Import and Export) (England) Regulations 2006[^key-00cc466f64393a0fe15ae5286403085e]
+## 2. Amendment to the Animals and Animal Products (Import and Export) (England) Regulations 2006[^c-00cc466f64393a0fe15ae5286403085e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-00cc466f64393a0fe15ae5286403085e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-00cc466f64393a0fe15ae5286403085e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-00cc466f64393a0fe15ae5286403085e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-00cc466f64393a0fe15ae5286403085e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-00cc466f64393a0fe15ae5286403085e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-00cc466f64393a0fe15ae5286403085e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-00cc466f64393a0fe15ae5286403085e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-00cc466f64393a0fe15ae5286403085e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-00cc466f64393a0fe15ae5286403085e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-00cc466f64393a0fe15ae5286403085e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-00cc466f64393a0fe15ae5286403085e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-00cc466f64393a0fe15ae5286403085e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-00cc466f64393a0fe15ae5286403085e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-00cc466f64393a0fe15ae5286403085e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-00cc466f64393a0fe15ae5286403085e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-00cc466f64393a0fe15ae5286403085e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-00cc466f64393a0fe15ae5286403085e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-00cc466f64393a0fe15ae5286403085e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-00cc466f64393a0fe15ae5286403085e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-00cc466f64393a0fe15ae5286403085e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-00cc466f64393a0fe15ae5286403085e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-00cc466f64393a0fe15ae5286403085e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-00cc466f64393a0fe15ae5286403085e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-00cc466f64393a0fe15ae5286403085e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-00cc466f64393a0fe15ae5286403085e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-00cc466f64393a0fe15ae5286403085e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-00cc466f64393a0fe15ae5286403085e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-00cc466f64393a0fe15ae5286403085e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-00cc466f64393a0fe15ae5286403085e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-00cc466f64393a0fe15ae5286403085e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18. Revocation[^key-00cc466f64393a0fe15ae5286403085e]
+## 18. Revocation[^c-00cc466f64393a0fe15ae5286403085e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-00cc466f64393a0fe15ae5286403085e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-00cc466f64393a0fe15ae5286403085e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-00cc466f64393a0fe15ae5286403085e]
+## SCHEDULE[^c-00cc466f64393a0fe15ae5286403085e]
 
 Regulation 15
 
-> **SCHEDULE 8 — Quarantine of Captive Birds[^key-00cc466f64393a0fe15ae5286403085e]**
+> **SCHEDULE 8 — Quarantine of Captive Birds[^c-00cc466f64393a0fe15ae5286403085e]**
 >
 > Regulation 19
 >
-> **PART I — Approvals[^key-00cc466f64393a0fe15ae5286403085e]**
+> **PART I — Approvals[^c-00cc466f64393a0fe15ae5286403085e]**
 >
-> **1.**[^key-00cc466f64393a0fe15ae5286403085e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **1.**[^c-00cc466f64393a0fe15ae5286403085e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **2.**[^key-00cc466f64393a0fe15ae5286403085e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **2.**[^c-00cc466f64393a0fe15ae5286403085e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **3.**[^key-00cc466f64393a0fe15ae5286403085e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **3.**[^c-00cc466f64393a0fe15ae5286403085e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **4.**[^key-00cc466f64393a0fe15ae5286403085e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **4.**[^c-00cc466f64393a0fe15ae5286403085e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **PART II — Charges in relation to approvals of avian quarantine centres and facilities, official supervision, sampling and laboratory testing[^key-00cc466f64393a0fe15ae5286403085e]**
+> **PART II — Charges in relation to approvals of avian quarantine centres and facilities, official supervision, sampling and laboratory testing[^c-00cc466f64393a0fe15ae5286403085e]**
 >
-> **5. General charging provisions[^key-00cc466f64393a0fe15ae5286403085e]**
->
-> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **6.**[^key-00cc466f64393a0fe15ae5286403085e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **7. Charges relating to approvals[^key-00cc466f64393a0fe15ae5286403085e]**
+> **5. General charging provisions[^c-00cc466f64393a0fe15ae5286403085e]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **8. Charges for official veterinary supervision and sampling[^key-00cc466f64393a0fe15ae5286403085e]**
+> **6.**[^c-00cc466f64393a0fe15ae5286403085e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **7. Charges relating to approvals[^c-00cc466f64393a0fe15ae5286403085e]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **9. Charges for testing of samples by the official laboratory[^key-00cc466f64393a0fe15ae5286403085e]**
+> **8. Charges for official veterinary supervision and sampling[^c-00cc466f64393a0fe15ae5286403085e]**
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **9. Charges for testing of samples by the official laboratory[^c-00cc466f64393a0fe15ae5286403085e]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-00cc466f64393a0fe15ae5286403085e]EXPLANATORY NOTE
+[^c-00cc466f64393a0fe15ae5286403085e]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -156,4 +156,4 @@ Regulatory impact assessments have been produced in relation to the arrangements
 
 ## Annotations
 
-[^key-00cc466f64393a0fe15ae5286403085e]: Textual amendment: Regulations revoked (1.4.2015) by [The Environment and Rural Affairs (Miscellaneous Revocations) Regulations 2015 (S.I. 2015/639)](https://www.legislation.gov.uk/uksi/2015/639), [reg. 2](https://www.legislation.gov.uk/uksi/2015/639/regulation/2)
+[^c-00cc466f64393a0fe15ae5286403085e]: Textual amendment: Regulations revoked (1.4.2015) by [The Environment and Rural Affairs (Miscellaneous Revocations) Regulations 2015 (S.I. 2015/639)](https://www.legislation.gov.uk/uksi/2015/639), [reg. 2](https://www.legislation.gov.uk/uksi/2015/639/regulation/2)

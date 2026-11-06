@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 17.2. Meaning of ‘proper address’[^key-44523e9353fdd77d8cb38bfe8d86a579]
+## 17.2. Meaning of ‘proper address’[^c-44523e9353fdd77d8cb38bfe8d86a579]
 
 *Extent: E*
 
@@ -27,4 +27,4 @@ The proper address of a person for the purposes of this Part is—
 
 ## Annotations
 
-[^key-44523e9353fdd77d8cb38bfe8d86a579]: Commencement: [Rule 17.2](https://www.legislation.gov.uk/uksi/2015/1568/article/17.2) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-44523e9353fdd77d8cb38bfe8d86a579]: Commencement: [Rule 17.2](https://www.legislation.gov.uk/uksi/2015/1568/article/17.2) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

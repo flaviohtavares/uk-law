@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Registration of civil partnership following a change of gender by either party[^key-bdac2358a345f08ba051fb0a0ea9dbc2]
+## 36. Registration of civil partnership following a change of gender by either party[^c-bdac2358a345f08ba051fb0a0ea9dbc2]
 
 *Extent: E+W*
 
@@ -85,7 +85,7 @@ summary: ''
 
 ## Annotations
 
-[^key-bdac2358a345f08ba051fb0a0ea9dbc2]: Commencement: Reg. 36 in force at 2.12.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2)
+[^c-bdac2358a345f08ba051fb0a0ea9dbc2]: Commencement: Reg. 36 in force at 2.12.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2)
 
 [^f00057]: Footnote: [S.I. 2015/50](https://www.legislation.gov.uk/uksi/2015/50).
 

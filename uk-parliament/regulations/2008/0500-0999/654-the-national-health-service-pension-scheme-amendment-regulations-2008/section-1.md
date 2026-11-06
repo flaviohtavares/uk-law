@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation, commencement and interpretation[^key-e49689dd9b7eed32c4d484cf67fd4e6a]
+## 1. Citation, commencement and interpretation[^c-e49689dd9b7eed32c4d484cf67fd4e6a]
 
 *Extent: E+W*
 
@@ -31,7 +31,7 @@ summary: ''
 
 ## Annotations
 
-[^key-e49689dd9b7eed32c4d484cf67fd4e6a]: Commencement: Reg. 1 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
+[^c-e49689dd9b7eed32c4d484cf67fd4e6a]: Commencement: Reg. 1 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
 
 [^M_F_40cf6897-f444-4584-b75d-9d24e80f67e5]: Textual amendment: Words in reg. 1(2) substituted (31.3.2008) by [The National Health Service Pension Scheme (Correction to Amendment) Regulations 2008 (S.I. 2008/906)](https://www.legislation.gov.uk/uksi/2008/906), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/906/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2008/906/regulation/2/2)
 

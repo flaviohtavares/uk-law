@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96. Amendment of Schedule 3 (combined authority mayoral election combination of polls rules)[^key-27e9ec2445c656db7d5c3bd7ff130e33]
+## 96. Amendment of Schedule 3 (combined authority mayoral election combination of polls rules)[^c-27e9ec2445c656db7d5c3bd7ff130e33]
 
 *Extent: E+W+S+N.I.*
 
@@ -329,4 +329,4 @@ summary: ''
 
 ## Annotations
 
-[^key-27e9ec2445c656db7d5c3bd7ff130e33]: Commencement: Reg. 96 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-27e9ec2445c656db7d5c3bd7ff130e33]: Commencement: Reg. 96 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)

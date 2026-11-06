@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 25n. Review by the Court of Justice[^key-b379bb6179ec1d431b6b7094d9ec8bdd]
+## Article 25n. Review by the Court of Justice[^c-b379bb6179ec1d431b6b7094d9ec8bdd]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b379bb6179ec1d431b6b7094d9ec8bdd]: Textual amendment: [Arts. 25c-25o](https://www.legislation.gov.uk/eur/2012/648/article/25c) omitted (31.12.2020) by virtue of [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2020 (S.I. 2020/646)](https://www.legislation.gov.uk/uksi/2020/646), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/646/regulation/1/3), [24](https://www.legislation.gov.uk/uksi/2020/646/regulation/24) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) as amended by [S.I. 2020/646](https://www.legislation.gov.uk/uksi/2020/646), [reg. 12](https://www.legislation.gov.uk/uksi/2020/646/regulation/12))
+[^c-b379bb6179ec1d431b6b7094d9ec8bdd]: Textual amendment: [Arts. 25c-25o](https://www.legislation.gov.uk/eur/2012/648/article/25c) omitted (31.12.2020) by virtue of [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2020 (S.I. 2020/646)](https://www.legislation.gov.uk/uksi/2020/646), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/646/regulation/1/3), [24](https://www.legislation.gov.uk/uksi/2020/646/regulation/24) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) as amended by [S.I. 2020/646](https://www.legislation.gov.uk/uksi/2020/646), [reg. 12](https://www.legislation.gov.uk/uksi/2020/646/regulation/12))

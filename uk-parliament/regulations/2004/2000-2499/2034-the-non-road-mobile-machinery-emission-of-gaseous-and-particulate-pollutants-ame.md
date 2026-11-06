@@ -32,7 +32,7 @@ summary: ''
 
 ENVIRONMENTAL PROTECTION
 
-The Non-Road Mobile Machinery (Emission of Gaseous and Particulate Pollutants) (Amendment) Regulations 2004 (revoked)[^key-6e53df3a74036cefa84c65bb1267f648]
+The Non-Road Mobile Machinery (Emission of Gaseous and Particulate Pollutants) (Amendment) Regulations 2004 (revoked)[^c-6e53df3a74036cefa84c65bb1267f648]
 
 Made
 
@@ -46,68 +46,68 @@ Coming into force
 
 6th September 2004
 
-[^key-6e53df3a74036cefa84c65bb1267f648]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6e53df3a74036cefa84c65bb1267f648]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and Commencement[^key-6e53df3a74036cefa84c65bb1267f648]
+## 1. Citation and Commencement[^c-6e53df3a74036cefa84c65bb1267f648]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of Regulations[^key-6e53df3a74036cefa84c65bb1267f648]
+## 2. Amendment of Regulations[^c-6e53df3a74036cefa84c65bb1267f648]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Interpretation[^key-6e53df3a74036cefa84c65bb1267f648]
+## 3. Interpretation[^c-6e53df3a74036cefa84c65bb1267f648]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Scope and Exclusions[^key-6e53df3a74036cefa84c65bb1267f648]
+## 4. Scope and Exclusions[^c-6e53df3a74036cefa84c65bb1267f648]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. General duty relating to placing on the market[^key-6e53df3a74036cefa84c65bb1267f648]
+## 5. General duty relating to placing on the market[^c-6e53df3a74036cefa84c65bb1267f648]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Category of Engines[^key-6e53df3a74036cefa84c65bb1267f648]
+## 6. Category of Engines[^c-6e53df3a74036cefa84c65bb1267f648]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Provisions for grant of type approval certificate[^key-6e53df3a74036cefa84c65bb1267f648]
+## 7. Provisions for grant of type approval certificate[^c-6e53df3a74036cefa84c65bb1267f648]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Transitional provisions in respect of placing engines on the market[^key-6e53df3a74036cefa84c65bb1267f648]
+## 8. Transitional provisions in respect of placing engines on the market[^c-6e53df3a74036cefa84c65bb1267f648]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Replacement Engines[^key-6e53df3a74036cefa84c65bb1267f648]
+## 9. Replacement Engines[^c-6e53df3a74036cefa84c65bb1267f648]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Approval of Engines[^key-6e53df3a74036cefa84c65bb1267f648]
+## 10. Approval of Engines[^c-6e53df3a74036cefa84c65bb1267f648]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Exemptions[^key-6e53df3a74036cefa84c65bb1267f648]
+## 11. Exemptions[^c-6e53df3a74036cefa84c65bb1267f648]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12.[^key-6e53df3a74036cefa84c65bb1267f648]
+## 12.[^c-6e53df3a74036cefa84c65bb1267f648]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Enforcement authorities[^key-6e53df3a74036cefa84c65bb1267f648]
+## 13. Enforcement authorities[^c-6e53df3a74036cefa84c65bb1267f648]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6e53df3a74036cefa84c65bb1267f648]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6e53df3a74036cefa84c65bb1267f648]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-6e53df3a74036cefa84c65bb1267f648]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6e53df3a74036cefa84c65bb1267f648]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6e53df3a74036cefa84c65bb1267f648]: Textual amendment: Regulations revoked (21.9.2018) by [The Non-Road Mobile Machinery (Type-Approval and Emission of Gaseous and Particulate Pollutants) Regulations 2018 (S.I. 2018/764)](https://www.legislation.gov.uk/uksi/2018/764), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/764/regulation/1/b), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2018/764/schedule/2/part/2) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2018/764/regulation/1/c))
+[^c-6e53df3a74036cefa84c65bb1267f648]: Textual amendment: Regulations revoked (21.9.2018) by [The Non-Road Mobile Machinery (Type-Approval and Emission of Gaseous and Particulate Pollutants) Regulations 2018 (S.I. 2018/764)](https://www.legislation.gov.uk/uksi/2018/764), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/764/regulation/1/b), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2018/764/schedule/2/part/2) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2018/764/regulation/1/c))

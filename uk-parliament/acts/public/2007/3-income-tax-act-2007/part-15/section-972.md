@@ -47,8 +47,8 @@ summary: ''
 
 (5) In this section and section 971 “**prescribed**” means prescribed by, or determined by an officer of Revenue and Customs in accordance with, regulations made by the Commissioners for Her Majesty's Revenue and Customs under section 971.
 
-(6) See section 548(7) of CTA 2010,[^key-418b42e9e97f9af9927877aa7b0d3797] which prevents certain distributions of Real Estate Investment Trusts being non-resident landlord income for the purposes of regulations under section 971.
+(6) See section 548(7) of CTA 2010,[^c-418b42e9e97f9af9927877aa7b0d3797] which prevents certain distributions of Real Estate Investment Trusts being non-resident landlord income for the purposes of regulations under section 971.
 
 ## Annotations
 
-[^key-418b42e9e97f9af9927877aa7b0d3797]: Textual amendment: Words in s. 972(6) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 559](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/559) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-418b42e9e97f9af9927877aa7b0d3797]: Textual amendment: Words in s. 972(6) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 559](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/559) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

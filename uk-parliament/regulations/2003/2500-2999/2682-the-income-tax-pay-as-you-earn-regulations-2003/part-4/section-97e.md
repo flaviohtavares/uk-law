@@ -16,18 +16,18 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97E. Contents of transfer notice[^key-7d4617430a0049f624fddf2d6c5ac8b1]
+## 97E. Contents of transfer notice[^c-7d4617430a0049f624fddf2d6c5ac8b1]
 
 *Extent: E+W+S+N.I.*
 
 (1) A transfer notice must contain the following information—
 
-- (a) the name of the managed service company to which the relevant PAYE debt or the relevant apprenticeship levy debt[^key-88a84c39b8361864ab136d84d70dfff0] relates;
+- (a) the name of the managed service company to which the relevant PAYE debt or the relevant apprenticeship levy debt[^c-88a84c39b8361864ab136d84d70dfff0] relates;
 - (b) the address of the managed service company to which the relevant PAYE debt or the relevant apprenticeship levy debt relates;
 - (c) the amount of the relevant PAYE debt or the relevant apprenticeship levy debt;
 - (d) the tax periods to which the relevant PAYE debt or the relevant apprenticeship levy debt relates;
 - (e) if the tax periods to which the relevant PAYE debt or the relevant apprenticeship levy debt relates are comprised in more than one tax year, the apportionment of the relevant PAYE debt among those tax years;
-- (f) which of the conditions A to G[^key-d6f68a21a6fc6164d384898add55a925] specified in regulation 97B is met;
+- (f) which of the conditions A to G[^c-d6f68a21a6fc6164d384898add55a925] specified in regulation 97B is met;
 - (g) the transferee’s name;
 - (h) the transferee’s address;
 - (j) whether the transferee is a person mentioned in paragraph (a), (b) or (c) of section 688A, a paragraph (b) associate or a paragraph (c) associate;
@@ -46,8 +46,8 @@ summary: ''
 
 ## Annotations
 
-[^key-7d4617430a0049f624fddf2d6c5ac8b1]: Textual amendment: Pt. 4 Ch. 4 inserted (6.8.2007) by [The Income Tax (Pay as You Earn) (Amendment No. 2) Regulations 2007 (S.I. 2007/2069)](https://www.legislation.gov.uk/uksi/2007/2069), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2069/regulation/1), [2](https://www.legislation.gov.uk/uksi/2007/2069/regulation/2)
+[^c-7d4617430a0049f624fddf2d6c5ac8b1]: Textual amendment: Pt. 4 Ch. 4 inserted (6.8.2007) by [The Income Tax (Pay as You Earn) (Amendment No. 2) Regulations 2007 (S.I. 2007/2069)](https://www.legislation.gov.uk/uksi/2007/2069), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2069/regulation/1), [2](https://www.legislation.gov.uk/uksi/2007/2069/regulation/2)
 
-[^key-88a84c39b8361864ab136d84d70dfff0]: Textual amendment: Words in [reg. 97E(1)(a)-(e)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/97E/1/a) inserted (6.4.2017) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2017 (S.I. 2017/414)](https://www.legislation.gov.uk/uksi/2017/414), [regs. 1](https://www.legislation.gov.uk/uksi/2017/414/regulation/1), [2(9)(a)](https://www.legislation.gov.uk/uksi/2017/414/regulation/2/9/a)
+[^c-88a84c39b8361864ab136d84d70dfff0]: Textual amendment: Words in [reg. 97E(1)(a)-(e)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/97E/1/a) inserted (6.4.2017) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2017 (S.I. 2017/414)](https://www.legislation.gov.uk/uksi/2017/414), [regs. 1](https://www.legislation.gov.uk/uksi/2017/414/regulation/1), [2(9)(a)](https://www.legislation.gov.uk/uksi/2017/414/regulation/2/9/a)
 
-[^key-d6f68a21a6fc6164d384898add55a925]: Textual amendment: Words in [reg. 97E(1)(f)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/97E/1/f) substituted (6.4.2017) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2017 (S.I. 2017/414)](https://www.legislation.gov.uk/uksi/2017/414), [regs. 1](https://www.legislation.gov.uk/uksi/2017/414/regulation/1), [2(9)(b)](https://www.legislation.gov.uk/uksi/2017/414/regulation/2/9/b)
+[^c-d6f68a21a6fc6164d384898add55a925]: Textual amendment: Words in [reg. 97E(1)(f)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/97E/1/f) substituted (6.4.2017) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2017 (S.I. 2017/414)](https://www.legislation.gov.uk/uksi/2017/414), [regs. 1](https://www.legislation.gov.uk/uksi/2017/414/regulation/1), [2(9)(b)](https://www.legislation.gov.uk/uksi/2017/414/regulation/2/9/b)

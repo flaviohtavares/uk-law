@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 78. Common rules for calculating interim payments, and payment of the final balance[^key-d987220199b7ff9042b0a329e769fecb]
+## Article 78. Common rules for calculating interim payments, and payment of the final balance[^c-d987220199b7ff9042b0a329e769fecb]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d987220199b7ff9042b0a329e769fecb]: Textual amendment: [Arts. 76-79](https://www.legislation.gov.uk/eur/2013/1303/article/76) omitted (31.12.2020) by virtue of [The European Structural and Investment Funds Common Provisions (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/785)](https://www.legislation.gov.uk/uksi/2019/785), [regs. 1](https://www.legislation.gov.uk/uksi/2019/785/regulation/1), [13(1)](https://www.legislation.gov.uk/uksi/2019/785/regulation/13/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d987220199b7ff9042b0a329e769fecb]: Textual amendment: [Arts. 76-79](https://www.legislation.gov.uk/eur/2013/1303/article/76) omitted (31.12.2020) by virtue of [The European Structural and Investment Funds Common Provisions (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/785)](https://www.legislation.gov.uk/uksi/2019/785), [regs. 1](https://www.legislation.gov.uk/uksi/2019/785/regulation/1), [13(1)](https://www.legislation.gov.uk/uksi/2019/785/regulation/13/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

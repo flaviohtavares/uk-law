@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 24. Rights under or over streets[^key-7987917322ef44e784448dd1d7f747b0]
+## 24. Rights under or over streets[^c-7987917322ef44e784448dd1d7f747b0]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7987917322ef44e784448dd1d7f747b0]: Commencement: Art. 24 in force at 18.3.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/215/article/1)
+[^c-7987917322ef44e784448dd1d7f747b0]: Commencement: Art. 24 in force at 18.3.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/215/article/1)

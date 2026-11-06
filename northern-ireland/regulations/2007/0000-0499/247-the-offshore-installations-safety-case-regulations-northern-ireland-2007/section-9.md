@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 9. Design notification and safety case for non-production installation to be converted[^key-204954b1b04ea2761452428c2eef75bc]
+## 9. Design notification and safety case for non-production installation to be converted[^c-204954b1b04ea2761452428c2eef75bc]
 
 *Extent: N.I.*
 
@@ -46,4 +46,4 @@ the duty holder shall notify the Executive of that change as soon as practicable
 
 ## Annotations
 
-[^key-204954b1b04ea2761452428c2eef75bc]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2007/247/regulation/9) in operation at 21.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/247/regulation/1)
+[^c-204954b1b04ea2761452428c2eef75bc]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2007/247/regulation/9) in operation at 21.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/247/regulation/1)

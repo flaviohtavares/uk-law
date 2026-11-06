@@ -35,14 +35,14 @@ in respect of election expenses incurred by or on behalf of the candidate unless
 
 - (a) any expenses which are, in accordance with article 32(1) or (2), 37(6) or 38(2), paid by the candidate,
 - (b) any expenses which are paid in accordance with article 32(4) by a person authorised as mentioned in that provision,
-- (c) any expenses included in a declaration made by the election agent under article 33, [^key-84f8566efa0076a4c38eda5529de8a25]...
-- (ca)[^key-ad29772ed52e2cf990f25448283d27a6] any expenses incurred on account of any matter falling within article 34(1) by a person authorised as mentioned in that provision; or
+- (c) any expenses included in a declaration made by the election agent under article 33, [^c-84f8566efa0076a4c38eda5529de8a25]...
+- (ca)[^c-ad29772ed52e2cf990f25448283d27a6] any expenses incurred on account of any matter falling within article 34(1) by a person authorised as mentioned in that provision; or
 - (d) any expenses which are to be regarded as incurred by or on behalf of the candidate by virtue of article 50(5).
 
 (5) A person who makes any payment (of whatever nature) in contravention of paragraph (1) is guilty of an illegal practice.
 
 ## Annotations
 
-[^key-84f8566efa0076a4c38eda5529de8a25]: Textual amendment: Word in [art. 31(4)](https://www.legislation.gov.uk/uksi/2012/1917/article/31/4) omitted (6.12.2022) by virtue of [The Police and Crime Commissioner Elections (Amendment) Order 2022 (S.I. 2022/1275)](https://www.legislation.gov.uk/uksi/2022/1275), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/1275/article/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2022/1275/article/2/2/a) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2022/1275/article/3/1))
+[^c-84f8566efa0076a4c38eda5529de8a25]: Textual amendment: Word in [art. 31(4)](https://www.legislation.gov.uk/uksi/2012/1917/article/31/4) omitted (6.12.2022) by virtue of [The Police and Crime Commissioner Elections (Amendment) Order 2022 (S.I. 2022/1275)](https://www.legislation.gov.uk/uksi/2022/1275), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/1275/article/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2022/1275/article/2/2/a) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2022/1275/article/3/1))
 
-[^key-ad29772ed52e2cf990f25448283d27a6]: Textual amendment: [Art. 31(4)(ca)](https://www.legislation.gov.uk/uksi/2012/1917/article/31/4/ca) inserted (6.12.2022) by [The Police and Crime Commissioner Elections (Amendment) Order 2022 (S.I. 2022/1275)](https://www.legislation.gov.uk/uksi/2022/1275), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/1275/article/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2022/1275/article/2/2/b) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2022/1275/article/3/1))
+[^c-ad29772ed52e2cf990f25448283d27a6]: Textual amendment: [Art. 31(4)(ca)](https://www.legislation.gov.uk/uksi/2012/1917/article/31/4/ca) inserted (6.12.2022) by [The Police and Crime Commissioner Elections (Amendment) Order 2022 (S.I. 2022/1275)](https://www.legislation.gov.uk/uksi/2022/1275), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/1275/article/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2022/1275/article/2/2/b) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2022/1275/article/3/1))

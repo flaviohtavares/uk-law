@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 75. Power to require authority to apply for civil enforcement powers[^key-5ebbdd059418eb07516d02b5cc27f473][^key-4001145cbd68ee01ffb91385d6d9f661]
+## 75. Power to require authority to apply for civil enforcement powers[^c-5ebbdd059418eb07516d02b5cc27f473][^c-4001145cbd68ee01ffb91385d6d9f661]
 
 *Extent: E+W*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5ebbdd059418eb07516d02b5cc27f473]: Commencement: S. 75 in force at 26.10.2006 for W. by [S.I. 2006/2826](https://www.legislation.gov.uk/uksi/2006/2826), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/1)[(2)(c)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/2/c)
+[^c-5ebbdd059418eb07516d02b5cc27f473]: Commencement: S. 75 in force at 26.10.2006 for W. by [S.I. 2006/2826](https://www.legislation.gov.uk/uksi/2006/2826), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/1)[(2)(c)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/2/c)
 
-[^key-4001145cbd68ee01ffb91385d6d9f661]: Commencement: S. 75 in force at 31.3.2008 for E. by [S.I. 2007/2053](https://www.legislation.gov.uk/uksi/2007/2053), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2053/article/1/2), [3(1)(2)(b)](https://www.legislation.gov.uk/uksi/2007/2053/article/3/1) (with [arts. 5-8](https://www.legislation.gov.uk/uksi/2007/2053/article/5)) (as amended (17.3.2008) by [S.I. 2008/757](https://www.legislation.gov.uk/uksi/2008/757), arts. 3, 5)
+[^c-4001145cbd68ee01ffb91385d6d9f661]: Commencement: S. 75 in force at 31.3.2008 for E. by [S.I. 2007/2053](https://www.legislation.gov.uk/uksi/2007/2053), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2053/article/1/2), [3(1)(2)(b)](https://www.legislation.gov.uk/uksi/2007/2053/article/3/1) (with [arts. 5-8](https://www.legislation.gov.uk/uksi/2007/2053/article/5)) (as amended (17.3.2008) by [S.I. 2008/757](https://www.legislation.gov.uk/uksi/2008/757), arts. 3, 5)

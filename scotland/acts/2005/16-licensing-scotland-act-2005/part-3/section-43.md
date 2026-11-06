@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 43. Licence holder's duty to notify Licensing Board of convictions[^key-bc336ddeb844149e2a466aff95e69c38]
+## 43. Licence holder's duty to notify Licensing Board of convictions[^c-bc336ddeb844149e2a466aff95e69c38]
 
 *Extent: S*
 
@@ -31,7 +31,7 @@ summary: ''
 
   any connected person.
 
-(3)[^key-9630cfb480911e3d24943a2cdde11ffd] The holder of the premises licence must, no later than one month after the date of the conviction, give notice of the conviction to the Licensing Board which issued the premises licence held by the licence holder.
+(3)[^c-9630cfb480911e3d24943a2cdde11ffd] The holder of the premises licence must, no later than one month after the date of the conviction, give notice of the conviction to the Licensing Board which issued the premises licence held by the licence holder.
 
 (4) A notice of conviction under subsection (3) must—
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bc336ddeb844149e2a466aff95e69c38]: Commencement: S. 43 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
+[^c-bc336ddeb844149e2a466aff95e69c38]: Commencement: S. 43 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
 
-[^key-9630cfb480911e3d24943a2cdde11ffd]: Modification: S. 43(3) modified (1.2.2008) by [Licensing (Relevant Offences) (Scotland) Regulations 2007 (S.S.I. 2007/513)](https://www.legislation.gov.uk/ssi/2007/513), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/513/regulation/1/1), [3](https://www.legislation.gov.uk/ssi/2007/513/regulation/3)
+[^c-9630cfb480911e3d24943a2cdde11ffd]: Modification: S. 43(3) modified (1.2.2008) by [Licensing (Relevant Offences) (Scotland) Regulations 2007 (S.S.I. 2007/513)](https://www.legislation.gov.uk/ssi/2007/513), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/513/regulation/1/1), [3](https://www.legislation.gov.uk/ssi/2007/513/regulation/3)

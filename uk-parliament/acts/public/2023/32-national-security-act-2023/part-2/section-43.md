@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Urgent cases: reference to the court etc[^key-795ee3adebe4a2baf0280eb310ffb626][^key-740bb91bca33762851d27ee33a221808]
+## 43. Urgent cases: reference to the court etc[^c-795ee3adebe4a2baf0280eb310ffb626][^c-740bb91bca33762851d27ee33a221808]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Schedule 8 makes provision about references to the court in urgent cases.
 
 ## Annotations
 
-[^key-795ee3adebe4a2baf0280eb310ffb626]: Commencement: S. 43 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-795ee3adebe4a2baf0280eb310ffb626]: Commencement: S. 43 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
 
-[^key-740bb91bca33762851d27ee33a221808]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2023/32/section/43) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-740bb91bca33762851d27ee33a221808]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2023/32/section/43) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)

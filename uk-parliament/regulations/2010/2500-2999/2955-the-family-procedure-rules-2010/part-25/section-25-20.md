@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25.20. Assessors[^key-fac486bccc89c6381f2f4fe36561bffb]
+## 25.20. Assessors[^c-fac486bccc89c6381f2f4fe36561bffb]
 
 *Extent: E+W*
 
-(1) This rule applies where the court appoints one or more persons under section 70 of the Senior Courts Act 1981 [^key-44e3a6f9a2de8897afa0391c21d7d076]... as an assessor.
+(1) This rule applies where the court appoints one or more persons under section 70 of the Senior Courts Act 1981 [^c-44e3a6f9a2de8897afa0391c21d7d076]... as an assessor.
 
 (2) An assessor will assist the court in dealing with a matter in which the assessor has skill and experience.
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fac486bccc89c6381f2f4fe36561bffb]: Textual amendment: Pt. 25 substituted (31.1.2013) by [The Family Procedure (Amendment) (No.5) Rules 2012 (S.I. 2012/3061)](https://www.legislation.gov.uk/uksi/2012/3061), [rule 1](https://www.legislation.gov.uk/uksi/2012/3061/rule/1), [Sch.](https://www.legislation.gov.uk/uksi/2012/3061/schedule)
+[^c-fac486bccc89c6381f2f4fe36561bffb]: Textual amendment: Pt. 25 substituted (31.1.2013) by [The Family Procedure (Amendment) (No.5) Rules 2012 (S.I. 2012/3061)](https://www.legislation.gov.uk/uksi/2012/3061), [rule 1](https://www.legislation.gov.uk/uksi/2012/3061/rule/1), [Sch.](https://www.legislation.gov.uk/uksi/2012/3061/schedule)
 
-[^key-44e3a6f9a2de8897afa0391c21d7d076]: Textual amendment: Words in rule 25.20(1) omitted (22.4.2014) by virtue of [The Family Procedure (Amendment No. 2) Rules 2014 (S.I. 2014/667)](https://www.legislation.gov.uk/uksi/2014/667), [rules 1](https://www.legislation.gov.uk/uksi/2014/667/rule/1), [18](https://www.legislation.gov.uk/uksi/2014/667/rule/18) (with [rule 45](https://www.legislation.gov.uk/uksi/2014/667/rule/45))
+[^c-44e3a6f9a2de8897afa0391c21d7d076]: Textual amendment: Words in rule 25.20(1) omitted (22.4.2014) by virtue of [The Family Procedure (Amendment No. 2) Rules 2014 (S.I. 2014/667)](https://www.legislation.gov.uk/uksi/2014/667), [rules 1](https://www.legislation.gov.uk/uksi/2014/667/rule/1), [18](https://www.legislation.gov.uk/uksi/2014/667/rule/18) (with [rule 45](https://www.legislation.gov.uk/uksi/2014/667/rule/45))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49.3. Supply of copy of notice of request for assistance abroad[^key-8e9b3e537866a4c4ffd502304fdb38bd]
+## 49.3. Supply of copy of notice of request for assistance abroad[^c-8e9b3e537866a4c4ffd502304fdb38bd]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where a request for assistance under section 7 of the Crime (International Co-op
 
 ## Annotations
 
-[^key-8e9b3e537866a4c4ffd502304fdb38bd]: Commencement: [Rule 49.3](https://www.legislation.gov.uk/uksi/2025/909/rule/49.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-8e9b3e537866a4c4ffd502304fdb38bd]: Commencement: [Rule 49.3](https://www.legislation.gov.uk/uksi/2025/909/rule/49.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

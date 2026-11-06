@@ -22,7 +22,7 @@ summary: ''
 
 (1) Section 57 of VATA 1994 (determination of consideration for fuel supplied for private use) is amended as follows.
 
-(2)[^key-0f43cf48cf41d4e08fc38997fcd9c209] After subsection (4) (power of Treasury by order to substitute a different Table for Table A) insert—
+(2)[^c-0f43cf48cf41d4e08fc38997fcd9c209] After subsection (4) (power of Treasury by order to substitute a different Table for Table A) insert—
 
 > (4A) The power conferred by subsection (4) above includes power to substitute for Table A a Table (whether or not of the same or a similar configuration) where any description of vehicle may be by reference to any one or more of the following—
 >
@@ -67,16 +67,16 @@ summary: ''
 
 .
 
-(3)[^key-0f43cf48cf41d4e08fc38997fcd9c209] In subsection (5) (fuel supplied for 2 or more vehicles)—
+(3)[^c-0f43cf48cf41d4e08fc38997fcd9c209] In subsection (5) (fuel supplied for 2 or more vehicles)—
 
 - (a) in paragraph (a), for “Table A above, that Table” substitute “ Table A above or any Notes, that Table and those Notes ”;
 - (b) in paragraph (b), after “that Table”, in both places, insert “ or those Notes ”.
 
-(4)[^key-0f43cf48cf41d4e08fc38997fcd9c209] In subsection (7) (cubic capacity of internal combustion engine with reciprocating pistons) after “for the purposes of Table A above” insert “ and any Notes ”.
+(4)[^c-0f43cf48cf41d4e08fc38997fcd9c209] In subsection (7) (cubic capacity of internal combustion engine with reciprocating pistons) after “for the purposes of Table A above” insert “ and any Notes ”.
 
-(5)[^key-0f43cf48cf41d4e08fc38997fcd9c209] In subsection (8) (cubic capacity in other cases) after “for the purposes of Table A above” insert “ and any Notes ”.
+(5)[^c-0f43cf48cf41d4e08fc38997fcd9c209] In subsection (8) (cubic capacity in other cases) after “for the purposes of Table A above” insert “ and any Notes ”.
 
-(6)[^key-0f43cf48cf41d4e08fc38997fcd9c209] After subsection (8) insert—
+(6)[^c-0f43cf48cf41d4e08fc38997fcd9c209] After subsection (8) insert—
 
 > (9) In this section—
 >
@@ -101,4 +101,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0f43cf48cf41d4e08fc38997fcd9c209]: Commencement: [S. 2(2)-(6)](https://www.legislation.gov.uk/ukpga/2005/22/section/2/2) in force at 22.3.2007 for the purposes of the amendments made by those sub-sections by [S.I. 2007/946](https://www.legislation.gov.uk/uksi/2007/946), [art. 2](https://www.legislation.gov.uk/uksi/2007/946/article/2)
+[^c-0f43cf48cf41d4e08fc38997fcd9c209]: Commencement: [S. 2(2)-(6)](https://www.legislation.gov.uk/ukpga/2005/22/section/2/2) in force at 22.3.2007 for the purposes of the amendments made by those sub-sections by [S.I. 2007/946](https://www.legislation.gov.uk/uksi/2007/946), [art. 2](https://www.legislation.gov.uk/uksi/2007/946/article/2)

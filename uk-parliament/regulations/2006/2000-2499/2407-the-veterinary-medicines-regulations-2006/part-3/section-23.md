@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Records of the receipt or supply of prescription products[^key-fc0bc6fec12496c68db27837d6b232ae]
+## 23. Records of the receipt or supply of prescription products[^c-fc0bc6fec12496c68db27837d6b232ae]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fc0bc6fec12496c68db27837d6b232ae]: Commencement: Reg. 23 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-fc0bc6fec12496c68db27837d6b232ae]: Commencement: Reg. 23 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)

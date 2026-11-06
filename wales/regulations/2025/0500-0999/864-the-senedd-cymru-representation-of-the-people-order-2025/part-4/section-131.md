@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 131. Evidence by certificate of electoral registration[^key-9a54c2bb16bdf76ea95d5af7e2e0c320]
+## 131. Evidence by certificate of electoral registration[^c-9a54c2bb16bdf76ea95d5af7e2e0c320]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9a54c2bb16bdf76ea95d5af7e2e0c320]: Commencement: Art. 131 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-9a54c2bb16bdf76ea95d5af7e2e0c320]: Commencement: Art. 131 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

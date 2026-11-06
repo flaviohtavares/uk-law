@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 4 — Timetable for the Allocation Process[^key-9e214aa4ca8c624a2f49288ef4b1abe2]
+## SCHEDULE 4 — Timetable for the Allocation Process[^c-9e214aa4ca8c624a2f49288ef4b1abe2]
 
 *Extent: E+W+S*
 
@@ -26,7 +26,7 @@ This Schedule substantially reproduces the provisions of Annex VII to the Direct
 
 **1.** The working timetable must be established once per calendar year.
 
-**2.** The change of working timetable must take place at midnight on the second Saturday in December. Where an adjustment is carried out after the winter, in particular to take account, where appropriate, of changes in regional passenger traffic timetables, it must take place at midnight on the second Saturday in June and at such other intervals between these dates as are required. Infrastructure managers may agree on different dates and in this case they may[^key-2c3b2782ea8cd03b2c1e64acd3049de7] inform the Commission if international traffic may be affected.
+**2.** The change of working timetable must take place at midnight on the second Saturday in December. Where an adjustment is carried out after the winter, in particular to take account, where appropriate, of changes in regional passenger traffic timetables, it must take place at midnight on the second Saturday in June and at such other intervals between these dates as are required. Infrastructure managers may agree on different dates and in this case they may[^c-2c3b2782ea8cd03b2c1e64acd3049de7] inform the Commission if international traffic may be affected.
 
 **3.** The deadline for receipt of requests for capacity to be incorporated into the working timetable must be no more than twelve months in advance of the change of the working timetable. Requests received after the deadline must also be considered by the infrastructure manager.
 
@@ -82,6 +82,6 @@ Before making a choice between the alternatives of capacity restrictions, the in
 
 ## Annotations
 
-[^key-9e214aa4ca8c624a2f49288ef4b1abe2]: Textual amendment: Sch. 4 substituted (11.2.2019) by [The Railways (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations 2019 (S.I. 2019/82)](https://www.legislation.gov.uk/uksi/2019/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/82/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2019/82/schedule/1)
+[^c-9e214aa4ca8c624a2f49288ef4b1abe2]: Textual amendment: Sch. 4 substituted (11.2.2019) by [The Railways (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations 2019 (S.I. 2019/82)](https://www.legislation.gov.uk/uksi/2019/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/82/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2019/82/schedule/1)
 
-[^key-2c3b2782ea8cd03b2c1e64acd3049de7]: Textual amendment: Word in [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2016/645/schedule/4/paragraph/2) substituted (31.12.2020) by [The Railways (Access, Management and Licensing of Railway Undertakings) (Amendments etc.) (EU Exit) Regulations 2019 (S.I. 2019/518)](https://www.legislation.gov.uk/uksi/2019/518), [regs. 1(3)(b)](https://www.legislation.gov.uk/uksi/2019/518/regulation/1/3/b), [22](https://www.legislation.gov.uk/uksi/2019/518/regulation/22); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2c3b2782ea8cd03b2c1e64acd3049de7]: Textual amendment: Word in [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2016/645/schedule/4/paragraph/2) substituted (31.12.2020) by [The Railways (Access, Management and Licensing of Railway Undertakings) (Amendments etc.) (EU Exit) Regulations 2019 (S.I. 2019/518)](https://www.legislation.gov.uk/uksi/2019/518), [regs. 1(3)(b)](https://www.legislation.gov.uk/uksi/2019/518/regulation/1/3/b), [22](https://www.legislation.gov.uk/uksi/2019/518/regulation/22); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

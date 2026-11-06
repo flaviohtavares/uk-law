@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20.5. Counterclaim against a person other than the claimant[^key-5901d3f8919b858d7dbecf241e0051d7]
+## 20.5. Counterclaim against a person other than the claimant[^c-5901d3f8919b858d7dbecf241e0051d7]
 
 *Extent: E+W*
 
-(1) Subject to rule 20.7, a defendant[^key-016046f8bc3684481c42fa410de9b0e7] who wishes to counterclaim against a person other than the claimant must apply to the court for an order that that person be added as an additional party.
+(1) Subject to rule 20.7, a defendant[^c-016046f8bc3684481c42fa410de9b0e7] who wishes to counterclaim against a person other than the claimant must apply to the court for an order that that person be added as an additional party.
 
 (2) An application for an order under paragraph (1) may be made without notice unless the court directs otherwise.
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5901d3f8919b858d7dbecf241e0051d7]: Textual amendment: Pt. 20 substituted (6.4.2006) by [The Civil Procedure (Amendment No.4) Rules 2005 (S.I. 2005/3515)](https://www.legislation.gov.uk/uksi/2005/3515), [rule 1](https://www.legislation.gov.uk/uksi/2005/3515/rule/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3515/schedule/1)
+[^c-5901d3f8919b858d7dbecf241e0051d7]: Textual amendment: Pt. 20 substituted (6.4.2006) by [The Civil Procedure (Amendment No.4) Rules 2005 (S.I. 2005/3515)](https://www.legislation.gov.uk/uksi/2005/3515), [rule 1](https://www.legislation.gov.uk/uksi/2005/3515/rule/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3515/schedule/1)
 
-[^key-016046f8bc3684481c42fa410de9b0e7]: Textual amendment: Words in rule 20.5(1) substituted (6.4.2023) by [The Civil Procedure (Amendment) Rules 2023 (S.I. 2023/105)](https://www.legislation.gov.uk/uksi/2023/105), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/105/rule/1/1), [13(3)](https://www.legislation.gov.uk/uksi/2023/105/rule/13/3)
+[^c-016046f8bc3684481c42fa410de9b0e7]: Textual amendment: Words in rule 20.5(1) substituted (6.4.2023) by [The Civil Procedure (Amendment) Rules 2023 (S.I. 2023/105)](https://www.legislation.gov.uk/uksi/2023/105), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/105/rule/1/1), [13(3)](https://www.legislation.gov.uk/uksi/2023/105/rule/13/3)

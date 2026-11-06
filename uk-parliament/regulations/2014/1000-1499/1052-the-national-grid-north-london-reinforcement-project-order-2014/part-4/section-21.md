@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 21. Moorings[^key-f241c58253aac6123a07594afc6064f7]
+## 21. Moorings[^c-f241c58253aac6123a07594afc6064f7]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f241c58253aac6123a07594afc6064f7]: Commencement: Art. 21 in force at 7.5.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1052/article/1)
+[^c-f241c58253aac6123a07594afc6064f7]: Commencement: Art. 21 in force at 7.5.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1052/article/1)

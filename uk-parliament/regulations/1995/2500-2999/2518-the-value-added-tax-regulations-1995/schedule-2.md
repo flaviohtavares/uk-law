@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2 — REVOCATIONS[^key-edbe3468febf6b69de927d589ab1c5a6]
+## SCHEDULE 2 — REVOCATIONS[^c-edbe3468febf6b69de927d589ab1c5a6]
 
 *Extent: E+W+S+N.I.*
 
@@ -89,4 +89,4 @@ Regulation 3(1)
 
 ## Annotations
 
-[^key-edbe3468febf6b69de927d589ab1c5a6]: Commencement: Sch. 2 in force at 20.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2518/regulation/1)
+[^c-edbe3468febf6b69de927d589ab1c5a6]: Commencement: Sch. 2 in force at 20.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2518/regulation/1)

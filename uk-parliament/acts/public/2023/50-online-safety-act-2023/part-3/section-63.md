@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Content harmful to children: OFCOM’s review and report[^key-e553cf32b05ac7eabe1449f89289deae]
+## 63. Content harmful to children: OFCOM’s review and report[^c-e553cf32b05ac7eabe1449f89289deae]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e553cf32b05ac7eabe1449f89289deae]: Commencement: S. 63 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
+[^c-e553cf32b05ac7eabe1449f89289deae]: Commencement: S. 63 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)

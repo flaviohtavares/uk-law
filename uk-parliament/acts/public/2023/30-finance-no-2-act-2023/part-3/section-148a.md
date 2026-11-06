@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 148A. Transferable tax credits[^key-7b13fbf63f2f445d93df17aac512ca41]
+## 148A. Transferable tax credits[^c-7b13fbf63f2f445d93df17aac512ca41]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,8 +44,8 @@ summary: ''
 (5) The marketable condition is met—
 
 - (a) in relation to the originator, if—
-  - (i) the credit is transferred to a person or entity that is not connected with the originator in the period beginning with the day on which the credit was granted and ending 15 months after the end[^key-0234d2527cb6261721dae81e6aba8d55] of the accounting period in which the credit was granted at a price equal to or in excess of 80% of its net present value, or
-  - (ii) similar credits are traded between persons or entities that are not connected to each other in that period[^key-4b50101694fc322ad77bc7b758cea605], and are typically traded at a price equal to or in excess of 80% of their net present value, and
+  - (i) the credit is transferred to a person or entity that is not connected with the originator in the period beginning with the day on which the credit was granted and ending 15 months after the end[^c-0234d2527cb6261721dae81e6aba8d55] of the accounting period in which the credit was granted at a price equal to or in excess of 80% of its net present value, or
+  - (ii) similar credits are traded between persons or entities that are not connected to each other in that period[^c-4b50101694fc322ad77bc7b758cea605], and are typically traded at a price equal to or in excess of 80% of their net present value, and
 - (b) in relation to a purchaser, if the purchaser acquired the credit from a person or entity that is not connected to the purchaser at a price equal to or in excess of 80% of its net present value.
 
 (6) Subsections (7) and (8) apply for the purposes of determining the net present value of a tax credit.
@@ -70,8 +70,8 @@ summary: ''
 
 ## Annotations
 
-[^key-7b13fbf63f2f445d93df17aac512ca41]: Textual amendment: Ss. 148A-148C inserted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 8(3)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/8/3)
+[^c-7b13fbf63f2f445d93df17aac512ca41]: Textual amendment: Ss. 148A-148C inserted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 8(3)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/8/3)
 
-[^key-0234d2527cb6261721dae81e6aba8d55]: Textual amendment: Words in s. 148A(5)(a)(i) substituted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 54(a)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/54/a), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
+[^c-0234d2527cb6261721dae81e6aba8d55]: Textual amendment: Words in s. 148A(5)(a)(i) substituted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 54(a)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/54/a), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
 
-[^key-4b50101694fc322ad77bc7b758cea605]: Textual amendment: Words in s. 148A(5)(a)(ii) substituted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 54(b)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/54/b), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
+[^c-4b50101694fc322ad77bc7b758cea605]: Textual amendment: Words in s. 148A(5)(a)(ii) substituted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 54(b)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/54/b), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)

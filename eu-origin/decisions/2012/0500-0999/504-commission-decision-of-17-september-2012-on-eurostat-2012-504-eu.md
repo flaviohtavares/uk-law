@@ -35,62 +35,62 @@ on Eurostat
 
 (2012/504/EU) (revoked)
 
-[^key-582afac78db156ea6048cb07e9b7b605]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-582afac78db156ea6048cb07e9b7b605]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Subject matter[^key-582afac78db156ea6048cb07e9b7b605]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Definitions[^key-582afac78db156ea6048cb07e9b7b605]
+## Article 1. Subject matter[^c-582afac78db156ea6048cb07e9b7b605]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Eurostat[^key-582afac78db156ea6048cb07e9b7b605]
+## Article 2. Definitions[^c-582afac78db156ea6048cb07e9b7b605]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Statistical principles[^key-582afac78db156ea6048cb07e9b7b605]
+## Article 3. Eurostat[^c-582afac78db156ea6048cb07e9b7b605]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Planning and programming[^key-582afac78db156ea6048cb07e9b7b605]
+## Article 4. Statistical principles[^c-582afac78db156ea6048cb07e9b7b605]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Tasks of Eurostat[^key-582afac78db156ea6048cb07e9b7b605]
+## Article 5. Planning and programming[^c-582afac78db156ea6048cb07e9b7b605]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Director-General of Eurostat[^key-582afac78db156ea6048cb07e9b7b605]
+## Article 6. Tasks of Eurostat[^c-582afac78db156ea6048cb07e9b7b605]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Chief Statistician[^key-582afac78db156ea6048cb07e9b7b605]
+## Article 7. Director-General of Eurostat[^c-582afac78db156ea6048cb07e9b7b605]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Access to administrative records[^key-582afac78db156ea6048cb07e9b7b605]
+## Article 8. Chief Statistician[^c-582afac78db156ea6048cb07e9b7b605]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. European statistics Code of Practice[^key-582afac78db156ea6048cb07e9b7b605]
+## Article 9. Access to administrative records[^c-582afac78db156ea6048cb07e9b7b605]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 11. Quality assurance and labelling[^key-582afac78db156ea6048cb07e9b7b605]
+## Article 10. European statistics Code of Practice[^c-582afac78db156ea6048cb07e9b7b605]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 12. Use of confidential data[^key-582afac78db156ea6048cb07e9b7b605]
+## Article 11. Quality assurance and labelling[^c-582afac78db156ea6048cb07e9b7b605]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 13. Repeal[^key-582afac78db156ea6048cb07e9b7b605]
+## Article 12. Use of confidential data[^c-582afac78db156ea6048cb07e9b7b605]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-582afac78db156ea6048cb07e9b7b605]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 13. Repeal[^c-582afac78db156ea6048cb07e9b7b605]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-582afac78db156ea6048cb07e9b7b605]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-582afac78db156ea6048cb07e9b7b605]: Textual amendment: Decision revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 204](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/204); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-582afac78db156ea6048cb07e9b7b605]: Textual amendment: Decision revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 204](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/204); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Removal directions: owners[^key-b0a65f939a58f508bc71a1e033f56518][^key-6df00d4c377b2fb30aae48966d81fead][^key-b83df3fa6c1e185bd7b144e88d5bb873]
+## 39. Removal directions: owners[^c-b0a65f939a58f508bc71a1e033f56518][^c-6df00d4c377b2fb30aae48966d81fead][^c-b83df3fa6c1e185bd7b144e88d5bb873]
 
 *Extent: E+W*
 
@@ -66,8 +66,8 @@ unless the determination or deemed determination is then subject to an appeal un
 
 ## Annotations
 
-[^key-b0a65f939a58f508bc71a1e033f56518]: Commencement: S. 39 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-b0a65f939a58f508bc71a1e033f56518]: Commencement: S. 39 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-6df00d4c377b2fb30aae48966d81fead]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2025/21/section/39) in force at 12.12.2025 for specified purposes by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(a)(viii)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/a/viii)
+[^c-6df00d4c377b2fb30aae48966d81fead]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2025/21/section/39) in force at 12.12.2025 for specified purposes by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(a)(viii)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/a/viii)
 
-[^key-b83df3fa6c1e185bd7b144e88d5bb873]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2025/21/section/39) in force at 5.5.2026 in so far as not already in force by [S.I. 2026/477](https://www.legislation.gov.uk/uksi/2026/477), [reg. 2(1)(a)(ix)](https://www.legislation.gov.uk/uksi/2026/477/regulation/2/1/a/ix)
+[^c-b83df3fa6c1e185bd7b144e88d5bb873]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2025/21/section/39) in force at 5.5.2026 in so far as not already in force by [S.I. 2026/477](https://www.legislation.gov.uk/uksi/2026/477), [reg. 2(1)(a)(ix)](https://www.legislation.gov.uk/uksi/2026/477/regulation/2/1/a/ix)

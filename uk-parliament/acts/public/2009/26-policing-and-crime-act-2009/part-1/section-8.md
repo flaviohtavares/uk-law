@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Authorisations of covert human intelligence sources: conditions[^key-07a79c1e0710191c60b6f994ab95e870]
+## 8. Authorisations of covert human intelligence sources: conditions[^c-07a79c1e0710191c60b6f994ab95e870]
 
 *Extent: E+W+S+N.I.*
 
@@ -80,4 +80,4 @@ summary: ''
 
 ## Annotations
 
-[^key-07a79c1e0710191c60b6f994ab95e870]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2009/26/section/8) in force at 25.1.2010 by [S.I. 2009/3096](https://www.legislation.gov.uk/uksi/2009/3096), [art. 3(c)](https://www.legislation.gov.uk/uksi/2009/3096/article/3/c)
+[^c-07a79c1e0710191c60b6f994ab95e870]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2009/26/section/8) in force at 25.1.2010 by [S.I. 2009/3096](https://www.legislation.gov.uk/uksi/2009/3096), [art. 3(c)](https://www.legislation.gov.uk/uksi/2009/3096/article/3/c)

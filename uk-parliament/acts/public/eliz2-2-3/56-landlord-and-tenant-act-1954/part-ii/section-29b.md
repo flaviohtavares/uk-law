@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29B. Agreements extending time limits[^key-9f5451145869f8e6cf776168a7119c3d]
+## 29B. Agreements extending time limits[^c-9f5451145869f8e6cf776168a7119c3d]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9f5451145869f8e6cf776168a7119c3d]: Textual amendment: S. 29B inserted (1.6.2004) by [Regulatory Reform (Business Tenancies) (England and Wales) Order 2003 (S.I. 2003/3096)](https://www.legislation.gov.uk/uksi/2003/3096), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2003/3096/article/1/3), [10](https://www.legislation.gov.uk/uksi/2003/3096/article/10)
+[^c-9f5451145869f8e6cf776168a7119c3d]: Textual amendment: S. 29B inserted (1.6.2004) by [Regulatory Reform (Business Tenancies) (England and Wales) Order 2003 (S.I. 2003/3096)](https://www.legislation.gov.uk/uksi/2003/3096), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2003/3096/article/1/3), [10](https://www.legislation.gov.uk/uksi/2003/3096/article/10)

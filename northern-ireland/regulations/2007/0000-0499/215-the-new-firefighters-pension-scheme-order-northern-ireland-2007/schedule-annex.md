@@ -22,28 +22,28 @@ summary: ''
 
 ### PART 1 — CITATION AND INTERPRETATION
 
-#### 1. Citation[^key-cabe7337e421fbcb227ed73bd6051ce5]
+#### 1. Citation[^c-cabe7337e421fbcb227ed73bd6051ce5]
 
 This Scheme may be cited as the New Firefighters’ Pension Scheme (Northern Ireland).
 
-#### 2. Interpretation[^key-50f9907f5ec8b3712dadb385e2303af5]
+#### 2. Interpretation[^c-50f9907f5ec8b3712dadb385e2303af5]
 
 (1) In this Scheme—
 
 - “the 2007 Scheme” means the Firefighters’ Pension Scheme 2007[^f00006];
 - “the 1993 Act” means the Pension Schemes (Northern Ireland) Act 1993[^f00007];
 - “the 1999 Act” means the Welfare Reform and Pensions Act 1999[^f00008];
-- “the 2004 Act” means the Finance Act 2004;[^key-8bd665c1e69cedc6e1a638d2e9a14e8c]
+- “the 2004 Act” means the Finance Act 2004;[^c-8bd665c1e69cedc6e1a638d2e9a14e8c]
 - “actuary” means a fellow of the Institute and Faculty of Actuaries;
 - “the 1999 Order” means the Welfare Reform and Pensions Order (Northern Ireland) 1999[^f00009];
-- “the 2014 Act” means the Public Service Pensions Act (Northern Ireland) 2014;[^key-72ba52f108d26f4531d8bcc2f4d23360]
-- “the 2015 Regulations” means the Firefighters’ Pension Scheme Regulations (Northern Ireland) 2015 which established the Firefighters’ Pension Scheme (Northern Ireland) 2015;[^key-ac6b9cd9b3f2caab69e5fd74bf67f7dc]
+- “the 2014 Act” means the Public Service Pensions Act (Northern Ireland) 2014;[^c-72ba52f108d26f4531d8bcc2f4d23360]
+- “the 2015 Regulations” means the Firefighters’ Pension Scheme Regulations (Northern Ireland) 2015 which established the Firefighters’ Pension Scheme (Northern Ireland) 2015;[^c-ac6b9cd9b3f2caab69e5fd74bf67f7dc]
 - “the 2015 Regulations” means The Firefighters’ Pension Scheme Regulations (Northern Ireland) 2015;
-- “[^key-f03fbba58dd726ebde5dc810010fd898]**the 2015 Scheme**” means the Firefighters’ Pension Scheme (Northern Ireland) 2015 which was established by the Firefighters’ Pension Scheme Regulations (Northern Ireland) 2015;
+- “[^c-f03fbba58dd726ebde5dc810010fd898]**the 2015 Scheme**” means the Firefighters’ Pension Scheme (Northern Ireland) 2015 which was established by the Firefighters’ Pension Scheme Regulations (Northern Ireland) 2015;
 - “the 2015 Scheme” means The Firefighters’ Pension Scheme (Northern Ireland) 2015 which is established in the Firefighters’ Pension Scheme Regulations (Northern Ireland) 2015;
 - “adoption leave” means leave under Article 107A of the Employment Rights (Northern Ireland) Order 1996[^f00010]; and “ordinary adoption leave” and “additional adoption leave” shall be construed accordingly;
 - “amount”, in relation to a pension, means the annual amount of the pension;
-- “the[^key-c8f398e7415a03eb11a7b00dad28922b] Automatic Enrolment Regulations” mean the Occupational and Personal Pension Schemes (Automatic Enrolment) Regulations (Northern Ireland) 2010;
+- “the[^c-c8f398e7415a03eb11a7b00dad28922b] Automatic Enrolment Regulations” mean the Occupational and Personal Pension Schemes (Automatic Enrolment) Regulations (Northern Ireland) 2010;
 - “automatic enrolment date” has the meaning given by section 3(7) (automatic enrolment) of the Pensions (No. 2) Act (Northern Ireland) 2008;
 - “automatic re-enrolment date” means the date determined in accordance with regulation 12 of the Automatic Enrolment Regulations;
 - “automatically enrolled” means becoming a firefighter member of the Scheme on the automatic enrolment date;
@@ -51,17 +51,17 @@ This Scheme may be cited as the New Firefighters’ Pension Scheme (Northern Ire
 - “award” means a pension or lump sum under this Scheme, or the refund of pension contributions;
 - “Board-initiated early retirement” means retirement before normal retirement age under article 16;
 - “cash equivalent” and “part-cash equivalent” have the respective meanings given by sections 90 and 94(1) of the 1993 Act;
-- “child”, in relation to a firefighter member, a deferred member[^key-bebaed19da0aa68cbbdfab3b10cb1a2a] a pensioner member or a special member[^key-f3f4a6dca06be6ec6371a39738fe0bf2] , means—
+- “child”, in relation to a firefighter member, a deferred member[^c-bebaed19da0aa68cbbdfab3b10cb1a2a] a pensioner member or a special member[^c-f3f4a6dca06be6ec6371a39738fe0bf2] , means—
   - (a) a child who is financially dependent on him, and is—
     - (i) a natural child, step-child or adopted child of his; or
     - (ii) otherwise related to him; or
-    - (iii) the child of his spouse, civil partner or cohabiting partner[^key-739ac517467c941af7ca9aa309e0a57c]; and
+    - (iii) the child of his spouse, civil partner or cohabiting partner[^c-739ac517467c941af7ca9aa309e0a57c]; and
   - (b) any child of his—
     - (i) who is born after his death; and
     - (ii) with whom the child’s mother was pregnant at the date of the member’s death;
-- “child’s pension” means a pension under article 28 (child’s pension) of Part 4 (survivors’ pensions);[^key-ae242d2ad5564ac2f77075eb708b1f05]
-- “[^key-f4a8101f137caaa6f8b7fc9b969d5de4]**cohabiting partner**” has the meaning given by article 4(11) of Part 2;
-- “Compensation Scheme” means the Firefighters’ Compensation Scheme (Northern Ireland) as set out in Schedule 1[^key-619ecf962cb2178e17215eb804068e98] to the Firefighters’ Compensation Order (Northern Ireland)[^f00011]
+- “child’s pension” means a pension under article 28 (child’s pension) of Part 4 (survivors’ pensions);[^c-ae242d2ad5564ac2f77075eb708b1f05]
+- “[^c-f4a8101f137caaa6f8b7fc9b969d5de4]**cohabiting partner**” has the meaning given by article 4(11) of Part 2;
+- “Compensation Scheme” means the Firefighters’ Compensation Scheme (Northern Ireland) as set out in Schedule 1[^c-619ecf962cb2178e17215eb804068e98] to the Firefighters’ Compensation Order (Northern Ireland)[^f00011]
 - “connected member” has the meaning given in article 4C of Part 2;
 - “connected special member” has the meaning given in article 4D of Part 2;
 - “continued pension” has the meaning given in article 11B of Part 3;
@@ -73,21 +73,21 @@ This Scheme may be cited as the New Firefighters’ Pension Scheme (Northern Ire
 - “disabled” and “disablement” have the meanings given by article 3;
 - “eligibility condition” means any of the conditions set out in article 5(1);
 - “equivalent amount to the NFPS lower tier ill-health pension” has the meaning given in regulation 73(5) of the 2015 Regulations;
-- “[^key-398ee9fa042d8d5b914240b2de90ebb1]**extended limited period**” means, the period beginning on the date on which the person was first employed as a retained firefighter and ending on the earliest of—
-  - (a) the date, if applicable, on which that person joined (or, in the case of a retained firefighter opt-out member, rejoined)[^key-19b68e35e8c01a508b9073538ff231dd] this Scheme as a special member or as a standard member in respect of service which that person could otherwise reckon as special pensionable service;
+- “[^c-398ee9fa042d8d5b914240b2de90ebb1]**extended limited period**” means, the period beginning on the date on which the person was first employed as a retained firefighter and ending on the earliest of—
+  - (a) the date, if applicable, on which that person joined (or, in the case of a retained firefighter opt-out member, rejoined)[^c-19b68e35e8c01a508b9073538ff231dd] this Scheme as a special member or as a standard member in respect of service which that person could otherwise reckon as special pensionable service;
   - (b) the date, if applicable, on which that person ceased to be employed as a retained or a regular firefighter; and
   - (c) 31st March 2015;
 - “final pensionable pay” shall be construed in accordance with article 62;
 - “final salary link” means the final salary link which applies when the requirements of paragraph 1 or paragraph 2 of Schedule 7 to the 2014 Act are met;
 - “firefighter member” has the meaning given by article 4(1);
-- “Firefighters’ Pension Scheme” means the Scheme set out in the Annex to the Firefighters’ Pension Scheme Order (Northern Ireland) 2007[^key-ee0fb5ae0b36027227d951b4d3175790]
-- “full protection member of this Scheme” means a person who is a full protection member of this Scheme by virtue of paragraph 9 of Schedule 2 to the 2015 Regulations;[^key-95b9ec07cb62a7a80980e623251b5051]
+- “Firefighters’ Pension Scheme” means the Scheme set out in the Annex to the Firefighters’ Pension Scheme Order (Northern Ireland) 2007[^c-ee0fb5ae0b36027227d951b4d3175790]
+- “full protection member of this Scheme” means a person who is a full protection member of this Scheme by virtue of paragraph 9 of Schedule 2 to the 2015 Regulations;[^c-95b9ec07cb62a7a80980e623251b5051]
 - “guaranteed minimum” is the amount determined for the purposes of sections 9 to 13 of the 1993 Act, and “guaranteed minimum pension” has the same meaning as in that Act; any reference to the guaranteed minimum in relation to a pension under a pension scheme at a particular time is a reference to the amount certified as that minimum at that time;
 - “higher tier ill–health pension” has the meaning given by article 12(3);
 - “ill-health retirement” means retirement under article 12;
-- “independent qualified medical practitioner” means a medical practitioner holding a diploma in occupational medicine or an equivalent or higher qualification issued by a competent authority in an EEA State, or being an Associate, a Member or a Fellow of the Faculty of Occupational Medicine[^f00012] or an equivalent institution of an EEA State; and for the purposes of this definition “a competent authority” has the meaning given by section 55(1) of the Medical Act 1983[^key-27e1ac4ed43c23ce6aee5e21929288bb] [^f00013];
+- “independent qualified medical practitioner” means a medical practitioner holding a diploma in occupational medicine or an equivalent or higher qualification issued by a competent authority in an EEA State, or being an Associate, a Member or a Fellow of the Faculty of Occupational Medicine[^f00012] or an equivalent institution of an EEA State; and for the purposes of this definition “a competent authority” has the meaning given by section 55(1) of the Medical Act 1983[^c-27e1ac4ed43c23ce6aee5e21929288bb] [^f00013];
 - “injury” means any injury or disease, whether of body or mind;
-- “limited period” means the period beginning on 1st July 2000 or if later, the date falling before 6th April 2006, on which the person was first employed as a retained firefighter and ending on—[^key-34b0adc57fc344d765892c7fba7f8fad]
+- “limited period” means the period beginning on 1st July 2000 or if later, the date falling before 6th April 2006, on which the person was first employed as a retained firefighter and ending on—[^c-34b0adc57fc344d765892c7fba7f8fad]
   - (a) the earlier of—
     - (i) the date on which that person joined this Scheme as a special member or as a standard member in respect of service which he could otherwise reckon as special pensionable service, and
     - (ii) the date, if applicable, on which he ceased to be employed as a retained or regular firefighter;
@@ -96,22 +96,22 @@ This Scheme may be cited as the New Firefighters’ Pension Scheme (Northern Ire
     - (ii) becomes a full protection member of this Scheme, the date on which that person joins this Scheme as a special member,
     - (iii) becomes a tapered protection member of this Scheme, the earlier of the date the person joins this Scheme as a special member, and the member’s tapered protection closing date, within the meaning given in paragraph 3 of Schedule 2 to the 2015 Regulations;
 - “lower tier ill-health pension” has the meaning given by article 12(2);
-- “lump sum contribution” means the lump sum payable under paragraphs (1) to (13) of article 66A of Part 11;[^key-c8f8bb8a6164db53186eba922abaad72]
-- “mandatory special period” means—[^key-09d6a2ead447c94a0b74ef9b842de6bb]
+- “lump sum contribution” means the lump sum payable under paragraphs (1) to (13) of article 66A of Part 11;[^c-c8f8bb8a6164db53186eba922abaad72]
+- “mandatory special period” means—[^c-09d6a2ead447c94a0b74ef9b842de6bb]
   - (a) in relation to service purchased following an application made under article 65A of Part 11 (purchase of service during the limited period), that part of a person’s service during the limited period beginning on the date selected by that person before 6th April 2006 and ending on the earlier of—
     - (i) the date on which the person joined this Scheme as a special member or as a standard member in respect of service which the person could otherwise reckon as special pensionable service, and
     - (ii) the date, if applicable, on which the person was dismissed or retired from employment as a regular or retained firefighter;
-  - (b) in relation to service purchased following an application under article 65B of Part 11 (purchase of service during the extended limited period), that part of a person’s service during the extended limited period beginning on the date selected by that person before 6th April 2006 and ending on the last day of the extended limited period ;[^key-e571734e414f6991873adac98bb1a4cc]
-  - (c) in relation to service purchased following an application under article 106 (Retained firefighter opt-out member) of Part 15, that part of a retained firefighter opt-out member’s service during the extended limited period in which he had opted-out of membership of this Scheme, or had ceased to pay periodic contributions such that article 66B(5)(c) (election to purchase service during the limited period or the extended limited period: supplemental provision) of Part 11 applied;[^key-121b9faf68a349be9da0ebb4298c7f9a]
+  - (b) in relation to service purchased following an application under article 65B of Part 11 (purchase of service during the extended limited period), that part of a person’s service during the extended limited period beginning on the date selected by that person before 6th April 2006 and ending on the last day of the extended limited period ;[^c-e571734e414f6991873adac98bb1a4cc]
+  - (c) in relation to service purchased following an application under article 106 (Retained firefighter opt-out member) of Part 15, that part of a retained firefighter opt-out member’s service during the extended limited period in which he had opted-out of membership of this Scheme, or had ceased to pay periodic contributions such that article 66B(5)(c) (election to purchase service during the limited period or the extended limited period: supplemental provision) of Part 11 applied;[^c-121b9faf68a349be9da0ebb4298c7f9a]
 - “mandatory special period pension contributions” means the special pension contribution payable in respect of a special member’s service during the mandatory special period under article 66A of Part 11 together with any interest payable in respect of that contribution in accordance with article 66A(13);
 - “maternity leave” means leave under Article 103 of the Employment Rights (Northern Ireland) Order 1996; and “ordinary maternity leave” and “additional maternity leave” shall be construed accordingly;
 - “member-initiated early retirement” means retirement before normal retirement age under article 15;
-- [^key-1415e95cef3d76c2a21a7b84a06275af]...
-- “normal benefit age” has the meaning given by article 6(2)[^key-44730ebfc57529bbb6ff607bf7a7548d] ;
-- “normal retirement age” has the meaning given by article 6(1)[^key-55e80d50cc3b994a3a6845f15afc76f2] ;
-- “opt in” means becoming a firefighter member of the Scheme pursuant to the right in section 7(3) of the Pensions (No. 2) Act (Northern Ireland) 2008 and in accordance with the arrangements prescribed by the Automatic Enrolment Regulations, and similar expressions are to be construed accordingly or, in the case of a special firefighter member means making an election under article 66A of Part 11 to pay the mandatory special period pension contributions;[^key-5ef07a299aecccf9a7ba7d5e8b3ce56b]
-- “ordinary pension”, in relation to a standard member, means a pension referred to in article 11 of Part 3 (personal awards);[^key-03cc545dfcee261f3112c49072ca38de]
-- “parental bereavement leave” means leave under Article 112EA of the Employment Rights (Northern Ireland) Order 1996;[^key-fde379a367db175f67bfa87e393f6f43]
+- [^c-1415e95cef3d76c2a21a7b84a06275af]...
+- “normal benefit age” has the meaning given by article 6(2)[^c-44730ebfc57529bbb6ff607bf7a7548d] ;
+- “normal retirement age” has the meaning given by article 6(1)[^c-55e80d50cc3b994a3a6845f15afc76f2] ;
+- “opt in” means becoming a firefighter member of the Scheme pursuant to the right in section 7(3) of the Pensions (No. 2) Act (Northern Ireland) 2008 and in accordance with the arrangements prescribed by the Automatic Enrolment Regulations, and similar expressions are to be construed accordingly or, in the case of a special firefighter member means making an election under article 66A of Part 11 to pay the mandatory special period pension contributions;[^c-5ef07a299aecccf9a7ba7d5e8b3ce56b]
+- “ordinary pension”, in relation to a standard member, means a pension referred to in article 11 of Part 3 (personal awards);[^c-03cc545dfcee261f3112c49072ca38de]
+- “parental bereavement leave” means leave under Article 112EA of the Employment Rights (Northern Ireland) Order 1996;[^c-fde379a367db175f67bfa87e393f6f43]
 - “paternity leave” means leave under regulation 4 or 8 of the Paternity and Adoption Leave (Northern Ireland) Regulations 2002[^f00014];
 - “pension”, unless a contrary intention appears, means a pension under this Scheme;
 - “pensionable pay” shall be construed in accordance with article 61;
@@ -123,38 +123,38 @@ This Scheme may be cited as the New Firefighters’ Pension Scheme (Northern Ire
 - “pension credit rights” has the meaning given by section 97B of the 1999 Act;
 - “pension debit” means a debit under Article 26(1)(a) of the 1999 Order or section 29(1)(a) of the 1999 Act;
 - “pension debit member” means a person whose benefits or future benefits under this Scheme have been reduced under Article 28 of the 1999 Order or section 31 of the 1999 Act;
-- “pensioner”, except in the definition of “pensioner member” or “special pensioner member[^key-f0ab4d048423c3bc1b59359cc42f803f], means a person who is in receipt of a pension;
+- “pensioner”, except in the definition of “pensioner member” or “special pensioner member[^c-f0ab4d048423c3bc1b59359cc42f803f], means a person who is in receipt of a pension;
 - “pensioner member” has the meaning given by article 4(4);
 - “pension sharing order” means an order or provision mentioned in Article 25(1) of the 1999 Order or section 28(1) of the 1999 Act;
 - “personal pension scheme” has the meaning given by section 1 of the 1993 Act;
-- “provisionally enrolled member” has the meaning given in article 4(10) of Part 2;[^key-655e5600e69e608e5cc1b2ed4e2c0d0a]
+- “provisionally enrolled member” has the meaning given in article 4(10) of Part 2;[^c-655e5600e69e608e5cc1b2ed4e2c0d0a]
 - “qualifying service” has the meaning given by article 55;
 - “reference pay”, in relation to the pay of a retained or volunteer firefighter over any period or 12 consecutive months, means the whole-time equivalent pensionable pay over that period of a regular firefighter employed in a similar role and with equivalent qualifying service;
 - “regular employment” means employment for at least 30 hours a week on average over a period of not less than 12 consecutive months beginning with the date on which the issue of the person’s capacity for employment arises;
 - “regular firefighter” means a person employed (whether whole-time or part-time) by the Board—
-  - (a) [^key-db38fc699c9b9bd4f79dde39623bc506]as a firefighter, but not as a retained or volunteer firefighter,
-  - (b) [^key-db38fc699c9b9bd4f79dde39623bc506]on terms under which he is, or may be, required to engage in fire-fighting or, without a break in continuity of such employment, may be required to perform other duties appropriate to his role as a firefighter (whether instead of, or in addition to, engaging in fire-fighting); and
-  - (c) [^key-db38fc699c9b9bd4f79dde39623bc506]otherwise than in a temporary capacity;
-- “retained firefighter” means a person employed by the Board—[^key-a4ec009b884853f65ce01eb82c0d66b9]
+  - (a) [^c-db38fc699c9b9bd4f79dde39623bc506]as a firefighter, but not as a retained or volunteer firefighter,
+  - (b) [^c-db38fc699c9b9bd4f79dde39623bc506]on terms under which he is, or may be, required to engage in fire-fighting or, without a break in continuity of such employment, may be required to perform other duties appropriate to his role as a firefighter (whether instead of, or in addition to, engaging in fire-fighting); and
+  - (c) [^c-db38fc699c9b9bd4f79dde39623bc506]otherwise than in a temporary capacity;
+- “retained firefighter” means a person employed by the Board—[^c-a4ec009b884853f65ce01eb82c0d66b9]
   - (a) as a retained firefighter, but not as a regular firefighter or as a volunteer firefighter;
   - (b) on terms under which he is, or may be, required to engage in firefighting or, without a break in continuity of such employment, may be required to perform other duties appropriate to his role as a firefighter (whether instead of, or in addition to, engaging in firefighting);
   - (c) otherwise than in a temporary capacity; and
   - (d) who is obliged to attend at such times as the officer in charge considers necessary, and in accordance with the orders that he receives;
-- “[^key-09c6993318dc603aca47f7a1ee12f6b6]**retained firefighter opt-out member**” means a retained firefighter who joined this Scheme on or after 6th April 2006 and either—
+- “[^c-09c6993318dc603aca47f7a1ee12f6b6]**retained firefighter opt-out member**” means a retained firefighter who joined this Scheme on or after 6th April 2006 and either—
   - (a) became a special member of this Scheme during any part of the extended limited period and elected not to make pension contributions under article 8(1) (election not to make pension contributions) of Part 2 on or before 31st March 2015; or
   - (b) elected to purchase service during the limited period but then ceased to pay periodic contributions such that article 66B(5)(c) (election to purchase service during the limited period or the extended limited period: supplemental provision) of Part 11 applied;
 - “role”, in relation to a firefighter, except in article 4(1), means the role in which he is for the time being employed, being a role set out in “Fire and Rescue Services Rolemaps” issued by the National Joint Council for Local Authority Fire and Rescue Services in August 2005[^f00017];
-- “Scheme Actuary” means the actuary appointed by the Department under regulation 158 (appointment of scheme actuary and actuarial valuations) of the 2015 Regulations;[^key-45f50d5db9f168927bd0a67a871073d4][^key-bd21db869d811dd9203192d2fd0f1baa]
+- “Scheme Actuary” means the actuary appointed by the Department under regulation 158 (appointment of scheme actuary and actuarial valuations) of the 2015 Regulations;[^c-45f50d5db9f168927bd0a67a871073d4][^c-bd21db869d811dd9203192d2fd0f1baa]
 - “scheme chargeable payment” has the meaning given in section 241 of the 2004 Act;
 - “scheme closing date” means 31st March 2015;
 - “scheme employment” in relation to the 2015 Scheme has the meaning given in regulation 15 of the 2015 Regulations;
-- “second initial date” means 31st October 2023;[^key-1df15be6ee1178bee6d21eb95a25b36e]
+- “second initial date” means 31st October 2023;[^c-1df15be6ee1178bee6d21eb95a25b36e]
 - “special deferred member” has the meaning given in article 4A(3) and (6) to (9) of Part 2;
-- “special employment period” means the period beginning on 7th April 2000 and ending on 5th April 2006;[^key-5b85a14b42b5879fecb3ae98d7a4e292]
-- “special eligibility conditions” means the conditions specified[^key-3596ff66204e1daca922a9bcfdcb0446] in article 5A of Part 2;
-- “special firefighter member” has the meaning given in article 4A(1) to (5)[^key-8bc79dcf2c91fe62fdec7e35bba3d698] of Part 2;
-- “special membership” means membership of this Scheme as a special firefighter member, connected special member,[^key-65b325bd1d022d0507bb5a08168f29d5] special deferred member or special pensioner member as the case may be;
-- “special member” means—[^key-ab8032e6df55487ad1f25d12afb66dbf]
+- “special employment period” means the period beginning on 7th April 2000 and ending on 5th April 2006;[^c-5b85a14b42b5879fecb3ae98d7a4e292]
+- “special eligibility conditions” means the conditions specified[^c-3596ff66204e1daca922a9bcfdcb0446] in article 5A of Part 2;
+- “special firefighter member” has the meaning given in article 4A(1) to (5)[^c-8bc79dcf2c91fe62fdec7e35bba3d698] of Part 2;
+- “special membership” means membership of this Scheme as a special firefighter member, connected special member,[^c-65b325bd1d022d0507bb5a08168f29d5] special deferred member or special pensioner member as the case may be;
+- “special member” means—[^c-ab8032e6df55487ad1f25d12afb66dbf]
   - (a) a special firefighter member,
   - (b) a special deferred member,
   - (c) a special pensioner member,
@@ -167,8 +167,8 @@ This Scheme may be cited as the New Firefighters’ Pension Scheme (Northern Ire
 - “standard member” means a member of this Scheme other than a special member;
 - “standard membership” means membership of this Scheme as a standard member;
 - “state pensionable age” means pensionable age as determined in accordance with the articles in paragraph 1 of Schedule 2 to the Pensions (Northern Ireland) Order 1995[^f00018]
-- “survivor’s pension” means a pension under article 23; [^key-e687c86ebdeef20f72bef10e134dc13a]...
-- “tapered protection member of this Scheme” means a person who is a tapered protection member of this Scheme by virtue of paragraph 15 of Schedule 2 to the 2015 Regulations;[^key-0ffd4f9e3e92f9292e45edfdbb17b5c7]
+- “survivor’s pension” means a pension under article 23; [^c-e687c86ebdeef20f72bef10e134dc13a]...
+- “tapered protection member of this Scheme” means a person who is a tapered protection member of this Scheme by virtue of paragraph 15 of Schedule 2 to the 2015 Regulations;[^c-0ffd4f9e3e92f9292e45edfdbb17b5c7]
 - “tapered protection closing date” has the meaning given in paragraph 3 of Schedule 2 to the 2015 Regulations;
 - “transfer value payment” means a payment to another pension scheme or arrangement in respect of rights to benefits that have accrued to, or in respect of, a member under this Scheme.
 - “transition date” means—
@@ -176,7 +176,7 @@ This Scheme may be cited as the New Firefighters’ Pension Scheme (Northern Ire
   - (b) if the firefighter member or special firefighter member is not a full protection member of this Scheme or a tapered protection member of this Scheme, the date after the scheme closing date; or
   - (c) the date on which the member ceased to be a full protection member of this Scheme;
 - “transition member” has the meaning given in paragraph 1 of Schedule 2 to the 2015 Regulations;
-- “volunteer firefighter” means a person employed by the Board—[^key-b765e301e99610b669ebd956e090a0f7]
+- “volunteer firefighter” means a person employed by the Board—[^c-b765e301e99610b669ebd956e090a0f7]
   - (a) as a volunteer firefighter but not as a regular firefighter or as a retained firefighter;
   - (b) on terms under which he is, or may be required to, engage in firefighting (whether instead of, or in addition to, engaging in firefighting);
   - (c) otherwise than in a temporary capacity; and
@@ -184,13 +184,13 @@ This Scheme may be cited as the New Firefighters’ Pension Scheme (Northern Ire
 
 (2) Where this Scheme requires anything to be done within a specified period after or from a specified day or event, the period begins immediately after the specified day or, as the case may be, the day on which the specified event occurs.
 
-(3)[^key-1c54182c57544b81239425e4ae58b9d7] References in this Scheme to a firefighter member, a deferred member or a pensioner member include references to a special firefighter member, a special deferred member or a special pensioner member, respectively, unless the contrary intention is shown.
+(3)[^c-1c54182c57544b81239425e4ae58b9d7] References in this Scheme to a firefighter member, a deferred member or a pensioner member include references to a special firefighter member, a special deferred member or a special pensioner member, respectively, unless the contrary intention is shown.
 
-#### 2A. Civil Partnership and Marriage of Same Sex Couples[^key-5172850fb04dc103074182a9d759e0c7]
+#### 2A. Civil Partnership and Marriage of Same Sex Couples[^c-5172850fb04dc103074182a9d759e0c7]
 
 The application of the Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 in relation to these Regulations is modified so that regulations 6(1) and (2) and 7(1) to (3) have effect.
 
-#### 3. Disablement[^key-ac22ef835be54f3c636e43e26701ef19]
+#### 3. Disablement[^c-ac22ef835be54f3c636e43e26701ef19]
 
 (1) References in this Scheme to a person’s being permanently disabled are references to his being disabled at the time when the question arises for decision and to his disablement being at that time likely to be permanent.
 
@@ -213,7 +213,7 @@ the date shall be taken to be that on which the claim that he is disabled is fir
 
 ### PART 2 — SCHEME MEMBERSHIP, CESSATION AND RETIREMENT
 
-#### 4. Scheme membership[^key-5baa4ed117ccc77984b549f745accd96]
+#### 4. Scheme membership[^c-5baa4ed117ccc77984b549f745accd96]
 
 (1) Subject to paragraph (2), a person of any of the following descriptions is a firefighter member of this Scheme—
 
@@ -221,17 +221,17 @@ the date shall be taken to be that on which the claim that he is disabled is fir
   - (i) resolving operational incidents; or
   - (ii) leading and supporting others in the resolution of operational incidents; or
 - (b) a person who—
-  - (i) having taken up employment as a firefighter before 6th April 2006 and[^key-0f5351c027dcbd1d7bf2455e220a7dc1] ;
-  - (ii) having continued in such employment until the date of his election; [^key-3094fca2369706d4d4287f93a479b292]...
-  - (iii)[^key-76eef46a99c0fd0d7feeda8cf1ecf520] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i) having taken up employment as a firefighter before 6th April 2006 and[^c-0f5351c027dcbd1d7bf2455e220a7dc1] ;
+  - (ii) having continued in such employment until the date of his election; [^c-3094fca2369706d4d4287f93a479b292]...
+  - (iii)[^c-76eef46a99c0fd0d7feeda8cf1ecf520] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 elects to become a member of this Scheme; and
 
 - (c) a person to whom article 4(3) of the Firefighters’ Pension Scheme (Northern Ireland) Order 2007 refers (persons taking up employment on or after 6th April 2006 and before that Order comes into operation).
 
-(2) A person may not be a firefighter member of this Scheme if he makes a contributions election (but he may again become a firefighter member by virtue of article 9[^key-0536a689ccf7a9f64c337486b306badb] .
+(2) A person may not be a firefighter member of this Scheme if he makes a contributions election (but he may again become a firefighter member by virtue of article 9[^c-0536a689ccf7a9f64c337486b306badb] .
 
-(2A)[^key-f425d11e15f09b655399e4cd31ef7e0c] Where a person who—
+(2A)[^c-f425d11e15f09b655399e4cd31ef7e0c] Where a person who—
 
 - (a) having taken up employment as a firefighter before 6th April 2006;
 - (b) having continued in such employment until his automatic enrolment date;
@@ -242,30 +242,30 @@ is automatically enrolled in this Scheme, that enrolment shall constitute an ele
 
 (3) A person is a deferred member of this Scheme if he is entitled to a deferred pension under article 13.
 
-(4) A person is a pensioner member of the Scheme if he is in receipt of a pension or any other benefits under the Scheme in respect of his pensionable service or special pensionable service[^key-b6eeb4f72f240c370247da4b9f3cc359] or by any reason of service credited to the Scheme under Part 12.
+(4) A person is a pensioner member of the Scheme if he is in receipt of a pension or any other benefits under the Scheme in respect of his pensionable service or special pensionable service[^c-b6eeb4f72f240c370247da4b9f3cc359] or by any reason of service credited to the Scheme under Part 12.
 
 (5) A person is a dependant member of this Scheme if he is—
 
-- (a) the spouse or civil partner of a deceased firefighter member , deferred member or pensioner member[^key-3f263a38e52e1bac351ac8bc65eccc29] ;
-- (b) the cohabiting partner[^key-726c73cf6b6692a46f1b0e70e55b2621] of a deceased firefighter member, deferred member or pensioner member;
+- (a) the spouse or civil partner of a deceased firefighter member , deferred member or pensioner member[^c-3f263a38e52e1bac351ac8bc65eccc29] ;
+- (b) the cohabiting partner[^c-726c73cf6b6692a46f1b0e70e55b2621] of a deceased firefighter member, deferred member or pensioner member;
 - (c) a pension credit member in relation to a firefighter member, deferred member or pensioner member;
 - (d) the child of a person who is a member of the Scheme by virtue of sub-paragraph (a) or (b), whose dependency on that person satisfies the conditions specified in paragraph 15(2) and (3) of Schedule 28 to the Finance Act 2004; or
 - (e) is in receipt of a portion of the firefighter’s pension allocated under article 21.
 
-(6)[^key-5a532986647b4b69e0016fadb2e4726d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-5a532986647b4b69e0016fadb2e4726d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-5a532986647b4b69e0016fadb2e4726d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-5a532986647b4b69e0016fadb2e4726d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-5a532986647b4b69e0016fadb2e4726d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-5a532986647b4b69e0016fadb2e4726d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-5a532986647b4b69e0016fadb2e4726d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-5a532986647b4b69e0016fadb2e4726d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10)[^key-ea7bafe69ad16cfcf2c2d8ab82cf8d4f] A person is a provisionally enrolled member of this Scheme if he—
+(10)[^c-ea7bafe69ad16cfcf2c2d8ab82cf8d4f] A person is a provisionally enrolled member of this Scheme if he—
 
 - (a) satisfies the conditions in article 66C(2) of Part 11; and
 - (b) is not eligible to become a provisionally enrolled member pursuant to article 66C(3) of Part 11.
 
-(11)[^key-c865dca421168abfecea380e72b20035] For the purposes of the article—
+(11)[^c-c865dca421168abfecea380e72b20035] For the purposes of the article—
 
 - a “**cohabiting partner**” in relation to the scheme member is a person—
   - (a) who has been living with the scheme member, otherwise than as the scheme member’s spouse or civil partner,
@@ -275,7 +275,7 @@ is automatically enrolled in this Scheme, that enrolment shall constitute an ele
 - “**long-term relationship**” means a relationship that has continued, to the exclusion of any other relationship, for a period of at least two years ending with the date on which the question of the person’s status in relation to the scheme member falls to be considered, or such shorter period as the Board may in any particular case think fit; and
 - “**scheme member**” means a firefighter member, a deferred member or a pensioner member.
 
-#### 4A. Special membership[^key-e0601d13048776823dbbdc3c8506049c]
+#### 4A. Special membership[^c-e0601d13048776823dbbdc3c8506049c]
 
 (1) Subject to paragraphs (2) to (5) and (15), a firefighter member of any of the following descriptions is also a special firefighter member of this Scheme—
 
@@ -302,7 +302,7 @@ is automatically enrolled in this Scheme, that enrolment shall constitute an ele
 (7) The conditions are that he—
 
 - (a) took up employment as a retained firefighter before 6th April 2006;
-- (b) was employed as a retained firefighter on or after 7th April 2000[^key-fa341696525260612809617972552286];
+- (b) was employed as a retained firefighter on or after 7th April 2000[^c-fa341696525260612809617972552286];
 - (c) resigned or was dismissed from that employment before the date that his election under article 66A of Part 11 to pay the mandatory special period pension contributions took effect;
 - (d) was younger than 55 on the date of the resignation or dismissal;
 - (e) is not entitled to an ill-health award under article 12 or 12A of Part 3; and
@@ -323,7 +323,7 @@ is a special deferred member of this Scheme.
 (11) The conditions are that he—
 
 - (a) took up employment as a retained firefighter before 6th April 2006;
-- (b) was employed as a retained firefighter on or after 7th April 2000[^key-3b8f2d6313898607b60547e1fd0e8cde];
+- (b) was employed as a retained firefighter on or after 7th April 2000[^c-3b8f2d6313898607b60547e1fd0e8cde];
 - (c) retired from that employment before the date that his election under article 66A of Part 11 to pay the mandatory special period pension contributions took effect;
 - (d) has elected, within the period required by article 66B(1) or 66B(12) as the case may be, of Part 11, to pay the mandatory special period pension contributions.
 
@@ -343,7 +343,7 @@ is a special deferred member of this Scheme.
 
 (15) A person who was employed as a retained firefighter and to whom paragraph (1) of rule 2 of Part 8 of the Compensation Scheme applies (award to or in relation to a retained or volunteer firefighter) may not be a special member of this Scheme.
 
-#### 4B. Cessation of firefighter membership and special firefighter membership[^key-f13fed0542804b206e5fbd491e2b7751]
+#### 4B. Cessation of firefighter membership and special firefighter membership[^c-f13fed0542804b206e5fbd491e2b7751]
 
 A person ceases to be a firefighter member or a special firefighter member of this scheme—
 
@@ -381,61 +381,61 @@ A person ceases to be a firefighter member or a special firefighter member of th
 
 (2) A person who was entitled to an ill-health award under this Scheme or under the 2015 Scheme and who accepts an offer of employment referred to in article 50 of Part 9 of this Scheme or referred to in regulation 77(3)(b) of the 2015 Regulations, continues to be a connected member, or a connected special member, of this Scheme.
 
-#### 5. Eligibility conditions[^key-ee9c1826efd3de8be9b33399ae7f2e7f]
+#### 5. Eligibility conditions[^c-ee9c1826efd3de8be9b33399ae7f2e7f]
 
 (1) A firefighter member is eligible for a pension under this Scheme if—
 
 - (a) he has at least three months’ qualifying service; or
-- (b)[^key-a3f983ecaa1a1b2e72d8224c21a41ab9] such transfer payment has been made to the Scheme in respect of his personal pension rights under a personal pension scheme as qualifies him for benefits under the Scheme; or
+- (b)[^c-a3f983ecaa1a1b2e72d8224c21a41ab9] such transfer payment has been made to the Scheme in respect of his personal pension rights under a personal pension scheme as qualifies him for benefits under the Scheme; or
 - (c) he reaches normal retirement age.
 
-#### 5A. Special eligibility conditions[^key-ecd8bd88fdb0ad81fce86e2512a31ca5]
+#### 5A. Special eligibility conditions[^c-ecd8bd88fdb0ad81fce86e2512a31ca5]
 
 (1) A special firefighter member is eligible for a special member’s ordinary pension or a pension under article 12 (award on ill-health retirement) or article 13 (deferred pension) of Part 3 as a special member under this Scheme if—
 
 - (a) he pays the special pension contribution; and
 - (b) an eligibility condition is satisfied.
 
-(2) A special deferred member or a special pensioner member is eligible for a special member’s ordinary pension or a pension under article 12 (award on ill-health retirement) or article 12A (retrospective award on ill-health retirement) of Part 3[^key-b972db1d06e6000f7e33f6c75458a307] if an eligibility condition is satisfied.
+(2) A special deferred member or a special pensioner member is eligible for a special member’s ordinary pension or a pension under article 12 (award on ill-health retirement) or article 12A (retrospective award on ill-health retirement) of Part 3[^c-b972db1d06e6000f7e33f6c75458a307] if an eligibility condition is satisfied.
 
 (3) A special deferred member who was a special firefighter member immediately before he satisfied the requirements of paragraph (1) of article 13 of Part 3 and in respect of whom an eligibility condition is satisfied is entitled to a special member’s ordinary pension.
 
-#### 6. Normal retirement age and normal benefit age[^key-e800ff7a65e304fa54a487e8614cb666]
+#### 6. Normal retirement age and normal benefit age[^c-e800ff7a65e304fa54a487e8614cb666]
 
-(1) The normal retirement age of firefighter members who are not special firefighter members[^key-ac1dc3d1e192f8dfcdfeb63e7b96da5f] is 60.
+(1) The normal retirement age of firefighter members who are not special firefighter members[^c-ac1dc3d1e192f8dfcdfeb63e7b96da5f] is 60.
 
-(2) The normal benefit age of firefighter members who are not special firefighter members[^key-90cb76a21da7497e27e87cdf1b46c923] is 65.
+(2) The normal benefit age of firefighter members who are not special firefighter members[^c-90cb76a21da7497e27e87cdf1b46c923] is 65.
 
-(3)[^key-91b36bcbf48db3b2314f7feb090685a6] The normal retirement age of special firefighter members, or for persons who joined this Scheme as special pensioner members, is 55.
+(3)[^c-91b36bcbf48db3b2314f7feb090685a6] The normal retirement age of special firefighter members, or for persons who joined this Scheme as special pensioner members, is 55.
 
 (4) The normal benefit age of special firefighter members, or of special deferred members, is 60.
 
-(5)[^key-7fdc111724ee3c3c74bca8241138a29f] The normal retirement age of connected members is 60.
+(5)[^c-7fdc111724ee3c3c74bca8241138a29f] The normal retirement age of connected members is 60.
 
 (6) The normal retirement age of connected special members is 55.
 
-#### 7. Last day of membership[^key-83f1700b13221a261d980a11f709ba05]
+#### 7. Last day of membership[^c-83f1700b13221a261d980a11f709ba05]
 
-(1) Subject to paragraphs (2) to (5)[^key-2ccee1b4e94a0280c4397df042e4f048], where a firefighter member leaves the Scheme his last day of membership shall be taken to be—
+(1) Subject to paragraphs (2) to (5)[^c-2ccee1b4e94a0280c4397df042e4f048], where a firefighter member leaves the Scheme his last day of membership shall be taken to be—
 
 - (a) where he leaves on retirement at normal retirement age, his last day of service; and
 - (b) in any other case, the last day on which he pays contributions.
 
 (2) Where a firefighter member is on unpaid absence or absent without permission on the day on which he leaves the Scheme, his last day of membership shall be taken to be such date as may be agreed with the Board.
 
-(3)[^key-33f1bd9ebafa51b3332c5b2bc18749b3] The last day of membership of a firefighter member or a special firefighter member, who is not a full protection member of this Scheme or a tapered protection member of this Scheme, shall be taken to be the scheme closing date.
+(3)[^c-33f1bd9ebafa51b3332c5b2bc18749b3] The last day of membership of a firefighter member or a special firefighter member, who is not a full protection member of this Scheme or a tapered protection member of this Scheme, shall be taken to be the scheme closing date.
 
 (4) The last day of membership of a firefighter member or a special firefighter member, who is a tapered protected member of this Scheme, shall be taken to be the tapered protection closing date or if earlier, the date on which that member ceases to be a tapered protection member.
 
 (5) The last day of membership of a firefighter member or a special firefighter member who is a full protection member of this Scheme shall be taken to be the date on which that member ceases to be a full protection member of this Scheme.
 
-#### 8. Election not to make pension contributions[^key-33f7b3a28864607fb78e2474bd72bb17]
+#### 8. Election not to make pension contributions[^c-33f7b3a28864607fb78e2474bd72bb17]
 
 (1) A firefighter member may at any time, by giving notice in writing to the Board, elect to make no further pension contributions (referred to in this Scheme as a “contributions election”).
 
-(1A)[^key-a23f69d8a0a792970f09bc4bccc21182] A written notice given under paragraph (1) should be signed by the firefighter member or, where the notice is in electronic format, it must include a statement confirming that that person personally submitted the notice.
+(1A)[^c-a23f69d8a0a792970f09bc4bccc21182] A written notice given under paragraph (1) should be signed by the firefighter member or, where the notice is in electronic format, it must include a statement confirming that that person personally submitted the notice.
 
-(1B)[^key-22c61ab8e74677ec3e60a5769b4e21c8][^key-4ba1796a4424e61f6105ff626982526a] A contributions election may not be made solely in respect of contributions relevant to additional pension benefit under article 17B of Part 3 (additional pension benefit: continual professional development).
+(1B)[^c-22c61ab8e74677ec3e60a5769b4e21c8][^c-4ba1796a4424e61f6105ff626982526a] A contributions election may not be made solely in respect of contributions relevant to additional pension benefit under article 17B of Part 3 (additional pension benefit: continual professional development).
 
 (2) Subject to paragraph (3)—
 
@@ -446,34 +446,34 @@ A person ceases to be a firefighter member or a special firefighter member of th
 
 (4) A person whose membership of the Scheme ceases as mentioned in paragraph (2)(b) remains entitled to any deferred benefits accrued while he was a member.
 
-#### 9. Rejoining the Scheme[^key-e7172a48cefdb45534173a6471c49923]
+#### 9. Rejoining the Scheme[^c-e7172a48cefdb45534173a6471c49923]
 
-(1)[^key-935afe9eb6a239df555d39d96ade2ae8] A person who has made a contributions election may cancel it by giving a signed written notice to the Board or, where the notice is in electronic format, it must include a statement confirming that that person personally submitted the notice.
+(1)[^c-935afe9eb6a239df555d39d96ade2ae8] A person who has made a contributions election may cancel it by giving a signed written notice to the Board or, where the notice is in electronic format, it must include a statement confirming that that person personally submitted the notice.
 
-(1A)[^key-11f201f6d21cc6e0aaade97a3b6a587f] Where a person who has made a contributions election is subsequently automatically enrolled or re-enrolled in the Scheme, that enrolment or re-enrolment shall constitute a cancellation of their contributions election.
+(1A)[^c-11f201f6d21cc6e0aaade97a3b6a587f] Where a person who has made a contributions election is subsequently automatically enrolled or re-enrolled in the Scheme, that enrolment or re-enrolment shall constitute a cancellation of their contributions election.
 
-(2)[^key-6c4cdf3bcc63f1ef12542e327f205884] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-6c4cdf3bcc63f1ef12542e327f205884] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Where a contributions election is cancelled—
 
 - (a) the person shall resume the making of pension contributions; and
 - (b) shall again be a firefighter member of the Scheme,
 
-with effect from the first day on which begins the pay period falling after the date on which the notice under paragraph (1) is received or in the case of a firefighter member who has been automatically enrolled or re-enrolled, with effect from the automatic enrolment or re-enrolment date (as the case may be)[^key-5cac57f517f6254e000097b0ecc07275] .
+with effect from the first day on which begins the pay period falling after the date on which the notice under paragraph (1) is received or in the case of a firefighter member who has been automatically enrolled or re-enrolled, with effect from the automatic enrolment or re-enrolment date (as the case may be)[^c-5cac57f517f6254e000097b0ecc07275] .
 
-#### 10. Scheme Cessation[^key-7f30a916e0a9ada4e73dce83078158f3]
+#### 10. Scheme Cessation[^c-7f30a916e0a9ada4e73dce83078158f3]
 
 This Scheme ceases to apply on the day on which a Scheme is brought into operation under paragraph 6(2)(b) of Schedule 1 to the Fire and Rescue Services (Northern Ireland) Order 2006.
 
 ### PART 3 — PERSONAL AWARDS
 
-#### 11. Ordinary pension[^key-8ef6727d3f8a2ed574d6b570e6c7cdbd]
+#### 11. Ordinary pension[^c-8ef6727d3f8a2ed574d6b570e6c7cdbd]
 
 (1) Subject to paragraph (2), this article applies to a person who satisfies an eligibility condition and retires, having reached normal retirement age, or state pensionable age.
 
-(1A)[^key-c091afad4be67563e39ee98974db1aaa] Subject to paragraph (2), this article applies to a connected member of this Scheme who was a firefighter member of this Scheme and satisfies an eligibility condition and retires from scheme employment in the 2015 Scheme having reached normal retirement age under this Scheme.
+(1A)[^c-c091afad4be67563e39ee98974db1aaa] Subject to paragraph (2), this article applies to a connected member of this Scheme who was a firefighter member of this Scheme and satisfies an eligibility condition and retires from scheme employment in the 2015 Scheme having reached normal retirement age under this Scheme.
 
-(2)[^key-aef3a2eab891d4bb30d6edf53e332058] This article does not apply to—
+(2)[^c-aef3a2eab891d4bb30d6edf53e332058] This article does not apply to—
 
 - (a) a firefighter member whose notice of retirement states that he is retiring for the purpose of taking up employment with a fire and rescue authority in England, Scotland or Wales; or
 - (b) subject to article 84C of Part 12, a special firefighter member in respect of special pensionable service.
@@ -484,11 +484,11 @@ This Scheme ceases to apply on the day on which a Scheme is brought into operati
 
 (5) Where a firefighter member is entitled to more than one ordinary pension, those pensions shall not be aggregated unless article 17(6) applies.
 
-#### 11A. Special member’s ordinary pension[^key-baab98d00bdab476e3f3ecf8e86e96a9]
+#### 11A. Special member’s ordinary pension[^c-baab98d00bdab476e3f3ecf8e86e96a9]
 
 (1) Subject to paragraph (2), this article applies to a member of this Scheme who is a special member and who satisfies one of the special eligibility conditions and retires or has retired.
 
-(1A)[^key-28aa3bb50f2b911af9213a5c5cc38260] Subject to paragraph (2), this article applies to a connected special member of this Scheme who satisfies a special eligibility condition and retires from scheme employment in the 2015 Scheme having reached normal retirement age.
+(1A)[^c-28aa3bb50f2b911af9213a5c5cc38260] Subject to paragraph (2), this article applies to a connected special member of this Scheme who satisfies a special eligibility condition and retires from scheme employment in the 2015 Scheme having reached normal retirement age.
 
 (2) This article does not apply to a special firefighter member whose notice of retirement states that he is retiring for the purpose of taking up employment as a firefighter with a fire and rescue authority in England, Scotland or Wales.
 
@@ -508,7 +508,7 @@ he is entitled to a special member’s ordinary pension.
 
 (7) Where paragraph (6) applies, the amount calculated under that paragraph shall be added to the amount calculated under paragraph (5).
 
-(8) Where a person joins this Scheme as a special pensioner member and is entitled to a pension under this article, the Board shall pay to him a lump sum equal to the value, together with interest, of the pension payments (“the past pension payments”) he would have received up to the date of payment of the lump sum if at the date of his retirement he had been a member of this Scheme who had made contributions equivalent to his contributions under article 66A and 66B of Part 11 and articles 84B and 84C of Part 12[^key-c87403936e79d0d243af904244899629] and shall thereafter pay him a special member’s ordinary pension.
+(8) Where a person joins this Scheme as a special pensioner member and is entitled to a pension under this article, the Board shall pay to him a lump sum equal to the value, together with interest, of the pension payments (“the past pension payments”) he would have received up to the date of payment of the lump sum if at the date of his retirement he had been a member of this Scheme who had made contributions equivalent to his contributions under article 66A and 66B of Part 11 and articles 84B and 84C of Part 12[^c-c87403936e79d0d243af904244899629] and shall thereafter pay him a special member’s ordinary pension.
 
 (9) The interest payable in accordance with paragraph (8) is payable as follows—
 
@@ -518,15 +518,15 @@ he is entitled to a special member’s ordinary pension.
 
 and for the purposes of this article “past interest rate” is a rate equivalent to the interest available on the most recent issue of five-year fixed interest savings certificates from National Savings and Investments available on the 15th day of each month which would have been applicable to the period when the past pension payment in question would have been made in accordance with sub-paragraph (a).
 
-#### 11B. Continued pension[^key-abb925dafaeb3eec8407b3abe8c7892e]
+#### 11B. Continued pension[^c-abb925dafaeb3eec8407b3abe8c7892e]
 
 Where a connected member, or connected special member, is entitled to an equivalent amount to the NFPS lower tier ill-health pension under regulation 73(4)(a) (entitlement to lower tier ill-health pension and higher tier ill-health pension) of the 2015 Regulations and that member reaches normal retirement age under this Scheme, that member is entitled to a continued pension of an amount equal to the annual rate of the equivalent amount to the NFPS lower tier ill-health pension.
 
-#### 12. Award on ill-health retirement[^key-c3febc0100287dcb63ae280312a8adec]
+#### 12. Award on ill-health retirement[^c-c3febc0100287dcb63ae280312a8adec]
 
 (1) —This article applies to a firefighter member who leaves his employment by reason of permanent disablement[^f00020] (referred to in this Scheme as “ill–health retirement”).
 
-(2)[^key-50a92ba67d696fc8ab2884c845eb89ea] Every firefighter member to whom this article applies and who satisfies—
+(2)[^c-50a92ba67d696fc8ab2884c845eb89ea] Every firefighter member to whom this article applies and who satisfies—
 
 - (a) in the case of a firefighter member other than a special firefighter member, an eligibility condition;
 - (b) in the case of a special firefighter member, one of the special eligibility conditions,
@@ -539,22 +539,22 @@ is entitled, on retiring, to a lower tier ill-health pension calculated in accor
 - (b) who has at least five years of qualifying service; and
 - (c) in respect of whom a qualified medical practitioner, has expressed the opinion, obtained in accordance with article 46(2), that he is permanently disabled from undertaking regular employment,
 
-is also entitled, on retiring, to a higher tier ill–health pension calculated insert subject to paragraph (4),[^key-e5f1d3e9162c25aaee48c577dd4b6954] in accordance with paragraph 2 or 3 of Schedule 1, as his circumstances require.
+is also entitled, on retiring, to a higher tier ill–health pension calculated insert subject to paragraph (4),[^c-e5f1d3e9162c25aaee48c577dd4b6954] in accordance with paragraph 2 or 3 of Schedule 1, as his circumstances require.
 
-(4)[^key-ea3f42f966e0938e2bea76c855c41867] The amount of the higher tier ill-health award[^key-1354b8711ed8d062a9adff4123d834ab] of a firefighter member who, by virtue of article 17, is entitled to two pensions, is whichever is the greater of—
+(4)[^c-ea3f42f966e0938e2bea76c855c41867] The amount of the higher tier ill-health award[^c-1354b8711ed8d062a9adff4123d834ab] of a firefighter member who, by virtue of article 17, is entitled to two pensions, is whichever is the greater of—
 
 - (a) the sum of his lower tier ill–health pension (calculated in accordance with paragraph 1 of Schedule 1) and the higher tier ill-health pension to which he would be entitled if paragraph (3) were not subject to this paragraph (calculated in accordance with paragraph 2 or 3 of Schedule 1); and
 - (b) the amount of the single pension to which he would be entitled under paragraph (7) of article 17.
 
 and for the purposes of this paragraph it shall be assumed that the person had given the written notice referred to in paragraph (6) of article 17.
 
-#### 12A. Retrospective award on ill-health retirement[^key-f72420ab0a0fb209e7c86301c60ef97e]
+#### 12A. Retrospective award on ill-health retirement[^c-f72420ab0a0fb209e7c86301c60ef97e]
 
 (1) This article applies to a person who elects to join this Scheme as a special deferred member or a special pensioner member and who had been dismissed on the grounds of ill-health or had retired from employment as a retained firefighter before 6th April 2006.
 
 (2) A person to whom this article applies may apply to the Board to be assessed by a qualified medical practitioner selected by it to determine whether he was permanently incapable of performing the duties of a firefighter on the date on which he was dismissed on the grounds of ill-health or retired and whether he has become capable of performing those duties since that date.
 
-(3)[^key-89a4c2828157e062ff97cec0cb881b74] An application under paragraph (2) must be made—
+(3)[^c-89a4c2828157e062ff97cec0cb881b74] An application under paragraph (2) must be made—
 
 - (a) where the person is purchasing service following an application under article 65A (purchase of service during the limited period) of Part 11, during the period of three months beginning with the day on which the notice was served by the Board under article 65A(13) of that Part;
 - (b) where the person is purchasing service following an application made under article 65B (purchase of service during the extended limited period) of Part 11, during the period of three months beginning with the day on which the notice was served by the Board under article 65B(13) of that Part.
@@ -591,7 +591,7 @@ and for the purposes of this article “past interest rate” is a rate equivale
 
 (12) A member of this Scheme entitled to a retrospective award under this article is not entitled to an ordinary pension or a special member’s ordinary pension in respect of the same special pensionable service.
 
-(13)[^key-a3630113f06644cc3571f4dc926bbcd9] A member who was, on or before the second initial date, in receipt of a retrospective award under this article may apply for a recalculated retrospective award, where the member has purchased additional service following an application made under article 65B (purchase of service during the extended limited period) of Part 11 (“the additional service”).
+(13)[^c-a3630113f06644cc3571f4dc926bbcd9] A member who was, on or before the second initial date, in receipt of a retrospective award under this article may apply for a recalculated retrospective award, where the member has purchased additional service following an application made under article 65B (purchase of service during the extended limited period) of Part 11 (“the additional service”).
 
 (14) An application under paragraph (13) must be made during the period of three months beginning with the day on which the notice was served by the Board under article 65B(13) of Part 11.
 
@@ -604,16 +604,16 @@ and for the purposes of this article “past interest rate” is a rate equivale
 
 (17) An application under paragraph (13) must be referred to the Scheme Actuary, who must calculate the amounts payable under paragraphs (15) and (16).
 
-#### 13. Deferred pension[^key-ccc441b1463b2a4146de363b524620b7]
+#### 13. Deferred pension[^c-ccc441b1463b2a4146de363b524620b7]
 
-(1) Subject to paragraph (7), this article applies[^key-05caf7f86a0cfd78f52468a375e3d302] to a firefighter member who—
+(1) Subject to paragraph (7), this article applies[^c-05caf7f86a0cfd78f52468a375e3d302] to a firefighter member who—
 
 - (a) satisfies an eligibility condition; and
 - (b) before reaching normal retirement age—
   - (i) resigns or is dismissed from the fire and rescue service; or
   - (ii) makes a contributions election.
 
-(1A)[^key-6b90072e6cb99c66f3c08c8447afa399] Subject to paragraph (7), this article applies to a person who ceases to be a firefighter member or a special firefighter member under article 4B (cessation of firefighter membership and special firefighter membership) of Part 2.
+(1A)[^c-6b90072e6cb99c66f3c08c8447afa399] Subject to paragraph (7), this article applies to a person who ceases to be a firefighter member or a special firefighter member under article 4B (cessation of firefighter membership and special firefighter membership) of Part 2.
 
 (1B) Subject to paragraph (7), this article applies to a connected member, or a connected special member, who—
 
@@ -638,11 +638,11 @@ the Board shall pay the deferred pension from the date of the person’s disable
 
 (6) A person who cancels his deferred pension under article 14 ceases to be entitled to it.
 
-(7)[^key-ab0e292ef1ea622eb24de7e77f9e1f59] In the case of a firefighter member who is a special firefighter member, paragraph (1) shall apply with the substitution, in paragraph (a), of “one of the special eligibility conditions” for “an eligibility condition” and with the substitution in paragraph (3) of “45” for “60” and “special pensionable service” for “pensionable service”.
+(7)[^c-ab0e292ef1ea622eb24de7e77f9e1f59] In the case of a firefighter member who is a special firefighter member, paragraph (1) shall apply with the substitution, in paragraph (a), of “one of the special eligibility conditions” for “an eligibility condition” and with the substitution in paragraph (3) of “45” for “60” and “special pensionable service” for “pensionable service”.
 
-#### 14. Cancellation of deferred pension[^key-2797aa22848ff0ddf0ea84cec9eae53f]
+#### 14. Cancellation of deferred pension[^c-2797aa22848ff0ddf0ea84cec9eae53f]
 
-(1) Subject to paragraph (4), where[^key-2970e55f264b0aea5065443f5c212b03]—
+(1) Subject to paragraph (4), where[^c-2970e55f264b0aea5065443f5c212b03]—
 
 - (a) a deferred pension awarded under article 13 is not being paid; and
 - (b) the person entitled to it is again employed by the Board in a role which entitles him to rejoin this Scheme; and
@@ -650,20 +650,20 @@ the Board shall pay the deferred pension from the date of the person’s disable
 
 he may, at any time before leaving the Board’s employment, by notice in writing given to the Board, instruct the Board to cancel his deferred pension.
 
-(2) Where the Board cancels a deferred pension, it shall add to the pensionable service used for the calculation of the pension to which the person becomes entitled on leaving the Board’s employment[^key-b59c42180542f8c4e690c6431c6af0e0] the pensionable service used for the calculation of the deferred pension.
+(2) Where the Board cancels a deferred pension, it shall add to the pensionable service used for the calculation of the pension to which the person becomes entitled on leaving the Board’s employment[^c-b59c42180542f8c4e690c6431c6af0e0] the pensionable service used for the calculation of the deferred pension.
 
 (3) Where a person is entitled to a deferred pension from a fire and rescue authority in England, Scotland or Wales (“the first authority”), and he is subsequently employed by the Board, he must by written notice to the first authority instruct it—
 
 - (a) to cancel the deferred pension; and
 - (b) to make arrangements with the Board for the transfer of his pensionable service in accordance with Part 12.
 
-(4)[^key-1e4c340a6f8ce6b4e08f2e198256dc4d] Where the person entitled to receive a deferred pension is not a protected member of this Scheme, the member may not instruct the Board to cancel the deferred pension.
+(4)[^c-1e4c340a6f8ce6b4e08f2e198256dc4d] Where the person entitled to receive a deferred pension is not a protected member of this Scheme, the member may not instruct the Board to cancel the deferred pension.
 
 (5) Where the person entitled to receive a deferred pension was a connected member of this Scheme and re-joins the 2015 Scheme after a gap in pensionable service not exceeding 5 years, the Board must cancel the deferred pension.
 
-#### 15. Pension on member-initiated early retirement[^key-f6313823be61cf81148e295430bb4244]
+#### 15. Pension on member-initiated early retirement[^c-f6313823be61cf81148e295430bb4244]
 
-(1) This article applies to a firefighter member other than a special firefighter member[^key-ad28e8072e9df20d20a63886bd2c1500] who—
+(1) This article applies to a firefighter member other than a special firefighter member[^c-ad28e8072e9df20d20a63886bd2c1500] who—
 
 - (a) satisfies an eligibility condition; and
 - (b) before reaching normal benefit age is awarded a deferred pension.
@@ -679,27 +679,27 @@ he may, at any time before leaving the Board’s employment, by notice in writin
 
 (5) A deferred pension paid before normal benefit age to a firefighter member whose service is as a retained or volunteer firefighter shall be calculated by—
 
-- (a) multiplying his pensionable retained service by his final reference[^key-d88efe631930a138ca1eff7d987ff70c] pay as in article 62(6) and dividing the resultant amount by 60; and
+- (a) multiplying his pensionable retained service by his final reference[^c-d88efe631930a138ca1eff7d987ff70c] pay as in article 62(6) and dividing the resultant amount by 60; and
 - (b) applying to the amount ascertained in accordance with sub-paragraph (a) the appropriate actuarial reduction factor notified by the Scheme Actuary.
 
-#### 16. Pension on Board-initiated early retirement[^key-e6a85c6c67d66be623bfc7d0bf0ae64d]
+#### 16. Pension on Board-initiated early retirement[^c-e6a85c6c67d66be623bfc7d0bf0ae64d]
 
 (1) The Board may, having regard to—
 
 - (a) the economical, effective and efficient management of its functions; and
 - (b) the costs likely to be incurred in the particular case,
 
-determine that a firefighter member who is aged 55 but under normal retirement age should be retired from the Board’s employment[^key-2eae30eaacab744686a46190897a9d25] .
+determine that a firefighter member who is aged 55 but under normal retirement age should be retired from the Board’s employment[^c-2eae30eaacab744686a46190897a9d25] .
 
 (2) The pension of a person in respect of whom a determination is made under paragraph (1) shall be calculated in accordance with article 11.
 
-(3)[^key-a7cfa2b22a0acca8fec43d762636ee54] This article does not apply to a firefighter member who is a special firefighter member.
+(3)[^c-a7cfa2b22a0acca8fec43d762636ee54] This article does not apply to a firefighter member who is a special firefighter member.
 
-(4)[^key-8d78677276b9a7a559de64b2d64f9dc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-8d78677276b9a7a559de64b2d64f9dc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 17. Entitlement to two pensions[^key-96de57c1e7ec32b732fde3d6067dcae0]
+#### 17. Entitlement to two pensions[^c-96de57c1e7ec32b732fde3d6067dcae0]
 
-(1) Subject to paragraphs (6) and (9)[^key-383584c405e0dbabbfc4d169977736ff], a firefighter member who—
+(1) Subject to paragraphs (6) and (9)[^c-383584c405e0dbabbfc4d169977736ff], a firefighter member who—
 
 - (a)
   - (i) satisfies an eligibility condition; and
@@ -707,13 +707,13 @@ determine that a firefighter member who is aged 55 but under normal retirement a
 
 is entitled to two pensions.
 
-(2) The pensions shall be calculated as mentioned in paragraphs (3), (3A) and (4)[^key-a6126df1e52633e840d8414d7eb42fe7] and shall become payable as mentioned in paragraph (5).
+(2) The pensions shall be calculated as mentioned in paragraphs (3), (3A) and (4)[^c-a6126df1e52633e840d8414d7eb42fe7] and shall become payable as mentioned in paragraph (5).
 
 (3) The amount of the first pension is that found by multiplying the member’s pensionable service up to (but not including) the day on which paragraph (1) first applies to him by the final pensionable pay to which he would have been entitled had he retired on that day, and dividing the resultant amount by 60.
 
-(3A)[^key-c1c2cc778cebfa558cf24d4b63269851] The amount of the first pension determined under paragraph (3), is increased for each year before the firefighter’s last day of service by an amount equivalent to that which would apply if the first pension were a pension in payment commencing from the date that paragraph (1) first applied to the member, to which the Pensions (Increase) Act (Northern Ireland) 1971 applied.
+(3A)[^c-c1c2cc778cebfa558cf24d4b63269851] The amount of the first pension determined under paragraph (3), is increased for each year before the firefighter’s last day of service by an amount equivalent to that which would apply if the first pension were a pension in payment commencing from the date that paragraph (1) first applied to the member, to which the Pensions (Increase) Act (Northern Ireland) 1971 applied.
 
-(4) The amount of the second pension is that found by multiplying the member’s pensionable service on and after the day on which paragraph (1) first applies to him by the final pensionable pay to which he is entitled on the last day of his membership of the Scheme[^key-28d9c1682e163cb62a9e3511e96ac7f9] , and dividing the resultant amount by 60.
+(4) The amount of the second pension is that found by multiplying the member’s pensionable service on and after the day on which paragraph (1) first applies to him by the final pensionable pay to which he is entitled on the last day of his membership of the Scheme[^c-28d9c1682e163cb62a9e3511e96ac7f9] , and dividing the resultant amount by 60.
 
 (5) Subject to paragraph (6), the pensions become payable on the date on which a pension would have become payable to the member in whichever of the circumstances referred to in articles 11, 12, 13, 15 and 16 applies in his case.
 
@@ -726,11 +726,11 @@ is entitled to two pensions.
 
 (8) If the member makes a contributions election, he shall be entitled to a single pension, calculated as mentioned in paragraph (3); and that pension shall be treated for the purposes of article 13(4) to (6) and article 14 as if it were a deferred pension to which he was entitled under article 13.
 
-(9)[^key-68e6b7320639ecf689f5f96f572eee70] In the case of a special member, this article applies with the substitution of “45” for “60” in paragraphs (3), (4) and (7), with the substitution of “special pensionable service” for “pensionable service” wherever it occurs and with the substitution of (11A) for “11” in paragraph (5).
+(9)[^c-68e6b7320639ecf689f5f96f572eee70] In the case of a special member, this article applies with the substitution of “45” for “60” in paragraphs (3), (4) and (7), with the substitution of “special pensionable service” for “pensionable service” wherever it occurs and with the substitution of (11A) for “11” in paragraph (5).
 
-(10)[^key-f0c2edf49fd81a01c06327016cbab445] Where a person to whom this article applies is a person to whom paragraph (5B) of article 61 of Part 11 applies, this article applies with the substitution in paragraph (4) for “final pensionable pay to which he is entitled on the last day of his membership of the Scheme” with “final pensionable pay as modified by paragraph (5B) or (5C) of article 61 of Part 11”.
+(10)[^c-f0c2edf49fd81a01c06327016cbab445] Where a person to whom this article applies is a person to whom paragraph (5B) of article 61 of Part 11 applies, this article applies with the substitution in paragraph (4) for “final pensionable pay to which he is entitled on the last day of his membership of the Scheme” with “final pensionable pay as modified by paragraph (5B) or (5C) of article 61 of Part 11”.
 
-#### 17A. Additional pension benefit: long service[^key-686739d23ae95fa24021d258f9b03fb1]
+#### 17A. Additional pension benefit: long service[^c-686739d23ae95fa24021d258f9b03fb1]
 
 (1) A firefighter member who—
 
@@ -745,23 +745,23 @@ is entitled to two pensions.
 
 [formula: additional pension benefit formula](https://www.legislation.gov.uk/nisr/2007/215)
 
-Where—[^key-82a9d79d04946c68ab19495fd4bac22f]
+Where—[^c-82a9d79d04946c68ab19495fd4bac22f]
 
 A is the number in years (counting part of a year as the appropriate fraction) by which the member’s continuous pensionable service in the employment of the Board and subsequent continuous pensionable service up to and including 30th June 2007, exceeds 15 but does not exceed 20; and
 
 B is the number in years (counting part of a year as the appropriate fraction) by which his continuous pensionable service in the employment of the Board and subsequent continuous pensionable service up to and including 30th June 2007, exceeds 20 but does not exceed 30.
 
-(3) Until 11th April 2011, where[^key-a82191c8309f0e57df08acd2dc59b59d] the Retail Prices Index for the month of September preceding the relevant tax year is higher than it was for September 2007, the amount of additional pension benefit (as calculated in accordance with paragraph (2) and, if applicable, this paragraph) shall be increased by the same percentage as the percentage increase in the Retail Prices Index.
+(3) Until 11th April 2011, where[^c-a82191c8309f0e57df08acd2dc59b59d] the Retail Prices Index for the month of September preceding the relevant tax year is higher than it was for September 2007, the amount of additional pension benefit (as calculated in accordance with paragraph (2) and, if applicable, this paragraph) shall be increased by the same percentage as the percentage increase in the Retail Prices Index.
 
-(3A)[^key-2a45420f04ee6937cefe508505406826] On and after 11th April 2011, the amount of additional pension benefit (as calculated in accordance with paragraph (2) and paragraph (3) and, if applicable, paragraph (3B) and this paragraph) shall be increased on the first Monday of the following relevant tax year by the same amount as any increase which would have applied if that additional pension to which the Pensions (Increase) Act (Northern Ireland) 1971 applied and the beginning date for that pension were the 1st July of the tax year immediately before the relevant tax year.
+(3A)[^c-2a45420f04ee6937cefe508505406826] On and after 11th April 2011, the amount of additional pension benefit (as calculated in accordance with paragraph (2) and paragraph (3) and, if applicable, paragraph (3B) and this paragraph) shall be increased on the first Monday of the following relevant tax year by the same amount as any increase which would have applied if that additional pension to which the Pensions (Increase) Act (Northern Ireland) 1971 applied and the beginning date for that pension were the 1st July of the tax year immediately before the relevant tax year.
 
 (3B) For the avoidance of doubt, the increase of additional pension benefit in the tax year 2010/2011 shall be increased by the same percentage as the percentage increase in the Consumer Prices Index in September 2010 with effect from Monday 11th April 2011.
 
 (4) Any increase in accordance with paragraph (3) shall be applied with effect from the first Monday of the relevant tax year.
 
-(5) In paragraphs (3) and (3A)[^key-1db16216db7d6a07b6f2b02948748e04] —
+(5) In paragraphs (3) and (3A)[^c-1db16216db7d6a07b6f2b02948748e04] —
 
-- “the beginning date” means the date on which the pension is treated as beginning for the purposes of section 8(2) of the Pensions (Increase) Act (Northern Ireland) 1971;[^key-c0dfb6ec5c57439b51acd382af304606]
+- “the beginning date” means the date on which the pension is treated as beginning for the purposes of section 8(2) of the Pensions (Increase) Act (Northern Ireland) 1971;[^c-c0dfb6ec5c57439b51acd382af304606]
 - “following relevant tax year” means the tax year after the relevant tax year, in relation to which the member is not a pensioner member or a deferred member;
 - “relevant tax year” means a tax year in relation to which—
   - (a) the amount of a firefighter member’s pension benefits is calculated for the purposes of this Scheme; and
@@ -770,9 +770,9 @@ B is the number in years (counting part of a year as the appropriate fraction) b
 
 #### 17B. Additional pension benefit[^M_C_1b27dbc1-2f35-43c8-a8d9-52eecaf39899]
 
-(1) Where the Board determines that the benefits listed in paragraph (5) are pensionable, and in any additional pension benefit[^key-0743b9acadca8012a57823ee5c5be064] year pays any such pensionable benefits to a firefighter member, the Board shall credit the firefighter member with an amount of additional pension benefit in respect of that year.
+(1) Where the Board determines that the benefits listed in paragraph (5) are pensionable, and in any additional pension benefit[^c-0743b9acadca8012a57823ee5c5be064] year pays any such pensionable benefits to a firefighter member, the Board shall credit the firefighter member with an amount of additional pension benefit in respect of that year.
 
-(2) Subject to paragraphs (3) and (4), the amount of additional pension benefit in respect of that year shall be determined on 1st July immediately following the year in question in accordance with guidance and tables provided by the Scheme Actuary and separate guidance and tables shall be provided for special members[^key-c9b2395f4d5341e3a035b102143d6afb].
+(2) Subject to paragraphs (3) and (4), the amount of additional pension benefit in respect of that year shall be determined on 1st July immediately following the year in question in accordance with guidance and tables provided by the Scheme Actuary and separate guidance and tables shall be provided for special members[^c-c9b2395f4d5341e3a035b102143d6afb].
 
 (3) The amount of additional pension benefit determined in accordance with paragraph (2) shall be increased on the first Monday of the following relevant tax year by the same amount as any increase which would have applied if that additional pension benefit were a pension to which the Pensions (Increase) Act (Northern Ireland) 1971 applied and the beginning date for that pension were the 1st July of the tax year immediately before the relevant tax year.
 
@@ -801,11 +801,11 @@ B is the number in years (counting part of a year as the appropriate fraction) b
 
 (2) Where the firefighter member resigns or is dismissed or makes a contributions election, additional pension benefit is payable at normal benefit age; and paragraphs (4) to (6) of article 13 (deferred pension) shall apply in relation to that benefit as if it were a deferred pension to which he was entitled under that article.
 
-(2A)[^key-311a359099ce4b6f143df4b2a8341f06] Where article 4B of Part 2 applies to a person (P) who is not a connected member or entitled to the payment of an ill-health award under regulation 73 (entitlement to lower tier ill-health pension and higher tier ill-health pension) of the 2015 Regulations, additional pension benefit is payable at normal benefit age, paragraphs (4) to (6) of article 13 (deferred pension) shall apply in relation to that benefit as if it were a deferred pension to which P was entitled under that article.
+(2A)[^c-311a359099ce4b6f143df4b2a8341f06] Where article 4B of Part 2 applies to a person (P) who is not a connected member or entitled to the payment of an ill-health award under regulation 73 (entitlement to lower tier ill-health pension and higher tier ill-health pension) of the 2015 Regulations, additional pension benefit is payable at normal benefit age, paragraphs (4) to (6) of article 13 (deferred pension) shall apply in relation to that benefit as if it were a deferred pension to which P was entitled under that article.
 
 (3) Where the firefighter member leaves his employment on ill-health retirement, his additional pension benefit is payable immediately.
 
-(3A)[^key-3f415cc67b852e529cc8e62bb8dc703c] Where the firefighter member is entitled to an ill-health award under regulation 73 of the 2015 Regulations, additional pension benefit is payable under this Scheme at the same time as the equivalent amount to the NFPS lower tier ill-health pension is payable under the 2015 Scheme.
+(3A)[^c-3f415cc67b852e529cc8e62bb8dc703c] Where the firefighter member is entitled to an ill-health award under regulation 73 of the 2015 Regulations, additional pension benefit is payable under this Scheme at the same time as the equivalent amount to the NFPS lower tier ill-health pension is payable under the 2015 Scheme.
 
 (4) Where the firefighter member takes Board-initiated early retirement or member initiated early retirement, his additional pension benefit is payable at the same time as his pension under article 15 (pension on member-initiated early retirement), or, as the case may be, article 16 (pension on Board-initiated early retirement).
 
@@ -815,14 +815,14 @@ B is the number in years (counting part of a year as the appropriate fraction) b
 
 (7) For the purposes of determining the amount of any survivor’s pension under Part 4 or pension credit under Part 6, additional pension benefit shall be treated as if it were a pension payable under this Part.
 
-#### 18. Refund of aggregate pension contributions[^key-49a8ae8528ec5e0b890c54d1460ce111]
+#### 18. Refund of aggregate pension contributions[^c-49a8ae8528ec5e0b890c54d1460ce111]
 
-(Z1)[^key-a65db8b81711349dfc9c6db6a30b3a0a] Paragraphs (1) and (2) are subject to paragraph (3).
+(Z1)[^c-a65db8b81711349dfc9c6db6a30b3a0a] Paragraphs (1) and (2) are subject to paragraph (3).
 
 (1) A firefighter member who—
 
 - (a) leaves the Board’s employment without satisfying an eligibility condition; or
-- (b) remains in the Board’s employment[^key-7c9b804bc5b8aa8394fe81306aefd3e2] but makes a contributions election before he has accrued three months’ qualifying service,
+- (b) remains in the Board’s employment[^c-7c9b804bc5b8aa8394fe81306aefd3e2] but makes a contributions election before he has accrued three months’ qualifying service,
 
 is entitled to a refund of his aggregate pension contributions less—
 
@@ -831,31 +831,31 @@ is entitled to a refund of his aggregate pension contributions less—
 
 (2) In paragraph (1), “aggregate pension contributions” means all of the payments made by the member to the Board by way of pension contributions.
 
-(3)[^key-55acd6854ea4a92fcd7756a8bcd8df65] In the case of a firefighter member who makes a contributions election subsequent to being automatically enrolled or re-enrolled in the Scheme, or having opted in to the Scheme, paragraphs (1) and (2) apply with the following modifications—
+(3)[^c-55acd6854ea4a92fcd7756a8bcd8df65] In the case of a firefighter member who makes a contributions election subsequent to being automatically enrolled or re-enrolled in the Scheme, or having opted in to the Scheme, paragraphs (1) and (2) apply with the following modifications—
 
 - (a) “three months’ qualifying service” means three months’ qualifying service since being automatically enrolled or re-enrolled, or opting in (as the case may be), on that occasion; and
 - (b) “aggregate pension contributions” means the payments made by the firefighter member to the Board by way of pension contributions since being automatically enrolled or re-enrolled, or opting in (as the case may be), on that occasion.
 
-#### 19. Commutation: general[^key-f260d3a26196018cfce36795d36bc28d]
+#### 19. Commutation: general[^c-f260d3a26196018cfce36795d36bc28d]
 
-(1) Subject to paragraphs (1B), (3) and (4)[^key-d0b03731ba0fe9d0ced5b8d6cd0e6a89], a person entitled or prospectively entitled to any pension under this Part may commute a portion of it (“the commuted portion”) for a lump sum.
+(1) Subject to paragraphs (1B), (3) and (4)[^c-d0b03731ba0fe9d0ced5b8d6cd0e6a89], a person entitled or prospectively entitled to any pension under this Part may commute a portion of it (“the commuted portion”) for a lump sum.
 
-(1A)[^key-066e1860ad1c23bf560887d2648e16aa] This article applies to an equivalent amount of the NFPS lower tier ill-health pension included in the annual rate of a retirement pension for the person under regulation 68(2)(ba) of the 2015 Regulations may commute a portion of it for a lump sum.
+(1A)[^c-066e1860ad1c23bf560887d2648e16aa] This article applies to an equivalent amount of the NFPS lower tier ill-health pension included in the annual rate of a retirement pension for the person under regulation 68(2)(ba) of the 2015 Regulations may commute a portion of it for a lump sum.
 
 (1B) Where a person is entitled to a continued pension under article 11B, that person may not commute a portion of that pension under this article.
 
-(2) Subject to paragraph (2A), the lump sum[^key-14e133a07291e457c1097a3afb5e230b] shall be calculated by multiplying by 12 the amount of the person’s pension represented by the commuted portion at the date of retirement.
+(2) Subject to paragraph (2A), the lump sum[^c-14e133a07291e457c1097a3afb5e230b] shall be calculated by multiplying by 12 the amount of the person’s pension represented by the commuted portion at the date of retirement.
 
-(2A)[^key-ea6dffa73c3c7f3ddb6d1f682be7fe27] In the case of a pension payable in respect of a special pensioner member the lump sum shall be calculated by multiplying the amount of the person’s pension represented by the commuted portion at retirement by the factor specified in the table in Schedule ZA by reference to his age.
+(2A)[^c-ea6dffa73c3c7f3ddb6d1f682be7fe27] In the case of a pension payable in respect of a special pensioner member the lump sum shall be calculated by multiplying the amount of the person’s pension represented by the commuted portion at retirement by the factor specified in the table in Schedule ZA by reference to his age.
 
 (3) A person taking ill–health retirement may not commute any portion of a higher tier ill–health pension.
 
-(4) Subject to paragraph (4A), the commuted portion[^key-4fc8808d774c1e1b95aae711af423bc8] must not exceed—
+(4) Subject to paragraph (4A), the commuted portion[^c-4fc8808d774c1e1b95aae711af423bc8] must not exceed—
 
 - (a) in a case to which paragraph (4) or (5) of article 15 applies, one quarter of the amount of the pension calculated in accordance with that paragraph;
 - (b) in any other case, one quarter of the amount to which he is entitled by way of pension.
 
-(4A)[^key-43ff130e879afaf8b13d5262aa2b9d6a] In the case of a special member, the commuted portion must not exceed—
+(4A)[^c-43ff130e879afaf8b13d5262aa2b9d6a] In the case of a special member, the commuted portion must not exceed—
 
 - (a) the amount calculated in accordance with paragraph (4); and
 - (b) the maximum amount which would enable a lump sum to be paid to the member without incurring a scheme chargeable payment,
@@ -878,9 +878,9 @@ give the Board written notice of commutation specifying the commuted portion.
 
 (8) In relation to a deferred pension, a pension on member-initiated early retirement, a pension on Board-initiated early retirement, or either or both of the two pensions referred to in article 17, paragraphs (6) and (7) have effect as if references to the day of retirement and the effective date were references to the date on which the pension comes into payment.
 
-(8ZA)[^key-15381062a30fc7964ff4d518ca076179] In relation to a pension payable to a person who joins this Scheme as a special pensioner member, paragraphs (6) and (7) have effect as if references to the day of retirement and the effective date were references to the date on which the pension comes into payment.
+(8ZA)[^c-15381062a30fc7964ff4d518ca076179] In relation to a pension payable to a person who joins this Scheme as a special pensioner member, paragraphs (6) and (7) have effect as if references to the day of retirement and the effective date were references to the date on which the pension comes into payment.
 
-(8A)[^key-cf83a3ef64c693c1d07c5d283b7853f4] Paragraph (8B) applies where—
+(8A)[^c-cf83a3ef64c693c1d07c5d283b7853f4] Paragraph (8B) applies where—
 
 - (a) notice of commutation has taken effect in relation to—
   - (i) a person’s ill-health pension, and
@@ -893,14 +893,14 @@ give the Board written notice of commutation specifying the commuted portion.
 
 (8C) Where paragraph (8B) applies, and notice of commutation is given in respect of the other pension, the portion of it that may be commuted is reduced by the amount of the reduction under that paragraph.
 
-(8D)[^key-b92c017cd028eaed05e9b5cfe3615664] Where paragraph (8B) applies and the person entitled to that other pension is a special pensioner member, paragraph (8B) shall apply with the substitution of “special pensionable service” for “pensionable service”.
+(8D)[^c-b92c017cd028eaed05e9b5cfe3615664] Where paragraph (8B) applies and the person entitled to that other pension is a special pensioner member, paragraph (8B) shall apply with the substitution of “special pensionable service” for “pensionable service”.
 
 (9) For the purposes of this article—
 
 - (a) the pension of a pension debit member shall be taken to be the amount of the pension after reduction in accordance with article 22; and
-- (b) no account shall be taken of any increase under article 2 or 3 of Part 7A of the Compensation Scheme in an award to a reservist.[^key-dc87eb4e0a656697b2d21b715f471be2]
+- (b) no account shall be taken of any increase under article 2 or 3 of Part 7A of the Compensation Scheme in an award to a reservist.[^c-dc87eb4e0a656697b2d21b715f471be2]
 
-#### 20. Commutation: small pensions[^key-c39218b78f08f924a154854f18f64991]
+#### 20. Commutation: small pensions[^c-c39218b78f08f924a154854f18f64991]
 
 (1) Where the amount of any pension payable under this Part to a member who has attained state pensionable age, together with any pension to which he is entitled under article 37 and any increase under the Pensions (Increase) Act (Northern Ireland) 1971[^f00021], does not exceed the commutation limit specified for the purposes of Part 1 of Schedule 29 to the Finance Act 2004 (lump sum rule)[^f00022], the Board may commute the pension for a lump sum.
 
@@ -912,9 +912,9 @@ give the Board written notice of commutation specifying the commuted portion.
 
 (4) On the day on which a pension is commuted under this article, all other entitlements of the member under this Part are extinguished.
 
-#### 21. Allocation of pension[^key-f418c7aa6cadaf328b68a1046d995689]
+#### 21. Allocation of pension[^c-f418c7aa6cadaf328b68a1046d995689]
 
-(1) A firefighter member , a connected member or a connected special member[^key-0c008603d5b8af97d1fb549b5ff80a49] may, in accordance with paragraphs (6) and (7), but subject to—
+(1) A firefighter member , a connected member or a connected special member[^c-0c008603d5b8af97d1fb549b5ff80a49] may, in accordance with paragraphs (6) and (7), but subject to—
 
 - (a) section 214 of the Finance Act 2004 and paragraphs (4) and (5); and
 - (b) where he is over 74, to paragraphs 16A to 16C of Schedule 28 to the Finance Act 2004[^f00023],
@@ -923,12 +923,12 @@ allocate up to one–third of any pension to which he is entitled or prospective
 
 (2) The persons to whom a portion of a pension may be allocated are—
 
-- (a) the firefighter member’s spouse, civil partner or cohabiting partner[^key-1a37c32ddfc2e461beacca2234adae9e]; or
+- (a) the firefighter member’s spouse, civil partner or cohabiting partner[^c-1a37c32ddfc2e461beacca2234adae9e]; or
 - (b) with the consent of the Board, any other person who is substantially dependent on the firefighter member.
 
 (3) The Board may withhold consent under paragraph (2)(b) if it is not satisfied that the person is substantially dependent on the firefighter member.
 
-(4) For the purposes of paragraph (1), the Board shall disregard any increase under article 2 or 3 of Part 7A of the Compensation Scheme (awards to, or on death of, reservists)[^key-2b76236b666981a50cf7e431a3d06c3b] in—
+(4) For the purposes of paragraph (1), the Board shall disregard any increase under article 2 or 3 of Part 7A of the Compensation Scheme (awards to, or on death of, reservists)[^c-2b76236b666981a50cf7e431a3d06c3b] in—
 
 - (a) awards to—
   - (i) reservists; or
@@ -985,7 +985,7 @@ the Board shall pay to the pensioner (distinguishing it from any other pension p
 
 (15) Where paragraph (14) applies, the pensioner is not entitled to recover from the Board the amount of any deduction made in respect of the failed allocation pension.
 
-#### 22. Pension debit members[^key-a7129dae58f63a0d547cf964e792e88a]
+#### 22. Pension debit members[^c-a7129dae58f63a0d547cf964e792e88a]
 
 Where a pension debit member is entitled to an award under this Part—
 
@@ -994,24 +994,24 @@ Where a pension debit member is entitled to an award under this Part—
 
 ### PART 4 — SURVIVORS’ PENSIONS
 
-#### CHAPTER 1 — SPOUSES, CIVIL PARTNERS AND COHABITING PARTNERS[^key-f4ecf40d42a4419f69e795a487d5e944]
+#### CHAPTER 1 — SPOUSES, CIVIL PARTNERS AND COHABITING PARTNERS[^c-f4ecf40d42a4419f69e795a487d5e944]
 
-##### 23. Pensions for surviving spouses, civil partners and cohabiting partners[^key-cdb8529dd43f5942a191ea3b11cae73c][^key-8f905f8cbe31e56b9ff5c78d4c4295a0]
+##### 23. Pensions for surviving spouses, civil partners and cohabiting partners[^c-cdb8529dd43f5942a191ea3b11cae73c][^c-8f905f8cbe31e56b9ff5c78d4c4295a0]
 
 (1) Subject to the following provisions of this article, a pension is payable on the death of—
 
-- (a) a firefighter member , other than a special firefighter member,[^key-6247aacb854a39d5056824f1b3e198c4] who satisfies an eligibility condition and dies while employed by the Board; or
-- (aa)[^key-dd058125ef2a73976470f14e0bdcd61c] a special firefighter member who satisfies one of the special eligibility conditions and dies while employed by the Board; or
+- (a) a firefighter member , other than a special firefighter member,[^c-6247aacb854a39d5056824f1b3e198c4] who satisfies an eligibility condition and dies while employed by the Board; or
+- (aa)[^c-dd058125ef2a73976470f14e0bdcd61c] a special firefighter member who satisfies one of the special eligibility conditions and dies while employed by the Board; or
 - (b) a former firefighter member who—
   - (i) has been awarded a deferred pension under article 13 which has not come into payment;
   - (ii) is in receipt of a deferred pension under that article; or
-  - (iii) is in receipt of a pension under any of articles 11, 11A,[^key-db5624d39a213598b25e07a3c0ef024d] 12, 12A, 14, 15 and 16,
+  - (iii) is in receipt of a pension under any of articles 11, 11A,[^c-db5624d39a213598b25e07a3c0ef024d] 12, 12A, 14, 15 and 16,
 
-to the deceased’s spouse, civil partner or cohabiting partner[^key-6817083feadcd94c15f669501678918b] for the remainder of their life (a “survivor’s pension”).
+to the deceased’s spouse, civil partner or cohabiting partner[^c-6817083feadcd94c15f669501678918b] for the remainder of their life (a “survivor’s pension”).
 
-(2) Subject to paragraph (4), a survivor’s pension is not payable if the deceased’s spouse, civil partner or cohabiting partner[^key-a60679a98f0e93b4c4d4e14ab906110d] (as the case may be) is convicted of the murder of the deceased.
+(2) Subject to paragraph (4), a survivor’s pension is not payable if the deceased’s spouse, civil partner or cohabiting partner[^c-a60679a98f0e93b4c4d4e14ab906110d] (as the case may be) is convicted of the murder of the deceased.
 
-(3) Subject to paragraph (5), where the deceased’s spouse, civil partner or cohabiting partner[^key-ad81d118e582b555ac887982a68bccb9] (as the case may be) is convicted of the manslaughter of the deceased, the Board may, as it thinks fit, withhold the survivor’s pension—
+(3) Subject to paragraph (5), where the deceased’s spouse, civil partner or cohabiting partner[^c-ad81d118e582b555ac887982a68bccb9] (as the case may be) is convicted of the manslaughter of the deceased, the Board may, as it thinks fit, withhold the survivor’s pension—
 
 - (a) in whole or in part; and
 - (b) permanently or temporarily.
@@ -1030,7 +1030,7 @@ the Board’s decision under paragraph (3) shall be treated as revoked and it sh
 
 (6) Nothing in paragraph (4) or (5) shall affect the application of paragraph (2) or (3) if the person whose conviction is quashed is subsequently convicted of the murder or manslaughter of the deceased.
 
-##### 24. Amount of survivor’s pension: general[^key-57d99c7f9523087680462e1ac028662a]
+##### 24. Amount of survivor’s pension: general[^c-57d99c7f9523087680462e1ac028662a]
 
 (1) Subject to article 25, the amount of a survivor’s pension—
 
@@ -1047,17 +1047,17 @@ the Board’s decision under paragraph (3) shall be treated as revoked and it sh
 - A is the amount which the deceased would have received if there had been no actuarial reduction; and
 - B is the fraction which represents the uncommuted portion of A expressed as a fraction of A.
 
-(4)[^key-c8ac5ce568bf78c1a1fbcfdb9b429afb] In the case of a firefighter member who is a special firefighter member, this article applies with the substitution in paragraph (1)(a) of “one of the special eligibility conditions” for “an eligibility condition”.
+(4)[^c-c8ac5ce568bf78c1a1fbcfdb9b429afb] In the case of a firefighter member who is a special firefighter member, this article applies with the substitution in paragraph (1)(a) of “one of the special eligibility conditions” for “an eligibility condition”.
 
-##### 25. Amount of survivor’s pension: special cases[^key-426d78233914d923ab0132c2be38f3c6]
+##### 25. Amount of survivor’s pension: special cases[^c-426d78233914d923ab0132c2be38f3c6]
 
-(1) Subject to paragraph (2), where the person entitled to a survivor’s pension under article 23 is more than twelve years younger than the deceased on the day on which he dies, a reduction of 2.5 per cent for each year by which the deceased’s age exceeds, by more than twelve years, that of the survivor[^key-62dacdec64aa509865a2c02bc1f3613d], shall be applied to the article 24 amount.
+(1) Subject to paragraph (2), where the person entitled to a survivor’s pension under article 23 is more than twelve years younger than the deceased on the day on which he dies, a reduction of 2.5 per cent for each year by which the deceased’s age exceeds, by more than twelve years, that of the survivor[^c-62dacdec64aa509865a2c02bc1f3613d], shall be applied to the article 24 amount.
 
 (2) Where the application of paragraph (1) would result in the payment of a survivor’s pension of less than 50 per cent of the article 24 amount, the survivor’s pension shall be 50 per cent of the article 24 amount.
 
 (3) Where—
 
-- (a) a pension debit member satisfies an eligibility condition or, in the case of a special member, satisfies a special eligibility condition[^key-6b651d47215fdedbd3a5f4b56cea4e86] and dies while employed by the Board;
+- (a) a pension debit member satisfies an eligibility condition or, in the case of a special member, satisfies a special eligibility condition[^c-6b651d47215fdedbd3a5f4b56cea4e86] and dies while employed by the Board;
 - (b) a survivor’s pension is payable under article 23 on his death; and
 - (c) a pension sharing order or, in the case of a surviving civil partner, an order to similar effect, had effect on the day on which the pension debit member died,
 
@@ -1067,7 +1067,7 @@ the amount of the survivor’s pension shall be ascertained with regard to the t
 
 (5) For the purposes of paragraph (1), a part of a year shall be treated as a whole year.
 
-##### 26. Bereavement pension: survivors[^key-3b23e7abed93d36aa1573de4330ac17b]
+##### 26. Bereavement pension: survivors[^c-3b23e7abed93d36aa1573de4330ac17b]
 
 (1) Subject to paragraph (2), a person entitled to a survivor’s pension under article 23 is also entitled, in respect of each of the 13 weeks following the death, to a bereavement pension of an amount equal to the difference between the weekly rate at which the survivor’s pension is paid and—
 
@@ -1078,9 +1078,9 @@ the amount of the survivor’s pension shall be ascertained with regard to the t
 
 - (a) a contributions election had effect at the date of the deceased’s death; or
 - (b) the deceased was entitled to a deferred pension that had not come into payment.
-- (c)[^key-033815bd128fad425a6ccf4b655a5859] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-033815bd128fad425a6ccf4b655a5859] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 27. Commutation of survivor’s pension[^key-0e091a7ba0caa7b86bfe5e1fe817053d][^key-7858a6f64afbf4fb2084ab275e949372]
+##### 27. Commutation of survivor’s pension[^c-0e091a7ba0caa7b86bfe5e1fe817053d][^c-7858a6f64afbf4fb2084ab275e949372]
 
 (1) A pension payable under this Chapter may, if the person entitled to it so requests, be commuted for a lump sum if, after commutation, the lump sum would be a trivial commutation lump sum death benefit within the meaning of paragraph 20 of Schedule 29 to the Finance Act 2004.
 
@@ -1090,15 +1090,15 @@ the amount of the survivor’s pension shall be ascertained with regard to the t
 
 #### CHAPTER 2 — CHILDREN’S PENSIONS
 
-##### 28. Child’s pension[^key-602f87ac9fb909cd4a2c243ed135e6f7]
+##### 28. Child’s pension[^c-602f87ac9fb909cd4a2c243ed135e6f7]
 
 Subject to article 29, a child is eligible for a child’s pension if he is the child of—
 
-- (a) a firefighter member who satisfies one of the eligibility conditions or, in the case of a special member, satisfies a special eligibility condition[^key-66b506108fb46ec2adb8647d02ed576e] and dies while employed by the Board;
+- (a) a firefighter member who satisfies one of the eligibility conditions or, in the case of a special member, satisfies a special eligibility condition[^c-66b506108fb46ec2adb8647d02ed576e] and dies while employed by the Board;
 - (b) a pensioner member who is in receipt of a pension under this Scheme when he dies; or
 - (c) a deferred member who is entitled to a deferred pension under this Scheme which is not in payment when he dies.
 
-##### 29. Child’s pension: limitations and duration[^key-b7f3623c2d09c50defce80d8873d6cbc]
+##### 29. Child’s pension: limitations and duration[^c-b7f3623c2d09c50defce80d8873d6cbc]
 
 (1) Subject to paragraphs (2) and (3), a child is not eligible if—
 
@@ -1141,7 +1141,7 @@ the Board’s decision under paragraph (5) shall be treated as revoked and it sh
 
 (10) Unless paragraph (9)(c) applies, a pension for which a child is eligible as mentioned in paragraph (3) is payable for life.
 
-##### 30. Amount of child’s pension[^key-8866340571c38ff943b6e167bbfeeb9b]
+##### 30. Amount of child’s pension[^c-8866340571c38ff943b6e167bbfeeb9b]
 
 (1) The amount payable by way of a child’s pension under this Chapter is—
 
@@ -1168,7 +1168,7 @@ the Board’s decision under paragraph (5) shall be treated as revoked and it sh
 - A is the amount which the deceased would have received if there had been no actuarial reduction; and
 - B is the fraction which represents the uncommuted portion of A expressed as a fraction of A.
 
-##### 31. Bereavement pension: children[^key-72d8e13d6f859a920a432c261e44cc16]
+##### 31. Bereavement pension: children[^c-72d8e13d6f859a920a432c261e44cc16]
 
 (1) Where—
 
@@ -1196,7 +1196,7 @@ the Board shall, subject to paragraph (3), pay to the eligible child the amount 
 - (a) a child’s share shall cease to be paid to him as soon as his child’s pension ceases to be payable; and
 - (b) the share to which he would otherwise have been entitled shall be distributed equally among any remaining eligible children.
 
-##### 32. Pension for child where no survivor’s pension paid[^key-29670b388e1b5677a0082986304e8b4e]
+##### 32. Pension for child where no survivor’s pension paid[^c-29670b388e1b5677a0082986304e8b4e]
 
 (1) Where—
 
@@ -1210,11 +1210,11 @@ the Board shall pay to the child, for so long as he is an eligible child, the am
 - (a) a child’s share shall cease to be paid as soon as his child’s pension ceases to be payable; and
 - (b) the share to which he would otherwise have been entitled shall be distributed equally among any remaining children.
 
-##### 33. Child’s pension in respect of pension debit member[^key-2951115cfc77b8ad22cefe98f7302b9e]
+##### 33. Child’s pension in respect of pension debit member[^c-2951115cfc77b8ad22cefe98f7302b9e]
 
 Where a pension debit member dies leaving a child, the reduction in his rights under this Scheme by virtue of Article 28 of the 1999 Order shall be disregarded for the purposes of calculating any pension payable under this Chapter.
 
-##### 34. Commutation of child’s pension[^key-b1c496d089dbe703f320cf3fc45a50d1]
+##### 34. Commutation of child’s pension[^c-b1c496d089dbe703f320cf3fc45a50d1]
 
 (1) A pension payable under this Chapter may be commuted for a lump sum—
 
@@ -1227,19 +1227,19 @@ Where a pension debit member dies leaving a child, the reduction in his rights u
 
 ### PART 5 — AWARDS ON DEATH
 
-#### 35. Death grant[^key-7e3f88a239d8702b1c308e97270c22d4]
+#### 35. Death grant[^c-7e3f88a239d8702b1c308e97270c22d4]
 
 (1) On the death of a person while serving as a firefighter member, the Board shall pay a death grant of an amount ascertained in accordance with the following provisions of this article (whether or not a pension is payable under any other Part).
 
-(2) Subject to paragraphs (2A)[^key-a43a16a48c53692bfc913d44016823c6] to (5) and, where paragraph (8) applies, paragraph (9), the amount is three times that of the deceased’s pensionable pay at the time of his death, expressed as an annual rate.
+(2) Subject to paragraphs (2A)[^c-a43a16a48c53692bfc913d44016823c6] to (5) and, where paragraph (8) applies, paragraph (9), the amount is three times that of the deceased’s pensionable pay at the time of his death, expressed as an annual rate.
 
-(2A)[^key-7663a021f1758dab87a2293749f8b96c] In the case of a firefighter member who is a special firefighter member, paragraph (2) shall apply with the substitution of “twice” for “three times”.
+(2A)[^c-7663a021f1758dab87a2293749f8b96c] In the case of a firefighter member who is a special firefighter member, paragraph (2) shall apply with the substitution of “twice” for “three times”.
 
-(3) Subject to paragraph (3A), where[^key-9d8c27b1c25e9398bcdb90e39e7feea3]—
+(3) Subject to paragraph (3A), where[^c-9d8c27b1c25e9398bcdb90e39e7feea3]—
 
 - (a) the deceased was a whole-time firefighter member at the time of his death;
 - (b) had he lived, the deceased would have been entitled to two pensions under article 17; and
-- (c) the product of the following formula is an amount greater than three times[^key-2ed8464d89fbcb0ca97256410d0a7da9] the deceased’s pensionable pay at the time of his death, expressed as an annual rate—
+- (c) the product of the following formula is an amount greater than three times[^c-2ed8464d89fbcb0ca97256410d0a7da9] the deceased’s pensionable pay at the time of his death, expressed as an annual rate—
 
   [formula: Reg 35(3)(c)](https://www.legislation.gov.uk/nisr/2007/215)
 
@@ -1253,9 +1253,9 @@ Where a pension debit member dies leaving a child, the reduction in his rights u
 
 the amount of the death grant is that greater amount.
 
-(3A)[^key-07a9a8663840b7a6cf3ea8d5c59dbc1a] In the case of a firefighter member who was a special firefighter member, paragraph (3) shall apply with the substitution of “twice” for “three times”, of “2” for “3” and “special pensionable service” for “pensionable service” where appropriate in the formula.
+(3A)[^c-07a9a8663840b7a6cf3ea8d5c59dbc1a] In the case of a firefighter member who was a special firefighter member, paragraph (3) shall apply with the substitution of “twice” for “three times”, of “2” for “3” and “special pensionable service” for “pensionable service” where appropriate in the formula.
 
-(4) Subject to paragraph (4A), where the deceased[^key-ea507a93b266bbe0482a5b18abb4a36e] was a part–time retained or volunteer[^key-cff54a32f51485d32b269e72e5968e94] firefighter member at any time during his period of service (whether or not he was a whole-time firefighter member for part of that period), the amount of the death grant is the greater of—
+(4) Subject to paragraph (4A), where the deceased[^c-ea507a93b266bbe0482a5b18abb4a36e] was a part–time retained or volunteer[^c-cff54a32f51485d32b269e72e5968e94] firefighter member at any time during his period of service (whether or not he was a whole-time firefighter member for part of that period), the amount of the death grant is the greater of—
 
 - (a) three times his pensionable pay at the time of his death (which, if he was then employed part–time, would be calculated at the part–time rate), expressed as an annual rate; and
 - (b) the product of the formula—
@@ -1268,9 +1268,9 @@ the amount of the death grant is that greater amount.
   - G is the deceased’s qualifying service; and
   - H is the pensionable pay that he would have received if, throughout his period of service, he had been a whole–time firefighter of equivalent role and length of service.
 
-(4A)[^key-6860f963a3636011432def63fb998878] In the case of a firefighter member who was a special firefighter member, paragraph (4) shall apply with the substitution in sub-paragraph (a) of “twice” for “three times”, of “2” for “3” and “special pensionable service” for “pensionable service” where appropriate in the formula.
+(4A)[^c-6860f963a3636011432def63fb998878] In the case of a firefighter member who was a special firefighter member, paragraph (4) shall apply with the substitution in sub-paragraph (a) of “twice” for “three times”, of “2” for “3” and “special pensionable service” for “pensionable service” where appropriate in the formula.
 
-(5) Subject to paragraph (5A), where the deceased[^key-03f062b4464e10d72469cae678eb2c1a]—
+(5) Subject to paragraph (5A), where the deceased[^c-03f062b4464e10d72469cae678eb2c1a]—
 
 - (a) had become entitled to two pensions under article 17(1) at the time of his death; and
 - (b) had been a part–time firefighter member during the period of service in respect of which he was entitled to a second pension under article 17(4) (whether or not he had been a whole-time firefighter member for part of that period),
@@ -1281,7 +1281,7 @@ the amount is whichever is the greatest of—
 - (ii) the product of the formula specified in paragraph (3); and
 - (iii) the product of the formula specified in paragraph (4).
 
-(5A)[^key-2bec42d6d8227d4c01b0d2e625084b3f] In the case of a firefighter member who was a special firefighter member, paragraph (5) shall apply with the substitution, in sub-paragraph (b)(i), of “twice” for “three times” and with the modifications to paragraphs (3) and (4) applied by paragraphs (3A) and (4A).
+(5A)[^c-2bec42d6d8227d4c01b0d2e625084b3f] In the case of a firefighter member who was a special firefighter member, paragraph (5) shall apply with the substitution, in sub-paragraph (b)(i), of “twice” for “three times” and with the modifications to paragraphs (3) and (4) applied by paragraphs (3A) and (4A).
 
 (6) Where the deceased was absent from duty without pay immediately before the day on which he died, his pensionable pay for the purposes of this article, subject to paragraph (8), shall be taken to be the amount, expressed as an annual rate, of the pay appropriate to his role and conditioned hours on the last occasion that he received it.
 
@@ -1290,11 +1290,11 @@ the amount is whichever is the greatest of—
 (8) The pensionable pay of a person who—
 
 - (a) had made an election under article 58 (reckoning of unpaid period of absence), and
-- (b)[^key-d2b92202dc976306b11e7659ff783b51] dies without having paid in full the contributions due to the Board under that article,
+- (b)[^c-d2b92202dc976306b11e7659ff783b51] dies without having paid in full the contributions due to the Board under that article,
 
 shall be taken to be the amount, expressed as an annual rate, of the pensionable pay that would have been paid if the period of the person’s absence from duty without pay had reckoned as pensionable service.
 
-(9) Where paragraph (8) applies, the death grant shall be abated by the amount or, where there has been partial payment, the balance[^key-7063c419b7095222920b1d5bb1770bad] due to the Board under article 58(1).
+(9) Where paragraph (8) applies, the death grant shall be abated by the amount or, where there has been partial payment, the balance[^c-7063c419b7095222920b1d5bb1770bad] due to the Board under article 58(1).
 
 (10) Subject to paragraph (11), the death grant may be paid, in whole or in part to such person or persons as the Board thinks fit.
 
@@ -1302,7 +1302,7 @@ shall be taken to be the amount, expressed as an annual rate, of the pensionable
 
 (12) Where a conviction of the description mentioned in paragraph (11) is quashed on appeal, the Board may, if it has not then paid the death grant in full, pay part of it to the person whose conviction is quashed.
 
-#### 35A. Death grant for limited period[^key-99ad2f5488380def168436156f123a6f]
+#### 35A. Death grant for limited period[^c-99ad2f5488380def168436156f123a6f]
 
 (1) This article applies where a person—
 
@@ -1329,16 +1329,16 @@ shall be taken to be the amount, expressed as an annual rate, of the pensionable
 
 (11) Where this article applies, there is no entitlement to a death grant under article 35 (death grant) or a post-retirement death grant under article 36 or to a survivor’s pension or a bereavement pension or a child’s pension under Part 4 (survivors’ pensions).
 
-#### 35B. Death grant for extended limited period[^key-6196ca83ca86181cafa8316cc0ccf30f]
+#### 35B. Death grant for extended limited period[^c-6196ca83ca86181cafa8316cc0ccf30f]
 
 (1) This article applies where a person—
 
 - (a) was employed as a retained firefighter on or after 7th April 2000; and
 - (b) continued in such employment until the person died before 6th April 2006.
 
-(2) Where the deceased was married, or a member of a civil partnership, at the time of the deceased’s death, their spouse or civil partner may apply in writing to the Board for a death grant and any such application must be made on or before 1st September 2027[^key-2d67fd638d3a1a93b093ef4ad1a2715d].
+(2) Where the deceased was married, or a member of a civil partnership, at the time of the deceased’s death, their spouse or civil partner may apply in writing to the Board for a death grant and any such application must be made on or before 1st September 2027[^c-2d67fd638d3a1a93b093ef4ad1a2715d].
 
-(3) Subject to paragraph (4), where the deceased was not married, or a member of a civil partnership, at the time of the deceased’s death or where their spouse or civil partner has died since the deceased’s death, a child of the deceased may apply in writing to the Board for a death grant and any such application must be made on or before 1st September 2027[^key-899b9b53b348b0024120b5cb20d1f464].
+(3) Subject to paragraph (4), where the deceased was not married, or a member of a civil partnership, at the time of the deceased’s death or where their spouse or civil partner has died since the deceased’s death, a child of the deceased may apply in writing to the Board for a death grant and any such application must be made on or before 1st September 2027[^c-899b9b53b348b0024120b5cb20d1f464].
 
 (4) A person is not eligible for a child’s death grant under this article if the person would not have been eligible for a child’s pension by virtue of anything in article 29 (child’s pension: limitations and duration) of Part 4 at the time of the death of the deceased.
 
@@ -1351,11 +1351,11 @@ shall be taken to be the amount, expressed as an annual rate, of the pensionable
 (6) Subject to paragraph (15), a death grant under this article consists of—
 
 - (a) the basic death grant, calculated in accordance with paragraph (7); and
-- (b) the extended[^key-06de837031e243a7b24b6d4e4f36f1bd] death grant, calculated in accordance with paragraph (8), if the extended death grant is payable under paragraph (9).
+- (b) the extended[^c-06de837031e243a7b24b6d4e4f36f1bd] death grant, calculated in accordance with paragraph (8), if the extended death grant is payable under paragraph (9).
 
 (7) The amount of the basic death grant is a sum equal to the product of 2.5 and the amount of pensionable pay which the Board determine the deceased received in the deceased’s last year of service.
 
-(8) The amount of the extended[^key-f5aef1b1fc1d66ed186bf3da1b69ae6c] death grant must be calculated in accordance with the formula—
+(8) The amount of the extended[^c-f5aef1b1fc1d66ed186bf3da1b69ae6c] death grant must be calculated in accordance with the formula—
 
 [formula: see source](https://www.legislation.gov.uk/nisr/2007/215)
 
@@ -1364,7 +1364,7 @@ where—
 - A is the amount of pensionable pay which the Board determine the deceased received in their last year of service, and
 - B is the number of completed years (which has the meaning in article 60(2) (calculation of pensionable service) of Part 10) during which the deceased was employed as a retained firefighter in the period before 7th April 2000, as determined by the Board.
 
-(9) The extended[^key-f4a8d8276dcf2e5001d615f33a5e6f92] death grant is payable only where the deceased first took up employment as a retained firefighter before 7th April 2000.
+(9) The extended[^c-f4a8d8276dcf2e5001d615f33a5e6f92] death grant is payable only where the deceased first took up employment as a retained firefighter before 7th April 2000.
 
 (10) Where the Board determine that a death grant is payable under this article, the Board must pay the death grant during the period of three months beginning with the date on which the application for a death grant was received.
 
@@ -1382,13 +1382,13 @@ where—
 
 (1) This article applies where a person—
 
-- (a) first took up employment as a retained firefighter before 6th April 2006[^key-da9516ebb07729a2658a24439e5a15de];
-- (b) elected , was eligible to have elected, or would have been eligible but for their death to have elected,[^key-f2dc4d0e4a8669e3b332265f8e6ec526] to join this Scheme under article 66A (election to purchase service during the limited period) of Part 11 in respect of the person’s service during the limited period following an application under article 65A (purchase of service during the limited period) of Part 11; and
-- (c) died before 1st September 2027[^key-1c146964d8f995103e749484529b7d68] and without making an election under article 66A of Part 11 in respect of their service during the extended limited period following an application under article 65B of Part 11 (purchase of service during the extended limited period).
+- (a) first took up employment as a retained firefighter before 6th April 2006[^c-da9516ebb07729a2658a24439e5a15de];
+- (b) elected , was eligible to have elected, or would have been eligible but for their death to have elected,[^c-f2dc4d0e4a8669e3b332265f8e6ec526] to join this Scheme under article 66A (election to purchase service during the limited period) of Part 11 in respect of the person’s service during the limited period following an application under article 65A (purchase of service during the limited period) of Part 11; and
+- (c) died before 1st September 2027[^c-1c146964d8f995103e749484529b7d68] and without making an election under article 66A of Part 11 in respect of their service during the extended limited period following an application under article 65B of Part 11 (purchase of service during the extended limited period).
 
-(2) Where the deceased was married, or a member of a civil partnership, at the time of the deceased’s death, their spouse or civil partner may apply in writing to the Board for a death grant and any such application must be made on or before 1st September 2027[^key-71cc625ff8e5d9e48db68d54d6248ddf].
+(2) Where the deceased was married, or a member of a civil partnership, at the time of the deceased’s death, their spouse or civil partner may apply in writing to the Board for a death grant and any such application must be made on or before 1st September 2027[^c-71cc625ff8e5d9e48db68d54d6248ddf].
 
-(3) Subject to paragraph (4), where the deceased was not married, or a member of a civil partnership, at the time of the deceased’s death or where their spouse or civil partner has died since the deceased’s death, a child of the deceased may apply in writing to the Board for a death grant and any such application must be made on or before 1st September 2027[^key-da172746d2c2fa2fd4240d3afe16e842].
+(3) Subject to paragraph (4), where the deceased was not married, or a member of a civil partnership, at the time of the deceased’s death or where their spouse or civil partner has died since the deceased’s death, a child of the deceased may apply in writing to the Board for a death grant and any such application must be made on or before 1st September 2027[^c-da172746d2c2fa2fd4240d3afe16e842].
 
 (4) A person is not eligible for a child’s death grant under this article if the person would not have been eligible for a child’s pension by virtue of anything in article 29 (child’s pension: limitations and duration) of Part 4 at the time of the death of the deceased.
 
@@ -1405,7 +1405,7 @@ where—
 where –
 
 - A is the amount of pensionable pay which the Board determine the deceased received in their last year of service, and
-- B is the number of completed years (which has the meaning in article 60(2) (calculation of pensionable service) of Part 10, as determined by the Board, during which the deceased was employed as a retained firefighter in the period before—[^key-b4bfeed9a4c9d294b00c503f734f73a0]
+- B is the number of completed years (which has the meaning in article 60(2) (calculation of pensionable service) of Part 10, as determined by the Board, during which the deceased was employed as a retained firefighter in the period before—[^c-b4bfeed9a4c9d294b00c503f734f73a0]
   - (a) in the case of a retained firefighter who would have been eligible, but for his death, to make an election under article 66A (election to purchase service during the limited period or the extended limited period) of Part 11, in respect of his service during the limited period following an application under article 65A (purchase of service during the limited period) of Part 11, 31st March 2015;
   - (b) in any other case, 1st July 2000.
 
@@ -1419,7 +1419,7 @@ where –
 
 (11) Where this article applies, there is no entitlement to a death grant under article 35 (death grant) or a post-retirement death grant under article 36 (post-retirement death grant) of this Part or to a survivor’s pension or a bereavement pension or a child’s pension under Part 4.
 
-#### 36. Post-retirement death grant[^key-dbd1a117894b7fc6941d4b79f6cb3ad7]
+#### 36. Post-retirement death grant[^c-dbd1a117894b7fc6941d4b79f6cb3ad7]
 
 (1) Where—
 
@@ -1428,12 +1428,12 @@ where –
 
 the Board shall pay, by way of post retirement death grant, an amount equal to the difference between—
 
-- (i) the amount that it would have paid to the pensioner in that five year period (excluding any lump sum that he may have received on commutation under article 19 of Part 3)[^key-86ae456a7cdae4ccea70ebe4d0d4cdd7] , disregarding any increase in the pension that might have become payable after his death; and
-- (ii) the amount paid to him before his death, excluding[^key-00f20f0e719150256b04479ca034cb81] any lump sum that he may have received on commutation under article 19 [^key-8396def40d8524bffea9d2a139cf0d5c]....
+- (i) the amount that it would have paid to the pensioner in that five year period (excluding any lump sum that he may have received on commutation under article 19 of Part 3)[^c-86ae456a7cdae4ccea70ebe4d0d4cdd7] , disregarding any increase in the pension that might have become payable after his death; and
+- (ii) the amount paid to him before his death, excluding[^c-00f20f0e719150256b04479ca034cb81] any lump sum that he may have received on commutation under article 19 [^c-8396def40d8524bffea9d2a139cf0d5c]....
 
-(2) Paragraphs (10) to (12)[^key-43c388f74b40870247c4a54f30e2b0dd] of article 35 shall apply in relation to a grant under this article as they apply in relation to a death grant.
+(2) Paragraphs (10) to (12)[^c-43c388f74b40870247c4a54f30e2b0dd] of article 35 shall apply in relation to a grant under this article as they apply in relation to a death grant.
 
-#### 36A. Missed pension lump sum grant[^key-06aaea736659d616249b6a24da4b3eb1]
+#### 36A. Missed pension lump sum grant[^c-06aaea736659d616249b6a24da4b3eb1]
 
 (1) This article applies where a person—
 
@@ -1549,26 +1549,26 @@ where—
 
 ### PART 6 — PENSION SHARING ON DIVORCE
 
-#### 37. Pension credit member’s entitlement to pension[^key-e8e1053c562f011cdf19d5b1ba412fd9]
+#### 37. Pension credit member’s entitlement to pension[^c-e8e1053c562f011cdf19d5b1ba412fd9]
 
 (1) A pension credit member is entitled to a pension for life which becomes payable—
 
-- (a) when he attains the age of 65 or the age of 60 where the pension debit member is a special member[^key-50fc844c01159916c2ac25a4527bef63]; or
+- (a) when he attains the age of 65 or the age of 60 where the pension debit member is a special member[^c-50fc844c01159916c2ac25a4527bef63]; or
 - (b) if it is later, when the pension sharing order under which he is entitled to the pension credit takes effect.
 
 (2) The pension must be of such an amount that its actuarial value is equal to the member’s pension credit, as calculated from tables prepared by the Scheme Actuary and in accordance with regulations made under paragraph 5(b) of Schedule 5 to the 1999 Order.
 
-#### 38. Commutation of whole of pension credit benefits[^key-d3f02cd6b980ad925ebc6147863865e1]
+#### 38. Commutation of whole of pension credit benefits[^c-d3f02cd6b980ad925ebc6147863865e1]
 
-(1) Where the amount of pension payable under this Part does not exceed the trivial commutation lump sum limit in paragraph 7 of Schedule 29 to the Finance Act 2004 (lump sum rule)[^key-4aa06df5cfd68fd10d7eaff06568aba9], the Board may with the agreement of the pension credit member, commute for a lump sum the whole of the pension to which a pension credit member is entitled under article 37 if, after commutation, the lump sum would be a trivial commutation lump sum death benefit within the meaning of paragraph 20 of Schedule 29 to the Finance Act 2004.
+(1) Where the amount of pension payable under this Part does not exceed the trivial commutation lump sum limit in paragraph 7 of Schedule 29 to the Finance Act 2004 (lump sum rule)[^c-4aa06df5cfd68fd10d7eaff06568aba9], the Board may with the agreement of the pension credit member, commute for a lump sum the whole of the pension to which a pension credit member is entitled under article 37 if, after commutation, the lump sum would be a trivial commutation lump sum death benefit within the meaning of paragraph 20 of Schedule 29 to the Finance Act 2004.
 
 (2) The lump sum commuted under paragraph (1) is the actuarial equivalent of the pension at normal benefit age, calculated from tables prepared by the Scheme Actuary.
 
-#### 39. Commutation of part of pension credit benefits[^key-9ef7ede4e8fd6e4325031df32d1c36ed]
+#### 39. Commutation of part of pension credit benefits[^c-9ef7ede4e8fd6e4325031df32d1c36ed]
 
 (1) Subject to paragraph (3), a pension credit member may commute for a lump sum a portion of the pension to which he is entitled or prospectively entitled to under article 37 (“the commuted portion”).
 
-(2)[^key-abb638c7f33a51d613db1e23b7f442b5] The commuted portion must not exceed one quarter of the amount of the pension.
+(2)[^c-abb638c7f33a51d613db1e23b7f442b5] The commuted portion must not exceed one quarter of the amount of the pension.
 
 (3) Paragraph (1) does not apply if the pension debit member from whose rights the pension credit member’s pension credit is derived has received a lump sum under article 19 (commutation: general) before the date on which the pension sharing order takes effect.
 
@@ -1583,7 +1583,7 @@ whichever is the later.
 
 (6) A person’s notice of commutation takes effect on the date on which the pension under article 37 becomes payable.
 
-(7) Subject to paragraphs (7A) to (7C), when a person’s notice[^key-af855d29ec11713f4ac1a5b7bdfffd62] of commutation takes effect, the Board shall—
+(7) Subject to paragraphs (7A) to (7C), when a person’s notice[^c-af855d29ec11713f4ac1a5b7bdfffd62] of commutation takes effect, the Board shall—
 
 - (a) reduce the pension by the commuted portion;
 - (b) calculate the lump sum by multiplying by 12 the amount of the person’s pension represented by the commuted portion at the date of retirement; and
@@ -1593,13 +1593,13 @@ whichever is the later.
 
 whichever is the later.
 
-(7A)[^key-e56724d2e58e5a64e9a94b9c183a9789] Where the pension debit member in relation to the pension to be commuted under paragraph (1) is a special member, the lump sum shall be calculated under paragraph (7B and 7C) and sub-paragraph (b) of paragraph (7) shall not apply.
+(7A)[^c-e56724d2e58e5a64e9a94b9c183a9789] Where the pension debit member in relation to the pension to be commuted under paragraph (1) is a special member, the lump sum shall be calculated under paragraph (7B and 7C) and sub-paragraph (b) of paragraph (7) shall not apply.
 
 (7B) Subject to paragraph (7C), the lump sum shall be calculated by multiplying the amount of the person’s pension represented by the commuted portion at the time when the pension becomes payable under article 37 by the factor specified in the table in Schedule ZA by reference to his age at that time.
 
 (7C) A lump sum payable under paragraph (7B) shall be reduced to the extent necessary to prevent the payment of it resulting in a scheme chargeable payment.
 
-#### 40. Application of general rules[^key-3a51e21b6eb5956ec643cb21af42cd1c]
+#### 40. Application of general rules[^c-3a51e21b6eb5956ec643cb21af42cd1c]
 
 (1) The provisions of this Scheme specified in paragraph (2) apply to pension credit members and awards payable to or in respect of them; but except where other provision is made by this Part or a contrary intention appears—
 
@@ -1617,14 +1617,14 @@ whichever is the later.
 - (e) article 98 (payments for minors and persons incapable of managing their affairs); and
 - (f) article 99 (payment of awards: further supplementary provision).
 
-#### 41. Post-retirement death grant: pension credit members[^key-c7f7fe25d665365b5844da70537c7d33]
+#### 41. Post-retirement death grant: pension credit members[^c-c7f7fe25d665365b5844da70537c7d33]
 
 (1) Where—
 
 - (a) a pension credit member dies within five years of the pension under article 37 coming into payment and before his 75th birthday; and
 - (b) there is a difference between—
   - (i) the amount that is five times the pension, calculated at the annual rate effective on the day that it came into payment; and
-  - (ii)[^key-f16af56a37a9af5c9ce13b6efd670a2b] the instalments of pension that have been paid,
+  - (ii)[^c-f16af56a37a9af5c9ce13b6efd670a2b] the instalments of pension that have been paid,
 
 the Board shall pay a post-retirement death grant of the amount of that difference.
 
@@ -1632,7 +1632,7 @@ the Board shall pay a post-retirement death grant of the amount of that differen
 
 (3) For the purposes of paragraph (1), any increases which, if the pension had continued in payment, would have been taken into account, shall be disregarded.
 
-#### 41A. Death grants where pension credit member dies before pension credit benefits payable[^key-966582bff7bcfa1bd2071e96c59ec805]
+#### 41A. Death grants where pension credit member dies before pension credit benefits payable[^c-966582bff7bcfa1bd2071e96c59ec805]
 
 (1) If a pension credit member dies before any benefit deriving from the member’s pension have become payable to him under this Scheme, a lump sum death grant is to be paid to his personal representatives.
 
@@ -1640,7 +1640,7 @@ the Board shall pay a post-retirement death grant of the amount of that differen
 
 ### PART 7 — RESERVISTS
 
-#### 42. Interpretation of Part[^key-8fca937e3363954c4d9490f2cc2319c9]
+#### 42. Interpretation of Part[^c-8fca937e3363954c4d9490f2cc2319c9]
 
 In this Part—
 
@@ -1652,16 +1652,16 @@ In this Part—
   - (b) by virtue of a call out for permanent service or a recall under the Reserve Forces Act 1980[^f00026] or Part 7 of the 1996 Act; and
 - “reservist” means a person who, immediately before a forces period, was a firefighter.
 
-#### 43. Continuity of employment[^key-700f63a4f47e155799064addd8e40133]
+#### 43. Continuity of employment[^c-700f63a4f47e155799064addd8e40133]
 
 (1) For the purposes of this Scheme, a reservist shall be treated as having continued, throughout his forces period—
 
 - (a) to be a firefighter; and
 - (b) subject to paragraph (2), for the purposes of his pensionable service under Part 10, employed by the Board.
 
-(2) Where, before his forces period, a reservist had elected to purchase additional service under Chapter 2 of Part 11 by periodical contributions, his forces period is not reckonable as additional[^key-78e40aff591d0cb37c618912ea94cf9c] service unless the contributions payable in respect of it have been paid (whether during his forces period or, if the Board has agreed that contributions may be discontinued as mentioned in paragraph (2) of article 68 (discontinuance period not exceeding six months), in accordance with that paragraph).
+(2) Where, before his forces period, a reservist had elected to purchase additional service under Chapter 2 of Part 11 by periodical contributions, his forces period is not reckonable as additional[^c-78e40aff591d0cb37c618912ea94cf9c] service unless the contributions payable in respect of it have been paid (whether during his forces period or, if the Board has agreed that contributions may be discontinued as mentioned in paragraph (2) of article 68 (discontinuance period not exceeding six months), in accordance with that paragraph).
 
-(3)[^key-66853747116527a6660a072ab8dcfe93] For the purposes of calculating the amount of a reservist’s pension contributions under article 63—
+(3)[^c-66853747116527a6660a072ab8dcfe93] For the purposes of calculating the amount of a reservist’s pension contributions under article 63—
 
 - (a) where he was a regular firefighter immediately before the forces period in question the pay that he would have received from the Board during his forces period shall be taken to be his pay for that period (his “notional regular pay”); and
 - (b) where he was a retained or volunteer firefighter immediately before the forces period in question, the amount determined by multiplying the average of his pensionable pay for the period of 12 months that immediately preceded his forces period (expressed as a daily rate) by the number of days in his forces period shall be taken to be his pay for that period (his “notional retained or volunteer pay”),
@@ -1675,7 +1675,7 @@ but this is subject to paragraph (4).
 
 is less than his notional regular pay or, as the case may be, his notional retained or volunteer pay for that first-mentioned period, he shall be treated as having no pensionable pay (and, accordingly, no liability to make pension contributions).
 
-#### 44. Awards on death or permanent disablement[^key-76bbb12d9404e4e22abc4d678d37b21b]
+#### 44. Awards on death or permanent disablement[^c-76bbb12d9404e4e22abc4d678d37b21b]
 
 (1) A reservist who, at the end of his forces period, is permanently disabled[^f00027] for performing the duties of a firefighter by reason of an infirmity that—
 
@@ -1684,7 +1684,7 @@ is less than his notional regular pay or, as the case may be, his notional retai
 
 is entitled to an award under article 12 (award on ill-health retirement).
 
-(2)[^key-057a60d1ab1d5951401f1fb83ba36cf7] Where a reservist dies—
+(2)[^c-057a60d1ab1d5951401f1fb83ba36cf7] Where a reservist dies—
 
 - (a) during his forces period; or
 - (b) while receiving a pension under paragraph (1),
@@ -1696,7 +1696,7 @@ an award shall be payable in accordance with paragraphs (3) and (4).
 - (a) is not the result of a qualifying injury; and—
 - (b) occurs during his forces period,
 
-a survivor’s pension under Chapter 1 of Part 4 is payable to his spouse, civil partner or cohabiting partner[^key-101036bd213f54d1e43ee86809deff0b] (as the case may be) as if the reservist were a former firefighter member entitled as mentioned in article 23(1)(a).
+a survivor’s pension under Chapter 1 of Part 4 is payable to his spouse, civil partner or cohabiting partner[^c-101036bd213f54d1e43ee86809deff0b] (as the case may be) as if the reservist were a former firefighter member entitled as mentioned in article 23(1)(a).
 
 (4) Where the reservist’s death occurs during his forces period and is not the result of a qualifying injury—
 
@@ -1705,13 +1705,13 @@ a survivor’s pension under Chapter 1 of Part 4 is payable to his spouse, civil
   - (ii) paragraphs (1)(c), (2) and (3) of article 30 were omitted; and
 - (b) a death grant is payable under article 35.
 
-#### 45. Reservists who do not resume employment with the Board[^key-33649cf631af0714412e52f631c1c85f]
+#### 45. Reservists who do not resume employment with the Board[^c-33649cf631af0714412e52f631c1c85f]
 
 A reservist who does not resume employment with the Board within one month of the end of his forces period shall be treated as having left the Board’s employment at the end of his forces period.
 
 ### PART 8 — DETERMINATION OF QUESTIONS AND APPEALS
 
-#### 46. Determinations and decisions of the Board[^key-9413a34a1eacc54403b00dcf5a5b0b2c]
+#### 46. Determinations and decisions of the Board[^c-9413a34a1eacc54403b00dcf5a5b0b2c]
 
 (1) The question whether a person is entitled to any and if so what awards shall be determined in the first instance by the Board.
 
@@ -1720,12 +1720,12 @@ A reservist who does not resume employment with the Board within one month of th
 - (a) whether a person has been disabled;
 - (b) whether any disablement is likely to be permanent;
 - (c) whether the person would be able to undertake regular employment;
-- (d) whether a person is capable[^key-6cf226662622a3c0f8460bec70951a7c] of performing the duties of a regular firefighter; or
+- (d) whether a person is capable[^c-6cf226662622a3c0f8460bec70951a7c] of performing the duties of a regular firefighter; or
 - (e) any other issue wholly or partly of a medical nature,
 
-the Board shall obtain the written opinion of an independent qualified medical practitioner[^key-6f40a5d73d841d4cbbb165e6cade72c9] selected by it and the opinion of the qualified medical practitioner shall be binding on the Board.
+the Board shall obtain the written opinion of an independent qualified medical practitioner[^c-6f40a5d73d841d4cbbb165e6cade72c9] selected by it and the opinion of the qualified medical practitioner shall be binding on the Board.
 
-(3) If by reason of the person’s refusal or wilful or negligent failure to submit to medical examination by the practitioner [^key-563c1cb870da3571f6e40947c66ec4ba]... selected by it the Board is unable to obtain the opinion mentioned in paragraph (2), it may—
+(3) If by reason of the person’s refusal or wilful or negligent failure to submit to medical examination by the practitioner [^c-563c1cb870da3571f6e40947c66ec4ba]... selected by it the Board is unable to obtain the opinion mentioned in paragraph (2), it may—
 
 - (a) on such other medical evidence as it thinks fit; or
 - (b) without medical evidence,
@@ -1737,7 +1737,7 @@ give such decision on the issue as it may choose to give.
 - (a) give written notice of the decision or determination to the person concerned; and
 - (b) in the case of a decision on an issue wholly or partly of a medical nature, unless paragraph (3) applies, supply him with a copy of the opinion obtained under paragraph (2).
 
-#### 47. Appeal against opinion on a medical issue[^key-ab0a6a9fb5da168af67a6f77213b13f4]
+#### 47. Appeal against opinion on a medical issue[^c-ab0a6a9fb5da168af67a6f77213b13f4]
 
 (1) Where—
 
@@ -1746,7 +1746,7 @@ give such decision on the issue as it may choose to give.
 
 the Board shall supply him with a copy, together with a statement informing the person concerned that, if he wishes to appeal against the opinion, he must give the Board written notice of his grounds of appeal, together with his name and address, within 14 days of the date on which he is so supplied.
 
-(2) If the person concerned is dissatisfied with the opinion which has been supplied to him under paragraph (1), he may appeal against it by giving notice to the Board in accordance with paragraph 4(1) of Schedule 2[^key-4e0cd811b9ef3c9f0c6d0c08c3c4ca2e].
+(2) If the person concerned is dissatisfied with the opinion which has been supplied to him under paragraph (1), he may appeal against it by giving notice to the Board in accordance with paragraph 4(1) of Schedule 2[^c-4e0cd811b9ef3c9f0c6d0c08c3c4ca2e].
 
 (3) The Board shall be bound by any decision on a medical issue duly given on an appeal under this article. A decision given under this article overrules that of the medical practitioner selected by the Board under article 46.
 
@@ -1754,13 +1754,13 @@ the Board shall supply him with a copy, together with a statement informing the 
 
 (5) Further provisions as to appeals under this article are contained in Schedule 2.
 
-#### 48. Appeals on other issues[^key-ef19621d364751a6fcb04843a02c1eee]
+#### 48. Appeals on other issues[^c-ef19621d364751a6fcb04843a02c1eee]
 
 Where a person makes a formal complaint to the Board which does not involve an issue of a medical nature, the Board shall deal with the complaint under the arrangements implemented by it pursuant to the requirements of article 50 of the Pensions (Northern Ireland) Order 1995 (requirement for dispute resolution arrangements) and the Occupational Pension Schemes (Internal Dispute Resolution Procedures) (Consequential and Miscellaneous amendments) Regulations (Northern Ireland) 2008.
 
 ### PART 9 — REVIEW, WITHDRAWAL AND FORFEITURE OF AWARDS
 
-#### 49. Review of ill-health pension[^key-c9192d3ad6275c11d6b1e2359bbd0e9f]
+#### 49. Review of ill-health pension[^c-c9192d3ad6275c11d6b1e2359bbd0e9f]
 
 (1) So long as a person—
 
@@ -1774,7 +1774,7 @@ the Board shall consider, at such intervals as it thinks proper, whether he has 
 
 (2) The Board shall, at such intervals as it thinks proper, consider in relation to a person whose deferred pension is being paid early by virtue of article 13(4) (early payment of deferred pension on permanent disablement), the same matters as they are required to consider in relation to persons of the description mentioned in paragraph (1).
 
-#### 50. Consequences of review[^key-2cbab551cfc8ba971c1d26dc4a7d380a]
+#### 50. Consequences of review[^c-2cbab551cfc8ba971c1d26dc4a7d380a]
 
 (1) If, on such consideration as is mentioned in article 49(1), it is found that a person who is in receipt of a higher tier ill–health pension has become capable of undertaking regular employment, his entitlement to that pension shall cease with immediate effect.
 
@@ -1791,7 +1791,7 @@ his entitlement to a lower tier ill–health pension shall cease, with immediate
 
 (5) If, on such consideration as is mentioned in article 49(2), it is found that a person whose deferred pension is being paid early has become capable of undertaking regular employment his entitlement to early payment of the deferred pension shall cease with immediate effect.
 
-#### 51. Reduction of award in case of default[^key-d58a40ed35b8c4644388d4d5932e2871]
+#### 51. Reduction of award in case of default[^c-d58a40ed35b8c4644388d4d5932e2871]
 
 (1) Subject to paragraph (2), where a person—
 
@@ -1809,7 +1809,7 @@ the amount of the reduced pension shall be increased to that of the notional def
 
 (3) The notional deferred pension is the deferred pension that would have been payable if the person had become entitled to one on the date of his ceasing to serve.
 
-#### 52. Withdrawal of pension during service as firefighter[^key-5c8807ac247f20ea19861008e3edd39c]
+#### 52. Withdrawal of pension during service as firefighter[^c-5c8807ac247f20ea19861008e3edd39c]
 
 (1) Subject to paragraph (2), the Board may withdraw the whole or any part of the pension for any period during which the person entitled to it is again employed as a firefighter by the Board, or by any fire authority in England, Scotland or Wales.
 
@@ -1829,11 +1829,11 @@ paragraph (1) applies only as regards the pension referable to his previous reta
 
 shall, as soon as reasonably practicable after accepting that offer, give notice in writing to the Board, specifying the name of his employing fire authority.
 
-#### 53. Withdrawal of early payment of deferred pension[^key-77924bf5a773bfea9dbe5cc2b646c8dc]
+#### 53. Withdrawal of early payment of deferred pension[^c-77924bf5a773bfea9dbe5cc2b646c8dc]
 
-A person who, on dismissal from the Board’s employment, becomes entitled to a deferred pension under article 13, shall not be entitled to early payment of the deferred pension before reaching the age of 65 or the age of 60 in the case of a special member[^key-ce080fe09f169d47526208f946175cf9], unless the Board determines otherwise.
+A person who, on dismissal from the Board’s employment, becomes entitled to a deferred pension under article 13, shall not be entitled to early payment of the deferred pension before reaching the age of 65 or the age of 60 in the case of a special member[^c-ce080fe09f169d47526208f946175cf9], unless the Board determines otherwise.
 
-#### 54. Withdrawal of pension on conviction of certain offences[^key-e2bcfccff7001ca4553e063b4a8ab04e]
+#### 54. Withdrawal of pension on conviction of certain offences[^c-e2bcfccff7001ca4553e063b4a8ab04e]
 
 (1) Where paragraph (2) applies the Board may withdraw the pension in whole or in part and permanently or temporarily as it thinks fit.
 
@@ -1847,7 +1847,7 @@ A person who, on dismissal from the Board’s employment, becomes entitled to a 
 (3) The offences mentioned in paragraph (2)(a) are—
 
 - (a) an offence of treason; and
-- (b) one or more offences under the Official Secrets Acts 1911 to 1989[^f00028] , or under section 18 of, or listed in section 33(3)(a) of, the National Security Act 2023,[^key-e9384f12bae4b73902002729ce2d2c89] for which the pensioner has been sentenced, on the same occasion—
+- (b) one or more offences under the Official Secrets Acts 1911 to 1989[^f00028] , or under section 18 of, or listed in section 33(3)(a) of, the National Security Act 2023,[^c-e9384f12bae4b73902002729ce2d2c89] for which the pensioner has been sentenced, on the same occasion—
   - (i) to a term of imprisonment of at least 10 years; or
   - (ii) to two or more consecutive terms amounting in aggregate to at least 10 years.
 
@@ -1860,7 +1860,7 @@ so much of any pension as has been withdrawn under this article.
 
 ### PART 10 — QUALIFYING SERVICE AND PENSIONABLE SERVICE
 
-#### 55. Qualifying service[^key-3a649a3c976f01c2a313c586b6ab29c1]
+#### 55. Qualifying service[^c-3a649a3c976f01c2a313c586b6ab29c1]
 
 (1) For the purposes of this Scheme, the following periods are periods of a person’s qualifying service—
 
@@ -1874,21 +1874,21 @@ so much of any pension as has been withdrawn under this article.
 - (d) any period of additional service purchased under Part 11;
 - (e) a period credited on acceptance of a transfer under Part 12;
 - (f) where the person was a member the 2007 Scheme, the period of service used for determining his eligibility for an award under that Scheme;
-- (g) any period of service that may be credited to the scheme member resulting from maternity, paternity , parental bereavement[^key-8921234b3dc12cbdf7f78822d92fc893] or adoption leave.
-- (h)[^key-5066386bce430eee33606aedd3499a13] any period of service during the limited period or extended limited period[^key-a7ef7c80d303855377b55d4099203470] in respect of which the person has paid the mandatory special period pension contributions; [^key-4994c12bda2d7486ffbd1fe66da9c26c]...
-- (i) any period of service as a retained firefighter before 1st July 2000 which, if it had been a period of service during the limited period or extended limited period[^key-d9f392b0b7f7a2a9f5ef0a629ee3c5cc] in relation to which mandatory special period pension contributions had been paid, would have been qualifying service in accordance with sub-paragraph (h). and[^key-b1323db7a783524354f563445b7ca78b]
+- (g) any period of service that may be credited to the scheme member resulting from maternity, paternity , parental bereavement[^c-8921234b3dc12cbdf7f78822d92fc893] or adoption leave.
+- (h)[^c-5066386bce430eee33606aedd3499a13] any period of service during the limited period or extended limited period[^c-a7ef7c80d303855377b55d4099203470] in respect of which the person has paid the mandatory special period pension contributions; [^c-4994c12bda2d7486ffbd1fe66da9c26c]...
+- (i) any period of service as a retained firefighter before 1st July 2000 which, if it had been a period of service during the limited period or extended limited period[^c-d9f392b0b7f7a2a9f5ef0a629ee3c5cc] in relation to which mandatory special period pension contributions had been paid, would have been qualifying service in accordance with sub-paragraph (h). and[^c-b1323db7a783524354f563445b7ca78b]
 - (j) any period of pensionable service for the active member’s account under the 2015 Scheme to which the person’s qualifying service had been added for the purposes of qualifying service in the 2015 Scheme.
 
-#### 56. Reckoning of pensionable service[^key-cc7622877e4addfce4d301f231205cff]
+#### 56. Reckoning of pensionable service[^c-cc7622877e4addfce4d301f231205cff]
 
-(1) Subject to paragraph (5) and article 56A[^key-0f4c4d61836fb8da988687ad8978297a], for the purposes of this Scheme, a person’s pensionable service accrues as pension contributions are paid, and consists of—
+(1) Subject to paragraph (5) and article 56A[^c-0f4c4d61836fb8da988687ad8978297a], for the purposes of this Scheme, a person’s pensionable service accrues as pension contributions are paid, and consists of—
 
 - (a) any period in respect of which he has paid pension contributions as a member of this Scheme;
 - (b) any period of service taken into account for the purposes of an award under article 13 (deferred pension) or article 17 (entitlement to two pensions) where, on again taking up employment with the Board—
   - (i) he becomes a member of the Scheme; and
   - (ii) in accordance with article 14 (cancellation of deferred pension) the award under article 13 or article 17 is cancelled;
-- (c) any period which he is entitled to reckon as pensionable service under article 58 (reckoning of unpaid period of absence) or article 59 (reckoning of maternity, paternity , parental bereavement[^key-4ee8b5d275a96703a3a4621b1b5cc647] and adoption leave, etc) or under any of articles 65 to 69;
-- (d) any period of pensionable service taken into account for the purposes of a lower tier[^key-2607d017a44cc4b7e853631b0481f661] ill–health award under article 12 of this Scheme (award on ill–health retirement) [^key-7903463c505fc1cc891a261980456441]... where—
+- (c) any period which he is entitled to reckon as pensionable service under article 58 (reckoning of unpaid period of absence) or article 59 (reckoning of maternity, paternity , parental bereavement[^c-4ee8b5d275a96703a3a4621b1b5cc647] and adoption leave, etc) or under any of articles 65 to 69;
+- (d) any period of pensionable service taken into account for the purposes of a lower tier[^c-2607d017a44cc4b7e853631b0481f661] ill–health award under article 12 of this Scheme (award on ill–health retirement) [^c-7903463c505fc1cc891a261980456441]... where—
   - (i) the award is cancelled under article 50; and
   - (ii) he remains a member of this Scheme;
 - (e) if he rejoins this Scheme, on again taking up employment with the Board, any period of service as a former member of the Scheme, in respect of which—
@@ -1896,7 +1896,7 @@ so much of any pension as has been withdrawn under this article.
   - (ii) no refund of pension contributions has been made; and
   - (iii) no transfer value payment has been made; and
 - (f) any period of service credited to the Scheme as pensionable service on acceptance of a transfer into the Scheme under Part 12.
-- (g)[^key-5fe64cdc8a98933d3c38c51c43d91192] any period of service treated as accrued in accordance with article 84A of Part 12.
+- (g)[^c-5fe64cdc8a98933d3c38c51c43d91192] any period of service treated as accrued in accordance with article 84A of Part 12.
 
 (2) The pensionable service of a firefighter may not exceed 45 years.
 
@@ -1920,15 +1920,15 @@ would exceed 40 years by normal retirement age.
 (6) An additional period of service is not to be taken into account in assessing—
 
 - (a) the amount of the higher tier ill-health pension included in a higher tier ill–health award under Part 3; or
-- (b) the amount of a death grant under article 35 of[^key-44c96bc0a5cdba71de4aa04e64689039] Part 5.
+- (b) the amount of a death grant under article 35 of[^c-44c96bc0a5cdba71de4aa04e64689039] Part 5.
 
-#### 56A. Reckoning of special pensionable service[^key-6d7d903d51609f496af9778ee3ef9349]
+#### 56A. Reckoning of special pensionable service[^c-6d7d903d51609f496af9778ee3ef9349]
 
 (1) Subject to paragraph (6), for the purposes of this Scheme, the special pensionable service of a special member accrues as special pension contributions or mandatory special period pension contributions are paid, and consists of—
 
 - (a) any period in respect of which he has paid special pension contributions as a special firefighter member;
-- (b) subject to paragraph (4), any period during the limited period or extended limited period[^key-03fe652e70ab78c0c8fe77561e5d6f2d] which he is entitled to reckon as special pensionable service under article 66A (election to purchase service during the limited period or extended limited period) of Part 11;
-- (c) any period which he is entitled to reckon as special pensionable service under article 59 (reckoning of maternity, paternity , parental bereavement[^key-679f391f8289651ce0dd4715a10b6164] and adoption leave, etc) of this Part or articles 65 and 66 to 69 of Part 11;
+- (b) subject to paragraph (4), any period during the limited period or extended limited period[^c-03fe652e70ab78c0c8fe77561e5d6f2d] which he is entitled to reckon as special pensionable service under article 66A (election to purchase service during the limited period or extended limited period) of Part 11;
+- (c) any period which he is entitled to reckon as special pensionable service under article 59 (reckoning of maternity, paternity , parental bereavement[^c-679f391f8289651ce0dd4715a10b6164] and adoption leave, etc) of this Part or articles 65 and 66 to 69 of Part 11;
 - (d) any period of special pensionable service taken into account for the purposes of a lower tier ill-health award under article 12 of Part 3 where—
   - (i) the award is cancelled under article 50 of Part 9; and
   - (ii) he remains a member of this Scheme;
@@ -1940,7 +1940,7 @@ would exceed 40 years by normal retirement age.
 
 (2) Subject to paragraph (3), the special pensionable service of a special member may not exceed 30 years.
 
-(3) A special firefighter member may not buy additional service, except service during the limited period or extended limited period[^key-e157c9cc8cdb949d77eef70be45551ad], if that service would increase his special pensionable service to more than 30 years by normal retirement age.
+(3) A special firefighter member may not buy additional service, except service during the limited period or extended limited period[^c-e157c9cc8cdb949d77eef70be45551ad], if that service would increase his special pensionable service to more than 30 years by normal retirement age.
 
 (4) Any additional period of service purchased or in the process of being purchased under Part 11 is reckonable as special pensionable service where the appropriate special pension contributions are paid; but where only a portion of the special pension contributions payable in respect of a period of additional service have been paid, only the equivalent portion of the period is reckonable as special pensionable service.
 
@@ -1956,9 +1956,9 @@ would exceed 40 years by normal retirement age.
 
 (7) Subject to article 84C of Part 12 (converting membership from standard membership to special membership – special pension members), a period of service which is reckonable as special pensionable service is not reckonable as pensionable service under article 56 of Part 10.
 
-#### 57. Non-reckonable service[^key-351c758fbc52160685e629c90bbed158]
+#### 57. Non-reckonable service[^c-351c758fbc52160685e629c90bbed158]
 
-The following periods are not reckonable as pensionable service or as special pensionable service[^key-1835e08697cee028b2652cfd60b60c6e]—
+The following periods are not reckonable as pensionable service or as special pensionable service[^c-1835e08697cee028b2652cfd60b60c6e]—
 
 - (a) any period of unpaid leave, other than a period that is reckonable by virtue of article 58;
 - (b) any period of service that has been taken into account for the purposes of a pension under article 13 (deferred pension) that has not been cancelled under article 14;
@@ -1966,21 +1966,21 @@ The following periods are not reckonable as pensionable service or as special pe
 - (d) any period of additional maternity, or adoption leave in respect of which the person entitled has declined to pay the required contributions; and
 - (e) any period of service that is pensionable service by virtue of any other provision of this Part.
 
-#### 57A. Period after transition date[^key-082e301178c5976dbd0889adf1289ecd]
+#### 57A. Period after transition date[^c-082e301178c5976dbd0889adf1289ecd]
 
 A period of service or of leave or unpaid leave after a person’s transition date is not reckonable as pensionable service or as special pensionable service under this Scheme.
 
-#### 58. Reckoning of unpaid period of absence[^key-2c1176305bb249cd370fe6c82de4b5c5]
+#### 58. Reckoning of unpaid period of absence[^c-2c1176305bb249cd370fe6c82de4b5c5]
 
-(1) A firefighter member may reckon as pensionable service or as special pensionable service[^key-64c5f98aa98ae6125e8be21361e4a367] all or part of a period of absence without pay if he elects to pay the pension contributions that he and the Board would have paid in accordance with Parts 11 and 13[^key-1d671169373faeadbc511add6cbe430d] in respect of that period if it had been a period of absence with pay.
+(1) A firefighter member may reckon as pensionable service or as special pensionable service[^c-64c5f98aa98ae6125e8be21361e4a367] all or part of a period of absence without pay if he elects to pay the pension contributions that he and the Board would have paid in accordance with Parts 11 and 13[^c-1d671169373faeadbc511add6cbe430d] in respect of that period if it had been a period of absence with pay.
 
-(2) An election under paragraph (1) is to be made by notice in writing given to the Board not later than six months from the end of the period of absence without pay[^key-e6452434b1fae1046b6acd868032245f] for which contributions are due.
+(2) An election under paragraph (1) is to be made by notice in writing given to the Board not later than six months from the end of the period of absence without pay[^c-e6452434b1fae1046b6acd868032245f] for which contributions are due.
 
 (3) The Board may pay the employer’s pension contributions that would otherwise fall to be paid by the employee as a result of his election.
 
 (4) Contributions falling to be paid by the employee under this article must be paid within six months of the date on which the notice under paragraph (2) is given.
 
-#### 59. Reckoning of maternity, paternity , parental bereavement and adoption leave, etc[^key-23e48f0ace9a8b1089c0eaaf5236b32e][^key-4b91c41b88e368365019be3daad3d4cd]
+#### 59. Reckoning of maternity, paternity , parental bereavement and adoption leave, etc[^c-23e48f0ace9a8b1089c0eaaf5236b32e][^c-4b91c41b88e368365019be3daad3d4cd]
 
 (1) A female firefighter member is entitled to reckon as pensionable service any period of—
 
@@ -1991,16 +1991,16 @@ A period of service or of leave or unpaid leave after a person’s transition da
 (2) A firefighter member is entitled to reckon as pensionable service any period of—
 
 - (a) paternity leave;
-- (aa)[^key-b0aaa74fd91237be893b250ac2b2f0d7] parental bereavement leave;
+- (aa)[^c-b0aaa74fd91237be893b250ac2b2f0d7] parental bereavement leave;
 - (b) ordinary adoption leave;
 - (c) paid additional adoption leave; and
 - (d) unpaid additional adoption leave in respect of which he has paid pension contributions in accordance with article 64.
 
 (3) Where there is a period of pensionable service both before and after a period of maternity or adoption leave in respect of which a person is entitled to pay pension contributions but does not do so, those periods shall be treated for the purposes of this Scheme as if they were continuous.
 
-(4)[^key-02834a50e8ede98a0b7c9901af345307] If the firefighter member was a special firefighter member immediately before any period which he is entitled to reckon under this article, he is entitled to reckon that period as special pensionable service.
+(4)[^c-02834a50e8ede98a0b7c9901af345307] If the firefighter member was a special firefighter member immediately before any period which he is entitled to reckon under this article, he is entitled to reckon that period as special pensionable service.
 
-#### 60. Calculation of pensionable service[^key-486c6fa692849950a31583d59ecb9bb7]
+#### 60. Calculation of pensionable service[^c-486c6fa692849950a31583d59ecb9bb7]
 
 (1) Paragraphs (3) to (5) are subject to article 56(2) and (3).
 
@@ -2027,7 +2027,7 @@ A period of service or of leave or unpaid leave after a person’s transition da
 
 (5) The pensionable service of a retained or volunteer firefighter member for any year or part of a year of his service shall be assessed as a proportion of whole-time service in accordance with the formula—
 
-- (A/B)[^key-4989ca87259c192fec2886204f27fbe6]
+- (A/B)[^c-4989ca87259c192fec2886204f27fbe6]
 
 where
 
@@ -2041,18 +2041,18 @@ where
 
 the credited period counts as pensionable service reckonable by reason of employment before and after the material date in the same proportion as that between the parts of the previous employment period falling before and after the material date.
 
-(7)[^key-e66814f180f86e4ce33f4d2ff99638c7] Where the firefighter member is a special firefighter member, this article shall apply with the substitution of “special pensionable service” for “pensionable service” and with the substitution of “article 56A(2) and (3)” for “article 56(2) and (3)”.
+(7)[^c-e66814f180f86e4ce33f4d2ff99638c7] Where the firefighter member is a special firefighter member, this article shall apply with the substitution of “special pensionable service” for “pensionable service” and with the substitution of “article 56A(2) and (3)” for “article 56(2) and (3)”.
 
 ### PART 11 — PENSIONABLE PAY, PENSION CONTRIBUTIONS AND PURCHASE OF ADDITIONAL SERVICE
 
 #### CHAPTER 1 — PENSIONABLE PAY AND PENSION CONTRIBUTIONS
 
-##### 61. Pensionable pay[^key-4bb6b15ed32ce1afacd994fc249d160c]
+##### 61. Pensionable pay[^c-4bb6b15ed32ce1afacd994fc249d160c]
 
-(1) Subject to paragraphs (3) and (5A)[^key-97e00122011e51e236a235f7eb9192af][^key-7d131a42eba705ab6f80ba38ee6a7bd3] and article 63(3) the pensionable pay of a firefighter member, is the aggregate of—
+(1) Subject to paragraphs (3) and (5A)[^c-97e00122011e51e236a235f7eb9192af][^c-7d131a42eba705ab6f80ba38ee6a7bd3] and article 63(3) the pensionable pay of a firefighter member, is the aggregate of—
 
-- (a) his pay in relation to the performance of the duties of his role, except any allowance or emoluments paid to him on a temporary basis,[^key-4cc28e54f3ba1da2fd095cc7a85a9648] [^key-f9fb7b8c1c4f1d891887660236908124]...
-- (aa)[^key-948861a76899b4fa2444fc64e16d9f3c] the amount (if any) of any benefits which are pensionable under article 17B(1) of Part 3, and
+- (a) his pay in relation to the performance of the duties of his role, except any allowance or emoluments paid to him on a temporary basis,[^c-4cc28e54f3ba1da2fd095cc7a85a9648] [^c-f9fb7b8c1c4f1d891887660236908124]...
+- (aa)[^c-948861a76899b4fa2444fc64e16d9f3c] the amount (if any) of any benefits which are pensionable under article 17B(1) of Part 3, and
 - (b) his permanent emoluments (including, in the case of a retained firefighter, any retaining allowance).
 
 (2) Where a firefighter member surrenders the right to receive part of his pensionable pay in exchange for the provision by the Board of any non–cash benefit, the amount forgone shall continue to be treated as part of his pensionable pay for all purposes of this Scheme (including determining pension contributions and calculating awards).
@@ -2061,12 +2061,12 @@ the credited period counts as pensionable service reckonable by reason of employ
 
 (4) For the purposes of this article and article 62, the permitted maximum for a tax year is £108,600; but in relation to a tax year other than the tax year ending in 2007, this is subject to paragraph (5).
 
-(5) Where the retail price index for the month of September[^key-c058c3154c5db06965f1c0e4c83f2f27] in the tax year preceding the tax year in question is higher that it was for the previous September, the permitted maximum for the tax year in question shall be the amount arrived at—
+(5) Where the retail price index for the month of September[^c-c058c3154c5db06965f1c0e4c83f2f27] in the tax year preceding the tax year in question is higher that it was for the previous September, the permitted maximum for the tax year in question shall be the amount arrived at—
 
 - (a) by increasing the permitted maximum for the previous tax year by the same percentage as the percentage increase in the retail price index; and
 - (b) if the result is not a multiple of £600, by rounding it up to the nearest amount which is a multiple of £600.
 
-(5A)[^key-5c784e8dd912326f85d7342cc72ba3c2] Where before the date of coming into operation of this Order and after that date, any allowance or supplement is being paid to a firefighter member which the Board treats as pensionable, but is not—
+(5A)[^c-5c784e8dd912326f85d7342cc72ba3c2] Where before the date of coming into operation of this Order and after that date, any allowance or supplement is being paid to a firefighter member which the Board treats as pensionable, but is not—
 
 - (a) pensionable pay within the meaning of paragraph (1)(a);
 - (b) additional pension benefit under article 17A of Part 3 (long service); or
@@ -2074,31 +2074,31 @@ the credited period counts as pensionable service reckonable by reason of employ
 
 that allowance or supplement shall continue to be treated as pensionable for so long as the firefighter receives it without any break in payment.
 
-(5B)[^key-44917a05b2ba4ba40d084b15e2c24c37] Subject to paragraphs (5C) and (5D), where article 4B of Part 2 has applied to a member of this Scheme who has joined the 2015 Scheme with continuity of service and paragraph 1 or 2 of Schedule 7 (final salary link) to the 2014 Act applies to that person, paragraph (1) of this article does not apply and final pensionable pay is determined in accordance with Schedule 7 to that Act so that the member’s pensionable pay under the 2015 Regulations as modified by paragraph 32 of Schedule 2[^key-767dc7bca4115796fd5c7ebe35903613] to those Regulations derived from service in the 2015 Scheme is to be regarded as pensionable pay derived from service in this Scheme.
+(5B)[^c-44917a05b2ba4ba40d084b15e2c24c37] Subject to paragraphs (5C) and (5D), where article 4B of Part 2 has applied to a member of this Scheme who has joined the 2015 Scheme with continuity of service and paragraph 1 or 2 of Schedule 7 (final salary link) to the 2014 Act applies to that person, paragraph (1) of this article does not apply and final pensionable pay is determined in accordance with Schedule 7 to that Act so that the member’s pensionable pay under the 2015 Regulations as modified by paragraph 32 of Schedule 2[^c-767dc7bca4115796fd5c7ebe35903613] to those Regulations derived from service in the 2015 Scheme is to be regarded as pensionable pay derived from service in this Scheme.
 
-(5C) Where paragraph (5B) and paragraph 32(4) of Schedule 2[^key-3a194f69bc575a9988faf81509c2bc68] to the 2015 Regulations apply to a member of this Scheme, the pensionable pay to be regarded as derived from service in this Scheme is the pensionable pay derived from service in the 2015 Scheme under the 2015 Regulations as modified by paragraph 32 of Schedule 2[^key-567d27ca19b9730dc333b693cc3cf8d6] to those Regulations for the last year of pensionable service in the 2015 scheme before the reduction in pensionable pay.
+(5C) Where paragraph (5B) and paragraph 32(4) of Schedule 2[^c-3a194f69bc575a9988faf81509c2bc68] to the 2015 Regulations apply to a member of this Scheme, the pensionable pay to be regarded as derived from service in this Scheme is the pensionable pay derived from service in the 2015 Scheme under the 2015 Regulations as modified by paragraph 32 of Schedule 2[^c-567d27ca19b9730dc333b693cc3cf8d6] to those Regulations for the last year of pensionable service in the 2015 scheme before the reduction in pensionable pay.
 
-(5D) Where paragraph 32(3) of Schedule 2[^key-150d8f15a080c0435610f04d496a7cd5] to the 2015 Regulations applies to a member of this Scheme, pensionable pay is determined in accordance with paragraph (1) and paragraph (5B) does not apply.
+(5D) Where paragraph 32(3) of Schedule 2[^c-150d8f15a080c0435610f04d496a7cd5] to the 2015 Regulations applies to a member of this Scheme, pensionable pay is determined in accordance with paragraph (1) and paragraph (5B) does not apply.
 
-(6)[^key-b570586599566a31aac535c7ea813336] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-b570586599566a31aac535c7ea813336] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 62. Final pensionable pay[^key-1ac8da17e9294e1d329a9c9e895c5a91]
+##### 62. Final pensionable pay[^c-1ac8da17e9294e1d329a9c9e895c5a91]
 
 (1) For the purpose of calculating pensions under this Scheme, the final pensionable pay of a firefighter member is the aggregate of pensionable pay received in respect of the 365 pensionable pay days ending with the relevant date, but this is subject to the following paragraphs.
 
-(1A)[^key-653ae8c4d63ababad7b41f894da5bb8d] Where the pensionable pay received by a firefighter in respect of the 365 pensionable pay days referred to in paragraph (1) includes an amount payable to him in respect of the benefits falling within article 17B of Part 3,[^key-3113eafb62fb7bcea1c0d27a655e66f8] that amount shall be disregarded for the purpose of ascertaining his final pensionable pay.
+(1A)[^c-653ae8c4d63ababad7b41f894da5bb8d] Where the pensionable pay received by a firefighter in respect of the 365 pensionable pay days referred to in paragraph (1) includes an amount payable to him in respect of the benefits falling within article 17B of Part 3,[^c-3113eafb62fb7bcea1c0d27a655e66f8] that amount shall be disregarded for the purpose of ascertaining his final pensionable pay.
 
-(2) Subject to paragraphs (2A) and (3)[^key-65234dbe6e08e630ad5ec56206f5c060], “the relevant date” for the purposes of paragraph (1)—
+(2) Subject to paragraphs (2A) and (3)[^c-65234dbe6e08e630ad5ec56206f5c060], “the relevant date” for the purposes of paragraph (1)—
 
 - (a) in relation to a firefighter member who is entitled to two pensions under article 17, means—
-  - (i) as regards the first pension, the date on which he was last paid at the higher rate [^key-5ff3ead39029c22e78ccb2a07eee611c]...;
+  - (i) as regards the first pension, the date on which he was last paid at the higher rate [^c-5ff3ead39029c22e78ccb2a07eee611c]...;
   - (ii) as regards the second pension the last day of his membership of the Scheme[^f00029] or, if he dies in service, the date of his death;
 - (b) in any other case, means the date of the firefighter member’s last day of pensionable service ,or if he dies in service, the date of his death.
 
-(2A)[^key-aab03c4f146cced5dcbc810b8cf89dea] In the case of a connected member or a deferred member to whom paragraph (5B) of article 61 applies, “the relevant date” means—
+(2A)[^c-aab03c4f146cced5dcbc810b8cf89dea] In the case of a connected member or a deferred member to whom paragraph (5B) of article 61 applies, “the relevant date” means—
 
 - (a) where the final salary link applies, the last day of pensionable service in the 2015 Scheme, or
-- (b) where paragraph 32(4) of Schedule 2[^key-4e31b0f9c2892379aa7b73570c60183b] to the 2015 Regulations applies, the last day of pensionable service in the 2015 Scheme before the reduction of pensionable pay in the 2015 Scheme.
+- (b) where paragraph 32(4) of Schedule 2[^c-4e31b0f9c2892379aa7b73570c60183b] to the 2015 Regulations applies, the last day of pensionable service in the 2015 Scheme before the reduction of pensionable pay in the 2015 Scheme.
 
 (3) Where a firefighter member’s final pensionable pay would have been more than the amount calculated in accordance with paragraph (1) if the relevant date had occurred on the corresponding day in either of the two periods of 365 pensionable pay days preceding the first day of the period of 365 pensionable pay days ending with the relevant date (as defined in paragraph (2) without reference to this paragraph), that corresponding day in whichever of those periods produces the higher amount shall be treated as the relevant date for the purposes of paragraph (1).
 
@@ -2108,14 +2108,14 @@ that allowance or supplement shall continue to be treated as pensionable for so 
 
 - (a) sick leave;
 - (b) stoppage of pay by way of punishment;
-- (c) ordinary maternity leave, ordinary adoption leave , parental bereavement leave[^key-b393af76c4a149ddbd2c15d37b1413d5] or paternity leave;
+- (c) ordinary maternity leave, ordinary adoption leave , parental bereavement leave[^c-b393af76c4a149ddbd2c15d37b1413d5] or paternity leave;
 - (d) paid additional maternity leave or additional adoption leave;
 - (e) unpaid periods in respect of which the firefighter member has paid pension contributions; or
 - (f) unpaid additional maternity leave or additional adoption leave in respect of which pension contributions have been paid,
 
 shall be disregarded.
 
-(5A)[^key-816446107143e81f50b0212bd621c4b7] The final pensionable pay of a firefighter member who—
+(5A)[^c-816446107143e81f50b0212bd621c4b7] The final pensionable pay of a firefighter member who—
 
 - (a) Is entitled to a long service increment; and
 - (b) Retires after 30<sup>th</sup> September 2006 and before 1<sup>st</sup> October 2007, or becomes entitled to a deferred pension under article 13 within that period,
@@ -2137,47 +2137,47 @@ shall be calculated taking into account whichever of the following paragraphs yi
 
 (5C) In paragraphs (5A) and (5B) “LS-related payment” means an interim or transitional payment connected with a firefighter member’s long service.
 
-(6)[^key-f081a76742bf50db0f3c880cd5c24bd7] The final pensionable pay of a retained or volunteer firefighter shall be determined by reference to the final pensionable pay of a regular firefighter employed in a similar role and with equivalent qualifying service.
+(6)[^c-f081a76742bf50db0f3c880cd5c24bd7] The final pensionable pay of a retained or volunteer firefighter shall be determined by reference to the final pensionable pay of a regular firefighter employed in a similar role and with equivalent qualifying service.
 
 (7) A firefighter member’s final pensionable pay in any tax year shall be taken not to include any amount in excess of the figure which is the permitted maximum for that year.
 
-(8)[^key-c3571aff86120dda30a2b0ac5dff783f] In paragraph (6) “role” in relation to a firefighter, means the role in which he is for the time being employed, being a role set out in “the Fire and Rescue Services Rolemaps” issued by the National Joint Council for Local Authority Fire and Rescue Services in August 2005..
+(8)[^c-c3571aff86120dda30a2b0ac5dff783f] In paragraph (6) “role” in relation to a firefighter, means the role in which he is for the time being employed, being a role set out in “the Fire and Rescue Services Rolemaps” issued by the National Joint Council for Local Authority Fire and Rescue Services in August 2005..
 
-(9)[^key-87a297d2f5f02463abb5a4a3a0994b9c] In the case of a special member, paragraph (2)(b) applies with the substitution of “special pensionable service” for “pensionable service”.
+(9)[^c-87a297d2f5f02463abb5a4a3a0994b9c] In the case of a special member, paragraph (2)(b) applies with the substitution of “special pensionable service” for “pensionable service”.
 
-(10) In the case of a person who joined this Scheme as a special deferred member or a special pensioner member, his final pensionable pay shall be the amount determined by the Board and set out in the notice given by the Board under article 65A(13) of this Part or, if a notice has been given under article 65B(13), set out in that notice[^key-e2433de3695ad7e2eb52ed0da06cce8d].
+(10) In the case of a person who joined this Scheme as a special deferred member or a special pensioner member, his final pensionable pay shall be the amount determined by the Board and set out in the notice given by the Board under article 65A(13) of this Part or, if a notice has been given under article 65B(13), set out in that notice[^c-e2433de3695ad7e2eb52ed0da06cce8d].
 
-##### 63. Pension contributions[^key-704dff7703453f9d1f61c1ebd295b215]
+##### 63. Pension contributions[^c-704dff7703453f9d1f61c1ebd295b215]
 
-(1) Subject to paragraph (1A), a firefighter member[^key-2da0e81d8a8b5eb0889d5218975d868b] shall pay pension contributions to the Board at the[^key-796aadccabf69f745c3e9b59736520cc] percentage[^key-52d636df165ca508ca35b7206845daa2] rate of his pensionable pay specified in the Table in Schedule A1 .
+(1) Subject to paragraph (1A), a firefighter member[^c-2da0e81d8a8b5eb0889d5218975d868b] shall pay pension contributions to the Board at the[^c-796aadccabf69f745c3e9b59736520cc] percentage[^c-52d636df165ca508ca35b7206845daa2] rate of his pensionable pay specified in the Table in Schedule A1 .
 
-(1A)[^key-7cc380b69135ed73479cb89ed32f178f] A firefighter member who is a special member shall pay pension contributions to the Board at the rate of 11% of his pensionable pay in respect of a period ending on 31st March 2012 and in respect of any period commencing on or after 1st April 2012, at the percentage rate of his pensionable pay for the period in question specified in the Table in Schedule AB1.
+(1A)[^c-7cc380b69135ed73479cb89ed32f178f] A firefighter member who is a special member shall pay pension contributions to the Board at the rate of 11% of his pensionable pay in respect of a period ending on 31st March 2012 and in respect of any period commencing on or after 1st April 2012, at the percentage rate of his pensionable pay for the period in question specified in the Table in Schedule AB1.
 
-(2) The contributions payable under paragraph (1) or (1A)[^key-3e9160cafe8b5d10bc05776c3507d26c] may be deducted by the Board from each instalment of pensionable pay as it becomes due, but this is subject to any other method of payment that may be agreed between the Board and the member.
+(2) The contributions payable under paragraph (1) or (1A)[^c-3e9160cafe8b5d10bc05776c3507d26c] may be deducted by the Board from each instalment of pensionable pay as it becomes due, but this is subject to any other method of payment that may be agreed between the Board and the member.
 
-(3) For the purposes of this article, the pensionable pay of a firefighter member during a period of maternity, paternity , parental bereavement[^key-44563ff24d45aec86e1044eb991997cb] or adoption leave shall be the pay that the person receives for that period including the value of any statutory maternity, paternity , parental bereavement or adoption pay under the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00030].
+(3) For the purposes of this article, the pensionable pay of a firefighter member during a period of maternity, paternity , parental bereavement[^c-44563ff24d45aec86e1044eb991997cb] or adoption leave shall be the pay that the person receives for that period including the value of any statutory maternity, paternity , parental bereavement or adoption pay under the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00030].
 
-##### 64. Optional pension contributions during maternity and adoption leave[^key-5fed6583ffce6b2eeab7a9801d31f453]
+##### 64. Optional pension contributions during maternity and adoption leave[^c-5fed6583ffce6b2eeab7a9801d31f453]
 
 (1) A firefighter member who−
 
-- (a) is on maternity or adoption leave, which would not otherwise count as pensionable service under article 56, or as special pensionable service under article 56A[^key-3c875fc751e8a2d119b631b9d0cd0731]; and
+- (a) is on maternity or adoption leave, which would not otherwise count as pensionable service under article 56, or as special pensionable service under article 56A[^c-3c875fc751e8a2d119b631b9d0cd0731]; and
 - (b) who, for the whole or part of the leave period, is not entitled to receive pay (including any statutory maternity or adoption pay under the Social Security Contributions and Benefits (Northern Ireland) Act 1992),
 
 may elect to pay pension contributions in respect of that leave period.
 
 (2) The contributions shall be calculated by applying article 63 to the pensionable pay (including any statutory maternity or adoption pay under the Social Security Contributions and Benefits (Northern Ireland) Act 1992) received immediately before the start of the unpaid period in question.
 
-(3) Subject to paragraphs (6) and (7)[^key-98234d7646fa165f3fda06b3766262e6], an election must be made by giving notice in writing to the Board before the expiry of the period of 30 days (or such longer period as the Board may allow) beginning with−
+(3) Subject to paragraphs (6) and (7)[^c-98234d7646fa165f3fda06b3766262e6], an election must be made by giving notice in writing to the Board before the expiry of the period of 30 days (or such longer period as the Board may allow) beginning with−
 
 - (a) the day on which he returns to work; or
 - (b) if he does not return to work after the leave period, the day he ceases to be employed by the Board.
 
-(3A)[^key-d942546db4f3fc26af364b3768879ab1] Where the firefighter member returns to work, or ceases to be employed, after the transition date, the election under paragraph (3) may only be made in respect of the period before the transition date.
+(3A)[^c-d942546db4f3fc26af364b3768879ab1] Where the firefighter member returns to work, or ceases to be employed, after the transition date, the election under paragraph (3) may only be made in respect of the period before the transition date.
 
 (4) On receipt of the notice, the Board shall calculate the amount of contributions due and shall give notice in writing of that amount to the person concerned.
 
-(5) Where the full amount of contributions due has not been paid within six months of the date of the notice given under paragraph (4), the person concerned shall be entitled to reckon as pensionable service or as special pensionable service[^key-209f9015ffd5fd8ee8ddf84bf5cfaa2e] such proportion of the period in respect of which contributions were due as the amount of contributions paid bears to the total amount of contributions due.
+(5) Where the full amount of contributions due has not been paid within six months of the date of the notice given under paragraph (4), the person concerned shall be entitled to reckon as pensionable service or as special pensionable service[^c-209f9015ffd5fd8ee8ddf84bf5cfaa2e] such proportion of the period in respect of which contributions were due as the amount of contributions paid bears to the total amount of contributions due.
 
 (6) Where a person dies before the end of the period of 30 days referred to in paragraph (3) without having given the required notice—
 
@@ -2186,7 +2186,7 @@ may elect to pay pension contributions in respect of that leave period.
   - (i) shall give to his personal representatives a statement of the amount of contributions due; and
   - (ii) may collect the contributions by deducting the amount of contributions due from the amount of the death grant payable under Part 5.
 
-(7)[^key-f8b532691d9417bc64c1494c33ebf1c7] Where a person to whom this article applies is a connected member who dies before the end of the period of 30 days referred to in paragraph (3) without having given the required notice—
+(7)[^c-f8b532691d9417bc64c1494c33ebf1c7] Where a person to whom this article applies is a connected member who dies before the end of the period of 30 days referred to in paragraph (3) without having given the required notice—
 
 - (a) that person shall be deemed to have given the required notice, and
 - (b) the Board—
@@ -2195,7 +2195,7 @@ may elect to pay pension contributions in respect of that leave period.
 
 #### CHAPTER 2 — PURCHASE OF ADDITIONAL SERVICE
 
-##### 65. Purchase of additional service[^key-5666d8e1f69f85fcca7a7e14a5ff289b]
+##### 65. Purchase of additional service[^c-5666d8e1f69f85fcca7a7e14a5ff289b]
 
 (1) A person who satisfies the conditions specified in paragraph (2) may, in accordance with this Chapter, purchase additional service for the purpose of securing increased benefits under this Scheme.
 
@@ -2222,16 +2222,16 @@ must not exceed 40 years.
 
 (6) The Board may permit a retained or volunteer firefighter to purchase additional service by periodical contributions; and in such a case it shall calculate the amount of the contributions by applying the rate determined by the Scheme Actuary to the firefighter’s reference pay.
 
-(7)[^key-e58af9bf7b80968974a41d1ab87dcdbb] In the case of a special firefighter member—
+(7)[^c-e58af9bf7b80968974a41d1ab87dcdbb] In the case of a special firefighter member—
 
 - (a) this article applies—
   - (i) in paragraph (2)(c) with the substitution of “30 years special pensionable service” for “40 years’ pensionable service”;
   - (ii) in paragraph (3) with the substitution of “special pensionable service” for “pensionable service” and“30 years” for “40 years”;
 - (b) in relation to paragraph (4)(a) the Scheme Actuary shall provide different tables for special members and in paragraph (4)(b) the determination by the Scheme Actuary shall take account of the purchase being made by a special member.
 
-##### 65A. Purchase of service during the limited period[^key-611e64966f5e49f9423c32506ce589ad]
+##### 65A. Purchase of service during the limited period[^c-611e64966f5e49f9423c32506ce589ad]
 
-(1) A person [^key-2b732a6ad7c680313337b30b93d3f02b]... who satisfies the conditions specified in paragraph (2) may, in accordance with the following provisions of this Chapter, elect to pay pension contributions in respect of his service during the limited period.
+(1) A person [^c-2b732a6ad7c680313337b30b93d3f02b]... who satisfies the conditions specified in paragraph (2) may, in accordance with the following provisions of this Chapter, elect to pay pension contributions in respect of his service during the limited period.
 
 (2) The conditions are that—
 
@@ -2275,7 +2275,7 @@ but the period of service referred to in sub-paragraph (a) or (b) does not, subj
 
 (14) Where it is not reasonably practicable to comply with any requirement set out in this article within the period specified, the Board or applicant as the case may be shall comply with that requirement as soon as reasonably practicable after the end of that period
 
-##### 65B. Purchase of service during the extended limited period[^key-f8ce2246ced4969e3aa2fd116acc9201]
+##### 65B. Purchase of service during the extended limited period[^c-f8ce2246ced4969e3aa2fd116acc9201]
 
 (1) A person who satisfies the conditions specified in paragraph (2) may, in accordance with the following provisions of this Chapter, elect to pay pension contributions in respect of the person’s service during the extended limited period.
 
@@ -2305,8 +2305,8 @@ but the period of service referred to in sub-paragraph (a) or (b) does not, subj
 
 (7) Where paragraph (1) applies—
 
-- (a) subject to article 66A(12)[^key-06dd13db829ccaae218531e377ba001c], mandatory special period pension contributions must be paid in respect of the person’s service during the mandatory special period; and
-- (b) mandatory special period pension contributions must be paid for the period required by article 66A(11)[^key-2b1fdfec6389355f8a48064292945666], where a person has elected to transfer their accrued rights in the FPS to their special membership.
+- (a) subject to article 66A(12)[^c-06dd13db829ccaae218531e377ba001c], mandatory special period pension contributions must be paid in respect of the person’s service during the mandatory special period; and
+- (b) mandatory special period pension contributions must be paid for the period required by article 66A(11)[^c-2b1fdfec6389355f8a48064292945666], where a person has elected to transfer their accrued rights in the FPS to their special membership.
 
 (8) Subject to paragraph (14), within three months of the second initial date, the Board must use reasonable endeavours to notify that they may be so entitled all those existing employees and former employees employed during the special employment period who either—
 
@@ -2342,7 +2342,7 @@ but the period of service referred to in sub-paragraph (a) or (b) does not, subj
 
 (14) Where it is not reasonably practicable to comply with any requirement set out in this article within the period specified, the Board or applicant as the case may be must comply with that requirement as soon as reasonably practicable after the end of that period, but this is subject to article 66B(13) (date by which election to purchase special service will cease to take effect).
 
-(15) In a case where a member makes an application under paragraph (10)(b) after 1 September 2027[^key-63b9f3888296ce19202a7d4b636f2f11], the Board must consult the Scheme Actuary when preparing the notice under paragraph (13).
+(15) In a case where a member makes an application under paragraph (10)(b) after 1 September 2027[^c-63b9f3888296ce19202a7d4b636f2f11], the Board must consult the Scheme Actuary when preparing the notice under paragraph (13).
 
 ##### 65C. Purchase of service during the extended limited period – supplemental provision
 
@@ -2371,9 +2371,9 @@ but the period of service referred to in sub-paragraph (a) or (b) does not, subj
 
 (10) The Board must calculate the amount of the special pension contributions payable in respect of special pensionable service during the extended limited period by applying a rate determined by the Scheme Actuary having regard to the rate required by paragraph (1A) of article 63 (pension contributions) for the appropriate period for the person’s pensionable pay.
 
-##### 66. Election to purchase additional service[^key-490d5767b7c0fffa49498fcc35757d43]
+##### 66. Election to purchase additional service[^c-490d5767b7c0fffa49498fcc35757d43]
 
-(1) Subject to article 66A, an election[^key-90da9401975f0b8ac0668fe4bbc02976] to pay a lump sum—
+(1) Subject to article 66A, an election[^c-90da9401975f0b8ac0668fe4bbc02976] to pay a lump sum—
 
 - (a) must be made by notice in writing given to the Board not later than 12 months after the date on which the person last became employed by the Board as a firefighter; and
 - (b) if the sum is not paid within three months after the date on which notice was given, shall be treated as not having been made.
@@ -2385,44 +2385,44 @@ but the period of service referred to in sub-paragraph (a) or (b) does not, subj
 - (a) takes effect on the day on which the written notice is received by the Board; and
 - (b) is irrevocable once the lump sum has been paid or, as the case may be, the first contribution has been deducted.
 
-##### 66A. Election to purchase service during the limited period or the extended limited period[^key-7fb40924f6bbba112f3a20ae416d654c][^key-250c595f72eaa43e46ee89b61146bff7]
+##### 66A. Election to purchase service during the limited period or the extended limited period[^c-7fb40924f6bbba112f3a20ae416d654c][^c-250c595f72eaa43e46ee89b61146bff7]
 
-(1) A person who intends to join this Scheme or purchase additional service during the extended limited period[^key-1745e4262cb8de66b52b9414235d910b] as a special pensioner member shall elect to pay mandatory special period pension contributions in respect of his service during the mandatory special period.
+(1) A person who intends to join this Scheme or purchase additional service during the extended limited period[^c-1745e4262cb8de66b52b9414235d910b] as a special pensioner member shall elect to pay mandatory special period pension contributions in respect of his service during the mandatory special period.
 
-(2) A special pensioner member shall pay the mandatory special period pension contributions by way of a lump sum contribution which the special pensioner member may request the Board to deduct from any lump sum to[^key-1cd0209877bca6f4ed8fef0bc9fee4de] which he is entitled under this Scheme—
+(2) A special pensioner member shall pay the mandatory special period pension contributions by way of a lump sum contribution which the special pensioner member may request the Board to deduct from any lump sum to[^c-1cd0209877bca6f4ed8fef0bc9fee4de] which he is entitled under this Scheme—
 
 - (a) pursuant to a notice to commute a portion of his pension under article 19 (commutation: general) of Part 3;
 - (b) under paragraph (8) of article 11A (special member’s ordinary pension) or under paragraph (10) of article 12A (retrospective award on ill-health retirement) of Part 3.
-- (c)[^key-da7312da519de84fc7a07c03f6893b7f] under article 20 (commutation: small pensions) of Part 3.
+- (c)[^c-da7312da519de84fc7a07c03f6893b7f] under article 20 (commutation: small pensions) of Part 3.
 
-(3) A person who intends to join this Scheme or purchase additional service during the extended limited period[^key-6d80a9147483851c136fdb7640532c14] as a special deferred member shall elect to pay mandatory special period pension contributions in respect of his service during the mandatory special period.
+(3) A person who intends to join this Scheme or purchase additional service during the extended limited period[^c-6d80a9147483851c136fdb7640532c14] as a special deferred member shall elect to pay mandatory special period pension contributions in respect of his service during the mandatory special period.
 
-(4)[^key-aeb251e5f1c5b66ed182467672fd31ce] The mandatory special period pension contributions may be paid by way of a lump sum contribution or may be paid by periodic contributions which must be calculated in accordance with tables provided by the Scheme Actuary so as to discharge the person’s liability as follows—
+(4)[^c-aeb251e5f1c5b66ed182467672fd31ce] The mandatory special period pension contributions may be paid by way of a lump sum contribution or may be paid by periodic contributions which must be calculated in accordance with tables provided by the Scheme Actuary so as to discharge the person’s liability as follows—
 
 - (a) over a period of 10 years, in relation to special period pension contributions which relate to service on or after 1 July 2000;
 - (b) over a period of 20 years, in relation to special period pension contributions which relate to service before 1 July 2000.
 
 (5) A special deferred member shall cease to pay periodic contributions referred to in paragraph (4) on the date on which his special deferred pension becomes payable, and he may then pay within three months of that date a lump sum of an amount equivalent to the contributions which would otherwise be paid calculated in accordance with tables provided by the Scheme Actuary.
 
-(6) Where paragraph (5) applies, a special deferred member may pay all or part of the lump sum required by that paragraph by deduction from any lump sum which he may be entitled to receive pursuant to a notice to commute a portion of his pension under paragraph (8) of article 11A (special member’s ordinary pension) or paragraph (10) of article 12A (retrospective award on ill-health retirement)[^key-0cbc2a9fcd759c0138d328a5ae0dfee8] article 19 (commutation: general) or article 20 (commutation: small pensions) of Part 3.
+(6) Where paragraph (5) applies, a special deferred member may pay all or part of the lump sum required by that paragraph by deduction from any lump sum which he may be entitled to receive pursuant to a notice to commute a portion of his pension under paragraph (8) of article 11A (special member’s ordinary pension) or paragraph (10) of article 12A (retrospective award on ill-health retirement)[^c-0cbc2a9fcd759c0138d328a5ae0dfee8] article 19 (commutation: general) or article 20 (commutation: small pensions) of Part 3.
 
-(7) Subject to paragraphs (11) and (12), a person who intends to join this Scheme or purchase additional service during the extended limited period[^key-1e7d2a96732cdd4a6371abbf97428b25] as a special firefighter member shall elect to pay mandatory special period pension contributions in respect of his service during the mandatory special period.
+(7) Subject to paragraphs (11) and (12), a person who intends to join this Scheme or purchase additional service during the extended limited period[^c-1e7d2a96732cdd4a6371abbf97428b25] as a special firefighter member shall elect to pay mandatory special period pension contributions in respect of his service during the mandatory special period.
 
-(7A)[^key-513a480a1cfae6a6140117663c3566d4] A person who intends to join this Scheme or purchase additional service during the extended limited period[^key-c4443241a64f015377e6e9f291dd96a0] as a connected special member shall make the election in paragraph (7) and where a person elects to join this Scheme or purchase additional service during the extended limited period as a connected special member—
+(7A)[^c-513a480a1cfae6a6140117663c3566d4] A person who intends to join this Scheme or purchase additional service during the extended limited period[^c-c4443241a64f015377e6e9f291dd96a0] as a connected special member shall make the election in paragraph (7) and where a person elects to join this Scheme or purchase additional service during the extended limited period as a connected special member—
 
 - (a) the reference to “special firefighter member” in this article and article 66B shall be treated as referring to a “connected special member”,
 - (b) the paragraphs referring to a “special firefighter member” in this article and article 66B shall be treated as referring to a “connected special member”.
 
-(8)[^key-7fd8f0c429cc7948f22e27cece6818af] The mandatory special period pension contributions may be paid by way of a lump sum contribution or may be paid by periodic contributions which must be calculated in accordance with tables provided by the Scheme Actuary so as to discharge the person’s liability as follows—
+(8)[^c-7fd8f0c429cc7948f22e27cece6818af] The mandatory special period pension contributions may be paid by way of a lump sum contribution or may be paid by periodic contributions which must be calculated in accordance with tables provided by the Scheme Actuary so as to discharge the person’s liability as follows—
 
 - (a) over a period of 10 years, in relation to special period pension contributions which relate to service on or after 1 July 2000;
 - (b) over a period of 20 years, in relation to special period pension contributions which relate to service before 1 July 2000.
 
 (9) If a special firefighter member makes a contributions election, or retires, he shall cease to pay periodic contributions and he may then pay within three months of the date of the contributions election a lump sum of an amount equivalent to the contributions which would otherwise be paid calculated in accordance with tables provided by the Scheme Actuary.
 
-(9A)[^key-1f896de734f2ab6f75a3ab2e1ca62660] Where a special firefighter member has not paid all the mandatory special period pension contributions before the date on which article 4B of Part 2 applies to that member, the member may continue to pay those contribution after that date.
+(9A)[^c-1f896de734f2ab6f75a3ab2e1ca62660] Where a special firefighter member has not paid all the mandatory special period pension contributions before the date on which article 4B of Part 2 applies to that member, the member may continue to pay those contribution after that date.
 
-(10) Where paragraph (9) applies so that a lump sum may be payable as a result of his retirement, the member may pay all or part of the lump sum required by that paragraph by deduction from any lump sum which he may be entitled to receive pursuant to a notice to commute a portion of his pension under paragraph (8) of article 11A (special member’s ordinary pension), paragraph (10) of article 12A (retrospective award on ill-health retirement)[^key-60e7050f8d4873f7a3da69f9825f51e7] article 19 (commutation: general) or article 20 (commutation: small pensions) of Part 3.
+(10) Where paragraph (9) applies so that a lump sum may be payable as a result of his retirement, the member may pay all or part of the lump sum required by that paragraph by deduction from any lump sum which he may be entitled to receive pursuant to a notice to commute a portion of his pension under paragraph (8) of article 11A (special member’s ordinary pension), paragraph (10) of article 12A (retrospective award on ill-health retirement)[^c-60e7050f8d4873f7a3da69f9825f51e7] article 19 (commutation: general) or article 20 (commutation: small pensions) of Part 3.
 
 (11) A special firefighter member who elects under paragraph (5) of article 81A of Part 12 to transfer his accrued rights in the Firefighters’ Pension Scheme to his special membership of this Scheme shall pay mandatory special period pension contributions for the period of his service during the mandatory special period from the later of the date on which his pensionable service under the Firefighters’ Pension Scheme ended and 1st July 2000.
 
@@ -2444,7 +2444,7 @@ but the period of service referred to in sub-paragraph (a) or (b) does not, subj
 - “future interest rate” is a rate equivalent to 1.5% plus the FTSE Actuaries UK Gilt 10 years yield index less the average of the FTSE Actuaries UK Index-linked Gilt 5 to 15 years index with assumed inflation rates of 0% and 5%
 - “past interest rate” is a rate equivalent to the interest available on the most recent issue of five-year fixed interest savings certificates from National Savings and Investments available on the 15th day of each month which would have been applicable to the period in question.
 
-(14)[^key-281e8917b04a17430487309c3bb8d1ff] In respect of the pension contributions referred to at paragraph (12), interest is payable in respect of contributions payable from and including 6th April 2006, until the date on which the person joins this Scheme as a standard member (“the assumed standard period”).
+(14)[^c-281e8917b04a17430487309c3bb8d1ff] In respect of the pension contributions referred to at paragraph (12), interest is payable in respect of contributions payable from and including 6th April 2006, until the date on which the person joins this Scheme as a standard member (“the assumed standard period”).
 
 (15) Interest is payable in respect of the pension contribution required to be paid in respect of a special member’s service during the assumed standard period as follows—
 
@@ -2463,20 +2463,20 @@ but the period of service referred to in sub-paragraph (a) or (b) does not, subj
 - “future interest rate” is a rate equivalent to 1.5% plus the FTSE Actuaries UK Gilt 10 years yield index less the average of the FTSE Actuaries UK Index-linked Gilt 5 to 15 years index with assumed inflation rates of 0% and 5%;
 - “past interest rate” is a rate equivalent to the interest available on the most recent issue of five-year fixed interest saving certificates from National Savings and Investments available on the 15th day of each month which would have been applicable to the period in question.
 
-##### 66B. Election to purchase service during the limited period or the extended limited period: supplemental provision[^key-63fc2d91487bb7c8ef077b0ba8f307f1]
+##### 66B. Election to purchase service during the limited period or the extended limited period: supplemental provision[^c-63fc2d91487bb7c8ef077b0ba8f307f1]
 
-(1)[^key-b4410a16821f2c1647672bab9ddab4a9] Subject to paragraphs (12), (13) and (14), an election under article 66A must be made by giving written notice to the Board, which must be given—
+(1)[^c-b4410a16821f2c1647672bab9ddab4a9] Subject to paragraphs (12), (13) and (14), an election under article 66A must be made by giving written notice to the Board, which must be given—
 
 - (a) where the Board gave notice under article 65A(13), during the period of four months beginning with the date on which such notice was given; or
 - (b) where the Board gave notice under article 65B(8), during the period of six months beginning with the date on which such notice was given.
 
 (2) In preparing the tables required by paragraphs (5) and (9) of article 66A the Scheme Actuary must have regard to the rate of contribution referable to the period in respect of which the contribution relates and must use such other factors as he considers appropriate.
 
-(3) The period of a person’s service referred to in paragraphs (1), (3) or (7) of article 66A shall be that part of the service set out in the Board’s notice to him under article 65A(13) or article 65B(13) as the case may be[^key-8970e24cf877a0fb7452d280a4062678] in respect of which he elects to pay mandatory special period pension contributions from a date selected by him before 6th April 2006, or which applies under article 66A(11), and ending on the earlier of the date on which he joined this Scheme as a special member or a standard member and the date, if applicable, on which he was dismissed or retired from employment as a regular or retained firefighter.
+(3) The period of a person’s service referred to in paragraphs (1), (3) or (7) of article 66A shall be that part of the service set out in the Board’s notice to him under article 65A(13) or article 65B(13) as the case may be[^c-8970e24cf877a0fb7452d280a4062678] in respect of which he elects to pay mandatory special period pension contributions from a date selected by him before 6th April 2006, or which applies under article 66A(11), and ending on the earlier of the date on which he joined this Scheme as a special member or a standard member and the date, if applicable, on which he was dismissed or retired from employment as a regular or retained firefighter.
 
 (4) Where a person is required under paragraph (2), or has chosen under paragraph (4) or (8) of article 66A, to pay a lump sum contribution and this sum has not been paid within six months of his election under paragraph (1), (4) or (8), or such longer period as the Board may notify in writing to the person, the election under paragraph (1), (4) or (8) as the case may be shall be treated as not having been made.
 
-(4A)[^key-2b7aa6b4913faf3512ed6267f1b9de4c] Where a person is required under paragraph (2), or has chosen under paragraph (4), (8) or (9), of article 66A, to pay a lump sum contribution, this sum must be paid in full (subject to any deduction from the lump sum pursuant to paragraph (2), (6) or (10) of article 66A) before the pension to which the lump sum relates comes into payment.
+(4A)[^c-2b7aa6b4913faf3512ed6267f1b9de4c] Where a person is required under paragraph (2), or has chosen under paragraph (4), (8) or (9), of article 66A, to pay a lump sum contribution, this sum must be paid in full (subject to any deduction from the lump sum pursuant to paragraph (2), (6) or (10) of article 66A) before the pension to which the lump sum relates comes into payment.
 
 (5) Where a person has chosen under paragraph (4) or (8) of article 66A to pay periodic contributions—
 
@@ -2496,7 +2496,7 @@ where—
 
 (7) In the case of a firefighter to whom paragraph (11) of article 66A applies—
 
-- (a) his pension contribution as a standard member during the limited period or the extended limited period[^key-9484e9f9a9c85b3a34a48aa057a7dcfd] shall be calculated as though these were mandatory special period pension contributions under paragraph (8) of article 66A;
+- (a) his pension contribution as a standard member during the limited period or the extended limited period[^c-9484e9f9a9c85b3a34a48aa057a7dcfd] shall be calculated as though these were mandatory special period pension contributions under paragraph (8) of article 66A;
 - (b) where paragraph (9) of article 66A applies, and the special firefighter member does not pay the lump sum within the period specified in that sub-paragraph, the period of service purchased as a standard member shall be treated as if it were the period ascertained in accordance with the formula—
 
   [formula: see source](https://www.legislation.gov.uk/nisr/2007/215)
@@ -2504,7 +2504,7 @@ where—
   where—
 
   - A is the number of 60ths of pensionable service as a standard member which he elected to purchase,
-  - B is the period in respect of which pension contributions as a standard member have been paid during the limited period or the extended limited period[^key-2ca9b5a56884ce9c286e7c3d08318887], and
+  - B is the period in respect of which pension contributions as a standard member have been paid during the limited period or the extended limited period[^c-2ca9b5a56884ce9c286e7c3d08318887], and
   - C is the period in respect of which mandatory special period pension contributions would have been made in accordance with his election.
 
 (8) Where periodic contributions cease as mentioned in paragraph (5) or (9) of article 66A when a pension becomes payable, the pension shall not be paid until the earlier of the date on which the lump sum mentioned in that paragraph has been paid or the special member has given notice that he will not pay the lump sum or the period mentioned in that paragraph has expired.
@@ -2518,13 +2518,13 @@ where—
 
 (11) Where the special member dies before the mandatory special period pension contributions due in accordance with article 66A have been paid, those contributions shall be treated as paid and service during the mandatory special period shall be special pensionable service.
 
-(12) Where it is not reasonably practicable to comply with the requirement in paragraph (1) (a)[^key-e40db2f238a1bf620a021197242e1d46] within the period specified, the election shall be given by written notice as soon as reasonably practicable after the end of that period but in any event may not take effect after 31st March 2015 except where an election is made by a provisionally enrolled member, in which case, the election may not take effect after 30th September 2015[^key-fdfe361f027a5f68f8571fecbd192577].
+(12) Where it is not reasonably practicable to comply with the requirement in paragraph (1) (a)[^c-e40db2f238a1bf620a021197242e1d46] within the period specified, the election shall be given by written notice as soon as reasonably practicable after the end of that period but in any event may not take effect after 31st March 2015 except where an election is made by a provisionally enrolled member, in which case, the election may not take effect after 30th September 2015[^c-fdfe361f027a5f68f8571fecbd192577].
 
-(13)[^key-42ef9a6501dff496142e6fb153d336b9] Subject to paragraph (12), where it is not reasonably practicable to comply with the requirement in paragraph (1)(b) within the period specified, the election must be given by written notice as soon as reasonably practicable after the end of that period but in any event may not take effect after 1st September 2027[^key-0eae14b6e984f6e1cb4fe1a8ba68e135].
+(13)[^c-42ef9a6501dff496142e6fb153d336b9] Subject to paragraph (12), where it is not reasonably practicable to comply with the requirement in paragraph (1)(b) within the period specified, the election must be given by written notice as soon as reasonably practicable after the end of that period but in any event may not take effect after 1st September 2027[^c-0eae14b6e984f6e1cb4fe1a8ba68e135].
 
-(14) Where a person did not receive a notification from the Board under article 65B(8) of this Part, despite the Board using reasonable endeavours to notify eligible persons as required by that paragraph, an election under paragraph (1) may take effect after 1st September 2027[^key-5ef6cb5f63377e4db17c84298566c96e].
+(14) Where a person did not receive a notification from the Board under article 65B(8) of this Part, despite the Board using reasonable endeavours to notify eligible persons as required by that paragraph, an election under paragraph (1) may take effect after 1st September 2027[^c-5ef6cb5f63377e4db17c84298566c96e].
 
-##### 66C. Election to purchase service: provisional enrolment[^key-d3dc44272e311e1d963af36279d14218]
+##### 66C. Election to purchase service: provisional enrolment[^c-d3dc44272e311e1d963af36279d14218]
 
 (1) Subject to paragraph (3), a person who satisfies the conditions in paragraph (2) joins this Scheme as a provisionally enrolled member on 31st March 2015.
 
@@ -2547,7 +2547,7 @@ where—
 - (a) gives the Board written notice of their election to pay mandatory special period pension contributions in respect of their service during the mandatory special period under article 66A, the election takes effect on the day on which the notice of election is received by the Board, and the person ceases to be a provisionally enrolled member of this Scheme and becomes a special member of this Scheme;
 - (b) does not give the Board written notice on or before 30th September 2015 of their election to pay mandatory special period pension contributions in respect of their service during the mandatory special period under article 66A, the person ceases to be a provisionally enrolled member of this Scheme.
 
-##### 66D. Purchase of service during the extended limited period – total pensionable service[^key-952c651f06498959d84b39bc641d898e]
+##### 66D. Purchase of service during the extended limited period – total pensionable service[^c-952c651f06498959d84b39bc641d898e]
 
 (1) This article applies where—
 
@@ -2586,7 +2586,7 @@ where—
 
 (5) In order to be entitled to the compensation deduction, the special member must provide a statement to the Board that the special member will not claim tax relief in respect of the mandatory special period pension contributions.
 
-##### 67. Duration of periodical contributions and premature cessation[^key-0db81962fac2c7021cbc0e8dcfca8236]
+##### 67. Duration of periodical contributions and premature cessation[^c-0db81962fac2c7021cbc0e8dcfca8236]
 
 (1) Subject to paragraph (2), where a person has elected under article 66 to pay periodical contributions, they are payable from his next birthday and continue to be payable until normal retirement age.
 
@@ -2594,11 +2594,11 @@ where—
 
 - (a) where he is entitled to a pension under article 13 (deferred pension), on his last day of service;
 - (b) where he becomes entitled to a second pension under article 17 (entitlement to two pensions), on his last day of service in the second period of employment;
-- (c) on the date on which he ceases to be employed by the Board; [^key-9f43dad1304d9cbb126da9066b366c56]...
-- (d) on the date on which any contributions election takes effect; or[^key-08e05fde8932b9828a2c86ed79d6ac4f]
+- (c) on the date on which he ceases to be employed by the Board; [^c-9f43dad1304d9cbb126da9066b366c56]...
+- (d) on the date on which any contributions election takes effect; or[^c-08e05fde8932b9828a2c86ed79d6ac4f]
 - (e) in the case of a connected member, or a connected special member, on the date that member ceases to be in pensionable service under the 2015 scheme.
 
-(3) Where a sub-paragraph of paragraph (2) applies and the additional service is not special pensionable service[^key-ab7dec6ec4fd39ad4307d36a24800ce8], the period of additional service purchased up to the date referred to in that sub-paragraph shall be treated as if it were the period ascertained in accordance with the formula—
+(3) Where a sub-paragraph of paragraph (2) applies and the additional service is not special pensionable service[^c-ab7dec6ec4fd39ad4307d36a24800ce8], the period of additional service purchased up to the date referred to in that sub-paragraph shall be treated as if it were the period ascertained in accordance with the formula—
 
 [formula: reg (3)](https://www.legislation.gov.uk/nisr/2007/215)
 
@@ -2608,29 +2608,29 @@ where—
 - B is the period in respect of which contributions have been made; and
 - C is the period in respect of which contributions would, but for the cessation of his employment, have been made in accordance with the election.
 
-(3A)[^key-930e6d864f9608c9825150ca04b876af] Where a sub-paragraph of paragraph (2) applies and the additional service is special pensionable service, paragraph (3) applies with the substitution of the definition of “A” with—
+(3A)[^c-930e6d864f9608c9825150ca04b876af] Where a sub-paragraph of paragraph (2) applies and the additional service is special pensionable service, paragraph (3) applies with the substitution of the definition of “A” with—
 
 > - “A” is the number of 45ths of additional special pensionable service which the special member elected to purchase.
 
 (4) The period of additional service calculated in accordance with paragraph (3) shall be treated—
 
 - (a) where the person qualifies for an ordinary pension (article 11), as part of the pensionable service on which the ordinary pension is calculated;
-- (aa)[^key-b4f45abda92037f450716be1c822ef7b] where he qualifies for a special member’s ordinary pension, as part of the special pensionable service on which the special member’s ordinary pension is calculated;
-- (b) where he qualifies for a deferred pension (article 13), as part of the pensionable service or special pensionable service,[^key-2e675e640a0cd2cc0ef72f61df0f4d6c] on which the deferred pension is calculated;
+- (aa)[^c-b4f45abda92037f450716be1c822ef7b] where he qualifies for a special member’s ordinary pension, as part of the special pensionable service on which the special member’s ordinary pension is calculated;
+- (b) where he qualifies for a deferred pension (article 13), as part of the pensionable service or special pensionable service,[^c-2e675e640a0cd2cc0ef72f61df0f4d6c] on which the deferred pension is calculated;
 - (c) where he takes member-initiated early retirement (article 15), as part of the award to which the actuarial reduction is applied;
 - (d) where he takes Board-initiated early retirement (article 16), as part of his pensionable service;
 - (e) where, on commencing a second period of employment with the Board, he becomes entitled to two pensions (article 17)—
   - (i) to the extent that it is attributable to the first period of employment, as part of the service on which the first pension is calculated; and
   - (ii) to the extent that it is attributable to the second period of employment, as part of the service on which the second pension is calculated.
 
-(5) The period of additional service calculated in accordance with paragraph (3) shall not be treated as part of the pensionable service or special pensionable service[^key-b2301f3a931448a5f14ee9af653cc5ff] on which—
+(5) The period of additional service calculated in accordance with paragraph (3) shall not be treated as part of the pensionable service or special pensionable service[^c-b2301f3a931448a5f14ee9af653cc5ff] on which—
 
 - (a) the amount of any higher tier ill-health pension is calculated under article 12; or
 - (b) the notional ill-health pension where a survivor’s pension is awarded on his death in service is calculated (article 23).
 
 (6) Additional service purchased by the payment of periodical contributions shall accrue annually in accordance with the contributions paid.
 
-##### 68. Discontinuance and resumption of periodical contributions[^key-8b54a491afefac840997b7a3d3bf0c77]
+##### 68. Discontinuance and resumption of periodical contributions[^c-8b54a491afefac840997b7a3d3bf0c77]
 
 (1) The Board may—
 
@@ -2643,7 +2643,7 @@ agree to discontinue the making of deductions from his pay by way of such contri
 
 (3) Where the firefighter member and the Board agree that deductions should be discontinued for a period of six months or more, the member’s election under article 66 shall be treated as cancelled with effect from the date of the agreement.
 
-(4) Subject to paragraph (4A), the period of additional service[^key-859e2e686d738debe378bf1c1410c53a] purchased up to the date on which the last contribution was deducted shall be treated as if it were the period ascertained in accordance with the formula—
+(4) Subject to paragraph (4A), the period of additional service[^c-859e2e686d738debe378bf1c1410c53a] purchased up to the date on which the last contribution was deducted shall be treated as if it were the period ascertained in accordance with the formula—
 
 [formula: reg (3)](https://www.legislation.gov.uk/nisr/2007/215)
 
@@ -2653,7 +2653,7 @@ agree to discontinue the making of deductions from his pay by way of such contri
 - B is the period in respect of which contributions have been made; and
 - C is the period in respect of which contributions would have been made in accordance with the election (disregarding for this purpose any deemed cancellation under paragraph (3)).
 
-(4A)[^key-6cfc8677afe61cab881db623fc599e5e] Where the firefighter member is a special member, in paragraph (4) “A” is the number of 45ths of additional special pensionable service which the special member elected to purchase.
+(4A)[^c-6cfc8677afe61cab881db623fc599e5e] Where the firefighter member is a special member, in paragraph (4) “A” is the number of 45ths of additional special pensionable service which the special member elected to purchase.
 
 (5) Subject to paragraph (6), where—
 
@@ -2664,16 +2664,16 @@ a deduction of an amount equal to the aggregate of the contributions that would 
 
 (6) Where the firefighter member’s rate of pay at the end of the discontinuance period is less than at the beginning of that period, deductions in respect of the discontinuance period shall be made at the rate that would have applied if deductions had been made from his salary during that period.
 
-(7)[^key-8995c1a73493d287c48142443a2786b1] This article applies to a connected member, or a connected special member, as it applies to a firefighter member.
+(7)[^c-8995c1a73493d287c48142443a2786b1] This article applies to a connected member, or a connected special member, as it applies to a firefighter member.
 
-##### 69. Periodical contributions in respect of periods of unpaid service or absence[^key-2932d581724762c0003c2ae6b7160573]
+##### 69. Periodical contributions in respect of periods of unpaid service or absence[^c-2932d581724762c0003c2ae6b7160573]
 
 (1) A firefighter member who—
 
-- (a) has elected to purchase additional service in respect of a period of unpaid service or unpaid leave which falls within the period in respect of which contributions are payable in accordance with article article 67(1)[^key-71e45458de5a40e0db6a0e616f3eac53] ; and
+- (a) has elected to purchase additional service in respect of a period of unpaid service or unpaid leave which falls within the period in respect of which contributions are payable in accordance with article article 67(1)[^c-71e45458de5a40e0db6a0e616f3eac53] ; and
 - (b) complies with the requirements of paragraph (2),
 
-is entitled to require the Board to treat that period of unpaid service or unpaid leave as a period of pensionable service or special pensionable service[^key-0a4cc28f6c1dc4009a916c4326de9d8e].
+is entitled to require the Board to treat that period of unpaid service or unpaid leave as a period of pensionable service or special pensionable service[^c-0a4cc28f6c1dc4009a916c4326de9d8e].
 
 (2) The requirements of this paragraph are that the firefighter member must, not later than one month after the end of the period of unpaid service or leave (as the case may be), require the Board to deduct from his pay an amount equal to the aggregate of the contributions that would have been made in respect of that period if it had been a period of paid service.
 
@@ -2685,13 +2685,13 @@ is entitled to require the Board to treat that period of unpaid service or unpai
 - (b) within six months of returning to duty after the end of that period; or
 - (c) within such longer period as the Board may allow.
 
-(5)[^key-bd8c260a408b98718bc0cb7249a0fb73] This article applies to a connected member or a connected special member as it applies to a firefighter member who elects to purchase additional service in respect of a period of unpaid service or unpaid leave before the transition date.
+(5)[^c-bd8c260a408b98718bc0cb7249a0fb73] This article applies to a connected member or a connected special member as it applies to a firefighter member who elects to purchase additional service in respect of a period of unpaid service or unpaid leave before the transition date.
 
 (6) Where the connected member complies with the requirements in paragraph (2) that person may require the Board to treat the period referred to in paragraph (5) as pensionable service or in the case of a connected special member as special pensionable service.
 
-##### 70. Effect of purchasing additional service by lump sum payment[^key-53d9fcbfb5e7792df0dd6c2e66341951]
+##### 70. Effect of purchasing additional service by lump sum payment[^c-53d9fcbfb5e7792df0dd6c2e66341951]
 
-(1) Subject to paragraph (2), where a period of additional service has been purchased by way of a lump sum payment, the firefighter member’s pensionable service or special pensionable service[^key-2f94f767858b11a321fe69ae4d9571c9] shall be increased by that period as regards any award payable to him under this Scheme.
+(1) Subject to paragraph (2), where a period of additional service has been purchased by way of a lump sum payment, the firefighter member’s pensionable service or special pensionable service[^c-2f94f767858b11a321fe69ae4d9571c9] shall be increased by that period as regards any award payable to him under this Scheme.
 
 (2) A period of additional service purchased by way of a lump sum payment shall not be treated as part of the pensionable service or special pensionable service on which the amount of any higher tier ill-health pension is calculated under article 12.
 
@@ -2703,28 +2703,28 @@ is entitled to require the Board to treat that period of unpaid service or unpai
 
 #### CHAPTER 1 — INTERPRETATION OF PART 12 AND ENTITLEMENT TO TRANSFER VALUE PAYMENT
 
-##### 71. Interpretation of Part 12[^key-b92c51e687a270e681d616febe33775f]
+##### 71. Interpretation of Part 12[^c-b92c51e687a270e681d616febe33775f]
 
 In this Part—
 
-- “final salary benefit” means benefit accrued under a final salary scheme as defined in section 34 (general interpretation) of the 2014 Act;[^key-af616f867c8170cfc6a39b1fd30a27d7]
+- “final salary benefit” means benefit accrued under a final salary scheme as defined in section 34 (general interpretation) of the 2014 Act;[^c-af616f867c8170cfc6a39b1fd30a27d7]
 - “guaranteed cash equivalent transfer value payment” means a payment of the description mentioned in article 74(2); and
 - “public sector transfer arrangements” means arrangements approved by HM Treasury as providing reciprocal arrangements for the payment and receipt of transfer values between this Scheme and other occupational pension schemes.
 
-##### 72. Entitlement to transfer value payment[^key-60eb01e1b5afb1f01866eedc6b089aaa]
+##### 72. Entitlement to transfer value payment[^c-60eb01e1b5afb1f01866eedc6b089aaa]
 
 (1) This Part supplements the rights conferred by Chapter IV of Part IV of the 1993 Act (transfer values) (“Chapter IV”).
 
-(2) Subject to paragraph (2A) a firefighter member[^key-a7727e8c230f2a85d3712f5f5d8fa912] or deferred member—
+(2) Subject to paragraph (2A) a firefighter member[^c-a7727e8c230f2a85d3712f5f5d8fa912] or deferred member—
 
 - (a) to whom Chapter IV applies[^f00031]; and
 - (b) who is not a pension credit member or pensioner member of this Scheme,
 
 is entitled to require the payment of a transfer value in respect of the rights to benefit that have accrued to or in respect of him under this Scheme.
 
-(2A)[^key-59bcb5206925cb56558bd1c308692ed6] A transition member (T), who is a connected member of this Scheme or has received a lower tier ill-health pension under the 2015 Scheme, is not entitled to require the payment of a transfer value in respect of the rights to benefits that have accrued to or in respect of T under this Scheme.
+(2A)[^c-59bcb5206925cb56558bd1c308692ed6] A transition member (T), who is a connected member of this Scheme or has received a lower tier ill-health pension under the 2015 Scheme, is not entitled to require the payment of a transfer value in respect of the rights to benefits that have accrued to or in respect of T under this Scheme.
 
-(3) Subject to the provisions of this Part, any former firefighter member, other than a pensioner member, is entitled to require such a payment as if such rights had accrued to or in respect of him by reference to the pensionable service or special pensionable service[^key-2919ea214c8c57160503cc357aba99a3] he is entitled to count under this Scheme (and references in this Part to his accrued rights or benefits are to be read accordingly).
+(3) Subject to the provisions of this Part, any former firefighter member, other than a pensioner member, is entitled to require such a payment as if such rights had accrued to or in respect of him by reference to the pensionable service or special pensionable service[^c-2919ea214c8c57160503cc357aba99a3] he is entitled to count under this Scheme (and references in this Part to his accrued rights or benefits are to be read accordingly).
 
 (4) Paragraph (3) does not apply if the contributions the former member has paid during the period of service ending with his ceasing to be a firefighter member are refunded under article 18 and, where applicable, in accordance with Chapter V of Part IV of the 1993 Act.
 
@@ -2732,7 +2732,7 @@ is entitled to require the payment of a transfer value in respect of the rights 
 
 #### CHAPTER 2 — TRANSFERS OUT OF THE SCHEME
 
-##### 73. Applications for statements of entitlement[^key-9cd0b0414c201360756358e1a416409b]
+##### 73. Applications for statements of entitlement[^c-9cd0b0414c201360756358e1a416409b]
 
 (1) A member who requires a transfer value payment to be made must apply in writing to the Board for a statement of the amount of the cash equivalent of the member’s accrued benefits under the Scheme at the guarantee date (“a statement of entitlement”).
 
@@ -2759,7 +2759,7 @@ is entitled to require the payment of a transfer value in respect of the rights 
 
 the Board shall not be required to entertain the application if it is not accompanied by a payment of such amount as the Board may reasonably require.
 
-##### 74. Applications for transfer value payments[^key-ca24dc619dd2c6d8019b64b22b9d3bb8]
+##### 74. Applications for transfer value payments[^c-ca24dc619dd2c6d8019b64b22b9d3bb8]
 
 (1) A member who has applied for and received a statement of entitlement under article 73 may apply in writing to the Board for a transfer value payment to be made.
 
@@ -2775,13 +2775,13 @@ the Board shall not be required to entertain the application if it is not accomp
 (5) Subject to paragraph (6), an application by a person who is entitled to apply for a guaranteed cash equivalent transfer value payment under Chapter IV of Part IV of the 1993 Act may only be made before—
 
 - (a) the beginning of the period of one year ending with the date on which the member reaches normal benefit age; or
-- (b) the end of the period of six months beginning with the day after that on which the member’s pensionable service or special pensionable service[^key-8bbb681513bfb8a4b018ddec08a008c2] ends, provided that service ends at least one year before normal benefit age,
+- (b) the end of the period of six months beginning with the day after that on which the member’s pensionable service or special pensionable service[^c-8bbb681513bfb8a4b018ddec08a008c2] ends, provided that service ends at least one year before normal benefit age,
 
 whichever is the later.
 
 (6) An application for a transfer value payment to be made under public sector transfer arrangements may only be made—
 
-- (a) before the first anniversary of the day on which the member becomes , or is entitled[^key-d9435e242b53a29c040f0306438150af] to be an active member of the scheme to which the transfer is to be made; and
+- (a) before the first anniversary of the day on which the member becomes , or is entitled[^c-d9435e242b53a29c040f0306438150af] to be an active member of the scheme to which the transfer is to be made; and
 - (b) before the member reaches normal benefit age.
 
 (7) An application by a person who is not entitled to apply for a guaranteed cash equivalent transfer value payment under Chapter IV of Part IV of the 1993 Act may only be made—
@@ -2806,7 +2806,7 @@ whichever is the later.
 
   and for the purpose of this definition the size of a person at any time is to be determined by reference to the gross assets denominated in sterling of that person, together with any subsidiary (as defined in Article 4 of the Companies (Northern Ireland) Order 1986 (“subsidiary”, “holding company” and “wholly owned subsidiary”))[^f00033], as shown in the audited end-of-year accounts last published before that time.
 
-##### 75. Ways in which transfer value payments may be applied[^key-4d59a0a1d9970298aaaf210a7c45503a]
+##### 75. Ways in which transfer value payments may be applied[^c-4d59a0a1d9970298aaaf210a7c45503a]
 
 (1) A member who is entitled to a guaranteed cash equivalent transfer value payment under Chapter IV of Part IV of the 1993 Act may only require the Board to apply the guaranteed cash equivalent transfer value payment in one or more of the ways permitted under section 91 of that Act.
 
@@ -2826,9 +2826,9 @@ may be excluded from the guaranteed cash equivalent transfer value payment if se
 - (a) a pension scheme that is registered under Chapter 2 of Part 4 of the Finance Act 2004; or
 - (b) an arrangement that is a qualifying recognised overseas pension scheme for the purposes of that Part[^f00034].
 
-##### 76. Calculating amounts of transfer value payments[^key-7a6bbba4ce1a120e4ea82dd3b80ff869]
+##### 76. Calculating amounts of transfer value payments[^c-7a6bbba4ce1a120e4ea82dd3b80ff869]
 
-(1) Subject to paragraph (3), the amount of the guaranteed cash equivalent transfer value payment is to be calculated in accordance with guidance and tables provided by the Scheme Actuary for use at the guarantee date and different guidance and tables shall be provided for standard and special members[^key-9cf1aa177f30b2826b566cf5ba2378bc].
+(1) Subject to paragraph (3), the amount of the guaranteed cash equivalent transfer value payment is to be calculated in accordance with guidance and tables provided by the Scheme Actuary for use at the guarantee date and different guidance and tables shall be provided for standard and special members[^c-9cf1aa177f30b2826b566cf5ba2378bc].
 
 (2) In preparing those tables the Scheme Actuary must use such factors as he considers appropriate, having regard to section 93 of the 1993 Act and regulations under that Act (whether or not the payment is in respect of a person entitled to a guaranteed cash equivalent transfer value payment under that Act).
 
@@ -2837,7 +2837,7 @@ may be excluded from the guaranteed cash equivalent transfer value payment if se
 (4) In paragraph (3) “the minimum transfer value”, in relation to any person, means the sum of—
 
 - (a) any transfer value payments that have been made to the Scheme in respect of him; and
-- (b) any contributions paid by him under article 63; and[^key-63e1ce6fdcb81eea02f8169b5d228392]
+- (b) any contributions paid by him under article 63; and[^c-63e1ce6fdcb81eea02f8169b5d228392]
 - (c) any mandatory special period pension contributions.
 
 (5) If the transfer value payment is made under public sector transfer arrangements, the amount of the transfer value payment is calculated—
@@ -2845,13 +2845,13 @@ may be excluded from the guaranteed cash equivalent transfer value payment if se
 - (a) in accordance with those arrangements rather than paragraphs (1) to (3);and
 - (b) by reference to the guidance and tables provided by the Scheme Actuary for the purposes of this paragraph that are in use on the date used for the calculation.
 
-##### 77. Effect of transfers-out[^key-bd2ecf3ec623cd3c2de97ea2a20703cf]
+##### 77. Effect of transfers-out[^c-bd2ecf3ec623cd3c2de97ea2a20703cf]
 
 Where a transfer value payment is made under this Chapter in respect of a person’s rights under this Scheme, those rights are extinguished.
 
 #### CHAPTER 3 — TRANSFERS INTO THE SCHEME
 
-##### 78. Applications for acceptance of transfer value payment from another scheme[^key-5c3df3ef4940c848eb5746269c40ae7b]
+##### 78. Applications for acceptance of transfer value payment from another scheme[^c-5c3df3ef4940c848eb5746269c40ae7b]
 
 (1) Subject to the provisions of this Part, a firefighter member may apply for a transfer value payment in respect of some or all of the rights that have accrued to or in respect of him under—
 
@@ -2863,46 +2863,46 @@ to be accepted by the Board for the purposes of this Scheme.
 
 (2) Paragraph (1) does not apply to rights that are directly referable to a pension credit.
 
-(3) Paragraph (1) does not apply if the member is on unpaid absence that does not count as pensionable service or as special pensionable service[^key-c62550b7c9a4ffd240ceac144fb10eda].
+(3) Paragraph (1) does not apply if the member is on unpaid absence that does not count as pensionable service or as special pensionable service[^c-c62550b7c9a4ffd240ceac144fb10eda].
 
-(4)[^key-80e53504e343107019232d41a82af27c] A person who is a protected member of this Scheme, or a person who becomes an active member of the 2015 Scheme, may apply for a transfer value payment from another public service pension scheme which is a final salary scheme, or includes final salary benefit, to be accepted by the Board for the purposes of this Scheme.
+(4)[^c-80e53504e343107019232d41a82af27c] A person who is a protected member of this Scheme, or a person who becomes an active member of the 2015 Scheme, may apply for a transfer value payment from another public service pension scheme which is a final salary scheme, or includes final salary benefit, to be accepted by the Board for the purposes of this Scheme.
 
-##### 79. Procedure for applications under article 78[^key-99aef20429f3e707f8f0a2de0c833cfe]
+##### 79. Procedure for applications under article 78[^c-99aef20429f3e707f8f0a2de0c833cfe]
 
 (1) An application under article 78—
 
 - (a) must be made in writing;
 - (b) must specify the scheme or arrangement from which the transfer value payment is to be made and the anticipated amount of the payment; and
-- (c) subject to paragraphs (2) to (4)[^key-061a2a90e6b2fc654a5e1d1e96610545] , must be made—
+- (c) subject to paragraphs (2) to (4)[^c-061a2a90e6b2fc654a5e1d1e96610545] , must be made—
   - (i) before the beginning of the period of one year ending with the date on which the member reaches normal retirement age; and
   - (ii) in the case of a transfer value payment from a non-occupational pension scheme, during the period of one year beginning with the day on which the member becomes eligible to be a firefighter member, or such longer period as the Board may allow.
 
-(2) Subject to paragraphs (4) and (5),[^key-c8b6f155434ae2240d75ecd6b36a5990][^key-aa5352823229e4c30fca3899c2e23b89] in the case of a transfer value payment to be made under public sector transfer arrangements, the application under article 78—
+(2) Subject to paragraphs (4) and (5),[^c-c8b6f155434ae2240d75ecd6b36a5990][^c-aa5352823229e4c30fca3899c2e23b89] in the case of a transfer value payment to be made under public sector transfer arrangements, the application under article 78—
 
-- (a) must be made during the period of one year beginning with the day on which the member becomes eligible to be a firefighter member[^key-ad6cd5187325bbee22f750882172988e]...; and
+- (a) must be made during the period of one year beginning with the day on which the member becomes eligible to be a firefighter member[^c-ad6cd5187325bbee22f750882172988e]...; and
 - (b) must be received by the Board before the applicant reaches the age which is the normal pension age under the scheme by which the transfer value payment is to be made.
 
-(3)[^key-628893c52c40d1e85b4a051cab49be9d] Where the application under article 78 is made by a special firefighter member, who was not already a member of this Scheme when he elected to become a special firefighter member, sub-paragraph (c) of paragraph (1) and paragraph (2) shall not apply.
+(3)[^c-628893c52c40d1e85b4a051cab49be9d] Where the application under article 78 is made by a special firefighter member, who was not already a member of this Scheme when he elected to become a special firefighter member, sub-paragraph (c) of paragraph (1) and paragraph (2) shall not apply.
 
 (4) In the case of a person referred to in paragraph (3) and in the case of a transfer value payment to be made under public sector transfer arrangements, the application under article 78 must be made by that person during the period of twelve months beginning with the day on which the Board gave the applicant the notice required by article 65A(13) of Part 11.
 
-(5)[^key-e279ffcdf938161c221a3bfe26194885] Where the application is made by a person who joins this Scheme as a firefighter member (other than as a special firefighter member) the application must be made within one year of the person becoming a firefighter member of this Scheme or within one year of the person becoming an active member of the 2015 Scheme, as the case may be.
+(5)[^c-e279ffcdf938161c221a3bfe26194885] Where the application is made by a person who joins this Scheme as a firefighter member (other than as a special firefighter member) the application must be made within one year of the person becoming a firefighter member of this Scheme or within one year of the person becoming an active member of the 2015 Scheme, as the case may be.
 
-##### 80. Acceptance of transfer value payments[^key-96596c9450a8271958e0c8942dd04968]
+##### 80. Acceptance of transfer value payments[^c-96596c9450a8271958e0c8942dd04968]
 
-(1) Subject to paragraphs (3) and (4)[^key-e0607333deebba6340cea03fe9c4cf4c] and paragraphs (2) and (3) of article 56 (reckoning of pensionable service), where an application is duly made by a member under article 78, the Board may accept the transfer value payment.
+(1) Subject to paragraphs (3) and (4)[^c-e0607333deebba6340cea03fe9c4cf4c] and paragraphs (2) and (3) of article 56 (reckoning of pensionable service), where an application is duly made by a member under article 78, the Board may accept the transfer value payment.
 
-(2) If the Board accepts the payment, the member is entitled to count the period calculated in accordance with article 81 as pensionable service or special pensionable service[^key-f85221100fc8a538eb3d855559a36096] for the purposes of this Scheme.
+(2) If the Board accepts the payment, the member is entitled to count the period calculated in accordance with article 81 as pensionable service or special pensionable service[^c-f85221100fc8a538eb3d855559a36096] for the purposes of this Scheme.
 
 (3) The Board may not accept a transfer value payment if—
 
-- (a)[^key-378b82f856a3cb223e3b6d5db24e7d82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-378b82f856a3cb223e3b6d5db24e7d82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) it would be applied in whole or in part in respect of the member’s or the member’s spouse’s or civil partner’s entitlement to a guaranteed minimum pension; and
 - (c) it is less than the amount required for that purpose, as calculated in accordance with guidance and tables prepared by the Scheme Actuary for the purposes of this paragraph.
 
-(4)[^key-4002e55f85faf654176a9b997c52276c] Where the application under article 78 is made by a person to whom paragraph (4) of that article applies, paragraphs (2) and (3) of article 56 (limit on maximum amount of pensionable service that can be accrued) of Part 10 do not apply to that transfer value payment and the Board must accept the transfer value payment unless paragraph (3) applies.
+(4)[^c-4002e55f85faf654176a9b997c52276c] Where the application under article 78 is made by a person to whom paragraph (4) of that article applies, paragraphs (2) and (3) of article 56 (limit on maximum amount of pensionable service that can be accrued) of Part 10 do not apply to that transfer value payment and the Board must accept the transfer value payment unless paragraph (3) applies.
 
-##### 81. Calculation of transferred-in pensionable service or special pensionable service[^key-015f7721743f0dbcadf496e2fd2503e9][^key-0cb016737faa604f19bd24275cd53505]
+##### 81. Calculation of transferred-in pensionable service or special pensionable service[^c-015f7721743f0dbcadf496e2fd2503e9][^c-0cb016737faa604f19bd24275cd53505]
 
 (1) Subject to paragraph (3), the period of pensionable service or special pensionable service that a member is entitled to count under article 80(2) shall be calculated as at the date on which the transfer value payment is received by the Board and in accordance with guidance and tables provided by the Scheme Actuary for the purpose.
 
@@ -2923,17 +2923,17 @@ whichever is the later; and, in a case where the transfer value payment is recei
 - (a) those arrangements shall not apply to the extent that they provide for the calculation of the period, and
 - (b) paragraph (1) shall apply instead.
 
-(4A)[^key-9d9ca199ee9905f11c522fc5148470fa] The Scheme Actuary shall provide different guidance and tables for the purpose of this article in the case of special members.
+(4A)[^c-9d9ca199ee9905f11c522fc5148470fa] The Scheme Actuary shall provide different guidance and tables for the purpose of this article in the case of special members.
 
-#### CHAPTER 3A — TRANSFERS TO SPECIAL MEMBERSHIP[^key-fa709074be0c8fb902451c4d0ce47d3d]
+#### CHAPTER 3A — TRANSFERS TO SPECIAL MEMBERSHIP[^c-fa709074be0c8fb902451c4d0ce47d3d]
 
 ##### 81A. Transfer of accrued rights under the Firefighters’ Pension Scheme to special membership of this Scheme
 
-(1) A person who is a deferred member of the Firefighters’ Pension Scheme and took up employment as a retained firefighter immediately after the termination of his employment as a regular firefighter and who is a connected special member, or is[^key-9cce99b0fe791899d96dda8d71c4fcd8] entitled to join this Scheme as a special firefighter member or a connected special member[^key-f88de9de3a19803849867a46212dda54], may apply in writing to the Board for a statement of the amount of service to be treated as accrued if he were to elect to transfer his accrued rights under the Firefighters’ Pension Scheme to his special membership of this Scheme.
+(1) A person who is a deferred member of the Firefighters’ Pension Scheme and took up employment as a retained firefighter immediately after the termination of his employment as a regular firefighter and who is a connected special member, or is[^c-9cce99b0fe791899d96dda8d71c4fcd8] entitled to join this Scheme as a special firefighter member or a connected special member[^c-f88de9de3a19803849867a46212dda54], may apply in writing to the Board for a statement of the amount of service to be treated as accrued if he were to elect to transfer his accrued rights under the Firefighters’ Pension Scheme to his special membership of this Scheme.
 
-(2) Where the application under paragraph (1) is made at the same time as an application under article 65A(5) (purchase of service during the limited period) or article 65B(9) (purchase of service during the extended limited period)[^key-f1c8e719e4c15633658f89e329c5b5f9] of Part 11 the Board shall provide a statement of the amount of service to be treated as special pensionable service if the applicant were to elect to transfer his accrued rights under the Firefighters’ Pension Scheme to his special membership of this Scheme at the same time as the Board give the notice under article 65A(13) or article 65B(13)[^key-1fe00c46efbf433ced596197862e3cc3] of Part 11 , as the case may be[^key-87fddf47d5d2202904f151609e8fa93e].
+(2) Where the application under paragraph (1) is made at the same time as an application under article 65A(5) (purchase of service during the limited period) or article 65B(9) (purchase of service during the extended limited period)[^c-f1c8e719e4c15633658f89e329c5b5f9] of Part 11 the Board shall provide a statement of the amount of service to be treated as special pensionable service if the applicant were to elect to transfer his accrued rights under the Firefighters’ Pension Scheme to his special membership of this Scheme at the same time as the Board give the notice under article 65A(13) or article 65B(13)[^c-1fe00c46efbf433ced596197862e3cc3] of Part 11 , as the case may be[^c-87fddf47d5d2202904f151609e8fa93e].
 
-(3) Where an application under paragraph (1) is not made at the time specified in paragraph (2), it shall be made during the period of 12 months beginning with the day on which the Board gave the applicant the notice required by article 65A(13) or article 65B(13), as the case may be[^key-67ebad56bbfce4e67921cb83e208aeb2].
+(3) Where an application under paragraph (1) is not made at the time specified in paragraph (2), it shall be made during the period of 12 months beginning with the day on which the Board gave the applicant the notice required by article 65A(13) or article 65B(13), as the case may be[^c-67ebad56bbfce4e67921cb83e208aeb2].
 
 (4) Where paragraph (3) applies to the application, the Board shall provide a statement of the amount of service to be treated as special pensionable service if the applicant were to elect to transfer his accrued rights under the Firefighters’ Pension Scheme to his special membership of this Scheme within three months of the date of his application*.*
 
@@ -2947,7 +2947,7 @@ whichever is the later; and, in a case where the transfer value payment is recei
 
 #### CHAPTER 4 — MIS-SOLD PENSIONS AND RESTITUTION PAYMENTS
 
-##### 82. Interpretation of Chapter 4[^key-9fc6b58bda554d21de3b2276a67747a9]
+##### 82. Interpretation of Chapter 4[^c-9fc6b58bda554d21de3b2276a67747a9]
 
 (1) In this Chapter—
 
@@ -2960,7 +2960,7 @@ whichever is the later; and, in a case where the transfer value payment is recei
 - (a) a person shall be taken to have opted out if he had made a contributions election and for any period during which he was a firefighter he instead made contributions to a personal pension scheme; and
 - (b) a person shall be taken to have transferred out if the Board has made a transfer value payment in respect of him under Chapter 2 of this Part to the administrator of a personal pension scheme.
 
-##### 83. Mis-sold pensions[^key-e81c5837a6c7ffa7c6380563399ee51e]
+##### 83. Mis-sold pensions[^c-e81c5837a6c7ffa7c6380563399ee51e]
 
 (1) This article applies to a firefighter who—
 
@@ -2994,7 +2994,7 @@ may give written notice to the Board that he wishes it to accept a transfer valu
 
 the Board may adjust the amount of the transfer value payment that it accepts under this article to ensure that no part of the additional period of pensionable or reckonable service that was previously credited is included in the period of pensionable service credited under paragraph (4) or (5).
 
-##### 84. Calculation of amount of restitution payment[^key-81d9c524164bbf2a414a77923dcbe290]
+##### 84. Calculation of amount of restitution payment[^c-81d9c524164bbf2a414a77923dcbe290]
 
 (1) The Board shall, in accordance with paragraph (2), calculate the restitution payment that would need to be made to it in respect of a person to whom article 83 applies to create or restore his position to what it would have been if he had not opted-out or, where relevant, transferred-out.
 
@@ -3010,19 +3010,19 @@ the Board may adjust the amount of the transfer value payment that it accepts un
 - “assumed calculation date” means the date on which it is assumed, for the purpose of calculating a restitution payment, that a transfer value will be paid to the Board; and
 - “material date” means the date on which the Board receives a notice under article 83.
 
-#### CHAPTER 5 — CONVERTING MEMBERSHIP BETWEEN STANDARD AND SPECIAL MEMBERSHIP[^key-2b6efa56da4911792d311854b0a96536]
+#### CHAPTER 5 — CONVERTING MEMBERSHIP BETWEEN STANDARD AND SPECIAL MEMBERSHIP[^c-2b6efa56da4911792d311854b0a96536]
 
 ##### 84A. Converting membership from special membership to standard membership
 
-(1) A person who is a connected special member, or is[^key-817fe36b9b0e85661e2ffdeaa7ce630b] entitled to join this Scheme as a special firefighter member or a connected special member[^key-992e77f32639870dbb2bd81d7ad086eb] and is a standard member of this Scheme in respect of service which he would otherwise be able to reckon as special pensionable service may apply in writing to the Board for a statement of the amount of service to be treated as accrued if he converted his special membership to standard membership of this Scheme.
+(1) A person who is a connected special member, or is[^c-817fe36b9b0e85661e2ffdeaa7ce630b] entitled to join this Scheme as a special firefighter member or a connected special member[^c-992e77f32639870dbb2bd81d7ad086eb] and is a standard member of this Scheme in respect of service which he would otherwise be able to reckon as special pensionable service may apply in writing to the Board for a statement of the amount of service to be treated as accrued if he converted his special membership to standard membership of this Scheme.
 
-(2) Any application under paragraph (1) shall be made at the same time as an application under article 65A(5) (purchase of service during the limited period) or article 65B(9) (purchase of service during the extended limited period)[^key-95dc397e7e8d65cf99cfec323f5f425f] of Part 11 as the case may be[^key-0ca8e2adcf495a69da0c5eab23f4ea1f].
+(2) Any application under paragraph (1) shall be made at the same time as an application under article 65A(5) (purchase of service during the limited period) or article 65B(9) (purchase of service during the extended limited period)[^c-95dc397e7e8d65cf99cfec323f5f425f] of Part 11 as the case may be[^c-0ca8e2adcf495a69da0c5eab23f4ea1f].
 
-(3) At the same time as the Board gives the notice under article 65A(13) or article 65B(13)[^key-1a9ff18b00de2d5d416bfb7ffe304c79] of Part 11 as the case may be[^key-8834de2c1b083dcbf63eda00193e4107], the Board shall provide a statement of the additional service to be treated as pensionable service if he converted his special membership to standard membership.
+(3) At the same time as the Board gives the notice under article 65A(13) or article 65B(13)[^c-1a9ff18b00de2d5d416bfb7ffe304c79] of Part 11 as the case may be[^c-8834de2c1b083dcbf63eda00193e4107], the Board shall provide a statement of the additional service to be treated as pensionable service if he converted his special membership to standard membership.
 
 (4) For the purpose of calculating the pensionable service that a person would be treated as having accrued in this Scheme as a standard member on the conversion of his accrued rights as a special firefighter member, the Board shall apply the conversion factors set out in the tables in Schedule 2A applying the factors to the age the person was on 6th April 2006.
 
-(5) Where the applicant elects in writing to convert his special membership to standard membership, the election shall be made at the same time as the election to purchase service during the limited period or the extended limited period[^key-b5a4452e41a1bf84f81b8e0b6e6a023a] under paragraph (1), (3) or (7) article 66A and may not be made at any other time.
+(5) Where the applicant elects in writing to convert his special membership to standard membership, the election shall be made at the same time as the election to purchase service during the limited period or the extended limited period[^c-b5a4452e41a1bf84f81b8e0b6e6a023a] under paragraph (1), (3) or (7) article 66A and may not be made at any other time.
 
 (6) The Board must not accept a person’s election to convert his membership from special membership to standard membership if the aggregate of—
 
@@ -3042,7 +3042,7 @@ would exceed 40 years by the time of his 60th birthday.
 
 (1) This article applies—
 
-- (a)[^key-154ce5b2ccfcc42e99d0bc16a09824dc] to a person who is a standard member of the Scheme and who is—
+- (a)[^c-154ce5b2ccfcc42e99d0bc16a09824dc] to a person who is a standard member of the Scheme and who is—
   - (i) a special firefighter member;
   - (ii) entitled to join this Scheme as a special firefighter member or a connected special member;
   - (iii) subject to articles 84CA and 84CB, a special pensioner member who was previously a special deferred member; or
@@ -3051,9 +3051,9 @@ would exceed 40 years by the time of his 60th birthday.
 
 (2) A person to whom this article applies may apply to the Board for a statement of the amount of service he would be entitled to treat as special pensionable service if he converted his standard membership to special membership and the amount of the payments required by sub-paragraphs (b) and (c) of paragraph (5).
 
-(3) An application under paragraph (2) shall be made in writing at the same time as an application under article 65A(5) (purchase of service during the limited period) or article 65B(9) (purchase of service during the extended limited period)[^key-a5381e1f48842e11a445ea6157437eae] of Part 11 as the case may be[^key-6c228c3b4ef5dcd4183c61339a8e44a6].
+(3) An application under paragraph (2) shall be made in writing at the same time as an application under article 65A(5) (purchase of service during the limited period) or article 65B(9) (purchase of service during the extended limited period)[^c-a5381e1f48842e11a445ea6157437eae] of Part 11 as the case may be[^c-6c228c3b4ef5dcd4183c61339a8e44a6].
 
-(4) At the same time as the Board gives the notice under article 65A(13) or article 65B(13)[^key-932ee661028b3f9ae7b72221ebb13c98] of Part 11 as the case may be[^key-72b24097264bcc80118aabf68e0402c8], the Board shall provide—
+(4) At the same time as the Board gives the notice under article 65A(13) or article 65B(13)[^c-932ee661028b3f9ae7b72221ebb13c98] of Part 11 as the case may be[^c-72b24097264bcc80118aabf68e0402c8], the Board shall provide—
 
 - (a) a statement of the amount of service to be treated as special pensionable service if the applicant were to elect to convert his accrued rights as a standard member to his special membership;
 - (b) a statement of the amount of the payments required by paragraph (5).
@@ -3069,7 +3069,7 @@ would exceed 40 years by the time of his 60th birthday.
 
 (7) Where a member’s pensionable service includes a period (“the transferred in period”) which the member is entitled to count as pensionable service in accordance with articles 80 and 81 of this Part, the transferred in period shall be converted to special pensionable service in accordance with guidance and tables provided by the Scheme Actuary for the purposes of this paragraph.
 
-(8) Subject to paragraph (9), where article 66A(3) (election to purchase service during the limited period or the extended limited period[^key-eed9f9c1fa2415565e1a26cd6f1aa2a6]) of Part 11 applies, and the member does not within the period specified in that paragraph pay a lump sum equivalent to the balance of the payment referred to in paragraph (5)(b), ascertained in accordance with tables provided by the Scheme Actuary, the period of service as a standard member converted to special pensionable service shall be treated as if it were the period ascertained in accordance with the formula—
+(8) Subject to paragraph (9), where article 66A(3) (election to purchase service during the limited period or the extended limited period[^c-eed9f9c1fa2415565e1a26cd6f1aa2a6]) of Part 11 applies, and the member does not within the period specified in that paragraph pay a lump sum equivalent to the balance of the payment referred to in paragraph (5)(b), ascertained in accordance with tables provided by the Scheme Actuary, the period of service as a standard member converted to special pensionable service shall be treated as if it were the period ascertained in accordance with the formula—
 
 [formula: see source](https://www.legislation.gov.uk/nisr/2007/215)
 
@@ -3119,7 +3119,7 @@ where—
 
 (1) This article applies—
 
-- (a)[^key-8ea4743ceac11c5fceef9471e5753c10] to a person who is—
+- (a)[^c-8ea4743ceac11c5fceef9471e5753c10] to a person who is—
   - (i) a special pensioner member,
   - (ii) entitled to be a special pensioner member and who is in receipt of an ordinary pension, a higher tier ill-health pension, or a lower tier ill-health pension, or
   - (iii) subject to article 84CB, is entitled to a deferred pension under article 13 (deferred pension) or article 15 (Pension on member-initiated early retirement) of Part 3;
@@ -3127,9 +3127,9 @@ where—
 
 (2) A person to whom this article applies may apply to the Board for a statement of the amount of pensionable service which he would be entitled to treat as special pensionable service and the amount of the payments required by required by sub-paragraphs (b) and (c) of paragraph (5).
 
-(3) An application under paragraph (2) shall be made in writing at the same time as an application under article 65A(5) (purchase of service during the limited period) or article 65B(9) (purchase of service during the extended limited period)[^key-93bef04202963a5cecda9bcec5473ddb] of Part 11 as the case may be[^key-6501f907107ea197a285e7a1888bac3a].
+(3) An application under paragraph (2) shall be made in writing at the same time as an application under article 65A(5) (purchase of service during the limited period) or article 65B(9) (purchase of service during the extended limited period)[^c-93bef04202963a5cecda9bcec5473ddb] of Part 11 as the case may be[^c-6501f907107ea197a285e7a1888bac3a].
 
-(4) At the same time as the Board give the notice under article 65A(13) or article 65B(13)[^key-a0f874024955afc3b8baefd250f62b61] of Part 11 as the case may be[^key-014dd380c2778723782a4b477c0bb42f], the Board shall provide—
+(4) At the same time as the Board give the notice under article 65A(13) or article 65B(13)[^c-a0f874024955afc3b8baefd250f62b61] of Part 11 as the case may be[^c-014dd380c2778723782a4b477c0bb42f], the Board shall provide—
 
 - (a) a statement of the amount of pensionable service which may be treated as special pensionable service; and
 - (b) a statement of the amount of the payments required by paragraph (5).
@@ -3151,7 +3151,7 @@ where—
 
 (7) Where a member’s pensionable service includes a period (“the transferred in period”) which the member is entitled to count as pensionable service in accordance with articles 80 and 81 of this Part, the transferred in period shall be converted to special pensionable service in accordance with guidance and tables provided by the Scheme Actuary for the purposes of this paragraph.
 
-(8) Subject to paragraph (9), where article 66(5) or (9) (election to purchase service during the limited period or the extended limited period[^key-bd0132c6ca93a78eb0c6131e8eb92413]) of Part 11 applies, and the member does not within the period specified in that paragraph pay a lump sum equivalent to the balance of the payment referred to in paragraph (5)(b), ascertained in accordance with tables provided by the Scheme Actuary, the period of service as a standard member converted to special pensionable service shall be treated as if it were the period ascertained in accordance with the formula—
+(8) Subject to paragraph (9), where article 66(5) or (9) (election to purchase service during the limited period or the extended limited period[^c-bd0132c6ca93a78eb0c6131e8eb92413]) of Part 11 applies, and the member does not within the period specified in that paragraph pay a lump sum equivalent to the balance of the payment referred to in paragraph (5)(b), ascertained in accordance with tables provided by the Scheme Actuary, the period of service as a standard member converted to special pensionable service shall be treated as if it were the period ascertained in accordance with the formula—
 
 [formula: see source](https://www.legislation.gov.uk/nisr/2007/215)
 
@@ -3191,7 +3191,7 @@ where—
 
 (13) An election under paragraph (5) shall be made by giving written notice to the Board and shall take effect on the day on which the notice is received by the Board.
 
-##### 84CA. Converting membership from standard membership to special membership - special pensioner members who were previously special deferred members[^key-d23ccc6b888ef867e6e4a70601f32801]
+##### 84CA. Converting membership from standard membership to special membership - special pensioner members who were previously special deferred members[^c-d23ccc6b888ef867e6e4a70601f32801]
 
 (1) This article applies to a person to whom article 84B applies and who is a special pensioner member who was previously a special deferred member.
 
@@ -3232,7 +3232,7 @@ where—
 
 (5) Where a person did not receive a notification from the Board under paragraph (2), despite the Board using reasonable endeavours to notify him as required by that paragraph, an election under article 84B(5) or 84C(5), as applicable, may be made on or after 1st September 2027.
 
-##### 84D. Converting membership – election made during limited period[^key-04d08a8112ac6253336cd0dbce2e5cb8]
+##### 84D. Converting membership – election made during limited period[^c-04d08a8112ac6253336cd0dbce2e5cb8]
 
 (1) This article applies where a member has made, at the same time as an election under article 65A to purchase service during the limited period—
 
@@ -3270,7 +3270,7 @@ where—
 
 ### PART 13 — FIREFIGHTERS’ PENSION FUND
 
-#### 85. Firefighters’ Pension Fund: payments, receipts and transfers[^key-893c2f112b8094867e7f37d504d91efb]
+#### 85. Firefighters’ Pension Fund: payments, receipts and transfers[^c-893c2f112b8094867e7f37d504d91efb]
 
 (1) The Firefighters’ Pension Fund established and maintained by the Board for the purposes of the 2007 Scheme (“the FPF”), shall be used also for the purposes of payments and receipts required to be made by or under any provision of this Scheme.
 
@@ -3294,7 +3294,7 @@ where—
 - (a) references to the total amount payable out of the Board’s FPF do not include references to any amount which the Department required the Board to pay to it under any of articles 89 to 92;
 - (b) references to the total amount credited to the Board’s FPF do not include references to any amount which the Department pays to the Board for crediting to their FPF under any of articles 89 to 92.
 
-#### 86. Payments and transfers into Firefighters’ Pension Fund[^key-820b0c8ebfc366809fbee88904998617]
+#### 86. Payments and transfers into Firefighters’ Pension Fund[^c-820b0c8ebfc366809fbee88904998617]
 
 (1) The Board shall make transfers into its FPF in accordance with the following paragraphs.
 
@@ -3304,7 +3304,7 @@ where—
 
 (4) In respect of each firefighter employed by the Board who retires with an entitlement to immediate payment of a higher tier ill-health pension under article 12, the Board shall transfer into the FPF such amount as shall be determined and notified to it by the Department as the higher tier ill-health charge applicable in respect of that pension.
 
-(5)[^key-3730e6b2d74b158ad831481fa5389b4b] In respect of each firefighter employed by the Board who retires with an entitlement to immediate payment of a lower tier ill-health pension under article 12, the Board shall transfer into the FPF such amount as shall be determined and notified to it by the Department as the lower tier ill-health charge applicable in respect of that pension.
+(5)[^c-3730e6b2d74b158ad831481fa5389b4b] In respect of each firefighter employed by the Board who retires with an entitlement to immediate payment of a lower tier ill-health pension under article 12, the Board shall transfer into the FPF such amount as shall be determined and notified to it by the Department as the lower tier ill-health charge applicable in respect of that pension.
 
 (6) The amount to be transferred under paragraph (2) or (3) may be transferred in one complete payment or in three equal instalments.
 
@@ -3323,9 +3323,9 @@ where—
 
 (9) Where a pension is paid under article 16 (Board-initiated early retirement), an amount equal to the difference between the amount of the pension paid and the amount that would have been paid had a pension been payable from the same date under article 15 (member-initiated early retirement), shall be transferred to the FPF from any other fund maintained by the Board.
 
-(10)[^key-5faa2784918b4dfc15573975beac2b7b] Where the Board exercises its discretion not to withdraw or abate the whole or any part of a pension under article 52 (withdrawal of pension during service as a firefighter) of Part 9 (review, withdrawal and forfeiture of awards), the Board shall in the financial year in which payment is not withdrawn or abated, transfer into the FPF an amount equal to the amount of pension paid during that financial year to that person which might have been abated or withdrawn.
+(10)[^c-5faa2784918b4dfc15573975beac2b7b] Where the Board exercises its discretion not to withdraw or abate the whole or any part of a pension under article 52 (withdrawal of pension during service as a firefighter) of Part 9 (review, withdrawal and forfeiture of awards), the Board shall in the financial year in which payment is not withdrawn or abated, transfer into the FPF an amount equal to the amount of pension paid during that financial year to that person which might have been abated or withdrawn.
 
-#### 87. Transfers from Firefighters’ Pension Fund[^key-9077ce3cfd2c108b81e67c2491deb9b7]
+#### 87. Transfers from Firefighters’ Pension Fund[^c-9077ce3cfd2c108b81e67c2491deb9b7]
 
 (1) Where, in consequence of a review under article 49—
 
@@ -3343,9 +3343,9 @@ the amount referred to in paragraph (2) shall be transferred from the FPF to any
 
 (3) For the purposes of ascertaining the amount to be transferred in accordance with paragraph (2), the Board shall request the Department to determine the amount of the notional lower tier ill-health charge in respect of the pension concerned.
 
-(4)[^key-dff368f1d95a09324e07e94434e0e713] Where a person’s entitlement to higher tier ill-health pension or a lower tier ill-health pension has wholly and permanently ceased under any provision of Part 9, paragraph (4) or (5) of article 50 (as the case may be) shall be disregarded in his case (to the extent that it remain to be compiled with); and the Board shall transfer from the FPF to any other fund maintained by it an amount equal to the aggregate of the instalments that have been transferred to the FPF in respect of the pension entitlement to which has ceased.
+(4)[^c-dff368f1d95a09324e07e94434e0e713] Where a person’s entitlement to higher tier ill-health pension or a lower tier ill-health pension has wholly and permanently ceased under any provision of Part 9, paragraph (4) or (5) of article 50 (as the case may be) shall be disregarded in his case (to the extent that it remain to be compiled with); and the Board shall transfer from the FPF to any other fund maintained by it an amount equal to the aggregate of the instalments that have been transferred to the FPF in respect of the pension entitlement to which has ceased.
 
-#### 88. Excess amounts: information[^key-81648a1035cc9d78564c93c24f72c20e]
+#### 88. Excess amounts: information[^c-81648a1035cc9d78564c93c24f72c20e]
 
 (1) Beginning with the financial year ending on 31st March 2007, the Board shall, in relation to each financial year, send the following information in writing to the Department—
 
@@ -3377,7 +3377,7 @@ the amount referred to in paragraph (2) shall be transferred from the FPF to any
   - (ii) his opinion on the statement; or
 - (b) where he makes a report to the Board at the conclusion of the audit, he includes the certificate and opinion referred to in sub-paragraph (a) in that report instead of making an entry on the statement.
 
-#### 89. Excess amounts: estimated deficits[^key-05162ced90936900bf0c39e11368eba5]
+#### 89. Excess amounts: estimated deficits[^c-05162ced90936900bf0c39e11368eba5]
 
 (1) Where, having taken into account the initial estimate or, as the case may be, the estimate, and any other relevant information available to it, it appears to the Department that the total amount likely to be payable out of the Board’s FPF in the year in question will exceed the total amount likely to be credited to the Board’s FPF in that year, it shall pay to the Board an amount equal to the likely deficit.
 
@@ -3398,7 +3398,7 @@ it may pay to the Board such amount as it thinks fit.
 
 (6) Any amount payable or repayable by the Department to the Board under paragraph (2) or (4) shall be paid or repaid before the end of the year in question.
 
-#### 90. Excess amounts – estimated surpluses[^key-955f6ab3d2f0d6e3def6115159c8f201]
+#### 90. Excess amounts – estimated surpluses[^c-955f6ab3d2f0d6e3def6115159c8f201]
 
 (1) Where, having taken into account the initial estimate or, as the case may be, the estimate, and any other relevant information available to it, it appears to the Department that the total amount likely to be credited to the Board’s FPF in the year in question will exceed the total amount likely to be payable out of its FPF in that year, it shall require the Board to pay to it an amount equal to the likely surplus.
 
@@ -3419,7 +3419,7 @@ it may require the Board to pay to it such amount as it may by notice specify.
 
 (6) An amount payable or repayable by the Board to the Department under paragraph (1), (2) or (4) shall be paid or repaid in March in the year in question.
 
-#### 91. Excess amounts – actual deficits[^key-0ef03f91e57bcf39a1185976b77dd252]
+#### 91. Excess amounts – actual deficits[^c-0ef03f91e57bcf39a1185976b77dd252]
 
 (1) Where, having taken into account the un-audited information and any other relevant information available to it, it appears to the Department that the total amount likely to be payable out of the Board’s FPF in the year in question exceeds the total amount likely to be credited to the Board’s FPF in that year—
 
@@ -3439,7 +3439,7 @@ it may require the Board to pay to it such amount as it may by notice specify.
 
 (4) An amount payable or repayable by the Department to the Board, or vice versa, under paragraph (2), shall be paid or repaid in July in the financial year following the second year.
 
-#### 92. Excess amounts – actual surpluses[^key-c27bf989e9c476048069f8296dca1f55]
+#### 92. Excess amounts – actual surpluses[^c-c27bf989e9c476048069f8296dca1f55]
 
 (1) Where, having taken into account the un-audited information and any other relevant information available to it, it appears to the Department that the total amount credited to the Board’s FPF in the year in question exceeds the total amount paid out of the Board’s FPF in that year—
 
@@ -3463,23 +3463,23 @@ it may require the Board to pay to it such amount as it may by notice specify.
 
 (6) An amount payable or repayable by the Board to the Department, or vice versa, by virtue of paragraph (2), shall be paid or repaid in July in the third year.
 
-#### 93. Duty to provide information[^key-3c4500455ae5181fd27a9c2e0ac18f37]
+#### 93. Duty to provide information[^c-3c4500455ae5181fd27a9c2e0ac18f37]
 
 (1) The Board shall provide the Department with such information relevant to the exercise of its functions under this Part as it may, by written notice to the Board, require.
 
 (2) The Board shall respond to a request under paragraph (1) within such period as the Department shall specify in its notice under that paragraph, or such longer period as it may in any particular case allow.
 
-#### 94. Duty to have regard to guidance[^key-91a1dfd14de21e510822a35fcd49db19]
+#### 94. Duty to have regard to guidance[^c-91a1dfd14de21e510822a35fcd49db19]
 
 The Board shall have regard to such guidance as may be issued by the Department from time to time for the purposes of this Part.
 
 ### PART 14 — PAYMENT OF AWARDS
 
-#### 95. Deduction of tax and lifetime allowance charge[^key-66b40e04491c4fca319d68678bd485ab]
+#### 95. Deduction of tax and lifetime allowance charge[^c-66b40e04491c4fca319d68678bd485ab]
 
 Where any payment that the Board is required to make under this Scheme is chargeable to tax or subject to a lifetime allowance charge under the Finance Act 2004[^f00039] it shall deduct the amount of tax charged or to be recovered from the payment.
 
-#### 96. Payment of awards[^key-92c43888349b18ca1d144d6e87c7215e]
+#### 96. Payment of awards[^c-92c43888349b18ca1d144d6e87c7215e]
 
 (1) Subject to paragraph (2), while an award is payable under this Scheme it shall be paid monthly in arrears.
 
@@ -3506,15 +3506,15 @@ the Board may recover all or part of the overpayment, as it thinks fit; and may 
 
 whichever is the earlier.
 
-#### 97. Pensions under more than one contract[^key-d97b4c4887b388015bfe4be3fb5199b6]
+#### 97. Pensions under more than one contract[^c-d97b4c4887b388015bfe4be3fb5199b6]
 
-(1)[^key-eec0fb0dded27f9fec1b32aeeccb91b6] Where a person is a member of this Scheme in respect of more than one contract of employment, each employment shall be treated separately for pension purposes.
+(1)[^c-eec0fb0dded27f9fec1b32aeeccb91b6] Where a person is a member of this Scheme in respect of more than one contract of employment, each employment shall be treated separately for pension purposes.
 
-(2)[^key-13dc180f3b20a16ef936c30815554f5d] Where a person is, or is eligible to be, a special member of this Scheme in respect of more than one contract of employment the person may elect to treat those employments as one employment.
+(2)[^c-13dc180f3b20a16ef936c30815554f5d] Where a person is, or is eligible to be, a special member of this Scheme in respect of more than one contract of employment the person may elect to treat those employments as one employment.
 
-(3) An election under paragraph (2) shall be made by giving notice in writing to the Board and shall be given at the same time as the application under article 65A(5) (purchase of service during the limited period) or article 65B(9) (purchase of service during the extended limited period)[^key-2982d7f6b7a4b2cca53f812aca9a01bb] of Part 11.
+(3) An election under paragraph (2) shall be made by giving notice in writing to the Board and shall be given at the same time as the application under article 65A(5) (purchase of service during the limited period) or article 65B(9) (purchase of service during the extended limited period)[^c-2982d7f6b7a4b2cca53f812aca9a01bb] of Part 11.
 
-#### 98. Payments for minors and persons incapable of managing their affairs[^key-d11844469d153b2e4da47adebb816942]
+#### 98. Payments for minors and persons incapable of managing their affairs[^c-d11844469d153b2e4da47adebb816942]
 
 (1) Any sum payable to a minor in respect of an award may, if the Board thinks fit, be paid to such other person as it may determine, who shall, in accordance with any directions given by the Board, apply it for the minor’s benefit.
 
@@ -3523,7 +3523,7 @@ whichever is the earlier.
 - (a) it may pay the award or any part of it to a person having the care of the person entitled, or such other person as it may determine; and
 - (b) insofar as it does not pay the award in that manner, it may apply it in such manner as it thinks fit for the benefit of the person entitled or his dependants.
 
-#### 99. Payment of awards; further supplementary provision[^key-2b5b94097a230cfcb094deed7056a0ef]
+#### 99. Payment of awards; further supplementary provision[^c-2b5b94097a230cfcb094deed7056a0ef]
 
 (1) On the death of a person to whom there was due, in respect of an award, a sum not exceeding the amount specified in any order for the time being in force under section 6 of the Administration of Estates (Small Payments) Act (Northern Ireland) 1967[^f00040], the Board may, without requiring the production of probate or any other proof of entitlement—
 
@@ -3544,7 +3544,7 @@ whichever is the earlier.
 
 ### PART 15 — MISCELLANEOUS PROVISIONS
 
-#### 100. Guaranteed minimum pensions, etc.[^key-09bfcc7bd9b8447b92a3fa2c17cff834]
+#### 100. Guaranteed minimum pensions, etc.[^c-09bfcc7bd9b8447b92a3fa2c17cff834]
 
 (1) Subject to paragraph (8), paragraphs (2) to (5) apply where a member has an entitlement to a guaranteed minimum pension under section 10 of the 1993 Act (his “guaranteed minimum”).
 
@@ -3585,10 +3585,10 @@ but a person falling within paragraph (6) is not to be regarded as a pensioner f
 
 (8) This article does not apply if—
 
-- (a) any part of the person’s pension is withdrawn permanently under article 54 following his conviction of an offence of a description specified in paragraph (3) of that article (treason and certain other national security offences[^key-016b93e5a0fdd8844fc2b33056ef9142]); or
+- (a) any part of the person’s pension is withdrawn permanently under article 54 following his conviction of an offence of a description specified in paragraph (3) of that article (treason and certain other national security offences[^c-016b93e5a0fdd8844fc2b33056ef9142]); or
 - (b) the pension is commuted under article 20 (commutation: small pensions).
 
-#### 101. Survivors’ guaranteed minimum pensions[^key-e231f08705b4abb6465e49d340e7902e]
+#### 101. Survivors’ guaranteed minimum pensions[^c-e231f08705b4abb6465e49d340e7902e]
 
 (1) Subject to paragraph (3), this article applies in relation to a scheme member’s surviving spouse or civil partner who has a guaranteed minimum pension under section 13 of the 1993 Act in relation to benefits under Chapter 1 of Part 4 of this Scheme in respect of the deceased member.
 
@@ -3601,11 +3601,11 @@ a pension, of which the weekly rate is equal to his guaranteed minimum, is payab
 
 (3) This article does not apply if—
 
-- (a) any part of the scheme member’s pension was withdrawn permanently under article 54 following his conviction of an offence of a description specified in paragraph (3) of that article (treason and certain other national security offences[^key-97494ebaad84e3d51b81472345a2acf7]);
+- (a) any part of the scheme member’s pension was withdrawn permanently under article 54 following his conviction of an offence of a description specified in paragraph (3) of that article (treason and certain other national security offences[^c-97494ebaad84e3d51b81472345a2acf7]);
 - (b) the scheme member’s pension was commuted under article 20 (commutation: small pensions); or
 - (c) the survivor’s pension under article 23 has been commuted under article 27.
 
-#### 102. Information for the Board[^key-721da30740fa17ce822db009359c3955]
+#### 102. Information for the Board[^c-721da30740fa17ce822db009359c3955]
 
 (1) The Board may by notice in writing require any person who is in receipt of a pension or may have been entitled to a pension or a lump sum under this Scheme to provide the Board with such supporting evidence as the Board may reasonably require to establish—
 
@@ -3616,7 +3616,7 @@ a pension, of which the weekly rate is equal to his guaranteed minimum, is payab
 
 (3) Where a person fails to comply with the requirements of a notice given in accordance with paragraph (1), the Board may withhold the whole or part of any amount that it considers to be payable under the Scheme.
 
-#### 103. Annual benefit statements[^key-11fa7092ed6dc838f0ff6d41498a0bf7]
+#### 103. Annual benefit statements[^c-11fa7092ed6dc838f0ff6d41498a0bf7]
 
 (1) The Board shall issue an annual benefit statement to each of their firefighter, deferred and pension credit members.
 
@@ -3638,11 +3638,11 @@ a pension, of which the weekly rate is equal to his guaranteed minimum, is payab
 - (a) in the case of a pension credit member, is that of his 65th birthday;
 - (b) in any other case, is 31st March of the period in respect of which the statement is issued, or such later date as the Board may choose.
 
-#### 103A. Actuarial valuations[^key-0a473ec84aad3931f694ff56b535b9fd]
+#### 103A. Actuarial valuations[^c-0a473ec84aad3931f694ff56b535b9fd]
 
 Where the scheme actuary is carrying out a valuation of the 2015 Scheme and is required to carry out a valuation of this Scheme, the Board must provide the scheme actuary with any data that the scheme actuary requires in order to carry out a valuation and prepare a report on the valuation.
 
-#### 104. Death of retained or volunteer firefighter before New Firefighters’ Pension Scheme (Northern Ireland) Order 2007 in operation[^key-c1fa441453f4871d1df8e872dbb9b7ed]
+#### 104. Death of retained or volunteer firefighter before New Firefighters’ Pension Scheme (Northern Ireland) Order 2007 in operation[^c-c1fa441453f4871d1df8e872dbb9b7ed]
 
 (1) This article applies where a retained or volunteer firefighter dies on or after 6th April 2006 and before the New Firefighters’ Pension Scheme (Northern Ireland) Order 2007 comes into operation.
 
@@ -3669,7 +3669,7 @@ his nominated partner shall be entitled to the same benefits under this Scheme a
 
 (5) The Board shall notify the personal representatives of the amount deducted.
 
-#### 105. Death on or before 31st March 2007 of retained or volunteer firefighter employed before 6th April 2006[^key-d5f9474c87b994e7fec38d785610b9fe]
+#### 105. Death on or before 31st March 2007 of retained or volunteer firefighter employed before 6th April 2006[^c-d5f9474c87b994e7fec38d785610b9fe]
 
 (1) This article applies where a retained or volunteer firefighter employed by the Board immediately before 6th April 2006 dies on or before 31st March 2007 without having made an election as to membership of this Scheme.
 
@@ -3689,7 +3689,7 @@ his nominated partner shall be entitled to the same benefits under this Scheme a
 
 (5) The Board shall notify the personal representatives of the amount deducted.
 
-#### 106. Retained firefighter opt-out member[^key-298bb88fb83e2704c27ecf0f1ee33eff]
+#### 106. Retained firefighter opt-out member[^c-298bb88fb83e2704c27ecf0f1ee33eff]
 
 (1) This article applies to a person (“**P**”) who—
 
@@ -3738,9 +3738,9 @@ his nominated partner shall be entitled to the same benefits under this Scheme a
 
 ## Annotations
 
-[^key-cabe7337e421fbcb227ed73bd6051ce5]: Commencement: ANNEX Scheme art. 1 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-cabe7337e421fbcb227ed73bd6051ce5]: Commencement: ANNEX Scheme art. 1 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-50f9907f5ec8b3712dadb385e2303af5]: Commencement: ANNEX Scheme art. 2 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-50f9907f5ec8b3712dadb385e2303af5]: Commencement: ANNEX Scheme art. 2 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
 [^f00006]: Footnote: [S.R. 2007 No. 144](https://www.legislation.gov.uk/nisr/2007/144)
 
@@ -3748,69 +3748,69 @@ his nominated partner shall be entitled to the same benefits under this Scheme a
 
 [^f00008]: Footnote: [1999 c.30](https://www.legislation.gov.uk/ukpga/1999/30).
 
-[^key-8bd665c1e69cedc6e1a638d2e9a14e8c]: Textual amendment: Words in [Annex Scheme art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 1(2)(a)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/1/2/a)
+[^c-8bd665c1e69cedc6e1a638d2e9a14e8c]: Textual amendment: Words in [Annex Scheme art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 1(2)(a)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/1/2/a)
 
 [^f00009]: Footnote: [S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147).
 
-[^key-72ba52f108d26f4531d8bcc2f4d23360]: Textual amendment: Words in [Annex Scheme art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) inserted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 1(a)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/1/a)
+[^c-72ba52f108d26f4531d8bcc2f4d23360]: Textual amendment: Words in [Annex Scheme art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) inserted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 1(a)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/1/a)
 
-[^key-ac6b9cd9b3f2caab69e5fd74bf67f7dc]: Textual amendment: Words in [Annex Scheme art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) inserted (18.1.2016 with effect from 1.4.2015) by [The Firefighters’ Compensation Scheme (Amendment) (No. 2) and the New Firefighters’ Pension Scheme (Amendment) (No. 4) Order (Northern Ireland) 2015 (S.R. 2015/422)](https://www.legislation.gov.uk/nisr/2015/422), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/422/article/1/2)[(3)](https://www.legislation.gov.uk/nisr/2015/422/article/1/3), [Sch. 2 para. 1(1)(a)](https://www.legislation.gov.uk/nisr/2015/422/schedule/2/paragraph/1/1/a)
+[^c-ac6b9cd9b3f2caab69e5fd74bf67f7dc]: Textual amendment: Words in [Annex Scheme art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) inserted (18.1.2016 with effect from 1.4.2015) by [The Firefighters’ Compensation Scheme (Amendment) (No. 2) and the New Firefighters’ Pension Scheme (Amendment) (No. 4) Order (Northern Ireland) 2015 (S.R. 2015/422)](https://www.legislation.gov.uk/nisr/2015/422), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/422/article/1/2)[(3)](https://www.legislation.gov.uk/nisr/2015/422/article/1/3), [Sch. 2 para. 1(1)(a)](https://www.legislation.gov.uk/nisr/2015/422/schedule/2/paragraph/1/1/a)
 
-[^key-f03fbba58dd726ebde5dc810010fd898]: Textual amendment: Words in [Annex Scheme art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 1(2)(a)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/1/2/a)
+[^c-f03fbba58dd726ebde5dc810010fd898]: Textual amendment: Words in [Annex Scheme art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 1(2)(a)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/1/2/a)
 
 [^f00010]: Footnote: .[S.I. 1996/1919 (N.I. 16)](https://www.legislation.gov.uk/nisi/1996/1919) Article 107A was inserted by Article 3 of the Employment (Northern Ireland) Order 2002 ([S.I. 2002/2836 (N.I.2)](https://www.legislation.gov.uk/nisi/2002/2836))
 
-[^key-c8f398e7415a03eb11a7b00dad28922b]: Textual amendment: Words in [Annex Scheme Pt. 1 art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) inserted (1.10.2013) by [The New Firefighters’ Pension Scheme (Amendment) (No. 2) Order (Northern Ireland) 2013 (S.R. 2013/172)](https://www.legislation.gov.uk/nisr/2013/172), [art. 1](https://www.legislation.gov.uk/nisr/2013/172/article/1), [Sch. para. 1](https://www.legislation.gov.uk/nisr/2013/172/schedule/paragraph/1)
+[^c-c8f398e7415a03eb11a7b00dad28922b]: Textual amendment: Words in [Annex Scheme Pt. 1 art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) inserted (1.10.2013) by [The New Firefighters’ Pension Scheme (Amendment) (No. 2) Order (Northern Ireland) 2013 (S.R. 2013/172)](https://www.legislation.gov.uk/nisr/2013/172), [art. 1](https://www.legislation.gov.uk/nisr/2013/172/article/1), [Sch. para. 1](https://www.legislation.gov.uk/nisr/2013/172/schedule/paragraph/1)
 
-[^key-bebaed19da0aa68cbbdfab3b10cb1a2a]: Textual amendment: Words in [Annex Scheme Pt. 1 art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/1/article/2/1) substituted (with effect in accordance with art. 1(3) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 1(a)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/1/a)
+[^c-bebaed19da0aa68cbbdfab3b10cb1a2a]: Textual amendment: Words in [Annex Scheme Pt. 1 art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/1/article/2/1) substituted (with effect in accordance with art. 1(3) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 1(a)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/1/a)
 
-[^key-f3f4a6dca06be6ec6371a39738fe0bf2]: Textual amendment: Words in [Annex Scheme art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) substituted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 1(2)(b)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/1/2/b)
+[^c-f3f4a6dca06be6ec6371a39738fe0bf2]: Textual amendment: Words in [Annex Scheme art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) substituted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 1(2)(b)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/1/2/b)
 
-[^key-739ac517467c941af7ca9aa309e0a57c]: Textual amendment: Words in [Annex Scheme art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) substituted (5.7.2024 with effect from 6.4.2006) by [The Firefighters’ Pension Schemes and Compensation Scheme (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/130)](https://www.legislation.gov.uk/nisr/2024/130), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/1)[(3)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/3), [3(2)(a)(i)](https://www.legislation.gov.uk/nisr/2024/130/regulation/3/2/a/i)
+[^c-739ac517467c941af7ca9aa309e0a57c]: Textual amendment: Words in [Annex Scheme art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) substituted (5.7.2024 with effect from 6.4.2006) by [The Firefighters’ Pension Schemes and Compensation Scheme (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/130)](https://www.legislation.gov.uk/nisr/2024/130), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/1)[(3)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/3), [3(2)(a)(i)](https://www.legislation.gov.uk/nisr/2024/130/regulation/3/2/a/i)
 
-[^key-ae242d2ad5564ac2f77075eb708b1f05]: Textual amendment: Words in [Annex Scheme art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 1(2)(c)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/1/2/c)
+[^c-ae242d2ad5564ac2f77075eb708b1f05]: Textual amendment: Words in [Annex Scheme art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 1(2)(c)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/1/2/c)
 
-[^key-f4a8101f137caaa6f8b7fc9b969d5de4]: Textual amendment: Words in [Annex Scheme art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) inserted (5.7.2024 with effect from 6.4.2006) by [The Firefighters’ Pension Schemes and Compensation Scheme (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/130)](https://www.legislation.gov.uk/nisr/2024/130), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/1)[(3)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/3), [3(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2024/130/regulation/3/2/a/ii)
+[^c-f4a8101f137caaa6f8b7fc9b969d5de4]: Textual amendment: Words in [Annex Scheme art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) inserted (5.7.2024 with effect from 6.4.2006) by [The Firefighters’ Pension Schemes and Compensation Scheme (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/130)](https://www.legislation.gov.uk/nisr/2024/130), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/1)[(3)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/3), [3(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2024/130/regulation/3/2/a/ii)
 
-[^key-619ecf962cb2178e17215eb804068e98]: Textual amendment: Words in [Annex Scheme art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) substituted (18.1.2016 with effect from 1.4.2015) by [The Firefighters’ Compensation Scheme (Amendment) (No. 2) and the New Firefighters’ Pension Scheme (Amendment) (No. 4) Order (Northern Ireland) 2015 (S.R. 2015/422)](https://www.legislation.gov.uk/nisr/2015/422), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/422/article/1/2)[(3)](https://www.legislation.gov.uk/nisr/2015/422/article/1/3), [Sch. 2 para. 1(1)(b)](https://www.legislation.gov.uk/nisr/2015/422/schedule/2/paragraph/1/1/b)
+[^c-619ecf962cb2178e17215eb804068e98]: Textual amendment: Words in [Annex Scheme art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) substituted (18.1.2016 with effect from 1.4.2015) by [The Firefighters’ Compensation Scheme (Amendment) (No. 2) and the New Firefighters’ Pension Scheme (Amendment) (No. 4) Order (Northern Ireland) 2015 (S.R. 2015/422)](https://www.legislation.gov.uk/nisr/2015/422), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/422/article/1/2)[(3)](https://www.legislation.gov.uk/nisr/2015/422/article/1/3), [Sch. 2 para. 1(1)(b)](https://www.legislation.gov.uk/nisr/2015/422/schedule/2/paragraph/1/1/b)
 
 [^f00011]: Footnote: [S.R. 2007 No. 143](https://www.legislation.gov.uk/nisr/2007/143)
 
-[^key-398ee9fa042d8d5b914240b2de90ebb1]: Textual amendment: Words in [Annex Scheme art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 1(2)(b)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/1/2/b)
+[^c-398ee9fa042d8d5b914240b2de90ebb1]: Textual amendment: Words in [Annex Scheme art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 1(2)(b)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/1/2/b)
 
-[^key-19b68e35e8c01a508b9073538ff231dd]: Textual amendment: Words in [Annex Scheme art. 2](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) inserted (1.9.2026) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/150)](https://www.legislation.gov.uk/nisr/2026/150), [art. 1](https://www.legislation.gov.uk/nisr/2026/150/article/1), [Sch. para. 1(2)(a)](https://www.legislation.gov.uk/nisr/2026/150/schedule/paragraph/1/2/a)
+[^c-19b68e35e8c01a508b9073538ff231dd]: Textual amendment: Words in [Annex Scheme art. 2](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) inserted (1.9.2026) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/150)](https://www.legislation.gov.uk/nisr/2026/150), [art. 1](https://www.legislation.gov.uk/nisr/2026/150/article/1), [Sch. para. 1(2)(a)](https://www.legislation.gov.uk/nisr/2026/150/schedule/paragraph/1/2/a)
 
-[^key-ee0fb5ae0b36027227d951b4d3175790]: Textual amendment: Words in [Annex Scheme art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 1(2)(d)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/1/2/d)
+[^c-ee0fb5ae0b36027227d951b4d3175790]: Textual amendment: Words in [Annex Scheme art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 1(2)(d)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/1/2/d)
 
-[^key-95b9ec07cb62a7a80980e623251b5051]: Textual amendment: Words in [Annex Scheme art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) inserted (18.1.2016 with effect from 1.4.2015) by [The Firefighters’ Compensation Scheme (Amendment) (No. 2) and the New Firefighters’ Pension Scheme (Amendment) (No. 4) Order (Northern Ireland) 2015 (S.R. 2015/422)](https://www.legislation.gov.uk/nisr/2015/422), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/422/article/1/2)[(3)](https://www.legislation.gov.uk/nisr/2015/422/article/1/3), [Sch. 2 para. 1(1)(c)](https://www.legislation.gov.uk/nisr/2015/422/schedule/2/paragraph/1/1/c)
+[^c-95b9ec07cb62a7a80980e623251b5051]: Textual amendment: Words in [Annex Scheme art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) inserted (18.1.2016 with effect from 1.4.2015) by [The Firefighters’ Compensation Scheme (Amendment) (No. 2) and the New Firefighters’ Pension Scheme (Amendment) (No. 4) Order (Northern Ireland) 2015 (S.R. 2015/422)](https://www.legislation.gov.uk/nisr/2015/422), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/422/article/1/2)[(3)](https://www.legislation.gov.uk/nisr/2015/422/article/1/3), [Sch. 2 para. 1(1)(c)](https://www.legislation.gov.uk/nisr/2015/422/schedule/2/paragraph/1/1/c)
 
 [^f00012]: Footnote: The Faculty of Occupational Medicine is a registered charity no. 1035415
 
-[^key-27e1ac4ed43c23ce6aee5e21929288bb]: Textual amendment: Words in [Annex Scheme Pt. 1 art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) substituted (1.4.2010) by [The General and Specialist Medical Practice (Education, Training and Qualifications) Order 2010 (S.I. 2010/234)](https://www.legislation.gov.uk/uksi/2010/234), [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/234/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2010/234/article/1/4), [Sch. 3 para. 15](https://www.legislation.gov.uk/uksi/2010/234/schedule/3/paragraph/15); [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/478/article/2/c)
+[^c-27e1ac4ed43c23ce6aee5e21929288bb]: Textual amendment: Words in [Annex Scheme Pt. 1 art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) substituted (1.4.2010) by [The General and Specialist Medical Practice (Education, Training and Qualifications) Order 2010 (S.I. 2010/234)](https://www.legislation.gov.uk/uksi/2010/234), [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/234/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2010/234/article/1/4), [Sch. 3 para. 15](https://www.legislation.gov.uk/uksi/2010/234/schedule/3/paragraph/15); [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/478/article/2/c)
 
 [^f00013]: Footnote: [S.I. 2003/1250](https://www.legislation.gov.uk/uksi/2003/1250).
 
-[^key-34b0adc57fc344d765892c7fba7f8fad]: Textual amendment: Words in [Annex Scheme art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) substituted (18.1.2016 with effect from 1.4.2015) by [The Firefighters’ Compensation Scheme (Amendment) (No. 2) and the New Firefighters’ Pension Scheme (Amendment) (No. 4) Order (Northern Ireland) 2015 (S.R. 2015/422)](https://www.legislation.gov.uk/nisr/2015/422), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/422/article/1/2)[(3)](https://www.legislation.gov.uk/nisr/2015/422/article/1/3), [Sch. 2 para. 1(1)(d)](https://www.legislation.gov.uk/nisr/2015/422/schedule/2/paragraph/1/1/d)
+[^c-34b0adc57fc344d765892c7fba7f8fad]: Textual amendment: Words in [Annex Scheme art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) substituted (18.1.2016 with effect from 1.4.2015) by [The Firefighters’ Compensation Scheme (Amendment) (No. 2) and the New Firefighters’ Pension Scheme (Amendment) (No. 4) Order (Northern Ireland) 2015 (S.R. 2015/422)](https://www.legislation.gov.uk/nisr/2015/422), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/422/article/1/2)[(3)](https://www.legislation.gov.uk/nisr/2015/422/article/1/3), [Sch. 2 para. 1(1)(d)](https://www.legislation.gov.uk/nisr/2015/422/schedule/2/paragraph/1/1/d)
 
-[^key-c8f8bb8a6164db53186eba922abaad72]: Textual amendment: Words in [Annex Scheme art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 1(2)(f)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/1/2/f)
+[^c-c8f8bb8a6164db53186eba922abaad72]: Textual amendment: Words in [Annex Scheme art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 1(2)(f)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/1/2/f)
 
-[^key-09d6a2ead447c94a0b74ef9b842de6bb]: Textual amendment: Words in [Annex Scheme art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) substituted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 1(2)(c)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/1/2/c)
+[^c-09d6a2ead447c94a0b74ef9b842de6bb]: Textual amendment: Words in [Annex Scheme art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) substituted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 1(2)(c)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/1/2/c)
 
-[^key-e571734e414f6991873adac98bb1a4cc]: Textual amendment: [Annex Scheme art. 2](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme): semicolon substituted for full stop (1.9.2026) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/150)](https://www.legislation.gov.uk/nisr/2026/150), [art. 1](https://www.legislation.gov.uk/nisr/2026/150/article/1), [Sch. para. 1(2)(b)](https://www.legislation.gov.uk/nisr/2026/150/schedule/paragraph/1/2/b)
+[^c-e571734e414f6991873adac98bb1a4cc]: Textual amendment: [Annex Scheme art. 2](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme): semicolon substituted for full stop (1.9.2026) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/150)](https://www.legislation.gov.uk/nisr/2026/150), [art. 1](https://www.legislation.gov.uk/nisr/2026/150/article/1), [Sch. para. 1(2)(b)](https://www.legislation.gov.uk/nisr/2026/150/schedule/paragraph/1/2/b)
 
-[^key-121b9faf68a349be9da0ebb4298c7f9a]: Textual amendment: Words in [Annex Scheme art. 2](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) added (1.9.2026) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/150)](https://www.legislation.gov.uk/nisr/2026/150), [art. 1](https://www.legislation.gov.uk/nisr/2026/150/article/1), [Sch. para. 1(2)(b)](https://www.legislation.gov.uk/nisr/2026/150/schedule/paragraph/1/2/b)
+[^c-121b9faf68a349be9da0ebb4298c7f9a]: Textual amendment: Words in [Annex Scheme art. 2](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) added (1.9.2026) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/150)](https://www.legislation.gov.uk/nisr/2026/150), [art. 1](https://www.legislation.gov.uk/nisr/2026/150/article/1), [Sch. para. 1(2)(b)](https://www.legislation.gov.uk/nisr/2026/150/schedule/paragraph/1/2/b)
 
-[^key-1415e95cef3d76c2a21a7b84a06275af]: Textual amendment: Words in [Annex Scheme art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) omitted (5.7.2024 with effect from 6.4.2006) by virtue of [The Firefighters’ Pension Schemes and Compensation Scheme (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/130)](https://www.legislation.gov.uk/nisr/2024/130), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/1)[(3)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/3), [3(2)(a)(iii)](https://www.legislation.gov.uk/nisr/2024/130/regulation/3/2/a/iii)
+[^c-1415e95cef3d76c2a21a7b84a06275af]: Textual amendment: Words in [Annex Scheme art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) omitted (5.7.2024 with effect from 6.4.2006) by virtue of [The Firefighters’ Pension Schemes and Compensation Scheme (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/130)](https://www.legislation.gov.uk/nisr/2024/130), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/1)[(3)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/3), [3(2)(a)(iii)](https://www.legislation.gov.uk/nisr/2024/130/regulation/3/2/a/iii)
 
-[^key-44730ebfc57529bbb6ff607bf7a7548d]: Textual amendment: Words in [Annex Scheme Pt. 1 art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/1/article/2/1) substituted (with effect in accordance with art. 1(3) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 1(b)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/1/b)
+[^c-44730ebfc57529bbb6ff607bf7a7548d]: Textual amendment: Words in [Annex Scheme Pt. 1 art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/1/article/2/1) substituted (with effect in accordance with art. 1(3) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 1(b)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/1/b)
 
-[^key-55e80d50cc3b994a3a6845f15afc76f2]: Textual amendment: Words in [Annex Scheme Pt. 1 art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/1/article/2/1) substituted (with effect in accordance with art. 1(3) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 1(c)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/1/c)
+[^c-55e80d50cc3b994a3a6845f15afc76f2]: Textual amendment: Words in [Annex Scheme Pt. 1 art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/1/article/2/1) substituted (with effect in accordance with art. 1(3) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 1(c)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/1/c)
 
-[^key-5ef07a299aecccf9a7ba7d5e8b3ce56b]: Textual amendment: Words in [Annex Scheme art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 1(2)(g)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/1/2/g)
+[^c-5ef07a299aecccf9a7ba7d5e8b3ce56b]: Textual amendment: Words in [Annex Scheme art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 1(2)(g)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/1/2/g)
 
-[^key-03cc545dfcee261f3112c49072ca38de]: Textual amendment: Words in [Annex Scheme art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 1(2)(h)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/1/2/h)
+[^c-03cc545dfcee261f3112c49072ca38de]: Textual amendment: Words in [Annex Scheme art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 1(2)(h)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/1/2/h)
 
-[^key-fde379a367db175f67bfa87e393f6f43]: Textual amendment: Words in [Annex Scheme art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) inserted (29.9.2023) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/157)](https://www.legislation.gov.uk/nisr/2023/157), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1), [14(2)](https://www.legislation.gov.uk/nisr/2023/157/regulation/14/2), [34](https://www.legislation.gov.uk/nisr/2023/157/regulation/34) (with [regs. 28-33](https://www.legislation.gov.uk/nisr/2023/157/regulation/28))
+[^c-fde379a367db175f67bfa87e393f6f43]: Textual amendment: Words in [Annex Scheme art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) inserted (29.9.2023) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/157)](https://www.legislation.gov.uk/nisr/2023/157), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1), [14(2)](https://www.legislation.gov.uk/nisr/2023/157/regulation/14/2), [34](https://www.legislation.gov.uk/nisr/2023/157/regulation/34) (with [regs. 28-33](https://www.legislation.gov.uk/nisr/2023/157/regulation/28))
 
 [^f00014]: Footnote: [S.R. 2002 No. 377](https://www.legislation.gov.uk/nisr/2002/377).
 
@@ -3818,934 +3818,934 @@ his nominated partner shall be entitled to the same benefits under this Scheme a
 
 [^f00016]: Footnote: [S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213) as amended by [S.I. 1993/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1993/3147) Schedule 1 paragraph 50(3).
 
-[^key-f0ab4d048423c3bc1b59359cc42f803f]: Textual amendment: Words in [Annex Scheme art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 1(2)(i)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/1/2/i)
+[^c-f0ab4d048423c3bc1b59359cc42f803f]: Textual amendment: Words in [Annex Scheme art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 1(2)(i)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/1/2/i)
 
-[^key-655e5600e69e608e5cc1b2ed4e2c0d0a]: Textual amendment: Words in [Annex Scheme art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) inserted (18.1.2016 with effect from 1.4.2015) by [The Firefighters’ Compensation Scheme (Amendment) (No. 2) and the New Firefighters’ Pension Scheme (Amendment) (No. 4) Order (Northern Ireland) 2015 (S.R. 2015/422)](https://www.legislation.gov.uk/nisr/2015/422), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/422/article/1/2)[(3)](https://www.legislation.gov.uk/nisr/2015/422/article/1/3), [Sch. 2 para. 1(1)(e)](https://www.legislation.gov.uk/nisr/2015/422/schedule/2/paragraph/1/1/e)
+[^c-655e5600e69e608e5cc1b2ed4e2c0d0a]: Textual amendment: Words in [Annex Scheme art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) inserted (18.1.2016 with effect from 1.4.2015) by [The Firefighters’ Compensation Scheme (Amendment) (No. 2) and the New Firefighters’ Pension Scheme (Amendment) (No. 4) Order (Northern Ireland) 2015 (S.R. 2015/422)](https://www.legislation.gov.uk/nisr/2015/422), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/422/article/1/2)[(3)](https://www.legislation.gov.uk/nisr/2015/422/article/1/3), [Sch. 2 para. 1(1)(e)](https://www.legislation.gov.uk/nisr/2015/422/schedule/2/paragraph/1/1/e)
 
-[^key-db38fc699c9b9bd4f79dde39623bc506]: Textual amendment: Words in [Annex Scheme art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) substituted (18.1.2016 with effect from 1.4.2015) by [The Firefighters’ Compensation Scheme (Amendment) (No. 2) and the New Firefighters’ Pension Scheme (Amendment) (No. 4) Order (Northern Ireland) 2015 (S.R. 2015/422)](https://www.legislation.gov.uk/nisr/2015/422), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/422/article/1/2)[(3)](https://www.legislation.gov.uk/nisr/2015/422/article/1/3), [Sch. 2 para. 1(1)(f)](https://www.legislation.gov.uk/nisr/2015/422/schedule/2/paragraph/1/1/f)
+[^c-db38fc699c9b9bd4f79dde39623bc506]: Textual amendment: Words in [Annex Scheme art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) substituted (18.1.2016 with effect from 1.4.2015) by [The Firefighters’ Compensation Scheme (Amendment) (No. 2) and the New Firefighters’ Pension Scheme (Amendment) (No. 4) Order (Northern Ireland) 2015 (S.R. 2015/422)](https://www.legislation.gov.uk/nisr/2015/422), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/422/article/1/2)[(3)](https://www.legislation.gov.uk/nisr/2015/422/article/1/3), [Sch. 2 para. 1(1)(f)](https://www.legislation.gov.uk/nisr/2015/422/schedule/2/paragraph/1/1/f)
 
-[^key-a4ec009b884853f65ce01eb82c0d66b9]: Textual amendment: Words in [Annex Scheme art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) substituted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 1(2)(j)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/1/2/j)
+[^c-a4ec009b884853f65ce01eb82c0d66b9]: Textual amendment: Words in [Annex Scheme art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) substituted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 1(2)(j)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/1/2/j)
 
-[^key-09c6993318dc603aca47f7a1ee12f6b6]: Textual amendment: Words in [Annex Scheme art. 2](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) inserted (1.9.2026) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/150)](https://www.legislation.gov.uk/nisr/2026/150), [art. 1](https://www.legislation.gov.uk/nisr/2026/150/article/1), [Sch. para. 1(3)](https://www.legislation.gov.uk/nisr/2026/150/schedule/paragraph/1/3)
+[^c-09c6993318dc603aca47f7a1ee12f6b6]: Textual amendment: Words in [Annex Scheme art. 2](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) inserted (1.9.2026) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/150)](https://www.legislation.gov.uk/nisr/2026/150), [art. 1](https://www.legislation.gov.uk/nisr/2026/150/article/1), [Sch. para. 1(3)](https://www.legislation.gov.uk/nisr/2026/150/schedule/paragraph/1/3)
 
 [^f00017]: Footnote: The document is accessible at http://www/lge.gov.uk/conditions/firefighters/content/documents/fire service rolemaps.pdf.
 
-[^key-45f50d5db9f168927bd0a67a871073d4]: Textual amendment: Words in [Annex Scheme art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) substituted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 1(b)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/1/b)
+[^c-45f50d5db9f168927bd0a67a871073d4]: Textual amendment: Words in [Annex Scheme art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) substituted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 1(b)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/1/b)
 
-[^key-bd21db869d811dd9203192d2fd0f1baa]: Textual amendment: Words in [Annex Scheme art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 1(2)(k)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/1/2/k)
+[^c-bd21db869d811dd9203192d2fd0f1baa]: Textual amendment: Words in [Annex Scheme art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 1(2)(k)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/1/2/k)
 
-[^key-1df15be6ee1178bee6d21eb95a25b36e]: Textual amendment: Words in [Annex Scheme art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 1(2)(d)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/1/2/d)
+[^c-1df15be6ee1178bee6d21eb95a25b36e]: Textual amendment: Words in [Annex Scheme art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 1(2)(d)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/1/2/d)
 
-[^key-5b85a14b42b5879fecb3ae98d7a4e292]: Textual amendment: Words in [Annex Scheme art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 1(2)(e)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/1/2/e)
+[^c-5b85a14b42b5879fecb3ae98d7a4e292]: Textual amendment: Words in [Annex Scheme art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 1(2)(e)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/1/2/e)
 
-[^key-3596ff66204e1daca922a9bcfdcb0446]: Textual amendment: Words in [Annex Scheme art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) substituted (18.1.2016 with effect from 1.4.2015) by [The Firefighters’ Compensation Scheme (Amendment) (No. 2) and the New Firefighters’ Pension Scheme (Amendment) (No. 4) Order (Northern Ireland) 2015 (S.R. 2015/422)](https://www.legislation.gov.uk/nisr/2015/422), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/422/article/1/2)[(3)](https://www.legislation.gov.uk/nisr/2015/422/article/1/3), [Sch. 2 para. 1(1)(g)](https://www.legislation.gov.uk/nisr/2015/422/schedule/2/paragraph/1/1/g)
+[^c-3596ff66204e1daca922a9bcfdcb0446]: Textual amendment: Words in [Annex Scheme art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) substituted (18.1.2016 with effect from 1.4.2015) by [The Firefighters’ Compensation Scheme (Amendment) (No. 2) and the New Firefighters’ Pension Scheme (Amendment) (No. 4) Order (Northern Ireland) 2015 (S.R. 2015/422)](https://www.legislation.gov.uk/nisr/2015/422), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/422/article/1/2)[(3)](https://www.legislation.gov.uk/nisr/2015/422/article/1/3), [Sch. 2 para. 1(1)(g)](https://www.legislation.gov.uk/nisr/2015/422/schedule/2/paragraph/1/1/g)
 
-[^key-8bc79dcf2c91fe62fdec7e35bba3d698]: Textual amendment: Words in [Annex Scheme art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) substituted (18.1.2016 with effect from 1.4.2015) by [The Firefighters’ Compensation Scheme (Amendment) (No. 2) and the New Firefighters’ Pension Scheme (Amendment) (No. 4) Order (Northern Ireland) 2015 (S.R. 2015/422)](https://www.legislation.gov.uk/nisr/2015/422), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/422/article/1/2)[(3)](https://www.legislation.gov.uk/nisr/2015/422/article/1/3), [Sch. 2 para. 1(1)(h)](https://www.legislation.gov.uk/nisr/2015/422/schedule/2/paragraph/1/1/h)
+[^c-8bc79dcf2c91fe62fdec7e35bba3d698]: Textual amendment: Words in [Annex Scheme art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) substituted (18.1.2016 with effect from 1.4.2015) by [The Firefighters’ Compensation Scheme (Amendment) (No. 2) and the New Firefighters’ Pension Scheme (Amendment) (No. 4) Order (Northern Ireland) 2015 (S.R. 2015/422)](https://www.legislation.gov.uk/nisr/2015/422), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/422/article/1/2)[(3)](https://www.legislation.gov.uk/nisr/2015/422/article/1/3), [Sch. 2 para. 1(1)(h)](https://www.legislation.gov.uk/nisr/2015/422/schedule/2/paragraph/1/1/h)
 
-[^key-65b325bd1d022d0507bb5a08168f29d5]: Textual amendment: Words in [Annex Scheme art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 1(2)(f)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/1/2/f)
+[^c-65b325bd1d022d0507bb5a08168f29d5]: Textual amendment: Words in [Annex Scheme art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 1(2)(f)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/1/2/f)
 
-[^key-ab8032e6df55487ad1f25d12afb66dbf]: Textual amendment: Words in [Annex Scheme art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) substituted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 1(c)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/1/c)
+[^c-ab8032e6df55487ad1f25d12afb66dbf]: Textual amendment: Words in [Annex Scheme art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) substituted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 1(c)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/1/c)
 
 [^f00018]: Footnote: [S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213).
 
-[^key-e687c86ebdeef20f72bef10e134dc13a]: Textual amendment: Word in [Annex Scheme art. 2](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) removed (1.4.2022) by virtue of [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/155)](https://www.legislation.gov.uk/nisr/2022/155), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/155/regulation/1/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2022/155/schedule/2/paragraph/1)
+[^c-e687c86ebdeef20f72bef10e134dc13a]: Textual amendment: Word in [Annex Scheme art. 2](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) removed (1.4.2022) by virtue of [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/155)](https://www.legislation.gov.uk/nisr/2022/155), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/155/regulation/1/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2022/155/schedule/2/paragraph/1)
 
-[^key-0ffd4f9e3e92f9292e45edfdbb17b5c7]: Textual amendment: Words in [Annex Scheme art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) inserted (18.1.2016 with effect from 1.4.2015) by [The Firefighters’ Compensation Scheme (Amendment) (No. 2) and the New Firefighters’ Pension Scheme (Amendment) (No. 4) Order (Northern Ireland) 2015 (S.R. 2015/422)](https://www.legislation.gov.uk/nisr/2015/422), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/422/article/1/2)[(3)](https://www.legislation.gov.uk/nisr/2015/422/article/1/3), [Sch. 2 para. 1(1)(i)](https://www.legislation.gov.uk/nisr/2015/422/schedule/2/paragraph/1/1/i)
+[^c-0ffd4f9e3e92f9292e45edfdbb17b5c7]: Textual amendment: Words in [Annex Scheme art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) inserted (18.1.2016 with effect from 1.4.2015) by [The Firefighters’ Compensation Scheme (Amendment) (No. 2) and the New Firefighters’ Pension Scheme (Amendment) (No. 4) Order (Northern Ireland) 2015 (S.R. 2015/422)](https://www.legislation.gov.uk/nisr/2015/422), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/422/article/1/2)[(3)](https://www.legislation.gov.uk/nisr/2015/422/article/1/3), [Sch. 2 para. 1(1)(i)](https://www.legislation.gov.uk/nisr/2015/422/schedule/2/paragraph/1/1/i)
 
-[^key-b765e301e99610b669ebd956e090a0f7]: Textual amendment: Words in [Annex Scheme art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 1(2)(l)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/1/2/l)
+[^c-b765e301e99610b669ebd956e090a0f7]: Textual amendment: Words in [Annex Scheme art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 1(2)(l)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/1/2/l)
 
-[^key-1c54182c57544b81239425e4ae58b9d7]: Textual amendment: [Annex Scheme art. 2(3)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 1(3)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/1/3)
+[^c-1c54182c57544b81239425e4ae58b9d7]: Textual amendment: [Annex Scheme art. 2(3)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 1(3)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/1/3)
 
-[^key-5172850fb04dc103074182a9d759e0c7]: Textual amendment: [Annex Scheme art. 2A](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/2A) inserted (5.7.2024) by [The Firefighters’ Pension Schemes and Compensation Scheme (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/130)](https://www.legislation.gov.uk/nisr/2024/130), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/nisr/2024/130/regulation/3/2/b)
+[^c-5172850fb04dc103074182a9d759e0c7]: Textual amendment: [Annex Scheme art. 2A](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/2A) inserted (5.7.2024) by [The Firefighters’ Pension Schemes and Compensation Scheme (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/130)](https://www.legislation.gov.uk/nisr/2024/130), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/nisr/2024/130/regulation/3/2/b)
 
-[^key-ac22ef835be54f3c636e43e26701ef19]: Commencement: ANNEX Scheme art. 3 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-ac22ef835be54f3c636e43e26701ef19]: Commencement: ANNEX Scheme art. 3 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-5baa4ed117ccc77984b549f745accd96]: Commencement: ANNEX Scheme art. 4 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-5baa4ed117ccc77984b549f745accd96]: Commencement: ANNEX Scheme art. 4 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-0f5351c027dcbd1d7bf2455e220a7dc1]: Textual amendment: Words in [Annex Scheme Pt. 2 art. 4(1)(b)(i)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/2/article/4/1/b/i) added (with effect in accordance with art. 1(3) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 2(a)(i)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/2/a/i)
+[^c-0f5351c027dcbd1d7bf2455e220a7dc1]: Textual amendment: Words in [Annex Scheme Pt. 2 art. 4(1)(b)(i)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/2/article/4/1/b/i) added (with effect in accordance with art. 1(3) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 2(a)(i)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/2/a/i)
 
-[^key-3094fca2369706d4d4287f93a479b292]: Textual amendment: Word in [Annex Scheme Pt. 2 art. 4(1)(b)(iii)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/2/article/4/1/b/iii) omitted (with effect in accordance with art. 1(3) of the amending Rule) by virtue of [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 2(a)(ii)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/2/a/ii)
+[^c-3094fca2369706d4d4287f93a479b292]: Textual amendment: Word in [Annex Scheme Pt. 2 art. 4(1)(b)(iii)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/2/article/4/1/b/iii) omitted (with effect in accordance with art. 1(3) of the amending Rule) by virtue of [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 2(a)(ii)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/2/a/ii)
 
-[^key-76eef46a99c0fd0d7feeda8cf1ecf520]: Textual amendment: [Annex Scheme Pt. 2 art. 4(1)(b)(iii)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/2/article/4/1/b/iii) omitted (with effect in accordance with art. 1(3) of the amending Rule) by virtue of [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 2(a)(ii)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/2/a/ii)
+[^c-76eef46a99c0fd0d7feeda8cf1ecf520]: Textual amendment: [Annex Scheme Pt. 2 art. 4(1)(b)(iii)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/2/article/4/1/b/iii) omitted (with effect in accordance with art. 1(3) of the amending Rule) by virtue of [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 2(a)(ii)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/2/a/ii)
 
-[^key-0536a689ccf7a9f64c337486b306badb]: Textual amendment: Words in [Annex Scheme Pt. 2 art. 4(2)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) substituted (1.10.2013) by [The New Firefighters’ Pension Scheme (Amendment) (No. 2) Order (Northern Ireland) 2013 (S.R. 2013/172)](https://www.legislation.gov.uk/nisr/2013/172), [art. 1](https://www.legislation.gov.uk/nisr/2013/172/article/1), [Sch. para. 2(a)(i)](https://www.legislation.gov.uk/nisr/2013/172/schedule/paragraph/2/a/i)
+[^c-0536a689ccf7a9f64c337486b306badb]: Textual amendment: Words in [Annex Scheme Pt. 2 art. 4(2)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) substituted (1.10.2013) by [The New Firefighters’ Pension Scheme (Amendment) (No. 2) Order (Northern Ireland) 2013 (S.R. 2013/172)](https://www.legislation.gov.uk/nisr/2013/172), [art. 1](https://www.legislation.gov.uk/nisr/2013/172/article/1), [Sch. para. 2(a)(i)](https://www.legislation.gov.uk/nisr/2013/172/schedule/paragraph/2/a/i)
 
-[^key-f425d11e15f09b655399e4cd31ef7e0c]: Textual amendment: [Annex Scheme Pt. 2 art. 4(2A)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) substituted (retrospective to 1.10.2013) by [The New Firefighters’ Pension Scheme (Amendment) (No. 2) Order (Northern Ireland) 2014 (S.R. 2014/168)](https://www.legislation.gov.uk/nisr/2014/168), [art. 1(3)](https://www.legislation.gov.uk/nisr/2014/168/article/1/3), [Sch. para. 1(a)](https://www.legislation.gov.uk/nisr/2014/168/schedule/paragraph/1/a)
+[^c-f425d11e15f09b655399e4cd31ef7e0c]: Textual amendment: [Annex Scheme Pt. 2 art. 4(2A)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) substituted (retrospective to 1.10.2013) by [The New Firefighters’ Pension Scheme (Amendment) (No. 2) Order (Northern Ireland) 2014 (S.R. 2014/168)](https://www.legislation.gov.uk/nisr/2014/168), [art. 1(3)](https://www.legislation.gov.uk/nisr/2014/168/article/1/3), [Sch. para. 1(a)](https://www.legislation.gov.uk/nisr/2014/168/schedule/paragraph/1/a)
 
-[^key-b6eeb4f72f240c370247da4b9f3cc359]: Textual amendment: Words in [Annex Scheme art. 4(4)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 2(2)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/2/2)
+[^c-b6eeb4f72f240c370247da4b9f3cc359]: Textual amendment: Words in [Annex Scheme art. 4(4)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 2(2)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/2/2)
 
-[^key-3f263a38e52e1bac351ac8bc65eccc29]: Textual amendment: Words in [Annex Scheme Pt. 2 art. 4(5)(a)-(c)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/2/article/4/5/a) added (with effect in accordance with art. 1(3) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 2(b)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/2/b)
+[^c-3f263a38e52e1bac351ac8bc65eccc29]: Textual amendment: Words in [Annex Scheme Pt. 2 art. 4(5)(a)-(c)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/2/article/4/5/a) added (with effect in accordance with art. 1(3) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 2(b)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/2/b)
 
-[^key-726c73cf6b6692a46f1b0e70e55b2621]: Textual amendment: Words in [Annex Scheme art. 4(5)(b)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) substituted (5.7.2024 with effect from 6.4.2006) by [The Firefighters’ Pension Schemes and Compensation Scheme (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/130)](https://www.legislation.gov.uk/nisr/2024/130), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/1)[(3)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/3), [3(3)(a)](https://www.legislation.gov.uk/nisr/2024/130/regulation/3/3/a)
+[^c-726c73cf6b6692a46f1b0e70e55b2621]: Textual amendment: Words in [Annex Scheme art. 4(5)(b)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) substituted (5.7.2024 with effect from 6.4.2006) by [The Firefighters’ Pension Schemes and Compensation Scheme (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/130)](https://www.legislation.gov.uk/nisr/2024/130), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/1)[(3)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/3), [3(3)(a)](https://www.legislation.gov.uk/nisr/2024/130/regulation/3/3/a)
 
-[^key-5a532986647b4b69e0016fadb2e4726d]: Textual amendment: [Annex Scheme art. 4(6)-(9)](https://www.legislation.gov.uk/nisr/2007/215/article/4/article/4/6) omitted (5.7.2024 with effect from 6.4.2006) by virtue of [The Firefighters’ Pension Schemes and Compensation Scheme (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/130)](https://www.legislation.gov.uk/nisr/2024/130), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/1)[(3)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/3), [3(3)(b)](https://www.legislation.gov.uk/nisr/2024/130/regulation/3/3/b)
+[^c-5a532986647b4b69e0016fadb2e4726d]: Textual amendment: [Annex Scheme art. 4(6)-(9)](https://www.legislation.gov.uk/nisr/2007/215/article/4/article/4/6) omitted (5.7.2024 with effect from 6.4.2006) by virtue of [The Firefighters’ Pension Schemes and Compensation Scheme (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/130)](https://www.legislation.gov.uk/nisr/2024/130), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/1)[(3)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/3), [3(3)(b)](https://www.legislation.gov.uk/nisr/2024/130/regulation/3/3/b)
 
-[^key-ea7bafe69ad16cfcf2c2d8ab82cf8d4f]: Textual amendment: [Annex Scheme](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) art. 4(10) inserted (18.1.2016 with effect from 31.3.2015) by [The Firefighters’ Compensation Scheme (Amendment) (No. 2) and the New Firefighters’ Pension Scheme (Amendment) (No. 4) Order (Northern Ireland) 2015 (S.R. 2015/422)](https://www.legislation.gov.uk/nisr/2015/422), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/422/article/1/2), [Sch. 2 para. 2(2)](https://www.legislation.gov.uk/nisr/2015/422/schedule/2/paragraph/2/2)
+[^c-ea7bafe69ad16cfcf2c2d8ab82cf8d4f]: Textual amendment: [Annex Scheme](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) art. 4(10) inserted (18.1.2016 with effect from 31.3.2015) by [The Firefighters’ Compensation Scheme (Amendment) (No. 2) and the New Firefighters’ Pension Scheme (Amendment) (No. 4) Order (Northern Ireland) 2015 (S.R. 2015/422)](https://www.legislation.gov.uk/nisr/2015/422), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/422/article/1/2), [Sch. 2 para. 2(2)](https://www.legislation.gov.uk/nisr/2015/422/schedule/2/paragraph/2/2)
 
-[^key-c865dca421168abfecea380e72b20035]: Textual amendment: [Annex Scheme art. 4(11)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) inserted (5.7.2024 with effect from 6.4.2006) by [The Firefighters’ Pension Schemes and Compensation Scheme (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/130)](https://www.legislation.gov.uk/nisr/2024/130), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/1)[(3)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/3), [3(3)(c)](https://www.legislation.gov.uk/nisr/2024/130/regulation/3/3/c)
+[^c-c865dca421168abfecea380e72b20035]: Textual amendment: [Annex Scheme art. 4(11)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme) inserted (5.7.2024 with effect from 6.4.2006) by [The Firefighters’ Pension Schemes and Compensation Scheme (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/130)](https://www.legislation.gov.uk/nisr/2024/130), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/1)[(3)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/3), [3(3)(c)](https://www.legislation.gov.uk/nisr/2024/130/regulation/3/3/c)
 
-[^key-e0601d13048776823dbbdc3c8506049c]: Textual amendment: [Annex Scheme art. 4A](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/4A) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 2(3)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/2/3)
+[^c-e0601d13048776823dbbdc3c8506049c]: Textual amendment: [Annex Scheme art. 4A](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/4A) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 2(3)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/2/3)
 
-[^key-fa341696525260612809617972552286]: Textual amendment: Words in [Annex Scheme art. 4A(7)(b)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/4A/7/b) substituted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 2(2)(a)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/2/2/a)
+[^c-fa341696525260612809617972552286]: Textual amendment: Words in [Annex Scheme art. 4A(7)(b)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/4A/7/b) substituted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 2(2)(a)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/2/2/a)
 
-[^key-3b8f2d6313898607b60547e1fd0e8cde]: Textual amendment: Words in [Annex Scheme art. 4A(11)(b)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/4A/11/b) substituted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 2(2)(b)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/2/2/b)
+[^c-3b8f2d6313898607b60547e1fd0e8cde]: Textual amendment: Words in [Annex Scheme art. 4A(11)(b)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/4A/11/b) substituted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 2(2)(b)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/2/2/b)
 
-[^key-f13fed0542804b206e5fbd491e2b7751]: Textual amendment: [Annex Scheme arts. 4B-4E](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/4B) inserted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 2(a)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/2/a)
+[^c-f13fed0542804b206e5fbd491e2b7751]: Textual amendment: [Annex Scheme arts. 4B-4E](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/4B) inserted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 2(a)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/2/a)
 
-[^key-ee9c1826efd3de8be9b33399ae7f2e7f]: Commencement: ANNEX Scheme art. 5 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-ee9c1826efd3de8be9b33399ae7f2e7f]: Commencement: ANNEX Scheme art. 5 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-a3f983ecaa1a1b2e72d8224c21a41ab9]: Textual amendment: [Annex Scheme Pt. 2 art. 5(1)(b)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/2/article/5/1/b) substituted (with effect in accordance with art. 1(3) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 3(a)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/3/a)
+[^c-a3f983ecaa1a1b2e72d8224c21a41ab9]: Textual amendment: [Annex Scheme Pt. 2 art. 5(1)(b)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/2/article/5/1/b) substituted (with effect in accordance with art. 1(3) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 3(a)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/3/a)
 
-[^key-ecd8bd88fdb0ad81fce86e2512a31ca5]: Textual amendment: [Annex Scheme art. 5A](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/5A) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 2(4)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/2/4)
+[^c-ecd8bd88fdb0ad81fce86e2512a31ca5]: Textual amendment: [Annex Scheme art. 5A](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/5A) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 2(4)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/2/4)
 
-[^key-b972db1d06e6000f7e33f6c75458a307]: Textual amendment: Words in [Annex Scheme art. 5A(2)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/5A/2) inserted (18.1.2016 with effect from 1.4.2015) by [The Firefighters’ Compensation Scheme (Amendment) (No. 2) and the New Firefighters’ Pension Scheme (Amendment) (No. 4) Order (Northern Ireland) 2015 (S.R. 2015/422)](https://www.legislation.gov.uk/nisr/2015/422), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/422/article/1/2)[(3)](https://www.legislation.gov.uk/nisr/2015/422/article/1/3), [Sch. 2 para. 2(3)](https://www.legislation.gov.uk/nisr/2015/422/schedule/2/paragraph/2/3)
+[^c-b972db1d06e6000f7e33f6c75458a307]: Textual amendment: Words in [Annex Scheme art. 5A(2)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/5A/2) inserted (18.1.2016 with effect from 1.4.2015) by [The Firefighters’ Compensation Scheme (Amendment) (No. 2) and the New Firefighters’ Pension Scheme (Amendment) (No. 4) Order (Northern Ireland) 2015 (S.R. 2015/422)](https://www.legislation.gov.uk/nisr/2015/422), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/422/article/1/2)[(3)](https://www.legislation.gov.uk/nisr/2015/422/article/1/3), [Sch. 2 para. 2(3)](https://www.legislation.gov.uk/nisr/2015/422/schedule/2/paragraph/2/3)
 
-[^key-e800ff7a65e304fa54a487e8614cb666]: Commencement: ANNEX Scheme art. 6 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-e800ff7a65e304fa54a487e8614cb666]: Commencement: ANNEX Scheme art. 6 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-ac1dc3d1e192f8dfcdfeb63e7b96da5f]: Textual amendment: Words in [Annex Scheme art. 6(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/6/1) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 2(5)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/2/5)
+[^c-ac1dc3d1e192f8dfcdfeb63e7b96da5f]: Textual amendment: Words in [Annex Scheme art. 6(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/6/1) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 2(5)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/2/5)
 
-[^key-90cb76a21da7497e27e87cdf1b46c923]: Textual amendment: Words in [Annex Scheme art. 6(2)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/6/2) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 2(5)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/2/5)
+[^c-90cb76a21da7497e27e87cdf1b46c923]: Textual amendment: Words in [Annex Scheme art. 6(2)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/6/2) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 2(5)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/2/5)
 
-[^key-91b36bcbf48db3b2314f7feb090685a6]: Textual amendment: [Annex Scheme art. 6(3)(4)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/6/3) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 2(6)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/2/6)
+[^c-91b36bcbf48db3b2314f7feb090685a6]: Textual amendment: [Annex Scheme art. 6(3)(4)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/6/3) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 2(6)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/2/6)
 
-[^key-7fdc111724ee3c3c74bca8241138a29f]: Textual amendment: [Annex Scheme art. 6(5)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/6/5)[(6)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/6/6) inserted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 2(b)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/2/b)
+[^c-7fdc111724ee3c3c74bca8241138a29f]: Textual amendment: [Annex Scheme art. 6(5)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/6/5)[(6)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/6/6) inserted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 2(b)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/2/b)
 
-[^key-83f1700b13221a261d980a11f709ba05]: Commencement: ANNEX Scheme art. 7 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-83f1700b13221a261d980a11f709ba05]: Commencement: ANNEX Scheme art. 7 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-2ccee1b4e94a0280c4397df042e4f048]: Textual amendment: Words in [Annex Scheme art. 7(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/7/1) substituted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 2(c)(i)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/2/c/i)
+[^c-2ccee1b4e94a0280c4397df042e4f048]: Textual amendment: Words in [Annex Scheme art. 7(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/7/1) substituted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 2(c)(i)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/2/c/i)
 
-[^key-33f1bd9ebafa51b3332c5b2bc18749b3]: Textual amendment: [Annex Scheme art. 7(3)-(5)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/7/3) inserted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 2(c)(ii)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/2/c/ii)
+[^c-33f1bd9ebafa51b3332c5b2bc18749b3]: Textual amendment: [Annex Scheme art. 7(3)-(5)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/7/3) inserted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 2(c)(ii)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/2/c/ii)
 
-[^key-33f7b3a28864607fb78e2474bd72bb17]: Commencement: ANNEX Scheme art. 8 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-33f7b3a28864607fb78e2474bd72bb17]: Commencement: ANNEX Scheme art. 8 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-a23f69d8a0a792970f09bc4bccc21182]: Textual amendment: [Annex Scheme art. 8(1A)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/8/1A) inserted (1.10.2013) by [The New Firefighters’ Pension Scheme (Amendment) (No. 2) Order (Northern Ireland) 2013 (S.R. 2013/172)](https://www.legislation.gov.uk/nisr/2013/172), [art. 1](https://www.legislation.gov.uk/nisr/2013/172/article/1), [Sch. para. 2(b)](https://www.legislation.gov.uk/nisr/2013/172/schedule/paragraph/2/b)
+[^c-a23f69d8a0a792970f09bc4bccc21182]: Textual amendment: [Annex Scheme art. 8(1A)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/8/1A) inserted (1.10.2013) by [The New Firefighters’ Pension Scheme (Amendment) (No. 2) Order (Northern Ireland) 2013 (S.R. 2013/172)](https://www.legislation.gov.uk/nisr/2013/172), [art. 1](https://www.legislation.gov.uk/nisr/2013/172/article/1), [Sch. para. 2(b)](https://www.legislation.gov.uk/nisr/2013/172/schedule/paragraph/2/b)
 
-[^key-22c61ab8e74677ec3e60a5769b4e21c8]: Textual amendment: Annex Scheme Pt. 2 art. 8(1A) renumbered as art. 8(1B) (retrospective to 1.10.2013) by [The New Firefighters’ Pension Scheme (Amendment) (No. 2) Order (Northern Ireland) 2014 (S.R. 2014/168)](https://www.legislation.gov.uk/nisr/2014/168), [art. 1(3)](https://www.legislation.gov.uk/nisr/2014/168/article/1/3), [Sch. para. 1(b)](https://www.legislation.gov.uk/nisr/2014/168/schedule/paragraph/1/b)
+[^c-22c61ab8e74677ec3e60a5769b4e21c8]: Textual amendment: Annex Scheme Pt. 2 art. 8(1A) renumbered as art. 8(1B) (retrospective to 1.10.2013) by [The New Firefighters’ Pension Scheme (Amendment) (No. 2) Order (Northern Ireland) 2014 (S.R. 2014/168)](https://www.legislation.gov.uk/nisr/2014/168), [art. 1(3)](https://www.legislation.gov.uk/nisr/2014/168/article/1/3), [Sch. para. 1(b)](https://www.legislation.gov.uk/nisr/2014/168/schedule/paragraph/1/b)
 
-[^key-4ba1796a4424e61f6105ff626982526a]: Textual amendment: [Annex Scheme Pt. 2 art. 8(1A)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/2/article/8/1A) inserted (with effect in accordance with art. 1(4)(a) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 3(b)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/3/b)
+[^c-4ba1796a4424e61f6105ff626982526a]: Textual amendment: [Annex Scheme Pt. 2 art. 8(1A)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/2/article/8/1A) inserted (with effect in accordance with art. 1(4)(a) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 3(b)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/3/b)
 
-[^key-e7172a48cefdb45534173a6471c49923]: Commencement: ANNEX Scheme art. 9 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-e7172a48cefdb45534173a6471c49923]: Commencement: ANNEX Scheme art. 9 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-935afe9eb6a239df555d39d96ade2ae8]: Textual amendment: [Annex Scheme art. 9(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/9/1) substituted (1.10.2013) by [The New Firefighters’ Pension Scheme (Amendment) (No. 2) Order (Northern Ireland) 2013 (S.R. 2013/172)](https://www.legislation.gov.uk/nisr/2013/172), [art. 1](https://www.legislation.gov.uk/nisr/2013/172/article/1), [Sch. para. 2(c)(i)](https://www.legislation.gov.uk/nisr/2013/172/schedule/paragraph/2/c/i)
+[^c-935afe9eb6a239df555d39d96ade2ae8]: Textual amendment: [Annex Scheme art. 9(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/9/1) substituted (1.10.2013) by [The New Firefighters’ Pension Scheme (Amendment) (No. 2) Order (Northern Ireland) 2013 (S.R. 2013/172)](https://www.legislation.gov.uk/nisr/2013/172), [art. 1](https://www.legislation.gov.uk/nisr/2013/172/article/1), [Sch. para. 2(c)(i)](https://www.legislation.gov.uk/nisr/2013/172/schedule/paragraph/2/c/i)
 
-[^key-11f201f6d21cc6e0aaade97a3b6a587f]: Textual amendment: [Annex Scheme art. 9(1A)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/9/1A) inserted (1.10.2013) by [The New Firefighters’ Pension Scheme (Amendment) (No. 2) Order (Northern Ireland) 2013 (S.R. 2013/172)](https://www.legislation.gov.uk/nisr/2013/172), [art. 1](https://www.legislation.gov.uk/nisr/2013/172/article/1), [Sch. para. 2(c)(ii)](https://www.legislation.gov.uk/nisr/2013/172/schedule/paragraph/2/c/ii)
+[^c-11f201f6d21cc6e0aaade97a3b6a587f]: Textual amendment: [Annex Scheme art. 9(1A)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/9/1A) inserted (1.10.2013) by [The New Firefighters’ Pension Scheme (Amendment) (No. 2) Order (Northern Ireland) 2013 (S.R. 2013/172)](https://www.legislation.gov.uk/nisr/2013/172), [art. 1](https://www.legislation.gov.uk/nisr/2013/172/article/1), [Sch. para. 2(c)(ii)](https://www.legislation.gov.uk/nisr/2013/172/schedule/paragraph/2/c/ii)
 
-[^key-6c4cdf3bcc63f1ef12542e327f205884]: Textual amendment: [Annex Scheme art. 9(2)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/9/2) omitted (1.10.2013) by virtue of [The New Firefighters’ Pension Scheme (Amendment) (No. 2) Order (Northern Ireland) 2013 (S.R. 2013/172)](https://www.legislation.gov.uk/nisr/2013/172), [art. 1](https://www.legislation.gov.uk/nisr/2013/172/article/1), [Sch. para. 2(c)(iii)](https://www.legislation.gov.uk/nisr/2013/172/schedule/paragraph/2/c/iii)
+[^c-6c4cdf3bcc63f1ef12542e327f205884]: Textual amendment: [Annex Scheme art. 9(2)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/9/2) omitted (1.10.2013) by virtue of [The New Firefighters’ Pension Scheme (Amendment) (No. 2) Order (Northern Ireland) 2013 (S.R. 2013/172)](https://www.legislation.gov.uk/nisr/2013/172), [art. 1](https://www.legislation.gov.uk/nisr/2013/172/article/1), [Sch. para. 2(c)(iii)](https://www.legislation.gov.uk/nisr/2013/172/schedule/paragraph/2/c/iii)
 
-[^key-5cac57f517f6254e000097b0ecc07275]: Textual amendment: Words in [Annex Scheme art. 9(3)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/9/3) added (1.10.2013) by [The New Firefighters’ Pension Scheme (Amendment) (No. 2) Order (Northern Ireland) 2013 (S.R. 2013/172)](https://www.legislation.gov.uk/nisr/2013/172), [art. 1](https://www.legislation.gov.uk/nisr/2013/172/article/1), [Sch. para. 2(c)(iv)](https://www.legislation.gov.uk/nisr/2013/172/schedule/paragraph/2/c/iv)
+[^c-5cac57f517f6254e000097b0ecc07275]: Textual amendment: Words in [Annex Scheme art. 9(3)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/9/3) added (1.10.2013) by [The New Firefighters’ Pension Scheme (Amendment) (No. 2) Order (Northern Ireland) 2013 (S.R. 2013/172)](https://www.legislation.gov.uk/nisr/2013/172), [art. 1](https://www.legislation.gov.uk/nisr/2013/172/article/1), [Sch. para. 2(c)(iv)](https://www.legislation.gov.uk/nisr/2013/172/schedule/paragraph/2/c/iv)
 
-[^key-7f30a916e0a9ada4e73dce83078158f3]: Commencement: ANNEX Scheme art. 10 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-7f30a916e0a9ada4e73dce83078158f3]: Commencement: ANNEX Scheme art. 10 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-8ef6727d3f8a2ed574d6b570e6c7cdbd]: Commencement: ANNEX Scheme art. 11 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-8ef6727d3f8a2ed574d6b570e6c7cdbd]: Commencement: ANNEX Scheme art. 11 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-c091afad4be67563e39ee98974db1aaa]: Textual amendment: [Annex Scheme art. 11(1A)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/11/1A) inserted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 3(a)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/3/a)
+[^c-c091afad4be67563e39ee98974db1aaa]: Textual amendment: [Annex Scheme art. 11(1A)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/11/1A) inserted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 3(a)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/3/a)
 
-[^key-aef3a2eab891d4bb30d6edf53e332058]: Textual amendment: [Annex Scheme art. 11(2)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/11/2) substituted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 3(2)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/3/2)
+[^c-aef3a2eab891d4bb30d6edf53e332058]: Textual amendment: [Annex Scheme art. 11(2)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/11/2) substituted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 3(2)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/3/2)
 
-[^key-baab98d00bdab476e3f3ecf8e86e96a9]: Textual amendment: [Annex Scheme art. 11A](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/11A) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 3(3)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/3/3)
+[^c-baab98d00bdab476e3f3ecf8e86e96a9]: Textual amendment: [Annex Scheme art. 11A](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/11A) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 3(3)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/3/3)
 
-[^key-28aa3bb50f2b911af9213a5c5cc38260]: Textual amendment: [Annex Scheme art. 11A(1A)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/11A/1A) inserted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 3(b)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/3/b)
+[^c-28aa3bb50f2b911af9213a5c5cc38260]: Textual amendment: [Annex Scheme art. 11A(1A)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/11A/1A) inserted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 3(b)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/3/b)
 
-[^key-c87403936e79d0d243af904244899629]: Textual amendment: Words in [Annex Scheme art. 11A(8)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/11A/8) inserted (1.9.2026) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/150)](https://www.legislation.gov.uk/nisr/2026/150), [art. 1](https://www.legislation.gov.uk/nisr/2026/150/article/1), [Sch. para. 2(2)](https://www.legislation.gov.uk/nisr/2026/150/schedule/paragraph/2/2)
+[^c-c87403936e79d0d243af904244899629]: Textual amendment: Words in [Annex Scheme art. 11A(8)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/11A/8) inserted (1.9.2026) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/150)](https://www.legislation.gov.uk/nisr/2026/150), [art. 1](https://www.legislation.gov.uk/nisr/2026/150/article/1), [Sch. para. 2(2)](https://www.legislation.gov.uk/nisr/2026/150/schedule/paragraph/2/2)
 
-[^key-abb925dafaeb3eec8407b3abe8c7892e]: Textual amendment: [Annex Scheme art. 11B](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/11B) inserted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 3(c)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/3/c)
+[^c-abb925dafaeb3eec8407b3abe8c7892e]: Textual amendment: [Annex Scheme art. 11B](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/11B) inserted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 3(c)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/3/c)
 
-[^key-c3febc0100287dcb63ae280312a8adec]: Commencement: ANNEX Scheme art. 12 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-c3febc0100287dcb63ae280312a8adec]: Commencement: ANNEX Scheme art. 12 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
 [^f00020]: Footnote: See article 3.
 
-[^key-50a92ba67d696fc8ab2884c845eb89ea]: Textual amendment: [Annex Scheme art. 12(2)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/12/2) substituted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 3(4)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/3/4)
+[^c-50a92ba67d696fc8ab2884c845eb89ea]: Textual amendment: [Annex Scheme art. 12(2)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/12/2) substituted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 3(4)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/3/4)
 
-[^key-e5f1d3e9162c25aaee48c577dd4b6954]: Textual amendment: Words in [Annex Scheme Pt. 3 art. 12(3)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/3/article/12/3) inserted (with effect in accordance with art. 1(3) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 4(a)(i)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/4/a/i)
+[^c-e5f1d3e9162c25aaee48c577dd4b6954]: Textual amendment: Words in [Annex Scheme Pt. 3 art. 12(3)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/3/article/12/3) inserted (with effect in accordance with art. 1(3) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 4(a)(i)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/4/a/i)
 
-[^key-ea3f42f966e0938e2bea76c855c41867]: Textual amendment: [Annex Scheme Pt. 3 art. 12(4)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/3/article/12/4) added (with effect in accordance with art. 1(3) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 4(a)(ii)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/4/a/ii)
+[^c-ea3f42f966e0938e2bea76c855c41867]: Textual amendment: [Annex Scheme Pt. 3 art. 12(4)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/3/article/12/4) added (with effect in accordance with art. 1(3) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 4(a)(ii)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/4/a/ii)
 
-[^key-1354b8711ed8d062a9adff4123d834ab]: Textual amendment: Words in [Annex Scheme art. 12(4)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/12/4) substituted (1.7.2014) by [The New Firefighters’ Pension Scheme (Amendment) (No. 2) Order (Northern Ireland) 2014 (S.R. 2014/168)](https://www.legislation.gov.uk/nisr/2014/168), [art. 1(2)](https://www.legislation.gov.uk/nisr/2014/168/article/1/2), [Sch. para. 2(a)](https://www.legislation.gov.uk/nisr/2014/168/schedule/paragraph/2/a)
+[^c-1354b8711ed8d062a9adff4123d834ab]: Textual amendment: Words in [Annex Scheme art. 12(4)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/12/4) substituted (1.7.2014) by [The New Firefighters’ Pension Scheme (Amendment) (No. 2) Order (Northern Ireland) 2014 (S.R. 2014/168)](https://www.legislation.gov.uk/nisr/2014/168), [art. 1(2)](https://www.legislation.gov.uk/nisr/2014/168/article/1/2), [Sch. para. 2(a)](https://www.legislation.gov.uk/nisr/2014/168/schedule/paragraph/2/a)
 
-[^key-f72420ab0a0fb209e7c86301c60ef97e]: Textual amendment: [Annex Scheme art. 12A](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/12A) inserted (retrospective and with effect in accordance with art. 1(3)(a) of the amending Rule) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(3)(a)](https://www.legislation.gov.uk/nisr/2015/9/article/1/3/a), [Sch. para. 3(5)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/3/5)
+[^c-f72420ab0a0fb209e7c86301c60ef97e]: Textual amendment: [Annex Scheme art. 12A](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/12A) inserted (retrospective and with effect in accordance with art. 1(3)(a) of the amending Rule) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(3)(a)](https://www.legislation.gov.uk/nisr/2015/9/article/1/3/a), [Sch. para. 3(5)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/3/5)
 
-[^key-89a4c2828157e062ff97cec0cb881b74]: Textual amendment: [Annex Scheme art. 12A(3)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/12A/3) substituted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 3(2)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/3/2)
+[^c-89a4c2828157e062ff97cec0cb881b74]: Textual amendment: [Annex Scheme art. 12A(3)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/12A/3) substituted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 3(2)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/3/2)
 
-[^key-a3630113f06644cc3571f4dc926bbcd9]: Textual amendment: [Annex Scheme art. 12A(13)-(17)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/12A/13) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 3(3)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/3/3)
+[^c-a3630113f06644cc3571f4dc926bbcd9]: Textual amendment: [Annex Scheme art. 12A(13)-(17)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/12A/13) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 3(3)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/3/3)
 
-[^key-ccc441b1463b2a4146de363b524620b7]: Commencement: ANNEX Scheme art. 13 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-ccc441b1463b2a4146de363b524620b7]: Commencement: ANNEX Scheme art. 13 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-05caf7f86a0cfd78f52468a375e3d302]: Textual amendment: Words in [Annex Scheme art. 13(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/13/1) substituted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 3(6)(a)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/3/6/a)
+[^c-05caf7f86a0cfd78f52468a375e3d302]: Textual amendment: Words in [Annex Scheme art. 13(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/13/1) substituted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 3(6)(a)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/3/6/a)
 
-[^key-6b90072e6cb99c66f3c08c8447afa399]: Textual amendment: [Annex Scheme art. 13(1A)-(1C)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/13/1A) inserted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 3(d)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/3/d)
+[^c-6b90072e6cb99c66f3c08c8447afa399]: Textual amendment: [Annex Scheme art. 13(1A)-(1C)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/13/1A) inserted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 3(d)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/3/d)
 
-[^key-ab0e292ef1ea622eb24de7e77f9e1f59]: Textual amendment: [Annex Scheme art. 13(7)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/13/7) added (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 3(6)(b)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/3/6/b)
+[^c-ab0e292ef1ea622eb24de7e77f9e1f59]: Textual amendment: [Annex Scheme art. 13(7)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/13/7) added (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 3(6)(b)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/3/6/b)
 
-[^key-2797aa22848ff0ddf0ea84cec9eae53f]: Commencement: ANNEX Scheme art. 14 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-2797aa22848ff0ddf0ea84cec9eae53f]: Commencement: ANNEX Scheme art. 14 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-2970e55f264b0aea5065443f5c212b03]: Textual amendment: Words in [Annex Scheme art. 14(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/14/1) substituted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 3(e)(i)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/3/e/i)
+[^c-2970e55f264b0aea5065443f5c212b03]: Textual amendment: Words in [Annex Scheme art. 14(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/14/1) substituted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 3(e)(i)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/3/e/i)
 
-[^key-b59c42180542f8c4e690c6431c6af0e0]: Textual amendment: Words in [Annex Scheme Pt. 3 art. 14(2)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/3/article/14/2) substituted (with effect in accordance with art. 1(3) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 4(b)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/4/b)
+[^c-b59c42180542f8c4e690c6431c6af0e0]: Textual amendment: Words in [Annex Scheme Pt. 3 art. 14(2)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/3/article/14/2) substituted (with effect in accordance with art. 1(3) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 4(b)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/4/b)
 
-[^key-1e4c340a6f8ce6b4e08f2e198256dc4d]: Textual amendment: [Annex Scheme art. 14(4)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/14/4)[(5)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/14/5) inserted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 3(e)(ii)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/3/e/ii)
+[^c-1e4c340a6f8ce6b4e08f2e198256dc4d]: Textual amendment: [Annex Scheme art. 14(4)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/14/4)[(5)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/14/5) inserted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 3(e)(ii)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/3/e/ii)
 
-[^key-f6313823be61cf81148e295430bb4244]: Commencement: ANNEX Scheme art. 15 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-f6313823be61cf81148e295430bb4244]: Commencement: ANNEX Scheme art. 15 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-ad28e8072e9df20d20a63886bd2c1500]: Textual amendment: Words in [Annex Scheme art. 15(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/15/1) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 3(7)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/3/7)
+[^c-ad28e8072e9df20d20a63886bd2c1500]: Textual amendment: Words in [Annex Scheme art. 15(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/15/1) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 3(7)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/3/7)
 
-[^key-d88efe631930a138ca1eff7d987ff70c]: Textual amendment: Words in [Annex Scheme Pt. 3 art. 15(5)(a)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/3/article/15/5/a) substituted (with effect in accordance with art. 1(3) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 4(c)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/4/c)
+[^c-d88efe631930a138ca1eff7d987ff70c]: Textual amendment: Words in [Annex Scheme Pt. 3 art. 15(5)(a)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/3/article/15/5/a) substituted (with effect in accordance with art. 1(3) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 4(c)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/4/c)
 
-[^key-e6a85c6c67d66be623bfc7d0bf0ae64d]: Commencement: ANNEX Scheme art. 16 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-e6a85c6c67d66be623bfc7d0bf0ae64d]: Commencement: ANNEX Scheme art. 16 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-2eae30eaacab744686a46190897a9d25]: Textual amendment: Words in [Annex Scheme Pt. 3 art. 16(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/3/article/16/1) substituted (with effect in accordance with art. 1(3) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 4(d)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/4/d)
+[^c-2eae30eaacab744686a46190897a9d25]: Textual amendment: Words in [Annex Scheme Pt. 3 art. 16(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/3/article/16/1) substituted (with effect in accordance with art. 1(3) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 4(d)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/4/d)
 
-[^key-a7cfa2b22a0acca8fec43d762636ee54]: Textual amendment: [Annex Scheme art. 16(3)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/16/3) added (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 3(8)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/3/8)
+[^c-a7cfa2b22a0acca8fec43d762636ee54]: Textual amendment: [Annex Scheme art. 16(3)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/16/3) added (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 3(8)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/3/8)
 
-[^key-8d78677276b9a7a559de64b2d64f9dc9]: Textual amendment: [Annex Scheme art. 16(4)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/16/4) omitted (9.1.2025) by virtue of [The Firefighters’ Pension Schemes and Compensation Scheme (Amendment) (No. 2) Regulations (Northern Ireland) 2024 (S.R. 2024/218)](https://www.legislation.gov.uk/nisr/2024/218), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/218/regulation/1/1), [3(2)](https://www.legislation.gov.uk/nisr/2024/218/regulation/3/2)
+[^c-8d78677276b9a7a559de64b2d64f9dc9]: Textual amendment: [Annex Scheme art. 16(4)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/16/4) omitted (9.1.2025) by virtue of [The Firefighters’ Pension Schemes and Compensation Scheme (Amendment) (No. 2) Regulations (Northern Ireland) 2024 (S.R. 2024/218)](https://www.legislation.gov.uk/nisr/2024/218), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/218/regulation/1/1), [3(2)](https://www.legislation.gov.uk/nisr/2024/218/regulation/3/2)
 
-[^key-96de57c1e7ec32b732fde3d6067dcae0]: Commencement: ANNEX Scheme art. 17 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-96de57c1e7ec32b732fde3d6067dcae0]: Commencement: ANNEX Scheme art. 17 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-383584c405e0dbabbfc4d169977736ff]: Textual amendment: Words in [Annex Scheme art. 17(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/17/1) substituted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 3(9)(a)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/3/9/a)
+[^c-383584c405e0dbabbfc4d169977736ff]: Textual amendment: Words in [Annex Scheme art. 17(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/17/1) substituted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 3(9)(a)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/3/9/a)
 
-[^key-a6126df1e52633e840d8414d7eb42fe7]: Textual amendment: Words in [Annex Scheme art. 17(2)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/17/2) substituted (5.7.2024 with effect from 6.4.2006) by [The Firefighters’ Pension Schemes and Compensation Scheme (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/130)](https://www.legislation.gov.uk/nisr/2024/130), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/1)[(3)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/3), [3(4)(a)(i)](https://www.legislation.gov.uk/nisr/2024/130/regulation/3/4/a/i)
+[^c-a6126df1e52633e840d8414d7eb42fe7]: Textual amendment: Words in [Annex Scheme art. 17(2)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/17/2) substituted (5.7.2024 with effect from 6.4.2006) by [The Firefighters’ Pension Schemes and Compensation Scheme (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/130)](https://www.legislation.gov.uk/nisr/2024/130), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/1)[(3)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/3), [3(4)(a)(i)](https://www.legislation.gov.uk/nisr/2024/130/regulation/3/4/a/i)
 
-[^key-c1c2cc778cebfa558cf24d4b63269851]: Textual amendment: [Annex Scheme art. 17(3A)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/17/3A) inserted (5.7.2024 with effect from 6.4.2006) by [The Firefighters’ Pension Schemes and Compensation Scheme (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/130)](https://www.legislation.gov.uk/nisr/2024/130), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/1)[(3)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/3), [3(4)(a)(ii)](https://www.legislation.gov.uk/nisr/2024/130/regulation/3/4/a/ii)
+[^c-c1c2cc778cebfa558cf24d4b63269851]: Textual amendment: [Annex Scheme art. 17(3A)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/17/3A) inserted (5.7.2024 with effect from 6.4.2006) by [The Firefighters’ Pension Schemes and Compensation Scheme (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/130)](https://www.legislation.gov.uk/nisr/2024/130), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/1)[(3)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/3), [3(4)(a)(ii)](https://www.legislation.gov.uk/nisr/2024/130/regulation/3/4/a/ii)
 
-[^key-28d9c1682e163cb62a9e3511e96ac7f9]: Textual amendment: Words in [Annex Scheme Pt. 3 art. 17(4)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/3/article/17/4) substituted (with effect in accordance with art. 1(3) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 4(e)(ii)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/4/e/ii)
+[^c-28d9c1682e163cb62a9e3511e96ac7f9]: Textual amendment: Words in [Annex Scheme Pt. 3 art. 17(4)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/3/article/17/4) substituted (with effect in accordance with art. 1(3) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 4(e)(ii)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/4/e/ii)
 
-[^key-68e6b7320639ecf689f5f96f572eee70]: Textual amendment: [Annex Scheme art. 17(9)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/17/9) added (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 3(9)(b)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/3/9/b)
+[^c-68e6b7320639ecf689f5f96f572eee70]: Textual amendment: [Annex Scheme art. 17(9)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/17/9) added (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 3(9)(b)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/3/9/b)
 
-[^key-f0c2edf49fd81a01c06327016cbab445]: Textual amendment: [Annex Scheme art. 17(10)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/17/10) inserted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 3(g)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/3/g)
+[^c-f0c2edf49fd81a01c06327016cbab445]: Textual amendment: [Annex Scheme art. 17(10)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/17/10) inserted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 3(g)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/3/g)
 
-[^key-686739d23ae95fa24021d258f9b03fb1]: Textual amendment: [Annex Scheme Pt. 3 arts. 17A-17C](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/3/article/17A) inserted (with effect in accordance with art. 1(4)(b)(5)(a) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 4(f)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/4/f)
+[^c-686739d23ae95fa24021d258f9b03fb1]: Textual amendment: [Annex Scheme Pt. 3 arts. 17A-17C](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/3/article/17A) inserted (with effect in accordance with art. 1(4)(b)(5)(a) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 4(f)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/4/f)
 
-[^key-82a9d79d04946c68ab19495fd4bac22f]: Textual amendment: Words in [Annex Scheme art. 17A(2)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/17A/2) substituted (1.7.2014) by [The New Firefighters’ Pension Scheme (Amendment) (No. 2) Order (Northern Ireland) 2014 (S.R. 2014/168)](https://www.legislation.gov.uk/nisr/2014/168), [art. 1(2)](https://www.legislation.gov.uk/nisr/2014/168/article/1/2), [Sch. para. 2(b)(i)](https://www.legislation.gov.uk/nisr/2014/168/schedule/paragraph/2/b/i)
+[^c-82a9d79d04946c68ab19495fd4bac22f]: Textual amendment: Words in [Annex Scheme art. 17A(2)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/17A/2) substituted (1.7.2014) by [The New Firefighters’ Pension Scheme (Amendment) (No. 2) Order (Northern Ireland) 2014 (S.R. 2014/168)](https://www.legislation.gov.uk/nisr/2014/168), [art. 1(2)](https://www.legislation.gov.uk/nisr/2014/168/article/1/2), [Sch. para. 2(b)(i)](https://www.legislation.gov.uk/nisr/2014/168/schedule/paragraph/2/b/i)
 
-[^key-a82191c8309f0e57df08acd2dc59b59d]: Textual amendment: Words in [Annex Scheme art. 17A(3)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/17A/3) substituted (retrospective to 11.4.2011) by [The New Firefighters’ Pension Scheme (Amendment) (No. 2) Order (Northern Ireland) 2014 (S.R. 2014/168)](https://www.legislation.gov.uk/nisr/2014/168), [art. 1(4)](https://www.legislation.gov.uk/nisr/2014/168/article/1/4), [Sch. para. 2(b)(ii)](https://www.legislation.gov.uk/nisr/2014/168/schedule/paragraph/2/b/ii)
+[^c-a82191c8309f0e57df08acd2dc59b59d]: Textual amendment: Words in [Annex Scheme art. 17A(3)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/17A/3) substituted (retrospective to 11.4.2011) by [The New Firefighters’ Pension Scheme (Amendment) (No. 2) Order (Northern Ireland) 2014 (S.R. 2014/168)](https://www.legislation.gov.uk/nisr/2014/168), [art. 1(4)](https://www.legislation.gov.uk/nisr/2014/168/article/1/4), [Sch. para. 2(b)(ii)](https://www.legislation.gov.uk/nisr/2014/168/schedule/paragraph/2/b/ii)
 
-[^key-2a45420f04ee6937cefe508505406826]: Textual amendment: [Annex Scheme art. 17A(3A)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/17A/3A)[(3B)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/17A/3B) inserted (retrospective to 11.4.2011) by [The New Firefighters’ Pension Scheme (Amendment) (No. 2) Order (Northern Ireland) 2014 (S.R. 2014/168)](https://www.legislation.gov.uk/nisr/2014/168), [art. 1(4)](https://www.legislation.gov.uk/nisr/2014/168/article/1/4), [Sch. para. 2(b)(iii)](https://www.legislation.gov.uk/nisr/2014/168/schedule/paragraph/2/b/iii)
+[^c-2a45420f04ee6937cefe508505406826]: Textual amendment: [Annex Scheme art. 17A(3A)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/17A/3A)[(3B)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/17A/3B) inserted (retrospective to 11.4.2011) by [The New Firefighters’ Pension Scheme (Amendment) (No. 2) Order (Northern Ireland) 2014 (S.R. 2014/168)](https://www.legislation.gov.uk/nisr/2014/168), [art. 1(4)](https://www.legislation.gov.uk/nisr/2014/168/article/1/4), [Sch. para. 2(b)(iii)](https://www.legislation.gov.uk/nisr/2014/168/schedule/paragraph/2/b/iii)
 
-[^key-1db16216db7d6a07b6f2b02948748e04]: Textual amendment: Words in [Annex Scheme art. 17A(5)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/17A/5) substituted (retrospective to 11.4.2011) by [The New Firefighters’ Pension Scheme (Amendment) (No. 2) Order (Northern Ireland) 2014 (S.R. 2014/168)](https://www.legislation.gov.uk/nisr/2014/168), [art. 1(4)](https://www.legislation.gov.uk/nisr/2014/168/article/1/4), [Sch. para. 2(b)(iv)](https://www.legislation.gov.uk/nisr/2014/168/schedule/paragraph/2/b/iv)
+[^c-1db16216db7d6a07b6f2b02948748e04]: Textual amendment: Words in [Annex Scheme art. 17A(5)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/17A/5) substituted (retrospective to 11.4.2011) by [The New Firefighters’ Pension Scheme (Amendment) (No. 2) Order (Northern Ireland) 2014 (S.R. 2014/168)](https://www.legislation.gov.uk/nisr/2014/168), [art. 1(4)](https://www.legislation.gov.uk/nisr/2014/168/article/1/4), [Sch. para. 2(b)(iv)](https://www.legislation.gov.uk/nisr/2014/168/schedule/paragraph/2/b/iv)
 
-[^key-c0dfb6ec5c57439b51acd382af304606]: Textual amendment: Words in [Annex Scheme art. 17A(5)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/17A/5) inserted (retrospective to 11.4.2011) by [The New Firefighters’ Pension Scheme (Amendment) (No. 2) Order (Northern Ireland) 2014 (S.R. 2014/168)](https://www.legislation.gov.uk/nisr/2014/168), [art. 1(4)](https://www.legislation.gov.uk/nisr/2014/168/article/1/4), [Sch. para. 2(b)(iv)](https://www.legislation.gov.uk/nisr/2014/168/schedule/paragraph/2/b/iv)
+[^c-c0dfb6ec5c57439b51acd382af304606]: Textual amendment: Words in [Annex Scheme art. 17A(5)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/17A/5) inserted (retrospective to 11.4.2011) by [The New Firefighters’ Pension Scheme (Amendment) (No. 2) Order (Northern Ireland) 2014 (S.R. 2014/168)](https://www.legislation.gov.uk/nisr/2014/168), [art. 1(4)](https://www.legislation.gov.uk/nisr/2014/168/article/1/4), [Sch. para. 2(b)(iv)](https://www.legislation.gov.uk/nisr/2014/168/schedule/paragraph/2/b/iv)
 
 [^M_C_1b27dbc1-2f35-43c8-a8d9-52eecaf39899]: Textual amendment: [Annex Scheme art. 17B](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/17B) substituted (retrospective and with effect in accordance with of the amending Rule, 1.7.2014 in so far as not already in operation) by [The New Firefighters’ Pension Scheme (Amendment) (No. 2) Order (Northern Ireland) 2014 (S.R. 2014/168)](https://www.legislation.gov.uk/nisr/2014/168), [art. 1(2)(5)](https://www.legislation.gov.uk/nisr/2014/168/article/1/5), [Sch. para. 3](https://www.legislation.gov.uk/nisr/2014/168/schedule/paragraph/3)
 
-[^key-0743b9acadca8012a57823ee5c5be064]: Textual amendment: Words in [Annex Scheme art. 17B(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/17B/1) substituted (retrospective to 1.7.2014) by [The New Firefighters' Pension Scheme (Amendment) (No. 2) Order (Northern Ireland) 2015 (S.R. 2015/10)](https://www.legislation.gov.uk/nisr/2015/10), [art. 1](https://www.legislation.gov.uk/nisr/2015/10/article/1), [Sch. para. 1](https://www.legislation.gov.uk/nisr/2015/10/schedule/paragraph/1)
+[^c-0743b9acadca8012a57823ee5c5be064]: Textual amendment: Words in [Annex Scheme art. 17B(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/17B/1) substituted (retrospective to 1.7.2014) by [The New Firefighters' Pension Scheme (Amendment) (No. 2) Order (Northern Ireland) 2015 (S.R. 2015/10)](https://www.legislation.gov.uk/nisr/2015/10), [art. 1](https://www.legislation.gov.uk/nisr/2015/10/article/1), [Sch. para. 1](https://www.legislation.gov.uk/nisr/2015/10/schedule/paragraph/1)
 
-[^key-c9b2395f4d5341e3a035b102143d6afb]: Textual amendment: Words in [Annex Scheme art. 17B(2)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/17B/2) added (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 3(10)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/3/10)
+[^c-c9b2395f4d5341e3a035b102143d6afb]: Textual amendment: Words in [Annex Scheme art. 17B(2)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/17B/2) added (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 3(10)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/3/10)
 
-[^key-311a359099ce4b6f143df4b2a8341f06]: Textual amendment: [Annex Scheme art. 17C(2A)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/17C/2A) inserted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 3(h)(i)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/3/h/i)
+[^c-311a359099ce4b6f143df4b2a8341f06]: Textual amendment: [Annex Scheme art. 17C(2A)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/17C/2A) inserted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 3(h)(i)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/3/h/i)
 
-[^key-3f415cc67b852e529cc8e62bb8dc703c]: Textual amendment: [Annex Scheme art. 17C(3A)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/17C/3A) inserted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 3(h)(ii)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/3/h/ii)
+[^c-3f415cc67b852e529cc8e62bb8dc703c]: Textual amendment: [Annex Scheme art. 17C(3A)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/17C/3A) inserted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 3(h)(ii)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/3/h/ii)
 
-[^key-49a8ae8528ec5e0b890c54d1460ce111]: Commencement: ANNEX Scheme art. 18 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-49a8ae8528ec5e0b890c54d1460ce111]: Commencement: ANNEX Scheme art. 18 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-a65db8b81711349dfc9c6db6a30b3a0a]: Textual amendment: [Annex Scheme art. 18(Z1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/18/Z1) inserted (1.10.2013) by [The New Firefighters’ Pension Scheme (Amendment) (No. 2) Order (Northern Ireland) 2013 (S.R. 2013/172)](https://www.legislation.gov.uk/nisr/2013/172), [art. 1](https://www.legislation.gov.uk/nisr/2013/172/article/1), [Sch. para. 3(a)](https://www.legislation.gov.uk/nisr/2013/172/schedule/paragraph/3/a)
+[^c-a65db8b81711349dfc9c6db6a30b3a0a]: Textual amendment: [Annex Scheme art. 18(Z1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/18/Z1) inserted (1.10.2013) by [The New Firefighters’ Pension Scheme (Amendment) (No. 2) Order (Northern Ireland) 2013 (S.R. 2013/172)](https://www.legislation.gov.uk/nisr/2013/172), [art. 1](https://www.legislation.gov.uk/nisr/2013/172/article/1), [Sch. para. 3(a)](https://www.legislation.gov.uk/nisr/2013/172/schedule/paragraph/3/a)
 
-[^key-7c9b804bc5b8aa8394fe81306aefd3e2]: Textual amendment: Words in [Annex Scheme Pt. 3 art. 18(1)(b)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/3/article/18/1/b) substituted (with effect in accordance with art. 1(3) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 4(g)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/4/g)
+[^c-7c9b804bc5b8aa8394fe81306aefd3e2]: Textual amendment: Words in [Annex Scheme Pt. 3 art. 18(1)(b)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/3/article/18/1/b) substituted (with effect in accordance with art. 1(3) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 4(g)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/4/g)
 
-[^key-55acd6854ea4a92fcd7756a8bcd8df65]: Textual amendment: [Annex Scheme art. 18(3)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/18/3) added (1.10.2013) by [The New Firefighters’ Pension Scheme (Amendment) (No. 2) Order (Northern Ireland) 2013 (S.R. 2013/172)](https://www.legislation.gov.uk/nisr/2013/172), [art. 1](https://www.legislation.gov.uk/nisr/2013/172/article/1), [Sch. para. 3(b)](https://www.legislation.gov.uk/nisr/2013/172/schedule/paragraph/3/b)
+[^c-55acd6854ea4a92fcd7756a8bcd8df65]: Textual amendment: [Annex Scheme art. 18(3)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/18/3) added (1.10.2013) by [The New Firefighters’ Pension Scheme (Amendment) (No. 2) Order (Northern Ireland) 2013 (S.R. 2013/172)](https://www.legislation.gov.uk/nisr/2013/172), [art. 1](https://www.legislation.gov.uk/nisr/2013/172/article/1), [Sch. para. 3(b)](https://www.legislation.gov.uk/nisr/2013/172/schedule/paragraph/3/b)
 
-[^key-f260d3a26196018cfce36795d36bc28d]: Commencement: ANNEX Scheme art. 19 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-f260d3a26196018cfce36795d36bc28d]: Commencement: ANNEX Scheme art. 19 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-d0b03731ba0fe9d0ced5b8d6cd0e6a89]: Textual amendment: Words in [Annex Scheme art. 19(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/19/1) substituted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 3(i)(i)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/3/i)
+[^c-d0b03731ba0fe9d0ced5b8d6cd0e6a89]: Textual amendment: Words in [Annex Scheme art. 19(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/19/1) substituted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 3(i)(i)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/3/i)
 
-[^key-066e1860ad1c23bf560887d2648e16aa]: Textual amendment: [Annex Scheme art. 19(1A)(1B)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/19/1A) inserted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 3(i)(ii)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/3/i)
+[^c-066e1860ad1c23bf560887d2648e16aa]: Textual amendment: [Annex Scheme art. 19(1A)(1B)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/19/1A) inserted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 3(i)(ii)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/3/i)
 
-[^key-14e133a07291e457c1097a3afb5e230b]: Textual amendment: Words in [Annex Scheme art. 19(2)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/19/2) substituted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 3(11)(a)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/3/11/a)
+[^c-14e133a07291e457c1097a3afb5e230b]: Textual amendment: Words in [Annex Scheme art. 19(2)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/19/2) substituted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 3(11)(a)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/3/11/a)
 
-[^key-ea6dffa73c3c7f3ddb6d1f682be7fe27]: Textual amendment: [Annex Scheme art. 19(2A)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/19/2A) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 3(11)(b)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/3/11/b)
+[^c-ea6dffa73c3c7f3ddb6d1f682be7fe27]: Textual amendment: [Annex Scheme art. 19(2A)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/19/2A) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 3(11)(b)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/3/11/b)
 
-[^key-4fc8808d774c1e1b95aae711af423bc8]: Textual amendment: Words in [Annex Scheme art. 19(4)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/19/4) substituted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 3(11)(c)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/3/11/c)
+[^c-4fc8808d774c1e1b95aae711af423bc8]: Textual amendment: Words in [Annex Scheme art. 19(4)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/19/4) substituted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 3(11)(c)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/3/11/c)
 
-[^key-43ff130e879afaf8b13d5262aa2b9d6a]: Textual amendment: [Annex Scheme art. 19(4A)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/19/4A) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 3(11)(d)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/3/11/d)
+[^c-43ff130e879afaf8b13d5262aa2b9d6a]: Textual amendment: [Annex Scheme art. 19(4A)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/19/4A) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 3(11)(d)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/3/11/d)
 
-[^key-15381062a30fc7964ff4d518ca076179]: Textual amendment: [Annex Scheme art. 19(8ZA)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/19/8ZA) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 3(11)(e)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/3/11/e)
+[^c-15381062a30fc7964ff4d518ca076179]: Textual amendment: [Annex Scheme art. 19(8ZA)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/19/8ZA) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 3(11)(e)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/3/11/e)
 
-[^key-cf83a3ef64c693c1d07c5d283b7853f4]: Textual amendment: [Annex Scheme Pt. 3 art. 19(8A)-(8C)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/3/article/19/8A) inserted (with effect in accordance with art. 1(3) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 4(h)(i)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/4/h/i)
+[^c-cf83a3ef64c693c1d07c5d283b7853f4]: Textual amendment: [Annex Scheme Pt. 3 art. 19(8A)-(8C)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/3/article/19/8A) inserted (with effect in accordance with art. 1(3) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 4(h)(i)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/4/h/i)
 
-[^key-b92c017cd028eaed05e9b5cfe3615664]: Textual amendment: [Annex Scheme art. 19(8D)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/19/8D) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 3(11)(f)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/3/11/f)
+[^c-b92c017cd028eaed05e9b5cfe3615664]: Textual amendment: [Annex Scheme art. 19(8D)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/19/8D) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 3(11)(f)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/3/11/f)
 
-[^key-dc87eb4e0a656697b2d21b715f471be2]: Textual amendment: Words in [Annex Scheme Pt. 3 art. 19(9)(b)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/3/article/19/9/b) substituted (with effect in accordance with art. 1(3) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 4(h)(ii)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/4/h/ii)
+[^c-dc87eb4e0a656697b2d21b715f471be2]: Textual amendment: Words in [Annex Scheme Pt. 3 art. 19(9)(b)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/3/article/19/9/b) substituted (with effect in accordance with art. 1(3) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 4(h)(ii)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/4/h/ii)
 
-[^key-c39218b78f08f924a154854f18f64991]: Commencement: ANNEX Scheme art. 20 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-c39218b78f08f924a154854f18f64991]: Commencement: ANNEX Scheme art. 20 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
 [^f00021]: Footnote: [1971 c.35 (N.I.)](https://www.legislation.gov.uk/apni/1971/35).
 
 [^f00022]: Footnote: As to the “lump sum rule”, *see* section 166 of the Finance Act [2004 (c.12)](https://www.legislation.gov.uk/ukpga/2004/12). As to the commutation limit, *see* paragraph 7(4) of Part 1 of Schedule 29 to that Act.
 
-[^key-f418c7aa6cadaf328b68a1046d995689]: Commencement: ANNEX Scheme art. 21 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-f418c7aa6cadaf328b68a1046d995689]: Commencement: ANNEX Scheme art. 21 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-0c008603d5b8af97d1fb549b5ff80a49]: Textual amendment: Words in [Annex Scheme art. 21(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/21/1) inserted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 3(j)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/3/j)
+[^c-0c008603d5b8af97d1fb549b5ff80a49]: Textual amendment: Words in [Annex Scheme art. 21(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/21/1) inserted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 3(j)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/3/j)
 
 [^f00023]: Footnote: Paragraphs 16A to 16C were inserted by the Finance Act [2005 (c.7)](https://www.legislation.gov.uk/ukpga/2005/7), Schedule 10, paragraph 28.
 
-[^key-1a37c32ddfc2e461beacca2234adae9e]: Textual amendment: Words in [Annex Scheme art. 21(2)(a)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/21/2/a) substituted (5.7.2024 with effect from 6.4.2006) by [The Firefighters’ Pension Schemes and Compensation Scheme (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/130)](https://www.legislation.gov.uk/nisr/2024/130), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/1)[(3)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/3), [3(4)(b)](https://www.legislation.gov.uk/nisr/2024/130/regulation/3/4/b)
+[^c-1a37c32ddfc2e461beacca2234adae9e]: Textual amendment: Words in [Annex Scheme art. 21(2)(a)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/21/2/a) substituted (5.7.2024 with effect from 6.4.2006) by [The Firefighters’ Pension Schemes and Compensation Scheme (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/130)](https://www.legislation.gov.uk/nisr/2024/130), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/1)[(3)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/3), [3(4)(b)](https://www.legislation.gov.uk/nisr/2024/130/regulation/3/4/b)
 
-[^key-2b76236b666981a50cf7e431a3d06c3b]: Textual amendment: Words in [Annex Scheme Pt. 3 art. 21(4)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/3/article/21/4) substituted (with effect in accordance with art. 1(3) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 4(i)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/4/i)
+[^c-2b76236b666981a50cf7e431a3d06c3b]: Textual amendment: Words in [Annex Scheme Pt. 3 art. 21(4)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/3/article/21/4) substituted (with effect in accordance with art. 1(3) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 4(i)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/4/i)
 
-[^key-a7129dae58f63a0d547cf964e792e88a]: Commencement: ANNEX Scheme art. 22 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-a7129dae58f63a0d547cf964e792e88a]: Commencement: ANNEX Scheme art. 22 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-f4ecf40d42a4419f69e795a487d5e944]: Textual amendment: Words in [Annex Scheme Pt. 4 Ch. 1](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/4/chapter/1) heading substituted (5.7.2024 with effect from 6.4.2006) by [The Firefighters’ Pension Schemes and Compensation Scheme (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/130)](https://www.legislation.gov.uk/nisr/2024/130), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/1)[(3)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/3), [3(5)(a)](https://www.legislation.gov.uk/nisr/2024/130/regulation/3/5/a)
+[^c-f4ecf40d42a4419f69e795a487d5e944]: Textual amendment: Words in [Annex Scheme Pt. 4 Ch. 1](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/4/chapter/1) heading substituted (5.7.2024 with effect from 6.4.2006) by [The Firefighters’ Pension Schemes and Compensation Scheme (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/130)](https://www.legislation.gov.uk/nisr/2024/130), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/1)[(3)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/3), [3(5)(a)](https://www.legislation.gov.uk/nisr/2024/130/regulation/3/5/a)
 
-[^key-cdb8529dd43f5942a191ea3b11cae73c]: Commencement: ANNEX Scheme art. 23 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-cdb8529dd43f5942a191ea3b11cae73c]: Commencement: ANNEX Scheme art. 23 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-8f905f8cbe31e56b9ff5c78d4c4295a0]: Textual amendment: Words in [Annex Scheme art. 23](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/23) heading substituted (5.7.2024 with effect from 6.4.2006) by [The Firefighters’ Pension Schemes and Compensation Scheme (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/130)](https://www.legislation.gov.uk/nisr/2024/130), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/1)[(3)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/3), [3(5)(a)](https://www.legislation.gov.uk/nisr/2024/130/regulation/3/5/a)
+[^c-8f905f8cbe31e56b9ff5c78d4c4295a0]: Textual amendment: Words in [Annex Scheme art. 23](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/23) heading substituted (5.7.2024 with effect from 6.4.2006) by [The Firefighters’ Pension Schemes and Compensation Scheme (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/130)](https://www.legislation.gov.uk/nisr/2024/130), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/1)[(3)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/3), [3(5)(a)](https://www.legislation.gov.uk/nisr/2024/130/regulation/3/5/a)
 
-[^key-6247aacb854a39d5056824f1b3e198c4]: Textual amendment: Words in [Annex Scheme art. 23(1)(a)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/23/1/a) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 4(2)(a)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/4/2/a)
+[^c-6247aacb854a39d5056824f1b3e198c4]: Textual amendment: Words in [Annex Scheme art. 23(1)(a)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/23/1/a) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 4(2)(a)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/4/2/a)
 
-[^key-dd058125ef2a73976470f14e0bdcd61c]: Textual amendment: [Annex Scheme art. 23(1)(aa)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/23/1/aa) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 4(2)(b)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/4/2/b)
+[^c-dd058125ef2a73976470f14e0bdcd61c]: Textual amendment: [Annex Scheme art. 23(1)(aa)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/23/1/aa) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 4(2)(b)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/4/2/b)
 
-[^key-db5624d39a213598b25e07a3c0ef024d]: Textual amendment: Words in [Annex Scheme art. 23(1)(b)(iii)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/23/1/b/iii) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 4(2)(c)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/4/2/c)
+[^c-db5624d39a213598b25e07a3c0ef024d]: Textual amendment: Words in [Annex Scheme art. 23(1)(b)(iii)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/23/1/b/iii) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 4(2)(c)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/4/2/c)
 
-[^key-6817083feadcd94c15f669501678918b]: Textual amendment: Words in [Annex Scheme art. 23(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/23/1) substituted (5.7.2024 with effect from 6.4.2006) by [The Firefighters’ Pension Schemes and Compensation Scheme (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/130)](https://www.legislation.gov.uk/nisr/2024/130), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/1)[(3)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/3), [3(5)(b)](https://www.legislation.gov.uk/nisr/2024/130/regulation/3/5/b)
+[^c-6817083feadcd94c15f669501678918b]: Textual amendment: Words in [Annex Scheme art. 23(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/23/1) substituted (5.7.2024 with effect from 6.4.2006) by [The Firefighters’ Pension Schemes and Compensation Scheme (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/130)](https://www.legislation.gov.uk/nisr/2024/130), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/1)[(3)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/3), [3(5)(b)](https://www.legislation.gov.uk/nisr/2024/130/regulation/3/5/b)
 
-[^key-a60679a98f0e93b4c4d4e14ab906110d]: Textual amendment: Words in [Annex Scheme art. 23(2)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/23/2) substituted (5.7.2024 with effect from 6.4.2006) by [The Firefighters’ Pension Schemes and Compensation Scheme (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/130)](https://www.legislation.gov.uk/nisr/2024/130), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/1)[(3)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/3), [3(5)(b)](https://www.legislation.gov.uk/nisr/2024/130/regulation/3/5/b)
+[^c-a60679a98f0e93b4c4d4e14ab906110d]: Textual amendment: Words in [Annex Scheme art. 23(2)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/23/2) substituted (5.7.2024 with effect from 6.4.2006) by [The Firefighters’ Pension Schemes and Compensation Scheme (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/130)](https://www.legislation.gov.uk/nisr/2024/130), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/1)[(3)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/3), [3(5)(b)](https://www.legislation.gov.uk/nisr/2024/130/regulation/3/5/b)
 
-[^key-ad81d118e582b555ac887982a68bccb9]: Textual amendment: Words in [Annex Scheme art. 23(3)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/23/3) substituted (5.7.2024 with effect from 6.4.2006) by [The Firefighters’ Pension Schemes and Compensation Scheme (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/130)](https://www.legislation.gov.uk/nisr/2024/130), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/1)[(3)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/3), [3(5)(b)](https://www.legislation.gov.uk/nisr/2024/130/regulation/3/5/b)
+[^c-ad81d118e582b555ac887982a68bccb9]: Textual amendment: Words in [Annex Scheme art. 23(3)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/23/3) substituted (5.7.2024 with effect from 6.4.2006) by [The Firefighters’ Pension Schemes and Compensation Scheme (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/130)](https://www.legislation.gov.uk/nisr/2024/130), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/1)[(3)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/3), [3(5)(b)](https://www.legislation.gov.uk/nisr/2024/130/regulation/3/5/b)
 
-[^key-57d99c7f9523087680462e1ac028662a]: Commencement: ANNEX Scheme art. 24 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-57d99c7f9523087680462e1ac028662a]: Commencement: ANNEX Scheme art. 24 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-c8ac5ce568bf78c1a1fbcfdb9b429afb]: Textual amendment: [Annex Scheme art. 24(4)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/24/4) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 4(3)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/4/3)
+[^c-c8ac5ce568bf78c1a1fbcfdb9b429afb]: Textual amendment: [Annex Scheme art. 24(4)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/24/4) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 4(3)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/4/3)
 
-[^key-426d78233914d923ab0132c2be38f3c6]: Commencement: ANNEX Scheme art. 25 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-426d78233914d923ab0132c2be38f3c6]: Commencement: ANNEX Scheme art. 25 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-62dacdec64aa509865a2c02bc1f3613d]: Textual amendment: Words in [Annex Scheme art. 25(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/25/1) substituted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 4(4)(a)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/4/4/a)
+[^c-62dacdec64aa509865a2c02bc1f3613d]: Textual amendment: Words in [Annex Scheme art. 25(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/25/1) substituted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 4(4)(a)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/4/4/a)
 
-[^key-6b651d47215fdedbd3a5f4b56cea4e86]: Textual amendment: Words in [Annex Scheme art. 25(3)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/25/3) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 4(4)(b)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/4/4/b)
+[^c-6b651d47215fdedbd3a5f4b56cea4e86]: Textual amendment: Words in [Annex Scheme art. 25(3)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/25/3) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 4(4)(b)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/4/4/b)
 
-[^key-3b23e7abed93d36aa1573de4330ac17b]: Commencement: ANNEX Scheme art. 26 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-3b23e7abed93d36aa1573de4330ac17b]: Commencement: ANNEX Scheme art. 26 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-033815bd128fad425a6ccf4b655a5859]: Textual amendment: [Annex Scheme art. 26(2)(c)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/26/2/c) omitted (18.1.2016 with effect from 1.4.2015) by virtue of [The Firefighters’ Compensation Scheme (Amendment) (No. 2) and the New Firefighters’ Pension Scheme (Amendment) (No. 4) Order (Northern Ireland) 2015 (S.R. 2015/422)](https://www.legislation.gov.uk/nisr/2015/422), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/422/article/1/2)[(3)](https://www.legislation.gov.uk/nisr/2015/422/article/1/3), [Sch. 2 para. 3(2)](https://www.legislation.gov.uk/nisr/2015/422/schedule/2/paragraph/3/2)
+[^c-033815bd128fad425a6ccf4b655a5859]: Textual amendment: [Annex Scheme art. 26(2)(c)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/26/2/c) omitted (18.1.2016 with effect from 1.4.2015) by virtue of [The Firefighters’ Compensation Scheme (Amendment) (No. 2) and the New Firefighters’ Pension Scheme (Amendment) (No. 4) Order (Northern Ireland) 2015 (S.R. 2015/422)](https://www.legislation.gov.uk/nisr/2015/422), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/422/article/1/2)[(3)](https://www.legislation.gov.uk/nisr/2015/422/article/1/3), [Sch. 2 para. 3(2)](https://www.legislation.gov.uk/nisr/2015/422/schedule/2/paragraph/3/2)
 
-[^key-0e091a7ba0caa7b86bfe5e1fe817053d]: Commencement: ANNEX Scheme art. 27 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-0e091a7ba0caa7b86bfe5e1fe817053d]: Commencement: ANNEX Scheme art. 27 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-7858a6f64afbf4fb2084ab275e949372]: Textual amendment: [Annex Scheme art. 27](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/27) heading inserted (18.1.2016 with effect from 1.4.2015) by [The Firefighters’ Compensation Scheme (Amendment) (No. 2) and the New Firefighters’ Pension Scheme (Amendment) (No. 4) Order (Northern Ireland) 2015 (S.R. 2015/422)](https://www.legislation.gov.uk/nisr/2015/422), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/422/article/1/2)[(3)](https://www.legislation.gov.uk/nisr/2015/422/article/1/3), [Sch. 2 para. 3(3)](https://www.legislation.gov.uk/nisr/2015/422/schedule/2/paragraph/3/3)
+[^c-7858a6f64afbf4fb2084ab275e949372]: Textual amendment: [Annex Scheme art. 27](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/27) heading inserted (18.1.2016 with effect from 1.4.2015) by [The Firefighters’ Compensation Scheme (Amendment) (No. 2) and the New Firefighters’ Pension Scheme (Amendment) (No. 4) Order (Northern Ireland) 2015 (S.R. 2015/422)](https://www.legislation.gov.uk/nisr/2015/422), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/422/article/1/2)[(3)](https://www.legislation.gov.uk/nisr/2015/422/article/1/3), [Sch. 2 para. 3(3)](https://www.legislation.gov.uk/nisr/2015/422/schedule/2/paragraph/3/3)
 
-[^key-602f87ac9fb909cd4a2c243ed135e6f7]: Commencement: ANNEX Scheme art. 28 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-602f87ac9fb909cd4a2c243ed135e6f7]: Commencement: ANNEX Scheme art. 28 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-66b506108fb46ec2adb8647d02ed576e]: Textual amendment: Words in [Annex Scheme art. 28(a)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/28/a) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 4(5)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/4/5)
+[^c-66b506108fb46ec2adb8647d02ed576e]: Textual amendment: Words in [Annex Scheme art. 28(a)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/28/a) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 4(5)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/4/5)
 
-[^key-b7f3623c2d09c50defce80d8873d6cbc]: Commencement: ANNEX Scheme art. 29 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-b7f3623c2d09c50defce80d8873d6cbc]: Commencement: ANNEX Scheme art. 29 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-8866340571c38ff943b6e167bbfeeb9b]: Commencement: ANNEX Scheme art. 30 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-8866340571c38ff943b6e167bbfeeb9b]: Commencement: ANNEX Scheme art. 30 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-72d8e13d6f859a920a432c261e44cc16]: Commencement: ANNEX Scheme art. 31 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-72d8e13d6f859a920a432c261e44cc16]: Commencement: ANNEX Scheme art. 31 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-29670b388e1b5677a0082986304e8b4e]: Commencement: ANNEX Scheme art. 32 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-29670b388e1b5677a0082986304e8b4e]: Commencement: ANNEX Scheme art. 32 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-2951115cfc77b8ad22cefe98f7302b9e]: Commencement: ANNEX Scheme art. 33 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-2951115cfc77b8ad22cefe98f7302b9e]: Commencement: ANNEX Scheme art. 33 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-b1c496d089dbe703f320cf3fc45a50d1]: Commencement: ANNEX Scheme art. 34 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-b1c496d089dbe703f320cf3fc45a50d1]: Commencement: ANNEX Scheme art. 34 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-7e3f88a239d8702b1c308e97270c22d4]: Commencement: ANNEX Scheme art. 35 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-7e3f88a239d8702b1c308e97270c22d4]: Commencement: ANNEX Scheme art. 35 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-a43a16a48c53692bfc913d44016823c6]: Textual amendment: Word in [Annex Scheme art. 35(2)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/35/2) substituted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 5(2)(a)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/5/2/a)
+[^c-a43a16a48c53692bfc913d44016823c6]: Textual amendment: Word in [Annex Scheme art. 35(2)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/35/2) substituted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 5(2)(a)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/5/2/a)
 
-[^key-7663a021f1758dab87a2293749f8b96c]: Textual amendment: [Annex Scheme art. 35(2A)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/35/2A) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 5(2)(b)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/5/2/b)
+[^c-7663a021f1758dab87a2293749f8b96c]: Textual amendment: [Annex Scheme art. 35(2A)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/35/2A) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 5(2)(b)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/5/2/b)
 
-[^key-9d8c27b1c25e9398bcdb90e39e7feea3]: Textual amendment: Words in [Annex Scheme art. 35(3)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/35/3) substituted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 5(2)(c)(i)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/5/2/c/i)
+[^c-9d8c27b1c25e9398bcdb90e39e7feea3]: Textual amendment: Words in [Annex Scheme art. 35(3)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/35/3) substituted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 5(2)(c)(i)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/5/2/c/i)
 
-[^key-2ed8464d89fbcb0ca97256410d0a7da9]: Textual amendment: Words in [Annex Scheme art. 35(3)(c)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/35/3/c) substituted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 5(2)(c)(ii)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/5/2/c/ii)
+[^c-2ed8464d89fbcb0ca97256410d0a7da9]: Textual amendment: Words in [Annex Scheme art. 35(3)(c)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/35/3/c) substituted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 5(2)(c)(ii)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/5/2/c/ii)
 
-[^key-07a9a8663840b7a6cf3ea8d5c59dbc1a]: Textual amendment: [Annex Scheme art. 35(3A)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/35/3A) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 5(2)(d)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/5/2/d)
+[^c-07a9a8663840b7a6cf3ea8d5c59dbc1a]: Textual amendment: [Annex Scheme art. 35(3A)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/35/3A) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 5(2)(d)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/5/2/d)
 
-[^key-ea507a93b266bbe0482a5b18abb4a36e]: Textual amendment: Words in [Annex Scheme art. 35(4)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/35/4) substituted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 5(2)(e)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/5/2/e)
+[^c-ea507a93b266bbe0482a5b18abb4a36e]: Textual amendment: Words in [Annex Scheme art. 35(4)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/35/4) substituted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 5(2)(e)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/5/2/e)
 
-[^key-cff54a32f51485d32b269e72e5968e94]: Textual amendment: Words in [Annex Scheme Pt. 5 art. 35(4)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/5/article/35/4) inserted (with effect in accordance with art. 1(3) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 5(a)(i)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/5/a/i)
+[^c-cff54a32f51485d32b269e72e5968e94]: Textual amendment: Words in [Annex Scheme Pt. 5 art. 35(4)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/5/article/35/4) inserted (with effect in accordance with art. 1(3) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 5(a)(i)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/5/a/i)
 
-[^key-6860f963a3636011432def63fb998878]: Textual amendment: [Annex Scheme art. 35(4A)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/35/4A) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 5(2)(f)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/5/2/f)
+[^c-6860f963a3636011432def63fb998878]: Textual amendment: [Annex Scheme art. 35(4A)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/35/4A) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 5(2)(f)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/5/2/f)
 
-[^key-03f062b4464e10d72469cae678eb2c1a]: Textual amendment: Words in [Annex Scheme art. 35(5)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/35/5) substituted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 5(2)(g)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/5/2/g)
+[^c-03f062b4464e10d72469cae678eb2c1a]: Textual amendment: Words in [Annex Scheme art. 35(5)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/35/5) substituted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 5(2)(g)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/5/2/g)
 
-[^key-2bec42d6d8227d4c01b0d2e625084b3f]: Textual amendment: [Annex Scheme art. 35(5A)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/35/5A) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 5(2)(h)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/5/2/h)
+[^c-2bec42d6d8227d4c01b0d2e625084b3f]: Textual amendment: [Annex Scheme art. 35(5A)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/35/5A) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 5(2)(h)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/5/2/h)
 
-[^key-d2b92202dc976306b11e7659ff783b51]: Textual amendment: [Annex Scheme Pt. 5 art. 35(8)(b)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/5/article/35/8/b) substituted (with effect in accordance with art. 1(3) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 5(a)(ii)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/5/a/ii)
+[^c-d2b92202dc976306b11e7659ff783b51]: Textual amendment: [Annex Scheme Pt. 5 art. 35(8)(b)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/5/article/35/8/b) substituted (with effect in accordance with art. 1(3) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 5(a)(ii)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/5/a/ii)
 
-[^key-7063c419b7095222920b1d5bb1770bad]: Textual amendment: Words in [Annex Scheme Pt. 5 art. 35(9)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/5/article/35/9) inserted (with effect in accordance with art. 1(3) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 5(a)(iii)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/5/a/iii)
+[^c-7063c419b7095222920b1d5bb1770bad]: Textual amendment: Words in [Annex Scheme Pt. 5 art. 35(9)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/5/article/35/9) inserted (with effect in accordance with art. 1(3) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 5(a)(iii)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/5/a/iii)
 
-[^key-99ad2f5488380def168436156f123a6f]: Textual amendment: [Annex Scheme art. 35A](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/35A) inserted (retrospective and with effect in accordance with art. 1(3)(b) of the amending Rule) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(3)(b)](https://www.legislation.gov.uk/nisr/2015/9/article/1/3/b), [Sch. para. 5(3)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/5/3)
+[^c-99ad2f5488380def168436156f123a6f]: Textual amendment: [Annex Scheme art. 35A](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/35A) inserted (retrospective and with effect in accordance with art. 1(3)(b) of the amending Rule) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(3)(b)](https://www.legislation.gov.uk/nisr/2015/9/article/1/3/b), [Sch. para. 5(3)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/5/3)
 
-[^key-6196ca83ca86181cafa8316cc0ccf30f]: Textual amendment: [Annex Scheme arts. 35B](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/35B), [35C](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/35C) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 4(2)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/4/2)
+[^c-6196ca83ca86181cafa8316cc0ccf30f]: Textual amendment: [Annex Scheme arts. 35B](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/35B), [35C](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/35C) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 4(2)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/4/2)
 
-[^key-2d67fd638d3a1a93b093ef4ad1a2715d]: Textual amendment: Words in [Annex Scheme art. 35B(2)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/35B/2) substituted (1.9.2026) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/150)](https://www.legislation.gov.uk/nisr/2026/150), [art. 1](https://www.legislation.gov.uk/nisr/2026/150/article/1), [Sch. para. 3(2)(a)](https://www.legislation.gov.uk/nisr/2026/150/schedule/paragraph/3/2/a)
+[^c-2d67fd638d3a1a93b093ef4ad1a2715d]: Textual amendment: Words in [Annex Scheme art. 35B(2)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/35B/2) substituted (1.9.2026) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/150)](https://www.legislation.gov.uk/nisr/2026/150), [art. 1](https://www.legislation.gov.uk/nisr/2026/150/article/1), [Sch. para. 3(2)(a)](https://www.legislation.gov.uk/nisr/2026/150/schedule/paragraph/3/2/a)
 
-[^key-899b9b53b348b0024120b5cb20d1f464]: Textual amendment: Words in [Annex Scheme art. 35B(3)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/35B/3) substituted (1.9.2026) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/150)](https://www.legislation.gov.uk/nisr/2026/150), [art. 1](https://www.legislation.gov.uk/nisr/2026/150/article/1), [Sch. para. 3(2)(a)](https://www.legislation.gov.uk/nisr/2026/150/schedule/paragraph/3/2/a)
+[^c-899b9b53b348b0024120b5cb20d1f464]: Textual amendment: Words in [Annex Scheme art. 35B(3)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/35B/3) substituted (1.9.2026) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/150)](https://www.legislation.gov.uk/nisr/2026/150), [art. 1](https://www.legislation.gov.uk/nisr/2026/150/article/1), [Sch. para. 3(2)(a)](https://www.legislation.gov.uk/nisr/2026/150/schedule/paragraph/3/2/a)
 
-[^key-06de837031e243a7b24b6d4e4f36f1bd]: Textual amendment: Word in [Annex Scheme art. 35B(6)(b)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/35B/6/b) substituted (1.9.2026) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/150)](https://www.legislation.gov.uk/nisr/2026/150), [art. 1](https://www.legislation.gov.uk/nisr/2026/150/article/1), [Sch. para. 3(2)(b)](https://www.legislation.gov.uk/nisr/2026/150/schedule/paragraph/3/2/b)
+[^c-06de837031e243a7b24b6d4e4f36f1bd]: Textual amendment: Word in [Annex Scheme art. 35B(6)(b)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/35B/6/b) substituted (1.9.2026) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/150)](https://www.legislation.gov.uk/nisr/2026/150), [art. 1](https://www.legislation.gov.uk/nisr/2026/150/article/1), [Sch. para. 3(2)(b)](https://www.legislation.gov.uk/nisr/2026/150/schedule/paragraph/3/2/b)
 
-[^key-f5aef1b1fc1d66ed186bf3da1b69ae6c]: Textual amendment: Word in [Annex Scheme art. 35B(8)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/35B/8) substituted (1.9.2026) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/150)](https://www.legislation.gov.uk/nisr/2026/150), [art. 1](https://www.legislation.gov.uk/nisr/2026/150/article/1), [Sch. para. 3(2)(b)](https://www.legislation.gov.uk/nisr/2026/150/schedule/paragraph/3/2/b)
+[^c-f5aef1b1fc1d66ed186bf3da1b69ae6c]: Textual amendment: Word in [Annex Scheme art. 35B(8)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/35B/8) substituted (1.9.2026) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/150)](https://www.legislation.gov.uk/nisr/2026/150), [art. 1](https://www.legislation.gov.uk/nisr/2026/150/article/1), [Sch. para. 3(2)(b)](https://www.legislation.gov.uk/nisr/2026/150/schedule/paragraph/3/2/b)
 
-[^key-f4a8d8276dcf2e5001d615f33a5e6f92]: Textual amendment: Word in [Annex Scheme art. 35B(9)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/35B/9) substituted (1.9.2026) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/150)](https://www.legislation.gov.uk/nisr/2026/150), [art. 1](https://www.legislation.gov.uk/nisr/2026/150/article/1), [Sch. para. 3(2)(b)](https://www.legislation.gov.uk/nisr/2026/150/schedule/paragraph/3/2/b)
+[^c-f4a8d8276dcf2e5001d615f33a5e6f92]: Textual amendment: Word in [Annex Scheme art. 35B(9)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/35B/9) substituted (1.9.2026) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/150)](https://www.legislation.gov.uk/nisr/2026/150), [art. 1](https://www.legislation.gov.uk/nisr/2026/150/article/1), [Sch. para. 3(2)(b)](https://www.legislation.gov.uk/nisr/2026/150/schedule/paragraph/3/2/b)
 
-[^key-da9516ebb07729a2658a24439e5a15de]: Textual amendment: Words in [Annex Scheme art. 35C(1)(a)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/35C/1/a) substituted (1.9.2026) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/150)](https://www.legislation.gov.uk/nisr/2026/150), [art. 1](https://www.legislation.gov.uk/nisr/2026/150/article/1), [Sch. para. 3(3)(a)](https://www.legislation.gov.uk/nisr/2026/150/schedule/paragraph/3/3/a)
+[^c-da9516ebb07729a2658a24439e5a15de]: Textual amendment: Words in [Annex Scheme art. 35C(1)(a)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/35C/1/a) substituted (1.9.2026) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/150)](https://www.legislation.gov.uk/nisr/2026/150), [art. 1](https://www.legislation.gov.uk/nisr/2026/150/article/1), [Sch. para. 3(3)(a)](https://www.legislation.gov.uk/nisr/2026/150/schedule/paragraph/3/3/a)
 
-[^key-f2dc4d0e4a8669e3b332265f8e6ec526]: Textual amendment: Words in [Annex Scheme art. 35C(1)(b)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/35C/1/b) inserted (1.9.2026) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/150)](https://www.legislation.gov.uk/nisr/2026/150), [art. 1](https://www.legislation.gov.uk/nisr/2026/150/article/1), [Sch. para. 3(3)(b)](https://www.legislation.gov.uk/nisr/2026/150/schedule/paragraph/3/3/b)
+[^c-f2dc4d0e4a8669e3b332265f8e6ec526]: Textual amendment: Words in [Annex Scheme art. 35C(1)(b)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/35C/1/b) inserted (1.9.2026) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/150)](https://www.legislation.gov.uk/nisr/2026/150), [art. 1](https://www.legislation.gov.uk/nisr/2026/150/article/1), [Sch. para. 3(3)(b)](https://www.legislation.gov.uk/nisr/2026/150/schedule/paragraph/3/3/b)
 
-[^key-1c146964d8f995103e749484529b7d68]: Textual amendment: Words in [Annex Scheme art. 35C(1)(c)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/35C/1/c) substituted (1.9.2026) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/150)](https://www.legislation.gov.uk/nisr/2026/150), [art. 1](https://www.legislation.gov.uk/nisr/2026/150/article/1), [Sch. para. 3(3)(c)](https://www.legislation.gov.uk/nisr/2026/150/schedule/paragraph/3/3/c)
+[^c-1c146964d8f995103e749484529b7d68]: Textual amendment: Words in [Annex Scheme art. 35C(1)(c)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/35C/1/c) substituted (1.9.2026) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/150)](https://www.legislation.gov.uk/nisr/2026/150), [art. 1](https://www.legislation.gov.uk/nisr/2026/150/article/1), [Sch. para. 3(3)(c)](https://www.legislation.gov.uk/nisr/2026/150/schedule/paragraph/3/3/c)
 
-[^key-71cc625ff8e5d9e48db68d54d6248ddf]: Textual amendment: Words in [Annex Scheme art. 35C(2)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/35C/2) substituted (1.9.2026) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/150)](https://www.legislation.gov.uk/nisr/2026/150), [art. 1](https://www.legislation.gov.uk/nisr/2026/150/article/1), [Sch. para. 3(3)(d)](https://www.legislation.gov.uk/nisr/2026/150/schedule/paragraph/3/3/d)
+[^c-71cc625ff8e5d9e48db68d54d6248ddf]: Textual amendment: Words in [Annex Scheme art. 35C(2)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/35C/2) substituted (1.9.2026) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/150)](https://www.legislation.gov.uk/nisr/2026/150), [art. 1](https://www.legislation.gov.uk/nisr/2026/150/article/1), [Sch. para. 3(3)(d)](https://www.legislation.gov.uk/nisr/2026/150/schedule/paragraph/3/3/d)
 
-[^key-da172746d2c2fa2fd4240d3afe16e842]: Textual amendment: Words in [Annex Scheme art. 35C(3)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/35C/3) substituted (1.9.2026) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/150)](https://www.legislation.gov.uk/nisr/2026/150), [art. 1](https://www.legislation.gov.uk/nisr/2026/150/article/1), [Sch. para. 3(3)(d)](https://www.legislation.gov.uk/nisr/2026/150/schedule/paragraph/3/3/d)
+[^c-da172746d2c2fa2fd4240d3afe16e842]: Textual amendment: Words in [Annex Scheme art. 35C(3)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/35C/3) substituted (1.9.2026) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/150)](https://www.legislation.gov.uk/nisr/2026/150), [art. 1](https://www.legislation.gov.uk/nisr/2026/150/article/1), [Sch. para. 3(3)(d)](https://www.legislation.gov.uk/nisr/2026/150/schedule/paragraph/3/3/d)
 
-[^key-b4bfeed9a4c9d294b00c503f734f73a0]: Textual amendment: Words in [Annex Scheme art. 35C(6)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/35C/6) substituted (1.9.2026) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/150)](https://www.legislation.gov.uk/nisr/2026/150), [art. 1](https://www.legislation.gov.uk/nisr/2026/150/article/1), [Sch. para. 3(3)(e)](https://www.legislation.gov.uk/nisr/2026/150/schedule/paragraph/3/3/e)
+[^c-b4bfeed9a4c9d294b00c503f734f73a0]: Textual amendment: Words in [Annex Scheme art. 35C(6)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/35C/6) substituted (1.9.2026) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/150)](https://www.legislation.gov.uk/nisr/2026/150), [art. 1](https://www.legislation.gov.uk/nisr/2026/150/article/1), [Sch. para. 3(3)(e)](https://www.legislation.gov.uk/nisr/2026/150/schedule/paragraph/3/3/e)
 
-[^key-dbd1a117894b7fc6941d4b79f6cb3ad7]: Commencement: ANNEX Scheme art. 36 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-dbd1a117894b7fc6941d4b79f6cb3ad7]: Commencement: ANNEX Scheme art. 36 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-86ae456a7cdae4ccea70ebe4d0d4cdd7]: Textual amendment: Words in [Annex Scheme Pt. 5 art. 36(1)(b)(i)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/5/article/36/1/i/b) inserted (with effect in accordance with art. 1(3) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 5(b)(i)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/5/b/i)
+[^c-86ae456a7cdae4ccea70ebe4d0d4cdd7]: Textual amendment: Words in [Annex Scheme Pt. 5 art. 36(1)(b)(i)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/5/article/36/1/i/b) inserted (with effect in accordance with art. 1(3) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 5(b)(i)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/5/b/i)
 
-[^key-00f20f0e719150256b04479ca034cb81]: Textual amendment: Word in [Annex Scheme Pt. 5 art. 36(1)(b)(ii)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/5/article/36/1/ii/b) substituted (with effect in accordance with art. 1(3) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 5(b)(ii)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/5/b/ii)
+[^c-00f20f0e719150256b04479ca034cb81]: Textual amendment: Word in [Annex Scheme Pt. 5 art. 36(1)(b)(ii)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/5/article/36/1/ii/b) substituted (with effect in accordance with art. 1(3) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 5(b)(ii)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/5/b/ii)
 
-[^key-8396def40d8524bffea9d2a139cf0d5c]: Textual amendment: Words in [Annex Scheme Pt. 5 art. 36(1)(b)(ii)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/5/article/36/1/ii/b) omitted (with effect in accordance with art. 1(3) of the amending Rule) by virtue of [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 5(b)(ii)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/5/b/ii)
+[^c-8396def40d8524bffea9d2a139cf0d5c]: Textual amendment: Words in [Annex Scheme Pt. 5 art. 36(1)(b)(ii)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/5/article/36/1/ii/b) omitted (with effect in accordance with art. 1(3) of the amending Rule) by virtue of [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 5(b)(ii)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/5/b/ii)
 
-[^key-43c388f74b40870247c4a54f30e2b0dd]: Textual amendment: Words in [Annex Scheme art. 36(2)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/36/2) substituted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 5(4)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/5/4)
+[^c-43c388f74b40870247c4a54f30e2b0dd]: Textual amendment: Words in [Annex Scheme art. 36(2)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/36/2) substituted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 5(4)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/5/4)
 
-[^key-06aaea736659d616249b6a24da4b3eb1]: Textual amendment: [Annex Scheme arts. 36A-36C](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/36A) inserted (1.9.2026) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/150)](https://www.legislation.gov.uk/nisr/2026/150), [art. 1](https://www.legislation.gov.uk/nisr/2026/150/article/1), [Sch. para. 3(4)](https://www.legislation.gov.uk/nisr/2026/150/schedule/paragraph/3/4)
+[^c-06aaea736659d616249b6a24da4b3eb1]: Textual amendment: [Annex Scheme arts. 36A-36C](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/36A) inserted (1.9.2026) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/150)](https://www.legislation.gov.uk/nisr/2026/150), [art. 1](https://www.legislation.gov.uk/nisr/2026/150/article/1), [Sch. para. 3(4)](https://www.legislation.gov.uk/nisr/2026/150/schedule/paragraph/3/4)
 
-[^key-e8e1053c562f011cdf19d5b1ba412fd9]: Commencement: ANNEX Scheme art. 37 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-e8e1053c562f011cdf19d5b1ba412fd9]: Commencement: ANNEX Scheme art. 37 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-50fc844c01159916c2ac25a4527bef63]: Textual amendment: Words in [Annex Scheme art. 37(1)(a)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/37/1/a) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 6(2)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/6/2)
+[^c-50fc844c01159916c2ac25a4527bef63]: Textual amendment: Words in [Annex Scheme art. 37(1)(a)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/37/1/a) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 6(2)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/6/2)
 
-[^key-d3f02cd6b980ad925ebc6147863865e1]: Commencement: ANNEX Scheme art. 38 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-d3f02cd6b980ad925ebc6147863865e1]: Commencement: ANNEX Scheme art. 38 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-4aa06df5cfd68fd10d7eaff06568aba9]: Textual amendment: Words in [Annex Scheme art. 38(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/38/1) substituted (5.7.2024 with effect from 1.12.2009) by [The Firefighters’ Pension Schemes and Compensation Scheme (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/130)](https://www.legislation.gov.uk/nisr/2024/130), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/1)[(5)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/5), [3(6)](https://www.legislation.gov.uk/nisr/2024/130/regulation/3/6)
+[^c-4aa06df5cfd68fd10d7eaff06568aba9]: Textual amendment: Words in [Annex Scheme art. 38(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/38/1) substituted (5.7.2024 with effect from 1.12.2009) by [The Firefighters’ Pension Schemes and Compensation Scheme (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/130)](https://www.legislation.gov.uk/nisr/2024/130), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/1)[(5)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/5), [3(6)](https://www.legislation.gov.uk/nisr/2024/130/regulation/3/6)
 
-[^key-9ef7ede4e8fd6e4325031df32d1c36ed]: Commencement: ANNEX Scheme art. 39 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-9ef7ede4e8fd6e4325031df32d1c36ed]: Commencement: ANNEX Scheme art. 39 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-abb638c7f33a51d613db1e23b7f442b5]: Textual amendment: [Annex Scheme Pt. 6 art. 39(2)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/6/article/39/2) substituted (with effect in accordance with art. 1(3) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 6(a)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/6/a)
+[^c-abb638c7f33a51d613db1e23b7f442b5]: Textual amendment: [Annex Scheme Pt. 6 art. 39(2)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/6/article/39/2) substituted (with effect in accordance with art. 1(3) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 6(a)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/6/a)
 
-[^key-af855d29ec11713f4ac1a5b7bdfffd62]: Textual amendment: Words in [Annex Scheme art. 39(7)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/39/7) substituted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 6(3)(a)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/6/3/a)
+[^c-af855d29ec11713f4ac1a5b7bdfffd62]: Textual amendment: Words in [Annex Scheme art. 39(7)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/39/7) substituted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 6(3)(a)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/6/3/a)
 
-[^key-e56724d2e58e5a64e9a94b9c183a9789]: Textual amendment: [Annex Scheme art. 39(7A)-(7C)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/39/7A) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 6(3)(b)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/6/3/b)
+[^c-e56724d2e58e5a64e9a94b9c183a9789]: Textual amendment: [Annex Scheme art. 39(7A)-(7C)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/39/7A) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 6(3)(b)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/6/3/b)
 
-[^key-3a51e21b6eb5956ec643cb21af42cd1c]: Commencement: ANNEX Scheme art. 40 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-3a51e21b6eb5956ec643cb21af42cd1c]: Commencement: ANNEX Scheme art. 40 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-c7f7fe25d665365b5844da70537c7d33]: Commencement: ANNEX Scheme art. 41 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-c7f7fe25d665365b5844da70537c7d33]: Commencement: ANNEX Scheme art. 41 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-f16af56a37a9af5c9ce13b6efd670a2b]: Textual amendment: [Annex Scheme Pt. 6 art. 41(1)(b)(ii)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/6/article/41/1/b/ii) substituted (with effect in accordance with art. 1(3) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 6(b)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/6/b)
+[^c-f16af56a37a9af5c9ce13b6efd670a2b]: Textual amendment: [Annex Scheme Pt. 6 art. 41(1)(b)(ii)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/6/article/41/1/b/ii) substituted (with effect in accordance with art. 1(3) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 6(b)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/6/b)
 
-[^key-966582bff7bcfa1bd2071e96c59ec805]: Textual amendment: [Annex Scheme Pt. 6 art. 41A](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/6/article/41A) added (with effect in accordance with art. 1(3) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 6(c)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/6/c)
+[^c-966582bff7bcfa1bd2071e96c59ec805]: Textual amendment: [Annex Scheme Pt. 6 art. 41A](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/6/article/41A) added (with effect in accordance with art. 1(3) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 6(c)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/6/c)
 
-[^key-8fca937e3363954c4d9490f2cc2319c9]: Commencement: ANNEX Scheme art. 42 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-8fca937e3363954c4d9490f2cc2319c9]: Commencement: ANNEX Scheme art. 42 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
 [^f00025]: Footnote: [1996 c. 14](https://www.legislation.gov.uk/ukpga/1996/14)
 
 [^f00026]: Footnote: [1980 c. 9](https://www.legislation.gov.uk/ukpga/1980/9).
 
-[^key-700f63a4f47e155799064addd8e40133]: Commencement: ANNEX Scheme art. 43 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-700f63a4f47e155799064addd8e40133]: Commencement: ANNEX Scheme art. 43 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-78e40aff591d0cb37c618912ea94cf9c]: Textual amendment: Word in [Annex Scheme Pt. 7 art. 43(2)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/7/article/43/2) substituted (with effect in accordance with art. 1(3) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 7(a)(i)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/7/a/i)
+[^c-78e40aff591d0cb37c618912ea94cf9c]: Textual amendment: Word in [Annex Scheme Pt. 7 art. 43(2)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/7/article/43/2) substituted (with effect in accordance with art. 1(3) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 7(a)(i)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/7/a/i)
 
-[^key-66853747116527a6660a072ab8dcfe93]: Textual amendment: [Annex Scheme Pt. 7 art. 43(3)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/7/article/43/3)[(4)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/7/article/43/4) substituted for (with effect in accordance with art. 1(3) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 7(a)(ii)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/7/a/ii)
+[^c-66853747116527a6660a072ab8dcfe93]: Textual amendment: [Annex Scheme Pt. 7 art. 43(3)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/7/article/43/3)[(4)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/7/article/43/4) substituted for (with effect in accordance with art. 1(3) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 7(a)(ii)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/7/a/ii)
 
-[^key-76bbb12d9404e4e22abc4d678d37b21b]: Commencement: ANNEX Scheme art. 44 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-76bbb12d9404e4e22abc4d678d37b21b]: Commencement: ANNEX Scheme art. 44 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
 [^f00027]: Footnote: See article 3 of Part 1.
 
-[^key-057a60d1ab1d5951401f1fb83ba36cf7]: Textual amendment: [Annex Scheme Pt. 7 art. 44(2)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/7/article/44/2) substituted (with effect in accordance with art. 1(3) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 7(b)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/7/b)
+[^c-057a60d1ab1d5951401f1fb83ba36cf7]: Textual amendment: [Annex Scheme Pt. 7 art. 44(2)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/7/article/44/2) substituted (with effect in accordance with art. 1(3) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 7(b)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/7/b)
 
-[^key-101036bd213f54d1e43ee86809deff0b]: Textual amendment: Words in [Annex Scheme art. 44(3)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/44/3) substituted (5.7.2024 with effect from 6.4.2006) by [The Firefighters’ Pension Schemes and Compensation Scheme (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/130)](https://www.legislation.gov.uk/nisr/2024/130), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/1)[(3)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/3), [3(7)](https://www.legislation.gov.uk/nisr/2024/130/regulation/3/7)
+[^c-101036bd213f54d1e43ee86809deff0b]: Textual amendment: Words in [Annex Scheme art. 44(3)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/44/3) substituted (5.7.2024 with effect from 6.4.2006) by [The Firefighters’ Pension Schemes and Compensation Scheme (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/130)](https://www.legislation.gov.uk/nisr/2024/130), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/1)[(3)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/3), [3(7)](https://www.legislation.gov.uk/nisr/2024/130/regulation/3/7)
 
-[^key-33649cf631af0714412e52f631c1c85f]: Commencement: ANNEX Scheme art. 45 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-33649cf631af0714412e52f631c1c85f]: Commencement: ANNEX Scheme art. 45 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-9413a34a1eacc54403b00dcf5a5b0b2c]: Commencement: ANNEX Scheme art. 46 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-9413a34a1eacc54403b00dcf5a5b0b2c]: Commencement: ANNEX Scheme art. 46 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-6cf226662622a3c0f8460bec70951a7c]: Textual amendment: Words in [Annex Scheme art. 46(2)(d)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/46/2/d) substituted (1.4.2022) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/155)](https://www.legislation.gov.uk/nisr/2022/155), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/155/regulation/1/2), [Sch. 2 para. 2(2)(a)](https://www.legislation.gov.uk/nisr/2022/155/schedule/2/paragraph/2/2/a)
+[^c-6cf226662622a3c0f8460bec70951a7c]: Textual amendment: Words in [Annex Scheme art. 46(2)(d)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/46/2/d) substituted (1.4.2022) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/155)](https://www.legislation.gov.uk/nisr/2022/155), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/155/regulation/1/2), [Sch. 2 para. 2(2)(a)](https://www.legislation.gov.uk/nisr/2022/155/schedule/2/paragraph/2/2/a)
 
-[^key-6f40a5d73d841d4cbbb165e6cade72c9]: Textual amendment: Words in [Annex Scheme art. 46(2)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/46/2) substituted (1.4.2022) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/155)](https://www.legislation.gov.uk/nisr/2022/155), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/155/regulation/1/2), [Sch. 2 para. 2(2)(b)](https://www.legislation.gov.uk/nisr/2022/155/schedule/2/paragraph/2/2/b)
+[^c-6f40a5d73d841d4cbbb165e6cade72c9]: Textual amendment: Words in [Annex Scheme art. 46(2)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/46/2) substituted (1.4.2022) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/155)](https://www.legislation.gov.uk/nisr/2022/155), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/155/regulation/1/2), [Sch. 2 para. 2(2)(b)](https://www.legislation.gov.uk/nisr/2022/155/schedule/2/paragraph/2/2/b)
 
-[^key-563c1cb870da3571f6e40947c66ec4ba]: Textual amendment: Words in [Annex Scheme art. 46(3)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/46/3) omitted (1.4.2022) by virtue of [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/155)](https://www.legislation.gov.uk/nisr/2022/155), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/155/regulation/1/2), [Sch. 2 para. 2(2)(c)](https://www.legislation.gov.uk/nisr/2022/155/schedule/2/paragraph/2/2/c)
+[^c-563c1cb870da3571f6e40947c66ec4ba]: Textual amendment: Words in [Annex Scheme art. 46(3)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/46/3) omitted (1.4.2022) by virtue of [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/155)](https://www.legislation.gov.uk/nisr/2022/155), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/155/regulation/1/2), [Sch. 2 para. 2(2)(c)](https://www.legislation.gov.uk/nisr/2022/155/schedule/2/paragraph/2/2/c)
 
-[^key-ab0a6a9fb5da168af67a6f77213b13f4]: Commencement: ANNEX Scheme art. 47 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-ab0a6a9fb5da168af67a6f77213b13f4]: Commencement: ANNEX Scheme art. 47 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-4e0cd811b9ef3c9f0c6d0c08c3c4ca2e]: Textual amendment: Words in [Annex Scheme art. 47(2)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/47/2) substituted (9.1.2025) by [The Firefighters’ Pension Schemes and Compensation Scheme (Amendment) (No. 2) Regulations (Northern Ireland) 2024 (S.R. 2024/218)](https://www.legislation.gov.uk/nisr/2024/218), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/218/regulation/1/1), [3(3)](https://www.legislation.gov.uk/nisr/2024/218/regulation/3/3)
+[^c-4e0cd811b9ef3c9f0c6d0c08c3c4ca2e]: Textual amendment: Words in [Annex Scheme art. 47(2)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/47/2) substituted (9.1.2025) by [The Firefighters’ Pension Schemes and Compensation Scheme (Amendment) (No. 2) Regulations (Northern Ireland) 2024 (S.R. 2024/218)](https://www.legislation.gov.uk/nisr/2024/218), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/218/regulation/1/1), [3(3)](https://www.legislation.gov.uk/nisr/2024/218/regulation/3/3)
 
-[^key-ef19621d364751a6fcb04843a02c1eee]: Textual amendment: [Annex Scheme art. 48](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/48) substituted (1.4.2022) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/155)](https://www.legislation.gov.uk/nisr/2022/155), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/155/regulation/1/2), [Sch. 2 para. 2(3)](https://www.legislation.gov.uk/nisr/2022/155/schedule/2/paragraph/2/3)
+[^c-ef19621d364751a6fcb04843a02c1eee]: Textual amendment: [Annex Scheme art. 48](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/48) substituted (1.4.2022) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/155)](https://www.legislation.gov.uk/nisr/2022/155), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/155/regulation/1/2), [Sch. 2 para. 2(3)](https://www.legislation.gov.uk/nisr/2022/155/schedule/2/paragraph/2/3)
 
-[^key-c9192d3ad6275c11d6b1e2359bbd0e9f]: Commencement: ANNEX Scheme art. 49 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-c9192d3ad6275c11d6b1e2359bbd0e9f]: Commencement: ANNEX Scheme art. 49 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-2cbab551cfc8ba971c1d26dc4a7d380a]: Commencement: ANNEX Scheme art. 50 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-2cbab551cfc8ba971c1d26dc4a7d380a]: Commencement: ANNEX Scheme art. 50 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-d58a40ed35b8c4644388d4d5932e2871]: Commencement: ANNEX Scheme art. 51 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-d58a40ed35b8c4644388d4d5932e2871]: Commencement: ANNEX Scheme art. 51 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-5c8807ac247f20ea19861008e3edd39c]: Commencement: ANNEX Scheme art. 52 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-5c8807ac247f20ea19861008e3edd39c]: Commencement: ANNEX Scheme art. 52 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-77924bf5a773bfea9dbe5cc2b646c8dc]: Commencement: ANNEX Scheme art. 53 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-77924bf5a773bfea9dbe5cc2b646c8dc]: Commencement: ANNEX Scheme art. 53 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-ce080fe09f169d47526208f946175cf9]: Textual amendment: Words in [Annex Scheme art. 53](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/53) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 7(2)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/7/2)
+[^c-ce080fe09f169d47526208f946175cf9]: Textual amendment: Words in [Annex Scheme art. 53](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/53) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 7(2)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/7/2)
 
-[^key-e2bcfccff7001ca4553e063b4a8ab04e]: Commencement: ANNEX Scheme art. 54 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-e2bcfccff7001ca4553e063b4a8ab04e]: Commencement: ANNEX Scheme art. 54 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
 [^f00028]: Footnote: [1911 c.28](https://www.legislation.gov.uk/ukpga/1911/28), [1920 c.75](https://www.legislation.gov.uk/ukpga/1920/75), [1939 c.121](https://www.legislation.gov.uk/ukpga/1939/121), [1989 c.6](https://www.legislation.gov.uk/ukpga/1989/6).
 
-[^key-e9384f12bae4b73902002729ce2d2c89]: Textual amendment: Words in [Annex Scheme art. 54(3)(b)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/54/3/b) inserted (20.12.2023) by [The National Security Act 2023 (Consequential Amendments of Subordinate Legislation) Regulations 2023 (S.I. 2023/1267)](https://www.legislation.gov.uk/uksi/2023/1267), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1267/regulation/1/2), [Sch. para. 23(2)](https://www.legislation.gov.uk/uksi/2023/1267/schedule/paragraph/23/2)
+[^c-e9384f12bae4b73902002729ce2d2c89]: Textual amendment: Words in [Annex Scheme art. 54(3)(b)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/54/3/b) inserted (20.12.2023) by [The National Security Act 2023 (Consequential Amendments of Subordinate Legislation) Regulations 2023 (S.I. 2023/1267)](https://www.legislation.gov.uk/uksi/2023/1267), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1267/regulation/1/2), [Sch. para. 23(2)](https://www.legislation.gov.uk/uksi/2023/1267/schedule/paragraph/23/2)
 
-[^key-3a649a3c976f01c2a313c586b6ab29c1]: Commencement: ANNEX Scheme art. 55 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-3a649a3c976f01c2a313c586b6ab29c1]: Commencement: ANNEX Scheme art. 55 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-8921234b3dc12cbdf7f78822d92fc893]: Textual amendment: Words in [Annex Scheme art. 55(1)(g)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/55/1/g) inserted (29.9.2023) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/157)](https://www.legislation.gov.uk/nisr/2023/157), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1), [14(3)(a)](https://www.legislation.gov.uk/nisr/2023/157/regulation/14/3/a), [34](https://www.legislation.gov.uk/nisr/2023/157/regulation/34) (with [regs. 28-33](https://www.legislation.gov.uk/nisr/2023/157/regulation/28))
+[^c-8921234b3dc12cbdf7f78822d92fc893]: Textual amendment: Words in [Annex Scheme art. 55(1)(g)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/55/1/g) inserted (29.9.2023) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/157)](https://www.legislation.gov.uk/nisr/2023/157), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1), [14(3)(a)](https://www.legislation.gov.uk/nisr/2023/157/regulation/14/3/a), [34](https://www.legislation.gov.uk/nisr/2023/157/regulation/34) (with [regs. 28-33](https://www.legislation.gov.uk/nisr/2023/157/regulation/28))
 
-[^key-5066386bce430eee33606aedd3499a13]: Textual amendment: [Annex Scheme art. 55(h)(i)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/55/h/i) added (1.4.2015) by virtue of [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 8(2)(a)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/8/2/a)
+[^c-5066386bce430eee33606aedd3499a13]: Textual amendment: [Annex Scheme art. 55(h)(i)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/55/h/i) added (1.4.2015) by virtue of [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 8(2)(a)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/8/2/a)
 
-[^key-a7ef7c80d303855377b55d4099203470]: Textual amendment: Words in [Annex Scheme art. 55(h)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/55/h) inserted (31.10.2023) by virtue of [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 5(2)(a)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/5/2/a)
+[^c-a7ef7c80d303855377b55d4099203470]: Textual amendment: Words in [Annex Scheme art. 55(h)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/55/h) inserted (31.10.2023) by virtue of [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 5(2)(a)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/5/2/a)
 
-[^key-4994c12bda2d7486ffbd1fe66da9c26c]: Textual amendment: Word in [Annex Scheme art. 55(h)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/55/h) omitted (retrospective to 1.4.2015) by virtue of [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 4(a)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/4/a)
+[^c-4994c12bda2d7486ffbd1fe66da9c26c]: Textual amendment: Word in [Annex Scheme art. 55(h)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/55/h) omitted (retrospective to 1.4.2015) by virtue of [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 4(a)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/4/a)
 
-[^key-d9f392b0b7f7a2a9f5ef0a629ee3c5cc]: Textual amendment: Words in [Annex Scheme art. 55(i)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/55/i) inserted (31.10.2023) by virtue of [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 5(2)(b)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/5/2/b)
+[^c-d9f392b0b7f7a2a9f5ef0a629ee3c5cc]: Textual amendment: Words in [Annex Scheme art. 55(i)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/55/i) inserted (31.10.2023) by virtue of [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 5(2)(b)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/5/2/b)
 
-[^key-b1323db7a783524354f563445b7ca78b]: Textual amendment: [Annex Scheme art. 55(j)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/55/j) and word inserted (retrospective to 1.4.2015) by virtue of [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 4(a)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/4/a)
+[^c-b1323db7a783524354f563445b7ca78b]: Textual amendment: [Annex Scheme art. 55(j)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/55/j) and word inserted (retrospective to 1.4.2015) by virtue of [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 4(a)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/4/a)
 
-[^key-cc7622877e4addfce4d301f231205cff]: Commencement: ANNEX Scheme art. 56 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-cc7622877e4addfce4d301f231205cff]: Commencement: ANNEX Scheme art. 56 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-0f4c4d61836fb8da988687ad8978297a]: Textual amendment: Words in [Annex Scheme art. 56(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/56/1) substituted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 8(3)(a)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/8/3/a)
+[^c-0f4c4d61836fb8da988687ad8978297a]: Textual amendment: Words in [Annex Scheme art. 56(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/56/1) substituted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 8(3)(a)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/8/3/a)
 
-[^key-4ee8b5d275a96703a3a4621b1b5cc647]: Textual amendment: Words in [Annex Scheme art. 56(1)(c)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/56/1/c) inserted (29.9.2023) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/157)](https://www.legislation.gov.uk/nisr/2023/157), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1), [14(3)(b)](https://www.legislation.gov.uk/nisr/2023/157/regulation/14/3/b), [34](https://www.legislation.gov.uk/nisr/2023/157/regulation/34) (with [regs. 28-33](https://www.legislation.gov.uk/nisr/2023/157/regulation/28))
+[^c-4ee8b5d275a96703a3a4621b1b5cc647]: Textual amendment: Words in [Annex Scheme art. 56(1)(c)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/56/1/c) inserted (29.9.2023) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/157)](https://www.legislation.gov.uk/nisr/2023/157), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1), [14(3)(b)](https://www.legislation.gov.uk/nisr/2023/157/regulation/14/3/b), [34](https://www.legislation.gov.uk/nisr/2023/157/regulation/34) (with [regs. 28-33](https://www.legislation.gov.uk/nisr/2023/157/regulation/28))
 
-[^key-2607d017a44cc4b7e853631b0481f661]: Textual amendment: Word in [Annex Scheme Pt. 10 art. 56(1)(d)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/10/article/56/1/d) substituted (with effect in accordance with art. 1(3) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 8(a)(i)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/8/a/i)
+[^c-2607d017a44cc4b7e853631b0481f661]: Textual amendment: Word in [Annex Scheme Pt. 10 art. 56(1)(d)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/10/article/56/1/d) substituted (with effect in accordance with art. 1(3) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 8(a)(i)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/8/a/i)
 
-[^key-7903463c505fc1cc891a261980456441]: Textual amendment: Words in [Annex Scheme Pt. 10 art. 56(1)(d)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/10/article/56/1/d) omitted (with effect in accordance with art. 1(3) of the amending Rule) by virtue of [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 8(a)(i)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/8/a/i)
+[^c-7903463c505fc1cc891a261980456441]: Textual amendment: Words in [Annex Scheme Pt. 10 art. 56(1)(d)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/10/article/56/1/d) omitted (with effect in accordance with art. 1(3) of the amending Rule) by virtue of [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 8(a)(i)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/8/a/i)
 
-[^key-5fe64cdc8a98933d3c38c51c43d91192]: Textual amendment: [Annex Scheme art. 56(1)(g)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/56/1/g) added (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 8(3)(b)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/8/3/b)
+[^c-5fe64cdc8a98933d3c38c51c43d91192]: Textual amendment: [Annex Scheme art. 56(1)(g)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/56/1/g) added (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 8(3)(b)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/8/3/b)
 
-[^key-44c96bc0a5cdba71de4aa04e64689039]: Textual amendment: Words in [Annex Scheme Pt. 10 art. 56(6)(b)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/10/article/56/6/b) inserted (with effect in accordance with art. 1(3) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 8(a)(ii)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/8/a/ii)
+[^c-44c96bc0a5cdba71de4aa04e64689039]: Textual amendment: Words in [Annex Scheme Pt. 10 art. 56(6)(b)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/10/article/56/6/b) inserted (with effect in accordance with art. 1(3) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 8(a)(ii)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/8/a/ii)
 
-[^key-6d7d903d51609f496af9778ee3ef9349]: Textual amendment: [Annex Scheme art. 56A](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/56A) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 8(4)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/8/4)
+[^c-6d7d903d51609f496af9778ee3ef9349]: Textual amendment: [Annex Scheme art. 56A](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/56A) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 8(4)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/8/4)
 
-[^key-03fe652e70ab78c0c8fe77561e5d6f2d]: Textual amendment: Words in [Annex Scheme art. 56A(1)(b)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/56A/1/b) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 5(3)(a)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/5/3/a)
+[^c-03fe652e70ab78c0c8fe77561e5d6f2d]: Textual amendment: Words in [Annex Scheme art. 56A(1)(b)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/56A/1/b) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 5(3)(a)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/5/3/a)
 
-[^key-679f391f8289651ce0dd4715a10b6164]: Textual amendment: Words in [Annex Scheme art. 56A(1)(c)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/56A/1/c) inserted (29.9.2023) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/157)](https://www.legislation.gov.uk/nisr/2023/157), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1), [14(3)(c)](https://www.legislation.gov.uk/nisr/2023/157/regulation/14/3/c), [34](https://www.legislation.gov.uk/nisr/2023/157/regulation/34) (with [regs. 28-33](https://www.legislation.gov.uk/nisr/2023/157/regulation/28))
+[^c-679f391f8289651ce0dd4715a10b6164]: Textual amendment: Words in [Annex Scheme art. 56A(1)(c)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/56A/1/c) inserted (29.9.2023) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/157)](https://www.legislation.gov.uk/nisr/2023/157), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1), [14(3)(c)](https://www.legislation.gov.uk/nisr/2023/157/regulation/14/3/c), [34](https://www.legislation.gov.uk/nisr/2023/157/regulation/34) (with [regs. 28-33](https://www.legislation.gov.uk/nisr/2023/157/regulation/28))
 
-[^key-e157c9cc8cdb949d77eef70be45551ad]: Textual amendment: Words in [Annex Scheme art. 56A(3)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/56A/3) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 5(3)(b)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/5/3/b)
+[^c-e157c9cc8cdb949d77eef70be45551ad]: Textual amendment: Words in [Annex Scheme art. 56A(3)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/56A/3) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 5(3)(b)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/5/3/b)
 
-[^key-351c758fbc52160685e629c90bbed158]: Commencement: ANNEX Scheme art. 57 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-351c758fbc52160685e629c90bbed158]: Commencement: ANNEX Scheme art. 57 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-1835e08697cee028b2652cfd60b60c6e]: Textual amendment: Words in [Annex Scheme art. 57](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/57) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 8(5)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/8/5)
+[^c-1835e08697cee028b2652cfd60b60c6e]: Textual amendment: Words in [Annex Scheme art. 57](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/57) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 8(5)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/8/5)
 
-[^key-082e301178c5976dbd0889adf1289ecd]: Textual amendment: [Annex Scheme art. 57A](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/57A) inserted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 4(b)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/4/b)
+[^c-082e301178c5976dbd0889adf1289ecd]: Textual amendment: [Annex Scheme art. 57A](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/57A) inserted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 4(b)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/4/b)
 
-[^key-2c1176305bb249cd370fe6c82de4b5c5]: Commencement: ANNEX Scheme art. 58 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-2c1176305bb249cd370fe6c82de4b5c5]: Commencement: ANNEX Scheme art. 58 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-64c5f98aa98ae6125e8be21361e4a367]: Textual amendment: Words in [Annex Scheme art. 58](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/58) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 8(6)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/8/6)
+[^c-64c5f98aa98ae6125e8be21361e4a367]: Textual amendment: Words in [Annex Scheme art. 58](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/58) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 8(6)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/8/6)
 
-[^key-1d671169373faeadbc511add6cbe430d]: Textual amendment: Words in [Annex Scheme Pt. 10 art. 58(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/10/article/58/1) substituted (with effect in accordance with art. 1(3) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 8(b)(i)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/8/b/i)
+[^c-1d671169373faeadbc511add6cbe430d]: Textual amendment: Words in [Annex Scheme Pt. 10 art. 58(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/10/article/58/1) substituted (with effect in accordance with art. 1(3) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 8(b)(i)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/8/b/i)
 
-[^key-e6452434b1fae1046b6acd868032245f]: Textual amendment: Words in [Annex Scheme Pt. 10 art. 58(2)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/10/article/58/2) substituted (with effect in accordance with art. 1(3) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 8(b)(ii)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/8/b/ii)
+[^c-e6452434b1fae1046b6acd868032245f]: Textual amendment: Words in [Annex Scheme Pt. 10 art. 58(2)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/10/article/58/2) substituted (with effect in accordance with art. 1(3) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 8(b)(ii)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/8/b/ii)
 
-[^key-23e48f0ace9a8b1089c0eaaf5236b32e]: Commencement: ANNEX Scheme art. 59 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-23e48f0ace9a8b1089c0eaaf5236b32e]: Commencement: ANNEX Scheme art. 59 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-4b91c41b88e368365019be3daad3d4cd]: Textual amendment: Words in [Annex Scheme art. 59](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/59) heading inserted (29.9.2023) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/157)](https://www.legislation.gov.uk/nisr/2023/157), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1), [14(3)(d)(i)](https://www.legislation.gov.uk/nisr/2023/157/regulation/14/3/d/i), [34](https://www.legislation.gov.uk/nisr/2023/157/regulation/34) (with [regs. 28-33](https://www.legislation.gov.uk/nisr/2023/157/regulation/28))
+[^c-4b91c41b88e368365019be3daad3d4cd]: Textual amendment: Words in [Annex Scheme art. 59](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/59) heading inserted (29.9.2023) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/157)](https://www.legislation.gov.uk/nisr/2023/157), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1), [14(3)(d)(i)](https://www.legislation.gov.uk/nisr/2023/157/regulation/14/3/d/i), [34](https://www.legislation.gov.uk/nisr/2023/157/regulation/34) (with [regs. 28-33](https://www.legislation.gov.uk/nisr/2023/157/regulation/28))
 
-[^key-b0aaa74fd91237be893b250ac2b2f0d7]: Textual amendment: [Annex Scheme art. 59(2)(aa)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/59/2/aa) inserted (29.9.2023) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/157)](https://www.legislation.gov.uk/nisr/2023/157), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1), [14(3)(d)(ii)](https://www.legislation.gov.uk/nisr/2023/157/regulation/14/3/d/ii), [34](https://www.legislation.gov.uk/nisr/2023/157/regulation/34) (with [regs. 28-33](https://www.legislation.gov.uk/nisr/2023/157/regulation/28))
+[^c-b0aaa74fd91237be893b250ac2b2f0d7]: Textual amendment: [Annex Scheme art. 59(2)(aa)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/59/2/aa) inserted (29.9.2023) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/157)](https://www.legislation.gov.uk/nisr/2023/157), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1), [14(3)(d)(ii)](https://www.legislation.gov.uk/nisr/2023/157/regulation/14/3/d/ii), [34](https://www.legislation.gov.uk/nisr/2023/157/regulation/34) (with [regs. 28-33](https://www.legislation.gov.uk/nisr/2023/157/regulation/28))
 
-[^key-02834a50e8ede98a0b7c9901af345307]: Textual amendment: [Annex Scheme art. 59(4)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/59/4) added (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 8(7)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/8/7)
+[^c-02834a50e8ede98a0b7c9901af345307]: Textual amendment: [Annex Scheme art. 59(4)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/59/4) added (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 8(7)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/8/7)
 
-[^key-486c6fa692849950a31583d59ecb9bb7]: Commencement: ANNEX Scheme art. 60 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-486c6fa692849950a31583d59ecb9bb7]: Commencement: ANNEX Scheme art. 60 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-4989ca87259c192fec2886204f27fbe6]: Textual amendment: Words in [Annex Scheme art. 60(5)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/60/5) substituted (1.7.2014) by [The New Firefighters’ Pension Scheme (Amendment) (No. 2) Order (Northern Ireland) 2014 (S.R. 2014/168)](https://www.legislation.gov.uk/nisr/2014/168), [art. 1(2)](https://www.legislation.gov.uk/nisr/2014/168/article/1/2), [Sch. para. 4](https://www.legislation.gov.uk/nisr/2014/168/schedule/paragraph/4)
+[^c-4989ca87259c192fec2886204f27fbe6]: Textual amendment: Words in [Annex Scheme art. 60(5)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/60/5) substituted (1.7.2014) by [The New Firefighters’ Pension Scheme (Amendment) (No. 2) Order (Northern Ireland) 2014 (S.R. 2014/168)](https://www.legislation.gov.uk/nisr/2014/168), [art. 1(2)](https://www.legislation.gov.uk/nisr/2014/168/article/1/2), [Sch. para. 4](https://www.legislation.gov.uk/nisr/2014/168/schedule/paragraph/4)
 
-[^key-e66814f180f86e4ce33f4d2ff99638c7]: Textual amendment: [Annex Scheme art. 60(7)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/60/7) added (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 8(8)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/8/8)
+[^c-e66814f180f86e4ce33f4d2ff99638c7]: Textual amendment: [Annex Scheme art. 60(7)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/60/7) added (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 8(8)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/8/8)
 
-[^key-4bb6b15ed32ce1afacd994fc249d160c]: Commencement: ANNEX Scheme art. 61 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-4bb6b15ed32ce1afacd994fc249d160c]: Commencement: ANNEX Scheme art. 61 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-97e00122011e51e236a235f7eb9192af]: Textual amendment: Words in [Annex Scheme art. 61(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/61/1) substituted (8.12.2015) by virtue of [The New Firefighters’ Pension Scheme (Amendment) (No. 3) Order (Northern Ireland) 2015 (S.R. 2015/355)](https://www.legislation.gov.uk/nisr/2015/355), [arts. 1](https://www.legislation.gov.uk/nisr/2015/355/article/1), [3(a)](https://www.legislation.gov.uk/nisr/2015/355/article/3/a)
+[^c-97e00122011e51e236a235f7eb9192af]: Textual amendment: Words in [Annex Scheme art. 61(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/61/1) substituted (8.12.2015) by virtue of [The New Firefighters’ Pension Scheme (Amendment) (No. 3) Order (Northern Ireland) 2015 (S.R. 2015/355)](https://www.legislation.gov.uk/nisr/2015/355), [arts. 1](https://www.legislation.gov.uk/nisr/2015/355/article/1), [3(a)](https://www.legislation.gov.uk/nisr/2015/355/article/3/a)
 
-[^key-7d131a42eba705ab6f80ba38ee6a7bd3]: Textual amendment: Words in [Annex Scheme art. 61(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/61/1) substituted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 5(a)(i)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/5/a/i)
+[^c-7d131a42eba705ab6f80ba38ee6a7bd3]: Textual amendment: Words in [Annex Scheme art. 61(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/61/1) substituted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 5(a)(i)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/5/a/i)
 
-[^key-4cc28e54f3ba1da2fd095cc7a85a9648]: Textual amendment: Words in [Annex Scheme Pt. 11 art. 61(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/11/article/61/1) substituted (with effect in accordance with art. 1(5)(b) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 9(a)(i)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/9/a/i)
+[^c-4cc28e54f3ba1da2fd095cc7a85a9648]: Textual amendment: Words in [Annex Scheme Pt. 11 art. 61(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/11/article/61/1) substituted (with effect in accordance with art. 1(5)(b) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 9(a)(i)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/9/a/i)
 
-[^key-f9fb7b8c1c4f1d891887660236908124]: Textual amendment: Words in [Annex Scheme art. 61(1)(a)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/61/1/a) omitted (1.7.2014) by virtue of [The New Firefighters’ Pension Scheme (Amendment) (No. 2) Order (Northern Ireland) 2014 (S.R. 2014/168)](https://www.legislation.gov.uk/nisr/2014/168), [art. 1(2)](https://www.legislation.gov.uk/nisr/2014/168/article/1/2), [Sch. para. 5(a)(i)(bb)](https://www.legislation.gov.uk/nisr/2014/168/schedule/paragraph/5/a/i/bb)
+[^c-f9fb7b8c1c4f1d891887660236908124]: Textual amendment: Words in [Annex Scheme art. 61(1)(a)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/61/1/a) omitted (1.7.2014) by virtue of [The New Firefighters’ Pension Scheme (Amendment) (No. 2) Order (Northern Ireland) 2014 (S.R. 2014/168)](https://www.legislation.gov.uk/nisr/2014/168), [art. 1(2)](https://www.legislation.gov.uk/nisr/2014/168/article/1/2), [Sch. para. 5(a)(i)(bb)](https://www.legislation.gov.uk/nisr/2014/168/schedule/paragraph/5/a/i/bb)
 
-[^key-948861a76899b4fa2444fc64e16d9f3c]: Textual amendment: [Annex Scheme art. 61(1)(aa)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/61/1/aa) inserted (1.7.2014) by [The New Firefighters’ Pension Scheme (Amendment) (No. 2) Order (Northern Ireland) 2014 (S.R. 2014/168)](https://www.legislation.gov.uk/nisr/2014/168), [art. 1(2)](https://www.legislation.gov.uk/nisr/2014/168/article/1/2), [Sch. para. 5(a)(i)(cc)](https://www.legislation.gov.uk/nisr/2014/168/schedule/paragraph/5/a/i/cc)
+[^c-948861a76899b4fa2444fc64e16d9f3c]: Textual amendment: [Annex Scheme art. 61(1)(aa)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/61/1/aa) inserted (1.7.2014) by [The New Firefighters’ Pension Scheme (Amendment) (No. 2) Order (Northern Ireland) 2014 (S.R. 2014/168)](https://www.legislation.gov.uk/nisr/2014/168), [art. 1(2)](https://www.legislation.gov.uk/nisr/2014/168/article/1/2), [Sch. para. 5(a)(i)(cc)](https://www.legislation.gov.uk/nisr/2014/168/schedule/paragraph/5/a/i/cc)
 
-[^key-c058c3154c5db06965f1c0e4c83f2f27]: Textual amendment: Words in [Annex Scheme Pt. 11 art. 61(5)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/11/article/61/5) substituted (with effect in accordance with art. 1(5)(b) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 9(a)(ii)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/9/a/ii)
+[^c-c058c3154c5db06965f1c0e4c83f2f27]: Textual amendment: Words in [Annex Scheme Pt. 11 art. 61(5)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/11/article/61/5) substituted (with effect in accordance with art. 1(5)(b) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 9(a)(ii)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/9/a/ii)
 
-[^key-5c784e8dd912326f85d7342cc72ba3c2]: Textual amendment: [Annex Scheme art. 61(5A)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/61/5A) inserted (1.7.2014) by [The New Firefighters’ Pension Scheme (Amendment) (No. 2) Order (Northern Ireland) 2014 (S.R. 2014/168)](https://www.legislation.gov.uk/nisr/2014/168), [art. 1(2)](https://www.legislation.gov.uk/nisr/2014/168/article/1/2), [Sch. para. 5(a)(ii)](https://www.legislation.gov.uk/nisr/2014/168/schedule/paragraph/5/a/ii)
+[^c-5c784e8dd912326f85d7342cc72ba3c2]: Textual amendment: [Annex Scheme art. 61(5A)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/61/5A) inserted (1.7.2014) by [The New Firefighters’ Pension Scheme (Amendment) (No. 2) Order (Northern Ireland) 2014 (S.R. 2014/168)](https://www.legislation.gov.uk/nisr/2014/168), [art. 1(2)](https://www.legislation.gov.uk/nisr/2014/168/article/1/2), [Sch. para. 5(a)(ii)](https://www.legislation.gov.uk/nisr/2014/168/schedule/paragraph/5/a/ii)
 
-[^key-44917a05b2ba4ba40d084b15e2c24c37]: Textual amendment: [Annex Scheme art. 61(5B)-(5D)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/61/5B) inserted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 5(a)(ii)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/5/a/ii)
+[^c-44917a05b2ba4ba40d084b15e2c24c37]: Textual amendment: [Annex Scheme art. 61(5B)-(5D)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/61/5B) inserted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 5(a)(ii)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/5/a/ii)
 
-[^key-767dc7bca4115796fd5c7ebe35903613]: Textual amendment: Words in [Annex Scheme art. 61(5B)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/61/5B) substituted (5.7.2024 with effect from 1.4.2015) by [The Firefighters’ Pension Schemes and Compensation Scheme (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/130)](https://www.legislation.gov.uk/nisr/2024/130), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/1)[(6)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/6), [3(8)(a)](https://www.legislation.gov.uk/nisr/2024/130/regulation/3/8/a)
+[^c-767dc7bca4115796fd5c7ebe35903613]: Textual amendment: Words in [Annex Scheme art. 61(5B)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/61/5B) substituted (5.7.2024 with effect from 1.4.2015) by [The Firefighters’ Pension Schemes and Compensation Scheme (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/130)](https://www.legislation.gov.uk/nisr/2024/130), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/1)[(6)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/6), [3(8)(a)](https://www.legislation.gov.uk/nisr/2024/130/regulation/3/8/a)
 
-[^key-3a194f69bc575a9988faf81509c2bc68]: Textual amendment: Words in [Annex Scheme art. 61(5C)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/61/5C) substituted (5.7.2024 with effect from 1.4.2015) by [The Firefighters’ Pension Schemes and Compensation Scheme (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/130)](https://www.legislation.gov.uk/nisr/2024/130), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/1)[(6)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/6), [3(8)(b)](https://www.legislation.gov.uk/nisr/2024/130/regulation/3/8/b)
+[^c-3a194f69bc575a9988faf81509c2bc68]: Textual amendment: Words in [Annex Scheme art. 61(5C)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/61/5C) substituted (5.7.2024 with effect from 1.4.2015) by [The Firefighters’ Pension Schemes and Compensation Scheme (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/130)](https://www.legislation.gov.uk/nisr/2024/130), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/1)[(6)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/6), [3(8)(b)](https://www.legislation.gov.uk/nisr/2024/130/regulation/3/8/b)
 
-[^key-567d27ca19b9730dc333b693cc3cf8d6]: Textual amendment: Words in [Annex Scheme art. 61(5C)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/61/5C) substituted (5.7.2024 with effect from 1.4.2015) by [The Firefighters’ Pension Schemes and Compensation Scheme (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/130)](https://www.legislation.gov.uk/nisr/2024/130), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/1)[(6)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/6), [3(8)(a)](https://www.legislation.gov.uk/nisr/2024/130/regulation/3/8/a)
+[^c-567d27ca19b9730dc333b693cc3cf8d6]: Textual amendment: Words in [Annex Scheme art. 61(5C)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/61/5C) substituted (5.7.2024 with effect from 1.4.2015) by [The Firefighters’ Pension Schemes and Compensation Scheme (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/130)](https://www.legislation.gov.uk/nisr/2024/130), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/1)[(6)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/6), [3(8)(a)](https://www.legislation.gov.uk/nisr/2024/130/regulation/3/8/a)
 
-[^key-150d8f15a080c0435610f04d496a7cd5]: Textual amendment: Words in [Annex Scheme art. 61(5D)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/61/5D) substituted (5.7.2024 with effect from 1.4.2015) by [The Firefighters’ Pension Schemes and Compensation Scheme (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/130)](https://www.legislation.gov.uk/nisr/2024/130), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/1)[(6)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/6), [3(8)(c)](https://www.legislation.gov.uk/nisr/2024/130/regulation/3/8/c)
+[^c-150d8f15a080c0435610f04d496a7cd5]: Textual amendment: Words in [Annex Scheme art. 61(5D)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/61/5D) substituted (5.7.2024 with effect from 1.4.2015) by [The Firefighters’ Pension Schemes and Compensation Scheme (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/130)](https://www.legislation.gov.uk/nisr/2024/130), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/1)[(6)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/6), [3(8)(c)](https://www.legislation.gov.uk/nisr/2024/130/regulation/3/8/c)
 
-[^key-b570586599566a31aac535c7ea813336]: Textual amendment: [Annex Scheme art. 61(6)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/61/6) revoked (8.12.2015) by [The New Firefighters’ Pension Scheme (Amendment) (No. 3) Order (Northern Ireland) 2015 (S.R. 2015/355)](https://www.legislation.gov.uk/nisr/2015/355), [arts. 1](https://www.legislation.gov.uk/nisr/2015/355/article/1), [3(b)](https://www.legislation.gov.uk/nisr/2015/355/article/3/b)
+[^c-b570586599566a31aac535c7ea813336]: Textual amendment: [Annex Scheme art. 61(6)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/61/6) revoked (8.12.2015) by [The New Firefighters’ Pension Scheme (Amendment) (No. 3) Order (Northern Ireland) 2015 (S.R. 2015/355)](https://www.legislation.gov.uk/nisr/2015/355), [arts. 1](https://www.legislation.gov.uk/nisr/2015/355/article/1), [3(b)](https://www.legislation.gov.uk/nisr/2015/355/article/3/b)
 
-[^key-1ac8da17e9294e1d329a9c9e895c5a91]: Commencement: ANNEX Scheme art. 62 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-1ac8da17e9294e1d329a9c9e895c5a91]: Commencement: ANNEX Scheme art. 62 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-653ae8c4d63ababad7b41f894da5bb8d]: Textual amendment: [Annex Scheme Pt. 11 art. 62(1A)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/11/article/62/1A) inserted (with effect in accordance with art. 1(5)(b) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 9(b)(i)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/9/b/i)
+[^c-653ae8c4d63ababad7b41f894da5bb8d]: Textual amendment: [Annex Scheme Pt. 11 art. 62(1A)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/11/article/62/1A) inserted (with effect in accordance with art. 1(5)(b) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 9(b)(i)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/9/b/i)
 
-[^key-3113eafb62fb7bcea1c0d27a655e66f8]: Textual amendment: Words in [Annex Scheme art. 62(1A)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/62/1A) substituted (1.7.2014) by [The New Firefighters’ Pension Scheme (Amendment) (No. 2) Order (Northern Ireland) 2014 (S.R. 2014/168)](https://www.legislation.gov.uk/nisr/2014/168), [art. 1(2)](https://www.legislation.gov.uk/nisr/2014/168/article/1/2), [Sch. para. 5(b)](https://www.legislation.gov.uk/nisr/2014/168/schedule/paragraph/5/b)
+[^c-3113eafb62fb7bcea1c0d27a655e66f8]: Textual amendment: Words in [Annex Scheme art. 62(1A)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/62/1A) substituted (1.7.2014) by [The New Firefighters’ Pension Scheme (Amendment) (No. 2) Order (Northern Ireland) 2014 (S.R. 2014/168)](https://www.legislation.gov.uk/nisr/2014/168), [art. 1(2)](https://www.legislation.gov.uk/nisr/2014/168/article/1/2), [Sch. para. 5(b)](https://www.legislation.gov.uk/nisr/2014/168/schedule/paragraph/5/b)
 
-[^key-65234dbe6e08e630ad5ec56206f5c060]: Textual amendment: Words in [Annex Scheme art. 62(2)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/62/2) substituted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 5(b)(i)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/5/b/i)
+[^c-65234dbe6e08e630ad5ec56206f5c060]: Textual amendment: Words in [Annex Scheme art. 62(2)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/62/2) substituted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 5(b)(i)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/5/b/i)
 
-[^key-5ff3ead39029c22e78ccb2a07eee611c]: Textual amendment: Words in [Annex Scheme Pt. 11 art. 62(2)(a)(i)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/11/article/62/2/a/i) omitted (with effect in accordance with art. 1(4)(5) of the amending Rule) by virtue of [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 9(b)(ii)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/9/b/ii)
+[^c-5ff3ead39029c22e78ccb2a07eee611c]: Textual amendment: Words in [Annex Scheme Pt. 11 art. 62(2)(a)(i)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/11/article/62/2/a/i) omitted (with effect in accordance with art. 1(4)(5) of the amending Rule) by virtue of [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 9(b)(ii)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/9/b/ii)
 
 [^f00029]: Footnote: See article 7
 
-[^key-aab03c4f146cced5dcbc810b8cf89dea]: Textual amendment: [Annex Scheme art. 62(2A)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/62/2A) inserted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 5(b)(ii)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/5/b/ii)
+[^c-aab03c4f146cced5dcbc810b8cf89dea]: Textual amendment: [Annex Scheme art. 62(2A)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/62/2A) inserted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 5(b)(ii)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/5/b/ii)
 
-[^key-4e31b0f9c2892379aa7b73570c60183b]: Textual amendment: Words in [Annex Scheme art. 62(2A)(b)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/62/2A/b) substituted (5.7.2024 with effect from 1.4.2015) by virtue of [The Firefighters’ Pension Schemes and Compensation Scheme (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/130)](https://www.legislation.gov.uk/nisr/2024/130), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/1)[(6)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/6), [3(9)](https://www.legislation.gov.uk/nisr/2024/130/regulation/3/9)
+[^c-4e31b0f9c2892379aa7b73570c60183b]: Textual amendment: Words in [Annex Scheme art. 62(2A)(b)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/62/2A/b) substituted (5.7.2024 with effect from 1.4.2015) by virtue of [The Firefighters’ Pension Schemes and Compensation Scheme (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/130)](https://www.legislation.gov.uk/nisr/2024/130), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/1)[(6)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/6), [3(9)](https://www.legislation.gov.uk/nisr/2024/130/regulation/3/9)
 
-[^key-b393af76c4a149ddbd2c15d37b1413d5]: Textual amendment: Words in [Annex Scheme art. 62(5)(c)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/62/5/c) inserted (29.9.2023) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/157)](https://www.legislation.gov.uk/nisr/2023/157), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1), [14(4)(a)](https://www.legislation.gov.uk/nisr/2023/157/regulation/14/4/a), [34](https://www.legislation.gov.uk/nisr/2023/157/regulation/34) (with [regs. 28-33](https://www.legislation.gov.uk/nisr/2023/157/regulation/28))
+[^c-b393af76c4a149ddbd2c15d37b1413d5]: Textual amendment: Words in [Annex Scheme art. 62(5)(c)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/62/5/c) inserted (29.9.2023) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/157)](https://www.legislation.gov.uk/nisr/2023/157), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1), [14(4)(a)](https://www.legislation.gov.uk/nisr/2023/157/regulation/14/4/a), [34](https://www.legislation.gov.uk/nisr/2023/157/regulation/34) (with [regs. 28-33](https://www.legislation.gov.uk/nisr/2023/157/regulation/28))
 
-[^key-816446107143e81f50b0212bd621c4b7]: Textual amendment: [Annex Scheme Pt. 11 art. 62(5A)-(5C)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/11/article/62/5A) inserted (with effect in accordance with art. 1(4)(c) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 9(b)(iii)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/9/b/iii)
+[^c-816446107143e81f50b0212bd621c4b7]: Textual amendment: [Annex Scheme Pt. 11 art. 62(5A)-(5C)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/11/article/62/5A) inserted (with effect in accordance with art. 1(4)(c) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 9(b)(iii)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/9/b/iii)
 
-[^key-f081a76742bf50db0f3c880cd5c24bd7]: Textual amendment: [Annex Scheme Pt. 11 art. 62(6)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/11/article/62/6) substituted (with effect in accordance with art. 1(3) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 9(b)(iv)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/9/b/iv)
+[^c-f081a76742bf50db0f3c880cd5c24bd7]: Textual amendment: [Annex Scheme Pt. 11 art. 62(6)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/11/article/62/6) substituted (with effect in accordance with art. 1(3) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 9(b)(iv)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/9/b/iv)
 
-[^key-c3571aff86120dda30a2b0ac5dff783f]: Textual amendment: [Annex Scheme Pt. 11 art. 62(8)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/11/article/62/8) inserted (with effect in accordance with art. 1(3) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 9(b)(v)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/9/b/v)
+[^c-c3571aff86120dda30a2b0ac5dff783f]: Textual amendment: [Annex Scheme Pt. 11 art. 62(8)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/11/article/62/8) inserted (with effect in accordance with art. 1(3) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 9(b)(v)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/9/b/v)
 
-[^key-87a297d2f5f02463abb5a4a3a0994b9c]: Textual amendment: [Annex Scheme art. 62(9)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/62/9)[(10)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/62/10) added (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 9(2)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/9/2)
+[^c-87a297d2f5f02463abb5a4a3a0994b9c]: Textual amendment: [Annex Scheme art. 62(9)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/62/9)[(10)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/62/10) added (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 9(2)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/9/2)
 
-[^key-e2433de3695ad7e2eb52ed0da06cce8d]: Textual amendment: Words in [Annex Scheme art. 62(10)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/62/10) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 6(2)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/6/2)
+[^c-e2433de3695ad7e2eb52ed0da06cce8d]: Textual amendment: Words in [Annex Scheme art. 62(10)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/62/10) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 6(2)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/6/2)
 
-[^key-704dff7703453f9d1f61c1ebd295b215]: Commencement: ANNEX Scheme art. 63 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-704dff7703453f9d1f61c1ebd295b215]: Commencement: ANNEX Scheme art. 63 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-2da0e81d8a8b5eb0889d5218975d868b]: Textual amendment: Words in [Annex Scheme art. 63(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/63/1) substituted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 9(3)(a)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/9/3/a)
+[^c-2da0e81d8a8b5eb0889d5218975d868b]: Textual amendment: Words in [Annex Scheme art. 63(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/63/1) substituted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 9(3)(a)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/9/3/a)
 
-[^key-796aadccabf69f745c3e9b59736520cc]: Textual amendment: Words in [Annex Scheme art. 63(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/63/1) substituted (1.4.2012) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2012 (S.R. 2012/162)](https://www.legislation.gov.uk/nisr/2012/162), [arts. 1](https://www.legislation.gov.uk/nisr/2012/162/article/1), [3](https://www.legislation.gov.uk/nisr/2012/162/article/3)
+[^c-796aadccabf69f745c3e9b59736520cc]: Textual amendment: Words in [Annex Scheme art. 63(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/63/1) substituted (1.4.2012) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2012 (S.R. 2012/162)](https://www.legislation.gov.uk/nisr/2012/162), [arts. 1](https://www.legislation.gov.uk/nisr/2012/162/article/1), [3](https://www.legislation.gov.uk/nisr/2012/162/article/3)
 
-[^key-52d636df165ca508ca35b7206845daa2]: Textual amendment: Word in [Annex Scheme art. 63(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/63/1) inserted (1.4.2013) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2013 (S.R. 2013/84)](https://www.legislation.gov.uk/nisr/2013/84), [arts. 1](https://www.legislation.gov.uk/nisr/2013/84/article/1), [3](https://www.legislation.gov.uk/nisr/2013/84/article/3)
+[^c-52d636df165ca508ca35b7206845daa2]: Textual amendment: Word in [Annex Scheme art. 63(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/63/1) inserted (1.4.2013) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2013 (S.R. 2013/84)](https://www.legislation.gov.uk/nisr/2013/84), [arts. 1](https://www.legislation.gov.uk/nisr/2013/84/article/1), [3](https://www.legislation.gov.uk/nisr/2013/84/article/3)
 
-[^key-7cc380b69135ed73479cb89ed32f178f]: Textual amendment: [Annex Scheme art. 63(1A)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/36/1A) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 9(3)(b)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/9/3/b)
+[^c-7cc380b69135ed73479cb89ed32f178f]: Textual amendment: [Annex Scheme art. 63(1A)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/36/1A) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 9(3)(b)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/9/3/b)
 
-[^key-3e9160cafe8b5d10bc05776c3507d26c]: Textual amendment: Words in [Annex Scheme art. 63(2)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/63/2) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 9(3)(c)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/9/3/c)
+[^c-3e9160cafe8b5d10bc05776c3507d26c]: Textual amendment: Words in [Annex Scheme art. 63(2)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/63/2) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 9(3)(c)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/9/3/c)
 
-[^key-44563ff24d45aec86e1044eb991997cb]: Textual amendment: Words in [Annex Scheme art. 63(3)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/63/3) inserted (29.9.2023) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/157)](https://www.legislation.gov.uk/nisr/2023/157), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1), [14(4)(b)](https://www.legislation.gov.uk/nisr/2023/157/regulation/14/4/b), [34](https://www.legislation.gov.uk/nisr/2023/157/regulation/34) (with [regs. 28-33](https://www.legislation.gov.uk/nisr/2023/157/regulation/28))
+[^c-44563ff24d45aec86e1044eb991997cb]: Textual amendment: Words in [Annex Scheme art. 63(3)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/63/3) inserted (29.9.2023) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/157)](https://www.legislation.gov.uk/nisr/2023/157), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1), [14(4)(b)](https://www.legislation.gov.uk/nisr/2023/157/regulation/14/4/b), [34](https://www.legislation.gov.uk/nisr/2023/157/regulation/34) (with [regs. 28-33](https://www.legislation.gov.uk/nisr/2023/157/regulation/28))
 
 [^f00030]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7).
 
-[^key-5fed6583ffce6b2eeab7a9801d31f453]: Commencement: ANNEX Scheme art. 64 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-5fed6583ffce6b2eeab7a9801d31f453]: Commencement: ANNEX Scheme art. 64 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-3c875fc751e8a2d119b631b9d0cd0731]: Textual amendment: Words in [Annex Scheme art. 64(1)(a)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/64/1/a) substituted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 9(4)(a)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/9/4/a)
+[^c-3c875fc751e8a2d119b631b9d0cd0731]: Textual amendment: Words in [Annex Scheme art. 64(1)(a)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/64/1/a) substituted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 9(4)(a)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/9/4/a)
 
-[^key-98234d7646fa165f3fda06b3766262e6]: Textual amendment: Words in [Annex Scheme art. 64(3)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/64/3) substituted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 5(c)(i)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/5/c/i)
+[^c-98234d7646fa165f3fda06b3766262e6]: Textual amendment: Words in [Annex Scheme art. 64(3)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/64/3) substituted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 5(c)(i)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/5/c/i)
 
-[^key-d942546db4f3fc26af364b3768879ab1]: Textual amendment: [Annex Scheme art. 64(3A)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/64/3A) inserted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 5(c)(ii)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/5/c/ii)
+[^c-d942546db4f3fc26af364b3768879ab1]: Textual amendment: [Annex Scheme art. 64(3A)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/64/3A) inserted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 5(c)(ii)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/5/c/ii)
 
-[^key-209f9015ffd5fd8ee8ddf84bf5cfaa2e]: Textual amendment: Words in [Annex Scheme art. 64(5)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/64/5) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 9(4)(b)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/9/4/b)
+[^c-209f9015ffd5fd8ee8ddf84bf5cfaa2e]: Textual amendment: Words in [Annex Scheme art. 64(5)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/64/5) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 9(4)(b)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/9/4/b)
 
-[^key-f8b532691d9417bc64c1494c33ebf1c7]: Textual amendment: [Annex Scheme art. 64(7)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/64/7) inserted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 5(c)(iii)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/5/c/iii)
+[^c-f8b532691d9417bc64c1494c33ebf1c7]: Textual amendment: [Annex Scheme art. 64(7)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/64/7) inserted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 5(c)(iii)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/5/c/iii)
 
-[^key-5666d8e1f69f85fcca7a7e14a5ff289b]: Commencement: ANNEX Scheme art. 65 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-5666d8e1f69f85fcca7a7e14a5ff289b]: Commencement: ANNEX Scheme art. 65 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-e58af9bf7b80968974a41d1ab87dcdbb]: Textual amendment: [Annex Scheme art. 65(7)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/65/7) added (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 9(5)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/9/5)
+[^c-e58af9bf7b80968974a41d1ab87dcdbb]: Textual amendment: [Annex Scheme art. 65(7)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/65/7) added (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 9(5)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/9/5)
 
-[^key-611e64966f5e49f9423c32506ce589ad]: Textual amendment: [Annex Scheme art. 65A](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/65A) inserted (retrospective and with effect in accordance with art. 1(3)(c) of the amending Rule) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(3)(c)](https://www.legislation.gov.uk/nisr/2015/9/article/1/3/c), [Sch. para. 9(6)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/9/6)
+[^c-611e64966f5e49f9423c32506ce589ad]: Textual amendment: [Annex Scheme art. 65A](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/65A) inserted (retrospective and with effect in accordance with art. 1(3)(c) of the amending Rule) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(3)(c)](https://www.legislation.gov.uk/nisr/2015/9/article/1/3/c), [Sch. para. 9(6)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/9/6)
 
-[^key-2b732a6ad7c680313337b30b93d3f02b]: Textual amendment: Word in [Annex Scheme art. 65A(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/65A/1) omitted (18.1.2016 with effect from 1.4.2015) by virtue of [The Firefighters’ Compensation Scheme (Amendment) (No. 2) and the New Firefighters’ Pension Scheme (Amendment) (No. 4) Order (Northern Ireland) 2015 (S.R. 2015/422)](https://www.legislation.gov.uk/nisr/2015/422), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/422/article/1/2)[(3)](https://www.legislation.gov.uk/nisr/2015/422/article/1/3), [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/nisr/2015/422/schedule/2/paragraph/4/2)
+[^c-2b732a6ad7c680313337b30b93d3f02b]: Textual amendment: Word in [Annex Scheme art. 65A(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/65A/1) omitted (18.1.2016 with effect from 1.4.2015) by virtue of [The Firefighters’ Compensation Scheme (Amendment) (No. 2) and the New Firefighters’ Pension Scheme (Amendment) (No. 4) Order (Northern Ireland) 2015 (S.R. 2015/422)](https://www.legislation.gov.uk/nisr/2015/422), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/422/article/1/2)[(3)](https://www.legislation.gov.uk/nisr/2015/422/article/1/3), [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/nisr/2015/422/schedule/2/paragraph/4/2)
 
-[^key-f8ce2246ced4969e3aa2fd116acc9201]: Textual amendment: [Annex Scheme arts. 65B](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/65B), [65C](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/65C) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 6(3)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/6/3)
+[^c-f8ce2246ced4969e3aa2fd116acc9201]: Textual amendment: [Annex Scheme arts. 65B](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/65B), [65C](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/65C) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 6(3)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/6/3)
 
-[^key-06dd13db829ccaae218531e377ba001c]: Textual amendment: Words in [Annex Scheme art. 65B(7)(a)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/65B/7/a) substituted (1.9.2026) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/150)](https://www.legislation.gov.uk/nisr/2026/150), [art. 1](https://www.legislation.gov.uk/nisr/2026/150/article/1), [Sch. para. 4(2)(a)](https://www.legislation.gov.uk/nisr/2026/150/schedule/paragraph/4/2/a)
+[^c-06dd13db829ccaae218531e377ba001c]: Textual amendment: Words in [Annex Scheme art. 65B(7)(a)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/65B/7/a) substituted (1.9.2026) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/150)](https://www.legislation.gov.uk/nisr/2026/150), [art. 1](https://www.legislation.gov.uk/nisr/2026/150/article/1), [Sch. para. 4(2)(a)](https://www.legislation.gov.uk/nisr/2026/150/schedule/paragraph/4/2/a)
 
-[^key-2b1fdfec6389355f8a48064292945666]: Textual amendment: Words in [Annex Scheme art. 65B(7)(b)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/65B/7/b) substituted (1.9.2026) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/150)](https://www.legislation.gov.uk/nisr/2026/150), [art. 1](https://www.legislation.gov.uk/nisr/2026/150/article/1), [Sch. para. 4(2)(b)](https://www.legislation.gov.uk/nisr/2026/150/schedule/paragraph/4/2/b)
+[^c-2b1fdfec6389355f8a48064292945666]: Textual amendment: Words in [Annex Scheme art. 65B(7)(b)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/65B/7/b) substituted (1.9.2026) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/150)](https://www.legislation.gov.uk/nisr/2026/150), [art. 1](https://www.legislation.gov.uk/nisr/2026/150/article/1), [Sch. para. 4(2)(b)](https://www.legislation.gov.uk/nisr/2026/150/schedule/paragraph/4/2/b)
 
-[^key-63b9f3888296ce19202a7d4b636f2f11]: Textual amendment: Words in [Annex Scheme art. 65B(15)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/65B/15) substituted (1.9.2026) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/150)](https://www.legislation.gov.uk/nisr/2026/150), [art. 1](https://www.legislation.gov.uk/nisr/2026/150/article/1), [Sch. para. 4(2)(c)](https://www.legislation.gov.uk/nisr/2026/150/schedule/paragraph/4/2/c)
+[^c-63b9f3888296ce19202a7d4b636f2f11]: Textual amendment: Words in [Annex Scheme art. 65B(15)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/65B/15) substituted (1.9.2026) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/150)](https://www.legislation.gov.uk/nisr/2026/150), [art. 1](https://www.legislation.gov.uk/nisr/2026/150/article/1), [Sch. para. 4(2)(c)](https://www.legislation.gov.uk/nisr/2026/150/schedule/paragraph/4/2/c)
 
-[^key-490d5767b7c0fffa49498fcc35757d43]: Commencement: ANNEX Scheme art. 66 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-490d5767b7c0fffa49498fcc35757d43]: Commencement: ANNEX Scheme art. 66 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-90da9401975f0b8ac0668fe4bbc02976]: Textual amendment: Words in [Annex Scheme art. 66(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/66/1) substituted (retrospective and with effect in accordance with art. 1(3)(c) of the amending Rule) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(3)(c)](https://www.legislation.gov.uk/nisr/2015/9/article/1/3/c), [Sch. para. 9(7)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/9/7)
+[^c-90da9401975f0b8ac0668fe4bbc02976]: Textual amendment: Words in [Annex Scheme art. 66(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/66/1) substituted (retrospective and with effect in accordance with art. 1(3)(c) of the amending Rule) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(3)(c)](https://www.legislation.gov.uk/nisr/2015/9/article/1/3/c), [Sch. para. 9(7)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/9/7)
 
-[^key-7fb40924f6bbba112f3a20ae416d654c]: Textual amendment: [Annex Scheme arts. 66A-66B](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/66A) inserted (retrospective and with effect in accordance with art. 1(3)(c) of the amending Rule) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(3)(c)](https://www.legislation.gov.uk/nisr/2015/9/article/1/3/c), [Sch. para. 9(8)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/9/8)
+[^c-7fb40924f6bbba112f3a20ae416d654c]: Textual amendment: [Annex Scheme arts. 66A-66B](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/66A) inserted (retrospective and with effect in accordance with art. 1(3)(c) of the amending Rule) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(3)(c)](https://www.legislation.gov.uk/nisr/2015/9/article/1/3/c), [Sch. para. 9(8)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/9/8)
 
-[^key-250c595f72eaa43e46ee89b61146bff7]: Textual amendment: Words in [Annex Scheme art. 66A](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/66A) heading inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 6(4)(a)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/6/4/a)
+[^c-250c595f72eaa43e46ee89b61146bff7]: Textual amendment: Words in [Annex Scheme art. 66A](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/66A) heading inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 6(4)(a)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/6/4/a)
 
-[^key-1745e4262cb8de66b52b9414235d910b]: Textual amendment: Words in [Annex Scheme art. 66A(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/66A/1) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 6(4)(b)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/6/4/b)
+[^c-1745e4262cb8de66b52b9414235d910b]: Textual amendment: Words in [Annex Scheme art. 66A(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/66A/1) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 6(4)(b)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/6/4/b)
 
-[^key-1cd0209877bca6f4ed8fef0bc9fee4de]: Textual amendment: Word in [Annex Scheme art. 66A(2)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/66A/2) inserted (18.1.2016 with effect from 1.4.2015) by [The Firefighters’ Compensation Scheme (Amendment) (No. 2) and the New Firefighters’ Pension Scheme (Amendment) (No. 4) Order (Northern Ireland) 2015 (S.R. 2015/422)](https://www.legislation.gov.uk/nisr/2015/422), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/422/article/1/2)[(3)](https://www.legislation.gov.uk/nisr/2015/422/article/1/3), [Sch. 2 para. 4(3)(a)](https://www.legislation.gov.uk/nisr/2015/422/schedule/2/paragraph/4/3/a)
+[^c-1cd0209877bca6f4ed8fef0bc9fee4de]: Textual amendment: Word in [Annex Scheme art. 66A(2)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/66A/2) inserted (18.1.2016 with effect from 1.4.2015) by [The Firefighters’ Compensation Scheme (Amendment) (No. 2) and the New Firefighters’ Pension Scheme (Amendment) (No. 4) Order (Northern Ireland) 2015 (S.R. 2015/422)](https://www.legislation.gov.uk/nisr/2015/422), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/422/article/1/2)[(3)](https://www.legislation.gov.uk/nisr/2015/422/article/1/3), [Sch. 2 para. 4(3)(a)](https://www.legislation.gov.uk/nisr/2015/422/schedule/2/paragraph/4/3/a)
 
-[^key-da7312da519de84fc7a07c03f6893b7f]: Textual amendment: [Annex Scheme art. 66A(2)(c)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/66A/2/c) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 6(4)(c)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/6/4/c)
+[^c-da7312da519de84fc7a07c03f6893b7f]: Textual amendment: [Annex Scheme art. 66A(2)(c)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/66A/2/c) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 6(4)(c)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/6/4/c)
 
-[^key-6d80a9147483851c136fdb7640532c14]: Textual amendment: Words in [Annex Scheme art. 66A(3)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/66A/3) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 6(4)(d)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/6/4/d)
+[^c-6d80a9147483851c136fdb7640532c14]: Textual amendment: Words in [Annex Scheme art. 66A(3)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/66A/3) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 6(4)(d)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/6/4/d)
 
-[^key-aeb251e5f1c5b66ed182467672fd31ce]: Textual amendment: [Annex Scheme art. 66A(4)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/66A/4) substituted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 6(4)(e)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/6/4/e)
+[^c-aeb251e5f1c5b66ed182467672fd31ce]: Textual amendment: [Annex Scheme art. 66A(4)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/66A/4) substituted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 6(4)(e)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/6/4/e)
 
-[^key-0cbc2a9fcd759c0138d328a5ae0dfee8]: Textual amendment: Words in [Annex Scheme art. 66A(6)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/66A/6) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 6(4)(f)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/6/4/f)
+[^c-0cbc2a9fcd759c0138d328a5ae0dfee8]: Textual amendment: Words in [Annex Scheme art. 66A(6)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/66A/6) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 6(4)(f)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/6/4/f)
 
-[^key-1e7d2a96732cdd4a6371abbf97428b25]: Textual amendment: Words in [Annex Scheme art. 66A(7)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/66A/7) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 6(4)(g)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/6/4/g)
+[^c-1e7d2a96732cdd4a6371abbf97428b25]: Textual amendment: Words in [Annex Scheme art. 66A(7)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/66A/7) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 6(4)(g)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/6/4/g)
 
-[^key-513a480a1cfae6a6140117663c3566d4]: Textual amendment: [Annex Scheme art. 66A(7A)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/66A/7A) inserted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 5(d)(i)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/5/d/i)
+[^c-513a480a1cfae6a6140117663c3566d4]: Textual amendment: [Annex Scheme art. 66A(7A)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/66A/7A) inserted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 5(d)(i)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/5/d/i)
 
-[^key-c4443241a64f015377e6e9f291dd96a0]: Textual amendment: Words in [Annex Scheme art. 66A(7A)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/66A/7A) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 6(4)(g)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/6/4/g)
+[^c-c4443241a64f015377e6e9f291dd96a0]: Textual amendment: Words in [Annex Scheme art. 66A(7A)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/66A/7A) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 6(4)(g)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/6/4/g)
 
-[^key-7fd8f0c429cc7948f22e27cece6818af]: Textual amendment: [Annex Scheme art. 66A(8)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/66A/8) substituted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 6(4)(h)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/6/4/h)
+[^c-7fd8f0c429cc7948f22e27cece6818af]: Textual amendment: [Annex Scheme art. 66A(8)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/66A/8) substituted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 6(4)(h)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/6/4/h)
 
-[^key-1f896de734f2ab6f75a3ab2e1ca62660]: Textual amendment: [Annex Scheme art. 66A(9A)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/66A/9A) inserted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 5(d)(ii)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/5/d/ii)
+[^c-1f896de734f2ab6f75a3ab2e1ca62660]: Textual amendment: [Annex Scheme art. 66A(9A)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/66A/9A) inserted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 5(d)(ii)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/5/d/ii)
 
-[^key-60e7050f8d4873f7a3da69f9825f51e7]: Textual amendment: Words in [Annex Scheme art. 66A(10)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/66A/10) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 6(4)(i)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/6/4/i)
+[^c-60e7050f8d4873f7a3da69f9825f51e7]: Textual amendment: Words in [Annex Scheme art. 66A(10)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/66A/10) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 6(4)(i)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/6/4/i)
 
-[^key-281e8917b04a17430487309c3bb8d1ff]: Textual amendment: [Annex Scheme art. 66A(14)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/66A/14)[(15)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/66A/15) inserted (18.1.2016 with effect from 1.4.2015) by [The Firefighters’ Compensation Scheme (Amendment) (No. 2) and the New Firefighters’ Pension Scheme (Amendment) (No. 4) Order (Northern Ireland) 2015 (S.R. 2015/422)](https://www.legislation.gov.uk/nisr/2015/422), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/422/article/1/2)[(3)](https://www.legislation.gov.uk/nisr/2015/422/article/1/3), [Sch. 2 para. 4(3)(b)](https://www.legislation.gov.uk/nisr/2015/422/schedule/2/paragraph/4/3/b)
+[^c-281e8917b04a17430487309c3bb8d1ff]: Textual amendment: [Annex Scheme art. 66A(14)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/66A/14)[(15)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/66A/15) inserted (18.1.2016 with effect from 1.4.2015) by [The Firefighters’ Compensation Scheme (Amendment) (No. 2) and the New Firefighters’ Pension Scheme (Amendment) (No. 4) Order (Northern Ireland) 2015 (S.R. 2015/422)](https://www.legislation.gov.uk/nisr/2015/422), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/422/article/1/2)[(3)](https://www.legislation.gov.uk/nisr/2015/422/article/1/3), [Sch. 2 para. 4(3)(b)](https://www.legislation.gov.uk/nisr/2015/422/schedule/2/paragraph/4/3/b)
 
-[^key-63fc2d91487bb7c8ef077b0ba8f307f1]: Textual amendment: Words in [Annex Scheme art. 66B](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/66B) heading inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 6(5)(a)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/6/5/a)
+[^c-63fc2d91487bb7c8ef077b0ba8f307f1]: Textual amendment: Words in [Annex Scheme art. 66B](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/66B) heading inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 6(5)(a)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/6/5/a)
 
-[^key-b4410a16821f2c1647672bab9ddab4a9]: Textual amendment: [Annex Scheme art. 66B(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/66B/1) substituted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 6(5)(b)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/6/5/b)
+[^c-b4410a16821f2c1647672bab9ddab4a9]: Textual amendment: [Annex Scheme art. 66B(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/66B/1) substituted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 6(5)(b)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/6/5/b)
 
-[^key-8970e24cf877a0fb7452d280a4062678]: Textual amendment: Words in [Annex Scheme art. 66B(3)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/66B/3) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 6(5)(c)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/6/5/c)
+[^c-8970e24cf877a0fb7452d280a4062678]: Textual amendment: Words in [Annex Scheme art. 66B(3)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/66B/3) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 6(5)(c)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/6/5/c)
 
-[^key-2b7aa6b4913faf3512ed6267f1b9de4c]: Textual amendment: [Annex Scheme art. 66B(4A)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/66B/4A) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 6(5)(d)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/6/5/d)
+[^c-2b7aa6b4913faf3512ed6267f1b9de4c]: Textual amendment: [Annex Scheme art. 66B(4A)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/66B/4A) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 6(5)(d)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/6/5/d)
 
-[^key-9484e9f9a9c85b3a34a48aa057a7dcfd]: Textual amendment: Words in [Annex Scheme art. 66B(7)(a)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/66B/7/a) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 6(5)(e)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/6/5/e)
+[^c-9484e9f9a9c85b3a34a48aa057a7dcfd]: Textual amendment: Words in [Annex Scheme art. 66B(7)(a)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/66B/7/a) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 6(5)(e)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/6/5/e)
 
-[^key-2ca9b5a56884ce9c286e7c3d08318887]: Textual amendment: Words in [Annex Scheme art. 66B(7)(b)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/66B/7/b) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 6(5)(e)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/6/5/e)
+[^c-2ca9b5a56884ce9c286e7c3d08318887]: Textual amendment: Words in [Annex Scheme art. 66B(7)(b)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/66B/7/b) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 6(5)(e)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/6/5/e)
 
-[^key-e40db2f238a1bf620a021197242e1d46]: Textual amendment: Word in [Annex Scheme art. 66B(12)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/66B/12) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 6(5)(f)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/6/5/f)
+[^c-e40db2f238a1bf620a021197242e1d46]: Textual amendment: Word in [Annex Scheme art. 66B(12)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/66B/12) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 6(5)(f)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/6/5/f)
 
-[^key-fdfe361f027a5f68f8571fecbd192577]: Textual amendment: Words in [Annex Scheme art. 66B(12)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/66B/12) inserted (18.1.2016 with effect from 1.4.2015) by [The Firefighters’ Compensation Scheme (Amendment) (No. 2) and the New Firefighters’ Pension Scheme (Amendment) (No. 4) Order (Northern Ireland) 2015 (S.R. 2015/422)](https://www.legislation.gov.uk/nisr/2015/422), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/422/article/1/2)[(3)](https://www.legislation.gov.uk/nisr/2015/422/article/1/3), [Sch. 2 para. 4(4)](https://www.legislation.gov.uk/nisr/2015/422/schedule/2/paragraph/4/4)
+[^c-fdfe361f027a5f68f8571fecbd192577]: Textual amendment: Words in [Annex Scheme art. 66B(12)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/66B/12) inserted (18.1.2016 with effect from 1.4.2015) by [The Firefighters’ Compensation Scheme (Amendment) (No. 2) and the New Firefighters’ Pension Scheme (Amendment) (No. 4) Order (Northern Ireland) 2015 (S.R. 2015/422)](https://www.legislation.gov.uk/nisr/2015/422), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/422/article/1/2)[(3)](https://www.legislation.gov.uk/nisr/2015/422/article/1/3), [Sch. 2 para. 4(4)](https://www.legislation.gov.uk/nisr/2015/422/schedule/2/paragraph/4/4)
 
-[^key-42ef9a6501dff496142e6fb153d336b9]: Textual amendment: [Annex Scheme art. 66B(13)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/66B/13)[(14)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/66B/14) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 6(5)(g)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/6/5/g)
+[^c-42ef9a6501dff496142e6fb153d336b9]: Textual amendment: [Annex Scheme art. 66B(13)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/66B/13)[(14)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/66B/14) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 6(5)(g)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/6/5/g)
 
-[^key-0eae14b6e984f6e1cb4fe1a8ba68e135]: Textual amendment: Words in [Annex Scheme art. 66B(13)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/66B/13) substituted (1.9.2026) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/150)](https://www.legislation.gov.uk/nisr/2026/150), [art. 1](https://www.legislation.gov.uk/nisr/2026/150/article/1), [Sch. para. 4(3)](https://www.legislation.gov.uk/nisr/2026/150/schedule/paragraph/4/3)
+[^c-0eae14b6e984f6e1cb4fe1a8ba68e135]: Textual amendment: Words in [Annex Scheme art. 66B(13)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/66B/13) substituted (1.9.2026) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/150)](https://www.legislation.gov.uk/nisr/2026/150), [art. 1](https://www.legislation.gov.uk/nisr/2026/150/article/1), [Sch. para. 4(3)](https://www.legislation.gov.uk/nisr/2026/150/schedule/paragraph/4/3)
 
-[^key-5ef6cb5f63377e4db17c84298566c96e]: Textual amendment: Words in [Annex Scheme art. 66B(14)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/66B/14) substituted (1.9.2026) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/150)](https://www.legislation.gov.uk/nisr/2026/150), [art. 1](https://www.legislation.gov.uk/nisr/2026/150/article/1), [Sch. para. 4(3)](https://www.legislation.gov.uk/nisr/2026/150/schedule/paragraph/4/3)
+[^c-5ef6cb5f63377e4db17c84298566c96e]: Textual amendment: Words in [Annex Scheme art. 66B(14)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/66B/14) substituted (1.9.2026) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/150)](https://www.legislation.gov.uk/nisr/2026/150), [art. 1](https://www.legislation.gov.uk/nisr/2026/150/article/1), [Sch. para. 4(3)](https://www.legislation.gov.uk/nisr/2026/150/schedule/paragraph/4/3)
 
-[^key-d3dc44272e311e1d963af36279d14218]: Textual amendment: [Annex Scheme art. 66C](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/66C) inserted (18.1.2016 with effect from 1.4.2015) by [The Firefighters’ Compensation Scheme (Amendment) (No. 2) and the New Firefighters’ Pension Scheme (Amendment) (No. 4) Order (Northern Ireland) 2015 (S.R. 2015/422)](https://www.legislation.gov.uk/nisr/2015/422), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/422/article/1/2)[(3)](https://www.legislation.gov.uk/nisr/2015/422/article/1/3), [Sch. 2 para. 4(5)](https://www.legislation.gov.uk/nisr/2015/422/schedule/2/paragraph/4/5)
+[^c-d3dc44272e311e1d963af36279d14218]: Textual amendment: [Annex Scheme art. 66C](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/66C) inserted (18.1.2016 with effect from 1.4.2015) by [The Firefighters’ Compensation Scheme (Amendment) (No. 2) and the New Firefighters’ Pension Scheme (Amendment) (No. 4) Order (Northern Ireland) 2015 (S.R. 2015/422)](https://www.legislation.gov.uk/nisr/2015/422), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/422/article/1/2)[(3)](https://www.legislation.gov.uk/nisr/2015/422/article/1/3), [Sch. 2 para. 4(5)](https://www.legislation.gov.uk/nisr/2015/422/schedule/2/paragraph/4/5)
 
-[^key-952c651f06498959d84b39bc641d898e]: Textual amendment: [Annex Scheme arts. 66D](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/66D), [66E](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/66E) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 6(6)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/6/6)
+[^c-952c651f06498959d84b39bc641d898e]: Textual amendment: [Annex Scheme arts. 66D](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/66D), [66E](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/66E) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 6(6)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/6/6)
 
-[^key-0db81962fac2c7021cbc0e8dcfca8236]: Commencement: ANNEX Scheme art. 67 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-0db81962fac2c7021cbc0e8dcfca8236]: Commencement: ANNEX Scheme art. 67 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-9f43dad1304d9cbb126da9066b366c56]: Textual amendment: Word in [Annex Scheme art. 67(2)(c)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/67/2/c) omitted (retrospective to 1.4.2015) by virtue of [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 5(e)(i)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/5/e/i)
+[^c-9f43dad1304d9cbb126da9066b366c56]: Textual amendment: Word in [Annex Scheme art. 67(2)(c)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/67/2/c) omitted (retrospective to 1.4.2015) by virtue of [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 5(e)(i)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/5/e/i)
 
-[^key-08e05fde8932b9828a2c86ed79d6ac4f]: Textual amendment: [Annex Scheme art. 67(2)(e)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/67/2/e) and word inserted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 5(e)(i)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/5/e/i)
+[^c-08e05fde8932b9828a2c86ed79d6ac4f]: Textual amendment: [Annex Scheme art. 67(2)(e)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/67/2/e) and word inserted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 5(e)(i)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/5/e/i)
 
-[^key-ab7dec6ec4fd39ad4307d36a24800ce8]: Textual amendment: Words in [Annex Scheme art. 67(3)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/67/3) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 9(9)(a)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/9/9/a)
+[^c-ab7dec6ec4fd39ad4307d36a24800ce8]: Textual amendment: Words in [Annex Scheme art. 67(3)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/67/3) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 9(9)(a)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/9/9/a)
 
-[^key-930e6d864f9608c9825150ca04b876af]: Textual amendment: [Annex Scheme art. 67(3A)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/67/3A) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 9(9)(b)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/9/9/b)
+[^c-930e6d864f9608c9825150ca04b876af]: Textual amendment: [Annex Scheme art. 67(3A)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/67/3A) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 9(9)(b)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/9/9/b)
 
-[^key-b4f45abda92037f450716be1c822ef7b]: Textual amendment: [Annex Scheme art. 67(4)(aa)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/67/4/aa) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 9(9)(c)(i)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/9/9/c/i)
+[^c-b4f45abda92037f450716be1c822ef7b]: Textual amendment: [Annex Scheme art. 67(4)(aa)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/67/4/aa) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 9(9)(c)(i)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/9/9/c/i)
 
-[^key-2e675e640a0cd2cc0ef72f61df0f4d6c]: Textual amendment: Words in [Annex Scheme art. 67(4)(b)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/67/4/b) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 9(9)(c)(ii)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/9/9/c/ii)
+[^c-2e675e640a0cd2cc0ef72f61df0f4d6c]: Textual amendment: Words in [Annex Scheme art. 67(4)(b)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/67/4/b) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 9(9)(c)(ii)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/9/9/c/ii)
 
-[^key-b2301f3a931448a5f14ee9af653cc5ff]: Textual amendment: Words in [Annex Scheme art. 67(5)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/67/5) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 9(9)(d)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/9/9/d)
+[^c-b2301f3a931448a5f14ee9af653cc5ff]: Textual amendment: Words in [Annex Scheme art. 67(5)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/67/5) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 9(9)(d)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/9/9/d)
 
-[^key-8b54a491afefac840997b7a3d3bf0c77]: Commencement: ANNEX Scheme art. 68 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-8b54a491afefac840997b7a3d3bf0c77]: Commencement: ANNEX Scheme art. 68 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-859e2e686d738debe378bf1c1410c53a]: Textual amendment: Words in [Annex Scheme art. 68(4)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/68/4) substituted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 9(10)(a)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/9/10/a)
+[^c-859e2e686d738debe378bf1c1410c53a]: Textual amendment: Words in [Annex Scheme art. 68(4)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/68/4) substituted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 9(10)(a)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/9/10/a)
 
-[^key-6cfc8677afe61cab881db623fc599e5e]: Textual amendment: [Annex Scheme art. 68(4A)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/68/4A) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 9(10)(b)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/9/10/b)
+[^c-6cfc8677afe61cab881db623fc599e5e]: Textual amendment: [Annex Scheme art. 68(4A)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/68/4A) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 9(10)(b)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/9/10/b)
 
-[^key-8995c1a73493d287c48142443a2786b1]: Textual amendment: [Annex Scheme art. 68(7)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/68/7) inserted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 5(f)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/5/f)
+[^c-8995c1a73493d287c48142443a2786b1]: Textual amendment: [Annex Scheme art. 68(7)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/68/7) inserted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 5(f)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/5/f)
 
-[^key-2932d581724762c0003c2ae6b7160573]: Commencement: ANNEX Scheme art. 69 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-2932d581724762c0003c2ae6b7160573]: Commencement: ANNEX Scheme art. 69 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-71e45458de5a40e0db6a0e616f3eac53]: Textual amendment: Words in [Annex Scheme Pt. 11 art. 69(1)(a)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/11/article/69/1/a) substituted (with effect in accordance with art. 1(3) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 9(c)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/9/c)
+[^c-71e45458de5a40e0db6a0e616f3eac53]: Textual amendment: Words in [Annex Scheme Pt. 11 art. 69(1)(a)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/11/article/69/1/a) substituted (with effect in accordance with art. 1(3) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 9(c)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/9/c)
 
-[^key-0a4cc28f6c1dc4009a916c4326de9d8e]: Textual amendment: Words in [Annex Scheme art. 69(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/69/1) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 9(11)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/9/11)
+[^c-0a4cc28f6c1dc4009a916c4326de9d8e]: Textual amendment: Words in [Annex Scheme art. 69(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/69/1) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 9(11)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/9/11)
 
-[^key-bd8c260a408b98718bc0cb7249a0fb73]: Textual amendment: [Annex Scheme art. 69(5)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/69/5)[(6)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/69/6) inserted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 5(g)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/5/g)
+[^c-bd8c260a408b98718bc0cb7249a0fb73]: Textual amendment: [Annex Scheme art. 69(5)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/69/5)[(6)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/69/6) inserted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 5(g)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/5/g)
 
-[^key-53d9fcbfb5e7792df0dd6c2e66341951]: Commencement: ANNEX Scheme art. 70 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-53d9fcbfb5e7792df0dd6c2e66341951]: Commencement: ANNEX Scheme art. 70 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-2f94f767858b11a321fe69ae4d9571c9]: Textual amendment: Words in [Annex Scheme art. 70(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/70/1)[(2)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/70/2) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 9(12)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/9/12)
+[^c-2f94f767858b11a321fe69ae4d9571c9]: Textual amendment: Words in [Annex Scheme art. 70(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/70/1)[(2)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/70/2) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 9(12)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/9/12)
 
-[^key-b92c51e687a270e681d616febe33775f]: Commencement: ANNEX Scheme art. 71 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-b92c51e687a270e681d616febe33775f]: Commencement: ANNEX Scheme art. 71 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-af616f867c8170cfc6a39b1fd30a27d7]: Textual amendment: Words in [Annex Scheme art. 71](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/71) inserted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 6(a)(i)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/6/a/i)
+[^c-af616f867c8170cfc6a39b1fd30a27d7]: Textual amendment: Words in [Annex Scheme art. 71](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/71) inserted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 6(a)(i)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/6/a/i)
 
-[^key-60eb01e1b5afb1f01866eedc6b089aaa]: Commencement: ANNEX Scheme art. 72 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-60eb01e1b5afb1f01866eedc6b089aaa]: Commencement: ANNEX Scheme art. 72 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-a7727e8c230f2a85d3712f5f5d8fa912]: Textual amendment: Words in [Annex Scheme art. 72(2)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/72/2) substituted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 6(a)(ii)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/6/a/ii)
+[^c-a7727e8c230f2a85d3712f5f5d8fa912]: Textual amendment: Words in [Annex Scheme art. 72(2)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/72/2) substituted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 6(a)(ii)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/6/a/ii)
 
 [^f00031]: Footnote: See section 89(1)(a) of the Pension Schemes (Northern Ireland) Act [1993 (c.49)](https://www.legislation.gov.uk/ukpga/1993/49).
 
-[^key-59bcb5206925cb56558bd1c308692ed6]: Textual amendment: [Annex Scheme art. 72(2A)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/72/2A) inserted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 6(a)(ii)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/6/a/ii)
+[^c-59bcb5206925cb56558bd1c308692ed6]: Textual amendment: [Annex Scheme art. 72(2A)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/72/2A) inserted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 6(a)(ii)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/6/a/ii)
 
-[^key-2919ea214c8c57160503cc357aba99a3]: Textual amendment: Words in [Annex Scheme art. 72(3)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/72/3) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 10(2)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/10/2)
+[^c-2919ea214c8c57160503cc357aba99a3]: Textual amendment: Words in [Annex Scheme art. 72(3)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/72/3) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 10(2)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/10/2)
 
-[^key-9cd0b0414c201360756358e1a416409b]: Commencement: ANNEX Scheme art. 73 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-9cd0b0414c201360756358e1a416409b]: Commencement: ANNEX Scheme art. 73 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-ca24dc619dd2c6d8019b64b22b9d3bb8]: Commencement: ANNEX Scheme art. 74 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-ca24dc619dd2c6d8019b64b22b9d3bb8]: Commencement: ANNEX Scheme art. 74 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-8bbb681513bfb8a4b018ddec08a008c2]: Textual amendment: Words in [Annex Scheme art. 74(5)(b)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/74/5/b) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 10(3)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/10/3)
+[^c-8bbb681513bfb8a4b018ddec08a008c2]: Textual amendment: Words in [Annex Scheme art. 74(5)(b)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/74/5/b) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 10(3)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/10/3)
 
-[^key-d9435e242b53a29c040f0306438150af]: Textual amendment: Words in [Annex Scheme Pt. 12 art. 74(6)(a)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/12/article/74/6/a) substituted (with effect in accordance with art. 1(3) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 10(a)(i)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/10/a/i)
+[^c-d9435e242b53a29c040f0306438150af]: Textual amendment: Words in [Annex Scheme Pt. 12 art. 74(6)(a)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/12/article/74/6/a) substituted (with effect in accordance with art. 1(3) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 10(a)(i)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/10/a/i)
 
 [^f00032]: Footnote: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8), to which there are amendments not relevant to this Order.
 
 [^f00033]: Footnote: [S.I. 1986/1032 (N.I. 6)](https://www.legislation.gov.uk/nisi/1986/1032) Article 4 was substituted by Article 62 of the Companies (No 2) (Northern Ireland) Order 1990 [S.I. 1990/1504 (N. I. 10)](https://www.legislation.gov.uk/nisi/1990/1504).
 
-[^key-4d59a0a1d9970298aaaf210a7c45503a]: Commencement: ANNEX Scheme art. 75 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-4d59a0a1d9970298aaaf210a7c45503a]: Commencement: ANNEX Scheme art. 75 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
 [^f00034]: Footnote: See section 169(2) of that Act
 
-[^key-7a6bbba4ce1a120e4ea82dd3b80ff869]: Commencement: ANNEX Scheme art. 76 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-7a6bbba4ce1a120e4ea82dd3b80ff869]: Commencement: ANNEX Scheme art. 76 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-9cf1aa177f30b2826b566cf5ba2378bc]: Textual amendment: Words in [Annex Scheme art. 76(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/76/1) added (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 10(4)(a)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/10/4/a)
+[^c-9cf1aa177f30b2826b566cf5ba2378bc]: Textual amendment: Words in [Annex Scheme art. 76(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/76/1) added (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 10(4)(a)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/10/4/a)
 
-[^key-63e1ce6fdcb81eea02f8169b5d228392]: Textual amendment: [Annex Scheme art. 76(4)(c)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/76/4/c) and word inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 10(4)(b)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/10/4/b)
+[^c-63e1ce6fdcb81eea02f8169b5d228392]: Textual amendment: [Annex Scheme art. 76(4)(c)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/76/4/c) and word inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 10(4)(b)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/10/4/b)
 
-[^key-bd2ecf3ec623cd3c2de97ea2a20703cf]: Commencement: ANNEX Scheme art. 77 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-bd2ecf3ec623cd3c2de97ea2a20703cf]: Commencement: ANNEX Scheme art. 77 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-5c3df3ef4940c848eb5746269c40ae7b]: Commencement: ANNEX Scheme art. 78 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-5c3df3ef4940c848eb5746269c40ae7b]: Commencement: ANNEX Scheme art. 78 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
 [^f00035]: Footnote: See section 169(2) of the Finance Act [2004 (c.12)](https://www.legislation.gov.uk/ukpga/2004/12).
 
-[^key-c62550b7c9a4ffd240ceac144fb10eda]: Textual amendment: Words in [Annex Scheme art. 78(3)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/78/3) added (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 10(5)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/10/5)
+[^c-c62550b7c9a4ffd240ceac144fb10eda]: Textual amendment: Words in [Annex Scheme art. 78(3)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/78/3) added (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 10(5)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/10/5)
 
-[^key-80e53504e343107019232d41a82af27c]: Textual amendment: [Annex Scheme art. 78(4)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/78/4) inserted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 6(b)(i)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/6/b/i)
+[^c-80e53504e343107019232d41a82af27c]: Textual amendment: [Annex Scheme art. 78(4)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/78/4) inserted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 6(b)(i)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/6/b/i)
 
-[^key-99aef20429f3e707f8f0a2de0c833cfe]: Commencement: ANNEX Scheme art. 79 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-99aef20429f3e707f8f0a2de0c833cfe]: Commencement: ANNEX Scheme art. 79 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-061a2a90e6b2fc654a5e1d1e96610545]: Textual amendment: Words in [Annex Scheme art. 79(1)(c)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/79/1/c) substituted (retrospective and with effect in accordance with art. 1(3)(d) of the amending Rule) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(3)(d)](https://www.legislation.gov.uk/nisr/2015/9/article/1/3/d), [Sch. para. 10(6)(a)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/10/6/a)
+[^c-061a2a90e6b2fc654a5e1d1e96610545]: Textual amendment: Words in [Annex Scheme art. 79(1)(c)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/79/1/c) substituted (retrospective and with effect in accordance with art. 1(3)(d) of the amending Rule) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(3)(d)](https://www.legislation.gov.uk/nisr/2015/9/article/1/3/d), [Sch. para. 10(6)(a)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/10/6/a)
 
-[^key-c8b6f155434ae2240d75ecd6b36a5990]: Textual amendment: Words in [Annex Scheme art. 79(2)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/79/2) substituted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 6(b)(ii)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/6/b/ii)
+[^c-c8b6f155434ae2240d75ecd6b36a5990]: Textual amendment: Words in [Annex Scheme art. 79(2)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/79/2) substituted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 6(b)(ii)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/6/b/ii)
 
-[^key-aa5352823229e4c30fca3899c2e23b89]: Textual amendment: Words in [Annex Scheme art. 79(2)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/79/2) substituted (retrospective and with effect in accordance with art. 1(3)(d) of the amending Rule) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(3)(d)](https://www.legislation.gov.uk/nisr/2015/9/article/1/3/d), [Sch. para. 10(6)(b)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/10/6/b)
+[^c-aa5352823229e4c30fca3899c2e23b89]: Textual amendment: Words in [Annex Scheme art. 79(2)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/79/2) substituted (retrospective and with effect in accordance with art. 1(3)(d) of the amending Rule) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(3)(d)](https://www.legislation.gov.uk/nisr/2015/9/article/1/3/d), [Sch. para. 10(6)(b)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/10/6/b)
 
-[^key-ad6cd5187325bbee22f750882172988e]: Textual amendment: Words in [Annex Scheme Pt. 12 art. 79(2)(a)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/12/article/79/2/a) omitted (with effect in accordance with art. 1(3) of the amending Rule) by virtue of [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 10(b)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/10/b)
+[^c-ad6cd5187325bbee22f750882172988e]: Textual amendment: Words in [Annex Scheme Pt. 12 art. 79(2)(a)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/12/article/79/2/a) omitted (with effect in accordance with art. 1(3) of the amending Rule) by virtue of [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 10(b)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/10/b)
 
-[^key-628893c52c40d1e85b4a051cab49be9d]: Textual amendment: [Annex Scheme art. 79(3)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/79/3)[(4)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/79/4) added (retrospective and with effect in accordance with art. 1(3)(d) of the amending Rule) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(3)(d)](https://www.legislation.gov.uk/nisr/2015/9/article/1/3/d), [Sch. para. 10(6)(c)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/10/6/c)
+[^c-628893c52c40d1e85b4a051cab49be9d]: Textual amendment: [Annex Scheme art. 79(3)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/79/3)[(4)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/79/4) added (retrospective and with effect in accordance with art. 1(3)(d) of the amending Rule) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(3)(d)](https://www.legislation.gov.uk/nisr/2015/9/article/1/3/d), [Sch. para. 10(6)(c)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/10/6/c)
 
-[^key-e279ffcdf938161c221a3bfe26194885]: Textual amendment: [Annex Scheme art. 79(5)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/79/5) inserted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 6(b)(ii)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/6/b/ii)
+[^c-e279ffcdf938161c221a3bfe26194885]: Textual amendment: [Annex Scheme art. 79(5)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/79/5) inserted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 6(b)(ii)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/6/b/ii)
 
-[^key-96596c9450a8271958e0c8942dd04968]: Commencement: ANNEX Scheme art. 80 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-96596c9450a8271958e0c8942dd04968]: Commencement: ANNEX Scheme art. 80 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-e0607333deebba6340cea03fe9c4cf4c]: Textual amendment: Words in [Annex Scheme art. 80(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/80/1) substituted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 6(b)(iii)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/6/b/iii)
+[^c-e0607333deebba6340cea03fe9c4cf4c]: Textual amendment: Words in [Annex Scheme art. 80(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/80/1) substituted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 6(b)(iii)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/6/b/iii)
 
-[^key-f85221100fc8a538eb3d855559a36096]: Textual amendment: Words in [Annex Scheme art. 80(2)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/80/2) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 10(7)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/10/7)
+[^c-f85221100fc8a538eb3d855559a36096]: Textual amendment: Words in [Annex Scheme art. 80(2)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/80/2) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 10(7)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/10/7)
 
-[^key-378b82f856a3cb223e3b6d5db24e7d82]: Textual amendment: [Annex Scheme Pt. 12 art. 80(3)(a)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/12/article/80/3/a) omitted (with effect in accordance with art. 1(3) of the amending Rule) by virtue of [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 10(c)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/10/c)
+[^c-378b82f856a3cb223e3b6d5db24e7d82]: Textual amendment: [Annex Scheme Pt. 12 art. 80(3)(a)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/12/article/80/3/a) omitted (with effect in accordance with art. 1(3) of the amending Rule) by virtue of [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 10(c)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/10/c)
 
-[^key-4002e55f85faf654176a9b997c52276c]: Textual amendment: [Annex Scheme art. 80(4)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/80/4) inserted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 6(b)(iii)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/6/b/iii)
+[^c-4002e55f85faf654176a9b997c52276c]: Textual amendment: [Annex Scheme art. 80(4)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/80/4) inserted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 6(b)(iii)](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/6/b/iii)
 
-[^key-015f7721743f0dbcadf496e2fd2503e9]: Commencement: ANNEX Scheme art. 81 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-015f7721743f0dbcadf496e2fd2503e9]: Commencement: ANNEX Scheme art. 81 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-0cb016737faa604f19bd24275cd53505]: Textual amendment: Words in [Annex Scheme art. 81](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/81) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 10(8)(a)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/10/8/a)
+[^c-0cb016737faa604f19bd24275cd53505]: Textual amendment: Words in [Annex Scheme art. 81](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/81) inserted (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 10(8)(a)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/10/8/a)
 
-[^key-9d9ca199ee9905f11c522fc5148470fa]: Textual amendment: [Annex Scheme art. 81(4A)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/81/4A) added (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 10(8)(b)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/10/8/b)
+[^c-9d9ca199ee9905f11c522fc5148470fa]: Textual amendment: [Annex Scheme art. 81(4A)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/81/4A) added (1.4.2015) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(2)](https://www.legislation.gov.uk/nisr/2015/9/article/1), [Sch. para. 10(8)(b)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/10/8/b)
 
-[^key-fa709074be0c8fb902451c4d0ce47d3d]: Textual amendment: [Pt. 12 Ch. 3A](https://www.legislation.gov.uk/nisr/2007/215/part/12/chapter/3A) inserted (retrospective and with effect in accordance with art. 1(3)(d) of the amending Rule) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(3)(d)](https://www.legislation.gov.uk/nisr/2015/9/article/1/3/d), [Sch. para. 10(9)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/10/9)
+[^c-fa709074be0c8fb902451c4d0ce47d3d]: Textual amendment: [Pt. 12 Ch. 3A](https://www.legislation.gov.uk/nisr/2007/215/part/12/chapter/3A) inserted (retrospective and with effect in accordance with art. 1(3)(d) of the amending Rule) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(3)(d)](https://www.legislation.gov.uk/nisr/2015/9/article/1/3/d), [Sch. para. 10(9)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/10/9)
 
-[^key-9cce99b0fe791899d96dda8d71c4fcd8]: Textual amendment: Words in [Annex Scheme art. 81A(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/81A/1) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 7(2)(a)(i)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/7/2/a/i)
+[^c-9cce99b0fe791899d96dda8d71c4fcd8]: Textual amendment: Words in [Annex Scheme art. 81A(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/81A/1) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 7(2)(a)(i)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/7/2/a/i)
 
-[^key-f88de9de3a19803849867a46212dda54]: Textual amendment: Words in [Annex Scheme art. 81A(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/81A/1) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 7(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/7/2/a/ii)
+[^c-f88de9de3a19803849867a46212dda54]: Textual amendment: Words in [Annex Scheme art. 81A(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/81A/1) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 7(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/7/2/a/ii)
 
-[^key-f1c8e719e4c15633658f89e329c5b5f9]: Textual amendment: Words in [Annex Scheme art. 81A(2)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/81A/2) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 7(2)(b)(i)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/7/2/b/i)
+[^c-f1c8e719e4c15633658f89e329c5b5f9]: Textual amendment: Words in [Annex Scheme art. 81A(2)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/81A/2) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 7(2)(b)(i)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/7/2/b/i)
 
-[^key-1fe00c46efbf433ced596197862e3cc3]: Textual amendment: Words in [Annex Scheme art. 81A(2)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/81A/2) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 7(2)(b)(ii)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/7/2/b/ii)
+[^c-1fe00c46efbf433ced596197862e3cc3]: Textual amendment: Words in [Annex Scheme art. 81A(2)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/81A/2) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 7(2)(b)(ii)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/7/2/b/ii)
 
-[^key-87fddf47d5d2202904f151609e8fa93e]: Textual amendment: Words in [Annex Scheme art. 81A(2)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/81A/2) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 7(2)(b)(iii)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/7/2/b/iii)
+[^c-87fddf47d5d2202904f151609e8fa93e]: Textual amendment: Words in [Annex Scheme art. 81A(2)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/81A/2) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 7(2)(b)(iii)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/7/2/b/iii)
 
-[^key-67ebad56bbfce4e67921cb83e208aeb2]: Textual amendment: Words in [Annex Scheme art. 81A(3)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/81A/3) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 7(2)(c)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/7/2/c)
+[^c-67ebad56bbfce4e67921cb83e208aeb2]: Textual amendment: Words in [Annex Scheme art. 81A(3)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/81A/3) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 7(2)(c)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/7/2/c)
 
-[^key-9fc6b58bda554d21de3b2276a67747a9]: Commencement: ANNEX Scheme art. 82 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-9fc6b58bda554d21de3b2276a67747a9]: Commencement: ANNEX Scheme art. 82 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-e81c5837a6c7ffa7c6380563399ee51e]: Commencement: ANNEX Scheme art. 83 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-e81c5837a6c7ffa7c6380563399ee51e]: Commencement: ANNEX Scheme art. 83 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
 [^f00036]: Footnote: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8), to which there are amendments not relevant to this Order.
 
-[^key-81d9c524164bbf2a414a77923dcbe290]: Commencement: ANNEX Scheme art. 84 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-81d9c524164bbf2a414a77923dcbe290]: Commencement: ANNEX Scheme art. 84 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
 [^f00037]: Footnote: [1971 c.35 (N.I.)](https://www.legislation.gov.uk/apni/1971/35).
 
 [^f00038]: Footnote: [S.I. 1974/1267 (N.I. 2)](https://www.legislation.gov.uk/nisi/1974/1267).
 
-[^key-2b6efa56da4911792d311854b0a96536]: Textual amendment: [Pt. 12 Ch. 5](https://www.legislation.gov.uk/nisr/2007/215/part/12/chapter/5) added (retrospective and with effect in accordance with art. 1(3)(d) of the amending Rule) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(3)(d)](https://www.legislation.gov.uk/nisr/2015/9/article/1/3/d), [Sch. para. 10(10)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/10/10)
+[^c-2b6efa56da4911792d311854b0a96536]: Textual amendment: [Pt. 12 Ch. 5](https://www.legislation.gov.uk/nisr/2007/215/part/12/chapter/5) added (retrospective and with effect in accordance with art. 1(3)(d) of the amending Rule) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(3)(d)](https://www.legislation.gov.uk/nisr/2015/9/article/1/3/d), [Sch. para. 10(10)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/10/10)
 
-[^key-817fe36b9b0e85661e2ffdeaa7ce630b]: Textual amendment: Words in [Annex Scheme art. 84A(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/84A/1) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 7(3)(a)(i)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/7/3/a/i)
+[^c-817fe36b9b0e85661e2ffdeaa7ce630b]: Textual amendment: Words in [Annex Scheme art. 84A(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/84A/1) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 7(3)(a)(i)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/7/3/a/i)
 
-[^key-992e77f32639870dbb2bd81d7ad086eb]: Textual amendment: Words in [Annex Scheme art. 84A(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/84A/1) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 7(3)(a)(ii)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/7/3/a/ii)
+[^c-992e77f32639870dbb2bd81d7ad086eb]: Textual amendment: Words in [Annex Scheme art. 84A(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/84A/1) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 7(3)(a)(ii)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/7/3/a/ii)
 
-[^key-95dc397e7e8d65cf99cfec323f5f425f]: Textual amendment: Words in [Annex Scheme art. 84A(2)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/84A/2) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 7(3)(b)(i)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/7/3/b/i)
+[^c-95dc397e7e8d65cf99cfec323f5f425f]: Textual amendment: Words in [Annex Scheme art. 84A(2)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/84A/2) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 7(3)(b)(i)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/7/3/b/i)
 
-[^key-0ca8e2adcf495a69da0c5eab23f4ea1f]: Textual amendment: Words in [Annex Scheme art. 84A(2)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/84A/2) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 7(3)(b)(ii)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/7/3/b/ii)
+[^c-0ca8e2adcf495a69da0c5eab23f4ea1f]: Textual amendment: Words in [Annex Scheme art. 84A(2)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/84A/2) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 7(3)(b)(ii)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/7/3/b/ii)
 
-[^key-1a9ff18b00de2d5d416bfb7ffe304c79]: Textual amendment: Words in [Annex Scheme art. 84A(3)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/84A/3) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 7(3)(c)(i)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/7/3/c/i)
+[^c-1a9ff18b00de2d5d416bfb7ffe304c79]: Textual amendment: Words in [Annex Scheme art. 84A(3)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/84A/3) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 7(3)(c)(i)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/7/3/c/i)
 
-[^key-8834de2c1b083dcbf63eda00193e4107]: Textual amendment: Words in [Annex Scheme art. 84A(3)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/84A/3) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 7(3)(c)(ii)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/7/3/c/ii)
+[^c-8834de2c1b083dcbf63eda00193e4107]: Textual amendment: Words in [Annex Scheme art. 84A(3)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/84A/3) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 7(3)(c)(ii)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/7/3/c/ii)
 
-[^key-b5a4452e41a1bf84f81b8e0b6e6a023a]: Textual amendment: Words in [Annex Scheme art. 84A(5)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/84A/5) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 7(4)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/7/4)
+[^c-b5a4452e41a1bf84f81b8e0b6e6a023a]: Textual amendment: Words in [Annex Scheme art. 84A(5)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/84A/5) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 7(4)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/7/4)
 
-[^key-154ce5b2ccfcc42e99d0bc16a09824dc]: Textual amendment: [Annex Scheme art. 84B(1)(a)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/84B/1/a) substituted (1.9.2026) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/150)](https://www.legislation.gov.uk/nisr/2026/150), [art. 1](https://www.legislation.gov.uk/nisr/2026/150/article/1), [Sch. para. 5(2)](https://www.legislation.gov.uk/nisr/2026/150/schedule/paragraph/5/2)
+[^c-154ce5b2ccfcc42e99d0bc16a09824dc]: Textual amendment: [Annex Scheme art. 84B(1)(a)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/84B/1/a) substituted (1.9.2026) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/150)](https://www.legislation.gov.uk/nisr/2026/150), [art. 1](https://www.legislation.gov.uk/nisr/2026/150/article/1), [Sch. para. 5(2)](https://www.legislation.gov.uk/nisr/2026/150/schedule/paragraph/5/2)
 
-[^key-a5381e1f48842e11a445ea6157437eae]: Textual amendment: Words in [Annex Scheme art. 84B(3)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/84B/3) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 7(5)(b)(i)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/7/5/b/i)
+[^c-a5381e1f48842e11a445ea6157437eae]: Textual amendment: Words in [Annex Scheme art. 84B(3)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/84B/3) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 7(5)(b)(i)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/7/5/b/i)
 
-[^key-6c228c3b4ef5dcd4183c61339a8e44a6]: Textual amendment: Words in [Annex Scheme art. 84B(3)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/84B/3) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 7(5)(b)(ii)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/7/5/b/ii)
+[^c-6c228c3b4ef5dcd4183c61339a8e44a6]: Textual amendment: Words in [Annex Scheme art. 84B(3)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/84B/3) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 7(5)(b)(ii)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/7/5/b/ii)
 
-[^key-932ee661028b3f9ae7b72221ebb13c98]: Textual amendment: Words in [Annex Scheme art. 84B(4)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/84B/4) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 7(5)(c)(i)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/7/5/c/i)
+[^c-932ee661028b3f9ae7b72221ebb13c98]: Textual amendment: Words in [Annex Scheme art. 84B(4)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/84B/4) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 7(5)(c)(i)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/7/5/c/i)
 
-[^key-72b24097264bcc80118aabf68e0402c8]: Textual amendment: Words in [Annex Scheme art. 84B(4)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/84B/4) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 7(5)(c)(ii)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/7/5/c/ii)
+[^c-72b24097264bcc80118aabf68e0402c8]: Textual amendment: Words in [Annex Scheme art. 84B(4)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/84B/4) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 7(5)(c)(ii)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/7/5/c/ii)
 
-[^key-eed9f9c1fa2415565e1a26cd6f1aa2a6]: Textual amendment: Words in [Annex Scheme art. 84B(8)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/84B/8) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 7(5)(d)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/7/5/d)
+[^c-eed9f9c1fa2415565e1a26cd6f1aa2a6]: Textual amendment: Words in [Annex Scheme art. 84B(8)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/84B/8) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 7(5)(d)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/7/5/d)
 
-[^key-8ea4743ceac11c5fceef9471e5753c10]: Textual amendment: [Annex Scheme art. 84C(1)(a)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/84C/1/a) substituted (1.9.2026) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/150)](https://www.legislation.gov.uk/nisr/2026/150), [art. 1](https://www.legislation.gov.uk/nisr/2026/150/article/1), [Sch. para. 5(3)](https://www.legislation.gov.uk/nisr/2026/150/schedule/paragraph/5/3)
+[^c-8ea4743ceac11c5fceef9471e5753c10]: Textual amendment: [Annex Scheme art. 84C(1)(a)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/84C/1/a) substituted (1.9.2026) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/150)](https://www.legislation.gov.uk/nisr/2026/150), [art. 1](https://www.legislation.gov.uk/nisr/2026/150/article/1), [Sch. para. 5(3)](https://www.legislation.gov.uk/nisr/2026/150/schedule/paragraph/5/3)
 
-[^key-93bef04202963a5cecda9bcec5473ddb]: Textual amendment: Words in [Annex Scheme art. 84C(3)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/84C/3) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 7(6)(b)(i)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/7/6/b/i)
+[^c-93bef04202963a5cecda9bcec5473ddb]: Textual amendment: Words in [Annex Scheme art. 84C(3)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/84C/3) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 7(6)(b)(i)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/7/6/b/i)
 
-[^key-6501f907107ea197a285e7a1888bac3a]: Textual amendment: Words in [Annex Scheme art. 84C(3)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/84C/3) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 7(6)(b)(ii)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/7/6/b/ii)
+[^c-6501f907107ea197a285e7a1888bac3a]: Textual amendment: Words in [Annex Scheme art. 84C(3)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/84C/3) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 7(6)(b)(ii)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/7/6/b/ii)
 
-[^key-a0f874024955afc3b8baefd250f62b61]: Textual amendment: Words in [Annex Scheme art. 84C(4)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/84C/4) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 7(6)(c)(i)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/7/6/c/i)
+[^c-a0f874024955afc3b8baefd250f62b61]: Textual amendment: Words in [Annex Scheme art. 84C(4)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/84C/4) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 7(6)(c)(i)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/7/6/c/i)
 
-[^key-014dd380c2778723782a4b477c0bb42f]: Textual amendment: Words in [Annex Scheme art. 84C(4)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/84C/4) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 7(6)(c)(ii)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/7/6/c/ii)
+[^c-014dd380c2778723782a4b477c0bb42f]: Textual amendment: Words in [Annex Scheme art. 84C(4)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/84C/4) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 7(6)(c)(ii)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/7/6/c/ii)
 
-[^key-bd0132c6ca93a78eb0c6131e8eb92413]: Textual amendment: Words in [Annex Scheme art. 84C(8)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/84C/8) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 7(7)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/7/7)
+[^c-bd0132c6ca93a78eb0c6131e8eb92413]: Textual amendment: Words in [Annex Scheme art. 84C(8)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/84C/8) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 7(7)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/7/7)
 
-[^key-d23ccc6b888ef867e6e4a70601f32801]: Textual amendment: [Annex Scheme arts. 84CA](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/84CA), [84CB](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/84CB) inserted (1.9.2026) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/150)](https://www.legislation.gov.uk/nisr/2026/150), [art. 1](https://www.legislation.gov.uk/nisr/2026/150/article/1), [Sch. para. 5(4)](https://www.legislation.gov.uk/nisr/2026/150/schedule/paragraph/5/4)
+[^c-d23ccc6b888ef867e6e4a70601f32801]: Textual amendment: [Annex Scheme arts. 84CA](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/84CA), [84CB](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/84CB) inserted (1.9.2026) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/150)](https://www.legislation.gov.uk/nisr/2026/150), [art. 1](https://www.legislation.gov.uk/nisr/2026/150/article/1), [Sch. para. 5(4)](https://www.legislation.gov.uk/nisr/2026/150/schedule/paragraph/5/4)
 
-[^key-04d08a8112ac6253336cd0dbce2e5cb8]: Textual amendment: [Annex Scheme arts. 84D](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/84D), [84E](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/84E) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 7(8)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/7/8)
+[^c-04d08a8112ac6253336cd0dbce2e5cb8]: Textual amendment: [Annex Scheme arts. 84D](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/84D), [84E](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/84E) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 7(8)](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/7/8)
 
-[^key-893c2f112b8094867e7f37d504d91efb]: Commencement: ANNEX Scheme art. 85 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-893c2f112b8094867e7f37d504d91efb]: Commencement: ANNEX Scheme art. 85 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-820b0c8ebfc366809fbee88904998617]: Commencement: ANNEX Scheme art. 86 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-820b0c8ebfc366809fbee88904998617]: Commencement: ANNEX Scheme art. 86 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-3730e6b2d74b158ad831481fa5389b4b]: Textual amendment: [Annex Scheme Pt. 13 art. 86(5)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/13/article/86/5) substituted (with effect in accordance with art. 1(3) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 11(a)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/11/a)
+[^c-3730e6b2d74b158ad831481fa5389b4b]: Textual amendment: [Annex Scheme Pt. 13 art. 86(5)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/13/article/86/5) substituted (with effect in accordance with art. 1(3) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 11(a)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/11/a)
 
-[^key-5faa2784918b4dfc15573975beac2b7b]: Textual amendment: [Annex Scheme art. 86(10)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/86/10) added (1.7.2014) by [The New Firefighters’ Pension Scheme (Amendment) (No. 2) Order (Northern Ireland) 2014 (S.R. 2014/168)](https://www.legislation.gov.uk/nisr/2014/168), [art. 1(2)](https://www.legislation.gov.uk/nisr/2014/168/article/1/2), [Sch. para. 6](https://www.legislation.gov.uk/nisr/2014/168/schedule/paragraph/6) (with [art. 3](https://www.legislation.gov.uk/nisr/2014/168/article/3))
+[^c-5faa2784918b4dfc15573975beac2b7b]: Textual amendment: [Annex Scheme art. 86(10)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/86/10) added (1.7.2014) by [The New Firefighters’ Pension Scheme (Amendment) (No. 2) Order (Northern Ireland) 2014 (S.R. 2014/168)](https://www.legislation.gov.uk/nisr/2014/168), [art. 1(2)](https://www.legislation.gov.uk/nisr/2014/168/article/1/2), [Sch. para. 6](https://www.legislation.gov.uk/nisr/2014/168/schedule/paragraph/6) (with [art. 3](https://www.legislation.gov.uk/nisr/2014/168/article/3))
 
-[^key-9077ce3cfd2c108b81e67c2491deb9b7]: Commencement: ANNEX Scheme art. 87 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-9077ce3cfd2c108b81e67c2491deb9b7]: Commencement: ANNEX Scheme art. 87 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-dff368f1d95a09324e07e94434e0e713]: Textual amendment: [Annex Scheme Pt. 13 art. 87(4)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/13/article/87/4) substituted for Annex Scheme Pt. 13 art. 87(4)(5) (with effect in accordance with art. 1(3) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 11(b)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/11/b)
+[^c-dff368f1d95a09324e07e94434e0e713]: Textual amendment: [Annex Scheme Pt. 13 art. 87(4)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/part/13/article/87/4) substituted for Annex Scheme Pt. 13 art. 87(4)(5) (with effect in accordance with art. 1(3) of the amending Rule) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/381)](https://www.legislation.gov.uk/nisr/2008/381), [art. 1(3)](https://www.legislation.gov.uk/nisr/2008/381/article/1/3), [Sch. para. 11(b)](https://www.legislation.gov.uk/nisr/2008/381/schedule/paragraph/11/b)
 
-[^key-81648a1035cc9d78564c93c24f72c20e]: Commencement: ANNEX Scheme art. 88 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-81648a1035cc9d78564c93c24f72c20e]: Commencement: ANNEX Scheme art. 88 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-05162ced90936900bf0c39e11368eba5]: Commencement: ANNEX Scheme art. 89 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-05162ced90936900bf0c39e11368eba5]: Commencement: ANNEX Scheme art. 89 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-955f6ab3d2f0d6e3def6115159c8f201]: Commencement: ANNEX Scheme art. 90 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-955f6ab3d2f0d6e3def6115159c8f201]: Commencement: ANNEX Scheme art. 90 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-0ef03f91e57bcf39a1185976b77dd252]: Commencement: ANNEX Scheme art. 91 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-0ef03f91e57bcf39a1185976b77dd252]: Commencement: ANNEX Scheme art. 91 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-c27bf989e9c476048069f8296dca1f55]: Commencement: ANNEX Scheme art. 92 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-c27bf989e9c476048069f8296dca1f55]: Commencement: ANNEX Scheme art. 92 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-3c4500455ae5181fd27a9c2e0ac18f37]: Commencement: ANNEX Scheme art. 93 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-3c4500455ae5181fd27a9c2e0ac18f37]: Commencement: ANNEX Scheme art. 93 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-91a1dfd14de21e510822a35fcd49db19]: Commencement: ANNEX Scheme art. 94 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-91a1dfd14de21e510822a35fcd49db19]: Commencement: ANNEX Scheme art. 94 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-66b40e04491c4fca319d68678bd485ab]: Commencement: ANNEX Scheme art. 95 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-66b40e04491c4fca319d68678bd485ab]: Commencement: ANNEX Scheme art. 95 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
 [^f00039]: Footnote: [2004 c.12](https://www.legislation.gov.uk/ukpga/2004/12).
 
-[^key-92c43888349b18ca1d144d6e87c7215e]: Commencement: ANNEX Scheme art. 96 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-92c43888349b18ca1d144d6e87c7215e]: Commencement: ANNEX Scheme art. 96 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-d97b4c4887b388015bfe4be3fb5199b6]: Commencement: ANNEX Scheme art. 97 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-d97b4c4887b388015bfe4be3fb5199b6]: Commencement: ANNEX Scheme art. 97 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-eec0fb0dded27f9fec1b32aeeccb91b6]: Textual amendment: [Annex Scheme art. 97(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/97/1): art. 97 renumbered as art. 97(1) (retrospective and with effect in accordance with art. 1(3)(e) of the amending Rule) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(3)(e)](https://www.legislation.gov.uk/nisr/2015/9/article/1/3/e), [Sch. para. 11(2)(a)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/11/2/a)
+[^c-eec0fb0dded27f9fec1b32aeeccb91b6]: Textual amendment: [Annex Scheme art. 97(1)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/97/1): art. 97 renumbered as art. 97(1) (retrospective and with effect in accordance with art. 1(3)(e) of the amending Rule) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(3)(e)](https://www.legislation.gov.uk/nisr/2015/9/article/1/3/e), [Sch. para. 11(2)(a)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/11/2/a)
 
-[^key-13dc180f3b20a16ef936c30815554f5d]: Textual amendment: [Annex Scheme art. 97(2)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/97/2)[(3)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/97/3) added (retrospective and with effect in accordance with art. 1(3)(e) of the amending Rule) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(3)(e)](https://www.legislation.gov.uk/nisr/2015/9/article/1/3/e), [Sch. para. 11(2)(b)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/11/2/b)
+[^c-13dc180f3b20a16ef936c30815554f5d]: Textual amendment: [Annex Scheme art. 97(2)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/97/2)[(3)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/97/3) added (retrospective and with effect in accordance with art. 1(3)(e) of the amending Rule) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/9)](https://www.legislation.gov.uk/nisr/2015/9), [art. 1(3)(e)](https://www.legislation.gov.uk/nisr/2015/9/article/1/3/e), [Sch. para. 11(2)(b)](https://www.legislation.gov.uk/nisr/2015/9/schedule/paragraph/11/2/b)
 
-[^key-2982d7f6b7a4b2cca53f812aca9a01bb]: Textual amendment: Words in [Annex Scheme art. 97(3)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/97/3) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 8](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/8)
+[^c-2982d7f6b7a4b2cca53f812aca9a01bb]: Textual amendment: Words in [Annex Scheme art. 97(3)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/97/3) inserted (31.10.2023) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/178)](https://www.legislation.gov.uk/nisr/2023/178), [reg. 1](https://www.legislation.gov.uk/nisr/2023/178/regulation/1), [Sch. para. 8](https://www.legislation.gov.uk/nisr/2023/178/schedule/paragraph/8)
 
-[^key-d11844469d153b2e4da47adebb816942]: Commencement: ANNEX Scheme art. 98 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-d11844469d153b2e4da47adebb816942]: Commencement: ANNEX Scheme art. 98 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-2b5b94097a230cfcb094deed7056a0ef]: Commencement: ANNEX Scheme art. 99 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-2b5b94097a230cfcb094deed7056a0ef]: Commencement: ANNEX Scheme art. 99 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
 [^f00040]: Footnote: [1967 c.5 (N.I.)](https://www.legislation.gov.uk/apni/1967/5).
 
-[^key-09bfcc7bd9b8447b92a3fa2c17cff834]: Commencement: ANNEX Scheme art. 100 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-09bfcc7bd9b8447b92a3fa2c17cff834]: Commencement: ANNEX Scheme art. 100 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
 [^f00041]: Footnote: Subsection (2B) was inserted by [S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213), Article 133(3).
 
-[^key-016b93e5a0fdd8844fc2b33056ef9142]: Textual amendment: Words in [Annex Scheme art. 100(8)(a)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/100/8/a) substituted (20.12.2023) by [The National Security Act 2023 (Consequential Amendments of Subordinate Legislation) Regulations 2023 (S.I. 2023/1267)](https://www.legislation.gov.uk/uksi/2023/1267), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1267/regulation/1/2), [Sch. para. 23(3)](https://www.legislation.gov.uk/uksi/2023/1267/schedule/paragraph/23/3)
+[^c-016b93e5a0fdd8844fc2b33056ef9142]: Textual amendment: Words in [Annex Scheme art. 100(8)(a)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/100/8/a) substituted (20.12.2023) by [The National Security Act 2023 (Consequential Amendments of Subordinate Legislation) Regulations 2023 (S.I. 2023/1267)](https://www.legislation.gov.uk/uksi/2023/1267), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1267/regulation/1/2), [Sch. para. 23(3)](https://www.legislation.gov.uk/uksi/2023/1267/schedule/paragraph/23/3)
 
-[^key-e231f08705b4abb6465e49d340e7902e]: Commencement: ANNEX Scheme art. 101 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-e231f08705b4abb6465e49d340e7902e]: Commencement: ANNEX Scheme art. 101 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-97494ebaad84e3d51b81472345a2acf7]: Textual amendment: Words in [Annex Scheme art. 101(3)(a)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/101/3/a) substituted (20.12.2023) by [The National Security Act 2023 (Consequential Amendments of Subordinate Legislation) Regulations 2023 (S.I. 2023/1267)](https://www.legislation.gov.uk/uksi/2023/1267), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1267/regulation/1/2), [Sch. para. 23(3)](https://www.legislation.gov.uk/uksi/2023/1267/schedule/paragraph/23/3)
+[^c-97494ebaad84e3d51b81472345a2acf7]: Textual amendment: Words in [Annex Scheme art. 101(3)(a)](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/101/3/a) substituted (20.12.2023) by [The National Security Act 2023 (Consequential Amendments of Subordinate Legislation) Regulations 2023 (S.I. 2023/1267)](https://www.legislation.gov.uk/uksi/2023/1267), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1267/regulation/1/2), [Sch. para. 23(3)](https://www.legislation.gov.uk/uksi/2023/1267/schedule/paragraph/23/3)
 
-[^key-721da30740fa17ce822db009359c3955]: Commencement: ANNEX Scheme art. 102 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-721da30740fa17ce822db009359c3955]: Commencement: ANNEX Scheme art. 102 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-11fa7092ed6dc838f0ff6d41498a0bf7]: Commencement: ANNEX Scheme art. 103 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-11fa7092ed6dc838f0ff6d41498a0bf7]: Commencement: ANNEX Scheme art. 103 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-0a473ec84aad3931f694ff56b535b9fd]: Textual amendment: [Annex Scheme art. 103A](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/103A) inserted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 7](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/7)
+[^c-0a473ec84aad3931f694ff56b535b9fd]: Textual amendment: [Annex Scheme art. 103A](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/103A) inserted (retrospective to 1.4.2015) by [The Firefighters’ Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 2 para. 7](https://www.legislation.gov.uk/nisr/2015/420/schedule/2/paragraph/7)
 
-[^key-c1fa441453f4871d1df8e872dbb9b7ed]: Commencement: ANNEX Scheme art. 104 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-c1fa441453f4871d1df8e872dbb9b7ed]: Commencement: ANNEX Scheme art. 104 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-d5f9474c87b994e7fec38d785610b9fe]: Commencement: ANNEX Scheme art. 105 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-d5f9474c87b994e7fec38d785610b9fe]: Commencement: ANNEX Scheme art. 105 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-298bb88fb83e2704c27ecf0f1ee33eff]: Textual amendment: [Annex Scheme art. 106](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/106) inserted (1.9.2026) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/150)](https://www.legislation.gov.uk/nisr/2026/150), [art. 1](https://www.legislation.gov.uk/nisr/2026/150/article/1), [Sch. para. 6(2)](https://www.legislation.gov.uk/nisr/2026/150/schedule/paragraph/6/2)
+[^c-298bb88fb83e2704c27ecf0f1ee33eff]: Textual amendment: [Annex Scheme art. 106](https://www.legislation.gov.uk/nisr/2007/215/annex/Scheme/article/106) inserted (1.9.2026) by [The New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/150)](https://www.legislation.gov.uk/nisr/2026/150), [art. 1](https://www.legislation.gov.uk/nisr/2026/150/article/1), [Sch. para. 6(2)](https://www.legislation.gov.uk/nisr/2026/150/schedule/paragraph/6/2)

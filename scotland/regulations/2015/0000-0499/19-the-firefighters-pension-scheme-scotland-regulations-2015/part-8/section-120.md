@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 120. Employer additional contribution: employer initiated retirement[^key-0bfbb5b7456136a6f01a08597c87fbee]
+## 120. Employer additional contribution: employer initiated retirement[^c-0bfbb5b7456136a6f01a08597c87fbee]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0bfbb5b7456136a6f01a08597c87fbee]: Commencement: [Reg. 120](https://www.legislation.gov.uk/ssi/2015/19/regulation/120) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-0bfbb5b7456136a6f01a08597c87fbee]: Commencement: [Reg. 120](https://www.legislation.gov.uk/ssi/2015/19/regulation/120) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

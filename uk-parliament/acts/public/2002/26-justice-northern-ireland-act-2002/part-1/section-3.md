@@ -25,7 +25,7 @@ summary: ''
 (2) The Commission is to consist of—
 
 - (a) a chairman, and
-- (b)[^key-3339ad59811ebb26ce756e820b580ace] twelve other members appointed by the Lord Chancellor[^c20685781].
+- (b)[^c-3339ad59811ebb26ce756e820b580ace] twelve other members appointed by the Lord Chancellor[^c20685781].
 
 (3) Schedule 2 makes further provision about the Commission.
 
@@ -56,17 +56,17 @@ and a reference in Schedule 2 to a non-judicial member is to a member who is eit
 
 (8)[^c20685801] It is the duty of—
 
-- (a)[^key-3fcdc4a860fb3942526f508c047f694b] the Lord Chancellor, and
+- (a)[^c-3fcdc4a860fb3942526f508c047f694b] the Lord Chancellor, and
 - (b) those responsible for making nominations under subsection (5)(a) and (b),
 
 to make such arrangements in connection with the exercise of their functions under this section as will, so far as is practicable, secure that the membership of the Commission is reflective of the community in Northern Ireland.
 
 ## Annotations
 
-[^key-3339ad59811ebb26ce756e820b580ace]: Modification: [S. 3(2)(b)](https://www.legislation.gov.uk/ukpga/2002/26/section/3/2/b): transfer of functions (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [15(2)](https://www.legislation.gov.uk/uksi/2010/976/article/15/2) (with [arts. 15(6)](https://www.legislation.gov.uk/uksi/2010/976/article/15/6), [28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-3339ad59811ebb26ce756e820b580ace]: Modification: [S. 3(2)(b)](https://www.legislation.gov.uk/ukpga/2002/26/section/3/2/b): transfer of functions (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [15(2)](https://www.legislation.gov.uk/uksi/2010/976/article/15/2) (with [arts. 15(6)](https://www.legislation.gov.uk/uksi/2010/976/article/15/6), [28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
 [^c20685781]: Textual amendment: Words in [s. 3(2)(b)](https://www.legislation.gov.uk/ukpga/2002/26/section/3/2/b) substituted (15.6.2005) by [Justice (Northern Ireland) Act 2004 (c. 4)](https://www.legislation.gov.uk/ukpga/2004/4), [ss. 1](https://www.legislation.gov.uk/ukpga/2004/4/section/1), [19(1)](https://www.legislation.gov.uk/ukpga/2004/4/section/19/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2004/4/schedule/1/paragraph/2); [S.R. 2005/282](https://www.legislation.gov.uk/nisr/2005/282), [art. 3](https://www.legislation.gov.uk/nisr/2005/282/article/3)
 
 [^c20685801]: Textual amendment: [S. 3(8)](https://www.legislation.gov.uk/ukpga/2002/26/section/3/8) substituted (15.6.2005) by [Justice (Northern Ireland) Act 2004 (c. 4)](https://www.legislation.gov.uk/ukpga/2004/4), [ss. 2(1)](https://www.legislation.gov.uk/ukpga/2004/4/section/2/1), [19(1)](https://www.legislation.gov.uk/ukpga/2004/4/section/19/1); [S.R. 2005/282](https://www.legislation.gov.uk/nisr/2005/282), [art. 3](https://www.legislation.gov.uk/nisr/2005/282/article/3)
 
-[^key-3fcdc4a860fb3942526f508c047f694b]: Modification: [S. 3(8)(a)](https://www.legislation.gov.uk/ukpga/2002/26/section/3/8/a): transfer of functions (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [15(2)](https://www.legislation.gov.uk/uksi/2010/976/article/15/2) (with [arts. 15(6)](https://www.legislation.gov.uk/uksi/2010/976/article/15/6), [28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-3fcdc4a860fb3942526f508c047f694b]: Modification: [S. 3(8)(a)](https://www.legislation.gov.uk/ukpga/2002/26/section/3/8/a): transfer of functions (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [15(2)](https://www.legislation.gov.uk/uksi/2010/976/article/15/2) (with [arts. 15(6)](https://www.legislation.gov.uk/uksi/2010/976/article/15/6), [28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))

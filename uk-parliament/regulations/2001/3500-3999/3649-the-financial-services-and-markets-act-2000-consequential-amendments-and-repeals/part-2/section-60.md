@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Duty of company to notify recognised investment exchange of certain matters concerning directors notified to the company[^key-6f6fbe8f1443ada14cd7e68a9b36a4a5]
+## 60. Duty of company to notify recognised investment exchange of certain matters concerning directors notified to the company[^c-6f6fbe8f1443ada14cd7e68a9b36a4a5]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In Article 337 of the 1986 Order (duty of company to notify recognised investmen
 
 ## Annotations
 
-[^key-6f6fbe8f1443ada14cd7e68a9b36a4a5]: Commencement: Art. 60 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-6f6fbe8f1443ada14cd7e68a9b36a4a5]: Commencement: Art. 60 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

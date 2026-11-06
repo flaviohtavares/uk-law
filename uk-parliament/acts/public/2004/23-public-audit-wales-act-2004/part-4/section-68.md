@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 68. Transfer of property etc to Wales Audit Office[^key-cdf582e6a564436c0c6078dce7246dce]
+## 68. Transfer of property etc to Wales Audit Office[^c-cdf582e6a564436c0c6078dce7246dce]
 
 *Extent: E+W*
 
-(1) Any property, rights and liabilities which are the subject of a transfer scheme are to be transferred to and vested in the Wales Audit Office[^key-84f5b7249aa45430d03fc33a325ed001] in accordance with the scheme.
+(1) Any property, rights and liabilities which are the subject of a transfer scheme are to be transferred to and vested in the Wales Audit Office[^c-84f5b7249aa45430d03fc33a325ed001] in accordance with the scheme.
 
 (2) For this purpose “**a transfer scheme**” means a scheme contained in an order made under paragraph 1 of Schedule 3.
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cdf582e6a564436c0c6078dce7246dce]: Textual amendment: S. 68 heading substituted (1.4.2014) by [The Public Audit (Wales) Act 2013 (Consequential Amendments) Order 2014 (No. 77)](https://www.legislation.gov.uk/wsi/2014/77), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2014/77/article/1/1), [3(3)](https://www.legislation.gov.uk/wsi/2014/77/article/3/3)
+[^c-cdf582e6a564436c0c6078dce7246dce]: Textual amendment: S. 68 heading substituted (1.4.2014) by [The Public Audit (Wales) Act 2013 (Consequential Amendments) Order 2014 (No. 77)](https://www.legislation.gov.uk/wsi/2014/77), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2014/77/article/1/1), [3(3)](https://www.legislation.gov.uk/wsi/2014/77/article/3/3)
 
-[^key-84f5b7249aa45430d03fc33a325ed001]: Textual amendment: Words in s. 68(1) substituted (1.4.2014) by [The Public Audit (Wales) Act 2013 (Consequential Amendments) Order 2014 (No. 77)](https://www.legislation.gov.uk/wsi/2014/77), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2014/77/article/1/1), [3(2)](https://www.legislation.gov.uk/wsi/2014/77/article/3/2)
+[^c-84f5b7249aa45430d03fc33a325ed001]: Textual amendment: Words in s. 68(1) substituted (1.4.2014) by [The Public Audit (Wales) Act 2013 (Consequential Amendments) Order 2014 (No. 77)](https://www.legislation.gov.uk/wsi/2014/77), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2014/77/article/1/1), [3(2)](https://www.legislation.gov.uk/wsi/2014/77/article/3/2)

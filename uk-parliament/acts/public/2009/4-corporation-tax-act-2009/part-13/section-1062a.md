@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1062A. Insurance company to be treated as large company[^key-17243f0557091778ff55ddd001390d4a]
+## 1062A. Insurance company to be treated as large company[^c-17243f0557091778ff55ddd001390d4a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ An insurance company that carries on life assurance business in an accounting pe
 
 ## Annotations
 
-[^key-17243f0557091778ff55ddd001390d4a]: Textual amendment: [S. 1062A](https://www.legislation.gov.uk/ukpga/2009/4/section/1062A) inserted (with effect in relation to accounting periods beginning on or after 1.4.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 1 paras. 6(15)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/6/15), [16](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/16) (with [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/18)); [S.I. 2024/286](https://www.legislation.gov.uk/uksi/2024/286), [reg. 2](https://www.legislation.gov.uk/uksi/2024/286/regulation/2)
+[^c-17243f0557091778ff55ddd001390d4a]: Textual amendment: [S. 1062A](https://www.legislation.gov.uk/ukpga/2009/4/section/1062A) inserted (with effect in relation to accounting periods beginning on or after 1.4.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 1 paras. 6(15)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/6/15), [16](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/16) (with [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/18)); [S.I. 2024/286](https://www.legislation.gov.uk/uksi/2024/286), [reg. 2](https://www.legislation.gov.uk/uksi/2024/286/regulation/2)

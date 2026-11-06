@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 166. Guaranteed minimum pension[^key-6674e84fb76be699b1ed7bfa0956a277]
+## 166. Guaranteed minimum pension[^c-6674e84fb76be699b1ed7bfa0956a277]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,7 +67,7 @@ but a person falling with paragraph (7) is not to be regarded as a pensioner mem
 
 - (a) that is forfeited—
   - (i) as a result of a conviction for treason, or
-  - (ii) in a case where the relevant offence under regulation 171 (forfeiture: offences committed by members, surviving partners or eligible children) falls under paragraph (b) of the definition in that regulation of “relevant offence” [^key-e33d3bbbd3fa9b3281cf571f0a24336a]...;
+  - (ii) in a case where the relevant offence under regulation 171 (forfeiture: offences committed by members, surviving partners or eligible children) falls under paragraph (b) of the definition in that regulation of “relevant offence” [^c-e33d3bbbd3fa9b3281cf571f0a24336a]...;
 - (b) where that pension is commuted under regulation 167 (commutation of small pensions) and where the conditions in regulation 60 of the Occupational Pension Schemes(Contracting-out) Regulations 1996[^f00057] are met,
 
 and if any other provision of this scheme is inconsistent with this regulation, this regulation prevails.
@@ -76,10 +76,10 @@ and if any other provision of this scheme is inconsistent with this regulation, 
 
 ## Annotations
 
-[^key-6674e84fb76be699b1ed7bfa0956a277]: Commencement: [Reg. 166](https://www.legislation.gov.uk/uksi/2014/2848/regulation/166) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-6674e84fb76be699b1ed7bfa0956a277]: Commencement: [Reg. 166](https://www.legislation.gov.uk/uksi/2014/2848/regulation/166) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
 
 [^f00056]: Footnote: Subsection (2B) was inserted by the Pensions Act [1995 (c.26)](https://www.legislation.gov.uk/ukpga/1995/26) section 136(3) and amended by the Social Security Contributions (Transfer of Functions, etc.) Act 1999 Schedule 1 paragraph 35.
 
-[^key-e33d3bbbd3fa9b3281cf571f0a24336a]: Textual amendment: Words in reg. 166(9)(a)(ii) omitted (20.12.2023) by virtue of [The National Security Act 2023 (Consequential Amendments of Subordinate Legislation) Regulations 2023 (S.I. 2023/1267)](https://www.legislation.gov.uk/uksi/2023/1267), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1267/regulation/1/2), [Sch. para. 34(3)](https://www.legislation.gov.uk/uksi/2023/1267/schedule/paragraph/34/3)
+[^c-e33d3bbbd3fa9b3281cf571f0a24336a]: Textual amendment: Words in reg. 166(9)(a)(ii) omitted (20.12.2023) by virtue of [The National Security Act 2023 (Consequential Amendments of Subordinate Legislation) Regulations 2023 (S.I. 2023/1267)](https://www.legislation.gov.uk/uksi/2023/1267), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1267/regulation/1/2), [Sch. para. 34(3)](https://www.legislation.gov.uk/uksi/2023/1267/schedule/paragraph/34/3)
 
 [^f00057]: Footnote: [S.I. 1996/1172](https://www.legislation.gov.uk/uksi/1996/1172). Regulation 60 was substituted by [S.I. 2006/744](https://www.legislation.gov.uk/uksi/2006/744) and amended by, [2006/1337](https://www.legislation.gov.uk/uksi/2006/1337), [2009/2930](https://www.legislation.gov.uk/uksi/2009/2930) and [2010/499](https://www.legislation.gov.uk/uksi/2010/499).

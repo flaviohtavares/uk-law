@@ -50,7 +50,7 @@ The Lord Chancellor has consulted the Committee existing for the purposes of sec
 
 The Lord Chancellor, in the exercise of powers under section 411 of the Insolvency Act 1986, with the concurrence of the Secretary of State, and of the Chancellor of the High Court (by the authority of the Lord Chief Justice under section 411(7) of that Act) in relation to those rules that affect court procedure, makes the following Rules:
 
-## 1. Citation, commencement and interpretation[^key-45adadf8bb1c768ff923a65f0c7ef177]
+## 1. Citation, commencement and interpretation[^c-45adadf8bb1c768ff923a65f0c7ef177]
 
 (1) These Rules may be cited as the Insolvency (Amendment) Rules 2008 and shall come into force on 6th April 2008 (“**the commencement date**”).
 
@@ -59,7 +59,7 @@ The Lord Chancellor, in the exercise of powers under section 411 of the Insolven
 - “the principal Rules” means the Insolvency Rules 1986[^f00002] (any reference to a numbered Rule being a reference to a rule so numbered in the principal Rules unless the context otherwise requires);
 - “the Act” means the Insolvency Act 1986 (any reference to a numbered section being a reference to a section of that Act).
 
-## 2. Transitional provisions[^key-287557ea39ff8aa7f355f60909b3f28d]
+## 2. Transitional provisions[^c-287557ea39ff8aa7f355f60909b3f28d]
 
 The amendments to the principal Rules made by Rules 3, 4, 5, 6 and 7 of these Rules shall apply—
 
@@ -72,11 +72,11 @@ The amendments to the principal Rules made by Rules 3, 4, 5, 6 and 7 of these Ru
 - (b) to a members’ voluntary winding up for which the resolution is passed on or after the commencement date; and
 - (c) to a winding up of a company by the court where the winding up order is made on or after the commencement date except where the winding-up order is made following a resolution for a voluntary winding up passed by that company before the commencement date.
 
-## 3. Amendments to the principal Rules[^key-e244f882ba605eaa6dae2bcd2dae9a03]
+## 3. Amendments to the principal Rules[^c-e244f882ba605eaa6dae2bcd2dae9a03]
 
 The principal Rules shall be amended as follows.
 
-**4.**[^key-6648efa46d535cd2a6950a6993537c91] In paragraph (1) of Rule 4.218 (general rule as to priority), for the words “The expenses of the liquidation” at the beginning of that paragraph, to and including the words “by the official receiver” at the end of subparagraph (a)(iii), substitute the following—
+**4.**[^c-6648efa46d535cd2a6950a6993537c91] In paragraph (1) of Rule 4.218 (general rule as to priority), for the words “The expenses of the liquidation” at the beginning of that paragraph, to and including the words “by the official receiver” at the end of subparagraph (a)(iii), substitute the following—
 
 > All fees, costs, charges and other expenses incurred in the course of the liquidation are to be regarded as expenses of the liquidation.
 >
@@ -100,7 +100,7 @@ The principal Rules shall be amended as follows.
 >   - (iii) relate to the employment of a shorthand writer, if appointed by an order of the court made at the instance of the official receiver in connection with an examination; or
 >   - (iv) are incurred in holding an examination under Rule 4.214 (examinee unfit) where the application for it was made by the official receiver;
 
-**5.**[^key-3299e2d995b01129dbd07d2c2896df13] After Rule 4.218 insert—
+**5.**[^c-3299e2d995b01129dbd07d2c2896df13] After Rule 4.218 insert—
 
 > **4.218A. Litigation expenses and property subject to a floating charge — general provisions**
 >
@@ -226,14 +226,14 @@ The principal Rules shall be amended as follows.
 
 .
 
-## 6. Amendment to Schedule 4 to the principal Rules[^key-2c798668dbe16e5f2f9f4902cc21635f]
+## 6. Amendment to Schedule 4 to the principal Rules[^c-2c798668dbe16e5f2f9f4902cc21635f]
 
 In Schedule 4—
 
 - (a) in Part 4 of the index to forms, immediately after the entry for Form 4.73, there shall be inserted “4.74 Property subject to floating charge: notice of request to specified creditor for approval or authorisation of litigation expenses”; and
 - (b) after Form 4.73 , there is inserted Form 4.74 as set out in the Schedule to these Rules.
 
-## 7. Consequential amendments[^key-88cbd5e83ce4b2b64d5d8b91be2e06c7]
+## 7. Consequential amendments[^c-88cbd5e83ce4b2b64d5d8b91be2e06c7]
 
 (1) In Rules 4.27(3), 4.28(2)(b), 4.30(3)(b), 4.37(2), 4.41(2), 4.61(4), 4.97(3), 4.119(5), 4.120(5), 4.130(4), 4.131(5), 4.143(4), 4.148A(8), 4.169, 4.170(7), 4.186(3)(a), 4.207(5)(b) and (6), 4.214(3) and 4.217(1), for “out of the assets” substitute “as an expense of the liquidation”.
 
@@ -304,7 +304,7 @@ Department for Business, Enterprise and Regulatory Reform
 
 13th March 2008
 
-## SCHEDULE — Form 4.74[^key-9bf100c9869d98a1aac0909e70379230]
+## SCHEDULE — Form 4.74[^c-9bf100c9869d98a1aac0909e70379230]
 
 Rule 6
 
@@ -326,20 +326,20 @@ A regulatory impact assessment was prepared for the Companies Act 2006. The rele
 
 [^f00001]: Footnote: [1986 c.45](https://www.legislation.gov.uk/ukpga/1986/45). Section 1283 of the companies Act [2006 (c.46)](https://www.legislation.gov.uk/ukpga/2006/46) insert a new section 176ZA into the Insolvency Act 1986 providing for the payment and priority of general expenses of a winding up subject to exceptions prescribed by rules made under section 411 of the 1986 Act.
 
-[^key-45adadf8bb1c768ff923a65f0c7ef177]: Commencement: Rule 1 in force at 6.4.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/737/rule/1/1)
+[^c-45adadf8bb1c768ff923a65f0c7ef177]: Commencement: Rule 1 in force at 6.4.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/737/rule/1/1)
 
 [^f00002]: Footnote: [S.I. 1986/1925](https://www.legislation.gov.uk/uksi/1986/1925) amended by [S.I. 1987/1919](https://www.legislation.gov.uk/uksi/1987/1919), [1989/397](https://www.legislation.gov.uk/uksi/1989/397), [1991/495](https://www.legislation.gov.uk/uksi/1991/495), [1993/602](https://www.legislation.gov.uk/uksi/1993/602), [1995/586](https://www.legislation.gov.uk/uksi/1995/586), [1999/359](https://www.legislation.gov.uk/uksi/1999/359), [1999/1022](https://www.legislation.gov.uk/uksi/1999/1022), [2001/763](https://www.legislation.gov.uk/uksi/2001/763), [2002/1307](https://www.legislation.gov.uk/uksi/2002/1307), [2002/2712](https://www.legislation.gov.uk/uksi/2002/2712), [2003/1730](https://www.legislation.gov.uk/uksi/2003/1730), [2004/584](https://www.legislation.gov.uk/uksi/2004/584), [2004/1070](https://www.legislation.gov.uk/uksi/2004/1070), [2005/527](https://www.legislation.gov.uk/uksi/2005/527), [2006/1272](https://www.legislation.gov.uk/uksi/2006/1272) and [2007/1974](https://www.legislation.gov.uk/uksi/2007/1974).
 
-[^key-287557ea39ff8aa7f355f60909b3f28d]: Commencement: Rule 2 in force at 6.4.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/737/rule/1/1)
+[^c-287557ea39ff8aa7f355f60909b3f28d]: Commencement: Rule 2 in force at 6.4.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/737/rule/1/1)
 
-[^key-e244f882ba605eaa6dae2bcd2dae9a03]: Commencement: Rule 3 in force at 6.4.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/737/rule/1/1)
+[^c-e244f882ba605eaa6dae2bcd2dae9a03]: Commencement: Rule 3 in force at 6.4.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/737/rule/1/1)
 
-[^key-6648efa46d535cd2a6950a6993537c91]: Commencement: Rule 4 in force at 6.4.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/737/rule/1/1)
+[^c-6648efa46d535cd2a6950a6993537c91]: Commencement: Rule 4 in force at 6.4.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/737/rule/1/1)
 
-[^key-3299e2d995b01129dbd07d2c2896df13]: Commencement: Rule 5 in force at 6.4.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/737/rule/1/1)
+[^c-3299e2d995b01129dbd07d2c2896df13]: Commencement: Rule 5 in force at 6.4.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/737/rule/1/1)
 
-[^key-2c798668dbe16e5f2f9f4902cc21635f]: Commencement: Rule 6 in force at 6.4.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/737/rule/1/1)
+[^c-2c798668dbe16e5f2f9f4902cc21635f]: Commencement: Rule 6 in force at 6.4.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/737/rule/1/1)
 
-[^key-88cbd5e83ce4b2b64d5d8b91be2e06c7]: Commencement: Rule 7 in force at 6.4.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/737/rule/1/1)
+[^c-88cbd5e83ce4b2b64d5d8b91be2e06c7]: Commencement: Rule 7 in force at 6.4.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/737/rule/1/1)
 
-[^key-9bf100c9869d98a1aac0909e70379230]: Commencement: Sch. in force at 6.4.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/737/rule/1/1)
+[^c-9bf100c9869d98a1aac0909e70379230]: Commencement: Sch. in force at 6.4.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/737/rule/1/1)

@@ -32,7 +32,7 @@ summary: ''
 
 National Health Service, England
 
-The Health Research Authority (Amendment) Regulations 2012 (revoked)[^key-302fc72130d5f02146208963889d3565]
+The Health Research Authority (Amendment) Regulations 2012 (revoked)[^c-302fc72130d5f02146208963889d3565]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 28th May 2012
 
-[^key-302fc72130d5f02146208963889d3565]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-302fc72130d5f02146208963889d3565]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-302fc72130d5f02146208963889d3565]
+## 1. Citation and commencement[^c-302fc72130d5f02146208963889d3565]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments of the Health Research Authority Regulations 2011[^key-302fc72130d5f02146208963889d3565]
+## 2. Amendments of the Health Research Authority Regulations 2011[^c-302fc72130d5f02146208963889d3565]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-302fc72130d5f02146208963889d3565]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-302fc72130d5f02146208963889d3565]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-302fc72130d5f02146208963889d3565]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-302fc72130d5f02146208963889d3565]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-302fc72130d5f02146208963889d3565]: Textual amendment: Regulations revoked (1.1.2015) by [The Health Research Authority (Transfer of Staff, Property and Liabilities) and Care Act 2014 (Consequential Amendments) Order 2014 (S.I. 2014/3090)](https://www.legislation.gov.uk/uksi/2014/3090), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/3090/article/1/1), [Sch. para. 2(a)](https://www.legislation.gov.uk/uksi/2014/3090/schedule/paragraph/2/a)
+[^c-302fc72130d5f02146208963889d3565]: Textual amendment: Regulations revoked (1.1.2015) by [The Health Research Authority (Transfer of Staff, Property and Liabilities) and Care Act 2014 (Consequential Amendments) Order 2014 (S.I. 2014/3090)](https://www.legislation.gov.uk/uksi/2014/3090), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/3090/article/1/1), [Sch. para. 2(a)](https://www.legislation.gov.uk/uksi/2014/3090/schedule/paragraph/2/a)

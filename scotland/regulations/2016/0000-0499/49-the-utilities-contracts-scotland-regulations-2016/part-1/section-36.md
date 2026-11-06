@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 36. Reserved contracts[^key-8bed77b214586682c09e9dbf071b49ef]
+## 36. Reserved contracts[^c-8bed77b214586682c09e9dbf071b49ef]
 
 *Extent: S*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) reserve the right to participate in procurement for the award of a contract or framework agreement to a supported business; or
 - (b) provide for such a contract or framework agreement to be performed in the context of a supported employment programme.
 
-(2) Where a utility is following the approach set out in paragraph (1), it must specify that fact in the call for competition and refer to this regulation[^key-ba0ecbcc41a2305f1854204c04e60004].
+(2) Where a utility is following the approach set out in paragraph (1), it must specify that fact in the call for competition and refer to this regulation[^c-ba0ecbcc41a2305f1854204c04e60004].
 
 (3) In this regulation—
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8bed77b214586682c09e9dbf071b49ef]: Commencement: [Reg. 36](https://www.legislation.gov.uk/ssi/2016/49/regulation/36) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
+[^c-8bed77b214586682c09e9dbf071b49ef]: Commencement: [Reg. 36](https://www.legislation.gov.uk/ssi/2016/49/regulation/36) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
 
-[^key-ba0ecbcc41a2305f1854204c04e60004]: Textual amendment: Words in [reg. 36(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/36/2) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [6(24)](https://www.legislation.gov.uk/ssi/2020/468/regulation/6/24) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+[^c-ba0ecbcc41a2305f1854204c04e60004]: Textual amendment: Words in [reg. 36(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/36/2) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [6(24)](https://www.legislation.gov.uk/ssi/2020/468/regulation/6/24) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))

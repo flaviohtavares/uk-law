@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 392. Definition of services and facilities: investment business[^key-0d961ef32458ffba28e1b9412c314940]
+## 392. Definition of services and facilities: investment business[^c-0d961ef32458ffba28e1b9412c314940]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In the Introduction to the Schedule to the Consumer Protection (Code of Practice
 
 ## Annotations
 
-[^key-0d961ef32458ffba28e1b9412c314940]: Commencement: Art. 392 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-0d961ef32458ffba28e1b9412c314940]: Commencement: Art. 392 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

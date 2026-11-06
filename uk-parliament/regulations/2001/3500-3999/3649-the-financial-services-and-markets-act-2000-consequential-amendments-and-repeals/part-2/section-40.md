@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Interpretation of the 1986 Order[^key-9f75b20aef078cedf79fc54cc2e9bee0]
+## 40. Interpretation of the 1986 Order[^c-9f75b20aef078cedf79fc54cc2e9bee0]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ In Article 2(3) of the Companies (Northern Ireland) Order 1986 (“the 1986 Orde
 
 ## Annotations
 
-[^key-9f75b20aef078cedf79fc54cc2e9bee0]: Commencement: Art. 40 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-9f75b20aef078cedf79fc54cc2e9bee0]: Commencement: Art. 40 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00044]: Footnote: Relevant amendments made by the Companies (Northern Ireland) Order 1990 ([S.I. 1990/593 (NI 5)](https://www.legislation.gov.uk/nisi/1990/593)), Schedule 10, paragraph 2 and the Criminal Justice Act [1993 (c. 36)](https://www.legislation.gov.uk/ukpga/1993/36) section 79(13), Schedule 5, paragraph 18(1).

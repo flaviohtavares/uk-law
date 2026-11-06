@@ -48,11 +48,11 @@ The Welsh Ministers have been consulted in accordance with section 40(12) of the
 
 Accordingly, the Secretary of State, in exercise of the power conferred by section 1(4)(b) of the Energy Act 2011, makes the following Order:
 
-## 1. Citation and commencement[^key-10c152c40444538f12d215fa4940b49c]
+## 1. Citation and commencement[^c-10c152c40444538f12d215fa4940b49c]
 
 This Order may be cited as the Green Deal (Qualifying Energy Improvements) Order 2012 and comes into force on 28th January 2013.
 
-## 2. Interpretation[^key-6dedc37dd8b319d486a88fb1253ee056]
+## 2. Interpretation[^c-6dedc37dd8b319d486a88fb1253ee056]
 
 In this Order—
 
@@ -61,7 +61,7 @@ In this Order—
 - “micro combined heat and power” means a combined heat and power system with an electrical capacity of 50 kilowatts or less;
 - “micro wind generation” means a wind turbine or turbines with a nominal output of 300 watts or more but no more than 50 kilowatts measured at a wind speed of 11m/s.
 
-## 3. Qualifying energy improvements under section 1(4)(b) of the Act[^key-90c57be9ec9e138bc9e45ab74cc2c4d5]
+## 3. Qualifying energy improvements under section 1(4)(b) of the Act[^c-90c57be9ec9e138bc9e45ab74cc2c4d5]
 
 The energy efficiency improvements in the Schedule to this Order are specified for the purposes of section 1(4)(b) of the Act as qualifying energy improvements.
 
@@ -73,11 +73,11 @@ Department of Energy and Climate Change
 
 6th August 2012
 
-## SCHEDULE — Qualifying energy improvements[^key-121aa0fe2d4bde6921a0d83849f33ce2]
+## SCHEDULE — Qualifying energy improvements[^c-121aa0fe2d4bde6921a0d83849f33ce2]
 
 Article 3
 
-[^key-121aa0fe2d4bde6921a0d83849f33ce2]
+[^c-121aa0fe2d4bde6921a0d83849f33ce2]
 
 The energy efficiency improvements specified by article 3 are—
 
@@ -86,7 +86,7 @@ The energy efficiency improvements specified by article 3 are—
 - (c) biomass room heaters (with radiators);
 - (d) cavity wall insulation;
 - (e) chillers;
-- (ea)[^key-0367ca35295e1e4706da4c8aab755df6] circulator pumps;
+- (ea)[^c-0367ca35295e1e4706da4c8aab755df6] circulator pumps;
 - (f) cylinder thermostats;
 - (g) draught proofing;
 - (h) duct insulation;
@@ -125,7 +125,7 @@ The energy efficiency improvements specified by article 3 are—
 - (oo) under-floor insulation;
 - (pp) variable speed drives for fans and pumps;
 - (qq) warm-air units;
-- (rr) waste water heat recovery devices [^key-647b71598386f767d8219fceac68ae7d]...;
+- (rr) waste water heat recovery devices [^c-647b71598386f767d8219fceac68ae7d]...;
 - (ss) water source heat pumps.
 
 EXPLANATORY NOTE
@@ -142,14 +142,14 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00001]: Footnote: [2011 c.16](https://www.legislation.gov.uk/ukpga/2011/16).
 
-[^key-10c152c40444538f12d215fa4940b49c]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2012/2105/article/1) in force at 28.1.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2105/article/1)
+[^c-10c152c40444538f12d215fa4940b49c]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2012/2105/article/1) in force at 28.1.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2105/article/1)
 
-[^key-6dedc37dd8b319d486a88fb1253ee056]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2012/2105/article/2) in force at 28.1.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2105/article/1)
+[^c-6dedc37dd8b319d486a88fb1253ee056]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2012/2105/article/2) in force at 28.1.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2105/article/1)
 
-[^key-90c57be9ec9e138bc9e45ab74cc2c4d5]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2012/2105/article/3) in force at 28.1.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2105/article/1)
+[^c-90c57be9ec9e138bc9e45ab74cc2c4d5]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2012/2105/article/3) in force at 28.1.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2105/article/1)
 
-[^key-121aa0fe2d4bde6921a0d83849f33ce2]: Commencement: Sch. in force at 28.1.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2105/article/1)
+[^c-121aa0fe2d4bde6921a0d83849f33ce2]: Commencement: Sch. in force at 28.1.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2105/article/1)
 
-[^key-0367ca35295e1e4706da4c8aab755df6]: Textual amendment: Sch. para. (ea) inserted (30.7.2014) by [The Green Deal (Qualifying Energy Improvements) (Amendment) Order 2014 (S.I. 2014/2020)](https://www.legislation.gov.uk/uksi/2014/2020), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2020/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2014/2020/article/2/2/a)
+[^c-0367ca35295e1e4706da4c8aab755df6]: Textual amendment: Sch. para. (ea) inserted (30.7.2014) by [The Green Deal (Qualifying Energy Improvements) (Amendment) Order 2014 (S.I. 2014/2020)](https://www.legislation.gov.uk/uksi/2014/2020), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2020/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2014/2020/article/2/2/a)
 
-[^key-647b71598386f767d8219fceac68ae7d]: Textual amendment: Words in Sch. para. (rr) omitted (30.7.2014) by virtue of [The Green Deal (Qualifying Energy Improvements) (Amendment) Order 2014 (S.I. 2014/2020)](https://www.legislation.gov.uk/uksi/2014/2020), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2020/article/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2014/2020/article/2/2/b)
+[^c-647b71598386f767d8219fceac68ae7d]: Textual amendment: Words in Sch. para. (rr) omitted (30.7.2014) by virtue of [The Green Deal (Qualifying Energy Improvements) (Amendment) Order 2014 (S.I. 2014/2020)](https://www.legislation.gov.uk/uksi/2014/2020), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2020/article/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2014/2020/article/2/2/b)

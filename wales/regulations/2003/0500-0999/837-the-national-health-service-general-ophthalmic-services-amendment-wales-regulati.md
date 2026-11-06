@@ -31,7 +31,7 @@ summary: ''
 
 NATIONAL HEALTH SERVICE, WALES
 
-The National Health Service (General Ophthalmic Services) (Amendment) (Wales) Regulations 2003 (revoked)[^key-917822c604adc6c9397684d23f04fe9f]
+The National Health Service (General Ophthalmic Services) (Amendment) (Wales) Regulations 2003 (revoked)[^c-917822c604adc6c9397684d23f04fe9f]
 
 Made
 
@@ -41,24 +41,24 @@ Coming into force
 
 1st April 2003
 
-[^key-917822c604adc6c9397684d23f04fe9f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-917822c604adc6c9397684d23f04fe9f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, application and effect[^key-917822c604adc6c9397684d23f04fe9f]
+## 1. Citation, commencement, application and effect[^c-917822c604adc6c9397684d23f04fe9f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of paragraph 8A of Schedule 1[^key-917822c604adc6c9397684d23f04fe9f]
+## 2. Amendment of paragraph 8A of Schedule 1[^c-917822c604adc6c9397684d23f04fe9f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-917822c604adc6c9397684d23f04fe9f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-917822c604adc6c9397684d23f04fe9f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-917822c604adc6c9397684d23f04fe9f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-917822c604adc6c9397684d23f04fe9f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-917822c604adc6c9397684d23f04fe9f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2003/837) revoked (20.10.2023) by [The National Health Service (Ophthalmic Services) (Wales) Regulations 2023 (S.I. 2023/1053)](https://www.legislation.gov.uk/wsi/2023/1053), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2), [Sch. 7](https://www.legislation.gov.uk/wsi/2023/1053/schedule/7) (with [reg. 42](https://www.legislation.gov.uk/wsi/2023/1053/regulation/42))
+[^c-917822c604adc6c9397684d23f04fe9f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2003/837) revoked (20.10.2023) by [The National Health Service (Ophthalmic Services) (Wales) Regulations 2023 (S.I. 2023/1053)](https://www.legislation.gov.uk/wsi/2023/1053), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2), [Sch. 7](https://www.legislation.gov.uk/wsi/2023/1053/schedule/7) (with [reg. 42](https://www.legislation.gov.uk/wsi/2023/1053/regulation/42))

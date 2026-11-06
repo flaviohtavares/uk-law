@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 126. Amendment of regulation 6[^key-a9e5c35dbb70431304e73823f88e8fcd]
+## 126. Amendment of regulation 6[^c-a9e5c35dbb70431304e73823f88e8fcd]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ In regulation 6 (calculation of compensation)—
 
 ## Annotations
 
-[^key-a9e5c35dbb70431304e73823f88e8fcd]: Commencement: [Reg. 126](https://www.legislation.gov.uk/ssi/2011/364/regulation/126) in force at 1.12.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2)
+[^c-a9e5c35dbb70431304e73823f88e8fcd]: Commencement: [Reg. 126](https://www.legislation.gov.uk/ssi/2011/364/regulation/126) in force at 1.12.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2)

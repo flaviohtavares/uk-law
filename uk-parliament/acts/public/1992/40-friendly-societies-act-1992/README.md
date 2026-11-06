@@ -33,11 +33,11 @@ An Act to make further provision for friendly societies; to provide for the cess
 
 \[16th March 1992\]
 
-[^c15377211][^c15377221]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-e2d43ffb546c3a935ff2f3f95e0dac24]
+[^c15377211][^c15377221]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-e2d43ffb546c3a935ff2f3f95e0dac24]
 
 ## Contents
 
-### Part I — Functions of the Financial Conduct Authority and the Prudential Regulation Authority[^c15377231][^key-1934e55be67bd673122a725dad15d23e]
+### Part I — Functions of the Financial Conduct Authority and the Prudential Regulation Authority[^c15377231][^c-1934e55be67bd673122a725dad15d23e]
 
 *Extent: E+W+S+N.I.*
 
@@ -155,7 +155,7 @@ An Act to make further provision for friendly societies; to provide for the cess
 
 - [Section 50 — The criteria of prudent management.](part-v/section-50.md)
 
-#### Powers of FCA and PRA[^key-a02129d13dcfd41a70043ae87c6360e0]
+#### Powers of FCA and PRA[^c-a02129d13dcfd41a70043ae87c6360e0]
 
 *Extent: E+W+S+N.I.*
 
@@ -424,15 +424,15 @@ SCHEDULES
 
 [^c15377221]: Modification: Power to amend conferred (E.W.S.) (7.2.1994) by [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48),s.162, (with s. 6(8), 164); [S.I. 1994/86](https://www.legislation.gov.uk/uksi/1994/86), [art. 2](https://www.legislation.gov.uk/uksi/1994/86/article/2)
 
-[^key-e2d43ffb546c3a935ff2f3f95e0dac24]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1992/40): power to amend conferred (24.1.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 50(2)(i)](https://www.legislation.gov.uk/ukpga/2012/21/section/50/2/i), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/1)
+[^c-e2d43ffb546c3a935ff2f3f95e0dac24]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1992/40): power to amend conferred (24.1.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 50(2)(i)](https://www.legislation.gov.uk/ukpga/2012/21/section/50/2/i), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/1)
 
 [^c15377231]: Textual amendment: Pt. 1 (s. 1) substituted (17.8.2001 for specified purposes and otherwise 1.12.2001) for Pt. 1 (ss. 1-4) by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617), [arts. 2](https://www.legislation.gov.uk/uksi/2001/2617/article/2), [8(1)](https://www.legislation.gov.uk/uksi/2001/2617/article/8/1), [13(1)](https://www.legislation.gov.uk/uksi/2001/2617/article/13/1), [Sch. 3 Pt. 1 para. 54](https://www.legislation.gov.uk/uksi/2001/2617/schedule/3/part/1/paragraph/54) (with [art. 13(3)](https://www.legislation.gov.uk/uksi/2001/2617/article/13/3), [Sch. 5](https://www.legislation.gov.uk/uksi/2001/2617/schedule/5)); [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/3538/article/2/1)
 
-[^key-1934e55be67bd673122a725dad15d23e]: Textual amendment: Words in [Pt. 1](https://www.legislation.gov.uk/ukpga/1992/40/part/I) heading substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 9 para. 2](https://www.legislation.gov.uk/uksi/2013/496/schedule/9/paragraph/2) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-1934e55be67bd673122a725dad15d23e]: Textual amendment: Words in [Pt. 1](https://www.legislation.gov.uk/ukpga/1992/40/part/I) heading substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 9 para. 2](https://www.legislation.gov.uk/uksi/2013/496/schedule/9/paragraph/2) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
 [^c15379681]: Textual amendment: Cross heading inserted (1.9.1994) by [S.I. 1994/1984](https://www.legislation.gov.uk/uksi/1994/1984) reg. 9
 
-[^key-a02129d13dcfd41a70043ae87c6360e0]: Textual amendment: Words in [s. 51 cross-heading](https://www.legislation.gov.uk/ukpga/1992/40/part/V/crossheading/powers-of-commission) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 9 para. 16](https://www.legislation.gov.uk/uksi/2013/496/schedule/9/paragraph/16) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-a02129d13dcfd41a70043ae87c6360e0]: Textual amendment: Words in [s. 51 cross-heading](https://www.legislation.gov.uk/ukpga/1992/40/part/V/crossheading/powers-of-commission) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 9 para. 16](https://www.legislation.gov.uk/uksi/2013/496/schedule/9/paragraph/16) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
 [^c15380871]: Textual amendment: [S. 58A](https://www.legislation.gov.uk/ukpga/1992/40/section/58A) and the cross-heading substituted (17.8.2001 for specified purposes and otherwise 1.12.2001) for ss. 58-61 by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617), [arts. 2](https://www.legislation.gov.uk/uksi/2001/2617/article/2), [8(1)](https://www.legislation.gov.uk/uksi/2001/2617/article/8/1), [13(1)](https://www.legislation.gov.uk/uksi/2001/2617/article/13/1), [Sch. 3 Pt. 1 para 75](https://www.legislation.gov.uk/uksi/2001/2617/schedule/3/part/1/paragraph/75) (with [art. 13(3)](https://www.legislation.gov.uk/uksi/2001/2617/article/13/3), [Sch. 5](https://www.legislation.gov.uk/uksi/2001/2617/schedule/5)); [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/3538/article/2/1)
 

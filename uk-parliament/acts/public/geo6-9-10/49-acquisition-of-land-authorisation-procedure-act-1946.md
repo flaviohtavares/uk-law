@@ -138,7 +138,7 @@ Section 6.
 
 | *Enactment amended* | *Amendments* |
 | --- | --- |
-| [^key-b7fe800ffd43d564b7088629ddc8e320][^key-1adc862af1604b933ce130780bbb5e0d]... | [^key-b7fe800ffd43d564b7088629ddc8e320][^key-1adc862af1604b933ce130780bbb5e0d]... |
+| [^c-b7fe800ffd43d564b7088629ddc8e320][^c-1adc862af1604b933ce130780bbb5e0d]... | [^c-b7fe800ffd43d564b7088629ddc8e320][^c-1adc862af1604b933ce130780bbb5e0d]... |
 | [^c592595]... | [^c592595]... |
 |  | [^c592595]... |
 | The Metropolitan Police Act, 1886 (49 & 50 Vict. c. 22.) | In section two, for the words “purchase and” there shall be substituted the words “purchase by agreement, or if so authorised by the Minister of Health, compulsorily, or”. |
@@ -276,9 +276,9 @@ Section 6.
 
 [^c592594]: Editorial: The text of Sch. 4 (in part) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
-[^key-b7fe800ffd43d564b7088629ddc8e320]: Textual amendment: Sch. 4: entry repealed (E.W.S.) (26.4.2005) by [The Manufacture and Storage of Explosives Regulations 2005 (S.I. 2005/1082)](https://www.legislation.gov.uk/uksi/2005/1082), [Sch. 5 para. 5](https://www.legislation.gov.uk/uksi/2005/1082/schedule/5/paragraph/5), [Sch. 6](https://www.legislation.gov.uk/uksi/2005/1082/schedule/6) (with [reg. 3](https://www.legislation.gov.uk/uksi/2005/1082/regulation/3))
+[^c-b7fe800ffd43d564b7088629ddc8e320]: Textual amendment: Sch. 4: entry repealed (E.W.S.) (26.4.2005) by [The Manufacture and Storage of Explosives Regulations 2005 (S.I. 2005/1082)](https://www.legislation.gov.uk/uksi/2005/1082), [Sch. 5 para. 5](https://www.legislation.gov.uk/uksi/2005/1082/schedule/5/paragraph/5), [Sch. 6](https://www.legislation.gov.uk/uksi/2005/1082/schedule/6) (with [reg. 3](https://www.legislation.gov.uk/uksi/2005/1082/regulation/3))
 
-[^key-1adc862af1604b933ce130780bbb5e0d]: Textual amendment: Sch. 4: entry omitted (N.I.) (1.12.2006) by virtue of [The Manufacture and Storage of Explosives Regulations (Northern Ireland) 2006 (S.R. 2006/425)](https://www.legislation.gov.uk/nisr/2006/425), [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1), [Sch. 6 para. 6](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/6), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/nisr/2006/425/schedule/7/part/1) (with [reg. 26](https://www.legislation.gov.uk/nisr/2006/425/regulation/26))
+[^c-1adc862af1604b933ce130780bbb5e0d]: Textual amendment: Sch. 4: entry omitted (N.I.) (1.12.2006) by virtue of [The Manufacture and Storage of Explosives Regulations (Northern Ireland) 2006 (S.R. 2006/425)](https://www.legislation.gov.uk/nisr/2006/425), [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1), [Sch. 6 para. 6](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/6), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/nisr/2006/425/schedule/7/part/1) (with [reg. 26](https://www.legislation.gov.uk/nisr/2006/425/regulation/26))
 
 [^c592595]: Textual amendment: Sch. 4: entries repealed (5.11.1993) by [1993 c. 50](https://www.legislation.gov.uk/ukpga/1993/50), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1993/50/section/1/1), [Sch. 1 Pt. XIII](https://www.legislation.gov.uk/ukpga/1993/50/schedule/1/part/XIII) Group 1
 

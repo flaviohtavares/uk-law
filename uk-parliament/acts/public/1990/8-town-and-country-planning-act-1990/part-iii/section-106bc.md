@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 106BC. Appeals in relation to applications under section 106BA[^key-c71325e3f429f964018cac012754bbef]
+## 106BC. Appeals in relation to applications under section 106BA[^c-c71325e3f429f964018cac012754bbef]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c71325e3f429f964018cac012754bbef]: Textual amendment: S. 106BC repealed (1.5.2016) by [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [ss. 7(4)](https://www.legislation.gov.uk/ukpga/2013/27/section/7/4), [35(2)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/2)
+[^c-c71325e3f429f964018cac012754bbef]: Textual amendment: S. 106BC repealed (1.5.2016) by [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [ss. 7(4)](https://www.legislation.gov.uk/ukpga/2013/27/section/7/4), [35(2)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/2)

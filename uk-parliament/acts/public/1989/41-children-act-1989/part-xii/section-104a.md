@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104A. Regulations made by the Welsh Ministers under section 31A or Part 7[^key-5554d40683bdeb4682dddd45dcfa1975]
+## 104A. Regulations made by the Welsh Ministers under section 31A or Part 7[^c-5554d40683bdeb4682dddd45dcfa1975]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5554d40683bdeb4682dddd45dcfa1975]: Textual amendment: [S. 104A](https://www.legislation.gov.uk/ukpga/1989/41/section/104A) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [105](https://www.legislation.gov.uk/wsi/2016/413/regulation/105)
+[^c-5554d40683bdeb4682dddd45dcfa1975]: Textual amendment: [S. 104A](https://www.legislation.gov.uk/ukpga/1989/41/section/104A) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [105](https://www.legislation.gov.uk/wsi/2016/413/regulation/105)

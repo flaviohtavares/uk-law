@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 42. Amendment of Part 11[^key-a6c421c940d01b3ab93b11149f1ba854]
+## 42. Amendment of Part 11[^c-a6c421c940d01b3ab93b11149f1ba854]
 
 *Extent: N.I.*
 
@@ -35,7 +35,7 @@ In Rule 11.06 (Notice of declaration)—
 
 .
 
-**43.**[^key-4ceee591d076f4256ea5a0d1932be9e0] In Rule 11.12 (Preferential creditors)—
+**43.**[^c-4ceee591d076f4256ea5a0d1932be9e0] In Rule 11.12 (Preferential creditors)—
 
 (1) At the end of the heading insert “or creditors in respect of a debt which is a moratorium debt or priority pre-moratorium debt within the meaning given by Article 148A”.
 
@@ -56,6 +56,6 @@ In Rule 11.06 (Notice of declaration)—
 
 ## Annotations
 
-[^key-a6c421c940d01b3ab93b11149f1ba854]: Commencement: Rule 42 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
+[^c-a6c421c940d01b3ab93b11149f1ba854]: Commencement: Rule 42 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
 
-[^key-4ceee591d076f4256ea5a0d1932be9e0]: Commencement: Rule 43 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
+[^c-4ceee591d076f4256ea5a0d1932be9e0]: Commencement: Rule 43 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 23A. Review[^key-2bcf2918b1d8a215002800c20acc1540]
+## 23A. Review[^c-2bcf2918b1d8a215002800c20acc1540]
 
 *Extent: E+W+S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2bcf2918b1d8a215002800c20acc1540]: Textual amendment: [Reg. 23A](https://www.legislation.gov.uk/uksi/1989/1796/regulation/23A) inserted (20.5.2018) by [The Road Vehicles Lighting (Amendment) Regulations 2017 (S.I. 2017/852)](https://www.legislation.gov.uk/uksi/2017/852), [regs. 1](https://www.legislation.gov.uk/uksi/2017/852/regulation/1), [7](https://www.legislation.gov.uk/uksi/2017/852/regulation/7)
+[^c-2bcf2918b1d8a215002800c20acc1540]: Textual amendment: [Reg. 23A](https://www.legislation.gov.uk/uksi/1989/1796/regulation/23A) inserted (20.5.2018) by [The Road Vehicles Lighting (Amendment) Regulations 2017 (S.I. 2017/852)](https://www.legislation.gov.uk/uksi/2017/852), [regs. 1](https://www.legislation.gov.uk/uksi/2017/852/regulation/1), [7](https://www.legislation.gov.uk/uksi/2017/852/regulation/7)

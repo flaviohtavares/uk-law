@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Suspected international terrorist: bail[^key-f333098fbed56b1814827e5c8e00c6f4][^c552245]
+## 32. Suspected international terrorist: bail[^c-f333098fbed56b1814827e5c8e00c6f4][^c552245]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f333098fbed56b1814827e5c8e00c6f4]: Textual amendment: [S. 32](https://www.legislation.gov.uk/ukpga/2004/19/section/32) repealed (14.3.2005) by [Prevention of Terrorism Act 2005 (c. 2)](https://www.legislation.gov.uk/ukpga/2005/2), [s. 16(2)(d)](https://www.legislation.gov.uk/ukpga/2005/2/section/16/2/d)[(3)](https://www.legislation.gov.uk/ukpga/2005/2/section/16/3) (with [s. 16(4)](https://www.legislation.gov.uk/ukpga/2005/2/section/16/4))
+[^c-f333098fbed56b1814827e5c8e00c6f4]: Textual amendment: [S. 32](https://www.legislation.gov.uk/ukpga/2004/19/section/32) repealed (14.3.2005) by [Prevention of Terrorism Act 2005 (c. 2)](https://www.legislation.gov.uk/ukpga/2005/2), [s. 16(2)(d)](https://www.legislation.gov.uk/ukpga/2005/2/section/16/2/d)[(3)](https://www.legislation.gov.uk/ukpga/2005/2/section/16/3) (with [s. 16(4)](https://www.legislation.gov.uk/ukpga/2005/2/section/16/4))
 
 [^c552245]: Commencement: S. 32 partly in force; s. 32(2) in force at 22.9.2004 see s. 48

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104I. Contracts of employment: restricted variations[^key-6a21e5b400241e9be85d798b9d088b5e]
+## 104I. Contracts of employment: restricted variations[^c-6a21e5b400241e9be85d798b9d088b5e]
 
 *Extent: E+W+S*
 
@@ -132,4 +132,4 @@ an employment tribunal must apply the same principles as would be applied by a c
 
 ## Annotations
 
-[^key-6a21e5b400241e9be85d798b9d088b5e]: Textual amendment: [Ss. 104I-104K](https://www.legislation.gov.uk/ukpga/1996/18/section/104I) inserted (6.1.2026 for specified purposes, 6.4.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 28(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/28/3), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(13)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/13/b); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(5)(b)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/5/b)
+[^c-6a21e5b400241e9be85d798b9d088b5e]: Textual amendment: [Ss. 104I-104K](https://www.legislation.gov.uk/ukpga/1996/18/section/104I) inserted (6.1.2026 for specified purposes, 6.4.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 28(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/28/3), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(13)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/13/b); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(5)(b)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/5/b)

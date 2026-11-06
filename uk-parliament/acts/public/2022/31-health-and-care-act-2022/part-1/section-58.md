@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. NHS trusts: conversion to NHS foundation trusts and dissolution[^key-6a582ee4dc9d4b6532661cdb4ff4446b][^key-a70ea2a4497b175ccf5c8baae2394d2f]
+## 58. NHS trusts: conversion to NHS foundation trusts and dissolution[^c-6a582ee4dc9d4b6532661cdb4ff4446b][^c-a70ea2a4497b175ccf5c8baae2394d2f]
 
 *Extent: E+W*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6a582ee4dc9d4b6532661cdb4ff4446b]: Commencement: S. 58 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-6a582ee4dc9d4b6532661cdb4ff4446b]: Commencement: S. 58 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-a70ea2a4497b175ccf5c8baae2394d2f]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2022/31/section/58) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-a70ea2a4497b175ccf5c8baae2394d2f]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2022/31/section/58) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

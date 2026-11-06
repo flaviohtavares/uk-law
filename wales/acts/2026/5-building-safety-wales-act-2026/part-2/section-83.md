@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 83. Timing and review of HMO fire risk assessments[^key-a69ad732bd3a8977bd6702ebe62ac9e0]
+## 83. Timing and review of HMO fire risk assessments[^c-a69ad732bd3a8977bd6702ebe62ac9e0]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a69ad732bd3a8977bd6702ebe62ac9e0]: Commencement: S. 83 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-a69ad732bd3a8977bd6702ebe62ac9e0]: Commencement: S. 83 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

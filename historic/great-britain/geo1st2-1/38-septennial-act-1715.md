@@ -28,9 +28,9 @@ Septennial Act 1715 (repealed)
 
 1715 c.38
 
-[^key-6e017f32108732b97fd2753fc999e939]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6e017f32108732b97fd2753fc999e939]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Parliaments shall have Continuance for seven Years, unless sooner dissolved by the King.[^key-6e017f32108732b97fd2753fc999e939]
+## Parliaments shall have Continuance for seven Years, unless sooner dissolved by the King.[^c-6e017f32108732b97fd2753fc999e939]
 
 **No longer in force.**
 
@@ -38,4 +38,4 @@ Septennial Act 1715 (repealed)
 
 ## Annotations
 
-[^key-6e017f32108732b97fd2753fc999e939]: Textual amendment: [Act](https://www.legislation.gov.uk/apgb/Geo1St2/1/38) repealed (15.9.2011) by [Fixed-term Parliaments Act 2011 (c. 14)](https://www.legislation.gov.uk/ukpga/2011/14), [s. 7(2)](https://www.legislation.gov.uk/ukpga/2011/14/section/7/2), [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2011/14/schedule/paragraph/2) (with [s. 6](https://www.legislation.gov.uk/ukpga/2011/14/section/6))
+[^c-6e017f32108732b97fd2753fc999e939]: Textual amendment: [Act](https://www.legislation.gov.uk/apgb/Geo1St2/1/38) repealed (15.9.2011) by [Fixed-term Parliaments Act 2011 (c. 14)](https://www.legislation.gov.uk/ukpga/2011/14), [s. 7(2)](https://www.legislation.gov.uk/ukpga/2011/14/section/7/2), [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2011/14/schedule/paragraph/2) (with [s. 6](https://www.legislation.gov.uk/ukpga/2011/14/section/6))

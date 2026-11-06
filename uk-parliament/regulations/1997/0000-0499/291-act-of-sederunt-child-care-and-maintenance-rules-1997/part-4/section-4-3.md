@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4.3. Transmission of application for registration[^key-5fb7a6a3a48a818cfe513436479456ca]
+## 4.3. Transmission of application for registration[^c-5fb7a6a3a48a818cfe513436479456ca]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5fb7a6a3a48a818cfe513436479456ca]: Commencement: [Rule 4.3](https://www.legislation.gov.uk/uksi/1997/291/rule/4.3) in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
+[^c-5fb7a6a3a48a818cfe513436479456ca]: Commencement: [Rule 4.3](https://www.legislation.gov.uk/uksi/1997/291/rule/4.3) in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)

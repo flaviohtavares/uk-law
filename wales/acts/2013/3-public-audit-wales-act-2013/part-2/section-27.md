@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Annual plan: effect[^key-e376827b3d646efcefe26b2a47254385]
+## 27. Annual plan: effect[^c-e376827b3d646efcefe26b2a47254385]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The Auditor General and the WAO are not to be bound by the annual plan, but they
 
 ## Annotations
 
-[^key-e376827b3d646efcefe26b2a47254385]: Commencement: [S. 27](https://www.legislation.gov.uk/anaw/2013/3/section/27) in force at 4.7.2013 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 2(o)](https://www.legislation.gov.uk/wsi/2013/1466/article/2/o)
+[^c-e376827b3d646efcefe26b2a47254385]: Commencement: [S. 27](https://www.legislation.gov.uk/anaw/2013/3/section/27) in force at 4.7.2013 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 2(o)](https://www.legislation.gov.uk/wsi/2013/1466/article/2/o)

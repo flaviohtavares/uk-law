@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 139. Amendments of the Licensing Act 2003[^key-ee4c28e3dd9d7d8ddd904a1a0be6d4f1]
+## 139. Amendments of the Licensing Act 2003[^c-ee4c28e3dd9d7d8ddd904a1a0be6d4f1]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ee4c28e3dd9d7d8ddd904a1a0be6d4f1]: Commencement: S. 139 in force at 31.10.2012 by [S.I. 2012/2670](https://www.legislation.gov.uk/uksi/2012/2670), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/2670/article/2/b)
+[^c-ee4c28e3dd9d7d8ddd904a1a0be6d4f1]: Commencement: S. 139 in force at 31.10.2012 by [S.I. 2012/2670](https://www.legislation.gov.uk/uksi/2012/2670), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/2670/article/2/b)

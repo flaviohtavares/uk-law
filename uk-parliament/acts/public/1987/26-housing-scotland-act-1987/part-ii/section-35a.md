@@ -28,7 +28,7 @@ summary: ''
 - (b) any decision to notify another authority under section 33(1),
 - (c) any determination under section 33(4) or 34(2) as to whether the conditions for referral of an application are satisfied,
 - (d) where accommodation is secured for the applicant under section 31, 32 or 34, any decision as to whether the provision of that accommodation discharges the authority’s duty to the applicant under that section.
-- (e)[^key-56284d68a3b7f9733798cd9c47626394] in a case where a private accommodation offer is made to the applicant, any decision—
+- (e)[^c-56284d68a3b7f9733798cd9c47626394] in a case where a private accommodation offer is made to the applicant, any decision—
   - (i) that the accommodation offered is not accommodation falling within section 32(5)(a) to (c), or
   - (ii) that the authority have discharged their duty to the applicant under section 32(8).
 
@@ -40,4 +40,4 @@ summary: ''
 
 [^c12770891]: Textual amendment: S. 35A inserted (1.4.2002) by [2001 asp 10](https://www.legislation.gov.uk/asp/2001/10), [s. 4(4)](https://www.legislation.gov.uk/asp/2001/10/section/4/4); [S.S.I. 2002/168](https://www.legislation.gov.uk/ssi/2002/168), [art. 2](https://www.legislation.gov.uk/ssi/2002/168/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2002/168/schedule) (with transitional provisions and savings in [art. 3](https://www.legislation.gov.uk/ssi/2002/168/article/3))
 
-[^key-56284d68a3b7f9733798cd9c47626394]: Textual amendment: S. 35A(2)(e) inserted (2.3.2009 for specified purposes) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 15 para. 15](https://www.legislation.gov.uk/ukpga/2008/17/schedule/15/paragraph/15); [S.I. 2009/415](https://www.legislation.gov.uk/uksi/2009/415), [art. 3](https://www.legislation.gov.uk/uksi/2009/415/article/3)
+[^c-56284d68a3b7f9733798cd9c47626394]: Textual amendment: S. 35A(2)(e) inserted (2.3.2009 for specified purposes) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 15 para. 15](https://www.legislation.gov.uk/ukpga/2008/17/schedule/15/paragraph/15); [S.I. 2009/415](https://www.legislation.gov.uk/uksi/2009/415), [art. 3](https://www.legislation.gov.uk/uksi/2009/415/article/3)

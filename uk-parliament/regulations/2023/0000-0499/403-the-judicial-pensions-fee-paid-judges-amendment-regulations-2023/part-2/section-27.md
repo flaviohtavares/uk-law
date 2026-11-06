@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Amendment of regulation 28[^key-0d2e58279e2b2e64465b053a937b7711]
+## 27. Amendment of regulation 28[^c-0d2e58279e2b2e64465b053a937b7711]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ In regulation 28(2), omit the “and” after sub-paragraph (a), and after sub-p
 
 ## Annotations
 
-[^key-0d2e58279e2b2e64465b053a937b7711]: Commencement: Reg. 27 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)
+[^c-0d2e58279e2b2e64465b053a937b7711]: Commencement: Reg. 27 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)

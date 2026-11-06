@@ -27,7 +27,7 @@ summary: ''
 - air navigation installation means any building, works, apparatus or equipment used wholly or mainly for the purpose of assisting air traffic control or as an aid to air navigation, together with any land contiguous or adjacent to any such building, works, apparatus or equipment and used wholly or mainly for purposes connected therewith;
 - aircraft registered or operating in the United Kingdom means any aircraft which is either—
 - (a) an aircraft registered in the United Kingdom, or
-- (b) an aircraft not so registered which is for the time being allocated for use on a flight any part of which is[^key-7355c679a9ad15db56f2f450cacf57b0] in the United Kingdom;
+- (b) an aircraft not so registered which is for the time being allocated for use on a flight any part of which is[^c-7355c679a9ad15db56f2f450cacf57b0] in the United Kingdom;
   - article includes any substance, whether in solid or liquid form or in the form of a gas or vapour;
   - constable includes any person having the powers and privileges of a constable;
   - explosive means any article manufactured for the purpose of producing a practical effect by explosion, or intended for that purpose by a person having the article with him;
@@ -43,7 +43,7 @@ summary: ''
 - (b) a person who under the [^c794792] British Nationality Act 1981 is a British subject; or
 - (c) a British protected person (within the meaning of that Act).
 
-(1A)[^key-acf77bb1701bebd33ffdd0d0465aa625] Subject to subsection (1D), a reference in this Act to an aircraft includes a reference to a medium-range rocket.
+(1A)[^c-acf77bb1701bebd33ffdd0d0465aa625] Subject to subsection (1D), a reference in this Act to an aircraft includes a reference to a medium-range rocket.
 
 (1B) In subsection (1A) “**rocket**” means a projectile of mainly cylindrical or similar shape that can be propelled from or above the earth by combustion of its fuel (or fuel and oxidant).
 
@@ -73,7 +73,7 @@ and anything done on board an aircraft while in flight over any part of the Unit
 
 (4)[^c794794] For the purposes of this Act the territorial waters adjacent to any part of the United Kingdom shall be treated as included in that part of the United Kingdom.
 
-(5) Any power to make an order under subsection (1) or (1D)[^key-468fbecf24527c10c0d58d3e22ab6934] above shall be exercisable by statutory instrument; and any statutory instrument containing any such order shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+(5) Any power to make an order under subsection (1) or (1D)[^c-468fbecf24527c10c0d58d3e22ab6934] above shall be exercisable by statutory instrument; and any statutory instrument containing any such order shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
 (6) Any power to give a direction under any provision of this Act shall be construed as including power to revoke or vary any such direction by a further direction . . . [^c794796] .
 
@@ -99,7 +99,7 @@ and anything done on board an aircraft while in flight over any part of the Unit
 
 [^c794787]: Marginal citation: [1982 c. 16](https://www.legislation.gov.uk/ukpga/1982/16) .
 
-[^key-7355c679a9ad15db56f2f450cacf57b0]: Textual amendment: Words in s. 38(1) substituted (12.2.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [s. 52(5)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/5), [Sch. 5 para. 9(6)](https://www.legislation.gov.uk/ukpga/2015/6/schedule/5/paragraph/9/6)
+[^c-7355c679a9ad15db56f2f450cacf57b0]: Textual amendment: Words in s. 38(1) substituted (12.2.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [s. 52(5)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/5), [Sch. 5 para. 9(6)](https://www.legislation.gov.uk/ukpga/2015/6/schedule/5/paragraph/9/6)
 
 [^c794788]: Textual amendment: Words repealed by [Airports Act 1986 (c. 31, SIF 9)](https://www.legislation.gov.uk/ukpga/1986/31) , [s. 83(5)](https://www.legislation.gov.uk/ukpga/1986/31/section/83/5) , [Sch. 6 Pt. I](https://www.legislation.gov.uk/ukpga/1986/31/schedule/6/part/I)
 
@@ -111,13 +111,13 @@ and anything done on board an aircraft while in flight over any part of the Unit
 
 [^c794792]: Marginal citation: [1981 c. 61](https://www.legislation.gov.uk/ukpga/1981/61) .
 
-[^key-acf77bb1701bebd33ffdd0d0465aa625]: Textual amendment: S. 38(1A)-(1D) inserted (29.7.2021) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 12 para. 4(2)](https://www.legislation.gov.uk/ukpga/2018/5/schedule/12/paragraph/4/2); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 117](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/117) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-acf77bb1701bebd33ffdd0d0465aa625]: Textual amendment: S. 38(1A)-(1D) inserted (29.7.2021) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 12 para. 4(2)](https://www.legislation.gov.uk/ukpga/2018/5/schedule/12/paragraph/4/2); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 117](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/117) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
 
 [^c794793]: Textual amendment: Words in s. 38(2)(b) substituted (21.4.2002) by 2001/4050, art. 2, Sch. Pt. I para. 1
 
 [^c794794]: Modification: S. 38(3) ( *b* ), (4) extended by [Aviation and Maritime Security Act 1990 (c. 31, SIF 39:2)](https://www.legislation.gov.uk/ukpga/1990/31) , [s. 1(6)](https://www.legislation.gov.uk/ukpga/1990/31/section/1/6)
 
-[^key-468fbecf24527c10c0d58d3e22ab6934]: Textual amendment: Words in s. 38(5) inserted (29.7.2021) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 12 para. 4(3)](https://www.legislation.gov.uk/ukpga/2018/5/schedule/12/paragraph/4/3); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 117](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/117) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-468fbecf24527c10c0d58d3e22ab6934]: Textual amendment: Words in s. 38(5) inserted (29.7.2021) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 12 para. 4(3)](https://www.legislation.gov.uk/ukpga/2018/5/schedule/12/paragraph/4/3); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 117](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/117) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
 
 [^c794796]: Textual amendment: Words repealed by [Aviation and Maritime Security Act 1990 (c. 31, SIF 39:2)](https://www.legislation.gov.uk/ukpga/1990/31) , [ss. 8(1)](https://www.legislation.gov.uk/ukpga/1990/31/section/8/1) , [53(2)](https://www.legislation.gov.uk/ukpga/1990/31/section/53/2) , [Sch. 1 para. 19](https://www.legislation.gov.uk/ukpga/1990/31/schedule/1/paragraph/19) , [Sch. 4](https://www.legislation.gov.uk/ukpga/1990/31/schedule/4)
 

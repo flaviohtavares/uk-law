@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Licence conditions regarding functions of certain allocation bodies[^key-c06743be8c26807d963b86a820d26307]
+## 80. Licence conditions regarding functions of certain allocation bodies[^c-c06743be8c26807d963b86a820d26307]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ section 23 of that Act has effect as if the persons listed in subsection (4)(b) 
 
 ## Annotations
 
-[^key-c06743be8c26807d963b86a820d26307]: Commencement: [S. 80](https://www.legislation.gov.uk/ukpga/2023/52/section/80) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-c06743be8c26807d963b86a820d26307]: Commencement: [S. 80](https://www.legislation.gov.uk/ukpga/2023/52/section/80) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)

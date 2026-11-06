@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2.[^key-744e12be6a7e04c213d11b53d16cd491]
+## 2.[^c-744e12be6a7e04c213d11b53d16cd491]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Except as provided by articles 3 and 4, an amendment or revocation of any enactm
 
 ## Annotations
 
-[^key-744e12be6a7e04c213d11b53d16cd491]: Commencement: Art. 2 in force at 3.11.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1)
+[^c-744e12be6a7e04c213d11b53d16cd491]: Commencement: Art. 2 in force at 3.11.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1)

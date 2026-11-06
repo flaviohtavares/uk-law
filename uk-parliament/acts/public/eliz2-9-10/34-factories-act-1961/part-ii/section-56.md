@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Application of Part II to Scotland.[^key-93eea554230fdcdcbc9ae7854e47fc47]
+## 56. Application of Part II to Scotland.[^c-93eea554230fdcdcbc9ae7854e47fc47]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-93eea554230fdcdcbc9ae7854e47fc47]: Textual amendment: [S. 56](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/34/section/56) repealed (6.4.2014) by [The Health and Safety (Miscellaneous Repeals and Revocations) Regulations 2014 (S.I. 2014/486)](https://www.legislation.gov.uk/uksi/2014/486), [reg. 1](https://www.legislation.gov.uk/uksi/2014/486/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2014/486/schedule) Table 1
+[^c-93eea554230fdcdcbc9ae7854e47fc47]: Textual amendment: [S. 56](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/34/section/56) repealed (6.4.2014) by [The Health and Safety (Miscellaneous Repeals and Revocations) Regulations 2014 (S.I. 2014/486)](https://www.legislation.gov.uk/uksi/2014/486), [reg. 1](https://www.legislation.gov.uk/uksi/2014/486/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2014/486/schedule) Table 1

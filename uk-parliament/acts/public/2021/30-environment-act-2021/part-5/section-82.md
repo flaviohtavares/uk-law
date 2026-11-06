@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Monitoring quality of water potentially affected by discharges[^key-99d3ef9cdef6470397daa73594282a3f]
+## 82. Monitoring quality of water potentially affected by discharges[^c-99d3ef9cdef6470397daa73594282a3f]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-5eab4acfd531117555da2136055da797] In Chapter 4 of Part 4 of the Water Industry Act 1991, after section 141DA insert—
+(1)[^c-5eab4acfd531117555da2136055da797] In Chapter 4 of Part 4 of the Water Industry Act 1991, after section 141DA insert—
 
 > **141DB. Monitoring quality of water potentially affected by discharges from storm overflows and sewage disposal works**
 >
@@ -56,14 +56,14 @@ summary: ''
 >
 > (7) The Secretary of State may not make regulations under this section unless a draft of the statutory instrument containing the regulations has been laid before, and approved by resolution of, each House of Parliament.
 
-(2)[^key-dc7a3334efe031ebe80f811fb84f1117][^key-b3742adee4c6c31c32c29a3f8f18deea] In section 213 of the Water Industry Act 1991 (power to make regulations) in subsection (1), for “or 105A” substitute “105A, 141DA or 141DB”.
+(2)[^c-dc7a3334efe031ebe80f811fb84f1117][^c-b3742adee4c6c31c32c29a3f8f18deea] In section 213 of the Water Industry Act 1991 (power to make regulations) in subsection (1), for “or 105A” substitute “105A, 141DA or 141DB”.
 
 ## Annotations
 
-[^key-99d3ef9cdef6470397daa73594282a3f]: Commencement: S. 82 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-99d3ef9cdef6470397daa73594282a3f]: Commencement: S. 82 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-5eab4acfd531117555da2136055da797]: Commencement: [S. 82(1)](https://www.legislation.gov.uk/ukpga/2021/30/section/82/1) in force at 3.11.2023 for specified purposes by [S.I. 2023/1170](https://www.legislation.gov.uk/uksi/2023/1170), [reg. 2(a)(i)](https://www.legislation.gov.uk/uksi/2023/1170/regulation/2/a/i)
+[^c-5eab4acfd531117555da2136055da797]: Commencement: [S. 82(1)](https://www.legislation.gov.uk/ukpga/2021/30/section/82/1) in force at 3.11.2023 for specified purposes by [S.I. 2023/1170](https://www.legislation.gov.uk/uksi/2023/1170), [reg. 2(a)(i)](https://www.legislation.gov.uk/uksi/2023/1170/regulation/2/a/i)
 
-[^key-dc7a3334efe031ebe80f811fb84f1117]: Commencement: [S. 82(2)](https://www.legislation.gov.uk/ukpga/2021/30/section/82/2) in force at 3.11.2023 for specified purposes by [S.I. 2023/1170](https://www.legislation.gov.uk/uksi/2023/1170), [reg. 2(a)(ii)](https://www.legislation.gov.uk/uksi/2023/1170/regulation/2/a/ii)
+[^c-dc7a3334efe031ebe80f811fb84f1117]: Commencement: [S. 82(2)](https://www.legislation.gov.uk/ukpga/2021/30/section/82/2) in force at 3.11.2023 for specified purposes by [S.I. 2023/1170](https://www.legislation.gov.uk/uksi/2023/1170), [reg. 2(a)(ii)](https://www.legislation.gov.uk/uksi/2023/1170/regulation/2/a/ii)
 
-[^key-b3742adee4c6c31c32c29a3f8f18deea]: Commencement: [S. 82(2)](https://www.legislation.gov.uk/ukpga/2021/30/section/82/2) in force at 17.5.2024 in so far as not already in force by [S.I. 2024/639](https://www.legislation.gov.uk/uksi/2024/639), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2024/639/regulation/2/d)
+[^c-b3742adee4c6c31c32c29a3f8f18deea]: Commencement: [S. 82(2)](https://www.legislation.gov.uk/ukpga/2021/30/section/82/2) in force at 17.5.2024 in so far as not already in force by [S.I. 2024/639](https://www.legislation.gov.uk/uksi/2024/639), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2024/639/regulation/2/d)

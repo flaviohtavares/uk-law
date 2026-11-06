@@ -54,38 +54,38 @@ of 28 June 1995
 
 laying down detailed rules for implementing the system of additional import duties and fixing representative prices in the poultrymeat and egg sectors and for egg albumin, and repealing Regulation No 163/67/EEC (revoked)
 
-[^key-a38a948a3f3175ea1b87fda86ecc3a9a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a38a948a3f3175ea1b87fda86ecc3a9a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-a38a948a3f3175ea1b87fda86ecc3a9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-a38a948a3f3175ea1b87fda86ecc3a9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-a38a948a3f3175ea1b87fda86ecc3a9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-a38a948a3f3175ea1b87fda86ecc3a9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-a38a948a3f3175ea1b87fda86ecc3a9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-a38a948a3f3175ea1b87fda86ecc3a9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-a38a948a3f3175ea1b87fda86ecc3a9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-a38a948a3f3175ea1b87fda86ecc3a9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-a38a948a3f3175ea1b87fda86ecc3a9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-a38a948a3f3175ea1b87fda86ecc3a9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-a38a948a3f3175ea1b87fda86ecc3a9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-a38a948a3f3175ea1b87fda86ecc3a9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 7.**[^key-a38a948a3f3175ea1b87fda86ecc3a9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 7.**[^c-a38a948a3f3175ea1b87fda86ecc3a9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 8.**[^key-a38a948a3f3175ea1b87fda86ecc3a9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 8.**[^c-a38a948a3f3175ea1b87fda86ecc3a9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a38a948a3f3175ea1b87fda86ecc3a9a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a38a948a3f3175ea1b87fda86ecc3a9a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I[^key-a38a948a3f3175ea1b87fda86ecc3a9a]
+## ANNEX I[^c-a38a948a3f3175ea1b87fda86ecc3a9a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-a38a948a3f3175ea1b87fda86ecc3a9a]
+## ANNEX II[^c-a38a948a3f3175ea1b87fda86ecc3a9a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a38a948a3f3175ea1b87fda86ecc3a9a]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-a38a948a3f3175ea1b87fda86ecc3a9a]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

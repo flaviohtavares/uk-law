@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12AZA. Assessments under section 12A: assistance[^key-6587ba8b56fa8ae30351e422ad6d5232]
+## 12AZA. Assessments under section 12A: assistance[^c-6587ba8b56fa8ae30351e422ad6d5232]
 
 *Extent: S*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6587ba8b56fa8ae30351e422ad6d5232]: Textual amendment: [S. 12AZA](https://www.legislation.gov.uk/ukpga/1968/49/section/12AZA) inserted (1.4.2014) by [Social Care (Self-directed Support) (Scotland) Act 2013 (asp 1)](https://www.legislation.gov.uk/asp/2013/1), [ss. 17](https://www.legislation.gov.uk/asp/2013/1/section/17), [28(2)](https://www.legislation.gov.uk/asp/2013/1/section/28/2); [S.S.I. 2014/32](https://www.legislation.gov.uk/ssi/2014/32), [art. 3](https://www.legislation.gov.uk/ssi/2014/32/article/3)
+[^c-6587ba8b56fa8ae30351e422ad6d5232]: Textual amendment: [S. 12AZA](https://www.legislation.gov.uk/ukpga/1968/49/section/12AZA) inserted (1.4.2014) by [Social Care (Self-directed Support) (Scotland) Act 2013 (asp 1)](https://www.legislation.gov.uk/asp/2013/1), [ss. 17](https://www.legislation.gov.uk/asp/2013/1/section/17), [28(2)](https://www.legislation.gov.uk/asp/2013/1/section/28/2); [S.S.I. 2014/32](https://www.legislation.gov.uk/ssi/2014/32), [art. 3](https://www.legislation.gov.uk/ssi/2014/32/article/3)

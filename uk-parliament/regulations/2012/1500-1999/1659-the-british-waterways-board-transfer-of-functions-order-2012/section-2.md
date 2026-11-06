@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Transfer of statutory functions[^key-f83af4babefc4560ea9fbf631b185cd2]
+## 2. Transfer of statutory functions[^c-f83af4babefc4560ea9fbf631b185cd2]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,7 +44,7 @@ is to be read in relation to England and Wales as a reference to Canal & River T
 
 ## Annotations
 
-[^key-f83af4babefc4560ea9fbf631b185cd2]: Commencement: Art. 2 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
+[^c-f83af4babefc4560ea9fbf631b185cd2]: Commencement: Art. 2 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
 
 [^f00006]: Footnote: Local Acts with particular relevance to the British Waterways Board include the British Waterways Acts 1963 to 1995 ([1963 c. xii](https://www.legislation.gov.uk/ukla/1963/12), [1965 c. xxiii](https://www.legislation.gov.uk/ukla/1965/23), [1966 c. xiii](https://www.legislation.gov.uk/ukla/1966/13), [1971 c. xviii](https://www.legislation.gov.uk/ukla/1971/18), [1974 c. xxiii](https://www.legislation.gov.uk/ukla/1974/23), [1975 c. xxiii](https://www.legislation.gov.uk/ukla/1975/23), [1983 c. ii](https://www.legislation.gov.uk/ukla/1983/2), [1987 c. xxviii](https://www.legislation.gov.uk/ukla/1987/28), [1988 c. xxv](https://www.legislation.gov.uk/ukla/1988/25) and [1995 c. i](https://www.legislation.gov.uk/ukla/1995/1)). A number of local Acts contain provision for the protection of the British Waterways Board.
 

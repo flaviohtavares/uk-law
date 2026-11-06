@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101. Relationship between different types of development corporation[^key-4b98656c4baa523372ad54e5f5f3c28b]
+## 101. Relationship between different types of development corporation[^c-4b98656c4baa523372ad54e5f5f3c28b]
 
 *Extent: E+W*
 
@@ -61,9 +61,9 @@ summary: ''
 - (a) in subsection (2A), after “section” insert “1(3ZC) or”;
 - (b) in subsection (3C), after “order” insert “or regulations”.
 
-(6)[^key-654446bfcde87237e4c3589eac8bb94f] The Localism Act 2011 is amended as set out in subsections (7) to (9).
+(6)[^c-654446bfcde87237e4c3589eac8bb94f] The Localism Act 2011 is amended as set out in subsections (7) to (9).
 
-(7)[^key-654446bfcde87237e4c3589eac8bb94f] In section 197 (designation of Mayoral development areas)—
+(7)[^c-654446bfcde87237e4c3589eac8bb94f] In section 197 (designation of Mayoral development areas)—
 
 - (a) in subsection (1), for “any” substitute “an”;
 - (b) after subsection (2) insert—
@@ -89,9 +89,9 @@ summary: ''
   >
   > (2D) The Secretary of State may, in connection with regulations under this section, make one or more schemes for the transfer of property, rights and liabilities relating to the overlap area to the development corporation established for the purposes of the Mayoral development area (see also section 218 (transfer schemes: general provisions)).
 
-(8)[^key-654446bfcde87237e4c3589eac8bb94f] In section 218 (transfer schemes: general provisions), in the definition of “transfer scheme” in subsection (1), after “section” insert “197(2D),”.
+(8)[^c-654446bfcde87237e4c3589eac8bb94f] In section 218 (transfer schemes: general provisions), in the definition of “transfer scheme” in subsection (1), after “section” insert “197(2D),”.
 
-(9)[^key-654446bfcde87237e4c3589eac8bb94f] In section 235 (orders and regulations)—
+(9)[^c-654446bfcde87237e4c3589eac8bb94f] In section 235 (orders and regulations)—
 
 - (a) in subsection (7), after paragraph (j) insert—
 
@@ -144,6 +144,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4b98656c4baa523372ad54e5f5f3c28b]: Commencement: S. 101 not in force at Royal Assent, see [s. 118(4)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/4)
+[^c-4b98656c4baa523372ad54e5f5f3c28b]: Commencement: S. 101 not in force at Royal Assent, see [s. 118(4)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/4)
 
-[^key-654446bfcde87237e4c3589eac8bb94f]: Commencement: [S. 101(6)-(9)](https://www.legislation.gov.uk/ukpga/2025/34/section/101/6) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(e)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/e)
+[^c-654446bfcde87237e4c3589eac8bb94f]: Commencement: [S. 101(6)-(9)](https://www.legislation.gov.uk/ukpga/2025/34/section/101/6) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(e)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/e)

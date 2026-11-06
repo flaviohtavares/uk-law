@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 18. Provisional risk designation[^key-2e8c39fb0e426fa4c98d0185e0829ee4]
+## 18. Provisional risk designation[^c-2e8c39fb0e426fa4c98d0185e0829ee4]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2e8c39fb0e426fa4c98d0185e0829ee4]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2011/9/section/18) in force at 1.10.2015 by [S.S.I. 2015/314](https://www.legislation.gov.uk/ssi/2015/314), [art. 2(a)](https://www.legislation.gov.uk/ssi/2015/314/article/2/a)
+[^c-2e8c39fb0e426fa4c98d0185e0829ee4]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2011/9/section/18) in force at 1.10.2015 by [S.S.I. 2015/314](https://www.legislation.gov.uk/ssi/2015/314), [art. 2(a)](https://www.legislation.gov.uk/ssi/2015/314/article/2/a)

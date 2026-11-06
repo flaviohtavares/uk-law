@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 96. Duty of SCSWIS to consult the Mental Welfare Commission for Scotland[^key-5e21d2615f069258aafba5f22568876d][^key-22bd9288f4fb92b69594ac9cbfc19e0f]
+## 96. Duty of SCSWIS to consult the Mental Welfare Commission for Scotland[^c-5e21d2615f069258aafba5f22568876d][^c-22bd9288f4fb92b69594ac9cbfc19e0f]
 
 *Extent: S*
 
@@ -24,6 +24,6 @@ SCSWIS must, in the exercise of its functions relating to the provision of guida
 
 ## Annotations
 
-[^key-5e21d2615f069258aafba5f22568876d]: Commencement: [S. 96](https://www.legislation.gov.uk/asp/2010/8/section/96) in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-5e21d2615f069258aafba5f22568876d]: Commencement: [S. 96](https://www.legislation.gov.uk/asp/2010/8/section/96) in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
 
-[^key-22bd9288f4fb92b69594ac9cbfc19e0f]: Commencement: [S. 96](https://www.legislation.gov.uk/asp/2010/8/section/96) in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
+[^c-22bd9288f4fb92b69594ac9cbfc19e0f]: Commencement: [S. 96](https://www.legislation.gov.uk/asp/2010/8/section/96) in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)

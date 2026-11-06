@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 84. Venue and conduct of company meetings[^key-a5c257528a7895e3e6abdb95f3c6f5d4]
+## 84. Venue and conduct of company meetings[^c-a5c257528a7895e3e6abdb95f3c6f5d4]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a5c257528a7895e3e6abdb95f3c6f5d4]: Commencement: [Rule 84](https://www.legislation.gov.uk/uksi/2011/1301/rule/84) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-a5c257528a7895e3e6abdb95f3c6f5d4]: Commencement: [Rule 84](https://www.legislation.gov.uk/uksi/2011/1301/rule/84) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

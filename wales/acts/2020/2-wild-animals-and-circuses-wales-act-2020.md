@@ -42,7 +42,7 @@ An Act of the National Assembly for Wales to make it an offence to use wild anim
 
 ## Prohibition on using wild animals in travelling circuses
 
-### 1. Offence to use wild animals in travelling circuses[^key-afb1b36fa422c515b629f029c1292aeb]
+### 1. Offence to use wild animals in travelling circuses[^c-afb1b36fa422c515b629f029c1292aeb]
 
 (1) A person who is an operator of a travelling circus commits an offence if the person uses, or causes or permits another person to use, a wild animal in the travelling circus in Wales.
 
@@ -53,7 +53,7 @@ An Act of the National Assembly for Wales to make it an offence to use wild anim
 
 (3) A person guilty of an offence under subsection (1) is liable on summary conviction to a fine.
 
-### 2. Meaning of “operator”[^key-e8f36ade02b24e17a7142f0deb4b71fb]
+### 2. Meaning of “operator”[^c-e8f36ade02b24e17a7142f0deb4b71fb]
 
 In this Act, “**operator**” means—
 
@@ -61,7 +61,7 @@ In this Act, “**operator**” means—
 - (b) a person other than the owner with overall responsibility for the operation of the travelling circus, or
 - (c) if neither of the persons mentioned in paragraph (a) or (b) is present in the United Kingdom, the person in the United Kingdom responsible for the operation of the travelling circus.
 
-### 3. Meaning of “wild animal”[^key-3a7fe0074411fdf5cbe4196114810895]
+### 3. Meaning of “wild animal”[^c-3a7fe0074411fdf5cbe4196114810895]
 
 (1) In this Act, a “**wild animal**” means an animal of a kind that is not commonly domesticated in the British Islands.
 
@@ -74,7 +74,7 @@ In this Act, “**operator**” means—
 
 (4) In subsection (1), “**British Islands**” means the United Kingdom, the Channel Islands and the Isle of Man.
 
-### 4. Meaning of “travelling circus”[^key-43cf455b6fa153213a1c696017bb8ef0]
+### 4. Meaning of “travelling circus”[^c-43cf455b6fa153213a1c696017bb8ef0]
 
 (1) In this Act, a “**travelling circus**” means a circus which travels from one place to another for the purpose of providing entertainment at those places.
 
@@ -87,13 +87,13 @@ In this Act, “**operator**” means—
 
 ## Enforcement
 
-### 5. Powers of enforcement[^key-ba8f204c35ecd25dccac0cf314f790c7]
+### 5. Powers of enforcement[^c-ba8f204c35ecd25dccac0cf314f790c7]
 
 The Schedule makes provision about powers of enforcement.
 
 ## Offences by bodies corporate etc.
 
-### 6. Offences by bodies corporate etc.[^key-87cece4de573d74c67211ef747b2996f]
+### 6. Offences by bodies corporate etc.[^c-87cece4de573d74c67211ef747b2996f]
 
 (1) This section applies where an offence under section 1 is committed by—
 
@@ -119,7 +119,7 @@ The Schedule makes provision about powers of enforcement.
 - (a) a partnership within the Partnership Act 1890 (c. 39), or
 - (b) a limited partnership registered under the Limited Partnerships Act 1907 (c. 24).
 
-### 7. Proceedings: offences committed by partnerships and unincorporated associations[^key-f8cb91136f33df6caf93459d90c97065]
+### 7. Proceedings: offences committed by partnerships and unincorporated associations[^c-f8cb91136f33df6caf93459d90c97065]
 
 (1) Proceedings for an offence under section 1 alleged to have been committed by a partnership are to be brought in the name of the partnership (and not in that of any of the partners).
 
@@ -131,7 +131,7 @@ The Schedule makes provision about powers of enforcement.
 
 ## Amendments relating to licensing of circuses
 
-### 8. Amendments relating to licensing of circuses[^key-6335d7d10ee8373ed30b6d0dec383b3d]
+### 8. Amendments relating to licensing of circuses[^c-6335d7d10ee8373ed30b6d0dec383b3d]
 
 (1) Omit section 5(2) of the Dangerous Wild Animals Act 1976 (c. 38) (as amended by the Wild Animals in Circuses Act 2019 (c. 24)).
 
@@ -139,11 +139,11 @@ The Schedule makes provision about powers of enforcement.
 
 ## Application to the Crown
 
-### 9. Power of High Court to declare unlawful an act or omission of the Crown[^key-b9ac704b32601b8c720a5ef3229ce213]
+### 9. Power of High Court to declare unlawful an act or omission of the Crown[^c-b9ac704b32601b8c720a5ef3229ce213]
 
 The High Court may declare unlawful any act or omission of the Crown for which the Crown would be criminally liable under this Act were it not for section 28(3) of the Legislation (Wales) Act 2019 (anaw 4) (Acts of the Assembly do not make the Crown criminally liable).
 
-### 10. Crown land: powers of entry[^key-5975ed1525093953bdc5fd821f6ffd35]
+### 10. Crown land: powers of entry[^c-5975ed1525093953bdc5fd821f6ffd35]
 
 (1) The powers conferred by the Schedule (powers of entry etc.) may be exercised in relation to Crown land only with the consent of the appropriate authority.
 
@@ -166,7 +166,7 @@ The High Court may declare unlawful any act or omission of the Crown for which t
 
 ## General
 
-### 11. Regulations[^key-e11c347fa2aa7e9d0551b1ab6f627ce0]
+### 11. Regulations[^c-e11c347fa2aa7e9d0551b1ab6f627ce0]
 
 (1) Regulations under this Act are to be made by the Welsh Ministers.
 
@@ -177,11 +177,11 @@ The High Court may declare unlawful any act or omission of the Crown for which t
 
 (3) A statutory instrument containing regulations made under this Act may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, the National Assembly for Wales.
 
-### 12. Coming into force[^key-30cd171d0726343cfb51eb9c7f6efe98]
+### 12. Coming into force[^c-30cd171d0726343cfb51eb9c7f6efe98]
 
 This Act comes into force on 1 December 2020.
 
-### 13. Short title[^key-c7ab95ac23cbf8aeda1d7c0076c8ccd5]
+### 13. Short title[^c-c7ab95ac23cbf8aeda1d7c0076c8ccd5]
 
 The short title of this Act is the Wild Animals and Circuses (Wales) Act 2020.
 
@@ -191,7 +191,7 @@ The short title of this Act is the Wild Animals and Circuses (Wales) Act 2020.
 
 ### Interpretation
 
-**1.**[^key-e40a5d3891cf70747a5a60d6d021f069] (1) In this Schedule—
+**1.**[^c-e40a5d3891cf70747a5a60d6d021f069] (1) In this Schedule—
 
 - “**inspector**” (“***arolygydd***”) means a person appointed as an inspector for the purposes of this Act by—
   - (a) a county council or a county borough council in Wales, or
@@ -209,7 +209,7 @@ The short title of this Act is the Wild Animals and Circuses (Wales) Act 2020.
 
 ### Power to enter premises other than dwellings
 
-**2.**[^key-a70228e012086b7c63343836f5358659] (1) An inspector may enter any premises if the inspector has reasonable grounds for suspecting that—
+**2.**[^c-a70228e012086b7c63343836f5358659] (1) An inspector may enter any premises if the inspector has reasonable grounds for suspecting that—
 
 - (a) an offence under section 1 is being, has been or is about to be committed on the premises, or
 - (b) evidence an offence under section 1 is being, has been or is about to be committed may be found on the premises.
@@ -218,7 +218,7 @@ The short title of this Act is the Wild Animals and Circuses (Wales) Act 2020.
 
 ### Warrant to enter a dwelling
 
-**3.**[^key-88a1ef63921f636ff427e3a3dc402973] (1) An inspector may not enter any premises used wholly or mainly as a dwelling unless—
+**3.**[^c-88a1ef63921f636ff427e3a3dc402973] (1) An inspector may not enter any premises used wholly or mainly as a dwelling unless—
 
 - (a) the occupier of the premises or other person appearing to the inspector to be in charge of the premises consents, or
 - (b) a justice of the peace has issued a warrant, on the application of an inspector, authorising the inspector to enter the premises.
@@ -244,14 +244,14 @@ The short title of this Act is the Wild Animals and Circuses (Wales) Act 2020.
 - (a) the occupier of the premises is temporarily absent, and
 - (b) it might defeat the object of entry to wait for the occupier's return.
 
-**4.**[^key-85ad5f60a3f4825e56f3f6bd0f49530a] A warrant issued under paragraph 3—
+**4.**[^c-85ad5f60a3f4825e56f3f6bd0f49530a] A warrant issued under paragraph 3—
 
 - (a) authorises entry on one occasion;
 - (b) must be executed within 28 days beginning with the date it was issued.
 
 ### Entering premises
 
-**5.**[^key-bd7afab8e3a217d0d3681329a7e4dda5] (1) An inspector exercising a power of entry must, if asked by a person on the premises—
+**5.**[^c-bd7afab8e3a217d0d3681329a7e4dda5] (1) An inspector exercising a power of entry must, if asked by a person on the premises—
 
 - (a) show evidence of the inspector's identity, and
 - (b) outline the purpose for which the power is exercised.
@@ -266,18 +266,18 @@ The short title of this Act is the Wild Animals and Circuses (Wales) Act 2020.
 - (a) the inspector must leave a copy of the warrant in a prominent place on the premises, and
 - (b) on leaving the premises, the inspector must leave them as effectively secured against unauthorised entry as when the inspector found them.
 
-**6.**[^key-c01a5f7f9b3c513c63de6a6fe92671e1] An inspector exercising a power of entry must do so at a reasonable hour unless it appears to the inspector that the purpose of entry would be frustrated by entry at a reasonable hour.
+**6.**[^c-c01a5f7f9b3c513c63de6a6fe92671e1] An inspector exercising a power of entry must do so at a reasonable hour unless it appears to the inspector that the purpose of entry would be frustrated by entry at a reasonable hour.
 
-**7.**[^key-970b0bb89e4e4b5c0cc1896e0e7aa6e8] An inspector exercising a power of entry may use reasonable force to enter the premises if necessary.
+**7.**[^c-970b0bb89e4e4b5c0cc1896e0e7aa6e8] An inspector exercising a power of entry may use reasonable force to enter the premises if necessary.
 
-**8.**[^key-7ed7f5869cae3007c556166b586fc01e] An inspector exercising a power of entry may take—
+**8.**[^c-7ed7f5869cae3007c556166b586fc01e] An inspector exercising a power of entry may take—
 
 - (a) such other persons onto the premises as appear to the inspector to be appropriate, and
 - (b) such equipment and materials onto the premises as appear to the inspector to be appropriate.
 
 ### Powers of inspection etc.
 
-**9.**[^key-b6ced6c4b4a4bad8cd3a4d5e3576eeb7] An inspector exercising a power of entry may—
+**9.**[^c-b6ced6c4b4a4bad8cd3a4d5e3576eeb7] An inspector exercising a power of entry may—
 
 - (a) search the premises;
 - (b) examine, measure or test anything that is found on the premises, including an animal;
@@ -291,11 +291,11 @@ The short title of this Act is the Wild Animals and Circuses (Wales) Act 2020.
 - (j) require information which is stored in an electronic form and is accessible from the premises to be produced in a form in which it can be taken away and in which it is visible and legible or from which it can readily be produced in a visible and legible form;
 - (k) seize any item, except an animal, that is found on the premises and which the inspector reasonably believes to be evidence of the commission of an offence under section 1.
 
-**10.**[^key-165a328816ee91ebadaa8f4285f1a23f] A person taken onto the premises under paragraph 8(a) may exercise any power conferred on an inspector by paragraph 9 if the person is under the supervision of the inspector.
+**10.**[^c-165a328816ee91ebadaa8f4285f1a23f] A person taken onto the premises under paragraph 8(a) may exercise any power conferred on an inspector by paragraph 9 if the person is under the supervision of the inspector.
 
 ### Power of seizure: supplementary
 
-**11.**[^key-6e1ce85522b791fabbcf18bfec523e59] (1) Any item seized under paragraph 9(k) may be retained for so long as is necessary.
+**11.**[^c-6e1ce85522b791fabbcf18bfec523e59] (1) Any item seized under paragraph 9(k) may be retained for so long as is necessary.
 
 (2) A person who seizes anything under paragraph 9(k) must—
 
@@ -306,7 +306,7 @@ The short title of this Act is the Wild Animals and Circuses (Wales) Act 2020.
 
 ### Obstruction etc.
 
-**12.**[^key-e74e80e49cc32d2bcfefc9299b28de4e] (1) A person commits an offence if—
+**12.**[^c-e74e80e49cc32d2bcfefc9299b28de4e] (1) A person commits an offence if—
 
 - (a) the person fails without reasonable excuse to comply with a requirement for assistance reasonably made under paragraph 9(d);
 - (b) the person intentionally obstructs another in the exercise of a function under this Schedule.
@@ -315,60 +315,60 @@ The short title of this Act is the Wild Animals and Circuses (Wales) Act 2020.
 
 ### Liability of inspectors
 
-**13.**[^key-a4a26383bfb12bec12f4a3fa235a7ff9] (1) An inspector is not liable in any civil or criminal proceedings for anything done in the purported performance of the inspector's functions under this Schedule if the court is satisfied that the act was done in good faith and that there were reasonable grounds for doing it.
+**13.**[^c-a4a26383bfb12bec12f4a3fa235a7ff9] (1) An inspector is not liable in any civil or criminal proceedings for anything done in the purported performance of the inspector's functions under this Schedule if the court is satisfied that the act was done in good faith and that there were reasonable grounds for doing it.
 
 (2) Sub-paragraph (1) applies to any person taken onto premises by an inspector under paragraph 8(a) as it applies to an inspector if the person is under the supervision of the inspector.
 
 ## Annotations
 
-[^key-afb1b36fa422c515b629f029c1292aeb]: Commencement: [S. 1](https://www.legislation.gov.uk/asc/2020/2/section/1) in force at 1.12.2020, see [s. 12](https://www.legislation.gov.uk/asc/2020/2/section/12)
+[^c-afb1b36fa422c515b629f029c1292aeb]: Commencement: [S. 1](https://www.legislation.gov.uk/asc/2020/2/section/1) in force at 1.12.2020, see [s. 12](https://www.legislation.gov.uk/asc/2020/2/section/12)
 
-[^key-e8f36ade02b24e17a7142f0deb4b71fb]: Commencement: [S. 2](https://www.legislation.gov.uk/asc/2020/2/section/2) in force at 1.12.2020, see [s. 12](https://www.legislation.gov.uk/asc/2020/2/section/12)
+[^c-e8f36ade02b24e17a7142f0deb4b71fb]: Commencement: [S. 2](https://www.legislation.gov.uk/asc/2020/2/section/2) in force at 1.12.2020, see [s. 12](https://www.legislation.gov.uk/asc/2020/2/section/12)
 
-[^key-3a7fe0074411fdf5cbe4196114810895]: Commencement: [S. 3](https://www.legislation.gov.uk/asc/2020/2/section/3) in force at 1.12.2020, see [s. 12](https://www.legislation.gov.uk/asc/2020/2/section/12)
+[^c-3a7fe0074411fdf5cbe4196114810895]: Commencement: [S. 3](https://www.legislation.gov.uk/asc/2020/2/section/3) in force at 1.12.2020, see [s. 12](https://www.legislation.gov.uk/asc/2020/2/section/12)
 
-[^key-43cf455b6fa153213a1c696017bb8ef0]: Commencement: [S. 4](https://www.legislation.gov.uk/asc/2020/2/section/4) in force at 1.12.2020, see [s. 12](https://www.legislation.gov.uk/asc/2020/2/section/12)
+[^c-43cf455b6fa153213a1c696017bb8ef0]: Commencement: [S. 4](https://www.legislation.gov.uk/asc/2020/2/section/4) in force at 1.12.2020, see [s. 12](https://www.legislation.gov.uk/asc/2020/2/section/12)
 
-[^key-ba8f204c35ecd25dccac0cf314f790c7]: Commencement: [S. 5](https://www.legislation.gov.uk/asc/2020/2/section/5) in force at 1.12.2020, see [s. 12](https://www.legislation.gov.uk/asc/2020/2/section/12)
+[^c-ba8f204c35ecd25dccac0cf314f790c7]: Commencement: [S. 5](https://www.legislation.gov.uk/asc/2020/2/section/5) in force at 1.12.2020, see [s. 12](https://www.legislation.gov.uk/asc/2020/2/section/12)
 
-[^key-87cece4de573d74c67211ef747b2996f]: Commencement: [S. 6](https://www.legislation.gov.uk/asc/2020/2/section/6) in force at 1.12.2020, see [s. 12](https://www.legislation.gov.uk/asc/2020/2/section/12)
+[^c-87cece4de573d74c67211ef747b2996f]: Commencement: [S. 6](https://www.legislation.gov.uk/asc/2020/2/section/6) in force at 1.12.2020, see [s. 12](https://www.legislation.gov.uk/asc/2020/2/section/12)
 
-[^key-f8cb91136f33df6caf93459d90c97065]: Commencement: [S. 7](https://www.legislation.gov.uk/asc/2020/2/section/7) in force at 1.12.2020, see [s. 12](https://www.legislation.gov.uk/asc/2020/2/section/12)
+[^c-f8cb91136f33df6caf93459d90c97065]: Commencement: [S. 7](https://www.legislation.gov.uk/asc/2020/2/section/7) in force at 1.12.2020, see [s. 12](https://www.legislation.gov.uk/asc/2020/2/section/12)
 
-[^key-6335d7d10ee8373ed30b6d0dec383b3d]: Commencement: [S. 8](https://www.legislation.gov.uk/asc/2020/2/section/8) in force at 1.12.2020, see [s. 12](https://www.legislation.gov.uk/asc/2020/2/section/12)
+[^c-6335d7d10ee8373ed30b6d0dec383b3d]: Commencement: [S. 8](https://www.legislation.gov.uk/asc/2020/2/section/8) in force at 1.12.2020, see [s. 12](https://www.legislation.gov.uk/asc/2020/2/section/12)
 
-[^key-b9ac704b32601b8c720a5ef3229ce213]: Commencement: [S. 9](https://www.legislation.gov.uk/asc/2020/2/section/9) in force at 1.12.2020, see [s. 12](https://www.legislation.gov.uk/asc/2020/2/section/12)
+[^c-b9ac704b32601b8c720a5ef3229ce213]: Commencement: [S. 9](https://www.legislation.gov.uk/asc/2020/2/section/9) in force at 1.12.2020, see [s. 12](https://www.legislation.gov.uk/asc/2020/2/section/12)
 
-[^key-5975ed1525093953bdc5fd821f6ffd35]: Commencement: [S. 10](https://www.legislation.gov.uk/asc/2020/2/section/10) in force at 1.12.2020, see [s. 12](https://www.legislation.gov.uk/asc/2020/2/section/12)
+[^c-5975ed1525093953bdc5fd821f6ffd35]: Commencement: [S. 10](https://www.legislation.gov.uk/asc/2020/2/section/10) in force at 1.12.2020, see [s. 12](https://www.legislation.gov.uk/asc/2020/2/section/12)
 
-[^key-e11c347fa2aa7e9d0551b1ab6f627ce0]: Commencement: [S. 11](https://www.legislation.gov.uk/asc/2020/2/section/11) in force at 1.12.2020, see [s. 12](https://www.legislation.gov.uk/asc/2020/2/section/12)
+[^c-e11c347fa2aa7e9d0551b1ab6f627ce0]: Commencement: [S. 11](https://www.legislation.gov.uk/asc/2020/2/section/11) in force at 1.12.2020, see [s. 12](https://www.legislation.gov.uk/asc/2020/2/section/12)
 
-[^key-30cd171d0726343cfb51eb9c7f6efe98]: Commencement: [S. 12](https://www.legislation.gov.uk/asc/2020/2/section/12) in force at 1.12.2020, see [s. 12](https://www.legislation.gov.uk/asc/2020/2/section/12)
+[^c-30cd171d0726343cfb51eb9c7f6efe98]: Commencement: [S. 12](https://www.legislation.gov.uk/asc/2020/2/section/12) in force at 1.12.2020, see [s. 12](https://www.legislation.gov.uk/asc/2020/2/section/12)
 
-[^key-c7ab95ac23cbf8aeda1d7c0076c8ccd5]: Commencement: [S. 13](https://www.legislation.gov.uk/asc/2020/2/section/13) in force at 1.12.2020, see [s. 12](https://www.legislation.gov.uk/asc/2020/2/section/12)
+[^c-c7ab95ac23cbf8aeda1d7c0076c8ccd5]: Commencement: [S. 13](https://www.legislation.gov.uk/asc/2020/2/section/13) in force at 1.12.2020, see [s. 12](https://www.legislation.gov.uk/asc/2020/2/section/12)
 
-[^key-e40a5d3891cf70747a5a60d6d021f069]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/asc/2020/2/schedule/paragraph/1) in force at 1.12.2020, see [s. 12](https://www.legislation.gov.uk/asc/2020/2/section/12)
+[^c-e40a5d3891cf70747a5a60d6d021f069]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/asc/2020/2/schedule/paragraph/1) in force at 1.12.2020, see [s. 12](https://www.legislation.gov.uk/asc/2020/2/section/12)
 
-[^key-a70228e012086b7c63343836f5358659]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/asc/2020/2/schedule/paragraph/2) in force at 1.12.2020, see [s. 12](https://www.legislation.gov.uk/asc/2020/2/section/12)
+[^c-a70228e012086b7c63343836f5358659]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/asc/2020/2/schedule/paragraph/2) in force at 1.12.2020, see [s. 12](https://www.legislation.gov.uk/asc/2020/2/section/12)
 
-[^key-88a1ef63921f636ff427e3a3dc402973]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/asc/2020/2/schedule/paragraph/3) in force at 1.12.2020, see [s. 12](https://www.legislation.gov.uk/asc/2020/2/section/12)
+[^c-88a1ef63921f636ff427e3a3dc402973]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/asc/2020/2/schedule/paragraph/3) in force at 1.12.2020, see [s. 12](https://www.legislation.gov.uk/asc/2020/2/section/12)
 
-[^key-85ad5f60a3f4825e56f3f6bd0f49530a]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/asc/2020/2/schedule/paragraph/4) in force at 1.12.2020, see [s. 12](https://www.legislation.gov.uk/asc/2020/2/section/12)
+[^c-85ad5f60a3f4825e56f3f6bd0f49530a]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/asc/2020/2/schedule/paragraph/4) in force at 1.12.2020, see [s. 12](https://www.legislation.gov.uk/asc/2020/2/section/12)
 
-[^key-bd7afab8e3a217d0d3681329a7e4dda5]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/asc/2020/2/schedule/paragraph/5) in force at 1.12.2020, see [s. 12](https://www.legislation.gov.uk/asc/2020/2/section/12)
+[^c-bd7afab8e3a217d0d3681329a7e4dda5]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/asc/2020/2/schedule/paragraph/5) in force at 1.12.2020, see [s. 12](https://www.legislation.gov.uk/asc/2020/2/section/12)
 
-[^key-c01a5f7f9b3c513c63de6a6fe92671e1]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/asc/2020/2/schedule/paragraph/6) in force at 1.12.2020, see [s. 12](https://www.legislation.gov.uk/asc/2020/2/section/12)
+[^c-c01a5f7f9b3c513c63de6a6fe92671e1]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/asc/2020/2/schedule/paragraph/6) in force at 1.12.2020, see [s. 12](https://www.legislation.gov.uk/asc/2020/2/section/12)
 
-[^key-970b0bb89e4e4b5c0cc1896e0e7aa6e8]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/asc/2020/2/schedule/paragraph/7) in force at 1.12.2020, see [s. 12](https://www.legislation.gov.uk/asc/2020/2/section/12)
+[^c-970b0bb89e4e4b5c0cc1896e0e7aa6e8]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/asc/2020/2/schedule/paragraph/7) in force at 1.12.2020, see [s. 12](https://www.legislation.gov.uk/asc/2020/2/section/12)
 
-[^key-7ed7f5869cae3007c556166b586fc01e]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/asc/2020/2/schedule/paragraph/8) in force at 1.12.2020, see [s. 12](https://www.legislation.gov.uk/asc/2020/2/section/12)
+[^c-7ed7f5869cae3007c556166b586fc01e]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/asc/2020/2/schedule/paragraph/8) in force at 1.12.2020, see [s. 12](https://www.legislation.gov.uk/asc/2020/2/section/12)
 
-[^key-b6ced6c4b4a4bad8cd3a4d5e3576eeb7]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/asc/2020/2/schedule/paragraph/9) in force at 1.12.2020, see [s. 12](https://www.legislation.gov.uk/asc/2020/2/section/12)
+[^c-b6ced6c4b4a4bad8cd3a4d5e3576eeb7]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/asc/2020/2/schedule/paragraph/9) in force at 1.12.2020, see [s. 12](https://www.legislation.gov.uk/asc/2020/2/section/12)
 
-[^key-165a328816ee91ebadaa8f4285f1a23f]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/asc/2020/2/schedule/paragraph/10) in force at 1.12.2020, see [s. 12](https://www.legislation.gov.uk/asc/2020/2/section/12)
+[^c-165a328816ee91ebadaa8f4285f1a23f]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/asc/2020/2/schedule/paragraph/10) in force at 1.12.2020, see [s. 12](https://www.legislation.gov.uk/asc/2020/2/section/12)
 
-[^key-6e1ce85522b791fabbcf18bfec523e59]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/asc/2020/2/schedule/paragraph/11) in force at 1.12.2020, see [s. 12](https://www.legislation.gov.uk/asc/2020/2/section/12)
+[^c-6e1ce85522b791fabbcf18bfec523e59]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/asc/2020/2/schedule/paragraph/11) in force at 1.12.2020, see [s. 12](https://www.legislation.gov.uk/asc/2020/2/section/12)
 
-[^key-e74e80e49cc32d2bcfefc9299b28de4e]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/asc/2020/2/schedule/paragraph/12) in force at 1.12.2020, see [s. 12](https://www.legislation.gov.uk/asc/2020/2/section/12)
+[^c-e74e80e49cc32d2bcfefc9299b28de4e]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/asc/2020/2/schedule/paragraph/12) in force at 1.12.2020, see [s. 12](https://www.legislation.gov.uk/asc/2020/2/section/12)
 
-[^key-a4a26383bfb12bec12f4a3fa235a7ff9]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/asc/2020/2/schedule/paragraph/13) in force at 1.12.2020, see [s. 12](https://www.legislation.gov.uk/asc/2020/2/section/12)
+[^c-a4a26383bfb12bec12f4a3fa235a7ff9]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/asc/2020/2/schedule/paragraph/13) in force at 1.12.2020, see [s. 12](https://www.legislation.gov.uk/asc/2020/2/section/12)

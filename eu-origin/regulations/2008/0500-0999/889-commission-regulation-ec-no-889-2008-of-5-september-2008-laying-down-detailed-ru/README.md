@@ -48,7 +48,7 @@ of 5 September 2008
 
 laying down detailed rules for the implementation of Council Regulation (EC) No 834/2007 on organic production and labelling of organic products with regard to organic production, labelling and control
 
-[^key-51b11353f493d620d6313131e3ec587d]
+[^c-51b11353f493d620d6313131e3ec587d]
 
 THE COMMISSION OF THE EUROPEAN COMMUNITIES,
 
@@ -462,7 +462,7 @@ HAS ADOPTED THIS REGULATION:
 
 *Extent: E+W+S+N.I.*
 
-#### CHAPTER 1 — Organic production logo ...[^c000006][^key-683f7f6909d7cf0e0edc7b84a9a8fadc]
+#### CHAPTER 1 — Organic production logo ...[^c000006][^c-683f7f6909d7cf0e0edc7b84a9a8fadc]
 
 *Extent: E+W+S+N.I.*
 
@@ -584,18 +584,18 @@ HAS ADOPTED THIS REGULATION:
 - [Section Article 92e — Annual inspection of control bodies](section-article-92e.md)
 - [Section Article 92f — Organic data in the multi-annual national control plan and annual report](section-article-92f.md)
 
-### TITLE V — ...TRANSITIONAL AND FINAL PROVISIONS[^key-771c21f9bf4323e3978e72d701f911ce]
+### TITLE V — ...TRANSITIONAL AND FINAL PROVISIONS[^c-771c21f9bf4323e3978e72d701f911ce]
 
 *Extent: E+W+S+N.I.*
 
-#### ... — ...[^key-101ca283d8273d6a743570e998c4ed4b][^key-2aa8411a1708fa87048d6b8d7474bc26]
+#### ... — ...[^c-101ca283d8273d6a743570e998c4ed4b][^c-2aa8411a1708fa87048d6b8d7474bc26]
 
 *Extent: E+W+S+N.I.*
 
 - [Section Article 93 — Statistical information](section-article-93.md)
 - [Section Article 94 — Other information](section-article-94.md)
 
-#### ... — ...[^key-0d752227c7d96aa30928f435fa1bc19e][^key-4be7f6a77331e82f48ec747a35c6e3c4]
+#### ... — ...[^c-0d752227c7d96aa30928f435fa1bc19e][^c-4be7f6a77331e82f48ec747a35c6e3c4]
 
 *Extent: E+W+S+N.I.*
 
@@ -626,11 +626,11 @@ HAS ADOPTED THIS REGULATION:
 
 *Extent: E+W+S+N.I.*
 
-[^key-aff70e2c2cb97f4ab50ee433ec9875c0]...
+[^c-aff70e2c2cb97f4ab50ee433ec9875c0]...
 
 ## Annotations
 
-[^key-51b11353f493d620d6313131e3ec587d]: Modification: Regulation applied (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2023/959/regulation/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2023/959/schedule/3) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
+[^c-51b11353f493d620d6313131e3ec587d]: Modification: Regulation applied (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2023/959/regulation/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2023/959/schedule/3) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
 
 [^f00001]: Footnote: [OJ L 189, 20.7.2007, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2007.189.01.0001.01.ENG).
 
@@ -654,20 +654,20 @@ HAS ADOPTED THIS REGULATION:
 
 [^c000006]: Textual amendment: Substituted by [Commission Regulation (EU) No 271/2010 of 24 March 2010 amending Regulation (EC) No 889/2008 laying down detailed rules for the implementation of Council Regulation (EC) No 834/2007, as regards the organic production logo of the European Union](https://www.legislation.gov.uk/eur/2010/271).
 
-[^key-683f7f6909d7cf0e0edc7b84a9a8fadc]: Textual amendment: Words in [Title 3 Ch. 1](https://www.legislation.gov.uk/eur/2008/889/title/III/chapter/1) heading omitted (31.12.2020) by virtue of [The Organic Production and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/693)](https://www.legislation.gov.uk/uksi/2019/693), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/693/regulation/1/2), [3(34)](https://www.legislation.gov.uk/uksi/2019/693/regulation/3/34); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-683f7f6909d7cf0e0edc7b84a9a8fadc]: Textual amendment: Words in [Title 3 Ch. 1](https://www.legislation.gov.uk/eur/2008/889/title/III/chapter/1) heading omitted (31.12.2020) by virtue of [The Organic Production and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/693)](https://www.legislation.gov.uk/uksi/2019/693), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/693/regulation/1/2), [3(34)](https://www.legislation.gov.uk/uksi/2019/693/regulation/3/34); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000007]: Textual amendment: Substituted by [Commission Regulation (EC) No 710/2009 of 5 August 2009 amending Regulation (EC) No 889/2008 laying down detailed rules for the implementation of Council Regulation (EC) No 834/2007, as regards laying down detailed rules on organic aquaculture animal and seaweed production](https://www.legislation.gov.uk/eur/2009/710).
 
 [^c000008]: Textual amendment: Inserted by [Commission Implementing Regulation (EU) No 392/2013 of 29 April 2013 amending Regulation (EC) No 889/2008 as regards the control system for organic production](https://www.legislation.gov.uk/eur/2013/392).
 
-[^key-771c21f9bf4323e3978e72d701f911ce]: Textual amendment: Words in [Title 5](https://www.legislation.gov.uk/eur/2008/889/title/V) heading omitted (31.12.2020) by virtue of [The Organic Production and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/693)](https://www.legislation.gov.uk/uksi/2019/693), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/693/regulation/1/2), [3(48)](https://www.legislation.gov.uk/uksi/2019/693/regulation/3/48); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-771c21f9bf4323e3978e72d701f911ce]: Textual amendment: Words in [Title 5](https://www.legislation.gov.uk/eur/2008/889/title/V) heading omitted (31.12.2020) by virtue of [The Organic Production and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/693)](https://www.legislation.gov.uk/uksi/2019/693), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/693/regulation/1/2), [3(48)](https://www.legislation.gov.uk/uksi/2019/693/regulation/3/48); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-101ca283d8273d6a743570e998c4ed4b]: Textual amendment: [Title 5 Ch. 1](https://www.legislation.gov.uk/eur/2008/889/title/V/chapter/1) title omitted (31.12.2020) by virtue of [The Organic Production and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/693)](https://www.legislation.gov.uk/uksi/2019/693), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/693/regulation/1/2), [3(49)](https://www.legislation.gov.uk/uksi/2019/693/regulation/3/49); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-101ca283d8273d6a743570e998c4ed4b]: Textual amendment: [Title 5 Ch. 1](https://www.legislation.gov.uk/eur/2008/889/title/V/chapter/1) title omitted (31.12.2020) by virtue of [The Organic Production and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/693)](https://www.legislation.gov.uk/uksi/2019/693), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/693/regulation/1/2), [3(49)](https://www.legislation.gov.uk/uksi/2019/693/regulation/3/49); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2aa8411a1708fa87048d6b8d7474bc26]: Textual amendment: [Title 5 Ch. 1](https://www.legislation.gov.uk/eur/2008/889/title/V/chapter/1) heading omitted (31.12.2020) by virtue of [The Organic Production and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/693)](https://www.legislation.gov.uk/uksi/2019/693), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/693/regulation/1/2), [3(49)](https://www.legislation.gov.uk/uksi/2019/693/regulation/3/49); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2aa8411a1708fa87048d6b8d7474bc26]: Textual amendment: [Title 5 Ch. 1](https://www.legislation.gov.uk/eur/2008/889/title/V/chapter/1) heading omitted (31.12.2020) by virtue of [The Organic Production and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/693)](https://www.legislation.gov.uk/uksi/2019/693), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/693/regulation/1/2), [3(49)](https://www.legislation.gov.uk/uksi/2019/693/regulation/3/49); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0d752227c7d96aa30928f435fa1bc19e]: Textual amendment: [Title 5 Ch. 2](https://www.legislation.gov.uk/eur/2008/889/title/V/chapter/2) title omitted (31.12.2020) by virtue of [The Organic Production and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/693)](https://www.legislation.gov.uk/uksi/2019/693), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/693/regulation/1/2), [3(51)](https://www.legislation.gov.uk/uksi/2019/693/regulation/3/51); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0d752227c7d96aa30928f435fa1bc19e]: Textual amendment: [Title 5 Ch. 2](https://www.legislation.gov.uk/eur/2008/889/title/V/chapter/2) title omitted (31.12.2020) by virtue of [The Organic Production and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/693)](https://www.legislation.gov.uk/uksi/2019/693), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/693/regulation/1/2), [3(51)](https://www.legislation.gov.uk/uksi/2019/693/regulation/3/51); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4be7f6a77331e82f48ec747a35c6e3c4]: Textual amendment: [Title 5 Ch. 2](https://www.legislation.gov.uk/eur/2008/889/title/V/chapter/2) heading omitted (31.12.2020) by virtue of [The Organic Production and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/693)](https://www.legislation.gov.uk/uksi/2019/693), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/693/regulation/1/2), [3(51)](https://www.legislation.gov.uk/uksi/2019/693/regulation/3/51); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4be7f6a77331e82f48ec747a35c6e3c4]: Textual amendment: [Title 5 Ch. 2](https://www.legislation.gov.uk/eur/2008/889/title/V/chapter/2) heading omitted (31.12.2020) by virtue of [The Organic Production and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/693)](https://www.legislation.gov.uk/uksi/2019/693), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/693/regulation/1/2), [3(51)](https://www.legislation.gov.uk/uksi/2019/693/regulation/3/51); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-aff70e2c2cb97f4ab50ee433ec9875c0]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2008/889/signature) omitted (31.12.2020) by virtue of [The Organic Production and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/693)](https://www.legislation.gov.uk/uksi/2019/693), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/693/regulation/1/2), [3(54)](https://www.legislation.gov.uk/uksi/2019/693/regulation/3/54); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-aff70e2c2cb97f4ab50ee433ec9875c0]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2008/889/signature) omitted (31.12.2020) by virtue of [The Organic Production and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/693)](https://www.legislation.gov.uk/uksi/2019/693), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/693/regulation/1/2), [3(54)](https://www.legislation.gov.uk/uksi/2019/693/regulation/3/54); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -20,12 +20,12 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-70fcd0852f3a0ede29f7e40b6e86ec7c] In section 20 of the 1987 Act (persons to have priority on housing list and allocation of housing)—
+(1)[^c-70fcd0852f3a0ede29f7e40b6e86ec7c] In section 20 of the 1987 Act (persons to have priority on housing list and allocation of housing)—
 
 - (a) in subsection (2)(a)(iii), at the beginning insert “ except to the extent permitted by section 20B, ”, and
 - (b) in subsection (2)(b)(i), at the beginning insert “ except to the extent permitted by section 20B, ”.
 
-(2)[^key-28f0c54911e26fb2fd286d6588754c20][^key-3a9184a3cbd48167fd1ce4e04b863449] After section 20A of the 1987 Act (inserted by section 4(1)), insert—
+(2)[^c-28f0c54911e26fb2fd286d6588754c20][^c-3a9184a3cbd48167fd1ce4e04b863449] After section 20A of the 1987 Act (inserted by section 4(1)), insert—
 
 > **20B. Determination of minimum period for application to remain in force**
 >
@@ -95,8 +95,8 @@ summary: ''
 
 ## Annotations
 
-[^key-70fcd0852f3a0ede29f7e40b6e86ec7c]: Commencement: [S. 6(1)](https://www.legislation.gov.uk/asp/2014/14/section/6/1) in force at 1.5.2019 by [S.S.I. 2018/153](https://www.legislation.gov.uk/ssi/2018/153), [art. 2](https://www.legislation.gov.uk/ssi/2018/153/article/2), [sch.](https://www.legislation.gov.uk/ssi/2018/153/schedule) (with [art. 9](https://www.legislation.gov.uk/ssi/2018/153/article/9))
+[^c-70fcd0852f3a0ede29f7e40b6e86ec7c]: Commencement: [S. 6(1)](https://www.legislation.gov.uk/asp/2014/14/section/6/1) in force at 1.5.2019 by [S.S.I. 2018/153](https://www.legislation.gov.uk/ssi/2018/153), [art. 2](https://www.legislation.gov.uk/ssi/2018/153/article/2), [sch.](https://www.legislation.gov.uk/ssi/2018/153/schedule) (with [art. 9](https://www.legislation.gov.uk/ssi/2018/153/article/9))
 
-[^key-28f0c54911e26fb2fd286d6588754c20]: Commencement: [S. 6(2)](https://www.legislation.gov.uk/asp/2014/14/section/6/2) in force at 20.11.2014 for specified purposes by [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule)
+[^c-28f0c54911e26fb2fd286d6588754c20]: Commencement: [S. 6(2)](https://www.legislation.gov.uk/asp/2014/14/section/6/2) in force at 20.11.2014 for specified purposes by [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule)
 
-[^key-3a9184a3cbd48167fd1ce4e04b863449]: Commencement: [S. 6(2)](https://www.legislation.gov.uk/asp/2014/14/section/6/2) in force at 1.5.2019 in so far as not already in force by [S.S.I. 2018/153](https://www.legislation.gov.uk/ssi/2018/153), [art. 2](https://www.legislation.gov.uk/ssi/2018/153/article/2), [sch.](https://www.legislation.gov.uk/ssi/2018/153/schedule) (with [art. 9](https://www.legislation.gov.uk/ssi/2018/153/article/9))
+[^c-3a9184a3cbd48167fd1ce4e04b863449]: Commencement: [S. 6(2)](https://www.legislation.gov.uk/asp/2014/14/section/6/2) in force at 1.5.2019 in so far as not already in force by [S.S.I. 2018/153](https://www.legislation.gov.uk/ssi/2018/153), [art. 2](https://www.legislation.gov.uk/ssi/2018/153/article/2), [sch.](https://www.legislation.gov.uk/ssi/2018/153/schedule) (with [art. 9](https://www.legislation.gov.uk/ssi/2018/153/article/9))

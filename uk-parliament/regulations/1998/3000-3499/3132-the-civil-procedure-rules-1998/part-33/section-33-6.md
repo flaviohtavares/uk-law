@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33.6. Use of plans, photographs and models as evidence[^key-59401884dbc323016b5d4c60d588a118]
+## 33.6. Use of plans, photographs and models as evidence[^c-59401884dbc323016b5d4c60d588a118]
 
 *Extent: E+W*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-59401884dbc323016b5d4c60d588a118]: Commencement: [Rule 33.6](https://www.legislation.gov.uk/uksi/1998/3132/rule/33.6) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-59401884dbc323016b5d4c60d588a118]: Commencement: [Rule 33.6](https://www.legislation.gov.uk/uksi/1998/3132/rule/33.6) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
 
 [^f00040]: Footnote: Section 9 of the Civil Evidence Act 1995 provides that documents that form part of the records of a business or public authority, as defined in that section, may be received in evidence without further proof.

@@ -20,13 +20,13 @@ summary: ''
 
 *Extent: E+W*
 
-(1) This regulation provides for the application of regulations 2.D.5 and 2.D.6 if a person is an active member or[^key-16431b1eb05ab056fda08de881eb53d1] of the 2015 Scheme[^key-23b702edc8dd9b77b870349152bbd761] in two or more part-time employments held concurrently on the option day.
+(1) This regulation provides for the application of regulations 2.D.5 and 2.D.6 if a person is an active member or[^c-16431b1eb05ab056fda08de881eb53d1] of the 2015 Scheme[^c-23b702edc8dd9b77b870349152bbd761] in two or more part-time employments held concurrently on the option day.
 
 (2) Those regulations apply in relation to each of the employments as if it were the only employment held by the member on that day, but subject to the following modifications.
 
 (3) In regulation 2.D.5(1) for sub-paragraph (d) substitute—
 
-> - (d) as a result of that change the sum of the annual rate of the member’s pensionable pay in that employment and every other employment held by the member on the option day is reduced (disregarding any reduction in pensionable pay resulting from the member entering into a salary sacrifice arrangement)[^key-5118a83bafc6bc8ba937ccbbe5538bce] to 90% or less of the sum of—
+> - (d) as a result of that change the sum of the annual rate of the member’s pensionable pay in that employment and every other employment held by the member on the option day is reduced (disregarding any reduction in pensionable pay resulting from the member entering into a salary sacrifice arrangement)[^c-5118a83bafc6bc8ba937ccbbe5538bce] to 90% or less of the sum of—
 >   - (i) the member’s pensionable pay in the employment during the period of 12 months ending with the option day, and
 >   - (ii) the member’s pensionable pay during that period in every other employment held by the member on the option day.
 
@@ -37,7 +37,7 @@ summary: ''
 
 (5) In regulation 2.D.6(1) for sub-paragraph (b) substitute—
 
-> - (b) as a result the annual rate of the member’s pensionable pay in that employment is increased (disregarding any increase in pensionable pay resulting from the member ending a salary sacrifice arrangement)[^key-b35b835643147105e05b48d8f8e39f2b] to more than 90% of the sum of—
+> - (b) as a result the annual rate of the member’s pensionable pay in that employment is increased (disregarding any increase in pensionable pay resulting from the member ending a salary sacrifice arrangement)[^c-b35b835643147105e05b48d8f8e39f2b] to more than 90% of the sum of—
 >   - (i) the member’s pensionable pay in the employment during the period of 12 months ending with the option day, and
 >   - (ii) the member’s pensionable pay during that period in every other employment held by the member on the option day.
 
@@ -69,10 +69,10 @@ the pension will (in any event) be payable by the Secretary of State when the me
 
 ## Annotations
 
-[^key-16431b1eb05ab056fda08de881eb53d1]: Textual amendment: Words in [reg. 2.D.7(1)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.D.7/1) inserted (1.4.2009) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2009 (S.I. 2009/381)](https://www.legislation.gov.uk/uksi/2009/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/2), [27](https://www.legislation.gov.uk/uksi/2009/381/regulation/27) (with [reg. 89](https://www.legislation.gov.uk/uksi/2009/381/regulation/89))
+[^c-16431b1eb05ab056fda08de881eb53d1]: Textual amendment: Words in [reg. 2.D.7(1)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.D.7/1) inserted (1.4.2009) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2009 (S.I. 2009/381)](https://www.legislation.gov.uk/uksi/2009/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/2), [27](https://www.legislation.gov.uk/uksi/2009/381/regulation/27) (with [reg. 89](https://www.legislation.gov.uk/uksi/2009/381/regulation/89))
 
-[^key-23b702edc8dd9b77b870349152bbd761]: Textual amendment: Words in [reg. 2.D.7(1)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.D.7/1) substituted (1.4.2024) by [The National Health Service Pension Schemes (Amendment) Regulations 2024 (S.I. 2024/281)](https://www.legislation.gov.uk/uksi/2024/281), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/281/regulation/1/2), [14(2)](https://www.legislation.gov.uk/uksi/2024/281/regulation/14/2)
+[^c-23b702edc8dd9b77b870349152bbd761]: Textual amendment: Words in [reg. 2.D.7(1)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.D.7/1) substituted (1.4.2024) by [The National Health Service Pension Schemes (Amendment) Regulations 2024 (S.I. 2024/281)](https://www.legislation.gov.uk/uksi/2024/281), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/281/regulation/1/2), [14(2)](https://www.legislation.gov.uk/uksi/2024/281/regulation/14/2)
 
-[^key-5118a83bafc6bc8ba937ccbbe5538bce]: Textual amendment: Words in [reg. 2.D.7(3)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.D.7/3) inserted (1.4.2024) by [The National Health Service Pension Schemes (Amendment) Regulations 2024 (S.I. 2024/281)](https://www.legislation.gov.uk/uksi/2024/281), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/281/regulation/1/2), [14(3)](https://www.legislation.gov.uk/uksi/2024/281/regulation/14/3)
+[^c-5118a83bafc6bc8ba937ccbbe5538bce]: Textual amendment: Words in [reg. 2.D.7(3)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.D.7/3) inserted (1.4.2024) by [The National Health Service Pension Schemes (Amendment) Regulations 2024 (S.I. 2024/281)](https://www.legislation.gov.uk/uksi/2024/281), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/281/regulation/1/2), [14(3)](https://www.legislation.gov.uk/uksi/2024/281/regulation/14/3)
 
-[^key-b35b835643147105e05b48d8f8e39f2b]: Textual amendment: Words in [reg. 2.D.7(5)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.D.7/5) inserted (1.4.2024) by [The National Health Service Pension Schemes (Amendment) Regulations 2024 (S.I. 2024/281)](https://www.legislation.gov.uk/uksi/2024/281), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/281/regulation/1/2), [14(4)](https://www.legislation.gov.uk/uksi/2024/281/regulation/14/4)
+[^c-b35b835643147105e05b48d8f8e39f2b]: Textual amendment: Words in [reg. 2.D.7(5)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.D.7/5) inserted (1.4.2024) by [The National Health Service Pension Schemes (Amendment) Regulations 2024 (S.I. 2024/281)](https://www.legislation.gov.uk/uksi/2024/281), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/281/regulation/1/2), [14(4)](https://www.legislation.gov.uk/uksi/2024/281/regulation/14/4)

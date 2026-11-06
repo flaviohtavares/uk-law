@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60ZA. Local authorities[^key-812a9586ff325d4d1f7a21f9f4aa9be5]
+## 60ZA. Local authorities[^c-812a9586ff325d4d1f7a21f9f4aa9be5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Article 59 is subject to the exclusion in article 72G (local authorities).
 
 ## Annotations
 
-[^key-812a9586ff325d4d1f7a21f9f4aa9be5]: Textual amendment: [Art. 60ZA](https://www.legislation.gov.uk/uksi/2001/544/article/60ZA) inserted (28.1.2021 for specified purposes, 30.7.2022 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2021 (S.I. 2021/90)](https://www.legislation.gov.uk/uksi/2021/90), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/90/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2021/90/article/1/3), [2(6)](https://www.legislation.gov.uk/uksi/2021/90/article/2/6)
+[^c-812a9586ff325d4d1f7a21f9f4aa9be5]: Textual amendment: [Art. 60ZA](https://www.legislation.gov.uk/uksi/2001/544/article/60ZA) inserted (28.1.2021 for specified purposes, 30.7.2022 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2021 (S.I. 2021/90)](https://www.legislation.gov.uk/uksi/2021/90), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/90/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2021/90/article/1/3), [2(6)](https://www.legislation.gov.uk/uksi/2021/90/article/2/6)

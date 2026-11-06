@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 110. Failure to provide written statement etc.[^key-80e1ea79e5e0b41da0e6fae7a530f119]
+## 110. Failure to provide written statement etc.[^c-80e1ea79e5e0b41da0e6fae7a530f119]
 
 *Extent: E+W*
 
@@ -35,10 +35,10 @@ summary: ''
 
 (6) Subsections (1) to (5) do not apply if the landlord's failure to comply with the requirement is attributable to an act or omission of the contract-holder.
 
-(7) If under section 109 the landlord gives the contract-holder a written statement of the contract as varied, sections 36 and 37 (incomplete and incorrect statements) apply to the statement as if , in subsection (3) of both of those sections, for the words from “starting” to the end there were substituted[^key-9fcc5030f1279453688c5e8a74ba44a4] “ starting with the day on which the contract was varied ” .
+(7) If under section 109 the landlord gives the contract-holder a written statement of the contract as varied, sections 36 and 37 (incomplete and incorrect statements) apply to the statement as if , in subsection (3) of both of those sections, for the words from “starting” to the end there were substituted[^c-9fcc5030f1279453688c5e8a74ba44a4] “ starting with the day on which the contract was varied ” .
 
 ## Annotations
 
-[^key-80e1ea79e5e0b41da0e6fae7a530f119]: Commencement: [S. 110](https://www.legislation.gov.uk/anaw/2016/1/section/110) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-80e1ea79e5e0b41da0e6fae7a530f119]: Commencement: [S. 110](https://www.legislation.gov.uk/anaw/2016/1/section/110) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
 
-[^key-9fcc5030f1279453688c5e8a74ba44a4]: Textual amendment: Words in [s. 110(7)](https://www.legislation.gov.uk/anaw/2016/1/section/110/7) substituted (7.6.2021) by [Renting Homes (Amendment) (Wales) Act 2021 (asc 3)](https://www.legislation.gov.uk/asc/2021/3), [s. 19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3), [Sch. 5 para. 4(a)](https://www.legislation.gov.uk/asc/2021/3/schedule/5/paragraph/4/a)
+[^c-9fcc5030f1279453688c5e8a74ba44a4]: Textual amendment: Words in [s. 110(7)](https://www.legislation.gov.uk/anaw/2016/1/section/110/7) substituted (7.6.2021) by [Renting Homes (Amendment) (Wales) Act 2021 (asc 3)](https://www.legislation.gov.uk/asc/2021/3), [s. 19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3), [Sch. 5 para. 4(a)](https://www.legislation.gov.uk/asc/2021/3/schedule/5/paragraph/4/a)

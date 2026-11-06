@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-[^key-f20547d36b7be1b059aa2957aa3ab372]
+[^c-f20547d36b7be1b059aa2957aa3ab372]
 
 (1) A statement of particulars relating to a charge created by a company is a “section 859D statement of particulars” if it contains the following particulars—
 
@@ -64,6 +64,6 @@ summary: ''
 
 [^c22573541]: Textual amendment: Pt. 25 Ch. A1 inserted (6.4.2013) by [The Companies Act 2006 (Amendment of Part 25) Regulations 2013 (S.I. 2013/600)](https://www.legislation.gov.uk/uksi/2013/600), [regs. 1](https://www.legislation.gov.uk/uksi/2013/600/regulation/1), [2](https://www.legislation.gov.uk/uksi/2013/600/regulation/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/600/schedule/1) (with [reg. 6](https://www.legislation.gov.uk/uksi/2013/600/regulation/6))
 
-[^key-f20547d36b7be1b059aa2957aa3ab372]: Modification: Pt. 25 modified (10.1.2015) by [The Building Societies (Bail-in) Order 2014 (S.I. 2014/3344)](https://www.legislation.gov.uk/uksi/2014/3344), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3344/article/1), [3(3)](https://www.legislation.gov.uk/uksi/2014/3344/article/3/3)
+[^c-f20547d36b7be1b059aa2957aa3ab372]: Modification: Pt. 25 modified (10.1.2015) by [The Building Societies (Bail-in) Order 2014 (S.I. 2014/3344)](https://www.legislation.gov.uk/uksi/2014/3344), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3344/article/1), [3(3)](https://www.legislation.gov.uk/uksi/2014/3344/article/3/3)
 
 [^c22573571]: Textual amendment: [1985 c.6](https://www.legislation.gov.uk/ukpga/1985/6). Section 486 is repealed by section 46(1) of the Bankruptcy and Diligence etc (Scotland) Act 2007 ([2007 asp 3](https://www.legislation.gov.uk/asp/2007/3)) from a day to be appointed.

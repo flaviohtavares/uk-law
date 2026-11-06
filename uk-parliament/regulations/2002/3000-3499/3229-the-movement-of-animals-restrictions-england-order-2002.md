@@ -65,7 +65,7 @@ For the purposes of the Animal Health Act 1981 in its application to this Orderâ
 
 *Extent: E*
 
-(3)[^key-4c7b29903d5902e9712bace12a08b398] But this Order does not apply where the Tuberculosis in Animals (England) Order 2021 applies.
+(3)[^c-4c7b29903d5902e9712bace12a08b398] But this Order does not apply where the Tuberculosis in Animals (England) Order 2021 applies.
 
 ## 4. Restrictions on movement of animals in cases of disease or suspected disease
 
@@ -77,7 +77,7 @@ For the purposes of the Animal Health Act 1981 in its application to this Orderâ
 
 (4) Any expenses incurred by the Secretary of State or inspector in exercise of the powers under paragraph (3) shall be recoverable as a civil debt, by the Secretary of State or local authority, from the person in default.
 
-## 5. Declaration of a temporary control area[^key-f7d45c2c0980313ab1d373c2e389644c]
+## 5. Declaration of a temporary control area[^c-f7d45c2c0980313ab1d373c2e389644c]
 
 (1) If the Secretary of State suspects thatâ€”
 
@@ -119,7 +119,7 @@ he may declare in writing an area to be a temporary control area.
 - (a) refer to the declaration; and
 - (b) state the date and time the revocation or amendment is to take effect.
 
-## 5A. Declaration of an infected area[^key-24a825c7731f9e4d3d374457529e1fca]
+## 5A. Declaration of an infected area[^c-24a825c7731f9e4d3d374457529e1fca]
 
 (1) If the Secretary of State considers that disease exists or has existed in the preceding 56 days on any premises, he may declare an area to be an infected area.
 
@@ -145,7 +145,7 @@ he may declare in writing an area to be a temporary control area.
 
 (9) A declaration made under this Order and any amendment, suspension or revocation of the declaration must be in writing
 
-## 6. Restrictions on movement of animals within and out of an infected area[^key-03c38fdfef27583e8c5aa4be957c25a7]
+## 6. Restrictions on movement of animals within and out of an infected area[^c-03c38fdfef27583e8c5aa4be957c25a7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -174,7 +174,7 @@ A veterinary inspector may serve a notice on the person in charge of any premise
 
 (1) All licences and notices under this Order shall be in writing, may be subject to conditions and may be varied, suspended or revoked by a veterinary inspector in writing at any time.
 
-(1A)[^key-6807cca12f4fb5d1c0b4f8d617501aad] A licence under this Order may be general or specific.
+(1A)[^c-6807cca12f4fb5d1c0b4f8d617501aad] A licence under this Order may be general or specific.
 
 (2) A licence issued under this Order shall accompany whatever is being moved under its authority and any person acting under the authority of such a licence shall, on demand made by the Secretary of State or by an inspector of the local authority or by a member of a police forceâ€”
 
@@ -190,7 +190,7 @@ A veterinary inspector may serve a notice on the person in charge of any premise
 
 (3) Any expenses reasonably incurred by the Secretary of State or inspector of the local authority in the exercise of the powers under paragraphs (1) or (2) shall be recoverable as a civil debt by the Secretary of State or the local authority, from the person in default.
 
-## 12. Enforcement[^key-c334cb223e0db849e1ad6ee06e6b3719]
+## 12. Enforcement[^c-c334cb223e0db849e1ad6ee06e6b3719]
 
 (1) Subject to paragraph (2), the provisions of this Order shall, except where otherwise expressly provided, be executed and enforced by the local authority.
 
@@ -228,17 +228,17 @@ A Regulatory Impact Assessment has been prepared for this Order and placed in th
 
 [^f00002]: Footnote: S.I. [1994/1519](https://www.legislation.gov.uk/uksi/1994/1519).
 
-[^key-4c7b29903d5902e9712bace12a08b398]: Textual amendment: Art. 3(3) inserted (1.10.2021) by The Tuberculosis in [Animals (England) Order 2021 (S.I. 2021/1001)](https://www.legislation.gov.uk/uksi/2021/1001), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1001/article/1/1), [27(2)](https://www.legislation.gov.uk/uksi/2021/1001/article/27/2)
+[^c-4c7b29903d5902e9712bace12a08b398]: Textual amendment: Art. 3(3) inserted (1.10.2021) by The Tuberculosis in [Animals (England) Order 2021 (S.I. 2021/1001)](https://www.legislation.gov.uk/uksi/2021/1001), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1001/article/1/1), [27(2)](https://www.legislation.gov.uk/uksi/2021/1001/article/27/2)
 
-[^key-f7d45c2c0980313ab1d373c2e389644c]: Textual amendment: Art. 5 substituted (25.9.2007 at 3.00 p.m.) by [The Movement of Animals (Restrictions) (England) (Amendment) Order 2007 (S.I. 2007/2809)](https://www.legislation.gov.uk/uksi/2007/2809), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2007/2809/article/1/b), [2(2)](https://www.legislation.gov.uk/uksi/2007/2809/article/2/2)
+[^c-f7d45c2c0980313ab1d373c2e389644c]: Textual amendment: Art. 5 substituted (25.9.2007 at 3.00 p.m.) by [The Movement of Animals (Restrictions) (England) (Amendment) Order 2007 (S.I. 2007/2809)](https://www.legislation.gov.uk/uksi/2007/2809), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2007/2809/article/1/b), [2(2)](https://www.legislation.gov.uk/uksi/2007/2809/article/2/2)
 
-[^key-24a825c7731f9e4d3d374457529e1fca]: Textual amendment: [Art. 5A](https://www.legislation.gov.uk/uksi/2002/3229/article/5A) inserted (25.4.2024) by [The Exotic Disease (Amendment) (England) Order 2024 (S.I. 2024/558)](https://www.legislation.gov.uk/uksi/2024/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/558/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2024/558/article/3/2)
+[^c-24a825c7731f9e4d3d374457529e1fca]: Textual amendment: [Art. 5A](https://www.legislation.gov.uk/uksi/2002/3229/article/5A) inserted (25.4.2024) by [The Exotic Disease (Amendment) (England) Order 2024 (S.I. 2024/558)](https://www.legislation.gov.uk/uksi/2024/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/558/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2024/558/article/3/2)
 
-[^key-03c38fdfef27583e8c5aa4be957c25a7]: Textual amendment: Art. 6 omitted (25.9.2007 at 3.00 p.m.) by virtue of [The Movement of Animals (Restrictions) (England) (Amendment) Order 2007 (S.I. 2007/2809)](https://www.legislation.gov.uk/uksi/2007/2809), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2007/2809/article/1/b), [2(3)](https://www.legislation.gov.uk/uksi/2007/2809/article/2/3)
+[^c-03c38fdfef27583e8c5aa4be957c25a7]: Textual amendment: Art. 6 omitted (25.9.2007 at 3.00 p.m.) by virtue of [The Movement of Animals (Restrictions) (England) (Amendment) Order 2007 (S.I. 2007/2809)](https://www.legislation.gov.uk/uksi/2007/2809), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2007/2809/article/1/b), [2(3)](https://www.legislation.gov.uk/uksi/2007/2809/article/2/3)
 
-[^key-6807cca12f4fb5d1c0b4f8d617501aad]: Textual amendment: Art. 10(1A) inserted (25.9.2007 at 3.00 p.m.) by [The Movement of Animals (Restrictions) (England) (Amendment) Order 2007 (S.I. 2007/2809)](https://www.legislation.gov.uk/uksi/2007/2809), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2007/2809/article/1/b), [2(4)](https://www.legislation.gov.uk/uksi/2007/2809/article/2/4)
+[^c-6807cca12f4fb5d1c0b4f8d617501aad]: Textual amendment: Art. 10(1A) inserted (25.9.2007 at 3.00 p.m.) by [The Movement of Animals (Restrictions) (England) (Amendment) Order 2007 (S.I. 2007/2809)](https://www.legislation.gov.uk/uksi/2007/2809), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2007/2809/article/1/b), [2(4)](https://www.legislation.gov.uk/uksi/2007/2809/article/2/4)
 
-[^key-c334cb223e0db849e1ad6ee06e6b3719]: Textual amendment: [Art. 12](https://www.legislation.gov.uk/uksi/2002/3229/article/12) substituted (25.4.2024) by [The Exotic Disease (Amendment) (England) Order 2024 (S.I. 2024/558)](https://www.legislation.gov.uk/uksi/2024/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/558/article/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2024/558/article/3/3)
+[^c-c334cb223e0db849e1ad6ee06e6b3719]: Textual amendment: [Art. 12](https://www.legislation.gov.uk/uksi/2002/3229/article/12) substituted (25.4.2024) by [The Exotic Disease (Amendment) (England) Order 2024 (S.I. 2024/558)](https://www.legislation.gov.uk/uksi/2024/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/558/article/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2024/558/article/3/3)
 
 [^f00003]: Footnote: S.I. [1985/1765](https://www.legislation.gov.uk/uksi/1985/1765).
 

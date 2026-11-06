@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 77. Disapplication of measures[^key-5da204ba11b337f91bd6d02aa271b2a5]
+## 77. Disapplication of measures[^c-5da204ba11b337f91bd6d02aa271b2a5]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Measures prohibiting or restricting the movement of any person or the use of any
 
 ## Annotations
 
-[^key-5da204ba11b337f91bd6d02aa271b2a5]: Commencement: Reg. 77 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
+[^c-5da204ba11b337f91bd6d02aa271b2a5]: Commencement: Reg. 77 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)

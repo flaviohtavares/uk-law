@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Onshore petroleum: consequential amendments[^key-c57029c41f46ae90a592b435d83fee82]
+## 48. Onshore petroleum: consequential amendments[^c-c57029c41f46ae90a592b435d83fee82]
 
 *Extent: E+W+S+N.I.*
 
@@ -100,11 +100,11 @@ summary: ''
 
 (18) The Oil Taxation Act 1975 is amended as follows.
 
-(19) In section 12(1A)(a)(ii) (authorities that can revoke licences) after “OGA”[^key-1dad72bca8608764e101608516a2ed09] insert “ , the Scottish Ministers ”.
+(19) In section 12(1A)(a)(ii) (authorities that can revoke licences) after “OGA”[^c-1dad72bca8608764e101608516a2ed09] insert “ , the Scottish Ministers ”.
 
 (20) In paragraph 1(2) of Schedule 1 (determination of oil fields)—
 
-- (a) in paragraph (a) after “granted” insert “ by the OGA[^key-6a1ca633591e923cb7edfa1405b889f5] ”;
+- (a) in paragraph (a) after “granted” insert “ by the OGA[^c-6a1ca633591e923cb7edfa1405b889f5] ”;
 - (b) after paragraph (a) insert—
 
   > - (aa) is the Scottish Ministers if the area is such that licences can be granted by the Scottish Ministers for all of it under Part 1 of the Petroleum Act 1998;
@@ -128,8 +128,8 @@ summary: ''
 
 ## Annotations
 
-[^key-c57029c41f46ae90a592b435d83fee82]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2016/11/section/48) in force at 9.2.2018 by [S.I. 2018/163](https://www.legislation.gov.uk/uksi/2018/163), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/163/regulation/2/b)
+[^c-c57029c41f46ae90a592b435d83fee82]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2016/11/section/48) in force at 9.2.2018 by [S.I. 2018/163](https://www.legislation.gov.uk/uksi/2018/163), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/163/regulation/2/b)
 
-[^key-1dad72bca8608764e101608516a2ed09]: Textual amendment: Word in s. 48(19) substituted (1.10.2016) by [The Petroleum (Transfer of Functions) Regulations 2016 (S.I. 2016/898)](https://www.legislation.gov.uk/uksi/2016/898), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/898/regulation/1/2), [16(2)](https://www.legislation.gov.uk/uksi/2016/898/regulation/16/2)
+[^c-1dad72bca8608764e101608516a2ed09]: Textual amendment: Word in s. 48(19) substituted (1.10.2016) by [The Petroleum (Transfer of Functions) Regulations 2016 (S.I. 2016/898)](https://www.legislation.gov.uk/uksi/2016/898), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/898/regulation/1/2), [16(2)](https://www.legislation.gov.uk/uksi/2016/898/regulation/16/2)
 
-[^key-6a1ca633591e923cb7edfa1405b889f5]: Textual amendment: Word in s. 48(20) substituted (1.10.2016) by [The Petroleum (Transfer of Functions) Regulations 2016 (S.I. 2016/898)](https://www.legislation.gov.uk/uksi/2016/898), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/898/regulation/1/2), [16(3)](https://www.legislation.gov.uk/uksi/2016/898/regulation/16/3)
+[^c-6a1ca633591e923cb7edfa1405b889f5]: Textual amendment: Word in s. 48(20) substituted (1.10.2016) by [The Petroleum (Transfer of Functions) Regulations 2016 (S.I. 2016/898)](https://www.legislation.gov.uk/uksi/2016/898), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/898/regulation/1/2), [16(3)](https://www.legislation.gov.uk/uksi/2016/898/regulation/16/3)

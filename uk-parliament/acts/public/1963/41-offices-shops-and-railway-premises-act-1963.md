@@ -72,7 +72,7 @@ and for the purposes of this Act premises occupied together with a shop or with 
 
 ### 2. Exception for premises in which only employer’s relatives or outworkers work.[^c654281]
 
-(1) This Act shall not apply to any premises to which it would, apart from this subsection, apply, if none of the persons employed to work in the premises is other than the husband, wife , civil partner[^key-9d6874163afaa1c64129159104af019a], parent, grandparent, son, daughter, grandchild, brother or sister of the person by whom they are so employed.
+(1) This Act shall not apply to any premises to which it would, apart from this subsection, apply, if none of the persons employed to work in the premises is other than the husband, wife , civil partner[^c-9d6874163afaa1c64129159104af019a], parent, grandparent, son, daughter, grandchild, brother or sister of the person by whom they are so employed.
 
 (2) A dwelling shall not, for the purposes of this Act, be taken to constitute or comprise premises to which this Act applies by reason only that a person dwelling there who is employed by a person who does not so dwell does there the work that he is employed to do in compliance with a term of his contract of service that he shall do it there.
 
@@ -162,7 +162,7 @@ but there shall be provided for persons who are employed to work in a room to wh
 
 (5) Subsection (1) of this section shall be deemed to be complied with in relation to any premises as regards any period during which there are in operation arrangements for enabling the persons employed to work in the premises to have the use of sanitary conveniences provided for the use of others, being conveniences whose provision would have constituted compliance with that subsection had they been provided in pursuance thereof for the first-mentioned persons and with respect to which the requirements of subsection (2) of this section are satisfied.
 
-(6) [^key-f601f1e42ed81fbc5fd6fc53fc8c55c4]... section 45[^c654328] of the [^c654329] Public Health Act 1936 [^key-5d29d8de51819cfb42101949a2928e62]... [^c654331]... (which relates *(Extent: S)*[^key-d99267335a657f6d5eb930f901a45f8e] to the provision and repair of sanitary conveniences for factories, &c.) shall not *(Extent: S)*[^key-cc774b4817ce4b197f8f78c9365c8f8e] apply to premises to which this Act applies.
+(6) [^c-f601f1e42ed81fbc5fd6fc53fc8c55c4]... section 45[^c654328] of the [^c654329] Public Health Act 1936 [^c-5d29d8de51819cfb42101949a2928e62]... [^c654331]... (which relates *(Extent: S)*[^c-d99267335a657f6d5eb930f901a45f8e] to the provision and repair of sanitary conveniences for factories, &c.) shall not *(Extent: S)*[^c-cc774b4817ce4b197f8f78c9365c8f8e] apply to premises to which this Act applies.
 
 ### 10. Washing facilities.[^c654335][^c654334]
 
@@ -264,15 +264,15 @@ Where persons employed to work in shop premises eat meals there, suitable and su
 
 ## Special Provisions with respect to Buildings whereof Parts are Office, &c., Premises and with respect to certain contiguous Fuel Storage Premises
 
-### 42. Provisions with respect to buildings in single ownership.[^key-3689db415982672e2dced0fed6830c16]
+### 42. Provisions with respect to buildings in single ownership.[^c-3689db415982672e2dced0fed6830c16]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 43. Provisions with respect to buildings plurally owned.[^key-3689db415982672e2dced0fed6830c16]
+### 43. Provisions with respect to buildings plurally owned.[^c-3689db415982672e2dced0fed6830c16]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 44. Provisions with respect to contiguous fuel storage premises in single ownership.[^key-3689db415982672e2dced0fed6830c16]
+### 44. Provisions with respect to contiguous fuel storage premises in single ownership.[^c-3689db415982672e2dced0fed6830c16]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -280,7 +280,7 @@ Where persons employed to work in shop premises eat meals there, suitable and su
 
 ### 45. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c654394]
 
-### 46. Power of authorities who enforce Act to grant exemptions from certain requirements thereof.[^key-b58b185581a6a3779fa3476c957fe7f3]
+### 46. Power of authorities who enforce Act to grant exemptions from certain requirements thereof.[^c-b58b185581a6a3779fa3476c957fe7f3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -290,7 +290,7 @@ Where persons employed to work in shop premises eat meals there, suitable and su
 
 ## Information
 
-### 49. Notification of fact of employment of persons.[^key-ab613ca410b3fb22e925f6aee04f4ecc]
+### 49. Notification of fact of employment of persons.[^c-ab613ca410b3fb22e925f6aee04f4ecc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -316,11 +316,11 @@ Where persons employed to work in shop premises eat meals there, suitable and su
 
 ### 56—58. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c654423]
 
-### 59. Restriction of disclosure of information.[^key-399ad5a610c7a1b41ef4450d059fbc0f]
+### 59. Restriction of disclosure of information.[^c-399ad5a610c7a1b41ef4450d059fbc0f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 59A. Exception to restriction: public authorities[^key-62441c956a4262f604c448ce387cd84c]
+### 59A. Exception to restriction: public authorities[^c-62441c956a4262f604c448ce387cd84c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -334,7 +334,7 @@ Where persons employed to work in shop premises eat meals there, suitable and su
 
 ## Offences, Penalties and legal Proceedings
 
-### 63. Offences.[^key-03db5426a17e83dd1d85763e7701ab8a]
+### 63. Offences.[^c-03db5426a17e83dd1d85763e7701ab8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -342,13 +342,13 @@ Where persons employed to work in shop premises eat meals there, suitable and su
 
 ### 65, 66. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c654434]
 
-### 67. Defence available to persons charged with offences.[^key-72044e1e4c2cdf51d158383bc47eb51f]
+### 67. Defence available to persons charged with offences.[^c-72044e1e4c2cdf51d158383bc47eb51f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 68. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c654435]
 
-### 69. Removal or defacement of documents posted in pursuance of Act or regulations under it.[^key-575673e5685f1194eb488e6b46b31750]
+### 69. Removal or defacement of documents posted in pursuance of Act or regulations under it.[^c-575673e5685f1194eb488e6b46b31750]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -364,11 +364,11 @@ Where persons employed to work in shop premises eat meals there, suitable and su
 
 (2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c654442]
 
-### 72. Appeal from orders made on complaint.[^key-6dfb551e957208d2a068c09fa0e8889d]
+### 72. Appeal from orders made on complaint.[^c-6dfb551e957208d2a068c09fa0e8889d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 73. Power of county court and sheriff to modify agreements and apportion expenses.[^key-d5778d393ec28fcc50293b9f48d1a3f5]
+### 73. Power of county court and sheriff to modify agreements and apportion expenses.[^c-d5778d393ec28fcc50293b9f48d1a3f5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -396,7 +396,7 @@ Where persons employed to work in shop premises eat meals there, suitable and su
 
 ### 77. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c654450]
 
-### 78. Provision for securing exercise of local Act powers in conformity with this Act.[^key-f2cac101eddfa9bff6f767c0e73f0619]
+### 78. Provision for securing exercise of local Act powers in conformity with this Act.[^c-f2cac101eddfa9bff6f767c0e73f0619]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -404,21 +404,21 @@ Where persons employed to work in shop premises eat meals there, suitable and su
 
 ### 79. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c654451]
 
-### 80. Regulations and orders.[^key-8de479cd6f69c8850f03c5fd071fea7f]
+### 80. Regulations and orders.[^c-8de479cd6f69c8850f03c5fd071fea7f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 81. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c654459]
 
-### 82. Expenses and receipts.[^key-2de7df6764ace3ba46de5d5d223465b2]
+### 82. Expenses and receipts.[^c-2de7df6764ace3ba46de5d5d223465b2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 83. Application to the Crown.[^key-a9724cad712da1e8129893c83b6acc52]
+### 83. Application to the Crown.[^c-a9724cad712da1e8129893c83b6acc52]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 84. Exclusion of application to visiting forces.[^key-20d8ae53fd81d575a375a9b17d013c3a]
+### 84. Exclusion of application to visiting forces.[^c-20d8ae53fd81d575a375a9b17d013c3a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -430,7 +430,7 @@ Where persons employed to work in shop premises eat meals there, suitable and su
 
 (3) Nothing in this Act shall apply to any part below ground of premises which, for the purposes of the [^c654504]Mines and Quarries Act 1954, are a mine.
 
-### 86. Exclusion of application to premises occupied for transitory purposes.[^key-aaab21c5567ad76fbc0fb2b652e727f2]
+### 86. Exclusion of application to premises occupied for transitory purposes.[^c-aaab21c5567ad76fbc0fb2b652e727f2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -438,7 +438,7 @@ Where persons employed to work in shop premises eat meals there, suitable and su
 
 ### 87. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c654505]
 
-### 88. Application to Isles of Scilly.[^key-3a81030299d6eb1479cac60ff37c16d9]
+### 88. Application to Isles of Scilly.[^c-3a81030299d6eb1479cac60ff37c16d9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -468,7 +468,7 @@ Where persons employed to work in shop premises eat meals there, suitable and su
 
   and “**owned**” and “**ownership**” shall be construed accordingly;
 - [^c654557]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- [^key-9327c7ef19bbbc4280fb99289ddf6aaa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c-9327c7ef19bbbc4280fb99289ddf6aaa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - [^c654557]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - “**railway premises**” has the meaning assigned to it by section 1(4) of this Act;
 - “**railway undertakers**” means any persons authorised by an enactment or a provision of an order or scheme made under or confirmed by an Act to construct, work or carry on a railway;
@@ -486,8 +486,8 @@ Where persons employed to work in shop premises eat meals there, suitable and su
 
 - (a) a person appointed under section 6 or 7 of the [^c654569]Registration Service Act 1953 who exercises and performs his powers and duties in premises provided and maintained by the council within whose area his district or sub-district is situate;
 - (b) [^c654570]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c) a member of a police force maintained by a local policing body or[^key-76731ffa9b1da94cf9dd146616547614] a police authority, or[^key-2bf189add9b474425651c33dba200185]
-- (d)[^key-8a736ac6b7a1fd4de7a57a8f8c506b14] a member of a police force seconded to the National Crime Agency to serve as a National Crime Agency officer[^key-ddf6916c8b1c0761bbc8436e42df3f52].
+- (c) a member of a police force maintained by a local policing body or[^c-76731ffa9b1da94cf9dd146616547614] a police authority, or[^c-2bf189add9b474425651c33dba200185]
+- (d)[^c-8a736ac6b7a1fd4de7a57a8f8c506b14] a member of a police force seconded to the National Crime Agency to serve as a National Crime Agency officer[^c-ddf6916c8b1c0761bbc8436e42df3f52].
 
 (5) The definition of a class of premises, rooms or persons for the purposes of any regulations or order under this Act may be framed by reference to any circumstances whatever.
 
@@ -535,7 +535,7 @@ Where persons employed to work in shop premises eat meals there, suitable and su
 
 [^c654281]: Modification: S. 2 extended by [Radiological Protection Act 1970 (c. 46)](https://www.legislation.gov.uk/ukpga/1970/46), [s. 2(6)](https://www.legislation.gov.uk/ukpga/1970/46/section/2/6)
 
-[^key-9d6874163afaa1c64129159104af019a]: Textual amendment: Words in [s. 2(1)](https://www.legislation.gov.uk/ukpga/1963/41/section/2/1) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(10)(b)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/10/b), [Sch. 27 para. 23](https://www.legislation.gov.uk/ukpga/2004/33/schedule/27/paragraph/23); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/2)
+[^c-9d6874163afaa1c64129159104af019a]: Textual amendment: Words in [s. 2(1)](https://www.legislation.gov.uk/ukpga/1963/41/section/2/1) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(10)(b)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/10/b), [Sch. 27 para. 23](https://www.legislation.gov.uk/ukpga/2004/33/schedule/27/paragraph/23); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/2)
 
 [^c654282]: Modification: [S. 3](https://www.legislation.gov.uk/ukpga/1963/41/section/3) extended by [Radiological Protection Act 1970 (c. 46)](https://www.legislation.gov.uk/ukpga/1970/46), [s. 2(6)](https://www.legislation.gov.uk/ukpga/1970/46/section/2/6)
 
@@ -587,19 +587,19 @@ Where persons employed to work in shop premises eat meals there, suitable and su
 
 [^c654327]: Textual amendment: Ss. 3(3), 4(3), 6(5), 7(2), 8(2), 9(3)(4), 10(3)(4), 12(3), 20–22, 23(2), 25, 26, 27(3), 42(8)–(10), 43(6)–(8), 45, 46(12)(14), 49(2), 50, 54, 56–58, 61, 62, 65, 66, 68, 70(2)–(4), 71(1), 74(2)–(4), 75(2), 80(5)(6)(8), 81, Sch. 1 repealed by [S.I. 1974/1943](https://www.legislation.gov.uk/uksi/1974/1943), [reg. 4](https://www.legislation.gov.uk/uksi/1974/1943/regulation/4), [Sch. 1](https://www.legislation.gov.uk/uksi/1974/1943/schedule/1)
 
-[^key-f601f1e42ed81fbc5fd6fc53fc8c55c4]: Textual amendment: Words in s. 9(6) repealed (S.) (1.10.2009) by [Public Health etc. (Scotland) Act 2008 (asp 5)](https://www.legislation.gov.uk/asp/2008/5), [s. 128(2)](https://www.legislation.gov.uk/asp/2008/5/section/128/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/asp/2008/5/schedule/3/part/1) (with [s. 127](https://www.legislation.gov.uk/asp/2008/5/section/127)); [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-f601f1e42ed81fbc5fd6fc53fc8c55c4]: Textual amendment: Words in s. 9(6) repealed (S.) (1.10.2009) by [Public Health etc. (Scotland) Act 2008 (asp 5)](https://www.legislation.gov.uk/asp/2008/5), [s. 128(2)](https://www.legislation.gov.uk/asp/2008/5/section/128/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/asp/2008/5/schedule/3/part/1) (with [s. 127](https://www.legislation.gov.uk/asp/2008/5/section/127)); [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
 
 [^c654328]: Textual amendment: Words substituted by [Building Act 1984 (c. 55, SIF 15)](https://www.legislation.gov.uk/ukpga/1984/55), [s. 133(1)](https://www.legislation.gov.uk/ukpga/1984/55/section/133/1), [Sch. 6 para. 11](https://www.legislation.gov.uk/ukpga/1984/55/schedule/6/paragraph/11)
 
 [^c654329]: Marginal citation: [1936 c. 49](https://www.legislation.gov.uk/ukpga/1936/49).
 
-[^key-5d29d8de51819cfb42101949a2928e62]: Textual amendment: Words in s. 9(6) repealed (S.) (1.10.2009) by [Public Health etc. (Scotland) Act 2008 (asp 5)](https://www.legislation.gov.uk/asp/2008/5), [s. 128(2)](https://www.legislation.gov.uk/asp/2008/5/section/128/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/asp/2008/5/schedule/3/part/1) (with [s. 127](https://www.legislation.gov.uk/asp/2008/5/section/127)); [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-5d29d8de51819cfb42101949a2928e62]: Textual amendment: Words in s. 9(6) repealed (S.) (1.10.2009) by [Public Health etc. (Scotland) Act 2008 (asp 5)](https://www.legislation.gov.uk/asp/2008/5), [s. 128(2)](https://www.legislation.gov.uk/asp/2008/5/section/128/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/asp/2008/5/schedule/3/part/1) (with [s. 127](https://www.legislation.gov.uk/asp/2008/5/section/127)); [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
 
 [^c654331]: Textual amendment: Words repealed by [London Government Act 1963 (c. 33)](https://www.legislation.gov.uk/ukpga/1963/33), [s. 93](https://www.legislation.gov.uk/ukpga/1963/33/section/93), [Sch. 18 Pt. II](https://www.legislation.gov.uk/ukpga/1963/33/schedule/18/part/II)
 
-[^key-d99267335a657f6d5eb930f901a45f8e]: Textual amendment: Word in s. 9(6) substituted (S.) (26.1.2009) by [Public Health etc. (Scotland) Act 2008 (asp 5)](https://www.legislation.gov.uk/asp/2008/5), [s. 128(2)](https://www.legislation.gov.uk/asp/2008/5/section/128/2), [Sch. 2 para. 5(a)](https://www.legislation.gov.uk/asp/2008/5/schedule/2/paragraph/5/a) (with [s. 127](https://www.legislation.gov.uk/asp/2008/5/section/127)); [S.S.I. 2009/9](https://www.legislation.gov.uk/ssi/2009/9), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/9/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/9/schedule/1)
+[^c-d99267335a657f6d5eb930f901a45f8e]: Textual amendment: Word in s. 9(6) substituted (S.) (26.1.2009) by [Public Health etc. (Scotland) Act 2008 (asp 5)](https://www.legislation.gov.uk/asp/2008/5), [s. 128(2)](https://www.legislation.gov.uk/asp/2008/5/section/128/2), [Sch. 2 para. 5(a)](https://www.legislation.gov.uk/asp/2008/5/schedule/2/paragraph/5/a) (with [s. 127](https://www.legislation.gov.uk/asp/2008/5/section/127)); [S.S.I. 2009/9](https://www.legislation.gov.uk/ssi/2009/9), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/9/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/9/schedule/1)
 
-[^key-cc774b4817ce4b197f8f78c9365c8f8e]: Textual amendment: Words in s. 9(6) substituted (S.) (26.1.2009) by [Public Health etc. (Scotland) Act 2008 (asp 5)](https://www.legislation.gov.uk/asp/2008/5), [s. 128(2)](https://www.legislation.gov.uk/asp/2008/5/section/128/2), [Sch. 2 para. 5(b)](https://www.legislation.gov.uk/asp/2008/5/schedule/2/paragraph/5/b) (with [s. 127](https://www.legislation.gov.uk/asp/2008/5/section/127)); [S.S.I. 2009/9](https://www.legislation.gov.uk/ssi/2009/9), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/9/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/9/schedule/1)
+[^c-cc774b4817ce4b197f8f78c9365c8f8e]: Textual amendment: Words in s. 9(6) substituted (S.) (26.1.2009) by [Public Health etc. (Scotland) Act 2008 (asp 5)](https://www.legislation.gov.uk/asp/2008/5), [s. 128(2)](https://www.legislation.gov.uk/asp/2008/5/section/128/2), [Sch. 2 para. 5(b)](https://www.legislation.gov.uk/asp/2008/5/schedule/2/paragraph/5/b) (with [s. 127](https://www.legislation.gov.uk/asp/2008/5/section/127)); [S.S.I. 2009/9](https://www.legislation.gov.uk/ssi/2009/9), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/9/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/9/schedule/1)
 
 [^c654335]: Textual amendment: [Ss. 4-16](https://www.legislation.gov.uk/ukpga/1963/41/section/4) repealed (1.1.1993 with respect to certain premises and 1.1.1996 with respect to certain further premises) by [S.I. 1992/3004](https://www.legislation.gov.uk/uksi/1992/3004), [regs. 1(2)(3)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/2/3), [2](https://www.legislation.gov.uk/uksi/1992/3004/regulation/2), [3](https://www.legislation.gov.uk/uksi/1992/3004/regulation/3), [27(1)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/27/1), [Sch. 2 Pt.I](https://www.legislation.gov.uk/uksi/1992/3004/schedule/2/part/I) (with saving in [reg. 27(2)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/27/2)).
 
@@ -653,17 +653,17 @@ Where persons employed to work in shop premises eat meals there, suitable and su
 
 [^c654379]: Textual amendment: 28–41, 42(11)(12)(14)–(16), 43(9)(10)(12)–(14) , 60(1), 71(2), 76(1)(2), 83(3) repealed by [S.I. 1976/2005](https://www.legislation.gov.uk/uksi/1976/2005), [Sch.](https://www.legislation.gov.uk/uksi/1976/2005/schedule)
 
-[^key-3689db415982672e2dced0fed6830c16]: Textual amendment: [Ss. 42-44](https://www.legislation.gov.uk/ukpga/1963/41/section/42) repealed (6.4.2014) by [The Health and Safety (Miscellaneous Repeals and Revocations) Regulations 2014 (S.I. 2014/486)](https://www.legislation.gov.uk/uksi/2014/486), [reg. 1](https://www.legislation.gov.uk/uksi/2014/486/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2014/486/schedule) Table 1
+[^c-3689db415982672e2dced0fed6830c16]: Textual amendment: [Ss. 42-44](https://www.legislation.gov.uk/ukpga/1963/41/section/42) repealed (6.4.2014) by [The Health and Safety (Miscellaneous Repeals and Revocations) Regulations 2014 (S.I. 2014/486)](https://www.legislation.gov.uk/uksi/2014/486), [reg. 1](https://www.legislation.gov.uk/uksi/2014/486/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2014/486/schedule) Table 1
 
 [^c654394]: Textual amendment: [Ss. 3(3)](https://www.legislation.gov.uk/ukpga/1963/41/section/3/3), [4(3)](https://www.legislation.gov.uk/ukpga/1963/41/section/4/3), [6(5)](https://www.legislation.gov.uk/ukpga/1963/41/section/6/5), [7(2)](https://www.legislation.gov.uk/ukpga/1963/41/section/7/2), [8(2)](https://www.legislation.gov.uk/ukpga/1963/41/section/8/2), [9(3)(4)](https://www.legislation.gov.uk/ukpga/1963/41/section/9/3/4), [10(3)(4)](https://www.legislation.gov.uk/ukpga/1963/41/section/10/3/4), [12(3)](https://www.legislation.gov.uk/ukpga/1963/41/section/12/3), [20–22](https://www.legislation.gov.uk/ukpga/1963/41/section/20), [23(2)](https://www.legislation.gov.uk/ukpga/1963/41/section/23/2), [25](https://www.legislation.gov.uk/ukpga/1963/41/section/25), [26](https://www.legislation.gov.uk/ukpga/1963/41/section/26), [27(3)](https://www.legislation.gov.uk/ukpga/1963/41/section/27/3), [42(8)–(10)](https://www.legislation.gov.uk/ukpga/1963/41/section/42/8), [43(6)–(8)](https://www.legislation.gov.uk/ukpga/1963/41/section/43/6), [45](https://www.legislation.gov.uk/ukpga/1963/41/section/45), [46(12)(14)](https://www.legislation.gov.uk/ukpga/1963/41/section/46/12/14), [49(2)](https://www.legislation.gov.uk/ukpga/1963/41/section/49/2), [50](https://www.legislation.gov.uk/ukpga/1963/41/section/50), [54](https://www.legislation.gov.uk/ukpga/1963/41/section/54), [56–58](https://www.legislation.gov.uk/ukpga/1963/41/section/56), [61](https://www.legislation.gov.uk/ukpga/1963/41/section/61), [62](https://www.legislation.gov.uk/ukpga/1963/41/section/62), [65](https://www.legislation.gov.uk/ukpga/1963/41/section/65), [66](https://www.legislation.gov.uk/ukpga/1963/41/section/66), [68](https://www.legislation.gov.uk/ukpga/1963/41/section/68), [70(2)–(4)](https://www.legislation.gov.uk/ukpga/1963/41/section/70/2), [71(1)](https://www.legislation.gov.uk/ukpga/1963/41/section/71/1), [74(2)–(4)](https://www.legislation.gov.uk/ukpga/1963/41/section/74/2), [75(2)](https://www.legislation.gov.uk/ukpga/1963/41/section/75/2), [80(5)(6)(8)](https://www.legislation.gov.uk/ukpga/1963/41/section/80/5/6/8), [81](https://www.legislation.gov.uk/ukpga/1963/41/section/81), [Sch. 1](https://www.legislation.gov.uk/ukpga/1963/41/schedule/1) repealed by [S.I. 1974/1943](https://www.legislation.gov.uk/uksi/1974/1943), [reg. 4](https://www.legislation.gov.uk/uksi/1974/1943/regulation/4), [Sch. 1](https://www.legislation.gov.uk/uksi/1974/1943/schedule/1)
 
-[^key-b58b185581a6a3779fa3476c957fe7f3]: Textual amendment: S. 46 repealed (6.4.2014) by [The Health and Safety (Miscellaneous Repeals and Revocations) Regulations 2014 (S.I. 2014/486)](https://www.legislation.gov.uk/uksi/2014/486), [reg. 1](https://www.legislation.gov.uk/uksi/2014/486/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2014/486/schedule) Table 1
+[^c-b58b185581a6a3779fa3476c957fe7f3]: Textual amendment: S. 46 repealed (6.4.2014) by [The Health and Safety (Miscellaneous Repeals and Revocations) Regulations 2014 (S.I. 2014/486)](https://www.legislation.gov.uk/uksi/2014/486), [reg. 1](https://www.legislation.gov.uk/uksi/2014/486/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2014/486/schedule) Table 1
 
 [^c654408]: Textual amendment: 27(1)(2), 47, 51, 79 repealed by [S.I. 1975/1011](https://www.legislation.gov.uk/uksi/1975/1011), [Sch.](https://www.legislation.gov.uk/uksi/1975/1011/schedule)
 
 [^c654409]: Textual amendment: [S. 48](https://www.legislation.gov.uk/ukpga/1963/41/section/48) repealed by [S.I. 1980/804](https://www.legislation.gov.uk/uksi/1980/804), [reg. 13](https://www.legislation.gov.uk/uksi/1980/804/regulation/13), [Sch. 5 Pt. I](https://www.legislation.gov.uk/uksi/1980/804/schedule/5/part/I)
 
-[^key-ab613ca410b3fb22e925f6aee04f4ecc]: Textual amendment: S. 49 repealed (6.4.2009) by [The Factories Act 1961 and Offices, Shops and Railway Premises Act 1963 (Repeals and Modifications) Regulations 2009 (S.I. 2009/605)](https://www.legislation.gov.uk/uksi/2009/605), [regs. 1](https://www.legislation.gov.uk/uksi/2009/605/regulation/1), [2(1)](https://www.legislation.gov.uk/uksi/2009/605/regulation/2/1)
+[^c-ab613ca410b3fb22e925f6aee04f4ecc]: Textual amendment: S. 49 repealed (6.4.2009) by [The Factories Act 1961 and Offices, Shops and Railway Premises Act 1963 (Repeals and Modifications) Regulations 2009 (S.I. 2009/605)](https://www.legislation.gov.uk/uksi/2009/605), [regs. 1](https://www.legislation.gov.uk/uksi/2009/605/regulation/1), [2(1)](https://www.legislation.gov.uk/uksi/2009/605/regulation/2/1)
 
 [^c654415]: Textual amendment: [Ss. 3(3)](https://www.legislation.gov.uk/ukpga/1963/41/section/3/3), [4(3)](https://www.legislation.gov.uk/ukpga/1963/41/section/4/3), [6(5)](https://www.legislation.gov.uk/ukpga/1963/41/section/6/5), [7(2)](https://www.legislation.gov.uk/ukpga/1963/41/section/7/2), [8(2)](https://www.legislation.gov.uk/ukpga/1963/41/section/8/2), [9(3)(4)](https://www.legislation.gov.uk/ukpga/1963/41/section/9/3/4), [10(3)(4)](https://www.legislation.gov.uk/ukpga/1963/41/section/10/3/4), [12(3)](https://www.legislation.gov.uk/ukpga/1963/41/section/12/3), [20–22](https://www.legislation.gov.uk/ukpga/1963/41/section/20), [23(2)](https://www.legislation.gov.uk/ukpga/1963/41/section/23/2), [25](https://www.legislation.gov.uk/ukpga/1963/41/section/25), [26](https://www.legislation.gov.uk/ukpga/1963/41/section/26), [27(3)](https://www.legislation.gov.uk/ukpga/1963/41/section/27/3), [42(8)–(10)](https://www.legislation.gov.uk/ukpga/1963/41/section/42/8), [43(6)–(8)](https://www.legislation.gov.uk/ukpga/1963/41/section/43/6), [45](https://www.legislation.gov.uk/ukpga/1963/41/section/45), [46(12)(14)](https://www.legislation.gov.uk/ukpga/1963/41/section/46/12/14), [49(2)](https://www.legislation.gov.uk/ukpga/1963/41/section/49/2), [50](https://www.legislation.gov.uk/ukpga/1963/41/section/50), [54](https://www.legislation.gov.uk/ukpga/1963/41/section/54), [56–58](https://www.legislation.gov.uk/ukpga/1963/41/section/56), [61](https://www.legislation.gov.uk/ukpga/1963/41/section/61), [62](https://www.legislation.gov.uk/ukpga/1963/41/section/62), [65](https://www.legislation.gov.uk/ukpga/1963/41/section/65), [66](https://www.legislation.gov.uk/ukpga/1963/41/section/66), [68](https://www.legislation.gov.uk/ukpga/1963/41/section/68), [70(2)–(4)](https://www.legislation.gov.uk/ukpga/1963/41/section/70/2), [71(1)](https://www.legislation.gov.uk/ukpga/1963/41/section/71/1), [74(2)–(4)](https://www.legislation.gov.uk/ukpga/1963/41/section/74/2), [75(2)](https://www.legislation.gov.uk/ukpga/1963/41/section/75/2), [80(5)(6)(8)](https://www.legislation.gov.uk/ukpga/1963/41/section/80/5/6/8), [81](https://www.legislation.gov.uk/ukpga/1963/41/section/81), [Sch. 1](https://www.legislation.gov.uk/ukpga/1963/41/schedule/1) repealed by [S.I. 1974/1943](https://www.legislation.gov.uk/uksi/1974/1943), [reg. 4](https://www.legislation.gov.uk/uksi/1974/1943/regulation/4), [Sch. 1](https://www.legislation.gov.uk/uksi/1974/1943/schedule/1)
 
@@ -681,9 +681,9 @@ Where persons employed to work in shop premises eat meals there, suitable and su
 
 [^c654423]: Textual amendment: Ss. 3(3), 4(3), 6(5), 7(2), 8(2), 9(3)(4), 10(3)(4), 12(3), 20–22, 23(2), 25, 26, 27(3), 42(8)–(10), 43(6)–(8), 45, 46(12)(14), 49(2), 50, 54, 56–58, 61, 62, 65, 66, 68, 70(2)–(4), 71(1), 74(2)–(4), 75(2), 80(5)(6)(8), 81, Sch. 1 repealed by [S.I. 1974/1943](https://www.legislation.gov.uk/uksi/1974/1943), [reg. 4](https://www.legislation.gov.uk/uksi/1974/1943/regulation/4), [Sch. 1](https://www.legislation.gov.uk/uksi/1974/1943/schedule/1)
 
-[^key-399ad5a610c7a1b41ef4450d059fbc0f]: Textual amendment: [S. 59](https://www.legislation.gov.uk/ukpga/1963/41/section/59) repealed (6.4.2014) by [The Health and Safety (Miscellaneous Repeals and Revocations) Regulations 2014 (S.I. 2014/486)](https://www.legislation.gov.uk/uksi/2014/486), [reg. 1](https://www.legislation.gov.uk/uksi/2014/486/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2014/486/schedule) Table 1
+[^c-399ad5a610c7a1b41ef4450d059fbc0f]: Textual amendment: [S. 59](https://www.legislation.gov.uk/ukpga/1963/41/section/59) repealed (6.4.2014) by [The Health and Safety (Miscellaneous Repeals and Revocations) Regulations 2014 (S.I. 2014/486)](https://www.legislation.gov.uk/uksi/2014/486), [reg. 1](https://www.legislation.gov.uk/uksi/2014/486/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2014/486/schedule) Table 1
 
-[^key-62441c956a4262f604c448ce387cd84c]: Textual amendment: S. 59A repealed (6.4.2014) by [The Health and Safety (Miscellaneous Repeals and Revocations) Regulations 2014 (S.I. 2014/486)](https://www.legislation.gov.uk/uksi/2014/486), [reg. 1](https://www.legislation.gov.uk/uksi/2014/486/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2014/486/schedule) Table 1
+[^c-62441c956a4262f604c448ce387cd84c]: Textual amendment: S. 59A repealed (6.4.2014) by [The Health and Safety (Miscellaneous Repeals and Revocations) Regulations 2014 (S.I. 2014/486)](https://www.legislation.gov.uk/uksi/2014/486), [reg. 1](https://www.legislation.gov.uk/uksi/2014/486/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2014/486/schedule) Table 1
 
 [^c654425]: Textual amendment: 28–41, 42(11)(12)(14)–(16), 43(9)(10)(12)–(14) , 60(1), 71(2), 76(1)(2), 83(3) repealed by [S.I. 1976/2005](https://www.legislation.gov.uk/uksi/1976/2005), [Sch.](https://www.legislation.gov.uk/uksi/1976/2005/schedule)
 
@@ -691,17 +691,17 @@ Where persons employed to work in shop premises eat meals there, suitable and su
 
 [^c654427]: Textual amendment: Ss. 3(3), 4(3), 6(5), 7(2), 8(2), 9(3)(4), 10(3)(4), 12(3), 20–22, 23(2), 25, 26, 27(3), 42(8)–(10), 43(6)–(8), 45, 46(12)(14), 49(2), 50, 54, 56–58, 61, 62, 65, 66, 68, 70(2)–(4), 71(1), 74(2)–(4), 75(2), 80(5)(6)(8), 81, Sch. 1 repealed by [S.I. 1974/1943](https://www.legislation.gov.uk/uksi/1974/1943), [reg. 4](https://www.legislation.gov.uk/uksi/1974/1943/regulation/4), [Sch. 1](https://www.legislation.gov.uk/uksi/1974/1943/schedule/1)
 
-[^key-03db5426a17e83dd1d85763e7701ab8a]: Textual amendment: [S. 63](https://www.legislation.gov.uk/ukpga/1963/41/section/63) repealed (6.4.2014) by [The Health and Safety (Miscellaneous Repeals and Revocations) Regulations 2014 (S.I. 2014/486)](https://www.legislation.gov.uk/uksi/2014/486), [reg. 1](https://www.legislation.gov.uk/uksi/2014/486/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2014/486/schedule) Table 1
+[^c-03db5426a17e83dd1d85763e7701ab8a]: Textual amendment: [S. 63](https://www.legislation.gov.uk/ukpga/1963/41/section/63) repealed (6.4.2014) by [The Health and Safety (Miscellaneous Repeals and Revocations) Regulations 2014 (S.I. 2014/486)](https://www.legislation.gov.uk/uksi/2014/486), [reg. 1](https://www.legislation.gov.uk/uksi/2014/486/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2014/486/schedule) Table 1
 
 [^c654433]: Textual amendment: [S. 64](https://www.legislation.gov.uk/ukpga/1963/41/section/64) repealed, except in relation to offences under sections 28 to 38, 42(16) and 43(14) committed before 1.1.1977 by [S.I. 1976/2005](https://www.legislation.gov.uk/uksi/1976/2005), [Sch.](https://www.legislation.gov.uk/uksi/1976/2005/schedule)
 
 [^c654434]: Textual amendment: [Ss. 3(3)](https://www.legislation.gov.uk/ukpga/1963/41/section/3/3), [4(3)](https://www.legislation.gov.uk/ukpga/1963/41/section/4/3), [6(5)](https://www.legislation.gov.uk/ukpga/1963/41/section/6/5), [7(2)](https://www.legislation.gov.uk/ukpga/1963/41/section/7/2), [8(2)](https://www.legislation.gov.uk/ukpga/1963/41/section/8/2), [9(3)(4)](https://www.legislation.gov.uk/ukpga/1963/41/section/9/3/4), [10(3)(4)](https://www.legislation.gov.uk/ukpga/1963/41/section/10/3/4), [12(3)](https://www.legislation.gov.uk/ukpga/1963/41/section/12/3), [20–22](https://www.legislation.gov.uk/ukpga/1963/41/section/20), [23(2)](https://www.legislation.gov.uk/ukpga/1963/41/section/23/2), [25](https://www.legislation.gov.uk/ukpga/1963/41/section/25), [26](https://www.legislation.gov.uk/ukpga/1963/41/section/26), [27(3)](https://www.legislation.gov.uk/ukpga/1963/41/section/27/3), [42(8)–(10)](https://www.legislation.gov.uk/ukpga/1963/41/section/42/8), [43(6)–(8)](https://www.legislation.gov.uk/ukpga/1963/41/section/43/6), [45](https://www.legislation.gov.uk/ukpga/1963/41/section/45), [46(12)(14)](https://www.legislation.gov.uk/ukpga/1963/41/section/46/12/14), [49(2)](https://www.legislation.gov.uk/ukpga/1963/41/section/49/2), [50](https://www.legislation.gov.uk/ukpga/1963/41/section/50), [54](https://www.legislation.gov.uk/ukpga/1963/41/section/54), [56–58](https://www.legislation.gov.uk/ukpga/1963/41/section/56), [61](https://www.legislation.gov.uk/ukpga/1963/41/section/61), [62](https://www.legislation.gov.uk/ukpga/1963/41/section/62), [65](https://www.legislation.gov.uk/ukpga/1963/41/section/65), [66](https://www.legislation.gov.uk/ukpga/1963/41/section/66), [68](https://www.legislation.gov.uk/ukpga/1963/41/section/68), [70(2)–(4)](https://www.legislation.gov.uk/ukpga/1963/41/section/70/2), [71(1)](https://www.legislation.gov.uk/ukpga/1963/41/section/71/1), [74(2)–(4)](https://www.legislation.gov.uk/ukpga/1963/41/section/74/2), [75(2)](https://www.legislation.gov.uk/ukpga/1963/41/section/75/2), [80(5)(6)(8)](https://www.legislation.gov.uk/ukpga/1963/41/section/80/5/6/8), [81](https://www.legislation.gov.uk/ukpga/1963/41/section/81), [Sch. 1](https://www.legislation.gov.uk/ukpga/1963/41/schedule/1) repealed by [S.I. 1974/1943](https://www.legislation.gov.uk/uksi/1974/1943), [reg. 4](https://www.legislation.gov.uk/uksi/1974/1943/regulation/4), [Sch. 1](https://www.legislation.gov.uk/uksi/1974/1943/schedule/1)
 
-[^key-72044e1e4c2cdf51d158383bc47eb51f]: Textual amendment: [S. 67](https://www.legislation.gov.uk/ukpga/1963/41/section/67) repealed (6.4.2014) by [The Health and Safety (Miscellaneous Repeals and Revocations) Regulations 2014 (S.I. 2014/486)](https://www.legislation.gov.uk/uksi/2014/486), [reg. 1](https://www.legislation.gov.uk/uksi/2014/486/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2014/486/schedule) Table 1
+[^c-72044e1e4c2cdf51d158383bc47eb51f]: Textual amendment: [S. 67](https://www.legislation.gov.uk/ukpga/1963/41/section/67) repealed (6.4.2014) by [The Health and Safety (Miscellaneous Repeals and Revocations) Regulations 2014 (S.I. 2014/486)](https://www.legislation.gov.uk/uksi/2014/486), [reg. 1](https://www.legislation.gov.uk/uksi/2014/486/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2014/486/schedule) Table 1
 
 [^c654435]: Textual amendment: [Ss. 3(3)](https://www.legislation.gov.uk/ukpga/1963/41/section/3/3), [4(3)](https://www.legislation.gov.uk/ukpga/1963/41/section/4/3), [6(5)](https://www.legislation.gov.uk/ukpga/1963/41/section/6/5), [7(2)](https://www.legislation.gov.uk/ukpga/1963/41/section/7/2), [8(2)](https://www.legislation.gov.uk/ukpga/1963/41/section/8/2), [9(3)(4)](https://www.legislation.gov.uk/ukpga/1963/41/section/9/3/4), [10(3)(4)](https://www.legislation.gov.uk/ukpga/1963/41/section/10/3/4), [12(3)](https://www.legislation.gov.uk/ukpga/1963/41/section/12/3), [20–22](https://www.legislation.gov.uk/ukpga/1963/41/section/20), [23(2)](https://www.legislation.gov.uk/ukpga/1963/41/section/23/2), [25](https://www.legislation.gov.uk/ukpga/1963/41/section/25), [26](https://www.legislation.gov.uk/ukpga/1963/41/section/26), [27(3)](https://www.legislation.gov.uk/ukpga/1963/41/section/27/3), [42(8)–(10)](https://www.legislation.gov.uk/ukpga/1963/41/section/42/8), [43(6)–(8)](https://www.legislation.gov.uk/ukpga/1963/41/section/43/6), [45](https://www.legislation.gov.uk/ukpga/1963/41/section/45), [46(12)(14)](https://www.legislation.gov.uk/ukpga/1963/41/section/46/12/14), [49(2)](https://www.legislation.gov.uk/ukpga/1963/41/section/49/2), [50](https://www.legislation.gov.uk/ukpga/1963/41/section/50), [54](https://www.legislation.gov.uk/ukpga/1963/41/section/54), [56–58](https://www.legislation.gov.uk/ukpga/1963/41/section/56), [61](https://www.legislation.gov.uk/ukpga/1963/41/section/61), [62](https://www.legislation.gov.uk/ukpga/1963/41/section/62), [65](https://www.legislation.gov.uk/ukpga/1963/41/section/65), [66](https://www.legislation.gov.uk/ukpga/1963/41/section/66), [68](https://www.legislation.gov.uk/ukpga/1963/41/section/68), [70(2)–(4)](https://www.legislation.gov.uk/ukpga/1963/41/section/70/2), [71(1)](https://www.legislation.gov.uk/ukpga/1963/41/section/71/1), [74(2)–(4)](https://www.legislation.gov.uk/ukpga/1963/41/section/74/2), [75(2)](https://www.legislation.gov.uk/ukpga/1963/41/section/75/2), [80(5)(6)(8)](https://www.legislation.gov.uk/ukpga/1963/41/section/80/5/6/8), [81](https://www.legislation.gov.uk/ukpga/1963/41/section/81), [Sch. 1](https://www.legislation.gov.uk/ukpga/1963/41/schedule/1) repealed by [S.I. 1974/1943](https://www.legislation.gov.uk/uksi/1974/1943), [reg. 4](https://www.legislation.gov.uk/uksi/1974/1943/regulation/4), [Sch. 1](https://www.legislation.gov.uk/uksi/1974/1943/schedule/1)
 
-[^key-575673e5685f1194eb488e6b46b31750]: Textual amendment: [S. 69](https://www.legislation.gov.uk/ukpga/1963/41/section/69) repealed (6.4.2014) by [The Health and Safety (Miscellaneous Repeals and Revocations) Regulations 2014 (S.I. 2014/486)](https://www.legislation.gov.uk/uksi/2014/486), [reg. 1](https://www.legislation.gov.uk/uksi/2014/486/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2014/486/schedule) Table 1
+[^c-575673e5685f1194eb488e6b46b31750]: Textual amendment: [S. 69](https://www.legislation.gov.uk/ukpga/1963/41/section/69) repealed (6.4.2014) by [The Health and Safety (Miscellaneous Repeals and Revocations) Regulations 2014 (S.I. 2014/486)](https://www.legislation.gov.uk/uksi/2014/486), [reg. 1](https://www.legislation.gov.uk/uksi/2014/486/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2014/486/schedule) Table 1
 
 [^c654439]: Textual amendment: [S. 53](https://www.legislation.gov.uk/ukpga/1963/41/section/53), [55](https://www.legislation.gov.uk/ukpga/1963/41/section/55), [70(1)](https://www.legislation.gov.uk/ukpga/1963/41/section/70/1) repealed by [S.I. 1974/1943](https://www.legislation.gov.uk/uksi/1974/1943), [reg. 4](https://www.legislation.gov.uk/uksi/1974/1943/regulation/4), [Sch. 1](https://www.legislation.gov.uk/uksi/1974/1943/schedule/1) and [S.I. 1976/2005](https://www.legislation.gov.uk/uksi/1976/2005), [Sch.](https://www.legislation.gov.uk/uksi/1976/2005/schedule)
 
@@ -711,9 +711,9 @@ Where persons employed to work in shop premises eat meals there, suitable and su
 
 [^c654442]: Textual amendment: 28–41, 42(11)(12)(14)–(16), 43(9)(10)(12)–(14) , 60(1), 71(2), 76(1)(2), 83(3) repealed by [S.I. 1976/2005](https://www.legislation.gov.uk/uksi/1976/2005), [Sch.](https://www.legislation.gov.uk/uksi/1976/2005/schedule)
 
-[^key-6dfb551e957208d2a068c09fa0e8889d]: Textual amendment: [S. 72](https://www.legislation.gov.uk/ukpga/1963/41/section/72) repealed (6.4.2014) by [The Health and Safety (Miscellaneous Repeals and Revocations) Regulations 2014 (S.I. 2014/486)](https://www.legislation.gov.uk/uksi/2014/486), [reg. 1](https://www.legislation.gov.uk/uksi/2014/486/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2014/486/schedule) Table 1
+[^c-6dfb551e957208d2a068c09fa0e8889d]: Textual amendment: [S. 72](https://www.legislation.gov.uk/ukpga/1963/41/section/72) repealed (6.4.2014) by [The Health and Safety (Miscellaneous Repeals and Revocations) Regulations 2014 (S.I. 2014/486)](https://www.legislation.gov.uk/uksi/2014/486), [reg. 1](https://www.legislation.gov.uk/uksi/2014/486/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2014/486/schedule) Table 1
 
-[^key-d5778d393ec28fcc50293b9f48d1a3f5]: Textual amendment: [S. 73](https://www.legislation.gov.uk/ukpga/1963/41/section/73) repealed (6.4.2014) by [The Health and Safety (Miscellaneous Repeals and Revocations) Regulations 2014 (S.I. 2014/486)](https://www.legislation.gov.uk/uksi/2014/486), [reg. 1](https://www.legislation.gov.uk/uksi/2014/486/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2014/486/schedule) Table 1
+[^c-d5778d393ec28fcc50293b9f48d1a3f5]: Textual amendment: [S. 73](https://www.legislation.gov.uk/ukpga/1963/41/section/73) repealed (6.4.2014) by [The Health and Safety (Miscellaneous Repeals and Revocations) Regulations 2014 (S.I. 2014/486)](https://www.legislation.gov.uk/uksi/2014/486), [reg. 1](https://www.legislation.gov.uk/uksi/2014/486/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2014/486/schedule) Table 1
 
 [^c654445]: Marginal citation: [1961 c. 34](https://www.legislation.gov.uk/ukpga/1961/34).
 
@@ -727,19 +727,19 @@ Where persons employed to work in shop premises eat meals there, suitable and su
 
 [^c654450]: Textual amendment: [S. 77](https://www.legislation.gov.uk/ukpga/1963/41/section/77) repealed by London Government Act 1963(c. 33), s. 93, Sch. 18 Pt. II
 
-[^key-f2cac101eddfa9bff6f767c0e73f0619]: Textual amendment: [S. 78](https://www.legislation.gov.uk/ukpga/1963/41/section/78) repealed (6.4.2014) by [The Health and Safety (Miscellaneous Repeals and Revocations) Regulations 2014 (S.I. 2014/486)](https://www.legislation.gov.uk/uksi/2014/486), [reg. 1](https://www.legislation.gov.uk/uksi/2014/486/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2014/486/schedule) Table 1
+[^c-f2cac101eddfa9bff6f767c0e73f0619]: Textual amendment: [S. 78](https://www.legislation.gov.uk/ukpga/1963/41/section/78) repealed (6.4.2014) by [The Health and Safety (Miscellaneous Repeals and Revocations) Regulations 2014 (S.I. 2014/486)](https://www.legislation.gov.uk/uksi/2014/486), [reg. 1](https://www.legislation.gov.uk/uksi/2014/486/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2014/486/schedule) Table 1
 
 [^c654451]: Textual amendment: 27(1)(2), 47, 51, 79 repealed by [S.I. 1975/1011](https://www.legislation.gov.uk/uksi/1975/1011), [Sch.](https://www.legislation.gov.uk/uksi/1975/1011/schedule)
 
-[^key-8de479cd6f69c8850f03c5fd071fea7f]: Textual amendment: [S. 80](https://www.legislation.gov.uk/ukpga/1963/41/section/80) repealed (6.4.2014) by [The Health and Safety (Miscellaneous Repeals and Revocations) Regulations 2014 (S.I. 2014/486)](https://www.legislation.gov.uk/uksi/2014/486), [reg. 1](https://www.legislation.gov.uk/uksi/2014/486/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2014/486/schedule) Table 1
+[^c-8de479cd6f69c8850f03c5fd071fea7f]: Textual amendment: [S. 80](https://www.legislation.gov.uk/ukpga/1963/41/section/80) repealed (6.4.2014) by [The Health and Safety (Miscellaneous Repeals and Revocations) Regulations 2014 (S.I. 2014/486)](https://www.legislation.gov.uk/uksi/2014/486), [reg. 1](https://www.legislation.gov.uk/uksi/2014/486/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2014/486/schedule) Table 1
 
 [^c654459]: Textual amendment: [Ss. 3(3)](https://www.legislation.gov.uk/ukpga/1963/41/section/3/3), [4(3)](https://www.legislation.gov.uk/ukpga/1963/41/section/4/3), [6(5)](https://www.legislation.gov.uk/ukpga/1963/41/section/6/5), [7(2)](https://www.legislation.gov.uk/ukpga/1963/41/section/7/2), [8(2)](https://www.legislation.gov.uk/ukpga/1963/41/section/8/2), [9(3)(4)](https://www.legislation.gov.uk/ukpga/1963/41/section/9/3/4), [10(3)(4)](https://www.legislation.gov.uk/ukpga/1963/41/section/10/3/4), [12(3)](https://www.legislation.gov.uk/ukpga/1963/41/section/12/3), [20–22](https://www.legislation.gov.uk/ukpga/1963/41/section/20), [23(2)](https://www.legislation.gov.uk/ukpga/1963/41/section/23/2), [25](https://www.legislation.gov.uk/ukpga/1963/41/section/25), [26](https://www.legislation.gov.uk/ukpga/1963/41/section/26), [27(3)](https://www.legislation.gov.uk/ukpga/1963/41/section/27/3), [42(8)–(10)](https://www.legislation.gov.uk/ukpga/1963/41/section/42/8), [43(6)–(8)](https://www.legislation.gov.uk/ukpga/1963/41/section/43/6), [45](https://www.legislation.gov.uk/ukpga/1963/41/section/45), [46(12)(14)](https://www.legislation.gov.uk/ukpga/1963/41/section/46/12/14), [49(2)](https://www.legislation.gov.uk/ukpga/1963/41/section/49/2), [50](https://www.legislation.gov.uk/ukpga/1963/41/section/50), [54](https://www.legislation.gov.uk/ukpga/1963/41/section/54), [56–58](https://www.legislation.gov.uk/ukpga/1963/41/section/56), [61](https://www.legislation.gov.uk/ukpga/1963/41/section/61), [62](https://www.legislation.gov.uk/ukpga/1963/41/section/62), [65](https://www.legislation.gov.uk/ukpga/1963/41/section/65), [66](https://www.legislation.gov.uk/ukpga/1963/41/section/66), [68](https://www.legislation.gov.uk/ukpga/1963/41/section/68), [70(2)–(4)](https://www.legislation.gov.uk/ukpga/1963/41/section/70/2), [71(1)](https://www.legislation.gov.uk/ukpga/1963/41/section/71/1), [74(2)–(4)](https://www.legislation.gov.uk/ukpga/1963/41/section/74/2), [75(2)](https://www.legislation.gov.uk/ukpga/1963/41/section/75/2), [80(5)(6)(8)](https://www.legislation.gov.uk/ukpga/1963/41/section/80/5/6/8), [81](https://www.legislation.gov.uk/ukpga/1963/41/section/81), [Sch. 1](https://www.legislation.gov.uk/ukpga/1963/41/schedule/1) repealed by [S.I. 1974/1943](https://www.legislation.gov.uk/uksi/1974/1943), [reg. 4](https://www.legislation.gov.uk/uksi/1974/1943/regulation/4), [Sch. 1](https://www.legislation.gov.uk/uksi/1974/1943/schedule/1)
 
-[^key-2de7df6764ace3ba46de5d5d223465b2]: Textual amendment: [S. 82](https://www.legislation.gov.uk/ukpga/1963/41/section/82) repealed (6.4.2014) by [The Health and Safety (Miscellaneous Repeals and Revocations) Regulations 2014 (S.I. 2014/486)](https://www.legislation.gov.uk/uksi/2014/486), [reg. 1](https://www.legislation.gov.uk/uksi/2014/486/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2014/486/schedule) Table 1
+[^c-2de7df6764ace3ba46de5d5d223465b2]: Textual amendment: [S. 82](https://www.legislation.gov.uk/ukpga/1963/41/section/82) repealed (6.4.2014) by [The Health and Safety (Miscellaneous Repeals and Revocations) Regulations 2014 (S.I. 2014/486)](https://www.legislation.gov.uk/uksi/2014/486), [reg. 1](https://www.legislation.gov.uk/uksi/2014/486/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2014/486/schedule) Table 1
 
-[^key-a9724cad712da1e8129893c83b6acc52]: Textual amendment: [S. 83](https://www.legislation.gov.uk/ukpga/1963/41/section/83) repealed (6.4.2014) by [The Health and Safety (Miscellaneous Repeals and Revocations) Regulations 2014 (S.I. 2014/486)](https://www.legislation.gov.uk/uksi/2014/486), [reg. 1](https://www.legislation.gov.uk/uksi/2014/486/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2014/486/schedule) Table 1
+[^c-a9724cad712da1e8129893c83b6acc52]: Textual amendment: [S. 83](https://www.legislation.gov.uk/ukpga/1963/41/section/83) repealed (6.4.2014) by [The Health and Safety (Miscellaneous Repeals and Revocations) Regulations 2014 (S.I. 2014/486)](https://www.legislation.gov.uk/uksi/2014/486), [reg. 1](https://www.legislation.gov.uk/uksi/2014/486/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2014/486/schedule) Table 1
 
-[^key-20d8ae53fd81d575a375a9b17d013c3a]: Textual amendment: [S. 84](https://www.legislation.gov.uk/ukpga/1963/41/section/84) repealed (6.4.2014) by [The Health and Safety (Miscellaneous Repeals and Revocations) Regulations 2014 (S.I. 2014/486)](https://www.legislation.gov.uk/uksi/2014/486), [reg. 1](https://www.legislation.gov.uk/uksi/2014/486/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2014/486/schedule) Table 1
+[^c-20d8ae53fd81d575a375a9b17d013c3a]: Textual amendment: [S. 84](https://www.legislation.gov.uk/ukpga/1963/41/section/84) repealed (6.4.2014) by [The Health and Safety (Miscellaneous Repeals and Revocations) Regulations 2014 (S.I. 2014/486)](https://www.legislation.gov.uk/uksi/2014/486), [reg. 1](https://www.legislation.gov.uk/uksi/2014/486/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2014/486/schedule) Table 1
 
 [^c654502]: Textual amendment: Words repealed by [S.I. 1974/1943](https://www.legislation.gov.uk/uksi/1974/1943), [reg. 4](https://www.legislation.gov.uk/uksi/1974/1943/regulation/4), [Sch. 1](https://www.legislation.gov.uk/uksi/1974/1943/schedule/1)
 
@@ -747,11 +747,11 @@ Where persons employed to work in shop premises eat meals there, suitable and su
 
 [^c654504]: Marginal citation: [1954 c. 70](https://www.legislation.gov.uk/ukpga/1954/70).
 
-[^key-aaab21c5567ad76fbc0fb2b652e727f2]: Textual amendment: [S. 86](https://www.legislation.gov.uk/ukpga/1963/41/section/86) repealed (6.4.2014) by [The Health and Safety (Miscellaneous Repeals and Revocations) Regulations 2014 (S.I. 2014/486)](https://www.legislation.gov.uk/uksi/2014/486), [reg. 1](https://www.legislation.gov.uk/uksi/2014/486/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2014/486/schedule) Table 1
+[^c-aaab21c5567ad76fbc0fb2b652e727f2]: Textual amendment: [S. 86](https://www.legislation.gov.uk/ukpga/1963/41/section/86) repealed (6.4.2014) by [The Health and Safety (Miscellaneous Repeals and Revocations) Regulations 2014 (S.I. 2014/486)](https://www.legislation.gov.uk/uksi/2014/486), [reg. 1](https://www.legislation.gov.uk/uksi/2014/486/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2014/486/schedule) Table 1
 
 [^c654505]: Textual amendment: [S. 87](https://www.legislation.gov.uk/ukpga/1963/41/section/87) repealed by [Northern Ireland Constitution Act 1973 (c. 36)](https://www.legislation.gov.uk/ukpga/1973/36), [Sch. 6 Pt. I](https://www.legislation.gov.uk/ukpga/1973/36/schedule/6/part/I)
 
-[^key-3a81030299d6eb1479cac60ff37c16d9]: Textual amendment: [S. 88](https://www.legislation.gov.uk/ukpga/1963/41/section/88) repealed (6.4.2014) by [The Health and Safety (Miscellaneous Repeals and Revocations) Regulations 2014 (S.I. 2014/486)](https://www.legislation.gov.uk/uksi/2014/486), [reg. 1](https://www.legislation.gov.uk/uksi/2014/486/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2014/486/schedule) Table 1
+[^c-3a81030299d6eb1479cac60ff37c16d9]: Textual amendment: [S. 88](https://www.legislation.gov.uk/ukpga/1963/41/section/88) repealed (6.4.2014) by [The Health and Safety (Miscellaneous Repeals and Revocations) Regulations 2014 (S.I. 2014/486)](https://www.legislation.gov.uk/uksi/2014/486), [reg. 1](https://www.legislation.gov.uk/uksi/2014/486/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2014/486/schedule) Table 1
 
 [^c654508]: Textual amendment: 52(1)–(4)(6)(7), 89 repealed by [S.I. 1977/746](https://www.legislation.gov.uk/uksi/1977/746), [Sch. 4](https://www.legislation.gov.uk/uksi/1977/746/schedule/4)
 
@@ -767,7 +767,7 @@ Where persons employed to work in shop premises eat meals there, suitable and su
 
 [^c654560]: Textual amendment: Words in s. 90(1) in definition of “owner” substituted (S.) (2.4.2001 for specified purposes and otherwise 1.4.2002) by [2000 asp 4](https://www.legislation.gov.uk/asp/2000/4), [s. 88(2)](https://www.legislation.gov.uk/asp/2000/4/section/88/2), [Sch. 5 para. 9](https://www.legislation.gov.uk/asp/2000/4/schedule/5/paragraph/9); [S.S.I. 2001/81](https://www.legislation.gov.uk/ssi/2001/81), [arts. 2](https://www.legislation.gov.uk/ssi/2001/81/article/2), [3](https://www.legislation.gov.uk/ssi/2001/81/article/3), [Schs. 1](https://www.legislation.gov.uk/ssi/2001/81/schedule/1), [2](https://www.legislation.gov.uk/ssi/2001/81/schedule/2)
 
-[^key-9327c7ef19bbbc4280fb99289ddf6aaa]: Textual amendment: Words in s. 90 repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 6 para. 33](https://www.legislation.gov.uk/ukpga/2003/17/schedule/6/paragraph/33), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
+[^c-9327c7ef19bbbc4280fb99289ddf6aaa]: Textual amendment: Words in s. 90 repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 6 para. 33](https://www.legislation.gov.uk/ukpga/2003/17/schedule/6/paragraph/33), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
 
 [^c654568]: Textual amendment: S. 90(2) repealed by [Electricity Act 1989 (c. 29, SIF 44:1)](https://www.legislation.gov.uk/ukpga/1989/29), [ss. 102](https://www.legislation.gov.uk/ukpga/1989/29/section/102), [112(3)](https://www.legislation.gov.uk/ukpga/1989/29/section/112/3), [Sch. 17 para. 35(1)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/17/paragraph/35/1), [Sch. 18](https://www.legislation.gov.uk/ukpga/1989/29/schedule/18)
 
@@ -775,13 +775,13 @@ Where persons employed to work in shop premises eat meals there, suitable and su
 
 [^c654570]: Textual amendment: S. 90(4)(b) repealed by [Registration of Births, Deaths and Marriages (Scotland) Act 1965 (c. 49)](https://www.legislation.gov.uk/ukpga/1965/49), [Sch. 2](https://www.legislation.gov.uk/ukpga/1965/49/schedule/2)
 
-[^key-76731ffa9b1da94cf9dd146616547614]: Textual amendment: Words in s. 90(4)(c) inserted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 83](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/83); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-76731ffa9b1da94cf9dd146616547614]: Textual amendment: Words in s. 90(4)(c) inserted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 83](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/83); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
 
-[^key-2bf189add9b474425651c33dba200185]: Textual amendment: Word in s. 90(4)(c) inserted (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 4 para. 10(a)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/4/paragraph/10/a); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/10)
+[^c-2bf189add9b474425651c33dba200185]: Textual amendment: Word in s. 90(4)(c) inserted (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 4 para. 10(a)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/4/paragraph/10/a); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/10)
 
-[^key-8a736ac6b7a1fd4de7a57a8f8c506b14]: Textual amendment: S. 90(4)(d) substituted (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 4 para. 10(b)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/4/paragraph/10/b); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/10)
+[^c-8a736ac6b7a1fd4de7a57a8f8c506b14]: Textual amendment: S. 90(4)(d) substituted (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 4 para. 10(b)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/4/paragraph/10/b); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/10)
 
-[^key-ddf6916c8b1c0761bbc8436e42df3f52]: Textual amendment: Words in s. 90(4)(d) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 17](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/17); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
+[^c-ddf6916c8b1c0761bbc8436e42df3f52]: Textual amendment: Words in s. 90(4)(d) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 17](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/17); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
 
 [^c654572]: Modification: Power of appointment conferred by s. 91(2) fully exercised except in part, as regards certain premises in a covered market place: [S.I. 1964/191](https://www.legislation.gov.uk/uksi/1964/191), 1045 and 1989/2312
 

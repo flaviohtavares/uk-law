@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Revocation of previous Regulations[^key-e494c8f1ba3c3bf57836cb0d0a674d18]
+## 2. Revocation of previous Regulations[^c-e494c8f1ba3c3bf57836cb0d0a674d18]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ The Financing of Maintained Schools (England) 2004[^f00024],The LEA Budget, Scho
 
 ## Annotations
 
-[^key-e494c8f1ba3c3bf57836cb0d0a674d18]: Commencement: Reg. 2 in force at 29.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/228/regulation/1/1)
+[^c-e494c8f1ba3c3bf57836cb0d0a674d18]: Commencement: Reg. 2 in force at 29.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/228/regulation/1/1)
 
 [^f00024]: Footnote: [S.I. 2004/3130](https://www.legislation.gov.uk/uksi/2004/3130).
 

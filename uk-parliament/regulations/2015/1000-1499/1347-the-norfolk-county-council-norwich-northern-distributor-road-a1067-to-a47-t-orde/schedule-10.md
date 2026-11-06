@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 10 — LAND IN WHICH ONLY NEW RIGHTS ETC. MAY BE ACQUIRED[^key-121922566b9c5c0e5713309922022800]
+## SCHEDULE 10 — LAND IN WHICH ONLY NEW RIGHTS ETC. MAY BE ACQUIRED[^c-121922566b9c5c0e5713309922022800]
 
 *Extent: E+W+S*
 
@@ -42,4 +42,4 @@ Article 23
 
 ## Annotations
 
-[^key-121922566b9c5c0e5713309922022800]: Commencement: Sch. 10 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
+[^c-121922566b9c5c0e5713309922022800]: Commencement: Sch. 10 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)

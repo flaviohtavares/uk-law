@@ -31,7 +31,7 @@ summary: ''
 
 ENVIRONMENTAL PROTECTION
 
-The Waste Incineration Regulations (Northern Ireland) 2003 (revoked)[^key-82706ed94620b047d0fec2a07807482b]
+The Waste Incineration Regulations (Northern Ireland) 2003 (revoked)[^c-82706ed94620b047d0fec2a07807482b]
 
 Made
 
@@ -41,34 +41,34 @@ Coming into operation
 
 22nd September 2003
 
-[^key-82706ed94620b047d0fec2a07807482b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-82706ed94620b047d0fec2a07807482b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-82706ed94620b047d0fec2a07807482b]
+## 1. Citation and commencement[^c-82706ed94620b047d0fec2a07807482b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-82706ed94620b047d0fec2a07807482b]
+## 2. Interpretation[^c-82706ed94620b047d0fec2a07807482b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Application in relation to waste incineration installations[^key-82706ed94620b047d0fec2a07807482b]
+## 3. Application in relation to waste incineration installations[^c-82706ed94620b047d0fec2a07807482b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Transitional provisions[^key-82706ed94620b047d0fec2a07807482b]
+## 4. Transitional provisions[^c-82706ed94620b047d0fec2a07807482b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendments to the 2003 Regulations[^key-82706ed94620b047d0fec2a07807482b]
+## 5. Amendments to the 2003 Regulations[^c-82706ed94620b047d0fec2a07807482b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-82706ed94620b047d0fec2a07807482b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-82706ed94620b047d0fec2a07807482b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-82706ed94620b047d0fec2a07807482b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-82706ed94620b047d0fec2a07807482b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-82706ed94620b047d0fec2a07807482b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/390) revoked (7.1.2014) by [The Pollution Prevention and Control (Industrial Emissions) Regulations (Northern Ireland) 2013 (S.R. 2013/160)](https://www.legislation.gov.uk/nisr/2013/160), [Sch. 17](https://www.legislation.gov.uk/nisr/2013/160/schedule/17) (with [reg. 5](https://www.legislation.gov.uk/nisr/2013/160/regulation/5))
+[^c-82706ed94620b047d0fec2a07807482b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/390) revoked (7.1.2014) by [The Pollution Prevention and Control (Industrial Emissions) Regulations (Northern Ireland) 2013 (S.R. 2013/160)](https://www.legislation.gov.uk/nisr/2013/160), [Sch. 17](https://www.legislation.gov.uk/nisr/2013/160/schedule/17) (with [reg. 5](https://www.legislation.gov.uk/nisr/2013/160/regulation/5))

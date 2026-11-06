@@ -49,13 +49,13 @@ The Welsh Ministers, in exercise of the powers conferred by sections 114(3), (4)
 
 ## PART 1 — GENERAL
 
-### 1. Title, commencement and application[^key-15291f07a315104f23e66d0d9e93c59f]
+### 1. Title, commencement and application[^c-15291f07a315104f23e66d0d9e93c59f]
 
 (1) The title of these Regulations is the Social Services Complaints Procedure (Wales) Regulations 2014 and they come into force on 1 August 2014.
 
 (2) These Regulations apply in relation to Wales.
 
-### 2. Interpretation[^key-3e7b390b6041f0ba77f5816a4e5adfa1]
+### 2. Interpretation[^c-3e7b390b6041f0ba77f5816a4e5adfa1]
 
 In these Regulations—
 
@@ -65,23 +65,23 @@ In these Regulations—
 - “former complaints procedure” (“*gweithdrefn gwynion flaenorol”)* means the complaints procedure established under the provisions of the Social Services Complaints Procedure (Wales) Regulations 2005[^f00002] pursuant to sections 114 and 115 of the Health and Social Care (Community Health and Standards) Act 2003[^f00003];
 - “independent investigator” (“*ymchwilydd annibynnol*”) means a person who is neither a member nor officer of the local authority to which complaints have been made, or the spouse or civil partner of such a member or officer but does include a person with whom the local authority has entered into a contract for services in order to conduct an investigation.
 - “local authority” (“*awdurdod lleol*”) means a county council or county borough council in Wales;
-- “social services functions” (“[^key-fd22974852c844ed87f4ae6f273c34a4]*swyddogaethau gwasanaethau cymdeithasol*”) means functions within the meaning of section 143 of and Schedule 2 to the Social Services and Well-being (Wales) Act 2014;
+- “social services functions” (“[^c-fd22974852c844ed87f4ae6f273c34a4]*swyddogaethau gwasanaethau cymdeithasol*”) means functions within the meaning of section 143 of and Schedule 2 to the Social Services and Well-being (Wales) Act 2014;
 - “staff” (“*staff”*) means any person who is employed by or engaged to provide services to a local authority; and
 - “working day” (“*diwrnod gwaith*”) means a day except Saturday, Sunday, Christmas Day, Boxing Day, Good Friday or a day which is a bank holiday under the Banking and Financial Dealings Act 1971[^f00004].
 
 ## PART 2 — SETTING UP THE COMPLAINTS PROCEDURE
 
-### 3. Duty to establish a complaints procedure[^key-296e6c8f3d706ff37dab8cc4d61656bb]
+### 3. Duty to establish a complaints procedure[^c-296e6c8f3d706ff37dab8cc4d61656bb]
 
 (1) Each local authority must make arrangements in accordance with these Regulations for the handling and consideration of complaints.
 
 (2) The arrangements made in accordance with paragraph (1) must be in writing.
 
-### 4. Senior officer responsible for complaints[^key-ac73203b5dbc67afc23bc7ed376b0fa1]
+### 4. Senior officer responsible for complaints[^c-ac73203b5dbc67afc23bc7ed376b0fa1]
 
 Each local authority must designate a senior officer of the local authority to be responsible for ensuring compliance with the complaints procedure made by the local authority under these Regulations.
 
-### 5. Complaints officer[^key-11e34bad0c7c3050d1f3808c13bd67d6]
+### 5. Complaints officer[^c-11e34bad0c7c3050d1f3808c13bd67d6]
 
 (1) Each local authority must appoint a person, in these Regulations referred to as a complaints officer.
 
@@ -91,7 +91,7 @@ Each local authority must designate a senior officer of the local authority to b
 
 (4) A complaints officer need not be an employee of the local authority and may be appointed as a complaints officer for more than one local authority.
 
-### 6. Publicity[^key-65b6694fc78483c31186cc29e05958a9]
+### 6. Publicity[^c-65b6694fc78483c31186cc29e05958a9]
 
 (1) Each local authority must ensure that there is effective publicity, in a variety of media, formats and languages, about its complaints procedure.
 
@@ -101,7 +101,7 @@ Each local authority must designate a senior officer of the local authority to b
 
 (4) A copy of the complaints procedure must be given free of charge to any person who requests it, in the format that has been requested.
 
-### 7. Form of communication[^key-e61d28a6a8e8c02d696554fb999ea9b5]
+### 7. Form of communication[^c-e61d28a6a8e8c02d696554fb999ea9b5]
 
 (1) Any communication which is required by these Regulations to be made to a complainant may be sent to the complainant electronically where the complainant—
 
@@ -111,13 +111,13 @@ Each local authority must designate a senior officer of the local authority to b
 
 (2) Any requirement in these Regulations for a document to be signed by a person is satisfied, in the case of a document which is sent electronically in accordance with these Regulations, by the individual who is authorised to sign the document typing their name or producing their name using a computer or other electronic means.
 
-### 8. Information and training of staff[^key-3fc9bc15dc28d42c4f0f3146adc5abe6]
+### 8. Information and training of staff[^c-3fc9bc15dc28d42c4f0f3146adc5abe6]
 
 Each local authority must ensure that its staff are informed about and appropriately trained in t0he operation of the arrangements for the handling and investigation of complaints.
 
 ## PART 3 — NATURE AND SCOPE OF THE COMPLAINTS PROCEDURE
 
-### 9. Persons who may make complaints[^key-b9881dd0f4361e427f583073041192e2]
+### 9. Persons who may make complaints[^c-b9881dd0f4361e427f583073041192e2]
 
 (1) A complaint may be made by any person—
 
@@ -141,7 +141,7 @@ Each local authority must ensure that its staff are informed about and appropria
 
 (6) Where notification is given under paragraph (5) and the person referred to in paragraph (1) in respect of whom the complaint has been made is alive the local authority must, if it considers it appropriate to do so having regard to the understanding of the person referred to in paragraph (1), provide that person with a copy of the notification.
 
-### 10. Matters about which complaints may be made[^key-15fb2e26f2ce2641e1893a00b72da9a4]
+### 10. Matters about which complaints may be made[^c-15fb2e26f2ce2641e1893a00b72da9a4]
 
 Subject to regulation 11, a complaint to a local authority may be made about the exercise of its social services functions including—
 
@@ -149,7 +149,7 @@ Subject to regulation 11, a complaint to a local authority may be made about the
 - (b) the provision of services by another person or body in accordance with arrangements made by the local authority in the discharge of those functions;
 - (c) the provision of services by the local authority in pursuance of arrangements made by that local authority under section 33 of the National Health Service (Wales) Act 2006 in relation to the functions of an NHS body (within the meaning of that section).
 
-### 11. Matters excluded from consideration[^key-01c8461d1292e3fe9efde6d668e94689]
+### 11. Matters excluded from consideration[^c-01c8461d1292e3fe9efde6d668e94689]
 
 (1) A complaint must not be dealt with under any procedure established under these Regulations in relation to the exercise of functions that are the subject of the Representations Procedure (Wales) Regulations 2014.
 
@@ -161,7 +161,7 @@ Subject to regulation 11, a complaint to a local authority may be made about the
 - (d) a complaint arising out of an alleged failure by a local authority to comply with a request for information under the Freedom of Information Act 2000[^f00010];
 - (e) a complaint which is made orally, either in person, or on the telephone and is resolved to the satisfaction of the person who made the complaint not later than the next working day after the day on which the complaint was made.
 
-### 12. Matters subject to concurrent consideration[^key-aa458e802f1b31063292632c576f0b11]
+### 12. Matters subject to concurrent consideration[^c-aa458e802f1b31063292632c576f0b11]
 
 (1) A local authority must not consider, or further consider, a complaint under these Regulations to the extent that—
 
@@ -186,7 +186,7 @@ Subject to regulation 11, a complaint to a local authority may be made about the
 
 (6) Any complaint that is resubmitted in accordance with paragraph (4) of this regulation must be considered by the local authority in accordance with regulations 16 to 19.
 
-### 13. Time limit for making complaints[^key-1346d6dd85fe87055b2da7d8986957db]
+### 13. Time limit for making complaints[^c-1346d6dd85fe87055b2da7d8986957db]
 
 (1) Subject to paragraph (2), a complaint must be made no later than 12 months after—
 
@@ -198,7 +198,7 @@ Subject to regulation 11, a complaint to a local authority may be made about the
 - (a) the complainant has good reasons for not making the complaint within that time limit; and
 - (b) despite the delay, it is still possible to investigate the complaint effectively and fairly.
 
-### 14. Withdrawal of complaints[^key-18d66d338701956e7869caef6ee31b03]
+### 14. Withdrawal of complaints[^c-18d66d338701956e7869caef6ee31b03]
 
 (1) A complaint may be withdrawn at any time by the person who made the complaint and the withdrawal may be notified—
 
@@ -211,7 +211,7 @@ Subject to regulation 11, a complaint to a local authority may be made about the
 
 ## PART 4 — HANDLING AND INVESTIGATION OF COMPLAINTS BY LOCAL AUTHORITIES
 
-### 15. Local authority action upon receiving a complaint[^key-4f83221b4551c654e5356e0f7cbcb6de]
+### 15. Local authority action upon receiving a complaint[^c-4f83221b4551c654e5356e0f7cbcb6de]
 
 (1) A complaint may be made orally or in writing.
 
@@ -228,7 +228,7 @@ Subject to regulation 11, a complaint to a local authority may be made about the
 - (b) offer assistance and guidance to the complainant on following the complaints procedure or advice on where such assistance and guidance may be obtained;
 - (c) notify the person making the complaint that they may request that the local authority investigate the complaint in accordance with regulation 17.
 
-### 16. Local Resolution[^key-6454c98ea316237ee8dcdd8f3ab42572]
+### 16. Local Resolution[^c-6454c98ea316237ee8dcdd8f3ab42572]
 
 (1) The procedure followed by the local authority in considering complaints under this regulation need not involve an independent investigator.
 
@@ -240,7 +240,7 @@ Subject to regulation 11, a complaint to a local authority may be made about the
 
 (5) Where the local authority resolves the matter to the satisfaction of the complainant then the local authority must provide the complainant with written details of the terms of the resolution within 5 working days of the date upon which the complaint is resolved.
 
-### 17. Formal Investigation[^key-3ffbfa6b7fa1df53e2f78981e7676f80]
+### 17. Formal Investigation[^c-3ffbfa6b7fa1df53e2f78981e7676f80]
 
 (1) Where—
 
@@ -261,7 +261,7 @@ the local authority must consider the complaint in accordance with this regulati
 - (b) together with the independent investigator, investigate the complaint in a manner appropriate to resolve it speedily and efficiently; and
 - (c) during the investigation, keep the complainant informed, as far as reasonably practicable, as to the progress of the investigation.
 
-### 18. Response[^key-64745c28e7023485b88342dc0f5a5f9e]
+### 18. Response[^c-64745c28e7023485b88342dc0f5a5f9e]
 
 (1) The local authority must within 25 working days of the “start date” as defined in paragraph (2) send the complainant a written response which—
 
@@ -279,7 +279,7 @@ the local authority must consider the complaint in accordance with this regulati
 
 (4) A response sent in accordance with paragraph (3) must be sent to the complainant as soon as reasonably practicable and no later than 6 months beginning on the day upon which the local authority received the complaint.
 
-### 19. Complaints involving more than one local authority[^key-9b1e9a00137d93a66ee609ec8189e29f]
+### 19. Complaints involving more than one local authority[^c-9b1e9a00137d93a66ee609ec8189e29f]
 
 (1) In any case where it appears to the complaints officer that a complaint is or may be a complaint which relates to the exercise of functions by more than one local authority the complaints officer must, as soon as reasonably practicable—
 
@@ -299,7 +299,7 @@ the local authority must consider the complaint in accordance with this regulati
 
 ## PART 5 — LEARNING FROM COMPLAINTS
 
-### 20. Monitoring[^key-821ab541f935a9f10f19b0622a26e693]
+### 20. Monitoring[^c-821ab541f935a9f10f19b0622a26e693]
 
 Each local authority must keep a record of—
 
@@ -309,7 +309,7 @@ Each local authority must keep a record of—
 
 with the intention of monitoring its compliance with these Regulations.
 
-### 21. Annual Report[^key-fa7e09d447fb1850c2fb58e5b58e801d]
+### 21. Annual Report[^c-fa7e09d447fb1850c2fb58e5b58e801d]
 
 (1) Each local authority must prepare an annual report, which must include details of the records kept in accordance with regulation 20, on its performance in the handling and investigation of complaints for the purposes of—
 
@@ -320,15 +320,15 @@ with the intention of monitoring its compliance with these Regulations.
 
 ## PART 6 — REVOCATION, TRANSITIONAL PROVISION AND AMENDMENTS
 
-### 22. Transitional provision[^key-5767d971c61f0add28850c359463f267]
+### 22. Transitional provision[^c-5767d971c61f0add28850c359463f267]
 
 Where the consideration of a complaint in accordance with the former complaints procedure has not been concluded at the time that these Regulations come into force then it must continue to be considered in accordance with that procedure.
 
-### 23. Revocation[^key-7cb530ec23e79129e0fef6cffcb70ba7]
+### 23. Revocation[^c-7cb530ec23e79129e0fef6cffcb70ba7]
 
 The Social Services Complaints Procedure (Wales) Regulations 2005[^f00012] are revoked save to the extent necessary for the purposes of regulation 22.
 
-### 24. Amendments[^key-a823c30d9214e37c6668cde0a8dc0c82]
+### 24. Amendments[^c-a823c30d9214e37c6668cde0a8dc0c82]
 
 (1) In Schedule 1 paragraph 10 of the Local Authority Adoption Service (Wales) Regulations 2007[^f00013] for “The Social Services Complaints Procedure (Wales) Regulations 2005” substitute—
 
@@ -370,31 +370,31 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00001]: Footnote: [2003 c.43](https://www.legislation.gov.uk/ukpga/2003/43). The functions of the National Assembly for Wales under the Health and Social Care (Community Health and Standards) Act 2003 were transferred to and now vest in the Welsh Ministers by virtue of section 162 and paragraph 30 (2) (c) of Schedule 11 to the Government of Wales Act [2006 c.32](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-15291f07a315104f23e66d0d9e93c59f]: Commencement: Reg. 1 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1794/regulation/1/1)
+[^c-15291f07a315104f23e66d0d9e93c59f]: Commencement: Reg. 1 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1794/regulation/1/1)
 
-[^key-3e7b390b6041f0ba77f5816a4e5adfa1]: Commencement: Reg. 2 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1794/regulation/1/1)
+[^c-3e7b390b6041f0ba77f5816a4e5adfa1]: Commencement: Reg. 2 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1794/regulation/1/1)
 
 [^f00002]: Footnote: [S.I. 2005/3366 (W.263)](https://www.legislation.gov.uk/wsi/2005/3366).
 
 [^f00003]: Footnote: [2003 c.43](https://www.legislation.gov.uk/ukpga/2003/43).
 
-[^key-fd22974852c844ed87f4ae6f273c34a4]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2014/1794/regulation/2) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 167](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/167)
+[^c-fd22974852c844ed87f4ae6f273c34a4]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2014/1794/regulation/2) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 167](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/167)
 
 [^f00004]: Footnote: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-296e6c8f3d706ff37dab8cc4d61656bb]: Commencement: Reg. 3 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1794/regulation/1/1)
+[^c-296e6c8f3d706ff37dab8cc4d61656bb]: Commencement: Reg. 3 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1794/regulation/1/1)
 
-[^key-ac73203b5dbc67afc23bc7ed376b0fa1]: Commencement: Reg. 4 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1794/regulation/1/1)
+[^c-ac73203b5dbc67afc23bc7ed376b0fa1]: Commencement: Reg. 4 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1794/regulation/1/1)
 
-[^key-11e34bad0c7c3050d1f3808c13bd67d6]: Commencement: Reg. 5 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1794/regulation/1/1)
+[^c-11e34bad0c7c3050d1f3808c13bd67d6]: Commencement: Reg. 5 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1794/regulation/1/1)
 
-[^key-65b6694fc78483c31186cc29e05958a9]: Commencement: Reg. 6 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1794/regulation/1/1)
+[^c-65b6694fc78483c31186cc29e05958a9]: Commencement: Reg. 6 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1794/regulation/1/1)
 
-[^key-e61d28a6a8e8c02d696554fb999ea9b5]: Commencement: Reg. 7 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1794/regulation/1/1)
+[^c-e61d28a6a8e8c02d696554fb999ea9b5]: Commencement: Reg. 7 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1794/regulation/1/1)
 
-[^key-3fc9bc15dc28d42c4f0f3146adc5abe6]: Commencement: Reg. 8 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1794/regulation/1/1)
+[^c-3fc9bc15dc28d42c4f0f3146adc5abe6]: Commencement: Reg. 8 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1794/regulation/1/1)
 
-[^key-b9881dd0f4361e427f583073041192e2]: Commencement: Reg. 9 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1794/regulation/1/1)
+[^c-b9881dd0f4361e427f583073041192e2]: Commencement: Reg. 9 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1794/regulation/1/1)
 
 [^f00005]: Footnote: “Social services functions” are defined in section 148 of the Health and Social Care (Community Health and Standards) Act 2003 by reference to the Local Authority Social Services Act [1970 c.42](https://www.legislation.gov.uk/ukpga/1970/42) (*see* section 1A and Schedule 1).
 
@@ -404,43 +404,43 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00008]: Footnote: [2005 c.9](https://www.legislation.gov.uk/ukpga/2005/9).
 
-[^key-15fb2e26f2ce2641e1893a00b72da9a4]: Commencement: Reg. 10 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1794/regulation/1/1)
+[^c-15fb2e26f2ce2641e1893a00b72da9a4]: Commencement: Reg. 10 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1794/regulation/1/1)
 
-[^key-01c8461d1292e3fe9efde6d668e94689]: Commencement: Reg. 11 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1794/regulation/1/1)
+[^c-01c8461d1292e3fe9efde6d668e94689]: Commencement: Reg. 11 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1794/regulation/1/1)
 
 [^f00009]: Footnote: [2005 c.10](https://www.legislation.gov.uk/ukpga/2005/10).
 
 [^f00010]: Footnote: [2000 c.36](https://www.legislation.gov.uk/ukpga/2000/36).
 
-[^key-aa458e802f1b31063292632c576f0b11]: Commencement: Reg. 12 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1794/regulation/1/1)
+[^c-aa458e802f1b31063292632c576f0b11]: Commencement: Reg. 12 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1794/regulation/1/1)
 
 [^f00011]: Footnote: [1989 c.41](https://www.legislation.gov.uk/ukpga/1989/41).
 
-[^key-1346d6dd85fe87055b2da7d8986957db]: Commencement: Reg. 13 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1794/regulation/1/1)
+[^c-1346d6dd85fe87055b2da7d8986957db]: Commencement: Reg. 13 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1794/regulation/1/1)
 
-[^key-18d66d338701956e7869caef6ee31b03]: Commencement: Reg. 14 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1794/regulation/1/1)
+[^c-18d66d338701956e7869caef6ee31b03]: Commencement: Reg. 14 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1794/regulation/1/1)
 
-[^key-4f83221b4551c654e5356e0f7cbcb6de]: Commencement: Reg. 15 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1794/regulation/1/1)
+[^c-4f83221b4551c654e5356e0f7cbcb6de]: Commencement: Reg. 15 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1794/regulation/1/1)
 
-[^key-6454c98ea316237ee8dcdd8f3ab42572]: Commencement: Reg. 16 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1794/regulation/1/1)
+[^c-6454c98ea316237ee8dcdd8f3ab42572]: Commencement: Reg. 16 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1794/regulation/1/1)
 
-[^key-3ffbfa6b7fa1df53e2f78981e7676f80]: Commencement: Reg. 17 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1794/regulation/1/1)
+[^c-3ffbfa6b7fa1df53e2f78981e7676f80]: Commencement: Reg. 17 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1794/regulation/1/1)
 
-[^key-64745c28e7023485b88342dc0f5a5f9e]: Commencement: Reg. 18 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1794/regulation/1/1)
+[^c-64745c28e7023485b88342dc0f5a5f9e]: Commencement: Reg. 18 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1794/regulation/1/1)
 
-[^key-9b1e9a00137d93a66ee609ec8189e29f]: Commencement: Reg. 19 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1794/regulation/1/1)
+[^c-9b1e9a00137d93a66ee609ec8189e29f]: Commencement: Reg. 19 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1794/regulation/1/1)
 
-[^key-821ab541f935a9f10f19b0622a26e693]: Commencement: Reg. 20 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1794/regulation/1/1)
+[^c-821ab541f935a9f10f19b0622a26e693]: Commencement: Reg. 20 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1794/regulation/1/1)
 
-[^key-fa7e09d447fb1850c2fb58e5b58e801d]: Commencement: Reg. 21 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1794/regulation/1/1)
+[^c-fa7e09d447fb1850c2fb58e5b58e801d]: Commencement: Reg. 21 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1794/regulation/1/1)
 
-[^key-5767d971c61f0add28850c359463f267]: Commencement: Reg. 22 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1794/regulation/1/1)
+[^c-5767d971c61f0add28850c359463f267]: Commencement: Reg. 22 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1794/regulation/1/1)
 
-[^key-7cb530ec23e79129e0fef6cffcb70ba7]: Commencement: Reg. 23 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1794/regulation/1/1)
+[^c-7cb530ec23e79129e0fef6cffcb70ba7]: Commencement: Reg. 23 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1794/regulation/1/1)
 
 [^f00012]: Footnote: [S.I. 2005/3366 (W.263)](https://www.legislation.gov.uk/wsi/2005/3366).
 
-[^key-a823c30d9214e37c6668cde0a8dc0c82]: Commencement: Reg. 24 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1794/regulation/1/1)
+[^c-a823c30d9214e37c6668cde0a8dc0c82]: Commencement: Reg. 24 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1794/regulation/1/1)
 
 [^f00013]: Footnote: [S.I. 2007/1357 (W 128)](https://www.legislation.gov.uk/wsi/2007/1357).
 

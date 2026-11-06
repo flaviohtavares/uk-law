@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 143. Proceedings for recovery orders in England and Wales or Northern Ireland[^key-a0ab3c6b6245d05543f99631ff3dabe6]
+## 143. Proceedings for recovery orders in England and Wales or Northern Ireland[^c-a0ab3c6b6245d05543f99631ff3dabe6]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ wherever domiciled, resident or present.
 
 ## Annotations
 
-[^key-a0ab3c6b6245d05543f99631ff3dabe6]: Commencement: [Art. 143](https://www.legislation.gov.uk/uksi/2005/3181/article/143) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-a0ab3c6b6245d05543f99631ff3dabe6]: Commencement: [Art. 143](https://www.legislation.gov.uk/uksi/2005/3181/article/143) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

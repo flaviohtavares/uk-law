@@ -30,7 +30,7 @@ summary: ''
 - (b) as a company with its place of management there, or
 - (c) as a company falling under those laws to be regarded for any other reason as resident or domiciled there.
 
-(4) Condition C is that the charge applies at a rate of at least 22%[^key-bfba885f485a9ea8c82a60dc10cb047d] in relation to the amounts subject to tax in the insurer's hands, other than amounts arising or accruing in respect of investments of a description for which a special relief or exemption is generally available.
+(4) Condition C is that the charge applies at a rate of at least 22%[^c-bfba885f485a9ea8c82a60dc10cb047d] in relation to the amounts subject to tax in the insurer's hands, other than amounts arising or accruing in respect of investments of a description for which a special relief or exemption is generally available.
 
 (5) Condition D is that the charge is made otherwise than by reference to the insurer's profits.
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bfba885f485a9ea8c82a60dc10cb047d]: Textual amendment: Word in [s. 533(4)](https://www.legislation.gov.uk/ukpga/2005/5/section/533/4) substituted (for the tax year 2027-28 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 6(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/6/8), [Sch. 1 para. 45](https://www.legislation.gov.uk/ukpga/2026/11/schedule/1/paragraph/45)
+[^c-bfba885f485a9ea8c82a60dc10cb047d]: Textual amendment: Word in [s. 533(4)](https://www.legislation.gov.uk/ukpga/2005/5/section/533/4) substituted (for the tax year 2027-28 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 6(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/6/8), [Sch. 1 para. 45](https://www.legislation.gov.uk/ukpga/2026/11/schedule/1/paragraph/45)

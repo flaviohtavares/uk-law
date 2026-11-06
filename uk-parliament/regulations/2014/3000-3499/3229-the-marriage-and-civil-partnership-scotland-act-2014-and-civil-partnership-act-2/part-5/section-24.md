@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Countries or territories in which armed forces marriage between civil partners may take place[^key-2f79b10d6810309003dd0d322b91f145]
+## 24. Countries or territories in which armed forces marriage between civil partners may take place[^c-2f79b10d6810309003dd0d322b91f145]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ C is to be regarded for the purposes of paragraph (1)(c) as the child of P.
 
 ## Annotations
 
-[^key-2f79b10d6810309003dd0d322b91f145]: Commencement: Art. 24 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-2f79b10d6810309003dd0d322b91f145]: Commencement: Art. 24 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)

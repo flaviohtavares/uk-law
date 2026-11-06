@@ -30,7 +30,7 @@ summary: ''
 
 WELFARE OF ANIMALS
 
-Welfare of Livestock (Amendment) Regulations (Northern Ireland) 1998 (revoked)[^key-203323386415e4fc8560d3274c18d1d4]
+Welfare of Livestock (Amendment) Regulations (Northern Ireland) 1998 (revoked)[^c-203323386415e4fc8560d3274c18d1d4]
 
 Made
 
@@ -40,30 +40,30 @@ Coming into operation
 
 31st August 1998
 
-[^key-203323386415e4fc8560d3274c18d1d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-203323386415e4fc8560d3274c18d1d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-203323386415e4fc8560d3274c18d1d4]
+## 1. Citation, commencement and interpretation[^c-203323386415e4fc8560d3274c18d1d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Welfare of Livestock Regulations (Northern Ireland) 1995[^key-203323386415e4fc8560d3274c18d1d4]
+## 2. Amendment of the Welfare of Livestock Regulations (Northern Ireland) 1995[^c-203323386415e4fc8560d3274c18d1d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-203323386415e4fc8560d3274c18d1d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-203323386415e4fc8560d3274c18d1d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-203323386415e4fc8560d3274c18d1d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-203323386415e4fc8560d3274c18d1d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-203323386415e4fc8560d3274c18d1d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-203323386415e4fc8560d3274c18d1d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-203323386415e4fc8560d3274c18d1d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-203323386415e4fc8560d3274c18d1d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-203323386415e4fc8560d3274c18d1d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-203323386415e4fc8560d3274c18d1d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-203323386415e4fc8560d3274c18d1d4]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/251) revoked (16.10.2000) by [Welfare of Farmed Animals Regulations (Northern Ireland) 2000 (S.R. 2000/270)](https://www.legislation.gov.uk/nisr/2000/270), [regs. 1](https://www.legislation.gov.uk/nisr/2000/270/regulation/1), [15](https://www.legislation.gov.uk/nisr/2000/270/regulation/15)
+[^c-203323386415e4fc8560d3274c18d1d4]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/251) revoked (16.10.2000) by [Welfare of Farmed Animals Regulations (Northern Ireland) 2000 (S.R. 2000/270)](https://www.legislation.gov.uk/nisr/2000/270), [regs. 1](https://www.legislation.gov.uk/nisr/2000/270/regulation/1), [15](https://www.legislation.gov.uk/nisr/2000/270/regulation/15)

@@ -34,11 +34,11 @@ An Act to establish the Infrastructure Planning Commission and make provision ab
 
 \[26th November 2008\]
 
-Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-bf2c6e7d383c9b437fc94155e4df5569][^key-3e89416a8dc86aedb3ad069ff9202c53]
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-bf2c6e7d383c9b437fc94155e4df5569][^c-3e89416a8dc86aedb3ad069ff9202c53]
 
 ## Contents
 
-### Part 1 — Infrastructure planning: fees[^key-b341055686999afc1086cd44b81b6a3b][^key-db2501addce6c53916be799fda44820c]
+### Part 1 — Infrastructure planning: fees[^c-b341055686999afc1086cd44b81b6a3b][^c-db2501addce6c53916be799fda44820c]
 
 *Extent: E+W+S*
 
@@ -160,7 +160,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 53 — Rights of entry](part-5/section-53.md)
 - [Section 54 — Rights of entry: Crown land](part-5/section-54.md)
 
-#### Chapter 4 — Fees[^key-f51c3df54edd2374cfc825dca5d6eca8]
+#### Chapter 4 — Fees[^c-f51c3df54edd2374cfc825dca5d6eca8]
 
 - [Section 54A — Power to provide for fees for certain services in relation to nationally significant infrastructure projects](part-5/section-54a.md)
 
@@ -205,11 +205,11 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 76 — Allocation within Panel of Panel's functions](part-6/section-76.md)
 - [Section 77 — Exercise of Panel's powers for examining application](part-6/section-77.md)
 
-#### Chapter 3 — The single-appointed-person procedure[^key-87cf12b29885a454ad6c2865d0e8dee6]
+#### Chapter 3 — The single-appointed-person procedure[^c-87cf12b29885a454ad6c2865d0e8dee6]
 
 *Extent: E+W+S*
 
-##### The single appointed person[^key-630135e02c3dfa25b401ebdc643a4fa9]
+##### The single appointed person[^c-630135e02c3dfa25b401ebdc643a4fa9]
 
 - [Section 78 — Single appointed person to handle application](part-6/section-78.md)
 - [Section 79 — Appointment of single appointed person](part-6/section-79.md)
@@ -217,7 +217,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 81 — Single Commissioner continuing though ceasing to be Commissioner](part-6/section-81.md)
 - [Section 82 — Appointment of replacement single appointed person](part-6/section-82.md)
 
-##### Single appointed person’s role in relation to application[^key-d8ec75b23c9240e8389c09dd1372d0e4]
+##### Single appointed person’s role in relation to application[^c-d8ec75b23c9240e8389c09dd1372d0e4]
 
 *Extent: E+W+S*
 
@@ -270,7 +270,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 108 — Suspension during review of national policy statement](part-6/section-108.md)
 
-#### Chapter 7 — Intervention by Secretary of State[^key-194eb356d556d3391c325444026c4273]
+#### Chapter 7 — Intervention by Secretary of State[^c-194eb356d556d3391c325444026c4273]
 
 *Extent: E+W+S*
 
@@ -501,7 +501,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 203 — Power to make provision in relation to Wales](part-10/section-203.md)
 - [Section 204 — Wales: transitional provision in relation to blighted land](part-10/section-204.md)
 
-### Part 11 — Community Infrastructure Levy[^key-e44a8b50c783ac43b13370b2c3af2377][^key-10f3c84d27ad8e8c7bc494a73ace00ae][^key-1b14889dcc0d0ee5b7729586922abe4f]
+### Part 11 — Community Infrastructure Levy[^c-e44a8b50c783ac43b13370b2c3af2377][^c-10f3c84d27ad8e8c7bc494a73ace00ae][^c-1b14889dcc0d0ee5b7729586922abe4f]
 
 *Extent: E+W*
 
@@ -583,26 +583,26 @@ SCHEDULES
 
 ## Annotations
 
-[^key-bf2c6e7d383c9b437fc94155e4df5569]: Modification: Act excluded (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [ss. 20](https://www.legislation.gov.uk/ukpga/2021/2/section/20), [64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1)
+[^c-bf2c6e7d383c9b437fc94155e4df5569]: Modification: Act excluded (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [ss. 20](https://www.legislation.gov.uk/ukpga/2021/2/section/20), [64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1)
 
-[^key-3e89416a8dc86aedb3ad069ff9202c53]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2008/29): power to amend conferred (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 132](https://www.legislation.gov.uk/ukpga/2023/55/section/132), [255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-3e89416a8dc86aedb3ad069ff9202c53]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2008/29): power to amend conferred (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 132](https://www.legislation.gov.uk/ukpga/2023/55/section/132), [255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
-[^key-b341055686999afc1086cd44b81b6a3b]: Modification: [Pt. 1](https://www.legislation.gov.uk/ukpga/2008/29/part/1) applied (with modifications) (30.4.2020) by [The A585 Windy Harbour to Skippool Highway Development Consent Order 2020 (S.I. 2020/402)](https://www.legislation.gov.uk/uksi/2020/402), [arts. 1](https://www.legislation.gov.uk/uksi/2020/402/article/1), [25](https://www.legislation.gov.uk/uksi/2020/402/article/25) (with [arts. 5](https://www.legislation.gov.uk/uksi/2020/402/article/5), [22](https://www.legislation.gov.uk/uksi/2020/402/article/22), [44](https://www.legislation.gov.uk/uksi/2020/402/article/44))
+[^c-b341055686999afc1086cd44b81b6a3b]: Modification: [Pt. 1](https://www.legislation.gov.uk/ukpga/2008/29/part/1) applied (with modifications) (30.4.2020) by [The A585 Windy Harbour to Skippool Highway Development Consent Order 2020 (S.I. 2020/402)](https://www.legislation.gov.uk/uksi/2020/402), [arts. 1](https://www.legislation.gov.uk/uksi/2020/402/article/1), [25](https://www.legislation.gov.uk/uksi/2020/402/article/25) (with [arts. 5](https://www.legislation.gov.uk/uksi/2020/402/article/5), [22](https://www.legislation.gov.uk/uksi/2020/402/article/22), [44](https://www.legislation.gov.uk/uksi/2020/402/article/44))
 
-[^key-db2501addce6c53916be799fda44820c]: Textual amendment: Words in Pt. 1 heading substituted (15.1.2012 for specified purposes, 1.4.2012 in so far as not already in force) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 13 para. 3(5)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/13/paragraph/3/5); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/57/article/2/a); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7(a)](https://www.legislation.gov.uk/uksi/2012/628/article/7/a)
+[^c-db2501addce6c53916be799fda44820c]: Textual amendment: Words in Pt. 1 heading substituted (15.1.2012 for specified purposes, 1.4.2012 in so far as not already in force) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 13 para. 3(5)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/13/paragraph/3/5); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/57/article/2/a); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7(a)](https://www.legislation.gov.uk/uksi/2012/628/article/7/a)
 
-[^key-f51c3df54edd2374cfc825dca5d6eca8]: Textual amendment: [Pt. 5 Ch. 4](https://www.legislation.gov.uk/ukpga/2008/29/part/5/chapter/4) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 126(1)](https://www.legislation.gov.uk/ukpga/2023/55/section/126/1), [255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-f51c3df54edd2374cfc825dca5d6eca8]: Textual amendment: [Pt. 5 Ch. 4](https://www.legislation.gov.uk/ukpga/2008/29/part/5/chapter/4) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 126(1)](https://www.legislation.gov.uk/ukpga/2023/55/section/126/1), [255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
-[^key-87cf12b29885a454ad6c2865d0e8dee6]: Textual amendment: Words in Pt. 6 Ch. 3 heading substituted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 13 para. 30(6)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/13/paragraph/30/6); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7(a)](https://www.legislation.gov.uk/uksi/2012/628/article/7/a)
+[^c-87cf12b29885a454ad6c2865d0e8dee6]: Textual amendment: Words in Pt. 6 Ch. 3 heading substituted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 13 para. 30(6)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/13/paragraph/30/6); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7(a)](https://www.legislation.gov.uk/uksi/2012/628/article/7/a)
 
-[^key-630135e02c3dfa25b401ebdc643a4fa9]: Textual amendment: Words in s. 78 cross-heading substituted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 13 para. 30(5)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/13/paragraph/30/5); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7(a)](https://www.legislation.gov.uk/uksi/2012/628/article/7/a)
+[^c-630135e02c3dfa25b401ebdc643a4fa9]: Textual amendment: Words in s. 78 cross-heading substituted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 13 para. 30(5)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/13/paragraph/30/5); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7(a)](https://www.legislation.gov.uk/uksi/2012/628/article/7/a)
 
-[^key-d8ec75b23c9240e8389c09dd1372d0e4]: Textual amendment: Words in s. 83 cross-heading substituted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 13 para. 35(2)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/13/paragraph/35/2); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7(a)](https://www.legislation.gov.uk/uksi/2012/628/article/7/a)
+[^c-d8ec75b23c9240e8389c09dd1372d0e4]: Textual amendment: Words in s. 83 cross-heading substituted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 13 para. 35(2)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/13/paragraph/35/2); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7(a)](https://www.legislation.gov.uk/uksi/2012/628/article/7/a)
 
-[^key-194eb356d556d3391c325444026c4273]: Textual amendment: [Pt. 6 Ch. 7](https://www.legislation.gov.uk/ukpga/2008/29/part/6/chapter/7) repealed (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 13 para. 54](https://www.legislation.gov.uk/ukpga/2011/20/schedule/13/paragraph/54), [Sch. 25 Pt. 20](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/20); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7](https://www.legislation.gov.uk/uksi/2012/628/article/7)
+[^c-194eb356d556d3391c325444026c4273]: Textual amendment: [Pt. 6 Ch. 7](https://www.legislation.gov.uk/ukpga/2008/29/part/6/chapter/7) repealed (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 13 para. 54](https://www.legislation.gov.uk/ukpga/2011/20/schedule/13/paragraph/54), [Sch. 25 Pt. 20](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/20); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7](https://www.legislation.gov.uk/uksi/2012/628/article/7)
 
-[^key-e44a8b50c783ac43b13370b2c3af2377]: Modification: Pt. 11 functions transferred (W.) (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [44(1)](https://www.legislation.gov.uk/uksi/2018/644/article/44/1) (with [art. 44(2)](https://www.legislation.gov.uk/uksi/2018/644/article/44/2))
+[^c-e44a8b50c783ac43b13370b2c3af2377]: Modification: Pt. 11 functions transferred (W.) (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [44(1)](https://www.legislation.gov.uk/uksi/2018/644/article/44/1) (with [art. 44(2)](https://www.legislation.gov.uk/uksi/2018/644/article/44/2))
 
-[^key-10f3c84d27ad8e8c7bc494a73ace00ae]: Modification: [Pt. 11](https://www.legislation.gov.uk/ukpga/2008/29/part/11) excluded (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [ss. 33](https://www.legislation.gov.uk/ukpga/2021/2/section/33), [64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1)
+[^c-10f3c84d27ad8e8c7bc494a73ace00ae]: Modification: [Pt. 11](https://www.legislation.gov.uk/ukpga/2008/29/part/11) excluded (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [ss. 33](https://www.legislation.gov.uk/ukpga/2021/2/section/33), [64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1)
 
-[^key-1b14889dcc0d0ee5b7729586922abe4f]: Modification: [Pt. 11](https://www.legislation.gov.uk/ukpga/2008/29/part/1) excluded (8.9.2022) by [The A428 Black Cat to Caxton Gibbet Development Consent Order 2022 (S.I. 2022/934)](https://www.legislation.gov.uk/uksi/2022/934), [arts. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1), [3(2)(f)](https://www.legislation.gov.uk/uksi/2022/934/article/3/2/f)
+[^c-1b14889dcc0d0ee5b7729586922abe4f]: Modification: [Pt. 11](https://www.legislation.gov.uk/ukpga/2008/29/part/1) excluded (8.9.2022) by [The A428 Black Cat to Caxton Gibbet Development Consent Order 2022 (S.I. 2022/934)](https://www.legislation.gov.uk/uksi/2022/934), [arts. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1), [3(2)(f)](https://www.legislation.gov.uk/uksi/2022/934/article/3/2/f)

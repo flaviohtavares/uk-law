@@ -31,12 +31,12 @@ summary: ''
 - (a) the respect in which the product is not in conformity with Part 2; and
 - (b) the actions which the Executive is requiring the relevant economic operator to take.
 
-(3) Where the Executive considers that the lack of conformity referred to in paragraph (1) is not restricted to Northern Ireland, the Executive shall notify the Secretary of State[^key-3c2d60c7b6ee26cf61376935bcb94933] of—
+(3) Where the Executive considers that the lack of conformity referred to in paragraph (1) is not restricted to Northern Ireland, the Executive shall notify the Secretary of State[^c-3c2d60c7b6ee26cf61376935bcb94933] of—
 
 - (a) the results of the evaluation; and
 - (b) the actions which the Executive has required the economic operator to take.
 
-(3A)[^key-61ee574a28962e543d05ac2798914f57] Subject to paragraph (3B), where the Secretary of State receives a notice under paragraph (3) or otherwise considers that the lack of conformity referred to in paragraph (1) is not restricted to Northern Ireland, the Secretary of State must inform the European Commission and other relevant states of—
+(3A)[^c-61ee574a28962e543d05ac2798914f57] Subject to paragraph (3B), where the Secretary of State receives a notice under paragraph (3) or otherwise considers that the lack of conformity referred to in paragraph (1) is not restricted to Northern Ireland, the Secretary of State must inform the European Commission and other relevant states of—
 
 - (a) the results of the evaluation; and
 - (b) the actions which the Executive has required the economic operator to take.
@@ -49,11 +49,11 @@ summary: ''
 - (b) withdraw the product from the market in Northern Ireland; or
 - (c) recall the product.
 
-(5) Where the Executive takes measures under paragraph (4), the Executive shall notify the Secretary of State[^key-2dcff783554576e14b4cd2db223e3169] of those measures without delay.
+(5) Where the Executive takes measures under paragraph (4), the Executive shall notify the Secretary of State[^c-2dcff783554576e14b4cd2db223e3169] of those measures without delay.
 
-(5A)[^key-725338319d934a7585ba5adfda793b15] Where the Secretary of State receives a notice under paragraph (5), the Secretary of State must notify the European Commission and other relevant states of the measures taken without delay.
+(5A)[^c-725338319d934a7585ba5adfda793b15] Where the Secretary of State receives a notice under paragraph (5), the Secretary of State must notify the European Commission and other relevant states of the measures taken without delay.
 
-(6) The notices in paragraphs (5) and (5A) must[^key-83fc4c5659a971940c88de8e5cd38626] include details about the product and, in particular—
+(6) The notices in paragraphs (5) and (5A) must[^c-83fc4c5659a971940c88de8e5cd38626] include details about the product and, in particular—
 
 - (a) the data necessary for the identification of the product which is not in conformity with Part 2;
 - (b) the origin of the product;
@@ -71,12 +71,12 @@ summary: ''
 
 ## Annotations
 
-[^key-3c2d60c7b6ee26cf61376935bcb94933]: Textual amendment: Words in [reg. 56(3)](https://www.legislation.gov.uk/nisr/2017/90/regulation/56/3) substituted (10.8.2023) by [The Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres Regulations (Northern Ireland) 2017 (Amendment) (Northern Ireland) Regulations 2023 (S.I. 2023/861)](https://www.legislation.gov.uk/uksi/2023/861), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/861/regulation/1/b), [7(1)(a)](https://www.legislation.gov.uk/uksi/2023/861/regulation/7/1/a)
+[^c-3c2d60c7b6ee26cf61376935bcb94933]: Textual amendment: Words in [reg. 56(3)](https://www.legislation.gov.uk/nisr/2017/90/regulation/56/3) substituted (10.8.2023) by [The Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres Regulations (Northern Ireland) 2017 (Amendment) (Northern Ireland) Regulations 2023 (S.I. 2023/861)](https://www.legislation.gov.uk/uksi/2023/861), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/861/regulation/1/b), [7(1)(a)](https://www.legislation.gov.uk/uksi/2023/861/regulation/7/1/a)
 
-[^key-61ee574a28962e543d05ac2798914f57]: Textual amendment: [Reg. 56(3A)](https://www.legislation.gov.uk/nisr/2017/90/regulation/56/3A)[(3B)](https://www.legislation.gov.uk/nisr/2017/90/regulation/56/3B) inserted (10.8.2023) by [The Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres Regulations (Northern Ireland) 2017 (Amendment) (Northern Ireland) Regulations 2023 (S.I. 2023/861)](https://www.legislation.gov.uk/uksi/2023/861), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/861/regulation/1/b), [7(1)(b)](https://www.legislation.gov.uk/uksi/2023/861/regulation/7/1/b)
+[^c-61ee574a28962e543d05ac2798914f57]: Textual amendment: [Reg. 56(3A)](https://www.legislation.gov.uk/nisr/2017/90/regulation/56/3A)[(3B)](https://www.legislation.gov.uk/nisr/2017/90/regulation/56/3B) inserted (10.8.2023) by [The Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres Regulations (Northern Ireland) 2017 (Amendment) (Northern Ireland) Regulations 2023 (S.I. 2023/861)](https://www.legislation.gov.uk/uksi/2023/861), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/861/regulation/1/b), [7(1)(b)](https://www.legislation.gov.uk/uksi/2023/861/regulation/7/1/b)
 
-[^key-2dcff783554576e14b4cd2db223e3169]: Textual amendment: Words in [reg. 56(5)](https://www.legislation.gov.uk/nisr/2017/90/regulation/56/5) substituted (10.8.2023) by [The Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres Regulations (Northern Ireland) 2017 (Amendment) (Northern Ireland) Regulations 2023 (S.I. 2023/861)](https://www.legislation.gov.uk/uksi/2023/861), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/861/regulation/1/b), [7(2)](https://www.legislation.gov.uk/uksi/2023/861/regulation/7/2)
+[^c-2dcff783554576e14b4cd2db223e3169]: Textual amendment: Words in [reg. 56(5)](https://www.legislation.gov.uk/nisr/2017/90/regulation/56/5) substituted (10.8.2023) by [The Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres Regulations (Northern Ireland) 2017 (Amendment) (Northern Ireland) Regulations 2023 (S.I. 2023/861)](https://www.legislation.gov.uk/uksi/2023/861), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/861/regulation/1/b), [7(2)](https://www.legislation.gov.uk/uksi/2023/861/regulation/7/2)
 
-[^key-725338319d934a7585ba5adfda793b15]: Textual amendment: [Reg. 56(5A)](https://www.legislation.gov.uk/nisr/2017/90/regulation/56/5A) inserted (10.8.2023) by [The Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres Regulations (Northern Ireland) 2017 (Amendment) (Northern Ireland) Regulations 2023 (S.I. 2023/861)](https://www.legislation.gov.uk/uksi/2023/861), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/861/regulation/1/b), [7(1)(c)](https://www.legislation.gov.uk/uksi/2023/861/regulation/7/1/c)
+[^c-725338319d934a7585ba5adfda793b15]: Textual amendment: [Reg. 56(5A)](https://www.legislation.gov.uk/nisr/2017/90/regulation/56/5A) inserted (10.8.2023) by [The Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres Regulations (Northern Ireland) 2017 (Amendment) (Northern Ireland) Regulations 2023 (S.I. 2023/861)](https://www.legislation.gov.uk/uksi/2023/861), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/861/regulation/1/b), [7(1)(c)](https://www.legislation.gov.uk/uksi/2023/861/regulation/7/1/c)
 
-[^key-83fc4c5659a971940c88de8e5cd38626]: Textual amendment: Words in [reg. 56(6)](https://www.legislation.gov.uk/nisr/2017/90/regulation/56/6) substituted (10.8.2023) by [The Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres Regulations (Northern Ireland) 2017 (Amendment) (Northern Ireland) Regulations 2023 (S.I. 2023/861)](https://www.legislation.gov.uk/uksi/2023/861), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/861/regulation/1/b), [7(1)(d)](https://www.legislation.gov.uk/uksi/2023/861/regulation/7/1/d)
+[^c-83fc4c5659a971940c88de8e5cd38626]: Textual amendment: Words in [reg. 56(6)](https://www.legislation.gov.uk/nisr/2017/90/regulation/56/6) substituted (10.8.2023) by [The Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres Regulations (Northern Ireland) 2017 (Amendment) (Northern Ireland) Regulations 2023 (S.I. 2023/861)](https://www.legislation.gov.uk/uksi/2023/861), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/861/regulation/1/b), [7(1)(d)](https://www.legislation.gov.uk/uksi/2023/861/regulation/7/1/d)

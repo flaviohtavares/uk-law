@@ -30,8 +30,8 @@ summary: ''
 (3) Where it is decided to divide a community into community wards, in considering the size and boundaries of the wards and in fixing the number of community councillors to be elected for each ward, regard is to be had to—
 
 - (a) any change in the number or distribution of local government electors of the community which is likely to take place within the period of five years immediately following any recommendation,
-- (b)[^key-243b635669140e36c9b57a999e0efc97] special geographical considerations, including in particular the size, shape and accessibility of a community ward, and
-- (c) any local ties (including local ties connected to the use of the Welsh language)[^key-8b61759bac76bec1e30e1a800c4054fb] which will be broken by the fixing of any particular boundaries.
+- (b)[^c-243b635669140e36c9b57a999e0efc97] special geographical considerations, including in particular the size, shape and accessibility of a community ward, and
+- (c) any local ties (including local ties connected to the use of the Welsh language)[^c-8b61759bac76bec1e30e1a800c4054fb] which will be broken by the fixing of any particular boundaries.
 
 (4) Where it is decided not to divide a community into community wards, in fixing the number of councillors to be elected for each community, regard is to be had to—
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-243b635669140e36c9b57a999e0efc97]: Textual amendment: S. 33(3)(b) substituted (9.11.2024) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 51(4)(a)](https://www.legislation.gov.uk/asc/2024/5/section/51/4/a), [72(2)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/2/a) (with [s. 55](https://www.legislation.gov.uk/asc/2024/5/section/55))
+[^c-243b635669140e36c9b57a999e0efc97]: Textual amendment: S. 33(3)(b) substituted (9.11.2024) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 51(4)(a)](https://www.legislation.gov.uk/asc/2024/5/section/51/4/a), [72(2)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/2/a) (with [s. 55](https://www.legislation.gov.uk/asc/2024/5/section/55))
 
-[^key-8b61759bac76bec1e30e1a800c4054fb]: Textual amendment: Words in s. 33(3)(c) inserted (9.11.2024) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 51(4)(b)](https://www.legislation.gov.uk/asc/2024/5/section/51/4/b), [72(2)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/2/a) (with [s. 55](https://www.legislation.gov.uk/asc/2024/5/section/55))
+[^c-8b61759bac76bec1e30e1a800c4054fb]: Textual amendment: Words in s. 33(3)(c) inserted (9.11.2024) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 51(4)(b)](https://www.legislation.gov.uk/asc/2024/5/section/51/4/b), [72(2)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/2/a) (with [s. 55](https://www.legislation.gov.uk/asc/2024/5/section/55))

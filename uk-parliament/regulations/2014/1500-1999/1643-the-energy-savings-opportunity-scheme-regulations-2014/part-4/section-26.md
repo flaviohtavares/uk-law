@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Subject to regulations 33(3) and 33A[^key-eb4f125b5b9fcd45372a9b27348e1031], a responsible undertaking must carry out an energy audit in accordance with this Chapter—
+(1) Subject to regulations 33(3) and 33A[^c-eb4f125b5b9fcd45372a9b27348e1031], a responsible undertaking must carry out an energy audit in accordance with this Chapter—
 
 - (a) in any case where the responsible undertaking has identified the participant's areas of significant energy consumption, in relation to those areas of significant energy consumption, or
 - (b) in any other case, in relation to the participant's total energy consumption.
@@ -29,7 +29,7 @@ summary: ''
 
 (3) So far as reasonably practicable, an energy audit must be based on verifiable data evidencing the participant's energy consumption in relation to its areas of significant energy consumption (or, where paragraph (1)(b) applies, its total energy consumption), measured in energy measurement units, over a 12 month period.
 
-(3A)[^key-fbd676bd042b7c8108b65541c6533657] An energy audit must include visits to sites that the responsible undertaking considers are representative of how energy is used by the assets held, and activities carried on, by the participant during the 12 month period referred to in paragraph (3).
+(3A)[^c-fbd676bd042b7c8108b65541c6533657] An energy audit must include visits to sites that the responsible undertaking considers are representative of how energy is used by the assets held, and activities carried on, by the participant during the 12 month period referred to in paragraph (3).
 
 (4) Subject to paragraph (5), the 12 month period referred to in paragraph (3) must be a period of 12 consecutive months which—
 
@@ -51,9 +51,9 @@ ends on or before the compliance date for that compliance period.
 - (a) verifiable data evidencing the participant's energy consumption over a shorter period, provided that the requirements of paragraph (4) are complied with, or
 - (b) a reasonable estimate of the participant's energy consumption over the 12 month period referred to in paragraph (3).
 
-(8)[^key-50a37bb8b7c6d2ba4b9ee16295f2ba5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-50a37bb8b7c6d2ba4b9ee16295f2ba5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-ed15e5b17224cf50b5c3d870ae660494] The responsible undertaking must record details of how it has carried out each energy audit in accordance with this Chapter including—
+(9)[^c-ed15e5b17224cf50b5c3d870ae660494] The responsible undertaking must record details of how it has carried out each energy audit in accordance with this Chapter including—
 
 - (a) the period during which the energy audit was carried out,
 - (b) the 12 month period to which the energy audit relates,
@@ -67,10 +67,10 @@ ends on or before the compliance date for that compliance period.
 
 ## Annotations
 
-[^key-eb4f125b5b9fcd45372a9b27348e1031]: Textual amendment: Words in [reg. 26(1)](https://www.legislation.gov.uk/uksi/2014/1643/regulation/26/1) substituted (22.7.2026) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2026 (S.I. 2026/701)](https://www.legislation.gov.uk/uksi/2026/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/701/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2026/701/regulation/12)
+[^c-eb4f125b5b9fcd45372a9b27348e1031]: Textual amendment: Words in [reg. 26(1)](https://www.legislation.gov.uk/uksi/2014/1643/regulation/26/1) substituted (22.7.2026) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2026 (S.I. 2026/701)](https://www.legislation.gov.uk/uksi/2026/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/701/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2026/701/regulation/12)
 
-[^key-fbd676bd042b7c8108b65541c6533657]: Textual amendment: [Reg. 26(3A)](https://www.legislation.gov.uk/uksi/2014/1643/regulation/26/3A) inserted (29.11.2023) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2023 (S.I. 2023/1182)](https://www.legislation.gov.uk/uksi/2023/1182), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1182/regulation/1/2), [16(1)(a)](https://www.legislation.gov.uk/uksi/2023/1182/regulation/16/1/a)
+[^c-fbd676bd042b7c8108b65541c6533657]: Textual amendment: [Reg. 26(3A)](https://www.legislation.gov.uk/uksi/2014/1643/regulation/26/3A) inserted (29.11.2023) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2023 (S.I. 2023/1182)](https://www.legislation.gov.uk/uksi/2023/1182), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1182/regulation/1/2), [16(1)(a)](https://www.legislation.gov.uk/uksi/2023/1182/regulation/16/1/a)
 
-[^key-50a37bb8b7c6d2ba4b9ee16295f2ba5a]: Textual amendment: [Reg. 26(8)](https://www.legislation.gov.uk/uksi/2014/1643/regulation/26/8) omitted (29.11.2023) by virtue of [The Energy Savings Opportunity Scheme (Amendment) Regulations 2023 (S.I. 2023/1182)](https://www.legislation.gov.uk/uksi/2023/1182), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1182/regulation/1/2), [16(1)(b)](https://www.legislation.gov.uk/uksi/2023/1182/regulation/16/1/b)
+[^c-50a37bb8b7c6d2ba4b9ee16295f2ba5a]: Textual amendment: [Reg. 26(8)](https://www.legislation.gov.uk/uksi/2014/1643/regulation/26/8) omitted (29.11.2023) by virtue of [The Energy Savings Opportunity Scheme (Amendment) Regulations 2023 (S.I. 2023/1182)](https://www.legislation.gov.uk/uksi/2023/1182), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1182/regulation/1/2), [16(1)(b)](https://www.legislation.gov.uk/uksi/2023/1182/regulation/16/1/b)
 
-[^key-ed15e5b17224cf50b5c3d870ae660494]: Textual amendment: [Reg. 26(9)](https://www.legislation.gov.uk/uksi/2014/1643/regulation/26/9) inserted (29.11.2023) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2023 (S.I. 2023/1182)](https://www.legislation.gov.uk/uksi/2023/1182), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1182/regulation/1/2), [16(1)(c)](https://www.legislation.gov.uk/uksi/2023/1182/regulation/16/1/c)
+[^c-ed15e5b17224cf50b5c3d870ae660494]: Textual amendment: [Reg. 26(9)](https://www.legislation.gov.uk/uksi/2014/1643/regulation/26/9) inserted (29.11.2023) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2023 (S.I. 2023/1182)](https://www.legislation.gov.uk/uksi/2023/1182), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1182/regulation/1/2), [16(1)(c)](https://www.legislation.gov.uk/uksi/2023/1182/regulation/16/1/c)

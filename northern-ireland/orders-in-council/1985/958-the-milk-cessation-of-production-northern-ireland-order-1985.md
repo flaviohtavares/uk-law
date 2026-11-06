@@ -29,32 +29,32 @@ summary: ''
 
 1985 No. 958 (N.I. 9)
 
-The Milk (Cessation of Production) (Northern Ireland) Order 1985 (revoked)[^key-793622a0527ba29db82cf7f468326195]
+The Milk (Cessation of Production) (Northern Ireland) Order 1985 (revoked)[^c-793622a0527ba29db82cf7f468326195]
 
 25th June 1985
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-793622a0527ba29db82cf7f468326195]
+## 1. Title and commencement[^c-793622a0527ba29db82cf7f468326195]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-793622a0527ba29db82cf7f468326195]
+## 2. Interpretation[^c-793622a0527ba29db82cf7f468326195]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Payments to persons ceasing milk production[^key-793622a0527ba29db82cf7f468326195]
+## 3. Payments to persons ceasing milk production[^c-793622a0527ba29db82cf7f468326195]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Powers of entry, etc[^key-793622a0527ba29db82cf7f468326195]
+## 4. Powers of entry, etc[^c-793622a0527ba29db82cf7f468326195]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Offences[^key-793622a0527ba29db82cf7f468326195]
+## 5. Offences[^c-793622a0527ba29db82cf7f468326195]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-793622a0527ba29db82cf7f468326195]: Textual amendment: Order revoked (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), s. 115(3), [Sch. 23 para. 40](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/40)
+[^c-793622a0527ba29db82cf7f468326195]: Textual amendment: Order revoked (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), s. 115(3), [Sch. 23 para. 40](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/40)

@@ -48,7 +48,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 In accordance with Article 2a(2)(a) of the Plant Health Regulation, the Scottish Ministers and the Welsh Ministers have consented to the Secretary of State making these Regulations.
 
-## 1. Citation, commencement and extent[^key-4ee72ca03eff3ea729961716040ee765]
+## 1. Citation, commencement and extent[^c-4ee72ca03eff3ea729961716040ee765]
 
 (1) These Regulations may be cited as the Pests of Plants (Authorisations) (Amendment) Regulations 2022.
 
@@ -56,7 +56,7 @@ In accordance with Article 2a(2)(a) of the Plant Health Regulation, the Scottish
 
 (3) These Regulations extend to England and Wales and Scotland.
 
-## 2. Amendment of Commission Delegated Regulation 2019/829[^key-20563ae6c0ddd69c89b67e819d7ca258]
+## 2. Amendment of Commission Delegated Regulation 2019/829[^c-20563ae6c0ddd69c89b67e819d7ca258]
 
 (1) Commission Delegated Regulation (EU) 2019/829 supplementing Regulation (EU) 2016/2031 of the European Parliament and of the Council on protective measures against pests of plants, authorising Member States to provide for temporary derogations in view of official testing, scientific or educational purposes, trials, varietal selections, or breeding[^f00002] is amended as follows.
 
@@ -84,7 +84,7 @@ In accordance with Article 2a(2)(a) of the Plant Health Regulation, the Scottish
 
 (5) For Annex 2 (model letter of authority), substitute the model letter of authority set out in the Schedule.
 
-## 3. Transitional provision[^key-7866e6a77b00e440d4b56218132c01ff]
+## 3. Transitional provision[^c-7866e6a77b00e440d4b56218132c01ff]
 
 Regulation 2(3)(a) applies in relation to a letter of authority issued before 1st November 2022 to introductions or movements made after the coming into force of these Regulations.
 
@@ -94,7 +94,7 @@ Parliamentary Under Secretary of State
 
 Department for Environment, Food and Rural Affairs
 
-## SCHEDULE — Model Letter of Authority for the introduction into, or movement within, Great Britain of pests, plants, plant products and other objects for scientific or educational purposes etc[^key-ed8cea6284c37c474227e4ad1cbefea8]
+## SCHEDULE — Model Letter of Authority for the introduction into, or movement within, Great Britain of pests, plants, plant products and other objects for scientific or educational purposes etc[^c-ed8cea6284c37c474227e4ad1cbefea8]
 
 Regulation 2
 
@@ -116,14 +116,14 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00001]: Footnote: EUR 2016/2031. Articles 8 and 48 were amended by, and Article 105 substituted by [S.I. 2020/1482](https://www.legislation.gov.uk/uksi/2020/1482). Article 2a(2) of EUR 2016/2031 (inserted by [S.I. 2020/1482](https://www.legislation.gov.uk/uksi/2020/1482)) contains a definition of “**the appropriate authority**” for the purposes of making regulations and provides that, in the case of regulations applying in relation to Wales or Scotland, “the appropriate authority” is the Secretary of State if consent is given by the Welsh Ministers or the Scottish Ministers, as the case may be.
 
-[^key-4ee72ca03eff3ea729961716040ee765]: Commencement: Reg. 1 in force at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1020/regulation/1/2)
+[^c-4ee72ca03eff3ea729961716040ee765]: Commencement: Reg. 1 in force at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1020/regulation/1/2)
 
-[^key-20563ae6c0ddd69c89b67e819d7ca258]: Commencement: Reg. 2 in force at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1020/regulation/1/2)
+[^c-20563ae6c0ddd69c89b67e819d7ca258]: Commencement: Reg. 2 in force at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1020/regulation/1/2)
 
 [^f00002]: Footnote: EUR 2019/829, amended by [S.I. 2020/1482](https://www.legislation.gov.uk/uksi/2020/1482).
 
 [^f00003]: Footnote: See Article 2(6) of EUR 2016/2031 (amended by [S.I. 2020/1482](https://www.legislation.gov.uk/uksi/2020/1482)) for the definition of “competent authority”.
 
-[^key-7866e6a77b00e440d4b56218132c01ff]: Commencement: Reg. 3 in force at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1020/regulation/1/2)
+[^c-7866e6a77b00e440d4b56218132c01ff]: Commencement: Reg. 3 in force at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1020/regulation/1/2)
 
-[^key-ed8cea6284c37c474227e4ad1cbefea8]: Commencement: Sch. in force at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1020/regulation/1/2)
+[^c-ed8cea6284c37c474227e4ad1cbefea8]: Commencement: Sch. in force at 1.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1020/regulation/1/2)

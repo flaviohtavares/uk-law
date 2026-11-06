@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 34. Application of the Salmon and Freshwater Fisheries (Consolidation) (Scotland) Act 2003 to the Crown[^key-aa0d60214c7f18b87eb53c999d225b0e]
+## 34. Application of the Salmon and Freshwater Fisheries (Consolidation) (Scotland) Act 2003 to the Crown[^c-aa0d60214c7f18b87eb53c999d225b0e]
 
 *Extent: S*
 
@@ -50,4 +50,4 @@ For section 67 of the Salmon and Freshwater Fisheries (Consolidation) (Scotland)
 
 ## Annotations
 
-[^key-aa0d60214c7f18b87eb53c999d225b0e]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2013/7/section/34) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-aa0d60214c7f18b87eb53c999d225b0e]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2013/7/section/34) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 112. Schemes in relation to postal and money orders.[^c10292111][^key-0eaba5d78ec83fd71d6953652fe87e7e]
+## 112. Schemes in relation to postal and money orders.[^c10292111][^c-0eaba5d78ec83fd71d6953652fe87e7e]
 
 *Extent: E+W+S+N.I.*
 
-(1) A Post Office company[^key-50daf91c35177f1528180fbfa242044e] shall not issue postal or money orders otherwise than in accordance with a scheme under this section.
+(1) A Post Office company[^c-50daf91c35177f1528180fbfa242044e] shall not issue postal or money orders otherwise than in accordance with a scheme under this section.
 
 (2) A Post Office company may make a scheme under this section in relation to—
 
@@ -41,7 +41,7 @@ summary: ''
 
 (5) No provision may be made in any scheme under this section—
 
-- (a) for limiting the liability of a Post Office company[^key-2d5c6164821f61611cf281a7cdb24b44] for loss or damage, or
+- (a) for limiting the liability of a Post Office company[^c-2d5c6164821f61611cf281a7cdb24b44] for loss or damage, or
 - (b) for amending the rules of law relating to evidence.
 
 (6) A scheme under this section shall come into force on such day as is specified in the scheme; but no day earlier than the day after that on which the scheme has been published in the London, Edinburgh and Belfast Gazettes shall be so specified.
@@ -51,7 +51,7 @@ summary: ''
 - (a) make different provision for different cases or classes of case determined by, or in accordance with, the provisions of the scheme,
 - (b) modify any previous scheme made under this section.
 
-(8) Any charge payable by virtue of this section may be recovered by a Post Office company[^key-b708e0f5282909c6ed44296c1c9a7f37] and in England and Wales and Northern Ireland may be so recovered as a civil debt due to it.
+(8) Any charge payable by virtue of this section may be recovered by a Post Office company[^c-b708e0f5282909c6ed44296c1c9a7f37] and in England and Wales and Northern Ireland may be so recovered as a civil debt due to it.
 
 (9) The production of a copy of any of the Gazettes mentioned in subsection (6) which purports to contain a scheme under this section shall be conclusive evidence in all legal proceedings of that scheme.
 
@@ -61,10 +61,10 @@ summary: ''
 
 [^c10292111]: Commencement: S. 112 wholly in force; s. 112 not in force at Royal Assent see s. 130; s. 112(2)-(7)(9)(10) in force at 26.2.2001 by [S.I. 2001/534](https://www.legislation.gov.uk/uksi/2001/534), [art. 2](https://www.legislation.gov.uk/uksi/2001/534/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/534/schedule); s. 112(1),(8) in force at 26.3.2001 by [S.I. 2001/1148](https://www.legislation.gov.uk/uksi/2001/1148), [art. 2](https://www.legislation.gov.uk/uksi/2001/1148/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/1148/schedule) (subject to [arts. 3-42](https://www.legislation.gov.uk/uksi/2001/1148/article/3))
 
-[^key-0eaba5d78ec83fd71d6953652fe87e7e]: Modification: Ss. 111-114 modified (temp.) (15.9.2011) by [The Postal Services Act 2011 (Commencement No. 1 and Transitional Provisions) Order 2011 (S.I. 2011/2329)](https://www.legislation.gov.uk/uksi/2011/2329), [art. 4](https://www.legislation.gov.uk/uksi/2011/2329/article/4)
+[^c-0eaba5d78ec83fd71d6953652fe87e7e]: Modification: Ss. 111-114 modified (temp.) (15.9.2011) by [The Postal Services Act 2011 (Commencement No. 1 and Transitional Provisions) Order 2011 (S.I. 2011/2329)](https://www.legislation.gov.uk/uksi/2011/2329), [art. 4](https://www.legislation.gov.uk/uksi/2011/2329/article/4)
 
-[^key-50daf91c35177f1528180fbfa242044e]: Textual amendment: Words in s. 112(1)(2) substituted (23.4.2012) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 39(2)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/39/2); [S.I. 2012/1095](https://www.legislation.gov.uk/uksi/2012/1095), [art. 3(1)](https://www.legislation.gov.uk/uksi/2012/1095/article/3/1) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2012/1095/article/3/2))
+[^c-50daf91c35177f1528180fbfa242044e]: Textual amendment: Words in s. 112(1)(2) substituted (23.4.2012) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 39(2)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/39/2); [S.I. 2012/1095](https://www.legislation.gov.uk/uksi/2012/1095), [art. 3(1)](https://www.legislation.gov.uk/uksi/2012/1095/article/3/1) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2012/1095/article/3/2))
 
-[^key-2d5c6164821f61611cf281a7cdb24b44]: Textual amendment: Words in s. 112(5) substituted (23.4.2012) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 39(3)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/39/3); [S.I. 2012/1095](https://www.legislation.gov.uk/uksi/2012/1095), [art. 3(1)](https://www.legislation.gov.uk/uksi/2012/1095/article/3/1)
+[^c-2d5c6164821f61611cf281a7cdb24b44]: Textual amendment: Words in s. 112(5) substituted (23.4.2012) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 39(3)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/39/3); [S.I. 2012/1095](https://www.legislation.gov.uk/uksi/2012/1095), [art. 3(1)](https://www.legislation.gov.uk/uksi/2012/1095/article/3/1)
 
-[^key-b708e0f5282909c6ed44296c1c9a7f37]: Textual amendment: Words in s. 112(8) substituted (23.4.2012) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 39(3)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/39/3); [S.I. 2012/1095](https://www.legislation.gov.uk/uksi/2012/1095), [art. 3(1)](https://www.legislation.gov.uk/uksi/2012/1095/article/3/1)
+[^c-b708e0f5282909c6ed44296c1c9a7f37]: Textual amendment: Words in s. 112(8) substituted (23.4.2012) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 39(3)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/39/3); [S.I. 2012/1095](https://www.legislation.gov.uk/uksi/2012/1095), [art. 3(1)](https://www.legislation.gov.uk/uksi/2012/1095/article/3/1)

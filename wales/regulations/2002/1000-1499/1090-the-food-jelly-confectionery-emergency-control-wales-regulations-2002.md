@@ -31,7 +31,7 @@ summary: ''
 
 FOOD, WALES
 
-The Food (Jelly Confectionery) (Emergency Control) (Wales) Regulations 2002 (revoked)[^key-586c79aba4c4f4418774ec9d372189ad]
+The Food (Jelly Confectionery) (Emergency Control) (Wales) Regulations 2002 (revoked)[^c-586c79aba4c4f4418774ec9d372189ad]
 
 Made
 
@@ -41,36 +41,36 @@ Coming into force
 
 16th April 2002
 
-[^key-586c79aba4c4f4418774ec9d372189ad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-586c79aba4c4f4418774ec9d372189ad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-586c79aba4c4f4418774ec9d372189ad]
+## 1. Title, commencement and application[^c-586c79aba4c4f4418774ec9d372189ad]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-586c79aba4c4f4418774ec9d372189ad]
+## 2. Interpretation[^c-586c79aba4c4f4418774ec9d372189ad]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prohibitions[^key-586c79aba4c4f4418774ec9d372189ad]
+## 3. Prohibitions[^c-586c79aba4c4f4418774ec9d372189ad]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Enforcement[^key-586c79aba4c4f4418774ec9d372189ad]
+## 4. Enforcement[^c-586c79aba4c4f4418774ec9d372189ad]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Application etc. of various provisions of the Act[^key-586c79aba4c4f4418774ec9d372189ad]
+## 5. Application etc. of various provisions of the Act[^c-586c79aba4c4f4418774ec9d372189ad]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-586c79aba4c4f4418774ec9d372189ad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-586c79aba4c4f4418774ec9d372189ad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-586c79aba4c4f4418774ec9d372189ad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-586c79aba4c4f4418774ec9d372189ad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-586c79aba4c4f4418774ec9d372189ad]: Textual amendment: Regulations revoked (20.1.2010) by [The Food (Jelly Mini-Cups) (Emergency Control) (Wales) Regulations 2009 (S.I. 2009/3379)](https://www.legislation.gov.uk/uksi/2009/3379), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/3379/regulation/1), [6](https://www.legislation.gov.uk/uksi/2009/3379/regulation/6)
+[^c-586c79aba4c4f4418774ec9d372189ad]: Textual amendment: Regulations revoked (20.1.2010) by [The Food (Jelly Mini-Cups) (Emergency Control) (Wales) Regulations 2009 (S.I. 2009/3379)](https://www.legislation.gov.uk/uksi/2009/3379), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/3379/regulation/1), [6](https://www.legislation.gov.uk/uksi/2009/3379/regulation/6)

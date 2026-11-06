@@ -37,11 +37,11 @@ or arranging for one or more other persons to carry on that activity, is a speci
 - (a) it is immaterial that title to the assets safeguarded and administered is held in uncertificated form;
 - (b) it is immaterial that the assets safeguarded and administered may be transferred to another person, subject to a commitment by the person safeguarding and administering them, or arranging for their safeguarding and administration, that they will be replaced by equivalent assets at some future date or when so requested by the person to whom they belong.
 
-(4)[^key-c3de131e5b05eb068a98d6b7382f5536] For the purposes of this article, references to “assets” do not include—
+(4)[^c-c3de131e5b05eb068a98d6b7382f5536] For the purposes of this article, references to “assets” do not include—
 
 - (a) qualifying cryptoassets, or
 - (b) relevant specified investment cryptoassets.
 
 ## Annotations
 
-[^key-c3de131e5b05eb068a98d6b7382f5536]: Textual amendment: [Art. 40(4)](https://www.legislation.gov.uk/uksi/2001/544/article/40/4) inserted (25.2.2026 for specified purposes) by [The Financial Services and Markets Act 2000 (Cryptoassets) Regulations 2026 (S.I. 2026/102)](https://www.legislation.gov.uk/uksi/2026/102), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/102/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2026/102/regulation/1/3), [40(6)](https://www.legislation.gov.uk/uksi/2026/102/regulation/40/6) (with [regs. 53-56](https://www.legislation.gov.uk/uksi/2026/102/regulation/53))
+[^c-c3de131e5b05eb068a98d6b7382f5536]: Textual amendment: [Art. 40(4)](https://www.legislation.gov.uk/uksi/2001/544/article/40/4) inserted (25.2.2026 for specified purposes) by [The Financial Services and Markets Act 2000 (Cryptoassets) Regulations 2026 (S.I. 2026/102)](https://www.legislation.gov.uk/uksi/2026/102), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/102/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2026/102/regulation/1/3), [40(6)](https://www.legislation.gov.uk/uksi/2026/102/regulation/40/6) (with [regs. 53-56](https://www.legislation.gov.uk/uksi/2026/102/regulation/53))

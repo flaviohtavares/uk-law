@@ -46,11 +46,11 @@ Accordingly, the Department for Communities, makes the following Regulations in 
 
 In accordance with section 1(4) of that Act, the Executive Office[^f00003] approves the making of these Regulations.
 
-## 1. Citation and commencement[^key-9e3c8ad05550ae3cce794f6f89e2ce7e]
+## 1. Citation and commencement[^c-9e3c8ad05550ae3cce794f6f89e2ce7e]
 
 These Regulations may be cited as the Emergency Fuel Payment (Amendment) Regulations (Northern Ireland) 2025 and shall come into operation on 18th March 2025.
 
-## 2. Amendment of the Emergency Fuel Payment Regulations[^key-9dd606a1452ff9f1ade7c17a4d637502]
+## 2. Amendment of the Emergency Fuel Payment Regulations[^c-9dd606a1452ff9f1ade7c17a4d637502]
 
 (1) The Emergency Fuel Payment Regulations (Northern Ireland) 2025[^f00004] are amended in accordance with paragraphs (2) to (5).
 
@@ -108,9 +108,9 @@ A regulatory impact assessment has not been produced for the Regulations as they
 
 [^f00003]: Footnote: Formerly the Office of the First Minister and deputy First Minister; see section 1(1) and (11) of, and Schedule 1 to, the Departments Act (Northern Ireland) 2016 ([2016 c. 5 (N.I.))](https://www.legislation.gov.uk/nia/2016/5)
 
-[^key-9e3c8ad05550ae3cce794f6f89e2ce7e]: Commencement: Reg. 1 in operation at 18.3.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/45/regulation/1)
+[^c-9e3c8ad05550ae3cce794f6f89e2ce7e]: Commencement: Reg. 1 in operation at 18.3.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/45/regulation/1)
 
-[^key-9dd606a1452ff9f1ade7c17a4d637502]: Commencement: Reg. 2 in operation at 18.3.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/45/regulation/1)
+[^c-9dd606a1452ff9f1ade7c17a4d637502]: Commencement: Reg. 2 in operation at 18.3.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/45/regulation/1)
 
 [^f00004]: Footnote: [S.R. 2025 No. 23](https://www.legislation.gov.uk/nisr/2025/23)
 

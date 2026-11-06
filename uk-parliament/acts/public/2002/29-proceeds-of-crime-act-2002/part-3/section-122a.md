@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 122A. Detention of property pending appeal[^key-b08f3024445d6d2517e098b5387eb26f]
+## 122A. Detention of property pending appeal[^c-b08f3024445d6d2517e098b5387eb26f]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b08f3024445d6d2517e098b5387eb26f]: Textual amendment: S. 122A inserted (1.6.2015) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 53(3)](https://www.legislation.gov.uk/ukpga/2009/26/section/53/3), [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1); [S.I. 2015/983](https://www.legislation.gov.uk/uksi/2015/983), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2015/983/article/2/2/a)
+[^c-b08f3024445d6d2517e098b5387eb26f]: Textual amendment: S. 122A inserted (1.6.2015) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 53(3)](https://www.legislation.gov.uk/ukpga/2009/26/section/53/3), [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1); [S.I. 2015/983](https://www.legislation.gov.uk/uksi/2015/983), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2015/983/article/2/2/a)

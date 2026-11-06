@@ -38,8 +38,8 @@ summary: ''
   - (i) it is relevant to the rights or prospective rights of persons who are in that recognised trade union, and
   - (ii) basic scheme information has already been given to the recognised trade union under regulation 6.
 
-(6)[^key-b6a24eaa698f68427d1f1b53e2778e22] This regulation does not apply where regulation 8A applies.
+(6)[^c-b6a24eaa698f68427d1f1b53e2778e22] This regulation does not apply where regulation 8A applies.
 
 ## Annotations
 
-[^key-b6a24eaa698f68427d1f1b53e2778e22]: Textual amendment: [Reg. 8(6)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/8/6) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Modifications and Consequential and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/337)](https://www.legislation.gov.uk/uksi/2022/337), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/337/regulation/1/3), [13(4)](https://www.legislation.gov.uk/uksi/2022/337/regulation/13/4)
+[^c-b6a24eaa698f68427d1f1b53e2778e22]: Textual amendment: [Reg. 8(6)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/8/6) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Modifications and Consequential and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/337)](https://www.legislation.gov.uk/uksi/2022/337), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/337/regulation/1/3), [13(4)](https://www.legislation.gov.uk/uksi/2022/337/regulation/13/4)

@@ -20,12 +20,12 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-ed40ba1015cdcdfda0f8a2d34dc2f259] This section applies if in an accounting period a company carrying on a trade makes a loss in the trade and either—
+(1)[^c-ed40ba1015cdcdfda0f8a2d34dc2f259] This section applies if in an accounting period a company carrying on a trade makes a loss in the trade and either—
 
 - (a) relief for the loss could be given in a later accounting period under section 45(4)(b) or 45B(4) but for the fact that there are no profits of the trade of the later accounting period, or
 - (b) the amount of relief for the loss that could be given in a later accounting period under section 45(4)(b) or 45B(4) is limited by reason of the amount of profits of the trade of the later accounting period.
 
-(2) For the purposes of section 45 and 45B,[^key-2c30f2dbd3ac4bd5025e9a2fdfccddc6] Treat any interest or dividends within subsection (3) as profits of the trade of the later period.
+(2) For the purposes of section 45 and 45B,[^c-2c30f2dbd3ac4bd5025e9a2fdfccddc6] Treat any interest or dividends within subsection (3) as profits of the trade of the later period.
 
 (3) Interest or dividends are within this subsection if they—
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ed40ba1015cdcdfda0f8a2d34dc2f259]: Textual amendment: S. 46(1) substituted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 148(2)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/148/2)
+[^c-ed40ba1015cdcdfda0f8a2d34dc2f259]: Textual amendment: S. 46(1) substituted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 148(2)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/148/2)
 
-[^key-2c30f2dbd3ac4bd5025e9a2fdfccddc6]: Textual amendment: Words in s. 46(2) inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 148(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/148/3)
+[^c-2c30f2dbd3ac4bd5025e9a2fdfccddc6]: Textual amendment: Words in s. 46(2) inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 148(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/148/3)

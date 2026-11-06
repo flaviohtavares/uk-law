@@ -32,7 +32,7 @@ summary: ''
 
 Proceeds Of Crime
 
-The Proceeds of Crime Act 2002 (Investigations: Code of Practice) Order (Northern Ireland) 2016 (revoked)[^key-f0b1992e842a3d7530bea08c5da599e8]
+The Proceeds of Crime Act 2002 (Investigations: Code of Practice) Order (Northern Ireland) 2016 (revoked)[^c-f0b1992e842a3d7530bea08c5da599e8]
 
 Made
 
@@ -42,19 +42,19 @@ Coming into operation
 
 1st March 2016
 
-[^key-f0b1992e842a3d7530bea08c5da599e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f0b1992e842a3d7530bea08c5da599e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-f0b1992e842a3d7530bea08c5da599e8]
+## 1. Citation and commencement[^c-f0b1992e842a3d7530bea08c5da599e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Code of Practice[^key-f0b1992e842a3d7530bea08c5da599e8]
+## 2. Code of Practice[^c-f0b1992e842a3d7530bea08c5da599e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f0b1992e842a3d7530bea08c5da599e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f0b1992e842a3d7530bea08c5da599e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
@@ -64,10 +64,10 @@ Coming into operation
 
   
 
-- [^key-f0b1992e842a3d7530bea08c5da599e8][^key-f0b1992e842a3d7530bea08c5da599e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- [^key-f0b1992e842a3d7530bea08c5da599e8][^key-f0b1992e842a3d7530bea08c5da599e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- [^key-f0b1992e842a3d7530bea08c5da599e8][^key-f0b1992e842a3d7530bea08c5da599e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c-f0b1992e842a3d7530bea08c5da599e8][^c-f0b1992e842a3d7530bea08c5da599e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c-f0b1992e842a3d7530bea08c5da599e8][^c-f0b1992e842a3d7530bea08c5da599e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c-f0b1992e842a3d7530bea08c5da599e8][^c-f0b1992e842a3d7530bea08c5da599e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f0b1992e842a3d7530bea08c5da599e8]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2016/66) revoked (28.6.2021) by [The Proceeds of Crime Act 2002 (Investigations: Code of Practice) Order (Northern Ireland) 2021 (S.R. 2021/170)](https://www.legislation.gov.uk/nisr/2021/170), [art. 3](https://www.legislation.gov.uk/nisr/2021/170/article/3)
+[^c-f0b1992e842a3d7530bea08c5da599e8]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2016/66) revoked (28.6.2021) by [The Proceeds of Crime Act 2002 (Investigations: Code of Practice) Order (Northern Ireland) 2021 (S.R. 2021/170)](https://www.legislation.gov.uk/nisr/2021/170), [art. 3](https://www.legislation.gov.uk/nisr/2021/170/article/3)

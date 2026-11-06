@@ -24,7 +24,7 @@ Article 3
 
 ### PART 1 — REQUIREMENTS
 
-#### 1. Interpretation[^key-dc3706a01af5118f58c9caa55e710ba7]
+#### 1. Interpretation[^c-dc3706a01af5118f58c9caa55e710ba7]
 
 In this Schedule—
 
@@ -39,11 +39,11 @@ In this Schedule—
 - “OEMP” means the outline environmental management plan referred to in Schedule 13 (documents to be certified) certified by the Secretary of State as the outline environmental management plan for the purposes of this Order; and
 - “REAC” means the register of environmental actions and commitments set out in section 3 of the OEMP.
 
-#### 2. Time limits[^key-dd58475e479e5d4a5f08b1642103acf9]
+#### 2. Time limits[^c-dd58475e479e5d4a5f08b1642103acf9]
 
 The authorised development must commence no later than the expiration of 5 years beginning with the date that this Order comes into force.
 
-#### 3. Detailed design[^key-b06ff521de664bb23d0fbfd3136066ec]
+#### 3. Detailed design[^c-b06ff521de664bb23d0fbfd3136066ec]
 
 (1) The authorised development must be designed in detail and carried out so that it is compatible with the preliminary scheme design shown on the general arrangement plans, works plans and the engineering drawings and sections unless otherwise agreed in writing by the Secretary of State following consultation with the relevant planning authority and local highway authority on matters related to their functions and provided that the Secretary of State is satisfied that any amendments to the general arrangement plans, works plans and the engineering drawings and sections showing departures from the preliminary scheme design would not give rise to any materially new or materially different environmental effects in comparison with those reported in the environmental statement.
 
@@ -51,7 +51,7 @@ The authorised development must commence no later than the expiration of 5 years
 
 (3) Where amended details are approved by the Secretary of State under sub-paragraph (1), those details are deemed to be substituted for the corresponding general arrangement plans, works plans or engineering drawings and sections and the undertaker must make those amended details available in electronic form for inspection by members of the public.
 
-#### 4. Outline Environmental Management Plan[^key-205cbf543669d97bc6136aa2d4d6a2a6]
+#### 4. Outline Environmental Management Plan[^c-205cbf543669d97bc6136aa2d4d6a2a6]
 
 (1) The authorised development must be carried out in accordance with the OEMP.
 
@@ -108,7 +108,7 @@ The authorised development must commence no later than the expiration of 5 years
 
 (8) The authorised development must be operated and maintained in accordance with the HEMP.
 
-#### 5. Landscaping[^key-71938fc280cf855bde9c1ea9f0cbf58e]
+#### 5. Landscaping[^c-71938fc280cf855bde9c1ea9f0cbf58e]
 
 (1) No part of the authorised development is to commence until a landscaping scheme applicable to that part has been submitted to and approved in writing by the Secretary of State, following consultation with—
 
@@ -129,7 +129,7 @@ The authorised development must commence no later than the expiration of 5 years
 
 (5) Any tree or shrub planted as part of the landscaping scheme that, within a period of 5 years after planting, is removed, dies or becomes in the opinion of the relevant planning authority, seriously damaged or diseased, must be replaced in the first available planting season with a specimen of the same species and size as that originally planted, unless the Secretary of State, following consultation with the relevant planning authority on matters related to its function, gives consent to a variation.
 
-#### 6. Contaminated land and groundwater[^key-3b2b15995530e2fa3653229e1f741cc3]
+#### 6. Contaminated land and groundwater[^c-3b2b15995530e2fa3653229e1f741cc3]
 
 (1) In the event that contaminated land, including groundwater, is found at any time when carrying out the authorised development which was not previously identified in the environmental statement, it must be reported as soon as reasonably practicable to the Secretary of State, the relevant planning authority and the Environment Agency, and the undertaker must complete a risk assessment of the contamination in consultation with the relevant planning authority and the Environment Agency.
 
@@ -137,7 +137,7 @@ The authorised development must commence no later than the expiration of 5 years
 
 (3) Remediation must be carried out in accordance with the approved scheme.
 
-#### 7. Protected species[^key-3e0cd052e4bc8bcfb282bf1a8610a18e]
+#### 7. Protected species[^c-3e0cd052e4bc8bcfb282bf1a8610a18e]
 
 (1) In the event that any protected species which were not previously identified in the environmental statement or nesting birds are found at any time when carrying out the authorised development the undertaker must cease the relevant parts of the relevant works and report it immediately to the Ecological Clerk of Works (ECoW).
 
@@ -147,7 +147,7 @@ The authorised development must commence no later than the expiration of 5 years
 
 (4) The undertaker must implement the written scheme prepared under sub-paragraph (2) immediately and construction in the area specified in the written scheme must not recommence until any necessary licences are obtained to enable mitigation measures to be implemented.
 
-#### 8. Surface and foul water drainage[^key-3ab12ef18ad381f73a7eb95350a5417f]
+#### 8. Surface and foul water drainage[^c-3ab12ef18ad381f73a7eb95350a5417f]
 
 (1) No part of the authorised development is to commence until for that part written details of the surface and foul water drainage system, reflecting the mitigation measures set out in the REAC and drainage strategy report including means of pollution control, have been submitted and approved in writing by the Secretary of State following consultation with the relevant planning authority on matters related to its function.
 
@@ -161,27 +161,27 @@ The authorised development must commence no later than the expiration of 5 years
 - (a) the amendments would not give rise to any materially new or materially different environmental effects in comparison with those reported in the environmental statement; or
 - (b) in a case where Birmingham Airport Limited has been consulted under sub-paragraph (2)(b), the amendments would not adversely affect the safety of aircraft taking off or landing at, or flying in the vicinity of, Birmingham Airport.
 
-#### 9. Archaeological remains[^key-b1ff19ea505b5f4163df6f4c0ed44017]
+#### 9. Archaeological remains[^c-b1ff19ea505b5f4163df6f4c0ed44017]
 
 (1) No part of the authorised development is to commence until for that part a written scheme for the investigation of areas of potential archaeological interest has been submitted to and approved in writing by the Secretary of State, following consultation with the relevant planning authority on matters related to its function.
 
 (2) The authorised development must be carried out in accordance with the scheme referred to in sub-paragraph (1).
 
-#### 10. Traffic management[^key-e3cdcacd3a2db218d14225dee38eeb05]
+#### 10. Traffic management[^c-e3cdcacd3a2db218d14225dee38eeb05]
 
-(1) No part of the authorised development is to commence until a traffic management plan for that part has been submitted to and approved in writing by the Secretary of State, following consultation with the relevant planning authority on matters related to its function [^key-0173a3d900840dccb13d022151da0181]....
+(1) No part of the authorised development is to commence until a traffic management plan for that part has been submitted to and approved in writing by the Secretary of State, following consultation with the relevant planning authority on matters related to its function [^c-0173a3d900840dccb13d022151da0181]....
 
 (2) The authorised development must be constructed in accordance with the traffic management plan referred to in sub-paragraph (1).
 
-#### 11. Amendments to approved details[^key-524a99eef7dce520fda84b58e813d9fb]
+#### 11. Amendments to approved details[^c-524a99eef7dce520fda84b58e813d9fb]
 
 With respect to any requirement which requires the authorised development to be carried out in accordance with the details or schemes approved under this Schedule, the approved details or schemes are taken to include any amendments that may subsequently be approved in writing by the Secretary of State.
 
-#### 12. Fencing[^key-b6c673cd29f217ba855cdf395b8eb92c]
+#### 12. Fencing[^c-b6c673cd29f217ba855cdf395b8eb92c]
 
 Any permanent and temporary fencing and other means of enclosure for the authorised development must be constructed and installed in accordance with the Manual of Contract Documents for Highway Works except where any departures from that manual are agreed in writing by the Secretary of State in connection with the authorised development.
 
-#### 13. Bickenhill Meadows SSSI[^key-c6a49607c79dc1b14c4a1b2ba2b8561f]
+#### 13. Bickenhill Meadows SSSI[^c-c6a49607c79dc1b14c4a1b2ba2b8561f]
 
 (1) No part of the authorised development that affects Bickenhill Meadows SSSI is to commence until a detailed Bickenhill Meadows SSSI Monitoring Management Plan has been submitted to and approved in writing by the Secretary of State, following consultation with the relevant planning authority and Natural England on matters related to its function.
 
@@ -195,7 +195,7 @@ Any permanent and temporary fencing and other means of enclosure for the authori
 
 (4) Work No. 76 can only be carried out if it has been determined, in accordance with the Bickenhill Meadows SSSI Monitoring Management Plan, that the passive solution to mitigate the loss of surface water catchment area has failed.
 
-#### 14. Relocation of Work No. 35 underground storage tank and access[^key-8d3e00dc9590eccd326ed36e9dd2422a]
+#### 14. Relocation of Work No. 35 underground storage tank and access[^c-8d3e00dc9590eccd326ed36e9dd2422a]
 
 (1) Notwithstanding the details shown on any Certified Plan listed in Schedule 13 of this Order, no part of the realignment of Catherine-de-Barnes Lane is to commence until an amended scheme for the underground storage tank and associated access (Work No.35) is submitted to and approved in writing by the Secretary of State, following consultation with the relevant planning authority on matters related to its function and the occupiers of those properties affected by the change.
 
@@ -205,7 +205,7 @@ Any permanent and temporary fencing and other means of enclosure for the authori
 
 ### PART 2 — PROCEDURE FOR DISCHARGE OF REQUIREMENTS
 
-#### 15. Applications made under requirements[^key-613ae77c3bc67e4504aad4919e704a0d]
+#### 15. Applications made under requirements[^c-613ae77c3bc67e4504aad4919e704a0d]
 
 (1) Where an application has been made to the Secretary of State for any consent, agreement or approval required by a requirement (including consent, agreement or approval in respect of part of a requirement) included in this Order the Secretary of State must give notice to the undertaker of the decision on the application within a period of 8 weeks beginning with—
 
@@ -223,7 +223,7 @@ Any permanent and temporary fencing and other means of enclosure for the authori
 
 the application is taken to have been refused by the Secretary of State at the end of that period.
 
-#### 16. Further information[^key-19230202e6eb0f6697adf575caffb600]
+#### 16. Further information[^c-19230202e6eb0f6697adf575caffb600]
 
 (1) In relation to any part of an application made under this Schedule, the Secretary of State has the right to request such further information from the undertaker as is necessary to enable the Secretary of State to consider the application.
 
@@ -233,7 +233,7 @@ the application is taken to have been refused by the Secretary of State at the e
 
 (4) In this paragraph, “business day” means a day other than Saturday or Sunday which is not Christmas Day, Good Friday or a bank holiday under section 1 (bank holidays) of the Banking and Financial Dealings Act 1971.
 
-#### 17. Register of requirements[^key-3b08aee9365d5c959caa7d478fb26d6c]
+#### 17. Register of requirements[^c-3b08aee9365d5c959caa7d478fb26d6c]
 
 (1) The undertaker must, as soon as practicable following the making of this Order, establish and maintain in an electronic form suitable for inspection by members of the public a register of those requirements contained in Part 1 of this Schedule that provide for further approvals to be given by the Secretary of State.
 
@@ -241,48 +241,48 @@ the application is taken to have been refused by the Secretary of State at the e
 
 (3) The register must be maintained by the undertaker for a period of 3 years following completion of the authorised development.
 
-#### 18. Anticipatory steps towards compliance with any requirement[^key-c7fed1cf7aded4e6a1e262f2af89e672]
+#### 18. Anticipatory steps towards compliance with any requirement[^c-c7fed1cf7aded4e6a1e262f2af89e672]
 
 If before the coming into force of this Order the undertaker or any other person has taken any steps that were intended to be steps towards compliance with any provision of Part 1 of this Schedule, those steps may be taken into account for the purpose of determining compliance with that provision if they would have been valid steps for that purpose had they been taken after this Order came into force.
 
 ## Annotations
 
-[^key-dc3706a01af5118f58c9caa55e710ba7]: Commencement: Sch. 2 para. 1 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
+[^c-dc3706a01af5118f58c9caa55e710ba7]: Commencement: Sch. 2 para. 1 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
 
 [^f00083]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43). Section 78A was inserted by section 57 of the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25) and amended by section 86(2) of the Water Act [2003 c. 37](https://www.legislation.gov.uk/ukpga/2003/37).
 
-[^key-dd58475e479e5d4a5f08b1642103acf9]: Commencement: Sch. 2 para. 2 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
+[^c-dd58475e479e5d4a5f08b1642103acf9]: Commencement: Sch. 2 para. 2 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
 
-[^key-b06ff521de664bb23d0fbfd3136066ec]: Commencement: Sch. 2 para. 3 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
+[^c-b06ff521de664bb23d0fbfd3136066ec]: Commencement: Sch. 2 para. 3 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
 
-[^key-205cbf543669d97bc6136aa2d4d6a2a6]: Commencement: Sch. 2 para. 4 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
+[^c-205cbf543669d97bc6136aa2d4d6a2a6]: Commencement: Sch. 2 para. 4 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
 
-[^key-71938fc280cf855bde9c1ea9f0cbf58e]: Commencement: Sch. 2 para. 5 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
+[^c-71938fc280cf855bde9c1ea9f0cbf58e]: Commencement: Sch. 2 para. 5 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
 
-[^key-3b2b15995530e2fa3653229e1f741cc3]: Commencement: Sch. 2 para. 6 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
+[^c-3b2b15995530e2fa3653229e1f741cc3]: Commencement: Sch. 2 para. 6 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
 
-[^key-3e0cd052e4bc8bcfb282bf1a8610a18e]: Commencement: Sch. 2 para. 7 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
+[^c-3e0cd052e4bc8bcfb282bf1a8610a18e]: Commencement: Sch. 2 para. 7 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
 
-[^key-3ab12ef18ad381f73a7eb95350a5417f]: Commencement: Sch. 2 para. 8 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
+[^c-3ab12ef18ad381f73a7eb95350a5417f]: Commencement: Sch. 2 para. 8 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
 
-[^key-b1ff19ea505b5f4163df6f4c0ed44017]: Commencement: Sch. 2 para. 9 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
+[^c-b1ff19ea505b5f4163df6f4c0ed44017]: Commencement: Sch. 2 para. 9 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
 
-[^key-e3cdcacd3a2db218d14225dee38eeb05]: Commencement: Sch. 2 para. 10 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
+[^c-e3cdcacd3a2db218d14225dee38eeb05]: Commencement: Sch. 2 para. 10 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
 
-[^key-0173a3d900840dccb13d022151da0181]: Textual amendment: Words in [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2020/528/schedule/2/part/1) omitted (21.10.2020) by virtue of [The M42 Junction 6 Development Consent (Correction) Order 2020 (S.I. 2020/1164)](https://www.legislation.gov.uk/uksi/2020/1164), [art. 1](https://www.legislation.gov.uk/uksi/2020/1164/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2020/1164/schedule)
+[^c-0173a3d900840dccb13d022151da0181]: Textual amendment: Words in [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2020/528/schedule/2/part/1) omitted (21.10.2020) by virtue of [The M42 Junction 6 Development Consent (Correction) Order 2020 (S.I. 2020/1164)](https://www.legislation.gov.uk/uksi/2020/1164), [art. 1](https://www.legislation.gov.uk/uksi/2020/1164/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2020/1164/schedule)
 
-[^key-524a99eef7dce520fda84b58e813d9fb]: Commencement: Sch. 2 para. 11 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
+[^c-524a99eef7dce520fda84b58e813d9fb]: Commencement: Sch. 2 para. 11 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
 
-[^key-b6c673cd29f217ba855cdf395b8eb92c]: Commencement: Sch. 2 para. 12 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
+[^c-b6c673cd29f217ba855cdf395b8eb92c]: Commencement: Sch. 2 para. 12 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
 
-[^key-c6a49607c79dc1b14c4a1b2ba2b8561f]: Commencement: Sch. 2 para. 13 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
+[^c-c6a49607c79dc1b14c4a1b2ba2b8561f]: Commencement: Sch. 2 para. 13 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
 
-[^key-8d3e00dc9590eccd326ed36e9dd2422a]: Commencement: Sch. 2 para. 14 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
+[^c-8d3e00dc9590eccd326ed36e9dd2422a]: Commencement: Sch. 2 para. 14 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
 
-[^key-613ae77c3bc67e4504aad4919e704a0d]: Commencement: Sch. 2 para. 15 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
+[^c-613ae77c3bc67e4504aad4919e704a0d]: Commencement: Sch. 2 para. 15 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
 
-[^key-19230202e6eb0f6697adf575caffb600]: Commencement: Sch. 2 para. 16 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
+[^c-19230202e6eb0f6697adf575caffb600]: Commencement: Sch. 2 para. 16 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
 
-[^key-3b08aee9365d5c959caa7d478fb26d6c]: Commencement: Sch. 2 para. 17 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
+[^c-3b08aee9365d5c959caa7d478fb26d6c]: Commencement: Sch. 2 para. 17 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
 
-[^key-c7fed1cf7aded4e6a1e262f2af89e672]: Commencement: Sch. 2 para. 18 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
+[^c-c7fed1cf7aded4e6a1e262f2af89e672]: Commencement: Sch. 2 para. 18 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)

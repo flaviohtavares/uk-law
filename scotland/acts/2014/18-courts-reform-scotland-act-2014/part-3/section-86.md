@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 86. Power to enable sheriff to make orders having effect outside sheriffdom[^key-ddea383d0c7e838660e5da430b253669][^key-4ca13f8dfb36c0688daa8185397603d3]
+## 86. Power to enable sheriff to make orders having effect outside sheriffdom[^c-ddea383d0c7e838660e5da430b253669][^c-4ca13f8dfb36c0688daa8185397603d3]
 
 *Extent: S*
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ddea383d0c7e838660e5da430b253669]: Commencement: [S. 86](https://www.legislation.gov.uk/asp/2014/18/section/86) in force at 1.4.2015 for specified purposes by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-ddea383d0c7e838660e5da430b253669]: Commencement: [S. 86](https://www.legislation.gov.uk/asp/2014/18/section/86) in force at 1.4.2015 for specified purposes by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
-[^key-4ca13f8dfb36c0688daa8185397603d3]: Commencement: [S. 86](https://www.legislation.gov.uk/asp/2014/18/section/86) in force at 28.11.2016 in so far as not already in force by [S.S.I. 2016/291](https://www.legislation.gov.uk/ssi/2016/291), [art. 2](https://www.legislation.gov.uk/ssi/2016/291/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/291/schedule)
+[^c-4ca13f8dfb36c0688daa8185397603d3]: Commencement: [S. 86](https://www.legislation.gov.uk/asp/2014/18/section/86) in force at 28.11.2016 in so far as not already in force by [S.S.I. 2016/291](https://www.legislation.gov.uk/ssi/2016/291), [art. 2](https://www.legislation.gov.uk/ssi/2016/291/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/291/schedule)

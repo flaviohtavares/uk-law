@@ -22,17 +22,17 @@ summary: ''
 
 Regulation 50
 
-**1.**[^key-9d79c6100a40fac9adceaf81fbf70e9d] Prior to the day on which section 19 of the 2000 Act comes into force, each provision of these Regulations specified in this Schedule shall have effect modified as provided in this Schedule.
+**1.**[^c-9d79c6100a40fac9adceaf81fbf70e9d] Prior to the day on which section 19 of the 2000 Act comes into force, each provision of these Regulations specified in this Schedule shall have effect modified as provided in this Schedule.
 
-**2.**[^key-e75c43bf5bcf8a9ce29d1afd60489635] The definition of “securities” in regulation 3(1) shall be modified by the substitution of the words “the 1986 Act” for the words “section 235 of the 2000 Act”.
+**2.**[^c-e75c43bf5bcf8a9ce29d1afd60489635] The definition of “securities” in regulation 3(1) shall be modified by the substitution of the words “the 1986 Act” for the words “section 235 of the 2000 Act”.
 
-**3.**[^key-170c5f39134c1938a2fe29f15441bc52] Regulation 5 shall be modified by the substitution for paragraph (4) of—
+**3.**[^c-170c5f39134c1938a2fe29f15441bc52] Regulation 5 shall be modified by the substitution for paragraph (4) of—
 
 > (4) Where the Treasury refuse an application for approval they shall give the applicant a written notice to that effect stating the reasons for the refusal.
 
 .
 
-**4.**[^key-6dff8638d75ea6839cb48008ae721f4e] Regulation 7 shall be modified by—
+**4.**[^c-6dff8638d75ea6839cb48008ae721f4e] Regulation 7 shall be modified by—
 
 - (a) the insertion in paragraph (2) of the words “subject to paragraph (3)” after the words “they may”; and
 - (b) the substitution for paragraphs (3) to (6) of—
@@ -45,7 +45,7 @@ Regulation 50
   > - (d) any reference to an order other than a recognition order shall be taken to be a reference to a written instrument; and
   > - (e) the reference in subsection (6) to the interests of investors shall be taken to be a reference to the interests of system-users.
 
-**5.**[^key-173f5de47d4d34bc2c2c744346a99734] Regulation 8 shall be modified by—
+**5.**[^c-173f5de47d4d34bc2c2c744346a99734] Regulation 8 shall be modified by—
 
 - (a) the substitution for paragraph (4) of—
 
@@ -57,12 +57,12 @@ Regulation 50
   ; and
 - (b) the omission of paragraphs (5) and (7).
 
-**6.**[^key-a62575df741607a89efe145aeab567de] In regulation 9—
+**6.**[^c-a62575df741607a89efe145aeab567de] In regulation 9—
 
 - (a) paragraph (7) shall be modified by the substitution of the words “Subsections (6) and (7) of section 61 of the 1986 Act” for the words “Subsections (3) to (5) and (8) of section 382 of the 2000 Act”;
 - (b) paragraphs (10) to (12) shall be modified by the substitution of the words “investment business within the meaning of the 1986 Act” for the words from “business of any of the following kinds” in paragraph (10) to the end of paragraph (12).
 
-**7.**[^key-d7cf3bbf6bc062cd192e3af1eb06a983] Regulation 11(1) shall be modified to read—
+**7.**[^c-d7cf3bbf6bc062cd192e3af1eb06a983] Regulation 11(1) shall be modified to read—
 
 > (1) If it appears to the Treasury that there is a body corporate—
 >
@@ -73,12 +73,12 @@ Regulation 50
 
 .
 
-**8.**[^key-8fe9d85cbe1cd70fc738b949ef166be9] In paragraph 5(7) of Schedule 1—
+**8.**[^c-8fe9d85cbe1cd70fc738b949ef166be9] In paragraph 5(7) of Schedule 1—
 
 - (a) paragraph (a) of the definition of “clearing house” shall be modified by the substitution of the words “for the purposes of the 1986 Act” for the words “within section 285(1)(b) of the 2000 Act”; and
 - (b) paragraph (a) of the definition of “exchange” shall be modified by the substitution of the words “for the purposes of the 1986 Act” for the words “within section 285(1)(a) of the 2000 Act”.
 
-**9.**[^key-522dbfd11b732b4dc4a9d6a3c1619822] Schedule 2 shall be modified by—
+**9.**[^c-522dbfd11b732b4dc4a9d6a3c1619822] Schedule 2 shall be modified by—
 
 - (a) the substitution for subparagraph (5) in paragraph 1 of—
 
@@ -104,20 +104,20 @@ Regulation 50
 
 ## Annotations
 
-[^key-9d79c6100a40fac9adceaf81fbf70e9d]: Commencement: Sch. 6 para. 1 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
+[^c-9d79c6100a40fac9adceaf81fbf70e9d]: Commencement: Sch. 6 para. 1 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
 
-[^key-e75c43bf5bcf8a9ce29d1afd60489635]: Commencement: Sch. 6 para. 2 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
+[^c-e75c43bf5bcf8a9ce29d1afd60489635]: Commencement: Sch. 6 para. 2 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
 
-[^key-170c5f39134c1938a2fe29f15441bc52]: Commencement: Sch. 6 para. 3 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
+[^c-170c5f39134c1938a2fe29f15441bc52]: Commencement: Sch. 6 para. 3 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
 
-[^key-6dff8638d75ea6839cb48008ae721f4e]: Commencement: Sch. 6 para. 4 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
+[^c-6dff8638d75ea6839cb48008ae721f4e]: Commencement: Sch. 6 para. 4 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
 
-[^key-173f5de47d4d34bc2c2c744346a99734]: Commencement: Sch. 6 para. 5 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
+[^c-173f5de47d4d34bc2c2c744346a99734]: Commencement: Sch. 6 para. 5 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
 
-[^key-a62575df741607a89efe145aeab567de]: Commencement: Sch. 6 para. 6 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
+[^c-a62575df741607a89efe145aeab567de]: Commencement: Sch. 6 para. 6 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
 
-[^key-d7cf3bbf6bc062cd192e3af1eb06a983]: Commencement: Sch. 6 para. 7 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
+[^c-d7cf3bbf6bc062cd192e3af1eb06a983]: Commencement: Sch. 6 para. 7 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
 
-[^key-8fe9d85cbe1cd70fc738b949ef166be9]: Commencement: Sch. 6 para. 8 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
+[^c-8fe9d85cbe1cd70fc738b949ef166be9]: Commencement: Sch. 6 para. 8 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
 
-[^key-522dbfd11b732b4dc4a9d6a3c1619822]: Commencement: Sch. 6 para. 9 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
+[^c-522dbfd11b732b4dc4a9d6a3c1619822]: Commencement: Sch. 6 para. 9 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)

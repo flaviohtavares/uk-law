@@ -181,7 +181,7 @@ In section 291 (precognition on oath of defence witnesses) of the 1995 Act, afte
 
   .
 
-(2)[^key-d151cf2c09335f07285c1b287e38acbb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-d151cf2c09335f07285c1b287e38acbb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Restrictions on evidence
 
@@ -417,7 +417,7 @@ Section 10 of the International Criminal Court (Scotland) Act 2001 (asp 13) is r
 
 The 1995 Act is amended as follows.
 
-### 2. Notice of restriction on conduct of defence: arrest[^key-1a1defd8119eba1c6abf747159bf893e]
+### 2. Notice of restriction on conduct of defence: arrest[^c-1a1defd8119eba1c6abf747159bf893e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -658,8 +658,8 @@ After section 148 there is inserted—
 
 ## Annotations
 
-[^key-d151cf2c09335f07285c1b287e38acbb]: Textual amendment: [S. 6(2)](https://www.legislation.gov.uk/asp/2002/9/section/6/2) repealed (10.12.2007) by [Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (asp 6)](https://www.legislation.gov.uk/asp/2007/6), [s. 84(1)](https://www.legislation.gov.uk/asp/2007/6/section/84/1), [Sch. para. 28](https://www.legislation.gov.uk/asp/2007/6/schedule/paragraph/28); [S.S.I. 2007/479](https://www.legislation.gov.uk/ssi/2007/479), [art. 3](https://www.legislation.gov.uk/ssi/2007/479/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/479/schedule) (with [art. 7](https://www.legislation.gov.uk/ssi/2007/479/article/7))
+[^c-d151cf2c09335f07285c1b287e38acbb]: Textual amendment: [S. 6(2)](https://www.legislation.gov.uk/asp/2002/9/section/6/2) repealed (10.12.2007) by [Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (asp 6)](https://www.legislation.gov.uk/asp/2007/6), [s. 84(1)](https://www.legislation.gov.uk/asp/2007/6/section/84/1), [Sch. para. 28](https://www.legislation.gov.uk/asp/2007/6/schedule/paragraph/28); [S.S.I. 2007/479](https://www.legislation.gov.uk/ssi/2007/479), [art. 3](https://www.legislation.gov.uk/ssi/2007/479/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/479/schedule) (with [art. 7](https://www.legislation.gov.uk/ssi/2007/479/article/7))
 
 [^c56501]: Subordinate legislation: [S. 11(2)(3)](https://www.legislation.gov.uk/asp/2002/9/section/11/2/3): power fully exercised: 1.11.2002 appointed by [S.S.I. 2002/443](https://www.legislation.gov.uk/ssi/2002/443), [art. 3](https://www.legislation.gov.uk/ssi/2002/443/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2002/443/article/4))
 
-[^key-1a1defd8119eba1c6abf747159bf893e]: Textual amendment: [Sch. para. 2](https://www.legislation.gov.uk/asp/2002/9/schedule/paragraph/2) repealed (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [s. 117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2), [sch. 2 para. 38](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/38); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)
+[^c-1a1defd8119eba1c6abf747159bf893e]: Textual amendment: [Sch. para. 2](https://www.legislation.gov.uk/asp/2002/9/schedule/paragraph/2) repealed (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [s. 117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2), [sch. 2 para. 38](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/38); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)

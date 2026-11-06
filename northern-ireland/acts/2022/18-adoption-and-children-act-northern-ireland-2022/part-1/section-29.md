@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 29. Recovery by parent etc. where child placed and consent withdrawn[^key-07bab48612193d1324349e31cb2b39c3]
+## 29. Recovery by parent etc. where child placed and consent withdrawn[^c-07bab48612193d1324349e31cb2b39c3]
 
 *Extent: N.I.*
 
@@ -49,4 +49,4 @@ the prospective adopters are not required by virtue of the notice to secure the 
 
 ## Annotations
 
-[^key-07bab48612193d1324349e31cb2b39c3]: Commencement: S. 29 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-07bab48612193d1324349e31cb2b39c3]: Commencement: S. 29 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

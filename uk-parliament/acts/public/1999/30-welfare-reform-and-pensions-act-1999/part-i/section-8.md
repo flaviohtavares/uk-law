@@ -24,8 +24,8 @@ summary: ''
 
 - “**the 1993 Act**” means the [^c1314200]Pension Schemes Act 1993;
 - “**the 1995 Act**” means the [^c1314201]Pensions Act 1995;
-- “[^key-61bb1131727f78f73dd2e1e105b7dcf4] **the Authority** ” means the Pensions Regulator;
-- [^key-1098fe9c1a6c1edd66a622933b0b7498]...
+- “[^c-61bb1131727f78f73dd2e1e105b7dcf4] **the Authority** ” means the Pensions Regulator;
+- [^c-1098fe9c1a6c1edd66a622933b0b7498]...
 - “**occupational pension scheme**” and “**personal pension scheme**” have the meanings given by section 1 of the 1993 Act;
 - “**pension scheme**” means an occupational pension scheme or a personal pension scheme;
 - “**prescribed**” means prescribed by regulations made by the Secretary of State;
@@ -33,7 +33,7 @@ summary: ''
 
 (2) The Secretary of State may by regulations make provision for a stakeholder pension scheme which—
 
-- (a) is prescribed or is[^key-398355c37f86642c6df2d9473e4978b4] of a prescribed description, and
+- (a) is prescribed or is[^c-398355c37f86642c6df2d9473e4978b4] of a prescribed description, and
 - (b) would (apart from the regulations) be an occupational pension scheme,
 
 to be treated for all purposes, or for such purposes as may be prescribed, as if it were a personal pension scheme and not an occupational pension scheme.
@@ -54,10 +54,10 @@ to be treated for all purposes, or for such purposes as may be prescribed, as if
 
 [^c1314201]: Marginal citation: [1995 c. 26](https://www.legislation.gov.uk/ukpga/1995/26).
 
-[^key-61bb1131727f78f73dd2e1e105b7dcf4]: Textual amendment: Words in s. 8(1) substituted (6.4.2005) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [ss. 7(2)(c)](https://www.legislation.gov.uk/ukpga/2004/35/section/7/2/c), [322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1) (with [s. 313](https://www.legislation.gov.uk/ukpga/2004/35/section/313)); [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)
+[^c-61bb1131727f78f73dd2e1e105b7dcf4]: Textual amendment: Words in s. 8(1) substituted (6.4.2005) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [ss. 7(2)(c)](https://www.legislation.gov.uk/ukpga/2004/35/section/7/2/c), [322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1) (with [s. 313](https://www.legislation.gov.uk/ukpga/2004/35/section/313)); [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)
 
-[^key-1098fe9c1a6c1edd66a622933b0b7498]: Textual amendment: Words in s. 8(1) repealed (1.10.2012) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [ss. 87(14)](https://www.legislation.gov.uk/ukpga/2008/30/section/87/14), [149(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/1), [Sch. 11 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/30/schedule/11/part/1); [S.I. 2012/2480](https://www.legislation.gov.uk/uksi/2012/2480), [art. 2](https://www.legislation.gov.uk/uksi/2012/2480/article/2)
+[^c-1098fe9c1a6c1edd66a622933b0b7498]: Textual amendment: Words in s. 8(1) repealed (1.10.2012) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [ss. 87(14)](https://www.legislation.gov.uk/ukpga/2008/30/section/87/14), [149(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/1), [Sch. 11 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/30/schedule/11/part/1); [S.I. 2012/2480](https://www.legislation.gov.uk/uksi/2012/2480), [art. 2](https://www.legislation.gov.uk/uksi/2012/2480/article/2)
 
-[^key-398355c37f86642c6df2d9473e4978b4]: Textual amendment: Words in s. 8(2)(a) inserted (22.9.2005) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [s. 322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1), [Sch. 12 para. 74](https://www.legislation.gov.uk/ukpga/2004/35/schedule/12/paragraph/74); [S.I. 2005/1720](https://www.legislation.gov.uk/uksi/2005/1720), [art. 2(11)](https://www.legislation.gov.uk/uksi/2005/1720/article/2/11)
+[^c-398355c37f86642c6df2d9473e4978b4]: Textual amendment: Words in s. 8(2)(a) inserted (22.9.2005) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [s. 322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1), [Sch. 12 para. 74](https://www.legislation.gov.uk/ukpga/2004/35/schedule/12/paragraph/74); [S.I. 2005/1720](https://www.legislation.gov.uk/uksi/2005/1720), [art. 2(11)](https://www.legislation.gov.uk/uksi/2005/1720/article/2/11)
 
 [^c1314202]: Marginal citation: [1947 c. 44](https://www.legislation.gov.uk/ukpga/1947/44).

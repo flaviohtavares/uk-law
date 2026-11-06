@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 4 — Forms[^key-25b3c68d97975193ff61f909320d7d7e][^key-1077257ba7a89153a08ddc5e699c7ecc]
+## SCHEDULE 4 — Forms[^c-25b3c68d97975193ff61f909320d7d7e][^c-1077257ba7a89153a08ddc5e699c7ecc]
 
 *Extent: N.I.*
 
@@ -26,6 +26,6 @@ Schedule 2, paragraph 68
 
 ## Annotations
 
-[^key-25b3c68d97975193ff61f909320d7d7e]: Commencement: [Sch. 4](https://www.legislation.gov.uk/nisr/2007/115/schedule/4) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-25b3c68d97975193ff61f909320d7d7e]: Commencement: [Sch. 4](https://www.legislation.gov.uk/nisr/2007/115/schedule/4) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
-[^key-1077257ba7a89153a08ddc5e699c7ecc]: Textual amendment: Words in [Sch. 4 Form ML6](https://www.legislation.gov.uk/nisr/2007/115/schedule/4/form/ML6) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 252](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/252) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1077257ba7a89153a08ddc5e699c7ecc]: Textual amendment: Words in [Sch. 4 Form ML6](https://www.legislation.gov.uk/nisr/2007/115/schedule/4/form/ML6) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 252](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/252) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

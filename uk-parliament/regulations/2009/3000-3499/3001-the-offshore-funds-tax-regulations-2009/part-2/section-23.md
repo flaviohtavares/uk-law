@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Temporary non-residents[^key-e4c96cb4003555cbb9ff1ff8303c94fd]
+## 23. Temporary non-residents[^c-e4c96cb4003555cbb9ff1ff8303c94fd]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e4c96cb4003555cbb9ff1ff8303c94fd]: Textual amendment: Reg. 23, 23A substituted for reg. 23 (with effect in accordance with reg. 2(b) of the amending S.I.) by [The Temporary Non-Residence (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/1810)](https://www.legislation.gov.uk/uksi/2013/1810), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1810/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2013/1810/regulation/4/2)
+[^c-e4c96cb4003555cbb9ff1ff8303c94fd]: Textual amendment: Reg. 23, 23A substituted for reg. 23 (with effect in accordance with reg. 2(b) of the amending S.I.) by [The Temporary Non-Residence (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/1810)](https://www.legislation.gov.uk/uksi/2013/1810), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1810/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2013/1810/regulation/4/2)

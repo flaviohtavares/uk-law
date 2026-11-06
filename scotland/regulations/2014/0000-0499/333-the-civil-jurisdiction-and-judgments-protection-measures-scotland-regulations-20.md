@@ -32,7 +32,7 @@ summary: ''
 
 Judgments
 
-The Civil Jurisdiction and Judgments (Protection Measures) (Scotland) Regulations 2014 (revoked)[^key-112cec055bf5c68c9587785d6e3ab71e]
+The Civil Jurisdiction and Judgments (Protection Measures) (Scotland) Regulations 2014 (revoked)[^c-112cec055bf5c68c9587785d6e3ab71e]
 
 Made
 
@@ -46,34 +46,34 @@ Coming into force
 
 11th January 2015
 
-[^key-112cec055bf5c68c9587785d6e3ab71e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-112cec055bf5c68c9587785d6e3ab71e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-112cec055bf5c68c9587785d6e3ab71e]
+## 1. Citation, commencement and extent[^c-112cec055bf5c68c9587785d6e3ab71e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-112cec055bf5c68c9587785d6e3ab71e]
+## 2. Interpretation[^c-112cec055bf5c68c9587785d6e3ab71e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Jurisdiction in relation to issuing certificates under Articles 5, 9 and 14 of the Protection Measures Regulation[^key-112cec055bf5c68c9587785d6e3ab71e]
+## 3. Jurisdiction in relation to issuing certificates under Articles 5, 9 and 14 of the Protection Measures Regulation[^c-112cec055bf5c68c9587785d6e3ab71e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Jurisdiction in relation to incoming protection measures[^key-112cec055bf5c68c9587785d6e3ab71e]
+## 4. Jurisdiction in relation to incoming protection measures[^c-112cec055bf5c68c9587785d6e3ab71e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Enforcement of incoming protection measures[^key-112cec055bf5c68c9587785d6e3ab71e]
+## 5. Enforcement of incoming protection measures[^c-112cec055bf5c68c9587785d6e3ab71e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-112cec055bf5c68c9587785d6e3ab71e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-112cec055bf5c68c9587785d6e3ab71e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-112cec055bf5c68c9587785d6e3ab71e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-112cec055bf5c68c9587785d6e3ab71e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-112cec055bf5c68c9587785d6e3ab71e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2014/333) revoked (1.12.2022) by [The Civil Protection Measures, European Protection Order and Victims’ Rights (EU Exit) (Scotland) (Amendment Etc.) Regulations 2022 (S.S.I. 2022/249)](https://www.legislation.gov.uk/ssi/2022/249), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/249/regulation/1/1), [3](https://www.legislation.gov.uk/ssi/2022/249/regulation/3)
+[^c-112cec055bf5c68c9587785d6e3ab71e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2014/333) revoked (1.12.2022) by [The Civil Protection Measures, European Protection Order and Victims’ Rights (EU Exit) (Scotland) (Amendment Etc.) Regulations 2022 (S.S.I. 2022/249)](https://www.legislation.gov.uk/ssi/2022/249), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/249/regulation/1/1), [3](https://www.legislation.gov.uk/ssi/2022/249/regulation/3)

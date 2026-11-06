@@ -52,7 +52,7 @@ sections 72(1)(b) and 73(1)(a) shall not apply to the disposal of the asset, or 
   > (1) If—
   >
   > - (a) relief has been given under section 79 of the Finance Act 1980 in respect of a disposal made after 5th April 1981 to an individual (“**the relevant disposal**”); and
-  > - (b) at a time when he has not disposed of the asset in question, the transferee ceases to be resident[^key-3683bdefde83f9433553f8040d0f76e6] in the United Kingdom,
+  > - (b) at a time when he has not disposed of the asset in question, the transferee ceases to be resident[^c-3683bdefde83f9433553f8040d0f76e6] in the United Kingdom,
   >
   > then, subject to the following provisions of this section, a chargeable gain shall be deemed to have accrued to the transferee immediately before that time, and its amount shall be equal to the held-over gain (within the meaning of section 67) on the relevant disposal.
 
@@ -63,4 +63,4 @@ sections 72(1)(b) and 73(1)(a) shall not apply to the disposal of the asset, or 
 
 ## Annotations
 
-[^key-3683bdefde83f9433553f8040d0f76e6]: Textual amendment: Words in s. 67(6)(a) substituted (with effect in accordance with Sch. 46 para. 112 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 46 para. 81](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/81)
+[^c-3683bdefde83f9433553f8040d0f76e6]: Textual amendment: Words in s. 67(6)(a) substituted (with effect in accordance with Sch. 46 para. 112 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 46 para. 81](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/81)

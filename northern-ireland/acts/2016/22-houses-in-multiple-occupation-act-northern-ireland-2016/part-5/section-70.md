@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 70. Powers to require information and documents: introductory[^key-122f29cfd8908a92d5507fa382b88b44]
+## 70. Powers to require information and documents: introductory[^c-122f29cfd8908a92d5507fa382b88b44]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ The powers conferred by sections71, 72 and 73 are exercisable by a council for t
 
 ## Annotations
 
-[^key-122f29cfd8908a92d5507fa382b88b44]: Commencement: [S. 70](https://www.legislation.gov.uk/nia/2016/22/section/70) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-122f29cfd8908a92d5507fa382b88b44]: Commencement: [S. 70](https://www.legislation.gov.uk/nia/2016/22/section/70) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))

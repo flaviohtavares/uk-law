@@ -44,11 +44,11 @@ The Department of Enterprise, Trade and Investment, being a Department designate
 
 ## PART 1 — INTRODUCTORY
 
-### 1. Citation and commencement[^key-5d5ad18178e2709de0f205d993eea8c1]
+### 1. Citation and commencement[^c-5d5ad18178e2709de0f205d993eea8c1]
 
 These Regulations may be cited as the Energy Efficiency Regulations (Northern Ireland) 2014 and shall come into operation on 25th July 2014.
 
-### 2. Interpretation[^key-0041d25b31c84e86a23ceb0e48134fad]
+### 2. Interpretation[^c-0041d25b31c84e86a23ceb0e48134fad]
 
 (1) The Interpretation Act (Northern Ireland) 1954[^f00003] shall apply to these Regulations as it applies to an Act of the Assembly.
 
@@ -65,7 +65,7 @@ These Regulations may be cited as the Energy Efficiency Regulations (Northern Ir
 
 ## PART 2 — AMENDMENTS TO THE ENERGY ORDER
 
-### 3. Interpretation[^key-65ff5dcfa6fd3fac16da03f780299019]
+### 3. Interpretation[^c-65ff5dcfa6fd3fac16da03f780299019]
 
 In Article 2(2) (Interpretation) of the Energy Order, insert at the appropriate place the following definition—
 
@@ -73,7 +73,7 @@ In Article 2(2) (Interpretation) of the Energy Order, insert at the appropriate 
 
 .
 
-### 4. Principal objective and general duties in relation to electricity[^key-ea15d6d6eddb81a517bb182f798234bc]
+### 4. Principal objective and general duties in relation to electricity[^c-ea15d6d6eddb81a517bb182f798234bc]
 
 Article 12 of the Energy Order is amended as follows—
 
@@ -94,7 +94,7 @@ Article 12 of the Energy Order is amended as follows—
 
   .
 
-### 5. Principal objective and general duties in relation to gas[^key-3205073944ab76c5c6f649582a08dc11]
+### 5. Principal objective and general duties in relation to gas[^c-3205073944ab76c5c6f649582a08dc11]
 
 Article 14 of the Energy Order is amended as follows—
 
@@ -114,7 +114,7 @@ Article 14 of the Energy Order is amended as follows—
 
   .
 
-### 6. Penalties[^key-fc96e8d7dd40ac65c5d2e316389193c6]
+### 6. Penalties[^c-fc96e8d7dd40ac65c5d2e316389193c6]
 
 Article 41A of the Energy Order is amended as follows—.
 
@@ -126,7 +126,7 @@ Article 41A of the Energy Order is amended as follows—.
 
   .
 
-**7.**[^key-1c910b01a742a8af9793485e17b368a7] Article 41B of the Energy Order is amended as follows—.
+**7.**[^c-1c910b01a742a8af9793485e17b368a7] Article 41B of the Energy Order is amended as follows—.
 
 - (a) in paragraph (3)(h) omit “and”;
 - (b) in paragraph (3)(i), for “.” substitute “; and”; and
@@ -138,7 +138,7 @@ Article 41A of the Energy Order is amended as follows—.
 
 ## PART 3 — AMENDMENTS TO THE ELECTRICITY ORDER
 
-### 8. Electricity Licensing and Energy Efficiency[^key-f0af5acf70c89546bff5f9316655b44c]
+### 8. Electricity Licensing and Energy Efficiency[^c-f0af5acf70c89546bff5f9316655b44c]
 
 After Article 11AB of the Electricity Order insert the following Article—
 
@@ -204,7 +204,7 @@ After Article 11AB of the Electricity Order insert the following Article—
 
 .
 
-### 9. Provision of individual meters[^key-3bd463d9c809abb065470a37d0189056]
+### 9. Provision of individual meters[^c-3bd463d9c809abb065470a37d0189056]
 
 After paragraph 3(3) of Schedule 7 to the Electricity Order insert the following paragraph—
 
@@ -214,7 +214,7 @@ After paragraph 3(3) of Schedule 7 to the Electricity Order insert the following
 
 ## PART 4 — AMENDMENTS TO THE GAS ORDER
 
-### 10. Gas Licensing and Energy Efficiency Obligations[^key-1fdb973809dc03984bbf64eeb721f14f]
+### 10. Gas Licensing and Energy Efficiency Obligations[^c-1fdb973809dc03984bbf64eeb721f14f]
 
 After Article 10A of the Gas Order insert the following Article—
 
@@ -261,7 +261,7 @@ After Article 10A of the Gas Order insert the following Article—
 
 .
 
-### 11. Provision of individual meters[^key-0d3f7af898636850a2a5d55e1a8f3386]
+### 11. Provision of individual meters[^c-0d3f7af898636850a2a5d55e1a8f3386]
 
 Immediately before Article 22 of the Gas (Northern Ireland) Order 1996 there shall be inserted—
 
@@ -275,17 +275,17 @@ Immediately before Article 22 of the Gas (Northern Ireland) Order 1996 there sha
 
 ## PART 5 — PRIORITY DISPATCH
 
-### 12. Amendments to the Electricity Order[^key-14c7fc2f2c8559f4fa6f1228d15e9de1]
+### 12. Amendments to the Electricity Order[^c-14c7fc2f2c8559f4fa6f1228d15e9de1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Amendments to the Electricity (Priority Dispatch) Regulations (Northern Ireland) 2012[^key-14c7fc2f2c8559f4fa6f1228d15e9de1]
+### 13. Amendments to the Electricity (Priority Dispatch) Regulations (Northern Ireland) 2012[^c-14c7fc2f2c8559f4fa6f1228d15e9de1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 6 — TRANSITIONAL PROVISIONS
 
-### 14. Modification of existing electricity licences[^key-40ecc0a023e467aaf88fb3dbe163eb65]
+### 14. Modification of existing electricity licences[^c-40ecc0a023e467aaf88fb3dbe163eb65]
 
 (1) The Department, after consultation with the Authority, or the Authority with the consent of the Department, may by notice in writing make such modifications to the conditions of an existing electricity licence as the Department or the Authority, as the case may be, considers requisite or expedient—
 
@@ -318,7 +318,7 @@ an existing licence as the Department or the Authority, as the case may be, cons
 
 (10) Nothing in this regulation prejudices the generality of any other power to modify an electricity licence; and nothing in paragraph (3) prejudices the generality of paragraph (1).
 
-### 15. Modification of existing gas licences[^key-16250b204b8bb3e9f34891db97ed81d2]
+### 15. Modification of existing gas licences[^c-16250b204b8bb3e9f34891db97ed81d2]
 
 (1) The Department, after consultation with the Authority, or the Authority with the consent of the Department, may by notice in writing make such modifications to the conditions of an existing gas licence as the Department or the Authority, as the case may be, considers requisite or expedient—
 
@@ -390,9 +390,9 @@ Part 6 sets out transitional provisions to provide for existing gas and electric
 
 [^f00002]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68); section 2(2) was amended by the Legislative and Regulatory Reform Act [2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51), section 27(1) and by the European Union (Amendment) Act [2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7), section 3(3) and Part I of the Schedule
 
-[^key-5d5ad18178e2709de0f205d993eea8c1]: Commencement: Reg. 1 in operation at 25.7.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/198/regulation/1)
+[^c-5d5ad18178e2709de0f205d993eea8c1]: Commencement: Reg. 1 in operation at 25.7.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/198/regulation/1)
 
-[^key-0041d25b31c84e86a23ceb0e48134fad]: Commencement: Reg. 2 in operation at 25.7.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/198/regulation/1)
+[^c-0041d25b31c84e86a23ceb0e48134fad]: Commencement: Reg. 2 in operation at 25.7.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/198/regulation/1)
 
 [^f00003]: Footnote: [1954 c.33 (N.I.1)](https://www.legislation.gov.uk/apni/1954/33)
 
@@ -402,26 +402,26 @@ Part 6 sets out transitional provisions to provide for existing gas and electric
 
 [^f00006]: Footnote: [S.I. 1996/275 (N.I.2)](https://www.legislation.gov.uk/nisi/1996/275)
 
-[^key-65ff5dcfa6fd3fac16da03f780299019]: Commencement: Reg. 3 in operation at 25.7.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/198/regulation/1)
+[^c-65ff5dcfa6fd3fac16da03f780299019]: Commencement: Reg. 3 in operation at 25.7.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/198/regulation/1)
 
-[^key-ea15d6d6eddb81a517bb182f798234bc]: Commencement: Reg. 4 in operation at 25.7.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/198/regulation/1)
+[^c-ea15d6d6eddb81a517bb182f798234bc]: Commencement: Reg. 4 in operation at 25.7.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/198/regulation/1)
 
-[^key-3205073944ab76c5c6f649582a08dc11]: Commencement: Reg. 5 in operation at 25.7.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/198/regulation/1)
+[^c-3205073944ab76c5c6f649582a08dc11]: Commencement: Reg. 5 in operation at 25.7.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/198/regulation/1)
 
-[^key-fc96e8d7dd40ac65c5d2e316389193c6]: Commencement: Reg. 6 in operation at 25.7.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/198/regulation/1)
+[^c-fc96e8d7dd40ac65c5d2e316389193c6]: Commencement: Reg. 6 in operation at 25.7.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/198/regulation/1)
 
-[^key-1c910b01a742a8af9793485e17b368a7]: Commencement: Reg. 7 in operation at 25.7.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/198/regulation/1)
+[^c-1c910b01a742a8af9793485e17b368a7]: Commencement: Reg. 7 in operation at 25.7.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/198/regulation/1)
 
-[^key-f0af5acf70c89546bff5f9316655b44c]: Commencement: Reg. 8 in operation at 25.7.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/198/regulation/1)
+[^c-f0af5acf70c89546bff5f9316655b44c]: Commencement: Reg. 8 in operation at 25.7.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/198/regulation/1)
 
-[^key-3bd463d9c809abb065470a37d0189056]: Commencement: Reg. 9 in operation at 25.7.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/198/regulation/1)
+[^c-3bd463d9c809abb065470a37d0189056]: Commencement: Reg. 9 in operation at 25.7.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/198/regulation/1)
 
-[^key-1fdb973809dc03984bbf64eeb721f14f]: Commencement: Reg. 10 in operation at 25.7.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/198/regulation/1)
+[^c-1fdb973809dc03984bbf64eeb721f14f]: Commencement: Reg. 10 in operation at 25.7.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/198/regulation/1)
 
-[^key-0d3f7af898636850a2a5d55e1a8f3386]: Commencement: Reg. 11 in operation at 25.7.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/198/regulation/1)
+[^c-0d3f7af898636850a2a5d55e1a8f3386]: Commencement: Reg. 11 in operation at 25.7.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/198/regulation/1)
 
-[^key-14c7fc2f2c8559f4fa6f1228d15e9de1]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/nisr/2014/198/regulation/13) revoked (1.4.2021) by [The Electricity (Priority Dispatch) Regulations (Northern Ireland) 2020 (S.R. 2020/306)](https://www.legislation.gov.uk/nisr/2020/306), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/306/regulation/1/3), [5(c)](https://www.legislation.gov.uk/nisr/2020/306/regulation/5/c)
+[^c-14c7fc2f2c8559f4fa6f1228d15e9de1]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/nisr/2014/198/regulation/13) revoked (1.4.2021) by [The Electricity (Priority Dispatch) Regulations (Northern Ireland) 2020 (S.R. 2020/306)](https://www.legislation.gov.uk/nisr/2020/306), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/306/regulation/1/3), [5(c)](https://www.legislation.gov.uk/nisr/2020/306/regulation/5/c)
 
-[^key-40ecc0a023e467aaf88fb3dbe163eb65]: Commencement: Reg. 14 in operation at 25.7.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/198/regulation/1)
+[^c-40ecc0a023e467aaf88fb3dbe163eb65]: Commencement: Reg. 14 in operation at 25.7.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/198/regulation/1)
 
-[^key-16250b204b8bb3e9f34891db97ed81d2]: Commencement: Reg. 15 in operation at 25.7.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/198/regulation/1)
+[^c-16250b204b8bb3e9f34891db97ed81d2]: Commencement: Reg. 15 in operation at 25.7.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/198/regulation/1)

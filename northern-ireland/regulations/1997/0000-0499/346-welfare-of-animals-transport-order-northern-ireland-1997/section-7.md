@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 7. Treatment of sick animals[^key-7597cc6cfecba229423bb034ee22f86b]
+## 7. Treatment of sick animals[^c-7597cc6cfecba229423bb034ee22f86b]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7597cc6cfecba229423bb034ee22f86b]: Commencement: Art. 7 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
+[^c-7597cc6cfecba229423bb034ee22f86b]: Commencement: Art. 7 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)

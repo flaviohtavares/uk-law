@@ -30,29 +30,29 @@ summary: ''
 
 Agriculture
 
-The Direct Payments Ceilings Regulations 2020 *(Extent: E)* *(affected by repeal, see note)*[^key-63cffcfd23a819ea3a8d7cf764f9fed4]
+The Direct Payments Ceilings Regulations 2020 *(Extent: E)* *(affected by repeal, see note)*[^c-63cffcfd23a819ea3a8d7cf764f9fed4]
 
-Made *(Extent: E)* *(affected by repeal, see note)*[^key-63cffcfd23a819ea3a8d7cf764f9fed4]
+Made *(Extent: E)* *(affected by repeal, see note)*[^c-63cffcfd23a819ea3a8d7cf764f9fed4]
 
-14th July 2020 *(Extent: E)* *(affected by repeal, see note)*[^key-63cffcfd23a819ea3a8d7cf764f9fed4]
+14th July 2020 *(Extent: E)* *(affected by repeal, see note)*[^c-63cffcfd23a819ea3a8d7cf764f9fed4]
 
-Coming into force in accordance with regulation 1 *(Extent: E)* *(affected by repeal, see note)*[^key-63cffcfd23a819ea3a8d7cf764f9fed4]
+Coming into force in accordance with regulation 1 *(Extent: E)* *(affected by repeal, see note)*[^c-63cffcfd23a819ea3a8d7cf764f9fed4]
 
-The Secretary of State makes these Regulations in exercise of the powers conferred by Articles 6(3) and 7(3) of Regulation (EU) No. 1307/2013 of the European Parliament and of the Council of 17 December 2013 establishing rules for direct payments to farmers under support schemes within the framework of the common agricultural policy *(Extent: E)* *(affected by repeal, see note)*[^key-63cffcfd23a819ea3a8d7cf764f9fed4] [^f00001], having obtained the consent of the relevant authorities for Wales, Scotland and Northern Ireland in accordance with Articles 6(4) and 7(4) of that Regulation. *(Extent: E)* *(affected by repeal, see note)*[^key-63cffcfd23a819ea3a8d7cf764f9fed4]
+The Secretary of State makes these Regulations in exercise of the powers conferred by Articles 6(3) and 7(3) of Regulation (EU) No. 1307/2013 of the European Parliament and of the Council of 17 December 2013 establishing rules for direct payments to farmers under support schemes within the framework of the common agricultural policy *(Extent: E)* *(affected by repeal, see note)*[^c-63cffcfd23a819ea3a8d7cf764f9fed4] [^f00001], having obtained the consent of the relevant authorities for Wales, Scotland and Northern Ireland in accordance with Articles 6(4) and 7(4) of that Regulation. *(Extent: E)* *(affected by repeal, see note)*[^c-63cffcfd23a819ea3a8d7cf764f9fed4]
 
-## 1 (Extent: E) (affected by repeal, see note). Citation, commencement and interpretation (Extent: E) (affected by repeal, see note)[^key-3a975e4939d927939625616f42371922][^key-63cffcfd23a819ea3a8d7cf764f9fed4][^key-63cffcfd23a819ea3a8d7cf764f9fed4]
+## 1 (Extent: E) (affected by repeal, see note). Citation, commencement and interpretation (Extent: E) (affected by repeal, see note)[^c-3a975e4939d927939625616f42371922][^c-63cffcfd23a819ea3a8d7cf764f9fed4][^c-63cffcfd23a819ea3a8d7cf764f9fed4]
 
-(1 (Extent: E) (affected by repeal, see note))[^key-63cffcfd23a819ea3a8d7cf764f9fed4] These Regulations may be cited as the Direct Payments Ceilings Regulations 2020 and come into force the day after the day on which this instrument is made. *(Extent: E)* *(affected by repeal, see note)*[^key-63cffcfd23a819ea3a8d7cf764f9fed4]
+(1 (Extent: E) (affected by repeal, see note))[^c-63cffcfd23a819ea3a8d7cf764f9fed4] These Regulations may be cited as the Direct Payments Ceilings Regulations 2020 and come into force the day after the day on which this instrument is made. *(Extent: E)* *(affected by repeal, see note)*[^c-63cffcfd23a819ea3a8d7cf764f9fed4]
 
-(2 (Extent: E) (affected by repeal, see note))[^key-63cffcfd23a819ea3a8d7cf764f9fed4] In these Regulations, “the Direct Payments Regulation” means Regulation (EU) No. 1307/2013 of the European Parliament and of the Council of 17 December 2013 establishing rules for direct payments to farmers under support schemes within the framework of the common agricultural policy. *(Extent: E)* *(affected by repeal, see note)*[^key-63cffcfd23a819ea3a8d7cf764f9fed4]
+(2 (Extent: E) (affected by repeal, see note))[^c-63cffcfd23a819ea3a8d7cf764f9fed4] In these Regulations, “the Direct Payments Regulation” means Regulation (EU) No. 1307/2013 of the European Parliament and of the Council of 17 December 2013 establishing rules for direct payments to farmers under support schemes within the framework of the common agricultural policy. *(Extent: E)* *(affected by repeal, see note)*[^c-63cffcfd23a819ea3a8d7cf764f9fed4]
 
-## 2 (Extent: E) (affected by repeal, see note). Amendment of the Direct Payments Regulation (Extent: E) (affected by repeal, see note)[^key-0db6f1458168663307cc3d240454b1bc][^key-63cffcfd23a819ea3a8d7cf764f9fed4][^key-63cffcfd23a819ea3a8d7cf764f9fed4]
+## 2 (Extent: E) (affected by repeal, see note). Amendment of the Direct Payments Regulation (Extent: E) (affected by repeal, see note)[^c-0db6f1458168663307cc3d240454b1bc][^c-63cffcfd23a819ea3a8d7cf764f9fed4][^c-63cffcfd23a819ea3a8d7cf764f9fed4]
 
-(1 (Extent: E) (affected by repeal, see note))[^key-63cffcfd23a819ea3a8d7cf764f9fed4] In order to take account of the developments relating to the total maximum amounts of direct payments that may be granted, the Direct Payments Regulation is amended as follows. *(Extent: E)* *(affected by repeal, see note)*[^key-63cffcfd23a819ea3a8d7cf764f9fed4]
+(1 (Extent: E) (affected by repeal, see note))[^c-63cffcfd23a819ea3a8d7cf764f9fed4] In order to take account of the developments relating to the total maximum amounts of direct payments that may be granted, the Direct Payments Regulation is amended as follows. *(Extent: E)* *(affected by repeal, see note)*[^c-63cffcfd23a819ea3a8d7cf764f9fed4]
 
-(2 (Extent: E) (affected by repeal, see note))[^key-63cffcfd23a819ea3a8d7cf764f9fed4] In Annex 2, in the column with the heading “2020”, for “3,591,683” substitute “3,208,298”. *(Extent: E)* *(affected by repeal, see note)*[^key-63cffcfd23a819ea3a8d7cf764f9fed4]
+(2 (Extent: E) (affected by repeal, see note))[^c-63cffcfd23a819ea3a8d7cf764f9fed4] In Annex 2, in the column with the heading “2020”, for “3,591,683” substitute “3,208,298”. *(Extent: E)* *(affected by repeal, see note)*[^c-63cffcfd23a819ea3a8d7cf764f9fed4]
 
-(3 (Extent: E) (affected by repeal, see note))[^key-63cffcfd23a819ea3a8d7cf764f9fed4] In Annex 3, in the column with the heading “2020”, for “3,591.7” substitute “3,204.4”. *(Extent: E)* *(affected by repeal, see note)*[^key-63cffcfd23a819ea3a8d7cf764f9fed4]
+(3 (Extent: E) (affected by repeal, see note))[^c-63cffcfd23a819ea3a8d7cf764f9fed4] In Annex 3, in the column with the heading “2020”, for “3,591.7” substitute “3,204.4”. *(Extent: E)* *(affected by repeal, see note)*[^c-63cffcfd23a819ea3a8d7cf764f9fed4]
 
 Victoria Prentis
 
@@ -76,10 +76,10 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 ## Annotations
 
-[^key-63cffcfd23a819ea3a8d7cf764f9fed4]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2020/760) revoked (E.) (1.1.2024) by [The Agriculture (Delinked Payments and Consequential Provisions) (England) Regulations 2023 (S.I. 2023/1430)](https://www.legislation.gov.uk/uksi/2023/1430), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2023/1430/regulation/1/2/a), [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2023/1430/schedule/3/paragraph/1) Table 2 (with [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1430/schedule/3/part/2))
+[^c-63cffcfd23a819ea3a8d7cf764f9fed4]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2020/760) revoked (E.) (1.1.2024) by [The Agriculture (Delinked Payments and Consequential Provisions) (England) Regulations 2023 (S.I. 2023/1430)](https://www.legislation.gov.uk/uksi/2023/1430), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2023/1430/regulation/1/2/a), [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2023/1430/schedule/3/paragraph/1) Table 2 (with [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1430/schedule/3/part/2))
 
 [^f00001]: Footnote: EUR 2013/1307, to which relevant amendments have been made by [S.I. 2020/91](https://www.legislation.gov.uk/uksi/2020/91). This Regulation was incorporated into domestic law by section 1 of the Direct Payments to Farmers (Legislative Continuity) Act [2020 (c.2)](https://www.legislation.gov.uk/ukpga/2020/2)
 
-[^key-3a975e4939d927939625616f42371922]: Commencement: Reg. 1 in force at 15.7.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/760/regulation/1/1)
+[^c-3a975e4939d927939625616f42371922]: Commencement: Reg. 1 in force at 15.7.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/760/regulation/1/1)
 
-[^key-0db6f1458168663307cc3d240454b1bc]: Commencement: Reg. 2 in force at 15.7.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/760/regulation/1/1)
+[^c-0db6f1458168663307cc3d240454b1bc]: Commencement: Reg. 2 in force at 15.7.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/760/regulation/1/1)

@@ -22,10 +22,10 @@ summary: ''
 
 (1) This Act may be cited as the Aviation and Maritime Security Act 1990.
 
-(2)[^key-f9b3ceb5d92874c44fe6e98cfd93d911] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-f9b3ceb5d92874c44fe6e98cfd93d911] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) This Act extends to Northern Ireland.
 
 ## Annotations
 
-[^key-f9b3ceb5d92874c44fe6e98cfd93d911]: Textual amendment: [S. 54(2)](https://www.legislation.gov.uk/ukpga/1990/31/section/54/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 4](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/4)
+[^c-f9b3ceb5d92874c44fe6e98cfd93d911]: Textual amendment: [S. 54(2)](https://www.legislation.gov.uk/ukpga/1990/31/section/54/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 4](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/4)

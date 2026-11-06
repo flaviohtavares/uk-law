@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 80A. Form etc of electronic documents[^key-6d115e8ea284bd12e2b6fe58dee5b57b]
+## 80A. Form etc of electronic documents[^c-6d115e8ea284bd12e2b6fe58dee5b57b]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6d115e8ea284bd12e2b6fe58dee5b57b]: Textual amendment: Arts. 80A-80C inserted (6.4.2018 immediately after 2016 c. 16 (N.I.), s. 8(2) comes into force) by [The Financial Services Act 2012 (Mutual Societies) Order 2018 (S.I. 2018/323)](https://www.legislation.gov.uk/uksi/2018/323), [art. 1](https://www.legislation.gov.uk/uksi/2018/323/article/1), [Sch. 3 para. 25](https://www.legislation.gov.uk/uksi/2018/323/schedule/3/paragraph/25) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/323/article/3))
+[^c-6d115e8ea284bd12e2b6fe58dee5b57b]: Textual amendment: Arts. 80A-80C inserted (6.4.2018 immediately after 2016 c. 16 (N.I.), s. 8(2) comes into force) by [The Financial Services Act 2012 (Mutual Societies) Order 2018 (S.I. 2018/323)](https://www.legislation.gov.uk/uksi/2018/323), [art. 1](https://www.legislation.gov.uk/uksi/2018/323/article/1), [Sch. 3 para. 25](https://www.legislation.gov.uk/uksi/2018/323/schedule/3/paragraph/25) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/323/article/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50. Procedure following quashing of decision[^key-d9c366aa2522b28639e2ac8142d5541c]
+## 50. Procedure following quashing of decision[^c-d9c366aa2522b28639e2ac8142d5541c]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d9c366aa2522b28639e2ac8142d5541c]: Commencement: [Reg. 50](https://www.legislation.gov.uk/wsi/2017/544/regulation/50) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)
+[^c-d9c366aa2522b28639e2ac8142d5541c]: Commencement: [Reg. 50](https://www.legislation.gov.uk/wsi/2017/544/regulation/50) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)

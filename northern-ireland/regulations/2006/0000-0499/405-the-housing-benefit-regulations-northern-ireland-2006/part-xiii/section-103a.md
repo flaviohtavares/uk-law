@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 103A. Recovery by deduction from earnings[^key-3579f87b2ff0430173e28736bfed2bcc]
+## 103A. Recovery by deduction from earnings[^c-3579f87b2ff0430173e28736bfed2bcc]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3579f87b2ff0430173e28736bfed2bcc]: Textual amendment: [Reg. 103A](https://www.legislation.gov.uk/nisr/2006/405/regulation/103A) inserted (20.6.2016) by [The Social Security (Overpayments and Recovery) Regulations (Northern Ireland) 2016 (S.R. 2016/224)](https://www.legislation.gov.uk/nisr/2016/224), [regs. 1(2)(d)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/2/d), [32(3)](https://www.legislation.gov.uk/nisr/2016/224/regulation/32/3)
+[^c-3579f87b2ff0430173e28736bfed2bcc]: Textual amendment: [Reg. 103A](https://www.legislation.gov.uk/nisr/2006/405/regulation/103A) inserted (20.6.2016) by [The Social Security (Overpayments and Recovery) Regulations (Northern Ireland) 2016 (S.R. 2016/224)](https://www.legislation.gov.uk/nisr/2016/224), [regs. 1(2)(d)](https://www.legislation.gov.uk/nisr/2016/224/regulation/1/2/d), [32(3)](https://www.legislation.gov.uk/nisr/2016/224/regulation/32/3)

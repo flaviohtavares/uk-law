@@ -29,7 +29,7 @@ Regulation 119
 - (a) a matter is to be dealt with in accordance with the 2006 Regulations or the 2012 Regulations; or
 - (b) a matter (by virtue of having been dealt with in accordance with Schedule 7 to the 2012 Regulations (transitional provisions)), is to be dealt with in accordance with the 2005 Regulations or the SCAT Regulations,
 
-if that matter under those Regulations would fall to be dealt with by a Primary Care Trust, unless the context requires otherwise, that matter is to be dealt with instead by NHS England[^key-fedf3951d93bcf656ad03378f887d7d5].
+if that matter under those Regulations would fall to be dealt with by a Primary Care Trust, unless the context requires otherwise, that matter is to be dealt with instead by NHS England[^c-fedf3951d93bcf656ad03378f887d7d5].
 
 (2) Any matter that is ongoing under the 2006 Regulations or the 2012 Regulations (including, by virtue of Schedule 7 of those Regulations, under the 2005 Regulations or the SCAT Regulations) immediately before the appointed day, unless the context requires otherwise—
 
@@ -399,7 +399,7 @@ whether or not imposed by virtue of this paragraph, continue to have effect as i
 
 (1) Where, before the appointed day or as a consequence of paragraphs 2 or 4, a person is entitled on the basis of a decision (whether by a Primary Care Trust or NHS England, or on appeal)—
 
-- (a) to be included in a pharmaceutical[^key-657121a2d4033b6677df33aaae623fe2] list but has not been included in that list;
+- (a) to be included in a pharmaceutical[^c-657121a2d4033b6677df33aaae623fe2] list but has not been included in that list;
 - (b) to have listed in relation to their entry in a pharmaceutical list premises that have not been listed in relation to them;
 - (c) to be included in a dispensing doctor list but has not been included in that list;
 - (d) to have listed in relation to their entry in a dispensing doctor list premises that have not been listed in relation to them; or
@@ -409,7 +409,7 @@ the arrangements for the listing of that person, those premises or that area, an
 
 (2) Where, before the appointed day or as a consequence of paragraphs 3 or 5, a person is entitled on the basis of a decision (whether by a Primary Care Trust or NHS England, or on appeal)—
 
-- (a) to be included in a pharmaceutical[^key-0116269430380566a24c7ebeda996ae3] list but has not been included in that list;
+- (a) to be included in a pharmaceutical[^c-0116269430380566a24c7ebeda996ae3] list but has not been included in that list;
 - (b) to have listed in relation to their entry in a pharmaceutical list premises that have not been listed in relation to them;
 - (c) to be included in a dispensing doctor list but has not been included in that list;
 - (d) to have listed in relation to their entry in a dispensing doctor list premises that have not been listed in relation to them; or
@@ -550,15 +550,15 @@ Pending amendment of Group 12 of Schedule 8 to the Value Added Tax Act 1994 [^c2
 
 ## Annotations
 
-[^key-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
 [^c21648091]: Marginal citation: [2012 c. 7](https://www.legislation.gov.uk/ukpga/2012/7).
 
 [^c21648101]: Marginal citation: Prior to its revocation, regulation 60(4) was amended by [S.I. 2005/1015](https://www.legislation.gov.uk/uksi/2005/1015) and 2006/3373.
 
-[^key-657121a2d4033b6677df33aaae623fe2]: Textual amendment: Words in [Sch. 9 para. 11(1)(a)](https://www.legislation.gov.uk/uksi/2013/349/schedule/9/paragraph/11/1/a) substituted (1.4.2014) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Amendment and Transitional Provision) Regulations 2014 (S.I. 2014/417)](https://www.legislation.gov.uk/uksi/2014/417), [regs. 1](https://www.legislation.gov.uk/uksi/2014/417/regulation/1), [20(a)](https://www.legislation.gov.uk/uksi/2014/417/regulation/20/a)
+[^c-657121a2d4033b6677df33aaae623fe2]: Textual amendment: Words in [Sch. 9 para. 11(1)(a)](https://www.legislation.gov.uk/uksi/2013/349/schedule/9/paragraph/11/1/a) substituted (1.4.2014) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Amendment and Transitional Provision) Regulations 2014 (S.I. 2014/417)](https://www.legislation.gov.uk/uksi/2014/417), [regs. 1](https://www.legislation.gov.uk/uksi/2014/417/regulation/1), [20(a)](https://www.legislation.gov.uk/uksi/2014/417/regulation/20/a)
 
-[^key-0116269430380566a24c7ebeda996ae3]: Textual amendment: Words in [Sch. 9 para. 11(2)(a)](https://www.legislation.gov.uk/uksi/2013/349/schedule/9/paragraph/11/2/a) substituted (1.4.2014) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Amendment and Transitional Provision) Regulations 2014 (S.I. 2014/417)](https://www.legislation.gov.uk/uksi/2014/417), [regs. 1](https://www.legislation.gov.uk/uksi/2014/417/regulation/1), [20(b)](https://www.legislation.gov.uk/uksi/2014/417/regulation/20/b)
+[^c-0116269430380566a24c7ebeda996ae3]: Textual amendment: Words in [Sch. 9 para. 11(2)(a)](https://www.legislation.gov.uk/uksi/2013/349/schedule/9/paragraph/11/2/a) substituted (1.4.2014) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Amendment and Transitional Provision) Regulations 2014 (S.I. 2014/417)](https://www.legislation.gov.uk/uksi/2014/417), [regs. 1](https://www.legislation.gov.uk/uksi/2014/417/regulation/1), [20(b)](https://www.legislation.gov.uk/uksi/2014/417/regulation/20/b)
 
 [^c21648111]: Marginal citation: Prior to its revocation, regulation 58 was amended by [S.I. 2006/3373](https://www.legislation.gov.uk/uksi/2006/3373).
 

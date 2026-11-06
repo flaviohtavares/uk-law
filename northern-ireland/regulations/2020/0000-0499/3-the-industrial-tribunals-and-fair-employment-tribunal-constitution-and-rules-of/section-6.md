@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 6. Composition of tribunals[^key-be81d4f064a13da33b5837eb2506df9f]
+## 6. Composition of tribunals[^c-be81d4f064a13da33b5837eb2506df9f]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ Tribunals shall consist of three panels of members, namely—
 
 ## Annotations
 
-[^key-be81d4f064a13da33b5837eb2506df9f]: Commencement: Reg. 6 in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)
+[^c-be81d4f064a13da33b5837eb2506df9f]: Commencement: Reg. 6 in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)

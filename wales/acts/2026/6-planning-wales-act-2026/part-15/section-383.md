@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 383. Power to serve information notice[^key-e3e8508dd15c24d813468a837c5be3e3]
+## 383. Power to serve information notice[^c-e3e8508dd15c24d813468a837c5be3e3]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e3e8508dd15c24d813468a837c5be3e3]: Commencement: S. 383 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-e3e8508dd15c24d813468a837c5be3e3]: Commencement: S. 383 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

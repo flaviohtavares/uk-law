@@ -24,13 +24,13 @@ Section 27.
 
 ### Taxation of beneficial loan arrangements
 
-**1.**[^key-958744efec99f0f79ebcf009c013dddb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-958744efec99f0f79ebcf009c013dddb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **2.**[^c12039011] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-958744efec99f0f79ebcf009c013dddb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-958744efec99f0f79ebcf009c013dddb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-f6a396bad8a633146693b4bddbe37ae4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-f6a396bad8a633146693b4bddbe37ae4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **5.**[^c12039021] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -40,11 +40,11 @@ Section 27.
 
 ## Annotations
 
-[^key-958744efec99f0f79ebcf009c013dddb]: Textual amendment: [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/1991/31/schedule/6/paragraph/3) repealed (6.4.2003 with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/1/schedule/8/part/1) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
+[^c-958744efec99f0f79ebcf009c013dddb]: Textual amendment: [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/1991/31/schedule/6/paragraph/3) repealed (6.4.2003 with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/1/schedule/8/part/1) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
 
 [^c12039011]: Textual amendment: [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/1991/31/schedule/6/paragraph/2) repealed (3.5.1994 with effect in accordance with [s. 88(5)](https://www.legislation.gov.uk/ukpga/1994/9/section/88/5) of the amending Act) by [1994 c. 9](https://www.legislation.gov.uk/ukpga/1994/9), [s. 88(5)](https://www.legislation.gov.uk/ukpga/1994/9/section/88/5), [258](https://www.legislation.gov.uk/ukpga/1994/9/section/258), [Sch. 26 Pt. V](https://www.legislation.gov.uk/ukpga/1994/9/schedule/26/part/V) Note
 
-[^key-f6a396bad8a633146693b4bddbe37ae4]: Textual amendment: [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/1991/31/schedule/6/paragraph/4) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
+[^c-f6a396bad8a633146693b4bddbe37ae4]: Textual amendment: [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/1991/31/schedule/6/paragraph/4) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
 
 [^c12039021]: Textual amendment: [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/1991/31/schedule/6/paragraph/5) repealed (3.5.1994 with effect in accordance with [s. 88(5)](https://www.legislation.gov.uk/ukpga/1994/9/section/88/5) of the amending Act) by [1994 c. 9](https://www.legislation.gov.uk/ukpga/1994/9), [s. 88(5)](https://www.legislation.gov.uk/ukpga/1994/9/section/88/5), [258](https://www.legislation.gov.uk/ukpga/1994/9/section/258), [Sch. 26 Pt. V](https://www.legislation.gov.uk/ukpga/1994/9/schedule/26/part/V) Note
 

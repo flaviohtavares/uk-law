@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Collection and recovery of penalties[^key-d2d2e8be0bea94e1289af4f9f6ad8ac3]
+## 69. Collection and recovery of penalties[^c-d2d2e8be0bea94e1289af4f9f6ad8ac3]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Section 69 of the 1970 Act (recovery of penalties etc) applies to penalties impo
 
 ## Annotations
 
-[^key-d2d2e8be0bea94e1289af4f9f6ad8ac3]: Commencement: [Reg. 69](https://www.legislation.gov.uk/uksi/2009/470/regulation/69) in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/1)
+[^c-d2d2e8be0bea94e1289af4f9f6ad8ac3]: Commencement: [Reg. 69](https://www.legislation.gov.uk/uksi/2009/470/regulation/69) in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/1)
 
 [^f00054]: Footnote: Schedule 24 to the Finance Act [2007 (c.11)](https://www.legislation.gov.uk/ukpga/2007/11) makes similar provision to section 69 of the 1970 Act in relation to penalties incurred under regulation 58(8)(b).

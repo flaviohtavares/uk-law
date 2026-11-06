@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 5. Techniques of genetic modification[^key-4d20d39d4bcd64523a5aefdab08c841d]
+## 5. Techniques of genetic modification[^c-4d20d39d4bcd64523a5aefdab08c841d]
 
 *Extent: N.I.*
 
@@ -43,6 +43,6 @@ provided that such techniques do not involve the use of recombinant nucleic acid
 
 ## Annotations
 
-[^key-4d20d39d4bcd64523a5aefdab08c841d]: Commencement: Reg. 5 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)
+[^c-4d20d39d4bcd64523a5aefdab08c841d]: Commencement: Reg. 5 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)
 
 [^f00013]: Footnote: Article 3(4) is amended by regulation 3(3) and Article 3(4A) to 4(4D) is inserted by regulation 3(4)

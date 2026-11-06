@@ -31,7 +31,7 @@ summary: ''
 
 (4) The Welsh Ministers must publish the local government scheme when they make it and whenever they remake it; and, if they revise the scheme without remaking it, they must publish either the revisions or the scheme as revised (as they consider appropriate).
 
-(5) If the Welsh Ministers publish a scheme or revisions under subsection (4) they must lay a copy of the scheme or revisions before the Senedd[^key-60edd79c70d763519861630d1afb7962] .
+(5) If the Welsh Ministers publish a scheme or revisions under subsection (4) they must lay a copy of the scheme or revisions before the Senedd[^c-60edd79c70d763519861630d1afb7962] .
 
 (6) After each financial year the Welsh Ministers must—
 
@@ -42,4 +42,4 @@ summary: ''
 
 [^c16527091]: Commencement: Ss. 1-94, 97-106 in force immediately after "the 2007 election" by s. 161(1) (subject to s. 161(4)(5))
 
-[^key-60edd79c70d763519861630d1afb7962]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(19)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/19) (with [Sch. 1 para. 2(11)-(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11))
+[^c-60edd79c70d763519861630d1afb7962]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(19)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/19) (with [Sch. 1 para. 2(11)-(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11))

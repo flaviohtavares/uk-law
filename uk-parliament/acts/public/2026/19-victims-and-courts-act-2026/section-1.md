@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Power to compel attendance at sentencing hearing[^key-d56797c0e3655b89322fd386a4926024]
+## 1. Power to compel attendance at sentencing hearing[^c-d56797c0e3655b89322fd386a4926024]
 
 *Extent: E+W+S+N.I.*
 
@@ -105,4 +105,4 @@ In Part 3 of the [Sentencing Code](https://www.legislation.gov.uk/ukpga/2020/17/
 
 ## Annotations
 
-[^key-d56797c0e3655b89322fd386a4926024]: Commencement: S. 1 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
+[^c-d56797c0e3655b89322fd386a4926024]: Commencement: S. 1 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)

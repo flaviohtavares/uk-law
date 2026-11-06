@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24B. Illegal working[^key-5a988c4ca2a9354185024e11cc2a88df][^key-b370c9c921895dd93c5ed5ec11cbd34d][^key-d66e253535507db4fe9d2195c8a81d09]
+## 24B. Illegal working[^c-5a988c4ca2a9354185024e11cc2a88df][^c-b370c9c921895dd93c5ed5ec11cbd34d][^c-d66e253535507db4fe9d2195c8a81d09]
 
 *Extent: E+W+S+N.I.*
 
@@ -83,8 +83,8 @@ summary: ''
 
 ## Annotations
 
-[^key-5a988c4ca2a9354185024e11cc2a88df]: Modification: Ss. 24-29: amendment to earlier affecting S.I. 1993/1797, Sch. 1 Pt. 1 (11.10.2017 coming into force in accordance with art. 1) by [The Immigration (Jersey) (Amendment) Order 2017 (S.I. 2017/981)](https://www.legislation.gov.uk/uksi/2017/981), [Sch. Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2017/981/schedule/part/1/paragraph/1) (with [art. 6](https://www.legislation.gov.uk/uksi/2017/981/article/6))
+[^c-5a988c4ca2a9354185024e11cc2a88df]: Modification: Ss. 24-29: amendment to earlier affecting S.I. 1993/1797, Sch. 1 Pt. 1 (11.10.2017 coming into force in accordance with art. 1) by [The Immigration (Jersey) (Amendment) Order 2017 (S.I. 2017/981)](https://www.legislation.gov.uk/uksi/2017/981), [Sch. Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2017/981/schedule/part/1/paragraph/1) (with [art. 6](https://www.legislation.gov.uk/uksi/2017/981/article/6))
 
-[^key-b370c9c921895dd93c5ed5ec11cbd34d]: Textual amendment: S. 24B inserted (12.7.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [ss. 34(3)](https://www.legislation.gov.uk/ukpga/2016/19/section/34/3), [94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1); [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/e) (with transitional provision in [S.I. 2016/712](https://www.legislation.gov.uk/uksi/2016/712), art. 2)
+[^c-b370c9c921895dd93c5ed5ec11cbd34d]: Textual amendment: S. 24B inserted (12.7.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [ss. 34(3)](https://www.legislation.gov.uk/ukpga/2016/19/section/34/3), [94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1); [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/e) (with transitional provision in [S.I. 2016/712](https://www.legislation.gov.uk/uksi/2016/712), art. 2)
 
-[^key-d66e253535507db4fe9d2195c8a81d09]: Modification: [Pt. 3](https://www.legislation.gov.uk/ukpga/1971/77/part/3) modified by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 33C(6)](https://www.legislation.gov.uk/ukpga/2014/22/section/33C/6) (as inserted (1.11.2016 for specified purposes, 1.12.2016 in so far as not already in force) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [ss. 39(2)](https://www.legislation.gov.uk/ukpga/2016/19/section/39/2), [94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/2/a), [5(c)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/c))
+[^c-d66e253535507db4fe9d2195c8a81d09]: Modification: [Pt. 3](https://www.legislation.gov.uk/ukpga/1971/77/part/3) modified by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 33C(6)](https://www.legislation.gov.uk/ukpga/2014/22/section/33C/6) (as inserted (1.11.2016 for specified purposes, 1.12.2016 in so far as not already in force) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [ss. 39(2)](https://www.legislation.gov.uk/ukpga/2016/19/section/39/2), [94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/2/a), [5(c)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/c))

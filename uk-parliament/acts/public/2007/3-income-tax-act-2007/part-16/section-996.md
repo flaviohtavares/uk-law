@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 996. Meaning of “farming” and related expressions[^key-4f99640c7e671b09d16334b53b01f5e3]
+## 996. Meaning of “farming” and related expressions[^c-4f99640c7e671b09d16334b53b01f5e3]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,10 +35,10 @@ summary: ''
 
 (6) For the purposes of this section “**short rotation coppice**” means a perennial crop of tree species planted at high density, the stems of which are harvested above ground level at intervals of less than 10 years.
 
-(7)[^key-2939f7aa02bde228090b524b57434903] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-2939f7aa02bde228090b524b57434903] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4f99640c7e671b09d16334b53b01f5e3]: Modification: S. 996 excluded (retrospective to 6.4.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 8(4)](https://www.legislation.gov.uk/ukpga/2013/29/section/8/4)[(6)](https://www.legislation.gov.uk/ukpga/2013/29/section/8/6)
+[^c-4f99640c7e671b09d16334b53b01f5e3]: Modification: S. 996 excluded (retrospective to 6.4.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 8(4)](https://www.legislation.gov.uk/ukpga/2013/29/section/8/4)[(6)](https://www.legislation.gov.uk/ukpga/2013/29/section/8/6)
 
-[^key-2939f7aa02bde228090b524b57434903]: Textual amendment: S. 996(7) omitted (with effect in accordance with s. 28(2) of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 28(1)](https://www.legislation.gov.uk/ukpga/2015/33/section/28/1)
+[^c-2939f7aa02bde228090b524b57434903]: Textual amendment: S. 996(7) omitted (with effect in accordance with s. 28(2) of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 28(1)](https://www.legislation.gov.uk/ukpga/2015/33/section/28/1)

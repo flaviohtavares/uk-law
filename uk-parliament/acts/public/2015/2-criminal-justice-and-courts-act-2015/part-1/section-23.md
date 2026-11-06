@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Care provider offence: penalties[^key-35dee03bd4ae40a3020803332346c92a]
+## 23. Care provider offence: penalties[^c-35dee03bd4ae40a3020803332346c92a]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-35dee03bd4ae40a3020803332346c92a]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2015/2/section/23) in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 19](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/19)
+[^c-35dee03bd4ae40a3020803332346c92a]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2015/2/section/23) in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 19](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/19)

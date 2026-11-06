@@ -26,36 +26,36 @@ Sections 11 and 31
 
 #### Local offer for care leavers
 
-**1.**[^key-7a24631b0854be5163a059fbe111d381] In Schedule 1 to the Local Authority Social Services Act 1970 (social services functions of local authorities), in the table, at the appropriate place insert—
+**1.**[^c-7a24631b0854be5163a059fbe111d381] In Schedule 1 to the Local Authority Social Services Act 1970 (social services functions of local authorities), in the table, at the appropriate place insert—
 
 > | *“Children and Social Work Act 2017* |  |
 > | --- | --- |
 > | Section 2 | Local offer for care leavers. |
 
-**2.**[^key-bb0c8aaf1b99a4913d929488cc04433e] In paragraph 1(2)(a) of Schedule 2 to the Children Act 1989 (information to be published by a local authority), in paragraph (i), for “, 23B to 23D, 24A and 24B” substitute “ and 23D ”.
+**2.**[^c-bb0c8aaf1b99a4913d929488cc04433e] In paragraph 1(2)(a) of Schedule 2 to the Children Act 1989 (information to be published by a local authority), in paragraph (i), for “, 23B to 23D, 24A and 24B” substitute “ and 23D ”.
 
-**3.**[^key-f5672e539b62d15281fa914df472c1a5] In section 135(1)(e) of the Education and Inspections Act 2006 (functions subject to inspection), for “or the Adoption and Children Act 2002 (c. 38)” substitute “ , the Adoption and Children Act 2002 or section 2 of the Children and Social Work Act 2017 ”.
+**3.**[^c-f5672e539b62d15281fa914df472c1a5] In section 135(1)(e) of the Education and Inspections Act 2006 (functions subject to inspection), for “or the Adoption and Children Act 2002 (c. 38)” substitute “ , the Adoption and Children Act 2002 or section 2 of the Children and Social Work Act 2017 ”.
 
-**4.**[^key-f34293d379b53f1b4c3c92a918d2d76e] In section 30 of the Children and Families Act 2014 (local offer for children and young people who have special educational needs or a disability), for “local offer”, in each place it occurs (including the title), substitute “ SEN and disability local offer ”.
+**4.**[^c-f34293d379b53f1b4c3c92a918d2d76e] In section 30 of the Children and Families Act 2014 (local offer for children and young people who have special educational needs or a disability), for “local offer”, in each place it occurs (including the title), substitute “ SEN and disability local offer ”.
 
 #### Advice and support
 
-**5.**[^key-d6fa49c446830a96291ae9a821f8de50] In paragraph 1(1)(g) of Schedule 3 to the Nationality, Immigration and Asylum Act 2002 (kinds of support for which certain people are ineligible), after “23C,” insert “ 23CZB, ”.
+**5.**[^c-d6fa49c446830a96291ae9a821f8de50] In paragraph 1(1)(g) of Schedule 3 to the Nationality, Immigration and Asylum Act 2002 (kinds of support for which certain people are ineligible), after “23C,” insert “ 23CZB, ”.
 
-**6.**[^key-3f1cddbe4b381fdcb5eb12438bdd3078] In section 83A(5)(a) of the Apprenticeships, Skills, Children and Learning Act 2009 (apprenticeship offer: application to persons provided with support under Children Act 1989)—
+**6.**[^c-3f1cddbe4b381fdcb5eb12438bdd3078] In section 83A(5)(a) of the Apprenticeships, Skills, Children and Learning Act 2009 (apprenticeship offer: application to persons provided with support under Children Act 1989)—
 
 - (a) for “21” substitute “ 25 ”;
 - (b) after “23C” insert “ or 23CZB ”.
 
 ### Part 2 — Amendments relating to abolition of Local Safeguarding Children Boards
 
-**7.**[^key-f7e3e69dc61554430180a42f09d1d18c] In Schedule 1 to the Local Authority Social Services Act 1970 (social services functions of local authorities), in the entry relating to the Children Act 2004—
+**7.**[^c-f7e3e69dc61554430180a42f09d1d18c] In Schedule 1 to the Local Authority Social Services Act 1970 (social services functions of local authorities), in the entry relating to the Children Act 2004—
 
 - (a) for “13 to 16” substitute “ 16A to 16Q ”;
 - (b) omit “targets for”;
 - (c) omit “, and to Local Safeguarding Children Boards”.
 
-**8.**[^key-947943ecd5f5663c1d335336777d18bb] (1) Section 83 of the Children Act 1989 (research and returns of information) is amended as follows.
+**8.**[^c-947943ecd5f5663c1d335336777d18bb] (1) Section 83 of the Children Act 1989 (research and returns of information) is amended as follows.
 
 (2) In subsection (1), in paragraph (aa), for “of Local Safeguarding Children Boards;” substitute
 
@@ -71,7 +71,7 @@ Sections 11 and 31
 
 (4) In subsection (3) omit paragraph (c) (and the “and” before it).
 
-**9.**[^key-60d430512a93da1ddc49ff43eef6b62d] (1) Section 31 of the Children and Young Persons Act 2008 (supply of information concerning deaths of children) is amended as follows.
+**9.**[^c-60d430512a93da1ddc49ff43eef6b62d] (1) Section 31 of the Children and Young Persons Act 2008 (supply of information concerning deaths of children) is amended as follows.
 
 (2) In subsections (2) and (4), for “appropriate Board” substitute “ appropriate authority ”.
 
@@ -118,20 +118,20 @@ Sections 11 and 31
 
 ## Annotations
 
-[^key-7a24631b0854be5163a059fbe111d381]: Commencement: Sch. 2 para. 1 in force at 1.4.2018 by [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 4(aa)](https://www.legislation.gov.uk/uksi/2018/346/regulation/4/aa)
+[^c-7a24631b0854be5163a059fbe111d381]: Commencement: Sch. 2 para. 1 in force at 1.4.2018 by [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 4(aa)](https://www.legislation.gov.uk/uksi/2018/346/regulation/4/aa)
 
-[^key-bb0c8aaf1b99a4913d929488cc04433e]: Commencement: Sch. 2 para. 2 in force at 1.4.2018 by [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 4(aa)](https://www.legislation.gov.uk/uksi/2018/346/regulation/4/aa)
+[^c-bb0c8aaf1b99a4913d929488cc04433e]: Commencement: Sch. 2 para. 2 in force at 1.4.2018 by [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 4(aa)](https://www.legislation.gov.uk/uksi/2018/346/regulation/4/aa)
 
-[^key-f5672e539b62d15281fa914df472c1a5]: Commencement: Sch. 2 para. 3 in force at 1.4.2018 by [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 4(aa)](https://www.legislation.gov.uk/uksi/2018/346/regulation/4/aa)
+[^c-f5672e539b62d15281fa914df472c1a5]: Commencement: Sch. 2 para. 3 in force at 1.4.2018 by [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 4(aa)](https://www.legislation.gov.uk/uksi/2018/346/regulation/4/aa)
 
-[^key-f34293d379b53f1b4c3c92a918d2d76e]: Commencement: Sch. 2 para. 4 in force at 1.4.2018 by [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 4(aa)](https://www.legislation.gov.uk/uksi/2018/346/regulation/4/aa)
+[^c-f34293d379b53f1b4c3c92a918d2d76e]: Commencement: Sch. 2 para. 4 in force at 1.4.2018 by [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 4(aa)](https://www.legislation.gov.uk/uksi/2018/346/regulation/4/aa)
 
-[^key-d6fa49c446830a96291ae9a821f8de50]: Commencement: Sch. 2 para. 5 in force at 1.4.2018 by [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 4(aa)](https://www.legislation.gov.uk/uksi/2018/346/regulation/4/aa)
+[^c-d6fa49c446830a96291ae9a821f8de50]: Commencement: Sch. 2 para. 5 in force at 1.4.2018 by [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 4(aa)](https://www.legislation.gov.uk/uksi/2018/346/regulation/4/aa)
 
-[^key-3f1cddbe4b381fdcb5eb12438bdd3078]: Commencement: Sch. 2 para. 6 in force at 1.4.2018 by [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 4(aa)](https://www.legislation.gov.uk/uksi/2018/346/regulation/4/aa)
+[^c-3f1cddbe4b381fdcb5eb12438bdd3078]: Commencement: Sch. 2 para. 6 in force at 1.4.2018 by [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 4(aa)](https://www.legislation.gov.uk/uksi/2018/346/regulation/4/aa)
 
-[^key-f7e3e69dc61554430180a42f09d1d18c]: Commencement: Sch. 2 para. 7 in force at 29.6.2018 by [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 3(s)](https://www.legislation.gov.uk/uksi/2018/497/regulation/3/s) (with [reg. 11](https://www.legislation.gov.uk/uksi/2018/497/regulation/11))
+[^c-f7e3e69dc61554430180a42f09d1d18c]: Commencement: Sch. 2 para. 7 in force at 29.6.2018 by [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 3(s)](https://www.legislation.gov.uk/uksi/2018/497/regulation/3/s) (with [reg. 11](https://www.legislation.gov.uk/uksi/2018/497/regulation/11))
 
-[^key-947943ecd5f5663c1d335336777d18bb]: Commencement: Sch. 2 para. 8 in force at 29.6.2018 by [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 3(s)](https://www.legislation.gov.uk/uksi/2018/497/regulation/3/s) (with [reg. 11](https://www.legislation.gov.uk/uksi/2018/497/regulation/11))
+[^c-947943ecd5f5663c1d335336777d18bb]: Commencement: Sch. 2 para. 8 in force at 29.6.2018 by [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 3(s)](https://www.legislation.gov.uk/uksi/2018/497/regulation/3/s) (with [reg. 11](https://www.legislation.gov.uk/uksi/2018/497/regulation/11))
 
-[^key-60d430512a93da1ddc49ff43eef6b62d]: Commencement: Sch. 2 para. 9 in force at 29.6.2018 by [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 3(s)](https://www.legislation.gov.uk/uksi/2018/497/regulation/3/s) (with [reg. 11](https://www.legislation.gov.uk/uksi/2018/497/regulation/11))
+[^c-60d430512a93da1ddc49ff43eef6b62d]: Commencement: Sch. 2 para. 9 in force at 29.6.2018 by [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 3(s)](https://www.legislation.gov.uk/uksi/2018/497/regulation/3/s) (with [reg. 11](https://www.legislation.gov.uk/uksi/2018/497/regulation/11))

@@ -36,13 +36,13 @@ Made
 
 The Department of Health and Social Services, in exercise of the powers conferred on it by Article 1(2) of the Jobseekers (Northern Ireland) Order 1995[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Order:
 
-## 1. Citation and interpretation[^key-836b4c68d6a1a52546c6e3a0f553ffac]
+## 1. Citation and interpretation[^c-836b4c68d6a1a52546c6e3a0f553ffac]
 
 (1) This Order may be cited as the Jobseekers (1995 Order) (Commencement No. 1) Order (Northern Ireland) 1996.
 
 (2) In this Order, “the Order” means the Jobseekers (Northern Ireland) Order 1995.
 
-## 2. Appointed days[^key-62ea1ad4f8a677874c4b4e7889d7dd5f]
+## 2. Appointed days[^c-62ea1ad4f8a677874c4b4e7889d7dd5f]
 
 The day appointed for the coming into operation of—
 
@@ -54,7 +54,7 @@ The day appointed for the coming into operation of—
 - (d) Article 30 of the Order (expedited claims for housing benefit)—
   - (i) for the purpose only of authorising the making of regulations, is 5th February 1996, and
   - (ii) for all other purposes, is 1st April 1996;
-- (e) Articles 34 (inspection), 35 (offences) and 38(3) (financial arrangements) of the Order and paragraph 24 of Schedule 2 to the Order (questions for adjudication by the Department) and Article 40(1)[^key-a762d124ecec6eb9c62b85e9f4c83005] of the Order in so far as it relates to it, is 6th April 1996.
+- (e) Articles 34 (inspection), 35 (offences) and 38(3) (financial arrangements) of the Order and paragraph 24 of Schedule 2 to the Order (questions for adjudication by the Department) and Article 40(1)[^c-a762d124ecec6eb9c62b85e9f4c83005] of the Order in so far as it relates to it, is 6th April 1996.
 
 Sealed with the Official Seal of the Department of Health and Social Services on
 
@@ -64,7 +64,7 @@ Assistant Secretary
 
 5th February 1996.
 
-## SCHEDULE — Provisions coming into operation on 5th February 1996[^key-058e2668d67019f895829a12e4aafd9f]
+## SCHEDULE — Provisions coming into operation on 5th February 1996[^c-058e2668d67019f895829a12e4aafd9f]
 
 Article 2(*b*)
 
@@ -110,10 +110,10 @@ It further provides—
 
 [^f00001]: Footnote: S.I. [1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705)
 
-[^key-836b4c68d6a1a52546c6e3a0f553ffac]: Commencement: Art. 1 in operation at made date
+[^c-836b4c68d6a1a52546c6e3a0f553ffac]: Commencement: Art. 1 in operation at made date
 
-[^key-62ea1ad4f8a677874c4b4e7889d7dd5f]: Commencement: Art. 2 in operation at made date
+[^c-62ea1ad4f8a677874c4b4e7889d7dd5f]: Commencement: Art. 2 in operation at made date
 
-[^key-a762d124ecec6eb9c62b85e9f4c83005]: Textual amendment: Words in [art. 2(e)](https://www.legislation.gov.uk/nisr/1996/26/article/2/e) substituted (2.5.1996) by [The Jobseekers (1995 Order) (Commencement No. 2) Order (Northern Ireland) 1996 (S.R. 1996/180)](https://www.legislation.gov.uk/nisr/1996/180), [art. 3](https://www.legislation.gov.uk/nisr/1996/180/article/3)
+[^c-a762d124ecec6eb9c62b85e9f4c83005]: Textual amendment: Words in [art. 2(e)](https://www.legislation.gov.uk/nisr/1996/26/article/2/e) substituted (2.5.1996) by [The Jobseekers (1995 Order) (Commencement No. 2) Order (Northern Ireland) 1996 (S.R. 1996/180)](https://www.legislation.gov.uk/nisr/1996/180), [art. 3](https://www.legislation.gov.uk/nisr/1996/180/article/3)
 
-[^key-058e2668d67019f895829a12e4aafd9f]: Commencement: Sch. in operation at made date
+[^c-058e2668d67019f895829a12e4aafd9f]: Commencement: Sch. in operation at made date

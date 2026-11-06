@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Street works and power to alter the layout etc. of streets[^key-6dd6fb8469b34cdca1adbeef203632cb]
+## 13. Street works and power to alter the layout etc. of streets[^c-6dd6fb8469b34cdca1adbeef203632cb]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6dd6fb8469b34cdca1adbeef203632cb]: Commencement: Art. 13 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)
+[^c-6dd6fb8469b34cdca1adbeef203632cb]: Commencement: Art. 13 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)

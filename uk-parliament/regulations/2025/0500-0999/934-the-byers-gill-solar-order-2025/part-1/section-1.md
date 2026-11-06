@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation and commencement[^key-84674ff1a96318097804f4e94e2ff7e3]
+## 1. Citation and commencement[^c-84674ff1a96318097804f4e94e2ff7e3]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-84674ff1a96318097804f4e94e2ff7e3]: Commencement: Art. 1 in force at 14.8.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/934/article/1)
+[^c-84674ff1a96318097804f4e94e2ff7e3]: Commencement: Art. 1 in force at 14.8.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/934/article/1)

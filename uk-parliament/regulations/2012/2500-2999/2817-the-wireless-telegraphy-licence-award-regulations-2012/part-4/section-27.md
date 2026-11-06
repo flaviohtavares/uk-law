@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Requirement for a valid primary bid in the first primary bid round[^key-17a4e22b6a4824a37badb7b03bde5e89]
+## 27. Requirement for a valid primary bid in the first primary bid round[^c-17a4e22b6a4824a37badb7b03bde5e89]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Any bidder which does not submit a valid primary bid in the first primary bid ro
 
 ## Annotations
 
-[^key-17a4e22b6a4824a37badb7b03bde5e89]: Commencement: Reg. 27 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-17a4e22b6a4824a37badb7b03bde5e89]: Commencement: Reg. 27 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7A. Meaning of “the first abolition date” and “the second abolition date”[^key-15762a0b01427f8485f800411993c339]
+## 7A. Meaning of “the first abolition date” and “the second abolition date”[^c-15762a0b01427f8485f800411993c339]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ In this Act—
 
 ## Annotations
 
-[^key-15762a0b01427f8485f800411993c339]: Textual amendment: [Ss. 7A](https://www.legislation.gov.uk/ukpga/1993/48/section/7A), [7B](https://www.legislation.gov.uk/ukpga/1993/48/section/7B) inserted (6.4.2016) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 13 para. 6](https://www.legislation.gov.uk/ukpga/2014/19/schedule/13/paragraph/6)
+[^c-15762a0b01427f8485f800411993c339]: Textual amendment: [Ss. 7A](https://www.legislation.gov.uk/ukpga/1993/48/section/7A), [7B](https://www.legislation.gov.uk/ukpga/1993/48/section/7B) inserted (6.4.2016) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 13 para. 6](https://www.legislation.gov.uk/ukpga/2014/19/schedule/13/paragraph/6)

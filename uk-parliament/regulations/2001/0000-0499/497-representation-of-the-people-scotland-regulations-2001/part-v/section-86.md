@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 86. Opening of ballot paper envelopes[^key-448f651a4d792b5af8a85819a4945096][^key-1f37777768320603cce5e149009c47c8]
+## 86. Opening of ballot paper envelopes[^c-448f651a4d792b5af8a85819a4945096][^c-1f37777768320603cce5e149009c47c8]
 
 *Extent: S*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-448f651a4d792b5af8a85819a4945096]: Commencement: Reg. 86 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/1/1)
+[^c-448f651a4d792b5af8a85819a4945096]: Commencement: Reg. 86 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/1/1)
 
-[^key-1f37777768320603cce5e149009c47c8]: Modification: [Reg. 86](https://www.legislation.gov.uk/uksi/2001/497/regulation/86) applied (with modifications) (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 43](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/43)
+[^c-1f37777768320603cce5e149009c47c8]: Modification: [Reg. 86](https://www.legislation.gov.uk/uksi/2001/497/regulation/86) applied (with modifications) (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 43](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/43)

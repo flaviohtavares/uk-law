@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 59A. Withdrawal from Scheme when under consideration for listing[^key-eb401b3556203d4e9e99e4b7ecb792ab]
+## 59A. Withdrawal from Scheme when under consideration for listing[^c-eb401b3556203d4e9e99e4b7ecb792ab]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ they may decide not to continue to consider whether to list the individual.
 
 ## Annotations
 
-[^key-eb401b3556203d4e9e99e4b7ecb792ab]: Textual amendment: [S. 59A](https://www.legislation.gov.uk/asp/2007/14/section/59A) inserted (10.12.2021) by [Disclosure (Scotland) Act 2020 (asp 13)](https://www.legislation.gov.uk/asp/2020/13), [ss. 78(2)](https://www.legislation.gov.uk/asp/2020/13/section/78/2), [97](https://www.legislation.gov.uk/asp/2020/13/section/97) (with [s. 96](https://www.legislation.gov.uk/asp/2020/13/section/96)); [S.S.I. 2021/380](https://www.legislation.gov.uk/ssi/2021/380), [reg. 2](https://www.legislation.gov.uk/ssi/2021/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/380/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/380/regulation/3))
+[^c-eb401b3556203d4e9e99e4b7ecb792ab]: Textual amendment: [S. 59A](https://www.legislation.gov.uk/asp/2007/14/section/59A) inserted (10.12.2021) by [Disclosure (Scotland) Act 2020 (asp 13)](https://www.legislation.gov.uk/asp/2020/13), [ss. 78(2)](https://www.legislation.gov.uk/asp/2020/13/section/78/2), [97](https://www.legislation.gov.uk/asp/2020/13/section/97) (with [s. 96](https://www.legislation.gov.uk/asp/2020/13/section/96)); [S.S.I. 2021/380](https://www.legislation.gov.uk/ssi/2021/380), [reg. 2](https://www.legislation.gov.uk/ssi/2021/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/380/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/380/regulation/3))

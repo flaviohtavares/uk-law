@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 148GA. Lessee under long funding finance leases: right-of-use leases[^key-23de2297c0f4aa670d18e5710c18eeb6][^c19154671]
+## 148GA. Lessee under long funding finance leases: right-of-use leases[^c-23de2297c0f4aa670d18e5710c18eeb6][^c19154671]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-23de2297c0f4aa670d18e5710c18eeb6]: Textual amendment: [S. 148GA](https://www.legislation.gov.uk/ukpga/2005/5/section/148GA) inserted (with effect in accordance with Sch. 14 para. 6(1) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 14 para. 2(3)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/14/paragraph/2/3)
+[^c-23de2297c0f4aa670d18e5710c18eeb6]: Textual amendment: [S. 148GA](https://www.legislation.gov.uk/ukpga/2005/5/section/148GA) inserted (with effect in accordance with Sch. 14 para. 6(1) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 14 para. 2(3)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/14/paragraph/2/3)
 
 [^c19154671]: Textual amendment: Pt. 2 Ch. 10A, (ss 148A-148J) inserted (19.7.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 81](https://www.legislation.gov.uk/ukpga/2006/25/section/81), [Sch. 8 para. 13](https://www.legislation.gov.uk/ukpga/2006/25/schedule/8/paragraph/13)

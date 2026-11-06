@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 5. Restriction on manufacture with additives[^key-23bf16d15f05de198f90615b5bb78eb4]
+## 5. Restriction on manufacture with additives[^c-23bf16d15f05de198f90615b5bb78eb4]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-23bf16d15f05de198f90615b5bb78eb4]: Commencement: Reg. 5 in operation at 14.9.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/264/regulation/1)
+[^c-23bf16d15f05de198f90615b5bb78eb4]: Commencement: Reg. 5 in operation at 14.9.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/264/regulation/1)

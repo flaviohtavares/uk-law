@@ -54,23 +54,23 @@ The Secretary of State has recommended that, in accordance with sections 9(3) an
 
 ## PART 1 — Introduction
 
-### 1. Citation and commencement[^key-29ac155179c307a39a690068c0a2d6ee]
+### 1. Citation and commencement[^c-29ac155179c307a39a690068c0a2d6ee]
 
 These Regulations may be cited as the Customs (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2021 and come into force on 1st January 2022.
 
 ## PART 2 — Tariffs etc.
 
-### 2. Amendment of the Customs (Special Procedures and Outward Processing) (EU Exit) Regulations 2018[^key-e3d4f6480865e6f14c3b6f0546d4f02c]
+### 2. Amendment of the Customs (Special Procedures and Outward Processing) (EU Exit) Regulations 2018[^c-e3d4f6480865e6f14c3b6f0546d4f02c]
 
 (1) The Customs (Special Procedures and Outward Processing) (EU Exit) Regulations 2018[^f00003] are amended as follows.
 
 (2) In regulation 32(2) (authorised uses)[^f00004], for ““Authorised Use: Eligible Goods and Authorised Uses (version 2.2)” dated 19th July 2021” substitute ““Authorised Use: Eligible Goods and Authorised Uses (version 2.3)” dated 28th December 2021”[^f00005].
 
-### 3. Amendment of the Customs Tariff (Establishment) (EU Exit) Regulations 2020[^key-3d1c646c17ab7c5188b6a2f9b6eec64f]
+### 3. Amendment of the Customs Tariff (Establishment) (EU Exit) Regulations 2020[^c-3d1c646c17ab7c5188b6a2f9b6eec64f]
 
 In regulation 1(2) of the Customs Tariff (Establishment) (EU Exit) Regulations 2020 (citation, commencement and interpretation)[^f00006], in the definition of “Tariff of the United Kingdom”, for “1.6, dated 25th October 2021” substitute “1.7, dated 28th December 2021”[^f00007].
 
-### 4. Amendment of the Customs (Reliefs from a Liability to Import Duty and Miscellaneous Amendments) (EU Exit) Regulations 2020[^key-dbb7ee1cf00a7d68ed65616df244eedb]
+### 4. Amendment of the Customs (Reliefs from a Liability to Import Duty and Miscellaneous Amendments) (EU Exit) Regulations 2020[^c-dbb7ee1cf00a7d68ed65616df244eedb]
 
 (1) The Customs (Reliefs from a Liability to Import Duty and Miscellaneous Amendments) (EU Exit) Regulations 2020[^f00008] are amended as follows.
 
@@ -107,15 +107,15 @@ In regulation 1(2) of the Customs Tariff (Establishment) (EU Exit) Regulations 2
 
 (4) In regulation 20(4) (lower rate of import duty – goods declared for an authorised use procedure)[^f00011], for “1.2 dated 19th July 2021” substitute “1.3 dated 28th December 2021”[^f00012].
 
-### 5. Amendment of the Customs (Origin of Chargeable Goods) (EU Exit) Regulations 2020[^key-de15e4bfeaab498c29eca0de62724033]
+### 5. Amendment of the Customs (Origin of Chargeable Goods) (EU Exit) Regulations 2020[^c-de15e4bfeaab498c29eca0de62724033]
 
 In regulation 2 of the Customs (Origin of Chargeable Goods) (EU Exit) Regulations 2020 (interpretation)[^f00013], in the definition of “Rules of Origin”, for “1.0 dated 7th December 2020” substitute “1.1 dated 28th December 2021”[^f00014].
 
-### 6. Amendment of the Customs Tariff (Suspension of Import Duty Rates) (EU Exit) Regulations 2020[^key-bf2cca0e87b89497002ed54c4df06be2]
+### 6. Amendment of the Customs Tariff (Suspension of Import Duty Rates) (EU Exit) Regulations 2020[^c-bf2cca0e87b89497002ed54c4df06be2]
 
 In regulation 2 of the Customs Tariff (Suspension of Import Duty Rates) (EU Exit) Regulations 2020[^f00015], in the definition of “Suspensions of Import Duty Rates Document”, for “1.4, dated 25th October 2021” substitute “1.5, dated 28th December 2021[^f00016]”.
 
-### 7. Amendment of the Customs Tariff (Preferential Trade Arrangements) (EU Exit) Regulations 2020[^key-c45fe5440c7a21432132b86e5ade00bc]
+### 7. Amendment of the Customs Tariff (Preferential Trade Arrangements) (EU Exit) Regulations 2020[^c-c45fe5440c7a21432132b86e5ade00bc]
 
 (1) The table in Schedule 1 to the Customs Tariff (Preferential Trade Arrangements) (EU Exit) Regulations 2020[^f00017] (which relates to agreements to which those Regulations apply) is amended as follows[^f00018].
 
@@ -538,33 +538,33 @@ In regulation 2 of the Customs Tariff (Suspension of Import Duty Rates) (EU Exit
   > | --- |
   > | The Viet Nam Origin Reference Document, version 1.1, dated 28th December 2021. |
 
-## PART 3 — Variation of Import Duty[^key-82c30048ae7d4f92a1a99b9dda8c127e]
+## PART 3 — Variation of Import Duty[^c-82c30048ae7d4f92a1a99b9dda8c127e]
 
 **No longer in force.**
 
-### 8. Application of this Part[^key-82c30048ae7d4f92a1a99b9dda8c127e]
+### 8. Application of this Part[^c-82c30048ae7d4f92a1a99b9dda8c127e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Interpretation[^key-82c30048ae7d4f92a1a99b9dda8c127e]
+### 9. Interpretation[^c-82c30048ae7d4f92a1a99b9dda8c127e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Additional duty[^key-82c30048ae7d4f92a1a99b9dda8c127e]
+### 10. Additional duty[^c-82c30048ae7d4f92a1a99b9dda8c127e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Additional duty: exception[^key-82c30048ae7d4f92a1a99b9dda8c127e]
+### 11. Additional duty: exception[^c-82c30048ae7d4f92a1a99b9dda8c127e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Revocation of the Customs (Import Duty Variation) (EU Exit) Regulations 2020[^key-82c30048ae7d4f92a1a99b9dda8c127e]
+### 12. Revocation of the Customs (Import Duty Variation) (EU Exit) Regulations 2020[^c-82c30048ae7d4f92a1a99b9dda8c127e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 4 — Trade Preferences
 
-### 13. Amendment of Schedule 1 to the Trade Preference Scheme (EU Exit) Regulations 2020[^key-9a3c63269132b771f9d7936c4eb2269c]
+### 13. Amendment of Schedule 1 to the Trade Preference Scheme (EU Exit) Regulations 2020[^c-9a3c63269132b771f9d7936c4eb2269c]
 
 Schedule 1 to the Trade Preference Scheme (EU Exit) Regulations[^f00026] is amended as follows—
 
@@ -575,11 +575,11 @@ Schedule 1 to the Trade Preference Scheme (EU Exit) Regulations[^f00026] is amen
   - (i) omit Armenia;
   - (ii) in the appropriate place, add Uzbekistan.
 
-### 14. Amendment of Schedule 4 to the Trade Preference Scheme (EU Exit) Regulations 2020[^key-d0ff2e126e3f66bc288737867e1f0904]
+### 14. Amendment of Schedule 4 to the Trade Preference Scheme (EU Exit) Regulations 2020[^c-d0ff2e126e3f66bc288737867e1f0904]
 
 In Schedule 4, in paragraph 7(a), for “paragraph paragraph 2” substitute “paragraph 2”.
 
-### 15. Amendment of Schedule 5 to the Trade Preference Scheme (EU Exit) Regulations 2020[^key-5ee8c6eed911d6774f112e4fea528111]
+### 15. Amendment of Schedule 5 to the Trade Preference Scheme (EU Exit) Regulations 2020[^c-5ee8c6eed911d6774f112e4fea528111]
 
 (1) The table in Part 2 of Schedule 5 to the Trade Preference Scheme (EU Exit) Regulations (GSP Specified Goods Table) is amended as follows.
 
@@ -650,7 +650,7 @@ In Schedule 4, in paragraph 7(a), for “paragraph paragraph 2” substitute “
 | S-4c | 24 | 2404 91 90 | Products containing tobacco, reconstituted tobacco, nicotine, or tobacco or nicotine substitutes, intended for inhalation without combustion, other nicotine containing products intended for the intake of nicotine into the human body; For oral application; Other | GF4 | EF1 |
 | S-4c | 24 | 2404 99 00 | Products containing tobacco, reconstituted tobacco, nicotine, or tobacco or nicotine substitutes, intended for inhalation without combustion, other nicotine containing products intended for the intake of nicotine into the human body; Other | GF1 | EF1 |
 
-### 16. Amendment of Schedule 3 to the Taxation (Cross-border Trade) Act 2018[^key-da1f4b5e5e7cd7527b1e7aea27d60b13]
+### 16. Amendment of Schedule 3 to the Taxation (Cross-border Trade) Act 2018[^c-da1f4b5e5e7cd7527b1e7aea27d60b13]
 
 (1) Schedule 3 to the Taxation (Cross-border Trade) Act 2018 is amended as follows.
 
@@ -691,9 +691,9 @@ Part 4 makes amendments to both the Trade Preference Scheme Regulations and the 
 
 [^f00002]: Footnote: “A standard case” is defined in section 8(8) of the Taxation (Cross-border Trade) Act 2018.
 
-[^key-29ac155179c307a39a690068c0a2d6ee]: Commencement: Reg. 1 in force at 1.1.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1489/regulation/1)
+[^c-29ac155179c307a39a690068c0a2d6ee]: Commencement: Reg. 1 in force at 1.1.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1489/regulation/1)
 
-[^key-e3d4f6480865e6f14c3b6f0546d4f02c]: Commencement: Reg. 2 in force at 1.1.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1489/regulation/1)
+[^c-e3d4f6480865e6f14c3b6f0546d4f02c]: Commencement: Reg. 2 in force at 1.1.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1489/regulation/1)
 
 [^f00003]: Footnote: [S.I. 2018/1249](https://www.legislation.gov.uk/uksi/2018/1249).
 
@@ -701,13 +701,13 @@ Part 4 makes amendments to both the Trade Preference Scheme Regulations and the 
 
 [^f00005]: Footnote: The document entitled “Authorised Use: Eligible Goods and Authorised Uses (version 2.3)” dated 28th December 2021, is available electronically from https://www.gov.uk/government/collections/customs-vat-and-excise-uk-transition-legislation-from-1-january-2021. A person unable to access the document electronically may access it, while government advice on social distancing and unnecessary travel applies, in hard copy by post free of charge on application to 0300 322 9434, and otherwise by inspection free of charge at HMRC, 100 Parliament Street, London SW1A 2BQ.
 
-[^key-3d1c646c17ab7c5188b6a2f9b6eec64f]: Commencement: Reg. 3 in force at 1.1.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1489/regulation/1)
+[^c-3d1c646c17ab7c5188b6a2f9b6eec64f]: Commencement: Reg. 3 in force at 1.1.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1489/regulation/1)
 
 [^f00006]: Footnote: [S.I. 2020/1430](https://www.legislation.gov.uk/uksi/2020/1430); relevant amending instruments are [S.I. 2021/63](https://www.legislation.gov.uk/uksi/2021/63), [2021/380](https://www.legislation.gov.uk/uksi/2021/380), [2021/520](https://www.legislation.gov.uk/uksi/2021/520), [2021/661](https://www.legislation.gov.uk/uksi/2021/661), [2021/870](https://www.legislation.gov.uk/uksi/2021/870) and [2021/1191](https://www.legislation.gov.uk/uksi/2021/1191).
 
 [^f00007]: Footnote: The Tariff of the United Kingdom version 1.7, dated 28th December 2021, is available electronically from https://www.gov.uk/government/collections/customs-vat-and-excise-uk-transition-legislation-from-1-january-2021. A person unable to access the document electronically may access it, while government advice on social distancing and unnecessary travel applies, in hard copy by post free of charge on application to 0300 322 9434, and otherwise by inspection free of charge at HMRC, 100 Parliament Street, London, SW1A 2BQ.
 
-[^key-dbb7ee1cf00a7d68ed65616df244eedb]: Commencement: Reg. 4 in force at 1.1.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1489/regulation/1)
+[^c-dbb7ee1cf00a7d68ed65616df244eedb]: Commencement: Reg. 4 in force at 1.1.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1489/regulation/1)
 
 [^f00008]: Footnote: [S.I. 2020/1431](https://www.legislation.gov.uk/uksi/2020/1431).
 
@@ -719,19 +719,19 @@ Part 4 makes amendments to both the Trade Preference Scheme Regulations and the 
 
 [^f00012]: Footnote: The document entitled “Authorised Use: Eligible goods and rates” version 1.3 dated 28th December 2021, is available electronically from https://www.gov.uk/government/collections/customs-vat-and-excise-uk-transition-legislation-from-1-january-2021 . A person unable to access the document electronically may access it, while government advice on social distancing and unnecessary travel applies, in hard copy by post free of charge on application to 0300 322 9434, and otherwise by inspection free of charge at HMRC, 100 Parliament Street, London SW1A 2BQ.
 
-[^key-de15e4bfeaab498c29eca0de62724033]: Commencement: Reg. 5 in force at 1.1.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1489/regulation/1)
+[^c-de15e4bfeaab498c29eca0de62724033]: Commencement: Reg. 5 in force at 1.1.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1489/regulation/1)
 
 [^f00013]: Footnote: [S.I. 2020/1433](https://www.legislation.gov.uk/uksi/2020/1433).
 
 [^f00014]: Footnote: The document entitled “Rules of Origin: Special Rules for Determining Non-Preferential Origin, Version 1.1 dated 28th December 2021” is available electronically from https://www.gov.uk/government/collections/customs-vat-and-excise-uk-transition-legislation-from-1-january-2021 . A person unable to access the document electronically may access it, while government advice on social distancing and unnecessary travel applies, in hard copy by post free of charge on application to 0300 322 9434, and otherwise by inspection free of charge at HMRC, 100 Parliament Street, London SW1A 2BQ.
 
-[^key-bf2cca0e87b89497002ed54c4df06be2]: Commencement: Reg. 6 in force at 1.1.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1489/regulation/1)
+[^c-bf2cca0e87b89497002ed54c4df06be2]: Commencement: Reg. 6 in force at 1.1.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1489/regulation/1)
 
 [^f00015]: Footnote: [S.I. 2020/1435](https://www.legislation.gov.uk/uksi/2020/1435), amended by [S.I. 2021/63](https://www.legislation.gov.uk/uksi/2021/63), [380](https://www.legislation.gov.uk/uksi/2021/380), [870](https://www.legislation.gov.uk/uksi/2021/870) and [1191](https://www.legislation.gov.uk/uksi/2021/1191).
 
 [^f00016]: Footnote: The Tariff Suspension Document, version 1.5, dated 28th December 2021 is available electronically from https://www.gov.uk/government/collections/customs-vat-and-excise-uk-transition-legislation-from-1-january-2021 . A person unable to access this document electronically can arrange access to a hard copy, subject to government advice on social distance and travel, by calling 0203 987 7277, and otherwise by inspection free of charge at the Department for International Trade, Old Admiralty Building, London SW1A 2AY.
 
-[^key-c45fe5440c7a21432132b86e5ade00bc]: Commencement: Reg. 7 in force at 1.1.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1489/regulation/1)
+[^c-c45fe5440c7a21432132b86e5ade00bc]: Commencement: Reg. 7 in force at 1.1.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1489/regulation/1)
 
 [^f00017]: Footnote: [S.I. 2020/1457](https://www.legislation.gov.uk/uksi/2020/1457), as amended by [S.I. 2020/1657](https://www.legislation.gov.uk/uksi/2020/1657), [S.I. 2021/241](https://www.legislation.gov.uk/uksi/2021/241), [2021/382](https://www.legislation.gov.uk/uksi/2021/382), [2021/527](https://www.legislation.gov.uk/uksi/2021/527), [2021/693](https://www.legislation.gov.uk/uksi/2021/693), [2021/871](https://www.legislation.gov.uk/uksi/2021/871) and [2021/1192](https://www.legislation.gov.uk/uksi/2021/1192)
 
@@ -741,14 +741,14 @@ Part 4 makes amendments to both the Trade Preference Scheme Regulations and the 
 
 [^f00020]: Footnote: The Liechtenstein Agreement applies the Origin Reference Document in respect of the Switzerland Trade Agreement.
 
-[^key-82c30048ae7d4f92a1a99b9dda8c127e]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/uksi/2021/1489/part/3) omitted (1.6.2022) by virtue of [The Customs (Variation of Import Duty) (Amendment) Regulations 2022 (S.I. 2022/528)](https://www.legislation.gov.uk/uksi/2022/528), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/528/regulation/1/b), [3](https://www.legislation.gov.uk/uksi/2022/528/regulation/3)
+[^c-82c30048ae7d4f92a1a99b9dda8c127e]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/uksi/2021/1489/part/3) omitted (1.6.2022) by virtue of [The Customs (Variation of Import Duty) (Amendment) Regulations 2022 (S.I. 2022/528)](https://www.legislation.gov.uk/uksi/2022/528), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/528/regulation/1/b), [3](https://www.legislation.gov.uk/uksi/2022/528/regulation/3)
 
-[^key-9a3c63269132b771f9d7936c4eb2269c]: Commencement: Reg. 13 in force at 1.1.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1489/regulation/1)
+[^c-9a3c63269132b771f9d7936c4eb2269c]: Commencement: Reg. 13 in force at 1.1.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1489/regulation/1)
 
 [^f00026]: Footnote: [S.I. 2020/1438](https://www.legislation.gov.uk/uksi/2020/1438).
 
-[^key-d0ff2e126e3f66bc288737867e1f0904]: Commencement: Reg. 14 in force at 1.1.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1489/regulation/1)
+[^c-d0ff2e126e3f66bc288737867e1f0904]: Commencement: Reg. 14 in force at 1.1.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1489/regulation/1)
 
-[^key-5ee8c6eed911d6774f112e4fea528111]: Commencement: Reg. 15 in force at 1.1.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1489/regulation/1)
+[^c-5ee8c6eed911d6774f112e4fea528111]: Commencement: Reg. 15 in force at 1.1.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1489/regulation/1)
 
-[^key-da1f4b5e5e7cd7527b1e7aea27d60b13]: Commencement: Reg. 16 in force at 1.1.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1489/regulation/1)
+[^c-da1f4b5e5e7cd7527b1e7aea27d60b13]: Commencement: Reg. 16 in force at 1.1.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1489/regulation/1)

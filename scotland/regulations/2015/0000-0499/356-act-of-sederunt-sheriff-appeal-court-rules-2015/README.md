@@ -29,31 +29,31 @@ summary: ''
 
 Sheriff Appeal Court
 
-Act of Sederunt (Sheriff Appeal Court Rules) 2015 *(affected by repeal, see note)*[^key-f0b547b9fda9054e3bcfc93085b1a950]
+Act of Sederunt (Sheriff Appeal Court Rules) 2015 *(affected by repeal, see note)*[^c-f0b547b9fda9054e3bcfc93085b1a950]
 
-Made *(affected by repeal, see note)*[^key-f0b547b9fda9054e3bcfc93085b1a950]
+Made *(affected by repeal, see note)*[^c-f0b547b9fda9054e3bcfc93085b1a950]
 
-21st October 2015 *(affected by repeal, see note)*[^key-f0b547b9fda9054e3bcfc93085b1a950]
+21st October 2015 *(affected by repeal, see note)*[^c-f0b547b9fda9054e3bcfc93085b1a950]
 
-Laid before the Scottish Parliament *(affected by repeal, see note)*[^key-f0b547b9fda9054e3bcfc93085b1a950]
+Laid before the Scottish Parliament *(affected by repeal, see note)*[^c-f0b547b9fda9054e3bcfc93085b1a950]
 
-23rd October 2015 *(affected by repeal, see note)*[^key-f0b547b9fda9054e3bcfc93085b1a950]
+23rd October 2015 *(affected by repeal, see note)*[^c-f0b547b9fda9054e3bcfc93085b1a950]
 
-Coming into force *(affected by repeal, see note)*[^key-f0b547b9fda9054e3bcfc93085b1a950]
+Coming into force *(affected by repeal, see note)*[^c-f0b547b9fda9054e3bcfc93085b1a950]
 
-1st January 2016 *(affected by repeal, see note)*[^key-f0b547b9fda9054e3bcfc93085b1a950]
+1st January 2016 *(affected by repeal, see note)*[^c-f0b547b9fda9054e3bcfc93085b1a950]
 
-In accordance with section 4 of the Scottish Civil Justice Council and Criminal Legal Assistance Act 2013 *(affected by repeal, see note)*[^key-f0b547b9fda9054e3bcfc93085b1a950][^f00001], the Court of Session has approved draft rules submitted to it by the Scottish Civil Justice Council with such modifications as it thinks appropriate. *(affected by repeal, see note)*[^key-f0b547b9fda9054e3bcfc93085b1a950]
+In accordance with section 4 of the Scottish Civil Justice Council and Criminal Legal Assistance Act 2013 *(affected by repeal, see note)*[^c-f0b547b9fda9054e3bcfc93085b1a950][^f00001], the Court of Session has approved draft rules submitted to it by the Scottish Civil Justice Council with such modifications as it thinks appropriate. *(affected by repeal, see note)*[^c-f0b547b9fda9054e3bcfc93085b1a950]
 
-The Court of Session therefore makes this Act of Sederunt under the powers conferred by section 14(7) of the Scottish Commission for Human Rights Act 2006 *(affected by repeal, see note)*[^key-f0b547b9fda9054e3bcfc93085b1a950][^f00002], section 104(1) of the Courts Reform (Scotland) Act 2014 *(affected by repeal, see note)*[^key-f0b547b9fda9054e3bcfc93085b1a950][^f00003] and all other powers enabling it to do so. *(affected by repeal, see note)*[^key-f0b547b9fda9054e3bcfc93085b1a950]
+The Court of Session therefore makes this Act of Sederunt under the powers conferred by section 14(7) of the Scottish Commission for Human Rights Act 2006 *(affected by repeal, see note)*[^c-f0b547b9fda9054e3bcfc93085b1a950][^f00002], section 104(1) of the Courts Reform (Scotland) Act 2014 *(affected by repeal, see note)*[^c-f0b547b9fda9054e3bcfc93085b1a950][^f00003] and all other powers enabling it to do so. *(affected by repeal, see note)*[^c-f0b547b9fda9054e3bcfc93085b1a950]
 
 ## Contents
 
-### PART 1 (affected by repeal, see note) — PRELIMINARY MATTERS (affected by repeal, see note)[^key-f0b547b9fda9054e3bcfc93085b1a950][^key-f0b547b9fda9054e3bcfc93085b1a950]
+### PART 1 (affected by repeal, see note) — PRELIMINARY MATTERS (affected by repeal, see note)[^c-f0b547b9fda9054e3bcfc93085b1a950][^c-f0b547b9fda9054e3bcfc93085b1a950]
 
 *Extent: S*
 
-#### CHAPTER 1 (affected by repeal, see note) — CITATION, COMMENCEMENT AND INTERPRETATION ETC. (affected by repeal, see note)[^key-f0b547b9fda9054e3bcfc93085b1a950][^key-f0b547b9fda9054e3bcfc93085b1a950]
+#### CHAPTER 1 (affected by repeal, see note) — CITATION, COMMENCEMENT AND INTERPRETATION ETC. (affected by repeal, see note)[^c-f0b547b9fda9054e3bcfc93085b1a950][^c-f0b547b9fda9054e3bcfc93085b1a950]
 
 *Extent: S*
 
@@ -63,24 +63,24 @@ The Court of Session therefore makes this Act of Sederunt under the powers confe
 - [Section 1.4 — Administrative provisions](part-1/section-1-4.md)
 - [Section 1.5 — Forms](part-1/section-1-5.md)
 
-### PART 2 (affected by repeal, see note) — GENERAL PROVISIONS (affected by repeal, see note)[^key-f0b547b9fda9054e3bcfc93085b1a950][^key-f0b547b9fda9054e3bcfc93085b1a950]
+### PART 2 (affected by repeal, see note) — GENERAL PROVISIONS (affected by repeal, see note)[^c-f0b547b9fda9054e3bcfc93085b1a950][^c-f0b547b9fda9054e3bcfc93085b1a950]
 
 *Extent: S*
 
-#### CHAPTER 2 (affected by repeal, see note) — RELIEF FOR FAILURE TO COMPLY (affected by repeal, see note)[^key-f0b547b9fda9054e3bcfc93085b1a950][^key-f0b547b9fda9054e3bcfc93085b1a950]
+#### CHAPTER 2 (affected by repeal, see note) — RELIEF FOR FAILURE TO COMPLY (affected by repeal, see note)[^c-f0b547b9fda9054e3bcfc93085b1a950][^c-f0b547b9fda9054e3bcfc93085b1a950]
 
 *Extent: S*
 
 - [Section 2.1 — Relief for failure to comply with rules](part-2/section-2-1.md)
 
-#### CHAPTER 3 (affected by repeal, see note) — SANCTIONS FOR FAILURE TO COMPLY (affected by repeal, see note)[^key-f0b547b9fda9054e3bcfc93085b1a950][^key-f0b547b9fda9054e3bcfc93085b1a950]
+#### CHAPTER 3 (affected by repeal, see note) — SANCTIONS FOR FAILURE TO COMPLY (affected by repeal, see note)[^c-f0b547b9fda9054e3bcfc93085b1a950][^c-f0b547b9fda9054e3bcfc93085b1a950]
 
 *Extent: S*
 
 - [Section 3.1 — Circumstances where a party is in default](part-2/section-3-1.md)
 - [Section 3.2 — Sanctions where a party is in default](part-2/section-3-2.md)
 
-#### CHAPTER 4 (affected by repeal, see note) — REPRESENTATION AND SUPPORT (affected by repeal, see note)[^key-f0b547b9fda9054e3bcfc93085b1a950][^key-f0b547b9fda9054e3bcfc93085b1a950]
+#### CHAPTER 4 (affected by repeal, see note) — REPRESENTATION AND SUPPORT (affected by repeal, see note)[^c-f0b547b9fda9054e3bcfc93085b1a950][^c-f0b547b9fda9054e3bcfc93085b1a950]
 
 *Extent: S*
 
@@ -91,7 +91,7 @@ The Court of Session therefore makes this Act of Sederunt under the powers confe
 - [Section 4.5 — Lay support: applications](part-2/section-4-5.md)
 - [Section 4.6 — Lay support: functions, conditions and duties](part-2/section-4-6.md)
 
-#### CHAPTER 5 (affected by repeal, see note) — INTIMATION AND LODGING ETC. (affected by repeal, see note)[^key-f0b547b9fda9054e3bcfc93085b1a950][^key-f0b547b9fda9054e3bcfc93085b1a950]
+#### CHAPTER 5 (affected by repeal, see note) — INTIMATION AND LODGING ETC. (affected by repeal, see note)[^c-f0b547b9fda9054e3bcfc93085b1a950][^c-f0b547b9fda9054e3bcfc93085b1a950]
 
 *Extent: S*
 
@@ -103,11 +103,11 @@ The Court of Session therefore makes this Act of Sederunt under the powers confe
 - [Section 5.6 — Additional methods of intimation where receiving party represented by solicitor](part-2/section-5-6.md)
 - [Section 5.7 — Lodging](part-2/section-5-7.md)
 
-### PART 3 (affected by repeal, see note) — INITIATION AND PROGRESS OF AN APPEAL (affected by repeal, see note)[^key-f0b547b9fda9054e3bcfc93085b1a950][^key-f0b547b9fda9054e3bcfc93085b1a950]
+### PART 3 (affected by repeal, see note) — INITIATION AND PROGRESS OF AN APPEAL (affected by repeal, see note)[^c-f0b547b9fda9054e3bcfc93085b1a950][^c-f0b547b9fda9054e3bcfc93085b1a950]
 
 *Extent: S*
 
-#### CHAPTER 6 (affected by repeal, see note) — INITIATION OF AN APPEAL (affected by repeal, see note)[^key-29574b1056c3a9cc1e80865767b92c2a][^key-54d14f772c192b3dd577eb29f5f48161][^key-274cb126a79f74dbb504fdae81f5efed][^key-3d23656ee0b39ae840cf2dcfff0a6ce3][^key-f24fb04480ca63b19dc03d59e2f8c843][^key-dc5383716ed55ee1724ed06c2212139a][^key-f0b547b9fda9054e3bcfc93085b1a950][^key-f0b547b9fda9054e3bcfc93085b1a950]
+#### CHAPTER 6 (affected by repeal, see note) — INITIATION OF AN APPEAL (affected by repeal, see note)[^c-29574b1056c3a9cc1e80865767b92c2a][^c-54d14f772c192b3dd577eb29f5f48161][^c-274cb126a79f74dbb504fdae81f5efed][^c-3d23656ee0b39ae840cf2dcfff0a6ce3][^c-f24fb04480ca63b19dc03d59e2f8c843][^c-dc5383716ed55ee1724ed06c2212139a][^c-f0b547b9fda9054e3bcfc93085b1a950][^c-f0b547b9fda9054e3bcfc93085b1a950]
 
 *Extent: S*
 
@@ -119,7 +119,7 @@ The Court of Session therefore makes this Act of Sederunt under the powers confe
 - [Section 6.6 — Initial case management of appeals](part-3/section-6-6.md)
 - [Section 6.7 — Provisional orders: representations](part-3/section-6-7.md)
 
-#### CHAPTER 7 (affected by repeal, see note) — STANDARD APPEAL PROCEDURE (affected by repeal, see note)[^key-f0b547b9fda9054e3bcfc93085b1a950][^key-f0b547b9fda9054e3bcfc93085b1a950]
+#### CHAPTER 7 (affected by repeal, see note) — STANDARD APPEAL PROCEDURE (affected by repeal, see note)[^c-f0b547b9fda9054e3bcfc93085b1a950][^c-f0b547b9fda9054e3bcfc93085b1a950]
 
 *Extent: S*
 
@@ -141,41 +141,41 @@ The Court of Session therefore makes this Act of Sederunt under the powers confe
 - [Section 7.16 — Extension of notes of evidence](part-3/section-7-16.md)
 - [Section 7.17 — Referral to family mediation](part-3/section-7-17.md)
 
-### PART 4 (affected by repeal, see note) — DISPOSAL OF AN APPEAL (affected by repeal, see note)[^key-f0b547b9fda9054e3bcfc93085b1a950][^key-f0b547b9fda9054e3bcfc93085b1a950]
+### PART 4 (affected by repeal, see note) — DISPOSAL OF AN APPEAL (affected by repeal, see note)[^c-f0b547b9fda9054e3bcfc93085b1a950][^c-f0b547b9fda9054e3bcfc93085b1a950]
 
 *Extent: S*
 
-#### CHAPTER 8 (affected by repeal, see note) — REFUSAL OF APPEAL DUE TO DELAY (affected by repeal, see note)[^key-f0b547b9fda9054e3bcfc93085b1a950][^key-f0b547b9fda9054e3bcfc93085b1a950]
+#### CHAPTER 8 (affected by repeal, see note) — REFUSAL OF APPEAL DUE TO DELAY (affected by repeal, see note)[^c-f0b547b9fda9054e3bcfc93085b1a950][^c-f0b547b9fda9054e3bcfc93085b1a950]
 
 *Extent: S*
 
 - [Section 8.1 — Application to refuse appeal due to delay](part-4/section-8-1.md)
 - [Section 8.2 — Determination of application to refuse appeal due to delay](part-4/section-8-2.md)
 
-#### CHAPTER 9 (affected by repeal, see note) — ABANDONMENT OF APPEAL (affected by repeal, see note)[^key-f0b547b9fda9054e3bcfc93085b1a950][^key-f0b547b9fda9054e3bcfc93085b1a950]
+#### CHAPTER 9 (affected by repeal, see note) — ABANDONMENT OF APPEAL (affected by repeal, see note)[^c-f0b547b9fda9054e3bcfc93085b1a950][^c-f0b547b9fda9054e3bcfc93085b1a950]
 
 *Extent: S*
 
 - [Section 9.1 — Application to abandon appeal](part-4/section-9-1.md)
 
-#### CHAPTER 10 (affected by repeal, see note) — REMIT TO THE COURT OF SESSION (affected by repeal, see note)[^key-f0b547b9fda9054e3bcfc93085b1a950][^key-f0b547b9fda9054e3bcfc93085b1a950]
+#### CHAPTER 10 (affected by repeal, see note) — REMIT TO THE COURT OF SESSION (affected by repeal, see note)[^c-f0b547b9fda9054e3bcfc93085b1a950][^c-f0b547b9fda9054e3bcfc93085b1a950]
 
 *Extent: S*
 
 - [Section 10.1 — Application to remit appeal to the Court of Session](part-4/section-10-1.md)
 
-#### CHAPTER 11 (affected by repeal, see note) — APPLICATIONS FOR PERMISSION TO APPEAL TO THE COURT OF SESSION (affected by repeal, see note)[^key-f0b547b9fda9054e3bcfc93085b1a950][^key-f0b547b9fda9054e3bcfc93085b1a950]
+#### CHAPTER 11 (affected by repeal, see note) — APPLICATIONS FOR PERMISSION TO APPEAL TO THE COURT OF SESSION (affected by repeal, see note)[^c-f0b547b9fda9054e3bcfc93085b1a950][^c-f0b547b9fda9054e3bcfc93085b1a950]
 
 *Extent: S*
 
 - [Section 11.1 — Application of this Chapter](part-4/section-11-1.md)
 - [Section 11.2 — Applications for permission to appeal](part-4/section-11-2.md)
 
-### PART 5 (affected by repeal, see note) — INCIDENTAL PROCEDURE: STANDARD PROCEDURES (affected by repeal, see note)[^key-f0b547b9fda9054e3bcfc93085b1a950][^key-f0b547b9fda9054e3bcfc93085b1a950]
+### PART 5 (affected by repeal, see note) — INCIDENTAL PROCEDURE: STANDARD PROCEDURES (affected by repeal, see note)[^c-f0b547b9fda9054e3bcfc93085b1a950][^c-f0b547b9fda9054e3bcfc93085b1a950]
 
 *Extent: S*
 
-#### CHAPTER 12 (affected by repeal, see note) — MOTIONS: GENERAL (affected by repeal, see note)[^key-f0b547b9fda9054e3bcfc93085b1a950][^key-f0b547b9fda9054e3bcfc93085b1a950]
+#### CHAPTER 12 (affected by repeal, see note) — MOTIONS: GENERAL (affected by repeal, see note)[^c-f0b547b9fda9054e3bcfc93085b1a950][^c-f0b547b9fda9054e3bcfc93085b1a950]
 
 *Extent: S*
 
@@ -188,7 +188,7 @@ The Court of Session therefore makes this Act of Sederunt under the powers confe
 - [Section 12.7 — Determination of unopposed motions in writing](part-5/section-12-7.md)
 - [Section 12.8 — Issuing of orders by email](part-5/section-12-8.md)
 
-#### CHAPTER 13 (affected by repeal, see note) — MOTIONS LODGED BY EMAIL (affected by repeal, see note)[^key-f0b547b9fda9054e3bcfc93085b1a950][^key-f0b547b9fda9054e3bcfc93085b1a950]
+#### CHAPTER 13 (affected by repeal, see note) — MOTIONS LODGED BY EMAIL (affected by repeal, see note)[^c-f0b547b9fda9054e3bcfc93085b1a950][^c-f0b547b9fda9054e3bcfc93085b1a950]
 
 *Extent: S*
 
@@ -199,7 +199,7 @@ The Court of Session therefore makes this Act of Sederunt under the powers confe
 - [Section 13.5 — Lodging opposed motions by email](part-5/section-13-5.md)
 - [Section 13.6 — Variation of periods of intimation](part-5/section-13-6.md)
 
-#### CHAPTER 14 (affected by repeal, see note) — MOTIONS LODGED BY OTHER MEANS (affected by repeal, see note)[^key-f0b547b9fda9054e3bcfc93085b1a950][^key-f0b547b9fda9054e3bcfc93085b1a950]
+#### CHAPTER 14 (affected by repeal, see note) — MOTIONS LODGED BY OTHER MEANS (affected by repeal, see note)[^c-f0b547b9fda9054e3bcfc93085b1a950][^c-f0b547b9fda9054e3bcfc93085b1a950]
 
 *Extent: S*
 
@@ -211,7 +211,7 @@ The Court of Session therefore makes this Act of Sederunt under the powers confe
 - [Section 14.6 — Hearing of opposed motions](part-5/section-14-6.md)
 - [Section 14.7 — Modification of Chapter 5](part-5/section-14-7.md)
 
-#### CHAPTER 15 (affected by repeal, see note) — MINUTES (affected by repeal, see note)[^key-f0b547b9fda9054e3bcfc93085b1a950][^key-f0b547b9fda9054e3bcfc93085b1a950]
+#### CHAPTER 15 (affected by repeal, see note) — MINUTES (affected by repeal, see note)[^c-f0b547b9fda9054e3bcfc93085b1a950][^c-f0b547b9fda9054e3bcfc93085b1a950]
 
 *Extent: S*
 
@@ -222,14 +222,14 @@ The Court of Session therefore makes this Act of Sederunt under the powers confe
 - [Section 15.5 — Minutes of sist and transference](part-5/section-15-5.md)
 - [Section 15.6 — Applications to enter process as respondent](part-5/section-15-6.md)
 
-#### CHAPTER 16 (affected by repeal, see note) — AMENDMENT OF PLEADINGS (affected by repeal, see note)[^key-f0b547b9fda9054e3bcfc93085b1a950][^key-f0b547b9fda9054e3bcfc93085b1a950]
+#### CHAPTER 16 (affected by repeal, see note) — AMENDMENT OF PLEADINGS (affected by repeal, see note)[^c-f0b547b9fda9054e3bcfc93085b1a950][^c-f0b547b9fda9054e3bcfc93085b1a950]
 
 *Extent: S*
 
 - [Section 16.1 — Amendment of sheriff court pleadings](part-5/section-16-1.md)
 - [Section 16.2 — Amendment of note of appeal and answers etc.](part-5/section-16-2.md)
 
-#### CHAPTER 17 (affected by repeal, see note) — WITHDRAWAL OF SOLICITORS (affected by repeal, see note)[^key-f0b547b9fda9054e3bcfc93085b1a950][^key-f0b547b9fda9054e3bcfc93085b1a950]
+#### CHAPTER 17 (affected by repeal, see note) — WITHDRAWAL OF SOLICITORS (affected by repeal, see note)[^c-f0b547b9fda9054e3bcfc93085b1a950][^c-f0b547b9fda9054e3bcfc93085b1a950]
 
 *Extent: S*
 
@@ -238,7 +238,7 @@ The Court of Session therefore makes this Act of Sederunt under the powers confe
 - [Section 17.3 — Arrangements for peremptory hearing](part-5/section-17-3.md)
 - [Section 17.4 — Peremptory hearing](part-5/section-17-4.md)
 
-#### CHAPTER 18 (affected by repeal, see note) — CAUTION AND SECURITY (affected by repeal, see note)[^key-f0b547b9fda9054e3bcfc93085b1a950][^key-f0b547b9fda9054e3bcfc93085b1a950]
+#### CHAPTER 18 (affected by repeal, see note) — CAUTION AND SECURITY (affected by repeal, see note)[^c-f0b547b9fda9054e3bcfc93085b1a950][^c-f0b547b9fda9054e3bcfc93085b1a950]
 
 *Extent: S*
 
@@ -252,7 +252,7 @@ The Court of Session therefore makes this Act of Sederunt under the powers confe
 - [Section 18.8 — Insolvency or death of cautioner or guarantor](part-5/section-18-8.md)
 - [Section 18.9 — Failure to find caution or give security](part-5/section-18-9.md)
 
-#### CHAPTER 19 (affected by repeal, see note) — EXPENSES (affected by repeal, see note)[^key-f0b547b9fda9054e3bcfc93085b1a950][^key-f0b547b9fda9054e3bcfc93085b1a950]
+#### CHAPTER 19 (affected by repeal, see note) — EXPENSES (affected by repeal, see note)[^c-f0b547b9fda9054e3bcfc93085b1a950][^c-f0b547b9fda9054e3bcfc93085b1a950]
 
 *Extent: S*
 
@@ -266,7 +266,7 @@ The Court of Session therefore makes this Act of Sederunt under the powers confe
 - [Section 19.6 — Decree for expenses in name of solicitor](part-5/section-19-6.md)
 - [Section 19.7 — Expenses of curator ad litem appointed to a respondent](part-5/section-19-7.md)
 
-#### CHAPTER 19A (affected by repeal, see note) — QUALIFIED ONE-WAY COSTS SHIFTING (affected by repeal, see note)[^key-4b7265070c6c7d5b76bf816a0af410c4][^key-f0b547b9fda9054e3bcfc93085b1a950][^key-f0b547b9fda9054e3bcfc93085b1a950]
+#### CHAPTER 19A (affected by repeal, see note) — QUALIFIED ONE-WAY COSTS SHIFTING (affected by repeal, see note)[^c-4b7265070c6c7d5b76bf816a0af410c4][^c-f0b547b9fda9054e3bcfc93085b1a950][^c-f0b547b9fda9054e3bcfc93085b1a950]
 
 - [Section 19A.1 — Application and interpretation of this Chapter](part-5/section-19a-1.md)
 - [Section 19A.2 — Application for an award of expenses](part-5/section-19a-2.md)
@@ -274,11 +274,11 @@ The Court of Session therefore makes this Act of Sederunt under the powers confe
 - [Section 19A.4 — Procedure](part-5/section-19a-4.md)
 - [Section 19A.5 — Award against legal representatives](part-5/section-19a-5.md)
 
-### PART 6 (affected by repeal, see note) — INCIDENTAL PROCEDURE: SPECIAL PROCEDURES (affected by repeal, see note)[^key-f0b547b9fda9054e3bcfc93085b1a950][^key-f0b547b9fda9054e3bcfc93085b1a950]
+### PART 6 (affected by repeal, see note) — INCIDENTAL PROCEDURE: SPECIAL PROCEDURES (affected by repeal, see note)[^c-f0b547b9fda9054e3bcfc93085b1a950][^c-f0b547b9fda9054e3bcfc93085b1a950]
 
 *Extent: S*
 
-#### CHAPTER 20 (affected by repeal, see note) — DEVOLUTION ISSUES (affected by repeal, see note)[^key-f0b547b9fda9054e3bcfc93085b1a950][^key-f0b547b9fda9054e3bcfc93085b1a950]
+#### CHAPTER 20 (affected by repeal, see note) — DEVOLUTION ISSUES (affected by repeal, see note)[^c-f0b547b9fda9054e3bcfc93085b1a950][^c-f0b547b9fda9054e3bcfc93085b1a950]
 
 *Extent: S*
 
@@ -291,7 +291,7 @@ The Court of Session therefore makes this Act of Sederunt under the powers confe
 - [Section 20.7 — Reference to the Inner House or Supreme Court: further procedure](part-6/section-20-7.md)
 - [Section 20.8 — Reference to the Inner House or Supreme Court: procedure following determination](part-6/section-20-8.md)
 
-#### CHAPTER 21 (affected by repeal, see note) — PRELIMINARY REFERENCES TO THE CJEU (affected by repeal, see note)[^key-f0b547b9fda9054e3bcfc93085b1a950][^key-f0b547b9fda9054e3bcfc93085b1a950]
+#### CHAPTER 21 (affected by repeal, see note) — PRELIMINARY REFERENCES TO THE CJEU (affected by repeal, see note)[^c-f0b547b9fda9054e3bcfc93085b1a950][^c-f0b547b9fda9054e3bcfc93085b1a950]
 
 *Extent: S*
 
@@ -301,7 +301,7 @@ The Court of Session therefore makes this Act of Sederunt under the powers confe
 - [Section 21.4 — Transmission of reference to European Court](part-6/section-21-4.md)
 - [Section 21.5 — Sist of appeal](part-6/section-21-5.md)
 
-#### CHAPTER 22 (affected by repeal, see note) — INTERVENTIONS BY CEHR AND SCHR (affected by repeal, see note)[^key-f0b547b9fda9054e3bcfc93085b1a950][^key-f0b547b9fda9054e3bcfc93085b1a950]
+#### CHAPTER 22 (affected by repeal, see note) — INTERVENTIONS BY CEHR AND SCHR (affected by repeal, see note)[^c-f0b547b9fda9054e3bcfc93085b1a950][^c-f0b547b9fda9054e3bcfc93085b1a950]
 
 *Extent: S*
 
@@ -311,7 +311,7 @@ The Court of Session therefore makes this Act of Sederunt under the powers confe
 - [Section 22.4 — Invitations to intervene](part-6/section-22-4.md)
 - [Section 22.5 — Form of intervention](part-6/section-22-5.md)
 
-#### CHAPTER 23 (affected by repeal, see note) — PROOF (affected by repeal, see note)[^key-f0b547b9fda9054e3bcfc93085b1a950][^key-f0b547b9fda9054e3bcfc93085b1a950]
+#### CHAPTER 23 (affected by repeal, see note) — PROOF (affected by repeal, see note)[^c-f0b547b9fda9054e3bcfc93085b1a950][^c-f0b547b9fda9054e3bcfc93085b1a950]
 
 *Extent: S*
 
@@ -323,7 +323,7 @@ The Court of Session therefore makes this Act of Sederunt under the powers confe
 - [Section 23.6 — Transcripts of evidence](part-6/section-23-6.md)
 - [Section 23.7 — Recording objections where recording of evidence dispensed with](part-6/section-23-7.md)
 
-#### CHAPTER 24 (affected by repeal, see note) — VULNERABLE WITNESSES (affected by repeal, see note)[^key-f0b547b9fda9054e3bcfc93085b1a950][^key-f0b547b9fda9054e3bcfc93085b1a950]
+#### CHAPTER 24 (affected by repeal, see note) — VULNERABLE WITNESSES (affected by repeal, see note)[^c-f0b547b9fda9054e3bcfc93085b1a950][^c-f0b547b9fda9054e3bcfc93085b1a950]
 
 *Extent: S*
 
@@ -337,14 +337,14 @@ The Court of Session therefore makes this Act of Sederunt under the powers confe
 - [Section 24.8 — Taking of evidence by commissioner: conduct of commission](part-6/section-24-8.md)
 - [Section 24.9 — Taking of evidence by commissioner: lodging and custody of video record and documents](part-6/section-24-9.md)
 
-#### CHAPTER 25 (affected by repeal, see note) — USE OF LIVE LINKS (affected by repeal, see note)[^key-f0b547b9fda9054e3bcfc93085b1a950][^key-f0b547b9fda9054e3bcfc93085b1a950]
+#### CHAPTER 25 (affected by repeal, see note) — USE OF LIVE LINKS (affected by repeal, see note)[^c-f0b547b9fda9054e3bcfc93085b1a950][^c-f0b547b9fda9054e3bcfc93085b1a950]
 
 *Extent: S*
 
 - [Section 25.1 — Interpretation](part-6/section-25-1.md)
 - [Section 25.2 — Application for use of live link](part-6/section-25-2.md)
 
-#### CHAPTER 26 (affected by repeal, see note) — REPORTING RESTRICTIONS (affected by repeal, see note)[^key-f0b547b9fda9054e3bcfc93085b1a950][^key-f0b547b9fda9054e3bcfc93085b1a950]
+#### CHAPTER 26 (affected by repeal, see note) — REPORTING RESTRICTIONS (affected by repeal, see note)[^c-f0b547b9fda9054e3bcfc93085b1a950][^c-f0b547b9fda9054e3bcfc93085b1a950]
 
 *Extent: S*
 
@@ -355,11 +355,11 @@ The Court of Session therefore makes this Act of Sederunt under the powers confe
 - [Section 26.4 — Notification of reporting restrictions](part-6/section-26-4.md)
 - [Section 26.5 — Applications for variation or revocation](part-6/section-26-5.md)
 
-### PART 7 (affected by repeal, see note) — SPECIAL APPEAL PROCEEDINGS (affected by repeal, see note)[^key-f0b547b9fda9054e3bcfc93085b1a950][^key-f0b547b9fda9054e3bcfc93085b1a950]
+### PART 7 (affected by repeal, see note) — SPECIAL APPEAL PROCEEDINGS (affected by repeal, see note)[^c-f0b547b9fda9054e3bcfc93085b1a950][^c-f0b547b9fda9054e3bcfc93085b1a950]
 
 *Extent: S*
 
-#### CHAPTER 27 (affected by repeal, see note) — ACCELERATED APPEAL PROCEDURE (affected by repeal, see note)[^key-f0b547b9fda9054e3bcfc93085b1a950][^key-f0b547b9fda9054e3bcfc93085b1a950]
+#### CHAPTER 27 (affected by repeal, see note) — ACCELERATED APPEAL PROCEDURE (affected by repeal, see note)[^c-f0b547b9fda9054e3bcfc93085b1a950][^c-f0b547b9fda9054e3bcfc93085b1a950]
 
 *Extent: S*
 
@@ -367,7 +367,7 @@ The Court of Session therefore makes this Act of Sederunt under the powers confe
 - [Section 27.2 — Hearing of appeal](part-7/section-27-2.md)
 - [Section 27.3 — Application to remove appeal from accelerated appeal procedure](part-7/section-27-3.md)
 
-#### CHAPTER 28 (affected by repeal, see note) — APPLICATION FOR NEW JURY TRIAL OR TO ENTER JURY VERDICT (affected by repeal, see note)[^key-f0b547b9fda9054e3bcfc93085b1a950][^key-f0b547b9fda9054e3bcfc93085b1a950]
+#### CHAPTER 28 (affected by repeal, see note) — APPLICATION FOR NEW JURY TRIAL OR TO ENTER JURY VERDICT (affected by repeal, see note)[^c-f0b547b9fda9054e3bcfc93085b1a950][^c-f0b547b9fda9054e3bcfc93085b1a950]
 
 *Extent: S*
 
@@ -386,7 +386,7 @@ The Court of Session therefore makes this Act of Sederunt under the powers confe
 - [Section 28.13 — Procedural hearing](part-7/section-28-13.md)
 - [Section 28.14 — Application to enter jury verdict](part-7/section-28-14.md)
 
-#### CHAPTER 29 (affected by repeal, see note) — APPEALS FROM SUMMARY CAUSES (affected by repeal, see note)[^key-1949dc229fd514cf60496d75cd9807f0][^key-f0b547b9fda9054e3bcfc93085b1a950][^key-819757d89b10dd8ba2d695a6bd6d6df4][^key-f0b547b9fda9054e3bcfc93085b1a950]
+#### CHAPTER 29 (affected by repeal, see note) — APPEALS FROM SUMMARY CAUSES (affected by repeal, see note)[^c-1949dc229fd514cf60496d75cd9807f0][^c-f0b547b9fda9054e3bcfc93085b1a950][^c-819757d89b10dd8ba2d695a6bd6d6df4][^c-f0b547b9fda9054e3bcfc93085b1a950]
 
 *Extent: S*
 
@@ -397,7 +397,7 @@ The Court of Session therefore makes this Act of Sederunt under the powers confe
 - [Section 29.5 — Determination of appeal](part-7/section-29-5.md)
 - [Section 29.6 — Appeal to the Court of Session: certification](part-7/section-29-6.md)
 
-#### CHAPTER 30 (affected by repeal, see note) — APPEALS BY STATED CASE UNDER PART 15 OF THE CHILDREN’S HEARINGS (SCOTLAND) ACT 2011 (affected by repeal, see note)[^key-f0b547b9fda9054e3bcfc93085b1a950][^key-f0b547b9fda9054e3bcfc93085b1a950]
+#### CHAPTER 30 (affected by repeal, see note) — APPEALS BY STATED CASE UNDER PART 15 OF THE CHILDREN’S HEARINGS (SCOTLAND) ACT 2011 (affected by repeal, see note)[^c-f0b547b9fda9054e3bcfc93085b1a950][^c-f0b547b9fda9054e3bcfc93085b1a950]
 
 *Extent: S*
 
@@ -407,7 +407,7 @@ The Court of Session therefore makes this Act of Sederunt under the powers confe
 - [Section 30.4 — Determination of appeal](part-7/section-30-4.md)
 - [Section 30.5 — Leave to appeal to the Court of Session](part-7/section-30-5.md)
 
-#### CHAPTER 31 (affected by repeal, see note) — Appeals under Part 4 of the Age of Criminal Responsibility (Scotland) Act 2019 (affected by repeal, see note)[^key-728ff1477da80e4e04823f1cd43efcc6][^key-f0b547b9fda9054e3bcfc93085b1a950][^key-f0b547b9fda9054e3bcfc93085b1a950]
+#### CHAPTER 31 (affected by repeal, see note) — Appeals under Part 4 of the Age of Criminal Responsibility (Scotland) Act 2019 (affected by repeal, see note)[^c-728ff1477da80e4e04823f1cd43efcc6][^c-f0b547b9fda9054e3bcfc93085b1a950][^c-f0b547b9fda9054e3bcfc93085b1a950]
 
 *Extent: S*
 
@@ -421,15 +421,15 @@ The Court of Session therefore makes this Act of Sederunt under the powers confe
 
 *Extent: S*
 
-CJM Sutherland *(affected by repeal, see note)*[^key-f0b547b9fda9054e3bcfc93085b1a950]
+CJM Sutherland *(affected by repeal, see note)*[^c-f0b547b9fda9054e3bcfc93085b1a950]
 
-Lord Justice Clerk *(affected by repeal, see note)*[^key-f0b547b9fda9054e3bcfc93085b1a950]
+Lord Justice Clerk *(affected by repeal, see note)*[^c-f0b547b9fda9054e3bcfc93085b1a950]
 
 I.P.D.
 
-Edinburgh *(affected by repeal, see note)*[^key-f0b547b9fda9054e3bcfc93085b1a950]
+Edinburgh *(affected by repeal, see note)*[^c-f0b547b9fda9054e3bcfc93085b1a950]
 
-21st October 2015 *(affected by repeal, see note)*[^key-f0b547b9fda9054e3bcfc93085b1a950]
+21st October 2015 *(affected by repeal, see note)*[^c-f0b547b9fda9054e3bcfc93085b1a950]
 
 *Extent: S*
 
@@ -519,7 +519,7 @@ Schedule 2 contains the forms referred to in rule 1.5.
 
 ## Annotations
 
-[^key-f0b547b9fda9054e3bcfc93085b1a950]: Textual amendment: Rules revoked (with saving in [rule 34.3](https://www.legislation.gov.uk/ssi/2021/468/rule/34.3)) (6.1.2022) by [Act of Sederunt (Sheriff Appeal Court Rules) 2021 (S.S.I. 2021/468)](https://www.legislation.gov.uk/ssi/2021/468), [rules 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/rule/1.1/2), [34.1](https://www.legislation.gov.uk/ssi/2021/468/rule/34.1) (with [rules 1.2](https://www.legislation.gov.uk/ssi/2021/468/rule/1.2), [34.3](https://www.legislation.gov.uk/ssi/2021/468/rule/34.3))
+[^c-f0b547b9fda9054e3bcfc93085b1a950]: Textual amendment: Rules revoked (with saving in [rule 34.3](https://www.legislation.gov.uk/ssi/2021/468/rule/34.3)) (6.1.2022) by [Act of Sederunt (Sheriff Appeal Court Rules) 2021 (S.S.I. 2021/468)](https://www.legislation.gov.uk/ssi/2021/468), [rules 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/rule/1.1/2), [34.1](https://www.legislation.gov.uk/ssi/2021/468/rule/34.1) (with [rules 1.2](https://www.legislation.gov.uk/ssi/2021/468/rule/1.2), [34.3](https://www.legislation.gov.uk/ssi/2021/468/rule/34.3))
 
 [^f00001]: Footnote: [2013 asp 3](https://www.legislation.gov.uk/asp/2013/3). Section 4 was amended by the Courts Reform (Scotland) Act [2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), schedule 5, paragraph 31(3).
 
@@ -527,22 +527,22 @@ Schedule 2 contains the forms referred to in rule 1.5.
 
 [^f00003]: Footnote: [2014 asp 18](https://www.legislation.gov.uk/asp/2014/18).
 
-[^key-29574b1056c3a9cc1e80865767b92c2a]: Modification: Ch. 6 applied (1.1.2016) by S.I. 1986/2297, rule 36A (as inserted by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [3(3)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/3/3) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20)))
+[^c-29574b1056c3a9cc1e80865767b92c2a]: Modification: Ch. 6 applied (1.1.2016) by S.I. 1986/2297, rule 36A (as inserted by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [3(3)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/3/3) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20)))
 
-[^key-54d14f772c192b3dd577eb29f5f48161]: Modification: Ch. 6 applied (1.1.2016) by [S.I. 1988/2013](https://www.legislation.gov.uk/uksi/1988/2013), rule 72(3A) (as inserted by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [4(2)(b)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/4/2/b) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20)))
+[^c-54d14f772c192b3dd577eb29f5f48161]: Modification: Ch. 6 applied (1.1.2016) by [S.I. 1988/2013](https://www.legislation.gov.uk/uksi/1988/2013), rule 72(3A) (as inserted by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [4(2)(b)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/4/2/b) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20)))
 
-[^key-274cb126a79f74dbb504fdae81f5efed]: Modification: Ch. 6 applied (1.1.2016) by [S.S.I. 2002/560](https://www.legislation.gov.uk/ssi/2002/560), [Sch. 1 rule 36A](https://www.legislation.gov.uk/ssi/2002/560/schedule/1) (as inserted by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [13(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/13/2) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20)))
+[^c-274cb126a79f74dbb504fdae81f5efed]: Modification: Ch. 6 applied (1.1.2016) by [S.S.I. 2002/560](https://www.legislation.gov.uk/ssi/2002/560), [Sch. 1 rule 36A](https://www.legislation.gov.uk/ssi/2002/560/schedule/1) (as inserted by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [13(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/13/2) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20)))
 
-[^key-3d23656ee0b39ae840cf2dcfff0a6ce3]: Modification: Ch. 6 applied (1.1.2016) by [S.S.I. 2008/119](https://www.legislation.gov.uk/ssi/2008/119), [Sch. rule 8A(2)](https://www.legislation.gov.uk/ssi/2008/119/schedule) (as inserted by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [14(3)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/14/3) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20)))
+[^c-3d23656ee0b39ae840cf2dcfff0a6ce3]: Modification: Ch. 6 applied (1.1.2016) by [S.S.I. 2008/119](https://www.legislation.gov.uk/ssi/2008/119), [Sch. rule 8A(2)](https://www.legislation.gov.uk/ssi/2008/119/schedule) (as inserted by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [14(3)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/14/3) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20)))
 
-[^key-f24fb04480ca63b19dc03d59e2f8c843]: Modification: Ch. 6 applied (1.1.2016) by [S.S.I. 2009/284](https://www.legislation.gov.uk/ssi/2009/284), [Sch. rule 7](https://www.legislation.gov.uk/ssi/2009/284/schedule) (as substituted by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [15(3)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/15/3) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20)))
+[^c-f24fb04480ca63b19dc03d59e2f8c843]: Modification: Ch. 6 applied (1.1.2016) by [S.S.I. 2009/284](https://www.legislation.gov.uk/ssi/2009/284), [Sch. rule 7](https://www.legislation.gov.uk/ssi/2009/284/schedule) (as substituted by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [15(3)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/15/3) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20)))
 
-[^key-dc5383716ed55ee1724ed06c2212139a]: Modification: Ch. 6 applied (1.1.2016) by [S.S.I. 2009/382](https://www.legislation.gov.uk/ssi/2009/382), [Sch. rule 14(4)](https://www.legislation.gov.uk/ssi/2009/382/schedule) (as inserted by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [16(2)(b)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/16/2/b) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20)))
+[^c-dc5383716ed55ee1724ed06c2212139a]: Modification: Ch. 6 applied (1.1.2016) by [S.S.I. 2009/382](https://www.legislation.gov.uk/ssi/2009/382), [Sch. rule 14(4)](https://www.legislation.gov.uk/ssi/2009/382/schedule) (as inserted by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [16(2)(b)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/16/2/b) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20)))
 
-[^key-4b7265070c6c7d5b76bf816a0af410c4]: Textual amendment: Ch. 19A inserted (30.6.2021) by [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Qualified One-Way Costs Shifting) 2021 (S.S.I. 2021/226)](https://www.legislation.gov.uk/ssi/2021/226), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2021/226/paragraph/1/2), [4(2)](https://www.legislation.gov.uk/ssi/2021/226/paragraph/4/2)
+[^c-4b7265070c6c7d5b76bf816a0af410c4]: Textual amendment: Ch. 19A inserted (30.6.2021) by [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Qualified One-Way Costs Shifting) 2021 (S.S.I. 2021/226)](https://www.legislation.gov.uk/ssi/2021/226), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2021/226/paragraph/1/2), [4(2)](https://www.legislation.gov.uk/ssi/2021/226/paragraph/4/2)
 
-[^key-1949dc229fd514cf60496d75cd9807f0]: Modification: Ch. 29 applied (1.1.2016) by [S.S.I. 2002/133](https://www.legislation.gov.uk/ssi/2002/133), [Sch. 1 rule 23.1(10)](https://www.legislation.gov.uk/ssi/2002/133/schedule/1/paragraph/23.1) (as substituted by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [12(3)(a)(iv)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/12/3/a/iv) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20)))
+[^c-1949dc229fd514cf60496d75cd9807f0]: Modification: Ch. 29 applied (1.1.2016) by [S.S.I. 2002/133](https://www.legislation.gov.uk/ssi/2002/133), [Sch. 1 rule 23.1(10)](https://www.legislation.gov.uk/ssi/2002/133/schedule/1/paragraph/23.1) (as substituted by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [12(3)(a)(iv)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/12/3/a/iv) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20)))
 
-[^key-819757d89b10dd8ba2d695a6bd6d6df4]: Textual amendment: Ch. 29 heading substituted (28.11.2016) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 4) (Simple Procedure) 2016 (S.S.I. 2016/315)](https://www.legislation.gov.uk/ssi/2016/315), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2016/315/paragraph/1/2), [6(2)(a)](https://www.legislation.gov.uk/ssi/2016/315/paragraph/6/2/a) (with [para. 8(1)(c)](https://www.legislation.gov.uk/ssi/2016/315/paragraph/8/1/c))
+[^c-819757d89b10dd8ba2d695a6bd6d6df4]: Textual amendment: Ch. 29 heading substituted (28.11.2016) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 4) (Simple Procedure) 2016 (S.S.I. 2016/315)](https://www.legislation.gov.uk/ssi/2016/315), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2016/315/paragraph/1/2), [6(2)(a)](https://www.legislation.gov.uk/ssi/2016/315/paragraph/6/2/a) (with [para. 8(1)(c)](https://www.legislation.gov.uk/ssi/2016/315/paragraph/8/1/c))
 
-[^key-728ff1477da80e4e04823f1cd43efcc6]: Textual amendment: Ch. 31 inserted (17.12.2021) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules 1999 and Sheriff Appeal Court Rules Amendment) (Age of Criminal Responsibility (Scotland) Act 2019) 2021 (S.S.I. 2021/452)](https://www.legislation.gov.uk/ssi/2021/452), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2021/452/paragraph/1/2), [3(3)](https://www.legislation.gov.uk/ssi/2021/452/paragraph/3/3)
+[^c-728ff1477da80e4e04823f1cd43efcc6]: Textual amendment: Ch. 31 inserted (17.12.2021) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules 1999 and Sheriff Appeal Court Rules Amendment) (Age of Criminal Responsibility (Scotland) Act 2019) 2021 (S.S.I. 2021/452)](https://www.legislation.gov.uk/ssi/2021/452), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2021/452/paragraph/1/2), [3(3)](https://www.legislation.gov.uk/ssi/2021/452/paragraph/3/3)

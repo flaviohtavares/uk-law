@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Requirements: complaints referred to the Ombudsman[^key-44d4ab6bf09911bc5afbbbf36f386125]
+## 9. Requirements: complaints referred to the Ombudsman[^c-44d4ab6bf09911bc5afbbbf36f386125]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-44d4ab6bf09911bc5afbbbf36f386125]: Commencement: [S. 9](https://www.legislation.gov.uk/anaw/2019/3/section/9) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)
+[^c-44d4ab6bf09911bc5afbbbf36f386125]: Commencement: [S. 9](https://www.legislation.gov.uk/anaw/2019/3/section/9) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)

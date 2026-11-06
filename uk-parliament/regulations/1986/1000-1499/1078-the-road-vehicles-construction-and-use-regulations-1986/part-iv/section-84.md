@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 84. Trailers drawn by motor cycles[^key-542ee527b1350dbc895d21ccec123968]
+## 84. Trailers drawn by motor cycles[^c-542ee527b1350dbc895d21ccec123968]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-542ee527b1350dbc895d21ccec123968]: Commencement: [Reg. 84](https://www.legislation.gov.uk/uksi/1986/1078/regulation/84) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-542ee527b1350dbc895d21ccec123968]: Commencement: [Reg. 84](https://www.legislation.gov.uk/uksi/1986/1078/regulation/84) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Ballot paper refusal list at parliamentary elections[^key-d4473f7857f115fac031168eb019f945]
+## 31. Ballot paper refusal list at parliamentary elections[^c-d4473f7857f115fac031168eb019f945]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ For the purposes of rule 29(3ZA) of Schedule 1 to the 1983 Act (parliamentary el
 
 ## Annotations
 
-[^key-d4473f7857f115fac031168eb019f945]: Commencement: Reg. 31 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-d4473f7857f115fac031168eb019f945]: Commencement: Reg. 31 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
 
 [^f00054]: Footnote: Rule 29(3ZA) was inserted by paragraph 15 of Schedule 1 to the Elections Act [2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37).

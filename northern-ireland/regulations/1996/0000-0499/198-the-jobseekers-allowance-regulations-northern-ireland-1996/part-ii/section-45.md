@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 45. Appropriate person[^key-0c0667cb39cd83f77ff26693e0376986]
+## 45. Appropriate person[^c-0c0667cb39cd83f77ff26693e0376986]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ A trade union or other association which exists to promote the interests and wel
 
 ## Annotations
 
-[^key-0c0667cb39cd83f77ff26693e0376986]: Commencement: Reg. 45 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-0c0667cb39cd83f77ff26693e0376986]: Commencement: Reg. 45 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

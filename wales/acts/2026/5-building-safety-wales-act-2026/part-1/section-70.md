@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 70. Leases: implied terms relating to compliance with building safety duties[^key-d7597b7d14f9e18d11b59626896a0e02]
+## 70. Leases: implied terms relating to compliance with building safety duties[^c-d7597b7d14f9e18d11b59626896a0e02]
 
 *Extent: E+W*
 
@@ -63,4 +63,4 @@ In the Landlord and Tenant Act [1985 (c. 70)](https://www.legislation.gov.uk/ukp
 
 ## Annotations
 
-[^key-d7597b7d14f9e18d11b59626896a0e02]: Commencement: S. 70 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-d7597b7d14f9e18d11b59626896a0e02]: Commencement: S. 70 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

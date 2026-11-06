@@ -31,7 +31,7 @@ summary: ''
 
 Seeds
 
-The Seed Potatoes (Crop Fees) (Amendment) Regulations (Northern Ireland) 2008 (revoked)[^key-b2020c10a71b2ee0d5f3598c6b08d609]
+The Seed Potatoes (Crop Fees) (Amendment) Regulations (Northern Ireland) 2008 (revoked)[^c-b2020c10a71b2ee0d5f3598c6b08d609]
 
 Made
 
@@ -41,34 +41,34 @@ Coming into operation
 
 1st May 2008
 
-[^key-b2020c10a71b2ee0d5f3598c6b08d609]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b2020c10a71b2ee0d5f3598c6b08d609]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-b2020c10a71b2ee0d5f3598c6b08d609]
+## 1. Citation, commencement and interpretation[^c-b2020c10a71b2ee0d5f3598c6b08d609]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of The Seed Potatoes (Crop Fees) Regulations (Northern Ireland) 2006[^key-b2020c10a71b2ee0d5f3598c6b08d609]
+## 2. Amendment of The Seed Potatoes (Crop Fees) Regulations (Northern Ireland) 2006[^c-b2020c10a71b2ee0d5f3598c6b08d609]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b2020c10a71b2ee0d5f3598c6b08d609]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b2020c10a71b2ee0d5f3598c6b08d609]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-b2020c10a71b2ee0d5f3598c6b08d609]
+## SCHEDULE[^c-b2020c10a71b2ee0d5f3598c6b08d609]
 
 regulation 2(4)
 
-### PART 1 — FEES FOR THE CERTIFICATION OF SEED POTATO CROPS EXCEPT FOR PRE-BASIC TISSUE CULTURE[^key-b2020c10a71b2ee0d5f3598c6b08d609]
+### PART 1 — FEES FOR THE CERTIFICATION OF SEED POTATO CROPS EXCEPT FOR PRE-BASIC TISSUE CULTURE[^c-b2020c10a71b2ee0d5f3598c6b08d609]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-b2020c10a71b2ee0d5f3598c6b08d609]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b2020c10a71b2ee0d5f3598c6b08d609]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b2020c10a71b2ee0d5f3598c6b08d609]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2008/184) revoked (1.4.2009) by [The Seed Potatoes (Crop Fees) Regulations (Northern Ireland) 2009 (S.R. 2009/59)](https://www.legislation.gov.uk/nisr/2009/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/59/regulation/1/1), [4(b)](https://www.legislation.gov.uk/nisr/2009/59/regulation/4/b)
+[^c-b2020c10a71b2ee0d5f3598c6b08d609]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2008/184) revoked (1.4.2009) by [The Seed Potatoes (Crop Fees) Regulations (Northern Ireland) 2009 (S.R. 2009/59)](https://www.legislation.gov.uk/nisr/2009/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/59/regulation/1/1), [4(b)](https://www.legislation.gov.uk/nisr/2009/59/regulation/4/b)

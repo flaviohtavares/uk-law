@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Ultra-small emitters: reportable emissions exceeding maximum amount[^key-db33385dfe27ed048fd4c61a56cc6e5e]
+## 59. Ultra-small emitters: reportable emissions exceeding maximum amount[^c-db33385dfe27ed048fd4c61a56cc6e5e]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,15 +29,15 @@ summary: ''
 
 (3) A civil penalty under this article may be imposed only in respect of—
 
-- (a) the first scheme year in the period beginning with 1st January 2021 and ending with 31st December 2025, or in the 2026-2030 period,[^key-87e4a4c575813c2b4e717549251f3133] in which the installation's reportable emissions exceed the maximum amount; and
-- (b) if the following scheme year is in the same [^key-2fb03a181f0b764156a18becbfba1f04]... period, that scheme year.
+- (a) the first scheme year in the period beginning with 1st January 2021 and ending with 31st December 2025, or in the 2026-2030 period,[^c-87e4a4c575813c2b4e717549251f3133] in which the installation's reportable emissions exceed the maximum amount; and
+- (b) if the following scheme year is in the same [^c-2fb03a181f0b764156a18becbfba1f04]... period, that scheme year.
 
 (4) In this article, “**maximum amount**” has the meaning given in paragraph 1 of Schedule 8.
 
 ## Annotations
 
-[^key-db33385dfe27ed048fd4c61a56cc6e5e]: Commencement: Art. 59 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
+[^c-db33385dfe27ed048fd4c61a56cc6e5e]: Commencement: Art. 59 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
 
-[^key-87e4a4c575813c2b4e717549251f3133]: Textual amendment: Words in [art. 59(3)(a)](https://www.legislation.gov.uk/uksi/2020/1265/article/59/3/a) substituted (31.3.2025) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2025 (S.I. 2025/124)](https://www.legislation.gov.uk/uksi/2025/124), [arts. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2), [25(2)(a)](https://www.legislation.gov.uk/uksi/2025/124/article/25/2/a)
+[^c-87e4a4c575813c2b4e717549251f3133]: Textual amendment: Words in [art. 59(3)(a)](https://www.legislation.gov.uk/uksi/2020/1265/article/59/3/a) substituted (31.3.2025) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2025 (S.I. 2025/124)](https://www.legislation.gov.uk/uksi/2025/124), [arts. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2), [25(2)(a)](https://www.legislation.gov.uk/uksi/2025/124/article/25/2/a)
 
-[^key-2fb03a181f0b764156a18becbfba1f04]: Textual amendment: Word in [art. 59(3)(b)](https://www.legislation.gov.uk/uksi/2020/1265/article/59/3/b) omitted (31.3.2025) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2025 (S.I. 2025/124)](https://www.legislation.gov.uk/uksi/2025/124), [arts. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2), [25(2)(b)](https://www.legislation.gov.uk/uksi/2025/124/article/25/2/b)
+[^c-2fb03a181f0b764156a18becbfba1f04]: Textual amendment: Word in [art. 59(3)(b)](https://www.legislation.gov.uk/uksi/2020/1265/article/59/3/b) omitted (31.3.2025) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2025 (S.I. 2025/124)](https://www.legislation.gov.uk/uksi/2025/124), [arts. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2), [25(2)(b)](https://www.legislation.gov.uk/uksi/2025/124/article/25/2/b)

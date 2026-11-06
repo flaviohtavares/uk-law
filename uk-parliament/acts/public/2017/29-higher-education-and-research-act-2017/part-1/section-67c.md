@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67C. Protection from defamation claims[^key-11f054ec1e801205d6f431dffef58e3d]
+## 67C. Protection from defamation claims[^c-11f054ec1e801205d6f431dffef58e3d]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ This is subject to section 67B.
 
 (2) See section 67A(6) for the meaning of references to decisions.
 
-(3)[^key-335a357a72192f22da720fa3bc323f42] This section does not apply to the publication of—
+(3)[^c-335a357a72192f22da720fa3bc323f42] This section does not apply to the publication of—
 
 - (a) a decision or recommendation made by the OfS under the scheme provided by virtue of Schedule 6A, or
 - (b) a report under paragraph 12(1)(b) of that Schedule.
@@ -35,6 +35,6 @@ This is subject to section 67B.
 
 ## Annotations
 
-[^key-11f054ec1e801205d6f431dffef58e3d]: Textual amendment: Ss. 67A-67C and cross-headings inserted (28.6.2022) by Skills and Post-16 [Education Act 2022 (c. 21)](https://www.legislation.gov.uk/ukpga/2022/21), [ss. 33](https://www.legislation.gov.uk/ukpga/2022/21/section/33), [36(2)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/2)
+[^c-11f054ec1e801205d6f431dffef58e3d]: Textual amendment: Ss. 67A-67C and cross-headings inserted (28.6.2022) by Skills and Post-16 [Education Act 2022 (c. 21)](https://www.legislation.gov.uk/ukpga/2022/21), [ss. 33](https://www.legislation.gov.uk/ukpga/2022/21/section/33), [36(2)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/2)
 
-[^key-335a357a72192f22da720fa3bc323f42]: Textual amendment: [S. 67C(3)](https://www.legislation.gov.uk/ukpga/2017/29/section/67C/3) inserted (1.9.2026 for specified purposes) by [Higher Education (Freedom of Speech) Act 2023 (c. 16)](https://www.legislation.gov.uk/ukpga/2023/16), [s. 13(3)](https://www.legislation.gov.uk/ukpga/2023/16/section/13/3), [Sch. para. 6](https://www.legislation.gov.uk/ukpga/2023/16/schedule/paragraph/6); [S.I. 2026/654](https://www.legislation.gov.uk/uksi/2026/654), [reg. 2(4)(b)](https://www.legislation.gov.uk/uksi/2026/654/regulation/2/4/b)
+[^c-335a357a72192f22da720fa3bc323f42]: Textual amendment: [S. 67C(3)](https://www.legislation.gov.uk/ukpga/2017/29/section/67C/3) inserted (1.9.2026 for specified purposes) by [Higher Education (Freedom of Speech) Act 2023 (c. 16)](https://www.legislation.gov.uk/ukpga/2023/16), [s. 13(3)](https://www.legislation.gov.uk/ukpga/2023/16/section/13/3), [Sch. para. 6](https://www.legislation.gov.uk/ukpga/2023/16/schedule/paragraph/6); [S.I. 2026/654](https://www.legislation.gov.uk/uksi/2026/654), [reg. 2(4)(b)](https://www.legislation.gov.uk/uksi/2026/654/regulation/2/4/b)

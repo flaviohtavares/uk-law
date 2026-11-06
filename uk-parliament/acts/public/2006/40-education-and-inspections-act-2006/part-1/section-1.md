@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Duties in relation to high standards and the fulfilment of potential[^key-38603773f19e07f558a075320bd02a14][^key-12006836c304bff38b497f4fb9421c55]
+## 1. Duties in relation to high standards and the fulfilment of potential[^c-38603773f19e07f558a075320bd02a14][^c-12006836c304bff38b497f4fb9421c55]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ For section 13A of EA 1996 substitute—
 
 > **13A. Duty to promote high standards and the fulfilment of potential**
 >
-> (1) A local authority[^key-0ea7acc4831332590d0c9da4689eca3c] shall ensure that their functions relating to the provision of education to which this section applies are (so far as they are capable of being so exercised) exercised by the authority with a view to—
+> (1) A local authority[^c-0ea7acc4831332590d0c9da4689eca3c] shall ensure that their functions relating to the provision of education to which this section applies are (so far as they are capable of being so exercised) exercised by the authority with a view to—
 >
 > - (a) promoting high standards,
 > - (b) in the case of a local authority in England, ensuring fair access to educational opportunity, and
@@ -41,8 +41,8 @@ For section 13A of EA 1996 substitute—
 
 ## Annotations
 
-[^key-38603773f19e07f558a075320bd02a14]: Commencement: S. 1 in force at 25.5.2007 for E. by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 6(a)](https://www.legislation.gov.uk/uksi/2007/935/article/6/a)
+[^c-38603773f19e07f558a075320bd02a14]: Commencement: S. 1 in force at 25.5.2007 for E. by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 6(a)](https://www.legislation.gov.uk/uksi/2007/935/article/6/a)
 
-[^key-12006836c304bff38b497f4fb9421c55]: Commencement: S. 1 in force at 30.6.2008 for W. by [S.I. 2008/1429](https://www.legislation.gov.uk/uksi/2008/1429), [art. 3(1)](https://www.legislation.gov.uk/uksi/2008/1429/article/3/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2008/1429/schedule/part/1)
+[^c-12006836c304bff38b497f4fb9421c55]: Commencement: S. 1 in force at 30.6.2008 for W. by [S.I. 2008/1429](https://www.legislation.gov.uk/uksi/2008/1429), [art. 3(1)](https://www.legislation.gov.uk/uksi/2008/1429/article/3/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2008/1429/schedule/part/1)
 
-[^key-0ea7acc4831332590d0c9da4689eca3c]: Textual amendment: Words in Pts. 1-7 substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 14(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/14/2)
+[^c-0ea7acc4831332590d0c9da4689eca3c]: Textual amendment: Words in Pts. 1-7 substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 14(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/14/2)

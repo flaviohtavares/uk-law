@@ -32,7 +32,7 @@ summary: ''
 
 Environmental Protection
 
-The Nitrates Action Programme (Amendment) Regulations (Northern Ireland) 2012 (revoked)[^key-d375f9f94f9048a586f6e76fe690cb0a]
+The Nitrates Action Programme (Amendment) Regulations (Northern Ireland) 2012 (revoked)[^c-d375f9f94f9048a586f6e76fe690cb0a]
 
 Made
 
@@ -42,71 +42,71 @@ Coming into operation
 
 22nd June 2012
 
-[^key-d375f9f94f9048a586f6e76fe690cb0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d375f9f94f9048a586f6e76fe690cb0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-d375f9f94f9048a586f6e76fe690cb0a]
+## 1. Citation and commencement[^c-d375f9f94f9048a586f6e76fe690cb0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-d375f9f94f9048a586f6e76fe690cb0a]
+## 2. Interpretation[^c-d375f9f94f9048a586f6e76fe690cb0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments to the Nitrates Action Programme Regulations (Northern Ireland) 2010[^key-d375f9f94f9048a586f6e76fe690cb0a]
+## 3. Amendments to the Nitrates Action Programme Regulations (Northern Ireland) 2010[^c-d375f9f94f9048a586f6e76fe690cb0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of regulation 14[^key-d375f9f94f9048a586f6e76fe690cb0a]
+## 4. Amendment of regulation 14[^c-d375f9f94f9048a586f6e76fe690cb0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of regulation 20[^key-d375f9f94f9048a586f6e76fe690cb0a]
+## 5. Amendment of regulation 20[^c-d375f9f94f9048a586f6e76fe690cb0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of regulation 24[^key-d375f9f94f9048a586f6e76fe690cb0a]
+## 6. Amendment of regulation 24[^c-d375f9f94f9048a586f6e76fe690cb0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment of regulation 25[^key-d375f9f94f9048a586f6e76fe690cb0a]
+## 7. Amendment of regulation 25[^c-d375f9f94f9048a586f6e76fe690cb0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendment of Schedule[^key-d375f9f94f9048a586f6e76fe690cb0a]
+## 8. Amendment of Schedule[^c-d375f9f94f9048a586f6e76fe690cb0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Consequential amendment of the Phosphorus (Use in Agriculture) Regulations (Northern Ireland) 2006[^key-d375f9f94f9048a586f6e76fe690cb0a]
+## 9. Consequential amendment of the Phosphorus (Use in Agriculture) Regulations (Northern Ireland) 2006[^c-d375f9f94f9048a586f6e76fe690cb0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d375f9f94f9048a586f6e76fe690cb0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d375f9f94f9048a586f6e76fe690cb0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Schedule substituted for the Schedule to the Nitrates Action Programme Regulations (Northern Ireland) 2010[^key-d375f9f94f9048a586f6e76fe690cb0a]
+## SCHEDULE 1 — Schedule substituted for the Schedule to the Nitrates Action Programme Regulations (Northern Ireland) 2010[^c-d375f9f94f9048a586f6e76fe690cb0a]
 
 Regulation 8
 
-> **SCHEDULE[^key-d375f9f94f9048a586f6e76fe690cb0a]**
+> **SCHEDULE[^c-d375f9f94f9048a586f6e76fe690cb0a]**
 >
 > Regulations 8, 9, 10, 16
 >
-> **PART 1 — Criteria as to nutrient management[^key-d375f9f94f9048a586f6e76fe690cb0a]**
+> **PART 1 — Criteria as to nutrient management[^c-d375f9f94f9048a586f6e76fe690cb0a]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **PART 2 — Criteria as to calculation of phosphorus balance[^key-d375f9f94f9048a586f6e76fe690cb0a]**
+> **PART 2 — Criteria as to calculation of phosphorus balance[^c-d375f9f94f9048a586f6e76fe690cb0a]**
 >
-> **1.**[^key-d375f9f94f9048a586f6e76fe690cb0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **1.**[^c-d375f9f94f9048a586f6e76fe690cb0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Schedule substituted for Schedule 2 to the Phosphorus (Use in Agriculture) Regulations (Northern Ireland) 2006[^key-d375f9f94f9048a586f6e76fe690cb0a]
+## SCHEDULE 2 — Schedule substituted for Schedule 2 to the Phosphorus (Use in Agriculture) Regulations (Northern Ireland) 2006[^c-d375f9f94f9048a586f6e76fe690cb0a]
 
 Regulation 9
 
-> **SCHEDULE 2 — PHOSPHORUS CONTENT OF ORGANIC MANURES[^key-d375f9f94f9048a586f6e76fe690cb0a]**
+> **SCHEDULE 2 — PHOSPHORUS CONTENT OF ORGANIC MANURES[^c-d375f9f94f9048a586f6e76fe690cb0a]**
 >
 > Regulation 2(2)
 >
@@ -114,8 +114,8 @@ Regulation 9
 
 **May not be in force at this date. Check the source.**
 
-[^key-d375f9f94f9048a586f6e76fe690cb0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d375f9f94f9048a586f6e76fe690cb0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d375f9f94f9048a586f6e76fe690cb0a]: Textual amendment: Regulations revoked (1.1.2015) by [The Nitrates Action Programme Regulations (Northern Ireland) 2014 (S.R. 2014/307)](https://www.legislation.gov.uk/nisr/2014/307), [regs. 1](https://www.legislation.gov.uk/nisr/2014/307/regulation/1), [36(1)(c)](https://www.legislation.gov.uk/nisr/2014/307/regulation/36/1/c)
+[^c-d375f9f94f9048a586f6e76fe690cb0a]: Textual amendment: Regulations revoked (1.1.2015) by [The Nitrates Action Programme Regulations (Northern Ireland) 2014 (S.R. 2014/307)](https://www.legislation.gov.uk/nisr/2014/307), [regs. 1](https://www.legislation.gov.uk/nisr/2014/307/regulation/1), [36(1)(c)](https://www.legislation.gov.uk/nisr/2014/307/regulation/36/1/c)

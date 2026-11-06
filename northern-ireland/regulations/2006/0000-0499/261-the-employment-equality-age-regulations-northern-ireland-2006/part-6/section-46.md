@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 46. Help for persons in obtaining information etc.[^key-dfcd43f70e6b8e109e3a8d3dc08254ff]
+## 46. Help for persons in obtaining information etc.[^c-dfcd43f70e6b8e109e3a8d3dc08254ff]
 
 *Extent: N.I.*
 
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-dfcd43f70e6b8e109e3a8d3dc08254ff]: Commencement: [Reg. 46](https://www.legislation.gov.uk/nisr/2006/261/regulation/46) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-dfcd43f70e6b8e109e3a8d3dc08254ff]: Commencement: [Reg. 46](https://www.legislation.gov.uk/nisr/2006/261/regulation/46) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
 
 [^f00034]: Footnote: S.I. [1992/807 (N.I. 5)](https://www.legislation.gov.uk/nisi/1992/807)

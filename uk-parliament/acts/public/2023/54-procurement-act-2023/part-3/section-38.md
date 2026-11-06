@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Dynamic markets: fees[^key-e519bea512f607c56fff921323209222][^key-ef756e7a17a67a8531776a58fb9eb11f]
+## 38. Dynamic markets: fees[^c-e519bea512f607c56fff921323209222][^c-ef756e7a17a67a8531776a58fb9eb11f]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e519bea512f607c56fff921323209222]: Commencement: S. 38 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
+[^c-e519bea512f607c56fff921323209222]: Commencement: S. 38 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
 
-[^key-ef756e7a17a67a8531776a58fb9eb11f]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2023/54/section/38) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
+[^c-ef756e7a17a67a8531776a58fb9eb11f]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2023/54/section/38) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))

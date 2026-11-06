@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 23. Exclusion of liability[^key-d48c3a532cb888cba319360c97288d26]
+## 23. Exclusion of liability[^c-d48c3a532cb888cba319360c97288d26]
 
 *Extent: N.I.*
 
@@ -43,4 +43,4 @@ In the Litter (Northern Ireland) Order 1994, after Article 18A (as inserted by s
 
 ## Annotations
 
-[^key-d48c3a532cb888cba319360c97288d26]: Commencement: [S. 23](https://www.legislation.gov.uk/nia/2011/23/section/23) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-d48c3a532cb888cba319360c97288d26]: Commencement: [S. 23](https://www.legislation.gov.uk/nia/2011/23/section/23) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)

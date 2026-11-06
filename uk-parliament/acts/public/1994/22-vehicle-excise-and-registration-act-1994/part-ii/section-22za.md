@@ -25,9 +25,9 @@ summary: ''
 - (a) is held for the purposes of functions relating to social security or war pensions—
   - (i) by the Secretary of State or a Northern Ireland department[^c18054931], or
   - (ii) by a person providing services to the Secretary of State or a Northern Ireland department, in connection with the provision of those services, and
-- (b) falls within subsection (1A) or[^key-423430aec15c80938046d8988aba91cc] is of a description prescribed by regulations made by the Secretary of State.
+- (b) falls within subsection (1A) or[^c-423430aec15c80938046d8988aba91cc] is of a description prescribed by regulations made by the Secretary of State.
 
-(1A)[^key-44fa262c22ab0a0aef9cbf05400f2199] Information falls within this subsection if it is—
+(1A)[^c-44fa262c22ab0a0aef9cbf05400f2199] Information falls within this subsection if it is—
 
 - (a) the name, date of birth or national insurance number of a person who is in receipt of a relevant payment, or would be in receipt of such a payment but for—
   - (i) regulations under section 86(1) of the Welfare Reform Act 2012 (treatment as in-patient in hospital or similar institution), or
@@ -45,7 +45,7 @@ summary: ''
 - (a) to the Secretary of State, or
 - (b) to a person providing services to the Secretary of State,
 
-for use for the purposes of relevant [^key-706a0dc565527b5959438e34b124da3a]... licence functions.
+for use for the purposes of relevant [^c-706a0dc565527b5959438e34b124da3a]... licence functions.
 
 (3) The “**consent condition**”, in relation to any information, is that—
 
@@ -59,9 +59,9 @@ has consented to the supply of the information and has not withdrawn that consen
 - (a) be supplied by the recipient to any other person unless—
   - (i) it could be supplied to that person under subsection (2), or
   - (ii) it is supplied for the purposes of any civil or criminal proceedings relating to this Act;
-- (b) be used otherwise than for the purposes of relevant [^key-e99d61693cd6fd6565789c888203c904]... licence functions or any such proceedings.
+- (b) be used otherwise than for the purposes of relevant [^c-e99d61693cd6fd6565789c888203c904]... licence functions or any such proceedings.
 
-(5)[^key-56ac7cd50677d1aef5bd8c0bf91b82e7] In this section “**relevant licence functions**” means functions relating to applications for, and the issue of—
+(5)[^c-56ac7cd50677d1aef5bd8c0bf91b82e7] In this section “**relevant licence functions**” means functions relating to applications for, and the issue of—
 
 - (a) vehicle licences in respect of vehicles to which paragraph 1ZA of Schedule 1 applies, and
 - (b) nil licences in respect of vehicles that are exempt vehicles under paragraph 19 of Schedule 2 or paragraph 7 of Schedule 4.
@@ -74,12 +74,12 @@ has consented to the supply of the information and has not withdrawn that consen
 
 [^c18054931]: Textual amendment: Words in s. 22ZA(1)(a)(i)(ii) inserted (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 15](https://www.legislation.gov.uk/ukpga/2003/14/section/15)
 
-[^key-423430aec15c80938046d8988aba91cc]: Textual amendment: Words in s. 22ZA(1)(b) inserted (retrospective to 8.4.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 37 paras. 3(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/37/paragraph/3/2), [7](https://www.legislation.gov.uk/ukpga/2013/29/schedule/37/paragraph/7)
+[^c-423430aec15c80938046d8988aba91cc]: Textual amendment: Words in s. 22ZA(1)(b) inserted (retrospective to 8.4.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 37 paras. 3(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/37/paragraph/3/2), [7](https://www.legislation.gov.uk/ukpga/2013/29/schedule/37/paragraph/7)
 
-[^key-44fa262c22ab0a0aef9cbf05400f2199]: Textual amendment: S. 22ZA(1A)(1B) inserted (retrospective to 8.4.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 37 paras. 3(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/37/paragraph/3/3), [7](https://www.legislation.gov.uk/ukpga/2013/29/schedule/37/paragraph/7)
+[^c-44fa262c22ab0a0aef9cbf05400f2199]: Textual amendment: S. 22ZA(1A)(1B) inserted (retrospective to 8.4.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 37 paras. 3(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/37/paragraph/3/3), [7](https://www.legislation.gov.uk/ukpga/2013/29/schedule/37/paragraph/7)
 
-[^key-706a0dc565527b5959438e34b124da3a]: Textual amendment: Word in s. 22ZA(2) omitted (retrospective to 8.4.2013) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 37 paras. 3(4)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/37/paragraph/3/4), [7](https://www.legislation.gov.uk/ukpga/2013/29/schedule/37/paragraph/7)
+[^c-706a0dc565527b5959438e34b124da3a]: Textual amendment: Word in s. 22ZA(2) omitted (retrospective to 8.4.2013) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 37 paras. 3(4)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/37/paragraph/3/4), [7](https://www.legislation.gov.uk/ukpga/2013/29/schedule/37/paragraph/7)
 
-[^key-e99d61693cd6fd6565789c888203c904]: Textual amendment: Word in s. 22ZA(4) omitted (retrospective to 8.4.2013) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 37 paras. 3(4)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/37/paragraph/3/4), [7](https://www.legislation.gov.uk/ukpga/2013/29/schedule/37/paragraph/7)
+[^c-e99d61693cd6fd6565789c888203c904]: Textual amendment: Word in s. 22ZA(4) omitted (retrospective to 8.4.2013) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 37 paras. 3(4)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/37/paragraph/3/4), [7](https://www.legislation.gov.uk/ukpga/2013/29/schedule/37/paragraph/7)
 
-[^key-56ac7cd50677d1aef5bd8c0bf91b82e7]: Textual amendment: S. 22ZA(5) substituted (retrospective to 8.4.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 37 paras. 3(5)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/37/paragraph/3/5), [7](https://www.legislation.gov.uk/ukpga/2013/29/schedule/37/paragraph/7)
+[^c-56ac7cd50677d1aef5bd8c0bf91b82e7]: Textual amendment: S. 22ZA(5) substituted (retrospective to 8.4.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 37 paras. 3(5)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/37/paragraph/3/5), [7](https://www.legislation.gov.uk/ukpga/2013/29/schedule/37/paragraph/7)

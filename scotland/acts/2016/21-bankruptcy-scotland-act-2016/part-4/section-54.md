@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 54. Appointment of interim trustee[^key-622cee3b0c02a4f890aedfe5f30fb252]
+## 54. Appointment of interim trustee[^c-622cee3b0c02a4f890aedfe5f30fb252]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-622cee3b0c02a4f890aedfe5f30fb252]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2016/21/section/54) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-622cee3b0c02a4f890aedfe5f30fb252]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2016/21/section/54) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

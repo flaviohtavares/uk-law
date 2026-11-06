@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Enabling or facilitating the conduct of armed hostilities[^key-15d110988bf34c76e16b9133e9854f60][^key-b5f01e1e5e92a143b330633f3a1bec43]
+## 28. Enabling or facilitating the conduct of armed hostilities[^c-15d110988bf34c76e16b9133e9854f60][^c-b5f01e1e5e92a143b330633f3a1bec43]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ where such provision enables or facilitates the conduct of armed hostilities in 
 
 ## Annotations
 
-[^key-15d110988bf34c76e16b9133e9854f60]: Commencement: Reg. 28 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/438/regulation/1/2)
+[^c-15d110988bf34c76e16b9133e9854f60]: Commencement: Reg. 28 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/438/regulation/1/2)
 
-[^key-b5f01e1e5e92a143b330633f3a1bec43]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2019/438/regulation/28) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 6(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/6/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b5f01e1e5e92a143b330633f3a1bec43]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2019/438/regulation/28) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 6(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/6/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32. Election for lump sum instead of pension[^key-9e52a6e890207711017ba9d301f5c2af]
+## 32. Election for lump sum instead of pension[^c-9e52a6e890207711017ba9d301f5c2af]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9e52a6e890207711017ba9d301f5c2af]: Modification: [Reg. 32](https://www.legislation.gov.uk/ssi/2018/141/regulation/32) applied (1.10.2023) by [The Local Government Pension Scheme (Remediable Service) (Scotland) Regulations 2023 (S.S.I. 2023/240)](https://www.legislation.gov.uk/ssi/2023/240), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/240/regulation/1/2), [5(7)](https://www.legislation.gov.uk/ssi/2023/240/regulation/5/7)
+[^c-9e52a6e890207711017ba9d301f5c2af]: Modification: [Reg. 32](https://www.legislation.gov.uk/ssi/2018/141/regulation/32) applied (1.10.2023) by [The Local Government Pension Scheme (Remediable Service) (Scotland) Regulations 2023 (S.S.I. 2023/240)](https://www.legislation.gov.uk/ssi/2023/240), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/240/regulation/1/2), [5(7)](https://www.legislation.gov.uk/ssi/2023/240/regulation/5/7)

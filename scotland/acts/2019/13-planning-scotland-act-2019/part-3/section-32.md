@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32. Duration of planning permission[^key-44399e58ce2a072583352268f03ba4a4]
+## 32. Duration of planning permission[^c-44399e58ce2a072583352268f03ba4a4]
 
 *Extent: S*
 
@@ -79,4 +79,4 @@ summary: ''
 
 ## Annotations
 
-[^key-44399e58ce2a072583352268f03ba4a4]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2019/13/section/32) in force at 1.10.2022 by [S.S.I. 2022/275](https://www.legislation.gov.uk/ssi/2022/275), [reg. 2(2)(b)](https://www.legislation.gov.uk/ssi/2022/275/regulation/2/2/b) (with [reg. 3](https://www.legislation.gov.uk/ssi/2022/275/regulation/3))
+[^c-44399e58ce2a072583352268f03ba4a4]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2019/13/section/32) in force at 1.10.2022 by [S.S.I. 2022/275](https://www.legislation.gov.uk/ssi/2022/275), [reg. 2(2)(b)](https://www.legislation.gov.uk/ssi/2022/275/regulation/2/2/b) (with [reg. 3](https://www.legislation.gov.uk/ssi/2022/275/regulation/3))

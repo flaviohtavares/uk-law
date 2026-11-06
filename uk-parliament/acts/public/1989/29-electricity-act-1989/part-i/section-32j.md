@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32J. Information[^key-874d0cf502973c159148a6c55bbf79a8]
+## 32J. Information[^c-874d0cf502973c159148a6c55bbf79a8]
 
 *Extent: E+W+S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-874d0cf502973c159148a6c55bbf79a8]: Textual amendment: Ss. 32-32M substituted for (26.11.2008 for specified purposes, 1.4.2009 in so far as not already in force) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 37](https://www.legislation.gov.uk/ukpga/2008/32/section/37), [110(1)(a)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/1/a) (with [s. 38](https://www.legislation.gov.uk/ukpga/2008/32/section/38)); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), art. 3(a) (with art. 5)
+[^c-874d0cf502973c159148a6c55bbf79a8]: Textual amendment: Ss. 32-32M substituted for (26.11.2008 for specified purposes, 1.4.2009 in so far as not already in force) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 37](https://www.legislation.gov.uk/ukpga/2008/32/section/37), [110(1)(a)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/1/a) (with [s. 38](https://www.legislation.gov.uk/ukpga/2008/32/section/38)); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), art. 3(a) (with art. 5)

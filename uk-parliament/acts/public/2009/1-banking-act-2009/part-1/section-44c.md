@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44C. Report on special bail-in provision[^key-8a7044acb31a6bd5e8e3a995810d10f0]
+## 44C. Report on special bail-in provision[^c-8a7044acb31a6bd5e8e3a995810d10f0]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8a7044acb31a6bd5e8e3a995810d10f0]: Textual amendment: Ss. 44A-44C inserted (31.12.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5), [Sch. 2 para. 5(3)](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/5/3); [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
+[^c-8a7044acb31a6bd5e8e3a995810d10f0]: Textual amendment: Ss. 44A-44C inserted (31.12.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5), [Sch. 2 para. 5(3)](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/5/3); [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)

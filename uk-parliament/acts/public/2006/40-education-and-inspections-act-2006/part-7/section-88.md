@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Responsibility of governing body for discipline[^key-a26d567f93a975c58270fd1a57d1c086][^key-84e486626f53b158c16cf796eabad33d][^key-7f9a8acc5c2416850e4db8a8f4d1884d]
+## 88. Responsibility of governing body for discipline[^c-a26d567f93a975c58270fd1a57d1c086][^c-84e486626f53b158c16cf796eabad33d][^c-7f9a8acc5c2416850e4db8a8f4d1884d]
 
 *Extent: E+W*
 
@@ -48,15 +48,15 @@ summary: ''
   - (b) a community or foundation special school,
   - (c) a maintained nursery school,
   - (d) a pupil referral unit, or
-  - (e) a school approved by the Secretary of State [^key-f5225197e0404c667c5aedb6549fe8e3]...under section 342 of EA 1996 (approval of non-maintained special schools);
-- “**governing body**”, in relation to a school approved by the Secretary of State [^key-f5225197e0404c667c5aedb6549fe8e3]...under section 342 of EA 1996, means the proprietor of the school.
+  - (e) a school approved by the Secretary of State [^c-f5225197e0404c667c5aedb6549fe8e3]...under section 342 of EA 1996 (approval of non-maintained special schools);
+- “**governing body**”, in relation to a school approved by the Secretary of State [^c-f5225197e0404c667c5aedb6549fe8e3]...under section 342 of EA 1996, means the proprietor of the school.
 
 ## Annotations
 
-[^key-a26d567f93a975c58270fd1a57d1c086]: Commencement: S. 88 in force at 1.4.2007 for E. by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 4(a)](https://www.legislation.gov.uk/uksi/2007/935/article/4/a)
+[^c-a26d567f93a975c58270fd1a57d1c086]: Commencement: S. 88 in force at 1.4.2007 for E. by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 4(a)](https://www.legislation.gov.uk/uksi/2007/935/article/4/a)
 
-[^key-84e486626f53b158c16cf796eabad33d]: Modification: S. 88 applied (with modifications) (25.5.2007) by [The School Governance (New Schools) (England) Regulations 2007 (S.I. 2007/958)](https://www.legislation.gov.uk/uksi/2007/958), [regs. 1](https://www.legislation.gov.uk/uksi/2007/958/regulation/1), [30](https://www.legislation.gov.uk/uksi/2007/958/regulation/30)
+[^c-84e486626f53b158c16cf796eabad33d]: Modification: S. 88 applied (with modifications) (25.5.2007) by [The School Governance (New Schools) (England) Regulations 2007 (S.I. 2007/958)](https://www.legislation.gov.uk/uksi/2007/958), [regs. 1](https://www.legislation.gov.uk/uksi/2007/958/regulation/1), [30](https://www.legislation.gov.uk/uksi/2007/958/regulation/30)
 
-[^key-7f9a8acc5c2416850e4db8a8f4d1884d]: Commencement: S. 88 in force at 31.10.2010 for W. by [S.I. 2010/2543](https://www.legislation.gov.uk/uksi/2010/2543), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2543/article/2/a)
+[^c-7f9a8acc5c2416850e4db8a8f4d1884d]: Commencement: S. 88 in force at 31.10.2010 for W. by [S.I. 2010/2543](https://www.legislation.gov.uk/uksi/2010/2543), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2543/article/2/a)
 
-[^key-f5225197e0404c667c5aedb6549fe8e3]: Textual amendment: Words in [s. 88(5)](https://www.legislation.gov.uk/ukpga/2006/40/section/88/5) omitted (1.9.2021) by virtue of [The Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Consequential Amendments) Regulations 2021 (S.I. 2021/861)](https://www.legislation.gov.uk/wsi/2021/861), [regs. 1](https://www.legislation.gov.uk/wsi/2021/861/regulation/1), [8(3)](https://www.legislation.gov.uk/wsi/2021/861/regulation/8/3)
+[^c-f5225197e0404c667c5aedb6549fe8e3]: Textual amendment: Words in [s. 88(5)](https://www.legislation.gov.uk/ukpga/2006/40/section/88/5) omitted (1.9.2021) by virtue of [The Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Consequential Amendments) Regulations 2021 (S.I. 2021/861)](https://www.legislation.gov.uk/wsi/2021/861), [regs. 1](https://www.legislation.gov.uk/wsi/2021/861/regulation/1), [8(3)](https://www.legislation.gov.uk/wsi/2021/861/regulation/8/3)

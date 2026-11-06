@@ -35,44 +35,44 @@ laying down implementing technical standards with regard to the procedures to be
 
 (Text with EEA relevance) (revoked)
 
-[^key-ac9aa06369726c25e56d486b79576c51]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ac9aa06369726c25e56d486b79576c51]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. General features of the application[^key-ac9aa06369726c25e56d486b79576c51]
+## Article 1. General features of the application[^c-ac9aa06369726c25e56d486b79576c51]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Cover letter[^key-ac9aa06369726c25e56d486b79576c51]
+## Article 2. Cover letter[^c-ac9aa06369726c25e56d486b79576c51]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Supporting evidence regarding the amount or method[^key-ac9aa06369726c25e56d486b79576c51]
+## Article 3. Supporting evidence regarding the amount or method[^c-ac9aa06369726c25e56d486b79576c51]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Supporting evidence regarding the criteria for approval[^key-ac9aa06369726c25e56d486b79576c51]
+## Article 4. Supporting evidence regarding the criteria for approval[^c-ac9aa06369726c25e56d486b79576c51]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Assessment of the application[^key-ac9aa06369726c25e56d486b79576c51]
+## Article 5. Assessment of the application[^c-ac9aa06369726c25e56d486b79576c51]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Decision on the application[^key-ac9aa06369726c25e56d486b79576c51]
+## Article 6. Decision on the application[^c-ac9aa06369726c25e56d486b79576c51]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Revision of the approved amount or withdrawal of the approval of the method[^key-ac9aa06369726c25e56d486b79576c51]
+## Article 7. Revision of the approved amount or withdrawal of the approval of the method[^c-ac9aa06369726c25e56d486b79576c51]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Entry into force[^key-ac9aa06369726c25e56d486b79576c51]
+## Article 8. Entry into force[^c-ac9aa06369726c25e56d486b79576c51]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ac9aa06369726c25e56d486b79576c51]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ac9aa06369726c25e56d486b79576c51]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ac9aa06369726c25e56d486b79576c51]: Textual amendment: Regulation revoked (31.12.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2024/620](https://www.legislation.gov.uk/uksi/2024/620), [Sch.](https://www.legislation.gov.uk/uksi/2024/620/schedule) (with savings in relation to a Gibraltar group or a Gibraltar undertaking in [S.I. 2024/1083](https://www.legislation.gov.uk/uksi/2024/1083), [reg. 3](https://www.legislation.gov.uk/uksi/2024/1083/regulation/3))
+[^c-ac9aa06369726c25e56d486b79576c51]: Textual amendment: Regulation revoked (31.12.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2024/620](https://www.legislation.gov.uk/uksi/2024/620), [Sch.](https://www.legislation.gov.uk/uksi/2024/620/schedule) (with savings in relation to a Gibraltar group or a Gibraltar undertaking in [S.I. 2024/1083](https://www.legislation.gov.uk/uksi/2024/1083), [reg. 3](https://www.legislation.gov.uk/uksi/2024/1083/regulation/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103. Sections 97 to 100: Scotland[^key-6f2b598e4a7abf57afe6bf4fe699a762][^key-6b93502792fbb09e3c6127e2acb366ba]
+## 103. Sections 97 to 100: Scotland[^c-6f2b598e4a7abf57afe6bf4fe699a762][^c-6b93502792fbb09e3c6127e2acb366ba]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6f2b598e4a7abf57afe6bf4fe699a762]: Textual amendment: [Ss. 97-103](https://www.legislation.gov.uk/ukpga/2003/42/section/97) omitted (E.W.) (29.11.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 169(5)](https://www.legislation.gov.uk/ukpga/2022/32/section/169/5), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1) (with [s. 169(7)](https://www.legislation.gov.uk/ukpga/2022/32/section/169/7)[(8)](https://www.legislation.gov.uk/ukpga/2022/32/section/169/8)); [S.I. 2022/1227](https://www.legislation.gov.uk/uksi/2022/1227), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/1227/regulation/3/b)
+[^c-6f2b598e4a7abf57afe6bf4fe699a762]: Textual amendment: [Ss. 97-103](https://www.legislation.gov.uk/ukpga/2003/42/section/97) omitted (E.W.) (29.11.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 169(5)](https://www.legislation.gov.uk/ukpga/2022/32/section/169/5), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1) (with [s. 169(7)](https://www.legislation.gov.uk/ukpga/2022/32/section/169/7)[(8)](https://www.legislation.gov.uk/ukpga/2022/32/section/169/8)); [S.I. 2022/1227](https://www.legislation.gov.uk/uksi/2022/1227), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/1227/regulation/3/b)
 
-[^key-6b93502792fbb09e3c6127e2acb366ba]: Textual amendment: [S. 103](https://www.legislation.gov.uk/ukpga/2003/42/section/103) omitted (S.) (29.11.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 170(6)](https://www.legislation.gov.uk/ukpga/2022/32/section/170/6), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/1227](https://www.legislation.gov.uk/uksi/2022/1227), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2022/1227/regulation/3/c)
+[^c-6b93502792fbb09e3c6127e2acb366ba]: Textual amendment: [S. 103](https://www.legislation.gov.uk/ukpga/2003/42/section/103) omitted (S.) (29.11.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 170(6)](https://www.legislation.gov.uk/ukpga/2022/32/section/170/6), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/1227](https://www.legislation.gov.uk/uksi/2022/1227), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2022/1227/regulation/3/c)

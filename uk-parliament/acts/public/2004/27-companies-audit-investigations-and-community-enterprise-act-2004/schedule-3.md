@@ -24,7 +24,7 @@ Section 27
 
 ### Regulator’s terms of appointment
 
-**1.**[^key-7e237b6b6842510a49518dab5627b3cb] (1) The period for which a person is appointed as Regulator must not exceed five years.
+**1.**[^c-7e237b6b6842510a49518dab5627b3cb] (1) The period for which a person is appointed as Regulator must not exceed five years.
 
 (2) A person who has held office as Regulator may be re-appointed, once only, for a further period not exceeding five years.
 
@@ -36,7 +36,7 @@ Section 27
 
 ### Remuneration and pensions
 
-**2.**[^key-0982cfe6043ec0cbd33e94a213403cdc] (1) The Secretary of State may pay remuneration and travelling and other allowances to the Regulator.
+**2.**[^c-0982cfe6043ec0cbd33e94a213403cdc] (1) The Secretary of State may pay remuneration and travelling and other allowances to the Regulator.
 
 (2) The Secretary of State may—
 
@@ -45,7 +45,7 @@ Section 27
 
 ### Staff
 
-**3.**[^key-28202779a2c89df70cc3b3d54924d978] (1) The Regulator may, after consulting the Minister for the Civil Service as to numbers and terms and conditions of service, appoint such staff as the Regulator may determine.
+**3.**[^c-28202779a2c89df70cc3b3d54924d978] (1) The Regulator may, after consulting the Minister for the Civil Service as to numbers and terms and conditions of service, appoint such staff as the Regulator may determine.
 
 (2) The members of staff must include a deputy to the Regulator who is to act as Regulator—
 
@@ -54,22 +54,22 @@ Section 27
 
 (3) Where a participant in a scheme under section 1 of the Superannuation Act 1972 (c. 11) is appointed as the Regulator, the Minister for the Civil Service may determine that the person’s term of office as the Regulator is to be treated for the purposes of the scheme as service in the employment by reference to which he was a participant (whether or not any benefits are payable by virtue of paragraph 2(2)).
 
-**4.**[^key-a24ec60c22f44212bc10e45084abc244] The person appointed to chair the Charity Commission may make available to the Regulator, to assist in the exercise of the Regulator's functions—
+**4.**[^c-a24ec60c22f44212bc10e45084abc244] The person appointed to chair the Charity Commission may make available to the Regulator, to assist in the exercise of the Regulator's functions—
 
 - (a) any other member of the Commission appointed under paragraph 1(1) of Schedule 1 to the Charities Act 2011, or
 - (b) any member of staff of the Commission appointed under paragraph 5(1) of that Schedule.
 
 ### Delegation of functions
 
-**5.**[^key-f4d8cf5502bad0da692d1dfc726788e7] Anything which the Regulator is authorised or required to do may be done by a member of the Regulator’s staff if authorised by the Regulator (generally or specifically) for that purpose.
+**5.**[^c-f4d8cf5502bad0da692d1dfc726788e7] Anything which the Regulator is authorised or required to do may be done by a member of the Regulator’s staff if authorised by the Regulator (generally or specifically) for that purpose.
 
 ### Finance
 
-**6.**[^key-88e131b778cd048359cc119d3754dffa] The Secretary of State may make payments to the Regulator.
+**6.**[^c-88e131b778cd048359cc119d3754dffa] The Secretary of State may make payments to the Regulator.
 
 ### Reports and other information
 
-**7.**[^key-258cc5cb753cfa9a9df48f1f268cffd5] (1) The Regulator must, in respect of each financial year, prepare a report on the exercise of the Regulator’s functions during the financial year.
+**7.**[^c-258cc5cb753cfa9a9df48f1f268cffd5] (1) The Regulator must, in respect of each financial year, prepare a report on the exercise of the Regulator’s functions during the financial year.
 
 (2) The Regulator must prepare accounts in respect of a financial year if the Secretary of State so directs.
 
@@ -97,26 +97,26 @@ Section 27
 
 ### Amendments
 
-**8.**[^key-182402936cdd13f71924d14c16e58223] In Schedule 2 to the Parliamentary Commissioner Act 1967 (c. 13) (departments and authorities subject to investigation), insert at the appropriate place— “ Office of the Regulator of Community Interest Companies. ”
+**8.**[^c-182402936cdd13f71924d14c16e58223] In Schedule 2 to the Parliamentary Commissioner Act 1967 (c. 13) (departments and authorities subject to investigation), insert at the appropriate place— “ Office of the Regulator of Community Interest Companies. ”
 
-**9.**[^key-cfbb5309a69c17fb876e4a5c90c9bcdd] In Part 3 of Schedule 1 to the House of Commons Disqualification Act 1975 (c. 24) (disqualifying offices), insert at the appropriate place— “ Regulator of Community Interest Companies. ”
+**9.**[^c-cfbb5309a69c17fb876e4a5c90c9bcdd] In Part 3 of Schedule 1 to the House of Commons Disqualification Act 1975 (c. 24) (disqualifying offices), insert at the appropriate place— “ Regulator of Community Interest Companies. ”
 
 ## Annotations
 
-[^key-7e237b6b6842510a49518dab5627b3cb]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2004/27/schedule/3/paragraph/1) in force at 1.1.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/3322/schedule/1)
+[^c-7e237b6b6842510a49518dab5627b3cb]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2004/27/schedule/3/paragraph/1) in force at 1.1.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/3322/schedule/1)
 
-[^key-0982cfe6043ec0cbd33e94a213403cdc]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2004/27/schedule/3/paragraph/2) in force at 1.1.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/3322/schedule/1)
+[^c-0982cfe6043ec0cbd33e94a213403cdc]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2004/27/schedule/3/paragraph/2) in force at 1.1.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/3322/schedule/1)
 
-[^key-28202779a2c89df70cc3b3d54924d978]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2004/27/schedule/3/paragraph/3) in force at 1.1.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/3322/schedule/1)
+[^c-28202779a2c89df70cc3b3d54924d978]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2004/27/schedule/3/paragraph/3) in force at 1.1.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/3322/schedule/1)
 
-[^key-a24ec60c22f44212bc10e45084abc244]: Textual amendment: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2004/27/schedule/3/paragraph/4) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 100](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/100) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
+[^c-a24ec60c22f44212bc10e45084abc244]: Textual amendment: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2004/27/schedule/3/paragraph/4) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 100](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/100) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
 
-[^key-f4d8cf5502bad0da692d1dfc726788e7]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2004/27/schedule/3/paragraph/5) in force at 1.1.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/3322/schedule/1)
+[^c-f4d8cf5502bad0da692d1dfc726788e7]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2004/27/schedule/3/paragraph/5) in force at 1.1.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/3322/schedule/1)
 
-[^key-88e131b778cd048359cc119d3754dffa]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2004/27/schedule/3/paragraph/6) in force at 1.1.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/3322/schedule/1)
+[^c-88e131b778cd048359cc119d3754dffa]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2004/27/schedule/3/paragraph/6) in force at 1.1.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/3322/schedule/1)
 
-[^key-258cc5cb753cfa9a9df48f1f268cffd5]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2004/27/schedule/3/paragraph/7) in force at 1.1.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/3322/schedule/1)
+[^c-258cc5cb753cfa9a9df48f1f268cffd5]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2004/27/schedule/3/paragraph/7) in force at 1.1.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/3322/schedule/1)
 
-[^key-182402936cdd13f71924d14c16e58223]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2004/27/schedule/3/paragraph/8) in force at 1.1.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/3322/schedule/1)
+[^c-182402936cdd13f71924d14c16e58223]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2004/27/schedule/3/paragraph/8) in force at 1.1.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/3322/schedule/1)
 
-[^key-cfbb5309a69c17fb876e4a5c90c9bcdd]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2004/27/schedule/3/paragraph/9) in force at 1.1.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/3322/schedule/1)
+[^c-cfbb5309a69c17fb876e4a5c90c9bcdd]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2004/27/schedule/3/paragraph/9) in force at 1.1.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/3322/schedule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 8. Periods of membership: “total membership”[^key-e590609580fb4264cc1b75afd367dfce]
+## 8. Periods of membership: “total membership”[^c-e590609580fb4264cc1b75afd367dfce]
 
 *Extent: E+W+S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e590609580fb4264cc1b75afd367dfce]: Commencement: Reg. 8 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-e590609580fb4264cc1b75afd367dfce]: Commencement: Reg. 8 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

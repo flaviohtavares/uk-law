@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 3IA — Sectoral software and technology[^key-d1742675bb7b779a09f67b60c780c59f]
+## Schedule 3IA — Sectoral software and technology[^c-d1742675bb7b779a09f67b60c780c59f]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,4 +63,4 @@ Regulation 21(1)
 
 ## Annotations
 
-[^key-d1742675bb7b779a09f67b60c780c59f]: Textual amendment: Sch. 3IA inserted (24.4.2025) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/504)](https://www.legislation.gov.uk/uksi/2025/504), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/504/regulation/1/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2025/504/schedule/5) (with [reg. 17](https://www.legislation.gov.uk/uksi/2025/504/regulation/17))
+[^c-d1742675bb7b779a09f67b60c780c59f]: Textual amendment: Sch. 3IA inserted (24.4.2025) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/504)](https://www.legislation.gov.uk/uksi/2025/504), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/504/regulation/1/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2025/504/schedule/5) (with [reg. 17](https://www.legislation.gov.uk/uksi/2025/504/regulation/17))

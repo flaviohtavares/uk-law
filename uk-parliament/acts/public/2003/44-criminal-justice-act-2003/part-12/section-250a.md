@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 250A. Driving prohibition condition[^key-30e4f63ceb1265743a7674ebb357aa3f]
+## 250A. Driving prohibition condition[^c-30e4f63ceb1265743a7674ebb357aa3f]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-30e4f63ceb1265743a7674ebb357aa3f]: Textual amendment: S. 250A inserted (1.10.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 27(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/27/4), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1) (with [s. 27(9)](https://www.legislation.gov.uk/ukpga/2026/2/section/27/9)); [S.I. 2026/772](https://www.legislation.gov.uk/uksi/2026/772), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2026/772/regulation/3/i) (as amended by [S.I. 2026/948](https://www.legislation.gov.uk/uksi/2026/948), [reg. 2](https://www.legislation.gov.uk/uksi/2026/948/regulation/2))
+[^c-30e4f63ceb1265743a7674ebb357aa3f]: Textual amendment: S. 250A inserted (1.10.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 27(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/27/4), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1) (with [s. 27(9)](https://www.legislation.gov.uk/ukpga/2026/2/section/27/9)); [S.I. 2026/772](https://www.legislation.gov.uk/uksi/2026/772), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2026/772/regulation/3/i) (as amended by [S.I. 2026/948](https://www.legislation.gov.uk/uksi/2026/948), [reg. 2](https://www.legislation.gov.uk/uksi/2026/948/regulation/2))

@@ -36,156 +36,156 @@ supplementing Regulation (EU) No 236/2012 of the European Parliament and of the 
 
 (Text with EEA relevance) (revoked)
 
-[^key-e88066101683c3793887a0b64cc77085]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e88066101683c3793887a0b64cc77085]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## CHAPTER I — GENERAL[^key-e88066101683c3793887a0b64cc77085]
+## CHAPTER I — GENERAL[^c-e88066101683c3793887a0b64cc77085]
 
-### Article 1. Subject matter[^key-e88066101683c3793887a0b64cc77085]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Article 2. Definitions[^key-e88066101683c3793887a0b64cc77085]
+### Article 1. Subject matter[^c-e88066101683c3793887a0b64cc77085]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER II — SUPPLEMENTARY SPECIFICATION OF DEFINITIONS PURSUANT TO ARTICLE 2(2) AND ARTICLE 3(7)(a)[^key-e88066101683c3793887a0b64cc77085]
-
-### Article 3. Specification of the term ‘ownership’ and defining a short sale[^key-e88066101683c3793887a0b64cc77085]
+### Article 2. Definitions[^c-e88066101683c3793887a0b64cc77085]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 4. Holding[^key-e88066101683c3793887a0b64cc77085]
+## CHAPTER II — SUPPLEMENTARY SPECIFICATION OF DEFINITIONS PURSUANT TO ARTICLE 2(2) AND ARTICLE 3(7)(a)[^c-e88066101683c3793887a0b64cc77085]
+
+### Article 3. Specification of the term ‘ownership’ and defining a short sale[^c-e88066101683c3793887a0b64cc77085]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER III — NET SHORT POSITIONS PURSUANT TO ARTICLE 3(7)(b)[^key-e88066101683c3793887a0b64cc77085]
-
-### Article 5. Net short positions in shares — long positions[^key-e88066101683c3793887a0b64cc77085]
+### Article 4. Holding[^c-e88066101683c3793887a0b64cc77085]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 6. Net short positions in shares — short positions[^key-e88066101683c3793887a0b64cc77085]
+## CHAPTER III — NET SHORT POSITIONS PURSUANT TO ARTICLE 3(7)(b)[^c-e88066101683c3793887a0b64cc77085]
+
+### Article 5. Net short positions in shares — long positions[^c-e88066101683c3793887a0b64cc77085]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 7. Net short positions in shares — general[^key-e88066101683c3793887a0b64cc77085]
+### Article 6. Net short positions in shares — short positions[^c-e88066101683c3793887a0b64cc77085]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 8. Net short position in sovereign debt — long positions[^key-e88066101683c3793887a0b64cc77085]
+### Article 7. Net short positions in shares — general[^c-e88066101683c3793887a0b64cc77085]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 9. Net short positions in sovereign debt — short positions[^key-e88066101683c3793887a0b64cc77085]
+### Article 8. Net short position in sovereign debt — long positions[^c-e88066101683c3793887a0b64cc77085]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 10. Method of calculation of net short positions in relation to shares[^key-e88066101683c3793887a0b64cc77085]
+### Article 9. Net short positions in sovereign debt — short positions[^c-e88066101683c3793887a0b64cc77085]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 11. Calculation of net short positions for sovereign debt[^key-e88066101683c3793887a0b64cc77085]
+### Article 10. Method of calculation of net short positions in relation to shares[^c-e88066101683c3793887a0b64cc77085]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER IV — NET SHORT POSITIONS IN FUNDS OR GROUPS PURSUANT TO ARTICLE 3(7)(c)[^key-e88066101683c3793887a0b64cc77085]
-
-### Article 12. Method of calculating positions for management activities related to several funds or managed portfolios[^key-e88066101683c3793887a0b64cc77085]
+### Article 11. Calculation of net short positions for sovereign debt[^c-e88066101683c3793887a0b64cc77085]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 13. Method of calculating positions for legal entities within a group that have long or short positions in relation to a particular issuer[^key-e88066101683c3793887a0b64cc77085]
+## CHAPTER IV — NET SHORT POSITIONS IN FUNDS OR GROUPS PURSUANT TO ARTICLE 3(7)(c)[^c-e88066101683c3793887a0b64cc77085]
+
+### Article 12. Method of calculating positions for management activities related to several funds or managed portfolios[^c-e88066101683c3793887a0b64cc77085]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER V — COVERED SOVEREIGN CREDIT DEFAULT SWAPS PURSUANT TO ARTICLE 4(2)[^key-e88066101683c3793887a0b64cc77085]
-
-### Article 14. Cases which are not uncovered sovereign credit default swap positions[^key-e88066101683c3793887a0b64cc77085]
+### Article 13. Method of calculating positions for legal entities within a group that have long or short positions in relation to a particular issuer[^c-e88066101683c3793887a0b64cc77085]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 15. Cases which are not uncovered sovereign credit default swap positions where the obligor is established or the asset or liability is located in the United Kingdom and a third country[^key-e88066101683c3793887a0b64cc77085]
+## CHAPTER V — COVERED SOVEREIGN CREDIT DEFAULT SWAPS PURSUANT TO ARTICLE 4(2)[^c-e88066101683c3793887a0b64cc77085]
+
+### Article 14. Cases which are not uncovered sovereign credit default swap positions[^c-e88066101683c3793887a0b64cc77085]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 16. Justification of uncovered sovereign credit default swap positions[^key-e88066101683c3793887a0b64cc77085]
+### Article 15. Cases which are not uncovered sovereign credit default swap positions where the obligor is established or the asset or liability is located in the United Kingdom and a third country[^c-e88066101683c3793887a0b64cc77085]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 17. Hedged assets and liabilities[^key-e88066101683c3793887a0b64cc77085]
+### Article 16. Justification of uncovered sovereign credit default swap positions[^c-e88066101683c3793887a0b64cc77085]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 18. Correlation tests[^key-e88066101683c3793887a0b64cc77085]
+### Article 17. Hedged assets and liabilities[^c-e88066101683c3793887a0b64cc77085]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 19. Proportionality[^key-e88066101683c3793887a0b64cc77085]
+### Article 18. Correlation tests[^c-e88066101683c3793887a0b64cc77085]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 20. Method of calculation of an uncovered sovereign credit default swap position[^key-e88066101683c3793887a0b64cc77085]
+### Article 19. Proportionality[^c-e88066101683c3793887a0b64cc77085]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER VI — NOTIFICATION THRESHOLDS FOR NET SHORT POSITIONS IN SOVEREIGN DEBT PURSUANT TO ARTICLE 7(3)[^key-e88066101683c3793887a0b64cc77085]
-
-### Article 21. Notification thresholds for net short positions relating to the issued sovereign debt[^key-e88066101683c3793887a0b64cc77085]
+### Article 20. Method of calculation of an uncovered sovereign credit default swap position[^c-e88066101683c3793887a0b64cc77085]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER VII — PARAMETERS AND METHODS FOR CALCULATING LIQUIDITY THRESHOLD FOR SUSPENDING RESTRICTIONS ON SHORT SALES OF SOVEREIGN DEBT PURSUANT TO ARTICLE 13(4)[^key-e88066101683c3793887a0b64cc77085]
+## CHAPTER VI — NOTIFICATION THRESHOLDS FOR NET SHORT POSITIONS IN SOVEREIGN DEBT PURSUANT TO ARTICLE 7(3)[^c-e88066101683c3793887a0b64cc77085]
 
-### Article 22. Methods for calculating and determining the threshold of liquidity for suspending restrictions on short sales in sovereign debt[^key-e88066101683c3793887a0b64cc77085]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## CHAPTER VIII — SIGNIFICANT FALL IN VALUE FOR FINANCIAL INSTRUMENTS OTHER THAN LIQUID SHARES PURSUANT TO ARTICLE 23[^key-e88066101683c3793887a0b64cc77085]
-
-### Article 23. Significant fall in value for financial instruments other than liquid shares[^key-e88066101683c3793887a0b64cc77085]
+### Article 21. Notification thresholds for net short positions relating to the issued sovereign debt[^c-e88066101683c3793887a0b64cc77085]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER IX — ADVERSE EVENTS OR DEVELOPMENTS PURSUANT TO ARTICLE 30[^key-e88066101683c3793887a0b64cc77085]
+## CHAPTER VII — PARAMETERS AND METHODS FOR CALCULATING LIQUIDITY THRESHOLD FOR SUSPENDING RESTRICTIONS ON SHORT SALES OF SOVEREIGN DEBT PURSUANT TO ARTICLE 13(4)[^c-e88066101683c3793887a0b64cc77085]
 
-### Article 24. Criteria and factors to be taken into account in determining when adverse events or developments and threats arise[^key-e88066101683c3793887a0b64cc77085]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Article 25. Entry into force[^key-e88066101683c3793887a0b64cc77085]
+### Article 22. Methods for calculating and determining the threshold of liquidity for suspending restrictions on short sales in sovereign debt[^c-e88066101683c3793887a0b64cc77085]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e88066101683c3793887a0b64cc77085]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## CHAPTER VIII — SIGNIFICANT FALL IN VALUE FOR FINANCIAL INSTRUMENTS OTHER THAN LIQUID SHARES PURSUANT TO ARTICLE 23[^c-e88066101683c3793887a0b64cc77085]
+
+### Article 23. Significant fall in value for financial instruments other than liquid shares[^c-e88066101683c3793887a0b64cc77085]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## CHAPTER IX — ADVERSE EVENTS OR DEVELOPMENTS PURSUANT TO ARTICLE 30[^c-e88066101683c3793887a0b64cc77085]
+
+### Article 24. Criteria and factors to be taken into account in determining when adverse events or developments and threats arise[^c-e88066101683c3793887a0b64cc77085]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Article 25. Entry into force[^c-e88066101683c3793887a0b64cc77085]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-e88066101683c3793887a0b64cc77085]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I[^key-e88066101683c3793887a0b64cc77085]
+## ANNEX I[^c-e88066101683c3793887a0b64cc77085]
 
-### PART 1[^key-e88066101683c3793887a0b64cc77085]
+### PART 1[^c-e88066101683c3793887a0b64cc77085]
 
-[^key-e88066101683c3793887a0b64cc77085]*Article 5 and 6*
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### PART 2[^key-e88066101683c3793887a0b64cc77085]
-
-[^key-e88066101683c3793887a0b64cc77085]*Article 7*
+[^c-e88066101683c3793887a0b64cc77085]*Article 5 and 6*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-e88066101683c3793887a0b64cc77085]
+### PART 2[^c-e88066101683c3793887a0b64cc77085]
 
-### PART 1 — The delta-adjusted model for shares[^key-e88066101683c3793887a0b64cc77085]
+[^c-e88066101683c3793887a0b64cc77085]*Article 7*
 
-**Article 10.**[^key-e88066101683c3793887a0b64cc77085] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — The delta-adjusted model for sovereign debt[^key-e88066101683c3793887a0b64cc77085]
+## ANNEX II[^c-e88066101683c3793887a0b64cc77085]
 
-**Article 11.**[^key-e88066101683c3793887a0b64cc77085] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### PART 1 — The delta-adjusted model for shares[^c-e88066101683c3793887a0b64cc77085]
+
+**Article 10.**[^c-e88066101683c3793887a0b64cc77085] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART 2 — The delta-adjusted model for sovereign debt[^c-e88066101683c3793887a0b64cc77085]
+
+**Article 11.**[^c-e88066101683c3793887a0b64cc77085] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e88066101683c3793887a0b64cc77085]: Textual amendment: Regulation revoked (13.7.2026) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pts. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1), [3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2026/587](https://www.legislation.gov.uk/uksi/2026/587), [reg. 2(d)(iii)](https://www.legislation.gov.uk/uksi/2026/587/regulation/2/d/iii)
+[^c-e88066101683c3793887a0b64cc77085]: Textual amendment: Regulation revoked (13.7.2026) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pts. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1), [3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2026/587](https://www.legislation.gov.uk/uksi/2026/587), [reg. 2(d)(iii)](https://www.legislation.gov.uk/uksi/2026/587/regulation/2/d/iii)

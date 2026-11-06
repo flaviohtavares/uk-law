@@ -109,7 +109,7 @@ Section 76.
 
 ### The Maintenance Orders Act 1958 (c.39)
 
-**22.**[^key-9c9175f3556d4850e2c3ab9bc58f87a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-9c9175f3556d4850e2c3ab9bc58f87a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Licensing Act 1964 (c.26)
 
@@ -151,9 +151,9 @@ Section 76.
 
 ### The Magistrates’ Courts Act 1980 (c.43)
 
-**33.**[^key-024d4954a867ae7b3558494a11321f43] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**33.**[^c-024d4954a867ae7b3558494a11321f43] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**34.**[^key-412ab4d13ebc0e3e0f12ae5c455eb040] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**34.**[^c-412ab4d13ebc0e3e0f12ae5c455eb040] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **35.** [^c19085401]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -274,7 +274,7 @@ Section 76.
 
 [^c19085101]: Textual amendment: [Sch. 10 para. 21(a)](https://www.legislation.gov.uk/ukpga/1999/22/schedule/10/paragraph/21/a) repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [ss. 109(3)](https://www.legislation.gov.uk/ukpga/2003/39/section/109/3), [110](https://www.legislation.gov.uk/ukpga/2003/39/section/110), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(aa)(bb)](https://www.legislation.gov.uk/uksi/2005/910/article/3/aa/bb)
 
-[^key-9c9175f3556d4850e2c3ab9bc58f87a0]: Textual amendment: [Sch. 10 para. 22](https://www.legislation.gov.uk/ukpga/1999/22/schedule/10/paragraph/22) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 99](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/99); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-9c9175f3556d4850e2c3ab9bc58f87a0]: Textual amendment: [Sch. 10 para. 22](https://www.legislation.gov.uk/ukpga/1999/22/schedule/10/paragraph/22) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 99](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/99); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c19085171]: Textual amendment: [Sch. 10 paras. 23-29](https://www.legislation.gov.uk/ukpga/1999/22/schedule/10/paragraph/23) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [ss. 199](https://www.legislation.gov.uk/ukpga/2003/17/section/199), [201](https://www.legislation.gov.uk/ukpga/2003/17/section/201), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
 
@@ -298,9 +298,9 @@ Section 76.
 
 [^c19085391]: Textual amendment: [Sch. 10 para. 32](https://www.legislation.gov.uk/ukpga/1999/22/schedule/10/paragraph/32) repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [ss. 109(3)](https://www.legislation.gov.uk/ukpga/2003/39/section/109/3), [110](https://www.legislation.gov.uk/ukpga/2003/39/section/110), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(aa)(bb)](https://www.legislation.gov.uk/uksi/2005/910/article/3/aa/bb)
 
-[^key-024d4954a867ae7b3558494a11321f43]: Textual amendment: Sch. 10 para. 33 repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 99](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/99); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-024d4954a867ae7b3558494a11321f43]: Textual amendment: Sch. 10 para. 33 repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 99](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/99); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-412ab4d13ebc0e3e0f12ae5c455eb040]: Textual amendment: [Sch. 10 para. 34](https://www.legislation.gov.uk/ukpga/1999/22/schedule/10/paragraph/34) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 99](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/99); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-412ab4d13ebc0e3e0f12ae5c455eb040]: Textual amendment: [Sch. 10 para. 34](https://www.legislation.gov.uk/ukpga/1999/22/schedule/10/paragraph/34) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 99](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/99); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c19085401]: Textual amendment: [Sch. 10 para. 35](https://www.legislation.gov.uk/ukpga/1999/22/schedule/10/paragraph/35) repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [ss. 109(3)](https://www.legislation.gov.uk/ukpga/2003/39/section/109/3), [110](https://www.legislation.gov.uk/ukpga/2003/39/section/110), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(aa)(bb)](https://www.legislation.gov.uk/uksi/2005/910/article/3/aa/bb)
 

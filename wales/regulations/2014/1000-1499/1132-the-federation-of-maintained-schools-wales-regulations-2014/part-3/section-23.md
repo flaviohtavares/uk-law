@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Representative governors[^key-72b9f6eea3fbc8652d97f62c61a7591e]
+## 23. Representative governors[^c-72b9f6eea3fbc8652d97f62c61a7591e]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In these Regulations “representative governor” (“*llywodraethwr cynrychiad
 
 ## Annotations
 
-[^key-72b9f6eea3fbc8652d97f62c61a7591e]: Commencement: Reg. 23 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-72b9f6eea3fbc8652d97f62c61a7591e]: Commencement: Reg. 23 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)

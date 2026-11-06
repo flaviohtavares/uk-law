@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 119. Police[^key-823ac587d98ae679e64c20408bbccefb]
+## 119. Police[^c-823ac587d98ae679e64c20408bbccefb]
 
 *Extent: N.I.*
 
@@ -80,7 +80,7 @@ summary: ''
   - (ii) omit sub-paragraph (b), and the “and” preceding it, and
 - (j) omit paragraph 1A[^f00201] of Part 5.
 
-**120.**[^key-04bd0e2ef2c3bb8b3f96fc342d31a2f0][^key-823ac587d98ae679e64c20408bbccefb] (1) The Police Service of Northern Ireland and Police Service of Northern Ireland Reserve (Injury Benefit) Regulations 2006[^f00202] are amended as follows.
+**120.**[^c-04bd0e2ef2c3bb8b3f96fc342d31a2f0][^c-823ac587d98ae679e64c20408bbccefb] (1) The Police Service of Northern Ireland and Police Service of Northern Ireland Reserve (Injury Benefit) Regulations 2006[^f00202] are amended as follows.
 
 (2) In regulation 6(4), for “widower” substitute “surviving spouse”.
 
@@ -106,7 +106,7 @@ summary: ''
 
 ## Annotations
 
-[^key-823ac587d98ae679e64c20408bbccefb]: Commencement: Reg. 119 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-823ac587d98ae679e64c20408bbccefb]: Commencement: Reg. 119 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00184]: Footnote: [S.R. (N.I.) 1988/374](https://www.legislation.gov.uk/nisr/1988/374).
 
@@ -144,7 +144,7 @@ summary: ''
 
 [^f00201]: Footnote: Paragraph 1A of Part 5 was inserted by paragraph 14 of Schedule 1 to [S.R. (N.I.) 2006/152](https://www.legislation.gov.uk/nisr/2006/152).
 
-[^key-04bd0e2ef2c3bb8b3f96fc342d31a2f0]: Commencement: Reg. 120 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-04bd0e2ef2c3bb8b3f96fc342d31a2f0]: Commencement: Reg. 120 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00202]: Footnote: [S.R. (N.I.) 2006/268](https://www.legislation.gov.uk/nisr/2006/268).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 2. Interpretation[^key-dc698cf378f978772538d18006acfb1d]
+## 2. Interpretation[^c-dc698cf378f978772538d18006acfb1d]
 
 *Extent: E+W+S*
 
@@ -106,7 +106,7 @@ summary: ''
 
 ## Annotations
 
-[^key-dc698cf378f978772538d18006acfb1d]: Commencement: Art. 2 in force at 10.3.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/157/article/1)
+[^c-dc698cf378f978772538d18006acfb1d]: Commencement: Art. 2 in force at 10.3.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/157/article/1)
 
 [^f00006]: Footnote: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33).
 

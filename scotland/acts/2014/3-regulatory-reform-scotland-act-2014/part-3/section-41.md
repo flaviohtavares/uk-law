@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 41. Power of court to order offence to be remedied[^key-bd41bdcd00629b7a45fd2219faf528d8]
+## 41. Power of court to order offence to be remedied[^c-bd41bdcd00629b7a45fd2219faf528d8]
 
 *Extent: S*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bd41bdcd00629b7a45fd2219faf528d8]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2014/3/section/41) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-bd41bdcd00629b7a45fd2219faf528d8]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2014/3/section/41) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)

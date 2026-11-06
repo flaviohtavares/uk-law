@@ -45,17 +45,17 @@ Coming into operation
 
 The Department for Social Development, in exercise of the powers conferred by Articles 18(1) and (4) and 19(3) and (5) of, and paragraphs 2, 4 and 7 of Schedule 4A to, the Child Support (Northern Ireland) Order 1991[^f00001], sections 108(4) and 109(2) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00002], section 5(1)(*b*) and (*j*) of the Social Security Administration (Northern Ireland) Act 1992[^f00003] and Articles 8(6), 10(1) and (4), 11(3) and (6), 13(2), 15(11), 16(1), 21, 28(1), 32 and 74(1), (3), (5) and (6) of, and paragraph 12 of Schedule 1, paragraph 9 of Schedule 2, paragraph 9 of Schedule 3 and paragraphs 1 to 4, 6 and 9 of Schedule 4 to, the Social Security (Northern Ireland) Order 1998[^f00004], and now vested in it[^f00005], and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-ea59be5da3d52a59c156bac1e8b2e35f]
+## 1. Citation, commencement and interpretation[^c-ea59be5da3d52a59c156bac1e8b2e35f]
 
 (1) These Regulations may be cited as the Social Security and Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 2000 and shall come into operation on 19th June 2000.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00006] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Social Security (Industrial Injuries) (Prescribed Diseases) Regulations[^key-40ab04436e24ec7ce9767e02aa408bbc]
+## 2. Amendment of the Social Security (Industrial Injuries) (Prescribed Diseases) Regulations[^c-40ab04436e24ec7ce9767e02aa408bbc]
 
 In regulation 7 of the Social Security (Industrial Injuries) (Prescribed Diseases) Regulations (Northern Ireland) 1986[^f00007] (recrudescence) in paragraph (4) for the words from “review of the assessment” to the end of that paragraph there shall be substituted “a supersession of the assessment relating to the relevant period.”.
 
-## 3. Amendment of the Social Security (Claims and Payments) Regulations[^key-a45f8350a47b1db4a318a2dafa2ea0d7]
+## 3. Amendment of the Social Security (Claims and Payments) Regulations[^c-a45f8350a47b1db4a318a2dafa2ea0d7]
 
 (1) The Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00008] shall be amended in accordance with paragraphs (2) to (5).
 
@@ -144,7 +144,7 @@ In regulation 7 of the Social Security (Industrial Injuries) (Prescribed Disease
 - (a) in the heading, “, effective date of superseding decision” shall be omitted; and
 - (b) paragraph 7 shall be omitted.
 
-## 4. Amendment of the Child Support (Maintenance Assessment Procedure) Regulations[^key-8d178947479575b5cb808fdff11f1768]
+## 4. Amendment of the Child Support (Maintenance Assessment Procedure) Regulations[^c-8d178947479575b5cb808fdff11f1768]
 
 (1) The Child Support (Maintenance Assessment Procedure) Regulations (Northern Ireland) 1992[^f00017] shall be amended in accordance with paragraphs (2) to (5).
 
@@ -163,7 +163,7 @@ In regulation 7 of the Social Security (Industrial Injuries) (Prescribed Disease
 
   .
 
-## 5. Amendment of the Child Support Departure Direction and Consequential Amendments Regulations[^key-4d49038d6027e05cfde454958b496b24]
+## 5. Amendment of the Child Support Departure Direction and Consequential Amendments Regulations[^c-4d49038d6027e05cfde454958b496b24]
 
 (1) The Child Support Departure Direction and Consequential Amendments Regulations (Northern Ireland) 1996[^f00020] shall be amended in accordance with paragraphs (2) to (5).
 
@@ -183,7 +183,7 @@ In regulation 7 of the Social Security (Industrial Injuries) (Prescribed Disease
 
   .
 
-## 6. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations[^key-8a84d2f9125006f7d31161753be1bbb3]
+## 6. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations[^c-8a84d2f9125006f7d31161753be1bbb3]
 
 (1) The Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999[^f00024] shall be amended in accordance with paragraphs (2) to (22).
 
@@ -421,7 +421,7 @@ In regulation 7 of the Social Security (Industrial Injuries) (Prescribed Disease
 
 (22) After Schedule 2 (qualifications of persons appointed to the panel) there shall be inserted as Schedule 2A the Schedule set out in Schedule 1 to these Regulations.
 
-## 7. Revocations[^key-4d53b6e3dd71a95c1d0ee2b6335a1258]
+## 7. Revocations[^c-4d53b6e3dd71a95c1d0ee2b6335a1258]
 
 The Regulations specified in column (1) of Schedule 2 are revoked to the extent mentioned in column (3) of that Schedule.
 
@@ -433,7 +433,7 @@ Senior Officer of the
 
 Department for Social Development
 
-## SCHEDULE 1[^key-55624f3ee29960fbbc327a2c6cca212c]
+## SCHEDULE 1[^c-55624f3ee29960fbbc327a2c6cca212c]
 
 Regulation 6(22)
 
@@ -512,7 +512,7 @@ Regulation 6(22)
 
 .
 
-## SCHEDULE 2 — Revocations[^key-dfd803a9d088f04494ff245224436bd4]
+## SCHEDULE 2 — Revocations[^c-dfd803a9d088f04494ff245224436bd4]
 
 Regulation 7
 
@@ -579,15 +579,15 @@ These Regulations do not impose a charge on business.
 
 [^f00005]: Footnote: *See* Article 8(*b*) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-ea59be5da3d52a59c156bac1e8b2e35f]: Commencement: Reg. 1 in operation at 19.6.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/215/regulation/1/1)
+[^c-ea59be5da3d52a59c156bac1e8b2e35f]: Commencement: Reg. 1 in operation at 19.6.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/215/regulation/1/1)
 
 [^f00006]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-40ab04436e24ec7ce9767e02aa408bbc]: Commencement: Reg. 2 in operation at 19.6.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/215/regulation/1/1)
+[^c-40ab04436e24ec7ce9767e02aa408bbc]: Commencement: Reg. 2 in operation at 19.6.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/215/regulation/1/1)
 
 [^f00007]: Footnote: [S.R. 1986 No. 179](https://www.legislation.gov.uk/nisr/1986/179), to which there are amendments not relevant to these regulations
 
-[^key-a45f8350a47b1db4a318a2dafa2ea0d7]: Commencement: Reg. 3 in operation at 19.6.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/215/regulation/1/1)
+[^c-a45f8350a47b1db4a318a2dafa2ea0d7]: Commencement: Reg. 3 in operation at 19.6.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/215/regulation/1/1)
 
 [^f00008]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); relevant amending rules are [S.R. 1990 No. 398](https://www.legislation.gov.uk/nisr/1990/398), [S.R. 1992 No. 83](https://www.legislation.gov.uk/nisr/1992/83), [S.R. 1993 Nos. 149](https://www.legislation.gov.uk/nisr/1993/149) and [217](https://www.legislation.gov.uk/nisr/1993/217), [S.R. 1996 No. 354](https://www.legislation.gov.uk/nisr/1996/354), [S.R. 1997 Nos. 156](https://www.legislation.gov.uk/nisr/1997/156) and [417](https://www.legislation.gov.uk/nisr/1997/417), [S.R. 1998 No. 182](https://www.legislation.gov.uk/nisr/1998/182) and [S.R. 1999 No. 472 (C. 36)](https://www.legislation.gov.uk/nisr/1999/472)
 
@@ -607,7 +607,7 @@ These Regulations do not impose a charge on business.
 
 [^f00016]: Footnote: Relevant amending rules are [S.R. 1990 No. 398](https://www.legislation.gov.uk/nisr/1990/398), [S.R. 1992 No. 83](https://www.legislation.gov.uk/nisr/1992/83), [S.R. 1993 No. 149](https://www.legislation.gov.uk/nisr/1993/149) and [S.R. 1999 No. 472 (C. 36)](https://www.legislation.gov.uk/nisr/1999/472)
 
-[^key-8d178947479575b5cb808fdff11f1768]: Commencement: Reg. 4 in operation at 19.6.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/215/regulation/1/1)
+[^c-8d178947479575b5cb808fdff11f1768]: Commencement: Reg. 4 in operation at 19.6.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/215/regulation/1/1)
 
 [^f00017]: Footnote: [S.R. 1992 No. 340](https://www.legislation.gov.uk/nisr/1992/340); relevant amending regulations are [S.R. 1999 No. 167](https://www.legislation.gov.uk/nisr/1999/167)
 
@@ -615,7 +615,7 @@ These Regulations do not impose a charge on business.
 
 [^f00019]: Footnote: Regulations 16, 19 and 22 were substituted by regulation 2(12) of [S.R. 1999 No. 167](https://www.legislation.gov.uk/nisr/1999/167)
 
-[^key-4d49038d6027e05cfde454958b496b24]: Commencement: Reg. 5 in operation at 19.6.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/215/regulation/1/1)
+[^c-4d49038d6027e05cfde454958b496b24]: Commencement: Reg. 5 in operation at 19.6.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/215/regulation/1/1)
 
 [^f00020]: Footnote: [S.R. 1996 No. 541](https://www.legislation.gov.uk/nisr/1996/541); relevant amending regulations are [S.R. 1999 No. 167](https://www.legislation.gov.uk/nisr/1999/167)
 
@@ -625,7 +625,7 @@ These Regulations do not impose a charge on business.
 
 [^f00023]: Footnote: Regulations 32A and 32E were inserted by regulation 3(11) of [S.R. 1999 No. 167](https://www.legislation.gov.uk/nisr/1999/167)
 
-[^key-8a84d2f9125006f7d31161753be1bbb3]: Commencement: Reg. 6 in operation at 19.6.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/215/regulation/1/1)
+[^c-8a84d2f9125006f7d31161753be1bbb3]: Commencement: Reg. 6 in operation at 19.6.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/215/regulation/1/1)
 
 [^f00024]: Footnote: [S.R. 1999 No. 162](https://www.legislation.gov.uk/nisr/1999/162); relevant amending rules are [S.R. 1999 Nos. 267](https://www.legislation.gov.uk/nisr/1999/267), [271 (C. 22)](https://www.legislation.gov.uk/nisr/1999/271) and [472 (C. 36)](https://www.legislation.gov.uk/nisr/1999/472) and [S.R. 2000 No. 3](https://www.legislation.gov.uk/nisr/2000/3)
 
@@ -639,9 +639,9 @@ These Regulations do not impose a charge on business.
 
 [^f00029]: Footnote: Regulation 36 was amended by regulation 2 of [S.R. 1999 No. 242](https://www.legislation.gov.uk/nisr/1999/242) and regulation 2(4) of [S.R. 1999 No. 473](https://www.legislation.gov.uk/nisr/1999/473)
 
-[^key-4d53b6e3dd71a95c1d0ee2b6335a1258]: Commencement: Reg. 7 in operation at 19.6.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/215/regulation/1/1)
+[^c-4d53b6e3dd71a95c1d0ee2b6335a1258]: Commencement: Reg. 7 in operation at 19.6.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/215/regulation/1/1)
 
-[^key-55624f3ee29960fbbc327a2c6cca212c]: Commencement: Sch. 1 in operation at 19.6.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/215/regulation/1/1)
+[^c-55624f3ee29960fbbc327a2c6cca212c]: Commencement: Sch. 1 in operation at 19.6.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/215/regulation/1/1)
 
 [^f00030]: Footnote: [1945 c. 6 (N.I.)](https://www.legislation.gov.uk/apni/1945/6); sections 2 and 3 were amended by section 1 of the Disabled Persons (Employment) Act (Northern Ireland) [1960 (c. 4 (N.I.))](https://www.legislation.gov.uk/apni/1960/4) and Schedule 18 to the Education and Libraries (Northern Ireland) Order 1986 ([S.I. 1986/594 (N.I. 3)](https://www.legislation.gov.uk/nisi/1986/594))
 
@@ -661,4 +661,4 @@ These Regulations do not impose a charge on business.
 
 [^f00038]: Footnote: Regulation 96 was amended by regulation 3(2) of [S.R. 2000 No. 74](https://www.legislation.gov.uk/nisr/2000/74) and regulation 102C was inserted by regulation 4(4) of [S.R. 1998 No. 182](https://www.legislation.gov.uk/nisr/1998/182)
 
-[^key-dfd803a9d088f04494ff245224436bd4]: Commencement: Sch. 2 in operation at 19.6.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/215/regulation/1/1)
+[^c-dfd803a9d088f04494ff245224436bd4]: Commencement: Sch. 2 in operation at 19.6.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/215/regulation/1/1)

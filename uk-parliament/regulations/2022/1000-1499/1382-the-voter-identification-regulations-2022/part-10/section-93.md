@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Amendment of the Combined Authorities (Mayoral Elections) Order 2017[^key-0de33172621913784cf3ff6759ade007]
+## 93. Amendment of the Combined Authorities (Mayoral Elections) Order 2017[^c-0de33172621913784cf3ff6759ade007]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The Combined Authorities (Mayoral Elections) Order 2017 is amended in accordance
 
 ## Annotations
 
-[^key-0de33172621913784cf3ff6759ade007]: Commencement: Reg. 93 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-0de33172621913784cf3ff6759ade007]: Commencement: Reg. 93 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)

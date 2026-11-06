@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52ZD. Making a request for advance payment[^key-7dfe8510b3f9fbb8297aa0b172f9f5ca]
+## 52ZD. Making a request for advance payment[^c-7dfe8510b3f9fbb8297aa0b172f9f5ca]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7dfe8510b3f9fbb8297aa0b172f9f5ca]: Textual amendment: S. 52ZD inserted (6.4.2018) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [ss. 194(4)](https://www.legislation.gov.uk/ukpga/2016/22/section/194/4), [216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3); [S.I. 2018/251](https://www.legislation.gov.uk/uksi/2018/251), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2018/251/regulation/4/e)
+[^c-7dfe8510b3f9fbb8297aa0b172f9f5ca]: Textual amendment: S. 52ZD inserted (6.4.2018) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [ss. 194(4)](https://www.legislation.gov.uk/ukpga/2016/22/section/194/4), [216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3); [S.I. 2018/251](https://www.legislation.gov.uk/uksi/2018/251), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2018/251/regulation/4/e)

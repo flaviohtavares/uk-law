@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61T. Client-led status disagreement process[^key-88a8cb0a2c766db11fa942f8fb1ba833][^key-c5ed4a8550671f87f70e726d21948b20]
+## 61T. Client-led status disagreement process[^c-88a8cb0a2c766db11fa942f8fb1ba833][^c-c5ed4a8550671f87f70e726d21948b20]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,7 +32,7 @@ summary: ''
   - (ii) states the date from which the client considers that the conclusion contained in the new status determination statement became correct, and
   - (iii) states that the previous status determination statement is withdrawn.
 
-(3) If the client fails to comply with the duty in subsection (2) before the end of the period of 45 days beginning with the date the client receives the representations, section 61N(3) and (4) has effect from the end of that period until the duty is complied with as if for any reference to the fee-payer there were substituted a reference to the client; but this is subject to sections 61V and 61WA[^key-bd8a37364c0a862194bf81c34aec34e4].
+(3) If the client fails to comply with the duty in subsection (2) before the end of the period of 45 days beginning with the date the client receives the representations, section 61N(3) and (4) has effect from the end of that period until the duty is complied with as if for any reference to the fee-payer there were substituted a reference to the client; but this is subject to sections 61V and 61WA[^c-bd8a37364c0a862194bf81c34aec34e4].
 
 (4) A new status determination statement given to the deemed employer under subsection (2)(b) is to be treated for the purposes of section 61N(8)(za) as having been given to the deemed employer by the person immediately above the deemed employer in the chain.
 
@@ -43,8 +43,8 @@ summary: ''
 
 ## Annotations
 
-[^key-88a8cb0a2c766db11fa942f8fb1ba833]: Textual amendment: Ss. 61T-61TA substituted for s. 61T (with effect in accordance with Sch. 1 para. 25 of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2020/14/schedule/1/paragraph/16) (with [Sch. 1 paras. 30-34](https://www.legislation.gov.uk/ukpga/2020/14/schedule/1/paragraph/30))
+[^c-88a8cb0a2c766db11fa942f8fb1ba833]: Textual amendment: Ss. 61T-61TA substituted for s. 61T (with effect in accordance with Sch. 1 para. 25 of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2020/14/schedule/1/paragraph/16) (with [Sch. 1 paras. 30-34](https://www.legislation.gov.uk/ukpga/2020/14/schedule/1/paragraph/30))
 
-[^key-c5ed4a8550671f87f70e726d21948b20]: Textual amendment: Pt. 2 Ch. 10 inserted (with effect in accordance with Sch. 1 para. 16 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2017/10/schedule/1/paragraph/9)
+[^c-c5ed4a8550671f87f70e726d21948b20]: Textual amendment: Pt. 2 Ch. 10 inserted (with effect in accordance with Sch. 1 para. 16 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2017/10/schedule/1/paragraph/9)
 
-[^key-bd8a37364c0a862194bf81c34aec34e4]: Textual amendment: Words in [s. 61T(3)](https://www.legislation.gov.uk/ukpga/2003/1/section/61T/3) substituted (with effect in accordance with s. 21(10) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 21(5)](https://www.legislation.gov.uk/ukpga/2021/26/section/21/5)
+[^c-bd8a37364c0a862194bf81c34aec34e4]: Textual amendment: Words in [s. 61T(3)](https://www.legislation.gov.uk/ukpga/2003/1/section/61T/3) substituted (with effect in accordance with s. 21(10) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 21(5)](https://www.legislation.gov.uk/ukpga/2021/26/section/21/5)

@@ -97,8 +97,8 @@ Section 56(1).
 
 **16.** In the National Health Service Act 1977—
 
-- (a)[^key-f42cbf26bf44ce4ab015fea4f520df5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-2e5f725ecadb15e13564853f42eb7883] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-f42cbf26bf44ce4ab015fea4f520df5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-2e5f725ecadb15e13564853f42eb7883] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### National Health Service (Scotland) Act 1978[^c13417071]
 
@@ -151,9 +151,9 @@ Section 56(1).
 
 [^c13417061]: Marginal citation: [1977 c. 49](https://www.legislation.gov.uk/ukpga/1977/49).
 
-[^key-f42cbf26bf44ce4ab015fea4f520df5a]: Textual amendment: Sch. 5 para. 16(a) repealed (1.4.2004) by [Health and Social Care (Community Health and Standards) Act 2003 (c. 43)](https://www.legislation.gov.uk/ukpga/2003/43), [s. 199(1)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/1)[(4)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/4), [Sch. 14 Pt. 4](https://www.legislation.gov.uk/ukpga/2003/43/schedule/14/part/4); [S.I. 2004/288](https://www.legislation.gov.uk/uksi/2004/288), [art. 6(2)(f)](https://www.legislation.gov.uk/uksi/2004/288/article/6/2/f) (as amended by [S.I. 2004/866](https://www.legislation.gov.uk/uksi/2004/866) and [S.I. 2005/2925](https://www.legislation.gov.uk/uksi/2005/2925)); [S.I. 2004/480](https://www.legislation.gov.uk/uksi/2004/480), [art. 5(2)(f)](https://www.legislation.gov.uk/uksi/2004/480/article/5/2/f) (as amended by [S.I. 2004/1019](https://www.legislation.gov.uk/uksi/2004/1019) and [S.I. 2006/345](https://www.legislation.gov.uk/uksi/2006/345))
+[^c-f42cbf26bf44ce4ab015fea4f520df5a]: Textual amendment: Sch. 5 para. 16(a) repealed (1.4.2004) by [Health and Social Care (Community Health and Standards) Act 2003 (c. 43)](https://www.legislation.gov.uk/ukpga/2003/43), [s. 199(1)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/1)[(4)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/4), [Sch. 14 Pt. 4](https://www.legislation.gov.uk/ukpga/2003/43/schedule/14/part/4); [S.I. 2004/288](https://www.legislation.gov.uk/uksi/2004/288), [art. 6(2)(f)](https://www.legislation.gov.uk/uksi/2004/288/article/6/2/f) (as amended by [S.I. 2004/866](https://www.legislation.gov.uk/uksi/2004/866) and [S.I. 2005/2925](https://www.legislation.gov.uk/uksi/2005/2925)); [S.I. 2004/480](https://www.legislation.gov.uk/uksi/2004/480), [art. 5(2)(f)](https://www.legislation.gov.uk/uksi/2004/480/article/5/2/f) (as amended by [S.I. 2004/1019](https://www.legislation.gov.uk/uksi/2004/1019) and [S.I. 2006/345](https://www.legislation.gov.uk/uksi/2006/345))
 
-[^key-2e5f725ecadb15e13564853f42eb7883]: Textual amendment: Sch. 5 para. 16(b) repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1 Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
+[^c-2e5f725ecadb15e13564853f42eb7883]: Textual amendment: Sch. 5 para. 16(b) repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1 Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
 
 [^c13417071]: Marginal citation: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 82. Procurement of recyclate[^key-eee2602ce72373635efd0f262217805a]
+## 82. Procurement of recyclate[^c-eee2602ce72373635efd0f262217805a]
 
 *Extent: S*
 
@@ -56,4 +56,4 @@ to them in relation to the requirements imposed by the regulations.
 
 ## Annotations
 
-[^key-eee2602ce72373635efd0f262217805a]: Commencement: S. 82 in force at 31.10.2009 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/a)
+[^c-eee2602ce72373635efd0f262217805a]: Commencement: S. 82 in force at 31.10.2009 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/a)

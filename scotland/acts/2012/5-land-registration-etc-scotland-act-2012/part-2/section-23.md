@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23. Conditions of registration: transfer of unregistered plot[^key-c81a72d03cac81cfc1f3e8631bede87f]
+## 23. Conditions of registration: transfer of unregistered plot[^c-c81a72d03cac81cfc1f3e8631bede87f]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c81a72d03cac81cfc1f3e8631bede87f]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2012/5/section/23) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-c81a72d03cac81cfc1f3e8631bede87f]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2012/5/section/23) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

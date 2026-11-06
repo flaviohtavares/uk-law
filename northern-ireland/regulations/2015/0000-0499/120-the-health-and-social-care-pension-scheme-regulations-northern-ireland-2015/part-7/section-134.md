@@ -29,7 +29,7 @@ summary: ''
 - (a) is within the required period;
 - (b) is chosen by the scheme manager;
 - (c) is specified in the statement of entitlement; and
-- (d)[^key-d229209b114f1ef3a5ead552edad5ade] is within the period of 10 days ending with the date on which the member is provided with the statement of entitlement.
+- (d)[^c-d229209b114f1ef3a5ead552edad5ade] is within the period of 10 days ending with the date on which the member is provided with the statement of entitlement.
 
 (4) In paragraph (3), the required period is—
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d229209b114f1ef3a5ead552edad5ade]: Textual amendment: [Reg. 134(3)(d)](https://www.legislation.gov.uk/nisr/2015/120/regulation/134/3/d) substituted (with effect in accordance with reg. 1(8) of the amending Rule) by [The Health and Social Care Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/196)](https://www.legislation.gov.uk/nisr/2022/196), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2), [63](https://www.legislation.gov.uk/nisr/2022/196/regulation/63)
+[^c-d229209b114f1ef3a5ead552edad5ade]: Textual amendment: [Reg. 134(3)(d)](https://www.legislation.gov.uk/nisr/2015/120/regulation/134/3/d) substituted (with effect in accordance with reg. 1(8) of the amending Rule) by [The Health and Social Care Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/196)](https://www.legislation.gov.uk/nisr/2022/196), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2), [63](https://www.legislation.gov.uk/nisr/2022/196/regulation/63)

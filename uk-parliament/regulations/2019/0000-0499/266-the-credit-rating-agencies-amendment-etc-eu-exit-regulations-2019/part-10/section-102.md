@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102. Revocation of Commission Delegated Regulation (EU) No. 946/2012[^key-02886af77fdaaf4d0aff83087eeaf564]
+## 102. Revocation of Commission Delegated Regulation (EU) No. 946/2012[^c-02886af77fdaaf4d0aff83087eeaf564]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Commission Delegated Regulation (EU) No. 946/2012 of 12 July 2012 supplementing 
 
 ## Annotations
 
-[^key-02886af77fdaaf4d0aff83087eeaf564]: Commencement: Reg. 102 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-02886af77fdaaf4d0aff83087eeaf564]: Commencement: Reg. 102 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)

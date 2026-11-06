@@ -24,8 +24,8 @@ summary: ''
 
 (2) The standard provisions may be incorporated in a licence with or without modifications and either generally or in relation to medicinal products of a particular class.
 
-(3)[^key-50a05e9ee989c08c520c707d2a44e7c5] In Schedule 4, in relation to a licence holder in Great Britain, references to the principles and guidelines set out in the Good Manufacturing Practice Directive are to those principles and guidelines as they apply under or by virtue of regulation B17.
+(3)[^c-50a05e9ee989c08c520c707d2a44e7c5] In Schedule 4, in relation to a licence holder in Great Britain, references to the principles and guidelines set out in the Good Manufacturing Practice Directive are to those principles and guidelines as they apply under or by virtue of regulation B17.
 
 ## Annotations
 
-[^key-50a05e9ee989c08c520c707d2a44e7c5]: Textual amendment: [Reg. 24(3)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/24/3) inserted (31.12.2020) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [19A](https://www.legislation.gov.uk/uksi/2019/775/regulation/19A) (as inserted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/13))
+[^c-50a05e9ee989c08c520c707d2a44e7c5]: Textual amendment: [Reg. 24(3)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/24/3) inserted (31.12.2020) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [19A](https://www.legislation.gov.uk/uksi/2019/775/regulation/19A) (as inserted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/13))

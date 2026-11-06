@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 53. Persons treated as not engaged in remunerative work[^key-35078a61d78280e5c5f29af5157bdcda]
+## 53. Persons treated as not engaged in remunerative work[^c-35078a61d78280e5c5f29af5157bdcda]
 
 *Extent: N.I.*
 
@@ -51,7 +51,7 @@ A person shall be treated as not engaged in remunerative work in so far as—
 
 ## Annotations
 
-[^key-35078a61d78280e5c5f29af5157bdcda]: Commencement: Reg. 53 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-35078a61d78280e5c5f29af5157bdcda]: Commencement: Reg. 53 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
 [^f00050]: Footnote: [S.I. 1984/1821 (N.I. 11)](https://www.legislation.gov.uk/nisi/1984/1821)
 

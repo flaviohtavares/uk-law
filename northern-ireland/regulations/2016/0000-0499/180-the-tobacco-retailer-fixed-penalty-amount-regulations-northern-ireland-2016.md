@@ -44,7 +44,7 @@ Coming into operation
 
 The Department of Health, Social Services and Public Safety makes the following Regulations, in exercise of the powers conferred by sections 12(8) and 24(3) of the Tobacco Retailers Act (Northern Ireland) 2014 [^f00001].
 
-## 1. Citation, commencement and interpretation[^key-98a0097a5d8e7ce3fad62de7da7d65c9]
+## 1. Citation, commencement and interpretation[^c-98a0097a5d8e7ce3fad62de7da7d65c9]
 
 (1) These Regulations may be cited as the Tobacco Retailer (Fixed Penalty) (Amount) Regulations (Northern Ireland) 2016 and shall come into operation on 1st July 2016.
 
@@ -54,7 +54,7 @@ The Department of Health, Social Services and Public Safety makes the following 
 - “the 1978 Order” means the Health and Personal Social Services (Northern Ireland) Order 1978 [^f00002].
 - “the 1991 Order” means the Children and Young Persons (Protection from Tobacco) (Northern Ireland) Order 1991[^f00003].
 
-## 2. Amount of fixed penalty[^key-255535e9a873e0dfbbac79d1e4b5a06a]
+## 2. Amount of fixed penalty[^c-255535e9a873e0dfbbac79d1e4b5a06a]
 
 The fixed penalty in respect of an alleged offence shown in column (1) of the Schedule shall be the amount shown opposite in column (2).
 
@@ -66,7 +66,7 @@ A senior officer of the
 
 Department of Health, Social Services and Public Safety
 
-## SCHEDULE[^key-08b37b21072ff71ddc9e2a4acabd7a7e]
+## SCHEDULE[^c-08b37b21072ff71ddc9e2a4acabd7a7e]
 
 Regulation 2
 
@@ -97,15 +97,15 @@ These Regulations prescribe the amount of fixed penalties for certain tobacco-re
 
 [^f00001]: Footnote: [2014 c.4 (N.I.)](https://www.legislation.gov.uk/nia/2014/4)
 
-[^key-98a0097a5d8e7ce3fad62de7da7d65c9]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2016/180/regulation/1) in operation at 1.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/180/regulation/1/1)
+[^c-98a0097a5d8e7ce3fad62de7da7d65c9]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2016/180/regulation/1) in operation at 1.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/180/regulation/1/1)
 
 [^f00002]: Footnote: [S.I 1978/1907 (N.I. 26)](https://www.legislation.gov.uk/nisi/1978/1907)
 
 [^f00003]: Footnote: [S.I 1991/1872 (N.I. 25)](https://www.legislation.gov.uk/nisi/1991/1872)
 
-[^key-255535e9a873e0dfbbac79d1e4b5a06a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2016/180/regulation/2) in operation at 1.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/180/regulation/1/1)
+[^c-255535e9a873e0dfbbac79d1e4b5a06a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2016/180/regulation/2) in operation at 1.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/180/regulation/1/1)
 
-[^key-08b37b21072ff71ddc9e2a4acabd7a7e]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2016/180/schedule) substituted (1.2.2022) by [The Tobacco Retailer (Fixed Penalty) (Amount) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/331)](https://www.legislation.gov.uk/nisr/2021/331), [regs. 1](https://www.legislation.gov.uk/nisr/2021/331/regulation/1), [2](https://www.legislation.gov.uk/nisr/2021/331/regulation/2)
+[^c-08b37b21072ff71ddc9e2a4acabd7a7e]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2016/180/schedule) substituted (1.2.2022) by [The Tobacco Retailer (Fixed Penalty) (Amount) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/331)](https://www.legislation.gov.uk/nisr/2021/331), [regs. 1](https://www.legislation.gov.uk/nisr/2021/331/regulation/1), [2](https://www.legislation.gov.uk/nisr/2021/331/regulation/2)
 
 [^f00004]: Footnote: Article 3 was amended by the Children and Young Persons (Sale of Tobacco etc.) Regulations (Northern Ireland) 2008 and section 18(2) of the Tobacco Retailers Act (Northern Ireland) 2014.
 

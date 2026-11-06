@@ -51,7 +51,7 @@ An Act to amend the law relating to the Universities of St. Andrews, Glasgow, Ab
 
 #### 2. Constitution of University Courts.
 
-(1) Subject to the provisions of section 17 of this Act and Chapter 1 of Part 1 of the 2016 Act[^key-972403aae7431c3a64eb04b4e8f68419] , the University Courts of the older Universities shall consist of the persons specified in Parts I, II, III and IV respectively of Schedule 1 to this Act.
+(1) Subject to the provisions of section 17 of this Act and Chapter 1 of Part 1 of the 2016 Act[^c-972403aae7431c3a64eb04b4e8f68419] , the University Courts of the older Universities shall consist of the persons specified in Parts I, II, III and IV respectively of Schedule 1 to this Act.
 
 (2) Except as provided in section 5(2) of the Act of 1889, subsections (3) and (4) of this section and paragraphs (g) and (h) of Part I of Schedule 1 to this Act, the term of office of all assessors on a University Court to which this section applies shall be four years.
 
@@ -61,7 +61,7 @@ An Act to amend the law relating to the Universities of St. Andrews, Glasgow, Ab
 
 (5) All assessors on such a University Court shall be eligible for further nomination or, as the case may be, re-election; and all members co-opted by such a University Court shall be eligible for further co-option.
 
-(6)[^key-f98d8ff90341548f27b4bd145f08cd57] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-f98d8ff90341548f27b4bd145f08cd57] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 3. Powers of University Courts.
 
@@ -109,7 +109,7 @@ Ordinances made under the Universities (Scotland) Acts 1858 to 1932 or the Act o
 
 ### Senates
 
-#### 7. Constitution of Senates.[^key-1e9f9dddf479f9900f356d361ff48e66]
+#### 7. Constitution of Senates.[^c-1e9f9dddf479f9900f356d361ff48e66]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -146,7 +146,7 @@ No person holding an appointment in any of the older Universities shall be eligi
 - (a) elected as rector of that University, or
 - (b) nominated or elected as an assessor on the University Court by any other person or body than the Senatus Academicus:
 
-Provided that nothing in paragraph (b) of this section shall prejudice the right of the University Court as provided for in Schedule 1 to this Act to co-opt a person holding such an appointment or the right of a person to be appointed in accordance with section 10(1)(b) to (d) of the 2016 Act[^key-5f2724d8cd4b83583f9d6af946366552] .
+Provided that nothing in paragraph (b) of this section shall prejudice the right of the University Court as provided for in Schedule 1 to this Act to co-opt a person holding such an appointment or the right of a person to be appointed in accordance with section 10(1)(b) to (d) of the 2016 Act[^c-5f2724d8cd4b83583f9d6af946366552] .
 
 #### 12. Annual reports and financial statements.
 
@@ -155,7 +155,7 @@ Provided that nothing in paragraph (b) of this section shall prejudice the right
 - (a) a report of the work and activities of the University, and
 - (b) a financial statement of the University which shall be audited by auditors appointed by the University Court.
 
-(2)[^c6670481] No person shall be appointed as an auditor under this section unless he is eligible for appointment as a statutory auditor under Part 42 of the Companies Act 2006[^key-babcb2442fcb3225d32ee930f9d288a5].
+(2)[^c6670481] No person shall be appointed as an auditor under this section unless he is eligible for appointment as a statutory auditor under Part 42 of the Companies Act 2006[^c-babcb2442fcb3225d32ee930f9d288a5].
 
 (3) No person shall be appointed as an auditor under this section if he, or where the person in question is a partnership or a body corporate, any partner in the partnership or any director or officer of the body corporate, is a member of the University Court or of the staff of the University concerned.
 
@@ -182,7 +182,7 @@ The [^c6670511]Statutory Instruments Act 1946 shall not apply to an Order in Cou
 
 (1) In this Act, unless the context otherwise requires, the following expressions have the meanings hereby assigned to them respectively, that is to say—
 
-- “[^key-ca3599519b1a219db8d1e6990601a4c4]**the 2016 Act**” means the Higher Education Governance (Scotland) Act 2016;
+- “[^c-ca3599519b1a219db8d1e6990601a4c4]**the 2016 Act**” means the Higher Education Governance (Scotland) Act 2016;
 - “**the Act of 1858**” means the [^c6670521]Universities (Scotland) Act 1858;
 - “**the Act of 1868**” means the Representation of the [^c6670531]People (Scotland) Act 1868;
 - “**the Act of 1889**” means the [^c6670541]Universities (Scotland) Act 1889;
@@ -479,7 +479,7 @@ Section 13.
 
 ### Abolition of qualifying examinations and degrees in medicine etc. in the University of St. Andrews
 
-**17.**[^key-4b9c990d989ca3bc5bca1654217f0aec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-4b9c990d989ca3bc5bca1654217f0aec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Amendments to the Medical Act 1956 and Dentists Act 1957
 
@@ -531,17 +531,17 @@ Funds, other than endowment funds, to be transferred, in whole or in part, to th
 
 [^c6670461]: Marginal citation: [1871 c. 63](https://www.legislation.gov.uk/ukpga/1871/63).
 
-[^key-972403aae7431c3a64eb04b4e8f68419]: Textual amendment: Words in s. 2(1) inserted (S.) (30.12.2016) by [Higher Education Governance (Scotland) Act 2016 (asp 15)](https://www.legislation.gov.uk/asp/2016/15), [s. 26(2)](https://www.legislation.gov.uk/asp/2016/15/section/26/2), [sch. para. 3(2)(a)](https://www.legislation.gov.uk/asp/2016/15/schedule/paragraph/3/2/a); [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/1)
+[^c-972403aae7431c3a64eb04b4e8f68419]: Textual amendment: Words in s. 2(1) inserted (S.) (30.12.2016) by [Higher Education Governance (Scotland) Act 2016 (asp 15)](https://www.legislation.gov.uk/asp/2016/15), [s. 26(2)](https://www.legislation.gov.uk/asp/2016/15/section/26/2), [sch. para. 3(2)(a)](https://www.legislation.gov.uk/asp/2016/15/schedule/paragraph/3/2/a); [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/1)
 
-[^key-f98d8ff90341548f27b4bd145f08cd57]: Textual amendment: S. 2(6) repealed (S.) (30.12.2016) by [Higher Education Governance (Scotland) Act 2016 (asp 15)](https://www.legislation.gov.uk/asp/2016/15), [s. 26(2)](https://www.legislation.gov.uk/asp/2016/15/section/26/2), [sch. para. 3(2)(b)](https://www.legislation.gov.uk/asp/2016/15/schedule/paragraph/3/2/b); [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/1)
+[^c-f98d8ff90341548f27b4bd145f08cd57]: Textual amendment: S. 2(6) repealed (S.) (30.12.2016) by [Higher Education Governance (Scotland) Act 2016 (asp 15)](https://www.legislation.gov.uk/asp/2016/15), [s. 26(2)](https://www.legislation.gov.uk/asp/2016/15/section/26/2), [sch. para. 3(2)(b)](https://www.legislation.gov.uk/asp/2016/15/schedule/paragraph/3/2/b); [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/1)
 
-[^key-1e9f9dddf479f9900f356d361ff48e66]: Textual amendment: S. 7 repealed (S.) (30.12.2016) by [Higher Education Governance (Scotland) Act 2016 (asp 15)](https://www.legislation.gov.uk/asp/2016/15), [s. 26(2)](https://www.legislation.gov.uk/asp/2016/15/section/26/2), [sch. para. 3(3)](https://www.legislation.gov.uk/asp/2016/15/schedule/paragraph/3/3); [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/1) (with [reg. 6(4)](https://www.legislation.gov.uk/ssi/2016/382/regulation/6/4))
+[^c-1e9f9dddf479f9900f356d361ff48e66]: Textual amendment: S. 7 repealed (S.) (30.12.2016) by [Higher Education Governance (Scotland) Act 2016 (asp 15)](https://www.legislation.gov.uk/asp/2016/15), [s. 26(2)](https://www.legislation.gov.uk/asp/2016/15/section/26/2), [sch. para. 3(3)](https://www.legislation.gov.uk/asp/2016/15/schedule/paragraph/3/3); [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/1) (with [reg. 6(4)](https://www.legislation.gov.uk/ssi/2016/382/regulation/6/4))
 
-[^key-5f2724d8cd4b83583f9d6af946366552]: Textual amendment: Words in s. 11 inserted (S.) (30.12.2016) by [Higher Education Governance (Scotland) Act 2016 (asp 15)](https://www.legislation.gov.uk/asp/2016/15), [s. 26(2)](https://www.legislation.gov.uk/asp/2016/15/section/26/2), [sch. para. 3(4)](https://www.legislation.gov.uk/asp/2016/15/schedule/paragraph/3/4); [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/1) (with [regs. 5(4)](https://www.legislation.gov.uk/ssi/2016/382/regulation/5/4), [6(4)](https://www.legislation.gov.uk/ssi/2016/382/regulation/6/4))
+[^c-5f2724d8cd4b83583f9d6af946366552]: Textual amendment: Words in s. 11 inserted (S.) (30.12.2016) by [Higher Education Governance (Scotland) Act 2016 (asp 15)](https://www.legislation.gov.uk/asp/2016/15), [s. 26(2)](https://www.legislation.gov.uk/asp/2016/15/section/26/2), [sch. para. 3(4)](https://www.legislation.gov.uk/asp/2016/15/schedule/paragraph/3/4); [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/1) (with [regs. 5(4)](https://www.legislation.gov.uk/ssi/2016/382/regulation/5/4), [6(4)](https://www.legislation.gov.uk/ssi/2016/382/regulation/6/4))
 
 [^c6670481]: Textual amendment: S. 12(2)(3) substituted (1.10.1991) by [S.I. 1991/1997](https://www.legislation.gov.uk/uksi/1991/1997) reg. 2, Sch., para.15 (with reg. 4).
 
-[^key-babcb2442fcb3225d32ee930f9d288a5]: Textual amendment: Words in [s. 12(2)](https://www.legislation.gov.uk/ukpga/1966/13/section/12/2) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [Sch. 1 para. 1(g)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/1/g) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
+[^c-babcb2442fcb3225d32ee930f9d288a5]: Textual amendment: Words in [s. 12(2)](https://www.legislation.gov.uk/ukpga/1966/13/section/12/2) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [Sch. 1 para. 1(g)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/1/g) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
 
 [^c6670491]: Modification: Power of appointment conferred by s. 13 fully exercised: 1.8.1967 appointed by Order in Council dated 28.7.1967
 
@@ -549,7 +549,7 @@ Funds, other than endowment funds, to be transferred, in whole or in part, to th
 
 [^c6670511]: Marginal citation: [1946 c. 36](https://www.legislation.gov.uk/ukpga/1946/36).
 
-[^key-ca3599519b1a219db8d1e6990601a4c4]: Textual amendment: Words in s. 16(1) inserted (S.) (30.12.2016) by [Higher Education Governance (Scotland) Act 2016 (asp 15)](https://www.legislation.gov.uk/asp/2016/15), [s. 26(2)](https://www.legislation.gov.uk/asp/2016/15/section/26/2), [sch. para. 3(5)](https://www.legislation.gov.uk/asp/2016/15/schedule/paragraph/3/5); [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/1)
+[^c-ca3599519b1a219db8d1e6990601a4c4]: Textual amendment: Words in s. 16(1) inserted (S.) (30.12.2016) by [Higher Education Governance (Scotland) Act 2016 (asp 15)](https://www.legislation.gov.uk/asp/2016/15), [s. 26(2)](https://www.legislation.gov.uk/asp/2016/15/section/26/2), [sch. para. 3(5)](https://www.legislation.gov.uk/asp/2016/15/schedule/paragraph/3/5); [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/1)
 
 [^c6670521]: Marginal citation: [1858 c. 83](https://www.legislation.gov.uk/ukpga/1858/83).
 
@@ -597,7 +597,7 @@ Funds, other than endowment funds, to be transferred, in whole or in part, to th
 
 [^c6670731]: Marginal citation: [1962 c. 47](https://www.legislation.gov.uk/ukpga/1962/47).
 
-[^key-4b9c990d989ca3bc5bca1654217f0aec]: Textual amendment: Sch. 6 para. 17 repealed (24.4.2021) by [University of St. Andrews (Degrees in Medicine and Dentistry) Act 2021 (asp 13)](https://www.legislation.gov.uk/asp/2021/13), [ss. 1](https://www.legislation.gov.uk/asp/2021/13/section/1), [2](https://www.legislation.gov.uk/asp/2021/13/section/2)
+[^c-4b9c990d989ca3bc5bca1654217f0aec]: Textual amendment: Sch. 6 para. 17 repealed (24.4.2021) by [University of St. Andrews (Degrees in Medicine and Dentistry) Act 2021 (asp 13)](https://www.legislation.gov.uk/asp/2021/13), [ss. 1](https://www.legislation.gov.uk/asp/2021/13/section/1), [2](https://www.legislation.gov.uk/asp/2021/13/section/2)
 
 [^c6670751]: Textual amendment: [Sch. 6 para. 18](https://www.legislation.gov.uk/ukpga/1966/13/schedule/6/paragraph/18) repealed by [Medical Act 1978 (c. 12)](https://www.legislation.gov.uk/ukpga/1978/12), [Sch. 7](https://www.legislation.gov.uk/ukpga/1978/12/schedule/7)
 

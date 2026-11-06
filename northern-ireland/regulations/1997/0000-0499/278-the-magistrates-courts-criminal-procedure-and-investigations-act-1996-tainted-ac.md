@@ -40,7 +40,7 @@ Coming into operation
 
 The Lord Chancellor, in exercise of the powers conferred upon him by Article 13 of the Magistrates' Courts (Northern Ireland) Order 1981[^f00001] and of all other powers enabling him in that behalf, on the advice of the Magistrates' Courts Rules Committee and after consultation with the Lord Chief Justice, hereby makes the following Rules:—
 
-## 1. Citation, commencement and interpretation[^key-6de45b96c0aa54fd151ab478e1a27859]
+## 1. Citation, commencement and interpretation[^c-6de45b96c0aa54fd151ab478e1a27859]
 
 (1) These Rules may be cited as the Magistrates' Courts (Criminal Procedure and Investigations Act 1996) (Tainted Acquittals) Rules (Northern Ireland) 1997 and shall come into operation on 30th June 1997.
 
@@ -50,21 +50,21 @@ The Lord Chancellor, in exercise of the powers conferred upon him by Article 13 
 - “acquittal” means an acquittal (of a person of an offence) which is the subject of a certification made under section 54(2);
 - “Order Book” means the Order Book required to be kept under rule 19 of the Magistrates' Courts Rules (Northern Ireland) 1984[^f00003].
 
-## 2. Time of certification[^key-faaa9071bbbf8ac54a7d2e5727f48dca]
+## 2. Time of certification[^c-faaa9071bbbf8ac54a7d2e5727f48dca]
 
 Where a person is convicted before a court of summary jurisdiction of an offence as referred to in section 54(1)(*b*) and it appears to the court that the provisions of section 54(2) are satisfied, the court shall make the certification referred to in section 54(2) at any time following conviction, but no later than—
 
 - (a) immediately after the court sentences or otherwise deals with that person in respect of the offence, or
 - (b) where, in the case of a child or young person, the court remits him to a juvenile court to be dealt with in respect of the offence, immediately after he is so remitted, or
-- (c) where the court adjourns the case to another court of summary jurisdiction[^key-392cc784fa50b694cf4cb521348d36b8], immediately before the case is so adjourned.
+- (c) where the court adjourns the case to another court of summary jurisdiction[^c-392cc784fa50b694cf4cb521348d36b8], immediately before the case is so adjourned.
 
-## 3. Form of certification[^key-191964620c81198b08310b1078149d56]
+## 3. Form of certification[^c-191964620c81198b08310b1078149d56]
 
 Where a court of summary jurisdiction makes the certification referred to in section 54(2), the certification shall be drawn up in Form 1 set out in the Schedule to these Rules.
 
-## 4. Service of a copy of Form 1[^key-678d145043fe1aa17438e312dd152b9e]
+## 4. Service of a copy of Form 1[^c-678d145043fe1aa17438e312dd152b9e]
 
-(1)[^key-edc50fbddfa338dd7ea60142b177f34b] Where a court of summary jurisdiction makes a certification as referred to in section 54(2), the clerk of petty sessions shall, as soon as is practicable after the drawing up of the Form 1, serve a copy of that Form—
+(1)[^c-edc50fbddfa338dd7ea60142b177f34b] Where a court of summary jurisdiction makes a certification as referred to in section 54(2), the clerk of petty sessions shall, as soon as is practicable after the drawing up of the Form 1, serve a copy of that Form—
 
 - (a) on the acquitted person referred to in the certification;
 - (b) on the prosecution in the proceedings which led to the acquittal; and
@@ -79,7 +79,7 @@ Where a court of summary jurisdiction makes the certification referred to in sec
 - (a) “solicitor” includes a body corporate which is recognized by the Council of Law Society of Northern Ireland under Article 26A of the Solicitors (Northern Ireland) Order 1976[^f00004] (a recognized body); and
 - (b) in the case of a recognized body, the reference to the solicitor’s address for service shall be construed as a reference to the address specified by the recognized body as its address for the purposes of the service of the copy of Form 1 (including, where the person to be served is a party to the proceedings which led to the conviction referred to in Form 1, an address specified for the general purposes of those proceedings), or, in the absence of such a specified address, to its registered office.
 
-## 5. Entry in the Order Book in relation to the conviction which occasioned certification[^key-3106aeeca7fd412ba70a5353cf1587b1]
+## 5. Entry in the Order Book in relation to the conviction which occasioned certification[^c-3106aeeca7fd412ba70a5353cf1587b1]
 
 Where a court of summary jurisdiction makes a certification under section 54(2), the clerk of petty sessions shall enter in the Order Book of the court in relation to the conviction which occasioned the certification—
 
@@ -90,9 +90,9 @@ Where a court of summary jurisdiction makes a certification under section 54(2),
 - (e) the date of the acquittal; and
 - (f) the name of the court before which the acquittal has taken place.
 
-## 6. Entry in the Order Book — acquittal before a court of summary jurisdiction[^key-17e53234f6daca0983ab846611c4d6d2]
+## 6. Entry in the Order Book — acquittal before a court of summary jurisdiction[^c-17e53234f6daca0983ab846611c4d6d2]
 
-(1)[^key-e9ae263bdec4f33766ff2489b885f034] Where an acquittal has taken place before a court of summary jurisdiction, the clerk of petty sessions shall, as soon as is practicable after the making of the certification, or after the receipt from the Crown Court of a copy of a form recording the certification, enter in the Order Book of the court in relation to the acquittal-
+(1)[^c-e9ae263bdec4f33766ff2489b885f034] Where an acquittal has taken place before a court of summary jurisdiction, the clerk of petty sessions shall, as soon as is practicable after the making of the certification, or after the receipt from the Crown Court of a copy of a form recording the certification, enter in the Order Book of the court in relation to the acquittal-
 
 - (a) a note that certification has been made;
 - (b) the date of the certification;
@@ -102,18 +102,18 @@ Where a court of summary jurisdiction makes a certification under section 54(2),
 
 (2) The entry in the Order Book required to be made in accordance with paragraph (1)(*a*) shall be signed by the clerk of petty sessions of the court before which the acquittal has taken place and rule 19(2) of the Magistrates' Courts Rules (Northern Ireland) 1984 shall not apply.
 
-## 7. Display of copy certification form[^key-f67d6f7f030230659c1c1788eca6d47f]
+## 7. Display of copy certification form[^c-f67d6f7f030230659c1c1788eca6d47f]
 
-(1) Where a court of summary jurisdiction makes a certification as referred to in section 54(2), the clerk of petty sessions shall, as soon as is practicable after the drawing up of Form 1, display a copy of that Form at a prominent place within court premises at the place where the certification was made[^key-f3c5568d7ff1d5997963d7d8e28d3e97] to which the public has access.
+(1) Where a court of summary jurisdiction makes a certification as referred to in section 54(2), the clerk of petty sessions shall, as soon as is practicable after the drawing up of Form 1, display a copy of that Form at a prominent place within court premises at the place where the certification was made[^c-f3c5568d7ff1d5997963d7d8e28d3e97] to which the public has access.
 
-(2)[^key-d10b9e886534e41a78aacc19324234d1] Where an acquittal has taken place before a court of summary jurisdiction, and the Crown Court has made the certification under section 54(2) in relation to the acquittal, the clerk of petty sessions shall, as soon as is practicable, after receipt of a copy of a form recording the certification, display a copy of that form at a prominent place to which the public has access within court premises at the place where the acquittal occurred.
+(2)[^c-d10b9e886534e41a78aacc19324234d1] Where an acquittal has taken place before a court of summary jurisdiction, and the Crown Court has made the certification under section 54(2) in relation to the acquittal, the clerk of petty sessions shall, as soon as is practicable, after receipt of a copy of a form recording the certification, display a copy of that form at a prominent place to which the public has access within court premises at the place where the acquittal occurred.
 
 (3) The copy of Form 1 referred to in paragraph (1), or the copy form referred to in paragraph (2), shall continue to be displayed as referred to respectively in those paragraphs at least until the expiry of 28 days from,—
 
 - (a) in the case of paragraph (1), the day on which the certification was made; or
 - (b) in the case of paragraph (2), the day on which the copy form was received by the clerk of petty sessions.
 
-## 8. Entry in the Order Book — decision of the High Court[^key-fe1f0d62fc9d2d47ce5416465714a613]
+## 8. Entry in the Order Book — decision of the High Court[^c-fe1f0d62fc9d2d47ce5416465714a613]
 
 (1) Where an acquittal has taken place before a court of summary jurisdiction, the clerk of petty sessions shall, on receipt from the Central Office of the Supreme Court of notice of an order made under section 54(3) quashing the acquittal, or of a decision not to make such an order, enter in the Order Book of the court in relation to the acquittal, a note that the acquittal has been quashed by the said order, or that a decision has been made not to make such an order, as the case may be.
 
@@ -121,7 +121,7 @@ Where a court of summary jurisdiction makes a certification under section 54(2),
 
 (3) The entries in the Order Book referred to, respectively, in paragraphs (1) and (2) shall be signed by the clerk of petty sessions of the court of summary jurisdiction in question and rule 19(2) of the Magistrates' Courts Rules (Northern Ireland) 1984 shall not apply.
 
-## 9. Display of copy notice received from the High Court[^key-298f024e21f2bbc072857ecf5375036d]
+## 9. Display of copy notice received from the High Court[^c-298f024e21f2bbc072857ecf5375036d]
 
 (1) Where the clerk of petty sessions of a court of summary jurisdiction which has made a certification under section 54(2), or the clerk of petty sessions of a court of summary jurisdiction before which an acquittal has taken place, as the case may be, receives from the Central Office of the Supreme Court notice of an order quashing the acquittal concerned, or notice of a decision not to make such an order, he shall, as soon as is practicable after receiving the notice, display a copy of it at a prominent place within court premises to which the public has access.
 
@@ -131,7 +131,7 @@ Irvine of Lairg, *C*
 
 Dated 10th June 1997.
 
-## SCHEDULE[^key-c4c63a5f60eb323e8384cf811f63c65e][^key-33ab1f77108ec8f63ba94c70788524fc]
+## SCHEDULE[^c-c4c63a5f60eb323e8384cf811f63c65e][^c-33ab1f77108ec8f63ba94c70788524fc]
 
 Rule 3
 
@@ -168,40 +168,40 @@ Rule 9 provides for the public display, by a court of summary jurisdiction, of a
 
 [^f00001]: Footnote: S.I. [1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675)
 
-[^key-6de45b96c0aa54fd151ab478e1a27859]: Commencement: Rule 1 in operation at 30.6.1997, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1997/278/rule/1/1)
+[^c-6de45b96c0aa54fd151ab478e1a27859]: Commencement: Rule 1 in operation at 30.6.1997, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1997/278/rule/1/1)
 
 [^f00002]: Footnote: [1996 c. 25](https://www.legislation.gov.uk/ukpga/1996/25); as modified in its application to Northern Ireland by Schedule 4 to the Act
 
 [^f00003]: Footnote: [S.R. 1984 No. 225](https://www.legislation.gov.uk/nisr/1984/225); to which the most recent relevant amendment was made by [S.R. 1994 No. 387](https://www.legislation.gov.uk/nisr/1994/387)
 
-[^key-faaa9071bbbf8ac54a7d2e5727f48dca]: Commencement: Rule 2 in operation at 30.6.1997, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1997/278/rule/1/1)
+[^c-faaa9071bbbf8ac54a7d2e5727f48dca]: Commencement: Rule 2 in operation at 30.6.1997, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1997/278/rule/1/1)
 
-[^key-392cc784fa50b694cf4cb521348d36b8]: Textual amendment: Words in [rule 2(c)](https://www.legislation.gov.uk/nisr/1997/278/article/2/c) substituted (31.10.2016) by [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [23(1)](https://www.legislation.gov.uk/nisr/2016/303/rule/23/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-392cc784fa50b694cf4cb521348d36b8]: Textual amendment: Words in [rule 2(c)](https://www.legislation.gov.uk/nisr/1997/278/article/2/c) substituted (31.10.2016) by [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [23(1)](https://www.legislation.gov.uk/nisr/2016/303/rule/23/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-191964620c81198b08310b1078149d56]: Commencement: Rule 3 in operation at 30.6.1997, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1997/278/rule/1/1)
+[^c-191964620c81198b08310b1078149d56]: Commencement: Rule 3 in operation at 30.6.1997, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1997/278/rule/1/1)
 
-[^key-678d145043fe1aa17438e312dd152b9e]: Commencement: Rule 4 in operation at 30.6.1997, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1997/278/rule/1/1)
+[^c-678d145043fe1aa17438e312dd152b9e]: Commencement: Rule 4 in operation at 30.6.1997, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1997/278/rule/1/1)
 
-[^key-edc50fbddfa338dd7ea60142b177f34b]: Textual amendment: [Rule 4(1)](https://www.legislation.gov.uk/nisr/1997/278/article/4/1) substituted (31.10.2016) by [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [23(2)](https://www.legislation.gov.uk/nisr/2016/303/rule/23/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-edc50fbddfa338dd7ea60142b177f34b]: Textual amendment: [Rule 4(1)](https://www.legislation.gov.uk/nisr/1997/278/article/4/1) substituted (31.10.2016) by [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [23(2)](https://www.legislation.gov.uk/nisr/2016/303/rule/23/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
 [^f00004]: Footnote: S.I. [1976/582 (N.I. 12)](https://www.legislation.gov.uk/nisi/1976/582); Article 26A was inserted by S.I. [1989/1343 (N.I. 14)](https://www.legislation.gov.uk/nisi/1989/1343), Article 10(1)
 
-[^key-3106aeeca7fd412ba70a5353cf1587b1]: Commencement: Rule 5 in operation at 30.6.1997, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1997/278/rule/1/1)
+[^c-3106aeeca7fd412ba70a5353cf1587b1]: Commencement: Rule 5 in operation at 30.6.1997, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1997/278/rule/1/1)
 
-[^key-17e53234f6daca0983ab846611c4d6d2]: Commencement: Rule 6 in operation at 30.6.1997, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1997/278/rule/1/1)
+[^c-17e53234f6daca0983ab846611c4d6d2]: Commencement: Rule 6 in operation at 30.6.1997, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1997/278/rule/1/1)
 
-[^key-e9ae263bdec4f33766ff2489b885f034]: Textual amendment: [Rule 6(1)](https://www.legislation.gov.uk/nisr/1997/278/article/6/1) substituted (31.10.2016) by [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [23(3)](https://www.legislation.gov.uk/nisr/2016/303/rule/23/3); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-e9ae263bdec4f33766ff2489b885f034]: Textual amendment: [Rule 6(1)](https://www.legislation.gov.uk/nisr/1997/278/article/6/1) substituted (31.10.2016) by [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [23(3)](https://www.legislation.gov.uk/nisr/2016/303/rule/23/3); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-f67d6f7f030230659c1c1788eca6d47f]: Commencement: Rule 7 in operation at 30.6.1997, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1997/278/rule/1/1)
+[^c-f67d6f7f030230659c1c1788eca6d47f]: Commencement: Rule 7 in operation at 30.6.1997, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1997/278/rule/1/1)
 
-[^key-f3c5568d7ff1d5997963d7d8e28d3e97]: Textual amendment: Words in [rule 7(1)](https://www.legislation.gov.uk/nisr/1997/278/article/7/1) substituted (31.10.2016) by [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [23(4)](https://www.legislation.gov.uk/nisr/2016/303/rule/23/4); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-f3c5568d7ff1d5997963d7d8e28d3e97]: Textual amendment: Words in [rule 7(1)](https://www.legislation.gov.uk/nisr/1997/278/article/7/1) substituted (31.10.2016) by [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [23(4)](https://www.legislation.gov.uk/nisr/2016/303/rule/23/4); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-d10b9e886534e41a78aacc19324234d1]: Textual amendment: [Rule 7(2)](https://www.legislation.gov.uk/nisr/1997/278/article/7/2) substituted (31.10.2016) by [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [23(5)](https://www.legislation.gov.uk/nisr/2016/303/rule/23/5); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-d10b9e886534e41a78aacc19324234d1]: Textual amendment: [Rule 7(2)](https://www.legislation.gov.uk/nisr/1997/278/article/7/2) substituted (31.10.2016) by [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [23(5)](https://www.legislation.gov.uk/nisr/2016/303/rule/23/5); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-fe1f0d62fc9d2d47ce5416465714a613]: Commencement: Rule 8 in operation at 30.6.1997, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1997/278/rule/1/1)
+[^c-fe1f0d62fc9d2d47ce5416465714a613]: Commencement: Rule 8 in operation at 30.6.1997, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1997/278/rule/1/1)
 
-[^key-298f024e21f2bbc072857ecf5375036d]: Commencement: Rule 9 in operation at 30.6.1997, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1997/278/rule/1/1)
+[^c-298f024e21f2bbc072857ecf5375036d]: Commencement: Rule 9 in operation at 30.6.1997, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1997/278/rule/1/1)
 
-[^key-c4c63a5f60eb323e8384cf811f63c65e]: Commencement: Sch. in operation at 30.6.1997, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1997/278/rule/1/1)
+[^c-c4c63a5f60eb323e8384cf811f63c65e]: Commencement: Sch. in operation at 30.6.1997, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1997/278/rule/1/1)
 
-[^key-33ab1f77108ec8f63ba94c70788524fc]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/1997/278/schedule) Form 1 heading: the words “Petty Session District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [23(6)](https://www.legislation.gov.uk/nisr/2016/303/rule/23/6); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-33ab1f77108ec8f63ba94c70788524fc]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/1997/278/schedule) Form 1 heading: the words “Petty Session District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [23(6)](https://www.legislation.gov.uk/nisr/2016/303/rule/23/6); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)

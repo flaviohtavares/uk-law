@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2.7. Manner in which service to be effected[^key-04ab3df35864fdf47cbe460485b3aaba]
+## 2.7. Manner in which service to be effected[^c-04ab3df35864fdf47cbe460485b3aaba]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-04ab3df35864fdf47cbe460485b3aaba]: Commencement: Rule 2.7 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-04ab3df35864fdf47cbe460485b3aaba]: Commencement: Rule 2.7 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

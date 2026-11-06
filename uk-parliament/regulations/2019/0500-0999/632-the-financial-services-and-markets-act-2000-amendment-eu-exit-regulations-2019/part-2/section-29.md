@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Section 71D (sections 71B and 71C: conditions)[^key-4ef776ac156ea5e7c887ee8de4347374]
+## 29. Section 71D (sections 71B and 71C: conditions)[^c-4ef776ac156ea5e7c887ee8de4347374]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 71D (sections 71B and 71C: conditions) in subsection (2) for “any m
 
 ## Annotations
 
-[^key-4ef776ac156ea5e7c887ee8de4347374]: Commencement: Reg. 29 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-4ef776ac156ea5e7c887ee8de4347374]: Commencement: Reg. 29 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)

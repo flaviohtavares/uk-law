@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Contravention of certain regulations not to be an offence[^key-0cf2d680b96afd7925b02f13607ed580]
+## 37. Contravention of certain regulations not to be an offence[^c-0cf2d680b96afd7925b02f13607ed580]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Each of these Regulations, other than regulation 17 (local authority powers in r
 
 ## Annotations
 
-[^key-0cf2d680b96afd7925b02f13607ed580]: Commencement: [Reg. 37](https://www.legislation.gov.uk/wsi/2024/1268/regulation/37) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)
+[^c-0cf2d680b96afd7925b02f13607ed580]: Commencement: [Reg. 37](https://www.legislation.gov.uk/wsi/2024/1268/regulation/37) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. The Central Counterparties (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2018[^key-82f9487c38fa71cb52c1faeb290b6ee2]
+## 44. The Central Counterparties (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2018[^c-82f9487c38fa71cb52c1faeb290b6ee2]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-82f9487c38fa71cb52c1faeb290b6ee2]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/2020/1385/regulation/44) in force at 31.12.2020 immediately before IP completion day, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4)
+[^c-82f9487c38fa71cb52c1faeb290b6ee2]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/2020/1385/regulation/44) in force at 31.12.2020 immediately before IP completion day, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4)
 
 [^f00022]: Footnote: [S.I. 2018/1184](https://www.legislation.gov.uk/uksi/2018/1184), as amended by [S.I 2020/646](https://www.legislation.gov.uk/uksi/2020/646).

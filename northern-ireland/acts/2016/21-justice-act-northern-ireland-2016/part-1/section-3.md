@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 3. Collection order[^key-1f79c525cb28c8dd1e8541feed4eb3ce]
+## 3. Collection order[^c-1f79c525cb28c8dd1e8541feed4eb3ce]
 
 *Extent: N.I.*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1f79c525cb28c8dd1e8541feed4eb3ce]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2016/21/section/3) in operation at 1.6.2018 by [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(a)](https://www.legislation.gov.uk/nisr/2018/99/article/2/a)
+[^c-1f79c525cb28c8dd1e8541feed4eb3ce]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2016/21/section/3) in operation at 1.6.2018 by [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(a)](https://www.legislation.gov.uk/nisr/2018/99/article/2/a)

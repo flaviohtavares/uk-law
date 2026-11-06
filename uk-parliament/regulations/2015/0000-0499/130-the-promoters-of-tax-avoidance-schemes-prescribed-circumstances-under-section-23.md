@@ -46,13 +46,13 @@ Coming into force
 
 The Commissioners for Her Majesty’s Revenue and Customs make the following Regulations in exercise of the powers conferred by sections 235(6) and (7) and 283(1) of the Finance Act 2014[^f00001].
 
-## 1. Citation, commencement and effect[^key-f54f94c2f3b028e9b424926f64ffba3a]
+## 1. Citation, commencement and effect[^c-f54f94c2f3b028e9b424926f64ffba3a]
 
 (1) These Regulations may be cited as the Promoters of Tax Avoidance Schemes (Prescribed Circumstances under Section 235) Regulations 2015 and come into force on 2nd March 2015.
 
 (2) Regulations 2 and 3 have effect from 17th July 2014.
 
-## 2. Company in same group not promoter[^key-71c97a165baafdb86eb375cd7c6d7380]
+## 2. Company in same group not promoter[^c-71c97a165baafdb86eb375cd7c6d7380]
 
 (1) A company (“C”) is not a promoter to the extent that—
 
@@ -68,7 +68,7 @@ The Commissioners for Her Majesty’s Revenue and Customs make the following Reg
 
 (5) In this regulation “51% subsidiary” has the same meaning as it does for the purposes of the Corporation Tax Acts[^f00004].
 
-## 3. Persons not promoters – special cases[^key-67e77b34a43d39cf1f71503b9f78d8e9]
+## 3. Persons not promoters – special cases[^c-67e77b34a43d39cf1f71503b9f78d8e9]
 
 (1) A person (“P”) is not a promoter on account of section 235(2)(a), or by virtue of being responsible to any extent for the design of arrangements within the meaning of section 235(3)(b), where any of the following conditions are met.
 
@@ -76,7 +76,7 @@ The Commissioners for Her Majesty’s Revenue and Customs make the following Reg
 
 (3) P could not reasonably be expected to know that the proposed arrangements, or arrangements, are a relevant proposal or relevant arrangements respectively.
 
-(4)[^key-10a1ac5f2e1ad20ac699c66613338056] But paragraph (1) does not apply if, at the time any of the conditions are met, P is a member of a promotion structure.
+(4)[^c-10a1ac5f2e1ad20ac699c66613338056] But paragraph (1) does not apply if, at the time any of the conditions are met, P is a member of a promotion structure.
 
 Edward Troup
 
@@ -104,9 +104,9 @@ A Tax Information and Impact Note covering this instrument was published on 17th
 
 [^f00001]: Footnote: [2014 c.26](https://www.legislation.gov.uk/ukpga/2014/26).
 
-[^key-f54f94c2f3b028e9b424926f64ffba3a]: Commencement: Reg. 1 in force at 2.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/130/regulation/1/1)
+[^c-f54f94c2f3b028e9b424926f64ffba3a]: Commencement: Reg. 1 in force at 2.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/130/regulation/1/1)
 
-[^key-71c97a165baafdb86eb375cd7c6d7380]: Commencement: Reg. 2 in force at 2.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/130/regulation/1/1)
+[^c-71c97a165baafdb86eb375cd7c6d7380]: Commencement: Reg. 2 in force at 2.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/130/regulation/1/1)
 
 [^f00002]: Footnote: See section 234(1) and (2) for the definitions of “relevant proposal” and “relevant arrangements”.
 
@@ -114,6 +114,6 @@ A Tax Information and Impact Note covering this instrument was published on 17th
 
 [^f00004]: Footnote: See sections 1154 to 1157 of the Corporation Tax Act [2010 (c.4)](https://www.legislation.gov.uk/ukpga/2010/4) for the definition of “51% subsidiary” for the purposes of the Corporation Tax Acts.
 
-[^key-67e77b34a43d39cf1f71503b9f78d8e9]: Commencement: Reg. 3 in force at 2.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/130/regulation/1/1)
+[^c-67e77b34a43d39cf1f71503b9f78d8e9]: Commencement: Reg. 3 in force at 2.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/130/regulation/1/1)
 
-[^key-10a1ac5f2e1ad20ac699c66613338056]: Textual amendment: [Reg. 3(4)](https://www.legislation.gov.uk/uksi/2015/130/regulation/3/4) inserted (30.9.2021) by [The Promoters of Tax Avoidance Schemes (Prescribed Circumstances under Section 235) (Amendment) Regulations 2021 (S.I. 2021/1010)](https://www.legislation.gov.uk/uksi/2021/1010), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1010/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2021/1010/regulation/2/2)
+[^c-10a1ac5f2e1ad20ac699c66613338056]: Textual amendment: [Reg. 3(4)](https://www.legislation.gov.uk/uksi/2015/130/regulation/3/4) inserted (30.9.2021) by [The Promoters of Tax Avoidance Schemes (Prescribed Circumstances under Section 235) (Amendment) Regulations 2021 (S.I. 2021/1010)](https://www.legislation.gov.uk/uksi/2021/1010), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1010/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2021/1010/regulation/2/2)

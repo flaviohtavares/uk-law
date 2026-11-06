@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 207. Court records[^key-36e524e66a76c4fec35f8b2358dc0d66]
+## 207. Court records[^c-36e524e66a76c4fec35f8b2358dc0d66]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 7.24 of the 1991 Rules.
 
 ## Annotations
 
-[^key-36e524e66a76c4fec35f8b2358dc0d66]: Commencement: Rule 207 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-36e524e66a76c4fec35f8b2358dc0d66]: Commencement: Rule 207 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

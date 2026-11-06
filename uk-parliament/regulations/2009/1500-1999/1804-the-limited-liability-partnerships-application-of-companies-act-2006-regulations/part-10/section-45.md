@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Arrangements and reconstructions : general[^key-1aac0ea891bf77c7e354b94dfccead7d]
+## 45. Arrangements and reconstructions : general[^c-1aac0ea891bf77c7e354b94dfccead7d]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,7 +40,7 @@ summary: ''
 > - (c) if the LLP is being wound up, the liquidator, or
 > - (d) if the LLP is in administration, the administrator.
 >
-> (4)[^key-d05c56beb1b58cb14cec8e7e9b1ae3f0] This section is subject to section 899A (moratorium debts, etc).
+> (4)[^c-d05c56beb1b58cb14cec8e7e9b1ae3f0] This section is subject to section 899A (moratorium debts, etc).
 >
 > **897. Statement to be circulated or made available**
 >
@@ -98,7 +98,7 @@ summary: ''
 >
 > (1) If a majority in number representing 75% in value of the creditors or class of creditors or members or class of members (as the case may be), present and voting either in person or by proxy at the meeting summoned under section 896, agree a compromise or arrangement, the court may, on an application under this section, sanction the compromise or arrangement.
 >
-> (1A)[^key-49c2fcc3a99e3a8f0d1673cf5cd6c341] Subsection (1) is subject to section 899A (moratorium debts, etc).
+> (1A)[^c-49c2fcc3a99e3a8f0d1673cf5cd6c341] Subsection (1) is subject to section 899A (moratorium debts, etc).
 >
 > (2) An application under this section may be made by—
 >
@@ -114,7 +114,7 @@ summary: ''
 >
 > (4) The court's order has no effect until a copy of it has been delivered to the registrar.
 >
-> **899A. Moratorium debts, etc[^key-a0530c89f653a5cecb409f22aeddc312]**
+> **899A. Moratorium debts, etc[^c-a0530c89f653a5cecb409f22aeddc312]**
 >
 > (1) This section applies where—
 >
@@ -184,18 +184,18 @@ summary: ''
 
 .
 
-(2) Section 323 of the Companies Act 2006 (representation of corporations at meetings) applies to a meeting of creditors of the LLP under section 896 [^key-4f83d1da813c737facf80c0b62168f8c]... of that Act.
+(2) Section 323 of the Companies Act 2006 (representation of corporations at meetings) applies to a meeting of creditors of the LLP under section 896 [^c-4f83d1da813c737facf80c0b62168f8c]... of that Act.
 
 ## Annotations
 
-[^key-1aac0ea891bf77c7e354b94dfccead7d]: Textual amendment: Word in [reg. 45](https://www.legislation.gov.uk/uksi/2009/1804/regulation/45) heading inserted (16.2.2021) by [The Limited Liability Partnerships (Amendment etc.) Regulations 2021 (S.I. 2021/60)](https://www.legislation.gov.uk/uksi/2021/60), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/60/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2021/60/regulation/2), [Sch. 3 para. 2(2)](https://www.legislation.gov.uk/uksi/2021/60/schedule/3/paragraph/2/2) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2021/60/regulation/4/2))
+[^c-1aac0ea891bf77c7e354b94dfccead7d]: Textual amendment: Word in [reg. 45](https://www.legislation.gov.uk/uksi/2009/1804/regulation/45) heading inserted (16.2.2021) by [The Limited Liability Partnerships (Amendment etc.) Regulations 2021 (S.I. 2021/60)](https://www.legislation.gov.uk/uksi/2021/60), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/60/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2021/60/regulation/2), [Sch. 3 para. 2(2)](https://www.legislation.gov.uk/uksi/2021/60/schedule/3/paragraph/2/2) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2021/60/regulation/4/2))
 
 [^c19765341]: Marginal citation: [Sections 896](https://www.legislation.gov.uk/uksi/2009/1804/section/896) and 899 were amended by article 3(1) of, and paragraphs 249 and 250 of Schedule 1 to, [S.I. 2008/948](https://www.legislation.gov.uk/uksi/2008/948).
 
-[^key-d05c56beb1b58cb14cec8e7e9b1ae3f0]: Textual amendment: Words in [reg. 45(1)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/45/1) inserted (16.2.2021) by [The Limited Liability Partnerships (Amendment etc.) Regulations 2021 (S.I. 2021/60)](https://www.legislation.gov.uk/uksi/2021/60), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/60/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2021/60/regulation/2), [Sch. 3 para. 2(3)(a)](https://www.legislation.gov.uk/uksi/2021/60/schedule/3/paragraph/2/3/a) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2021/60/regulation/4/2))
+[^c-d05c56beb1b58cb14cec8e7e9b1ae3f0]: Textual amendment: Words in [reg. 45(1)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/45/1) inserted (16.2.2021) by [The Limited Liability Partnerships (Amendment etc.) Regulations 2021 (S.I. 2021/60)](https://www.legislation.gov.uk/uksi/2021/60), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/60/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2021/60/regulation/2), [Sch. 3 para. 2(3)(a)](https://www.legislation.gov.uk/uksi/2021/60/schedule/3/paragraph/2/3/a) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2021/60/regulation/4/2))
 
-[^key-49c2fcc3a99e3a8f0d1673cf5cd6c341]: Textual amendment: Words in [reg. 45(1)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/45/1) inserted (16.2.2021) by [The Limited Liability Partnerships (Amendment etc.) Regulations 2021 (S.I. 2021/60)](https://www.legislation.gov.uk/uksi/2021/60), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/60/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2021/60/regulation/2), [Sch. 3 para. 2(3)(b)](https://www.legislation.gov.uk/uksi/2021/60/schedule/3/paragraph/2/3/b) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2021/60/regulation/4/2))
+[^c-49c2fcc3a99e3a8f0d1673cf5cd6c341]: Textual amendment: Words in [reg. 45(1)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/45/1) inserted (16.2.2021) by [The Limited Liability Partnerships (Amendment etc.) Regulations 2021 (S.I. 2021/60)](https://www.legislation.gov.uk/uksi/2021/60), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/60/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2021/60/regulation/2), [Sch. 3 para. 2(3)(b)](https://www.legislation.gov.uk/uksi/2021/60/schedule/3/paragraph/2/3/b) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2021/60/regulation/4/2))
 
-[^key-a0530c89f653a5cecb409f22aeddc312]: Textual amendment: Words in [reg. 45(1)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/45/1) inserted (16.2.2021) by [The Limited Liability Partnerships (Amendment etc.) Regulations 2021 (S.I. 2021/60)](https://www.legislation.gov.uk/uksi/2021/60), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/60/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2021/60/regulation/2), [Sch. 3 para. 2(3)(c)](https://www.legislation.gov.uk/uksi/2021/60/schedule/3/paragraph/2/3/c) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2021/60/regulation/4/2))
+[^c-a0530c89f653a5cecb409f22aeddc312]: Textual amendment: Words in [reg. 45(1)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/45/1) inserted (16.2.2021) by [The Limited Liability Partnerships (Amendment etc.) Regulations 2021 (S.I. 2021/60)](https://www.legislation.gov.uk/uksi/2021/60), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/60/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2021/60/regulation/2), [Sch. 3 para. 2(3)(c)](https://www.legislation.gov.uk/uksi/2021/60/schedule/3/paragraph/2/3/c) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2021/60/regulation/4/2))
 
-[^key-4f83d1da813c737facf80c0b62168f8c]: Textual amendment: Words in [reg. 45(2)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/45/2) omitted (16.2.2021) by virtue of [The Limited Liability Partnerships (Amendment etc.) Regulations 2021 (S.I. 2021/60)](https://www.legislation.gov.uk/uksi/2021/60), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/60/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2021/60/regulation/2), [Sch. 3 para. 2(4)](https://www.legislation.gov.uk/uksi/2021/60/schedule/3/paragraph/2/4) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2021/60/regulation/4/2))
+[^c-4f83d1da813c737facf80c0b62168f8c]: Textual amendment: Words in [reg. 45(2)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/45/2) omitted (16.2.2021) by virtue of [The Limited Liability Partnerships (Amendment etc.) Regulations 2021 (S.I. 2021/60)](https://www.legislation.gov.uk/uksi/2021/60), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/60/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2021/60/regulation/2), [Sch. 3 para. 2(4)](https://www.legislation.gov.uk/uksi/2021/60/schedule/3/paragraph/2/4) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2021/60/regulation/4/2))

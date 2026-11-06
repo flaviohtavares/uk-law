@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Events[^key-4bae428e500bd234872852024a75015d]
+## 8. Events[^c-4bae428e500bd234872852024a75015d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4bae428e500bd234872852024a75015d]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/2016/606/regulation/8) omitted (with application in accordance with reg. 2(4)(5)(a) of the amending S.I.) by virtue of [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2023 (S.I. 2023/74)](https://www.legislation.gov.uk/uksi/2023/74), [reg. 92](https://www.legislation.gov.uk/uksi/2023/74/regulation/92)
+[^c-4bae428e500bd234872852024a75015d]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/2016/606/regulation/8) omitted (with application in accordance with reg. 2(4)(5)(a) of the amending S.I.) by virtue of [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2023 (S.I. 2023/74)](https://www.legislation.gov.uk/uksi/2023/74), [reg. 92](https://www.legislation.gov.uk/uksi/2023/74/regulation/92)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 127. Specialist tobacconists[^key-89cd272d2f62d2cab3250888faae6c68]
+## 127. Specialist tobacconists[^c-89cd272d2f62d2cab3250888faae6c68]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-89cd272d2f62d2cab3250888faae6c68]: Commencement: S. 127 not in force at Royal Assent, see [s. 176(2)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/2/c)
+[^c-89cd272d2f62d2cab3250888faae6c68]: Commencement: S. 127 not in force at Royal Assent, see [s. 176(2)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/2/c)

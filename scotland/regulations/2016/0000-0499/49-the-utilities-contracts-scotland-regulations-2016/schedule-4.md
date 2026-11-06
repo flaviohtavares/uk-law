@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 4 — Procurement by UK contracting authorities[^key-a290b8d97ee8597642360879bcc1df90]
+## SCHEDULE 4 — Procurement by UK contracting authorities[^c-a290b8d97ee8597642360879bcc1df90]
 
 *Extent: S*
 
@@ -124,4 +124,4 @@ regulation 3A
 
 ## Annotations
 
-[^key-a290b8d97ee8597642360879bcc1df90]: Textual amendment: [Schs. 4](https://www.legislation.gov.uk/ssi/2016/49/schedule/4), [5](https://www.legislation.gov.uk/ssi/2016/49/schedule/5) inserted (20.12.2025) by The Cross-[Border Public Procurement (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/392)](https://www.legislation.gov.uk/ssi/2025/392), [regs. 1](https://www.legislation.gov.uk/ssi/2025/392/regulation/1), [3(3)](https://www.legislation.gov.uk/ssi/2025/392/regulation/3/3)
+[^c-a290b8d97ee8597642360879bcc1df90]: Textual amendment: [Schs. 4](https://www.legislation.gov.uk/ssi/2016/49/schedule/4), [5](https://www.legislation.gov.uk/ssi/2016/49/schedule/5) inserted (20.12.2025) by The Cross-[Border Public Procurement (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/392)](https://www.legislation.gov.uk/ssi/2025/392), [regs. 1](https://www.legislation.gov.uk/ssi/2025/392/regulation/1), [3(3)](https://www.legislation.gov.uk/ssi/2025/392/regulation/3/3)

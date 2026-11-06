@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 34. Regulations under section 33: general details[^key-7caafc681757f6086907affe4b10a485]
+## 34. Regulations under section 33: general details[^c-7caafc681757f6086907affe4b10a485]
 
 *Extent: S*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7caafc681757f6086907affe4b10a485]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2019/14/section/34) in force at 30.11.2020 by [S.S.I. 2020/245](https://www.legislation.gov.uk/ssi/2020/245), [reg. 2](https://www.legislation.gov.uk/ssi/2020/245/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/245/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/245/regulation/3))
+[^c-7caafc681757f6086907affe4b10a485]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2019/14/section/34) in force at 30.11.2020 by [S.S.I. 2020/245](https://www.legislation.gov.uk/ssi/2020/245), [reg. 2](https://www.legislation.gov.uk/ssi/2020/245/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/245/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/245/regulation/3))

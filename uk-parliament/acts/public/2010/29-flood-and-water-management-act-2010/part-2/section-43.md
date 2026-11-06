@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 43. Drainage: concessionary charges for community groups[^key-03067de0e549502e55197931474ec7a8]
+## 43. Drainage: concessionary charges for community groups[^c-03067de0e549502e55197931474ec7a8]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-03067de0e549502e55197931474ec7a8]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2010/29/section/43) in force at 1.10.2010 for specified purposes by [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 4](https://www.legislation.gov.uk/uksi/2010/2169/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/2169/schedule)
+[^c-03067de0e549502e55197931474ec7a8]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2010/29/section/43) in force at 1.10.2010 for specified purposes by [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 4](https://www.legislation.gov.uk/uksi/2010/2169/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/2169/schedule)

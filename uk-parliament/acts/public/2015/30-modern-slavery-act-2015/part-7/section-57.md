@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-f9cf70d7f0b4e4e07c88e870b704b16b] Schedule 5 contains minor and consequential amendments.
+(1)[^c-f9cf70d7f0b4e4e07c88e870b704b16b] Schedule 5 contains minor and consequential amendments.
 
 (2) The Secretary of State may by regulations make whatever provision the Secretary of State thinks appropriate in consequence of this Act.
 
@@ -30,4 +30,4 @@ summary: ''
 
 [^c2253159]: Commencement: S. 57 partly in force; s. 57(2)(3) in force at Royal Assent, see [s. 61(3)](https://www.legislation.gov.uk/ukpga/2015/30/section/61/3)
 
-[^key-f9cf70d7f0b4e4e07c88e870b704b16b]: Commencement: S. 57(1) in force at 31.7.2015 for specified purposes by [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/j)
+[^c-f9cf70d7f0b4e4e07c88e870b704b16b]: Commencement: S. 57(1) in force at 31.7.2015 for specified purposes by [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/j)

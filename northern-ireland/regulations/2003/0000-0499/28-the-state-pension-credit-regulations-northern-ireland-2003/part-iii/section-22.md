@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 22. Diminishing notional capital rule[^key-1342c4469f65d70a6556fd33b13f2bcc]
+## 22. Diminishing notional capital rule[^c-1342c4469f65d70a6556fd33b13f2bcc]
 
 *Extent: N.I.*
 
@@ -37,7 +37,7 @@ summary: ''
 (3) Subject to paragraph (4), for the purposes of paragraph (1)(b) the condition is that the claimant would have been entitled to state pension credit in the relevant week, but for regulation 21(1), and in such a case the amount of the reduction shall be equal to the aggregate of –
 
 - (a) the amount of state pension credit to which the claimant would have been entitled in the relevant week but for regulation 21(1);
-- (b) the amount of housing benefit (if any) equal to the difference between his maximum housing benefit and the amount (if any) of housing benefit which he is awarded in respect of the benefit week, within the meaning ascribed to it in regulation 2(1) of the Housing Benefit (State Pension Credit) Regulations[^key-7f09a90eb99143c533f0a216e6c3c4d9] (interpretation), which includes the last day of the relevant week.
+- (b) the amount of housing benefit (if any) equal to the difference between his maximum housing benefit and the amount (if any) of housing benefit which he is awarded in respect of the benefit week, within the meaning ascribed to it in regulation 2(1) of the Housing Benefit (State Pension Credit) Regulations[^c-7f09a90eb99143c533f0a216e6c3c4d9] (interpretation), which includes the last day of the relevant week.
 
 (4) The amount determined under paragraph (3) shall be re-determined under that paragraph if the claimant makes a further claim for state pension credit and the conditions in paragraph (5) are satisfied, and in such a case –
 
@@ -67,6 +67,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1342c4469f65d70a6556fd33b13f2bcc]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2003/28/regulation/22) in operation at 6.10.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/28/regulation/1/1)
+[^c-1342c4469f65d70a6556fd33b13f2bcc]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2003/28/regulation/22) in operation at 6.10.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/28/regulation/1/1)
 
-[^key-7f09a90eb99143c533f0a216e6c3c4d9]: Textual amendment: Words in [reg. 22(3)(b)](https://www.legislation.gov.uk/nisr/2003/28/regulation/22/3/b) substituted (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 2 para. 11(3)](https://www.legislation.gov.uk/nisr/2006/407/schedule/2/paragraph/11/3) (with [reg. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-7f09a90eb99143c533f0a216e6c3c4d9]: Textual amendment: Words in [reg. 22(3)(b)](https://www.legislation.gov.uk/nisr/2003/28/regulation/22/3/b) substituted (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 2 para. 11(3)](https://www.legislation.gov.uk/nisr/2006/407/schedule/2/paragraph/11/3) (with [reg. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))

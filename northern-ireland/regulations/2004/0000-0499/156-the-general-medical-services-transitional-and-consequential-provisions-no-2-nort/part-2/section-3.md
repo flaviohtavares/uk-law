@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 3. Applications for inclusion in lists of patients[^key-2a1213e92e9f4318798e2d2563a56638]
+## 3. Applications for inclusion in lists of patients[^c-2a1213e92e9f4318798e2d2563a56638]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ Where, on or before 31st March 2004, a person had applied to a relevant medical 
 
 ## Annotations
 
-[^key-2a1213e92e9f4318798e2d2563a56638]: Commencement: Art. 3 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-2a1213e92e9f4318798e2d2563a56638]: Commencement: Art. 3 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 33. Persons to be afforded opportunity to make victim statement[^key-e1e2f808bbfa2d7a1b271c3d5e0f3014]
+## 33. Persons to be afforded opportunity to make victim statement[^c-e1e2f808bbfa2d7a1b271c3d5e0f3014]
 
 *Extent: N.I.*
 
@@ -61,4 +61,4 @@ a member of the family of the victim is to be afforded an opportunity to make a 
 
 ## Annotations
 
-[^key-e1e2f808bbfa2d7a1b271c3d5e0f3014]: Commencement: [S. 33](https://www.legislation.gov.uk/nia/2015/9/section/33) in operation at 1.9.2015 by [S.R. 2015/320](https://www.legislation.gov.uk/nisr/2015/320), [art. 2(e)](https://www.legislation.gov.uk/nisr/2015/320/article/2/e)
+[^c-e1e2f808bbfa2d7a1b271c3d5e0f3014]: Commencement: [S. 33](https://www.legislation.gov.uk/nia/2015/9/section/33) in operation at 1.9.2015 by [S.R. 2015/320](https://www.legislation.gov.uk/nisr/2015/320), [art. 2(e)](https://www.legislation.gov.uk/nisr/2015/320/article/2/e)

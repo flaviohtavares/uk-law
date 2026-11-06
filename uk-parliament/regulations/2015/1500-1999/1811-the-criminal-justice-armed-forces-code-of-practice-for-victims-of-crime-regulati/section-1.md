@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Citation and commencement[^key-ea4e3f61f37cee9e07bda67c157eee91]
+## 1. Citation and commencement[^c-ea4e3f61f37cee9e07bda67c157eee91]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ These Regulations may be cited as the Criminal Justice (Armed Forces Code of Pra
 
 ## Annotations
 
-[^key-ea4e3f61f37cee9e07bda67c157eee91]: Commencement: Reg. 1 in force at 16.11.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1811/regulation/1)
+[^c-ea4e3f61f37cee9e07bda67c157eee91]: Commencement: Reg. 1 in force at 16.11.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1811/regulation/1)

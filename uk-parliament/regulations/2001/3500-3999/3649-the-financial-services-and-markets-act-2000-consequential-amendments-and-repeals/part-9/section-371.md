@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 371. Acquisition and disposal of securities by trustees etc[^key-90634f6e5a1ba12e88cc4e519a9fc54e]
+## 371. Acquisition and disposal of securities by trustees etc[^c-90634f6e5a1ba12e88cc4e519a9fc54e]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,7 +45,7 @@ summary: ''
 
 ## Annotations
 
-[^key-90634f6e5a1ba12e88cc4e519a9fc54e]: Commencement: Art. 371 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-90634f6e5a1ba12e88cc4e519a9fc54e]: Commencement: Art. 371 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00264]: Footnote: Article 7(1) was amended by the Financial Services Act [1986 (c. 60)](https://www.legislation.gov.uk/ukpga/1986/60), s. 194.
 

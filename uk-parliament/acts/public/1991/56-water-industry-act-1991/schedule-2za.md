@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2ZA — Procedure for appeals under section 12D[^key-5ad48121f9fd770a80707cfe22871328]
+## SCHEDULE 2ZA — Procedure for appeals under section 12D[^c-5ad48121f9fd770a80707cfe22871328]
 
 *Extent: E+W+S+N.I.*
 
@@ -292,4 +292,4 @@ it is satisfied that the defaulter, without reasonable excuse, failed to comply 
 
 ## Annotations
 
-[^key-5ad48121f9fd770a80707cfe22871328]: Textual amendment: [Sch. 2ZA](https://www.legislation.gov.uk/ukpga/1991/56/schedule/2ZA) inserted (24.1.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 86(6)](https://www.legislation.gov.uk/ukpga/2021/30/section/86/6), [147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3), [Sch. 13](https://www.legislation.gov.uk/ukpga/2021/30/schedule/13) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/m)
+[^c-5ad48121f9fd770a80707cfe22871328]: Textual amendment: [Sch. 2ZA](https://www.legislation.gov.uk/ukpga/1991/56/schedule/2ZA) inserted (24.1.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 86(6)](https://www.legislation.gov.uk/ukpga/2021/30/section/86/6), [147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3), [Sch. 13](https://www.legislation.gov.uk/ukpga/2021/30/schedule/13) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/m)

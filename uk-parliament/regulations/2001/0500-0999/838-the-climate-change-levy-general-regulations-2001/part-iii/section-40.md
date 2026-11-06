@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Suppliers to producers of commodities[^key-a50f3a9695c5cde94ef4b17b9f78cadd]
+## 40. Suppliers to producers of commodities[^c-a50f3a9695c5cde94ef4b17b9f78cadd]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a50f3a9695c5cde94ef4b17b9f78cadd]: Commencement: Reg. 40 in force at 1.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/838/regulation/1)
+[^c-a50f3a9695c5cde94ef4b17b9f78cadd]: Commencement: Reg. 40 in force at 1.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/838/regulation/1)

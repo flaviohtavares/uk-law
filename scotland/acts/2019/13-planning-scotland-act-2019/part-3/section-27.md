@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 27. Delegation of development decisions[^key-60ec81b9efd96f7c834bdcaf9ab93ff4]
+## 27. Delegation of development decisions[^c-60ec81b9efd96f7c834bdcaf9ab93ff4]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-60ec81b9efd96f7c834bdcaf9ab93ff4]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2019/13/section/27) in force at 1.3.2020 by [S.S.I. 2019/385](https://www.legislation.gov.uk/ssi/2019/385), [reg. 3](https://www.legislation.gov.uk/ssi/2019/385/regulation/3)
+[^c-60ec81b9efd96f7c834bdcaf9ab93ff4]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2019/13/section/27) in force at 1.3.2020 by [S.S.I. 2019/385](https://www.legislation.gov.uk/ssi/2019/385), [reg. 3](https://www.legislation.gov.uk/ssi/2019/385/regulation/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. Revocation of regulation 210[^key-667dfb6fb4e4810d6c742f85ff617402]
+## 98. Revocation of regulation 210[^c-667dfb6fb4e4810d6c742f85ff617402]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Omit regulation 210 (offences relating to pharmacovigilance obligations under Re
 
 ## Annotations
 
-[^key-667dfb6fb4e4810d6c742f85ff617402]: Commencement: [Reg. 98](https://www.legislation.gov.uk/uksi/2024/832/regulation/98) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-667dfb6fb4e4810d6c742f85ff617402]: Commencement: [Reg. 98](https://www.legislation.gov.uk/uksi/2024/832/regulation/98) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)

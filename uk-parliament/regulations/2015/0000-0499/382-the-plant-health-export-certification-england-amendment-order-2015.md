@@ -32,7 +32,7 @@ summary: ''
 
 Plant Health, England
 
-The Plant Health (Export Certification) (England) (Amendment) Order 2015 (revoked)[^key-c8f15a4d7507dd7a9e04264609379a8e]
+The Plant Health (Export Certification) (England) (Amendment) Order 2015 (revoked)[^c-c8f15a4d7507dd7a9e04264609379a8e]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 6th April 2015
 
-[^key-c8f15a4d7507dd7a9e04264609379a8e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c8f15a4d7507dd7a9e04264609379a8e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-c8f15a4d7507dd7a9e04264609379a8e]
+## 1. Title and commencement[^c-c8f15a4d7507dd7a9e04264609379a8e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Plant Health (Export Certification) (England) Order 2004[^key-c8f15a4d7507dd7a9e04264609379a8e]
+## 2. Amendment of the Plant Health (Export Certification) (England) Order 2004[^c-c8f15a4d7507dd7a9e04264609379a8e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c8f15a4d7507dd7a9e04264609379a8e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c8f15a4d7507dd7a9e04264609379a8e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c8f15a4d7507dd7a9e04264609379a8e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c8f15a4d7507dd7a9e04264609379a8e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c8f15a4d7507dd7a9e04264609379a8e]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2015/382) revoked (14.1.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (England) Regulations 2019 (S.I. 2019/1517)](https://www.legislation.gov.uk/uksi/2019/1517), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1517/regulation/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2019/1517/schedule/6)
+[^c-c8f15a4d7507dd7a9e04264609379a8e]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2015/382) revoked (14.1.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (England) Regulations 2019 (S.I. 2019/1517)](https://www.legislation.gov.uk/uksi/2019/1517), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1517/regulation/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2019/1517/schedule/6)

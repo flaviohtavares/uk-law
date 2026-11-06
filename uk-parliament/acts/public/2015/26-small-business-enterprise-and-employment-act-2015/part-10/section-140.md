@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 140. Recognised professional bodies: revocation of recognition[^key-dbac37909f06082947aeebdac4423463]
+## 140. Recognised professional bodies: revocation of recognition[^c-dbac37909f06082947aeebdac4423463]
 
 *Extent: E+W+S+N.I.*
 
@@ -106,4 +106,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dbac37909f06082947aeebdac4423463]: Commencement: [S. 140](https://www.legislation.gov.uk/ukpga/2015/26/section/140) in force at 1.10.2015 immediately after 2015 c. 20, s. 17 comes into force by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/3/a)
+[^c-dbac37909f06082947aeebdac4423463]: Commencement: [S. 140](https://www.legislation.gov.uk/ukpga/2015/26/section/140) in force at 1.10.2015 immediately after 2015 c. 20, s. 17 comes into force by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/3/a)

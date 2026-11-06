@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 94A. Bollards and other obstructions: terrorism[^key-b792c464550f8b85e1ab4e0ccd6de7af]
+## 94A. Bollards and other obstructions: terrorism[^c-b792c464550f8b85e1ab4e0ccd6de7af]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b792c464550f8b85e1ab4e0ccd6de7af]: Textual amendment: [S. 94A](https://www.legislation.gov.uk/ukpga/1984/27/section/94A) inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 15(11)](https://www.legislation.gov.uk/ukpga/2019/3/section/15/11), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3)
+[^c-b792c464550f8b85e1ab4e0ccd6de7af]: Textual amendment: [S. 94A](https://www.legislation.gov.uk/ukpga/1984/27/section/94A) inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 15(11)](https://www.legislation.gov.uk/ukpga/2019/3/section/15/11), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3)

@@ -29,15 +29,15 @@ Fire Precautions (Loans) Act 1973 (repealed)
 
 1973 c.11
 
-[^key-dc6ef5168cfc84d6a9583344a91b98dc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dc6ef5168cfc84d6a9583344a91b98dc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Loans to meet certain expenditure occasioned by Fire Precautions Act 1971.[^key-dc6ef5168cfc84d6a9583344a91b98dc][^key-dc6ef5168cfc84d6a9583344a91b98dc]
+## 1. Loans to meet certain expenditure occasioned by Fire Precautions Act 1971.[^c-dc6ef5168cfc84d6a9583344a91b98dc][^c-dc6ef5168cfc84d6a9583344a91b98dc]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Short title and extent.[^key-dc6ef5168cfc84d6a9583344a91b98dc][^key-dc6ef5168cfc84d6a9583344a91b98dc]
+## 2. Short title and extent.[^c-dc6ef5168cfc84d6a9583344a91b98dc][^c-dc6ef5168cfc84d6a9583344a91b98dc]
 
 **No longer in force.**
 
@@ -45,4 +45,4 @@ Fire Precautions (Loans) Act 1973 (repealed)
 
 ## Annotations
 
-[^key-dc6ef5168cfc84d6a9583344a91b98dc]: Textual amendment: Act repealed: (E.W.) (1.10.2006) by [Regulatory Reform (Fire Safety) Order 2005 (S.I. 2005/1541)](https://www.legislation.gov.uk/uksi/2005/1541), [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/1541/article/1/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2005/1541/schedule/4) (with [art. 49](https://www.legislation.gov.uk/uksi/2005/1541/article/49)) (as amended by [The Regulatory Reform (Fire Safety) Subordinate Provisions Order 2006 (S.I. 2006/484)](https://www.legislation.gov.uk/uksi/2006/484), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/484/article/1/1), [2](https://www.legislation.gov.uk/uksi/2006/484/article/2)); (S.) (1.10.2006) by [Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 1](https://www.legislation.gov.uk/ssi/2006/475/article/1), [Sch. 2](https://www.legislation.gov.uk/ssi/2006/475/schedule/2)
+[^c-dc6ef5168cfc84d6a9583344a91b98dc]: Textual amendment: Act repealed: (E.W.) (1.10.2006) by [Regulatory Reform (Fire Safety) Order 2005 (S.I. 2005/1541)](https://www.legislation.gov.uk/uksi/2005/1541), [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/1541/article/1/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2005/1541/schedule/4) (with [art. 49](https://www.legislation.gov.uk/uksi/2005/1541/article/49)) (as amended by [The Regulatory Reform (Fire Safety) Subordinate Provisions Order 2006 (S.I. 2006/484)](https://www.legislation.gov.uk/uksi/2006/484), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/484/article/1/1), [2](https://www.legislation.gov.uk/uksi/2006/484/article/2)); (S.) (1.10.2006) by [Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 1](https://www.legislation.gov.uk/ssi/2006/475/article/1), [Sch. 2](https://www.legislation.gov.uk/ssi/2006/475/schedule/2)

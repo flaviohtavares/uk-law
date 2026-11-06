@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^key-0036c38c659d15e5d18fd51fdb3a65f0]
+## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^c-0036c38c659d15e5d18fd51fdb3a65f0]
 
 *Extent: E+W*
 
@@ -136,7 +136,7 @@ Work No. 40 - As shown on sheet 3 of the works plans, the construction of the Ca
 
 Work No. 41 - As shown on sheet 3 of the works plans, the construction of the Cattle Market West Bridge to carry the A46 dual carriageway between the Cattle Market Junction and the existing Nottingham to Lincoln Railway Line East Crossing (Work No. 33).
 
-Work No. 42 - As shown on sheet 3 of the works plans, the realignment of the A617 Kelham Road[^key-09928f3e857e8de680dd9b1edf62e4c1] to tie into the Cattle Market Junction Circulatory (Work No. 40) of 205 metres in length, including a cycle track of 30 metres in length at the Cattle Market Junction.
+Work No. 42 - As shown on sheet 3 of the works plans, the realignment of the A617 Kelham Road[^c-09928f3e857e8de680dd9b1edf62e4c1] to tie into the Cattle Market Junction Circulatory (Work No. 40) of 205 metres in length, including a cycle track of 30 metres in length at the Cattle Market Junction.
 
 Work No. 43 - As shown on sheet 3 of the works plans, the construction of an extension to the existing culvert under the realigned A617 (Work No. 42).
 
@@ -293,7 +293,7 @@ Work No. 107 - As shown on sheet 6 of the works plans, the construction of atten
 
 Work No. 108 - As shown on sheet 6 of the works plans, the construction of the new Winthorpe Roundabout, 350 metres in length, including new gyratory lanes and tie-in works to the roads joining the roundabout.
 
-Work No. 109 - As shown on sheet 6 of the works plans, the realignment of the A1133 [^key-0e1dc91b74cf0d3e956bd4f603154189]..., 320 metres in length, to connect to the new Winthorpe Roundabout (Work No. 108).
+Work No. 109 - As shown on sheet 6 of the works plans, the realignment of the A1133 [^c-0e1dc91b74cf0d3e956bd4f603154189]..., 320 metres in length, to connect to the new Winthorpe Roundabout (Work No. 108).
 
 Work No. 110 - As shown on sheet 6 of the works plans, the construction of a new access track of 415 metres in length to the realigned A1133 (Work No. 109).
 
@@ -387,7 +387,7 @@ Work No. U24 - As shown on sheets 5 and 6 of the utilities works plans, the dive
 
 Work No. U25 - As shown on sheet 6 of the utilities works plans, the diversion of electronic communications equipment at the new Winthorpe Roundabout.
 
-Work No. U26 - As shown on sheet 6 of the utilities works plans, the diversion of electronic communications equipment at the new Winthorpe Roundabout starting at the A1133 [^key-0e1dc91b74cf0d3e956bd4f603154189] ....
+Work No. U26 - As shown on sheet 6 of the utilities works plans, the diversion of electronic communications equipment at the new Winthorpe Roundabout starting at the A1133 [^c-0e1dc91b74cf0d3e956bd4f603154189] ....
 
 Work No. U27 - As shown on sheet 6 of the utilities works plans, the diversion of apparatus for electronic communications equipment north of the new Winthorpe Roundabout.
 
@@ -437,12 +437,12 @@ For the purposes of or in connection with the construction of any of the works a
 
 ## Annotations
 
-[^key-0036c38c659d15e5d18fd51fdb3a65f0]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2025/1090/schedule/1/crossheading) in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)
+[^c-0036c38c659d15e5d18fd51fdb3a65f0]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2025/1090/schedule/1/crossheading) in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)
 
 [^f00108]: Footnote: Section 22 was substituted by [S.I. 2013/1883](https://www.legislation.gov.uk/uksi/2013/1883) and amended by paragraph 153 of Part 2 of Schedule 1 to the Infrastructure Act [2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7).
 
 [^f00109]: Footnote: Section 115(2) was amended by section 160(3) of the Housing and Planning Act [2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22). There are other amendments to section 115(2) which are not relevant to this Order.
 
-[^key-09928f3e857e8de680dd9b1edf62e4c1]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2025/1090/schedule/1) substituted (12.1.2026) by [The A46 Newark Bypass Development Consent (Correction) Order 2026 (S.I. 2026/16)](https://www.legislation.gov.uk/uksi/2026/16), [art. 1](https://www.legislation.gov.uk/uksi/2026/16/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/16/schedule)
+[^c-09928f3e857e8de680dd9b1edf62e4c1]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2025/1090/schedule/1) substituted (12.1.2026) by [The A46 Newark Bypass Development Consent (Correction) Order 2026 (S.I. 2026/16)](https://www.legislation.gov.uk/uksi/2026/16), [art. 1](https://www.legislation.gov.uk/uksi/2026/16/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/16/schedule)
 
-[^key-0e1dc91b74cf0d3e956bd4f603154189]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2025/1090/schedule/1) omitted (12.1.2026) by virtue of [The A46 Newark Bypass Development Consent (Correction) Order 2026 (S.I. 2026/16)](https://www.legislation.gov.uk/uksi/2026/16), [art. 1](https://www.legislation.gov.uk/uksi/2026/16/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/16/schedule)
+[^c-0e1dc91b74cf0d3e956bd4f603154189]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2025/1090/schedule/1) omitted (12.1.2026) by virtue of [The A46 Newark Bypass Development Consent (Correction) Order 2026 (S.I. 2026/16)](https://www.legislation.gov.uk/uksi/2026/16), [art. 1](https://www.legislation.gov.uk/uksi/2026/16/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/16/schedule)

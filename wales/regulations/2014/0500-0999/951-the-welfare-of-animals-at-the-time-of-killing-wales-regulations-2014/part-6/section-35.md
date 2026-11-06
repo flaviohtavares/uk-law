@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Power to enter premises[^key-142ff7fe04bb744ac976694b4c0c666b]
+## 35. Power to enter premises[^c-142ff7fe04bb744ac976694b4c0c666b]
 
 *Extent: E+W*
 
@@ -36,10 +36,10 @@ summary: ''
 
 (5) An inspector who enters any unoccupied premises must leave them as effectively secured against unauthorised entry as they were before entry.
 
-(6)[^key-ebe8ba0c53ac0880edabe1bd54acf00a] An inspector may be accompanied by such other persons as the inspector considers necessary.
+(6)[^c-ebe8ba0c53ac0880edabe1bd54acf00a] An inspector may be accompanied by such other persons as the inspector considers necessary.
 
 ## Annotations
 
-[^key-142ff7fe04bb744ac976694b4c0c666b]: Commencement: [Reg. 35](https://www.legislation.gov.uk/wsi/2014/951/regulation/35) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-142ff7fe04bb744ac976694b4c0c666b]: Commencement: [Reg. 35](https://www.legislation.gov.uk/wsi/2014/951/regulation/35) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
 
-[^key-ebe8ba0c53ac0880edabe1bd54acf00a]: Textual amendment: [Reg. 35(6)](https://www.legislation.gov.uk/wsi/2014/951/regulation/35/6) substituted (31.12.2020) by [The Animal Health and Welfare (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/684)](https://www.legislation.gov.uk/wsi/2019/684), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/684/regulation/1/2), [5(6)](https://www.legislation.gov.uk/wsi/2019/684/regulation/5/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ebe8ba0c53ac0880edabe1bd54acf00a]: Textual amendment: [Reg. 35(6)](https://www.legislation.gov.uk/wsi/2014/951/regulation/35/6) substituted (31.12.2020) by [The Animal Health and Welfare (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/684)](https://www.legislation.gov.uk/wsi/2019/684), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/684/regulation/1/2), [5(6)](https://www.legislation.gov.uk/wsi/2019/684/regulation/5/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

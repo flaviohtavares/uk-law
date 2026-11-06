@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 86. Spouse or civil partner of accused a compellable witness[^key-96033974b8916487c7d9aae7ee255117]
+## 86. Spouse or civil partner of accused a compellable witness[^c-96033974b8916487c7d9aae7ee255117]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-96033974b8916487c7d9aae7ee255117]: Commencement: [S. 86](https://www.legislation.gov.uk/asp/2010/13/section/86) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule))
+[^c-96033974b8916487c7d9aae7ee255117]: Commencement: [S. 86](https://www.legislation.gov.uk/asp/2010/13/section/86) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule))

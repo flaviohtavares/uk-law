@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77F. Exception from liability under section 5A[^key-d9f7da51b8fd839d2e33eb98ba2cac23]
+## 77F. Exception from liability under section 5A[^c-d9f7da51b8fd839d2e33eb98ba2cac23]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d9f7da51b8fd839d2e33eb98ba2cac23]: Textual amendment: S. 77F and crossheading inserted (31.12.2020 in so far as not already in force, 17.12.2020 for specified purposes) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 3 para. 13](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/13) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-d9f7da51b8fd839d2e33eb98ba2cac23]: Textual amendment: S. 77F and crossheading inserted (31.12.2020 in so far as not already in force, 17.12.2020 for specified purposes) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 3 para. 13](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/13) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)

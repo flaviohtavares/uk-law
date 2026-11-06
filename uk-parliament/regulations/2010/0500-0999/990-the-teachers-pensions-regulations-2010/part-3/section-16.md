@@ -28,7 +28,7 @@ summary: ''
 
 (2) Residential benefits in kind are also part of T's contributable salary if the conditions in paragraph (4) are met.
 
-(3) But if the money value of the residential accommodation mentioned in paragraph (1)(a)[^key-a738360fe054c5d0ab6c04d14c7c7ed9] exceeds one sixth of the aggregate of the amounts mentioned in regulation 15(2) or, where applicable, regulation 15(3)(a) and (b), the excess is not part of T's contributable salary.
+(3) But if the money value of the residential accommodation mentioned in paragraph (1)(a)[^c-a738360fe054c5d0ab6c04d14c7c7ed9] exceeds one sixth of the aggregate of the amounts mentioned in regulation 15(2) or, where applicable, regulation 15(3)(a) and (b), the excess is not part of T's contributable salary.
 
 (4) The conditions are—
 
@@ -47,7 +47,7 @@ summary: ''
 - (a) all contributions referred to in regulation 30(1)(a) and (b) paid by the employer during the period when the residential benefits were treated as part of T's contributable salary, and
 - (b) all contributions referred to in regulation 30(1)(a) and (b) which would have been payable during that period without the residential benefits being treated as part of T's contributable salary
 
-[^key-763bc40f87a1eb151e548a63195b021f]....
+[^c-763bc40f87a1eb151e548a63195b021f]....
 
 (9) The interest is interest on the contributions referred to in paragraph (8) at the rate of 3% per year, compounded with yearly rests, from the first day of the financial year following that in which they were paid to the date of repayment.
 
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a738360fe054c5d0ab6c04d14c7c7ed9]: Textual amendment: Words in [reg. 16(3)](https://www.legislation.gov.uk/uksi/2010/990/regulation/16/3) substituted (1.4.2012) by [The Teachers’ Pensions (Amendment) Regulations 2012 (S.I. 2012/673)](https://www.legislation.gov.uk/uksi/2012/673), [regs. 1](https://www.legislation.gov.uk/uksi/2012/673/regulation/1), [3](https://www.legislation.gov.uk/uksi/2012/673/regulation/3)
+[^c-a738360fe054c5d0ab6c04d14c7c7ed9]: Textual amendment: Words in [reg. 16(3)](https://www.legislation.gov.uk/uksi/2010/990/regulation/16/3) substituted (1.4.2012) by [The Teachers’ Pensions (Amendment) Regulations 2012 (S.I. 2012/673)](https://www.legislation.gov.uk/uksi/2012/673), [regs. 1](https://www.legislation.gov.uk/uksi/2012/673/regulation/1), [3](https://www.legislation.gov.uk/uksi/2012/673/regulation/3)
 
-[^key-763bc40f87a1eb151e548a63195b021f]: Textual amendment: Words in [reg. 16(8)](https://www.legislation.gov.uk/uksi/2010/990/regulation/16/8) omitted (1.4.2015) by virtue of [The Teachers' Pensions (Miscellaneous Amendments) (No. 2) Regulations 2014 (S.I. 2014/2651)](https://www.legislation.gov.uk/uksi/2014/2651), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2651/regulation/1), [7](https://www.legislation.gov.uk/uksi/2014/2651/regulation/7)
+[^c-763bc40f87a1eb151e548a63195b021f]: Textual amendment: Words in [reg. 16(8)](https://www.legislation.gov.uk/uksi/2010/990/regulation/16/8) omitted (1.4.2015) by virtue of [The Teachers' Pensions (Miscellaneous Amendments) (No. 2) Regulations 2014 (S.I. 2014/2651)](https://www.legislation.gov.uk/uksi/2014/2651), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2651/regulation/1), [7](https://www.legislation.gov.uk/uksi/2014/2651/regulation/7)

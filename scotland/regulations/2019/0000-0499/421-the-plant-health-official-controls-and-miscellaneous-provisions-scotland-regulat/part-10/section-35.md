@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 35. Miscellaneous provisions as to notices[^key-eb54c8d68da95268c5351b9b2d0e2ba6]
+## 35. Miscellaneous provisions as to notices[^c-eb54c8d68da95268c5351b9b2d0e2ba6]
 
 *Extent: S*
 
-(1) This regulation applies to any notice given by a plant health inspector under these Regulations other than a notice given under regulation 32B(4)[^key-a54005d07755edb4ca54bc1f1cbf988e].
+(1) This regulation applies to any notice given by a plant health inspector under these Regulations other than a notice given under regulation 32B(4)[^c-a54005d07755edb4ca54bc1f1cbf988e].
 
 (2) The notice may—
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-eb54c8d68da95268c5351b9b2d0e2ba6]: Commencement: Reg. 35 in force at 14.12.2019, see reg. 1(1)
+[^c-eb54c8d68da95268c5351b9b2d0e2ba6]: Commencement: Reg. 35 in force at 14.12.2019, see reg. 1(1)
 
-[^key-a54005d07755edb4ca54bc1f1cbf988e]: Textual amendment: Words in [reg. 35(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/35/1) inserted (27.6.2020) by [The Plant Health (Official Controls and Miscellaneous Provisions) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/176)](https://www.legislation.gov.uk/ssi/2020/176), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/176/regulation/1/1), [17](https://www.legislation.gov.uk/ssi/2020/176/regulation/17)
+[^c-a54005d07755edb4ca54bc1f1cbf988e]: Textual amendment: Words in [reg. 35(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/35/1) inserted (27.6.2020) by [The Plant Health (Official Controls and Miscellaneous Provisions) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/176)](https://www.legislation.gov.uk/ssi/2020/176), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/176/regulation/1/1), [17](https://www.legislation.gov.uk/ssi/2020/176/regulation/17)

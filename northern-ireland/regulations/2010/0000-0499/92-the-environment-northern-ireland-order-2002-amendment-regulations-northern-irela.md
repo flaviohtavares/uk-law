@@ -44,20 +44,20 @@ The Department of the Environment is a department designated[^f00001] for the pu
 
 The Department, in exercise of the powers conferred on it by that section, makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-6a5c7eb42342d9c2a4b4097c1474c9a4]
+## 1. Citation, commencement and interpretation[^c-6a5c7eb42342d9c2a4b4097c1474c9a4]
 
 (1) These Regulations may be cited as the Environment (Northern Ireland) Order 2002 (Amendment) Regulations (Northern Ireland) 2010 and shall come into operation on 1<sup>st</sup> April 2010.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00003] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly.
 
-## 2. Amendment to the Environment (Northern Ireland) Order 2002[^key-723fafdc43390ae9d4d727b7cf81134f]
+## 2. Amendment to the Environment (Northern Ireland) Order 2002[^c-723fafdc43390ae9d4d727b7cf81134f]
 
 (1) The Environment (Northern Ireland) Order 2002[^f00004] shall be amended in accordance with paragraph (2).
 
 (2) In Schedule 1—
 
-- (a)[^key-d619122636fbfcf28bcbe75bfe66ae57] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-d619122636fbfcf28bcbe75bfe66ae57] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-d619122636fbfcf28bcbe75bfe66ae57] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-d619122636fbfcf28bcbe75bfe66ae57] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) After paragraph 24 insert—
 
   > **24A.** The regulations may require any scheme as is mentioned in paragraph 9A to include provision which gives effect to any proposal of the Environment Agency to prescribe operator registry charges and for any such charges to be paid to that Agency.
@@ -70,9 +70,9 @@ The Department, in exercise of the powers conferred on it by that section, makes
 
     > - “Environment Agency” means the Agency constituted under the Environment Act 1995[^f00006];
   - (ii) after “under that Article”, for “.” substitute “:”; and
-  - (iii)[^key-f1d1232411bf667d3067aa40776dbfcf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii)[^c-f1d1232411bf667d3067aa40776dbfcf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment to Regulation 18 of the Greenhouse Gas Emissions Trading Scheme Regulations 2005[^key-ebb5a6e62b2e7b45771bbd741c0d1aa0]
+## 3. Amendment to Regulation 18 of the Greenhouse Gas Emissions Trading Scheme Regulations 2005[^c-ebb5a6e62b2e7b45771bbd741c0d1aa0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -98,18 +98,18 @@ Regulation 3 amends Regulation 18(3) of the Greenhouse Gas Emissions Trading Sch
 
 [^f00002]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68)
 
-[^key-6a5c7eb42342d9c2a4b4097c1474c9a4]: Commencement: Reg. 1 in operation at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/92/regulation/1/1)
+[^c-6a5c7eb42342d9c2a4b4097c1474c9a4]: Commencement: Reg. 1 in operation at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/92/regulation/1/1)
 
 [^f00003]: Footnote: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-723fafdc43390ae9d4d727b7cf81134f]: Commencement: Reg. 2 in operation at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/92/regulation/1/1)
+[^c-723fafdc43390ae9d4d727b7cf81134f]: Commencement: Reg. 2 in operation at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/92/regulation/1/1)
 
 [^f00004]: Footnote: [2002 No. 3153 (N.I. 7)](https://www.legislation.gov.uk/nisi/2002/3153)
 
-[^key-d619122636fbfcf28bcbe75bfe66ae57]: Textual amendment: [Reg. 2(2)(a)](https://www.legislation.gov.uk/nisr/2010/92/regulation/2/2/a)[(b)](https://www.legislation.gov.uk/nisr/2010/92/regulation/2/2/b) revoked (3.12.2012) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (Charging Schemes) Regulations 2012 (S.I. 2012/2788)](https://www.legislation.gov.uk/uksi/2012/2788), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2788/regulation/1), [17(3)(a)](https://www.legislation.gov.uk/uksi/2012/2788/regulation/17/3/a)
+[^c-d619122636fbfcf28bcbe75bfe66ae57]: Textual amendment: [Reg. 2(2)(a)](https://www.legislation.gov.uk/nisr/2010/92/regulation/2/2/a)[(b)](https://www.legislation.gov.uk/nisr/2010/92/regulation/2/2/b) revoked (3.12.2012) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (Charging Schemes) Regulations 2012 (S.I. 2012/2788)](https://www.legislation.gov.uk/uksi/2012/2788), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2788/regulation/1), [17(3)(a)](https://www.legislation.gov.uk/uksi/2012/2788/regulation/17/3/a)
 
 [^f00006]: Footnote: [1995 c.25](https://www.legislation.gov.uk/ukpga/1995/25)
 
-[^key-f1d1232411bf667d3067aa40776dbfcf]: Textual amendment: [Reg. 2(2)(d)(iii)](https://www.legislation.gov.uk/nisr/2010/92/regulation/2/2/d/iii) revoked (3.12.2012) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (Charging Schemes) Regulations 2012 (S.I. 2012/2788)](https://www.legislation.gov.uk/uksi/2012/2788), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2788/regulation/1), [17(3)(b)](https://www.legislation.gov.uk/uksi/2012/2788/regulation/17/3/b)
+[^c-f1d1232411bf667d3067aa40776dbfcf]: Textual amendment: [Reg. 2(2)(d)(iii)](https://www.legislation.gov.uk/nisr/2010/92/regulation/2/2/d/iii) revoked (3.12.2012) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (Charging Schemes) Regulations 2012 (S.I. 2012/2788)](https://www.legislation.gov.uk/uksi/2012/2788), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2788/regulation/1), [17(3)(b)](https://www.legislation.gov.uk/uksi/2012/2788/regulation/17/3/b)
 
-[^key-ebb5a6e62b2e7b45771bbd741c0d1aa0]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2010/92/regulation/3) revoked (1.1.2013) by [The Greenhouse Gas Emissions Trading Scheme Regulations 2012 (S.I. 2012/3038)](https://www.legislation.gov.uk/uksi/2012/3038), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3038/regulation/1), [85(b)(v)](https://www.legislation.gov.uk/uksi/2012/3038/regulation/85/b/v) (with [regs. 85](https://www.legislation.gov.uk/uksi/2012/3038/regulation/85), [87](https://www.legislation.gov.uk/uksi/2012/3038/regulation/87), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/3038/schedule/1))
+[^c-ebb5a6e62b2e7b45771bbd741c0d1aa0]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2010/92/regulation/3) revoked (1.1.2013) by [The Greenhouse Gas Emissions Trading Scheme Regulations 2012 (S.I. 2012/3038)](https://www.legislation.gov.uk/uksi/2012/3038), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3038/regulation/1), [85(b)(v)](https://www.legislation.gov.uk/uksi/2012/3038/regulation/85/b/v) (with [regs. 85](https://www.legislation.gov.uk/uksi/2012/3038/regulation/85), [87](https://www.legislation.gov.uk/uksi/2012/3038/regulation/87), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/3038/schedule/1))

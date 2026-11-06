@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39B. Property transfer instrument: delisting[^key-23aeedc2a3ebeb314fa2e9741f5eae5b]
+## 39B. Property transfer instrument: delisting[^c-23aeedc2a3ebeb314fa2e9741f5eae5b]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-23aeedc2a3ebeb314fa2e9741f5eae5b]: Textual amendment: S. 39B inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [39](https://www.legislation.gov.uk/uksi/2014/3329/article/39)
+[^c-23aeedc2a3ebeb314fa2e9741f5eae5b]: Textual amendment: S. 39B inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [39](https://www.legislation.gov.uk/uksi/2014/3329/article/39)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 4. Reporting of the death of an employee[^key-2e57feb512256c463a70a035e9549b61]
+## 4. Reporting of the death of an employee[^c-2e57feb512256c463a70a035e9549b61]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ Subject to regulation 10, where an employee, as a result of an accident at work,
 
 ## Annotations
 
-[^key-2e57feb512256c463a70a035e9549b61]: Commencement: Reg. 4 in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/455/regulation/1/1)
+[^c-2e57feb512256c463a70a035e9549b61]: Commencement: Reg. 4 in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/455/regulation/1/1)

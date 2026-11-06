@@ -209,7 +209,7 @@ Section 50.
 >
 > a road vehicle any road fuel gas on which the excise duty chargeable under section 8 above has not been paid, the Commissioners may assess the amount of that duty as being excise duty due from that person and notify him or his representative accordingly.
 
-(5)[^key-5f00bc61ca209cd6eae447e9f4f46e5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-5f00bc61ca209cd6eae447e9f4f46e5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) After subsection (4) of section 24 of that Act (control of use of duty-free and rebated oil) there shall be inserted the following subsections—
 
@@ -255,6 +255,6 @@ Section 50.
 
 [^c14709941]: Textual amendment: Sch. 6 para. 6(2) repealed (28.7.2000 with effect as mentioned in Sch. 40 Pt. I(1) Note 2 of the amending Act) by [2000 c. 17](https://www.legislation.gov.uk/ukpga/2000/17), [s. 156](https://www.legislation.gov.uk/ukpga/2000/17/section/156), [Sch. 40 Pt. I(1)](https://www.legislation.gov.uk/ukpga/2000/17/schedule/40/part/I/1)
 
-[^key-5f00bc61ca209cd6eae447e9f4f46e5b]: Textual amendment: Sch. 6 para. 6(5) omitted (retrospective to 1.4.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 5 paras. 25(c)(ii)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/5/paragraph/25/c/ii), [26(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/5/paragraph/26/b)
+[^c-5f00bc61ca209cd6eae447e9f4f46e5b]: Textual amendment: Sch. 6 para. 6(5) omitted (retrospective to 1.4.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 5 paras. 25(c)(ii)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/5/paragraph/25/c/ii), [26(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/5/paragraph/26/b)
 
 [^c14709951]: Subordinate legislation: [Sch. 6 para. 7](https://www.legislation.gov.uk/ukpga/1997/16/schedule/6/paragraph/7) power fully exercised (16.5.1997): 1.6.1997 appointed by [S.I. 1997/1305](https://www.legislation.gov.uk/uksi/1997/1305), [art. 2](https://www.legislation.gov.uk/uksi/1997/1305/article/2)

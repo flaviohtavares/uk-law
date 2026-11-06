@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 160. Climate Change Act 2008: meaning of “UK removals”[^key-68abad8beb7f22538c83837f9ff53885]
+## 160. Climate Change Act 2008: meaning of “UK removals”[^c-68abad8beb7f22538c83837f9ff53885]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 29(1)(b) of the Climate Change Act 2008 (UK emissions and removals of
 
 ## Annotations
 
-[^key-68abad8beb7f22538c83837f9ff53885]: Commencement: [S. 160](https://www.legislation.gov.uk/ukpga/2023/52/section/160) in force at 26.12.2023, see [s. 334(3)(f)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/f)
+[^c-68abad8beb7f22538c83837f9ff53885]: Commencement: [S. 160](https://www.legislation.gov.uk/ukpga/2023/52/section/160) in force at 26.12.2023, see [s. 334(3)(f)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/f)

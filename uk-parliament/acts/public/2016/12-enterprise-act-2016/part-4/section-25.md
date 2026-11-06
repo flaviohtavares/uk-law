@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Only statutory apprenticeships to be described as apprenticeships[^key-941282065d8d8771e531a7c7a84027a6]
+## 25. Only statutory apprenticeships to be described as apprenticeships[^c-941282065d8d8771e531a7c7a84027a6]
 
 *Extent: E+W+S+N.I.*
 
@@ -84,4 +84,4 @@ summary: ''
 
 ## Annotations
 
-[^key-941282065d8d8771e531a7c7a84027a6]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2016/12/section/25) in force at 1.4.2017 by [S.I. 2017/346](https://www.legislation.gov.uk/uksi/2017/346), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/346/regulation/2/c)
+[^c-941282065d8d8771e531a7c7a84027a6]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2016/12/section/25) in force at 1.4.2017 by [S.I. 2017/346](https://www.legislation.gov.uk/uksi/2017/346), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/346/regulation/2/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 210. Amendment of Subpart A of Section B of Annex 1 to [Commission Regulation (EU) No 748/2012](https://www.legislation.gov.uk/eur/2012/0748)[^key-1eb78eff16941f857dec1f6cef84ed6d]
+## 210. Amendment of Subpart A of Section B of Annex 1 to [Commission Regulation (EU) No 748/2012](https://www.legislation.gov.uk/eur/2012/0748)[^c-1eb78eff16941f857dec1f6cef84ed6d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) In point 21.B.5—
 
-- (a) in point (a), for “competent authority [^key-ca4dbe740c2d0a8d420881064bf5c8ce]...” substitute “CAA”;
+- (a) in point (a), for “competent authority [^c-ca4dbe740c2d0a8d420881064bf5c8ce]...” substitute “CAA”;
 - (b) in point (b)—
   - (i) for “Agency” substitute “CAA”;
   - (ii) omit “Member States”.
@@ -65,6 +65,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1eb78eff16941f857dec1f6cef84ed6d]: Commencement: Reg. 210 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-1eb78eff16941f857dec1f6cef84ed6d]: Commencement: Reg. 210 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-ca4dbe740c2d0a8d420881064bf5c8ce]: Textual amendment: Words in reg. 210(2)(a) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Aviation Safety (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1116)](https://www.legislation.gov.uk/uksi/2020/1116), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1116/regulation/1/3), [10](https://www.legislation.gov.uk/uksi/2020/1116/regulation/10)
+[^c-ca4dbe740c2d0a8d420881064bf5c8ce]: Textual amendment: Words in reg. 210(2)(a) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Aviation Safety (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1116)](https://www.legislation.gov.uk/uksi/2020/1116), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1116/regulation/1/3), [10](https://www.legislation.gov.uk/uksi/2020/1116/regulation/10)

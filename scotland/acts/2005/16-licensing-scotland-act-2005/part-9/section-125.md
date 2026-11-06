@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 125. Special provisions for certain clubs[^key-d4ab40b41d7cfeae0f57607a4fc669ba]
+## 125. Special provisions for certain clubs[^c-d4ab40b41d7cfeae0f57607a4fc669ba]
 
 *Extent: S*
 
@@ -52,4 +52,4 @@ subject to such further modifications as may be so prescribed.
 
 ## Annotations
 
-[^key-d4ab40b41d7cfeae0f57607a4fc669ba]: Commencement: S. 125 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
+[^c-d4ab40b41d7cfeae0f57607a4fc669ba]: Commencement: S. 125 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)

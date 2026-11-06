@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113B. Boundaries of power under section 113A[^key-495d3e751e38ba585e5749f95ad37955]
+## 113B. Boundaries of power under section 113A[^c-495d3e751e38ba585e5749f95ad37955]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,8 +38,8 @@ summary: ''
 
 (6) Where under section 113A(1)(e) an EPB or combined authority does things for a commercial purpose, it must do them through—
 
-- (a) a company within the meaning given by section 1(1) of the Companies Act 2006, [^key-5215c94e53e632520f85e733b817c047]...
-- (b)[^key-6f5f284304e76eec04d7590206e522bb] a registered society within the meaning of the Co-operative and Community Benefit Societies Act 2014, or
+- (a) a company within the meaning given by section 1(1) of the Companies Act 2006, [^c-5215c94e53e632520f85e733b817c047]...
+- (b)[^c-6f5f284304e76eec04d7590206e522bb] a registered society within the meaning of the Co-operative and Community Benefit Societies Act 2014, or
 - (c) a society registered or deemed to be registered under the Industrial and Provident Societies Act (Northern Ireland) 1969.
 
 (7) In this section—
@@ -57,8 +57,8 @@ summary: ''
 
 ## Annotations
 
-[^key-495d3e751e38ba585e5749f95ad37955]: Textual amendment: Ss. 113A-113C and cross-heading inserted (18.2.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 13(1)](https://www.legislation.gov.uk/ukpga/2011/20/section/13/1), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/411](https://www.legislation.gov.uk/uksi/2012/411), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/411/article/2/e)
+[^c-495d3e751e38ba585e5749f95ad37955]: Textual amendment: Ss. 113A-113C and cross-heading inserted (18.2.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 13(1)](https://www.legislation.gov.uk/ukpga/2011/20/section/13/1), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/411](https://www.legislation.gov.uk/uksi/2012/411), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/411/article/2/e)
 
-[^key-5215c94e53e632520f85e733b817c047]: Textual amendment: Word in s. 113B(6)(a) omitted (1.8.2014) by virtue of [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 154(a)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/154/a) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-5215c94e53e632520f85e733b817c047]: Textual amendment: Word in s. 113B(6)(a) omitted (1.8.2014) by virtue of [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 154(a)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/154/a) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
-[^key-6f5f284304e76eec04d7590206e522bb]: Textual amendment: S. 113B(6)(b)(c) substituted for s. 113B(6)(b) (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 154(b)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/154/b) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-6f5f284304e76eec04d7590206e522bb]: Textual amendment: S. 113B(6)(b)(c) substituted for s. 113B(6)(b) (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 154(b)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/154/b) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))

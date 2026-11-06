@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 24. Disclosure of information by and to OSCR: public bodies or office-holders[^key-70d7fa2c08e51ce60ed0c79c0822c54d][^key-371d2564e12e6379a81a4e732f290d4e]
+## 24. Disclosure of information by and to OSCR: public bodies or office-holders[^c-70d7fa2c08e51ce60ed0c79c0822c54d][^c-371d2564e12e6379a81a4e732f290d4e]
 
 *Extent: S*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-70d7fa2c08e51ce60ed0c79c0822c54d]: Commencement: S. 24 in force at 24.4.2006 by [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(2)](https://www.legislation.gov.uk/ssi/2006/189/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/2)
+[^c-70d7fa2c08e51ce60ed0c79c0822c54d]: Commencement: S. 24 in force at 24.4.2006 by [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(2)](https://www.legislation.gov.uk/ssi/2006/189/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/2)
 
-[^key-371d2564e12e6379a81a4e732f290d4e]: Textual amendment: [S. 24 heading](https://www.legislation.gov.uk/asp/2005/10/part/1/chapter/3/crossheading/sharing-information) substituted (1.4.2024) by [Charities (Regulation and Administration) (Scotland) Act 2023 (asp 5)](https://www.legislation.gov.uk/asp/2023/5), [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2), [sch. para. 11(2)](https://www.legislation.gov.uk/asp/2023/5/schedule/paragraph/11/2); [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1)
+[^c-371d2564e12e6379a81a4e732f290d4e]: Textual amendment: [S. 24 heading](https://www.legislation.gov.uk/asp/2005/10/part/1/chapter/3/crossheading/sharing-information) substituted (1.4.2024) by [Charities (Regulation and Administration) (Scotland) Act 2023 (asp 5)](https://www.legislation.gov.uk/asp/2023/5), [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2), [sch. para. 11(2)](https://www.legislation.gov.uk/asp/2023/5/schedule/paragraph/11/2); [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1)

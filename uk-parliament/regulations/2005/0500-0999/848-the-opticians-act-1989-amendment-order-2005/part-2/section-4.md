@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. The Council’s Committees[^key-fde5b43861f3be4eec4a1436d6394750]
+## 4. The Council’s Committees[^c-fde5b43861f3be4eec4a1436d6394750]
 
 *Extent: E+W+S+N.I.*
 
@@ -89,4 +89,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fde5b43861f3be4eec4a1436d6394750]: Commencement: Art. 4 comes into force in accordance with art. 1(3)-(6)
+[^c-fde5b43861f3be4eec4a1436d6394750]: Commencement: Art. 4 comes into force in accordance with art. 1(3)-(6)

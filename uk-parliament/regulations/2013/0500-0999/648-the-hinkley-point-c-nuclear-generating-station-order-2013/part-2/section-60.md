@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 60. Subsidiary works[^key-09f2d3e640a458b1c6de323435aab6ee]
+## 60. Subsidiary works[^c-09f2d3e640a458b1c6de323435aab6ee]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-09f2d3e640a458b1c6de323435aab6ee]: Commencement: Art. 60 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
+[^c-09f2d3e640a458b1c6de323435aab6ee]: Commencement: Art. 60 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)

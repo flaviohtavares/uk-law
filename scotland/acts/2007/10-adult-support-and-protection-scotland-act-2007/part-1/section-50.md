@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 50. Offences by bodies corporate etc.[^key-83c3b2b26a301e5098203c1611f7d24d]
+## 50. Offences by bodies corporate etc.[^c-83c3b2b26a301e5098203c1611f7d24d]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ that person as well as the body corporate, partnership or, as the case may be, u
 
 ## Annotations
 
-[^key-83c3b2b26a301e5098203c1611f7d24d]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2007/10/section/50) in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)
+[^c-83c3b2b26a301e5098203c1611f7d24d]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2007/10/section/50) in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)

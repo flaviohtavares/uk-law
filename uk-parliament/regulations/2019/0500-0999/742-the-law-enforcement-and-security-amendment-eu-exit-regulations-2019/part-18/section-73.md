@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Interpretation[^key-79cf1ca706982807484b1696ba2e8d7e]
+## 73. Interpretation[^c-79cf1ca706982807484b1696ba2e8d7e]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,7 +32,7 @@ In this Part—
 
 ## Annotations
 
-[^key-79cf1ca706982807484b1696ba2e8d7e]: Commencement: Reg. 73 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-79cf1ca706982807484b1696ba2e8d7e]: Commencement: Reg. 73 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23691671]: Marginal citation: [2003 c. 32](https://www.legislation.gov.uk/ukpga/2003/32).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Licensing authority's power of direction[^key-b76fa2d7d7cf3e7d04bc155b380a298e]
+## 24. Licensing authority's power of direction[^c-b76fa2d7d7cf3e7d04bc155b380a298e]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b76fa2d7d7cf3e7d04bc155b380a298e]: Commencement: S. 24 in force at 6.4.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(a)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/4/a/ii)
+[^c-b76fa2d7d7cf3e7d04bc155b380a298e]: Commencement: S. 24 in force at 6.4.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(a)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/4/a/ii)

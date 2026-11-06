@@ -54,24 +54,24 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-ff3050adb02c91ec5618c86386f67d72]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ff3050adb02c91ec5618c86386f67d72]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-ff3050adb02c91ec5618c86386f67d72]
+## 1. Citation and commencement[^c-ff3050adb02c91ec5618c86386f67d72]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Copyright and Performances (Application to Other Countries) Order 2013[^key-ff3050adb02c91ec5618c86386f67d72]
+## 2. Amendment of the Copyright and Performances (Application to Other Countries) Order 2013[^c-ff3050adb02c91ec5618c86386f67d72]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ff3050adb02c91ec5618c86386f67d72]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ff3050adb02c91ec5618c86386f67d72]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ff3050adb02c91ec5618c86386f67d72]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ff3050adb02c91ec5618c86386f67d72]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ff3050adb02c91ec5618c86386f67d72]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2015/216) revoked (6.4.2017) by [The Copyright and Performances (Application to Other Countries) Order 2016 (S.I. 2016/1219)](https://www.legislation.gov.uk/uksi/2016/1219), [art. 1(3)](https://www.legislation.gov.uk/uksi/2016/1219/article/1/3) (with [art. 13](https://www.legislation.gov.uk/uksi/2016/1219/article/13))
+[^c-ff3050adb02c91ec5618c86386f67d72]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2015/216) revoked (6.4.2017) by [The Copyright and Performances (Application to Other Countries) Order 2016 (S.I. 2016/1219)](https://www.legislation.gov.uk/uksi/2016/1219), [art. 1(3)](https://www.legislation.gov.uk/uksi/2016/1219/article/1/3) (with [art. 13](https://www.legislation.gov.uk/uksi/2016/1219/article/13))

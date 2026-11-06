@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Consequential amendments[^key-abeb8016fe79721593129e608228f58b]
+## 5. Consequential amendments[^c-abeb8016fe79721593129e608228f58b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The consequential amendments in Schedules 1 and 2 have effect.
 
 ## Annotations
 
-[^key-abeb8016fe79721593129e608228f58b]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2015/1630/article/5) in force at 1.10.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1630/article/1)
+[^c-abeb8016fe79721593129e608228f58b]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2015/1630/article/5) in force at 1.10.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1630/article/1)

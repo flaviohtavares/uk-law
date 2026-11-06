@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 9F. Action under section 9D or 9E: power to demand expenses[^key-c5af52a0e544264edc329a4fc8af0af1]
+## 9F. Action under section 9D or 9E: power to demand expenses[^c-c5af52a0e544264edc329a4fc8af0af1]
 
 *Extent: E+W*
 
@@ -49,7 +49,7 @@ summary: ''
 - (c) where the local authority propose to charge interest under section 9I, sets out the rate at which the relevant expenses carry interest, and
 - (d) explains the right of appeal conferred by subsection (7).
 
-(7) An occupier of land who is served with a demand under this section may appeal to the tribunal[^key-6df5686cb701a9ae290a9d35aaa38db6] against the demand (for further provision about appeals under this section, see section 9G).
+(7) An occupier of land who is served with a demand under this section may appeal to the tribunal[^c-6df5686cb701a9ae290a9d35aaa38db6] against the demand (for further provision about appeals under this section, see section 9G).
 
 (8) A demand under this section must be served—
 
@@ -60,6 +60,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c5af52a0e544264edc329a4fc8af0af1]: Textual amendment: Ss. 9D-9F inserted (E.W.) (1.4.2014) by [Mobile Homes Act 2013 (c. 14)](https://www.legislation.gov.uk/ukpga/2013/14), [ss. 5(1)](https://www.legislation.gov.uk/ukpga/2013/14/section/5/1), [15(1)](https://www.legislation.gov.uk/ukpga/2013/14/section/15/1)
+[^c-c5af52a0e544264edc329a4fc8af0af1]: Textual amendment: Ss. 9D-9F inserted (E.W.) (1.4.2014) by [Mobile Homes Act 2013 (c. 14)](https://www.legislation.gov.uk/ukpga/2013/14), [ss. 5(1)](https://www.legislation.gov.uk/ukpga/2013/14/section/5/1), [15(1)](https://www.legislation.gov.uk/ukpga/2013/14/section/15/1)
 
-[^key-6df5686cb701a9ae290a9d35aaa38db6]: Textual amendment: Words in s. 9F(7) substituted (18.7.2014) by [The Transfer of Tribunal Functions (Mobile Homes Act 2013 and Miscellaneous Amendments) Order 2014 (S.I. 2014/1900)](https://www.legislation.gov.uk/uksi/2014/1900), [art. 1](https://www.legislation.gov.uk/uksi/2014/1900/article/1), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2014/1900/schedule/1/paragraph/8)
+[^c-6df5686cb701a9ae290a9d35aaa38db6]: Textual amendment: Words in s. 9F(7) substituted (18.7.2014) by [The Transfer of Tribunal Functions (Mobile Homes Act 2013 and Miscellaneous Amendments) Order 2014 (S.I. 2014/1900)](https://www.legislation.gov.uk/uksi/2014/1900), [art. 1](https://www.legislation.gov.uk/uksi/2014/1900/article/1), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2014/1900/schedule/1/paragraph/8)

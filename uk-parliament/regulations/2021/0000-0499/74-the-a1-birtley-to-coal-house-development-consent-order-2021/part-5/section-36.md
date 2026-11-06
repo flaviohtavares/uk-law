@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 36. Recovery of costs of new connections[^key-eca6f0c8c976c8ee7d0d85caa9d2b891]
+## 36. Recovery of costs of new connections[^c-eca6f0c8c976c8ee7d0d85caa9d2b891]
 
 *Extent: E+W+S*
 
@@ -33,11 +33,11 @@ is entitled to recover from the undertaker compensation in respect of expenditur
 
 (4) In this paragraph—
 
-- “**public communications provider**” has the same meaning as in section 151(1) of the Communications Act 2003[^key-73eeabdf4260b39ac703a878465d9bf1]; and
+- “**public communications provider**” has the same meaning as in section 151(1) of the Communications Act 2003[^c-73eeabdf4260b39ac703a878465d9bf1]; and
 - “**public utility undertaker**” means a gas, water, electricity or sewerage undertaker.
 
 ## Annotations
 
-[^key-eca6f0c8c976c8ee7d0d85caa9d2b891]: Commencement: Art. 36 in force at 9.2.2021, see art. 1
+[^c-eca6f0c8c976c8ee7d0d85caa9d2b891]: Commencement: Art. 36 in force at 9.2.2021, see art. 1
 
-[^key-73eeabdf4260b39ac703a878465d9bf1]: Textual amendment: Words in [art. 36(4)](https://www.legislation.gov.uk/uksi/2021/74/article/36/4) inserted (1.5.2021) by [The A1 Birtley to Coal House Development Consent (Correction) Order 2021 (S.I. 2021/551)](https://www.legislation.gov.uk/uksi/2021/551), [art. 1](https://www.legislation.gov.uk/uksi/2021/551/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/551/schedule)
+[^c-73eeabdf4260b39ac703a878465d9bf1]: Textual amendment: Words in [art. 36(4)](https://www.legislation.gov.uk/uksi/2021/74/article/36/4) inserted (1.5.2021) by [The A1 Birtley to Coal House Development Consent (Correction) Order 2021 (S.I. 2021/551)](https://www.legislation.gov.uk/uksi/2021/551), [art. 1](https://www.legislation.gov.uk/uksi/2021/551/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/551/schedule)

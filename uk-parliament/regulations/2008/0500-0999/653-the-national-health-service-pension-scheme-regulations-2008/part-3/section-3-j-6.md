@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.J.6. Reduction in benefits in cases where loss caused by member’s crime, negligence or fraud[^key-d8b7394b5516cee263fa1805f85422f4]
+## 3.J.6. Reduction in benefits in cases where loss caused by member’s crime, negligence or fraud[^c-d8b7394b5516cee263fa1805f85422f4]
 
 *Extent: E+W*
 
@@ -27,7 +27,7 @@ summary: ''
 
 (2) Paragraph (1) does not apply so far as the pension or other benefit—
 
-- (a)[^key-4f229de393e6c385503b88c7ccad5b6c] is a guaranteed minimum pension, or
+- (a)[^c-4f229de393e6c385503b88c7ccad5b6c] is a guaranteed minimum pension, or
 - (b) arise out of a transfer payment.
 
 (3) If the Secretary of State proposes to exercise the power under paragraph (1), the Secretary of State must give the member a certificate specifying the amount of the loss to public funds and of the reduction in benefits.
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d8b7394b5516cee263fa1805f85422f4]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-d8b7394b5516cee263fa1805f85422f4]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
-[^key-4f229de393e6c385503b88c7ccad5b6c]: Textual amendment: [Reg. 3.J.6(2)(a)](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.J.6/2/a) substituted (1.4.2016) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2016 (S.I. 2016/245)](https://www.legislation.gov.uk/uksi/2016/245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/245/regulation/1/2), [55](https://www.legislation.gov.uk/uksi/2016/245/regulation/55) (with [reg. 105](https://www.legislation.gov.uk/uksi/2016/245/regulation/105))
+[^c-4f229de393e6c385503b88c7ccad5b6c]: Textual amendment: [Reg. 3.J.6(2)(a)](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.J.6/2/a) substituted (1.4.2016) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2016 (S.I. 2016/245)](https://www.legislation.gov.uk/uksi/2016/245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/245/regulation/1/2), [55](https://www.legislation.gov.uk/uksi/2016/245/regulation/55) (with [reg. 105](https://www.legislation.gov.uk/uksi/2016/245/regulation/105))

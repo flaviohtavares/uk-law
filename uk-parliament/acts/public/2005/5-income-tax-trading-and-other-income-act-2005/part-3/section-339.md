@@ -27,8 +27,8 @@ summary: ''
 
 (2) In calculating the amount of rent receivable in connection with a UK section 12(4) concern, a deduction is allowed for the sum for the tax year.
 
-(3)[^key-ffd666cb48fbd0cc320499a75d7eec33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-ffd666cb48fbd0cc320499a75d7eec33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ffd666cb48fbd0cc320499a75d7eec33]: Textual amendment: S. 339(3) omitted (with effect in accordance with Sch. 39 para. 43(3) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 43(2)(a)(ii)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/43/2/a/ii)
+[^c-ffd666cb48fbd0cc320499a75d7eec33]: Textual amendment: S. 339(3) omitted (with effect in accordance with Sch. 39 para. 43(3) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 43(2)(a)(ii)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/43/2/a/ii)

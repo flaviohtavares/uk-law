@@ -25,7 +25,7 @@ summary: ''
 (2) An order under this section may be enforced—
 
 - (a)[^c7715121] in the same manner as an order for costs made by the criminal division of the Court of Appeal [^c7715131]. . .; or
-- (b)[^key-2048d2a13ed7abde5d572e53c85cc680] if the appellant or applicant is a member of the regular or reserve forces (as defined by section 374 of the 2006 Act), by making deductions from pay due to him,
+- (b)[^c-2048d2a13ed7abde5d572e53c85cc680] if the appellant or applicant is a member of the regular or reserve forces (as defined by section 374 of the 2006 Act), by making deductions from pay due to him,
 
 or partly in the one way and partly in the other.
 
@@ -54,6 +54,6 @@ or partly in the one way and partly in the other.
 
 [^c7715131]: Textual amendment: Words in s. 32(2)(a) repealed (1.4.1997 with savings) by [1996 c. 46](https://www.legislation.gov.uk/ukpga/1996/46), [s. 35(2)](https://www.legislation.gov.uk/ukpga/1996/46/section/35/2), [Sch. 7 Pt. III](https://www.legislation.gov.uk/ukpga/1996/46/schedule/7/part/III); [S.I. 1996/304](https://www.legislation.gov.uk/uksi/1996/304), [art. 2](https://www.legislation.gov.uk/uksi/1996/304/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1996/304/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/1996/304/article/3))
 
-[^key-2048d2a13ed7abde5d572e53c85cc680]: Textual amendment: S. 32(2)(b) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 8 para. 34](https://www.legislation.gov.uk/ukpga/2006/52/schedule/8/paragraph/34); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-2048d2a13ed7abde5d572e53c85cc680]: Textual amendment: S. 32(2)(b) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 8 para. 34](https://www.legislation.gov.uk/ukpga/2006/52/schedule/8/paragraph/34); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
 [^c7715141]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only.

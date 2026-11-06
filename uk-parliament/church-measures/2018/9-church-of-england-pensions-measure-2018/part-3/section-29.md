@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 29. Payments in and out[^key-903c603669d4d50e8c5415dc49e28172]
+## 29. Payments in and out[^c-903c603669d4d50e8c5415dc49e28172]
 
 *Extent: E*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-903c603669d4d50e8c5415dc49e28172]: Commencement: [S. 29](https://www.legislation.gov.uk/ukcm/2018/9/section/29) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
+[^c-903c603669d4d50e8c5415dc49e28172]: Commencement: [S. 29](https://www.legislation.gov.uk/ukcm/2018/9/section/29) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)

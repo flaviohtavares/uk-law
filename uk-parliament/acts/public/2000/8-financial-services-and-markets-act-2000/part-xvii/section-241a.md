@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 241A. Bearer units no longer to be issued[^key-91be7e0f212419082087d5a09c0be83b]
+## 241A. Bearer units no longer to be issued[^c-91be7e0f212419082087d5a09c0be83b]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-91be7e0f212419082087d5a09c0be83b]: Textual amendment: [Pt. 17 Ch. 2A](https://www.legislation.gov.uk/ukpga/2000/8/part/XVII/chapter/2A) inserted (1.1.2021) by [The Bearer Certificates (Collective Investment Schemes) Regulations 2020 (S.I. 2020/1346)](https://www.legislation.gov.uk/uksi/2020/1346), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1346/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2020/1346/regulation/2)
+[^c-91be7e0f212419082087d5a09c0be83b]: Textual amendment: [Pt. 17 Ch. 2A](https://www.legislation.gov.uk/ukpga/2000/8/part/XVII/chapter/2A) inserted (1.1.2021) by [The Bearer Certificates (Collective Investment Schemes) Regulations 2020 (S.I. 2020/1346)](https://www.legislation.gov.uk/uksi/2020/1346), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1346/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2020/1346/regulation/2)

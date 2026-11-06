@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 8. Application and modification of legislative provisions[^key-c6a799dbaad8534138a6f0ebcbdae94c]
+## 8. Application and modification of legislative provisions[^c-c6a799dbaad8534138a6f0ebcbdae94c]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 3 (modification of compensation and compulsory purchase enactments for 
 
 ## Annotations
 
-[^key-c6a799dbaad8534138a6f0ebcbdae94c]: Commencement: Art. 8 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/779/article/1)
+[^c-c6a799dbaad8534138a6f0ebcbdae94c]: Commencement: Art. 8 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/779/article/1)

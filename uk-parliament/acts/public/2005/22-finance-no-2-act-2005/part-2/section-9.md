@@ -35,8 +35,8 @@ summary: ''
   - (a) section 55C of, and Schedule 5A to, SSCBA 1992, or
   - (b) section 55C of, and Schedule 5A to, SSCB(NI)A 1992;
 - “**state pension lump sum**” means a lump sum payable under—
-  - (za) section 8 of the Pensions Act 2014 or under any corresponding provision under the law of Northern Ireland,[^key-69508c7af84f8ab394ccd6c90765284d]
-  - (zb) regulations under section 10 of the Pensions Act 2014 which make provision corresponding or similar to section 8 of that Act or under any corresponding provision under the law of Northern Ireland, 1992, or[^key-763de4d20a442b26a168be222a69b4ab]
+  - (za) section 8 of the Pensions Act 2014 or under any corresponding provision under the law of Northern Ireland,[^c-69508c7af84f8ab394ccd6c90765284d]
+  - (zb) regulations under section 10 of the Pensions Act 2014 which make provision corresponding or similar to section 8 of that Act or under any corresponding provision under the law of Northern Ireland, 1992, or[^c-763de4d20a442b26a168be222a69b4ab]
   - (a) section 55 of, and Schedule 5 to, SSCBA 1992, or
   - (b) section 55 of, and Schedule 5 to, SSCB(NI)A 1992.
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-69508c7af84f8ab394ccd6c90765284d]: Textual amendment: Words in [s. 9(2)](https://www.legislation.gov.uk/ukpga/2005/22/section/9/2) inserted (6.4.2016) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 12 para. 51](https://www.legislation.gov.uk/ukpga/2014/19/schedule/12/paragraph/51)
+[^c-69508c7af84f8ab394ccd6c90765284d]: Textual amendment: Words in [s. 9(2)](https://www.legislation.gov.uk/ukpga/2005/22/section/9/2) inserted (6.4.2016) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 12 para. 51](https://www.legislation.gov.uk/ukpga/2014/19/schedule/12/paragraph/51)
 
-[^key-763de4d20a442b26a168be222a69b4ab]: Textual amendment: Words in [s. 9(2)](https://www.legislation.gov.uk/ukpga/2005/22/section/9/2) inserted (6.4.2016) by [The Pensions Act 2014 (Consequential and Supplementary Amendments) Order 2016 (S.I. 2016/224)](https://www.legislation.gov.uk/uksi/2016/224), [art. 6(3)](https://www.legislation.gov.uk/uksi/2016/224/article/6/3)
+[^c-763de4d20a442b26a168be222a69b4ab]: Textual amendment: Words in [s. 9(2)](https://www.legislation.gov.uk/ukpga/2005/22/section/9/2) inserted (6.4.2016) by [The Pensions Act 2014 (Consequential and Supplementary Amendments) Order 2016 (S.I. 2016/224)](https://www.legislation.gov.uk/uksi/2016/224), [art. 6(3)](https://www.legislation.gov.uk/uksi/2016/224/article/6/3)

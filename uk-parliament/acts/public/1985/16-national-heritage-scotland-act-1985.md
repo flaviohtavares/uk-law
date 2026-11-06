@@ -453,7 +453,7 @@ At the end of the said Act there shall be added—
 
 ## Part IV — The National Library of Scotland
 
-### 18. Provisions as to National Library of Scotland.[^key-c9b3690b5d6dcd211cd06085b64be6d1]
+### 18. Provisions as to National Library of Scotland.[^c-c9b3690b5d6dcd211cd06085b64be6d1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -461,7 +461,7 @@ At the end of the said Act there shall be added—
 
 ### 19. Amendment of Public Records (Scotland) Act.
 
-(1)[^key-e554dd3d6a9c55342c7799875994b3f2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-e554dd3d6a9c55342c7799875994b3f2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) After section 11 there shall be inserted the following section—
 
@@ -515,7 +515,7 @@ At the end of the said Act there shall be added—
 
 (1) The Secretary of State may out of money provided by Parliament pay to each of the Boards mentioned in subsection (2) [^c765763]. . . sums towards their expenditure [^c765763]. . ..
 
-(2) The Boards mentioned in subsection (1) are the Board of Trustees of the National Museums of Scotland, the Board of Trustees of the Royal Botanic Garden, Edinburgh and[^key-cabe537dfa4ee761521717d74d71c8d1] the Board of Trustees of the National Galleries of Scotland[^key-3cdaa5ce183004d120dc858d6973cf3a]....
+(2) The Boards mentioned in subsection (1) are the Board of Trustees of the National Museums of Scotland, the Board of Trustees of the Royal Botanic Garden, Edinburgh and[^c-cabe537dfa4ee761521717d74d71c8d1] the Board of Trustees of the National Galleries of Scotland[^c-3cdaa5ce183004d120dc858d6973cf3a]....
 
 (3) The payments may be made on such conditions as the Secretary of State imposes [^c765765]. . ..
 
@@ -850,9 +850,9 @@ Section 10.
 
 [^c765757]: Marginal citation: [1906 c. 50](https://www.legislation.gov.uk/ukpga/1906/50).
 
-[^key-c9b3690b5d6dcd211cd06085b64be6d1]: Textual amendment: [S. 18](https://www.legislation.gov.uk/ukpga/1985/16/section/18) repealed (1.2.2013) by [National Library of Scotland Act 2012 (asp 3)](https://www.legislation.gov.uk/asp/2012/3), [s. 12(3)](https://www.legislation.gov.uk/asp/2012/3/section/12/3), [Sch. 3](https://www.legislation.gov.uk/asp/2012/3/schedule/3); [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
+[^c-c9b3690b5d6dcd211cd06085b64be6d1]: Textual amendment: [S. 18](https://www.legislation.gov.uk/ukpga/1985/16/section/18) repealed (1.2.2013) by [National Library of Scotland Act 2012 (asp 3)](https://www.legislation.gov.uk/asp/2012/3), [s. 12(3)](https://www.legislation.gov.uk/asp/2012/3/section/12/3), [Sch. 3](https://www.legislation.gov.uk/asp/2012/3/schedule/3); [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
 
-[^key-e554dd3d6a9c55342c7799875994b3f2]: Textual amendment: S. 19(1) repealed (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 4(4)](https://www.legislation.gov.uk/asp/2010/8/section/4/4), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-e554dd3d6a9c55342c7799875994b3f2]: Textual amendment: S. 19(1) repealed (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 4(4)](https://www.legislation.gov.uk/asp/2010/8/section/4/4), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
 
 [^c765761]: Textual amendment: [S. 20](https://www.legislation.gov.uk/ukpga/1985/16/section/20) repealed (1.4.2000) by [1997 c. 29](https://www.legislation.gov.uk/ukpga/1997/29), [s. 33(2)](https://www.legislation.gov.uk/ukpga/1997/29/section/33/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/1997/29/schedule/4); [S.I. 1998/2329](https://www.legislation.gov.uk/uksi/1998/2329), [art. 3](https://www.legislation.gov.uk/uksi/1998/2329/article/3)
 
@@ -860,9 +860,9 @@ Section 10.
 
 [^c765763]: Textual amendment: Words in s. 22(1) omitted (1.7.1999) by [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), [art. 4](https://www.legislation.gov.uk/uksi/1999/1820/article/4), [Sch. 2 Pt. I para. 80(2)(a)](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/part/I/paragraph/80/2/a), [Pt. IV](https://www.legislation.gov.uk/uksi/1999/1820/part/IV); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 3](https://www.legislation.gov.uk/uksi/1998/3178/article/3)
 
-[^key-cabe537dfa4ee761521717d74d71c8d1]: Textual amendment: Words in s. 22(2) substituted (1.2.2013) by [National Library of Scotland Act 2012 (asp 3)](https://www.legislation.gov.uk/asp/2012/3), [s. 12(3)](https://www.legislation.gov.uk/asp/2012/3/section/12/3), [Sch. 2 para. 2(a)](https://www.legislation.gov.uk/asp/2012/3/schedule/2/paragraph/2/a); [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
+[^c-cabe537dfa4ee761521717d74d71c8d1]: Textual amendment: Words in s. 22(2) substituted (1.2.2013) by [National Library of Scotland Act 2012 (asp 3)](https://www.legislation.gov.uk/asp/2012/3), [s. 12(3)](https://www.legislation.gov.uk/asp/2012/3/section/12/3), [Sch. 2 para. 2(a)](https://www.legislation.gov.uk/asp/2012/3/schedule/2/paragraph/2/a); [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
 
-[^key-3cdaa5ce183004d120dc858d6973cf3a]: Textual amendment: Words in s. 22(2) repealed (1.2.2013) by [National Library of Scotland Act 2012 (asp 3)](https://www.legislation.gov.uk/asp/2012/3), [s. 12(3)](https://www.legislation.gov.uk/asp/2012/3/section/12/3), [Sch. 2 para. 2(b)](https://www.legislation.gov.uk/asp/2012/3/schedule/2/paragraph/2/b); [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
+[^c-3cdaa5ce183004d120dc858d6973cf3a]: Textual amendment: Words in s. 22(2) repealed (1.2.2013) by [National Library of Scotland Act 2012 (asp 3)](https://www.legislation.gov.uk/asp/2012/3), [s. 12(3)](https://www.legislation.gov.uk/asp/2012/3/section/12/3), [Sch. 2 para. 2(b)](https://www.legislation.gov.uk/asp/2012/3/schedule/2/paragraph/2/b); [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
 
 [^c765765]: Textual amendment: Words in s. 22(3) omitted (1.7.1999) by [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), [art. 4](https://www.legislation.gov.uk/uksi/1999/1820/article/4), [Sch. 2 Pt. I para. 80(2)(b)](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/part/I/paragraph/80/2/b), [Pt. IV](https://www.legislation.gov.uk/uksi/1999/1820/part/IV); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 3](https://www.legislation.gov.uk/uksi/1998/3178/article/3)
 

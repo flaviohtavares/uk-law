@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. “The participation condition”[^key-36ad8dfd2e20a9cd34a2a02d70292f2a]
+## 106. “The participation condition”[^c-36ad8dfd2e20a9cd34a2a02d70292f2a]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-36ad8dfd2e20a9cd34a2a02d70292f2a]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/ukpga/2015/11/part/3) repealed (for accounting periods beginning on or after 1.1.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 46(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/46/2), [Sch. 5 para. 1(3)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/5/paragraph/1/3)
+[^c-36ad8dfd2e20a9cd34a2a02d70292f2a]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/ukpga/2015/11/part/3) repealed (for accounting periods beginning on or after 1.1.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 46(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/46/2), [Sch. 5 para. 1(3)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/5/paragraph/1/3)

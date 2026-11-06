@@ -33,7 +33,7 @@ An Act to make provision for the incidence of the costs of leases.
 
 \[23rd July 1958\][^c618700][^c618701][^c618702]
 
-## 1. Costs of leases.[^c618703][^key-8438c7854efba6eaddf34b068a9c70e2]
+## 1. Costs of leases.[^c618703][^c-8438c7854efba6eaddf34b068a9c70e2]
 
 Notwithstanding any custom to the contrary, a party to a lease shall, unless the parties thereto agree otherwise in writing, be under no obligation to pay the whole or any part of any other party’s solicitor’s costs of the lease.
 
@@ -58,4 +58,4 @@ This Act may be cited as the Costs of Leases Act, 1958.
 
 [^c618703]: Modification: [S. 1](https://www.legislation.gov.uk/ukpga/Eliz2/6-7/52/section/1) amended (E.W.) (01.01.1992) by [S.I. 1991/2684](https://www.legislation.gov.uk/uksi/1991/2684), [arts. 2](https://www.legislation.gov.uk/uksi/1991/2684/article/2), [4](https://www.legislation.gov.uk/uksi/1991/2684/article/4), [Sch.1](https://www.legislation.gov.uk/uksi/1991/2684/schedule/1)
 
-[^key-8438c7854efba6eaddf34b068a9c70e2]: Modification: [S. 1](https://www.legislation.gov.uk/ukpga/Eliz2/6-7/52/section/1) applied (with modifications) (23.12.2011) by [The Legal Services Act 2007 (Designation as a Licensing Authority) (No. 2) Order 2011 (S.I. 2011/2866)](https://www.legislation.gov.uk/uksi/2011/2866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2866/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/2866/schedule/2)
+[^c-8438c7854efba6eaddf34b068a9c70e2]: Modification: [S. 1](https://www.legislation.gov.uk/ukpga/Eliz2/6-7/52/section/1) applied (with modifications) (23.12.2011) by [The Legal Services Act 2007 (Designation as a Licensing Authority) (No. 2) Order 2011 (S.I. 2011/2866)](https://www.legislation.gov.uk/uksi/2011/2866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2866/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/2866/schedule/2)

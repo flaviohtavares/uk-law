@@ -31,7 +31,7 @@ summary: ''
 
 PESTICIDES
 
-Plant Protection Products (Amendment) (No. 2) Regulations (Northern Ireland) 2002 (revoked)[^key-7a809fa2e88422a82e7c16b8d0d1726a]
+Plant Protection Products (Amendment) (No. 2) Regulations (Northern Ireland) 2002 (revoked)[^c-7a809fa2e88422a82e7c16b8d0d1726a]
 
 Made
 
@@ -41,32 +41,32 @@ Coming into operation
 
 15th April 2002
 
-[^key-7a809fa2e88422a82e7c16b8d0d1726a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7a809fa2e88422a82e7c16b8d0d1726a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-7a809fa2e88422a82e7c16b8d0d1726a]
+## 1. Citation, commencement and interpretation[^c-7a809fa2e88422a82e7c16b8d0d1726a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Plant Protection Products Regulations (Northern Ireland) 1995[^key-7a809fa2e88422a82e7c16b8d0d1726a]
+## 2. Amendment of the Plant Protection Products Regulations (Northern Ireland) 1995[^c-7a809fa2e88422a82e7c16b8d0d1726a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Transitional arrangements for provisional approvals[^key-7a809fa2e88422a82e7c16b8d0d1726a]
+## 3. Transitional arrangements for provisional approvals[^c-7a809fa2e88422a82e7c16b8d0d1726a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocation[^key-7a809fa2e88422a82e7c16b8d0d1726a]
+## 4. Revocation[^c-7a809fa2e88422a82e7c16b8d0d1726a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7a809fa2e88422a82e7c16b8d0d1726a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7a809fa2e88422a82e7c16b8d0d1726a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-7a809fa2e88422a82e7c16b8d0d1726a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7a809fa2e88422a82e7c16b8d0d1726a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7a809fa2e88422a82e7c16b8d0d1726a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2002/125) revoked (22.10.2002) by [Plant Protection Products (Amendment) (No. 3) Regulations (Northern Ireland) 2002 (S.R. 2002/289)](https://www.legislation.gov.uk/nisr/2002/289), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2002/289/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2002/289/regulation/4)
+[^c-7a809fa2e88422a82e7c16b8d0d1726a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2002/125) revoked (22.10.2002) by [Plant Protection Products (Amendment) (No. 3) Regulations (Northern Ireland) 2002 (S.R. 2002/289)](https://www.legislation.gov.uk/nisr/2002/289), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2002/289/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2002/289/regulation/4)

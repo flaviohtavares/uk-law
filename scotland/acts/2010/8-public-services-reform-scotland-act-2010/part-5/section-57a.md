@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 57A. Assistance in inspections from Healthcare Improvement Scotland[^key-b05975ca60b8cd7b687a77c444a716fa]
+## 57A. Assistance in inspections from Healthcare Improvement Scotland[^c-b05975ca60b8cd7b687a77c444a716fa]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b05975ca60b8cd7b687a77c444a716fa]: Textual amendment: [S. 57A](https://www.legislation.gov.uk/asp/2010/8/section/57A) inserted (7.1.2026) by [Care Reform (Scotland) Act 2025 (asp 9)](https://www.legislation.gov.uk/asp/2025/9), [ss. 23(2)](https://www.legislation.gov.uk/asp/2025/9/section/23/2), [39(2)](https://www.legislation.gov.uk/asp/2025/9/section/39/2); [S.S.I. 2025/388](https://www.legislation.gov.uk/ssi/2025/388), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/388/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2025/388/regulation/2/2), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/388/schedule/part/1)
+[^c-b05975ca60b8cd7b687a77c444a716fa]: Textual amendment: [S. 57A](https://www.legislation.gov.uk/asp/2010/8/section/57A) inserted (7.1.2026) by [Care Reform (Scotland) Act 2025 (asp 9)](https://www.legislation.gov.uk/asp/2025/9), [ss. 23(2)](https://www.legislation.gov.uk/asp/2025/9/section/23/2), [39(2)](https://www.legislation.gov.uk/asp/2025/9/section/39/2); [S.S.I. 2025/388](https://www.legislation.gov.uk/ssi/2025/388), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/388/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2025/388/regulation/2/2), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/388/schedule/part/1)

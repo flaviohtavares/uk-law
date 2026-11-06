@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 194. Notifications and documents in electronic form[^key-417744654711ad55129ac2c71c93b136][^key-c52dec124c5c94c6c53acbb93e0297fb][^key-e3fbf9874d0e06ac672993772902d700]
+## 194. Notifications and documents in electronic form[^c-417744654711ad55129ac2c71c93b136][^c-c52dec124c5c94c6c53acbb93e0297fb][^c-e3fbf9874d0e06ac672993772902d700]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,8 +60,8 @@ must have indicated to the person making the transmission the recipient’s will
 
 ## Annotations
 
-[^key-417744654711ad55129ac2c71c93b136]: Commencement: [S. 194](https://www.legislation.gov.uk/ukpga/2004/20/section/194) in force at 24.8.2004 for specified purposes by [S.I. 2004/2184](https://www.legislation.gov.uk/uksi/2004/2184), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2184/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2184/schedule/1)
+[^c-417744654711ad55129ac2c71c93b136]: Commencement: [S. 194](https://www.legislation.gov.uk/ukpga/2004/20/section/194) in force at 24.8.2004 for specified purposes by [S.I. 2004/2184](https://www.legislation.gov.uk/uksi/2004/2184), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2184/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2184/schedule/1)
 
-[^key-c52dec124c5c94c6c53acbb93e0297fb]: Commencement: [S. 194](https://www.legislation.gov.uk/ukpga/2004/20/section/194) in force at 5.10.2004 in so far as not already in force by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-c52dec124c5c94c6c53acbb93e0297fb]: Commencement: [S. 194](https://www.legislation.gov.uk/ukpga/2004/20/section/194) in force at 5.10.2004 in so far as not already in force by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-e3fbf9874d0e06ac672993772902d700]: Modification: Ss. 171-196: power to apply (with modifications) conferred (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l), [Sch. 18 para. 50](https://www.legislation.gov.uk/ukpga/2023/52/schedule/18/paragraph/50)
+[^c-e3fbf9874d0e06ac672993772902d700]: Modification: Ss. 171-196: power to apply (with modifications) conferred (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l), [Sch. 18 para. 50](https://www.legislation.gov.uk/ukpga/2023/52/schedule/18/paragraph/50)

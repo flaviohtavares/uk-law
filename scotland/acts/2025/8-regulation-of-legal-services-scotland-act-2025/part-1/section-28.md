@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 28. Approval of application and giving effect to the regulatory scheme[^key-c3949c48365dbc1cd5b0086a53fae878][^key-08d33edb62b86bbc3a175cf6c0024663]
+## 28. Approval of application and giving effect to the regulatory scheme[^c-c3949c48365dbc1cd5b0086a53fae878][^c-08d33edb62b86bbc3a175cf6c0024663]
 
 *Extent: S*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c3949c48365dbc1cd5b0086a53fae878]: Commencement: S. 28 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-c3949c48365dbc1cd5b0086a53fae878]: Commencement: S. 28 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-08d33edb62b86bbc3a175cf6c0024663]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2025/8/section/28) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
+[^c-08d33edb62b86bbc3a175cf6c0024663]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2025/8/section/28) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)

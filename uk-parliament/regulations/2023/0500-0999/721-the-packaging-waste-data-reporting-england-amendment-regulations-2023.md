@@ -34,7 +34,7 @@ This Statutory Instrument is being made to correct errors in [S.I. 2023/219](htt
 
 Environmental Protection
 
-The Packaging Waste (Data Reporting) (England) (Amendment) Regulations 2023 (revoked)[^key-89a090a6fe5fa6a514218750ccfad6b8]
+The Packaging Waste (Data Reporting) (England) (Amendment) Regulations 2023 (revoked)[^c-89a090a6fe5fa6a514218750ccfad6b8]
 
 Made
 
@@ -44,76 +44,76 @@ Coming into force
 
 30th June 2023
 
-[^key-89a090a6fe5fa6a514218750ccfad6b8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-89a090a6fe5fa6a514218750ccfad6b8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, extent and application[^key-89a090a6fe5fa6a514218750ccfad6b8]
+## 1. Citation, commencement, extent and application[^c-89a090a6fe5fa6a514218750ccfad6b8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. The Packaging Waste (Data Reporting) (England) Regulations 2023[^key-89a090a6fe5fa6a514218750ccfad6b8]
+## 2. The Packaging Waste (Data Reporting) (England) Regulations 2023[^c-89a090a6fe5fa6a514218750ccfad6b8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Interpretation[^key-89a090a6fe5fa6a514218750ccfad6b8]
+## 3. Interpretation[^c-89a090a6fe5fa6a514218750ccfad6b8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Establishment in England and the United Kingdom[^key-89a090a6fe5fa6a514218750ccfad6b8]
+## 4. Establishment in England and the United Kingdom[^c-89a090a6fe5fa6a514218750ccfad6b8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Packaging and packaging categories[^key-89a090a6fe5fa6a514218750ccfad6b8]
+## 5. Packaging and packaging categories[^c-89a090a6fe5fa6a514218750ccfad6b8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Producers[^key-89a090a6fe5fa6a514218750ccfad6b8]
+## 6. Producers[^c-89a090a6fe5fa6a514218750ccfad6b8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Licensors and pub operating businesses[^key-89a090a6fe5fa6a514218750ccfad6b8]
+## 7. Licensors and pub operating businesses[^c-89a090a6fe5fa6a514218750ccfad6b8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Supply[^key-89a090a6fe5fa6a514218750ccfad6b8]
+## 8. Supply[^c-89a090a6fe5fa6a514218750ccfad6b8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Threshold criteria for large and small producers[^key-89a090a6fe5fa6a514218750ccfad6b8]
+## 9. Threshold criteria for large and small producers[^c-89a090a6fe5fa6a514218750ccfad6b8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Data reporting obligations[^key-89a090a6fe5fa6a514218750ccfad6b8]
+## 10. Data reporting obligations[^c-89a090a6fe5fa6a514218750ccfad6b8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Monitoring[^key-89a090a6fe5fa6a514218750ccfad6b8]
+## 11. Monitoring[^c-89a090a6fe5fa6a514218750ccfad6b8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Approved persons[^key-89a090a6fe5fa6a514218750ccfad6b8]
+## 12. Approved persons[^c-89a090a6fe5fa6a514218750ccfad6b8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Offences and penalties[^key-89a090a6fe5fa6a514218750ccfad6b8]
+## 13. Offences and penalties[^c-89a090a6fe5fa6a514218750ccfad6b8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Schedule 1: collection and reporting[^key-89a090a6fe5fa6a514218750ccfad6b8]
+## 14. Schedule 1: collection and reporting[^c-89a090a6fe5fa6a514218750ccfad6b8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Schedule 2: licensors and pub operating businesses[^key-89a090a6fe5fa6a514218750ccfad6b8]
+## 15. Schedule 2: licensors and pub operating businesses[^c-89a090a6fe5fa6a514218750ccfad6b8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-89a090a6fe5fa6a514218750ccfad6b8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-89a090a6fe5fa6a514218750ccfad6b8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-89a090a6fe5fa6a514218750ccfad6b8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-89a090a6fe5fa6a514218750ccfad6b8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-89a090a6fe5fa6a514218750ccfad6b8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2023/721) revoked (1.1.2025) by [The Producer Responsibility Obligations (Packaging and Packaging Waste) Regulations 2024 (S.I. 2024/1332)](https://www.legislation.gov.uk/uksi/2024/1332), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2), [Sch. 17 para. 1(b)](https://www.legislation.gov.uk/uksi/2024/1332/schedule/17/paragraph/1/b) (with [reg. 12](https://www.legislation.gov.uk/uksi/2024/1332/regulation/12), [Sch. 15](https://www.legislation.gov.uk/uksi/2024/1332/schedule/15))
+[^c-89a090a6fe5fa6a514218750ccfad6b8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2023/721) revoked (1.1.2025) by [The Producer Responsibility Obligations (Packaging and Packaging Waste) Regulations 2024 (S.I. 2024/1332)](https://www.legislation.gov.uk/uksi/2024/1332), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2), [Sch. 17 para. 1(b)](https://www.legislation.gov.uk/uksi/2024/1332/schedule/17/paragraph/1/b) (with [reg. 12](https://www.legislation.gov.uk/uksi/2024/1332/regulation/12), [Sch. 15](https://www.legislation.gov.uk/uksi/2024/1332/schedule/15))

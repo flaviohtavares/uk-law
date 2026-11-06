@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 47. Deemed marine licence[^key-e662c87a63942d691ed897a4920473ba]
+## 47. Deemed marine licence[^c-e662c87a63942d691ed897a4920473ba]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The undertaker is granted a deemed marine licence under Part 4 (marine licensing
 
 ## Annotations
 
-[^key-e662c87a63942d691ed897a4920473ba]: Commencement: Art. 47 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
+[^c-e662c87a63942d691ed897a4920473ba]: Commencement: Art. 47 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)

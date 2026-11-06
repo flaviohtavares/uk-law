@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 94. Amendments to enactments[^key-20c7d46a3f846ed46fe64256c2b350ef]
+## 94. Amendments to enactments[^c-20c7d46a3f846ed46fe64256c2b350ef]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The schedule, which makes amendments to enactments in consequence of this Act, h
 
 ## Annotations
 
-[^key-20c7d46a3f846ed46fe64256c2b350ef]: Commencement: S. 94 in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(h)](https://www.legislation.gov.uk/ssi/2003/548/article/2/h) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+[^c-20c7d46a3f846ed46fe64256c2b350ef]: Commencement: S. 94 in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(h)](https://www.legislation.gov.uk/ssi/2003/548/article/2/h) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))

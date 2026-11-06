@@ -35,7 +35,7 @@ An Act to make provision about paternity leave in cases where a mother, or a per
 
 Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Paternity leave: special provision in cases of bereavement[^key-5eecaa03fb0c6ed8cb434886bd682bf2][^key-f557677ef104c633462e83efbc02ad45]
+## 1. Paternity leave: special provision in cases of bereavement[^c-5eecaa03fb0c6ed8cb434886bd682bf2][^c-f557677ef104c633462e83efbc02ad45]
 
 (1) The Employment Rights Act 1996 is amended as follows.
 
@@ -86,7 +86,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
   > - (a) takes leave under section 80A in a case where the child’s mother dies, or
   > - (b) takes leave under section 80B in a case where a person with whom the child is placed or expected to be placed for adoption dies.
 
-## 2. Extent, commencement and short title[^key-9504118e27c4c40b74c65fe1c2fc66a8][^key-a100e4769070fa15377721e2c20ed45d]
+## 2. Extent, commencement and short title[^c-9504118e27c4c40b74c65fe1c2fc66a8][^c-a100e4769070fa15377721e2c20ed45d]
 
 (1) This Act extends to England and Wales and Scotland.
 
@@ -98,10 +98,10 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 ## Annotations
 
-[^key-5eecaa03fb0c6ed8cb434886bd682bf2]: Commencement: S. 1 not in force at Royal Assent, see [s. 2(2)](https://www.legislation.gov.uk/ukpga/2024/17/section/2/2)
+[^c-5eecaa03fb0c6ed8cb434886bd682bf2]: Commencement: S. 1 not in force at Royal Assent, see [s. 2(2)](https://www.legislation.gov.uk/ukpga/2024/17/section/2/2)
 
-[^key-f557677ef104c633462e83efbc02ad45]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2024/17/section/1) in force at 29.12.2025 by [S.I. 2025/1342](https://www.legislation.gov.uk/uksi/2025/1342), [reg. 2](https://www.legislation.gov.uk/uksi/2025/1342/regulation/2)
+[^c-f557677ef104c633462e83efbc02ad45]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2024/17/section/1) in force at 29.12.2025 by [S.I. 2025/1342](https://www.legislation.gov.uk/uksi/2025/1342), [reg. 2](https://www.legislation.gov.uk/uksi/2025/1342/regulation/2)
 
-[^key-9504118e27c4c40b74c65fe1c2fc66a8]: Commencement: S. 2 not in force at Royal Assent, see [s. 2(2)](https://www.legislation.gov.uk/ukpga/2024/17/section/2/2)
+[^c-9504118e27c4c40b74c65fe1c2fc66a8]: Commencement: S. 2 not in force at Royal Assent, see [s. 2(2)](https://www.legislation.gov.uk/ukpga/2024/17/section/2/2)
 
-[^key-a100e4769070fa15377721e2c20ed45d]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2024/17/section/2) in force at 29.12.2025 by [S.I. 2025/1342](https://www.legislation.gov.uk/uksi/2025/1342), [reg. 2](https://www.legislation.gov.uk/uksi/2025/1342/regulation/2)
+[^c-a100e4769070fa15377721e2c20ed45d]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2024/17/section/2) in force at 29.12.2025 by [S.I. 2025/1342](https://www.legislation.gov.uk/uksi/2025/1342), [reg. 2](https://www.legislation.gov.uk/uksi/2025/1342/regulation/2)

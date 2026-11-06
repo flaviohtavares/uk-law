@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 146. Sentences and offences in respect of which polygraph condition may be imposed[^key-64ae95414c79ab0debb6a94734b5c43f]
+## 146. Sentences and offences in respect of which polygraph condition may be imposed[^c-64ae95414c79ab0debb6a94734b5c43f]
 
 *Extent: E+W*
 
@@ -64,4 +64,4 @@ In section 28 of the Offender Management Act 2007 (application of polygraph cond
 
 ## Annotations
 
-[^key-64ae95414c79ab0debb6a94734b5c43f]: Commencement: [S. 146](https://www.legislation.gov.uk/ukpga/2022/32/section/146) in force at 28.6.2022, see [s. 208(5)(p)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/p)
+[^c-64ae95414c79ab0debb6a94734b5c43f]: Commencement: [S. 146](https://www.legislation.gov.uk/ukpga/2022/32/section/146) in force at 28.6.2022, see [s. 208(5)(p)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/p)

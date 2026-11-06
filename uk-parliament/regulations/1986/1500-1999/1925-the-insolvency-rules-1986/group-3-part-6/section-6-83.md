@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.83. Requisitioned meetings[^key-1c20e956eb8198fc96030ba213267920]
+## 6.83. Requisitioned meetings[^c-1c20e956eb8198fc96030ba213267920]
 
 *Extent: E+W*
 
@@ -35,12 +35,12 @@ Sub-paragraphs (a) and (b) do not apply if the requisitioning creditor's debt is
 
 (3) Where a request for a creditors' meeting is made to the trustee, this Rule applies to him as it does to the official receiver.
 
-(4)[^key-0d209c44264e15a811efea591e229044] This Rule shall not apply to voluntary arrangements under section 263A.
+(4)[^c-0d209c44264e15a811efea591e229044] This Rule shall not apply to voluntary arrangements under section 263A.
 
 ## Annotations
 
-[^key-1c20e956eb8198fc96030ba213267920]: Commencement: [Rule 6.83](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.83) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-1c20e956eb8198fc96030ba213267920]: Commencement: [Rule 6.83](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.83) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00155]: Marginal citation: \[FORM 6.34\]
 
-[^key-0d209c44264e15a811efea591e229044]: Textual amendment: [Rule 6.83(4)](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.83/4) inserted (1.4.2004) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(3)](https://www.legislation.gov.uk/uksi/2003/1730/article/1/3), [Sch. 1 para. 35](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/35)
+[^c-0d209c44264e15a811efea591e229044]: Textual amendment: [Rule 6.83(4)](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.83/4) inserted (1.4.2004) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(3)](https://www.legislation.gov.uk/uksi/2003/1730/article/1/3), [Sch. 1 para. 35](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/35)

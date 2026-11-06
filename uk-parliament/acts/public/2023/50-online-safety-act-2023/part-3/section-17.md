@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Duties to protect content of democratic importance[^key-0995f93ae2d168c2e02447a16e9e811c][^key-83c1b3a51f165b1f606ee4bcad879a95]
+## 17. Duties to protect content of democratic importance[^c-0995f93ae2d168c2e02447a16e9e811c][^c-83c1b3a51f165b1f606ee4bcad879a95]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0995f93ae2d168c2e02447a16e9e811c]: Commencement: S. 17 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-0995f93ae2d168c2e02447a16e9e811c]: Commencement: S. 17 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-83c1b3a51f165b1f606ee4bcad879a95]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2023/50/section/17) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/e)
+[^c-83c1b3a51f165b1f606ee4bcad879a95]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2023/50/section/17) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/e)

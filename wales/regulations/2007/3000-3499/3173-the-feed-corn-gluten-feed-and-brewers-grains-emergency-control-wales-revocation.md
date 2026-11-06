@@ -31,7 +31,7 @@ summary: ''
 
 AGRICULTURE, WALES
 
-The Feed (Corn Gluten Feed and Brewers Grains) (Emergency Control) (Wales) (Revocation) Regulations 2007 (revoked)[^key-a99c6e08dfbea9e38acb733cf9862f87]
+The Feed (Corn Gluten Feed and Brewers Grains) (Emergency Control) (Wales) (Revocation) Regulations 2007 (revoked)[^c-a99c6e08dfbea9e38acb733cf9862f87]
 
 Made
 
@@ -45,32 +45,32 @@ Coming into force
 
 30 November 2007
 
-[^key-a99c6e08dfbea9e38acb733cf9862f87]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a99c6e08dfbea9e38acb733cf9862f87]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-a99c6e08dfbea9e38acb733cf9862f87]
+## 1. Title and commencement[^c-a99c6e08dfbea9e38acb733cf9862f87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation[^key-a99c6e08dfbea9e38acb733cf9862f87]
+## 2. Revocation[^c-a99c6e08dfbea9e38acb733cf9862f87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Consequential amendments to the Genetically Modified Animal Feed (Wales) Regulations 2004[^key-a99c6e08dfbea9e38acb733cf9862f87]
+## 3. Consequential amendments to the Genetically Modified Animal Feed (Wales) Regulations 2004[^c-a99c6e08dfbea9e38acb733cf9862f87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Consequential amendment of the Official Feed and Food Controls (Wales) Regulations 2006[^key-a99c6e08dfbea9e38acb733cf9862f87]
+## 4. Consequential amendment of the Official Feed and Food Controls (Wales) Regulations 2006[^c-a99c6e08dfbea9e38acb733cf9862f87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a99c6e08dfbea9e38acb733cf9862f87]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a99c6e08dfbea9e38acb733cf9862f87]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-a99c6e08dfbea9e38acb733cf9862f87]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a99c6e08dfbea9e38acb733cf9862f87]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a99c6e08dfbea9e38acb733cf9862f87]: Textual amendment: Regulations revoked (12.5.2016) by [The Animal Feed (Composition, Marketing and Use) (Wales) Regulations 2016 (S.I. 2016/386)](https://www.legislation.gov.uk/wsi/2016/386), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/386/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/wsi/2016/386/schedule/2) (with [reg. 2(4)](https://www.legislation.gov.uk/wsi/2016/386/regulation/2/4))
+[^c-a99c6e08dfbea9e38acb733cf9862f87]: Textual amendment: Regulations revoked (12.5.2016) by [The Animal Feed (Composition, Marketing and Use) (Wales) Regulations 2016 (S.I. 2016/386)](https://www.legislation.gov.uk/wsi/2016/386), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/386/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/wsi/2016/386/schedule/2) (with [reg. 2(4)](https://www.legislation.gov.uk/wsi/2016/386/regulation/2/4))

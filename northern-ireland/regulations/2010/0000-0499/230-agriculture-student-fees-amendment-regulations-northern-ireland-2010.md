@@ -31,7 +31,7 @@ summary: ''
 
 Agriculture
 
-Agriculture (Student fees) (Amendment) Regulations (Northern Ireland) 2010 (revoked)[^key-d2b1ec57e1697104a9ecc5ef2e8ce30d]
+Agriculture (Student fees) (Amendment) Regulations (Northern Ireland) 2010 (revoked)[^c-d2b1ec57e1697104a9ecc5ef2e8ce30d]
 
 Made
 
@@ -41,30 +41,30 @@ Coming into operation
 
 1st September 2010
 
-[^key-d2b1ec57e1697104a9ecc5ef2e8ce30d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d2b1ec57e1697104a9ecc5ef2e8ce30d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-d2b1ec57e1697104a9ecc5ef2e8ce30d]
+## 1. Citation and commencement[^c-d2b1ec57e1697104a9ecc5ef2e8ce30d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Agriculture (Student fees) Regulations (Northern Ireland) 2007[^key-d2b1ec57e1697104a9ecc5ef2e8ce30d]
+## 2. Amendment to the Agriculture (Student fees) Regulations (Northern Ireland) 2007[^c-d2b1ec57e1697104a9ecc5ef2e8ce30d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-d2b1ec57e1697104a9ecc5ef2e8ce30d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-d2b1ec57e1697104a9ecc5ef2e8ce30d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-d2b1ec57e1697104a9ecc5ef2e8ce30d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-d2b1ec57e1697104a9ecc5ef2e8ce30d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Revocations[^key-d2b1ec57e1697104a9ecc5ef2e8ce30d]
+## 5. Revocations[^c-d2b1ec57e1697104a9ecc5ef2e8ce30d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d2b1ec57e1697104a9ecc5ef2e8ce30d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d2b1ec57e1697104a9ecc5ef2e8ce30d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d2b1ec57e1697104a9ecc5ef2e8ce30d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d2b1ec57e1697104a9ecc5ef2e8ce30d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d2b1ec57e1697104a9ecc5ef2e8ce30d]: Textual amendment: Regulations revoked (24.8.2012) by Agriculture (Student fees)(Amendment) [Regulations (Northern Ireland) 2012 (S.R. 2012/254)](https://www.legislation.gov.uk/nisr/2012/254), [regs. 1](https://www.legislation.gov.uk/nisr/2012/254/regulation/1), [5](https://www.legislation.gov.uk/nisr/2012/254/regulation/5) and (1.9.2022) by [The Agriculture (Student fees) Regulations (Northern Ireland) 2022 (S.R. 2022/199)](https://www.legislation.gov.uk/nisr/2022/199), [regs. 1](https://www.legislation.gov.uk/nisr/2022/199/regulation/1), [22](https://www.legislation.gov.uk/nisr/2022/199/regulation/22)
+[^c-d2b1ec57e1697104a9ecc5ef2e8ce30d]: Textual amendment: Regulations revoked (24.8.2012) by Agriculture (Student fees)(Amendment) [Regulations (Northern Ireland) 2012 (S.R. 2012/254)](https://www.legislation.gov.uk/nisr/2012/254), [regs. 1](https://www.legislation.gov.uk/nisr/2012/254/regulation/1), [5](https://www.legislation.gov.uk/nisr/2012/254/regulation/5) and (1.9.2022) by [The Agriculture (Student fees) Regulations (Northern Ireland) 2022 (S.R. 2022/199)](https://www.legislation.gov.uk/nisr/2022/199), [regs. 1](https://www.legislation.gov.uk/nisr/2022/199/regulation/1), [22](https://www.legislation.gov.uk/nisr/2022/199/regulation/22)

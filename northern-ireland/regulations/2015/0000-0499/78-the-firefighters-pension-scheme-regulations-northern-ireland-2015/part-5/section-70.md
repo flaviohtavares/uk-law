@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 70. Employer initiated retirement[^key-2d89d58be2a46702902163ae61a2c7bd]
+## 70. Employer initiated retirement[^c-2d89d58be2a46702902163ae61a2c7bd]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2d89d58be2a46702902163ae61a2c7bd]: Textual amendment: [Reg. 70](https://www.legislation.gov.uk/nisr/2015/78/regulation/70) omitted (9.1.2025) by virtue of [The Firefighters’ Pension Schemes and Compensation Scheme (Amendment) (No. 2) Regulations (Northern Ireland) 2024 (S.R. 2024/218)](https://www.legislation.gov.uk/nisr/2024/218), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/218/regulation/1/1), [5(4)(c)](https://www.legislation.gov.uk/nisr/2024/218/regulation/5/4/c)
+[^c-2d89d58be2a46702902163ae61a2c7bd]: Textual amendment: [Reg. 70](https://www.legislation.gov.uk/nisr/2015/78/regulation/70) omitted (9.1.2025) by virtue of [The Firefighters’ Pension Schemes and Compensation Scheme (Amendment) (No. 2) Regulations (Northern Ireland) 2024 (S.R. 2024/218)](https://www.legislation.gov.uk/nisr/2024/218), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/218/regulation/1/1), [5(4)(c)](https://www.legislation.gov.uk/nisr/2024/218/regulation/5/4/c)

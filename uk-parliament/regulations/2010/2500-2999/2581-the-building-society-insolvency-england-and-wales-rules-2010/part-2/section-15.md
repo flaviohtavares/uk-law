@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Witness statement in opposition[^key-2bf87736c877b6571e03af70b854f9bd]
+## 15. Witness statement in opposition[^c-2bf87736c877b6571e03af70b854f9bd]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2bf87736c877b6571e03af70b854f9bd]: Commencement: Rule 15 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-2bf87736c877b6571e03af70b854f9bd]: Commencement: Rule 15 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

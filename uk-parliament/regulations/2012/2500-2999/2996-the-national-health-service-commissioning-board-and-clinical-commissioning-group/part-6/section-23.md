@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. NHS England's duty: reviewing decisions[^key-c31464ebf700c58b40bc343c24a900bf]
+## 23. NHS England's duty: reviewing decisions[^c-c31464ebf700c58b40bc343c24a900bf]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ summary: ''
 
 - (a) appoint such number of persons to act as chairs of the panels referred to in paragraph (4) (“chairs”) as NHS England considers reasonable to ensure that applications for a review under paragraph (3) can be considered by such a panel within a reasonable time; and
 - (b) establish a list consisting of the following persons—
-  - (i) at least one person (“ an integrated care board[^key-c9e790b8be2bf585774066cdc13bd366] member”) appointed by NHS England in respect of each integrated care board, and
+  - (i) at least one person (“ an integrated care board[^c-c9e790b8be2bf585774066cdc13bd366] member”) appointed by NHS England in respect of each integrated care board, and
   - (ii) at least one person (“a social services authority member”) appointed by NHS England in respect of each social services authority.
 
 (2) In complying with its duty under paragraph (1), NHS England must ensure that the persons it—
@@ -63,6 +63,6 @@ that person may apply in writing to NHS England for a review of that decision.
 
 ## Annotations
 
-[^key-c31464ebf700c58b40bc343c24a900bf]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-c31464ebf700c58b40bc343c24a900bf]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
-[^key-c9e790b8be2bf585774066cdc13bd366]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2012/2996) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
+[^c-c9e790b8be2bf585774066cdc13bd366]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2012/2996) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))

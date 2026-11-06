@@ -31,7 +31,7 @@ summary: ''
 
 EUROPEAN COMMUNITIES
 
-The European Communities (Designation) Order 1980 (revoked)[^key-99795f9458e345377f4f42312b228ce7]
+The European Communities (Designation) Order 1980 (revoked)[^c-99795f9458e345377f4f42312b228ce7]
 
 Made
 
@@ -51,22 +51,22 @@ article 2(b)
 
 18th July 1980
 
-[^key-99795f9458e345377f4f42312b228ce7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-99795f9458e345377f4f42312b228ce7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-99795f9458e345377f4f42312b228ce7]
+## 1. Citation and commencement[^c-99795f9458e345377f4f42312b228ce7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Designation[^key-99795f9458e345377f4f42312b228ce7]
+## 2. Designation[^c-99795f9458e345377f4f42312b228ce7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-99795f9458e345377f4f42312b228ce7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-99795f9458e345377f4f42312b228ce7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-99795f9458e345377f4f42312b228ce7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-99795f9458e345377f4f42312b228ce7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-99795f9458e345377f4f42312b228ce7]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1980/865) revoked (31.12.2020) by [The European Communities (Designation Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1011)](https://www.legislation.gov.uk/uksi/2018/1011), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1011/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1011/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-99795f9458e345377f4f42312b228ce7]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1980/865) revoked (31.12.2020) by [The European Communities (Designation Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1011)](https://www.legislation.gov.uk/uksi/2018/1011), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1011/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1011/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

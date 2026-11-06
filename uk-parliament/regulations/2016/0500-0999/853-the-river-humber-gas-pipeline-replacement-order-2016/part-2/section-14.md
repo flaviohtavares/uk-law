@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 14. Temporary stopping up of streets and public rights of way[^key-1860a48dd73462a0241e313c7ac495cb]
+## 14. Temporary stopping up of streets and public rights of way[^c-1860a48dd73462a0241e313c7ac495cb]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1860a48dd73462a0241e313c7ac495cb]: Commencement: Art. 14 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
+[^c-1860a48dd73462a0241e313c7ac495cb]: Commencement: Art. 14 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)

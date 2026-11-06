@@ -61,7 +61,7 @@ but in carrying out any work within the navigation area a statutory undertaker s
 
 (12) The Authority may require an applicant for a works licence, on making his application, to pay a reasonable fee in respect of the administrative expenses of dealing with the application; and different fees may be specified in relation to different cases or classes of case.
 
-(13)[^key-90d7d52156daee88101115babccb37b4] Before determining any application for a works licence the granting of which would significantly affect the use or enjoyment of the whole or any part of the navigation area, the Authority shall consult the Navigation Committee.
+(13)[^c-90d7d52156daee88101115babccb37b4] Before determining any application for a works licence the granting of which would significantly affect the use or enjoyment of the whole or any part of the navigation area, the Authority shall consult the Navigation Committee.
 
 (14) Not less than 28 days before determining any application for a works licence in respect of works which the Authority considers might interfere with the navigation of seagoing freight shipping, the Authority shall give notice of the application to—
 
@@ -72,4 +72,4 @@ but in carrying out any work within the navigation area a statutory undertaker s
 
 ## Annotations
 
-[^key-90d7d52156daee88101115babccb37b4]: Textual amendment: [S. 11(13)](https://www.legislation.gov.uk/ukpga/1988/4/section/11/13) substituted (2.7.2009) by [Broads Authority Act 2009 (c. i)](https://www.legislation.gov.uk/ukla/2009/1), [Sch. 7 para. 6](https://www.legislation.gov.uk/ukla/2009/1/schedule/7/paragraph/6) (with [ss. 2(3)](https://www.legislation.gov.uk/ukla/2009/1/section/2/3), [3(1)](https://www.legislation.gov.uk/ukla/2009/1/section/3/1), [16(3)](https://www.legislation.gov.uk/ukla/2009/1/section/16/3), [42](https://www.legislation.gov.uk/ukla/2009/1/section/42), [Sch. 6 Pts. 2](https://www.legislation.gov.uk/ukla/2009/1/schedule/6/part/2), [3](https://www.legislation.gov.uk/ukla/2009/1/schedule/6/part/3))
+[^c-90d7d52156daee88101115babccb37b4]: Textual amendment: [S. 11(13)](https://www.legislation.gov.uk/ukpga/1988/4/section/11/13) substituted (2.7.2009) by [Broads Authority Act 2009 (c. i)](https://www.legislation.gov.uk/ukla/2009/1), [Sch. 7 para. 6](https://www.legislation.gov.uk/ukla/2009/1/schedule/7/paragraph/6) (with [ss. 2(3)](https://www.legislation.gov.uk/ukla/2009/1/section/2/3), [3(1)](https://www.legislation.gov.uk/ukla/2009/1/section/3/1), [16(3)](https://www.legislation.gov.uk/ukla/2009/1/section/16/3), [42](https://www.legislation.gov.uk/ukla/2009/1/section/42), [Sch. 6 Pts. 2](https://www.legislation.gov.uk/ukla/2009/1/schedule/6/part/2), [3](https://www.legislation.gov.uk/ukla/2009/1/schedule/6/part/3))

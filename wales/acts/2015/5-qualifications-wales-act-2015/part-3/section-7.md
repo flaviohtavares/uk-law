@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Revision of general and qualification specific recognition criteria[^key-ee93fb82cbfdf0ce6697926df9534894]
+## 7. Revision of general and qualification specific recognition criteria[^c-ee93fb82cbfdf0ce6697926df9534894]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ee93fb82cbfdf0ce6697926df9534894]: Commencement: [S. 7](https://www.legislation.gov.uk/anaw/2015/5/section/7) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-ee93fb82cbfdf0ce6697926df9534894]: Commencement: [S. 7](https://www.legislation.gov.uk/anaw/2015/5/section/7) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))

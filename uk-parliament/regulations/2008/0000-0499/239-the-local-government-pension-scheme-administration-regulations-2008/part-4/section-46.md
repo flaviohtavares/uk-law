@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 46. Rights to return of contributions[^key-1df3bb9ceb151c2b51db68acaab0a1a4]
+## 46. Rights to return of contributions[^c-1df3bb9ceb151c2b51db68acaab0a1a4]
 
 *Extent: E+W+S*
 
@@ -41,4 +41,4 @@ where the rate of pay in each case is the annual rate of pay on the last day of 
 
 ## Annotations
 
-[^key-1df3bb9ceb151c2b51db68acaab0a1a4]: Commencement: Reg. 46 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-1df3bb9ceb151c2b51db68acaab0a1a4]: Commencement: Reg. 46 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)

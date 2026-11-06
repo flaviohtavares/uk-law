@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Penalties[^key-42bc446a9827456da3da2185d6f8dcb1][^key-4b1614050a6e3ff76637e95d5c319f9b][^key-328613cfa4fe6ab7fed253f303af8d0a][^key-8c9f9aeb91c8482091b039c5bd0c5d9a]
+## 43. Penalties[^c-42bc446a9827456da3da2185d6f8dcb1][^c-4b1614050a6e3ff76637e95d5c319f9b][^c-328613cfa4fe6ab7fed253f303af8d0a][^c-8c9f9aeb91c8482091b039c5bd0c5d9a]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,10 +66,10 @@ summary: ''
 
 ## Annotations
 
-[^key-42bc446a9827456da3da2185d6f8dcb1]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2020/27/section/43) in force at 14.6.2021 by [S.I. 2021/706](https://www.legislation.gov.uk/uksi/2021/706), [reg. 2](https://www.legislation.gov.uk/uksi/2021/706/regulation/2)
+[^c-42bc446a9827456da3da2185d6f8dcb1]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2020/27/section/43) in force at 14.6.2021 by [S.I. 2021/706](https://www.legislation.gov.uk/uksi/2021/706), [reg. 2](https://www.legislation.gov.uk/uksi/2021/706/regulation/2)
 
-[^key-4b1614050a6e3ff76637e95d5c319f9b]: Modification: [Ss. 41-43](https://www.legislation.gov.uk/ukpga/2020/27/section/41): power to modify conferred (28.4.2022) by [Subsidy Control Act 2022 (c. 23)](https://www.legislation.gov.uk/ukpga/2022/23), [ss. 67(3)](https://www.legislation.gov.uk/ukpga/2022/23/section/67/3), [91(1)(b)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/1/b)
+[^c-4b1614050a6e3ff76637e95d5c319f9b]: Modification: [Ss. 41-43](https://www.legislation.gov.uk/ukpga/2020/27/section/41): power to modify conferred (28.4.2022) by [Subsidy Control Act 2022 (c. 23)](https://www.legislation.gov.uk/ukpga/2022/23), [ss. 67(3)](https://www.legislation.gov.uk/ukpga/2022/23/section/67/3), [91(1)(b)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/1/b)
 
-[^key-328613cfa4fe6ab7fed253f303af8d0a]: Modification: [S. 43](https://www.legislation.gov.uk/ukpga/2020/27/section/43) applied (with modifications) (4.1.2023) by [The Subsidy Control (Information-Gathering Powers) (Modification) Regulations 2022 (S.I. 2022/1152)](https://www.legislation.gov.uk/uksi/2022/1152), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1152/regulation/1/1), [2(c)](https://www.legislation.gov.uk/uksi/2022/1152/regulation/2/c)
+[^c-328613cfa4fe6ab7fed253f303af8d0a]: Modification: [S. 43](https://www.legislation.gov.uk/ukpga/2020/27/section/43) applied (with modifications) (4.1.2023) by [The Subsidy Control (Information-Gathering Powers) (Modification) Regulations 2022 (S.I. 2022/1152)](https://www.legislation.gov.uk/uksi/2022/1152), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1152/regulation/1/1), [2(c)](https://www.legislation.gov.uk/uksi/2022/1152/regulation/2/c)
 
-[^key-8c9f9aeb91c8482091b039c5bd0c5d9a]: Modification: [Ss. 41-43](https://www.legislation.gov.uk/ukpga/2020/27/section/41) applied (with modifications) (4.1.2023) by [Subsidy Control Act 2022 (c. 23)](https://www.legislation.gov.uk/ukpga/2022/23), [ss. 67(1)(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/67/1/2), [91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2); [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-8c9f9aeb91c8482091b039c5bd0c5d9a]: Modification: [Ss. 41-43](https://www.legislation.gov.uk/ukpga/2020/27/section/41) applied (with modifications) (4.1.2023) by [Subsidy Control Act 2022 (c. 23)](https://www.legislation.gov.uk/ukpga/2022/23), [ss. 67(1)(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/67/1/2), [91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2); [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)

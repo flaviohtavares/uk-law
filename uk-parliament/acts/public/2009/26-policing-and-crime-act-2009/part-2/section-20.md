@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Soliciting: Northern Ireland[^key-1d0064cfe7b61a4cfe3c623a365ee42b]
+## 20. Soliciting: Northern Ireland[^c-1d0064cfe7b61a4cfe3c623a365ee42b]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ For Articles 60 and 61 of the Sexual Offences (Northern Ireland) Order 2008 (S.I
 
 ## Annotations
 
-[^key-1d0064cfe7b61a4cfe3c623a365ee42b]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2009/26/section/20) in force at 1.4.2010 by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(g)](https://www.legislation.gov.uk/uksi/2010/507/article/5/g)
+[^c-1d0064cfe7b61a4cfe3c623a365ee42b]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2009/26/section/20) in force at 1.4.2010 by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(g)](https://www.legislation.gov.uk/uksi/2010/507/article/5/g)

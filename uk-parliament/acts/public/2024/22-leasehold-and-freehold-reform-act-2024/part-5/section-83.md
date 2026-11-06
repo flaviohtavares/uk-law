@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Meaning of “administration charge”[^key-bb54aa5dd7bd467da0166d83ce075f71]
+## 83. Meaning of “administration charge”[^c-bb54aa5dd7bd467da0166d83ce075f71]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bb54aa5dd7bd467da0166d83ce075f71]: Commencement: S. 83 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-bb54aa5dd7bd467da0166d83ce075f71]: Commencement: S. 83 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

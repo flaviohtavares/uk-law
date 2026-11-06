@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 169. Planning: assessments of effects on certain sites[^key-f60a51233821e3d15ef7d3fad68e42e2]
+## 169. Planning: assessments of effects on certain sites[^c-f60a51233821e3d15ef7d3fad68e42e2]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 15 amends the Conservation of Habitats and Species Regulations 2017 ([S
 
 ## Annotations
 
-[^key-f60a51233821e3d15ef7d3fad68e42e2]: Commencement: [S. 169](https://www.legislation.gov.uk/ukpga/2023/55/section/169) in force at 26.12.2023, see [s. 255(6)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/6)
+[^c-f60a51233821e3d15ef7d3fad68e42e2]: Commencement: [S. 169](https://www.legislation.gov.uk/ukpga/2023/55/section/169) in force at 26.12.2023, see [s. 255(6)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/6)

@@ -35,7 +35,7 @@ FAMILY LAW, ENGLAND AND WALES
 
 FAMILY LAW, NORTHERN IRELAND
 
-The European Communities (Matrimonial Jurisdiction and Judgments) Regulations 2001 (revoked)[^key-c8947f48b2dcd0c71dc6289837c832e9]
+The European Communities (Matrimonial Jurisdiction and Judgments) Regulations 2001 (revoked)[^c-c8947f48b2dcd0c71dc6289837c832e9]
 
 Made
 
@@ -49,74 +49,74 @@ Coming into force
 
 1st March 2001
 
-[^key-c8947f48b2dcd0c71dc6289837c832e9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c8947f48b2dcd0c71dc6289837c832e9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-c8947f48b2dcd0c71dc6289837c832e9]
+## 1. Citation, commencement and extent[^c-c8947f48b2dcd0c71dc6289837c832e9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2.[^key-c8947f48b2dcd0c71dc6289837c832e9]
+## 2.[^c-c8947f48b2dcd0c71dc6289837c832e9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments to the Domicile and Matrimonial Proceedings Act 1973[^key-c8947f48b2dcd0c71dc6289837c832e9]
+## 3. Amendments to the Domicile and Matrimonial Proceedings Act 1973[^c-c8947f48b2dcd0c71dc6289837c832e9]
 
 *Extent: E+W*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-c8947f48b2dcd0c71dc6289837c832e9]
+## 4.[^c-c8947f48b2dcd0c71dc6289837c832e9]
 
 *Extent: E+W*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment to the Child Abduction and Custody Act 1985[^key-c8947f48b2dcd0c71dc6289837c832e9]
+## 5. Amendment to the Child Abduction and Custody Act 1985[^c-c8947f48b2dcd0c71dc6289837c832e9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendments to the Family Law Act 1986[^key-c8947f48b2dcd0c71dc6289837c832e9]
+## 6. Amendments to the Family Law Act 1986[^c-c8947f48b2dcd0c71dc6289837c832e9]
 
 *Extent: E+W*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7.[^key-c8947f48b2dcd0c71dc6289837c832e9]
+## 7.[^c-c8947f48b2dcd0c71dc6289837c832e9]
 
 *Extent: E+W*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8.[^key-c8947f48b2dcd0c71dc6289837c832e9]
+## 8.[^c-c8947f48b2dcd0c71dc6289837c832e9]
 
 *Extent: E+W*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9.[^key-c8947f48b2dcd0c71dc6289837c832e9]
+## 9.[^c-c8947f48b2dcd0c71dc6289837c832e9]
 
 *Extent: E+W*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10.[^key-c8947f48b2dcd0c71dc6289837c832e9]
+## 10.[^c-c8947f48b2dcd0c71dc6289837c832e9]
 
 *Extent: E+W*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Application[^key-c8947f48b2dcd0c71dc6289837c832e9]
+## 11. Application[^c-c8947f48b2dcd0c71dc6289837c832e9]
 
 *Extent: E+W*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c8947f48b2dcd0c71dc6289837c832e9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c8947f48b2dcd0c71dc6289837c832e9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c8947f48b2dcd0c71dc6289837c832e9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c8947f48b2dcd0c71dc6289837c832e9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c8947f48b2dcd0c71dc6289837c832e9]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2001/310) revoked (31.12.2020) by [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 32](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/32) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c8947f48b2dcd0c71dc6289837c832e9]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2001/310) revoked (31.12.2020) by [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 32](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/32) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

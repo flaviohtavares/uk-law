@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 73. Applications to the Mental Health Tribunal for Scotland[^key-ad18731bd43d5fae1a1180f9fcc7a907]
+## 73. Applications to the Mental Health Tribunal for Scotland[^c-ad18731bd43d5fae1a1180f9fcc7a907]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ After paragraph 13 of schedule 2 to the Mental Health (Care and Treatment) (Scot
 
 ## Annotations
 
-[^key-ad18731bd43d5fae1a1180f9fcc7a907]: Commencement: [S. 73](https://www.legislation.gov.uk/asp/2007/10/section/73) in force at 30.6.2007 by [S.S.I. 2007/334](https://www.legislation.gov.uk/ssi/2007/334), [art. 2(a)](https://www.legislation.gov.uk/ssi/2007/334/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/334/schedule/1)
+[^c-ad18731bd43d5fae1a1180f9fcc7a907]: Commencement: [S. 73](https://www.legislation.gov.uk/asp/2007/10/section/73) in force at 30.6.2007 by [S.S.I. 2007/334](https://www.legislation.gov.uk/ssi/2007/334), [art. 2(a)](https://www.legislation.gov.uk/ssi/2007/334/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/334/schedule/1)

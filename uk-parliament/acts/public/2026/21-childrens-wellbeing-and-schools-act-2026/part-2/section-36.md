@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Guidance on use of mobile phones etc in schools in England[^key-61022e1be0f78ad361d28e9169e52fa8]
+## 36. Guidance on use of mobile phones etc in schools in England[^c-61022e1be0f78ad361d28e9169e52fa8]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-61022e1be0f78ad361d28e9169e52fa8]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2026/21/section/36) in force at 29.6.2026, see [s. 78(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2)
+[^c-61022e1be0f78ad361d28e9169e52fa8]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2026/21/section/36) in force at 29.6.2026, see [s. 78(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2)

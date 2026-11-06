@@ -26,10 +26,10 @@ summary: ''
 
 (3) If the Inland Revenue and employee do not reach agreement, the employee may appeal ... against the determination of the code by giving notice to the Inland Revenue.
 
-(4) On an appeal that is notified to the tribunal, the tribunal[^key-7eb125304a7bbfcea5603145328b4659] must determine the code in accordance with these Regulations.
+(4) On an appeal that is notified to the tribunal, the tribunal[^c-7eb125304a7bbfcea5603145328b4659] must determine the code in accordance with these Regulations.
 
 (5) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7eb125304a7bbfcea5603145328b4659]: Textual amendment: Words in [reg. 18(4)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/18/4) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 94(3)](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/94/3)
+[^c-7eb125304a7bbfcea5603145328b4659]: Textual amendment: Words in [reg. 18(4)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/18/4) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 94(3)](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/94/3)

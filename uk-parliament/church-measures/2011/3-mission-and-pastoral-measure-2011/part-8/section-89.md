@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 89. Suspension of new rights of patronage[^key-b131a87210a1a3af331620870ad45957]
+## 89. Suspension of new rights of patronage[^c-b131a87210a1a3af331620870ad45957]
 
 *Extent: E*
 
@@ -24,4 +24,4 @@ Where any proposals approved under section 7 or 22 contain recommendations for t
 
 ## Annotations
 
-[^key-b131a87210a1a3af331620870ad45957]: Commencement: S. 89 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-b131a87210a1a3af331620870ad45957]: Commencement: S. 89 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

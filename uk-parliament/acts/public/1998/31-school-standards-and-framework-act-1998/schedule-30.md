@@ -46,7 +46,7 @@ Section 140(1).
 
 (2) In subsection (1), omit the words from the beginning to “committees),”.
 
-(3)[^key-87a18ea558c3d68ac3943eee4f3d16f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-87a18ea558c3d68ac3943eee4f3d16f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Local Government Act 1974 (c.7)
 
@@ -67,21 +67,21 @@ Section 140(1).
 
 *Extent: E+W*
 
-**5.**[^key-e1339f296b70b5b84bb3ac90fb1e660f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-e1339f296b70b5b84bb3ac90fb1e660f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-168290e23b1196293a9a04571950742f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-168290e23b1196293a9a04571950742f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Race Relations Act 1976 (c.74)
 
 *Extent: E+W+S*
 
-**7.**[^key-6712022ec61c7a62b182d2d4309c5339] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-6712022ec61c7a62b182d2d4309c5339] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### National Health Service Act 1977 (c.49)
 
 *Extent: E+W*
 
-**8.**[^key-22a9a20b51f416187a201aca7cf801af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-22a9a20b51f416187a201aca7cf801af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Representation of the People Act 1983 (c.2)
 
@@ -99,13 +99,13 @@ Section 140(1).
 
 *Extent: E+W*
 
-**13.**[^key-1e663d071791abe7e5f4a6e9a6e5d33b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-1e663d071791abe7e5f4a6e9a6e5d33b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Education (No. 2) Act 1986 (c.61)
 
 *Extent: E+W*
 
-**14.**[^key-d3089455add882573eee015000550e44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-d3089455add882573eee015000550e44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Local Government Act 1988 (c.9)
 
@@ -119,7 +119,7 @@ Section 140(1).
 
 **16.** The Education Reform Act 1988 shall be amended as follows.
 
-**17.**[^key-f0a12e560baba41ac3d0f6d8e80c1d7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-f0a12e560baba41ac3d0f6d8e80c1d7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **18.** In section 221(1)(b) (avoidance of certain contractual terms), for “an aided or grant-maintained school;” substitute “ a foundation, voluntary aided or foundation special school; ”.
 
@@ -176,17 +176,17 @@ Section 140(1).
 
 **28.**[^M_F_a4ac936c-fb2c-48b9-fbd8-a34010860b65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### ...[^key-ef687e593d1139235da2276f534464cd]
+### ...[^c-ef687e593d1139235da2276f534464cd]
 
 *Extent: E*
 
-**29.**[^key-ef687e593d1139235da2276f534464cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**29.**[^c-ef687e593d1139235da2276f534464cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**30.**[^key-ef687e593d1139235da2276f534464cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**30.**[^c-ef687e593d1139235da2276f534464cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**31.**[^key-ef687e593d1139235da2276f534464cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**31.**[^c-ef687e593d1139235da2276f534464cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**32.**[^key-ef687e593d1139235da2276f534464cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**32.**[^c-ef687e593d1139235da2276f534464cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Further and Higher Education Act 1992 (c.13)
 
@@ -258,7 +258,7 @@ Section 140(1).
 
 **44.** [^c18669001]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**45.**[^key-3bb04d8c04a79b69ad8367f8fc031c7a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**45.**[^c-3bb04d8c04a79b69ad8367f8fc031c7a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **46.** In section 90 (interpretation)—
 
@@ -274,18 +274,18 @@ Section 140(1).
 
 ### Tribunals and Inquiries Act 1992 (c.53)
 
-**47.**[^c14013841] In paragraph 15 of Schedule 1 to the Tribunals and Inquiries Act 1992 (tribunals to which that Act applies[^key-6979336c4e858530c2428e6a9015fc28])—
+**47.**[^c14013841] In paragraph 15 of Schedule 1 to the Tribunals and Inquiries Act 1992 (tribunals to which that Act applies[^c-6979336c4e858530c2428e6a9015fc28])—
 
-- (a)[^key-446c95d542900f1eb7b09d2a35d3f1dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-446c95d542900f1eb7b09d2a35d3f1dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in paragraph (d), for “(c. 38)” substitute “ (c. 57) ”.
 
 ### Charities Act 1993 (c.10)
 
 *Extent: E+W*
 
-**48.**[^key-4a2e3e7bf12951eb0a8a82ce9b4bd67e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**48.**[^c-4a2e3e7bf12951eb0a8a82ce9b4bd67e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**49.**[^key-da0b199bf05f310f6717d0de78bd4926] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**49.**[^c-da0b199bf05f310f6717d0de78bd4926] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Welsh Language Act 1993 (c.38)
 
@@ -310,7 +310,7 @@ Section 140(1).
 
 **53.** In section 11A (general duty of Secretary of State with respect to training), omit “grant-maintained schools,”.
 
-**54.**[^key-ca95a5c12a1aef8080e8c72e95f04a4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**54.**[^c-ca95a5c12a1aef8080e8c72e95f04a4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Employment Rights Act 1996 (c.18)
 
@@ -322,7 +322,7 @@ Section 140(1).
 
 *Extent: E+W*
 
-**56.**[^key-7f7997fbdf8c8824be970b5b12486ff1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**56.**[^c-7f7997fbdf8c8824be970b5b12486ff1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Education Act 1996 (c.56)
 
@@ -332,13 +332,13 @@ Section 140(1).
 
 **58.** In section 1(2) (the stages of education), omit paragraph (b) and the “and” preceding it.
 
-**59.**[^key-90a3acdb9eda8d391a08df18d20d343a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**59.**[^c-90a3acdb9eda8d391a08df18d20d343a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **60.** In section 6(2) (nursery schools and special schools), for the words from “and” onwards substitute “ and (in the case of a school which is not maintained by a local education authority) is for the time being approved, as mentioned in section 337. ”
 
 **61.** In section 9 (pupils to be educated in accordance with parents’ wishes), for the words from “State,” to “funding authorities” substitute “ State and local education authorities ”.
 
-**62.** In section 14 (functions of local authorities[^key-570ae5afeec7f2b1ffee877e975cdee5] in respect of provision of primary and secondary schools), omit subsection (5).
+**62.** In section 14 (functions of local authorities[^c-570ae5afeec7f2b1ffee877e975cdee5] in respect of provision of primary and secondary schools), omit subsection (5).
 
 **63.** After section 15 insert—
 
@@ -348,7 +348,7 @@ Section 140(1).
 >
 > (2) Subsections (6) and (7) of section 14 shall apply in relation to functions under this section as they apply in relation to functions under that section.
 
-**64.**[^key-51787edf357cda27718b514139d59832] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**64.**[^c-51787edf357cda27718b514139d59832] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
@@ -378,18 +378,18 @@ Section 140(1).
 
 **73.** In section 315(2) (review of arrangements for special educational provision), for the words from “the funding” onwards substitute “ the governing bodies of community, foundation and voluntary and community and foundation special schools in their area. ”
 
-**74.** (1) Section 317 (duties of governing body or local authority[^key-5177265949adaa73e26402711f36dc2e] in relation to pupils with special educational needs) shall be amended as follows.
+**74.** (1) Section 317 (duties of governing body or local authority[^c-5177265949adaa73e26402711f36dc2e] in relation to pupils with special educational needs) shall be amended as follows.
 
-(2)[^key-a57b37f60507437cc6943e911cf5a0e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-a57b37f60507437cc6943e911cf5a0e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-a57b37f60507437cc6943e911cf5a0e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-a57b37f60507437cc6943e911cf5a0e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In subsection (3)—
 
 - (a) in paragraph (a)—
   - (i) for “county, voluntary and grant-maintained schools” substitute “ community, foundation and voluntary schools ”, and
-  - (ii) omit “, the funding authority”; [^key-c57317a6ecf00083acd19b5ad8c5f52c]...
-- (b)[^key-c57317a6ecf00083acd19b5ad8c5f52c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii) omit “, the funding authority”; [^c-c57317a6ecf00083acd19b5ad8c5f52c]...
+- (b)[^c-c57317a6ecf00083acd19b5ad8c5f52c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In subsection (4), for “a county, voluntary or grant-maintained school” substitute “ a community, foundation or voluntary school ”.
 
@@ -408,7 +408,7 @@ Section 140(1).
 
 (3) In subsection (2), for the words from “this section” to “in any other area” substitute “ this section to the governing bodies of community, foundation or voluntary schools or community or foundation special schools in any other area ”.
 
-(4)[^key-fb966c18bb480a81e7022b6ff197ecd4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-fb966c18bb480a81e7022b6ff197ecd4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **76.** In section 321(3) (general duty of local authority towards children for whom they are responsible)—
 
@@ -485,17 +485,17 @@ Section 140(1).
 
 > (3) In this section “**maintained school**” means a school maintained by a local education authority.
 
-**85.**[^key-8d907dc0a489bfb67d1566356e59971f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**85.**[^c-8d907dc0a489bfb67d1566356e59971f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**86.**[^key-8d907dc0a489bfb67d1566356e59971f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**86.**[^c-8d907dc0a489bfb67d1566356e59971f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**87.**[^key-8d907dc0a489bfb67d1566356e59971f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**87.**[^c-8d907dc0a489bfb67d1566356e59971f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**88.**[^key-8d907dc0a489bfb67d1566356e59971f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**88.**[^c-8d907dc0a489bfb67d1566356e59971f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**89.**[^key-8d907dc0a489bfb67d1566356e59971f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**89.**[^c-8d907dc0a489bfb67d1566356e59971f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**90.**[^key-8d907dc0a489bfb67d1566356e59971f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**90.**[^c-8d907dc0a489bfb67d1566356e59971f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **91.**[^c14014011] Omit sections 370 to 374 (functions of local authority etc. in relation to curriculum).
 
@@ -680,9 +680,9 @@ Section 140(1).
 - (a) at the end of paragraph (b) insert “ or ”; and
 - (b) omit paragraph (c) and the “or” preceding it.
 
-**125.**[^key-d5820c13322e2a74c9a5118eab012669] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**125.**[^c-d5820c13322e2a74c9a5118eab012669] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**126.**[^key-bd32dd8bff82ebf3ea2c4beb47460b96] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**126.**[^c-bd32dd8bff82ebf3ea2c4beb47460b96] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **127.** In section 490(1) (grants in respect of special provision for ethnic minorities), omit paragraph (a).
 
@@ -725,7 +725,7 @@ Section 140(1).
 
 **132.**[^c14014071] Omit sections 500 to 505 (rationalisation of school places).
 
-**31.**[^key-55f3450fac036239429f6fe3006c7a58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**31.**[^c-55f3450fac036239429f6fe3006c7a58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **134.** In section 510 (provision of clothing)—
 
@@ -772,17 +772,17 @@ Section 140(1).
 
 **143.** In section 525 (offence of neglecting the cleanliness of a pupil), in subsection (3), omit “or a grant-maintained school”.
 
-**144.**[^key-ecf935f6265da7f33a99190659c6c77c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**144.**[^c-ecf935f6265da7f33a99190659c6c77c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **145.** In section 529 (power to accept gifts on trust for educational purposes)—
 
-- (a)[^key-4dc45c42336e1e84e0c480c03104d3d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-4dc45c42336e1e84e0c480c03104d3d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in subsection (3) for “a county school” substitute “ a community school ”.
 
 **146.** In section 530 (compulsory purchase of land)—
 
 - (a) in subsection (2) for “voluntary school” substitute “ foundation, voluntary or foundation special school ”; and
-- (b)[^key-27f538988bc1e70f3a249c209178c811] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-27f538988bc1e70f3a249c209178c811] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **147.** In section 531(2) (acquisition of land by agreement) for “voluntary school” substitute “ foundation, voluntary or foundation special school ”.
 
@@ -1094,39 +1094,39 @@ Section 140(1).
 
 *Extent: E+W*
 
-**190.**[^key-acd5795af981440bd3b6381885dac450] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**190.**[^c-acd5795af981440bd3b6381885dac450] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**191.**[^key-acd5795af981440bd3b6381885dac450] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**191.**[^c-acd5795af981440bd3b6381885dac450] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**192.**[^key-acd5795af981440bd3b6381885dac450] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**192.**[^c-acd5795af981440bd3b6381885dac450] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**193.**[^key-acd5795af981440bd3b6381885dac450] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**193.**[^c-acd5795af981440bd3b6381885dac450] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**194.**[^key-acd5795af981440bd3b6381885dac450] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**194.**[^c-acd5795af981440bd3b6381885dac450] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**195.**[^key-acd5795af981440bd3b6381885dac450] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**195.**[^c-acd5795af981440bd3b6381885dac450] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**196.**[^key-acd5795af981440bd3b6381885dac450] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**196.**[^c-acd5795af981440bd3b6381885dac450] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**197.**[^key-acd5795af981440bd3b6381885dac450] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**197.**[^c-acd5795af981440bd3b6381885dac450] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**198.**[^key-acd5795af981440bd3b6381885dac450] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**198.**[^c-acd5795af981440bd3b6381885dac450] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**199.**[^key-acd5795af981440bd3b6381885dac450] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**199.**[^c-acd5795af981440bd3b6381885dac450] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**200.**[^key-acd5795af981440bd3b6381885dac450] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**200.**[^c-acd5795af981440bd3b6381885dac450] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**201.**[^key-acd5795af981440bd3b6381885dac450] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**201.**[^c-acd5795af981440bd3b6381885dac450] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**202.**[^key-acd5795af981440bd3b6381885dac450] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**202.**[^c-acd5795af981440bd3b6381885dac450] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**203.**[^key-acd5795af981440bd3b6381885dac450] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**203.**[^c-acd5795af981440bd3b6381885dac450] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**204.**[^key-acd5795af981440bd3b6381885dac450] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**204.**[^c-acd5795af981440bd3b6381885dac450] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**205.**[^key-acd5795af981440bd3b6381885dac450] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**205.**[^c-acd5795af981440bd3b6381885dac450] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**206.**[^key-acd5795af981440bd3b6381885dac450] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**206.**[^c-acd5795af981440bd3b6381885dac450] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Education Act 1997 (c.44)
 
@@ -1170,7 +1170,7 @@ Section 140(1).
 > - (a) a community, foundation or voluntary school, or
 > - (b) a community or foundation special school (other than one established in a hospital).
 
-**214.**[^key-67ee4aaaf962fbd11ffe686918fe0cdf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**214.**[^c-67ee4aaaf962fbd11ffe686918fe0cdf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **215.** In section 29(3) (functions of Qualifications, Curriculum and Assessment Authority for Wales), for the words from “receiving nursery” onwards substitute “ under compulsory school age. ”
 
@@ -1217,35 +1217,35 @@ Section 140(1).
 
 *Extent: E+W*
 
-**225.**[^key-5bc19db00491250f3d3887fdcf5044e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**225.**[^c-5bc19db00491250f3d3887fdcf5044e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
 [^c14013661]: Marginal citation: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56).
 
-[^key-87a18ea558c3d68ac3943eee4f3d16f3]: Textual amendment: Sch. 30 para. 3(3) repealed (20.1.2003 for E., 31.5.2005 for W.) by [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [s. 216(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/216/4), [Sch. 22 Pt. 3](https://www.legislation.gov.uk/ukpga/2002/32/schedule/22/part/3) (with [ss. 210(8)](https://www.legislation.gov.uk/ukpga/2002/32/section/210/8), [214(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/214/4)); [S.I. 2002/2952](https://www.legislation.gov.uk/uksi/2002/2952), [art. 2](https://www.legislation.gov.uk/uksi/2002/2952/article/2); [S.I. 2005/1395](https://www.legislation.gov.uk/uksi/2005/1395), [art. 4](https://www.legislation.gov.uk/uksi/2005/1395/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/1395/schedule)
+[^c-87a18ea558c3d68ac3943eee4f3d16f3]: Textual amendment: Sch. 30 para. 3(3) repealed (20.1.2003 for E., 31.5.2005 for W.) by [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [s. 216(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/216/4), [Sch. 22 Pt. 3](https://www.legislation.gov.uk/ukpga/2002/32/schedule/22/part/3) (with [ss. 210(8)](https://www.legislation.gov.uk/ukpga/2002/32/section/210/8), [214(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/214/4)); [S.I. 2002/2952](https://www.legislation.gov.uk/uksi/2002/2952), [art. 2](https://www.legislation.gov.uk/uksi/2002/2952/article/2); [S.I. 2005/1395](https://www.legislation.gov.uk/uksi/2005/1395), [art. 4](https://www.legislation.gov.uk/uksi/2005/1395/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/1395/schedule)
 
 [^c14013671]: Commencement: Sch. 30 para. 4 wholly in force at 1.9.1999; Sch. 30 para. 4 not in force at Royal Assent see s. 145(3); Sch. 30 para. 4 in force for certain purposes at 1.4.1999 by [S.I. 1999/1016](https://www.legislation.gov.uk/uksi/1999/1016), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/1016/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/1016/schedule/1) (with [arts. 3-6](https://www.legislation.gov.uk/uksi/1999/1016/article/3), [Sch. 4](https://www.legislation.gov.uk/uksi/1999/1016/schedule/4)); Sch. 30 para. 4 in force at 1.4.1999 in so far as not already in force by [S.I. 1999/2323](https://www.legislation.gov.uk/uksi/1999/2323), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/2323/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/2323/schedule/1) (with [arts. 3-5](https://www.legislation.gov.uk/uksi/1999/2323/article/3), [Schs. 5-7](https://www.legislation.gov.uk/uksi/1999/2323/schedule/5)).
 
-[^key-e1339f296b70b5b84bb3ac90fb1e660f]: Textual amendment: Sch. 30 para. 5 repealed (1.10.2010) by [2010 c. 15](https://www.legislation.gov.uk/ukpga/2010/15), [Sch. 27 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/15/schedule/27/part/1) (as substituted by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2) (see [S.I. 2010/2317](https://www.legislation.gov.uk/uksi/2010/2317), [art. 2](https://www.legislation.gov.uk/uksi/2010/2317/article/2)))
+[^c-e1339f296b70b5b84bb3ac90fb1e660f]: Textual amendment: Sch. 30 para. 5 repealed (1.10.2010) by [2010 c. 15](https://www.legislation.gov.uk/ukpga/2010/15), [Sch. 27 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/15/schedule/27/part/1) (as substituted by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2) (see [S.I. 2010/2317](https://www.legislation.gov.uk/uksi/2010/2317), [art. 2](https://www.legislation.gov.uk/uksi/2010/2317/article/2)))
 
-[^key-168290e23b1196293a9a04571950742f]: Textual amendment: Sch. 30 para. 6 repealed (1.10.2010) by [2010 c. 15](https://www.legislation.gov.uk/ukpga/2010/15), [Sch. 27 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/15/schedule/27/part/1) (as substituted by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2) (see [S.I. 2010/2317](https://www.legislation.gov.uk/uksi/2010/2317), [art. 2](https://www.legislation.gov.uk/uksi/2010/2317/article/2)))
+[^c-168290e23b1196293a9a04571950742f]: Textual amendment: Sch. 30 para. 6 repealed (1.10.2010) by [2010 c. 15](https://www.legislation.gov.uk/ukpga/2010/15), [Sch. 27 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/15/schedule/27/part/1) (as substituted by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2) (see [S.I. 2010/2317](https://www.legislation.gov.uk/uksi/2010/2317), [art. 2](https://www.legislation.gov.uk/uksi/2010/2317/article/2)))
 
-[^key-6712022ec61c7a62b182d2d4309c5339]: Textual amendment: Sch. 30 para. 7 repealed (1.10.2010) by 2010 c. 15, Sch. 27 Pt. 1 (as substituted by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2) (see [S.I. 2010/2317](https://www.legislation.gov.uk/uksi/2010/2317), [art. 2](https://www.legislation.gov.uk/uksi/2010/2317/article/2/made)))
+[^c-6712022ec61c7a62b182d2d4309c5339]: Textual amendment: Sch. 30 para. 7 repealed (1.10.2010) by 2010 c. 15, Sch. 27 Pt. 1 (as substituted by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2) (see [S.I. 2010/2317](https://www.legislation.gov.uk/uksi/2010/2317), [art. 2](https://www.legislation.gov.uk/uksi/2010/2317/article/2/made)))
 
-[^key-22a9a20b51f416187a201aca7cf801af]: Textual amendment: [Sch. 30 para. 8](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/8) repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1, Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
+[^c-22a9a20b51f416187a201aca7cf801af]: Textual amendment: [Sch. 30 para. 8](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/8) repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1, Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
 
-[^key-1e663d071791abe7e5f4a6e9a6e5d33b]: Textual amendment: Sch. 30 para. 13 repealed (18.11.2003) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 128(2)(f)(vii)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/2/f/vii), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/26/schedule/8/part/1)
+[^c-1e663d071791abe7e5f4a6e9a6e5d33b]: Textual amendment: Sch. 30 para. 13 repealed (18.11.2003) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 128(2)(f)(vii)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/2/f/vii), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/26/schedule/8/part/1)
 
-[^key-d3089455add882573eee015000550e44]: Textual amendment: [Sch. 30 para. 14](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/14) repealed (1.10.2002 for E., 2.1.2008 for W.) by [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [s. 216(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/216/4), [Sch. 22 Pt. 3](https://www.legislation.gov.uk/ukpga/2002/32/schedule/22/part/3) (with [ss. 210(8)](https://www.legislation.gov.uk/ukpga/2002/32/section/210/8), [214(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/214/4)); [S.I. 2002/2439](https://www.legislation.gov.uk/uksi/2002/2439), [art. 3](https://www.legislation.gov.uk/uksi/2002/2439/article/3); [S.I. 2007/3611](https://www.legislation.gov.uk/wsi/2007/3611), [art. 4(1)](https://www.legislation.gov.uk/wsi/2007/3611/article/4/1), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2007/3611/schedule/part/1)
+[^c-d3089455add882573eee015000550e44]: Textual amendment: [Sch. 30 para. 14](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/14) repealed (1.10.2002 for E., 2.1.2008 for W.) by [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [s. 216(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/216/4), [Sch. 22 Pt. 3](https://www.legislation.gov.uk/ukpga/2002/32/schedule/22/part/3) (with [ss. 210(8)](https://www.legislation.gov.uk/ukpga/2002/32/section/210/8), [214(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/214/4)); [S.I. 2002/2439](https://www.legislation.gov.uk/uksi/2002/2439), [art. 3](https://www.legislation.gov.uk/uksi/2002/2439/article/3); [S.I. 2007/3611](https://www.legislation.gov.uk/wsi/2007/3611), [art. 4(1)](https://www.legislation.gov.uk/wsi/2007/3611/article/4/1), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2007/3611/schedule/part/1)
 
-[^key-f0a12e560baba41ac3d0f6d8e80c1d7d]: Textual amendment: [Sch. 30 para. 17](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/17) repealed (1.10.2003 for E., 2.1.2008 for W.) by [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [s. 216(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/216/4), [Sch. 22 Pt. 3](https://www.legislation.gov.uk/ukpga/2002/32/schedule/22/part/3) (with [ss. 210(8)](https://www.legislation.gov.uk/ukpga/2002/32/section/210/8), [214(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/214/4)); [S.I. 2003/1667](https://www.legislation.gov.uk/uksi/2003/1667), [art. 5](https://www.legislation.gov.uk/uksi/2003/1667/article/5); [S.I. 2007/3611](https://www.legislation.gov.uk/wsi/2007/3611), [art. 4(1)](https://www.legislation.gov.uk/wsi/2007/3611/article/4/1), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2007/3611/schedule/part/1)
+[^c-f0a12e560baba41ac3d0f6d8e80c1d7d]: Textual amendment: [Sch. 30 para. 17](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/17) repealed (1.10.2003 for E., 2.1.2008 for W.) by [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [s. 216(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/216/4), [Sch. 22 Pt. 3](https://www.legislation.gov.uk/ukpga/2002/32/schedule/22/part/3) (with [ss. 210(8)](https://www.legislation.gov.uk/ukpga/2002/32/section/210/8), [214(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/214/4)); [S.I. 2003/1667](https://www.legislation.gov.uk/uksi/2003/1667), [art. 5](https://www.legislation.gov.uk/uksi/2003/1667/article/5); [S.I. 2007/3611](https://www.legislation.gov.uk/wsi/2007/3611), [art. 4(1)](https://www.legislation.gov.uk/wsi/2007/3611/article/4/1), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2007/3611/schedule/part/1)
 
 [^c14013701]: Marginal citation: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56).
 
 [^M_F_a4ac936c-fb2c-48b9-fbd8-a34010860b65]: Textual amendment: Sch. 30 paras. 24-28 repealed (1.10.2002 for specified purposes, 1.8.2003 in so far as not already in force) by [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [s. 216(2)](https://www.legislation.gov.uk/ukpga/2002/32/section/216/2), [Sch. 22 Pt. 1](https://www.legislation.gov.uk/ukpga/2002/32/schedule/22/part/1) (with [ss. 210(8)](https://www.legislation.gov.uk/ukpga/2002/32/section/210/8), [214(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/214/4)); [S.I. 2002/2439](https://www.legislation.gov.uk/uksi/2002/2439), [art. 2](https://www.legislation.gov.uk/uksi/2002/2439/article/2); [S.I. 2003/1667](https://www.legislation.gov.uk/uksi/2003/1667), [art. 2](https://www.legislation.gov.uk/uksi/2003/1667/article/2)
 
-[^key-ef687e593d1139235da2276f534464cd]: Textual amendment: Sch. 30 para. 29 32 and cross-heading repealed (29.6.2021) by [Diocesan Boards of Education Measure 2021 (No. 1)](https://www.legislation.gov.uk/ukcm/2021/1), [ss. 21(3)(b)](https://www.legislation.gov.uk/ukcm/2021/1/section/21/3/b), [24(3)](https://www.legislation.gov.uk/ukcm/2021/1/section/24/3) (with [s. 23(8)](https://www.legislation.gov.uk/ukcm/2021/1/section/23/8), [Sch. 2 para. 6](https://www.legislation.gov.uk/ukcm/2021/1/schedule/2/paragraph/6))
+[^c-ef687e593d1139235da2276f534464cd]: Textual amendment: Sch. 30 para. 29 32 and cross-heading repealed (29.6.2021) by [Diocesan Boards of Education Measure 2021 (No. 1)](https://www.legislation.gov.uk/ukcm/2021/1), [ss. 21(3)(b)](https://www.legislation.gov.uk/ukcm/2021/1/section/21/3/b), [24(3)](https://www.legislation.gov.uk/ukcm/2021/1/section/24/3) (with [s. 23(8)](https://www.legislation.gov.uk/ukcm/2021/1/section/23/8), [Sch. 2 para. 6](https://www.legislation.gov.uk/ukcm/2021/1/schedule/2/paragraph/6))
 
 [^c14013801]: Textual amendment: Sch. 30 para. 41 repealed (28.7.2000 for specified purposes, 1.10.2000 for E. and 1.4.2001 for W.) by [2000 c. 21](https://www.legislation.gov.uk/ukpga/2000/21), [s. 153](https://www.legislation.gov.uk/ukpga/2000/21/section/153), [Sch. 11](https://www.legislation.gov.uk/ukpga/2000/21/schedule/11); [S.I. 2000/2559](https://www.legislation.gov.uk/uksi/2000/2559), [art. 2(1)](https://www.legislation.gov.uk/uksi/2000/2559/article/2/1), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/2000/2559/schedule/part/I); [S.I. 2001/1274](https://www.legislation.gov.uk/uksi/2001/1274), [art. 2](https://www.legislation.gov.uk/uksi/2001/1274/article/2), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/2001/1274/schedule/part/I)
 
@@ -1253,19 +1253,19 @@ Section 140(1).
 
 [^c18669001]: Textual amendment: Sch. 30 para. 44 repealed (1.10.2002) by [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [ss. 215(2)](https://www.legislation.gov.uk/ukpga/2002/32/section/215/2), [216](https://www.legislation.gov.uk/ukpga/2002/32/section/216), [Sch. 22 Pt. 1](https://www.legislation.gov.uk/ukpga/2002/32/schedule/22/part/1) (with [ss. 210(8)](https://www.legislation.gov.uk/ukpga/2002/32/section/210/8), [214(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/214/4)); [S.I. 2002/2439](https://www.legislation.gov.uk/uksi/2002/2439), [art. 2](https://www.legislation.gov.uk/uksi/2002/2439/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2002/2439/schedule))
 
-[^key-3bb04d8c04a79b69ad8367f8fc031c7a]: Textual amendment: [Sch. 30 para. 45](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/45) repealed (25.5.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 18 Pt. 3](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/3); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(q)](https://www.legislation.gov.uk/uksi/2007/935/article/7/q)
+[^c-3bb04d8c04a79b69ad8367f8fc031c7a]: Textual amendment: [Sch. 30 para. 45](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/45) repealed (25.5.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 18 Pt. 3](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/3); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(q)](https://www.legislation.gov.uk/uksi/2007/935/article/7/q)
 
 [^c14013831]: Marginal citation: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56).
 
 [^c14013841]: Commencement: Sch. 30 para. 47 wholly in force at 1.9.1999; Sch. 30 para. 47 not in force at Royal Assent see s. 145(3); Sch. 30 para. 47 in force for certain purposes at 1.4.1999 by [S.I. 1999/1016](https://www.legislation.gov.uk/uksi/1999/1016), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/1016/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/1016/schedule/1) (with [arts. 3-6](https://www.legislation.gov.uk/uksi/1999/1016/article/3), [Sch. 4](https://www.legislation.gov.uk/uksi/1999/1016/schedule/4)); Sch. 30 para. 47 in force at 1.9.1999 in so far as not already in force by [S.I. 1999/2323](https://www.legislation.gov.uk/uksi/1999/2323), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/2323/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/2323/schedule/1) (with [arts. 3-5](https://www.legislation.gov.uk/uksi/1999/2323/article/3), [Schs. 5-7](https://www.legislation.gov.uk/uksi/1999/2323/schedule/5)).
 
-[^key-6979336c4e858530c2428e6a9015fc28]: Textual amendment: Words in [Sch. 30 para. 47](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/47) substituted (19.9.2013) by [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 18](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/18)
+[^c-6979336c4e858530c2428e6a9015fc28]: Textual amendment: Words in [Sch. 30 para. 47](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/47) substituted (19.9.2013) by [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 18](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/18)
 
-[^key-446c95d542900f1eb7b09d2a35d3f1dd]: Textual amendment: Sch. 30 para. 47(a) repealed (20.1.2003 for E., 31.5.2005 for W.) by [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [s. 216(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/216/4), [Sch. 22 Pt. 3](https://www.legislation.gov.uk/ukpga/2002/32/schedule/22/part/3) (with [ss. 210(8)](https://www.legislation.gov.uk/ukpga/2002/32/section/210/8), [214(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/214/4)); [S.I. 2002/2952](https://www.legislation.gov.uk/uksi/2002/2952), [art. 2](https://www.legislation.gov.uk/uksi/2002/2952/article/2); [S.I. 2005/1395](https://www.legislation.gov.uk/uksi/2005/1395), [art. 4](https://www.legislation.gov.uk/uksi/2005/1395/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/1395/schedule)
+[^c-446c95d542900f1eb7b09d2a35d3f1dd]: Textual amendment: Sch. 30 para. 47(a) repealed (20.1.2003 for E., 31.5.2005 for W.) by [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [s. 216(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/216/4), [Sch. 22 Pt. 3](https://www.legislation.gov.uk/ukpga/2002/32/schedule/22/part/3) (with [ss. 210(8)](https://www.legislation.gov.uk/ukpga/2002/32/section/210/8), [214(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/214/4)); [S.I. 2002/2952](https://www.legislation.gov.uk/uksi/2002/2952), [art. 2](https://www.legislation.gov.uk/uksi/2002/2952/article/2); [S.I. 2005/1395](https://www.legislation.gov.uk/uksi/2005/1395), [art. 4](https://www.legislation.gov.uk/uksi/2005/1395/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/1395/schedule)
 
-[^key-4a2e3e7bf12951eb0a8a82ce9b4bd67e]: Textual amendment: Sch. 30 para. 48 repealed (31.1.2009) by [Charities Act 2006 (c. 50)](https://www.legislation.gov.uk/ukpga/2006/50), [s. 79(2)](https://www.legislation.gov.uk/ukpga/2006/50/section/79/2), [Sch. 9](https://www.legislation.gov.uk/ukpga/2006/50/schedule/9); [S.I. 2008/3267](https://www.legislation.gov.uk/uksi/2008/3267), [art. 2](https://www.legislation.gov.uk/uksi/2008/3267/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/3267/schedule) (with [arts. 3-27](https://www.legislation.gov.uk/uksi/2008/3267/article/3)) (as amended: (29.9.2009) by [S.I. 2009/2648](https://www.legislation.gov.uk/uksi/2009/2648), [art. 3](https://www.legislation.gov.uk/uksi/2009/2648/article/3); (26.7.2010) by [S.I. 2010/1942](https://www.legislation.gov.uk/uksi/2010/1942), [art. 2](https://www.legislation.gov.uk/uksi/2010/1942/article/2); and (1.8.2011) by [S.I. 2011/1725](https://www.legislation.gov.uk/uksi/2011/1725), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1725/article/1/2), [3](https://www.legislation.gov.uk/uksi/2011/1725/article/3), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2011/1725/schedule/paragraph/6))
+[^c-4a2e3e7bf12951eb0a8a82ce9b4bd67e]: Textual amendment: Sch. 30 para. 48 repealed (31.1.2009) by [Charities Act 2006 (c. 50)](https://www.legislation.gov.uk/ukpga/2006/50), [s. 79(2)](https://www.legislation.gov.uk/ukpga/2006/50/section/79/2), [Sch. 9](https://www.legislation.gov.uk/ukpga/2006/50/schedule/9); [S.I. 2008/3267](https://www.legislation.gov.uk/uksi/2008/3267), [art. 2](https://www.legislation.gov.uk/uksi/2008/3267/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/3267/schedule) (with [arts. 3-27](https://www.legislation.gov.uk/uksi/2008/3267/article/3)) (as amended: (29.9.2009) by [S.I. 2009/2648](https://www.legislation.gov.uk/uksi/2009/2648), [art. 3](https://www.legislation.gov.uk/uksi/2009/2648/article/3); (26.7.2010) by [S.I. 2010/1942](https://www.legislation.gov.uk/uksi/2010/1942), [art. 2](https://www.legislation.gov.uk/uksi/2010/1942/article/2); and (1.8.2011) by [S.I. 2011/1725](https://www.legislation.gov.uk/uksi/2011/1725), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1725/article/1/2), [3](https://www.legislation.gov.uk/uksi/2011/1725/article/3), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2011/1725/schedule/paragraph/6))
 
-[^key-da0b199bf05f310f6717d0de78bd4926]: Textual amendment: [Sch. 30 para. 49](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/49) repealed (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 10](https://www.legislation.gov.uk/ukpga/2011/25/schedule/10) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
+[^c-da0b199bf05f310f6717d0de78bd4926]: Textual amendment: [Sch. 30 para. 49](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/49) repealed (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 10](https://www.legislation.gov.uk/ukpga/2011/25/schedule/10) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
 
 [^c14013861]: Marginal citation: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56).
 
@@ -1273,15 +1273,15 @@ Section 140(1).
 
 [^c14013881]: Commencement: Sch. 30 para. 54 wholly in force at 1.9.1999; Sch. 30 para. 54 not in force at Royal Assent see s. 145(3); Sch. 30 para. 54 in force for certain purposes at 1.4.1999 by [S.I. 1999/2212](https://www.legislation.gov.uk/uksi/1999/2212), [art. 2](https://www.legislation.gov.uk/uksi/1999/2212/article/2), [Sch. 1 Pt. IV](https://www.legislation.gov.uk/uksi/1999/2212/schedule/1/part/IV); Sch. 30 para. 54 in force at 1.9.1999 in so far as not already in force by [S.I. 1999/2323](https://www.legislation.gov.uk/uksi/1999/2323), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/2323/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/2323/schedule/1) (with [arts. 3-5](https://www.legislation.gov.uk/uksi/1999/2323/article/3), [Schs. 5-7](https://www.legislation.gov.uk/uksi/1999/2323/schedule/5)).
 
-[^key-ca95a5c12a1aef8080e8c72e95f04a4c]: Textual amendment: Sch. 30 para. 54 repealed (1.9.2005) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 125(3)(b)](https://www.legislation.gov.uk/ukpga/2005/18/section/125/3/b), [Sch. 19 Pt. 3](https://www.legislation.gov.uk/ukpga/2005/18/schedule/19/part/3)
+[^c-ca95a5c12a1aef8080e8c72e95f04a4c]: Textual amendment: Sch. 30 para. 54 repealed (1.9.2005) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 125(3)(b)](https://www.legislation.gov.uk/ukpga/2005/18/section/125/3/b), [Sch. 19 Pt. 3](https://www.legislation.gov.uk/ukpga/2005/18/schedule/19/part/3)
 
-[^key-7f7997fbdf8c8824be970b5b12486ff1]: Textual amendment: [Sch. 30 para. 56](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/56) repealed (1.9.2003 for E., 2.1.2008 for W.) by [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [s. 216(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/216/4), [Sch. 22 Pt. 3](https://www.legislation.gov.uk/ukpga/2002/32/schedule/22/part/3) (with [ss. 210(8)](https://www.legislation.gov.uk/ukpga/2002/32/section/210/8), [214(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/214/4)); [S.I. 2003/1667](https://www.legislation.gov.uk/uksi/2003/1667), [art. 4](https://www.legislation.gov.uk/uksi/2003/1667/article/4); [S.I. 2007/3611](https://www.legislation.gov.uk/wsi/2007/3611), [art. 4(1)](https://www.legislation.gov.uk/wsi/2007/3611/article/4/1), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2007/3611/schedule/part/1)
+[^c-7f7997fbdf8c8824be970b5b12486ff1]: Textual amendment: [Sch. 30 para. 56](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/56) repealed (1.9.2003 for E., 2.1.2008 for W.) by [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [s. 216(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/216/4), [Sch. 22 Pt. 3](https://www.legislation.gov.uk/ukpga/2002/32/schedule/22/part/3) (with [ss. 210(8)](https://www.legislation.gov.uk/ukpga/2002/32/section/210/8), [214(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/214/4)); [S.I. 2003/1667](https://www.legislation.gov.uk/uksi/2003/1667), [art. 4](https://www.legislation.gov.uk/uksi/2003/1667/article/4); [S.I. 2007/3611](https://www.legislation.gov.uk/wsi/2007/3611), [art. 4(1)](https://www.legislation.gov.uk/wsi/2007/3611/article/4/1), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2007/3611/schedule/part/1)
 
-[^key-90a3acdb9eda8d391a08df18d20d343a]: Textual amendment: [Sch. 30 para. 59](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/59) repealed (1.9.2005) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 125(4)](https://www.legislation.gov.uk/ukpga/2005/18/section/125/4), [Sch. 19 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/18/schedule/19/part/2); [S.I. 2006/2129](https://www.legislation.gov.uk/uksi/2006/2129), [art. 4](https://www.legislation.gov.uk/uksi/2006/2129/article/4)
+[^c-90a3acdb9eda8d391a08df18d20d343a]: Textual amendment: [Sch. 30 para. 59](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/59) repealed (1.9.2005) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 125(4)](https://www.legislation.gov.uk/ukpga/2005/18/section/125/4), [Sch. 19 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/18/schedule/19/part/2); [S.I. 2006/2129](https://www.legislation.gov.uk/uksi/2006/2129), [art. 4](https://www.legislation.gov.uk/uksi/2006/2129/article/4)
 
-[^key-570ae5afeec7f2b1ffee877e975cdee5]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 10(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/3) (with [Sch. 2 para. 10(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/4))
+[^c-570ae5afeec7f2b1ffee877e975cdee5]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 10(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/3) (with [Sch. 2 para. 10(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/4))
 
-[^key-51787edf357cda27718b514139d59832]: Textual amendment: [Sch. 30 para. 64](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/64) repealed (12.1.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [ss. 58(1)(b)](https://www.legislation.gov.uk/ukpga/2009/22/section/58/1/b), [269(2)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/2), [Sch. 16 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/22/schedule/16/part/1)
+[^c-51787edf357cda27718b514139d59832]: Textual amendment: [Sch. 30 para. 64](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/64) repealed (12.1.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [ss. 58(1)(b)](https://www.legislation.gov.uk/ukpga/2009/22/section/58/1/b), [269(2)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/2), [Sch. 16 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/22/schedule/16/part/1)
 
 [^c14013921]: Commencement: Sch. 30 para. 66 wholly in force at 1.11.1999; Sch. 30 para. 66 not in force at Royal Assent see s. 145(3); Sch. 30 para. 66 in force for specified purposes at 1.4.1999 by [S.I. 1999/1016](https://www.legislation.gov.uk/uksi/1999/1016), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/1016/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/1016/schedule/1) (with [arts. 3-6](https://www.legislation.gov.uk/uksi/1999/1016/article/3), [Sch. 4](https://www.legislation.gov.uk/uksi/1999/1016/schedule/4)); Sch. 30 para. 66 in force at 1.11.1999 in so far as not already in force by [S.I. 1999/2323](https://www.legislation.gov.uk/uksi/1999/2323), [art. 2(2)](https://www.legislation.gov.uk/uksi/1999/2323/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/1999/2323/schedule/2) (with [arts. 3-5](https://www.legislation.gov.uk/uksi/1999/2323/article/3), [Schs. 5-7](https://www.legislation.gov.uk/uksi/1999/2323/schedule/5)).
 
@@ -1289,15 +1289,15 @@ Section 140(1).
 
 [^c14013941]: Commencement: Sch. 30 para. 70 partly in force; Sch. 30 para. 70 not in force at Royal Assent see s. 145(3); Sch. 30 para. 70 in force at 1.10.1998 for certain purposes by [S.I. 1998/2212](https://www.legislation.gov.uk/uksi/1998/2212), [art. 2](https://www.legislation.gov.uk/uksi/1998/2212/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/1998/2212/schedule/1/part/I); Sch. 30 para. 70 in force at 1.4.1999 for certain purposes by [S.I. 1999/1016](https://www.legislation.gov.uk/uksi/1999/1016), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/1016/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/1016/schedule/1) (with [arts. 3-6](https://www.legislation.gov.uk/uksi/1999/1016/article/3), [Sch. 4](https://www.legislation.gov.uk/uksi/1999/1016/schedule/4)); Sch. 30 para. 70 in force for certain purposes at 1.9.1999 by [S.I. 1999/2323](https://www.legislation.gov.uk/uksi/1999/2323), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/2323/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/2323/schedule/1) (with [arts. 3-5](https://www.legislation.gov.uk/uksi/1999/2323/article/3), [Schs. 5-7](https://www.legislation.gov.uk/uksi/1999/2323/schedule/5)).
 
-[^key-5177265949adaa73e26402711f36dc2e]: Textual amendment: Words in Act substituted (5.5.2010) by The Local Education Authorities and Children’s [Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 10(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/2) (with [Sch. 2 para. 10(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/4))
+[^c-5177265949adaa73e26402711f36dc2e]: Textual amendment: Words in Act substituted (5.5.2010) by The Local Education Authorities and Children’s [Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 10(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/2) (with [Sch. 2 para. 10(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/4))
 
-[^key-a57b37f60507437cc6943e911cf5a0e6]: Textual amendment: [Sch. 30 para. 74(2)](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/74/2)[(3)](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/74/3) repealed (1.9.2003 for E., 2.1.2008 for W.) by [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [s. 216(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/216/4), [Sch. 22 Pt. 3](https://www.legislation.gov.uk/ukpga/2002/32/schedule/22/part/3) (with [ss. 210(8)](https://www.legislation.gov.uk/ukpga/2002/32/section/210/8), [214(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/214/4)); [S.I. 2003/1667](https://www.legislation.gov.uk/uksi/2003/1667), [art. 4](https://www.legislation.gov.uk/uksi/2003/1667/article/4); [S.I. 2007/3611](https://www.legislation.gov.uk/wsi/2007/3611), [art. 4(1)](https://www.legislation.gov.uk/wsi/2007/3611/article/4/1), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2007/3611/schedule/part/1)
+[^c-a57b37f60507437cc6943e911cf5a0e6]: Textual amendment: [Sch. 30 para. 74(2)](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/74/2)[(3)](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/74/3) repealed (1.9.2003 for E., 2.1.2008 for W.) by [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [s. 216(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/216/4), [Sch. 22 Pt. 3](https://www.legislation.gov.uk/ukpga/2002/32/schedule/22/part/3) (with [ss. 210(8)](https://www.legislation.gov.uk/ukpga/2002/32/section/210/8), [214(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/214/4)); [S.I. 2003/1667](https://www.legislation.gov.uk/uksi/2003/1667), [art. 4](https://www.legislation.gov.uk/uksi/2003/1667/article/4); [S.I. 2007/3611](https://www.legislation.gov.uk/wsi/2007/3611), [art. 4(1)](https://www.legislation.gov.uk/wsi/2007/3611/article/4/1), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2007/3611/schedule/part/1)
 
-[^key-c57317a6ecf00083acd19b5ad8c5f52c]: Textual amendment: [Sch. 30 para. 74(4)(b)](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/74/4/b) repealed (1.9.2003 for E., 2.1.2008 for W.) by [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [s. 216(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/216/4), [Sch. 22 Pt. 3](https://www.legislation.gov.uk/ukpga/2002/32/schedule/22/part/3) (with [ss. 210(8)](https://www.legislation.gov.uk/ukpga/2002/32/section/210/8), [214(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/214/4)); [S.I. 2003/1667](https://www.legislation.gov.uk/uksi/2003/1667), [art. 4](https://www.legislation.gov.uk/uksi/2003/1667/article/4); [S.I. 2007/3611](https://www.legislation.gov.uk/wsi/2007/3611), [art. 4(1)](https://www.legislation.gov.uk/wsi/2007/3611/article/4/1), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2007/3611/schedule/part/1)
+[^c-c57317a6ecf00083acd19b5ad8c5f52c]: Textual amendment: [Sch. 30 para. 74(4)(b)](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/74/4/b) repealed (1.9.2003 for E., 2.1.2008 for W.) by [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [s. 216(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/216/4), [Sch. 22 Pt. 3](https://www.legislation.gov.uk/ukpga/2002/32/schedule/22/part/3) (with [ss. 210(8)](https://www.legislation.gov.uk/ukpga/2002/32/section/210/8), [214(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/214/4)); [S.I. 2003/1667](https://www.legislation.gov.uk/uksi/2003/1667), [art. 4](https://www.legislation.gov.uk/uksi/2003/1667/article/4); [S.I. 2007/3611](https://www.legislation.gov.uk/wsi/2007/3611), [art. 4(1)](https://www.legislation.gov.uk/wsi/2007/3611/article/4/1), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2007/3611/schedule/part/1)
 
 [^c14013951]: Commencement: Sch. 30 para. 75 wholly in force at 1.9.1999; Sch. 30 para. 75 not in force at Royal Assent see s. 145(3); Sch. 30 para. 75(4) in force at 1.10.1998 by [S.I. 1998/2212](https://www.legislation.gov.uk/uksi/1998/2212), [art. 2](https://www.legislation.gov.uk/uksi/1998/2212/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/1998/2212/schedule/1/part/I); Sch. 30 para. 75 in force at 1.9.1999 in so far as not already in force by [S.I. 1999/2323](https://www.legislation.gov.uk/uksi/1999/2323), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/2323/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/2323/schedule/1) (with [arts. 3-5](https://www.legislation.gov.uk/uksi/1999/2323/article/3), [Schs. 5-7](https://www.legislation.gov.uk/uksi/1999/2323/schedule/5)).
 
-[^key-fb966c18bb480a81e7022b6ff197ecd4]: Textual amendment: [Sch. 30 para. 75(4)](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/75/4) omitted (1.9.2014) by virtue of [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 3 para. 16(4)(a)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/3/paragraph/16/4/a); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a) (with savings and transitional provisions in [S.I. 2014/2270](https://www.legislation.gov.uk/uksi/2014/2270) (as amended (1.4.2015) by [S.I. 2015/505](https://www.legislation.gov.uk/uksi/2015/505))
+[^c-fb966c18bb480a81e7022b6ff197ecd4]: Textual amendment: [Sch. 30 para. 75(4)](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/75/4) omitted (1.9.2014) by virtue of [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 3 para. 16(4)(a)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/3/paragraph/16/4/a); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a) (with savings and transitional provisions in [S.I. 2014/2270](https://www.legislation.gov.uk/uksi/2014/2270) (as amended (1.4.2015) by [S.I. 2015/505](https://www.legislation.gov.uk/uksi/2015/505))
 
 [^c14013971]: Commencement: Sch. 30 para. 77 wholly in force at 1.9.1999; Sch. 30 para. 77 not in force at Royal Assent see s. 145(3); Sch. 30 para. 77(b) in force at 1.10.1998 by [S.I. 1998/2212](https://www.legislation.gov.uk/uksi/1998/2212), [art. 2](https://www.legislation.gov.uk/uksi/1998/2212/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/1998/2212/schedule/1/part/I); Sch. 30 para. 77(a) in force at 1.9.1999 by [S.I. 1999/2323](https://www.legislation.gov.uk/uksi/1999/2323), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/2323/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/2323/schedule/1) (with [arts. 3-5](https://www.legislation.gov.uk/uksi/1999/2323/article/3), [Schs. 5-7](https://www.legislation.gov.uk/uksi/1999/2323/schedule/5)).
 
@@ -1305,7 +1305,7 @@ Section 140(1).
 
 [^c14013991]: Commencement: Sch. 30 para. 83 wholly in force at 1.9.1999; Sch. 30 para. 83 not in force at Royal Assent see s. 145(3); Sch. 30 para. 83 in force for certain purposes at 1.10.1998 by [S.I. 1998/2212](https://www.legislation.gov.uk/uksi/1998/2212), [art. 2](https://www.legislation.gov.uk/uksi/1998/2212/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/1998/2212/schedule/1/part/I); Sch. 30 para. 83 partly in force for certain purposes at 1.4.1999 by [S.I. 1999/1016](https://www.legislation.gov.uk/uksi/1999/1016), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/1016/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/1016/schedule/1) (with [arts. 3-6](https://www.legislation.gov.uk/uksi/1999/1016/article/3), [Sch. 4](https://www.legislation.gov.uk/uksi/1999/1016/schedule/4)); Sch. 30 para. 83 in force at 1.9.1999 in so far as not already in force by [S.I. 1999/2323](https://www.legislation.gov.uk/uksi/1999/2323), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/2323/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/2323/schedule/1) (with [arts. 3-5](https://www.legislation.gov.uk/uksi/1999/2323/article/3), [Schs. 5-7](https://www.legislation.gov.uk/uksi/1999/2323/schedule/5)).
 
-[^key-8d907dc0a489bfb67d1566356e59971f]: Textual amendment: [Sch. 30 paras. 85-90](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/85) repealed (1.10.2002 for E., 2.1.2008 for W.) by [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [s. 216(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/216/4), [Sch. 22 Pt. 3](https://www.legislation.gov.uk/ukpga/2002/32/schedule/22/part/3) (with [ss. 210(8)](https://www.legislation.gov.uk/ukpga/2002/32/section/210/8), [214(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/214/4)); [S.I. 2002/2439](https://www.legislation.gov.uk/uksi/2002/2439), [art. 3](https://www.legislation.gov.uk/uksi/2002/2439/article/3); [S.I. 2007/3611](https://www.legislation.gov.uk/wsi/2007/3611), [art. 4(1)](https://www.legislation.gov.uk/wsi/2007/3611/article/4/1), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2007/3611/schedule/part/1)
+[^c-8d907dc0a489bfb67d1566356e59971f]: Textual amendment: [Sch. 30 paras. 85-90](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/85) repealed (1.10.2002 for E., 2.1.2008 for W.) by [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [s. 216(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/216/4), [Sch. 22 Pt. 3](https://www.legislation.gov.uk/ukpga/2002/32/schedule/22/part/3) (with [ss. 210(8)](https://www.legislation.gov.uk/ukpga/2002/32/section/210/8), [214(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/214/4)); [S.I. 2002/2439](https://www.legislation.gov.uk/uksi/2002/2439), [art. 3](https://www.legislation.gov.uk/uksi/2002/2439/article/3); [S.I. 2007/3611](https://www.legislation.gov.uk/wsi/2007/3611), [art. 4(1)](https://www.legislation.gov.uk/wsi/2007/3611/article/4/1), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2007/3611/schedule/part/1)
 
 [^c14014011]: Commencement: Sch. 30 para. 91 wholly in force at 1.9.1999; Sch. 30 para. 91 not in force at Royal Assent see s. 145(3); Sch. 30 para. 91 in force for certain purposes at 1.10.1998 by [S.I. 1998/2212](https://www.legislation.gov.uk/uksi/1998/2212), [art. 2](https://www.legislation.gov.uk/uksi/1998/2212/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/1998/2212/schedule/1/part/I); Sch. 30 para. 91 in force at 1.9.1999 in so far as not already in force by [S.I. 1999/2323](https://www.legislation.gov.uk/uksi/1999/2323), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/2323/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/2323/schedule/1) (with [arts. 3-5](https://www.legislation.gov.uk/uksi/1999/2323/article/3), [Schs. 5-7](https://www.legislation.gov.uk/uksi/1999/2323/schedule/5)).
 
@@ -1319,21 +1319,21 @@ Section 140(1).
 
 [^c14014061]: Commencement: Sch. 30 para. 116 partly in force; Sch. 30 para. 116 not in force at Royal Assent see s. 145(3); Sch. 30 para. 116 in force for certain purposes at 1.9.1999 by [S.I. 1999/2323](https://www.legislation.gov.uk/uksi/1999/2323), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/2323/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/2323/schedule/1) (with [arts. 3-5](https://www.legislation.gov.uk/uksi/1999/2323/article/3), [Schs. 5-7](https://www.legislation.gov.uk/uksi/1999/2323/schedule/5)).
 
-[^key-d5820c13322e2a74c9a5118eab012669]: Textual amendment: [Sch. 30 para. 125](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/125) omitted (5.4.2025) by virtue of [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 11(4)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/11/4) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 2(ll)(ii)](https://www.legislation.gov.uk/wsi/2025/432/article/2/ll/ii)
+[^c-d5820c13322e2a74c9a5118eab012669]: Textual amendment: [Sch. 30 para. 125](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/125) omitted (5.4.2025) by virtue of [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 11(4)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/11/4) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 2(ll)(ii)](https://www.legislation.gov.uk/wsi/2025/432/article/2/ll/ii)
 
-[^key-bd32dd8bff82ebf3ea2c4beb47460b96]: Textual amendment: [Sch. 30 para. 126](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/126) omitted (5.4.2025) by virtue of [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 11(4)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/11/4) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 2(ll)(ii)](https://www.legislation.gov.uk/wsi/2025/432/article/2/ll/ii)
+[^c-bd32dd8bff82ebf3ea2c4beb47460b96]: Textual amendment: [Sch. 30 para. 126](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/126) omitted (5.4.2025) by virtue of [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 11(4)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/11/4) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 2(ll)(ii)](https://www.legislation.gov.uk/wsi/2025/432/article/2/ll/ii)
 
 [^c14014071]: Commencement: Sch. 30 para. 132 wholly in force at 1.9.1999; Sch. 30 para. 132 not in force at Royal Assent see s. 145(3); Sch. 30 para. 132 in force for certain purposes at 1.4.1999 by [S.I. 1999/1016](https://www.legislation.gov.uk/uksi/1999/1016), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/1016/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/1016/schedule/1) (with [arts. 3-6](https://www.legislation.gov.uk/uksi/1999/1016/article/3), [Sch. 4](https://www.legislation.gov.uk/uksi/1999/1016/schedule/4)); Sch. 30 para. 132 in force at 1.9.1999 in so far as not already in force by [S.I. 1999/2323](https://www.legislation.gov.uk/uksi/1999/2323), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/2323/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/2323/schedule/1) (with [arts. 3-5](https://www.legislation.gov.uk/uksi/1999/2323/article/3), [Schs. 5-7](https://www.legislation.gov.uk/uksi/1999/2323/schedule/5)).
 
-[^key-55f3450fac036239429f6fe3006c7a58]: Textual amendment: [Sch. 30 para. 133](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/133) repealed (W.) (1.9.2009) by [Learner Travel (Wales) Measure 2008 (nawm 2)](https://www.legislation.gov.uk/mwa/2008/2), [s. 28(2)](https://www.legislation.gov.uk/mwa/2008/2/section/28/2), [Sch. 2](https://www.legislation.gov.uk/mwa/2008/2/schedule/2); [S.I. 2009/371](https://www.legislation.gov.uk/wsi/2009/371), [art. 2(2)](https://www.legislation.gov.uk/wsi/2009/371/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/wsi/2009/371/schedule/part/2)
+[^c-55f3450fac036239429f6fe3006c7a58]: Textual amendment: [Sch. 30 para. 133](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/133) repealed (W.) (1.9.2009) by [Learner Travel (Wales) Measure 2008 (nawm 2)](https://www.legislation.gov.uk/mwa/2008/2), [s. 28(2)](https://www.legislation.gov.uk/mwa/2008/2/section/28/2), [Sch. 2](https://www.legislation.gov.uk/mwa/2008/2/schedule/2); [S.I. 2009/371](https://www.legislation.gov.uk/wsi/2009/371), [art. 2(2)](https://www.legislation.gov.uk/wsi/2009/371/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/wsi/2009/371/schedule/part/2)
 
 [^c14014091]: Commencement: Sch. 30 para. 139 wholly in force; Sch. 30 para. 139 not in force at Royal Assent see s. 145(3); Sch. 30 para. 139 in force at 20.11.1998 for certain purposes and at 1.4.1999 for all other purposes by [S.I. 1998/2791](https://www.legislation.gov.uk/uksi/1998/2791), [art. 2](https://www.legislation.gov.uk/uksi/1998/2791/article/2)
 
-[^key-ecf935f6265da7f33a99190659c6c77c]: Textual amendment: Sch. 30 para. 144 repealed (1.3.2005 for E., 1.9.2006 for W.) by [Children Act 2004 (c. 31)](https://www.legislation.gov.uk/ukpga/2004/31), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/ukpga/2004/31/schedule/5/part/1); [S.I. 2005/394](https://www.legislation.gov.uk/uksi/2005/394), [art. 2(1)(l)](https://www.legislation.gov.uk/uksi/2005/394/article/2/1/l); [S.I. 2006/885](https://www.legislation.gov.uk/uksi/2006/885), [art. 2(3)(b)](https://www.legislation.gov.uk/uksi/2006/885/article/2/3/b)
+[^c-ecf935f6265da7f33a99190659c6c77c]: Textual amendment: Sch. 30 para. 144 repealed (1.3.2005 for E., 1.9.2006 for W.) by [Children Act 2004 (c. 31)](https://www.legislation.gov.uk/ukpga/2004/31), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/ukpga/2004/31/schedule/5/part/1); [S.I. 2005/394](https://www.legislation.gov.uk/uksi/2005/394), [art. 2(1)(l)](https://www.legislation.gov.uk/uksi/2005/394/article/2/1/l); [S.I. 2006/885](https://www.legislation.gov.uk/uksi/2006/885), [art. 2(3)(b)](https://www.legislation.gov.uk/uksi/2006/885/article/2/3/b)
 
-[^key-4dc45c42336e1e84e0c480c03104d3d3]: Textual amendment: [Sch. 30 para. 145(a)](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/145/a) repealed (1.9.2005) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 125(4)](https://www.legislation.gov.uk/ukpga/2005/18/section/125/4), [Sch. 19 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/18/schedule/19/part/2); [S.I. 2006/2129](https://www.legislation.gov.uk/uksi/2006/2129), [art. 4](https://www.legislation.gov.uk/uksi/2006/2129/article/4)
+[^c-4dc45c42336e1e84e0c480c03104d3d3]: Textual amendment: [Sch. 30 para. 145(a)](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/145/a) repealed (1.9.2005) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 125(4)](https://www.legislation.gov.uk/ukpga/2005/18/section/125/4), [Sch. 19 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/18/schedule/19/part/2); [S.I. 2006/2129](https://www.legislation.gov.uk/uksi/2006/2129), [art. 4](https://www.legislation.gov.uk/uksi/2006/2129/article/4)
 
-[^key-27f538988bc1e70f3a249c209178c811]: Textual amendment: [Sch. 30 para. 146(b)](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/146/b) repealed (25.5.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 18 Pt. 3](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/3); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(q)](https://www.legislation.gov.uk/uksi/2007/935/article/7/q)
+[^c-27f538988bc1e70f3a249c209178c811]: Textual amendment: [Sch. 30 para. 146(b)](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/146/b) repealed (25.5.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 18 Pt. 3](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/3); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(q)](https://www.legislation.gov.uk/uksi/2007/935/article/7/q)
 
 [^c14014111]: Commencement: Sch. 30 para. 160 wholly in force at 1.9.1999; Sch. 30 para. 160 not in force at Royal Assent see s. 145(3); Sch. 30 para. 160(a) in force at 1.4.1999 by [S.I. 1999/1016](https://www.legislation.gov.uk/uksi/1999/1016), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/1016/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/1016/schedule/1) (with [arts. 3-6](https://www.legislation.gov.uk/uksi/1999/1016/article/3), [Sch. 4](https://www.legislation.gov.uk/uksi/1999/1016/schedule/4)); Sch. 30 para. 160(b) in force at 1.9.1999 by [S.I. 1999/2323](https://www.legislation.gov.uk/uksi/1999/2323), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/2323/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/2323/schedule/1) (with [arts. 3-5](https://www.legislation.gov.uk/uksi/1999/2323/article/3), [Schs. 5-7](https://www.legislation.gov.uk/uksi/1999/2323/schedule/5)).
 
@@ -1351,14 +1351,14 @@ Section 140(1).
 
 [^c14014191]: Commencement: Sch. 30 para. 189 wholly in force at 1.9.1999; Sch. 30 para. 189 not in force at Royal Assent see s. 145(3); Sch. 30 para. 189(g) in force at 1.10.1998 by [S.I. 1998/2212](https://www.legislation.gov.uk/uksi/1998/2212), [art. 2](https://www.legislation.gov.uk/uksi/1998/2212/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/1998/2212/schedule/1/part/I); Sch. 30 para. 189(a)-(d) in force at 1.9.1999 by [S.I. 1999/1016](https://www.legislation.gov.uk/uksi/1999/1016), [art. 2(3)](https://www.legislation.gov.uk/uksi/1999/1016/article/2/3), [Sch. 3](https://www.legislation.gov.uk/uksi/1999/1016/schedule/3) (with [arts. 3-6](https://www.legislation.gov.uk/uksi/1999/1016/article/3), [Sch. 4](https://www.legislation.gov.uk/uksi/1999/1016/schedule/4)); Sch. 30 para. 189(e)(f) in force at 1.9.1999 by [S.I. 1999/2323](https://www.legislation.gov.uk/uksi/1999/2323), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/2323/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/2323/schedule/1) (with [arts. 3-5](https://www.legislation.gov.uk/uksi/1999/2323/article/3), [Schs. 5-7](https://www.legislation.gov.uk/uksi/1999/2323/schedule/5)).
 
-[^key-acd5795af981440bd3b6381885dac450]: Textual amendment: [Sch. 30 paras. 190-206](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/190) repealed (1.9.2005 for E., 1.9.2006 for W.) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 125(4)](https://www.legislation.gov.uk/ukpga/2005/18/section/125/4), [Sch. 19 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/18/schedule/19/part/1); [S.I. 2005/2034](https://www.legislation.gov.uk/uksi/2005/2034), [art. 4](https://www.legislation.gov.uk/uksi/2005/2034/article/4); [S.I. 2006/1338](https://www.legislation.gov.uk/wsi/2006/1338), [art. 3](https://www.legislation.gov.uk/wsi/2006/1338/article/3), [Sch. 1](https://www.legislation.gov.uk/wsi/2006/1338/schedule/1) (with [Sch. 4 para. 6](https://www.legislation.gov.uk/wsi/2006/1338/schedule/4/paragraph/6))
+[^c-acd5795af981440bd3b6381885dac450]: Textual amendment: [Sch. 30 paras. 190-206](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/190) repealed (1.9.2005 for E., 1.9.2006 for W.) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 125(4)](https://www.legislation.gov.uk/ukpga/2005/18/section/125/4), [Sch. 19 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/18/schedule/19/part/1); [S.I. 2005/2034](https://www.legislation.gov.uk/uksi/2005/2034), [art. 4](https://www.legislation.gov.uk/uksi/2005/2034/article/4); [S.I. 2006/1338](https://www.legislation.gov.uk/wsi/2006/1338), [art. 3](https://www.legislation.gov.uk/wsi/2006/1338/article/3), [Sch. 1](https://www.legislation.gov.uk/wsi/2006/1338/schedule/1) (with [Sch. 4 para. 6](https://www.legislation.gov.uk/wsi/2006/1338/schedule/4/paragraph/6))
 
 [^c14014261]: Commencement: Sch. 30 para. 208 wholly in force at 1.9.1999; Sch. 30 para. 208 not in force at Royal Assent see s. 145(3); Sch. 30 para. 208(c) in force at 1.2.1999 for certain purposes by [S.I. 1998/2212](https://www.legislation.gov.uk/uksi/1998/2212), [art. 2](https://www.legislation.gov.uk/uksi/1998/2212/article/2), [Sch. 1 Pt. III](https://www.legislation.gov.uk/uksi/1998/2212/schedule/1/part/III); Sch. 30 para. 208 (c) in force otherwise at 1.9.1999 by [S.I. 1999/1060](https://www.legislation.gov.uk/uksi/1999/1060), [art. 2(3)](https://www.legislation.gov.uk/uksi/1999/1060/article/2/3), , Sch. 3; Sch. 30 para. 208 in force at 1.9.1999 in so far as not already in force by [S.I. 1999/2323](https://www.legislation.gov.uk/uksi/1999/2323), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/2323/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/2323/schedule/1) (with [arts. 3-5](https://www.legislation.gov.uk/uksi/1999/2323/article/3), [Schs. 5-7](https://www.legislation.gov.uk/uksi/1999/2323/schedule/5)).
 
-[^key-67ee4aaaf962fbd11ffe686918fe0cdf]: Textual amendment: [Sch. 30 para. 214](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/214) repealed (1.4.2010 for E., 1.11.2010 for W.) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [s. 269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4), [Sch. 16 Pt. 4](https://www.legislation.gov.uk/ukpga/2009/22/schedule/16/part/4); [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1); [S.I. 2010/2413](https://www.legislation.gov.uk/wsi/2010/2413), [art. 2(a)](https://www.legislation.gov.uk/wsi/2010/2413/article/2/a)
+[^c-67ee4aaaf962fbd11ffe686918fe0cdf]: Textual amendment: [Sch. 30 para. 214](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/214) repealed (1.4.2010 for E., 1.11.2010 for W.) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [s. 269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4), [Sch. 16 Pt. 4](https://www.legislation.gov.uk/ukpga/2009/22/schedule/16/part/4); [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1); [S.I. 2010/2413](https://www.legislation.gov.uk/wsi/2010/2413), [art. 2(a)](https://www.legislation.gov.uk/wsi/2010/2413/article/2/a)
 
 [^c14014271]: Commencement: Sch. 30 para. 222 wholly in force at 1.9.1999; Sch. 30 para. 222 not in force at Royal Assent see s. 145(3); Sch. 30 para. 222(b) in force at 1.10.1998 by [S.I. 1998/2212](https://www.legislation.gov.uk/uksi/1998/2212), [art. 2](https://www.legislation.gov.uk/uksi/1998/2212/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/1998/2212/schedule/1/part/I) and Sch. 30 para. 222(a) in force for certain purposes at 1.2.1999 by Sch. 1 Pt. III of the same S.I; Sch. 30 para. 222(a) in force for certain purposes at 1.9.1999 by [S.I. 1999/1016](https://www.legislation.gov.uk/uksi/1999/1016), [art. 2(3)](https://www.legislation.gov.uk/uksi/1999/1016/article/2/3), [Sch. 3](https://www.legislation.gov.uk/uksi/1999/1016/schedule/3) (with [arts. 3-6](https://www.legislation.gov.uk/uksi/1999/1016/article/3), [Sch. 4](https://www.legislation.gov.uk/uksi/1999/1016/schedule/4)); Sch. 30 para. 222 in force at 1.9.1999 in so far as not already in force by [S.I. 1999/2323](https://www.legislation.gov.uk/uksi/1999/2323), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/2323/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/2323/schedule/1) (with [arts. 3-5](https://www.legislation.gov.uk/uksi/1999/2323/article/3), [Schs. 5-7](https://www.legislation.gov.uk/uksi/1999/2323/schedule/5)).
 
 [^c14014281]: Commencement: Sch. 30 para. 223 wholly in force at 1.9.1999; Sch. 30 para. 223 not in force at Royal Assent see s. 145(3); Sch. 30 para. 223 in force for certain purposes at 1.9.1999 by [S.I. 1999/1016](https://www.legislation.gov.uk/uksi/1999/1016), [art. 2(3)](https://www.legislation.gov.uk/uksi/1999/1016/article/2/3), [Sch. 3](https://www.legislation.gov.uk/uksi/1999/1016/schedule/3) (with [arts. 3-6](https://www.legislation.gov.uk/uksi/1999/1016/article/3), [Sch. 4](https://www.legislation.gov.uk/uksi/1999/1016/schedule/4)); Sch. 30 para. 223 in force at 1.9.1999 in so far as not already in force by [S.I. 1999/2323](https://www.legislation.gov.uk/uksi/1999/2323), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/2323/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/2323/schedule/1) (with [arts. 3-5](https://www.legislation.gov.uk/uksi/1999/2323/article/3), [Schs. 5-7](https://www.legislation.gov.uk/uksi/1999/2323/schedule/5)).
 
-[^key-5bc19db00491250f3d3887fdcf5044e7]: Textual amendment: [Sch. 30 para. 225](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/225) repealed (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2014/2/schedule/1/part/2); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/841/article/3/a) (with [arts. 5-8](https://www.legislation.gov.uk/uksi/2015/841/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2015/841/schedule)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), [art. 2](https://www.legislation.gov.uk/uksi/2016/675/article/2))
+[^c-5bc19db00491250f3d3887fdcf5044e7]: Textual amendment: [Sch. 30 para. 225](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/225) repealed (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2014/2/schedule/1/part/2); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/841/article/3/a) (with [arts. 5-8](https://www.legislation.gov.uk/uksi/2015/841/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2015/841/schedule)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), [art. 2](https://www.legislation.gov.uk/uksi/2016/675/article/2))

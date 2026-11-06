@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 144. Power to require name and address[^key-d0b9cbba9b12738c83a9761f1a4aa662]
+## 144. Power to require name and address[^c-d0b9cbba9b12738c83a9761f1a4aa662]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Where a marine enforcement officer reasonably believes that a person has committ
 
 ## Annotations
 
-[^key-d0b9cbba9b12738c83a9761f1a4aa662]: Commencement: [S. 144](https://www.legislation.gov.uk/asp/2010/5/section/144) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(e)](https://www.legislation.gov.uk/ssi/2010/230/article/2/e)
+[^c-d0b9cbba9b12738c83a9761f1a4aa662]: Commencement: [S. 144](https://www.legislation.gov.uk/asp/2010/5/section/144) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(e)](https://www.legislation.gov.uk/ssi/2010/230/article/2/e)

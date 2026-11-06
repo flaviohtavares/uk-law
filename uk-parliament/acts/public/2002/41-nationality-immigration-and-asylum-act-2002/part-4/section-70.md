@@ -20,12 +20,12 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) A residence condition[^key-b80afc907d80d47a0a34087b0f6a424a] may be imposed on an asylum-seeker or a dependant of an asylum-seeker without regard to his personal circumstances if—
+(1) A residence condition[^c-b80afc907d80d47a0a34087b0f6a424a] may be imposed on an asylum-seeker or a dependant of an asylum-seeker without regard to his personal circumstances if—
 
 - (a) it requires him to reside at a specified location for a period not exceeding 14 days, and
 - (b) the person imposing the residence condition believes that a programme of induction will be made available to the asylum-seeker at or near the specified location.
 
-(2)[^key-939521c29965587fd11bf97dff3f6236] In subsection (1) “**residence condition**” means a condition imposed under Schedule 10 to the Immigration Act 2016.
+(2)[^c-939521c29965587fd11bf97dff3f6236] In subsection (1) “**residence condition**” means a condition imposed under Schedule 10 to the Immigration Act 2016.
 
 (3) In this section—
 
@@ -39,7 +39,7 @@ summary: ''
 - (b) must be made by statutory instrument, and
 - (c) shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
-(5) Subsection (6) applies where the Secretary of State arranges for the provision of a programme of induction (whether or not he also provides other facilities to persons attending the programme and whether or not all the persons attending the programme are subject to residence conditions[^key-3b8ba541100babdb08cef0079c7a1a3f]).
+(5) Subsection (6) applies where the Secretary of State arranges for the provision of a programme of induction (whether or not he also provides other facilities to persons attending the programme and whether or not all the persons attending the programme are subject to residence conditions[^c-3b8ba541100babdb08cef0079c7a1a3f]).
 
 (6) A local authority may arrange for or participate in the provision of the programme or other facilities.
 
@@ -59,8 +59,8 @@ summary: ''
 
 ## Annotations
 
-[^key-b80afc907d80d47a0a34087b0f6a424a]: Textual amendment: Words in s. 70(1) substituted (15.1.2018) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 10 para. 36(2)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/10/paragraph/36/2); [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
+[^c-b80afc907d80d47a0a34087b0f6a424a]: Textual amendment: Words in s. 70(1) substituted (15.1.2018) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 10 para. 36(2)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/10/paragraph/36/2); [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
 
-[^key-939521c29965587fd11bf97dff3f6236]: Textual amendment: S. 70(2) substituted (15.1.2018) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 10 para. 36(3)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/10/paragraph/36/3); [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
+[^c-939521c29965587fd11bf97dff3f6236]: Textual amendment: S. 70(2) substituted (15.1.2018) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 10 para. 36(3)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/10/paragraph/36/3); [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
 
-[^key-3b8ba541100babdb08cef0079c7a1a3f]: Textual amendment: Word in s. 70(5) substituted (15.1.2018) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 10 para. 36(4)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/10/paragraph/36/4); [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
+[^c-3b8ba541100babdb08cef0079c7a1a3f]: Textual amendment: Word in s. 70(5) substituted (15.1.2018) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 10 para. 36(4)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/10/paragraph/36/4); [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)

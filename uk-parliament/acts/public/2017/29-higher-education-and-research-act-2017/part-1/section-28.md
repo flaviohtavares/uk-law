@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Power of designated body to charge fees[^key-5f865b85ba397b1658c995d2b1e92960]
+## 28. Power of designated body to charge fees[^c-5f865b85ba397b1658c995d2b1e92960]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5f865b85ba397b1658c995d2b1e92960]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2017/29/section/28) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/d)
+[^c-5f865b85ba397b1658c995d2b1e92960]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2017/29/section/28) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/d)

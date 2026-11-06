@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 183. Annual benefit information statements[^key-5adcd7891989332e86e4089282edfca8]
+## 183. Annual benefit information statements[^c-5adcd7891989332e86e4089282edfca8]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5adcd7891989332e86e4089282edfca8]: Commencement: [Reg. 183](https://www.legislation.gov.uk/uksi/2014/2848/regulation/183) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-5adcd7891989332e86e4089282edfca8]: Commencement: [Reg. 183](https://www.legislation.gov.uk/uksi/2014/2848/regulation/183) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

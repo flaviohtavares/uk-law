@@ -35,7 +35,7 @@ summary: ''
 
 (5) Section 290(3) and (4) (unreduced amount of taxed receipt under section 277 as a result of section 278) applies for the purposes of sections 61 to 65.
 
-(6) In sections 64 to 67 references to a reduction under section 288 below or section 228 of CTA 2009[^key-6207b3c9b510c5a1aec6e1e01189e062] by reference to a taxed receipt have the same meaning as in Chapter 4 of Part 3 (see section 290(6)).
+(6) In sections 64 to 67 references to a reduction under section 288 below or section 228 of CTA 2009[^c-6207b3c9b510c5a1aec6e1e01189e062] by reference to a taxed receipt have the same meaning as in Chapter 4 of Part 3 (see section 290(6)).
 
 (7) In the application of sections 64 to 67 to Scotland—
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6207b3c9b510c5a1aec6e1e01189e062]: Textual amendment: Words in s. 60(6) inserted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 591](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/591) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-6207b3c9b510c5a1aec6e1e01189e062]: Textual amendment: Words in s. 60(6) inserted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 591](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/591) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

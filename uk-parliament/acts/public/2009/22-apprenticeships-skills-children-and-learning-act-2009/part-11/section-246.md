@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 246. Recording and reporting the use of force in schools: England[^key-751f5d13d341a72f51165d52bb4a110e]
+## 246. Recording and reporting the use of force in schools: England[^c-751f5d13d341a72f51165d52bb4a110e]
 
 *Extent: E+W*
 
@@ -38,7 +38,7 @@ After section 93 of the Education and Inspections Act 2006 (c. 40) (power of mem
 > (5) A procedure under subsection (1) must include provision to the effect—
 >
 > - (a) that a person (“R”) who would otherwise be required by the procedure to report an incident to a parent must not report it to that parent if it appears to R that doing so would be likely to result in significant harm to the pupil; and
-> - (b) that if it appears to R that there is no parent of the pupil to whom R could report the incident without that being likely to result in significant harm to the pupil, R must report the incident to the local authority [^key-1f6c30a3749ddc31b70c6c3d417b53c0]... within whose area the pupil is ordinarily resident.
+> - (b) that if it appears to R that there is no parent of the pupil to whom R could report the incident without that being likely to result in significant harm to the pupil, R must report the incident to the local authority [^c-1f6c30a3749ddc31b70c6c3d417b53c0]... within whose area the pupil is ordinarily resident.
 >
 > (6) In deciding for the purposes of provision made under subsection (5) whether reporting an incident to a parent would be likely to result in significant harm to the pupil, R must have regard to any guidance issued by the Secretary of State about the meaning of “significant harm” for those purposes.
 >
@@ -53,6 +53,6 @@ After section 93 of the Education and Inspections Act 2006 (c. 40) (power of mem
 
 ## Annotations
 
-[^key-751f5d13d341a72f51165d52bb4a110e]: Commencement: [S. 246](https://www.legislation.gov.uk/ukpga/2009/22/section/246) in force at 1.4.2026 by [S.I. 2025/1341](https://www.legislation.gov.uk/uksi/2025/1341), [art. 2](https://www.legislation.gov.uk/uksi/2025/1341/article/2)
+[^c-751f5d13d341a72f51165d52bb4a110e]: Commencement: [S. 246](https://www.legislation.gov.uk/ukpga/2009/22/section/246) in force at 1.4.2026 by [S.I. 2025/1341](https://www.legislation.gov.uk/uksi/2025/1341), [art. 2](https://www.legislation.gov.uk/uksi/2025/1341/article/2)
 
-[^key-1f6c30a3749ddc31b70c6c3d417b53c0]: Textual amendment: Words in s. 246 repealed (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 16(12)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/16/12), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2010/1158/schedule/3/part/1)
+[^c-1f6c30a3749ddc31b70c6c3d417b53c0]: Textual amendment: Words in s. 246 repealed (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 16(12)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/16/12), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2010/1158/schedule/3/part/1)

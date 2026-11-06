@@ -133,7 +133,7 @@ In section 77 of the Climate Change Act 2008, after subsection (4)(a) insert–
 
 ## Waste targets
 
-### 3. Recycling, preparation for re-use and composting targets[^key-531bd845343d887761c5a4a75eecda7b]
+### 3. Recycling, preparation for re-use and composting targets[^c-531bd845343d887761c5a4a75eecda7b]
 
 (1) The recycling, preparation for re-use and composting targets are specified in subsections (2) and (3).
 
@@ -223,13 +223,13 @@ In exercising its functions under sections 3 to 6 a local authority must have re
 
 (1) Before making an order or regulations under section 3 or regulations under sections 4, 5 or 6, or giving guidance under section 7, the Welsh Ministers must consult the following–
 
-- (a) the Natural Resources Body for Wales[^key-635ffbe754cb7c56766a39bf4d647ea2];
+- (a) the Natural Resources Body for Wales[^c-635ffbe754cb7c56766a39bf4d647ea2];
 - (b) each local authority;
 - (c) such other persons as the Welsh Ministers consider appropriate.
 
 (2) For the purposes of subsection (1), consultation undertaken before the passing of this Measure has effect as if undertaken after that passing.
 
-## Disposal in a landfill or by incineration[^key-82750a3b386572c6a1e72e7783226dc5]
+## Disposal in a landfill or by incineration[^c-82750a3b386572c6a1e72e7783226dc5]
 
 ### 9. Regulations prohibiting deposit of waste in a landfill
 
@@ -242,7 +242,7 @@ In exercising its functions under sections 3 to 6 a local authority must have re
 - (c) provide for penalties in relation to such offences;
 - (d) provide for enforcement authorities and the functions of such authorities.
 
-(3) In subsection (1), “**landfill**” has the meaning given in Article 2(g) of Council Directive [1999/31/EC](https://www.legislation.gov.uk/eudr/1999/31) of 26 April 1999 on the landfill of waste, as last amended by[^key-3f5dc1e92c38106a0196594d57b3c82c] Directive (EU) 2018/850[^key-1380641377f8fa71b986e25c1ca3aec1] , and read as if —[^key-6e4e3da937ba54fcfda9da82fcd931a7]
+(3) In subsection (1), “**landfill**” has the meaning given in Article 2(g) of Council Directive [1999/31/EC](https://www.legislation.gov.uk/eudr/1999/31) of 26 April 1999 on the landfill of waste, as last amended by[^c-3f5dc1e92c38106a0196594d57b3c82c] Directive (EU) 2018/850[^c-1380641377f8fa71b986e25c1ca3aec1] , and read as if —[^c-6e4e3da937ba54fcfda9da82fcd931a7]
 
 - (a) in Article 2—
   - (i) in point (a) the reference to the definition of ’waste’ were omitted;
@@ -257,7 +257,7 @@ In exercising its functions under sections 3 to 6 a local authority must have re
 
     > **3.** The management of extractive waste, within the meaning given in regulation 2(1) of the Environmental Permitting (England and Wales) Regulations 2016, is excluded from the scope of this Directive where it falls within the scope of Schedule 20, or paragraph 8(a) or (b) of Schedule 22, to those Regulations.
 
-### 9A. Regulations prohibiting incineration of waste[^key-932cd1b9f0673c09e3df8dc7cfc04d5e]
+### 9A. Regulations prohibiting incineration of waste[^c-932cd1b9f0673c09e3df8dc7cfc04d5e]
 
 (1) The Welsh Ministers may by regulations make provision for and in connection with prohibiting or otherwise regulating the incineration in Wales of specified kinds of waste.
 
@@ -276,33 +276,33 @@ In exercising its functions under sections 3 to 6 a local authority must have re
 - “**waste incineration plant**” (“***peiriant llosgi gwastraff***”) has the meaning given in Article 3(40) of Directive 2010/75/EU of the European Parliament and of the Council on industrial emissions (integrated pollution prevention and control) (Recast);
 - “**waste co-incineration plant**” (“***peiriant cydlosgi gwastraff***”) has the meaning given in Article 3(41) of that Directive.
 
-### 10. Civil sanctions in respect of offences created by regulations under sections 9 and 9A[^key-8813c2f2dc9da46f1f7d182204844c0a]
+### 10. Civil sanctions in respect of offences created by regulations under sections 9 and 9A[^c-8813c2f2dc9da46f1f7d182204844c0a]
 
-(1) This section applies where the power to make regulations in section 9(1) or 9A(1)[^key-b943812bcd6d87e2ab87c58ecfe280c5] has been or is being exercised so as to create an offence.
+(1) This section applies where the power to make regulations in section 9(1) or 9A(1)[^c-b943812bcd6d87e2ab87c58ecfe280c5] has been or is being exercised so as to create an offence.
 
-(2) The power may be exercised to[^key-92d742e6c45f76fe930d7dbb330f66e8] make provision, in relation to an enforcement authority, which could be made by an order under Part 3 of the Regulatory Enforcement and Sanctions Act 2008 (“RESA 2008”) as if, for the purposes of Part 3 of that Act–
+(2) The power may be exercised to[^c-92d742e6c45f76fe930d7dbb330f66e8] make provision, in relation to an enforcement authority, which could be made by an order under Part 3 of the Regulatory Enforcement and Sanctions Act 2008 (“RESA 2008”) as if, for the purposes of Part 3 of that Act–
 
 - (a) the enforcement authority were a regulator, and
 - (b) the offence were a relevant offence in relation to that regulator.
 
-(3)[^key-a02bec623db118a1fd5b8ee2738e42d5] But sections 39(4) and 42(6) of RESA 2008 do not apply to the provision that may be made by regulations under section 9(1) or 9A(1) by virtue of subsection (2).
+(3)[^c-a02bec623db118a1fd5b8ee2738e42d5] But sections 39(4) and 42(6) of RESA 2008 do not apply to the provision that may be made by regulations under section 9(1) or 9A(1) by virtue of subsection (2).
 
-(4) Sections 63 to 69 of RESA 2008 apply where regulations under section 9(1) or 9A(1) make provision by virtue of subsection (2) as they apply where provision is[^key-8163940af0119072b551048172017380] made under or by virtue of Part 3 of RESA 2008.
+(4) Sections 63 to 69 of RESA 2008 apply where regulations under section 9(1) or 9A(1) make provision by virtue of subsection (2) as they apply where provision is[^c-8163940af0119072b551048172017380] made under or by virtue of Part 3 of RESA 2008.
 
 (5) For the purposes of subsection (4), the references to a “regulator” in sections 63 to 69 of RESA 2008 are to be read as references to an enforcement authority.
 
-(6) In this section, “**enforcement authority**” means a person who has an enforcement function in relation to an offence created by regulations under section 9(1) or 9A(1) (as appropriate)[^key-e9d45e7278c7dcebe70cfc49d4d822c8].
+(6) In this section, “**enforcement authority**” means a person who has an enforcement function in relation to an offence created by regulations under section 9(1) or 9A(1) (as appropriate)[^c-e9d45e7278c7dcebe70cfc49d4d822c8].
 
 ### 11. Consultation
 
-(1) Before making any regulations under section 9 or 9A[^key-d181f08ec3a24b71e4667f7ad28670b6] the Welsh Ministers must consult the following–
+(1) Before making any regulations under section 9 or 9A[^c-d181f08ec3a24b71e4667f7ad28670b6] the Welsh Ministers must consult the following–
 
-- (a) the Natural Resources Body for Wales[^key-b15c7e158200b21a9c35372439c4c634];
+- (a) the Natural Resources Body for Wales[^c-b15c7e158200b21a9c35372439c4c634];
 - (b) each local authority;
 - (c) such persons appearing to them to be representative of the interests of persons liable to be subject to duties under the regulations as they consider appropriate;
 - (d) such other persons as they consider appropriate.
 
-(2)[^key-a8132375dcddf71e2e4a26c678ebf1d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-a8132375dcddf71e2e4a26c678ebf1d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Site waste management plans
 
@@ -368,7 +368,7 @@ A person who is an enforcement authority under section 12 must have regard to gu
 
 (1) Before making any regulations under section 12, the Welsh Ministers must consult the following–
 
-- (a) the Natural Resources Body for Wales[^key-c8310f398563cff38001010bfeb90158];
+- (a) the Natural Resources Body for Wales[^c-c8310f398563cff38001010bfeb90158];
 - (b) each local authority;
 - (c) such persons appearing to them to be representative of the interests of persons liable to be subject to duties under the regulations as they consider appropriate;
 - (d) such other persons as they consider appropriate.
@@ -388,14 +388,14 @@ A person who is an enforcement authority under section 12 must have regard to gu
   - (a) is waste for the purposes of the Waste Framework Directive, and
   - (b) is not excluded from the scope of that Directive by Article 2 of that Directive.
 
-(2) For the purposes of the definition of “waste” in subsection (1), “**the Waste Framework Directive**” means Directive [2008/98/EC](https://www.legislation.gov.uk/eudr/2008/98) of the European Parliament and of the Council of 19 November 2008 on waste and repealing certain Directives, as last amended by[^key-790120ddd20445af9e8338d57079f2de] Directive (EU) 2018/851[^key-f13916f2ab025216500cf1d0f36076f2] , and read in accordance with subsections (3) to (8)[^key-d720841e99b1fc58cd71f4eff5b036dd] .
+(2) For the purposes of the definition of “waste” in subsection (1), “**the Waste Framework Directive**” means Directive [2008/98/EC](https://www.legislation.gov.uk/eudr/2008/98) of the European Parliament and of the Council of 19 November 2008 on waste and repealing certain Directives, as last amended by[^c-790120ddd20445af9e8338d57079f2de] Directive (EU) 2018/851[^c-f13916f2ab025216500cf1d0f36076f2] , and read in accordance with subsections (3) to (8)[^c-d720841e99b1fc58cd71f4eff5b036dd] .
 
-(3)[^key-95321914cf276ab4cc39ecc5f65e9172] A reference to one or more member States in a provision imposing an obligation or conferring a discretion on a member State or member States is to be read as a reference to the Welsh Ministers, the Natural Resources Body for Wales or local authority which, immediately before IP completion day (within the meaning given to that expression in the European Union (Withdrawal Agreement) Act 2020), was responsible for the United Kingdom's compliance with that obligation or able to exercise that discretion in respect of Wales.
+(3)[^c-95321914cf276ab4cc39ecc5f65e9172] A reference to one or more member States in a provision imposing an obligation or conferring a discretion on a member State or member States is to be read as a reference to the Welsh Ministers, the Natural Resources Body for Wales or local authority which, immediately before IP completion day (within the meaning given to that expression in the European Union (Withdrawal Agreement) Act 2020), was responsible for the United Kingdom's compliance with that obligation or able to exercise that discretion in respect of Wales.
 
 (4) Article 2 is to be read as if—
 
 - (a) in paragraph 2—
-  - (i) in the words before point (a), for “other Community legislation” there were substituted “ assimilated[^key-00029aa192ade7b82e5d939c56176ff6] law ”;
+  - (i) in the words before point (a), for “other Community legislation” there were substituted “ assimilated[^c-00029aa192ade7b82e5d939c56176ff6] law ”;
   - (ii) in points (b) and (c), for “Regulation [(EC) No 1774/2002](https://www.legislation.gov.uk/eur/2002/1774)” there were substituted “ Regulation [(EC) No 1069/2009](https://www.legislation.gov.uk/eur/2009/1069) ”;
   - (iii) in point (d), for the words from “Directive [2006/21/EC](https://www.legislation.gov.uk/eudr/2006/21)” to the end there were substituted “ the Mining Waste Directive (see section 17A) ”;
 - (b) in paragraph 3, the words from “Without prejudice” to “Community legislation,” were omitted;
@@ -421,7 +421,7 @@ A person who is an enforcement authority under section 12 must have regard to gu
 
   > **1A.** Any decision as to whether a substance or object has ceased to be waste must be made—
   >
-  > - (a) in accordance with any regulations or assimilated direct[^key-9ce36e62ba26165696336cbf9cf05560] legislation (within the meaning given to that expression in the European Union (Withdrawal) Act 2018) setting out detailed criteria on the application of the conditions in paragraph 1 to specific types of waste; and
+  > - (a) in accordance with any regulations or assimilated direct[^c-9ce36e62ba26165696336cbf9cf05560] legislation (within the meaning given to that expression in the European Union (Withdrawal) Act 2018) setting out detailed criteria on the application of the conditions in paragraph 1 to specific types of waste; and
   > - (b) having regard to any guidance published by the Welsh Ministers or the Natural Resources Body for Wales for the purposes of this Article.
 
   ;
@@ -452,7 +452,7 @@ A person who is an enforcement authority under section 12 must have regard to gu
 
 (8) Annex 3 is to be read as if, in entry HP 9, in the second sentence, “in the Member States” were omitted.
 
-### 17A. Meaning of the “Mining Waste Directive”[^key-6f0d9e8abdc5d8041713901b66f8b44e]
+### 17A. Meaning of the “Mining Waste Directive”[^c-6f0d9e8abdc5d8041713901b66f8b44e]
 
 (1) In reading Article 2 of the Waste Framework Directive in accordance with section 17(4), “the Mining Waste Directive” (as inserted by paragraph (a)(iii) of section 17(4)) means Directive [2006/21/EC](https://www.legislation.gov.uk/eudr/2006/21) of the European Parliament and of the Council on the management of waste from extractive industries, read in accordance with subsections (2) to (5).
 
@@ -489,9 +489,9 @@ The Schedule contains minor and consequential amendments.
 - (c) to make provision generally or in relation to specific cases;
 - (d) to make incidental, supplementary, consequential, transitory, transitional or saving provision as the Welsh Ministers think fit.
 
-(3)[^key-580f92916a8ea77d0f06eb917b0161c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-580f92916a8ea77d0f06eb917b0161c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-580f92916a8ea77d0f06eb917b0161c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-580f92916a8ea77d0f06eb917b0161c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 20. Orders and regulations: procedures
 
@@ -502,11 +502,11 @@ The Schedule contains minor and consequential amendments.
 - (a) an order under section 21(1);
 - (b) orders and regulations to which subsection (3) applies.
 
-(3) A statutory instrument containing an order under section 3(4) or regulations under section 4, 5(1)(g), 6, 9, 9A[^key-f8a1ce6fe816ac897635731fb5f54c51] or 14 (whether alone or with other provisions) may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, the National Assembly for Wales.
+(3) A statutory instrument containing an order under section 3(4) or regulations under section 4, 5(1)(g), 6, 9, 9A[^c-f8a1ce6fe816ac897635731fb5f54c51] or 14 (whether alone or with other provisions) may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, the National Assembly for Wales.
 
-(4)[^key-3b14cdd4e98daf6deb9231a57353d73f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-3b14cdd4e98daf6deb9231a57353d73f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-3b14cdd4e98daf6deb9231a57353d73f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-3b14cdd4e98daf6deb9231a57353d73f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 21. Commencement
 
@@ -549,56 +549,56 @@ This Measure may be cited as the Waste (Wales) Measure 2010.
 
 ## Annotations
 
-[^key-531bd845343d887761c5a4a75eecda7b]: Commencement: [S. 3](https://www.legislation.gov.uk/mwa/2010/8/section/3) in force at 4.3.2011 by [S.I. 2011/476](https://www.legislation.gov.uk/wsi/2011/476), [art. 2](https://www.legislation.gov.uk/wsi/2011/476/article/2)
+[^c-531bd845343d887761c5a4a75eecda7b]: Commencement: [S. 3](https://www.legislation.gov.uk/mwa/2010/8/section/3) in force at 4.3.2011 by [S.I. 2011/476](https://www.legislation.gov.uk/wsi/2011/476), [art. 2](https://www.legislation.gov.uk/wsi/2011/476/article/2)
 
-[^key-635ffbe754cb7c56766a39bf4d647ea2]: Textual amendment: Words in [s. 8(1)(a)](https://www.legislation.gov.uk/mwa/2010/8/section/8/1/a) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 3 para. 2](https://www.legislation.gov.uk/wsi/2013/755/schedule/3/paragraph/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-635ffbe754cb7c56766a39bf4d647ea2]: Textual amendment: Words in [s. 8(1)(a)](https://www.legislation.gov.uk/mwa/2010/8/section/8/1/a) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 3 para. 2](https://www.legislation.gov.uk/wsi/2013/755/schedule/3/paragraph/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-82750a3b386572c6a1e72e7783226dc5]: Textual amendment: [cross-heading](https://www.legislation.gov.uk/mwa/2010/8/crossheading/landfill) substituted (18.10.2023) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [s. 88(3)(b)](https://www.legislation.gov.uk/anaw/2016/3/section/88/3/b), [Sch. 2 para. 17(2)](https://www.legislation.gov.uk/anaw/2016/3/schedule/2/paragraph/17/2); [S.I. 2023/1096](https://www.legislation.gov.uk/wsi/2023/1096), [art. 2(e)](https://www.legislation.gov.uk/wsi/2023/1096/article/2/e)
+[^c-82750a3b386572c6a1e72e7783226dc5]: Textual amendment: [cross-heading](https://www.legislation.gov.uk/mwa/2010/8/crossheading/landfill) substituted (18.10.2023) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [s. 88(3)(b)](https://www.legislation.gov.uk/anaw/2016/3/section/88/3/b), [Sch. 2 para. 17(2)](https://www.legislation.gov.uk/anaw/2016/3/schedule/2/paragraph/17/2); [S.I. 2023/1096](https://www.legislation.gov.uk/wsi/2023/1096), [art. 2(e)](https://www.legislation.gov.uk/wsi/2023/1096/article/2/e)
 
-[^key-3f5dc1e92c38106a0196594d57b3c82c]: Textual amendment: Words in s. 9(3) inserted (22.3.2019) by [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/414)](https://www.legislation.gov.uk/wsi/2019/414), [regs. 1(2)(a)](https://www.legislation.gov.uk/wsi/2019/414/regulation/1/2/a), [2(2)](https://www.legislation.gov.uk/wsi/2019/414/regulation/2/2)
+[^c-3f5dc1e92c38106a0196594d57b3c82c]: Textual amendment: Words in s. 9(3) inserted (22.3.2019) by [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/414)](https://www.legislation.gov.uk/wsi/2019/414), [regs. 1(2)(a)](https://www.legislation.gov.uk/wsi/2019/414/regulation/1/2/a), [2(2)](https://www.legislation.gov.uk/wsi/2019/414/regulation/2/2)
 
-[^key-1380641377f8fa71b986e25c1ca3aec1]: Textual amendment: Words in s. 9(3) substituted (19.11.2020) by [The Waste (Wales) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1179)](https://www.legislation.gov.uk/wsi/2020/1179), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1179/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2020/1179/regulation/2/2)
+[^c-1380641377f8fa71b986e25c1ca3aec1]: Textual amendment: Words in s. 9(3) substituted (19.11.2020) by [The Waste (Wales) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1179)](https://www.legislation.gov.uk/wsi/2020/1179), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1179/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2020/1179/regulation/2/2)
 
-[^key-6e4e3da937ba54fcfda9da82fcd931a7]: Textual amendment: Words in s. 9(3) inserted (31.12.2020) by S.I. 2019/414, reg. 6(2) (as substituted by [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1339)](https://www.legislation.gov.uk/wsi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/3), [2(2)(a)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/2/2/a))
+[^c-6e4e3da937ba54fcfda9da82fcd931a7]: Textual amendment: Words in s. 9(3) inserted (31.12.2020) by S.I. 2019/414, reg. 6(2) (as substituted by [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1339)](https://www.legislation.gov.uk/wsi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/3), [2(2)(a)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/2/2/a))
 
-[^key-932cd1b9f0673c09e3df8dc7cfc04d5e]: Textual amendment: [S. 9A](https://www.legislation.gov.uk/mwa/2010/8/section/9A) inserted (18.10.2023) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [ss. 67](https://www.legislation.gov.uk/anaw/2016/3/section/67), [88(3)(b)](https://www.legislation.gov.uk/anaw/2016/3/section/88/3/b); [S.I. 2023/1096](https://www.legislation.gov.uk/wsi/2023/1096), [art. 2(b)](https://www.legislation.gov.uk/wsi/2023/1096/article/2/b)
+[^c-932cd1b9f0673c09e3df8dc7cfc04d5e]: Textual amendment: [S. 9A](https://www.legislation.gov.uk/mwa/2010/8/section/9A) inserted (18.10.2023) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [ss. 67](https://www.legislation.gov.uk/anaw/2016/3/section/67), [88(3)(b)](https://www.legislation.gov.uk/anaw/2016/3/section/88/3/b); [S.I. 2023/1096](https://www.legislation.gov.uk/wsi/2023/1096), [art. 2(b)](https://www.legislation.gov.uk/wsi/2023/1096/article/2/b)
 
-[^key-8813c2f2dc9da46f1f7d182204844c0a]: Textual amendment: Words in [s. 10](https://www.legislation.gov.uk/mwa/2010/8/section/10) title substituted (18.10.2023) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [ss. 68(3)](https://www.legislation.gov.uk/anaw/2016/3/section/68/3), [88(3)(b)](https://www.legislation.gov.uk/anaw/2016/3/section/88/3/b); [S.I. 2023/1096](https://www.legislation.gov.uk/wsi/2023/1096), [art. 2(c)](https://www.legislation.gov.uk/wsi/2023/1096/article/2/c)
+[^c-8813c2f2dc9da46f1f7d182204844c0a]: Textual amendment: Words in [s. 10](https://www.legislation.gov.uk/mwa/2010/8/section/10) title substituted (18.10.2023) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [ss. 68(3)](https://www.legislation.gov.uk/anaw/2016/3/section/68/3), [88(3)(b)](https://www.legislation.gov.uk/anaw/2016/3/section/88/3/b); [S.I. 2023/1096](https://www.legislation.gov.uk/wsi/2023/1096), [art. 2(c)](https://www.legislation.gov.uk/wsi/2023/1096/article/2/c)
 
-[^key-b943812bcd6d87e2ab87c58ecfe280c5]: Textual amendment: Words in [s. 10(1)](https://www.legislation.gov.uk/mwa/2010/8/section/10/1) inserted (18.10.2023) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [ss. 68(4)](https://www.legislation.gov.uk/anaw/2016/3/section/68/4), [88(3)(b)](https://www.legislation.gov.uk/anaw/2016/3/section/88/3/b); [S.I. 2023/1096](https://www.legislation.gov.uk/wsi/2023/1096), [art. 2(c)](https://www.legislation.gov.uk/wsi/2023/1096/article/2/c)
+[^c-b943812bcd6d87e2ab87c58ecfe280c5]: Textual amendment: Words in [s. 10(1)](https://www.legislation.gov.uk/mwa/2010/8/section/10/1) inserted (18.10.2023) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [ss. 68(4)](https://www.legislation.gov.uk/anaw/2016/3/section/68/4), [88(3)(b)](https://www.legislation.gov.uk/anaw/2016/3/section/88/3/b); [S.I. 2023/1096](https://www.legislation.gov.uk/wsi/2023/1096), [art. 2(c)](https://www.legislation.gov.uk/wsi/2023/1096/article/2/c)
 
-[^key-92d742e6c45f76fe930d7dbb330f66e8]: Textual amendment: Words in [s. 10(2)](https://www.legislation.gov.uk/mwa/2010/8/section/10/2) substituted (18.10.2023) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [ss. 68(5)](https://www.legislation.gov.uk/anaw/2016/3/section/68/5), [88(3)(b)](https://www.legislation.gov.uk/anaw/2016/3/section/88/3/b); [S.I. 2023/1096](https://www.legislation.gov.uk/wsi/2023/1096), [art. 2(c)](https://www.legislation.gov.uk/wsi/2023/1096/article/2/c)
+[^c-92d742e6c45f76fe930d7dbb330f66e8]: Textual amendment: Words in [s. 10(2)](https://www.legislation.gov.uk/mwa/2010/8/section/10/2) substituted (18.10.2023) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [ss. 68(5)](https://www.legislation.gov.uk/anaw/2016/3/section/68/5), [88(3)(b)](https://www.legislation.gov.uk/anaw/2016/3/section/88/3/b); [S.I. 2023/1096](https://www.legislation.gov.uk/wsi/2023/1096), [art. 2(c)](https://www.legislation.gov.uk/wsi/2023/1096/article/2/c)
 
-[^key-a02bec623db118a1fd5b8ee2738e42d5]: Textual amendment: [S. 10(3)](https://www.legislation.gov.uk/mwa/2010/8/section/10/3) substituted (18.10.2023) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [ss. 68(6)](https://www.legislation.gov.uk/anaw/2016/3/section/68/6), [88(3)(b)](https://www.legislation.gov.uk/anaw/2016/3/section/88/3/b); [S.I. 2023/1096](https://www.legislation.gov.uk/wsi/2023/1096), [art. 2(c)](https://www.legislation.gov.uk/wsi/2023/1096/article/2/c)
+[^c-a02bec623db118a1fd5b8ee2738e42d5]: Textual amendment: [S. 10(3)](https://www.legislation.gov.uk/mwa/2010/8/section/10/3) substituted (18.10.2023) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [ss. 68(6)](https://www.legislation.gov.uk/anaw/2016/3/section/68/6), [88(3)(b)](https://www.legislation.gov.uk/anaw/2016/3/section/88/3/b); [S.I. 2023/1096](https://www.legislation.gov.uk/wsi/2023/1096), [art. 2(c)](https://www.legislation.gov.uk/wsi/2023/1096/article/2/c)
 
-[^key-8163940af0119072b551048172017380]: Textual amendment: Words in [s. 10(4)](https://www.legislation.gov.uk/mwa/2010/8/section/10/4) substituted (18.10.2023) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [ss. 68(7)](https://www.legislation.gov.uk/anaw/2016/3/section/68/7), [88(3)(b)](https://www.legislation.gov.uk/anaw/2016/3/section/88/3/b); [S.I. 2023/1096](https://www.legislation.gov.uk/wsi/2023/1096), [art. 2(c)](https://www.legislation.gov.uk/wsi/2023/1096/article/2/c)
+[^c-8163940af0119072b551048172017380]: Textual amendment: Words in [s. 10(4)](https://www.legislation.gov.uk/mwa/2010/8/section/10/4) substituted (18.10.2023) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [ss. 68(7)](https://www.legislation.gov.uk/anaw/2016/3/section/68/7), [88(3)(b)](https://www.legislation.gov.uk/anaw/2016/3/section/88/3/b); [S.I. 2023/1096](https://www.legislation.gov.uk/wsi/2023/1096), [art. 2(c)](https://www.legislation.gov.uk/wsi/2023/1096/article/2/c)
 
-[^key-e9d45e7278c7dcebe70cfc49d4d822c8]: Textual amendment: Words in [s. 10(6)](https://www.legislation.gov.uk/mwa/2010/8/section/10/6) inserted (18.10.2023) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [ss. 68(8)](https://www.legislation.gov.uk/anaw/2016/3/section/68/8), [88(3)(b)](https://www.legislation.gov.uk/anaw/2016/3/section/88/3/b); [S.I. 2023/1096](https://www.legislation.gov.uk/wsi/2023/1096), [art. 2(c)](https://www.legislation.gov.uk/wsi/2023/1096/article/2/c)
+[^c-e9d45e7278c7dcebe70cfc49d4d822c8]: Textual amendment: Words in [s. 10(6)](https://www.legislation.gov.uk/mwa/2010/8/section/10/6) inserted (18.10.2023) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [ss. 68(8)](https://www.legislation.gov.uk/anaw/2016/3/section/68/8), [88(3)(b)](https://www.legislation.gov.uk/anaw/2016/3/section/88/3/b); [S.I. 2023/1096](https://www.legislation.gov.uk/wsi/2023/1096), [art. 2(c)](https://www.legislation.gov.uk/wsi/2023/1096/article/2/c)
 
-[^key-d181f08ec3a24b71e4667f7ad28670b6]: Textual amendment: Words in [s. 11(1)](https://www.legislation.gov.uk/mwa/2010/8/section/11/1) inserted (18.10.2023) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [s. 88(3)(b)](https://www.legislation.gov.uk/anaw/2016/3/section/88/3/b), [Sch. 2 para. 17(3)(a)](https://www.legislation.gov.uk/anaw/2016/3/schedule/2/paragraph/17/3/a); [S.I. 2023/1096](https://www.legislation.gov.uk/wsi/2023/1096), [art. 2(e)](https://www.legislation.gov.uk/wsi/2023/1096/article/2/e)
+[^c-d181f08ec3a24b71e4667f7ad28670b6]: Textual amendment: Words in [s. 11(1)](https://www.legislation.gov.uk/mwa/2010/8/section/11/1) inserted (18.10.2023) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [s. 88(3)(b)](https://www.legislation.gov.uk/anaw/2016/3/section/88/3/b), [Sch. 2 para. 17(3)(a)](https://www.legislation.gov.uk/anaw/2016/3/schedule/2/paragraph/17/3/a); [S.I. 2023/1096](https://www.legislation.gov.uk/wsi/2023/1096), [art. 2(e)](https://www.legislation.gov.uk/wsi/2023/1096/article/2/e)
 
-[^key-b15c7e158200b21a9c35372439c4c634]: Textual amendment: Words in [s. 11(1)(a)](https://www.legislation.gov.uk/mwa/2010/8/section/11/1/a) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 3 para. 2](https://www.legislation.gov.uk/wsi/2013/755/schedule/3/paragraph/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-b15c7e158200b21a9c35372439c4c634]: Textual amendment: Words in [s. 11(1)(a)](https://www.legislation.gov.uk/mwa/2010/8/section/11/1/a) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 3 para. 2](https://www.legislation.gov.uk/wsi/2013/755/schedule/3/paragraph/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-a8132375dcddf71e2e4a26c678ebf1d0]: Textual amendment: [S. 11(2)](https://www.legislation.gov.uk/mwa/2010/8/section/11/2) omitted (18.10.2023) by virtue of [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [s. 88(3)(b)](https://www.legislation.gov.uk/anaw/2016/3/section/88/3/b), [Sch. 2 para. 17(3)(b)](https://www.legislation.gov.uk/anaw/2016/3/schedule/2/paragraph/17/3/b); [S.I. 2023/1096](https://www.legislation.gov.uk/wsi/2023/1096), [art. 2(e)](https://www.legislation.gov.uk/wsi/2023/1096/article/2/e)
+[^c-a8132375dcddf71e2e4a26c678ebf1d0]: Textual amendment: [S. 11(2)](https://www.legislation.gov.uk/mwa/2010/8/section/11/2) omitted (18.10.2023) by virtue of [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [s. 88(3)(b)](https://www.legislation.gov.uk/anaw/2016/3/section/88/3/b), [Sch. 2 para. 17(3)(b)](https://www.legislation.gov.uk/anaw/2016/3/schedule/2/paragraph/17/3/b); [S.I. 2023/1096](https://www.legislation.gov.uk/wsi/2023/1096), [art. 2(e)](https://www.legislation.gov.uk/wsi/2023/1096/article/2/e)
 
-[^key-c8310f398563cff38001010bfeb90158]: Textual amendment: Words in [s. 16(1)(a)](https://www.legislation.gov.uk/mwa/2010/8/section/16/1/a) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 3 para. 2](https://www.legislation.gov.uk/wsi/2013/755/schedule/3/paragraph/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-c8310f398563cff38001010bfeb90158]: Textual amendment: Words in [s. 16(1)(a)](https://www.legislation.gov.uk/mwa/2010/8/section/16/1/a) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 3 para. 2](https://www.legislation.gov.uk/wsi/2013/755/schedule/3/paragraph/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-790120ddd20445af9e8338d57079f2de]: Textual amendment: Words in s. 17(2) inserted (22.3.2019) by [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/414)](https://www.legislation.gov.uk/wsi/2019/414), [regs. 1(2)(a)](https://www.legislation.gov.uk/wsi/2019/414/regulation/1/2/a), [2(3)](https://www.legislation.gov.uk/wsi/2019/414/regulation/2/3)
+[^c-790120ddd20445af9e8338d57079f2de]: Textual amendment: Words in s. 17(2) inserted (22.3.2019) by [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/414)](https://www.legislation.gov.uk/wsi/2019/414), [regs. 1(2)(a)](https://www.legislation.gov.uk/wsi/2019/414/regulation/1/2/a), [2(3)](https://www.legislation.gov.uk/wsi/2019/414/regulation/2/3)
 
-[^key-f13916f2ab025216500cf1d0f36076f2]: Textual amendment: Words in s. 17(2) substituted (19.11.2020) by [The Waste (Wales) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1179)](https://www.legislation.gov.uk/wsi/2020/1179), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1179/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2020/1179/regulation/2/3)
+[^c-f13916f2ab025216500cf1d0f36076f2]: Textual amendment: Words in s. 17(2) substituted (19.11.2020) by [The Waste (Wales) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1179)](https://www.legislation.gov.uk/wsi/2020/1179), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1179/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2020/1179/regulation/2/3)
 
-[^key-d720841e99b1fc58cd71f4eff5b036dd]: Textual amendment: Words in s. 17(2) inserted (31.12.2020) by [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/414)](https://www.legislation.gov.uk/wsi/2019/414), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2019/414/regulation/1/2/b), [6(4)(a)](https://www.legislation.gov.uk/wsi/2019/414/regulation/6/4/a); 2020 c. 1, Sch. 5 para. 1(1)
+[^c-d720841e99b1fc58cd71f4eff5b036dd]: Textual amendment: Words in s. 17(2) inserted (31.12.2020) by [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/414)](https://www.legislation.gov.uk/wsi/2019/414), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2019/414/regulation/1/2/b), [6(4)(a)](https://www.legislation.gov.uk/wsi/2019/414/regulation/6/4/a); 2020 c. 1, Sch. 5 para. 1(1)
 
-[^key-95321914cf276ab4cc39ecc5f65e9172]: Textual amendment: [S. 17(3)-(8)](https://www.legislation.gov.uk/mwa/2010/8/section/17/3) inserted (31.12.2020) by [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/414)](https://www.legislation.gov.uk/uksi/2019/414), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/414/regulation/1/2/b), [6(4)(b)](https://www.legislation.gov.uk/uksi/2019/414/regulation/6/4/b) (as amended by [S.I. 2020/1339](https://www.legislation.gov.uk/uksi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1339/regulation/1/3), [2(2)(c)(ii)(aa)(bb)](https://www.legislation.gov.uk/uksi/2020/1339/regulation/2/2/c/ii/aa/bb)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-95321914cf276ab4cc39ecc5f65e9172]: Textual amendment: [S. 17(3)-(8)](https://www.legislation.gov.uk/mwa/2010/8/section/17/3) inserted (31.12.2020) by [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/414)](https://www.legislation.gov.uk/uksi/2019/414), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/414/regulation/1/2/b), [6(4)(b)](https://www.legislation.gov.uk/uksi/2019/414/regulation/6/4/b) (as amended by [S.I. 2020/1339](https://www.legislation.gov.uk/uksi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1339/regulation/1/3), [2(2)(c)(ii)(aa)(bb)](https://www.legislation.gov.uk/uksi/2020/1339/regulation/2/2/c/ii/aa/bb)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-00029aa192ade7b82e5d939c56176ff6]: Textual amendment: Word in [s. 17(4)(a)(i)](https://www.legislation.gov.uk/mwa/2010/8/section/17/4/a/i) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [3(a)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/3/a)
+[^c-00029aa192ade7b82e5d939c56176ff6]: Textual amendment: Word in [s. 17(4)(a)(i)](https://www.legislation.gov.uk/mwa/2010/8/section/17/4/a/i) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [3(a)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/3/a)
 
-[^key-9ce36e62ba26165696336cbf9cf05560]: Textual amendment: Words in [s. 17(6)(b)](https://www.legislation.gov.uk/mwa/2010/8/section/17/6/b) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [3(b)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/3/b)
+[^c-9ce36e62ba26165696336cbf9cf05560]: Textual amendment: Words in [s. 17(6)(b)](https://www.legislation.gov.uk/mwa/2010/8/section/17/6/b) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [3(b)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/3/b)
 
-[^key-6f0d9e8abdc5d8041713901b66f8b44e]: Textual amendment: S. 17A inserted (31.12.2020) by [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/414)](https://www.legislation.gov.uk/wsi/2019/414), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2019/414/regulation/1/2/b), [6(5)](https://www.legislation.gov.uk/wsi/2019/414/regulation/6/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6f0d9e8abdc5d8041713901b66f8b44e]: Textual amendment: S. 17A inserted (31.12.2020) by [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/414)](https://www.legislation.gov.uk/wsi/2019/414), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2019/414/regulation/1/2/b), [6(5)](https://www.legislation.gov.uk/wsi/2019/414/regulation/6/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-580f92916a8ea77d0f06eb917b0161c4]: Textual amendment: S. 19(3)(4) omitted (11.9.2019) by virtue of [Legislation (Wales) Act 2019 (anaw 4)](https://www.legislation.gov.uk/anaw/2019/4), [s. 44(1)(e)](https://www.legislation.gov.uk/anaw/2019/4/section/44/1/e), [Sch. 2 para. 3(2)](https://www.legislation.gov.uk/anaw/2019/4/schedule/2/paragraph/3/2)
+[^c-580f92916a8ea77d0f06eb917b0161c4]: Textual amendment: S. 19(3)(4) omitted (11.9.2019) by virtue of [Legislation (Wales) Act 2019 (anaw 4)](https://www.legislation.gov.uk/anaw/2019/4), [s. 44(1)(e)](https://www.legislation.gov.uk/anaw/2019/4/section/44/1/e), [Sch. 2 para. 3(2)](https://www.legislation.gov.uk/anaw/2019/4/schedule/2/paragraph/3/2)
 
-[^key-f8a1ce6fe816ac897635731fb5f54c51]: Textual amendment: Word in [s. 20(3)](https://www.legislation.gov.uk/mwa/2010/8/section/20/3) inserted (18.10.2023) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [ss. 69(5)](https://www.legislation.gov.uk/anaw/2016/3/section/69/5), [88(3)(b)](https://www.legislation.gov.uk/anaw/2016/3/section/88/3/b); [S.I. 2023/1096](https://www.legislation.gov.uk/wsi/2023/1096), [art. 2(d)](https://www.legislation.gov.uk/wsi/2023/1096/article/2/d)
+[^c-f8a1ce6fe816ac897635731fb5f54c51]: Textual amendment: Word in [s. 20(3)](https://www.legislation.gov.uk/mwa/2010/8/section/20/3) inserted (18.10.2023) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [ss. 69(5)](https://www.legislation.gov.uk/anaw/2016/3/section/69/5), [88(3)(b)](https://www.legislation.gov.uk/anaw/2016/3/section/88/3/b); [S.I. 2023/1096](https://www.legislation.gov.uk/wsi/2023/1096), [art. 2(d)](https://www.legislation.gov.uk/wsi/2023/1096/article/2/d)
 
-[^key-3b14cdd4e98daf6deb9231a57353d73f]: Textual amendment: S. 20(4)(5) omitted (11.9.2019) by virtue of [Legislation (Wales) Act 2019 (anaw 4)](https://www.legislation.gov.uk/anaw/2019/4), [s. 44(1)(e)](https://www.legislation.gov.uk/anaw/2019/4/section/44/1/e), [Sch. 2 para. 3(3)](https://www.legislation.gov.uk/anaw/2019/4/schedule/2/paragraph/3/3)
+[^c-3b14cdd4e98daf6deb9231a57353d73f]: Textual amendment: S. 20(4)(5) omitted (11.9.2019) by virtue of [Legislation (Wales) Act 2019 (anaw 4)](https://www.legislation.gov.uk/anaw/2019/4), [s. 44(1)(e)](https://www.legislation.gov.uk/anaw/2019/4/section/44/1/e), [Sch. 2 para. 3(3)](https://www.legislation.gov.uk/anaw/2019/4/schedule/2/paragraph/3/3)

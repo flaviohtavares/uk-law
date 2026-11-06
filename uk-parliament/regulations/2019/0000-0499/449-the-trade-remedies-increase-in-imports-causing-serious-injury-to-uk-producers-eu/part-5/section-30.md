@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Termination[^key-3e0120ce8d78a1b9ebcb00f996bce652]
+## 30. Termination[^c-3e0120ce8d78a1b9ebcb00f996bce652]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3e0120ce8d78a1b9ebcb00f996bce652]: Commencement: Reg. 30 in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)
+[^c-3e0120ce8d78a1b9ebcb00f996bce652]: Commencement: Reg. 30 in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)

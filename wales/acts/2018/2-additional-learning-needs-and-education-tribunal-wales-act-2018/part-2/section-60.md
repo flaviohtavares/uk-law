@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 60. Additional learning needs co-ordinator[^key-cd4c4de0c5d0bb0172bc6d515381fb07][^key-cd544cc5b112c7eecb9b5c123c03d855]
+## 60. Additional learning needs co-ordinator[^c-cd4c4de0c5d0bb0172bc6d515381fb07][^c-cd544cc5b112c7eecb9b5c123c03d855]
 
 *Extent: E+W*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cd4c4de0c5d0bb0172bc6d515381fb07]: Commencement: S. 60 in force at 2.11.2020 for specified purposes by [S.I. 2020/1182](https://www.legislation.gov.uk/wsi/2020/1182), [reg. 3(1)(g)](https://www.legislation.gov.uk/wsi/2020/1182/regulation/3/1/g)
+[^c-cd4c4de0c5d0bb0172bc6d515381fb07]: Commencement: S. 60 in force at 2.11.2020 for specified purposes by [S.I. 2020/1182](https://www.legislation.gov.uk/wsi/2020/1182), [reg. 3(1)(g)](https://www.legislation.gov.uk/wsi/2020/1182/regulation/3/1/g)
 
-[^key-cd544cc5b112c7eecb9b5c123c03d855]: Commencement: S. 60 in force at 4.1.2021 in so far as not already in force by [S.I. 2020/1182](https://www.legislation.gov.uk/wsi/2020/1182), [reg. 4(2)(c)](https://www.legislation.gov.uk/wsi/2020/1182/regulation/4/2/c)
+[^c-cd544cc5b112c7eecb9b5c123c03d855]: Commencement: S. 60 in force at 4.1.2021 in so far as not already in force by [S.I. 2020/1182](https://www.legislation.gov.uk/wsi/2020/1182), [reg. 4(2)(c)](https://www.legislation.gov.uk/wsi/2020/1182/regulation/4/2/c)

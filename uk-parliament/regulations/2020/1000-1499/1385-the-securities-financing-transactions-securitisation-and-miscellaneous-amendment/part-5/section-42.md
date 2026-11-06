@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. The Financial Services and Markets Act 2000 (Benchmarks) Regulations 2018[^key-75323a15303c551838b29572a3eb1961]
+## 42. The Financial Services and Markets Act 2000 (Benchmarks) Regulations 2018[^c-75323a15303c551838b29572a3eb1961]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In regulation 2(1) (interpretation) of the Financial Services and Markets Act 20
 
 ## Annotations
 
-[^key-75323a15303c551838b29572a3eb1961]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/2020/1385/regulation/42) in force at 31.12.2020 immediately before IP completion day, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4)
+[^c-75323a15303c551838b29572a3eb1961]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/2020/1385/regulation/42) in force at 31.12.2020 immediately before IP completion day, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4)
 
 [^f00020]: Footnote: [S.I. 2018/135](https://www.legislation.gov.uk/uksi/2018/135).

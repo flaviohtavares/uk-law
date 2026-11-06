@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 186. Transitional functions of London Residuary Body in respect of block grant.[^key-4f89b34f66340b6b20f7f75b4375fd39]
+## 186. Transitional functions of London Residuary Body in respect of block grant.[^c-4f89b34f66340b6b20f7f75b4375fd39]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4f89b34f66340b6b20f7f75b4375fd39]: Textual amendment: [S. 186](https://www.legislation.gov.uk/ukpga/1988/40/section/186) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 4
+[^c-4f89b34f66340b6b20f7f75b4375fd39]: Textual amendment: [S. 186](https://www.legislation.gov.uk/ukpga/1988/40/section/186) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 4

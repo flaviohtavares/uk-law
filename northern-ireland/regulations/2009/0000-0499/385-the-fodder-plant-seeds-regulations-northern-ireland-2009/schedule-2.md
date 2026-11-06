@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 2 — SPECIES OF SEED TO WHICH THESE REGULATIONS APPLY[^key-aa20bb69d991055c234c3912d0b1b787]
+## SCHEDULE 2 — SPECIES OF SEED TO WHICH THESE REGULATIONS APPLY[^c-aa20bb69d991055c234c3912d0b1b787]
 
 *Extent: N.I.*
 
@@ -24,16 +24,16 @@ summary: ''
 
 Regulations 3, 5(1), 22(2) andparagraph 2 of Schedule 3
 
-**1.**[^key-aa20bb69d991055c234c3912d0b1b787] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-aa20bb69d991055c234c3912d0b1b787] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-aa20bb69d991055c234c3912d0b1b787] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-aa20bb69d991055c234c3912d0b1b787] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-aa20bb69d991055c234c3912d0b1b787] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-aa20bb69d991055c234c3912d0b1b787] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-aa20bb69d991055c234c3912d0b1b787] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-aa20bb69d991055c234c3912d0b1b787] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-aa20bb69d991055c234c3912d0b1b787] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-aa20bb69d991055c234c3912d0b1b787] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-aa20bb69d991055c234c3912d0b1b787]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2009/385) revoked (14.7.2016) by [The Seed Marketing Regulations (Northern Ireland) 2016 (S.R. 2016/244)](https://www.legislation.gov.uk/nisr/2016/244), [reg. 35(2)(c)](https://www.legislation.gov.uk/nisr/2016/244/regulation/35/2/c)
+[^c-aa20bb69d991055c234c3912d0b1b787]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2009/385) revoked (14.7.2016) by [The Seed Marketing Regulations (Northern Ireland) 2016 (S.R. 2016/244)](https://www.legislation.gov.uk/nisr/2016/244), [reg. 35(2)(c)](https://www.legislation.gov.uk/nisr/2016/244/regulation/35/2/c)

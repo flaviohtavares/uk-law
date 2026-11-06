@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 42. Dealing with the buy-out fund: payments into the Consolidated Fund and to the Great Britain authority[^key-5e8867813b21d543c77bb5a157dc9783]
+## 42. Dealing with the buy-out fund: payments into the Consolidated Fund and to the Great Britain authority[^c-5e8867813b21d543c77bb5a157dc9783]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5e8867813b21d543c77bb5a157dc9783]: Commencement: Art. 42 in operation at 1.4.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/154/article/1)
+[^c-5e8867813b21d543c77bb5a157dc9783]: Commencement: Art. 42 in operation at 1.4.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/154/article/1)

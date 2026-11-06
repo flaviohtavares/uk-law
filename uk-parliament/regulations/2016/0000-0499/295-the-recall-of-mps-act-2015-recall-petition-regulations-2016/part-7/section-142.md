@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 142. Communication of applications, notices etc[^key-4967360af43152145d770100c225ec35]
+## 142. Communication of applications, notices etc[^c-4967360af43152145d770100c225ec35]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ The requirement in these Regulations that any application, notice, representatio
 
 ## Annotations
 
-[^key-4967360af43152145d770100c225ec35]: Commencement: Reg. 142 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-4967360af43152145d770100c225ec35]: Commencement: Reg. 142 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

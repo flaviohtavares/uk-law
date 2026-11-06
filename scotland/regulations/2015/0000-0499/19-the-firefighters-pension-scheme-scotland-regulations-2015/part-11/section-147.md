@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 147. Procedure where appeal to be pursued[^key-1f1fe86bb8c92b3e3995e4666bc85c40]
+## 147. Procedure where appeal to be pursued[^c-1f1fe86bb8c92b3e3995e4666bc85c40]
 
 *Extent: S*
 
@@ -51,4 +51,4 @@ the board may dispense with the interview and medical examination, and may deter
 
 ## Annotations
 
-[^key-1f1fe86bb8c92b3e3995e4666bc85c40]: Commencement: [Reg. 147](https://www.legislation.gov.uk/ssi/2015/19/regulation/147) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-1f1fe86bb8c92b3e3995e4666bc85c40]: Commencement: [Reg. 147](https://www.legislation.gov.uk/ssi/2015/19/regulation/147) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

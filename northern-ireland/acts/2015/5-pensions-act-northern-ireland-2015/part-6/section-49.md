@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 49. Pension Protection Fund: compensation cap to apply separately to certain benefits[^key-502864fe4add241f9b99b1acaf900f88]
+## 49. Pension Protection Fund: compensation cap to apply separately to certain benefits[^c-502864fe4add241f9b99b1acaf900f88]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-502864fe4add241f9b99b1acaf900f88]: Textual amendment: [S. 49](https://www.legislation.gov.uk/nia/2015/5/section/49) omitted (31.12.2023) by virtue of [The Pensions (Pension Protection Fund Compensation) (Northern Ireland) Regulations 2023 (S.I. 2023/1312)](https://www.legislation.gov.uk/uksi/2023/1312), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1312/regulation/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2023/1312/regulation/6/a)
+[^c-502864fe4add241f9b99b1acaf900f88]: Textual amendment: [S. 49](https://www.legislation.gov.uk/nia/2015/5/section/49) omitted (31.12.2023) by virtue of [The Pensions (Pension Protection Fund Compensation) (Northern Ireland) Regulations 2023 (S.I. 2023/1312)](https://www.legislation.gov.uk/uksi/2023/1312), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1312/regulation/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2023/1312/regulation/6/a)

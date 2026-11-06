@@ -20,21 +20,21 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-df40b83ab5fa4575dd018a9ff6b8d801] In the Police Act 1997, in section 93 (authorisations to interfere with property etc: authorising officers), in subsection (5), after paragraph (h) insert—
+(1)[^c-df40b83ab5fa4575dd018a9ff6b8d801] In the Police Act 1997, in section 93 (authorisations to interfere with property etc: authorising officers), in subsection (5), after paragraph (h) insert—
 
 > - (ha) an immigration officer who is a senior official within the meaning of the Regulation of Investigatory Powers Act 2000 and who is designated for the purposes of this paragraph by the Secretary of State;
 
 .
 
-(2)[^key-df40b83ab5fa4575dd018a9ff6b8d801] In the Regulation of Investigatory Powers Act 2000, in section 32(6) (authorisation of intrusive surveillance: senior authorising officers), after paragraph (m) insert—
+(2)[^c-df40b83ab5fa4575dd018a9ff6b8d801] In the Regulation of Investigatory Powers Act 2000, in section 32(6) (authorisation of intrusive surveillance: senior authorising officers), after paragraph (m) insert—
 
 > - (ma) a senior official in the department of the Secretary of State by whom functions relating to immigration are exercisable who is designated for the purposes of this paragraph by the Secretary of State; and
 
 .
 
-(3)[^key-ee05cfe13c42680d1bd663260ea3b15b][^key-6033b411d0b0d0840a954cb9c7defab6] The Proceeds of Crime Act 2002 is amended in accordance with subsections (4) and (5).
+(3)[^c-ee05cfe13c42680d1bd663260ea3b15b][^c-6033b411d0b0d0840a954cb9c7defab6] The Proceeds of Crime Act 2002 is amended in accordance with subsections (4) and (5).
 
-(4)[^key-e20324b4b7abea47de5b34c5e14508d0] In the 2002 Act—
+(4)[^c-e20324b4b7abea47de5b34c5e14508d0] In the 2002 Act—
 
 - (a) in section 47A (search and seizure powers under sections 47B to 47S: meaning of “appropriate officer”), in subsection (1), after paragraph (a) insert—
 
@@ -52,7 +52,7 @@ summary: ''
 
   .
 
-(5)[^key-47b010304a83be8295bd0c7b86613847] In section 378 of the 2002 Act (appropriate officers and senior appropriate officers for the purposes of investigations under Part 8 of that Act)—
+(5)[^c-47b010304a83be8295bd0c7b86613847] In section 378 of the 2002 Act (appropriate officers and senior appropriate officers for the purposes of investigations under Part 8 of that Act)—
 
 - (a) in subsection (1) (appropriate officers for confiscation investigations), after paragraph (d) insert—
 
@@ -80,7 +80,7 @@ summary: ''
 
   .
 
-(6)[^key-467c595aded9993655314fe8c3b8bdc0] In the UK Borders Act 2007, in section 24 (seizure of cash by immigration officers under Proceeds of Crime Act 2002)—
+(6)[^c-467c595aded9993655314fe8c3b8bdc0] In the UK Borders Act 2007, in section 24 (seizure of cash by immigration officers under Proceeds of Crime Act 2002)—
 
 - (a) in subsection (2), for paragraphs (a) and (b) substitute—
 
@@ -104,9 +104,9 @@ summary: ''
 
   .
 
-(7)[^key-467c595aded9993655314fe8c3b8bdc0] Sections 136 to 139 of the Criminal Justice and Public Order Act 1994 (execution of warrants and powers of arrest and search) apply to an immigration officer as they apply to a constable (but subject to subsection (8) below and paragraphs 41 to 43 of Schedule 21).
+(7)[^c-467c595aded9993655314fe8c3b8bdc0] Sections 136 to 139 of the Criminal Justice and Public Order Act 1994 (execution of warrants and powers of arrest and search) apply to an immigration officer as they apply to a constable (but subject to subsection (8) below and paragraphs 41 to 43 of Schedule 21).
 
-(8)[^key-467c595aded9993655314fe8c3b8bdc0] An immigration officer may exercise a power under sections 136 to 139 of the 1994 Act only—
+(8)[^c-467c595aded9993655314fe8c3b8bdc0] An immigration officer may exercise a power under sections 136 to 139 of the 1994 Act only—
 
 - (a) in the exercise of a function which relates to the entitlement of one or more persons who are not nationals of the United Kingdom to enter, transit across, or be in, the United Kingdom (including a function which relates to conditions or other controls on any such entitlement),
 - (b) in exercising a function under, or for the purposes of—
@@ -120,15 +120,15 @@ summary: ''
   - (i) an offence under section 26(1)(a), (b) or (g) of the Immigration Act 1971 (refusal or failure to submit to examination or to furnish information etc, or obstruction of immigration officer);
   - (ii) an offence under section 22 of the UK Borders Act 2007 (assaulting an immigration officer).
 
-(9)[^key-7119b5772366a24ee34d870dfd0cb823][^key-467c595aded9993655314fe8c3b8bdc0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-7119b5772366a24ee34d870dfd0cb823][^c-467c595aded9993655314fe8c3b8bdc0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10)[^key-7119b5772366a24ee34d870dfd0cb823][^key-467c595aded9993655314fe8c3b8bdc0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-7119b5772366a24ee34d870dfd0cb823][^c-467c595aded9993655314fe8c3b8bdc0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(11)[^key-7119b5772366a24ee34d870dfd0cb823][^key-467c595aded9993655314fe8c3b8bdc0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-7119b5772366a24ee34d870dfd0cb823][^c-467c595aded9993655314fe8c3b8bdc0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(12)[^key-7119b5772366a24ee34d870dfd0cb823][^key-467c595aded9993655314fe8c3b8bdc0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(12)[^c-7119b5772366a24ee34d870dfd0cb823][^c-467c595aded9993655314fe8c3b8bdc0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(13)[^key-467c595aded9993655314fe8c3b8bdc0] In the Criminal Procedure (Scotland) Act 1995, in section 307 (interpretation)—
+(13)[^c-467c595aded9993655314fe8c3b8bdc0] In the Criminal Procedure (Scotland) Act 1995, in section 307 (interpretation)—
 
 - (a) in subsection (1), in the definition of “officer of law”, after paragraph (ba) insert—
 
@@ -151,24 +151,24 @@ summary: ''
 
   .
 
-(14)[^key-56c188474e838496b1d49833d9822861][^key-5b009dc07dc4e102617781e016c3f116] Schedule 21 (powers of immigration officers: further provision) has effect.
+(14)[^c-56c188474e838496b1d49833d9822861][^c-5b009dc07dc4e102617781e016c3f116] Schedule 21 (powers of immigration officers: further provision) has effect.
 
 ## Annotations
 
-[^key-df40b83ab5fa4575dd018a9ff6b8d801]: Commencement: S. 55(1)(2) in force at 25.6.2013 by [S.I. 2013/1042](https://www.legislation.gov.uk/uksi/2013/1042), [art. 4(d)](https://www.legislation.gov.uk/uksi/2013/1042/article/4/d)
+[^c-df40b83ab5fa4575dd018a9ff6b8d801]: Commencement: S. 55(1)(2) in force at 25.6.2013 by [S.I. 2013/1042](https://www.legislation.gov.uk/uksi/2013/1042), [art. 4(d)](https://www.legislation.gov.uk/uksi/2013/1042/article/4/d)
 
-[^key-ee05cfe13c42680d1bd663260ea3b15b]: Commencement: S. 55(3) in force at 25.6.2013 for specified purposes by [S.I. 2013/1042](https://www.legislation.gov.uk/uksi/2013/1042), [art. 4(e)](https://www.legislation.gov.uk/uksi/2013/1042/article/4/e)
+[^c-ee05cfe13c42680d1bd663260ea3b15b]: Commencement: S. 55(3) in force at 25.6.2013 for specified purposes by [S.I. 2013/1042](https://www.legislation.gov.uk/uksi/2013/1042), [art. 4(e)](https://www.legislation.gov.uk/uksi/2013/1042/article/4/e)
 
-[^key-6033b411d0b0d0840a954cb9c7defab6]: Commencement: S. 55(3) in force at 22.11.2014 for specified purposes by [S.I. 2014/3098](https://www.legislation.gov.uk/uksi/2014/3098), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/3098/article/2/a)
+[^c-6033b411d0b0d0840a954cb9c7defab6]: Commencement: S. 55(3) in force at 22.11.2014 for specified purposes by [S.I. 2014/3098](https://www.legislation.gov.uk/uksi/2014/3098), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/3098/article/2/a)
 
-[^key-e20324b4b7abea47de5b34c5e14508d0]: Commencement: S. 55(4) in force at 22.11.2014 by [S.I. 2014/3098](https://www.legislation.gov.uk/uksi/2014/3098), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/3098/article/2/b)
+[^c-e20324b4b7abea47de5b34c5e14508d0]: Commencement: S. 55(4) in force at 22.11.2014 by [S.I. 2014/3098](https://www.legislation.gov.uk/uksi/2014/3098), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/3098/article/2/b)
 
-[^key-47b010304a83be8295bd0c7b86613847]: Commencement: S. 55(5) in force at 25.6.2013 by [S.I. 2013/1042](https://www.legislation.gov.uk/uksi/2013/1042), [art. 4(f)](https://www.legislation.gov.uk/uksi/2013/1042/article/4/f)
+[^c-47b010304a83be8295bd0c7b86613847]: Commencement: S. 55(5) in force at 25.6.2013 by [S.I. 2013/1042](https://www.legislation.gov.uk/uksi/2013/1042), [art. 4(f)](https://www.legislation.gov.uk/uksi/2013/1042/article/4/f)
 
-[^key-467c595aded9993655314fe8c3b8bdc0]: Commencement: S. 55(6)-(13) in force at 25.6.2013 by [S.I. 2013/1042](https://www.legislation.gov.uk/uksi/2013/1042), [art. 4(g)](https://www.legislation.gov.uk/uksi/2013/1042/article/4/g)
+[^c-467c595aded9993655314fe8c3b8bdc0]: Commencement: S. 55(6)-(13) in force at 25.6.2013 by [S.I. 2013/1042](https://www.legislation.gov.uk/uksi/2013/1042), [art. 4(g)](https://www.legislation.gov.uk/uksi/2013/1042/article/4/g)
 
-[^key-7119b5772366a24ee34d870dfd0cb823]: Textual amendment: [S. 55(9)-(12)](https://www.legislation.gov.uk/ukpga/2013/22/section/55/9) repealed (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [arts. 2(2)(d)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/d), [22(3)](https://www.legislation.gov.uk/uksi/2018/46/article/22/3) (with [art. 22(2)](https://www.legislation.gov.uk/uksi/2018/46/article/22/2))
+[^c-7119b5772366a24ee34d870dfd0cb823]: Textual amendment: [S. 55(9)-(12)](https://www.legislation.gov.uk/ukpga/2013/22/section/55/9) repealed (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [arts. 2(2)(d)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/d), [22(3)](https://www.legislation.gov.uk/uksi/2018/46/article/22/3) (with [art. 22(2)](https://www.legislation.gov.uk/uksi/2018/46/article/22/2))
 
-[^key-56c188474e838496b1d49833d9822861]: Commencement: S. 55(14) in force at 25.6.2013 for specified purposes by [S.I. 2013/1042](https://www.legislation.gov.uk/uksi/2013/1042), [art. 4(h)](https://www.legislation.gov.uk/uksi/2013/1042/article/4/h)
+[^c-56c188474e838496b1d49833d9822861]: Commencement: S. 55(14) in force at 25.6.2013 for specified purposes by [S.I. 2013/1042](https://www.legislation.gov.uk/uksi/2013/1042), [art. 4(h)](https://www.legislation.gov.uk/uksi/2013/1042/article/4/h)
 
-[^key-5b009dc07dc4e102617781e016c3f116]: Commencement: S. 55(14) in force at 22.11.2014 for specified purposes by [S.I. 2014/3098](https://www.legislation.gov.uk/uksi/2014/3098), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/3098/article/2/c)
+[^c-5b009dc07dc4e102617781e016c3f116]: Commencement: S. 55(14) in force at 22.11.2014 for specified purposes by [S.I. 2014/3098](https://www.legislation.gov.uk/uksi/2014/3098), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/3098/article/2/c)

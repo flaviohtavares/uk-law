@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18.24. Content of intermediary’s report[^key-cfceccf5119e64b374d889aa37ff0182]
+## 18.24. Content of intermediary’s report[^c-cfceccf5119e64b374d889aa37ff0182]
 
 *Extent: E+W*
 
@@ -96,7 +96,7 @@ summary: ''
 
 ## Annotations
 
-[^key-cfceccf5119e64b374d889aa37ff0182]: Commencement: [Rule 18.24](https://www.legislation.gov.uk/uksi/2025/909/rule/18.24) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-cfceccf5119e64b374d889aa37ff0182]: Commencement: [Rule 18.24](https://www.legislation.gov.uk/uksi/2025/909/rule/18.24) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00456]: Footnote: [1999 c. 23](https://www.legislation.gov.uk/ukpga/1999/23).
 

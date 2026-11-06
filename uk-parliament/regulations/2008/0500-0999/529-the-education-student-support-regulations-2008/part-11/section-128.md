@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 128. Conversion of status – eligible distance learning students transferring to designated courses[^key-d1167fdcc6ccecc22120811a3d510fad]
+## 128. Conversion of status – eligible distance learning students transferring to designated courses[^c-d1167fdcc6ccecc22120811a3d510fad]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d1167fdcc6ccecc22120811a3d510fad]: Commencement: Reg. 128 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-d1167fdcc6ccecc22120811a3d510fad]: Commencement: Reg. 128 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

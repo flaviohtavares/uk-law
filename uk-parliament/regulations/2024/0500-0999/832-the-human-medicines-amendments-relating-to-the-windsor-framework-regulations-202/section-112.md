@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 112. Revocation of regulation 257A[^key-f478c7bb0fadb6cbc6ab8684a677237f]
+## 112. Revocation of regulation 257A[^c-f478c7bb0fadb6cbc6ab8684a677237f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Omit regulation 257A (packaging requirements: medicinal products required to bea
 
 ## Annotations
 
-[^key-f478c7bb0fadb6cbc6ab8684a677237f]: Commencement: [Reg. 112](https://www.legislation.gov.uk/uksi/2024/832/regulation/112) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-f478c7bb0fadb6cbc6ab8684a677237f]: Commencement: [Reg. 112](https://www.legislation.gov.uk/uksi/2024/832/regulation/112) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00119]: Footnote: Regulation 257A was inserted by [S.I. 2019/62](https://www.legislation.gov.uk/uksi/2019/62).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Commission Implementing Regulation (EU) No 1419/2013 concerning the recognition of producer organisations and inter-branch organisations, the extension of the rules of producer organisations and inter-branch organisations and the publication of trigger prices as provided for by Regulation (EU) No 1379/2013 of the European Parliament and of the Council on the common organisation of the markets in fishery and aquaculture products[^key-19c138281f25b4ebc3ed89fc3b03ff3e]
+## 25. Commission Implementing Regulation (EU) No 1419/2013 concerning the recognition of producer organisations and inter-branch organisations, the extension of the rules of producer organisations and inter-branch organisations and the publication of trigger prices as provided for by Regulation (EU) No 1379/2013 of the European Parliament and of the Council on the common organisation of the markets in fishery and aquaculture products[^c-19c138281f25b4ebc3ed89fc3b03ff3e]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-19c138281f25b4ebc3ed89fc3b03ff3e]: Commencement: Reg. 25 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1)
+[^c-19c138281f25b4ebc3ed89fc3b03ff3e]: Commencement: Reg. 25 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1)

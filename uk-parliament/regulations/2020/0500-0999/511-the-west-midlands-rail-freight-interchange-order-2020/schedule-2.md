@@ -74,7 +74,7 @@ The authorised development must not commence later than the expiration of 5 year
 - (a) rail infrastructure and rail terminal;
 - (b) embankments and mounds;
 - (c) hard landscaping, cycle tracks, footpaths, bridleways and towpaths;
-- (d) advertisements for which advertisement consent under the 2007 Regulations would be required were it not for the provisions of article 44(4)[^key-2d7c49d0bc3e42d2372cc0010a7a3798] of this Order;
+- (d) advertisements for which advertisement consent under the 2007 Regulations would be required were it not for the provisions of article 44(4)[^c-2d7c49d0bc3e42d2372cc0010a7a3798] of this Order;
 - (e) surface and foul drainage;
 - (f) bicycle, motorcycle and vehicle parking (including the location and quantum of electric charging points);
 - (g) built development design (including external materials and sustainable energy measures) and layout;
@@ -134,13 +134,13 @@ The authorised development must not commence later than the expiration of 5 year
 
 (2) No authorised development may commence until a scheme for the continued provision of access to the West Coast Main Line has been agreed by the local planning authority, in consultation with Network Rail. Such a scheme is to include the specification of and timings for Network Rail's temporary and permanent access to the West Coast Main Line and show how access to the West Coast Main line will be maintained at all times.
 
-(3) The authorised development is to be carried out in accordance with the details approved under sub-paragraph (2)[^key-305e7cb76d043983e16682e7d7787d02] to the satisfaction of the local planning authority in consultation with Network Rail.
+(3) The authorised development is to be carried out in accordance with the details approved under sub-paragraph (2)[^c-305e7cb76d043983e16682e7d7787d02] to the satisfaction of the local planning authority in consultation with Network Rail.
 
 #### 7. Construction hours
 
 (1) Subject to sub-paragraphs (2) and (3), construction and demolition works (which for the purposes of this requirement excludes archaeological investigations and any non-intrusive internal fit-out works but must include start up and shut down and deliveries) must not take place other than between 07:00 and 18:30 hours on weekdays and 08:00 and 13:00 hours on Saturdays, and not at all on Sunday nor on bank holidays in England and Wales (under section 1 of the Banking and Financial Dealings Act 1971 [^c24099291]), unless otherwise agreed in writing by the local planning authority.
 
-(2) Subject to sub-paragraph (3)[^key-1d0ba7e7204c3cdf40ef514f9cab8faa], the following working is permitted outside the construction and demolition works' hours specified in sub-paragraph (1)—
+(2) Subject to sub-paragraph (3)[^c-1d0ba7e7204c3cdf40ef514f9cab8faa], the following working is permitted outside the construction and demolition works' hours specified in sub-paragraph (1)—
 
 - (a) pre-planned construction works to highway or rail infrastructure requiring possessions where first notified to the local planning authority and local residents;
 - (b) emergency works; and
@@ -220,7 +220,7 @@ Demolition of the canal crossings (as identified on the development zone paramet
 **14.** (1) No part of the authorised development (with the exception of the highway works to the existing highways (the A5, the A449, Vicarage Road, Station Road and Station Drive) which are governed by Parts 2 and 3 of Schedule 13 (protective provisions)) may be brought into use until either—
 
 - (a) if no remediation measures or verification plan was required under requirement 13 (ground conditions – contamination risk) a statement from the undertaker, or their approved agent, must be provided to the local planning authority, stating that no previously unidentified contamination was discovered during the course of development; or
-- (b) if remediation measures and verification plan were agreed under sub-paragraphs (2)(a) or (3) of requirement 13 (ground conditions – contaminated risk)[^key-c20b61c611862fe8978008b2d2d70dfd], verification measures must be undertaken in line with the agreed verification plan for any works outlined in the remedial measures and a report showing the findings of the verification (a “verification report”) must be submitted to and approved in writing by the local planning authority.
+- (b) if remediation measures and verification plan were agreed under sub-paragraphs (2)(a) or (3) of requirement 13 (ground conditions – contaminated risk)[^c-c20b61c611862fe8978008b2d2d70dfd], verification measures must be undertaken in line with the agreed verification plan for any works outlined in the remedial measures and a report showing the findings of the verification (a “verification report”) must be submitted to and approved in writing by the local planning authority.
 
 (2) The verification report must—
 
@@ -454,7 +454,7 @@ In this Part of this Schedule—
 
 #### 43. Applications made for certain approvals
 
-(1) Where an application has been made to a discharging authority for any consent, agreement or approval required or contemplated under the requirements in [^key-8b573b3a55ebfccdfc95324e70bbf5e5]... this Schedule the discharging authority must give notice to the undertaker of its decision on the application before the end of the decision period.
+(1) Where an application has been made to a discharging authority for any consent, agreement or approval required or contemplated under the requirements in [^c-8b573b3a55ebfccdfc95324e70bbf5e5]... this Schedule the discharging authority must give notice to the undertaker of its decision on the application before the end of the decision period.
 
 (2) For the purposes of sub-paragraph (1), the decision period is—
 
@@ -527,21 +527,21 @@ unless within that period the undertaker agrees, in writing, that the fee is to 
 
 ## Annotations
 
-[^key-2d7c49d0bc3e42d2372cc0010a7a3798]: Textual amendment: Word in [Sch. 2 para. 4(2)(d)](https://www.legislation.gov.uk/uksi/2020/511/schedule/2/paragraph/4/2/d) substituted (21.10.2020) by [The West Midlands Rail Freight Interchange (Correction) Order 2020 (S.I. 2020/1163)](https://www.legislation.gov.uk/uksi/2020/1163), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1163/article/1), [2(10)(a)](https://www.legislation.gov.uk/uksi/2020/1163/article/2/10/a)
+[^c-2d7c49d0bc3e42d2372cc0010a7a3798]: Textual amendment: Word in [Sch. 2 para. 4(2)(d)](https://www.legislation.gov.uk/uksi/2020/511/schedule/2/paragraph/4/2/d) substituted (21.10.2020) by [The West Midlands Rail Freight Interchange (Correction) Order 2020 (S.I. 2020/1163)](https://www.legislation.gov.uk/uksi/2020/1163), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1163/article/1), [2(10)(a)](https://www.legislation.gov.uk/uksi/2020/1163/article/2/10/a)
 
-[^key-305e7cb76d043983e16682e7d7787d02]: Textual amendment: Words in [Sch. 2 para. 6(3)](https://www.legislation.gov.uk/uksi/2020/511/schedule/2/paragraph/6/3) inserted (21.10.2020) by [The West Midlands Rail Freight Interchange (Correction) Order 2020 (S.I. 2020/1163)](https://www.legislation.gov.uk/uksi/2020/1163), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1163/article/1), [2(10)(b)](https://www.legislation.gov.uk/uksi/2020/1163/article/2/10/b)
+[^c-305e7cb76d043983e16682e7d7787d02]: Textual amendment: Words in [Sch. 2 para. 6(3)](https://www.legislation.gov.uk/uksi/2020/511/schedule/2/paragraph/6/3) inserted (21.10.2020) by [The West Midlands Rail Freight Interchange (Correction) Order 2020 (S.I. 2020/1163)](https://www.legislation.gov.uk/uksi/2020/1163), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1163/article/1), [2(10)(b)](https://www.legislation.gov.uk/uksi/2020/1163/article/2/10/b)
 
 [^c24099291]: Marginal citation: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-1d0ba7e7204c3cdf40ef514f9cab8faa]: Textual amendment: Word in Sch. 2 para. 7(2) substituted (21.10.2020) by [The West Midlands Rail Freight Interchange (Correction) Order 2020 (S.I. 2020/1163)](https://www.legislation.gov.uk/uksi/2020/1163), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1163/article/1), [2(10)(c)](https://www.legislation.gov.uk/uksi/2020/1163/article/2/10/c)
+[^c-1d0ba7e7204c3cdf40ef514f9cab8faa]: Textual amendment: Word in Sch. 2 para. 7(2) substituted (21.10.2020) by [The West Midlands Rail Freight Interchange (Correction) Order 2020 (S.I. 2020/1163)](https://www.legislation.gov.uk/uksi/2020/1163), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1163/article/1), [2(10)(c)](https://www.legislation.gov.uk/uksi/2020/1163/article/2/10/c)
 
-[^key-c20b61c611862fe8978008b2d2d70dfd]: Textual amendment: Words in Sch. 2 para. 14(1)(b) substituted (21.10.2020) by [The West Midlands Rail Freight Interchange (Correction) Order 2020 (S.I. 2020/1163)](https://www.legislation.gov.uk/uksi/2020/1163), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1163/article/1), [2(10)(d)](https://www.legislation.gov.uk/uksi/2020/1163/article/2/10/d)
+[^c-c20b61c611862fe8978008b2d2d70dfd]: Textual amendment: Words in Sch. 2 para. 14(1)(b) substituted (21.10.2020) by [The West Midlands Rail Freight Interchange (Correction) Order 2020 (S.I. 2020/1163)](https://www.legislation.gov.uk/uksi/2020/1163), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1163/article/1), [2(10)(d)](https://www.legislation.gov.uk/uksi/2020/1163/article/2/10/d)
 
 [^c24099301]: Marginal citation: [2010 c. 29](https://www.legislation.gov.uk/ukpga/2010/29).
 
 [^c24099311]: Marginal citation: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-8b573b3a55ebfccdfc95324e70bbf5e5]: Textual amendment: Words in [Sch. 2 para. 43](https://www.legislation.gov.uk/uksi/2020/511/schedule/2/paragraph/43) omitted (21.10.2020) by virtue of [The West Midlands Rail Freight Interchange (Correction) Order 2020 (S.I. 2020/1163)](https://www.legislation.gov.uk/uksi/2020/1163), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1163/article/1), [2(11)](https://www.legislation.gov.uk/uksi/2020/1163/article/2/11)
+[^c-8b573b3a55ebfccdfc95324e70bbf5e5]: Textual amendment: Words in [Sch. 2 para. 43](https://www.legislation.gov.uk/uksi/2020/511/schedule/2/paragraph/43) omitted (21.10.2020) by virtue of [The West Midlands Rail Freight Interchange (Correction) Order 2020 (S.I. 2020/1163)](https://www.legislation.gov.uk/uksi/2020/1163), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1163/article/1), [2(11)](https://www.legislation.gov.uk/uksi/2020/1163/article/2/11)
 
 [^c24099321]: Marginal citation: The appointment is made at the discretion of the Secretary of State, and such appointment may be made by the Planning Inspectorate on behalf of the Secretary of State.
 

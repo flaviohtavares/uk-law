@@ -25,7 +25,7 @@ summary: ''
 (2) In subsection (1) “**the cap**” means the total of the amounts—
 
 - (a) paid up, otherwise than by the receipt of new consideration, on shares representing the bonus share capital, and
-- (b) not falling to be treated as [^key-29fcadf978ba5742b3aefcbdd654b877]... distributions.
+- (b) not falling to be treated as [^c-29fcadf978ba5742b3aefcbdd654b877]... distributions.
 
 (3) In subsection (1) “**affected distribution**” means however much of a distribution made in respect of shares representing the bonus share capital—
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-29fcadf978ba5742b3aefcbdd654b877]: Textual amendment: Word in [s. 1027(2)(b)](https://www.legislation.gov.uk/ukpga/2010/4/section/1027/2/b) omitted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 36](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/36)
+[^c-29fcadf978ba5742b3aefcbdd654b877]: Textual amendment: Word in [s. 1027(2)(b)](https://www.legislation.gov.uk/ukpga/2010/4/section/1027/2/b) omitted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 36](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/36)

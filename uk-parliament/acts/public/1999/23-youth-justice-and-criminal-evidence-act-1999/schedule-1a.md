@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1A — Relevant offences for the purposes of section 17[^key-710ec2281401ef35d2fe6b35bb2d062f]
+## SCHEDULE 1A — Relevant offences for the purposes of section 17[^c-710ec2281401ef35d2fe6b35bb2d062f]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,7 +50,7 @@ summary: ''
 
 **9.** An offence under section 1 of the Prevention of Crime Act 1953 (having an offensive weapon in a public place).
 
-**9A.**[^key-4a540cfbc648cd79f119c003b77c93b1] An offence under section 1A of that Act (threatening with offensive weapon in public).
+**9A.**[^c-4a540cfbc648cd79f119c003b77c93b1] An offence under section 1A of that Act (threatening with offensive weapon in public).
 
 ### [Firearms Act 1968 (c. 27)](https://www.legislation.gov.uk/ukpga/1968/27)
 
@@ -90,7 +90,7 @@ summary: ''
 
 **26.** An offence under section 139A of that Act (having article with blade or point (or offensive weapon) on school premises).
 
-**26A.**[^key-4bac99d4d248caf7c4b45c56fe333596] An offence under section 139AA of that Act (threatening with article with blade or point or offensive weapon).
+**26A.**[^c-4bac99d4d248caf7c4b45c56fe333596] An offence under section 139AA of that Act (threatening with article with blade or point or offensive weapon).
 
 ### [Violent Crime Reduction Act 2006 (c. 38)](https://www.legislation.gov.uk/ukpga/2006/38)
 
@@ -100,7 +100,7 @@ summary: ''
 
 **29.** An offence under section 36 of that Act (manufacture, import and sale of realistic imitation firearms).
 
-### Serious Crime Act 2015[^key-89cf0cd9fe4ce6a8a9faec190b20f559]
+### Serious Crime Act 2015[^c-89cf0cd9fe4ce6a8a9faec190b20f559]
 
 **29A.** An offence under section 75A of the Serious Crime Act 2015 (strangulation or suffocation) in a case where it is alleged that—
 
@@ -109,7 +109,7 @@ summary: ''
 
 ### General
 
-**30.** A reference in any of paragraphs 1 to 8 and 29A[^key-a70dfb7fa88ffa9640e1bc7991f3dd61] to an offence (“offence A”) includes—
+**30.** A reference in any of paragraphs 1 to 8 and 29A[^c-a70dfb7fa88ffa9640e1bc7991f3dd61] to an offence (“offence A”) includes—
 
 - (a) a reference to an attempt to commit offence A in a case where it is alleged that it was attempted to commit offence A in the manner or circumstances described in that paragraph,
 - (b) a reference to a conspiracy to commit offence A in a case where it is alleged that the conspiracy was to commit offence A in the manner or circumstances described in that paragraph,
@@ -132,12 +132,12 @@ summary: ''
 
 ## Annotations
 
-[^key-710ec2281401ef35d2fe6b35bb2d062f]: Textual amendment: Sch. 1A inserted (27.6.2011) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [ss. 99(4)](https://www.legislation.gov.uk/ukpga/2009/25/section/99/4), [182(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/5), [Sch. 14](https://www.legislation.gov.uk/ukpga/2009/25/schedule/14) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180), [Sch. 22 paras. 23](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/23), [24](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/24)); [S.I. 2011/1452](https://www.legislation.gov.uk/uksi/2011/1452), [art. 2(a)](https://www.legislation.gov.uk/uksi/2011/1452/article/2/a)
+[^c-710ec2281401ef35d2fe6b35bb2d062f]: Textual amendment: Sch. 1A inserted (27.6.2011) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [ss. 99(4)](https://www.legislation.gov.uk/ukpga/2009/25/section/99/4), [182(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/5), [Sch. 14](https://www.legislation.gov.uk/ukpga/2009/25/schedule/14) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180), [Sch. 22 paras. 23](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/23), [24](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/24)); [S.I. 2011/1452](https://www.legislation.gov.uk/uksi/2011/1452), [art. 2(a)](https://www.legislation.gov.uk/uksi/2011/1452/article/2/a)
 
-[^key-4a540cfbc648cd79f119c003b77c93b1]: Textual amendment: Sch. 1A para. 9A inserted (3.12.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 26 para. 8(2)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/26/paragraph/8/2); [S.I. 2012/2770](https://www.legislation.gov.uk/uksi/2012/2770), [art. 2(f)](https://www.legislation.gov.uk/uksi/2012/2770/article/2/f)
+[^c-4a540cfbc648cd79f119c003b77c93b1]: Textual amendment: Sch. 1A para. 9A inserted (3.12.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 26 para. 8(2)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/26/paragraph/8/2); [S.I. 2012/2770](https://www.legislation.gov.uk/uksi/2012/2770), [art. 2(f)](https://www.legislation.gov.uk/uksi/2012/2770/article/2/f)
 
-[^key-4bac99d4d248caf7c4b45c56fe333596]: Textual amendment: Sch. 1A para. 26A inserted (3.12.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 26 para. 8(3)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/26/paragraph/8/3); [S.I. 2012/2770](https://www.legislation.gov.uk/uksi/2012/2770), [art. 2(f)](https://www.legislation.gov.uk/uksi/2012/2770/article/2/f)
+[^c-4bac99d4d248caf7c4b45c56fe333596]: Textual amendment: Sch. 1A para. 26A inserted (3.12.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 26 para. 8(3)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/26/paragraph/8/3); [S.I. 2012/2770](https://www.legislation.gov.uk/uksi/2012/2770), [art. 2(f)](https://www.legislation.gov.uk/uksi/2012/2770/article/2/f)
 
-[^key-89cf0cd9fe4ce6a8a9faec190b20f559]: Textual amendment: [Sch. 1A para. 29A](https://www.legislation.gov.uk/ukpga/1999/23/schedule/1A/paragraph/29A) and cross-heading inserted (7.6.2022) by [Domestic Abuse Act 2021 (c. 17)](https://www.legislation.gov.uk/ukpga/2021/17), [s. 90(6)](https://www.legislation.gov.uk/ukpga/2021/17/section/90/6), [Sch. 2 para. 5(2)](https://www.legislation.gov.uk/ukpga/2021/17/schedule/2/paragraph/5/2); [S.I. 2022/553](https://www.legislation.gov.uk/uksi/2022/553), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/553/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2022/553/regulation/3/b)
+[^c-89cf0cd9fe4ce6a8a9faec190b20f559]: Textual amendment: [Sch. 1A para. 29A](https://www.legislation.gov.uk/ukpga/1999/23/schedule/1A/paragraph/29A) and cross-heading inserted (7.6.2022) by [Domestic Abuse Act 2021 (c. 17)](https://www.legislation.gov.uk/ukpga/2021/17), [s. 90(6)](https://www.legislation.gov.uk/ukpga/2021/17/section/90/6), [Sch. 2 para. 5(2)](https://www.legislation.gov.uk/ukpga/2021/17/schedule/2/paragraph/5/2); [S.I. 2022/553](https://www.legislation.gov.uk/uksi/2022/553), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/553/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2022/553/regulation/3/b)
 
-[^key-a70dfb7fa88ffa9640e1bc7991f3dd61]: Textual amendment: Words in [Sch. 1A para. 30](https://www.legislation.gov.uk/ukpga/1999/23/schedule/1A/paragraph/30) inserted (7.6.2022) by [Domestic Abuse Act 2021 (c. 17)](https://www.legislation.gov.uk/ukpga/2021/17), [s. 90(6)](https://www.legislation.gov.uk/ukpga/2021/17/section/90/6), [Sch. 2 para. 5(3)](https://www.legislation.gov.uk/ukpga/2021/17/schedule/2/paragraph/5/3); [S.I. 2022/553](https://www.legislation.gov.uk/uksi/2022/553), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/553/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2022/553/regulation/3/b)
+[^c-a70dfb7fa88ffa9640e1bc7991f3dd61]: Textual amendment: Words in [Sch. 1A para. 30](https://www.legislation.gov.uk/ukpga/1999/23/schedule/1A/paragraph/30) inserted (7.6.2022) by [Domestic Abuse Act 2021 (c. 17)](https://www.legislation.gov.uk/ukpga/2021/17), [s. 90(6)](https://www.legislation.gov.uk/ukpga/2021/17/section/90/6), [Sch. 2 para. 5(3)](https://www.legislation.gov.uk/ukpga/2021/17/schedule/2/paragraph/5/3); [S.I. 2022/553](https://www.legislation.gov.uk/uksi/2022/553), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/553/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2022/553/regulation/3/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 165. Patient and Client Council (Membership and Procedure) Regulations (Northern Ireland) 2009[^key-4db280d8689646ce3cb38d00c06fdd34]
+## 165. Patient and Client Council (Membership and Procedure) Regulations (Northern Ireland) 2009[^c-4db280d8689646ce3cb38d00c06fdd34]
 
 *Extent: N.I.*
 
@@ -24,6 +24,6 @@ In regulation 9 of the Patient and Client Council (Membership and Procedure) Reg
 
 ## Annotations
 
-[^key-4db280d8689646ce3cb38d00c06fdd34]: Commencement: Reg. 165 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-4db280d8689646ce3cb38d00c06fdd34]: Commencement: Reg. 165 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00274]: Footnote: [S.R. (N.I.) 2009/98](https://www.legislation.gov.uk/nisr/2009/98).

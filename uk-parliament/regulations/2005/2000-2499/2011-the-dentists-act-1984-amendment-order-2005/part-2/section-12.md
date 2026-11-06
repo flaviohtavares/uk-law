@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Substitution of section 24[^key-bbd4ff243c2384f0a88c9d880c80aef3]
+## 12. Substitution of section 24[^c-bbd4ff243c2384f0a88c9d880c80aef3]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ For section 24 substitute—
 
 ## Annotations
 
-[^key-bbd4ff243c2384f0a88c9d880c80aef3]: Commencement: Art. 12 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
+[^c-bbd4ff243c2384f0a88c9d880c80aef3]: Commencement: Art. 12 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)

@@ -31,7 +31,7 @@ summary: ''
 
 HOUSING
 
-The Housing Benefit (General) (Amendment No. 4) Regulations (Northern Ireland) 2003 (revoked)[^key-e1a535714a1bab7773389f1228422385]
+The Housing Benefit (General) (Amendment No. 4) Regulations (Northern Ireland) 2003 (revoked)[^c-e1a535714a1bab7773389f1228422385]
 
 Made
 
@@ -39,22 +39,22 @@ Made
 
 Coming into operation in accordance with regulation 1(1)
 
-[^key-e1a535714a1bab7773389f1228422385]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e1a535714a1bab7773389f1228422385]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-e1a535714a1bab7773389f1228422385]
+## 1. Citation, commencement and interpretation[^c-e1a535714a1bab7773389f1228422385]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Housing Benefit Regulations[^key-e1a535714a1bab7773389f1228422385]
+## 2. Amendment of the Housing Benefit Regulations[^c-e1a535714a1bab7773389f1228422385]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e1a535714a1bab7773389f1228422385]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e1a535714a1bab7773389f1228422385]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e1a535714a1bab7773389f1228422385]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e1a535714a1bab7773389f1228422385]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e1a535714a1bab7773389f1228422385]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/187) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-e1a535714a1bab7773389f1228422385]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/187) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))

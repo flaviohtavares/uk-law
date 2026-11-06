@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Registration of external orders[^key-e809962e491615ef8104c5014317a85a]
+## 22. Registration of external orders[^c-e809962e491615ef8104c5014317a85a]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e809962e491615ef8104c5014317a85a]: Commencement: [Art. 22](https://www.legislation.gov.uk/uksi/2005/3181/article/22) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-e809962e491615ef8104c5014317a85a]: Commencement: [Art. 22](https://www.legislation.gov.uk/uksi/2005/3181/article/22) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

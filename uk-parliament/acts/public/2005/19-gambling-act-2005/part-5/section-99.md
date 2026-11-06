@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. Mandatory conditions of lottery operating licence[^key-e9ddc5659854c460d25a943b88eb8f75][^key-db6a924b6c60dc1ce719f4a0f0ef546f][^key-77c4d7d8259a8c8d885a372c1ce7e4c8][^key-901a843886bbe827e9e9e710bdc46ccd][^key-e1f6e585bac667309e250f830e864ec8][^key-db6a924b6c60dc1ce719f4a0f0ef546f][^key-e1f6e585bac667309e250f830e864ec8]
+## 99. Mandatory conditions of lottery operating licence[^c-e9ddc5659854c460d25a943b88eb8f75][^c-db6a924b6c60dc1ce719f4a0f0ef546f][^c-77c4d7d8259a8c8d885a372c1ce7e4c8][^c-901a843886bbe827e9e9e710bdc46ccd][^c-e1f6e585bac667309e250f830e864ec8][^c-db6a924b6c60dc1ce719f4a0f0ef546f][^c-e1f6e585bac667309e250f830e864ec8]
 
 *Extent: E+W+S*
 
@@ -29,8 +29,8 @@ summary: ''
 
 (3) The second requirement is that—
 
-- (a) the proceeds of any lottery promoted in reliance on the licence may not exceed £5,000,000[^key-f0b39f9d2b697a3f2eda43d1ca61ef5c], and
-- (b) the aggregate of the proceeds of lotteries promoted wholly or partly in a calendar year in reliance on the licence may not exceed £50,000,000[^key-fbe12e284f37d9d9f902d5a2d8ea609d].
+- (a) the proceeds of any lottery promoted in reliance on the licence may not exceed £5,000,000[^c-f0b39f9d2b697a3f2eda43d1ca61ef5c], and
+- (b) the aggregate of the proceeds of lotteries promoted wholly or partly in a calendar year in reliance on the licence may not exceed £50,000,000[^c-fbe12e284f37d9d9f902d5a2d8ea609d].
 
 (4) The third requirement is that it must not be possible for the purchaser of a ticket in a lottery promoted in reliance on the licence to win by virtue of that ticket (whether in money, money's worth, or partly the one and partly the other) more than—
 
@@ -73,16 +73,16 @@ the conditions specified in paragraph (a) above shall, by virtue of this subsect
 
 ## Annotations
 
-[^key-e9ddc5659854c460d25a943b88eb8f75]: Commencement: S. 99 in force at 1.1.2007 by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/3272/schedule/1) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4))
+[^c-e9ddc5659854c460d25a943b88eb8f75]: Commencement: S. 99 in force at 1.1.2007 by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/3272/schedule/1) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4))
 
-[^key-db6a924b6c60dc1ce719f4a0f0ef546f]: Modification: Pt. 5 modified (1.1.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) Order 2006 (S.I. 2006/3272)](https://www.legislation.gov.uk/uksi/2006/3272), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1), [Sch. 4 para. 72](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/72)
+[^c-db6a924b6c60dc1ce719f4a0f0ef546f]: Modification: Pt. 5 modified (1.1.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) Order 2006 (S.I. 2006/3272)](https://www.legislation.gov.uk/uksi/2006/3272), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1), [Sch. 4 para. 72](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/72)
 
-[^key-77c4d7d8259a8c8d885a372c1ce7e4c8]: Modification: S. 99 modified (1.1.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) Order 2006 (S.I. 2006/3272)](https://www.legislation.gov.uk/uksi/2006/3272), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1), [Sch. 4 para. 73(4)-(7)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/73/4)
+[^c-77c4d7d8259a8c8d885a372c1ce7e4c8]: Modification: S. 99 modified (1.1.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) Order 2006 (S.I. 2006/3272)](https://www.legislation.gov.uk/uksi/2006/3272), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1), [Sch. 4 para. 73(4)-(7)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/73/4)
 
-[^key-901a843886bbe827e9e9e710bdc46ccd]: Modification: Ss. 89-99 excluded (1.1.2007) by [Gambling (Personal Licences) (Modification of Part 5 of the Gambling Act 2005) Regulations 2006 (S.I. 2006/3267)](https://www.legislation.gov.uk/uksi/2006/3267), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/3267/regulation/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2006/3267/regulation/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2006/3267/schedule) Table 1
+[^c-901a843886bbe827e9e9e710bdc46ccd]: Modification: Ss. 89-99 excluded (1.1.2007) by [Gambling (Personal Licences) (Modification of Part 5 of the Gambling Act 2005) Regulations 2006 (S.I. 2006/3267)](https://www.legislation.gov.uk/uksi/2006/3267), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/3267/regulation/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2006/3267/regulation/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2006/3267/schedule) Table 1
 
-[^key-e1f6e585bac667309e250f830e864ec8]: Modification: Pt. 5 modified (1.1.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) Order 2006 (S.I. 2006/3272)](https://www.legislation.gov.uk/uksi/2006/3272), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1), [Sch. 4 para. 50](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/50)
+[^c-e1f6e585bac667309e250f830e864ec8]: Modification: Pt. 5 modified (1.1.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) Order 2006 (S.I. 2006/3272)](https://www.legislation.gov.uk/uksi/2006/3272), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1), [Sch. 4 para. 50](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/50)
 
-[^key-f0b39f9d2b697a3f2eda43d1ca61ef5c]: Textual amendment: Sum in s. 99(3)(a) substituted (7.4.2020) by [The Gambling Act 2005 (Variation of Monetary Limits) Order 2020 (S.I. 2020/307)](https://www.legislation.gov.uk/uksi/2020/307), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/307/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/307/article/2/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2020/307/article/3))
+[^c-f0b39f9d2b697a3f2eda43d1ca61ef5c]: Textual amendment: Sum in s. 99(3)(a) substituted (7.4.2020) by [The Gambling Act 2005 (Variation of Monetary Limits) Order 2020 (S.I. 2020/307)](https://www.legislation.gov.uk/uksi/2020/307), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/307/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/307/article/2/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2020/307/article/3))
 
-[^key-fbe12e284f37d9d9f902d5a2d8ea609d]: Textual amendment: Sum in s. 99(3)(b) substituted (7.4.2020) by [The Gambling Act 2005 (Variation of Monetary Limits) Order 2020 (S.I. 2020/307)](https://www.legislation.gov.uk/uksi/2020/307), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/307/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2020/307/article/2/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2020/307/article/3))
+[^c-fbe12e284f37d9d9f902d5a2d8ea609d]: Textual amendment: Sum in s. 99(3)(b) substituted (7.4.2020) by [The Gambling Act 2005 (Variation of Monetary Limits) Order 2020 (S.I. 2020/307)](https://www.legislation.gov.uk/uksi/2020/307), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/307/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2020/307/article/2/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2020/307/article/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Amendment of the Animal Feed (Amendment) (EU Exit) Regulations 2019[^key-c1b06894dba781864c3704e095dcded0]
+## 12. Amendment of the Animal Feed (Amendment) (EU Exit) Regulations 2019[^c-c1b06894dba781864c3704e095dcded0]
 
 *Extent: E+W+S*
 
@@ -272,6 +272,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c1b06894dba781864c3704e095dcded0]: Commencement: Reg. 12 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2)
+[^c-c1b06894dba781864c3704e095dcded0]: Commencement: Reg. 12 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2)
 
 [^c24375491]: Marginal citation: [S.I. 2019/654](https://www.legislation.gov.uk/uksi/2019/654).

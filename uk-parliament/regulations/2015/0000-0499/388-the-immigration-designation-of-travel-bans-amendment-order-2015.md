@@ -32,7 +32,7 @@ summary: ''
 
 Immigration
 
-The Immigration (Designation of Travel Bans) (Amendment) Order 2015 (revoked)[^key-3a1c6633f663256ba299a6528f74341d]
+The Immigration (Designation of Travel Bans) (Amendment) Order 2015 (revoked)[^c-3a1c6633f663256ba299a6528f74341d]
 
 Made
 
@@ -46,37 +46,37 @@ Coming into force
 
 6th March 2015
 
-[^key-3a1c6633f663256ba299a6528f74341d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3a1c6633f663256ba299a6528f74341d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-3a1c6633f663256ba299a6528f74341d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-3a1c6633f663256ba299a6528f74341d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-3a1c6633f663256ba299a6528f74341d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-3a1c6633f663256ba299a6528f74341d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-3a1c6633f663256ba299a6528f74341d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-3a1c6633f663256ba299a6528f74341d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3a1c6633f663256ba299a6528f74341d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3a1c6633f663256ba299a6528f74341d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1[^key-3a1c6633f663256ba299a6528f74341d]
+## SCHEDULE 1[^c-3a1c6633f663256ba299a6528f74341d]
 
 Article 2
 
-> **SCHEDULE — Designated Instruments[^key-3a1c6633f663256ba299a6528f74341d]**
+> **SCHEDULE — Designated Instruments[^c-3a1c6633f663256ba299a6528f74341d]**
 >
 > Article 2
 >
-> **PART 1 — Resolutions of the Security Council of the United Nations[^key-3a1c6633f663256ba299a6528f74341d]**
+> **PART 1 — Resolutions of the Security Council of the United Nations[^c-3a1c6633f663256ba299a6528f74341d]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **PART 2 — Instruments made by the Council of the European Union[^key-3a1c6633f663256ba299a6528f74341d]**
+> **PART 2 — Instruments made by the Council of the European Union[^c-3a1c6633f663256ba299a6528f74341d]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Revocation[^key-3a1c6633f663256ba299a6528f74341d]
+## SCHEDULE 2 — Revocation[^c-3a1c6633f663256ba299a6528f74341d]
 
 Article 3
 
@@ -84,8 +84,8 @@ Article 3
 
 **May not be in force at this date. Check the source.**
 
-[^key-3a1c6633f663256ba299a6528f74341d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3a1c6633f663256ba299a6528f74341d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3a1c6633f663256ba299a6528f74341d]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2015/388) revoked (21.12.2015) by [The Immigration (Designation of Travel Bans) (Amendment No. 2) Order 2015 (S.I. 2015/1994)](https://www.legislation.gov.uk/uksi/2015/1994), [art. 3](https://www.legislation.gov.uk/uksi/2015/1994/article/3)
+[^c-3a1c6633f663256ba299a6528f74341d]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2015/388) revoked (21.12.2015) by [The Immigration (Designation of Travel Bans) (Amendment No. 2) Order 2015 (S.I. 2015/1994)](https://www.legislation.gov.uk/uksi/2015/1994), [art. 3](https://www.legislation.gov.uk/uksi/2015/1994/article/3)

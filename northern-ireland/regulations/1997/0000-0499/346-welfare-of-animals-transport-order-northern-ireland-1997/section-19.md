@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 19. Revocations[^key-d1ae4f96933692aaf165ef07b7b7c02c]
+## 19. Revocations[^c-d1ae4f96933692aaf165ef07b7b7c02c]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ The Orders specified in Schedule 12 are hereby revoked.
 
 ## Annotations
 
-[^key-d1ae4f96933692aaf165ef07b7b7c02c]: Commencement: Art. 19 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
+[^c-d1ae4f96933692aaf165ef07b7b7c02c]: Commencement: Art. 19 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)

@@ -22,7 +22,7 @@ summary: ''
 
 (1) The statement mentioned in section 2(4)(c) that an invention has been displayed at an international exhibition must be in writing.
 
-(2) The prescribed period for the purposes of section 2(4)(c) is four months beginning immediately after[^key-482fb95b035572dd0e583d75bad99fae] the date of filing.
+(2) The prescribed period for the purposes of section 2(4)(c) is four months beginning immediately after[^c-482fb95b035572dd0e583d75bad99fae] the date of filing.
 
 (3) But paragraphs (1) and (2) do not apply where rule 67(2) applies.
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-482fb95b035572dd0e583d75bad99fae]: Textual amendment: Words in [rule 5(2)](https://www.legislation.gov.uk/uksi/2007/3291/rule/5/2) substituted (1.10.2011) by [The Patents (Amendment) Rules 2011 (S.I. 2011/2052)](https://www.legislation.gov.uk/uksi/2011/2052), [rules 1](https://www.legislation.gov.uk/uksi/2011/2052/rule/1), [3](https://www.legislation.gov.uk/uksi/2011/2052/rule/3), [Sch.](https://www.legislation.gov.uk/uksi/2011/2052/schedule) (with [rule 4](https://www.legislation.gov.uk/uksi/2011/2052/rule/4))
+[^c-482fb95b035572dd0e583d75bad99fae]: Textual amendment: Words in [rule 5(2)](https://www.legislation.gov.uk/uksi/2007/3291/rule/5/2) substituted (1.10.2011) by [The Patents (Amendment) Rules 2011 (S.I. 2011/2052)](https://www.legislation.gov.uk/uksi/2011/2052), [rules 1](https://www.legislation.gov.uk/uksi/2011/2052/rule/1), [3](https://www.legislation.gov.uk/uksi/2011/2052/rule/3), [Sch.](https://www.legislation.gov.uk/uksi/2011/2052/schedule) (with [rule 4](https://www.legislation.gov.uk/uksi/2011/2052/rule/4))

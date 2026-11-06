@@ -20,14 +20,14 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-612aa2d9605f0919dd13bf293fd7074f] There shall be a body corporate to be known as the Civil Nuclear Police Authority (“**the Police Authority**”).
+(1)[^c-612aa2d9605f0919dd13bf293fd7074f] There shall be a body corporate to be known as the Civil Nuclear Police Authority (“**the Police Authority**”).
 
-(2)[^key-0a8676a0cd270e6bef6b80e566165b27][^key-76d86977ee7235802dc23e092f8e87d9] Schedule 10 (which makes further provision about the Police Authority) has effect.
+(2)[^c-0a8676a0cd270e6bef6b80e566165b27][^c-76d86977ee7235802dc23e092f8e87d9] Schedule 10 (which makes further provision about the Police Authority) has effect.
 
 ## Annotations
 
-[^key-612aa2d9605f0919dd13bf293fd7074f]: Commencement: [S. 51(1)](https://www.legislation.gov.uk/ukpga/2004/20/section/51/1) in force at 1.3.2005 by [S.I. 2005/442](https://www.legislation.gov.uk/uksi/2005/442), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/442/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/442/schedule/1)
+[^c-612aa2d9605f0919dd13bf293fd7074f]: Commencement: [S. 51(1)](https://www.legislation.gov.uk/ukpga/2004/20/section/51/1) in force at 1.3.2005 by [S.I. 2005/442](https://www.legislation.gov.uk/uksi/2005/442), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/442/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/442/schedule/1)
 
-[^key-0a8676a0cd270e6bef6b80e566165b27]: Commencement: [S. 51(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/51/2) in force at 1.3.2005 for specified purposes by [S.I. 2005/442](https://www.legislation.gov.uk/uksi/2005/442), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/442/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/442/schedule/1)
+[^c-0a8676a0cd270e6bef6b80e566165b27]: Commencement: [S. 51(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/51/2) in force at 1.3.2005 for specified purposes by [S.I. 2005/442](https://www.legislation.gov.uk/uksi/2005/442), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/442/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/442/schedule/1)
 
-[^key-76d86977ee7235802dc23e092f8e87d9]: Commencement: [S. 51(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/51/2) in force at 1.4.2005 for specified purposes by [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/877/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/877/schedule/1)
+[^c-76d86977ee7235802dc23e092f8e87d9]: Commencement: [S. 51(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/51/2) in force at 1.4.2005 for specified purposes by [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/877/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/877/schedule/1)

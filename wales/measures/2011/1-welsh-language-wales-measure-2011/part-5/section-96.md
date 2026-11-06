@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 96. Powers of Tribunal on appeal[^key-bbf4e2eda7212adcf7e8de9c5903435b]
+## 96. Powers of Tribunal on appeal[^c-bbf4e2eda7212adcf7e8de9c5903435b]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bbf4e2eda7212adcf7e8de9c5903435b]: Commencement: [S. 96](https://www.legislation.gov.uk/mwa/2011/1/section/96) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(c)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/c)
+[^c-bbf4e2eda7212adcf7e8de9c5903435b]: Commencement: [S. 96](https://www.legislation.gov.uk/mwa/2011/1/section/96) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(c)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/c)

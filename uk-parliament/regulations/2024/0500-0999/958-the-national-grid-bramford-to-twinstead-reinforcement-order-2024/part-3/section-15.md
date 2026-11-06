@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Temporary closure of streets and public rights of way[^key-f3a19754038c659a3e0c9fe2da1bf637]
+## 15. Temporary closure of streets and public rights of way[^c-f3a19754038c659a3e0c9fe2da1bf637]
 
 *Extent: E+W*
 
@@ -36,26 +36,26 @@ summary: ''
 - (a) any street or public right of way specified as mentioned in paragraph (4) without first consulting the street authority; or
 - (b) any other street or public right of way without the consent of the street authority which may attach reasonable conditions to any consent.
 
-(6) Where the undertaker provides a temporary diversion under paragraph (4), the temporary alternative route is not required to be of a higher standard than the temporarily closed street or public right of way in columns (1) and (2) of Part 1 of Schedule 7[^key-6e51bc77a12884f8406cd59351e084f1] (streets or public rights of way to be temporarily closed).
+(6) Where the undertaker provides a temporary diversion under paragraph (4), the temporary alternative route is not required to be of a higher standard than the temporarily closed street or public right of way in columns (1) and (2) of Part 1 of Schedule 7[^c-6e51bc77a12884f8406cd59351e084f1] (streets or public rights of way to be temporarily closed).
 
 (7) Prior to the reopening of any street or public right of way temporarily closed, altered or diverted under paragraph (4), the undertaker must remove all temporary works and restore the street or public right of way to the reasonable satisfaction of the street authority.
 
 (8) Any person who suffers loss by the suspension of any private right of way under this article is entitled to compensation to be determined, in case of dispute, under Part 1 of the 1961 Act.
 
-(9) If a street authority which receives an application for consent under paragraph (2) or (5)(b)[^key-356e9d2749a4c29d64f6e4936517d4b3] fails to notify the undertaker of its decision before the end of the period of 35 days (or such other period as agreed by the street authority and the undertaker) beginning with the date on which the application was received, it is deemed to have granted consent.
+(9) If a street authority which receives an application for consent under paragraph (2) or (5)(b)[^c-356e9d2749a4c29d64f6e4936517d4b3] fails to notify the undertaker of its decision before the end of the period of 35 days (or such other period as agreed by the street authority and the undertaker) beginning with the date on which the application was received, it is deemed to have granted consent.
 
-(10) Any application for consent under paragraph (2) or (5)(b)[^key-6145995d6bc5d27c7d9e618c23364b23] must include a statement that the provisions of paragraph (9) apply to that application.
+(10) Any application for consent under paragraph (2) or (5)(b)[^c-6145995d6bc5d27c7d9e618c23364b23] must include a statement that the provisions of paragraph (9) apply to that application.
 
-(11) If an application for consent under paragraph (2) or (5)(b)[^key-cb2394872b72fe387c3ae7bd725331ac] does not include the statement required under paragraph (10), then the provisions of paragraph (9) will not apply to that application.
+(11) If an application for consent under paragraph (2) or (5)(b)[^c-cb2394872b72fe387c3ae7bd725331ac] does not include the statement required under paragraph (10), then the provisions of paragraph (9) will not apply to that application.
 
 ## Annotations
 
-[^key-f3a19754038c659a3e0c9fe2da1bf637]: Commencement: Art. 15 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-f3a19754038c659a3e0c9fe2da1bf637]: Commencement: Art. 15 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
 
-[^key-6e51bc77a12884f8406cd59351e084f1]: Textual amendment: Words in [art. 15(6)](https://www.legislation.gov.uk/uksi/2024/958/article/15/6) substituted (9.4.2025) by [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1
+[^c-6e51bc77a12884f8406cd59351e084f1]: Textual amendment: Words in [art. 15(6)](https://www.legislation.gov.uk/uksi/2024/958/article/15/6) substituted (9.4.2025) by [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1
 
-[^key-356e9d2749a4c29d64f6e4936517d4b3]: Textual amendment: Words in [art. 15(9)](https://www.legislation.gov.uk/uksi/2024/958/article/15/9) substituted (9.4.2025) by [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1
+[^c-356e9d2749a4c29d64f6e4936517d4b3]: Textual amendment: Words in [art. 15(9)](https://www.legislation.gov.uk/uksi/2024/958/article/15/9) substituted (9.4.2025) by [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1
 
-[^key-6145995d6bc5d27c7d9e618c23364b23]: Textual amendment: Words in [art. 15(10)](https://www.legislation.gov.uk/uksi/2024/958/article/15/10) substituted (9.4.2025) by [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1
+[^c-6145995d6bc5d27c7d9e618c23364b23]: Textual amendment: Words in [art. 15(10)](https://www.legislation.gov.uk/uksi/2024/958/article/15/10) substituted (9.4.2025) by [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1
 
-[^key-cb2394872b72fe387c3ae7bd725331ac]: Textual amendment: Words in [art. 15(11)](https://www.legislation.gov.uk/uksi/2024/958/article/15/11) substituted (9.4.2025) by [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1
+[^c-cb2394872b72fe387c3ae7bd725331ac]: Textual amendment: Words in [art. 15(11)](https://www.legislation.gov.uk/uksi/2024/958/article/15/11) substituted (9.4.2025) by [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20.4. Unopposed hearsay evidence[^key-407309ab759d171575b6739e83841876]
+## 20.4. Unopposed hearsay evidence[^c-407309ab759d171575b6739e83841876]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-407309ab759d171575b6739e83841876]: Commencement: [Rule 20.4](https://www.legislation.gov.uk/uksi/2025/909/rule/20.4) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-407309ab759d171575b6739e83841876]: Commencement: [Rule 20.4](https://www.legislation.gov.uk/uksi/2025/909/rule/20.4) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

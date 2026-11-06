@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 32. Holding of benefices in plurality[^key-6c5b8a31f4328dfc7136aa42902a5ac9]
+## 32. Holding of benefices in plurality[^c-6c5b8a31f4328dfc7136aa42902a5ac9]
 
 *Extent: E*
 
@@ -35,4 +35,4 @@ Provided that, when the bishop gives notice of any vacancy or impending vacancy 
 
 ## Annotations
 
-[^key-6c5b8a31f4328dfc7136aa42902a5ac9]: Commencement: S. 32 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-6c5b8a31f4328dfc7136aa42902a5ac9]: Commencement: S. 32 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

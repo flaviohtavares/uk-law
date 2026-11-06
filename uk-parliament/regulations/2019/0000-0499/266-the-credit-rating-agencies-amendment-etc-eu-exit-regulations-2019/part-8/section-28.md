@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Temporary deemed registration under the CRA Regulation[^key-c82ab7f375ab716f0f6b53be871637c2]
+## 28. Temporary deemed registration under the CRA Regulation[^c-c82ab7f375ab716f0f6b53be871637c2]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c82ab7f375ab716f0f6b53be871637c2]: Commencement: Reg. 28 in force at 14.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/266/regulation/1/2)
+[^c-c82ab7f375ab716f0f6b53be871637c2]: Commencement: Reg. 28 in force at 14.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/266/regulation/1/2)

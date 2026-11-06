@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 114. The Information Commissioner[^key-514269bc9919a47bb63b8d9d098e98f6]
+## 114. The Information Commissioner[^c-514269bc9919a47bb63b8d9d098e98f6]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-514269bc9919a47bb63b8d9d098e98f6]: Textual amendment: S. 114 and cross-heading omitted (30.9.2026) by virtue of [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 118(4)](https://www.legislation.gov.uk/ukpga/2025/18/section/118/4), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/1015/regulation/3))
+[^c-514269bc9919a47bb63b8d9d098e98f6]: Textual amendment: S. 114 and cross-heading omitted (30.9.2026) by virtue of [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 118(4)](https://www.legislation.gov.uk/ukpga/2025/18/section/118/4), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/1015/regulation/3))

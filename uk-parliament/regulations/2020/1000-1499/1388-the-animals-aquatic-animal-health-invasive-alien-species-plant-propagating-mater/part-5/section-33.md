@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. The Livestock (Records, Identification and Movement) (Amendment) (EU Exit) Regulations 2019[^key-3e467be5e92035dd91f1ac35633aa9bc]
+## 33. The Livestock (Records, Identification and Movement) (Amendment) (EU Exit) Regulations 2019[^c-3e467be5e92035dd91f1ac35633aa9bc]
 
 *Extent: E+W+S+N.I.*
 
@@ -64,6 +64,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3e467be5e92035dd91f1ac35633aa9bc]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2020/1388/regulation/33) in force at 31.12.2020 (immediately before IP completion day), see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a)
+[^c-3e467be5e92035dd91f1ac35633aa9bc]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2020/1388/regulation/33) in force at 31.12.2020 (immediately before IP completion day), see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a)
 
 [^f00068]: Footnote: [S.I. 2019/814](https://www.legislation.gov.uk/uksi/2019/814).

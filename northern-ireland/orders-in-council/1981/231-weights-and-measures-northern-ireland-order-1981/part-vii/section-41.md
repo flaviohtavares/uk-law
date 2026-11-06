@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 41. General powers of inspection and entry[^key-45c91525f310553762fef888a27d5e3c]
+## 41. General powers of inspection and entry[^c-45c91525f310553762fef888a27d5e3c]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-45c91525f310553762fef888a27d5e3c]: Textual amendment: [Art. 41](https://www.legislation.gov.uk/nisi/1981/231/article/41) omitted (11.1.2017) by virtue of [The Consumer Rights (Enforcement and Amendments) Order 2016 (S.I. 2016/1259)](https://www.legislation.gov.uk/uksi/2016/1259), [art. 1](https://www.legislation.gov.uk/uksi/2016/1259/article/1), [Sch. para. 1(4)](https://www.legislation.gov.uk/uksi/2016/1259/schedule/paragraph/1/4)
+[^c-45c91525f310553762fef888a27d5e3c]: Textual amendment: [Art. 41](https://www.legislation.gov.uk/nisi/1981/231/article/41) omitted (11.1.2017) by virtue of [The Consumer Rights (Enforcement and Amendments) Order 2016 (S.I. 2016/1259)](https://www.legislation.gov.uk/uksi/2016/1259), [art. 1](https://www.legislation.gov.uk/uksi/2016/1259/article/1), [Sch. para. 1(4)](https://www.legislation.gov.uk/uksi/2016/1259/schedule/paragraph/1/4)

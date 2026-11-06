@@ -38,8 +38,8 @@ summary: ''
 (4) The provisions are—
 
 - (a) section 29(1)(b) of the Housing (Scotland) Act 1987 (c. 26) (accommodation pending review),
-- (b) section 188(3) or 204(4) of the Housing Act 1996 (c. 52) (accommodation pending review or appeal), [^key-ed9135babc038ce2828def4f47eca740]...
-- (c)[^key-ee709be9098442bbf82359a1e4a9dd1a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . and[^key-b5ec3b5e2fd898b1943ba37d445f55d6]
+- (b) section 188(3) or 204(4) of the Housing Act 1996 (c. 52) (accommodation pending review or appeal), [^c-ed9135babc038ce2828def4f47eca740]...
+- (c)[^c-ee709be9098442bbf82359a1e4a9dd1a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . and[^c-b5ec3b5e2fd898b1943ba37d445f55d6]
 - (d) section 1 of the Localism Act 2011 (local authority’s general power of competence)
 
 (5) This section shall not prevent—
@@ -75,8 +75,8 @@ summary: ''
 
 [^c19245601]: Modification: S. 55(1)(b) referred to (15.6.2005) by [The Displaced Persons (Temporary Protection) Regulations 2005 (S.I. 2005/1379)](https://www.legislation.gov.uk/uksi/2005/1379), [reg. 16(2)](https://www.legislation.gov.uk/uksi/2005/1379/regulation/16/2)
 
-[^key-ed9135babc038ce2828def4f47eca740]: Textual amendment: Word in s. 55(4)(b) omitted (28.3.2012) by virtue of [The Localism Act 2011 (Consequential Amendments) Order 2012 (S.I. 2012/961)](https://www.legislation.gov.uk/uksi/2012/961), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/961/article/1/2), [Sch. 1 para. 3(a)](https://www.legislation.gov.uk/uksi/2012/961/schedule/1/paragraph/3/a)
+[^c-ed9135babc038ce2828def4f47eca740]: Textual amendment: Word in s. 55(4)(b) omitted (28.3.2012) by virtue of [The Localism Act 2011 (Consequential Amendments) Order 2012 (S.I. 2012/961)](https://www.legislation.gov.uk/uksi/2012/961), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/961/article/1/2), [Sch. 1 para. 3(a)](https://www.legislation.gov.uk/uksi/2012/961/schedule/1/paragraph/3/a)
 
-[^key-ee709be9098442bbf82359a1e4a9dd1a]: Textual amendment: [S. 55(4)(c)](https://www.legislation.gov.uk/ukpga/2002/41/section/55/4/c) omitted (E.W.) (5.5.2022) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7), [Sch. 3 para. 11(2)](https://www.legislation.gov.uk/asc/2021/1/schedule/3/paragraph/11/2); [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(r)](https://www.legislation.gov.uk/wsi/2021/231/article/6/r)
+[^c-ee709be9098442bbf82359a1e4a9dd1a]: Textual amendment: [S. 55(4)(c)](https://www.legislation.gov.uk/ukpga/2002/41/section/55/4/c) omitted (E.W.) (5.5.2022) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7), [Sch. 3 para. 11(2)](https://www.legislation.gov.uk/asc/2021/1/schedule/3/paragraph/11/2); [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(r)](https://www.legislation.gov.uk/wsi/2021/231/article/6/r)
 
-[^key-b5ec3b5e2fd898b1943ba37d445f55d6]: Textual amendment: S. 55(4)(d) and word inserted (28.3.2012) by [The Localism Act 2011 (Consequential Amendments) Order 2012 (S.I. 2012/961)](https://www.legislation.gov.uk/uksi/2012/961), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/961/article/1/2), [Sch. 1 para. 3(b)](https://www.legislation.gov.uk/uksi/2012/961/schedule/1/paragraph/3/b)
+[^c-b5ec3b5e2fd898b1943ba37d445f55d6]: Textual amendment: S. 55(4)(d) and word inserted (28.3.2012) by [The Localism Act 2011 (Consequential Amendments) Order 2012 (S.I. 2012/961)](https://www.legislation.gov.uk/uksi/2012/961), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/961/article/1/2), [Sch. 1 para. 3(b)](https://www.legislation.gov.uk/uksi/2012/961/schedule/1/paragraph/3/b)

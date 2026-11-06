@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Power to stop payment of allowances to care home residents[^key-48405aeb764dd9073f62fcf84d8b9275][^key-1fa0e93dd45d547c9a1e4222486b600b]
+## 60. Power to stop payment of allowances to care home residents[^c-48405aeb764dd9073f62fcf84d8b9275][^c-1fa0e93dd45d547c9a1e4222486b600b]
 
 *Extent: E+W+S*
 
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-48405aeb764dd9073f62fcf84d8b9275]: Commencement: S. 60 in force at 1.10.2007 for specified purposes by [S.I. 2007/2819](https://www.legislation.gov.uk/uksi/2007/2819), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2007/2819/article/2/2/a)
+[^c-48405aeb764dd9073f62fcf84d8b9275]: Commencement: S. 60 in force at 1.10.2007 for specified purposes by [S.I. 2007/2819](https://www.legislation.gov.uk/uksi/2007/2819), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2007/2819/article/2/2/a)
 
-[^key-1fa0e93dd45d547c9a1e4222486b600b]: Commencement: S. 60 in force at 29.10.2007 in so far as not already in force by [S.I. 2007/2819](https://www.legislation.gov.uk/uksi/2007/2819), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2007/2819/article/2/2/b)
+[^c-1fa0e93dd45d547c9a1e4222486b600b]: Commencement: S. 60 in force at 29.10.2007 in so far as not already in force by [S.I. 2007/2819](https://www.legislation.gov.uk/uksi/2007/2819), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2007/2819/article/2/2/b)

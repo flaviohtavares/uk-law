@@ -30,10 +30,10 @@ summary: ''
 (3) In this section—
 
 - “**group**”, in relation to a company, means that company and all of its subsidiaries taken together;
-- “**subsidiary**” has the meaning given by[^c4118831] section 1159 of the Companies Act 2006[^key-5b5b978c04bb95b0fb7c06f650c27d1a].
+- “**subsidiary**” has the meaning given by[^c4118831] section 1159 of the Companies Act 2006[^c-5b5b978c04bb95b0fb7c06f650c27d1a].
 
 ## Annotations
 
 [^c4118831]: Textual amendment: Words substituted by [S.I. 1990/1395](https://www.legislation.gov.uk/uksi/1990/1395), [reg. 2](https://www.legislation.gov.uk/uksi/1990/1395/regulation/2)
 
-[^key-5b5b978c04bb95b0fb7c06f650c27d1a]: Textual amendment: Words in s. 77(3) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 102(5)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/102/5) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-5b5b978c04bb95b0fb7c06f650c27d1a]: Textual amendment: Words in s. 77(3) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 102(5)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/102/5) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))

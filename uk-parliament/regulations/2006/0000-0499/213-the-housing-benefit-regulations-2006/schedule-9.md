@@ -45,9 +45,9 @@ Regulation 90
 
 that notice shall, subject to paragraph 6, contain a statement only as to all the matters revised.
 
-### PART 2 — Awards where income support, an income-based jobseeker's allowance, an income-related employment and support allowance , an extended payment or an extended payment (qualifying contributory benefits) is payable[^key-df6331a293f4422f3126dc81e937d5f2][^key-fd7adeb66fd06bb750ab0787849d9f9c]
+### PART 2 — Awards where income support, an income-based jobseeker's allowance, an income-related employment and support allowance , an extended payment or an extended payment (qualifying contributory benefits) is payable[^c-df6331a293f4422f3126dc81e937d5f2][^c-fd7adeb66fd06bb750ab0787849d9f9c]
 
-**9.** Where a person on income support, an income-based jobseeker's allowance or an income-related employment and support allowance[^key-d756dc7cd0a409e4be5c0dcea2faf17d] is awarded housing benefit or a claimant is entitled to an extended payment in accordance with regulation 72 or an extended payment (qualifying contributory benefits) in accordance with regulation 73[^key-04b6dcc7e674bae6c985749a06e27823], the decision notice shall include a statement as to—
+**9.** Where a person on income support, an income-based jobseeker's allowance or an income-related employment and support allowance[^c-d756dc7cd0a409e4be5c0dcea2faf17d] is awarded housing benefit or a claimant is entitled to an extended payment in accordance with regulation 72 or an extended payment (qualifying contributory benefits) in accordance with regulation 73[^c-04b6dcc7e674bae6c985749a06e27823], the decision notice shall include a statement as to—
 
 - (a) his weekly eligible rent, if any; and
 - (b) the amount and an explanation of any deduction made under paragraph 6(2) or (3) of Schedule 1 (fuel deductions), if any, and that the deduction may be varied if he provides to the authority evidence on which it may estimate the actual or approximate amount of that service charge; and
@@ -57,9 +57,9 @@ that notice shall, subject to paragraph 6, contain a statement only as to all th
 - (f) the first day of entitlement to an allowance or rebate; and
 - (g) his duty to notify any change of circumstances which might affect his entitlement to, or the amount of, housing benefit and (without prejudice to the extent of the duty owed under regulation 88 (duty to notify changes of circumstances)) the kind of change of circumstances which is to be notified, either upon the notice or by reference to some other document available to him on application and without charge.
 
-### PART 3 — Awards where no income support , an income-based jobseeker's allowance or an income-related employment and support allowance is payable[^key-c34cfe83a6af0ca5cd760bf325083296]
+### PART 3 — Awards where no income support , an income-based jobseeker's allowance or an income-related employment and support allowance is payable[^c-c34cfe83a6af0ca5cd760bf325083296]
 
-**10.** Where a person is not on income support, an income-based jobseeker's allowance or on an income-related employment and support allowance[^key-9a69377e245584a7382e42e4bb729ac9] but is awarded housing benefit, the decision notice shall include a statement as to—
+**10.** Where a person is not on income support, an income-based jobseeker's allowance or on an income-related employment and support allowance[^c-9a69377e245584a7382e42e4bb729ac9] but is awarded housing benefit, the decision notice shall include a statement as to—
 
 - (a) the matters set out in paragraph 9; and
 - (b) his applicable amount and how it is calculated; and
@@ -93,7 +93,7 @@ and the notice shall be sent both to the claimant and to the landlord.
 
 - (a) either on grounds of income or because the amount of any housing benefit is less than the minimum housing benefit prescribed by regulation 75, the decision notice shall include a statement as to—
   - (i) the matters set out in paragraphs 9(a) to (c), and in a case where the amount of entitlement is less than the minimum amount of housing benefit prescribed, paragraph 9(d) also; and
-  - (ii) the matters set out in paragraphs 10(b) to (d) where the person is not on income support, an income-based jobseeker's allowance or an income-related employment and support allowance[^key-22150244fc298be4b62c74addbb33d21]; and
+  - (ii) the matters set out in paragraphs 10(b) to (d) where the person is not on income support, an income-based jobseeker's allowance or an income-related employment and support allowance[^c-22150244fc298be4b62c74addbb33d21]; and
   - (iii) where the amount of entitlement is less than the minimum amount of housing benefit prescribed, that fact and that such entitlement is not payable;
 - (b) for any reason other than one mentioned in sub-paragraph (a), the decision notice shall include a statement as to the reason why no award has been made.
 
@@ -121,16 +121,16 @@ the decision notice sent to that landlord shall identify both—
 
 ## Annotations
 
-[^key-df6331a293f4422f3126dc81e937d5f2]: Textual amendment: Words in Sch. 9 Pt. 2 heading substituted (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) Regulations 2008 (S.I. 2008/1082)](https://www.legislation.gov.uk/uksi/2008/1082), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1082/regulation/1), [27(a)(i)](https://www.legislation.gov.uk/uksi/2008/1082/regulation/27/a/i)
+[^c-df6331a293f4422f3126dc81e937d5f2]: Textual amendment: Words in Sch. 9 Pt. 2 heading substituted (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) Regulations 2008 (S.I. 2008/1082)](https://www.legislation.gov.uk/uksi/2008/1082), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1082/regulation/1), [27(a)(i)](https://www.legislation.gov.uk/uksi/2008/1082/regulation/27/a/i)
 
-[^key-fd7adeb66fd06bb750ab0787849d9f9c]: Textual amendment: Words in Sch. 9 Pt. 2 heading inserted (6.10.2008) by [The Housing Benefit and Council Tax Benefit (Extended Payments) Amendment Regulations 2008 (S.I. 2008/959)](https://www.legislation.gov.uk/uksi/2008/959), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/959/regulation/1/1), [4(5)(a)](https://www.legislation.gov.uk/uksi/2008/959/regulation/4/5/a)
+[^c-fd7adeb66fd06bb750ab0787849d9f9c]: Textual amendment: Words in Sch. 9 Pt. 2 heading inserted (6.10.2008) by [The Housing Benefit and Council Tax Benefit (Extended Payments) Amendment Regulations 2008 (S.I. 2008/959)](https://www.legislation.gov.uk/uksi/2008/959), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/959/regulation/1/1), [4(5)(a)](https://www.legislation.gov.uk/uksi/2008/959/regulation/4/5/a)
 
-[^key-d756dc7cd0a409e4be5c0dcea2faf17d]: Textual amendment: Words in Sch. 9 para. 9 substituted (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) Regulations 2008 (S.I. 2008/1082)](https://www.legislation.gov.uk/uksi/2008/1082), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1082/regulation/1), [27(a)(ii)](https://www.legislation.gov.uk/uksi/2008/1082/regulation/27/a/ii)
+[^c-d756dc7cd0a409e4be5c0dcea2faf17d]: Textual amendment: Words in Sch. 9 para. 9 substituted (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) Regulations 2008 (S.I. 2008/1082)](https://www.legislation.gov.uk/uksi/2008/1082), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1082/regulation/1), [27(a)(ii)](https://www.legislation.gov.uk/uksi/2008/1082/regulation/27/a/ii)
 
-[^key-04b6dcc7e674bae6c985749a06e27823]: Textual amendment: Words in Sch. 9 para. 9 inserted (6.10.2008) by [The Housing Benefit and Council Tax Benefit (Extended Payments) Amendment Regulations 2008 (S.I. 2008/959)](https://www.legislation.gov.uk/uksi/2008/959), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/959/regulation/1/1), [4(5)(b)](https://www.legislation.gov.uk/uksi/2008/959/regulation/4/5/b)
+[^c-04b6dcc7e674bae6c985749a06e27823]: Textual amendment: Words in Sch. 9 para. 9 inserted (6.10.2008) by [The Housing Benefit and Council Tax Benefit (Extended Payments) Amendment Regulations 2008 (S.I. 2008/959)](https://www.legislation.gov.uk/uksi/2008/959), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/959/regulation/1/1), [4(5)(b)](https://www.legislation.gov.uk/uksi/2008/959/regulation/4/5/b)
 
-[^key-c34cfe83a6af0ca5cd760bf325083296]: Textual amendment: Words in Sch. 9 para. 10 substituted (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) Regulations 2008 (S.I. 2008/1082)](https://www.legislation.gov.uk/uksi/2008/1082), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1082/regulation/1), [27(b)(i)](https://www.legislation.gov.uk/uksi/2008/1082/regulation/27/b/i)
+[^c-c34cfe83a6af0ca5cd760bf325083296]: Textual amendment: Words in Sch. 9 para. 10 substituted (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) Regulations 2008 (S.I. 2008/1082)](https://www.legislation.gov.uk/uksi/2008/1082), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1082/regulation/1), [27(b)(i)](https://www.legislation.gov.uk/uksi/2008/1082/regulation/27/b/i)
 
-[^key-9a69377e245584a7382e42e4bb729ac9]: Textual amendment: Words in Sch. 9 para. 10 substituted (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) Regulations 2008 (S.I. 2008/1082)](https://www.legislation.gov.uk/uksi/2008/1082), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1082/regulation/1), [27(b)(ii)](https://www.legislation.gov.uk/uksi/2008/1082/regulation/27/b/ii)
+[^c-9a69377e245584a7382e42e4bb729ac9]: Textual amendment: Words in Sch. 9 para. 10 substituted (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) Regulations 2008 (S.I. 2008/1082)](https://www.legislation.gov.uk/uksi/2008/1082), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1082/regulation/1), [27(b)(ii)](https://www.legislation.gov.uk/uksi/2008/1082/regulation/27/b/ii)
 
-[^key-22150244fc298be4b62c74addbb33d21]: Textual amendment: Words in Sch. 9 para. 14(a)(ii) substituted (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) Regulations 2008 (S.I. 2008/1082)](https://www.legislation.gov.uk/uksi/2008/1082), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1082/regulation/1), [27(c)](https://www.legislation.gov.uk/uksi/2008/1082/regulation/27/c)
+[^c-22150244fc298be4b62c74addbb33d21]: Textual amendment: Words in Sch. 9 para. 14(a)(ii) substituted (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) Regulations 2008 (S.I. 2008/1082)](https://www.legislation.gov.uk/uksi/2008/1082), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1082/regulation/1), [27(c)](https://www.legislation.gov.uk/uksi/2008/1082/regulation/27/c)

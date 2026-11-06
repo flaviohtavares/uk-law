@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 18. Assignation of modern limited duration tenancy[^key-b99796c0437c0c72cf64a2e20bcd1262]
+## 18. Assignation of modern limited duration tenancy[^c-b99796c0437c0c72cf64a2e20bcd1262]
 
 *Extent: S*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b99796c0437c0c72cf64a2e20bcd1262]: Commencement: S. 18 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-b99796c0437c0c72cf64a2e20bcd1262]: Commencement: S. 18 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)

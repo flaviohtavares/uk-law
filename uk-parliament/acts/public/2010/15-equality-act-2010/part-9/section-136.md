@@ -36,13 +36,13 @@ summary: ''
 - (b) the Asylum and Immigration Tribunal;
 - (c) the Special Immigration Appeals Commission;
 - (d) the First-tier Tribunal;
-- (e) the Education Tribunal for Wales[^key-8e06b7ab1dc21e75092f3c60f7c62c34];
-- (f) the First-tier Tribunal for Scotland Health and Education Chamber[^key-a56df30603901c292b125540d3a38774] .
+- (e) the Education Tribunal for Wales[^c-8e06b7ab1dc21e75092f3c60f7c62c34];
+- (f) the First-tier Tribunal for Scotland Health and Education Chamber[^c-a56df30603901c292b125540d3a38774] .
 
 ## Annotations
 
 [^c21162461]: Commencement: S. 136 wholly in force; s. 136 not in force at Royal Assent see s. 216; s. 136(1)-(5)(6)(a)-(e) in force at 1.10.2010 by [S.I. 2010/2317](https://www.legislation.gov.uk/uksi/2010/2317), [art. 2(1)(9)(g)](https://www.legislation.gov.uk/uksi/2010/2317/article/2/1/9/g) (with [art. 15](https://www.legislation.gov.uk/uksi/2010/2317/article/15), and subject to transitional provision in [art. 7](https://www.legislation.gov.uk/uksi/2010/2317/article/7)); s. 136(6)(f) in force at 18.3.2011 by [S.I. 2010/2317](https://www.legislation.gov.uk/uksi/2010/2317), [art. 3(c)](https://www.legislation.gov.uk/uksi/2010/2317/article/3/c) (with [art. 15](https://www.legislation.gov.uk/uksi/2010/2317/article/15), and subject to transitional provision in [art. 7](https://www.legislation.gov.uk/uksi/2010/2317/article/7))
 
-[^key-8e06b7ab1dc21e75092f3c60f7c62c34]: Textual amendment: Words in s. 136(6)(e) substituted (E.W.) (1.9.2021) by [Additional Learning Needs and Education Tribunal (Wales) Act 2018 (anaw 2)](https://www.legislation.gov.uk/anaw/2018/2), [s. 100(3)](https://www.legislation.gov.uk/anaw/2018/2/section/100/3), [Sch. 1 para. 19(3)](https://www.legislation.gov.uk/anaw/2018/2/schedule/1/paragraph/19/3); [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(j)(xxxiii)](https://www.legislation.gov.uk/wsi/2021/373/article/8/j/xxxiii)
+[^c-8e06b7ab1dc21e75092f3c60f7c62c34]: Textual amendment: Words in s. 136(6)(e) substituted (E.W.) (1.9.2021) by [Additional Learning Needs and Education Tribunal (Wales) Act 2018 (anaw 2)](https://www.legislation.gov.uk/anaw/2018/2), [s. 100(3)](https://www.legislation.gov.uk/anaw/2018/2/section/100/3), [Sch. 1 para. 19(3)](https://www.legislation.gov.uk/anaw/2018/2/schedule/1/paragraph/19/3); [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(j)(xxxiii)](https://www.legislation.gov.uk/wsi/2021/373/article/8/j/xxxiii)
 
-[^key-a56df30603901c292b125540d3a38774]: Textual amendment: Words in s. 136(6)(f) substituted (S.) (12.1.2018) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Additional Support Needs Tribunals for Scotland) Regulations 2018 (S.S.I. 2018/4)](https://www.legislation.gov.uk/ssi/2018/4), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/4/regulation/1/1), [sch. 2 para. 4(3)](https://www.legislation.gov.uk/ssi/2018/4/schedule/2/paragraph/4/3)
+[^c-a56df30603901c292b125540d3a38774]: Textual amendment: Words in s. 136(6)(f) substituted (S.) (12.1.2018) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Additional Support Needs Tribunals for Scotland) Regulations 2018 (S.S.I. 2018/4)](https://www.legislation.gov.uk/ssi/2018/4), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/4/regulation/1/1), [sch. 2 para. 4(3)](https://www.legislation.gov.uk/ssi/2018/4/schedule/2/paragraph/4/3)

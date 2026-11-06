@@ -25,7 +25,7 @@ summary: ''
 (2) Sale or supply is in accordance with this paragraph if the sale or supply is carried out—
 
 - (a) by or under the supervision of a pharmacist;
-- (b) at or from premises[^key-a5d35e1fdfb218dbbd51755d3f359a6f] which are a registered pharmacy; and
+- (b) at or from premises[^c-a5d35e1fdfb218dbbd51755d3f359a6f] which are a registered pharmacy; and
 - (c) either—
   - (i) in accordance with a prescription given by an appropriate practitioner where it is not reasonably practicable to provide the regulated medicinal products in containers that are both opaque or dark tinted and child resistant, or
   - (ii) at the request of a person who is aged 16 or over and specifically requests that the regulated medicinal products not be contained in a child resistant container.
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a5d35e1fdfb218dbbd51755d3f359a6f]: Textual amendment: Words in [reg. 274(2)(b)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/274/2/b) substituted (1.10.2025) by [The Human Medicines (Amendments Relating to Hub and Spoke Dispensing etc.) Regulations 2025 (S.I. 2025/758)](https://www.legislation.gov.uk/uksi/2025/758), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/758/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2025/758/regulation/10)
+[^c-a5d35e1fdfb218dbbd51755d3f359a6f]: Textual amendment: Words in [reg. 274(2)(b)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/274/2/b) substituted (1.10.2025) by [The Human Medicines (Amendments Relating to Hub and Spoke Dispensing etc.) Regulations 2025 (S.I. 2025/758)](https://www.legislation.gov.uk/uksi/2025/758), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/758/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2025/758/regulation/10)

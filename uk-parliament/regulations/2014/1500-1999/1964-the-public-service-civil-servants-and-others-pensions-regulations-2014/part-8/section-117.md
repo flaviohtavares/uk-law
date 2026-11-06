@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 117. Suspension and recovery of pensions paid under this Part[^key-b10f6ae8912d805b24a9f35370f2b087]
+## 117. Suspension and recovery of pensions paid under this Part[^c-b10f6ae8912d805b24a9f35370f2b087]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b10f6ae8912d805b24a9f35370f2b087]: Commencement: [Reg. 117](https://www.legislation.gov.uk/uksi/2014/1964/regulation/117) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-b10f6ae8912d805b24a9f35370f2b087]: Commencement: [Reg. 117](https://www.legislation.gov.uk/uksi/2014/1964/regulation/117) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)

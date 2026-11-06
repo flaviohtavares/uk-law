@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100. Amendment of section 55[^key-47f7654578bca1f22f3c2c9b997253de]
+## 100. Amendment of section 55[^c-47f7654578bca1f22f3c2c9b997253de]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-47f7654578bca1f22f3c2c9b997253de]: Commencement: Reg. 100 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-47f7654578bca1f22f3c2c9b997253de]: Commencement: Reg. 100 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00081]: Footnote: Section 55 was amended by section 95 of, and Schedule 5 to, the Health and Social Care Act 2008, and by [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101) and [2011/1043](https://www.legislation.gov.uk/uksi/2011/1043). There are other amendments but these are not relevant to these Regulations.

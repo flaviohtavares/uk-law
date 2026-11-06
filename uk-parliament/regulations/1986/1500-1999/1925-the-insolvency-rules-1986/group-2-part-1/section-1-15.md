@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1.15. The chairman as proxy-holder[^key-7785c07739ebfe81e2242684e7f28d3d]
+## 1.15. The chairman as proxy-holder[^c-7785c07739ebfe81e2242684e7f28d3d]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The chairman shall not by virtue of any proxy held by him vote to increase or re
 
 ## Annotations
 
-[^key-7785c07739ebfe81e2242684e7f28d3d]: Commencement: [Rule 1.15](https://www.legislation.gov.uk/uksi/1986/1925/rule/1.15) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-7785c07739ebfe81e2242684e7f28d3d]: Commencement: [Rule 1.15](https://www.legislation.gov.uk/uksi/1986/1925/rule/1.15) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

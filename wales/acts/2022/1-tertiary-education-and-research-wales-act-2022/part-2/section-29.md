@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Specific ongoing registration conditions[^key-bd3cf5864d6d599645aadc0f3174de10][^key-bc9edebbe09a3f652d394606bd8e4dda]
+## 29. Specific ongoing registration conditions[^c-bd3cf5864d6d599645aadc0f3174de10][^c-bc9edebbe09a3f652d394606bd8e4dda]
 
 *Extent: E+W*
 
@@ -70,6 +70,6 @@ the Commission must notify the governing body of the tertiary education provider
 
 ## Annotations
 
-[^key-bd3cf5864d6d599645aadc0f3174de10]: Commencement: S. 29 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-bd3cf5864d6d599645aadc0f3174de10]: Commencement: S. 29 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-bc9edebbe09a3f652d394606bd8e4dda]: Commencement: [S. 29](https://www.legislation.gov.uk/asc/2022/1/section/29) in force at 5.4.2025 by [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 2(d)](https://www.legislation.gov.uk/wsi/2025/432/article/2/d)
+[^c-bc9edebbe09a3f652d394606bd8e4dda]: Commencement: [S. 29](https://www.legislation.gov.uk/asc/2022/1/section/29) in force at 5.4.2025 by [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 2(d)](https://www.legislation.gov.uk/wsi/2025/432/article/2/d)

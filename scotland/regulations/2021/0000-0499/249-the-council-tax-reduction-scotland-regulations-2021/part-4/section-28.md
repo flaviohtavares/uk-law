@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 28. Amendment of applications[^key-2431cb32d96036201fd97467bd7bda96]
+## 28. Amendment of applications[^c-2431cb32d96036201fd97467bd7bda96]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2431cb32d96036201fd97467bd7bda96]: Commencement: [Reg. 28](https://www.legislation.gov.uk/ssi/2021/249/regulation/28) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-2431cb32d96036201fd97467bd7bda96]: Commencement: [Reg. 28](https://www.legislation.gov.uk/ssi/2021/249/regulation/28) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)

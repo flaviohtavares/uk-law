@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Sections 75 and 76: limitation on searching persons or vehicles in certain gardens etc[^key-7254bedc3cfb01e1c0b81833640aca9f][^key-fd52a5d3efb82674d4a654189135e576]
+## 79. Sections 75 and 76: limitation on searching persons or vehicles in certain gardens etc[^c-7254bedc3cfb01e1c0b81833640aca9f][^c-fd52a5d3efb82674d4a654189135e576]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7254bedc3cfb01e1c0b81833640aca9f]: Commencement: S. 79 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-7254bedc3cfb01e1c0b81833640aca9f]: Commencement: S. 79 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-fd52a5d3efb82674d4a654189135e576]: Commencement: S. 79 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-fd52a5d3efb82674d4a654189135e576]: Commencement: S. 79 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

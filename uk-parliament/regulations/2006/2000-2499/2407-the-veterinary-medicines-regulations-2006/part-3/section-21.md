@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Records by a holder of a manufacturing authorisation[^key-93cb6ef4475a1e12b66925944f774dcd]
+## 21. Records by a holder of a manufacturing authorisation[^c-93cb6ef4475a1e12b66925944f774dcd]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-93cb6ef4475a1e12b66925944f774dcd]: Commencement: Reg. 21 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-93cb6ef4475a1e12b66925944f774dcd]: Commencement: Reg. 21 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)

@@ -25,7 +25,7 @@ Section 4(1).
 - sections 9 to 11 (stay of legal proceedings);
 - section 12 (power of court to extend agreed time limits);
 - section 13 (application of Limitation Acts);
-- section 23A (impartiality: duty of disclosure);[^key-4d23be1a67bd717c44d6ff641d9ba766]
+- section 23A (impartiality: duty of disclosure);[^c-4d23be1a67bd717c44d6ff641d9ba766]
 - section 24 (power of court to remove arbitrator);
 - section 26(1) (effect of death of arbitrator);
 - section 28 (liability of parties for fees and expenses of arbitrators);
@@ -47,4 +47,4 @@ Section 4(1).
 
 ## Annotations
 
-[^key-4d23be1a67bd717c44d6ff641d9ba766]: Textual amendment: Words in Sch. 1 inserted (1.8.2025) by [Arbitration Act 2025 (c. 4)](https://www.legislation.gov.uk/ukpga/2025/4), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2025/4/section/2/3), [17(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/2); [S.I. 2025/905](https://www.legislation.gov.uk/uksi/2025/905), [reg. 2](https://www.legislation.gov.uk/uksi/2025/905/regulation/2)
+[^c-4d23be1a67bd717c44d6ff641d9ba766]: Textual amendment: Words in Sch. 1 inserted (1.8.2025) by [Arbitration Act 2025 (c. 4)](https://www.legislation.gov.uk/ukpga/2025/4), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2025/4/section/2/3), [17(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/2); [S.I. 2025/905](https://www.legislation.gov.uk/uksi/2025/905), [reg. 2](https://www.legislation.gov.uk/uksi/2025/905/regulation/2)

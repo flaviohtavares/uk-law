@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 92. Registration of a CIL stop notice[^key-7f844dc690db101d672968114c9964fd]
+## 92. Registration of a CIL stop notice[^c-7f844dc690db101d672968114c9964fd]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7f844dc690db101d672968114c9964fd]: Commencement: Reg. 92 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
+[^c-7f844dc690db101d672968114c9964fd]: Commencement: Reg. 92 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Notice of decision to deprive a person of citizenship[^key-5803d9977aa62c823dfa5e8af8a649a1]
+## 10. Notice of decision to deprive a person of citizenship[^c-5803d9977aa62c823dfa5e8af8a649a1]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-5803d9977aa62c823dfa5e8af8a649a1] In this section, “**the 1981 Act**” means the British Nationality Act 1981.
+(1)[^c-5803d9977aa62c823dfa5e8af8a649a1] In this section, “**the 1981 Act**” means the British Nationality Act 1981.
 
-(2)[^key-1e00b9403af0341e7071ef9963567878] In section 40 of the 1981 Act (deprivation of citizenship), after subsection (5) (which requires notice to be given to a person to be deprived of citizenship) insert—
+(2)[^c-1e00b9403af0341e7071ef9963567878] In section 40 of the 1981 Act (deprivation of citizenship), after subsection (5) (which requires notice to be given to a person to be deprived of citizenship) insert—
 
 > (5A) Subsection (5) does not apply if—
 >
@@ -53,7 +53,7 @@ summary: ''
 > - (a) not to give notice to a person before depriving them of a citizenship status on the grounds mentioned in subsection (2) (deprivation conducive to the public good), or
 > - (b) not to give late notice to a person who has been deprived of a citizenship status on those grounds without having been given prior notice.
 
-(3)[^key-1e00b9403af0341e7071ef9963567878] In section 40A of the 1981 Act (appeals against deprivation of citizenship)—
+(3)[^c-1e00b9403af0341e7071ef9963567878] In section 40A of the 1981 Act (appeals against deprivation of citizenship)—
 
 - (a) for subsection (1) substitute—
 
@@ -67,18 +67,18 @@ summary: ''
 
   > (2A) In the case of an order made as described in subsection (1)(b), for the purposes of any rule or other provision limiting the time within which an appeal under this section may be brought, time does not start to run unless and until the person is given notice of the fact that the order has been made (see section 40(5D) and Schedule 4A).
 
-(4)[^key-1e00b9403af0341e7071ef9963567878] After Schedule 4 to the 1981 Act insert the Schedule 4A set out in Schedule 2.
+(4)[^c-1e00b9403af0341e7071ef9963567878] After Schedule 4 to the 1981 Act insert the Schedule 4A set out in Schedule 2.
 
-(5)[^key-1e00b9403af0341e7071ef9963567878] In the British Nationality (General) Regulations 2003 ([S.I. 2003/548](https://www.legislation.gov.uk/uksi/2003/548)), in regulation 10 (notice of proposed deprivation of citizenship), omit paragraph (4).
+(5)[^c-1e00b9403af0341e7071ef9963567878] In the British Nationality (General) Regulations 2003 ([S.I. 2003/548](https://www.legislation.gov.uk/uksi/2003/548)), in regulation 10 (notice of proposed deprivation of citizenship), omit paragraph (4).
 
-(6)[^key-5803d9977aa62c823dfa5e8af8a649a1] A failure to comply with the duty under section 40(5) of the 1981 Act in respect of a pre-commencement deprivation order does not affect, and is to be treated as never having affected, the validity of the order.
+(6)[^c-5803d9977aa62c823dfa5e8af8a649a1] A failure to comply with the duty under section 40(5) of the 1981 Act in respect of a pre-commencement deprivation order does not affect, and is to be treated as never having affected, the validity of the order.
 
-(7)[^key-5803d9977aa62c823dfa5e8af8a649a1] In subsection (6), “**pre-commencement deprivation order**” means an order made or purportedly made under section 40 of the 1981 Act before the coming into force of subsections (2) to (5) (whether before or after the coming into force of subsection (6)).
+(7)[^c-5803d9977aa62c823dfa5e8af8a649a1] In subsection (6), “**pre-commencement deprivation order**” means an order made or purportedly made under section 40 of the 1981 Act before the coming into force of subsections (2) to (5) (whether before or after the coming into force of subsection (6)).
 
-(8)[^key-5803d9977aa62c823dfa5e8af8a649a1] A person may appeal against a decision to make an order to which subsection (6) applies as if notice of the decision had been given to the person under section 40(5) of the 1981 Act on the day on which the order was made or purportedly made.
+(8)[^c-5803d9977aa62c823dfa5e8af8a649a1] A person may appeal against a decision to make an order to which subsection (6) applies as if notice of the decision had been given to the person under section 40(5) of the 1981 Act on the day on which the order was made or purportedly made.
 
 ## Annotations
 
-[^key-5803d9977aa62c823dfa5e8af8a649a1]: Commencement: S. 10(1)(6)-(8) in force at Royal Assent, see [s. 87(3)(a)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/3/a)
+[^c-5803d9977aa62c823dfa5e8af8a649a1]: Commencement: S. 10(1)(6)-(8) in force at Royal Assent, see [s. 87(3)(a)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/3/a)
 
-[^key-1e00b9403af0341e7071ef9963567878]: Commencement: [S. 10(2)-(5)](https://www.legislation.gov.uk/ukpga/2022/36/section/10/2) in force at 10.5.2023 by [S.I. 2023/450](https://www.legislation.gov.uk/uksi/2023/450), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/450/regulation/2/a)
+[^c-1e00b9403af0341e7071ef9963567878]: Commencement: [S. 10(2)-(5)](https://www.legislation.gov.uk/ukpga/2022/36/section/10/2) in force at 10.5.2023 by [S.I. 2023/450](https://www.legislation.gov.uk/uksi/2023/450), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/450/regulation/2/a)

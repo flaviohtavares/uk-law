@@ -31,7 +31,7 @@ summary: ''
 
 Salaries
 
-The Salaries (Public Services Ombudsman) Order (Northern Ireland) 2019 (revoked)[^key-23acf37ba6779185107b4a985f11eaa0]
+The Salaries (Public Services Ombudsman) Order (Northern Ireland) 2019 (revoked)[^c-23acf37ba6779185107b4a985f11eaa0]
 
 Made
 
@@ -41,32 +41,32 @@ Coming into operation
 
 8th August 2019
 
-[^key-23acf37ba6779185107b4a985f11eaa0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-23acf37ba6779185107b4a985f11eaa0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-23acf37ba6779185107b4a985f11eaa0]
+## 1. Citation and commencement[^c-23acf37ba6779185107b4a985f11eaa0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Retrospection[^key-23acf37ba6779185107b4a985f11eaa0]
+## 2. Retrospection[^c-23acf37ba6779185107b4a985f11eaa0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Salary[^key-23acf37ba6779185107b4a985f11eaa0]
+## 3. Salary[^c-23acf37ba6779185107b4a985f11eaa0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocation[^key-23acf37ba6779185107b4a985f11eaa0]
+## 4. Revocation[^c-23acf37ba6779185107b4a985f11eaa0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-23acf37ba6779185107b4a985f11eaa0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-23acf37ba6779185107b4a985f11eaa0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-23acf37ba6779185107b4a985f11eaa0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-23acf37ba6779185107b4a985f11eaa0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-23acf37ba6779185107b4a985f11eaa0]: Textual amendment: Order revoked (30.7.2020) by [The Salaries (Public Services Ombudsman) Order (Northern Ireland) 2020 (S.R. 2020/135)](https://www.legislation.gov.uk/nisr/2020/135), [art. 6](https://www.legislation.gov.uk/nisr/2020/135/article/6)
+[^c-23acf37ba6779185107b4a985f11eaa0]: Textual amendment: Order revoked (30.7.2020) by [The Salaries (Public Services Ombudsman) Order (Northern Ireland) 2020 (S.R. 2020/135)](https://www.legislation.gov.uk/nisr/2020/135), [art. 6](https://www.legislation.gov.uk/nisr/2020/135/article/6)

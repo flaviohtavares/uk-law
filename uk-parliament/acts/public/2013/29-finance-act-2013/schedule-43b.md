@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 43B — Procedural requirements: generic referral of tax arrangements[^key-7a9e1dd03472652cb47f702ea3cfc457]
+## SCHEDULE 43B — Procedural requirements: generic referral of tax arrangements[^c-7a9e1dd03472652cb47f702ea3cfc457]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 **1.** (1) Sub-paragraph (2) applies if—
 
-- (a)[^key-753057c27592f7cbc85445c0235dad1f] further to pooling notices given under paragraph 1(3) of Schedule 43A, two or more sets of tax arrangements are in a pool relating to any lead arrangements,
+- (a)[^c-753057c27592f7cbc85445c0235dad1f] further to pooling notices given under paragraph 1(3) of Schedule 43A, two or more sets of tax arrangements are in a pool relating to any lead arrangements,
 - (b) the person to whom the notice mentioned in paragraph 1(1) of Schedule 43A was given takes the relevant corrective action (as defined in paragraph 4A of Schedule 43) before—
   - (i) the end of the period of 75 days beginning with the day on which that notice was given, or
   - (ii) such later time as that person and HMRC may agree, and
@@ -43,7 +43,7 @@ summary: ''
 
 **2.** (1) T has 30 days beginning with the day on which the notice under paragraph 1 is given to propose to HMRC that it—
 
-- (a) should give T a notice under paragraph 3 of Schedule 43 or paragraph 5 of Schedule 43D (as the case may be)[^key-e11a267c6f08a54e322af985e32c9344] in respect of the arrangements to which the notice under paragraph 1 relates, and
+- (a) should give T a notice under paragraph 3 of Schedule 43 or paragraph 5 of Schedule 43D (as the case may be)[^c-e11a267c6f08a54e322af985e32c9344] in respect of the arrangements to which the notice under paragraph 1 relates, and
 - (b) should not proceed with the proposal to make a generic referral to the GAAR Advisory Panel in respect of those arrangements.
 
 (2) If a proposal is made in accordance with sub-paragraph (1) a designated HMRC officer must consider it.
@@ -56,10 +56,10 @@ summary: ''
 
 (3) If at least one of the notified taxpayers makes a proposal in accordance with paragraph 2, the designated HMRC officer must, after the end of that 30 day period, decide whether to—
 
-- (a) give a notice under paragraph 3 of Schedule 43 or paragraph 5 of Schedule 43D (as the case may be)[^key-679a3c3da533abe23ccc629a705fbe7c] in respect of one set of tax arrangements in the relevant pool in relation to which such a proposal has been made[^key-2577b926c2b55e92edc46b9f37cb9dfb], or
+- (a) give a notice under paragraph 3 of Schedule 43 or paragraph 5 of Schedule 43D (as the case may be)[^c-679a3c3da533abe23ccc629a705fbe7c] in respect of one set of tax arrangements in the relevant pool in relation to which such a proposal has been made[^c-2577b926c2b55e92edc46b9f37cb9dfb], or
 - (b) make a referral to the GAAR Advisory Panel in respect of the tax arrangements in the relevant pool.
 
-(3A)[^key-da98011544c52138a1c480a803fad3c3] If under sub-paragraph (3)(a) a notice is given under paragraph 3 of Schedule 43 or paragraph 5 of Schedule 43D[^key-6142c7cbff9737fa9c39aa0678148ba0] in respect of one set of tax arrangements but [^key-3d099dec8cc99b2f40c34befbf24119b]... the matter is not referred to the GAAR Advisory Panel, a designated officer must make a referral to the GAAR Advisory Panel in respect of the notified taxpayers and the arrangements which are specified arrangements in relation to them.
+(3A)[^c-da98011544c52138a1c480a803fad3c3] If under sub-paragraph (3)(a) a notice is given under paragraph 3 of Schedule 43 or paragraph 5 of Schedule 43D[^c-6142c7cbff9737fa9c39aa0678148ba0] in respect of one set of tax arrangements but [^c-3d099dec8cc99b2f40c34befbf24119b]... the matter is not referred to the GAAR Advisory Panel, a designated officer must make a referral to the GAAR Advisory Panel in respect of the notified taxpayers and the arrangements which are specified arrangements in relation to them.
 
 (4) A referral under this paragraph is a “generic referral”.
 
@@ -144,11 +144,11 @@ give to the notified taxpayer a written notice setting out whether the specified
 
 ### Notices may be given on assumption that tax advantage does arise
 
-**9.** (1) A designated HMRC officer may give a notice, or do anything else, under this Schedule where the officer considers that a tax advantage might have arisen [^key-54e22c283e645fc53382746c99939bd4]....
+**9.** (1) A designated HMRC officer may give a notice, or do anything else, under this Schedule where the officer considers that a tax advantage might have arisen [^c-54e22c283e645fc53382746c99939bd4]....
 
 (2) Accordingly, any notice given by a designated HMRC officer under this Schedule may be expressed to be given on the assumption that a tax advantage does arise (without conceding that it does).
 
-### HMRC officers[^key-996f7f550382d574c150d34b4a588af9]
+### HMRC officers[^c-996f7f550382d574c150d34b4a588af9]
 
 **9A.** Anything that may or must be done by a given designated HMRC officer under this Schedule may be done instead by any other designated HMRC officer
 
@@ -167,22 +167,22 @@ give to the notified taxpayer a written notice setting out whether the specified
 
 ## Annotations
 
-[^key-7a9e1dd03472652cb47f702ea3cfc457]: Textual amendment: Sch. 43B inserted (15.9.2016 with effect in accordance with s. 157(30) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 157(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/157/3)
+[^c-7a9e1dd03472652cb47f702ea3cfc457]: Textual amendment: Sch. 43B inserted (15.9.2016 with effect in accordance with s. 157(30) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 157(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/157/3)
 
-[^key-753057c27592f7cbc85445c0235dad1f]: Textual amendment: Sch. 43B para. 1(1)(a)(b) substituted (5.12.2017) by [The General Anti-Abuse Rule Procedure (Amendment) Regulations 2017 (S.I. 2017/1090)](https://www.legislation.gov.uk/uksi/2017/1090), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1090/regulation/1), [12(2)](https://www.legislation.gov.uk/uksi/2017/1090/regulation/12/2)
+[^c-753057c27592f7cbc85445c0235dad1f]: Textual amendment: Sch. 43B para. 1(1)(a)(b) substituted (5.12.2017) by [The General Anti-Abuse Rule Procedure (Amendment) Regulations 2017 (S.I. 2017/1090)](https://www.legislation.gov.uk/uksi/2017/1090), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1090/regulation/1), [12(2)](https://www.legislation.gov.uk/uksi/2017/1090/regulation/12/2)
 
-[^key-e11a267c6f08a54e322af985e32c9344]: Textual amendment: Words in [Sch. 43B para. 2(1)(a)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/43B/paragraph/2/1/a) inserted (with effect in accordance with s. 124(2) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 32 para. 12(2)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/32/paragraph/12/2)
+[^c-e11a267c6f08a54e322af985e32c9344]: Textual amendment: Words in [Sch. 43B para. 2(1)(a)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/43B/paragraph/2/1/a) inserted (with effect in accordance with s. 124(2) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 32 para. 12(2)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/32/paragraph/12/2)
 
-[^key-679a3c3da533abe23ccc629a705fbe7c]: Textual amendment: Words in Sch. 43B para. 3(3)(a) inserted (with effect in accordance with s. 124(2) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 32 para. 12(3)(a)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/32/paragraph/12/3/a)
+[^c-679a3c3da533abe23ccc629a705fbe7c]: Textual amendment: Words in Sch. 43B para. 3(3)(a) inserted (with effect in accordance with s. 124(2) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 32 para. 12(3)(a)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/32/paragraph/12/3/a)
 
-[^key-2577b926c2b55e92edc46b9f37cb9dfb]: Textual amendment: Words in Sch. 43B para. 3(3)(a) inserted (5.12.2017) by [The General Anti-Abuse Rule Procedure (Amendment) Regulations 2017 (S.I. 2017/1090)](https://www.legislation.gov.uk/uksi/2017/1090), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1090/regulation/1), [13(2)](https://www.legislation.gov.uk/uksi/2017/1090/regulation/13/2)
+[^c-2577b926c2b55e92edc46b9f37cb9dfb]: Textual amendment: Words in Sch. 43B para. 3(3)(a) inserted (5.12.2017) by [The General Anti-Abuse Rule Procedure (Amendment) Regulations 2017 (S.I. 2017/1090)](https://www.legislation.gov.uk/uksi/2017/1090), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1090/regulation/1), [13(2)](https://www.legislation.gov.uk/uksi/2017/1090/regulation/13/2)
 
-[^key-da98011544c52138a1c480a803fad3c3]: Textual amendment: Sch. 43B para. 3(3A) inserted (5.12.2017) by [The General Anti-Abuse Rule Procedure (Amendment) Regulations 2017 (S.I. 2017/1090)](https://www.legislation.gov.uk/uksi/2017/1090), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1090/regulation/1), [13(3)](https://www.legislation.gov.uk/uksi/2017/1090/regulation/13/3)
+[^c-da98011544c52138a1c480a803fad3c3]: Textual amendment: Sch. 43B para. 3(3A) inserted (5.12.2017) by [The General Anti-Abuse Rule Procedure (Amendment) Regulations 2017 (S.I. 2017/1090)](https://www.legislation.gov.uk/uksi/2017/1090), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1090/regulation/1), [13(3)](https://www.legislation.gov.uk/uksi/2017/1090/regulation/13/3)
 
-[^key-6142c7cbff9737fa9c39aa0678148ba0]: Textual amendment: Words in Sch. 43B para. 3(3A) inserted (with effect in accordance with s. 124(2) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 32 para. 12(3)(b)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/32/paragraph/12/3/b)
+[^c-6142c7cbff9737fa9c39aa0678148ba0]: Textual amendment: Words in Sch. 43B para. 3(3A) inserted (with effect in accordance with s. 124(2) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 32 para. 12(3)(b)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/32/paragraph/12/3/b)
 
-[^key-3d099dec8cc99b2f40c34befbf24119b]: Textual amendment: Words in Sch. 43B para. 3(3A) omitted (with effect in accordance with s. 124(2) of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 32 para. 12(3)(c)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/32/paragraph/12/3/c)
+[^c-3d099dec8cc99b2f40c34befbf24119b]: Textual amendment: Words in Sch. 43B para. 3(3A) omitted (with effect in accordance with s. 124(2) of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 32 para. 12(3)(c)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/32/paragraph/12/3/c)
 
-[^key-54e22c283e645fc53382746c99939bd4]: Textual amendment: Words in [Sch. 43B para. 9(1)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/43B/paragraph/9/1) omitted (with effect in accordance with s. 124(2) of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 32 para. 12(4)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/32/paragraph/12/4)
+[^c-54e22c283e645fc53382746c99939bd4]: Textual amendment: Words in [Sch. 43B para. 9(1)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/43B/paragraph/9/1) omitted (with effect in accordance with s. 124(2) of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 32 para. 12(4)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/32/paragraph/12/4)
 
-[^key-996f7f550382d574c150d34b4a588af9]: Textual amendment: Sch. 43B para. 9A and cross-heading inserted (5.12.2017) by [The General Anti-Abuse Rule Procedure (Amendment) Regulations 2017 (S.I. 2017/1090)](https://www.legislation.gov.uk/uksi/2017/1090), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1090/regulation/1), [14](https://www.legislation.gov.uk/uksi/2017/1090/regulation/14)
+[^c-996f7f550382d574c150d34b4a588af9]: Textual amendment: Sch. 43B para. 9A and cross-heading inserted (5.12.2017) by [The General Anti-Abuse Rule Procedure (Amendment) Regulations 2017 (S.I. 2017/1090)](https://www.legislation.gov.uk/uksi/2017/1090), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1090/regulation/1), [14](https://www.legislation.gov.uk/uksi/2017/1090/regulation/14)

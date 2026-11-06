@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 127. Supplies to export houses[^key-7485b592cc63b73f0d40f60c4f1d4a58][^key-79941756e179abe9a28bf87af90818e3]
+## 127. Supplies to export houses[^c-7485b592cc63b73f0d40f60c4f1d4a58][^c-79941756e179abe9a28bf87af90818e3]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7485b592cc63b73f0d40f60c4f1d4a58]: Textual amendment: [Reg. 127](https://www.legislation.gov.uk/uksi/1995/2518/regulation/127) omitted (1.4.1999) by virtue of [The Value Added Tax (Amendment) Regulations 1999 (S.I. 1999/438)](https://www.legislation.gov.uk/uksi/1999/438), [regs. 1](https://www.legislation.gov.uk/uksi/1999/438/regulation/1), [11](https://www.legislation.gov.uk/uksi/1999/438/regulation/11)
+[^c-7485b592cc63b73f0d40f60c4f1d4a58]: Textual amendment: [Reg. 127](https://www.legislation.gov.uk/uksi/1995/2518/regulation/127) omitted (1.4.1999) by virtue of [The Value Added Tax (Amendment) Regulations 1999 (S.I. 1999/438)](https://www.legislation.gov.uk/uksi/1999/438), [regs. 1](https://www.legislation.gov.uk/uksi/1999/438/regulation/1), [11](https://www.legislation.gov.uk/uksi/1999/438/regulation/11)
 
-[^key-79941756e179abe9a28bf87af90818e3]: Commencement: Reg. 127 in force at 20.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2518/regulation/1)
+[^c-79941756e179abe9a28bf87af90818e3]: Commencement: Reg. 127 in force at 20.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2518/regulation/1)

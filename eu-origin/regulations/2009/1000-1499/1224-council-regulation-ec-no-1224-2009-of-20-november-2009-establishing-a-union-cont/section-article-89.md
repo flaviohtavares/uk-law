@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 89. Measures to ensure compliance[^key-903477c98403a97699cb52f23ddd773b]
+## Article 89. Measures to ensure compliance[^c-903477c98403a97699cb52f23ddd773b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-903477c98403a97699cb52f23ddd773b]: Textual amendment: [Art. 89](https://www.legislation.gov.uk/eur/2009/1224/article/89) omitted (31.12.2020) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [4(81)](https://www.legislation.gov.uk/uksi/2019/739/regulation/4/81); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-903477c98403a97699cb52f23ddd773b]: Textual amendment: [Art. 89](https://www.legislation.gov.uk/eur/2009/1224/article/89) omitted (31.12.2020) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [4(81)](https://www.legislation.gov.uk/uksi/2019/739/regulation/4/81); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

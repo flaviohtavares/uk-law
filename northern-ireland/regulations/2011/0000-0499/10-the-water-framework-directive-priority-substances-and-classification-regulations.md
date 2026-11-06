@@ -32,7 +32,7 @@ summary: ''
 
 Environmental Protection
 
-The Water Framework Directive (Priority Substances and Classification) Regulations (Northern Ireland) 2011 (revoked)[^key-9c18d188c022add7f69d866837c57edb]
+The Water Framework Directive (Priority Substances and Classification) Regulations (Northern Ireland) 2011 (revoked)[^c-9c18d188c022add7f69d866837c57edb]
 
 Made
 
@@ -42,105 +42,105 @@ Coming into operation
 
 14th February 2011
 
-[^key-9c18d188c022add7f69d866837c57edb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9c18d188c022add7f69d866837c57edb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-9c18d188c022add7f69d866837c57edb]
+## 1. Citation and commencement[^c-9c18d188c022add7f69d866837c57edb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-9c18d188c022add7f69d866837c57edb]
+## 2. Interpretation[^c-9c18d188c022add7f69d866837c57edb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Typology and Environmental Standards[^key-9c18d188c022add7f69d866837c57edb]
+## 3. Typology and Environmental Standards[^c-9c18d188c022add7f69d866837c57edb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Environmental standards for priority substances, Intermittent Discharge Standards and standards for Shellfish Waters[^key-9c18d188c022add7f69d866837c57edb]
+## 4. Environmental standards for priority substances, Intermittent Discharge Standards and standards for Shellfish Waters[^c-9c18d188c022add7f69d866837c57edb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Classification of surface waters[^key-9c18d188c022add7f69d866837c57edb]
+## 5. Classification of surface waters[^c-9c18d188c022add7f69d866837c57edb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Classification of Groundwater[^key-9c18d188c022add7f69d866837c57edb]
+## 6. Classification of Groundwater[^c-9c18d188c022add7f69d866837c57edb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Designation of Mixing Zones[^key-9c18d188c022add7f69d866837c57edb]
+## 7. Designation of Mixing Zones[^c-9c18d188c022add7f69d866837c57edb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Inventory of emissions, discharges and losses[^key-9c18d188c022add7f69d866837c57edb]
+## 8. Inventory of emissions, discharges and losses[^c-9c18d188c022add7f69d866837c57edb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Revocations[^key-9c18d188c022add7f69d866837c57edb]
+## 9. Revocations[^c-9c18d188c022add7f69d866837c57edb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c18d188c022add7f69d866837c57edb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9c18d188c022add7f69d866837c57edb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1[^key-9c18d188c022add7f69d866837c57edb]
+## SCHEDULE 1[^c-9c18d188c022add7f69d866837c57edb]
 
-### PART 1 — Criteria for identifying the types of river, lake or transitional water to which the environmental standards specified in Part 2 of this Schedule apply[^key-9c18d188c022add7f69d866837c57edb]
+### PART 1 — Criteria for identifying the types of river, lake or transitional water to which the environmental standards specified in Part 2 of this Schedule apply[^c-9c18d188c022add7f69d866837c57edb]
 
-**1.**[^key-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Environmental Standards[^key-9c18d188c022add7f69d866837c57edb]
+### PART 2 — Environmental Standards[^c-9c18d188c022add7f69d866837c57edb]
 
-#### 1. Environmental standards for river water quality[^key-9c18d188c022add7f69d866837c57edb]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**2.**[^key-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**3.**[^key-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**4.**[^key-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 5. Environmental standards for river flows[^key-9c18d188c022add7f69d866837c57edb]
+#### 1. Environmental standards for river water quality[^c-9c18d188c022add7f69d866837c57edb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 6. Environmental standards for lake water quality[^key-9c18d188c022add7f69d866837c57edb]
+**2.**[^c-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^c-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4.**[^c-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 5. Environmental standards for river flows[^c-9c18d188c022add7f69d866837c57edb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**8.**[^key-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**9.**[^key-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 10. Environmental standards for protection of inland lake water levels[^key-9c18d188c022add7f69d866837c57edb]
+#### 6. Environmental standards for lake water quality[^c-9c18d188c022add7f69d866837c57edb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 11. Environmental standards for transitional and coastal water quality[^key-9c18d188c022add7f69d866837c57edb]
+**7.**[^c-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**8.**[^c-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**9.**[^c-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 10. Environmental standards for protection of inland lake water levels[^c-9c18d188c022add7f69d866837c57edb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+#### 11. Environmental standards for transitional and coastal water quality[^c-9c18d188c022add7f69d866837c57edb]
 
-#### 13. Environmental standards for specific pollutants[^key-9c18d188c022add7f69d866837c57edb]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**12.**[^c-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 13. Environmental standards for specific pollutants[^c-9c18d188c022add7f69d866837c57edb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -171,112 +171,112 @@ The Department may, when assessing the monitoring results against the standards,
 - natural background concentrations for metals and their compounds, if they prevent compliance with the standard; and
 - hardness, pH or other water quality parameters that affect the bioavailability of metals.
 
-### PART 3 — Boundary values for biological quality elements[^key-9c18d188c022add7f69d866837c57edb]
+### PART 3 — Boundary values for biological quality elements[^c-9c18d188c022add7f69d866837c57edb]
 
-#### 1. Boundary values for aquatic plants and animals in rivers[^key-9c18d188c022add7f69d866837c57edb]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**2.**[^key-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**3.**[^key-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**4.**[^key-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 5. Boundary values for aquatic plants and animals in lakes[^key-9c18d188c022add7f69d866837c57edb]
+#### 1. Boundary values for aquatic plants and animals in rivers[^c-9c18d188c022add7f69d866837c57edb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 10. Boundary values for aquatic plants and animals in transitional and coastal waters[^key-9c18d188c022add7f69d866837c57edb]
+#### 5. Boundary values for aquatic plants and animals in lakes[^c-9c18d188c022add7f69d866837c57edb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 4 — Intermittent Discharge Standards[^key-9c18d188c022add7f69d866837c57edb]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## SCHEDULE 2[^key-9c18d188c022add7f69d866837c57edb]
-
-### PART 1 — Determining Ecological Status of Surface Waters that are not designated Heavily Modified or Artificial[^key-9c18d188c022add7f69d866837c57edb]
-
-**1.**[^key-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**2.**[^key-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### PART 2 — Determining Chemical Status of Surface Waters[^key-9c18d188c022add7f69d866837c57edb]
-
-**1.**[^key-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### PART 3 — Determining Ecological Potential of Heavily Modified and Artificial Water Bodies[^key-9c18d188c022add7f69d866837c57edb]
-
-**1.**[^key-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**2.**[^key-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**3.**[^key-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### PART 4 — Determining High Status for Morphological Elements[^key-9c18d188c022add7f69d866837c57edb]
-
-**1.**[^key-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**2.**[^key-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**3.**[^key-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**4.**[^key-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**5.**[^key-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### PART 5 — Determining Overall Status of Surface Water Bodies[^key-9c18d188c022add7f69d866837c57edb]
-
-**1.**[^key-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## SCHEDULE 3 — Determining Quantitative status of Groundwater[^key-9c18d188c022add7f69d866837c57edb]
-
-**1.**[^key-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## SCHEDULE 4 — Presentation of monitoring results and classification[^key-9c18d188c022add7f69d866837c57edb]
+#### 10. Boundary values for aquatic plants and animals in transitional and coastal waters[^c-9c18d188c022add7f69d866837c57edb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 5[^key-9c18d188c022add7f69d866837c57edb]
+**11.**[^c-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 1 — Shellfish Waters Standards[^key-9c18d188c022add7f69d866837c57edb]
+**12.**[^c-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Microbial Guideline Value[^key-9c18d188c022add7f69d866837c57edb]
+**14.**[^c-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 1. Microbial Guideline Value[^key-9c18d188c022add7f69d866837c57edb]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 2. Compliance with the microbial guideline value[^key-9c18d188c022add7f69d866837c57edb]
+### PART 4 — Intermittent Discharge Standards[^c-9c18d188c022add7f69d866837c57edb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3. Sampling and analysis[^key-9c18d188c022add7f69d866837c57edb]
+## SCHEDULE 2[^c-9c18d188c022add7f69d866837c57edb]
+
+### PART 1 — Determining Ecological Status of Surface Waters that are not designated Heavily Modified or Artificial[^c-9c18d188c022add7f69d866837c57edb]
+
+**1.**[^c-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^c-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART 2 — Determining Chemical Status of Surface Waters[^c-9c18d188c022add7f69d866837c57edb]
+
+**1.**[^c-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART 3 — Determining Ecological Potential of Heavily Modified and Artificial Water Bodies[^c-9c18d188c022add7f69d866837c57edb]
+
+**1.**[^c-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^c-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^c-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART 4 — Determining High Status for Morphological Elements[^c-9c18d188c022add7f69d866837c57edb]
+
+**1.**[^c-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^c-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^c-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4.**[^c-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5.**[^c-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART 5 — Determining Overall Status of Surface Water Bodies[^c-9c18d188c022add7f69d866837c57edb]
+
+**1.**[^c-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 3 — Determining Quantitative status of Groundwater[^c-9c18d188c022add7f69d866837c57edb]
+
+**1.**[^c-9c18d188c022add7f69d866837c57edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 4 — Presentation of monitoring results and classification[^c-9c18d188c022add7f69d866837c57edb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c18d188c022add7f69d866837c57edb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## SCHEDULE 5[^c-9c18d188c022add7f69d866837c57edb]
+
+### PART 1 — Shellfish Waters Standards[^c-9c18d188c022add7f69d866837c57edb]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART 2 — Microbial Guideline Value[^c-9c18d188c022add7f69d866837c57edb]
+
+#### 1. Microbial Guideline Value[^c-9c18d188c022add7f69d866837c57edb]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 2. Compliance with the microbial guideline value[^c-9c18d188c022add7f69d866837c57edb]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 3. Sampling and analysis[^c-9c18d188c022add7f69d866837c57edb]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-9c18d188c022add7f69d866837c57edb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9c18d188c022add7f69d866837c57edb]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2011/10) revoked (23.10.2015) by [The Water Framework Directive (Classification, Priority Substances and Shellfish Waters) Regulations (Northern Ireland) 2015 (S.R. 2015/351)](https://www.legislation.gov.uk/nisr/2015/351), [reg. 27](https://www.legislation.gov.uk/nisr/2015/351/regulation/27)
+[^c-9c18d188c022add7f69d866837c57edb]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2011/10) revoked (23.10.2015) by [The Water Framework Directive (Classification, Priority Substances and Shellfish Waters) Regulations (Northern Ireland) 2015 (S.R. 2015/351)](https://www.legislation.gov.uk/nisr/2015/351), [reg. 27](https://www.legislation.gov.uk/nisr/2015/351/regulation/27)

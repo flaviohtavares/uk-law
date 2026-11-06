@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 221. Service of notices following appointment[^key-f85010bd9a5b4538ae132217c828ed79]
+## 221. Service of notices following appointment[^c-f85010bd9a5b4538ae132217c828ed79]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Any notice served on, or sent to, a person appointed under rule 219 has the same
 
 ## Annotations
 
-[^key-f85010bd9a5b4538ae132217c828ed79]: Commencement: Rule 221 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-f85010bd9a5b4538ae132217c828ed79]: Commencement: Rule 221 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

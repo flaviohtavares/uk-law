@@ -35,7 +35,7 @@ of 6 November 2012
 
 supplementing Regulation (EU) No 510/2011 of the European Parliament and of the Council with regard to rules for the application for a derogation from the specific CO<sub>2</sub> emissions targets for new light commercial vehicles
 
-(Text with EEA relevance) (revoked)[^key-491fd1e5d8c2cda4f9de026208582263]
+(Text with EEA relevance) (revoked)[^c-491fd1e5d8c2cda4f9de026208582263]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -229,4 +229,4 @@ supplementing Regulation (EU) No 510/2011 of the European Parliament and of the 
 
 ## Annotations
 
-[^key-491fd1e5d8c2cda4f9de026208582263]: Textual amendment: Regulation revoked (E.W.S.) (3.1.2024) by [The Vehicle Emissions Trading Schemes Order 2023 (S.I. 2023/1394)](https://www.legislation.gov.uk/uksi/2023/1394), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b), [114(1)](https://www.legislation.gov.uk/uksi/2023/1394/article/114/1) (with [art. 117](https://www.legislation.gov.uk/uksi/2023/1394/article/117)); and (N.I.) (1.1.2025) by [The Vehicle Emissions Trading Schemes (Amendment) Order 2024 (S.I. 2024/1130)](https://www.legislation.gov.uk/uksi/2024/1130), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2024/1130/article/1/3), [21](https://www.legislation.gov.uk/uksi/2024/1130/article/21)
+[^c-491fd1e5d8c2cda4f9de026208582263]: Textual amendment: Regulation revoked (E.W.S.) (3.1.2024) by [The Vehicle Emissions Trading Schemes Order 2023 (S.I. 2023/1394)](https://www.legislation.gov.uk/uksi/2023/1394), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b), [114(1)](https://www.legislation.gov.uk/uksi/2023/1394/article/114/1) (with [art. 117](https://www.legislation.gov.uk/uksi/2023/1394/article/117)); and (N.I.) (1.1.2025) by [The Vehicle Emissions Trading Schemes (Amendment) Order 2024 (S.I. 2024/1130)](https://www.legislation.gov.uk/uksi/2024/1130), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2024/1130/article/1/3), [21](https://www.legislation.gov.uk/uksi/2024/1130/article/21)

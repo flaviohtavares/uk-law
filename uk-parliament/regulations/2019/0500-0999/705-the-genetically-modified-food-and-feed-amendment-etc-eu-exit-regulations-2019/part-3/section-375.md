@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 375.[^key-7113b88ceffa6c6fa57e0ccb89537646]
+## 375.[^c-7113b88ceffa6c6fa57e0ccb89537646]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Article 6, omit “Community”.
 
 ## Annotations
 
-[^key-7113b88ceffa6c6fa57e0ccb89537646]: Commencement: Reg. 375 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-7113b88ceffa6c6fa57e0ccb89537646]: Commencement: Reg. 375 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

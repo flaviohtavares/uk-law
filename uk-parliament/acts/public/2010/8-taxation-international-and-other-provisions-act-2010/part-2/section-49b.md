@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49B. Applying section 42(2) to non-trading credits from loan relationships etc[^key-73983329f308c1f0610b810c24f5e731]
+## 49B. Applying section 42(2) to non-trading credits from loan relationships etc[^c-73983329f308c1f0610b810c24f5e731]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,4 +62,4 @@ D is the amount given by subsection (3).
 
 ## Annotations
 
-[^key-73983329f308c1f0610b810c24f5e731]: Textual amendment: S. 49B inserted (with effect in accordance with s. 292(9)(10) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 292(7)](https://www.legislation.gov.uk/ukpga/2014/26/section/292/7)
+[^c-73983329f308c1f0610b810c24f5e731]: Textual amendment: S. 49B inserted (with effect in accordance with s. 292(9)(10) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 292(7)](https://www.legislation.gov.uk/ukpga/2014/26/section/292/7)

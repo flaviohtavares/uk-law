@@ -48,13 +48,13 @@ In accordance with section 3(5) of the 2014 Act, the Department of Finance[^f000
 
 To the extent required by section 27 of PSPJOA 2022, these Regulations are made in accordance with Treasury directions made under that section[^f00004].
 
-## 1. Citation, commencement, and effect[^key-411ef84f18b5cc29977d238bf44a5cfb]
+## 1. Citation, commencement, and effect[^c-411ef84f18b5cc29977d238bf44a5cfb]
 
 (1) These Regulations may be cited as the Police Pensions (Remediable Service) (Amendment) Regulations (Northern Ireland) 2024.
 
 (2) These Regulations come into operation on 22<sup>nd</sup> July 2024 but have effect from 1<sup>st</sup> October 2023.
 
-## 2. Amendment of the Police Pensions (Remediable Service) Regulations (Northern Ireland) 2023[^key-aa86983e0738cad1e9a60017189316e0]
+## 2. Amendment of the Police Pensions (Remediable Service) Regulations (Northern Ireland) 2023[^c-aa86983e0738cad1e9a60017189316e0]
 
 (1) The Police Pensions (Remediable Service) Regulations (Northern Ireland) 2023[^f00005] are amended in accordance with this regulation.
 
@@ -157,9 +157,9 @@ These Regulations are scheme regulations under the Public Service Pensions Act (
 
 [^f00004]: Footnote: See section 38 of PSPJOA 2022 for the meaning of “Treasury directions”, which includes directions given by the Department of Finance. The Public Service Pensions (Exercise of Powers, Compensation and Information) Directions (Northern Ireland) 2023 were published on 26 January 2023.
 
-[^key-411ef84f18b5cc29977d238bf44a5cfb]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2024/138/regulation/1) in operation at 22.7.2024 with effect in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/138/regulation/1/2)
+[^c-411ef84f18b5cc29977d238bf44a5cfb]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2024/138/regulation/1) in operation at 22.7.2024 with effect in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/138/regulation/1/2)
 
-[^key-aa86983e0738cad1e9a60017189316e0]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2024/138/regulation/2) in operation at 22.7.2024 with effect in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/138/regulation/1/2)
+[^c-aa86983e0738cad1e9a60017189316e0]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2024/138/regulation/2) in operation at 22.7.2024 with effect in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/138/regulation/1/2)
 
 [^f00005]: Footnote: [S.R. 2023 No. 122](https://www.legislation.gov.uk/nisr/2023/122).
 

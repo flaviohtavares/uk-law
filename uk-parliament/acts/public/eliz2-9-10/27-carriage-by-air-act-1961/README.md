@@ -31,7 +31,7 @@ Carriage by Air Act 1961
 
 An Act to give effect to the Convention concerning international carriage by air known as “the Warsaw Convention as amended at The Hague, 1955", to enable the rules contained in that Convention to be applied, with or without modification, in other cases and, in particular, to non-international carriage by air; and for connected purposes.
 
-\[22nd June 1961\][^c12405921][^c12405931][^c12405941][^key-327e8e89f45957b61a320886d25f2b22]
+\[22nd June 1961\][^c12405921][^c12405931][^c12405941][^c-327e8e89f45957b61a320886d25f2b22]
 
 ## Contents
 
@@ -70,4 +70,4 @@ SCHEDULES
 
 [^c12405941]: Modification: Act applied with modifications (in relation to hovercraft) by [S. I. 1986/1305](https://www.legislation.gov.uk/uksi/1986/1305), [arts. 3](https://www.legislation.gov.uk/uksi/1986/1305/article/3), [5](https://www.legislation.gov.uk/uksi/1986/1305/article/5), [Sch. 1](https://www.legislation.gov.uk/uksi/1986/1305/schedule/1)
 
-[^key-327e8e89f45957b61a320886d25f2b22]: Modification: [Act](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/27) applied (6.8.2004) by [The Carriage by Air Acts (Application of Provisions) Order 2004 (S.I. 2004/1899)](https://www.legislation.gov.uk/uksi/2004/1899), [art. 8](https://www.legislation.gov.uk/uksi/2004/1899/article/8) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2004/1899/article/1/3), [3](https://www.legislation.gov.uk/uksi/2004/1899/article/3))
+[^c-327e8e89f45957b61a320886d25f2b22]: Modification: [Act](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/27) applied (6.8.2004) by [The Carriage by Air Acts (Application of Provisions) Order 2004 (S.I. 2004/1899)](https://www.legislation.gov.uk/uksi/2004/1899), [art. 8](https://www.legislation.gov.uk/uksi/2004/1899/article/8) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2004/1899/article/1/3), [3](https://www.legislation.gov.uk/uksi/2004/1899/article/3))

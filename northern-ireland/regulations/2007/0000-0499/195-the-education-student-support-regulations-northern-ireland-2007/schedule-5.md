@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 90
 
-### 1. Definitions[^key-012ffb9976e22d5f1b2d4a2f33c948ec]
+### 1. Definitions[^c-012ffb9976e22d5f1b2d4a2f33c948ec]
 
 In this Schedule:—
 
@@ -52,7 +52,7 @@ In this Schedule:—
   - (ii) the income tax legislation of another Member State which applies to the person’s income; or
   - (iii) where the legislation of more than one Member State applies to the period, the legislation under which the Department considers the person will pay the largest amount of tax in that period (except as otherwise provided in paragraph 5).
 
-### 2. Independent eligible student[^key-8ec599097f7efa60900fcfb740e66c87]
+### 2. Independent eligible student[^c-8ec599097f7efa60900fcfb740e66c87]
 
 (1) An independent eligible student is an eligible student where—
 
@@ -77,7 +77,7 @@ In this Schedule:—
 
 (2) An eligible student who qualifies as an independent eligible student under paragraph 2(1)(j) in respect of an academic year of a designated course retains that status for the duration of the period of eligibility.
 
-### 3. Household income[^key-78f6566b34112ee18fb1a1ca09d96af1]
+### 3. Household income[^c-78f6566b34112ee18fb1a1ca09d96af1]
 
 (1) The amount of an eligible student’s contribution depends on the household income.
 
@@ -96,7 +96,7 @@ In this Schedule:—
 
 (4) For the purpose of calculating the contribution payable in respect of a parent student, the residual income of the parent student’s partner must not be aggregated under paragraph (b) of sub-paragraph (2) in the case of a parent student whose child or whose partner’s child holds an award in respect of which the household income is calculated with reference to the residual income of the parent student or of the parent student’s partner or of both.
 
-### 4. Calculation of eligible student’s residual income[^key-395d5bb2dc34ad217b64c3bfb9e170fc]
+### 4. Calculation of eligible student’s residual income[^c-395d5bb2dc34ad217b64c3bfb9e170fc]
 
 (1) For the purpose of determining the residual income of an eligible student, there is deducted from his taxable income (unless already deducted in determining taxable income) the aggregate of any amounts falling within any of the following sub-paragraphs—
 
@@ -110,12 +110,12 @@ In this Schedule:—
 - (a) if the student purchases sterling with the income, the amount of sterling the student so receives;
 - (b) otherwise, the value of the sterling which the income would purchase using the rate for the month in which it is received published by the Office for National Statistics[^f00075].
 
-### 5. Calculation of parent’s residual income[^key-d38ee07cfa2ba6586340540a974b39ec]
+### 5. Calculation of parent’s residual income[^c-d38ee07cfa2ba6586340540a974b39ec]
 
 (1) For the purposes of determining the taxable income of an eligible student’s parent, any deductions which fall to be made or exemptions which are permitted—
 
 - (a) by way of personal reliefs provided for in Chapter 1 of Part VII of the Income and Corporation Taxes Act 1988 or, where the income is computed for the purposes of the income tax legislation of another Member State, any comparable personal reliefs;
-- (b) pursuant to any statutory provision[^key-6f148ef92346632cb94d707d5f1c216a] under which payments which would otherwise under United Kingdom law form part of a person’s income are not treated as such; or
+- (b) pursuant to any statutory provision[^c-6f148ef92346632cb94d707d5f1c216a] under which payments which would otherwise under United Kingdom law form part of a person’s income are not treated as such; or
 - (c) under sub-paragraph (2)
 
 must not be made or permitted.
@@ -156,7 +156,7 @@ his taxable income for the purposes of this Schedule is computed as though the i
 - (a) the appropriate proportion of the household income determined in accordance with sub-paragraph (9), being the proportion in respect of that part of the relevant year during which the parents are separated; and
 - (b) the appropriate proportion of the household income determined otherwise in respect of the remainder of the relevant year.
 
-### 6. Calculation of eligible student’s partner’s residual income[^key-2fc3eb5840b115c85f3cca8a8bc19023]
+### 6. Calculation of eligible student’s partner’s residual income[^c-2fc3eb5840b115c85f3cca8a8bc19023]
 
 (1) — Subject to sub-paragraphs (2), (3) and (4) an eligible student’s partner’s income is determined in accordance with paragraph 5 (other than sub-paragraphs (8), (9) and (10) of paragraph 5), references to the parent being construed as references to the eligible student’s partner.
 
@@ -166,11 +166,11 @@ his taxable income for the purposes of this Schedule is computed as though the i
 
 (4) Where an eligible student has more than one partner in any one academic year, the provisions of this paragraph apply in relation to each.
 
-### 7. Calculation of parent’s partner’s residual income[^key-8bbcf653848f097cd70f9f08a58f0f7a]
+### 7. Calculation of parent’s partner’s residual income[^c-8bbcf653848f097cd70f9f08a58f0f7a]
 
 The income of a new eligible student’s parent’s partner whose income is part of the household income by virtue of paragraph 3(2)(a) is determined in accordance with paragraph 6, references to the eligible student’s partner being construed as references to the new eligible student’s parent’s partner, and references to the eligible student being construed as references to the new eligible student’s parent.
 
-### 8. Calculation of contribution – old system students[^key-de110d14daa97ac3f0221438245dbe1c]
+### 8. Calculation of contribution – old system students[^c-de110d14daa97ac3f0221438245dbe1c]
 
 (1) The contribution payable in relation to an old system student who is not an independent eligible student is—
 
@@ -198,7 +198,7 @@ The income of a new eligible student’s parent’s partner whose income is part
 - (a) a contribution is payable in relation to two or more eligible students (other than current system students) in respect of the same income under paragraph 5 or, where the relevant parent’s partner’s residual income is taken into account, under paragraphs 5 and 7; or
 - (b) the household income consists of the residual income of an independent eligible student and his partner where both hold a statutory award.
 
-### 9. Calculation of contribution – current system students[^key-8eb142d7352c1edf9f0b41a44ea8c0f0]
+### 9. Calculation of contribution – current system students[^c-8eb142d7352c1edf9f0b41a44ea8c0f0]
 
 (1) In relation to an eligible student who is a current system student, the contribution payable is—
 
@@ -216,7 +216,7 @@ The income of a new eligible student’s parent’s partner whose income is part
 - (a) a contribution is payable in relation to two or more eligible students (other than old system students) in respect of the same income under paragraph 5 or, where the relevant parent’s partner’s residual income is taken into account, under paragraphs 5 and 7; or
 - (b) the household income consists of the residual income of an independent eligible student and his partner where both hold a statutory award.
 
-### 10. Split contributions – eligible students who are not independent[^key-2e4df1abba53032a8275ebfe81b76b64]
+### 10. Split contributions – eligible students who are not independent[^c-2e4df1abba53032a8275ebfe81b76b64]
 
 (1) This paragraph applies where a contribution is payable in relation to an eligible student who is not an independent eligible student.
 
@@ -271,7 +271,7 @@ the contribution in respect of an eligible student is calculated under sub-parag
 
 (13) In this paragraph, “**relevant household**” means all those eligible students in respect of whom a contribution is calculated with reference to the same income under both paragraphs 5 and 7.
 
-### 11. Split contributions – independent eligible students[^key-42bb004b3ee9ba4c68c15888fa6146d8]
+### 11. Split contributions – independent eligible students[^c-42bb004b3ee9ba4c68c15888fa6146d8]
 
 (1) Where a contribution is payable under paragraph 8 or 9 in relation to an independent eligible student with a partner, the contribution is payable in accordance with the following sub-paragraphs—
 
@@ -288,15 +288,15 @@ the contribution in respect of an eligible student is calculated under sub-parag
 
 ## Annotations
 
-[^key-012ffb9976e22d5f1b2d4a2f33c948ec]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/nisr/2007/195/schedule/5/paragraph/1) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-012ffb9976e22d5f1b2d4a2f33c948ec]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/nisr/2007/195/schedule/5/paragraph/1) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
 
-[^key-8ec599097f7efa60900fcfb740e66c87]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/nisr/2007/195/schedule/5/paragraph/2) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-8ec599097f7efa60900fcfb740e66c87]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/nisr/2007/195/schedule/5/paragraph/2) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
 
 [^f00072]: Footnote: [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755)
 
-[^key-78f6566b34112ee18fb1a1ca09d96af1]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/nisr/2007/195/schedule/5/paragraph/3) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-78f6566b34112ee18fb1a1ca09d96af1]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/nisr/2007/195/schedule/5/paragraph/3) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
 
-[^key-395d5bb2dc34ad217b64c3bfb9e170fc]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/nisr/2007/195/schedule/5/paragraph/4) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-395d5bb2dc34ad217b64c3bfb9e170fc]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/nisr/2007/195/schedule/5/paragraph/4) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
 
 [^f00073]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1); section 273 was amended by the Finance Act [1988 (c. 39)](https://www.legislation.gov.uk/ukpga/1988/39), Schedule 3, paragraph 10 and the Income Tax (Trading and other Income) Act 2005, Schedule 1. Amendments to section 273 made by the Finance Act [2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), section 281 and Schedule 35 do not come into force until 6th April 2006. Sections 619 and 639 are repealed by the Finance Act 2004, section 326 and Schedule 42 with effect from 6th April 2006 subject to the transitional provisions and savings in Schedule 36 to the Finance Act 2004.
 
@@ -304,22 +304,22 @@ the contribution in respect of an eligible student is calculated under sub-parag
 
 [^f00075]: Footnote: “**Financial Statistics**” (ISSN 0015-203X).
 
-[^key-d38ee07cfa2ba6586340540a974b39ec]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/nisr/2007/195/schedule/5/paragraph/5) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-d38ee07cfa2ba6586340540a974b39ec]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/nisr/2007/195/schedule/5/paragraph/5) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
 
-[^key-6f148ef92346632cb94d707d5f1c216a]: Textual amendment: Words in [Sch. 5 para. 5(1)(b)](https://www.legislation.gov.uk/nisr/2007/195/schedule/5/paragraph/5/1/b) substituted (21.9.2007) by [The Education (Student Support) (Amendment) (No. 2) Regulations (Northern Ireland) 2007 (S.R. 2007/363)](https://www.legislation.gov.uk/nisr/2007/363), [regs. 1](https://www.legislation.gov.uk/nisr/2007/363/regulation/1), [24](https://www.legislation.gov.uk/nisr/2007/363/regulation/24)
+[^c-6f148ef92346632cb94d707d5f1c216a]: Textual amendment: Words in [Sch. 5 para. 5(1)(b)](https://www.legislation.gov.uk/nisr/2007/195/schedule/5/paragraph/5/1/b) substituted (21.9.2007) by [The Education (Student Support) (Amendment) (No. 2) Regulations (Northern Ireland) 2007 (S.R. 2007/363)](https://www.legislation.gov.uk/nisr/2007/363), [regs. 1](https://www.legislation.gov.uk/nisr/2007/363/regulation/1), [24](https://www.legislation.gov.uk/nisr/2007/363/regulation/24)
 
-[^key-2fc3eb5840b115c85f3cca8a8bc19023]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/nisr/2007/195/schedule/5/paragraph/6) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-2fc3eb5840b115c85f3cca8a8bc19023]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/nisr/2007/195/schedule/5/paragraph/6) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
 
-[^key-8bbcf653848f097cd70f9f08a58f0f7a]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/nisr/2007/195/schedule/5/paragraph/7) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-8bbcf653848f097cd70f9f08a58f0f7a]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/nisr/2007/195/schedule/5/paragraph/7) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
 
-[^key-de110d14daa97ac3f0221438245dbe1c]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/nisr/2007/195/schedule/5/paragraph/8) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-de110d14daa97ac3f0221438245dbe1c]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/nisr/2007/195/schedule/5/paragraph/8) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
 
-[^key-8eb142d7352c1edf9f0b41a44ea8c0f0]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/nisr/2007/195/schedule/5/paragraph/9) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-8eb142d7352c1edf9f0b41a44ea8c0f0]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/nisr/2007/195/schedule/5/paragraph/9) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
 
-[^key-2e4df1abba53032a8275ebfe81b76b64]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/nisr/2007/195/schedule/5/paragraph/10) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-2e4df1abba53032a8275ebfe81b76b64]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/nisr/2007/195/schedule/5/paragraph/10) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
 
 [^f00076]: Footnote: [S.R. 2003 No. 459](https://www.legislation.gov.uk/nisr/2003/459)
 
-[^key-42bb004b3ee9ba4c68c15888fa6146d8]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/nisr/2007/195/schedule/5/paragraph/11) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-42bb004b3ee9ba4c68c15888fa6146d8]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/nisr/2007/195/schedule/5/paragraph/11) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
 
 [^f00077]: Footnote: [S.R. 2003 No. 459](https://www.legislation.gov.uk/nisr/2003/459)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 333G. Public authorities: duty to have regard to shared local growth priorities for London[^key-1c78c8b38c70281140241ec2657fce3e]
+## 333G. Public authorities: duty to have regard to shared local growth priorities for London[^c-1c78c8b38c70281140241ec2657fce3e]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1c78c8b38c70281140241ec2657fce3e]: Textual amendment: [S. 333G](https://www.legislation.gov.uk/ukpga/1999/29/section/333G) inserted (29.4.2026 for specified purposes, 29.6.2026 in so far as not already in force) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5), [Sch. 22 para. 1(6)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/22/paragraph/1/6) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-1c78c8b38c70281140241ec2657fce3e]: Textual amendment: [S. 333G](https://www.legislation.gov.uk/ukpga/1999/29/section/333G) inserted (29.4.2026 for specified purposes, 29.6.2026 in so far as not already in force) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5), [Sch. 22 para. 1(6)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/22/paragraph/1/6) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))

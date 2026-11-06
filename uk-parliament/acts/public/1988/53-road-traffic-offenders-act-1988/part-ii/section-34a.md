@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34A. Reduced disqualification period for attendance on courses.[^key-b82c3418bcf933c40b3c5f4ea55f930b][^key-b394bdfe1e72c2148f117298cbf2db88]
+## 34A. Reduced disqualification period for attendance on courses.[^c-b82c3418bcf933c40b3c5f4ea55f930b][^c-b394bdfe1e72c2148f117298cbf2db88]
 
 *Extent: E+W+S*
 
@@ -72,6 +72,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b82c3418bcf933c40b3c5f4ea55f930b]: Modification: S. 34A modified (temp.) (13.4.2015) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [s. 182(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/5), [Sch. 22 paras. 30](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/30), [31](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/31) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180)); [S.I. 2015/819](https://www.legislation.gov.uk/uksi/2015/819), [art. 2(c)](https://www.legislation.gov.uk/uksi/2015/819/article/2/c)
+[^c-b82c3418bcf933c40b3c5f4ea55f930b]: Modification: S. 34A modified (temp.) (13.4.2015) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [s. 182(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/5), [Sch. 22 paras. 30](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/30), [31](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/31) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180)); [S.I. 2015/819](https://www.legislation.gov.uk/uksi/2015/819), [art. 2(c)](https://www.legislation.gov.uk/uksi/2015/819/article/2/c)
 
-[^key-b394bdfe1e72c2148f117298cbf2db88]: Textual amendment: Ss. 34A-34C substituted for ss. 34A-34C (21.12.2012 for specified purposes, 24.6.2013 for specified purposes) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 35](https://www.legislation.gov.uk/ukpga/2006/49/section/35), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10); [S.I. 2012/2938](https://www.legislation.gov.uk/uksi/2012/2938), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2012/2938/article/2/1/a)[(b)](https://www.legislation.gov.uk/uksi/2012/2938/article/2/1/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2012/2938/article/3))
+[^c-b394bdfe1e72c2148f117298cbf2db88]: Textual amendment: Ss. 34A-34C substituted for ss. 34A-34C (21.12.2012 for specified purposes, 24.6.2013 for specified purposes) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 35](https://www.legislation.gov.uk/ukpga/2006/49/section/35), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10); [S.I. 2012/2938](https://www.legislation.gov.uk/uksi/2012/2938), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2012/2938/article/2/1/a)[(b)](https://www.legislation.gov.uk/uksi/2012/2938/article/2/1/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2012/2938/article/3))

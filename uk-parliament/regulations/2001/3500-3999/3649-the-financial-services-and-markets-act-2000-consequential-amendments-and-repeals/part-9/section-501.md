@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 501. Interpretation of the 1995 Regulations[^key-a641d89fce2dab7714c3231000f23238]
+## 501. Interpretation of the 1995 Regulations[^c-a641d89fce2dab7714c3231000f23238]
 
 *Extent: E+W+S+N.I.*
 
@@ -69,6 +69,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a641d89fce2dab7714c3231000f23238]: Commencement: Art. 501 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-a641d89fce2dab7714c3231000f23238]: Commencement: Art. 501 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00329]: Footnote: This definition of “Ecu” (which refers to a definition of the term in the Financial Services Act 1986) is redundant, by virtue of Article 2 of Council Regulation 947/98/EC which replaces the Ecu with the euro. Article 1 of Council Regulation 1103/97/EC has the effect that every reference in a legal instrument to the Ecu is replaced by a reference to the Euro, at the rate of one euro to one Ecu. Where “Ecu” is not defined in any such instrument, it is presumed to mean “Ecu” as defined in Regulation 3320/94/EC.

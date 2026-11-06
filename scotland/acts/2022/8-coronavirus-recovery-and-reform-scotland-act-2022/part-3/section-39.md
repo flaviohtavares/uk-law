@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 39. Disapplication of physical presence requirements[^key-cb15264076ecba4ebcbbcb9e9d62bd88]
+## 39. Disapplication of physical presence requirements[^c-cb15264076ecba4ebcbbcb9e9d62bd88]
 
 *Extent: S*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cb15264076ecba4ebcbbcb9e9d62bd88]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2022/8/section/39) in force at 1.10.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
+[^c-cb15264076ecba4ebcbbcb9e9d62bd88]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2022/8/section/39) in force at 1.10.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)

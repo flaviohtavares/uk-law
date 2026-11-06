@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70A. Orders for securing compliance with external order[^key-4fa9543ab7b98fcb38491ccac25f4851]
+## 70A. Orders for securing compliance with external order[^c-4fa9543ab7b98fcb38491ccac25f4851]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4fa9543ab7b98fcb38491ccac25f4851]: Textual amendment: [Arts. 70A](https://www.legislation.gov.uk/uksi/2005/3181/article/70A), [70B](https://www.legislation.gov.uk/uksi/2005/3181/article/70B) inserted (11.8.2016) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2016 (S.I. 2016/662)](https://www.legislation.gov.uk/uksi/2016/662), [arts. 1](https://www.legislation.gov.uk/uksi/2016/662/article/1), [14](https://www.legislation.gov.uk/uksi/2016/662/article/14)
+[^c-4fa9543ab7b98fcb38491ccac25f4851]: Textual amendment: [Arts. 70A](https://www.legislation.gov.uk/uksi/2005/3181/article/70A), [70B](https://www.legislation.gov.uk/uksi/2005/3181/article/70B) inserted (11.8.2016) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2016 (S.I. 2016/662)](https://www.legislation.gov.uk/uksi/2016/662), [arts. 1](https://www.legislation.gov.uk/uksi/2016/662/article/1), [14](https://www.legislation.gov.uk/uksi/2016/662/article/14)

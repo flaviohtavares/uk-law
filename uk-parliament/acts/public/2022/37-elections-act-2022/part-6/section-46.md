@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Electronic material relating to more than one candidate or future candidate[^key-917619bd24a89e5d38e98d587606584d][^key-9624da900408b4ae32a814ad26f1e2b1]
+## 46. Electronic material relating to more than one candidate or future candidate[^c-917619bd24a89e5d38e98d587606584d][^c-9624da900408b4ae32a814ad26f1e2b1]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-917619bd24a89e5d38e98d587606584d]: Commencement: S. 46 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-917619bd24a89e5d38e98d587606584d]: Commencement: S. 46 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-9624da900408b4ae32a814ad26f1e2b1]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2022/37/section/46) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/f) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/10))
+[^c-9624da900408b4ae32a814ad26f1e2b1]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2022/37/section/46) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/f) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/10))

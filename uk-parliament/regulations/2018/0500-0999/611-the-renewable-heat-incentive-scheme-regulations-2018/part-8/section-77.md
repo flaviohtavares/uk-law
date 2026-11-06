@@ -36,7 +36,7 @@ may apply to the Authority to be registered in respect of that additional biomet
 
 (3) Where a participant is registered in respect of additional biomethane, the Authority must specify the maximum additional capacity in relation to which the participant is being registered.
 
-(4) Periodic support payments for additional biomethane may not be made beyond the tariff end date notified in accordance with regulation 32(10)(e)[^key-9531101801fb76353638ec25e67adea3] when the participant was originally registered as a producer of biomethane for injection.
+(4) Periodic support payments for additional biomethane may not be made beyond the tariff end date notified in accordance with regulation 32(10)(e)[^c-9531101801fb76353638ec25e67adea3] when the participant was originally registered as a producer of biomethane for injection.
 
 (5) For the purposes of this regulation—
 
@@ -51,4 +51,4 @@ may apply to the Authority to be registered in respect of that additional biomet
 
 ## Annotations
 
-[^key-9531101801fb76353638ec25e67adea3]: Textual amendment: Word in [reg. 77(4)](https://www.legislation.gov.uk/uksi/2018/611/regulation/77/4) substituted (1.4.2021) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(4)(b)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/4/b), [34](https://www.legislation.gov.uk/uksi/2021/76/regulation/34)
+[^c-9531101801fb76353638ec25e67adea3]: Textual amendment: Word in [reg. 77(4)](https://www.legislation.gov.uk/uksi/2018/611/regulation/77/4) substituted (1.4.2021) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(4)(b)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/4/b), [34](https://www.legislation.gov.uk/uksi/2021/76/regulation/34)

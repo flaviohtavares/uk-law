@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 488. Prevention by members of deemed re-appointment of auditor[^c19901651][^c19901631][^c19667311][^c20617721][^key-a2a4211a871f041d2ad13bb194f4849d][^c19901271][^c19901181]
+## 488. Prevention by members of deemed re-appointment of auditor[^c19901651][^c19901631][^c19667311][^c20617721][^c-a2a4211a871f041d2ad13bb194f4849d][^c19901271][^c19901181]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,7 +40,7 @@ summary: ''
 
 [^c20617721]: Modification: Ss. 484-539 applied (with modifications) (1.10.2009) by [The Unregistered Companies Regulations 2009 (S.I. 2009/2436)](https://www.legislation.gov.uk/uksi/2009/2436), [regs. 3-5](https://www.legislation.gov.uk/uksi/2009/2436/regulation/3), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/11) (with transitional provisions and savings in [regs. 7](https://www.legislation.gov.uk/uksi/2009/2436/regulation/7), [9](https://www.legislation.gov.uk/uksi/2009/2436/regulation/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/2436/schedule/2))
 
-[^key-a2a4211a871f041d2ad13bb194f4849d]: Modification: S. 488 applied (with modifications) by S.I. 2008/565, reg. 6(1)(1A) (as substituted (with effect in accordance with reg. 2(4) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 2 para. 6(a)](https://www.legislation.gov.uk/uksi/2017/1164/schedule/2/paragraph/6/a) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7)))
+[^c-a2a4211a871f041d2ad13bb194f4849d]: Modification: S. 488 applied (with modifications) by S.I. 2008/565, reg. 6(1)(1A) (as substituted (with effect in accordance with reg. 2(4) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 2 para. 6(a)](https://www.legislation.gov.uk/uksi/2017/1164/schedule/2/paragraph/6/a) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7)))
 
 [^c19901271]: Modification: Ss. 485-488 applied (with modifications) (6.4.2008) by [The Bank Accounts Directive (Miscellaneous Banks) Regulations 2008 (S.I. 2008/567)](https://www.legislation.gov.uk/uksi/2008/567), [reg. 4](https://www.legislation.gov.uk/uksi/2008/567/regulation/4), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2008/567/schedule/paragraph/9)
 

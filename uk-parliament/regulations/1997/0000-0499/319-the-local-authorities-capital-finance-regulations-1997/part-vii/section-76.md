@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 76. Disposal of land held for housing purposes[^key-759e4014e8aa3e9029c5ea7ecf97f48a]
+## 76. Disposal of land held for housing purposes[^c-759e4014e8aa3e9029c5ea7ecf97f48a]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ The reserved part shall be nil per cent. in the case of a capital receipt which 
 
 ## Annotations
 
-[^key-759e4014e8aa3e9029c5ea7ecf97f48a]: Commencement: Reg. 76 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-759e4014e8aa3e9029c5ea7ecf97f48a]: Commencement: Reg. 76 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

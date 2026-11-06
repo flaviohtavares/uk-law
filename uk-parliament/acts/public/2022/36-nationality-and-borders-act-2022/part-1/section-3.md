@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Provision for Chagos Islanders to acquire British Nationality[^key-94fd8d79ee0d08732f3a8cb6cf4172cb][^key-d072f0fdebe2ef0f7a388c0605405740]
+## 3. Provision for Chagos Islanders to acquire British Nationality[^c-94fd8d79ee0d08732f3a8cb6cf4172cb][^c-d072f0fdebe2ef0f7a388c0605405740]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,6 +38,6 @@ In Part 2 of the British Nationality Act 1981 (British overseas territories citi
 
 ## Annotations
 
-[^key-94fd8d79ee0d08732f3a8cb6cf4172cb]: Commencement: S. 3 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
+[^c-94fd8d79ee0d08732f3a8cb6cf4172cb]: Commencement: S. 3 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
 
-[^key-d072f0fdebe2ef0f7a388c0605405740]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2022/36/section/3) in force at 23.11.2022 by [S.I. 2022/1056](https://www.legislation.gov.uk/uksi/2022/1056), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/1056/regulation/2/a)
+[^c-d072f0fdebe2ef0f7a388c0605405740]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2022/36/section/3) in force at 23.11.2022 by [S.I. 2022/1056](https://www.legislation.gov.uk/uksi/2022/1056), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/1056/regulation/2/a)

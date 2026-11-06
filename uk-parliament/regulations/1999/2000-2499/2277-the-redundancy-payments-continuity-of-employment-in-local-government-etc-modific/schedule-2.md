@@ -22,7 +22,7 @@ summary: ''
 
 Article 3
 
-### PART I — MODIFICATIONS TO CERTAIN REDUNDANCY PAYMENTS PROVISIONS OF THE 1996 ACT[^key-bbfd1e5e0b4b563d4042bdc923c6ad95]
+### PART I — MODIFICATIONS TO CERTAIN REDUNDANCY PAYMENTS PROVISIONS OF THE 1996 ACT[^c-bbfd1e5e0b4b563d4042bdc923c6ad95]
 
 **1.** Section 146 of the 1996 Act shall have effect as if immediately after subsection (1) there were inserted—
 
@@ -49,7 +49,7 @@ Article 3
   > | --- | --- |
   > | [S.I. 1999/2277](https://www.legislation.gov.uk/uksi/1999/2277) | (1A) In subsection (1)(a) “relevant service” means—<br>- (a) continuous employment by an employer specified in Part II of Schedule 2 to the Redundancy Payments (Continuity of Employment in Local Government, etc.) (Modification) Order 1999 (“the 1999 Order”), or<br>- (b) where immediately before the relevant event a person has been successively employed by two or more employers specified in Part II of that Schedule, such aggregate period of service with such employers as would be continuous employment if they were a single employer.<br>(1B) In subsection (1A)(b) “relevant event” has the same meaning as in the 1999 Order. |
 
-### PART II — EMPLOYERS WITH WHOM EMPLOYMENT MAY CONSTITUTE RELEVANT SERVICE[^key-07d12bf752f7ff21f4785e2a86912190]
+### PART II — EMPLOYERS WITH WHOM EMPLOYMENT MAY CONSTITUTE RELEVANT SERVICE[^c-07d12bf752f7ff21f4785e2a86912190]
 
 #### Section 1
 
@@ -85,7 +85,7 @@ Any employer specified in Schedule 1 to this Order whether or not in existence a
 
 **14.** The Local Government Training Board.
 
-**15.**[^key-5fc6208504f91021d3451c6857aa5ceb] The Accounts Commission for Scotland.
+**15.**[^c-5fc6208504f91021d3451c6857aa5ceb] The Accounts Commission for Scotland.
 
 #### Section 3—Planning and development
 
@@ -93,7 +93,7 @@ Any employer specified in Schedule 1 to this Order whether or not in existence a
 
 **2.** A development corporation established under section 2 of the New Towns (Scotland) Act 1968[^f00035].
 
-**2A.**[^key-61f3f01ef4c048cc303e89c560724407] Olympic Park Legacy Company Limited.
+**2A.**[^c-61f3f01ef4c048cc303e89c560724407] Olympic Park Legacy Company Limited.
 
 **3.** The Scottish Development Agency.
 
@@ -139,11 +139,11 @@ Any employer specified in Schedule 1 to this Order whether or not in existence a
 
 **18.** The Secretary of State for Defence in relation only to employees in schools administered by the Service Children’s Education Authority.
 
-**19.** The Secretary of State for Education and Employment , the Secretary of State for Education and Skills[^key-877967254e26043e7e08dfeb97e99bc8] the Secretary of State for Children, Schools and Families or the Secretary of State for Education[^key-fe6fc7957c47caacb7635894d64835e1], in relation only to teachers employed under contract in the European School established under Article 1 of the Statute of the European School[^f00045] and in schools designated as European Schools under Article 1 of the Protocol to that Statute.
+**19.** The Secretary of State for Education and Employment , the Secretary of State for Education and Skills[^c-877967254e26043e7e08dfeb97e99bc8] the Secretary of State for Children, Schools and Families or the Secretary of State for Education[^c-fe6fc7957c47caacb7635894d64835e1], in relation only to teachers employed under contract in the European School established under Article 1 of the Statute of the European School[^f00045] and in schools designated as European Schools under Article 1 of the Protocol to that Statute.
 
-**19A.**[^key-e0fcadfb9ea2750002649b0c793bd8e2] Shetland Arts Trust.
+**19A.**[^c-e0fcadfb9ea2750002649b0c793bd8e2] Shetland Arts Trust.
 
-**20.**[^key-2816eb060a3802fcb58ff38c2c47714e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-2816eb060a3802fcb58ff38c2c47714e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Section 5—Careers guidance
 
@@ -153,15 +153,15 @@ Any employer specified in Schedule 1 to this Order whether or not in existence a
 
 **3.** Kent Careers and Guidance Service Limited.
 
-#### Section 6—Police, fire and civil defence[^key-9beca9cf986cbd26764a0ee803e14b04]
+#### Section 6—Police, fire and civil defence[^c-9beca9cf986cbd26764a0ee803e14b04]
 
-**1.**[^key-480e204f971a3d24b826a953fb37f247] A previous police authority in relation to which Schedule 11 to the Police Act 1964[^f00046] had effect or which was the police authority for an area or district which was before 1st April 1947 or after 31st March 1946 a separate police area or, in Scotland, a previous police authority for an area which was before 16th May 1975 a separate or combined police area.
+**1.**[^c-480e204f971a3d24b826a953fb37f247] A previous police authority in relation to which Schedule 11 to the Police Act 1964[^f00046] had effect or which was the police authority for an area or district which was before 1st April 1947 or after 31st March 1946 a separate police area or, in Scotland, a previous police authority for an area which was before 16th May 1975 a separate or combined police area.
 
-**1A.**[^key-b858744c6ecb1b0255cb5ec1575d9896] A police authority established under section 3 of the Police Act 1996.
+**1A.**[^c-b858744c6ecb1b0255cb5ec1575d9896] A police authority established under section 3 of the Police Act 1996.
 
 **1B.** The Metropolitan Police Authority established under section 5B of the Police Act 1996.
 
-**2.**[^key-c5b347c02b407fb38d80a891ffe63044] The London Fire and Civil Defence Authority.
+**2.**[^c-c5b347c02b407fb38d80a891ffe63044] The London Fire and Civil Defence Authority.
 
 #### Section 7—Sports Councils
 
@@ -181,7 +181,7 @@ A person or body of persons responsible for the management of an assisted commun
 
 **4.** A local valuation panel constituted under the Local Government Act 1948[^f00051] or established under the General Rate Act 1967[^f00052].
 
-**4A.**[^key-c3506e0a1c3faee27808ddafee225ddd] A valuation tribunal in England established under the Local Government Finance Act 1988.
+**4A.**[^c-c3506e0a1c3faee27808ddafee225ddd] A valuation tribunal in England established under the Local Government Finance Act 1988.
 
 **5.** The Central Scotland Water Development Board.
 
@@ -189,19 +189,19 @@ A person or body of persons responsible for the management of an assisted commun
 
 **7.** The Small Industries Council for Rural Areas of Scotland, being a company which was dissolved by section 15(5) of the Scottish Development Agency Act 1975[^f00054] and was until then registered under the Companies Acts from time to time in force.
 
-**7A.**[^key-4af40fed9d951b8c4a65551e28f513f6] The Traffic Director for London.
+**7A.**[^c-4af40fed9d951b8c4a65551e28f513f6] The Traffic Director for London.
 
 **8.** The Welsh Industrial Estates Corporation (formerly the Industrial Estates Management Corporation for Wales) established by section 8 of the Local Employment Act 1960.
 
 ## Annotations
 
-[^key-bbfd1e5e0b4b563d4042bdc923c6ad95]: Commencement: Sch. 2 Pt. I in force at 1.9.1999, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/2277/article/1/1)
+[^c-bbfd1e5e0b4b563d4042bdc923c6ad95]: Commencement: Sch. 2 Pt. I in force at 1.9.1999, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/2277/article/1/1)
 
-[^key-07d12bf752f7ff21f4785e2a86912190]: Commencement: Sch. 2 Pt. II in force at 1.9.1999, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/2277/article/1/1)
+[^c-07d12bf752f7ff21f4785e2a86912190]: Commencement: Sch. 2 Pt. II in force at 1.9.1999, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/2277/article/1/1)
 
 [^f00032]: Footnote: [1973 c. 65](https://www.legislation.gov.uk/ukpga/1973/65).
 
-[^key-5fc6208504f91021d3451c6857aa5ceb]: Textual amendment: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/1999/2277/schedule/2/part/II) Section 2 para. 15 added (15.4.2010) by [The Redundancy Payments (Continuity of Employment in Local Government, etc.) (Modification) Order (Amendment) Order 2010 (S.I. 2010/903)](https://www.legislation.gov.uk/uksi/2010/903), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/903/article/1/1), [11](https://www.legislation.gov.uk/uksi/2010/903/article/11)
+[^c-5fc6208504f91021d3451c6857aa5ceb]: Textual amendment: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/1999/2277/schedule/2/part/II) Section 2 para. 15 added (15.4.2010) by [The Redundancy Payments (Continuity of Employment in Local Government, etc.) (Modification) Order (Amendment) Order 2010 (S.I. 2010/903)](https://www.legislation.gov.uk/uksi/2010/903), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/903/article/1/1), [11](https://www.legislation.gov.uk/uksi/2010/903/article/11)
 
 [^f00033]: Footnote: [1946 c. 68](https://www.legislation.gov.uk/ukpga/1946/68).
 
@@ -209,7 +209,7 @@ A person or body of persons responsible for the management of an assisted commun
 
 [^f00035]: Footnote: [1968 c. 16](https://www.legislation.gov.uk/ukpga/1968/16).
 
-[^key-61f3f01ef4c048cc303e89c560724407]: Textual amendment: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/1999/2277/schedule/2/part/II) Section 3 para. 2A inserted (1.4.2012) by [The Localism Act 2011 (Housing and Regeneration Functions in Greater London) (Consequential, Transitory, Transitional and Saving Provisions) Order 2012 (S.I. 2012/666)](https://www.legislation.gov.uk/uksi/2012/666), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/666/article/1/2), [Sch. 1 para. 2(3)](https://www.legislation.gov.uk/uksi/2012/666/schedule/1/paragraph/2/3) (with [arts. 3](https://www.legislation.gov.uk/uksi/2012/666/article/3), [4](https://www.legislation.gov.uk/uksi/2012/666/article/4))
+[^c-61f3f01ef4c048cc303e89c560724407]: Textual amendment: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/1999/2277/schedule/2/part/II) Section 3 para. 2A inserted (1.4.2012) by [The Localism Act 2011 (Housing and Regeneration Functions in Greater London) (Consequential, Transitory, Transitional and Saving Provisions) Order 2012 (S.I. 2012/666)](https://www.legislation.gov.uk/uksi/2012/666), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/666/article/1/2), [Sch. 1 para. 2(3)](https://www.legislation.gov.uk/uksi/2012/666/schedule/1/paragraph/2/3) (with [arts. 3](https://www.legislation.gov.uk/uksi/2012/666/article/3), [4](https://www.legislation.gov.uk/uksi/2012/666/article/4))
 
 [^f00036]: Footnote: [1960 c. 18](https://www.legislation.gov.uk/ukpga/1960/18).
 
@@ -229,25 +229,25 @@ A person or body of persons responsible for the management of an assisted commun
 
 [^f00044]: Footnote: [1937 c. 37](https://www.legislation.gov.uk/ukpga/1937/37).
 
-[^key-877967254e26043e7e08dfeb97e99bc8]: Textual amendment: Words in Sch. 2 Pt. 2 Section 4 para. 19 substituted (12.12.2007) by [The Secretaries of State for Children, Schools and Families, for Innovation, Universities and Skills and for Business, Enterprise and Regulatory Reform Order 2007 (S.I. 2007/3224)](https://www.legislation.gov.uk/uksi/2007/3224), [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/3224/article/1/2), [Sch. para. 26](https://www.legislation.gov.uk/uksi/2007/3224/schedule/paragraph/26)
+[^c-877967254e26043e7e08dfeb97e99bc8]: Textual amendment: Words in Sch. 2 Pt. 2 Section 4 para. 19 substituted (12.12.2007) by [The Secretaries of State for Children, Schools and Families, for Innovation, Universities and Skills and for Business, Enterprise and Regulatory Reform Order 2007 (S.I. 2007/3224)](https://www.legislation.gov.uk/uksi/2007/3224), [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/3224/article/1/2), [Sch. para. 26](https://www.legislation.gov.uk/uksi/2007/3224/schedule/paragraph/26)
 
-[^key-fe6fc7957c47caacb7635894d64835e1]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/1999/2277/schedule/2/part/II) Section 4 para. 19 substituted (18.8.2010) by [The Secretary of State for Education Order 2010 (S.I. 2010/1836)](https://www.legislation.gov.uk/uksi/2010/1836), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1836/article/1/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2010/1836/schedule/paragraph/5)
+[^c-fe6fc7957c47caacb7635894d64835e1]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/1999/2277/schedule/2/part/II) Section 4 para. 19 substituted (18.8.2010) by [The Secretary of State for Education Order 2010 (S.I. 2010/1836)](https://www.legislation.gov.uk/uksi/2010/1836), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1836/article/1/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2010/1836/schedule/paragraph/5)
 
 [^f00045]: Footnote: Cmnd. 5145.
 
-[^key-e0fcadfb9ea2750002649b0c793bd8e2]: Textual amendment: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/1999/2277/schedule/2/part/II) Section 4 para. 19A inserted (15.4.2010) by [The Redundancy Payments (Continuity of Employment in Local Government, etc.) (Modification) Order (Amendment) Order 2010 (S.I. 2010/903)](https://www.legislation.gov.uk/uksi/2010/903), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/903/article/1/1), [12](https://www.legislation.gov.uk/uksi/2010/903/article/12)
+[^c-e0fcadfb9ea2750002649b0c793bd8e2]: Textual amendment: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/1999/2277/schedule/2/part/II) Section 4 para. 19A inserted (15.4.2010) by [The Redundancy Payments (Continuity of Employment in Local Government, etc.) (Modification) Order (Amendment) Order 2010 (S.I. 2010/903)](https://www.legislation.gov.uk/uksi/2010/903), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/903/article/1/1), [12](https://www.legislation.gov.uk/uksi/2010/903/article/12)
 
-[^key-2816eb060a3802fcb58ff38c2c47714e]: Textual amendment: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/1999/2277/schedule/2/part/II) Section 4 para. 20 omitted (1.7.2015) by virtue of [The Redundancy Payments (Continuity of Employment in Local Government, etc) (Modification) (Amendment) Order 2015 (S.I. 2015/916)](https://www.legislation.gov.uk/uksi/2015/916), [arts. 1](https://www.legislation.gov.uk/uksi/2015/916/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/916/article/2/2)
+[^c-2816eb060a3802fcb58ff38c2c47714e]: Textual amendment: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/1999/2277/schedule/2/part/II) Section 4 para. 20 omitted (1.7.2015) by virtue of [The Redundancy Payments (Continuity of Employment in Local Government, etc) (Modification) (Amendment) Order 2015 (S.I. 2015/916)](https://www.legislation.gov.uk/uksi/2015/916), [arts. 1](https://www.legislation.gov.uk/uksi/2015/916/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/916/article/2/2)
 
-[^key-9beca9cf986cbd26764a0ee803e14b04]: Textual amendment: Words in Sch. 2 Pt. 2 Section 6 heading substituted (3.7.2000) by [The London Government (Continuity of Employment) Order 2000 (S.I. 2000/1042)](https://www.legislation.gov.uk/uksi/2000/1042), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2000/1042/article/1/3), [4(5)(a)](https://www.legislation.gov.uk/uksi/2000/1042/article/4/5/a)
+[^c-9beca9cf986cbd26764a0ee803e14b04]: Textual amendment: Words in Sch. 2 Pt. 2 Section 6 heading substituted (3.7.2000) by [The London Government (Continuity of Employment) Order 2000 (S.I. 2000/1042)](https://www.legislation.gov.uk/uksi/2000/1042), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2000/1042/article/1/3), [4(5)(a)](https://www.legislation.gov.uk/uksi/2000/1042/article/4/5/a)
 
-[^key-480e204f971a3d24b826a953fb37f247]: Textual amendment: Words in Sch. 2 Pt. 2 Section 6 renumbered as Sch. 2 Pt. 2 Section 6 para. 1 (3.7.2000) by [The London Government (Continuity of Employment) Order 2000 (S.I. 2000/1042)](https://www.legislation.gov.uk/uksi/2000/1042), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2000/1042/article/1/3), [4(5)(b)](https://www.legislation.gov.uk/uksi/2000/1042/article/4/5/b)
+[^c-480e204f971a3d24b826a953fb37f247]: Textual amendment: Words in Sch. 2 Pt. 2 Section 6 renumbered as Sch. 2 Pt. 2 Section 6 para. 1 (3.7.2000) by [The London Government (Continuity of Employment) Order 2000 (S.I. 2000/1042)](https://www.legislation.gov.uk/uksi/2000/1042), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2000/1042/article/1/3), [4(5)(b)](https://www.legislation.gov.uk/uksi/2000/1042/article/4/5/b)
 
 [^f00046]: Footnote: [1964 c. 48](https://www.legislation.gov.uk/ukpga/1964/48).
 
-[^key-b858744c6ecb1b0255cb5ec1575d9896]: Textual amendment: [Sch. 2 Pt. 2 Section 6 paras. 1A](https://www.legislation.gov.uk/uksi/1999/2277/schedule/2/part/2/section/6/paragraph/1A), [1B](https://www.legislation.gov.uk/uksi/1999/2277/schedule/2/part/2/section/6/paragraph/1B) inserted (19.8.2013) by [The Redundancy Payments (Continuity of Employment in Local Government, etc) (Modification) (Amendment) Order 2013 (S.I. 2013/1784)](https://www.legislation.gov.uk/uksi/2013/1784), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1784/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2013/1784/article/2/2)
+[^c-b858744c6ecb1b0255cb5ec1575d9896]: Textual amendment: [Sch. 2 Pt. 2 Section 6 paras. 1A](https://www.legislation.gov.uk/uksi/1999/2277/schedule/2/part/2/section/6/paragraph/1A), [1B](https://www.legislation.gov.uk/uksi/1999/2277/schedule/2/part/2/section/6/paragraph/1B) inserted (19.8.2013) by [The Redundancy Payments (Continuity of Employment in Local Government, etc) (Modification) (Amendment) Order 2013 (S.I. 2013/1784)](https://www.legislation.gov.uk/uksi/2013/1784), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1784/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2013/1784/article/2/2)
 
-[^key-c5b347c02b407fb38d80a891ffe63044]: Textual amendment: Sch. 2 Pt. 2 Section 6 para. 2 inserted (3.7.2000) by [The London Government (Continuity of Employment) Order 2000 (S.I. 2000/1042)](https://www.legislation.gov.uk/uksi/2000/1042), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2000/1042/article/1/3), [4(5)(c)](https://www.legislation.gov.uk/uksi/2000/1042/article/4/5/c)
+[^c-c5b347c02b407fb38d80a891ffe63044]: Textual amendment: Sch. 2 Pt. 2 Section 6 para. 2 inserted (3.7.2000) by [The London Government (Continuity of Employment) Order 2000 (S.I. 2000/1042)](https://www.legislation.gov.uk/uksi/2000/1042), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2000/1042/article/1/3), [4(5)(c)](https://www.legislation.gov.uk/uksi/2000/1042/article/4/5/c)
 
 [^f00047]: Footnote: [1969 c. 54](https://www.legislation.gov.uk/ukpga/1969/54).
 
@@ -261,10 +261,10 @@ A person or body of persons responsible for the management of an assisted commun
 
 [^f00052]: Footnote: [1967 c. 44](https://www.legislation.gov.uk/ukpga/1967/44).
 
-[^key-c3506e0a1c3faee27808ddafee225ddd]: Textual amendment: Sch. 2 Pt. 2 Section 9 para. 4A inserted (1.8.2004) by [The Redundancy Payments (Continuity of Employment in Local Government, etc.) (Modification) (Amendment) Order 2004 (S.I. 2004/1682)](https://www.legislation.gov.uk/uksi/2004/1682), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/1682/article/1/1), [2(7)](https://www.legislation.gov.uk/uksi/2004/1682/article/2/7)
+[^c-c3506e0a1c3faee27808ddafee225ddd]: Textual amendment: Sch. 2 Pt. 2 Section 9 para. 4A inserted (1.8.2004) by [The Redundancy Payments (Continuity of Employment in Local Government, etc.) (Modification) (Amendment) Order 2004 (S.I. 2004/1682)](https://www.legislation.gov.uk/uksi/2004/1682), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/1682/article/1/1), [2(7)](https://www.legislation.gov.uk/uksi/2004/1682/article/2/7)
 
 [^f00053]: Footnote: [1960 c. 18](https://www.legislation.gov.uk/ukpga/1960/18).
 
 [^f00054]: Footnote: [1975 c. 69](https://www.legislation.gov.uk/ukpga/1975/69).
 
-[^key-4af40fed9d951b8c4a65551e28f513f6]: Textual amendment: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/1999/2277/schedule/2/part/II) Section 9 para. 7A inserted (15.4.2010) by [The Redundancy Payments (Continuity of Employment in Local Government, etc.) (Modification) Order (Amendment) Order 2010 (S.I. 2010/903)](https://www.legislation.gov.uk/uksi/2010/903), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/903/article/1/1), [13](https://www.legislation.gov.uk/uksi/2010/903/article/13)
+[^c-4af40fed9d951b8c4a65551e28f513f6]: Textual amendment: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/1999/2277/schedule/2/part/II) Section 9 para. 7A inserted (15.4.2010) by [The Redundancy Payments (Continuity of Employment in Local Government, etc.) (Modification) Order (Amendment) Order 2010 (S.I. 2010/903)](https://www.legislation.gov.uk/uksi/2010/903), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/903/article/1/1), [13](https://www.legislation.gov.uk/uksi/2010/903/article/13)

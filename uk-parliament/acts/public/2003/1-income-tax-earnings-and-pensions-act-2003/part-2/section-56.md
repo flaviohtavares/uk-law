@@ -40,7 +40,7 @@ summary: ''
 
 (7) Where—
 
-- (a) the worker is resident in the United Kingdom, and[^key-186169f7ad6de68dca007a15d31829ec]
+- (a) the worker is resident in the United Kingdom, and[^c-186169f7ad6de68dca007a15d31829ec]
 - (b) the services in question are provided in the United Kingdom, ...
 - (c) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -50,4 +50,4 @@ the intermediary is treated as having a place of business in the United Kingdom,
 
 ## Annotations
 
-[^key-186169f7ad6de68dca007a15d31829ec]: Textual amendment: Words in s. 56(7)(a) inserted (with effect in accordance with s. 136(4) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 136(3)(b)(i)](https://www.legislation.gov.uk/ukpga/2003/14/section/136/3/b/i)
+[^c-186169f7ad6de68dca007a15d31829ec]: Textual amendment: Words in s. 56(7)(a) inserted (with effect in accordance with s. 136(4) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 136(3)(b)(i)](https://www.legislation.gov.uk/ukpga/2003/14/section/136/3/b/i)

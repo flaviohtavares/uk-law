@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Confidentiality of negotiations before termination of employment[^key-1152a730325abfd77eb5aa60ef7cbfc4]
+## 14. Confidentiality of negotiations before termination of employment[^c-1152a730325abfd77eb5aa60ef7cbfc4]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ After section 111 of the Employment Rights Act 1996 insert—
 
 ## Annotations
 
-[^key-1152a730325abfd77eb5aa60ef7cbfc4]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2013/24/section/14) in force at 29.7.2013 by [S.I. 2013/1648](https://www.legislation.gov.uk/uksi/2013/1648), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/1648/article/2/a)
+[^c-1152a730325abfd77eb5aa60ef7cbfc4]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2013/24/section/14) in force at 29.7.2013 by [S.I. 2013/1648](https://www.legislation.gov.uk/uksi/2013/1648), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/1648/article/2/a)

@@ -45,7 +45,7 @@ Coming into force
 
 [^c2024009]This instrument contains only regulations made by virtue of, or consequential upon, sections 6 to 10 of the Work and Families Act 2006 and is made before the end of the period of 6 months beginning with the coming into force of those enactments .
 
-In accordance with section 176(1) of the Social Security Contributions and Benefits Act 1992, a draft of these Regulations was laid before Parliament and approved by a resolution of each House of Parliament.[^key-5a4dd085ee9cdc8c54a8e653a6fff84e][^key-6215a4d32055aad115832a819b708c05]
+In accordance with section 176(1) of the Social Security Contributions and Benefits Act 1992, a draft of these Regulations was laid before Parliament and approved by a resolution of each House of Parliament.[^c-5a4dd085ee9cdc8c54a8e653a6fff84e][^c-6215a4d32055aad115832a819b708c05]
 
 ## PART 1 — INTRODUCTION
 
@@ -339,7 +339,7 @@ The conditions referred to in regulation 12(1)(b) are that A—
 - (a) the date specified by P in accordance with regulation 15(2)(d) or last varied in accordance with regulation 15(6); or
 - (b) if later, the date of A's taking action constituting a return to work within the meaning of regulation 19,
 
-being, in either case, a date which falls no earlier than 20 weeks after[^key-f55de9216185c6ededb65d1ec283a9b5] the date on which C was placed for adoption.
+being, in either case, a date which falls no earlier than 20 weeks after[^c-f55de9216185c6ededb65d1ec283a9b5] the date on which C was placed for adoption.
 
 (2) For the purposes of section 171ZEE(2)(b)(ii) of the Act, the date on which the additional statutory paternity pay period (adoption) in respect of C ends is the date specified by P in accordance with regulation 15(2)(e) or last varied in accordance with regulation 15(6).
 
@@ -494,7 +494,7 @@ For the purposes of these Regulations, a mother or adopter is treated as returni
 - (b) in a case where an adopter is entitled to statutory adoption pay, that payment is not payable to that person in accordance with section 171ZN(3) or (5) of the Act [^c2024021];
 - (c) in a case where a mother is entitled to statutory maternity pay, that payment is not payable to her in accordance with section 165(4) or (6) of the Act [^c2024022].
 
-### 20. Work during the additional statutory paternity pay period[^key-e4c107fe3380f6b31b39319f1aaf2310]
+### 20. Work during the additional statutory paternity pay period[^c-e4c107fe3380f6b31b39319f1aaf2310]
 
 (1) In a case where additional statutory paternity pay is being paid to a person who works during the additional statutory paternity pay period for an employer who is not liable to pay that person additional statutory paternity pay and who does not fall within, as appropriate, regulation 11(1)(b) or regulation 18(1)(b), there shall be no liability to pay additional statutory paternity pay in respect of the week in which the person does that work.
 
@@ -504,7 +504,7 @@ For the purposes of these Regulations, a mother or adopter is treated as returni
 
 (4) In a case where an employee does any work on any day, under a contract of service with an employer who is liable to pay that employee additional statutory paternity pay, for not more than ten such days during the employee's additional statutory paternity pay period, whether consecutive or not, additional statutory paternity pay shall continue to be payable to the employee by the employer.
 
-### 21. Cases where there is no liability to pay additional statutory paternity pay[^key-4e9a4f179dc6e7f2375456e214cd6900]
+### 21. Cases where there is no liability to pay additional statutory paternity pay[^c-4e9a4f179dc6e7f2375456e214cd6900]
 
 (1) There shall be no liability to pay additional statutory paternity pay in respect of any week—
 
@@ -518,7 +518,7 @@ For the purposes of these Regulations, a mother or adopter is treated as returni
 - (b) is subsequently found not guilty of any offence and is released; or
 - (c) is convicted of an offence but does not receive a custodial sentence.
 
-### 22. Additional statutory paternity pay and contractual remuneration[^key-e2e601f38de43e894845ca557aa6154d]
+### 22. Additional statutory paternity pay and contractual remuneration[^c-e2e601f38de43e894845ca557aa6154d]
 
 (1) For the purposes of section 171ZG(1) and (2) of the Act (as such provisions apply to additional statutory paternity pay), the payments which are to be treated as contractual remuneration are sums payable under a contract of service—
 
@@ -535,7 +535,7 @@ For the purposes of these Regulations, a mother or adopter is treated as returni
 - (a) the employee shall be treated as if they had been employed for a continuous period ending with the earliest date that they could have been entitled to additional statutory paternity pay; and
 - (b) their normal weekly earnings shall be calculated by reference to their normal weekly earnings for the period of eight weeks ending with the last day in respect of which they were paid under their former contract of service.
 
-### 24. Treatment of persons as employees[^key-3951763b21217b04c74c3f490886e067]
+### 24. Treatment of persons as employees[^c-3951763b21217b04c74c3f490886e067]
 
 (1) Subject to paragraph (2), in a case where, and in so far as, a person is treated as an employed earner by virtue of the Social Security (Categorisation of Earners) Regulations 1978 [^c2024023] that person shall be treated as an employee for the purposes of Part 12ZA of the Act, and in a case where, and in so far as, such a person is treated otherwise than as an employed earner by virtue of those regulations, that person shall not be treated as an employee for the purposes of Part 12ZA of the Act.
 
@@ -557,7 +557,7 @@ as it has effect in relation to a person who is or, as the case may be, is not s
 
 shall not be treated as an employee for the purposes of Part 12ZA of the Act.
 
-### 25. Continuous employment[^key-3951763b21217b04c74c3f490886e067]
+### 25. Continuous employment[^c-3951763b21217b04c74c3f490886e067]
 
 (1) Subject to the following provisions of this regulation, where in any week a person is, for the whole or part of the week—
 
@@ -579,13 +579,13 @@ and returns to work for their employer after the incapacity for or absence from 
 
 then in that case paragraph (1) shall apply as if the words “and returns to work for their employer after the incapacity for or absence from work,” were omitted.
 
-### 26. Continuous employment and unfair dismissal[^key-3951763b21217b04c74c3f490886e067]
+### 26. Continuous employment and unfair dismissal[^c-3951763b21217b04c74c3f490886e067]
 
 (1) This regulation applies to a person in relation to whose dismissal an action is commenced which consists—
 
 - (a) of the presentation by that person of a complaint under section 111(1) of the Employment Rights Act 1996 [^c2024024];
 - (b) of their making a claim in accordance with a dismissal procedures agreement designated by an order under section 110 of that Act [^c2024025]; or
-- (c) of any action taken by a conciliation officer under any of sections 18A to 18C[^key-90b7b7911e788ef132864ba1f15a1564] of the Employment Tribunals Act 1996 [^c2024026].
+- (c) of any action taken by a conciliation officer under any of sections 18A to 18C[^c-90b7b7911e788ef132864ba1f15a1564] of the Employment Tribunals Act 1996 [^c2024026].
 
 (2) If, in consequence of an action of the kind specified in paragraph (1), a person is reinstated or re-engaged by their employer or by a successor or associated employer of that employer, the continuity of their employment shall be preserved for the purposes of Part 12ZA of the Act, and any week which falls within the interval beginning with the effective date of termination and ending with the date of reinstatement or re-engagement, as the case may be, shall count in the computation of their period of continuous employment.
 
@@ -594,7 +594,7 @@ then in that case paragraph (1) shall apply as if the words “and returns to wo
 - “**dismissal procedures agreement**” and “**successor**” have the same meanings as in section 235 of the Employment Rights Act 1996; and
 - “**associated employer**” shall be construed in accordance with section 231 of the Employment Rights Act 1996.
 
-### 27. Continuous employment and stoppages of work[^key-3951763b21217b04c74c3f490886e067]
+### 27. Continuous employment and stoppages of work[^c-3951763b21217b04c74c3f490886e067]
 
 (1) Where, for any week or part of a week a person does not work because there is a stoppage of work due to a trade dispute within the meaning of section 35(1) of the Jobseekers Act 1995 [^c2024027] at their place of employment, that person's continuity of employment shall, subject to paragraph (2), be treated, for the purposes of Part 12ZA of the Act, as continuing throughout the stoppage but, subject to paragraph (3), no such week shall count in the computation of their period of employment.
 
@@ -602,7 +602,7 @@ then in that case paragraph (1) shall apply as if the words “and returns to wo
 
 (3) The provisions of paragraph (1), to the extent that they provide that a week in which the stoppage of work occurred shall not count in the computation of a period of employment, and paragraph (2) shall not apply to a person who proves that at no time did they have a direct interest in the trade dispute in question.
 
-### 28. Change of employer[^key-3951763b21217b04c74c3f490886e067]
+### 28. Change of employer[^c-3951763b21217b04c74c3f490886e067]
 
 A person's employment shall, notwithstanding a change of employer, be treated, for the purposes of Part 12ZA of the Act, as continuous employment with the second employer where—
 
@@ -613,11 +613,11 @@ A person's employment shall, notwithstanding a change of employer, be treated, f
 - (e) the person is taken into the employment of an employer who is, at the time they entered that employer's employment, an associated employer of their previous employer, and for this purpose “**associated employer**” shall be construed in accordance with section 231 of the Employment Rights Act 1996 [^c2024028]; or
 - (f) on the termination of the person's employment with an employer they are taken into the employment of another employer and those employers are governors of a school maintained by a local education authority.
 
-### 29. Reinstatement after service with the armed forces etc[^key-3951763b21217b04c74c3f490886e067]
+### 29. Reinstatement after service with the armed forces etc[^c-3951763b21217b04c74c3f490886e067]
 
 If a person who is entitled to apply to their employer under the Reserve Forces (Safeguard of Employment) Act 1985 [^c2024029] enters the employment of that employer within the six month period mentioned in section 1(4)(b) of that Act, their previous period of employment with that employer (or if there was more than one such period, the last of those periods) and the period of employment beginning in that six-month period shall be treated as continuous.
 
-### 30. Treatment of two or more employers or two or more contracts of service as one[^key-3951763b21217b04c74c3f490886e067]
+### 30. Treatment of two or more employers or two or more contracts of service as one[^c-3951763b21217b04c74c3f490886e067]
 
 (1) In a case where the earnings paid to a person in respect of two or more employments are aggregated and treated as a single payment of earnings under regulation 15(1) of the Contributions Regulations, the employers of that person in respect of those employments shall be treated as one for the purposes of Part 12ZA of the Act.
 
@@ -625,7 +625,7 @@ If a person who is entitled to apply to their employer under the Reserve Forces 
 
 (3) Where two or more contracts of service exist concurrently between one employer and one employee, they shall be treated as one for the purposes of Part 12ZA of the Act, except where, by virtue of regulation 14 of the Contributions Regulations, the earnings from those contracts of service are not aggregated for the purposes of earnings-related contributions.
 
-### 31. Meaning of “earnings”[^key-3951763b21217b04c74c3f490886e067]
+### 31. Meaning of “earnings”[^c-3951763b21217b04c74c3f490886e067]
 
 (1) For the purposes of section 171ZJ(6) of the Act (as such provision applies to additional statutory paternity pay) (normal weekly earnings for the purposes of Part 12ZA of the Act), the expression “**earnings**” shall be construed in accordance with the following provisions of this regulation.
 
@@ -646,7 +646,7 @@ If a person who is entitled to apply to their employer under the Reserve Forces 
 - (h) any sum payable by way of additional statutory paternity pay; and
 - (i) any sum payable by way of statutory adoption pay.
 
-### 32. Normal weekly earnings[^key-9ba40b9f367d03bcb4685625fb8d04e9]
+### 32. Normal weekly earnings[^c-9ba40b9f367d03bcb4685625fb8d04e9]
 
 (1) For the purposes of Part 12ZA of the Act, a person's normal weekly earnings shall be calculated in accordance with the following provisions of this regulation.
 
@@ -673,11 +673,11 @@ including the normal pay day mentioned in sub-paragraph (a) but excluding that f
 
 (7) In any case where a person receives a back-dated pay increase which includes a sum in respect of a relevant period, normal weekly earnings shall be calculated as if such a sum was paid in that relevant period even though received after that period.
 
-### 33. Payment of additional statutory paternity pay[^key-d4b49799c213311d09f0d95c7f04eaaa]
+### 33. Payment of additional statutory paternity pay[^c-d4b49799c213311d09f0d95c7f04eaaa]
 
 Payments of additional statutory paternity pay may be made in a like manner to payments of remuneration but shall not include payment in kind or by way of the provision of board or lodgings or of services or other facilities.
 
-### 34. Time when additional statutory paternity pay is to be paid[^key-d4b49799c213311d09f0d95c7f04eaaa]
+### 34. Time when additional statutory paternity pay is to be paid[^c-d4b49799c213311d09f0d95c7f04eaaa]
 
 (1) In this regulation, “**pay day**” means a day on which it has been agreed, or it is the normal practice between an employer or former employer and a person who is or was an employee of theirs, that payments by way of remuneration are to be made, or, where there is no such agreement or normal practice, the last day of a calendar month.
 
@@ -700,7 +700,7 @@ that amount of additional statutory paternity pay shall be paid within the time 
 
 (5) Where the employer or former employer would not have remunerated the employee for their work in the week in question as early as the pay day specified in paragraph (3) or (if it applies) paragraph (4), the requirement of payment shall be met on the first day on which the employee would have been remunerated for his work in that week.
 
-### 35. Liability of the Commissioners to pay additional statutory paternity pay[^key-d4b49799c213311d09f0d95c7f04eaaa]
+### 35. Liability of the Commissioners to pay additional statutory paternity pay[^c-d4b49799c213311d09f0d95c7f04eaaa]
 
 (1) Where—
 
@@ -723,7 +723,7 @@ then for any week in respect of which the employer was liable to make payments o
   - (ii) the employer has died and a judicial factor appointed under section 11A of the Judicial Factors (Scotland) Act 1889 [^c2024035] is required by that section to divide the employer's insolvent estate among the employer's creditors; or
   - (iii) where the employer is a company or a limited liability partnership, a winding-up order is made or a resolution for voluntary winding-up is passed (or, in the case of a limited liability partnership, a determination for a voluntary winding-up is made) with respect to it, or it enters administration, or a receiver of its undertaking is duly appointed, or a voluntary arrangement proposed for the purposes of Part 1 of the Insolvency Act 1986 is approved under that Part.
 
-### 36. Liability of the Commissioners to pay additional statutory paternity pay in cases of legal custody or imprisonment[^key-d4b49799c213311d09f0d95c7f04eaaa]
+### 36. Liability of the Commissioners to pay additional statutory paternity pay in cases of legal custody or imprisonment[^c-d4b49799c213311d09f0d95c7f04eaaa]
 
 (1) Where—
 
@@ -732,11 +732,11 @@ then for any week in respect of which the employer was liable to make payments o
 
 that liability, notwithstanding section 171ZED of the Act, shall be that of the Commissioners and not the employer.
 
-### 37. Payments by the Commissioners[^key-d4b49799c213311d09f0d95c7f04eaaa]
+### 37. Payments by the Commissioners[^c-d4b49799c213311d09f0d95c7f04eaaa]
 
 Where the Commissioners become liable in accordance with regulation 35 or 36 to make payments of additional statutory paternity pay to a person, the first payment shall be made as soon as reasonably practicable after they become so liable, and payments thereafter shall be made at weekly intervals, by means of an instrument of payment or by such other means as appears to the Commissioners to be appropriate in the circumstance of any particular case.
 
-### 38. Persons unable to act[^key-d4b49799c213311d09f0d95c7f04eaaa]
+### 38. Persons unable to act[^c-d4b49799c213311d09f0d95c7f04eaaa]
 
 (1) Where to any person—
 
@@ -756,7 +756,7 @@ the Commissioners may, upon written application to the Commissioners by a person
 
 (3) Anything required by Part 12ZA of the Act to be done by or to any person who is unable to act may be done by or to the person appointed under this regulation to act on behalf of the person unable to act, and the receipt of the person so appointed shall be a good discharge to the employer or former employer of the person unable to act for any sum paid.
 
-### 39. Service of notices by post[^key-d4b49799c213311d09f0d95c7f04eaaa]
+### 39. Service of notices by post[^c-d4b49799c213311d09f0d95c7f04eaaa]
 
 A notice given in accordance with the provisions of these Regulations in writing contained in an envelope which is properly addressed and sent by prepaid post shall be treated as having been given on the day on which it is posted.
 
@@ -802,9 +802,9 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^c2024009]: Marginal citation: See section 173(5) of the [Social Security Administration Act 1992 (c.5)](https://www.legislation.gov.uk/ukpga/1992/5). Pursuant to section 172 of that Act, where the Secretary of State proposes to make regulations under the Social Security Contributions and Benefits Act 1992, the Secretary of State is required to refer such proposals, normally in the form of draft regulations, to the Social Security Advisory Committee. This requirement does not apply where the regulations are contained in a statutory instrument made before the end of a period of six months beginning with the coming into force of the enactments by virtue or as a consequence of which the regulations are being made.
 
-[^key-5a4dd085ee9cdc8c54a8e653a6fff84e]: Modification: Regulations applied (with modifications) (8.2.2011) by [The Investment Bank Special Administration Regulations 2011 (S.I. 2011/245)](https://www.legislation.gov.uk/uksi/2011/245), [reg. 1](https://www.legislation.gov.uk/uksi/2011/245/regulation/1), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2011/245/schedule/6/part/1) (with [reg. 27(a)](https://www.legislation.gov.uk/uksi/2011/245/regulation/27/a))
+[^c-5a4dd085ee9cdc8c54a8e653a6fff84e]: Modification: Regulations applied (with modifications) (8.2.2011) by [The Investment Bank Special Administration Regulations 2011 (S.I. 2011/245)](https://www.legislation.gov.uk/uksi/2011/245), [reg. 1](https://www.legislation.gov.uk/uksi/2011/245/regulation/1), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2011/245/schedule/6/part/1) (with [reg. 27(a)](https://www.legislation.gov.uk/uksi/2011/245/regulation/27/a))
 
-[^key-6215a4d32055aad115832a819b708c05]: Modification: Regulations applied (with modifications) (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/2), [3](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5)); (as amended (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/made), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4/made))
+[^c-6215a4d32055aad115832a819b708c05]: Modification: Regulations applied (with modifications) (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/2), [3](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5)); (as amended (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/made), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4/made))
 
 [^c2024010]: Marginal citation: [2002 c. 38](https://www.legislation.gov.uk/ukpga/2002/38).
 
@@ -826,7 +826,7 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^c2024019]: Marginal citation: [S.S.I. 2009/154](https://www.legislation.gov.uk/ssi/2009/154).
 
-[^key-f55de9216185c6ededb65d1ec283a9b5]: Textual amendment: Word in [reg. 14(1)](https://www.legislation.gov.uk/uksi/2010/1056/regulation/14/1) substituted (1.4.2011) by [Additional Statutory Paternity Pay (General) (Amendment) Regulations 2011 (S.I. 2011/678)](https://www.legislation.gov.uk/uksi/2011/678), [regs. 1](https://www.legislation.gov.uk/uksi/2011/678/regulation/1), [2](https://www.legislation.gov.uk/uksi/2011/678/regulation/2)
+[^c-f55de9216185c6ededb65d1ec283a9b5]: Textual amendment: Word in [reg. 14(1)](https://www.legislation.gov.uk/uksi/2010/1056/regulation/14/1) substituted (1.4.2011) by [Additional Statutory Paternity Pay (General) (Amendment) Regulations 2011 (S.I. 2011/678)](https://www.legislation.gov.uk/uksi/2011/678), [regs. 1](https://www.legislation.gov.uk/uksi/2011/678/regulation/1), [2](https://www.legislation.gov.uk/uksi/2011/678/regulation/2)
 
 [^c2024020]: Marginal citation: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4). Section 35(3)(a)(i) was amended by the Work and Families Act 2006, Schedule 1, paragraph 6.
 
@@ -834,13 +834,13 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^c2024022]: Marginal citation: [Section 165(4)](https://www.legislation.gov.uk/uksi/2010/1056/section/165/4) was amended by the Work and Families Act 2006, Schedule 1, paragraph 7(3).
 
-[^key-e4c107fe3380f6b31b39319f1aaf2310]: Modification: [Reg. 20](https://www.legislation.gov.uk/uksi/2010/1056/regulation/20) applied (with modifications) (9.4.2010) by [The Additional Statutory Paternity Pay (Adoptions from Overseas) Regulations 2010 (S.I. 2010/1057)](https://www.legislation.gov.uk/uksi/2010/1057), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1057/regulation/1), [3(1)](https://www.legislation.gov.uk/uksi/2010/1057/regulation/3/1) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2010/1057/regulation/3/2))
+[^c-e4c107fe3380f6b31b39319f1aaf2310]: Modification: [Reg. 20](https://www.legislation.gov.uk/uksi/2010/1056/regulation/20) applied (with modifications) (9.4.2010) by [The Additional Statutory Paternity Pay (Adoptions from Overseas) Regulations 2010 (S.I. 2010/1057)](https://www.legislation.gov.uk/uksi/2010/1057), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1057/regulation/1), [3(1)](https://www.legislation.gov.uk/uksi/2010/1057/regulation/3/1) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2010/1057/regulation/3/2))
 
-[^key-4e9a4f179dc6e7f2375456e214cd6900]: Modification: [Reg. 21](https://www.legislation.gov.uk/uksi/2010/1056/regulation/21) applied (9.4.2010) by [The Additional Statutory Paternity Pay (Adoptions from Overseas) Regulations 2010 (S.I. 2010/1057)](https://www.legislation.gov.uk/uksi/2010/1057), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1057/regulation/1), [3(1)](https://www.legislation.gov.uk/uksi/2010/1057/regulation/3/1) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2010/1057/regulation/3/2))
+[^c-4e9a4f179dc6e7f2375456e214cd6900]: Modification: [Reg. 21](https://www.legislation.gov.uk/uksi/2010/1056/regulation/21) applied (9.4.2010) by [The Additional Statutory Paternity Pay (Adoptions from Overseas) Regulations 2010 (S.I. 2010/1057)](https://www.legislation.gov.uk/uksi/2010/1057), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1057/regulation/1), [3(1)](https://www.legislation.gov.uk/uksi/2010/1057/regulation/3/1) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2010/1057/regulation/3/2))
 
-[^key-e2e601f38de43e894845ca557aa6154d]: Modification: [Reg. 22](https://www.legislation.gov.uk/uksi/2010/1056/regulation/22) applied (9.4.2010) by [The Additional Statutory Paternity Pay (Adoptions from Overseas) Regulations 2010 (S.I. 2010/1057)](https://www.legislation.gov.uk/uksi/2010/1057), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1057/regulation/1), [3(1)](https://www.legislation.gov.uk/uksi/2010/1057/regulation/3/1) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2010/1057/regulation/3/2))
+[^c-e2e601f38de43e894845ca557aa6154d]: Modification: [Reg. 22](https://www.legislation.gov.uk/uksi/2010/1056/regulation/22) applied (9.4.2010) by [The Additional Statutory Paternity Pay (Adoptions from Overseas) Regulations 2010 (S.I. 2010/1057)](https://www.legislation.gov.uk/uksi/2010/1057), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1057/regulation/1), [3(1)](https://www.legislation.gov.uk/uksi/2010/1057/regulation/3/1) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2010/1057/regulation/3/2))
 
-[^key-3951763b21217b04c74c3f490886e067]: Modification: Regs. 24-31 applied (9.4.2010) by [The Additional Statutory Paternity Pay (Adoptions from Overseas) Regulations 2010 (S.I. 2010/1057)](https://www.legislation.gov.uk/uksi/2010/1057), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1057/regulation/1), [3(1)](https://www.legislation.gov.uk/uksi/2010/1057/regulation/3/1) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2010/1057/regulation/3/2))
+[^c-3951763b21217b04c74c3f490886e067]: Modification: Regs. 24-31 applied (9.4.2010) by [The Additional Statutory Paternity Pay (Adoptions from Overseas) Regulations 2010 (S.I. 2010/1057)](https://www.legislation.gov.uk/uksi/2010/1057), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1057/regulation/1), [3(1)](https://www.legislation.gov.uk/uksi/2010/1057/regulation/3/1) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2010/1057/regulation/3/2))
 
 [^c2024023]: Marginal citation: [S.I. 1978/1689](https://www.legislation.gov.uk/uksi/1978/1689).
 
@@ -848,7 +848,7 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^c2024025]: Marginal citation: Section 110 was amended by sections 1(2)(a) and (c) and 12(1) to (3) and (5) of the [Employment Rights (Dispute Resolution) Act 1998 (c. 8)](https://www.legislation.gov.uk/ukpga/1998/8).
 
-[^key-90b7b7911e788ef132864ba1f15a1564]: Textual amendment: Words in [reg. 26(c)](https://www.legislation.gov.uk/uksi/2010/1056/regulation/26/c) substituted (6.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2014 (S.I. 2014/386)](https://www.legislation.gov.uk/uksi/2014/386), [art. 1](https://www.legislation.gov.uk/uksi/2014/386/article/1), [Sch. para. 67](https://www.legislation.gov.uk/uksi/2014/386/schedule/paragraph/67)
+[^c-90b7b7911e788ef132864ba1f15a1564]: Textual amendment: Words in [reg. 26(c)](https://www.legislation.gov.uk/uksi/2010/1056/regulation/26/c) substituted (6.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2014 (S.I. 2014/386)](https://www.legislation.gov.uk/uksi/2014/386), [art. 1](https://www.legislation.gov.uk/uksi/2014/386/article/1), [Sch. para. 67](https://www.legislation.gov.uk/uksi/2014/386/schedule/paragraph/67)
 
 [^c2024026]: Marginal citation: [1996 c. 17](https://www.legislation.gov.uk/ukpga/1996/17).
 
@@ -864,9 +864,9 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^c2024032]: Marginal citation: [1992 c. 52](https://www.legislation.gov.uk/ukpga/1992/52).
 
-[^key-9ba40b9f367d03bcb4685625fb8d04e9]: Modification: [Reg. 32](https://www.legislation.gov.uk/uksi/2010/1056/regulation/32) applied (with modifications) (9.4.2010) by [The Additional Statutory Paternity Pay (Adoptions from Overseas) Regulations 2010 (S.I. 2010/1057)](https://www.legislation.gov.uk/uksi/2010/1057), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1057/regulation/1), [3(1)](https://www.legislation.gov.uk/uksi/2010/1057/regulation/3/1) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2010/1057/regulation/3/2))
+[^c-9ba40b9f367d03bcb4685625fb8d04e9]: Modification: [Reg. 32](https://www.legislation.gov.uk/uksi/2010/1056/regulation/32) applied (with modifications) (9.4.2010) by [The Additional Statutory Paternity Pay (Adoptions from Overseas) Regulations 2010 (S.I. 2010/1057)](https://www.legislation.gov.uk/uksi/2010/1057), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1057/regulation/1), [3(1)](https://www.legislation.gov.uk/uksi/2010/1057/regulation/3/1) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2010/1057/regulation/3/2))
 
-[^key-d4b49799c213311d09f0d95c7f04eaaa]: Modification: [Regs. 33-39](https://www.legislation.gov.uk/uksi/2010/1056/regulation/33) applied (9.4.2010) by [The Additional Statutory Paternity Pay (Adoptions from Overseas) Regulations 2010 (S.I. 2010/1057)](https://www.legislation.gov.uk/uksi/2010/1057), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1057/regulation/1), [3(1)](https://www.legislation.gov.uk/uksi/2010/1057/regulation/3/1) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2010/1057/regulation/3/2))
+[^c-d4b49799c213311d09f0d95c7f04eaaa]: Modification: [Regs. 33-39](https://www.legislation.gov.uk/uksi/2010/1056/regulation/33) applied (9.4.2010) by [The Additional Statutory Paternity Pay (Adoptions from Overseas) Regulations 2010 (S.I. 2010/1057)](https://www.legislation.gov.uk/uksi/2010/1057), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1057/regulation/1), [3(1)](https://www.legislation.gov.uk/uksi/2010/1057/regulation/3/1) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2010/1057/regulation/3/2))
 
 [^c2024033]: Marginal citation: [1999 c. 2](https://www.legislation.gov.uk/ukpga/1999/2). Section 8(1) was amended by the [Work and Families Act 2006 (c. 18)](https://www.legislation.gov.uk/ukpga/2006/18), [Schedule 1](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1), [paragraph 46(1)](https://www.legislation.gov.uk/ukpga/2006/18/paragraph/46/1) and (2).
 

@@ -32,7 +32,7 @@ summary: ''
 
 (2) This section applies to—
 
-- (a) any local authority[^key-5177265949adaa73e26402711f36dc2e], and
+- (a) any local authority[^c-5177265949adaa73e26402711f36dc2e], and
 - (b) the governing body of any school maintained by a local authority.
 
 (3) Nothing in subsection (1) shall be taken to prevent an authority or body to whom this section applies from incurring expenditure on publishing or otherwise providing to any person (whether or not in pursuance of any duty to do so)—
@@ -55,7 +55,7 @@ regard shall be had to any guidance given from time to time by the Secretary of 
 
 ## Annotations
 
-[^key-5177265949adaa73e26402711f36dc2e]: Textual amendment: Words in Act substituted (5.5.2010) by The Local Education Authorities and Children’s [Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 10(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/2) (with [Sch. 2 para. 10(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/4))
+[^c-5177265949adaa73e26402711f36dc2e]: Textual amendment: Words in Act substituted (5.5.2010) by The Local Education Authorities and Children’s [Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 10(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/2) (with [Sch. 2 para. 10(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/4))
 
 [^c14010201]: Modification: S. 107(5) modified (20.11.1998) by [S.I. 1998/2670](https://www.legislation.gov.uk/uksi/1998/2670), [reg. 4](https://www.legislation.gov.uk/uksi/1998/2670/regulation/4)
 

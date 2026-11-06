@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 125. Basis of determination[^key-9fbd6d32d0ca573983b864d083db30db]
+## 125. Basis of determination[^c-9fbd6d32d0ca573983b864d083db30db]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ The starting point for determining a local authority’s adjusted credit ceiling
 
 ## Annotations
 
-[^key-9fbd6d32d0ca573983b864d083db30db]: Commencement: Reg. 125 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-9fbd6d32d0ca573983b864d083db30db]: Commencement: Reg. 125 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

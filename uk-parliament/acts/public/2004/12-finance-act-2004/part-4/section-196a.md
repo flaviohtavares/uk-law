@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 196A. Power to restrict relief[^key-6d5bf52f61976d5f640fe55592e10304]
+## 196A. Power to restrict relief[^c-6d5bf52f61976d5f640fe55592e10304]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,9 +33,9 @@ the registered pension scheme which may be transferred by way of a recognised tr
 
 (4) The reference in subsection (1) to contributions paid by an employer being subject to relief is to—
 
-- (a) their being deductible in computing the amount of the profits of the employer for the purposes of Part 2 of ITTOIA 2005 or Part 3 of CTA 2009 (trading income)[^key-7027dda2b9450604b8cf2a381919ee2f],
-- (b) their being expenses of management of the employer for the purposes of section 1219 of CTA 2009[^key-0bd102419c1af26973421631e18a7358] (expenses of management: companies with investment business), or
-- (c) their being ordinary BLAGAB management expenses of the employer for an accounting period for the purposes of section 76 of FA 2012[^key-f4edabec2be3f727a2f63ab57862452b],
+- (a) their being deductible in computing the amount of the profits of the employer for the purposes of Part 2 of ITTOIA 2005 or Part 3 of CTA 2009 (trading income)[^c-7027dda2b9450604b8cf2a381919ee2f],
+- (b) their being expenses of management of the employer for the purposes of section 1219 of CTA 2009[^c-0bd102419c1af26973421631e18a7358] (expenses of management: companies with investment business), or
+- (c) their being ordinary BLAGAB management expenses of the employer for an accounting period for the purposes of section 76 of FA 2012[^c-f4edabec2be3f727a2f63ab57862452b],
 
 (depending on which is appropriate in relation to the employer).
 
@@ -48,10 +48,10 @@ have the same meaning as in Chapter 2 of Part 6 of ITEPA 2003 (see sections 393A
 
 ## Annotations
 
-[^key-6d5bf52f61976d5f640fe55592e10304]: Textual amendment: S. 196A inserted (6.4.2006) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 10 paras. 39](https://www.legislation.gov.uk/ukpga/2005/7/schedule/10/paragraph/39), [64(1)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/10/paragraph/64/1)
+[^c-6d5bf52f61976d5f640fe55592e10304]: Textual amendment: S. 196A inserted (6.4.2006) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 10 paras. 39](https://www.legislation.gov.uk/ukpga/2005/7/schedule/10/paragraph/39), [64(1)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/10/paragraph/64/1)
 
-[^key-7027dda2b9450604b8cf2a381919ee2f]: Textual amendment: Words in s. 196A(4)(a) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 574(a)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/574/a) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-7027dda2b9450604b8cf2a381919ee2f]: Textual amendment: Words in s. 196A(4)(a) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 574(a)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/574/a) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-0bd102419c1af26973421631e18a7358]: Textual amendment: Words in s. 196A(4)(b) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 574(b)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/574/b) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-0bd102419c1af26973421631e18a7358]: Textual amendment: Words in s. 196A(4)(b) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 574(b)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/574/b) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-f4edabec2be3f727a2f63ab57862452b]: Textual amendment: Words in s. 196A(4)(c) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 114](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/114)
+[^c-f4edabec2be3f727a2f63ab57862452b]: Textual amendment: Words in s. 196A(4)(c) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 114](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/114)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 62. Duty to assess[^key-64d39fa3ca177043e8aa52a90b1fac53]
+## 62. Duty to assess[^c-64d39fa3ca177043e8aa52a90b1fac53]
 
 *Extent: E+W*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-64d39fa3ca177043e8aa52a90b1fac53]: Commencement: [S. 62](https://www.legislation.gov.uk/anaw/2014/7/section/62) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 13](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/13)
+[^c-64d39fa3ca177043e8aa52a90b1fac53]: Commencement: [S. 62](https://www.legislation.gov.uk/anaw/2014/7/section/62) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 13](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/13)

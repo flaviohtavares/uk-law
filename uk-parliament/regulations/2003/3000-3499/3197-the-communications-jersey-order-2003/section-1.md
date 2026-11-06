@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**1.**[^key-d210c4704977ca3689b556d0048de7c8] (1) This Order may be cited as the Communications (Jersey) Order 2003.
+**1.**[^c-d210c4704977ca3689b556d0048de7c8] (1) This Order may be cited as the Communications (Jersey) Order 2003.
 
 (2) Articles 1 to 5 and 7 and Schedule 1 shall come into force on 29th December 2003 and shall be deemed to have come into force immediately following the Broadcasting (Jersey) Order 2003[^f00005].
 
@@ -34,7 +34,7 @@ summary: ''
 
 ## Annotations
 
-[^key-d210c4704977ca3689b556d0048de7c8]: Commencement: Art. 1 in force at 29.12.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/3197/article/1/2)
+[^c-d210c4704977ca3689b556d0048de7c8]: Commencement: Art. 1 in force at 29.12.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/3197/article/1/2)
 
 [^f00005]: Footnote: S.I. [2003/3203](https://www.legislation.gov.uk/uksi/2003/3203).
 

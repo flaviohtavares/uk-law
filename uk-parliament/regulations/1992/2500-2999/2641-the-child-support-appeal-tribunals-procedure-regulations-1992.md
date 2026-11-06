@@ -48,7 +48,7 @@ Coming into force
 
 The Secretary of State for Social Security, in exercise of the powers conferred by sections 21(2) and (3) and 51(1) of the Child Support Act 1991[^f00001] and of all other powers enabling him in that behalf, after consultation with the Council on Tribunals in accordance with section 8 of the Tribunals and Inquiries Act 1992[^f00002], hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-6ca2df84ea67a2f81ea1bda32bf38557]
+## 1. Citation, commencement and interpretation[^c-6ca2df84ea67a2f81ea1bda32bf38557]
 
 (1) These Regulations may be cited as the Child Support Appeal Tribunals (Procedure) Regulations 1992 and shall come into force on 5th April 1993.
 
@@ -82,13 +82,13 @@ The Secretary of State for Social Security, in exercise of the powers conferred 
 - (a) to a numbered regulation is to the regulation in these Regulations bearing that number; and
 - (b) in a regulation to a numbered paragraph is to the paragraph in that regulation bearing that number.
 
-## 2. Service of notices or documents[^key-12b5016bc383dec932c389889dabe906]
+## 2. Service of notices or documents[^c-12b5016bc383dec932c389889dabe906]
 
 (1) Where by any provision of the Act or of these Regulations any notice or other document is required to be given or sent to the clerk to the tribunal that notice or document shall be treated as having been so given or sent on the day that it is received by the clerk to the tribunal.
 
 (2) Where by any provision of the Act or of these Regulations any notice or other document is required to be given or sent to any person other than the clerk to the tribunal that notice or document shall, if sent by post to that person’s last known address, be treated as having been given or sent on the day that it was posted.
 
-## 3. Making an appeal or application and time limits[^key-df73da61450b2d2b316e09d1113157b6]
+## 3. Making an appeal or application and time limits[^c-df73da61450b2d2b316e09d1113157b6]
 
 (1) An appeal to a tribunal under section 20(1) of the Act or an application to a tribunal to set aside its decision under regulation 15 shall be by notice in writing signed by the person making it or by his representative where it appears to a chairman that he was unable to sign personally, or by a barrister, advocate or solicitor on his behalf.
 
@@ -112,15 +112,15 @@ The Secretary of State for Social Security, in exercise of the powers conferred 
 
 (11) If it appears to a chairman that the notice of appeal does not enable the decision under appeal to be identified or that the notice of appeal or application does not state the grounds on which it is made the chairman may direct the person making it to provide such particulars as the chairman may reasonably require.
 
-## 4. Lack of jurisdiction[^key-09b357d4a16a774e9c26fba30501931b]
+## 4. Lack of jurisdiction[^c-09b357d4a16a774e9c26fba30501931b]
 
 When a chairman is satisfied that the tribunal does not have jurisdiction to entertain a purported appeal he may make a declaration to that effect and such declaration shall dispose of the purported appeal.
 
-## 5. Directions[^key-5dc99a9e82061d658ddf544684991c9b]
+## 5. Directions[^c-5dc99a9e82061d658ddf544684991c9b]
 
 At any stage of the proceedings a chairman may either of his own motion or on a written application made to the clerk to the tribunal by any party to the proceedings give such directions as he may consider necessary or desirable for the just, effective and efficient conduct of the proceedings and may direct any party to provide such further particulars or to produce such documents as may reasonably be required.
 
-## 6. Striking out of proceedings[^key-d8f92479cda712f9f85e0959ba8e3060]
+## 6. Striking out of proceedings[^c-d8f92479cda712f9f85e0959ba8e3060]
 
 (1) Subject to paragraph (2), a chairman may, either of his own motion or on the application of any party to the proceedings, order that the appeal or application be struck out because of the failure of the appellant or applicant to comply with a direction under regulation 3(11) or 5 or to reply to an enquiry from the clerk to the tribunal about his availability to attend a hearing.
 
@@ -128,7 +128,7 @@ At any stage of the proceedings a chairman may either of his own motion or on a 
 
 (3) The chairman may, on application by any party to the proceedings made not later than one year beginning with the date of the order made under paragraph (1), give leave to reinstate any appeal or application which has been struck out in accordance with that order.
 
-## 7. Withdrawal of appeals and applications[^key-8d31d96a6dc21ec92e3f892096225ed6]
+## 7. Withdrawal of appeals and applications[^c-8d31d96a6dc21ec92e3f892096225ed6]
 
 (1) Any appeal to a tribunal may be withdrawn by the person making the appeal–
 
@@ -139,17 +139,17 @@ At any stage of the proceedings a chairman may either of his own motion or on a 
 
 (2) A person who has made an application to a tribunal to set aside their decision under regulation 15 may withdraw it at any time before the application is determined by giving written notice of withdrawal to the clerk to the tribunal.
 
-## 8. Postponement[^key-fc5c63c7ddc3206fb5f85df772d63797]
+## 8. Postponement[^c-fc5c63c7ddc3206fb5f85df772d63797]
 
 (1) Where a person to whom notice of a hearing has been given wishes to request a postponement of that hearing he shall give notice in writing to the clerk to the tribunal stating his reasons for the request and a chairman may grant or refuse the request as he thinks fit.
 
 (2) A chairman may of his own motion at any time before the beginning of the hearing postpone the hearing.
 
-## 9. Representation of parties to the proceedings[^key-818d5e0b37cc8e8b84b46127348af9fe]
+## 9. Representation of parties to the proceedings[^c-818d5e0b37cc8e8b84b46127348af9fe]
 
 Any party to the proceedings may be accompanied and (whether or not the party himself attends) may be represented by another person whether having a professional qualification or not, and for the purposes of any proceedings any such representative shall have all the rights and powers to which the person represented is entitled under these Regulations, except that a representative who is not a barrister, advocate or solicitor shall not have the power to sign the notice of appeal or application.
 
-## 10. Summoning of witnesses[^key-f2b30d9aa1eb987a54a601916f0bf433]
+## 10. Summoning of witnesses[^c-f2b30d9aa1eb987a54a601916f0bf433]
 
 (1) A chairman may by summons or, in Scotland, citation require any person in Great Britain to attend as a witness at a hearing of an appeal or application at such time and place as shall be specified in the summons or citation and, subject to paragraph (2), at the hearing to answer any question or produce any documents in his custody or under his control which relate to any matter in question in the appeal or application, but–
 
@@ -162,7 +162,7 @@ Any party to the proceedings may be accompanied and (whether or not the party hi
 
 (4) Every summons or citation issued under this regulation shall contain a statement to the effect that the person in question may apply in writing to a chairman to vary or set aside the summons or citation.
 
-## 11. Hearings[^key-1e484692f7163e2d93c4831761300280]
+## 11. Hearings[^c-1e484692f7163e2d93c4831761300280]
 
 (1) A tribunal shall hold an oral hearing of every appeal, and may hold an oral hearing of an application, and subject to the provisions of the Act and of these Regulations the procedure in connection with the hearing shall be such as the chairman shall determine.
 
@@ -191,13 +191,13 @@ Any party to the proceedings may be accompanied and (whether or not the party hi
 
 (10) None of the persons mentioned in paragraph (8) shall take any part in the hearing or (where entitled or permitted to remain) in the deliberations of the tribunal.
 
-## 12. Adjournments[^key-66b5d310900d571fa9dcd9293b845685]
+## 12. Adjournments[^c-66b5d310900d571fa9dcd9293b845685]
 
 (1) A hearing may be adjourned by the tribunal at any time on the application of any party to the proceedings or of its own motion.
 
 (2) Where a hearing has been adjourned and it is not practicable, or would cause undue delay, for it to be resumed before a tribunal consisting of the same members, the appeal or application shall be heard by a tribunal none of the members of which was a member of the original tribunal and the proceedings shall be by way of a complete re-hearing of the case.
 
-## 13. Decisions[^key-1ecc7df2c0fd76b4a7837f9dd06c9605]
+## 13. Decisions[^c-1ecc7df2c0fd76b4a7837f9dd06c9605]
 
 (1) A decision of the tribunal may be taken by a majority.
 
@@ -213,13 +213,13 @@ Any party to the proceedings may be accompanied and (whether or not the party hi
 
 (5) Upon receiving an application from a child support officer under paragraph (4) the clerk to the tribunal shall send a copy of it to all the other parties to the case, and the tribunal shall not give any directions or further directions on the application until those other parties have had a reasonable opportunity of making representations on it.
 
-## 14. Corrections[^key-8ddaf29ee0c6647395117aba02012ad2]
+## 14. Corrections[^c-8ddaf29ee0c6647395117aba02012ad2]
 
 (1) Subject to regulation 16 (provisions common to regulations 14 and 15) accidental errors (whether of omission or commission) in any decision or record of any decision may at any time be corrected by the tribunal who gave the decision or by another tribunal.
 
 (2) A correction made to a decision or to the record of a decision shall be deemed to be part of the decision or of the record thereof and written notice of it shall be given as soon as practicable to every party to the proceedings.
 
-## 15. Setting aside[^key-68fc29a17c0caa5b39a0492b91016530]
+## 15. Setting aside[^c-68fc29a17c0caa5b39a0492b91016530]
 
 (1) Subject to regulation 16 (provisions common to regulations 14 and 15) on an application made by a party to the proceedings a decision may be set aside by the tribunal who gave the decision or by another tribunal in a case where it appears just to do so on the grounds that–
 
@@ -235,7 +235,7 @@ Any party to the proceedings may be accompanied and (whether or not the party hi
 
 (5) For the purpose of deciding an application to set aside a decision under these Regulations there shall be disregarded regulation 2 and any provision in any enactment or instrument to the effect that any notice or other document required or authorised to be given or sent to any person shall be deemed to have been given or sent if it was sent by post to the person’s last known address.
 
-## 16. Provisions common to regulations 14 and 15[^key-445eb9e67c90cdce099eaf6a9641a1f0]
+## 16. Provisions common to regulations 14 and 15[^c-445eb9e67c90cdce099eaf6a9641a1f0]
 
 (1) In calculating time under regulation 2(1) of the Child Support Commissioners (Procedure) Regulations 1992[^f00003] (applications for leave to appeal to a Commissioner) there shall be disregarded any day falling before the day on which notice was given of a correction of a decision or record thereof pursuant to regulation 14 or on which notice is given of a decision that a prior decision shall not be set aside following an application made under regulation 15, as the case may be.
 
@@ -243,7 +243,7 @@ Any party to the proceedings may be accompanied and (whether or not the party hi
 
 (3) Nothing in these Regulations shall be construed as derogating from any power to correct errors or set aside decisions which is exercisable apart from these Regulations.
 
-## 17. Confidentiality[^key-8d24760f92a0e194a5f72d0e9abc29fa]
+## 17. Confidentiality[^c-8d24760f92a0e194a5f72d0e9abc29fa]
 
 (1) No information such as is mentioned in paragraph (2), and which has been provided for the purposes of any proceedings to which these Regulations apply, shall be disclosed except with the written consent of the person to whom the information relates.
 
@@ -274,38 +274,38 @@ The principal matters dealt with include the service of notices or other documen
 
 [^f00002]: Footnote: [1992 c. 53](https://www.legislation.gov.uk/ukpga/1992/53).
 
-[^key-6ca2df84ea67a2f81ea1bda32bf38557]: Commencement: Reg. 1 in force at 5.4.1993, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2641/regulation/1/1)
+[^c-6ca2df84ea67a2f81ea1bda32bf38557]: Commencement: Reg. 1 in force at 5.4.1993, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2641/regulation/1/1)
 
-[^key-12b5016bc383dec932c389889dabe906]: Commencement: Reg. 2 in force at 5.4.1993, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2641/regulation/1/1)
+[^c-12b5016bc383dec932c389889dabe906]: Commencement: Reg. 2 in force at 5.4.1993, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2641/regulation/1/1)
 
-[^key-df73da61450b2d2b316e09d1113157b6]: Commencement: Reg. 3 in force at 5.4.1993, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2641/regulation/1/1)
+[^c-df73da61450b2d2b316e09d1113157b6]: Commencement: Reg. 3 in force at 5.4.1993, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2641/regulation/1/1)
 
-[^key-09b357d4a16a774e9c26fba30501931b]: Commencement: Reg. 4 in force at 5.4.1993, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2641/regulation/1/1)
+[^c-09b357d4a16a774e9c26fba30501931b]: Commencement: Reg. 4 in force at 5.4.1993, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2641/regulation/1/1)
 
-[^key-5dc99a9e82061d658ddf544684991c9b]: Commencement: Reg. 5 in force at 5.4.1993, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2641/regulation/1/1)
+[^c-5dc99a9e82061d658ddf544684991c9b]: Commencement: Reg. 5 in force at 5.4.1993, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2641/regulation/1/1)
 
-[^key-d8f92479cda712f9f85e0959ba8e3060]: Commencement: Reg. 6 in force at 5.4.1993, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2641/regulation/1/1)
+[^c-d8f92479cda712f9f85e0959ba8e3060]: Commencement: Reg. 6 in force at 5.4.1993, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2641/regulation/1/1)
 
-[^key-8d31d96a6dc21ec92e3f892096225ed6]: Commencement: Reg. 7 in force at 5.4.1993, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2641/regulation/1/1)
+[^c-8d31d96a6dc21ec92e3f892096225ed6]: Commencement: Reg. 7 in force at 5.4.1993, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2641/regulation/1/1)
 
-[^key-fc5c63c7ddc3206fb5f85df772d63797]: Commencement: Reg. 8 in force at 5.4.1993, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2641/regulation/1/1)
+[^c-fc5c63c7ddc3206fb5f85df772d63797]: Commencement: Reg. 8 in force at 5.4.1993, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2641/regulation/1/1)
 
-[^key-818d5e0b37cc8e8b84b46127348af9fe]: Commencement: Reg. 9 in force at 5.4.1993, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2641/regulation/1/1)
+[^c-818d5e0b37cc8e8b84b46127348af9fe]: Commencement: Reg. 9 in force at 5.4.1993, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2641/regulation/1/1)
 
-[^key-f2b30d9aa1eb987a54a601916f0bf433]: Commencement: Reg. 10 in force at 5.4.1993, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2641/regulation/1/1)
+[^c-f2b30d9aa1eb987a54a601916f0bf433]: Commencement: Reg. 10 in force at 5.4.1993, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2641/regulation/1/1)
 
-[^key-1e484692f7163e2d93c4831761300280]: Commencement: Reg. 11 in force at 5.4.1993, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2641/regulation/1/1)
+[^c-1e484692f7163e2d93c4831761300280]: Commencement: Reg. 11 in force at 5.4.1993, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2641/regulation/1/1)
 
-[^key-66b5d310900d571fa9dcd9293b845685]: Commencement: Reg. 12 in force at 5.4.1993, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2641/regulation/1/1)
+[^c-66b5d310900d571fa9dcd9293b845685]: Commencement: Reg. 12 in force at 5.4.1993, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2641/regulation/1/1)
 
-[^key-1ecc7df2c0fd76b4a7837f9dd06c9605]: Commencement: Reg. 13 in force at 5.4.1993, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2641/regulation/1/1)
+[^c-1ecc7df2c0fd76b4a7837f9dd06c9605]: Commencement: Reg. 13 in force at 5.4.1993, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2641/regulation/1/1)
 
-[^key-8ddaf29ee0c6647395117aba02012ad2]: Commencement: Reg. 14 in force at 5.4.1993, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2641/regulation/1/1)
+[^c-8ddaf29ee0c6647395117aba02012ad2]: Commencement: Reg. 14 in force at 5.4.1993, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2641/regulation/1/1)
 
-[^key-68fc29a17c0caa5b39a0492b91016530]: Commencement: Reg. 15 in force at 5.4.1993, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2641/regulation/1/1)
+[^c-68fc29a17c0caa5b39a0492b91016530]: Commencement: Reg. 15 in force at 5.4.1993, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2641/regulation/1/1)
 
-[^key-445eb9e67c90cdce099eaf6a9641a1f0]: Commencement: Reg. 16 in force at 5.4.1993, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2641/regulation/1/1)
+[^c-445eb9e67c90cdce099eaf6a9641a1f0]: Commencement: Reg. 16 in force at 5.4.1993, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2641/regulation/1/1)
 
 [^f00003]: Footnote: S.I. [1992/2640](https://www.legislation.gov.uk/uksi/1992/2640).
 
-[^key-8d24760f92a0e194a5f72d0e9abc29fa]: Commencement: Reg. 17 in force at 5.4.1993, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2641/regulation/1/1)
+[^c-8d24760f92a0e194a5f72d0e9abc29fa]: Commencement: Reg. 17 in force at 5.4.1993, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2641/regulation/1/1)

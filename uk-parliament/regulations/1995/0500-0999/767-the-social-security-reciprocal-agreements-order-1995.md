@@ -122,7 +122,7 @@ Article 2
 </tbody>
 </table>
 
-[^c1790039][^c1790040][^c1790041][^key-cb06e6b7017c7fe1f567e9b00587654e][^key-cb06e6b7017c7fe1f567e9b00587654e][^key-cb06e6b7017c7fe1f567e9b00587654e][^key-2e2eebcf8f6574806726039c43a003f4][^key-2e2eebcf8f6574806726039c43a003f4][^key-2e2eebcf8f6574806726039c43a003f4][^key-2dcd0f3bd846b24b7e1140089945d841][^key-2dcd0f3bd846b24b7e1140089945d841][^key-2dcd0f3bd846b24b7e1140089945d841][^key-fcadbce5dea0e6aaab5745398a397884][^key-fcadbce5dea0e6aaab5745398a397884][^key-fcadbce5dea0e6aaab5745398a397884][^key-fcadbce5dea0e6aaab5745398a397884][^key-fcadbce5dea0e6aaab5745398a397884][^key-fcadbce5dea0e6aaab5745398a397884][^key-99b63fe45da919456a2a42f54375e882][^key-99b63fe45da919456a2a42f54375e882][^key-99b63fe45da919456a2a42f54375e882][^key-fcadbce5dea0e6aaab5745398a397884][^key-fcadbce5dea0e6aaab5745398a397884][^key-fcadbce5dea0e6aaab5745398a397884][^key-fcadbce5dea0e6aaab5745398a397884][^key-fcadbce5dea0e6aaab5745398a397884][^key-fcadbce5dea0e6aaab5745398a397884][^c1790042][^key-8598210ac376d8684f9c9fe20d1f1519][^key-8598210ac376d8684f9c9fe20d1f1519][^key-8598210ac376d8684f9c9fe20d1f1519][^key-3698d5952d94ad1fb4285365a19f033e][^key-3698d5952d94ad1fb4285365a19f033e]
+[^c1790039][^c1790040][^c1790041][^c-cb06e6b7017c7fe1f567e9b00587654e][^c-cb06e6b7017c7fe1f567e9b00587654e][^c-cb06e6b7017c7fe1f567e9b00587654e][^c-2e2eebcf8f6574806726039c43a003f4][^c-2e2eebcf8f6574806726039c43a003f4][^c-2e2eebcf8f6574806726039c43a003f4][^c-2dcd0f3bd846b24b7e1140089945d841][^c-2dcd0f3bd846b24b7e1140089945d841][^c-2dcd0f3bd846b24b7e1140089945d841][^c-fcadbce5dea0e6aaab5745398a397884][^c-fcadbce5dea0e6aaab5745398a397884][^c-fcadbce5dea0e6aaab5745398a397884][^c-fcadbce5dea0e6aaab5745398a397884][^c-fcadbce5dea0e6aaab5745398a397884][^c-fcadbce5dea0e6aaab5745398a397884][^c-99b63fe45da919456a2a42f54375e882][^c-99b63fe45da919456a2a42f54375e882][^c-99b63fe45da919456a2a42f54375e882][^c-fcadbce5dea0e6aaab5745398a397884][^c-fcadbce5dea0e6aaab5745398a397884][^c-fcadbce5dea0e6aaab5745398a397884][^c-fcadbce5dea0e6aaab5745398a397884][^c-fcadbce5dea0e6aaab5745398a397884][^c-fcadbce5dea0e6aaab5745398a397884][^c1790042][^c-8598210ac376d8684f9c9fe20d1f1519][^c-8598210ac376d8684f9c9fe20d1f1519][^c-8598210ac376d8684f9c9fe20d1f1519][^c-3698d5952d94ad1fb4285365a19f033e][^c-3698d5952d94ad1fb4285365a19f033e]
 
 ## SCHEDULE 3 — ORDERS IN COUNCIL MODIFIED BY THIS ORDER
 
@@ -147,7 +147,7 @@ Article 2
 </tbody>
 </table>
 
-[^c1790043][^c1790044][^c1790045][^key-cb06e6b7017c7fe1f567e9b00587654e][^key-cb06e6b7017c7fe1f567e9b00587654e][^key-cb06e6b7017c7fe1f567e9b00587654e][^c1790046][^key-95be58675f1ef471d10aad17f908a7bc][^key-95be58675f1ef471d10aad17f908a7bc][^key-95be58675f1ef471d10aad17f908a7bc]
+[^c1790043][^c1790044][^c1790045][^c-cb06e6b7017c7fe1f567e9b00587654e][^c-cb06e6b7017c7fe1f567e9b00587654e][^c-cb06e6b7017c7fe1f567e9b00587654e][^c1790046][^c-95be58675f1ef471d10aad17f908a7bc][^c-95be58675f1ef471d10aad17f908a7bc][^c-95be58675f1ef471d10aad17f908a7bc]
 
 (This note is not part of the Order)
 
@@ -165,21 +165,21 @@ This Order provides for social security legislation to be modified, to take acco
 
 [^c1790041]: Marginal citation: [S.I. 1988/591](https://www.legislation.gov.uk/uksi/1988/591).
 
-[^key-cb06e6b7017c7fe1f567e9b00587654e]: Textual amendment: Words in Schs. 2 3 omitted (1.6.2007) by virtue of [Social Security (Netherlands) Order 2007 (S.I. 2007/631)](https://www.legislation.gov.uk/uksi/2007/631), [arts. 1](https://www.legislation.gov.uk/uksi/2007/631/article/1), [3(2)(d)](https://www.legislation.gov.uk/uksi/2007/631/article/3/2/d)
+[^c-cb06e6b7017c7fe1f567e9b00587654e]: Textual amendment: Words in Schs. 2 3 omitted (1.6.2007) by virtue of [Social Security (Netherlands) Order 2007 (S.I. 2007/631)](https://www.legislation.gov.uk/uksi/2007/631), [arts. 1](https://www.legislation.gov.uk/uksi/2007/631/article/1), [3(2)(d)](https://www.legislation.gov.uk/uksi/2007/631/article/3/2/d)
 
-[^key-2e2eebcf8f6574806726039c43a003f4]: Textual amendment: Words in Sch. 2 revoked (1.9.1996) by [The Social Security (Malta) Order 1996 (S.I. 1996/1927)](https://www.legislation.gov.uk/uksi/1996/1927), [arts. 1](https://www.legislation.gov.uk/uksi/1996/1927/article/1), [3(2)](https://www.legislation.gov.uk/uksi/1996/1927/article/3/2)
+[^c-2e2eebcf8f6574806726039c43a003f4]: Textual amendment: Words in Sch. 2 revoked (1.9.1996) by [The Social Security (Malta) Order 1996 (S.I. 1996/1927)](https://www.legislation.gov.uk/uksi/1996/1927), [arts. 1](https://www.legislation.gov.uk/uksi/1996/1927/article/1), [3(2)](https://www.legislation.gov.uk/uksi/1996/1927/article/3/2)
 
-[^key-2dcd0f3bd846b24b7e1140089945d841]: Textual amendment: Words in Sch. 2 revoked (1.9.1996) by [The Social Security (Malta) Order 1996 (S.I. 1996/1927)](https://www.legislation.gov.uk/uksi/1996/1927), [arts. 1](https://www.legislation.gov.uk/uksi/1996/1927/article/1), [3(2)](https://www.legislation.gov.uk/uksi/1996/1927/article/3/2)
+[^c-2dcd0f3bd846b24b7e1140089945d841]: Textual amendment: Words in Sch. 2 revoked (1.9.1996) by [The Social Security (Malta) Order 1996 (S.I. 1996/1927)](https://www.legislation.gov.uk/uksi/1996/1927), [arts. 1](https://www.legislation.gov.uk/uksi/1996/1927/article/1), [3(2)](https://www.legislation.gov.uk/uksi/1996/1927/article/3/2)
 
-[^key-fcadbce5dea0e6aaab5745398a397884]: Textual amendment: Words in Sch. 2 omitted (1.10.2007) by virtue of [Social Security (Ireland) Order 2007 (S.I. 2007/2122)](https://www.legislation.gov.uk/uksi/2007/2122), [arts. 1](https://www.legislation.gov.uk/uksi/2007/2122/article/1), [3(2)(d)](https://www.legislation.gov.uk/uksi/2007/2122/article/3/2/d)
+[^c-fcadbce5dea0e6aaab5745398a397884]: Textual amendment: Words in Sch. 2 omitted (1.10.2007) by virtue of [Social Security (Ireland) Order 2007 (S.I. 2007/2122)](https://www.legislation.gov.uk/uksi/2007/2122), [arts. 1](https://www.legislation.gov.uk/uksi/2007/2122/article/1), [3(2)(d)](https://www.legislation.gov.uk/uksi/2007/2122/article/3/2/d)
 
-[^key-99b63fe45da919456a2a42f54375e882]: Textual amendment: Words in Sch. 2 revoked (1.4.1997) by [The Social Security (Jamaica) Order 1997 (S.I. 1997/871)](https://www.legislation.gov.uk/uksi/1997/871), [arts. 1](https://www.legislation.gov.uk/uksi/1997/871/article/1), [3(2)](https://www.legislation.gov.uk/uksi/1997/871/article/3/2)
+[^c-99b63fe45da919456a2a42f54375e882]: Textual amendment: Words in Sch. 2 revoked (1.4.1997) by [The Social Security (Jamaica) Order 1997 (S.I. 1997/871)](https://www.legislation.gov.uk/uksi/1997/871), [arts. 1](https://www.legislation.gov.uk/uksi/1997/871/article/1), [3(2)](https://www.legislation.gov.uk/uksi/1997/871/article/3/2)
 
 [^c1790042]: Marginal citation: [S.I. 1982/1528](https://www.legislation.gov.uk/uksi/1982/1528).
 
-[^key-8598210ac376d8684f9c9fe20d1f1519]: Textual amendment: Words in Sch. 2 omitted (1.9.1997) by virtue of [The Social Security (United States of America) Order 1997 (S.I. 1997/1778)](https://www.legislation.gov.uk/uksi/1997/1778), [arts. 1](https://www.legislation.gov.uk/uksi/1997/1778/article/1), [3](https://www.legislation.gov.uk/uksi/1997/1778/article/3)
+[^c-8598210ac376d8684f9c9fe20d1f1519]: Textual amendment: Words in Sch. 2 omitted (1.9.1997) by virtue of [The Social Security (United States of America) Order 1997 (S.I. 1997/1778)](https://www.legislation.gov.uk/uksi/1997/1778), [arts. 1](https://www.legislation.gov.uk/uksi/1997/1778/article/1), [3](https://www.legislation.gov.uk/uksi/1997/1778/article/3)
 
-[^key-3698d5952d94ad1fb4285365a19f033e]: Textual amendment: Words in Sch. 2 omitted (1.3.2001) by virtue of [The Social Security (Australia) Order 2000 (S.I. 2000/3255)](https://www.legislation.gov.uk/uksi/2000/3255), [arts. 1](https://www.legislation.gov.uk/uksi/2000/3255/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2000/3255/article/3/2) (with [art. 2](https://www.legislation.gov.uk/uksi/2000/3255/article/2))
+[^c-3698d5952d94ad1fb4285365a19f033e]: Textual amendment: Words in Sch. 2 omitted (1.3.2001) by virtue of [The Social Security (Australia) Order 2000 (S.I. 2000/3255)](https://www.legislation.gov.uk/uksi/2000/3255), [arts. 1](https://www.legislation.gov.uk/uksi/2000/3255/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2000/3255/article/3/2) (with [art. 2](https://www.legislation.gov.uk/uksi/2000/3255/article/2))
 
 [^c1790043]: Marginal citation: [S.I. 1976/225](https://www.legislation.gov.uk/uksi/1976/225).
 
@@ -189,4 +189,4 @@ This Order provides for social security legislation to be modified, to take acco
 
 [^c1790046]: Marginal citation: [S.I. 1982/152](https://www.legislation.gov.uk/uksi/1982/152).
 
-[^key-95be58675f1ef471d10aad17f908a7bc]: Textual amendment: Words in Sch. 3 revoked (1.9.1997) by [The Social Security (United States of America) Order 1997 (S.I. 1997/1778)](https://www.legislation.gov.uk/uksi/1997/1778), [arts. 1](https://www.legislation.gov.uk/uksi/1997/1778/article/1), [3](https://www.legislation.gov.uk/uksi/1997/1778/article/3)
+[^c-95be58675f1ef471d10aad17f908a7bc]: Textual amendment: Words in Sch. 3 revoked (1.9.1997) by [The Social Security (United States of America) Order 1997 (S.I. 1997/1778)](https://www.legislation.gov.uk/uksi/1997/1778), [arts. 1](https://www.legislation.gov.uk/uksi/1997/1778/article/1), [3](https://www.legislation.gov.uk/uksi/1997/1778/article/3)

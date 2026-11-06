@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 78. Trustee’s vacation of office[^key-5ea9e7d7fa87803056f0ead50272d062]
+## 78. Trustee’s vacation of office[^c-5ea9e7d7fa87803056f0ead50272d062]
 
 *Extent: N.I.*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5ea9e7d7fa87803056f0ead50272d062]: Commencement: S. 78 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-5ea9e7d7fa87803056f0ead50272d062]: Commencement: S. 78 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

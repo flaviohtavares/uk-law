@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 80. Option to make application to the Welsh Ministers: connected applications[^key-07619a6a4182ebaaff281a140439363d]
+## 80. Option to make application to the Welsh Ministers: connected applications[^c-07619a6a4182ebaaff281a140439363d]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-07619a6a4182ebaaff281a140439363d]: Commencement: S. 80 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-07619a6a4182ebaaff281a140439363d]: Commencement: S. 80 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

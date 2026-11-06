@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Power to change certain requirements relating to the Committee[^key-d4e309b0276924fcfd77e4764fb1a9b2][^key-6d126e6469371abf65e0dc46d744f816]
+## 25. Power to change certain requirements relating to the Committee[^c-d4e309b0276924fcfd77e4764fb1a9b2][^c-6d126e6469371abf65e0dc46d744f816]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d4e309b0276924fcfd77e4764fb1a9b2]: Commencement: S. 25 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-d4e309b0276924fcfd77e4764fb1a9b2]: Commencement: S. 25 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
-[^key-6d126e6469371abf65e0dc46d744f816]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2022/35/section/25) in force at 28.6.2023 by [S.I. 2023/631](https://www.legislation.gov.uk/uksi/2023/631), [reg. 2](https://www.legislation.gov.uk/uksi/2023/631/regulation/2)
+[^c-6d126e6469371abf65e0dc46d744f816]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2022/35/section/25) in force at 28.6.2023 by [S.I. 2023/631](https://www.legislation.gov.uk/uksi/2023/631), [reg. 2](https://www.legislation.gov.uk/uksi/2023/631/regulation/2)

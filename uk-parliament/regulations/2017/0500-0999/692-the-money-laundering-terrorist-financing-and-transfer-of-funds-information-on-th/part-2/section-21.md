@@ -37,8 +37,8 @@ summary: ''
 - (b) a relevant employee is an employee whose work is—
   - (i) relevant to the relevant person's compliance with any requirement in these Regulations, or
   - (ii) otherwise capable of contributing to the—
-    - (aa) identification or mitigation of the risks of money laundering, terrorist financing and proliferation financing[^key-1e4b310186328091c4963525fd8111ce] to which the relevant person's business is subject, or
-    - (bb) prevention or detection of money laundering, terrorist financing and proliferation financing[^key-6a4c440eb9bcc907865b81edf34c6866] in relation to the relevant person's business.
+    - (aa) identification or mitigation of the risks of money laundering, terrorist financing and proliferation financing[^c-1e4b310186328091c4963525fd8111ce] to which the relevant person's business is subject, or
+    - (bb) prevention or detection of money laundering, terrorist financing and proliferation financing[^c-6a4c440eb9bcc907865b81edf34c6866] in relation to the relevant person's business.
 
 (3) An individual in the relevant person's firm must be appointed as a nominated officer.
 
@@ -52,9 +52,9 @@ summary: ''
 
 (6) Paragraphs (1) and (3) do not apply where the relevant person is an individual who neither employs nor acts in association with any other person.
 
-(7) A relevant person who is an electronic money issuer or a payment service provider must appoint an individual to monitor and manage compliance with, and the internal communication of, the policies, controls and procedures adopted by the relevant person under regulation 19(1) or 19A(1)[^key-b04011b725b90578b2b5321de772bfb5], and in particular to—
+(7) A relevant person who is an electronic money issuer or a payment service provider must appoint an individual to monitor and manage compliance with, and the internal communication of, the policies, controls and procedures adopted by the relevant person under regulation 19(1) or 19A(1)[^c-b04011b725b90578b2b5321de772bfb5], and in particular to—
 
-- (a) identify any situations of higher risk of money laundering, terrorist financing or proliferation financing[^key-fc89f08757fec7138d4ce3d4b0780cae];
+- (a) identify any situations of higher risk of money laundering, terrorist financing or proliferation financing[^c-fc89f08757fec7138d4ce3d4b0780cae];
 - (b) maintain a record of its policies, controls and procedures, risk assessment and risk management including the application of such policies and procedures;
 - (c) apply measures to ensure that its policies, controls and procedures are taken into account in all relevant functions including in the development of new products, dealing with new customers and in changes to business activities; and
 - (d) provide information to senior management about the operation and effectiveness of its policies, controls and procedures whenever appropriate and at least annually.
@@ -72,21 +72,21 @@ summary: ''
 
 (10) In determining what is appropriate with regard to the size and nature of its business, a relevant person—
 
-- (a) must take into account its risk assessment under regulation 18(1) and 18A(1)[^key-47fa10cc536b132e086eef68be09b394]; and
+- (a) must take into account its risk assessment under regulation 18(1) and 18A(1)[^c-47fa10cc536b132e086eef68be09b394]; and
 - (b) may take into account any guidance which has been—
   - (i) issued by the FCA; or
   - (ii) issued by any other supervisory authority or appropriate body and approved by the Treasury.
 
 ## Annotations
 
-[^key-1e4b310186328091c4963525fd8111ce]: Textual amendment: Words in [reg. 21(2)(b)(ii)(aa)](https://www.legislation.gov.uk/uksi/2017/692/regulation/21/2/b/ii/aa) substituted (1.9.2022) by [The Money Laundering and Terrorist Financing (Amendment) (No. 2) Regulations 2022 (S.I. 2022/860)](https://www.legislation.gov.uk/uksi/2022/860), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2022/860/regulation/1/5), [6(7)(c)](https://www.legislation.gov.uk/uksi/2022/860/regulation/6/7/c)
+[^c-1e4b310186328091c4963525fd8111ce]: Textual amendment: Words in [reg. 21(2)(b)(ii)(aa)](https://www.legislation.gov.uk/uksi/2017/692/regulation/21/2/b/ii/aa) substituted (1.9.2022) by [The Money Laundering and Terrorist Financing (Amendment) (No. 2) Regulations 2022 (S.I. 2022/860)](https://www.legislation.gov.uk/uksi/2022/860), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2022/860/regulation/1/5), [6(7)(c)](https://www.legislation.gov.uk/uksi/2022/860/regulation/6/7/c)
 
-[^key-6a4c440eb9bcc907865b81edf34c6866]: Textual amendment: Words in [reg. 21(2)(b)(ii)(bb)](https://www.legislation.gov.uk/uksi/2017/692/regulation/21/2/b/ii/bb) substituted (1.9.2022) by [The Money Laundering and Terrorist Financing (Amendment) (No. 2) Regulations 2022 (S.I. 2022/860)](https://www.legislation.gov.uk/uksi/2022/860), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2022/860/regulation/1/5), [6(7)(c)](https://www.legislation.gov.uk/uksi/2022/860/regulation/6/7/c)
+[^c-6a4c440eb9bcc907865b81edf34c6866]: Textual amendment: Words in [reg. 21(2)(b)(ii)(bb)](https://www.legislation.gov.uk/uksi/2017/692/regulation/21/2/b/ii/bb) substituted (1.9.2022) by [The Money Laundering and Terrorist Financing (Amendment) (No. 2) Regulations 2022 (S.I. 2022/860)](https://www.legislation.gov.uk/uksi/2022/860), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2022/860/regulation/1/5), [6(7)(c)](https://www.legislation.gov.uk/uksi/2022/860/regulation/6/7/c)
 
-[^key-b04011b725b90578b2b5321de772bfb5]: Textual amendment: Words in [reg. 21(7)](https://www.legislation.gov.uk/uksi/2017/692/regulation/21/7) inserted (1.9.2022) by [The Money Laundering and Terrorist Financing (Amendment) (No. 2) Regulations 2022 (S.I. 2022/860)](https://www.legislation.gov.uk/uksi/2022/860), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2022/860/regulation/1/5), [6(6)(a)](https://www.legislation.gov.uk/uksi/2022/860/regulation/6/6/a)
+[^c-b04011b725b90578b2b5321de772bfb5]: Textual amendment: Words in [reg. 21(7)](https://www.legislation.gov.uk/uksi/2017/692/regulation/21/7) inserted (1.9.2022) by [The Money Laundering and Terrorist Financing (Amendment) (No. 2) Regulations 2022 (S.I. 2022/860)](https://www.legislation.gov.uk/uksi/2022/860), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2022/860/regulation/1/5), [6(6)(a)](https://www.legislation.gov.uk/uksi/2022/860/regulation/6/6/a)
 
-[^key-fc89f08757fec7138d4ce3d4b0780cae]: Textual amendment: Words in [reg. 21(7)(a)](https://www.legislation.gov.uk/uksi/2017/692/regulation/21/7/a) substituted (1.9.2022) by [The Money Laundering and Terrorist Financing (Amendment) (No. 2) Regulations 2022 (S.I. 2022/860)](https://www.legislation.gov.uk/uksi/2022/860), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2022/860/regulation/1/5), [6(8)(a)](https://www.legislation.gov.uk/uksi/2022/860/regulation/6/8/a)
+[^c-fc89f08757fec7138d4ce3d4b0780cae]: Textual amendment: Words in [reg. 21(7)(a)](https://www.legislation.gov.uk/uksi/2017/692/regulation/21/7/a) substituted (1.9.2022) by [The Money Laundering and Terrorist Financing (Amendment) (No. 2) Regulations 2022 (S.I. 2022/860)](https://www.legislation.gov.uk/uksi/2022/860), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2022/860/regulation/1/5), [6(8)(a)](https://www.legislation.gov.uk/uksi/2022/860/regulation/6/8/a)
 
 [^c23048011]: Marginal citation: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29). Section 3 was amended by paragraph 111 of Schedule 8 to the [Crime and Courts Act 2013 (c.22)](https://www.legislation.gov.uk/ukpga/2013/22), and by paragraph 120 of Schedule 8 and paragraph 1 of Schedule 14 to the [Serious Crime Act 2007 (c.27)](https://www.legislation.gov.uk/ukpga/2007/27).
 
-[^key-47fa10cc536b132e086eef68be09b394]: Textual amendment: Words in [reg. 21(10)(a)](https://www.legislation.gov.uk/uksi/2017/692/regulation/21/10/a) inserted (1.9.2022) by [The Money Laundering and Terrorist Financing (Amendment) (No. 2) Regulations 2022 (S.I. 2022/860)](https://www.legislation.gov.uk/uksi/2022/860), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2022/860/regulation/1/5), [6(6)(b)](https://www.legislation.gov.uk/uksi/2022/860/regulation/6/6/b)
+[^c-47fa10cc536b132e086eef68be09b394]: Textual amendment: Words in [reg. 21(10)(a)](https://www.legislation.gov.uk/uksi/2017/692/regulation/21/10/a) inserted (1.9.2022) by [The Money Laundering and Terrorist Financing (Amendment) (No. 2) Regulations 2022 (S.I. 2022/860)](https://www.legislation.gov.uk/uksi/2022/860), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2022/860/regulation/1/5), [6(6)(b)](https://www.legislation.gov.uk/uksi/2022/860/regulation/6/6/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Works in the river Thames: conditions[^key-f3e35c319b23d561076461e26ee59b8d]
+## 25. Works in the river Thames: conditions[^c-f3e35c319b23d561076461e26ee59b8d]
 
 *Extent: E+W*
 
@@ -69,4 +69,4 @@ the undertaker must pay the costs reasonably so incurred by the owner of that mo
 
 ## Annotations
 
-[^key-f3e35c319b23d561076461e26ee59b8d]: Commencement: Art. 25 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-f3e35c319b23d561076461e26ee59b8d]: Commencement: Art. 25 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)

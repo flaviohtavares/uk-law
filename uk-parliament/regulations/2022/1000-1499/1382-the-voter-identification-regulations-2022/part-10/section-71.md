@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Amendment of regulation 17 (appointment of petition assistants)[^key-e0129763c93a22156136c4a53baf3ff3]
+## 71. Amendment of regulation 17 (appointment of petition assistants)[^c-e0129763c93a22156136c4a53baf3ff3]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ In regulation 17 (appointment of petition assistants), in paragraph (3)—
 
 ## Annotations
 
-[^key-e0129763c93a22156136c4a53baf3ff3]: Commencement: Reg. 71 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-e0129763c93a22156136c4a53baf3ff3]: Commencement: Reg. 71 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)

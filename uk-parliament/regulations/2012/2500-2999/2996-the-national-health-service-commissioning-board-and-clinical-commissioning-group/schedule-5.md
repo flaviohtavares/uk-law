@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 5 — Persons disqualified from being a chair, integrated care board member or social services authority member of a review panel[^key-c9e790b8be2bf585774066cdc13bd366]
+## SCHEDULE 5 — Persons disqualified from being a chair, integrated care board member or social services authority member of a review panel[^c-c9e790b8be2bf585774066cdc13bd366]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ Regulation 25(3)
 
 **1.** A Member of Parliament, Member of the European Parliament or member of the London Assembly.
 
-**2.**[^key-1a735268387f52587bd3e915103f8d7b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-1a735268387f52587bd3e915103f8d7b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **3.** A person who, within the period of five years immediately preceding the date of the proposed appointment, has been convicted—
 
@@ -37,12 +37,12 @@ and, in either case, the final outcome of the proceedings was a sentence of impr
 
 **5.** (1) A person who has been dismissed within the period of five years immediately preceding the date of the proposed appointment, otherwise than because of redundancy, from paid employment by any of the following—
 
-- (a) NHS England[^key-c31464ebf700c58b40bc343c24a900bf] ;
-- (aa)[^key-532298d16120d13ce624184484e603ee] a clinical commissioning group;;
+- (a) NHS England[^c-c31464ebf700c58b40bc343c24a900bf] ;
+- (aa)[^c-532298d16120d13ce624184484e603ee] a clinical commissioning group;;
 - (b) a CCG;
 - (c) a social services authority;
-- (d)[^key-2e3fc17eedf184886905415d6ec14804] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (e)[^key-ba8283df1dc3e85019847f618efa07da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-2e3fc17eedf184886905415d6ec14804] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-ba8283df1dc3e85019847f618efa07da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (f) an NHS trust [^c21468271];
 - (g) an NHS foundation trust;
 - (h) a Special Health Authority [^c21468281];
@@ -69,11 +69,11 @@ and, in either case, the final outcome of the proceedings was a sentence of impr
 (2) For the purposes of paragraph (1), a person is not to be treated as having been in paid employment by reason only of having been—
 
 - (a) in the case of an NHS foundation trust, the chairman, a governor or a non-executive director of the trust;
-- (b)[^key-0247e2a394d84819805c3558b41a1107] in the case of a clinical commissioning group, the chair or a member of the governing body of that clinical commissioning group;
-- (ba)[^key-81dc192fc842057135a5b7008a4c9c39] in the case of an integrated care board, a member of that integrated care board; or
+- (b)[^c-0247e2a394d84819805c3558b41a1107] in the case of a clinical commissioning group, the chair or a member of the governing body of that clinical commissioning group;
+- (ba)[^c-81dc192fc842057135a5b7008a4c9c39] in the case of an integrated care board, a member of that integrated care board; or
 - (c) case of any other NHS body, the chairman or chair, or a member or a director of the NHS body in question.
 
-**6.** A person whose term[^key-b886ce455dd735c5afa8a510c19d8260] of office as the chairman or chair or as a member, director or governor of any of the bodies specified in paragraph 5(1) has been terminated on the grounds—
+**6.** A person whose term[^c-b886ce455dd735c5afa8a510c19d8260] of office as the chairman or chair or as a member, director or governor of any of the bodies specified in paragraph 5(1) has been terminated on the grounds—
 
 - (a) that it was not in the interests of, or conducive to the good management of, that body that they should continue to hold office;
 - (b) that it was not in the interests of the health service that they should continue to hold office;
@@ -102,9 +102,9 @@ and, in either case, the final outcome of the proceedings was a sentence of impr
 
 ## Annotations
 
-[^key-c9e790b8be2bf585774066cdc13bd366]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2012/2996) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
+[^c-c9e790b8be2bf585774066cdc13bd366]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2012/2996) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
 
-[^key-1a735268387f52587bd3e915103f8d7b]: Textual amendment: [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/2012/2996/schedule/5/paragraph/2) omitted (1.4.2014) by virtue of [The National Health Service Commissioning Board and Clinical Commissioning Groups (Responsibilities and Standing Rules) (Amendment) Regulations 2013 (S.I. 2013/2891)](https://www.legislation.gov.uk/uksi/2013/2891), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2891/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2013/2891/regulation/2/2)
+[^c-1a735268387f52587bd3e915103f8d7b]: Textual amendment: [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/2012/2996/schedule/5/paragraph/2) omitted (1.4.2014) by virtue of [The National Health Service Commissioning Board and Clinical Commissioning Groups (Responsibilities and Standing Rules) (Amendment) Regulations 2013 (S.I. 2013/2891)](https://www.legislation.gov.uk/uksi/2013/2891), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2891/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2013/2891/regulation/2/2)
 
 [^c21468221]: Marginal citation: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45). Schedule 4A was inserted by the [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [Schedule 20](https://www.legislation.gov.uk/ukpga/2002/40/schedule/20).
 
@@ -112,13 +112,13 @@ and, in either case, the final outcome of the proceedings was a sentence of impr
 
 [^c21468241]: Marginal citation: [S.I. 1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405). Schedule 2A was inserted by [S.I. 2005/1455 (N.I. 10)](https://www.legislation.gov.uk/nisi/2005/1455).
 
-[^key-c31464ebf700c58b40bc343c24a900bf]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-c31464ebf700c58b40bc343c24a900bf]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
-[^key-532298d16120d13ce624184484e603ee]: Textual amendment: [Sch. 5 para. 5(1)(aa)](https://www.legislation.gov.uk/uksi/2012/2996/schedule/5/paragraph/5/1/aa) inserted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [58(4)(a)](https://www.legislation.gov.uk/uksi/2022/634/regulation/58/4/a)
+[^c-532298d16120d13ce624184484e603ee]: Textual amendment: [Sch. 5 para. 5(1)(aa)](https://www.legislation.gov.uk/uksi/2012/2996/schedule/5/paragraph/5/1/aa) inserted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [58(4)(a)](https://www.legislation.gov.uk/uksi/2022/634/regulation/58/4/a)
 
-[^key-2e3fc17eedf184886905415d6ec14804]: Textual amendment: [Sch. 5 para. 5(1)(d)](https://www.legislation.gov.uk/uksi/2012/2996/schedule/5/paragraph/5/1/d) omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [209(11)](https://www.legislation.gov.uk/uksi/2022/634/regulation/209/11)
+[^c-2e3fc17eedf184886905415d6ec14804]: Textual amendment: [Sch. 5 para. 5(1)(d)](https://www.legislation.gov.uk/uksi/2012/2996/schedule/5/paragraph/5/1/d) omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [209(11)](https://www.legislation.gov.uk/uksi/2022/634/regulation/209/11)
 
-[^key-ba8283df1dc3e85019847f618efa07da]: Textual amendment: [Sch. 5 para. 5(1)(e)](https://www.legislation.gov.uk/uksi/2012/2996/schedule/5/paragraph/5/1/e) omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [209(11)](https://www.legislation.gov.uk/uksi/2022/634/regulation/209/11)
+[^c-ba8283df1dc3e85019847f618efa07da]: Textual amendment: [Sch. 5 para. 5(1)(e)](https://www.legislation.gov.uk/uksi/2012/2996/schedule/5/paragraph/5/1/e) omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [209(11)](https://www.legislation.gov.uk/uksi/2022/634/regulation/209/11)
 
 [^c21468271]: Marginal citation: NHS trusts are established under section 25 of the 2006 Act or section 18 of the [National Health Service (Wales) Act 2006 (c. 42)](https://www.legislation.gov.uk/ukpga/2006/42). NHS Trusts in England are abolished by section 179 of the 2012 Act.
 
@@ -154,11 +154,11 @@ and, in either case, the final outcome of the proceedings was a sentence of impr
 
 [^c21468431]: Marginal citation: [S.I. 2003/431 (N.I. 9)](https://www.legislation.gov.uk/nisi/2003/431). The Northern Ireland Health and Personal Social Services Regulation and Improvement Authority established under Article 10 of [S.I. 2003/431 (N.I. 9)](https://www.legislation.gov.uk/nisi/2003/431) was renamed The Health and Social Care Regulation and Quality Improvement Authority under section 1(2) of the Health and Social Care (Reform) Act (Northern Ireland) 2009.
 
-[^key-0247e2a394d84819805c3558b41a1107]: Textual amendment: [Sch. 5 para. 5(2)(b)](https://www.legislation.gov.uk/uksi/2012/2996/schedule/5/paragraph/5/2/b) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [58(4)(b)(i)](https://www.legislation.gov.uk/uksi/2022/634/regulation/58/4/b/i)
+[^c-0247e2a394d84819805c3558b41a1107]: Textual amendment: [Sch. 5 para. 5(2)(b)](https://www.legislation.gov.uk/uksi/2012/2996/schedule/5/paragraph/5/2/b) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [58(4)(b)(i)](https://www.legislation.gov.uk/uksi/2022/634/regulation/58/4/b/i)
 
-[^key-81dc192fc842057135a5b7008a4c9c39]: Textual amendment: [Sch. 5 para. 5(2)(ba)](https://www.legislation.gov.uk/uksi/2012/2996/schedule/5/paragraph/5/2/ba) inserted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [58(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/634/regulation/58/4/b/ii)
+[^c-81dc192fc842057135a5b7008a4c9c39]: Textual amendment: [Sch. 5 para. 5(2)(ba)](https://www.legislation.gov.uk/uksi/2012/2996/schedule/5/paragraph/5/2/ba) inserted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [58(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/634/regulation/58/4/b/ii)
 
-[^key-b886ce455dd735c5afa8a510c19d8260]: Textual amendment: Words in [Sch. 5 para. 6](https://www.legislation.gov.uk/uksi/2012/2996/schedule/5/paragraph/6) substituted (1.10.2014) by [The National Health Service Commissioning Board and Clinical Commissioning Groups (Responsibilities and Standing Rules) (Amendment) (No. 3) Regulations 2014 (S.I. 2014/1611)](https://www.legislation.gov.uk/uksi/2014/1611), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1611/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2014/1611/regulation/6)
+[^c-b886ce455dd735c5afa8a510c19d8260]: Textual amendment: Words in [Sch. 5 para. 6](https://www.legislation.gov.uk/uksi/2012/2996/schedule/5/paragraph/6) substituted (1.10.2014) by [The National Health Service Commissioning Board and Clinical Commissioning Groups (Responsibilities and Standing Rules) (Amendment) (No. 3) Regulations 2014 (S.I. 2014/1611)](https://www.legislation.gov.uk/uksi/2014/1611), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1611/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2014/1611/regulation/6)
 
 [^c21468441]: Marginal citation: [1986 c. 46](https://www.legislation.gov.uk/ukpga/1986/46).
 

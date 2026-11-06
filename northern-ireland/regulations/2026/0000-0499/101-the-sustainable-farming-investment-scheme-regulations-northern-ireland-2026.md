@@ -42,11 +42,11 @@ Coming into operation
 
 The Department of Agriculture, Environment and Rural Affairs[^f00001], in exercise of the powers conferred by section 6(1)(f) of the Agriculture Act (Northern Ireland) 1949[^f00002], with the approval of the Department of Finance[^f00003], makes the following Regulations.
 
-## 1. Citation and Commencement[^key-1c1a5be19f8ef963a4dcbb096ad15497]
+## 1. Citation and Commencement[^c-1c1a5be19f8ef963a4dcbb096ad15497]
 
 These Regulations may be cited as the Sustainable Farming Investment Scheme Regulations (Northern Ireland) 2026 and come into operation on 23rd June 2026.
 
-## 2. Interpretation[^key-f05da1770eb90c189571adbdaee0e078]
+## 2. Interpretation[^c-f05da1770eb90c189571adbdaee0e078]
 
 (1) In these Regulations —
 
@@ -66,11 +66,11 @@ These Regulations may be cited as the Sustainable Farming Investment Scheme Regu
 
 (2) A reference in these Regulations to anything done in writing or produced in written form includes a reference to an electronic communication which has been recorded and is consequently capable of being reproduced.
 
-## 3. Assistance for capital investment[^key-4940948a7535965f9df58296488d0d8f]
+## 3. Assistance for capital investment[^c-4940948a7535965f9df58296488d0d8f]
 
 The Department may pay financial assistance to a beneficiary towards expenditure incurred or to be incurred by them in connection with any approved operation.
 
-## 4. Payment[^key-ac743a1fb30185c8bd849277e5e61676]
+## 4. Payment[^c-ac743a1fb30185c8bd849277e5e61676]
 
 (1) The Department may make a capital investment payment as a single lump sum or by instalments.
 
@@ -79,13 +79,13 @@ The Department may pay financial assistance to a beneficiary towards expenditure
 - (a) at such time or times as the Department thinks fit; and
 - (b) subject to such conditions as the Department may determine.
 
-## 5. Applications for an approval of operations[^key-1d67457e9e6f113eb0de67f7b9a03a86]
+## 5. Applications for an approval of operations[^c-1d67457e9e6f113eb0de67f7b9a03a86]
 
 (1) An application for the approval of an operation must be made to the Department or, in such circumstances as the Department may determine and publish in writing, to its agent.
 
 (2) Such an application must be made in such form and contain such information as the Department or its agent, may require.
 
-## 6. Approval of operations[^key-7d01d48a3283f84623e501739cd8bcc5]
+## 6. Approval of operations[^c-7d01d48a3283f84623e501739cd8bcc5]
 
 (1) The Department or its agent may, on application made to it, approve any operation for the purposes of regulation 3 and may do so—
 
@@ -108,17 +108,17 @@ The Department may pay financial assistance to a beneficiary towards expenditure
 
 (5) An approval or variation under the regulation must be in writing.
 
-## 7. Claim for capital investment payment[^key-1abd5665a424169dbfda4998de462065]
+## 7. Claim for capital investment payment[^c-1abd5665a424169dbfda4998de462065]
 
 A claim for a capital investment payment must be made at such time and in such form and be accompanied by such information as the Department or its agent may require.
 
-## 8. Provision of information[^key-3cc026671d9f84743123d52aced83983]
+## 8. Provision of information[^c-3cc026671d9f84743123d52aced83983]
 
 (1) A beneficiary must supply the Department or its agent with such information about an approved operation as the Department or its agent may require.
 
 (2) Where the Department or its agent requires such information, the beneficiary must supply the Department or its agent with the information within such period as the Department or its agent may determine.
 
-## 9. Powers of entry[^key-ed9f17a517765cb9cfffab80af9a764e]
+## 9. Powers of entry[^c-ed9f17a517765cb9cfffab80af9a764e]
 
 (1) An authorised person may exercise any of the powers specified in this regulation for the purposes of enforcing these Regulations.
 
@@ -131,7 +131,7 @@ A claim for a capital investment payment must be made at such time and in such f
 
 (4) An authorised person who enters any unoccupied premises must as far as is reasonably practicable, leave them as effectively secured as they were before entry.
 
-## 10. Powers of an authorised person[^key-619007fdd9c3545adb5533b25ebd29e7]
+## 10. Powers of an authorised person[^c-619007fdd9c3545adb5533b25ebd29e7]
 
 (1) An authorised person who has entered any land or premises under regulation 9 may—
 
@@ -147,7 +147,7 @@ A claim for a capital investment payment must be made at such time and in such f
 
 (2) Paragraph (1) applies in relation to a person referred to in regulation 9(3) when such a person is acting under the instructions of an authorised person, as if such person were an authorised person.
 
-## 11. Record-keeping[^key-a1005e6b37b463c30d6f67646a28134f]
+## 11. Record-keeping[^c-a1005e6b37b463c30d6f67646a28134f]
 
 (1) Save as provided in paragraphs (2) and (3), a beneficiary must retain any invoice, account or other document relating to an approved operation for such a period as the Department or its agent may determine, and in any case for a minimum period of five years from the date on which the claim is submitted to the Department .
 
@@ -155,13 +155,13 @@ A claim for a capital investment payment must be made at such time and in such f
 
 (3) Paragraph (1) does not apply in relation to any document removed by any person lawfully authorised to remove it.
 
-## 12. Transfers of assets purchased with a capital investment payment[^key-0ec3bab88a79e408fca1fe23f1c80b39]
+## 12. Transfers of assets purchased with a capital investment payment[^c-0ec3bab88a79e408fca1fe23f1c80b39]
 
 (1) Any assets purchased using a capital investment payment must be retained by the beneficiary for a minimum period of five years from the date on which the claim is submitted to the Department and may not be sold, leased, destroyed or otherwise temporarily or permanently disposed of unless by prior written agreement with the Department or its agent.
 
 (2) Where an asset is not duly retained by the beneficiary, a penalty may be applied under regulation 14, except where the asset is temporarily deployed on another farm.
 
-## 13. Determinations relating to operations[^key-6b86591d490a8c18f5b96426e6dfa537]
+## 13. Determinations relating to operations[^c-6b86591d490a8c18f5b96426e6dfa537]
 
 (1) The Department or its agent may determine that, in relation to any claim or application made to it, or an operation approved by it—
 
@@ -183,7 +183,7 @@ A claim for a capital investment payment must be made at such time and in such f
 - (b) afford that beneficiary the opportunity of making written representations within such period as the Department or its agent considers reasonable; and
 - (c) consider any such representations in deciding whether to make any determination.
 
-## 14. Powers of recovery etc. in relation to capital investment payments[^key-88414c532f36a19ed2526d564c8aeb6c]
+## 14. Powers of recovery etc. in relation to capital investment payments[^c-88414c532f36a19ed2526d564c8aeb6c]
 
 (1) Where the Department or its agent makes a determination under regulation 13(1), the Department may—
 
@@ -199,11 +199,11 @@ A claim for a capital investment payment must be made at such time and in such f
 
 (4) The powers conferred by this regulation are exercisable by a notice in writing served by the Department or its agent.
 
-## 15. Recovery of payment[^key-ac84eda30ba1cdbd9783480e601522a1]
+## 15. Recovery of payment[^c-ac84eda30ba1cdbd9783480e601522a1]
 
 In any case where an amount falls to be paid to the Department by virtue of these Regulations, the amount falling to be paid is recoverable as a civil debt.
 
-## 16. Recovery of interest[^key-6037fabaa49589916e32c2acefa15c7c]
+## 16. Recovery of interest[^c-6037fabaa49589916e32c2acefa15c7c]
 
 (1) Where the Department exercises the power to recover a sum falling within regulation 14(1)(b), it may also recover, on demand, interest on that sum.
 
@@ -218,7 +218,7 @@ In any case where an amount falls to be paid to the Department by virtue of thes
 
 (5) In any proceedings relating to this regulation, a certificate of the Department stating the Bank of England base rate applicable during the period specified in the certificate shall be sufficient evidence of the rate applicable in the specified period unless the contrary is proved.
 
-## 17. Set-off[^key-7ac87efb52807931e8044df55e566f73]
+## 17. Set-off[^c-7ac87efb52807931e8044df55e566f73]
 
 The amount of—
 
@@ -227,7 +227,7 @@ The amount of—
 
 may be set off against the amount of any sum recoverable by the Department under regulation 15 or 16.
 
-## 18. Review of Decisions[^key-c683c305cd4990292fdcf9f6eaa32837]
+## 18. Review of Decisions[^c-c683c305cd4990292fdcf9f6eaa32837]
 
 (1) Where the Department or its agent rejects an application under these Regulations, in whole or in part, an applicant may apply to the Department for a review of the decision.
 
@@ -278,11 +278,11 @@ Department of Finance
 
 Regulation 2
 
-### 1. Aim of the Scheme[^key-84529bd4d36d3493b8178c090a86ed7d]
+### 1. Aim of the Scheme[^c-84529bd4d36d3493b8178c090a86ed7d]
 
 The aim of the Sustainable Farming Investment Scheme (SFIS) is to incentivise on-farm investment in equipment and technology which will improve environmental performance on farms.
 
-### 2. Scheme Financial Limits[^key-5870643442362d0c936caa0cea38a14e]
+### 2. Scheme Financial Limits[^c-5870643442362d0c936caa0cea38a14e]
 
 (1) Subject to paragraph (3), an applicant may apply for grant support for an operation where the eligible costs of the operation are equal to or exceed £3,000 but do not exceed £62,500.
 
@@ -290,17 +290,17 @@ The aim of the Sustainable Farming Investment Scheme (SFIS) is to incentivise on
 
 (3) A farm business may receive a maximum of £25,000 grant for the duration of the scheme.
 
-### 3. List of Eligible Equipment and Technology[^key-e1c559fa6215d9d5ca9b7c43effe5d55]
+### 3. List of Eligible Equipment and Technology[^c-e1c559fa6215d9d5ca9b7c43effe5d55]
 
 (1) Each item on the list of equipment and technology will be assessed by or on behalf of the Department against a range of benefits including environment (air, water, soil and biodiversity), carbon, efficiency, innovation and animal health and welfare and plant health.
 
 (2) The list of eligible items will be published by the Department on such date or dates as it may determine.
 
-### 4. Item pricing[^key-a86acb5560964782a5a3bef152c09a53]
+### 4. Item pricing[^c-a86acb5560964782a5a3bef152c09a53]
 
 The amount of support available for each item on the list will be decided at such price as the Department or its agent may determine.
 
-### 5. Scheme Eligibility[^key-4369e0e2438c965efc46860848cd91bc]
+### 5. Scheme Eligibility[^c-4369e0e2438c965efc46860848cd91bc]
 
 (1) The scheme will be open to farmers engaged in the production of food for human consumption.
 
@@ -308,7 +308,7 @@ The amount of support available for each item on the list will be decided at suc
 
 (3) All beneficiaries must be farmers or groups of farmers, whether natural or legal persons.
 
-### 6. Eligible Costs[^key-7924b01c0b299d457333d9911597e6d4]
+### 6. Eligible Costs[^c-7924b01c0b299d457333d9911597e6d4]
 
 The following costs are eligible for support—
 
@@ -316,7 +316,7 @@ The following costs are eligible for support—
   - (i) included on the List of Eligible Equipment and Technology; and
   - (ii) specified as approved for purchase in a beneficiary’s Letter of Offer.
 
-### 7. Ineligible Costs[^key-9b3abe2a6ed0bc1fae437f63809ea51b]
+### 7. Ineligible Costs[^c-9b3abe2a6ed0bc1fae437f63809ea51b]
 
 The following costs are not eligible for support—
 
@@ -372,52 +372,52 @@ detail the aim and design of the scheme (Schedule).
 
 [^f00003]: Footnote: The Ministry of Finance is now the Department of Finance; see section 1(4) of the Departments Act (Northern Ireland) [2016 c. 5 (N.I.)](https://www.legislation.gov.uk/nia/2016/5).
 
-[^key-1c1a5be19f8ef963a4dcbb096ad15497]: Commencement: Reg. 1 in operation at 23.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/101/regulation/1)
+[^c-1c1a5be19f8ef963a4dcbb096ad15497]: Commencement: Reg. 1 in operation at 23.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/101/regulation/1)
 
-[^key-f05da1770eb90c189571adbdaee0e078]: Commencement: Reg. 2 in operation at 23.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/101/regulation/1)
+[^c-f05da1770eb90c189571adbdaee0e078]: Commencement: Reg. 2 in operation at 23.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/101/regulation/1)
 
-[^key-4940948a7535965f9df58296488d0d8f]: Commencement: Reg. 3 in operation at 23.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/101/regulation/1)
+[^c-4940948a7535965f9df58296488d0d8f]: Commencement: Reg. 3 in operation at 23.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/101/regulation/1)
 
-[^key-ac743a1fb30185c8bd849277e5e61676]: Commencement: Reg. 4 in operation at 23.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/101/regulation/1)
+[^c-ac743a1fb30185c8bd849277e5e61676]: Commencement: Reg. 4 in operation at 23.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/101/regulation/1)
 
-[^key-1d67457e9e6f113eb0de67f7b9a03a86]: Commencement: Reg. 5 in operation at 23.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/101/regulation/1)
+[^c-1d67457e9e6f113eb0de67f7b9a03a86]: Commencement: Reg. 5 in operation at 23.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/101/regulation/1)
 
-[^key-7d01d48a3283f84623e501739cd8bcc5]: Commencement: Reg. 6 in operation at 23.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/101/regulation/1)
+[^c-7d01d48a3283f84623e501739cd8bcc5]: Commencement: Reg. 6 in operation at 23.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/101/regulation/1)
 
-[^key-1abd5665a424169dbfda4998de462065]: Commencement: Reg. 7 in operation at 23.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/101/regulation/1)
+[^c-1abd5665a424169dbfda4998de462065]: Commencement: Reg. 7 in operation at 23.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/101/regulation/1)
 
-[^key-3cc026671d9f84743123d52aced83983]: Commencement: Reg. 8 in operation at 23.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/101/regulation/1)
+[^c-3cc026671d9f84743123d52aced83983]: Commencement: Reg. 8 in operation at 23.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/101/regulation/1)
 
-[^key-ed9f17a517765cb9cfffab80af9a764e]: Commencement: Reg. 9 in operation at 23.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/101/regulation/1)
+[^c-ed9f17a517765cb9cfffab80af9a764e]: Commencement: Reg. 9 in operation at 23.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/101/regulation/1)
 
-[^key-619007fdd9c3545adb5533b25ebd29e7]: Commencement: Reg. 10 in operation at 23.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/101/regulation/1)
+[^c-619007fdd9c3545adb5533b25ebd29e7]: Commencement: Reg. 10 in operation at 23.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/101/regulation/1)
 
-[^key-a1005e6b37b463c30d6f67646a28134f]: Commencement: Reg. 11 in operation at 23.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/101/regulation/1)
+[^c-a1005e6b37b463c30d6f67646a28134f]: Commencement: Reg. 11 in operation at 23.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/101/regulation/1)
 
-[^key-0ec3bab88a79e408fca1fe23f1c80b39]: Commencement: Reg. 12 in operation at 23.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/101/regulation/1)
+[^c-0ec3bab88a79e408fca1fe23f1c80b39]: Commencement: Reg. 12 in operation at 23.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/101/regulation/1)
 
-[^key-6b86591d490a8c18f5b96426e6dfa537]: Commencement: Reg. 13 in operation at 23.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/101/regulation/1)
+[^c-6b86591d490a8c18f5b96426e6dfa537]: Commencement: Reg. 13 in operation at 23.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/101/regulation/1)
 
-[^key-88414c532f36a19ed2526d564c8aeb6c]: Commencement: Reg. 14 in operation at 23.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/101/regulation/1)
+[^c-88414c532f36a19ed2526d564c8aeb6c]: Commencement: Reg. 14 in operation at 23.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/101/regulation/1)
 
-[^key-ac84eda30ba1cdbd9783480e601522a1]: Commencement: Reg. 15 in operation at 23.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/101/regulation/1)
+[^c-ac84eda30ba1cdbd9783480e601522a1]: Commencement: Reg. 15 in operation at 23.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/101/regulation/1)
 
-[^key-6037fabaa49589916e32c2acefa15c7c]: Commencement: Reg. 16 in operation at 23.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/101/regulation/1)
+[^c-6037fabaa49589916e32c2acefa15c7c]: Commencement: Reg. 16 in operation at 23.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/101/regulation/1)
 
-[^key-7ac87efb52807931e8044df55e566f73]: Commencement: Reg. 17 in operation at 23.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/101/regulation/1)
+[^c-7ac87efb52807931e8044df55e566f73]: Commencement: Reg. 17 in operation at 23.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/101/regulation/1)
 
-[^key-c683c305cd4990292fdcf9f6eaa32837]: Commencement: Reg. 18 in operation at 23.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/101/regulation/1)
+[^c-c683c305cd4990292fdcf9f6eaa32837]: Commencement: Reg. 18 in operation at 23.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/101/regulation/1)
 
-[^key-84529bd4d36d3493b8178c090a86ed7d]: Commencement: Sch. 1 para. 1 in operation at 23.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/101/regulation/1)
+[^c-84529bd4d36d3493b8178c090a86ed7d]: Commencement: Sch. 1 para. 1 in operation at 23.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/101/regulation/1)
 
-[^key-5870643442362d0c936caa0cea38a14e]: Commencement: Sch. 1 para. 2 in operation at 23.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/101/regulation/1)
+[^c-5870643442362d0c936caa0cea38a14e]: Commencement: Sch. 1 para. 2 in operation at 23.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/101/regulation/1)
 
-[^key-e1c559fa6215d9d5ca9b7c43effe5d55]: Commencement: Sch. 1 para. 3 in operation at 23.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/101/regulation/1)
+[^c-e1c559fa6215d9d5ca9b7c43effe5d55]: Commencement: Sch. 1 para. 3 in operation at 23.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/101/regulation/1)
 
-[^key-a86acb5560964782a5a3bef152c09a53]: Commencement: Sch. 1 para. 4 in operation at 23.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/101/regulation/1)
+[^c-a86acb5560964782a5a3bef152c09a53]: Commencement: Sch. 1 para. 4 in operation at 23.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/101/regulation/1)
 
-[^key-4369e0e2438c965efc46860848cd91bc]: Commencement: Sch. 1 para. 5 in operation at 23.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/101/regulation/1)
+[^c-4369e0e2438c965efc46860848cd91bc]: Commencement: Sch. 1 para. 5 in operation at 23.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/101/regulation/1)
 
-[^key-7924b01c0b299d457333d9911597e6d4]: Commencement: Sch. 1 para. 6 in operation at 23.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/101/regulation/1)
+[^c-7924b01c0b299d457333d9911597e6d4]: Commencement: Sch. 1 para. 6 in operation at 23.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/101/regulation/1)
 
-[^key-9b3abe2a6ed0bc1fae437f63809ea51b]: Commencement: Sch. 1 para. 7 in operation at 23.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/101/regulation/1)
+[^c-9b3abe2a6ed0bc1fae437f63809ea51b]: Commencement: Sch. 1 para. 7 in operation at 23.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/101/regulation/1)

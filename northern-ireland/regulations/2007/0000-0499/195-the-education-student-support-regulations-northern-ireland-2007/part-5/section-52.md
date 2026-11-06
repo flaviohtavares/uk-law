@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 52. Amount of the grant for travel – courses in medicine and dentistry[^key-ed1f65bac3ac6a9ed30a32f4b3440929]
+## 52. Amount of the grant for travel – courses in medicine and dentistry[^c-ed1f65bac3ac6a9ed30a32f4b3440929]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ The amount of grant payable under regulation 51 in respect of an academic year i
 
 ## Annotations
 
-[^key-ed1f65bac3ac6a9ed30a32f4b3440929]: Commencement: [Reg. 52](https://www.legislation.gov.uk/nisr/2007/195/regulation/52) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-ed1f65bac3ac6a9ed30a32f4b3440929]: Commencement: [Reg. 52](https://www.legislation.gov.uk/nisr/2007/195/regulation/52) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

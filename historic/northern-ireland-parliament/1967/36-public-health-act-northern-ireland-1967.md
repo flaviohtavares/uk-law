@@ -601,7 +601,7 @@ In this Act—
 
 SCHEDULES
 
-## SCHEDULE 1 — Notifiable Diseases[^key-cfb242c5767ea62c135306ed69f24048]
+## SCHEDULE 1 — Notifiable Diseases[^c-cfb242c5767ea62c135306ed69f24048]
 
 Regulation 2
 
@@ -824,4 +824,4 @@ Regulation 2
 
 [^c11601271]: Textual amendment: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21)
 
-[^key-cfb242c5767ea62c135306ed69f24048]: Textual amendment: [Sch.](https://www.legislation.gov.uk/apni/1967/36/schedule) substituted (7.6.2022) by [The Public Health (Notifiable Diseases) Order (Northern Ireland) 2022 (S.R. 2022/181)](https://www.legislation.gov.uk/nisr/2022/181), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2022/181/article/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2022/181/article/2/2)
+[^c-cfb242c5767ea62c135306ed69f24048]: Textual amendment: [Sch.](https://www.legislation.gov.uk/apni/1967/36/schedule) substituted (7.6.2022) by [The Public Health (Notifiable Diseases) Order (Northern Ireland) 2022 (S.R. 2022/181)](https://www.legislation.gov.uk/nisr/2022/181), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2022/181/article/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2022/181/article/2/2)

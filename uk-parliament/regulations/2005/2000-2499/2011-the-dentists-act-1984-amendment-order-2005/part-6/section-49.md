@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Minor and consequential amendments[^key-ef014f87abd096e9cd8338f2ee246569]
+## 49. Minor and consequential amendments[^c-ef014f87abd096e9cd8338f2ee246569]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ The minor and consequential amendments contained in Schedule 6 to this Order sha
 
 ## Annotations
 
-[^key-ef014f87abd096e9cd8338f2ee246569]: Commencement: Art. 49 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
+[^c-ef014f87abd096e9cd8338f2ee246569]: Commencement: Art. 49 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)

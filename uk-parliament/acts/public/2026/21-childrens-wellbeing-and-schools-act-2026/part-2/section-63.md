@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Power to direct admission: additional triggers[^key-febdd070e0722818143723698927663e]
+## 63. Power to direct admission: additional triggers[^c-febdd070e0722818143723698927663e]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-febdd070e0722818143723698927663e]: Commencement: S. 63 not in force at Royal Assent, see [s. 78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
+[^c-febdd070e0722818143723698927663e]: Commencement: S. 63 not in force at Royal Assent, see [s. 78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)

@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**48.2.**[^key-b941119c8cdc9da1893b8454ae2b36e6] (1) A pre-commencement funding arrangement is—
+**48.2.**[^c-b941119c8cdc9da1893b8454ae2b36e6] (1) A pre-commencement funding arrangement is—
 
 - (a) in relation to proceedings other than insolvency-related proceedings, publication and privacy proceedings or a mesothelioma claim—
   - (i) a funding arrangement as defined by rule 43.2(1)(k)(i) where—
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b941119c8cdc9da1893b8454ae2b36e6]: Textual amendment: Pts. 44-48 substituted (1.4.2013) by [The Civil Procedure (Amendment) Rules 2013 (S.I. 2013/262)](https://www.legislation.gov.uk/uksi/2013/262), [rules 2](https://www.legislation.gov.uk/uksi/2013/262/rule/2), [16](https://www.legislation.gov.uk/uksi/2013/262/rule/16), [Sch.](https://www.legislation.gov.uk/uksi/2013/262/schedule) (with [rule 22](https://www.legislation.gov.uk/uksi/2013/262/rule/22))
+[^c-b941119c8cdc9da1893b8454ae2b36e6]: Textual amendment: Pts. 44-48 substituted (1.4.2013) by [The Civil Procedure (Amendment) Rules 2013 (S.I. 2013/262)](https://www.legislation.gov.uk/uksi/2013/262), [rules 2](https://www.legislation.gov.uk/uksi/2013/262/rule/2), [16](https://www.legislation.gov.uk/uksi/2013/262/rule/16), [Sch.](https://www.legislation.gov.uk/uksi/2013/262/schedule) (with [rule 22](https://www.legislation.gov.uk/uksi/2013/262/rule/22))

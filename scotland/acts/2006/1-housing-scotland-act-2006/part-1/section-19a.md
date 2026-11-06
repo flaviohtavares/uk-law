@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19A. Duty to ensure regular electrical safety inspections[^key-ad6cb35399f510f1fad968ea2d82f10a]
+## 19A. Duty to ensure regular electrical safety inspections[^c-ad6cb35399f510f1fad968ea2d82f10a]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ad6cb35399f510f1fad968ea2d82f10a]: Textual amendment: Ss. 19A 19B inserted (1.12.2015) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 23(2)](https://www.legislation.gov.uk/asp/2014/14/section/23/2), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2015/272](https://www.legislation.gov.uk/ssi/2015/272), [art. 2](https://www.legislation.gov.uk/ssi/2015/272/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/272/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/272/article/3))
+[^c-ad6cb35399f510f1fad968ea2d82f10a]: Textual amendment: Ss. 19A 19B inserted (1.12.2015) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 23(2)](https://www.legislation.gov.uk/asp/2014/14/section/23/2), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2015/272](https://www.legislation.gov.uk/ssi/2015/272), [art. 2](https://www.legislation.gov.uk/ssi/2015/272/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/272/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/272/article/3))

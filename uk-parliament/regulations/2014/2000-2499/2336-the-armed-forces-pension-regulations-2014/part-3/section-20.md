@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Option to join the scheme[^key-2ae5bfb388206c2d6e5e800d2517eb36]
+## 20. Option to join the scheme[^c-2ae5bfb388206c2d6e5e800d2517eb36]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2ae5bfb388206c2d6e5e800d2517eb36]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2014/2336/regulation/20) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-2ae5bfb388206c2d6e5e800d2517eb36]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2014/2336/regulation/20) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

@@ -50,33 +50,33 @@ Coming into force
 
 The Criminal Procedure Rule Committee, having power under section 69 of the Courts Act 2003[^f00001] and section 9(3) and section 9A(3) of the Juries Act 1974[^f00002], and after consulting in accordance with section 72(1)(a) of the Courts Act 2003, make the following Rules:
 
-## 1. Citation, commencement and interpretation[^key-d6619f27b1e0a518bb0c67e1c17fcf14]
+## 1. Citation, commencement and interpretation[^c-d6619f27b1e0a518bb0c67e1c17fcf14]
 
 These Rules may be cited as the Criminal Procedure (Amendment) Rules 2006 and shall come into force on 3rd April 2006.
 
-**2.**[^key-9a6f223bca78df735a3057a5872d3e1a] In these Rules, a reference to a Part or rule by number alone means the Part or rule so numbered in the Criminal Procedure Rules 2005[^f00003].
+**2.**[^c-9a6f223bca78df735a3057a5872d3e1a] In these Rules, a reference to a Part or rule by number alone means the Part or rule so numbered in the Criminal Procedure Rules 2005[^f00003].
 
-## 3. Amendments to the Criminal Procedure Rules 2005[^key-0a0df8f01eb5d977a5288677f333fb8e]
+## 3. Amendments to the Criminal Procedure Rules 2005[^c-0a0df8f01eb5d977a5288677f333fb8e]
 
 In the note after rule 3.11 (other rules and legislation affecting case management)—
 
 - (a) in the list of Regulations, for “Crime and Disorder Act 1998 (Service of Prosecution Evidence) Regulations 2000”[^f00004], substitute “Crime and Disorder Act 1998 (Service of Prosecution Evidence) Regulations 2005”[^f00005]; and
 - (b) in the list of Provisions of Acts of Parliament, in the entry for the Crime and Disorder Act 1998[^f00006], after “section 51”, insert “and (so far as it is in force) section 51A”.
 
-**4.**[^key-27055eacce3e029eee2570dd78606ad7] In the note after rule 4.3 (service of documents in Crown Court proceedings), for “15.8”, substitute “15.6”.
+**4.**[^c-27055eacce3e029eee2570dd78606ad7] In the note after rule 4.3 (service of documents in Crown Court proceedings), for “15.8”, substitute “15.6”.
 
-**5.**[^key-0ab0dd0c1ac352419e135df1a0c9404a] For Part 15 (preparatory hearings in cases of serious fraud and other complex or lengthy cases in the Crown Court), substitute the Part as set out in Schedule 1 to these Rules.
+**5.**[^c-0ab0dd0c1ac352419e135df1a0c9404a] For Part 15 (preparatory hearings in cases of serious fraud and other complex or lengthy cases in the Crown Court), substitute the Part as set out in Schedule 1 to these Rules.
 
-**6.**[^key-ebdfa617c31505ab0a08a24ec51347ea] For Part 18 (warrants), substitute the Part as set out in Schedule 2 to these Rules.
+**6.**[^c-ebdfa617c31505ab0a08a24ec51347ea] For Part 18 (warrants), substitute the Part as set out in Schedule 2 to these Rules.
 
-**7.**[^key-9ef6e3defe77eb86fe37d07b402c62f4] In rule 34.1 (hearsay evidence: when this Part applies)—
+**7.**[^c-9ef6e3defe77eb86fe37d07b402c62f4] In rule 34.1 (hearsay evidence: when this Part applies)—
 
 - (a) after “section 114(1)”, omit “(a) to”; and
 - (b) after “(d)”, insert “, section 116, section 117 and section 121”.
 
-**8.**[^key-4a4b0e6a55ffdfe217f91c97278e5fd1] In the note after rule 34.1, after “on certain conditions.”, insert “This Part applies only to evidence that is admissible on one or more of the following grounds set out in the 2003 Act[^f00007], namely where (a) it is in the interests of justice for it to be admissible (see section 114(1)(d)), (b) the witness is unavailable to attend (see section 116), (c) the evidence is contained in a business, or other, document (see section 117) or (d) the evidence is multiple hearsay (see section 121).”.
+**8.**[^c-4a4b0e6a55ffdfe217f91c97278e5fd1] In the note after rule 34.1, after “on certain conditions.”, insert “This Part applies only to evidence that is admissible on one or more of the following grounds set out in the 2003 Act[^f00007], namely where (a) it is in the interests of justice for it to be admissible (see section 114(1)(d)), (b) the witness is unavailable to attend (see section 116), (c) the evidence is contained in a business, or other, document (see section 117) or (d) the evidence is multiple hearsay (see section 121).”.
 
-**9.**[^key-3c04e6bab39485f839f52f436061a0cc] In Part 35—
+**9.**[^c-3c04e6bab39485f839f52f436061a0cc] In Part 35—
 
 - (a) in rule 35.2 (introducing evidence of non-defendant’s bad character), for paragraph (a), substitute—
 
@@ -87,7 +87,7 @@ In the note after rule 3.11 (other rules and legislation affecting case manageme
   ; and
 - (b) in rule 35.6 (time limit for defendant’s application to exclude evidence of his own bad character) for “7”, substitute “14”.
 
-**10.**[^key-1640db70fca9f8688ce80445519e85ac] In Part 39 (trial on indictment)—
+**10.**[^c-1640db70fca9f8688ce80445519e85ac] In Part 39 (trial on indictment)—
 
 - (a) in the table of contents, insert—
   - (i) at the end of the first column, “Appeal against refusal to excuse from jury service or to defer attendance”, and
@@ -111,9 +111,9 @@ In the note after rule 3.11 (other rules and legislation affecting case manageme
 
     .
 
-**11.**[^key-a523903d09c42a0064172a41bb9ab1f3] In Part 41 (retrial following acquittal for serious offence), in the table of contents, in the entry for rule 41.12, after “Court”, omit “Service”.
+**11.**[^c-a523903d09c42a0064172a41bb9ab1f3] In Part 41 (retrial following acquittal for serious offence), in the table of contents, in the entry for rule 41.12, after “Court”, omit “Service”.
 
-**12.**[^key-efa032b662969f932e093b03745f546c] In Part 57 (Proceeds of Crime Act 2002—rules applicable to all proceedings)—
+**12.**[^c-efa032b662969f932e093b03745f546c] In Part 57 (Proceeds of Crime Act 2002—rules applicable to all proceedings)—
 
 - (a) in the table of contents—
   - (i) in the entry for rule 57.4, for “Irish”, substitute “Ireland”,
@@ -150,7 +150,7 @@ In the note after rule 3.11 (other rules and legislation affecting case manageme
 
   .
 
-**13.**[^key-17350ea9b27b7b06b63f56bed1a4f762] In Part 65 (appeal to the Court of Appeal against ruling in preparatory hearing)—
+**13.**[^c-17350ea9b27b7b06b63f56bed1a4f762] In Part 65 (appeal to the Court of Appeal against ruling in preparatory hearing)—
 
 - (a) in the table of contents, insert—
   - (i) at the end of the first column, “Appeal against order following discharge of jury because of jury tampering”, and
@@ -163,7 +163,7 @@ In the note after rule 3.11 (other rules and legislation affecting case manageme
 
   .
 
-**14.**[^key-6379f9ca120cd64acb3ca82377eb1267] In Part 66 (appeal to the Court of Appeal against ruling adverse to prosecution)—
+**14.**[^c-6379f9ca120cd64acb3ca82377eb1267] In Part 66 (appeal to the Court of Appeal against ruling adverse to prosecution)—
 
 - (a) in the table of contents, in the entry for rule 66.14, for “of Appeal”, substitute “, single judge or Registrar”;
 - (b) omit rule 66.11(3);
@@ -189,9 +189,9 @@ In the note after rule 3.11 (other rules and legislation affecting case manageme
 
   .
 
-**15.**[^key-aee106d54413733615261afa0624de04] In Part 68 (appeal to the Court of Appeal against conviction or sentence), in the table of contents, in the entry for rule 68.12, omit “at trial”.
+**15.**[^c-aee106d54413733615261afa0624de04] In Part 68 (appeal to the Court of Appeal against conviction or sentence), in the table of contents, in the entry for rule 68.12, omit “at trial”.
 
-**16.**[^key-9baac533e3ea93eada024420e13e0522] In rule 68.1(3) (service of documents: interpretation), for the words from “an appellant” (in the second place it appears) to the end of that paragraph, substitute—
+**16.**[^c-9baac533e3ea93eada024420e13e0522] In rule 68.1(3) (service of documents: interpretation), for the words from “an appellant” (in the second place it appears) to the end of that paragraph, substitute—
 
 > - (a) an appellant under section 13 of the Administration of Justice Act 1960[^f00014] (appeal in cases of contempt of court);
 > - (b) a defendant in proceedings in the Crown Court in respect of which an application is made for leave to appeal under section 159 of the Criminal Justice Act 1988[^f00015] (Crown Court proceedings—orders restricting or preventing reports or restricting public access);
@@ -200,7 +200,7 @@ In the note after rule 3.11 (other rules and legislation affecting case manageme
 
 .
 
-**17.**[^key-5fe0d6c3e37ae22ceeb1a049f60b9d54] In rule 68.3 (notice of appeal and application for extension of time)—
+**17.**[^c-5fe0d6c3e37ae22ceeb1a049f60b9d54] In rule 68.3 (notice of appeal and application for extension of time)—
 
 - (a) in paragraph (1)—
   - (i) after “by completing”, omit “Part 1 of”, and
@@ -221,7 +221,7 @@ In the note after rule 3.11 (other rules and legislation affecting case manageme
 
   .
 
-**18.**[^key-48c3cee19d4de8ad878d362b5ce38e4d] In rule 68.5 (exercise of court’s power to give leave to appeal, etc: general rules)—
+**18.**[^c-48c3cee19d4de8ad878d362b5ce38e4d] In rule 68.5 (exercise of court’s power to give leave to appeal, etc: general rules)—
 
 - (a) in paragraph (1)—
   - (i) for “these sections of the Criminal Appeal Act 1968”, substitute “the following provisions”,
@@ -233,7 +233,7 @@ In the note after rule 3.11 (other rules and legislation affecting case manageme
   - (i) for the words from “An application by an appellant” to “the appellant”, substitute “If an appellant makes an application for the exercise of any of the powers under the 1968 Act and he”, and
   - (ii) after “leave to appeal”, insert “, the application must be served on the Crown Court officer”.
 
-**19.**[^key-8347110dadd4785ceaa19690d9dc5651] In rule 68.6 (further applications to a judge or to the court: additional rules)—
+**19.**[^c-8347110dadd4785ceaa19690d9dc5651] In rule 68.6 (further applications to a judge or to the court: additional rules)—
 
 - (a) in paragraph (1)—
   - (i) in sub-paragraph (a), for the words from “the Criminal Appeal Act 1968” to “; or”, substitute “or article 8 of the Criminal Justice Act 2003 (Mandatory Life Sentences: Appeals in Transitional Cases) Order 2005[^f00021] (powers exercisable by a single judge); or”,
@@ -245,20 +245,20 @@ In the note after rule 3.11 (other rules and legislation affecting case manageme
   - (iii) in paragraph (c), as renumbered, after “the 1968 Act”, insert “or article 11 of the 2005 Order”; and
 - (b) in paragraph (2)(a), after “the 1968 Act”, insert “or article 8 of the 2005 Order”.
 
-**20.**[^key-6826c710259c9f094c1df1f00300e72b] In the heading to rule 68.12 (record of proceedings), omit “at trial”.
+**20.**[^c-6826c710259c9f094c1df1f00300e72b] In the heading to rule 68.12 (record of proceedings), omit “at trial”.
 
-**21.**[^key-3cfb3ae5964a1c62b41fbd4dd7f9a6ad] In rule 68.14 (verification of record of proceedings), in the following paragraphs, after “or part thereof”, omit “before the court of trial”—
+**21.**[^c-3cfb3ae5964a1c62b41fbd4dd7f9a6ad] In rule 68.14 (verification of record of proceedings), in the following paragraphs, after “or part thereof”, omit “before the court of trial”—
 
 - (a) in paragraph (1); and
 - (b) in paragraph (2).
 
-**22.**[^key-e689afde8c23d2d4510aae9b6f5e1a36] In the note after rule 68.20 (procedure for the admission of hearsay evidence), for the words from ““Statements”” to “of that Act”, substitute “Part 34 applies only to evidence that is admissible on one or more of the following grounds set out in the Criminal Justice Act 2003[^f00022], namely where (a) it is in the interests of justice for it to be admissible (see section 114(1)(d)), (b) the witness is unavailable to attend (see section 116), (c) the evidence is contained in a business, or other, document (see section 117) or (d) the evidence is multiple hearsay (see section 121).”.
+**22.**[^c-e689afde8c23d2d4510aae9b6f5e1a36] In the note after rule 68.20 (procedure for the admission of hearsay evidence), for the words from ““Statements”” to “of that Act”, substitute “Part 34 applies only to evidence that is admissible on one or more of the following grounds set out in the Criminal Justice Act 2003[^f00022], namely where (a) it is in the interests of justice for it to be admissible (see section 114(1)(d)), (b) the witness is unavailable to attend (see section 116), (c) the evidence is contained in a business, or other, document (see section 117) or (d) the evidence is multiple hearsay (see section 121).”.
 
-**23.**[^key-8afcb095416fc89f78ff65dee264e1d9] In rule 68.22(1) (abandonment of proceedings), after “the Criminal Appeal Act 1968”, insert “or under paragraph 14 of Schedule 22 to the Criminal Justice Act 2003”.
+**23.**[^c-8afcb095416fc89f78ff65dee264e1d9] In rule 68.22(1) (abandonment of proceedings), after “the Criminal Appeal Act 1968”, insert “or under paragraph 14 of Schedule 22 to the Criminal Justice Act 2003”.
 
-**24.**[^key-79035538c2028bab5c5f0f46d9893cad] In rule 68.29(1) (notice of determination of court), after “the Criminal Appeal Act 1968”, insert “or under article 8 of the Criminal Justice Act 2003 (Mandatory Life Sentences: Appeals in Transitional Cases) Order 2005”.
+**24.**[^c-79035538c2028bab5c5f0f46d9893cad] In rule 68.29(1) (notice of determination of court), after “the Criminal Appeal Act 1968”, insert “or under article 8 of the Criminal Justice Act 2003 (Mandatory Life Sentences: Appeals in Transitional Cases) Order 2005”.
 
-**25.**[^key-11edc58547a8d6774243f448e0a56b84] In rule 74.1 (application for leave to appeal from the Criminal Division of the Court of Appeal to the House of Lords)—
+**25.**[^c-11edc58547a8d6774243f448e0a56b84] In rule 74.1 (application for leave to appeal from the Criminal Division of the Court of Appeal to the House of Lords)—
 
 - (a) in paragraph (1)—
   - (i) in sub-paragraph (a), after “the Administration of Justice Act 1960”[^f00023], insert “or Part 3 of the Criminal Justice Act 2003 (Mandatory Life Sentences: Appeals in Transitional Cases) Order 2005”[^f00024], and
@@ -329,7 +329,7 @@ Rule 5
 | Orders for disclosure by prosecution or defence | rule 15.5 |
 | Service | rule 15.6 |
 
-### 15.1. Application for a preparatory hearing[^key-af0677b4c4e4d39f0742c6a8eb3d1465]
+### 15.1. Application for a preparatory hearing[^c-af0677b4c4e4d39f0742c6a8eb3d1465]
 
 (1) A party who wants the court to order a preparatory hearing under section 7(2) of the Criminal Justice Act 1987[^f00025] or under section 29(4) of the Criminal Procedure and Investigations Act 1996[^f00026] must—
 
@@ -343,7 +343,7 @@ Rule 5
 
 - *For the provisions governing applications for the trial to be conducted without a jury, see sections 43 to 48 of the Criminal Justice Act 2003 (trials without a jury in serious or complex fraud cases or where there is a danger of jury tampering). For the rules governing an appeal under section 47 of that Act, see rule 65.11 (appeal against order following discharge of jury because of jury tampering).\]*
 
-### 15.2. Time for applying for a preparatory hearing[^key-fa531f402a870b24290eddb598a09749]
+### 15.2. Time for applying for a preparatory hearing[^c-fa531f402a870b24290eddb598a09749]
 
 (1) A party who applies under rule 15.1 must do so not more than 28 days after—
 
@@ -360,7 +360,7 @@ Rule 5
 
 - *A person is sent for trial under section 51 of the Crime and Disorder Act 1998[^f00031] (indictable-only offences sent for trial) or (so far as it is in force) under section 51A of the Crime and Disorder Act 1998 (certain cases involving children). As to the service of prosecution evidence in such a case, see paragraph 1 of Schedule 3 to the 1998 Act and the Crime and Disorder Act 1998 (Service of Prosecution Evidence) Regulations 2005[^f00032].\]*
 
-### 15.3. Representations concerning an application[^key-bb3b324fc681be9483aca1bd56393d53]
+### 15.3. Representations concerning an application[^c-bb3b324fc681be9483aca1bd56393d53]
 
 (1) A party who wants to make written representations concerning an application made under rule 15.1 must—
 
@@ -371,7 +371,7 @@ Rule 5
 
 *\[Note. The grounds on which a judge may allow or refuse an application for an order that the trial will be conducted without a jury under section 43 or 44 of the Criminal Justice Act 2003 are set out in those sections of that Act.\]*
 
-### 15.4. Determination of an application[^key-c6af12daeb1fb54f29fdf64431bb882b]
+### 15.4. Determination of an application[^c-c6af12daeb1fb54f29fdf64431bb882b]
 
 (1) Where an application has been made under rule 15.1(2), the court must hold a preparatory hearing for the purpose of determining whether to make an order that the trial will be conducted without a jury under section 43 or section 44 of the Criminal Justice Act 2003.
 
@@ -384,7 +384,7 @@ Rule 5
 
 *\[Note. Section 45 of the Criminal Justice Act 2003 provides that an application by the prosecution for an order that the trial will be conducted without a jury must be determined at a preparatory hearing and the parties to the preparatory hearing must be given an opportunity to make representations with respect to that application.\]*
 
-### 15.5. Orders for disclosure by prosecution or defence[^key-4a5728661bc876a315a33119475562ab]
+### 15.5. Orders for disclosure by prosecution or defence[^c-4a5728661bc876a315a33119475562ab]
 
 (1) Any disclosure order under section 9 of the Criminal Justice Act 1987, or section 31 of the Criminal Procedure and Investigations Act 1996, must identify any documents that are required to be prepared and served by the prosecutor under that order.
 
@@ -399,7 +399,7 @@ Rule 5
 
 - *Under section 9(5) of the 1987 Act or section 31(6), (7) and (9) of the 1996 Act, the judge can require the defence to give notice of any objection to the prosecution case statement, to give notice stating the extent of agreement with the prosecution as to documents and other matters and the reason for any disagreement.\]*
 
-### 15.6. Service[^key-822146a4ee1a0e202dd847f8be19d1f8]
+### 15.6. Service[^c-822146a4ee1a0e202dd847f8be19d1f8]
 
 (1) For the purposes of this Part, a notice or document may be served on any person by any of the following methods—
 
@@ -449,7 +449,7 @@ Rule 6
 | Circumstances in which a warrant will cease to have effect | rule 18.15 |
 | Warrant endorsed for bail (record to be kept) | rule 18.16 |
 
-### 18.1. Scope of this Part and interpretation[^key-b313a1d8ce0d7783a4b0d32be0ef17b7]
+### 18.1. Scope of this Part and interpretation[^c-b313a1d8ce0d7783a4b0d32be0ef17b7]
 
 (1) This Part applies to any warrant issued by a justice of the peace.
 
@@ -459,11 +459,11 @@ Rule 6
 
 *\[Note. For the rules governing the issue and execution of a search warrant, see sections 15 and 16 of the Police and Criminal Evidence Act 1984[^f00033]. For those governing warrants of distress (warrants to enforce payments of fines etc.), see rule 52.8.\]*
 
-### 18.2. Warrants must be signed[^key-9f652bd666f12cc1f11eb1ef626e5a1d]
+### 18.2. Warrants must be signed[^c-9f652bd666f12cc1f11eb1ef626e5a1d]
 
 Every warrant under the Magistrates' Courts Act 1980[^f00034] must be signed by the justice issuing it, unless rule 5.3 permits the justices' clerk to sign it.
 
-### 18.3. Warrants issued when the court office is closed[^key-e3f952049838c05f6f0af16cbf834d71]
+### 18.3. Warrants issued when the court office is closed[^c-e3f952049838c05f6f0af16cbf834d71]
 
 (1) If a warrant is issued when the court office is closed, the applicant must—
 
@@ -472,7 +472,7 @@ Every warrant under the Magistrates' Courts Act 1980[^f00034] must be signed by 
 
 (2) In this rule, the court office is the office for the local justice area in which the justice is acting when he issues the warrant.
 
-### 18.4. Commitment to custody must be by warrant[^key-f70058435f2b77d081b00fba32204062]
+### 18.4. Commitment to custody must be by warrant[^c-f70058435f2b77d081b00fba32204062]
 
 A justice of the peace must issue a warrant of commitment when committing a person to—
 
@@ -482,11 +482,11 @@ A justice of the peace must issue a warrant of commitment when committing a pers
 - (d) detention at a police station under section 128(7) of the Magistrates' Courts Act 1980; or
 - (e) customs detention under section 152 of the Criminal Justice Act 1988[^f00035].
 
-### 18.5. Terms of a warrant of arrest[^key-2659ea5425d774d9b381d41764d524e7]
+### 18.5. Terms of a warrant of arrest[^c-2659ea5425d774d9b381d41764d524e7]
 
 A warrant of arrest must require the persons to whom it is directed to arrest the relevant person.
 
-### 18.6. Terms of a warrant of commitment or detention: general rules[^key-8f5548ca040f6a2aa52f937403dc3571]
+### 18.6. Terms of a warrant of commitment or detention: general rules[^c-8f5548ca040f6a2aa52f937403dc3571]
 
 (1) A warrant of commitment or detention must require—
 
@@ -502,7 +502,7 @@ A warrant of arrest must require the persons to whom it is directed to arrest th
 
 *\[Note. Rule 18.6(1) does not apply to a warrant committing a person to customs detention under section 152 of the Criminal Justice Act 1988; see rule 18.7(2). Where rule 18.12 applies (place of detention), the relevant person may be taken to a prison or other place which is not specified in the warrant.\]*
 
-### 18.7. Terms of a warrant committing a person to customs detention[^key-81e654a220c7ce5d230a983e62aef600]
+### 18.7. Terms of a warrant committing a person to customs detention[^c-81e654a220c7ce5d230a983e62aef600]
 
 (1) A warrant committing a person to customs detention under section 152 of the 1988 Act must—
 
@@ -511,7 +511,7 @@ A warrant of arrest must require the persons to whom it is directed to arrest th
 
 (2) Rules 18.6(1), 18.10 and 18.12 do not apply where this rule applies.
 
-### 18.8. Form of warrant where male aged 15 or 16 is committed[^key-b494bbc79bc69fd43ef62ce895747270]
+### 18.8. Form of warrant where male aged 15 or 16 is committed[^c-b494bbc79bc69fd43ef62ce895747270]
 
 (1) This rule applies where a male aged 15 or 16 years is remanded or committed to—
 
@@ -523,7 +523,7 @@ A warrant of arrest must require the persons to whom it is directed to arrest th
 
 *\[Note. Section 23(4) of the Children and Young Persons Act 1969[^f00036], as modified by section 98 of the Crime and Disorder Act 1998[^f00037], allows a magistrates' court to remand or commit a boy, aged 15 or 16, to local authority secure accommodation, a remand centre or a prison in order to protect the public from serious harm. Section 23(4) of the 1969 Act requires the court to declare that the boy is one to whom section 23(5) of that Act, as modified by section 98(3) of the 1998 Act, applies (e.g. violent or sexual offence, history of absconding etc.).\]*
 
-### 18.9. Information to be included in a warrant[^key-650bcb1afeef331fac455cdf7f7fa0c9]
+### 18.9. Information to be included in a warrant[^c-650bcb1afeef331fac455cdf7f7fa0c9]
 
 A warrant of arrest, commitment or detention must contain the following information—
 
@@ -533,7 +533,7 @@ A warrant of arrest, commitment or detention must contain the following informat
   - (ii) a statement of the offence of which the person to be committed or detained was convicted; or
   - (iii) any other ground on which the warrant is issued.
 
-### 18.10. Persons who may execute a warrant[^key-accec6943c70faae671a5af9834b410c]
+### 18.10. Persons who may execute a warrant[^c-accec6943c70faae671a5af9834b410c]
 
 A warrant of arrest, commitment or detention may be executed by—
 
@@ -544,7 +544,7 @@ A warrant of arrest, commitment or detention may be executed by—
 
 *\[Note. This rule does not apply to a warrant committing a person to customs detention under section 152 of the Criminal Justice Act 1988[^f00039]; see rule 18.7(2).\]*
 
-### 18.11. Making an arrest under a warrant[^key-2c0cf2a4b5fa69b7cfc3310fbc999f5f]
+### 18.11. Making an arrest under a warrant[^c-2c0cf2a4b5fa69b7cfc3310fbc999f5f]
 
 (1) The person executing a warrant of arrest, commitment or detention must, when arresting the relevant person—
 
@@ -556,7 +556,7 @@ A warrant of arrest, commitment or detention may be executed by—
 
 (2) If the person executing the warrant is one of the persons referred to in rule 18.10(b)(ii) (civilian enforcement officers or approved enforcement agencies), he must also show the relevant person a written statement under section 125A(4) or section 125B(4) of the Magistrates' Courts Act 1980, as appropriate.
 
-### 18.12. Place of detention[^key-555ce8e5c3fd6a2b05ba1a520f94bac8]
+### 18.12. Place of detention[^c-555ce8e5c3fd6a2b05ba1a520f94bac8]
 
 (1) This rule applies to any warrant of commitment or detention.
 
@@ -572,7 +572,7 @@ A warrant of arrest, commitment or detention may be executed by—
 
 *\[Note. This rule does not apply to a warrant committing a person to customs detention under section 152 of the Criminal Justice Act 1988[^f00040]; see rule 18.7(2).\]*
 
-### 18.13. Duration of detention where bail is granted subject to pre-release conditions[^key-cbd3bb3d76d36ca7d4b763f09cb58497]
+### 18.13. Duration of detention where bail is granted subject to pre-release conditions[^c-cbd3bb3d76d36ca7d4b763f09cb58497]
 
 (1) This rule applies where a magistrates' court—
 
@@ -581,7 +581,7 @@ A warrant of arrest, commitment or detention may be executed by—
 
 (2) The warrant of commitment must require the governor or keeper of the prison or place of detention to bring the relevant person to court either before or at the end of a period of 8 clear days from the date the warrant was issued, unless section 128(3A) or section 128A of the Magistrates' Courts Act 1980 applies to permit a longer period.
 
-### 18.14. Validity of warrants that contain errors[^key-7c6e19fb1d9354cfe520a3ebe7d05898]
+### 18.14. Validity of warrants that contain errors[^c-7c6e19fb1d9354cfe520a3ebe7d05898]
 
 A warrant of commitment or detention will not be invalidated on the ground that it contains an error, provided that the warrant—
 
@@ -592,7 +592,7 @@ A warrant of commitment or detention will not be invalidated on the ground that 
 
 *\[Note. Section 123 of the Magistrates' Courts Act 1980 applies in relation to any error in a warrant of arrest that is issued for the purpose of securing a person’s attendance at court.\]*
 
-### 18.15. Circumstances in which a warrant will cease to have effect[^key-5bebb42cb371f9b107843fb380fc2ba9]
+### 18.15. Circumstances in which a warrant will cease to have effect[^c-5bebb42cb371f9b107843fb380fc2ba9]
 
 (1) A warrant issued under any of the provisions listed in paragraph (2) will cease to have effect when—
 
@@ -613,7 +613,7 @@ A warrant of commitment or detention will not be invalidated on the ground that 
 
 (3) No person may execute, or continue to execute, a warrant that ceases to have effect under this rule.
 
-### 18.16. Warrant endorsed for bail (record to be kept)[^key-a8372448d3971ff80dd23160bc96f13b]
+### 18.16. Warrant endorsed for bail (record to be kept)[^c-a8372448d3971ff80dd23160bc96f13b]
 
 A person executing a warrant of arrest that is endorsed for bail under section 117 of the Magistrates' Courts Act 1980 must—
 
@@ -654,13 +654,13 @@ The opportunity has been taken to correct some typographical errors in the Rules
 
 [^f00002]: Footnote: [1974 c. 23](https://www.legislation.gov.uk/ukpga/1974/23); section 9(3) was amended by the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), Schedule 8, paragraph 172(a) and by the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), Schedule 33, paragraphs 1 and 6.
 
-[^key-d6619f27b1e0a518bb0c67e1c17fcf14]: Commencement: Rule 1 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
+[^c-d6619f27b1e0a518bb0c67e1c17fcf14]: Commencement: Rule 1 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
 
-[^key-9a6f223bca78df735a3057a5872d3e1a]: Commencement: Rule 2 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
+[^c-9a6f223bca78df735a3057a5872d3e1a]: Commencement: Rule 2 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
 
 [^f00003]: Footnote: S.I. [2005/384](https://www.legislation.gov.uk/uksi/2005/384).
 
-[^key-0a0df8f01eb5d977a5288677f333fb8e]: Commencement: Rule 3 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
+[^c-0a0df8f01eb5d977a5288677f333fb8e]: Commencement: Rule 3 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
 
 [^f00004]: Footnote: S.I. [2000/3305](https://www.legislation.gov.uk/uksi/2000/3305), revoked by S.I. [2005/902](https://www.legislation.gov.uk/uksi/2005/902).
 
@@ -668,45 +668,45 @@ The opportunity has been taken to correct some typographical errors in the Rules
 
 [^f00006]: Footnote: [1998 c. 37](https://www.legislation.gov.uk/ukpga/1998/37); section 51A was inserted by the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), Schedule 3, Part 1, paragraphs 15 and 18. It was commenced in part on 4th April 2005 by S.I. [2005/950](https://www.legislation.gov.uk/uksi/2005/950), article 2(1), Schedule 1, paragraph 29.
 
-[^key-27055eacce3e029eee2570dd78606ad7]: Commencement: Rule 4 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
+[^c-27055eacce3e029eee2570dd78606ad7]: Commencement: Rule 4 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
 
-[^key-0ab0dd0c1ac352419e135df1a0c9404a]: Commencement: Rule 5 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
+[^c-0ab0dd0c1ac352419e135df1a0c9404a]: Commencement: Rule 5 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
 
-[^key-ebdfa617c31505ab0a08a24ec51347ea]: Commencement: Rule 6 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
+[^c-ebdfa617c31505ab0a08a24ec51347ea]: Commencement: Rule 6 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
 
-[^key-9ef6e3defe77eb86fe37d07b402c62f4]: Commencement: Rule 7 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
+[^c-9ef6e3defe77eb86fe37d07b402c62f4]: Commencement: Rule 7 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
 
-[^key-4a4b0e6a55ffdfe217f91c97278e5fd1]: Commencement: Rule 8 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
+[^c-4a4b0e6a55ffdfe217f91c97278e5fd1]: Commencement: Rule 8 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
 
 [^f00007]: Footnote: Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44).
 
-[^key-3c04e6bab39485f839f52f436061a0cc]: Commencement: Rule 9 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
+[^c-3c04e6bab39485f839f52f436061a0cc]: Commencement: Rule 9 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
 
 [^f00008]: Footnote: [1996 (c. 25)](https://www.legislation.gov.uk/ukpga/1996/25); section 3 was amended by the Regulation of Investigatory Powers Act [2000 (c. 23)](https://www.legislation.gov.uk/ukpga/2000/23), Schedule 4, paragraph 7(1) and by the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), section 32 and Schedule 36, Part 3, paragraphs 20 and 21.
 
-[^key-1640db70fca9f8688ce80445519e85ac]: Commencement: Rule 10 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
+[^c-1640db70fca9f8688ce80445519e85ac]: Commencement: Rule 10 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
 
 [^f00009]: Footnote: [1974 (c. 23)](https://www.legislation.gov.uk/ukpga/1974/23).
 
 [^f00010]: Footnote: S.I. [1982/1109](https://www.legislation.gov.uk/uksi/1982/1109); relevant amendments were made by S.I. [1988/2131](https://www.legislation.gov.uk/uksi/1988/2131).
 
-[^key-a523903d09c42a0064172a41bb9ab1f3]: Commencement: Rule 11 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
+[^c-a523903d09c42a0064172a41bb9ab1f3]: Commencement: Rule 11 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
 
-[^key-efa032b662969f932e093b03745f546c]: Commencement: Rule 12 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
+[^c-efa032b662969f932e093b03745f546c]: Commencement: Rule 12 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
 
 [^f00011]: Footnote: S.I. [2005/3181](https://www.legislation.gov.uk/uksi/2005/3181).
 
 [^f00012]: Footnote: [2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29).
 
-[^key-17350ea9b27b7b06b63f56bed1a4f762]: Commencement: Rule 13 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
+[^c-17350ea9b27b7b06b63f56bed1a4f762]: Commencement: Rule 13 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
 
 [^f00013]: Footnote: [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44); section 47 will take effect on a date to be appointed.
 
-[^key-6379f9ca120cd64acb3ca82377eb1267]: Commencement: Rule 14 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
+[^c-6379f9ca120cd64acb3ca82377eb1267]: Commencement: Rule 14 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
 
-[^key-aee106d54413733615261afa0624de04]: Commencement: Rule 15 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
+[^c-aee106d54413733615261afa0624de04]: Commencement: Rule 15 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
 
-[^key-9baac533e3ea93eada024420e13e0522]: Commencement: Rule 16 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
+[^c-9baac533e3ea93eada024420e13e0522]: Commencement: Rule 16 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
 
 [^f00014]: Footnote: [1960 (c. 65)](https://www.legislation.gov.uk/ukpga/1960/65); section 13 was amended by the Courts Act [1971 (c. 23)](https://www.legislation.gov.uk/ukpga/1971/23), section 56(1) and Schedule 8, Part II, paragraph 40(1) and by the Access to Justice Act [1999 (c. 22)](https://www.legislation.gov.uk/ukpga/1999/22), sections 64 and 106 and Schedule 15, Part III.
 
@@ -716,7 +716,7 @@ The opportunity has been taken to correct some typographical errors in the Rules
 
 [^f00017]: Footnote: [1968 (c. 19)](https://www.legislation.gov.uk/ukpga/1968/19); section 8 was amended by the Courts Act [1971 (c. 23)](https://www.legislation.gov.uk/ukpga/1971/23), section 56 and Schedule 11, Part IV and by the Criminal Justice Act [1988 (c. 33)](https://www.legislation.gov.uk/ukpga/1988/33), section 43(3) and (4).
 
-[^key-5fe0d6c3e37ae22ceeb1a049f60b9d54]: Commencement: Rule 17 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
+[^c-5fe0d6c3e37ae22ceeb1a049f60b9d54]: Commencement: Rule 17 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
 
 [^f00018]: Footnote: [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44); paragraph 14 of Schedule 22 is amended by the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), Schedule 9, Part 1, paragraph 82(1), (6) and Schedule 11, Part 1, paragraph 1(2), with effect from a date to be appointed.
 
@@ -724,31 +724,31 @@ The opportunity has been taken to correct some typographical errors in the Rules
 
 [^f00020]: Footnote: S.I. [2005/2798](https://www.legislation.gov.uk/uksi/2005/2798).
 
-[^key-48c3cee19d4de8ad878d362b5ce38e4d]: Commencement: Rule 18 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
+[^c-48c3cee19d4de8ad878d362b5ce38e4d]: Commencement: Rule 18 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
 
-[^key-8347110dadd4785ceaa19690d9dc5651]: Commencement: Rule 19 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
+[^c-8347110dadd4785ceaa19690d9dc5651]: Commencement: Rule 19 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
 
 [^f00021]: Footnote: S.I. [2005/2798](https://www.legislation.gov.uk/uksi/2005/2798).
 
-[^key-6826c710259c9f094c1df1f00300e72b]: Commencement: Rule 20 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
+[^c-6826c710259c9f094c1df1f00300e72b]: Commencement: Rule 20 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
 
-[^key-3cfb3ae5964a1c62b41fbd4dd7f9a6ad]: Commencement: Rule 21 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
+[^c-3cfb3ae5964a1c62b41fbd4dd7f9a6ad]: Commencement: Rule 21 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
 
-[^key-e689afde8c23d2d4510aae9b6f5e1a36]: Commencement: Rule 22 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
+[^c-e689afde8c23d2d4510aae9b6f5e1a36]: Commencement: Rule 22 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
 
 [^f00022]: Footnote: [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44).
 
-[^key-8afcb095416fc89f78ff65dee264e1d9]: Commencement: Rule 23 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
+[^c-8afcb095416fc89f78ff65dee264e1d9]: Commencement: Rule 23 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
 
-[^key-79035538c2028bab5c5f0f46d9893cad]: Commencement: Rule 24 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
+[^c-79035538c2028bab5c5f0f46d9893cad]: Commencement: Rule 24 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
 
-[^key-11edc58547a8d6774243f448e0a56b84]: Commencement: Rule 25 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
+[^c-11edc58547a8d6774243f448e0a56b84]: Commencement: Rule 25 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
 
 [^f00023]: Footnote: [1960 (c. 65)](https://www.legislation.gov.uk/ukpga/1960/65).
 
 [^f00024]: Footnote: S.I. [2005/2798](https://www.legislation.gov.uk/uksi/2005/2798).
 
-[^key-af0677b4c4e4d39f0742c6a8eb3d1465]: Commencement: Sch. 1 para. 15.1 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
+[^c-af0677b4c4e4d39f0742c6a8eb3d1465]: Commencement: Sch. 1 para. 15.1 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
 
 [^f00025]: Footnote: [1987 (c. 38)](https://www.legislation.gov.uk/ukpga/1987/38).
 
@@ -760,7 +760,7 @@ The opportunity has been taken to correct some typographical errors in the Rules
 
 [^f00029]: Footnote: S.I. [1997/1052](https://www.legislation.gov.uk/uksi/1997/1052).
 
-[^key-fa531f402a870b24290eddb598a09749]: Commencement: Sch. 1 para. 15.2 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
+[^c-fa531f402a870b24290eddb598a09749]: Commencement: Sch. 1 para. 15.2 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
 
 [^f00030]: Footnote: [1991 (c. 53)](https://www.legislation.gov.uk/ukpga/1991/53); section 53 was amended by the Criminal Justice and Public Order Act [1994 (c. 33)](https://www.legislation.gov.uk/ukpga/1994/33), Schedule 9, paragraph 49 and by the Crime and Disorder Act [1998 (c. 37)](https://www.legislation.gov.uk/ukpga/1998/37), Schedule 8, paragraph 93. It is repealed by the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), Schedule 37, Part 4, with effect from a date to be appointed.
 
@@ -768,61 +768,61 @@ The opportunity has been taken to correct some typographical errors in the Rules
 
 [^f00032]: Footnote: S.I. [2005/902](https://www.legislation.gov.uk/uksi/2005/902).
 
-[^key-bb3b324fc681be9483aca1bd56393d53]: Commencement: Sch. 1 para. 15.3 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
+[^c-bb3b324fc681be9483aca1bd56393d53]: Commencement: Sch. 1 para. 15.3 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
 
-[^key-c6af12daeb1fb54f29fdf64431bb882b]: Commencement: Sch. 1 para. 15.4 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
+[^c-c6af12daeb1fb54f29fdf64431bb882b]: Commencement: Sch. 1 para. 15.4 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
 
-[^key-4a5728661bc876a315a33119475562ab]: Commencement: Sch. 1 para. 15.5 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
+[^c-4a5728661bc876a315a33119475562ab]: Commencement: Sch. 1 para. 15.5 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
 
-[^key-822146a4ee1a0e202dd847f8be19d1f8]: Commencement: Sch. 1 para. 15.6 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
+[^c-822146a4ee1a0e202dd847f8be19d1f8]: Commencement: Sch. 1 para. 15.6 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
 
-[^key-b313a1d8ce0d7783a4b0d32be0ef17b7]: Commencement: Sch. 2 para. 18.1 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
+[^c-b313a1d8ce0d7783a4b0d32be0ef17b7]: Commencement: Sch. 2 para. 18.1 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
 
 [^f00033]: Footnote: [1984 (c. 60)](https://www.legislation.gov.uk/ukpga/1984/60); section 15 is amended by the Serious Organised Crime and Police Act [2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), section 113(1) and (5) to (8) and section 114(1) and (3) to (7), with effect from a date to be appointed. Section 16 was amended by the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), Schedule 8, paragraph 281 and by the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), section 2. It is further amended by the Serious Organised Crime and Police Act [2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), section 113(1) and (9) and section 114(1) and (8), with effect from a date to be appointed.
 
-[^key-9f652bd666f12cc1f11eb1ef626e5a1d]: Commencement: Sch. 2 para. 18.2 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
+[^c-9f652bd666f12cc1f11eb1ef626e5a1d]: Commencement: Sch. 2 para. 18.2 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
 
 [^f00034]: Footnote: [1980 (c. 43)](https://www.legislation.gov.uk/ukpga/1980/43).
 
-[^key-e3f952049838c05f6f0af16cbf834d71]: Commencement: Sch. 2 para. 18.3 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
+[^c-e3f952049838c05f6f0af16cbf834d71]: Commencement: Sch. 2 para. 18.3 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
 
-[^key-f70058435f2b77d081b00fba32204062]: Commencement: Sch. 2 para. 18.4 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
+[^c-f70058435f2b77d081b00fba32204062]: Commencement: Sch. 2 para. 18.4 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
 
 [^f00035]: Footnote: [1988 (c. 33)](https://www.legislation.gov.uk/ukpga/1988/33); section 152 was amended by the Proceeds of Crime Act [2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), Schedule 11, paragraphs 1 and 17(1) and (6) and is further amended by the Drugs Act [2005 (c. 17)](https://www.legislation.gov.uk/ukpga/2005/17), section 8, with effect from a date to be appointed.
 
-[^key-2659ea5425d774d9b381d41764d524e7]: Commencement: Sch. 2 para. 18.5 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
+[^c-2659ea5425d774d9b381d41764d524e7]: Commencement: Sch. 2 para. 18.5 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
 
-[^key-8f5548ca040f6a2aa52f937403dc3571]: Commencement: Sch. 2 para. 18.6 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
+[^c-8f5548ca040f6a2aa52f937403dc3571]: Commencement: Sch. 2 para. 18.6 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
 
-[^key-81e654a220c7ce5d230a983e62aef600]: Commencement: Sch. 2 para. 18.7 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
+[^c-81e654a220c7ce5d230a983e62aef600]: Commencement: Sch. 2 para. 18.7 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
 
-[^key-b494bbc79bc69fd43ef62ce895747270]: Commencement: Sch. 2 para. 18.8 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
+[^c-b494bbc79bc69fd43ef62ce895747270]: Commencement: Sch. 2 para. 18.8 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
 
 [^f00036]: Footnote: [1969 (c. 54)](https://www.legislation.gov.uk/ukpga/1969/54); section 23(4) was amended by the Crime and Disorder Act [1998 (c. 37)](https://www.legislation.gov.uk/ukpga/1998/37), section 97(1) and by the Extradition Act [2003 (c. 41)](https://www.legislation.gov.uk/ukpga/2003/41), section 201(1) and (4).
 
 [^f00037]: Footnote: [1998 (c. 37)](https://www.legislation.gov.uk/ukpga/1998/37); section 98 was amended by the Access to Justice Act [1999 (c. 22)](https://www.legislation.gov.uk/ukpga/1999/22), Schedule 4, paragraph 7, by the Criminal Justice and Court Services Act [2000 (c. 43)](https://www.legislation.gov.uk/ukpga/2000/43), Schedule 7, paragraphs 38 and 39 and Schedule 8 and by the Children Act [2004 (c. 31)](https://www.legislation.gov.uk/ukpga/2004/31), Schedule 5, Part 4.
 
-[^key-650bcb1afeef331fac455cdf7f7fa0c9]: Commencement: Sch. 2 para. 18.9 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
+[^c-650bcb1afeef331fac455cdf7f7fa0c9]: Commencement: Sch. 2 para. 18.9 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
 
-[^key-accec6943c70faae671a5af9834b410c]: Commencement: Sch. 2 para. 18.10 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
+[^c-accec6943c70faae671a5af9834b410c]: Commencement: Sch. 2 para. 18.10 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
 
 [^f00038]: Footnote: [1980 (c. 43)](https://www.legislation.gov.uk/ukpga/1980/43); section 125A was inserted by the Access to Justice Act [1999 (c. 22)](https://www.legislation.gov.uk/ukpga/1999/22), section 92. Section 125B was inserted by the Access to Justice Act 1999, section 93(2) and amended by the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), Schedule 8, paragraph 239.
 
 [^f00039]: Footnote: [1988 (c. 33)](https://www.legislation.gov.uk/ukpga/1988/33); section 152 was amended by the Proceeds of Crime Act [2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), Schedule 11, paragraphs 1 and 17(1) and (6) and is further amended by the Drugs Act [2005 (c. 17)](https://www.legislation.gov.uk/ukpga/2005/17), section 8, with effect from a date to be appointed.
 
-[^key-2c0cf2a4b5fa69b7cfc3310fbc999f5f]: Commencement: Sch. 2 para. 18.11 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
+[^c-2c0cf2a4b5fa69b7cfc3310fbc999f5f]: Commencement: Sch. 2 para. 18.11 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
 
-[^key-555ce8e5c3fd6a2b05ba1a520f94bac8]: Commencement: Sch. 2 para. 18.12 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
+[^c-555ce8e5c3fd6a2b05ba1a520f94bac8]: Commencement: Sch. 2 para. 18.12 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
 
 [^f00040]: Footnote: [1988 (c. 33)](https://www.legislation.gov.uk/ukpga/1988/33); section 152 was amended by the Proceeds of Crime Act [2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), Schedule 11, paragraphs 1 and 17(1) and (6) and is further amended by the Drugs Act [2005 (c. 17)](https://www.legislation.gov.uk/ukpga/2005/17), section 8, with effect from a date to be appointed.
 
-[^key-cbd3bb3d76d36ca7d4b763f09cb58497]: Commencement: Sch. 2 para. 18.13 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
+[^c-cbd3bb3d76d36ca7d4b763f09cb58497]: Commencement: Sch. 2 para. 18.13 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
 
-[^key-7c6e19fb1d9354cfe520a3ebe7d05898]: Commencement: Sch. 2 para. 18.14 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
+[^c-7c6e19fb1d9354cfe520a3ebe7d05898]: Commencement: Sch. 2 para. 18.14 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
 
-[^key-5bebb42cb371f9b107843fb380fc2ba9]: Commencement: Sch. 2 para. 18.15 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
+[^c-5bebb42cb371f9b107843fb380fc2ba9]: Commencement: Sch. 2 para. 18.15 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
 
-[^key-a8372448d3971ff80dd23160bc96f13b]: Commencement: Sch. 2 para. 18.16 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
+[^c-a8372448d3971ff80dd23160bc96f13b]: Commencement: Sch. 2 para. 18.16 in force at 3.4.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/353/rule/1)
 
 [^f00041]: Footnote: [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44); sections 43 and 44 will take effect from a date to be appointed.
 

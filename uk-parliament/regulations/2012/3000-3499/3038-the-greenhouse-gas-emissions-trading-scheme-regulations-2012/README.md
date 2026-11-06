@@ -30,31 +30,31 @@ summary: ''
 
 Climate Change
 
-The Greenhouse Gas Emissions Trading Scheme Regulations 2012 *(affected by repeal, see note)*[^key-ff0f761e51ae43a5920475cc265851cc]
+The Greenhouse Gas Emissions Trading Scheme Regulations 2012 *(affected by repeal, see note)*[^c-ff0f761e51ae43a5920475cc265851cc]
 
-Made *(affected by repeal, see note)*[^key-ff0f761e51ae43a5920475cc265851cc]
+Made *(affected by repeal, see note)*[^c-ff0f761e51ae43a5920475cc265851cc]
 
-5th December 2012 *(affected by repeal, see note)*[^key-ff0f761e51ae43a5920475cc265851cc]
+5th December 2012 *(affected by repeal, see note)*[^c-ff0f761e51ae43a5920475cc265851cc]
 
-Laid before Parliament *(affected by repeal, see note)*[^key-ff0f761e51ae43a5920475cc265851cc]
+Laid before Parliament *(affected by repeal, see note)*[^c-ff0f761e51ae43a5920475cc265851cc]
 
-10th December 2012 *(affected by repeal, see note)*[^key-ff0f761e51ae43a5920475cc265851cc]
+10th December 2012 *(affected by repeal, see note)*[^c-ff0f761e51ae43a5920475cc265851cc]
 
-Coming into force *(affected by repeal, see note)*[^key-ff0f761e51ae43a5920475cc265851cc]
+Coming into force *(affected by repeal, see note)*[^c-ff0f761e51ae43a5920475cc265851cc]
 
-1st January 2013 *(affected by repeal, see note)*[^key-ff0f761e51ae43a5920475cc265851cc]
+1st January 2013 *(affected by repeal, see note)*[^c-ff0f761e51ae43a5920475cc265851cc]
 
-The Secretary of State is a Minister designated *(affected by repeal, see note)*[^key-ff0f761e51ae43a5920475cc265851cc] [^c21479961] for the purposes of section 2(2) of the European Communities Act 1972 *(affected by repeal, see note)*[^key-ff0f761e51ae43a5920475cc265851cc] [^c21479971] in relation to the environment. *(affected by repeal, see note)*[^key-ff0f761e51ae43a5920475cc265851cc]
+The Secretary of State is a Minister designated *(affected by repeal, see note)*[^c-ff0f761e51ae43a5920475cc265851cc] [^c21479961] for the purposes of section 2(2) of the European Communities Act 1972 *(affected by repeal, see note)*[^c-ff0f761e51ae43a5920475cc265851cc] [^c21479971] in relation to the environment. *(affected by repeal, see note)*[^c-ff0f761e51ae43a5920475cc265851cc]
 
-[^c21479981]In accordance with section 2(4) of the Pollution Prevention and Control Act 1999 (“ *(affected by repeal, see note)*[^key-ff0f761e51ae43a5920475cc265851cc]**the 1999 Act *(affected by repeal, see note)*[^key-ff0f761e51ae43a5920475cc265851cc]**”) , the Secretary of State has consulted the Environment Agency, the Scottish Environment Protection Agency, and such bodies or persons appearing to the Secretary of State to be representative of the interests of local government, industry, agriculture and small businesses, and such other bodies and persons, as the Secretary of State considers appropriate. *(affected by repeal, see note)*[^key-ff0f761e51ae43a5920475cc265851cc]
+[^c21479981]In accordance with section 2(4) of the Pollution Prevention and Control Act 1999 (“ *(affected by repeal, see note)*[^c-ff0f761e51ae43a5920475cc265851cc]**the 1999 Act *(affected by repeal, see note)*[^c-ff0f761e51ae43a5920475cc265851cc]**”) , the Secretary of State has consulted the Environment Agency, the Scottish Environment Protection Agency, and such bodies or persons appearing to the Secretary of State to be representative of the interests of local government, industry, agriculture and small businesses, and such other bodies and persons, as the Secretary of State considers appropriate. *(affected by repeal, see note)*[^c-ff0f761e51ae43a5920475cc265851cc]
 
-These Regulations make provision for a purpose mentioned in section 2(2) of the European Communities Act 1972, and it appears to the Secretary of State that it is expedient for the references to *(affected by repeal, see note)*[^key-ff0f761e51ae43a5920475cc265851cc] EU *(affected by repeal, see note)*[^key-ff0f761e51ae43a5920475cc265851cc] instruments in these Regulations to be construed as references to those instruments as amended from time to time. *(affected by repeal, see note)*[^key-ff0f761e51ae43a5920475cc265851cc]
+These Regulations make provision for a purpose mentioned in section 2(2) of the European Communities Act 1972, and it appears to the Secretary of State that it is expedient for the references to *(affected by repeal, see note)*[^c-ff0f761e51ae43a5920475cc265851cc] EU *(affected by repeal, see note)*[^c-ff0f761e51ae43a5920475cc265851cc] instruments in these Regulations to be construed as references to those instruments as amended from time to time. *(affected by repeal, see note)*[^c-ff0f761e51ae43a5920475cc265851cc]
 
-Accordingly the Secretary of State, in exercise of the powers conferred by sections 2 and 7(9) of and Schedule 1 to the 1999 Act *(affected by repeal, see note)*[^key-ff0f761e51ae43a5920475cc265851cc] [^c21479991] and by section 2(2) of the European Communities Act 1972, as read with paragraph 1A of Schedule 2 to the European Communities Act 1972 *(affected by repeal, see note)*[^key-ff0f761e51ae43a5920475cc265851cc] [^c21480001], makes the following Regulations *(affected by repeal, see note)*[^key-ff0f761e51ae43a5920475cc265851cc] [^c21480011]:[^key-8d0bdd2430dfaf515dc691a4ad0ed6b3]
+Accordingly the Secretary of State, in exercise of the powers conferred by sections 2 and 7(9) of and Schedule 1 to the 1999 Act *(affected by repeal, see note)*[^c-ff0f761e51ae43a5920475cc265851cc] [^c21479991] and by section 2(2) of the European Communities Act 1972, as read with paragraph 1A of Schedule 2 to the European Communities Act 1972 *(affected by repeal, see note)*[^c-ff0f761e51ae43a5920475cc265851cc] [^c21480001], makes the following Regulations *(affected by repeal, see note)*[^c-ff0f761e51ae43a5920475cc265851cc] [^c21480011]:[^c-8d0bdd2430dfaf515dc691a4ad0ed6b3]
 
 ## Contents
 
-### PART 1 (affected by repeal, see note) — General (affected by repeal, see note)[^key-ff0f761e51ae43a5920475cc265851cc][^key-ff0f761e51ae43a5920475cc265851cc]
+### PART 1 (affected by repeal, see note) — General (affected by repeal, see note)[^c-ff0f761e51ae43a5920475cc265851cc][^c-ff0f761e51ae43a5920475cc265851cc]
 
 *Extent: E+W+S+N.I.*
 
@@ -68,11 +68,11 @@ Accordingly the Secretary of State, in exercise of the powers conferred by secti
 - [Section 7 — Functions of the regulator: Northern Ireland](part-1/section-7.md)
 - [Section 8 — Commission Regulations: designations](part-1/section-8.md)
 
-### PART 2 (affected by repeal, see note) — Stationary installations (affected by repeal, see note)[^key-ff0f761e51ae43a5920475cc265851cc][^key-ff0f761e51ae43a5920475cc265851cc]
+### PART 2 (affected by repeal, see note) — Stationary installations (affected by repeal, see note)[^c-ff0f761e51ae43a5920475cc265851cc][^c-ff0f761e51ae43a5920475cc265851cc]
 
 *Extent: E+W+S+N.I.*
 
-#### CHAPTER 1 (affected by repeal, see note) — Permits (affected by repeal, see note)[^key-ff0f761e51ae43a5920475cc265851cc][^key-ff0f761e51ae43a5920475cc265851cc]
+#### CHAPTER 1 (affected by repeal, see note) — Permits (affected by repeal, see note)[^c-ff0f761e51ae43a5920475cc265851cc][^c-ff0f761e51ae43a5920475cc265851cc]
 
 *Extent: E+W+S+N.I.*
 
@@ -84,20 +84,20 @@ Accordingly the Secretary of State, in exercise of the powers conferred by secti
 - [Section 13 — Surrender of permits](part-2/section-13.md)
 - [Section 14 — Revocation of permits](part-2/section-14.md)
 
-#### CHAPTER 2 (affected by repeal, see note) — Excluded installations: further provision (affected by repeal, see note)[^key-ff0f761e51ae43a5920475cc265851cc][^key-ff0f761e51ae43a5920475cc265851cc]
+#### CHAPTER 2 (affected by repeal, see note) — Excluded installations: further provision (affected by repeal, see note)[^c-ff0f761e51ae43a5920475cc265851cc][^c-ff0f761e51ae43a5920475cc265851cc]
 
 *Extent: E+W+S+N.I.*
 
 - [Section 15 — Excluded installations : Article 27 installations](part-2/section-15.md)
 - [Section 15A — Excluded installations: Article 27a installations](part-2/section-15a.md)
 
-#### CHAPTER 3 (affected by repeal, see note) — Allocation of allowances (affected by repeal, see note)[^key-ff0f761e51ae43a5920475cc265851cc][^key-ff0f761e51ae43a5920475cc265851cc]
+#### CHAPTER 3 (affected by repeal, see note) — Allocation of allowances (affected by repeal, see note)[^c-ff0f761e51ae43a5920475cc265851cc][^c-ff0f761e51ae43a5920475cc265851cc]
 
 *Extent: E+W+S+N.I.*
 
 - [Section 16 — Allocation of allowances for 2013 to 2020](part-2/section-16.md)
 
-#### CHAPTER 4 (affected by repeal, see note) — Offshore installations (affected by repeal, see note)[^key-ff0f761e51ae43a5920475cc265851cc][^key-ff0f761e51ae43a5920475cc265851cc]
+#### CHAPTER 4 (affected by repeal, see note) — Offshore installations (affected by repeal, see note)[^c-ff0f761e51ae43a5920475cc265851cc][^c-ff0f761e51ae43a5920475cc265851cc]
 
 *Extent: E+W+S+N.I.*
 
@@ -105,18 +105,18 @@ Accordingly the Secretary of State, in exercise of the powers conferred by secti
 - [Section 18 — Charging schemes](part-2/section-18.md)
 - [Section 19 — Charging schemes: supplementary](part-2/section-19.md)
 
-### PART 3 (affected by repeal, see note) — Aviation (affected by repeal, see note)[^key-ff0f761e51ae43a5920475cc265851cc][^key-ff0f761e51ae43a5920475cc265851cc]
+### PART 3 (affected by repeal, see note) — Aviation (affected by repeal, see note)[^c-ff0f761e51ae43a5920475cc265851cc][^c-ff0f761e51ae43a5920475cc265851cc]
 
 *Extent: E+W+S+N.I.*
 
-#### CHAPTER 1 (affected by repeal, see note) — General (affected by repeal, see note)[^key-ff0f761e51ae43a5920475cc265851cc][^key-ff0f761e51ae43a5920475cc265851cc]
+#### CHAPTER 1 (affected by repeal, see note) — General (affected by repeal, see note)[^c-ff0f761e51ae43a5920475cc265851cc][^c-ff0f761e51ae43a5920475cc265851cc]
 
 *Extent: E+W+S+N.I.*
 
 - [Section 20 — Interpretation](part-3/section-20.md)
 - [Section 21 — Civil Aviation Authority](part-3/section-21.md)
 
-#### CHAPTER 2 (affected by repeal, see note) — UK (affected by repeal, see note) administered operators, (affected by repeal, see note) UK (affected by repeal, see note) aircraft operators and regulators (affected by repeal, see note)[^key-ff0f761e51ae43a5920475cc265851cc][^key-ff0f761e51ae43a5920475cc265851cc][^key-ff0f761e51ae43a5920475cc265851cc][^key-ff0f761e51ae43a5920475cc265851cc][^key-ff0f761e51ae43a5920475cc265851cc]
+#### CHAPTER 2 (affected by repeal, see note) — UK (affected by repeal, see note) administered operators, (affected by repeal, see note) UK (affected by repeal, see note) aircraft operators and regulators (affected by repeal, see note)[^c-ff0f761e51ae43a5920475cc265851cc][^c-ff0f761e51ae43a5920475cc265851cc][^c-ff0f761e51ae43a5920475cc265851cc][^c-ff0f761e51ae43a5920475cc265851cc][^c-ff0f761e51ae43a5920475cc265851cc]
 
 *Extent: E+W+S+N.I.*
 
@@ -129,13 +129,13 @@ Accordingly the Secretary of State, in exercise of the powers conferred by secti
 - [Section 28 — Regulators: assessment of emissions](part-3/section-28.md)
 - [Section 29 — Regulators: change in registered office](part-3/section-29.md)
 
-#### CHAPTER 3 (affected by repeal, see note) — Allocation of aviation allowances (affected by repeal, see note)[^key-ff0f761e51ae43a5920475cc265851cc][^key-ff0f761e51ae43a5920475cc265851cc]
+#### CHAPTER 3 (affected by repeal, see note) — Allocation of aviation allowances (affected by repeal, see note)[^c-ff0f761e51ae43a5920475cc265851cc][^c-ff0f761e51ae43a5920475cc265851cc]
 
 *Extent: E+W+S+N.I.*
 
 - [Section 30 — Allocation of aviation allowances](part-3/section-30.md)
 
-#### CHAPTER 4 (affected by repeal, see note) — Monitoring and reporting aviation emissions (affected by repeal, see note)[^key-ff0f761e51ae43a5920475cc265851cc][^key-ff0f761e51ae43a5920475cc265851cc]
+#### CHAPTER 4 (affected by repeal, see note) — Monitoring and reporting aviation emissions (affected by repeal, see note)[^c-ff0f761e51ae43a5920475cc265851cc][^c-ff0f761e51ae43a5920475cc265851cc]
 
 *Extent: E+W+S+N.I.*
 
@@ -152,14 +152,14 @@ Accordingly the Secretary of State, in exercise of the powers conferred by secti
 - [Section 37 — Variation of an emissions plan](part-3/section-37.md)
 - [Section 38 — Variation of a benchmarking plan](part-3/section-38.md)
 
-#### CHAPTER 5 (affected by repeal, see note) — Sanctions (other than civil penalties) (affected by repeal, see note)[^key-ff0f761e51ae43a5920475cc265851cc][^key-ff0f761e51ae43a5920475cc265851cc]
+#### CHAPTER 5 (affected by repeal, see note) — Sanctions (other than civil penalties) (affected by repeal, see note)[^c-ff0f761e51ae43a5920475cc265851cc][^c-ff0f761e51ae43a5920475cc265851cc]
 
 *Extent: E+W+S+N.I.*
 
 - [Section 39 — Detention and sale of aircraft](part-3/section-39.md)
 - [Section 40 — Aircraft operating bans](part-3/section-40.md)
 
-### PART 4 (affected by repeal, see note) — Surrender of allowances (affected by repeal, see note)[^key-ff0f761e51ae43a5920475cc265851cc][^key-ff0f761e51ae43a5920475cc265851cc]
+### PART 4 (affected by repeal, see note) — Surrender of allowances (affected by repeal, see note)[^c-ff0f761e51ae43a5920475cc265851cc][^c-ff0f761e51ae43a5920475cc265851cc]
 
 *Extent: E+W+S+N.I.*
 
@@ -168,14 +168,14 @@ Accordingly the Secretary of State, in exercise of the powers conferred by secti
 - [Section 42A — Surrender of allowances: UK aircraft operators: 2013, 2014 and subsequent scheme years](part-4/section-42a.md)
 - [Section 42B — Surrender of a deficit of allowances: UK administered operators](part-4/section-42b.md)
 
-### PART 5 (affected by repeal, see note) — Enforcement (affected by repeal, see note) etc. (affected by repeal, see note)[^key-ff0f761e51ae43a5920475cc265851cc][^key-ff0f761e51ae43a5920475cc265851cc][^key-ff0f761e51ae43a5920475cc265851cc]
+### PART 5 (affected by repeal, see note) — Enforcement (affected by repeal, see note) etc. (affected by repeal, see note)[^c-ff0f761e51ae43a5920475cc265851cc][^c-ff0f761e51ae43a5920475cc265851cc][^c-ff0f761e51ae43a5920475cc265851cc]
 
 *Extent: E+W+S+N.I.*
 
 - [Section 43 — Enforcement notices](part-5/section-43.md)
 - [Section 44 — Power to determine reportable emissions](part-5/section-44.md)
 
-### PART 6 (affected by repeal, see note) — Information (affected by repeal, see note)[^key-ff0f761e51ae43a5920475cc265851cc][^key-ff0f761e51ae43a5920475cc265851cc]
+### PART 6 (affected by repeal, see note) — Information (affected by repeal, see note)[^c-ff0f761e51ae43a5920475cc265851cc][^c-ff0f761e51ae43a5920475cc265851cc]
 
 *Extent: E+W+S+N.I.*
 
@@ -183,7 +183,7 @@ Accordingly the Secretary of State, in exercise of the powers conferred by secti
 - [Section 46 — Disclosure of information](part-6/section-46.md)
 - [Section 47 — National security](part-6/section-47.md)
 
-### PART 7 (affected by repeal, see note) — Civil Penalties (affected by repeal, see note)[^key-ff0f761e51ae43a5920475cc265851cc][^key-ff0f761e51ae43a5920475cc265851cc]
+### PART 7 (affected by repeal, see note) — Civil Penalties (affected by repeal, see note)[^c-ff0f761e51ae43a5920475cc265851cc][^c-ff0f761e51ae43a5920475cc265851cc]
 
 *Extent: E+W+S+N.I.*
 
@@ -217,11 +217,11 @@ Accordingly the Secretary of State, in exercise of the powers conferred by secti
 - [Section 70 — Providing false or misleading information](part-7/section-70.md)
 - [Section 71 — Publication of names of persons subject to penalties under regulation 54(1)](part-7/section-71.md)
 
-### PART 8 (affected by repeal, see note) — Appeals (affected by repeal, see note)[^key-ff0f761e51ae43a5920475cc265851cc][^key-ff0f761e51ae43a5920475cc265851cc]
+### PART 8 (affected by repeal, see note) — Appeals (affected by repeal, see note)[^c-ff0f761e51ae43a5920475cc265851cc][^c-ff0f761e51ae43a5920475cc265851cc]
 
 *Extent: E+W+S+N.I.*
 
-#### CHAPTER 1 (affected by repeal, see note) — General (affected by repeal, see note)[^key-ff0f761e51ae43a5920475cc265851cc][^key-ff0f761e51ae43a5920475cc265851cc]
+#### CHAPTER 1 (affected by repeal, see note) — General (affected by repeal, see note)[^c-ff0f761e51ae43a5920475cc265851cc][^c-ff0f761e51ae43a5920475cc265851cc]
 
 *Extent: E+W+S+N.I.*
 
@@ -232,13 +232,13 @@ Accordingly the Secretary of State, in exercise of the powers conferred by secti
 - [Section 76 — Effect of an appeal](part-8/section-76.md)
 - [Section 77 — Determination of an appeal](part-8/section-77.md)
 
-#### CHAPTER 2 (affected by repeal, see note) — Appeals: (affected by repeal, see note) ... Northern Ireland (affected by repeal, see note)[^key-ff0f761e51ae43a5920475cc265851cc][^key-ff0f761e51ae43a5920475cc265851cc][^key-243da3d7301eda9673df5ee38be39095][^key-ff0f761e51ae43a5920475cc265851cc]
+#### CHAPTER 2 (affected by repeal, see note) — Appeals: (affected by repeal, see note) ... Northern Ireland (affected by repeal, see note)[^c-ff0f761e51ae43a5920475cc265851cc][^c-ff0f761e51ae43a5920475cc265851cc][^c-243da3d7301eda9673df5ee38be39095][^c-ff0f761e51ae43a5920475cc265851cc]
 
 *Extent: E+W+S+N.I.*
 
 - [Section 78 — Procedure for appeals](part-8/section-78.md)
 
-### PART 9 (affected by repeal, see note) — The Union Registry (affected by repeal, see note) ...[^key-ff0f761e51ae43a5920475cc265851cc][^key-ff0f761e51ae43a5920475cc265851cc][^key-eaeaea1e62e96346594102644eea77eb]
+### PART 9 (affected by repeal, see note) — The Union Registry (affected by repeal, see note) ...[^c-ff0f761e51ae43a5920475cc265851cc][^c-ff0f761e51ae43a5920475cc265851cc][^c-eaeaea1e62e96346594102644eea77eb]
 
 *Extent: E+W+S+N.I.*
 
@@ -246,7 +246,7 @@ Accordingly the Secretary of State, in exercise of the powers conferred by secti
 - [Section 80 — The Union Registry](part-9/section-80.md)
 - [Section 81 — The UK Registry](part-9/section-81.md)
 
-### PART 10 (affected by repeal, see note) — Supplementary (affected by repeal, see note)[^key-ff0f761e51ae43a5920475cc265851cc][^key-ff0f761e51ae43a5920475cc265851cc]
+### PART 10 (affected by repeal, see note) — Supplementary (affected by repeal, see note)[^c-ff0f761e51ae43a5920475cc265851cc][^c-ff0f761e51ae43a5920475cc265851cc]
 
 *Extent: E+W+S+N.I.*
 
@@ -255,7 +255,7 @@ Accordingly the Secretary of State, in exercise of the powers conferred by secti
 - [Section 84 — Guidance](part-10/section-84.md)
 - [Section 84A — Duty of Secretary of State to publish information](part-10/section-84a.md)
 
-### PART 11 (affected by repeal, see note) — Revocations, savings and transitional provisions. (affected by repeal, see note)[^key-ff0f761e51ae43a5920475cc265851cc][^key-ff0f761e51ae43a5920475cc265851cc]
+### PART 11 (affected by repeal, see note) — Revocations, savings and transitional provisions. (affected by repeal, see note)[^c-ff0f761e51ae43a5920475cc265851cc][^c-ff0f761e51ae43a5920475cc265851cc]
 
 *Extent: E+W+S+N.I.*
 
@@ -285,11 +285,11 @@ Accordingly the Secretary of State, in exercise of the powers conferred by secti
 
 *Extent: E+W+S+N.I.*
 
-Verma *(affected by repeal, see note)*[^key-ff0f761e51ae43a5920475cc265851cc]
+Verma *(affected by repeal, see note)*[^c-ff0f761e51ae43a5920475cc265851cc]
 
-Parliamentary Under-Secretary of State *(affected by repeal, see note)*[^key-ff0f761e51ae43a5920475cc265851cc]
+Parliamentary Under-Secretary of State *(affected by repeal, see note)*[^c-ff0f761e51ae43a5920475cc265851cc]
 
-Department of Energy and Climate Change *(affected by repeal, see note)*[^key-ff0f761e51ae43a5920475cc265851cc]
+Department of Energy and Climate Change *(affected by repeal, see note)*[^c-ff0f761e51ae43a5920475cc265851cc]
 
 *Extent: E+W+S+N.I.*
 
@@ -413,7 +413,7 @@ A full impact assessment of the costs and benefits of this instrument is availab
 
 ## Annotations
 
-[^key-ff0f761e51ae43a5920475cc265851cc]: Textual amendment: Regulations revoked in so far as they continue to apply in relation to the UK Registry (1.5.2021) by [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [12](https://www.legislation.gov.uk/uksi/2021/511/regulation/12)
+[^c-ff0f761e51ae43a5920475cc265851cc]: Textual amendment: Regulations revoked in so far as they continue to apply in relation to the UK Registry (1.5.2021) by [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [12](https://www.legislation.gov.uk/uksi/2021/511/regulation/12)
 
 [^c21479961]: Marginal citation: [S.I. 2008/301](https://www.legislation.gov.uk/uksi/2008/301).
 
@@ -427,11 +427,11 @@ A full impact assessment of the costs and benefits of this instrument is availab
 
 [^c21480011]: Marginal citation: Under section 57 of the [Scotland Act 1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46), despite the transfer to the Scottish Ministers of functions in relation to observing and implementing obligations under Community law in respect of devolved matters, any function of the Secretary of State in relation to any matter continues to be exercisable as regards Scotland for the purposes specified in section 2(2) of the European Communities Act 1972. And similarly, under paragraph 5 of Schedule 3 to the [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), despite the transfer to the Welsh Ministers of functions under section 2 of the 1999 Act so far as exercisable in relation to Wales (except in relation to offshore oil and gas exploration and exploitation), those functions continue to be exercisable by the Secretary of State in relation to Wales for such purposes.
 
-[^key-8d0bdd2430dfaf515dc691a4ad0ed6b3]: Modification: Regulations modified (31.12.2020 for specified purposes) by [The Greenhouse Gas Emissions Trading Scheme (Withdrawal Agreement) (EU Exit) Regulations 2020 (S.I. 2020/1369)](https://www.legislation.gov.uk/uksi/2020/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/1/2), [45](https://www.legislation.gov.uk/uksi/2020/1369/regulation/45) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1369/regulation/46))
+[^c-8d0bdd2430dfaf515dc691a4ad0ed6b3]: Modification: Regulations modified (31.12.2020 for specified purposes) by [The Greenhouse Gas Emissions Trading Scheme (Withdrawal Agreement) (EU Exit) Regulations 2020 (S.I. 2020/1369)](https://www.legislation.gov.uk/uksi/2020/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/1/2), [45](https://www.legislation.gov.uk/uksi/2020/1369/regulation/45) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1369/regulation/46))
 
-[^key-243da3d7301eda9673df5ee38be39095]: Textual amendment: Words in [Pt. 8 Ch. 2](https://www.legislation.gov.uk/uksi/2012/3038/part/8/chapter/2) heading omitted (31.12.2020 immediately before IP completion day) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Withdrawal Agreement) (EU Exit) Regulations 2020 (S.I. 2020/1369)](https://www.legislation.gov.uk/uksi/2020/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/1/2), [31(1)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/31/1) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1369/regulation/46))
+[^c-243da3d7301eda9673df5ee38be39095]: Textual amendment: Words in [Pt. 8 Ch. 2](https://www.legislation.gov.uk/uksi/2012/3038/part/8/chapter/2) heading omitted (31.12.2020 immediately before IP completion day) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Withdrawal Agreement) (EU Exit) Regulations 2020 (S.I. 2020/1369)](https://www.legislation.gov.uk/uksi/2020/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/1/2), [31(1)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/31/1) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1369/regulation/46))
 
-[^key-eaeaea1e62e96346594102644eea77eb]: Textual amendment: Words in [Pt. 9](https://www.legislation.gov.uk/uksi/2012/3038/part/9) heading omitted (31.12.2020 immediately before IP completion day) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Withdrawal Agreement) (EU Exit) Regulations 2020 (S.I. 2020/1369)](https://www.legislation.gov.uk/uksi/2020/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/1/2), [32(a)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/32/a) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1369/regulation/46))
+[^c-eaeaea1e62e96346594102644eea77eb]: Textual amendment: Words in [Pt. 9](https://www.legislation.gov.uk/uksi/2012/3038/part/9) heading omitted (31.12.2020 immediately before IP completion day) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Withdrawal Agreement) (EU Exit) Regulations 2020 (S.I. 2020/1369)](https://www.legislation.gov.uk/uksi/2020/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/1/2), [32(a)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/32/a) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1369/regulation/46))
 
 [^c21480551]: Marginal citation: [S.I. 2009/1976](https://www.legislation.gov.uk/uksi/2009/1976) (L. 20).
 

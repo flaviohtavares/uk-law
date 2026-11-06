@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 150. The specified prohibition condition[^key-a72b96d49711e8bb7029b785d9fbe248][^key-5211eedb608df080411756619e8d96a4]
+## 150. The specified prohibition condition[^c-a72b96d49711e8bb7029b785d9fbe248][^c-5211eedb608df080411756619e8d96a4]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a72b96d49711e8bb7029b785d9fbe248]: Commencement: S. 150 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-a72b96d49711e8bb7029b785d9fbe248]: Commencement: S. 150 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-5211eedb608df080411756619e8d96a4]: Commencement: [S. 150](https://www.legislation.gov.uk/ukpga/2024/13/section/150) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)
+[^c-5211eedb608df080411756619e8d96a4]: Commencement: [S. 150](https://www.legislation.gov.uk/ukpga/2024/13/section/150) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)

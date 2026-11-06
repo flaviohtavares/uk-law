@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Meaning of “eligible child”[^key-971255f5c2e6cf436e1793efa62a075a]
+## 85. Meaning of “eligible child”[^c-971255f5c2e6cf436e1793efa62a075a]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-971255f5c2e6cf436e1793efa62a075a]: Commencement: [Reg. 85](https://www.legislation.gov.uk/uksi/2014/2848/regulation/85) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-971255f5c2e6cf436e1793efa62a075a]: Commencement: [Reg. 85](https://www.legislation.gov.uk/uksi/2014/2848/regulation/85) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

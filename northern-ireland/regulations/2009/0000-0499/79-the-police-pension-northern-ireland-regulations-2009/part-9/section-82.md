@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 82. Interpretation[^key-fe64e77b45576cb6f7c51dbccfef1c70]
+## 82. Interpretation[^c-fe64e77b45576cb6f7c51dbccfef1c70]
 
 *Extent: N.I.*
 
@@ -28,7 +28,7 @@ summary: ''
 
 ## Annotations
 
-[^key-fe64e77b45576cb6f7c51dbccfef1c70]: Commencement: Reg. 82 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
+[^c-fe64e77b45576cb6f7c51dbccfef1c70]: Commencement: Reg. 82 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
 
 [^f00035]: Footnote: [1996 c.14](https://www.legislation.gov.uk/ukpga/1996/14)
 

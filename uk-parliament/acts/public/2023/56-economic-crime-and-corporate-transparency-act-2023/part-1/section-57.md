@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Statements about exemption from audit requirements[^key-51ccceba1bfe2c62353ab5a7682b9c42]
+## 57. Statements about exemption from audit requirements[^c-51ccceba1bfe2c62353ab5a7682b9c42]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ In section 475 of the Companies Act 2006 (requirement for audited accounts), for
 
 ## Annotations
 
-[^key-51ccceba1bfe2c62353ab5a7682b9c42]: Commencement: S. 57 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-51ccceba1bfe2c62353ab5a7682b9c42]: Commencement: S. 57 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)

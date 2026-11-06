@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 193. Definition of “authorised bank”[^key-d4e60a07f86a86a7b6aa32e292bbf8bf]
+## 193. Definition of “authorised bank”[^c-d4e60a07f86a86a7b6aa32e292bbf8bf]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d4e60a07f86a86a7b6aa32e292bbf8bf]: Commencement: Art. 193 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-d4e60a07f86a86a7b6aa32e292bbf8bf]: Commencement: Art. 193 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00135]: Footnote: The definition of “authorised bank” in section 31(1) was substituted by the Banking Act [1987 (c. 22)](https://www.legislation.gov.uk/ukpga/1987/22), Schedule 6 paragraph 7.

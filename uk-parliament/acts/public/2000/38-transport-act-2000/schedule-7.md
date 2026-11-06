@@ -39,7 +39,7 @@ Section 64.
 
 (2) Sub-paragraph (1) has effect subject to the following provisions of this Schedule.
 
-(3)[^key-c569f744501a18bcc93453045b044a2d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-c569f744501a18bcc93453045b044a2d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Section 171(1) of the 1992 Act (provision in relation to disposal of assets from one member of a group of companies to another member of the group) does not apply if the disposal in question is constituted by a relevant transfer.
 
@@ -189,7 +189,7 @@ Section 64.
 **11.**[^c14885051] (1) This paragraph applies if—
 
 - (a) property which is plant or machinery is the subject of a relevant transfer,
-- (b) Chapter 1 of Part 22 of the Corporation Tax Act 2010 (transfers of trade without a change of ownership)[^key-f47f8bf5c8ea00e7b8a7e6a5f6c7a592] does not apply in relation to the transfer, and
+- (b) Chapter 1 of Part 22 of the Corporation Tax Act 2010 (transfers of trade without a change of ownership)[^c-f47f8bf5c8ea00e7b8a7e6a5f6c7a592] does not apply in relation to the transfer, and
 - (c) the transfer scheme concerned contains provision for the disposal value of the property to be taken for the purposes of the Capital Allowances Acts to be of an amount specified in or determined in accordance with the scheme.
 
 (2) For the purposes of the Capital Allowances Acts—
@@ -235,21 +235,21 @@ Section 64.
 
 (4) The stock must be valued for the purposes of each of the relevant trades as if the disposal and acquisition had been for a consideration which in relation to the transferor would have resulted in neither a profit nor a loss being brought into account in respect of the disposal in the accounting period of the transferor which ends with, or is current at, the time when the transfer takes effect.
 
-(5) In this paragraph “**trading stock**” has the same meaning as in section 163 of the Corporation Tax Act 2009[^key-6839626a6303836236be1ce30d5ccc45].
+(5) In this paragraph “**trading stock**” has the same meaning as in section 163 of the Corporation Tax Act 2009[^c-6839626a6303836236be1ce30d5ccc45].
 
 ### Trading losses: transfer of trade
 
 **13.**[^c14885071] (1) This paragraph applies if a transfer scheme provides for a relevant transfer as a result of which the transferor ceases to carry on a trade and the transferee begins to carry it on.
 
-(2) A transferor treated as ceasing to carry on a trade for the purposes of Chapter 1 of Part 22 of the Corporation Tax Act 2010 (transfers of trade without a change of ownership)[^key-0f9b1be2610643fa41ef6e5e4ff7c589] is to be so treated for the purposes of this paragraph.
+(2) A transferor treated as ceasing to carry on a trade for the purposes of Chapter 1 of Part 22 of the Corporation Tax Act 2010 (transfers of trade without a change of ownership)[^c-0f9b1be2610643fa41ef6e5e4ff7c589] is to be so treated for the purposes of this paragraph.
 
-(3) A transferee treated as beginning to carry on a trade for the purposes of that Chapter[^key-6ad844318ae511f9fea8318c35915c44] is to be so treated for the purposes of this paragraph.
+(3) A transferee treated as beginning to carry on a trade for the purposes of that Chapter[^c-6ad844318ae511f9fea8318c35915c44] is to be so treated for the purposes of this paragraph.
 
-(4) Sub-paragraph (5) applies if the transfer will result in the transferee being entitled to relief for an amount in respect of the trade under section 45 of the Corporation Tax Act 2010 (carry forward of trading losses) by virtue of section 944(3) of that Act[^key-5a01ea58db596033e84c582f2ab4d899].
+(4) Sub-paragraph (5) applies if the transfer will result in the transferee being entitled to relief for an amount in respect of the trade under section 45 of the Corporation Tax Act 2010 (carry forward of trading losses) by virtue of section 944(3) of that Act[^c-5a01ea58db596033e84c582f2ab4d899].
 
 (5) In such a case the scheme may provide that the amount is to be treated as such amount (the replacement amount) as is specified in or determined in accordance with the scheme.
 
-(6) Sub-paragraph (7) applies if the trade concerned is in fact part of a trade of the transferor and the transferor is entitled to relief for an amount under section 45 of the Corporation Tax Act 2010[^key-5e964c01b164cf221dbf5c3498747fcf] in respect of the part retained.
+(6) Sub-paragraph (7) applies if the trade concerned is in fact part of a trade of the transferor and the transferor is entitled to relief for an amount under section 45 of the Corporation Tax Act 2010[^c-5e964c01b164cf221dbf5c3498747fcf] in respect of the part retained.
 
 (7) In such a case the scheme may provide that the amount is to be treated as such amount (the replacement amount) as is specified in or determined in accordance with the scheme.
 
@@ -264,16 +264,16 @@ Section 64.
 - (a) the Secretary of State, or
 - (b) a company whose shares are all held by the Secretary of State when the transfer takes effect.
 
-(2) For the purposes of Chapter 2 of Part 14 of the Corporation Tax Act 2010 (but not section 674(1) of that Act)[^key-bd467457674b64345131d00514d7539b] (disallowance of trading losses on change in company’s ownership) the transfer is not to be taken to result in a change in the ownership of—
+(2) For the purposes of Chapter 2 of Part 14 of the Corporation Tax Act 2010 (but not section 674(1) of that Act)[^c-bd467457674b64345131d00514d7539b] (disallowance of trading losses on change in company’s ownership) the transfer is not to be taken to result in a change in the ownership of—
 
 - (a) the transferred company, or
 - (b) a company which is a wholly owned subsidiary of the transferred company when the transfer takes effect.
 
 ### Leased assets
 
-**15.**[^c14885091] (1) This paragraph applies for the purposes of Chapter 4 of Part 19 of the Corporation Tax Act 2010[^key-68b4e2462d3d8c11540e53f82f1810a8] or Chapter 4 of Part 12A of the Income Tax Act 2007[^key-519f996d27bbbd683bc7e3637fd1e220] (assets leased to traders and others) if the interest of the lessor or the lessee under a lease, or any other interest in an asset, is transferred to a person under a relevant transfer.
+**15.**[^c14885091] (1) This paragraph applies for the purposes of Chapter 4 of Part 19 of the Corporation Tax Act 2010[^c-68b4e2462d3d8c11540e53f82f1810a8] or Chapter 4 of Part 12A of the Income Tax Act 2007[^c-519f996d27bbbd683bc7e3637fd1e220] (assets leased to traders and others) if the interest of the lessor or the lessee under a lease, or any other interest in an asset, is transferred to a person under a relevant transfer.
 
-(2) The transfer is to be treated as made without any capital sum having been obtained in respect of the interest by the transferor or the transferee; and this is so notwithstanding section 879[^key-c6ec7f251e444b7b0bb4d3e14a113015] of the Corporation Tax Act 2010 and section 681DI of the Income Tax Act 2007[^key-38503550147ae8d7ffa17ff3e56b9e09].
+(2) The transfer is to be treated as made without any capital sum having been obtained in respect of the interest by the transferor or the transferee; and this is so notwithstanding section 879[^c-c6ec7f251e444b7b0bb4d3e14a113015] of the Corporation Tax Act 2010 and section 681DI of the Income Tax Act 2007[^c-38503550147ae8d7ffa17ff3e56b9e09].
 
 ### Securities
 
@@ -295,9 +295,9 @@ Section 64.
 - (a) securities are issued to a company in pursuance of a direction of the Secretary of State under section 49 or 58 above, and
 - (b) by virtue of any such security the company has a loan relationship for the purposes of the Corporation Tax Acts.
 
-(2) For the purposes of Part 5 of the Corporation Tax Act 2009[^key-ca743e51af3fcf26e1b88f209cb72472] (loan relationships) the company is to be taken to have acquired its rights under the security wholly in consideration of a loan made by it to the issuing company of an amount equal to the principal sum payable under the security.
+(2) For the purposes of Part 5 of the Corporation Tax Act 2009[^c-ca743e51af3fcf26e1b88f209cb72472] (loan relationships) the company is to be taken to have acquired its rights under the security wholly in consideration of a loan made by it to the issuing company of an amount equal to the principal sum payable under the security.
 
-(3) Expressions used in this paragraph and in Part 5 of the Corporation Tax Act 2009[^key-e2d2376bb08f16c7feffbc4b5f1cb05a] have the same meanings in this paragraph as in that Part.
+(3) Expressions used in this paragraph and in Part 5 of the Corporation Tax Act 2009[^c-e2d2376bb08f16c7feffbc4b5f1cb05a] have the same meanings in this paragraph as in that Part.
 
 ### Stamp duty
 
@@ -368,7 +368,7 @@ as the case may be.
 
 [^c14884961]: Commencement: Sch. 7 paras. 1-20 wholly in force at 1.2.2001, see s. 275(1) and [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to the transitional provision and saving in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II))
 
-[^key-c569f744501a18bcc93453045b044a2d]: Textual amendment: Sch. 7 para. 2(3) omitted (with effect in accordance with Sch. 2 para. 71 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 70(e)(i)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/70/e/i)
+[^c-c569f744501a18bcc93453045b044a2d]: Textual amendment: Sch. 7 para. 2(3) omitted (with effect in accordance with Sch. 2 para. 71 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 70(e)(i)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/70/e/i)
 
 [^c14884971]: Commencement: Sch. 7 paras. 1-20 wholly in force at 1.2.2001, see s. 275(1) and [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to the transitional provision and saving in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II))
 
@@ -388,43 +388,43 @@ as the case may be.
 
 [^c14885051]: Commencement: Sch. 7 paras. 1-20 wholly in force at 1.2.2001, see s. 275(1) and [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to the transitional provision and saving in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II))
 
-[^key-f47f8bf5c8ea00e7b8a7e6a5f6c7a592]: Textual amendment: Words in Sch. 7 para. 11(1)(b) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 321(2)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/321/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-f47f8bf5c8ea00e7b8a7e6a5f6c7a592]: Textual amendment: Words in Sch. 7 para. 11(1)(b) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 321(2)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/321/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
 [^c14885061]: Commencement: Sch. 7 paras. 1-20 wholly in force at 1.2.2001, see s. 275(1) and [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to the transitional provision and saving in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II))
 
-[^key-6839626a6303836236be1ce30d5ccc45]: Textual amendment: Words in Sch. 7 para. 12(5) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 472(2)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/472/2) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-6839626a6303836236be1ce30d5ccc45]: Textual amendment: Words in Sch. 7 para. 12(5) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 472(2)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/472/2) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
 [^c14885071]: Commencement: Sch. 7 paras. 1-20 wholly in force at 1.2.2001, see s. 275(1) and [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to the transitional provision and saving in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II))
 
-[^key-0f9b1be2610643fa41ef6e5e4ff7c589]: Textual amendment: Words in Sch. 7 para. 13(2) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 321(3)(a)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/321/3/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-0f9b1be2610643fa41ef6e5e4ff7c589]: Textual amendment: Words in Sch. 7 para. 13(2) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 321(3)(a)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/321/3/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-6ad844318ae511f9fea8318c35915c44]: Textual amendment: Words in Sch. 7 para. 13(3) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 321(3)(b)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/321/3/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-6ad844318ae511f9fea8318c35915c44]: Textual amendment: Words in Sch. 7 para. 13(3) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 321(3)(b)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/321/3/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-5a01ea58db596033e84c582f2ab4d899]: Textual amendment: Words in Sch. 7 para. 13(4) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 321(3)(c)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/321/3/c) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-5a01ea58db596033e84c582f2ab4d899]: Textual amendment: Words in Sch. 7 para. 13(4) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 321(3)(c)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/321/3/c) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-5e964c01b164cf221dbf5c3498747fcf]: Textual amendment: Words in Sch. 7 para. 13(6) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 321(3)(d)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/321/3/d) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-5e964c01b164cf221dbf5c3498747fcf]: Textual amendment: Words in Sch. 7 para. 13(6) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 321(3)(d)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/321/3/d) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
 [^c14885081]: Commencement: Sch. 7 paras. 1-20 wholly in force at 1.2.2001, see s. 275(1) and [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to the transitional provision and saving in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II))
 
-[^key-bd467457674b64345131d00514d7539b]: Textual amendment: Words in Sch. 7 para. 14(2) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 321(4)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/321/4) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-bd467457674b64345131d00514d7539b]: Textual amendment: Words in Sch. 7 para. 14(2) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 321(4)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/321/4) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
 [^c14885091]: Commencement: Sch. 7 paras. 1-20 wholly in force at 1.2.2001, see s. 275(1) and [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to the transitional provision and saving in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II))
 
-[^key-68b4e2462d3d8c11540e53f82f1810a8]: Textual amendment: Words in Sch. 7 para. 15(1) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 321(5)(a)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/321/5/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-68b4e2462d3d8c11540e53f82f1810a8]: Textual amendment: Words in Sch. 7 para. 15(1) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 321(5)(a)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/321/5/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-519f996d27bbbd683bc7e3637fd1e220]: Textual amendment: Words in Sch. 7 para. 15(1) inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 252(a)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/252/a) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-519f996d27bbbd683bc7e3637fd1e220]: Textual amendment: Words in Sch. 7 para. 15(1) inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 252(a)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/252/a) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-c6ec7f251e444b7b0bb4d3e14a113015]: Textual amendment: Words in Sch. 7 para. 15(2) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 321(5)(b)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/321/5/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-c6ec7f251e444b7b0bb4d3e14a113015]: Textual amendment: Words in Sch. 7 para. 15(2) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 321(5)(b)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/321/5/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-38503550147ae8d7ffa17ff3e56b9e09]: Textual amendment: Words in Sch. 7 para. 15(2) substituted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 252(b)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/252/b) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-38503550147ae8d7ffa17ff3e56b9e09]: Textual amendment: Words in Sch. 7 para. 15(2) substituted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 252(b)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/252/b) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
 [^c14885101]: Commencement: Sch. 7 paras. 1-20 wholly in force at 1.2.2001, see s. 275(1) and [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to the transitional provision and saving in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II))
 
 [^c14885111]: Commencement: Sch. 7 paras. 1-20 wholly in force at 1.2.2001, see s. 275(1) and [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to the transitional provision and saving in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II))
 
-[^key-ca743e51af3fcf26e1b88f209cb72472]: Textual amendment: Words in Sch. 7 para. 17(2) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 472(3)(a)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/472/3/a) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-ca743e51af3fcf26e1b88f209cb72472]: Textual amendment: Words in Sch. 7 para. 17(2) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 472(3)(a)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/472/3/a) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-e2d2376bb08f16c7feffbc4b5f1cb05a]: Textual amendment: Words in Sch. 7 para. 17(3) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 472(3)(b)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/472/3/b) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-e2d2376bb08f16c7feffbc4b5f1cb05a]: Textual amendment: Words in Sch. 7 para. 17(3) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 472(3)(b)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/472/3/b) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
 [^c14885141]: Commencement: Sch. 7 paras. 1-20 wholly in force at 1.2.2001, see s. 275(1) and [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to the transitional provision and saving in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II))
 

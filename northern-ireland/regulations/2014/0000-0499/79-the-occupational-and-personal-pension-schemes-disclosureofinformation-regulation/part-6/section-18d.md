@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 18D. Consequential modifications of sections 95 and 97J of the 1993 Act[^key-15f6698fbd1d2f54069ac4df0bfe9ffb]
+## 18D. Consequential modifications of sections 95 and 97J of the 1993 Act[^c-15f6698fbd1d2f54069ac4df0bfe9ffb]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-15f6698fbd1d2f54069ac4df0bfe9ffb]: Textual amendment: [Regs. 18C-18E](https://www.legislation.gov.uk/nisr/2014/79/regulation/18C) inserted (1.6.2022) by [The Occupational and Personal Pension Schemes (Disclosure of Information) (Requirements to Refer Members to Guidance etc.) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/115)](https://www.legislation.gov.uk/nisr/2022/115), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/115/regulation/1/1), [2(6)](https://www.legislation.gov.uk/nisr/2022/115/regulation/2/6)
+[^c-15f6698fbd1d2f54069ac4df0bfe9ffb]: Textual amendment: [Regs. 18C-18E](https://www.legislation.gov.uk/nisr/2014/79/regulation/18C) inserted (1.6.2022) by [The Occupational and Personal Pension Schemes (Disclosure of Information) (Requirements to Refer Members to Guidance etc.) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/115)](https://www.legislation.gov.uk/nisr/2022/115), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/115/regulation/1/1), [2(6)](https://www.legislation.gov.uk/nisr/2022/115/regulation/2/6)

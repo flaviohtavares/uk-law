@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10A. Lifetime ISA qualifying individuals who may invest under a Lifetime ISA[^key-06402ceb51ccc1e5a0c4d1726338d938]
+## 10A. Lifetime ISA qualifying individuals who may invest under a Lifetime ISA[^c-06402ceb51ccc1e5a0c4d1726338d938]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,13 +46,13 @@ summary: ''
 (4) The following are not current year payments—
 
 - (a) a defaulted Lifetime ISA subscription under regulation 5D(2)(a)(ia);
-- (b) a returned withdrawal under regulation 5D(2)(a)(ib); [^key-d3cfdf7a65ff21c42cbf15fd18f99596]...
-- (c)[^key-9d0fe51f0a96aa372360437b06ffc4c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) a returned withdrawal under regulation 5D(2)(a)(ib); [^c-d3cfdf7a65ff21c42cbf15fd18f99596]...
+- (c)[^c-9d0fe51f0a96aa372360437b06ffc4c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-06402ceb51ccc1e5a0c4d1726338d938]: Textual amendment: Reg. 10A inserted (6.4.2017) by [The Individual Savings Account (Amendment No. 2) Regulations 2017 (S.I. 2017/466)](https://www.legislation.gov.uk/uksi/2017/466), [regs. 1](https://www.legislation.gov.uk/uksi/2017/466/regulation/1), [21](https://www.legislation.gov.uk/uksi/2017/466/regulation/21)
+[^c-06402ceb51ccc1e5a0c4d1726338d938]: Textual amendment: Reg. 10A inserted (6.4.2017) by [The Individual Savings Account (Amendment No. 2) Regulations 2017 (S.I. 2017/466)](https://www.legislation.gov.uk/uksi/2017/466), [regs. 1](https://www.legislation.gov.uk/uksi/2017/466/regulation/1), [21](https://www.legislation.gov.uk/uksi/2017/466/regulation/21)
 
-[^key-d3cfdf7a65ff21c42cbf15fd18f99596]: Textual amendment: Word in [reg. 10A(4)](https://www.legislation.gov.uk/uksi/1998/1870/regulation/10A/4) omitted (6.4.2024) by virtue of [The Individual Savings Account (Amendment) Regulations 2024 (S.I. 2024/350)](https://www.legislation.gov.uk/uksi/2024/350), [regs. 1](https://www.legislation.gov.uk/uksi/2024/350/regulation/1), [18(a)](https://www.legislation.gov.uk/uksi/2024/350/regulation/18/a)
+[^c-d3cfdf7a65ff21c42cbf15fd18f99596]: Textual amendment: Word in [reg. 10A(4)](https://www.legislation.gov.uk/uksi/1998/1870/regulation/10A/4) omitted (6.4.2024) by virtue of [The Individual Savings Account (Amendment) Regulations 2024 (S.I. 2024/350)](https://www.legislation.gov.uk/uksi/2024/350), [regs. 1](https://www.legislation.gov.uk/uksi/2024/350/regulation/1), [18(a)](https://www.legislation.gov.uk/uksi/2024/350/regulation/18/a)
 
-[^key-9d0fe51f0a96aa372360437b06ffc4c4]: Textual amendment: [Reg. 10A(4)(c)](https://www.legislation.gov.uk/uksi/1998/1870/regulation/10A/4/c) omitted (6.4.2024) by virtue of [The Individual Savings Account (Amendment) Regulations 2024 (S.I. 2024/350)](https://www.legislation.gov.uk/uksi/2024/350), [regs. 1](https://www.legislation.gov.uk/uksi/2024/350/regulation/1), [18(b)](https://www.legislation.gov.uk/uksi/2024/350/regulation/18/b)
+[^c-9d0fe51f0a96aa372360437b06ffc4c4]: Textual amendment: [Reg. 10A(4)(c)](https://www.legislation.gov.uk/uksi/1998/1870/regulation/10A/4/c) omitted (6.4.2024) by virtue of [The Individual Savings Account (Amendment) Regulations 2024 (S.I. 2024/350)](https://www.legislation.gov.uk/uksi/2024/350), [regs. 1](https://www.legislation.gov.uk/uksi/2024/350/regulation/1), [18(b)](https://www.legislation.gov.uk/uksi/2024/350/regulation/18/b)

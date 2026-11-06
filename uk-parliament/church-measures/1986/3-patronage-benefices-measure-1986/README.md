@@ -31,7 +31,7 @@ Patronage (Benefices) Measure 1986
 
 A MEASURE passed by the General Synod of the Church of England to amend the law relating to patronage of benefices.
 
-\[18th July 1986\][^c922661][^key-b9470932a1396c92f7a826a8a10343b0]
+\[18th July 1986\][^c922661][^c-b9470932a1396c92f7a826a8a10343b0]
 
 ## Contents
 
@@ -60,7 +60,7 @@ A MEASURE passed by the General Synod of the Church of England to amend the law 
 - [Section 14 — Failure of registered patron to comply with s. 9.](part-ii/section-14.md)
 - [Section 15 — Failure of council to comply with s. 11 or 12.](part-ii/section-15.md)
 
-#### Provisions which apply where benefice remains vacant for 18 months[^key-47309e4e3e1ed57f7b1e153054839433]
+#### Provisions which apply where benefice remains vacant for 18 months[^c-47309e4e3e1ed57f7b1e153054839433]
 
 *Extent: E+W+S+N.I.*
 
@@ -77,7 +77,7 @@ A MEASURE passed by the General Synod of the Church of England to amend the law 
 
 - [Section 20 — Bishop to act in place of incumbent patron in certain cases.](part-ii/section-20.md)
 
-#### Patronage exercisable jointly[^key-2974f5b4331cba748c625de4adfa9a50]
+#### Patronage exercisable jointly[^c-2974f5b4331cba748c625de4adfa9a50]
 
 - [Section 20A — Power to appoint another joint patron](part-ii/section-20a.md)
 
@@ -154,8 +154,8 @@ SCHEDULES
 
 [^c922661]: Commencement: Measure not in force at Royal Assent see [s. 42(3)](https://www.legislation.gov.uk/ukcm/1986/3/section/42/3); Measure wholly in force at 1.1.1989.
 
-[^key-b9470932a1396c92f7a826a8a10343b0]: Modification: [Measure](https://www.legislation.gov.uk/ukcm/1986/3) applied (1.10.2007) by [Mental Capacity Act 2005 (c. 9)](https://www.legislation.gov.uk/ukpga/2005/9), [s. 68(1)](https://www.legislation.gov.uk/ukpga/2005/9/section/68/1), [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2005/9/schedule/2/paragraph/10) (with [ss. 27-29](https://www.legislation.gov.uk/ukpga/2005/9/section/27), [62](https://www.legislation.gov.uk/ukpga/2005/9/section/62)); [S.I. 2007/1897](https://www.legislation.gov.uk/uksi/2007/1897), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2007/1897/article/2/1/d)
+[^c-b9470932a1396c92f7a826a8a10343b0]: Modification: [Measure](https://www.legislation.gov.uk/ukcm/1986/3) applied (1.10.2007) by [Mental Capacity Act 2005 (c. 9)](https://www.legislation.gov.uk/ukpga/2005/9), [s. 68(1)](https://www.legislation.gov.uk/ukpga/2005/9/section/68/1), [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2005/9/schedule/2/paragraph/10) (with [ss. 27-29](https://www.legislation.gov.uk/ukpga/2005/9/section/27), [62](https://www.legislation.gov.uk/ukpga/2005/9/section/62)); [S.I. 2007/1897](https://www.legislation.gov.uk/uksi/2007/1897), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2007/1897/article/2/1/d)
 
-[^key-47309e4e3e1ed57f7b1e153054839433]: Textual amendment: Words in s. 16 cross-heading substituted (1.1.2020) by [The Legislative Reform (Patronage of Benefices) Order 2019 (S.I. 2019/1183)](https://www.legislation.gov.uk/uksi/2019/1183), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2019/1183/article/1/1), [4(5)](https://www.legislation.gov.uk/uksi/2019/1183/article/4/5) (with [arts. 8](https://www.legislation.gov.uk/uksi/2019/1183/article/8), [9](https://www.legislation.gov.uk/uksi/2019/1183/article/9))
+[^c-47309e4e3e1ed57f7b1e153054839433]: Textual amendment: Words in s. 16 cross-heading substituted (1.1.2020) by [The Legislative Reform (Patronage of Benefices) Order 2019 (S.I. 2019/1183)](https://www.legislation.gov.uk/uksi/2019/1183), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2019/1183/article/1/1), [4(5)](https://www.legislation.gov.uk/uksi/2019/1183/article/4/5) (with [arts. 8](https://www.legislation.gov.uk/uksi/2019/1183/article/8), [9](https://www.legislation.gov.uk/uksi/2019/1183/article/9))
 
-[^key-2974f5b4331cba748c625de4adfa9a50]: Textual amendment: S. 20A and cross-heading inserted (1.1.2020) by [The Legislative Reform (Patronage of Benefices) Order 2019 (S.I. 2019/1183)](https://www.legislation.gov.uk/uksi/2019/1183), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2019/1183/article/1/1), [5](https://www.legislation.gov.uk/uksi/2019/1183/article/5)
+[^c-2974f5b4331cba748c625de4adfa9a50]: Textual amendment: S. 20A and cross-heading inserted (1.1.2020) by [The Legislative Reform (Patronage of Benefices) Order 2019 (S.I. 2019/1183)](https://www.legislation.gov.uk/uksi/2019/1183), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2019/1183/article/1/1), [5](https://www.legislation.gov.uk/uksi/2019/1183/article/5)

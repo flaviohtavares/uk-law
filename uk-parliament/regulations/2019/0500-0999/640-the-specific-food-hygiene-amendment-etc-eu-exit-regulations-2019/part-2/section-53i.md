@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53I.[^key-89bacac6ca8a2931da20b7ebcf4b9aa2][^M_I_0a2da835-fcd7-4954-f955-07a3c1a2569e]
+## 53I.[^c-89bacac6ca8a2931da20b7ebcf4b9aa2][^M_I_0a2da835-fcd7-4954-f955-07a3c1a2569e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In Article 1, for “31 December 2020” substitute “ 21 April 2021 ”.
 
 ## Annotations
 
-[^key-89bacac6ca8a2931da20b7ebcf4b9aa2]: Textual amendment: Regs. 53A-53L inserted (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(15)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/15)
+[^c-89bacac6ca8a2931da20b7ebcf4b9aa2]: Textual amendment: Regs. 53A-53L inserted (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(15)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/15)
 
 [^M_I_0a2da835-fcd7-4954-f955-07a3c1a2569e]: Commencement: Reg. 53I in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 62A. Objection to completion notice[^key-d34f28a1fcd7f6dc0e702e2c216e4be4]
+## 62A. Objection to completion notice[^c-d34f28a1fcd7f6dc0e702e2c216e4be4]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d34f28a1fcd7f6dc0e702e2c216e4be4]: Textual amendment: [S. 62A](https://www.legislation.gov.uk/ukpga/1997/8/section/62A) inserted (1.10.2022) by [Planning (Scotland) Act 2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), [ss. 33(4)](https://www.legislation.gov.uk/asp/2019/13/section/33/4), [63(2)](https://www.legislation.gov.uk/asp/2019/13/section/63/2); [S.S.I. 2022/275](https://www.legislation.gov.uk/ssi/2022/275), [reg. 2(2)(c)](https://www.legislation.gov.uk/ssi/2022/275/regulation/2/2/c) (with [reg. 3](https://www.legislation.gov.uk/ssi/2022/275/regulation/3))
+[^c-d34f28a1fcd7f6dc0e702e2c216e4be4]: Textual amendment: [S. 62A](https://www.legislation.gov.uk/ukpga/1997/8/section/62A) inserted (1.10.2022) by [Planning (Scotland) Act 2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), [ss. 33(4)](https://www.legislation.gov.uk/asp/2019/13/section/33/4), [63(2)](https://www.legislation.gov.uk/asp/2019/13/section/63/2); [S.S.I. 2022/275](https://www.legislation.gov.uk/ssi/2022/275), [reg. 2(2)(c)](https://www.legislation.gov.uk/ssi/2022/275/regulation/2/2/c) (with [reg. 3](https://www.legislation.gov.uk/ssi/2022/275/regulation/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.118. Test of security's value[^key-bae87c29bf94c1fb329e8e5d8a84ccfc]
+## 6.118. Test of security's value[^c-bae87c29bf94c1fb329e8e5d8a84ccfc]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bae87c29bf94c1fb329e8e5d8a84ccfc]: Commencement: [Rule 6.118](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.118) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-bae87c29bf94c1fb329e8e5d8a84ccfc]: Commencement: [Rule 6.118](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.118) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

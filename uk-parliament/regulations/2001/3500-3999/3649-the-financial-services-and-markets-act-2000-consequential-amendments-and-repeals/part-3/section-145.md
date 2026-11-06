@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 145. Borrowing power of Compensation Board[^key-d306ce398bc972a8ec20d93e69171024]
+## 145. Borrowing power of Compensation Board[^c-d306ce398bc972a8ec20d93e69171024]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d306ce398bc972a8ec20d93e69171024]: Commencement: Art. 145 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-d306ce398bc972a8ec20d93e69171024]: Commencement: Art. 145 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

@@ -16,7 +16,7 @@ summary: ''
 
 ## 67. Date on which change of circumstances is to take effect
 
-(1) Except in cases where regulation 24 (disregard of changes in tax, contributions, etc) applies, and subject to regulation 8(3) of the Decisions and Appeals Regulations, and[^key-ca7152ee3974f6a692ba56bfe8810c1c] the following provisions of this regulation, a change of circumstances which affects entitlement to, or the amount of, council tax benefit (“**change of circumstances**”), shall take effect from the first day of the benefit week following the date on which the change actually occurs, and where that change is cessation of entitlement to any benefit under the benefit Acts, the date on which the change actually occurs shall be the day immediately following the last day of entitlement to that benefit.
+(1) Except in cases where regulation 24 (disregard of changes in tax, contributions, etc) applies, and subject to regulation 8(3) of the Decisions and Appeals Regulations, and[^c-ca7152ee3974f6a692ba56bfe8810c1c] the following provisions of this regulation, a change of circumstances which affects entitlement to, or the amount of, council tax benefit (“**change of circumstances**”), shall take effect from the first day of the benefit week following the date on which the change actually occurs, and where that change is cessation of entitlement to any benefit under the benefit Acts, the date on which the change actually occurs shall be the day immediately following the last day of entitlement to that benefit.
 
 (2) Subject to paragraph (3), where the change of circumstances is a change in the amount of council tax payable, it shall take effect from the day on which it actually occurs.
 
@@ -36,7 +36,7 @@ summary: ''
 
 ## Annotations
 
-[^key-ca7152ee3974f6a692ba56bfe8810c1c]: Textual amendment: Words in reg. 67(1) substituted (24.9.2007) by [Social Security (Miscellaneous Amendments) (No.4) Regulations 2007 (S.I. 2007/2470)](https://www.legislation.gov.uk/uksi/2007/2470), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2470/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2007/2470/regulation/6/2)
+[^c-ca7152ee3974f6a692ba56bfe8810c1c]: Textual amendment: Words in reg. 67(1) substituted (24.9.2007) by [Social Security (Miscellaneous Amendments) (No.4) Regulations 2007 (S.I. 2007/2470)](https://www.legislation.gov.uk/uksi/2007/2470), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2470/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2007/2470/regulation/6/2)
 
 [^c1541353]: Marginal citation: Section 13 was amended by the [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [section 127](https://www.legislation.gov.uk/ukpga/2003/26/section/127) and Schedule 7, paragraph 42; section 80 by the Local Government etc. (Scotland) Act 1994, section 180 and Schedule 13, paragraph 176(4).
 

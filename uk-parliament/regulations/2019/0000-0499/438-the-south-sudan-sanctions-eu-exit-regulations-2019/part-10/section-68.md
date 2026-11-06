@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Amendments[^key-2036fa7df6c4c49a5e65b4fb1a9cd3e8][^key-e67c1c234d3417f4c69755b8c9611993]
+## 68. Amendments[^c-2036fa7df6c4c49a5e65b4fb1a9cd3e8][^c-e67c1c234d3417f4c69755b8c9611993]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,8 +25,8 @@ summary: ''
 - (a) in regulation 3—
   - (i) in paragraph (1)—
     - (aa) in the definition of “EU authorisation”, omit “or Article 3 of the South Sudan Regulation”.
-    - (bb)[^key-b489b1b454497e004bec6bdee8c9d904] omit the definition of “the South Sudan Regulation”;
-  - (ii)[^key-171fa953ed20d2512ecbac1ae7539d8b] omit paragraphs (4) and (5).
+    - (bb)[^c-b489b1b454497e004bec6bdee8c9d904] omit the definition of “the South Sudan Regulation”;
+  - (ii)[^c-171fa953ed20d2512ecbac1ae7539d8b] omit paragraphs (4) and (5).
 - (b) in the heading to Part 2, for “and the South Sudan Regulations” substitute “ Regulation ”;
 - (c) regulation 5 is omitted;
 - (d) in regulation 7(a), omit “, Article 2 of the South Sudan Regulation”;
@@ -40,14 +40,14 @@ summary: ''
 
 ## Annotations
 
-[^key-2036fa7df6c4c49a5e65b4fb1a9cd3e8]: Commencement: Reg. 68 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/438/regulation/1/2)
+[^c-2036fa7df6c4c49a5e65b4fb1a9cd3e8]: Commencement: Reg. 68 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/438/regulation/1/2)
 
-[^key-e67c1c234d3417f4c69755b8c9611993]: Commencement: [Reg. 68](https://www.legislation.gov.uk/uksi/2019/438/regulation/68) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 6(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/6/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e67c1c234d3417f4c69755b8c9611993]: Commencement: [Reg. 68](https://www.legislation.gov.uk/uksi/2019/438/regulation/68) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 6(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/6/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23620101]: Marginal citation: [S.I. 2014/3258](https://www.legislation.gov.uk/uksi/2014/3258), as amended by [S.I. 2015/97](https://www.legislation.gov.uk/uksi/2015/97) and [S.I. 2015/1546](https://www.legislation.gov.uk/uksi/2015/1546).
 
-[^key-b489b1b454497e004bec6bdee8c9d904]: Textual amendment: [Reg. 68(1)(a)(i)](https://www.legislation.gov.uk/uksi/2019/438/regulation/68/1/a/i)[(bb)](https://www.legislation.gov.uk/uksi/2019/438/regulation/68/1/bb) substituted (1.10.2019) by [The Export Control (Sanctions) (Amendment) Order 2019 (S.I. 2019/1236)](https://www.legislation.gov.uk/uksi/2019/1236), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2019/1236/article/1/2), [8(a)](https://www.legislation.gov.uk/uksi/2019/1236/article/8/a)
+[^c-b489b1b454497e004bec6bdee8c9d904]: Textual amendment: [Reg. 68(1)(a)(i)](https://www.legislation.gov.uk/uksi/2019/438/regulation/68/1/a/i)[(bb)](https://www.legislation.gov.uk/uksi/2019/438/regulation/68/1/bb) substituted (1.10.2019) by [The Export Control (Sanctions) (Amendment) Order 2019 (S.I. 2019/1236)](https://www.legislation.gov.uk/uksi/2019/1236), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2019/1236/article/1/2), [8(a)](https://www.legislation.gov.uk/uksi/2019/1236/article/8/a)
 
-[^key-171fa953ed20d2512ecbac1ae7539d8b]: Textual amendment: [Reg. 68(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/438/regulation/68/1/a/ii) substituted (1.10.2019) by [The Export Control (Sanctions) (Amendment) Order 2019 (S.I. 2019/1236)](https://www.legislation.gov.uk/uksi/2019/1236), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2019/1236/article/1/2), [8(b)](https://www.legislation.gov.uk/uksi/2019/1236/article/8/b)
+[^c-171fa953ed20d2512ecbac1ae7539d8b]: Textual amendment: [Reg. 68(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/438/regulation/68/1/a/ii) substituted (1.10.2019) by [The Export Control (Sanctions) (Amendment) Order 2019 (S.I. 2019/1236)](https://www.legislation.gov.uk/uksi/2019/1236), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2019/1236/article/1/2), [8(b)](https://www.legislation.gov.uk/uksi/2019/1236/article/8/b)
 
 [^c23620111]: Marginal citation: [S.I. 2017/478](https://www.legislation.gov.uk/uksi/2017/478), to which there are amendments not relevant to these Regulations.

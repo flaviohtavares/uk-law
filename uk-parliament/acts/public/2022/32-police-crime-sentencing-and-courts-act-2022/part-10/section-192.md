@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 192. Football banning orders: requirement to make order on conviction etc[^key-a62ad62fa489455a56baee0d6242185e][^key-1c4c363f3cb2806b8eb88ae77d975268]
+## 192. Football banning orders: requirement to make order on conviction etc[^c-a62ad62fa489455a56baee0d6242185e][^c-1c4c363f3cb2806b8eb88ae77d975268]
 
 *Extent: E+W*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a62ad62fa489455a56baee0d6242185e]: Commencement: S. 192 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-a62ad62fa489455a56baee0d6242185e]: Commencement: S. 192 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-1c4c363f3cb2806b8eb88ae77d975268]: Commencement: [S. 192](https://www.legislation.gov.uk/ukpga/2022/32/section/192) in force at 29.6.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 6(b)](https://www.legislation.gov.uk/uksi/2022/520/regulation/6/b)
+[^c-1c4c363f3cb2806b8eb88ae77d975268]: Commencement: [S. 192](https://www.legislation.gov.uk/ukpga/2022/32/section/192) in force at 29.6.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 6(b)](https://www.legislation.gov.uk/uksi/2022/520/regulation/6/b)

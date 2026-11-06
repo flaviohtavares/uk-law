@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Title, commencement, revocation and savings provision[^key-d1bc31687b08a822f536831ef4d34367]
+## 1. Title, commencement, revocation and savings provision[^c-d1bc31687b08a822f536831ef4d34367]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d1bc31687b08a822f536831ef4d34367]: Commencement: Art. 1 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-d1bc31687b08a822f536831ef4d34367]: Commencement: Art. 1 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
 [^f00006]: Footnote: [S.I. 2007/236](https://www.legislation.gov.uk/uksi/2007/236).

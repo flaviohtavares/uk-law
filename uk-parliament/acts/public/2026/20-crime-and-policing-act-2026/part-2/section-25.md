@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Guidance[^key-cfa21093ff1ff0d19fddde5bfd631e1d]
+## 25. Guidance[^c-cfa21093ff1ff0d19fddde5bfd631e1d]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cfa21093ff1ff0d19fddde5bfd631e1d]: Commencement: S. 25 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-cfa21093ff1ff0d19fddde5bfd631e1d]: Commencement: S. 25 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

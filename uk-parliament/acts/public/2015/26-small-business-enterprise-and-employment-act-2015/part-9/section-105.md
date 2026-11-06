@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105. Persons instructing unfit director[^key-c90f757359664e6167464b4f44bfe34b][^key-f041695f27df56c625a49a8cbe0a7348]
+## 105. Persons instructing unfit director[^c-c90f757359664e6167464b4f44bfe34b][^c-f041695f27df56c625a49a8cbe0a7348]
 
 *Extent: E+W+S+N.I.*
 
@@ -138,6 +138,6 @@ After section 8 of the Company Directors Disqualification Act 1986 insert—
 
 ## Annotations
 
-[^key-c90f757359664e6167464b4f44bfe34b]: Commencement: [S. 105](https://www.legislation.gov.uk/ukpga/2015/26/section/105) in force at 26.5.2015 for specified purposes by [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/c)
+[^c-c90f757359664e6167464b4f44bfe34b]: Commencement: [S. 105](https://www.legislation.gov.uk/ukpga/2015/26/section/105) in force at 26.5.2015 for specified purposes by [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/c)
 
-[^key-f041695f27df56c625a49a8cbe0a7348]: Commencement: [S. 105](https://www.legislation.gov.uk/ukpga/2015/26/section/105) in force at 1.10.2015 in so far as not already in force by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/2/c) (with [Sch. para. 1](https://www.legislation.gov.uk/uksi/2015/1689/schedule/paragraph/1))
+[^c-f041695f27df56c625a49a8cbe0a7348]: Commencement: [S. 105](https://www.legislation.gov.uk/ukpga/2015/26/section/105) in force at 1.10.2015 in so far as not already in force by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/2/c) (with [Sch. para. 1](https://www.legislation.gov.uk/uksi/2015/1689/schedule/paragraph/1))

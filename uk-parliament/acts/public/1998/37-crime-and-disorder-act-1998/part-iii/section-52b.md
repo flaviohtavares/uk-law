@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52B. Offences in connection with reporting[^key-8c2ade2828ae29922b05a3c8498d2944]
+## 52B. Offences in connection with reporting[^c-8c2ade2828ae29922b05a3c8498d2944]
 
 *Extent: E+W+S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8c2ade2828ae29922b05a3c8498d2944]: Textual amendment: Ss. 52A, 52B inserted (18.6.2012 for E.W.S. except for the insertion of s. 52B(4)) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 3 para. 19(1)](https://www.legislation.gov.uk/ukpga/2003/44/schedule/3/paragraph/19/1); [S.I. 2012/1320](https://www.legislation.gov.uk/uksi/2012/1320), [art. 3(d)(iii)](https://www.legislation.gov.uk/uksi/2012/1320/article/3/d/iii)
+[^c-8c2ade2828ae29922b05a3c8498d2944]: Textual amendment: Ss. 52A, 52B inserted (18.6.2012 for E.W.S. except for the insertion of s. 52B(4)) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 3 para. 19(1)](https://www.legislation.gov.uk/ukpga/2003/44/schedule/3/paragraph/19/1); [S.I. 2012/1320](https://www.legislation.gov.uk/uksi/2012/1320), [art. 3(d)(iii)](https://www.legislation.gov.uk/uksi/2012/1320/article/3/d/iii)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 98. Restriction on reports[^key-7feabaa1a644189fbe228781b3b84845]
+## 98. Restriction on reports[^c-7feabaa1a644189fbe228781b3b84845]
 
 *Extent: N.I.*
 
@@ -44,4 +44,4 @@ the person who manages the appropriate voluntary organisation is also guilty of 
 
 ## Annotations
 
-[^key-7feabaa1a644189fbe228781b3b84845]: Commencement: S. 98 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-7feabaa1a644189fbe228781b3b84845]: Commencement: S. 98 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

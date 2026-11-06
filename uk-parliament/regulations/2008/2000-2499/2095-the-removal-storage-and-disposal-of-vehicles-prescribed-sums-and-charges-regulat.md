@@ -48,19 +48,19 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 In accordance with section 134(2) of the Road Traffic Regulation Act 1984, the Secretary of State has consulted with representative organisations as she thinks fit.
 
-## 1. Citation, commencement and extent[^key-cbb16061b1fa0157ebc91fb79299d74a]
+## 1. Citation, commencement and extent[^c-cbb16061b1fa0157ebc91fb79299d74a]
 
 (1) These Regulations may be cited as the Removal, Storage and Disposal of Vehicles (Prescribed Sums and Charges) Regulations 2008 and shall come into force on 1st October 2008.
 
 (2) These Regulations extend to England and Wales.
 
-## 2. Revocation and transitional provisions[^key-23d319394be6294a307df436f697a2bc]
+## 2. Revocation and transitional provisions[^c-23d319394be6294a307df436f697a2bc]
 
 (1) Subject to paragraph (2), the Removal, Storage and Disposal of Vehicles (Prescribed Sums and Charges etc) Regulations 1989 [^f00003] are revoked.
 
 (2) In relation to vehicles removed prior to 1 October 2008, nothing in these Regulations shall have effect and the provisions mentioned in paragraph (1) shall continue to have effect.
 
-## 3. Interpretation[^key-980588ca37fc47ca6b021b99c49c7e5f]
+## 3. Interpretation[^c-980588ca37fc47ca6b021b99c49c7e5f]
 
 (1) In these Regulations—
 
@@ -88,11 +88,11 @@ In accordance with section 134(2) of the Road Traffic Regulation Act 1984, the S
 
 (4) For the purposes of regulations 4, 5 and 6 the MAM of a vehicle includes the MAM of any trailer attached to that vehicle.
 
-## 4. Charges in relation to the removal of vehicles[^key-3fa778351ff13a9ff9e7efbc9ed65c2b]
+## 4. Charges in relation to the removal of vehicles[^c-3fa778351ff13a9ff9e7efbc9ed65c2b]
 
 The prescribed sum in respect of removal, for the purposes of sections 101A(3), 101A(4) and 102(2)(a) of the 1984 Act and sections 4(5) , 4(6) and 5(1)(a) of the 1978 Act, in respect of vehicles set out in column 1 of Table 1 shall be the sum specified in relation to those vehicles in columns 2 to 5 of that Table, the particular sum to be determined by reference to the MAM of the vehicle as described in row 1 of that Table and, for vehicles exceeding 7.5 tonnes MAM and not falling within row 2, whether the vehicle is laden or unladen.
 
-Table 1[^key-074ebd4ee905b85e719ec783385844b8]
+Table 1[^c-074ebd4ee905b85e719ec783385844b8]
 
 <table>
 <thead>
@@ -110,24 +110,24 @@ Table 1[^key-074ebd4ee905b85e719ec783385844b8]
 </tbody>
 </table>
 
-## 5. Charges in relation to the storage of vehicles[^key-9cf35d8c62e3af67168270aa97c4c115]
+## 5. Charges in relation to the storage of vehicles[^c-9cf35d8c62e3af67168270aa97c4c115]
 
-The prescribed sum or prescribed scale in respect of storage, for the purposes of sections 101A(3), 101A(4), 102(2)(b) and 102(2ZA)(b)[^key-347bc41ac24ec25b2f3c5a6a55fb1090] of the 1984 Act and sections 4(5), 4(6) and 5(1)(b) of the 1978 Act, for each period of 24 hours or a part thereof during which the vehicle is in the custody of the chief officer of a police force or the local authority or the Secretary of State[^key-7533f117d1ed165dde24ab7ce4a338e8] as the case may be, with regards to vehicles set out in row 1 of Table 2, shall be the sum specified in relation to those vehicles in row 2 of that Table.
+The prescribed sum or prescribed scale in respect of storage, for the purposes of sections 101A(3), 101A(4), 102(2)(b) and 102(2ZA)(b)[^c-347bc41ac24ec25b2f3c5a6a55fb1090] of the 1984 Act and sections 4(5), 4(6) and 5(1)(b) of the 1978 Act, for each period of 24 hours or a part thereof during which the vehicle is in the custody of the chief officer of a police force or the local authority or the Secretary of State[^c-7533f117d1ed165dde24ab7ce4a338e8] as the case may be, with regards to vehicles set out in row 1 of Table 2, shall be the sum specified in relation to those vehicles in row 2 of that Table.
 
-Table 2[^key-dfca57350c2201019c6698b425a601f7]
+Table 2[^c-dfca57350c2201019c6698b425a601f7]
 
 |  | 1 | 2 | 3 | 4 | 5 |
 | --- | --- | --- | --- | --- | --- |
 | 1 | Two wheeled vehicle | Vehicle, not including two wheeled vehicle, equal to or less than 3.5 tonnes MAM | Vehicle exceeding 3.5 tonnes MAM but equal to or less than 7.5 tonnes MAM | Vehicle exceeding 7.5 tonnes MAM but equal to or less than 18 tonnes MAM | Vehicle exceeding 18 tonnes MAM |
 | 2 | £13 | £26 | £32 | £38 | £45 |
 
-## 6. Charges in relation to the disposal of vehicles[^key-d49e670a8f726f3e0115bc4151a1ee45]
+## 6. Charges in relation to the disposal of vehicles[^c-d49e670a8f726f3e0115bc4151a1ee45]
 
 (1) The prescribed sum for determining the charges recoverable for the disposal of vehicles for the purpose of section 4(6) of the 1978 Act in respect of vehicles set out in row 1 of Table 3 shall be the sum specified in relation to those vehicles in row 2 of that Table.
 
-(2) The prescribed manner for determining the charges recoverable for the disposal of vehicles for the purposes of sections 102(2)(c) and 102(2ZA)(c)[^key-8fccfce23f6fddada6a29e21074ab1f7] of the 1984 Act and 5(1)(c) of the 1978 Act in respect of vehicles set out in row 1 of Table 3 shall be by reference to a single sum specified in relation to those vehicles in row 2 of that Table.
+(2) The prescribed manner for determining the charges recoverable for the disposal of vehicles for the purposes of sections 102(2)(c) and 102(2ZA)(c)[^c-8fccfce23f6fddada6a29e21074ab1f7] of the 1984 Act and 5(1)(c) of the 1978 Act in respect of vehicles set out in row 1 of Table 3 shall be by reference to a single sum specified in relation to those vehicles in row 2 of that Table.
 
-Table 3[^key-1fdbf9aea341932a1bf61c295d347116]
+Table 3[^c-1fdbf9aea341932a1bf61c295d347116]
 
 |  | 1 | 2 | 3 | 4 | 5 |
 | --- | --- | --- | --- | --- | --- |
@@ -154,32 +154,32 @@ These Regulations prescribe the charges that apply in respect of the removal, st
 
 [^f00002]: Footnote: [1978 c. 3](https://www.legislation.gov.uk/ukpga/1978/3). Section 4 has been amended by sections 12 and 107 of and Schedule 5 to the Clean Neighbourhoods and Environment Act [2005 (c. 16)](https://www.legislation.gov.uk/ukpga/2005/16), sections 1 and 194 of and Schedules 3 and 34 to the Local Government, Planning and Land Act [1980 (c. 65)](https://www.legislation.gov.uk/ukpga/1980/65) and [S.I. 1985/1884](https://www.legislation.gov.uk/uksi/1985/1884). Section 5 has been amended by [S.I. 1985/1884](https://www.legislation.gov.uk/uksi/1985/1884) and sections 9 and 102 of and paragraph 4 of Schedule 6 to the Local Government Act [1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51). There are no relevant amendments to sections 10 or 11.
 
-[^key-cbb16061b1fa0157ebc91fb79299d74a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2008/2095/regulation/1) in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2095/regulation/1/1)
+[^c-cbb16061b1fa0157ebc91fb79299d74a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2008/2095/regulation/1) in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2095/regulation/1/1)
 
-[^key-23d319394be6294a307df436f697a2bc]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2008/2095/regulation/2) in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2095/regulation/1/1)
+[^c-23d319394be6294a307df436f697a2bc]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2008/2095/regulation/2) in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2095/regulation/1/1)
 
 [^f00003]: Footnote: [S.I. 1989/744](https://www.legislation.gov.uk/uksi/1989/744) as amended by [S.I. 1993/1415](https://www.legislation.gov.uk/uksi/1993/1415), [S.I. 1993/550](https://www.legislation.gov.uk/uksi/1993/550), [S.I. 1991/336](https://www.legislation.gov.uk/uksi/1991/336). There are other amendments but these relate to Scotland only.
 
-[^key-980588ca37fc47ca6b021b99c49c7e5f]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2008/2095/regulation/3) in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2095/regulation/1/1)
+[^c-980588ca37fc47ca6b021b99c49c7e5f]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2008/2095/regulation/3) in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2095/regulation/1/1)
 
 [^f00004]: Footnote: [S.I. 1986/1078](https://www.legislation.gov.uk/uksi/1986/1078), to which there are amendments not relevant to these Regulations.
 
 [^f00005]: Footnote: [S.I. 1999/2864](https://www.legislation.gov.uk/uksi/1999/2864), to which there are amendments not relevant to these Regulations.
 
-[^key-3fa778351ff13a9ff9e7efbc9ed65c2b]: Commencement: Reg. 4 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2095/regulation/1/1)
+[^c-3fa778351ff13a9ff9e7efbc9ed65c2b]: Commencement: Reg. 4 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2095/regulation/1/1)
 
-[^key-074ebd4ee905b85e719ec783385844b8]: Textual amendment: Reg. 4 Table 1 substituted (6.4.2023) by [The Removal, Storage and Disposal of Motor Vehicles (Amendment) Regulations 2023 (S.I. 2023/331)](https://www.legislation.gov.uk/uksi/2023/331), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/331/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2023/331/regulation/16), [Sch.](https://www.legislation.gov.uk/uksi/2023/331/schedule) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/331/regulation/1/2))
+[^c-074ebd4ee905b85e719ec783385844b8]: Textual amendment: Reg. 4 Table 1 substituted (6.4.2023) by [The Removal, Storage and Disposal of Motor Vehicles (Amendment) Regulations 2023 (S.I. 2023/331)](https://www.legislation.gov.uk/uksi/2023/331), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/331/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2023/331/regulation/16), [Sch.](https://www.legislation.gov.uk/uksi/2023/331/schedule) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/331/regulation/1/2))
 
-[^key-9cf35d8c62e3af67168270aa97c4c115]: Commencement: Reg. 5 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2095/regulation/1/1)
+[^c-9cf35d8c62e3af67168270aa97c4c115]: Commencement: Reg. 5 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2095/regulation/1/1)
 
-[^key-347bc41ac24ec25b2f3c5a6a55fb1090]: Textual amendment: Words in reg. 5 substituted (E.) (17.12.2008) by [The Removal, Storage and Disposal of Vehicles (Prescribed Sums and Charges) (Amendment) (England) Regulations 2008 (S.I. 2008/3013)](https://www.legislation.gov.uk/uksi/2008/3013), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/3013/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2008/3013/regulation/3/a)
+[^c-347bc41ac24ec25b2f3c5a6a55fb1090]: Textual amendment: Words in reg. 5 substituted (E.) (17.12.2008) by [The Removal, Storage and Disposal of Vehicles (Prescribed Sums and Charges) (Amendment) (England) Regulations 2008 (S.I. 2008/3013)](https://www.legislation.gov.uk/uksi/2008/3013), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/3013/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2008/3013/regulation/3/a)
 
-[^key-7533f117d1ed165dde24ab7ce4a338e8]: Textual amendment: Words in reg. 5 inserted (E.) (17.12.2008) by [The Removal, Storage and Disposal of Vehicles (Prescribed Sums and Charges) (Amendment) (England) Regulations 2008 (S.I. 2008/3013)](https://www.legislation.gov.uk/uksi/2008/3013), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/3013/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2008/3013/regulation/3/b)
+[^c-7533f117d1ed165dde24ab7ce4a338e8]: Textual amendment: Words in reg. 5 inserted (E.) (17.12.2008) by [The Removal, Storage and Disposal of Vehicles (Prescribed Sums and Charges) (Amendment) (England) Regulations 2008 (S.I. 2008/3013)](https://www.legislation.gov.uk/uksi/2008/3013), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/3013/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2008/3013/regulation/3/b)
 
-[^key-dfca57350c2201019c6698b425a601f7]: Textual amendment: Reg. 5 Table 2 substituted (6.4.2023) by [The Removal, Storage and Disposal of Motor Vehicles (Amendment) Regulations 2023 (S.I. 2023/331)](https://www.legislation.gov.uk/uksi/2023/331), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/331/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2023/331/regulation/17), [Sch.](https://www.legislation.gov.uk/uksi/2023/331/schedule) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/331/regulation/1/2))
+[^c-dfca57350c2201019c6698b425a601f7]: Textual amendment: Reg. 5 Table 2 substituted (6.4.2023) by [The Removal, Storage and Disposal of Motor Vehicles (Amendment) Regulations 2023 (S.I. 2023/331)](https://www.legislation.gov.uk/uksi/2023/331), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/331/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2023/331/regulation/17), [Sch.](https://www.legislation.gov.uk/uksi/2023/331/schedule) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/331/regulation/1/2))
 
-[^key-d49e670a8f726f3e0115bc4151a1ee45]: Commencement: Reg. 6 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2095/regulation/1/1)
+[^c-d49e670a8f726f3e0115bc4151a1ee45]: Commencement: Reg. 6 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2095/regulation/1/1)
 
-[^key-8fccfce23f6fddada6a29e21074ab1f7]: Textual amendment: Words in reg. 6(2) inserted (E.) (17.12.2008) by [The Removal, Storage and Disposal of Vehicles (Prescribed Sums and Charges) (Amendment) (England) Regulations 2008 (S.I. 2008/3013)](https://www.legislation.gov.uk/uksi/2008/3013), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/3013/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2008/3013/regulation/4)
+[^c-8fccfce23f6fddada6a29e21074ab1f7]: Textual amendment: Words in reg. 6(2) inserted (E.) (17.12.2008) by [The Removal, Storage and Disposal of Vehicles (Prescribed Sums and Charges) (Amendment) (England) Regulations 2008 (S.I. 2008/3013)](https://www.legislation.gov.uk/uksi/2008/3013), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/3013/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2008/3013/regulation/4)
 
-[^key-1fdbf9aea341932a1bf61c295d347116]: Textual amendment: Reg. 6 Table 3 substituted (6.4.2023) by [The Removal, Storage and Disposal of Motor Vehicles (Amendment) Regulations 2023 (S.I. 2023/331)](https://www.legislation.gov.uk/uksi/2023/331), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/331/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2023/331/regulation/18), [Sch.](https://www.legislation.gov.uk/uksi/2023/331/schedule) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/331/regulation/1/2))
+[^c-1fdbf9aea341932a1bf61c295d347116]: Textual amendment: Reg. 6 Table 3 substituted (6.4.2023) by [The Removal, Storage and Disposal of Motor Vehicles (Amendment) Regulations 2023 (S.I. 2023/331)](https://www.legislation.gov.uk/uksi/2023/331), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/331/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2023/331/regulation/18), [Sch.](https://www.legislation.gov.uk/uksi/2023/331/schedule) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/331/regulation/1/2))

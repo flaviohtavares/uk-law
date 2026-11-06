@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (49).** Text as at 2024-02-21. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/14
 
-## 44. Child support: cases of error[^key-2087088013d787e9855de5e8290ada3b][^key-e265f58361f83f7fed849c6feaa05e1f]
+## 44. Child support: cases of error[^c-2087088013d787e9855de5e8290ada3b][^c-e265f58361f83f7fed849c6feaa05e1f]
 
 After section 28ZB of the Child Support Act there shall be inserted the following sections—
 
@@ -53,7 +53,7 @@ After section 28ZB of the Child Support Act there shall be inserted the followin
 >
 > - “adjudicating authority” means the Secretary of State, or a child support officer;
 > - “the commencement date” means the date of the coming into force of section 44 of the Social Security Act 1998; and
-> - “the court” means the High Court, the Court of Appeal, the Court of Session, the High Court or Court of Appeal in Northern Ireland, the House of Lords or the Court of Justice of the European Union[^key-3260b88530cba6bf6b15697bc9ac7943].
+> - “the court” means the High Court, the Court of Appeal, the Court of Session, the High Court or Court of Appeal in Northern Ireland, the House of Lords or the Court of Justice of the European Union[^c-3260b88530cba6bf6b15697bc9ac7943].
 >
 > (7) The date of the relevant determination shall, in prescribed cases, be determined for the purposes of this section in accordance with any regulations made for that purpose.
 >
@@ -75,8 +75,8 @@ After section 28ZB of the Child Support Act there shall be inserted the followin
 
 ## Annotations
 
-[^key-2087088013d787e9855de5e8290ada3b]: Commencement: S. 44 in force at 4.3.1999 for specified purposes by [S.I. 1999/528](https://www.legislation.gov.uk/uksi/1999/528), [art. 2(a)](https://www.legislation.gov.uk/uksi/1999/528/article/2/a), [Sch.](https://www.legislation.gov.uk/uksi/1999/528/schedule)
+[^c-2087088013d787e9855de5e8290ada3b]: Commencement: S. 44 in force at 4.3.1999 for specified purposes by [S.I. 1999/528](https://www.legislation.gov.uk/uksi/1999/528), [art. 2(a)](https://www.legislation.gov.uk/uksi/1999/528/article/2/a), [Sch.](https://www.legislation.gov.uk/uksi/1999/528/schedule)
 
-[^key-e265f58361f83f7fed849c6feaa05e1f]: Commencement: S. 44 in force at 1.6.1999 in so far as not already in force by [S.I. 1999/1510](https://www.legislation.gov.uk/uksi/1999/1510), [art. 2(d)](https://www.legislation.gov.uk/uksi/1999/1510/article/2/d) (with [arts. 48-51](https://www.legislation.gov.uk/uksi/1999/1510/article/48))
+[^c-e265f58361f83f7fed849c6feaa05e1f]: Commencement: S. 44 in force at 1.6.1999 in so far as not already in force by [S.I. 1999/1510](https://www.legislation.gov.uk/uksi/1999/1510), [art. 2(d)](https://www.legislation.gov.uk/uksi/1999/1510/article/2/d) (with [arts. 48-51](https://www.legislation.gov.uk/uksi/1999/1510/article/48))
 
-[^key-3260b88530cba6bf6b15697bc9ac7943]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [4](https://www.legislation.gov.uk/uksi/2011/1043/article/4)
+[^c-3260b88530cba6bf6b15697bc9ac7943]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [4](https://www.legislation.gov.uk/uksi/2011/1043/article/4)

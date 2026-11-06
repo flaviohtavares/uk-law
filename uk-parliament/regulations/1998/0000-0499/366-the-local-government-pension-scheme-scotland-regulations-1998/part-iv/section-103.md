@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 103. Rights of representation[^key-d9aaf7711555b460c4ada1ff868eedac]
+## 103. Rights of representation[^c-d9aaf7711555b460c4ada1ff868eedac]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d9aaf7711555b460c4ada1ff868eedac]: Commencement: Reg. 103 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-d9aaf7711555b460c4ada1ff868eedac]: Commencement: Reg. 103 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

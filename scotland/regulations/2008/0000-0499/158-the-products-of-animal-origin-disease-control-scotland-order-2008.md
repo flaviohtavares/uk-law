@@ -58,15 +58,15 @@ In this Order–
 
 - “**the Act**” means the Animal Heath Act 1981;
 - “**disease legislation**” means any of the legislation listed in Schedule 1;
-- “domestic market” is the market for the sale of poultry meat in England, Scotland, Wales and Northern Ireland;[^key-427543adfca2ed05087df6f77a6379ca]
+- “domestic market” is the market for the sale of poultry meat in England, Scotland, Wales and Northern Ireland;[^c-427543adfca2ed05087df6f77a6379ca]
 - “**establishment**” means a slaughterhouse or a game handling establishment;
 - “**game handling establishment**” means an establishment where the preparation of wild game carcases takes place;
 - “**meat**” means any part of the carcase of any animal or poultry intended for human consumption, and includes a product resulting from the processing of meat from that animal or poultry or a product resulting from the further processing of such processed meat product;
 - “**occupier**” means, in relation to any premises or establishment, the person in charge of those premises or that establishment;
 - “**premises**” means any land, building, plant or place in business use, other than a slaughterhouse or game handling establishment;
-- “Regulation No. 853/2004” means Regulation[^key-63a7488585957a008210a7d0f9288b8d] [(EC) No 853/2004](https://www.legislation.gov.uk/eur/2004/0853) of the European Parliament and of the Council of 29 April 2004 laying down specific hygiene rules for food of animal origin
-- [^key-03f84e3e1dba7356cbafba9c3a93e465]...
-- “seropositive pig” means a pig that is not a restricted animal but is required by the Scottish Ministers to be slaughtered in a slaughterhouse due to antibodies against swine vesicular disease virus being identified in that pig;[^key-dae158fa03614a5469c1df2552a97b56]
+- “Regulation No. 853/2004” means Regulation[^c-63a7488585957a008210a7d0f9288b8d] [(EC) No 853/2004](https://www.legislation.gov.uk/eur/2004/0853) of the European Parliament and of the Council of 29 April 2004 laying down specific hygiene rules for food of animal origin
+- [^c-03f84e3e1dba7356cbafba9c3a93e465]...
+- “seropositive pig” means a pig that is not a restricted animal but is required by the Scottish Ministers to be slaughtered in a slaughterhouse due to antibodies against swine vesicular disease virus being identified in that pig;[^c-dae158fa03614a5469c1df2552a97b56]
 - “seropositive pigmeat” is meat derived from a seropositive pig other than–
   - (a) restricted meat; and
   - (b) meat treated in accordance with Schedule 2 at a designated treatment centre;
@@ -131,13 +131,13 @@ In this Order–
 
 (8) A “surveillance zone” is an area of this name declared by the Scottish Ministers under disease legislation following confirmation of a disease.
 
-(9)[^key-aeec5041829c5d0a8ebcdda399be50f3] Subject to paragraph (10), “restricted meat” is meat, including meat that has come into contact with meat—
+(9)[^c-aeec5041829c5d0a8ebcdda399be50f3] Subject to paragraph (10), “restricted meat” is meat, including meat that has come into contact with meat—
 
 - (a) produced on or after the date that the protection zone or surveillance zone was declared, or an earlier date where the Scottish Ministers specify such a date for the purpose of disease control;
 - (b) from a restricted animal or restricted poultry that has come from an infected area, a protection zone or a surveillance zone; and
 - (c) from pigs that have been vaccinated to protect them from classical swine fever for 6 months (or any other specified period).
 
-(10)[^key-53ea4edc7795f1b8999ba017f986a51c] Where restricted meat has been treated in accordance with Schedule 2 at a treatment centre it shall cease to be regarded as restricted meat.
+(10)[^c-53ea4edc7795f1b8999ba017f986a51c] Where restricted meat has been treated in accordance with Schedule 2 at a treatment centre it shall cease to be regarded as restricted meat.
 
 ### 5. Notices
 
@@ -176,7 +176,7 @@ Notices under this Order–
 
 (3) Any person in possession of meat from a restricted animal or restricted poultry originating from infected premises on or after the relevant date, or meat that has come into contact with such meat, must destroy that meat without delay.
 
-(4)[^key-f469042ad3a161f13df05c4118f6827a] In this article “relevant date” means the date the suspect or infected premises became subject to disease restrictions, or an earlier date where the Scottish Ministers specify such a date for disease control purposes.
+(4)[^c-f469042ad3a161f13df05c4118f6827a] In this article “relevant date” means the date the suspect or infected premises became subject to disease restrictions, or an earlier date where the Scottish Ministers specify such a date for disease control purposes.
 
 ### 9. Tracing of meat from infected premises
 
@@ -190,23 +190,23 @@ Any person who has owned or been in possession of meat referred to in article 8(
 (1) A person must not–
 
 - (a) supply restricted meat; or
-- (b) export restricted meat ; or[^key-9098033710d2ef5add7a82a2f837d49e]
+- (b) export restricted meat ; or[^c-9098033710d2ef5add7a82a2f837d49e]
 - (c) export seropositive pigmeat
 
-(2)[^key-820b5228a263d2222b8e394028ce7842] The prohibition in paragraph (1)(a) does not apply to restricted meat from restricted poultry intended for supply on the domestic market.
+(2)[^c-820b5228a263d2222b8e394028ce7842] The prohibition in paragraph (1)(a) does not apply to restricted meat from restricted poultry intended for supply on the domestic market.
 
-(3)[^key-4b5c559fd14dcdfae0fd59a73f51fcd2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-4b5c559fd14dcdfae0fd59a73f51fcd2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 11. Slaughterhouses
 
-(1) The occupier of a slaughterhouse may only slaughter restricted animals , seropositive pigs[^key-fbe66b70d41833c1aeade31ffd10bf67] or restricted poultry if the slaughterhouse is designated.
+(1) The occupier of a slaughterhouse may only slaughter restricted animals , seropositive pigs[^c-fbe66b70d41833c1aeade31ffd10bf67] or restricted poultry if the slaughterhouse is designated.
 
 (2) The occupier of a slaughterhouse must ensure that–
 
 - (a) restricted animals are kept separate from other animals;
 - (b) restricted animals are slaughtered separately from other animals;
 - (c) restricted poultry are kept separate from other poultry;
-- (d) restricted poultry are slaughtered separately from other poultry ;[^key-3ba3cbb4ec7a93b182e78934c23dae4c]
+- (d) restricted poultry are slaughtered separately from other poultry ;[^c-3ba3cbb4ec7a93b182e78934c23dae4c]
 - (e) seropositive pigs are kept separately from other pigs; and
 - (f) seropositive pigs are slaughtered separately from other pigs.
 
@@ -216,7 +216,7 @@ Any person who has owned or been in possession of meat referred to in article 8(
 
 (5) The occupier of a slaughterhouse where disease is suspected or has been confirmed must detain all meat in the slaughterhouse until a veterinary inspector notifies that occupier that the inspector is satisfied that detention of all or some of that meat is no longer necessary to reduce the risk of transmission of disease.
 
-(6)[^key-f19ca3bfc4658e0bfd8835cd91e77597] The occupier of a slaughterhouse who has not complied with the requirements of paragraph (2)(e) or (f) must, on being given notice by a veterinary inspector, deal with those other pigs as seropositive pigs.
+(6)[^c-f19ca3bfc4658e0bfd8835cd91e77597] The occupier of a slaughterhouse who has not complied with the requirements of paragraph (2)(e) or (f) must, on being given notice by a veterinary inspector, deal with those other pigs as seropositive pigs.
 
 (7) The occupier of a slaughterhouse may only receive restricted meat if it is a designated slaughterhouse.
 
@@ -228,15 +228,15 @@ Any person who has owned or been in possession of meat referred to in article 8(
 
 ### 13. Receipt and possession of restricted meat
 
-(1)[^key-7577abf154eb11e390ca5da2425cbabe] The occupier of premises may only receive restricted meat if those premises are designated.
+(1)[^c-7577abf154eb11e390ca5da2425cbabe] The occupier of premises may only receive restricted meat if those premises are designated.
 
 (2) Any person in possession of restricted meat must keep it separate from other meat.
 
-(3)[^key-93415f0faa29863a9d82e4c581c92875] Paragraph (1) does not apply when the restricted meat is from restricted poultry intended only for supply on the domestic market.
+(3)[^c-93415f0faa29863a9d82e4c581c92875] Paragraph (1) does not apply when the restricted meat is from restricted poultry intended only for supply on the domestic market.
 
 ### 14. Marking of meat
 
-(1) The occupier of an establishment must ensure that restricted meat or seropositive pigmeat[^key-e7ca992e8fe12b78c112cc35c9d3b449] is marked in accordance with Schedule 3.
+(1) The occupier of an establishment must ensure that restricted meat or seropositive pigmeat[^c-e7ca992e8fe12b78c112cc35c9d3b449] is marked in accordance with Schedule 3.
 
 (2) A person must not be in possession or control of restricted meat or seropositive pigmeat unless it is marked in accordance with Schedule 3.
 
@@ -244,7 +244,7 @@ Any person who has owned or been in possession of meat referred to in article 8(
 
 (4) Any person who removes a mark applied under this article, other than a person treating meat at a treatment centre with a treatment listed in Schedule 2, must reapply the mark, with the appropriate plant approval number, after cutting, preparing, processing, packing or treatment of the meat.
 
-### 15. Movement of restricted meat[^key-139efa67b2c76513b0639278350cc536]
+### 15. Movement of restricted meat[^c-139efa67b2c76513b0639278350cc536]
 
 (1) No person may transport or arrange for the transport of restricted meat to premises or an establishment unless those premises are, or that establishment is, designated.
 
@@ -252,21 +252,21 @@ Any person who has owned or been in possession of meat referred to in article 8(
 
 ### 16. Record keeping
 
-(1) The occupier of a slaughterhouse where a restricted animal , seropositive pig[^key-abeb787f294e02f70b3e781a708d6109] or restricted poultry is slaughtered must make records of the following–
+(1) The occupier of a slaughterhouse where a restricted animal , seropositive pig[^c-abeb787f294e02f70b3e781a708d6109] or restricted poultry is slaughtered must make records of the following–
 
-- (a) the number and species of restricted animals , seropositive pigs[^key-0dbec11e2a0838b9bdbe48fa62e6f971] or restricted poultry slaughtered;
+- (a) the number and species of restricted animals , seropositive pigs[^c-0dbec11e2a0838b9bdbe48fa62e6f971] or restricted poultry slaughtered;
 - (b) the date of such slaughter;
 - (c) the disease which caused the animals or poultry to be subject to restrictions under the disease legislation.
 
-(2) Any person who is in possession of restricted meat or seropositive pigmeat[^key-eeb4f32f554c9d83f5e23a52c25d9108] must make records of the following–
+(2) Any person who is in possession of restricted meat or seropositive pigmeat[^c-eeb4f32f554c9d83f5e23a52c25d9108] must make records of the following–
 
-- (a) the quantity of such[^key-b24aac543e17ed423ae0fc6899b119b3] meat handled;
-- (b) the disease which caused the meat to be subject to restrictions under such[^key-32f2f201ebb4444a7f4de7f2a34c02cd] disease legislation;
-- (c) the quantity of such[^key-a77aca799a1485f49513ba027c42b65d] meat placed into and removed from cold storage;
+- (a) the quantity of such[^c-b24aac543e17ed423ae0fc6899b119b3] meat handled;
+- (b) the disease which caused the meat to be subject to restrictions under such[^c-32f2f201ebb4444a7f4de7f2a34c02cd] disease legislation;
+- (c) the quantity of such[^c-a77aca799a1485f49513ba027c42b65d] meat placed into and removed from cold storage;
 - (d) the date of such movement into or out of cold storage;
-- (e)[^key-97d6d2405ff189b52bb812e67be6387a] the quantity of such meat that is no longer intended for human consumption.
+- (e)[^c-97d6d2405ff189b52bb812e67be6387a] the quantity of such meat that is no longer intended for human consumption.
 
-(2A)[^key-3d2bf5fa4c39ac18bddc2f0286b04e5e] Paragraph (2) does not apply to any wholesale distributor, retail distributor, retailer or consumer when–
+(2A)[^c-3d2bf5fa4c39ac18bddc2f0286b04e5e] Paragraph (2) does not apply to any wholesale distributor, retail distributor, retailer or consumer when–
 
 - (a) the restricted meat is from restricted poultry intended only for supply on the domestic market; or
 - (b) the meat is seropositive pigmeat.
@@ -315,8 +315,8 @@ Any person who has owned or been in possession of meat referred to in article 8(
 
 (14) An inspector who enters any premises, establishment or vehicle may be accompanied by–
 
-- (a) such other persons as that inspector considers necessary; [^key-c20a1309d3139e4b62ffa57ec5ba9d65]...
-- (b)[^key-e3bffab602fdcef987f2fb3090be6528] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) such other persons as that inspector considers necessary; [^c-c20a1309d3139e4b62ffa57ec5ba9d65]...
+- (b)[^c-e3bffab602fdcef987f2fb3090be6528] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (15) An inspector who enters any unoccupied premises or unoccupied establishment must leave them as effectively secured against unauthorised entry as the inspector found them.
 
@@ -374,17 +374,17 @@ Edinburgh
 
 Article 2
 
-**1.** [^key-38cb33d23cf696e5d045fe74d27c14cf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.** [^c-38cb33d23cf696e5d045fe74d27c14cf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-The Diseases of Swine Regulations 2014[^key-f6e5a74d0a50d55a1bf4bf1677374780]
+The Diseases of Swine Regulations 2014[^c-f6e5a74d0a50d55a1bf4bf1677374780]
 
 **2.** The Cattle Plague Order 1928 [^c19219841].
 
-**3.**[^key-38cb33d23cf696e5d045fe74d27c14cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-38cb33d23cf696e5d045fe74d27c14cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **4.** The Movement of Animals (Restrictions) (Scotland) Order 2003 [^c19219861].
 
-**5.**[^key-38cb33d23cf696e5d045fe74d27c14cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-38cb33d23cf696e5d045fe74d27c14cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **6.** The Diseases of Poultry (Scotland) Order 2003 [^c19219881].
 
@@ -409,11 +409,11 @@ Article 14
 
 **1.** Restricted meat from animals must be marked with an identification mark which is–
 
-- (a) a diagonal cross, superimposed on the health mark or identification mark applied under Article 5 of Regulation [(EC) No. 853/2004](https://www.legislation.gov.uk/eur/2004/853) [^key-96ff7b47f7d6ad0aad3169acb5d126a9]...; or
+- (a) a diagonal cross, superimposed on the health mark or identification mark applied under Article 5 of Regulation [(EC) No. 853/2004](https://www.legislation.gov.uk/eur/2004/853) [^c-96ff7b47f7d6ad0aad3169acb5d126a9]...; or
 - (b) a single oval stamp, 6.5 cm wide and 4.5 cm high, upon which the following information is legible–
   - (i) on the upper part, the letters UK;
   - (ii) in the centre, the approval number of the establishment;
-  - (iii)[^key-748d91e40d49d46ca25377d2f5e85027] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii)[^c-748d91e40d49d46ca25377d2f5e85027] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (iv) two straight lines crossing at the centre of the stamp in such a way that the information is not obscured; and
   - (v) information which identifies the veterinarian who inspected the meat.
 
@@ -425,10 +425,10 @@ Article 14
 
 **3.** Restricted meat from poultry must be marked with an identification mark which is–
 
-- (a) [^key-27269046f49dcfcc8191247c55aaed61]...; [^key-39e7ab6f79fa344e6829d99326539d2b]...
+- (a) [^c-27269046f49dcfcc8191247c55aaed61]...; [^c-39e7ab6f79fa344e6829d99326539d2b]...
 - (b) the mark described in the Annex to Commission Decision [2007/118/EC](https://www.legislation.gov.uk/eud/2007/118) laying down detailed rules in relation to an alternative identification mark pursuant to Council Directive [2002/99/EC](https://www.legislation.gov.uk/eudr/2002/99) [^c19219911].
 
-**3A.**[^key-18c25059163acde8272870f8533f1e5f] Seropositive pig meat must contain an identification mark such that the numbering and lettering are set within a circle which is legible, indelible with characters that are decipherable and include the capital letters “UK” followed by the approval number of the establishment.
+**3A.**[^c-18c25059163acde8272870f8533f1e5f] Seropositive pig meat must contain an identification mark such that the numbering and lettering are set within a circle which is legible, indelible with characters that are decipherable and include the capital letters “UK” followed by the approval number of the establishment.
 
 **4.** The identification mark may be applied according to the methods in paragraphs 9, 10, 11 and 13 of section 1(C) of Annex II to Regulation EC No. 853/2004 laying down specific hygiene rules for food of animal origin.
 
@@ -473,65 +473,65 @@ A full regulatory impact assessment of the effect that this Order will have on t
 
 [^c19219811]: Marginal citation: [1981 c. 22](https://www.legislation.gov.uk/ukpga/1981/22) as amended by [S.I. 1992/3293](https://www.legislation.gov.uk/uksi/1992/3293). Powers to make Orders under these sections were originally conferred on “**the Ministers**” as defined in section 86(1) of the 1981 Act. The functions of the Ministers were, insofar as within devolved competence, transferred to the Scottish Ministers by virtue of section 53 of the [Scotland Act 1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-427543adfca2ed05087df6f77a6379ca]: Textual amendment: Words in art. 2 inserted (25.5.2009) by [The Products of Animal Origin (Disease Control) (Scotland) Amendment Order 2009 (S.S.I. 2009/174)](https://www.legislation.gov.uk/ssi/2009/174), [arts. 1](https://www.legislation.gov.uk/ssi/2009/174/article/1), [3(a)](https://www.legislation.gov.uk/ssi/2009/174/article/3/a)
+[^c-427543adfca2ed05087df6f77a6379ca]: Textual amendment: Words in art. 2 inserted (25.5.2009) by [The Products of Animal Origin (Disease Control) (Scotland) Amendment Order 2009 (S.S.I. 2009/174)](https://www.legislation.gov.uk/ssi/2009/174), [arts. 1](https://www.legislation.gov.uk/ssi/2009/174/article/1), [3(a)](https://www.legislation.gov.uk/ssi/2009/174/article/3/a)
 
-[^key-63a7488585957a008210a7d0f9288b8d]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/ssi/2008/158/article/2) inserted (28.3.2019) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/a), [9(2)](https://www.legislation.gov.uk/ssi/2019/71/regulation/9/2)
+[^c-63a7488585957a008210a7d0f9288b8d]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/ssi/2008/158/article/2) inserted (28.3.2019) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/a), [9(2)](https://www.legislation.gov.uk/ssi/2019/71/regulation/9/2)
 
-[^key-03f84e3e1dba7356cbafba9c3a93e465]: Textual amendment: Words in art. 2 omitted (25.5.2009) by virtue of [The Products of Animal Origin (Disease Control) (Scotland) Amendment Order 2009 (S.S.I. 2009/174)](https://www.legislation.gov.uk/ssi/2009/174), [arts. 1](https://www.legislation.gov.uk/ssi/2009/174/article/1), [3(b)](https://www.legislation.gov.uk/ssi/2009/174/article/3/b)
+[^c-03f84e3e1dba7356cbafba9c3a93e465]: Textual amendment: Words in art. 2 omitted (25.5.2009) by virtue of [The Products of Animal Origin (Disease Control) (Scotland) Amendment Order 2009 (S.S.I. 2009/174)](https://www.legislation.gov.uk/ssi/2009/174), [arts. 1](https://www.legislation.gov.uk/ssi/2009/174/article/1), [3(b)](https://www.legislation.gov.uk/ssi/2009/174/article/3/b)
 
-[^key-dae158fa03614a5469c1df2552a97b56]: Textual amendment: Words in art. 2 inserted (25.5.2009) by [The Products of Animal Origin (Disease Control) (Scotland) Amendment Order 2009 (S.S.I. 2009/174)](https://www.legislation.gov.uk/ssi/2009/174), [arts. 1](https://www.legislation.gov.uk/ssi/2009/174/article/1), [3(c)](https://www.legislation.gov.uk/ssi/2009/174/article/3/c)
+[^c-dae158fa03614a5469c1df2552a97b56]: Textual amendment: Words in art. 2 inserted (25.5.2009) by [The Products of Animal Origin (Disease Control) (Scotland) Amendment Order 2009 (S.S.I. 2009/174)](https://www.legislation.gov.uk/ssi/2009/174), [arts. 1](https://www.legislation.gov.uk/ssi/2009/174/article/1), [3(c)](https://www.legislation.gov.uk/ssi/2009/174/article/3/c)
 
 [^c19219821]: Marginal citation: [S.S.I. 2003/354](https://www.legislation.gov.uk/ssi/2003/354).
 
-[^key-aeec5041829c5d0a8ebcdda399be50f3]: Textual amendment: [Art. 4(9)](https://www.legislation.gov.uk/ssi/2008/158/article/4/9) substituted (14.8.2014) by [The Diseases of Swine Regulations 2014 (S.I. 2014/1894)](https://www.legislation.gov.uk/uksi/2014/1894), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/1/1/c), [43(7)(a)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/43/7/a) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/4/1))
+[^c-aeec5041829c5d0a8ebcdda399be50f3]: Textual amendment: [Art. 4(9)](https://www.legislation.gov.uk/ssi/2008/158/article/4/9) substituted (14.8.2014) by [The Diseases of Swine Regulations 2014 (S.I. 2014/1894)](https://www.legislation.gov.uk/uksi/2014/1894), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/1/1/c), [43(7)(a)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/43/7/a) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/4/1))
 
-[^key-53ea4edc7795f1b8999ba017f986a51c]: Textual amendment: Art. 4(9) substituted (25.5.2009) by [The Products of Animal Origin (Disease Control) (Scotland) Amendment Order 2009 (S.S.I. 2009/174)](https://www.legislation.gov.uk/ssi/2009/174), [arts. 1](https://www.legislation.gov.uk/ssi/2009/174/article/1), [4](https://www.legislation.gov.uk/ssi/2009/174/article/4)
+[^c-53ea4edc7795f1b8999ba017f986a51c]: Textual amendment: Art. 4(9) substituted (25.5.2009) by [The Products of Animal Origin (Disease Control) (Scotland) Amendment Order 2009 (S.S.I. 2009/174)](https://www.legislation.gov.uk/ssi/2009/174), [arts. 1](https://www.legislation.gov.uk/ssi/2009/174/article/1), [4](https://www.legislation.gov.uk/ssi/2009/174/article/4)
 
-[^key-f469042ad3a161f13df05c4118f6827a]: Textual amendment: [Art. 8(4)](https://www.legislation.gov.uk/ssi/2008/158/article/8/4) inserted (25.5.2009) by [The Products of Animal Origin (Disease Control) (Scotland) Amendment Order 2009 (S.S.I. 2009/174)](https://www.legislation.gov.uk/ssi/2009/174), [arts. 1](https://www.legislation.gov.uk/ssi/2009/174/article/1), [5](https://www.legislation.gov.uk/ssi/2009/174/article/5)
+[^c-f469042ad3a161f13df05c4118f6827a]: Textual amendment: [Art. 8(4)](https://www.legislation.gov.uk/ssi/2008/158/article/8/4) inserted (25.5.2009) by [The Products of Animal Origin (Disease Control) (Scotland) Amendment Order 2009 (S.S.I. 2009/174)](https://www.legislation.gov.uk/ssi/2009/174), [arts. 1](https://www.legislation.gov.uk/ssi/2009/174/article/1), [5](https://www.legislation.gov.uk/ssi/2009/174/article/5)
 
-[^key-9098033710d2ef5add7a82a2f837d49e]: Textual amendment: Art. 10(1)(c) and word inserted (25.5.2009) by [The Products of Animal Origin (Disease Control) (Scotland) Amendment Order 2009 (S.S.I. 2009/174)](https://www.legislation.gov.uk/ssi/2009/174), [arts. 1](https://www.legislation.gov.uk/ssi/2009/174/article/1), [6(a)](https://www.legislation.gov.uk/ssi/2009/174/article/6/a)
+[^c-9098033710d2ef5add7a82a2f837d49e]: Textual amendment: Art. 10(1)(c) and word inserted (25.5.2009) by [The Products of Animal Origin (Disease Control) (Scotland) Amendment Order 2009 (S.S.I. 2009/174)](https://www.legislation.gov.uk/ssi/2009/174), [arts. 1](https://www.legislation.gov.uk/ssi/2009/174/article/1), [6(a)](https://www.legislation.gov.uk/ssi/2009/174/article/6/a)
 
-[^key-820b5228a263d2222b8e394028ce7842]: Textual amendment: Art. 10(2) substituted (25.5.2009) by [The Products of Animal Origin (Disease Control) (Scotland) Amendment Order 2009 (S.S.I. 2009/174)](https://www.legislation.gov.uk/ssi/2009/174), [arts. 1](https://www.legislation.gov.uk/ssi/2009/174/article/1), [6(b)](https://www.legislation.gov.uk/ssi/2009/174/article/6/b)
+[^c-820b5228a263d2222b8e394028ce7842]: Textual amendment: Art. 10(2) substituted (25.5.2009) by [The Products of Animal Origin (Disease Control) (Scotland) Amendment Order 2009 (S.S.I. 2009/174)](https://www.legislation.gov.uk/ssi/2009/174), [arts. 1](https://www.legislation.gov.uk/ssi/2009/174/article/1), [6(b)](https://www.legislation.gov.uk/ssi/2009/174/article/6/b)
 
-[^key-4b5c559fd14dcdfae0fd59a73f51fcd2]: Textual amendment: Art. 10(3) omitted (25.5.2009) by virtue of [The Products of Animal Origin (Disease Control) (Scotland) Amendment Order 2009 (S.S.I. 2009/174)](https://www.legislation.gov.uk/ssi/2009/174), [arts. 1](https://www.legislation.gov.uk/ssi/2009/174/article/1), [6(c)](https://www.legislation.gov.uk/ssi/2009/174/article/6/c)
+[^c-4b5c559fd14dcdfae0fd59a73f51fcd2]: Textual amendment: Art. 10(3) omitted (25.5.2009) by virtue of [The Products of Animal Origin (Disease Control) (Scotland) Amendment Order 2009 (S.S.I. 2009/174)](https://www.legislation.gov.uk/ssi/2009/174), [arts. 1](https://www.legislation.gov.uk/ssi/2009/174/article/1), [6(c)](https://www.legislation.gov.uk/ssi/2009/174/article/6/c)
 
-[^key-fbe66b70d41833c1aeade31ffd10bf67]: Textual amendment: Words in art. 11(1) inserted (25.5.2009) by [The Products of Animal Origin (Disease Control) (Scotland) Amendment Order 2009 (S.S.I. 2009/174)](https://www.legislation.gov.uk/ssi/2009/174), [arts. 1](https://www.legislation.gov.uk/ssi/2009/174/article/1), [7(a)](https://www.legislation.gov.uk/ssi/2009/174/article/7/a)
+[^c-fbe66b70d41833c1aeade31ffd10bf67]: Textual amendment: Words in art. 11(1) inserted (25.5.2009) by [The Products of Animal Origin (Disease Control) (Scotland) Amendment Order 2009 (S.S.I. 2009/174)](https://www.legislation.gov.uk/ssi/2009/174), [arts. 1](https://www.legislation.gov.uk/ssi/2009/174/article/1), [7(a)](https://www.legislation.gov.uk/ssi/2009/174/article/7/a)
 
-[^key-3ba3cbb4ec7a93b182e78934c23dae4c]: Textual amendment: Art. 11(2)(e)(f) and semicolon inserted (25.5.2009) by [The Products of Animal Origin (Disease Control) (Scotland) Amendment Order 2009 (S.S.I. 2009/174)](https://www.legislation.gov.uk/ssi/2009/174), [arts. 1](https://www.legislation.gov.uk/ssi/2009/174/article/1), [7(b)](https://www.legislation.gov.uk/ssi/2009/174/article/7/b)
+[^c-3ba3cbb4ec7a93b182e78934c23dae4c]: Textual amendment: Art. 11(2)(e)(f) and semicolon inserted (25.5.2009) by [The Products of Animal Origin (Disease Control) (Scotland) Amendment Order 2009 (S.S.I. 2009/174)](https://www.legislation.gov.uk/ssi/2009/174), [arts. 1](https://www.legislation.gov.uk/ssi/2009/174/article/1), [7(b)](https://www.legislation.gov.uk/ssi/2009/174/article/7/b)
 
-[^key-f19ca3bfc4658e0bfd8835cd91e77597]: Textual amendment: Art. 11(6)(7) inserted (25.5.2009) by [The Products of Animal Origin (Disease Control) (Scotland) Amendment Order 2009 (S.S.I. 2009/174)](https://www.legislation.gov.uk/ssi/2009/174), [arts. 1](https://www.legislation.gov.uk/ssi/2009/174/article/1), [7(c)](https://www.legislation.gov.uk/ssi/2009/174/article/7/c)
+[^c-f19ca3bfc4658e0bfd8835cd91e77597]: Textual amendment: Art. 11(6)(7) inserted (25.5.2009) by [The Products of Animal Origin (Disease Control) (Scotland) Amendment Order 2009 (S.S.I. 2009/174)](https://www.legislation.gov.uk/ssi/2009/174), [arts. 1](https://www.legislation.gov.uk/ssi/2009/174/article/1), [7(c)](https://www.legislation.gov.uk/ssi/2009/174/article/7/c)
 
-[^key-7577abf154eb11e390ca5da2425cbabe]: Textual amendment: [Art. 13(1)](https://www.legislation.gov.uk/ssi/2008/158/article/13/1) substituted (25.5.2009) by [The Products of Animal Origin (Disease Control) (Scotland) Amendment Order 2009 (S.S.I. 2009/174)](https://www.legislation.gov.uk/ssi/2009/174), [arts. 1](https://www.legislation.gov.uk/ssi/2009/174/article/1), [8(a)](https://www.legislation.gov.uk/ssi/2009/174/article/8/a)
+[^c-7577abf154eb11e390ca5da2425cbabe]: Textual amendment: [Art. 13(1)](https://www.legislation.gov.uk/ssi/2008/158/article/13/1) substituted (25.5.2009) by [The Products of Animal Origin (Disease Control) (Scotland) Amendment Order 2009 (S.S.I. 2009/174)](https://www.legislation.gov.uk/ssi/2009/174), [arts. 1](https://www.legislation.gov.uk/ssi/2009/174/article/1), [8(a)](https://www.legislation.gov.uk/ssi/2009/174/article/8/a)
 
-[^key-93415f0faa29863a9d82e4c581c92875]: Textual amendment: [Art. 13(3)](https://www.legislation.gov.uk/ssi/2008/158/article/13/3) inserted (25.5.2009) by [The Products of Animal Origin (Disease Control) (Scotland) Amendment Order 2009 (S.S.I. 2009/174)](https://www.legislation.gov.uk/ssi/2009/174), [arts. 1](https://www.legislation.gov.uk/ssi/2009/174/article/1), [8(b)](https://www.legislation.gov.uk/ssi/2009/174/article/8/b)
+[^c-93415f0faa29863a9d82e4c581c92875]: Textual amendment: [Art. 13(3)](https://www.legislation.gov.uk/ssi/2008/158/article/13/3) inserted (25.5.2009) by [The Products of Animal Origin (Disease Control) (Scotland) Amendment Order 2009 (S.S.I. 2009/174)](https://www.legislation.gov.uk/ssi/2009/174), [arts. 1](https://www.legislation.gov.uk/ssi/2009/174/article/1), [8(b)](https://www.legislation.gov.uk/ssi/2009/174/article/8/b)
 
-[^key-e7ca992e8fe12b78c112cc35c9d3b449]: Textual amendment: Words in [art. 14(1)-(3)](https://www.legislation.gov.uk/ssi/2008/158/article/14/1) inserted (25.5.2009) by [The Products of Animal Origin (Disease Control) (Scotland) Amendment Order 2009 (S.S.I. 2009/174)](https://www.legislation.gov.uk/ssi/2009/174), [arts. 1](https://www.legislation.gov.uk/ssi/2009/174/article/1), [9](https://www.legislation.gov.uk/ssi/2009/174/article/9)
+[^c-e7ca992e8fe12b78c112cc35c9d3b449]: Textual amendment: Words in [art. 14(1)-(3)](https://www.legislation.gov.uk/ssi/2008/158/article/14/1) inserted (25.5.2009) by [The Products of Animal Origin (Disease Control) (Scotland) Amendment Order 2009 (S.S.I. 2009/174)](https://www.legislation.gov.uk/ssi/2009/174), [arts. 1](https://www.legislation.gov.uk/ssi/2009/174/article/1), [9](https://www.legislation.gov.uk/ssi/2009/174/article/9)
 
-[^key-139efa67b2c76513b0639278350cc536]: Textual amendment: Art. 15 substituted (25.5.2009) by [The Products of Animal Origin (Disease Control) (Scotland) Amendment Order 2009 (S.S.I. 2009/174)](https://www.legislation.gov.uk/ssi/2009/174), [arts. 1](https://www.legislation.gov.uk/ssi/2009/174/article/1), [10](https://www.legislation.gov.uk/ssi/2009/174/article/10)
+[^c-139efa67b2c76513b0639278350cc536]: Textual amendment: Art. 15 substituted (25.5.2009) by [The Products of Animal Origin (Disease Control) (Scotland) Amendment Order 2009 (S.S.I. 2009/174)](https://www.legislation.gov.uk/ssi/2009/174), [arts. 1](https://www.legislation.gov.uk/ssi/2009/174/article/1), [10](https://www.legislation.gov.uk/ssi/2009/174/article/10)
 
-[^key-abeb787f294e02f70b3e781a708d6109]: Textual amendment: Words in art. 16(1) inserted (25.5.2009) by [The Products of Animal Origin (Disease Control) (Scotland) Amendment Order 2009 (S.S.I. 2009/174)](https://www.legislation.gov.uk/ssi/2009/174), [arts. 1](https://www.legislation.gov.uk/ssi/2009/174/article/1), [11(a)](https://www.legislation.gov.uk/ssi/2009/174/article/11/a)
+[^c-abeb787f294e02f70b3e781a708d6109]: Textual amendment: Words in art. 16(1) inserted (25.5.2009) by [The Products of Animal Origin (Disease Control) (Scotland) Amendment Order 2009 (S.S.I. 2009/174)](https://www.legislation.gov.uk/ssi/2009/174), [arts. 1](https://www.legislation.gov.uk/ssi/2009/174/article/1), [11(a)](https://www.legislation.gov.uk/ssi/2009/174/article/11/a)
 
-[^key-0dbec11e2a0838b9bdbe48fa62e6f971]: Textual amendment: Words in art. 16(1)(a) inserted (25.5.2009) by [The Products of Animal Origin (Disease Control) (Scotland) Amendment Order 2009 (S.S.I. 2009/174)](https://www.legislation.gov.uk/ssi/2009/174), [arts. 1](https://www.legislation.gov.uk/ssi/2009/174/article/1), [11(b)](https://www.legislation.gov.uk/ssi/2009/174/article/11/b)
+[^c-0dbec11e2a0838b9bdbe48fa62e6f971]: Textual amendment: Words in art. 16(1)(a) inserted (25.5.2009) by [The Products of Animal Origin (Disease Control) (Scotland) Amendment Order 2009 (S.S.I. 2009/174)](https://www.legislation.gov.uk/ssi/2009/174), [arts. 1](https://www.legislation.gov.uk/ssi/2009/174/article/1), [11(b)](https://www.legislation.gov.uk/ssi/2009/174/article/11/b)
 
-[^key-eeb4f32f554c9d83f5e23a52c25d9108]: Textual amendment: Words in art. 16(2) inserted (25.5.2009) by [The Products of Animal Origin (Disease Control) (Scotland) Amendment Order 2009 (S.S.I. 2009/174)](https://www.legislation.gov.uk/ssi/2009/174), [arts. 1](https://www.legislation.gov.uk/ssi/2009/174/article/1), [11(c)](https://www.legislation.gov.uk/ssi/2009/174/article/11/c)
+[^c-eeb4f32f554c9d83f5e23a52c25d9108]: Textual amendment: Words in art. 16(2) inserted (25.5.2009) by [The Products of Animal Origin (Disease Control) (Scotland) Amendment Order 2009 (S.S.I. 2009/174)](https://www.legislation.gov.uk/ssi/2009/174), [arts. 1](https://www.legislation.gov.uk/ssi/2009/174/article/1), [11(c)](https://www.legislation.gov.uk/ssi/2009/174/article/11/c)
 
-[^key-b24aac543e17ed423ae0fc6899b119b3]: Textual amendment: Word in art. 16(2)(a) substituted (25.5.2009) by [The Products of Animal Origin (Disease Control) (Scotland) Amendment Order 2009 (S.S.I. 2009/174)](https://www.legislation.gov.uk/ssi/2009/174), [arts. 1](https://www.legislation.gov.uk/ssi/2009/174/article/1), [11(d)](https://www.legislation.gov.uk/ssi/2009/174/article/11/d)
+[^c-b24aac543e17ed423ae0fc6899b119b3]: Textual amendment: Word in art. 16(2)(a) substituted (25.5.2009) by [The Products of Animal Origin (Disease Control) (Scotland) Amendment Order 2009 (S.S.I. 2009/174)](https://www.legislation.gov.uk/ssi/2009/174), [arts. 1](https://www.legislation.gov.uk/ssi/2009/174/article/1), [11(d)](https://www.legislation.gov.uk/ssi/2009/174/article/11/d)
 
-[^key-32f2f201ebb4444a7f4de7f2a34c02cd]: Textual amendment: Word in art. 16(2)(b) substituted (25.5.2009) by [The Products of Animal Origin (Disease Control) (Scotland) Amendment Order 2009 (S.S.I. 2009/174)](https://www.legislation.gov.uk/ssi/2009/174), [arts. 1](https://www.legislation.gov.uk/ssi/2009/174/article/1), [11(e)](https://www.legislation.gov.uk/ssi/2009/174/article/11/e)
+[^c-32f2f201ebb4444a7f4de7f2a34c02cd]: Textual amendment: Word in art. 16(2)(b) substituted (25.5.2009) by [The Products of Animal Origin (Disease Control) (Scotland) Amendment Order 2009 (S.S.I. 2009/174)](https://www.legislation.gov.uk/ssi/2009/174), [arts. 1](https://www.legislation.gov.uk/ssi/2009/174/article/1), [11(e)](https://www.legislation.gov.uk/ssi/2009/174/article/11/e)
 
-[^key-a77aca799a1485f49513ba027c42b65d]: Textual amendment: Word in art. 16(2)(c) substituted (25.5.2009) by [The Products of Animal Origin (Disease Control) (Scotland) Amendment Order 2009 (S.S.I. 2009/174)](https://www.legislation.gov.uk/ssi/2009/174), [arts. 1](https://www.legislation.gov.uk/ssi/2009/174/article/1), [11(d)](https://www.legislation.gov.uk/ssi/2009/174/article/11/d)
+[^c-a77aca799a1485f49513ba027c42b65d]: Textual amendment: Word in art. 16(2)(c) substituted (25.5.2009) by [The Products of Animal Origin (Disease Control) (Scotland) Amendment Order 2009 (S.S.I. 2009/174)](https://www.legislation.gov.uk/ssi/2009/174), [arts. 1](https://www.legislation.gov.uk/ssi/2009/174/article/1), [11(d)](https://www.legislation.gov.uk/ssi/2009/174/article/11/d)
 
-[^key-97d6d2405ff189b52bb812e67be6387a]: Textual amendment: Art. 16(2)(e) substituted (25.5.2009) by [The Products of Animal Origin (Disease Control) (Scotland) Amendment Order 2009 (S.S.I. 2009/174)](https://www.legislation.gov.uk/ssi/2009/174), [arts. 1](https://www.legislation.gov.uk/ssi/2009/174/article/1), [11(f)](https://www.legislation.gov.uk/ssi/2009/174/article/11/f)
+[^c-97d6d2405ff189b52bb812e67be6387a]: Textual amendment: Art. 16(2)(e) substituted (25.5.2009) by [The Products of Animal Origin (Disease Control) (Scotland) Amendment Order 2009 (S.S.I. 2009/174)](https://www.legislation.gov.uk/ssi/2009/174), [arts. 1](https://www.legislation.gov.uk/ssi/2009/174/article/1), [11(f)](https://www.legislation.gov.uk/ssi/2009/174/article/11/f)
 
-[^key-3d2bf5fa4c39ac18bddc2f0286b04e5e]: Textual amendment: Art. 16(2A) inserted (25.5.2009) by [The Products of Animal Origin (Disease Control) (Scotland) Amendment Order 2009 (S.S.I. 2009/174)](https://www.legislation.gov.uk/ssi/2009/174), [arts. 1](https://www.legislation.gov.uk/ssi/2009/174/article/1), [11(g)](https://www.legislation.gov.uk/ssi/2009/174/article/11/g)
+[^c-3d2bf5fa4c39ac18bddc2f0286b04e5e]: Textual amendment: Art. 16(2A) inserted (25.5.2009) by [The Products of Animal Origin (Disease Control) (Scotland) Amendment Order 2009 (S.S.I. 2009/174)](https://www.legislation.gov.uk/ssi/2009/174), [arts. 1](https://www.legislation.gov.uk/ssi/2009/174/article/1), [11(g)](https://www.legislation.gov.uk/ssi/2009/174/article/11/g)
 
-[^key-c20a1309d3139e4b62ffa57ec5ba9d65]: Textual amendment: Word in [art. 17(14)](https://www.legislation.gov.uk/ssi/2008/158/article/17/14) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [24(2)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/24/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c20a1309d3139e4b62ffa57ec5ba9d65]: Textual amendment: Word in [art. 17(14)](https://www.legislation.gov.uk/ssi/2008/158/article/17/14) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [24(2)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/24/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e3bffab602fdcef987f2fb3090be6528]: Textual amendment: [Art. 17(14)(b)](https://www.legislation.gov.uk/ssi/2008/158/article/17/14/b) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [24(2)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/24/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e3bffab602fdcef987f2fb3090be6528]: Textual amendment: [Art. 17(14)(b)](https://www.legislation.gov.uk/ssi/2008/158/article/17/14/b) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [24(2)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/24/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-38cb33d23cf696e5d045fe74d27c14cf]: Textual amendment: Words in sch. 1 omitted (14.8.2014) by virtue of [The Diseases of Swine Regulations 2014 (S.I. 2014/1894)](https://www.legislation.gov.uk/uksi/2014/1894), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/1/1/c), [43(7)(b)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/43/7/b) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/4/1))
+[^c-38cb33d23cf696e5d045fe74d27c14cf]: Textual amendment: Words in sch. 1 omitted (14.8.2014) by virtue of [The Diseases of Swine Regulations 2014 (S.I. 2014/1894)](https://www.legislation.gov.uk/uksi/2014/1894), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/1/1/c), [43(7)(b)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/43/7/b) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/4/1))
 
-[^key-f6e5a74d0a50d55a1bf4bf1677374780]: Textual amendment: Words in sch. 1 para. 1 inserted (14.8.2014) by [The Diseases of Swine Regulations 2014 (S.I. 2014/1894)](https://www.legislation.gov.uk/uksi/2014/1894), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/1/1/c), [43(7)(b)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/43/7/b) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/4/1))
+[^c-f6e5a74d0a50d55a1bf4bf1677374780]: Textual amendment: Words in sch. 1 para. 1 inserted (14.8.2014) by [The Diseases of Swine Regulations 2014 (S.I. 2014/1894)](https://www.legislation.gov.uk/uksi/2014/1894), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/1/1/c), [43(7)(b)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/43/7/b) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/4/1))
 
 [^c19219841]: Marginal citation: SR&O 1928/206.
 
@@ -539,14 +539,14 @@ A full regulatory impact assessment of the effect that this Order will have on t
 
 [^c19219881]: Marginal citation: [S.S.I. 2003/354](https://www.legislation.gov.uk/ssi/2003/354).
 
-[^key-96ff7b47f7d6ad0aad3169acb5d126a9]: Textual amendment: Words in sch. 3 para. 1(a) omitted (28.3.2019) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/a), [9(3)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/9/3/a)
+[^c-96ff7b47f7d6ad0aad3169acb5d126a9]: Textual amendment: Words in sch. 3 para. 1(a) omitted (28.3.2019) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/a), [9(3)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/9/3/a)
 
-[^key-748d91e40d49d46ca25377d2f5e85027]: Textual amendment: [Sch. 3 para. 1(b)(iii)](https://www.legislation.gov.uk/ssi/2008/158/schedule/3/paragraph/1/b/iii) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [24(3)](https://www.legislation.gov.uk/ssi/2019/71/regulation/24/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-748d91e40d49d46ca25377d2f5e85027]: Textual amendment: [Sch. 3 para. 1(b)(iii)](https://www.legislation.gov.uk/ssi/2008/158/schedule/3/paragraph/1/b/iii) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [24(3)](https://www.legislation.gov.uk/ssi/2019/71/regulation/24/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-27269046f49dcfcc8191247c55aaed61]: Textual amendment: [Sch. 3 para. 3(a)](https://www.legislation.gov.uk/ssi/2008/158/schedule/3/paragraph/3/a) omitted (28.3.2019) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/a), [9(3)(b)(i)](https://www.legislation.gov.uk/ssi/2019/71/regulation/9/3/b/i)
+[^c-27269046f49dcfcc8191247c55aaed61]: Textual amendment: [Sch. 3 para. 3(a)](https://www.legislation.gov.uk/ssi/2008/158/schedule/3/paragraph/3/a) omitted (28.3.2019) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/a), [9(3)(b)(i)](https://www.legislation.gov.uk/ssi/2019/71/regulation/9/3/b/i)
 
-[^key-39e7ab6f79fa344e6829d99326539d2b]: Textual amendment: Word in [sch. 3 para. 3](https://www.legislation.gov.uk/ssi/2008/158/schedule/3/paragraph/3) omitted (28.3.2019) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/a), [9(3)(b)(ii)](https://www.legislation.gov.uk/ssi/2019/71/regulation/9/3/b/ii)
+[^c-39e7ab6f79fa344e6829d99326539d2b]: Textual amendment: Word in [sch. 3 para. 3](https://www.legislation.gov.uk/ssi/2008/158/schedule/3/paragraph/3) omitted (28.3.2019) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/a), [9(3)(b)(ii)](https://www.legislation.gov.uk/ssi/2019/71/regulation/9/3/b/ii)
 
 [^c19219911]: Marginal citation: O.J. No. L 51, 20.02.2007, p.19.
 
-[^key-18c25059163acde8272870f8533f1e5f]: Textual amendment: [Sch. 3 para. 3A](https://www.legislation.gov.uk/ssi/2008/158/schedule/3/paragraph/3A) inserted (25.5.2009) by [The Products of Animal Origin (Disease Control) (Scotland) Amendment Order 2009 (S.S.I. 2009/174)](https://www.legislation.gov.uk/ssi/2009/174), [arts. 1](https://www.legislation.gov.uk/ssi/2009/174/article/1), [12](https://www.legislation.gov.uk/ssi/2009/174/article/12)
+[^c-18c25059163acde8272870f8533f1e5f]: Textual amendment: [Sch. 3 para. 3A](https://www.legislation.gov.uk/ssi/2008/158/schedule/3/paragraph/3A) inserted (25.5.2009) by [The Products of Animal Origin (Disease Control) (Scotland) Amendment Order 2009 (S.S.I. 2009/174)](https://www.legislation.gov.uk/ssi/2009/174), [arts. 1](https://www.legislation.gov.uk/ssi/2009/174/article/1), [12](https://www.legislation.gov.uk/ssi/2009/174/article/12)

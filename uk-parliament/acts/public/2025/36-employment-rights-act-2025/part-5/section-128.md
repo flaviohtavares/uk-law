@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 128. Variation and discharge of LME orders[^key-ea2a32794e7252131b303d5963ff4378][^key-31eb051cad59d4290ee9a38806db54d8]
+## 128. Variation and discharge of LME orders[^c-ea2a32794e7252131b303d5963ff4378][^c-31eb051cad59d4290ee9a38806db54d8]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ea2a32794e7252131b303d5963ff4378]: Commencement: S. 128 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-ea2a32794e7252131b303d5963ff4378]: Commencement: S. 128 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-31eb051cad59d4290ee9a38806db54d8]: Commencement: [S. 128](https://www.legislation.gov.uk/ukpga/2025/36/section/128) in force at 7.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(29)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/29)
+[^c-31eb051cad59d4290ee9a38806db54d8]: Commencement: [S. 128](https://www.legislation.gov.uk/ukpga/2025/36/section/128) in force at 7.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(29)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/29)

@@ -46,17 +46,17 @@ Coming into force
 
 The Scottish Ministers make the following Order in exercise of the powers conferred by section 104(3) and (5) of the Housing (Scotland) Act 2014[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation, commencement and interpretation[^key-eadad4b22065002614245fbac009e213]
+## 1. Citation, commencement and interpretation[^c-eadad4b22065002614245fbac009e213]
 
 (1) This Order may be cited as the Housing (Scotland) Act 2014 (Commencement No. 3 and Transitional Provision) Order 2015 and comes into force on 13th July 2015.
 
 (2) In this Order, “the Act” means the Housing (Scotland) Act 2014 and “the 2006 Act” means the Housing (Scotland) Act 2006[^f00002].
 
-## 2. Appointed days[^key-114ae366033183a464a048a59cd311fe]
+## 2. Appointed days[^c-114ae366033183a464a048a59cd311fe]
 
 The day appointed for the coming into force of the provisions of the Act specified in column 1 of the Schedule (the subject-matter of which is described in column 2 of the Schedule) is specified in column 3 of the Schedule.
 
-## 3. Transitional provision[^key-91d9bd98989792a4d0fd6d8fe23a547d]
+## 3. Transitional provision[^c-91d9bd98989792a4d0fd6d8fe23a547d]
 
 (1) Subject to paragraph (2), where a tenancy exists on 1st December 2015—
 
@@ -79,7 +79,7 @@ Edinburgh
 
 24th June 2015
 
-## SCHEDULE[^key-9d542f1188e8e1aca19865d27602615d]
+## SCHEDULE[^c-9d542f1188e8e1aca19865d27602615d]
 
 Article 2
 
@@ -99,7 +99,7 @@ Article 2
 </tbody>
 </table>
 
-[^key-2fe31e3efe351f798fcb37fbda5a4ce6][^key-2fe31e3efe351f798fcb37fbda5a4ce6][^key-2fe31e3efe351f798fcb37fbda5a4ce6]
+[^c-2fe31e3efe351f798fcb37fbda5a4ce6][^c-2fe31e3efe351f798fcb37fbda5a4ce6][^c-2fe31e3efe351f798fcb37fbda5a4ce6]
 
 EXPLANATORY NOTE
 
@@ -156,16 +156,16 @@ Sections 100, 101, 102, 104 and 105 of the 2014 Act came into force on the day t
 
 [^f00001]: Footnote: [2014 asp 14](https://www.legislation.gov.uk/asp/2014/14).
 
-[^key-eadad4b22065002614245fbac009e213]: Commencement: Art. 1 in force at 13.7.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/272/article/1/1)
+[^c-eadad4b22065002614245fbac009e213]: Commencement: Art. 1 in force at 13.7.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/272/article/1/1)
 
 [^f00002]: Footnote: [2006 asp 1](https://www.legislation.gov.uk/asp/2006/1).
 
-[^key-114ae366033183a464a048a59cd311fe]: Commencement: Art. 2 in force at 13.7.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/272/article/1/1)
+[^c-114ae366033183a464a048a59cd311fe]: Commencement: Art. 2 in force at 13.7.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/272/article/1/1)
 
-[^key-91d9bd98989792a4d0fd6d8fe23a547d]: Commencement: Art. 3 in force at 13.7.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/272/article/1/1)
+[^c-91d9bd98989792a4d0fd6d8fe23a547d]: Commencement: Art. 3 in force at 13.7.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/272/article/1/1)
 
 [^f00003]: Footnote: Sections 19A and 19B of the 2006 Act are inserted by section 23 of the Act.
 
-[^key-9d542f1188e8e1aca19865d27602615d]: Commencement: Sch. in force at 13.7.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/272/article/1/1)
+[^c-9d542f1188e8e1aca19865d27602615d]: Commencement: Sch. in force at 13.7.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/272/article/1/1)
 
-[^key-2fe31e3efe351f798fcb37fbda5a4ce6]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2015/272/schedule) omitted (30.11.2015) by virtue of [The Housing (Scotland) Act 2014 (Commencement No. 4 and Amendment) Order 2015 (S.S.I. 2015/349)](https://www.legislation.gov.uk/ssi/2015/349), [arts. 1](https://www.legislation.gov.uk/ssi/2015/349/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2015/349/article/2/2)
+[^c-2fe31e3efe351f798fcb37fbda5a4ce6]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2015/272/schedule) omitted (30.11.2015) by virtue of [The Housing (Scotland) Act 2014 (Commencement No. 4 and Amendment) Order 2015 (S.S.I. 2015/349)](https://www.legislation.gov.uk/ssi/2015/349), [arts. 1](https://www.legislation.gov.uk/ssi/2015/349/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2015/349/article/2/2)

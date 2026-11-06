@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 56. Restrictions on disclosure of protected etc. information[^key-16029f5c3efdc39f121be527cf32a1f8]
+## 56. Restrictions on disclosure of protected etc. information[^c-16029f5c3efdc39f121be527cf32a1f8]
 
 *Extent: N.I.*
 
@@ -46,4 +46,4 @@ may only be disclosed to a person by the agency in pursuance of this group of se
 
 ## Annotations
 
-[^key-16029f5c3efdc39f121be527cf32a1f8]: Commencement: S. 56 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-16029f5c3efdc39f121be527cf32a1f8]: Commencement: S. 56 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

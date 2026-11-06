@@ -47,13 +47,13 @@ Coming into force
 
 In exercise of the powers conferred upon me by section 26 of the Fire Services Act 1947[^f00001], by section 12, as applied by section 16(3), of the Superannuation Act 1972[^f00002], and by section 35(7) and (8) of the Social Security Pensions Act 1975[^f00003], I hereby, with the approval of the Treasury[^f00004] and after consultation with the Central Fire Brigades Advisory Council and the Scottish Central Fire Brigades Advisory Council, make the following Order:
 
-## 1. Citation, commencement and interpretation[^key-478c9f4c759528af9164736e2e8bc7a7]
+## 1. Citation, commencement and interpretation[^c-478c9f4c759528af9164736e2e8bc7a7]
 
 (1) This order may be cited as the Firemen’s Pension Scheme (Amendment) Order 1990 and shall come into force on 1st October 1990.
 
 (2) In this Order “the 1973 Scheme” means the scheme set out in Appendix 2 to the Firemen’s Pension Scheme Order 1973[^f00005].
 
-## 2. Variation of Scheme[^key-f5566bf239c8cdc4ef216dc9317fd1e0]
+## 2. Variation of Scheme[^c-f5566bf239c8cdc4ef216dc9317fd1e0]
 
 (1) The Schedule to this Order has effect for varying the 1973 Scheme.
 
@@ -61,7 +61,7 @@ In exercise of the powers conferred upon me by section 26 of the Fire Services A
 
 (3) A reference in the Schedule to a numbered article or Schedule is a reference to the article or Schedule identified by that number in the 1973 Scheme.
 
-## 3. Elections in respect of protected benefits[^key-baf9c74e285b7c0ed4f2fc6cb8752bfd]
+## 3. Elections in respect of protected benefits[^c-baf9c74e285b7c0ed4f2fc6cb8752bfd]
 
 (1) This article applies to a person—
 
@@ -96,7 +96,7 @@ Article 2
 
 ### PART I — TRANSFER VALUE PROVISIONS
 
-**1.**[^key-87f7cea8e31ea5e3ee686b09aad9cfc0] In article 8 (meaning of expressions) —
+**1.**[^c-87f7cea8e31ea5e3ee686b09aad9cfc0] In article 8 (meaning of expressions) —
 
 - (a) after the definition of “appointed day” insert:
 
@@ -119,7 +119,7 @@ Article 2
 
   .
 
-**2.**[^key-7c37e15b280428c4e7735f3ca9cdbe94] In article 52B (previous service reckonable under current interchange arrangements)—
+**2.**[^c-7c37e15b280428c4e7735f3ca9cdbe94] In article 52B (previous service reckonable under current interchange arrangements)—
 
 - (a) in paragraph (4) for the words after “pensionable service” substitute
 
@@ -146,7 +146,7 @@ Article 2
   > | 40 to 49 | 10 |
   > | 50 or over | 12 |
 
-**3.**[^key-dc18f234239b47de37abbfae9fbb1ab1] In article 71A (payment of transfer values under interchange arrangements) —
+**3.**[^c-dc18f234239b47de37abbfae9fbb1ab1] In article 71A (payment of transfer values under interchange arrangements) —
 
 - (a) in paragraph (1) delete the words “subject to paragraph (3),”;
 - (b) in paragraph (2) for the words “Parts I and III of Schedule 9” substitute “Part 1A of Schedule 9”;
@@ -167,13 +167,13 @@ Article 2
 
   .
 
-**4.**[^key-7b0b1cb2589700b071d1a361bf2c54ca] In Part I of Schedule 9 (transfer values payable by fire authority) —
+**4.**[^c-7b0b1cb2589700b071d1a361bf2c54ca] In Part I of Schedule 9 (transfer values payable by fire authority) —
 
 - (a) in the heading delete the words “or 71A”,
 - (b) in paragraph 1(1) delete the words “or 71A”, and
 - (c) delete paragraph 10.
 
-**5.**[^key-626ec49234f8d1770ee1bc395234e0c8] After Part I of Schedule 9 insert:
+**5.**[^c-626ec49234f8d1770ee1bc395234e0c8] After Part I of Schedule 9 insert:
 
 > **PART 1A — TRANSFER VALUE PAYABLE UNDER ARTICLE 71A**
 >
@@ -221,7 +221,7 @@ Article 2
 
 .
 
-**6.**[^key-733f6588892923cf96fea66526170014] In Part II of Schedule 9 (service reckonable on receipt of transfer value)—
+**6.**[^c-733f6588892923cf96fea66526170014] In Part II of Schedule 9 (service reckonable on receipt of transfer value)—
 
 - (a) in paragraph 1(1) for the words “The period” substitute “Where article 52B(4)(a) applies, the period” and after the words “in accordance with” insert “this paragraph and paragraphs 2, 3 and 4 of”; and
 - (b) after paragraph 4 insert:
@@ -266,38 +266,38 @@ Article 2
 
 ### PART II — OTHER PROVISIONS
 
-**1.**[^key-dc9dc4bb5980cbe4b65bc84e4f594cb7] In article 5 (aggregate contributions), in paragraph (1)(a) for the words “he is entitled” substitute “he is, or was immediately before electing under article 56A(1) not to pay pension contributions, entitled”.
+**1.**[^c-dc9dc4bb5980cbe4b65bc84e4f594cb7] In article 5 (aggregate contributions), in paragraph (1)(a) for the words “he is entitled” substitute “he is, or was immediately before electing under article 56A(1) not to pay pension contributions, entitled”.
 
-**2.**[^key-f573a95a68008318083f84509aadc6f4] In article 8 (meaning of expressions), in paragraph (1) after the definition of “service pension” insert:
+**2.**[^c-f573a95a68008318083f84509aadc6f4] In article 8 (meaning of expressions), in paragraph (1) after the definition of “service pension” insert:
 
 > - “tax year” means the 12 months beginning with 6th April in any year;
 
 .
 
-**3.**[^key-8a039539770c6d3416be258bd6469af2] In article 12 (fireman’s ordinary pension), in paragraph (1) for the words “shall be entitled” substitute “shall, unless immediately before his retirement an election under article 56A(1) not to pay pension contributions had effect, be entitled”.
+**3.**[^c-8a039539770c6d3416be258bd6469af2] In article 12 (fireman’s ordinary pension), in paragraph (1) for the words “shall be entitled” substitute “shall, unless immediately before his retirement an election under article 56A(1) not to pay pension contributions had effect, be entitled”.
 
-**4.**[^key-23fe0a1371c6fc7231ecb75b1e66ba34] In article 13 (short service award) —
+**4.**[^c-23fe0a1371c6fc7231ecb75b1e66ba34] In article 13 (short service award) —
 
 - (a) in paragraphs (1) and (4) for the words “shall be entitled” substitute “shall, unless immediately before his retirement an election under article 56A(1) not to pay pension contributions had effect, be entitled”; and
 - (b) in paragraphs (2) and (4) for the words “5 years'” substitute “2 years'”.
 
-**5.**[^key-8fb9dbbf62148b090d9bd2d11a626adf] In article 14 (ill-health award) —
+**5.**[^c-8fb9dbbf62148b090d9bd2d11a626adf] In article 14 (ill-health award) —
 
 - (a) in paragraph (1) for the words “shall be entitled” substitute “shall, unless immediately before his retirement an election under article 56A(1) not to pay pension contributions had effect, be entitled”; and
 - (b) in paragraph (2)(a) for the words “5 years'” substitute “2 years'”.
 
-**6.**[^key-8f89bccd22ad82b364d269a55dae266d] In article 16 (deferred pension and award where no transfer value and no other award is payable) —
+**6.**[^c-8f89bccd22ad82b364d269a55dae266d] In article 16 (deferred pension and award where no transfer value and no other award is payable) —
 
 - (a) in paragraph (1) after the words “ceased to be a member of a brigade” insert “, or who has elected under article 56A(1) not to pay pension contributions”;
 - (b) in paragraph (2) after the word “brigade” insert “, or, as the case may be, when the election under article 56A(1) takes effect”; and
 - (c) in paragraph (3) after the words “ceased to be a member of a brigade” insert “or has, within 3 months of his last becoming a regular fireman, elected under article 56A(1) not to pay pension contributions”.
 
-**7.**[^key-ddf773fb5dc709337789d642b12d770e] In article 16B (supplementary provisions about deferred pensions) in paragraph (1) —
+**7.**[^c-ddf773fb5dc709337789d642b12d770e] In article 16B (supplementary provisions about deferred pensions) in paragraph (1) —
 
 - (a) for the words “five years”, wherever occurring, substitute “2 years”; and
 - (b) at the end of the proviso insert “nor to the extent, if any, that it comprises a period during which an election under article 56A(1) not to pay pension contributions had effect”.
 
-**8.**[^key-784f4b460d91d81fe0257d29bf00a5d7] In article 18 (cancellation of ill-health and injury pensions) —
+**8.**[^c-784f4b460d91d81fe0257d29bf00a5d7] In article 18 (cancellation of ill-health and injury pensions) —
 
 - (a) after paragraph (1) insert:
 
@@ -319,20 +319,20 @@ Article 2
 - (c) in paragraph (3) after the word “terminated” insert “, or payment of a deferred pension is suspended,”, and after the word “termination”, wherever occurring, insert “or suspension”; and
 - (d) in paragraph (4) after the words “pension is terminated” insert “, or payment of a deferred pension is suspended,”,and for the words “that pension” substitute , “an ill-health pension”.
 
-**9.**[^key-d1b049e5f829fd5361a21175345d23a4] In article 22 (widow’s ordinary pension), in paragraph (1)(a) after the word “fireman” insert “, unless an election under article 56A(1) not to pay pension contributions had effect at the time of his death”.
+**9.**[^c-d1b049e5f829fd5361a21175345d23a4] In article 22 (widow’s ordinary pension), in paragraph (1)(a) after the word “fireman” insert “, unless an election under article 56A(1) not to pay pension contributions had effect at the time of his death”.
 
-**10.**[^key-cf4ebb30498e9b042546b6c0a2cecb22] In article 27 (widow’s award where no other award payable) —
+**10.**[^c-cf4ebb30498e9b042546b6c0a2cecb22] In article 27 (widow’s award where no other award payable) —
 
 - (a) in paragraph (1) after the words “regular fireman” insert “by whom pension contributions have at any time been payable under article 56”; and
 - (b) in paragraph (2) for the words “or 23” substitute “, 23 or 25”.
 
-**11.**[^key-d2f81b4f987681a7107bf23aa22dd6ec] In article 27A (widow’s temporary and requisite benefit pensions), in paragraph (1) after the words “regular fireman” insert “by whom pension contributions have at any time been payable under article 56 and who was”.
+**11.**[^c-d2f81b4f987681a7107bf23aa22dd6ec] In article 27A (widow’s temporary and requisite benefit pensions), in paragraph (1) after the words “regular fireman” insert “by whom pension contributions have at any time been payable under article 56 and who was”.
 
-**12.**[^key-49e22c00266c17ff8582dac5d80af7d4] In article 33 (child’s ordinary allowance), in paragraph (1)(a) after the word “fireman” insert “, unless an election under article 56A(1) not to pay pension contributions had effect at the time of his death”.
+**12.**[^c-49e22c00266c17ff8582dac5d80af7d4] In article 33 (child’s ordinary allowance), in paragraph (1)(a) after the word “fireman” insert “, unless an election under article 56A(1) not to pay pension contributions had effect at the time of his death”.
 
-**13.**[^key-e7f2f254522fbe4fdf990f2a2e0385e2] In article 47 (current service), in paragraph (a) after the words “1st April 1972” insert “, except a period during which pension contributions were not payable under article 56”.
+**13.**[^c-e7f2f254522fbe4fdf990f2a2e0385e2] In article 47 (current service), in paragraph (a) after the words “1st April 1972” insert “, except a period during which pension contributions were not payable under article 56”.
 
-**14.**[^key-0918a8f728696dca05cd88429f7d17b9] In article 55 (pensionable pay and average pensionable pay) —
+**14.**[^c-0918a8f728696dca05cd88429f7d17b9] In article 55 (pensionable pay and average pensionable pay) —
 
 - (a) in the proviso to paragraph (1) —
   - (i) after the words “1st June 1989,” insert “except where regulation 4 of the Retirement Benefits Schemes (Tax Relief on Contributions) (Disapplication of Earnings Cap) Regulations 1990[^f00007] applies”, and
@@ -346,9 +346,9 @@ Article 2
 
   .
 
-**15.**[^key-a80d74e300149ed6ab14e04ad9fd28fc] In article 56 (pension contributions) after the word “shall” insert “, except while an election under article 56A(1) has effect,”.
+**15.**[^c-a80d74e300149ed6ab14e04ad9fd28fc] In article 56 (pension contributions) after the word “shall” insert “, except while an election under article 56A(1) has effect,”.
 
-**16.**[^key-d2ff69229396ec0080ccb2f1d8e65570] After article 56 insert:
+**16.**[^c-d2ff69229396ec0080ccb2f1d8e65570] After article 56 insert:
 
 > **56A. Election not to pay pension contributions**
 >
@@ -396,7 +396,7 @@ Article 2
 
 .
 
-**17.**[^key-9530420cd92e26b95aa74453bfb0e66b] In article 58 (additional and further payments) in paragraph (5) —
+**17.**[^c-9530420cd92e26b95aa74453bfb0e66b] In article 58 (additional and further payments) in paragraph (5) —
 
 - (a) for the words “cease to be payable on retirement” substitute
 
@@ -408,9 +408,9 @@ Article 2
   ; and
 - (b) after the words “Schedule 1” insert “, and if an election made under article 56A(1) is cancelled any contributions that were payable under this article immediately before the election took effect become payable again from the date on which it ceases to have effect”.
 
-**18.**[^key-c72b86eac15e3f60a071ea676ad08ef6] In article 80C (purchase of additional benefits by lump sum payment), in paragraph (1) after the words “serving as a regular fireman” insert “and paying pension contributions under article 56”.
+**18.**[^c-c72b86eac15e3f60a071ea676ad08ef6] In article 80C (purchase of additional benefits by lump sum payment), in paragraph (1) after the words “serving as a regular fireman” insert “and paying pension contributions under article 56”.
 
-**19.**[^key-2d2a85144ad2b6f8fb70eb8e78bf8a78] In article 80D (purchase by periodical contributions) —
+**19.**[^c-2d2a85144ad2b6f8fb70eb8e78bf8a78] In article 80D (purchase by periodical contributions) —
 
 - (a) in paragraph (1) after the words “serving as a regular fireman” insert “and paying pension contributions under article 56”;
 - (b) after paragraph (2)(b) insert:
@@ -431,7 +431,7 @@ Article 2
 
   .
 
-**20.**[^key-f89490f0150019ba80ed20122269eff5] In article 80H (reckoning of additional benefits) —
+**20.**[^c-f89490f0150019ba80ed20122269eff5] In article 80H (reckoning of additional benefits) —
 
 - (a) in paragraph (1) for the words from “save that where” to “article 80G” substitute
 
@@ -450,7 +450,7 @@ Article 2
   - (i) after the words “that election” insert “either”, and
   - (ii) after the words “article 16D” insert “or elects under article 56A(1) not to pay pension contributions”.
 
-**21.**[^key-078895a6944fba48d8a52476d0fccd74] In article 91A (contracting-out) —
+**21.**[^c-078895a6944fba48d8a52476d0fccd74] In article 91A (contracting-out) —
 
 - (a) in paragraph (3) for the words from “a widow” to “birthday, her” substitute “a person entitled to a pension under paragraph (4)(b) or (c) remarries before attaining insured pensionable age, the”;
 - (b) in paragraph (4)(b) for the word “where” substitute “in the case of a man, where”; and
@@ -462,7 +462,7 @@ Article 2
 
   .
 
-**22.**[^key-215eefeaa9eeb3f8dab4da26744a3072] After article 91A insert —
+**22.**[^c-215eefeaa9eeb3f8dab4da26744a3072] After article 91A insert —
 
 > **91AA. Revaluation of guaranteed minimum**
 >
@@ -480,9 +480,9 @@ Article 2
 
 .
 
-**23.**[^key-773651b62afa32b161f08c7f502833c3] In article 96 (compulsory retirement), in paragraph (4) after the words “50 years and” insert “has, or but for an election under article 56A(1) would have,”.
+**23.**[^c-773651b62afa32b161f08c7f502833c3] In article 96 (compulsory retirement), in paragraph (4) after the words “50 years and” insert “has, or but for an election under article 56A(1) would have,”.
 
-**24.**[^key-5a1cfeba72c5921fadca99562e15a9be] In Part V of Schedule 1 (injury awards) —
+**24.**[^c-5a1cfeba72c5921fadca99562e15a9be] In Part V of Schedule 1 (injury awards) —
 
 - (a) in paragraph 2 —
   - (i) for the words “the number of his completed years of pensionable service”, and
@@ -492,20 +492,20 @@ substitute “the number of years of pensionable service he has, or but for an e
 
 - (b) in paragraph 3(1) after the words “qualifying injury” insert “or, where an election under article 56A(1) had effect, by the amount of any other pension which would otherwise have been so calculated”.
 
-**25.**[^key-9ad7e460fc6b95b825ed8d304af59735] In Part VI of Schedule 1 (deferred pension), in paragraph (1)(b) after the words “he would” insert “,or would but for an election under article 56A(1),”.
+**25.**[^c-9ad7e460fc6b95b825ed8d304af59735] In Part VI of Schedule 1 (deferred pension), in paragraph (1)(b) after the words “he would” insert “,or would but for an election under article 56A(1),”.
 
-**26.**[^key-722bbb8060e0494c36e9d542da0fd8a1] In Part IV of Schedule 2 (widow’s accrued pension), in the proviso to paragraph 3 —
+**26.**[^c-722bbb8060e0494c36e9d542da0fd8a1] In Part IV of Schedule 2 (widow’s accrued pension), in the proviso to paragraph 3 —
 
 - (a) after the words “shall not apply” insert “where an election under article 56A(1) had effect at the time of the death, nor shall it apply”; and
 - (b) for the words “five years” substitute “2 years”.
 
-**27.**[^key-97b75ca28b2eab9ee620946f9dd9eb82] In Part III of Schedule 3 (child’s accrued allowance), after paragraph 1 insert:
+**27.**[^c-97b75ca28b2eab9ee620946f9dd9eb82] In Part III of Schedule 3 (child’s accrued allowance), after paragraph 1 insert:
 
 > **1A.** Where an election under article 56A(1) had effect at the time of the death, paragraphs 1(4) and 2(4) of Part I of this Schedule (election for flat-rate allowance) do not apply for the determination under this Part of an accrued allowance.
 
 .
 
-**28.**[^key-53dd10aceccd732fe488c0ddeb104226] In Schedule 10A (modifications to Scheme in its application to widower) delete paragraph 4.
+**28.**[^c-53dd10aceccd732fe488c0ddeb104226] In Schedule 10A (modifications to Scheme in its application to widower) delete paragraph 4.
 
 (This note is not part of the Order)
 
@@ -539,88 +539,88 @@ Section 12 of the Superannuation Act 1972, as applied by section 16(3), enables 
 
 [^f00004]: Footnote: See [S.I. 1981/1670](https://www.legislation.gov.uk/uksi/1981/1670).
 
-[^key-478c9f4c759528af9164736e2e8bc7a7]: Commencement: Art. 1 in force at 1.10.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1990/1841/article/1/1)
+[^c-478c9f4c759528af9164736e2e8bc7a7]: Commencement: Art. 1 in force at 1.10.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1990/1841/article/1/1)
 
 [^f00005]: Footnote: [S.I. 1973/966](https://www.legislation.gov.uk/uksi/1973/966); relevant amendments to the scheme were made by [S.I. 1978/1349](https://www.legislation.gov.uk/uksi/1978/1349), [1980/1615](https://www.legislation.gov.uk/uksi/1980/1615), [1983/1409](https://www.legislation.gov.uk/uksi/1983/1409), [1985/318](https://www.legislation.gov.uk/uksi/1985/318), [1987/1302](https://www.legislation.gov.uk/uksi/1987/1302), [1989/732](https://www.legislation.gov.uk/uksi/1989/732).
 
-[^key-f5566bf239c8cdc4ef216dc9317fd1e0]: Commencement: Art. 2 in force at 1.10.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1990/1841/article/1/1)
+[^c-f5566bf239c8cdc4ef216dc9317fd1e0]: Commencement: Art. 2 in force at 1.10.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1990/1841/article/1/1)
 
-[^key-baf9c74e285b7c0ed4f2fc6cb8752bfd]: Commencement: Art. 3 in force at 1.10.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1990/1841/article/1/1)
+[^c-baf9c74e285b7c0ed4f2fc6cb8752bfd]: Commencement: Art. 3 in force at 1.10.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1990/1841/article/1/1)
 
-[^key-87f7cea8e31ea5e3ee686b09aad9cfc0]: Commencement: Sch. Pt. I para. 1 in force at 1.10.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1990/1841/article/1/1)
+[^c-87f7cea8e31ea5e3ee686b09aad9cfc0]: Commencement: Sch. Pt. I para. 1 in force at 1.10.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1990/1841/article/1/1)
 
 [^f00006]: Footnote: [1975 c. 60](https://www.legislation.gov.uk/ukpga/1975/60); Schedule 1A was inserted by the Social Security Act [1985 (c. 53)](https://www.legislation.gov.uk/ukpga/1985/53), Schedule 1, paragraph 3, and amended by the Social Security Act [1986 (c. 50)](https://www.legislation.gov.uk/ukpga/1986/50), Schedule 10, paragraphs 29 and 30.
 
-[^key-7c37e15b280428c4e7735f3ca9cdbe94]: Commencement: Sch. Pt. I para. 2 in force at 1.10.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1990/1841/article/1/1)
+[^c-7c37e15b280428c4e7735f3ca9cdbe94]: Commencement: Sch. Pt. I para. 2 in force at 1.10.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1990/1841/article/1/1)
 
-[^key-dc18f234239b47de37abbfae9fbb1ab1]: Commencement: Sch. Pt. I para. 3 in force at 1.10.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1990/1841/article/1/1)
+[^c-dc18f234239b47de37abbfae9fbb1ab1]: Commencement: Sch. Pt. I para. 3 in force at 1.10.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1990/1841/article/1/1)
 
-[^key-7b0b1cb2589700b071d1a361bf2c54ca]: Commencement: Sch. Pt. I para. 4 in force at 1.10.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1990/1841/article/1/1)
+[^c-7b0b1cb2589700b071d1a361bf2c54ca]: Commencement: Sch. Pt. I para. 4 in force at 1.10.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1990/1841/article/1/1)
 
-[^key-626ec49234f8d1770ee1bc395234e0c8]: Commencement: Sch. Pt. I para. 5 in force at 1.10.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1990/1841/article/1/1)
+[^c-626ec49234f8d1770ee1bc395234e0c8]: Commencement: Sch. Pt. I para. 5 in force at 1.10.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1990/1841/article/1/1)
 
-[^key-733f6588892923cf96fea66526170014]: Commencement: Sch. Pt. I para. 6 in force at 1.10.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1990/1841/article/1/1)
+[^c-733f6588892923cf96fea66526170014]: Commencement: Sch. Pt. I para. 6 in force at 1.10.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1990/1841/article/1/1)
 
-[^key-dc9dc4bb5980cbe4b65bc84e4f594cb7]: Commencement: Sch. Pt. II para. 1 in force at 1.10.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1990/1841/article/1/1)
+[^c-dc9dc4bb5980cbe4b65bc84e4f594cb7]: Commencement: Sch. Pt. II para. 1 in force at 1.10.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1990/1841/article/1/1)
 
-[^key-f573a95a68008318083f84509aadc6f4]: Commencement: Sch. Pt. II para. 2 in force at 1.10.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1990/1841/article/1/1)
+[^c-f573a95a68008318083f84509aadc6f4]: Commencement: Sch. Pt. II para. 2 in force at 1.10.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1990/1841/article/1/1)
 
-[^key-8a039539770c6d3416be258bd6469af2]: Commencement: Sch. Pt. II para. 3 in force at 1.10.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1990/1841/article/1/1)
+[^c-8a039539770c6d3416be258bd6469af2]: Commencement: Sch. Pt. II para. 3 in force at 1.10.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1990/1841/article/1/1)
 
-[^key-23fe0a1371c6fc7231ecb75b1e66ba34]: Commencement: Sch. Pt. II para. 4 in force at 1.10.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1990/1841/article/1/1)
+[^c-23fe0a1371c6fc7231ecb75b1e66ba34]: Commencement: Sch. Pt. II para. 4 in force at 1.10.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1990/1841/article/1/1)
 
-[^key-8fb9dbbf62148b090d9bd2d11a626adf]: Commencement: Sch. Pt. II para. 5 in force at 1.10.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1990/1841/article/1/1)
+[^c-8fb9dbbf62148b090d9bd2d11a626adf]: Commencement: Sch. Pt. II para. 5 in force at 1.10.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1990/1841/article/1/1)
 
-[^key-8f89bccd22ad82b364d269a55dae266d]: Commencement: Sch. Pt. II para. 6 in force at 1.10.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1990/1841/article/1/1)
+[^c-8f89bccd22ad82b364d269a55dae266d]: Commencement: Sch. Pt. II para. 6 in force at 1.10.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1990/1841/article/1/1)
 
-[^key-ddf773fb5dc709337789d642b12d770e]: Commencement: Sch. para. 7 in force at 1.10.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1990/1841/article/1/1)
+[^c-ddf773fb5dc709337789d642b12d770e]: Commencement: Sch. para. 7 in force at 1.10.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1990/1841/article/1/1)
 
-[^key-784f4b460d91d81fe0257d29bf00a5d7]: Commencement: Sch. para. 8 in force at 1.10.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1990/1841/article/1/1)
+[^c-784f4b460d91d81fe0257d29bf00a5d7]: Commencement: Sch. para. 8 in force at 1.10.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1990/1841/article/1/1)
 
-[^key-d1b049e5f829fd5361a21175345d23a4]: Commencement: Sch. para. 9 in force at 1.10.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1990/1841/article/1/1)
+[^c-d1b049e5f829fd5361a21175345d23a4]: Commencement: Sch. para. 9 in force at 1.10.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1990/1841/article/1/1)
 
-[^key-cf4ebb30498e9b042546b6c0a2cecb22]: Commencement: Sch. para. 10 in force at 1.10.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1990/1841/article/1/1)
+[^c-cf4ebb30498e9b042546b6c0a2cecb22]: Commencement: Sch. para. 10 in force at 1.10.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1990/1841/article/1/1)
 
-[^key-d2f81b4f987681a7107bf23aa22dd6ec]: Commencement: Sch. para. 11 in force at 1.10.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1990/1841/article/1/1)
+[^c-d2f81b4f987681a7107bf23aa22dd6ec]: Commencement: Sch. para. 11 in force at 1.10.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1990/1841/article/1/1)
 
-[^key-49e22c00266c17ff8582dac5d80af7d4]: Commencement: Sch. para. 12 in force at 1.10.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1990/1841/article/1/1)
+[^c-49e22c00266c17ff8582dac5d80af7d4]: Commencement: Sch. para. 12 in force at 1.10.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1990/1841/article/1/1)
 
-[^key-e7f2f254522fbe4fdf990f2a2e0385e2]: Commencement: Sch. para. 13 in force at 1.10.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1990/1841/article/1/1)
+[^c-e7f2f254522fbe4fdf990f2a2e0385e2]: Commencement: Sch. para. 13 in force at 1.10.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1990/1841/article/1/1)
 
-[^key-0918a8f728696dca05cd88429f7d17b9]: Commencement: Sch. para. 14 in force at 1.10.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1990/1841/article/1/1)
+[^c-0918a8f728696dca05cd88429f7d17b9]: Commencement: Sch. para. 14 in force at 1.10.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1990/1841/article/1/1)
 
 [^f00007]: Footnote: [S.I. 1990/586](https://www.legislation.gov.uk/uksi/1990/586).
 
 [^f00008]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1); section 590C was inserted, and section 594 amended, by the Finance Act [1989 (c. 26)](https://www.legislation.gov.uk/ukpga/1989/26), section 75 and Schedule 6, paragraphs 4 and 6.
 
-[^key-a80d74e300149ed6ab14e04ad9fd28fc]: Commencement: Sch. para. 15 in force at 1.10.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1990/1841/article/1/1)
+[^c-a80d74e300149ed6ab14e04ad9fd28fc]: Commencement: Sch. para. 15 in force at 1.10.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1990/1841/article/1/1)
 
-[^key-d2ff69229396ec0080ccb2f1d8e65570]: Commencement: Sch. para. 16 in force at 1.10.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1990/1841/article/1/1)
+[^c-d2ff69229396ec0080ccb2f1d8e65570]: Commencement: Sch. para. 16 in force at 1.10.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1990/1841/article/1/1)
 
-[^key-9530420cd92e26b95aa74453bfb0e66b]: Commencement: Sch. para. 17 in force at 1.10.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1990/1841/article/1/1)
+[^c-9530420cd92e26b95aa74453bfb0e66b]: Commencement: Sch. para. 17 in force at 1.10.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1990/1841/article/1/1)
 
-[^key-c72b86eac15e3f60a071ea676ad08ef6]: Commencement: Sch. para. 18 in force at 1.10.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1990/1841/article/1/1)
+[^c-c72b86eac15e3f60a071ea676ad08ef6]: Commencement: Sch. para. 18 in force at 1.10.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1990/1841/article/1/1)
 
-[^key-2d2a85144ad2b6f8fb70eb8e78bf8a78]: Commencement: Sch. para. 19 in force at 1.10.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1990/1841/article/1/1)
+[^c-2d2a85144ad2b6f8fb70eb8e78bf8a78]: Commencement: Sch. para. 19 in force at 1.10.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1990/1841/article/1/1)
 
-[^key-f89490f0150019ba80ed20122269eff5]: Commencement: Sch. para. 20 in force at 1.10.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1990/1841/article/1/1)
+[^c-f89490f0150019ba80ed20122269eff5]: Commencement: Sch. para. 20 in force at 1.10.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1990/1841/article/1/1)
 
-[^key-078895a6944fba48d8a52476d0fccd74]: Commencement: Sch. para. 21 in force at 1.10.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1990/1841/article/1/1)
+[^c-078895a6944fba48d8a52476d0fccd74]: Commencement: Sch. para. 21 in force at 1.10.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1990/1841/article/1/1)
 
-[^key-215eefeaa9eeb3f8dab4da26744a3072]: Commencement: Sch. para. 22 in force at 1.10.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1990/1841/article/1/1)
+[^c-215eefeaa9eeb3f8dab4da26744a3072]: Commencement: Sch. para. 22 in force at 1.10.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1990/1841/article/1/1)
 
 [^f00009]: Footnote: [1975 c. 60](https://www.legislation.gov.uk/ukpga/1975/60); Schedule 1A was inserted by the Social Security Act [1985 (c. 53)](https://www.legislation.gov.uk/ukpga/1985/53), Schedule 1, paragraph 3, and amended by the Social Security Act [1986 (c. 50)](https://www.legislation.gov.uk/ukpga/1986/50), Schedule 10, paragraphs 29 and 30.
 
 [^f00010]: Footnote: Section 56C was inserted by the Social Security Act 1985, Schedule 1, paragraph 2, and amended by the Social Security Act 1986, Schedule 10, paragraph 26.
 
-[^key-773651b62afa32b161f08c7f502833c3]: Commencement: Sch. para. 23 in force at 1.10.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1990/1841/article/1/1)
+[^c-773651b62afa32b161f08c7f502833c3]: Commencement: Sch. para. 23 in force at 1.10.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1990/1841/article/1/1)
 
-[^key-5a1cfeba72c5921fadca99562e15a9be]: Commencement: Sch. para. 24 in force at 1.10.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1990/1841/article/1/1)
+[^c-5a1cfeba72c5921fadca99562e15a9be]: Commencement: Sch. para. 24 in force at 1.10.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1990/1841/article/1/1)
 
-[^key-9ad7e460fc6b95b825ed8d304af59735]: Commencement: Sch. para. 25 in force at 1.10.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1990/1841/article/1/1)
+[^c-9ad7e460fc6b95b825ed8d304af59735]: Commencement: Sch. para. 25 in force at 1.10.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1990/1841/article/1/1)
 
-[^key-722bbb8060e0494c36e9d542da0fd8a1]: Commencement: Sch. para. 26 in force at 1.10.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1990/1841/article/1/1)
+[^c-722bbb8060e0494c36e9d542da0fd8a1]: Commencement: Sch. para. 26 in force at 1.10.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1990/1841/article/1/1)
 
-[^key-97b75ca28b2eab9ee620946f9dd9eb82]: Commencement: Sch. para. 27 in force at 1.10.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1990/1841/article/1/1)
+[^c-97b75ca28b2eab9ee620946f9dd9eb82]: Commencement: Sch. para. 27 in force at 1.10.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1990/1841/article/1/1)
 
-[^key-53dd10aceccd732fe488c0ddeb104226]: Commencement: Sch. para. 28 in force at 1.10.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1990/1841/article/1/1)
+[^c-53dd10aceccd732fe488c0ddeb104226]: Commencement: Sch. para. 28 in force at 1.10.1990, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1990/1841/article/1/1)

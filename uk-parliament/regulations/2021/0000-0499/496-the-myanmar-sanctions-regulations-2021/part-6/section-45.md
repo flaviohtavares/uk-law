@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Trade licences[^key-14fe0848db50aecd97046a431f87af93]
+## 45. Trade licences[^c-14fe0848db50aecd97046a431f87af93]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The prohibitions in Chapters 2 to 5 of Part 5 (Trade) do not apply to anything d
 
 ## Annotations
 
-[^key-14fe0848db50aecd97046a431f87af93]: Commencement: Reg. 45 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)
+[^c-14fe0848db50aecd97046a431f87af93]: Commencement: Reg. 45 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)

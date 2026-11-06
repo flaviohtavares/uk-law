@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40. Duty of tenants and landlords of business premises to give information to each other.[^key-4886e1fca9539106bccd22d0405fff79]
+## 40. Duty of tenants and landlords of business premises to give information to each other.[^c-4886e1fca9539106bccd22d0405fff79]
 
 *Extent: E+W*
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4886e1fca9539106bccd22d0405fff79]: Textual amendment: S. 40 substituted (1.6.2004) by [Regulatory Reform (Business Tenancies) (England and Wales) Order 2003 (S.I. 2003/3096)](https://www.legislation.gov.uk/uksi/2003/3096), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2003/3096/article/1/3), [23](https://www.legislation.gov.uk/uksi/2003/3096/article/23)
+[^c-4886e1fca9539106bccd22d0405fff79]: Textual amendment: S. 40 substituted (1.6.2004) by [Regulatory Reform (Business Tenancies) (England and Wales) Order 2003 (S.I. 2003/3096)](https://www.legislation.gov.uk/uksi/2003/3096), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2003/3096/article/1/3), [23](https://www.legislation.gov.uk/uksi/2003/3096/article/23)

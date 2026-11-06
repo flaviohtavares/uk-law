@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20. Regulation of controlled activities[^key-94d8c900f7b0ee05ea5cd40b347002c7]
+## 20. Regulation of controlled activities[^c-94d8c900f7b0ee05ea5cd40b347002c7]
 
 *Extent: S*
 
@@ -30,7 +30,7 @@ summary: ''
 (3) The activities referred to in subsection (2)(a) are—
 
 - (a) activities liable to cause pollution of the water environment,
-- (b)[^key-5df3ec890fe72e8401d971648dd75184] abstraction of water from the water environment,
+- (b)[^c-5df3ec890fe72e8401d971648dd75184] abstraction of water from the water environment,
 - (c) construction, alteration or operation of impounding works in surface water or wetlands,
 - (d) carrying out building or engineering works, or works other than those referred to in paragraph (c)–
   - (i) in inland water (other than groundwater) or wetlands, or
@@ -43,10 +43,10 @@ summary: ''
 
 (6) In subsection (3)—
 
-- “abstraction” means the doing of anything whereby any water is removed or diverted by mechanical means, pipe or any engineering structure or works from any part of the water environment, whether temporarily or permanently, including anything whereby the water is so removed or diverted for the purpose of being transferred to another part of the water environment, and includes–[^key-19896704e5e707332756915ba91d3d74]
+- “abstraction” means the doing of anything whereby any water is removed or diverted by mechanical means, pipe or any engineering structure or works from any part of the water environment, whether temporarily or permanently, including anything whereby the water is so removed or diverted for the purpose of being transferred to another part of the water environment, and includes–[^c-19896704e5e707332756915ba91d3d74]
   - (a) the construction or extension of any well, borehole, water intake or other work by which water may be abstracted, and
   - (b) the installation or modification of any machinery or apparatus by which additional quantities of water may be abstracted by means of a well, borehole, water intake or other work,
-- “impounding works” means in relation to surface water–[^key-4c222024d0e564794f512238aa625c56]
+- “impounding works” means in relation to surface water–[^c-4c222024d0e564794f512238aa625c56]
   - (a) any dam, weir or other works by which water may be impounded,
   - (b) any works diverting the flow of water in connection with the construction or alteration of any dam, weir or other works falling within paragraph (a),
 - “**pollution**”, in relation to the water environment, means the direct or indirect introduction, as a result of human activity, of substances or heat into the water environment, or any part of it, which may give rise to any harm; and “**harm**” means—
@@ -62,10 +62,10 @@ summary: ''
 
 ## Annotations
 
-[^key-94d8c900f7b0ee05ea5cd40b347002c7]: Commencement: S. 20 in force at 15.12.2003 by [S.S.I. 2003/562](https://www.legislation.gov.uk/ssi/2003/562), [art. 2(c)](https://www.legislation.gov.uk/ssi/2003/562/article/2/c)
+[^c-94d8c900f7b0ee05ea5cd40b347002c7]: Commencement: S. 20 in force at 15.12.2003 by [S.S.I. 2003/562](https://www.legislation.gov.uk/ssi/2003/562), [art. 2(c)](https://www.legislation.gov.uk/ssi/2003/562/article/2/c)
 
-[^key-5df3ec890fe72e8401d971648dd75184]: Textual amendment: S. 20(3)(b)-(da) substituted for s. 20(3)(b)-(d) (1.4.2006) by [Water Environment (Controlled Activities) 9Scotland) Regulations 2005 (S.S.I. 2005/348)](https://www.legislation.gov.uk/ssi/2005/348), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2005/348/regulation/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2005/348/regulation/3/2) (with [regs. 4](https://www.legislation.gov.uk/ssi/2005/348/regulation/4), [50](https://www.legislation.gov.uk/ssi/2005/348/regulation/50))
+[^c-5df3ec890fe72e8401d971648dd75184]: Textual amendment: S. 20(3)(b)-(da) substituted for s. 20(3)(b)-(d) (1.4.2006) by [Water Environment (Controlled Activities) 9Scotland) Regulations 2005 (S.S.I. 2005/348)](https://www.legislation.gov.uk/ssi/2005/348), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2005/348/regulation/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2005/348/regulation/3/2) (with [regs. 4](https://www.legislation.gov.uk/ssi/2005/348/regulation/4), [50](https://www.legislation.gov.uk/ssi/2005/348/regulation/50))
 
-[^key-19896704e5e707332756915ba91d3d74]: Textual amendment: Words in s. 20(6) substituted (1.4.2006) by [Water Environment (Controlled Activities) 9Scotland) Regulations 2005 (S.S.I. 2005/348)](https://www.legislation.gov.uk/ssi/2005/348), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2005/348/regulation/1/2), [3(3)(a)](https://www.legislation.gov.uk/ssi/2005/348/regulation/3/3/a) (with [regs. 4](https://www.legislation.gov.uk/ssi/2005/348/regulation/4), [50](https://www.legislation.gov.uk/ssi/2005/348/regulation/50))
+[^c-19896704e5e707332756915ba91d3d74]: Textual amendment: Words in s. 20(6) substituted (1.4.2006) by [Water Environment (Controlled Activities) 9Scotland) Regulations 2005 (S.S.I. 2005/348)](https://www.legislation.gov.uk/ssi/2005/348), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2005/348/regulation/1/2), [3(3)(a)](https://www.legislation.gov.uk/ssi/2005/348/regulation/3/3/a) (with [regs. 4](https://www.legislation.gov.uk/ssi/2005/348/regulation/4), [50](https://www.legislation.gov.uk/ssi/2005/348/regulation/50))
 
-[^key-4c222024d0e564794f512238aa625c56]: Textual amendment: Words in s. 20(6) substituted (1.4.2006) by [Water Environment (Controlled Activities) 9Scotland) Regulations 2005 (S.S.I. 2005/348)](https://www.legislation.gov.uk/ssi/2005/348), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2005/348/regulation/1/2), [3(3)(b)](https://www.legislation.gov.uk/ssi/2005/348/regulation/3/3/b) (with [regs. 4](https://www.legislation.gov.uk/ssi/2005/348/regulation/4), [50](https://www.legislation.gov.uk/ssi/2005/348/regulation/50))
+[^c-4c222024d0e564794f512238aa625c56]: Textual amendment: Words in s. 20(6) substituted (1.4.2006) by [Water Environment (Controlled Activities) 9Scotland) Regulations 2005 (S.S.I. 2005/348)](https://www.legislation.gov.uk/ssi/2005/348), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2005/348/regulation/1/2), [3(3)(b)](https://www.legislation.gov.uk/ssi/2005/348/regulation/3/3/b) (with [regs. 4](https://www.legislation.gov.uk/ssi/2005/348/regulation/4), [50](https://www.legislation.gov.uk/ssi/2005/348/regulation/50))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47. Modification of prohibitions on use of other methods to kill or take wild animals[^key-d72f4d02f084801d6301117f5115b7a6]
+## 47. Modification of prohibitions on use of other methods to kill or take wild animals[^c-d72f4d02f084801d6301117f5115b7a6]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ In section 11 of the [Wildlife and Countryside Act 1981 (c. 69)](https://www.leg
 
 ## Annotations
 
-[^key-d72f4d02f084801d6301117f5115b7a6]: Commencement: [S. 47](https://www.legislation.gov.uk/asc/2023/4/section/47) in force at 17.10.2023, see [s. 56(2)(d)](https://www.legislation.gov.uk/asc/2023/4/section/56/2/d)
+[^c-d72f4d02f084801d6301117f5115b7a6]: Commencement: [S. 47](https://www.legislation.gov.uk/asc/2023/4/section/47) in force at 17.10.2023, see [s. 56(2)(d)](https://www.legislation.gov.uk/asc/2023/4/section/56/2/d)

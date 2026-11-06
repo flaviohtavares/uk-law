@@ -26,12 +26,12 @@ Section 350
 
 #### Ban on newspaper proprietors holding Channel 3 licences
 
-**1.**[^key-3e9390e7bc5115811483fc5957ca9a35] (1) A person is not to hold a licence to provide a Channel 3 service if—
+**1.**[^c-3e9390e7bc5115811483fc5957ca9a35] (1) A person is not to hold a licence to provide a Channel 3 service if—
 
 - (a) he runs a national newspaper which for the time being has a national market share of 20 per cent. or more; or
 - (b) he runs national newspapers which for the time being together have a national market share of 20 per cent. or more.
 
-(2)[^key-033e28840f569270f7a17470425a4d43] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-033e28840f569270f7a17470425a4d43] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) For the purposes of this paragraph, where there is a licence to provide a Channel 3 service, each of the following shall be treated as holding that licence—
 
@@ -40,7 +40,7 @@ Section 350
 
 #### Restrictions on participation
 
-**2.**[^key-72cc7f373402d4b915731fa6b4332977] (1) A person who is—
+**2.**[^c-72cc7f373402d4b915731fa6b4332977] (1) A person who is—
 
 - (a) the proprietor of a national newspaper which for the time being has a national market share of 20 per cent. or more, or
 - (b) the proprietor of national newspapers which for the time being together have a national market share of 20 per cent. or more,
@@ -67,7 +67,7 @@ is to apply as if he and every person connected with him were one person.
 
 #### National and local newspapers and their respective national and local market shares
 
-**3.**[^key-4d04ca44b7582d446636527676ebad23][^key-aee4e10edf7400a66106ba8f36327cab] (1) In this Part of this Schedule references to a national or local newspaper are references to a national or local newspaper circulating wholly or mainly in the United Kingdom or in a part of the United Kingdom.
+**3.**[^c-4d04ca44b7582d446636527676ebad23][^c-aee4e10edf7400a66106ba8f36327cab] (1) In this Part of this Schedule references to a national or local newspaper are references to a national or local newspaper circulating wholly or mainly in the United Kingdom or in a part of the United Kingdom.
 
 (2) Where a newspaper is published in different regional editions on the same day, OFCOM have the power to determine whether those regional editions should be treated for the purposes of this Part of this Schedule as constituting—
 
@@ -84,11 +84,11 @@ that the newspaper is to be treated as a national or as a local newspaper for su
 
 (4) For the purposes of this Part of this Schedule, the national market share of a national newspaper at any time is the percentage of the total number of copies of all national newspapers sold in the United Kingdom in the relevant six months which is represented by the total number of copies of that newspaper sold in the United Kingdom in that six months.
 
-(5)[^key-8c7f71f8e55fa6ada0cf3bfd02ab3813] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-8c7f71f8e55fa6ada0cf3bfd02ab3813] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6) In sub-paragraph (4)[^key-3292111f63e8cceadcc4c4b707e93a2d] “**the relevant six months**” means the six months ending with the last whole calendar month to end before the time in question.
+(6) In sub-paragraph (4)[^c-3292111f63e8cceadcc4c4b707e93a2d] “**the relevant six months**” means the six months ending with the last whole calendar month to end before the time in question.
 
-(7) For the purposes of sub-paragraph (4)[^key-81351a6fcbeae4489fecc3cb8b40fcee] , the number of copies of a newspaper sold in the United Kingdom[^M_F_325e1f95-3857-4b27-d6b8-4403162b79ba]... during any period may be taken to be such number as is estimated by OFCOM—
+(7) For the purposes of sub-paragraph (4)[^c-81351a6fcbeae4489fecc3cb8b40fcee] , the number of copies of a newspaper sold in the United Kingdom[^M_F_325e1f95-3857-4b27-d6b8-4403162b79ba]... during any period may be taken to be such number as is estimated by OFCOM—
 
 - (a) in such manner, or
 - (b) by reference to such statistics prepared by any other person,
@@ -99,42 +99,42 @@ as they think fit.
 
 #### Construction of references to running a newspaper
 
-**4.**[^key-bb0979ca369323eff5020c10578eb5c3][^key-106b85b612fb85c759133c6c0f8eaaaf] For the purposes of this Part of this Schedule a person runs a [^key-207292812b51772da15757be9482afda]... newspaper if—
+**4.**[^c-bb0979ca369323eff5020c10578eb5c3][^c-106b85b612fb85c759133c6c0f8eaaaf] For the purposes of this Part of this Schedule a person runs a [^c-207292812b51772da15757be9482afda]... newspaper if—
 
 - (a) he is the proprietor of the newspaper; or
 - (b) he controls a body which is the proprietor of the newspaper.
 
 #### Coverage area for a Channel 3 service
 
-**5.**[^key-1effe85d7f0447ed5706c3c582b629e0][^key-878c2d15c357e78041e78cfcc19aa4a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-1effe85d7f0447ed5706c3c582b629e0][^c-878c2d15c357e78041e78cfcc19aa4a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Power to amend Part 1 of Schedule
 
-**6.**[^key-68b0f6975e2094c00e78844ec30dc333] The Secretary of State may by order repeal or otherwise modify any of the restrictions imposed by this Part of this Schedule.
+**6.**[^c-68b0f6975e2094c00e78844ec30dc333] The Secretary of State may by order repeal or otherwise modify any of the restrictions imposed by this Part of this Schedule.
 
-### Part 2 — ...[^key-39f23718cd305cf32949fb1a53901f02][^key-39f23718cd305cf32949fb1a53901f02]
+### Part 2 — ...[^c-39f23718cd305cf32949fb1a53901f02][^c-39f23718cd305cf32949fb1a53901f02]
 
-#### ...[^key-39f23718cd305cf32949fb1a53901f02]
+#### ...[^c-39f23718cd305cf32949fb1a53901f02]
 
-**7.**[^key-39f23718cd305cf32949fb1a53901f02][^key-452cc8928a1fe402ef04c380a1c1c8b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-39f23718cd305cf32949fb1a53901f02][^c-452cc8928a1fe402ef04c380a1c1c8b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### ...[^key-39f23718cd305cf32949fb1a53901f02]
+#### ...[^c-39f23718cd305cf32949fb1a53901f02]
 
-**8.**[^key-39f23718cd305cf32949fb1a53901f02][^key-121c804459a5189ed3d2dd86e74333a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-39f23718cd305cf32949fb1a53901f02][^c-121c804459a5189ed3d2dd86e74333a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### ...[^key-39f23718cd305cf32949fb1a53901f02]
+#### ...[^c-39f23718cd305cf32949fb1a53901f02]
 
-**9.**[^key-39f23718cd305cf32949fb1a53901f02][^key-790e0950384618cad0ff616b202a49a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-39f23718cd305cf32949fb1a53901f02][^c-790e0950384618cad0ff616b202a49a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### ...[^key-39f23718cd305cf32949fb1a53901f02]
+#### ...[^c-39f23718cd305cf32949fb1a53901f02]
 
-**10.**[^key-39f23718cd305cf32949fb1a53901f02][^key-6fcf49546db6c3df9d59d36bf54477db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-39f23718cd305cf32949fb1a53901f02][^c-6fcf49546db6c3df9d59d36bf54477db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part 3 — Local sound programme services
 
 #### Restriction on holding of local sound broadcasting licences
 
-**11.**[^key-ad75620ad73fa6b33f8ce632df8daa39] (1) The Secretary of State may by order impose—
+**11.**[^c-ad75620ad73fa6b33f8ce632df8daa39] (1) The Secretary of State may by order impose—
 
 - (a) requirements prohibiting the holding at the same time by the same person, in the circumstances described in the order, of more than the number of local sound broadcasting licences that is determined in the manner set out in the order;
 - (b) requirements prohibiting a person from holding even one local sound broadcasting licence in the circumstances described in the order.
@@ -157,7 +157,7 @@ as they think fit.
 
 #### Restriction applying to local digital sound programme services
 
-**12.**[^key-a6ae74b132320d92ae576167b3288b0c] (1) The Secretary of State may by order impose requirements, on persons holding local digital sound programme licences, prohibiting the provision by the same person, in the circumstances described in the order, of more than the number of local digital sound programme services that is determined in the manner set out in the order.
+**12.**[^c-a6ae74b132320d92ae576167b3288b0c] (1) The Secretary of State may by order impose requirements, on persons holding local digital sound programme licences, prohibiting the provision by the same person, in the circumstances described in the order, of more than the number of local digital sound programme services that is determined in the manner set out in the order.
 
 (2) The circumstances by reference to which a person may be prohibited under sub-paragraph (1) from providing a local digital sound programme service, and the factors that may be used for determining the number of such services that he may provide, include, in particular—
 
@@ -183,7 +183,7 @@ as they think fit.
 
 #### Powers supplemental to powers under paragraphs 11 and 12
 
-**13.**[^key-b323ba8b3e7bae52ac37b118e2ce35d6] (1) An order under paragraph 11 or 12 may make provision for treating—
+**13.**[^c-b323ba8b3e7bae52ac37b118e2ce35d6] (1) An order under paragraph 11 or 12 may make provision for treating—
 
 - (a) persons who are connected with a person who holds a licence,
 - (b) persons who are associates of a person who holds a licence or of a person who is connected with a person who holds a licence, and
@@ -214,7 +214,7 @@ as if they and such other persons who are connected with, associates of or parti
 - (c) as to the determination for any such purposes of the area within which a local newspaper is circulating; and
 - (d) as to what is to constitute the national market share or local market share of any newspaper or of a number of newspapers taken together;
 
-and provision made by virtue of this paragraph may apply, with or without modifications, any of the provisions of paragraph 3 or 4 of this Schedule or section 5(6AA) to (6AD) of the Broadcasting Act 1990[^key-2d55a3ddfccd0ab89ba8445e3d09fadf] .
+and provision made by virtue of this paragraph may apply, with or without modifications, any of the provisions of paragraph 3 or 4 of this Schedule or section 5(6AA) to (6AD) of the Broadcasting Act 1990[^c-2d55a3ddfccd0ab89ba8445e3d09fadf] .
 
 (5) Power to make provision with respect to any matter by any order under paragraph 11 or 12 includes power—
 
@@ -225,7 +225,7 @@ and provision made by virtue of this paragraph may apply, with or without modifi
 
 #### Transitional provision for orders under paragraphs 11 and 12
 
-**14.**[^key-409a5061f07c419a580b27e33eab12d8] (1) This paragraph applies where—
+**14.**[^c-409a5061f07c419a580b27e33eab12d8] (1) This paragraph applies where—
 
 - (a) immediately after the coming into force of an order under paragraph 11 or 12, a person (“the person in contravention”) is in contravention, in any respect, of a requirement imposed under that paragraph; and
 - (b) immediately before the coming into force of the order, that person—
@@ -267,7 +267,7 @@ and provision made by virtue of this paragraph may apply, with or without modifi
 
 #### Approval required for religious bodies etc. to hold licences
 
-**15.**[^key-49d5a79e6ac6b4b7d7080faeea0a80f7] (1) A person mentioned in paragraph 2(1) of Part 2 of Schedule 2 to the 1990 Act (religious bodies etc.) is not to hold a Broadcasting Act licence not mentioned in paragraph 2(1A) of that Part unless—
+**15.**[^c-49d5a79e6ac6b4b7d7080faeea0a80f7] (1) A person mentioned in paragraph 2(1) of Part 2 of Schedule 2 to the 1990 Act (religious bodies etc.) is not to hold a Broadcasting Act licence not mentioned in paragraph 2(1A) of that Part unless—
 
 - (a) OFCOM have made a determination in his case as respects a description of licences applicable to that licence; and
 - (b) that determination remains in force.
@@ -286,82 +286,82 @@ and provision made by virtue of this paragraph may apply, with or without modifi
 
 #### Power to amend Part 4 of Schedule
 
-**16.**[^key-a6b673064216b1e3ae3ac1cb719ac157] The Secretary of State may by order repeal or otherwise modify the restriction imposed by this Part of this Schedule.
+**16.**[^c-a6b673064216b1e3ae3ac1cb719ac157] The Secretary of State may by order repeal or otherwise modify the restriction imposed by this Part of this Schedule.
 
 ### Part 5 — Supplemental provisions of Schedule
 
 #### Procedure for orders
 
-**17.**[^key-c0564956e1084981aef66a38eabe8f55][^key-d8c3aa5fe6d245c0abe3762ee10ffb94][^key-d537ae33be3dd33664fda60b6c231041] (1) Before making an order under any provision of this Schedule (other than one that is confined to giving effect to recommendations made by OFCOM in a report of a review under section 391), the Secretary of State must consult OFCOM.
+**17.**[^c-c0564956e1084981aef66a38eabe8f55][^c-d8c3aa5fe6d245c0abe3762ee10ffb94][^c-d537ae33be3dd33664fda60b6c231041] (1) Before making an order under any provision of this Schedule (other than one that is confined to giving effect to recommendations made by OFCOM in a report of a review under section 391), the Secretary of State must consult OFCOM.
 
 (2) No order is to be made containing provision authorised by any provision of this Schedule unless a draft of the order has been laid before Parliament and approved by a resolution of each House.
 
 #### Interpretation of Schedule
 
-**18.**[^key-3cc912a5e920f8ae1a1ac4bcb6c006c5] (1) Part 1 of Schedule 2 to the 1990 Act applies for construing this Schedule as it applies for construing Part 2 of that Schedule.
+**18.**[^c-3cc912a5e920f8ae1a1ac4bcb6c006c5] (1) Part 1 of Schedule 2 to the 1990 Act applies for construing this Schedule as it applies for construing Part 2 of that Schedule.
 
 (2) References in this paragraph to an area overlapping another include references to its being the same as, or lying wholly inside, the other area.
 
 ## Annotations
 
-[^key-3e9390e7bc5115811483fc5957ca9a35]: Commencement: Sch. 14 para. 1 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-3e9390e7bc5115811483fc5957ca9a35]: Commencement: Sch. 14 para. 1 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-033e28840f569270f7a17470425a4d43]: Textual amendment: Sch. 14 para. 1(2) omitted (15.6.2011) by virtue of [The Media Ownership (Radio and Cross-media) Order 2011 (S.I. 2011/1503)](https://www.legislation.gov.uk/uksi/2011/1503), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1503/article/1), [3](https://www.legislation.gov.uk/uksi/2011/1503/article/3)
+[^c-033e28840f569270f7a17470425a4d43]: Textual amendment: Sch. 14 para. 1(2) omitted (15.6.2011) by virtue of [The Media Ownership (Radio and Cross-media) Order 2011 (S.I. 2011/1503)](https://www.legislation.gov.uk/uksi/2011/1503), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1503/article/1), [3](https://www.legislation.gov.uk/uksi/2011/1503/article/3)
 
-[^key-72cc7f373402d4b915731fa6b4332977]: Commencement: Sch. 14 para. 2 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-72cc7f373402d4b915731fa6b4332977]: Commencement: Sch. 14 para. 2 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-4d04ca44b7582d446636527676ebad23]: Commencement: Sch. 14 para. 3 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-4d04ca44b7582d446636527676ebad23]: Commencement: Sch. 14 para. 3 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-aee4e10edf7400a66106ba8f36327cab]: Modification: Sch. 14 para. 3 applied (29.12.2003) by [Media Ownership (Local Radio and Appointed News Provider) Order 2003 (S.I. 2003/3299)](https://www.legislation.gov.uk/uksi/2003/3299), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/3299/article/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2003/3299/article/4/4)
+[^c-aee4e10edf7400a66106ba8f36327cab]: Modification: Sch. 14 para. 3 applied (29.12.2003) by [Media Ownership (Local Radio and Appointed News Provider) Order 2003 (S.I. 2003/3299)](https://www.legislation.gov.uk/uksi/2003/3299), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/3299/article/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2003/3299/article/4/4)
 
-[^key-8c7f71f8e55fa6ada0cf3bfd02ab3813]: Textual amendment: Sch. 14 para. 3(5) omitted (15.6.2011) by virtue of [Media Ownership (Radio and Cross-media) Order 2011 (S.I. 2011/1503)](https://www.legislation.gov.uk/uksi/2011/1503), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1503/article/1), [6(2)](https://www.legislation.gov.uk/uksi/2011/1503/article/6/2)
+[^c-8c7f71f8e55fa6ada0cf3bfd02ab3813]: Textual amendment: Sch. 14 para. 3(5) omitted (15.6.2011) by virtue of [Media Ownership (Radio and Cross-media) Order 2011 (S.I. 2011/1503)](https://www.legislation.gov.uk/uksi/2011/1503), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1503/article/1), [6(2)](https://www.legislation.gov.uk/uksi/2011/1503/article/6/2)
 
-[^key-3292111f63e8cceadcc4c4b707e93a2d]: Textual amendment: Words in Sch. 14 para. 3(6) substituted (15.6.2011) by [Media Ownership (Radio and Cross-media) Order 2011 (S.I. 2011/1503)](https://www.legislation.gov.uk/uksi/2011/1503), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1503/article/1), [6(3)](https://www.legislation.gov.uk/uksi/2011/1503/article/6/3)
+[^c-3292111f63e8cceadcc4c4b707e93a2d]: Textual amendment: Words in Sch. 14 para. 3(6) substituted (15.6.2011) by [Media Ownership (Radio and Cross-media) Order 2011 (S.I. 2011/1503)](https://www.legislation.gov.uk/uksi/2011/1503), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1503/article/1), [6(3)](https://www.legislation.gov.uk/uksi/2011/1503/article/6/3)
 
-[^key-81351a6fcbeae4489fecc3cb8b40fcee]: Textual amendment: Words in Sch. 14 para. 3(7) substituted (15.6.2011) by [Media Ownership (Radio and Cross-media) Order 2011 (S.I. 2011/1503)](https://www.legislation.gov.uk/uksi/2011/1503), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1503/article/1), [6(4)](https://www.legislation.gov.uk/uksi/2011/1503/article/6/4)
+[^c-81351a6fcbeae4489fecc3cb8b40fcee]: Textual amendment: Words in Sch. 14 para. 3(7) substituted (15.6.2011) by [Media Ownership (Radio and Cross-media) Order 2011 (S.I. 2011/1503)](https://www.legislation.gov.uk/uksi/2011/1503), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1503/article/1), [6(4)](https://www.legislation.gov.uk/uksi/2011/1503/article/6/4)
 
 [^M_F_325e1f95-3857-4b27-d6b8-4403162b79ba]: Textual amendment: Words in Sch. 14 para. 3(7) omitted (15.6.2011) by virtue of [Media Ownership (Radio and Cross-media) Order 2011 (S.I. 2011/1503)](https://www.legislation.gov.uk/uksi/2011/1503), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1503/article/1), [6(4)](https://www.legislation.gov.uk/uksi/2011/1503/article/6/4)
 
-[^key-bb0979ca369323eff5020c10578eb5c3]: Commencement: Sch. 14 para. 4 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-bb0979ca369323eff5020c10578eb5c3]: Commencement: Sch. 14 para. 4 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-106b85b612fb85c759133c6c0f8eaaaf]: Modification: Sch. 14 para. 4 applied (29.12.2003) by [Media Ownership (Local Radio and Appointed News Provider) Order 2003 (S.I. 2003/3299)](https://www.legislation.gov.uk/uksi/2003/3299), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/3299/article/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2003/3299/article/4/4)
+[^c-106b85b612fb85c759133c6c0f8eaaaf]: Modification: Sch. 14 para. 4 applied (29.12.2003) by [Media Ownership (Local Radio and Appointed News Provider) Order 2003 (S.I. 2003/3299)](https://www.legislation.gov.uk/uksi/2003/3299), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/3299/article/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2003/3299/article/4/4)
 
-[^key-207292812b51772da15757be9482afda]: Textual amendment: Words in Sch. 14 para. 4 omitted (15.6.2011) by virtue of [Media Ownership (Radio and Cross-media) Order 2011 (S.I. 2011/1503)](https://www.legislation.gov.uk/uksi/2011/1503), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1503/article/1), [7](https://www.legislation.gov.uk/uksi/2011/1503/article/7)
+[^c-207292812b51772da15757be9482afda]: Textual amendment: Words in Sch. 14 para. 4 omitted (15.6.2011) by virtue of [Media Ownership (Radio and Cross-media) Order 2011 (S.I. 2011/1503)](https://www.legislation.gov.uk/uksi/2011/1503), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1503/article/1), [7](https://www.legislation.gov.uk/uksi/2011/1503/article/7)
 
-[^key-1effe85d7f0447ed5706c3c582b629e0]: Textual amendment: Sch. 14 para. 5 omitted (15.6.2011) by virtue of [Media Ownership (Radio and Cross-media) Order 2011 (S.I. 2011/1503)](https://www.legislation.gov.uk/uksi/2011/1503), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1503/article/1), [8](https://www.legislation.gov.uk/uksi/2011/1503/article/8)
+[^c-1effe85d7f0447ed5706c3c582b629e0]: Textual amendment: Sch. 14 para. 5 omitted (15.6.2011) by virtue of [Media Ownership (Radio and Cross-media) Order 2011 (S.I. 2011/1503)](https://www.legislation.gov.uk/uksi/2011/1503), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1503/article/1), [8](https://www.legislation.gov.uk/uksi/2011/1503/article/8)
 
-[^key-878c2d15c357e78041e78cfcc19aa4a0]: Commencement: Sch. 14 para. 5 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-878c2d15c357e78041e78cfcc19aa4a0]: Commencement: Sch. 14 para. 5 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-68b0f6975e2094c00e78844ec30dc333]: Commencement: Sch. 14 para. 6 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-68b0f6975e2094c00e78844ec30dc333]: Commencement: Sch. 14 para. 6 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-39f23718cd305cf32949fb1a53901f02]: Textual amendment: Sch. 14 Pt. 2 omitted (15.6.2011) by virtue of [Media Ownership (Radio and Cross-media) Order 2011 (S.I. 2011/1503)](https://www.legislation.gov.uk/uksi/2011/1503), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1503/article/1), [3](https://www.legislation.gov.uk/uksi/2011/1503/article/3)
+[^c-39f23718cd305cf32949fb1a53901f02]: Textual amendment: Sch. 14 Pt. 2 omitted (15.6.2011) by virtue of [Media Ownership (Radio and Cross-media) Order 2011 (S.I. 2011/1503)](https://www.legislation.gov.uk/uksi/2011/1503), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1503/article/1), [3](https://www.legislation.gov.uk/uksi/2011/1503/article/3)
 
-[^key-452cc8928a1fe402ef04c380a1c1c8b0]: Commencement: Sch. 14 para. 7 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-452cc8928a1fe402ef04c380a1c1c8b0]: Commencement: Sch. 14 para. 7 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-121c804459a5189ed3d2dd86e74333a3]: Commencement: Sch. 14 para. 8 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-121c804459a5189ed3d2dd86e74333a3]: Commencement: Sch. 14 para. 8 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-790e0950384618cad0ff616b202a49a3]: Commencement: Sch. 14 para. 9 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-790e0950384618cad0ff616b202a49a3]: Commencement: Sch. 14 para. 9 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-6fcf49546db6c3df9d59d36bf54477db]: Commencement: Sch. 14 para. 10 in force at 12.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 2](https://www.legislation.gov.uk/uksi/2003/3142/article/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-6fcf49546db6c3df9d59d36bf54477db]: Commencement: Sch. 14 para. 10 in force at 12.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 2](https://www.legislation.gov.uk/uksi/2003/3142/article/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-ad75620ad73fa6b33f8ce632df8daa39]: Commencement: Sch. 14 para. 11 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-ad75620ad73fa6b33f8ce632df8daa39]: Commencement: Sch. 14 para. 11 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-a6ae74b132320d92ae576167b3288b0c]: Commencement: Sch. 14 para. 12 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-a6ae74b132320d92ae576167b3288b0c]: Commencement: Sch. 14 para. 12 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-b323ba8b3e7bae52ac37b118e2ce35d6]: Commencement: Sch. 14 para. 13 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-b323ba8b3e7bae52ac37b118e2ce35d6]: Commencement: Sch. 14 para. 13 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-2d55a3ddfccd0ab89ba8445e3d09fadf]: Textual amendment: Words in Sch. 14 para. 13(4) inserted (15.6.2011) by [The Media Ownership (Radio and Cross-media) Order 2011 (S.I. 2011/1503)](https://www.legislation.gov.uk/uksi/2011/1503), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1503/article/1), [9](https://www.legislation.gov.uk/uksi/2011/1503/article/9)
+[^c-2d55a3ddfccd0ab89ba8445e3d09fadf]: Textual amendment: Words in Sch. 14 para. 13(4) inserted (15.6.2011) by [The Media Ownership (Radio and Cross-media) Order 2011 (S.I. 2011/1503)](https://www.legislation.gov.uk/uksi/2011/1503), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1503/article/1), [9](https://www.legislation.gov.uk/uksi/2011/1503/article/9)
 
-[^key-409a5061f07c419a580b27e33eab12d8]: Commencement: Sch. 14 para. 14 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-409a5061f07c419a580b27e33eab12d8]: Commencement: Sch. 14 para. 14 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-49d5a79e6ac6b4b7d7080faeea0a80f7]: Commencement: Sch. 14 para. 15 in force at 18.9.2003 by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [art. 2(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/1900/schedule/2) (with [art. 5](https://www.legislation.gov.uk/uksi/2003/1900/article/5))
+[^c-49d5a79e6ac6b4b7d7080faeea0a80f7]: Commencement: Sch. 14 para. 15 in force at 18.9.2003 by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [art. 2(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/1900/schedule/2) (with [art. 5](https://www.legislation.gov.uk/uksi/2003/1900/article/5))
 
-[^key-a6b673064216b1e3ae3ac1cb719ac157]: Commencement: Sch. 14 para. 16 in force at 18.9.2003 by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [art. 2(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/1900/schedule/2) (with [art. 5](https://www.legislation.gov.uk/uksi/2003/1900/article/5))
+[^c-a6b673064216b1e3ae3ac1cb719ac157]: Commencement: Sch. 14 para. 16 in force at 18.9.2003 by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [art. 2(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/1900/schedule/2) (with [art. 5](https://www.legislation.gov.uk/uksi/2003/1900/article/5))
 
-[^key-c0564956e1084981aef66a38eabe8f55]: Commencement: Sch. 14 para. 17 in force at 18.9.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [art. 2(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/1900/schedule/2) (with [art. 5](https://www.legislation.gov.uk/uksi/2003/1900/article/5))
+[^c-c0564956e1084981aef66a38eabe8f55]: Commencement: Sch. 14 para. 17 in force at 18.9.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [art. 2(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/1900/schedule/2) (with [art. 5](https://www.legislation.gov.uk/uksi/2003/1900/article/5))
 
-[^key-d8c3aa5fe6d245c0abe3762ee10ffb94]: Commencement: Sch. 14 para. 17 in force at 12.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 2](https://www.legislation.gov.uk/uksi/2003/3142/article/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-d8c3aa5fe6d245c0abe3762ee10ffb94]: Commencement: Sch. 14 para. 17 in force at 12.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 2](https://www.legislation.gov.uk/uksi/2003/3142/article/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-d537ae33be3dd33664fda60b6c231041]: Commencement: Sch. 14 para. 17 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-d537ae33be3dd33664fda60b6c231041]: Commencement: Sch. 14 para. 17 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-3cc912a5e920f8ae1a1ac4bcb6c006c5]: Commencement: Sch. 14 para. 18 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-3cc912a5e920f8ae1a1ac4bcb6c006c5]: Commencement: Sch. 14 para. 18 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))

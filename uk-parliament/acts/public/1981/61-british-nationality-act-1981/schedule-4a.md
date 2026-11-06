@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 4A — Deprivation of Citizenship without notice: judicial oversight[^key-fe6b932ae189896a81c618005073463e]
+## SCHEDULE 4A — Deprivation of Citizenship without notice: judicial oversight[^c-fe6b932ae189896a81c618005073463e]
 
 *Extent: E+W+S+N.I.*
 
@@ -84,4 +84,4 @@ Sub-paragraphs (3) to (5) apply to an application under this sub-paragraph.
 
 ## Annotations
 
-[^key-fe6b932ae189896a81c618005073463e]: Textual amendment: [Sch. 4A](https://www.legislation.gov.uk/ukpga/1981/61/schedule/4A) inserted (10.5.2023) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1), [Sch. 2](https://www.legislation.gov.uk/ukpga/2022/36/schedule/2); [S.I. 2023/450](https://www.legislation.gov.uk/uksi/2023/450), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/450/regulation/2/b)
+[^c-fe6b932ae189896a81c618005073463e]: Textual amendment: [Sch. 4A](https://www.legislation.gov.uk/ukpga/1981/61/schedule/4A) inserted (10.5.2023) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1), [Sch. 2](https://www.legislation.gov.uk/ukpga/2022/36/schedule/2); [S.I. 2023/450](https://www.legislation.gov.uk/uksi/2023/450), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/450/regulation/2/b)

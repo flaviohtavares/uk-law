@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2018-04-11.
 
-## 97. Supply of information – extended payments (qualifying contributory benefits)[^key-3bad1fb82423418f6ab62539c0eb584b]
+## 97. Supply of information – extended payments (qualifying contributory benefits)[^c-3bad1fb82423418f6ab62539c0eb584b]
 
 (1) This regulation applies for the purposes of section 122E(3) of the Administration Act (duty of an authority to supply information to another authority).
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3bad1fb82423418f6ab62539c0eb584b]: Textual amendment: Reg. 97 substituted (6.10.2008) by [The Housing Benefit and Council Tax Benefit (Extended Payments) Amendment Regulations 2008 (S.I. 2008/959)](https://www.legislation.gov.uk/uksi/2008/959), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/959/regulation/1/1), [8(3)](https://www.legislation.gov.uk/uksi/2008/959/regulation/8/3)
+[^c-3bad1fb82423418f6ab62539c0eb584b]: Textual amendment: Reg. 97 substituted (6.10.2008) by [The Housing Benefit and Council Tax Benefit (Extended Payments) Amendment Regulations 2008 (S.I. 2008/959)](https://www.legislation.gov.uk/uksi/2008/959), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/959/regulation/1/1), [8(3)](https://www.legislation.gov.uk/uksi/2008/959/regulation/8/3)

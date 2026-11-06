@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Functions[^c1968248][^key-2d0b55f5aa413eb1edf6ce2e0e657765]
+## 31. Functions[^c1968248][^c-2d0b55f5aa413eb1edf6ce2e0e657765]
 
 *Extent: E+W*
 
@@ -63,4 +63,4 @@ summary: ''
 
 [^c1968248]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2006/26/section/31) partly in force; [s. 31](https://www.legislation.gov.uk/ukpga/2006/26/section/31) not in force at Royal Assent see [s. 56(1)](https://www.legislation.gov.uk/ukpga/2006/26/section/56/1); [s. 31(6)(a)](https://www.legislation.gov.uk/ukpga/2006/26/section/31/6/a) in force for certain purposes for W. at 12.8.2007 by [S.I. 2007/2386](https://www.legislation.gov.uk/uksi/2007/2386), [art. 2](https://www.legislation.gov.uk/uksi/2007/2386/article/2)
 
-[^key-2d0b55f5aa413eb1edf6ce2e0e657765]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2006/26/section/31) in force at 20.1.2010 for E. by [S.I. 2010/61](https://www.legislation.gov.uk/uksi/2010/61), [art. 2](https://www.legislation.gov.uk/uksi/2010/61/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2010/61/article/3))
+[^c-2d0b55f5aa413eb1edf6ce2e0e657765]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2006/26/section/31) in force at 20.1.2010 for E. by [S.I. 2010/61](https://www.legislation.gov.uk/uksi/2010/61), [art. 2](https://www.legislation.gov.uk/uksi/2010/61/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2010/61/article/3))

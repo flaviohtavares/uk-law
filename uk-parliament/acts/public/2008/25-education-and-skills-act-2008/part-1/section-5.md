@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Full-time occupation[^key-42fcb4740e64437617ab54b7f2c9e7af][^key-7f175bcff36d9dded0a8f6731b77477c]
+## 5. Full-time occupation[^c-42fcb4740e64437617ab54b7f2c9e7af][^c-7f175bcff36d9dded0a8f6731b77477c]
 
 *Extent: E+W*
 
@@ -67,6 +67,6 @@ the number of hours for which the person works per week is the aggregate of the 
 
 ## Annotations
 
-[^key-42fcb4740e64437617ab54b7f2c9e7af]: Modification: Pt. 1 Ch. 1 modified (28.6.2013) by [The Duty to Participate in Education or Training (Miscellaneous Provisions) Regulations 2013 (S.I. 2013/1205)](https://www.legislation.gov.uk/uksi/2013/1205), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1205/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2013/1205/regulation/8)
+[^c-42fcb4740e64437617ab54b7f2c9e7af]: Modification: Pt. 1 Ch. 1 modified (28.6.2013) by [The Duty to Participate in Education or Training (Miscellaneous Provisions) Regulations 2013 (S.I. 2013/1205)](https://www.legislation.gov.uk/uksi/2013/1205), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1205/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2013/1205/regulation/8)
 
-[^key-7f175bcff36d9dded0a8f6731b77477c]: Commencement: S. 5 in force at 28.6.2013 by [S.I. 2013/1204](https://www.legislation.gov.uk/uksi/2013/1204), [art. 2(e)](https://www.legislation.gov.uk/uksi/2013/1204/article/2/e)
+[^c-7f175bcff36d9dded0a8f6731b77477c]: Commencement: S. 5 in force at 28.6.2013 by [S.I. 2013/1204](https://www.legislation.gov.uk/uksi/2013/1204), [art. 2(e)](https://www.legislation.gov.uk/uksi/2013/1204/article/2/e)

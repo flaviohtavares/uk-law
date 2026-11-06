@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) [^key-a2a5354c150a3752043d7066e5f8c8b0]... The cultivation of short rotation coppice shall be regarded for the purposes of [^key-cf9b6bfc30987f25bd9ce6041da940c5]... the [^c15673491]Taxation of Chargeable Gains Act 1992 as farming (and, where relevant, as husbandry or agriculture) and not as forestry; and land in the United Kingdom on which the activity is carried on shall accordingly be regarded for those purposes as farm land or agricultural land, as the case may be, and not as woodlands.
+(1) [^c-a2a5354c150a3752043d7066e5f8c8b0]... The cultivation of short rotation coppice shall be regarded for the purposes of [^c-cf9b6bfc30987f25bd9ce6041da940c5]... the [^c15673491]Taxation of Chargeable Gains Act 1992 as farming (and, where relevant, as husbandry or agriculture) and not as forestry; and land in the United Kingdom on which the activity is carried on shall accordingly be regarded for those purposes as farm land or agricultural land, as the case may be, and not as woodlands.
 
-(1A)[^key-b57f34b0e0c97c20ab1a2619b417fdf3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1A)[^c-b57f34b0e0c97c20ab1a2619b417fdf3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) For the purposes of the [^c15673501] Inheritance Tax Act 1984 the cultivation of short rotation coppice shall be regarded as agriculture; and accordingly for those purposes—
 
@@ -37,12 +37,12 @@ summary: ''
 
 ## Annotations
 
-[^key-a2a5354c150a3752043d7066e5f8c8b0]: Textual amendment: Words in s. 154(1) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 369(2)(a)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/369/2/a), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-a2a5354c150a3752043d7066e5f8c8b0]: Textual amendment: Words in s. 154(1) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 369(2)(a)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/369/2/a), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-cf9b6bfc30987f25bd9ce6041da940c5]: Textual amendment: Words in [s. 154(1)](https://www.legislation.gov.uk/ukpga/1995/4/section/154/1) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 289](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/289), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-cf9b6bfc30987f25bd9ce6041da940c5]: Textual amendment: Words in [s. 154(1)](https://www.legislation.gov.uk/ukpga/1995/4/section/154/1) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 289](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/289), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
 [^c15673491]: Marginal citation: [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12).
 
-[^key-b57f34b0e0c97c20ab1a2619b417fdf3]: Textual amendment: S. 154(1A) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 369(3)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/369/3), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-b57f34b0e0c97c20ab1a2619b417fdf3]: Textual amendment: S. 154(1A) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 369(3)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/369/3), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
 [^c15673501]: Marginal citation: [1984 c.51](https://www.legislation.gov.uk/ukpga/1984/51)

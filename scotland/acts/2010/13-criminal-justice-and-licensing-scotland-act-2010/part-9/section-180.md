@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 180. Premises licence applications: notification requirements[^key-e8c47794bd99124c3279928cb73291bf]
+## 180. Premises licence applications: notification requirements[^c-e8c47794bd99124c3279928cb73291bf]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e8c47794bd99124c3279928cb73291bf]: Commencement: [S. 180](https://www.legislation.gov.uk/asp/2010/13/section/180) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule))
+[^c-e8c47794bd99124c3279928cb73291bf]: Commencement: [S. 180](https://www.legislation.gov.uk/asp/2010/13/section/180) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule))

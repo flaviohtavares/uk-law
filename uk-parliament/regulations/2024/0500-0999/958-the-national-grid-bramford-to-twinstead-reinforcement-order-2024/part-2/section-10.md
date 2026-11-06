@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Planning Permission[^key-b1661e8b0143d3e5357f74eed792aa17]
+## 10. Planning Permission[^c-b1661e8b0143d3e5357f74eed792aa17]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ then the carrying out, use or operation of such development pursuant to the term
 
 ## Annotations
 
-[^key-b1661e8b0143d3e5357f74eed792aa17]: Commencement: Art. 10 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-b1661e8b0143d3e5357f74eed792aa17]: Commencement: Art. 10 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 13 — REPEALS[^key-3635fe4225ae9f691759705616c4510d]
+## SCHEDULE 13 — REPEALS[^c-3635fe4225ae9f691759705616c4510d]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,7 +29,7 @@ Regulation 19
 
 ## Annotations
 
-[^key-3635fe4225ae9f691759705616c4510d]: Commencement: Sch. 13 in force at 1.10.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2469/regulation/1)
+[^c-3635fe4225ae9f691759705616c4510d]: Commencement: Sch. 13 in force at 1.10.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2469/regulation/1)
 
 [^f00291]: Footnote: [1990 c. 19](https://www.legislation.gov.uk/ukpga/1990/19).
 

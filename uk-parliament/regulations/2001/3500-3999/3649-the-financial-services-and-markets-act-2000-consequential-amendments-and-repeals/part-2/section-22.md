@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Provision for security of information obtained[^key-1f7e1988541fdd83eb51393c95c52d53]
+## 22. Provision for security of information obtained[^c-1f7e1988541fdd83eb51393c95c52d53]
 
 *Extent: E+W+S+N.I.*
 
@@ -91,7 +91,7 @@ summary: ''
 
 ## Annotations
 
-[^key-1f7e1988541fdd83eb51393c95c52d53]: Commencement: Art. 22 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-1f7e1988541fdd83eb51393c95c52d53]: Commencement: Art. 22 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00026]: Footnote: Amended by the Financial Services Act [1986 (c. 60)](https://www.legislation.gov.uk/ukpga/1986/60), Schedule 13, paragraph 9 and Schedule 17; the Companies Act [1989 (c. 60)](https://www.legislation.gov.uk/ukpga/1989/60), section 65 and Schedule 24; the Friendly Societies Act [1992 (c. 40)](https://www.legislation.gov.uk/ukpga/1992/40), Schedule 21, paragraph 7 and Schedule 22; the Bank of England Act [1998 (c. 11)](https://www.legislation.gov.uk/ukpga/1998/11), Schedule 5, paragraph 62; [S.I. 1992/1315](https://www.legislation.gov.uk/uksi/1992/1315), Schedule 4, paragraph 1; [S.I. 1994/1696](https://www.legislation.gov.uk/uksi/1994/1696), Schedule 13, paragraph 9; and [S.I. 1995/710](https://www.legislation.gov.uk/uksi/1995/710), regulation 5.
 

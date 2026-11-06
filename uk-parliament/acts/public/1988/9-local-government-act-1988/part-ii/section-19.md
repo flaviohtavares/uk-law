@@ -41,7 +41,7 @@ summary: ''
 
 (9) Nothing in section 17 above or subsection (1) above implies that the exercise of any function regulated by that section may not be impugned, in proceedings for judicial review, on the ground that it was exercised by reference to other matters than those which are non-commercial matters for the purposes of that section.
 
-(10)[^key-dd7b6e68fe2e0e666c0a825d0874dc97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-dd7b6e68fe2e0e666c0a825d0874dc97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (11) In consequence of section 17 above, the following provisions (which require local authorities to secure the insertion of fair wages clauses in all housing contracts), namely—
 
@@ -60,7 +60,7 @@ shall cease to have effect.
 
 [^c13394561]: Marginal citation: [1973 c. 65](https://www.legislation.gov.uk/ukpga/1973/65).
 
-[^key-dd7b6e68fe2e0e666c0a825d0874dc97]: Textual amendment: [S. 19(10)](https://www.legislation.gov.uk/ukpga/1988/9/section/19/10) repealed (5.4.2011) by [Equality Act 2010 (c. 15)](https://www.legislation.gov.uk/ukpga/2010/15), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2010/15/section/216/3), [Sch. 26 para. 12](https://www.legislation.gov.uk/ukpga/2010/15/schedule/26/paragraph/12), [Sch. 27 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/15/schedule/27/part/1) (with [ss. 6(4)](https://www.legislation.gov.uk/ukpga/2010/15/section/6/4), [205](https://www.legislation.gov.uk/ukpga/2010/15/section/205)); [S.I. 2011/1066](https://www.legislation.gov.uk/uksi/2011/1066), [art. 2(g)(i)](https://www.legislation.gov.uk/uksi/2011/1066/article/2/g/i)
+[^c-dd7b6e68fe2e0e666c0a825d0874dc97]: Textual amendment: [S. 19(10)](https://www.legislation.gov.uk/ukpga/1988/9/section/19/10) repealed (5.4.2011) by [Equality Act 2010 (c. 15)](https://www.legislation.gov.uk/ukpga/2010/15), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2010/15/section/216/3), [Sch. 26 para. 12](https://www.legislation.gov.uk/ukpga/2010/15/schedule/26/paragraph/12), [Sch. 27 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/15/schedule/27/part/1) (with [ss. 6(4)](https://www.legislation.gov.uk/ukpga/2010/15/section/6/4), [205](https://www.legislation.gov.uk/ukpga/2010/15/section/205)); [S.I. 2011/1066](https://www.legislation.gov.uk/uksi/2011/1066), [art. 2(g)(i)](https://www.legislation.gov.uk/uksi/2011/1066/article/2/g/i)
 
 [^c13394571]: Marginal citation: [1985 c. 68](https://www.legislation.gov.uk/ukpga/1985/68).
 

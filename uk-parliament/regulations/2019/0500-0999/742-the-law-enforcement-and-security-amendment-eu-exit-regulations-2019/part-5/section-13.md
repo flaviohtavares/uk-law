@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Amendment of Regulation [(EC) 273/2004](https://www.legislation.gov.uk/eur/2004/273) of the European Parliament and Council[^key-cb99e99b8a5e65f95cf8235c4656de9a]
+## 13. Amendment of Regulation [(EC) 273/2004](https://www.legislation.gov.uk/eur/2004/273) of the European Parliament and Council[^c-cb99e99b8a5e65f95cf8235c4656de9a]
 
 *Extent: E+W+S+N.I.*
 
@@ -122,7 +122,7 @@ summary: ''
 
 ## Annotations
 
-[^key-cb99e99b8a5e65f95cf8235c4656de9a]: Commencement: Reg. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-cb99e99b8a5e65f95cf8235c4656de9a]: Commencement: Reg. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23691071]: Marginal citation: [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916).
 

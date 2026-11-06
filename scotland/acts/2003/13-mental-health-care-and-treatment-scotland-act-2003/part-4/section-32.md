@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32. Appointment of mental health officers[^key-0529c0278e2e62aa93313fa0f373c62f][^key-5c7686c1cc36bedce28d80d3893131c1]
+## 32. Appointment of mental health officers[^c-0529c0278e2e62aa93313fa0f373c62f][^c-5c7686c1cc36bedce28d80d3893131c1]
 
 *Extent: S*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0529c0278e2e62aa93313fa0f373c62f]: Commencement: S. 32 in force at 21.3.2005 for specified purposes by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 2](https://www.legislation.gov.uk/ssi/2005/161/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/161/schedule/1)
+[^c-0529c0278e2e62aa93313fa0f373c62f]: Commencement: S. 32 in force at 21.3.2005 for specified purposes by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 2](https://www.legislation.gov.uk/ssi/2005/161/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/161/schedule/1)
 
-[^key-5c7686c1cc36bedce28d80d3893131c1]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2003/13/section/32) in force at 5.10.2005 in so far as not already in force by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
+[^c-5c7686c1cc36bedce28d80d3893131c1]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2003/13/section/32) in force at 5.10.2005 in so far as not already in force by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)

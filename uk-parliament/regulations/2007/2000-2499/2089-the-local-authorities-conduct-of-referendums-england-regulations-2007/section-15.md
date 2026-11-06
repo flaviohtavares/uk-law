@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Procedures for questioning referendum[^key-e27ddcdfc51aa09923f866006e813476]
+## 15. Procedures for questioning referendum[^c-e27ddcdfc51aa09923f866006e813476]
 
 *Extent: E+W*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e27ddcdfc51aa09923f866006e813476]: Commencement: Reg. 15 in force at 27.7.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2089/regulation/1/2)
+[^c-e27ddcdfc51aa09923f866006e813476]: Commencement: Reg. 15 in force at 27.7.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2089/regulation/1/2)
 
 [^f00026]: Footnote: [S.I. 1960/543](https://www.legislation.gov.uk/uksi/1960/543); amended by [S.I. 1985/1278](https://www.legislation.gov.uk/uksi/1985/1278), [1999/1352](https://www.legislation.gov.uk/uksi/1999/1352) and [2003/972](https://www.legislation.gov.uk/uksi/2003/972).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Promotion standards[^key-9b10c32e04e54837086dc39621775171]
+## 31. Promotion standards[^c-9b10c32e04e54837086dc39621775171]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In this Measure “**promotion standard**” means a standard (relating to any a
 
 ## Annotations
 
-[^key-9b10c32e04e54837086dc39621775171]: Commencement: [S. 31](https://www.legislation.gov.uk/mwa/2011/1/section/31) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(i)(i)](https://www.legislation.gov.uk/wsi/2012/969/article/2/i/i)
+[^c-9b10c32e04e54837086dc39621775171]: Commencement: [S. 31](https://www.legislation.gov.uk/mwa/2011/1/section/31) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(i)(i)](https://www.legislation.gov.uk/wsi/2012/969/article/2/i/i)

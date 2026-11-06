@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Onshore petroleum[^key-e87213eb3d3a4a76e1b64fc3d7987f70]
+## 47. Onshore petroleum[^c-e87213eb3d3a4a76e1b64fc3d7987f70]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e87213eb3d3a4a76e1b64fc3d7987f70]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2016/11/section/47) in force at 9.2.2018 by [S.I. 2018/163](https://www.legislation.gov.uk/uksi/2018/163), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/163/regulation/2/a)
+[^c-e87213eb3d3a4a76e1b64fc3d7987f70]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2016/11/section/47) in force at 9.2.2018 by [S.I. 2018/163](https://www.legislation.gov.uk/uksi/2018/163), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/163/regulation/2/a)

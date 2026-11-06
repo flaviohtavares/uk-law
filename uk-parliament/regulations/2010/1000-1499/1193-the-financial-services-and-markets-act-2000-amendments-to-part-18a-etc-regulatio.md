@@ -32,7 +32,7 @@ summary: ''
 
 Financial Services And Markets
 
-The Financial Services and Markets Act 2000 (Amendments to Part 18A etc.) Regulations 2010 (revoked)[^key-1b1b246284ec49d018632490bd452d89]
+The Financial Services and Markets Act 2000 (Amendments to Part 18A etc.) Regulations 2010 (revoked)[^c-1b1b246284ec49d018632490bd452d89]
 
 Made
 
@@ -42,42 +42,42 @@ Coming into force
 
 9th April 2010
 
-[^key-1b1b246284ec49d018632490bd452d89]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1b1b246284ec49d018632490bd452d89]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-1b1b246284ec49d018632490bd452d89]
+## 1. Citation, commencement and interpretation[^c-1b1b246284ec49d018632490bd452d89]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of section 313A[^key-1b1b246284ec49d018632490bd452d89]
+## 2. Amendment of section 313A[^c-1b1b246284ec49d018632490bd452d89]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of section 313B[^key-1b1b246284ec49d018632490bd452d89]
+## 3. Amendment of section 313B[^c-1b1b246284ec49d018632490bd452d89]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Suspension or removal of financial instruments from trading: further procedure[^key-1b1b246284ec49d018632490bd452d89]
+## 4. Suspension or removal of financial instruments from trading: further procedure[^c-1b1b246284ec49d018632490bd452d89]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of section 313C[^key-1b1b246284ec49d018632490bd452d89]
+## 5. Amendment of section 313C[^c-1b1b246284ec49d018632490bd452d89]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of section 313D[^key-1b1b246284ec49d018632490bd452d89]
+## 6. Amendment of section 313D[^c-1b1b246284ec49d018632490bd452d89]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendments to the Financial Services and Markets Act 2000 (Service of Notices) Regulations 2001[^key-1b1b246284ec49d018632490bd452d89]
+## 7. Amendments to the Financial Services and Markets Act 2000 (Service of Notices) Regulations 2001[^c-1b1b246284ec49d018632490bd452d89]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1b1b246284ec49d018632490bd452d89]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1b1b246284ec49d018632490bd452d89]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1b1b246284ec49d018632490bd452d89]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1b1b246284ec49d018632490bd452d89]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1b1b246284ec49d018632490bd452d89]: Textual amendment: Regulations revoked (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/779/regulation/3/b), [Sch.](https://www.legislation.gov.uk/uksi/2023/779/schedule)
+[^c-1b1b246284ec49d018632490bd452d89]: Textual amendment: Regulations revoked (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/779/regulation/3/b), [Sch.](https://www.legislation.gov.uk/uksi/2023/779/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 80. Notice to local authority of intended demolition.[^M_C_b6616734-25ae-4f55-8f3c-70e357f0c6fd][^key-f147a84465b190721fb41b058843e980][^key-159f1306a3edbf56076e93dd873492fb]
+## 80. Notice to local authority of intended demolition.[^M_C_b6616734-25ae-4f55-8f3c-70e357f0c6fd][^c-f147a84465b190721fb41b058843e980][^c-159f1306a3edbf56076e93dd873492fb]
 
 *Extent: E+W*
 
@@ -31,7 +31,7 @@ summary: ''
 (2) No person shall begin a demolition to which this section applies unless—
 
 - (a) he has given the local authority notice of his intention to do so, and
-- (b)[^key-62d40c743753b5e744cab1cbc9270803][^key-4e27f6a06507a8b70c79bacca25fd109][^M_C_a7c3dbfd-d6af-45a1-db1a-f7d281e5bbda] either—
+- (b)[^c-62d40c743753b5e744cab1cbc9270803][^c-4e27f6a06507a8b70c79bacca25fd109][^M_C_a7c3dbfd-d6af-45a1-db1a-f7d281e5bbda] either—
   - (i) the local authority have given a notice to him under section 81 below, or
   - (ii) the relevant period (as defined in that section) has expired.
 
@@ -47,9 +47,9 @@ summary: ''
 
 [^M_C_b6616734-25ae-4f55-8f3c-70e357f0c6fd]: Modification: S. 80 excluded (7.12.2022) by [The A417 Missing Link Development Consent Order 2022 (S.I. 2022/1248)](https://www.legislation.gov.uk/uksi/2022/1248), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1248/article/1), [3](https://www.legislation.gov.uk/uksi/2022/1248/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2022/1248/article/4))
 
-[^key-f147a84465b190721fb41b058843e980]: Modification: S. 80 excluded (28.3.2024) by [The A66 Northern Trans-Pennine Development Consent Order 2024 (S.I. 2024/360)](https://www.legislation.gov.uk/uksi/2024/360), [arts. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1), [3(1)](https://www.legislation.gov.uk/uksi/2024/360/article/3/1) (with [arts. 18](https://www.legislation.gov.uk/uksi/2024/360/article/18), [35](https://www.legislation.gov.uk/uksi/2024/360/article/35), [Sch. 9](https://www.legislation.gov.uk/uksi/2024/360/schedule/9))
+[^c-f147a84465b190721fb41b058843e980]: Modification: S. 80 excluded (28.3.2024) by [The A66 Northern Trans-Pennine Development Consent Order 2024 (S.I. 2024/360)](https://www.legislation.gov.uk/uksi/2024/360), [arts. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1), [3(1)](https://www.legislation.gov.uk/uksi/2024/360/article/3/1) (with [arts. 18](https://www.legislation.gov.uk/uksi/2024/360/article/18), [35](https://www.legislation.gov.uk/uksi/2024/360/article/35), [Sch. 9](https://www.legislation.gov.uk/uksi/2024/360/schedule/9))
 
-[^key-159f1306a3edbf56076e93dd873492fb]: Modification: [S. 80](https://www.legislation.gov.uk/ukpga/1984/55/section/80) excluded (25.6.2025) by [The M5 Junction 10 Development Consent Order 2025 (S.I. 2025/795)](https://www.legislation.gov.uk/uksi/2025/795), [arts. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2025/795/article/3/b) (with [arts. 4](https://www.legislation.gov.uk/uksi/2025/795/article/4), [43](https://www.legislation.gov.uk/uksi/2025/795/article/43), [Sch. 9](https://www.legislation.gov.uk/uksi/2025/795/schedule/9))
+[^c-159f1306a3edbf56076e93dd873492fb]: Modification: [S. 80](https://www.legislation.gov.uk/ukpga/1984/55/section/80) excluded (25.6.2025) by [The M5 Junction 10 Development Consent Order 2025 (S.I. 2025/795)](https://www.legislation.gov.uk/uksi/2025/795), [arts. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2025/795/article/3/b) (with [arts. 4](https://www.legislation.gov.uk/uksi/2025/795/article/4), [43](https://www.legislation.gov.uk/uksi/2025/795/article/43), [Sch. 9](https://www.legislation.gov.uk/uksi/2025/795/schedule/9))
 
 [^c928031]: Textual amendment: Words inserted (*retrosp.* 1.4.1986) by [Housing and Planning Act 1986 (c. 63, SIF 15)](https://www.legislation.gov.uk/ukpga/1986/63), [s. 24(1)](https://www.legislation.gov.uk/ukpga/1986/63/section/24/1), [Sch. 5 para. 11(1)(2)](https://www.legislation.gov.uk/ukpga/1986/63/schedule/5/paragraph/11/1/2)
 
@@ -57,9 +57,9 @@ summary: ''
 
 [^c928051]: Textual amendment: Words substituted by [S.I. 1990/1285](https://www.legislation.gov.uk/uksi/1990/1285), [art. 2](https://www.legislation.gov.uk/uksi/1990/1285/article/2), [Sch. para. 7](https://www.legislation.gov.uk/uksi/1990/1285/schedule/paragraph/7)
 
-[^key-62d40c743753b5e744cab1cbc9270803]: Modification: S. 80(2)(b) excluded (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1), [Sch. 22 para. 6](https://www.legislation.gov.uk/ukpga/2021/2/schedule/22/paragraph/6)
+[^c-62d40c743753b5e744cab1cbc9270803]: Modification: S. 80(2)(b) excluded (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1), [Sch. 22 para. 6](https://www.legislation.gov.uk/ukpga/2021/2/schedule/22/paragraph/6)
 
-[^key-4e27f6a06507a8b70c79bacca25fd109]: Modification: [S. 80(2)(b)](https://www.legislation.gov.uk/ukpga/1984/55/section/80/2/b) excluded (3.11.2022) by [The Network Rail (Huddersfield to Westtown (Dewsbury) Improvements) Order 2022 (S.I. 2022/1067)](https://www.legislation.gov.uk/uksi/2022/1067), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1067/article/1), [5(3)](https://www.legislation.gov.uk/uksi/2022/1067/article/5/3)
+[^c-4e27f6a06507a8b70c79bacca25fd109]: Modification: [S. 80(2)(b)](https://www.legislation.gov.uk/ukpga/1984/55/section/80/2/b) excluded (3.11.2022) by [The Network Rail (Huddersfield to Westtown (Dewsbury) Improvements) Order 2022 (S.I. 2022/1067)](https://www.legislation.gov.uk/uksi/2022/1067), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1067/article/1), [5(3)](https://www.legislation.gov.uk/uksi/2022/1067/article/5/3)
 
 [^M_C_a7c3dbfd-d6af-45a1-db1a-f7d281e5bbda]: Modification: S. 80(2)(b) excluded (18.12.2024) by [The Network Rail (Leeds to Micklefield Enhancements) Order 2024 (S.I. 2024/1284)](https://www.legislation.gov.uk/uksi/2024/1284), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1248/article/1), [5](https://www.legislation.gov.uk/uksi/2022/1248/article/5) (with [Sch. 15](https://www.legislation.gov.uk/uksi/2022/1248/schedule/15))
 

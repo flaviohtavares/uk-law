@@ -35,48 +35,48 @@ laying down implementing technical standards with regard to the procedures for d
 
 (Text with EEA relevance) (revoked)
 
-[^key-d6220bae11ff8abafd38d1c2ebfde519]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d6220bae11ff8abafd38d1c2ebfde519]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Notification before setting a capital add-on[^key-d6220bae11ff8abafd38d1c2ebfde519]
+## Article 1. Notification before setting a capital add-on[^c-d6220bae11ff8abafd38d1c2ebfde519]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Calculation of capital add-on[^key-d6220bae11ff8abafd38d1c2ebfde519]
+## Article 2. Calculation of capital add-on[^c-d6220bae11ff8abafd38d1c2ebfde519]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Provision of information[^key-d6220bae11ff8abafd38d1c2ebfde519]
+## Article 3. Provision of information[^c-d6220bae11ff8abafd38d1c2ebfde519]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Decision to set a capital add-on[^key-d6220bae11ff8abafd38d1c2ebfde519]
+## Article 4. Decision to set a capital add-on[^c-d6220bae11ff8abafd38d1c2ebfde519]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Progress report[^key-d6220bae11ff8abafd38d1c2ebfde519]
+## Article 5. Progress report[^c-d6220bae11ff8abafd38d1c2ebfde519]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Review of the capital add-on[^key-d6220bae11ff8abafd38d1c2ebfde519]
+## Article 6. Review of the capital add-on[^c-d6220bae11ff8abafd38d1c2ebfde519]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Maintaining, changing or removing the capital add-on[^key-d6220bae11ff8abafd38d1c2ebfde519]
+## Article 7. Maintaining, changing or removing the capital add-on[^c-d6220bae11ff8abafd38d1c2ebfde519]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Decision to change or remove the capital add-on[^key-d6220bae11ff8abafd38d1c2ebfde519]
+## Article 8. Decision to change or remove the capital add-on[^c-d6220bae11ff8abafd38d1c2ebfde519]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Entry into force[^key-d6220bae11ff8abafd38d1c2ebfde519]
+## Article 9. Entry into force[^c-d6220bae11ff8abafd38d1c2ebfde519]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d6220bae11ff8abafd38d1c2ebfde519]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d6220bae11ff8abafd38d1c2ebfde519]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d6220bae11ff8abafd38d1c2ebfde519]: Textual amendment: Regulation revoked (31.12.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2024/620](https://www.legislation.gov.uk/uksi/2024/620), [Sch.](https://www.legislation.gov.uk/uksi/2024/620/schedule) (with savings in relation to a Gibraltar group or a Gibraltar undertaking in [S.I. 2024/1083](https://www.legislation.gov.uk/uksi/2024/1083), [reg. 3](https://www.legislation.gov.uk/uksi/2024/1083/regulation/3))
+[^c-d6220bae11ff8abafd38d1c2ebfde519]: Textual amendment: Regulation revoked (31.12.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2024/620](https://www.legislation.gov.uk/uksi/2024/620), [Sch.](https://www.legislation.gov.uk/uksi/2024/620/schedule) (with savings in relation to a Gibraltar group or a Gibraltar undertaking in [S.I. 2024/1083](https://www.legislation.gov.uk/uksi/2024/1083), [reg. 3](https://www.legislation.gov.uk/uksi/2024/1083/regulation/3))

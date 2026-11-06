@@ -46,7 +46,7 @@ The Department of Justice, with the concurrence of the Department for the Econom
 
 In accordance with Article 359 of the Insolvency (Northern Ireland) Order 1989, the Department of Justice has consulted the Committee appointed under Article 360 of that Order.
 
-## 1. Citation, commencement and interpretation[^key-7d53a3771c4148f5dda0035c64fdebcc]
+## 1. Citation, commencement and interpretation[^c-7d53a3771c4148f5dda0035c64fdebcc]
 
 (1) These Rules may be cited as the Compensation Orders (Disqualified Directors) Proceedings (No. 2) Rules (Northern Ireland) 2025 and come into operation on 11th July 2025.
 
@@ -63,14 +63,14 @@ In accordance with Article 359 of the Insolvency (Northern Ireland) Order 1989, 
   - (b) the Department (in the case of an application under Article 19C(1)[^f00005]);
 - “**Rules of the Court of Judicature**” means the Rules of the Court of Judicature (Northern Ireland) 1980[^f00006].
 
-## 2. Application[^key-f2ecef2932a1f569395ed3560277d4c6]
+## 2. Application[^c-f2ecef2932a1f569395ed3560277d4c6]
 
 These Rules apply to an application under the Order made on or after 11th July 2025–
 
 - (a) by the Department for a compensation order against a person under Article 19A(1), and
 - (b) by a person who is subject to a compensation undertaking under Article 19A(2) for variation or revocation of that undertaking under Article 19C(1).
 
-## 3. Form and conduct of applications[^key-943d444d2a73b45aa9ad1ef56a93064a]
+## 3. Form and conduct of applications[^c-943d444d2a73b45aa9ad1ef56a93064a]
 
 (1) An application must be made by originating summons (Form 7 in Appendix A to the Rules of the Court of Judicature, with such adaptation as may be appropriate), and the Rules of the Court of Judicature apply accordingly, except where these Rules make different provision.
 
@@ -78,7 +78,7 @@ These Rules apply to an application under the Order made on or after 11th July 2
 
 (3) In the case of an application under Article 19C(1), the Department is the respondent for the purposes of the Rules of the Court of Judicature.
 
-## 4. The applicant’s case[^key-283a44aebd99a65fe54a8beffb62cad8]
+## 4. The applicant’s case[^c-283a44aebd99a65fe54a8beffb62cad8]
 
 (1) The applicant must, at the time when the summons is issued, file in court evidence in support of the application.
 
@@ -100,7 +100,7 @@ These Rules apply to an application under the Order made on or after 11th July 2
 
 (5) The notice under paragraph (4) must identify particulars of the order the applicant is seeking under Article 19B(1).
 
-## 5. Endorsements etc. on summons[^key-8491e86b7532f8c22fa95daead565c9e]
+## 5. Endorsements etc. on summons[^c-8491e86b7532f8c22fa95daead565c9e]
 
 (1) The following information must be endorsed on the summons—
 
@@ -112,13 +112,13 @@ These Rules apply to an application under the Order made on or after 11th July 2
 
 (2) The time limits referred to in sub-paragraphs (d) and (e) of paragraph (1) must be set out in the summons.
 
-## 6. Service[^key-d1f5ed4c006e18afc5239ab2c04f233b]
+## 6. Service[^c-d1f5ed4c006e18afc5239ab2c04f233b]
 
 (1) After the summons is issued, it must be served on the relevant party without delay by sending it by first class post to the relevant party’s last known address, and the date of service is, unless the contrary is shown, deemed to be the seventh day after the date on which the summons was posted.
 
 (2) Where any process or order of the court or other document is required under proceedings subject to these Rules to be served on any person who is not in Northern Ireland, the court may order service on the person of that process or order or other document to be effected within such time and in such manner as it thinks fit, and may also require such proof of service as it thinks fit.
 
-## 7. Statement by relevant party[^key-27b1c2c20566880f4fa649c8b70bfcc5]
+## 7. Statement by relevant party[^c-27b1c2c20566880f4fa649c8b70bfcc5]
 
 (1) In the case of an application under Article 19A(1), the respondent must, within 14 days from the date of service of the summons, file in court a statement indicating–
 
@@ -132,7 +132,7 @@ These Rules apply to an application under the Order made on or after 11th July 2
 
 (3) The respondent or the Department as the case may be, must after filing such statement serve a copy upon the applicant without delay.
 
-## 8. Evidence[^key-c67d482493d2831efaf27dba88fe67a5]
+## 8. Evidence[^c-c67d482493d2831efaf27dba88fe67a5]
 
 (1) The relevant party must, within 28 days from the date of service of the summons, file in court any evidence relating to the application which the relevant party wishes the court to take into consideration.
 
@@ -144,7 +144,7 @@ These Rules apply to an application under the Order made on or after 11th July 2
 
 (5) Any evidence filed and served under this rule must be by affidavit.
 
-## 9. The hearing of the application[^key-bc26016bdc4b9a57db9f7c035ef2edbb]
+## 9. The hearing of the application[^c-bc26016bdc4b9a57db9f7c035ef2edbb]
 
 (1) When the summons is issued, the court must fix a date for the first hearing of the application for a date not less than 8 weeks from the date of issue of the summons.
 
@@ -165,7 +165,7 @@ These Rules apply to an application under the Order made on or after 11th July 2
   - (iv) such other matters as the Master thinks necessary or expedient with a view to an expeditious disposal of the application, and
   - (v) the time and place of the adjourned hearing.
 
-## 10. Compensation orders: making and setting aside of an order[^key-e71e9ab6997dbe0172d3b44514db8dbd]
+## 10. Compensation orders: making and setting aside of an order[^c-e71e9ab6997dbe0172d3b44514db8dbd]
 
 (1) The court may make a compensation order under Article 19A(1) against the respondent whether or not the respondent-
 
@@ -175,7 +175,7 @@ These Rules apply to an application under the Order made on or after 11th July 2
 
 (2) Any compensation order made in the absence of the respondent may be set aside or varied by the court on such terms as it thinks just.
 
-## 11. Appeal from order or decision of Master[^key-6455801f0dcec1664dfb27b2117124cc]
+## 11. Appeal from order or decision of Master[^c-6455801f0dcec1664dfb27b2117124cc]
 
 (1) Order 58, rule 1(2) to (4) of the Rules of the Court of Judicature applies, subject to the substitutions made by paragraph (2), to an appeal from an order or decision of the Master on an application to which these Rules apply.
 
@@ -184,7 +184,7 @@ These Rules apply to an application under the Order made on or after 11th July 2
 - (a) for “5 days” substitute “28 days”, and
 - (b) for “2 clear days” substitute “7 days”.
 
-## 12. Revocation[^key-58dc1e18261919dde126a7600fc4cb12]
+## 12. Revocation[^c-58dc1e18261919dde126a7600fc4cb12]
 
 The Compensation Orders (Disqualified Directors) Proceedings Rules (Northern Ireland) 2025[^f00008] are revoked.
 
@@ -240,7 +240,7 @@ A regulatory impact assessment has not been produced for these Rules as no impac
 
 [^f00003]: Footnote: [S.I. 2002/3150 (N.I. 4)](https://www.legislation.gov.uk/nisi/2002/3150)
 
-[^key-7d53a3771c4148f5dda0035c64fdebcc]: Commencement: Art. 1 in operation at 11.7.2025, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2025/121/article/1/1)
+[^c-7d53a3771c4148f5dda0035c64fdebcc]: Commencement: Art. 1 in operation at 11.7.2025, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2025/121/article/1/1)
 
 [^f00004]: Footnote: Article 19A was inserted by section 112 of and paragraph 8, of Schedule 8 to the Small Business, Enterprise and Employment Act [2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26) and was amended by section 3(7) of the Rating (Coronavirus) and Directors Disqualification (Dissolved Companies) Act [2021 (c.34)](https://www.legislation.gov.uk/ukpga/2021/34)
 
@@ -248,28 +248,28 @@ A regulatory impact assessment has not been produced for these Rules as no impac
 
 [^f00006]: Footnote: [S.R. 1980 No.346](https://www.legislation.gov.uk/nisr/1980/346).
 
-[^key-f2ecef2932a1f569395ed3560277d4c6]: Commencement: Art. 2 in operation at 11.7.2025, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2025/121/article/1/1)
+[^c-f2ecef2932a1f569395ed3560277d4c6]: Commencement: Art. 2 in operation at 11.7.2025, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2025/121/article/1/1)
 
-[^key-943d444d2a73b45aa9ad1ef56a93064a]: Commencement: Art. 3 in operation at 11.7.2025, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2025/121/article/1/1)
+[^c-943d444d2a73b45aa9ad1ef56a93064a]: Commencement: Art. 3 in operation at 11.7.2025, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2025/121/article/1/1)
 
-[^key-283a44aebd99a65fe54a8beffb62cad8]: Commencement: Art. 4 in operation at 11.7.2025, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2025/121/article/1/1)
+[^c-283a44aebd99a65fe54a8beffb62cad8]: Commencement: Art. 4 in operation at 11.7.2025, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2025/121/article/1/1)
 
 [^f00007]: Footnote: Article 19B was inserted by section 112 of, and paragraph 8, of Schedule 8 to the Small Business, Enterprise and Employment Act [2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26).
 
-[^key-8491e86b7532f8c22fa95daead565c9e]: Commencement: Art. 5 in operation at 11.7.2025, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2025/121/article/1/1)
+[^c-8491e86b7532f8c22fa95daead565c9e]: Commencement: Art. 5 in operation at 11.7.2025, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2025/121/article/1/1)
 
-[^key-d1f5ed4c006e18afc5239ab2c04f233b]: Commencement: Art. 6 in operation at 11.7.2025, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2025/121/article/1/1)
+[^c-d1f5ed4c006e18afc5239ab2c04f233b]: Commencement: Art. 6 in operation at 11.7.2025, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2025/121/article/1/1)
 
-[^key-27b1c2c20566880f4fa649c8b70bfcc5]: Commencement: Art. 7 in operation at 11.7.2025, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2025/121/article/1/1)
+[^c-27b1c2c20566880f4fa649c8b70bfcc5]: Commencement: Art. 7 in operation at 11.7.2025, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2025/121/article/1/1)
 
-[^key-c67d482493d2831efaf27dba88fe67a5]: Commencement: Art. 8 in operation at 11.7.2025, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2025/121/article/1/1)
+[^c-c67d482493d2831efaf27dba88fe67a5]: Commencement: Art. 8 in operation at 11.7.2025, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2025/121/article/1/1)
 
-[^key-bc26016bdc4b9a57db9f7c035ef2edbb]: Commencement: Art. 9 in operation at 11.7.2025, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2025/121/article/1/1)
+[^c-bc26016bdc4b9a57db9f7c035ef2edbb]: Commencement: Art. 9 in operation at 11.7.2025, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2025/121/article/1/1)
 
-[^key-e71e9ab6997dbe0172d3b44514db8dbd]: Commencement: Art. 10 in operation at 11.7.2025, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2025/121/article/1/1)
+[^c-e71e9ab6997dbe0172d3b44514db8dbd]: Commencement: Art. 10 in operation at 11.7.2025, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2025/121/article/1/1)
 
-[^key-6455801f0dcec1664dfb27b2117124cc]: Commencement: Art. 11 in operation at 11.7.2025, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2025/121/article/1/1)
+[^c-6455801f0dcec1664dfb27b2117124cc]: Commencement: Art. 11 in operation at 11.7.2025, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2025/121/article/1/1)
 
-[^key-58dc1e18261919dde126a7600fc4cb12]: Commencement: Art. 12 in operation at 11.7.2025, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2025/121/article/1/1)
+[^c-58dc1e18261919dde126a7600fc4cb12]: Commencement: Art. 12 in operation at 11.7.2025, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2025/121/article/1/1)
 
 [^f00008]: Footnote: [S.R. 2025 No. 113](https://www.legislation.gov.uk/nisr/2025/113) The statutory rule as made contained an inadvertent error in rule 2. That error meant the date of application of the Rules to proceedings under the Company Directors Disqualification (Northern Ireland) Order 2002 was uncertain. This statutory rule (which otherwise is made in substantively the same terms, with the error in rule 2 corrected) contains a statement that [S.R. 2025 No. 113](https://www.legislation.gov.uk/nisr/2025/113) is revoked.

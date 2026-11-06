@@ -39,16 +39,16 @@ amending Decision 2012/757/EU concerning the technical specification for interop
 
 (2013/710/EU) (revoked)
 
-[^key-c6ccde421b17c9ed15f25832de1afdba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c6ccde421b17c9ed15f25832de1afdba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-c6ccde421b17c9ed15f25832de1afdba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-c6ccde421b17c9ed15f25832de1afdba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-c6ccde421b17c9ed15f25832de1afdba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-c6ccde421b17c9ed15f25832de1afdba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-c6ccde421b17c9ed15f25832de1afdba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-c6ccde421b17c9ed15f25832de1afdba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c6ccde421b17c9ed15f25832de1afdba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c6ccde421b17c9ed15f25832de1afdba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c6ccde421b17c9ed15f25832de1afdba]: Textual amendment: Decision revoked (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/318/schedule/2)
+[^c-c6ccde421b17c9ed15f25832de1afdba]: Textual amendment: Decision revoked (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/318/schedule/2)

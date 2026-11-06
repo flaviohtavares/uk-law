@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Right of entry: supplementary[^key-5846ad1432144693d83afd1780d73825]
+## 73. Right of entry: supplementary[^c-5846ad1432144693d83afd1780d73825]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ is guilty of an offence and liable on summary conviction to a fine not exceeding
 
 ## Annotations
 
-[^key-5846ad1432144693d83afd1780d73825]: Commencement: S. 73 in force at 1.4.2004 by [S.I. 2004/873](https://www.legislation.gov.uk/uksi/2004/873), [art. 2(b)](https://www.legislation.gov.uk/uksi/2004/873/article/2/b)
+[^c-5846ad1432144693d83afd1780d73825]: Commencement: S. 73 in force at 1.4.2004 by [S.I. 2004/873](https://www.legislation.gov.uk/uksi/2004/873), [art. 2(b)](https://www.legislation.gov.uk/uksi/2004/873/article/2/b)

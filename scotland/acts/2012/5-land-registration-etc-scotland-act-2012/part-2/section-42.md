@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 42. Notification to Scottish Ministers of certain applications[^key-38df3b385860f0002748e14c3502d642]
+## 42. Notification to Scottish Ministers of certain applications[^c-38df3b385860f0002748e14c3502d642]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-38df3b385860f0002748e14c3502d642]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2012/5/section/42) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-38df3b385860f0002748e14c3502d642]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2012/5/section/42) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

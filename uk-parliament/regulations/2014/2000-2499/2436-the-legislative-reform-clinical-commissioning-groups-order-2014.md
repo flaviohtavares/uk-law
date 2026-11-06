@@ -53,21 +53,21 @@ Pursuant to section 15 of that Act, the affirmative resolution procedure (within
 
 In accordance with section 17(2) of that Act, the draft has been approved by resolution of each House of Parliament after the expiry of the 40-day period referred to in that provision.
 
-## 1. Citation and commencement[^key-4ff03de742f73b443791cc4afda086a9]
+## 1. Citation and commencement[^c-4ff03de742f73b443791cc4afda086a9]
 
 (1) This Order may be cited as the Legislative Reform (Clinical Commissioning Groups) Order 2014.
 
 (2) This Order comes into force on 1st October 2014.
 
-## 2. Amendment of the National Health Service Act 2006[^key-560398be6e3d18c6edd5673f32d2ed06]
+## 2. Amendment of the National Health Service Act 2006[^c-560398be6e3d18c6edd5673f32d2ed06]
 
 In section 14Z3 of the National Health Service Act 2006[^f00002] (arrangements by clinical commissioning groups in respect of the exercise of functions), after subsection (2) insert—
 
 > (2A) Where any functions are, by virtue of subsection (2)(b), exercisable jointly by two or more clinical commissioning groups, they may be exercised by a joint committee of the groups.
 
-**3.**[^key-20162bcfb14610bc462c560bae90747d] (1) Section 14Z9 of the National Health Service Act 2006 is amended as follows.
+**3.**[^c-20162bcfb14610bc462c560bae90747d] (1) Section 14Z9 of the National Health Service Act 2006 is amended as follows.
 
-(2) For the heading substitute “Exercise of functions by, or jointly with, NHS England[^key-5b7fcd799baa7382ba747bb93ef7428c]”.
+(2) For the heading substitute “Exercise of functions by, or jointly with, NHS England[^c-5b7fcd799baa7382ba747bb93ef7428c]”.
 
 (3) After subsection (1) insert—
 
@@ -110,12 +110,12 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00001]: Footnote: [2006 c.51](https://www.legislation.gov.uk/ukpga/2006/51); section 1(6) was amended by [S.I. 2007/1388](https://www.legislation.gov.uk/uksi/2007/1388). See section 32 for the definition of “Minister of the Crown”.
 
-[^key-4ff03de742f73b443791cc4afda086a9]: Commencement: Art. 1 in force at 1.10.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/2436/article/1/2)
+[^c-4ff03de742f73b443791cc4afda086a9]: Commencement: Art. 1 in force at 1.10.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/2436/article/1/2)
 
-[^key-560398be6e3d18c6edd5673f32d2ed06]: Commencement: Art. 2 in force at 1.10.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/2436/article/1/2)
+[^c-560398be6e3d18c6edd5673f32d2ed06]: Commencement: Art. 2 in force at 1.10.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/2436/article/1/2)
 
 [^f00002]: Footnote: [2006 (c.41)](https://www.legislation.gov.uk/ukpga/2006/41); sections 14Z3 and 14Z9 were inserted by the Health and Social Care Act [2012 (c.7)](https://www.legislation.gov.uk/ukpga/2012/7), section 26.
 
-[^key-20162bcfb14610bc462c560bae90747d]: Commencement: Art. 3 in force at 1.10.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/2436/article/1/2)
+[^c-20162bcfb14610bc462c560bae90747d]: Commencement: Art. 3 in force at 1.10.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/2436/article/1/2)
 
-[^key-5b7fcd799baa7382ba747bb93ef7428c]: Textual amendment: Words in Order substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-5b7fcd799baa7382ba747bb93ef7428c]: Textual amendment: Words in Order substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)

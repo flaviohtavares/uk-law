@@ -93,17 +93,17 @@ Section 61
 
 ### Amounts not fully recognised for accounting purposes
 
-**2.** (1)[^key-d9bee2940d2e9d70d70f42cb116cdf18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.** (1)[^c-d9bee2940d2e9d70d70f42cb116cdf18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-d9bee2940d2e9d70d70f42cb116cdf18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-d9bee2940d2e9d70d70f42cb116cdf18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-d9bee2940d2e9d70d70f42cb116cdf18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-d9bee2940d2e9d70d70f42cb116cdf18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-d9bee2940d2e9d70d70f42cb116cdf18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-d9bee2940d2e9d70d70f42cb116cdf18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-d9bee2940d2e9d70d70f42cb116cdf18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-d9bee2940d2e9d70d70f42cb116cdf18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-d9bee2940d2e9d70d70f42cb116cdf18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-d9bee2940d2e9d70d70f42cb116cdf18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) In section 317(5) of CTA 2009 (carrying value), before paragraph (a) insert—
 
@@ -164,7 +164,7 @@ Section 61
 
 ### Loan relationships involving connected debtor and creditor where debits exceed credits
 
-**4.**[^key-0ce57c983a10965749b3b65c602d39fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-0ce57c983a10965749b3b65c602d39fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Credits and debits for manufactured interest
 
@@ -176,6 +176,6 @@ Section 61
 
 ## Annotations
 
-[^key-d9bee2940d2e9d70d70f42cb116cdf18]: Textual amendment: [Sch. 30 para. 2(1)-(6)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/30/paragraph/2/1) omitted (with effect in accordance with Sch. 4 para. 13 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 4 para. 12(a)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/4/paragraph/12/a)
+[^c-d9bee2940d2e9d70d70f42cb116cdf18]: Textual amendment: [Sch. 30 para. 2(1)-(6)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/30/paragraph/2/1) omitted (with effect in accordance with Sch. 4 para. 13 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 4 para. 12(a)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/4/paragraph/12/a)
 
-[^key-0ce57c983a10965749b3b65c602d39fe]: Textual amendment: [Sch. 30 para. 4](https://www.legislation.gov.uk/ukpga/2009/10/schedule/30/paragraph/4) omitted (with effect in accordance with Sch. 5 para. 7(3)(4) of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 5 para. 7(2)(b)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/5/paragraph/7/2/b)
+[^c-0ce57c983a10965749b3b65c602d39fe]: Textual amendment: [Sch. 30 para. 4](https://www.legislation.gov.uk/ukpga/2009/10/schedule/30/paragraph/4) omitted (with effect in accordance with Sch. 5 para. 7(3)(4) of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 5 para. 7(2)(b)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/5/paragraph/7/2/b)

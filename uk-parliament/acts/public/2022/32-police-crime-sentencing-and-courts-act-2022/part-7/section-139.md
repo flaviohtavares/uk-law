@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 139. Release at direction of Parole Board: timing[^key-5063a05fa26de05af22b409ceec03edd][^key-cc0d45325dca7a07933cf2277b44b0ac]
+## 139. Release at direction of Parole Board: timing[^c-5063a05fa26de05af22b409ceec03edd][^c-cc0d45325dca7a07933cf2277b44b0ac]
 
 *Extent: E+W*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5063a05fa26de05af22b409ceec03edd]: Commencement: S. 139 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-5063a05fa26de05af22b409ceec03edd]: Commencement: S. 139 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-cc0d45325dca7a07933cf2277b44b0ac]: Commencement: [S. 139](https://www.legislation.gov.uk/ukpga/2022/32/section/139) in force at 28.6.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(o)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/o)
+[^c-cc0d45325dca7a07933cf2277b44b0ac]: Commencement: [S. 139](https://www.legislation.gov.uk/ukpga/2022/32/section/139) in force at 28.6.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(o)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/o)

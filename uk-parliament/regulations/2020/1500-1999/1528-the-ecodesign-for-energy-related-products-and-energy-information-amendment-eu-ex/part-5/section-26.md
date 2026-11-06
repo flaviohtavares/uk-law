@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Amendment to Commission Delegated Regulation (EU) 2019/2016[^key-af2aa6d16d6e4561bd8ad4d8cf5640fd]
+## 26. Amendment to Commission Delegated Regulation (EU) 2019/2016[^c-af2aa6d16d6e4561bd8ad4d8cf5640fd]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-af2aa6d16d6e4561bd8ad4d8cf5640fd]: Commencement: Reg. 26 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, s 39(1)), see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4)
+[^c-af2aa6d16d6e4561bd8ad4d8cf5640fd]: Commencement: Reg. 26 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, s 39(1)), see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4)

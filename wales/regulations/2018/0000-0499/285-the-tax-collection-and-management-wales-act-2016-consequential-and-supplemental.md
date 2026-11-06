@@ -45,23 +45,23 @@ Coming into force
 
 The Welsh Ministers make the following Regulations in exercise of the power conferred on them by section 188 of the Tax Collection and Management (Wales) Act 2016[^f00001].
 
-## 1. Title and commencement[^key-eee6ba35130968eb24e01bce7ccaea44]
+## 1. Title and commencement[^c-eee6ba35130968eb24e01bce7ccaea44]
 
 (1) The title of these Regulations is the Tax Collection and Management (Wales) Act 2016 (Consequential and Supplemental Provisions) Regulations 2018.
 
 (2) These Regulations come into force on 1 April 2018.
 
-## 2. Amendment of the Public Contracts Regulations 2015[^key-416dc8401ec3e8d77789c17dbe536b13]
+## 2. Amendment of the Public Contracts Regulations 2015[^c-416dc8401ec3e8d77789c17dbe536b13]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Equality Act 2010[^key-d8b7b84c1f9473ee1d5e7e3ba27aba51]
+## 3. Amendment of the Equality Act 2010[^c-d8b7b84c1f9473ee1d5e7e3ba27aba51]
 
 In Part 2 of Schedule 19 to the Equality Act 2010[^f00003] (public authorities: relevant Welsh authorities), under the heading “other public authorities”, before “The Auditor General for Wales or Archwilydd Cyffredinol Cymru.” insert—
 
 > The Welsh Revenue Authority or Awdurdod Cyllid Cymru.
 
-## 4. Amendment of the National Assembly for Wales (Disqualification) Order 2015[^key-35c26c42006ac9ec47ccdff4468a1bff]
+## 4. Amendment of the National Assembly for Wales (Disqualification) Order 2015[^c-35c26c42006ac9ec47ccdff4468a1bff]
 
 In the Schedule to the National Assembly for Wales (Disqualification) Order 2015[^f00004] (offices disqualifying holders from membership of the National Assembly for Wales), insert the following entry at the appropriate place in the table—
 
@@ -71,7 +71,7 @@ In the Schedule to the National Assembly for Wales (Disqualification) Order 2015
 
 .
 
-## 5. Amendment of the Proceeds of Crime Act 2002[^key-036311cf5fc820da1a9d6ca51a86e414]
+## 5. Amendment of the Proceeds of Crime Act 2002[^c-036311cf5fc820da1a9d6ca51a86e414]
 
 The Proceeds of Crime Act 2002[^f00005] is amended as follows—
 
@@ -113,19 +113,19 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00001]: Footnote: [2016 anaw 6](https://www.legislation.gov.uk/anaw/2016/6).
 
-[^key-eee6ba35130968eb24e01bce7ccaea44]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2018/285/regulation/1) in force at 1.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/285/regulation/1/2)
+[^c-eee6ba35130968eb24e01bce7ccaea44]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2018/285/regulation/1) in force at 1.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/285/regulation/1/2)
 
-[^key-416dc8401ec3e8d77789c17dbe536b13]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/wsi/2018/285/regulation/2) omitted (24.2.2025) by virtue of [The Procurement (Wales) Regulations 2024 (S.I. 2024/782)](https://www.legislation.gov.uk/uksi/2024/782), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/782/regulation/1/2), [51](https://www.legislation.gov.uk/uksi/2024/782/regulation/51) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/782/regulation/2)); [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
+[^c-416dc8401ec3e8d77789c17dbe536b13]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/wsi/2018/285/regulation/2) omitted (24.2.2025) by virtue of [The Procurement (Wales) Regulations 2024 (S.I. 2024/782)](https://www.legislation.gov.uk/uksi/2024/782), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/782/regulation/1/2), [51](https://www.legislation.gov.uk/uksi/2024/782/regulation/51) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/782/regulation/2)); [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
 
-[^key-d8b7b84c1f9473ee1d5e7e3ba27aba51]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2018/285/regulation/3) in force at 1.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/285/regulation/1/2)
+[^c-d8b7b84c1f9473ee1d5e7e3ba27aba51]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2018/285/regulation/3) in force at 1.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/285/regulation/1/2)
 
 [^f00003]: Footnote: [2010 c. 15](https://www.legislation.gov.uk/ukpga/2010/15).
 
-[^key-35c26c42006ac9ec47ccdff4468a1bff]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2018/285/regulation/4) in force at 1.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/285/regulation/1/2)
+[^c-35c26c42006ac9ec47ccdff4468a1bff]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2018/285/regulation/4) in force at 1.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/285/regulation/1/2)
 
 [^f00004]: Footnote: [S.I. 2015/1536](https://www.legislation.gov.uk/uksi/2015/1536) , to which there are amendments not relevant to these Regulations.
 
-[^key-036311cf5fc820da1a9d6ca51a86e414]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2018/285/regulation/5) in force at 1.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/285/regulation/1/2)
+[^c-036311cf5fc820da1a9d6ca51a86e414]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2018/285/regulation/5) in force at 1.4.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/285/regulation/1/2)
 
 [^f00005]: Footnote: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29).
 

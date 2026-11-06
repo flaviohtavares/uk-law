@@ -108,21 +108,21 @@ HAS ADOPTED THIS REGULATION:
 
 ## CHAPTER 2 — TRANSIT OF CERTAIN PRODUCTS OF ANIMAL ORIGIN
 
-### Article 3. Lists of third countries, parts of third countries and territories[^key-803b1a01436cca35f690bb4fc925787e]
+### Article 3. Lists of third countries, parts of third countries and territories[^c-803b1a01436cca35f690bb4fc925787e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Article 4. Model certificate
 
-1.[^key-240bdb40afecbbe02c038582b5fcc21f] The model certificate for the transit through Great Britain of raw materials and treated raw materials for the production of gelatine and collagen intended for human consumption bound for a third country, either by immediate transit or after storage in Great Britain, must be in the form published by the appropriate authority from time to time on its website.
+1.[^c-240bdb40afecbbe02c038582b5fcc21f] The model certificate for the transit through Great Britain of raw materials and treated raw materials for the production of gelatine and collagen intended for human consumption bound for a third country, either by immediate transit or after storage in Great Britain, must be in the form published by the appropriate authority from time to time on its website.
 
 The appropriate authority may from time to time publish on its website guidance on the completion of the model certificate.
 
-References in other legislation which, on or after IP completion day, forms part of assimilated[^key-77048b49644a9ca0291252e1b48b8251] law to the model official certificate set out in Annex 3 to this Regulation are to be read as references to the form of certificate referred to in the first sentence of this Article.
+References in other legislation which, on or after IP completion day, forms part of assimilated[^c-77048b49644a9ca0291252e1b48b8251] law to the model official certificate set out in Annex 3 to this Regulation are to be read as references to the form of certificate referred to in the first sentence of this Article.
 
-2. Electronic certification and other systems harmonised in Great Britain[^key-edcb511dfc0209cf2f0bfb8342e5dd81] may be used.
+2. Electronic certification and other systems harmonised in Great Britain[^c-edcb511dfc0209cf2f0bfb8342e5dd81] may be used.
 
-### Article 5. Derogation for transit through Latvia, Lithuania and Poland[^key-135b4b238775806a1959e69aa266abc3]
+### Article 5. Derogation for transit through Latvia, Lithuania and Poland[^c-135b4b238775806a1959e69aa266abc3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -147,13 +147,13 @@ Consignments of products of animal origin in respect of which the relevant certi
 
 This Regulation shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.
 
-[^key-9bb5112226d67589a7f109e4ac6d54c2]...
+[^c-9bb5112226d67589a7f109e4ac6d54c2]...
 
-## ANNEX I — Lists of third countries, parts of third countries and territories as referred to in Article 1 (affected by repeal, see note)[^c000001][^key-48bc9c8491cbf249aac28f42c9f011ac][^c000001]
+## ANNEX I — Lists of third countries, parts of third countries and territories as referred to in Article 1 (affected by repeal, see note)[^c000001][^c-48bc9c8491cbf249aac28f42c9f011ac][^c000001]
 
 **No longer in force.**
 
-[^key-48bc9c8491cbf249aac28f42c9f011ac]
+[^c-48bc9c8491cbf249aac28f42c9f011ac]
 
 [^c000001]PART I
 
@@ -163,7 +163,7 @@ This Regulation shall enter into force on the twentieth day following that of it
 
 **No longer in force.**
 
-[^key-48bc9c8491cbf249aac28f42c9f011ac]
+[^c-48bc9c8491cbf249aac28f42c9f011ac]
 
 [^c000001]PART II
 
@@ -269,7 +269,7 @@ This Regulation shall enter into force on the twentieth day following that of it
 
 **No longer in force.**
 
-[^key-48bc9c8491cbf249aac28f42c9f011ac]
+[^c-48bc9c8491cbf249aac28f42c9f011ac]
 
 [^c000001]PART VI
 
@@ -279,7 +279,7 @@ This Regulation shall enter into force on the twentieth day following that of it
 
 **No longer in force.**
 
-[^key-48bc9c8491cbf249aac28f42c9f011ac]
+[^c-48bc9c8491cbf249aac28f42c9f011ac]
 
 [^c000001]PART VII
 
@@ -339,13 +339,13 @@ This Regulation shall enter into force on the twentieth day following that of it
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III — MODEL CERTIFICATE FOR THE TRANSIT THROUGH THE UNION, IMMEDIATE TRANSIT OR AFTER STORAGE, FOR RAW MATERIALS OR TREATED RAW MATERIALS FOR THE PRODUCTION OF GELATINE/COLLAGEN FOR HUMAN CONSUMPTION[^key-da3e50b7de38f850cd0b1480bfa2cd4e]
+## ANNEX III — MODEL CERTIFICATE FOR THE TRANSIT THROUGH THE UNION, IMMEDIATE TRANSIT OR AFTER STORAGE, FOR RAW MATERIALS OR TREATED RAW MATERIALS FOR THE PRODUCTION OF GELATINE/COLLAGEN FOR HUMAN CONSUMPTION[^c-da3e50b7de38f850cd0b1480bfa2cd4e]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX IV — EXPLANATORY NOTES FOR COMPLETING THE CERTIFICATES — (referred to in Articles 2(1) and 4(1))[^key-da3e50b7de38f850cd0b1480bfa2cd4e]
+## ANNEX IV — EXPLANATORY NOTES FOR COMPLETING THE CERTIFICATES — (referred to in Articles 2(1) and 4(1))[^c-da3e50b7de38f850cd0b1480bfa2cd4e]
 
 **No longer in force.**
 
@@ -381,18 +381,18 @@ This Regulation shall enter into force on the twentieth day following that of it
 
 [^c000002]: Textual amendment: Deleted by [Commission Implementing Regulation (EU) 2019/628 of 8 April 2019 concerning model official certificates for certain animals and goods and amending Regulation (EC) No 2074/2005 and Implementing Regulation (EU) 2016/759 as regards these model certificates (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2019/628).
 
-[^key-803b1a01436cca35f690bb4fc925787e]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/eur/2016/759/article/3) omitted (31.12.2020) by virtue of [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640), [reg. 53B](https://www.legislation.gov.uk/uksi/2019/640/regulation/53B) (with [reg. 53G](https://www.legislation.gov.uk/uksi/2019/640/regulation/53G)) (as inserted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(15)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/15))
+[^c-803b1a01436cca35f690bb4fc925787e]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/eur/2016/759/article/3) omitted (31.12.2020) by virtue of [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640), [reg. 53B](https://www.legislation.gov.uk/uksi/2019/640/regulation/53B) (with [reg. 53G](https://www.legislation.gov.uk/uksi/2019/640/regulation/53G)) (as inserted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(15)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/15))
 
-[^key-240bdb40afecbbe02c038582b5fcc21f]: Textual amendment: [Art. 4(1)](https://www.legislation.gov.uk/eur/2016/759/article/4/1) substituted (31.12.2020) by [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640), [reg. 53C(a)](https://www.legislation.gov.uk/uksi/2019/640/regulation/53C/a) (with [reg. 53G](https://www.legislation.gov.uk/uksi/2019/640/regulation/53G)) (as inserted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(15)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/15))
+[^c-240bdb40afecbbe02c038582b5fcc21f]: Textual amendment: [Art. 4(1)](https://www.legislation.gov.uk/eur/2016/759/article/4/1) substituted (31.12.2020) by [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640), [reg. 53C(a)](https://www.legislation.gov.uk/uksi/2019/640/regulation/53C/a) (with [reg. 53G](https://www.legislation.gov.uk/uksi/2019/640/regulation/53G)) (as inserted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(15)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/15))
 
-[^key-77048b49644a9ca0291252e1b48b8251]: Textual amendment: Word in [Art. 4(1)](https://www.legislation.gov.uk/eur/2016/759/article/4/1) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 11 para. 23](https://www.legislation.gov.uk/uksi/2025/82/schedule/11/paragraph/23)
+[^c-77048b49644a9ca0291252e1b48b8251]: Textual amendment: Word in [Art. 4(1)](https://www.legislation.gov.uk/eur/2016/759/article/4/1) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 11 para. 23](https://www.legislation.gov.uk/uksi/2025/82/schedule/11/paragraph/23)
 
-[^key-edcb511dfc0209cf2f0bfb8342e5dd81]: Textual amendment: Words in [Art. 4(2)](https://www.legislation.gov.uk/eur/2016/759/article/4/2) substituted (31.12.2020) by [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640), [reg. 53C(b)](https://www.legislation.gov.uk/uksi/2019/640/regulation/53C/b) (with [reg. 53G](https://www.legislation.gov.uk/uksi/2019/640/regulation/53G)) (as inserted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(15)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/15))
+[^c-edcb511dfc0209cf2f0bfb8342e5dd81]: Textual amendment: Words in [Art. 4(2)](https://www.legislation.gov.uk/eur/2016/759/article/4/2) substituted (31.12.2020) by [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640), [reg. 53C(b)](https://www.legislation.gov.uk/uksi/2019/640/regulation/53C/b) (with [reg. 53G](https://www.legislation.gov.uk/uksi/2019/640/regulation/53G)) (as inserted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(15)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/15))
 
-[^key-135b4b238775806a1959e69aa266abc3]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/eur/2016/759/article/5) omitted (31.12.2020) by virtue of [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640), [reg. 53D](https://www.legislation.gov.uk/uksi/2019/640/regulation/53D) (with [reg. 53G](https://www.legislation.gov.uk/uksi/2019/640/regulation/53G)) (as inserted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(15)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/15))
+[^c-135b4b238775806a1959e69aa266abc3]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/eur/2016/759/article/5) omitted (31.12.2020) by virtue of [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640), [reg. 53D](https://www.legislation.gov.uk/uksi/2019/640/regulation/53D) (with [reg. 53G](https://www.legislation.gov.uk/uksi/2019/640/regulation/53G)) (as inserted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(15)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/15))
 
-[^key-9bb5112226d67589a7f109e4ac6d54c2]: Textual amendment: Words in Signature omitted (31.12.2020) by virtue of [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640), [reg. 53E](https://www.legislation.gov.uk/uksi/2019/640/regulation/53E) (with [reg. 53G](https://www.legislation.gov.uk/uksi/2019/640/regulation/53G)) (as inserted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(15)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/15))
+[^c-9bb5112226d67589a7f109e4ac6d54c2]: Textual amendment: Words in Signature omitted (31.12.2020) by virtue of [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640), [reg. 53E](https://www.legislation.gov.uk/uksi/2019/640/regulation/53E) (with [reg. 53G](https://www.legislation.gov.uk/uksi/2019/640/regulation/53G)) (as inserted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(15)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/15))
 
-[^key-48bc9c8491cbf249aac28f42c9f011ac]: Modification: Annex 1 (in so far as still in force): power to amend conferred (31.12.2020) by The Trade in [Animals and Animal Products (Legislative Functions) and Veterinary Surgeons (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1225)](https://www.legislation.gov.uk/uksi/2019/1225), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1225/regulation/1/3), [16](https://www.legislation.gov.uk/uksi/2019/1225/regulation/16); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-48bc9c8491cbf249aac28f42c9f011ac]: Modification: Annex 1 (in so far as still in force): power to amend conferred (31.12.2020) by The Trade in [Animals and Animal Products (Legislative Functions) and Veterinary Surgeons (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1225)](https://www.legislation.gov.uk/uksi/2019/1225), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1225/regulation/1/3), [16](https://www.legislation.gov.uk/uksi/2019/1225/regulation/16); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-da3e50b7de38f850cd0b1480bfa2cd4e]: Textual amendment: Annexes 3, 4 omitted (31.12.2020) by virtue of [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640), [reg. 53F](https://www.legislation.gov.uk/uksi/2019/640/regulation/53F) (with [reg. 53G](https://www.legislation.gov.uk/uksi/2019/640/regulation/53G)) (as inserted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(15)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/15))
+[^c-da3e50b7de38f850cd0b1480bfa2cd4e]: Textual amendment: Annexes 3, 4 omitted (31.12.2020) by virtue of [S.I. 2019/640](https://www.legislation.gov.uk/uksi/2019/640), [reg. 53F](https://www.legislation.gov.uk/uksi/2019/640/regulation/53F) (with [reg. 53G](https://www.legislation.gov.uk/uksi/2019/640/regulation/53G)) (as inserted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(15)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/15))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 31. Labelling[^key-93a6568286c4e30eb6055eb51920de71]
+## 31. Labelling[^c-93a6568286c4e30eb6055eb51920de71]
 
 *Extent: N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-93a6568286c4e30eb6055eb51920de71]: Commencement: Reg. 31 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)
+[^c-93a6568286c4e30eb6055eb51920de71]: Commencement: Reg. 31 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)

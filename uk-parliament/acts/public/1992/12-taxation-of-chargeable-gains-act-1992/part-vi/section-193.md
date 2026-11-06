@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 193. Roll-over relief not available for gains on oil licences.[^key-f14d456bfde0decd505afd6ca146a70f]
+## 193. Roll-over relief not available for gains on oil licences.[^c-f14d456bfde0decd505afd6ca146a70f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f14d456bfde0decd505afd6ca146a70f]: Textual amendment: S. 193 repealed (with effect in accordance with s. 103(2) of the amending Act) by [Finance Act 1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16), [s. 103(1)](https://www.legislation.gov.uk/ukpga/1999/16/section/103/1), [Sch. 20 Pt. IV(2)](https://www.legislation.gov.uk/ukpga/1999/16/schedule/20/part/IV/2)
+[^c-f14d456bfde0decd505afd6ca146a70f]: Textual amendment: S. 193 repealed (with effect in accordance with s. 103(2) of the amending Act) by [Finance Act 1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16), [s. 103(1)](https://www.legislation.gov.uk/ukpga/1999/16/section/103/1), [Sch. 20 Pt. IV(2)](https://www.legislation.gov.uk/ukpga/1999/16/schedule/20/part/IV/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 19. Street litter: supplementary provisions[^key-6f734b40787a2dc138fcbe0e2b2f95d6]
+## 19. Street litter: supplementary provisions[^c-6f734b40787a2dc138fcbe0e2b2f95d6]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6f734b40787a2dc138fcbe0e2b2f95d6]: Commencement: [S. 19](https://www.legislation.gov.uk/nia/2011/23/section/19) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-6f734b40787a2dc138fcbe0e2b2f95d6]: Commencement: [S. 19](https://www.legislation.gov.uk/nia/2011/23/section/19) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)

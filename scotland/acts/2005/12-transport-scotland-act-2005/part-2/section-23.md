@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23. Duty of road works authority to co-ordinate road works etc.[^key-40714458a535b4712a3b785717ea0db7]
+## 23. Duty of road works authority to co-ordinate road works etc.[^c-40714458a535b4712a3b785717ea0db7]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-40714458a535b4712a3b785717ea0db7]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2005/12/section/23) in force at 1.4.2008 by [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/15/article/2/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2008/15/schedule/1)
+[^c-40714458a535b4712a3b785717ea0db7]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2005/12/section/23) in force at 1.4.2008 by [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/15/article/2/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2008/15/schedule/1)

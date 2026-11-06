@@ -32,7 +32,7 @@ summary: ''
 
 Health And Safety
 
-The Genetically Modified Organisms (Contained Use) (Amendment) Regulations (Northern Ireland) 2010 (revoked)[^key-3a0b03fa610fa625e63c0538f5846a80]
+The Genetically Modified Organisms (Contained Use) (Amendment) Regulations (Northern Ireland) 2010 (revoked)[^c-3a0b03fa610fa625e63c0538f5846a80]
 
 Made
 
@@ -42,26 +42,26 @@ Coming into operation
 
 29th October 2010
 
-[^key-3a0b03fa610fa625e63c0538f5846a80]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3a0b03fa610fa625e63c0538f5846a80]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-3a0b03fa610fa625e63c0538f5846a80]
+## 1. Citation and commencement[^c-3a0b03fa610fa625e63c0538f5846a80]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-3a0b03fa610fa625e63c0538f5846a80]
+## 2. Interpretation[^c-3a0b03fa610fa625e63c0538f5846a80]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Genetically Modified Organisms (Contained Use) Regulations (Northern Ireland) 2001[^key-3a0b03fa610fa625e63c0538f5846a80]
+## 3. Amendment of the Genetically Modified Organisms (Contained Use) Regulations (Northern Ireland) 2001[^c-3a0b03fa610fa625e63c0538f5846a80]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3a0b03fa610fa625e63c0538f5846a80]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3a0b03fa610fa625e63c0538f5846a80]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3a0b03fa610fa625e63c0538f5846a80]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3a0b03fa610fa625e63c0538f5846a80]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3a0b03fa610fa625e63c0538f5846a80]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2010/343) revoked (23.10.2015) by [The Genetically Modified Organisms (Contained Use) Regulations (Northern Ireland) 2015 (S.R. 2015/339)](https://www.legislation.gov.uk/nisr/2015/339), [reg. 36(c)](https://www.legislation.gov.uk/nisr/2015/339/regulation/36/c) (with [reg. 3(1)](https://www.legislation.gov.uk/nisr/2015/339/regulation/3/1)[(2)](https://www.legislation.gov.uk/nisr/2015/339/regulation/3/2))
+[^c-3a0b03fa610fa625e63c0538f5846a80]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2010/343) revoked (23.10.2015) by [The Genetically Modified Organisms (Contained Use) Regulations (Northern Ireland) 2015 (S.R. 2015/339)](https://www.legislation.gov.uk/nisr/2015/339), [reg. 36(c)](https://www.legislation.gov.uk/nisr/2015/339/regulation/36/c) (with [reg. 3(1)](https://www.legislation.gov.uk/nisr/2015/339/regulation/3/1)[(2)](https://www.legislation.gov.uk/nisr/2015/339/regulation/3/2))

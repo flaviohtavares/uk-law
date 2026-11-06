@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 340. Penalties under implementing regulations[^key-78bd8ac9892c8f96aa4ec9e30ad85bef]
+## 340. Penalties under implementing regulations[^c-78bd8ac9892c8f96aa4ec9e30ad85bef]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In section 70(2)[^f00251] of the Criminal Justice Act 1993 (penalties under impl
 
 ## Annotations
 
-[^key-78bd8ac9892c8f96aa4ec9e30ad85bef]: Commencement: Art. 340 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-78bd8ac9892c8f96aa4ec9e30ad85bef]: Commencement: Art. 340 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00251]: Footnote: Section 70(2) has been amended by [S.I. 2000/2952](https://www.legislation.gov.uk/uksi/2000/2952), regulation 6(a)(i) and (ii) and 6(b).

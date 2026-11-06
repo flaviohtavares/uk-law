@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63ZC. Exercise of power under section 63ZB: procedure[^key-e379c84d1a0e7be830d31cc0c696e752]
+## 63ZC. Exercise of power under section 63ZB: procedure[^c-e379c84d1a0e7be830d31cc0c696e752]
 
 *Extent: E+W+S+N.I.*
 
@@ -75,4 +75,4 @@ it must give each of the interested parties written notice.
 
 ## Annotations
 
-[^key-e379c84d1a0e7be830d31cc0c696e752]: Textual amendment: Ss. 63ZA-63ZC inserted (7.3.2016) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [ss. 26](https://www.legislation.gov.uk/ukpga/2013/33/section/26), [148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5); [S.I. 2015/490](https://www.legislation.gov.uk/uksi/2015/490), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2015/490/article/2/1/c) (with savings and transitional provisions in [S.I. 2015/492](https://www.legislation.gov.uk/uksi/2015/492) (as amended by [S.I. 2015/1660](https://www.legislation.gov.uk/uksi/2015/1660)))
+[^c-e379c84d1a0e7be830d31cc0c696e752]: Textual amendment: Ss. 63ZA-63ZC inserted (7.3.2016) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [ss. 26](https://www.legislation.gov.uk/ukpga/2013/33/section/26), [148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5); [S.I. 2015/490](https://www.legislation.gov.uk/uksi/2015/490), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2015/490/article/2/1/c) (with savings and transitional provisions in [S.I. 2015/492](https://www.legislation.gov.uk/uksi/2015/492) (as amended by [S.I. 2015/1660](https://www.legislation.gov.uk/uksi/2015/1660)))

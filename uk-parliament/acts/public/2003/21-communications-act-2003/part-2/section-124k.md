@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124K. Subscriber appeals[^key-ec00c6d61b3da04fd7d3a7a0cab5dc34]
+## 124K. Subscriber appeals[^c-ec00c6d61b3da04fd7d3a7a0cab5dc34]
 
 *Extent: E+W+S+N.I.*
 
@@ -80,4 +80,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ec00c6d61b3da04fd7d3a7a0cab5dc34]: Textual amendment: S. 124K inserted (8.6.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 13](https://www.legislation.gov.uk/ukpga/2010/24/section/13), [47(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/1)
+[^c-ec00c6d61b3da04fd7d3a7a0cab5dc34]: Textual amendment: S. 124K inserted (8.6.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 13](https://www.legislation.gov.uk/ukpga/2010/24/section/13), [47(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/1)

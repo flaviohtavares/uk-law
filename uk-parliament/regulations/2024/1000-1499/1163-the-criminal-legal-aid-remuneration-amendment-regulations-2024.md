@@ -46,13 +46,13 @@ Coming into force
 
 The Lord Chancellor makes these Regulations in exercise of the powers conferred by sections 2(3), 41(1)(a) and (b), 41(2)(a) and (b) and 41(3)(b) of the Legal Aid, Sentencing and Punishment of Offenders Act 2012[^f00001].
 
-## 1. Citation, commencement and extent[^key-75481042f947b7fa5c445f8cc8859e62]
+## 1. Citation, commencement and extent[^c-75481042f947b7fa5c445f8cc8859e62]
 
 (1) These Regulations may be cited as the Criminal Legal Aid (Remuneration) (Amendment) Regulations 2024 and come into force on 6th December 2024.
 
 (2) These Regulations extend to England and Wales.
 
-## 2. Amendments to the Criminal Legal Aid (Remuneration) Regulations 2013[^key-56332a44f345a8952f55e05fe2f89956]
+## 2. Amendments to the Criminal Legal Aid (Remuneration) Regulations 2013[^c-56332a44f345a8952f55e05fe2f89956]
 
 (1) Schedule 4 to the Criminal Legal Aid (Remuneration) Regulations 2013[^f00002] is amended as follows.
 
@@ -468,7 +468,7 @@ The Lord Chancellor makes these Regulations in exercise of the powers conferred 
 > </tbody>
 > </table>
 >
-> [^key-15961f5a277f2d363368fcf6bda48492]
+> [^c-15961f5a277f2d363368fcf6bda48492]
 >
 > (6) In the table following sub-paragraph (5)—
 >
@@ -558,7 +558,7 @@ The Lord Chancellor makes these Regulations in exercise of the powers conferred 
 
 .
 
-## 3. Application[^key-6310af92f9b136b4ee0a59adab143cd4]
+## 3. Application[^c-6310af92f9b136b4ee0a59adab143cd4]
 
 (1) These Regulations apply to matters in which a relevant determination is made on or after 6th December 2024.
 
@@ -592,9 +592,9 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00001]: Footnote: [2012 c. 10](https://www.legislation.gov.uk/ukpga/2012/10); section 42(1) of that Act provides that in Part 1 of that Act, “**regulations**” means regulations made by the Lord Chancellor (except in Schedule 6).
 
-[^key-75481042f947b7fa5c445f8cc8859e62]: Commencement: Reg. 1 in force at 6.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1163/regulation/1/1)
+[^c-75481042f947b7fa5c445f8cc8859e62]: Commencement: Reg. 1 in force at 6.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1163/regulation/1/1)
 
-[^key-56332a44f345a8952f55e05fe2f89956]: Commencement: Reg. 2 in force at 6.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1163/regulation/1/1)
+[^c-56332a44f345a8952f55e05fe2f89956]: Commencement: Reg. 2 in force at 6.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1163/regulation/1/1)
 
 [^f00002]: Footnote: [S.I. 2013/435](https://www.legislation.gov.uk/uksi/2013/435), amended by Schedule 24(5) paragraph 416 of the Sentencing Act [2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17) (subject to savings and transitional provisions specified in section 410 of and Part 7 of Schedule 24 of that Act) and [S.I. 2023/1140](https://www.legislation.gov.uk/uksi/2023/1140), [2022/995](https://www.legislation.gov.uk/uksi/2022/995), [2022/848](https://www.legislation.gov.uk/uksi/2022/848), [2020/903](https://www.legislation.gov.uk/uksi/2020/903), [2015/1678](https://www.legislation.gov.uk/uksi/2015/1678), [2015/1369](https://www.legislation.gov.uk/uksi/2015/1369), [2015/325](https://www.legislation.gov.uk/uksi/2015/325), there are other amending instruments but none is relevant.
 
@@ -612,10 +612,10 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00009]: Footnote: [1963 c. 37](https://www.legislation.gov.uk/ukpga/1963/37); section 18 was amended by paragraph 40(2)(e) of Schedule 11 to the Criminal Justice Act [1991 (c. 53)](https://www.legislation.gov.uk/ukpga/1991/53) and paragraphs 5(a) and (b) of Schedule 9 to the Criminal Justice and Public Order Act [1994 (c. 33)](https://www.legislation.gov.uk/ukpga/1994/33).
 
-[^key-15961f5a277f2d363368fcf6bda48492]: Textual amendment: Word in [reg. 2(5)](https://www.legislation.gov.uk/uksi/2024/1163/regulation/2/5) substituted (5.12.2024) by [The Criminal Legal Aid (Remuneration) (Amendment) (No. 2) Regulations 2024 (S.I. 2024/1270)](https://www.legislation.gov.uk/uksi/2024/1270), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1270/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2024/1270/regulation/2/2)
+[^c-15961f5a277f2d363368fcf6bda48492]: Textual amendment: Word in [reg. 2(5)](https://www.legislation.gov.uk/uksi/2024/1163/regulation/2/5) substituted (5.12.2024) by [The Criminal Legal Aid (Remuneration) (Amendment) (No. 2) Regulations 2024 (S.I. 2024/1270)](https://www.legislation.gov.uk/uksi/2024/1270), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1270/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2024/1270/regulation/2/2)
 
 [^f00010]: Footnote: [S.I. 2013/9](https://www.legislation.gov.uk/uksi/2013/9); amended by [S.I. 2013/472](https://www.legislation.gov.uk/uksi/2013/472), [2015/326](https://www.legislation.gov.uk/uksi/2015/326), [2015/838](https://www.legislation.gov.uk/uksi/2015/838), [2015/1416](https://www.legislation.gov.uk/uksi/2015/1416), [2020/8](https://www.legislation.gov.uk/uksi/2020/8), [2022/1370](https://www.legislation.gov.uk/uksi/2022/1370) and [2024/58](https://www.legislation.gov.uk/uksi/2024/58). Regulation 9 was also amended by paragraphs 410(2)(a) and (b),(3), (4), (5), (6)(a) and (b) and (7) of Schedule 24(5) to the Sentencing Act [2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17) (subject to savings and transitional provisions specified in section 410 of and Schedule 24 Part 7 to that Act) and section 32(2) of the Offensive Weapons Act [2019 (c. 17)](https://www.legislation.gov.uk/ukpga/2019/17) (in force only in relation to the purposes set out in regulation 2(1) of [S.I. 2012/762](https://www.legislation.gov.uk/uksi/2012/762); not yet in force otherwise); there are other amendments but none is relevant.
 
 [^f00011]: Footnote: [1933 c. 12](https://www.legislation.gov.uk/ukpga/1933/12); section 45 was amended by section 50(1) of the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39) and paragraph 20 of Schedule 4(1) to the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4); section 46 was amended by Schedule 7 to the Justices of the Peace Act [1949 (c. 101)](https://www.legislation.gov.uk/ukpga/1949/101), paragraph 4 of Schedule 5 to the Children and Young Persons Act [1969 (c. 54)](https://www.legislation.gov.uk/ukpga/1969/54), paragraph 6 of Schedule 7 to the 1980 Act, paragraph 1(2) of Schedule 8 and paragraph 40(2)(a) of Schedule 11 to the Criminal Justice Act [1991 (c. 53)](https://www.legislation.gov.uk/ukpga/1991/53), paragraph 74 of Schedule 8 to the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), Schedule 11 there are other amendments but none is relevant.
 
-[^key-6310af92f9b136b4ee0a59adab143cd4]: Commencement: Reg. 3 in force at 6.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1163/regulation/1/1)
+[^c-6310af92f9b136b4ee0a59adab143cd4]: Commencement: Reg. 3 in force at 6.12.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1163/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 120. Exclusion or curtailment of other statutory rights to pay[^key-dba3655e33962238527258736ca3db3f]
+## 120. Exclusion or curtailment of other statutory rights to pay[^c-dba3655e33962238527258736ca3db3f]
 
 *Extent: E+W*
 
@@ -89,4 +89,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dba3655e33962238527258736ca3db3f]: Commencement: [S. 120](https://www.legislation.gov.uk/ukpga/2014/6/section/120) in force at 30.6.2014 by [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 3(1)(d)](https://www.legislation.gov.uk/uksi/2014/1640/article/3/1/d)
+[^c-dba3655e33962238527258736ca3db3f]: Commencement: [S. 120](https://www.legislation.gov.uk/ukpga/2014/6/section/120) in force at 30.6.2014 by [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 3(1)(d)](https://www.legislation.gov.uk/uksi/2014/1640/article/3/1/d)

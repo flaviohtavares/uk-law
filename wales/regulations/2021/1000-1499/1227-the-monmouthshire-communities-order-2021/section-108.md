@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 108. Goetre Fawr — community electoral arrangements[^key-095ed635913620666563e486ccbbc220][^key-502845097705cb3c7b0125a43e222ab4]
+## 108. Goetre Fawr — community electoral arrangements[^c-095ed635913620666563e486ccbbc220][^c-502845097705cb3c7b0125a43e222ab4]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ In the community of Goetre Fawr the number of councillors to be elected for the�
 
 ## Annotations
 
-[^key-095ed635913620666563e486ccbbc220]: Commencement: Art. 108 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
+[^c-095ed635913620666563e486ccbbc220]: Commencement: Art. 108 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
 
-[^key-502845097705cb3c7b0125a43e222ab4]: Commencement: [Art. 108](https://www.legislation.gov.uk/wsi/2021/1227/article/108) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)
+[^c-502845097705cb3c7b0125a43e222ab4]: Commencement: [Art. 108](https://www.legislation.gov.uk/wsi/2021/1227/article/108) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation and commencement[^key-4822f1c1559883102c3164a8ea491521]
+## 1. Citation and commencement[^c-4822f1c1559883102c3164a8ea491521]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ These Regulations may be cited as the Building (Approved Inspectors etc.) Regula
 
 ## Annotations
 
-[^key-4822f1c1559883102c3164a8ea491521]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/2215) revoked (E.) (6.4.2024) by [The Building (Registered Building Control Approvers etc.) (England) Regulations 2024 (S.I. 2024/110)](https://www.legislation.gov.uk/uksi/2024/110), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/1/3), [43(a)(i)](https://www.legislation.gov.uk/uksi/2024/110/regulation/43/a/i) (with [regs. 44-47](https://www.legislation.gov.uk/uksi/2024/110/regulation/44))
+[^c-4822f1c1559883102c3164a8ea491521]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/2215) revoked (E.) (6.4.2024) by [The Building (Registered Building Control Approvers etc.) (England) Regulations 2024 (S.I. 2024/110)](https://www.legislation.gov.uk/uksi/2024/110), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/1/3), [43(a)(i)](https://www.legislation.gov.uk/uksi/2024/110/regulation/43/a/i) (with [regs. 44-47](https://www.legislation.gov.uk/uksi/2024/110/regulation/44))

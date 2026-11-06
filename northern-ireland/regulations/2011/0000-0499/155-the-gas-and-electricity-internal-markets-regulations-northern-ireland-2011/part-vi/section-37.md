@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 37. Duty on the Authority to publish guidance for consumers[^key-f240399430ebe3807d23c9bac5a5c357]
+## 37. Duty on the Authority to publish guidance for consumers[^c-f240399430ebe3807d23c9bac5a5c357]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ After Article 7(4) of the Energy Order there shall be inserted the following par
 
 ## Annotations
 
-[^key-f240399430ebe3807d23c9bac5a5c357]: Commencement: Reg. 37 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
+[^c-f240399430ebe3807d23c9bac5a5c357]: Commencement: Reg. 37 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)

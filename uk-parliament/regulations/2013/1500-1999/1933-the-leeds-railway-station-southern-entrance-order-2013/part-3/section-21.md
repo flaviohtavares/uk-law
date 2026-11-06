@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Power to acquire land[^key-061a62029d0242a4bb71578767fa1ba2]
+## 21. Power to acquire land[^c-061a62029d0242a4bb71578767fa1ba2]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ and may use any land so acquired for those purposes or for any other purposes th
 
 ## Annotations
 
-[^key-061a62029d0242a4bb71578767fa1ba2]: Commencement: Art. 21 in force at 22.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1)
+[^c-061a62029d0242a4bb71578767fa1ba2]: Commencement: Art. 21 in force at 22.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1)

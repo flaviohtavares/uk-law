@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 15. First-tier Tribunal's power to draw up terms[^key-37b723582da81774504d9755a52636c0]
+## 15. First-tier Tribunal's power to draw up terms[^c-37b723582da81774504d9755a52636c0]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-37b723582da81774504d9755a52636c0]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2016/19/section/15) in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
+[^c-37b723582da81774504d9755a52636c0]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2016/19/section/15) in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)

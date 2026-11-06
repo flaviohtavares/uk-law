@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 163. Postal delivery of documents[^key-ad487c140bcaf060dfc8433088a1b220]
+## 163. Postal delivery of documents[^c-ad487c140bcaf060dfc8433088a1b220]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ad487c140bcaf060dfc8433088a1b220]: Commencement: Rule 163 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-ad487c140bcaf060dfc8433088a1b220]: Commencement: Rule 163 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

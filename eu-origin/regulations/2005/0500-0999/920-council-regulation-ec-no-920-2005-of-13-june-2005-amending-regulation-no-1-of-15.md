@@ -34,18 +34,18 @@ of 13 June 2005
 
 amending Regulation No 1 of 15 April 1958 determining the language to be used by the European Economic Community and Regulation No 1 of 15 April 1958 determining the language to be used by the European Atomic Energy Community and introducing temporary derogation measures from those Regulations (revoked)
 
-[^key-800b256aa03e6d109efd9cdaa7b483b9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-800b256aa03e6d109efd9cdaa7b483b9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-800b256aa03e6d109efd9cdaa7b483b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-800b256aa03e6d109efd9cdaa7b483b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-800b256aa03e6d109efd9cdaa7b483b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-800b256aa03e6d109efd9cdaa7b483b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-800b256aa03e6d109efd9cdaa7b483b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-800b256aa03e6d109efd9cdaa7b483b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-800b256aa03e6d109efd9cdaa7b483b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-800b256aa03e6d109efd9cdaa7b483b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-800b256aa03e6d109efd9cdaa7b483b9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-800b256aa03e6d109efd9cdaa7b483b9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-800b256aa03e6d109efd9cdaa7b483b9]: Textual amendment: Regulation revoked (31.12.2020) by [The European Institutions and Consular Protection (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1391)](https://www.legislation.gov.uk/uksi/2018/1391), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1391/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1391/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-800b256aa03e6d109efd9cdaa7b483b9]: Textual amendment: Regulation revoked (31.12.2020) by [The European Institutions and Consular Protection (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1391)](https://www.legislation.gov.uk/uksi/2018/1391), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1391/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1391/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Power to require information[^key-cde7b54e7e478b69a375ec48aaf4453d][^key-3f40952fcc54b53d85beb94dcdc51c05]
+## 12. Power to require information[^c-cde7b54e7e478b69a375ec48aaf4453d][^c-3f40952fcc54b53d85beb94dcdc51c05]
 
 *Extent: E+W*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cde7b54e7e478b69a375ec48aaf4453d]: Commencement: S. 12 not in force at Royal Assent, see [s. 67(2)](https://www.legislation.gov.uk/asc/2025/5/section/67/2)
+[^c-cde7b54e7e478b69a375ec48aaf4453d]: Commencement: S. 12 not in force at Royal Assent, see [s. 67(2)](https://www.legislation.gov.uk/asc/2025/5/section/67/2)
 
-[^key-3f40952fcc54b53d85beb94dcdc51c05]: Commencement: [S. 12](https://www.legislation.gov.uk/asc/2025/5/section/12) in force at 1.10.2026 by [S.I. 2025/1305](https://www.legislation.gov.uk/wsi/2025/1305), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/1305/article/2/g)
+[^c-3f40952fcc54b53d85beb94dcdc51c05]: Commencement: [S. 12](https://www.legislation.gov.uk/asc/2025/5/section/12) in force at 1.10.2026 by [S.I. 2025/1305](https://www.legislation.gov.uk/wsi/2025/1305), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/1305/article/2/g)

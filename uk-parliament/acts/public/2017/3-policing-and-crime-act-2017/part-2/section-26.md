@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Bodies who may make super-complaints[^c22718591][^key-dec5975171ff366a27c1cbc1503a0f33]
+## 26. Bodies who may make super-complaints[^c22718591][^c-dec5975171ff366a27c1cbc1503a0f33]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ In Part 2A of the Police Reform Act 2002, after section 29A (for which see secti
 
 [^c22718591]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2017/3/section/26) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-dec5975171ff366a27c1cbc1503a0f33]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2017/3/section/26) in force at 16.4.2018 in so far as not already in force by [S.I. 2018/456](https://www.legislation.gov.uk/uksi/2018/456), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/456/regulation/3/b)
+[^c-dec5975171ff366a27c1cbc1503a0f33]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2017/3/section/26) in force at 16.4.2018 in so far as not already in force by [S.I. 2018/456](https://www.legislation.gov.uk/uksi/2018/456), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/456/regulation/3/b)

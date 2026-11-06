@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Requirements, appeals, etc.[^key-7c2aa412c61a2c3d05c98a1f431c03f8]
+## 41. Requirements, appeals, etc.[^c-7c2aa412c61a2c3d05c98a1f431c03f8]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7c2aa412c61a2c3d05c98a1f431c03f8]: Commencement: Art. 41 in force at 14.8.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/934/article/1)
+[^c-7c2aa412c61a2c3d05c98a1f431c03f8]: Commencement: Art. 41 in force at 14.8.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/934/article/1)

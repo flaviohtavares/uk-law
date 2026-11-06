@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 8. Appointment of chief inspector and other inspectors[^key-e50209787970535d3b69576a842c8600]
+## 8. Appointment of chief inspector and other inspectors[^c-e50209787970535d3b69576a842c8600]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e50209787970535d3b69576a842c8600]: Commencement: Reg. 8 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-e50209787970535d3b69576a842c8600]: Commencement: Reg. 8 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)

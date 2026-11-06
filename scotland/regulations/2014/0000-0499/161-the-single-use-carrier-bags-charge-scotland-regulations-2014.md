@@ -132,13 +132,13 @@ A local authority is the enforcement authority for the area of the authority for
 - (a) at the place where goods are supplied, for the purpose of enabling the goods to be taken away; or
 - (b) for the purpose of enabling the goods to be delivered to any person.
 
-(2) The amount that a supplier must charge for a single use carrier bag is the amount that will ensure that the consideration paid by the person supplied with the bag is, for each such bag, not less than 10[^key-7b1e3a2233bc30faba3d19b933087834] pence.
+(2) The amount that a supplier must charge for a single use carrier bag is the amount that will ensure that the consideration paid by the person supplied with the bag is, for each such bag, not less than 10[^c-7b1e3a2233bc30faba3d19b933087834] pence.
 
 ### 7. Circumstances in which the requirement to charge does not apply
 
-(1)[^key-5cfc899dc459b28a026fd5c70601f999] The requirement to charge in regulation 6 does not apply in relation to the supply of a single use carrier bag if the bag is used for a purpose described in paragraph 1 of the Schedule.
+(1)[^c-5cfc899dc459b28a026fd5c70601f999] The requirement to charge in regulation 6 does not apply in relation to the supply of a single use carrier bag if the bag is used for a purpose described in paragraph 1 of the Schedule.
 
-(2)[^key-e82d47526caa80ab1853e0d873c49b92] Until 0001 hours on 31 May 2021[^key-370f81b5391b15eead0ddeefa7c577cc], the requirement to charge in regulation 6 does not apply in relation to the supply of a single use carrier bag if the bag is used for a purpose described in paragraph 1A of the schedule.
+(2)[^c-e82d47526caa80ab1853e0d873c49b92] Until 0001 hours on 31 May 2021[^c-370f81b5391b15eead0ddeefa7c577cc], the requirement to charge in regulation 6 does not apply in relation to the supply of a single use carrier bag if the bag is used for a purpose described in paragraph 1A of the schedule.
 
 ## PART 3 — The charge: net proceeds raised by the charge, and records
 
@@ -289,8 +289,8 @@ Regulation 7
 - (d) used solely to contain live aquatic creatures in water;
 - (e) used to contain a purchase made on board a ship, train, aircraft, coach or bus;
 - (f) used to contain a purchase made in an aerodrome security restricted area;
-- (g) a mail order dispatch or courier bag; [^key-563d0df0b6cc76edc5bb7e1fbe88d7b9]...
-- (h) a gusseted liner used to line or cover a box ; or[^key-0168a408bd19ae4b4c645a52bcd50fc3]
+- (g) a mail order dispatch or courier bag; [^c-563d0df0b6cc76edc5bb7e1fbe88d7b9]...
+- (h) a gusseted liner used to line or cover a box ; or[^c-0168a408bd19ae4b4c645a52bcd50fc3]
 - (i) used to contain a purchase made in—
   - (i) a prison;
   - (ii) a hospital in which a person is detained, or otherwise in custody, under the Mental Health (Care and Treatment) (Scotland) Act 2003 or Part 6 or section 200 of the Criminal Procedure (Scotland) Act 1995; or
@@ -298,7 +298,7 @@ Regulation 7
 
   where the bag is necessary for reasons of security, good order, discipline or safety
 
-**1A.**[^key-da9b25cd5a563fe49a985f6e66ff4a8d] A single use carrier bag is used for a purpose described in this paragraph if it is used solely to contain—
+**1A.**[^c-da9b25cd5a563fe49a985f6e66ff4a8d] A single use carrier bag is used for a purpose described in this paragraph if it is used solely to contain—
 
 - (a) goods purchased for delivery as part of a grocery delivery service,
 - (b) goods purchased for collection as part of a service that allows a person to collect groceries ordered in advance, or
@@ -322,8 +322,8 @@ Regulation 7
   - (e) an optometrist independent prescriber, as defined in regulation 8(1) of the 2012 Regulations;
   - (f) a pharmacist independent prescriber, as defined in regulation 8(1) of the 2012 Regulations; or
   - (g) a supplementary prescriber, as defined in regulation 8(1) of the 2012 Regulations;
-- “**prescription only medicine**” has the same meaning as in regulation 5(3) of the 2012 Regulations; [^key-d5ac83d720ebb403706c5d538a738334]...
-- “prison” means any prison, young offenders institution or remand centre which is under the general superintendence of the Scottish Ministers under the Prisons (Scotland) Act 1989, and includes any contracted out prison within the meaning of section 106(4) of the Criminal Justice and Public Order Act 1994;[^key-e8b4c719686375994a4d9d82b26d2e8e]
+- “**prescription only medicine**” has the same meaning as in regulation 5(3) of the 2012 Regulations; [^c-d5ac83d720ebb403706c5d538a738334]...
+- “prison” means any prison, young offenders institution or remand centre which is under the general superintendence of the Scottish Ministers under the Prisons (Scotland) Act 1989, and includes any contracted out prison within the meaning of section 106(4) of the Criminal Justice and Public Order Act 1994;[^c-e8b4c719686375994a4d9d82b26d2e8e]
 - “secure accommodation” has the same meaning as in regulation 2 of the Secure Accommodation (Scotland) Regulations 2013; and
 - “**unpackaged**” means wholly or partly unwrapped.
 
@@ -372,19 +372,19 @@ A Business Regulatory Impact Assessment has been prepared and placed in the Scot
 
 [^c22114291]: Marginal citation: [1994 c.23](https://www.legislation.gov.uk/ukpga/1994/23). There are amendments to section 96 which are not relevant to these Regulations.
 
-[^key-7b1e3a2233bc30faba3d19b933087834]: Textual amendment: Word in [reg. 6(2)](https://www.legislation.gov.uk/ssi/2014/161/regulation/6/2) substituted (1.4.2021) by [The Single Use Carrier Bags Charge (Scotland) Amendment Regulations 2021 (S.S.I. 2021/134)](https://www.legislation.gov.uk/ssi/2021/134), [regs. 1](https://www.legislation.gov.uk/ssi/2021/134/regulation/1), [2](https://www.legislation.gov.uk/ssi/2021/134/regulation/2)
+[^c-7b1e3a2233bc30faba3d19b933087834]: Textual amendment: Word in [reg. 6(2)](https://www.legislation.gov.uk/ssi/2014/161/regulation/6/2) substituted (1.4.2021) by [The Single Use Carrier Bags Charge (Scotland) Amendment Regulations 2021 (S.S.I. 2021/134)](https://www.legislation.gov.uk/ssi/2021/134), [regs. 1](https://www.legislation.gov.uk/ssi/2021/134/regulation/1), [2](https://www.legislation.gov.uk/ssi/2021/134/regulation/2)
 
-[^key-5cfc899dc459b28a026fd5c70601f999]: Textual amendment: Reg. 7(1): words in reg. 7 renumbered as reg. 7(1) (2.4.2020) by [The Single Use Carrier Bags Charge (Scotland) Amendment Regulations 2020 (S.S.I. 2020/118)](https://www.legislation.gov.uk/ssi/2020/118), [regs. 1](https://www.legislation.gov.uk/ssi/2020/118/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2020/118/regulation/2/2/a)
+[^c-5cfc899dc459b28a026fd5c70601f999]: Textual amendment: Reg. 7(1): words in reg. 7 renumbered as reg. 7(1) (2.4.2020) by [The Single Use Carrier Bags Charge (Scotland) Amendment Regulations 2020 (S.S.I. 2020/118)](https://www.legislation.gov.uk/ssi/2020/118), [regs. 1](https://www.legislation.gov.uk/ssi/2020/118/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2020/118/regulation/2/2/a)
 
-[^key-e82d47526caa80ab1853e0d873c49b92]: Textual amendment: Reg. 7(2) inserted (2.4.2020) by [The Single Use Carrier Bags Charge (Scotland) Amendment Regulations 2020 (S.S.I. 2020/118)](https://www.legislation.gov.uk/ssi/2020/118), [regs. 1](https://www.legislation.gov.uk/ssi/2020/118/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2020/118/regulation/2/2/b)
+[^c-e82d47526caa80ab1853e0d873c49b92]: Textual amendment: Reg. 7(2) inserted (2.4.2020) by [The Single Use Carrier Bags Charge (Scotland) Amendment Regulations 2020 (S.S.I. 2020/118)](https://www.legislation.gov.uk/ssi/2020/118), [regs. 1](https://www.legislation.gov.uk/ssi/2020/118/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2020/118/regulation/2/2/b)
 
-[^key-370f81b5391b15eead0ddeefa7c577cc]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/ssi/2014/161/regulation/7/2) substituted (29.1.2021) by [The Single Use Carrier Bags Charge (Coronavirus) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/53)](https://www.legislation.gov.uk/ssi/2021/53), [regs. 1](https://www.legislation.gov.uk/ssi/2021/53/regulation/1), [2](https://www.legislation.gov.uk/ssi/2021/53/regulation/2)
+[^c-370f81b5391b15eead0ddeefa7c577cc]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/ssi/2014/161/regulation/7/2) substituted (29.1.2021) by [The Single Use Carrier Bags Charge (Coronavirus) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/53)](https://www.legislation.gov.uk/ssi/2021/53), [regs. 1](https://www.legislation.gov.uk/ssi/2021/53/regulation/1), [2](https://www.legislation.gov.uk/ssi/2021/53/regulation/2)
 
-[^key-563d0df0b6cc76edc5bb7e1fbe88d7b9]: Textual amendment: Word in sch. para. 1(g) omitted (1.4.2015) by virtue of [The Single Use Carrier Bags Charge (Fixed Penalty Notices and Amendment) (Scotland) Regulations 2015 (S.S.I. 2015/159)](https://www.legislation.gov.uk/ssi/2015/159), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/159/regulation/1/1), [5(2)(a)](https://www.legislation.gov.uk/ssi/2015/159/regulation/5/2/a)
+[^c-563d0df0b6cc76edc5bb7e1fbe88d7b9]: Textual amendment: Word in sch. para. 1(g) omitted (1.4.2015) by virtue of [The Single Use Carrier Bags Charge (Fixed Penalty Notices and Amendment) (Scotland) Regulations 2015 (S.S.I. 2015/159)](https://www.legislation.gov.uk/ssi/2015/159), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/159/regulation/1/1), [5(2)(a)](https://www.legislation.gov.uk/ssi/2015/159/regulation/5/2/a)
 
-[^key-0168a408bd19ae4b4c645a52bcd50fc3]: Textual amendment: Sch. para. 1(i) and word inserted (1.4.2015) by [The Single Use Carrier Bags Charge (Fixed Penalty Notices and Amendment) (Scotland) Regulations 2015 (S.S.I. 2015/159)](https://www.legislation.gov.uk/ssi/2015/159), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/159/regulation/1/1), [5(2)(b)](https://www.legislation.gov.uk/ssi/2015/159/regulation/5/2/b)
+[^c-0168a408bd19ae4b4c645a52bcd50fc3]: Textual amendment: Sch. para. 1(i) and word inserted (1.4.2015) by [The Single Use Carrier Bags Charge (Fixed Penalty Notices and Amendment) (Scotland) Regulations 2015 (S.S.I. 2015/159)](https://www.legislation.gov.uk/ssi/2015/159), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/159/regulation/1/1), [5(2)(b)](https://www.legislation.gov.uk/ssi/2015/159/regulation/5/2/b)
 
-[^key-da9b25cd5a563fe49a985f6e66ff4a8d]: Textual amendment: [Sch. para. 1A](https://www.legislation.gov.uk/ssi/2014/161/schedule/paragraph/1A) inserted (2.4.2020) by [The Single Use Carrier Bags Charge (Scotland) Amendment Regulations 2020 (S.S.I. 2020/118)](https://www.legislation.gov.uk/ssi/2020/118), [regs. 1](https://www.legislation.gov.uk/ssi/2020/118/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2020/118/regulation/2/3)
+[^c-da9b25cd5a563fe49a985f6e66ff4a8d]: Textual amendment: [Sch. para. 1A](https://www.legislation.gov.uk/ssi/2014/161/schedule/paragraph/1A) inserted (2.4.2020) by [The Single Use Carrier Bags Charge (Scotland) Amendment Regulations 2020 (S.S.I. 2020/118)](https://www.legislation.gov.uk/ssi/2020/118), [regs. 1](https://www.legislation.gov.uk/ssi/2020/118/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2020/118/regulation/2/3)
 
 [^c22114301]: Marginal citation: [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916), relevantly amended by [S.I. 2013/1855](https://www.legislation.gov.uk/uksi/2013/1855) and [S.I. 2014/490](https://www.legislation.gov.uk/uksi/2014/490).
 
@@ -400,6 +400,6 @@ A Business Regulatory Impact Assessment has been prepared and placed in the Scot
 
 [^c22114361]: Marginal citation: Regulation 213 has been amended by [S.I. 2014/490](https://www.legislation.gov.uk/uksi/2014/490).
 
-[^key-d5ac83d720ebb403706c5d538a738334]: Textual amendment: Word in sch. para. 2 omitted (1.4.2015) by virtue of [The Single Use Carrier Bags Charge (Fixed Penalty Notices and Amendment) (Scotland) Regulations 2015 (S.S.I. 2015/159)](https://www.legislation.gov.uk/ssi/2015/159), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/159/regulation/1/1), [5(3)(a)](https://www.legislation.gov.uk/ssi/2015/159/regulation/5/3/a)
+[^c-d5ac83d720ebb403706c5d538a738334]: Textual amendment: Word in sch. para. 2 omitted (1.4.2015) by virtue of [The Single Use Carrier Bags Charge (Fixed Penalty Notices and Amendment) (Scotland) Regulations 2015 (S.S.I. 2015/159)](https://www.legislation.gov.uk/ssi/2015/159), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/159/regulation/1/1), [5(3)(a)](https://www.legislation.gov.uk/ssi/2015/159/regulation/5/3/a)
 
-[^key-e8b4c719686375994a4d9d82b26d2e8e]: Textual amendment: Words in sch. para. 2 inserted (1.4.2015) by [The Single Use Carrier Bags Charge (Fixed Penalty Notices and Amendment) (Scotland) Regulations 2015 (S.S.I. 2015/159)](https://www.legislation.gov.uk/ssi/2015/159), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/159/regulation/1/1), [5(3)(b)](https://www.legislation.gov.uk/ssi/2015/159/regulation/5/3/b)
+[^c-e8b4c719686375994a4d9d82b26d2e8e]: Textual amendment: Words in sch. para. 2 inserted (1.4.2015) by [The Single Use Carrier Bags Charge (Fixed Penalty Notices and Amendment) (Scotland) Regulations 2015 (S.S.I. 2015/159)](https://www.legislation.gov.uk/ssi/2015/159), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/159/regulation/1/1), [5(3)(b)](https://www.legislation.gov.uk/ssi/2015/159/regulation/5/3/b)

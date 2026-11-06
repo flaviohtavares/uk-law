@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.K.9. Pensionable earnings credited under regulations 3.K.3 and 3.K.5 to be treated as capped Optant pensionable earnings[^key-ce4df8598cfe969aa510d39614f40976][^key-d8b7394b5516cee263fa1805f85422f4]
+## 3.K.9. Pensionable earnings credited under regulations 3.K.3 and 3.K.5 to be treated as capped Optant pensionable earnings[^c-ce4df8598cfe969aa510d39614f40976][^c-d8b7394b5516cee263fa1805f85422f4]
 
 *Extent: E+W*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ce4df8598cfe969aa510d39614f40976]: Textual amendment: [Ch. 3K](https://www.legislation.gov.uk/uksi/2008/653/chapter/3K) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [94](https://www.legislation.gov.uk/uksi/2009/2446/regulation/94)
+[^c-ce4df8598cfe969aa510d39614f40976]: Textual amendment: [Ch. 3K](https://www.legislation.gov.uk/uksi/2008/653/chapter/3K) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [94](https://www.legislation.gov.uk/uksi/2009/2446/regulation/94)
 
-[^key-d8b7394b5516cee263fa1805f85422f4]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-d8b7394b5516cee263fa1805f85422f4]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)

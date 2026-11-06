@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 285. Sending of notices and other documents[^key-55fe46fd6e570b9977e30cae53bae64c]
+## 285. Sending of notices and other documents[^c-55fe46fd6e570b9977e30cae53bae64c]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-55fe46fd6e570b9977e30cae53bae64c]: Commencement: Reg. 285 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-55fe46fd6e570b9977e30cae53bae64c]: Commencement: Reg. 285 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

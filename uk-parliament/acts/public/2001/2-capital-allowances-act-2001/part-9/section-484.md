@@ -27,7 +27,7 @@ summary: ''
 - (a) consists of the maintenance or improvement of the navigation of a harbour, estuary or waterway, or
 - (b) is of a kind listed in Table A or B in section 274 (meaning of qualifying trade for purposes of industrial buildings allowances).
 
-(2A)[^key-daaf1895f40c3a62ed53d6d54989ec63] If a company or partnership is as a result of section 6D (NI rate activity treated as separate trade) treated for the purpose of this Act as carrying on two separate trades, each of them is for the purposes of this Part to be treated as a qualifying trade if the separate trades would together be so treated.
+(2A)[^c-daaf1895f40c3a62ed53d6d54989ec63] If a company or partnership is as a result of section 6D (NI rate activity treated as separate trade) treated for the purpose of this Act as carrying on two separate trades, each of them is for the purposes of this Part to be treated as a qualifying trade if the separate trades would together be so treated.
 
 (3) “**Dredging**” does not include anything done otherwise than in the interests of navigation.
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-daaf1895f40c3a62ed53d6d54989ec63]: Textual amendment: [S. 484(2A)](https://www.legislation.gov.uk/ukpga/2001/2/section/484/2A) inserted (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2015/21/schedule/1/paragraph/16)
+[^c-daaf1895f40c3a62ed53d6d54989ec63]: Textual amendment: [S. 484(2A)](https://www.legislation.gov.uk/ukpga/2001/2/section/484/2A) inserted (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2015/21/schedule/1/paragraph/16)

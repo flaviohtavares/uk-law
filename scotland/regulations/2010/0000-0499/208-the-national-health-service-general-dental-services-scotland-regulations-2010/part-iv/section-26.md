@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 26. Payments to dentists or bodies corporate suspended by a Health Board or by direction of the Tribunal[^key-db49eced024a676336ea86d67c1cb411]
+## 26. Payments to dentists or bodies corporate suspended by a Health Board or by direction of the Tribunal[^c-db49eced024a676336ea86d67c1cb411]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ that person may ask the Health Board to review the original decision and, if tha
 
 ## Annotations
 
-[^key-db49eced024a676336ea86d67c1cb411]: Commencement: [Reg. 26](https://www.legislation.gov.uk/ssi/2010/208/regulation/26) in force at 2.7.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/208/regulation/1)
+[^c-db49eced024a676336ea86d67c1cb411]: Commencement: [Reg. 26](https://www.legislation.gov.uk/ssi/2010/208/regulation/26) in force at 2.7.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/208/regulation/1)

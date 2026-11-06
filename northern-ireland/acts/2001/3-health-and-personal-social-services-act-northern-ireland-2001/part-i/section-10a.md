@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 10A. Recognition of attainment of standards by social workers[^key-a4e917d3a2e1ce8dbd9bba5756fc06c9]
+## 10A. Recognition of attainment of standards by social workers[^c-a4e917d3a2e1ce8dbd9bba5756fc06c9]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a4e917d3a2e1ce8dbd9bba5756fc06c9]: Textual amendment: [S. 10A](https://www.legislation.gov.uk/nia/2001/3/section/10A) inserted (13.5.2016) by [Health and Personal Social Services (Amendment) Act (NorthernIreland) 2016 (c. 23)](https://www.legislation.gov.uk/nia/2016/23), [ss. 4(1)](https://www.legislation.gov.uk/nia/2016/23/section/4/1), [8](https://www.legislation.gov.uk/nia/2016/23/section/8)
+[^c-a4e917d3a2e1ce8dbd9bba5756fc06c9]: Textual amendment: [S. 10A](https://www.legislation.gov.uk/nia/2001/3/section/10A) inserted (13.5.2016) by [Health and Personal Social Services (Amendment) Act (NorthernIreland) 2016 (c. 23)](https://www.legislation.gov.uk/nia/2016/23), [ss. 4(1)](https://www.legislation.gov.uk/nia/2016/23/section/4/1), [8](https://www.legislation.gov.uk/nia/2016/23/section/8)

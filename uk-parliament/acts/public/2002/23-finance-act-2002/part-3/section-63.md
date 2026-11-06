@@ -24,11 +24,11 @@ summary: ''
 
 (2) In that Schedule—
 
-- (a) Part 1 makes provision for and in connection with first-year allowances under Part 2 of the Capital Allowances Act 2001 in respect of expenditure incurred by a company on the provision of plant or machinery for use wholly for the purposes of a ring fence trade chargeable to tax under section 330(1) of the Corporation Tax Act 2010[^key-5cabe0bf7471b13ead8cb07405b79218]; and
+- (a) Part 1 makes provision for and in connection with first-year allowances under Part 2 of the Capital Allowances Act 2001 in respect of expenditure incurred by a company on the provision of plant or machinery for use wholly for the purposes of a ring fence trade chargeable to tax under section 330(1) of the Corporation Tax Act 2010[^c-5cabe0bf7471b13ead8cb07405b79218]; and
 - (b) Part 2 makes provision for and in connection with first-year allowances under Part 5 of that Act (mineral extraction allowances) in respect of expenditure incurred by a company wholly for the purposes of such a trade.
 
 (3) The amendments made by that Schedule have effect in relation to expenditure incurred on or after 17th April 2002.
 
 ## Annotations
 
-[^key-5cabe0bf7471b13ead8cb07405b79218]: Textual amendment: Words in [s. 63(2)(a)](https://www.legislation.gov.uk/ukpga/2002/23/section/63/2/a) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 371](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/371) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-5cabe0bf7471b13ead8cb07405b79218]: Textual amendment: Words in [s. 63(2)(a)](https://www.legislation.gov.uk/ukpga/2002/23/section/63/2/a) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 371](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/371) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

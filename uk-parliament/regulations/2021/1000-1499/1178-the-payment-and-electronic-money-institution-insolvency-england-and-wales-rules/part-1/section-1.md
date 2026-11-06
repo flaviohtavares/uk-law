@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation[^key-2eedcdc6718af59d0816ed205be6732b]
+## 1. Citation[^c-2eedcdc6718af59d0816ed205be6732b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ These Rules may be cited as the Payment and Electronic Money Institution Insolve
 
 ## Annotations
 
-[^key-2eedcdc6718af59d0816ed205be6732b]: Commencement: Rule 1 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-2eedcdc6718af59d0816ed205be6732b]: Commencement: Rule 1 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

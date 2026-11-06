@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Determination of appeals[^key-de54087a361c5660e1d974c5f4699262]
+## 85. Determination of appeals[^c-de54087a361c5660e1d974c5f4699262]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Where, on an appeal made under regulation 83, the appeal body determines that th
 
 ## Annotations
 
-[^key-de54087a361c5660e1d974c5f4699262]: Commencement: Reg. 85 in force at 1.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/1/2)
+[^c-de54087a361c5660e1d974c5f4699262]: Commencement: Reg. 85 in force at 1.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/1/2)

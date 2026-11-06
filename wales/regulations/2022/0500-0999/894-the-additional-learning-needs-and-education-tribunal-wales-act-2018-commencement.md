@@ -37,7 +37,7 @@ Made
 
 The Welsh Ministers, in exercise of the powers conferred by section 100(3) and (4) of the Additional Learning Needs and Education Tribunal (Wales) Act 2018[^f00001], make the following Order:
 
-## 1. Title and interpretation[^key-fd3cfb3b1584d11d5c4e0a04aa7f8ea7]
+## 1. Title and interpretation[^c-fd3cfb3b1584d11d5c4e0a04aa7f8ea7]
 
 (1) The title of this Order is the Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Commencement No. 11) Order 2022.
 
@@ -76,7 +76,7 @@ The Welsh Ministers, in exercise of the powers conferred by section 100(3) and (
 
 (4) For the purposes of this Order, a local authority is responsible for a child if he or she is in the area of the authority.
 
-## 2. Meaning of identified special educational needs[^key-1b6e65981a1653d10c7ea01a82e3d43f]
+## 2. Meaning of identified special educational needs[^c-1b6e65981a1653d10c7ea01a82e3d43f]
 
 (1) For the purposes of this Order, a child (“**C**”) has “identified special educational needs” if —
 
@@ -130,7 +130,7 @@ The Welsh Ministers, in exercise of the powers conferred by section 100(3) and (
     - (bb) reconsider its decision and that reconsideration has not commenced;
 - (q) in relation to whom a local authority has determined under section 36(9) of the 2014 Act that it is necessary for special educational provision to be made in accordance with an EHC plan but that plan is not prepared.
 
-## 3. Provisions coming into force on 1 September 2022[^key-5c23ece5354a770cbb3520331962ec32]
+## 3. Provisions coming into force on 1 September 2022[^c-5c23ece5354a770cbb3520331962ec32]
 
 The following provisions of the Act come into force on 1 September 2022 in relation to a child who has identified special educational needs on 1 September 2022—
 
@@ -353,7 +353,7 @@ The following provisions of the Act have been brought into force by Commencement
 
 [^f00001]: Footnote: [2018 anaw 2](https://www.legislation.gov.uk/anaw/2018/2).
 
-[^key-fd3cfb3b1584d11d5c4e0a04aa7f8ea7]: Commencement: Art. 1 in force at made date
+[^c-fd3cfb3b1584d11d5c4e0a04aa7f8ea7]: Commencement: Art. 1 in force at made date
 
 [^f00002]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56).
 
@@ -377,9 +377,9 @@ The following provisions of the Act have been brought into force by Commencement
 
 [^f00012]: Footnote: [S.I. 2012/322 (W. 53)](https://www.legislation.gov.uk/wsi/2012/322).
 
-[^key-1b6e65981a1653d10c7ea01a82e3d43f]: Commencement: Art. 2 in force at made date
+[^c-1b6e65981a1653d10c7ea01a82e3d43f]: Commencement: Art. 2 in force at made date
 
-[^key-5c23ece5354a770cbb3520331962ec32]: Commencement: Art. 3 in force at made date
+[^c-5c23ece5354a770cbb3520331962ec32]: Commencement: Art. 3 in force at made date
 
 [^f00013]: Footnote: Paragraph 4(7) (“the provision”) has been repealed by paragraph 75 of Schedule 2 to the Curriculum and Assessment (Wales) Act 2021 (asc 4) (“**the 2021 Act**”). However, the provision has been saved by the Curriculum and Assessment (Wales) Act 2021 (Transitional and Saving Provision) Regulations 2022 ([S.I. 2022/111 (W. 39)](https://www.legislation.gov.uk/wsi/2022/111)) in relation to a child or pupil provided with education under the old curriculum (i.e. in relation to whom the 2021 Act has not been commenced). The effect of that saving provision is that paragraph 4(7) of the Schedule to the Act remains in force until such time as the child or pupil is provided with education under the 2021 Act.
 

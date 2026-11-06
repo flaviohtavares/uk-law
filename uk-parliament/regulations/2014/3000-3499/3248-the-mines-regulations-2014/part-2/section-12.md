@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 12. Instructions, rules and schemes[^key-1dee00459d7ed3a9095a7f7a1346cf18]
+## 12. Instructions, rules and schemes[^c-1dee00459d7ed3a9095a7f7a1346cf18]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1dee00459d7ed3a9095a7f7a1346cf18]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2014/3248/regulation/12) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
+[^c-1dee00459d7ed3a9095a7f7a1346cf18]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2014/3248/regulation/12) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)

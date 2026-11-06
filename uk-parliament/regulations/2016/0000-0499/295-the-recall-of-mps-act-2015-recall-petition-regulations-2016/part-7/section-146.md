@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 146. Translations etc of certain documents[^key-3d0bd2480a5ce77c468ace03ae521e3a]
+## 146. Translations etc of certain documents[^c-3d0bd2480a5ce77c468ace03ae521e3a]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3d0bd2480a5ce77c468ace03ae521e3a]: Commencement: Reg. 146 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-3d0bd2480a5ce77c468ace03ae521e3a]: Commencement: Reg. 146 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

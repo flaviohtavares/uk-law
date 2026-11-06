@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 200. Application of Chapter[^key-20645d4d2cc372e6720e7417df12287f]
+## 200. Application of Chapter[^c-20645d4d2cc372e6720e7417df12287f]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ This Chapter applies to any application made to the court under the Regulations 
 
 ## Annotations
 
-[^key-20645d4d2cc372e6720e7417df12287f]: Commencement: [Rule 200](https://www.legislation.gov.uk/nisr/2026/11/rule/200) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-20645d4d2cc372e6720e7417df12287f]: Commencement: [Rule 200](https://www.legislation.gov.uk/nisr/2026/11/rule/200) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

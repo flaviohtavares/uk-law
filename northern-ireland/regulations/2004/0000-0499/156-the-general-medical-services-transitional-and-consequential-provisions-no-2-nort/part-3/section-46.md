@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 46. Removals from the list of patients[^key-64a8fab15ce1f03fd7d6e394ce15eb1c]
+## 46. Removals from the list of patients[^c-64a8fab15ce1f03fd7d6e394ce15eb1c]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-64a8fab15ce1f03fd7d6e394ce15eb1c]: Commencement: Art. 46 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-64a8fab15ce1f03fd7d6e394ce15eb1c]: Commencement: Art. 46 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)

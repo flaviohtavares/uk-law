@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Private rights over restricted byways.[^key-68303cc5dd4756be38e8e09e56fe2582][^key-397830655b6eca8fece2eb70075164cd]
+## 50. Private rights over restricted byways.[^c-68303cc5dd4756be38e8e09e56fe2582][^c-397830655b6eca8fece2eb70075164cd]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-68303cc5dd4756be38e8e09e56fe2582]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2000/37/section/50) in force at 2.5.2006 for E. by [S.I. 2006/1172](https://www.legislation.gov.uk/uksi/2006/1172), [art. 2(d)](https://www.legislation.gov.uk/uksi/2006/1172/article/2/d)
+[^c-68303cc5dd4756be38e8e09e56fe2582]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2000/37/section/50) in force at 2.5.2006 for E. by [S.I. 2006/1172](https://www.legislation.gov.uk/uksi/2006/1172), [art. 2(d)](https://www.legislation.gov.uk/uksi/2006/1172/article/2/d)
 
-[^key-397830655b6eca8fece2eb70075164cd]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2000/37/section/50) in force at 11.5.2006 for W. by [S.I. 2006/1279](https://www.legislation.gov.uk/wsi/2006/1279), [art. 2(d)](https://www.legislation.gov.uk/wsi/2006/1279/article/2/d)
+[^c-397830655b6eca8fece2eb70075164cd]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2000/37/section/50) in force at 11.5.2006 for W. by [S.I. 2006/1279](https://www.legislation.gov.uk/wsi/2006/1279), [art. 2(d)](https://www.legislation.gov.uk/wsi/2006/1279/article/2/d)

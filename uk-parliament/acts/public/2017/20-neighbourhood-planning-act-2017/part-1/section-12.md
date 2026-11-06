@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Review of local development documents[^c22730131][^key-87c260e3e38632dde1cc0b99ff8a7d9b]
+## 12. Review of local development documents[^c22730131][^c-87c260e3e38632dde1cc0b99ff8a7d9b]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ In section 17 of the Planning and Compulsory Purchase Act 2004 (local developmen
 
 [^c22730131]: Commencement: S. 12 in force for specified purposes at Royal Assent, see s. 46
 
-[^key-87c260e3e38632dde1cc0b99ff8a7d9b]: Commencement: S. 12 in force at 19.7.2017 in so far as not already in force by [S.I. 2017/767](https://www.legislation.gov.uk/uksi/2017/767), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2017/767/regulation/2/d)
+[^c-87c260e3e38632dde1cc0b99ff8a7d9b]: Commencement: S. 12 in force at 19.7.2017 in so far as not already in force by [S.I. 2017/767](https://www.legislation.gov.uk/uksi/2017/767), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2017/767/regulation/2/d)

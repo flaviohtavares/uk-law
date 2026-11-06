@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Other records[^key-63728f40a857faa4e96dddf90b912176]
+## 25. Other records[^c-63728f40a857faa4e96dddf90b912176]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-63728f40a857faa4e96dddf90b912176]: Commencement: Reg. 25 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
+[^c-63728f40a857faa4e96dddf90b912176]: Commencement: Reg. 25 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)

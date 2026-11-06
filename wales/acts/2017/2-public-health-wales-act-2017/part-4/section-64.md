@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 64. Consultation about licensing criteria and mandatory licensing conditions[^key-796d7349c38336581fa24b37500f61d9]
+## 64. Consultation about licensing criteria and mandatory licensing conditions[^c-796d7349c38336581fa24b37500f61d9]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ Before making regulations under section 62 or 63, the Welsh Ministers must—
 
 ## Annotations
 
-[^key-796d7349c38336581fa24b37500f61d9]: Commencement: [S. 64](https://www.legislation.gov.uk/anaw/2017/2/section/64) in force at 13.9.2024 by [S.I. 2024/938](https://www.legislation.gov.uk/wsi/2024/938), [art. 2(2)(a)](https://www.legislation.gov.uk/wsi/2024/938/article/2/2/a)
+[^c-796d7349c38336581fa24b37500f61d9]: Commencement: [S. 64](https://www.legislation.gov.uk/anaw/2017/2/section/64) in force at 13.9.2024 by [S.I. 2024/938](https://www.legislation.gov.uk/wsi/2024/938), [art. 2(2)(a)](https://www.legislation.gov.uk/wsi/2024/938/article/2/2/a)

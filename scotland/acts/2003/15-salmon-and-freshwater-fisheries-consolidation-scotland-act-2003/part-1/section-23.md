@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23. Young salmon and spawning beds[^key-f01a5666c457a04f86cb888cd0113ffa]
+## 23. Young salmon and spawning beds[^c-f01a5666c457a04f86cb888cd0113ffa]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ shall be guilty of an offence.
 
 ## Annotations
 
-[^key-f01a5666c457a04f86cb888cd0113ffa]: Commencement: S. 23 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-f01a5666c457a04f86cb888cd0113ffa]: Commencement: S. 23 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)

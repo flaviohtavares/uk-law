@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**37.**[^key-fbcff4de18311413ada89b67ffab9de5] In Rule 12(8)(e)(x), after “1979” insert “or the Historic Environment (Wales) Act 2023”.
+**37.**[^c-fbcff4de18311413ada89b67ffab9de5] In Rule 12(8)(e)(x), after “1979” insert “or the Historic Environment (Wales) Act 2023”.
 
 ## Annotations
 
-[^key-fbcff4de18311413ada89b67ffab9de5]: Commencement: [Reg. 37](https://www.legislation.gov.uk/wsi/2024/924/regulation/37) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-fbcff4de18311413ada89b67ffab9de5]: Commencement: [Reg. 37](https://www.legislation.gov.uk/wsi/2024/924/regulation/37) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)

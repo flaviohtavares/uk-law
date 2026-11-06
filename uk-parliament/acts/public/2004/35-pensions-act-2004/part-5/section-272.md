@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 272. Debt due from the employer in the case of multi-employer schemes[^key-09c6dd51d37e3afab3d683961099235f][^key-36d85352c952d8c57a58f48c433f8a83][^key-04c6e04f38b780b6812ef0f4c796e3bf][^key-89d6c149f8615734fcb212f349754a05][^key-61b9fd64e6d7f077286f94d5852f8d80]
+## 272. Debt due from the employer in the case of multi-employer schemes[^c-09c6dd51d37e3afab3d683961099235f][^c-36d85352c952d8c57a58f48c433f8a83][^c-04c6e04f38b780b6812ef0f4c796e3bf][^c-89d6c149f8615734fcb212f349754a05][^c-61b9fd64e6d7f077286f94d5852f8d80]
 
 *Extent: E+W+S*
 
@@ -83,12 +83,12 @@ After section 75 of the Pensions Act 1995 (c. 26) (deficiencies in the assets) i
 
 ## Annotations
 
-[^key-09c6dd51d37e3afab3d683961099235f]: Commencement: S. 272 in force for the purpose only of conferring power to make regulations, orders or rules, as the case may be, 10.2.2005; and then for all other purposes at 6.4.2005 for specified purposes by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(3)](https://www.legislation.gov.uk/uksi/2005/275/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/3)
+[^c-09c6dd51d37e3afab3d683961099235f]: Commencement: S. 272 in force for the purpose only of conferring power to make regulations, orders or rules, as the case may be, 10.2.2005; and then for all other purposes at 6.4.2005 for specified purposes by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(3)](https://www.legislation.gov.uk/uksi/2005/275/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/3)
 
-[^key-36d85352c952d8c57a58f48c433f8a83]: Commencement: S. 272 in force at 15.3.2005 in so far as not already in force by [S.I. 2005/695](https://www.legislation.gov.uk/uksi/2005/695), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/695/article/2/2) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2005/695/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/695/schedule/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2005/695/schedule/3))
+[^c-36d85352c952d8c57a58f48c433f8a83]: Commencement: S. 272 in force at 15.3.2005 in so far as not already in force by [S.I. 2005/695](https://www.legislation.gov.uk/uksi/2005/695), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/695/article/2/2) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2005/695/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/695/schedule/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2005/695/schedule/3))
 
-[^key-04c6e04f38b780b6812ef0f4c796e3bf]: Commencement: S. 272(13)(14) in force at 6.4.2005 by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)
+[^c-04c6e04f38b780b6812ef0f4c796e3bf]: Commencement: S. 272(13)(14) in force at 6.4.2005 by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)
 
-[^key-89d6c149f8615734fcb212f349754a05]: Commencement: S. 272(5)-(14) in force at 15.3.2005 by [S.I. 2005/695](https://www.legislation.gov.uk/uksi/2005/695), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/695/article/2/2) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2005/695/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/695/schedule/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2005/695/schedule/3))
+[^c-89d6c149f8615734fcb212f349754a05]: Commencement: S. 272(5)-(14) in force at 15.3.2005 by [S.I. 2005/695](https://www.legislation.gov.uk/uksi/2005/695), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/695/article/2/2) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2005/695/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/695/schedule/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2005/695/schedule/3))
 
-[^key-61b9fd64e6d7f077286f94d5852f8d80]: Commencement: S. 272(1)-(4) in force for the purpose only of conferring power to make regulations, orders or rules, as the case may be, 10.2.2005; and for all other purposes at 6.4.2005 in so far as not already in force by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(3)](https://www.legislation.gov.uk/uksi/2005/275/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/3)
+[^c-61b9fd64e6d7f077286f94d5852f8d80]: Commencement: S. 272(1)-(4) in force for the purpose only of conferring power to make regulations, orders or rules, as the case may be, 10.2.2005; and for all other purposes at 6.4.2005 in so far as not already in force by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(3)](https://www.legislation.gov.uk/uksi/2005/275/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/3)

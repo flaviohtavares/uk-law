@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 82. Definition of proxy[^key-4bfef8966450388ed856c51a9ad5b86b]
+## 82. Definition of proxy[^c-4bfef8966450388ed856c51a9ad5b86b]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4bfef8966450388ed856c51a9ad5b86b]: Commencement: [Rule 82](https://www.legislation.gov.uk/uksi/2007/3141/rule/82) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-4bfef8966450388ed856c51a9ad5b86b]: Commencement: [Rule 82](https://www.legislation.gov.uk/uksi/2007/3141/rule/82) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

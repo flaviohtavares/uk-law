@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 104E. Forwarding of information[^key-7de7b28f6c44c0efd16a5bd919db7991]
+## 104E. Forwarding of information[^c-7de7b28f6c44c0efd16a5bd919db7991]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ Where the Department holds relevant information it—
 
 ## Annotations
 
-[^key-7de7b28f6c44c0efd16a5bd919db7991]: Textual amendment: [Pt. XIV](https://www.legislation.gov.uk/nisr/2006/405/part/XIV) SECTION 1 and Pt. XIV SECTION 2 heading inserted (10.12.2007) by [The Social Security (Claims and Information) Regulations (Northern Ireland) 2007 (S.R. 2007/467)](https://www.legislation.gov.uk/nisr/2007/467), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/467/regulation/1/1), [7(2)](https://www.legislation.gov.uk/nisr/2007/467/regulation/7/2)
+[^c-7de7b28f6c44c0efd16a5bd919db7991]: Textual amendment: [Pt. XIV](https://www.legislation.gov.uk/nisr/2006/405/part/XIV) SECTION 1 and Pt. XIV SECTION 2 heading inserted (10.12.2007) by [The Social Security (Claims and Information) Regulations (Northern Ireland) 2007 (S.R. 2007/467)](https://www.legislation.gov.uk/nisr/2007/467), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/467/regulation/1/1), [7(2)](https://www.legislation.gov.uk/nisr/2007/467/regulation/7/2)

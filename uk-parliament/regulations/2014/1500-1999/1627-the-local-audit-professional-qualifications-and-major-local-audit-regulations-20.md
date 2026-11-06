@@ -238,7 +238,7 @@ and requiring a standard of attainment at least equivalent to that required to o
   - (ii) statutory audit work within the meaning of Part 42 of the Companies Act 2006 [^c22146961], or
   - (iii) other audit work relating to any body whose accounts form part of the group for which the Treasury prepares accounts under section 9(1)(a) of the Government Resources and Accounts Act 2000 [^c22146971].
 
-(2)[^key-8f5c80147a3114b50d8df668ff317a9e] For the purposes of paragraph (1), “local audit work” includes equivalent work on the audit of the accounts of a public authority, and “statutory audit work” includes equivalent work on the audit of accounts, under the law of—
+(2)[^c-8f5c80147a3114b50d8df668ff317a9e] For the purposes of paragraph (1), “local audit work” includes equivalent work on the audit of the accounts of a public authority, and “statutory audit work” includes equivalent work on the audit of accounts, under the law of—
 
 - (a) in relation to work which took place prior to exit day, an EEA state or part of an EEA state, other than the United Kingdom or part of the United Kingdom;
 - (b) an equivalent third country or part of an equivalent third country; or
@@ -255,9 +255,9 @@ and requiring a standard of attainment at least equivalent to that required to o
 
 - (a) eligible for appointment as a local auditor;
 - (b) eligible for appointment as a statutory auditor within the meaning of Part 42 of the Companies Act 2006; or
-- (c) eligible for a corresponding appointment as an auditor under the law of an EEA State, or part of an EEA State [^key-259aa302a5e2f341cf02349e2004184f]....
+- (c) eligible for a corresponding appointment as an auditor under the law of an EEA State, or part of an EEA State [^c-259aa302a5e2f341cf02349e2004184f]....
 
-(5)[^key-d21aebbf2f8527cc751ca0478e423cfe] For the purposes of paragraph (4), Gibraltar is to be treated as if it were an EEA State.
+(5)[^c-d21aebbf2f8527cc751ca0478e423cfe] For the purposes of paragraph (4), Gibraltar is to be treated as if it were an EEA State.
 
 #### 10. Sufficient period of professional experience
 
@@ -288,9 +288,9 @@ but the period of professional experience may not be so reduced by more than fou
 
 ### 12. Definition of major local audit
 
-(1) In relation to a[^key-d21cfa2dc7e69adcb264dce2d41f8df4] financial year, for the purposes of paragraph 13(10) of Schedule 10 to the Companies Act 2006 (recognised supervisory bodies) as it has effect by virtue of Schedule 5 to the Act a local audit of the accounts of a relevant authority is a “major local audit” if the relevant authority falls within any[^key-2ab38647380800f18885aa1922075642] of the following descriptions—
+(1) In relation to a[^c-d21cfa2dc7e69adcb264dce2d41f8df4] financial year, for the purposes of paragraph 13(10) of Schedule 10 to the Companies Act 2006 (recognised supervisory bodies) as it has effect by virtue of Schedule 5 to the Act a local audit of the accounts of a relevant authority is a “major local audit” if the relevant authority falls within any[^c-2ab38647380800f18885aa1922075642] of the following descriptions—
 
-- (a)[^key-120d9cfa8996b07dea36150ad2faddea] for a financial year—
+- (a)[^c-120d9cfa8996b07dea36150ad2faddea] for a financial year—
   - (i) beginning on or before 1st April 2024, the higher of the relevant authority’s total income (from all sources) for that financial year and its total expenditure (from all sources) for that financial year exceeds £500 million;
   - (ii) beginning on or after 1st April 2025, the higher of the relevant authority’s total income (from all sources) for that financial year and its total expenditure (from all sources) for that financial year exceeds £875 million;
 - (b) the relevant authority is required to maintain a pension fund under regulations under section 1 of the Public Service Pensions Act 2013 [^c22146981] as they relate to local government workers (within the meaning of that Act), and either—
@@ -340,16 +340,16 @@ An impact assessment of the effect that the Local Audit and Accountability Act 2
 
 [^c22146971]: Marginal citation: [2000 c. 20](https://www.legislation.gov.uk/ukpga/2000/20).
 
-[^key-8f5c80147a3114b50d8df668ff317a9e]: Textual amendment: [Reg. 9(2)](https://www.legislation.gov.uk/uksi/2014/1627/regulation/9/2)[(2A)](https://www.legislation.gov.uk/uksi/2014/1627/regulation/9/2A) substituted for [reg. 9(2)](https://www.legislation.gov.uk/uksi/2014/1627/regulation/9/2) (31.12.2020) by [The Local Audit (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/504)](https://www.legislation.gov.uk/uksi/2019/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/504/regulation/1/2), [8(a)](https://www.legislation.gov.uk/uksi/2019/504/regulation/8/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8f5c80147a3114b50d8df668ff317a9e]: Textual amendment: [Reg. 9(2)](https://www.legislation.gov.uk/uksi/2014/1627/regulation/9/2)[(2A)](https://www.legislation.gov.uk/uksi/2014/1627/regulation/9/2A) substituted for [reg. 9(2)](https://www.legislation.gov.uk/uksi/2014/1627/regulation/9/2) (31.12.2020) by [The Local Audit (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/504)](https://www.legislation.gov.uk/uksi/2019/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/504/regulation/1/2), [8(a)](https://www.legislation.gov.uk/uksi/2019/504/regulation/8/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-259aa302a5e2f341cf02349e2004184f]: Textual amendment: Words in [reg. 9(4)(c)](https://www.legislation.gov.uk/uksi/2014/1627/regulation/9/4/c) omitted (31.12.2020) by virtue of [The Local Audit (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/504)](https://www.legislation.gov.uk/uksi/2019/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/504/regulation/1/2), [8(b)](https://www.legislation.gov.uk/uksi/2019/504/regulation/8/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-259aa302a5e2f341cf02349e2004184f]: Textual amendment: Words in [reg. 9(4)(c)](https://www.legislation.gov.uk/uksi/2014/1627/regulation/9/4/c) omitted (31.12.2020) by virtue of [The Local Audit (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/504)](https://www.legislation.gov.uk/uksi/2019/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/504/regulation/1/2), [8(b)](https://www.legislation.gov.uk/uksi/2019/504/regulation/8/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d21aebbf2f8527cc751ca0478e423cfe]: Textual amendment: [Reg. 9(5)](https://www.legislation.gov.uk/uksi/2014/1627/regulation/9/5) inserted (31.12.2020) by [The Local Audit (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/504)](https://www.legislation.gov.uk/uksi/2019/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/504/regulation/1/2), [8(c)](https://www.legislation.gov.uk/uksi/2019/504/regulation/8/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d21aebbf2f8527cc751ca0478e423cfe]: Textual amendment: [Reg. 9(5)](https://www.legislation.gov.uk/uksi/2014/1627/regulation/9/5) inserted (31.12.2020) by [The Local Audit (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/504)](https://www.legislation.gov.uk/uksi/2019/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/504/regulation/1/2), [8(c)](https://www.legislation.gov.uk/uksi/2019/504/regulation/8/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d21cfa2dc7e69adcb264dce2d41f8df4]: Textual amendment: Word in [reg. 12(1)](https://www.legislation.gov.uk/uksi/2014/1627/regulation/12/1) substituted (17.8.2025) by [The Local Audit (Major Local Audit) (Amendment) Regulations 2025 (S.I. 2025/896)](https://www.legislation.gov.uk/uksi/2025/896), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/896/regulation/1/1), [2(a)(i)](https://www.legislation.gov.uk/uksi/2025/896/regulation/2/a/i)
+[^c-d21cfa2dc7e69adcb264dce2d41f8df4]: Textual amendment: Word in [reg. 12(1)](https://www.legislation.gov.uk/uksi/2014/1627/regulation/12/1) substituted (17.8.2025) by [The Local Audit (Major Local Audit) (Amendment) Regulations 2025 (S.I. 2025/896)](https://www.legislation.gov.uk/uksi/2025/896), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/896/regulation/1/1), [2(a)(i)](https://www.legislation.gov.uk/uksi/2025/896/regulation/2/a/i)
 
-[^key-2ab38647380800f18885aa1922075642]: Textual amendment: Word in [reg. 12(1)](https://www.legislation.gov.uk/uksi/2014/1627/regulation/12/1) substituted (17.8.2025) by [The Local Audit (Major Local Audit) (Amendment) Regulations 2025 (S.I. 2025/896)](https://www.legislation.gov.uk/uksi/2025/896), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/896/regulation/1/1), [2(a)(ii)](https://www.legislation.gov.uk/uksi/2025/896/regulation/2/a/ii)
+[^c-2ab38647380800f18885aa1922075642]: Textual amendment: Word in [reg. 12(1)](https://www.legislation.gov.uk/uksi/2014/1627/regulation/12/1) substituted (17.8.2025) by [The Local Audit (Major Local Audit) (Amendment) Regulations 2025 (S.I. 2025/896)](https://www.legislation.gov.uk/uksi/2025/896), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/896/regulation/1/1), [2(a)(ii)](https://www.legislation.gov.uk/uksi/2025/896/regulation/2/a/ii)
 
-[^key-120d9cfa8996b07dea36150ad2faddea]: Textual amendment: [Reg. 12(1)(a)](https://www.legislation.gov.uk/uksi/2014/1627/regulation/12/1/a) substituted (17.8.2025) by [The Local Audit (Major Local Audit) (Amendment) Regulations 2025 (S.I. 2025/896)](https://www.legislation.gov.uk/uksi/2025/896), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/896/regulation/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2025/896/regulation/2/b)
+[^c-120d9cfa8996b07dea36150ad2faddea]: Textual amendment: [Reg. 12(1)(a)](https://www.legislation.gov.uk/uksi/2014/1627/regulation/12/1/a) substituted (17.8.2025) by [The Local Audit (Major Local Audit) (Amendment) Regulations 2025 (S.I. 2025/896)](https://www.legislation.gov.uk/uksi/2025/896), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/896/regulation/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2025/896/regulation/2/b)
 
 [^c22146981]: Marginal citation: [2013 c. 25](https://www.legislation.gov.uk/ukpga/2013/25). Regulations made under section 7 of the Superannuation Act 1972, by virtue of section 28 of the Public Services Pensions Act 2013 (“**the 2013 Act**”), are treated as if they were made under section 1 of the 2013 Act.

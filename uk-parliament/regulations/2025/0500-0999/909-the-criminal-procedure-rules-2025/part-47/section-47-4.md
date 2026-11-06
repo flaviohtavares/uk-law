@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47.4. When this Section applies[^key-dba9b5a5706b80c369e16df409b2b0a4]
+## 47.4. When this Section applies[^c-dba9b5a5706b80c369e16df409b2b0a4]
 
 *Extent: E+W*
 
@@ -113,7 +113,7 @@ This Section applies where—
 
 ## Annotations
 
-[^key-dba9b5a5706b80c369e16df409b2b0a4]: Commencement: Rule 47.4 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-dba9b5a5706b80c369e16df409b2b0a4]: Commencement: Rule 47.4 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01107]: Footnote: [1984 c. 60](https://www.legislation.gov.uk/ukpga/1984/60); paragraph 4 of Schedule 1 was amended by section 65 of, and paragraph 6 of Schedule 4 to, the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39).
 

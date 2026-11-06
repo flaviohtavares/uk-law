@@ -24,7 +24,7 @@ summary: ''
 
 - (i) may cause or require any parts of the settled land to be appropriated and laid out for streets, roads, paths, squares, gardens, or other open spaces, for the use, gratuituously or on payment, of the public or of individuals, with sewers, drains, watercourses, fencing, paving, or other works necessary or proper in connexion therewith; and
 - (ii) may provide that the parts so appropriated shall be conveyed to or vested in the trustees of the settlement, or other trustees, or any company or public body, on trusts or subject to provisions for securing the continued appropriation thereof to the purposes aforesaid, and the continued repair or maintenance of streets and other places and works aforesaid, with or without provision for appointment of new trustees when required; and
-- (iii) may execute any general or other deed necessary or proper for giving effect to the provisions of this section (which deed may be inrolled in the Central Office of the Senior Courts[^key-e95089450c3001d9121fdf1e3378cb92]), and thereby declare the mode, terms, and conditions of the appropriation, and the manner in which and the persons by whom the benefit thereof is to be enjoyed, and the nature and extent of the privileges and conveniences granted.
+- (iii) may execute any general or other deed necessary or proper for giving effect to the provisions of this section (which deed may be inrolled in the Central Office of the Senior Courts[^c-e95089450c3001d9121fdf1e3378cb92]), and thereby declare the mode, terms, and conditions of the appropriation, and the manner in which and the persons by whom the benefit thereof is to be enjoyed, and the nature and extent of the privileges and conveniences granted.
 
 (2) In regard to the dedication of land for the public purposes aforesaid, a tenant for life shall be in the same position as if he were an absolute owner.
 
@@ -40,7 +40,7 @@ and any agreement or consent so made or given shall be as valid and effectual, f
 
 ## Annotations
 
-[^key-e95089450c3001d9121fdf1e3378cb92]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 4](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/4); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+[^c-e95089450c3001d9121fdf1e3378cb92]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 4](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/4); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
 [^c6450611]: Textual amendment: Words substituted by virtue of [Highways Act 1980 (c. 66, SIF 59)](https://www.legislation.gov.uk/ukpga/1980/66), [s. 147](https://www.legislation.gov.uk/ukpga/1980/66/section/147), [Sch. 24 para. 2](https://www.legislation.gov.uk/ukpga/1980/66/schedule/24/paragraph/2)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 57. Matters relating to administration in revenue resource use by a relevant body[^key-b3dab90c176e88150dd58d16a035ab37]
+## 57. Matters relating to administration in revenue resource use by a relevant body[^c-b3dab90c176e88150dd58d16a035ab37]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b3dab90c176e88150dd58d16a035ab37]: Textual amendment: [Pt. 11](https://www.legislation.gov.uk/uksi/2012/2996/part/11) omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [209(10)](https://www.legislation.gov.uk/uksi/2022/634/regulation/209/10)
+[^c-b3dab90c176e88150dd58d16a035ab37]: Textual amendment: [Pt. 11](https://www.legislation.gov.uk/uksi/2012/2996/part/11) omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [209(10)](https://www.legislation.gov.uk/uksi/2022/634/regulation/209/10)

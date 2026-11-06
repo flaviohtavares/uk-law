@@ -192,7 +192,7 @@ Section 30(1)
 
 (3) In that Part, for the entries relating to sections 56(1) and (3) to (5) and 58(2) substitute— “ Section 58 (registration appeals: Northern Ireland). ”
 
-(4)[^key-8452f4f25fea9fc7119cbf7d8635c75c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-8452f4f25fea9fc7119cbf7d8635c75c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In that Part, for paragraph 16 substitute—
 
@@ -204,7 +204,7 @@ Section 30(1)
 
 #### Electoral Administration Act 2006 (c. 22)
 
-**8.**[^key-1267db59b6d248a834291247b1772acc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-1267db59b6d248a834291247b1772acc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part 2 — The Chief Electoral Officer
 
@@ -241,7 +241,7 @@ Section 30(1)
 
 (2) In paragraph 9 (criminal justice), omit sub-paragraph (f).
 
-(3)[^key-50457a033cdf9737937c7d4ca913ab92] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-50457a033cdf9737937c7d4ca913ab92] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Inquiries Act 2005 (c. 12)
 
@@ -259,8 +259,8 @@ Section 30(1)
 
 [^c2014736]: Commencement: Sch. 4 para. 7 fully in force; Sch. 4 para. 7 not in force at Royal Assent see s. 31; Sch. 4 para. 7(1)(2)(a) in force at 1.12.2006 by [S.I. 2006/2688](https://www.legislation.gov.uk/uksi/2006/2688), [art. 3](https://www.legislation.gov.uk/uksi/2006/2688/article/3); Sch. 4 para. 7(2)(b)-(5) in force at 14.5.2008 by [S.I. 2008/1318](https://www.legislation.gov.uk/uksi/2008/1318), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/1318/article/2/b)
 
-[^key-8452f4f25fea9fc7119cbf7d8635c75c]: Textual amendment: [Sch. 4 para. 7(4)](https://www.legislation.gov.uk/ukpga/2006/33/schedule/4/paragraph/7/4) omitted (1.10.2014) by virtue of [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 16(2)(b)](https://www.legislation.gov.uk/ukpga/2014/13/section/16/2/b), [28](https://www.legislation.gov.uk/ukpga/2014/13/section/28); [S.I. 2014/2613](https://www.legislation.gov.uk/uksi/2014/2613), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2014/2613/article/2/2/c)
+[^c-8452f4f25fea9fc7119cbf7d8635c75c]: Textual amendment: [Sch. 4 para. 7(4)](https://www.legislation.gov.uk/ukpga/2006/33/schedule/4/paragraph/7/4) omitted (1.10.2014) by virtue of [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 16(2)(b)](https://www.legislation.gov.uk/ukpga/2014/13/section/16/2/b), [28](https://www.legislation.gov.uk/ukpga/2014/13/section/28); [S.I. 2014/2613](https://www.legislation.gov.uk/uksi/2014/2613), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2014/2613/article/2/2/c)
 
-[^key-1267db59b6d248a834291247b1772acc]: Textual amendment: [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/2006/33/schedule/4/paragraph/8) repealed (2.4.2013) by [Electoral Registration and Administration Act 2013 (c. 6)](https://www.legislation.gov.uk/ukpga/2013/6), [ss. 23(2)](https://www.legislation.gov.uk/ukpga/2013/6/section/23/2), [27(1)](https://www.legislation.gov.uk/ukpga/2013/6/section/27/1); [S.I. 2013/702](https://www.legislation.gov.uk/uksi/2013/702), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/702/article/3/e)
+[^c-1267db59b6d248a834291247b1772acc]: Textual amendment: [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/2006/33/schedule/4/paragraph/8) repealed (2.4.2013) by [Electoral Registration and Administration Act 2013 (c. 6)](https://www.legislation.gov.uk/ukpga/2013/6), [ss. 23(2)](https://www.legislation.gov.uk/ukpga/2013/6/section/23/2), [27(1)](https://www.legislation.gov.uk/ukpga/2013/6/section/27/1); [S.I. 2013/702](https://www.legislation.gov.uk/uksi/2013/702), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/702/article/3/e)
 
-[^key-50457a033cdf9737937c7d4ca913ab92]: Textual amendment: [Sch. 4 para. 13(3)](https://www.legislation.gov.uk/ukpga/2006/33/schedule/4/paragraph/13/3) omitted (12.4.2010) by virtue of [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [27(4)](https://www.legislation.gov.uk/uksi/2010/976/article/27/4) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-50457a033cdf9737937c7d4ca913ab92]: Textual amendment: [Sch. 4 para. 13(3)](https://www.legislation.gov.uk/ukpga/2006/33/schedule/4/paragraph/13/3) omitted (12.4.2010) by virtue of [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [27(4)](https://www.legislation.gov.uk/uksi/2010/976/article/27/4) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))

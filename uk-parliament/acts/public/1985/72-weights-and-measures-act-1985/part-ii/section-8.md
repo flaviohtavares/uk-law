@@ -46,7 +46,7 @@ summary: ''
 - (a) subsection (5A) below, and
 - (b) sections 9 and 89 below.
 
-(5A) Nothing in this section precludes the use for trade [^key-c31d83399575910bec3bbdae9b04a7c7]... of any supplementary indication; and for this purpose any indication of quantity (“the imperial indication”) is a supplementary indication if—
+(5A) Nothing in this section precludes the use for trade [^c-c31d83399575910bec3bbdae9b04a7c7]... of any supplementary indication; and for this purpose any indication of quantity (“the imperial indication”) is a supplementary indication if—
 
 - (a) it is expressed in a unit of measurement other than a metric unit,
 - (b) it accompanies an indication of quantity expressed in a metric unit (“the metric indication”) and is not itself authorised for use in the circumstances as a primary indication of quantity, and
@@ -77,4 +77,4 @@ summary: ''
 
 [^c13369371]: Textual amendment: S. 8(5)(5A) substituted (7.11.1994) for s. 8(5) by [S.I. 1994/2867](https://www.legislation.gov.uk/uksi/1994/2867), [regs. 1](https://www.legislation.gov.uk/uksi/1994/2867/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/1994/2867/regulation/5/2)
 
-[^key-c31d83399575910bec3bbdae9b04a7c7]: Textual amendment: Words in s. 8(5A) omitted (1.1.2010) by virtue of [The Units of Measurement Regulations 2009 (S.I. 2009/3046)](https://www.legislation.gov.uk/uksi/2009/3046), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2009/3046/regulation/3/1)
+[^c-c31d83399575910bec3bbdae9b04a7c7]: Textual amendment: Words in s. 8(5A) omitted (1.1.2010) by virtue of [The Units of Measurement Regulations 2009 (S.I. 2009/3046)](https://www.legislation.gov.uk/uksi/2009/3046), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2009/3046/regulation/3/1)

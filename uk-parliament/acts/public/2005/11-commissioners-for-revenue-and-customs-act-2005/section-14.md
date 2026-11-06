@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Delegation[^key-6cf6230e86717d6660290bd9f732f19b]
+## 14. Delegation[^c-6cf6230e86717d6660290bd9f732f19b]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,8 +29,8 @@ summary: ''
 (2) The non-delegable functions mentioned in subsection (1) are—
 
 - (a) making, by statutory instrument, regulations, rules or an order,
-- (b)[^key-b31f98454a46f6bc7dff8c46f062f1e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-b31f98454a46f6bc7dff8c46f062f1e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-b31f98454a46f6bc7dff8c46f062f1e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-b31f98454a46f6bc7dff8c46f062f1e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The Commissioners may not delegate the function under section 20(1)(a) except to a single Commissioner.
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6cf6230e86717d6660290bd9f732f19b]: Commencement: S. 14 in force at 7.4.2005 by [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/1)
+[^c-6cf6230e86717d6660290bd9f732f19b]: Commencement: S. 14 in force at 7.4.2005 by [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/1)
 
-[^key-b31f98454a46f6bc7dff8c46f062f1e0]: Textual amendment: S. 14(2)(b)(c) repealed (1.12.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 84(5)](https://www.legislation.gov.uk/ukpga/2007/11/section/84/5)[(5)](https://www.legislation.gov.uk/ukpga/2007/11/section/84/5), [Sch. 22 para. 17(b)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/22/paragraph/17/b), [27 Pt. 5(1)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/5/1); [S.I. 2007/3166](https://www.legislation.gov.uk/uksi/2007/3166), [art. 3(a)](https://www.legislation.gov.uk/uksi/2007/3166/article/3/a)
+[^c-b31f98454a46f6bc7dff8c46f062f1e0]: Textual amendment: S. 14(2)(b)(c) repealed (1.12.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 84(5)](https://www.legislation.gov.uk/ukpga/2007/11/section/84/5)[(5)](https://www.legislation.gov.uk/ukpga/2007/11/section/84/5), [Sch. 22 para. 17(b)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/22/paragraph/17/b), [27 Pt. 5(1)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/5/1); [S.I. 2007/3166](https://www.legislation.gov.uk/uksi/2007/3166), [art. 3(a)](https://www.legislation.gov.uk/uksi/2007/3166/article/3/a)

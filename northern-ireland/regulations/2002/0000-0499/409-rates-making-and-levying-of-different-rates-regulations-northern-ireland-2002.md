@@ -31,7 +31,7 @@ summary: ''
 
 RATES
 
-Rates (Making and Levying of Different Rates) Regulations (Northern Ireland) 2002 (revoked)[^key-79d30f4378ac1a959120450fc34426de]
+Rates (Making and Levying of Different Rates) Regulations (Northern Ireland) 2002 (revoked)[^c-79d30f4378ac1a959120450fc34426de]
 
 Made
 
@@ -41,28 +41,28 @@ Coming into operation
 
 28th January 2003
 
-[^key-79d30f4378ac1a959120450fc34426de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-79d30f4378ac1a959120450fc34426de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-79d30f4378ac1a959120450fc34426de]
+## 1. Citation, commencement and interpretation[^c-79d30f4378ac1a959120450fc34426de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Making and levying of different rates[^key-79d30f4378ac1a959120450fc34426de]
+## 2. Making and levying of different rates[^c-79d30f4378ac1a959120450fc34426de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-79d30f4378ac1a959120450fc34426de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-79d30f4378ac1a959120450fc34426de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocation and saving[^key-79d30f4378ac1a959120450fc34426de]
+## 4. Revocation and saving[^c-79d30f4378ac1a959120450fc34426de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-79d30f4378ac1a959120450fc34426de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-79d30f4378ac1a959120450fc34426de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-79d30f4378ac1a959120450fc34426de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-79d30f4378ac1a959120450fc34426de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-79d30f4378ac1a959120450fc34426de]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2002/409) revoked (28.12.2006) by [The Rates (Making and Levying of Different Rates) Regulations (Northern Ireland) 2006 (revoked) 2006 (S.R. 2006/498)](https://www.legislation.gov.uk/nisr/2006/498), [regs. 1](https://www.legislation.gov.uk/nisr/2006/498/regulation/1), [4(1)](https://www.legislation.gov.uk/nisr/2006/498/regulation/4/1) (with [reg. 4(2)](https://www.legislation.gov.uk/nisr/2006/498/regulation/4/2)[(3)](https://www.legislation.gov.uk/nisr/2006/498/regulation/4/3))
+[^c-79d30f4378ac1a959120450fc34426de]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2002/409) revoked (28.12.2006) by [The Rates (Making and Levying of Different Rates) Regulations (Northern Ireland) 2006 (revoked) 2006 (S.R. 2006/498)](https://www.legislation.gov.uk/nisr/2006/498), [regs. 1](https://www.legislation.gov.uk/nisr/2006/498/regulation/1), [4(1)](https://www.legislation.gov.uk/nisr/2006/498/regulation/4/1) (with [reg. 4(2)](https://www.legislation.gov.uk/nisr/2006/498/regulation/4/2)[(3)](https://www.legislation.gov.uk/nisr/2006/498/regulation/4/3))

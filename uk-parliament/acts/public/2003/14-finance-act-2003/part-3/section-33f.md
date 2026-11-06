@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33F. Bringing of appeals[^key-a59d45db876ca5682f6d477df2aff6d9][^key-93f3224c016525ec0eb3a96664a4fe35]
+## 33F. Bringing of appeals[^c-a59d45db876ca5682f6d477df2aff6d9][^c-93f3224c016525ec0eb3a96664a4fe35]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,12 +27,12 @@ summary: ''
 
 (2) But that is subject to subsections (3) to (5).
 
-(3) In a case where HMRC are required to undertake a review under section 33B[^key-30274d4a0d03f7ca6a46fa74c75ceac6] —
+(3) In a case where HMRC are required to undertake a review under section 33B[^c-30274d4a0d03f7ca6a46fa74c75ceac6] —
 
 - (a) an appeal may not be made until the conclusion date, and
 - (b) any appeal is to be made within the period of 30 days beginning with the conclusion date.
 
-(4)[^key-0a2e2a13c13115dcd9567425ff935cf5] In a case where HMRC are requested to undertake a review in accordance with section 33D—
+(4)[^c-0a2e2a13c13115dcd9567425ff935cf5] In a case where HMRC are requested to undertake a review in accordance with section 33D—
 
 - (a) an appeal may not be made to an appeal tribunal—
   - (i) unless HMRC have notified P as to whether or not a review will be undertaken, and
@@ -48,10 +48,10 @@ summary: ''
 
 ## Annotations
 
-[^key-a59d45db876ca5682f6d477df2aff6d9]: Modification: Ss. 29-41 applied (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 102(2)](https://www.legislation.gov.uk/ukpga/2014/26/section/102/2)
+[^c-a59d45db876ca5682f6d477df2aff6d9]: Modification: Ss. 29-41 applied (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 102(2)](https://www.legislation.gov.uk/ukpga/2014/26/section/102/2)
 
-[^key-93f3224c016525ec0eb3a96664a4fe35]: Textual amendment: Ss. 33A-33F inserted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 364](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/364) (with [Sch. 3 paras. 2-4](https://www.legislation.gov.uk/uksi/2009/56/schedule/3/paragraph/2))
+[^c-93f3224c016525ec0eb3a96664a4fe35]: Textual amendment: Ss. 33A-33F inserted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 364](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/364) (with [Sch. 3 paras. 2-4](https://www.legislation.gov.uk/uksi/2009/56/schedule/3/paragraph/2))
 
-[^key-30274d4a0d03f7ca6a46fa74c75ceac6]: Textual amendment: Words in s. 33F(3) substituted (1.6.2014) by [The Revenue and Customs (Amendment of Appeal Provisions for Out of Time Reviews) Order 2014 (S.I. 2014/1264)](https://www.legislation.gov.uk/uksi/2014/1264), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1264/article/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2014/1264/article/8/2)
+[^c-30274d4a0d03f7ca6a46fa74c75ceac6]: Textual amendment: Words in s. 33F(3) substituted (1.6.2014) by [The Revenue and Customs (Amendment of Appeal Provisions for Out of Time Reviews) Order 2014 (S.I. 2014/1264)](https://www.legislation.gov.uk/uksi/2014/1264), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1264/article/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2014/1264/article/8/2)
 
-[^key-0a2e2a13c13115dcd9567425ff935cf5]: Textual amendment: S. 33F(4) substituted (1.6.2014) by [The Revenue and Customs (Amendment of Appeal Provisions for Out of Time Reviews) Order 2014 (S.I. 2014/1264)](https://www.legislation.gov.uk/uksi/2014/1264), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1264/article/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2014/1264/article/8/3) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1264/article/1/3))
+[^c-0a2e2a13c13115dcd9567425ff935cf5]: Textual amendment: S. 33F(4) substituted (1.6.2014) by [The Revenue and Customs (Amendment of Appeal Provisions for Out of Time Reviews) Order 2014 (S.I. 2014/1264)](https://www.legislation.gov.uk/uksi/2014/1264), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1264/article/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2014/1264/article/8/3) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1264/article/1/3))

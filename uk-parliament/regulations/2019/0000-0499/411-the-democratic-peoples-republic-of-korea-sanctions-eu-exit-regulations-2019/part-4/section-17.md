@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Making economic resources available for benefit of designated person[^key-483ea85e74db69cedf057d76b947ed76][^key-8f2abbe663895578dec95c7f31216637]
+## 17. Making economic resources available for benefit of designated person[^c-483ea85e74db69cedf057d76b947ed76][^c-8f2abbe663895578dec95c7f31216637]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 
 (3) A person who contravenes the prohibition in paragraph (1) commits an offence.
 
-(3A)[^key-bb56cdf36fa301280f24b3249ecf6c3c] The reference in paragraph (1) to making economic resources available to any person for the benefit of a designated person includes making economic resources available for the benefit of a person who is owned or controlled directly or indirectly (within the meaning of regulation 7) by the designated person (and references to designated person in paragraph (4) are to be read accordingly).
+(3A)[^c-bb56cdf36fa301280f24b3249ecf6c3c] The reference in paragraph (1) to making economic resources available to any person for the benefit of a designated person includes making economic resources available for the benefit of a person who is owned or controlled directly or indirectly (within the meaning of regulation 7) by the designated person (and references to designated person in paragraph (4) are to be read accordingly).
 
 (4) For the purposes of paragraph (1)—
 
@@ -35,8 +35,8 @@ summary: ''
 
 ## Annotations
 
-[^key-483ea85e74db69cedf057d76b947ed76]: Commencement: Reg. 17 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
+[^c-483ea85e74db69cedf057d76b947ed76]: Commencement: Reg. 17 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
 
-[^key-8f2abbe663895578dec95c7f31216637]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2019/411/regulation/17) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8f2abbe663895578dec95c7f31216637]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2019/411/regulation/17) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-bb56cdf36fa301280f24b3249ecf6c3c]: Textual amendment: [Reg. 17(3A)](https://www.legislation.gov.uk/uksi/2019/411/regulation/17/3A) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/3/3)
+[^c-bb56cdf36fa301280f24b3249ecf6c3c]: Textual amendment: [Reg. 17(3A)](https://www.legislation.gov.uk/uksi/2019/411/regulation/17/3A) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/3/3)

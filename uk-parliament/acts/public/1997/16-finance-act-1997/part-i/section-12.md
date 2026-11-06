@@ -37,19 +37,19 @@ summary: ''
 - (a) for apportioning the liability for any gaming duty charged on any premises for an accounting period between different persons; and
 - (b) for the amount of gaming duty charged on any premises for the different parts of a period for which an apportionment falls to be made to be computed (in accordance with regulations made by virtue of section 11(5)(b) above) as if each part of the period were the only part of the period during which dutiable gaming has taken place on those premises.
 
-(4)[^key-c0953260ae81b480166e6cc86ba23b7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-c0953260ae81b480166e6cc86ba23b7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Any failure by any person to pay any amount of gaming duty due from him—
 
 - (a) shall attract a penalty under section 9 of the [^c14706811]Finance Act 1994 (civil penalties) which shall be calculated by reference to the amount that has not been paid; and
 - (b) shall also attract daily penalties.
 
-(6)[^key-6f7541688e6ef40caa87fcbab84bdaef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-6f7541688e6ef40caa87fcbab84bdaef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c0953260ae81b480166e6cc86ba23b7e]: Textual amendment: [S. 12(4)](https://www.legislation.gov.uk/ukpga/1997/16/section/12/4) omitted (1.10.2019) by virtue of [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 19 paras. 5](https://www.legislation.gov.uk/ukpga/2019/1/schedule/19/paragraph/5), [7](https://www.legislation.gov.uk/ukpga/2019/1/schedule/19/paragraph/7)
+[^c-c0953260ae81b480166e6cc86ba23b7e]: Textual amendment: [S. 12(4)](https://www.legislation.gov.uk/ukpga/1997/16/section/12/4) omitted (1.10.2019) by virtue of [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 19 paras. 5](https://www.legislation.gov.uk/ukpga/2019/1/schedule/19/paragraph/5), [7](https://www.legislation.gov.uk/ukpga/2019/1/schedule/19/paragraph/7)
 
 [^c14706811]: Marginal citation: [1994 c. 9](https://www.legislation.gov.uk/ukpga/1994/9).
 
-[^key-6f7541688e6ef40caa87fcbab84bdaef]: Textual amendment: [S. 12(6)](https://www.legislation.gov.uk/ukpga/1997/16/section/12/6) omitted (1.10.2019) by virtue of [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 19 paras. 5](https://www.legislation.gov.uk/ukpga/2019/1/schedule/19/paragraph/5), [7](https://www.legislation.gov.uk/ukpga/2019/1/schedule/19/paragraph/7)
+[^c-6f7541688e6ef40caa87fcbab84bdaef]: Textual amendment: [S. 12(6)](https://www.legislation.gov.uk/ukpga/1997/16/section/12/6) omitted (1.10.2019) by virtue of [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 19 paras. 5](https://www.legislation.gov.uk/ukpga/2019/1/schedule/19/paragraph/5), [7](https://www.legislation.gov.uk/ukpga/2019/1/schedule/19/paragraph/7)

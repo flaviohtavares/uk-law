@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 248A. Requirement for knowledge and understanding: pension boards of public service pension schemes[^key-19dc308a0c7058a9da2473b0a1df8573]
+## 248A. Requirement for knowledge and understanding: pension boards of public service pension schemes[^c-19dc308a0c7058a9da2473b0a1df8573]
 
 *Extent: E+W+S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-19dc308a0c7058a9da2473b0a1df8573]: Textual amendment: [S. 248A](https://www.legislation.gov.uk/ukpga/2004/35/section/248A) inserted (1.4.2015) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(2)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/2), [Sch. 4 para. 19](https://www.legislation.gov.uk/ukpga/2013/25/schedule/4/paragraph/19) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8)); [S.I. 2015/4](https://www.legislation.gov.uk/uksi/2015/4), [art. 4(1)(b)](https://www.legislation.gov.uk/uksi/2015/4/article/4/1/b)
+[^c-19dc308a0c7058a9da2473b0a1df8573]: Textual amendment: [S. 248A](https://www.legislation.gov.uk/ukpga/2004/35/section/248A) inserted (1.4.2015) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(2)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/2), [Sch. 4 para. 19](https://www.legislation.gov.uk/ukpga/2013/25/schedule/4/paragraph/19) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8)); [S.I. 2015/4](https://www.legislation.gov.uk/uksi/2015/4), [art. 4(1)(b)](https://www.legislation.gov.uk/uksi/2015/4/article/4/1/b)

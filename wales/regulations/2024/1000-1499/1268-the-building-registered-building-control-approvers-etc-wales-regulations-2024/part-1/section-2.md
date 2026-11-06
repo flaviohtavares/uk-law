@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Interpretation[^key-a660d349ec12163a4108777facebc3cc]
+## 2. Interpretation[^c-a660d349ec12163a4108777facebc3cc]
 
 *Extent: E+W*
 
@@ -55,7 +55,7 @@ summary: ''
 
 ## Annotations
 
-[^key-a660d349ec12163a4108777facebc3cc]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2024/1268/regulation/2) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)
+[^c-a660d349ec12163a4108777facebc3cc]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2024/1268/regulation/2) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)
 
 [^f00036]: Footnote: [S.I. 2010/2214](https://www.legislation.gov.uk/uksi/2010/2214), as amended by [S.I. 2012/3119](https://www.legislation.gov.uk/uksi/2012/3119), [2013/1959](https://www.legislation.gov.uk/uksi/2013/1959), [2014/110 (W. 10)](https://www.legislation.gov.uk/wsi/2014/110), [2015/767](https://www.legislation.gov.uk/uksi/2015/767), [2016/285](https://www.legislation.gov.uk/uksi/2016/285), and [2018/1230](https://www.legislation.gov.uk/uksi/2018/1230). There are other amending instruments, but none is relevant to this instrument.
 

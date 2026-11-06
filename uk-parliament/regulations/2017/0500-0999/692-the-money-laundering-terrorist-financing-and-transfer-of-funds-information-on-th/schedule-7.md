@@ -393,7 +393,7 @@ In paragraph 7(b) of Schedule 2 (disclosure to a credit reference agency) of the
 - (a) for “the Money Laundering Regulations 2007” substitute “ the Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 ”;
 - (b) for “Directive [2005/60/EC](https://www.legislation.gov.uk/eudr/2005/60) of the European Parliament and of the Council of 26 October 2005 on the prevention of the use of the financial system for the purpose of money laundering and terrorist financing” substitute “ Directive 2015/849/EU of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purpose of money laundering or terrorist financing ”.
 
-#### 27. Defence and Security Public Contracts Regulations 2011[^key-8cd6cf299b625fa932d916f50ceef1d9]
+#### 27. Defence and Security Public Contracts Regulations 2011[^c-8cd6cf299b625fa932d916f50ceef1d9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -596,7 +596,7 @@ In Part 1 of the Schedule to the Economic Growth (Regulatory Functions) Order 20
 
 [^c23050041]: Marginal citation: [S.I. 2009/1801](https://www.legislation.gov.uk/uksi/2009/1801). Paragraph 7(b) was amended by [S.I. 2013/472](https://www.legislation.gov.uk/uksi/2013/472).
 
-[^key-8cd6cf299b625fa932d916f50ceef1d9]: Textual amendment: [Sch. 7 para. 27](https://www.legislation.gov.uk/uksi/2017/692/schedule/7/paragraph/27) revoked (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2025/163/schedule/part/2)
+[^c-8cd6cf299b625fa932d916f50ceef1d9]: Textual amendment: [Sch. 7 para. 27](https://www.legislation.gov.uk/uksi/2017/692/schedule/7/paragraph/27) revoked (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2025/163/schedule/part/2)
 
 [^c23050061]: Marginal citation: [S.I. 2011/99](https://www.legislation.gov.uk/uksi/2011/99).
 

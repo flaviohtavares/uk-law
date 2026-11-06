@@ -22,7 +22,7 @@ summary: ''
 
 Article 48
 
-### 1. Primary objective[^key-7b54694e2e5f17c5485e8796a66dfbdb]
+### 1. Primary objective[^c-7b54694e2e5f17c5485e8796a66dfbdb]
 
 (1) The primary objective of these arbitration rules is to achieve a fair, impartial, final and binding award on the substantive difference between the parties (save as to costs) within 4 months from the date the arbitrator is appointed pursuant to article 48 (arbitration) of this Order.
 
@@ -30,7 +30,7 @@ Article 48
 
 (3) The arbitration will be deemed to have commenced when a party (“**the claimant**”) serves a written notice of arbitration on the other party (“**the respondent**”).
 
-### 2. Time periods[^key-61b793e7efed5b08b036a386eb00812d]
+### 2. Time periods[^c-61b793e7efed5b08b036a386eb00812d]
 
 (1) All time periods in these arbitration rules will be measured in business days and this will exclude weekends, bank and public holidays.
 
@@ -39,7 +39,7 @@ Article 48
 - (a) the date the arbitrator notifies the parties in writing of his/her acceptance of an appointment by agreement of the parties; or
 - (b) the date the arbitrator is appointed by the Secretary of State.
 
-### 3. Timetable[^key-453383c4a0cbced7e883e1795f743f0c]
+### 3. Timetable[^c-453383c4a0cbced7e883e1795f743f0c]
 
 (1) The timetable for the arbitration will be that set out in sub-paragraphs (2) to (4) below unless amended in accordance with paragraph 5(3).
 
@@ -62,7 +62,7 @@ Article 48
 - (d) any objections to the statements of evidence, expert reports or other documents submitted by the respondent; and
 - (e) its written submissions in response to the legal and factual issues involved.
 
-### 4. Procedure[^key-d9584672ed26b7b95a8776a56dec7a14]
+### 4. Procedure[^c-d9584672ed26b7b95a8776a56dec7a14]
 
 (1) The arbitrator will make an award on the substantive difference based solely on the written material submitted by the parties unless the arbitrator decides that a hearing is necessary to explain or resolve any matters.
 
@@ -88,7 +88,7 @@ Article 48
 
 (10) The arbitrator’s award must include reasons. The parties will accept that the extent to which reasons are given is to be proportionate to the issues in dispute and the time available to the arbitrator to deliver the award.
 
-### 5. Arbitrator’s powers[^key-326de6f812a37adeda505c9058d07d7a]
+### 5. Arbitrator’s powers[^c-326de6f812a37adeda505c9058d07d7a]
 
 (1) The arbitrator has all the powers of the Arbitration Act 1996, including the non-mandatory sections, save where modified by this Schedule.
 
@@ -101,7 +101,7 @@ Article 48
 
 (4) On the date the award is made, the arbitrator will notify the parties that the award is completed, signed and dated, and that it will be issued to the parties on receipt of cleared funds for the arbitrator’s fees and expenses.
 
-### 6. Costs[^key-6c9b53949690c8b0ba96bbcee0b1b232]
+### 6. Costs[^c-6c9b53949690c8b0ba96bbcee0b1b232]
 
 (1) The costs of the arbitration will include the fees and expenses of the arbitrator, the reasonable fees and expenses of any experts and the reasonable legal and other costs incurred by the parties for the arbitration.
 
@@ -109,7 +109,7 @@ Article 48
 
 (3) The arbitrator may depart from the general principle in sub-paragraph (2) and make such other costs award as it considers reasonable where a party has behaved unreasonably as defined within the National Planning Practice Guidance or such other guidance as may replace it.
 
-### 7. Confidentiality[^key-3bdd4599a5308aaeec7cd0770aa3d899]
+### 7. Confidentiality[^c-3bdd4599a5308aaeec7cd0770aa3d899]
 
 (1) Subject to sub-paragraphs (2) and (3), any arbitration hearing and documentation will be open to and accessible by the public.
 
@@ -119,16 +119,16 @@ Article 48
 
 ## Annotations
 
-[^key-7b54694e2e5f17c5485e8796a66dfbdb]: Commencement: Sch. 10 para. 1 in force at 1.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/509/article/1/2)
+[^c-7b54694e2e5f17c5485e8796a66dfbdb]: Commencement: Sch. 10 para. 1 in force at 1.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/509/article/1/2)
 
-[^key-61b793e7efed5b08b036a386eb00812d]: Commencement: Sch. 10 para. 2 in force at 1.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/509/article/1/2)
+[^c-61b793e7efed5b08b036a386eb00812d]: Commencement: Sch. 10 para. 2 in force at 1.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/509/article/1/2)
 
-[^key-453383c4a0cbced7e883e1795f743f0c]: Commencement: Sch. 10 para. 3 in force at 1.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/509/article/1/2)
+[^c-453383c4a0cbced7e883e1795f743f0c]: Commencement: Sch. 10 para. 3 in force at 1.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/509/article/1/2)
 
-[^key-d9584672ed26b7b95a8776a56dec7a14]: Commencement: Sch. 10 para. 4 in force at 1.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/509/article/1/2)
+[^c-d9584672ed26b7b95a8776a56dec7a14]: Commencement: Sch. 10 para. 4 in force at 1.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/509/article/1/2)
 
-[^key-326de6f812a37adeda505c9058d07d7a]: Commencement: Sch. 10 para. 5 in force at 1.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/509/article/1/2)
+[^c-326de6f812a37adeda505c9058d07d7a]: Commencement: Sch. 10 para. 5 in force at 1.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/509/article/1/2)
 
-[^key-6c9b53949690c8b0ba96bbcee0b1b232]: Commencement: Sch. 10 para. 6 in force at 1.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/509/article/1/2)
+[^c-6c9b53949690c8b0ba96bbcee0b1b232]: Commencement: Sch. 10 para. 6 in force at 1.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/509/article/1/2)
 
-[^key-3bdd4599a5308aaeec7cd0770aa3d899]: Commencement: Sch. 10 para. 7 in force at 1.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/509/article/1/2)
+[^c-3bdd4599a5308aaeec7cd0770aa3d899]: Commencement: Sch. 10 para. 7 in force at 1.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/509/article/1/2)

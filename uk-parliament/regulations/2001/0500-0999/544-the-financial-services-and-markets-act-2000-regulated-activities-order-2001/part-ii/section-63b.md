@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63B. Entering into and administering regulated home reversion plans[^key-1fcfd710c51963e005973d70ac0f1ddc]
+## 63B. Entering into and administering regulated home reversion plans[^c-1fcfd710c51963e005973d70ac0f1ddc]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,9 +57,9 @@ summary: ''
 
 (6) For the purposes of the definition of “qualifying termination event” in paragraph (4), “care home”—
 
-- (a) in relation to England [^key-a92363d8df9cd701f237cb206ba2d42d]..., has the meaning given by section 3 of the Care Standards Act 2000;
-- (aa)[^key-5ef430048006ecf0dc404b97b9abf7eb] in relation to Wales, means a place at which a care home service, within the meaning of Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016, is provided wholly or mainly to persons aged 18 or over;
-- (b) in relation to Scotland, means accommodation provided by a “care home service” within the meaning of paragraph 2 of schedule 12 to the Public Services Reform (Scotland) Act 2010[^key-e7b98eef7e0260ea06cf34c50bc328d0];
+- (a) in relation to England [^c-a92363d8df9cd701f237cb206ba2d42d]..., has the meaning given by section 3 of the Care Standards Act 2000;
+- (aa)[^c-5ef430048006ecf0dc404b97b9abf7eb] in relation to Wales, means a place at which a care home service, within the meaning of Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016, is provided wholly or mainly to persons aged 18 or over;
+- (b) in relation to Scotland, means accommodation provided by a “care home service” within the meaning of paragraph 2 of schedule 12 to the Public Services Reform (Scotland) Act 2010[^c-e7b98eef7e0260ea06cf34c50bc328d0];
 - (c) in relation to Northern Ireland, means—
   - (i) a residential care home within the meaning of article 10 of the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003; or
   - (ii) a nursing home within the meaning of article 11 of that Order.
@@ -73,10 +73,10 @@ summary: ''
 
 ## Annotations
 
-[^key-1fcfd710c51963e005973d70ac0f1ddc]: Textual amendment: Pt. 2 Chs. 15A, 15B inserted (6.11.2006 for specified purposes, 6.4.2007 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2006 (S.I. 2006/2383)](https://www.legislation.gov.uk/uksi/2006/2383), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2), [18](https://www.legislation.gov.uk/uksi/2006/2383/article/18)
+[^c-1fcfd710c51963e005973d70ac0f1ddc]: Textual amendment: Pt. 2 Chs. 15A, 15B inserted (6.11.2006 for specified purposes, 6.4.2007 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2006 (S.I. 2006/2383)](https://www.legislation.gov.uk/uksi/2006/2383), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2), [18](https://www.legislation.gov.uk/uksi/2006/2383/article/18)
 
-[^key-a92363d8df9cd701f237cb206ba2d42d]: Textual amendment: Words in [art. 63B(6)(a)](https://www.legislation.gov.uk/uksi/2001/544/article/63B/6/a) omitted (2.4.2018) by virtue of [The Alternative Investment Fund Managers (Amendment) Regulations 2018 (S.I. 2018/134)](https://www.legislation.gov.uk/uksi/2018/134), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/134/regulation/1/3), [4(a)](https://www.legislation.gov.uk/uksi/2018/134/regulation/4/a)
+[^c-a92363d8df9cd701f237cb206ba2d42d]: Textual amendment: Words in [art. 63B(6)(a)](https://www.legislation.gov.uk/uksi/2001/544/article/63B/6/a) omitted (2.4.2018) by virtue of [The Alternative Investment Fund Managers (Amendment) Regulations 2018 (S.I. 2018/134)](https://www.legislation.gov.uk/uksi/2018/134), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/134/regulation/1/3), [4(a)](https://www.legislation.gov.uk/uksi/2018/134/regulation/4/a)
 
-[^key-5ef430048006ecf0dc404b97b9abf7eb]: Textual amendment: [Art. 63B(6)(aa)](https://www.legislation.gov.uk/uksi/2001/544/article/63B/6/aa) inserted (2.4.2018) by [The Alternative Investment Fund Managers (Amendment) Regulations 2018 (S.I. 2018/134)](https://www.legislation.gov.uk/uksi/2018/134), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/134/regulation/1/3), [4(b)](https://www.legislation.gov.uk/uksi/2018/134/regulation/4/b)
+[^c-5ef430048006ecf0dc404b97b9abf7eb]: Textual amendment: [Art. 63B(6)(aa)](https://www.legislation.gov.uk/uksi/2001/544/article/63B/6/aa) inserted (2.4.2018) by [The Alternative Investment Fund Managers (Amendment) Regulations 2018 (S.I. 2018/134)](https://www.legislation.gov.uk/uksi/2018/134), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/134/regulation/1/3), [4(b)](https://www.legislation.gov.uk/uksi/2018/134/regulation/4/b)
 
-[^key-e7b98eef7e0260ea06cf34c50bc328d0]: Textual amendment: Words in art. 63B(6)(b) substituted (28.10.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications of Enactments) Order 2011 (S.I. 2011/2581)](https://www.legislation.gov.uk/uksi/2011/2581), [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2011/2581/article/1/2/b), [Sch. 2 para. 32](https://www.legislation.gov.uk/uksi/2011/2581/schedule/2/paragraph/32)
+[^c-e7b98eef7e0260ea06cf34c50bc328d0]: Textual amendment: Words in art. 63B(6)(b) substituted (28.10.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications of Enactments) Order 2011 (S.I. 2011/2581)](https://www.legislation.gov.uk/uksi/2011/2581), [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2011/2581/article/1/2/b), [Sch. 2 para. 32](https://www.legislation.gov.uk/uksi/2011/2581/schedule/2/paragraph/32)

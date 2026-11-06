@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Persons detained under port and border control powers[^key-08d4e12a200e2ab9401728994e7e9f8c]
+## 17. Persons detained under port and border control powers[^c-08d4e12a200e2ab9401728994e7e9f8c]
 
 *Extent: E+W+S+N.I.*
 
@@ -71,4 +71,4 @@ summary: ''
 
 ## Annotations
 
-[^key-08d4e12a200e2ab9401728994e7e9f8c]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2019/3/section/17) in force at 13.8.2020 by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/b)
+[^c-08d4e12a200e2ab9401728994e7e9f8c]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2019/3/section/17) in force at 13.8.2020 by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/b)

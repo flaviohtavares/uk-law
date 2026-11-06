@@ -37,28 +37,28 @@ concerning the authorisation of robenidine hydrochloride as a feed additive for 
 
 (Text with EEA relevance) (revoked)
 
-[^key-8ed5bd4c3e836391e2b1604c459c0937]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8ed5bd4c3e836391e2b1604c459c0937]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-8ed5bd4c3e836391e2b1604c459c0937] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-8ed5bd4c3e836391e2b1604c459c0937] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-8ed5bd4c3e836391e2b1604c459c0937] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-8ed5bd4c3e836391e2b1604c459c0937] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-8ed5bd4c3e836391e2b1604c459c0937] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-8ed5bd4c3e836391e2b1604c459c0937] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-8ed5bd4c3e836391e2b1604c459c0937] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-8ed5bd4c3e836391e2b1604c459c0937] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-8ed5bd4c3e836391e2b1604c459c0937] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-8ed5bd4c3e836391e2b1604c459c0937] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8ed5bd4c3e836391e2b1604c459c0937]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8ed5bd4c3e836391e2b1604c459c0937]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX I[^key-8ed5bd4c3e836391e2b1604c459c0937]
+## ANNEX I[^c-8ed5bd4c3e836391e2b1604c459c0937]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-8ed5bd4c3e836391e2b1604c459c0937]
+## ANNEX II[^c-8ed5bd4c3e836391e2b1604c459c0937]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8ed5bd4c3e836391e2b1604c459c0937]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 61](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/61) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-8ed5bd4c3e836391e2b1604c459c0937]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 61](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/61) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

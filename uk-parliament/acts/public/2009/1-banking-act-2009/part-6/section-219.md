@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 219. Ceasing the business of issuing notes[^key-4e75ea29b669c7709293ee495c0e3301]
+## 219. Ceasing the business of issuing notes[^c-4e75ea29b669c7709293ee495c0e3301]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4e75ea29b669c7709293ee495c0e3301]: Commencement: S. 219 in force at 12.11.2009 for specified purposes and 23.11.2009 in so far as not already in force by [S.I. 2009/3000](https://www.legislation.gov.uk/uksi/2009/3000), [arts. 2](https://www.legislation.gov.uk/uksi/2009/3000/article/2), [3](https://www.legislation.gov.uk/uksi/2009/3000/article/3)
+[^c-4e75ea29b669c7709293ee495c0e3301]: Commencement: S. 219 in force at 12.11.2009 for specified purposes and 23.11.2009 in so far as not already in force by [S.I. 2009/3000](https://www.legislation.gov.uk/uksi/2009/3000), [arts. 2](https://www.legislation.gov.uk/uksi/2009/3000/article/2), [3](https://www.legislation.gov.uk/uksi/2009/3000/article/3)

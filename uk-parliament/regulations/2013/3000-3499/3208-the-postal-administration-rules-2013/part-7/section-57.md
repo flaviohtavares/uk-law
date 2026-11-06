@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 57. Payments of a periodical nature[^key-91318b5d9825762d9b735c5f6f511172]
+## 57. Payments of a periodical nature[^c-91318b5d9825762d9b735c5f6f511172]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-91318b5d9825762d9b735c5f6f511172]: Commencement: [Rule 57](https://www.legislation.gov.uk/uksi/2013/3208/rule/57) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-91318b5d9825762d9b735c5f6f511172]: Commencement: [Rule 57](https://www.legislation.gov.uk/uksi/2013/3208/rule/57) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

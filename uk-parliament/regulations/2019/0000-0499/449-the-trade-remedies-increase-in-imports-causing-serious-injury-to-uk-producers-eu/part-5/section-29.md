@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Disclosure[^key-df4c0e137707a3a55a4fdd55f90f4bf8]
+## 29. Disclosure[^c-df4c0e137707a3a55a4fdd55f90f4bf8]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-df4c0e137707a3a55a4fdd55f90f4bf8]: Commencement: Reg. 29 in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)
+[^c-df4c0e137707a3a55a4fdd55f90f4bf8]: Commencement: Reg. 29 in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 380. Meaning of “decision document” and “correctable error”[^key-f3dcdc3a20fbfcfef207d7f55d2406f9]
+## 380. Meaning of “decision document” and “correctable error”[^c-f3dcdc3a20fbfcfef207d7f55d2406f9]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ and “**error**” includes omission.
 
 ## Annotations
 
-[^key-f3dcdc3a20fbfcfef207d7f55d2406f9]: Commencement: S. 380 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-f3dcdc3a20fbfcfef207d7f55d2406f9]: Commencement: S. 380 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

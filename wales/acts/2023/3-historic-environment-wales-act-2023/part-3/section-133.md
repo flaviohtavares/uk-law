@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 133. Offence of failing to comply with enforcement notice[^key-9ff01542df7ec1540ef8cee0a0fcd0f6][^key-bd908d212e02370f7acefd12e0211c0a]
+## 133. Offence of failing to comply with enforcement notice[^c-9ff01542df7ec1540ef8cee0a0fcd0f6][^c-bd908d212e02370f7acefd12e0211c0a]
 
 *Extent: E+W*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9ff01542df7ec1540ef8cee0a0fcd0f6]: Commencement: S. 133 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-9ff01542df7ec1540ef8cee0a0fcd0f6]: Commencement: S. 133 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-bd908d212e02370f7acefd12e0211c0a]: Commencement: [S. 133](https://www.legislation.gov.uk/asc/2023/3/section/133) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)
+[^c-bd908d212e02370f7acefd12e0211c0a]: Commencement: [S. 133](https://www.legislation.gov.uk/asc/2023/3/section/133) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Transfer scheme[^key-18d1315476668fd268cfac43100ff6b8]
+## 60. Transfer scheme[^c-18d1315476668fd268cfac43100ff6b8]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-18d1315476668fd268cfac43100ff6b8]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2017/16/section/60) in force at 1.4.2018 by [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 4(z)](https://www.legislation.gov.uk/uksi/2018/346/regulation/4/z)
+[^c-18d1315476668fd268cfac43100ff6b8]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2017/16/section/60) in force at 1.4.2018 by [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 4(z)](https://www.legislation.gov.uk/uksi/2018/346/regulation/4/z)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41A. Real Time Information employers[^key-86ab0bb6abc19451473714d3dd3f28b1]
+## 41A. Real Time Information employers[^c-86ab0bb6abc19451473714d3dd3f28b1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-86ab0bb6abc19451473714d3dd3f28b1]: Textual amendment: [Reg. 41A](https://www.legislation.gov.uk/uksi/2009/470/regulation/41A) omitted (6.4.2023) by virtue of [The Education (Student Loans) (Repayment) (Amendment) (No. 4) Regulations 2022 (S.I. 2022/1335)](https://www.legislation.gov.uk/uksi/2022/1335), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2), [37](https://www.legislation.gov.uk/uksi/2022/1335/regulation/37)
+[^c-86ab0bb6abc19451473714d3dd3f28b1]: Textual amendment: [Reg. 41A](https://www.legislation.gov.uk/uksi/2009/470/regulation/41A) omitted (6.4.2023) by virtue of [The Education (Student Loans) (Repayment) (Amendment) (No. 4) Regulations 2022 (S.I. 2022/1335)](https://www.legislation.gov.uk/uksi/2022/1335), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2), [37](https://www.legislation.gov.uk/uksi/2022/1335/regulation/37)

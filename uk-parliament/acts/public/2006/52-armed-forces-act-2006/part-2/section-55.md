@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Time limit for charging former member of a regular or reserve force[^key-7848af2865acebf3eb5b865bead13e67][^key-4b5b37eeb6cef7e180b8e45dd9ac7f92]
+## 55. Time limit for charging former member of a regular or reserve force[^c-7848af2865acebf3eb5b865bead13e67][^c-4b5b37eeb6cef7e180b8e45dd9ac7f92]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7848af2865acebf3eb5b865bead13e67]: Commencement: S. 55 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-7848af2865acebf3eb5b865bead13e67]: Commencement: S. 55 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-4b5b37eeb6cef7e180b8e45dd9ac7f92]: Commencement: S. 55 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-4b5b37eeb6cef7e180b8e45dd9ac7f92]: Commencement: S. 55 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

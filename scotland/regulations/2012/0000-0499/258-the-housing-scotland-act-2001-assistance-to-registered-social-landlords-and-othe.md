@@ -32,7 +32,7 @@ summary: ''
 
 Housing
 
-The Housing (Scotland) Act 2001 (Assistance to Registered Social Landlords and Other Persons) (Grants) Amendment Regulations 2012 (revoked)[^key-33ab7463909283d31b755f21049a6900]
+The Housing (Scotland) Act 2001 (Assistance to Registered Social Landlords and Other Persons) (Grants) Amendment Regulations 2012 (revoked)[^c-33ab7463909283d31b755f21049a6900]
 
 Made
 
@@ -46,40 +46,40 @@ Coming into force
 
 19th November 2012
 
-[^key-33ab7463909283d31b755f21049a6900]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-33ab7463909283d31b755f21049a6900]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation, commencement and interpretation[^key-33ab7463909283d31b755f21049a6900]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Amendment of the 2004 Regulations[^key-33ab7463909283d31b755f21049a6900]
+## 1. Citation, commencement and interpretation[^c-33ab7463909283d31b755f21049a6900]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Saving provision[^key-33ab7463909283d31b755f21049a6900]
+## 2. Amendment of the 2004 Regulations[^c-33ab7463909283d31b755f21049a6900]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Transitional provision[^key-33ab7463909283d31b755f21049a6900]
+## 3. Saving provision[^c-33ab7463909283d31b755f21049a6900]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**May not be in force at this date. Check the source.**
-
-[^key-33ab7463909283d31b755f21049a6900]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## SCHEDULE 1[^key-33ab7463909283d31b755f21049a6900]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## SCHEDULE 2[^key-33ab7463909283d31b755f21049a6900]
+## 4. Transitional provision[^c-33ab7463909283d31b755f21049a6900]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-33ab7463909283d31b755f21049a6900]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-33ab7463909283d31b755f21049a6900]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 1[^c-33ab7463909283d31b755f21049a6900]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 2[^c-33ab7463909283d31b755f21049a6900]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**May not be in force at this date. Check the source.**
+
+[^c-33ab7463909283d31b755f21049a6900]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-33ab7463909283d31b755f21049a6900]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2012/258) revoked (18.11.2012) by [The Housing (Scotland) Act 2001 (Assistance to Registered Social Landlords and Other Persons) (Grants) Amendment Revocation Regulations 2012 (S.S.I. 2012/306)](https://www.legislation.gov.uk/ssi/2012/306), [regs. 1](https://www.legislation.gov.uk/ssi/2012/306/regulation/1), [2](https://www.legislation.gov.uk/ssi/2012/306/regulation/2)
+[^c-33ab7463909283d31b755f21049a6900]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2012/258) revoked (18.11.2012) by [The Housing (Scotland) Act 2001 (Assistance to Registered Social Landlords and Other Persons) (Grants) Amendment Revocation Regulations 2012 (S.S.I. 2012/306)](https://www.legislation.gov.uk/ssi/2012/306), [regs. 1](https://www.legislation.gov.uk/ssi/2012/306/regulation/1), [2](https://www.legislation.gov.uk/ssi/2012/306/regulation/2)

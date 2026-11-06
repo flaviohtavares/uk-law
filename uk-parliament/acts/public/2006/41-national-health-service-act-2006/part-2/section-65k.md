@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65K.. Decision of NHS England or Secretary of State in case of NHS trust[^key-96eb1a4d06eff47697b17bf4c8b5e69e][^key-17cf88763d4009b94ad6caf0b8ba8e30]
+## 65K.. Decision of NHS England or Secretary of State in case of NHS trust[^c-96eb1a4d06eff47697b17bf4c8b5e69e][^c-17cf88763d4009b94ad6caf0b8ba8e30]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-96eb1a4d06eff47697b17bf4c8b5e69e]: Textual amendment: [S. 65K](https://www.legislation.gov.uk/ukpga/2006/41/section/65K) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 8 para. 11](https://www.legislation.gov.uk/ukpga/2022/31/schedule/8/paragraph/11); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-96eb1a4d06eff47697b17bf4c8b5e69e]: Textual amendment: [S. 65K](https://www.legislation.gov.uk/ukpga/2006/41/section/65K) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 8 para. 11](https://www.legislation.gov.uk/ukpga/2022/31/schedule/8/paragraph/11); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-17cf88763d4009b94ad6caf0b8ba8e30]: Textual amendment: Pt. 2 Ch. 5A inserted (15.2.2010) by [Health Act 2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), [ss. 16](https://www.legislation.gov.uk/ukpga/2009/21/section/16), [40(1)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/1); [S.I. 2010/30](https://www.legislation.gov.uk/uksi/2010/30), [art. 3(a)](https://www.legislation.gov.uk/uksi/2010/30/article/3/a)
+[^c-17cf88763d4009b94ad6caf0b8ba8e30]: Textual amendment: Pt. 2 Ch. 5A inserted (15.2.2010) by [Health Act 2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), [ss. 16](https://www.legislation.gov.uk/ukpga/2009/21/section/16), [40(1)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/1); [S.I. 2010/30](https://www.legislation.gov.uk/uksi/2010/30), [art. 3(a)](https://www.legislation.gov.uk/uksi/2010/30/article/3/a)

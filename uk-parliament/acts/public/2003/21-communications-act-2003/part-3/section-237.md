@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 237. Penalties for contravention of licence condition or direction[^key-308f6fd544fe83f411f8e873234e6762][^key-1a50726481b88cdea8f2f4c71d1fc245]
+## 237. Penalties for contravention of licence condition or direction[^c-308f6fd544fe83f411f8e873234e6762][^c-1a50726481b88cdea8f2f4c71d1fc245]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,6 +55,6 @@ they must send a copy of the notice or representations to the Secretary of State
 
 ## Annotations
 
-[^key-308f6fd544fe83f411f8e873234e6762]: Modification: S. 237 restricted (8.12.2003) by [The Office of Communications Act 2002 (Commencement No. 3) and Communications Act 2003 (Commencement No. 2) Order 2003 (S.I. 2003/3142)](https://www.legislation.gov.uk/uksi/2003/3142), [art. 9](https://www.legislation.gov.uk/uksi/2003/3142/article/9) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-308f6fd544fe83f411f8e873234e6762]: Modification: S. 237 restricted (8.12.2003) by [The Office of Communications Act 2002 (Commencement No. 3) and Communications Act 2003 (Commencement No. 2) Order 2003 (S.I. 2003/3142)](https://www.legislation.gov.uk/uksi/2003/3142), [art. 9](https://www.legislation.gov.uk/uksi/2003/3142/article/9) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-1a50726481b88cdea8f2f4c71d1fc245]: Commencement: S. 237 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-1a50726481b88cdea8f2f4c71d1fc245]: Commencement: S. 237 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))

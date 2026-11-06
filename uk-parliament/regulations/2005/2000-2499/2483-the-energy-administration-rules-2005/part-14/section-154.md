@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 154. Costs, expenses, etc[^key-0a0a78bf139197f2a8f70d6f1eb8b5a4]
+## 154. Costs, expenses, etc[^c-0a0a78bf139197f2a8f70d6f1eb8b5a4]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0a0a78bf139197f2a8f70d6f1eb8b5a4]: Commencement: Rule 154 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-0a0a78bf139197f2a8f70d6f1eb8b5a4]: Commencement: Rule 154 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

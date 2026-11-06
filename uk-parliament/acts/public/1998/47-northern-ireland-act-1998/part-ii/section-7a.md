@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7A. Cross-community support required for Bill altering size of Assembly[^key-344b08e3ae17ec1e9da86504234706a4]
+## 7A. Cross-community support required for Bill altering size of Assembly[^c-344b08e3ae17ec1e9da86504234706a4]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-344b08e3ae17ec1e9da86504234706a4]: Textual amendment: S. 7A inserted (13.5.2014) by [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 6(3)](https://www.legislation.gov.uk/ukpga/2014/13/section/6/3), [28(4)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/4)
+[^c-344b08e3ae17ec1e9da86504234706a4]: Textual amendment: S. 7A inserted (13.5.2014) by [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 6(3)](https://www.legislation.gov.uk/ukpga/2014/13/section/6/3), [28(4)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/4)

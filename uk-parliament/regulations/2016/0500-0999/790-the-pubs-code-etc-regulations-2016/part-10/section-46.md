@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46. Insurance[^key-06e0c3c27378a5bda62eb688bd5f29dc]
+## 46. Insurance[^c-06e0c3c27378a5bda62eb688bd5f29dc]
 
 *Extent: E+W*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-06e0c3c27378a5bda62eb688bd5f29dc]: Commencement: Reg. 46 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)
+[^c-06e0c3c27378a5bda62eb688bd5f29dc]: Commencement: Reg. 46 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)
 
 [^f00024]: Footnote: Section 72(1) of SBEEA 2015 defines “group undertaking”.

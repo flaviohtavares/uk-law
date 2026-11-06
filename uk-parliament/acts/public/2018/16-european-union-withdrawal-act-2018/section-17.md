@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-05c4e0bd04293b0f856528cf9fed38ce] A Minister of the Crown must, within the period of two months beginning with the day on which the European Union (Withdrawal Agreement) Act 2020 is passed, lay before Parliament a statement of policy in relation to any future arrangements between the United Kingdom and the EU about—
+(1)[^c-05c4e0bd04293b0f856528cf9fed38ce] A Minister of the Crown must, within the period of two months beginning with the day on which the European Union (Withdrawal Agreement) Act 2020 is passed, lay before Parliament a statement of policy in relation to any future arrangements between the United Kingdom and the EU about—
 
 - (a) unaccompanied children, who make an application for international protection to a member State, coming to the United Kingdom where it is in their best interests to join a relative who—
   - (i) is a lawful resident of the United Kingdom, or
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-05c4e0bd04293b0f856528cf9fed38ce]: Textual amendment: S. 17(1) substituted (23.1.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [ss. 37](https://www.legislation.gov.uk/ukpga/2020/1/section/37), [42(6)(c)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/6/c) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3), [Sch. 5 para. 66](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/66))
+[^c-05c4e0bd04293b0f856528cf9fed38ce]: Textual amendment: S. 17(1) substituted (23.1.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [ss. 37](https://www.legislation.gov.uk/ukpga/2020/1/section/37), [42(6)(c)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/6/c) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3), [Sch. 5 para. 66](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/66))

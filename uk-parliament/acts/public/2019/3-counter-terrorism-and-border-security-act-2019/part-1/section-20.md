@@ -37,14 +37,14 @@ summary: ''
 - (a) after “police” insert “ and local authorities ”;
 - (b) after “officer's” insert “or local authority's”.
 
-(8) The Secretary of State must [^key-ad47f0e0175b6d92df5aa353064cf51c]... make arrangements for an independent review and report on the Government strategy for supporting people vulnerable to being drawn into terrorism.
+(8) The Secretary of State must [^c-ad47f0e0175b6d92df5aa353064cf51c]... make arrangements for an independent review and report on the Government strategy for supporting people vulnerable to being drawn into terrorism.
 
-(9) The report and any recommendations of the review under subsection (8) must be laid before both Houses of Parliament [^key-2d5c86767ad60c949bb544330a039959]....
+(9) The report and any recommendations of the review under subsection (8) must be laid before both Houses of Parliament [^c-2d5c86767ad60c949bb544330a039959]....
 
 (10) The laying of the report and recommendations under subsection (9) must be accompanied by a statement by the Secretary of State responding to each recommendation made as part of the independent review.
 
 ## Annotations
 
-[^key-ad47f0e0175b6d92df5aa353064cf51c]: Textual amendment: Words in s. 20(8) omitted (with effect in accordance with [s. 45(2)](https://www.legislation.gov.uk/ukpga/2021/11/section/45/2) of the amending Act) by virtue of Counter-[Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 45(1)(a)](https://www.legislation.gov.uk/ukpga/2021/11/section/45/1/a), [50(1)(g)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/g)
+[^c-ad47f0e0175b6d92df5aa353064cf51c]: Textual amendment: Words in s. 20(8) omitted (with effect in accordance with [s. 45(2)](https://www.legislation.gov.uk/ukpga/2021/11/section/45/2) of the amending Act) by virtue of Counter-[Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 45(1)(a)](https://www.legislation.gov.uk/ukpga/2021/11/section/45/1/a), [50(1)(g)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/g)
 
-[^key-2d5c86767ad60c949bb544330a039959]: Textual amendment: Words in s. 20(9) omitted (with effect in accordance with [s. 45(2)](https://www.legislation.gov.uk/ukpga/2021/11/section/45/2) of the amending Act) by virtue of Counter-[Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 45(1)(b)](https://www.legislation.gov.uk/ukpga/2021/11/section/45/1/b), [50(1)(g)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/g)
+[^c-2d5c86767ad60c949bb544330a039959]: Textual amendment: Words in s. 20(9) omitted (with effect in accordance with [s. 45(2)](https://www.legislation.gov.uk/ukpga/2021/11/section/45/2) of the amending Act) by virtue of Counter-[Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 45(1)(b)](https://www.legislation.gov.uk/ukpga/2021/11/section/45/1/b), [50(1)(g)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/g)

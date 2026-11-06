@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 281. Sums payable for variation or waiver of terms of lease[^c19133031][^key-605d27415283bd92f2ee629f46ae84d3]
+## 281. Sums payable for variation or waiver of terms of lease[^c19133031][^c-605d27415283bd92f2ee629f46ae84d3]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ Y is the number of complete periods of 12 months (other than the first) comprise
 
 [^c19133031]: Modification: Ss. 277-281 excluded (with effect as mentioned in [Sch. 6 para. 6(2)-(7)](https://www.legislation.gov.uk/ukpga/1981/1/schedule/6/paragraph/6/2) of the amending Act) by [1981 c. 1](https://www.legislation.gov.uk/ukpga/1981/1), [s. 774G(7)](https://www.legislation.gov.uk/ukpga/1981/1/section/774G/7) as inserted by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 76](https://www.legislation.gov.uk/ukpga/2006/25/section/76), [Sch. 6 para. 6(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/6/paragraph/6/1)
 
-[^key-605d27415283bd92f2ee629f46ae84d3]: Textual amendment: Word in s. 281 title substituted (1.4.2009) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 616](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/616) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-605d27415283bd92f2ee629f46ae84d3]: Textual amendment: Word in s. 281 title substituted (1.4.2009) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 616](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/616) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

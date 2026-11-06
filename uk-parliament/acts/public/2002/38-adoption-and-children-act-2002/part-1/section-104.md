@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104. Evidence of consent[^key-0dcf1e4e99f72480e6514fdd3064e1ed][^key-b05ec4ca44c4bad12b9347003e0dacf2]
+## 104. Evidence of consent[^c-0dcf1e4e99f72480e6514fdd3064e1ed][^c-b05ec4ca44c4bad12b9347003e0dacf2]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0dcf1e4e99f72480e6514fdd3064e1ed]: Commencement: S. 104 in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(j)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/j) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
+[^c-0dcf1e4e99f72480e6514fdd3064e1ed]: Commencement: S. 104 in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(j)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/j) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
 
-[^key-b05ec4ca44c4bad12b9347003e0dacf2]: Modification: S. 104 applied (with modifications) (6.4.2010) by [The Human Fertilisation and Embryology (Parental Orders) Regulations 2010 (S.I. 2010/985)](https://www.legislation.gov.uk/uksi/2010/985), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/985/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2010/985/regulation/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/985/schedule/1)
+[^c-b05ec4ca44c4bad12b9347003e0dacf2]: Modification: S. 104 applied (with modifications) (6.4.2010) by [The Human Fertilisation and Embryology (Parental Orders) Regulations 2010 (S.I. 2010/985)](https://www.legislation.gov.uk/uksi/2010/985), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/985/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2010/985/regulation/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/985/schedule/1)

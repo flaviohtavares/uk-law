@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90. Order requiring parents etc to attend meetings[^key-cc9ce86eabd1f664a7f53fd2d8cc8fad]
+## 90. Order requiring parents etc to attend meetings[^c-cc9ce86eabd1f664a7f53fd2d8cc8fad]
 
 *Extent: E+W*
 
@@ -64,4 +64,4 @@ unless the person was present, or the authority was represented, in court when t
 
 ## Annotations
 
-[^key-cc9ce86eabd1f664a7f53fd2d8cc8fad]: Commencement: S. 90 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-cc9ce86eabd1f664a7f53fd2d8cc8fad]: Commencement: S. 90 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

@@ -41,7 +41,7 @@ Table
 | The Local Authority Social Services and NHS (Complaints) (England) Regulations 2009 (S.I. 2009/309) | Schedule, paragraph 3 |
 | The National Health Service (Miscellaneous Amendments Relating to Community Pharmaceutical Services and Optometrist Prescribing Regulations 2009 (S.I. 2009/2205) | Regulation 35 |
 | The National Health Service (Prescribing and Charging Amendments Relating to Pandemic Influenza) Regulations 2009 (S.I. 2009/2230) | Regulation 3 |
-| [^key-abfa3f5ae8fb12f1b2e6842cdf941e0d]. . . | [^key-792d8a3b0203eb0a993c4e735867b390]. . . |
+| [^c-abfa3f5ae8fb12f1b2e6842cdf941e0d]. . . | [^c-792d8a3b0203eb0a993c4e735867b390]. . . |
 | The Transfer of Tribunal Functions Order (S.I. 2010/22) | Schedule 3, paragraphs 42 to 44 |
 | The Pharmacy Order 2010 (S.I. 2010/231) | Schedule 4, paragraph 40 |
 | The General Specialist Medical Practice (Education, Training and Qualifications) Order 2010 (S.I. 2010/234) | Schedule 3, paragraph 10 |
@@ -59,6 +59,6 @@ Table
 
 ## Annotations
 
-[^key-abfa3f5ae8fb12f1b2e6842cdf941e0d]: Textual amendment: Words in Sch. 5 table omitted (6.10.2017) by virtue of [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2017 (S.I. 2017/908)](https://www.legislation.gov.uk/uksi/2017/908), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/908/regulation/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2017/908/regulation/5/a)
+[^c-abfa3f5ae8fb12f1b2e6842cdf941e0d]: Textual amendment: Words in Sch. 5 table omitted (6.10.2017) by virtue of [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2017 (S.I. 2017/908)](https://www.legislation.gov.uk/uksi/2017/908), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/908/regulation/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2017/908/regulation/5/a)
 
-[^key-792d8a3b0203eb0a993c4e735867b390]: Textual amendment: Words in Sch. 5 table omitted (6.10.2017) by virtue of [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2017 (S.I. 2017/908)](https://www.legislation.gov.uk/uksi/2017/908), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/908/regulation/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2017/908/regulation/5/b)
+[^c-792d8a3b0203eb0a993c4e735867b390]: Textual amendment: Words in Sch. 5 table omitted (6.10.2017) by virtue of [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2017 (S.I. 2017/908)](https://www.legislation.gov.uk/uksi/2017/908), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/908/regulation/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2017/908/regulation/5/b)

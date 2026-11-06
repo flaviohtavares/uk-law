@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 21. Application of Part 1 of the Compulsory Purchase Act 1965[^key-da1054d28b78ebeac66b23951f3866b1]
+## 21. Application of Part 1 of the Compulsory Purchase Act 1965[^c-da1054d28b78ebeac66b23951f3866b1]
 
 *Extent: E+W+S*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-da1054d28b78ebeac66b23951f3866b1]: Commencement: Art. 21 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)
+[^c-da1054d28b78ebeac66b23951f3866b1]: Commencement: Art. 21 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)
 
 [^f00036]: Footnote: [1981 c. 67](https://www.legislation.gov.uk/ukpga/1981/67).

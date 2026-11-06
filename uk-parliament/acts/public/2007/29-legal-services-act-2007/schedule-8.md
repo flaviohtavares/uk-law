@@ -73,7 +73,7 @@ about the proposed intervention direction.
 (2) Those persons are—
 
 - (a) the Lord Chancellor,
-- (b) the CMA[^key-cc99ad47038ce1eac1472b9e61e9a54e],
+- (b) the CMA[^c-cc99ad47038ce1eac1472b9e61e9a54e],
 - (c) the Consumer Panel,
 - (d) the Lord Chief Justice, and
 - (e) such other persons as the Board considers it reasonable to consult in respect of the proposed intervention direction.
@@ -84,9 +84,9 @@ about the proposed intervention direction.
 
 **4.** The Lord Chancellor must give the Board such advice as the Lord Chancellor thinks fit in respect of the proposed intervention direction.
 
-#### Advice of Competition and Markets Authority[^key-aac524f76aa3bfca3f988f8aed926671]
+#### Advice of Competition and Markets Authority[^c-aac524f76aa3bfca3f988f8aed926671]
 
-**5.** (1) The CMA[^key-471f2162c95740a0e0a216e0ed5544e6] must give the Board such advice as it thinks fit regarding whether the proposed intervention direction should be given.
+**5.** (1) The CMA[^c-471f2162c95740a0e0a216e0ed5544e6] must give the Board such advice as it thinks fit regarding whether the proposed intervention direction should be given.
 
 (2) In deciding what advice to give, the CMA must, in particular, have regard to whether giving the proposed intervention direction would (or would be likely to) prevent, restrict or distort competition within the market for reserved legal services to any significant extent.
 
@@ -219,7 +219,7 @@ the Board must decide whether to give an intervention direction.
 (3) The persons are—
 
 - (a) the Lord Chancellor,
-- (b) the CMA[^key-adf2bea86e4422d9f8b92dd03a545703],
+- (b) the CMA[^c-adf2bea86e4422d9f8b92dd03a545703],
 - (c) the Consumer Panel,
 - (d) the Lord Chief Justice, and
 - (e) such other persons as the Board considers it reasonable to consult in respect of the proposed revocation.
@@ -230,9 +230,9 @@ the Board must decide whether to give an intervention direction.
 
 **15.** The Lord Chancellor must give the Board such advice as the Lord Chancellor thinks fit in respect of the proposed revocation.
 
-#### Advice of Competition and Markets Authority[^key-2dbb6d286b90399fc407b021606a12f9]
+#### Advice of Competition and Markets Authority[^c-2dbb6d286b90399fc407b021606a12f9]
 
-**16.** (1) The CMA[^key-e396640df9ca1b0597fd9bc17b4ed4e2] must give the Board such advice as it thinks fit regarding the proposed revocation.
+**16.** (1) The CMA[^c-e396640df9ca1b0597fd9bc17b4ed4e2] must give the Board such advice as it thinks fit regarding the proposed revocation.
 
 (2) In deciding what advice to give, the CMA must, in particular, have regard to whether revoking the intervention direction would (or would be likely to) prevent, restrict or distort competition within the market for reserved legal services to any significant extent.
 
@@ -327,20 +327,20 @@ the Board must decide whether to revoke the intervention direction in accordance
 
 [^c20325511]: Commencement: Sch. 8 para. 2 wholly in force at 1.1.2010; Sch. 8 para. 2 not in force at Royal Assent see s. 211; Sch. 8 para. 2(5) in force at 1.1.2009 by [S.I. 2008/3149](https://www.legislation.gov.uk/uksi/2008/3149), [art. 2(c)(iii)](https://www.legislation.gov.uk/uksi/2008/3149/article/2/c/iii); Sch. 8 para. 2 in force otherwise at 1.1.2010 by [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/c/ii) (with [art. 9](https://www.legislation.gov.uk/uksi/2009/3250/article/9))
 
-[^key-cc99ad47038ce1eac1472b9e61e9a54e]: Textual amendment: Word in [Sch. 8 para. 3(2)(b)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/8/paragraph/3/2/b) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 120(2)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/120/2); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-cc99ad47038ce1eac1472b9e61e9a54e]: Textual amendment: Word in [Sch. 8 para. 3(2)(b)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/8/paragraph/3/2/b) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 120(2)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/120/2); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-aac524f76aa3bfca3f988f8aed926671]: Textual amendment: Words in Sch. 8 para. 5 cross-heading substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 120(3)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/120/3); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-aac524f76aa3bfca3f988f8aed926671]: Textual amendment: Words in Sch. 8 para. 5 cross-heading substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 120(3)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/120/3); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-471f2162c95740a0e0a216e0ed5544e6]: Textual amendment: Word in Sch. 8 para. 5(1)(2) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 120(4)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/120/4); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-471f2162c95740a0e0a216e0ed5544e6]: Textual amendment: Word in Sch. 8 para. 5(1)(2) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 120(4)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/120/4); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
 [^c20325601]: Commencement: Sch. 8 para. 10 wholly in force at 1.1.2010; Sch. 8 para. 10 not in force at Royal Assent see s. 211; Sch. 8 para. 10(5) in force at 1.1.2009 by [S.I. 2008/3149](https://www.legislation.gov.uk/uksi/2008/3149), [art. 2(c)(iii)](https://www.legislation.gov.uk/uksi/2008/3149/article/2/c/iii); Sch. 8 para. 10 in force otherwise at 1.1.2010 by [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/c/ii) (with [art. 9](https://www.legislation.gov.uk/uksi/2009/3250/article/9))
 
 [^c20325751]: Commencement: Sch. 8 para. 13 wholly in force at 1.1.2010; Sch. 8 para. 13 not in force at Royal Assent see s. 211; Sch. 8 para. 13(2)(a) in force at 1.1.2009 by [S.I. 2008/3149](https://www.legislation.gov.uk/uksi/2008/3149), [art. 2(c)(iii)](https://www.legislation.gov.uk/uksi/2008/3149/article/2/c/iii); Sch. 8 para. 13 in force otherwise at 1.1.2010 by [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/c/ii) (with [art. 9](https://www.legislation.gov.uk/uksi/2009/3250/article/9))
 
-[^key-adf2bea86e4422d9f8b92dd03a545703]: Textual amendment: Word in [Sch. 8 para. 14(3)(b)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/8/paragraph/14/3/b) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 120(5)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/120/5); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-adf2bea86e4422d9f8b92dd03a545703]: Textual amendment: Word in [Sch. 8 para. 14(3)(b)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/8/paragraph/14/3/b) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 120(5)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/120/5); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-2dbb6d286b90399fc407b021606a12f9]: Textual amendment: Words in [Sch. 8 para. 16 cross-heading](https://www.legislation.gov.uk/ukpga/2007/29/schedule/8/part/2/crossheading/advice-of-office-of-fair-trading) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 120(6)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/120/6); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-2dbb6d286b90399fc407b021606a12f9]: Textual amendment: Words in [Sch. 8 para. 16 cross-heading](https://www.legislation.gov.uk/ukpga/2007/29/schedule/8/part/2/crossheading/advice-of-office-of-fair-trading) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 120(6)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/120/6); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-e396640df9ca1b0597fd9bc17b4ed4e2]: Textual amendment: Word in Sch. 8 para. 16(1)(2) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 120(7)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/120/7); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-e396640df9ca1b0597fd9bc17b4ed4e2]: Textual amendment: Word in Sch. 8 para. 16(1)(2) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 120(7)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/120/7); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
 [^c20325841]: Commencement: Sch. 8 para. 21 wholly in force at 1.1.2010; Sch. 8 para. 21 not in force at Royal Assent see s. 211; Sch. 8 para. 21(5) in force at 1.1.2009 by [S.I. 2008/3149](https://www.legislation.gov.uk/uksi/2008/3149), [art. 2(c)(iii)](https://www.legislation.gov.uk/uksi/2008/3149/article/2/c/iii); Sch. 8 para. 21 in force otherwise at 1.1.2010 by [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/c/ii) (with [art. 9](https://www.legislation.gov.uk/uksi/2009/3250/article/9))

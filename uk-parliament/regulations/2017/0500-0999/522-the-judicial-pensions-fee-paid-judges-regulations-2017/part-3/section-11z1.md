@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11Z1. Application and interpretation of Part 3[^key-c56ed373e7d8f0891febd9e1a6ada062]
+## 11Z1. Application and interpretation of Part 3[^c-c56ed373e7d8f0891febd9e1a6ada062]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c56ed373e7d8f0891febd9e1a6ada062]: Textual amendment: [Reg. 11Z1](https://www.legislation.gov.uk/uksi/2017/522/regulation/11Z1) inserted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2023/403/regulation/13)
+[^c-c56ed373e7d8f0891febd9e1a6ada062]: Textual amendment: [Reg. 11Z1](https://www.legislation.gov.uk/uksi/2017/522/regulation/11Z1) inserted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2023/403/regulation/13)

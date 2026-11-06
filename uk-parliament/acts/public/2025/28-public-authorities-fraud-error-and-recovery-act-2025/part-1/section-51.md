@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 51. Penalty relating to fraud[^key-b04f9b916c07adeff6b1b53147db91b1][^key-97d6c2ae847ca487b8e384033101de3c]
+## 51. Penalty relating to fraud[^c-b04f9b916c07adeff6b1b53147db91b1][^c-97d6c2ae847ca487b8e384033101de3c]
 
 *Extent: E+W*
 
@@ -27,6 +27,6 @@ The Minister may impose a penalty on a person if satisfied, on the balance of pr
 
 ## Annotations
 
-[^key-b04f9b916c07adeff6b1b53147db91b1]: Commencement: S. 51 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-b04f9b916c07adeff6b1b53147db91b1]: Commencement: S. 51 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-97d6c2ae847ca487b8e384033101de3c]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2025/28/section/51) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)
+[^c-97d6c2ae847ca487b8e384033101de3c]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2025/28/section/51) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)

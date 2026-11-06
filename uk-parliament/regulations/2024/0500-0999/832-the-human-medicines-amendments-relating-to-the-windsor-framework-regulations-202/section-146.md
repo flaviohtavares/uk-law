@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 146. Insertion of Schedule 33B[^key-637499b8d349567c420c314f80574c77]
+## 146. Insertion of Schedule 33B[^c-637499b8d349567c420c314f80574c77]
 
 *Extent: E+W+S+N.I.*
 
@@ -102,4 +102,4 @@ After Schedule 33A insert—
 
 ## Annotations
 
-[^key-637499b8d349567c420c314f80574c77]: Commencement: [Reg. 146](https://www.legislation.gov.uk/uksi/2024/832/regulation/146) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-637499b8d349567c420c314f80574c77]: Commencement: [Reg. 146](https://www.legislation.gov.uk/uksi/2024/832/regulation/146) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)

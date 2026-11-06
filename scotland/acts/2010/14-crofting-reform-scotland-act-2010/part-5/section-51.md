@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 51. Duty to report to the Scottish Parliament[^key-1d6d76a181c3fb038a1d6e05c5ebc56a]
+## 51. Duty to report to the Scottish Parliament[^c-1d6d76a181c3fb038a1d6e05c5ebc56a]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1d6d76a181c3fb038a1d6e05c5ebc56a]: Commencement: [S. 51](https://www.legislation.gov.uk/asp/2010/14/section/51) in force at 22.12.2010 by [S.S.I. 2010/437](https://www.legislation.gov.uk/ssi/2010/437), [art. 3](https://www.legislation.gov.uk/ssi/2010/437/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/437/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2010/437/article/4))
+[^c-1d6d76a181c3fb038a1d6e05c5ebc56a]: Commencement: [S. 51](https://www.legislation.gov.uk/asp/2010/14/section/51) in force at 22.12.2010 by [S.S.I. 2010/437](https://www.legislation.gov.uk/ssi/2010/437), [art. 3](https://www.legislation.gov.uk/ssi/2010/437/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/437/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2010/437/article/4))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 114. Offence of concealing etc. documents following information notice[^key-712f928a338967252d2f90121e927a3e]
+## 114. Offence of concealing etc. documents following information notice[^c-712f928a338967252d2f90121e927a3e]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-712f928a338967252d2f90121e927a3e]: Commencement: S. 114 in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(c)](https://www.legislation.gov.uk/wsi/2018/33/article/2/c)
+[^c-712f928a338967252d2f90121e927a3e]: Commencement: S. 114 in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(c)](https://www.legislation.gov.uk/wsi/2018/33/article/2/c)

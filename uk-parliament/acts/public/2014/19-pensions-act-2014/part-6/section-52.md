@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Public service pension schemes: transitional arrangements[^key-c8761180b64d4d4fbb37476e0d1f0f01]
+## 52. Public service pension schemes: transitional arrangements[^c-c8761180b64d4d4fbb37476e0d1f0f01]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c8761180b64d4d4fbb37476e0d1f0f01]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2014/19/section/52) in force at 23.7.2014 by [S.I. 2014/1965](https://www.legislation.gov.uk/uksi/2014/1965), [art. 2](https://www.legislation.gov.uk/uksi/2014/1965/article/2)
+[^c-c8761180b64d4d4fbb37476e0d1f0f01]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2014/19/section/52) in force at 23.7.2014 by [S.I. 2014/1965](https://www.legislation.gov.uk/uksi/2014/1965), [art. 2](https://www.legislation.gov.uk/uksi/2014/1965/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Qualifying conditions for the higher education grant[^key-79ef652dcbee2f8c89e92184bc3ea3de]
+## 61. Qualifying conditions for the higher education grant[^c-79ef652dcbee2f8c89e92184bc3ea3de]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-79ef652dcbee2f8c89e92184bc3ea3de]: Commencement: Reg. 61 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-79ef652dcbee2f8c89e92184bc3ea3de]: Commencement: Reg. 61 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

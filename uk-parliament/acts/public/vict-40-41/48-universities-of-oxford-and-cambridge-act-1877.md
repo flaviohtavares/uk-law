@@ -43,21 +43,21 @@ This Act may be cited as the Universities of Oxford and Cambridge Act 1877 . . .
 
 In this Act—
 
-- [^key-1500c03c5ba42aabd911e483cdd0d192]...
-- [^key-1500c03c5ba42aabd911e483cdd0d192]...
+- [^c-1500c03c5ba42aabd911e483cdd0d192]...
+- [^c-1500c03c5ba42aabd911e483cdd0d192]...
 - “**College**” means a College in the University, and includes the Cathedral or House of Christ Church in Oxford:
-- [^key-1500c03c5ba42aabd911e483cdd0d192]...
-- [^key-1500c03c5ba42aabd911e483cdd0d192]...
-- [^key-1500c03c5ba42aabd911e483cdd0d192]...
+- [^c-1500c03c5ba42aabd911e483cdd0d192]...
+- [^c-1500c03c5ba42aabd911e483cdd0d192]...
+- [^c-1500c03c5ba42aabd911e483cdd0d192]...
 - . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c569730]
 - “**Office**” has the same meaning in the sections in which the [^c569731]Universities Tests Act 1871, is mentioned as it has in that Act:
 - . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c569730]
-- [^key-1500c03c5ba42aabd911e483cdd0d192]...
+- [^c-1500c03c5ba42aabd911e483cdd0d192]...
 - . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c569730]
 
 ### 3—23. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c569734]
 
-### 24. Saving respecting Snell Exhibitions at Oxford.[^key-3ffb34d7ae34b07316ebcf522662692e]
+### 24. Saving respecting Snell Exhibitions at Oxford.[^c-3ffb34d7ae34b07316ebcf522662692e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -69,9 +69,9 @@ In this Act—
 
 There shall be a Committee of Her Majesty’s Privy Council, styled The Universities Committee of the Privy Council (in this Act referred to as the Universities Committee).
 
-The Universities Committee shall consist of the President for the time being of the Privy Council, the Archbishop of Canterbury for the time being, [^key-117c9dda6b295e5c70a07a3676005b9e]... the Chancellor of the University of Oxford for the time being, if a member of the Privy Council, the Chancellor of the University of Cambridge for the time being, if a member of the Privy Council, and such other member or two members of the Privy Council as Her Majesty from time to time thinks fit to appoint in that behalf, that other member, or one at least of those two other members, being a member of the Judicial Committee of the Privy Council.
+The Universities Committee shall consist of the President for the time being of the Privy Council, the Archbishop of Canterbury for the time being, [^c-117c9dda6b295e5c70a07a3676005b9e]... the Chancellor of the University of Oxford for the time being, if a member of the Privy Council, the Chancellor of the University of Cambridge for the time being, if a member of the Privy Council, and such other member or two members of the Privy Council as Her Majesty from time to time thinks fit to appoint in that behalf, that other member, or one at least of those two other members, being a member of the Judicial Committee of the Privy Council.
 
-The powers and duties of the Universities Committee may be exercised and discharged by any three or more of the members of the Committee, one of whom shall be [^key-99fe11d7d9a5a3fb5840c39a9c94252b]... a member of the Judicial Committee of the Privy Council.
+The powers and duties of the Universities Committee may be exercised and discharged by any three or more of the members of the Committee, one of whom shall be [^c-99fe11d7d9a5a3fb5840c39a9c94252b]... a member of the Judicial Committee of the Privy Council.
 
 ### 45—50. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c569736]
 
@@ -93,7 +93,7 @@ The powers and duties of the Universities Committee may be exercised and dischar
 
 ## Tests
 
-### 57. Saving for Tests Act.[^key-78decdbd4e627bd78064a345d786511e]
+### 57. Saving for Tests Act.[^c-78decdbd4e627bd78064a345d786511e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -121,7 +121,7 @@ No objection to the list of members of the Electoral Roll of the University of C
 
 [^c569729]: Textual amendment: Words repealed by [Statute Law Revision Act 1894 (c. 56)](https://www.legislation.gov.uk/ukpga/1894/56)
 
-[^key-1500c03c5ba42aabd911e483cdd0d192]: Textual amendment: Words in s. 2 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 7](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/7)
+[^c-1500c03c5ba42aabd911e483cdd0d192]: Textual amendment: Words in s. 2 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 7](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/7)
 
 [^c569730]: Textual amendment: Definitions repealed by [Statute Law Revision Act 1883 (c. 39)](https://www.legislation.gov.uk/ukpga/1883/39)
 
@@ -129,13 +129,13 @@ No objection to the list of members of the Electoral Roll of the University of C
 
 [^c569734]: Textual amendment: [Ss. 3–23](https://www.legislation.gov.uk/ukpga/Vict/40-41/48/section/3), [25–43](https://www.legislation.gov.uk/ukpga/Vict/40-41/48/section/25), [45–51](https://www.legislation.gov.uk/ukpga/Vict/40-41/48/section/45), [56](https://www.legislation.gov.uk/ukpga/Vict/40-41/48/section/56), [59](https://www.legislation.gov.uk/ukpga/Vict/40-41/48/section/59) repealed by [Statute Law Revision Act 1883 (c. 39)](https://www.legislation.gov.uk/ukpga/1883/39)
 
-[^key-3ffb34d7ae34b07316ebcf522662692e]: Textual amendment: [S. 24](https://www.legislation.gov.uk/ukpga/Vict/40-41/48/section/24) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 7](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/7)
+[^c-3ffb34d7ae34b07316ebcf522662692e]: Textual amendment: [S. 24](https://www.legislation.gov.uk/ukpga/Vict/40-41/48/section/24) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 7](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/7)
 
 [^c569735]: Textual amendment: [Ss. 3–23](https://www.legislation.gov.uk/ukpga/Vict/40-41/48/section/3), [25–43](https://www.legislation.gov.uk/ukpga/Vict/40-41/48/section/25), [45–51](https://www.legislation.gov.uk/ukpga/Vict/40-41/48/section/45), [56](https://www.legislation.gov.uk/ukpga/Vict/40-41/48/section/56), [59](https://www.legislation.gov.uk/ukpga/Vict/40-41/48/section/59) repealed by [Statute Law Revision Act 1883 (c. 39)](https://www.legislation.gov.uk/ukpga/1883/39)
 
-[^key-117c9dda6b295e5c70a07a3676005b9e]: Textual amendment: Words in s. 44 repealed (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 17 para. 3(a)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/17/paragraph/3/a), [Sch. 18 Pt. 4](https://www.legislation.gov.uk/ukpga/2005/4/schedule/18/part/4); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/28)[Sch. 1 para. 30(d)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/30/d)
+[^c-117c9dda6b295e5c70a07a3676005b9e]: Textual amendment: Words in s. 44 repealed (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 17 para. 3(a)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/17/paragraph/3/a), [Sch. 18 Pt. 4](https://www.legislation.gov.uk/ukpga/2005/4/schedule/18/part/4); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/28)[Sch. 1 para. 30(d)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/30/d)
 
-[^key-99fe11d7d9a5a3fb5840c39a9c94252b]: Textual amendment: Words in s. 44 repealed (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 17 para. 3(b)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/17/paragraph/3/b), [Sch. 18 Pt. 4](https://www.legislation.gov.uk/ukpga/2005/4/schedule/18/part/4); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/28)[Sch. 1 para. 30(d)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/30/d)
+[^c-99fe11d7d9a5a3fb5840c39a9c94252b]: Textual amendment: Words in s. 44 repealed (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 17 para. 3(b)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/17/paragraph/3/b), [Sch. 18 Pt. 4](https://www.legislation.gov.uk/ukpga/2005/4/schedule/18/part/4); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/28)[Sch. 1 para. 30(d)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/30/d)
 
 [^c569736]: Textual amendment: [Ss. 3–23](https://www.legislation.gov.uk/ukpga/Vict/40-41/48/section/3), [25–43](https://www.legislation.gov.uk/ukpga/Vict/40-41/48/section/25), [45–51](https://www.legislation.gov.uk/ukpga/Vict/40-41/48/section/45), [56](https://www.legislation.gov.uk/ukpga/Vict/40-41/48/section/56), [59](https://www.legislation.gov.uk/ukpga/Vict/40-41/48/section/59) repealed by [Statute Law Revision Act 1883 (c. 39)](https://www.legislation.gov.uk/ukpga/1883/39)
 
@@ -151,7 +151,7 @@ No objection to the list of members of the Electoral Roll of the University of C
 
 [^c569742]: Textual amendment: [Ss. 3–23](https://www.legislation.gov.uk/ukpga/Vict/40-41/48/section/3), [25–43](https://www.legislation.gov.uk/ukpga/Vict/40-41/48/section/25), [45–51](https://www.legislation.gov.uk/ukpga/Vict/40-41/48/section/45), [56](https://www.legislation.gov.uk/ukpga/Vict/40-41/48/section/56), [59](https://www.legislation.gov.uk/ukpga/Vict/40-41/48/section/59) repealed by [Statute Law Revision Act 1883 (c. 39)](https://www.legislation.gov.uk/ukpga/1883/39)
 
-[^key-78decdbd4e627bd78064a345d786511e]: Textual amendment: [S. 57](https://www.legislation.gov.uk/ukpga/Vict/40-41/48/section/57) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 7](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/7)
+[^c-78decdbd4e627bd78064a345d786511e]: Textual amendment: [S. 57](https://www.legislation.gov.uk/ukpga/Vict/40-41/48/section/57) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 7](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/7)
 
 [^c569744]: Marginal citation: [1871 c. 26](https://www.legislation.gov.uk/ukpga/1871/26).
 

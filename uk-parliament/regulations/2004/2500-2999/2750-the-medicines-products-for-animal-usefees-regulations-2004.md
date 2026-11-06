@@ -46,7 +46,7 @@ Coming into force
 
 17th November 2004
 
-[^key-fb36ba28324ed59ccaa07c27bfb94352]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fb36ba28324ed59ccaa07c27bfb94352]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
@@ -126,7 +126,7 @@ Coming into force
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fb36ba28324ed59ccaa07c27bfb94352]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fb36ba28324ed59ccaa07c27bfb94352]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
@@ -290,8 +290,8 @@ Regulation 17
 
 **May not be in force at this date. Check the source.**
 
-[^key-fb36ba28324ed59ccaa07c27bfb94352]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fb36ba28324ed59ccaa07c27bfb94352]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fb36ba28324ed59ccaa07c27bfb94352]: Textual amendment: Regulations revoked (30.10.2005) by [The Veterinary Medicines Regulations 2005 (S.I. 2005/2745)](https://www.legislation.gov.uk/uksi/2005/2745), [reg. 1(a)](https://www.legislation.gov.uk/uksi/2005/2745/regulation/1/a), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/uksi/2005/2745/schedule/8/part/1) (with [Sch. 8 Pt. 4](https://www.legislation.gov.uk/uksi/2005/2745/schedule/8/part/4))
+[^c-fb36ba28324ed59ccaa07c27bfb94352]: Textual amendment: Regulations revoked (30.10.2005) by [The Veterinary Medicines Regulations 2005 (S.I. 2005/2745)](https://www.legislation.gov.uk/uksi/2005/2745), [reg. 1(a)](https://www.legislation.gov.uk/uksi/2005/2745/regulation/1/a), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/uksi/2005/2745/schedule/8/part/1) (with [Sch. 8 Pt. 4](https://www.legislation.gov.uk/uksi/2005/2745/schedule/8/part/4))

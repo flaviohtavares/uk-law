@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 91A. Use of spare capacity of computers of board[^key-f3ccdbf7c93d1b2ba472b9d2e1083ea7][^c18637541]
+## 91A. Use of spare capacity of computers of board[^c-f3ccdbf7c93d1b2ba472b9d2e1083ea7][^c18637541]
 
 *Extent: N.I.*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f3ccdbf7c93d1b2ba472b9d2e1083ea7]: Textual amendment: Art. 91A repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-f3ccdbf7c93d1b2ba472b9d2e1083ea7]: Textual amendment: Art. 91A repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
 [^c18637541]: Textual amendment: [1987 NI 2](https://www.legislation.gov.uk/nisi/1987)

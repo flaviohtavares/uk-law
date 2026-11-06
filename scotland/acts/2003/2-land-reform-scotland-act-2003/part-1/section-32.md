@@ -33,8 +33,8 @@ In this Part of this Act—
   - (c) canals; and
   - (d) the foreshore, that is to say, the land between the high and low water marks of ordinary spring tides;
 - [^c2104293] “**local authority**” in relation to specific land in respect of which access rights are or would, but for a provision of or order made under this Act, be exercisable means—
-  - (a) where the land is, on the day on which this section comes into force, within an area designated as a National Park under the National Parks (Scotland) Act 2000 (asp 10), the National Park authority for that National Park; [^key-805231471fa9f7a8f5e9d5dc9cc1ba7b]...
-  - (aa) where the land is within an area designated as a National Park under the National Parks (Scotland) Act 2000 after the coming into force of this section, and the designation order specifies that the National Park authority for the land is to be the local authority for the purpose of this Part, that National Park authority, and[^key-5cbc07b74fd085d8a5c72eeb753545c0]
+  - (a) where the land is, on the day on which this section comes into force, within an area designated as a National Park under the National Parks (Scotland) Act 2000 (asp 10), the National Park authority for that National Park; [^c-805231471fa9f7a8f5e9d5dc9cc1ba7b]...
+  - (aa) where the land is within an area designated as a National Park under the National Parks (Scotland) Act 2000 after the coming into force of this section, and the designation order specifies that the National Park authority for the land is to be the local authority for the purpose of this Part, that National Park authority, and[^c-5cbc07b74fd085d8a5c72eeb753545c0]
   - (b) in any other case, the council (being a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 (c. 39)) whose area includes that land;
 - “**natural heritage**” includes the flora and fauna of land, its geological and physiographical features and its natural beauty and amenity;
 - “**owner**”, in relation to land, means—
@@ -49,7 +49,7 @@ In this Part of this Act—
   - (f) a holder of a licence under section 6(1) of the Electricity Act 1989 (c. 29);
   - (g) the Civil Aviation Authority or a holder of a licence under Chapter I of Part I of the Transport Act 2000 (c. 38) (to the extent that the person holding the licence is carrying out activities authorised by it);
   - (h) the Scottish Environment Protection Agency; or
-  - (i) a universal service provider within the meaning of Part 3 of the[^key-d710826d0fe71da339be15c267b11b69] [Postal Services Act 2011 (c.5)](https://www.legislation.gov.uk/ukpga/2011/5);
+  - (i) a universal service provider within the meaning of Part 3 of the[^c-d710826d0fe71da339be15c267b11b69] [Postal Services Act 2011 (c.5)](https://www.legislation.gov.uk/ukpga/2011/5);
 - and “**undertaking**” means the undertaking of such a statutory undertaker; and
 - [^c2104290]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -57,12 +57,12 @@ In this Part of this Act—
 
 [^c2104293]: Modification: S. 32: definition modified (2.10.2010) by [The Cairngorms National Park Designation, Transitional and Consequential Provisions (Scotland) Order 2003 Modification Order 2010 (S.S.I. 2010/348)](https://www.legislation.gov.uk/ssi/2010/348), [art. 3](https://www.legislation.gov.uk/ssi/2010/348/article/3)
 
-[^key-805231471fa9f7a8f5e9d5dc9cc1ba7b]: Textual amendment: Word in s. 32 repealed (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 9(2)(a)](https://www.legislation.gov.uk/asp/2026/6/section/9/2/a), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(g)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/g)
+[^c-805231471fa9f7a8f5e9d5dc9cc1ba7b]: Textual amendment: Word in s. 32 repealed (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 9(2)(a)](https://www.legislation.gov.uk/asp/2026/6/section/9/2/a), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(g)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/g)
 
-[^key-5cbc07b74fd085d8a5c72eeb753545c0]: Textual amendment: Words in s. 32 inserted (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 9(2)(b)](https://www.legislation.gov.uk/asp/2026/6/section/9/2/b), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(g)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/g)
+[^c-5cbc07b74fd085d8a5c72eeb753545c0]: Textual amendment: Words in s. 32 inserted (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 9(2)(b)](https://www.legislation.gov.uk/asp/2026/6/section/9/2/b), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(g)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/g)
 
 [^c2104280]: Textual amendment: Words in s. 32 substituted (17.9.2003) by [The Communications Act 2003 (Consequential Amendments) Order 2003 (S.I. 2003/2155)](https://www.legislation.gov.uk/uksi/2003/2155), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/2155/article/3/1), [Sch. 1 para. 15(2)](https://www.legislation.gov.uk/uksi/2003/2155/schedule/1/paragraph/15/2)
 
-[^key-d710826d0fe71da339be15c267b11b69]: Textual amendment: Words in s. 32 substituted (1.10.2011) by [The Postal Services Act 2011 (Consequential Modifications and Amendments) Order 2011 (S.I. 2011/2085)](https://www.legislation.gov.uk/uksi/2011/2085), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2085/article/1/2), [Sch. 1 para. 52](https://www.legislation.gov.uk/uksi/2011/2085/schedule/1/paragraph/52)
+[^c-d710826d0fe71da339be15c267b11b69]: Textual amendment: Words in s. 32 substituted (1.10.2011) by [The Postal Services Act 2011 (Consequential Modifications and Amendments) Order 2011 (S.I. 2011/2085)](https://www.legislation.gov.uk/uksi/2011/2085), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2085/article/1/2), [Sch. 1 para. 52](https://www.legislation.gov.uk/uksi/2011/2085/schedule/1/paragraph/52)
 
 [^c2104290]: Textual amendment: [S. 32](https://www.legislation.gov.uk/asp/2003/2/section/32): definitions of "telecommunications code system" and "operator" repealed (17.9.2003) by [The Communications Act 2003 (Consequential Amendments) Order 2003 (S.I. 2003/2155)](https://www.legislation.gov.uk/uksi/2003/2155), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/2155/article/3/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/2155/schedule/2) Table 1

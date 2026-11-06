@@ -31,7 +31,7 @@ summary: ''
 
 FOOD
 
-Jam and Similar Products Regulations (Northern Ireland) 2003 (revoked)[^key-4b4e1b57a6b29ff3a3e442ff8948675f]
+Jam and Similar Products Regulations (Northern Ireland) 2003 (revoked)[^c-4b4e1b57a6b29ff3a3e442ff8948675f]
 
 Made
 
@@ -41,80 +41,80 @@ Coming into operation
 
 19th January 2004
 
-[^key-4b4e1b57a6b29ff3a3e442ff8948675f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4b4e1b57a6b29ff3a3e442ff8948675f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-4b4e1b57a6b29ff3a3e442ff8948675f]
+## 1. Citation and commencement[^c-4b4e1b57a6b29ff3a3e442ff8948675f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-4b4e1b57a6b29ff3a3e442ff8948675f]
+## 2. Interpretation[^c-4b4e1b57a6b29ff3a3e442ff8948675f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Scope of Regulations[^key-4b4e1b57a6b29ff3a3e442ff8948675f]
+## 3. Scope of Regulations[^c-4b4e1b57a6b29ff3a3e442ff8948675f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Reserved descriptions[^key-4b4e1b57a6b29ff3a3e442ff8948675f]
+## 4. Reserved descriptions[^c-4b4e1b57a6b29ff3a3e442ff8948675f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Labelling and description of specified jam products[^key-4b4e1b57a6b29ff3a3e442ff8948675f]
+## 5. Labelling and description of specified jam products[^c-4b4e1b57a6b29ff3a3e442ff8948675f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Manner of marking or labelling[^key-4b4e1b57a6b29ff3a3e442ff8948675f]
+## 6. Manner of marking or labelling[^c-4b4e1b57a6b29ff3a3e442ff8948675f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Penalties and enforcement[^key-4b4e1b57a6b29ff3a3e442ff8948675f]
+## 7. Penalties and enforcement[^c-4b4e1b57a6b29ff3a3e442ff8948675f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Defence in relation to exports[^key-4b4e1b57a6b29ff3a3e442ff8948675f]
+## 8. Defence in relation to exports[^c-4b4e1b57a6b29ff3a3e442ff8948675f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Application of various provisions of the Order[^key-4b4e1b57a6b29ff3a3e442ff8948675f]
+## 9. Application of various provisions of the Order[^c-4b4e1b57a6b29ff3a3e442ff8948675f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Amendments and revocations[^key-4b4e1b57a6b29ff3a3e442ff8948675f]
+## 10. Amendments and revocations[^c-4b4e1b57a6b29ff3a3e442ff8948675f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Transitional provision[^key-4b4e1b57a6b29ff3a3e442ff8948675f]
+## 11. Transitional provision[^c-4b4e1b57a6b29ff3a3e442ff8948675f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4b4e1b57a6b29ff3a3e442ff8948675f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4b4e1b57a6b29ff3a3e442ff8948675f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — COMPOSITION[^key-4b4e1b57a6b29ff3a3e442ff8948675f]
+## SCHEDULE 1 — COMPOSITION[^c-4b4e1b57a6b29ff3a3e442ff8948675f]
 
 Regulation 2(1)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — PERMITTED ADDITIONAL INGREDIENTS AND AUTHORISED TREATMENTS FOR PRODUCTS DESCRIBED IN ITEMS 1 TO 7 OF SCHEDULE 1[^key-4b4e1b57a6b29ff3a3e442ff8948675f]
+## SCHEDULE 2 — PERMITTED ADDITIONAL INGREDIENTS AND AUTHORISED TREATMENTS FOR PRODUCTS DESCRIBED IN ITEMS 1 TO 7 OF SCHEDULE 1[^c-4b4e1b57a6b29ff3a3e442ff8948675f]
 
 Regulation 2(1) and (2)
 
-**1.**[^key-4b4e1b57a6b29ff3a3e442ff8948675f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-4b4e1b57a6b29ff3a3e442ff8948675f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-4b4e1b57a6b29ff3a3e442ff8948675f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-4b4e1b57a6b29ff3a3e442ff8948675f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-4b4e1b57a6b29ff3a3e442ff8948675f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-4b4e1b57a6b29ff3a3e442ff8948675f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-4b4e1b57a6b29ff3a3e442ff8948675f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-4b4e1b57a6b29ff3a3e442ff8948675f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4b4e1b57a6b29ff3a3e442ff8948675f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4b4e1b57a6b29ff3a3e442ff8948675f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4b4e1b57a6b29ff3a3e442ff8948675f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/519) revoked (23.4.2018) by [The Jam and Similar Products Regulations (Northern Ireland) 2018 (S.R. 2018/78)](https://www.legislation.gov.uk/nisr/2018/78), [regs. 1](https://www.legislation.gov.uk/nisr/2018/78/regulation/1), [11](https://www.legislation.gov.uk/nisr/2018/78/regulation/11)
+[^c-4b4e1b57a6b29ff3a3e442ff8948675f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/519) revoked (23.4.2018) by [The Jam and Similar Products Regulations (Northern Ireland) 2018 (S.R. 2018/78)](https://www.legislation.gov.uk/nisr/2018/78), [regs. 1](https://www.legislation.gov.uk/nisr/2018/78/regulation/1), [11](https://www.legislation.gov.uk/nisr/2018/78/regulation/11)

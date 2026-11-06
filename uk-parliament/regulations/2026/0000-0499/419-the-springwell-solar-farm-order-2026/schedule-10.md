@@ -22,11 +22,11 @@ summary: ''
 
 Article 23
 
-### 1. Compensation enactments[^key-8c540e978affc462f3b3f5cf82c062a6]
+### 1. Compensation enactments[^c-8c540e978affc462f3b3f5cf82c062a6]
 
 The enactments for the time being in force with respect to compensation for the compulsory purchase of land are to apply, with the necessary modifications as respects compensation, in the case of a compulsory acquisition under this Order of a right by the creation of a new right or the imposition of a restrictive covenant as they apply as respects compensation on the compulsory purchase of land and interests in land.
 
-### 2.[^key-ad8dafdbbfde99291923c51f41bc5826]
+### 2.[^c-ad8dafdbbfde99291923c51f41bc5826]
 
 (1) Without limitation on the scope of paragraph 1, the Land Compensation Act 1973[^f00060] has effect subject to the modifications set out in sub-paragraph (2).
 
@@ -35,7 +35,7 @@ The enactments for the time being in force with respect to compensation for the 
 - (a) for the words “land is acquired or taken from” substitute “a right or restrictive covenant over land is purchased from or imposed on”; and
 - (b) for the words “acquired or taken from him” substitute “over which the right is exercisable or the restrictive covenant enforceable”.
 
-### 3.[^key-05a71ef28940a864e7f5ad5e65f0f77f]
+### 3.[^c-05a71ef28940a864e7f5ad5e65f0f77f]
 
 (1) Without limitation to the scope of paragraph 1, the 1961 Act has effect subject to the modifications set out in sub-paragraph (2).
 
@@ -49,14 +49,14 @@ The enactments for the time being in force with respect to compensation for the 
 
 .
 
-### 4. Application of Part 1 of the 1965 Act[^key-5f0c804880a308f50a69ae8918ee58a5]
+### 4. Application of Part 1 of the 1965 Act[^c-5f0c804880a308f50a69ae8918ee58a5]
 
 Part 1 (compulsory purchase under Acquisition of Land Act 1946) of the 1965 Act, as applied by section 125 (application of compulsory acquisition provisions) of the 2008 Act to the acquisition of land under article 21 (compulsory acquisition of land) and as modified by article 28 (modification of Part 1 of the Compulsory Purchase Act 1965), applies to the compulsory acquisition of a right by the creation of a new right under article 23 (compulsory acquisition of rights)—
 
 - (a) with the modifications specified in paragraph 5; and
 - (b) with such other modifications as may be necessary.
 
-### 5.[^key-f96e7f9536d5bc792a532c4e1ae2361e]
+### 5.[^c-f96e7f9536d5bc792a532c4e1ae2361e]
 
 (1) The modifications referred to in paragraph 4(a) are as follows.
 
@@ -145,17 +145,17 @@ are modified to secure that, as against persons with interests in the land which
 
 ## Annotations
 
-[^key-8c540e978affc462f3b3f5cf82c062a6]: Commencement: Sch. 10 para. 1 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
+[^c-8c540e978affc462f3b3f5cf82c062a6]: Commencement: Sch. 10 para. 1 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
 
-[^key-ad8dafdbbfde99291923c51f41bc5826]: Commencement: Sch. 10 para. 2 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
+[^c-ad8dafdbbfde99291923c51f41bc5826]: Commencement: Sch. 10 para. 2 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
 
 [^f00060]: Footnote: [1973 c. 26](https://www.legislation.gov.uk/ukpga/1973/26).
 
-[^key-05a71ef28940a864e7f5ad5e65f0f77f]: Commencement: Sch. 10 para. 3 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
+[^c-05a71ef28940a864e7f5ad5e65f0f77f]: Commencement: Sch. 10 para. 3 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
 
-[^key-5f0c804880a308f50a69ae8918ee58a5]: Commencement: Sch. 10 para. 4 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
+[^c-5f0c804880a308f50a69ae8918ee58a5]: Commencement: Sch. 10 para. 4 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
 
-[^key-f96e7f9536d5bc792a532c4e1ae2361e]: Commencement: Sch. 10 para. 5 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
+[^c-f96e7f9536d5bc792a532c4e1ae2361e]: Commencement: Sch. 10 para. 5 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
 
 [^f00061]: Footnote: Section 11 was amended by section 34(1) of, and Schedule 4 to, the Acquisition of Land Act [1981 (c. 67)](https://www.legislation.gov.uk/ukpga/1981/67), section 3 of, and Part 1 of Schedule 1 to, the Housing (Consequential Provisions) Act [1985 (c. 71)](https://www.legislation.gov.uk/ukpga/1985/71), section 14 of, and paragraph 12(1) of Schedule 5 to, the Church of England (Miscellaneous Provisions) Measure [2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), sections 186(2), 187(2) and 188 of, and paragraph 6 of Schedule 14 and paragraph 3 of Schedule 16 to, the Housing and Planning Act [2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22) and [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 53. Power to carry out inspections[^key-b0ec1490432eba86777927e6211fab80]
+## 53. Power to carry out inspections[^c-b0ec1490432eba86777927e6211fab80]
 
 *Extent: S*
 
@@ -31,7 +31,7 @@ summary: ''
   - (i) give the authorised person such information as the authorised person considers necessary,
   - (ii) afford the authorised person such facilities and assistance as the authorised person considers necessary.
 
-(3)[^key-ea1a953960086e4afa30ae318eb9f370] Any requirement for a person to give information in accordance with subsection (2)(d)(i) does not have effect to the extent that the person would be entitled to refuse to give the information in, or for the purposes of, proceedings in a court in Scotland.
+(3)[^c-ea1a953960086e4afa30ae318eb9f370] Any requirement for a person to give information in accordance with subsection (2)(d)(i) does not have effect to the extent that the person would be entitled to refuse to give the information in, or for the purposes of, proceedings in a court in Scotland.
 
 (4) In this section—
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b0ec1490432eba86777927e6211fab80]: Commencement: [S. 53](https://www.legislation.gov.uk/asp/2014/14/section/53) in force at 31.1.2018 by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
+[^c-b0ec1490432eba86777927e6211fab80]: Commencement: [S. 53](https://www.legislation.gov.uk/asp/2014/14/section/53) in force at 31.1.2018 by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
 
-[^key-ea1a953960086e4afa30ae318eb9f370]: Textual amendment: [S. 53(3)](https://www.legislation.gov.uk/asp/2014/14/section/53/3) substituted (1.4.2026 for specified purposes) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 43(3)](https://www.legislation.gov.uk/asp/2025/13/section/43/3), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+[^c-ea1a953960086e4afa30ae318eb9f370]: Textual amendment: [S. 53(3)](https://www.legislation.gov.uk/asp/2014/14/section/53/3) substituted (1.4.2026 for specified purposes) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 43(3)](https://www.legislation.gov.uk/asp/2025/13/section/43/3), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)

@@ -27,7 +27,7 @@ summary: ''
 
 and every notification shall include a statement as to the matters set out in Schedule 9.
 
-(2) A person affected to whom an authority sends or delivers a notification of decision may, by notice in writing signed by him within one month of the date of the notification of that decision (or, if the decision was notified before 1st November 2010, before 1st December 2010)[^key-06d05767ba4c75ba2ffd0f3d5ef16952], request the authority to provide a written statement setting out the reasons for its decision on any matter set out in the notice.
+(2) A person affected to whom an authority sends or delivers a notification of decision may, by notice in writing signed by him within one month of the date of the notification of that decision (or, if the decision was notified before 1st November 2010, before 1st December 2010)[^c-06d05767ba4c75ba2ffd0f3d5ef16952], request the authority to provide a written statement setting out the reasons for its decision on any matter set out in the notice.
 
 (3) For the purposes of paragraph (2), where a person affected who requests a written statement is not a natural person, the notice in writing referred to in that paragraph shall be signed by a person over the age of 18 who is authorised to act on that person's behalf.
 
@@ -35,4 +35,4 @@ and every notification shall include a statement as to the matters set out in Sc
 
 ## Annotations
 
-[^key-06d05767ba4c75ba2ffd0f3d5ef16952]: Textual amendment: Words in reg. 90(2) inserted (1.11.2010) by [The Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/2449)](https://www.legislation.gov.uk/uksi/2010/2449), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2449/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2010/2449/regulation/2/6)
+[^c-06d05767ba4c75ba2ffd0f3d5ef16952]: Textual amendment: Words in reg. 90(2) inserted (1.11.2010) by [The Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/2449)](https://www.legislation.gov.uk/uksi/2010/2449), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2449/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2010/2449/regulation/2/6)

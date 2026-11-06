@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 202. Further education institutions: records[^key-9a659a84d9da8bd8bef58cb6ac4d1666][^key-c923e4db6791b316dd978b7c4c084127]
+## 202. Further education institutions: records[^c-9a659a84d9da8bd8bef58cb6ac4d1666][^c-c923e4db6791b316dd978b7c4c084127]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) The regulations may, in particular, impose a function on—
 
-- (a) a local authority[^key-379c0a8ab791aad4cda0b42dbea5f020], or
+- (a) a local authority[^c-379c0a8ab791aad4cda0b42dbea5f020], or
 - (b) the governing body of a further education institution.
 
 (3) The regulations may, in particular, make a duty to provide a copy of a record conditional on the payment of a charge which does not exceed the cost of providing the copy.
@@ -33,8 +33,8 @@ summary: ''
 
 ## Annotations
 
-[^key-9a659a84d9da8bd8bef58cb6ac4d1666]: Commencement: S. 202 in force at 1.8.2003 except in relation to W. by [S.I. 2003/1667](https://www.legislation.gov.uk/uksi/2003/1667), [art. 3](https://www.legislation.gov.uk/uksi/2003/1667/article/3)
+[^c-9a659a84d9da8bd8bef58cb6ac4d1666]: Commencement: S. 202 in force at 1.8.2003 except in relation to W. by [S.I. 2003/1667](https://www.legislation.gov.uk/uksi/2003/1667), [art. 3](https://www.legislation.gov.uk/uksi/2003/1667/article/3)
 
-[^key-c923e4db6791b316dd978b7c4c084127]: Commencement: S. 202 in force at 1.9.2003 for W. by [S.I. 2003/1718](https://www.legislation.gov.uk/uksi/2003/1718), [art. 5](https://www.legislation.gov.uk/uksi/2003/1718/article/5), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2003/1718/schedule/part/II)
+[^c-c923e4db6791b316dd978b7c4c084127]: Commencement: S. 202 in force at 1.9.2003 for W. by [S.I. 2003/1718](https://www.legislation.gov.uk/uksi/2003/1718), [art. 5](https://www.legislation.gov.uk/uksi/2003/1718/article/5), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2003/1718/schedule/part/II)
 
-[^key-379c0a8ab791aad4cda0b42dbea5f020]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 11(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/11/2)
+[^c-379c0a8ab791aad4cda0b42dbea5f020]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 11(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/11/2)

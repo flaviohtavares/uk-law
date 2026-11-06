@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Real time returns, payments and associated matters[^key-57bce5a0e616262b58d3c88eb3eaabd7]
+## 27. Real time returns, payments and associated matters[^c-57bce5a0e616262b58d3c88eb3eaabd7]
 
 *Extent: E+W+S+N.I.*
 
@@ -190,14 +190,14 @@ In Chapter 1 of Part 4—
 
   .
 
-**28.**[^key-eba6f937b4c98676bd271cc070fbf623] For the heading to regulation 68 (periodic payments to and recoveries from HMRC), substitute “Periodic payments to and recoveries from HMRC: non-Real Time Information employers”.
+**28.**[^c-eba6f937b4c98676bd271cc070fbf623] For the heading to regulation 68 (periodic payments to and recoveries from HMRC), substitute “Periodic payments to and recoveries from HMRC: non-Real Time Information employers”.
 
-**29.**[^key-ae529eee8ecc6b0ae432c26f7c3586e3] In regulation 68(1), for “an employer” in the first place it appears substitute “a non-Real Time Information employer”.
+**29.**[^c-ae529eee8ecc6b0ae432c26f7c3586e3] In regulation 68(1), for “an employer” in the first place it appears substitute “a non-Real Time Information employer”.
 
 ## Annotations
 
-[^key-57bce5a0e616262b58d3c88eb3eaabd7]: Commencement: Reg. 27 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)
+[^c-57bce5a0e616262b58d3c88eb3eaabd7]: Commencement: Reg. 27 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)
 
-[^key-eba6f937b4c98676bd271cc070fbf623]: Commencement: Reg. 28 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)
+[^c-eba6f937b4c98676bd271cc070fbf623]: Commencement: Reg. 28 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)
 
-[^key-ae529eee8ecc6b0ae432c26f7c3586e3]: Commencement: Reg. 29 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)
+[^c-ae529eee8ecc6b0ae432c26f7c3586e3]: Commencement: Reg. 29 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)

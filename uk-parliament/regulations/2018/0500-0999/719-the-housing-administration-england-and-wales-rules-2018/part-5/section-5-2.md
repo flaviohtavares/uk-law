@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5.2. Provable debts[^key-f265bcd288aa3cb4a2adf3ccbf2b4978]
+## 5.2. Provable debts[^c-f265bcd288aa3cb4a2adf3ccbf2b4978]
 
 *Extent: E+W*
 
@@ -33,7 +33,7 @@ summary: ''
 
 ## Annotations
 
-[^key-f265bcd288aa3cb4a2adf3ccbf2b4978]: Commencement: Rule 5.2 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-f265bcd288aa3cb4a2adf3ccbf2b4978]: Commencement: Rule 5.2 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
 
 [^f00032]: Footnote: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29). Relevant amendments are made by paragraph 75(1) and (2) of Part 2 of Schedule 3 to the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), Part 1 of Schedule 8 and paragraphs 1 and 2 of Schedule 14 to the Serious Crime Act [2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), and paragraphs 11 and 12 of the Schedule to the Prevention of Social Housing Fraud Act [2013 (c. 3)](https://www.legislation.gov.uk/ukpga/2013/3).
 

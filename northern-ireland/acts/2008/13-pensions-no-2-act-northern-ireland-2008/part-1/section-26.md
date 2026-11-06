@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 26. Quality requirement: UK personal pension schemes[^c19557981][^key-6fea909577523d0fd9b438d74576dd3d][^key-295e4dd8d1f46032118beafb1e305989]
+## 26. Quality requirement: UK personal pension schemes[^c19557981][^c-6fea909577523d0fd9b438d74576dd3d][^c-295e4dd8d1f46032118beafb1e305989]
 
 *Extent: N.I.*
 
@@ -43,7 +43,7 @@ summary: ''
 
 (7) The fourth condition is that, in relation to the jobholder, there are direct payment arrangements (within the meaning of section 107A of the Pension Schemes Act) between the jobholder and the employer.
 
-(8)[^key-bd2f934d8147c9cbba781f2bf865c272] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-bd2f934d8147c9cbba781f2bf865c272] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) A scheme does not fail to satisfy the quality requirement under this section merely because the provider of the scheme may on any occasion refuse to accept a contribution below an amount prescribed for the purposes of this section on the grounds that it is below that amount.
 
@@ -51,8 +51,8 @@ summary: ''
 
 [^c19557981]: Commencement: S. 26 partly in force; s. 26 in force for certain purposes at Royal Assent see s. 118(2)
 
-[^key-6fea909577523d0fd9b438d74576dd3d]: Commencement: S. 26 in operation at 30.6.2012 in so far as not already in operation by [S.R. 2012/266](https://www.legislation.gov.uk/nisr/2012/266), [art. 2](https://www.legislation.gov.uk/nisr/2012/266/article/2), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2012/266/schedule/part/1)
+[^c-6fea909577523d0fd9b438d74576dd3d]: Commencement: S. 26 in operation at 30.6.2012 in so far as not already in operation by [S.R. 2012/266](https://www.legislation.gov.uk/nisr/2012/266), [art. 2](https://www.legislation.gov.uk/nisr/2012/266/article/2), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2012/266/schedule/part/1)
 
-[^key-295e4dd8d1f46032118beafb1e305989]: Modification: Pt. 1 applied (with modifications) (1.7.2012) by [The Automatic Enrolment (Offshore Employment) Order 2012 (S.I. 2012/1388)](https://www.legislation.gov.uk/uksi/2012/1388), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/1388/article/1/1), [2](https://www.legislation.gov.uk/uksi/2012/1388/article/2) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/1388/article/5))
+[^c-295e4dd8d1f46032118beafb1e305989]: Modification: Pt. 1 applied (with modifications) (1.7.2012) by [The Automatic Enrolment (Offshore Employment) Order 2012 (S.I. 2012/1388)](https://www.legislation.gov.uk/uksi/2012/1388), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/1388/article/1/1), [2](https://www.legislation.gov.uk/uksi/2012/1388/article/2) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/1388/article/5))
 
-[^key-bd2f934d8147c9cbba781f2bf865c272]: Textual amendment: S. 26(8) omitted (6.4.2012) by virtue of [The Pensions (2008 Act) (Abolition of Contracting-out for Defined Contribution Pension Schemes) (Consequential Provisions) Regulations (Northern Ireland) 2012 (S.R. 2012/120)](https://www.legislation.gov.uk/nisr/2012/120), [regs. 1(a)](https://www.legislation.gov.uk/nisr/2012/120/regulation/1/a), [3(3)](https://www.legislation.gov.uk/nisr/2012/120/regulation/3/3)
+[^c-bd2f934d8147c9cbba781f2bf865c272]: Textual amendment: S. 26(8) omitted (6.4.2012) by virtue of [The Pensions (2008 Act) (Abolition of Contracting-out for Defined Contribution Pension Schemes) (Consequential Provisions) Regulations (Northern Ireland) 2012 (S.R. 2012/120)](https://www.legislation.gov.uk/nisr/2012/120), [regs. 1(a)](https://www.legislation.gov.uk/nisr/2012/120/regulation/1/a), [3(3)](https://www.legislation.gov.uk/nisr/2012/120/regulation/3/3)

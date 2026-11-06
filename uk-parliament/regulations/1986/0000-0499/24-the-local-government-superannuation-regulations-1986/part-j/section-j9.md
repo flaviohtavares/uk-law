@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## J9. Right to reckon service[^key-96edbc7a7231ede2dd3fbc2dcb4ab7b4]
+## J9. Right to reckon service[^c-96edbc7a7231ede2dd3fbc2dcb4ab7b4]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-96edbc7a7231ede2dd3fbc2dcb4ab7b4]: Commencement: [Reg. J9](https://www.legislation.gov.uk/uksi/1986/24/regulation/J9) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-96edbc7a7231ede2dd3fbc2dcb4ab7b4]: Commencement: [Reg. J9](https://www.legislation.gov.uk/uksi/1986/24/regulation/J9) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

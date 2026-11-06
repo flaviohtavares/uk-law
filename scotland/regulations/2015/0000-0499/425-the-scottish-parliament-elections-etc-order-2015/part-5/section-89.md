@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 89. Premises used for election purposes[^key-3be088d2abd642451bce6ce1c1b3c8c1]
+## 89. Premises used for election purposes[^c-3be088d2abd642451bce6ce1c1b3c8c1]
 
 *Extent: S*
 
@@ -24,6 +24,6 @@ Section 98 of the 1983 Act[^f00052] (premises not affected for rates) shall have
 
 ## Annotations
 
-[^key-3be088d2abd642451bce6ce1c1b3c8c1]: Commencement: Art. 89 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-3be088d2abd642451bce6ce1c1b3c8c1]: Commencement: Art. 89 in force at 16.12.2015 in accordance with art. 1(1)
 
 [^f00052]: Footnote: Section 98 was repealed for England and Wales by the Local Government Finance Act [1988 (c.41)](https://www.legislation.gov.uk/ukpga/1988/41), section 149 and Schedule 13, Part 1, but that repeal does not extend to Scotland.

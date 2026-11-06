@@ -22,7 +22,7 @@ summary: ''
 
 (1) This section applies where an individual disposes of an interest in land by way of gift on or after 9th March 1999.
 
-(2) At any time in the relevant period when the donor or his spouse or civil partner[^key-49abcf37836084dae77c7199e8ecd14e] enjoys a significant right or interest, or is party to a significant arrangement, in relation to the land—
+(2) At any time in the relevant period when the donor or his spouse or civil partner[^c-49abcf37836084dae77c7199e8ecd14e] enjoys a significant right or interest, or is party to a significant arrangement, in relation to the land—
 
 - (a) the interest disposed of is referred to (in relation to the gift and the donor) as property subject to a reservation; and
 - (b) section 102(3) and (4) above shall apply.
@@ -42,4 +42,4 @@ summary: ''
 
 [^c13534011]: Textual amendment: Ss. 102A, 102B, 102C inserted (27.7.1999) by [1999 c. 16](https://www.legislation.gov.uk/ukpga/1999/16), [s. 104](https://www.legislation.gov.uk/ukpga/1999/16/section/104)
 
-[^key-49abcf37836084dae77c7199e8ecd14e]: Textual amendment: Words in s. 102A(2) inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [45](https://www.legislation.gov.uk/uksi/2005/3229/regulation/45)
+[^c-49abcf37836084dae77c7199e8ecd14e]: Textual amendment: Words in s. 102A(2) inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [45](https://www.legislation.gov.uk/uksi/2005/3229/regulation/45)

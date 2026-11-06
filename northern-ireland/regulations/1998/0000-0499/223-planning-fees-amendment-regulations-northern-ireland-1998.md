@@ -30,7 +30,7 @@ summary: ''
 
 PLANNING
 
-Planning (Fees) (Amendment) Regulations (Northern Ireland) 1998 (revoked)[^key-45e2d7438c58ec593c59db6a30bc9fda]
+Planning (Fees) (Amendment) Regulations (Northern Ireland) 1998 (revoked)[^c-45e2d7438c58ec593c59db6a30bc9fda]
 
 Made
 
@@ -40,24 +40,24 @@ Coming into operation
 
 1st August 1998
 
-[^key-45e2d7438c58ec593c59db6a30bc9fda]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-45e2d7438c58ec593c59db6a30bc9fda]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-45e2d7438c58ec593c59db6a30bc9fda]
+## 1. Citation and commencement[^c-45e2d7438c58ec593c59db6a30bc9fda]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Planning (Fees) Regulations (Northern Ireland) 1995[^key-45e2d7438c58ec593c59db6a30bc9fda]
+## 2. Amendment of the Planning (Fees) Regulations (Northern Ireland) 1995[^c-45e2d7438c58ec593c59db6a30bc9fda]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-45e2d7438c58ec593c59db6a30bc9fda]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-45e2d7438c58ec593c59db6a30bc9fda]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-45e2d7438c58ec593c59db6a30bc9fda]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-45e2d7438c58ec593c59db6a30bc9fda]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-45e2d7438c58ec593c59db6a30bc9fda]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/223) revoked (18.5.2005) by [(S.R. 2005/222)](https://www.legislation.gov.uk/nisr/2005/222), [reg. 1](https://www.legislation.gov.uk/nisr/2005/222/regulation/1), [Sch. 3](https://www.legislation.gov.uk/nisr/2005/222/schedule/3)
+[^c-45e2d7438c58ec593c59db6a30bc9fda]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/223) revoked (18.5.2005) by [(S.R. 2005/222)](https://www.legislation.gov.uk/nisr/2005/222), [reg. 1](https://www.legislation.gov.uk/nisr/2005/222/regulation/1), [Sch. 3](https://www.legislation.gov.uk/nisr/2005/222/schedule/3)

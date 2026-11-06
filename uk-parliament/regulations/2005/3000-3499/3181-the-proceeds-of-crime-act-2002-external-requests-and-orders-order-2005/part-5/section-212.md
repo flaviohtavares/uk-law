@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 212. Northern Ireland courts[^key-3061b6cf48b1c29481b3012f528b31ee]
+## 212. Northern Ireland courts[^c-3061b6cf48b1c29481b3012f528b31ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In relation to the practice and procedure of courts in Northern Ireland, express
 
 ## Annotations
 
-[^key-3061b6cf48b1c29481b3012f528b31ee]: Commencement: [Art. 212](https://www.legislation.gov.uk/uksi/2005/3181/article/212) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-3061b6cf48b1c29481b3012f528b31ee]: Commencement: [Art. 212](https://www.legislation.gov.uk/uksi/2005/3181/article/212) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

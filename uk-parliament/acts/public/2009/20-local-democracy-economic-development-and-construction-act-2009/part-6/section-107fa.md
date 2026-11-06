@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107FA. The “eligibility” and “transfer” conditions[^key-9c97b145a03fd264ecfc23033399fbdd]
+## 107FA. The “eligibility” and “transfer” conditions[^c-9c97b145a03fd264ecfc23033399fbdd]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ In this case, the authority meets the eligibility condition in relation to each 
 
 ## Annotations
 
-[^key-9c97b145a03fd264ecfc23033399fbdd]: Textual amendment: S. 107FA inserted (29.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 46(2)](https://www.legislation.gov.uk/ukpga/2026/23/section/46/2), [108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-9c97b145a03fd264ecfc23033399fbdd]: Textual amendment: S. 107FA inserted (29.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 46(2)](https://www.legislation.gov.uk/ukpga/2026/23/section/46/2), [108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))

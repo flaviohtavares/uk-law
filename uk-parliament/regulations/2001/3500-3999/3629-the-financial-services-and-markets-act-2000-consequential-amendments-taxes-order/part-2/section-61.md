@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Introduction[^key-2350b436c5cf4c352a4c43b8de27f9b4]
+## 61. Introduction[^c-2350b436c5cf4c352a4c43b8de27f9b4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Amend the Taxation of Chargeable Gains Act 1992 in accordance with Articles 62 t
 
 ## Annotations
 
-[^key-2350b436c5cf4c352a4c43b8de27f9b4]: Commencement: Art. 61 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-2350b436c5cf4c352a4c43b8de27f9b4]: Commencement: Art. 61 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)

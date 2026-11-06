@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 265. Stop notices[^key-c9167baf6261fc36db4d96512c7da492]
+## 265. Stop notices[^c-c9167baf6261fc36db4d96512c7da492]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,7 +50,7 @@ summary: ''
 
 ## Annotations
 
-[^key-c9167baf6261fc36db4d96512c7da492]: Commencement: Reg. 265 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-c9167baf6261fc36db4d96512c7da492]: Commencement: Reg. 265 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
 
 [^f00073]: Footnote: See section 2(6) of the Space Industry Act 2018 for the definition of “spacecraft”.
 

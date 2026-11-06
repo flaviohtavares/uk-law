@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 108. False and misleading information[^key-c5fbbf546c115a4ecc60eaf9cb2c23f3]
+## 108. False and misleading information[^c-c5fbbf546c115a4ecc60eaf9cb2c23f3]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c5fbbf546c115a4ecc60eaf9cb2c23f3]: Commencement: S. 108 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-c5fbbf546c115a4ecc60eaf9cb2c23f3]: Commencement: S. 108 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

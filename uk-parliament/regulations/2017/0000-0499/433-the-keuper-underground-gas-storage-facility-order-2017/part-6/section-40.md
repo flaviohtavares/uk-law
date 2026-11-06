@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40. Arbitration[^key-a38a84a085733f0365232c18b8032c36]
+## 40. Arbitration[^c-a38a84a085733f0365232c18b8032c36]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Without prejudice to article 38 (appeals relating to decisions under requirement
 
 ## Annotations
 
-[^key-a38a84a085733f0365232c18b8032c36]: Commencement: Art. 40 in force at 5.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/433/article/1)
+[^c-a38a84a085733f0365232c18b8032c36]: Commencement: Art. 40 in force at 5.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/433/article/1)

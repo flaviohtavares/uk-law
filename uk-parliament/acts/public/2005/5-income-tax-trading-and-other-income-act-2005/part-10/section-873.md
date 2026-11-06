@@ -28,12 +28,12 @@ summary: ''
 
 - (a) section 86 (meaning of “urban regeneration company”),
 - (b) section 724 (purchased life annuity payments),
-- (ba)[^key-d59a86b96554db2f0a555abc6609b0da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (ba)[^c-d59a86b96554db2f0a555abc6609b0da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) section 774 (income from securities issued by designated international organisations),
 - (ca)[^M_F_ad113d78-0f97-47aa-d612-4141eb908585] section 828A (qualifying care relief: indexation of amounts), or
 - (d) section 883(5) (transitional or saving provision).
 
-(4)[^key-1484b27012c8ffeefe8fcea139b5f7b0][^key-84ac8cb776d068978db66f56212da124] Further, subsection (2) does not apply if any other Parliamentary procedure is expressly provided to apply in relation to the order or regulations.
+(4)[^c-1484b27012c8ffeefe8fcea139b5f7b0][^c-84ac8cb776d068978db66f56212da124] Further, subsection (2) does not apply if any other Parliamentary procedure is expressly provided to apply in relation to the order or regulations.
 
 ## Annotations
 
@@ -41,10 +41,10 @@ summary: ''
 
 [^c19151791]: Textual amendment: Words in s. 873(1)(2) substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [ss. 50](https://www.legislation.gov.uk/ukpga/2005/11/section/50), [53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 132(2)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/132/2); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
 
-[^key-d59a86b96554db2f0a555abc6609b0da]: Textual amendment: [S. 873(3)(ba)](https://www.legislation.gov.uk/ukpga/2005/5/section/873/3/ba) omitted (with effect in accordance with s. 20(12) of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 20(5)](https://www.legislation.gov.uk/ukpga/2025/8/section/20/5)[(12)](https://www.legislation.gov.uk/ukpga/2025/8/section/20/12)
+[^c-d59a86b96554db2f0a555abc6609b0da]: Textual amendment: [S. 873(3)(ba)](https://www.legislation.gov.uk/ukpga/2005/5/section/873/3/ba) omitted (with effect in accordance with s. 20(12) of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 20(5)](https://www.legislation.gov.uk/ukpga/2025/8/section/20/5)[(12)](https://www.legislation.gov.uk/ukpga/2025/8/section/20/12)
 
 [^M_F_ad113d78-0f97-47aa-d612-4141eb908585]: Textual amendment: S. 873(3)(ca) inserted (6.4.2023 for the tax year 2023-24 and subsequent tax years) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 28(5)](https://www.legislation.gov.uk/ukpga/2023/30/section/28/5)[(6)](https://www.legislation.gov.uk/ukpga/2023/30/section/28/6)
 
-[^key-1484b27012c8ffeefe8fcea139b5f7b0]: Modification: S. 873(4) excluded by 2009 c. 10, Sch. 19 para. 14(3) (as inserted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 66(3)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/66/3))
+[^c-1484b27012c8ffeefe8fcea139b5f7b0]: Modification: S. 873(4) excluded by 2009 c. 10, Sch. 19 para. 14(3) (as inserted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 66(3)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/66/3))
 
-[^key-84ac8cb776d068978db66f56212da124]: Textual amendment: S. 873(4) inserted (with effect in accordance with Sch. 19 para. 14 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 19 para. 8](https://www.legislation.gov.uk/ukpga/2009/10/schedule/19/paragraph/8)
+[^c-84ac8cb776d068978db66f56212da124]: Textual amendment: S. 873(4) inserted (with effect in accordance with Sch. 19 para. 14 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 19 para. 8](https://www.legislation.gov.uk/ukpga/2009/10/schedule/19/paragraph/8)

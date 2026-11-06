@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Remuneration of qualified auditors[^key-ac1a467bb26b5bdd459c77d611678769]
+## 97. Remuneration of qualified auditors[^c-ac1a467bb26b5bdd459c77d611678769]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ remuneration in excess of the rate prescribed by the regulations in respect of t
 
 ## Annotations
 
-[^key-ac1a467bb26b5bdd459c77d611678769]: Modification: S. 97 modified by 1974 c. 46, s. 40(3) (as amended (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 26](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/26) (with [Sch. 5)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-ac1a467bb26b5bdd459c77d611678769]: Modification: S. 97 modified by 1974 c. 46, s. 40(3) (as amended (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 26](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/26) (with [Sch. 5)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))

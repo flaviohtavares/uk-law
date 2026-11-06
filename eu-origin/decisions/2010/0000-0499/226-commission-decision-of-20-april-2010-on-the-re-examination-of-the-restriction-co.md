@@ -39,14 +39,14 @@ on the re-examination of the restriction concerning short-chain chlorinated para
 
 (2010/226/EU) (revoked)
 
-[^key-bae18bba981a6d2cc94e1c7c86bad82c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bae18bba981a6d2cc94e1c7c86bad82c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-bae18bba981a6d2cc94e1c7c86bad82c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-bae18bba981a6d2cc94e1c7c86bad82c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-bae18bba981a6d2cc94e1c7c86bad82c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-bae18bba981a6d2cc94e1c7c86bad82c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bae18bba981a6d2cc94e1c7c86bad82c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bae18bba981a6d2cc94e1c7c86bad82c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bae18bba981a6d2cc94e1c7c86bad82c]: Textual amendment: Decision revoked (31.12.2020) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 8 para. 1(f)](https://www.legislation.gov.uk/uksi/2019/758/schedule/8/paragraph/1/f); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bae18bba981a6d2cc94e1c7c86bad82c]: Textual amendment: Decision revoked (31.12.2020) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 8 para. 1(f)](https://www.legislation.gov.uk/uksi/2019/758/schedule/8/paragraph/1/f); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 12.1. Hearings conducted as directed by the court[^key-a4b6723498f8dba6c6b704e80613dc43]
+## 12.1. Hearings conducted as directed by the court[^c-a4b6723498f8dba6c6b704e80613dc43]
 
 *Extent: E*
 
@@ -24,4 +24,4 @@ Subject to the provisions of this Part and the overriding objective, hearings ar
 
 ## Annotations
 
-[^key-a4b6723498f8dba6c6b704e80613dc43]: Commencement: [Rule 12.1](https://www.legislation.gov.uk/uksi/2015/1568/article/12.1) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-a4b6723498f8dba6c6b704e80613dc43]: Commencement: [Rule 12.1](https://www.legislation.gov.uk/uksi/2015/1568/article/12.1) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

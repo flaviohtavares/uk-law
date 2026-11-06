@@ -508,7 +508,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 - [Section 194 — Strategic litigation against public participation: requirement to make rules of court](part-5/section-194.md)
 - [Section 195 — Meaning of “SLAPP” claim](part-5/section-195.md)
 
-#### ...[^key-f6042e600b1fd17840efdc2ee470dbe9]
+#### ...[^c-f6042e600b1fd17840efdc2ee470dbe9]
 
 *Extent: E+W+S+N.I.*
 
@@ -594,4 +594,4 @@ SCHEDULES
 
 ## Annotations
 
-[^key-f6042e600b1fd17840efdc2ee470dbe9]: Textual amendment: [S. 196 198 and cross-heading](https://www.legislation.gov.uk/ukpga/2023/56/part/5/crossheading/attributing-criminal-liability-for-economic-crimes-to-certain-bodies) omitted (29.6.2026) by virtue of [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 250(7)(a)](https://www.legislation.gov.uk/ukpga/2026/20/section/250/7/a), [255(3)(k)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/k)
+[^c-f6042e600b1fd17840efdc2ee470dbe9]: Textual amendment: [S. 196 198 and cross-heading](https://www.legislation.gov.uk/ukpga/2023/56/part/5/crossheading/attributing-criminal-liability-for-economic-crimes-to-certain-bodies) omitted (29.6.2026) by virtue of [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 250(7)(a)](https://www.legislation.gov.uk/ukpga/2026/20/section/250/7/a), [255(3)(k)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/k)

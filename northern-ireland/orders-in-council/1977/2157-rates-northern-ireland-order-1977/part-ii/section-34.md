@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 34. Payments to district councils on account of district rates[^key-d1d0c3e464549535a82201de44f8ce22]
+## 34. Payments to district councils on account of district rates[^c-d1d0c3e464549535a82201de44f8ce22]
 
 *Extent: N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d1d0c3e464549535a82201de44f8ce22]: Modification: Art. 34 modified (with effect in accordance with art. 4(1) of the amending Rule) by [The Local Government (Boundaries) (2008 Act) (Commencement, Transitional Provision and Savings) Order (Northern Ireland) 2013 (S.R. 2013/238)](https://www.legislation.gov.uk/nisr/2013/238), [art. 4(3)](https://www.legislation.gov.uk/nisr/2013/238/article/4/3)
+[^c-d1d0c3e464549535a82201de44f8ce22]: Modification: Art. 34 modified (with effect in accordance with art. 4(1) of the amending Rule) by [The Local Government (Boundaries) (2008 Act) (Commencement, Transitional Provision and Savings) Order (Northern Ireland) 2013 (S.R. 2013/238)](https://www.legislation.gov.uk/nisr/2013/238), [art. 4(3)](https://www.legislation.gov.uk/nisr/2013/238/article/4/3)
 
 [^c16884011]: Textual amendment: [1998 NI 22](https://www.legislation.gov.uk/nisi/1998)

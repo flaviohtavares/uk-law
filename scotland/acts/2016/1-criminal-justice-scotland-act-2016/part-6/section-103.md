@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 103. Duty to ensure quality assessment takes place[^key-f018264548d88f71d4775a9d02433f3c]
+## 103. Duty to ensure quality assessment takes place[^c-f018264548d88f71d4775a9d02433f3c]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ If, by virtue of regulations under section 99, a person has the function of ensu
 
 ## Annotations
 
-[^key-f018264548d88f71d4775a9d02433f3c]: Commencement: [S. 103](https://www.legislation.gov.uk/asp/2016/1/section/103) in force at 10.1.2020 by [S.S.I. 2019/363](https://www.legislation.gov.uk/ssi/2019/363), [art. 3(c)](https://www.legislation.gov.uk/ssi/2019/363/article/3/c)
+[^c-f018264548d88f71d4775a9d02433f3c]: Commencement: [S. 103](https://www.legislation.gov.uk/asp/2016/1/section/103) in force at 10.1.2020 by [S.S.I. 2019/363](https://www.legislation.gov.uk/ssi/2019/363), [art. 3(c)](https://www.legislation.gov.uk/ssi/2019/363/article/3/c)

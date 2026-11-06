@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. The Quality Schemes (Agricultural Products and Foodstuffs) Regulations 2018[^key-98df27964606690d3370ae0f9bb174b6]
+## 15. The Quality Schemes (Agricultural Products and Foodstuffs) Regulations 2018[^c-98df27964606690d3370ae0f9bb174b6]
 
 *Extent: N.I.*
 
@@ -82,4 +82,4 @@ summary: ''
 
 ## Annotations
 
-[^key-98df27964606690d3370ae0f9bb174b6]: Commencement: Reg. 15 in force at 31.12.2020, see reg. 1(7)
+[^c-98df27964606690d3370ae0f9bb174b6]: Commencement: Reg. 15 in force at 31.12.2020, see reg. 1(7)

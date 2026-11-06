@@ -49,13 +49,13 @@ The Welsh Ministers have had regard to relevant advice given by the Food Standar
 
 There has been consultation as required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00008] during the preparation and evaluation of the following Regulations.
 
-## 1. Title, application and commencement[^key-fb8761b4d156de930e34cee16d480094]
+## 1. Title, application and commencement[^c-fb8761b4d156de930e34cee16d480094]
 
 (1) The title of these Regulations is the Products Containing Meat etc. (Wales) Regulations 2014.
 
 (2) These Regulations apply in relation to Wales and come into force on 13 December 2014.
 
-## 2. Interpretation[^key-a8984acd508c68abceb5592462a23a9a]
+## 2. Interpretation[^c-a8984acd508c68abceb5592462a23a9a]
 
 In these Regulations—
 
@@ -70,29 +70,29 @@ In these Regulations—
 - “sell” (“*gwerthu*”) includes offer or expose for sale and includes have in possession for sale;
 - “uncooked” (*“heb ei goginio*”), in relation to a food, means a food that has not been subjected to a process of cooking throughout the whole food so that the food is sold on the basis that it will need further cooking before consumption.
 
-## 3. Scope[^key-e06fc6c208675cf1e56d763dfd8ce187]
+## 3. Scope[^c-e06fc6c208675cf1e56d763dfd8ce187]
 
-(1) Subject to paragraph (2)[^key-1a0262553d4fbaadca984f55fc380108], these Regulations apply to food that is ready for delivery to the final consumer or to a mass caterer.
+(1) Subject to paragraph (2)[^c-1a0262553d4fbaadca984f55fc380108], these Regulations apply to food that is ready for delivery to the final consumer or to a mass caterer.
 
 (2) These Regulations do not apply in respect of any food—
 
 - (a) that is not intended for sale for human consumption; or
 - (b) to which the Processed Cereal-based Foods and Baby Foods for Infants and Young Children (Wales) Regulations 2004[^f00011] apply.
 
-(3)[^key-b9d6c01898b6a26b11e3d717212ccb30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-b9d6c01898b6a26b11e3d717212ccb30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In this regulation—
 
 - “final consumer” (“*defnyddiwr terfynol*”) has the meaning given in point 18 of Article 3 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety; and
 - “mass caterer” (“*arlwywr mawr*”) has the meaning given in Article 2(2)(d) of FIC.
 
-## 4. Restrictions on the use of certain names[^key-2148fc408b6df035a2dc4678de527851]
+## 4. Restrictions on the use of certain names[^c-2148fc408b6df035a2dc4678de527851]
 
 (1) No person may sell or advertise a regulated product using a name that appears in column 1 of the table in Schedule 1 as the name of the food, whether or not qualified by other words, unless the food complies with the appropriate requirements in columns 2 and 3 of that table.
 
 (2) No person may sell or advertise a food using a name that appears in column 1 of the table in Schedule 1, whether or not qualified by other words, in such a way as to suggest, either expressly or by implication, that the product designated by that name is an ingredient of the food, unless that product is an ingredient of the food and that product complied with the appropriate requirements in columns 2 and 3 of the table in Schedule 1 at the time it was used as an ingredient in the preparation of food.
 
-## 5. Parts of the carcase in uncooked regulated products[^key-b3705aa714abbb7e5b50c6ed404993c7]
+## 5. Parts of the carcase in uncooked regulated products[^c-b3705aa714abbb7e5b50c6ed404993c7]
 
 (1) Subject to paragraph (3), no person may sell an uncooked regulated product if any part of a carcase specified in paragraph (2) has been used as an ingredient in the preparation of that product.
 
@@ -102,11 +102,11 @@ In these Regulations—
 
 (4) In this regulation “sausage” (“*selsig*”) includes chipolata, frankfurter, link, salami and any similar product.
 
-## 6. Enforcement[^key-8a1d52fb33bce9748a4a1308868d030f]
+## 6. Enforcement[^c-8a1d52fb33bce9748a4a1308868d030f]
 
 It is the duty of a food authority within its area and a port health authority within its district to enforce these Regulations.
 
-## 7. Application of provisions of the Act[^key-e7e0cf78b49bddd329ea5f12a8e9420c]
+## 7. Application of provisions of the Act[^c-e7e0cf78b49bddd329ea5f12a8e9420c]
 
 (1) Subsections (1) and (2) of section 10 of the Act (improvement notices) apply for the purposes of these Regulations with the following modification.
 
@@ -141,7 +141,7 @@ It is the duty of a food authority within its area and a port health authority w
 
 (5) The provisions of the Act specified in column 1 of the table in Schedule 2 apply for the purposes of these Regulations with the modifications specified in column 2 of that table.
 
-## 8. Revocations[^key-9497a0c6d5bd8a6c6aee0a6f04e013ab]
+## 8. Revocations[^c-9497a0c6d5bd8a6c6aee0a6f04e013ab]
 
 (1) The following Regulations are revoked—
 
@@ -150,7 +150,7 @@ It is the duty of a food authority within its area and a port health authority w
 
 (2) The entry relating to the Meat Products (Wales) Regulations 2004 in the table in Part 4 of the Schedule to the Treaty of Lisbon (Changes in Terminology or Numbering) Order 2012[^f00014] is revoked.
 
-## 9. Consequential amendments[^key-c44e51adb739ecc0319df85eaad894d5]
+## 9. Consequential amendments[^c-c44e51adb739ecc0319df85eaad894d5]
 
 Schedule 3 has effect.
 
@@ -160,11 +160,11 @@ Minister for Health and Social Services, one of the Welsh Ministers
 
 18 November 2014
 
-## SCHEDULE 1 — Reserved descriptions[^key-18907797690ef54f31de7f9ab50b842b]
+## SCHEDULE 1 — Reserved descriptions[^c-18907797690ef54f31de7f9ab50b842b]
 
 Regulation 4
 
-[^key-18907797690ef54f31de7f9ab50b842b]
+[^c-18907797690ef54f31de7f9ab50b842b]
 
 In this Schedule—
 
@@ -172,7 +172,7 @@ In this Schedule—
 - “curing salt” (“*halen halltu*”) means—
   - (a) sodium chloride, if used in sufficient quantity to have a significant preserving effect on the product;
   - (b) potassium chloride, if used in sufficient quantity to have a significant preserving effect on the product;
-  - (c) a combination of any of sodium chloride, potassium chloride, sodium nitrate, potassium nitrate and sodium nitrite as authorised for use in accordance with[^key-f086d7ab917dac461a0fb4f507d7e2d5] Regulation[^key-43ace94279a23aa508a24ff407562f9b] [(EC) No 1333/2008](https://www.legislation.gov.uk/european/regulation/2008/1333) of the European Parliament and of the Council on food additives [^key-eaa6133db8c801d852adcecc5d36a164]..., except a combination of sodium chloride and potassium chloride; or
+  - (c) a combination of any of sodium chloride, potassium chloride, sodium nitrate, potassium nitrate and sodium nitrite as authorised for use in accordance with[^c-f086d7ab917dac461a0fb4f507d7e2d5] Regulation[^c-43ace94279a23aa508a24ff407562f9b] [(EC) No 1333/2008](https://www.legislation.gov.uk/european/regulation/2008/1333) of the European Parliament and of the Council on food additives [^c-eaa6133db8c801d852adcecc5d36a164]..., except a combination of sodium chloride and potassium chloride; or
   - (d) a combination of sodium chloride and potassium chloride, if used in sufficient quantity to have a significant preserving effect on the food.
 
     <table>
@@ -211,7 +211,7 @@ In this Schedule—
     </tbody>
     </table>
 
-## SCHEDULE 2 — Application and modification of other provisions of the Act[^key-2ca412bed11e819f40cb4b0edcc95097]
+## SCHEDULE 2 — Application and modification of other provisions of the Act[^c-2ca412bed11e819f40cb4b0edcc95097]
 
 Regulation 7
 
@@ -239,11 +239,11 @@ Regulation 7
 
 Regulation 9
 
-### 1. Healthy Eating in Schools (Nutritional Standards and Requirements) (Wales) Regulations 2013[^key-a8ccef7ad652ae3687fa3c2d8f90a94a]
+### 1. Healthy Eating in Schools (Nutritional Standards and Requirements) (Wales) Regulations 2013[^c-a8ccef7ad652ae3687fa3c2d8f90a94a]
 
 The Healthy Eating in Schools (Nutritional Standards and Requirements) (Wales) Regulations 2013[^f00019] are amended as follows.
 
-**2.**[^key-0f58a7b4ff68a1d163e2bc839f88c563] In regulation 2(1) (interpretation)—
+**2.**[^c-0f58a7b4ff68a1d163e2bc839f88c563] In regulation 2(1) (interpretation)—
 
 - (a) omit the definition of “meat product” (“*cynnyrch cig*”);
 - (b) for the definition of the “Meat Products Regulations” (“*Rheoliadau Cynhyrchion Cig*”) substitute—
@@ -257,7 +257,7 @@ The Healthy Eating in Schools (Nutritional Standards and Requirements) (Wales) R
 
   .
 
-**3.**[^key-1785d3dfc6540fb182f85626a73a41f3] In Schedule 3, in paragraph 8—
+**3.**[^c-1785d3dfc6540fb182f85626a73a41f3] In Schedule 3, in paragraph 8—
 
 - (a) in sub-paragraph (1) for “meat products” substitute, “products containing meat”;
 - (b) in sub-paragraph (2) for “meat product” substitute, “product containing meat”;
@@ -312,31 +312,31 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00008]: Footnote: OJ No L 31, 1.2.2002, p 1, last amended by Regulation (EU) No 652/2014 of the European Parliament and of the Council (OJ No L 189, 27.6.2014, p. 1).
 
-[^key-fb8761b4d156de930e34cee16d480094]: Commencement: Reg. 1 in force at 13.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3087/regulation/1/2)
+[^c-fb8761b4d156de930e34cee16d480094]: Commencement: Reg. 1 in force at 13.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3087/regulation/1/2)
 
-[^key-a8984acd508c68abceb5592462a23a9a]: Commencement: Reg. 2 in force at 13.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3087/regulation/1/2)
+[^c-a8984acd508c68abceb5592462a23a9a]: Commencement: Reg. 2 in force at 13.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3087/regulation/1/2)
 
 [^f00009]: Footnote: OJ No L 304, 22.11.2011, p. 18, last amended by Commission Delegated Regulation (EU) No 78/2014 (OJ No L 27, 30.1.2014, p. 7).
 
 [^f00010]: Footnote: OJ No L 139, 30.4.2004, p. 55, last amended by Commission Regulation (EU) No 633/2014 (OJ No L 175, 14.6.2014, p. 6).
 
-[^key-e06fc6c208675cf1e56d763dfd8ce187]: Commencement: Reg. 3 in force at 13.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3087/regulation/1/2)
+[^c-e06fc6c208675cf1e56d763dfd8ce187]: Commencement: Reg. 3 in force at 13.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3087/regulation/1/2)
 
-[^key-1a0262553d4fbaadca984f55fc380108]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/wsi/2014/3087/regulation/3/1) substituted (3.3.2022) by [The Food (Withdrawal of Recognition) (Miscellaneous Amendments and Transitional Provisions) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/112)](https://www.legislation.gov.uk/wsi/2022/112), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/112/regulation/1/2), [6(a)](https://www.legislation.gov.uk/wsi/2022/112/regulation/6/a) (with [reg. 7](https://www.legislation.gov.uk/wsi/2022/112/regulation/7))
+[^c-1a0262553d4fbaadca984f55fc380108]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/wsi/2014/3087/regulation/3/1) substituted (3.3.2022) by [The Food (Withdrawal of Recognition) (Miscellaneous Amendments and Transitional Provisions) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/112)](https://www.legislation.gov.uk/wsi/2022/112), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/112/regulation/1/2), [6(a)](https://www.legislation.gov.uk/wsi/2022/112/regulation/6/a) (with [reg. 7](https://www.legislation.gov.uk/wsi/2022/112/regulation/7))
 
 [^f00011]: Footnote: [S.I. 2004/314 (W. 32)](https://www.legislation.gov.uk/wsi/2004/314), amended by [S.I. 2005/3254 (W. 247)](https://www.legislation.gov.uk/wsi/2005/3254), [3111 (W. 231)](https://www.legislation.gov.uk/wsi/2005/3111), [2007/2753 (W. 232)](https://www.legislation.gov.uk/wsi/2007/2753), [2011/2131](https://www.legislation.gov.uk/uksi/2011/2131).
 
-[^key-b9d6c01898b6a26b11e3d717212ccb30]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/wsi/2014/3087/regulation/3/3) omitted (3.3.2022) by virtue of [The Food (Withdrawal of Recognition) (Miscellaneous Amendments and Transitional Provisions) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/112)](https://www.legislation.gov.uk/wsi/2022/112), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/112/regulation/1/2), [6(b)](https://www.legislation.gov.uk/wsi/2022/112/regulation/6/b) (with [reg. 7](https://www.legislation.gov.uk/wsi/2022/112/regulation/7))
+[^c-b9d6c01898b6a26b11e3d717212ccb30]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/wsi/2014/3087/regulation/3/3) omitted (3.3.2022) by virtue of [The Food (Withdrawal of Recognition) (Miscellaneous Amendments and Transitional Provisions) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/112)](https://www.legislation.gov.uk/wsi/2022/112), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/112/regulation/1/2), [6(b)](https://www.legislation.gov.uk/wsi/2022/112/regulation/6/b) (with [reg. 7](https://www.legislation.gov.uk/wsi/2022/112/regulation/7))
 
-[^key-2148fc408b6df035a2dc4678de527851]: Commencement: Reg. 4 in force at 13.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3087/regulation/1/2)
+[^c-2148fc408b6df035a2dc4678de527851]: Commencement: Reg. 4 in force at 13.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3087/regulation/1/2)
 
-[^key-b3705aa714abbb7e5b50c6ed404993c7]: Commencement: Reg. 5 in force at 13.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3087/regulation/1/2)
+[^c-b3705aa714abbb7e5b50c6ed404993c7]: Commencement: Reg. 5 in force at 13.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3087/regulation/1/2)
 
-[^key-8a1d52fb33bce9748a4a1308868d030f]: Commencement: Reg. 6 in force at 13.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3087/regulation/1/2)
+[^c-8a1d52fb33bce9748a4a1308868d030f]: Commencement: Reg. 6 in force at 13.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3087/regulation/1/2)
 
-[^key-e7e0cf78b49bddd329ea5f12a8e9420c]: Commencement: Reg. 7 in force at 13.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3087/regulation/1/2)
+[^c-e7e0cf78b49bddd329ea5f12a8e9420c]: Commencement: Reg. 7 in force at 13.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3087/regulation/1/2)
 
-[^key-9497a0c6d5bd8a6c6aee0a6f04e013ab]: Commencement: Reg. 8 in force at 13.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3087/regulation/1/2)
+[^c-9497a0c6d5bd8a6c6aee0a6f04e013ab]: Commencement: Reg. 8 in force at 13.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3087/regulation/1/2)
 
 [^f00012]: Footnote: [S.I. 2004/1396 (W. 141)](https://www.legislation.gov.uk/wsi/2004/1396), as amended by [S.I. 2008/713 (W. 74)](https://www.legislation.gov.uk/wsi/2008/713)., [2012/1809](https://www.legislation.gov.uk/uksi/2012/1809).
 
@@ -344,17 +344,17 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00014]: Footnote: [S.I. 2012/1809](https://www.legislation.gov.uk/uksi/2012/1809), to which there are amendments not relevant to these Regulations.
 
-[^key-c44e51adb739ecc0319df85eaad894d5]: Commencement: Reg. 9 in force at 13.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3087/regulation/1/2)
+[^c-c44e51adb739ecc0319df85eaad894d5]: Commencement: Reg. 9 in force at 13.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3087/regulation/1/2)
 
-[^key-18907797690ef54f31de7f9ab50b842b]: Commencement: Sch. 1 in force at 13.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3087/regulation/1/2)
+[^c-18907797690ef54f31de7f9ab50b842b]: Commencement: Sch. 1 in force at 13.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3087/regulation/1/2)
 
-[^key-f086d7ab917dac461a0fb4f507d7e2d5]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/wsi/2014/3087/schedule/1) inserted (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 11 para. 5(2)(b)(i)](https://www.legislation.gov.uk/uksi/2025/361/schedule/11/paragraph/5/2/b/i)
+[^c-f086d7ab917dac461a0fb4f507d7e2d5]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/wsi/2014/3087/schedule/1) inserted (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 11 para. 5(2)(b)(i)](https://www.legislation.gov.uk/uksi/2025/361/schedule/11/paragraph/5/2/b/i)
 
-[^key-43ace94279a23aa508a24ff407562f9b]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/wsi/2014/3087/schedule/1) substituted (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [26](https://www.legislation.gov.uk/wsi/2018/806/regulation/26)
+[^c-43ace94279a23aa508a24ff407562f9b]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/wsi/2014/3087/schedule/1) substituted (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [26](https://www.legislation.gov.uk/wsi/2018/806/regulation/26)
 
-[^key-eaa6133db8c801d852adcecc5d36a164]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/wsi/2014/3087/schedule/1) omitted (1.4.2025) by virtue of [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 11 para. 5(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/361/schedule/11/paragraph/5/2/b/ii)
+[^c-eaa6133db8c801d852adcecc5d36a164]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/wsi/2014/3087/schedule/1) omitted (1.4.2025) by virtue of [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 11 para. 5(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/361/schedule/11/paragraph/5/2/b/ii)
 
-[^key-2ca412bed11e819f40cb4b0edcc95097]: Commencement: Sch. 2 in force at 13.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3087/regulation/1/2)
+[^c-2ca412bed11e819f40cb4b0edcc95097]: Commencement: Sch. 2 in force at 13.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3087/regulation/1/2)
 
 [^f00016]: Footnote: Section 2 was amended by paragraph 8 of Schedule 5 to the Food Standards Act 1999.
 
@@ -362,10 +362,10 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00018]: Footnote: Section 36A was inserted by paragraph 16 of Schedule 5 to the Food Standards Act 1999.
 
-[^key-a8ccef7ad652ae3687fa3c2d8f90a94a]: Commencement: Sch. 3 para. 1 in force at 13.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3087/regulation/1/2)
+[^c-a8ccef7ad652ae3687fa3c2d8f90a94a]: Commencement: Sch. 3 para. 1 in force at 13.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3087/regulation/1/2)
 
 [^f00019]: Footnote: Healthy Eating in Schools (Nutritional Standards and Requirements) (Wales) Regulations 2013 ([S.I. 2013/1984 (W. 194)](https://www.legislation.gov.uk/wsi/2013/1984)).
 
-[^key-0f58a7b4ff68a1d163e2bc839f88c563]: Commencement: Sch. 3 para. 2 in force at 13.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3087/regulation/1/2)
+[^c-0f58a7b4ff68a1d163e2bc839f88c563]: Commencement: Sch. 3 para. 2 in force at 13.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3087/regulation/1/2)
 
-[^key-1785d3dfc6540fb182f85626a73a41f3]: Commencement: Sch. 3 para. 3 in force at 13.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3087/regulation/1/2)
+[^c-1785d3dfc6540fb182f85626a73a41f3]: Commencement: Sch. 3 para. 3 in force at 13.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3087/regulation/1/2)

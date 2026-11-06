@@ -20,12 +20,12 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-8f4dbbbfad904721856e167bde8c9291] Regulations may make provision—
+(1)[^c-8f4dbbbfad904721856e167bde8c9291] Regulations may make provision—
 
 - (a) for, or in connection with, implementing the strategy;
-- (b) for, or in connection with [^key-262aea448543861bbb2390a442fe3110]...—
-  - (i)[^key-02bda7317a2ba297ec5f8ca23abfeb02] securing that any assimilated[^key-c50345df72c2fbc5cb56394699a53646] obligation is met, or
-  - (ii) the implementation of any[^key-458f3856f24a016e81e024a9760759f5] international agreements to which the United Kingdom is for the time being a party,
+- (b) for, or in connection with [^c-262aea448543861bbb2390a442fe3110]...—
+  - (i)[^c-02bda7317a2ba297ec5f8ca23abfeb02] securing that any assimilated[^c-c50345df72c2fbc5cb56394699a53646] obligation is met, or
+  - (ii) the implementation of any[^c-458f3856f24a016e81e024a9760759f5] international agreements to which the United Kingdom is for the time being a party,
 
   so far as relating to the quality of air; or
 - (c) otherwise with respect to the assessment or management of the quality of air.
@@ -34,7 +34,7 @@ summary: ''
 
 - (a) prescribing standards relating to the quality of air;
 - (b) prescribing objectives for the restriction of the levels at which particular substances are present in the air;
-- (c) conferring powers or imposing duties on local authorities , relevant county councils, relevant public authorities[^key-73aa6e270f315e696cf81610f9fa2d98] , relevant Welsh public authorities *(Extent: W)*[^key-cd9d346287ca16f4990038e104590ab2] or the Agency;
+- (c) conferring powers or imposing duties on local authorities , relevant county councils, relevant public authorities[^c-73aa6e270f315e696cf81610f9fa2d98] , relevant Welsh public authorities *(Extent: W)*[^c-cd9d346287ca16f4990038e104590ab2] or the Agency;
 - (d) for or in connection with—
   - (i) authorising local authorities (whether by agreements or otherwise) to exercise any functions of a Minister of the Crown on his behalf;
   - (ii) directing that functions of a Minister of the Crown shall be exercisable concurrently with local authorities; or
@@ -51,27 +51,27 @@ summary: ''
   - (ii) assessments under this Part;
   - (iii) orders designating air quality management areas; or
   - (iv) action plans;
-- (j) prescribing measures which are to be adopted by local authorities (whether in action plans or otherwise) , relevant county councils, relevant public authorities,[^key-a319df0e0b9781d4c425feb1d3fad126] relevant Welsh public authorities, *(Extent: W)*[^key-ae87371dfb6eb3c11cf2cdff64af838c] the Agency or other persons in pursuance of the achievement of air quality standards or objectives;
+- (j) prescribing measures which are to be adopted by local authorities (whether in action plans or otherwise) , relevant county councils, relevant public authorities,[^c-a319df0e0b9781d4c425feb1d3fad126] relevant Welsh public authorities, *(Extent: W)*[^c-ae87371dfb6eb3c11cf2cdff64af838c] the Agency or other persons in pursuance of the achievement of air quality standards or objectives;
 - (k) for or in connection with the communication to the public of information relating to quality for the time being, or likely future quality, of the air;
-- (l) for or in connection with the obtaining by local authorities , relevant county councils, relevant public authorities[^key-30c1f305d63e7f2dc1f4a37ed675fedf] , relevant Welsh public authorities *(Extent: W)*[^key-b4d526eeab6a23b3059c980c39251e0d] or the Agency from any person of information which is reasonably necessary for the discharge of functions conferred or imposed on them under or by virtue of this Part;
-- (m) for or in connection with the recovery by a local authority , a relevant county council, a relevant public authority[^key-4effd3229e326aab11839d4dd3d15f28] , a relevant Welsh public authority *(Extent: W)*[^key-d05311f1912bd992cb5c589efc1b1dc1] or the Agency from prescribed persons in prescribed circumstances, and in such manner as may be prescribed, of costs incurred by the authority , council or Agency[^key-226fcbea9d13b55a3c723b6ed0455e00] in discharging functions conferred or imposed on the authority , council or Agency under or by virtue of this Part;
+- (l) for or in connection with the obtaining by local authorities , relevant county councils, relevant public authorities[^c-30c1f305d63e7f2dc1f4a37ed675fedf] , relevant Welsh public authorities *(Extent: W)*[^c-b4d526eeab6a23b3059c980c39251e0d] or the Agency from any person of information which is reasonably necessary for the discharge of functions conferred or imposed on them under or by virtue of this Part;
+- (m) for or in connection with the recovery by a local authority , a relevant county council, a relevant public authority[^c-4effd3229e326aab11839d4dd3d15f28] , a relevant Welsh public authority *(Extent: W)*[^c-d05311f1912bd992cb5c589efc1b1dc1] or the Agency from prescribed persons in prescribed circumstances, and in such manner as may be prescribed, of costs incurred by the authority , council or Agency[^c-226fcbea9d13b55a3c723b6ed0455e00] in discharging functions conferred or imposed on the authority , council or Agency under or by virtue of this Part;
 - (n) for a person who contravenes, or fails to comply with, any prescribed provision of the regulations to be guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale or such lower level on that scale as may be prescribed in relation to the offence;
 - (o) for or in connection with arrangements under which a person may discharge any liability to conviction for a prescribed offence—
 
   *Extent: W*
 
-  - (i)[^key-88ec4ab32bce7c8415f0eff65db0980e] by payment of a penalty of a prescribed amount , or[^key-3e2a4cd579899e6874ec8c8e6dc47b86]
+  - (i)[^c-88ec4ab32bce7c8415f0eff65db0980e] by payment of a penalty of a prescribed amount , or[^c-3e2a4cd579899e6874ec8c8e6dc47b86]
 
   *Extent: W*
 
   - (ii) by payment of a penalty of an amount that falls within a prescribed range, where the prescribed offence is a stationary idling offence prescribed by the Welsh Ministers and such a range is prescribed;
 - (p) for or in connection with appeals against determinations or decisions made, notices given or served, or other things done under or by virtue of the regulations.
 
-(2A)[^key-dad2d1568da249b6c12fc3d0f6d85ccb] In subsection (2) “**relevant county council**” means a county council for an area in England for which there are district councils.
+(2A)[^c-dad2d1568da249b6c12fc3d0f6d85ccb] In subsection (2) “**relevant county council**” means a county council for an area in England for which there are district councils.
 
 *Extent: W*
 
-(2B)[^key-7fe77da89c43c3c5c38b5f643dc87858] In subsection (2)(o)(ii), “stationary idling offence means an offence under section 42 of the Road Traffic Act 1988 that consists of a contravention of, or failure to comply with, so much of regulation 98 of the Road Vehicle (Construction and Use) Regulations 1986 (stopping of engine when stationary) as relates to the prevention of exhaust emissions.
+(2B)[^c-7fe77da89c43c3c5c38b5f643dc87858] In subsection (2)(o)(ii), “stationary idling offence means an offence under section 42 of the Road Traffic Act 1988 that consists of a contravention of, or failure to comply with, so much of regulation 98 of the Road Vehicle (Construction and Use) Regulations 1986 (stopping of engine when stationary) as relates to the prevention of exhaust emissions.
 
 (3) Without prejudice to the generality of paragraph (h) of subsection (2) above, the provision that may be made by virtue of that paragraph includes provision for or in connection with any of the following, that is to say—
 
@@ -92,7 +92,7 @@ summary: ''
   - (i) copies of any such reports, orders or action plans, or
   - (ii) prescribed information, in such form as may be prescribed, relating to reviews or assessments,
 
-  to be sent to the Secretary of State or to the appropriate agency[^key-66c4098f32d92873a2f58a74b44875c2].
+  to be sent to the Secretary of State or to the appropriate agency[^c-66c4098f32d92873a2f58a74b44875c2].
 
 (4) In determining—
 
@@ -111,14 +111,14 @@ the body or person making the determination shall be bound by any direction give
 
 (7) Before making any regulations under this Part, the Secretary of State shall consult—
 
-- (a) the appropriate agency[^key-259c941b35ef5b9b63aea80cacb09a2d];
+- (a) the appropriate agency[^c-259c941b35ef5b9b63aea80cacb09a2d];
 - (b) such bodies or persons appearing to him to be representative of the interests of local government as he may consider appropriate;
 - (c) such bodies or persons appearing to him to be representative of the interests of industry as he may consider appropriate; and
 - (d) such other bodies or persons as he may consider appropriate.
 
 *Extent: W*
 
-(7A)[^key-70839565b570346642fb5000aba2bf96] Subsection (7) does not apply in relation to the Welsh Ministers.
+(7A)[^c-70839565b570346642fb5000aba2bf96] Subsection (7) does not apply in relation to the Welsh Ministers.
 
 (7B (Extent: W)) Before making any regulations under this Part, the Welsh Ministers must consult— *(Extent: W)*
 
@@ -134,56 +134,56 @@ the body or person making the determination shall be bound by any direction give
 
 *Extent: W*
 
-(9A)[^key-8923fd83ebc65d063cf181e95594c6fc] A statutory instrument containing regulations under section 80(8) may not be made unless a draft of the instrument has been laid before, and approved by resolution of, Senedd Cymru.
+(9A)[^c-8923fd83ebc65d063cf181e95594c6fc] A statutory instrument containing regulations under section 80(8) may not be made unless a draft of the instrument has been laid before, and approved by resolution of, Senedd Cymru.
 
 *Extent: S*
 
-(10)[^key-6b28a05a854f0a93c351fdd43bbda332] In subsection (5)(c) above, “**enactment**” includes an enactment comprised in an Act of the Scottish Parliament.
+(10)[^c-6b28a05a854f0a93c351fdd43bbda332] In subsection (5)(c) above, “**enactment**” includes an enactment comprised in an Act of the Scottish Parliament.
 
 ## Annotations
 
-[^key-8f4dbbbfad904721856e167bde8c9291]: Modification: S. 87(1) modified (W.) (14.4.2024) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [s. 8(2)-(4)](https://www.legislation.gov.uk/asc/2024/2/section/8/2), [30(2)(b)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/b)
+[^c-8f4dbbbfad904721856e167bde8c9291]: Modification: S. 87(1) modified (W.) (14.4.2024) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [s. 8(2)-(4)](https://www.legislation.gov.uk/asc/2024/2/section/8/2), [30(2)(b)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/b)
 
-[^key-262aea448543861bbb2390a442fe3110]: Textual amendment: Word in s. 87(1)(b) omitted (31.12.2020) by virtue of [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [3(9)(a)](https://www.legislation.gov.uk/uksi/2019/458/regulation/3/9/a) (with [reg. 8(3)](https://www.legislation.gov.uk/uksi/2019/458/regulation/8/3)) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [12(5)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/12/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-262aea448543861bbb2390a442fe3110]: Textual amendment: Word in s. 87(1)(b) omitted (31.12.2020) by virtue of [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [3(9)(a)](https://www.legislation.gov.uk/uksi/2019/458/regulation/3/9/a) (with [reg. 8(3)](https://www.legislation.gov.uk/uksi/2019/458/regulation/8/3)) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [12(5)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/12/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-02bda7317a2ba297ec5f8ca23abfeb02]: Textual amendment: S. 87(1)(b)(i) substituted (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [3(9)(b)](https://www.legislation.gov.uk/uksi/2019/458/regulation/3/9/b) (with [reg. 8(3)](https://www.legislation.gov.uk/uksi/2019/458/regulation/8/3)) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [12(5)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/12/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-02bda7317a2ba297ec5f8ca23abfeb02]: Textual amendment: S. 87(1)(b)(i) substituted (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [3(9)(b)](https://www.legislation.gov.uk/uksi/2019/458/regulation/3/9/b) (with [reg. 8(3)](https://www.legislation.gov.uk/uksi/2019/458/regulation/8/3)) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [12(5)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/12/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c50345df72c2fbc5cb56394699a53646]: Textual amendment: Word in s. 87(1)(b)(i) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 36(2)(f)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/36/2/f)
+[^c-c50345df72c2fbc5cb56394699a53646]: Textual amendment: Word in s. 87(1)(b)(i) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 36(2)(f)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/36/2/f)
 
-[^key-458f3856f24a016e81e024a9760759f5]: Textual amendment: Words in s. 87(1)(b)(ii) inserted (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [3(9)(c)](https://www.legislation.gov.uk/uksi/2019/458/regulation/3/9/c) (with [reg. 8(3)](https://www.legislation.gov.uk/uksi/2019/458/regulation/8/3)) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [12(5)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/12/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-458f3856f24a016e81e024a9760759f5]: Textual amendment: Words in s. 87(1)(b)(ii) inserted (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [3(9)(c)](https://www.legislation.gov.uk/uksi/2019/458/regulation/3/9/c) (with [reg. 8(3)](https://www.legislation.gov.uk/uksi/2019/458/regulation/8/3)) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [12(5)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/12/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-73aa6e270f315e696cf81610f9fa2d98]: Textual amendment: Words in s. 87(2)(c) inserted (1.5.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3), [Sch. 11 para. 11(2)(a)](https://www.legislation.gov.uk/ukpga/2021/30/schedule/11/paragraph/11/2/a) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/c)
+[^c-73aa6e270f315e696cf81610f9fa2d98]: Textual amendment: Words in s. 87(2)(c) inserted (1.5.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3), [Sch. 11 para. 11(2)(a)](https://www.legislation.gov.uk/ukpga/2021/30/schedule/11/paragraph/11/2/a) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/c)
 
-[^key-cd9d346287ca16f4990038e104590ab2]: Textual amendment: Words in s. 87(2)(c) inserted (W.) (14.4.2024) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [ss. 14(2)(a)](https://www.legislation.gov.uk/asc/2024/2/section/14/2/a), [30(2)(d)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/d)
+[^c-cd9d346287ca16f4990038e104590ab2]: Textual amendment: Words in s. 87(2)(c) inserted (W.) (14.4.2024) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [ss. 14(2)(a)](https://www.legislation.gov.uk/asc/2024/2/section/14/2/a), [30(2)(d)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/d)
 
-[^key-a319df0e0b9781d4c425feb1d3fad126]: Textual amendment: Words in s. 87(2)(j) inserted (1.5.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3), [Sch. 11 para. 11(2)(b)](https://www.legislation.gov.uk/ukpga/2021/30/schedule/11/paragraph/11/2/b) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/c)
+[^c-a319df0e0b9781d4c425feb1d3fad126]: Textual amendment: Words in s. 87(2)(j) inserted (1.5.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3), [Sch. 11 para. 11(2)(b)](https://www.legislation.gov.uk/ukpga/2021/30/schedule/11/paragraph/11/2/b) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/c)
 
-[^key-ae87371dfb6eb3c11cf2cdff64af838c]: Textual amendment: Words in s. 87(2)(j) inserted (W.) (14.4.2024) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [ss. 14(2)(b)](https://www.legislation.gov.uk/asc/2024/2/section/14/2/b), [30(2)(d)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/d)
+[^c-ae87371dfb6eb3c11cf2cdff64af838c]: Textual amendment: Words in s. 87(2)(j) inserted (W.) (14.4.2024) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [ss. 14(2)(b)](https://www.legislation.gov.uk/asc/2024/2/section/14/2/b), [30(2)(d)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/d)
 
-[^key-30c1f305d63e7f2dc1f4a37ed675fedf]: Textual amendment: Words in s. 87(2)(l) inserted (1.5.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3), [Sch. 11 para. 11(2)(c)](https://www.legislation.gov.uk/ukpga/2021/30/schedule/11/paragraph/11/2/c) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/c)
+[^c-30c1f305d63e7f2dc1f4a37ed675fedf]: Textual amendment: Words in s. 87(2)(l) inserted (1.5.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3), [Sch. 11 para. 11(2)(c)](https://www.legislation.gov.uk/ukpga/2021/30/schedule/11/paragraph/11/2/c) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/c)
 
-[^key-b4d526eeab6a23b3059c980c39251e0d]: Textual amendment: Words in s. 87(2)(l) inserted (W.) (14.4.2024) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [ss. 14(2)(c)](https://www.legislation.gov.uk/asc/2024/2/section/14/2/c), [30(2)(d)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/d)
+[^c-b4d526eeab6a23b3059c980c39251e0d]: Textual amendment: Words in s. 87(2)(l) inserted (W.) (14.4.2024) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [ss. 14(2)(c)](https://www.legislation.gov.uk/asc/2024/2/section/14/2/c), [30(2)(d)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/d)
 
-[^key-4effd3229e326aab11839d4dd3d15f28]: Textual amendment: Words in s. 87(2)(m) inserted (1.5.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3), [Sch. 11 para. 11(2)(d)(i)](https://www.legislation.gov.uk/ukpga/2021/30/schedule/11/paragraph/11/2/d/i) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/c)
+[^c-4effd3229e326aab11839d4dd3d15f28]: Textual amendment: Words in s. 87(2)(m) inserted (1.5.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3), [Sch. 11 para. 11(2)(d)(i)](https://www.legislation.gov.uk/ukpga/2021/30/schedule/11/paragraph/11/2/d/i) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/c)
 
-[^key-d05311f1912bd992cb5c589efc1b1dc1]: Textual amendment: Words in s. 87(2)(m) inserted (W.) (14.4.2024) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [ss. 14(2)(d)](https://www.legislation.gov.uk/asc/2024/2/section/14/2/d), [30(2)(d)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/d)
+[^c-d05311f1912bd992cb5c589efc1b1dc1]: Textual amendment: Words in s. 87(2)(m) inserted (W.) (14.4.2024) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [ss. 14(2)(d)](https://www.legislation.gov.uk/asc/2024/2/section/14/2/d), [30(2)(d)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/d)
 
-[^key-226fcbea9d13b55a3c723b6ed0455e00]: Textual amendment: Words in s. 87(2)(m) inserted (1.5.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3), [Sch. 11 para. 11(2)(d)(ii)](https://www.legislation.gov.uk/ukpga/2021/30/schedule/11/paragraph/11/2/d/ii) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/c)
+[^c-226fcbea9d13b55a3c723b6ed0455e00]: Textual amendment: Words in s. 87(2)(m) inserted (1.5.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3), [Sch. 11 para. 11(2)(d)(ii)](https://www.legislation.gov.uk/ukpga/2021/30/schedule/11/paragraph/11/2/d/ii) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/c)
 
-[^key-88ec4ab32bce7c8415f0eff65db0980e]: Textual amendment: Words in s. 87(2)(o) renumbered as s. 87(2)(o)(i) (W.) (14.4.2024) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [ss. 24(2)(a)(i)](https://www.legislation.gov.uk/asc/2024/2/section/24/2/a/i), [30(2)(g)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/g)
+[^c-88ec4ab32bce7c8415f0eff65db0980e]: Textual amendment: Words in s. 87(2)(o) renumbered as s. 87(2)(o)(i) (W.) (14.4.2024) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [ss. 24(2)(a)(i)](https://www.legislation.gov.uk/asc/2024/2/section/24/2/a/i), [30(2)(g)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/g)
 
-[^key-3e2a4cd579899e6874ec8c8e6dc47b86]: Textual amendment: S. 87(2)(o)(ii) and word inserted (W.) (14.4.2024) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [ss. 24(2)(a)(ii)](https://www.legislation.gov.uk/asc/2024/2/section/24/2/a/ii), [30(2)(g)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/g)
+[^c-3e2a4cd579899e6874ec8c8e6dc47b86]: Textual amendment: S. 87(2)(o)(ii) and word inserted (W.) (14.4.2024) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [ss. 24(2)(a)(ii)](https://www.legislation.gov.uk/asc/2024/2/section/24/2/a/ii), [30(2)(g)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/g)
 
-[^key-dad2d1568da249b6c12fc3d0f6d85ccb]: Textual amendment: S. 87(2A) inserted (1.5.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3), [Sch. 11 para. 11(3)](https://www.legislation.gov.uk/ukpga/2021/30/schedule/11/paragraph/11/3) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/c)
+[^c-dad2d1568da249b6c12fc3d0f6d85ccb]: Textual amendment: S. 87(2A) inserted (1.5.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3), [Sch. 11 para. 11(3)](https://www.legislation.gov.uk/ukpga/2021/30/schedule/11/paragraph/11/3) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/c)
 
-[^key-7fe77da89c43c3c5c38b5f643dc87858]: Textual amendment: S. 87(2B) inserted (W.) (14.4.2024) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [ss. 24(2)(b)](https://www.legislation.gov.uk/asc/2024/2/section/24/2/b), [30(2)(g)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/g)
+[^c-7fe77da89c43c3c5c38b5f643dc87858]: Textual amendment: S. 87(2B) inserted (W.) (14.4.2024) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [ss. 24(2)(b)](https://www.legislation.gov.uk/asc/2024/2/section/24/2/b), [30(2)(g)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/g)
 
-[^key-66c4098f32d92873a2f58a74b44875c2]: Textual amendment: Words in s. 87(3) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 379](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/379) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-66c4098f32d92873a2f58a74b44875c2]: Textual amendment: Words in s. 87(3) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 379](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/379) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-259c941b35ef5b9b63aea80cacb09a2d]: Textual amendment: Words in s. 87(7)(a) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 379](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/379) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-259c941b35ef5b9b63aea80cacb09a2d]: Textual amendment: Words in s. 87(7)(a) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 379](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/379) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-70839565b570346642fb5000aba2bf96]: Textual amendment: S. 87(7A)(7B) inserted (W.) (14.4.2024) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [ss. 15](https://www.legislation.gov.uk/asc/2024/2/section/15), [30(2)(e)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/e)
+[^c-70839565b570346642fb5000aba2bf96]: Textual amendment: S. 87(7A)(7B) inserted (W.) (14.4.2024) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [ss. 15](https://www.legislation.gov.uk/asc/2024/2/section/15), [30(2)(e)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/e)
 
-[^key-8923fd83ebc65d063cf181e95594c6fc]: Textual amendment: S. 87(9A) inserted (W.) (14.4.2024) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [ss. 12(2)](https://www.legislation.gov.uk/asc/2024/2/section/12/2), [30(2)(d)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/d)
+[^c-8923fd83ebc65d063cf181e95594c6fc]: Textual amendment: S. 87(9A) inserted (W.) (14.4.2024) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [ss. 12(2)](https://www.legislation.gov.uk/asc/2024/2/section/12/2), [30(2)(d)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/d)
 
-[^key-6b28a05a854f0a93c351fdd43bbda332]: Textual amendment: S. 87(10) added (S.) (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [sch. 3 para. 43(9)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/43/9); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2)
+[^c-6b28a05a854f0a93c351fdd43bbda332]: Textual amendment: S. 87(10) added (S.) (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [sch. 3 para. 43(9)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/43/9); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2)

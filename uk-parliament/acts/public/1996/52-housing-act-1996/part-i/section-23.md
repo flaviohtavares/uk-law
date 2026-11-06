@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Local loans made by the Treasury[^M_C_f9f7041a-760b-4dfb-b746-e04ccf09abe8][^c13148351][^key-ded40613c70e3961cf863e9e4470ff4c]
+## 23. Local loans made by the Treasury[^M_C_f9f7041a-760b-4dfb-b746-e04ccf09abe8][^c13148351][^c-ded40613c70e3961cf863e9e4470ff4c]
 
 *Extent: E+W*
 
-(1) The Treasury[^key-d3fce48ba19db3f5f2813fc89ba1752f] may lend money to a registered social landlord—
+(1) The Treasury[^c-d3fce48ba19db3f5f2813fc89ba1752f] may lend money to a registered social landlord—
 
 - (a) for the purpose of constructing or improving, or facilitating or encouraging the construction or improvement, of dwellings,
 - (b) for the purchase of dwellings which the landlord desires to purchase with a view to their improvement, and
@@ -39,9 +39,9 @@ and the money lent shall not exceed three-quarters (or, if the payment of the pr
 
 (5) Subject to subsection (6), the period for repayment of a loan under this section shall not exceed 40 years, and no money shall be lent on mortgage of any land unless the estate proposed to be mortgaged is either an estate in fee simple absolute in possession or an estate for a term of years absolute of which not less than 50 years are unexpired at the date of the loan.
 
-(6) Where a loan under this section is made for the purpose of carrying out a scheme for the provision of houses approved by the Welsh Ministers[^key-060387c739bd54b306c38b857cb8e79c], the maximum period for the repayment of the loan is 50 instead of 40 years, and money may be lent on the mortgage of an estate for a term of years absolute of which a period of not less than ten years in excess of the period fixed for the repayment of the sums advanced remains unexpired at the date of the loan.
+(6) Where a loan under this section is made for the purpose of carrying out a scheme for the provision of houses approved by the Welsh Ministers[^c-060387c739bd54b306c38b857cb8e79c], the maximum period for the repayment of the loan is 50 instead of 40 years, and money may be lent on the mortgage of an estate for a term of years absolute of which a period of not less than ten years in excess of the period fixed for the repayment of the sums advanced remains unexpired at the date of the loan.
 
-(7)[^key-c99edb5468e8c68540e4c6ef2d8af70a] Any loan made under subsection (1) is a local loan for the purposes of section 3 of the National Loans Act 1968 (see Schedule 4 to that Act).
+(7)[^c-c99edb5468e8c68540e4c6ef2d8af70a] Any loan made under subsection (1) is a local loan for the purposes of section 3 of the National Loans Act 1968 (see Schedule 4 to that Act).
 
 ## Annotations
 
@@ -49,10 +49,10 @@ and the money lent shall not exceed three-quarters (or, if the payment of the pr
 
 [^c13148351]: Modification: S. 23 extended (16.9.1996) by [S.I. 1996/2402](https://www.legislation.gov.uk/uksi/1996/2402), [art. 3](https://www.legislation.gov.uk/uksi/1996/2402/article/3),Sch. para. 1
 
-[^key-ded40613c70e3961cf863e9e4470ff4c]: Textual amendment: S. 23 heading substituted (25.2.2020) by [The Public Bodies (Abolition of Public Works Loan Commissioners) Order 2020 (S.I. 2020/176)](https://www.legislation.gov.uk/uksi/2020/176), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/176/article/1/2), [Sch. 1 para. 80(2)](https://www.legislation.gov.uk/uksi/2020/176/schedule/1/paragraph/80/2) (with [art. 9](https://www.legislation.gov.uk/uksi/2020/176/article/9))
+[^c-ded40613c70e3961cf863e9e4470ff4c]: Textual amendment: S. 23 heading substituted (25.2.2020) by [The Public Bodies (Abolition of Public Works Loan Commissioners) Order 2020 (S.I. 2020/176)](https://www.legislation.gov.uk/uksi/2020/176), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/176/article/1/2), [Sch. 1 para. 80(2)](https://www.legislation.gov.uk/uksi/2020/176/schedule/1/paragraph/80/2) (with [art. 9](https://www.legislation.gov.uk/uksi/2020/176/article/9))
 
-[^key-d3fce48ba19db3f5f2813fc89ba1752f]: Textual amendment: Word in s. 23 substituted (25.2.2020) by [The Public Bodies (Abolition of Public Works Loan Commissioners) Order 2020 (S.I. 2020/176)](https://www.legislation.gov.uk/uksi/2020/176), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/176/article/1/2), [Sch. 1 para. 80(3)](https://www.legislation.gov.uk/uksi/2020/176/schedule/1/paragraph/80/3) (with [art. 9](https://www.legislation.gov.uk/uksi/2020/176/article/9))
+[^c-d3fce48ba19db3f5f2813fc89ba1752f]: Textual amendment: Word in s. 23 substituted (25.2.2020) by [The Public Bodies (Abolition of Public Works Loan Commissioners) Order 2020 (S.I. 2020/176)](https://www.legislation.gov.uk/uksi/2020/176), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/176/article/1/2), [Sch. 1 para. 80(3)](https://www.legislation.gov.uk/uksi/2020/176/schedule/1/paragraph/80/3) (with [art. 9](https://www.legislation.gov.uk/uksi/2020/176/article/9))
 
-[^key-060387c739bd54b306c38b857cb8e79c]: Textual amendment: Words in s. 23(6) substituted (1.4.2010) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [ss. 62(a)](https://www.legislation.gov.uk/ukpga/2008/17/section/62/a), [325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
+[^c-060387c739bd54b306c38b857cb8e79c]: Textual amendment: Words in s. 23(6) substituted (1.4.2010) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [ss. 62(a)](https://www.legislation.gov.uk/ukpga/2008/17/section/62/a), [325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
 
-[^key-c99edb5468e8c68540e4c6ef2d8af70a]: Textual amendment: S. 23(7) inserted (25.2.2020) by [The Public Bodies (Abolition of Public Works Loan Commissioners) Order 2020 (S.I. 2020/176)](https://www.legislation.gov.uk/uksi/2020/176), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/176/article/1/2), [Sch. 1 para. 80(4)](https://www.legislation.gov.uk/uksi/2020/176/schedule/1/paragraph/80/4) (with [art. 9](https://www.legislation.gov.uk/uksi/2020/176/article/9))
+[^c-c99edb5468e8c68540e4c6ef2d8af70a]: Textual amendment: S. 23(7) inserted (25.2.2020) by [The Public Bodies (Abolition of Public Works Loan Commissioners) Order 2020 (S.I. 2020/176)](https://www.legislation.gov.uk/uksi/2020/176), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/176/article/1/2), [Sch. 1 para. 80(4)](https://www.legislation.gov.uk/uksi/2020/176/schedule/1/paragraph/80/4) (with [art. 9](https://www.legislation.gov.uk/uksi/2020/176/article/9))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 44. Procedure in relation to certain approvals etc.[^key-0e23cf9f4e0e6aa46693351662f2db74]
+## 44. Procedure in relation to certain approvals etc.[^c-0e23cf9f4e0e6aa46693351662f2db74]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0e23cf9f4e0e6aa46693351662f2db74]: Commencement: Art. 44 in force at 23.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/863/article/1)
+[^c-0e23cf9f4e0e6aa46693351662f2db74]: Commencement: Art. 44 in force at 23.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/863/article/1)

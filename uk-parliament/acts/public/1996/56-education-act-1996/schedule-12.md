@@ -35,7 +35,7 @@ Section 126.
 
 (2) For those purposes—
 
-- (b) references to a county or voluntary school maintained by a local authority[^key-6f7ad3e2cc8ee9e0ff2977c70c6c2e41] , and
+- (b) references to a county or voluntary school maintained by a local authority[^c-6f7ad3e2cc8ee9e0ff2977c70c6c2e41] , and
 - (b) references, in a context referring to a local authority, to county and voluntary schools,
 
 shall be read as including a new school which on implementation of the relevant proposals will be a county or voluntary school maintained by the authority.
@@ -84,4 +84,4 @@ shall be read as including a new school proposed to be established by a local au
 
 [^c15257021]: Modification: Sch. 12 excluded (*temp.* until 1.9.1999) by [S.I. 1998/3097](https://www.legislation.gov.uk/uksi/1998/3097), [art.5](https://www.legislation.gov.uk/uksi/1998/3097/article/5)
 
-[^key-6f7ad3e2cc8ee9e0ff2977c70c6c2e41]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/2) (with [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/5))
+[^c-6f7ad3e2cc8ee9e0ff2977c70c6c2e41]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/2) (with [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/5))

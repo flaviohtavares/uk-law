@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.15. Proof of service[^key-8dd6bbb08616416ec3a19a5fd3dfb6d5]
+## 6.15. Proof of service[^c-8dd6bbb08616416ec3a19a5fd3dfb6d5]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ and it shall be filed in court immediately after service.
 
 ## Annotations
 
-[^key-8dd6bbb08616416ec3a19a5fd3dfb6d5]: Commencement: [Rule 6.15](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.15) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-8dd6bbb08616416ec3a19a5fd3dfb6d5]: Commencement: [Rule 6.15](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.15) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00131]: Marginal citation: \[FORM 6.17\] or \[FORM 6.18\]

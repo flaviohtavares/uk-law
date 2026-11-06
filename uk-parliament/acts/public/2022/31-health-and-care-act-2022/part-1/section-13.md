@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Exercise of functions relating to provision of services[^key-b0161a97347a9bafa6612ce1f359b55e][^key-31bb3ece264d750531475e1c917a4964]
+## 13. Exercise of functions relating to provision of services[^c-b0161a97347a9bafa6612ce1f359b55e][^c-31bb3ece264d750531475e1c917a4964]
 
 *Extent: E+W*
 
@@ -66,6 +66,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b0161a97347a9bafa6612ce1f359b55e]: Commencement: S. 13 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-b0161a97347a9bafa6612ce1f359b55e]: Commencement: S. 13 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-31bb3ece264d750531475e1c917a4964]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2022/31/section/13) in force at 1.4.2023 by [S.I. 2023/371](https://www.legislation.gov.uk/uksi/2023/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/371/regulation/2/a)
+[^c-31bb3ece264d750531475e1c917a4964]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2022/31/section/13) in force at 1.4.2023 by [S.I. 2023/371](https://www.legislation.gov.uk/uksi/2023/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/371/regulation/2/a)

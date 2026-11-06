@@ -48,11 +48,11 @@ In accordance with paragraph 8F(1) of Schedule 7 to the European Union (Withdraw
 
 ## PART 1 — Preliminary provisions
 
-### 1. Citation[^key-ed4cc8cdc9aaae7d2ec7757d5cd03760]
+### 1. Citation[^c-ed4cc8cdc9aaae7d2ec7757d5cd03760]
 
 These Regulations may be cited as the Export Control (Amendment) (EU Exit) Regulations 2020.
 
-### 2. Commencement[^key-8ad8acf7fb314d5d67db89f7355fa3b1]
+### 2. Commencement[^c-8ad8acf7fb314d5d67db89f7355fa3b1]
 
 (1) This Part and regulations 12 and 13 come into force immediately before the day after the date on which these Regulations are made.
 
@@ -62,25 +62,25 @@ These Regulations may be cited as the Export Control (Amendment) (EU Exit) Regul
 
 ## PART 2 — Amendment of the Export Control Order 2008
 
-### 3. Amendment of the Export Control Order 2008[^key-a0ff33c61cd1674de8db54cee7d5e4c9]
+### 3. Amendment of the Export Control Order 2008[^c-a0ff33c61cd1674de8db54cee7d5e4c9]
 
 The Export Control Order 2008 [^c24370741] is amended in accordance with this Part.
 
-### 4. Amendment of article 9 (provisions supplementing the torture Regulation)[^key-fab1ad786ce09a08dfdcbeb89ec46335]
+### 4. Amendment of article 9 (provisions supplementing the torture Regulation)[^c-fab1ad786ce09a08dfdcbeb89ec46335]
 
 In article 9(3), for “5”, substitute “ 11 ”.
 
-### 5. Amendment of article 32 (amendment, suspension, and revocation of licences)[^key-22077d14754f00bcf9985c6ca22a3404]
+### 5. Amendment of article 32 (amendment, suspension, and revocation of licences)[^c-22077d14754f00bcf9985c6ca22a3404]
 
 In article 32(2), for “9(4)”, substitute “ 21(5) ”.
 
 ## PART 3 — Amendment of the Export Control (Amendment) (EU Exit) Regulations 2019
 
-### 6. Amendment of the Export Control (Amendment) (EU Exit) Regulations 2019[^key-785a81a6cdf8316936827539bb2b9afe]
+### 6. Amendment of the Export Control (Amendment) (EU Exit) Regulations 2019[^c-785a81a6cdf8316936827539bb2b9afe]
 
 The Export Control (Amendment) (EU Exit) Regulations 2019 [^c24370751] are amended in accordance with this Part.
 
-### 7. Amendment of regulation 4 (amendment of the Export Control Order 2008)[^key-6550bbdee22a27a92a10975b27753a59]
+### 7. Amendment of regulation 4 (amendment of the Export Control Order 2008)[^c-6550bbdee22a27a92a10975b27753a59]
 
 (1) Regulation 4 is amended in accordance with this regulation.
 
@@ -348,7 +348,7 @@ The Export Control (Amendment) (EU Exit) Regulations 2019 [^c24370751] are amend
 > >
 > > (2) Article 12 (transfer by non-electronic means for WMD purposes) does not apply in relation to a person who transfers from Northern Ireland to the EU customs territory by non-electronic means [^c24370911] any software or technology to which that article applies if the person knows—
 > >
-> > - (a) the final destination of the software or technology is the EU customs territory; or[^key-10e46df9fd814e513407c7379c100b89]
+> > - (a) the final destination of the software or technology is the EU customs territory; or[^c-10e46df9fd814e513407c7379c100b89]
 > > - (b) processing or working is to be performed on the software or technology in the EU customs territory.
 > >
 > > (3) Article 19(1) (end-use control on providing technical assistance from the United Kingdom) does not apply in relation to a person in Northern Ireland who directly or indirectly provides to a person or place in the EU customs territory any technical assistance to which that article applies.
@@ -439,11 +439,11 @@ The Export Control (Amendment) (EU Exit) Regulations 2019 [^c24370751] are amend
 
 ## PART 4 — Amendment of the Trade etc. in Dual-Use Items and Firearms etc. (Amendment) (EU Exit) Regulations 2019
 
-### 8. Amendment of the Trade etc. in Dual-Use Items and Firearms etc. (Amendment) (EU Exit) Regulations 2019[^key-4378da2d211aafc3b541fbb152842fa7]
+### 8. Amendment of the Trade etc. in Dual-Use Items and Firearms etc. (Amendment) (EU Exit) Regulations 2019[^c-4378da2d211aafc3b541fbb152842fa7]
 
 The Trade etc. in Dual-Use Items and Firearms etc. (Amendment) (EU Exit) Regulations 2019 [^c24370971] are amended in accordance with this Part.
 
-### 9. Amendment of regulation 2 (amendment of the Export Control Act 2002)[^key-2519512430db7e68913fb021bed2b029]
+### 9. Amendment of regulation 2 (amendment of the Export Control Act 2002)[^c-2519512430db7e68913fb021bed2b029]
 
 In regulation 2,—
 
@@ -463,7 +463,7 @@ In regulation 2,—
   ; and
 - (c) omit paragraphs (4) to (8).
 
-### 10. Amendment of regulation 5 (transitional provision relating to the dual-use Regulation)[^key-544e8621aef432e48c00cd3fd30ea25a]
+### 10. Amendment of regulation 5 (transitional provision relating to the dual-use Regulation)[^c-544e8621aef432e48c00cd3fd30ea25a]
 
 In regulation 5,—
 
@@ -482,7 +482,7 @@ In regulation 5,—
     ; and
   - (iii) in each instance, for “retained Dual-Use Regulation”, substitute “ replacement dual-use Regulation ”.
 
-### 11. Amendment of regulation 6 (transitional provision relating to the firearms Regulation)[^key-bd2089d5513be34ee28fb3fcd5db27eb]
+### 11. Amendment of regulation 6 (transitional provision relating to the firearms Regulation)[^c-bd2089d5513be34ee28fb3fcd5db27eb]
 
 In regulation 6,—
 
@@ -505,15 +505,15 @@ In regulation 6,—
 
 ## PART 5 — Amendment of the Trade in Torture etc. Goods (Amendment) (EU Exit) Regulations 2020
 
-### 12. Amendment of the Trade in Torture etc. Goods (Amendment) (EU Exit) Regulations 2020[^key-2336acb0b091c010c8ce05f6754618f1]
+### 12. Amendment of the Trade in Torture etc. Goods (Amendment) (EU Exit) Regulations 2020[^c-2336acb0b091c010c8ce05f6754618f1]
 
 The Trade in Torture etc. Goods (Amendment) (EU Exit) Regulations 2020 [^c24371021] are amended in accordance with this Part.
 
-### 13. Amendment of regulation 1 (citation and commencement)[^key-e26980fbce96d8bef5a5b898109aeeae]
+### 13. Amendment of regulation 1 (citation and commencement)[^c-e26980fbce96d8bef5a5b898109aeeae]
 
 In regulation 1, for “the later of exit day or the day after the day on which they are made” substitute “ IP completion day ”.
 
-### 14. Amendment of regulation 2 (amendment of the torture Regulation)[^key-d604cdd39c9a7e4c5029da4d89f079ed]
+### 14. Amendment of regulation 2 (amendment of the torture Regulation)[^c-d604cdd39c9a7e4c5029da4d89f079ed]
 
 In regulation 2,—
 
@@ -542,7 +542,7 @@ In regulation 2,—
   - (ii) in subparagraph (e)(i), for “Article 22(1)” substitute “ Article 21(1) ”; and
   - (iii) in subparagraph (f)(vii)(aa), for “the Customs Tariff (Establishment) (EU Exit) Regulations 2019”, substitute “ the Tariff of the United Kingdom ”.
 
-### 15. Amendment of regulation 3 (transitional provision relating to the torture Regulation)[^key-94dc46fba914ca7d4e1d6e1db3b05f45]
+### 15. Amendment of regulation 3 (transitional provision relating to the torture Regulation)[^c-94dc46fba914ca7d4e1d6e1db3b05f45]
 
 (1) In the heading to regulation 3, for “(EC) No”, substitute “ (EU) ”.
 
@@ -626,23 +626,23 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c24370731]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16); [section 8](https://www.legislation.gov.uk/uksi/2020/1502/section/8) was amended by section 27 of, section 8C was inserted by section 21 of, and paragraph 21 of Schedule 7 was amended by paragraph 53(2) of Schedule 5 to, the [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1).
 
-[^key-ed4cc8cdc9aaae7d2ec7757d5cd03760]: Commencement: Reg. 1 in force at 11.12.2020 immediately before the day after the date on which these regulations are made, see reg. 2(1)
+[^c-ed4cc8cdc9aaae7d2ec7757d5cd03760]: Commencement: Reg. 1 in force at 11.12.2020 immediately before the day after the date on which these regulations are made, see reg. 2(1)
 
-[^key-8ad8acf7fb314d5d67db89f7355fa3b1]: Commencement: Reg. 2 in force at 11.12.2020 immediately before the day after the date on which these regulations are made, see reg. 2(1)
+[^c-8ad8acf7fb314d5d67db89f7355fa3b1]: Commencement: Reg. 2 in force at 11.12.2020 immediately before the day after the date on which these regulations are made, see reg. 2(1)
 
-[^key-a0ff33c61cd1674de8db54cee7d5e4c9]: Commencement: Reg. 3 in force at 11.12.2020, see reg. 2(2)
+[^c-a0ff33c61cd1674de8db54cee7d5e4c9]: Commencement: Reg. 3 in force at 11.12.2020, see reg. 2(2)
 
 [^c24370741]: Marginal citation: [S.I. 2008/3231](https://www.legislation.gov.uk/uksi/2008/3231), amended by [S.I. 2009/2151](https://www.legislation.gov.uk/uksi/2009/2151) and S.I 2019/989; there are other amending instruments, but none is relevant.
 
-[^key-fab1ad786ce09a08dfdcbeb89ec46335]: Commencement: Reg. 4 in force at 11.12.2020, see reg. 2(2)
+[^c-fab1ad786ce09a08dfdcbeb89ec46335]: Commencement: Reg. 4 in force at 11.12.2020, see reg. 2(2)
 
-[^key-22077d14754f00bcf9985c6ca22a3404]: Commencement: Reg. 5 in force at 11.12.2020, see reg. 2(2)
+[^c-22077d14754f00bcf9985c6ca22a3404]: Commencement: Reg. 5 in force at 11.12.2020, see reg. 2(2)
 
-[^key-785a81a6cdf8316936827539bb2b9afe]: Commencement: Reg. 6 in force at 31.12.2020 immediately before IP completion day, see reg. 2(3)
+[^c-785a81a6cdf8316936827539bb2b9afe]: Commencement: Reg. 6 in force at 31.12.2020 immediately before IP completion day, see reg. 2(3)
 
 [^c24370751]: Marginal citation: [S.I. 2019/137](https://www.legislation.gov.uk/uksi/2019/137).
 
-[^key-6550bbdee22a27a92a10975b27753a59]: Commencement: Reg. 7 in force at 31.12.2020 immediately before IP completion day, see reg. 2(3)
+[^c-6550bbdee22a27a92a10975b27753a59]: Commencement: Reg. 7 in force at 31.12.2020 immediately before IP completion day, see reg. 2(3)
 
 [^c24370761]: Marginal citation: EUR 2009/428, amended by [S.I. 2019/771](https://www.legislation.gov.uk/uksi/2019/771).
 
@@ -676,7 +676,7 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c24370911]: Marginal citation: Controls on the transfer from Northern Ireland of dual-use software or technology by electronic means are prohibited or regulated by article 42L and Articles 3 and 4 of the EU dual-use Regulation.
 
-[^key-10e46df9fd814e513407c7379c100b89]: Textual amendment: Word in reg. 7(9) substituted (31.12.2020 at 10:59 p.m.) by [The Export Control (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1510)](https://www.legislation.gov.uk/uksi/2020/1510), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1510/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1510/regulation/2)
+[^c-10e46df9fd814e513407c7379c100b89]: Textual amendment: Word in reg. 7(9) substituted (31.12.2020 at 10:59 p.m.) by [The Export Control (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1510)](https://www.legislation.gov.uk/uksi/2020/1510), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1510/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1510/regulation/2)
 
 [^c24370921]: Marginal citation: Article 22(1) of the EU dual-use Regulation, as it has effect by virtue of the Protocol on Ireland/Northern Ireland in the EU withdrawal agreement, requires a person to have an authorisation to export or transfer from Northern Ireland to the EU customs territory a dual-use item listed in Annex IV to that Regulation.
 
@@ -688,37 +688,37 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c24370961]: Marginal citation: OJ No. L 94, 30.3.2012, p. 1.
 
-[^key-4378da2d211aafc3b541fbb152842fa7]: Commencement: Reg. 8 in force at 31.12.2020 immediately before IP completion day, see reg. 2(3)
+[^c-4378da2d211aafc3b541fbb152842fa7]: Commencement: Reg. 8 in force at 31.12.2020 immediately before IP completion day, see reg. 2(3)
 
 [^c24370971]: Marginal citation: [S.I. 2019/771](https://www.legislation.gov.uk/uksi/2019/771).
 
-[^key-2519512430db7e68913fb021bed2b029]: Commencement: Reg. 9 in force at 31.12.2020 immediately before IP completion day, see reg. 2(3)
+[^c-2519512430db7e68913fb021bed2b029]: Commencement: Reg. 9 in force at 31.12.2020 immediately before IP completion day, see reg. 2(3)
 
-[^key-544e8621aef432e48c00cd3fd30ea25a]: Commencement: Reg. 10 in force at 31.12.2020 immediately before IP completion day, see reg. 2(3)
+[^c-544e8621aef432e48c00cd3fd30ea25a]: Commencement: Reg. 10 in force at 31.12.2020 immediately before IP completion day, see reg. 2(3)
 
 [^c24370981]: Marginal citation: EUR 2009/428, amended by [S.I. 2019/771](https://www.legislation.gov.uk/uksi/2019/771).
 
 [^c24370991]: Marginal citation: OJ No. L 134, 29.5.2009, p. 1; relevant amending instruments are OJ No. L.326, 8.12.2011, p. 26, OJ No, L 173, 12.6.2014, and OJ No. L 428, 30.12.2019, p. 1.
 
-[^key-bd2089d5513be34ee28fb3fcd5db27eb]: Commencement: Reg. 11 in force at 31.12.2020 immediately before IP completion day, see reg. 2(3)
+[^c-bd2089d5513be34ee28fb3fcd5db27eb]: Commencement: Reg. 11 in force at 31.12.2020 immediately before IP completion day, see reg. 2(3)
 
 [^c24371001]: Marginal citation: EUR 2012/258, amended by [S.I. 2019/771](https://www.legislation.gov.uk/uksi/2019/771).
 
 [^c24371011]: Marginal citation: OJ No. L 94, 30.3.2012, p. 1.
 
-[^key-2336acb0b091c010c8ce05f6754618f1]: Commencement: Reg. 12 in force at 11.12.2020 immediately before the day after the date on which these regulations are made, see reg. 2(1)
+[^c-2336acb0b091c010c8ce05f6754618f1]: Commencement: Reg. 12 in force at 11.12.2020 immediately before the day after the date on which these regulations are made, see reg. 2(1)
 
 [^c24371021]: Marginal citation: [S.I. 2020/1479](https://www.legislation.gov.uk/uksi/2020/1479).
 
-[^key-e26980fbce96d8bef5a5b898109aeeae]: Commencement: Reg. 13 in force at 11.12.2020 immediately before the day after the date on which these regulations are made, see reg. 2(1)
+[^c-e26980fbce96d8bef5a5b898109aeeae]: Commencement: Reg. 13 in force at 11.12.2020 immediately before the day after the date on which these regulations are made, see reg. 2(1)
 
-[^key-d604cdd39c9a7e4c5029da4d89f079ed]: Commencement: Reg. 14 in force at 31.12.2020 immediately before IP completion day, see reg. 2(3)
+[^c-d604cdd39c9a7e4c5029da4d89f079ed]: Commencement: Reg. 14 in force at 31.12.2020 immediately before IP completion day, see reg. 2(3)
 
 [^c24371031]: Marginal citation: A copy of the UK Global Tariff along with a tool to check the commodity code applying to particular goods may be found online at https://www.gov.uk/guidance/uk-tariffs-from-1-january-2021.
 
 [^c24371041]: Marginal citation: [2018 c. 22](https://www.legislation.gov.uk/ukpga/2018/22).
 
-[^key-94dc46fba914ca7d4e1d6e1db3b05f45]: Commencement: Reg. 15 in force at 31.12.2020 immediately before IP completion day, see reg. 2(3)
+[^c-94dc46fba914ca7d4e1d6e1db3b05f45]: Commencement: Reg. 15 in force at 31.12.2020 immediately before IP completion day, see reg. 2(3)
 
 [^c24371051]: Marginal citation: EUR 2019/125, as amended by [S.I. 2020/1479](https://www.legislation.gov.uk/uksi/2020/1479).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 19. Construction and maintenance of new, altered or diverted streets[^key-c6f9a234bf063f09427f4936ca570a67]
+## 19. Construction and maintenance of new, altered or diverted streets[^c-c6f9a234bf063f09427f4936ca570a67]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ but for the purposes of such a defence it is not relevant that the undertaker ha
 
 ## Annotations
 
-[^key-c6f9a234bf063f09427f4936ca570a67]: Commencement: Art. 19 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
+[^c-c6f9a234bf063f09427f4936ca570a67]: Commencement: Art. 19 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)

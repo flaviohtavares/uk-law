@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 239. Amendments of Schedule 7B to the Government of Wales Act 2006[^key-de3011dda6f3654f219ca9ea0d2d123e]
+## 239. Amendments of Schedule 7B to the Government of Wales Act 2006[^c-de3011dda6f3654f219ca9ea0d2d123e]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-de3011dda6f3654f219ca9ea0d2d123e]: Commencement: [S. 239](https://www.legislation.gov.uk/ukpga/2023/55/section/239) in force at 26.12.2023, see [s. 255(9)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/b)
+[^c-de3011dda6f3654f219ca9ea0d2d123e]: Commencement: [S. 239](https://www.legislation.gov.uk/ukpga/2023/55/section/239) in force at 26.12.2023, see [s. 255(9)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/b)

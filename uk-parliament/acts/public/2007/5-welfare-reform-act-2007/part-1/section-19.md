@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Pilot schemes[^key-7fc7af05d07d1f145a7c0d32ac602326][^key-a930b4f5a9da12f15855a11f7d9602d0][^key-a930b4f5a9da12f15855a11f7d9602d0]
+## 19. Pilot schemes[^c-7fc7af05d07d1f145a7c0d32ac602326][^c-a930b4f5a9da12f15855a11f7d9602d0][^c-a930b4f5a9da12f15855a11f7d9602d0]
 
 *Extent: E+W+S*
 
-(1) Any regulations to which this subsection applies may be made so as to have effect for a specified period not exceeding 36 months[^key-dbed4d6c05abad5677c382d2007df136].
+(1) Any regulations to which this subsection applies may be made so as to have effect for a specified period not exceeding 36 months[^c-dbed4d6c05abad5677c382d2007df136].
 
 (2) Subject to subsection (3), subsection (1) applies to—
 
@@ -48,8 +48,8 @@ summary: ''
 
 ## Annotations
 
-[^key-7fc7af05d07d1f145a7c0d32ac602326]: Commencement: S. 19 in force at 27.10.2008 by [S.I. 2008/787](https://www.legislation.gov.uk/uksi/2008/787), [art. 2(4)(a)](https://www.legislation.gov.uk/uksi/2008/787/article/2/4/a)
+[^c-7fc7af05d07d1f145a7c0d32ac602326]: Commencement: S. 19 in force at 27.10.2008 by [S.I. 2008/787](https://www.legislation.gov.uk/uksi/2008/787), [art. 2(4)(a)](https://www.legislation.gov.uk/uksi/2008/787/article/2/4/a)
 
-[^key-a930b4f5a9da12f15855a11f7d9602d0]: Modification: Pt. 1 modified by 1995 c. 18, Sch. 1 para. 2(2) (as inserted (27.10.2008) by [Welfare Reform Act 2007 (c. 5)](https://www.legislation.gov.uk/ukpga/2007/5), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2007/5/section/70/2), [Sch. 3 para. 12(6)](https://www.legislation.gov.uk/ukpga/2007/5/schedule/3/paragraph/12/6); [S.I. 2008/787](https://www.legislation.gov.uk/uksi/2008/787), [art. 2(4)(f)](https://www.legislation.gov.uk/uksi/2008/787/article/2/4/f))
+[^c-a930b4f5a9da12f15855a11f7d9602d0]: Modification: Pt. 1 modified by 1995 c. 18, Sch. 1 para. 2(2) (as inserted (27.10.2008) by [Welfare Reform Act 2007 (c. 5)](https://www.legislation.gov.uk/ukpga/2007/5), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2007/5/section/70/2), [Sch. 3 para. 12(6)](https://www.legislation.gov.uk/ukpga/2007/5/schedule/3/paragraph/12/6); [S.I. 2008/787](https://www.legislation.gov.uk/uksi/2008/787), [art. 2(4)(f)](https://www.legislation.gov.uk/uksi/2008/787/article/2/4/f))
 
-[^key-dbed4d6c05abad5677c382d2007df136]: Textual amendment: Words in s. 19(1) substituted (12.11.2009) by [Welfare Reform Act 2009 (c. 24)](https://www.legislation.gov.uk/ukpga/2009/24), [ss. 28(2)](https://www.legislation.gov.uk/ukpga/2009/24/section/28/2), [61(1)](https://www.legislation.gov.uk/ukpga/2009/24/section/61/1)
+[^c-dbed4d6c05abad5677c382d2007df136]: Textual amendment: Words in s. 19(1) substituted (12.11.2009) by [Welfare Reform Act 2009 (c. 24)](https://www.legislation.gov.uk/ukpga/2009/24), [ss. 28(2)](https://www.legislation.gov.uk/ukpga/2009/24/section/28/2), [61(1)](https://www.legislation.gov.uk/ukpga/2009/24/section/61/1)

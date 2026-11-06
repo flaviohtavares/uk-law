@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Public interest governance condition[^key-d6d3623353d2043e872dd076fbc01909]
+## 14. Public interest governance condition[^c-d6d3623353d2043e872dd076fbc01909]
 
 *Extent: E+W*
 
@@ -32,7 +32,7 @@ summary: ''
 
 (6) If the OfS revises the list, it must publish it as revised.
 
-(7)[^key-20d63c77fb429c60bf76472b9a638ae8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-20d63c77fb429c60bf76472b9a638ae8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) Before determining or revising the list, the OfS must consult—
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d6d3623353d2043e872dd076fbc01909]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2017/29/section/14) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/a)
+[^c-d6d3623353d2043e872dd076fbc01909]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2017/29/section/14) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/a)
 
-[^key-20d63c77fb429c60bf76472b9a638ae8]: Textual amendment: [S. 14(7)](https://www.legislation.gov.uk/ukpga/2017/29/section/14/7) omitted (1.8.2025) by virtue of [Higher Education (Freedom of Speech) Act 2023 (c. 16)](https://www.legislation.gov.uk/ukpga/2023/16), [s. 13(3)](https://www.legislation.gov.uk/ukpga/2023/16/section/13/3), [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2023/16/schedule/paragraph/3); [S.I. 2025/528](https://www.legislation.gov.uk/uksi/2025/528), [reg. 2(f)(v)](https://www.legislation.gov.uk/uksi/2025/528/regulation/2/f/v)
+[^c-20d63c77fb429c60bf76472b9a638ae8]: Textual amendment: [S. 14(7)](https://www.legislation.gov.uk/ukpga/2017/29/section/14/7) omitted (1.8.2025) by virtue of [Higher Education (Freedom of Speech) Act 2023 (c. 16)](https://www.legislation.gov.uk/ukpga/2023/16), [s. 13(3)](https://www.legislation.gov.uk/ukpga/2023/16/section/13/3), [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2023/16/schedule/paragraph/3); [S.I. 2025/528](https://www.legislation.gov.uk/uksi/2025/528), [reg. 2(f)(v)](https://www.legislation.gov.uk/uksi/2025/528/regulation/2/f/v)

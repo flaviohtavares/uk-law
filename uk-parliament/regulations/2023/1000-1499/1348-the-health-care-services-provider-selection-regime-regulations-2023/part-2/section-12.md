@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. The standstill period[^key-c5bae010f39741bd9e43770b5ffd61f5]
+## 12. The standstill period[^c-c5bae010f39741bd9e43770b5ffd61f5]
 
 *Extent: E+W*
 
 (1) Where the relevant authority follows Direct Award Process C, the Most Suitable Provider Process or the Competitive Process, the relevant authority must not enter into the contract or conclude the framework agreement before the end of a standstill period.
 
-(2) The standstill period begins on the day after the day a notice of intention to award or conclude is published on the central digital platform[^key-56434dac60d446a8181519ccac27be51] in accordance with regulation 9(3) (Direct Award Process C), 10(7) (the Most Suitable Provider Process) or 11(9) (the Competitive Process).
+(2) The standstill period begins on the day after the day a notice of intention to award or conclude is published on the central digital platform[^c-56434dac60d446a8181519ccac27be51] in accordance with regulation 9(3) (Direct Award Process C), 10(7) (the Most Suitable Provider Process) or 11(9) (the Competitive Process).
 
 (3) Any provider of the services to which the contract or framework agreement relates who—
 
@@ -89,8 +89,8 @@ may make written representations to the relevant authority before midnight at th
 
 ## Annotations
 
-[^key-c5bae010f39741bd9e43770b5ffd61f5]: Commencement: Reg. 12 in force at 1.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/1/1)
+[^c-c5bae010f39741bd9e43770b5ffd61f5]: Commencement: Reg. 12 in force at 1.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/1/1)
 
-[^key-56434dac60d446a8181519ccac27be51]: Textual amendment: Words in [reg. 12(2)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/12/2) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [28(3)](https://www.legislation.gov.uk/uksi/2025/163/regulation/28/3) (with [reg. 34](https://www.legislation.gov.uk/uksi/2025/163/regulation/34))
+[^c-56434dac60d446a8181519ccac27be51]: Textual amendment: Words in [reg. 12(2)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/12/2) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [28(3)](https://www.legislation.gov.uk/uksi/2025/163/regulation/28/3) (with [reg. 34](https://www.legislation.gov.uk/uksi/2025/163/regulation/34))
 
 [^f00009]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).

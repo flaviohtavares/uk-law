@@ -36,7 +36,7 @@ and shall immediately send a copy of the newspaper containing the advertisement 
 
 - (a) the local authority and any parish councils for the area or areas of each proposed release,
 - (b) the owner or owners of the site or sites of each proposed release, if a person other than the applicant,
-- (c)[^key-335223c94adc9b9b598e9ea4a9813cd7] any person, or member of a genetic modification safety committee, from whom advice must be obtained under regulation 8 of the Genetically Modified Organisms (Contained Use) Regulations 2014,
+- (c)[^c-335223c94adc9b9b598e9ea4a9813cd7] any person, or member of a genetic modification safety committee, from whom advice must be obtained under regulation 8 of the Genetically Modified Organisms (Contained Use) Regulations 2014,
 - (d) the Association of National Park Authorities,
 - (e) English Nature [^c870494], and
 - (f) the Environment Agency,
@@ -45,6 +45,6 @@ and shall immediately send to the Secretary of State copies of the notices.
 
 ## Annotations
 
-[^key-335223c94adc9b9b598e9ea4a9813cd7]: Textual amendment: Reg. 12(4)(c) substituted (1.6.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 (S.I. 2018/575)](https://www.legislation.gov.uk/uksi/2018/575), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/article/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2018/575/regulation/3/3)
+[^c-335223c94adc9b9b598e9ea4a9813cd7]: Textual amendment: Reg. 12(4)(c) substituted (1.6.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 (S.I. 2018/575)](https://www.legislation.gov.uk/uksi/2018/575), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/article/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2018/575/regulation/3/3)
 
 [^c870494]: Marginal citation: See section 128 of the [Environmental Protection Act 1990 (c.43)](https://www.legislation.gov.uk/ukpga/1990/43) and section 73 of the [Countryside and Rights of Way Act 2000 (c.37)](https://www.legislation.gov.uk/ukpga/2000/37).

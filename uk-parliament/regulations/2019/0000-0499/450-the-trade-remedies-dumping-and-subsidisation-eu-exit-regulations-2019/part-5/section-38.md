@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Determination of a residual amount[^key-c722ac6ba70b7dbd4f32f7e826967b0b]
+## 38. Determination of a residual amount[^c-c722ac6ba70b7dbd4f32f7e826967b0b]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c722ac6ba70b7dbd4f32f7e826967b0b]: Commencement: Reg. 38 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-c722ac6ba70b7dbd4f32f7e826967b0b]: Commencement: Reg. 38 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

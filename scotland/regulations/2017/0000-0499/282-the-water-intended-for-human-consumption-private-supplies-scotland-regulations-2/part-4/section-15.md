@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 15. Derogations from the water quality standards[^key-0ed308b9804ed23c6b583c63033143af]
+## 15. Derogations from the water quality standards[^c-0ed308b9804ed23c6b583c63033143af]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Schedule 5 makes provision for derogations.
 
 ## Annotations
 
-[^key-0ed308b9804ed23c6b583c63033143af]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2017/282/regulation/15) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-0ed308b9804ed23c6b583c63033143af]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2017/282/regulation/15) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)

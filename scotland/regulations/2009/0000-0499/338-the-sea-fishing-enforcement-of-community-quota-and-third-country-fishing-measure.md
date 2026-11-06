@@ -33,7 +33,7 @@ This Scottish Statutory Instrument has been made in consequence of a defect in [
 
 Sea Fisheries
 
-The Sea Fishing (Enforcement of Community Quota and Third Country Fishing Measures and Restriction on Days at Sea) (Scotland) Amendment Order 2009 (revoked)[^key-4acc3444b6ea05a28cf50d7c8c7e6fba]
+The Sea Fishing (Enforcement of Community Quota and Third Country Fishing Measures and Restriction on Days at Sea) (Scotland) Amendment Order 2009 (revoked)[^c-4acc3444b6ea05a28cf50d7c8c7e6fba]
 
 Made
 
@@ -47,24 +47,24 @@ Coming into force
 
 10th October 2009
 
-[^key-4acc3444b6ea05a28cf50d7c8c7e6fba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4acc3444b6ea05a28cf50d7c8c7e6fba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-4acc3444b6ea05a28cf50d7c8c7e6fba]
+## 1. Citation and commencement[^c-4acc3444b6ea05a28cf50d7c8c7e6fba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Sea Fishing (Enforcement of Community Quota and Third Country Fishing Measures and Restriction on Days at Sea) (Scotland) Order 2009[^key-4acc3444b6ea05a28cf50d7c8c7e6fba]
+## 2. Amendment of the Sea Fishing (Enforcement of Community Quota and Third Country Fishing Measures and Restriction on Days at Sea) (Scotland) Order 2009[^c-4acc3444b6ea05a28cf50d7c8c7e6fba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4acc3444b6ea05a28cf50d7c8c7e6fba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4acc3444b6ea05a28cf50d7c8c7e6fba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4acc3444b6ea05a28cf50d7c8c7e6fba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4acc3444b6ea05a28cf50d7c8c7e6fba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4acc3444b6ea05a28cf50d7c8c7e6fba]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2009/338) revoked (17.4.2010) by [The Sea Fishing (Transitional EU Technical Conservation Measures) (Scotland) Order 2010 (S.S.I. 2010/100)](https://www.legislation.gov.uk/ssi/2010/100), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2010/100/article/1), [13(b)](https://www.legislation.gov.uk/ssi/2010/100/article/13)
+[^c-4acc3444b6ea05a28cf50d7c8c7e6fba]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2009/338) revoked (17.4.2010) by [The Sea Fishing (Transitional EU Technical Conservation Measures) (Scotland) Order 2010 (S.S.I. 2010/100)](https://www.legislation.gov.uk/ssi/2010/100), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2010/100/article/1), [13(b)](https://www.legislation.gov.uk/ssi/2010/100/article/13)

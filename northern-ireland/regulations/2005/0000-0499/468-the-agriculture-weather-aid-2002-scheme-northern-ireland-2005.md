@@ -37,11 +37,11 @@ Made
 
 The Department of Agriculture and Rural Development[^f00001], in exercise of the powers conferred on it by sections 1(1) and 2(1) of the Agriculture (Temporary Assistance) Act (Northern Ireland) 1954[^f00002] and of all other powers enabling it in that behalf, having consulted with such bodies of persons appearing to it to represent any interests concerned and with the approval of the Department of Finance and Personnel, hereby makes the following Scheme:
 
-## 1. Citation[^key-f6a1a838f6bc570de08a732dccd2b0af]
+## 1. Citation[^c-f6a1a838f6bc570de08a732dccd2b0af]
 
 This scheme may be cited as the Agriculture (Weather Aid 2002) Scheme (Northern Ireland) 2005.
 
-## 2. Interpretation[^key-f235f52fa4ab57fb6c4fa34596303519]
+## 2. Interpretation[^c-f235f52fa4ab57fb6c4fa34596303519]
 
 (1) In this scheme—
 
@@ -74,7 +74,7 @@ This scheme may be cited as the Agriculture (Weather Aid 2002) Scheme (Northern 
 
 (5) Expressions which are not defined in paragraph (1) and which appear in the Council Regulation have the same meaning in this Scheme as they have for the purposes of that Regulation.
 
-## 3. Scope of the scheme[^key-953a5c8ae25bbd293662024cc9989c9f]
+## 3. Scope of the scheme[^c-953a5c8ae25bbd293662024cc9989c9f]
 
 (1) The Department may, under and in accordance with the following provisions, pay to any eligible producer a grant in respect of any financial loss incurred by him because of reduced agricultural outputs or increased agricultural production costs as a direct result of abnormally adverse weather conditions in the year 2002.
 
@@ -96,7 +96,7 @@ This scheme may be cited as the Agriculture (Weather Aid 2002) Scheme (Northern 
 - (a) used by him for the production of spring barley in a less favoured area and for which, in respect of the year 2002, he received an Arable Area Payment (“the eligible barley hectarage”);
 - (b) used by him in the production of wheat in a less favoured area and for which in respect of that year, he received an Arable Area Payment (“eligible wheat hectarage”);
 
-## 4. Eligibility for payment[^key-4d8c97ed17bb626b7457cfbe8ceea082]
+## 4. Eligibility for payment[^c-4d8c97ed17bb626b7457cfbe8ceea082]
 
 An eligible producer for the purposes of Article 3 is a person who in 2002—
 
@@ -107,7 +107,7 @@ An eligible producer for the purposes of Article 3 is a person who in 2002—
 - (e) engaged in the production of spring barley in a less favoured area and in respect of that year received an Arable Area Payment; or
 - (f) engaged in the production of wheat in a less favoured area and in respect of that year received an Arable Area Payment.
 
-## 5. Application for payment[^key-441eb05d54adc345193838ad25490d68]
+## 5. Application for payment[^c-441eb05d54adc345193838ad25490d68]
 
 (1) The Department shall publish in such manner as it considers appropriate a notice inviting, and specifying the closing date for applications for grant.
 
@@ -117,7 +117,7 @@ An eligible producer for the purposes of Article 3 is a person who in 2002—
 
 (4) An applicant shall furnish all such information relating to the application as the Department may specify in the notice under paragraph (1) or from time to time require.
 
-## 6. Calculation of payment[^key-0d08a14a1062cf4344197ab335d5798b]
+## 6. Calculation of payment[^c-0d08a14a1062cf4344197ab335d5798b]
 
 (1) As soon as reasonably practicable after the date specified as the closing date for applications in a notice published under Article 5(1) the Department shall—
 
@@ -125,11 +125,11 @@ An eligible producer for the purposes of Article 3 is a person who in 2002—
 - (b) determine the total number of eligible sheep and of eligible cattle to which those applications relate;
 - (c) determine the total number of eligible litres to which those applications relate;
 - (d) determine the total eligible barley hectarage, and the total eligible wheat hectarage to which those applications relate; and
-- (e) determine the total eligible tonnes of table potatoes [^key-120b5c380ff1a986009de40add14200b]...to which those applications relate.
+- (e) determine the total eligible tonnes of table potatoes [^c-120b5c380ff1a986009de40add14200b]...to which those applications relate.
 
 (2) The Department shall then calculate the grant payable to each eligible producer in respect of his application in accordance with Article 8.
 
-## 7. Calculation of payment for producers of table potatoes[^key-f815d3fe306cc9a7bac0f3710faa1cfa]
+## 7. Calculation of payment for producers of table potatoes[^c-f815d3fe306cc9a7bac0f3710faa1cfa]
 
 (1) For the purposes of this Scheme the number of eligible tonnes of potatoes per hectare in the case of any eligible producer shall be X where
 
@@ -150,9 +150,9 @@ An eligible producer for the purposes of Article 3 is a person who in 2002—
 
 (4) For the purposes of this Scheme the average hectarage of table potatoes planted by an eligible producer means the average of such hectarage calculated using the same years as were used under paragraph (3) to calculate his average annual sales of table potatoes.
 
-(5)[^key-ab895a26c1e9149dcef2cb1d77467e08] For the purposes of this Scheme Y shall be the sum obtained by dividing the sum specified in column (2) of the Table set out in the Schedule opposite the reference to table potatoes by the total number of tonnes of table potatoes obtained under Article 6(1)(e) provided that Y shall not exceed £98.70.
+(5)[^c-ab895a26c1e9149dcef2cb1d77467e08] For the purposes of this Scheme Y shall be the sum obtained by dividing the sum specified in column (2) of the Table set out in the Schedule opposite the reference to table potatoes by the total number of tonnes of table potatoes obtained under Article 6(1)(e) provided that Y shall not exceed £98.70.
 
-## 8. Rate of payment[^key-30c78351078648f885b2fc51ce657a4e]
+## 8. Rate of payment[^c-30c78351078648f885b2fc51ce657a4e]
 
 (1) The headage payment in respect of each eligible cattle shall be the amount obtained by dividing the sum specified in column (2) of the Table set out in the Schedule opposite the reference to such animals by the total number thereof identified under Article 6(1);
 
@@ -166,11 +166,11 @@ An eligible producer for the purposes of Article 3 is a person who in 2002—
 
 (6) The production payment for each eligible producer in respect of his sales of eligible tonnes of table potatoes per hectare shall be the sum *X* × *Y* × *E*.
 
-## 9. Withholding of payment[^key-8e3a0b4e7e735475d18cdf46b7b7c0a2]
+## 9. Withholding of payment[^c-8e3a0b4e7e735475d18cdf46b7b7c0a2]
 
 Where a person, with a view to obtaining a payment for himself or any other person, makes any statement or furnishes any information which is false or misleading, or refuses to cooperate with an authorised officer exercising powers under the Scheme, the Department may withhold the whole or part of any amount payable to that person or such other person and may recover the whole or part of any payment already paid to that person or such other person.
 
-## 10. Recovery of payment[^key-cfcf1d26a0586dbd9ab4385874282671]
+## 10. Recovery of payment[^c-cfcf1d26a0586dbd9ab4385874282671]
 
 (1) Where an amount falls to be paid to the Department by virtue of this Scheme that amount or any part thereof shall be recoverable as a civil debt.
 
@@ -180,7 +180,7 @@ Where a person, with a view to obtaining a payment for himself or any other pers
 
 (4) For the purposes of this Article “LIBOR” means the sterling three month London interbank offered rate in force at any relevant time.
 
-## 11. Powers of authorised officers[^key-80afb1c0d94d842a3aeecd5b59df6c11]
+## 11. Powers of authorised officers[^c-80afb1c0d94d842a3aeecd5b59df6c11]
 
 (1) An authorised officer may, at all reasonable hours and on producing, if so required, some duly authenticated document showing his authority, enter any land or premises for the purposes of exercising powers specified under the Scheme.
 
@@ -207,7 +207,7 @@ A senior officer of the
 
 Department of Finance and Personnel
 
-## SCHEDULE — RATES OF PAYMENT[^key-98758101dcb56adebe3c6be3f5bf9250]
+## SCHEDULE — RATES OF PAYMENT[^c-98758101dcb56adebe3c6be3f5bf9250]
 
 Article 8
 
@@ -248,9 +248,9 @@ shall be liable on summary conviction to a fine not exceeding level 3 on the sta
 
 [^f00002]: Footnote: [1954 c. 31](https://www.legislation.gov.uk/apni/1954/31) as amended by [1957 c. 3 (N.I.)](https://www.legislation.gov.uk/apni/1957/3), S.I. [1977/1245 (N.I. 12)](https://www.legislation.gov.uk/nisi/1977/1245) Art. 20 and S.I. [1984/702 (N.I. 2)](https://www.legislation.gov.uk/nisi/1984/702) Art.7
 
-[^key-f6a1a838f6bc570de08a732dccd2b0af]: Commencement: S. 1 in operation at made date, see Scheme
+[^c-f6a1a838f6bc570de08a732dccd2b0af]: Commencement: S. 1 in operation at made date, see Scheme
 
-[^key-f235f52fa4ab57fb6c4fa34596303519]: Commencement: S. 2 in operation at made date, see Scheme
+[^c-f235f52fa4ab57fb6c4fa34596303519]: Commencement: S. 2 in operation at made date, see Scheme
 
 [^f00003]: Footnote: O.J. No. L160, 26.6.1999, p.1
 
@@ -260,26 +260,26 @@ shall be liable on summary conviction to a fine not exceeding level 3 on the sta
 
 [^f00006]: Footnote: O.J. No. L341, 22.12.2001, p.3
 
-[^key-953a5c8ae25bbd293662024cc9989c9f]: Commencement: S. 3 in operation at made date, see Scheme
+[^c-953a5c8ae25bbd293662024cc9989c9f]: Commencement: S. 3 in operation at made date, see Scheme
 
-[^key-4d8c97ed17bb626b7457cfbe8ceea082]: Commencement: S. 4 in operation at made date, see Scheme
+[^c-4d8c97ed17bb626b7457cfbe8ceea082]: Commencement: S. 4 in operation at made date, see Scheme
 
-[^key-441eb05d54adc345193838ad25490d68]: Commencement: S. 5 in operation at made date, see Scheme
+[^c-441eb05d54adc345193838ad25490d68]: Commencement: S. 5 in operation at made date, see Scheme
 
-[^key-0d08a14a1062cf4344197ab335d5798b]: Commencement: S. 6 in operation at made date, see Scheme
+[^c-0d08a14a1062cf4344197ab335d5798b]: Commencement: S. 6 in operation at made date, see Scheme
 
-[^key-120b5c380ff1a986009de40add14200b]: Textual amendment: Words in [art. 6(1)(e)](https://www.legislation.gov.uk/nisr/2005/468/article/6/1/e) omitted (15.6.2006) by virtue of [The Agriculture (Weather Aid 2002) (Amendment) Scheme (Northern Ireland) 2006 (S.R. 2006/232)](https://www.legislation.gov.uk/nisr/2006/232), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2006/232/article/1/1), [2(a)](https://www.legislation.gov.uk/nisr/2006/232/article/2/a)
+[^c-120b5c380ff1a986009de40add14200b]: Textual amendment: Words in [art. 6(1)(e)](https://www.legislation.gov.uk/nisr/2005/468/article/6/1/e) omitted (15.6.2006) by virtue of [The Agriculture (Weather Aid 2002) (Amendment) Scheme (Northern Ireland) 2006 (S.R. 2006/232)](https://www.legislation.gov.uk/nisr/2006/232), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2006/232/article/1/1), [2(a)](https://www.legislation.gov.uk/nisr/2006/232/article/2/a)
 
-[^key-f815d3fe306cc9a7bac0f3710faa1cfa]: Commencement: S. 7 in operation at made date, see Scheme
+[^c-f815d3fe306cc9a7bac0f3710faa1cfa]: Commencement: S. 7 in operation at made date, see Scheme
 
-[^key-ab895a26c1e9149dcef2cb1d77467e08]: Textual amendment: [Art. 7(5)](https://www.legislation.gov.uk/nisr/2005/468/article/7/5) substituted (15.6.2006) by [The Agriculture (Weather Aid 2002) (Amendment) Scheme (Northern Ireland) 2006 (S.R. 2006/232)](https://www.legislation.gov.uk/nisr/2006/232), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2006/232/article/1/1), [2(b)](https://www.legislation.gov.uk/nisr/2006/232/article/2/b)
+[^c-ab895a26c1e9149dcef2cb1d77467e08]: Textual amendment: [Art. 7(5)](https://www.legislation.gov.uk/nisr/2005/468/article/7/5) substituted (15.6.2006) by [The Agriculture (Weather Aid 2002) (Amendment) Scheme (Northern Ireland) 2006 (S.R. 2006/232)](https://www.legislation.gov.uk/nisr/2006/232), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2006/232/article/1/1), [2(b)](https://www.legislation.gov.uk/nisr/2006/232/article/2/b)
 
-[^key-30c78351078648f885b2fc51ce657a4e]: Commencement: S. 8 in operation at made date, see Scheme
+[^c-30c78351078648f885b2fc51ce657a4e]: Commencement: S. 8 in operation at made date, see Scheme
 
-[^key-8e3a0b4e7e735475d18cdf46b7b7c0a2]: Commencement: S. 9 in operation at made date, see Scheme
+[^c-8e3a0b4e7e735475d18cdf46b7b7c0a2]: Commencement: S. 9 in operation at made date, see Scheme
 
-[^key-cfcf1d26a0586dbd9ab4385874282671]: Commencement: S. 10 in operation at made date, see Scheme
+[^c-cfcf1d26a0586dbd9ab4385874282671]: Commencement: S. 10 in operation at made date, see Scheme
 
-[^key-80afb1c0d94d842a3aeecd5b59df6c11]: Commencement: S. 11 in operation at made date, see Scheme
+[^c-80afb1c0d94d842a3aeecd5b59df6c11]: Commencement: S. 11 in operation at made date, see Scheme
 
-[^key-98758101dcb56adebe3c6be3f5bf9250]: Commencement: Sch. in operation at made date, see Scheme
+[^c-98758101dcb56adebe3c6be3f5bf9250]: Commencement: Sch. in operation at made date, see Scheme

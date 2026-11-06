@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 904. Transfers of life assurance business: transfers of assets treated as tax-neutral[^key-8be3eb68791438ec2499bada98b425e0]
+## 904. Transfers of life assurance business: transfers of assets treated as tax-neutral[^c-8be3eb68791438ec2499bada98b425e0]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8be3eb68791438ec2499bada98b425e0]: Textual amendment: S. 904 omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 181](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/181)
+[^c-8be3eb68791438ec2499bada98b425e0]: Textual amendment: S. 904 omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 181](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/181)

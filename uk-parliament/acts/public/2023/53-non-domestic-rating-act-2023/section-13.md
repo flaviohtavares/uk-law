@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Northern Ireland.
 
-## 13. Requirements for ratepayers etc to provide information[^key-828ea08ed58d7580151ce2173f5ab07d]
+## 13. Requirements for ratepayers etc to provide information[^c-828ea08ed58d7580151ce2173f5ab07d]
 
 *Extent: E+W*
 
@@ -342,4 +342,4 @@ summary: ''
 
 ## Annotations
 
-[^key-828ea08ed58d7580151ce2173f5ab07d]: Commencement: S. 13 not in force at Royal Assent, see [s. 19(4)(a)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/4/a)(6)
+[^c-828ea08ed58d7580151ce2173f5ab07d]: Commencement: S. 13 not in force at Royal Assent, see [s. 19(4)(a)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/4/a)(6)

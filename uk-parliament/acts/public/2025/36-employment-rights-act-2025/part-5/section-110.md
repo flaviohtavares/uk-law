@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110. Appeals against notices of underpayment[^key-2f381424b76810145ec650728bc18573][^key-2c2856563f6e89598cd041c900f7fcac]
+## 110. Appeals against notices of underpayment[^c-2f381424b76810145ec650728bc18573][^c-2c2856563f6e89598cd041c900f7fcac]
 
 *Extent: E+W+S+N.I.*
 
@@ -64,6 +64,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2f381424b76810145ec650728bc18573]: Commencement: S. 110 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-2f381424b76810145ec650728bc18573]: Commencement: S. 110 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-2c2856563f6e89598cd041c900f7fcac]: Commencement: [S. 110](https://www.legislation.gov.uk/ukpga/2025/36/section/110) in force at 7.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(15)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/15)
+[^c-2c2856563f6e89598cd041c900f7fcac]: Commencement: [S. 110](https://www.legislation.gov.uk/ukpga/2025/36/section/110) in force at 7.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(15)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/15)

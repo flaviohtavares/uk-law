@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Regulator[^key-245e3f51d5f0390a0118598b893e444d]
+## 27. Regulator[^c-245e3f51d5f0390a0118598b893e444d]
 
 *Extent: E+W+S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-245e3f51d5f0390a0118598b893e444d]: Commencement: S. 27 in force at 1.1.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/3322/schedule/1)
+[^c-245e3f51d5f0390a0118598b893e444d]: Commencement: S. 27 in force at 1.1.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/3322/schedule/1)

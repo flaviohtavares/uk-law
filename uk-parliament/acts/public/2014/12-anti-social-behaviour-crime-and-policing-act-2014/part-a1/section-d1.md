@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## D1. Requirements included in respect orders[^key-46ea62b2babd461d652a29242d0ad146]
+## D1. Requirements included in respect orders[^c-46ea62b2babd461d652a29242d0ad146]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,4 +61,4 @@ These obligations have effect as requirements of the order.
 
 ## Annotations
 
-[^key-46ea62b2babd461d652a29242d0ad146]: Textual amendment: [Pt. A1](https://www.legislation.gov.uk/ukpga/2014/12/part/A1) inserted (26.10.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2026/20/section/1/2), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2026/960/regulation/4/a)
+[^c-46ea62b2babd461d652a29242d0ad146]: Textual amendment: [Pt. A1](https://www.legislation.gov.uk/ukpga/2014/12/part/A1) inserted (26.10.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2026/20/section/1/2), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2026/960/regulation/4/a)

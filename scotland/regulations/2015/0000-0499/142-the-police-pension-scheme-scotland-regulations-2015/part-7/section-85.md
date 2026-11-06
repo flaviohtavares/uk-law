@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 85. Full retirement pension payable early on grounds of permanent medical unfitness (deferred members)[^key-e24423b42bc1819709693fd0a15a8456]
+## 85. Full retirement pension payable early on grounds of permanent medical unfitness (deferred members)[^c-e24423b42bc1819709693fd0a15a8456]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e24423b42bc1819709693fd0a15a8456]: Commencement: Reg. 85 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-e24423b42bc1819709693fd0a15a8456]: Commencement: Reg. 85 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

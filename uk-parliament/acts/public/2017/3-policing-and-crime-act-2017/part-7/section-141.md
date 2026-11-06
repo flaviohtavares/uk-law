@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 141. Cumulative impact assessments[^c22719801][^key-7ae8da6b447c3750f7d0ec86e8f4b81b]
+## 141. Cumulative impact assessments[^c22719801][^c-7ae8da6b447c3750f7d0ec86e8f4b81b]
 
 *Extent: E+W*
 
@@ -76,4 +76,4 @@ summary: ''
 
 [^c22719801]: Commencement: [S. 141](https://www.legislation.gov.uk/ukpga/2017/3/section/141) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-7ae8da6b447c3750f7d0ec86e8f4b81b]: Commencement: [S. 141](https://www.legislation.gov.uk/ukpga/2017/3/section/141) in force at 6.4.2018 in so far as not already in force by [S.I. 2018/456](https://www.legislation.gov.uk/uksi/2018/456), [reg. 2](https://www.legislation.gov.uk/uksi/2018/456/regulation/2)
+[^c-7ae8da6b447c3750f7d0ec86e8f4b81b]: Commencement: [S. 141](https://www.legislation.gov.uk/ukpga/2017/3/section/141) in force at 6.4.2018 in so far as not already in force by [S.I. 2018/456](https://www.legislation.gov.uk/uksi/2018/456), [reg. 2](https://www.legislation.gov.uk/uksi/2018/456/regulation/2)

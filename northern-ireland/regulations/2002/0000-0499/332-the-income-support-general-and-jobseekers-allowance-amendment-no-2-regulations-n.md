@@ -41,17 +41,17 @@ Coming into operation
 
 The Department for Social Development, in exercise of the powers conferred on it by sections 122(1)(a), 123(1)(e) and 171(1), (3) and (4) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and Articles 3(2C) and 36(2) of the Jobseekers (Northern Ireland) Order 1995[^f00002], and now vested in it[^f00003], and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-45e211d627d3fa895d9ecec24f0f6eb5]
+## 1. Citation, commencement and interpretation[^c-45e211d627d3fa895d9ecec24f0f6eb5]
 
 (1) These Regulations may be cited as the Income Support (General) and Jobseeker’s Allowance (Amendment No. 2) Regulations (Northern Ireland) 2002 and shall come into operation on 25th November 2002.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00004] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Income Support (General) Regulations[^key-1a644de1081513efaadfd50d46c89ba7]
+## 2. Amendment of the Income Support (General) Regulations[^c-1a644de1081513efaadfd50d46c89ba7]
 
 In Schedule 1B (prescribed categories of person) to the Income Support (General) Regulations (Northern Ireland) 1987[^f00005] in paragraph 14(b) (pregnancy) after the word “ends” there shall be inserted “where the expected week of confinement begins prior to 6th April 2003 or fifteen weeks after the date on which her pregnancy ends where the expected week of confinement begins on or after 6th April 2003”.
 
-## 3. Amendment of the Jobseeker’s Allowance Regulations[^key-35813e2f7ad24bd2e84cf68c68b2dc2a]
+## 3. Amendment of the Jobseeker’s Allowance Regulations[^c-35813e2f7ad24bd2e84cf68c68b2dc2a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -83,12 +83,12 @@ These Regulations do not impose any charge on business.
 
 [^f00003]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-45e211d627d3fa895d9ecec24f0f6eb5]: Commencement: Reg. 1 in operation at 25.11.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/332/regulation/1/1)
+[^c-45e211d627d3fa895d9ecec24f0f6eb5]: Commencement: Reg. 1 in operation at 25.11.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/332/regulation/1/1)
 
 [^f00004]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-1a644de1081513efaadfd50d46c89ba7]: Commencement: Reg. 2 in operation at 25.11.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/332/regulation/1/1)
+[^c-1a644de1081513efaadfd50d46c89ba7]: Commencement: Reg. 2 in operation at 25.11.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/332/regulation/1/1)
 
 [^f00005]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); Schedule 1B was inserted by regulation 22 of and Schedule 1 to [S.R. 1996 No. 199](https://www.legislation.gov.uk/nisr/1996/199)
 
-[^key-35813e2f7ad24bd2e84cf68c68b2dc2a]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2002/332/regulation/3) revoked (6.4.2010) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2010 (S.R. 2010/69)](https://www.legislation.gov.uk/nisr/2010/69), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2010/69/regulation/1/1), [12](https://www.legislation.gov.uk/nisr/2010/69/regulation/12)
+[^c-35813e2f7ad24bd2e84cf68c68b2dc2a]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2002/332/regulation/3) revoked (6.4.2010) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2010 (S.R. 2010/69)](https://www.legislation.gov.uk/nisr/2010/69), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2010/69/regulation/1/1), [12](https://www.legislation.gov.uk/nisr/2010/69/regulation/12)

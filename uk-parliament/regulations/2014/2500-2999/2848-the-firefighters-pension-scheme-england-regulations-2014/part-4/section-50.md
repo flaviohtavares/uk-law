@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Establishment of retirement account and other adjustments[^key-57039bcd6245b4d1cd4c1e790133dee3]
+## 50. Establishment of retirement account and other adjustments[^c-57039bcd6245b4d1cd4c1e790133dee3]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-57039bcd6245b4d1cd4c1e790133dee3]: Commencement: [Reg. 50](https://www.legislation.gov.uk/uksi/2014/2848/regulation/50) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-57039bcd6245b4d1cd4c1e790133dee3]: Commencement: [Reg. 50](https://www.legislation.gov.uk/uksi/2014/2848/regulation/50) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

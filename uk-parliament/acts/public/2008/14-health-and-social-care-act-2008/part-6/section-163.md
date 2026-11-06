@@ -31,11 +31,11 @@ is subject to annulment in pursuance of a resolution of the National Assembly fo
 
 (3) The Welsh Ministers may not make a statutory instrument containing (whether alone or with other provision)—
 
-- (a) the first regulations made by the Welsh Ministers under section 120 (additional responsibilities of responsible officers), [^key-e52a656defe821f90f37a24ea297de0d]...
-- (b)[^key-e52a656defe821f90f37a24ea297de0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) the first regulations made by the Welsh Ministers under section 120 (additional responsibilities of responsible officers), [^c-e52a656defe821f90f37a24ea297de0d]...
+- (b)[^c-e52a656defe821f90f37a24ea297de0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 unless a draft of the instrument has been laid before, and approved by a resolution of, the National Assembly for Wales.
 
 ## Annotations
 
-[^key-e52a656defe821f90f37a24ea297de0d]: Textual amendment: S. 163(3)(b) and word repealed (3.4.2017) by [Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2)](https://www.legislation.gov.uk/anaw/2016/2), [s. 188(1)](https://www.legislation.gov.uk/anaw/2016/2/section/188/1), [Sch. 3 para. 58(d)](https://www.legislation.gov.uk/anaw/2016/2/schedule/3/paragraph/58/d); [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(j)](https://www.legislation.gov.uk/wsi/2017/309/article/2/j) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))
+[^c-e52a656defe821f90f37a24ea297de0d]: Textual amendment: S. 163(3)(b) and word repealed (3.4.2017) by [Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2)](https://www.legislation.gov.uk/anaw/2016/2), [s. 188(1)](https://www.legislation.gov.uk/anaw/2016/2/section/188/1), [Sch. 3 para. 58(d)](https://www.legislation.gov.uk/anaw/2016/2/schedule/3/paragraph/58/d); [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(j)](https://www.legislation.gov.uk/wsi/2017/309/article/2/j) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))

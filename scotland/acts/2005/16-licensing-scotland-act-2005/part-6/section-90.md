@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 90. Power to specify which Licensing Board is to exercise functions under this Part[^key-d624cb0b465eefc2d477ca44ec45ccf6]
+## 90. Power to specify which Licensing Board is to exercise functions under this Part[^c-d624cb0b465eefc2d477ca44ec45ccf6]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d624cb0b465eefc2d477ca44ec45ccf6]: Commencement: S. 90 in force at 1.5.2007 by [S.S.I. 2007/129](https://www.legislation.gov.uk/ssi/2007/129), [art. 3](https://www.legislation.gov.uk/ssi/2007/129/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/129/schedule)
+[^c-d624cb0b465eefc2d477ca44ec45ccf6]: Commencement: S. 90 in force at 1.5.2007 by [S.S.I. 2007/129](https://www.legislation.gov.uk/ssi/2007/129), [art. 3](https://www.legislation.gov.uk/ssi/2007/129/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/129/schedule)

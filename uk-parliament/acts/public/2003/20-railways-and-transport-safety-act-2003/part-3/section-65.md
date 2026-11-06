@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Remedial direction[^key-3605da95524aac8edf85ebc1568d30ba]
+## 65. Remedial direction[^c-3605da95524aac8edf85ebc1568d30ba]
 
 *Extent: E+W+S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3605da95524aac8edf85ebc1568d30ba]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2003/20/section/65) in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(vv)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/vv)
+[^c-3605da95524aac8edf85ebc1568d30ba]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2003/20/section/65) in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(vv)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/vv)

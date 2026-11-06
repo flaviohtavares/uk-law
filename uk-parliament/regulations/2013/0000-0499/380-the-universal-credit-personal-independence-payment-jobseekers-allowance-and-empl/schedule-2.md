@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 2 — ELECTRONIC COMMUNICATIONS[^key-9acbef950780b78372d152a0de9cf5eb][^key-ca1fda3536c30288ffbfcc0d65d33b4e]
+## SCHEDULE 2 — ELECTRONIC COMMUNICATIONS[^c-9acbef950780b78372d152a0de9cf5eb][^c-ca1fda3536c30288ffbfcc0d65d33b4e]
 
 *Extent: E+W+S*
 
@@ -104,6 +104,6 @@ The content of any claim or information sent by means of an electronic communica
 
 ## Annotations
 
-[^key-9acbef950780b78372d152a0de9cf5eb]: Modification: Sch. 2 applied (8.4.2013 for specified purposes, 29.4.2013 in so far as not already in force) by [The Universal Credit, Personal Independence Payment, Jobseekerâ€™s Allowance and Employment and Support Allowance (Decisions and Appeals) Regulations 2013 (S.I. 2013/381)](https://www.legislation.gov.uk/uksi/2013/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/381/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2013/381/regulation/4) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/381/regulation/1/3))
+[^c-9acbef950780b78372d152a0de9cf5eb]: Modification: Sch. 2 applied (8.4.2013 for specified purposes, 29.4.2013 in so far as not already in force) by [The Universal Credit, Personal Independence Payment, Jobseekerâ€™s Allowance and Employment and Support Allowance (Decisions and Appeals) Regulations 2013 (S.I. 2013/381)](https://www.legislation.gov.uk/uksi/2013/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/381/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2013/381/regulation/4) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/381/regulation/1/3))
 
-[^key-ca1fda3536c30288ffbfcc0d65d33b4e]: Modification: Sch. 2 applied (temp.) (19.2.2015) by [The Universal Credit (Work-Related Requirements) In Work Pilot Scheme and Amendment Regulations 2015 (S.I. 2015/89)](https://www.legislation.gov.uk/uksi/2015/89), [regs. 1](https://www.legislation.gov.uk/uksi/2015/89/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2015/89/regulation/6/3), [8](https://www.legislation.gov.uk/uksi/2015/89/regulation/8)
+[^c-ca1fda3536c30288ffbfcc0d65d33b4e]: Modification: Sch. 2 applied (temp.) (19.2.2015) by [The Universal Credit (Work-Related Requirements) In Work Pilot Scheme and Amendment Regulations 2015 (S.I. 2015/89)](https://www.legislation.gov.uk/uksi/2015/89), [regs. 1](https://www.legislation.gov.uk/uksi/2015/89/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2015/89/regulation/6/3), [8](https://www.legislation.gov.uk/uksi/2015/89/regulation/8)

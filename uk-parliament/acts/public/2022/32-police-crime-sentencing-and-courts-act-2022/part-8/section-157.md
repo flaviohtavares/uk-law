@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 157. Youth remand[^key-30f79b43ec81713003d90e6b4a93961f]
+## 157. Youth remand[^c-30f79b43ec81713003d90e6b4a93961f]
 
 *Extent: E+W*
 
@@ -94,4 +94,4 @@ summary: ''
 
 ## Annotations
 
-[^key-30f79b43ec81713003d90e6b4a93961f]: Commencement: [S. 157](https://www.legislation.gov.uk/ukpga/2022/32/section/157) in force at 28.6.2022, see [s. 208(5)(t)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/t)
+[^c-30f79b43ec81713003d90e6b4a93961f]: Commencement: [S. 157](https://www.legislation.gov.uk/ukpga/2022/32/section/157) in force at 28.6.2022, see [s. 208(5)(t)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/t)

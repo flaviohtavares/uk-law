@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 64. Setting time limits[^key-39b707c8258323f33c4d099f5480e74a]
+## 64. Setting time limits[^c-39b707c8258323f33c4d099f5480e74a]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-39b707c8258323f33c4d099f5480e74a]: Commencement: [Reg. 64](https://www.legislation.gov.uk/ssi/2016/49/regulation/64) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
+[^c-39b707c8258323f33c4d099f5480e74a]: Commencement: [Reg. 64](https://www.legislation.gov.uk/ssi/2016/49/regulation/64) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)

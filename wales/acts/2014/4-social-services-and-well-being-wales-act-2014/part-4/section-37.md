@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Duty to meet care and support needs of a child[^key-7283a5b070d15fe214cc39630df35539]
+## 37. Duty to meet care and support needs of a child[^c-7283a5b070d15fe214cc39630df35539]
 
 *Extent: E+W*
 
@@ -31,7 +31,7 @@ summary: ''
   - (i) abuse or neglect or a risk of abuse or neglect, or
   - (ii) other harm or a risk of such harm.
 
-(4) If the local authority has been notified about a child under section 120(2)(a) or under section 85(1) of the Children Act 1989 (children accommodated by health authorities and local education authorities)[^key-9ea37e717c599bfe0a5acfe3b8e18370], it must treat the child as being within its area for the purposes of this section.
+(4) If the local authority has been notified about a child under section 120(2)(a) or under section 85(1) of the Children Act 1989 (children accommodated by health authorities and local education authorities)[^c-9ea37e717c599bfe0a5acfe3b8e18370], it must treat the child as being within its area for the purposes of this section.
 
 (5) The duty under subsection (1) does not apply to a child's needs to the extent that the local authority is satisfied that those needs are being met by the child's family or a carer.
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7283a5b070d15fe214cc39630df35539]: Commencement: S. 37 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
+[^c-7283a5b070d15fe214cc39630df35539]: Commencement: S. 37 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
 
-[^key-9ea37e717c599bfe0a5acfe3b8e18370]: Textual amendment: Words in s. 37(4) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [296](https://www.legislation.gov.uk/wsi/2016/413/regulation/296)
+[^c-9ea37e717c599bfe0a5acfe3b8e18370]: Textual amendment: Words in s. 37(4) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [296](https://www.legislation.gov.uk/wsi/2016/413/regulation/296)

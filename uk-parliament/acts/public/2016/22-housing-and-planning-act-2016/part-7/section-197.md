@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 197. Repayment of advance payment where no compulsory purchase[^key-a86411be8baabb1b68a49f78e336e686]
+## 197. Repayment of advance payment where no compulsory purchase[^c-a86411be8baabb1b68a49f78e336e686]
 
 *Extent: E+W*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a86411be8baabb1b68a49f78e336e686]: Commencement: [S. 197](https://www.legislation.gov.uk/ukpga/2016/22/section/197) in force at 6.4.2018 by [S.I. 2018/251](https://www.legislation.gov.uk/uksi/2018/251), [reg. 4(h)](https://www.legislation.gov.uk/uksi/2018/251/regulation/4/h) (with [reg. 6](https://www.legislation.gov.uk/uksi/2018/251/regulation/6))
+[^c-a86411be8baabb1b68a49f78e336e686]: Commencement: [S. 197](https://www.legislation.gov.uk/ukpga/2016/22/section/197) in force at 6.4.2018 by [S.I. 2018/251](https://www.legislation.gov.uk/uksi/2018/251), [reg. 4(h)](https://www.legislation.gov.uk/uksi/2018/251/regulation/4/h) (with [reg. 6](https://www.legislation.gov.uk/uksi/2018/251/regulation/6))

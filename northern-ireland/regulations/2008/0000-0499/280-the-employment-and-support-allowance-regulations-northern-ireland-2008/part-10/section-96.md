@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 96. Calculation of net earnings of employed earners[^key-cecdb0283d08d06b94033848326fdca9]
+## 96. Calculation of net earnings of employed earners[^c-cecdb0283d08d06b94033848326fdca9]
 
 *Extent: N.I.*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cecdb0283d08d06b94033848326fdca9]: Commencement: [Reg. 96](https://www.legislation.gov.uk/nisr/2008/280/regulation/96) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-cecdb0283d08d06b94033848326fdca9]: Commencement: [Reg. 96](https://www.legislation.gov.uk/nisr/2008/280/regulation/96) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
 
 [^f00093]: Footnote: Section 6 was substituted by paragraph 2 of Schedule 10 to the Welfare Reform and Pensions Act [1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30) and amended by section 81(3) of the Child Support, Pensions and Social Security Act [2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19)

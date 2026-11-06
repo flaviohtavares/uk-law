@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2.A.1A. Civil partnerships and marriage of same sex couples[^key-b0476723ac62818ff90864084faa620f]
+## 2.A.1A. Civil partnerships and marriage of same sex couples[^c-b0476723ac62818ff90864084faa620f]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b0476723ac62818ff90864084faa620f]: Textual amendment: [Reg. 2.A.1A](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.A.1A) inserted (retrospective and with effect in accordance with reg. 1(3) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/96)](https://www.legislation.gov.uk/ssi/2015/96), [regs. 1](https://www.legislation.gov.uk/ssi/2015/96/regulation/1), [22](https://www.legislation.gov.uk/ssi/2015/96/regulation/22)
+[^c-b0476723ac62818ff90864084faa620f]: Textual amendment: [Reg. 2.A.1A](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.A.1A) inserted (retrospective and with effect in accordance with reg. 1(3) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/96)](https://www.legislation.gov.uk/ssi/2015/96), [regs. 1](https://www.legislation.gov.uk/ssi/2015/96/regulation/1), [22](https://www.legislation.gov.uk/ssi/2015/96/regulation/22)

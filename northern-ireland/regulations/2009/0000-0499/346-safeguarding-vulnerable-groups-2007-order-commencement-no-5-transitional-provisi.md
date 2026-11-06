@@ -39,11 +39,11 @@ The Secretary of State makes the following Order in exercise of the powers confe
 
 ## PART 1 — Introduction
 
-### 1. Citation[^key-488a3a5bd5a7673e90e4b1b00241ec77]
+### 1. Citation[^c-488a3a5bd5a7673e90e4b1b00241ec77]
 
 This Order may be cited as the Safeguarding Vulnerable Groups (2007 Order) (Commencement No. 5, Transitional Provisions and Savings) Order (Northern Ireland) 2009.
 
-### 2. Interpretation[^key-02d3f17bd552dfdd4593ad825d7f702a]
+### 2. Interpretation[^c-02d3f17bd552dfdd4593ad825d7f702a]
 
 (1) In this Order
 
@@ -52,19 +52,19 @@ This Order may be cited as the Safeguarding Vulnerable Groups (2007 Order) (Comm
 - “the 2007 Regulations” means the Education (Prohibition from Teaching or Working with Children) Regulations (Northern Ireland) 2007[^f00003];
 - “the 2008 Order” means the Safeguarding Vulnerable Groups (Transitional Provisions) Order (Northern Ireland) 2008[^f00004];
 - “disqualification order” means an order under Article 23 or 24 of POCVA;
-- “disqualified from working with children” means disqualified from working with children for the purposes of Part II of[^key-60a4a813a345b27ba2b364f26d525a04] POCVA;
+- “disqualified from working with children” means disqualified from working with children for the purposes of Part II of[^c-60a4a813a345b27ba2b364f26d525a04] POCVA;
 - “POCVA” means the Protection of Children and Vulnerable Adults (Northern Ireland) Order 2003[^f00005];
 - “the relevant provisions of POCVA” means the provisions of that Order specified in the Schedule to this Order.
 
 ## PART 2 — Commencement
 
-### 3. Provisions coming into operation on 12th October 2009[^key-8f44b3049c81fc9b4233ef7e38ac351b]
+### 3. Provisions coming into operation on 12th October 2009[^c-8f44b3049c81fc9b4233ef7e38ac351b]
 
 (1) 12th October 2009 is the day appointed for the coming into operation of the provisions of the Order specified in column 1 of the Schedule.
 
 (2) Where a particular purpose is specified in column 2 of the Schedule in relation to any such provision, the provision shall come into operation on that date for that purpose only.
 
-### 4. Repeal of provisions of the Protection of Children and Vulnerable Adults (Northern Ireland) Order 2003[^key-57f9e4623f8a403f9449ba53758d3963]
+### 4. Repeal of provisions of the Protection of Children and Vulnerable Adults (Northern Ireland) Order 2003[^c-57f9e4623f8a403f9449ba53758d3963]
 
 (1) The repeal of the remaining provisions of POCVA by Article 60(2) and Schedule 8 to the Order shall come into operation on 12th October 2009 for the purposes specified in the following provisions of this Article.
 
@@ -78,7 +78,7 @@ This Order may be cited as the Safeguarding Vulnerable Groups (2007 Order) (Comm
 (4) A person (“P”) falls within this paragraph if P—
 
 - (a) is or has at any time been barred from regulated activity by virtue of Article 7(2) of the Order; or
-- (b) has been included in the children’s barred list pursuant to Article 3(2)(a) of the 2008 Order, but is removed from that list by the DBS[^key-dd3cb593882e425eca2375ae64bab123] [^f00006] in accordance with Article 3(4) of that Order.
+- (b) has been included in the children’s barred list pursuant to Article 3(2)(a) of the 2008 Order, but is removed from that list by the DBS[^c-dd3cb593882e425eca2375ae64bab123] [^f00006] in accordance with Article 3(4) of that Order.
 
 (5) A disqualification order falls within this paragraph if—
 
@@ -89,7 +89,7 @@ This Order may be cited as the Safeguarding Vulnerable Groups (2007 Order) (Comm
 
 ## PART 3 — Transitional provisions and savings
 
-### 5. Persons included in the list of persons unsuitable to work with children: Protection of Children and Vulnerable Adults (Northern Ireland) Order 2003[^key-4093f2133f4a73e69fb51722a25075c3]
+### 5. Persons included in the list of persons unsuitable to work with children: Protection of Children and Vulnerable Adults (Northern Ireland) Order 2003[^c-4093f2133f4a73e69fb51722a25075c3]
 
 (1) Notwithstanding the commencement under Article 3 of the repeal of the relevant provisions of POCVA, those provisions shall continue to have effect in relation to a person falling within paragraph (4) (“P”) for any of the purposes specified in paragraph (2) until one of the matters described in paragraph (5) applies to P.
 
@@ -108,11 +108,11 @@ This Order may be cited as the Safeguarding Vulnerable Groups (2007 Order) (Comm
 
 (5) The matters referred to in paragraph (1) are—
 
-- (a) P is removed from the list kept under Article 3 of POCVA in accordance with a provision of that Order and—[^key-200f595024edee526e7c8e9175b1f635]
+- (a) P is removed from the list kept under Article 3 of POCVA in accordance with a provision of that Order and—[^c-200f595024edee526e7c8e9175b1f635]
   - (i) there is no outstanding appeal relating to P’s removal from the list, and
   - (ii) the period of time in which any appeal relating to the removal of P from the list may be expired;
-- (b)[^key-7dbc05149990d07841c640e805ec5d9a] P is included in the children’s barred list pursuant to Article 3(2)(a) of the 2008 Order and—
-  - (i) DBS[^key-ab260a3589b35c8caa1a28ac9db952f9] is not required under Article 3(2)(b) of the 2008 Order to give P the opportunity to make representations as to why P should be removed from that list; or
+- (b)[^c-7dbc05149990d07841c640e805ec5d9a] P is included in the children’s barred list pursuant to Article 3(2)(a) of the 2008 Order and—
+  - (i) DBS[^c-ab260a3589b35c8caa1a28ac9db952f9] is not required under Article 3(2)(b) of the 2008 Order to give P the opportunity to make representations as to why P should be removed from that list; or
   - (ii) where DBS is required under that Article to give P the opportunity to make such representations, it decides under that Article not to remove P from that list; and
   - (iii) where paragraph (i) or (ii) applies—
     - (aa) there is no outstanding review of P’s inclusion in the list kept under Article 3 of POCVA,
@@ -122,13 +122,13 @@ This Order may be cited as the Safeguarding Vulnerable Groups (2007 Order) (Comm
 - (d) in accordance with Article 3(4) of the 2008 Order, DBS removes P from the children’s barred list;
 - (e) where P is referred to DBS in accordance with Article 4 of the 2008 Order, DBS makes a decision not to include P in the children’s barred list.
 
-(5A)[^key-c4c3e93d756a58aeed2d098a54b7d076] Where P has been included in the children’s barred list in accordance with Article 3(2)(a) of the 2008 Order and where paragraph (5)(a) is satisfied at any time whilst P is so included, DBS must remove P from the list unless it is satisfied that paragraph 1 or 2 of Schedule 1 to the Order (prescribed criteria for automatic inclusion in the children’s barred list) applies to P.
+(5A)[^c-c4c3e93d756a58aeed2d098a54b7d076] Where P has been included in the children’s barred list in accordance with Article 3(2)(a) of the 2008 Order and where paragraph (5)(a) is satisfied at any time whilst P is so included, DBS must remove P from the list unless it is satisfied that paragraph 1 or 2 of Schedule 1 to the Order (prescribed criteria for automatic inclusion in the children’s barred list) applies to P.
 
 (6) Article 7 of the Order does not apply to P until the relevant provisions of POCVA cease to have effect in relation to P in accordance with this Article.
 
-(7)[^key-d27796d633a618743f346b0688012bf9] For the purposes of paragraph (5)(b)(iii)(aa), “outstanding review” means a review being carried out by the Department of Health, Social Services and Public Safety for the purposes of determining whether P should be removed from the list pursuant to Article 3(3) of POCVA.
+(7)[^c-d27796d633a618743f346b0688012bf9] For the purposes of paragraph (5)(b)(iii)(aa), “outstanding review” means a review being carried out by the Department of Health, Social Services and Public Safety for the purposes of determining whether P should be removed from the list pursuant to Article 3(3) of POCVA.
 
-### 6. Persons included in the list of persons unsuitable to work with vulnerable adults: Protection of Children and Vulnerable Adults (Northern Ireland) Order 2003[^key-184379f1aeb648bd50a041a43008ad44]
+### 6. Persons included in the list of persons unsuitable to work with vulnerable adults: Protection of Children and Vulnerable Adults (Northern Ireland) Order 2003[^c-184379f1aeb648bd50a041a43008ad44]
 
 (1) Notwithstanding the commencement under Article 3 of the repeal of the relevant provisions of POCVA, those provisions shall continue to have effect in relation to a person falling within paragraph (4) (“P”) for any of the purposes specified in paragraph (2) until one of the matters described in paragraph (5) applies to P.
 
@@ -142,7 +142,7 @@ This Order may be cited as the Safeguarding Vulnerable Groups (2007 Order) (Comm
 
 (4) P is a person—
 
-- (a) who immediately before 12th October 2009 is included in the list kept under Article 35 of POCVA, and—[^key-d667dc13dca774f9328ba9d73eac4731]
+- (a) who immediately before 12th October 2009 is included in the list kept under Article 35 of POCVA, and—[^c-d667dc13dca774f9328ba9d73eac4731]
   - (i) there is no outstanding appeal relating to P’s removal from the list, and
   - (ii) the period of time in which any appeal relating to the removal of P from the list may be made has expired; and
 - (b) in relation to whom none of the matters described in paragraph (5)(b) to (e) has occurred before that date.
@@ -150,8 +150,8 @@ This Order may be cited as the Safeguarding Vulnerable Groups (2007 Order) (Comm
 (5) The matters referred to in paragraph (1) are—
 
 - (a) P is removed from the list kept under Article 35 of POCVA in accordance with a provision of that Order;
-- (b)[^key-fe5261b1af65e3dd0e85052d01e8422f] P is included in the adults’ barred list pursuant to Article 5(2)(a) of the 2008 Order and
-  - (i) DBS[^key-6f238d3d40fead8a24dc3fb2b3b6b135] is not required under Article 5(2)(b) of the 2008 Order to give P the opportunity to make representations as to why P should be removed from that list, or
+- (b)[^c-fe5261b1af65e3dd0e85052d01e8422f] P is included in the adults’ barred list pursuant to Article 5(2)(a) of the 2008 Order and
+  - (i) DBS[^c-6f238d3d40fead8a24dc3fb2b3b6b135] is not required under Article 5(2)(b) of the 2008 Order to give P the opportunity to make representations as to why P should be removed from that list, or
   - (ii) where DBS is required under that Article to give P the opportunity to make such representations, it decides under that Article not to remove P from that list, and
   - (iii) where paragraph (i) or (ii) applies—
     - (aa) there is no outstanding review of P’s inclusion in the list kept under Article 35 of POCVA,
@@ -161,13 +161,13 @@ This Order may be cited as the Safeguarding Vulnerable Groups (2007 Order) (Comm
 - (d) in accordance with Article 5(4) of the 2008 Order, DBS removes P from the adults’ barred list;
 - (e) where P is referred to DBS in accordance with Article 6 of the 2008 Order, DBS makes a decision not to include P in the adults’ barred list.
 
-(5A)[^key-b750e1b594caeaadfa7a15e7ab30c7e2] Where P has been included in the adults’ barred list in accordance with Article 5(2)(a) of the 2008 Order and where paragraph (5)(a) is satisfied at any time whilst P is so included, DBS must remove P from the list unless it is satisfied that paragraph 7 or 8 of Schedule 1 to the Order (prescribed criteria for automatic inclusion in the adult’s barred list) applies to P.
+(5A)[^c-b750e1b594caeaadfa7a15e7ab30c7e2] Where P has been included in the adults’ barred list in accordance with Article 5(2)(a) of the 2008 Order and where paragraph (5)(a) is satisfied at any time whilst P is so included, DBS must remove P from the list unless it is satisfied that paragraph 7 or 8 of Schedule 1 to the Order (prescribed criteria for automatic inclusion in the adult’s barred list) applies to P.
 
 (6) Article 7 of the Order does not apply to P until the relevant provisions of POCVA cease to have effect in relation to P in accordance with this Article.
 
-(7)[^key-85f8053ed0580a407cb66267fb0ae9a1] For the purposes of paragraph (5)(b)(iii)(aa), “outstanding review” means a review being carried out by the Department of Health, Social Services and Public Safety for the purposes of determining whether P should be removed from the list pursuant to Article 35(3) of POCVA.
+(7)[^c-85f8053ed0580a407cb66267fb0ae9a1] For the purposes of paragraph (5)(b)(iii)(aa), “outstanding review” means a review being carried out by the Department of Health, Social Services and Public Safety for the purposes of determining whether P should be removed from the list pursuant to Article 35(3) of POCVA.
 
-### 7. Persons prohibited from teaching or working with children: The Education (Prohibition from Teaching or Working with Children) Regulations (Northern Ireland) 2007[^key-d9591d282b02372ae4bb0fd9906c7889]
+### 7. Persons prohibited from teaching or working with children: The Education (Prohibition from Teaching or Working with Children) Regulations (Northern Ireland) 2007[^c-d9591d282b02372ae4bb0fd9906c7889]
 
 (1) Notwithstanding the commencement under Article 3 of—
 
@@ -180,7 +180,7 @@ those provisions shall continue to have effect in relation to a person falling w
 
 - (a) keeping a list under regulation 8 of the 2007 Regulations;
 - (b) providing for the effect of P’s inclusion in that list in accordance with Article 16 of POCVA;
-- (c) determining whether a prohibition in relation to P should be revoked under regulation 7 or 9[^key-d4304651c9172456666696ed66e5481e] (revocation by the Department of Education) or regulation 11 (revocation on appeal to the Care Tribunal[^f00007] under regulation 10) of the 2007 Regulations and revoking such a prohibition;
+- (c) determining whether a prohibition in relation to P should be revoked under regulation 7 or 9[^c-d4304651c9172456666696ed66e5481e] (revocation by the Department of Education) or regulation 11 (revocation on appeal to the Care Tribunal[^f00007] under regulation 10) of the 2007 Regulations and revoking such a prohibition;
 - (d) giving effect to the 2007 Regulations in so far as those regulations are relevant for the purposes specified in sub-paragraphs (a) to (c).
 
 (3) P is a person—
@@ -192,11 +192,11 @@ those provisions shall continue to have effect in relation to a person falling w
 
 (4) The matters referred to in paragraph (1) are—
 
-- (a)[^key-976560fbbe10b43e4e10f88c9794edd6] a prohibition in relation to P is revoked under regulation 7, 9 or 11 of the 2007 Regulations and—
+- (a)[^c-976560fbbe10b43e4e10f88c9794edd6] a prohibition in relation to P is revoked under regulation 7, 9 or 11 of the 2007 Regulations and—
   - (i) there is no outstanding appeal relating to the revocation of the prohibition, and
   - (ii) the period of time in which any appeal relating to the revocation of the prohibition may be made has expired.
-- (b)[^key-cd83b038652babc235a2f8523b302c19] P is included in the children’s barred list pursuant to Article 3(2)(a) of the 2008 Order and—
-  - (i) DBS[^key-59119f9b0e3c318d930121131e55d3fb] is not required under Article 3(2)(b) of the 2008 Order to give P the opportunity to make representations as to why P should be removed from that list, or
+- (b)[^c-cd83b038652babc235a2f8523b302c19] P is included in the children’s barred list pursuant to Article 3(2)(a) of the 2008 Order and—
+  - (i) DBS[^c-59119f9b0e3c318d930121131e55d3fb] is not required under Article 3(2)(b) of the 2008 Order to give P the opportunity to make representations as to why P should be removed from that list, or
   - (ii) where DBS is required under that Article to give P the opportunity to make such representations, it decides not to remove P from that list, and
   - (iii) where paragraph (i) or (ii) applies—
     - (aa) there is no outstanding review relating to a prohibition made in relation to P under regulations 4 or 6 of the 2007 Regulations,
@@ -206,11 +206,11 @@ those provisions shall continue to have effect in relation to a person falling w
 - (d) in accordance with Article 3(4) of the 2008 Order, DBS removes P from the children’s barred list;
 - (e) where P is referred to the DBS in accordance with Article 4 of the 2008 Order, DBS makes a decision not to include P in the children’s barred list.
 
-(4A)[^key-9c7308b9b07eeaf2fe4ca264532549a0] Where P has been included in the children’s barred list in accordance with Article 3(2)(a) of the 2008 Order and where paragraph (4)(a) is satisfied at any time whilst P is so included, DBS must remove P from that list unless it is satisfied that paragraph 1 or 2 of Schedule 1 to the Order (prescribed criteria for automatic inclusion in the children’s barred list) applies to P.
+(4A)[^c-9c7308b9b07eeaf2fe4ca264532549a0] Where P has been included in the children’s barred list in accordance with Article 3(2)(a) of the 2008 Order and where paragraph (4)(a) is satisfied at any time whilst P is so included, DBS must remove P from that list unless it is satisfied that paragraph 1 or 2 of Schedule 1 to the Order (prescribed criteria for automatic inclusion in the children’s barred list) applies to P.
 
 (5) Article 7 of the Order does not apply to a person falling within paragraph (3)(a)(ii) until the provisions referred to in paragraph (1) cease to have effect in relation to that person in accordance with this Article.
 
-(6)[^key-cc2b29714de4df08671882f4a34f1dea] For the purposes of paragraph (4)(b)(iii)(aa), “outstanding review” means a review being carried out by the Department of Education for the purposes of determining whether a prohibition made in relation to P should be revoked under regulation 7 or 9 of the 2007 Regulations.
+(6)[^c-cc2b29714de4df08671882f4a34f1dea] For the purposes of paragraph (4)(b)(iii)(aa), “outstanding review” means a review being carried out by the Department of Education for the purposes of determining whether a prohibition made in relation to P should be revoked under regulation 7 or 9 of the 2007 Regulations.
 
 Paul Goggins
 
@@ -220,7 +220,7 @@ Northern Ireland Office
 
 12th October 2009
 
-## SCHEDULE — Provisions coming into operation on 12th October 2009[^key-bf63fd4d63b095d364897f2b7abe2083]
+## SCHEDULE — Provisions coming into operation on 12th October 2009[^c-bf63fd4d63b095d364897f2b7abe2083]
 
 Article 3
 
@@ -235,7 +235,7 @@ Article 3
 | Article 23(2) and (5) |  |
 | Article 23(8) | In so far as it relates to Article 23(2) |
 | Article 24(1) | In so far as it relates to an offence under Article 23(2) |
-| Article 25 | In so far as it relates to Articles 37 , 38[^key-831190edfa49a1e3dfd52d4ce5910151], 41, 43 and 47 |
+| Article 25 | In so far as it relates to Articles 37 , 38[^c-831190edfa49a1e3dfd52d4ce5910151], 41, 43 and 47 |
 | Article 26 | In so far as it relates to Articles 37 to 39, 41, 43 and 47 |
 | Articles 27(1) and (2) |  |
 | Article 27(3) | In so far as it relates to Article 37 |
@@ -365,9 +365,9 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
 [^f00001]: Footnote: [S.I. 2007/1351 (N.I. 11)](https://www.legislation.gov.uk/nisi/2007/1351).
 
-[^key-488a3a5bd5a7673e90e4b1b00241ec77]: Commencement: Art. 1 in operation at made date
+[^c-488a3a5bd5a7673e90e4b1b00241ec77]: Commencement: Art. 1 in operation at made date
 
-[^key-02d3f17bd552dfdd4593ad825d7f702a]: Commencement: Art. 2 in operation at made date
+[^c-02d3f17bd552dfdd4593ad825d7f702a]: Commencement: Art. 2 in operation at made date
 
 [^f00002]: Footnote: [S.I. 1986/594 (N.I. 3)](https://www.legislation.gov.uk/nisi/1986/594).
 
@@ -375,61 +375,61 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
 [^f00004]: Footnote: [S.R. 2008 No. 200](https://www.legislation.gov.uk/nisr/2008/200).
 
-[^key-60a4a813a345b27ba2b364f26d525a04]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/nisr/2009/346/article/2/1) inserted (7.4.2010) by [The Safeguarding Vulnerable Groups (2007 Order) (Commencement No.6 and Safeguarding Vulnerable Groups (2007 Order) (Commencement No.5, Transitional Provisions and Savings) (Amendment)) Order (Northern Ireland) 2010 (S.R. 2010/145)](https://www.legislation.gov.uk/nisr/2010/145), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2010/145/article/1/2), [5](https://www.legislation.gov.uk/nisr/2010/145/article/5)
+[^c-60a4a813a345b27ba2b364f26d525a04]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/nisr/2009/346/article/2/1) inserted (7.4.2010) by [The Safeguarding Vulnerable Groups (2007 Order) (Commencement No.6 and Safeguarding Vulnerable Groups (2007 Order) (Commencement No.5, Transitional Provisions and Savings) (Amendment)) Order (Northern Ireland) 2010 (S.R. 2010/145)](https://www.legislation.gov.uk/nisr/2010/145), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2010/145/article/1/2), [5](https://www.legislation.gov.uk/nisr/2010/145/article/5)
 
 [^f00005]: Footnote: [S.I. 2003/417 (N.I. 4)](https://www.legislation.gov.uk/nisi/2003/417). The 2003 Order is to be repealed by Schedule 8 to the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007.
 
-[^key-8f44b3049c81fc9b4233ef7e38ac351b]: Commencement: Art. 3 in operation at made date
+[^c-8f44b3049c81fc9b4233ef7e38ac351b]: Commencement: Art. 3 in operation at made date
 
-[^key-57f9e4623f8a403f9449ba53758d3963]: Commencement: Art. 4 in operation at made date
+[^c-57f9e4623f8a403f9449ba53758d3963]: Commencement: Art. 4 in operation at made date
 
-[^key-dd3cb593882e425eca2375ae64bab123]: Textual amendment: Words in [art. 4](https://www.legislation.gov.uk/nisr/2009/346/article/4) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [13(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/1)[(3)(q)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/3/q) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
+[^c-dd3cb593882e425eca2375ae64bab123]: Textual amendment: Words in [art. 4](https://www.legislation.gov.uk/nisr/2009/346/article/4) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [13(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/1)[(3)(q)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/3/q) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
 
 [^f00006]: Footnote: See section 1 of the Safeguarding Vulnerable Groups Act 2006 ([2006 c. 47](https://www.legislation.gov.uk/ukpga/2006/47)) for the meaning of this term. It is a reference to the Independent Barring Board established under that section.
 
-[^key-4093f2133f4a73e69fb51722a25075c3]: Commencement: Art. 5 in operation at made date
+[^c-4093f2133f4a73e69fb51722a25075c3]: Commencement: Art. 5 in operation at made date
 
-[^key-200f595024edee526e7c8e9175b1f635]: Textual amendment: [Art. 5(5)(a)(i)](https://www.legislation.gov.uk/nisr/2009/346/article/5/5/a/i)[(ii)](https://www.legislation.gov.uk/nisr/2009/346/article/5/5/a/ii) and word inserted (7.4.2010) by [The Safeguarding Vulnerable Groups (2007 Order) (Commencement No.6 and Safeguarding Vulnerable Groups (2007 Order) (Commencement No.5, Transitional Provisions and Savings) (Amendment)) Order (Northern Ireland) 2010 (S.R. 2010/145)](https://www.legislation.gov.uk/nisr/2010/145), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2010/145/article/1/2), [6(2)](https://www.legislation.gov.uk/nisr/2010/145/article/6/2)
+[^c-200f595024edee526e7c8e9175b1f635]: Textual amendment: [Art. 5(5)(a)(i)](https://www.legislation.gov.uk/nisr/2009/346/article/5/5/a/i)[(ii)](https://www.legislation.gov.uk/nisr/2009/346/article/5/5/a/ii) and word inserted (7.4.2010) by [The Safeguarding Vulnerable Groups (2007 Order) (Commencement No.6 and Safeguarding Vulnerable Groups (2007 Order) (Commencement No.5, Transitional Provisions and Savings) (Amendment)) Order (Northern Ireland) 2010 (S.R. 2010/145)](https://www.legislation.gov.uk/nisr/2010/145), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2010/145/article/1/2), [6(2)](https://www.legislation.gov.uk/nisr/2010/145/article/6/2)
 
-[^key-7dbc05149990d07841c640e805ec5d9a]: Textual amendment: [Art. 5(5)(b)](https://www.legislation.gov.uk/nisr/2009/346/article/5/5/b) substituted (7.4.2010) by [The Safeguarding Vulnerable Groups (2007 Order) (Commencement No.6 and Safeguarding Vulnerable Groups (2007 Order) (Commencement No.5, Transitional Provisions and Savings) (Amendment)) Order (Northern Ireland) 2010 (S.R. 2010/145)](https://www.legislation.gov.uk/nisr/2010/145), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2010/145/article/1/2), [6(3)](https://www.legislation.gov.uk/nisr/2010/145/article/6/3)
+[^c-7dbc05149990d07841c640e805ec5d9a]: Textual amendment: [Art. 5(5)(b)](https://www.legislation.gov.uk/nisr/2009/346/article/5/5/b) substituted (7.4.2010) by [The Safeguarding Vulnerable Groups (2007 Order) (Commencement No.6 and Safeguarding Vulnerable Groups (2007 Order) (Commencement No.5, Transitional Provisions and Savings) (Amendment)) Order (Northern Ireland) 2010 (S.R. 2010/145)](https://www.legislation.gov.uk/nisr/2010/145), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2010/145/article/1/2), [6(3)](https://www.legislation.gov.uk/nisr/2010/145/article/6/3)
 
-[^key-ab260a3589b35c8caa1a28ac9db952f9]: Textual amendment: Words in [art. 5](https://www.legislation.gov.uk/nisr/2009/346/article/5) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [13(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/1)[(3)(q)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/3/q) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
+[^c-ab260a3589b35c8caa1a28ac9db952f9]: Textual amendment: Words in [art. 5](https://www.legislation.gov.uk/nisr/2009/346/article/5) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [13(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/1)[(3)(q)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/3/q) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
 
-[^key-c4c3e93d756a58aeed2d098a54b7d076]: Textual amendment: [Art. 5(5A)](https://www.legislation.gov.uk/nisr/2009/346/article/5/5A) inserted (7.4.2010) by [The Safeguarding Vulnerable Groups (2007 Order) (Commencement No.6 and Safeguarding Vulnerable Groups (2007 Order) (Commencement No.5, Transitional Provisions and Savings) (Amendment)) Order (Northern Ireland) 2010 (S.R. 2010/145)](https://www.legislation.gov.uk/nisr/2010/145), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2010/145/article/1/2), [6(4)](https://www.legislation.gov.uk/nisr/2010/145/article/6/4)
+[^c-c4c3e93d756a58aeed2d098a54b7d076]: Textual amendment: [Art. 5(5A)](https://www.legislation.gov.uk/nisr/2009/346/article/5/5A) inserted (7.4.2010) by [The Safeguarding Vulnerable Groups (2007 Order) (Commencement No.6 and Safeguarding Vulnerable Groups (2007 Order) (Commencement No.5, Transitional Provisions and Savings) (Amendment)) Order (Northern Ireland) 2010 (S.R. 2010/145)](https://www.legislation.gov.uk/nisr/2010/145), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2010/145/article/1/2), [6(4)](https://www.legislation.gov.uk/nisr/2010/145/article/6/4)
 
-[^key-d27796d633a618743f346b0688012bf9]: Textual amendment: [Art. 5(7)](https://www.legislation.gov.uk/nisr/2009/346/article/5/7) inserted (7.4.2010) by [The Safeguarding Vulnerable Groups (2007 Order) (Commencement No.6 and Safeguarding Vulnerable Groups (2007 Order) (Commencement No.5, Transitional Provisions and Savings) (Amendment)) Order (Northern Ireland) 2010 (S.R. 2010/145)](https://www.legislation.gov.uk/nisr/2010/145), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2010/145/article/1/2), [6(5)](https://www.legislation.gov.uk/nisr/2010/145/article/6/5)
+[^c-d27796d633a618743f346b0688012bf9]: Textual amendment: [Art. 5(7)](https://www.legislation.gov.uk/nisr/2009/346/article/5/7) inserted (7.4.2010) by [The Safeguarding Vulnerable Groups (2007 Order) (Commencement No.6 and Safeguarding Vulnerable Groups (2007 Order) (Commencement No.5, Transitional Provisions and Savings) (Amendment)) Order (Northern Ireland) 2010 (S.R. 2010/145)](https://www.legislation.gov.uk/nisr/2010/145), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2010/145/article/1/2), [6(5)](https://www.legislation.gov.uk/nisr/2010/145/article/6/5)
 
-[^key-184379f1aeb648bd50a041a43008ad44]: Commencement: Art. 6 in operation at made date
+[^c-184379f1aeb648bd50a041a43008ad44]: Commencement: Art. 6 in operation at made date
 
-[^key-d667dc13dca774f9328ba9d73eac4731]: Textual amendment: [Art. 6(4)(a)(i)](https://www.legislation.gov.uk/nisr/2009/346/article/6/4/a/i)[(ii)](https://www.legislation.gov.uk/nisr/2009/346/article/6/4/a/ii) and word inserted (7.4.2010) by [The Safeguarding Vulnerable Groups (2007 Order) (Commencement No.6 and Safeguarding Vulnerable Groups (2007 Order) (Commencement No.5, Transitional Provisions and Savings) (Amendment)) Order (Northern Ireland) 2010 (S.R. 2010/145)](https://www.legislation.gov.uk/nisr/2010/145), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2010/145/article/1/2), [7(2)](https://www.legislation.gov.uk/nisr/2010/145/article/7/2)
+[^c-d667dc13dca774f9328ba9d73eac4731]: Textual amendment: [Art. 6(4)(a)(i)](https://www.legislation.gov.uk/nisr/2009/346/article/6/4/a/i)[(ii)](https://www.legislation.gov.uk/nisr/2009/346/article/6/4/a/ii) and word inserted (7.4.2010) by [The Safeguarding Vulnerable Groups (2007 Order) (Commencement No.6 and Safeguarding Vulnerable Groups (2007 Order) (Commencement No.5, Transitional Provisions and Savings) (Amendment)) Order (Northern Ireland) 2010 (S.R. 2010/145)](https://www.legislation.gov.uk/nisr/2010/145), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2010/145/article/1/2), [7(2)](https://www.legislation.gov.uk/nisr/2010/145/article/7/2)
 
-[^key-fe5261b1af65e3dd0e85052d01e8422f]: Textual amendment: [Art. 6(5)(b)](https://www.legislation.gov.uk/nisr/2009/346/article/6/5/b) substituted (7.4.2010) by [The Safeguarding Vulnerable Groups (2007 Order) (Commencement No.6 and Safeguarding Vulnerable Groups (2007 Order) (Commencement No.5, Transitional Provisions and Savings) (Amendment)) Order (Northern Ireland) 2010 (S.R. 2010/145)](https://www.legislation.gov.uk/nisr/2010/145), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2010/145/article/1/2), [7(3)](https://www.legislation.gov.uk/nisr/2010/145/article/7/3)
+[^c-fe5261b1af65e3dd0e85052d01e8422f]: Textual amendment: [Art. 6(5)(b)](https://www.legislation.gov.uk/nisr/2009/346/article/6/5/b) substituted (7.4.2010) by [The Safeguarding Vulnerable Groups (2007 Order) (Commencement No.6 and Safeguarding Vulnerable Groups (2007 Order) (Commencement No.5, Transitional Provisions and Savings) (Amendment)) Order (Northern Ireland) 2010 (S.R. 2010/145)](https://www.legislation.gov.uk/nisr/2010/145), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2010/145/article/1/2), [7(3)](https://www.legislation.gov.uk/nisr/2010/145/article/7/3)
 
-[^key-6f238d3d40fead8a24dc3fb2b3b6b135]: Textual amendment: Words in [art. 6](https://www.legislation.gov.uk/nisr/2009/346/article/6) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [13(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/1)[(3)(q)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/3/q) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
+[^c-6f238d3d40fead8a24dc3fb2b3b6b135]: Textual amendment: Words in [art. 6](https://www.legislation.gov.uk/nisr/2009/346/article/6) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [13(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/1)[(3)(q)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/3/q) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
 
-[^key-b750e1b594caeaadfa7a15e7ab30c7e2]: Textual amendment: [Art. 6(5A)](https://www.legislation.gov.uk/nisr/2009/346/article/6/5A) inserted (7.4.2010) by [The Safeguarding Vulnerable Groups (2007 Order) (Commencement No.6 and Safeguarding Vulnerable Groups (2007 Order) (Commencement No.5, Transitional Provisions and Savings) (Amendment)) Order (Northern Ireland) 2010 (S.R. 2010/145)](https://www.legislation.gov.uk/nisr/2010/145), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2010/145/article/1/2), [7(4)](https://www.legislation.gov.uk/nisr/2010/145/article/7/4)
+[^c-b750e1b594caeaadfa7a15e7ab30c7e2]: Textual amendment: [Art. 6(5A)](https://www.legislation.gov.uk/nisr/2009/346/article/6/5A) inserted (7.4.2010) by [The Safeguarding Vulnerable Groups (2007 Order) (Commencement No.6 and Safeguarding Vulnerable Groups (2007 Order) (Commencement No.5, Transitional Provisions and Savings) (Amendment)) Order (Northern Ireland) 2010 (S.R. 2010/145)](https://www.legislation.gov.uk/nisr/2010/145), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2010/145/article/1/2), [7(4)](https://www.legislation.gov.uk/nisr/2010/145/article/7/4)
 
-[^key-85f8053ed0580a407cb66267fb0ae9a1]: Textual amendment: [Art. 6(7)](https://www.legislation.gov.uk/nisr/2009/346/article/6/7) inserted (7.4.2010) by [The Safeguarding Vulnerable Groups (2007 Order) (Commencement No.6 and Safeguarding Vulnerable Groups (2007 Order) (Commencement No.5, Transitional Provisions and Savings) (Amendment)) Order (Northern Ireland) 2010 (S.R. 2010/145)](https://www.legislation.gov.uk/nisr/2010/145), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2010/145/article/1/2), [7(5)](https://www.legislation.gov.uk/nisr/2010/145/article/7/5)
+[^c-85f8053ed0580a407cb66267fb0ae9a1]: Textual amendment: [Art. 6(7)](https://www.legislation.gov.uk/nisr/2009/346/article/6/7) inserted (7.4.2010) by [The Safeguarding Vulnerable Groups (2007 Order) (Commencement No.6 and Safeguarding Vulnerable Groups (2007 Order) (Commencement No.5, Transitional Provisions and Savings) (Amendment)) Order (Northern Ireland) 2010 (S.R. 2010/145)](https://www.legislation.gov.uk/nisr/2010/145), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2010/145/article/1/2), [7(5)](https://www.legislation.gov.uk/nisr/2010/145/article/7/5)
 
-[^key-d9591d282b02372ae4bb0fd9906c7889]: Commencement: Art. 7 in operation at made date
+[^c-d9591d282b02372ae4bb0fd9906c7889]: Commencement: Art. 7 in operation at made date
 
-[^key-d4304651c9172456666696ed66e5481e]: Textual amendment: Words in [art. 7(2)(c)](https://www.legislation.gov.uk/nisr/2009/346/article/7/2/c) substituted (7.4.2010) by [The Safeguarding Vulnerable Groups (2007 Order) (Commencement No.6 and Safeguarding Vulnerable Groups (2007 Order) (Commencement No.5, Transitional Provisions and Savings) (Amendment)) Order (Northern Ireland) 2010 (S.R. 2010/145)](https://www.legislation.gov.uk/nisr/2010/145), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2010/145/article/1/2), [8(2)](https://www.legislation.gov.uk/nisr/2010/145/article/8/2)
+[^c-d4304651c9172456666696ed66e5481e]: Textual amendment: Words in [art. 7(2)(c)](https://www.legislation.gov.uk/nisr/2009/346/article/7/2/c) substituted (7.4.2010) by [The Safeguarding Vulnerable Groups (2007 Order) (Commencement No.6 and Safeguarding Vulnerable Groups (2007 Order) (Commencement No.5, Transitional Provisions and Savings) (Amendment)) Order (Northern Ireland) 2010 (S.R. 2010/145)](https://www.legislation.gov.uk/nisr/2010/145), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2010/145/article/1/2), [8(2)](https://www.legislation.gov.uk/nisr/2010/145/article/8/2)
 
 [^f00007]: Footnote: “Care Tribunal” means the Care Tribunal established under Article 44 of the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003 \[[S.I. 2003/431 (N.I. 9)](https://www.legislation.gov.uk/nisi/2003/431)\].
 
-[^key-976560fbbe10b43e4e10f88c9794edd6]: Textual amendment: [Art. 7(4)(a)](https://www.legislation.gov.uk/nisr/2009/346/article/7/4/a) substituted (7.4.2010) by [The Safeguarding Vulnerable Groups (2007 Order) (Commencement No.6 and Safeguarding Vulnerable Groups (2007 Order) (Commencement No.5, Transitional Provisions and Savings) (Amendment)) Order (Northern Ireland) 2010 (S.R. 2010/145)](https://www.legislation.gov.uk/nisr/2010/145), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2010/145/article/1/2), [8(3)](https://www.legislation.gov.uk/nisr/2010/145/article/8/3)
+[^c-976560fbbe10b43e4e10f88c9794edd6]: Textual amendment: [Art. 7(4)(a)](https://www.legislation.gov.uk/nisr/2009/346/article/7/4/a) substituted (7.4.2010) by [The Safeguarding Vulnerable Groups (2007 Order) (Commencement No.6 and Safeguarding Vulnerable Groups (2007 Order) (Commencement No.5, Transitional Provisions and Savings) (Amendment)) Order (Northern Ireland) 2010 (S.R. 2010/145)](https://www.legislation.gov.uk/nisr/2010/145), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2010/145/article/1/2), [8(3)](https://www.legislation.gov.uk/nisr/2010/145/article/8/3)
 
-[^key-cd83b038652babc235a2f8523b302c19]: Textual amendment: [Art. 7(4)(b)](https://www.legislation.gov.uk/nisr/2009/346/article/7/4/b) substituted (7.4.2010) by [The Safeguarding Vulnerable Groups (2007 Order) (Commencement No.6 and Safeguarding Vulnerable Groups (2007 Order) (Commencement No.5, Transitional Provisions and Savings) (Amendment)) Order (Northern Ireland) 2010 (S.R. 2010/145)](https://www.legislation.gov.uk/nisr/2010/145), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2010/145/article/1/2), [8(4)](https://www.legislation.gov.uk/nisr/2010/145/article/8/4)
+[^c-cd83b038652babc235a2f8523b302c19]: Textual amendment: [Art. 7(4)(b)](https://www.legislation.gov.uk/nisr/2009/346/article/7/4/b) substituted (7.4.2010) by [The Safeguarding Vulnerable Groups (2007 Order) (Commencement No.6 and Safeguarding Vulnerable Groups (2007 Order) (Commencement No.5, Transitional Provisions and Savings) (Amendment)) Order (Northern Ireland) 2010 (S.R. 2010/145)](https://www.legislation.gov.uk/nisr/2010/145), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2010/145/article/1/2), [8(4)](https://www.legislation.gov.uk/nisr/2010/145/article/8/4)
 
-[^key-59119f9b0e3c318d930121131e55d3fb]: Textual amendment: Words in [art. 7](https://www.legislation.gov.uk/nisr/2009/346/article/7) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [13(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/1)[(3)(q)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/3/q) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
+[^c-59119f9b0e3c318d930121131e55d3fb]: Textual amendment: Words in [art. 7](https://www.legislation.gov.uk/nisr/2009/346/article/7) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [13(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/1)[(3)(q)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/3/q) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
 
-[^key-9c7308b9b07eeaf2fe4ca264532549a0]: Textual amendment: [Art. 7(4A)](https://www.legislation.gov.uk/nisr/2009/346/article/7/4A) inserted (7.4.2010) by [The Safeguarding Vulnerable Groups (2007 Order) (Commencement No.6 and Safeguarding Vulnerable Groups (2007 Order) (Commencement No.5, Transitional Provisions and Savings) (Amendment)) Order (Northern Ireland) 2010 (S.R. 2010/145)](https://www.legislation.gov.uk/nisr/2010/145), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2010/145/article/1/2), [8(5)](https://www.legislation.gov.uk/nisr/2010/145/article/8/5)
+[^c-9c7308b9b07eeaf2fe4ca264532549a0]: Textual amendment: [Art. 7(4A)](https://www.legislation.gov.uk/nisr/2009/346/article/7/4A) inserted (7.4.2010) by [The Safeguarding Vulnerable Groups (2007 Order) (Commencement No.6 and Safeguarding Vulnerable Groups (2007 Order) (Commencement No.5, Transitional Provisions and Savings) (Amendment)) Order (Northern Ireland) 2010 (S.R. 2010/145)](https://www.legislation.gov.uk/nisr/2010/145), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2010/145/article/1/2), [8(5)](https://www.legislation.gov.uk/nisr/2010/145/article/8/5)
 
-[^key-cc2b29714de4df08671882f4a34f1dea]: Textual amendment: [Art. 7(6)](https://www.legislation.gov.uk/nisr/2009/346/article/7/6) inserted (7.4.2010) by [The Safeguarding Vulnerable Groups (2007 Order) (Commencement No.6 and Safeguarding Vulnerable Groups (2007 Order) (Commencement No.5, Transitional Provisions and Savings) (Amendment)) Order (Northern Ireland) 2010 (S.R. 2010/145)](https://www.legislation.gov.uk/nisr/2010/145), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2010/145/article/1/2), [8(6)](https://www.legislation.gov.uk/nisr/2010/145/article/8/6)
+[^c-cc2b29714de4df08671882f4a34f1dea]: Textual amendment: [Art. 7(6)](https://www.legislation.gov.uk/nisr/2009/346/article/7/6) inserted (7.4.2010) by [The Safeguarding Vulnerable Groups (2007 Order) (Commencement No.6 and Safeguarding Vulnerable Groups (2007 Order) (Commencement No.5, Transitional Provisions and Savings) (Amendment)) Order (Northern Ireland) 2010 (S.R. 2010/145)](https://www.legislation.gov.uk/nisr/2010/145), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2010/145/article/1/2), [8(6)](https://www.legislation.gov.uk/nisr/2010/145/article/8/6)
 
-[^key-bf63fd4d63b095d364897f2b7abe2083]: Commencement: Sch. in operation at made date
+[^c-bf63fd4d63b095d364897f2b7abe2083]: Commencement: Sch. in operation at made date
 
-[^key-831190edfa49a1e3dfd52d4ce5910151]: Textual amendment: Word in [Sch.](https://www.legislation.gov.uk/nisr/2009/346/schedule) inserted (7.4.2010) by virtue of [The Safeguarding Vulnerable Groups (2007 Order) (Commencement No.6 and Safeguarding Vulnerable Groups (2007 Order) (Commencement No.5, Transitional Provisions and Savings) (Amendment)) Order (Northern Ireland) 2010 (S.R. 2010/145)](https://www.legislation.gov.uk/nisr/2010/145), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2010/145/article/1/2), [9](https://www.legislation.gov.uk/nisr/2010/145/article/9)
+[^c-831190edfa49a1e3dfd52d4ce5910151]: Textual amendment: Word in [Sch.](https://www.legislation.gov.uk/nisr/2009/346/schedule) inserted (7.4.2010) by virtue of [The Safeguarding Vulnerable Groups (2007 Order) (Commencement No.6 and Safeguarding Vulnerable Groups (2007 Order) (Commencement No.5, Transitional Provisions and Savings) (Amendment)) Order (Northern Ireland) 2010 (S.R. 2010/145)](https://www.legislation.gov.uk/nisr/2010/145), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2010/145/article/1/2), [9](https://www.legislation.gov.uk/nisr/2010/145/article/9)
 
 [^f00008]: Footnote: [S.I. 2003/417 (N.I. 4)](https://www.legislation.gov.uk/nisi/2003/417).
 

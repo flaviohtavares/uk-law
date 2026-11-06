@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Meaning of “designated person” in Part 3[^key-af94ccbff0766969c30dbd4aeb25de25]
+## 14. Meaning of “designated person” in Part 3[^c-af94ccbff0766969c30dbd4aeb25de25]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In this Part a “**designated person**” means a person who is designated unde
 
 ## Annotations
 
-[^key-af94ccbff0766969c30dbd4aeb25de25]: Commencement: Reg. 14 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-af94ccbff0766969c30dbd4aeb25de25]: Commencement: Reg. 14 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)

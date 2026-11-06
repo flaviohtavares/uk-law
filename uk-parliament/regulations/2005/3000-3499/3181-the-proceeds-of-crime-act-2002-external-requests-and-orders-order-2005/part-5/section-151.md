@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 151. Application for interim receiving order[^key-bd6aa51997a041cebb3ee7150cb201e8]
+## 151. Application for interim receiving order[^c-bd6aa51997a041cebb3ee7150cb201e8]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,12 +43,12 @@ summary: ''
 
 the authority has taken all reasonable steps to do so.
 
-(7) In its application for an interim receiving order, the enforcement authority must nominate a suitably qualified person for appointment as interim receiver, but the nominee may not be a member of the staff of the enforcement authority[^key-dfa8fb3c5e4354b2ffdc55da1bc3f77b].
+(7) In its application for an interim receiving order, the enforcement authority must nominate a suitably qualified person for appointment as interim receiver, but the nominee may not be a member of the staff of the enforcement authority[^c-dfa8fb3c5e4354b2ffdc55da1bc3f77b].
 
 (8) The extent of the power to make an interim receiving order is not limited by articles 152 to 160.
 
 ## Annotations
 
-[^key-bd6aa51997a041cebb3ee7150cb201e8]: Commencement: [Art. 151](https://www.legislation.gov.uk/uksi/2005/3181/article/151) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-bd6aa51997a041cebb3ee7150cb201e8]: Commencement: [Art. 151](https://www.legislation.gov.uk/uksi/2005/3181/article/151) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
 
-[^key-dfa8fb3c5e4354b2ffdc55da1bc3f77b]: Textual amendment: Words in [art. 151(7)](https://www.legislation.gov.uk/uksi/2005/3181/article/151/7) substituted (1.4.2008) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2008 (S.I. 2008/302)](https://www.legislation.gov.uk/uksi/2008/302), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/302/article/1/1), [2(37)](https://www.legislation.gov.uk/uksi/2008/302/article/2/37)
+[^c-dfa8fb3c5e4354b2ffdc55da1bc3f77b]: Textual amendment: Words in [art. 151(7)](https://www.legislation.gov.uk/uksi/2005/3181/article/151/7) substituted (1.4.2008) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2008 (S.I. 2008/302)](https://www.legislation.gov.uk/uksi/2008/302), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/302/article/1/1), [2(37)](https://www.legislation.gov.uk/uksi/2008/302/article/2/37)

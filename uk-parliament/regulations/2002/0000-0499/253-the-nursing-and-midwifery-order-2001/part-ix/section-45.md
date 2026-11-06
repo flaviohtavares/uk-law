@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Attendance by unqualified persons at childbirth[^key-235299e89a748fe0dea211e15771106c]
+## 45. Attendance by unqualified persons at childbirth[^c-235299e89a748fe0dea211e15771106c]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-235299e89a748fe0dea211e15771106c]: Commencement: [Art. 45](https://www.legislation.gov.uk/uksi/2002/253/article/45) in force at 1.8.2004 as notified in the London Gazette (Issue 57361, published 21.7.2004), see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2002/253/article/1/3)
+[^c-235299e89a748fe0dea211e15771106c]: Commencement: [Art. 45](https://www.legislation.gov.uk/uksi/2002/253/article/45) in force at 1.8.2004 as notified in the London Gazette (Issue 57361, published 21.7.2004), see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2002/253/article/1/3)

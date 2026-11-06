@@ -103,7 +103,7 @@ Foodstuffs complying with the maximum levels set out in the Annex shall not be m
 
 It shall apply from 1 July 2009.
 
-[^key-0f85be2cd51c1af7c85bab355c413263]...
+[^c-0f85be2cd51c1af7c85bab355c413263]...
 
 ## ANNEX
 
@@ -214,6 +214,6 @@ Maximum levels in foodstuffs
 
     http://www.efsa.europa.eu/cs/BlobServer/Scientific\_Opinion/contam\_op\_ej716\_diclazuril\_en.pdf?ssbinary=true
 
-[^key-0f85be2cd51c1af7c85bab355c413263]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2009/124/signature) omitted (31.12.2020) by virtue of [The Contaminants in Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/639)](https://www.legislation.gov.uk/uksi/2019/639), [regs. 1](https://www.legislation.gov.uk/uksi/2019/639/regulation/1), [32](https://www.legislation.gov.uk/uksi/2019/639/regulation/32); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0f85be2cd51c1af7c85bab355c413263]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2009/124/signature) omitted (31.12.2020) by virtue of [The Contaminants in Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/639)](https://www.legislation.gov.uk/uksi/2019/639), [regs. 1](https://www.legislation.gov.uk/uksi/2019/639/regulation/1), [32](https://www.legislation.gov.uk/uksi/2019/639/regulation/32); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000001]: Textual amendment: Substituted by [Commission Regulation (EU) No 610/2012 of 9 July 2012 amending Regulation (EC) No 124/2009 of 10 February 2009 setting maximum levels for the presence of coccidiostats or histomonostats in food resulting from the unavoidable carry-over of these substances in non-target feed (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2012/610).

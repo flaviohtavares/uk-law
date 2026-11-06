@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45L. Exclusion of plant or machinery partly for use outside designated assisted areas[^key-922241598d653a814159eaaa6d66ae88][^key-661b09f8253ca07c6d062cb971343de3]
+## 45L. Exclusion of plant or machinery partly for use outside designated assisted areas[^c-922241598d653a814159eaaa6d66ae88][^c-661b09f8253ca07c6d062cb971343de3]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-922241598d653a814159eaaa6d66ae88]: Textual amendment: Ss. 45K-45N inserted (with effect in accordance with Sch. 11 para. 8 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 11 para. 3](https://www.legislation.gov.uk/ukpga/2012/14/schedule/11/paragraph/3)
+[^c-922241598d653a814159eaaa6d66ae88]: Textual amendment: Ss. 45K-45N inserted (with effect in accordance with Sch. 11 para. 8 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 11 para. 3](https://www.legislation.gov.uk/ukpga/2012/14/schedule/11/paragraph/3)
 
-[^key-661b09f8253ca07c6d062cb971343de3]: Modification: Pt. 2 modified (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 9(1)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/9/1/a)
+[^c-661b09f8253ca07c6d062cb971343de3]: Modification: Pt. 2 modified (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 9(1)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/9/1/a)

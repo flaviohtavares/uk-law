@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Application of schools provision to independent educational institutions[^key-01ae1d11a7a197f6e701ace3409c7175]
+## 50. Application of schools provision to independent educational institutions[^c-01ae1d11a7a197f6e701ace3409c7175]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-01ae1d11a7a197f6e701ace3409c7175]: Commencement: S. 50 in force at Royal Assent for specified purposes, see [s. 78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)(5)
+[^c-01ae1d11a7a197f6e701ace3409c7175]: Commencement: S. 50 in force at Royal Assent for specified purposes, see [s. 78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)(5)

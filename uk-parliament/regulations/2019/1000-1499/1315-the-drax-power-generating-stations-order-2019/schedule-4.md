@@ -22,7 +22,7 @@ summary: ''
 
 Article 10
 
-### PART 1 — PERMANENT ALTERATION OF LAYOUT[^key-4c471ad42957f7f0854401b7beba3056]
+### PART 1 — PERMANENT ALTERATION OF LAYOUT[^c-4c471ad42957f7f0854401b7beba3056]
 
 Table 2
 
@@ -31,7 +31,7 @@ Table 2
 | In the District of Selby | New Road | Works for the provision of a new permanent access to Work No. 5 on the east side of New Road between the points marked AI and AJ on sheet 3 of the access and rights of way plans |
 | In the District of Selby | Rusholme Lane | Works for the provision of a new permanent access to Work No. 6 on the south side of Rusholme Lane between the points marked AW and AV on sheet 8 of the access rights of way plans |
 
-### PART 2 — TEMPORARY ALTERATION OF LAYOUT[^key-b85aff67491ccf3c5e465dfdab649336]
+### PART 2 — TEMPORARY ALTERATION OF LAYOUT[^c-b85aff67491ccf3c5e465dfdab649336]
 
 Table 3
 
@@ -70,6 +70,6 @@ Table 3
 
 ## Annotations
 
-[^key-4c471ad42957f7f0854401b7beba3056]: Commencement: Sch. 4 Pt. 1 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1315/article/1)
+[^c-4c471ad42957f7f0854401b7beba3056]: Commencement: Sch. 4 Pt. 1 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1315/article/1)
 
-[^key-b85aff67491ccf3c5e465dfdab649336]: Commencement: Sch. 4 Pt. 2 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1315/article/1)
+[^c-b85aff67491ccf3c5e465dfdab649336]: Commencement: Sch. 4 Pt. 2 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1315/article/1)

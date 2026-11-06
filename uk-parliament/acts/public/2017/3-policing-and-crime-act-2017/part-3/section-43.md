@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Police volunteers: inspection[^c22718781][^key-279482b35a12b9a9b0b40b02e76ec9e9]
+## 43. Police volunteers: inspection[^c22718781][^c-279482b35a12b9a9b0b40b02e76ec9e9]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 [^c22718781]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2017/3/section/43) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-279482b35a12b9a9b0b40b02e76ec9e9]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2017/3/section/43) in force at 15.12.2017 in so far as not already in force by [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/i) (as amended by S.I 2017/1162, reg. 2)
+[^c-279482b35a12b9a9b0b40b02e76ec9e9]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2017/3/section/43) in force at 15.12.2017 in so far as not already in force by [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/i) (as amended by S.I 2017/1162, reg. 2)

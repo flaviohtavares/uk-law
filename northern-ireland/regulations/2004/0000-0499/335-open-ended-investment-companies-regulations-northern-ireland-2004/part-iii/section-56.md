@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 56. Contracts[^key-0bf1a9869b8eeeb95b370a46c5d0479d]
+## 56. Contracts[^c-0bf1a9869b8eeeb95b370a46c5d0479d]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ and any formalities required by law in the case of a contract made by an individ
 
 ## Annotations
 
-[^key-0bf1a9869b8eeeb95b370a46c5d0479d]: Commencement: [Reg. 56](https://www.legislation.gov.uk/nisr/2004/335/regulation/56) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
+[^c-0bf1a9869b8eeeb95b370a46c5d0479d]: Commencement: [Reg. 56](https://www.legislation.gov.uk/nisr/2004/335/regulation/56) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)

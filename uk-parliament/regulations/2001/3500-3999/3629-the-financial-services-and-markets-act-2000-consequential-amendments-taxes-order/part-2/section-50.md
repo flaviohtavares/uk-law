@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Charities: qualifying investments[^key-f385d8894229c1886c0dce169c87203d]
+## 50. Charities: qualifying investments[^c-f385d8894229c1886c0dce169c87203d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In paragraph 6 of Schedule 20 (qualifying investments) for “of the Financial S
 
 ## Annotations
 
-[^key-f385d8894229c1886c0dce169c87203d]: Commencement: Art. 50 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-f385d8894229c1886c0dce169c87203d]: Commencement: Art. 50 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)

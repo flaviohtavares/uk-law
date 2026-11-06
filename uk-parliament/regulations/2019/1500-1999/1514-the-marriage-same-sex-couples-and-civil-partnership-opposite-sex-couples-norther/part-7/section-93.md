@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Occupational Pension Schemes (Discharge of Liability) Regulations (Northern Ireland) 1997[^key-d5ccb7ffb4c9aacf79648142b85c3207]
+## 93. Occupational Pension Schemes (Discharge of Liability) Regulations (Northern Ireland) 1997[^c-d5ccb7ffb4c9aacf79648142b85c3207]
 
 *Extent: N.I.*
 
@@ -44,7 +44,7 @@ summary: ''
 
 ## Annotations
 
-[^key-d5ccb7ffb4c9aacf79648142b85c3207]: Commencement: Reg. 93 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-d5ccb7ffb4c9aacf79648142b85c3207]: Commencement: Reg. 93 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00154]: Footnote: [S.R. (N.I.) 1997/159](https://www.legislation.gov.uk/nisr/1997/159).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 186. “Authorised deposit-taker and former authorised deposit-taker”[^key-81e6582bc3c54ca09dfd5a4dbed8b5dc]
+## 186. “Authorised deposit-taker and former authorised deposit-taker”[^c-81e6582bc3c54ca09dfd5a4dbed8b5dc]
 
 *Extent: E+W*
 
@@ -34,13 +34,13 @@ summary: ''
 - (b) any relevant order under that section; and
 - (c) Schedule 22 to that Act.
 
-## 186. Expressions used generally[^key-80946258d39ec1f278dcc0893c8b9538]
+## 186. Expressions used generally[^c-80946258d39ec1f278dcc0893c8b9538]
 
 *Extent: E+W*
 
 (1) “Business day” means any day other than a Saturday, a Sunday, Christmas Day, Good Friday or a day which is a bank holiday in any part of Great Britain under or by virtue of the Banking and Financial Dealings Act 1971[^f00028].
 
-(2) “The Department” means the Department for Energy Security and Net Zero[^key-c72cca2789fa4529b077311de4a8f7ad].
+(2) “The Department” means the Department for Energy Security and Net Zero[^c-c72cca2789fa4529b077311de4a8f7ad].
 
 (3) “File in court” and “file with the court” means deliver to the court for filing.
 
@@ -52,14 +52,14 @@ summary: ''
 
 ## Annotations
 
-[^key-81e6582bc3c54ca09dfd5a4dbed8b5dc]: Commencement: Rule 186 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-81e6582bc3c54ca09dfd5a4dbed8b5dc]: Commencement: Rule 186 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
 
 [^f00026]: Footnote: [1987 c. 22](https://www.legislation.gov.uk/ukpga/1987/22); repealed by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), article 3(1)(d).
 
 [^f00027]: Footnote: [1979 c. 37](https://www.legislation.gov.uk/ukpga/1979/37); repealed by the Banking Act 1987, section 108, Schedule 7, Part 1.
 
-[^key-80946258d39ec1f278dcc0893c8b9538]: Commencement: Rule 186 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-80946258d39ec1f278dcc0893c8b9538]: Commencement: Rule 186 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
 
 [^f00028]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-c72cca2789fa4529b077311de4a8f7ad]: Textual amendment: Words in [rule 186(2)](https://www.legislation.gov.uk/uksi/2005/2483/rule/186/2) substituted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 43](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/43) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
+[^c-c72cca2789fa4529b077311de4a8f7ad]: Textual amendment: Words in [rule 186(2)](https://www.legislation.gov.uk/uksi/2005/2483/rule/186/2) substituted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 43](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/43) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))

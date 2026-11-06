@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Power to limit profits of relevant providers[^key-45924bebdc6819ac2ceb7a153d95680e]
+## 17. Power to limit profits of relevant providers[^c-45924bebdc6819ac2ceb7a153d95680e]
 
 *Extent: E+W*
 
@@ -83,4 +83,4 @@ summary: ''
 
 ## Annotations
 
-[^key-45924bebdc6819ac2ceb7a153d95680e]: Commencement: S. 17 in force at Royal Assent for specified purposes, see [s. 78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)(5)
+[^c-45924bebdc6819ac2ceb7a153d95680e]: Commencement: S. 17 in force at Royal Assent for specified purposes, see [s. 78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)(5)

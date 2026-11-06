@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 591. Qualifying arrangements[^key-72b56fb7ce539c6041aa0d7c68527931]
+## 591. Qualifying arrangements[^c-72b56fb7ce539c6041aa0d7c68527931]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-72b56fb7ce539c6041aa0d7c68527931]: Commencement: Art. 591 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-72b56fb7ce539c6041aa0d7c68527931]: Commencement: Art. 591 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

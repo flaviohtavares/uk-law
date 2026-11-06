@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Access to works[^key-26cf62b131230d754b795e31fb3b125c]
+## 10. Access to works[^c-26cf62b131230d754b795e31fb3b125c]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ The promoter may, for the purposes of the authorised works—
 
 ## Annotations
 
-[^key-26cf62b131230d754b795e31fb3b125c]: Commencement: Art. 10 in force at 22.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1)
+[^c-26cf62b131230d754b795e31fb3b125c]: Commencement: Art. 10 in force at 22.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1)

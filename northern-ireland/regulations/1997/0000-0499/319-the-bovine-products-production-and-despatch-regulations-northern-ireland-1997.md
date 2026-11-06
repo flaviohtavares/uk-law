@@ -40,11 +40,11 @@ Coming into operation
 
 The Department of Agriculture, being a Department designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the common agricultural policy of the European Community, in exercise of the powers conferred on it by the said section 2(2) and of every other power enabling it in that behalf, hereby makes the following Regulations:—
 
-## 1. Citation and commencement[^key-96d1960fdd9ed9f63f338fcc2bd76481]
+## 1. Citation and commencement[^c-96d1960fdd9ed9f63f338fcc2bd76481]
 
 These Regulations may be cited as The Bovine Products (Production and Despatch) Regulations (Northern Ireland) 1997 and shall come into operation on 26th July 1997.
 
-## 2. Interpretation[^key-84ac86a9468828ed1527e56df11c27f2]
+## 2. Interpretation[^c-84ac86a9468828ed1527e56df11c27f2]
 
 (1) The Interpretation Act (Northern Ireland) 1954[^f00003] shall apply to these Regulations as it applies to a Measure of the Northern Ireland Assembly.
 
@@ -81,7 +81,7 @@ These Regulations may be cited as The Bovine Products (Production and Despatch) 
 
 (3) Any reference in these Regulations to an instrument of the European Communities is a reference to that instrument as amended at the date of the coming into operation of these Regulations.
 
-## 3. Production of controlled bovine by-products[^key-72499aa940455d7bf565faafc88c2a4a]
+## 3. Production of controlled bovine by-products[^c-72499aa940455d7bf565faafc88c2a4a]
 
 (1) Any person who produces a controlled bovine by-product of any type shall ensure that—
 
@@ -120,14 +120,14 @@ shall be clearly indicated, either by means of a label affixed to the by-product
 
 the Department may withdraw the registration of those premises.
 
-## 4. Control of the consignment of bovine material[^key-b36e7622fdfc8013c4bb1fb229677a0b]
+## 4. Control of the consignment of bovine material[^c-b36e7622fdfc8013c4bb1fb229677a0b]
 
 Any person who consigns from any place, or transports, material derived from any part of any bovine animal to any establishment registered under regulation 3(3), shall ensure that—
 
 - (a) any material derived from such an animal which includes any part of its vertebral column is contained in an impervious container which is clearly labelled to indicate that it contains bovine vertebral column; and
 - (b) any other material is contained in a separate impervious container which is clearly labelled as not containing bovine vertebral column.
 
-## 5. Use and despatch of controlled bovine by-products[^key-f19d06bd7487eb254f83b65fea84d43f]
+## 5. Use and despatch of controlled bovine by-products[^c-f19d06bd7487eb254f83b65fea84d43f]
 
 (1) Any person who uses any controlled bovine by-product in the production of any product (other than a controlled bovine by-product) which is—
 
@@ -143,7 +143,7 @@ shall ensure that that by-product was produced—
 
 (2) A person shall not despatch from Northern Ireland to another member State any controlled bovine by-product produced in an establishment registered under regulation 3(3) of these Regulations or of the Great Britain Regulations unless it is accompanied by a health certificate issued by a veterinary inspector specifying that it was produced in compliance with the conditions specified in the Annex to Commission Decision 96/239/EC.
 
-## 6. Despatch of meat and other products from bovine animals slaughtered outside the United Kingdom[^key-b49b409e1b7baf72ea7e0d06b6e56ae6]
+## 6. Despatch of meat and other products from bovine animals slaughtered outside the United Kingdom[^c-b49b409e1b7baf72ea7e0d06b6e56ae6]
 
 (1) A person shall not despatch from Northern Ireland to a member State any relevant goods unless—
 
@@ -174,7 +174,7 @@ shall ensure that that by-product was produced—
 - (a) “approved establishment” means approved by the Department under paragraph (2) or by any Minister of the Crown under regulation 6(2) of the Great Britain Regulations; and
 - (b) the reference to a veterinary surgeon appointed by the Department includes, in relation to the production of relevant goods in Great Britain, a reference to any veterinary surgeon appointed by a Minister of the Crown under regulation 6(1)(*b*) of the Great Britain Regulations.
 
-## 7. Fees[^key-1af4a23a5b16f3fed45da7e4aa8e94d8]
+## 7. Fees[^c-1af4a23a5b16f3fed45da7e4aa8e94d8]
 
 The Department may charge such reasonable fees as it may determine in respect of any costs reasonably incurred by it in connection with—
 
@@ -182,7 +182,7 @@ The Department may charge such reasonable fees as it may determine in respect of
 - (b) the control exercised under regulation 3(4)(*b*) or 6(1)(*b*) by a veterinary surgeon appointed by it; and
 - (c) the issue of a health certificate by a veterinary surgeon approved by it under regulation 5(2) or 6(1)(*b*).
 
-## 8. Powers of inspectors[^key-f1519d9015a144c18ed6fe1065a931f1]
+## 8. Powers of inspectors[^c-f1519d9015a144c18ed6fe1065a931f1]
 
 (1) An inspector shall, on producing, if required to do so, some duly authenticated document showing his authority, have the right at all reasonable hours to enter premises for the purpose of ascertaining whether there is or has been on the premises any contravention of these Regulations.
 
@@ -233,7 +233,7 @@ he may, instead of making an order under paragraph (7), order that the consignme
 - (b) (in the case of a consignment of controlled bovine by-products) it was produced in contravention of regulation 3(1) of these Regulations or of the Great Britain Regulations; or
 - (c) (in the case of a consignment of relevant goods) it was despatched in contravention of regulation 6(1) of these Regulations or of the Great Britain Regulations.
 
-## 9. Obstruction[^key-9aaf5846bbe7c93ae8e270259b2b8939]
+## 9. Obstruction[^c-9aaf5846bbe7c93ae8e270259b2b8939]
 
 (1) A person shall not—
 
@@ -243,19 +243,19 @@ he may, instead of making an order under paragraph (7), order that the consignme
 
 (2) Nothing in paragraph (1)(*b*) shall be construed as requiring any person to answer any question or give any information if to do so might incriminate him.
 
-## 10. Offences and penalties[^key-230a3146a56f7945485eefa8262fec65]
+## 10. Offences and penalties[^c-230a3146a56f7945485eefa8262fec65]
 
 (1) A person contravening any provision of these Regulations shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale or to imprisonment for a term not exceeding three months or to both.
 
 (2) Article 19 of the Food Safety (Northern Ireland) Order 1991[^f00009] shall apply to the commission by any person of an offence under these Regulations, and Article 20(1), (5) and (6) of that Order shall apply in any proceedings for an offence under these Regulations, as if the references to “any of the preceding provisions of this Part” were references to these Regulations.
 
-## 11. Amendment of the Products of Animal Origin (Import and Export) Regulations (Northern Ireland) 1993 and the Animals and Animal Products (Import and Export) Regulations (Northern Ireland) 1995[^key-0dba26ca5a1c0d57fe69a93ddabcd2b6]
+## 11. Amendment of the Products of Animal Origin (Import and Export) Regulations (Northern Ireland) 1993 and the Animals and Animal Products (Import and Export) Regulations (Northern Ireland) 1995[^c-0dba26ca5a1c0d57fe69a93ddabcd2b6]
 
 The following paragraph shall be added as a new paragraph (5) at the end of regulation 6 of the Products of Animal Origin (Import and Export) Regulations (Northern Ireland) 1993 and as a new paragraph (6) at the end of regulation 5 of the Animals and Animal Products (Import and Export) Regulations (Northern Ireland) 1995—
 
 - ( ) This regulation shall apply without prejudice to the requirements of the Bovine Products (Production and Despatch) Regulations “???QUOTATION NOT OPEN???(Northern Ireland) 1997”.
 
-## 12. Revocation of the Bovine Products (Despatch to other Member States) Regulations (Northern Ireland) 1996[^key-02d3551bdf6ebc6e9256a7ab26802c3d]
+## 12. Revocation of the Bovine Products (Despatch to other Member States) Regulations (Northern Ireland) 1996[^c-02d3551bdf6ebc6e9256a7ab26802c3d]
 
 The Bovine Products (Despatch to other Member States) Regulations (Northern Ireland) 1996[^f00010] are hereby revoked.
 
@@ -285,9 +285,9 @@ They regulate the consignment of material containing bovine vertebral column to 
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68)
 
-[^key-96d1960fdd9ed9f63f338fcc2bd76481]: Commencement: Reg. 1 in operation at 26.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/319/regulation/1)
+[^c-96d1960fdd9ed9f63f338fcc2bd76481]: Commencement: Reg. 1 in operation at 26.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/319/regulation/1)
 
-[^key-84ac86a9468828ed1527e56df11c27f2]: Commencement: Reg. 2 in operation at 26.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/319/regulation/1)
+[^c-84ac86a9468828ed1527e56df11c27f2]: Commencement: Reg. 2 in operation at 26.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/319/regulation/1)
 
 [^f00003]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
@@ -297,30 +297,30 @@ They regulate the consignment of material containing bovine vertebral column to 
 
 [^f00006]: Footnote: S.I. [1997/389](https://www.legislation.gov.uk/uksi/1997/389)
 
-[^key-72499aa940455d7bf565faafc88c2a4a]: Commencement: Reg. 3 in operation at 26.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/319/regulation/1)
+[^c-72499aa940455d7bf565faafc88c2a4a]: Commencement: Reg. 3 in operation at 26.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/319/regulation/1)
 
-[^key-b36e7622fdfc8013c4bb1fb229677a0b]: Commencement: Reg. 4 in operation at 26.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/319/regulation/1)
+[^c-b36e7622fdfc8013c4bb1fb229677a0b]: Commencement: Reg. 4 in operation at 26.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/319/regulation/1)
 
-[^key-f19d06bd7487eb254f83b65fea84d43f]: Commencement: Reg. 5 in operation at 26.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/319/regulation/1)
+[^c-f19d06bd7487eb254f83b65fea84d43f]: Commencement: Reg. 5 in operation at 26.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/319/regulation/1)
 
-[^key-b49b409e1b7baf72ea7e0d06b6e56ae6]: Commencement: Reg. 6 in operation at 26.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/319/regulation/1)
+[^c-b49b409e1b7baf72ea7e0d06b6e56ae6]: Commencement: Reg. 6 in operation at 26.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/319/regulation/1)
 
 [^f00007]: Footnote: [S.R. 1993 No. 304](https://www.legislation.gov.uk/nisr/1993/304)
 
 [^f00008]: Footnote: [S.R. 1995 No. 52](https://www.legislation.gov.uk/nisr/1995/52)
 
-[^key-1af4a23a5b16f3fed45da7e4aa8e94d8]: Commencement: Reg. 7 in operation at 26.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/319/regulation/1)
+[^c-1af4a23a5b16f3fed45da7e4aa8e94d8]: Commencement: Reg. 7 in operation at 26.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/319/regulation/1)
 
-[^key-f1519d9015a144c18ed6fe1065a931f1]: Commencement: Reg. 8 in operation at 26.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/319/regulation/1)
+[^c-f1519d9015a144c18ed6fe1065a931f1]: Commencement: Reg. 8 in operation at 26.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/319/regulation/1)
 
-[^key-9aaf5846bbe7c93ae8e270259b2b8939]: Commencement: Reg. 9 in operation at 26.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/319/regulation/1)
+[^c-9aaf5846bbe7c93ae8e270259b2b8939]: Commencement: Reg. 9 in operation at 26.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/319/regulation/1)
 
-[^key-230a3146a56f7945485eefa8262fec65]: Commencement: Reg. 10 in operation at 26.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/319/regulation/1)
+[^c-230a3146a56f7945485eefa8262fec65]: Commencement: Reg. 10 in operation at 26.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/319/regulation/1)
 
 [^f00009]: Footnote: [1991 No. 762 (N.I. 7)|](https://www.legislation.gov.uk/nisi/1991/762) as amended by [S.I. 1996 No. 1633 (N.I. 12)](https://www.legislation.gov.uk/nisi/1996/1633)
 
-[^key-0dba26ca5a1c0d57fe69a93ddabcd2b6]: Commencement: Reg. 11 in operation at 26.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/319/regulation/1)
+[^c-0dba26ca5a1c0d57fe69a93ddabcd2b6]: Commencement: Reg. 11 in operation at 26.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/319/regulation/1)
 
-[^key-02d3551bdf6ebc6e9256a7ab26802c3d]: Commencement: Reg. 12 in operation at 26.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/319/regulation/1)
+[^c-02d3551bdf6ebc6e9256a7ab26802c3d]: Commencement: Reg. 12 in operation at 26.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/319/regulation/1)
 
 [^f00010]: Footnote: [S.R. 1996 No. 563](https://www.legislation.gov.uk/nisr/1996/563) as amended by [S.R. 1996 No. 597](https://www.legislation.gov.uk/nisr/1996/597)

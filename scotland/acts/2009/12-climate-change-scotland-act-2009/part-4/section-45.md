@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 45. Guidance to relevant public bodies[^key-8ebff45b7e8ea9d74f89e759e63893f8]
+## 45. Guidance to relevant public bodies[^c-8ebff45b7e8ea9d74f89e759e63893f8]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ as the Scottish Ministers consider appropriate.
 
 ## Annotations
 
-[^key-8ebff45b7e8ea9d74f89e759e63893f8]: Commencement: S. 45 in force at 1.1.2011 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(4)](https://www.legislation.gov.uk/ssi/2009/341/article/2/4)
+[^c-8ebff45b7e8ea9d74f89e759e63893f8]: Commencement: S. 45 in force at 1.1.2011 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(4)](https://www.legislation.gov.uk/ssi/2009/341/article/2/4)

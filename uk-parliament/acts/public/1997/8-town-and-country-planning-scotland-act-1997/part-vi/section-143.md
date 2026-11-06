@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 143. Compensation for loss due to stop notice.[^key-525ea2a5bf0d39daff4aa1bbfa7caff8]
+## 143. Compensation for loss due to stop notice.[^c-525ea2a5bf0d39daff4aa1bbfa7caff8]
 
 *Extent: S*
 
@@ -24,8 +24,8 @@ summary: ''
 
 (2)[^c950152] For the purposes of this section a stop notice ceases to have effect when—
 
-- (a) the enforcement notice is quashed [^key-2963ecdccd0bf83c455e510df049a346]...,
-- (b) the enforcement notice is varied [^key-ff95ae3cb018c21b60d1dae9d98191d7]... so that any activity the carrying out of which is prohibited by the stop notice ceases to be a relevant activity within the meaning of section 140(2),
+- (a) the enforcement notice is quashed [^c-2963ecdccd0bf83c455e510df049a346]...,
+- (b) the enforcement notice is varied [^c-ff95ae3cb018c21b60d1dae9d98191d7]... so that any activity the carrying out of which is prohibited by the stop notice ceases to be a relevant activity within the meaning of section 140(2),
 - (c) the enforcement notice is withdrawn by the planning authority otherwise than in consequence of the grant by them of planning permission for the development to which the notice relates, or
 - (d) the stop notice is withdrawn.
 
@@ -44,12 +44,12 @@ summary: ''
 
 ## Annotations
 
-[^key-525ea2a5bf0d39daff4aa1bbfa7caff8]: Modification: Ss. 123-149 functions made exercisable concurrently (7.1.2003) by [The Cairngorms National Park Designation, Transitional and Consequential Provisions (Scotland) Order 2003 (S.S.I. 2003/1)](https://www.legislation.gov.uk/ssi/2003/1), [arts. 1](https://www.legislation.gov.uk/ssi/2003/1/article/1), [7(1)(b)](https://www.legislation.gov.uk/ssi/2003/1/article/7/1/b)
+[^c-525ea2a5bf0d39daff4aa1bbfa7caff8]: Modification: Ss. 123-149 functions made exercisable concurrently (7.1.2003) by [The Cairngorms National Park Designation, Transitional and Consequential Provisions (Scotland) Order 2003 (S.S.I. 2003/1)](https://www.legislation.gov.uk/ssi/2003/1), [arts. 1](https://www.legislation.gov.uk/ssi/2003/1/article/1), [7(1)(b)](https://www.legislation.gov.uk/ssi/2003/1/article/7/1/b)
 
 [^c950152]: Modification: S. 143(1)-(6): power to modify conferred (27.5.1997) by [1997 c. 10](https://www.legislation.gov.uk/ukpga/1997/10), [ss. 23(1)(c)](https://www.legislation.gov.uk/ukpga/1997/10/section/23/1/c), [31](https://www.legislation.gov.uk/ukpga/1997/10/section/31) (with [ss. 9(3)](https://www.legislation.gov.uk/ukpga/1997/10/section/9/3), [10(5)](https://www.legislation.gov.uk/ukpga/1997/10/section/10/5), [38(6)](https://www.legislation.gov.uk/ukpga/1997/10/section/38/6))
 
-[^key-2963ecdccd0bf83c455e510df049a346]: Textual amendment: Words in s. 143(2)(a) repealed (3.8.2009) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [s. 59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2), [sch.](https://www.legislation.gov.uk/asp/2006/17/schedule) (with [S.S.I. 2009/222](https://www.legislation.gov.uk/ssi/2009/222), arts. 12, [15](https://www.legislation.gov.uk/ssi/2009/222/article/15)); [S.S.I. 2009/219](https://www.legislation.gov.uk/ssi/2009/219), [art. 2](https://www.legislation.gov.uk/ssi/2009/219/article/2), [sch.](https://www.legislation.gov.uk/ssi/2009/219/schedule)
+[^c-2963ecdccd0bf83c455e510df049a346]: Textual amendment: Words in s. 143(2)(a) repealed (3.8.2009) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [s. 59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2), [sch.](https://www.legislation.gov.uk/asp/2006/17/schedule) (with [S.S.I. 2009/222](https://www.legislation.gov.uk/ssi/2009/222), arts. 12, [15](https://www.legislation.gov.uk/ssi/2009/222/article/15)); [S.S.I. 2009/219](https://www.legislation.gov.uk/ssi/2009/219), [art. 2](https://www.legislation.gov.uk/ssi/2009/219/article/2), [sch.](https://www.legislation.gov.uk/ssi/2009/219/schedule)
 
-[^key-ff95ae3cb018c21b60d1dae9d98191d7]: Textual amendment: Words in s. 143(2)(b) repealed (3.8.2009) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [s. 59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2), [sch.](https://www.legislation.gov.uk/asp/2006/17/schedule) (with [S.S.I. 2009/222](https://www.legislation.gov.uk/ssi/2009/222), arts. 12, [15](https://www.legislation.gov.uk/ssi/2009/222/article/15)); [S.S.I. 2009/219](https://www.legislation.gov.uk/ssi/2009/219), [art. 2](https://www.legislation.gov.uk/ssi/2009/219/article/2), [sch.](https://www.legislation.gov.uk/ssi/2009/219/schedule)
+[^c-ff95ae3cb018c21b60d1dae9d98191d7]: Textual amendment: Words in s. 143(2)(b) repealed (3.8.2009) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [s. 59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2), [sch.](https://www.legislation.gov.uk/asp/2006/17/schedule) (with [S.S.I. 2009/222](https://www.legislation.gov.uk/ssi/2009/222), arts. 12, [15](https://www.legislation.gov.uk/ssi/2009/222/article/15)); [S.S.I. 2009/219](https://www.legislation.gov.uk/ssi/2009/219), [art. 2](https://www.legislation.gov.uk/ssi/2009/219/article/2), [sch.](https://www.legislation.gov.uk/ssi/2009/219/schedule)
 
 [^c950158]: Marginal citation: [1963 c. 51](https://www.legislation.gov.uk/ukpga/1963/51).

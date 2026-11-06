@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 84. Allocation of unique identifiers[^key-ab3bdd57c5207d2e53805024a6f82fae]
+## 84. Allocation of unique identifiers[^c-ab3bdd57c5207d2e53805024a6f82fae]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ab3bdd57c5207d2e53805024a6f82fae]: Commencement: S. 84 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-ab3bdd57c5207d2e53805024a6f82fae]: Commencement: S. 84 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)

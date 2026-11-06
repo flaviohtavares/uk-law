@@ -24,9 +24,9 @@ Proceedings in respect of an offence created by or under any of the relevant sew
 
 - (a) a party aggrieved;
 - (b) a sewerage undertaker;
-- (ba)[^key-de6c3bd650989755f4d09477deaacb51] a sewerage licensee; or
+- (ba)[^c-de6c3bd650989755f4d09477deaacb51] a sewerage licensee; or
 - (c) a body whose function it is to enforce the provisions in question.
 
 ## Annotations
 
-[^key-de6c3bd650989755f4d09477deaacb51]: Textual amendment: S. 211(ba) inserted (1.4.2017) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 7 para. 118](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/118); [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(xxi)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/xxi)
+[^c-de6c3bd650989755f4d09477deaacb51]: Textual amendment: S. 211(ba) inserted (1.4.2017) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 7 para. 118](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/118); [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(xxi)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/xxi)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 132. Duty not to make unauthorised disclosures[^key-6c10a2e54a6d3e552d9b80e37fa491da]
+## 132. Duty not to make unauthorised disclosures[^c-6c10a2e54a6d3e552d9b80e37fa491da]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6c10a2e54a6d3e552d9b80e37fa491da]: Commencement: [S. 132](https://www.legislation.gov.uk/ukpga/2016/25/section/132) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 9(r)](https://www.legislation.gov.uk/uksi/2018/652/regulation/9/r)
+[^c-6c10a2e54a6d3e552d9b80e37fa491da]: Commencement: [S. 132](https://www.legislation.gov.uk/ukpga/2016/25/section/132) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 9(r)](https://www.legislation.gov.uk/uksi/2018/652/regulation/9/r)

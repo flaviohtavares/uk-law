@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Power to modify legislation governing the basic payment scheme[^key-2198cb644cdd3f172d94d82536d83b7f]
+## 16. Power to modify legislation governing the basic payment scheme[^c-2198cb644cdd3f172d94d82536d83b7f]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2198cb644cdd3f172d94d82536d83b7f]: Commencement: [S. 16](https://www.legislation.gov.uk/asc/2023/4/section/16) in force at 17.10.2023, see [s. 56(2)(c)](https://www.legislation.gov.uk/asc/2023/4/section/56/2/c)
+[^c-2198cb644cdd3f172d94d82536d83b7f]: Commencement: [S. 16](https://www.legislation.gov.uk/asc/2023/4/section/16) in force at 17.10.2023, see [s. 56(2)(c)](https://www.legislation.gov.uk/asc/2023/4/section/56/2/c)

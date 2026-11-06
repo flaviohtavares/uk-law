@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 175. Sections 173 and 174: application to sheriff for order as to evidence[^key-4d846375da02f9221ebe8525805fcdd6]
+## 175. Sections 173 and 174: application to sheriff for order as to evidence[^c-4d846375da02f9221ebe8525805fcdd6]
 
 *Extent: S*
 
@@ -31,7 +31,7 @@ summary: ''
 - (a) the child,
 - (b) a relevant person in relation to the child,
 - (c) the Principal Reporter,
-- (d) a safeguarder appointed in relation to the child by virtue of section 30[^key-86ba32652d6a75e4382b83236f5c8016].
+- (d) a safeguarder appointed in relation to the child by virtue of section 30[^c-86ba32652d6a75e4382b83236f5c8016].
 
 (3) Those matters are—
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4d846375da02f9221ebe8525805fcdd6]: Commencement: S. 175 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-4d846375da02f9221ebe8525805fcdd6]: Commencement: S. 175 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
-[^key-86ba32652d6a75e4382b83236f5c8016]: Textual amendment: Words in s. 175(2)(d) substituted (24.6.2013) by [The Children's Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211)](https://www.legislation.gov.uk/ssi/2013/211), [art. 1](https://www.legislation.gov.uk/ssi/2013/211/article/1), [Sch. 1 para. 20(18)](https://www.legislation.gov.uk/ssi/2013/211/schedule/1/paragraph/20/18)
+[^c-86ba32652d6a75e4382b83236f5c8016]: Textual amendment: Words in s. 175(2)(d) substituted (24.6.2013) by [The Children's Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211)](https://www.legislation.gov.uk/ssi/2013/211), [art. 1](https://www.legislation.gov.uk/ssi/2013/211/article/1), [Sch. 1 para. 20(18)](https://www.legislation.gov.uk/ssi/2013/211/schedule/1/paragraph/20/18)

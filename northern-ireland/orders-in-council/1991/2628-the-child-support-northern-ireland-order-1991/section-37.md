@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 37. Commitment to prison[^key-89efb28a1ba3859c9b7badaf61ad23d2]
+## 37. Commitment to prison[^c-89efb28a1ba3859c9b7badaf61ad23d2]
 
 *Extent: N.I.*
 
@@ -60,6 +60,6 @@ summary: ''
 
 ## Annotations
 
-[^key-89efb28a1ba3859c9b7badaf61ad23d2]: Modification: [Art. 37](https://www.legislation.gov.uk/nisi/1991/2628/article/37) excluded (30.6.2014) by [The Child Support Fees Regulations (Northern Ireland) 2014 (S.R. 2014/182)](https://www.legislation.gov.uk/nisr/2014/182), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/182/regulation/1/1), [9(2)(b)](https://www.legislation.gov.uk/nisr/2014/182/regulation/9/2/b)
+[^c-89efb28a1ba3859c9b7badaf61ad23d2]: Modification: [Art. 37](https://www.legislation.gov.uk/nisi/1991/2628/article/37) excluded (30.6.2014) by [The Child Support Fees Regulations (Northern Ireland) 2014 (S.R. 2014/182)](https://www.legislation.gov.uk/nisr/2014/182), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/182/regulation/1/1), [9(2)(b)](https://www.legislation.gov.uk/nisr/2014/182/regulation/9/2/b)
 
 [^c16851901]: Textual amendment: [1981 NI 26](https://www.legislation.gov.uk/1981/ni26)

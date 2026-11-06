@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105. Maritime enforcement powers: offences[^c22719441][^key-ec0ea04fe87e9136e18a46c92f942a4a]
+## 105. Maritime enforcement powers: offences[^c22719441][^c-ec0ea04fe87e9136e18a46c92f942a4a]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 [^c22719441]: Commencement: [S. 105](https://www.legislation.gov.uk/ukpga/2017/3/section/105) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-ec0ea04fe87e9136e18a46c92f942a4a]: Commencement: [S. 105](https://www.legislation.gov.uk/ukpga/2017/3/section/105) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2018/227/article/2/e)
+[^c-ec0ea04fe87e9136e18a46c92f942a4a]: Commencement: [S. 105](https://www.legislation.gov.uk/ukpga/2017/3/section/105) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2018/227/article/2/e)

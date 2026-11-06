@@ -159,7 +159,7 @@ The Authority must mark out the limits of the fishery area in such manner as the
 
 - (a) any company licensed as a water supplier under section 17A of the Water Industry Act 1991[^f00007] or appointed as a water or sewerage undertaker under section 6 of that Act;
 - (b) any person providing an electronic communications network or service or associated facility within the meaning of section 32 of the Communications Act 2003[^f00008];
-- (c)[^key-23e5f99294d8ddb0de4f222995f876e9] any operator of an electronic communications code network (within the meaning given in paragraph 1(1) of Schedule 17 to the Communications Act 2003);
+- (c)[^c-23e5f99294d8ddb0de4f222995f876e9] any operator of an electronic communications code network (within the meaning given in paragraph 1(1) of Schedule 17 to the Communications Act 2003);
 - (d) any person licensed under Part 1 of the Gas Act 1986[^f00010] to act as a gas transporter, gas supplier, gas shipper, or participant in the operation of a gas interconnector; and
 - (e) any person licensed under section 6 of the Electricity Act 1989[^f00011].
 
@@ -203,7 +203,7 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00008]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21). Section 32 was amended by [S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210).
 
-[^key-23e5f99294d8ddb0de4f222995f876e9]: Textual amendment: [Art. 7(2)(c)](https://www.legislation.gov.uk/uksi/2013/1979/article/7/2/c) substituted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 4 para. 37(2)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/4/paragraph/37/2)
+[^c-23e5f99294d8ddb0de4f222995f876e9]: Textual amendment: [Art. 7(2)(c)](https://www.legislation.gov.uk/uksi/2013/1979/article/7/2/c) substituted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 4 para. 37(2)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/4/paragraph/37/2)
 
 [^f00010]: Footnote: [1986 c.44](https://www.legislation.gov.uk/ukpga/1986/44).
 

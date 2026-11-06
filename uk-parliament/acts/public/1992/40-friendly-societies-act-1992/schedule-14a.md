@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 14A — APPOINTMENT AND REMOVAL OF AUDITORS: SOCIETIES SUBJECT TO SPECIAL REQUIREMENTS[^key-45a02626cc06bc38cc4a526a95eceb56][^key-5ec204466da71ae8ded1e2168b29a18c]
+## SCHEDULE 14A — APPOINTMENT AND REMOVAL OF AUDITORS: SOCIETIES SUBJECT TO SPECIAL REQUIREMENTS[^c-45a02626cc06bc38cc4a526a95eceb56][^c-5ec204466da71ae8ded1e2168b29a18c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ Section 72(3)
 
 ### Introductory
 
-**1.** (1) This Schedule makes provision in relation to the appointment and removal of the auditor or auditors of a friendly society subject to special requirements[^key-a3a1e1a43d5d544c1f11ed14896ddc28].
+**1.** (1) This Schedule makes provision in relation to the appointment and removal of the auditor or auditors of a friendly society subject to special requirements[^c-a3a1e1a43d5d544c1f11ed14896ddc28].
 
 (2) For the purposes of this Schedule, a person is auditor of a friendly society in respect of a financial year if the person is required to report on the accounts of that society for that financial year.
 
@@ -81,7 +81,7 @@ Section 72(3)
 - (e) common business strategy; or
 - (f) use of a common name.
 
-**4A.**[^key-388d76eeb5d9a477d0028cafabb58857] (1) If—
+**4A.**[^c-388d76eeb5d9a477d0028cafabb58857] (1) If—
 
 - (a) a friendly society appoints, or purports to appoint, an auditor or auditors, and
 - (b) the appointment or purported appointment is made in breach of paragraph 2, 3 or 4 (requirements applying to appointment of auditors),
@@ -129,7 +129,7 @@ and so shall any officer who is also guilty of the offence.
 - (a) in the case of an appointment in respect of a financial year beginning on or after 17 June 2016 made after this Schedule comes into force—
   - (i) if the society has an audit committee, a selection procedure that complies with the requirements of paragraphs 2(3) and (4)(a) and (b), and
   - (ii) if the society does not have an audit committee, a selection procedure that complies with the requirements of Article 16(3) of the Audit Regulation;
-- (b) in any other case, a selection procedure that substantially meets the requirements of Article 16(2) to (5) of the Audit Regulation as it had effect immediately before IP completion day[^key-0eea0815d5d8ab0845d31f5fc44a8f40], having regard to the circumstances at the time (including whether the society had an audit committee).
+- (b) in any other case, a selection procedure that substantially meets the requirements of Article 16(2) to (5) of the Audit Regulation as it had effect immediately before IP completion day[^c-0eea0815d5d8ab0845d31f5fc44a8f40], having regard to the circumstances at the time (including whether the society had an audit committee).
 
 ### Application to court to remove auditor from office
 
@@ -152,9 +152,9 @@ the court may make an order removing the auditor from office.
 
 ### Interpretation
 
-**7.** (1)[^key-5abde68285e2b492b3848b1e9e392610] In this Schedule—
+**7.** (1)[^c-5abde68285e2b492b3848b1e9e392610] In this Schedule—
 
-- “[^key-e99a218f8a1c275acbe7060ba9ac6411]**audit committee**” means a body which performs—
+- “[^c-e99a218f8a1c275acbe7060ba9ac6411]**audit committee**” means a body which performs—
   - (a) the functions referred to in—
     - (i) rule 7.1.3 of the Disclosure Guidance and Transparency Rules sourcebook made by the Financial Conduct Authority under the Financial Services and Markets Act 2000 ; or
     - (ii) rule 2.4 of the Audit Committee Part of the Rulebook made by the Prudential Regulation Authority under that Act; or
@@ -162,22 +162,22 @@ the court may make an order removing the auditor from office.
 - “Audit Regulation” means Regulation 537/2014 of the European Parliament and of the Council on specific requirements regarding statutory audit of public interest entities and repealing Commission Decision [2005/909/EEC](https://www.legislation.gov.uk/european/decision/2005/0909);
 - “competent authority” means the Financial Reporting Council Limited.
 
-(2)[^key-03f262b9abfde9174df21b939aa29c2e] For the purposes of the definition of “audit committee”, references to rules made by the Prudential Regulation Authority or the Financial Conduct Authority are to those rules as they have effect on IP completion day.
+(2)[^c-03f262b9abfde9174df21b939aa29c2e] For the purposes of the definition of “audit committee”, references to rules made by the Prudential Regulation Authority or the Financial Conduct Authority are to those rules as they have effect on IP completion day.
 
 ## Annotations
 
-[^key-45a02626cc06bc38cc4a526a95eceb56]: Textual amendment: [Sch. 14A](https://www.legislation.gov.uk/ukpga/1992/40/schedule/14A) inserted (with effect in accordance with reg. 1(5) of the amending S.I.) by [The Statutory Auditors and Third Country Auditors Regulations 2017 (S.I. 2017/516)](https://www.legislation.gov.uk/uksi/2017/516), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/516/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2017/516/regulation/11)
+[^c-45a02626cc06bc38cc4a526a95eceb56]: Textual amendment: [Sch. 14A](https://www.legislation.gov.uk/ukpga/1992/40/schedule/14A) inserted (with effect in accordance with reg. 1(5) of the amending S.I.) by [The Statutory Auditors and Third Country Auditors Regulations 2017 (S.I. 2017/516)](https://www.legislation.gov.uk/uksi/2017/516), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/516/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2017/516/regulation/11)
 
-[^key-5ec204466da71ae8ded1e2168b29a18c]: Textual amendment: Words in [Sch. 14A](https://www.legislation.gov.uk/ukpga/1992/40/schedule/14A) heading substituted (31.12.2020) by [The Friendly Societies (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1039)](https://www.legislation.gov.uk/uksi/2018/1039), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1039/regulation/1), [14(a)](https://www.legislation.gov.uk/uksi/2018/1039/regulation/14/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5ec204466da71ae8ded1e2168b29a18c]: Textual amendment: Words in [Sch. 14A](https://www.legislation.gov.uk/ukpga/1992/40/schedule/14A) heading substituted (31.12.2020) by [The Friendly Societies (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1039)](https://www.legislation.gov.uk/uksi/2018/1039), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1039/regulation/1), [14(a)](https://www.legislation.gov.uk/uksi/2018/1039/regulation/14/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a3a1e1a43d5d544c1f11ed14896ddc28]: Textual amendment: Words in [Sch. 14A para. 1(1)](https://www.legislation.gov.uk/ukpga/1992/40/schedule/14A/paragraph/1/1) substituted (31.12.2020) by [The Friendly Societies (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1039)](https://www.legislation.gov.uk/uksi/2018/1039), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1039/regulation/1), [14(b)](https://www.legislation.gov.uk/uksi/2018/1039/regulation/14/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a3a1e1a43d5d544c1f11ed14896ddc28]: Textual amendment: Words in [Sch. 14A para. 1(1)](https://www.legislation.gov.uk/ukpga/1992/40/schedule/14A/paragraph/1/1) substituted (31.12.2020) by [The Friendly Societies (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1039)](https://www.legislation.gov.uk/uksi/2018/1039), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1039/regulation/1), [14(b)](https://www.legislation.gov.uk/uksi/2018/1039/regulation/14/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-388d76eeb5d9a477d0028cafabb58857]: Textual amendment: [Sch. 14A para. 4A](https://www.legislation.gov.uk/ukpga/1992/40/schedule/14A/paragraph/4A) inserted (with effect in accordance with reg. 2(2) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2017/1164/schedule/1/paragraph/6) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+[^c-388d76eeb5d9a477d0028cafabb58857]: Textual amendment: [Sch. 14A para. 4A](https://www.legislation.gov.uk/ukpga/1992/40/schedule/14A/paragraph/4A) inserted (with effect in accordance with reg. 2(2) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2017/1164/schedule/1/paragraph/6) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
 
-[^key-0eea0815d5d8ab0845d31f5fc44a8f40]: Textual amendment: Words in [Sch. 14A para. 5(5)(b)](https://www.legislation.gov.uk/ukpga/1992/40/schedule/14A/paragraph/5/5/b) inserted (31.12.2020) by [The Statutory Auditors and Third Country Auditors (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/177)](https://www.legislation.gov.uk/uksi/2019/177), [regs. 2](https://www.legislation.gov.uk/uksi/2019/177/regulation/2), [40](https://www.legislation.gov.uk/uksi/2019/177/regulation/40) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [14(j)](https://www.legislation.gov.uk/uksi/2020/523/regulation/14/j)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0eea0815d5d8ab0845d31f5fc44a8f40]: Textual amendment: Words in [Sch. 14A para. 5(5)(b)](https://www.legislation.gov.uk/ukpga/1992/40/schedule/14A/paragraph/5/5/b) inserted (31.12.2020) by [The Statutory Auditors and Third Country Auditors (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/177)](https://www.legislation.gov.uk/uksi/2019/177), [regs. 2](https://www.legislation.gov.uk/uksi/2019/177/regulation/2), [40](https://www.legislation.gov.uk/uksi/2019/177/regulation/40) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [14(j)](https://www.legislation.gov.uk/uksi/2020/523/regulation/14/j)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5abde68285e2b492b3848b1e9e392610]: Textual amendment: Sch. 14A para. 7 renumbered as Sch. 14A para. 7(1) (31.12.2020) by [The Friendly Societies (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1039)](https://www.legislation.gov.uk/uksi/2018/1039), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1039/regulation/1), [14(c)(i)](https://www.legislation.gov.uk/uksi/2018/1039/regulation/14/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5abde68285e2b492b3848b1e9e392610]: Textual amendment: Sch. 14A para. 7 renumbered as Sch. 14A para. 7(1) (31.12.2020) by [The Friendly Societies (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1039)](https://www.legislation.gov.uk/uksi/2018/1039), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1039/regulation/1), [14(c)(i)](https://www.legislation.gov.uk/uksi/2018/1039/regulation/14/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e99a218f8a1c275acbe7060ba9ac6411]: Textual amendment: Words in [Sch. 14A para. 7(1)](https://www.legislation.gov.uk/ukpga/1992/40/schedule/14A/paragraph/7/1) substituted (31.12.2020) by [The Friendly Societies (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1039)](https://www.legislation.gov.uk/uksi/2018/1039), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1039/regulation/1), [14(c)(ii)](https://www.legislation.gov.uk/uksi/2018/1039/regulation/14/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e99a218f8a1c275acbe7060ba9ac6411]: Textual amendment: Words in [Sch. 14A para. 7(1)](https://www.legislation.gov.uk/ukpga/1992/40/schedule/14A/paragraph/7/1) substituted (31.12.2020) by [The Friendly Societies (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1039)](https://www.legislation.gov.uk/uksi/2018/1039), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1039/regulation/1), [14(c)(ii)](https://www.legislation.gov.uk/uksi/2018/1039/regulation/14/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-03f262b9abfde9174df21b939aa29c2e]: Textual amendment: [Sch. 14A para. 7(2)](https://www.legislation.gov.uk/ukpga/1992/40/schedule/14A/paragraph/7/2) inserted (31.12.2020) by [The Friendly Societies (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1039)](https://www.legislation.gov.uk/uksi/2018/1039), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1039/regulation/1), [14(c)(iii)](https://www.legislation.gov.uk/uksi/2018/1039/regulation/14/c/iii) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 1(a)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/1/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-03f262b9abfde9174df21b939aa29c2e]: Textual amendment: [Sch. 14A para. 7(2)](https://www.legislation.gov.uk/ukpga/1992/40/schedule/14A/paragraph/7/2) inserted (31.12.2020) by [The Friendly Societies (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1039)](https://www.legislation.gov.uk/uksi/2018/1039), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1039/regulation/1), [14(c)(iii)](https://www.legislation.gov.uk/uksi/2018/1039/regulation/14/c/iii) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 1(a)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/1/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

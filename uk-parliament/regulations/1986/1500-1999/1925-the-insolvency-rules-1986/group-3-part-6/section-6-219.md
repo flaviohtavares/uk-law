@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.219. Order of discharge on application[^key-2692351ad8a00eb521fbeddff6dc254d]
+## 6.219. Order of discharge on application[^c-2692351ad8a00eb521fbeddff6dc254d]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2692351ad8a00eb521fbeddff6dc254d]: Commencement: [Rule 6.219](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.219) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-2692351ad8a00eb521fbeddff6dc254d]: Commencement: [Rule 6.219](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.219) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00197]: Marginal citation: \[FORM 6.76\]

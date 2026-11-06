@@ -246,7 +246,7 @@ Section 108(4).
 **28.**[^c15183251] In section 34(1) of that Act (transitional modifications of Part I for persons of specified ages)—
 
 - (a) in paragraph (a), for the words “13(2) or 28(4) or (5)" there shall be substituted “ or 13(2)" ”; and
-- (b)[^key-7ab63d72916cae46df1737132924ef65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-7ab63d72916cae46df1737132924ef65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
@@ -270,7 +270,7 @@ Section 108(4).
 
 *Extent: E+W*
 
-**31.**[^key-daa2a95523ad916c6665d8ecde7885c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**31.**[^c-daa2a95523ad916c6665d8ecde7885c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **32.**[^c15183321] In section 42 of that Act, subsection (3) (declaration by court that party to marriage unfit to have custody of children of family) shall cease to have effect.
 
@@ -511,7 +511,7 @@ Section 108(4).
 
 [^c15183251]: Commencement: Sch. 12 para. 28 wholly in force at 14.10.1991 see s. 108(2)(3) and [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2)
 
-[^key-7ab63d72916cae46df1737132924ef65]: Textual amendment: Sch. 12 para. 28(b) omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 12 para. 25](https://www.legislation.gov.uk/ukpga/2012/10/schedule/12/paragraph/25); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(j)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/j) (with [art. 7(2)](https://www.legislation.gov.uk/uksi/2012/2906/article/7/2)[(3)](https://www.legislation.gov.uk/uksi/2012/2906/article/7/3))
+[^c-7ab63d72916cae46df1737132924ef65]: Textual amendment: Sch. 12 para. 28(b) omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 12 para. 25](https://www.legislation.gov.uk/ukpga/2012/10/schedule/12/paragraph/25); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(j)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/j) (with [art. 7(2)](https://www.legislation.gov.uk/uksi/2012/2906/article/7/2)[(3)](https://www.legislation.gov.uk/uksi/2012/2906/article/7/3))
 
 [^c15183271]: Commencement: [Sch. 12 para. 29](https://www.legislation.gov.uk/ukpga/1989/41/schedule/12/paragraph/29) wholly in force at 14.10.1991 see [s. 108(2)(3)](https://www.legislation.gov.uk/ukpga/1989/41/section/108/2/3) and [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2)
 
@@ -521,7 +521,7 @@ Section 108(4).
 
 [^c15183301]: Commencement: [Sch. 12 para. 30](https://www.legislation.gov.uk/ukpga/1989/41/schedule/12/paragraph/30) wholly in force at 14.10.1991 see [s. 108(2)(3)](https://www.legislation.gov.uk/ukpga/1989/41/section/108/2/3) and [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2)
 
-[^key-daa2a95523ad916c6665d8ecde7885c6]: Textual amendment: [Sch. 12 para. 31](https://www.legislation.gov.uk/ukpga/1989/41/schedule/12/paragraph/31) omitted (22.4.2014) by virtue of [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 17(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/17/5), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/793](https://www.legislation.gov.uk/uksi/2014/793), [art. 2](https://www.legislation.gov.uk/uksi/2014/793/article/2) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 5, 11)
+[^c-daa2a95523ad916c6665d8ecde7885c6]: Textual amendment: [Sch. 12 para. 31](https://www.legislation.gov.uk/ukpga/1989/41/schedule/12/paragraph/31) omitted (22.4.2014) by virtue of [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 17(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/17/5), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/793](https://www.legislation.gov.uk/uksi/2014/793), [art. 2](https://www.legislation.gov.uk/uksi/2014/793/article/2) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 5, 11)
 
 [^c15183321]: Commencement: [Sch. 12 para. 32](https://www.legislation.gov.uk/ukpga/1989/41/schedule/12/paragraph/32) wholly in force at 14.10.1991 see [s. 108(2)(3)](https://www.legislation.gov.uk/ukpga/1989/41/section/108/2/3) and [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2)
 

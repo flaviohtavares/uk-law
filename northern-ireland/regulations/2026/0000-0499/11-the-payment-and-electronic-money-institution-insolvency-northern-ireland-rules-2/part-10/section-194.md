@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 194. Evidence provided by the administrator[^key-0590aa4c18010fe157dba2cd5de22b68]
+## 194. Evidence provided by the administrator[^c-0590aa4c18010fe157dba2cd5de22b68]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0590aa4c18010fe157dba2cd5de22b68]: Commencement: [Rule 194](https://www.legislation.gov.uk/nisr/2026/11/rule/194) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-0590aa4c18010fe157dba2cd5de22b68]: Commencement: [Rule 194](https://www.legislation.gov.uk/nisr/2026/11/rule/194) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

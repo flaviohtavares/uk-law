@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**71.**[^key-93fe8f8b382eb6504887f938c22d9dd1] In section 17—
+**71.**[^c-93fe8f8b382eb6504887f938c22d9dd1] In section 17—
 
 - (a) in the title, for “magistrates’ courts” substitute “the family court in England and Wales or in magistrates’ courts in Northern Ireland”;
 - (b) in subsection (4)—
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-93fe8f8b382eb6504887f938c22d9dd1]: Commencement: Art. 71 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-93fe8f8b382eb6504887f938c22d9dd1]: Commencement: Art. 71 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

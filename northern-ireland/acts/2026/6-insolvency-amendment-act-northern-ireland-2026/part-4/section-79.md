@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 79. Release of trustee[^key-2d1d76dd1afa0cbe2c17431366dfdc97]
+## 79. Release of trustee[^c-2d1d76dd1afa0cbe2c17431366dfdc97]
 
 *Extent: N.I.*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2d1d76dd1afa0cbe2c17431366dfdc97]: Commencement: S. 79 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-2d1d76dd1afa0cbe2c17431366dfdc97]: Commencement: S. 79 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

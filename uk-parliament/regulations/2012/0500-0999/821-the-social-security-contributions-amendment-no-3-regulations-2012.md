@@ -555,7 +555,7 @@ In regulation 80 (return by employer)—
 
 In paragraph 1(2) of Schedule 4 (interpretation)—
 
-- (a)[^key-cc3114240f92fca6cc0b120d56a05c09] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-cc3114240f92fca6cc0b120d56a05c09] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) omit the definition of “the Reimbursement Regulations”.
 
 ### 21.
@@ -823,7 +823,7 @@ A Tax Information and Impact Note has not been prepared for the remainder of the
 
 [^c2121063]: Marginal citation: [2003 c. 1](https://www.legislation.gov.uk/ukpga/2003/1). Section 684(4A) was inserted by section 85(3) of the [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11).
 
-[^key-cc3114240f92fca6cc0b120d56a05c09]: Textual amendment: [Reg. 20(a)](https://www.legislation.gov.uk/uksi/2012/821/regulation/20/a) omitted (6.4.2015) by virtue of [The Social Security (Miscellaneous Amendments No. 2) Regulations 2015 (S.I. 2015/478)](https://www.legislation.gov.uk/uksi/2015/478), [reg. 1](https://www.legislation.gov.uk/uksi/2015/478/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/478/schedule)
+[^c-cc3114240f92fca6cc0b120d56a05c09]: Textual amendment: [Reg. 20(a)](https://www.legislation.gov.uk/uksi/2012/821/regulation/20/a) omitted (6.4.2015) by virtue of [The Social Security (Miscellaneous Amendments No. 2) Regulations 2015 (S.I. 2015/478)](https://www.legislation.gov.uk/uksi/2015/478), [reg. 1](https://www.legislation.gov.uk/uksi/2015/478/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/478/schedule)
 
 [^c2121064]: Marginal citation: S.R. (NI) [2009 No. 128](https://www.legislation.gov.uk/ukcm/2009/128), to which there are amendments not relevant to these Regulations.
 

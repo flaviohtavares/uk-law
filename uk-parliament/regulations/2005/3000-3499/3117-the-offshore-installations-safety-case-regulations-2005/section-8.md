@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-Subject to regulation 27, the owner of a non-production installation shall ensure that it is not moved in internal waters[^key-304adec4b089d67dabb2644091ce55f4] with a view to its being operated there unless—
+Subject to regulation 27, the owner of a non-production installation shall ensure that it is not moved in internal waters[^c-304adec4b089d67dabb2644091ce55f4] with a view to its being operated there unless—
 
 - (a) he has prepared a safety case containing the particulars specified in regulation 12 and Schedule 3;
 - (b) he has sent the safety case to the Executive at least 3 months (or such shorter period as the Executive may specify) before the movement of the installation in those waters with a view to its being operated there; and
@@ -28,4 +28,4 @@ Subject to regulation 27, the owner of a non-production installation shall ensur
 
 ## Annotations
 
-[^key-304adec4b089d67dabb2644091ce55f4]: Textual amendment: Words in Regulations substituted (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 para. 34(1)](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/34/1) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 13 para. 34(2)](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/34/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
+[^c-304adec4b089d67dabb2644091ce55f4]: Textual amendment: Words in Regulations substituted (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 para. 34(1)](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/34/1) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 13 para. 34(2)](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/34/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))

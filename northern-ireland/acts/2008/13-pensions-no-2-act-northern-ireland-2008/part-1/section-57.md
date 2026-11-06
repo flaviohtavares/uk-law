@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: N.I.*
 
-(1)[^key-5bb79a3e478f099af61d09d5cbde3a7d] The Employment Rights Order is amended as follows.
+(1)[^c-5bb79a3e478f099af61d09d5cbde3a7d] The Employment Rights Order is amended as follows.
 
-(2)[^key-5bb79a3e478f099af61d09d5cbde3a7d] After Article 135C (flexible working) insert—
+(2)[^c-5bb79a3e478f099af61d09d5cbde3a7d] After Article 135C (flexible working) insert—
 
 > **135D. Pension enrolment**
 >
@@ -47,25 +47,25 @@ summary: ''
 
 (3) In Article 137 (redundancy as unfair dismissal), in paragraph (1)(c) (which refers to any of paragraphs (2A) to (7I) of that Article applying) for “(7I)” substitute “ (7J) ”.
 
-(4)[^key-5bb79a3e478f099af61d09d5cbde3a7d] After paragraph (7I) of that Article insert—
+(4)[^c-5bb79a3e478f099af61d09d5cbde3a7d] After paragraph (7I) of that Article insert—
 
 > (7J) This paragraph applies if the reason (or, if more than one, the principal reason) for which the employee was selected for dismissal was one of those specified in paragraph (1) of Article 135D (read with paragraph (2) of that Article).
 
 .
 
-(5)[^key-5bb79a3e478f099af61d09d5cbde3a7d] In Article 140 (exclusion of right: qualifying period of employment) in paragraph (3) (cases where no qualifying period is required) after sub-paragraph (fh) insert—
+(5)[^c-5bb79a3e478f099af61d09d5cbde3a7d] In Article 140 (exclusion of right: qualifying period of employment) in paragraph (3) (cases where no qualifying period is required) after sub-paragraph (fh) insert—
 
 > - (fi) paragraph (1) of Article 135D (read with paragraph (2) of that Article) applies,
 
 .
 
-(6)[^key-5bb79a3e478f099af61d09d5cbde3a7d] In Article 143(2) (cases where employee may complain of unfair dismissal despite participation in unofficial industrial action), after sub-paragraph (d) insert—
+(6)[^c-5bb79a3e478f099af61d09d5cbde3a7d] In Article 143(2) (cases where employee may complain of unfair dismissal despite participation in unofficial industrial action), after sub-paragraph (d) insert—
 
 > - (dd) Article 135D applies,
 
 .
 
-(7)[^key-5bb79a3e478f099af61d09d5cbde3a7d] In Article 144(2) (cases where industrial tribunal to determine whether dismissal of an employee is unfair despite limitation in paragraph (1) of that Article), after sub-paragraph (d) insert—
+(7)[^c-5bb79a3e478f099af61d09d5cbde3a7d] In Article 144(2) (cases where industrial tribunal to determine whether dismissal of an employee is unfair despite limitation in paragraph (1) of that Article), after sub-paragraph (d) insert—
 
 > - (dd) Article 135D applies;
 
@@ -73,4 +73,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5bb79a3e478f099af61d09d5cbde3a7d]: Commencement: S. 57(1)(2)(4)(5)(6)(7) in operation at 30.6.2012 by [S.R. 2012/266](https://www.legislation.gov.uk/nisr/2012/266), [art. 2](https://www.legislation.gov.uk/nisr/2012/266/article/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/266/schedule/part/2)
+[^c-5bb79a3e478f099af61d09d5cbde3a7d]: Commencement: S. 57(1)(2)(4)(5)(6)(7) in operation at 30.6.2012 by [S.R. 2012/266](https://www.legislation.gov.uk/nisr/2012/266), [art. 2](https://www.legislation.gov.uk/nisr/2012/266/article/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/266/schedule/part/2)

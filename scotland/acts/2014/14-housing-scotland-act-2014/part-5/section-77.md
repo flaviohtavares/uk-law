@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 77. Appointment of interim manager[^key-0e0c25b559bec77777ddcde7761b98c7][^key-a715e142f2fb5ed67cb2e00238895744]
+## 77. Appointment of interim manager[^c-0e0c25b559bec77777ddcde7761b98c7][^c-a715e142f2fb5ed67cb2e00238895744]
 
 *Extent: S*
 
@@ -61,6 +61,6 @@ After section 32X of the 1960 Act (inserted by section 76), insert—
 
 ## Annotations
 
-[^key-0e0c25b559bec77777ddcde7761b98c7]: Commencement: [S. 77](https://www.legislation.gov.uk/asp/2014/14/section/77) in force at 20.11.2014 for specified purposes by [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule)
+[^c-0e0c25b559bec77777ddcde7761b98c7]: Commencement: [S. 77](https://www.legislation.gov.uk/asp/2014/14/section/77) in force at 20.11.2014 for specified purposes by [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule)
 
-[^key-a715e142f2fb5ed67cb2e00238895744]: Commencement: [S. 77](https://www.legislation.gov.uk/asp/2014/14/section/77) in force at 1.5.2017 in so far as not already in force by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
+[^c-a715e142f2fb5ed67cb2e00238895744]: Commencement: [S. 77](https://www.legislation.gov.uk/asp/2014/14/section/77) in force at 1.5.2017 in so far as not already in force by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)

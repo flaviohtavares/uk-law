@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 19. Entry for purpose of arrest etc.[^c20410641][^key-4ea9dcf48f5e24caad310c37b418ee5a][^key-11e0bb306fe7a26c2f7dae2fb3b004e9]
+## 19. Entry for purpose of arrest etc.[^c20410641][^c-4ea9dcf48f5e24caad310c37b418ee5a][^c-11e0bb306fe7a26c2f7dae2fb3b004e9]
 
 *Extent: N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
   - (i)[^c22047171] a warrant of arrest issued in connection with or arising out of criminal proceedings; or
   - (ii) a warrant of commitment issued under Article 92 of the Magistrates' Courts (Northern Ireland) Order 1981[^c17127501];
 
-    ; or[^key-6570275c3ee166f0a43092e6db3f9348]
+    ; or[^c-6570275c3ee166f0a43092e6db3f9348]
   - (iii) a warrant of commitment issued under section 9(1)(i) of the Justice Act (Northern Ireland) 2016 (default by debtor);
 - (b)[^c20410601][^c21390221] of arresting a person for an indictable[^c20410561] offence;
 - (ba)[^c20410581] of arresting a person for an offence under Article 15 of the Road Traffic (Northern Ireland) Order 1995 (driving while under influence of drink or drugs) or Article 180(1) of the Road Traffic (Northern Ireland) Order 1981 (NI 1);
@@ -58,15 +58,15 @@ summary: ''
 
 [^c20410641]: Modification: Art. 19 extended (22.4.2007) by [Police (Northern Ireland) Act 2003 (c. 6)](https://www.legislation.gov.uk/ukpga/2003/6), [Sch. 2A para. 10](https://www.legislation.gov.uk/ukpga/2003/6/schedule/2A/paragraph/10) (as inserted (22.4.2007) by [Policing (Miscellaneous Provisions) (Northern Ireland) Order 2007 (S.I. 2007/912 (N.I. 6))](https://www.legislation.gov.uk/nisi/2007/912), [arts. 1(2)(d)(3)](https://www.legislation.gov.uk/nisi/2007/912/article/1/2/d/3), [7(8)](https://www.legislation.gov.uk/nisi/2007/912/article/7/8), [Sch. 5](https://www.legislation.gov.uk/nisi/2007/912/schedule/5))
 
-[^key-4ea9dcf48f5e24caad310c37b418ee5a]: Modification: [Art. 19](https://www.legislation.gov.uk/nisi/1989/1341/article/19) applied in part (with modifications) (10.2.2026) by [The Police and Criminal Evidence (Northern Ireland) Order 1989 (Application to Immigration Officers and Designated Customs Officials in Northern Ireland) and Consequential Amendments Regulations 2026 (S.I. 2026/117)](https://www.legislation.gov.uk/uksi/2026/117), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/1/2), [3-6](https://www.legislation.gov.uk/uksi/2026/117/regulation/3), [9(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/9/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/117/schedule/1)
+[^c-4ea9dcf48f5e24caad310c37b418ee5a]: Modification: [Art. 19](https://www.legislation.gov.uk/nisi/1989/1341/article/19) applied in part (with modifications) (10.2.2026) by [The Police and Criminal Evidence (Northern Ireland) Order 1989 (Application to Immigration Officers and Designated Customs Officials in Northern Ireland) and Consequential Amendments Regulations 2026 (S.I. 2026/117)](https://www.legislation.gov.uk/uksi/2026/117), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/1/2), [3-6](https://www.legislation.gov.uk/uksi/2026/117/regulation/3), [9(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/9/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/117/schedule/1)
 
-[^key-11e0bb306fe7a26c2f7dae2fb3b004e9]: Modification: [Art. 19](https://www.legislation.gov.uk/nisi/1989/1341/article/19) applied in part (with modifications) (10.2.2026) by [The Police and Criminal Evidence (Northern Ireland) Order 1989 (Application to Immigration Officers and Designated Customs Officials in Northern Ireland) and Consequential Amendments Regulations 2026 (S.I. 2026/117)](https://www.legislation.gov.uk/uksi/2026/117), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/1/2), [12-15](https://www.legislation.gov.uk/uksi/2026/117/regulation/12), [18(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/18/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2026/117/schedule/2)
+[^c-11e0bb306fe7a26c2f7dae2fb3b004e9]: Modification: [Art. 19](https://www.legislation.gov.uk/nisi/1989/1341/article/19) applied in part (with modifications) (10.2.2026) by [The Police and Criminal Evidence (Northern Ireland) Order 1989 (Application to Immigration Officers and Designated Customs Officials in Northern Ireland) and Consequential Amendments Regulations 2026 (S.I. 2026/117)](https://www.legislation.gov.uk/uksi/2026/117), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/1/2), [12-15](https://www.legislation.gov.uk/uksi/2026/117/regulation/12), [18(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/18/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2026/117/schedule/2)
 
 [^c22047171]: Modification: Art. 19(1)(a)(i) applied (with modifications) by [Police and Criminal Evidence (Application to Revenue and Customs) Order (Northern Ireland) 2007 (S.R. 2007/464)](https://www.legislation.gov.uk/nisr/2007/464), [Sch. 1](https://www.legislation.gov.uk/nisr/2007/464/schedule/1) (as amended (19.3.2010) by [Police and Criminal Evidence (Application to Revenue and Customs) Order (Northern Ireland) 2007 (Amendment) Order 2010 (S.R. 2010/42)](https://www.legislation.gov.uk/nisr/2010/42), [art. 2(3)(a)](https://www.legislation.gov.uk/nisr/2010/42/article/2/3/a))
 
 [^c17127501]: Textual amendment: [1981 NI 26](https://www.legislation.gov.uk/nisi/1981)
 
-[^key-6570275c3ee166f0a43092e6db3f9348]: Textual amendment: Art. 19(1)(a)(iii) inserted (1.6.2018) by [Justice Act (Northern Ireland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [s. 61(2)](https://www.legislation.gov.uk/nia/2016/21/section/61/2), [Sch. 2 para. 4](https://www.legislation.gov.uk/nia/2016/21/schedule/2/paragraph/4); [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(c)](https://www.legislation.gov.uk/nisr/2018/99/article/2/c)
+[^c-6570275c3ee166f0a43092e6db3f9348]: Textual amendment: Art. 19(1)(a)(iii) inserted (1.6.2018) by [Justice Act (Northern Ireland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [s. 61(2)](https://www.legislation.gov.uk/nia/2016/21/section/61/2), [Sch. 2 para. 4](https://www.legislation.gov.uk/nia/2016/21/schedule/2/paragraph/4); [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(c)](https://www.legislation.gov.uk/nisr/2018/99/article/2/c)
 
 [^c20410601]: Modification: Art. 19(1)(b) applied (with modifications) (1.12.2007) by [Police and Criminal Evidence (Application to Revenue and Customs) Order (Northern Ireland) 2007 (S.R. 2007/464)](https://www.legislation.gov.uk/nisr/2007/464), [arts. 3-15](https://www.legislation.gov.uk/nisr/2007/464/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2007/464/schedule/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2007/464/schedule/2)
 

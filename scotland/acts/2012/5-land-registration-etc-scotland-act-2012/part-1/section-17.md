@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17. Shared plots[^key-60433b1352e23826a71bcab0c1c2b589]
+## 17. Shared plots[^c-60433b1352e23826a71bcab0c1c2b589]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-60433b1352e23826a71bcab0c1c2b589]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2012/5/section/17) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-60433b1352e23826a71bcab0c1c2b589]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2012/5/section/17) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

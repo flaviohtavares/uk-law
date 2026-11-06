@@ -42,7 +42,7 @@ summary: ''
 - (a) had been used for the purposes of terrorism, or
 - (b) at the time of the offence, the person knew or had reasonable cause to suspect would or might be used for those purposes.
 
-(5A)[^key-b1010b86f60237074c67058fddfcbb60] Where a person is convicted of an offence under section 17A the court may order the forfeiture of the amount paid under, or purportedly under, the insurance contract.
+(5A)[^c-b1010b86f60237074c67058fddfcbb60] Where a person is convicted of an offence under section 17A the court may order the forfeiture of the amount paid under, or purportedly under, the insurance contract.
 
 (6) Where a person is convicted of an offence under section 18 the court may order the forfeiture of the money or other property to which the arrangement in question related.
 
@@ -54,4 +54,4 @@ summary: ''
 
 [^c20339351]: Textual amendment: S. 23 and preceding cross-heading substituted (18.6.2009) for s. 23 by Counter-[Terrorism Act 2008 (c. 28)](https://www.legislation.gov.uk/ukpga/2008/28), [ss. 34](https://www.legislation.gov.uk/ukpga/2008/28/section/34), [100(5)](https://www.legislation.gov.uk/ukpga/2008/28/section/100/5) (with [s. 101(2)](https://www.legislation.gov.uk/ukpga/2008/28/section/101/2)); [S.I. 2009/1256](https://www.legislation.gov.uk/uksi/2009/1256), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/1256/article/2/c)
 
-[^key-b1010b86f60237074c67058fddfcbb60]: Textual amendment: S. 23(5A) inserted (12.2.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [ss. 42(2)](https://www.legislation.gov.uk/ukpga/2015/6/section/42/2), [52(5)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/5)
+[^c-b1010b86f60237074c67058fddfcbb60]: Textual amendment: S. 23(5A) inserted (12.2.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [ss. 42(2)](https://www.legislation.gov.uk/ukpga/2015/6/section/42/2), [52(5)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/5)

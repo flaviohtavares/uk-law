@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 165. Care Quality Commission’s powers in relation to local authority failings[^key-3347b8bdba54be817634ff2339d5b057][^key-071ad60ac9f7ac861200103fd83a7ae8]
+## 165. Care Quality Commission’s powers in relation to local authority failings[^c-3347b8bdba54be817634ff2339d5b057][^c-071ad60ac9f7ac861200103fd83a7ae8]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3347b8bdba54be817634ff2339d5b057]: Commencement: S. 165 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-3347b8bdba54be817634ff2339d5b057]: Commencement: S. 165 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-071ad60ac9f7ac861200103fd83a7ae8]: Commencement: [S. 165](https://www.legislation.gov.uk/ukpga/2022/31/section/165) in force at 1.4.2023 by [S.I. 2023/371](https://www.legislation.gov.uk/uksi/2023/371), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2023/371/regulation/2/g)
+[^c-071ad60ac9f7ac861200103fd83a7ae8]: Commencement: [S. 165](https://www.legislation.gov.uk/ukpga/2022/31/section/165) in force at 1.4.2023 by [S.I. 2023/371](https://www.legislation.gov.uk/uksi/2023/371), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2023/371/regulation/2/g)

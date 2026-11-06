@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Meaning of “gaming machine”.[^key-0685556e21e61e6bff24edbbe4ea2142]
+## 25. Meaning of “gaming machine”.[^c-0685556e21e61e6bff24edbbe4ea2142]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0685556e21e61e6bff24edbbe4ea2142]: Textual amendment: Ss. 21-26 omitted (with effect in accordance with Sch. 24 para. 66(3) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 24 para. 53(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/24/paragraph/53/a) (with [Sch. 24 paras. 59-62](https://www.legislation.gov.uk/ukpga/2012/14/schedule/24/paragraph/59))
+[^c-0685556e21e61e6bff24edbbe4ea2142]: Textual amendment: Ss. 21-26 omitted (with effect in accordance with Sch. 24 para. 66(3) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 24 para. 53(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/24/paragraph/53/a) (with [Sch. 24 paras. 59-62](https://www.legislation.gov.uk/ukpga/2012/14/schedule/24/paragraph/59))

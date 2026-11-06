@@ -30,30 +30,30 @@ Third Parties (Rights Against Insurers) Act (Northern Ireland) 1930 (repealed)
 
 1930 Chapter 19
 
-[^key-a3e97d9a65105c465ac0056a4fa5babe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a3e97d9a65105c465ac0056a4fa5babe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Rights of third parties against insurers on bankruptcy, etc., of the insured.[^key-a3e97d9a65105c465ac0056a4fa5babe]
+## 1. Rights of third parties against insurers on bankruptcy, etc., of the insured.[^c-a3e97d9a65105c465ac0056a4fa5babe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Duty to give necessary information to third parties.[^key-a3e97d9a65105c465ac0056a4fa5babe]
+## 2. Duty to give necessary information to third parties.[^c-a3e97d9a65105c465ac0056a4fa5babe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Settlement between insurers and insured persons.[^key-a3e97d9a65105c465ac0056a4fa5babe]
+## 3. Settlement between insurers and insured persons.[^c-a3e97d9a65105c465ac0056a4fa5babe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3A. Application to limited liability partnerships[^key-a3e97d9a65105c465ac0056a4fa5babe]
+## 3A. Application to limited liability partnerships[^c-a3e97d9a65105c465ac0056a4fa5babe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Short title.[^key-a3e97d9a65105c465ac0056a4fa5babe]
+## 4. Short title.[^c-a3e97d9a65105c465ac0056a4fa5babe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a3e97d9a65105c465ac0056a4fa5babe]: Textual amendment: [Act](https://www.legislation.gov.uk/apni/1930/19) repealed (1.8.2016) by [Third Parties (Rights against Insurers) Act 2010 (c. 10)](https://www.legislation.gov.uk/ukpga/2010/10), [s. 21(2)](https://www.legislation.gov.uk/ukpga/2010/10/section/21/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2010/10/schedule/4) (with [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2010/10/schedule/3/paragraph/4)); [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
+[^c-a3e97d9a65105c465ac0056a4fa5babe]: Textual amendment: [Act](https://www.legislation.gov.uk/apni/1930/19) repealed (1.8.2016) by [Third Parties (Rights against Insurers) Act 2010 (c. 10)](https://www.legislation.gov.uk/ukpga/2010/10), [s. 21(2)](https://www.legislation.gov.uk/ukpga/2010/10/section/21/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2010/10/schedule/4) (with [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2010/10/schedule/3/paragraph/4)); [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)

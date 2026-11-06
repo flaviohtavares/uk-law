@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 700. Information[^key-4a1ddc9981a619c48ae82e7ce15bfaec]
+## 700. Information[^c-4a1ddc9981a619c48ae82e7ce15bfaec]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4a1ddc9981a619c48ae82e7ce15bfaec]: Textual amendment: S. 700 omitted (1.4.2010) by virtue of [The Finance Act 2009, Section 96 and Schedule 48 (Appointed Day, Savings and Consequential Amendments) Order 2009 (S.I. 2009/3054)](https://www.legislation.gov.uk/uksi/2009/3054), [art. 1](https://www.legislation.gov.uk/uksi/2009/3054/article/1), [Sch. para. 14](https://www.legislation.gov.uk/uksi/2009/3054/schedule/paragraph/14)
+[^c-4a1ddc9981a619c48ae82e7ce15bfaec]: Textual amendment: S. 700 omitted (1.4.2010) by virtue of [The Finance Act 2009, Section 96 and Schedule 48 (Appointed Day, Savings and Consequential Amendments) Order 2009 (S.I. 2009/3054)](https://www.legislation.gov.uk/uksi/2009/3054), [art. 1](https://www.legislation.gov.uk/uksi/2009/3054/article/1), [Sch. para. 14](https://www.legislation.gov.uk/uksi/2009/3054/schedule/paragraph/14)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 189. Supplies and importations to which this Part applies[^key-937b2550a605815f522f7442fcd914aa]
+## 189. Supplies and importations to which this Part applies[^c-937b2550a605815f522f7442fcd914aa]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ This Part applies to any supply of goods or services made in the United Kingdom 
 
 ## Annotations
 
-[^key-937b2550a605815f522f7442fcd914aa]: Commencement: Reg. 189 in force at 20.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2518/regulation/1)
+[^c-937b2550a605815f522f7442fcd914aa]: Commencement: Reg. 189 in force at 20.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2518/regulation/1)

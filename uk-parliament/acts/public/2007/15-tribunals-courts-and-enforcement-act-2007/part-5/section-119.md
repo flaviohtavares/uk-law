@@ -25,7 +25,7 @@ summary: ''
 (1) This section applies if these conditions are met—
 
 - (a) a debt repayment plan is arranged for a non-business debtor in accordance with an approved scheme;
-- (b) proceedings in the county court[^key-b43fdd8e39395b67394330a19b36435d] (other than bankruptcy proceedings) are pending against the debtor in respect of a qualifying debt;
+- (b) proceedings in the county court[^c-b43fdd8e39395b67394330a19b36435d] (other than bankruptcy proceedings) are pending against the debtor in respect of a qualifying debt;
 - (c) by virtue of section 116, the creditor under the qualifying debt is not entitled to continue the proceedings in respect of the debt;
 - (d) the county court receives notice of the debt repayment plan.
 
@@ -49,4 +49,4 @@ add the costs to the amount specified in the plan in respect of the debt.
 
 ## Annotations
 
-[^key-b43fdd8e39395b67394330a19b36435d]: Textual amendment: Words in [s. 119(1)(b)](https://www.legislation.gov.uk/ukpga/2007/15/section/119/1/b) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-b43fdd8e39395b67394330a19b36435d]: Textual amendment: Words in [s. 119(1)(b)](https://www.legislation.gov.uk/ukpga/2007/15/section/119/1/b) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)

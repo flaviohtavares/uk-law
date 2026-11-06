@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 128. Former relevant children: continuing functions[^key-73df6661bcfd7f111602b645e5edd7fc]
+## 128. Former relevant children: continuing functions[^c-73df6661bcfd7f111602b645e5edd7fc]
 
 *Extent: N.I.*
 
@@ -150,4 +150,4 @@ summary: ''
 
 ## Annotations
 
-[^key-73df6661bcfd7f111602b645e5edd7fc]: Commencement: S. 128 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-73df6661bcfd7f111602b645e5edd7fc]: Commencement: S. 128 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

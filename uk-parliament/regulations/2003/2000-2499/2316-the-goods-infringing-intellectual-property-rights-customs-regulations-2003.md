@@ -31,7 +31,7 @@ summary: ''
 
 CUSTOMS AND EXCISE
 
-The Goods Infringing Intellectual Property Rights (Customs) Regulations 2003 (revoked)[^key-3a38e542aaf4a220b14cb2b2d9db3332]
+The Goods Infringing Intellectual Property Rights (Customs) Regulations 2003 (revoked)[^c-3a38e542aaf4a220b14cb2b2d9db3332]
 
 Made
 
@@ -45,24 +45,24 @@ Coming into force
 
 1st October 2003
 
-[^key-3a38e542aaf4a220b14cb2b2d9db3332]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3a38e542aaf4a220b14cb2b2d9db3332]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-## 1.[^key-3a38e542aaf4a220b14cb2b2d9db3332]
+## 1.[^c-3a38e542aaf4a220b14cb2b2d9db3332]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2.[^key-3a38e542aaf4a220b14cb2b2d9db3332]
+## 2.[^c-3a38e542aaf4a220b14cb2b2d9db3332]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3a38e542aaf4a220b14cb2b2d9db3332]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3a38e542aaf4a220b14cb2b2d9db3332]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-3a38e542aaf4a220b14cb2b2d9db3332]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3a38e542aaf4a220b14cb2b2d9db3332]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3a38e542aaf4a220b14cb2b2d9db3332]: Textual amendment: Regulations revoked (1.7.2004) by [The Goods Infringing Intellectual Property Rights (Customs) Regulations 2004 (S.I. 2004/1473)](https://www.legislation.gov.uk/uksi/2004/1473), [reg. 1](https://www.legislation.gov.uk/uksi/2004/1473/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2004/1473/schedule)
+[^c-3a38e542aaf4a220b14cb2b2d9db3332]: Textual amendment: Regulations revoked (1.7.2004) by [The Goods Infringing Intellectual Property Rights (Customs) Regulations 2004 (S.I. 2004/1473)](https://www.legislation.gov.uk/uksi/2004/1473), [reg. 1](https://www.legislation.gov.uk/uksi/2004/1473/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2004/1473/schedule)

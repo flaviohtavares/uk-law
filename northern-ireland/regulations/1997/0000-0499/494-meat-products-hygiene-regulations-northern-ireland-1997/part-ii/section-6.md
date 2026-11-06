@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 6. Revocation of approvals[^key-1ac62f222b6bdfa64bac2d2fa1777f96]
+## 6. Revocation of approvals[^c-1ac62f222b6bdfa64bac2d2fa1777f96]
 
 *Extent: N.I.*
 
@@ -43,4 +43,4 @@ and under either such an order, meat products may no longer be handled or stored
 
 ## Annotations
 
-[^key-1ac62f222b6bdfa64bac2d2fa1777f96]: Commencement: Reg. 6 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/494/regulation/1)
+[^c-1ac62f222b6bdfa64bac2d2fa1777f96]: Commencement: Reg. 6 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/494/regulation/1)

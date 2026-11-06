@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 117. Suspension and recovery of pensions paid under this Part[^key-e8a73b967e1a93c00839fc1597819f59]
+## 117. Suspension and recovery of pensions paid under this Part[^c-e8a73b967e1a93c00839fc1597819f59]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e8a73b967e1a93c00839fc1597819f59]: Commencement: [Reg. 117](https://www.legislation.gov.uk/nisr/2014/290/regulation/117) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-e8a73b967e1a93c00839fc1597819f59]: Commencement: [Reg. 117](https://www.legislation.gov.uk/nisr/2014/290/regulation/117) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

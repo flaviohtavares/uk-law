@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 57. Democracy and Boundary Commission Cymru functions relating to remuneration[^key-55332eb5dd5a4fb8fd04e59ab0128c79][^key-449416df1b509d04b30aa28a95ec950c]
+## 57. Democracy and Boundary Commission Cymru functions relating to remuneration[^c-55332eb5dd5a4fb8fd04e59ab0128c79][^c-449416df1b509d04b30aa28a95ec950c]
 
 *Extent: E+W*
 
@@ -361,6 +361,6 @@ summary: ''
 
 ## Annotations
 
-[^key-55332eb5dd5a4fb8fd04e59ab0128c79]: Commencement: S. 57 not in force at Royal Assent, see [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4)
+[^c-55332eb5dd5a4fb8fd04e59ab0128c79]: Commencement: S. 57 not in force at Royal Assent, see [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4)
 
-[^key-449416df1b509d04b30aa28a95ec950c]: Commencement: [S. 57](https://www.legislation.gov.uk/asc/2024/5/section/57) in force at 1.4.2025 by [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/1337/article/3/c)
+[^c-449416df1b509d04b30aa28a95ec950c]: Commencement: [S. 57](https://www.legislation.gov.uk/asc/2024/5/section/57) in force at 1.4.2025 by [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/1337/article/3/c)

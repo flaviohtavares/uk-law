@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 75. Variation of council tax for unoccupied dwellings[^key-91faf677dff219b8ff3dd8ca9306a4d8][^key-cf5cbcdad5f025424753ec5b0facca12]
+## 75. Variation of council tax for unoccupied dwellings[^c-91faf677dff219b8ff3dd8ca9306a4d8][^c-cf5cbcdad5f025424753ec5b0facca12]
 
 *Extent: S*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-91faf677dff219b8ff3dd8ca9306a4d8]: Commencement: S. 75 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
+[^c-91faf677dff219b8ff3dd8ca9306a4d8]: Commencement: S. 75 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
 
-[^key-cf5cbcdad5f025424753ec5b0facca12]: Commencement: [S. 75](https://www.legislation.gov.uk/asp/2025/13/section/75) in force at 12.1.2026 by [S.S.I. 2025/408](https://www.legislation.gov.uk/ssi/2025/408), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2025/408/regulation/2/a)
+[^c-cf5cbcdad5f025424753ec5b0facca12]: Commencement: [S. 75](https://www.legislation.gov.uk/asp/2025/13/section/75) in force at 12.1.2026 by [S.S.I. 2025/408](https://www.legislation.gov.uk/ssi/2025/408), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2025/408/regulation/2/a)

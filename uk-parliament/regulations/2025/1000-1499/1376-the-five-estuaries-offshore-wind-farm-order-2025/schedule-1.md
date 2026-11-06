@@ -22,7 +22,7 @@ summary: ''
 
 Article 2
 
-### PART 1 — Authorised development[^key-aa79c40029a3fc2f211b0f3c912e35ee]
+### PART 1 — Authorised development[^c-aa79c40029a3fc2f211b0f3c912e35ee]
 
 A nationally significant infrastructure project as defined in sections 14 (nationally significant infrastructure projects: general) and 15 (generating stations) of the 2008 Act which is located in the Southern North Sea approximately 37 kilometres from the coast of Suffolk at its nearest point, comprising—
 
@@ -232,7 +232,7 @@ And in connection with Work Nos. 4 to 18B to the extent that they do not otherwi
 - (l) works of restoration; and
 - (m) fencing or other means of enclosure.
 
-### PART 2 — Ancillary works[^key-d9f52f9041c77125b1f9f3ca208a8285]
+### PART 2 — Ancillary works[^c-d9f52f9041c77125b1f9f3ca208a8285]
 
 Works within the Order limits which fall within the scope of the work assessed by the environmental statement comprising—
 
@@ -243,6 +243,6 @@ Works within the Order limits which fall within the scope of the work assessed b
 
 ## Annotations
 
-[^key-aa79c40029a3fc2f211b0f3c912e35ee]: Commencement: Sch. 1 Pt. 1 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
+[^c-aa79c40029a3fc2f211b0f3c912e35ee]: Commencement: Sch. 1 Pt. 1 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
 
-[^key-d9f52f9041c77125b1f9f3ca208a8285]: Commencement: Sch. 1 Pt. 2 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
+[^c-d9f52f9041c77125b1f9f3ca208a8285]: Commencement: Sch. 1 Pt. 2 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)

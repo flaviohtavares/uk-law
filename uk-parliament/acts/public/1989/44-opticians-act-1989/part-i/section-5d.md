@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5D. The Hearings Panel[^key-723605d452cd821b35f1709a1e4555f1]
+## 5D. The Hearings Panel[^c-723605d452cd821b35f1709a1e4555f1]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-723605d452cd821b35f1709a1e4555f1]: Textual amendment: S. 5D inserted (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 5](https://www.legislation.gov.uk/uksi/2005/848/article/5) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))
+[^c-723605d452cd821b35f1709a1e4555f1]: Textual amendment: S. 5D inserted (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 5](https://www.legislation.gov.uk/uksi/2005/848/article/5) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))

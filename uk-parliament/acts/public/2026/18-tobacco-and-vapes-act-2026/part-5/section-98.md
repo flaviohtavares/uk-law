@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. Non-compliant images[^key-c99a762eac9ce913097e25f4225d9372]
+## 98. Non-compliant images[^c-c99a762eac9ce913097e25f4225d9372]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c99a762eac9ce913097e25f4225d9372]: Commencement: S. 98 in force at Royal Assent, see [s. 176(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/1)
+[^c-c99a762eac9ce913097e25f4225d9372]: Commencement: S. 98 in force at Royal Assent, see [s. 176(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/1)

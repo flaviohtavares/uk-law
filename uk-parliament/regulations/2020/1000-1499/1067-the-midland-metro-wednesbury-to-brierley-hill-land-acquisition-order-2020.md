@@ -60,11 +60,11 @@ The Secretary of State, in exercise of the powers conferred by sections 1 and 5 
 
 ## PART 1 — PRELIMINARY
 
-### 1. Citation ...[^key-06307caaeb9fe468c2ec119b25daac29][^key-bf007f55b35123ee18f18444908f1942]
+### 1. Citation ...[^c-06307caaeb9fe468c2ec119b25daac29][^c-bf007f55b35123ee18f18444908f1942]
 
 This Order may be cited as the Midland Metro (Wednesbury to Brierley Hill Land Acquisition) Order 2020.
 
-### 2. Interpretation[^key-f9581c81be0aa0794560f23caf54a225]
+### 2. Interpretation[^c-f9581c81be0aa0794560f23caf54a225]
 
 (1) In this Order—
 
@@ -79,7 +79,7 @@ This Order may be cited as the Midland Metro (Wednesbury to Brierley Hill Land A
 - “**the book of reference**” means the book of reference certified by the Secretary of State as the book of reference for the purposes of this Order;
 - “**building**” includes any structure or erection or any part of a building, structure or erection;
 - “**the Canal and River Trust**” means the private company limited by guarantee of that name (company number 07807276) whose registered office is at First Floor, North Station House, 500 Elder Gate, Milton Keynes, MK9 1BB;
-- “electronic transmission” means a communication transmitted—[^key-79e06f8ac34b62a666b980be3c2fe3d0]
+- “electronic transmission” means a communication transmitted—[^c-79e06f8ac34b62a666b980be3c2fe3d0]
   - (a) by means of an electronic communications network; or
   - (b) by other means but while in electronic form,
 
@@ -104,13 +104,13 @@ This Order may be cited as the Midland Metro (Wednesbury to Brierley Hill Land A
 
 ### Powers of acquisition
 
-#### 3. Power to acquire land[^key-924f49c5f6db0bbde645622abf2f680a]
+#### 3. Power to acquire land[^c-924f49c5f6db0bbde645622abf2f680a]
 
-(1) The Executive may acquire compulsorily so much of the land specified in columns (1) and (2)[^key-b89f8caca1499aadc85919707be0392a] of Part 1 (acquisition of land) of Schedule 1 (acquisition of land and rights) (being land shown on the land plans and described in the book of reference) as may be required for the purposes specified in relation to that land in column (3) of that table and may use any land so acquired for those purposes or for any other purposes that are ancillary to its tramway undertaking.
+(1) The Executive may acquire compulsorily so much of the land specified in columns (1) and (2)[^c-b89f8caca1499aadc85919707be0392a] of Part 1 (acquisition of land) of Schedule 1 (acquisition of land and rights) (being land shown on the land plans and described in the book of reference) as may be required for the purposes specified in relation to that land in column (3) of that table and may use any land so acquired for those purposes or for any other purposes that are ancillary to its tramway undertaking.
 
 (2) The powers conferred by paragraph (1) in relation to the land numbered 339 on the land plans do not extend to any part of that land below a level of 2.590 metres above the water level of the Dudley Canal No 1.
 
-#### 4. Application of Part 1 of the 1965 Act[^key-8a59453c74dcb74daf11bbbc07fc8148]
+#### 4. Application of Part 1 of the 1965 Act[^c-8a59453c74dcb74daf11bbbc07fc8148]
 
 (1) Part 1 (compulsory purchase under the Acquisition of Land Act 1946) of the 1965 Act, in so far as not modified by or inconsistent with the provisions of this Order, applies to the acquisition of land under this Order—
 
@@ -143,7 +143,7 @@ This Order may be cited as the Midland Metro (Wednesbury to Brierley Hill Land A
   >
   > In this Schedule, references to entering and taking possession of land do not include doing so under article 7 (temporary use of land for construction of works) and article 8 (temporary use of land for maintenance of works) of the Midland Metro (Wednesbury to Brierley Hill Land Acquisition) Order 2020.
 
-#### 5. Application of the 1981 Act[^key-6468ad9696b19862086af81543f5b09a]
+#### 5. Application of the 1981 Act[^c-6468ad9696b19862086af81543f5b09a]
 
 (1) The 1981 Act applies as if this Order were a compulsory purchase order.
 
@@ -163,12 +163,12 @@ This Order may be cited as the Midland Metro (Wednesbury to Brierley Hill Land A
 
 (9) References to the 1965 Act are construed as references to that Act as applied to the acquisition of land by article 4 (application of Part 1 of the 1965 Act).
 
-#### 6. Power to acquire new rights[^key-47b6acb9de14824f904b9c8cda7e2ac8]
+#### 6. Power to acquire new rights[^c-47b6acb9de14824f904b9c8cda7e2ac8]
 
 (1) The Executive may acquire compulsorily such easements or other rights over any land—
 
 - (a) referred to in article 3 (power to acquire land) as may be required for any purpose for which that land may be acquired under that provision, by creating them as well as by acquiring easements or other rights already in existence; or
-- (b) within the Order limits specified in columns (1) and (2)[^key-67cc00bdcb71126ad09540472ce66e74] of Part 2 (acquisition of rights only) of Schedule 1 (acquisition of land and rights) as may be required for the purposes specified in relation to that land in column (3) of that Part of that Schedule.
+- (b) within the Order limits specified in columns (1) and (2)[^c-67cc00bdcb71126ad09540472ce66e74] of Part 2 (acquisition of rights only) of Schedule 1 (acquisition of land and rights) as may be required for the purposes specified in relation to that land in column (3) of that Part of that Schedule.
 
 (2) Subject to Schedule 2A (counter-notice requiring purchase of land) to the 1965 Act (as substituted by paragraph 5(8) of Schedule 2 (modification of compensation and compulsory purchasing enactments for creation of new rights) where the Executive acquires a right over land under paragraph (1) the Executive is not required to acquire a greater interest in the land.
 
@@ -178,12 +178,12 @@ This Order may be cited as the Midland Metro (Wednesbury to Brierley Hill Land A
 
 ### Temporary possession of land
 
-#### 7. Temporary use of land for construction of works[^key-0afa5695010147279f9e0406458dc1ed]
+#### 7. Temporary use of land for construction of works[^c-0afa5695010147279f9e0406458dc1ed]
 
 (1) The Executive may, in connection with the carrying out of the authorised works—
 
 - (a) enter upon and take temporary possession of—
-  - (i) any of the land specified in columns (1) and (2)[^key-c165f808a243c7aa6fd5d7a2d089da81] of Schedule 3 (land of which temporary possession may be taken) for the purpose specified in relation to that land in column (3) of that Schedule, and
+  - (i) any of the land specified in columns (1) and (2)[^c-c165f808a243c7aa6fd5d7a2d089da81] of Schedule 3 (land of which temporary possession may be taken) for the purpose specified in relation to that land in column (3) of that Schedule, and
   - (ii) any of the relevant land in respect of which no notice of entry has been served under section 11 [^c24293521] (powers of entry) of the 1965 Act (other than in connection with the acquisition of rights only) and no declaration has been made under section 4 [^c24293531] (execution of declaration) of the 1981 Act;
 - (b) remove any buildings and vegetation from that land;
 - (c) construct temporary works (including the provision of means of access) and buildings on the land; and
@@ -193,7 +193,7 @@ This Order may be cited as the Midland Metro (Wednesbury to Brierley Hill Land A
 
 (3) The Executive may not, without the agreement of the owners of the land, remain in possession of any land under this article—
 
-- (a) in the case of any land specified in columns (1) and (2)[^key-f513c1f3bd0d34c403ebad8b93ef6541] of Schedule 3 (land of which temporary possession may be taken), after the end of the period of one year beginning with the date of completion of the works specified in relation to that land in column (3) of Schedule 3; or
+- (a) in the case of any land specified in columns (1) and (2)[^c-f513c1f3bd0d34c403ebad8b93ef6541] of Schedule 3 (land of which temporary possession may be taken), after the end of the period of one year beginning with the date of completion of the works specified in relation to that land in column (3) of Schedule 3; or
 - (b) in the case of the relevant land, after the end of the period of one year beginning with the date of completion of the works for which temporary possession of the land was taken unless the Executive has, before the end of that period, served a notice of entry under section 11 of the 1965 Act or made a declaration under section 4 of the Compulsory Purchase (Vesting Declarations) Act 1981.
 
 (4) Before giving up possession of land of which temporary possession has been taken under this article, the Executive must remove all temporary works and restore the land to the reasonable satisfaction of the owners of the land; but the Executive is not required to—
@@ -218,9 +218,9 @@ This Order may be cited as the Midland Metro (Wednesbury to Brierley Hill Land A
 - (a) any dwelling house; or
 - (b) any building (other than a dwelling house) if it is for the time being occupied.
 
-(12) In this article “**the relevant land**” means any land within the Order limits other than the land specified in columns (1) and (2)[^key-519af47bafc4aa9fa0f16b47c81a1a2b] of Part 2 of Schedule 1 (acquisition of land) or in column (2) of Schedule 3 to this Order.
+(12) In this article “**the relevant land**” means any land within the Order limits other than the land specified in columns (1) and (2)[^c-519af47bafc4aa9fa0f16b47c81a1a2b] of Part 2 of Schedule 1 (acquisition of land) or in column (2) of Schedule 3 to this Order.
 
-#### 8. Temporary use of land for maintenance of works[^key-544e5f2eb2018a2ab437938ddfea7158]
+#### 8. Temporary use of land for maintenance of works[^c-544e5f2eb2018a2ab437938ddfea7158]
 
 (1) Subject to paragraph (2), at any time during the maintenance period relating to the authorised works, the Executive may—
 
@@ -231,7 +231,7 @@ This Order may be cited as the Midland Metro (Wednesbury to Brierley Hill Land A
 
 - (a) any house or garden belonging to a house;
 - (b) any building (other than a house) if it is for the time being occupied; or
-- (c) any land specified in columns (1) and (2)[^key-f31d523f85403f3a99488256ccbb849b] of Part 2 (acquisition of rights only) of Schedule 1 (acquisition of land) (but without affecting the power to acquire rights under article 6(2) (power to acquire new rights) in relation to that land).
+- (c) any land specified in columns (1) and (2)[^c-f31d523f85403f3a99488256ccbb849b] of Part 2 (acquisition of rights only) of Schedule 1 (acquisition of land) (but without affecting the power to acquire rights under article 6(2) (power to acquire new rights) in relation to that land).
 
 (3) Not less than 28 days before entering upon and taking temporary possession of land under this article the Executive must serve notice of the intended entry on the owners and occupiers of the land.
 
@@ -256,7 +256,7 @@ This Order may be cited as the Midland Metro (Wednesbury to Brierley Hill Land A
 
 ### Compensation
 
-#### 9. Disregard of certain interests and improvements[^key-55024a7bac973b49602892883a06550d]
+#### 9. Disregard of certain interests and improvements[^c-55024a7bac973b49602892883a06550d]
 
 (1) —In assessing the compensation payable to any person on the acquisition from that person of any land under this Order, the tribunal must not take into account—
 
@@ -269,7 +269,7 @@ if the tribunal is satisfied that the creation of the interest, the erection of 
 
 ### Supplementary
 
-#### 10. Extinction or suspension of rights of way[^key-ab45c7af6fbf8e9162af40aeae5e6b58]
+#### 10. Extinction or suspension of rights of way[^c-ab45c7af6fbf8e9162af40aeae5e6b58]
 
 (1) Subject to the provisions of this article, all private rights of way over land subject to compulsory acquisition under this Order are extinguished—
 
@@ -290,7 +290,7 @@ whichever is sooner.
 
 (7) Paragraph (2) has effect subject to any notice given by the Executive at any time before or after possession is taken that that paragraph is not to apply to any right of way specified in the notice or is only to apply to the right of way to the extent specified in the notice.
 
-#### 11. Time limit for exercise of powers of acquisition[^key-b5084ff5322dedabc42c56ab34dd24c3]
+#### 11. Time limit for exercise of powers of acquisition[^c-b5084ff5322dedabc42c56ab34dd24c3]
 
 (1) After the end of the period of 5 years beginning with the day on which this Order comes into force—
 
@@ -301,11 +301,11 @@ whichever is sooner.
 
 ## PART 3 — MISCELLANEOUS AND GENERAL
 
-### 12. Statutory undertakers, etc.[^key-96536f18aa9c379ccf89c221950fcc0a]
+### 12. Statutory undertakers, etc.[^c-96536f18aa9c379ccf89c221950fcc0a]
 
 Schedule 4 (provisions relating to statutory undertakers, etc.) has effect.
 
-### 13. Minerals[^key-a7d0b720e5074c09684859f39b5cd337]
+### 13. Minerals[^c-a7d0b720e5074c09684859f39b5cd337]
 
 (1) Parts 2 and 3 of Schedule 2 (exception of minerals from compulsory purchase and regulation of the working of mines or minerals underlying an authorised undertaking) to the Acquisition of Land Act 1981 [^c24293591] have effect in relation to land to which article 3 (power to acquire land) applies as if it were comprised in a compulsory purchase order providing for the incorporation with that order of those Parts of that Schedule.
 
@@ -314,11 +314,11 @@ Schedule 4 (provisions relating to statutory undertakers, etc.) has effect.
 - (a) references to the acquiring authority are to be construed as references to the Executive; and
 - (b) references to the undertaking are to be construed as references to the undertaking which the Executive is authorised by this Order to carry on.
 
-### 14. Certification of plans, etc.[^key-4295aa20b37a77f8da6b37b43c0cd9f5]
+### 14. Certification of plans, etc.[^c-4295aa20b37a77f8da6b37b43c0cd9f5]
 
 The Executive must, as soon as practicable after the making of this Order, submit copies of the book of reference and the land plans to the Secretary of State for certification that they are, respectively, true copies of the book of reference and the land plans referred to in this Order; and a document so certified is admissible in any proceedings as evidence of the contents of the document of which it is a copy.
 
-### 15. Service of notices[^key-39d2ed43b11ba7c0bd1a450963bd910e]
+### 15. Service of notices[^c-39d2ed43b11ba7c0bd1a450963bd910e]
 
 (1) A notice or other document required or authorised to be served for the purposes of this Order may be served—
 
@@ -350,11 +350,11 @@ The Executive must, as soon as practicable after the making of this Order, submi
 
 (9) This article does not exclude the employment of any method of service not expressly provided for by it.
 
-### 16. No double recovery[^key-616df78f6a0a2c7865628e6716a44b4d]
+### 16. No double recovery[^c-616df78f6a0a2c7865628e6716a44b4d]
 
 Compensation is not payable in respect of the same matter both under this Order and under any other enactment, any contract or any rule of law.
 
-### 17. Protection for Network Rail[^key-e48fdf54295b2f67636e8c494d43e2e9]
+### 17. Protection for Network Rail[^c-e48fdf54295b2f67636e8c494d43e2e9]
 
 (1) The Executive must not exercise the powers conferred by section 11(3) (powers of entry) of the 1965 Act in respect of any railway property unless the exercise of such powers is with the consent of Network Rail.
 
@@ -372,7 +372,7 @@ Compensation is not payable in respect of the same matter both under this Order 
 
 (6) In this article, “**railway property**” means any railway belonging to Network Rail and any station, land, works, apparatus and equipment belonging to Network Rail or connected with them and includes any land easement or other property interest held or used by Network Rail for the purposes of such railway or works, apparatus or equipment.
 
-### 18. Protection for Canal and River Trust[^key-04dc12698b3b384fab382df013900e15]
+### 18. Protection for Canal and River Trust[^c-04dc12698b3b384fab382df013900e15]
 
 (1) The Executive must not exercise the powers conferred by section 11(3) (powers of entry) of the 1965 Act in respect of any waterway of the Canal and River Trust unless the exercise of such powers is with the consent of the Canal and River Trust.
 
@@ -384,7 +384,7 @@ Compensation is not payable in respect of the same matter both under this Order 
 
 (5) In this article, “**waterway**” means any canal or inland navigation belonging to or under the management or control of the Canal and River Trust, and includes any works, land or premises belonging to the Canal and River Trust, or under its management or control, and held or used by the Canal and River Trust in connection with any such canal or inland navigation.
 
-### 19. Existing agreements[^key-1d16139b27ca8d13de0184534eba202d]
+### 19. Existing agreements[^c-1d16139b27ca8d13de0184534eba202d]
 
 The agreement made between the West Midlands Passenger Transport Executive and Aquila Networks PLC and dated 5th March 2004 applies in relation to the exercise of the powers conferred by this Order as it applies to the exercise of the powers of the 2005 Order.
 
@@ -402,7 +402,7 @@ SCHEDULES
 
 Articles 3 and 6
 
-### PART 1 — ACQUISITION OF LAND[^key-9d93d8996b42eb3362502667e0193c62]
+### PART 1 — ACQUISITION OF LAND[^c-9d93d8996b42eb3362502667e0193c62]
 
 <table>
 <tbody>
@@ -430,9 +430,9 @@ Articles 3 and 6
 </tbody>
 </table>
 
-[^key-492d1eea8e8189497513cfadb35d9180][^key-03d4c3af5efe66b4ae0366228b0a86d8]
+[^c-492d1eea8e8189497513cfadb35d9180][^c-03d4c3af5efe66b4ae0366228b0a86d8]
 
-### PART 2 — ACQUISITION OF RIGHTS ONLY[^key-cdefa65f0dfd402f18c419a6f3b4e707]
+### PART 2 — ACQUISITION OF RIGHTS ONLY[^c-cdefa65f0dfd402f18c419a6f3b4e707]
 
 | *(1)**Area* | *(2)**Number of land shown on the deposited plans* | *(3)**Purpose for which rights may be acquired* |
 | --- | --- | --- |
@@ -440,7 +440,7 @@ Articles 3 and 6
 |  |  |  |
 | Metropolitan Borough of Dudley | 225 to 230, 237, 260, 260a, 268 to 271, 274, 276, 278, 280, 281, 327 and 337 | Access for construction and maintenance of authorised tramway and related works |
 |  |  |  |
-|  | 247, 251, 252,[^key-b6cbd422620d08e9f4c161cbb82d2427] 254a, 254d, 254e, 254f, [^key-88cbc8dd48507b2dbbd2bfc2d9528d62]... 257, 259 and 261 | Access for construction and maintenance of authorised tramway and related works including working space |
+|  | 247, 251, 252,[^c-b6cbd422620d08e9f4c161cbb82d2427] 254a, 254d, 254e, 254f, [^c-88cbc8dd48507b2dbbd2bfc2d9528d62]... 257, 259 and 261 | Access for construction and maintenance of authorised tramway and related works including working space |
 
 ## SCHEDULE 2 — MODIFICATION OF COMPENSATION AND COMPULSORY PURCHASING ENACTMENTS FOR CREATION OF NEW RIGHTS
 
@@ -448,9 +448,9 @@ Article 6
 
 ### Compensation enactments
 
-**1.**[^key-3d484d9fd83e8e2019bac33463a40dcf] The enactments for the time being in force with respect to compensation for the compulsory purchase of land apply, with the necessary modifications as respects compensation, in the case of a compulsory acquisition under this Order of a right by the creation of a new right, as they apply as respects compensation on the compulsory purchase of land and interests in land.
+**1.**[^c-3d484d9fd83e8e2019bac33463a40dcf] The enactments for the time being in force with respect to compensation for the compulsory purchase of land apply, with the necessary modifications as respects compensation, in the case of a compulsory acquisition under this Order of a right by the creation of a new right, as they apply as respects compensation on the compulsory purchase of land and interests in land.
 
-**2.**[^key-b3a57b1b0193ea3ee4d3c3238806e183] (1) Without limitation on the scope of paragraph 1, the 1961 Act has effect subject to the following modification set out in sub-paragraph (2).
+**2.**[^c-b3a57b1b0193ea3ee4d3c3238806e183] (1) Without limitation on the scope of paragraph 1, the 1961 Act has effect subject to the following modification set out in sub-paragraph (2).
 
 (2) For section 5A (5A) (relevant valuation date) of the 1961 Act substitute—
 
@@ -462,7 +462,7 @@ Article 6
 >
 > the authority is deemed for the purposes of subsection (3)(a) to have entered on that land when it entered on that land for the purpose of exercising that right.
 
-**3.**[^key-36d18e0b9f031d9c19d164dc43129b4f] (1) Without limitation on the scope of paragraph 1, the Land Compensation Act 1973 [^c24293611] has effect subject to the modifications set out in sub-paragraph (2).
+**3.**[^c-36d18e0b9f031d9c19d164dc43129b4f] (1) Without limitation on the scope of paragraph 1, the Land Compensation Act 1973 [^c24293611] has effect subject to the modifications set out in sub-paragraph (2).
 
 (2) In section 44(1) (compensation for injurious affection), as it applies to compensation for injurious affection under section 7 (measure of compensation in case of severance) of the 1965 Act as substituted by paragraph 5(3)—
 
@@ -471,12 +471,12 @@ Article 6
 
 #### Application of Part 1 of the 1965 Act
 
-**4.**[^key-4fba006326ffaf26a583458dc4503c5d] Part 1 (compulsory purchase under Acquisition of Land Act 1946) of the 1965 Act, as applied by article 4 (application of Part 1 of the 1965 Act) to the acquisition of land under article 3 (power to acquire land), applies to the compulsory acquisition of new rights under article 6(1) (power to acquire new rights)—
+**4.**[^c-4fba006326ffaf26a583458dc4503c5d] Part 1 (compulsory purchase under Acquisition of Land Act 1946) of the 1965 Act, as applied by article 4 (application of Part 1 of the 1965 Act) to the acquisition of land under article 3 (power to acquire land), applies to the compulsory acquisition of new rights under article 6(1) (power to acquire new rights)—
 
 - (a) with the modifications specified in paragraph 5, and
 - (b) with such other modifications as may be necessary.
 
-**5.**[^key-01bf500b8c5caf22bd2814e70d303817] (1) The modifications referred to in paragraph 4(a) are as follows.
+**5.**[^c-01bf500b8c5caf22bd2814e70d303817] (1) The modifications referred to in paragraph 4(a) are as follows.
 
 (2) References in the 1965 Act to land are, in appropriate contexts, to be read (according to the requirements of the particular context) as referring to, or as including references to—
 
@@ -559,7 +559,7 @@ are modified so as to secure that, as against persons with interests in land whi
 >
 > (3) Any dispute as to the compensation is to be determined by the Upper Tribunal.
 
-## SCHEDULE 3 — LAND OF WHICH TEMPORARY POSSESSION MAY BE TAKEN[^key-a9c11c22dbf825943837e07795c4fea2]
+## SCHEDULE 3 — LAND OF WHICH TEMPORARY POSSESSION MAY BE TAKEN[^c-a9c11c22dbf825943837e07795c4fea2]
 
 Article 7
 
@@ -569,10 +569,10 @@ Article 7
 |  |  |  |
 |  | 22, 23, 24, 25 and 27 | Construction access and working space, temporary diversion of public footpath and possible right of way on foot |
 |  |  |  |
-|  | 36, [^key-7f2f63e9d83aa0a7e984d928194b3330]... 40, 41, 43, 44 to 51, 60, 73, 75, 76, 78, 79, 84 to 86, 88,[^key-222bb01d0bc2d4a34ff855441e31f374] 94, 101, 102, 106, 120, 122 to 125, 129, 135, 136, 138 and 139 | Working site, construction access and working space |
+|  | 36, [^c-7f2f63e9d83aa0a7e984d928194b3330]... 40, 41, 43, 44 to 51, 60, 73, 75, 76, 78, 79, 84 to 86, 88,[^c-222bb01d0bc2d4a34ff855441e31f374] 94, 101, 102, 106, 120, 122 to 125, 129, 135, 136, 138 and 139 | Working site, construction access and working space |
 |  |  |  |
 |  | 137 | Construction access and works including works to existing footpath |
-| Metropolitan Borough of Dudley | 149, 170, 173, 175, 182, 197, 199, 200, 254c, 256, 258, 268 to 271, 274, 276, 278, 280, 281, 292, 295, 296, [^key-757794934e8add8080d62c67f7ce909a]... 316, 329, 338 and 347 | Working site, construction access and working space |
+| Metropolitan Borough of Dudley | 149, 170, 173, 175, 182, 197, 199, 200, 254c, 256, 258, 268 to 271, 274, 276, 278, 280, 281, 292, 295, 296, [^c-757794934e8add8080d62c67f7ce909a]... 316, 329, 338 and 347 | Working site, construction access and working space |
 |  |  |  |
 |  | 165 and 169 | Landscaping |
 |  |  |  |
@@ -586,26 +586,26 @@ Article 12
 
 ### Apparatus of statutory undertakers, etc., on land acquired
 
-**1.**[^key-2e3c86fa4b37afc71a3df81d436b055d] Subject to the following provisions of this Schedule, sections 271 to 274 [^c24293681] (extinguishment of rights of statutory undertakers etc.) of the 1990 Act apply in relation to any land which has been acquired under this Order, or which is held by the Executive and is appropriated or used (or about to be used) by it for the purposes of the authorised works or for purposes connected with the authorised works; and all such other provisions of that Act as apply for the purposes of those provisions (including sections 275 to 278, which contain provisions consequential on the extinguishment of any rights under sections 271 and 272, and sections 279(2) to (4), 280 and 282 [^c24293691] which provide for the payment of compensation) have effect accordingly.
+**1.**[^c-2e3c86fa4b37afc71a3df81d436b055d] Subject to the following provisions of this Schedule, sections 271 to 274 [^c24293681] (extinguishment of rights of statutory undertakers etc.) of the 1990 Act apply in relation to any land which has been acquired under this Order, or which is held by the Executive and is appropriated or used (or about to be used) by it for the purposes of the authorised works or for purposes connected with the authorised works; and all such other provisions of that Act as apply for the purposes of those provisions (including sections 275 to 278, which contain provisions consequential on the extinguishment of any rights under sections 271 and 272, and sections 279(2) to (4), 280 and 282 [^c24293691] which provide for the payment of compensation) have effect accordingly.
 
-**2.**[^key-2f072be2dd9e2198de3311f62f135431] In the provisions of the 1990 Act, as applied by paragraph 1—
+**2.**[^c-2f072be2dd9e2198de3311f62f135431] In the provisions of the 1990 Act, as applied by paragraph 1—
 
 - (a) references to the appropriate Minister are references to the Secretary of State;
 - (b) references to the purpose of carrying out any development with a view to which land was acquired or appropriated are references to the purpose of carrying out authorised works; and
 - (c) references to land acquired or appropriated as mentioned in section 271(1) of the 1990 Act are references to land acquired, appropriated or used as mentioned in paragraph (1).
 
-**3.**[^key-70aaa64b2a90cea181ee89c97a1c935b] Where any apparatus of public utility undertakers or of an operator of an electronic communications code network is removed in pursuance of a notice or order given or made under section 271, 272 or 273 of the 1990 Act, as applied by paragraph 1, any person who is the owner or occupier of premises to which a supply was given from that apparatus is entitled to recover from the Executive compensation in respect of expenditure reasonably incurred by that person, in consequence of the removal, for the purpose of effecting a connection between the premises and any other apparatus from which a supply is given.
+**3.**[^c-70aaa64b2a90cea181ee89c97a1c935b] Where any apparatus of public utility undertakers or of an operator of an electronic communications code network is removed in pursuance of a notice or order given or made under section 271, 272 or 273 of the 1990 Act, as applied by paragraph 1, any person who is the owner or occupier of premises to which a supply was given from that apparatus is entitled to recover from the Executive compensation in respect of expenditure reasonably incurred by that person, in consequence of the removal, for the purpose of effecting a connection between the premises and any other apparatus from which a supply is given.
 
-**4.**[^key-67b278efc9980d6ade73c2d8f51a52a1] Paragraph 3 does not apply in the case of the removal of a public sewer but where such a sewer is removed in pursuance of such a notice or order as is mentioned in that paragraph, any person who is—
+**4.**[^c-67b278efc9980d6ade73c2d8f51a52a1] Paragraph 3 does not apply in the case of the removal of a public sewer but where such a sewer is removed in pursuance of such a notice or order as is mentioned in that paragraph, any person who is—
 
 - (a) the owner or occupier of premises the drains of which communicated with that sewer; or
 - (b) the owner of a private sewer which communicated with that sewer,
 
 is entitled to recover from the Executive compensation in respect of expenditure reasonably incurred by that person, in consequence of the removal, for the purpose of making the drain or sewer communicate with any other public sewer or with a private sewage disposal plant.
 
-**5.**[^key-62f0b16b5591e047a81c1f6d651bbd79] The provisions of the 1990 Act mentioned in paragraph 1, as applied by that paragraph, do not have effect in relation to apparatus as respects which Part 3 of the New Roads and Street Works Act 1991 [^c24293701] applies.
+**5.**[^c-62f0b16b5591e047a81c1f6d651bbd79] The provisions of the 1990 Act mentioned in paragraph 1, as applied by that paragraph, do not have effect in relation to apparatus as respects which Part 3 of the New Roads and Street Works Act 1991 [^c24293701] applies.
 
-**6.**[^key-e4f375481f94e6037c238ce26519da88] In this Schedule—
+**6.**[^c-e4f375481f94e6037c238ce26519da88] In this Schedule—
 
 - “**electronic communications code**” means the code set out in Schedule 3A to the Communications Act 2003 [^c24293711];
 - “**electronic communications code network**” means an electronic communications network within the meaning of the Communications Act 2003 to which the electronic communications code applies; and
@@ -625,11 +625,11 @@ A copy of the land plans and the book of reference referred to in this Order may
 
 [^c24293311]: Marginal citation: [1945 c. 18](https://www.legislation.gov.uk/ukpga/1945/18). Section 3 was amended by section 12 of the 1992 Act, and [1965 c.43](https://www.legislation.gov.uk/ukpga/1965/43).
 
-[^key-06307caaeb9fe468c2ec119b25daac29]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2020/1067/article/1) in force at 23.9.2020, see [Order](https://www.legislation.gov.uk/uksi/2020/1067)
+[^c-06307caaeb9fe468c2ec119b25daac29]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2020/1067/article/1) in force at 23.9.2020, see [Order](https://www.legislation.gov.uk/uksi/2020/1067)
 
-[^key-bf007f55b35123ee18f18444908f1942]: Textual amendment: Words in art. 1 heading omitted (15.12.2020) by virtue of [The Midland Metro (Wednesbury to Brierley Hill Land Acquisition) (Amendment) Order 2020 (S.I. 2020/1548)](https://www.legislation.gov.uk/uksi/2020/1548), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1548/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2020/1548/article/3/2)
+[^c-bf007f55b35123ee18f18444908f1942]: Textual amendment: Words in art. 1 heading omitted (15.12.2020) by virtue of [The Midland Metro (Wednesbury to Brierley Hill Land Acquisition) (Amendment) Order 2020 (S.I. 2020/1548)](https://www.legislation.gov.uk/uksi/2020/1548), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1548/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2020/1548/article/3/2)
 
-[^key-f9581c81be0aa0794560f23caf54a225]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2020/1067/article/2) in force at 23.9.2020, see [Order](https://www.legislation.gov.uk/uksi/2020/1067)
+[^c-f9581c81be0aa0794560f23caf54a225]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2020/1067/article/2) in force at 23.9.2020, see [Order](https://www.legislation.gov.uk/uksi/2020/1067)
 
 [^c24293321]: Marginal citation: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33).
 
@@ -643,7 +643,7 @@ A copy of the land plans and the book of reference referred to in this Order may
 
 [^c24293371]: Marginal citation: S..I 2005/927.
 
-[^key-79e06f8ac34b62a666b980be3c2fe3d0]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2020/1067/article/2) substituted (15.12.2020) by [The Midland Metro (Wednesbury to Brierley Hill Land Acquisition) (Amendment) Order 2020 (S.I. 2020/1548)](https://www.legislation.gov.uk/uksi/2020/1548), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1548/article/1), [3(3)](https://www.legislation.gov.uk/uksi/2020/1548/article/3/3)
+[^c-79e06f8ac34b62a666b980be3c2fe3d0]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2020/1067/article/2) substituted (15.12.2020) by [The Midland Metro (Wednesbury to Brierley Hill Land Acquisition) (Amendment) Order 2020 (S.I. 2020/1548)](https://www.legislation.gov.uk/uksi/2020/1548), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1548/article/1), [3(3)](https://www.legislation.gov.uk/uksi/2020/1548/article/3/3)
 
 [^c24293381]: Marginal citation: [S.I. 2016/653](https://www.legislation.gov.uk/uksi/2016/653).
 
@@ -653,11 +653,11 @@ A copy of the land plans and the book of reference referred to in this Order may
 
 [^c24293411]: Marginal citation: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-924f49c5f6db0bbde645622abf2f680a]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2020/1067/article/3) in force at 23.9.2020, see [Order](https://www.legislation.gov.uk/uksi/2020/1067)
+[^c-924f49c5f6db0bbde645622abf2f680a]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2020/1067/article/3) in force at 23.9.2020, see [Order](https://www.legislation.gov.uk/uksi/2020/1067)
 
-[^key-b89f8caca1499aadc85919707be0392a]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/1067/article/3/1) substituted (15.12.2020) by [The Midland Metro (Wednesbury to Brierley Hill Land Acquisition) (Amendment) Order 2020 (S.I. 2020/1548)](https://www.legislation.gov.uk/uksi/2020/1548), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1548/article/1), [3(4)](https://www.legislation.gov.uk/uksi/2020/1548/article/3/4)
+[^c-b89f8caca1499aadc85919707be0392a]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/1067/article/3/1) substituted (15.12.2020) by [The Midland Metro (Wednesbury to Brierley Hill Land Acquisition) (Amendment) Order 2020 (S.I. 2020/1548)](https://www.legislation.gov.uk/uksi/2020/1548), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1548/article/1), [3(4)](https://www.legislation.gov.uk/uksi/2020/1548/article/3/4)
 
-[^key-8a59453c74dcb74daf11bbbc07fc8148]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2020/1067/article/4) in force at 23.9.2020, see [Order](https://www.legislation.gov.uk/uksi/2020/1067)
+[^c-8a59453c74dcb74daf11bbbc07fc8148]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2020/1067/article/4) in force at 23.9.2020, see [Order](https://www.legislation.gov.uk/uksi/2020/1067)
 
 [^c24293421]: Marginal citation: [1981 c. 67](https://www.legislation.gov.uk/ukpga/1981/67).
 
@@ -669,7 +669,7 @@ A copy of the land plans and the book of reference referred to in this Order may
 
 [^c24293461]: Marginal citation: [Schedule 2A](https://www.legislation.gov.uk/uksi/2020/1067/schedule/2A) was inserted by paragraph 3 of Schedule 3 to the Housing and Planning Act 2016.
 
-[^key-6468ad9696b19862086af81543f5b09a]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2020/1067/article/5) in force at 23.9.2020, see [Order](https://www.legislation.gov.uk/uksi/2020/1067)
+[^c-6468ad9696b19862086af81543f5b09a]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2020/1067/article/5) in force at 23.9.2020, see [Order](https://www.legislation.gov.uk/uksi/2020/1067)
 
 [^c24293471]: Marginal citation: [Section 5A](https://www.legislation.gov.uk/uksi/2020/1067/section/5A) was inserted by section 182(2) of the Housing and Planning Act 2016.
 
@@ -681,85 +681,85 @@ A copy of the land plans and the book of reference referred to in this Order may
 
 [^c24293511]: Marginal citation: Schedule A1 was inserted by paragraph 6 of Schedule 18 to the Housing and Planning Act 2016.
 
-[^key-47b6acb9de14824f904b9c8cda7e2ac8]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2020/1067/article/6) in force at 23.9.2020, see [Order](https://www.legislation.gov.uk/uksi/2020/1067)
+[^c-47b6acb9de14824f904b9c8cda7e2ac8]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2020/1067/article/6) in force at 23.9.2020, see [Order](https://www.legislation.gov.uk/uksi/2020/1067)
 
-[^key-67cc00bdcb71126ad09540472ce66e74]: Textual amendment: Words in [art. 6(1)(b)](https://www.legislation.gov.uk/uksi/2020/1067/article/6/1/b) substituted (15.12.2020) by [The Midland Metro (Wednesbury to Brierley Hill Land Acquisition) (Amendment) Order 2020 (S.I. 2020/1548)](https://www.legislation.gov.uk/uksi/2020/1548), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1548/article/1), [3(4)](https://www.legislation.gov.uk/uksi/2020/1548/article/3/4)
+[^c-67cc00bdcb71126ad09540472ce66e74]: Textual amendment: Words in [art. 6(1)(b)](https://www.legislation.gov.uk/uksi/2020/1067/article/6/1/b) substituted (15.12.2020) by [The Midland Metro (Wednesbury to Brierley Hill Land Acquisition) (Amendment) Order 2020 (S.I. 2020/1548)](https://www.legislation.gov.uk/uksi/2020/1548), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1548/article/1), [3(4)](https://www.legislation.gov.uk/uksi/2020/1548/article/3/4)
 
-[^key-0afa5695010147279f9e0406458dc1ed]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2020/1067/article/7) in force at 23.9.2020, see [Order](https://www.legislation.gov.uk/uksi/2020/1067)
+[^c-0afa5695010147279f9e0406458dc1ed]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2020/1067/article/7) in force at 23.9.2020, see [Order](https://www.legislation.gov.uk/uksi/2020/1067)
 
-[^key-c165f808a243c7aa6fd5d7a2d089da81]: Textual amendment: Words in [art. 7(1)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1067/article/7/1/a/i) substituted (15.12.2020) by [The Midland Metro (Wednesbury to Brierley Hill Land Acquisition) (Amendment) Order 2020 (S.I. 2020/1548)](https://www.legislation.gov.uk/uksi/2020/1548), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1548/article/1), [3(4)](https://www.legislation.gov.uk/uksi/2020/1548/article/3/4)
+[^c-c165f808a243c7aa6fd5d7a2d089da81]: Textual amendment: Words in [art. 7(1)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1067/article/7/1/a/i) substituted (15.12.2020) by [The Midland Metro (Wednesbury to Brierley Hill Land Acquisition) (Amendment) Order 2020 (S.I. 2020/1548)](https://www.legislation.gov.uk/uksi/2020/1548), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1548/article/1), [3(4)](https://www.legislation.gov.uk/uksi/2020/1548/article/3/4)
 
 [^c24293521]: Marginal citation: [Section 11](https://www.legislation.gov.uk/uksi/2020/1067/section/11) was amended by section 34(1) of, and Schedule 4 to, the [Acquisition of Land Act 1981 (c. 67)](https://www.legislation.gov.uk/ukpga/1981/67), [section 14](https://www.legislation.gov.uk/ukpga/1981/67/section/14) of, and paragraph 12(1) of Schedule 5 to, the [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [sections 186(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/186/2), [187(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/187/2) and 188 of, and paragraph 6 of Schedule 14 and paragraph 3 of Schedule 16 to, the Housing and Planning Act 2016 and [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).
 
 [^c24293531]: Marginal citation: [Section 4](https://www.legislation.gov.uk/uksi/2020/1067/section/4) was amended by section 184 and 185 of, and paragraph 1 and 2 of Schedule 18 to, the Housing and Planning Act 2016.
 
-[^key-f513c1f3bd0d34c403ebad8b93ef6541]: Textual amendment: Words in [art. 7(3)(a)](https://www.legislation.gov.uk/uksi/2020/1067/article/7/3/a) substituted (15.12.2020) by [The Midland Metro (Wednesbury to Brierley Hill Land Acquisition) (Amendment) Order 2020 (S.I. 2020/1548)](https://www.legislation.gov.uk/uksi/2020/1548), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1548/article/1), [3(4)](https://www.legislation.gov.uk/uksi/2020/1548/article/3/4)
+[^c-f513c1f3bd0d34c403ebad8b93ef6541]: Textual amendment: Words in [art. 7(3)(a)](https://www.legislation.gov.uk/uksi/2020/1067/article/7/3/a) substituted (15.12.2020) by [The Midland Metro (Wednesbury to Brierley Hill Land Acquisition) (Amendment) Order 2020 (S.I. 2020/1548)](https://www.legislation.gov.uk/uksi/2020/1548), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1548/article/1), [3(4)](https://www.legislation.gov.uk/uksi/2020/1548/article/3/4)
 
 [^c24293541]: Marginal citation: [Section 10](https://www.legislation.gov.uk/uksi/2020/1067/section/10) was amended by section 4 of, and paragraph 13(2) of Schedule 2 to, the [Planning (Consequential Provisions) Act 1990 (c. 11)](https://www.legislation.gov.uk/ukpga/1990/11) and [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).
 
 [^c24293551]: Marginal citation: [Section 13](https://www.legislation.gov.uk/uksi/2020/1067/section/13) was amended by sections 62(3) and 139 of, and paragraph 27 and 28 of Schedule 13 and Part 3 of Schedule 23 to, the [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15).
 
-[^key-519af47bafc4aa9fa0f16b47c81a1a2b]: Textual amendment: Words in [art. 7(12)](https://www.legislation.gov.uk/uksi/2020/1067/article/7/12) substituted (15.12.2020) by [The Midland Metro (Wednesbury to Brierley Hill Land Acquisition) (Amendment) Order 2020 (S.I. 2020/1548)](https://www.legislation.gov.uk/uksi/2020/1548), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1548/article/1), [3(4)](https://www.legislation.gov.uk/uksi/2020/1548/article/3/4)
+[^c-519af47bafc4aa9fa0f16b47c81a1a2b]: Textual amendment: Words in [art. 7(12)](https://www.legislation.gov.uk/uksi/2020/1067/article/7/12) substituted (15.12.2020) by [The Midland Metro (Wednesbury to Brierley Hill Land Acquisition) (Amendment) Order 2020 (S.I. 2020/1548)](https://www.legislation.gov.uk/uksi/2020/1548), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1548/article/1), [3(4)](https://www.legislation.gov.uk/uksi/2020/1548/article/3/4)
 
-[^key-544e5f2eb2018a2ab437938ddfea7158]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2020/1067/article/8) in force at 23.9.2020, see [Order](https://www.legislation.gov.uk/uksi/2020/1067)
+[^c-544e5f2eb2018a2ab437938ddfea7158]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2020/1067/article/8) in force at 23.9.2020, see [Order](https://www.legislation.gov.uk/uksi/2020/1067)
 
-[^key-f31d523f85403f3a99488256ccbb849b]: Textual amendment: Words in [art. 8(2)(c)](https://www.legislation.gov.uk/uksi/2020/1067/article/8/2/c) substituted (15.12.2020) by [The Midland Metro (Wednesbury to Brierley Hill Land Acquisition) (Amendment) Order 2020 (S.I. 2020/1548)](https://www.legislation.gov.uk/uksi/2020/1548), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1548/article/1), [3(4)](https://www.legislation.gov.uk/uksi/2020/1548/article/3/4)
+[^c-f31d523f85403f3a99488256ccbb849b]: Textual amendment: Words in [art. 8(2)(c)](https://www.legislation.gov.uk/uksi/2020/1067/article/8/2/c) substituted (15.12.2020) by [The Midland Metro (Wednesbury to Brierley Hill Land Acquisition) (Amendment) Order 2020 (S.I. 2020/1548)](https://www.legislation.gov.uk/uksi/2020/1548), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1548/article/1), [3(4)](https://www.legislation.gov.uk/uksi/2020/1548/article/3/4)
 
 [^c24293561]: Marginal citation: [Section 13](https://www.legislation.gov.uk/uksi/2020/1067/section/13) was amended by sections 62(3) and 139(4) to (9) of, and paragraphs 27 and 28 of Schedule 13 and Part 3 of Schedule 23 to, the [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15).
 
-[^key-55024a7bac973b49602892883a06550d]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2020/1067/article/9) in force at 23.9.2020, see [Order](https://www.legislation.gov.uk/uksi/2020/1067)
+[^c-55024a7bac973b49602892883a06550d]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2020/1067/article/9) in force at 23.9.2020, see [Order](https://www.legislation.gov.uk/uksi/2020/1067)
 
-[^key-ab45c7af6fbf8e9162af40aeae5e6b58]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2020/1067/article/10) in force at 23.9.2020, see [Order](https://www.legislation.gov.uk/uksi/2020/1067)
+[^c-ab45c7af6fbf8e9162af40aeae5e6b58]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2020/1067/article/10) in force at 23.9.2020, see [Order](https://www.legislation.gov.uk/uksi/2020/1067)
 
 [^c24293571]: Marginal citation: [Section 11](https://www.legislation.gov.uk/uksi/2020/1067/section/11) was amended by section 34(1) of, and Schedule 4 to, the [Acquisition of Land Act 1981 (c. 67)](https://www.legislation.gov.uk/ukpga/1981/67), [section 14](https://www.legislation.gov.uk/ukpga/1981/67/section/14), of and paragraph 12(1) of Schedule 5 to, the [Church of England (Miscellaneous Provisions) Measures 2006 (2006 No. 1)](https://www.legislation.gov.uk/ukpga/2006), [sections 186(2)](https://www.legislation.gov.uk/ukpga/2006/section/186/2), [187(2)](https://www.legislation.gov.uk/ukpga/2006/section/187/2) and 188 of, and paragraph 6 of Schedule 14 and paragraph 3 of Schedule 16 to, the Housing and Planning Act 2016 and [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).
 
 [^c24293581]: Marginal citation: [Section 272](https://www.legislation.gov.uk/uksi/2020/1067/section/272) was amended by paragraph 103(1) and (2) of Schedule 17 to the [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-b5084ff5322dedabc42c56ab34dd24c3]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2020/1067/article/11) in force at 23.9.2020, see [Order](https://www.legislation.gov.uk/uksi/2020/1067)
+[^c-b5084ff5322dedabc42c56ab34dd24c3]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2020/1067/article/11) in force at 23.9.2020, see [Order](https://www.legislation.gov.uk/uksi/2020/1067)
 
-[^key-96536f18aa9c379ccf89c221950fcc0a]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2020/1067/article/12) in force at 23.9.2020, see [Order](https://www.legislation.gov.uk/uksi/2020/1067)
+[^c-96536f18aa9c379ccf89c221950fcc0a]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2020/1067/article/12) in force at 23.9.2020, see [Order](https://www.legislation.gov.uk/uksi/2020/1067)
 
-[^key-a7d0b720e5074c09684859f39b5cd337]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2020/1067/article/13) in force at 23.9.2020, see [Order](https://www.legislation.gov.uk/uksi/2020/1067)
+[^c-a7d0b720e5074c09684859f39b5cd337]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2020/1067/article/13) in force at 23.9.2020, see [Order](https://www.legislation.gov.uk/uksi/2020/1067)
 
 [^c24293591]: Marginal citation: [1981 c. 67](https://www.legislation.gov.uk/ukpga/1981/67).
 
-[^key-4295aa20b37a77f8da6b37b43c0cd9f5]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2020/1067/article/14) in force at 23.9.2020, see [Order](https://www.legislation.gov.uk/uksi/2020/1067)
+[^c-4295aa20b37a77f8da6b37b43c0cd9f5]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2020/1067/article/14) in force at 23.9.2020, see [Order](https://www.legislation.gov.uk/uksi/2020/1067)
 
-[^key-39d2ed43b11ba7c0bd1a450963bd910e]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2020/1067/article/15) in force at 23.9.2020, see [Order](https://www.legislation.gov.uk/uksi/2020/1067)
+[^c-39d2ed43b11ba7c0bd1a450963bd910e]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2020/1067/article/15) in force at 23.9.2020, see [Order](https://www.legislation.gov.uk/uksi/2020/1067)
 
 [^c24293601]: Marginal citation: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-616df78f6a0a2c7865628e6716a44b4d]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/2020/1067/article/16) in force at 23.9.2020, see [Order](https://www.legislation.gov.uk/uksi/2020/1067)
+[^c-616df78f6a0a2c7865628e6716a44b4d]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/2020/1067/article/16) in force at 23.9.2020, see [Order](https://www.legislation.gov.uk/uksi/2020/1067)
 
-[^key-e48fdf54295b2f67636e8c494d43e2e9]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2020/1067/article/17) in force at 23.9.2020, see [Order](https://www.legislation.gov.uk/uksi/2020/1067)
+[^c-e48fdf54295b2f67636e8c494d43e2e9]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2020/1067/article/17) in force at 23.9.2020, see [Order](https://www.legislation.gov.uk/uksi/2020/1067)
 
-[^key-04dc12698b3b384fab382df013900e15]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/2020/1067/article/18) in force at 23.9.2020, see [Order](https://www.legislation.gov.uk/uksi/2020/1067)
+[^c-04dc12698b3b384fab382df013900e15]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/2020/1067/article/18) in force at 23.9.2020, see [Order](https://www.legislation.gov.uk/uksi/2020/1067)
 
-[^key-1d16139b27ca8d13de0184534eba202d]: Commencement: [Art. 19](https://www.legislation.gov.uk/uksi/2020/1067/article/19) in force at 23.9.2020, see [Order](https://www.legislation.gov.uk/uksi/2020/1067)
+[^c-1d16139b27ca8d13de0184534eba202d]: Commencement: [Art. 19](https://www.legislation.gov.uk/uksi/2020/1067/article/19) in force at 23.9.2020, see [Order](https://www.legislation.gov.uk/uksi/2020/1067)
 
-[^key-9d93d8996b42eb3362502667e0193c62]: Commencement: [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2020/1067/schedule/1/part/1) in force at 23.9.2020, see [Order](https://www.legislation.gov.uk/uksi/2020/1067)
+[^c-9d93d8996b42eb3362502667e0193c62]: Commencement: [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2020/1067/schedule/1/part/1) in force at 23.9.2020, see [Order](https://www.legislation.gov.uk/uksi/2020/1067)
 
-[^key-492d1eea8e8189497513cfadb35d9180]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2020/1067/schedule/1/part/1) substituted (15.12.2020) by [The Midland Metro (Wednesbury to Brierley Hill Land Acquisition) (Amendment) Order 2020 (S.I. 2020/1548)](https://www.legislation.gov.uk/uksi/2020/1548), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1548/article/1), [3(5)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1548/article/3/5/a/i)
+[^c-492d1eea8e8189497513cfadb35d9180]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2020/1067/schedule/1/part/1) substituted (15.12.2020) by [The Midland Metro (Wednesbury to Brierley Hill Land Acquisition) (Amendment) Order 2020 (S.I. 2020/1548)](https://www.legislation.gov.uk/uksi/2020/1548), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1548/article/1), [3(5)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1548/article/3/5/a/i)
 
-[^key-03d4c3af5efe66b4ae0366228b0a86d8]: Textual amendment: Word in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2020/1067/schedule/1/part/1) substituted (15.12.2020) by [The Midland Metro (Wednesbury to Brierley Hill Land Acquisition) (Amendment) Order 2020 (S.I. 2020/1548)](https://www.legislation.gov.uk/uksi/2020/1548), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1548/article/1), [3(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1548/article/3/5/a/ii)
+[^c-03d4c3af5efe66b4ae0366228b0a86d8]: Textual amendment: Word in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2020/1067/schedule/1/part/1) substituted (15.12.2020) by [The Midland Metro (Wednesbury to Brierley Hill Land Acquisition) (Amendment) Order 2020 (S.I. 2020/1548)](https://www.legislation.gov.uk/uksi/2020/1548), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1548/article/1), [3(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1548/article/3/5/a/ii)
 
-[^key-cdefa65f0dfd402f18c419a6f3b4e707]: Commencement: [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2020/1067/schedule/1/part/2) in force at 23.9.2020, see [Order](https://www.legislation.gov.uk/uksi/2020/1067)
+[^c-cdefa65f0dfd402f18c419a6f3b4e707]: Commencement: [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2020/1067/schedule/1/part/2) in force at 23.9.2020, see [Order](https://www.legislation.gov.uk/uksi/2020/1067)
 
-[^key-b6cbd422620d08e9f4c161cbb82d2427]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2020/1067/schedule/1/part/2) substituted (15.12.2020) by [The Midland Metro (Wednesbury to Brierley Hill Land Acquisition) (Amendment) Order 2020 (S.I. 2020/1548)](https://www.legislation.gov.uk/uksi/2020/1548), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1548/article/1), [3(5)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1548/article/3/5/b/i)
+[^c-b6cbd422620d08e9f4c161cbb82d2427]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2020/1067/schedule/1/part/2) substituted (15.12.2020) by [The Midland Metro (Wednesbury to Brierley Hill Land Acquisition) (Amendment) Order 2020 (S.I. 2020/1548)](https://www.legislation.gov.uk/uksi/2020/1548), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1548/article/1), [3(5)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1548/article/3/5/b/i)
 
-[^key-88cbc8dd48507b2dbbd2bfc2d9528d62]: Textual amendment: Word in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2020/1067/schedule/1/part/2) omitted (15.12.2020) by virtue of [The Midland Metro (Wednesbury to Brierley Hill Land Acquisition) (Amendment) Order 2020 (S.I. 2020/1548)](https://www.legislation.gov.uk/uksi/2020/1548), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1548/article/1), [3(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1548/article/3/5/b/ii)
+[^c-88cbc8dd48507b2dbbd2bfc2d9528d62]: Textual amendment: Word in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2020/1067/schedule/1/part/2) omitted (15.12.2020) by virtue of [The Midland Metro (Wednesbury to Brierley Hill Land Acquisition) (Amendment) Order 2020 (S.I. 2020/1548)](https://www.legislation.gov.uk/uksi/2020/1548), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1548/article/1), [3(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1548/article/3/5/b/ii)
 
-[^key-3d484d9fd83e8e2019bac33463a40dcf]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2020/1067/schedule/2/paragraph/1) in force at 23.9.2020, see [Order](https://www.legislation.gov.uk/uksi/2020/1067)
+[^c-3d484d9fd83e8e2019bac33463a40dcf]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2020/1067/schedule/2/paragraph/1) in force at 23.9.2020, see [Order](https://www.legislation.gov.uk/uksi/2020/1067)
 
-[^key-b3a57b1b0193ea3ee4d3c3238806e183]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2020/1067/schedule/2/paragraph/2) in force at 23.9.2020, see [Order](https://www.legislation.gov.uk/uksi/2020/1067)
+[^c-b3a57b1b0193ea3ee4d3c3238806e183]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2020/1067/schedule/2/paragraph/2) in force at 23.9.2020, see [Order](https://www.legislation.gov.uk/uksi/2020/1067)
 
-[^key-36d18e0b9f031d9c19d164dc43129b4f]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2020/1067/schedule/2/paragraph/3) in force at 23.9.2020, see [Order](https://www.legislation.gov.uk/uksi/2020/1067)
+[^c-36d18e0b9f031d9c19d164dc43129b4f]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2020/1067/schedule/2/paragraph/3) in force at 23.9.2020, see [Order](https://www.legislation.gov.uk/uksi/2020/1067)
 
 [^c24293611]: Marginal citation: [1973 c. 26](https://www.legislation.gov.uk/ukpga/1973/26).
 
-[^key-4fba006326ffaf26a583458dc4503c5d]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2020/1067/schedule/2/paragraph/4) in force at 23.9.2020, see [Order](https://www.legislation.gov.uk/uksi/2020/1067)
+[^c-4fba006326ffaf26a583458dc4503c5d]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2020/1067/schedule/2/paragraph/4) in force at 23.9.2020, see [Order](https://www.legislation.gov.uk/uksi/2020/1067)
 
-[^key-01bf500b8c5caf22bd2814e70d303817]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2020/1067/schedule/2/paragraph/5) in force at 23.9.2020, see [Order](https://www.legislation.gov.uk/uksi/2020/1067)
+[^c-01bf500b8c5caf22bd2814e70d303817]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2020/1067/schedule/2/paragraph/5) in force at 23.9.2020, see [Order](https://www.legislation.gov.uk/uksi/2020/1067)
 
 [^c24293621]: Marginal citation: [Section 11](https://www.legislation.gov.uk/uksi/2020/1067/section/11) was amended by section 34(1) of, and Schedule 4 to, the [Acquisition of Land Act 1981 (c. 67)](https://www.legislation.gov.uk/ukpga/1981/67), [section 14](https://www.legislation.gov.uk/ukpga/1981/67/section/14) of, and paragraph 12(1) of Schedule 5 to, the [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1) and [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).
 
@@ -773,31 +773,31 @@ A copy of the land plans and the book of reference referred to in this Order may
 
 [^c24293671]: Marginal citation: [Section 20](https://www.legislation.gov.uk/uksi/2020/1067/section/20) was amended by paragraph 4 of Schedule 15 to the Planning and Compensation Act 1991 and [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).
 
-[^key-a9c11c22dbf825943837e07795c4fea2]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1067/schedule/3) in force at 23.9.2020, see [Order](https://www.legislation.gov.uk/uksi/2020/1067)
+[^c-a9c11c22dbf825943837e07795c4fea2]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1067/schedule/3) in force at 23.9.2020, see [Order](https://www.legislation.gov.uk/uksi/2020/1067)
 
-[^key-7f2f63e9d83aa0a7e984d928194b3330]: Textual amendment: Word in [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1067/schedule/3) omitted (15.12.2020) by virtue of [The Midland Metro (Wednesbury to Brierley Hill Land Acquisition) (Amendment) Order 2020 (S.I. 2020/1548)](https://www.legislation.gov.uk/uksi/2020/1548), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1548/article/1), [3(6)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1548/article/3/6/a/i)
+[^c-7f2f63e9d83aa0a7e984d928194b3330]: Textual amendment: Word in [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1067/schedule/3) omitted (15.12.2020) by virtue of [The Midland Metro (Wednesbury to Brierley Hill Land Acquisition) (Amendment) Order 2020 (S.I. 2020/1548)](https://www.legislation.gov.uk/uksi/2020/1548), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1548/article/1), [3(6)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1548/article/3/6/a/i)
 
-[^key-222bb01d0bc2d4a34ff855441e31f374]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1067/schedule/3) substituted (15.12.2020) by [The Midland Metro (Wednesbury to Brierley Hill Land Acquisition) (Amendment) Order 2020 (S.I. 2020/1548)](https://www.legislation.gov.uk/uksi/2020/1548), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1548/article/1), [3(6)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1548/article/3/6/a/ii)
+[^c-222bb01d0bc2d4a34ff855441e31f374]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1067/schedule/3) substituted (15.12.2020) by [The Midland Metro (Wednesbury to Brierley Hill Land Acquisition) (Amendment) Order 2020 (S.I. 2020/1548)](https://www.legislation.gov.uk/uksi/2020/1548), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1548/article/1), [3(6)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1548/article/3/6/a/ii)
 
-[^key-757794934e8add8080d62c67f7ce909a]: Textual amendment: Word in [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1067/schedule/3) omitted (15.12.2020) by virtue of [The Midland Metro (Wednesbury to Brierley Hill Land Acquisition) (Amendment) Order 2020 (S.I. 2020/1548)](https://www.legislation.gov.uk/uksi/2020/1548), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1548/article/1), [3(6)(b)](https://www.legislation.gov.uk/uksi/2020/1548/article/3/6/b)
+[^c-757794934e8add8080d62c67f7ce909a]: Textual amendment: Word in [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1067/schedule/3) omitted (15.12.2020) by virtue of [The Midland Metro (Wednesbury to Brierley Hill Land Acquisition) (Amendment) Order 2020 (S.I. 2020/1548)](https://www.legislation.gov.uk/uksi/2020/1548), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1548/article/1), [3(6)(b)](https://www.legislation.gov.uk/uksi/2020/1548/article/3/6/b)
 
-[^key-2e3c86fa4b37afc71a3df81d436b055d]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2020/1067/schedule/4/paragraph/1) in force at 23.9.2020, see [Order](https://www.legislation.gov.uk/uksi/2020/1067)
+[^c-2e3c86fa4b37afc71a3df81d436b055d]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2020/1067/schedule/4/paragraph/1) in force at 23.9.2020, see [Order](https://www.legislation.gov.uk/uksi/2020/1067)
 
 [^c24293681]: Marginal citation: [Sections 272 to 274](https://www.legislation.gov.uk/uksi/2020/1067/section/272) were amended by paragraph 103(1) and (2) of Schedule 17 to the [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21).
 
 [^c24293691]: Marginal citation: [Section 279(3)](https://www.legislation.gov.uk/uksi/2020/1067/section/279/3) was amended by paragraph 103(1) and (2), and section 280 was amended by paragraph 104, of Schedule 17 to the Communications Act 2003. Sections 280 and 282 were amended by [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).
 
-[^key-2f072be2dd9e2198de3311f62f135431]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2020/1067/schedule/4/paragraph/2) in force at 23.9.2020, see [Order](https://www.legislation.gov.uk/uksi/2020/1067)
+[^c-2f072be2dd9e2198de3311f62f135431]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2020/1067/schedule/4/paragraph/2) in force at 23.9.2020, see [Order](https://www.legislation.gov.uk/uksi/2020/1067)
 
-[^key-70aaa64b2a90cea181ee89c97a1c935b]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2020/1067/schedule/4/paragraph/3) in force at 23.9.2020, see [Order](https://www.legislation.gov.uk/uksi/2020/1067)
+[^c-70aaa64b2a90cea181ee89c97a1c935b]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2020/1067/schedule/4/paragraph/3) in force at 23.9.2020, see [Order](https://www.legislation.gov.uk/uksi/2020/1067)
 
-[^key-67b278efc9980d6ade73c2d8f51a52a1]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/2020/1067/schedule/4/paragraph/4) in force at 23.9.2020, see [Order](https://www.legislation.gov.uk/uksi/2020/1067)
+[^c-67b278efc9980d6ade73c2d8f51a52a1]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/2020/1067/schedule/4/paragraph/4) in force at 23.9.2020, see [Order](https://www.legislation.gov.uk/uksi/2020/1067)
 
-[^key-62f0b16b5591e047a81c1f6d651bbd79]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/2020/1067/schedule/4/paragraph/5) in force at 23.9.2020, see [Order](https://www.legislation.gov.uk/uksi/2020/1067)
+[^c-62f0b16b5591e047a81c1f6d651bbd79]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/2020/1067/schedule/4/paragraph/5) in force at 23.9.2020, see [Order](https://www.legislation.gov.uk/uksi/2020/1067)
 
 [^c24293701]: Marginal citation: [1991 c. 22](https://www.legislation.gov.uk/ukpga/1991/22).
 
-[^key-e4f375481f94e6037c238ce26519da88]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/uksi/2020/1067/schedule/4/paragraph/6) in force at 23.9.2020, see [Order](https://www.legislation.gov.uk/uksi/2020/1067)
+[^c-e4f375481f94e6037c238ce26519da88]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/uksi/2020/1067/schedule/4/paragraph/6) in force at 23.9.2020, see [Order](https://www.legislation.gov.uk/uksi/2020/1067)
 
 [^c24293711]: Marginal citation: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21); [Schedule 3A](https://www.legislation.gov.uk/uksi/2020/1067/schedule/3A) was inserted by section 4(2) of, and Schedule 1 to the [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30).
 

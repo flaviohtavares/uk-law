@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Amendment of regulation G3[^key-b01226257e395e15efd74ac3594a3e15]
+## 21. Amendment of regulation G3[^c-b01226257e395e15efd74ac3594a3e15]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ After paragraph (5) of regulation G3 (member dies after pension becomes payable)
 
 ## Annotations
 
-[^key-b01226257e395e15efd74ac3594a3e15]: Commencement: Reg. 21 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
+[^c-b01226257e395e15efd74ac3594a3e15]: Commencement: Reg. 21 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)

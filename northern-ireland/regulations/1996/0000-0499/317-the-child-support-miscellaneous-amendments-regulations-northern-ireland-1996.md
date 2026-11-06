@@ -40,7 +40,7 @@ Coming into operation in accordance with regulation 1(1)
 
 The Department of Health and Social Services, in exercise of the powers conferred on it by Articles 16(1), 23(2), 32(1), 39(3), 43(11), 47 and 48(4) of, and paragraphs 5(1) and (2), 6, 8 and 11 of Schedule 1 to, the Child Support (Northern Ireland) Order 1991[^f00001], and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-80320129624061c97fddc83e9a51fa06]
+## 1. Citation, commencement and interpretation[^c-80320129624061c97fddc83e9a51fa06]
 
 **Not yet in force.**
 
@@ -51,7 +51,7 @@ The Department of Health and Social Services, in exercise of the powers conferre
 
 (2) In these Regulations “the Maintenance Assessment Procedure Regulations” means the Child Support (Maintenance Assessment Procedure) Regulations (Northern Ireland) 1992[^f00002].
 
-## 2. Amendment of the Child Support (Information, Evidence and Disclosure) Regulations[^key-ebfa7cc179dbfc3b6d089825270c2db8]
+## 2. Amendment of the Child Support (Information, Evidence and Disclosure) Regulations[^c-ebfa7cc179dbfc3b6d089825270c2db8]
 
 (1) The Child Support (Information, Evidence and Disclosure) Regulations (Northern Ireland) 1992[^f00003] shall be amended in accordance with paragraphs (2) and (3).
 
@@ -64,7 +64,7 @@ The Department of Health and Social Services, in exercise of the powers conferre
 
 .
 
-## 3. Amendment of the Maintenance Assessment Procedure Regulations[^key-97cbbb1d2b26c566fc47852078363ec2][^key-7e2b32db5da9969f89e15e1b6c544fca]
+## 3. Amendment of the Maintenance Assessment Procedure Regulations[^c-97cbbb1d2b26c566fc47852078363ec2][^c-7e2b32db5da9969f89e15e1b6c544fca]
 
 (1) The Maintenance Assessment Procedure Regulations shall be amended in accordance with paragraphs (2) to (10).
 
@@ -158,7 +158,7 @@ The Department of Health and Social Services, in exercise of the powers conferre
   ; and
 - (d) paragraphs (6) and (7) shall be omitted.
 
-## 4. Amendment of the Child Support (Maintenance Assessments and Special Cases) Regulations[^key-22274ea1fbf048152032d9cb6e4e9adb][^key-467833e7f8cb24eb46bf1de201afba27]
+## 4. Amendment of the Child Support (Maintenance Assessments and Special Cases) Regulations[^c-22274ea1fbf048152032d9cb6e4e9adb][^c-467833e7f8cb24eb46bf1de201afba27]
 
 (1) The Child Support (Maintenance Assessments and Special Cases) Regulations (Northern Ireland) 1992[^f00010] shall be amended in accordance with paragraphs (2) to (8).
 
@@ -225,7 +225,7 @@ The Department of Health and Social Services, in exercise of the powers conferre
 - (b) in paragraph 7(3)(*a*) before “weekly earnings” there shall be inserted “normal”; and
 - (c) in paragraph 15 after “Schedule” there shall be inserted “except payments or other amounts which are excluded from the definition of “earnings” by virtue of paragraph 1(2)”.
 
-## 5. Amendment of the Child Support (Collection and Enforcement) Regulations[^key-e058458bc412b7160cb37c3ee8475464][^key-b82344ad795c686cfe50d8affc550061]
+## 5. Amendment of the Child Support (Collection and Enforcement) Regulations[^c-e058458bc412b7160cb37c3ee8475464][^c-b82344ad795c686cfe50d8affc550061]
 
 (1) The Child Support (Collection and Enforcement) Regulations (Northern Ireland) 1992[^f00015] shall be amended in accordance with paragraphs (2) and (3).
 
@@ -233,7 +233,7 @@ The Department of Health and Social Services, in exercise of the powers conferre
 
 (3) In regulation 11(3)[^f00017] (protected earnings rate) after “interim maintenance assessment” there shall be inserted “, except a Category B interim maintenance assessment,”.
 
-## 6. Amendment of the Child Support Appeal Tribunals (Procedure) Regulations[^key-68aaaeab30d27c799d4bd3fe3e7f7a3d]
+## 6. Amendment of the Child Support Appeal Tribunals (Procedure) Regulations[^c-68aaaeab30d27c799d4bd3fe3e7f7a3d]
 
 **Not yet in force.**
 
@@ -252,7 +252,7 @@ For regulation 17 of the Child Support Appeal Tribunals (Procedure) Regulations 
 
 .
 
-## 7. Transitional provisions[^key-b8658116fa2544397743d776d6eb0ee3]
+## 7. Transitional provisions[^c-b8658116fa2544397743d776d6eb0ee3]
 
 **Not yet in force.**
 
@@ -297,17 +297,17 @@ Other amendments made are of a minor, technical, consequential or procedural nat
 
 [^f00001]: Footnote: S.I. [1991/2628 (N.I. 23)](https://www.legislation.gov.uk/nisi/1991/2628)
 
-[^key-80320129624061c97fddc83e9a51fa06]: Commencement: Reg. 1 in operation at 7.10.1996, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1996/317/regulation/1/1/b)
+[^c-80320129624061c97fddc83e9a51fa06]: Commencement: Reg. 1 in operation at 7.10.1996, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1996/317/regulation/1/1/b)
 
 [^f00002]: Footnote: [S.R. 1992 No. 340](https://www.legislation.gov.uk/nisr/1992/340); relevant amending regulations are [S.R. 1995 Nos. 162](https://www.legislation.gov.uk/nisr/1995/162) and [475](https://www.legislation.gov.uk/nisr/1995/475)
 
-[^key-ebfa7cc179dbfc3b6d089825270c2db8]: Commencement: Reg. 2 in operation at 5.8.1996, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1996/317/regulation/1/1/a)
+[^c-ebfa7cc179dbfc3b6d089825270c2db8]: Commencement: Reg. 2 in operation at 5.8.1996, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1996/317/regulation/1/1/a)
 
 [^f00003]: Footnote: [S.R. 1992 No. 339](https://www.legislation.gov.uk/nisr/1992/339); relevant amending regulations are [S.R. 1994 No. 65](https://www.legislation.gov.uk/nisr/1994/65) and [S.R. 1995 Nos. 19](https://www.legislation.gov.uk/nisr/1995/19), [162](https://www.legislation.gov.uk/nisr/1995/162) and [475](https://www.legislation.gov.uk/nisr/1995/475)
 
-[^key-97cbbb1d2b26c566fc47852078363ec2]: Commencement: Reg. 3(1)(2)(5) in operation at 5.8.1996, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1996/317/regulation/1/1/a)
+[^c-97cbbb1d2b26c566fc47852078363ec2]: Commencement: Reg. 3(1)(2)(5) in operation at 5.8.1996, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1996/317/regulation/1/1/a)
 
-[^key-7e2b32db5da9969f89e15e1b6c544fca]: Commencement: Reg. 3(3)(4)(6)-(10) in operation at 7.10.1996, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1996/317/regulation/1/1/b)
+[^c-7e2b32db5da9969f89e15e1b6c544fca]: Commencement: Reg. 3(3)(4)(6)-(10) in operation at 7.10.1996, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1996/317/regulation/1/1/b)
 
 [^f00004]: Footnote: Regulation 15A was inserted by regulation 3(9) of [S.R. 1995 No. 475](https://www.legislation.gov.uk/nisr/1995/475)
 
@@ -321,9 +321,9 @@ Other amendments made are of a minor, technical, consequential or procedural nat
 
 [^f00009]: Footnote: Paragraph (4) was amended by regulation 8(12)(*a*) of [S.R. 1995 No. 162](https://www.legislation.gov.uk/nisr/1995/162)
 
-[^key-22274ea1fbf048152032d9cb6e4e9adb]: Commencement: Reg. 4(1)(2)(4)-(6) in operation at 5.8.1996, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1996/317/regulation/1/1/a)
+[^c-22274ea1fbf048152032d9cb6e4e9adb]: Commencement: Reg. 4(1)(2)(4)-(6) in operation at 5.8.1996, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1996/317/regulation/1/1/a)
 
-[^key-467833e7f8cb24eb46bf1de201afba27]: Commencement: Reg. 4(3)(7)(8) in operation at 7.10.1996, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1996/317/regulation/1/1/b)
+[^c-467833e7f8cb24eb46bf1de201afba27]: Commencement: Reg. 4(3)(7)(8) in operation at 7.10.1996, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1996/317/regulation/1/1/b)
 
 [^f00010]: Footnote: [S.R. 1992 No. 341](https://www.legislation.gov.uk/nisr/1992/341); relevant amending regulations are [S.R. 1994 No. 65](https://www.legislation.gov.uk/nisr/1994/65) and [S.R. 1995 No. 162](https://www.legislation.gov.uk/nisr/1995/162)
 
@@ -335,9 +335,9 @@ Other amendments made are of a minor, technical, consequential or procedural nat
 
 [^f00014]: Footnote: Regulation 16 was amended by regulation 9(10) of [S.R. 1995 No. 162](https://www.legislation.gov.uk/nisr/1995/162)
 
-[^key-e058458bc412b7160cb37c3ee8475464]: Commencement: Reg. 5(1)(3) in operation at 5.8.1996, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1996/317/regulation/1/1/a)
+[^c-e058458bc412b7160cb37c3ee8475464]: Commencement: Reg. 5(1)(3) in operation at 5.8.1996, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1996/317/regulation/1/1/a)
 
-[^key-b82344ad795c686cfe50d8affc550061]: Commencement: Reg. 5(2) in operation at 7.10.1996, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1996/317/regulation/1/1/b)
+[^c-b82344ad795c686cfe50d8affc550061]: Commencement: Reg. 5(2) in operation at 7.10.1996, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1996/317/regulation/1/1/b)
 
 [^f00015]: Footnote: [S.R. 1992 No. 390](https://www.legislation.gov.uk/nisr/1992/390); relevant amending regulations are [S.R. 1995 No. 162](https://www.legislation.gov.uk/nisr/1995/162)
 
@@ -345,8 +345,8 @@ Other amendments made are of a minor, technical, consequential or procedural nat
 
 [^f00017]: Footnote: Paragraph (3) was added by regulation 4(7)(*b*) of [S.R. 1995 No. 162](https://www.legislation.gov.uk/nisr/1995/162)
 
-[^key-68aaaeab30d27c799d4bd3fe3e7f7a3d]: Commencement: Reg. 6 in operation at 7.10.1996, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1996/317/regulation/1/1/b)
+[^c-68aaaeab30d27c799d4bd3fe3e7f7a3d]: Commencement: Reg. 6 in operation at 7.10.1996, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1996/317/regulation/1/1/b)
 
 [^f00018]: Footnote: [S.R. 1993 No. 50](https://www.legislation.gov.uk/nisr/1993/50); to which there are amendments not relevant to these Regulations
 
-[^key-b8658116fa2544397743d776d6eb0ee3]: Commencement: Reg. 7 in operation at 7.10.1996, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1996/317/regulation/1/1/b)
+[^c-b8658116fa2544397743d776d6eb0ee3]: Commencement: Reg. 7 in operation at 7.10.1996, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1996/317/regulation/1/1/b)

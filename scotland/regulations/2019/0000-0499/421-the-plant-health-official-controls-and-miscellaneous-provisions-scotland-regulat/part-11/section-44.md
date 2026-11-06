@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 44. Offence relating to the disclosure of information held by Revenue and Customs[^key-811f82f5d48d6b04022bc946d614f6ba]
+## 44. Offence relating to the disclosure of information held by Revenue and Customs[^c-811f82f5d48d6b04022bc946d614f6ba]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ A person commits an offence if the person discloses any information received fro
 
 ## Annotations
 
-[^key-811f82f5d48d6b04022bc946d614f6ba]: Commencement: Reg. 44 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1)
+[^c-811f82f5d48d6b04022bc946d614f6ba]: Commencement: Reg. 44 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1)

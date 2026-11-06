@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 146. Heated tobacco-free places in England[^key-559fe8efb2ac8df5cbec574076aab859]
+## 146. Heated tobacco-free places in England[^c-559fe8efb2ac8df5cbec574076aab859]
 
 *Extent: E+W+S+N.I.*
 
@@ -122,4 +122,4 @@ summary: ''
 
 ## Annotations
 
-[^key-559fe8efb2ac8df5cbec574076aab859]: Commencement: S. 146 not in force at Royal Assent, see [s. 176(3)(a)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/a)
+[^c-559fe8efb2ac8df5cbec574076aab859]: Commencement: S. 146 not in force at Royal Assent, see [s. 176(3)(a)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/a)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) On receipt of the application under regulation 202, the scheme manager must[^key-dfcfd38399e64876d29aca5571589d87] make a transfer value payment in respect of P.
+(1) On receipt of the application under regulation 202, the scheme manager must[^c-dfcfd38399e64876d29aca5571589d87] make a transfer value payment in respect of P.
 
 (2) A member of this scheme may only require the scheme manager to use a transfer value in a way specified in section 95(2) of PSA 1993.
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dfcfd38399e64876d29aca5571589d87]: Textual amendment: Word in [reg. 203(1)](https://www.legislation.gov.uk/uksi/2014/512/regulation/203/1) substituted (1.4.2015) by [The Teachers Pension Scheme (Amendment) Regulations 2014 (S.I. 2014/2652)](https://www.legislation.gov.uk/uksi/2014/2652), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2652/regulation/1), [21](https://www.legislation.gov.uk/uksi/2014/2652/regulation/21)
+[^c-dfcfd38399e64876d29aca5571589d87]: Textual amendment: Word in [reg. 203(1)](https://www.legislation.gov.uk/uksi/2014/512/regulation/203/1) substituted (1.4.2015) by [The Teachers Pension Scheme (Amendment) Regulations 2014 (S.I. 2014/2652)](https://www.legislation.gov.uk/uksi/2014/2652), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2652/regulation/1), [21](https://www.legislation.gov.uk/uksi/2014/2652/regulation/21)

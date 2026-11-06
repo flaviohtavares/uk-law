@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27C. Transfers of ownership: further obligations where the transferor is a large producer[^key-b13639e89155d576b42b28c4628fb6c2]
+## 27C. Transfers of ownership: further obligations where the transferor is a large producer[^c-b13639e89155d576b42b28c4628fb6c2]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b13639e89155d576b42b28c4628fb6c2]: Textual amendment: [Regs. 27A-27C](https://www.legislation.gov.uk/uksi/2024/1332/regulation/27A) inserted (1.1.2026) by [The Producer Responsibility Obligations (Packaging and Packaging Waste) (Amendment) Regulations 2025 (S.I. 2025/1369)](https://www.legislation.gov.uk/uksi/2025/1369), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2025/1369/schedule/1) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2025/1369/schedule/4))
+[^c-b13639e89155d576b42b28c4628fb6c2]: Textual amendment: [Regs. 27A-27C](https://www.legislation.gov.uk/uksi/2024/1332/regulation/27A) inserted (1.1.2026) by [The Producer Responsibility Obligations (Packaging and Packaging Waste) (Amendment) Regulations 2025 (S.I. 2025/1369)](https://www.legislation.gov.uk/uksi/2025/1369), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2025/1369/schedule/1) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2025/1369/schedule/4))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 29. Calculation of average weekly income from tax credits[^key-c5bc80a023ec94c53fd461e33ccd618c]
+## 29. Calculation of average weekly income from tax credits[^c-c5bc80a023ec94c53fd461e33ccd618c]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c5bc80a023ec94c53fd461e33ccd618c]: Commencement: [Reg. 29](https://www.legislation.gov.uk/nisr/2006/405/regulation/29) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
+[^c-c5bc80a023ec94c53fd461e33ccd618c]: Commencement: [Reg. 29](https://www.legislation.gov.uk/nisr/2006/405/regulation/29) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)

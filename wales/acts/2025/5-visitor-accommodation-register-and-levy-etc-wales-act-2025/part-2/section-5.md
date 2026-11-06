@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Duty of visitor accommodation providers to be registered[^key-75b8bb78e5748f9ccf66bff50ef31ef7][^key-3b808e198df215bf14e372e115981f63]
+## 5. Duty of visitor accommodation providers to be registered[^c-75b8bb78e5748f9ccf66bff50ef31ef7][^c-3b808e198df215bf14e372e115981f63]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-75b8bb78e5748f9ccf66bff50ef31ef7]: Commencement: S. 5 not in force at Royal Assent, see [s. 67(2)](https://www.legislation.gov.uk/asc/2025/5/section/67/2)
+[^c-75b8bb78e5748f9ccf66bff50ef31ef7]: Commencement: S. 5 not in force at Royal Assent, see [s. 67(2)](https://www.legislation.gov.uk/asc/2025/5/section/67/2)
 
-[^key-3b808e198df215bf14e372e115981f63]: Commencement: [S. 5](https://www.legislation.gov.uk/asc/2025/5/section/5) in force at 1.10.2026 by [S.I. 2025/1305](https://www.legislation.gov.uk/wsi/2025/1305), [art. 2(b)](https://www.legislation.gov.uk/wsi/2025/1305/article/2/b)
+[^c-3b808e198df215bf14e372e115981f63]: Commencement: [S. 5](https://www.legislation.gov.uk/asc/2025/5/section/5) in force at 1.10.2026 by [S.I. 2025/1305](https://www.legislation.gov.uk/wsi/2025/1305), [art. 2(b)](https://www.legislation.gov.uk/wsi/2025/1305/article/2/b)

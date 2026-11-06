@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 93. Completion of enquiry[^key-34db4912eefa7f2cd35c753e7d1d45b5]
+## 93. Completion of enquiry[^c-34db4912eefa7f2cd35c753e7d1d45b5]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-34db4912eefa7f2cd35c753e7d1d45b5]: Commencement: [S. 93](https://www.legislation.gov.uk/asp/2014/16/section/93) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-34db4912eefa7f2cd35c753e7d1d45b5]: Commencement: [S. 93](https://www.legislation.gov.uk/asp/2014/16/section/93) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

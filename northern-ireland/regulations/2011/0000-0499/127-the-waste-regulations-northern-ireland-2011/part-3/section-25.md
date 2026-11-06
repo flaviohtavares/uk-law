@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 25. Radioactive waste[^key-c50ca657899dab2f289336d053628427]
+## 25. Radioactive waste[^c-c50ca657899dab2f289336d053628427]
 
 *Extent: N.I.*
 
@@ -31,7 +31,7 @@ summary: ''
 
 ## Annotations
 
-[^key-c50ca657899dab2f289336d053628427]: Commencement: Reg. 25 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
+[^c-c50ca657899dab2f289336d053628427]: Commencement: Reg. 25 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
 
 [^f00009]: Footnote: [1993 c. 12](https://www.legislation.gov.uk/ukpga/1993/12)
 

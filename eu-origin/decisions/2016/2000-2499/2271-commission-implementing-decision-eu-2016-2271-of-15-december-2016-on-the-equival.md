@@ -33,7 +33,7 @@ on the equivalence of financial instrument exchanges and commodity exchanges in 
 
 (Text with EEA relevance)
 
-[^key-3eb489fb9c67da670dbfa77afe794727]
+[^c-3eb489fb9c67da670dbfa77afe794727]
 
 THE EUROPEAN COMMISSION,
 
@@ -97,7 +97,7 @@ The measures provided for in this Decision are in accordance with the opinion of
 
 HAS ADOPTED THIS DECISION:
 
-**Article 1.** For the purposes of point (7) of Article 2 of Regulation (EU) No 648/2012 authorised financial instrument exchanges and commodity exchanges in Japan and set out in the Annex shall be considered as equivalent to UK regulated markets as defined in Article 2(1)(13A) of Regulation (EU) 600/2014 of 15 May 2014 on markets in financial instruments[^key-df27ef447be139d3a94d4efc9d1b0b51].
+**Article 1.** For the purposes of point (7) of Article 2 of Regulation (EU) No 648/2012 authorised financial instrument exchanges and commodity exchanges in Japan and set out in the Annex shall be considered as equivalent to UK regulated markets as defined in Article 2(1)(13A) of Regulation (EU) 600/2014 of 15 May 2014 on markets in financial instruments[^c-df27ef447be139d3a94d4efc9d1b0b51].
 
 **Article 2.** This Decision shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.
 
@@ -124,7 +124,7 @@ Financial instrument exchanges and commodity exchanges in Japan referred to in A
 
 ## Annotations
 
-[^key-3eb489fb9c67da670dbfa77afe794727]: Modification: Decision: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pts. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1), [3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-3eb489fb9c67da670dbfa77afe794727]: Modification: Decision: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pts. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1), [3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
 [^f00001]: Footnote: [OJ L 201, 27.7.2012, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2012.201.01.0001.01.ENG).
 
@@ -134,4 +134,4 @@ Financial instrument exchanges and commodity exchanges in Japan referred to in A
 
 [^f00004]: Footnote: Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Directive 2002/92/EC and Directive 2011/61/EU ([OJ L 173, 12.6.2014, p. 349](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2014.173.01.0349.01.ENG)).
 
-[^key-df27ef447be139d3a94d4efc9d1b0b51]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eudn/2016/2271/article/1) substituted (31.12.2020) by [The Equivalence Determinations for Financial Services and Miscellaneous Provisions (Amendment etc) (EU Exit) Regulations 2019 (S.I. 2019/541)](https://www.legislation.gov.uk/uksi/2019/541), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/541/regulation/1/2), [Sch. 2 para. 1(c)](https://www.legislation.gov.uk/uksi/2019/541/schedule/2/paragraph/1/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-df27ef447be139d3a94d4efc9d1b0b51]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eudn/2016/2271/article/1) substituted (31.12.2020) by [The Equivalence Determinations for Financial Services and Miscellaneous Provisions (Amendment etc) (EU Exit) Regulations 2019 (S.I. 2019/541)](https://www.legislation.gov.uk/uksi/2019/541), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/541/regulation/1/2), [Sch. 2 para. 1(c)](https://www.legislation.gov.uk/uksi/2019/541/schedule/2/paragraph/1/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41A. Prosecution of children under 12[^key-ce42152965454c2019f7396822986f8e]
+## 41A. Prosecution of children under 12[^c-ce42152965454c2019f7396822986f8e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ce42152965454c2019f7396822986f8e]: Textual amendment: S. 41A repealed (17.12.2021) by [Age of Criminal Responsibility (Scotland) Act 2019 (asp 7)](https://www.legislation.gov.uk/asp/2019/7), [ss. 2(1)](https://www.legislation.gov.uk/asp/2019/7/section/2/1), [84(2)](https://www.legislation.gov.uk/asp/2019/7/section/84/2) (with [s. 2(2)](https://www.legislation.gov.uk/asp/2019/7/section/2/2)); [S.S.I. 2021/449](https://www.legislation.gov.uk/ssi/2021/449), [reg. 2](https://www.legislation.gov.uk/ssi/2021/449/regulation/2)
+[^c-ce42152965454c2019f7396822986f8e]: Textual amendment: S. 41A repealed (17.12.2021) by [Age of Criminal Responsibility (Scotland) Act 2019 (asp 7)](https://www.legislation.gov.uk/asp/2019/7), [ss. 2(1)](https://www.legislation.gov.uk/asp/2019/7/section/2/1), [84(2)](https://www.legislation.gov.uk/asp/2019/7/section/84/2) (with [s. 2(2)](https://www.legislation.gov.uk/asp/2019/7/section/2/2)); [S.S.I. 2021/449](https://www.legislation.gov.uk/ssi/2021/449), [reg. 2](https://www.legislation.gov.uk/ssi/2021/449/regulation/2)

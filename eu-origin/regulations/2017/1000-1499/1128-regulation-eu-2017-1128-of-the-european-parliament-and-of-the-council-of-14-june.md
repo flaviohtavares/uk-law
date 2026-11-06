@@ -36,54 +36,54 @@ on cross-border portability of online content services in the internal market
 
 (Text with EEA relevance) (revoked)
 
-[^key-6e13b69c5afa9fcb4e2432c76f1829ea]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6e13b69c5afa9fcb4e2432c76f1829ea]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Subject matter and scope[^key-6e13b69c5afa9fcb4e2432c76f1829ea]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Definitions[^key-6e13b69c5afa9fcb4e2432c76f1829ea]
+## Article 1. Subject matter and scope[^c-6e13b69c5afa9fcb4e2432c76f1829ea]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Obligation to enable cross-border portability of online content services[^key-6e13b69c5afa9fcb4e2432c76f1829ea]
+## Article 2. Definitions[^c-6e13b69c5afa9fcb4e2432c76f1829ea]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Localisation of the provision of, access to and use of online content services[^key-6e13b69c5afa9fcb4e2432c76f1829ea]
+## Article 3. Obligation to enable cross-border portability of online content services[^c-6e13b69c5afa9fcb4e2432c76f1829ea]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Verification of the Member State of residence[^key-6e13b69c5afa9fcb4e2432c76f1829ea]
+## Article 4. Localisation of the provision of, access to and use of online content services[^c-6e13b69c5afa9fcb4e2432c76f1829ea]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Cross-border portability of online content services provided without payment of money[^key-6e13b69c5afa9fcb4e2432c76f1829ea]
+## Article 5. Verification of the Member State of residence[^c-6e13b69c5afa9fcb4e2432c76f1829ea]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Contractual provisions[^key-6e13b69c5afa9fcb4e2432c76f1829ea]
+## Article 6. Cross-border portability of online content services provided without payment of money[^c-6e13b69c5afa9fcb4e2432c76f1829ea]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Protection of personal data[^key-6e13b69c5afa9fcb4e2432c76f1829ea]
+## Article 7. Contractual provisions[^c-6e13b69c5afa9fcb4e2432c76f1829ea]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Application to existing contracts and rights acquired[^key-6e13b69c5afa9fcb4e2432c76f1829ea]
+## Article 8. Protection of personal data[^c-6e13b69c5afa9fcb4e2432c76f1829ea]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Review[^key-6e13b69c5afa9fcb4e2432c76f1829ea]
+## Article 9. Application to existing contracts and rights acquired[^c-6e13b69c5afa9fcb4e2432c76f1829ea]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 11. Final provisions[^key-6e13b69c5afa9fcb4e2432c76f1829ea]
+## Article 10. Review[^c-6e13b69c5afa9fcb4e2432c76f1829ea]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6e13b69c5afa9fcb4e2432c76f1829ea]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 11. Final provisions[^c-6e13b69c5afa9fcb4e2432c76f1829ea]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-6e13b69c5afa9fcb4e2432c76f1829ea]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6e13b69c5afa9fcb4e2432c76f1829ea]: Textual amendment: Regulation revoked (31.12.2020) by [The Intellectual Property (Copyright and Related Rights) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/605)](https://www.legislation.gov.uk/uksi/2019/605), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/1/2), [37](https://www.legislation.gov.uk/uksi/2019/605/regulation/37) (with [reg. 38](https://www.legislation.gov.uk/uksi/2019/605/regulation/38)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1050/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6e13b69c5afa9fcb4e2432c76f1829ea]: Textual amendment: Regulation revoked (31.12.2020) by [The Intellectual Property (Copyright and Related Rights) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/605)](https://www.legislation.gov.uk/uksi/2019/605), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/1/2), [37](https://www.legislation.gov.uk/uksi/2019/605/regulation/37) (with [reg. 38](https://www.legislation.gov.uk/uksi/2019/605/regulation/38)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1050/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 56. Financial Penalties[^key-6702d26412c6c7af754636528e790084]
+## 56. Financial Penalties[^c-6702d26412c6c7af754636528e790084]
 
 *Extent: N.I.*
 
@@ -29,12 +29,12 @@ summary: ''
 
 a penalty of such amount as is reasonable in all the circumstances of the case and Articles 45 to 50 of the Energy Order shall apply in relation to such an imposition as if for any reference to a licence holder therein there were a reference to the supply successor or distribution successor as appropriate.
 
-**57.**[^key-3af8ff035993ea933dde7028da9d00ca] (1) This regulation applies where, before the date regulation 6 comes into operation, the Authority has served a notice under Article 51(1) of the Energy Order on a public electricity supplier and the public electricity supplier has not satisfied the requirements set out in the notice.
+**57.**[^c-3af8ff035993ea933dde7028da9d00ca] (1) This regulation applies where, before the date regulation 6 comes into operation, the Authority has served a notice under Article 51(1) of the Energy Order on a public electricity supplier and the public electricity supplier has not satisfied the requirements set out in the notice.
 
 (2) On and after the date regulation 6 comes into operation the person on whom the notice is to be regarded as served shall be the supply successor (where the documents or information specified or described relate to supply) or the distribution successor (where the documents or information specified or described relate to distribution) or both the supply successor and distribution successor where the documents or information relate to both distribution and supply.
 
 ## Annotations
 
-[^key-6702d26412c6c7af754636528e790084]: Commencement: Reg. 56 in operation at 3.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/321/regulation/1/1)
+[^c-6702d26412c6c7af754636528e790084]: Commencement: Reg. 56 in operation at 3.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/321/regulation/1/1)
 
-[^key-3af8ff035993ea933dde7028da9d00ca]: Commencement: Reg. 57 in operation at 3.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/321/regulation/1/1)
+[^c-3af8ff035993ea933dde7028da9d00ca]: Commencement: Reg. 57 in operation at 3.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/321/regulation/1/1)

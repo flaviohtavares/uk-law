@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 73. Circumstances in which payment is to be made to a landlord or the Department of Finance and Personnel[^key-269e6f2c45e54658dbb7af92e4c9e26e]
+## 73. Circumstances in which payment is to be made to a landlord or the Department of Finance and Personnel[^c-269e6f2c45e54658dbb7af92e4c9e26e]
 
 *Extent: N.I.*
 
@@ -30,7 +30,7 @@ summary: ''
 - (a) the claimant had no entitlement to the whole or part of that rent allowance so paid to his landlord; and
 - (b) the overpayment of rent allowance resulting was recovered in whole or in part from that landlord.
 
-(2A)[^key-3c9eb2778cd198d81872c43166832f6a] In a case where—
+(2A)[^c-3c9eb2778cd198d81872c43166832f6a] In a case where—
 
 - (a) the Executive has determined a maximum rent (LHA) in accordance with regulation 14D; and
 - (b) the rent allowance exceeds the amount which the claimant is liable to pay his landlord by way of rent,
@@ -43,6 +43,6 @@ any payment of rent allowance made to a landlord pursuant to this regulation or 
 
 ## Annotations
 
-[^key-269e6f2c45e54658dbb7af92e4c9e26e]: Commencement: [Reg. 73](https://www.legislation.gov.uk/nisr/2006/406/regulation/73) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
+[^c-269e6f2c45e54658dbb7af92e4c9e26e]: Commencement: [Reg. 73](https://www.legislation.gov.uk/nisr/2006/406/regulation/73) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
 
-[^key-3c9eb2778cd198d81872c43166832f6a]: Textual amendment: [Reg. 73(2A)](https://www.legislation.gov.uk/nisr/2006/406/regulation/73/2A) inserted (with application in accordance with reg. 1(3) (4) of the amending Rule) by [The Housing Benefit (State Pension Credit) (Local Housing Allowance) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/102)](https://www.legislation.gov.uk/nisr/2008/102), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/102/regulation/1/1), [2(11)](https://www.legislation.gov.uk/nisr/2008/102/regulation/2/11)
+[^c-3c9eb2778cd198d81872c43166832f6a]: Textual amendment: [Reg. 73(2A)](https://www.legislation.gov.uk/nisr/2006/406/regulation/73/2A) inserted (with application in accordance with reg. 1(3) (4) of the amending Rule) by [The Housing Benefit (State Pension Credit) (Local Housing Allowance) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/102)](https://www.legislation.gov.uk/nisr/2008/102), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/102/regulation/1/1), [2(11)](https://www.legislation.gov.uk/nisr/2008/102/regulation/2/11)

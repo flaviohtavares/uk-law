@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 12A — Approved body requirements[^key-bf5367337093be1bd21ccd36aa3f615a]
+## SCHEDULE 12A — Approved body requirements[^c-bf5367337093be1bd21ccd36aa3f615a]
 
 *Extent: E+W+S*
 
@@ -49,4 +49,4 @@ Regulation 14
 
 ## Annotations
 
-[^key-bf5367337093be1bd21ccd36aa3f615a]: Textual amendment: [Sch. 12A](https://www.legislation.gov.uk/uksi/2001/1701/schedule/12A) inserted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 8 para. 26](https://www.legislation.gov.uk/uksi/2019/696/schedule/8/paragraph/26) (with [Sch. 8 para. 14](https://www.legislation.gov.uk/uksi/2019/696/schedule/8/paragraph/14)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bf5367337093be1bd21ccd36aa3f615a]: Textual amendment: [Sch. 12A](https://www.legislation.gov.uk/uksi/2001/1701/schedule/12A) inserted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 8 para. 26](https://www.legislation.gov.uk/uksi/2019/696/schedule/8/paragraph/26) (with [Sch. 8 para. 14](https://www.legislation.gov.uk/uksi/2019/696/schedule/8/paragraph/14)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

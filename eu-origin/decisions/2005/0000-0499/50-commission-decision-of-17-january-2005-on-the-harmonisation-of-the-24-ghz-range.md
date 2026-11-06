@@ -41,28 +41,28 @@ on the harmonisation of the 24 GHz range radio spectrum band for the time-limit
 
 (2005/50/EC) (revoked)
 
-[^key-2db22e5ea08daa3052695890a6d22760]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2db22e5ea08daa3052695890a6d22760]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-2db22e5ea08daa3052695890a6d22760] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-2db22e5ea08daa3052695890a6d22760] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-2db22e5ea08daa3052695890a6d22760] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-2db22e5ea08daa3052695890a6d22760] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-2db22e5ea08daa3052695890a6d22760] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-2db22e5ea08daa3052695890a6d22760] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-2db22e5ea08daa3052695890a6d22760] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-2db22e5ea08daa3052695890a6d22760] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-2db22e5ea08daa3052695890a6d22760] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-2db22e5ea08daa3052695890a6d22760] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-2db22e5ea08daa3052695890a6d22760] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-2db22e5ea08daa3052695890a6d22760] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 7.**[^key-2db22e5ea08daa3052695890a6d22760] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 7.**[^c-2db22e5ea08daa3052695890a6d22760] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 8.**[^key-2db22e5ea08daa3052695890a6d22760] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 8.**[^c-2db22e5ea08daa3052695890a6d22760] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX — Information required for monitoring the use of the 24 GHz range radio spectrum band by automotive short-range radar[^key-2db22e5ea08daa3052695890a6d22760]
+## ANNEX — Information required for monitoring the use of the 24 GHz range radio spectrum band by automotive short-range radar[^c-2db22e5ea08daa3052695890a6d22760]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2db22e5ea08daa3052695890a6d22760]: Textual amendment: Decision revoked (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2db22e5ea08daa3052695890a6d22760]: Textual amendment: Decision revoked (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

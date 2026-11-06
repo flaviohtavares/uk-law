@@ -60,7 +60,7 @@ These Regulations may be cited as the Credit Rating Agencies (Amendment) Regulat
 
 At the end of the definition of “Community judgment” in article 2(1) of the European Communities (Enforcement of Community Judgments) Order 1972 [^c20888641], insert “ or Article 36a or 36b of Regulation [(EC) No. 1060/2009](https://www.legislation.gov.uk/european/regulation/2009/1060) of the Parliament and of the Council of 16 September 2009 on credit rating agencies [^c20888651] ”.
 
-## 3. Amendment of the Capital Requirements Regulations 2006[^key-0729782d2ba4b75fd101d4158afce0bd]
+## 3. Amendment of the Capital Requirements Regulations 2006[^c-0729782d2ba4b75fd101d4158afce0bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -182,7 +182,7 @@ An Explanatory Memorandum is available alongside these Regulations on the Nation
 
 [^c20888651]: Marginal citation: OJ L 302, 17.11.2009, p. 1; [articles 36](https://www.legislation.gov.uk/uksi/2011/1435/article/36)a and 36b were inserted by article 1(18) of Regulation 513/2011 of 11 May 2011 of the European Parliament and the Council amending Regulation (EC) No. 1060/2009 on credit rating agencies, OJ L 145, 31.5.2011, p.30.
 
-[^key-0729782d2ba4b75fd101d4158afce0bd]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2011/1435/regulation/3) revoked (1.1.2014) by [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2013/3115/schedule/3)
+[^c-0729782d2ba4b75fd101d4158afce0bd]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2011/1435/regulation/3) revoked (1.1.2014) by [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2013/3115/schedule/3)
 
 [^c20888671]: Marginal citation: [S.I. 2010/906](https://www.legislation.gov.uk/uksi/2010/906).
 

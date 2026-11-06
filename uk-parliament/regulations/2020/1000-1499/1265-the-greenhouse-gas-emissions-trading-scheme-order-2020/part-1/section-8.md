@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Exempt non-commercial air transport operators[^key-dd6d5a72384b8bd1d2ce9469c794dd05]
+## 8. Exempt non-commercial air transport operators[^c-dd6d5a72384b8bd1d2ce9469c794dd05]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A non-commercial air transport operator is not an aircraft operator for the purp
 
 ## Annotations
 
-[^key-dd6d5a72384b8bd1d2ce9469c794dd05]: Commencement: Art. 8 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
+[^c-dd6d5a72384b8bd1d2ce9469c794dd05]: Commencement: Art. 8 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)

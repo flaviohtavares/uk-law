@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Fire precautions[^key-9d1bd2143d6452694b50fdd06d54b960]
+## 28. Fire precautions[^c-9d1bd2143d6452694b50fdd06d54b960]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9d1bd2143d6452694b50fdd06d54b960]: Commencement: Reg. 28 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
+[^c-9d1bd2143d6452694b50fdd06d54b960]: Commencement: Reg. 28 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
 
 [^f00013]: Footnote: [S.I. 2005/1541](https://www.legislation.gov.uk/uksi/2005/1541), to which there are amendments but none are relevant to these Regulations.

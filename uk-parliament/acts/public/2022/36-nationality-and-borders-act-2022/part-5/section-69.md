@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Part 5: interpretation[^key-6ab10b184cb6a45d2cca4a4a79e9b383][^key-c1a1d369f6bc6b68ec3b9bce7585019d]
+## 69. Part 5: interpretation[^c-6ab10b184cb6a45d2cca4a4a79e9b383][^c-c1a1d369f6bc6b68ec3b9bce7585019d]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6ab10b184cb6a45d2cca4a4a79e9b383]: Commencement: S. 69 in force at Royal Assent for specified purposes, see [s. 87(4)(h)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/4/h)
+[^c-6ab10b184cb6a45d2cca4a4a79e9b383]: Commencement: S. 69 in force at Royal Assent for specified purposes, see [s. 87(4)(h)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/4/h)
 
-[^key-c1a1d369f6bc6b68ec3b9bce7585019d]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2022/36/section/69) in force at 30.1.2023 in so far as not already in force by [S.I. 2023/33](https://www.legislation.gov.uk/uksi/2023/33), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2023/33/regulation/3/h)
+[^c-c1a1d369f6bc6b68ec3b9bce7585019d]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2022/36/section/69) in force at 30.1.2023 in so far as not already in force by [S.I. 2023/33](https://www.legislation.gov.uk/uksi/2023/33), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2023/33/regulation/3/h)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Use of information obtained[^key-ef0411625a7597660047e19cce3d35bd]
+## 22. Use of information obtained[^c-ef0411625a7597660047e19cce3d35bd]
 
 *Extent: E+W+S*
 
@@ -51,4 +51,4 @@ without the Secretary of State’s consent.
 
 ## Annotations
 
-[^key-ef0411625a7597660047e19cce3d35bd]: Commencement: S. 22 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-ef0411625a7597660047e19cce3d35bd]: Commencement: S. 22 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

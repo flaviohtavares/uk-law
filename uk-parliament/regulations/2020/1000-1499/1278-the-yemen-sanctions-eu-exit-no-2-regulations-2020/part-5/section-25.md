@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Financial services and funds relating to military goods and military technology[^key-798fbb78feb40e3a85c62e2efadd0c34][^key-f6606249a2e0db07a441808ce2293cef]
+## 25. Financial services and funds relating to military goods and military technology[^c-798fbb78feb40e3a85c62e2efadd0c34][^c-f6606249a2e0db07a441808ce2293cef]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-798fbb78feb40e3a85c62e2efadd0c34]: Commencement: Reg. 25 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/1/2)
+[^c-798fbb78feb40e3a85c62e2efadd0c34]: Commencement: Reg. 25 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/1/2)
 
-[^key-f6606249a2e0db07a441808ce2293cef]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2020/1278/regulation/25) in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 20(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/20/2)
+[^c-f6606249a2e0db07a441808ce2293cef]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2020/1278/regulation/25) in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 20(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/20/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 41. Fees for planning applications etc.[^key-6abae6a5d404eace11ebd42dc5d6fcc0]
+## 41. Fees for planning applications etc.[^c-6abae6a5d404eace11ebd42dc5d6fcc0]
 
 *Extent: S*
 
@@ -98,4 +98,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6abae6a5d404eace11ebd42dc5d6fcc0]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2019/13/section/41) in force at 1.12.2019 by [S.S.I. 2019/385](https://www.legislation.gov.uk/ssi/2019/385), [reg. 2](https://www.legislation.gov.uk/ssi/2019/385/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/385/schedule)
+[^c-6abae6a5d404eace11ebd42dc5d6fcc0]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2019/13/section/41) in force at 1.12.2019 by [S.S.I. 2019/385](https://www.legislation.gov.uk/ssi/2019/385), [reg. 2](https://www.legislation.gov.uk/ssi/2019/385/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/385/schedule)

@@ -31,7 +31,7 @@ Local Government, Planning and Land Act 1980
 
 An Act to relax controls over local and certain other authorities; to amend the law relating to the publication of information, the undertaking of works and the payment of allowances by local authorities and other bodies; to make further provision with respect to rates and to grants for local authorities and other persons and for controlling the expenditure of local authorities; to amend the law relating to planning; to make provision for a register of public land and the disposal of land on it; to repeal the Community Land Act 1975; to continue the Land Authority for Wales; to make further provision in relation to land compensation, development land, derelict land and public bodies’ acquisitions and disposals of land; to amend the law relating to town development and new towns; to provide for the establishment of corporations to regenerate urban areas; to make further provision in relation to gipsies and their caravan sites; to abolish the Clean Air Councils and certain restrictions on the Greater London Council; to empower certain further authorities to confer honorary distinctions; and for connected purposes.
 
-\[13th November 1980\][^c13861621][^c13861631][^c13861641][^c13861651][^key-f15b7766fb54e7dec7874e13ba0b619d][^key-220748337aa3fb148cca69342ebe02ec]
+\[13th November 1980\][^c13861621][^c13861631][^c13861641][^c13861651][^c-f15b7766fb54e7dec7874e13ba0b619d][^c-220748337aa3fb148cca69342ebe02ec]
 
 ## Contents
 
@@ -49,13 +49,13 @@ An Act to relax controls over local and certain other authorities; to amend the 
 - [Section 3 — Supplementary provisions relating to codes of practice on publication of information.](part-ii/section-3.md)
 - [Section 4 — Power to direct bodies to publish information.](part-ii/section-4.md)
 
-### Part III — Direct Labour Organisations[^key-3cfd9743523dc84ef239ea5ba3c220f3]
+### Part III — Direct Labour Organisations[^c-3cfd9743523dc84ef239ea5ba3c220f3]
 
 *Extent: E+W+S*
 
 **No longer in force.**
 
-#### Works Contracts[^key-3cfd9743523dc84ef239ea5ba3c220f3]
+#### Works Contracts[^c-3cfd9743523dc84ef239ea5ba3c220f3]
 
 *Extent: S*
 
@@ -65,7 +65,7 @@ An Act to relax controls over local and certain other authorities; to amend the 
 - [Section 6 — Regulation of works contracts.](part-iii/section-6.md)
 - [Section 7 — Limitations on power to enter into works contracts.](part-iii/section-7.md)
 
-#### Functional work[^key-3cfd9743523dc84ef239ea5ba3c220f3]
+#### Functional work[^c-3cfd9743523dc84ef239ea5ba3c220f3]
 
 *Extent: E+W+S*
 
@@ -74,7 +74,7 @@ An Act to relax controls over local and certain other authorities; to amend the 
 - [Section 8 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-iii/section-8.md)
 - [Section 9 — Regulation of functional work.](part-iii/section-9.md)
 
-#### Accounting Provisions[^key-3cfd9743523dc84ef239ea5ba3c220f3]
+#### Accounting Provisions[^c-3cfd9743523dc84ef239ea5ba3c220f3]
 
 *Extent: S*
 
@@ -86,7 +86,7 @@ An Act to relax controls over local and certain other authorities; to amend the 
 - [Section 13 — Annual balance sheet etc.](part-iii/section-13.md)
 - [Section 14 — Accounts under section 10 and other local authority accounts.](part-iii/section-14.md)
 
-#### Financial provisions[^key-3cfd9743523dc84ef239ea5ba3c220f3]
+#### Financial provisions[^c-3cfd9743523dc84ef239ea5ba3c220f3]
 
 *Extent: S*
 
@@ -96,7 +96,7 @@ An Act to relax controls over local and certain other authorities; to amend the 
 - [Section 16 — General financial duty: treatment of deficits.](part-iii/section-16.md)
 - [Section 17 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-iii/section-17.md)
 
-#### Supplementary[^key-3cfd9743523dc84ef239ea5ba3c220f3]
+#### Supplementary[^c-3cfd9743523dc84ef239ea5ba3c220f3]
 
 *Extent: S*
 
@@ -105,7 +105,7 @@ An Act to relax controls over local and certain other authorities; to amend the 
 - [Section 18 — Annual reports on construction or maintenance work.](part-iii/section-18.md)
 - [Section 19 — Application to joint commitees.](part-iii/section-19.md)
 
-#### Sanctions[^key-3cfd9743523dc84ef239ea5ba3c220f3]
+#### Sanctions[^c-3cfd9743523dc84ef239ea5ba3c220f3]
 
 *Extent: S*
 
@@ -114,7 +114,7 @@ An Act to relax controls over local and certain other authorities; to amend the 
 - [Section 19A — Notice for purpose of getting information.](part-iii/section-19a.md)
 - [Section 19B — Power to give directions.](part-iii/section-19b.md)
 
-#### General[^key-3cfd9743523dc84ef239ea5ba3c220f3]
+#### General[^c-3cfd9743523dc84ef239ea5ba3c220f3]
 
 *Extent: S*
 
@@ -160,13 +160,13 @@ An Act to relax controls over local and certain other authorities; to amend the 
 - [Section 46 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-v/section-46.md)
 - [Section 47 — Commencement and extent of Part V.](part-v/section-47.md)
 
-### Part VI — Rate Support Grant[^key-a19d7daea0a8fbdd3fdb0a665b17a2d9]
+### Part VI — Rate Support Grant[^c-a19d7daea0a8fbdd3fdb0a665b17a2d9]
 
 *Extent: E+W*
 
 **No longer in force.**
 
-#### Amendments relating to existing system of rate support grants[^key-a19d7daea0a8fbdd3fdb0a665b17a2d9]
+#### Amendments relating to existing system of rate support grants[^c-a19d7daea0a8fbdd3fdb0a665b17a2d9]
 
 **No longer in force.**
 
@@ -176,7 +176,7 @@ An Act to relax controls over local and certain other authorities; to amend the 
 - [Section 51 — Supplementary grants for transport purposes.](part-vi/section-51.md)
 - [Section 52 — Separate provision for Wales.](part-vi/section-52.md)
 
-#### New system of rate support grants[^key-a19d7daea0a8fbdd3fdb0a665b17a2d9]
+#### New system of rate support grants[^c-a19d7daea0a8fbdd3fdb0a665b17a2d9]
 
 **No longer in force.**
 
@@ -300,7 +300,7 @@ An Act to relax controls over local and certain other authorities; to amend the 
 - [Section 110 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-xii/section-110.md)
 - [Section 111 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-xii/section-111.md)
 
-### Part XIII — Land Compensation[^key-c834ea58dafc846e74b4e68540b0bbf2]
+### Part XIII — Land Compensation[^c-c834ea58dafc846e74b4e68540b0bbf2]
 
 *Extent: E+W+S*
 
@@ -309,7 +309,7 @@ An Act to relax controls over local and certain other authorities; to amend the 
 - [Section 114 — Claims for home loss payments.](part-xiii/section-114.md)
 - [Section 115 — Interpretation of Part XIII.](part-xiii/section-115.md)
 
-### Part XIV — Land—Miscellaneous[^key-c834ea58dafc846e74b4e68540b0bbf2]
+### Part XIV — Land—Miscellaneous[^c-c834ea58dafc846e74b4e68540b0bbf2]
 
 #### Development land
 
@@ -346,7 +346,7 @@ An Act to relax controls over local and certain other authorities; to amend the 
 
 - [Section 133 — Interpretation, amendments and extent.](part-xv/section-133.md)
 
-### Part XVI — Urban Development[^key-c45718096410f1a2f4af4297942d3c5a][^c13878271][^c13878281][^c13878291][^c13878301][^c13878311][^c13878321]
+### Part XVI — Urban Development[^c-c45718096410f1a2f4af4297942d3c5a][^c13878271][^c13878281][^c13878291][^c13878301][^c13878311][^c13878321]
 
 #### Urban development areas
 
@@ -367,13 +367,13 @@ An Act to relax controls over local and certain other authorities; to amend the 
 - [Section 139 — Allocation or transfer of functions.](part-xvi/section-139.md)
 - [Section 140 — Consultation with local authorities.](part-xvi/section-140.md)
 
-#### Transport functions relating to urban development areas in England[^key-d99e8910859d3fe9355b6fe88d3a2092]
+#### Transport functions relating to urban development areas in England[^c-d99e8910859d3fe9355b6fe88d3a2092]
 
 *Extent: E+W+S+N.I.*
 
 - [Section 140A — Exercise of transport functions](part-xvi/section-140a.md)
 
-#### Transfer schemes: general[^key-d99e8910859d3fe9355b6fe88d3a2092]
+#### Transfer schemes: general[^c-d99e8910859d3fe9355b6fe88d3a2092]
 
 - [Section 140B — Transfer schemes under sections 134 and 140A: general provisions](part-xvi/section-140b.md)
 
@@ -495,7 +495,7 @@ An Act to relax controls over local and certain other authorities; to amend the 
 - [Section 177 — Interpretation of Part XVII.](part-xvii/section-177.md)
 - [Section 178 — Commencement and extent of Part XVII.](part-xvii/section-178.md)
 
-### Part XVIII — Enterprise Zones[^key-3a418bdb9eb74c4f86ae2db078232d8e]
+### Part XVIII — Enterprise Zones[^c-3a418bdb9eb74c4f86ae2db078232d8e]
 
 *Extent: E+W+S*
 
@@ -597,17 +597,17 @@ SCHEDULES
 
     Act amended (1.4.1996) by [S.I. 1996/593](https://www.legislation.gov.uk/uksi/1996/593), [reg. 2](https://www.legislation.gov.uk/uksi/1996/593/regulation/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1996/593/schedule/1)
 
-[^key-f15b7766fb54e7dec7874e13ba0b619d]: Modification: Act applied (with modifications) (10.5.2021) by [The West Yorkshire Combined Authority (Election of Mayor and Functions) Order 2021 (S.I. 2021/112)](https://www.legislation.gov.uk/uksi/2021/112), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2021/112/article/1/4), [35(1)](https://www.legislation.gov.uk/uksi/2021/112/article/35/1)[(2)](https://www.legislation.gov.uk/uksi/2021/112/article/35/2), [Sch. 5 para. 5](https://www.legislation.gov.uk/uksi/2021/112/schedule/5/paragraph/5)
+[^c-f15b7766fb54e7dec7874e13ba0b619d]: Modification: Act applied (with modifications) (10.5.2021) by [The West Yorkshire Combined Authority (Election of Mayor and Functions) Order 2021 (S.I. 2021/112)](https://www.legislation.gov.uk/uksi/2021/112), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2021/112/article/1/4), [35(1)](https://www.legislation.gov.uk/uksi/2021/112/article/35/1)[(2)](https://www.legislation.gov.uk/uksi/2021/112/article/35/2), [Sch. 5 para. 5](https://www.legislation.gov.uk/uksi/2021/112/schedule/5/paragraph/5)
 
-[^key-220748337aa3fb148cca69342ebe02ec]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1980/65) applied (with modifications) (21.3.2024) by [The South Yorkshire Mayoral Combined Authority (Election of Mayor and Transfer of Police and Crime Commissioner Functions) Order 2024 (S.I. 2024/414)](https://www.legislation.gov.uk/uksi/2024/414), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/414/article/1/2), [5](https://www.legislation.gov.uk/uksi/2024/414/article/5), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2024/414/schedule/1/paragraph/5)
+[^c-220748337aa3fb148cca69342ebe02ec]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1980/65) applied (with modifications) (21.3.2024) by [The South Yorkshire Mayoral Combined Authority (Election of Mayor and Transfer of Police and Crime Commissioner Functions) Order 2024 (S.I. 2024/414)](https://www.legislation.gov.uk/uksi/2024/414), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/414/article/1/2), [5](https://www.legislation.gov.uk/uksi/2024/414/article/5), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2024/414/schedule/1/paragraph/5)
 
 [^c13861741]: Modification: Pt. II (ss. 2-4) applied (6.4.1995) (*temp.* until 1.4.1996) by [S.I. 1995/789](https://www.legislation.gov.uk/uksi/1995/789), [art. 2](https://www.legislation.gov.uk/uksi/1995/789/article/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/1995/789/schedule/paragraph/6)
 
-[^key-3cfd9743523dc84ef239ea5ba3c220f3]: Textual amendment: Pt. 3 repealed (E.W.) (with effect from 2.1.2000) by [1999 c. 27](https://www.legislation.gov.uk/ukpga/1999/27), [ss. 21(1)(a)](https://www.legislation.gov.uk/ukpga/1999/27/section/21/1/a), [34](https://www.legislation.gov.uk/ukpga/1999/27/section/34), [Sch. 2(1)](https://www.legislation.gov.uk/ukpga/1999/27/schedule/2/1), Note
+[^c-3cfd9743523dc84ef239ea5ba3c220f3]: Textual amendment: Pt. 3 repealed (E.W.) (with effect from 2.1.2000) by [1999 c. 27](https://www.legislation.gov.uk/ukpga/1999/27), [ss. 21(1)(a)](https://www.legislation.gov.uk/ukpga/1999/27/section/21/1/a), [34](https://www.legislation.gov.uk/ukpga/1999/27/section/34), [Sch. 2(1)](https://www.legislation.gov.uk/ukpga/1999/27/schedule/2/1), Note
 
     Pt. 3 repealed (S.) (1.4.2003) by [Local Government in Scotland Act 2003 (asp 1)](https://www.legislation.gov.uk/asp/2003/1), [ss. 60(1)(e)](https://www.legislation.gov.uk/asp/2003/1/section/60/1/e), [62(2)](https://www.legislation.gov.uk/asp/2003/1/section/62/2); [S.S.I. 2003/134](https://www.legislation.gov.uk/ssi/2003/134), [art. 2(1)](https://www.legislation.gov.uk/ssi/2003/134/article/2/1), [sch.](https://www.legislation.gov.uk/ssi/2003/134/schedule)
 
-[^key-a19d7daea0a8fbdd3fdb0a665b17a2d9]: Textual amendment: Pt. 6 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 2
+[^c-a19d7daea0a8fbdd3fdb0a665b17a2d9]: Textual amendment: Pt. 6 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 2
 
 [^c13874241]: Modification: [Pt. X](https://www.legislation.gov.uk/ukpga/1980/65/part/X) (ss. 93-100): power to apply conferred (1.9.1997) by [1997 c. 50](https://www.legislation.gov.uk/ukpga/1997/50), [s. 44(1)](https://www.legislation.gov.uk/ukpga/1997/50/section/44/1), [Sch. 4](https://www.legislation.gov.uk/ukpga/1997/50/schedule/4) para. (d)(ii); [S.I. 1997/1930](https://www.legislation.gov.uk/uksi/1997/1930), [art. 3](https://www.legislation.gov.uk/uksi/1997/1930/article/3)
 
@@ -619,9 +619,9 @@ SCHEDULES
 
 [^c13875811]: Modification: [Pt. XII](https://www.legislation.gov.uk/ukpga/1980/65/part/XII) (ss. 102–111), Pt. XVI (ss. 134–172) extended by [Electricity Act 1989 (c. 29, SIF 44:1)](https://www.legislation.gov.uk/ukpga/1989/29), [s. 112(1)](https://www.legislation.gov.uk/ukpga/1989/29/section/112/1), [Sch. 16 para. 1(1)(xxxiv)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/16/paragraph/1/1/xxxiv) (with [s. 112(3)](https://www.legislation.gov.uk/ukpga/1989/29/section/112/3), [Sch. 17 paras. 33](https://www.legislation.gov.uk/ukpga/1989/29/schedule/17/paragraph/33), [35(1)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/17/paragraph/35/1))
 
-[^key-c834ea58dafc846e74b4e68540b0bbf2]: Modification: [Pts. 13](https://www.legislation.gov.uk/ukpga/1980/65/part/13), [14](https://www.legislation.gov.uk/ukpga/1980/65/part/14): power to amend conferred (26.12.2023) by [Levelling Up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 132](https://www.legislation.gov.uk/ukpga/2023/55/section/132), [255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-c834ea58dafc846e74b4e68540b0bbf2]: Modification: [Pts. 13](https://www.legislation.gov.uk/ukpga/1980/65/part/13), [14](https://www.legislation.gov.uk/ukpga/1980/65/part/14): power to amend conferred (26.12.2023) by [Levelling Up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 132](https://www.legislation.gov.uk/ukpga/2023/55/section/132), [255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
-[^key-c45718096410f1a2f4af4297942d3c5a]: Modification: Pt. 16: power to amend conferred (26.12.2023) by [Levelling Up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 132](https://www.legislation.gov.uk/ukpga/2023/55/section/132), [255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-c45718096410f1a2f4af4297942d3c5a]: Modification: Pt. 16: power to amend conferred (26.12.2023) by [Levelling Up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 132](https://www.legislation.gov.uk/ukpga/2023/55/section/132), [255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
 [^c13878271]: Modification: Pt. 16 (ss. 134-172) extended (1.3.1996) by [1995 c. 45](https://www.legislation.gov.uk/ukpga/1995/45), [s. 16(1)](https://www.legislation.gov.uk/ukpga/1995/45/section/16/1), [Sch. 4 para. 2(1)(xxviii)](https://www.legislation.gov.uk/ukpga/1995/45/schedule/4/paragraph/2/1/xxviii); [S.I. 1996/218](https://www.legislation.gov.uk/uksi/1996/218), [art. 2](https://www.legislation.gov.uk/uksi/1996/218/article/2)
 
@@ -637,8 +637,8 @@ SCHEDULES
 
 [^c13878321]: Modification: Pt. 12 (ss. 102–111), Pt. 16 (ss. 134–172) extended by [Electricity Act 1989 (c. 29, SIF 44:1)](https://www.legislation.gov.uk/ukpga/1989/29), [s. 112(1)](https://www.legislation.gov.uk/ukpga/1989/29/section/112/1), [Sch. 16 para. 1(1)(xxxiv)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/16/paragraph/1/1/xxxiv) (with [s. 112(3)](https://www.legislation.gov.uk/ukpga/1989/29/section/112/3), [Sch. 17 paras. 33](https://www.legislation.gov.uk/ukpga/1989/29/schedule/17/paragraph/33), [35(1)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/17/paragraph/35/1))
 
-[^key-d99e8910859d3fe9355b6fe88d3a2092]: Textual amendment: Ss. 140A, 140B and cross-headings inserted (17.6.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 104(2)](https://www.legislation.gov.uk/ukpga/2025/34/section/104/2), [118(4)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/4) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2026/641](https://www.legislation.gov.uk/uksi/2026/641), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/641/regulation/2/b)
+[^c-d99e8910859d3fe9355b6fe88d3a2092]: Textual amendment: Ss. 140A, 140B and cross-headings inserted (17.6.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 104(2)](https://www.legislation.gov.uk/ukpga/2025/34/section/104/2), [118(4)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/4) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2026/641](https://www.legislation.gov.uk/uksi/2026/641), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/641/regulation/2/b)
 
 [^c13879951]: Textual amendment: Ss. 157, 157A, 157B and cross heading substituted (11.10.1993) for s. 157 by [1993 c. 28](https://www.legislation.gov.uk/ukpga/1993/28), [s.178](https://www.legislation.gov.uk/ukpga/1993/28/section/178); [S.I. 1993/2134](https://www.legislation.gov.uk/uksi/1993/2134), [art. 4(b)](https://www.legislation.gov.uk/uksi/1993/2134/article/4/b) (with [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/1993/2134/schedule/1/paragraph/8))
 
-[^key-3a418bdb9eb74c4f86ae2db078232d8e]: Modification: [Pt. 17](https://www.legislation.gov.uk/ukpga/1980/65/part/17): power to amend conferred (26.12.2023) by [Levelling Up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 132](https://www.legislation.gov.uk/ukpga/2023/55/section/132), [255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-3a418bdb9eb74c4f86ae2db078232d8e]: Modification: [Pt. 17](https://www.legislation.gov.uk/ukpga/1980/65/part/17): power to amend conferred (26.12.2023) by [Levelling Up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 132](https://www.legislation.gov.uk/ukpga/2023/55/section/132), [255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))

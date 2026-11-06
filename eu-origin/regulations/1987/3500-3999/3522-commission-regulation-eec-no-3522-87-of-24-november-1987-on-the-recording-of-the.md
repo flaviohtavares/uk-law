@@ -33,18 +33,18 @@ of 24 November 1987
 
 on the recording of the mode of transport in the statistics of trade between Member States (revoked)
 
-[^key-23102359b4d9c64f33237a7cabb4fd1a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-23102359b4d9c64f33237a7cabb4fd1a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-23102359b4d9c64f33237a7cabb4fd1a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-23102359b4d9c64f33237a7cabb4fd1a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-23102359b4d9c64f33237a7cabb4fd1a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-23102359b4d9c64f33237a7cabb4fd1a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-23102359b4d9c64f33237a7cabb4fd1a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-23102359b4d9c64f33237a7cabb4fd1a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-23102359b4d9c64f33237a7cabb4fd1a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-23102359b4d9c64f33237a7cabb4fd1a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-23102359b4d9c64f33237a7cabb4fd1a]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/8)
+[^c-23102359b4d9c64f33237a7cabb4fd1a]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/8)

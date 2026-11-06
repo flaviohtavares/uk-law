@@ -22,15 +22,15 @@ summary: ''
 
 Section 204
 
-**1.**[^key-8a3c32ff29f10c29ac46809f4755641c] Part 9 of ITEPA 2003 (pension income) is amended as follows.
+**1.**[^c-8a3c32ff29f10c29ac46809f4755641c] Part 9 of ITEPA 2003 (pension income) is amended as follows.
 
-**2.**[^key-8e0a725016acde652818ecfd6d02f9b7] In section 565 (structure of Part 9), for “Chapters 16 to 18 deal with” substitute—
+**2.**[^c-8e0a725016acde652818ecfd6d02f9b7] In section 565 (structure of Part 9), for “Chapters 16 to 18 deal with” substitute—
 
 > Chapter 15A makes provision about exemptions and charges in relation to lump sums under registered pension schemes; Chapters 17 and 18 deal with other
 
 .
 
-**3.**[^key-bf0131ea9f434aa3dd700df3b2f9e9f7] (1) Section 566(4) (nature of charge to tax on pension income) is amended as follows.
+**3.**[^c-bf0131ea9f434aa3dd700df3b2f9e9f7] (1) Section 566(4) (nature of charge to tax on pension income) is amended as follows.
 
 (2) For the entries relating to sections 580, 583, 590, 595, 598, 601 and 605 substitute—
 
@@ -47,11 +47,11 @@ Section 204
 > | Section 636B | Pensions treated as arising from payment of trivial commutation lump sums and winding-up lump sums under registered pension schemes | Chapter 15A |
 > | Section 636C | Pensions treated as arising from payment of trivial commutation lump sum death benefits and winding-up lump sum death benefits under registered pension schemes | Chapter 15A |
 
-**4.**[^key-02656cb03678cb386e66ab93f190b519] In section 567(4)(a) (amount charged to tax), for “15” substitute “ 15A ”.
+**4.**[^c-02656cb03678cb386e66ab93f190b519] In section 567(4)(a) (amount charged to tax), for “15” substitute “ 15A ”.
 
-**5.**[^key-aaca3c80900b6139086d1c06bee1e51e] In section 568 (person liable to tax), for “15” substitute “ 15A ”.
+**5.**[^c-aaca3c80900b6139086d1c06bee1e51e] In section 568 (person liable to tax), for “15” substitute “ 15A ”.
 
-**6.**[^key-f3339217c7f6966509de70c2c42b4c83] After Chapter 5 insert—
+**6.**[^c-f3339217c7f6966509de70c2c42b4c83] After Chapter 5 insert—
 
 > **Chapter 5A — PENSIONS UNDER REGISTERED PENSION SCHEMES**
 >
@@ -78,9 +78,9 @@ Section 204
 >
 > In paragraph (b) “**income withdrawal**”and “**dependants' income withdrawal**”have the meaning given by paragraphs 7 and 21 of Schedule 28 to FA 2004.
 
-**7.**[^key-37891f2e15595a1e44fbea4b13638b4b] Omit Chapters 6, 7, 8 and 9 (pensions under approved schemes).
+**7.**[^c-37891f2e15595a1e44fbea4b13638b4b] Omit Chapters 6, 7, 8 and 9 (pensions under approved schemes).
 
-**8.**[^key-2be6675c2846f0f35febf9b9f9c4c4e8] (1) Section 610 (annuities under sponsored superannuation schemes) is amended as follows.
+**8.**[^c-2be6675c2846f0f35febf9b9f9c4c4e8] (1) Section 610 (annuities under sponsored superannuation schemes) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -95,11 +95,11 @@ Section 204
 
 (5) In the heading, for “sponsored superannuation” substitute “ non-registered occupational pension ”.
 
-**9.**[^key-850b2b7b0afe8a3c8f98869f8a87b171] In section 611(3) (annuities in recognition of another’s service), for “any provision of Chapter 6, 7, 8 or 9” substitute “ Chapter 5A ”.
+**9.**[^c-850b2b7b0afe8a3c8f98869f8a87b171] In section 611(3) (annuities in recognition of another’s service), for “any provision of Chapter 6, 7, 8 or 9” substitute “ Chapter 5A ”.
 
-**10.**[^key-044d5a366507b55bac7a8db8a11d1131] Omit Chapter 13 (return of surplus additional voluntary contributions under exempt approved schemes and relevant statutory schemes).
+**10.**[^c-044d5a366507b55bac7a8db8a11d1131] Omit Chapter 13 (return of surplus additional voluntary contributions under exempt approved schemes and relevant statutory schemes).
 
-**11.**[^key-9329bd9f3d80da4870cdb1d61ceb7dc2] After Chapter 15 insert—
+**11.**[^c-9329bd9f3d80da4870cdb1d61ceb7dc2] After Chapter 15 insert—
 
 > **CHAPTER 15A — LUMP SUMS UNDER REGISTERED PENSION SCHEMES**
 >
@@ -126,7 +126,7 @@ Section 204
 >
 > is subject to income tax in accordance with section 206 of FA 2004 (charge to tax on scheme administrator in respect of such lump sum death benefits) but not otherwise.
 >
-> (4A)[^key-6ee7ca37d2cf128f2eda7744623ab3bc] In the case of a registered pension scheme which is a split scheme for the purposes of the Registered Pensions Schemes (Splitting of Schemes) Regulations 2006, subsections (3) and (4) shall have effect as if the references to the scheme administrator were to the sub-scheme administrator (within the meaning of those Regulations).
+> (4A)[^c-6ee7ca37d2cf128f2eda7744623ab3bc] In the case of a registered pension scheme which is a split scheme for the purposes of the Registered Pensions Schemes (Splitting of Schemes) Regulations 2006, subsections (3) and (4) shall have effect as if the references to the scheme administrator were to the sub-scheme administrator (within the meaning of those Regulations).
 >
 > (5) A lifetime allowance excess lump sum is chargeable to income tax in accordance with sections 214 to 226 of FA 2004 (lifetime allowance charge) but not otherwise.
 >
@@ -185,11 +185,11 @@ Section 204
 > - “**winding-up lump sum death benefit**”,
 > - have the same meaning as in section 168 of FA 2004 (see Part 2 of Schedule 29 to that Act).
 
-**12.**[^key-c8b0621a8cd1a7327902d99b6e78a5e5] Omit Chapter 16 (lump sums).
+**12.**[^c-c8b0621a8cd1a7327902d99b6e78a5e5] Omit Chapter 16 (lump sums).
 
-**13.**[^key-3b2562843254aa0ad0204cfd07558ad6] In section 644(2) (pensions to which section 580 or 590 applies not a disablement pension), for “580 or 590” substitute “ 579A ”.
+**13.**[^c-3b2562843254aa0ad0204cfd07558ad6] In section 644(2) (pensions to which section 580 or 590 applies not a disablement pension), for “580 or 590” substitute “ 579A ”.
 
-**14.**[^key-eb26a59327e59301f6e2c66a5871d165] (1) Section 683 of ITEPA 2003 (PAYE income) is amended as follows.
+**14.**[^c-eb26a59327e59301f6e2c66a5871d165] (1) Section 683 of ITEPA 2003 (PAYE income) is amended as follows.
 
 (2) In subsection (3), for the entries relating to sections 581, 584, 591, 596, 599 and 602 substitute— “ section 579B (pension under registered pension scheme), ”.
 
@@ -197,7 +197,7 @@ Section 204
 
 (4) Omit subsection (4).
 
-**15.**[^key-6bc92d248fc316bb7747ee3105a304cc] In Part 2 of Schedule 1 to ITEPA 2003 (index of defined expressions) insert at the appropriate place—
+**15.**[^c-6bc92d248fc316bb7747ee3105a304cc] In Part 2 of Schedule 1 to ITEPA 2003 (index of defined expressions) insert at the appropriate place—
 
 > |  |  |
 > | --- | --- |
@@ -207,34 +207,34 @@ Section 204
 
 ## Annotations
 
-[^key-8a3c32ff29f10c29ac46809f4755641c]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
+[^c-8a3c32ff29f10c29ac46809f4755641c]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
 
-[^key-8e0a725016acde652818ecfd6d02f9b7]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
+[^c-8e0a725016acde652818ecfd6d02f9b7]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
 
-[^key-bf0131ea9f434aa3dd700df3b2f9e9f7]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
+[^c-bf0131ea9f434aa3dd700df3b2f9e9f7]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
 
-[^key-02656cb03678cb386e66ab93f190b519]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
+[^c-02656cb03678cb386e66ab93f190b519]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
 
-[^key-aaca3c80900b6139086d1c06bee1e51e]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
+[^c-aaca3c80900b6139086d1c06bee1e51e]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
 
-[^key-f3339217c7f6966509de70c2c42b4c83]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
+[^c-f3339217c7f6966509de70c2c42b4c83]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
 
-[^key-37891f2e15595a1e44fbea4b13638b4b]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
+[^c-37891f2e15595a1e44fbea4b13638b4b]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
 
-[^key-2be6675c2846f0f35febf9b9f9c4c4e8]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
+[^c-2be6675c2846f0f35febf9b9f9c4c4e8]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
 
-[^key-850b2b7b0afe8a3c8f98869f8a87b171]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
+[^c-850b2b7b0afe8a3c8f98869f8a87b171]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
 
-[^key-044d5a366507b55bac7a8db8a11d1131]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
+[^c-044d5a366507b55bac7a8db8a11d1131]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
 
-[^key-9329bd9f3d80da4870cdb1d61ceb7dc2]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
+[^c-9329bd9f3d80da4870cdb1d61ceb7dc2]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
 
-[^key-6ee7ca37d2cf128f2eda7744623ab3bc]: Textual amendment: Words in Sch. 31 para. 11 inserted (6.4.2006) by [The Registered Pension Schemes (Splitting of Schemes) Regulations 2006 (S.I. 2006/569)](https://www.legislation.gov.uk/uksi/2006/569), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/569/regulation/1/1), [5(1)](https://www.legislation.gov.uk/uksi/2006/569/regulation/5/1)[(2)](https://www.legislation.gov.uk/uksi/2006/569/regulation/5/2)
+[^c-6ee7ca37d2cf128f2eda7744623ab3bc]: Textual amendment: Words in Sch. 31 para. 11 inserted (6.4.2006) by [The Registered Pension Schemes (Splitting of Schemes) Regulations 2006 (S.I. 2006/569)](https://www.legislation.gov.uk/uksi/2006/569), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/569/regulation/1/1), [5(1)](https://www.legislation.gov.uk/uksi/2006/569/regulation/5/1)[(2)](https://www.legislation.gov.uk/uksi/2006/569/regulation/5/2)
 
-[^key-c8b0621a8cd1a7327902d99b6e78a5e5]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
+[^c-c8b0621a8cd1a7327902d99b6e78a5e5]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
 
-[^key-3b2562843254aa0ad0204cfd07558ad6]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
+[^c-3b2562843254aa0ad0204cfd07558ad6]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
 
-[^key-eb26a59327e59301f6e2c66a5871d165]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
+[^c-eb26a59327e59301f6e2c66a5871d165]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
 
-[^key-6bc92d248fc316bb7747ee3105a304cc]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
+[^c-6bc92d248fc316bb7747ee3105a304cc]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284

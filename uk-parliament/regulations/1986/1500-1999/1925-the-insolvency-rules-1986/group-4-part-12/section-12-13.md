@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12.13. Confidentiality of documents[^key-b774ddcfe77745c1bfb50b9b5b531d8d]
+## 12.13. Confidentiality of documents[^c-b774ddcfe77745c1bfb50b9b5b531d8d]
 
 *Extent: E+W*
 
@@ -31,10 +31,10 @@ he may decline to allow it to be inspected by a person who would otherwise be en
 
 (3) Where under this Rule the insolvency practitioner determines to refuse inspection of a document, the person wishing to inspect it may apply to the court for that determination to be overruled; and the court may either overrule it altogether, or sustain it subject to such conditions (if any) as it thinks fit to impose.
 
-(4)[^key-bf184f2bc07b761434eef5a74e5d22c0] Nothing in this Rule entitles the insolvency practitioner to decline to allow the inspection of any proof or proxy.
+(4)[^c-bf184f2bc07b761434eef5a74e5d22c0] Nothing in this Rule entitles the insolvency practitioner to decline to allow the inspection of any proof or proxy.
 
 ## Annotations
 
-[^key-b774ddcfe77745c1bfb50b9b5b531d8d]: Commencement: [Rule 12.13](https://www.legislation.gov.uk/uksi/1986/1925/rule/12.13) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-b774ddcfe77745c1bfb50b9b5b531d8d]: Commencement: [Rule 12.13](https://www.legislation.gov.uk/uksi/1986/1925/rule/12.13) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
-[^key-bf184f2bc07b761434eef5a74e5d22c0]: Textual amendment: [Rule 12.13(4)](https://www.legislation.gov.uk/uksi/1986/1925/article/12.13/4) added (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 148](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/148)
+[^c-bf184f2bc07b761434eef5a74e5d22c0]: Textual amendment: [Rule 12.13(4)](https://www.legislation.gov.uk/uksi/1986/1925/article/12.13/4) added (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 148](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/148)

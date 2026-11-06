@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. Requirements in connection with establishment of EPB[^key-23ffa9ab8d84523d2985bc1229115c5d]
+## 99. Requirements in connection with establishment of EPB[^c-23ffa9ab8d84523d2985bc1229115c5d]
 
 *Extent: E+W*
 
@@ -35,7 +35,7 @@ summary: ''
 - (a) a county council is an appropriate authority if the area of the county council, or part of that area, is within the area for which the EPB is to be established;
 - (b) a district council is an appropriate authority if the area of the district council is within the area for which the EPB is to be established.
 
-(3A)[^key-bdc0268a72047ffaf5fa534013fc5e15] Subsection (3B) applies where the Secretary of State is considering whether to make an order establishing an EPB for an area and—
+(3A)[^c-bdc0268a72047ffaf5fa534013fc5e15] Subsection (3B) applies where the Secretary of State is considering whether to make an order establishing an EPB for an area and—
 
 - (a) part of the area is separated from the rest of it by one or more local government areas that are not within the area, or
 - (b) a local government area that is not within the area is surrounded by local government areas that are within the area.
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-23ffa9ab8d84523d2985bc1229115c5d]: Commencement: S. 99 in force at 17.12.2009 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/3318/article/2/a)
+[^c-23ffa9ab8d84523d2985bc1229115c5d]: Commencement: S. 99 in force at 17.12.2009 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/3318/article/2/a)
 
-[^key-bdc0268a72047ffaf5fa534013fc5e15]: Textual amendment: [S. 99(3A)](https://www.legislation.gov.uk/ukpga/2009/20/section/99/3A)[(3B)](https://www.legislation.gov.uk/ukpga/2009/20/section/99/3B) inserted (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [ss. 11(5)](https://www.legislation.gov.uk/ukpga/2016/1/section/11/5), [25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2)
+[^c-bdc0268a72047ffaf5fa534013fc5e15]: Textual amendment: [S. 99(3A)](https://www.legislation.gov.uk/ukpga/2009/20/section/99/3A)[(3B)](https://www.legislation.gov.uk/ukpga/2009/20/section/99/3B) inserted (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [ss. 11(5)](https://www.legislation.gov.uk/ukpga/2016/1/section/11/5), [25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2)

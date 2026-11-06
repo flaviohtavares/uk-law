@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26A. Exceptions to section 31A[^key-2bd2ef377fdf0eb7f845eda271f6a24e]
+## 26A. Exceptions to section 31A[^c-2bd2ef377fdf0eb7f845eda271f6a24e]
 
 *Extent: E+W+S+N.I.*
 
 (1) The requirements prescribed for the purposes of the first condition in section 31B of the 1994 Act are whichever are applicable in the circumstances of the requirements specified in—
 
 - (a) regulation 20(5) (surrender or destruction of registration document for damaged vehicle), in so far as it requires surrender of the registration document,
-- (b)[^key-544bfaa1e2df33317e2edeb72eef1601] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-544bfaa1e2df33317e2edeb72eef1601] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) regulation 22(2)(b) (delivery of remainder of registration document to the Secretary of State),
 - (d) regulation 23(2) (notifying the Secretary of State when the transfer is to a vehicle trader),
 - (e) regulation 24(5) (vehicle trader notifying the Secretary of State of a transfer), and
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2bd2ef377fdf0eb7f845eda271f6a24e]: Textual amendment: Reg. 26A inserted (19.12.2003) by [The Road Vehicles (Registration and Licensing) (Amendment) (No. 4) Regulations 2003 (S.I. 2003/3073)](https://www.legislation.gov.uk/uksi/2003/3073), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2003/3073/regulation/1/1/a), [6](https://www.legislation.gov.uk/uksi/2003/3073/regulation/6)
+[^c-2bd2ef377fdf0eb7f845eda271f6a24e]: Textual amendment: Reg. 26A inserted (19.12.2003) by [The Road Vehicles (Registration and Licensing) (Amendment) (No. 4) Regulations 2003 (S.I. 2003/3073)](https://www.legislation.gov.uk/uksi/2003/3073), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2003/3073/regulation/1/1/a), [6](https://www.legislation.gov.uk/uksi/2003/3073/regulation/6)
 
-[^key-544bfaa1e2df33317e2edeb72eef1601]: Textual amendment: Reg. 26A(1)(b) revoked (1.7.2005) by [The Road Vehicles (Registration and Licensing) (Amendment) (No. 4) Regulations 2003 (S.I. 2003/3073)](https://www.legislation.gov.uk/uksi/2003/3073), [regs. 1(1)(e)](https://www.legislation.gov.uk/uksi/2003/3073/regulation/1/1/e), [8(d)](https://www.legislation.gov.uk/uksi/2003/3073/regulation/8/d)
+[^c-544bfaa1e2df33317e2edeb72eef1601]: Textual amendment: Reg. 26A(1)(b) revoked (1.7.2005) by [The Road Vehicles (Registration and Licensing) (Amendment) (No. 4) Regulations 2003 (S.I. 2003/3073)](https://www.legislation.gov.uk/uksi/2003/3073), [regs. 1(1)(e)](https://www.legislation.gov.uk/uksi/2003/3073/regulation/1/1/e), [8(d)](https://www.legislation.gov.uk/uksi/2003/3073/regulation/8/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 115. Interpretation[^key-a3bfff6aa51ccd46aea2dee5f67e9abc]
+## 115. Interpretation[^c-a3bfff6aa51ccd46aea2dee5f67e9abc]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ In this Part, “amount set aside” means any amount for the time being set asi
 
 ## Annotations
 
-[^key-a3bfff6aa51ccd46aea2dee5f67e9abc]: Commencement: Reg. 115 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-a3bfff6aa51ccd46aea2dee5f67e9abc]: Commencement: Reg. 115 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

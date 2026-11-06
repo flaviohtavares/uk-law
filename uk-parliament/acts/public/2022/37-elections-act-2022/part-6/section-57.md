@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Proceedings for an offence under this Part[^key-55ec8a1074f371b87164c5c066d8fa75][^key-a5a3ba43ee667f0ede3337d33b825641]
+## 57. Proceedings for an offence under this Part[^c-55ec8a1074f371b87164c5c066d8fa75][^c-a5a3ba43ee667f0ede3337d33b825641]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,6 +61,6 @@ summary: ''
 
 ## Annotations
 
-[^key-55ec8a1074f371b87164c5c066d8fa75]: Commencement: S. 57 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-55ec8a1074f371b87164c5c066d8fa75]: Commencement: S. 57 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-a5a3ba43ee667f0ede3337d33b825641]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2022/37/section/57) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/f) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/10))
+[^c-a5a3ba43ee667f0ede3337d33b825641]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2022/37/section/57) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/f) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/10))

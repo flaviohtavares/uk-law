@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## A3. Obtaining a moratorium by filing or lodging documents at court[^key-2d593eae2f3cccb39a2961eef842bf2c][^M_C_67fcc299-b0ac-46eb-da30-a9cf28a687cb][^M_C_6816e319-0f1f-43f0-e8f0-2eafcc6f7b4e]
+## A3. Obtaining a moratorium by filing or lodging documents at court[^c-2d593eae2f3cccb39a2961eef842bf2c][^M_C_67fcc299-b0ac-46eb-da30-a9cf28a687cb][^M_C_6816e319-0f1f-43f0-e8f0-2eafcc6f7b4e]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,7 +34,7 @@ summary: ''
 
 ## Annotations
 
-[^key-2d593eae2f3cccb39a2961eef842bf2c]: Textual amendment: Pt. A1 inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/1/1), [49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-2d593eae2f3cccb39a2961eef842bf2c]: Textual amendment: Pt. A1 inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/1/1), [49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
 
 [^M_C_67fcc299-b0ac-46eb-da30-a9cf28a687cb]: Modification: S. A3 modified (temp.) (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2020/12/schedule/4/paragraph/5) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2020/12/schedule/4/paragraph/1))
 

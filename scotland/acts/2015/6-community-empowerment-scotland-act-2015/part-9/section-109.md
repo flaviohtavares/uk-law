@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 109. Request to lease allotment[^key-3db406f1f34daabd14c3bc6ddcf33fbc]
+## 109. Request to lease allotment[^c-3db406f1f34daabd14c3bc6ddcf33fbc]
 
 *Extent: S*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3db406f1f34daabd14c3bc6ddcf33fbc]: Commencement: [S. 109](https://www.legislation.gov.uk/asp/2015/6/section/109) in force at 1.4.2018 by [S.S.I. 2017/458](https://www.legislation.gov.uk/ssi/2017/458), [art. 2](https://www.legislation.gov.uk/ssi/2017/458/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/458/schedule) (with [arts. 12](https://www.legislation.gov.uk/ssi/2017/458/article/12), [14](https://www.legislation.gov.uk/ssi/2017/458/article/14))
+[^c-3db406f1f34daabd14c3bc6ddcf33fbc]: Commencement: [S. 109](https://www.legislation.gov.uk/asp/2015/6/section/109) in force at 1.4.2018 by [S.S.I. 2017/458](https://www.legislation.gov.uk/ssi/2017/458), [art. 2](https://www.legislation.gov.uk/ssi/2017/458/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/458/schedule) (with [arts. 12](https://www.legislation.gov.uk/ssi/2017/458/article/12), [14](https://www.legislation.gov.uk/ssi/2017/458/article/14))

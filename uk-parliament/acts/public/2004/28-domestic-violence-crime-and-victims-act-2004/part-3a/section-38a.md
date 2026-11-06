@@ -31,7 +31,7 @@ summary: ''
 - (e) if a community treatment order in respect of the patient is to cease to be in force, of the date on which it is to cease to be in force;
 - (f) if, following the examination of the patient under section 20 of the Mental Health Act 1983, it does not appear to the responsible clinician that the conditions set out in subsection (4) of that section are satisfied, of the date on which the authority for the patient's detention is to expire.
 
-(3)[^key-1a67947eda6fe683dd76a9ad28e9ae44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-1a67947eda6fe683dd76a9ad28e9ae44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Subsection (5) applies if—
 
@@ -62,6 +62,6 @@ summary: ''
 
 [^c21154261]: Textual amendment: Ss. 38A, 38B inserted (3.11.2008) by [Mental Health Act 2007 (c. 12)](https://www.legislation.gov.uk/ukpga/2007/12), [ss. 48](https://www.legislation.gov.uk/ukpga/2007/12/section/48), [56(1)](https://www.legislation.gov.uk/ukpga/2007/12/section/56/1), [Sch. 6 para. 7](https://www.legislation.gov.uk/ukpga/2007/12/schedule/6/paragraph/7) (as amended by [S.I. 2008/912](https://www.legislation.gov.uk/uksi/2008/912), [Sch. 1 para. 24(2)(b)](https://www.legislation.gov.uk/uksi/2008/912/schedule/1/paragraph/24/2/b)) (with s. 50(8)-(13)); [S.I. 2008/1900](https://www.legislation.gov.uk/uksi/2008/1900), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/1900/article/1/1), [2(o)](https://www.legislation.gov.uk/uksi/2008/1900/article/2/o) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/1900/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2008/1900/schedule))
 
-[^key-1a67947eda6fe683dd76a9ad28e9ae44]: Textual amendment: S. 38A(3) omitted (1.7.2012) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 39(4)(e)(i)](https://www.legislation.gov.uk/ukpga/2012/7/section/39/4/e/i), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/3)
+[^c-1a67947eda6fe683dd76a9ad28e9ae44]: Textual amendment: S. 38A(3) omitted (1.7.2012) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 39(4)(e)(i)](https://www.legislation.gov.uk/ukpga/2012/7/section/39/4/e/i), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/3)
 
 [^c21156871]: Textual amendment: Words in s. 38A(4)(a)-(c) substituted (3.11.2008) by [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1), [9(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/9/1), [Sch. 3 para. 208](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/208)

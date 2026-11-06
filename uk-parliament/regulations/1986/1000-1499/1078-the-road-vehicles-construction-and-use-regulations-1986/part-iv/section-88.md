@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 88. Use of bridging plates between motor vehicle and trailer[^key-44f67342b512434d2ef37f6f4bc4ad4c]
+## 88. Use of bridging plates between motor vehicle and trailer[^c-44f67342b512434d2ef37f6f4bc4ad4c]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-44f67342b512434d2ef37f6f4bc4ad4c]: Textual amendment: [Reg. 88](https://www.legislation.gov.uk/uksi/1986/1078/regulation/88) revoked (1.11.1998) by [The Road Vehicles (Construction and Use) (Amendment) (No. 6) Regulations 1998 (S.I. 1998/2429)](https://www.legislation.gov.uk/uksi/1998/2429), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2429/regulation/1), [7](https://www.legislation.gov.uk/uksi/1998/2429/regulation/7)
+[^c-44f67342b512434d2ef37f6f4bc4ad4c]: Textual amendment: [Reg. 88](https://www.legislation.gov.uk/uksi/1986/1078/regulation/88) revoked (1.11.1998) by [The Road Vehicles (Construction and Use) (Amendment) (No. 6) Regulations 1998 (S.I. 1998/2429)](https://www.legislation.gov.uk/uksi/1998/2429), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2429/regulation/1), [7](https://www.legislation.gov.uk/uksi/1998/2429/regulation/7)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## A13. Interpretation of Part 3[^key-06c5e2203a65c7f1874d08c512025b54]
+## A13. Interpretation of Part 3[^c-06c5e2203a65c7f1874d08c512025b54]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-06c5e2203a65c7f1874d08c512025b54]: Textual amendment: [Reg. A13](https://www.legislation.gov.uk/uksi/1995/2518/regulation/A13) omitted (1.1.2013) by virtue of [The Value Added Tax (Amendment) (No. 3) Regulations 2012 (S.I. 2012/2951)](https://www.legislation.gov.uk/uksi/2012/2951), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2951/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2012/2951/regulation/2/2)
+[^c-06c5e2203a65c7f1874d08c512025b54]: Textual amendment: [Reg. A13](https://www.legislation.gov.uk/uksi/1995/2518/regulation/A13) omitted (1.1.2013) by virtue of [The Value Added Tax (Amendment) (No. 3) Regulations 2012 (S.I. 2012/2951)](https://www.legislation.gov.uk/uksi/2012/2951), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2951/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2012/2951/regulation/2/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 214. Offences regarding indecent photographs of children: OFCOM defence[^key-1de6838e9fa80b352e7288fd35204861]
+## 214. Offences regarding indecent photographs of children: OFCOM defence[^c-1de6838e9fa80b352e7288fd35204861]
 
 *Extent: E+W+S+N.I.*
 
@@ -79,4 +79,4 @@ Northern Ireland
 
 ## Annotations
 
-[^key-1de6838e9fa80b352e7288fd35204861]: Commencement: S. 214 in force at Royal Assent, see [s. 240(z2)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/z2)
+[^c-1de6838e9fa80b352e7288fd35204861]: Commencement: S. 214 in force at Royal Assent, see [s. 240(z2)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/z2)

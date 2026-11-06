@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6I. Review of section 1(1)(d) and (e) and sections 6(1A), 6B and 6D[^key-12abfe526f19a786bbd477386da3d8dc]
+## 6I. Review of section 1(1)(d) and (e) and sections 6(1A), 6B and 6D[^c-12abfe526f19a786bbd477386da3d8dc]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-12abfe526f19a786bbd477386da3d8dc]: Textual amendment: S. 6I inserted (26.3.2021) by [Human Tissue (Authorisation) (Scotland) Act 2019 (asp 11)](https://www.legislation.gov.uk/asp/2019/11), [ss. 12](https://www.legislation.gov.uk/asp/2019/11/section/12), [29(2)](https://www.legislation.gov.uk/asp/2019/11/section/29/2); [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
+[^c-12abfe526f19a786bbd477386da3d8dc]: Textual amendment: S. 6I inserted (26.3.2021) by [Human Tissue (Authorisation) (Scotland) Act 2019 (asp 11)](https://www.legislation.gov.uk/asp/2019/11), [ss. 12](https://www.legislation.gov.uk/asp/2019/11/section/12), [29(2)](https://www.legislation.gov.uk/asp/2019/11/section/29/2); [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)

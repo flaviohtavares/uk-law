@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34.[^key-231b0b242c8a2b55f7921cfbc988a299]
+## 34.[^c-231b0b242c8a2b55f7921cfbc988a299]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ In Article 222—
 
 ## Annotations
 
-[^key-231b0b242c8a2b55f7921cfbc988a299]: Commencement: Reg. 34 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(4)(a)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/4/a)
+[^c-231b0b242c8a2b55f7921cfbc988a299]: Commencement: Reg. 34 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(4)(a)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/4/a)
 
 [^c23706581]: Marginal citation: [1998 c. 41](https://www.legislation.gov.uk/ukpga/1998/41).

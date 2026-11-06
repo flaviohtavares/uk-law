@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 135. Procedure on an investigation by the Pensions Ombudsman[^key-d5b2732dfbcc46377f9d7dd439b6927f]
+## 135. Procedure on an investigation by the Pensions Ombudsman[^c-d5b2732dfbcc46377f9d7dd439b6927f]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ In section 145(6) of the Pension Schemes (Northern Ireland) Act 1993 (procedure 
 
 ## Annotations
 
-[^key-d5b2732dfbcc46377f9d7dd439b6927f]: Commencement: Art. 135 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-d5b2732dfbcc46377f9d7dd439b6927f]: Commencement: Art. 135 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

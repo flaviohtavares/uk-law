@@ -35,7 +35,7 @@ This is subject to paragraph (6).
 
 (4) If—
 
-- (a) a person who is an active member ceases to be employed in the employment that qualifies the person to belong to this Section of[^key-24f73ff816153d7f563837ae3d01ab9d] the Scheme and becomes a deferred member, but not a pensioner member, in respect of the service in that employment, and
+- (a) a person who is an active member ceases to be employed in the employment that qualifies the person to belong to this Section of[^c-24f73ff816153d7f563837ae3d01ab9d] the Scheme and becomes a deferred member, but not a pensioner member, in respect of the service in that employment, and
 - (b) after a period not exceeding 12 months the person becomes employed again in such an employment and becomes an active member again in that employment,
 
 qualifying service in the earlier employment is treated as a single continuous period of qualifying service with that in the later employment.
@@ -51,10 +51,10 @@ qualifying service in the earlier period of active membership is treated as a si
 
 This is subject to paragraph (6).
 
-(6) Where[^key-61d2a137ed125c0600b724d1281bd8bb]—
+(6) Where[^c-61d2a137ed125c0600b724d1281bd8bb]—
 
-- (a) the person has received a repayment of contributions under regulation 2.C.18 in respect of the earlier period , paragraphs (4) and (5) do not apply[^key-ce23fab099781e41e09e379783ecf8d1] (but see paragraph (7)), or
-- (b) the person’s rights under this Section of the Scheme in respect of that period have been extinguished under regulation 2.F.7 because a transfer value payment has been made , paragraphs (2), (4) and (5) do not apply[^key-395b6cc04e2b8998f5e9938e4c35e53b].
+- (a) the person has received a repayment of contributions under regulation 2.C.18 in respect of the earlier period , paragraphs (4) and (5) do not apply[^c-ce23fab099781e41e09e379783ecf8d1] (but see paragraph (7)), or
+- (b) the person’s rights under this Section of the Scheme in respect of that period have been extinguished under regulation 2.F.7 because a transfer value payment has been made , paragraphs (2), (4) and (5) do not apply[^c-395b6cc04e2b8998f5e9938e4c35e53b].
 
 (7) Paragraph (6)(a) does not apply if the person repays to the Secretary of State any contributions repaid to the person as mentioned in that paragraph together with any interest on those contributions, before the expiry of the period of 6 months beginning with the date on which the member becomes a member again.
 
@@ -67,10 +67,10 @@ the period of pensionable service in respect of which the member is a deferred m
 
 ## Annotations
 
-[^key-24f73ff816153d7f563837ae3d01ab9d]: Textual amendment: Words in [reg. 2.A.6](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.A.6) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2009/2446/schedule/2/paragraph/1)
+[^c-24f73ff816153d7f563837ae3d01ab9d]: Textual amendment: Words in [reg. 2.A.6](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.A.6) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2009/2446/schedule/2/paragraph/1)
 
-[^key-61d2a137ed125c0600b724d1281bd8bb]: Textual amendment: Word in [reg. 2.A.6(6)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.A.6/6) substituted (with effect from 1.4.2008) by [The National Health Service Pension Scheme, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2013 (S.I. 2013/413)](https://www.legislation.gov.uk/uksi/2013/413), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/413/regulation/1/2)[(4)](https://www.legislation.gov.uk/uksi/2013/413/regulation/1/4), [26(a)](https://www.legislation.gov.uk/uksi/2013/413/regulation/26/a)
+[^c-61d2a137ed125c0600b724d1281bd8bb]: Textual amendment: Word in [reg. 2.A.6(6)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.A.6/6) substituted (with effect from 1.4.2008) by [The National Health Service Pension Scheme, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2013 (S.I. 2013/413)](https://www.legislation.gov.uk/uksi/2013/413), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/413/regulation/1/2)[(4)](https://www.legislation.gov.uk/uksi/2013/413/regulation/1/4), [26(a)](https://www.legislation.gov.uk/uksi/2013/413/regulation/26/a)
 
-[^key-ce23fab099781e41e09e379783ecf8d1]: Textual amendment: Words in [reg. 2.A.6(6)(a)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.A.6/6/a) inserted (with effect from 1.4.2008) by [The National Health Service Pension Scheme, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2013 (S.I. 2013/413)](https://www.legislation.gov.uk/uksi/2013/413), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/413/regulation/1/2)[(4)](https://www.legislation.gov.uk/uksi/2013/413/regulation/1/4), [26(b)](https://www.legislation.gov.uk/uksi/2013/413/regulation/26/b)
+[^c-ce23fab099781e41e09e379783ecf8d1]: Textual amendment: Words in [reg. 2.A.6(6)(a)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.A.6/6/a) inserted (with effect from 1.4.2008) by [The National Health Service Pension Scheme, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2013 (S.I. 2013/413)](https://www.legislation.gov.uk/uksi/2013/413), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/413/regulation/1/2)[(4)](https://www.legislation.gov.uk/uksi/2013/413/regulation/1/4), [26(b)](https://www.legislation.gov.uk/uksi/2013/413/regulation/26/b)
 
-[^key-395b6cc04e2b8998f5e9938e4c35e53b]: Textual amendment: Words in [reg. 2.A.6(6)(b)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.A.6/6/b) added (with effect from 1.4.2008) by [The National Health Service Pension Scheme, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2013 (S.I. 2013/413)](https://www.legislation.gov.uk/uksi/2013/413), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/413/regulation/1/2)[(4)](https://www.legislation.gov.uk/uksi/2013/413/regulation/1/4), [26(c)](https://www.legislation.gov.uk/uksi/2013/413/regulation/26/c)
+[^c-395b6cc04e2b8998f5e9938e4c35e53b]: Textual amendment: Words in [reg. 2.A.6(6)(b)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.A.6/6/b) added (with effect from 1.4.2008) by [The National Health Service Pension Scheme, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2013 (S.I. 2013/413)](https://www.legislation.gov.uk/uksi/2013/413), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/413/regulation/1/2)[(4)](https://www.legislation.gov.uk/uksi/2013/413/regulation/1/4), [26(c)](https://www.legislation.gov.uk/uksi/2013/413/regulation/26/c)

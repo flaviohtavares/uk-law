@@ -46,23 +46,23 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 
 ## PART 1 — Introductory provisions
 
-### 1. Citation, commencement and extent[^key-1f5b226af028f564e1f2d31b220cf860]
+### 1. Citation, commencement and extent[^c-1f5b226af028f564e1f2d31b220cf860]
 
 (1) This Order may be cited as the Sheep and Goats (Records, Identification and Movement) (Scotland) Order 2009 and comes into force on 31st December 2009.
 
 (2) This Order extends to Scotland only.
 
-### 2. Interpretation[^key-5384444d7bac4fadc9a002652830b559]
+### 2. Interpretation[^c-5384444d7bac4fadc9a002652830b559]
 
 (1) In this Order—
 
 - “Annex” means the Annex to the Council Regulation;
-- “the Council Regulation” means Council Regulation (EC) No. 21/2004 of 17th December 2003 establishing a system for the identification and registration of ovine and caprine animals and amending Regulation (EC) No. 1782/2003 and Directives [92/102/EEC](https://www.legislation.gov.uk/european/directive/1992/0102) and [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432)[^f00002] , as last relevantly amended by Council Regulation (EU) No 517/2013[^key-a03ed66ed5972b5dbe56f4f7af61fff3];
+- “the Council Regulation” means Council Regulation (EC) No. 21/2004 of 17th December 2003 establishing a system for the identification and registration of ovine and caprine animals and amending Regulation (EC) No. 1782/2003 and Directives [92/102/EEC](https://www.legislation.gov.uk/european/directive/1992/0102) and [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432)[^f00002] , as last relevantly amended by Council Regulation (EU) No 517/2013[^c-a03ed66ed5972b5dbe56f4f7af61fff3];
 - “critical control point” means a holding or a third party approved by the Scottish Ministers under section C.2 of the Annex;
-- “export” means sending to a[^key-b2c02ee3f5cb10a0e0550c2c713f1da9] Member State or a third country;
+- “export” means sending to a[^c-b2c02ee3f5cb10a0e0550c2c713f1da9] Member State or a third country;
 - “flockmark” means the number allocated by the Scottish Ministers to a holding on which sheep are kept;
 - “herdmark” means the number allocated by the Scottish Ministers to a holding on which goats are kept;
-- “identification code” means the code applied or to be applied to a means of identification in accordance with the Council Regulation, this Order, any provision giving effect to the Council Regulation in England, Wales or Northern Ireland, or any provision giving effect to Council Regulation[^key-64f91e3d731edbdc6d497f076888186b] [(EC) No. 21/2004](https://www.legislation.gov.uk/eur/2004/21) of 17th December 2003 establishing a system for the identification and registration of ovine and caprine animals and amending Regulation [(EC) No. 1782/2003](https://www.legislation.gov.uk/eur/2003/1782) and Directives [92/102/EEC](https://www.legislation.gov.uk/eudr/1992/102) and [64/432/EEC](https://www.legislation.gov.uk/eudr/1964/432) as it has effect in EU law in a Member State, or previous United Kingdom Orders or Regulations;
+- “identification code” means the code applied or to be applied to a means of identification in accordance with the Council Regulation, this Order, any provision giving effect to the Council Regulation in England, Wales or Northern Ireland, or any provision giving effect to Council Regulation[^c-64f91e3d731edbdc6d497f076888186b] [(EC) No. 21/2004](https://www.legislation.gov.uk/eur/2004/21) of 17th December 2003 establishing a system for the identification and registration of ovine and caprine animals and amending Regulation [(EC) No. 1782/2003](https://www.legislation.gov.uk/eur/2003/1782) and Directives [92/102/EEC](https://www.legislation.gov.uk/eudr/1992/102) and [64/432/EEC](https://www.legislation.gov.uk/eudr/1964/432) as it has effect in EU law in a Member State, or previous United Kingdom Orders or Regulations;
 - “identification device” means an eartag, electronic eartag, pastern tag, electronic pastern tag or bolus approved by the Scottish Ministers;
 - “inspector” means a person appointed to be an inspector for the purposes of this Order by the Scottish Ministers or a local authority;
 - “local authority” means a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994[^f00003];
@@ -85,7 +85,7 @@ The Scottish Ministers make the following Order in exercise of the powers confer
   - (n) the Sheep and Goats (Records, Identification and Movement) (England) Order 2007[^f00017]; and
   - (o) the Sheep and Goats (Records, Identification and Movement ) (Wales) Order 2008[^f00018];
 - “register” means the register required to be kept by Article 5 of the Council Regulation;
-- “slaughterhouse” means an establishment approved as a slaughterhouse in accordance with Article 3 of Regulation (EC) No. 854/2004 of the European the Scottish Parliament and of the Council of 29 April 2004 laying down specific rules for the organisation of official controls on products of animal origin intended for human consumption[^f00019] , as last amended by Commission Implementing Regulation (EU) 2018/981[^key-f35a62a56d9f09a87e8a5a145ef7c783];
+- “slaughterhouse” means an establishment approved as a slaughterhouse in accordance with Article 3 of Regulation (EC) No. 854/2004 of the European the Scottish Parliament and of the Council of 29 April 2004 laying down specific rules for the organisation of official controls on products of animal origin intended for human consumption[^f00019] , as last amended by Commission Implementing Regulation (EU) 2018/981[^c-f35a62a56d9f09a87e8a5a145ef7c783];
 - “slaughterhouse operator” means a person carrying out the business of a slaughterhouse or the duly authorised representative of such a person; and
 - “unique number” means a number allocated by the Scottish Ministers which is unique to an animal in a flock or herd and contains up to 6 digits.
 
@@ -93,11 +93,11 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 
 (3) Any reference in this Order to anything done in writing or produced in written form, other than under article 28, includes a reference to an electronic communication which has been recorded and may subsequently be used for reference, as defined in the Electronic Communications Act 2000[^f00020].
 
-### 3. Competent authority[^key-7d27211b2c9b7e8c3fd0417ddf883fa5]
+### 3. Competent authority[^c-7d27211b2c9b7e8c3fd0417ddf883fa5]
 
 The Scottish Ministers are the competent authority for the purposes of the Council Regulation.
 
-### 4. Authorisations[^key-f657414fcf81255fd116b3e1f4ca7f31]
+### 4. Authorisations[^c-f657414fcf81255fd116b3e1f4ca7f31]
 
 (1) Subject to paragraph (2), any authorisations, approvals or permissions issued under the Council Regulation or this Order must be in writing, may be made subject to conditions and may be amended, suspended or revoked by notice in writing at any time.
 
@@ -105,7 +105,7 @@ The Scottish Ministers are the competent authority for the purposes of the Counc
 
 ## PART 2 — Application of identification
 
-### 5. Identification applied on or after 31st December 2009[^key-092c220e89c43eba60b58ee570f39e18]
+### 5. Identification applied on or after 31st December 2009[^c-092c220e89c43eba60b58ee570f39e18]
 
 (1) The keeper of—
 
@@ -128,11 +128,11 @@ must comply with Article 4(1) (first paragraph) and (2)(a) and (b) and Article 
 
 which must be identical on the first and second means of identification.
 
-### 6. Alternative method of identification for animals intended for slaughter before the age of 12 months[^key-c5efc2751544e6546086c5d883a703e2]
+### 6. Alternative method of identification for animals intended for slaughter before the age of 12 months[^c-c5efc2751544e6546086c5d883a703e2]
 
 In accordance with Article 4(3) of the Council Regulation, the keeper of an animal intended for slaughter before the age of 12 months and not intended for export may apply to the animal the alternative method of identification in Section A.7 of the Annex.
 
-### 7. Identification for animals no longer intended for slaughter before the age of 12 months[^key-85cdc4bdd33e99cc221c1000cce32fd7]
+### 7. Identification for animals no longer intended for slaughter before the age of 12 months[^c-85cdc4bdd33e99cc221c1000cce32fd7]
 
 (1) The keeper of an animal to which the alternative method of identification is applied under article 6 which—
 
@@ -151,14 +151,14 @@ must be identified in accordance with points 1 to 4 of Section A of the Annex.
 
 (4) In the case of an animal to be consigned for export before the age of 12 months, the second means of identification must be applied before the animal leaves the holding from which it is consigned for export.
 
-### 8. Animals identified before 31st December 2009[^key-8c2b6ec00ce6ee0284fe9fc85924f9e3]
+### 8. Animals identified before 31st December 2009[^c-8c2b6ec00ce6ee0284fe9fc85924f9e3]
 
 The keeper of an animal which bears a means of identification applied before 31st December 2009 which does not contain an individual identification code or unique number must apply to the animal before it leaves the holding on which it is located at that date—
 
 - (a) in the case of an animal on its holding of birth a first and second means of identification meeting the requirements of Article 4(2)(a) and (b) and Article 9(3) of the Council Regulation; and
 - (b) in the case of an animal not on its holding of birth, 2 replacement means of identification of which one must be a red replacement eartag.
 
-### 9. Animals sent for export[^key-49cca0a887225b21390fc085a3b7963c]
+### 9. Animals sent for export[^c-49cca0a887225b21390fc085a3b7963c]
 
 (1) A keeper must identify all animals consigned for export in accordance with Article 4(2)(a) and (b) and Article 9(3) of the Council Regulation.
 
@@ -166,15 +166,15 @@ The keeper of an animal which bears a means of identification applied before 31s
 
 (3) The means of identification to be applied under this article must be applied, at the latest, before the animal leaves the holding from which it is consigned for export.
 
-(4) A keeper must ensure that all animals consigned for export comply with the following requirements—[^key-8bc23c248d7d8e501358eb5ac16a916b]
+(4) A keeper must ensure that all animals consigned for export comply with the following requirements—[^c-8bc23c248d7d8e501358eb5ac16a916b]
 
 - (a) have been continuously present on the holding of origin for at least 30 days, or since birth if the animals are younger than 30 days of age,
 - (b) do not come from a holding into which ovine or caprine animals have been introduced during the 21 days prior to dispatch,
 - (c) do not come from a holding into which biungulate animals imported from a third country have been introduced during the 30 days prior to dispatch.
 
-(5)[^key-12a9f7622d7c1896c7ba1f5de2e5daab] For the purposes of paragraph (4), a holding of origin means any holding on which the ovine and caprine animals have been continuously present and on which records are maintained demonstrating the residence of the animals which may be audited.
+(5)[^c-12a9f7622d7c1896c7ba1f5de2e5daab] For the purposes of paragraph (4), a holding of origin means any holding on which the ovine and caprine animals have been continuously present and on which records are maintained demonstrating the residence of the animals which may be audited.
 
-### 10. Animals imported from third countries[^key-9e6a31799af7ca0397e3e80cad29491e]
+### 10. Animals imported from third countries[^c-9e6a31799af7ca0397e3e80cad29491e]
 
 (1) The keeper of an animal imported from a third country must comply with Article 4(4) of the Council Regulation and this article.
 
@@ -187,29 +187,29 @@ The keeper of an animal which bears a means of identification applied before 31s
 
 (4) Where an animal is imported from a third country and re-identified according to this article, the keeper must record information about the addition of the new means of identification in the register together with the full identification code on the new means of identification and the full code on the method of identification applied in the third country.
 
-### 11. Receipt of animals from a Member State[^key-6b96d7f36faff32a9455da6c83108e76][^key-face85cf82251d21f7c8c89185f7b711]
+### 11. Receipt of animals from a Member State[^c-6b96d7f36faff32a9455da6c83108e76][^c-face85cf82251d21f7c8c89185f7b711]
 
-(1) No person may receive an animal from a[^key-1a3f2c8597b7bfde8e93af492a2525ac] Member State unless it is identified in accordance with—
+(1) No person may receive an animal from a[^c-1a3f2c8597b7bfde8e93af492a2525ac] Member State unless it is identified in accordance with—
 
-- (a) in the case of an animal born after 9th July 2005, the Council Regulation or Council Regulation[^key-0d3be78df9e5aaebec8b400e64c89f3e] [(EC) No. 21/2004](https://www.legislation.gov.uk/eur/2004/21) of 17th December 2003 establishing a system for the identification and registration of ovine and caprine animals and amending Regulation [(EC) No. 1782/2003](https://www.legislation.gov.uk/eur/2003/1782) and Directives [92/102/EEC](https://www.legislation.gov.uk/eudr/1992/102) and [64/432/EEC](https://www.legislation.gov.uk/eudr/1964/432) as it has effect in EU law; or
+- (a) in the case of an animal born after 9th July 2005, the Council Regulation or Council Regulation[^c-0d3be78df9e5aaebec8b400e64c89f3e] [(EC) No. 21/2004](https://www.legislation.gov.uk/eur/2004/21) of 17th December 2003 establishing a system for the identification and registration of ovine and caprine animals and amending Regulation [(EC) No. 1782/2003](https://www.legislation.gov.uk/eur/2003/1782) and Directives [92/102/EEC](https://www.legislation.gov.uk/eudr/1992/102) and [64/432/EEC](https://www.legislation.gov.uk/eudr/1964/432) as it has effect in EU law; or
 - (b) in the case of an animal born on or before 9th July 2005, Council Directive [92/102/EEC](https://www.legislation.gov.uk/european/directive/1992/0102) of 27 November 1992 on the identification and registration of animals[^f00022].
 
-(2) It is prohibited to remove or replace the original method of identification of an animal originating in a[^key-876fd7c164ab773562afc167d8c2fbd3] Member State in contravention of Article 4(5) of the Council Regulation or Council Regulation[^key-9d3cf02dde4d21b70c205e2918e0199c] [(EC) No. 21/2004](https://www.legislation.gov.uk/eur/2004/21) of 17th December 2003 establishing a system for the identification and registration of ovine and caprine animals and amending Regulation [(EC) No. 1782/2003](https://www.legislation.gov.uk/eur/2003/1782) and Directives [92/102/EEC](https://www.legislation.gov.uk/eudr/1992/102) and [64/432/EEC](https://www.legislation.gov.uk/eudr/1964/432) as it has effect in EU law.
+(2) It is prohibited to remove or replace the original method of identification of an animal originating in a[^c-876fd7c164ab773562afc167d8c2fbd3] Member State in contravention of Article 4(5) of the Council Regulation or Council Regulation[^c-9d3cf02dde4d21b70c205e2918e0199c] [(EC) No. 21/2004](https://www.legislation.gov.uk/eur/2004/21) of 17th December 2003 establishing a system for the identification and registration of ovine and caprine animals and amending Regulation [(EC) No. 1782/2003](https://www.legislation.gov.uk/eur/2003/1782) and Directives [92/102/EEC](https://www.legislation.gov.uk/eudr/1992/102) and [64/432/EEC](https://www.legislation.gov.uk/eudr/1964/432) as it has effect in EU law.
 
-### 12. Receipt of animals from England, Wales or Northern Ireland[^key-3967ba13fbf7a8a7f515db70ba416b26]
+### 12. Receipt of animals from England, Wales or Northern Ireland[^c-3967ba13fbf7a8a7f515db70ba416b26]
 
 No person may receive an animal from England, Wales or Northern Ireland unless it is identified and accompanied by a movement document in accordance with—
 
 - (a) in the case of an animal born after 9th July 2005, the Council Regulation, including any derogation exercised under the Council Regulation; or
 - (b) in the case of an animal born on or before 9th July 2005 the previous United Kingdom Orders or Regulations and any additional requirements imposed in legislation enforcing the Council Regulation in relation to those animals.
 
-### 13. Loss of methods of identification applied in a third country[^key-58691733064e84d08927d952d4b04ee7]
+### 13. Loss of methods of identification applied in a third country[^c-58691733064e84d08927d952d4b04ee7]
 
 Where an animal is imported from a third country and identified in accordance with Article 4(4) of the Council Regulation, the keeper is not required to replace a method of identification applied in the third country if it subsequently becomes lost or illegible.
 
 ## PART 3 — Removal and replacement of identification
 
-### 14. Removal and replacement of means of identification[^key-5f01f7549e0bafbf0edbb310c5f6bfec]
+### 14. Removal and replacement of means of identification[^c-5f01f7549e0bafbf0edbb310c5f6bfec]
 
 (1) A person must not remove, unless for the purpose of preventing suffering to an animal, or replace, any means of identification attached to an animal otherwise than in accordance with the first paragraph of Article 4(6) of the Council Regulation.
 
@@ -218,7 +218,7 @@ Where an animal is imported from a third country and identified in accordance wi
 - (a) before the animal is moved from the holding; and
 - (b) no later than 28 days after the identification is ascertained to have been removed or lost or to have become illegible.
 
-### 15. Replacement identification[^key-bf5ece6875165a5e423106796d899e84]
+### 15. Replacement identification[^c-bf5ece6875165a5e423106796d899e84]
 
 (1) In accordance with the first paragraph of Article 4(6) of the Council Regulation where one of an animal’s means of identification has been removed or lost or has become illegible the keeper, other than a slaughterhouse operator, must replace that means of identification with—
 
@@ -229,13 +229,13 @@ Where an animal is imported from a third country and identified in accordance wi
 
 (3) If the animal is no longer on its holding of birth, or it is unknown if the animal is on its holding of birth, the keeper must use a red means of identification.
 
-### 16. Replacement identification for animals identified according to article 7[^key-c5a1479a60d080e179ac143b24c27be7]
+### 16. Replacement identification for animals identified according to article 7[^c-c5a1479a60d080e179ac143b24c27be7]
 
 (1) Where an animal identified in accordance with article 7 loses its eartag and is on its holding of birth, the keeper must replace the eartag with an eartag bearing the same flockmark or herdmark of that holding.
 
 (2) Where an animal identified in accordance with article 7 loses its eartag and is not on its holding of birth, or if the keeper does not know if it is on its holding of birth, the keeper shall replace the eartag with a red eartag bearing the flockmark or herdmark of the holding the animal is now on.
 
-### 17. Removal or replacement identification for animals identified before 31st December 2009[^key-a57e9af88b42e2851d5b213dc18f7e4b]
+### 17. Removal or replacement identification for animals identified before 31st December 2009[^c-a57e9af88b42e2851d5b213dc18f7e4b]
 
 (1) A person must not remove, unless for the purpose of preventing suffering to an animal, or replace, any means of identification attached to an animal identified before 31st December 2009 otherwise than in accordance with the first paragraph of Article 4(6) of the Council Regulation.
 
@@ -244,7 +244,7 @@ Where an animal is imported from a third country and identified in accordance wi
 - (a) before the animal is moved from the holding; and
 - (b) no later than 28 days after the identification is ascertained to have been removed or lost or to have become illegible.
 
-### 18. Replacement of a single identification mark on a double-tagged animal[^key-717c6824d91851379d5706de0ec9a387]
+### 18. Replacement of a single identification mark on a double-tagged animal[^c-717c6824d91851379d5706de0ec9a387]
 
 (1) Where a keeper is required by article 14 to replace a single lost or illegible identification mark on a double tagged animal, the keeper may do so with a means of identification with an identical identification code.
 
@@ -258,7 +258,7 @@ Where an animal is imported from a third country and identified in accordance wi
 
 (6) When an animal is re-identified and is not on its holding of birth the keeper shall record in the holding register both the old identification, if known, and the new identification.
 
-### 19. Replacement of identification marks on animals with no remaining means of identification[^key-0c082f008af36601d508318f05024c91]
+### 19. Replacement of identification marks on animals with no remaining means of identification[^c-0c082f008af36601d508318f05024c91]
 
 Where the keeper is required to replace a means of identification on an animal bearing no means of identification, the keeper must replace the lost means of identification with—
 
@@ -266,7 +266,7 @@ Where the keeper is required to replace a means of identification on an animal b
 - (b) 2 non-electronic means of identification, both bearing the same number; or
 - (c) the means of identification specified in Article 4(1) (first paragraph) and (2)(a) and (b) and Article 9(3) of the Council Regulation.
 
-### 20. Identification of goats not identified before 31st December 2009[^key-bdfa411f97b8ecbc7112f860dbf1bb31]
+### 20. Identification of goats not identified before 31st December 2009[^c-bdfa411f97b8ecbc7112f860dbf1bb31]
 
 (1) Where a goat is on its holding of birth and has not been identified before 31st December 2009, the keeper must identify it within the time limits specified in article 5(3) with—
 
@@ -282,13 +282,13 @@ Where the keeper is required to replace a means of identification on an animal b
 
 which must be identical on the first and second means of identification.
 
-### 21. Re-identification of goats[^key-6a575473d52e75955b203534188a93e2]
+### 21. Re-identification of goats[^c-6a575473d52e75955b203534188a93e2]
 
 Goats identified in accordance with article 20 may be re-identified in accordance with article 5.
 
 ## PART 4 — Documentation and recording of information
 
-### 22. Holding registers[^key-e8987b2cecf8c4a76478fecbc581ab0b]
+### 22. Holding registers[^c-e8987b2cecf8c4a76478fecbc581ab0b]
 
 (1) The keeper of an animal, other than a person concerned only in transporting animals, must comply with Article 4(4) and Article 5(1), (3) and (5) of the Council Regulation.
 
@@ -316,7 +316,7 @@ Goats identified in accordance with article 20 may be re-identified in accordanc
 
 (7) When an animal is re-identified and is not on its holding of birth, the keeper shall record in the holding register both the old identification, if known, and the new identification.
 
-### 23. Movement documents[^key-248a4a705ee0f0d1128970c241a954ff]
+### 23. Movement documents[^c-248a4a705ee0f0d1128970c241a954ff]
 
 (1) The keeper of an animal must comply with Article 6(1) of the Council Regulation and keep and complete the movement document in accordance with this article, except that the identification codes of the animals moved may be recorded at a critical control point.
 
@@ -330,11 +330,11 @@ Goats identified in accordance with article 20 may be re-identified in accordanc
 
 (3) In accordance with Article 6(3) of the Council Regulation, a copy of the movement document must be kept at the holding from which an animal is moved and at the holding of destination for a period of at least 3 years from the date of the movement it records.
 
-### 24. Inventory[^key-7e871f929a3ea3646d29f2bce26422f9]
+### 24. Inventory[^c-7e871f929a3ea3646d29f2bce26422f9]
 
 For the purposes of Article 7(2) of the Council Regulation, a keeper who keeps animals permanently must make an annual inventory of the number of animals on that keeper’s holding within 30 days of a date specified by the Scottish Ministers.
 
-### 25. Supply of information for the central database[^key-1bbd95aea28fc1ca6dc23b2ef49a5dc4]
+### 25. Supply of information for the central database[^c-1bbd95aea28fc1ca6dc23b2ef49a5dc4]
 
 In accordance with Article 8(2) of the Council Regulation, the keeper of an animal must provide to the Scottish Ministers, in such manner and form as the Scottish Ministers may specify, the information required for the purposes of Article 7(2) and Article 8(1) of the Council Regulation—
 
@@ -344,7 +344,7 @@ In accordance with Article 8(2) of the Council Regulation, the keeper of an ani
 
 ## PART 5 — Markets
 
-### 26. Traceability[^key-436514b0f67cd1adcd851774d994bb61]
+### 26. Traceability[^c-436514b0f67cd1adcd851774d994bb61]
 
 (1) An operator of a market must have in place a system to ensure that, at all times that an animal is at the market, the holding from which the animal was moved to the market can be ascertained.
 
@@ -355,7 +355,7 @@ In accordance with Article 8(2) of the Council Regulation, the keeper of an ani
 - (a) in the register; and
 - (b) on the movement document.
 
-### 27. Replacement identification of animals at markets[^key-83acdd7c0a397275df8f3e31c1bd674c]
+### 27. Replacement identification of animals at markets[^c-83acdd7c0a397275df8f3e31c1bd674c]
 
 (1) Articles 14 to 19 of this Order do not apply to an operator of a market.
 
@@ -364,7 +364,7 @@ In accordance with Article 8(2) of the Council Regulation, the keeper of an ani
 - (a) before the animal is moved from that holding; and
 - (b) no later than 28 days after the animal arrives at that holding.
 
-### 28. Electronic movement documents[^key-4fe6578e3e0983d355ac527d1c41e2aa]
+### 28. Electronic movement documents[^c-4fe6578e3e0983d355ac527d1c41e2aa]
 
 A market operator may complete an electronically generated movement document in any form provided that it—
 
@@ -372,7 +372,7 @@ A market operator may complete an electronically generated movement document in 
 - (b) contains the address of the holding of destination; and
 - (c) is printed and signed by the market operator.
 
-### 29. Contingency planning for power and equipment failure[^key-3a19e604fc2251a7abdbfeebcbb2d2b4]
+### 29. Contingency planning for power and equipment failure[^c-3a19e604fc2251a7abdbfeebcbb2d2b4]
 
 (1) Local authorities or officers of the Scottish Minsters may exempt market and slaughterhouse operators from the need to record—
 
@@ -388,21 +388,21 @@ where a contingency plan has been agreed between the local authority and the mar
 
 ## PART 6 — Identification devices
 
-### 30. Approval of identification devices[^key-97188595b7e119b6a05fac0c2856b31d]
+### 30. Approval of identification devices[^c-97188595b7e119b6a05fac0c2856b31d]
 
 Any means of identification used to comply with this Order must be of a type approved by the Scottish Ministers.
 
-### 31. Supplementary information[^key-2d9e106054263724a6c76433117f25de]
+### 31. Supplementary information[^c-2d9e106054263724a6c76433117f25de]
 
 (1) In accordance with the second paragraph of Section A.2 of the Annex, at the request of a keeper, a manufacturer of approved means of identification may add supplementary information if the supplementary information is distinct from the identification code and the identification code remains legible at all times.
 
 (2) A keeper may apply an additional tag to an animal but it must not contain the letters “UK” or a flockmark or herdmark issued by the Scottish Ministers.
 
-### 32. Removal of metal eartags[^key-6611cb7d56cf5a75cbe8637511eb3c3e]
+### 32. Removal of metal eartags[^c-6611cb7d56cf5a75cbe8637511eb3c3e]
 
 No person may remove a metal eartag from the ear of an animal unless it is necessary to do so for the welfare of that animal.
 
-### 33. Colour of identification devices[^key-d74562afd2dda146d4817b43427ac37c]
+### 33. Colour of identification devices[^c-d74562afd2dda146d4817b43427ac37c]
 
 (1) No person may attach a red identification device to any animal, other than a replacement identification device.
 
@@ -412,33 +412,33 @@ No person may remove a metal eartag from the ear of an animal unless it is neces
 
 (4) The characters on all identification devices must be a different colour to the background of the device and must be clearly legible.
 
-### 34. Destruction of identification devices[^key-af8e6d53e31dc7848cd9780906642fcb]
+### 34. Destruction of identification devices[^c-af8e6d53e31dc7848cd9780906642fcb]
 
 (1) The operator of a slaughterhouse, or any person who finally disposes of an identified animal carcase, must destroy, in a secure manner which prevents reuse, all identification devices on animals slaughtered or otherwise disposed of.
 
 (2) Secure destruction includes the rendering of any identification device.
 
-### 35. Emergency veterinary treatment[^key-9b36ba29e5346db10db4b522bcf66f84]
+### 35. Emergency veterinary treatment[^c-9b36ba29e5346db10db4b522bcf66f84]
 
 Any provision in this Order requiring the application of a means of identification to an animal before it is moved from a holding does not apply if the movement is for the purpose of emergency veterinary treatment.
 
-### 36. Protection from suffering[^key-531f93e58c0bd55fa1947adfef62fc5a]
+### 36. Protection from suffering[^c-531f93e58c0bd55fa1947adfef62fc5a]
 
 Any provision in this Order requiring the application of a means of identification to an animal does not apply where applying the means of identification would cause unnecessary suffering to the animal.
 
-### 37. Alteration of means of identification[^key-4552bf76e1dc56c3e803e972e1fe42b5]
+### 37. Alteration of means of identification[^c-4552bf76e1dc56c3e803e972e1fe42b5]
 
 No person may alter, obliterate or deface the information on any means of identification applied to an animal under—
 
 - (a) the Council Regulation;
-- (b) this Order or any provision giving effect to the Council Regulation in England, Wales, or Northern Ireland [^key-a75f75817787e27d39284c7e1d24826c]...;
+- (b) this Order or any provision giving effect to the Council Regulation in England, Wales, or Northern Ireland [^c-a75f75817787e27d39284c7e1d24826c]...;
 - (c) any of the previous United Kingdom Orders or Regulations; or
-- (ca)[^key-5a0f1a7295afcff090e2a70eeaa0518a] “Council Regulation [(EC) No. 21/2004](https://www.legislation.gov.uk/eur/2004/21) of 17th December 2003 establishing a system for the identification and registration of ovine and caprine animals and amending Regulation [(EC) No. 1782/2003](https://www.legislation.gov.uk/eur/2003/1782) and Directives [92/102/EEC](https://www.legislation.gov.uk/eudr/1992/102) and [64/432/EEC](https://www.legislation.gov.uk/eudr/1964/432) as it has effect in EU law in a member State;
-- (d) Council Directive[^key-d658e85a45f84600501ce14917f12304] [92/102/EEC](https://www.legislation.gov.uk/eudr/1992/102), in the case of an animal marked in a member State in accordance with that Directive.
+- (ca)[^c-5a0f1a7295afcff090e2a70eeaa0518a] “Council Regulation [(EC) No. 21/2004](https://www.legislation.gov.uk/eur/2004/21) of 17th December 2003 establishing a system for the identification and registration of ovine and caprine animals and amending Regulation [(EC) No. 1782/2003](https://www.legislation.gov.uk/eur/2003/1782) and Directives [92/102/EEC](https://www.legislation.gov.uk/eudr/1992/102) and [64/432/EEC](https://www.legislation.gov.uk/eudr/1964/432) as it has effect in EU law in a member State;
+- (d) Council Directive[^c-d658e85a45f84600501ce14917f12304] [92/102/EEC](https://www.legislation.gov.uk/eudr/1992/102), in the case of an animal marked in a member State in accordance with that Directive.
 
 ## PART 7 — Miscellaneous
 
-### 38. Powers of inspectors[^key-58d2333f4d930ac725898c1ccea5647c]
+### 38. Powers of inspectors[^c-58d2333f4d930ac725898c1ccea5647c]
 
 (1) An inspector may—
 
@@ -450,21 +450,21 @@ No person may alter, obliterate or deface the information on any means of identi
 - (f) require production of any unused eartags and record their numbers;
 - (g) remove and retain any unused eartags;
 - (h) mark any animal or other thing for identification purposes; and
-- (i) be accompanied by any [^key-31bd08014d134b94254affb947f7ad99]... person the inspector considers necessary for the enforcement of this Order.
+- (i) be accompanied by any [^c-31bd08014d134b94254affb947f7ad99]... person the inspector considers necessary for the enforcement of this Order.
 
 (2) A person required to do anything by an inspector acting under paragraph (1) must, unless that person has reasonable cause, do so without delay.
 
-### 39. Movement restrictions[^key-79b24f64d4a6044885742aa9b870cb2c]
+### 39. Movement restrictions[^c-79b24f64d4a6044885742aa9b870cb2c]
 
 (1) An officer of the Scottish Ministers or an inspector may, by notice in writing served on any keeper of animals on a holding, prohibit or restrict the movement of any animal onto or off that holding, except under the authority of a licence, if the officer is satisfied that it is necessary for the enforcement of this Order.
 
 (2) A notice served under this article may be amended or revoked by a further notice in writing at any time.
 
-### 40. False information[^key-46c75e6a24cae14db30366841392bfbb]
+### 40. False information[^c-46c75e6a24cae14db30366841392bfbb]
 
 No person may furnish information which that person knows to be false or misleading to any person acting in the execution of this Order.
 
-### 41. Offences by bodies corporate[^key-e33a6714305b50ebc086d44223916a02]
+### 41. Offences by bodies corporate[^c-e33a6714305b50ebc086d44223916a02]
 
 (1) Where a body corporate is guilty of an offence under this Order, and that offence is shown to have been committed with the consent or connivance of, or to have been attributable to any neglect on the part of—
 
@@ -477,7 +477,7 @@ that person as well as the body corporate is guilty of an offence and be liable 
 
 (3) For the purposes of paragraph (1), “director” in relation to a body corporate whose affairs are managed by its members, means a member of the body corporate and “body corporate” includes a Scottish partnership, and, in relation to such a partnership, a reference to a director or other officer of a body corporate is a reference to a partner.
 
-### 42. Enforcement[^key-49f40e98765d6b4882d9cc215bdef32a]
+### 42. Enforcement[^c-49f40e98765d6b4882d9cc215bdef32a]
 
 (1) This Order is enforced by the local authority.
 
@@ -529,17 +529,17 @@ A regulatory impact assessment of the effect that this instrument will have on t
 
 [^f00001]: Footnote: [1981 c.22](https://www.legislation.gov.uk/ukpga/1981/22) (“the 1981 Act”). Section 8 was amended by paragraph 1 of schedule 2 to the [Animal Health and Welfare (Scotland) Act 2006 (asp 11)](https://www.legislation.gov.uk/asp/2006/11). The functions conferred upon “the Ministers” (as defined in section 86 of the 1981 Act) are now exercisable by the Scottish Ministers. They were transferred, insofar as within devolved competence, to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-1f5b226af028f564e1f2d31b220cf860]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2009/414/article/1) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
+[^c-1f5b226af028f564e1f2d31b220cf860]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2009/414/article/1) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
 
-[^key-5384444d7bac4fadc9a002652830b559]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2009/414/article/2) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
+[^c-5384444d7bac4fadc9a002652830b559]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2009/414/article/2) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
 
 [^f00002]: Footnote: O.J. No. L 5, 9.1.2004, p.8, amended by Council Regulation (EC) No. 1791/2006 (O.J. No. L 363, 20.12.2006, p.1), Commission Regulation (EC) No. 1560/2007 (O.J. No. L 340, 22.12.2007, p.25), Commission Regulation (EC) No. 933/2008 (O.J. No. L 256, 24.9.2008, p.5) and Commission Regulation (EC) No. 759/2009 (O.J. No. L 215, 20.8.2009, p.3).
 
-[^key-a03ed66ed5972b5dbe56f4f7af61fff3]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/ssi/2009/414/article/2/1) inserted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [33(2)](https://www.legislation.gov.uk/ssi/2018/391/regulation/33/2)
+[^c-a03ed66ed5972b5dbe56f4f7af61fff3]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/ssi/2009/414/article/2/1) inserted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [33(2)](https://www.legislation.gov.uk/ssi/2018/391/regulation/33/2)
 
-[^key-b2c02ee3f5cb10a0e0550c2c713f1da9]: Textual amendment: Word in [art. 2(1)](https://www.legislation.gov.uk/ssi/2009/414/article/2/1) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [25(2)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/25/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b2c02ee3f5cb10a0e0550c2c713f1da9]: Textual amendment: Word in [art. 2(1)](https://www.legislation.gov.uk/ssi/2009/414/article/2/1) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [25(2)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/25/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-64f91e3d731edbdc6d497f076888186b]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/ssi/2009/414/article/2/1) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [25(2)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/25/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-64f91e3d731edbdc6d497f076888186b]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/ssi/2009/414/article/2/1) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [25(2)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/25/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00003]: Footnote: [1994 c.39](https://www.legislation.gov.uk/ukpga/1994/39), amended by the Environment Act [1995 (c.25)](https://www.legislation.gov.uk/ukpga/1995/25), section 120(1) and Schedule 22, paragraph 232(1).
 
@@ -575,110 +575,110 @@ A regulatory impact assessment of the effect that this instrument will have on t
 
 [^f00019]: Footnote: O.J. No. L 139, 30.4.04, p.206.
 
-[^key-f35a62a56d9f09a87e8a5a145ef7c783]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/ssi/2009/414/article/2/1) inserted (28.3.2019) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/a), [10](https://www.legislation.gov.uk/ssi/2019/71/regulation/10)
+[^c-f35a62a56d9f09a87e8a5a145ef7c783]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/ssi/2009/414/article/2/1) inserted (28.3.2019) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/a), [10](https://www.legislation.gov.uk/ssi/2019/71/regulation/10)
 
 [^f00020]: Footnote: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7), amended by the Communications Act [2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21), sections 406 and 411(2) and (3) and Schedule 17, paragraph 158.
 
-[^key-7d27211b2c9b7e8c3fd0417ddf883fa5]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2009/414/article/3) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
+[^c-7d27211b2c9b7e8c3fd0417ddf883fa5]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2009/414/article/3) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
 
-[^key-f657414fcf81255fd116b3e1f4ca7f31]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2009/414/article/4) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
+[^c-f657414fcf81255fd116b3e1f4ca7f31]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2009/414/article/4) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
 
-[^key-092c220e89c43eba60b58ee570f39e18]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2009/414/article/5) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
+[^c-092c220e89c43eba60b58ee570f39e18]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2009/414/article/5) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
 
-[^key-c5efc2751544e6546086c5d883a703e2]: Commencement: [Art. 6](https://www.legislation.gov.uk/ssi/2009/414/article/6) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
+[^c-c5efc2751544e6546086c5d883a703e2]: Commencement: [Art. 6](https://www.legislation.gov.uk/ssi/2009/414/article/6) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
 
-[^key-85cdc4bdd33e99cc221c1000cce32fd7]: Commencement: [Art. 7](https://www.legislation.gov.uk/ssi/2009/414/article/7) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
+[^c-85cdc4bdd33e99cc221c1000cce32fd7]: Commencement: [Art. 7](https://www.legislation.gov.uk/ssi/2009/414/article/7) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
 
-[^key-8c2b6ec00ce6ee0284fe9fc85924f9e3]: Commencement: [Art. 8](https://www.legislation.gov.uk/ssi/2009/414/article/8) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
+[^c-8c2b6ec00ce6ee0284fe9fc85924f9e3]: Commencement: [Art. 8](https://www.legislation.gov.uk/ssi/2009/414/article/8) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
 
-[^key-49cca0a887225b21390fc085a3b7963c]: Commencement: [Art. 9](https://www.legislation.gov.uk/ssi/2009/414/article/9) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
+[^c-49cca0a887225b21390fc085a3b7963c]: Commencement: [Art. 9](https://www.legislation.gov.uk/ssi/2009/414/article/9) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
 
-[^key-8bc23c248d7d8e501358eb5ac16a916b]: Textual amendment: Words in [art. 9(4)](https://www.legislation.gov.uk/ssi/2009/414/article/9/4) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [25(3)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/25/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8bc23c248d7d8e501358eb5ac16a916b]: Textual amendment: Words in [art. 9(4)](https://www.legislation.gov.uk/ssi/2009/414/article/9/4) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [25(3)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/25/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-12a9f7622d7c1896c7ba1f5de2e5daab]: Textual amendment: [Art. 9(5)](https://www.legislation.gov.uk/ssi/2009/414/article/9/5) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [25(3)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/25/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-12a9f7622d7c1896c7ba1f5de2e5daab]: Textual amendment: [Art. 9(5)](https://www.legislation.gov.uk/ssi/2009/414/article/9/5) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [25(3)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/25/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9e6a31799af7ca0397e3e80cad29491e]: Commencement: [Art. 10](https://www.legislation.gov.uk/ssi/2009/414/article/10) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
+[^c-9e6a31799af7ca0397e3e80cad29491e]: Commencement: [Art. 10](https://www.legislation.gov.uk/ssi/2009/414/article/10) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
 
-[^key-6b96d7f36faff32a9455da6c83108e76]: Commencement: [Art. 11](https://www.legislation.gov.uk/ssi/2009/414/article/11) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
+[^c-6b96d7f36faff32a9455da6c83108e76]: Commencement: [Art. 11](https://www.legislation.gov.uk/ssi/2009/414/article/11) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
 
-[^key-face85cf82251d21f7c8c89185f7b711]: Textual amendment: Word in [art. 11](https://www.legislation.gov.uk/ssi/2009/414/article/11) heading substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [25(4)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/25/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-face85cf82251d21f7c8c89185f7b711]: Textual amendment: Word in [art. 11](https://www.legislation.gov.uk/ssi/2009/414/article/11) heading substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [25(4)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/25/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1a3f2c8597b7bfde8e93af492a2525ac]: Textual amendment: Word in [art. 11(1)](https://www.legislation.gov.uk/ssi/2009/414/article/11/1) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [25(4)(b)(i)](https://www.legislation.gov.uk/ssi/2019/71/regulation/25/4/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1a3f2c8597b7bfde8e93af492a2525ac]: Textual amendment: Word in [art. 11(1)](https://www.legislation.gov.uk/ssi/2009/414/article/11/1) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [25(4)(b)(i)](https://www.legislation.gov.uk/ssi/2019/71/regulation/25/4/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0d3be78df9e5aaebec8b400e64c89f3e]: Textual amendment: Words in [art. 11(1)(a)](https://www.legislation.gov.uk/ssi/2009/414/article/11/1/a) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [25(4)(b)(ii)](https://www.legislation.gov.uk/ssi/2019/71/regulation/25/4/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0d3be78df9e5aaebec8b400e64c89f3e]: Textual amendment: Words in [art. 11(1)(a)](https://www.legislation.gov.uk/ssi/2009/414/article/11/1/a) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [25(4)(b)(ii)](https://www.legislation.gov.uk/ssi/2019/71/regulation/25/4/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00022]: Footnote: O.J. No.L 355, 5.12.1992, p.32.
 
-[^key-876fd7c164ab773562afc167d8c2fbd3]: Textual amendment: Word in [art. 11(2)](https://www.legislation.gov.uk/ssi/2009/414/article/11/2) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [25(4)(c)(i)](https://www.legislation.gov.uk/ssi/2019/71/regulation/25/4/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-876fd7c164ab773562afc167d8c2fbd3]: Textual amendment: Word in [art. 11(2)](https://www.legislation.gov.uk/ssi/2009/414/article/11/2) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [25(4)(c)(i)](https://www.legislation.gov.uk/ssi/2019/71/regulation/25/4/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9d3cf02dde4d21b70c205e2918e0199c]: Textual amendment: Words in [art. 11(2)](https://www.legislation.gov.uk/ssi/2009/414/article/11/2) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [25(4)(c)(ii)](https://www.legislation.gov.uk/ssi/2019/71/regulation/25/4/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9d3cf02dde4d21b70c205e2918e0199c]: Textual amendment: Words in [art. 11(2)](https://www.legislation.gov.uk/ssi/2009/414/article/11/2) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [25(4)(c)(ii)](https://www.legislation.gov.uk/ssi/2019/71/regulation/25/4/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3967ba13fbf7a8a7f515db70ba416b26]: Commencement: [Art. 12](https://www.legislation.gov.uk/ssi/2009/414/article/12) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
+[^c-3967ba13fbf7a8a7f515db70ba416b26]: Commencement: [Art. 12](https://www.legislation.gov.uk/ssi/2009/414/article/12) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
 
-[^key-58691733064e84d08927d952d4b04ee7]: Commencement: [Art. 13](https://www.legislation.gov.uk/ssi/2009/414/article/13) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
+[^c-58691733064e84d08927d952d4b04ee7]: Commencement: [Art. 13](https://www.legislation.gov.uk/ssi/2009/414/article/13) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
 
-[^key-5f01f7549e0bafbf0edbb310c5f6bfec]: Commencement: [Art. 14](https://www.legislation.gov.uk/ssi/2009/414/article/14) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
+[^c-5f01f7549e0bafbf0edbb310c5f6bfec]: Commencement: [Art. 14](https://www.legislation.gov.uk/ssi/2009/414/article/14) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
 
-[^key-bf5ece6875165a5e423106796d899e84]: Commencement: [Art. 15](https://www.legislation.gov.uk/ssi/2009/414/article/15) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
+[^c-bf5ece6875165a5e423106796d899e84]: Commencement: [Art. 15](https://www.legislation.gov.uk/ssi/2009/414/article/15) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
 
-[^key-c5a1479a60d080e179ac143b24c27be7]: Commencement: [Art. 16](https://www.legislation.gov.uk/ssi/2009/414/article/16) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
+[^c-c5a1479a60d080e179ac143b24c27be7]: Commencement: [Art. 16](https://www.legislation.gov.uk/ssi/2009/414/article/16) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
 
-[^key-a57e9af88b42e2851d5b213dc18f7e4b]: Commencement: [Art. 17](https://www.legislation.gov.uk/ssi/2009/414/article/17) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
+[^c-a57e9af88b42e2851d5b213dc18f7e4b]: Commencement: [Art. 17](https://www.legislation.gov.uk/ssi/2009/414/article/17) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
 
-[^key-717c6824d91851379d5706de0ec9a387]: Commencement: [Art. 18](https://www.legislation.gov.uk/ssi/2009/414/article/18) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
+[^c-717c6824d91851379d5706de0ec9a387]: Commencement: [Art. 18](https://www.legislation.gov.uk/ssi/2009/414/article/18) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
 
-[^key-0c082f008af36601d508318f05024c91]: Commencement: [Art. 19](https://www.legislation.gov.uk/ssi/2009/414/article/19) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
+[^c-0c082f008af36601d508318f05024c91]: Commencement: [Art. 19](https://www.legislation.gov.uk/ssi/2009/414/article/19) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
 
-[^key-bdfa411f97b8ecbc7112f860dbf1bb31]: Commencement: [Art. 20](https://www.legislation.gov.uk/ssi/2009/414/article/20) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
+[^c-bdfa411f97b8ecbc7112f860dbf1bb31]: Commencement: [Art. 20](https://www.legislation.gov.uk/ssi/2009/414/article/20) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
 
-[^key-6a575473d52e75955b203534188a93e2]: Commencement: [Art. 21](https://www.legislation.gov.uk/ssi/2009/414/article/21) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
+[^c-6a575473d52e75955b203534188a93e2]: Commencement: [Art. 21](https://www.legislation.gov.uk/ssi/2009/414/article/21) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
 
-[^key-e8987b2cecf8c4a76478fecbc581ab0b]: Commencement: [Art. 22](https://www.legislation.gov.uk/ssi/2009/414/article/22) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
+[^c-e8987b2cecf8c4a76478fecbc581ab0b]: Commencement: [Art. 22](https://www.legislation.gov.uk/ssi/2009/414/article/22) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
 
-[^key-248a4a705ee0f0d1128970c241a954ff]: Commencement: [Art. 23](https://www.legislation.gov.uk/ssi/2009/414/article/23) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
+[^c-248a4a705ee0f0d1128970c241a954ff]: Commencement: [Art. 23](https://www.legislation.gov.uk/ssi/2009/414/article/23) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
 
-[^key-7e871f929a3ea3646d29f2bce26422f9]: Commencement: [Art. 24](https://www.legislation.gov.uk/ssi/2009/414/article/24) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
+[^c-7e871f929a3ea3646d29f2bce26422f9]: Commencement: [Art. 24](https://www.legislation.gov.uk/ssi/2009/414/article/24) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
 
-[^key-1bbd95aea28fc1ca6dc23b2ef49a5dc4]: Commencement: [Art. 25](https://www.legislation.gov.uk/ssi/2009/414/article/25) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
+[^c-1bbd95aea28fc1ca6dc23b2ef49a5dc4]: Commencement: [Art. 25](https://www.legislation.gov.uk/ssi/2009/414/article/25) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
 
-[^key-436514b0f67cd1adcd851774d994bb61]: Commencement: [Art. 26](https://www.legislation.gov.uk/ssi/2009/414/article/26) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
+[^c-436514b0f67cd1adcd851774d994bb61]: Commencement: [Art. 26](https://www.legislation.gov.uk/ssi/2009/414/article/26) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
 
-[^key-83acdd7c0a397275df8f3e31c1bd674c]: Commencement: [Art. 27](https://www.legislation.gov.uk/ssi/2009/414/article/27) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
+[^c-83acdd7c0a397275df8f3e31c1bd674c]: Commencement: [Art. 27](https://www.legislation.gov.uk/ssi/2009/414/article/27) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
 
-[^key-4fe6578e3e0983d355ac527d1c41e2aa]: Commencement: [Art. 28](https://www.legislation.gov.uk/ssi/2009/414/article/28) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
+[^c-4fe6578e3e0983d355ac527d1c41e2aa]: Commencement: [Art. 28](https://www.legislation.gov.uk/ssi/2009/414/article/28) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
 
-[^key-3a19e604fc2251a7abdbfeebcbb2d2b4]: Commencement: [Art. 29](https://www.legislation.gov.uk/ssi/2009/414/article/29) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
+[^c-3a19e604fc2251a7abdbfeebcbb2d2b4]: Commencement: [Art. 29](https://www.legislation.gov.uk/ssi/2009/414/article/29) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
 
-[^key-97188595b7e119b6a05fac0c2856b31d]: Commencement: [Art. 30](https://www.legislation.gov.uk/ssi/2009/414/article/30) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
+[^c-97188595b7e119b6a05fac0c2856b31d]: Commencement: [Art. 30](https://www.legislation.gov.uk/ssi/2009/414/article/30) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
 
-[^key-2d9e106054263724a6c76433117f25de]: Commencement: [Art. 31](https://www.legislation.gov.uk/ssi/2009/414/article/31) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
+[^c-2d9e106054263724a6c76433117f25de]: Commencement: [Art. 31](https://www.legislation.gov.uk/ssi/2009/414/article/31) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
 
-[^key-6611cb7d56cf5a75cbe8637511eb3c3e]: Commencement: [Art. 32](https://www.legislation.gov.uk/ssi/2009/414/article/32) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
+[^c-6611cb7d56cf5a75cbe8637511eb3c3e]: Commencement: [Art. 32](https://www.legislation.gov.uk/ssi/2009/414/article/32) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
 
-[^key-d74562afd2dda146d4817b43427ac37c]: Commencement: [Art. 33](https://www.legislation.gov.uk/ssi/2009/414/article/33) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
+[^c-d74562afd2dda146d4817b43427ac37c]: Commencement: [Art. 33](https://www.legislation.gov.uk/ssi/2009/414/article/33) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
 
-[^key-af8e6d53e31dc7848cd9780906642fcb]: Commencement: [Art. 34](https://www.legislation.gov.uk/ssi/2009/414/article/34) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
+[^c-af8e6d53e31dc7848cd9780906642fcb]: Commencement: [Art. 34](https://www.legislation.gov.uk/ssi/2009/414/article/34) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
 
-[^key-9b36ba29e5346db10db4b522bcf66f84]: Commencement: [Art. 35](https://www.legislation.gov.uk/ssi/2009/414/article/35) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
+[^c-9b36ba29e5346db10db4b522bcf66f84]: Commencement: [Art. 35](https://www.legislation.gov.uk/ssi/2009/414/article/35) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
 
-[^key-531f93e58c0bd55fa1947adfef62fc5a]: Commencement: [Art. 36](https://www.legislation.gov.uk/ssi/2009/414/article/36) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
+[^c-531f93e58c0bd55fa1947adfef62fc5a]: Commencement: [Art. 36](https://www.legislation.gov.uk/ssi/2009/414/article/36) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
 
-[^key-4552bf76e1dc56c3e803e972e1fe42b5]: Commencement: [Art. 37](https://www.legislation.gov.uk/ssi/2009/414/article/37) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
+[^c-4552bf76e1dc56c3e803e972e1fe42b5]: Commencement: [Art. 37](https://www.legislation.gov.uk/ssi/2009/414/article/37) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
 
-[^key-a75f75817787e27d39284c7e1d24826c]: Textual amendment: Words in [art. 37(b)](https://www.legislation.gov.uk/ssi/2009/414/article/37/b) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [25(5)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/25/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a75f75817787e27d39284c7e1d24826c]: Textual amendment: Words in [art. 37(b)](https://www.legislation.gov.uk/ssi/2009/414/article/37/b) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [25(5)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/25/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5a0f1a7295afcff090e2a70eeaa0518a]: Textual amendment: [Art. 37(ca)](https://www.legislation.gov.uk/ssi/2009/414/article/37/ca) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [25(5)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/25/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5a0f1a7295afcff090e2a70eeaa0518a]: Textual amendment: [Art. 37(ca)](https://www.legislation.gov.uk/ssi/2009/414/article/37/ca) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [25(5)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/25/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d658e85a45f84600501ce14917f12304]: Textual amendment: [Art. 37(d)](https://www.legislation.gov.uk/ssi/2009/414/article/37/d) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [25(5)(c)](https://www.legislation.gov.uk/ssi/2019/71/regulation/25/5/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d658e85a45f84600501ce14917f12304]: Textual amendment: [Art. 37(d)](https://www.legislation.gov.uk/ssi/2009/414/article/37/d) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [25(5)(c)](https://www.legislation.gov.uk/ssi/2019/71/regulation/25/5/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-58d2333f4d930ac725898c1ccea5647c]: Commencement: [Art. 38](https://www.legislation.gov.uk/ssi/2009/414/article/38) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
+[^c-58d2333f4d930ac725898c1ccea5647c]: Commencement: [Art. 38](https://www.legislation.gov.uk/ssi/2009/414/article/38) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
 
-[^key-31bd08014d134b94254affb947f7ad99]: Textual amendment: Words in [art. 38(1)(i)](https://www.legislation.gov.uk/ssi/2009/414/article/38/1/i) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [25(6)](https://www.legislation.gov.uk/ssi/2019/71/regulation/25/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-31bd08014d134b94254affb947f7ad99]: Textual amendment: Words in [art. 38(1)(i)](https://www.legislation.gov.uk/ssi/2009/414/article/38/1/i) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [25(6)](https://www.legislation.gov.uk/ssi/2019/71/regulation/25/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-79b24f64d4a6044885742aa9b870cb2c]: Commencement: [Art. 39](https://www.legislation.gov.uk/ssi/2009/414/article/39) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
+[^c-79b24f64d4a6044885742aa9b870cb2c]: Commencement: [Art. 39](https://www.legislation.gov.uk/ssi/2009/414/article/39) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
 
-[^key-46c75e6a24cae14db30366841392bfbb]: Commencement: [Art. 40](https://www.legislation.gov.uk/ssi/2009/414/article/40) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
+[^c-46c75e6a24cae14db30366841392bfbb]: Commencement: [Art. 40](https://www.legislation.gov.uk/ssi/2009/414/article/40) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
 
-[^key-e33a6714305b50ebc086d44223916a02]: Commencement: [Art. 41](https://www.legislation.gov.uk/ssi/2009/414/article/41) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
+[^c-e33a6714305b50ebc086d44223916a02]: Commencement: [Art. 41](https://www.legislation.gov.uk/ssi/2009/414/article/41) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
 
-[^key-49f40e98765d6b4882d9cc215bdef32a]: Commencement: [Art. 42](https://www.legislation.gov.uk/ssi/2009/414/article/42) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)
+[^c-49f40e98765d6b4882d9cc215bdef32a]: Commencement: [Art. 42](https://www.legislation.gov.uk/ssi/2009/414/article/42) in force at 31.12.2009, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/414/article/1/1)

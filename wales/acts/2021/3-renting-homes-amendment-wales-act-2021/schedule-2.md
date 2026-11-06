@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 2 — NEW SCHEDULE 9A TO THE 2016 ACT[^key-daddcbcba4719947791dd7adddb1a375]
+## SCHEDULE 2 — NEW SCHEDULE 9A TO THE 2016 ACT[^c-daddcbcba4719947791dd7adddb1a375]
 
 *Extent: E+W*
 
 (introduced by section 6)
 
-[^key-daddcbcba4719947791dd7adddb1a375]
+[^c-daddcbcba4719947791dd7adddb1a375]
 
 This Schedule sets out the new Schedule 9A to the 2016 Act, to be inserted (with the new Schedules 9B and 9C) after Schedule 9—
 
@@ -108,4 +108,4 @@ This Schedule sets out the new Schedule 9A to the 2016 Act, to be inserted (with
 
 ## Annotations
 
-[^key-daddcbcba4719947791dd7adddb1a375]: Commencement: [Sch. 2](https://www.legislation.gov.uk/asc/2021/3/schedule/2) in force at 7.6.2021, see [s. 19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3)
+[^c-daddcbcba4719947791dd7adddb1a375]: Commencement: [Sch. 2](https://www.legislation.gov.uk/asc/2021/3/schedule/2) in force at 7.6.2021, see [s. 19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 114. Preparation of community strategy[^key-8b9175a359567a7fc9b7b9e92c1188e7]
+## 114. Preparation of community strategy[^c-8b9175a359567a7fc9b7b9e92c1188e7]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8b9175a359567a7fc9b7b9e92c1188e7]: Textual amendment: S. 114 omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 100(2)(d)](https://www.legislation.gov.uk/ukpga/2015/20/section/100/2/d), [115(3)(k)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/k)
+[^c-8b9175a359567a7fc9b7b9e92c1188e7]: Textual amendment: S. 114 omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 100(2)(d)](https://www.legislation.gov.uk/ukpga/2015/20/section/100/2/d), [115(3)(k)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/k)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 145. Approval by the creditors’ committee[^key-e1f514a29daadf4814bdf6f533cc1514]
+## 145. Approval by the creditors’ committee[^c-e1f514a29daadf4814bdf6f533cc1514]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e1f514a29daadf4814bdf6f533cc1514]: Commencement: [Rule 145](https://www.legislation.gov.uk/uksi/2011/1301/rule/145) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-e1f514a29daadf4814bdf6f533cc1514]: Commencement: [Rule 145](https://www.legislation.gov.uk/uksi/2011/1301/rule/145) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

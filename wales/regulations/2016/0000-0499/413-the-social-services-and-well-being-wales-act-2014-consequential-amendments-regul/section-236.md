@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**236.**[^key-a68d3b33ae08f39b5608da40f622eede] In Schedule 14 (amendments to the Children Act 1989) omit paragraph 17.
+**236.**[^c-a68d3b33ae08f39b5608da40f622eede] In Schedule 14 (amendments to the Children Act 1989) omit paragraph 17.
 
 ## Annotations
 
-[^key-a68d3b33ae08f39b5608da40f622eede]: Commencement: Reg. 236 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-a68d3b33ae08f39b5608da40f622eede]: Commencement: Reg. 236 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

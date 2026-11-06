@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 88. Action following acceptance of resignation[^key-1d73e2179e78738f4c78a5fe7e317040]
+## 88. Action following acceptance of resignation[^c-1d73e2179e78738f4c78a5fe7e317040]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1d73e2179e78738f4c78a5fe7e317040]: Commencement: Rule 88 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-1d73e2179e78738f4c78a5fe7e317040]: Commencement: Rule 88 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

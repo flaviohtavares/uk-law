@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Power to acquire subsoil only[^key-9630462362c4456da8f8c5647c19a50f]
+## 35. Power to acquire subsoil only[^c-9630462362c4456da8f8c5647c19a50f]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9630462362c4456da8f8c5647c19a50f]: Commencement: Art. 35 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-9630462362c4456da8f8c5647c19a50f]: Commencement: Art. 35 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)

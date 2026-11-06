@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 143. Appeals in relation to design rights[^key-52ec3239052f790f4190069383062c44]
+## 143. Appeals in relation to design rights[^c-52ec3239052f790f4190069383062c44]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-52ec3239052f790f4190069383062c44]: Textual amendment: [S. 143](https://www.legislation.gov.uk/ukpga/2007/15/section/143) repealed (6.4.2015) by [Intellectual Property Act 2014 (c. 18)](https://www.legislation.gov.uk/ukpga/2014/18), [ss. 10(11)](https://www.legislation.gov.uk/ukpga/2014/18/section/10/11), [24(1)](https://www.legislation.gov.uk/ukpga/2014/18/section/24/1); [S.I. 2015/165](https://www.legislation.gov.uk/uksi/2015/165), [art. 3](https://www.legislation.gov.uk/uksi/2015/165/article/3)
+[^c-52ec3239052f790f4190069383062c44]: Textual amendment: [S. 143](https://www.legislation.gov.uk/ukpga/2007/15/section/143) repealed (6.4.2015) by [Intellectual Property Act 2014 (c. 18)](https://www.legislation.gov.uk/ukpga/2014/18), [ss. 10(11)](https://www.legislation.gov.uk/ukpga/2014/18/section/10/11), [24(1)](https://www.legislation.gov.uk/ukpga/2014/18/section/24/1); [S.I. 2015/165](https://www.legislation.gov.uk/uksi/2015/165), [art. 3](https://www.legislation.gov.uk/uksi/2015/165/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Disciplinary provisions affecting practitioners who render services while visiting the United Kingdom[^key-09d5e97196f6c3c4e18f623a852d4c56]
+## 45. Disciplinary provisions affecting practitioners who render services while visiting the United Kingdom[^c-09d5e97196f6c3c4e18f623a852d4c56]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-09d5e97196f6c3c4e18f623a852d4c56]: Textual amendment: S. 45 omitted (3.12.2007) by virtue of [The European Qualifications (Health and Social Care Professions) Regulations 2007 (S.I. 2007/3101)](https://www.legislation.gov.uk/uksi/2007/3101), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/1/2), [25](https://www.legislation.gov.uk/uksi/2007/3101/regulation/25)
+[^c-09d5e97196f6c3c4e18f623a852d4c56]: Textual amendment: S. 45 omitted (3.12.2007) by virtue of [The European Qualifications (Health and Social Care Professions) Regulations 2007 (S.I. 2007/3101)](https://www.legislation.gov.uk/uksi/2007/3101), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/1/2), [25](https://www.legislation.gov.uk/uksi/2007/3101/regulation/25)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 38B. Anonymous registration: determination of applications by the registration officer[^key-9b122cc53ee4c6d16c619dc4777accad][^key-377d75c4c9c9d8389fa44a9b732d0b1b]
+## 38B. Anonymous registration: determination of applications by the registration officer[^c-9b122cc53ee4c6d16c619dc4777accad][^c-377d75c4c9c9d8389fa44a9b732d0b1b]
 
 *Extent: N.I.*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9b122cc53ee4c6d16c619dc4777accad]: Textual amendment: [Regs. 38A-38E](https://www.legislation.gov.uk/uksi/2008/1741/regulation/38A) inserted (15.9.2014) by [The Representation of the People (Northern Ireland) (Amendment) Regulations 2014 (S.I. 2014/1808)](https://www.legislation.gov.uk/uksi/2014/1808), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1808/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2014/1808/regulation/10)
+[^c-9b122cc53ee4c6d16c619dc4777accad]: Textual amendment: [Regs. 38A-38E](https://www.legislation.gov.uk/uksi/2008/1741/regulation/38A) inserted (15.9.2014) by [The Representation of the People (Northern Ireland) (Amendment) Regulations 2014 (S.I. 2014/1808)](https://www.legislation.gov.uk/uksi/2014/1808), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1808/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2014/1808/regulation/10)
 
-[^key-377d75c4c9c9d8389fa44a9b732d0b1b]: Modification: [Reg. 38B](https://www.legislation.gov.uk/uksi/2008/1741/regulation/38B) applied (15.9.2014) by [S.I. 2001/1184](https://www.legislation.gov.uk/uksi/2001/1184), [reg. 9](https://www.legislation.gov.uk/uksi/2001/1184/regulation/9), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2001/1184/schedule) (as inserted by [S.I. 2014/1803](https://www.legislation.gov.uk/uksi/2014/1803), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1803/regulation/1/1), [8(3)(a)](https://www.legislation.gov.uk/uksi/2014/1803/regulation/8/3/a))
+[^c-377d75c4c9c9d8389fa44a9b732d0b1b]: Modification: [Reg. 38B](https://www.legislation.gov.uk/uksi/2008/1741/regulation/38B) applied (15.9.2014) by [S.I. 2001/1184](https://www.legislation.gov.uk/uksi/2001/1184), [reg. 9](https://www.legislation.gov.uk/uksi/2001/1184/regulation/9), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2001/1184/schedule) (as inserted by [S.I. 2014/1803](https://www.legislation.gov.uk/uksi/2014/1803), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1803/regulation/1/1), [8(3)(a)](https://www.legislation.gov.uk/uksi/2014/1803/regulation/8/3/a))

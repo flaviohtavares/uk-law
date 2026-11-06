@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 121. Prosecutions for corrupt practices[^key-5698dd08bb1b5ceadb819b4b5dc6734f]
+## 121. Prosecutions for corrupt practices[^c-5698dd08bb1b5ceadb819b4b5dc6734f]
 
 *Extent: E+W*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5698dd08bb1b5ceadb819b4b5dc6734f]: Commencement: Art. 121 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-5698dd08bb1b5ceadb819b4b5dc6734f]: Commencement: Art. 121 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
 [^f00066]: Footnote: [2003 c. 44](https://www.legislation.gov.uk/ukpga/2003/44).

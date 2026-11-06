@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. The volume of the dumped goods or subsidised imports[^key-c650959ec844e240547b83d57d7bac38]
+## 31. The volume of the dumped goods or subsidised imports[^c-c650959ec844e240547b83d57d7bac38]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In considering the volume of dumped goods or subsidised imports during the injur
 
 ## Annotations
 
-[^key-c650959ec844e240547b83d57d7bac38]: Commencement: Reg. 31 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-c650959ec844e240547b83d57d7bac38]: Commencement: Reg. 31 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

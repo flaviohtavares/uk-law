@@ -72,9 +72,9 @@ Section 103
 
 > (2A) Subsection (2) does not apply to an order which makes amendments that apply only in relation to England.
 
-#### ...[^key-f85e49ddd45b828bf81d421d7685c4dc]
+#### ...[^c-f85e49ddd45b828bf81d421d7685c4dc]
 
-**9.**[^key-f85e49ddd45b828bf81d421d7685c4dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-f85e49ddd45b828bf81d421d7685c4dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Land Drainage Act 1991: codes of practice
 
@@ -143,4 +143,4 @@ Section 103
 
 ## Annotations
 
-[^key-f85e49ddd45b828bf81d421d7685c4dc]: Textual amendment: Sch. 22 para. 9 and cross-heading omitted (W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 15](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/15)
+[^c-f85e49ddd45b828bf81d421d7685c4dc]: Textual amendment: Sch. 22 para. 9 and cross-heading omitted (W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 15](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/15)

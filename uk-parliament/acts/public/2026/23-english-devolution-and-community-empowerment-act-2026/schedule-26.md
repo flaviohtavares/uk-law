@@ -22,9 +22,9 @@ summary: ''
 
 Section 51
 
-**1.**[^key-dbad4c5cd22e806fd085712688e1ef58] The Licensing Act 2003 is amended in accordance with paragraphs 2 to 20.
+**1.**[^c-dbad4c5cd22e806fd085712688e1ef58] The Licensing Act 2003 is amended in accordance with paragraphs 2 to 20.
 
-**2.**[^key-fcf8084688355a56bec34c529ec2ec37] In section 3 (licensing authorities), after subsection (1) insert—
+**2.**[^c-fcf8084688355a56bec34c529ec2ec37] In section 3 (licensing authorities), after subsection (1) insert—
 
 > (1A) In this Act, “**London licensing authority**” means each of the following licensing authorities—
 >
@@ -33,15 +33,15 @@ Section 51
 > - (c) the Sub-Treasurer of the Inner Temple, or
 > - (d) the Under-Treasurer of the Middle Temple.
 
-**3.**[^key-ee5af1072d31d4d593b3f0b4e95b6695] In section 4 (general duties of licensing authorities), after subsection (3) insert—
+**3.**[^c-ee5af1072d31d4d593b3f0b4e95b6695] In section 4 (general duties of licensing authorities), after subsection (3) insert—
 
 > (4) In carrying out its licensing functions, a London licensing authority must also have regard to the licensing policy statement published by the Mayor of London under section 8A.
 
-**4.**[^key-ac8a3c4276b6dc2c1f91799a8cccc490] In section 5 (statement of licensing policy), after subsection (3) insert—
+**4.**[^c-ac8a3c4276b6dc2c1f91799a8cccc490] In section 5 (statement of licensing policy), after subsection (3) insert—
 
 > (3A) Before determining or revising its policy for a five year period, a London licensing authority must also consult the Mayor of London.
 
-**5.**[^key-32b7eebb26c3810893c9ef6920372c14][^key-0db89bce3ee198b98e3e223efb255ea4] After section 8 insert—
+**5.**[^c-32b7eebb26c3810893c9ef6920372c14][^c-0db89bce3ee198b98e3e223efb255ea4] After section 8 insert—
 
 > **8A. Greater London strategic licensing policy**
 >
@@ -94,13 +94,13 @@ Section 51
 > - (a) if paragraph (b) does not apply, the period of five years beginning 6 months after this section comes into force or with such earlier date as the Mayor may determine, and each subsequent period of five years, or
 > - (b) if the Mayor has published a statement of policy under subsection (2), the period of five years to which the most recently published such statement relates, and each subsequent period of five years.
 
-**6.**[^key-73ce3afae73edf842886b1fdbdfac8aa] In section 13 (authorised persons and responsible authorities), in subsection (4), after paragraph (ha), insert—
+**6.**[^c-73ce3afae73edf842886b1fdbdfac8aa] In section 13 (authorised persons and responsible authorities), in subsection (4), after paragraph (ha), insert—
 
 > - (hb) where the premises are situated in Greater London, the Greater London Authority,
 
 .
 
-**7.**[^key-fc5003e1322979a57d7d74225e53197e][^key-0112f1294ef49b8002768a9e3d3964a8] After section 17 insert—
+**7.**[^c-fc5003e1322979a57d7d74225e53197e][^c-0112f1294ef49b8002768a9e3d3964a8] After section 17 insert—
 
 > **17A. Licence applications of potential strategic importance: Greater London**
 >
@@ -126,7 +126,7 @@ Section 51
 > - (b) the applicant;
 > - (c) each responsible authority in relation to the premises to which the application relates.
 
-**8.**[^key-303e58f86140219f8ed7686e854a4659][^key-f8a5932442b56e5364de4822fcfdc39c] In section 18 (determination of application for premises licence), after subsection (9) insert—
+**8.**[^c-303e58f86140219f8ed7686e854a4659][^c-f8a5932442b56e5364de4822fcfdc39c] In section 18 (determination of application for premises licence), after subsection (9) insert—
 
 > (9A) Where a London licensing authority is to hold a hearing in accordance with subsection (3) in relation to an application of potential strategic importance to Greater London, the authority must give to the Greater London Authority—
 >
@@ -138,7 +138,7 @@ Section 51
 > - “**application of potential strategic importance to Greater London**” means a licence application that has been notified to the London licensing authority by the Greater London Authority under section 17A(3) as being of potential strategic importance to Greater London;
 > - “**specified**” means specified in regulations made by the Secretary of State.
 
-**9.**[^key-b576e0db28e9d0e6504f56a1721d625d] In section 22 (prohibited conditions: plays), in subsection (2)—
+**9.**[^c-b576e0db28e9d0e6504f56a1721d625d] In section 22 (prohibited conditions: plays), in subsection (2)—
 
 - (a) the words from “a licensing authority” to the end become paragraph (a);
 - (b) after that paragraph, insert
@@ -147,7 +147,7 @@ Section 51
   >
   > - (b) the Mayor of London directing a London licensing authority under section 25C(1)(a)(i) or (b)(i), or section 41ZB(1)(a) or (c) to impose conditions which the Mayor considers appropriate on the grounds of public safety.
 
-**10.**[^key-46a0b5a7398f9cf119a30fdbd8d0b218] In section 23 (grant or rejection of application)—
+**10.**[^c-46a0b5a7398f9cf119a30fdbd8d0b218] In section 23 (grant or rejection of application)—
 
 - (a) after subsection (2) insert—
 
@@ -162,11 +162,11 @@ Section 51
 
   .
 
-**11.**[^key-7b5d41d6fe05aefa32b35afdae62a461] In section 24 (form of licence and summary), after subsection (2)(f), insert—
+**11.**[^c-7b5d41d6fe05aefa32b35afdae62a461] In section 24 (form of licence and summary), after subsection (2)(f), insert—
 
 > - (g) if it is issued on a direction from the Mayor of London, specify this.
 
-**12.**[^key-379834a37060f489e205da07fdb7a5f4][^key-bfb3d763124966d6c31b4a88c26a682a] After section 25A insert—
+**12.**[^c-379834a37060f489e205da07fdb7a5f4][^c-bfb3d763124966d6c31b4a88c26a682a] After section 25A insert—
 
 > **Power of Mayor of London to determine licence applications**
 >
@@ -268,7 +268,7 @@ Section 51
 >
 > (3) A notice under subsection (1) or (2) must state the Mayor’s reasons for giving the direction as notified to the London licensing authority under section 25C(6).
 
-**13.**[^key-7a6ed9ba3c77d7d7e425301f81330ddf][^key-1171e9d2e1452bd1323b7ac24c4c3044] After section 34 insert—
+**13.**[^c-7a6ed9ba3c77d7d7e425301f81330ddf][^c-1171e9d2e1452bd1323b7ac24c4c3044] After section 34 insert—
 
 > **34A. Applications to vary of potential strategic importance: Greater London**
 >
@@ -294,7 +294,7 @@ Section 51
 > - (b) the applicant;
 > - (c) each responsible authority in relation to the premises to which the application relates.
 
-**14.**[^key-4a46e17e575048eb5954476d77ecd6a0][^key-b0c8de4cd9bcc3c569c0db7b642b157b] In section 35 (determination of application under section 34), after subsection (7) insert—
+**14.**[^c-4a46e17e575048eb5954476d77ecd6a0][^c-b0c8de4cd9bcc3c569c0db7b642b157b] In section 35 (determination of application under section 34), after subsection (7) insert—
 
 > (8) Where a London licensing authority is to hold a hearing in accordance with subsection (3) in relation to an application to vary of potential strategic importance to Greater London, the authority must give to the Greater London Authority—
 >
@@ -306,7 +306,7 @@ Section 51
 > - “**application to vary of potential strategic importance to Greater London**” means an application to vary a premises licence that has been notified to the London licensing authority by the Greater London Authority under section 34A(3);
 > - “**specified**” means specified in regulations made by the Secretary of State.
 
-**15.**[^key-36e1d9cbb0e90d1f0d4951862d16bbfd][^key-57cc5da0b0019cef714630663ffbdff1] After section 41 insert—
+**15.**[^c-36e1d9cbb0e90d1f0d4951862d16bbfd][^c-57cc5da0b0019cef714630663ffbdff1] After section 41 insert—
 
 > **Power of Mayor of London to determine applications to vary**
 >
@@ -442,7 +442,7 @@ Section 51
 >
 > (5) A notice under subsection (1) or (4) must state the Mayor’s reasons for giving the direction as notified to the London licensing authority under section 41ZB(8).
 
-**16.**[^key-5cea45f3a77cabae53ba5ad0d434fc0a] In section 54 (form of applications and notices)—
+**16.**[^c-5cea45f3a77cabae53ba5ad0d434fc0a] In section 54 (form of applications and notices)—
 
 - (a) in paragraph (a), after “form” insert “or content”;
 - (b) after paragraph (b) insert—
@@ -451,13 +451,13 @@ Section 51
 
   .
 
-**17.**[^key-dd7dbae01246329abe4e0daee46de924] In section 56 (licensing authority’s duty to update licence document), in subsection (1), after paragraph (a) insert—
+**17.**[^c-dd7dbae01246329abe4e0daee46de924] In section 56 (licensing authority’s duty to update licence document), in subsection (1), after paragraph (a) insert—
 
 > - (aa) a London licensing authority, in relation to a premises licence, is subject to a direction under section 41ZB (directions by Mayor of London),
 
 .
 
-**18.**[^key-80e53f2367272604f43277159c73b128] In section 181 (appeals against decisions of licensing authorities)—
+**18.**[^c-80e53f2367272604f43277159c73b128] In section 181 (appeals against decisions of licensing authorities)—
 
 - (a) in the heading, after “licensing authorities” insert “or the Mayor of London”;
 - (b) in subsection (1), after “licensing authorities” insert “or the Mayor of London”;
@@ -465,7 +465,7 @@ Section 51
 - (d) in subsection (2)(b), after “authority” insert “or (as the case may be) the Mayor”;
 - (e) in subsection (2)(c), after “authority” insert “or (as the case may be) the Mayor”.
 
-**19.**[^key-0585065de26c6fa7a138922095549b91] In section 185 (provision of information)—
+**19.**[^c-0585065de26c6fa7a138922095549b91] In section 185 (provision of information)—
 
 - (a) in subsection (1)—
   - (i) the words from “information which” to the end become paragraph (a);
@@ -488,7 +488,7 @@ Section 51
   - (iii) in the closing words, after “functions” insert “or the Mayor’s functions”;
 - (c) in subsection (3), for “or responsible authority” substitute “, responsible authority or the Mayor of London”.
 
-**20.**[^key-5389800778d9a68317dc23fec1068a30] In Schedule 5 (appeals)—
+**20.**[^c-5389800778d9a68317dc23fec1068a30] In Schedule 5 (appeals)—
 
 - (a) after paragraph 1 insert—
 
@@ -543,7 +543,7 @@ Section 51
 
     > (3A) On an appeal under paragraph 2A(3) or 4A(3), the holder of the premises licence is to be the respondent in addition to the Mayor of London.
 
-**21.**[^key-7c39a92700cfb6aeec973b69cd938508][^key-ba054954881fad9faecd1c85245a38cc] (1) The Secretary of State may by regulations repeal the provisions of the Licensing Act 2003 as inserted by paragraphs 2 to 20 of this Schedule and as amended from time to time.
+**21.**[^c-7c39a92700cfb6aeec973b69cd938508][^c-ba054954881fad9faecd1c85245a38cc] (1) The Secretary of State may by regulations repeal the provisions of the Licensing Act 2003 as inserted by paragraphs 2 to 20 of this Schedule and as amended from time to time.
 
 (2) The power under sub-paragraph (1) expires at the end of the period of five years beginning with the day on which this Schedule comes into force.
 
@@ -553,60 +553,60 @@ Section 51
 
 ## Annotations
 
-[^key-dbad4c5cd22e806fd085712688e1ef58]: Commencement: [Sch. 26 para. 1](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/1) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-dbad4c5cd22e806fd085712688e1ef58]: Commencement: [Sch. 26 para. 1](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/1) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
 
-[^key-fcf8084688355a56bec34c529ec2ec37]: Commencement: [Sch. 26 para. 2](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/2) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-fcf8084688355a56bec34c529ec2ec37]: Commencement: [Sch. 26 para. 2](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/2) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
 
-[^key-ee5af1072d31d4d593b3f0b4e95b6695]: Commencement: [Sch. 26 para. 3](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/3) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-ee5af1072d31d4d593b3f0b4e95b6695]: Commencement: [Sch. 26 para. 3](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/3) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
 
-[^key-ac8a3c4276b6dc2c1f91799a8cccc490]: Commencement: [Sch. 26 para. 4](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/4) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-ac8a3c4276b6dc2c1f91799a8cccc490]: Commencement: [Sch. 26 para. 4](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/4) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
 
-[^key-32b7eebb26c3810893c9ef6920372c14]: Commencement: Sch. 26 para. 5 in force at Royal Assent for specified purposes, see [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)
+[^c-32b7eebb26c3810893c9ef6920372c14]: Commencement: Sch. 26 para. 5 in force at Royal Assent for specified purposes, see [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)
 
-[^key-0db89bce3ee198b98e3e223efb255ea4]: Commencement: [Sch. 26 para. 5](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/5) in force at 29.6.2026 in so far as not already in force, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-0db89bce3ee198b98e3e223efb255ea4]: Commencement: [Sch. 26 para. 5](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/5) in force at 29.6.2026 in so far as not already in force, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
 
-[^key-73ce3afae73edf842886b1fdbdfac8aa]: Commencement: [Sch. 26 para. 6](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/6) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-73ce3afae73edf842886b1fdbdfac8aa]: Commencement: [Sch. 26 para. 6](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/6) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
 
-[^key-fc5003e1322979a57d7d74225e53197e]: Commencement: Sch. 26 para. 7 in force at Royal Assent for specified purposes, see [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)
+[^c-fc5003e1322979a57d7d74225e53197e]: Commencement: Sch. 26 para. 7 in force at Royal Assent for specified purposes, see [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)
 
-[^key-0112f1294ef49b8002768a9e3d3964a8]: Commencement: [Sch. 26 para. 7](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/7) in force at 29.6.2026 in so far as not already in force, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-0112f1294ef49b8002768a9e3d3964a8]: Commencement: [Sch. 26 para. 7](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/7) in force at 29.6.2026 in so far as not already in force, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
 
-[^key-303e58f86140219f8ed7686e854a4659]: Commencement: Sch. 26 para. 8 in force at Royal Assent, see [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)
+[^c-303e58f86140219f8ed7686e854a4659]: Commencement: Sch. 26 para. 8 in force at Royal Assent, see [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)
 
-[^key-f8a5932442b56e5364de4822fcfdc39c]: Commencement: [Sch. 26 para. 8](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/8) in force at 29.6.2026 in so far as not already in force, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-f8a5932442b56e5364de4822fcfdc39c]: Commencement: [Sch. 26 para. 8](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/8) in force at 29.6.2026 in so far as not already in force, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
 
-[^key-b576e0db28e9d0e6504f56a1721d625d]: Commencement: [Sch. 26 para. 9](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/9) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-b576e0db28e9d0e6504f56a1721d625d]: Commencement: [Sch. 26 para. 9](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/9) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
 
-[^key-46a0b5a7398f9cf119a30fdbd8d0b218]: Commencement: [Sch. 26 para. 10](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/10) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-46a0b5a7398f9cf119a30fdbd8d0b218]: Commencement: [Sch. 26 para. 10](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/10) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
 
-[^key-7b5d41d6fe05aefa32b35afdae62a461]: Commencement: [Sch. 26 para. 11](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/11) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-7b5d41d6fe05aefa32b35afdae62a461]: Commencement: [Sch. 26 para. 11](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/11) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
 
-[^key-379834a37060f489e205da07fdb7a5f4]: Commencement: Sch. 26 para. 12 in force at Royal Assent for specified purposes, see [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)
+[^c-379834a37060f489e205da07fdb7a5f4]: Commencement: Sch. 26 para. 12 in force at Royal Assent for specified purposes, see [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)
 
-[^key-bfb3d763124966d6c31b4a88c26a682a]: Commencement: [Sch. 26 para. 12](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/12) in force at 29.6.2026 in so far as not already in force, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-bfb3d763124966d6c31b4a88c26a682a]: Commencement: [Sch. 26 para. 12](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/12) in force at 29.6.2026 in so far as not already in force, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
 
-[^key-7a6ed9ba3c77d7d7e425301f81330ddf]: Commencement: Sch. 26 para. 13 in force at Royal Assent for specified purposes, see [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)
+[^c-7a6ed9ba3c77d7d7e425301f81330ddf]: Commencement: Sch. 26 para. 13 in force at Royal Assent for specified purposes, see [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)
 
-[^key-1171e9d2e1452bd1323b7ac24c4c3044]: Commencement: [Sch. 26 para. 13](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/13) in force at 29.6.2026 in so far as not already in force, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-1171e9d2e1452bd1323b7ac24c4c3044]: Commencement: [Sch. 26 para. 13](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/13) in force at 29.6.2026 in so far as not already in force, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
 
-[^key-4a46e17e575048eb5954476d77ecd6a0]: Commencement: Sch. 26 para. 14 in force at Royal Assent for specified purposes, see [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)
+[^c-4a46e17e575048eb5954476d77ecd6a0]: Commencement: Sch. 26 para. 14 in force at Royal Assent for specified purposes, see [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)
 
-[^key-b0c8de4cd9bcc3c569c0db7b642b157b]: Commencement: [Sch. 26 para. 14](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/14) in force at 29.6.2026 in so far as not already in force, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-b0c8de4cd9bcc3c569c0db7b642b157b]: Commencement: [Sch. 26 para. 14](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/14) in force at 29.6.2026 in so far as not already in force, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
 
-[^key-36e1d9cbb0e90d1f0d4951862d16bbfd]: Commencement: Sch. 26 para. 15 in force at Royal Assent for specified purposes, see [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)
+[^c-36e1d9cbb0e90d1f0d4951862d16bbfd]: Commencement: Sch. 26 para. 15 in force at Royal Assent for specified purposes, see [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)
 
-[^key-57cc5da0b0019cef714630663ffbdff1]: Commencement: [Sch. 26 para. 15](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/15) in force at 29.6.2026 in so far as not already in force, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-57cc5da0b0019cef714630663ffbdff1]: Commencement: [Sch. 26 para. 15](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/15) in force at 29.6.2026 in so far as not already in force, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
 
-[^key-5cea45f3a77cabae53ba5ad0d434fc0a]: Commencement: [Sch. 26 para. 16](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/16) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-5cea45f3a77cabae53ba5ad0d434fc0a]: Commencement: [Sch. 26 para. 16](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/16) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
 
-[^key-dd7dbae01246329abe4e0daee46de924]: Commencement: [Sch. 26 para. 17](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/17) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-dd7dbae01246329abe4e0daee46de924]: Commencement: [Sch. 26 para. 17](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/17) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
 
-[^key-80e53f2367272604f43277159c73b128]: Commencement: [Sch. 26 para. 18](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/18) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-80e53f2367272604f43277159c73b128]: Commencement: [Sch. 26 para. 18](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/18) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
 
-[^key-0585065de26c6fa7a138922095549b91]: Commencement: [Sch. 26 para. 19](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/19) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-0585065de26c6fa7a138922095549b91]: Commencement: [Sch. 26 para. 19](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/19) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
 
-[^key-5389800778d9a68317dc23fec1068a30]: Commencement: [Sch. 26 para. 20](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/20) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-5389800778d9a68317dc23fec1068a30]: Commencement: [Sch. 26 para. 20](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/20) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
 
-[^key-7c39a92700cfb6aeec973b69cd938508]: Commencement: Sch. 26 para. 21 in force at Royal Assent for specified purposes, see [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)
+[^c-7c39a92700cfb6aeec973b69cd938508]: Commencement: Sch. 26 para. 21 in force at Royal Assent for specified purposes, see [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)
 
-[^key-ba054954881fad9faecd1c85245a38cc]: Commencement: [Sch. 26 para. 21](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/21) in force at 29.6.2026 in so far as not already in force, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-ba054954881fad9faecd1c85245a38cc]: Commencement: [Sch. 26 para. 21](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/21) in force at 29.6.2026 in so far as not already in force, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)

@@ -23,7 +23,7 @@ summary: ''
 (1) This Chapter applies if—
 
 - (a) there is a change in the ownership of a company with investment business (“**the company**”), and
-- (b)[^key-78d0ecb001ef854c052f0bc89a65582e] the following are met—
+- (b)[^c-78d0ecb001ef854c052f0bc89a65582e] the following are met—
   - condition 1, and
   - conditions 2 and 3 or condition 4.
 
@@ -38,10 +38,10 @@ applies to the acquisition.
 
 (4) Condition 3 is that—
 
-- (a) in a case within subsection (3)(a), a chargeable gain accrues to the company on a disposal of the asset within the period of 5[^key-b1c0dd85d418146f32151ddb72aad6fc] years beginning with the change in ownership, or
+- (a) in a case within subsection (3)(a), a chargeable gain accrues to the company on a disposal of the asset within the period of 5[^c-b1c0dd85d418146f32151ddb72aad6fc] years beginning with the change in ownership, or
 - (b) in a case within subsection (3)(b), there is a non-trading chargeable realisation gain on the realisation of the asset within that period.
 
-(4A)[^key-7acaa41fa28ea83c516665b0a23c4c2c] Condition 4 is that a chargeable gain on a disposal of an asset within the period of 5 years beginning immediately after the change in ownership (or an amount of such a gain) is treated as accruing to the company by virtue of an election under section 171A of TCGA 1992 (election to reallocate gain or loss to another member of the group).
+(4A)[^c-7acaa41fa28ea83c516665b0a23c4c2c] Condition 4 is that a chargeable gain on a disposal of an asset within the period of 5 years beginning immediately after the change in ownership (or an amount of such a gain) is treated as accruing to the company by virtue of an election under section 171A of TCGA 1992 (election to reallocate gain or loss to another member of the group).
 
 (Accordingly, references in this Chapter to the accrual of a relevant gain are to be read in the light of section 171B(2) and (3) of TCGA 1992.)
 
@@ -59,14 +59,14 @@ applies to the acquisition.
 - “**the company**” has the same meaning as in this section,
 - “**non-trading chargeable realisation gain**” means a chargeable realisation gain (within the meaning of Part 8 of CTA 2009 (intangible fixed assets)) which is a non-trading credit for the purposes of that Part (see section 746 of that Act),
 - “**realisation**” has the meaning given by section 734 of CTA 2009, and
-- “**the relevant gain**” means the gain (or amount of a gain) within subsection (4)(a) or (b) or (4A)[^key-7ed0c542da1c87a5d1725774c98621a7] .
+- “**the relevant gain**” means the gain (or amount of a gain) within subsection (4)(a) or (b) or (4A)[^c-7ed0c542da1c87a5d1725774c98621a7] .
 
 ## Annotations
 
-[^key-78d0ecb001ef854c052f0bc89a65582e]: Textual amendment: S. 692(1)(b) substituted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 84(2)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/84/2) (with [Sch. 4 para. 84(6)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/84/6))
+[^c-78d0ecb001ef854c052f0bc89a65582e]: Textual amendment: S. 692(1)(b) substituted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 84(2)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/84/2) (with [Sch. 4 para. 84(6)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/84/6))
 
-[^key-b1c0dd85d418146f32151ddb72aad6fc]: Textual amendment: Word in s. 692(4)(a) substituted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 84(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/84/3) (with [Sch. 4 para. 84(6)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/84/6))
+[^c-b1c0dd85d418146f32151ddb72aad6fc]: Textual amendment: Word in s. 692(4)(a) substituted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 84(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/84/3) (with [Sch. 4 para. 84(6)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/84/6))
 
-[^key-7acaa41fa28ea83c516665b0a23c4c2c]: Textual amendment: S. 692(4A) inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 84(4)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/84/4) (with [Sch. 4 para. 84(6)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/84/6))
+[^c-7acaa41fa28ea83c516665b0a23c4c2c]: Textual amendment: S. 692(4A) inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 84(4)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/84/4) (with [Sch. 4 para. 84(6)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/84/6))
 
-[^key-7ed0c542da1c87a5d1725774c98621a7]: Textual amendment: Words in s. 692(7) substituted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 84(5)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/84/5) (with [Sch. 4 para. 84(6)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/84/6))
+[^c-7ed0c542da1c87a5d1725774c98621a7]: Textual amendment: Words in s. 692(7) substituted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 84(5)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/84/5) (with [Sch. 4 para. 84(6)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/84/6))

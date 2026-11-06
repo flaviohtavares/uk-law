@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 670A. Individuals to whom remittance basis applies[^key-8f68bc4ea01c0efb6e938a397d810722]
+## 670A. Individuals to whom remittance basis applies[^c-8f68bc4ea01c0efb6e938a397d810722]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8f68bc4ea01c0efb6e938a397d810722]: Textual amendment: S. 670A and cross-heading inserted (21.7.2008 with effect in accordance with Sch. 7 para. 160 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 159](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/159)
+[^c-8f68bc4ea01c0efb6e938a397d810722]: Textual amendment: S. 670A and cross-heading inserted (21.7.2008 with effect in accordance with Sch. 7 para. 160 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 159](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/159)

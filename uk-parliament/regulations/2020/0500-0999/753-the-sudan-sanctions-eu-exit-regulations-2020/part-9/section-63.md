@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Restrictions on exercise of maritime enforcement powers[^key-ac4cb847dd47bf63122506c1f300ce9d]
+## 63. Restrictions on exercise of maritime enforcement powers[^c-ac4cb847dd47bf63122506c1f300ce9d]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ac4cb847dd47bf63122506c1f300ce9d]: Commencement: Reg. 63 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 15(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/15/2)
+[^c-ac4cb847dd47bf63122506c1f300ce9d]: Commencement: Reg. 63 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 15(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/15/2)
 
 [^c24239901]: Marginal citation: Command 8941.

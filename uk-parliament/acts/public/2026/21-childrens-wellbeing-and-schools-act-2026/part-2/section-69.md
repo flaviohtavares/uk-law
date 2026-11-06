@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Transitional provision[^key-b7428343e70e379c55133bc1fe3c1f33][^key-7448493064a66e93c50ba3e8c5d1dfc2]
+## 69. Transitional provision[^c-b7428343e70e379c55133bc1fe3c1f33][^c-7448493064a66e93c50ba3e8c5d1dfc2]
 
 *Extent: E+W*
 
@@ -39,6 +39,6 @@ but a final determination of the proposals has not been made.
 
 ## Annotations
 
-[^key-b7428343e70e379c55133bc1fe3c1f33]: Commencement: S. 69 not in force at Royal Assent, see [s. 78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
+[^c-b7428343e70e379c55133bc1fe3c1f33]: Commencement: S. 69 not in force at Royal Assent, see [s. 78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
 
-[^key-7448493064a66e93c50ba3e8c5d1dfc2]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2026/21/section/69) in force at 1.9.2026 by [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 5(g)](https://www.legislation.gov.uk/uksi/2026/803/regulation/5/g)
+[^c-7448493064a66e93c50ba3e8c5d1dfc2]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2026/21/section/69) in force at 1.9.2026 by [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 5(g)](https://www.legislation.gov.uk/uksi/2026/803/regulation/5/g)

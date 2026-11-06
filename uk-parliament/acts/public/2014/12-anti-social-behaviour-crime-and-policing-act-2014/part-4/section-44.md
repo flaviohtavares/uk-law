@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Occupiers of premises etc[^key-45039d70f5d76615457e658026939775]
+## 44. Occupiers of premises etc[^c-45039d70f5d76615457e658026939775]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ is treated for the purposes of section 43 as conduct of that person.
 
 ## Annotations
 
-[^key-45039d70f5d76615457e658026939775]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2014/12/section/44) in force at 20.10.2014 by [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/c)
+[^c-45039d70f5d76615457e658026939775]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2014/12/section/44) in force at 20.10.2014 by [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/c)

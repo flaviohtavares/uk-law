@@ -22,7 +22,7 @@ summary: ''
 
 (1) In the Political Parties, Elections and Referendums Act 2000 (c. 41) (“**the 2000 Act**”) section 145 (general function of Commission with respect to monitoring compliance with controls imposed by that Act etc) is amended as follows.
 
-(2)[^key-30dbc6943c6569ffa69025a437b2feb5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-30dbc6943c6569ffa69025a437b2feb5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) After subsection (6) there is inserted—
 
@@ -35,4 +35,4 @@ summary: ''
 
 [^c1983909]: Commencement: S. 1 partly in force; s. 1(1)(3) in force at Royal Assent see s. 43(5)
 
-[^key-30dbc6943c6569ffa69025a437b2feb5]: Textual amendment: S. 1(2) omitted (23.5.2014) by virtue of [Transparency of Lobbying, Non-Party Campaigning and Trade Union Administration Act 2014 (c. 4)](https://www.legislation.gov.uk/ukpga/2014/4), [ss. 38(5)](https://www.legislation.gov.uk/ukpga/2014/4/section/38/5), [45(1)(b)(vi)](https://www.legislation.gov.uk/ukpga/2014/4/section/45/1/b/vi); [S.I. 2014/1236](https://www.legislation.gov.uk/uksi/2014/1236), [art. 2(1)(i)](https://www.legislation.gov.uk/uksi/2014/1236/article/2/1/i)
+[^c-30dbc6943c6569ffa69025a437b2feb5]: Textual amendment: S. 1(2) omitted (23.5.2014) by virtue of [Transparency of Lobbying, Non-Party Campaigning and Trade Union Administration Act 2014 (c. 4)](https://www.legislation.gov.uk/ukpga/2014/4), [ss. 38(5)](https://www.legislation.gov.uk/ukpga/2014/4/section/38/5), [45(1)(b)(vi)](https://www.legislation.gov.uk/ukpga/2014/4/section/45/1/b/vi); [S.I. 2014/1236](https://www.legislation.gov.uk/uksi/2014/1236), [art. 2(1)(i)](https://www.legislation.gov.uk/uksi/2014/1236/article/2/1/i)

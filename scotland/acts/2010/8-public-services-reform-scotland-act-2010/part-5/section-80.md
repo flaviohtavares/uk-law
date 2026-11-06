@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 80. Offences in relation to registration under Chapter 3[^key-f745524273547462803ec0da86e7a111][^key-b6cfd49f24ec7999f712dc81e0d1fed5]
+## 80. Offences in relation to registration under Chapter 3[^c-f745524273547462803ec0da86e7a111][^c-b6cfd49f24ec7999f712dc81e0d1fed5]
 
 *Extent: S*
 
@@ -36,6 +36,6 @@ commits an offence and is liable on summary conviction to a fine not exceeding l
 
 ## Annotations
 
-[^key-f745524273547462803ec0da86e7a111]: Commencement: S. 80 in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-f745524273547462803ec0da86e7a111]: Commencement: S. 80 in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
 
-[^key-b6cfd49f24ec7999f712dc81e0d1fed5]: Commencement: S. 80 in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
+[^c-b6cfd49f24ec7999f712dc81e0d1fed5]: Commencement: S. 80 in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)

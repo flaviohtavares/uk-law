@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 257MW. Excluded activities: power to amend[^key-c332fb5ecaf14273a39df36c5080ed19]
+## 257MW. Excluded activities: power to amend[^c-c332fb5ecaf14273a39df36c5080ed19]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c332fb5ecaf14273a39df36c5080ed19]: Textual amendment: S. 257MW inserted (with effect in accordance with Sch. 6 para. 5 of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2015/11/schedule/6/paragraph/1)
+[^c-c332fb5ecaf14273a39df36c5080ed19]: Textual amendment: S. 257MW inserted (with effect in accordance with Sch. 6 para. 5 of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2015/11/schedule/6/paragraph/1)

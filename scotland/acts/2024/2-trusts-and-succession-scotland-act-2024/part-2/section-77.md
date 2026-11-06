@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 77. Rights of succession to intestate estate[^key-4bdd723035558de2749c18e9ff6a6b80]
+## 77. Rights of succession to intestate estate[^c-4bdd723035558de2749c18e9ff6a6b80]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4bdd723035558de2749c18e9ff6a6b80]: Commencement: [S. 77](https://www.legislation.gov.uk/asp/2024/2/section/77) in force at 30.4.2024, see [s. 88(2)](https://www.legislation.gov.uk/asp/2024/2/section/88/2)
+[^c-4bdd723035558de2749c18e9ff6a6b80]: Commencement: [S. 77](https://www.legislation.gov.uk/asp/2024/2/section/77) in force at 30.4.2024, see [s. 88(2)](https://www.legislation.gov.uk/asp/2024/2/section/88/2)

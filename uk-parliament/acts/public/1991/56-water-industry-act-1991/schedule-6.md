@@ -95,7 +95,7 @@ shall be guilty of an offence under this paragraph if he discloses to any person
 
 (5) A person who is guilty of an offence under this paragraph by virtue of the application of this Part of this Schedule to the rights conferred by section 171 of this Act shall be liable, on summary conviction, to imprisonment for a term not exceeding three months or to a fine not exceeding level 3 on the standard scale or to both.
 
-### Part II — OTHER RIGHTS OF ENTRY AND RELATED POWERS[^key-ee7603aa6f085ad6d7bdd4fccdd4d685]
+### Part II — OTHER RIGHTS OF ENTRY AND RELATED POWERS[^c-ee7603aa6f085ad6d7bdd4fccdd4d685]
 
 #### Notice of entry
 
@@ -198,7 +198,7 @@ is entitled to designate the person by whom the right or power may be exercised.
 
 [^c13225321]: Marginal citation: [1961 c. 34](https://www.legislation.gov.uk/ukpga/1961/34).
 
-[^key-ee7603aa6f085ad6d7bdd4fccdd4d685]: Modification: Sch. 6 Pt. 2 applied (29.3.2017) by [The Glyn Rhonwy Pumped Storage Generating Station Order 2017 (S.I. 2017/330)](https://www.legislation.gov.uk/uksi/2017/330), [art. 1](https://www.legislation.gov.uk/uksi/2017/330/article/1), [Sch. 6 para. 8(2)](https://www.legislation.gov.uk/uksi/2017/330/schedule/6/paragraph/8/2) (with [art. 31](https://www.legislation.gov.uk/uksi/2017/330/article/31))
+[^c-ee7603aa6f085ad6d7bdd4fccdd4d685]: Modification: Sch. 6 Pt. 2 applied (29.3.2017) by [The Glyn Rhonwy Pumped Storage Generating Station Order 2017 (S.I. 2017/330)](https://www.legislation.gov.uk/uksi/2017/330), [art. 1](https://www.legislation.gov.uk/uksi/2017/330/article/1), [Sch. 6 para. 8(2)](https://www.legislation.gov.uk/uksi/2017/330/schedule/6/paragraph/8/2) (with [art. 31](https://www.legislation.gov.uk/uksi/2017/330/article/31))
 
 [^c13225331]: Marginal citation: [1991 c. 22](https://www.legislation.gov.uk/ukpga/1991/22).
 

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Establishment of integrated care boards[^key-6b47fe6f0d265ff57750609a9ba868b0]
+## 19. Establishment of integrated care boards[^c-6b47fe6f0d265ff57750609a9ba868b0]
 
 *Extent: E+W*
 
-(1)[^key-e2f5d7eea5a440e201974197adb6e7e0] The National Health Service Act 2006 is amended as follows.
+(1)[^c-e2f5d7eea5a440e201974197adb6e7e0] The National Health Service Act 2006 is amended as follows.
 
-(2)[^key-e908d6516f5dcb223e95260725da139a][^key-496af702cb96e9cb98afc53edd762a50] In Part 2, after Chapter A2 insert—
+(2)[^c-e908d6516f5dcb223e95260725da139a][^c-496af702cb96e9cb98afc53edd762a50] In Part 2, after Chapter A2 insert—
 
 > **CHAPTER A3 — Integrated care boards**
 >
@@ -163,24 +163,24 @@ summary: ''
 >
 > (5) For the purposes of this section, the commissioning functions of an integrated care board are the functions of the board in arranging for the provision of services as part of the health service.
 
-(3)[^key-ef7df7526c3466fae6a01d921b152a2b] In section 272 (orders, regulations, rules and directions), in subsection (1), before paragraph (a) insert—
+(3)[^c-ef7df7526c3466fae6a01d921b152a2b] In section 272 (orders, regulations, rules and directions), in subsection (1), before paragraph (a) insert—
 
 > - (za) section 14Z25(2),
 
 .
 
-(4)[^key-02ddbdcaaf4f45cd49780a7c57daf953][^key-496af702cb96e9cb98afc53edd762a50] Schedule 2 inserts into the National Health Service Act 2006 a new Schedule 1B (integrated care boards: constitution etc) and contains a consequential amendment.
+(4)[^c-02ddbdcaaf4f45cd49780a7c57daf953][^c-496af702cb96e9cb98afc53edd762a50] Schedule 2 inserts into the National Health Service Act 2006 a new Schedule 1B (integrated care boards: constitution etc) and contains a consequential amendment.
 
 ## Annotations
 
-[^key-6b47fe6f0d265ff57750609a9ba868b0]: Commencement: S. 19 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-6b47fe6f0d265ff57750609a9ba868b0]: Commencement: S. 19 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-e2f5d7eea5a440e201974197adb6e7e0]: Commencement: [S. 19(1)](https://www.legislation.gov.uk/ukpga/2022/31/section/19/1) in force at 9.5.2022 by [S.I. 2022/515](https://www.legislation.gov.uk/uksi/2022/515), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/515/regulation/2/b)
+[^c-e2f5d7eea5a440e201974197adb6e7e0]: Commencement: [S. 19(1)](https://www.legislation.gov.uk/ukpga/2022/31/section/19/1) in force at 9.5.2022 by [S.I. 2022/515](https://www.legislation.gov.uk/uksi/2022/515), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/515/regulation/2/b)
 
-[^key-e908d6516f5dcb223e95260725da139a]: Commencement: [S. 19(2)](https://www.legislation.gov.uk/ukpga/2022/31/section/19/2) in force at 9.5.2022 for specified purposes by [S.I. 2022/515](https://www.legislation.gov.uk/uksi/2022/515), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/515/regulation/2/c)
+[^c-e908d6516f5dcb223e95260725da139a]: Commencement: [S. 19(2)](https://www.legislation.gov.uk/ukpga/2022/31/section/19/2) in force at 9.5.2022 for specified purposes by [S.I. 2022/515](https://www.legislation.gov.uk/uksi/2022/515), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/515/regulation/2/c)
 
-[^key-496af702cb96e9cb98afc53edd762a50]: Commencement: [S. 19(2)](https://www.legislation.gov.uk/ukpga/2022/31/section/19/2)[(4)](https://www.legislation.gov.uk/ukpga/2022/31/section/19/4) in force at 1.7.2022 in so far as not already in force by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-496af702cb96e9cb98afc53edd762a50]: Commencement: [S. 19(2)](https://www.legislation.gov.uk/ukpga/2022/31/section/19/2)[(4)](https://www.legislation.gov.uk/ukpga/2022/31/section/19/4) in force at 1.7.2022 in so far as not already in force by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-ef7df7526c3466fae6a01d921b152a2b]: Commencement: [S. 19(3)](https://www.legislation.gov.uk/ukpga/2022/31/section/19/3) in force at 9.5.2022 by [S.I. 2022/515](https://www.legislation.gov.uk/uksi/2022/515), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/515/regulation/2/d)
+[^c-ef7df7526c3466fae6a01d921b152a2b]: Commencement: [S. 19(3)](https://www.legislation.gov.uk/ukpga/2022/31/section/19/3) in force at 9.5.2022 by [S.I. 2022/515](https://www.legislation.gov.uk/uksi/2022/515), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/515/regulation/2/d)
 
-[^key-02ddbdcaaf4f45cd49780a7c57daf953]: Commencement: [S. 19(4)](https://www.legislation.gov.uk/ukpga/2022/31/section/19/4) in force at 9.5.2022 for specified purposes by [S.I. 2022/515](https://www.legislation.gov.uk/uksi/2022/515), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2022/515/regulation/2/e)
+[^c-02ddbdcaaf4f45cd49780a7c57daf953]: Commencement: [S. 19(4)](https://www.legislation.gov.uk/ukpga/2022/31/section/19/4) in force at 9.5.2022 for specified purposes by [S.I. 2022/515](https://www.legislation.gov.uk/uksi/2022/515), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2022/515/regulation/2/e)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Information and samples plans: termination of rights under offshore licences[^key-564f8cad9d710d47e192660a435d1e8a]
+## 30. Information and samples plans: termination of rights under offshore licences[^c-564f8cad9d710d47e192660a435d1e8a]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-564f8cad9d710d47e192660a435d1e8a]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2016/20/section/30) in force at 21.10.2017 by [S.I. 2017/942](https://www.legislation.gov.uk/uksi/2017/942), [reg. 2](https://www.legislation.gov.uk/uksi/2017/942/regulation/2)
+[^c-564f8cad9d710d47e192660a435d1e8a]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2016/20/section/30) in force at 21.10.2017 by [S.I. 2017/942](https://www.legislation.gov.uk/uksi/2017/942), [reg. 2](https://www.legislation.gov.uk/uksi/2017/942/regulation/2)

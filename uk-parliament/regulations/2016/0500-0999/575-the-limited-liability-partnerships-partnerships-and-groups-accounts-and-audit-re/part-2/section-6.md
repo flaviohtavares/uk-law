@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. LLPs qualifying as micro-entities[^key-9a5083537b204f2de44e59f373bb3f07]
+## 6. LLPs qualifying as micro-entities[^c-9a5083537b204f2de44e59f373bb3f07]
 
 *Extent: E+W+S+N.I.*
 
@@ -76,7 +76,7 @@ After regulation 5 (LLPs subject to the small LLPs regime), insert the following
 
 ## Annotations
 
-[^key-9a5083537b204f2de44e59f373bb3f07]: Commencement: Reg. 6 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
+[^c-9a5083537b204f2de44e59f373bb3f07]: Commencement: Reg. 6 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
 
 [^f00021]: Footnote: Sections 384A and 384B of the Companies Act [2006 (c.46)](https://www.legislation.gov.uk/ukpga/2006/46) were inserted by [S.I. 2013/3008](https://www.legislation.gov.uk/uksi/2013/3008), regulation 4(1) and (4).
 

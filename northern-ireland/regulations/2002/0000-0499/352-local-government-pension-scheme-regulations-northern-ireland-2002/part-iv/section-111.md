@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 111. Provision of information, charging and prescribed persons[^key-890dfc0e8be21a1df925d9df3b989bbc]
+## 111. Provision of information, charging and prescribed persons[^c-890dfc0e8be21a1df925d9df3b989bbc]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ the Committee shall calculate the restitution payment in accordance with the pro
 
 ## Annotations
 
-[^key-890dfc0e8be21a1df925d9df3b989bbc]: Commencement: [Reg. 111](https://www.legislation.gov.uk/nisr/2002/352/regulation/111) in operation at 1.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/352/regulation/1)
+[^c-890dfc0e8be21a1df925d9df3b989bbc]: Commencement: [Reg. 111](https://www.legislation.gov.uk/nisr/2002/352/regulation/111) in operation at 1.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/352/regulation/1)

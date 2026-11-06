@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29D. Power to investigate concerns raised by whistle-blowers[^key-2c39f0af6dd8bee3a3f609c11ed14793]
+## 29D. Power to investigate concerns raised by whistle-blowers[^c-2c39f0af6dd8bee3a3f609c11ed14793]
 
 *Extent: E+W+S+N.I.*
 
-(1) The Director General[^key-99d3cffeaf970660149173a8c94f0394] may investigate any concern raised by a whistle-blower of which the Director General[^key-81e936d951cb97ba3870b5173f657041] becomes aware (whether because the whistle-blower has contacted the Director General or for any other reason) but only if the whistle-blower informs the Director General, before the beginning of the investigation, that he or she consents to an investigation taking place.
+(1) The Director General[^c-99d3cffeaf970660149173a8c94f0394] may investigate any concern raised by a whistle-blower of which the Director General[^c-81e936d951cb97ba3870b5173f657041] becomes aware (whether because the whistle-blower has contacted the Director General or for any other reason) but only if the whistle-blower informs the Director General, before the beginning of the investigation, that he or she consents to an investigation taking place.
 
 (2) In deciding whether to investigate, the Director General must take into account the public interest.
 
@@ -43,8 +43,8 @@ summary: ''
 
 ## Annotations
 
-[^key-2c39f0af6dd8bee3a3f609c11ed14793]: Textual amendment: Pt. 2B inserted (31.1.2017 for specified purposes) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 28(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/28/1), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e)
+[^c-2c39f0af6dd8bee3a3f609c11ed14793]: Textual amendment: Pt. 2B inserted (31.1.2017 for specified purposes) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 28(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/28/1), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e)
 
-[^key-99d3cffeaf970660149173a8c94f0394]: Textual amendment: Words in s. 29D substituted (31.1.2017 for specified purposes, 8.1.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 9 para. 42(2)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/9/paragraph/42/2); [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-99d3cffeaf970660149173a8c94f0394]: Textual amendment: Words in s. 29D substituted (31.1.2017 for specified purposes, 8.1.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 9 para. 42(2)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/9/paragraph/42/2); [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
-[^key-81e936d951cb97ba3870b5173f657041]: Textual amendment: Words in s. 29D(1) substituted (31.1.2017 for specified purposes, 8.1.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 9 para. 42(3)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/9/paragraph/42/3); [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-81e936d951cb97ba3870b5173f657041]: Textual amendment: Words in s. 29D(1) substituted (31.1.2017 for specified purposes, 8.1.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 9 para. 42(3)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/9/paragraph/42/3); [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))

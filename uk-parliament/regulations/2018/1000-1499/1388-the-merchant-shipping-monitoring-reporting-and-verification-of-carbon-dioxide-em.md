@@ -34,7 +34,7 @@ Exiting The European Union
 
 Merchant Shipping
 
-The Merchant Shipping (Monitoring, Reporting and Verification of Carbon Dioxide Emissions) (Amendment) (EU Exit) Regulations 2018 (revoked)[^key-dce41e57c81b53e7689aa69f1dfaed26]
+The Merchant Shipping (Monitoring, Reporting and Verification of Carbon Dioxide Emissions) (Amendment) (EU Exit) Regulations 2018 (revoked)[^c-dce41e57c81b53e7689aa69f1dfaed26]
 
 Made
 
@@ -42,42 +42,42 @@ Made
 
 Coming into force in accordance with regulation 1
 
-[^key-dce41e57c81b53e7689aa69f1dfaed26]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dce41e57c81b53e7689aa69f1dfaed26]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-dce41e57c81b53e7689aa69f1dfaed26]
+[^c-dce41e57c81b53e7689aa69f1dfaed26]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 1 — Introduction[^key-dce41e57c81b53e7689aa69f1dfaed26]
+## PART 1 — Introduction[^c-dce41e57c81b53e7689aa69f1dfaed26]
 
-### 1. Citation and commencement[^key-dce41e57c81b53e7689aa69f1dfaed26]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## PART 2 — Amendment of subordinate legislation[^key-dce41e57c81b53e7689aa69f1dfaed26]
-
-### 2. Amendment of the Merchant Shipping (Monitoring, Reporting and Verification of Carbon Dioxide Emissions) and the Port State Control (Amendment) Regulations 2017[^key-dce41e57c81b53e7689aa69f1dfaed26]
+### 1. Citation and commencement[^c-dce41e57c81b53e7689aa69f1dfaed26]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — Amendment of retained direct EU legislation[^key-dce41e57c81b53e7689aa69f1dfaed26]
+## PART 2 — Amendment of subordinate legislation[^c-dce41e57c81b53e7689aa69f1dfaed26]
 
-### 3. Amendment of Commission Regulation (EU) 2015/757[^key-dce41e57c81b53e7689aa69f1dfaed26]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 4. Amendment of Commission Implementing Regulation (EU) 2016/1927[^key-dce41e57c81b53e7689aa69f1dfaed26]
+### 2. Amendment of the Merchant Shipping (Monitoring, Reporting and Verification of Carbon Dioxide Emissions) and the Port State Control (Amendment) Regulations 2017[^c-dce41e57c81b53e7689aa69f1dfaed26]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dce41e57c81b53e7689aa69f1dfaed26]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## PART 3 — Amendment of retained direct EU legislation[^c-dce41e57c81b53e7689aa69f1dfaed26]
+
+### 3. Amendment of Commission Regulation (EU) 2015/757[^c-dce41e57c81b53e7689aa69f1dfaed26]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 4. Amendment of Commission Implementing Regulation (EU) 2016/1927[^c-dce41e57c81b53e7689aa69f1dfaed26]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-dce41e57c81b53e7689aa69f1dfaed26]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-dce41e57c81b53e7689aa69f1dfaed26]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dce41e57c81b53e7689aa69f1dfaed26]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-dce41e57c81b53e7689aa69f1dfaed26]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2018/1388) revoked (3.4.2026) by [The Merchant Shipping (Monitoring, Reporting and Verification of Carbon Dioxide Emissions) (Revocation) Regulations 2026 (S.I. 2026/245)](https://www.legislation.gov.uk/uksi/2026/245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/245/regulation/1/2), [2(c)](https://www.legislation.gov.uk/uksi/2026/245/regulation/2/c)
+[^c-dce41e57c81b53e7689aa69f1dfaed26]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2018/1388) revoked (3.4.2026) by [The Merchant Shipping (Monitoring, Reporting and Verification of Carbon Dioxide Emissions) (Revocation) Regulations 2026 (S.I. 2026/245)](https://www.legislation.gov.uk/uksi/2026/245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/245/regulation/1/2), [2(c)](https://www.legislation.gov.uk/uksi/2026/245/regulation/2/c)

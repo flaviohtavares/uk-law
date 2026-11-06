@@ -38,14 +38,14 @@ summary: ''
 - (b) any relevant order under that section;
 - (c) Schedule 2 to that Act.
 
-(4) The appropriate authority[^key-572a559c2d9dfde33f36b881f79802e5] may by notice to a society or branch disapply subsection (1) above in relation to the year of account of the society or branch in which the notice is given.
+(4) The appropriate authority[^c-572a559c2d9dfde33f36b881f79802e5] may by notice to a society or branch disapply subsection (1) above in relation to the year of account of the society or branch in which the notice is given.
 
 (5) Where a society or branch exercises the power conferred by subsection (1) above, the disapplication shall cease to have effect if at any time before the end of the year of account to which it relates—
 
 - (a) the society or branch becomes one to which subsection (3) above applies, or
 - (b) the appropriate authority gives to the society or branch notice under subsection (4) above.
 
-(6) In the case of a society or branch which is a charity as defined by section 1(1) of the Charities Act 2011,[^key-dd37dba7ddb387b98e11a3db07f23008] a recognised body as defined by section 1(7) of the Law Reform (Miscellaneous Provisions) (Scotland) Act 1990 or a charity within the meaning of the Charities Act (Northern Ireland) 1964 [^c1073112] subsection (1) above shall have effect with the substitution for paragraph (b) of—
+(6) In the case of a society or branch which is a charity as defined by section 1(1) of the Charities Act 2011,[^c-dd37dba7ddb387b98e11a3db07f23008] a recognised body as defined by section 1(7) of the Law Reform (Miscellaneous Provisions) (Scotland) Act 1990 or a charity within the meaning of the Charities Act (Northern Ireland) 1964 [^c1073112] subsection (1) above shall have effect with the substitution for paragraph (b) of—
 
 > - (b) its gross income for that year did not exceed £250,000.
 
@@ -65,8 +65,8 @@ summary: ''
 
 [^c1073109]: Textual amendment: S. 32A(3A) inserted (1.12.2001) by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), [art. 186(3)](https://www.legislation.gov.uk/uksi/2001/3649/article/186/3)
 
-[^key-572a559c2d9dfde33f36b881f79802e5]: Textual amendment: Words in [s. 32A(4)](https://www.legislation.gov.uk/ukpga/1974/46/section/32A/4)[(5)](https://www.legislation.gov.uk/ukpga/1974/46/section/32A/5) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 5 para. 5](https://www.legislation.gov.uk/uksi/2013/496/schedule/5/paragraph/5) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-572a559c2d9dfde33f36b881f79802e5]: Textual amendment: Words in [s. 32A(4)](https://www.legislation.gov.uk/ukpga/1974/46/section/32A/4)[(5)](https://www.legislation.gov.uk/ukpga/1974/46/section/32A/5) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 5 para. 5](https://www.legislation.gov.uk/uksi/2013/496/schedule/5/paragraph/5) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
-[^key-dd37dba7ddb387b98e11a3db07f23008]: Textual amendment: Words in s. 32A(6) substituted (14.3.2012 immediately before the Charities Act 2011 (c. 25) comes into force) by [The Charities (Pre-consolidation Amendments) Order 2011 (S.I. 2011/1396)](https://www.legislation.gov.uk/uksi/2011/1396), [art. 1](https://www.legislation.gov.uk/uksi/2011/1396/article/1), [Sch. para. 38(b)](https://www.legislation.gov.uk/uksi/2011/1396/schedule/paragraph/38/b); words subsequently substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 30](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/30) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
+[^c-dd37dba7ddb387b98e11a3db07f23008]: Textual amendment: Words in s. 32A(6) substituted (14.3.2012 immediately before the Charities Act 2011 (c. 25) comes into force) by [The Charities (Pre-consolidation Amendments) Order 2011 (S.I. 2011/1396)](https://www.legislation.gov.uk/uksi/2011/1396), [art. 1](https://www.legislation.gov.uk/uksi/2011/1396/article/1), [Sch. para. 38(b)](https://www.legislation.gov.uk/uksi/2011/1396/schedule/paragraph/38/b); words subsequently substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 30](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/30) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
 
 [^c1073112]: Textual amendment: [1964 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1964/33).

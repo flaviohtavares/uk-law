@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Public notices and declarations[^key-42eb5165cae973a3331b212ea082c734]
+## 20. Public notices and declarations[^c-42eb5165cae973a3331b212ea082c734]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-42eb5165cae973a3331b212ea082c734]: Commencement: Art. 20 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-42eb5165cae973a3331b212ea082c734]: Commencement: Art. 20 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)

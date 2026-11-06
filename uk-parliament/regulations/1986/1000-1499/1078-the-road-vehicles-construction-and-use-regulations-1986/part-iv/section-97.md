@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 97. Avoidance of excessive noise[^key-716098aab2c6c3aa696fdc0319728842]
+## 97. Avoidance of excessive noise[^c-716098aab2c6c3aa696fdc0319728842]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ No motor vehicle shall be used on a road in such manner as to cause any excessiv
 
 ## Annotations
 
-[^key-716098aab2c6c3aa696fdc0319728842]: Commencement: [Reg. 97](https://www.legislation.gov.uk/uksi/1986/1078/regulation/97) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-716098aab2c6c3aa696fdc0319728842]: Commencement: [Reg. 97](https://www.legislation.gov.uk/uksi/1986/1078/regulation/97) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)

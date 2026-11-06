@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Restrictions on increase - child not living with beneficiary etc.[^key-20dbda1341a39e3742d27a46cce76ef8]
+## 81. Restrictions on increase - child not living with beneficiary etc.[^c-20dbda1341a39e3742d27a46cce76ef8]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-20dbda1341a39e3742d27a46cce76ef8]: Textual amendment: S. 81 repealed (6.4.2003) by [Tax Credits Act 2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21), [s. 61](https://www.legislation.gov.uk/ukpga/2002/21/section/61), [Sch. 6](https://www.legislation.gov.uk/ukpga/2002/21/schedule/6); [S.I. 2003/938](https://www.legislation.gov.uk/uksi/2003/938), [art. 2](https://www.legislation.gov.uk/uksi/2003/938/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/938/schedule) (with savings in [art. 3](https://www.legislation.gov.uk/uksi/2003/938/article/3)); and as to this section as so saved see also [Welfare Reform Act 2009 (c. 24)](https://www.legislation.gov.uk/ukpga/2009/24), [s. 37(1)](https://www.legislation.gov.uk/ukpga/2009/24/section/37/1); [The Social Security Benefits Up-rating Order 2013 (S.I. 2013/574)](https://www.legislation.gov.uk/uksi/2013/574), [arts. 1(2)(d)](https://www.legislation.gov.uk/uksi/2013/574/article/1/2/d), [7(b)](https://www.legislation.gov.uk/uksi/2013/574/article/7/b)
+[^c-20dbda1341a39e3742d27a46cce76ef8]: Textual amendment: S. 81 repealed (6.4.2003) by [Tax Credits Act 2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21), [s. 61](https://www.legislation.gov.uk/ukpga/2002/21/section/61), [Sch. 6](https://www.legislation.gov.uk/ukpga/2002/21/schedule/6); [S.I. 2003/938](https://www.legislation.gov.uk/uksi/2003/938), [art. 2](https://www.legislation.gov.uk/uksi/2003/938/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/938/schedule) (with savings in [art. 3](https://www.legislation.gov.uk/uksi/2003/938/article/3)); and as to this section as so saved see also [Welfare Reform Act 2009 (c. 24)](https://www.legislation.gov.uk/ukpga/2009/24), [s. 37(1)](https://www.legislation.gov.uk/ukpga/2009/24/section/37/1); [The Social Security Benefits Up-rating Order 2013 (S.I. 2013/574)](https://www.legislation.gov.uk/uksi/2013/574), [arts. 1(2)(d)](https://www.legislation.gov.uk/uksi/2013/574/article/1/2/d), [7(b)](https://www.legislation.gov.uk/uksi/2013/574/article/7/b)

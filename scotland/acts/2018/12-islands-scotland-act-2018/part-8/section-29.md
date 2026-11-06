@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 29. Regulations[^key-008762bf5faf31156cd623abdb4056ba]
+## 29. Regulations[^c-008762bf5faf31156cd623abdb4056ba]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ are subject to the affirmative procedure.
 
 ## Annotations
 
-[^key-008762bf5faf31156cd623abdb4056ba]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2018/12/section/29) in force at 4.10.2018 by [S.S.I. 2018/282](https://www.legislation.gov.uk/ssi/2018/282), [reg. 2](https://www.legislation.gov.uk/ssi/2018/282/regulation/2)
+[^c-008762bf5faf31156cd623abdb4056ba]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2018/12/section/29) in force at 4.10.2018 by [S.S.I. 2018/282](https://www.legislation.gov.uk/ssi/2018/282), [reg. 2](https://www.legislation.gov.uk/ssi/2018/282/regulation/2)

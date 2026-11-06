@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 8. Power to appropriate parts of harbour, etc.[^key-69272e577b3f5781c6a1efdd76fa3b11]
+## 8. Power to appropriate parts of harbour, etc.[^c-69272e577b3f5781c6a1efdd76fa3b11]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-69272e577b3f5781c6a1efdd76fa3b11]: Commencement: Art. 8 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)
+[^c-69272e577b3f5781c6a1efdd76fa3b11]: Commencement: Art. 8 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)

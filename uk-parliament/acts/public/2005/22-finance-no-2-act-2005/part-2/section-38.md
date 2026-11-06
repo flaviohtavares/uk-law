@@ -24,11 +24,11 @@ summary: ''
 
 (2) In subsection (2) (what are charges on income) paragraph (a) (annuities or other annual payments that meet the conditions in section 338B) shall cease to have effect.
 
-(3)[^key-253dc9082973b862777c627898a037d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-253dc9082973b862777c627898a037d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In section 434A(2)(a) of ICTA (loss resulting to insurance company from computation in accordance with Case I of Schedule D: reduction by specified amounts) omit sub-paragraph (i) (which relates to charges on income).
 
-(5)[^key-7778297d6ae1ee14669e8ec42aedcf4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-7778297d6ae1ee14669e8ec42aedcf4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) The amendment made by subsection (4) has effect for accounting periods beginning on or after 1st April 2004.
 
@@ -72,6 +72,6 @@ for the accounting period in which the payment is made.
 
 ## Annotations
 
-[^key-253dc9082973b862777c627898a037d4]: Textual amendment: S. 38(3) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-253dc9082973b862777c627898a037d4]: Textual amendment: S. 38(3) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-7778297d6ae1ee14669e8ec42aedcf4b]: Textual amendment: S. 38(5) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-7778297d6ae1ee14669e8ec42aedcf4b]: Textual amendment: S. 38(5) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

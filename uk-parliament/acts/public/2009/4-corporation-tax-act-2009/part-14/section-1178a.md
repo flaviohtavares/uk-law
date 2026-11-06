@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1178A. “Major interest in land”[^key-893d5b92584eb02e9903b9280040fbba]
+## 1178A. “Major interest in land”[^c-893d5b92584eb02e9903b9280040fbba]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ in relation to which the condition in subsection (4) is met.
 
 ## Annotations
 
-[^key-893d5b92584eb02e9903b9280040fbba]: Textual amendment: S. 1178A inserted (with effect in accordance with Sch. 7 paras. 27, 28 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 7 para. 22](https://www.legislation.gov.uk/ukpga/2009/10/schedule/7/paragraph/22)
+[^c-893d5b92584eb02e9903b9280040fbba]: Textual amendment: S. 1178A inserted (with effect in accordance with Sch. 7 paras. 27, 28 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 7 para. 22](https://www.legislation.gov.uk/ukpga/2009/10/schedule/7/paragraph/22)

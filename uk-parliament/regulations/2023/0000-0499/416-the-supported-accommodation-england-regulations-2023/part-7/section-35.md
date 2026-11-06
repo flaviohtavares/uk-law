@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Financial position[^key-7f800496b26a8f3dd0e0755e0a7968f0]
+## 35. Financial position[^c-7f800496b26a8f3dd0e0755e0a7968f0]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7f800496b26a8f3dd0e0755e0a7968f0]: Commencement: Reg. 35 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)
+[^c-7f800496b26a8f3dd0e0755e0a7968f0]: Commencement: Reg. 35 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)

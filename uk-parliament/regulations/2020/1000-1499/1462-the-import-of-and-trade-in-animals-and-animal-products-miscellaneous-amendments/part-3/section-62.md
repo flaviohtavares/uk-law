@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Commission Implementing Decision 2012/137/EU on imports into the Union of semen of domestic animals of the porcine species[^key-2f64002dfd3decb139ee36558c1a111d]
+## 62. Commission Implementing Decision 2012/137/EU on imports into the Union of semen of domestic animals of the porcine species[^c-2f64002dfd3decb139ee36558c1a111d]
 
 *Extent: E+W+S+N.I.*
 
@@ -112,4 +112,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2f64002dfd3decb139ee36558c1a111d]: Commencement: Reg. 62 in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3)
+[^c-2f64002dfd3decb139ee36558c1a111d]: Commencement: Reg. 62 in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3)

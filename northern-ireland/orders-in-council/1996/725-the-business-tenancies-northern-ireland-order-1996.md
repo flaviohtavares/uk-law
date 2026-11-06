@@ -113,7 +113,7 @@ shall be treated for the purposes of this Article as equivalent to occupation or
   - (i) a lessee to whom section 1 of the [^m00007] Leasehold (Enlargement and Extension) Act (Northern Ireland) 1971 applies; or
   - (ii) a lessee to whom an extended lease has been granted under the said Act of 1971;
 - (k) a tenancy granted by a landlord who is the holder of a licence under Part II of the [^m00008] Electricity (Northern Ireland) Order 1992 on the date of the commencement of the tenancy, or who becomes the holder of such a licence after that date, to a tenant who is the holder of such a licence on that date, or who becomes the holder of such a licence after that date.
-- (l)[^key-77d6a9aa86a909834ad86d440e30f211] a tenancy the primary purpose of which is to grant code rights within the meaning of Schedule 3A to the Communications Act 2003 (the electronic communications code), where the tenancy is granted after that Schedule comes into force.
+- (l)[^c-77d6a9aa86a909834ad86d440e30f211] a tenancy the primary purpose of which is to grant code rights within the meaning of Schedule 3A to the Communications Act 2003 (the electronic communications code), where the tenancy is granted after that Schedule comes into force.
 
 (2) In this Article—
 
@@ -263,7 +263,7 @@ as the Lands Tribunal considers proper in all the circumstances.
 (1) The grounds on which a landlord may make a tenancy application, or may oppose a tenancy application by the tenant, are such of the following grounds as may be stated in the landlord's notice to determine under Article 6, or as the case may be, in the landlord's notice under Article 7(6)(b), that is to say—
 
 - (a) where under the current tenancy the tenant has any obligations as respects the repair and maintenance of the holding, that the tenant ought not to be granted a new tenancy in view of the state of repair of the holding, being a state resulting from the tenant's failure to comply with those obligations;
-- (b)[^key-5abc96650ec2531eeca7307fa5177753][^key-8e55fcaece21b906f61dcc9322d6f4ce] that the tenant ought not to be granted a new tenancy in view of his persistent delay in paying rent which has become due;
+- (b)[^c-5abc96650ec2531eeca7307fa5177753][^c-8e55fcaece21b906f61dcc9322d6f4ce] that the tenant ought not to be granted a new tenancy in view of his persistent delay in paying rent which has become due;
 - (c) that the tenant ought not to be granted a new tenancy in view of other substantial breaches by him of his obligations under the current tenancy, or for any other reason connected with the tenant's use or management of the holding;
 - (d) that the landlord has offered and is willing to provide or secure the provision of alternative accommodation for the tenant, and—
   - (i) that the terms on which the alternative accommodation is available are reasonable having regard to the terms of the current tenancy and to all other relevant circumstances; and
@@ -282,7 +282,7 @@ as the Lands Tribunal considers proper in all the circumstances.
   - (ii) as his residence;
 - (i) where there subsists in the premises comprised in the tenancy an estate acquired (whether before or after the commencement of this Order) by a public authority, that possession of the premises is reasonably necessary for the public authority to carry out its functions under any statutory provision or rule of law.
 
-(2) In paragraph (1)(f) “development” has the same meaning as in the Planning Act (Northern Ireland) 2011[^key-c9c5a655295eb0e20049adebe9fc6494] .
+(2) In paragraph (1)(f) “development” has the same meaning as in the Planning Act (Northern Ireland) 2011[^c-c9c5a655295eb0e20049adebe9fc6494] .
 
 #### 13. Provisions supplemental to Article 12
 
@@ -373,14 +373,14 @@ as the Lands Tribunal considers proper in all the circumstances.
 - (a) the sum of any arrears of rent created by virtue of that direction; or
 - (b) where the Lands Tribunal also directs that interest shall be payable on rent in arrear, the sum of any arrears so created and interest on such arrears.
 
-(6)[^key-642154cabba78f7b35e7badf217def66] Paragraphs (2) to (5) do not apply to a new tenancy granted in pursuance of an order of the Lands Tribunal where—
+(6)[^c-642154cabba78f7b35e7badf217def66] Paragraphs (2) to (5) do not apply to a new tenancy granted in pursuance of an order of the Lands Tribunal where—
 
 - (a) the current tenancy is a subsisting agreement within the meaning of Schedule 2 to the Digital Economy Act 2017, and
 - (b) the primary purpose of the current tenancy is to confer code rights (within the meaning of paragraph 3 of that Schedule).
 
 (See instead Article 18A.)
 
-#### 18A. Rent under new tenancy conferring code rights[^key-207fcff83be5a6837af19f5c9674678c]
+#### 18A. Rent under new tenancy conferring code rights[^c-207fcff83be5a6837af19f5c9674678c]
 
 (1) This Article applies where—
 
@@ -410,7 +410,7 @@ as the Lands Tribunal considers proper in all the circumstances.
 - “**the electronic communications code**” means the code set out in Schedule 3A to the Communications Act 2003;
 - “**electronic communications network**” has the meaning given by section 32(1) of that Act.
 
-#### 18B. Compensation for exercise of code rights[^key-b1faa9e220372051914284256cee2706]
+#### 18B. Compensation for exercise of code rights[^c-b1faa9e220372051914284256cee2706]
 
 (1) This Article applies where—
 
@@ -803,7 +803,7 @@ Any notice, request, application, consent or other instrument required or author
 
 #### 42. Enforcement of orders of Lands Tribunal
 
-(1) Where, under Article 11(4), 18(5), 18B(2),[^key-b0c7ac1f82b3517eb7c1024823fc5d42] 21 (1), 26(7), 27(1) or (2) or 29(6)(b) or paragraph 3(4) of Schedule 1, the Lands Tribunal orders payment of any sum, the order shall be a money judgment for the purposes of Article 4 of the [^m00021] Judgments Enforcement (Northern Ireland) Order 1981.
+(1) Where, under Article 11(4), 18(5), 18B(2),[^c-b0c7ac1f82b3517eb7c1024823fc5d42] 21 (1), 26(7), 27(1) or (2) or 29(6)(b) or paragraph 3(4) of Schedule 1, the Lands Tribunal orders payment of any sum, the order shall be a money judgment for the purposes of Article 4 of the [^m00021] Judgments Enforcement (Northern Ireland) Order 1981.
 
 (2) Where the Lands Tribunal makes an order under Article 29(6)(a) and the defaulter fails to comply with it, a member of the Lands Tribunal may certify the failure to the High Court which may deal with the defaulter as if the order of the Lands Tribunal had been an order of the High Court.
 
@@ -910,7 +910,7 @@ that notice or request shall continue to have effect in accordance with that Act
 
 **11.** Nothing in the Act of 1964 or this Order affects any right that any person may have under the [^m00023] Town Tenants (Ireland) Act 1906 in respect of an improvement made before 1st January 1965.
 
-**12.** Nothing in this Order affects the operation of the Planning Act (Northern Ireland) 2011[^key-374068cf816d39da8cd1edda7083a5d1] .
+**12.** Nothing in this Order affects the operation of the Planning Act (Northern Ireland) 2011[^c-374068cf816d39da8cd1edda7083a5d1] .
 
 *Schedule 3—Amendments*
 
@@ -938,7 +938,7 @@ that notice or request shall continue to have effect in accordance with that Act
 
 [^m00008]: Marginal citation: 1992 NI 1.
 
-[^key-77d6a9aa86a909834ad86d440e30f211]: Textual amendment: [Art. 4(1)(l)](https://www.legislation.gov.uk/nisi/1996/725/article/4/1/l) inserted (28.12.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [s. 118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6), [Sch. 3 para. 40](https://www.legislation.gov.uk/ukpga/2017/30/schedule/3/paragraph/40); [S.I. 2017/1286](https://www.legislation.gov.uk/uksi/2017/1286), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2017/1286/regulation/2/d)
+[^c-77d6a9aa86a909834ad86d440e30f211]: Textual amendment: [Art. 4(1)(l)](https://www.legislation.gov.uk/nisi/1996/725/article/4/1/l) inserted (28.12.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [s. 118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6), [Sch. 3 para. 40](https://www.legislation.gov.uk/ukpga/2017/30/schedule/3/paragraph/40); [S.I. 2017/1286](https://www.legislation.gov.uk/uksi/2017/1286), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2017/1286/regulation/2/d)
 
 [^m00009]: Marginal citation: 1949 c. 2 (N.I.).
 
@@ -948,11 +948,11 @@ that notice or request shall continue to have effect in accordance with that Act
 
 [^m00010]: Marginal citation: 1978 NI 20.
 
-[^key-5abc96650ec2531eeca7307fa5177753]: Modification: [Art. 12(1)(b)](https://www.legislation.gov.uk/nisi/1996/725/article/12/1/b) modified (temp.) (25.3.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [ss. 83(6)](https://www.legislation.gov.uk/ukpga/2020/7/section/83/6), [87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1) (with [ss. 88-90](https://www.legislation.gov.uk/ukpga/2020/7/section/88))
+[^c-5abc96650ec2531eeca7307fa5177753]: Modification: [Art. 12(1)(b)](https://www.legislation.gov.uk/nisi/1996/725/article/12/1/b) modified (temp.) (25.3.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [ss. 83(6)](https://www.legislation.gov.uk/ukpga/2020/7/section/83/6), [87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1) (with [ss. 88-90](https://www.legislation.gov.uk/ukpga/2020/7/section/88))
 
-[^key-8e55fcaece21b906f61dcc9322d6f4ce]: Modification: [Art. 12(1)(b)](https://www.legislation.gov.uk/nisi/1996/725/article/12/1/b) expiry of earlier affecting provision 2020 c. 7, s. 80 (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
+[^c-8e55fcaece21b906f61dcc9322d6f4ce]: Modification: [Art. 12(1)(b)](https://www.legislation.gov.uk/nisi/1996/725/article/12/1/b) expiry of earlier affecting provision 2020 c. 7, s. 80 (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
 
-[^key-c9c5a655295eb0e20049adebe9fc6494]: Textual amendment: Words in art. 12(2) substituted (13.2.2015 for specified purposes, 1.4.2015 in so far as not already in operation) by [Planning Act (Northern Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 6 para. 79](https://www.legislation.gov.uk/nia/2011/25/schedule/6/paragraph/79) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [arts. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by [S.R. 2016/159](https://www.legislation.gov.uk/nisr/2016/159), art. 2)
+[^c-c9c5a655295eb0e20049adebe9fc6494]: Textual amendment: Words in art. 12(2) substituted (13.2.2015 for specified purposes, 1.4.2015 in so far as not already in operation) by [Planning Act (Northern Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 6 para. 79](https://www.legislation.gov.uk/nia/2011/25/schedule/6/paragraph/79) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [arts. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by [S.R. 2016/159](https://www.legislation.gov.uk/nisr/2016/159), art. 2)
 
 [^m00012]: Marginal citation: 1990 NI 6.
 
@@ -960,11 +960,11 @@ that notice or request shall continue to have effect in accordance with that Act
 
 [^m00013]: Marginal citation: 1978 NI 20.
 
-[^key-642154cabba78f7b35e7badf217def66]: Textual amendment: [Art. 18(6)](https://www.legislation.gov.uk/nisi/1996/725/article/18/6) inserted (7.4.2026) by [Product Security and Telecommunications Infrastructure Act 2022 (c. 46)](https://www.legislation.gov.uk/ukpga/2022/46), [ss. 62(2)](https://www.legislation.gov.uk/ukpga/2022/46/section/62/2), [79(2)](https://www.legislation.gov.uk/ukpga/2022/46/section/79/2); [S.I. 2025/1326](https://www.legislation.gov.uk/uksi/2025/1326), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/1326/regulation/2/b) (with [regs. 6-8](https://www.legislation.gov.uk/uksi/2025/1326/regulation/6))
+[^c-642154cabba78f7b35e7badf217def66]: Textual amendment: [Art. 18(6)](https://www.legislation.gov.uk/nisi/1996/725/article/18/6) inserted (7.4.2026) by [Product Security and Telecommunications Infrastructure Act 2022 (c. 46)](https://www.legislation.gov.uk/ukpga/2022/46), [ss. 62(2)](https://www.legislation.gov.uk/ukpga/2022/46/section/62/2), [79(2)](https://www.legislation.gov.uk/ukpga/2022/46/section/79/2); [S.I. 2025/1326](https://www.legislation.gov.uk/uksi/2025/1326), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/1326/regulation/2/b) (with [regs. 6-8](https://www.legislation.gov.uk/uksi/2025/1326/regulation/6))
 
-[^key-207fcff83be5a6837af19f5c9674678c]: Textual amendment: [Art. 18A](https://www.legislation.gov.uk/nisi/1996/725/article/18A) inserted (7.4.2026) by [Product Security and Telecommunications Infrastructure Act 2022 (c. 46)](https://www.legislation.gov.uk/ukpga/2022/46), [ss. 62(3)](https://www.legislation.gov.uk/ukpga/2022/46/section/62/3), [79(2)](https://www.legislation.gov.uk/ukpga/2022/46/section/79/2); [S.I. 2025/1326](https://www.legislation.gov.uk/uksi/2025/1326), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/1326/regulation/2/b) (with [regs. 6-8](https://www.legislation.gov.uk/uksi/2025/1326/regulation/6))
+[^c-207fcff83be5a6837af19f5c9674678c]: Textual amendment: [Art. 18A](https://www.legislation.gov.uk/nisi/1996/725/article/18A) inserted (7.4.2026) by [Product Security and Telecommunications Infrastructure Act 2022 (c. 46)](https://www.legislation.gov.uk/ukpga/2022/46), [ss. 62(3)](https://www.legislation.gov.uk/ukpga/2022/46/section/62/3), [79(2)](https://www.legislation.gov.uk/ukpga/2022/46/section/79/2); [S.I. 2025/1326](https://www.legislation.gov.uk/uksi/2025/1326), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/1326/regulation/2/b) (with [regs. 6-8](https://www.legislation.gov.uk/uksi/2025/1326/regulation/6))
 
-[^key-b1faa9e220372051914284256cee2706]: Textual amendment: [Arts. 18B](https://www.legislation.gov.uk/nisi/1996/725/article/18B), [18C](https://www.legislation.gov.uk/nisi/1996/725/article/18C) inserted (7.4.2026) by [Product Security and Telecommunications Infrastructure Act 2022 (c. 46)](https://www.legislation.gov.uk/ukpga/2022/46), [ss. 64(2)](https://www.legislation.gov.uk/ukpga/2022/46/section/64/2), [79(2)](https://www.legislation.gov.uk/ukpga/2022/46/section/79/2); [S.I. 2025/1326](https://www.legislation.gov.uk/uksi/2025/1326), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2025/1326/regulation/2/d) (with [regs. 6-8](https://www.legislation.gov.uk/uksi/2025/1326/regulation/6))
+[^c-b1faa9e220372051914284256cee2706]: Textual amendment: [Arts. 18B](https://www.legislation.gov.uk/nisi/1996/725/article/18B), [18C](https://www.legislation.gov.uk/nisi/1996/725/article/18C) inserted (7.4.2026) by [Product Security and Telecommunications Infrastructure Act 2022 (c. 46)](https://www.legislation.gov.uk/ukpga/2022/46), [ss. 64(2)](https://www.legislation.gov.uk/ukpga/2022/46/section/64/2), [79(2)](https://www.legislation.gov.uk/ukpga/2022/46/section/79/2); [S.I. 2025/1326](https://www.legislation.gov.uk/uksi/2025/1326), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2025/1326/regulation/2/d) (with [regs. 6-8](https://www.legislation.gov.uk/uksi/2025/1326/regulation/6))
 
 [^m00014]: Marginal citation: 1881 c. 41.
 
@@ -984,7 +984,7 @@ that notice or request shall continue to have effect in accordance with that Act
 
 [^m00020]: Marginal citation: 1954 c. 33 (N.I.).
 
-[^key-b0c7ac1f82b3517eb7c1024823fc5d42]: Textual amendment: Word in [art. 42(1)](https://www.legislation.gov.uk/nisi/1996/725/article/42/1) inserted (7.4.2026) by [Product Security and Telecommunications Infrastructure Act 2022 (c. 46)](https://www.legislation.gov.uk/ukpga/2022/46), [ss. 64(3)](https://www.legislation.gov.uk/ukpga/2022/46/section/64/3), [79(2)](https://www.legislation.gov.uk/ukpga/2022/46/section/79/2); [S.I. 2025/1326](https://www.legislation.gov.uk/uksi/2025/1326), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2025/1326/regulation/2/d) (with [regs. 6-8](https://www.legislation.gov.uk/uksi/2025/1326/regulation/6))
+[^c-b0c7ac1f82b3517eb7c1024823fc5d42]: Textual amendment: Word in [art. 42(1)](https://www.legislation.gov.uk/nisi/1996/725/article/42/1) inserted (7.4.2026) by [Product Security and Telecommunications Infrastructure Act 2022 (c. 46)](https://www.legislation.gov.uk/ukpga/2022/46), [ss. 64(3)](https://www.legislation.gov.uk/ukpga/2022/46/section/64/3), [79(2)](https://www.legislation.gov.uk/ukpga/2022/46/section/79/2); [S.I. 2025/1326](https://www.legislation.gov.uk/uksi/2025/1326), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2025/1326/regulation/2/d) (with [regs. 6-8](https://www.legislation.gov.uk/uksi/2025/1326/regulation/6))
 
 [^m00021]: Marginal citation: 1981 NI 6.
 
@@ -992,4 +992,4 @@ that notice or request shall continue to have effect in accordance with that Act
 
 [^m00023]: Marginal citation: 1906 c. 54.
 
-[^key-374068cf816d39da8cd1edda7083a5d1]: Textual amendment: Words in Sch. 2 para. 12 substituted (13.2.2015 for specified purposes, 1.4.2015 in so far as not already in operation) by [Planning Act (Northern Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 6 para. 80](https://www.legislation.gov.uk/nia/2011/25/schedule/6/paragraph/80) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [arts. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by [S.R. 2016/159](https://www.legislation.gov.uk/nisr/2016/159), art. 2)
+[^c-374068cf816d39da8cd1edda7083a5d1]: Textual amendment: Words in Sch. 2 para. 12 substituted (13.2.2015 for specified purposes, 1.4.2015 in so far as not already in operation) by [Planning Act (Northern Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 6 para. 80](https://www.legislation.gov.uk/nia/2011/25/schedule/6/paragraph/80) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [arts. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by [S.R. 2016/159](https://www.legislation.gov.uk/nisr/2016/159), art. 2)

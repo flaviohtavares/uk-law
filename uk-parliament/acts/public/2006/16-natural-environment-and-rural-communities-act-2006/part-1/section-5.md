@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Carrying out proposals etc.[^key-7fe33ebfc366afe6fa2737f9c92a9919]
+## 5. Carrying out proposals etc.[^c-7fe33ebfc366afe6fa2737f9c92a9919]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ Natural England may—
 
 ## Annotations
 
-[^key-7fe33ebfc366afe6fa2737f9c92a9919]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2006/16/section/5) in force at 2.5.2006 by [S.I. 2006/1176](https://www.legislation.gov.uk/uksi/2006/1176), [art. 4](https://www.legislation.gov.uk/uksi/2006/1176/article/4)
+[^c-7fe33ebfc366afe6fa2737f9c92a9919]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2006/16/section/5) in force at 2.5.2006 by [S.I. 2006/1176](https://www.legislation.gov.uk/uksi/2006/1176), [art. 4](https://www.legislation.gov.uk/uksi/2006/1176/article/4)

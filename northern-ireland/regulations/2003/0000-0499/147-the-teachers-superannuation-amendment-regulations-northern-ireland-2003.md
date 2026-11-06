@@ -31,7 +31,7 @@ summary: ''
 
 EDUCATION
 
-The Teachers' Superannuation (Amendment) Regulations (Northern Ireland) 2003 (revoked)[^key-f317292078eb3cf315d70ec0a7600f3c]
+The Teachers' Superannuation (Amendment) Regulations (Northern Ireland) 2003 (revoked)[^c-f317292078eb3cf315d70ec0a7600f3c]
 
 Made
 
@@ -41,22 +41,22 @@ Coming into operation
 
 31st March 2003
 
-[^key-f317292078eb3cf315d70ec0a7600f3c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f317292078eb3cf315d70ec0a7600f3c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-f317292078eb3cf315d70ec0a7600f3c]
+## 1. Citation and commencement[^c-f317292078eb3cf315d70ec0a7600f3c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the principal Regulations[^key-f317292078eb3cf315d70ec0a7600f3c]
+## 2. Amendment of the principal Regulations[^c-f317292078eb3cf315d70ec0a7600f3c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f317292078eb3cf315d70ec0a7600f3c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f317292078eb3cf315d70ec0a7600f3c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f317292078eb3cf315d70ec0a7600f3c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f317292078eb3cf315d70ec0a7600f3c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f317292078eb3cf315d70ec0a7600f3c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/147) revoked (31.3.2005) by [The Teachers' Superannuation (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/181)](https://www.legislation.gov.uk/nisr/2005/181), [regs. 1](https://www.legislation.gov.uk/nisr/2005/181/regulation/1), [11](https://www.legislation.gov.uk/nisr/2005/181/regulation/11)
+[^c-f317292078eb3cf315d70ec0a7600f3c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/147) revoked (31.3.2005) by [The Teachers' Superannuation (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/181)](https://www.legislation.gov.uk/nisr/2005/181), [regs. 1](https://www.legislation.gov.uk/nisr/2005/181/regulation/1), [11](https://www.legislation.gov.uk/nisr/2005/181/regulation/11)

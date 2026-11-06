@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 138. Amendment to Schedule 8C[^key-9f7c510206a1df8726ce7cf34fb0eaaa]
+## 138. Amendment to Schedule 8C[^c-9f7c510206a1df8726ce7cf34fb0eaaa]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ In Schedule 8C (material to accompany an application under the unfettered access
 
 ## Annotations
 
-[^key-9f7c510206a1df8726ce7cf34fb0eaaa]: Commencement: [Reg. 138](https://www.legislation.gov.uk/uksi/2024/832/regulation/138) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-9f7c510206a1df8726ce7cf34fb0eaaa]: Commencement: [Reg. 138](https://www.legislation.gov.uk/uksi/2024/832/regulation/138) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00145]: Footnote: Schedule 8C was inserted by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488).

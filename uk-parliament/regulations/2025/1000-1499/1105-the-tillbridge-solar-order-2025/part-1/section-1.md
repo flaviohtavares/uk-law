@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1. Citation and commencement[^key-305208fcaaa4a191a3bbee1f24e24d47]
+## 1. Citation and commencement[^c-305208fcaaa4a191a3bbee1f24e24d47]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ This Order may be cited as the Tillbridge Solar Order 2025 and comes into force 
 
 ## Annotations
 
-[^key-305208fcaaa4a191a3bbee1f24e24d47]: Commencement: Art. 1 in force at 5.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1105/article/1)
+[^c-305208fcaaa4a191a3bbee1f24e24d47]: Commencement: Art. 1 in force at 5.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1105/article/1)

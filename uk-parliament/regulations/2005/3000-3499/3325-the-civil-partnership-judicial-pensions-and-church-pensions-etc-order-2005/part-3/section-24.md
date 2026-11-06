@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: N.I.*
 
-**24.**[^key-fa5af4f156b16e675521321704a96244] (1) In section 124 (children’s pension: beneficiaries), subsection (4) is amended as follows.
+**24.**[^c-fa5af4f156b16e675521321704a96244] (1) In section 124 (children’s pension: beneficiaries), subsection (4) is amended as follows.
 
 (2) After “married” insert “or a person who at the time of the death of the deceased was a civil partner”.
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fa5af4f156b16e675521321704a96244]: Commencement: Art. 24 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
+[^c-fa5af4f156b16e675521321704a96244]: Commencement: Art. 24 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)

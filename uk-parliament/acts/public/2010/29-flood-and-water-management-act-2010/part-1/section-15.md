@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 15. Civil sanctions[^key-8a13e21e8b93130dc97baea02dfe78bf][^key-5fa9e5725bcdea2f97ce6b4e1be3cc40]
+## 15. Civil sanctions[^c-8a13e21e8b93130dc97baea02dfe78bf][^c-5fa9e5725bcdea2f97ce6b4e1be3cc40]
 
 *Extent: E+W*
 
@@ -59,7 +59,7 @@ summary: ''
 
 - (a) the Secretary of State in relation to penalties issued by—
   - (i) lead local flood authorities for areas in England, and
-  - (ii) the Natural Resources Body for Wales[^key-678e0815133f76415989cfa9b82eee1f] in respect of a failure to comply with a request in connection with a flood or coastal erosion risk management function in relation to England, and
+  - (ii) the Natural Resources Body for Wales[^c-678e0815133f76415989cfa9b82eee1f] in respect of a failure to comply with a request in connection with a flood or coastal erosion risk management function in relation to England, and
 - (b) the Welsh Ministers in relation to penalties issued by—
   - (i) lead local flood authorities for areas in Wales,
   - (ii) the Environment Agency in respect of a failure to comply with a request in connection with a flood or coastal erosion risk management function in relation to Wales, and
@@ -74,8 +74,8 @@ summary: ''
 
 ## Annotations
 
-[^key-8a13e21e8b93130dc97baea02dfe78bf]: Commencement: S. 15 in force at 18.1.2011 for specified purposes by [S.I. 2011/95](https://www.legislation.gov.uk/uksi/2011/95), [art. 2(a)](https://www.legislation.gov.uk/uksi/2011/95/article/2/a)
+[^c-8a13e21e8b93130dc97baea02dfe78bf]: Commencement: S. 15 in force at 18.1.2011 for specified purposes by [S.I. 2011/95](https://www.legislation.gov.uk/uksi/2011/95), [art. 2(a)](https://www.legislation.gov.uk/uksi/2011/95/article/2/a)
 
-[^key-5fa9e5725bcdea2f97ce6b4e1be3cc40]: Commencement: S. 15 in force at 6.4.2011 for W. in so far as not already in force by [S.I. 2011/694](https://www.legislation.gov.uk/uksi/2011/694), [art. 4(2)](https://www.legislation.gov.uk/uksi/2011/694/article/4/2)
+[^c-5fa9e5725bcdea2f97ce6b4e1be3cc40]: Commencement: S. 15 in force at 6.4.2011 for W. in so far as not already in force by [S.I. 2011/694](https://www.legislation.gov.uk/uksi/2011/694), [art. 4(2)](https://www.legislation.gov.uk/uksi/2011/694/article/4/2)
 
-[^key-678e0815133f76415989cfa9b82eee1f]: Textual amendment: Words in s. 15(10)(b)(ii) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 457](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/457) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-678e0815133f76415989cfa9b82eee1f]: Textual amendment: Words in s. 15(10)(b)(ii) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 457](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/457) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

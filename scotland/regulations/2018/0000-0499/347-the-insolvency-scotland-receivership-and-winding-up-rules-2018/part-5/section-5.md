@@ -68,9 +68,9 @@ A demand served by a creditor on a company under section 123(1)(a) (registered c
 - (c) a contributory;
 - (d) the company;
 - (e) the directors of the company;
-- (f) the Secretary of State; or[^key-aacb2d9972e1e412e9018899efe28458]
-- (g)[^key-62e6e01a70760d9a4fbaafcf353b2ede] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (h)[^key-0d3e1244ed62494765c93d7d5ca1a413] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f) the Secretary of State; or[^c-aacb2d9972e1e412e9018899efe28458]
+- (g)[^c-62e6e01a70760d9a4fbaafcf353b2ede] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (h)[^c-0d3e1244ed62494765c93d7d5ca1a413] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (i) any person who under any enactment would be entitled to present a petition for the winding up of the company.
 
 (2) The court must not make the appointment unless and until the person being appointed provisional liquidator has lodged in court a statement to the effect that that person is qualified to act as an insolvency practitioner in relation to the company and consents to act as provisional liquidator.
@@ -83,7 +83,7 @@ The provisional liquidator must as soon as reasonably practicable after receipt 
 
 - (a) the registrar of companies;
 - (b) AiB;
-- (ba)[^key-0644f9ce02164d3579ea9ec62099cccd] where a moratorium under Part A1 of the Act is in force for the company, the monitor.
+- (ba)[^c-0644f9ce02164d3579ea9ec62099cccd] where a moratorium under Part A1 of the Act is in force for the company, the monitor.
 - (c) the company (or the liquidator, if a liquidator was appointed for the company's voluntary winding up); and
 - (d) any receiver of the whole or any part of the company's property.
 
@@ -166,7 +166,7 @@ The provisional liquidator must as soon as reasonably practicable after receipt 
 (5) The notice referred to in paragraph (4) must be delivered as soon as reasonably practicable to—
 
 - (a) the registrar of companies;
-- (aa)[^key-567920a1e85576cbeddd54a3102e5779] if a moratorium under Part A1 of the Act is in force for the company, the monitor;
+- (aa)[^c-567920a1e85576cbeddd54a3102e5779] if a moratorium under Part A1 of the Act is in force for the company, the monitor;
 - (b) AiB;
 - (c) the company (or the liquidator, if a liquidator was appointed for the company's voluntary winding up); and
 - (d) any receiver of the whole or any part of the company's property.
@@ -212,7 +212,7 @@ In this Chapter—
 
 *Extent: S*
 
-(1) The statement of affairs must be headed “Statement of affairs” and must contain the following, and where paragraph (1B) applies, the information specified in that paragraph[^key-b6a1ad5701c0c1b3eaf3d320fe30e725]—
+(1) The statement of affairs must be headed “Statement of affairs” and must contain the following, and where paragraph (1B) applies, the information specified in that paragraph[^c-b6a1ad5701c0c1b3eaf3d320fe30e725]—
 
 - (a) identification details for the company;
 - (b) a statement that it is a statement of the affairs of the company on a date which is specified, being—
@@ -247,7 +247,7 @@ In this Chapter—
   - (ii) any creditors who are consumers claiming amounts paid in advance of the supply of goods or services, and
   - (iii) any creditors claiming retention of title over property in the company's possession.
 
-(1A)[^key-33f4c4fd654d7260a79dbf9ffce7756b] Paragraph (1B) applies if a moratorium under Part A1 of the Act is or has been in force for the company at any time within the period of 12 weeks ending with the day on which the winding up petition is presented.
+(1A)[^c-33f4c4fd654d7260a79dbf9ffce7756b] Paragraph (1B) applies if a moratorium under Part A1 of the Act is or has been in force for the company at any time within the period of 12 weeks ending with the day on which the winding up petition is presented.
 
 (1B) Where this paragraph applies the statement of affairs must contain the following—
 
@@ -1033,21 +1033,21 @@ Where the court makes an order under section 204(5) [^c23538481] or 205(5) [^c23
 
 ## Annotations
 
-[^key-aacb2d9972e1e412e9018899efe28458]: Textual amendment: Word in rule 5.4(1)(f) inserted (31.12.2020) by [S.I. 2019/146](https://www.legislation.gov.uk/uksi/2019/146), [Sch. para. 137E(a)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/137E/a) (as inserted by [The Insolvency (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1459)](https://www.legislation.gov.uk/uksi/2019/1459), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1459/regulation/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/1459/schedule/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-aacb2d9972e1e412e9018899efe28458]: Textual amendment: Word in rule 5.4(1)(f) inserted (31.12.2020) by [S.I. 2019/146](https://www.legislation.gov.uk/uksi/2019/146), [Sch. para. 137E(a)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/137E/a) (as inserted by [The Insolvency (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1459)](https://www.legislation.gov.uk/uksi/2019/1459), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1459/regulation/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/1459/schedule/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
 
-[^key-62e6e01a70760d9a4fbaafcf353b2ede]: Textual amendment: Rule 5.4(1)(g) omitted (31.12.2020) by virtue of [S.I. 2019/146](https://www.legislation.gov.uk/uksi/2019/146), [Sch. para. 137E(b)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/137E/b) (as inserted by [The Insolvency (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1459)](https://www.legislation.gov.uk/uksi/2019/1459), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1459/regulation/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/1459/schedule/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-62e6e01a70760d9a4fbaafcf353b2ede]: Textual amendment: Rule 5.4(1)(g) omitted (31.12.2020) by virtue of [S.I. 2019/146](https://www.legislation.gov.uk/uksi/2019/146), [Sch. para. 137E(b)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/137E/b) (as inserted by [The Insolvency (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1459)](https://www.legislation.gov.uk/uksi/2019/1459), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1459/regulation/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/1459/schedule/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
 
-[^key-0d3e1244ed62494765c93d7d5ca1a413]: Textual amendment: Rule 5.4(1)(h) omitted (31.12.2020) by virtue of [S.I. 2019/146](https://www.legislation.gov.uk/uksi/2019/146), [Sch. para. 137E(c)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/137E/c) (as inserted by [The Insolvency (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1459)](https://www.legislation.gov.uk/uksi/2019/1459), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1459/regulation/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/1459/schedule/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-0d3e1244ed62494765c93d7d5ca1a413]: Textual amendment: Rule 5.4(1)(h) omitted (31.12.2020) by virtue of [S.I. 2019/146](https://www.legislation.gov.uk/uksi/2019/146), [Sch. para. 137E(c)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/137E/c) (as inserted by [The Insolvency (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1459)](https://www.legislation.gov.uk/uksi/2019/1459), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1459/regulation/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/1459/schedule/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
 
-[^key-0644f9ce02164d3579ea9ec62099cccd]: Textual amendment: [Rule 5.5(ba)](https://www.legislation.gov.uk/ssi/2018/347/rule/5.5/ba) inserted (1.10.2021) by [The Insolvency (Scotland) (Receivership and Winding up) (Amendment) Rules 2021 (S.I. 2021/1025)](https://www.legislation.gov.uk/uksi/2021/1025), [rules 1](https://www.legislation.gov.uk/uksi/2021/1025/rule/1), [9(2)](https://www.legislation.gov.uk/uksi/2021/1025/rule/9/2) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1025/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1025/rule/5))
+[^c-0644f9ce02164d3579ea9ec62099cccd]: Textual amendment: [Rule 5.5(ba)](https://www.legislation.gov.uk/ssi/2018/347/rule/5.5/ba) inserted (1.10.2021) by [The Insolvency (Scotland) (Receivership and Winding up) (Amendment) Rules 2021 (S.I. 2021/1025)](https://www.legislation.gov.uk/uksi/2021/1025), [rules 1](https://www.legislation.gov.uk/uksi/2021/1025/rule/1), [9(2)](https://www.legislation.gov.uk/uksi/2021/1025/rule/9/2) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1025/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1025/rule/5))
 
 [^M_C_b73f6745-7216-452c-8ec3-e49b9c0d244c]: Modification: Rule 5.9(4) applied by [S.I. 1999/2979](https://www.legislation.gov.uk/uksi/1999/2979), [reg. 14(5)(a)(ii)](https://www.legislation.gov.uk/uksi/1999/2979/regulation/14/5/a/ii) (as amended (23.4.2019) by [The Financial Services and Markets (Insolvency) (Amendment of Miscellaneous Enactments) Regulations 2019 (S.I. 2019/755)](https://www.legislation.gov.uk/uksi/2019/755), [regs. 1](https://www.legislation.gov.uk/uksi/2019/755/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2019/755/regulation/2/2/b))
 
-[^key-567920a1e85576cbeddd54a3102e5779]: Textual amendment: [Rule 5.10(5)(aa)](https://www.legislation.gov.uk/ssi/2018/347/rule/5.10/aa) inserted (1.10.2021) by [The Insolvency (Scotland) (Receivership and Winding up) (Amendment) Rules 2021 (S.I. 2021/1025)](https://www.legislation.gov.uk/uksi/2021/1025), [rules 1](https://www.legislation.gov.uk/uksi/2021/1025/rule/1), [10(2)](https://www.legislation.gov.uk/uksi/2021/1025/rule/10/2) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1025/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1025/rule/5))
+[^c-567920a1e85576cbeddd54a3102e5779]: Textual amendment: [Rule 5.10(5)(aa)](https://www.legislation.gov.uk/ssi/2018/347/rule/5.10/aa) inserted (1.10.2021) by [The Insolvency (Scotland) (Receivership and Winding up) (Amendment) Rules 2021 (S.I. 2021/1025)](https://www.legislation.gov.uk/uksi/2021/1025), [rules 1](https://www.legislation.gov.uk/uksi/2021/1025/rule/1), [10(2)](https://www.legislation.gov.uk/uksi/2021/1025/rule/10/2) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1025/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1025/rule/5))
 
-[^key-b6a1ad5701c0c1b3eaf3d320fe30e725]: Textual amendment: Words in [rule 5.13(1)](https://www.legislation.gov.uk/ssi/2018/347/rule/5.13/1) inserted (1.10.2021) by [The Insolvency (Scotland) (Receivership and Winding up) (Amendment) Rules 2021 (S.I. 2021/1025)](https://www.legislation.gov.uk/uksi/2021/1025), [rules 1](https://www.legislation.gov.uk/uksi/2021/1025/rule/1), [11(2)](https://www.legislation.gov.uk/uksi/2021/1025/rule/11/2) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1025/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1025/rule/5))
+[^c-b6a1ad5701c0c1b3eaf3d320fe30e725]: Textual amendment: Words in [rule 5.13(1)](https://www.legislation.gov.uk/ssi/2018/347/rule/5.13/1) inserted (1.10.2021) by [The Insolvency (Scotland) (Receivership and Winding up) (Amendment) Rules 2021 (S.I. 2021/1025)](https://www.legislation.gov.uk/uksi/2021/1025), [rules 1](https://www.legislation.gov.uk/uksi/2021/1025/rule/1), [11(2)](https://www.legislation.gov.uk/uksi/2021/1025/rule/11/2) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1025/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1025/rule/5))
 
-[^key-33f4c4fd654d7260a79dbf9ffce7756b]: Textual amendment: [Rules 5.13(1A)-(1C)](https://www.legislation.gov.uk/ssi/2018/347/rule/5.13/1A) inserted (1.10.2021) by [The Insolvency (Scotland) (Receivership and Winding up) (Amendment) Rules 2021 (S.I. 2021/1025)](https://www.legislation.gov.uk/uksi/2021/1025), [rules 1](https://www.legislation.gov.uk/uksi/2021/1025/rule/1), [11(3)](https://www.legislation.gov.uk/uksi/2021/1025/rule/11/3) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1025/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1025/rule/5))
+[^c-33f4c4fd654d7260a79dbf9ffce7756b]: Textual amendment: [Rules 5.13(1A)-(1C)](https://www.legislation.gov.uk/ssi/2018/347/rule/5.13/1A) inserted (1.10.2021) by [The Insolvency (Scotland) (Receivership and Winding up) (Amendment) Rules 2021 (S.I. 2021/1025)](https://www.legislation.gov.uk/uksi/2021/1025), [rules 1](https://www.legislation.gov.uk/uksi/2021/1025/rule/1), [11(3)](https://www.legislation.gov.uk/uksi/2021/1025/rule/11/3) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1025/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1025/rule/5))
 
 [^c23538361]: Marginal citation: [Section 131(2A)](https://www.legislation.gov.uk/ssi/2018/347/section/131/2A) was inserted by [S.I. 2010/18](https://www.legislation.gov.uk/uksi/2010/18) and prospectively amended for Scotland by [S.S.I. 2016/141](https://www.legislation.gov.uk/ssi/2016/141), [article 10](https://www.legislation.gov.uk/ssi/2016/141/article/10).
 

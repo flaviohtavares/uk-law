@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43A. Requirement for wholesale dealers to decommission the unique identifier[^key-81d7e1af7c903923e5ce80d972e8de80]
+## 43A. Requirement for wholesale dealers to decommission the unique identifier[^c-81d7e1af7c903923e5ce80d972e8de80]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-81d7e1af7c903923e5ce80d972e8de80]: Textual amendment: [Reg. 43A](https://www.legislation.gov.uk/uksi/2012/1916/regulation/43A) omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [19](https://www.legislation.gov.uk/uksi/2024/832/regulation/19)
+[^c-81d7e1af7c903923e5ce80d972e8de80]: Textual amendment: [Reg. 43A](https://www.legislation.gov.uk/uksi/2012/1916/regulation/43A) omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [19](https://www.legislation.gov.uk/uksi/2024/832/regulation/19)

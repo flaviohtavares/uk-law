@@ -36,16 +36,16 @@ An Act to make provision to end rights to free movement of persons under retaine
 
 Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## PART 1 — Measures relating to ending free movement[^key-0430232fe50f8fb21c016c45d5b3fc6a][^key-547f336c709ee8deaa69212bae9bc235][^key-26f6fce2f9d4af040c294d0d0dd4a150][^key-f1a3c1bd78a08a77ede9a96778f5ac32]
+## PART 1 — Measures relating to ending free movement[^c-0430232fe50f8fb21c016c45d5b3fc6a][^c-547f336c709ee8deaa69212bae9bc235][^c-26f6fce2f9d4af040c294d0d0dd4a150][^c-f1a3c1bd78a08a77ede9a96778f5ac32]
 
-### 1. Repeal of the main retained EU law relating to free movement etc.[^key-0430232fe50f8fb21c016c45d5b3fc6a][^key-013a089df733b37d694fcda9ab1e6df7][^key-749df5c694ca86d7a3b7ef0f7f987101][^key-547f336c709ee8deaa69212bae9bc235][^key-69447ff45d494b8fb0210dd6da40dcac][^key-0430232fe50f8fb21c016c45d5b3fc6a][^key-547f336c709ee8deaa69212bae9bc235]
+### 1. Repeal of the main retained EU law relating to free movement etc.[^c-0430232fe50f8fb21c016c45d5b3fc6a][^c-013a089df733b37d694fcda9ab1e6df7][^c-749df5c694ca86d7a3b7ef0f7f987101][^c-547f336c709ee8deaa69212bae9bc235][^c-69447ff45d494b8fb0210dd6da40dcac][^c-0430232fe50f8fb21c016c45d5b3fc6a][^c-547f336c709ee8deaa69212bae9bc235]
 
 Schedule 1 makes provision to—
 
 - (a) end rights to free movement of persons under retained EU law, including by repealing the main provisions of retained EU law relating to free movement, and
 - (b) end other EU-derived rights, and repeal other retained EU law, relating to immigration.
 
-### 2. Irish citizens: entitlement to enter or remain without leave[^key-5fee84c8b18a6c2a8725edf1c3467570][^key-fb8e55aeaf9259771274066c58e2e8b1][^key-0430232fe50f8fb21c016c45d5b3fc6a][^key-547f336c709ee8deaa69212bae9bc235][^key-d1eea565a65d1b39c947ed11162ca9ff][^key-0430232fe50f8fb21c016c45d5b3fc6a][^key-547f336c709ee8deaa69212bae9bc235]
+### 2. Irish citizens: entitlement to enter or remain without leave[^c-5fee84c8b18a6c2a8725edf1c3467570][^c-fb8e55aeaf9259771274066c58e2e8b1][^c-0430232fe50f8fb21c016c45d5b3fc6a][^c-547f336c709ee8deaa69212bae9bc235][^c-d1eea565a65d1b39c947ed11162ca9ff][^c-0430232fe50f8fb21c016c45d5b3fc6a][^c-547f336c709ee8deaa69212bae9bc235]
 
 (1) The Immigration Act 1971 is amended as follows.
 
@@ -77,28 +77,28 @@ Schedule 1 makes provision to—
 - (a) in paragraph 1, in sub-paragraphs (1) and (2), after “British citizen” insert “ or an Irish citizen ”;
 - (b) in paragraph 4, after “British citizen” insert “ or an Irish citizen ”.
 
-### 3. Protection claimants: legal routes from the EU and family reunion[^key-0430232fe50f8fb21c016c45d5b3fc6a][^key-547f336c709ee8deaa69212bae9bc235]
+### 3. Protection claimants: legal routes from the EU and family reunion[^c-0430232fe50f8fb21c016c45d5b3fc6a][^c-547f336c709ee8deaa69212bae9bc235]
 
-(1)[^key-133824f7dc51f1441a505147289d5e03] The Secretary of State must review, or arrange for a review of, the ways in which protection claimants who are in a member State are able to enter the United Kingdom lawfully.
+(1)[^c-133824f7dc51f1441a505147289d5e03] The Secretary of State must review, or arrange for a review of, the ways in which protection claimants who are in a member State are able to enter the United Kingdom lawfully.
 
-(2)[^key-986adfc5c65aa2e530d3f076b8309b62][^key-133824f7dc51f1441a505147289d5e03][^key-db5c10b74291da62281289377058f3c3] For the purposes of this section a “protection claimant” is a person who—
+(2)[^c-986adfc5c65aa2e530d3f076b8309b62][^c-133824f7dc51f1441a505147289d5e03][^c-db5c10b74291da62281289377058f3c3] For the purposes of this section a “protection claimant” is a person who—
 
 - (a) has made an application for international protection to a member State, or
 - (b) is not a national of a member State and is seeking to come to the United Kingdom from a member State for the purpose of making a protection claim.
 
-(3)[^key-133824f7dc51f1441a505147289d5e03] The review under subsection (1) must, in particular—
+(3)[^c-133824f7dc51f1441a505147289d5e03] The review under subsection (1) must, in particular—
 
 - (a) consider the position of unaccompanied children in member States who are protection claimants and are seeking to come to the United Kingdom to join relatives there, and
 - (b) include a public consultation on that aspect of the review.
 
-(4)[^key-730dbd1ffb3352fa75b5f8033b6a3f76] The Secretary of State must, within the period of three months beginning with the day on which this Act is passed, lay before Parliament a statement providing further details about the review under subsection (1) and, in particular, about the aspect of the review described in subsection (3).
+(4)[^c-730dbd1ffb3352fa75b5f8033b6a3f76] The Secretary of State must, within the period of three months beginning with the day on which this Act is passed, lay before Parliament a statement providing further details about the review under subsection (1) and, in particular, about the aspect of the review described in subsection (3).
 
-(5)[^key-133824f7dc51f1441a505147289d5e03] After the review, the Secretary of State must—
+(5)[^c-133824f7dc51f1441a505147289d5e03] After the review, the Secretary of State must—
 
 - (a) prepare a report on the outcome of the review or arrange for such a report to be prepared, and
 - (b) publish the report and lay it before Parliament.
 
-(6)[^key-986adfc5c65aa2e530d3f076b8309b62][^key-db5c10b74291da62281289377058f3c3] In this section—
+(6)[^c-986adfc5c65aa2e530d3f076b8309b62][^c-db5c10b74291da62281289377058f3c3] In this section—
 
 - “**application for international protection**” has the meaning given by Article 2(h) of [Directive 2011/95/EU](https://www.legislation.gov.uk/eudr/2011/0095) of the European Parliament and of the Council on standards for the qualification of third-country nationals or stateless persons as beneficiaries of international protection, for a uniform status for refugees or for persons eligible for subsidiary protection, and for the content of the protection granted;
 - “**protection claim**” has the same meaning as in Part 5 of the Nationality, Immigration and Asylum Act 2002 (see section 82(2) of that Act);
@@ -107,7 +107,7 @@ Schedule 1 makes provision to—
   - (a) is aged 18 or over, and
   - (b) by law or custom of the country or territory in which the child is present, has responsibility for caring for the child.
 
-### 4. Meaning of “the Immigration Acts” etc.[^key-0430232fe50f8fb21c016c45d5b3fc6a][^key-ac3f15179acb459d192aaccb87848693][^key-ee87a2e6b06f076c24e755c0ecaef37d][^key-547f336c709ee8deaa69212bae9bc235][^key-b21c38243fb0a319922b15ce31de3e93][^key-0430232fe50f8fb21c016c45d5b3fc6a][^key-547f336c709ee8deaa69212bae9bc235]
+### 4. Meaning of “the Immigration Acts” etc.[^c-0430232fe50f8fb21c016c45d5b3fc6a][^c-ac3f15179acb459d192aaccb87848693][^c-ee87a2e6b06f076c24e755c0ecaef37d][^c-547f336c709ee8deaa69212bae9bc235][^c-b21c38243fb0a319922b15ce31de3e93][^c-0430232fe50f8fb21c016c45d5b3fc6a][^c-547f336c709ee8deaa69212bae9bc235]
 
 (1) In section 61 of the UK Borders Act 2007, in subsection (2) (which defines “the Immigration Acts”)—
 
@@ -118,16 +118,16 @@ Schedule 1 makes provision to—
   >
   > - (l) Part 1 of the Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (and Part 3 so far as relating to that Part).
 
-(2) This Part is not assimilated[^key-1a11dbab573a666b222c08d14232dbea] law.
+(2) This Part is not assimilated[^c-1a11dbab573a666b222c08d14232dbea] law.
 
-### 5. Consequential etc. provision[^key-11441d9b87d74db7e1fb09df808934fd][^key-a9a883b4dc5e9af9d874e6b498b3f6d9][^key-0430232fe50f8fb21c016c45d5b3fc6a][^key-a968c5077e08e3f288685b2609c49bae][^key-547f336c709ee8deaa69212bae9bc235][^key-0430232fe50f8fb21c016c45d5b3fc6a][^key-547f336c709ee8deaa69212bae9bc235]
+### 5. Consequential etc. provision[^c-11441d9b87d74db7e1fb09df808934fd][^c-a9a883b4dc5e9af9d874e6b498b3f6d9][^c-0430232fe50f8fb21c016c45d5b3fc6a][^c-a968c5077e08e3f288685b2609c49bae][^c-547f336c709ee8deaa69212bae9bc235][^c-0430232fe50f8fb21c016c45d5b3fc6a][^c-547f336c709ee8deaa69212bae9bc235]
 
 (1) The Secretary of State may by regulations made by statutory instrument make such provision as the Secretary of State considers appropriate in consequence of, or in connection with, any provision of this Part.
 
 (2) The power to make regulations under subsection (1) may (among other things) be exercised by modifying—
 
 - (a) any provision made by or under primary legislation passed before, or in the same Session as, this Act;
-- (b) assimilated direct[^key-4f81ec3982ae8c1bd16e4ed22298d8a5] legislation.
+- (b) assimilated direct[^c-4f81ec3982ae8c1bd16e4ed22298d8a5] legislation.
 
 (3) The power to make regulations under subsection (1) includes power—
 
@@ -159,7 +159,7 @@ Schedule 1 makes provision to—
 
 ## PART 2 — Social security co-ordination
 
-### 6. Power to modify retained direct EU legislation relating to social security co-ordination[^key-863c9f1d4d178cd359e3132f0748fc4c]
+### 6. Power to modify retained direct EU legislation relating to social security co-ordination[^c-863c9f1d4d178cd359e3132f0748fc4c]
 
 (1) An appropriate authority may by regulations modify the retained direct EU legislation mentioned in subsection (2).
 
@@ -184,9 +184,9 @@ Schedule 1 makes provision to—
 - (b) any provision made under primary legislation before, or in the same Session as, this Act is passed;
 - (c) retained direct EU legislation which is not mentioned in subsection (2).
 
-(5)[^key-965ae4ffed0efe27b273eee2bdf4446b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-965ae4ffed0efe27b273eee2bdf4446b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-2f29bb1f2ad62966b842e97c9a066f35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-2f29bb1f2ad62966b842e97c9a066f35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) In this section, “**appropriate authority**” means—
 
@@ -198,9 +198,9 @@ Schedule 1 makes provision to—
 
 (9) Schedule 3 contains provision about the making of regulations under this section.
 
-## PART 3 — General[^key-69c73140d92873c636d501b047cc0ee0][^key-f5c583f993007cace0b7531aa85dd17c]
+## PART 3 — General[^c-69c73140d92873c636d501b047cc0ee0][^c-f5c583f993007cace0b7531aa85dd17c]
 
-### 7. Interpretation[^key-69c73140d92873c636d501b047cc0ee0][^key-76e09c23d8621efb6525f00b12759f47][^key-12b87ea64ecee3bd9b326e1e9ac9e6be][^key-69c73140d92873c636d501b047cc0ee0][^key-f5c583f993007cace0b7531aa85dd17c]
+### 7. Interpretation[^c-69c73140d92873c636d501b047cc0ee0][^c-76e09c23d8621efb6525f00b12759f47][^c-12b87ea64ecee3bd9b326e1e9ac9e6be][^c-69c73140d92873c636d501b047cc0ee0][^c-f5c583f993007cace0b7531aa85dd17c]
 
 In this Act—
 
@@ -213,11 +213,11 @@ In this Act—
   - (c) an Act or Measure of Senedd Cymru;
   - (d) Northern Ireland legislation.
 
-### 8. Extent[^key-69c73140d92873c636d501b047cc0ee0][^key-f5c583f993007cace0b7531aa85dd17c]
+### 8. Extent[^c-69c73140d92873c636d501b047cc0ee0][^c-f5c583f993007cace0b7531aa85dd17c]
 
 (1) Subject to subsections (2) to (5), this Act extends to England and Wales, Scotland and Northern Ireland.
 
-(2)[^key-7d4c9f451415847fcdf20b8f5f604bea] Her Majesty may by Order in Council provide for any of the provisions of Part 1 of this Act, and of sections 7 and 10 (so far as relating to that Part), to extend, with or without modifications, to—
+(2)[^c-7d4c9f451415847fcdf20b8f5f604bea] Her Majesty may by Order in Council provide for any of the provisions of Part 1 of this Act, and of sections 7 and 10 (so far as relating to that Part), to extend, with or without modifications, to—
 
 - (a) any of the Channel Islands;
 - (b) the Isle of Man;
@@ -233,7 +233,7 @@ In this Act—
 
 (5) Regulations under section 5 may provide that an amendment, repeal or revocation made by those regulations has the same extent as the provision amended, repealed or revoked (ignoring extent by virtue of an Order in Council under any of the Immigration Acts).
 
-### 9. Commencement[^key-69c73140d92873c636d501b047cc0ee0][^key-f5c583f993007cace0b7531aa85dd17c]
+### 9. Commencement[^c-69c73140d92873c636d501b047cc0ee0][^c-f5c583f993007cace0b7531aa85dd17c]
 
 (1) Subject to subsection (2), Part 1 comes into force on such day as the Secretary of State may by regulations made by statutory instrument appoint.
 
@@ -252,7 +252,7 @@ In this Act—
 
 (7) The power of the Secretary of State or the Treasury to appoint a day under subsection (1) or (4) includes a power to appoint a time on a day if the Secretary of State or, as the case may be, the Treasury considers it appropriate to do so.
 
-### 10. Short title[^key-69c73140d92873c636d501b047cc0ee0][^key-2fef23b46b3f77c1e455a3115054810d][^key-7aeb83426361658b163bdbecbc1221e5][^key-14a110db820c7a4540b4d00b2485b095][^key-69c73140d92873c636d501b047cc0ee0][^key-f5c583f993007cace0b7531aa85dd17c]
+### 10. Short title[^c-69c73140d92873c636d501b047cc0ee0][^c-2fef23b46b3f77c1e455a3115054810d][^c-7aeb83426361658b163bdbecbc1221e5][^c-14a110db820c7a4540b4d00b2485b095][^c-69c73140d92873c636d501b047cc0ee0][^c-f5c583f993007cace0b7531aa85dd17c]
 
 This Act may be cited as the Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020.
 
@@ -264,9 +264,9 @@ Section 1
 
 ### PART 1 — EU-derived domestic legislation
 
-**1.**[^key-97ac8936d502162d9dc9008954c2325f] Section 7 of the Immigration Act 1988 (exemption from requirement for leave to enter or remain for persons exercising EU rights etc.) is omitted.
+**1.**[^c-97ac8936d502162d9dc9008954c2325f] Section 7 of the Immigration Act 1988 (exemption from requirement for leave to enter or remain for persons exercising EU rights etc.) is omitted.
 
-**2.**[^key-f6536b8e08ac1949bed90d06651dcb89] (1) Section 109 of the Nationality, Immigration and Asylum Act 2002 (power to make regulations about appeals against immigration decisions in respect of persons having, or claiming to have, EU rights) is omitted.
+**2.**[^c-f6536b8e08ac1949bed90d06651dcb89] (1) Section 109 of the Nationality, Immigration and Asylum Act 2002 (power to make regulations about appeals against immigration decisions in respect of persons having, or claiming to have, EU rights) is omitted.
 
 (2) The Immigration (European Economic Area) Regulations 2016 (S.I. 2016/1052), made under section 2(2) of the European Communities Act 1972 as well as under section 109 of the 2002 Act, are revoked.
 
@@ -275,13 +275,13 @@ Section 1
 - (a) section 106(3) and (4);
 - (b) section 107(3).
 
-**3.**[^key-548ff33d15a8b67dffbc0533542bd995] In the Provision of Services Regulations 2009 (S.I. 2009/2999), in regulation 5 (general exclusions and savings), after paragraph (2) insert—
+**3.**[^c-548ff33d15a8b67dffbc0533542bd995] In the Provision of Services Regulations 2009 (S.I. 2009/2999), in regulation 5 (general exclusions and savings), after paragraph (2) insert—
 
 > - (2A) Nothing in these Regulations affects the interpretation, application or operation of any provision made by or under the Immigration Acts.
 
 ### PART 2 — Retained direct EU legislation
 
-**4.**[^key-92598021ea524c0193cd2dfa30938b02] (1) Article 1 of the Workers Regulation is omitted.
+**4.**[^c-92598021ea524c0193cd2dfa30938b02] (1) Article 1 of the Workers Regulation is omitted.
 
 (2) Articles 2 to 10 of the Workers Regulation cease to apply so far as—
 
@@ -290,13 +290,13 @@ Section 1
 
 (3) In this paragraph, “**the Workers Regulation**” means [Regulation (EU) No 492/2011](https://www.legislation.gov.uk/eur/2011/0492) of the European Parliament and of the Council of 5 April 2011 on freedom of movement for workers within the Union.
 
-### PART 3 — EU-derived rights etc.[^key-e2786c21d05d891d4545d4e4a21b7ace]
+### PART 3 — EU-derived rights etc.[^c-e2786c21d05d891d4545d4e4a21b7ace]
 
 **No longer in force.**
 
-**5.**[^key-e2786c21d05d891d4545d4e4a21b7ace] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-e2786c21d05d891d4545d4e4a21b7ace] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-e2786c21d05d891d4545d4e4a21b7ace] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-e2786c21d05d891d4545d4e4a21b7ace] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 2 — Further provision about the scope of the power under section 6
 
@@ -304,22 +304,22 @@ Section 6(8)
 
 ### PART 1 — Scope of the power of a Minister of the Crown acting alone or jointly
 
-**1.**[^key-1d60374a8f4fc7f9c43afd4d0d4bcbf6] No provision that would be within the legislative competence of the Scottish Parliament if it were contained in an Act of that Parliament may be made—
+**1.**[^c-1d60374a8f4fc7f9c43afd4d0d4bcbf6] No provision that would be within the legislative competence of the Scottish Parliament if it were contained in an Act of that Parliament may be made—
 
 - (a) by the Secretary of State or the Treasury acting alone, or
 - (b) by a Minister of the Crown acting jointly with a Northern Ireland department,
 
 in regulations under section 6, unless that provision is merely incidental to, or consequential on, provision that would be outside that legislative competence.
 
-**2.**[^key-8274fdde526c5b1033fd7a1f6b52c645] In considering, for the purposes of paragraph 1, whether a provision would be within the legislative competence of the Scottish Parliament if it were contained in an Act of that Parliament, no account is to be taken of section 29(2)(d) of the Scotland Act 1998 so far as relating to EU law.
+**2.**[^c-8274fdde526c5b1033fd7a1f6b52c645] In considering, for the purposes of paragraph 1, whether a provision would be within the legislative competence of the Scottish Parliament if it were contained in an Act of that Parliament, no account is to be taken of section 29(2)(d) of the Scotland Act 1998 so far as relating to EU law.
 
 ### PART 2 — Scope of the power of a Northern Ireland department acting alone
 
 #### No power to make provision outside devolved competence
 
-**3.**[^key-a48cc197bb12749c8644cd319c45ca9f] No provision may be made by a Northern Ireland department acting alone in regulations under section 6 unless the provision is within the devolved competence of the Northern Ireland department.
+**3.**[^c-a48cc197bb12749c8644cd319c45ca9f] No provision may be made by a Northern Ireland department acting alone in regulations under section 6 unless the provision is within the devolved competence of the Northern Ireland department.
 
-**4.**[^key-9ced8ad425ef6496ca2c12d1cb2decdd] A provision is within the devolved competence of a Northern Ireland department for the purposes of this Schedule if—
+**4.**[^c-9ced8ad425ef6496ca2c12d1cb2decdd] A provision is within the devolved competence of a Northern Ireland department for the purposes of this Schedule if—
 
 - (a) the provision, if it were contained in an Act of the Northern Ireland Assembly—
   - (i) would be within the legislative competence of the Assembly (ignoring section 6(2)(d) of the Northern Ireland Act 1998 so far as relating to EU law), and
@@ -331,7 +331,7 @@ in regulations under section 6, unless that provision is merely incidental to, o
 
 #### Requirement for consent where it would otherwise be required
 
-**5.**[^key-aa2d7803a62b6890f63b2577a710bee5] (1) The consent of the Secretary of State is required before any provision is made by a Northern Ireland department acting alone in regulations under section 6 so far as that provision, if contained in an Act of the Northern Ireland Assembly, would require the consent of the Secretary of State.
+**5.**[^c-aa2d7803a62b6890f63b2577a710bee5] (1) The consent of the Secretary of State is required before any provision is made by a Northern Ireland department acting alone in regulations under section 6 so far as that provision, if contained in an Act of the Northern Ireland Assembly, would require the consent of the Secretary of State.
 
 (2) Sub-paragraph (1) does not apply if—
 
@@ -354,7 +354,7 @@ would require the consent of a Minister of the Crown.
 
 #### Requirement for joint exercise where it would otherwise be required
 
-**6.**[^key-b727bc1e7a43d209e5da474f12423385] (1) No regulations may be made under section 6 by a Northern Ireland department, so far as they contain provision which relates to a matter in respect of which a power to make subordinate legislation otherwise than under this Act is exercisable by—
+**6.**[^c-b727bc1e7a43d209e5da474f12423385] (1) No regulations may be made under section 6 by a Northern Ireland department, so far as they contain provision which relates to a matter in respect of which a power to make subordinate legislation otherwise than under this Act is exercisable by—
 
 - (a) a Northern Ireland department acting jointly with a Minister of the Crown, or
 - (b) another Northern Ireland devolved authority acting jointly with a Minister of the Crown,
@@ -368,7 +368,7 @@ unless the regulations are, to that extent, made jointly with the Minister of th
 
 #### Requirement for consultation where it would otherwise be required
 
-**7.**[^key-a3affac1da3b9ef84f1d83129a2ca743] (1) No regulations may be made under section 6 by a Northern Ireland department acting alone, so far as they contain provision which relates to a matter in respect of which a power to make subordinate legislation otherwise than under this Act is exercisable by a Northern Ireland department after consulting with a Minister of the Crown, unless the regulations are, to that extent, made after consulting with the Minister of the Crown.
+**7.**[^c-a3affac1da3b9ef84f1d83129a2ca743] (1) No regulations may be made under section 6 by a Northern Ireland department acting alone, so far as they contain provision which relates to a matter in respect of which a power to make subordinate legislation otherwise than under this Act is exercisable by a Northern Ireland department after consulting with a Minister of the Crown, unless the regulations are, to that extent, made after consulting with the Minister of the Crown.
 
 (2) Sub-paragraph (1) does not apply if—
 
@@ -382,7 +382,7 @@ unless the regulations are, to that extent, made jointly with the Minister of th
 
 #### Interpretation
 
-**8.**[^key-4795cdf0e43d22b3c23e3091c4ba1d95] In this Part of this Schedule—
+**8.**[^c-4795cdf0e43d22b3c23e3091c4ba1d95] In this Part of this Schedule—
 
 - “**Northern Ireland devolved authority**” means—
   - (a) the First Minister and deputy First Minister in Northern Ireland acting jointly,
@@ -394,7 +394,7 @@ unless the regulations are, to that extent, made jointly with the Minister of th
 
 #### Transitional exception
 
-**9.**[^key-ec17ba1bf27bcc1e83baf4a86cef4948] Section 24(1)(b) of the Northern Ireland Act 1998 (restriction on acting incompatibly with EU law) does not apply to the making of regulations under section 6.
+**9.**[^c-ec17ba1bf27bcc1e83baf4a86cef4948] Section 24(1)(b) of the Northern Ireland Act 1998 (restriction on acting incompatibly with EU law) does not apply to the making of regulations under section 6.
 
 ## SCHEDULE 3 — Regulations under section 6
 
@@ -402,7 +402,7 @@ Section 6(9)
 
 ### PART 1 — Statutory instruments
 
-**1.**[^key-c7d42eae71159d97e1c43eb69c73dba7] Any power to make regulations under section 6—
+**1.**[^c-c7d42eae71159d97e1c43eb69c73dba7] Any power to make regulations under section 6—
 
 - (a) so far as exercisable by the Secretary of State or the Treasury, or by a Minister of the Crown acting jointly with a Northern Ireland department, is exercisable by statutory instrument, and
 - (b) so far as exercisable by a Northern Ireland department (other than when acting jointly with a Minister of the Crown), is exercisable by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979 (SI 1979/1573 (NI 12)) (and not by statutory instrument).
@@ -411,7 +411,7 @@ Section 6(9)
 
 #### Scrutiny where sole exercise
 
-**2.**[^key-c4102c00d41eb5d3f8901d9ab4b14685] (1) A statutory instrument containing regulations of the Secretary of State or the Treasury under section 6 may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
+**2.**[^c-c4102c00d41eb5d3f8901d9ab4b14685] (1) A statutory instrument containing regulations of the Secretary of State or the Treasury under section 6 may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
 
 (2) Regulations of a Northern Ireland department under section 6 may not be made unless a draft of the regulations has been laid before, and approved by a resolution of, the Northern Ireland Assembly.
 
@@ -419,14 +419,14 @@ Section 6(9)
 
 #### Scrutiny where joint exercise
 
-**3.**[^key-529a1ed4c77a2fc1f65a0916764277dc] Regulations under section 6 of a Minister of the Crown acting jointly with a Northern Ireland department may not be made unless—
+**3.**[^c-529a1ed4c77a2fc1f65a0916764277dc] Regulations under section 6 of a Minister of the Crown acting jointly with a Northern Ireland department may not be made unless—
 
 - (a) a draft of the statutory instrument containing those regulations has been laid before, and approved by a resolution of, each House of Parliament, and
 - (b) a draft of the regulations has been laid before, and approved by a resolution of, the Northern Ireland Assembly.
 
 #### Combination of instruments
 
-**4.**[^key-d40d7dc534022bbcfe0422de1af56fbd] (1) Sub-paragraph (2) applies to a statutory instrument containing regulations under section 6 which is subject to a procedure before Parliament for the approval of the instrument in draft before it is made.
+**4.**[^c-d40d7dc534022bbcfe0422de1af56fbd] (1) Sub-paragraph (2) applies to a statutory instrument containing regulations under section 6 which is subject to a procedure before Parliament for the approval of the instrument in draft before it is made.
 
 (2) The statutory instrument may also include regulations under another Act which are made by statutory instrument which is subject to a procedure before Parliament that provides for the annulment of the instrument after it has been made.
 
@@ -446,104 +446,104 @@ Section 6(9)
 
 ## Annotations
 
-[^key-0430232fe50f8fb21c016c45d5b3fc6a]: Modification: Pt. 1 extended (Jersey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (EU Withdrawal) (Jersey) Order 2020 (S.I. 2020/1566)](https://www.legislation.gov.uk/uksi/2020/1566), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1566/article/1/1), [2](https://www.legislation.gov.uk/uksi/2020/1566/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1566/schedule)
+[^c-0430232fe50f8fb21c016c45d5b3fc6a]: Modification: Pt. 1 extended (Jersey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (EU Withdrawal) (Jersey) Order 2020 (S.I. 2020/1566)](https://www.legislation.gov.uk/uksi/2020/1566), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1566/article/1/1), [2](https://www.legislation.gov.uk/uksi/2020/1566/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1566/schedule)
 
-[^key-547f336c709ee8deaa69212bae9bc235]: Modification: Pt. 1 extended (Guernsey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Guernsey) Order 2020 (S.I. 2020/1560)](https://www.legislation.gov.uk/uksi/2020/1560), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1560/article/1/1), [6](https://www.legislation.gov.uk/uksi/2020/1560/article/6), [Sch. 5](https://www.legislation.gov.uk/uksi/2020/1560/schedule/5), [Sch. 5A](https://www.legislation.gov.uk/uksi/2020/1560/schedule/5A)
+[^c-547f336c709ee8deaa69212bae9bc235]: Modification: Pt. 1 extended (Guernsey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Guernsey) Order 2020 (S.I. 2020/1560)](https://www.legislation.gov.uk/uksi/2020/1560), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1560/article/1/1), [6](https://www.legislation.gov.uk/uksi/2020/1560/article/6), [Sch. 5](https://www.legislation.gov.uk/uksi/2020/1560/schedule/5), [Sch. 5A](https://www.legislation.gov.uk/uksi/2020/1560/schedule/5A)
 
-[^key-26f6fce2f9d4af040c294d0d0dd4a150]: Modification: Pt. 1: power to amend conferred (28.4.2022 for specified purposes, 28.6.2022 in so far as not already in force) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 82](https://www.legislation.gov.uk/ukpga/2022/36/section/82), [87(1)(4)(i)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 29](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/29)
+[^c-26f6fce2f9d4af040c294d0d0dd4a150]: Modification: Pt. 1: power to amend conferred (28.4.2022 for specified purposes, 28.6.2022 in so far as not already in force) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 82](https://www.legislation.gov.uk/ukpga/2022/36/section/82), [87(1)(4)(i)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 29](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/29)
 
-[^key-f1a3c1bd78a08a77ede9a96778f5ac32]: Modification: [Pt. 1](https://www.legislation.gov.uk/ukpga/2020/20/part/1) excluded (25.4.2024) by [Safety of Rwanda (Asylum and Immigration) Act 2024 (c. 8)](https://www.legislation.gov.uk/ukpga/2024/8), [ss. 2(5)(a)](https://www.legislation.gov.uk/ukpga/2024/8/section/2/5/a), [5](https://www.legislation.gov.uk/ukpga/2024/8/section/5), [10(1)](https://www.legislation.gov.uk/ukpga/2024/8/section/10/1) (with [ss. 4](https://www.legislation.gov.uk/ukpga/2024/8/section/4), [10(2)](https://www.legislation.gov.uk/ukpga/2024/8/section/10/2))
+[^c-f1a3c1bd78a08a77ede9a96778f5ac32]: Modification: [Pt. 1](https://www.legislation.gov.uk/ukpga/2020/20/part/1) excluded (25.4.2024) by [Safety of Rwanda (Asylum and Immigration) Act 2024 (c. 8)](https://www.legislation.gov.uk/ukpga/2024/8), [ss. 2(5)(a)](https://www.legislation.gov.uk/ukpga/2024/8/section/2/5/a), [5](https://www.legislation.gov.uk/ukpga/2024/8/section/5), [10(1)](https://www.legislation.gov.uk/ukpga/2024/8/section/10/1) (with [ss. 4](https://www.legislation.gov.uk/ukpga/2024/8/section/4), [10(2)](https://www.legislation.gov.uk/ukpga/2024/8/section/10/2))
 
-[^key-013a089df733b37d694fcda9ab1e6df7]: Modification: S. 1 extended (Isle of Man) (with modifications) (coming into force in accordance with art. 1(2) of the amending S.I.) by [S.I. 2008/680](https://www.legislation.gov.uk/uksi/2008/680), [art. 23(1)(2)(a)](https://www.legislation.gov.uk/uksi/2008/680/article/23/1/2/a), [Sch. 10](https://www.legislation.gov.uk/uksi/2008/680/schedule/10) (as inserted by [The Immigration (Isle of Man) (Amendment) (No. 3) Order 2020 (S.I. 2020/1576)](https://www.legislation.gov.uk/uksi/2020/1576), [art. 7](https://www.legislation.gov.uk/uksi/2020/1576/article/7), [Sch.](https://www.legislation.gov.uk/uksi/2020/1576/schedule))
+[^c-013a089df733b37d694fcda9ab1e6df7]: Modification: S. 1 extended (Isle of Man) (with modifications) (coming into force in accordance with art. 1(2) of the amending S.I.) by [S.I. 2008/680](https://www.legislation.gov.uk/uksi/2008/680), [art. 23(1)(2)(a)](https://www.legislation.gov.uk/uksi/2008/680/article/23/1/2/a), [Sch. 10](https://www.legislation.gov.uk/uksi/2008/680/schedule/10) (as inserted by [The Immigration (Isle of Man) (Amendment) (No. 3) Order 2020 (S.I. 2020/1576)](https://www.legislation.gov.uk/uksi/2020/1576), [art. 7](https://www.legislation.gov.uk/uksi/2020/1576/article/7), [Sch.](https://www.legislation.gov.uk/uksi/2020/1576/schedule))
 
-[^key-749df5c694ca86d7a3b7ef0f7f987101]: Modification: S. 1 extended (Guernsey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Guernsey) Order 2020 (S.I. 2020/1560)](https://www.legislation.gov.uk/uksi/2020/1560), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1560/article/1/1), [6](https://www.legislation.gov.uk/uksi/2020/1560/article/6), [Sch. 5](https://www.legislation.gov.uk/uksi/2020/1560/schedule/5), [Sch. 5A](https://www.legislation.gov.uk/uksi/2020/1560/schedule/5A)
+[^c-749df5c694ca86d7a3b7ef0f7f987101]: Modification: S. 1 extended (Guernsey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Guernsey) Order 2020 (S.I. 2020/1560)](https://www.legislation.gov.uk/uksi/2020/1560), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1560/article/1/1), [6](https://www.legislation.gov.uk/uksi/2020/1560/article/6), [Sch. 5](https://www.legislation.gov.uk/uksi/2020/1560/schedule/5), [Sch. 5A](https://www.legislation.gov.uk/uksi/2020/1560/schedule/5A)
 
-[^key-69447ff45d494b8fb0210dd6da40dcac]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2020/20/section/1) in force at 31.12.2020 by [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/a)
+[^c-69447ff45d494b8fb0210dd6da40dcac]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2020/20/section/1) in force at 31.12.2020 by [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/a)
 
-[^key-5fee84c8b18a6c2a8725edf1c3467570]: Modification: S. 2 extended (Guernsey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Guernsey) Order 2020 (S.I. 2020/1560)](https://www.legislation.gov.uk/uksi/2020/1560), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1560/article/1/1), [6](https://www.legislation.gov.uk/uksi/2020/1560/article/6), [Sch. 5](https://www.legislation.gov.uk/uksi/2020/1560/schedule/5), [Sch. 5A](https://www.legislation.gov.uk/uksi/2020/1560/schedule/5A)
+[^c-5fee84c8b18a6c2a8725edf1c3467570]: Modification: S. 2 extended (Guernsey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Guernsey) Order 2020 (S.I. 2020/1560)](https://www.legislation.gov.uk/uksi/2020/1560), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1560/article/1/1), [6](https://www.legislation.gov.uk/uksi/2020/1560/article/6), [Sch. 5](https://www.legislation.gov.uk/uksi/2020/1560/schedule/5), [Sch. 5A](https://www.legislation.gov.uk/uksi/2020/1560/schedule/5A)
 
-[^key-fb8e55aeaf9259771274066c58e2e8b1]: Modification: S. 2 extended (Isle of Man) (with modifications) (coming into force in accordance with art. 1(2) of the amending S.I.) by [S.I. 2008/680](https://www.legislation.gov.uk/uksi/2008/680), [art. 23(1)(2)(b)](https://www.legislation.gov.uk/uksi/2008/680/article/23/1/2/b), [Sch. 10](https://www.legislation.gov.uk/uksi/2008/680/schedule/10) (as inserted by [The Immigration (Isle of Man) (Amendment) (No. 3) Order 2020 (S.I. 2020/1576)](https://www.legislation.gov.uk/uksi/2020/1576), [art. 7](https://www.legislation.gov.uk/uksi/2020/1576/article/7), [Sch.](https://www.legislation.gov.uk/uksi/2020/1576/schedule))
+[^c-fb8e55aeaf9259771274066c58e2e8b1]: Modification: S. 2 extended (Isle of Man) (with modifications) (coming into force in accordance with art. 1(2) of the amending S.I.) by [S.I. 2008/680](https://www.legislation.gov.uk/uksi/2008/680), [art. 23(1)(2)(b)](https://www.legislation.gov.uk/uksi/2008/680/article/23/1/2/b), [Sch. 10](https://www.legislation.gov.uk/uksi/2008/680/schedule/10) (as inserted by [The Immigration (Isle of Man) (Amendment) (No. 3) Order 2020 (S.I. 2020/1576)](https://www.legislation.gov.uk/uksi/2020/1576), [art. 7](https://www.legislation.gov.uk/uksi/2020/1576/article/7), [Sch.](https://www.legislation.gov.uk/uksi/2020/1576/schedule))
 
-[^key-d1eea565a65d1b39c947ed11162ca9ff]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2020/20/section/2) in force at 31.12.2020 immediately before IP completion day by [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1279/regulation/3) (with saving in [S.I. 2020/1309](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [84](https://www.legislation.gov.uk/uksi/2020/1309/regulation/84), [Sch. 5 para. 10](https://www.legislation.gov.uk/uksi/2020/1309/schedule/5/paragraph/10))
+[^c-d1eea565a65d1b39c947ed11162ca9ff]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2020/20/section/2) in force at 31.12.2020 immediately before IP completion day by [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1279/regulation/3) (with saving in [S.I. 2020/1309](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [84](https://www.legislation.gov.uk/uksi/2020/1309/regulation/84), [Sch. 5 para. 10](https://www.legislation.gov.uk/uksi/2020/1309/schedule/5/paragraph/10))
 
-[^key-133824f7dc51f1441a505147289d5e03]: Commencement: S. 3(1)-(3)(5) in force at 12.1.2021 by [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 5](https://www.legislation.gov.uk/uksi/2020/1279/regulation/5)
+[^c-133824f7dc51f1441a505147289d5e03]: Commencement: S. 3(1)-(3)(5) in force at 12.1.2021 by [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 5](https://www.legislation.gov.uk/uksi/2020/1279/regulation/5)
 
-[^key-986adfc5c65aa2e530d3f076b8309b62]: Commencement: S. 3(2)(6) in force at 11.1.2021 for specified purposes, see [s. 9(2)(b)](https://www.legislation.gov.uk/ukpga/2020/20/section/9/2/b)
+[^c-986adfc5c65aa2e530d3f076b8309b62]: Commencement: S. 3(2)(6) in force at 11.1.2021 for specified purposes, see [s. 9(2)(b)](https://www.legislation.gov.uk/ukpga/2020/20/section/9/2/b)
 
-[^key-db5c10b74291da62281289377058f3c3]: Commencement: S. 3(2)(6) in force at 12.1.2021 in so far as not already in force by [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 5](https://www.legislation.gov.uk/uksi/2020/1279/regulation/5)
+[^c-db5c10b74291da62281289377058f3c3]: Commencement: S. 3(2)(6) in force at 12.1.2021 in so far as not already in force by [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 5](https://www.legislation.gov.uk/uksi/2020/1279/regulation/5)
 
-[^key-730dbd1ffb3352fa75b5f8033b6a3f76]: Commencement: S. 3(4) in force at 11.1.2021, see [s. 9(2)(a)](https://www.legislation.gov.uk/ukpga/2020/20/section/9/2/a)
+[^c-730dbd1ffb3352fa75b5f8033b6a3f76]: Commencement: S. 3(4) in force at 11.1.2021, see [s. 9(2)(a)](https://www.legislation.gov.uk/ukpga/2020/20/section/9/2/a)
 
-[^key-ac3f15179acb459d192aaccb87848693]: Modification: S. 4 extended (Isle of Man) (with modifications) (coming into force in accordance with art. 1(2) of the amending S.I.) by [S.I. 2008/680](https://www.legislation.gov.uk/uksi/2008/680), [art. 23(1)(2)(c)](https://www.legislation.gov.uk/uksi/2008/680/article/23/1/2/c), [Sch. 10](https://www.legislation.gov.uk/uksi/2008/680/schedule/10) (as inserted by [The Immigration (Isle of Man) (Amendment) (No. 3) Order 2020 (S.I. 2020/1576)](https://www.legislation.gov.uk/uksi/2020/1576), [art. 7](https://www.legislation.gov.uk/uksi/2020/1576/article/7), [Sch.](https://www.legislation.gov.uk/uksi/2020/1576/schedule))
+[^c-ac3f15179acb459d192aaccb87848693]: Modification: S. 4 extended (Isle of Man) (with modifications) (coming into force in accordance with art. 1(2) of the amending S.I.) by [S.I. 2008/680](https://www.legislation.gov.uk/uksi/2008/680), [art. 23(1)(2)(c)](https://www.legislation.gov.uk/uksi/2008/680/article/23/1/2/c), [Sch. 10](https://www.legislation.gov.uk/uksi/2008/680/schedule/10) (as inserted by [The Immigration (Isle of Man) (Amendment) (No. 3) Order 2020 (S.I. 2020/1576)](https://www.legislation.gov.uk/uksi/2020/1576), [art. 7](https://www.legislation.gov.uk/uksi/2020/1576/article/7), [Sch.](https://www.legislation.gov.uk/uksi/2020/1576/schedule))
 
-[^key-ee87a2e6b06f076c24e755c0ecaef37d]: Modification: S. 4 extended (Guernsey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Guernsey) Order 2020 (S.I. 2020/1560)](https://www.legislation.gov.uk/uksi/2020/1560), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1560/article/1/1), [6](https://www.legislation.gov.uk/uksi/2020/1560/article/6), [Sch. 5](https://www.legislation.gov.uk/uksi/2020/1560/schedule/5), [Sch. 5A](https://www.legislation.gov.uk/uksi/2020/1560/schedule/5A)
+[^c-ee87a2e6b06f076c24e755c0ecaef37d]: Modification: S. 4 extended (Guernsey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Guernsey) Order 2020 (S.I. 2020/1560)](https://www.legislation.gov.uk/uksi/2020/1560), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1560/article/1/1), [6](https://www.legislation.gov.uk/uksi/2020/1560/article/6), [Sch. 5](https://www.legislation.gov.uk/uksi/2020/1560/schedule/5), [Sch. 5A](https://www.legislation.gov.uk/uksi/2020/1560/schedule/5A)
 
-[^key-b21c38243fb0a319922b15ce31de3e93]: Commencement: S. 4 in force at 31.12.2020 by [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/b)
+[^c-b21c38243fb0a319922b15ce31de3e93]: Commencement: S. 4 in force at 31.12.2020 by [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/b)
 
-[^key-1a11dbab573a666b222c08d14232dbea]: Textual amendment: Word in s. 4(2) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 92(2)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/92/2)
+[^c-1a11dbab573a666b222c08d14232dbea]: Textual amendment: Word in s. 4(2) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 92(2)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/92/2)
 
-[^key-11441d9b87d74db7e1fb09df808934fd]: Commencement: S. 5 in force at 14.11.2020 by [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/2/a)
+[^c-11441d9b87d74db7e1fb09df808934fd]: Commencement: S. 5 in force at 14.11.2020 by [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/2/a)
 
-[^key-a9a883b4dc5e9af9d874e6b498b3f6d9]: Modification: S. 5 extended (Guernsey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Guernsey) Order 2020 (S.I. 2020/1560)](https://www.legislation.gov.uk/uksi/2020/1560), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1560/article/1/1), [6](https://www.legislation.gov.uk/uksi/2020/1560/article/6), [Sch. 5](https://www.legislation.gov.uk/uksi/2020/1560/schedule/5), [Sch. 5A](https://www.legislation.gov.uk/uksi/2020/1560/schedule/5A)
+[^c-a9a883b4dc5e9af9d874e6b498b3f6d9]: Modification: S. 5 extended (Guernsey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Guernsey) Order 2020 (S.I. 2020/1560)](https://www.legislation.gov.uk/uksi/2020/1560), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1560/article/1/1), [6](https://www.legislation.gov.uk/uksi/2020/1560/article/6), [Sch. 5](https://www.legislation.gov.uk/uksi/2020/1560/schedule/5), [Sch. 5A](https://www.legislation.gov.uk/uksi/2020/1560/schedule/5A)
 
-[^key-a968c5077e08e3f288685b2609c49bae]: Modification: S. 5 extended (Isle of Man) (with modifications) (coming into force in accordance with art. 1(2) of the amending S.I.) by [S.I. 2008/680](https://www.legislation.gov.uk/uksi/2008/680), [art. 23(1)(2)(d)](https://www.legislation.gov.uk/uksi/2008/680/article/23/1/2/d), [Sch. 10](https://www.legislation.gov.uk/uksi/2008/680/schedule/10) (as inserted by [The Immigration (Isle of Man) (Amendment) (No. 3) Order 2020 (S.I. 2020/1576)](https://www.legislation.gov.uk/uksi/2020/1576), [art. 7](https://www.legislation.gov.uk/uksi/2020/1576/article/7), [Sch.](https://www.legislation.gov.uk/uksi/2020/1576/schedule))
+[^c-a968c5077e08e3f288685b2609c49bae]: Modification: S. 5 extended (Isle of Man) (with modifications) (coming into force in accordance with art. 1(2) of the amending S.I.) by [S.I. 2008/680](https://www.legislation.gov.uk/uksi/2008/680), [art. 23(1)(2)(d)](https://www.legislation.gov.uk/uksi/2008/680/article/23/1/2/d), [Sch. 10](https://www.legislation.gov.uk/uksi/2008/680/schedule/10) (as inserted by [The Immigration (Isle of Man) (Amendment) (No. 3) Order 2020 (S.I. 2020/1576)](https://www.legislation.gov.uk/uksi/2020/1576), [art. 7](https://www.legislation.gov.uk/uksi/2020/1576/article/7), [Sch.](https://www.legislation.gov.uk/uksi/2020/1576/schedule))
 
-[^key-4f81ec3982ae8c1bd16e4ed22298d8a5]: Textual amendment: Words in s. 5(2)(b) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 92(3)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/92/3)
+[^c-4f81ec3982ae8c1bd16e4ed22298d8a5]: Textual amendment: Words in s. 5(2)(b) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 92(3)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/92/3)
 
-[^key-863c9f1d4d178cd359e3132f0748fc4c]: Commencement: S. 6 in force at 14.11.2020 by [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/2/b)
+[^c-863c9f1d4d178cd359e3132f0748fc4c]: Commencement: S. 6 in force at 14.11.2020 by [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/2/b)
 
-[^key-965ae4ffed0efe27b273eee2bdf4446b]: Textual amendment: S. 6(5) omitted (1.1.2024) by virtue of [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 92(4)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/92/4)
+[^c-965ae4ffed0efe27b273eee2bdf4446b]: Textual amendment: S. 6(5) omitted (1.1.2024) by virtue of [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 92(4)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/92/4)
 
-[^key-2f29bb1f2ad62966b842e97c9a066f35]: Textual amendment: S. 6(6) omitted (1.1.2024) by virtue of [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 92(4)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/92/4)
+[^c-2f29bb1f2ad62966b842e97c9a066f35]: Textual amendment: S. 6(6) omitted (1.1.2024) by virtue of [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 92(4)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/92/4)
 
-[^key-69c73140d92873c636d501b047cc0ee0]: Modification: Pt. 3 extended (Guernsey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Guernsey) Order 2020 (S.I. 2020/1560)](https://www.legislation.gov.uk/uksi/2020/1560), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1560/article/1/1), [6](https://www.legislation.gov.uk/uksi/2020/1560/article/6), [Sch. 5](https://www.legislation.gov.uk/uksi/2020/1560/schedule/5), [Sch. 5A](https://www.legislation.gov.uk/uksi/2020/1560/schedule/5A)
+[^c-69c73140d92873c636d501b047cc0ee0]: Modification: Pt. 3 extended (Guernsey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Guernsey) Order 2020 (S.I. 2020/1560)](https://www.legislation.gov.uk/uksi/2020/1560), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1560/article/1/1), [6](https://www.legislation.gov.uk/uksi/2020/1560/article/6), [Sch. 5](https://www.legislation.gov.uk/uksi/2020/1560/schedule/5), [Sch. 5A](https://www.legislation.gov.uk/uksi/2020/1560/schedule/5A)
 
-[^key-f5c583f993007cace0b7531aa85dd17c]: Modification: Pt. 3: power to amend conferred (28.4.2022 for specified purposes, 28.6.2022 in so far as not already in force) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 82](https://www.legislation.gov.uk/ukpga/2022/36/section/82), [87(1)(4)(i)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 29](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/29)
+[^c-f5c583f993007cace0b7531aa85dd17c]: Modification: Pt. 3: power to amend conferred (28.4.2022 for specified purposes, 28.6.2022 in so far as not already in force) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 82](https://www.legislation.gov.uk/ukpga/2022/36/section/82), [87(1)(4)(i)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 29](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/29)
 
-[^key-76e09c23d8621efb6525f00b12759f47]: Modification: [S. 7](https://www.legislation.gov.uk/ukpga/2020/20/section/7) extended (Jersey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (EU Withdrawal) (Jersey) Order 2020 (S.I. 2020/1566)](https://www.legislation.gov.uk/uksi/2020/1566), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1566/article/1/1), [2](https://www.legislation.gov.uk/uksi/2020/1566/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1566/schedule)
+[^c-76e09c23d8621efb6525f00b12759f47]: Modification: [S. 7](https://www.legislation.gov.uk/ukpga/2020/20/section/7) extended (Jersey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (EU Withdrawal) (Jersey) Order 2020 (S.I. 2020/1566)](https://www.legislation.gov.uk/uksi/2020/1566), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1566/article/1/1), [2](https://www.legislation.gov.uk/uksi/2020/1566/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1566/schedule)
 
-[^key-12b87ea64ecee3bd9b326e1e9ac9e6be]: Modification: [S. 7](https://www.legislation.gov.uk/ukpga/2020/20/section/7) extended (Guernsey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Guernsey) Order 2020 (S.I. 2020/1560)](https://www.legislation.gov.uk/uksi/2020/1560), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1560/article/1/1), [6](https://www.legislation.gov.uk/uksi/2020/1560/article/6), [Sch. 5](https://www.legislation.gov.uk/uksi/2020/1560/schedule/5), [Sch. 5A](https://www.legislation.gov.uk/uksi/2020/1560/schedule/5A)
+[^c-12b87ea64ecee3bd9b326e1e9ac9e6be]: Modification: [S. 7](https://www.legislation.gov.uk/ukpga/2020/20/section/7) extended (Guernsey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Guernsey) Order 2020 (S.I. 2020/1560)](https://www.legislation.gov.uk/uksi/2020/1560), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1560/article/1/1), [6](https://www.legislation.gov.uk/uksi/2020/1560/article/6), [Sch. 5](https://www.legislation.gov.uk/uksi/2020/1560/schedule/5), [Sch. 5A](https://www.legislation.gov.uk/uksi/2020/1560/schedule/5A)
 
-[^key-7d4c9f451415847fcdf20b8f5f604bea]: Modification: S. 8(2) power extended (28.4.2022) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 86(5)(6)(o)](https://www.legislation.gov.uk/ukpga/2022/36/section/86/5), [87(3)(c)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/3/c)
+[^c-7d4c9f451415847fcdf20b8f5f604bea]: Modification: S. 8(2) power extended (28.4.2022) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 86(5)(6)(o)](https://www.legislation.gov.uk/ukpga/2022/36/section/86/5), [87(3)(c)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/3/c)
 
-[^key-2fef23b46b3f77c1e455a3115054810d]: Modification: S. 10 extended (Guernsey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Guernsey) Order 2020 (S.I. 2020/1560)](https://www.legislation.gov.uk/uksi/2020/1560), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1560/article/1/1), [6](https://www.legislation.gov.uk/uksi/2020/1560/article/6), [Sch. 5](https://www.legislation.gov.uk/uksi/2020/1560/schedule/5), [Sch. 5A](https://www.legislation.gov.uk/uksi/2020/1560/schedule/5A)
+[^c-2fef23b46b3f77c1e455a3115054810d]: Modification: S. 10 extended (Guernsey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Guernsey) Order 2020 (S.I. 2020/1560)](https://www.legislation.gov.uk/uksi/2020/1560), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1560/article/1/1), [6](https://www.legislation.gov.uk/uksi/2020/1560/article/6), [Sch. 5](https://www.legislation.gov.uk/uksi/2020/1560/schedule/5), [Sch. 5A](https://www.legislation.gov.uk/uksi/2020/1560/schedule/5A)
 
-[^key-7aeb83426361658b163bdbecbc1221e5]: Modification: S. 10 extended (Jersey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (EU Withdrawal) (Jersey) Order 2020 (S.I. 2020/1566)](https://www.legislation.gov.uk/uksi/2020/1566), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1566/article/1/1), [2](https://www.legislation.gov.uk/uksi/2020/1566/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1566/schedule)
+[^c-7aeb83426361658b163bdbecbc1221e5]: Modification: S. 10 extended (Jersey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (EU Withdrawal) (Jersey) Order 2020 (S.I. 2020/1566)](https://www.legislation.gov.uk/uksi/2020/1566), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1566/article/1/1), [2](https://www.legislation.gov.uk/uksi/2020/1566/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1566/schedule)
 
-[^key-14a110db820c7a4540b4d00b2485b095]: Modification: S. 10 extended (Isle of Man) (with modifications) (coming into force in accordance with art. 1(2) of the amending S.I.) by [S.I. 2008/680](https://www.legislation.gov.uk/uksi/2008/680), [art. 23(1)(2)(e)](https://www.legislation.gov.uk/uksi/2008/680/article/23/1/2/e), [Sch. 10](https://www.legislation.gov.uk/uksi/2008/680/schedule/10) (as inserted by [The Immigration (Isle of Man) (Amendment) (No. 3) Order 2020 (S.I. 2020/1576)](https://www.legislation.gov.uk/uksi/2020/1576), [art. 7](https://www.legislation.gov.uk/uksi/2020/1576/article/7), [Sch.](https://www.legislation.gov.uk/uksi/2020/1576/schedule))
+[^c-14a110db820c7a4540b4d00b2485b095]: Modification: S. 10 extended (Isle of Man) (with modifications) (coming into force in accordance with art. 1(2) of the amending S.I.) by [S.I. 2008/680](https://www.legislation.gov.uk/uksi/2008/680), [art. 23(1)(2)(e)](https://www.legislation.gov.uk/uksi/2008/680/article/23/1/2/e), [Sch. 10](https://www.legislation.gov.uk/uksi/2008/680/schedule/10) (as inserted by [The Immigration (Isle of Man) (Amendment) (No. 3) Order 2020 (S.I. 2020/1576)](https://www.legislation.gov.uk/uksi/2020/1576), [art. 7](https://www.legislation.gov.uk/uksi/2020/1576/article/7), [Sch.](https://www.legislation.gov.uk/uksi/2020/1576/schedule))
 
-[^key-97ac8936d502162d9dc9008954c2325f]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2020/20/schedule/1/paragraph/1) in force at 31.12.2020 by [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c) (with saving in S.I. 2020/1309, regs. 1(2), 83, Sch. 4 paras. 5-7)
+[^c-97ac8936d502162d9dc9008954c2325f]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2020/20/schedule/1/paragraph/1) in force at 31.12.2020 by [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c) (with saving in S.I. 2020/1309, regs. 1(2), 83, Sch. 4 paras. 5-7)
 
-[^key-f6536b8e08ac1949bed90d06651dcb89]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2020/20/schedule/1/paragraph/2) in force at 31.12.2020 by [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c) (with savings in S.I. 2020/1309, regs. 1(2), 82, 83, Sch. 3 para. 7, Sch. 4 paras. 1-4)
+[^c-f6536b8e08ac1949bed90d06651dcb89]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2020/20/schedule/1/paragraph/2) in force at 31.12.2020 by [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c) (with savings in S.I. 2020/1309, regs. 1(2), 82, 83, Sch. 3 para. 7, Sch. 4 paras. 1-4)
 
-[^key-548ff33d15a8b67dffbc0533542bd995]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2020/20/schedule/1/paragraph/3) in force at 31.12.2020 by [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)
+[^c-548ff33d15a8b67dffbc0533542bd995]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2020/20/schedule/1/paragraph/3) in force at 31.12.2020 by [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)
 
-[^key-92598021ea524c0193cd2dfa30938b02]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2020/20/schedule/1/paragraph/4) in force at 31.12.2020 by [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)
+[^c-92598021ea524c0193cd2dfa30938b02]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2020/20/schedule/1/paragraph/4) in force at 31.12.2020 by [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)
 
-[^key-e2786c21d05d891d4545d4e4a21b7ace]: Textual amendment: [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2020/20/schedule/1/part/3) omitted (1.1.2024) by virtue of [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 92(5)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/92/5)
+[^c-e2786c21d05d891d4545d4e4a21b7ace]: Textual amendment: [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2020/20/schedule/1/part/3) omitted (1.1.2024) by virtue of [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 92(5)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/92/5)
 
-[^key-1d60374a8f4fc7f9c43afd4d0d4bcbf6]: Commencement: Sch. 2 para. 1 in force at 14.11.2020 by [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/2/c)
+[^c-1d60374a8f4fc7f9c43afd4d0d4bcbf6]: Commencement: Sch. 2 para. 1 in force at 14.11.2020 by [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/2/c)
 
-[^key-8274fdde526c5b1033fd7a1f6b52c645]: Commencement: Sch. 2 para. 2 in force at 14.11.2020 by [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/2/c)
+[^c-8274fdde526c5b1033fd7a1f6b52c645]: Commencement: Sch. 2 para. 2 in force at 14.11.2020 by [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/2/c)
 
-[^key-a48cc197bb12749c8644cd319c45ca9f]: Commencement: Sch. 2 para. 3 in force at 14.11.2020 by [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/2/c)
+[^c-a48cc197bb12749c8644cd319c45ca9f]: Commencement: Sch. 2 para. 3 in force at 14.11.2020 by [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/2/c)
 
-[^key-9ced8ad425ef6496ca2c12d1cb2decdd]: Commencement: Sch. 2 para. 4 in force at 14.11.2020 by [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/2/c)
+[^c-9ced8ad425ef6496ca2c12d1cb2decdd]: Commencement: Sch. 2 para. 4 in force at 14.11.2020 by [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/2/c)
 
-[^key-aa2d7803a62b6890f63b2577a710bee5]: Commencement: Sch. 2 para. 5 in force at 14.11.2020 by [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/2/c)
+[^c-aa2d7803a62b6890f63b2577a710bee5]: Commencement: Sch. 2 para. 5 in force at 14.11.2020 by [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/2/c)
 
-[^key-b727bc1e7a43d209e5da474f12423385]: Commencement: Sch. 2 para. 6 in force at 14.11.2020 by [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/2/c)
+[^c-b727bc1e7a43d209e5da474f12423385]: Commencement: Sch. 2 para. 6 in force at 14.11.2020 by [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/2/c)
 
-[^key-a3affac1da3b9ef84f1d83129a2ca743]: Commencement: Sch. 2 para. 7 in force at 14.11.2020 by [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/2/c)
+[^c-a3affac1da3b9ef84f1d83129a2ca743]: Commencement: Sch. 2 para. 7 in force at 14.11.2020 by [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/2/c)
 
-[^key-4795cdf0e43d22b3c23e3091c4ba1d95]: Commencement: Sch. 2 para. 8 in force at 14.11.2020 by [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/2/c)
+[^c-4795cdf0e43d22b3c23e3091c4ba1d95]: Commencement: Sch. 2 para. 8 in force at 14.11.2020 by [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/2/c)
 
-[^key-ec17ba1bf27bcc1e83baf4a86cef4948]: Commencement: Sch. 2 para. 9 in force at 14.11.2020 by [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/2/c)
+[^c-ec17ba1bf27bcc1e83baf4a86cef4948]: Commencement: Sch. 2 para. 9 in force at 14.11.2020 by [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/2/c)
 
-[^key-c7d42eae71159d97e1c43eb69c73dba7]: Commencement: Sch. 3 para. 1 in force at 14.11.2020 by [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/2/d)
+[^c-c7d42eae71159d97e1c43eb69c73dba7]: Commencement: Sch. 3 para. 1 in force at 14.11.2020 by [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/2/d)
 
-[^key-c4102c00d41eb5d3f8901d9ab4b14685]: Commencement: Sch. 3 para. 2 in force at 14.11.2020 by [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/2/d)
+[^c-c4102c00d41eb5d3f8901d9ab4b14685]: Commencement: Sch. 3 para. 2 in force at 14.11.2020 by [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/2/d)
 
-[^key-529a1ed4c77a2fc1f65a0916764277dc]: Commencement: Sch. 3 para. 3 in force at 14.11.2020 by [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/2/d)
+[^c-529a1ed4c77a2fc1f65a0916764277dc]: Commencement: Sch. 3 para. 3 in force at 14.11.2020 by [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/2/d)
 
-[^key-d40d7dc534022bbcfe0422de1af56fbd]: Commencement: Sch. 3 para. 4 in force at 14.11.2020 by [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/2/d)
+[^c-d40d7dc534022bbcfe0422de1af56fbd]: Commencement: Sch. 3 para. 4 in force at 14.11.2020 by [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/2/d)

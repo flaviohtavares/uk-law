@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 117. Requirement to assess costs by the detailed procedure[^key-b5df645b23847e5bd7c0febf4ad56101]
+## 117. Requirement to assess costs by the detailed procedure[^c-b5df645b23847e5bd7c0febf4ad56101]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b5df645b23847e5bd7c0febf4ad56101]: Commencement: [Rule 117](https://www.legislation.gov.uk/uksi/2013/3208/rule/117) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-b5df645b23847e5bd7c0febf4ad56101]: Commencement: [Rule 117](https://www.legislation.gov.uk/uksi/2013/3208/rule/117) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

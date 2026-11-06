@@ -24,7 +24,7 @@ Regulation 74
 
 ### PART 1 — Modifications to primary legislation
 
-**1.**[^key-2a80f20399017e765bb95d8444df1a26] In the 1969 Act:
+**1.**[^c-2a80f20399017e765bb95d8444df1a26] In the 1969 Act:
 
 - (a) for section 156 substitute the following—
 
@@ -63,9 +63,9 @@ Regulation 74
 
 ### PART 2 — Modifications to secondary legislation
 
-**2.**[^key-a72f4e1ef46b28d6006c81ff13d53eb7] In the Safety Representatives and Safety Committees Regulations (Northern Ireland) 1979[^f00051], in regulation 5(4), omit “section 105 of the Mines Act (Northern Ireland) 1969 or”.
+**2.**[^c-a72f4e1ef46b28d6006c81ff13d53eb7] In the Safety Representatives and Safety Committees Regulations (Northern Ireland) 1979[^f00051], in regulation 5(4), omit “section 105 of the Mines Act (Northern Ireland) 1969 or”.
 
-**3.**[^key-79f439c3487c8dc3cd215da0468383e8] In the Health and Safety (First Aid) Regulations (Northern Ireland) 1982[^f00052]—
+**3.**[^c-79f439c3487c8dc3cd215da0468383e8] In the Health and Safety (First Aid) Regulations (Northern Ireland) 1982[^f00052]—
 
 - (a) in regulation 2, in the definition of “mine”, for “section 156 of the Mines Act (Northern Ireland) 1969” substitute “regulation 3 of the Mines Regulations (Northern Ireland) 2016”;
 - (b) for regulation 8 substitute—
@@ -81,7 +81,7 @@ Regulation 74
   >
   > (3) In this regulation, “mine operator” has the meaning given by regulation 2(1) of the Mines Regulations (Northern Ireland) 2016.
 
-**4.**[^key-59bfd866a5828048bb300b32045eba49] In the Electricity at Work Regulations (Northern Ireland) 1991—
+**4.**[^c-59bfd866a5828048bb300b32045eba49] In the Electricity at Work Regulations (Northern Ireland) 1991—
 
 - (a) in regulation 3(1)[^f00053]—
   - (i) for sub-paragraph (b)(i), substitute—
@@ -100,7 +100,7 @@ Regulation 74
   ; and
 - (c) in regulation 29, for “15,16 or 25” substitute “15 or 16”.
 
-**5.**[^key-26fafb4250591be2f492dd551ff95225] In the Workplace (Health, Safety and Welfare) Regulations (Northern Ireland) 1993[^f00054], for regulation 3 substitute—
+**5.**[^c-26fafb4250591be2f492dd551ff95225] In the Workplace (Health, Safety and Welfare) Regulations (Northern Ireland) 1993[^f00054], for regulation 3 substitute—
 
 > **3. Application of these Regulations**
 >
@@ -148,13 +148,13 @@ Regulation 74
 > - (e) “shipyard” means any yard or dry dock (including the precincts thereof) in which ships or vessels are constructed, reconstructed, repaired, refitted or finished; and
 > - (f) “vessel” means any description of craft used for the transport of goods or passengers or the storage of goods or the accommodation of passengers on water, whether used in navigation or not.
 
-**6.**[^key-16392370c73e8f681d963610d29ddf24] In the Health and Safety (Enforcing Authority) Regulations (Northern Ireland) 1999[^f00055], in regulation 2(1), in the definition of “mine” for “section 156(1) of the Mines Act (Northern Ireland) 1969” substitute “section 156 of the Mines Act (Northern Ireland) 1969”.
+**6.**[^c-16392370c73e8f681d963610d29ddf24] In the Health and Safety (Enforcing Authority) Regulations (Northern Ireland) 1999[^f00055], in regulation 2(1), in the definition of “mine” for “section 156(1) of the Mines Act (Northern Ireland) 1969” substitute “section 156 of the Mines Act (Northern Ireland) 1969”.
 
-**7.**[^key-9b4d45a4d4c8aa4524edc2f34660dada] In the Lifting Operations and Lifting Equipment Regulations (Northern Ireland) 1999[^f00056], for regulation 9(5), substitute—
+**7.**[^c-9b4d45a4d4c8aa4524edc2f34660dada] In the Lifting Operations and Lifting Equipment Regulations (Northern Ireland) 1999[^f00056], for regulation 9(5), substitute—
 
 > (5) This regulation does not apply to winding apparatus to which the Mines Regulations (Northern Ireland) 2016 apply.
 
-**8.**[^key-33ecbf569713c6f9d00f8f61840c7c53] In the Ionising Radiations Regulations (Northern Ireland) 2000[^f00057] in regulation 4—
+**8.**[^c-33ecbf569713c6f9d00f8f61840c7c53] In the Ionising Radiations Regulations (Northern Ireland) 2000[^f00057] in regulation 4—
 
 - (a) for paragraph (2) substitute—
 
@@ -165,21 +165,21 @@ Regulation 74
 
   > (5) In this regulation, “mine operator” has the meaning given by regulation 2(1) of the Mines Regulations (Northern Ireland) 2016.
 
-**9.**[^key-1f4cbeaa323dfb56d6574ca7329e00cb] In PUWER, in place of regulation 6(5)(d) substitute—
+**9.**[^c-1f4cbeaa323dfb56d6574ca7329e00cb] In PUWER, in place of regulation 6(5)(d) substitute—
 
 > - (d) winding apparatus to which the Mines Regulations (Northern Ireland) 2016 apply;
 
-**10.**[^key-7788edf108e17b736ce1c8751dc7d7f9] In the Quarries Regulations (Northern Ireland) 2006[^f00058] in regulation 3(1)(c) for “section 156 of the 1969 Act” substitute “regulation 3 of the Mines Regulations (Northern Ireland) 2016”.
+**10.**[^c-7788edf108e17b736ce1c8751dc7d7f9] In the Quarries Regulations (Northern Ireland) 2006[^f00058] in regulation 3(1)(c) for “section 156 of the 1969 Act” substitute “regulation 3 of the Mines Regulations (Northern Ireland) 2016”.
 
-**11.**[^key-1fe910a9ac3f93c7bfd3913ac8f7b18a] In the Pressure Systems Safety Regulations (Northern Ireland) 2004[^f00059], in regulation 2(1), in the definition of “user”, for paragraph (a) substitute—
+**11.**[^c-1fe910a9ac3f93c7bfd3913ac8f7b18a] In the Pressure Systems Safety Regulations (Northern Ireland) 2004[^f00059], in regulation 2(1), in the definition of “user”, for paragraph (a) substitute—
 
 > - (a) a mine within the meaning of regulation 3 of the Mines Regulations (Northern Ireland) 2016 it means the mine operator (within the meaning of regulation 2(1) of those Regulations) for the time being of that mine;
 
 .
 
-**12.**[^key-cf8379dc0e62f8a75526580a81f19ad2] In the REACH Enforcement Regulations 2008[^f00060], in paragraph 1(m)(ii) of Part 1 of Schedule 3 for “section 156(1) of the Mines Act (Northern Ireland) 1969 ” substitute “section 156 of the Mines Act (Northern Ireland) 1969” .
+**12.**[^c-cf8379dc0e62f8a75526580a81f19ad2] In the REACH Enforcement Regulations 2008[^f00060], in paragraph 1(m)(ii) of Part 1 of Schedule 3 for “section 156(1) of the Mines Act (Northern Ireland) 1969 ” substitute “section 156 of the Mines Act (Northern Ireland) 1969” .
 
-**13.**[^key-10c6b2ae117bdce76d6121a66222cb89] In the Reporting of Injuries, Diseases and Dangerous Occurrences Regulations (Northern Ireland) 1997[^f00061]—
+**13.**[^c-10c6b2ae117bdce76d6121a66222cb89] In the Reporting of Injuries, Diseases and Dangerous Occurrences Regulations (Northern Ireland) 1997[^f00061]—
 
 - (a) in regulation 2(1)—
   - (i) for the definition of “mine” substitute—
@@ -196,50 +196,50 @@ Regulation 74
 
 ## Annotations
 
-[^key-2a80f20399017e765bb95d8444df1a26]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/nisr/2016/427/schedule/5/paragraph/1) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-2a80f20399017e765bb95d8444df1a26]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/nisr/2016/427/schedule/5/paragraph/1) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
 
-[^key-a72f4e1ef46b28d6006c81ff13d53eb7]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/nisr/2016/427/schedule/5/paragraph/2) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-a72f4e1ef46b28d6006c81ff13d53eb7]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/nisr/2016/427/schedule/5/paragraph/2) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
 
 [^f00051]: Footnote: [S.R. 1979 No. 437](https://www.legislation.gov.uk/nisr/1979/437)
 
-[^key-79f439c3487c8dc3cd215da0468383e8]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/nisr/2016/427/schedule/5/paragraph/3) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-79f439c3487c8dc3cd215da0468383e8]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/nisr/2016/427/schedule/5/paragraph/3) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
 
 [^f00052]: Footnote: [S.R. 1982 No.429](https://www.legislation.gov.uk/nisr/1982/429)
 
-[^key-59bfd866a5828048bb300b32045eba49]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/nisr/2016/427/schedule/5/paragraph/4) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-59bfd866a5828048bb300b32045eba49]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/nisr/2016/427/schedule/5/paragraph/4) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
 
 [^f00053]: Footnote: Regulation 3(1)(b) was substituted by [S.R. 2006 No. 205](https://www.legislation.gov.uk/nisr/2006/205)
 
-[^key-26fafb4250591be2f492dd551ff95225]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/nisr/2016/427/schedule/5/paragraph/5) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-26fafb4250591be2f492dd551ff95225]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/nisr/2016/427/schedule/5/paragraph/5) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
 
 [^f00054]: Footnote: [S.R. 1993 No. 37](https://www.legislation.gov.uk/nisr/1993/37)
 
-[^key-16392370c73e8f681d963610d29ddf24]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/nisr/2016/427/schedule/5/paragraph/6) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-16392370c73e8f681d963610d29ddf24]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/nisr/2016/427/schedule/5/paragraph/6) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
 
 [^f00055]: Footnote: [S.R. 1999 No.90](https://www.legislation.gov.uk/nisr/1999/90)
 
-[^key-9b4d45a4d4c8aa4524edc2f34660dada]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/nisr/2016/427/schedule/5/paragraph/7) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-9b4d45a4d4c8aa4524edc2f34660dada]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/nisr/2016/427/schedule/5/paragraph/7) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
 
 [^f00056]: Footnote: [S.R. 1999 No.304](https://www.legislation.gov.uk/nisr/1999/304)
 
-[^key-33ecbf569713c6f9d00f8f61840c7c53]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/nisr/2016/427/schedule/5/paragraph/8) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-33ecbf569713c6f9d00f8f61840c7c53]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/nisr/2016/427/schedule/5/paragraph/8) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
 
 [^f00057]: Footnote: [S.R. 2000 No.375](https://www.legislation.gov.uk/nisr/2000/375)
 
-[^key-1f4cbeaa323dfb56d6574ca7329e00cb]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/nisr/2016/427/schedule/5/paragraph/9) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-1f4cbeaa323dfb56d6574ca7329e00cb]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/nisr/2016/427/schedule/5/paragraph/9) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
 
-[^key-7788edf108e17b736ce1c8751dc7d7f9]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/nisr/2016/427/schedule/5/paragraph/10) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-7788edf108e17b736ce1c8751dc7d7f9]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/nisr/2016/427/schedule/5/paragraph/10) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
 
 [^f00058]: Footnote: [S.R. 2006 No. 205](https://www.legislation.gov.uk/nisr/2006/205)
 
-[^key-1fe910a9ac3f93c7bfd3913ac8f7b18a]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/nisr/2016/427/schedule/5/paragraph/11) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-1fe910a9ac3f93c7bfd3913ac8f7b18a]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/nisr/2016/427/schedule/5/paragraph/11) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
 
 [^f00059]: Footnote: [S.R. 2004 No. 222](https://www.legislation.gov.uk/nisr/2004/222)
 
-[^key-cf8379dc0e62f8a75526580a81f19ad2]: Commencement: [Sch. 5 para. 12](https://www.legislation.gov.uk/nisr/2016/427/schedule/5/paragraph/12) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-cf8379dc0e62f8a75526580a81f19ad2]: Commencement: [Sch. 5 para. 12](https://www.legislation.gov.uk/nisr/2016/427/schedule/5/paragraph/12) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
 
 [^f00060]: Footnote: [S.I. 2008/2852](https://www.legislation.gov.uk/uksi/2008/2852)
 
-[^key-10c6b2ae117bdce76d6121a66222cb89]: Commencement: [Sch. 5 para. 13](https://www.legislation.gov.uk/nisr/2016/427/schedule/5/paragraph/13) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-10c6b2ae117bdce76d6121a66222cb89]: Commencement: [Sch. 5 para. 13](https://www.legislation.gov.uk/nisr/2016/427/schedule/5/paragraph/13) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
 
 [^f00061]: Footnote: [S.R. 1997 No.455](https://www.legislation.gov.uk/nisr/1997/455) as amended by [S.R. 2004 No. 196](https://www.legislation.gov.uk/nisr/2004/196)

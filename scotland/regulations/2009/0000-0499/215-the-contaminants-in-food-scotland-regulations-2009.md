@@ -32,7 +32,7 @@ summary: ''
 
 FOOD
 
-The Contaminants in Food (Scotland) Regulations 2009 (revoked)[^key-472174e3bede3ba40316a95c16089468]
+The Contaminants in Food (Scotland) Regulations 2009 (revoked)[^c-472174e3bede3ba40316a95c16089468]
 
 Made
 
@@ -46,44 +46,44 @@ Coming into force
 
 1st July 2009
 
-[^key-472174e3bede3ba40316a95c16089468]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-472174e3bede3ba40316a95c16089468]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-472174e3bede3ba40316a95c16089468]
+## 1. Citation, commencement and extent[^c-472174e3bede3ba40316a95c16089468]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-472174e3bede3ba40316a95c16089468]
+## 2. Interpretation[^c-472174e3bede3ba40316a95c16089468]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Offences and penalties[^key-472174e3bede3ba40316a95c16089468]
+## 3. Offences and penalties[^c-472174e3bede3ba40316a95c16089468]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Enforcement and competent authorities[^key-472174e3bede3ba40316a95c16089468]
+## 4. Enforcement and competent authorities[^c-472174e3bede3ba40316a95c16089468]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Application of various sections of the Food Safety Act 1990[^key-472174e3bede3ba40316a95c16089468]
+## 5. Application of various sections of the Food Safety Act 1990[^c-472174e3bede3ba40316a95c16089468]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Consequential amendment[^key-472174e3bede3ba40316a95c16089468]
+## 6. Consequential amendment[^c-472174e3bede3ba40316a95c16089468]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Revocation[^key-472174e3bede3ba40316a95c16089468]
+## 7. Revocation[^c-472174e3bede3ba40316a95c16089468]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-472174e3bede3ba40316a95c16089468]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-472174e3bede3ba40316a95c16089468]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-472174e3bede3ba40316a95c16089468]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-472174e3bede3ba40316a95c16089468]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-472174e3bede3ba40316a95c16089468]: Textual amendment: Regulations revoked (20.10.2010) by [The Contaminants in Food (Scotland) Regulations 2010 (S.S.I. 2010/329)](https://www.legislation.gov.uk/ssi/2010/329), [regs. 1](https://www.legislation.gov.uk/ssi/2010/329/regulation/1), [7](https://www.legislation.gov.uk/ssi/2010/329/regulation/7)
+[^c-472174e3bede3ba40316a95c16089468]: Textual amendment: Regulations revoked (20.10.2010) by [The Contaminants in Food (Scotland) Regulations 2010 (S.S.I. 2010/329)](https://www.legislation.gov.uk/ssi/2010/329), [regs. 1](https://www.legislation.gov.uk/ssi/2010/329/regulation/1), [7](https://www.legislation.gov.uk/ssi/2010/329/regulation/7)

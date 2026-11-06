@@ -22,7 +22,7 @@ summary: ''
 
 Regulations 64(17) and 66(17)
 
-### PART 1 — Forms for use at a referendum where the poll is not taken together with another election or referendum[^key-4f860cd223670bdec2326792fa2cdc95]
+### PART 1 — Forms for use at a referendum where the poll is not taken together with another election or referendum[^c-4f860cd223670bdec2326792fa2cdc95]
 
 **Form 7: Official poll card**
 
@@ -52,7 +52,7 @@ Regulations 64(17) and 66(17)
 
 [image: see source](https://www.legislation.gov.uk/uksi/2022/1382/images/uksi_20221382_en_044)
 
-### PART 2 — Forms for use at a referendum where the poll is taken together with another election or referendum[^key-5da6334666d8eb7be969f5478d51bd25]
+### PART 2 — Forms for use at a referendum where the poll is taken together with another election or referendum[^c-5da6334666d8eb7be969f5478d51bd25]
 
 **Form 8: Official poll card**
 
@@ -84,6 +84,6 @@ Regulations 64(17) and 66(17)
 
 ## Annotations
 
-[^key-4f860cd223670bdec2326792fa2cdc95]: Commencement: Sch. 11 Pt. 1 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-4f860cd223670bdec2326792fa2cdc95]: Commencement: Sch. 11 Pt. 1 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
 
-[^key-5da6334666d8eb7be969f5478d51bd25]: Commencement: Sch. 11 Pt. 2 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-5da6334666d8eb7be969f5478d51bd25]: Commencement: Sch. 11 Pt. 2 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)

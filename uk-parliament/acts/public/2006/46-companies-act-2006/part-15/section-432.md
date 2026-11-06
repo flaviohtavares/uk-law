@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 432. Right of member or debenture holder to copies of accounts and reports: quoted companies[^c19886071][^c19885011][^c19885031][^c19885041][^c19885051][^c20617191][^key-60504bf6a9a26fdc6f079589576080e8]
+## 432. Right of member or debenture holder to copies of accounts and reports: quoted companies[^c19886071][^c19885011][^c19885031][^c19885041][^c19885051][^c20617191][^c-60504bf6a9a26fdc6f079589576080e8]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,9 +24,9 @@ summary: ''
 
 - (a) the company's last annual accounts,
 - (b) the last directors' remuneration report,
-- (ba)[^key-7880c6fc2daf90c1a4a5b722550c10de] the strategic report (if any) for the last financial year,
+- (ba)[^c-7880c6fc2daf90c1a4a5b722550c10de] the strategic report (if any) for the last financial year,
 - (c) the last directors' report, and
-- (d) the auditor's report on those accounts (including the report on the directors' remuneration report, on the strategic report (where this is covered by the auditor’s report)[^key-cdf92b6f7c57b5744991c7a887ecb4d1] and on the directors' report).
+- (d) the auditor's report on those accounts (including the report on the directors' remuneration report, on the strategic report (where this is covered by the auditor’s report)[^c-cdf92b6f7c57b5744991c7a887ecb4d1] and on the directors' report).
 
 (2) The entitlement under this section is to a single copy of those documents, but that is in addition to any copy to which a person may be entitled under section 423.
 
@@ -51,8 +51,8 @@ summary: ''
 
 [^c20617191]: Modification: Ss. 418-469 applied (with modifications) (1.10.2009) by [The Unregistered Companies Regulations 2009 (S.I. 2009/2436)](https://www.legislation.gov.uk/uksi/2009/2436), [regs. 3-5](https://www.legislation.gov.uk/uksi/2009/2436/regulation/3), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/10) (with transitional provisions and savings in [regs. 7](https://www.legislation.gov.uk/uksi/2009/2436/regulation/7), [9](https://www.legislation.gov.uk/uksi/2009/2436/regulation/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/2436/schedule/2))
 
-[^key-60504bf6a9a26fdc6f079589576080e8]: Modification: Ss. 430-438 applied (with modifications) (1.10.2009) by [The Unregistered Companies Regulations 2009 (S.I. 2009/2436)](https://www.legislation.gov.uk/uksi/2009/2436), [regs. 3-5](https://www.legislation.gov.uk/uksi/2009/2436/regulation/3), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/10) (with transitional provisions and savings in [regs. 7](https://www.legislation.gov.uk/uksi/2009/2436/regulation/7), [9](https://www.legislation.gov.uk/uksi/2009/2436/regulation/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/2436/schedule/2) (as amended (with application in accordance with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/1972/regulation/1/3) of the amending [S.I](https://www.legislation.gov.uk/uksi/2013/1972/section/I).) by [The Unregistered Companies (Amendment) Regulations 2013 (S.I. 2013/1972)](https://www.legislation.gov.uk/uksi/2013/1972), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1972/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2013/1972/regulation/2/2/a))
+[^c-60504bf6a9a26fdc6f079589576080e8]: Modification: Ss. 430-438 applied (with modifications) (1.10.2009) by [The Unregistered Companies Regulations 2009 (S.I. 2009/2436)](https://www.legislation.gov.uk/uksi/2009/2436), [regs. 3-5](https://www.legislation.gov.uk/uksi/2009/2436/regulation/3), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/10) (with transitional provisions and savings in [regs. 7](https://www.legislation.gov.uk/uksi/2009/2436/regulation/7), [9](https://www.legislation.gov.uk/uksi/2009/2436/regulation/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/2436/schedule/2) (as amended (with application in accordance with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/1972/regulation/1/3) of the amending [S.I](https://www.legislation.gov.uk/uksi/2013/1972/section/I).) by [The Unregistered Companies (Amendment) Regulations 2013 (S.I. 2013/1972)](https://www.legislation.gov.uk/uksi/2013/1972), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1972/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2013/1972/regulation/2/2/a))
 
-[^key-7880c6fc2daf90c1a4a5b722550c10de]: Textual amendment: S. 432(1)(ba) inserted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Companies Act 2006 (Strategic Report and Directors' Report) Regulations 2013 (S.I. 2013/1970)](https://www.legislation.gov.uk/uksi/2013/1970), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/3), [Sch. para. 5(a)](https://www.legislation.gov.uk/uksi/2013/1970/schedule/paragraph/5/a)
+[^c-7880c6fc2daf90c1a4a5b722550c10de]: Textual amendment: S. 432(1)(ba) inserted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Companies Act 2006 (Strategic Report and Directors' Report) Regulations 2013 (S.I. 2013/1970)](https://www.legislation.gov.uk/uksi/2013/1970), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/3), [Sch. para. 5(a)](https://www.legislation.gov.uk/uksi/2013/1970/schedule/paragraph/5/a)
 
-[^key-cdf92b6f7c57b5744991c7a887ecb4d1]: Textual amendment: Words in s. 432(1)(d) inserted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Companies Act 2006 (Strategic Report and Directors' Report) Regulations 2013 (S.I. 2013/1970)](https://www.legislation.gov.uk/uksi/2013/1970), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/3), [Sch. para. 5(b)](https://www.legislation.gov.uk/uksi/2013/1970/schedule/paragraph/5/b)
+[^c-cdf92b6f7c57b5744991c7a887ecb4d1]: Textual amendment: Words in s. 432(1)(d) inserted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Companies Act 2006 (Strategic Report and Directors' Report) Regulations 2013 (S.I. 2013/1970)](https://www.legislation.gov.uk/uksi/2013/1970), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/3), [Sch. para. 5(b)](https://www.legislation.gov.uk/uksi/2013/1970/schedule/paragraph/5/b)

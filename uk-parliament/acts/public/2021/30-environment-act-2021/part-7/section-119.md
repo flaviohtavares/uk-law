@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 119. Responsible bodies[^key-3c65daa97a296513e634447394537ad1][^key-9b9096fb0a6cc5312dd6dc1a14312f34]
+## 119. Responsible bodies[^c-3c65daa97a296513e634447394537ad1][^c-9b9096fb0a6cc5312dd6dc1a14312f34]
 
 *Extent: E+W*
 
@@ -67,6 +67,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3c65daa97a296513e634447394537ad1]: Commencement: S. 119 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-3c65daa97a296513e634447394537ad1]: Commencement: S. 119 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-9b9096fb0a6cc5312dd6dc1a14312f34]: Commencement: [S. 119](https://www.legislation.gov.uk/ukpga/2021/30/section/119) in force at 30.9.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 5(a)](https://www.legislation.gov.uk/uksi/2022/48/regulation/5/a)
+[^c-9b9096fb0a6cc5312dd6dc1a14312f34]: Commencement: [S. 119](https://www.legislation.gov.uk/ukpga/2021/30/section/119) in force at 30.9.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 5(a)](https://www.legislation.gov.uk/uksi/2022/48/regulation/5/a)

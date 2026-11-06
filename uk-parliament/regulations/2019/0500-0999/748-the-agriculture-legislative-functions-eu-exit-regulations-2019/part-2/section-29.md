@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29.[^key-041b2547a37eb2c82a67d242c4e50718]
+## 29.[^c-041b2547a37eb2c82a67d242c4e50718]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,6 +52,6 @@ In Article 4(2), for the third subparagraph substitute—
 
 ## Annotations
 
-[^key-041b2547a37eb2c82a67d242c4e50718]: Commencement: Reg. 29 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-041b2547a37eb2c82a67d242c4e50718]: Commencement: Reg. 29 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23689551]: Marginal citation: [1954 c. 33 (NI)](https://www.legislation.gov.uk/apni/1954/33). Section 41(6) was amended by [S.I. 1999/663](https://www.legislation.gov.uk/uksi/1999/663).

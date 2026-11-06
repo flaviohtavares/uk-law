@@ -167,7 +167,7 @@ Regulation 10 does not apply in any case where, on the date on which the annual 
 
 (1) For the purposes of section 83A(1) of the Act, the information in paragraphs 1 to 5, 8, 9 and 19 of Schedule 2 is prescribed information which must be provided to the Secretary of State and Her Majesty's Revenue and Customs when a childminder agency takes the step mentioned in sub-paragraph (a) of section 83A(1) in relation to a person's registration, or any of the steps prescribed in paragraph (2).
 
-(2)[^key-0aa57ca9b2aa5f6d1522de8691f55307] The prescribed steps are—
+(2)[^c-0aa57ca9b2aa5f6d1522de8691f55307] The prescribed steps are—
 
 - (a) approving the suitability of additional premises under regulation 7C of the Childcare (Early Years and General Childcare Registers) (Common Provisions) Regulations 2008;
 - (b) cancellation of a person’s registration;
@@ -178,7 +178,7 @@ Regulation 10 does not apply in any case where, on the date on which the annual 
 
 (1) For the purposes of section 83A(1) of the Act, the information in paragraphs 1 to 12, 19 and 20 of Schedule 2 is prescribed information which must be provided to a relevant local authority when a childminder agency takes the step mentioned in sub-paragraph (a) of section 83A(1) in relation to a person's registration, or any of the steps prescribed in paragraph (2).
 
-(2)[^key-0583434998b93e27cfa84158b6f4c8c1] The prescribed steps are—
+(2)[^c-0583434998b93e27cfa84158b6f4c8c1] The prescribed steps are—
 
 - (a) approving the suitability of additional premises under regulation 7C of the Childcare (Early Years and General Childcare Registers) (Common Provisions) Regulations 2008;
 - (b) giving notice of intention to cancel a person’s registration;
@@ -212,14 +212,14 @@ For the purposes of section 84A(1) of the Act, the information specified in para
 (2) The prescribed persons are—
 
 - (a) a fostering agency within the meaning of section 4(4) of the Care Standards Act 2000 [^c22191651];
-- (aa)[^key-d2f0408a30f5fb76ccf86bea7eb16e6a] a provider of a fostering service (within the meaning of paragraph 5 of Schedule 1 to the Regulation and Inspection of Social Care (Wales) Act 2016);
-- (b) a voluntary adoption agency within the meaning of section 4(7) of the Care Standards Act 2000[^key-6ebf5461f45c8686c4cc0bd62577d9df];
-- (ba)[^key-2db4505e3cb12ad9d4fb047e8154e69a] a provider of an adoption service (within the meaning of paragraph 4(a) of Schedule 1 to the Regulation and Inspection of Social Care (Wales) Act 2016;
+- (aa)[^c-d2f0408a30f5fb76ccf86bea7eb16e6a] a provider of a fostering service (within the meaning of paragraph 5 of Schedule 1 to the Regulation and Inspection of Social Care (Wales) Act 2016);
+- (b) a voluntary adoption agency within the meaning of section 4(7) of the Care Standards Act 2000[^c-6ebf5461f45c8686c4cc0bd62577d9df];
+- (ba)[^c-2db4505e3cb12ad9d4fb047e8154e69a] a provider of an adoption service (within the meaning of paragraph 4(a) of Schedule 1 to the Regulation and Inspection of Social Care (Wales) Act 2016;
 - (c) the Welsh Ministers;
 - (d) Social Care and Social Work Improvement Scotland;
 - (e) a Health and Social Care Trust in Northern Ireland;
 - (f) a body acting on behalf of the Crown in the Channel Islands or in the Isle of Man;
-- (g) the national authority of a[^key-9f296f5a73f5a2a6f1909274709739ae] member State of the European Economic Area having functions comprising the regulation of childcare; and
+- (g) the national authority of a[^c-9f296f5a73f5a2a6f1909274709739ae] member State of the European Economic Area having functions comprising the regulation of childcare; and
 - (h) a childminder agency.
 
 (3) Subject to paragraph (4), the prescribed information is the information specified in paragraphs 1 to 6, 8, 9, 11, 14, 15, 19 and 20 of Schedule 2.
@@ -380,7 +380,7 @@ An enhanced criminal record certificate has been obtained in respect of any mana
 
 (3) For the purposes of sub-paragraph (2), the applicant's arrangements will not be effective unless they make provision for—
 
-- (a)[^key-3ad1ae2680f5b93b65a77b6fdbad8c82] a minimum of one quality assurance visit in the first year of registration, which must be unannounced;
+- (a)[^c-3ad1ae2680f5b93b65a77b6fdbad8c82] a minimum of one quality assurance visit in the first year of registration, which must be unannounced;
 - (b) a minimum of one quality assurance visit for every subsequent year of registration, which must be unannounced;
 - (c) a written report to be made following every quality assurance visit; and
 - (d) a copy of such a written report to be made available to the person who is the subject of that report.
@@ -446,7 +446,7 @@ Regulations 14 to 20
 **7.** Where the person is registered as a childminder, whether the setting is either (or a combination of)—
 
 - (a) the person's home,
-- (b)[^key-4ba730daf20685aec67386122c4829b9] the child’s home,
+- (b)[^c-4ba730daf20685aec67386122c4829b9] the child’s home,
 - (c) other domestic premises, or
 - (d) non-domestic premises.
 
@@ -475,7 +475,7 @@ Regulations 14 to 20
 **19.** Information as to which, if any, of the following steps the childminder agency is taking in relation to a person's registration, namely—
 
 - (a) granting the person's application for registration;
-- (b)[^key-9dcaab3e739f8ea0edac215555629b3b] approving the suitability of additional premises under regulation 7C of the Childcare (Early Years and General Childcare Registers) (Common Provisions) Regulations 2008 for the provision of childcare by the person;
+- (b)[^c-9dcaab3e739f8ea0edac215555629b3b] approving the suitability of additional premises under regulation 7C of the Childcare (Early Years and General Childcare Registers) (Common Provisions) Regulations 2008 for the provision of childcare by the person;
 - (c) giving notice of intention to cancel the person’s registration;
 - (d) cancelling the person’s registration;
 - (e) suspending the person’s registration, either generally or only in relation to particular premises; or
@@ -505,26 +505,26 @@ An impact assessment has not been prepared for this instrument as no impact on t
 
 [^c22191631]: Marginal citation: [1997 c. 50](https://www.legislation.gov.uk/ukpga/1997/50); [section 113B](https://www.legislation.gov.uk/uksi/2014/1920/section/113B) was inserted by section 163(2) of the [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15) and was amended, in relation to England, Wales and Northern Ireland by paragraphs 14(1) and (3) of Schedule 9 to the [Safeguarding Vulnerable Groups Act 2006 (c. 47)](https://www.legislation.gov.uk/ukpga/2006/47) and section 97(2) of, and Part 8 of Schedule 8 to, the [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26). Section 113B was also amended, in relation to England and Wales, by the following Acts and instruments: the [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [Schedule 16](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16), [paragraph 149](https://www.legislation.gov.uk/ukpga/2006/52/paragraph/149); the [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [sections 79(2)(b)](https://www.legislation.gov.uk/ukpga/2012/9/section/79/2/b), [80(1)](https://www.legislation.gov.uk/ukpga/2012/9/section/80/1), [82(1) to (3)](https://www.legislation.gov.uk/ukpga/2012/9/section/82/1), [paragraphs 35](https://www.legislation.gov.uk/ukpga/2012/9/paragraph/35) and 37 of Schedule 9 and Parts 5 and 6 of Schedule 10; the [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [Schedule 8](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8), [paragraphs 55](https://www.legislation.gov.uk/ukpga/2013/22/paragraph/55) and 60; [S.I. 2009/203](https://www.legislation.gov.uk/uksi/2009/203); [S.I. 2010/1146](https://www.legislation.gov.uk/uksi/2010/1146) and [S.I. 2012/3006](https://www.legislation.gov.uk/uksi/2012/3006).
 
-[^key-0aa57ca9b2aa5f6d1522de8691f55307]: Textual amendment: [Reg. 14(2)](https://www.legislation.gov.uk/uksi/2014/1920/regulation/14/2) substituted (1.1.2016) by [The Childcare (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/1562)](https://www.legislation.gov.uk/uksi/2015/1562), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1562/regulation/1/1), [9(2)](https://www.legislation.gov.uk/uksi/2015/1562/regulation/9/2)
+[^c-0aa57ca9b2aa5f6d1522de8691f55307]: Textual amendment: [Reg. 14(2)](https://www.legislation.gov.uk/uksi/2014/1920/regulation/14/2) substituted (1.1.2016) by [The Childcare (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/1562)](https://www.legislation.gov.uk/uksi/2015/1562), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1562/regulation/1/1), [9(2)](https://www.legislation.gov.uk/uksi/2015/1562/regulation/9/2)
 
-[^key-0583434998b93e27cfa84158b6f4c8c1]: Textual amendment: [Reg. 15(2)](https://www.legislation.gov.uk/uksi/2014/1920/regulation/15/2) substituted (1.1.2016) by [The Childcare (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/1562)](https://www.legislation.gov.uk/uksi/2015/1562), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1562/regulation/1/1), [9(3)](https://www.legislation.gov.uk/uksi/2015/1562/regulation/9/3)
+[^c-0583434998b93e27cfa84158b6f4c8c1]: Textual amendment: [Reg. 15(2)](https://www.legislation.gov.uk/uksi/2014/1920/regulation/15/2) substituted (1.1.2016) by [The Childcare (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/1562)](https://www.legislation.gov.uk/uksi/2015/1562), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1562/regulation/1/1), [9(3)](https://www.legislation.gov.uk/uksi/2015/1562/regulation/9/3)
 
 [^c22191641]: Marginal citation: The definition of “police authority” in section 126 of the Police Act 1997 (“**the 1997 Act**”) was amended by section 78(1) of, and paragraphs 20(1) and (3) of Schedule 6 to, the [Police (Northern Ireland) Act 2000 (c. 32)](https://www.legislation.gov.uk/ukpga/2000/32), [section 1](https://www.legislation.gov.uk/ukpga/2000/32/section/1) of, and paragraphs 221 and 224 of Schedule 16 to, the [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), in relation to Scotland by section 128(1) of, and paragraph 14(8)(b) of Schedule 7 to, the Police and Fire Reform (Scotland) Act 2012, and in relation to England and Wales by Article 25 of, and paragraphs 6(1) and 7(b) of Schedule 1 to, [S.I. 2013/602](https://www.legislation.gov.uk/uksi/2013/602). The definition of “chief officer” in the 1997 Act was amended by section 78(1) of, and paragraphs 20(1) and (2)(b) of Schedule 6 to, the [Police (Northern Ireland) Act 2000 (c. 32)](https://www.legislation.gov.uk/ukpga/2000/32), in relation to Scotland by section 128(1) of, and paragraph 14(8)(a) of Schedule 7 to, the Police and Fire Reform (Scotland) Act 2012, and in relation to England and Wales by Article 25 of, and paragraphs 6(1) and 7(a) of Schedule 1 to, [S.I. 2013/602](https://www.legislation.gov.uk/uksi/2013/602).
 
 [^c22191651]: Marginal citation: [2000 c. 14](https://www.legislation.gov.uk/ukpga/2000/14).
 
-[^key-d2f0408a30f5fb76ccf86bea7eb16e6a]: Textual amendment: [Reg. 19(2)(aa)](https://www.legislation.gov.uk/uksi/2014/1920/regulation/19/2/aa) inserted (29.4.2019) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2019 (S.I. 2019/237)](https://www.legislation.gov.uk/wsi/2019/237), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/237/regulation/1/2), [Sch. 1 para. 24(2)(a)](https://www.legislation.gov.uk/wsi/2019/237/schedule/1/paragraph/24/2/a)
+[^c-d2f0408a30f5fb76ccf86bea7eb16e6a]: Textual amendment: [Reg. 19(2)(aa)](https://www.legislation.gov.uk/uksi/2014/1920/regulation/19/2/aa) inserted (29.4.2019) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2019 (S.I. 2019/237)](https://www.legislation.gov.uk/wsi/2019/237), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/237/regulation/1/2), [Sch. 1 para. 24(2)(a)](https://www.legislation.gov.uk/wsi/2019/237/schedule/1/paragraph/24/2/a)
 
-[^key-6ebf5461f45c8686c4cc0bd62577d9df]: Textual amendment: Words in [reg. 19(2)(b)](https://www.legislation.gov.uk/uksi/2014/1920/regulation/19/2/b) substituted (29.4.2019) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2019 (S.I. 2019/237)](https://www.legislation.gov.uk/wsi/2019/237), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/237/regulation/1/2), [Sch. 1 para. 24(2)(b)](https://www.legislation.gov.uk/wsi/2019/237/schedule/1/paragraph/24/2/b)
+[^c-6ebf5461f45c8686c4cc0bd62577d9df]: Textual amendment: Words in [reg. 19(2)(b)](https://www.legislation.gov.uk/uksi/2014/1920/regulation/19/2/b) substituted (29.4.2019) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2019 (S.I. 2019/237)](https://www.legislation.gov.uk/wsi/2019/237), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/237/regulation/1/2), [Sch. 1 para. 24(2)(b)](https://www.legislation.gov.uk/wsi/2019/237/schedule/1/paragraph/24/2/b)
 
-[^key-2db4505e3cb12ad9d4fb047e8154e69a]: Textual amendment: [Reg. 19(2)(ba)](https://www.legislation.gov.uk/uksi/2014/1920/regulation/19/2/ba) inserted (29.4.2019) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2019 (S.I. 2019/237)](https://www.legislation.gov.uk/wsi/2019/237), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/237/regulation/1/2), [Sch. 1 para. 24(2)(c)](https://www.legislation.gov.uk/wsi/2019/237/schedule/1/paragraph/24/2/c)
+[^c-2db4505e3cb12ad9d4fb047e8154e69a]: Textual amendment: [Reg. 19(2)(ba)](https://www.legislation.gov.uk/uksi/2014/1920/regulation/19/2/ba) inserted (29.4.2019) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2019 (S.I. 2019/237)](https://www.legislation.gov.uk/wsi/2019/237), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/237/regulation/1/2), [Sch. 1 para. 24(2)(c)](https://www.legislation.gov.uk/wsi/2019/237/schedule/1/paragraph/24/2/c)
 
-[^key-9f296f5a73f5a2a6f1909274709739ae]: Textual amendment: Word in [reg. 19(2)(g)](https://www.legislation.gov.uk/uksi/2014/1920/regulation/19/2/g) substituted (31.12.2020) by [The Childcare (Miscellaneous Amendments) (EU Exit) (England) Regulations 2018 (S.I. 2018/1116)](https://www.legislation.gov.uk/uksi/2018/1116), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1116/regulation/1), [4](https://www.legislation.gov.uk/uksi/2018/1116/regulation/4) (as amended by [S.I. 2019/727](https://www.legislation.gov.uk/uksi/2019/727), [regs. 1](https://www.legislation.gov.uk/uksi/2019/727/regulation/1), [2](https://www.legislation.gov.uk/uksi/2019/727/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9f296f5a73f5a2a6f1909274709739ae]: Textual amendment: Word in [reg. 19(2)(g)](https://www.legislation.gov.uk/uksi/2014/1920/regulation/19/2/g) substituted (31.12.2020) by [The Childcare (Miscellaneous Amendments) (EU Exit) (England) Regulations 2018 (S.I. 2018/1116)](https://www.legislation.gov.uk/uksi/2018/1116), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1116/regulation/1), [4](https://www.legislation.gov.uk/uksi/2018/1116/regulation/4) (as amended by [S.I. 2019/727](https://www.legislation.gov.uk/uksi/2019/727), [regs. 1](https://www.legislation.gov.uk/uksi/2019/727/regulation/1), [2](https://www.legislation.gov.uk/uksi/2019/727/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3ad1ae2680f5b93b65a77b6fdbad8c82]: Textual amendment: [Sch. 1 para. 16(3)(a)](https://www.legislation.gov.uk/uksi/2014/1920/schedule/1/paragraph/16/3/a) substituted (1.10.2021) by [The Childcare (Childminder Agencies) (Registration, Inspection and Supply and Disclosure of Information) and Her Majesty’s Chief Inspector of Education, Children’s Services and Skills (Fees and Frequency of Inspections) (Children’s Homes etc.) (Coronavirus) (Amendment) Regulations 2021 (S.I. 2021/1019)](https://www.legislation.gov.uk/uksi/2021/1019), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1019/regulation/1), [2](https://www.legislation.gov.uk/uksi/2021/1019/regulation/2)
+[^c-3ad1ae2680f5b93b65a77b6fdbad8c82]: Textual amendment: [Sch. 1 para. 16(3)(a)](https://www.legislation.gov.uk/uksi/2014/1920/schedule/1/paragraph/16/3/a) substituted (1.10.2021) by [The Childcare (Childminder Agencies) (Registration, Inspection and Supply and Disclosure of Information) and Her Majesty’s Chief Inspector of Education, Children’s Services and Skills (Fees and Frequency of Inspections) (Children’s Homes etc.) (Coronavirus) (Amendment) Regulations 2021 (S.I. 2021/1019)](https://www.legislation.gov.uk/uksi/2021/1019), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1019/regulation/1), [2](https://www.legislation.gov.uk/uksi/2021/1019/regulation/2)
 
 [^c22191671]: Marginal citation: [S.I. 1975/1023](https://www.legislation.gov.uk/uksi/1975/1023). Article 2A was inserted, in relation to England and Wales, by Articles 2 and 4 of the [Rehabilitation of Offenders Act 1974 (Exceptions) Order 1975 (Amendment) (England and Wales) Order 2013 (S.I. 2013/1198)](https://www.legislation.gov.uk/uksi/2013/1198).
 
-[^key-4ba730daf20685aec67386122c4829b9]: Textual amendment: [Sch. 2 para. 7(b)-(d)](https://www.legislation.gov.uk/uksi/2014/1920/schedule/2/paragraph/7/b) substituted for Sch. 2 para. 7(b)(c) (1.1.2016) by [The Childcare (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/1562)](https://www.legislation.gov.uk/uksi/2015/1562), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1562/regulation/1/1), [9(4)(a)](https://www.legislation.gov.uk/uksi/2015/1562/regulation/9/4/a)
+[^c-4ba730daf20685aec67386122c4829b9]: Textual amendment: [Sch. 2 para. 7(b)-(d)](https://www.legislation.gov.uk/uksi/2014/1920/schedule/2/paragraph/7/b) substituted for Sch. 2 para. 7(b)(c) (1.1.2016) by [The Childcare (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/1562)](https://www.legislation.gov.uk/uksi/2015/1562), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1562/regulation/1/1), [9(4)(a)](https://www.legislation.gov.uk/uksi/2015/1562/regulation/9/4/a)
 
-[^key-9dcaab3e739f8ea0edac215555629b3b]: Textual amendment: Sch. 2 para. 19(b)-(f) and words substituted for Sch. 2 para. 19(b)-(e) and words (1.1.2016) by [The Childcare (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/1562)](https://www.legislation.gov.uk/uksi/2015/1562), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1562/regulation/1/1), [9(4)(b)](https://www.legislation.gov.uk/uksi/2015/1562/regulation/9/4/b)
+[^c-9dcaab3e739f8ea0edac215555629b3b]: Textual amendment: Sch. 2 para. 19(b)-(f) and words substituted for Sch. 2 para. 19(b)-(e) and words (1.1.2016) by [The Childcare (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/1562)](https://www.legislation.gov.uk/uksi/2015/1562), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1562/regulation/1/1), [9(4)(b)](https://www.legislation.gov.uk/uksi/2015/1562/regulation/9/4/b)

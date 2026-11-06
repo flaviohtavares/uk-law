@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 59.12. Judgments and orders[^key-b86c9615e686de7195c572935f3010d3]
+## 59.12. Judgments and orders[^c-b86c9615e686de7195c572935f3010d3]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b86c9615e686de7195c572935f3010d3]: Textual amendment: Pt. 59 inserted (25.3.2002) by [The Civil Procedure (Amendment No. 5) Rules 2001 (S.I. 2001/4015)](https://www.legislation.gov.uk/uksi/2001/4015), [rule 1(c)](https://www.legislation.gov.uk/uksi/2001/4015/rule/1/c), [Sch. 3](https://www.legislation.gov.uk/uksi/2001/4015/schedule/3)
+[^c-b86c9615e686de7195c572935f3010d3]: Textual amendment: Pt. 59 inserted (25.3.2002) by [The Civil Procedure (Amendment No. 5) Rules 2001 (S.I. 2001/4015)](https://www.legislation.gov.uk/uksi/2001/4015), [rule 1(c)](https://www.legislation.gov.uk/uksi/2001/4015/rule/1/c), [Sch. 3](https://www.legislation.gov.uk/uksi/2001/4015/schedule/3)

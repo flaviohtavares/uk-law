@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Registration procedure[^key-b5aaeb00a04acd78414d20d072c2cc98][^key-be27d8366f96ccac095307be9a6cb292]
+## 26. Registration procedure[^c-b5aaeb00a04acd78414d20d072c2cc98][^c-be27d8366f96ccac095307be9a6cb292]
 
 *Extent: E+W*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b5aaeb00a04acd78414d20d072c2cc98]: Commencement: S. 26 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-b5aaeb00a04acd78414d20d072c2cc98]: Commencement: S. 26 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-be27d8366f96ccac095307be9a6cb292]: Commencement: [S. 26](https://www.legislation.gov.uk/asc/2022/1/section/26) in force at 1.1.2026 by [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 9](https://www.legislation.gov.uk/wsi/2025/432/article/9)
+[^c-be27d8366f96ccac095307be9a6cb292]: Commencement: [S. 26](https://www.legislation.gov.uk/asc/2022/1/section/26) in force at 1.1.2026 by [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 9](https://www.legislation.gov.uk/wsi/2025/432/article/9)

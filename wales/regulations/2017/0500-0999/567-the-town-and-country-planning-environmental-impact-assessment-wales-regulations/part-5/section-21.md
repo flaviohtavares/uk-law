@@ -22,7 +22,7 @@ summary: ''
 
 (1) This regulation applies where an applicant or appellant submits an environmental statement to the Welsh Ministers, in relation to an EIA application which is—
 
-- (a) before the Welsh Ministers , examining authority[^key-ae0efb5d822519340a7933bb4db43940] or an inspector for determination; or
+- (a) before the Welsh Ministers , examining authority[^c-ae0efb5d822519340a7933bb4db43940] or an inspector for determination; or
 - (b) the subject of an appeal to the Welsh Ministers.
 
 (2) The applicant or appellant must submit the environmental statement in electronic and paper format to the Welsh Ministers and to the relevant planning authority, unless otherwise agreed in writing.
@@ -41,4 +41,4 @@ and the Welsh Ministers or the inspector must comply with regulation 18(6) as if
 
 ## Annotations
 
-[^key-ae0efb5d822519340a7933bb4db43940]: Textual amendment: Words in [reg. 21(1)(a)](https://www.legislation.gov.uk/wsi/2017/567/regulation/21/1/a) inserted (15.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [12(20)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/12/20) (with [reg. 12(44)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/12/44))
+[^c-ae0efb5d822519340a7933bb4db43940]: Textual amendment: Words in [reg. 21(1)(a)](https://www.legislation.gov.uk/wsi/2017/567/regulation/21/1/a) inserted (15.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [12(20)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/12/20) (with [reg. 12(44)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/12/44))

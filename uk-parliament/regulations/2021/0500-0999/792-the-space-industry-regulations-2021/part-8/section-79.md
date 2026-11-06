@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. A spaceflight operator’s safety duty[^key-72806106bb553615cf159ca290caa411]
+## 79. A spaceflight operator’s safety duty[^c-72806106bb553615cf159ca290caa411]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-72806106bb553615cf159ca290caa411]: Commencement: Reg. 79 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-72806106bb553615cf159ca290caa411]: Commencement: Reg. 79 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Exercise by the Care Quality Commission of powers under section 113A of the 2000 Act[^key-3885049172659d6292eb722fbbb7cae3]
+## 6. Exercise by the Care Quality Commission of powers under section 113A of the 2000 Act[^c-3885049172659d6292eb722fbbb7cae3]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ For the period beginning on 27th March 2009 and ending on 31st March 2009, the C
 
 ## Annotations
 
-[^key-3885049172659d6292eb722fbbb7cae3]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2009/462/article/6) in force at 27.3.2009, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2009/462/article/1/1/a)
+[^c-3885049172659d6292eb722fbbb7cae3]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2009/462/article/6) in force at 27.3.2009, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2009/462/article/1/1/a)
 
 [^f00007]: Footnote: Section 113A was inserted by the Health and Social Care (Community Health and Standards) Act [2003 (c.43)](https://www.legislation.gov.uk/ukpga/2003/43), section 105(2) and amended by the Education and Inspections Act [2006 (c.40)](https://www.legislation.gov.uk/ukpga/2006/40), Schedule 14, paragraph 53.

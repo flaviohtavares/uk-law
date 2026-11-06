@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 181. Compensation where listed building consent revoked or modified[^key-46e6ec7168fb5e756b8490e75765bafb][^key-bf84762d7115946b7b6d13ab490b87ae][^key-05c211b654211878258cda40841f5664][^key-f652b66bd1af93cf554553a0e80a04bc]
+## 181. Compensation where listed building consent revoked or modified[^c-46e6ec7168fb5e756b8490e75765bafb][^c-bf84762d7115946b7b6d13ab490b87ae][^c-05c211b654211878258cda40841f5664][^c-f652b66bd1af93cf554553a0e80a04bc]
 
 *Extent: N.I.*
 
@@ -40,10 +40,10 @@ the council must pay to that person compensation in respect of that expenditure,
 
 ## Annotations
 
-[^key-46e6ec7168fb5e756b8490e75765bafb]: Commencement: S. 181 in operation at 13.2.2015 for specified purposes by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1)
+[^c-46e6ec7168fb5e756b8490e75765bafb]: Commencement: S. 181 in operation at 13.2.2015 for specified purposes by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1)
 
-[^key-bf84762d7115946b7b6d13ab490b87ae]: Commencement: S. 181 in operation at 1.4.2015 in so far as not already in operation by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by [S.R. 2016/159](https://www.legislation.gov.uk/nisr/2016/159), art. 2)
+[^c-bf84762d7115946b7b6d13ab490b87ae]: Commencement: S. 181 in operation at 1.4.2015 in so far as not already in operation by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by [S.R. 2016/159](https://www.legislation.gov.uk/nisr/2016/159), art. 2)
 
-[^key-05c211b654211878258cda40841f5664]: Modification: Ss. 181-186 applied with modification(s) (1.4.2015) by [The Planning (Conservation Areas) (Demolition) Regulations (Northern Ireland) 2015 (S.R. 2015/107)](https://www.legislation.gov.uk/nisr/2015/107), [regs. 1](https://www.legislation.gov.uk/nisr/2015/107/regulation/1), [11](https://www.legislation.gov.uk/nisr/2015/107/regulation/11)
+[^c-05c211b654211878258cda40841f5664]: Modification: Ss. 181-186 applied with modification(s) (1.4.2015) by [The Planning (Conservation Areas) (Demolition) Regulations (Northern Ireland) 2015 (S.R. 2015/107)](https://www.legislation.gov.uk/nisr/2015/107), [regs. 1](https://www.legislation.gov.uk/nisr/2015/107/regulation/1), [11](https://www.legislation.gov.uk/nisr/2015/107/regulation/11)
 
-[^key-f652b66bd1af93cf554553a0e80a04bc]: Modification: S. 181 applied with modification(s) (1.4.2015) by [The Planning (Conservation Areas) (Demolition) Regulations (Northern Ireland) 2015 (S.R. 2015/107)](https://www.legislation.gov.uk/nisr/2015/107), [regs. 1](https://www.legislation.gov.uk/nisr/2015/107/regulation/1), [15](https://www.legislation.gov.uk/nisr/2015/107/regulation/15), [Sch. 2](https://www.legislation.gov.uk/nisr/2015/107/schedule/2)
+[^c-f652b66bd1af93cf554553a0e80a04bc]: Modification: S. 181 applied with modification(s) (1.4.2015) by [The Planning (Conservation Areas) (Demolition) Regulations (Northern Ireland) 2015 (S.R. 2015/107)](https://www.legislation.gov.uk/nisr/2015/107), [regs. 1](https://www.legislation.gov.uk/nisr/2015/107/regulation/1), [15](https://www.legislation.gov.uk/nisr/2015/107/regulation/15), [Sch. 2](https://www.legislation.gov.uk/nisr/2015/107/schedule/2)

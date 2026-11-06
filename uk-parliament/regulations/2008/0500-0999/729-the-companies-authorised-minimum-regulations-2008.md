@@ -62,7 +62,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 - “relevant day” is to be interpreted in accordance with regulation 4(5) and (6); and
 - “**working day**” means a day which is not a Saturday or Sunday, Christmas Day, Good Friday or any day that is a bank holiday under the Banking and Financial Dealings Act 1971 [^c19168621] in England and Wales.
 
-## 2. Authorised minimum in euros[^key-a975f3ed071939953183d1b86cc810d5]
+## 2. Authorised minimum in euros[^c-a975f3ed071939953183d1b86cc810d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -103,8 +103,8 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 (3) The certified spot rate is the middle spot exchange rate prevailing on the foreign exchange market at 4pm on the relevant day and stated in a certificate obtained by the company from—
 
-- (a) a person, nominated by the company, who under Part 4 of the Financial Services and Markets Act 2000 [^c19168641] has permission to accept deposits; [^key-b0489a95158b6ad9e81d4c6cee3c67f5]...
-- (b)[^key-b0489a95158b6ad9e81d4c6cee3c67f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) a person, nominated by the company, who under Part 4 of the Financial Services and Markets Act 2000 [^c19168641] has permission to accept deposits; [^c-b0489a95158b6ad9e81d4c6cee3c67f5]...
+- (b)[^c-b0489a95158b6ad9e81d4c6cee3c67f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The circumstances in this paragraph exist where—
 
@@ -225,11 +225,11 @@ An impact assessment in respect of these Regulations has been produced and copie
 
 [^c19168621]: Marginal citation: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-a975f3ed071939953183d1b86cc810d5]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2008/729/regulation/2) revoked (1.10.2009) by [The Companies (Authorised Minimum) Regulations 2009 (S.I. 2009/2425)](https://www.legislation.gov.uk/uksi/2009/2425), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2425/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2009/2425/regulation/8) (with [reg. 9](https://www.legislation.gov.uk/uksi/2009/2425/regulation/9))
+[^c-a975f3ed071939953183d1b86cc810d5]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2008/729/regulation/2) revoked (1.10.2009) by [The Companies (Authorised Minimum) Regulations 2009 (S.I. 2009/2425)](https://www.legislation.gov.uk/uksi/2009/2425), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2425/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2009/2425/regulation/8) (with [reg. 9](https://www.legislation.gov.uk/uksi/2009/2425/regulation/9))
 
 [^c19168641]: Marginal citation: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8).
 
-[^key-b0489a95158b6ad9e81d4c6cee3c67f5]: Textual amendment: [Reg. 4(3)(b)](https://www.legislation.gov.uk/uksi/2008/729/regulation/4/3/b) and word omitted (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 54](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/54) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b0489a95158b6ad9e81d4c6cee3c67f5]: Textual amendment: [Reg. 4(3)(b)](https://www.legislation.gov.uk/uksi/2008/729/regulation/4/3/b) and word omitted (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 54](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/54) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c19168651]: Marginal citation: [Section 146(1)(aa)](https://www.legislation.gov.uk/uksi/2008/729/section/146/1/aa) was inserted by the Building Societies Act 1986, section 102C(5). Section 102C(5) of that Act was inserted by the Building Societies (Distributions) Act 1997, section 1(1).
 

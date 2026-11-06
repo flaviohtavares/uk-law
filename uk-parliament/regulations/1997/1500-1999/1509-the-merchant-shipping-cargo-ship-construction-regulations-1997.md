@@ -44,11 +44,11 @@ Coming into force
 
 11th July 1997
 
-The Secretary of State for Transport after consulting the persons referred to in section 86(4) of the Merchant Shipping Act 1995[^f00001], in exercise of the powers conferred by section 85(1)(a) and (b), (3) and (5) to (7) and section 86(1) of that Act, and of all other powers enabling him in that behalf, hereby makes the following Regulations:[^key-6a68e5f5b7523660b7ef0394e3eae5f2][^key-5d365f19ab0151588aa8347125bb913f][^key-161ede9caadc1c8d2e50f24749303404]
+The Secretary of State for Transport after consulting the persons referred to in section 86(4) of the Merchant Shipping Act 1995[^f00001], in exercise of the powers conferred by section 85(1)(a) and (b), (3) and (5) to (7) and section 86(1) of that Act, and of all other powers enabling him in that behalf, hereby makes the following Regulations:[^c-6a68e5f5b7523660b7ef0394e3eae5f2][^c-5d365f19ab0151588aa8347125bb913f][^c-161ede9caadc1c8d2e50f24749303404]
 
 ## PART I — GENERAL
 
-### 1. Citation, commencement and revocation[^key-a7ccda1efb54c8caa17118ac5d86c612]
+### 1. Citation, commencement and revocation[^c-a7ccda1efb54c8caa17118ac5d86c612]
 
 (1) These Regulations may be cited as the Merchant Shipping (Cargo Ship Construction) Regulations 1997 and shall come into force on 11th July 1997.
 
@@ -62,7 +62,7 @@ The Secretary of State for Transport after consulting the persons referred to in
 - The Merchant Shipping (Cargo Ship Construction and Survey) Regulations 1984 (Amendment) Regulations 1986[^f00007];
 - The Merchant Shipping (Cargo Ship Construction and Survey) Regulations 1984 (Amendment) Regulations 1992[^f00008].
 
-### 2. Interpretation[^key-d616126b917c1974ca0e56c893378d70]
+### 2. Interpretation[^c-d616126b917c1974ca0e56c893378d70]
 
 (1) In these Regulations—
 
@@ -82,8 +82,8 @@ The Secretary of State for Transport after consulting the persons referred to in
 - “dangerous goods” means goods defined as such in the Merchant Shipping (Dangerous Goods and Marine Pollutants) Regulations 1990[^f00009];
 - “dead ship condition” means that condition under which the main propulsion plant, boilers and auxiliaries are not in operation due to the absence of power;
 - “deadweight” means the difference in tonnes between the displacement of a ship at the summer load waterline in water of a specific gravity of 1.025 and the lightweight of the ship;
-- [^key-78a8fbe4755d2a3f220783be02730c7a]...
-- “[^key-5d2b0268e3d498500217a31fbdb1f213]**EEA State**” has the meaning given by Schedule 1 to the Interpretation Act 1978;
+- [^c-78a8fbe4755d2a3f220783be02730c7a]...
+- “[^c-5d2b0268e3d498500217a31fbdb1f213]**EEA State**” has the meaning given by Schedule 1 to the Interpretation Act 1978;
 - “emergency condition” means a condition under which any services needed for normal operational and habitable conditions are not in working order due to failure of the main source of electrical power;
 - “emergency source of electrical power” means a source of electrical power intended to supply the emergency switchboard in the event of failure of the supply from the main source of electrical power;
 - “emergency switchboard” means a switchboard which in the event of failure of the main electrical power supply system is directly supplied by the emergency source of electrical power or the transitional source of emergency power and is intended to distribute electrical energy to the emergency services;
@@ -135,7 +135,7 @@ The Secretary of State for Transport after consulting the persons referred to in
   - (b) any vessel wholly owned by or on behalf of a members’ club formed for the purpose of sport or pleasure which, at the time it is being used, is used only for the sport or pleasure of members of that club or their immediate family; and for the use of which any charges levied are paid into club funds and applied for the general use of the club; and
   - (c) in the case of any vessel referred to in paragraphs (a) or (b) above no other payments are made by or on behalf of users of the vessel, other than by the owner.
 
-  In this definition “immediate family” means in relation to an individual, the spouse or civil partner[^key-72e3b5844ac928f584a9950179093883] of the individual, and a relative of the individual or the individual’s spouse or civil partner, and “relative” means brother, sister, ancestor or lineal descendant;
+  In this definition “immediate family” means in relation to an individual, the spouse or civil partner[^c-72e3b5844ac928f584a9950179093883] of the individual, and a relative of the individual or the individual’s spouse or civil partner, and “relative” means brother, sister, ancestor or lineal descendant;
 - “power actuating system” means the hydraulic equipment provided for supplying power to turn the rudder stock, comprising a steering gear power unit or units, together with the associated pipes and fittings, and a rudder actuator. The power actuating systems may share common mechanical components, that is, tiller, quadrant and rudder stock or components serving the same purpose;
 - “Reid vapour pressure” means the vapour pressure of a liquid as determined by laboratory testing in a standard manner in the Reid apparatus;
 - “a similar stage of construction” means a stage at which—
@@ -175,7 +175,7 @@ The Secretary of State for Transport after consulting the persons referred to in
 shall include—
 
 - (i) a reference to any document amending it which is considered by the Secretary of State to be relevant from time to time and is specified in a Merchant Shipping Notice; and
-- (ii) as respects a reference to a British Standard, a reference to a relevant standard of an EEA State [^key-c3ff65b9f874957cf2415ec14bdff7be]....
+- (ii) as respects a reference to a British Standard, a reference to a relevant standard of an EEA State [^c-c3ff65b9f874957cf2415ec14bdff7be]....
 
 (3)
 
@@ -187,13 +187,13 @@ shall include—
 
 (4) Any approval given pursuant to these Regulations shall be given in writing and shall specify the date when it is to come into force and the conditions (if any) of which it is given.
 
-### 3. Exemptions[^key-2b153252d7460bd8ff7023f30b367b07]
+### 3. Exemptions[^c-2b153252d7460bd8ff7023f30b367b07]
 
 (1) The Secretary of State may grant exemptions from all or any of the provisions of these Regulations (as may be specified in the exemption) for classes of cases or individual cases on such terms (if any) as he may so specify and may, subject to giving reasonable notice, alter or cancel any such exemption. In particular, the Secretary of State may, either absolutely or subject to such conditions as he thinks fit, exempt any ship the keel of which was laid before the coming into force of individual regulations, from those requirements if he is satisfied that compliance with those requirements are either impractical or unreasonable in the case of that ship.
 
 (2) Every ship the keel of which was laid before 26th May 1965 shall be exempt from the requirements of these Regulations, except regulation 54 and paragraphs 9, 10, 11 and 12 of Schedule 4 in Merchant Shipping Notice MSN 1671 on condition that it complies with all the requirements of the Merchant Shipping (Cargo Ship Construction and Survey) Regulations 1981 which would have applied to it if those Regulations had not been revoked.
 
-### 4. Application[^key-2b8dfb5229c97218cc31d9c5859d3746]
+### 4. Application[^c-2b8dfb5229c97218cc31d9c5859d3746]
 
 (1) Subject to paragraph (2), these Regulations apply to—
 
@@ -228,13 +228,13 @@ those persons are not to be taken into account for the purpose of determining th
 - (a) a port in the United Kingdom and a port outside the United Kingdom; or
 - (b) a port in a country other than the United Kingdom and a port in any other country or territory which is outside the United Kingdom.
 
-### 5. Approved standards[^key-3b0a4acf8afdb104ea9f5167ba6b992b]
+### 5. Approved standards[^c-3b0a4acf8afdb104ea9f5167ba6b992b]
 
 In complying with the requirements of these Regulations, as respects construction or maintenance relating to hull, machinery, electrical installations and control installations, United Kingdom ships shall comply with the approved standards listed in Merchant Shipping Notice No. M.1672 relevant to those statutory obligations.
 
 ## PART II — CONSTRUCTION—ALL SHIPS
 
-### 6. Structural strength[^key-768e0aa51f2d923cc27fc0ad94de3a44]
+### 6. Structural strength[^c-768e0aa51f2d923cc27fc0ad94de3a44]
 
 (1) The structural strength of every ship and the number and disposition of transverse watertight bulkheads shall be adequate for the service for which the ship is intended.
 
@@ -242,7 +242,7 @@ Additional requirements for ships constructed on or after 1st September 1984
 
 (2) The hull, superstructure, structural bulkheads, deck and deckhouses shall be constructed of steel or other equivalent material except that the crowns and casings of machinery spaces of Category A shall be constructed only of steel.
 
-### 7. Peak and machinery space bulkheads and stern tubes Requirements for ships constructed on or after 1st September 1984[^key-626b7852a1863bf52abea04baa112b8a]
+### 7. Peak and machinery space bulkheads and stern tubes Requirements for ships constructed on or after 1st September 1984[^c-626b7852a1863bf52abea04baa112b8a]
 
 (1) Every ship shall be fitted with a collision bulkhead which shall be watertight up to the freeboard deck. This bulkhead shall be located at a distance from the forward perpendicular of not less than 5 per cent of the length of the ship or 10 metres, whichever is the least and, except as may be permitted by the Certifying Authority, not more than 8 per cent of the length of the ship.
 
@@ -254,7 +254,7 @@ Additional requirements for ships constructed on or after 1st September 1984
 
 whichever is the aftermost position.
 
-(3) The collision bulkhead may have steps or recesses in it provided that they are within the limits prescribed in paragraphs (1) and (2). Subject to the requirements in regulation 13 of Chapter XII in the Annex to the International Convention for the Safety of Life at Sea, 1974 (availability of pumping systems)[^key-84f289da94691e455eafebf660d77b4a][^key-016f148b83ada98c34e054103a11278b], pipes piercing the collision bulkhead shall be fitted with suitable valves operable from above the freeboard deck and the valve chest shall be secured at the bulkhead inside the forepeak. The Certifying Authority may permit the location of such valves on the after side of the collision bulkhead provided that they are readily accessible under all service conditions and the space in which they are located is not a cargo space. All such valves shall be of steel, bronze or other ductile material; valves of ordinary cast iron or similar material shall not be fitted. Doors, manholes, ventilation ducts or any other openings shall not be fitted in the collision bulkhead.
+(3) The collision bulkhead may have steps or recesses in it provided that they are within the limits prescribed in paragraphs (1) and (2). Subject to the requirements in regulation 13 of Chapter XII in the Annex to the International Convention for the Safety of Life at Sea, 1974 (availability of pumping systems)[^c-84f289da94691e455eafebf660d77b4a][^c-016f148b83ada98c34e054103a11278b], pipes piercing the collision bulkhead shall be fitted with suitable valves operable from above the freeboard deck and the valve chest shall be secured at the bulkhead inside the forepeak. The Certifying Authority may permit the location of such valves on the after side of the collision bulkhead provided that they are readily accessible under all service conditions and the space in which they are located is not a cargo space. All such valves shall be of steel, bronze or other ductile material; valves of ordinary cast iron or similar material shall not be fitted. Doors, manholes, ventilation ducts or any other openings shall not be fitted in the collision bulkhead.
 
 (4) In every ship provided with a long forward superstructure the collision bulkhead shall be extended weathertight to the deck immediately above the freeboard deck. The extension shall, subject to the requirements of paragraph (5), be located within the limits prescribed in paragraphs (1) and (2). The part of the deck, if any, between the collision bulkhead and its extension shall be weathertight.
 
@@ -268,7 +268,7 @@ Additional requirements for ships constructed on or after 1st February 1992
 
 (8) In every ship, stern tubes shall be enclosed in a watertight space (or spaces) of moderate volume. Other measures may be taken to minimise the danger of water penetrating into the ship in case of damage to stern tube arrangements, subject to the approval of the Certifying Authority.
 
-### 8. Construction and testing of watertight bulkheads, decks and inner bottoms Requirements for ships constructed on or after 1st September 1984[^key-f22cd5a13257204fc119d481cc05eebb]
+### 8. Construction and testing of watertight bulkheads, decks and inner bottoms Requirements for ships constructed on or after 1st September 1984[^c-f22cd5a13257204fc119d481cc05eebb]
 
 (1) In every ship each transverse and longitudinal watertight subdivision bulkhead shall be constructed in such a manner that it shall be capable of supporting the pressure due to the maximum head of water which it might have to sustain in the event of damage to the ship. The head of water shall be at least up to the freeboard deck.
 
@@ -284,13 +284,13 @@ Additional requirements for ships constructed on or after 1st February 1992
 
 (7) The tests prescribed in this regulation shall not necessarily be regarded as a test of fitness of any compartment for the storage of oil fuel or for other special purposes for which a test of a superior character may be appropriate.
 
-### 9. Construction and testing of watertight decks, trunks, tunnels, duct keels and ventilators Requirements for ships constructed on or after 1st September 1984[^key-5527924dd53fd8b0429350e72c0ffe24]
+### 9. Construction and testing of watertight decks, trunks, tunnels, duct keels and ventilators Requirements for ships constructed on or after 1st September 1984[^c-5527924dd53fd8b0429350e72c0ffe24]
 
 (1) In every ship the watertight decks, trunks, tunnels, duct keels and ventilators shall be of the same strength as the watertight bulkheads at corresponding levels. The means for making them watertight and the arrangements for closing openings in them shall be to the satisfaction of the Certifying Authority. Watertight ventilators and trunks shall be watertight at least up to the freeboard deck.
 
 (2) Watertight decks shall be subjected to a hose or flooding test after completion. Watertight trunks, tunnels and ventilators shall be subject to a hose test on completion. Alternatively they may be tested by other means acceptable to the Certifying Authority.
 
-### 10. Watertight doors[^key-f5ef2591c55637c0641868086793e84b]
+### 10. Watertight doors[^c-f5ef2591c55637c0641868086793e84b]
 
 (1) Except for ships subject to Part III, every watertight door required to maintain the watertight integrity of a bulkhead, shall be made of suitable material and shall be efficiently constructed for its intended duty.
 
@@ -305,15 +305,15 @@ Additional requirements for ships constructed on or after 1st February 1992
 
 (5) Watertight doors shall be capable of being operated when the ship is listed up to 15 degrees either way.
 
-### 11. Tests of watertight doors Requirements for ships constructed on or after 1st September 1984[^key-c8d72ed8960c848a94026efbb95de9f9]
+### 11. Tests of watertight doors Requirements for ships constructed on or after 1st September 1984[^c-c8d72ed8960c848a94026efbb95de9f9]
 
 Each watertight door shall be tested by water pressure equivalent to the head up to the freeboard deck. The test shall be made before the ship is put into service, either before or after the door is fitted.
 
-### 12. Ballast and bilge pumping and drainage arrangements[^key-a32e86d50b117cb2ea1bc4c56930889b]
+### 12. Ballast and bilge pumping and drainage arrangements[^c-a32e86d50b117cb2ea1bc4c56930889b]
 
 Every ship shall be provided with efficient bilge pumping plant and means of drainage in accordance with the provisions of Schedule 1 in Merchant Shipping Notice MSN 1671.
 
-### 12A. Openings in the shell plating below the freeboard deck Requirements for ships constructed on or after 1st July 1998[^key-3028f349f0cdb113ce33d507443885d5]
+### 12A. Openings in the shell plating below the freeboard deck Requirements for ships constructed on or after 1st July 1998[^c-3028f349f0cdb113ce33d507443885d5]
 
 (1) The number of sidescuttles, scuppers, sanitary discharges and other openings in the shell plating below the freeboard deck shall be the minimum which is compatible with the design and proper working of the ship.
 
@@ -321,9 +321,9 @@ Every ship shall be provided with efficient bilge pumping plant and means of dra
 
 (3) The design and arrangements of openings in the shell plating below the freeboard deck shall be in accordance with the specifications set out in Schedule 14 in Merchant Shipping Notice MSN 1671 (M) (Amended).
 
-## PART III — STABILITY OF SHIPS OF 80 METRES OR OVER[^key-442b92510f47fe84b61569d96cbc1621]
+## PART III — STABILITY OF SHIPS OF 80 METRES OR OVER[^c-442b92510f47fe84b61569d96cbc1621]
 
-### 13. Interpretation[^key-5abc1fca70192118e7f5111c42f7eb52]
+### 13. Interpretation[^c-5abc1fca70192118e7f5111c42f7eb52]
 
 In this Part—
 
@@ -333,9 +333,9 @@ In this Part—
 - and
 - “deepest subdivision load line” means the subdivision load line which corresponds to the draught corresponding to the summer load line assigned to the ship under the Merchant Shipping (Load Lines) Rules 1968.
 
-### 14. Application[^key-2da4641a9c6a23df69a9a36edc804b0a]
+### 14. Application[^c-2da4641a9c6a23df69a9a36edc804b0a]
 
-This Part applies to every ship of 100 metres or over in sub-division length constructed on or after 1st February 1992 and to every ship of 80 metres or over in subdivision length constructed on or after 1st July 1998,[^key-aa65d9d5fdb0fcdf21a863e3754af6ae], except any ship which complies with—
+This Part applies to every ship of 100 metres or over in sub-division length constructed on or after 1st February 1992 and to every ship of 80 metres or over in subdivision length constructed on or after 1st July 1998,[^c-aa65d9d5fdb0fcdf21a863e3754af6ae], except any ship which complies with—
 
 - (a) regulation 25 of Annex 1 of MARPOL;
 - (b) the International Code for the Construction and Equipment of Ships Carrying Dangerous Chemicals in Bulk;
@@ -343,19 +343,19 @@ This Part applies to every ship of 100 metres or over in sub-division length con
 - (d) the Code for the Construction and Equipment of Ships Carrying Dangerous Chemicals in Bulk;
 - (e) the Code for the Construction and Equipment of Ships Carrying Liquefied Gases in Bulk;
 - (f) the Guidelines for the Design and Construction of Offshore Supply Vessels;
-- (g) the Code for the Safety of Special Purpose Ships; or[^key-a5a63610d1f300b1f3bfe75ba41c0342]
-- (h) both with the damage stability requirements of regulation 27 of the International Load Line Convention 1966 as modified by IMO Resolutions A.320(IX) and 514(13) and, in the case of ships to which paragraph (9) of that regulation applies, with paragraph (12)(f) of Resolution A.320(IX); [^key-a673ddc706f0884593cb9bb38016a973]...
-- (i)[^key-e7289b2d664b00236cc018f2a4d60371] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g) the Code for the Safety of Special Purpose Ships; or[^c-a5a63610d1f300b1f3bfe75ba41c0342]
+- (h) both with the damage stability requirements of regulation 27 of the International Load Line Convention 1966 as modified by IMO Resolutions A.320(IX) and 514(13) and, in the case of ships to which paragraph (9) of that regulation applies, with paragraph (12)(f) of Resolution A.320(IX); [^c-a673ddc706f0884593cb9bb38016a973]...
+- (i)[^c-e7289b2d664b00236cc018f2a4d60371] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Subdivision indices[^key-59e1ac1a2b2d5ce81ed43f729ee6e4f6]
+### 15. Subdivision indices[^c-59e1ac1a2b2d5ce81ed43f729ee6e4f6]
 
 (1) The attained subdivision index of every ship shall not be less than the required subdivision index of that ship.
 
-(2) The attained subdivision index of a ship is the value “A” calculated in respect of that ship in accordance with the formula specified in paragraph 3 of Annex I in Merchant Shipping Notice No. M.1715 (M)[^key-2f08c9ec14455828883f8010c6739f93] and the required subdivision index for a ship is the value “R” calculated in respect of that ship in accordance with the formula specified in paragraph 2 of Annex I to that Notice.
+(2) The attained subdivision index of a ship is the value “A” calculated in respect of that ship in accordance with the formula specified in paragraph 3 of Annex I in Merchant Shipping Notice No. M.1715 (M)[^c-2f08c9ec14455828883f8010c6739f93] and the required subdivision index for a ship is the value “R” calculated in respect of that ship in accordance with the formula specified in paragraph 2 of Annex I to that Notice.
 
 (3) In calculating “A” and “R” account shall be taken of the explanatory notes set out in Annex II to that Merchant Shipping Notice.
 
-### 16. Stability information[^key-ce1e4cdc3ad7eaed8fb7852e882c5ead]
+### 16. Stability information[^c-ce1e4cdc3ad7eaed8fb7852e882c5ead]
 
 (1) The master of every ship shall be supplied with such reliable information as is necessary to enable him by rapid and simple means to determine the stability of the ship under varying conditions of service.
 
@@ -368,7 +368,7 @@ This Part applies to every ship of 100 metres or over in sub-division length con
 - (b) instructions concerning the operation of cross-flooding arrangements; and
 - (c) all other data and means of presentation necessary to assist the crew to maintain stability after damage.
 
-(3) Where the curve provided or presented in compliance with paragraph (2)(a) is based wholly or in part on the attained subdivision index of the ship the operational GM(KG) values shall be applied in the manner and to the extent specified in paragraph 7 of Annex I in Merchant Shipping Notice No. M.1715 (M)[^key-cd1405a7416d4d4b6caa43d806d070b8].
+(3) Where the curve provided or presented in compliance with paragraph (2)(a) is based wholly or in part on the attained subdivision index of the ship the operational GM(KG) values shall be applied in the manner and to the extent specified in paragraph 7 of Annex I in Merchant Shipping Notice No. M.1715 (M)[^c-cd1405a7416d4d4b6caa43d806d070b8].
 
 (4)
 
@@ -377,7 +377,7 @@ This Part applies to every ship of 100 metres or over in sub-division length con
 
 (5) There shall be permanently exhibited or readily available on the navigating bridge for the guidance of the officer in charge of the ship, plans showing clearly for each deck and hold the boundaries of the watertight compartments, the openings therein, the means of closure and position of any controls thereof, and the arrangements for the correction of any list due to flooding. In addition, booklets containing this information shall be made available by the owners for the use of the officers of the ship.
 
-### 17. Openings in watertight bulkheads and internal decks[^key-8f3ee66312ac2c1265147aa261e780fe]
+### 17. Openings in watertight bulkheads and internal decks[^c-8f3ee66312ac2c1265147aa261e780fe]
 
 (1) The number of openings in the boundaries of watertight compartments shall be the minimum compatible with the design and proper working of the ship. Where penetration of watertight bulkheads and internal decks is necessary for access, piping, ventilation, electrical cables, or for any other purpose, arrangements shall be made to maintain watertight integrity at each such point of penetration. The Certifying Authority may permit openings in compartment boundaries above the freeboard deck to be weathertight rather than watertight where it is demonstrated that any progressive flooding resulting therefrom can be easily controlled and the safety of the ship would not be impaired.
 
@@ -389,7 +389,7 @@ This Part applies to every ship of 100 metres or over in sub-division length con
 
 (5) Every closing appliance which is required to be kept permanently closed at sea to ensure the watertight integrity of a compartment shall be provided with a notice affixed to it stating that it is to be kept closed, except that manholes secured by closely bolted covers need not be so marked.
 
-### 18. External openings[^key-91f3ff376f86836fe132121d2ca43853]
+### 18. External openings[^c-91f3ff376f86836fe132121d2ca43853]
 
 (1) All external openings which lead to compartments assumed intact for the purposes of calculating the subdivision index “A”, and which are below the final waterlines, shall be watertight.
 
@@ -403,7 +403,7 @@ This Part applies to every ship of 100 metres or over in sub-division length con
 
 ## PART IV — DOUBLE BOTTOMS IN SHIPS OTHER THAN TANKERS
 
-### 19. Requirements for ships (other than tankers) constructed on or after 1st February 1992[^key-6b321c97ae78eb222f3767cc7a57866d]
+### 19. Requirements for ships (other than tankers) constructed on or after 1st February 1992[^c-6b321c97ae78eb222f3767cc7a57866d]
 
 (1) A double bottom shall be fitted extending from the collision bulkhead to the after peak bulkhead, so far as this is practicable and compatible with the design and proper working of the ship.
 
@@ -415,7 +415,7 @@ This Part applies to every ship of 100 metres or over in sub-division length con
 
 ## PART V — DAMAGE CONTROL IN DRY CARGO SHIPS
 
-### 20. Requirements for dry cargo ships constructed on or after 1st February 1992[^key-1de7ab725ed731b50650d1d9f503ee97]
+### 20. Requirements for dry cargo ships constructed on or after 1st February 1992[^c-1de7ab725ed731b50650d1d9f503ee97]
 
 (1) There shall be permanently exhibited or readily available on the navigating bridge, for the guidance of the officer in charge of the ship, a plan showing clearly for each deck and hold, the boundaries of the watertight compartments, the openings therein with the means of closure and position of any controls thereof, and the arrangements for the correction of any list due to flooding. In addition, booklets containing this information shall be made available to the officers of the ship.
 
@@ -427,7 +427,7 @@ This Part applies to every ship of 100 metres or over in sub-division length con
 
 ## PART VI — CONSTRUCTION—TANKERS
 
-### 21. General[^key-258ac4e19b1943135e1faa6114b76db2]
+### 21. General[^c-258ac4e19b1943135e1faa6114b76db2]
 
 (1) This Part applies to United Kingdom and other tankers the keels of which were laid, or were at a similar stage of construction, on or after 25th May 1980; and to United Kingdom and other tankers converted into or adapted to be tankers on or after 25th May 1980.
 
@@ -437,9 +437,9 @@ This Part applies to every ship of 100 metres or over in sub-division length con
 
 (4) The hull, superstructures, structural bulkheads, decks and deckhouses shall be constructed of steel or other equivalent material except that the crowns and casings of machinery spaces of Category A and the exterior boundaries of superstructures and deckhouses which are required to be insulated to “A-60” standard shall be constructed only of steel.
 
-### 22. Location and separation of spaces[^key-ddbc9731789f173d31457137e368a729][^key-ad986014b150ae853d8b823c9fb7c0c9]
+### 22. Location and separation of spaces[^c-ddbc9731789f173d31457137e368a729][^c-ad986014b150ae853d8b823c9fb7c0c9]
 
-(1)[^key-018b074ae809542afd3ac0a423707f89]
+(1)[^c-018b074ae809542afd3ac0a423707f89]
 
 - (a) Machinery spaces shall be positioned:
   - (i) aft of cargo tanks and slop tanks and shall be separated from them by a cofferdam, cargo pump-room, oil fuel bunker tank or permanent ballast tank; and
@@ -470,20 +470,20 @@ Additional requirements for ships constructed on or after 1st September 1984
 
 (12) Cargo oil pipes installed below deck on combination carriers shall be located within wing cargo tanks except that when cargo wing tanks are not provided the Certifying Authority may permit the installation of such pipes in ducts which shall be capable of being adequately cleaned and ventilated.
 
-Additional requirements for ships constructed on or after 1st July 1998[^key-b689a8bd567feb25fe9042735933a6f5]
+Additional requirements for ships constructed on or after 1st July 1998[^c-b689a8bd567feb25fe9042735933a6f5]
 
 (13)
 
 - (a) Where there is permanent access from a pipe tunnel to the main pump-room, a watertight door shall be fitted complying with the requirements of regulation 17(2) and, in addition to bridge operation, the watertight door shall be capable of being manually closed from outside the main pump-room entrance.
 - (b) The watertight door referred to in subparagraph (a) above shall be kept closed during normal operations of the ship except when access to the pipe tunnel is required.
 
-### 23. Cargo tank ventilation Requirements for tankers constructed on or after 1st September 1984[^key-caf01944e9bfff3822f2d3778bb81f8b]
+### 23. Cargo tank ventilation Requirements for tankers constructed on or after 1st September 1984[^c-caf01944e9bfff3822f2d3778bb81f8b]
 
 (1) The cargo tank venting systems shall be independent of the ventilation arrangements for any other compartments. The arrangement and position of the openings in the cargo tank deck from which the emission of flammable vapours can occur shall be such as to minimise the possibility of flammable vapours being admitted into enclosed spaces containing a source of ignition or collecting in the vicinity of machinery and equipment which may constitute an ignition hazard.
 
 (2) The cargo tank venting arrangements shall be in accordance with the provisions of Schedule 2 in Merchant Shipping Notice MSN 1671.
 
-### 24. Ventilation of pump rooms and other enclosed spaces Requirements for tankers constructed on or after 25th May 1980[^key-0b33bc9199df567a1ea2ad0b24b6bce8]
+### 24. Ventilation of pump rooms and other enclosed spaces Requirements for tankers constructed on or after 25th May 1980[^c-0b33bc9199df567a1ea2ad0b24b6bce8]
 
 (1) Cargo pump rooms and pump rooms having a similar hazard shall be mechanically ventilated and discharges from the exhaust fans shall be led to a safe place on the open deck. The ventilation of these rooms shall have sufficient capacity to minimize the possibility of accumulation of flammable vapours. The number of changes of air shall be at least 20 per hour, based upon the gross volume of the space. The air ducts shall be arranged so that all of the space is effectively ventilated. The ventilation system shall be of the exhaust type, using fans of the non-sparking type.
 
@@ -493,7 +493,7 @@ Additional requirements for tankers constructed on or after 1st September 1984
 
 (3) The cargo spaces and their adjacent enclosed spaces in combination carriers shall be capable of being ventilated by permanently installed or portable fans. A fixed gas detection system shall be provided in cargo pump rooms, pipe ducts and the cofferdams adjacent to slop tanks. Arrangements shall be provided to detect the presence of flammable vapours in all other spaces within the cargo tank area from the open deck or other easily accessible positions.
 
-### 25. Inerting, ventilation and gas measurement Requirements for tankers constructed on or after 1st October 1994[^key-1bf7ef828eca4196816ea0139fafd0c3]
+### 25. Inerting, ventilation and gas measurement Requirements for tankers constructed on or after 1st October 1994[^c-1bf7ef828eca4196816ea0139fafd0c3]
 
 (1) Double hull and double bottom spaces shall be fitted with suitable connections for the supply of air.
 
@@ -509,7 +509,7 @@ Additional requirements for tankers constructed on or after 1st September 1984
 
 (5) The materials of construction and the dimensions of gas sampling lines shall be such as to prevent restriction. Where plastic materials are used, they shall be electrically conductive.
 
-### 26. Access to spaces in the cargo tank area of oil tankers Requirements for oil tankers constructed on or after 1st October 1994[^key-f23dcbe038b6bb569422c0d89eee424e]
+### 26. Access to spaces in the cargo tank area of oil tankers Requirements for oil tankers constructed on or after 1st October 1994[^c-f23dcbe038b6bb569422c0d89eee424e]
 
 (1) Access to cofferdams, ballast tanks, cargo tanks and other spaces in the cargo area shall be direct from the open deck and be such as to ensure their complete inspection. Access to double bottom spaces may be through a cargo pump-room, deep cofferdam, pipe tunnel or similar compartments, provided adequate ventilation for safety can be ensured.
 
@@ -521,7 +521,7 @@ Additional requirements for tankers constructed on or after 1st September 1984
 
 ## PART VII — MACHINERY INSTALLATION
 
-### 27. General[^key-82cf209030432d3a5c38dac05f72c6db]
+### 27. General[^c-82cf209030432d3a5c38dac05f72c6db]
 
 (1) In every ship the machinery, boilers and other pressure vessels, and associated piping systems and fittings, shall be of a design and construction adequate for the service for which they are intended and shall be so installed and protected as to reduce to a minimum any danger to persons on board, due regard being paid to moving parts, hot surfaces and other hazards. The design shall have regard to the materials used in construction, the purpose for which the equipment is intended, the working conditions to which it will be subjected and the environmental conditions on board.
 
@@ -550,7 +550,7 @@ The Certifying Authority may for the purposes of this paragraph, if it is safe s
 
 (5) Access shall be provided to facilitate the cleaning, inspection and maintenance of main propulsion and auxiliary machinery including boilers and pressure vessels.
 
-(6)[^key-81eb903f43fd6aab03daa79fea309ad5] Non-metallic expansion joints in piping systems, if located in a system which penetrates the ship’s side and both the penetration and the non-metallic expansion joint are located below the deepest load waterline, shall be replaced as necessary, and at an interval recommended by the manufacturer.
+(6)[^c-81eb903f43fd6aab03daa79fea309ad5] Non-metallic expansion joints in piping systems, if located in a system which penetrates the ship’s side and both the penetration and the non-metallic expansion joint are located below the deepest load waterline, shall be replaced as necessary, and at an interval recommended by the manufacturer.
 
 (7) Operating and maintenance instructions and engineering drawings for ship machinery and equipment essential to the safe operation of the ship shall be written in a language understandable by those officers and crew members who are required to understand such information in the performance of their duties.
 
@@ -558,12 +558,12 @@ Additional requirements for ships constructed on or after 1st July 1998
 
 (8) Location and arrangement of vent pipes for fuel oil service, settling and lubrication oil tanks shall be such that in the event of a broken vent pipe this shall not directly lead to the risk of ingress of seawater splashes or rainwater. Two fuel oil service tanks for each type of fuel used on board necessary for propulsion and vital systems or equivalent arrangements shall be provided for each new ship, with a capacity of at least 8 hours at maximum continuous rating of the propulsion plant and normal operating load at sea of the generator plant.
 
-### 28. Machinery[^key-8051195d467875bc163eece127994c23]
+### 28. Machinery[^c-8051195d467875bc163eece127994c23]
 
 (1)
 
-- (a)[^key-c077a936332651a323f366943fe5488d] The main and auxiliary machinery essential for the propulsion and safety of the ship shall be provided with effective means of control and means shall be provided such as starting batteries, compressed air or the emergency generator, to ensure that the machinery can be brought into operation from the dead ship condition without external aid;
-- (b)[^key-ad7cc605404b536917e094499e963ade] In ships constructed on or after 1st July 1998, main and auxiliary machinery essential for the propulsion, control and safety of the ship shall be provided with effective means for its operation and control. All control systems essential for the propulsion, control and safety of the ship shall be independent or designed such that failure of one system does not degrade the performance of another system.
+- (a)[^c-c077a936332651a323f366943fe5488d] The main and auxiliary machinery essential for the propulsion and safety of the ship shall be provided with effective means of control and means shall be provided such as starting batteries, compressed air or the emergency generator, to ensure that the machinery can be brought into operation from the dead ship condition without external aid;
+- (b)[^c-ad7cc605404b536917e094499e963ade] In ships constructed on or after 1st July 1998, main and auxiliary machinery essential for the propulsion, control and safety of the ship shall be provided with effective means for its operation and control. All control systems essential for the propulsion, control and safety of the ship shall be independent or designed such that failure of one system does not degrade the performance of another system.
 
 (2) Where risk from over-speeding of machinery would otherwise exist, two independent means of control shall be provided to ensure that the safe speed is not exceeded; provided that the Certifying Authority may permit a single means of limiting the speed of machinery where it considers it safe so to do.
 
@@ -585,7 +585,7 @@ Additional requirements for ships constructed on or after 1st September 1984
 
 (7) Every main propulsion turbine and, where applicable, main internal combustion propulsion machinery and auxiliary machinery shall be provided with automatic shut-off arrangements that will operate in the case of failures, such as a lubricating oil supply failure, which could lead rapidly to complete breakdown, serious damage or explosion. The Certifying Authority may permit arrangements that over-ride the automatic shut-off devices.
 
-### 29. Means of manoeuvring and going astern[^key-50b47bc327be045b51371da424bde1a0]
+### 29. Means of manoeuvring and going astern[^c-50b47bc327be045b51371da424bde1a0]
 
 (1) Every ship shall have sufficient power for going astern to secure proper control of the ship in all normal circumstances. The ability of the machinery to reverse the direction of thrust of the propeller in sufficient time and so to bring the ship to rest from maximum ahead service speed shall be demonstrated and recorded.
 
@@ -597,7 +597,7 @@ Ships constructed on or after 1st September 1984
 
 (4) The trial records required by paragraphs (1), (2) and (3) shall be available on the ship.
 
-### 30. Boilers and other pressure vessels[^key-d1d545378807c70304a9cd80e958770a]
+### 30. Boilers and other pressure vessels[^c-d1d545378807c70304a9cd80e958770a]
 
 (1) In every ship every boiler or other pressure vessel and its respective mountings shall, before being put into service for the first time, be subjected to a hydraulic test to a pressure suitably in excess of the working pressure which will ensure that the boiler or other pressure vessel and its mountings are adequate in strength and design for the service for which it is intended and having regard to—
 
@@ -621,7 +621,7 @@ Additional requirements for ships constructed on or after 1st September 1984
 
 (7) Means shall be provided to test and control the quality of the water in boilers.
 
-### 31. Boiler feed systems[^key-d793ee982fee7b48d46c1a69eab6b6a0]
+### 31. Boiler feed systems[^c-d793ee982fee7b48d46c1a69eab6b6a0]
 
 (1) Every boiler which provides services essential for the safety of the ship and which would be rendered dangerous by the failure of its feed water supply shall be provided with not less than two efficient and separate feed water systems so arranged that either of such systems may be opened for inspection or overhaul without affecting the efficiency of the other. Means shall be provided which will prevent overpressure in any part of the systems.
 
@@ -633,7 +633,7 @@ Additional requirements for ships constructed on or after 1st September 1984
 
 (4) Means shall be provided to test and control the quality of the feed water to boilers.
 
-### 32. Steam pipe systems[^key-1a854ad46eff430025b1ca94d2fb7339]
+### 32. Steam pipe systems[^c-1a854ad46eff430025b1ca94d2fb7339]
 
 (1) In every ship every steam pipe and every fitting connected thereto through which steam may pass shall be so designed and constructed as to withstand the maximum working stresses to which it may be subjected, with a factor of safety which is adequate having regard to—
 
@@ -650,7 +650,7 @@ Additional requirements for ships constructed on or after 1st September 1984
 
 (6) If a steam pipe is connected to any source at a higher pressure than it can otherwise withstand with an adequate factor of safety, an efficient reducing valve, relief valve and pressure gauge shall be fitted to such pipe.
 
-### 33. Air pressure systems[^key-1033396c87cd13b80d8fdf163b9b21f9]
+### 33. Air pressure systems[^c-1033396c87cd13b80d8fdf163b9b21f9]
 
 (1) In every ship in which machinery essential for the propulsion and safety of the ship or of persons on board is required to be started, operated or controlled solely by compressed air, there shall be provided an efficient air system which shall include a sufficient number of air compressors and compressed air storage vessels to ensure that an adequate supply of compressed air is available under all conditions likely to be met in service.
 
@@ -662,11 +662,11 @@ Additional requirements for ships constructed on or after 1st September 1984
 
 (5) All discharge pipes from starting air compressors shall lead directly to the starting air receivers, and all starting air pipes from the air receivers to main or auxiliary engines shall be entirely separate from the compressor discharge pipe system.
 
-### 34. Cooling water systems[^key-af48da03a2018c0792139ff2441f0ed2]
+### 34. Cooling water systems[^c-af48da03a2018c0792139ff2441f0ed2]
 
 In every ship in which cooling water services are essential for the running of the propelling machinery there shall be at least two means of operating such water services.
 
-### 35. Oil and gaseous fuel installations[^key-0f72587c1e5ab1dfc314c5518e6bbe31]
+### 35. Oil and gaseous fuel installations[^c-0f72587c1e5ab1dfc314c5518e6bbe31]
 
 (1) In every ship oil fuel provided for use in boilers or machinery shall have a flash point of not less than 60°C (closed cup test): provided that the Marine Safety Agency may, subject to such conditions as it may impose—
 
@@ -678,34 +678,34 @@ In every ship in which cooling water services are essential for the running of t
 
 (2) In every ship in which oil or gaseous fuel is used, the arrangement for storage, distribution and utilisation of fuel shall comply at least with the provisions of Schedule 4 in Merchant Shipping Notice MSN 1671.
 
-### 36. Lubricating and other oil systems[^key-2cc7ad7f1e318914d1a81a5c817f23c4]
+### 36. Lubricating and other oil systems[^c-2cc7ad7f1e318914d1a81a5c817f23c4]
 
 (1) In every ship in which oil for lubrication, cooling or operation of the main propelling machinery and its ancillary services is circulated under pressure, provision shall be made so that in the event of the failure of a pump an alternative means of circulating such oil is available.
 
 (2) In ships constructed on or after 1st September 1984, lubricating oil and other flammable oils shall not be carried in fore peak tanks.
 
-### 37. Remote control of propulsion machinery from the navigation bridge[^key-b38e0071072f380d35403bba7c099e3f]
+### 37. Remote control of propulsion machinery from the navigation bridge[^c-b38e0071072f380d35403bba7c099e3f]
 
 Every United Kingdom ship constructed on or after 1st May 1981 operating with unmanned machinery spaces, and every other ship constructed on or after 1st September 1984, shall be provided with—
 
 - (a) effective means for the operation and control of main auxiliary machinery essential for the propulsion and safety of the ship; and
 - (b) remote control of the propulsion machinery from the navigating bridge in accordance with the provisions of Schedule 5 in Merchant Shipping Notice MSN 1671.
 
-### 38. Steering gear[^key-862b55497539ded4f15416d3c370f6ec]
+### 38. Steering gear[^c-862b55497539ded4f15416d3c370f6ec]
 
 Every ship shall be provided with the means for steering which shall be in accordance with the provisions of Schedule 6 in Merchant Shipping Notice MSN 1671.
 
-### 39. Ventilating systems in machinery spaces Requirements for ships constructed on or after 1st September 1984[^key-99c1e799016fa624dc4af7cb443b8aed]
+### 39. Ventilating systems in machinery spaces Requirements for ships constructed on or after 1st September 1984[^c-99c1e799016fa624dc4af7cb443b8aed]
 
 Machinery spaces of Category A in every such ship shall be ventilated so that an adequate supply of air is maintained for the safety and well-being of personnel and the operation of machinery, including boilers, at full power in all weather conditions. Any other machinery space shall be adequately ventilated having regard in particular to the prevention of an accumulation of oil vapour under all normal conditions.
 
-### 40. Protection against noise Requirements for ships constructed on or after 1st September 1984[^key-75b6d752270212713755fb0020506c5d]
+### 40. Protection against noise Requirements for ships constructed on or after 1st September 1984[^c-75b6d752270212713755fb0020506c5d]
 
 (1) In every such ship, measures shall be taken to reduce noise levels in machinery spaces as far as is reasonable and practical. On completion of a ship noise levels in machinery spaces shall be measured and a record of the measurements taken shall be retained on the ship.
 
 (2) Noise levels and their measurement shall be in accordance with the provisions of Schedule 8 in Merchant Shipping Notice MSN 1671.
 
-### 41. Communication between navigating bridge and machinery space[^key-e3fc71b863d3214d633ca947977ef507]
+### 41. Communication between navigating bridge and machinery space[^c-e3fc71b863d3214d633ca947977ef507]
 
 (1) Every ship shall be provided with two means for communicating orders from the navigating bridge to the position in the machinery space or machinery control room from which the main engines are normally controlled. One of the means shall be an engine room telegraph.
 
@@ -717,19 +717,19 @@ Additional requirements for ships constructed on or after 1st October 1994
 
 (3) Appropriate means of communication shall be provided from the navigating bridge and the engine-room to any other position from which the speed or direction of thrust of the propellers may be controlled.
 
-### 42. Engineers’ alarm Requirements for ships constructed on or after 1st September 1984[^key-a11d03551630191e0aa30568229c800a]
+### 42. Engineers’ alarm Requirements for ships constructed on or after 1st September 1984[^c-a11d03551630191e0aa30568229c800a]
 
 Every ship shall be provided with an engineers’ alarm which shall be clearly audible in the engineers’ accommodation when operated from a position in the machinery space or machinery control room from which the engines are normally controlled.
 
-### 43. Spare gear[^key-1f4adfd1de035ca0ba4a2184cc79a30a]
+### 43. Spare gear[^c-1f4adfd1de035ca0ba4a2184cc79a30a]
 
 Every ship shall be provided with sufficient spare gear having regard to the intended service of the ship.
 
-### 44. Periodically unattended machinery spaces Requirements for ships constructed on or after 1st May 1981[^key-086856e2a631e1645e6ec27b139121c8]
+### 44. Periodically unattended machinery spaces Requirements for ships constructed on or after 1st May 1981[^c-086856e2a631e1645e6ec27b139121c8]
 
 Every ship with machinery spaces containing machinery used or essential for propulsion and intended to be periodically unattended under any sailing condition, including manoeuvring, shall comply with the provisions of Schedule 9 in Merchant Shipping Notice MSN 1671.
 
-### 45. Closing of openings Requirements for tankers constructed on or after 25th May 1980 and to other ships constructed on or after 1st September 1984.[^key-b81c2083edc016d70f6699724c78a02f]
+### 45. Closing of openings Requirements for tankers constructed on or after 25th May 1980 and to other ships constructed on or after 1st September 1984.[^c-b81c2083edc016d70f6699724c78a02f]
 
 (1) In every ship the number of skylights, doors, ventilators, openings in funnels for exhaust ventilation and other openings, to machinery spaces shall be the minimum compatible with the proper working and safety of the ship.
 
@@ -741,7 +741,7 @@ Every ship with machinery spaces containing machinery used or essential for prop
 
 ## PART VII — ELECTRICAL INSTALLATIONS
 
-### 46. General[^key-524a609ebf345ff4422e3e7ce72fd47d]
+### 46. General[^c-524a609ebf345ff4422e3e7ce72fd47d]
 
 (1) In every ship the electrical installation shall be such that—
 
@@ -750,7 +750,7 @@ Every ship with machinery spaces containing machinery used or essential for prop
 
 (2) The electrical equipment and installations, including any electrical means of propulsion, shall be such that the ship and all persons on board are protected against electrical hazards.
 
-### 47. Main source of electrical power and main switchboard[^key-3508ee65af732eff19c36c3a2f13e850]
+### 47. Main source of electrical power and main switchboard[^c-3508ee65af732eff19c36c3a2f13e850]
 
 (1) Every ship in which electrical power is the only power for maintaining auxiliary services essential for the propulsion or safety of the ship shall be provided with two or more generating sets of such power that these services can be operated when any one of the sets is out of service.
 
@@ -771,7 +771,7 @@ Additional requirements for ships constructed on or after 1st September 1984
 
 (7) The main busbars shall be subdivided in every ship in which the total installed electrical power of the main generating sets exceeds 3 megawatt. Each section of the busbars shall be interconnected by removable links or other suitable means such that the main generating sets and any supplies to duplicated services which are directly connected to the busbars are, so far as it is practicable, equally divided between the sections. The Certifying Authority may permit other arrangements which provide equivalent system redundancy.
 
-Additional requirements for ships constructed on or after 1st July 1998[^key-9f9ffac7500774b1f7bcc57d551fd32c]
+Additional requirements for ships constructed on or after 1st July 1998[^c-9f9ffac7500774b1f7bcc57d551fd32c]
 
 (8)
 
@@ -780,7 +780,7 @@ Additional requirements for ships constructed on or after 1st July 1998[^key-9f9
 
 (9) A ship complying with paragraph (8) need not comply with paragraph (7).
 
-### 48. Lighting systems Requirements for ships constructed on or after 1st September 1984[^key-8fc3de53b0c54cd13ef0e55a60be9bde]
+### 48. Lighting systems Requirements for ships constructed on or after 1st September 1984[^c-8fc3de53b0c54cd13ef0e55a60be9bde]
 
 (1) The main source of electrical power in every ship shall be capable of illuminating any part of the ship normally accessible to and used by the passengers or the crew.
 
@@ -788,17 +788,17 @@ Additional requirements for ships constructed on or after 1st July 1998[^key-9f9
 
 (3) Lighting fittings shall be arranged to prevent rises in temperature which would be damaging to the fitting or the electric wiring or which would result in a risk of fire.
 
-### 49. Emergency and transitional sources of electrical power and emergency switchboards[^key-093298c06e75b3e3e8f0c742242f9546]
+### 49. Emergency and transitional sources of electrical power and emergency switchboards[^c-093298c06e75b3e3e8f0c742242f9546]
 
 (1) Every ship shall be provided, in a position above the uppermost continuous deck and outside the machinery casings, with a self-contained emergency source of electrical power so arranged as to ensure its functioning in the event of fire or other casualty causing failure of the main electrical installation.
 
 (2) The emergency and transitional source of electrical power and emergency switchboards shall be in accordance with the provisions of Schedule 10 in Merchant Shipping Notice MSN 1671.
 
-Additional requirements for ships constructed on or after 1st July 1998[^key-f66bc8d92624cabbf96f900a892addbf]
+Additional requirements for ships constructed on or after 1st July 1998[^c-f66bc8d92624cabbf96f900a892addbf]
 
 (3) Where electrical power is necessary to restore propulsion, the capacity shall be sufficient to restore propulsion to the ship in conjunction with other machinery, as appropriate, from a dead ship condition within 30 minutes after blackout.
 
-### 50. Location and construction of cables Requirements for ships constructed on or after 1st September 1984[^key-c5dfc123c7073d60d6706fc1f47591a9]
+### 50. Location and construction of cables Requirements for ships constructed on or after 1st September 1984[^c-c5dfc123c7073d60d6706fc1f47591a9]
 
 (1) All electrical cables external to equipment shall be flame retardant and shall be installed so that their flame retarding or equivalent properties are not impaired. The Certifying Authority may permit installation of cables which do not comply with the foregoing for particular purposes, such as radio frequency cables, where compliance would be impracticable.
 
@@ -810,25 +810,25 @@ Additional requirements for ships constructed on or after 1st July 1998[^key-f66
 
 (5) The electrical, mechanical, flame retarding and, where applicable, fire resisting properties of the terminations and joints in any conductor shall be at least equivalent to those of the conductor.
 
-### 51. General precautions against shock, fire and other hazards Requirements for ships constructed on or after 26th May 1965[^key-55479b6b08a9e7757f1dee5ba48b1aa4]
+### 51. General precautions against shock, fire and other hazards Requirements for ships constructed on or after 26th May 1965[^c-55479b6b08a9e7757f1dee5ba48b1aa4]
 
 In every ship all electrical equipment shall be constructed and installed so that it will not cause injury when handled or touched in a proper manner. The precautions to be taken shall at least be in accordance with those set out in Schedule 11 in Merchant Shipping Notice MSN M1671.
 
-### 52. Electrical equipment in hazardous areas and spaces Requirements for ships constructed on or after 1st September 1984[^key-15d33948fbcfe8c9ce3e74255eb43a16]
+### 52. Electrical equipment in hazardous areas and spaces Requirements for ships constructed on or after 1st September 1984[^c-15d33948fbcfe8c9ce3e74255eb43a16]
 
 Electrical equipment shall not be installed in any hazardous area except in accordance with the requirements set out in Schedule 12 in Merchant Shipping Notice MSN 1671.
 
 ## PART IX — MISCELLANEOUS
 
-### 53. Anchors, anchor handling equipment and chain cables[^key-5a420a5b5fa913c0635f3595c80bdc09]
+### 53. Anchors, anchor handling equipment and chain cables[^c-5a420a5b5fa913c0635f3595c80bdc09]
 
 Every ship shall be provided with such anchors, anchor handling equipment together with such anchors and chain cables as are sufficient in number, weight and strength having regard to the size of the ship. This equipment shall be tested and certified by the Certifying Authority.
 
-### 54. Emergency towing arrangements[^key-763cb5831e9cf09f9b7a68dca44ddf4c]
+### 54. Emergency towing arrangements[^c-763cb5831e9cf09f9b7a68dca44ddf4c]
 
 Tankers, including oil tankers, chemical tankers and gas carriers, of not less than 20,000 tonnes deadweight shall be fitted with an emergency towing arrangement at both ends of the ship. For tankers constructed before 1st January 1996 such an arrangement shall be fitted at the first scheduled dry-docking or by 1st January 1999, whichever is the earlier. The design and construction of the towing arrangement shall be guided by the provisions contained in Schedule 13 in Merchant Shipping Notice MSN 1671.
 
-### 54A. Safe access to tanker bows[^key-19259c89a123a85b94b1444adc609ed4]
+### 54A. Safe access to tanker bows[^c-19259c89a123a85b94b1444adc609ed4]
 
 Every tanker constructed on or after 1st July 1998 shall be provided with the means to enable the crew to gain safe access to the bows even in severe weather conditions. For tankers constructed before 1st July 1998, such means of access shall be provided at the first scheduled dry-docking after 1st July 1998, but not later than 1st July 2001. The means of access shall be in accordance with Schedule 15 of Merchant Shipping Notice MSN 1671(M) (Amended).
 
@@ -840,7 +840,7 @@ All dedicated seawater ballast tanks shall have an efficient corrosion preventio
 
 All tankers shall be equipped with at least one portable instrument for measuring flammable vapour concentrations, together with a sufficient set of spares. Suitable means shall be provided for the calibration of such instruments.
 
-### 55. Materials used in construction Requirements for ships constructed on or after 1st September 1984[^key-3d3b56bc91cbae412f9f6aedf3346b7e]
+### 55. Materials used in construction Requirements for ships constructed on or after 1st September 1984[^c-3d3b56bc91cbae412f9f6aedf3346b7e]
 
 (1) Every overboard scupper, sanitary discharge or other inlet or outlet installed in a location where the failure of any such inlet or outlet could cause flooding in the event of fire shall be constructed of materials that are not readily rendered ineffective by heat.
 
@@ -850,7 +850,7 @@ All tankers shall be equipped with at least one portable instrument for measurin
 
 (4) Asbestos or any material containing asbestos shall not be installed in any part of the ship except that white asbestos may be used in machinery when a substitute material is not available.
 
-### 56. Gas welding, flame cutting and domestic gaseous fuel installations Requirements for ships constructed on or after 1st September 1984[^key-fcfbf0af459f5f209533428162a29b7f]
+### 56. Gas welding, flame cutting and domestic gaseous fuel installations Requirements for ships constructed on or after 1st September 1984[^c-fcfbf0af459f5f209533428162a29b7f]
 
 (1) In every ship every gas welding, flame cutting or domestic gaseous fuel installation shall be designed, constructed and installed so that the safety of the ship and of the persons on board is not impaired.
 
@@ -858,18 +858,18 @@ All tankers shall be equipped with at least one portable instrument for measurin
 
 ## PART X — EQUIVALENTS, PENALTIES AND DETENTION
 
-### 57. Alternative construction, equipment and machinery[^key-3cf3fe5bb6e2028e1967268170a7a20d]
+### 57. Alternative construction, equipment and machinery[^c-3cf3fe5bb6e2028e1967268170a7a20d]
 
 - (a) Where these Regulations require that the hull or machinery of a ship shall be constructed in a particular manner, or that particular equipment shall be provided, or that particular provisions shall be made, the Secretary of State shall permit the hull or machinery of the ship to be constructed in any other manner, or any other equipment to be provided or other provision made, if he is satisfied by trial thereof or otherwise that such other construction, equipment or provision is at least as effective as that required by these Regulations.
 - (b) For the purposes of these Regulations, the results of a verification or test shall be accepted if the verification or test is carried out—
-  - (i) in accordance with these Regulations or with a Standard, Code of Practice, specification or technical description of an EEA State [^key-bc7e4434852f674bf29338abb9269138]... offering equivalent levels of safety, suitability and fitness for the purpose; and
-  - (ii) by a body or laboratory of an EEA State [^key-bc7e4434852f674bf29338abb9269138]... offering suitable and satisfactory guarantees of technical and professional competence and independence.
+  - (i) in accordance with these Regulations or with a Standard, Code of Practice, specification or technical description of an EEA State [^c-bc7e4434852f674bf29338abb9269138]... offering equivalent levels of safety, suitability and fitness for the purpose; and
+  - (ii) by a body or laboratory of an EEA State [^c-bc7e4434852f674bf29338abb9269138]... offering suitable and satisfactory guarantees of technical and professional competence and independence.
 
-### 58. Penalties[^key-647dd9e821de50078c6b73e1201fee8d]
+### 58. Penalties[^c-647dd9e821de50078c6b73e1201fee8d]
 
 Any contravention of these Regulations shall be an offence on the part of both the owner and the master, punishable on summary conviction by a fine not exceeding the statutory maximum, or on conviction on indictment by imprisonment for a term not exceeding two years, or a fine, or both.
 
-### 59. Power to detain[^key-5326560d312b9ef86962c43122974d73]
+### 59. Power to detain[^c-5326560d312b9ef86962c43122974d73]
 
 In any case where a ship does not comply with the requirements of these Regulations, the ship shall be liable to be detained and section 284 of the Merchant Shipping Act 1995 (which relates to the detention of a ship) shall have effect in relation to the ship, subject to the modification that as if for the words “this Act” wherever they appear, there were substituted “the Merchant Shipping (Cargo Ship Construction) Regulations 1997”.
 
@@ -909,13 +909,13 @@ Department of Transport
 
 [^f00001]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21); sections 85 and 86 were amended by the Merchant Shipping and Maritime Securities Act [1997 (c. 8)](https://www.legislation.gov.uk/ukpga/1997/8), section 8.
 
-[^key-6a68e5f5b7523660b7ef0394e3eae5f2]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1997/1509) excluded (3.8.1998) by [The Merchant Shipping (Small Workboats and Pilot Boats) Regulations 1998 (S.I. 1998/1609)](https://www.legislation.gov.uk/uksi/1998/1609), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1998/1609/regulation/1/1), [5(1)](https://www.legislation.gov.uk/uksi/1998/1609/regulation/5/1), [6(1)](https://www.legislation.gov.uk/uksi/1998/1609/regulation/6/1), [Sch.](https://www.legislation.gov.uk/uksi/1998/1609/schedule)
+[^c-6a68e5f5b7523660b7ef0394e3eae5f2]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1997/1509) excluded (3.8.1998) by [The Merchant Shipping (Small Workboats and Pilot Boats) Regulations 1998 (S.I. 1998/1609)](https://www.legislation.gov.uk/uksi/1998/1609), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1998/1609/regulation/1/1), [5(1)](https://www.legislation.gov.uk/uksi/1998/1609/regulation/5/1), [6(1)](https://www.legislation.gov.uk/uksi/1998/1609/regulation/6/1), [Sch.](https://www.legislation.gov.uk/uksi/1998/1609/schedule)
 
-[^key-5d365f19ab0151588aa8347125bb913f]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1997/1509) excluded (16.12.1998) by [The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 1998 (S.I. 1998/2771)](https://www.legislation.gov.uk/uksi/1998/2771), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1998/2771/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/1998/2771/regulation/4), [Sch. 1](https://www.legislation.gov.uk/uksi/1998/2771/schedule/1) (with [reg. 3](https://www.legislation.gov.uk/uksi/1998/2771/regulation/3)) (as substituted by [S.I. 2016/353](https://www.legislation.gov.uk/uksi/2016/353), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/353/regulation/1/1), [3(1)](https://www.legislation.gov.uk/uksi/2016/353/regulation/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/353/schedule/1))
+[^c-5d365f19ab0151588aa8347125bb913f]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1997/1509) excluded (16.12.1998) by [The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 1998 (S.I. 1998/2771)](https://www.legislation.gov.uk/uksi/1998/2771), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1998/2771/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/1998/2771/regulation/4), [Sch. 1](https://www.legislation.gov.uk/uksi/1998/2771/schedule/1) (with [reg. 3](https://www.legislation.gov.uk/uksi/1998/2771/regulation/3)) (as substituted by [S.I. 2016/353](https://www.legislation.gov.uk/uksi/2016/353), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/353/regulation/1/1), [3(1)](https://www.legislation.gov.uk/uksi/2016/353/regulation/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/353/schedule/1))
 
-[^key-161ede9caadc1c8d2e50f24749303404]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1997/1509) excluded (12.12.2025) by [The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025 (S.I. 2025/1195)](https://www.legislation.gov.uk/uksi/2025/1195), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2025/1195/schedule/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1195/regulation/4))
+[^c-161ede9caadc1c8d2e50f24749303404]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1997/1509) excluded (12.12.2025) by [The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025 (S.I. 2025/1195)](https://www.legislation.gov.uk/uksi/2025/1195), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2025/1195/schedule/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1195/regulation/4))
 
-[^key-a7ccda1efb54c8caa17118ac5d86c612]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
+[^c-a7ccda1efb54c8caa17118ac5d86c612]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
 
 [^f00002]: Footnote: S.I.[1981/572](https://www.legislation.gov.uk/uksi/1981/572).
 
@@ -931,13 +931,13 @@ Department of Transport
 
 [^f00008]: Footnote: S.I.[1992/135](https://www.legislation.gov.uk/uksi/1992/135).
 
-[^key-d616126b917c1974ca0e56c893378d70]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1997/1509/regulation/2) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
+[^c-d616126b917c1974ca0e56c893378d70]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1997/1509/regulation/2) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
 
 [^f00009]: Footnote: [1990/2605](https://www.legislation.gov.uk/uksi/1990/2605), to which there are amendments not relevant to these Regulations.
 
-[^key-78a8fbe4755d2a3f220783be02730c7a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/2/1) omitted (20.12.2018) by virtue of [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/a), [3(1)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/3/1)[(2)(a)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/3/2/a)
+[^c-78a8fbe4755d2a3f220783be02730c7a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/2/1) omitted (20.12.2018) by virtue of [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/a), [3(1)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/3/1)[(2)(a)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/3/2/a)
 
-[^key-5d2b0268e3d498500217a31fbdb1f213]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/2/1) substituted (20.12.2018) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/a), [3(1)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/3/1)[(2)(a)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/3/2/a)
+[^c-5d2b0268e3d498500217a31fbdb1f213]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/2/1) substituted (20.12.2018) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/a), [3(1)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/3/1)[(2)(a)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/3/2/a)
 
 [^f00011]: Footnote: S.I.[1968/1053](https://www.legislation.gov.uk/uksi/1968/1053), relevant amendment is S.I.[1990/2118](https://www.legislation.gov.uk/uksi/1990/2118).
 
@@ -945,73 +945,73 @@ Department of Transport
 
 [^f00013]: Footnote: Cmnd. 5748; amended by the Protocol of 1978 (Cmnd. 7374) and by amendments adopted by IMO in 1983, 1985, 1989, 1992 and 1994.
 
-[^key-72e3b5844ac928f584a9950179093883]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/2/1) substituted (5.12.2005) by [The Civil Partnership Act 2004 (Amendments to Subordinate Legislation) Order 2005 (S.I. 2005/2114)](https://www.legislation.gov.uk/uksi/2005/2114), [art. 2(15)](https://www.legislation.gov.uk/uksi/2005/2114/article/2/15), [reg. 1](https://www.legislation.gov.uk/uksi/2005/2114/regulation/1), [Sch. 15](https://www.legislation.gov.uk/uksi/2005/2114/schedule/15)
+[^c-72e3b5844ac928f584a9950179093883]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/2/1) substituted (5.12.2005) by [The Civil Partnership Act 2004 (Amendments to Subordinate Legislation) Order 2005 (S.I. 2005/2114)](https://www.legislation.gov.uk/uksi/2005/2114), [art. 2(15)](https://www.legislation.gov.uk/uksi/2005/2114/article/2/15), [reg. 1](https://www.legislation.gov.uk/uksi/2005/2114/regulation/1), [Sch. 15](https://www.legislation.gov.uk/uksi/2005/2114/schedule/15)
 
 [^f00014]: Footnote: S.I.[1982/841](https://www.legislation.gov.uk/uksi/1982/841), to which there are amendments not relevant to these Regulations.
 
 [^f00015]: Footnote: S.I.[1997/1510](https://www.legislation.gov.uk/uksi/1997/1510).
 
-[^key-c3ff65b9f874957cf2415ec14bdff7be]: Textual amendment: Words in [reg. 2(2)(ii)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/2/2/ii) omitted (31.12.2020) by virtue of [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 3(2)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c3ff65b9f874957cf2415ec14bdff7be]: Textual amendment: Words in [reg. 2(2)(ii)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/2/2/ii) omitted (31.12.2020) by virtue of [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 3(2)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2b153252d7460bd8ff7023f30b367b07]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1997/1509/regulation/3) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
+[^c-2b153252d7460bd8ff7023f30b367b07]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1997/1509/regulation/3) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
 
-[^key-2b8dfb5229c97218cc31d9c5859d3746]: Textual amendment: Reg. 4 substituted (29.3.2023) by [The Merchant Shipping (Cargo and Passenger Ship Construction and Miscellaneous Amendments) Regulations 2023 (S.I. 2023/246)](https://www.legislation.gov.uk/uksi/2023/246), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2023/246/schedule/paragraph/2)
+[^c-2b8dfb5229c97218cc31d9c5859d3746]: Textual amendment: Reg. 4 substituted (29.3.2023) by [The Merchant Shipping (Cargo and Passenger Ship Construction and Miscellaneous Amendments) Regulations 2023 (S.I. 2023/246)](https://www.legislation.gov.uk/uksi/2023/246), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2023/246/schedule/paragraph/2)
 
-[^key-3b0a4acf8afdb104ea9f5167ba6b992b]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1997/1509/regulation/5) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
+[^c-3b0a4acf8afdb104ea9f5167ba6b992b]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1997/1509/regulation/5) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
 
-[^key-768e0aa51f2d923cc27fc0ad94de3a44]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1997/1509/regulation/6) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
+[^c-768e0aa51f2d923cc27fc0ad94de3a44]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1997/1509/regulation/6) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
 
-[^key-626b7852a1863bf52abea04baa112b8a]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1997/1509/regulation/7) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
+[^c-626b7852a1863bf52abea04baa112b8a]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1997/1509/regulation/7) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
 
-[^key-84f289da94691e455eafebf660d77b4a]: Textual amendment: Words in [reg. 7(3)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/7/3) substituted (20.12.2022) by [The Merchant Shipping (Additional Safety Measures for Bulk Carriers) Regulations 2022 (S.I. 2022/1218)](https://www.legislation.gov.uk/uksi/2022/1218), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1218/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2022/1218/regulation/3/2)
+[^c-84f289da94691e455eafebf660d77b4a]: Textual amendment: Words in [reg. 7(3)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/7/3) substituted (20.12.2022) by [The Merchant Shipping (Additional Safety Measures for Bulk Carriers) Regulations 2022 (S.I. 2022/1218)](https://www.legislation.gov.uk/uksi/2022/1218), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1218/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2022/1218/regulation/3/2)
 
-[^key-016f148b83ada98c34e054103a11278b]: Textual amendment: Words in [reg. 7(3)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/7/3) inserted (1.10.2004) by [The Merchant Shipping (Additional Safety Measures for Bulk Carriers) (Amendment) Regulations 2004 (S.I. 2004/2151)](https://www.legislation.gov.uk/uksi/2004/2151), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2151/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2004/2151/regulation/3/2)
+[^c-016f148b83ada98c34e054103a11278b]: Textual amendment: Words in [reg. 7(3)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/7/3) inserted (1.10.2004) by [The Merchant Shipping (Additional Safety Measures for Bulk Carriers) (Amendment) Regulations 2004 (S.I. 2004/2151)](https://www.legislation.gov.uk/uksi/2004/2151), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2151/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2004/2151/regulation/3/2)
 
-[^key-f22cd5a13257204fc119d481cc05eebb]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1997/1509/regulation/8) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
+[^c-f22cd5a13257204fc119d481cc05eebb]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1997/1509/regulation/8) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
 
-[^key-5527924dd53fd8b0429350e72c0ffe24]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1997/1509/regulation/9) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
+[^c-5527924dd53fd8b0429350e72c0ffe24]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1997/1509/regulation/9) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
 
-[^key-f5ef2591c55637c0641868086793e84b]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1997/1509/regulation/10) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
+[^c-f5ef2591c55637c0641868086793e84b]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1997/1509/regulation/10) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
 
-[^key-c8d72ed8960c848a94026efbb95de9f9]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1997/1509/regulation/11) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
+[^c-c8d72ed8960c848a94026efbb95de9f9]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1997/1509/regulation/11) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
 
-[^key-a32e86d50b117cb2ea1bc4c56930889b]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1997/1509/regulation/12) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
+[^c-a32e86d50b117cb2ea1bc4c56930889b]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1997/1509/regulation/12) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
 
-[^key-3028f349f0cdb113ce33d507443885d5]: Textual amendment: [Reg. 12A](https://www.legislation.gov.uk/uksi/1997/1509/regulation/12A) inserted (5.4.1999) by [The Merchant Shipping (Cargo Ship Construction) (Amendment) Regulations 1999 (S.I. 1999/643)](https://www.legislation.gov.uk/uksi/1999/643), [regs. 1](https://www.legislation.gov.uk/uksi/1999/643/regulation/1), [4](https://www.legislation.gov.uk/uksi/1999/643/regulation/4)
+[^c-3028f349f0cdb113ce33d507443885d5]: Textual amendment: [Reg. 12A](https://www.legislation.gov.uk/uksi/1997/1509/regulation/12A) inserted (5.4.1999) by [The Merchant Shipping (Cargo Ship Construction) (Amendment) Regulations 1999 (S.I. 1999/643)](https://www.legislation.gov.uk/uksi/1999/643), [regs. 1](https://www.legislation.gov.uk/uksi/1999/643/regulation/1), [4](https://www.legislation.gov.uk/uksi/1999/643/regulation/4)
 
-[^key-442b92510f47fe84b61569d96cbc1621]: Textual amendment: Word in [Pt. 3](https://www.legislation.gov.uk/uksi/1997/1509/part/3) heading substituted (5.4.1999) by [The Merchant Shipping (Cargo Ship Construction) (Amendment) Regulations 1999 (S.I. 1999/643)](https://www.legislation.gov.uk/uksi/1999/643), [regs. 1](https://www.legislation.gov.uk/uksi/1999/643/regulation/1), [5(1)](https://www.legislation.gov.uk/uksi/1999/643/regulation/5/1)
+[^c-442b92510f47fe84b61569d96cbc1621]: Textual amendment: Word in [Pt. 3](https://www.legislation.gov.uk/uksi/1997/1509/part/3) heading substituted (5.4.1999) by [The Merchant Shipping (Cargo Ship Construction) (Amendment) Regulations 1999 (S.I. 1999/643)](https://www.legislation.gov.uk/uksi/1999/643), [regs. 1](https://www.legislation.gov.uk/uksi/1999/643/regulation/1), [5(1)](https://www.legislation.gov.uk/uksi/1999/643/regulation/5/1)
 
-[^key-5abc1fca70192118e7f5111c42f7eb52]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/1997/1509/regulation/13) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
+[^c-5abc1fca70192118e7f5111c42f7eb52]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/1997/1509/regulation/13) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
 
-[^key-2da4641a9c6a23df69a9a36edc804b0a]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/1997/1509/regulation/14) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
+[^c-2da4641a9c6a23df69a9a36edc804b0a]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/1997/1509/regulation/14) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
 
-[^key-aa65d9d5fdb0fcdf21a863e3754af6ae]: Textual amendment: Words in [reg. 14](https://www.legislation.gov.uk/uksi/1997/1509/regulation/14) inserted (5.4.1999) by [The Merchant Shipping (Cargo Ship Construction) (Amendment) Regulations 1999 (S.I. 1999/643)](https://www.legislation.gov.uk/uksi/1999/643), [regs. 1](https://www.legislation.gov.uk/uksi/1999/643/regulation/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/1999/643/regulation/5/2/a)
+[^c-aa65d9d5fdb0fcdf21a863e3754af6ae]: Textual amendment: Words in [reg. 14](https://www.legislation.gov.uk/uksi/1997/1509/regulation/14) inserted (5.4.1999) by [The Merchant Shipping (Cargo Ship Construction) (Amendment) Regulations 1999 (S.I. 1999/643)](https://www.legislation.gov.uk/uksi/1999/643), [regs. 1](https://www.legislation.gov.uk/uksi/1999/643/regulation/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/1999/643/regulation/5/2/a)
 
-[^key-a5a63610d1f300b1f3bfe75ba41c0342]: Textual amendment: Word in [reg. 14(g)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/14/g) inserted (5.4.1999) by [The Merchant Shipping (Cargo Ship Construction) (Amendment) Regulations 1999 (S.I. 1999/643)](https://www.legislation.gov.uk/uksi/1999/643), [regs. 1](https://www.legislation.gov.uk/uksi/1999/643/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/1999/643/regulation/5/2/b)
+[^c-a5a63610d1f300b1f3bfe75ba41c0342]: Textual amendment: Word in [reg. 14(g)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/14/g) inserted (5.4.1999) by [The Merchant Shipping (Cargo Ship Construction) (Amendment) Regulations 1999 (S.I. 1999/643)](https://www.legislation.gov.uk/uksi/1999/643), [regs. 1](https://www.legislation.gov.uk/uksi/1999/643/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/1999/643/regulation/5/2/b)
 
-[^key-a673ddc706f0884593cb9bb38016a973]: Textual amendment: Word in [reg. 14(h)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/14/h) omitted (5.4.1999) by virtue of [The Merchant Shipping (Cargo Ship Construction) (Amendment) Regulations 1999 (S.I. 1999/643)](https://www.legislation.gov.uk/uksi/1999/643), [regs. 1](https://www.legislation.gov.uk/uksi/1999/643/regulation/1), [5(2)(c)](https://www.legislation.gov.uk/uksi/1999/643/regulation/5/2/c)
+[^c-a673ddc706f0884593cb9bb38016a973]: Textual amendment: Word in [reg. 14(h)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/14/h) omitted (5.4.1999) by virtue of [The Merchant Shipping (Cargo Ship Construction) (Amendment) Regulations 1999 (S.I. 1999/643)](https://www.legislation.gov.uk/uksi/1999/643), [regs. 1](https://www.legislation.gov.uk/uksi/1999/643/regulation/1), [5(2)(c)](https://www.legislation.gov.uk/uksi/1999/643/regulation/5/2/c)
 
-[^key-e7289b2d664b00236cc018f2a4d60371]: Textual amendment: [Reg. 14(i)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/14/i) omitted (5.4.1999) by virtue of [The Merchant Shipping (Cargo Ship Construction) (Amendment) Regulations 1999 (S.I. 1999/643)](https://www.legislation.gov.uk/uksi/1999/643), [regs. 1](https://www.legislation.gov.uk/uksi/1999/643/regulation/1), [5(2)(d)](https://www.legislation.gov.uk/uksi/1999/643/regulation/5/2/d)
+[^c-e7289b2d664b00236cc018f2a4d60371]: Textual amendment: [Reg. 14(i)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/14/i) omitted (5.4.1999) by virtue of [The Merchant Shipping (Cargo Ship Construction) (Amendment) Regulations 1999 (S.I. 1999/643)](https://www.legislation.gov.uk/uksi/1999/643), [regs. 1](https://www.legislation.gov.uk/uksi/1999/643/regulation/1), [5(2)(d)](https://www.legislation.gov.uk/uksi/1999/643/regulation/5/2/d)
 
-[^key-59e1ac1a2b2d5ce81ed43f729ee6e4f6]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/1997/1509/regulation/15) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
+[^c-59e1ac1a2b2d5ce81ed43f729ee6e4f6]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/1997/1509/regulation/15) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
 
-[^key-2f08c9ec14455828883f8010c6739f93]: Textual amendment: Word in [reg. 15(2)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/15/2) substituted (5.4.1999) by [The Merchant Shipping (Cargo Ship Construction) (Amendment) Regulations 1999 (S.I. 1999/643)](https://www.legislation.gov.uk/uksi/1999/643), [regs. 1](https://www.legislation.gov.uk/uksi/1999/643/regulation/1), [6](https://www.legislation.gov.uk/uksi/1999/643/regulation/6)
+[^c-2f08c9ec14455828883f8010c6739f93]: Textual amendment: Word in [reg. 15(2)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/15/2) substituted (5.4.1999) by [The Merchant Shipping (Cargo Ship Construction) (Amendment) Regulations 1999 (S.I. 1999/643)](https://www.legislation.gov.uk/uksi/1999/643), [regs. 1](https://www.legislation.gov.uk/uksi/1999/643/regulation/1), [6](https://www.legislation.gov.uk/uksi/1999/643/regulation/6)
 
-[^key-ce1e4cdc3ad7eaed8fb7852e882c5ead]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/1997/1509/regulation/16) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
+[^c-ce1e4cdc3ad7eaed8fb7852e882c5ead]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/1997/1509/regulation/16) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
 
 [^f00017]: Footnote: Rule 30(5) was substituted by S.I.[1990/2128](https://www.legislation.gov.uk/uksi/1990/2128).
 
-[^key-cd1405a7416d4d4b6caa43d806d070b8]: Textual amendment: Word in [reg. 16(3)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/16/3) substituted (5.4.1999) by [The Merchant Shipping (Cargo Ship Construction) (Amendment) Regulations 1999 (S.I. 1999/643)](https://www.legislation.gov.uk/uksi/1999/643), [regs. 1](https://www.legislation.gov.uk/uksi/1999/643/regulation/1), [7](https://www.legislation.gov.uk/uksi/1999/643/regulation/7)
+[^c-cd1405a7416d4d4b6caa43d806d070b8]: Textual amendment: Word in [reg. 16(3)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/16/3) substituted (5.4.1999) by [The Merchant Shipping (Cargo Ship Construction) (Amendment) Regulations 1999 (S.I. 1999/643)](https://www.legislation.gov.uk/uksi/1999/643), [regs. 1](https://www.legislation.gov.uk/uksi/1999/643/regulation/1), [7](https://www.legislation.gov.uk/uksi/1999/643/regulation/7)
 
-[^key-8f3ee66312ac2c1265147aa261e780fe]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/1997/1509/regulation/17) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
+[^c-8f3ee66312ac2c1265147aa261e780fe]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/1997/1509/regulation/17) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
 
-[^key-91f3ff376f86836fe132121d2ca43853]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/1997/1509/regulation/18) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
+[^c-91f3ff376f86836fe132121d2ca43853]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/1997/1509/regulation/18) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
 
-[^key-6b321c97ae78eb222f3767cc7a57866d]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/1997/1509/regulation/19) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
+[^c-6b321c97ae78eb222f3767cc7a57866d]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/1997/1509/regulation/19) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
 
-[^key-1de7ab725ed731b50650d1d9f503ee97]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/1997/1509/regulation/20) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
+[^c-1de7ab725ed731b50650d1d9f503ee97]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/1997/1509/regulation/20) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
 
-[^key-258ac4e19b1943135e1faa6114b76db2]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/1997/1509/regulation/21) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
+[^c-258ac4e19b1943135e1faa6114b76db2]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/1997/1509/regulation/21) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
 
 [^f00018]: Footnote: S.I.[1980/544](https://www.legislation.gov.uk/uksi/1980/544), to which there are amendments not relevant to these Regulations.
 
@@ -1019,98 +1019,98 @@ Department of Transport
 
 [^f00020]: Footnote: S.I.[1981/572](https://www.legislation.gov.uk/uksi/1981/572), to which there are amendments not relevant to these Regulations.
 
-[^key-ddbc9731789f173d31457137e368a729]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/1997/1509/regulation/22) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
+[^c-ddbc9731789f173d31457137e368a729]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/1997/1509/regulation/22) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
 
-[^key-ad986014b150ae853d8b823c9fb7c0c9]: Textual amendment: [Reg. 22](https://www.legislation.gov.uk/uksi/1997/1509/regulation/22) heading substituted (5.4.1999) by [The Merchant Shipping (Cargo Ship Construction) (Amendment) Regulations 1999 (S.I. 1999/643)](https://www.legislation.gov.uk/uksi/1999/643), [regs. 1](https://www.legislation.gov.uk/uksi/1999/643/regulation/1), [8(a)](https://www.legislation.gov.uk/uksi/1999/643/regulation/8/a)
+[^c-ad986014b150ae853d8b823c9fb7c0c9]: Textual amendment: [Reg. 22](https://www.legislation.gov.uk/uksi/1997/1509/regulation/22) heading substituted (5.4.1999) by [The Merchant Shipping (Cargo Ship Construction) (Amendment) Regulations 1999 (S.I. 1999/643)](https://www.legislation.gov.uk/uksi/1999/643), [regs. 1](https://www.legislation.gov.uk/uksi/1999/643/regulation/1), [8(a)](https://www.legislation.gov.uk/uksi/1999/643/regulation/8/a)
 
-[^key-018b074ae809542afd3ac0a423707f89]: Textual amendment: [Reg. 22(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/22/1) substituted (5.4.1999) by [The Merchant Shipping (Cargo Ship Construction) (Amendment) Regulations 1999 (S.I. 1999/643)](https://www.legislation.gov.uk/uksi/1999/643), [regs. 1](https://www.legislation.gov.uk/uksi/1999/643/regulation/1), [8(b)](https://www.legislation.gov.uk/uksi/1999/643/regulation/8/b)
+[^c-018b074ae809542afd3ac0a423707f89]: Textual amendment: [Reg. 22(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/22/1) substituted (5.4.1999) by [The Merchant Shipping (Cargo Ship Construction) (Amendment) Regulations 1999 (S.I. 1999/643)](https://www.legislation.gov.uk/uksi/1999/643), [regs. 1](https://www.legislation.gov.uk/uksi/1999/643/regulation/1), [8(b)](https://www.legislation.gov.uk/uksi/1999/643/regulation/8/b)
 
-[^key-b689a8bd567feb25fe9042735933a6f5]: Textual amendment: [Reg. 22(13)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/22/13) added (5.4.1999) by [The Merchant Shipping (Cargo Ship Construction) (Amendment) Regulations 1999 (S.I. 1999/643)](https://www.legislation.gov.uk/uksi/1999/643), [regs. 1](https://www.legislation.gov.uk/uksi/1999/643/regulation/1), [8(c)](https://www.legislation.gov.uk/uksi/1999/643/regulation/8/c)
+[^c-b689a8bd567feb25fe9042735933a6f5]: Textual amendment: [Reg. 22(13)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/22/13) added (5.4.1999) by [The Merchant Shipping (Cargo Ship Construction) (Amendment) Regulations 1999 (S.I. 1999/643)](https://www.legislation.gov.uk/uksi/1999/643), [regs. 1](https://www.legislation.gov.uk/uksi/1999/643/regulation/1), [8(c)](https://www.legislation.gov.uk/uksi/1999/643/regulation/8/c)
 
-[^key-caf01944e9bfff3822f2d3778bb81f8b]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/1997/1509/regulation/23) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
+[^c-caf01944e9bfff3822f2d3778bb81f8b]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/1997/1509/regulation/23) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
 
-[^key-0b33bc9199df567a1ea2ad0b24b6bce8]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/1997/1509/regulation/24) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
+[^c-0b33bc9199df567a1ea2ad0b24b6bce8]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/1997/1509/regulation/24) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
 
-[^key-1bf7ef828eca4196816ea0139fafd0c3]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/1997/1509/regulation/25) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
+[^c-1bf7ef828eca4196816ea0139fafd0c3]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/1997/1509/regulation/25) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
 
-[^key-f23dcbe038b6bb569422c0d89eee424e]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/1997/1509/regulation/26) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
+[^c-f23dcbe038b6bb569422c0d89eee424e]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/1997/1509/regulation/26) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
 
-[^key-82cf209030432d3a5c38dac05f72c6db]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/1997/1509/regulation/27) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
+[^c-82cf209030432d3a5c38dac05f72c6db]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/1997/1509/regulation/27) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
 
-[^key-81eb903f43fd6aab03daa79fea309ad5]: Textual amendment: [Reg. 27(6)-(8)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/27/6) added (5.4.1999) by [The Merchant Shipping (Cargo Ship Construction) (Amendment) Regulations 1999 (S.I. 1999/643)](https://www.legislation.gov.uk/uksi/1999/643), [regs. 1](https://www.legislation.gov.uk/uksi/1999/643/regulation/1), [9](https://www.legislation.gov.uk/uksi/1999/643/regulation/9)
+[^c-81eb903f43fd6aab03daa79fea309ad5]: Textual amendment: [Reg. 27(6)-(8)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/27/6) added (5.4.1999) by [The Merchant Shipping (Cargo Ship Construction) (Amendment) Regulations 1999 (S.I. 1999/643)](https://www.legislation.gov.uk/uksi/1999/643), [regs. 1](https://www.legislation.gov.uk/uksi/1999/643/regulation/1), [9](https://www.legislation.gov.uk/uksi/1999/643/regulation/9)
 
-[^key-8051195d467875bc163eece127994c23]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/1997/1509/regulation/28) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
+[^c-8051195d467875bc163eece127994c23]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/1997/1509/regulation/28) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
 
-[^key-c077a936332651a323f366943fe5488d]: Textual amendment: [Reg. 28(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/28/1) renumbered as reg. 28(1)(a) (5.4.1999) by [The Merchant Shipping (Cargo Ship Construction) (Amendment) Regulations 1999 (S.I. 1999/643)](https://www.legislation.gov.uk/uksi/1999/643), [regs. 1](https://www.legislation.gov.uk/uksi/1999/643/regulation/1), [10(a)](https://www.legislation.gov.uk/uksi/1999/643/regulation/10/a)
+[^c-c077a936332651a323f366943fe5488d]: Textual amendment: [Reg. 28(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/28/1) renumbered as reg. 28(1)(a) (5.4.1999) by [The Merchant Shipping (Cargo Ship Construction) (Amendment) Regulations 1999 (S.I. 1999/643)](https://www.legislation.gov.uk/uksi/1999/643), [regs. 1](https://www.legislation.gov.uk/uksi/1999/643/regulation/1), [10(a)](https://www.legislation.gov.uk/uksi/1999/643/regulation/10/a)
 
-[^key-ad7cc605404b536917e094499e963ade]: Textual amendment: [Reg. 28(1)(b)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/28/1/b) added (5.4.1999) by [The Merchant Shipping (Cargo Ship Construction) (Amendment) Regulations 1999 (S.I. 1999/643)](https://www.legislation.gov.uk/uksi/1999/643), [regs. 1](https://www.legislation.gov.uk/uksi/1999/643/regulation/1), [10(b)](https://www.legislation.gov.uk/uksi/1999/643/regulation/10/b)
+[^c-ad7cc605404b536917e094499e963ade]: Textual amendment: [Reg. 28(1)(b)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/28/1/b) added (5.4.1999) by [The Merchant Shipping (Cargo Ship Construction) (Amendment) Regulations 1999 (S.I. 1999/643)](https://www.legislation.gov.uk/uksi/1999/643), [regs. 1](https://www.legislation.gov.uk/uksi/1999/643/regulation/1), [10(b)](https://www.legislation.gov.uk/uksi/1999/643/regulation/10/b)
 
-[^key-50b47bc327be045b51371da424bde1a0]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/1997/1509/regulation/29) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
+[^c-50b47bc327be045b51371da424bde1a0]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/1997/1509/regulation/29) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
 
-[^key-d1d545378807c70304a9cd80e958770a]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/1997/1509/regulation/30) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
+[^c-d1d545378807c70304a9cd80e958770a]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/1997/1509/regulation/30) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
 
-[^key-d793ee982fee7b48d46c1a69eab6b6a0]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/1997/1509/regulation/31) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
+[^c-d793ee982fee7b48d46c1a69eab6b6a0]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/1997/1509/regulation/31) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
 
-[^key-1a854ad46eff430025b1ca94d2fb7339]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/1997/1509/regulation/32) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
+[^c-1a854ad46eff430025b1ca94d2fb7339]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/1997/1509/regulation/32) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
 
-[^key-1033396c87cd13b80d8fdf163b9b21f9]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/1997/1509/regulation/33) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
+[^c-1033396c87cd13b80d8fdf163b9b21f9]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/1997/1509/regulation/33) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
 
-[^key-af48da03a2018c0792139ff2441f0ed2]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/1997/1509/regulation/34) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
+[^c-af48da03a2018c0792139ff2441f0ed2]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/1997/1509/regulation/34) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
 
-[^key-0f72587c1e5ab1dfc314c5518e6bbe31]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/1997/1509/regulation/35) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
+[^c-0f72587c1e5ab1dfc314c5518e6bbe31]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/1997/1509/regulation/35) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
 
-[^key-2cc7ad7f1e318914d1a81a5c817f23c4]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/1997/1509/regulation/36) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
+[^c-2cc7ad7f1e318914d1a81a5c817f23c4]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/1997/1509/regulation/36) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
 
-[^key-b38e0071072f380d35403bba7c099e3f]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/1997/1509/regulation/37) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
+[^c-b38e0071072f380d35403bba7c099e3f]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/1997/1509/regulation/37) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
 
-[^key-862b55497539ded4f15416d3c370f6ec]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/1997/1509/regulation/38) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
+[^c-862b55497539ded4f15416d3c370f6ec]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/1997/1509/regulation/38) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
 
-[^key-99c1e799016fa624dc4af7cb443b8aed]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/1997/1509/regulation/39) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
+[^c-99c1e799016fa624dc4af7cb443b8aed]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/1997/1509/regulation/39) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
 
-[^key-75b6d752270212713755fb0020506c5d]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/1997/1509/regulation/40) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
+[^c-75b6d752270212713755fb0020506c5d]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/1997/1509/regulation/40) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
 
-[^key-e3fc71b863d3214d633ca947977ef507]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/1997/1509/regulation/41) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
+[^c-e3fc71b863d3214d633ca947977ef507]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/1997/1509/regulation/41) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
 
-[^key-a11d03551630191e0aa30568229c800a]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/1997/1509/regulation/42) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
+[^c-a11d03551630191e0aa30568229c800a]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/1997/1509/regulation/42) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
 
-[^key-1f4adfd1de035ca0ba4a2184cc79a30a]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/1997/1509/regulation/43) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
+[^c-1f4adfd1de035ca0ba4a2184cc79a30a]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/1997/1509/regulation/43) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
 
-[^key-086856e2a631e1645e6ec27b139121c8]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/1997/1509/regulation/44) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
+[^c-086856e2a631e1645e6ec27b139121c8]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/1997/1509/regulation/44) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
 
-[^key-b81c2083edc016d70f6699724c78a02f]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/1997/1509/regulation/45) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
+[^c-b81c2083edc016d70f6699724c78a02f]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/1997/1509/regulation/45) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
 
-[^key-524a609ebf345ff4422e3e7ce72fd47d]: Commencement: [Reg. 46](https://www.legislation.gov.uk/uksi/1997/1509/regulation/46) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
+[^c-524a609ebf345ff4422e3e7ce72fd47d]: Commencement: [Reg. 46](https://www.legislation.gov.uk/uksi/1997/1509/regulation/46) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
 
-[^key-3508ee65af732eff19c36c3a2f13e850]: Commencement: [Reg. 47](https://www.legislation.gov.uk/uksi/1997/1509/regulation/47) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
+[^c-3508ee65af732eff19c36c3a2f13e850]: Commencement: [Reg. 47](https://www.legislation.gov.uk/uksi/1997/1509/regulation/47) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
 
-[^key-9f9ffac7500774b1f7bcc57d551fd32c]: Textual amendment: [Reg. 47(8)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/47/8)[(9)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/47/9) added (5.4.1999) by [The Merchant Shipping (Cargo Ship Construction) (Amendment) Regulations 1999 (S.I. 1999/643)](https://www.legislation.gov.uk/uksi/1999/643), [regs. 1](https://www.legislation.gov.uk/uksi/1999/643/regulation/1), [11](https://www.legislation.gov.uk/uksi/1999/643/regulation/11)
+[^c-9f9ffac7500774b1f7bcc57d551fd32c]: Textual amendment: [Reg. 47(8)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/47/8)[(9)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/47/9) added (5.4.1999) by [The Merchant Shipping (Cargo Ship Construction) (Amendment) Regulations 1999 (S.I. 1999/643)](https://www.legislation.gov.uk/uksi/1999/643), [regs. 1](https://www.legislation.gov.uk/uksi/1999/643/regulation/1), [11](https://www.legislation.gov.uk/uksi/1999/643/regulation/11)
 
-[^key-8fc3de53b0c54cd13ef0e55a60be9bde]: Commencement: [Reg. 48](https://www.legislation.gov.uk/uksi/1997/1509/regulation/48) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
+[^c-8fc3de53b0c54cd13ef0e55a60be9bde]: Commencement: [Reg. 48](https://www.legislation.gov.uk/uksi/1997/1509/regulation/48) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
 
-[^key-093298c06e75b3e3e8f0c742242f9546]: Commencement: [Reg. 49](https://www.legislation.gov.uk/uksi/1997/1509/regulation/49) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
+[^c-093298c06e75b3e3e8f0c742242f9546]: Commencement: [Reg. 49](https://www.legislation.gov.uk/uksi/1997/1509/regulation/49) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
 
-[^key-f66bc8d92624cabbf96f900a892addbf]: Textual amendment: [Reg. 49(3)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/49/3) added (5.4.1999) by [The Merchant Shipping (Cargo Ship Construction) (Amendment) Regulations 1999 (S.I. 1999/643)](https://www.legislation.gov.uk/uksi/1999/643), [regs. 1](https://www.legislation.gov.uk/uksi/1999/643/regulation/1), [12](https://www.legislation.gov.uk/uksi/1999/643/regulation/12)
+[^c-f66bc8d92624cabbf96f900a892addbf]: Textual amendment: [Reg. 49(3)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/49/3) added (5.4.1999) by [The Merchant Shipping (Cargo Ship Construction) (Amendment) Regulations 1999 (S.I. 1999/643)](https://www.legislation.gov.uk/uksi/1999/643), [regs. 1](https://www.legislation.gov.uk/uksi/1999/643/regulation/1), [12](https://www.legislation.gov.uk/uksi/1999/643/regulation/12)
 
-[^key-c5dfc123c7073d60d6706fc1f47591a9]: Commencement: [Reg. 50](https://www.legislation.gov.uk/uksi/1997/1509/regulation/50) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
+[^c-c5dfc123c7073d60d6706fc1f47591a9]: Commencement: [Reg. 50](https://www.legislation.gov.uk/uksi/1997/1509/regulation/50) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
 
-[^key-55479b6b08a9e7757f1dee5ba48b1aa4]: Commencement: [Reg. 51](https://www.legislation.gov.uk/uksi/1997/1509/regulation/51) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
+[^c-55479b6b08a9e7757f1dee5ba48b1aa4]: Commencement: [Reg. 51](https://www.legislation.gov.uk/uksi/1997/1509/regulation/51) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
 
-[^key-15d33948fbcfe8c9ce3e74255eb43a16]: Commencement: [Reg. 52](https://www.legislation.gov.uk/uksi/1997/1509/regulation/52) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
+[^c-15d33948fbcfe8c9ce3e74255eb43a16]: Commencement: [Reg. 52](https://www.legislation.gov.uk/uksi/1997/1509/regulation/52) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
 
-[^key-5a420a5b5fa913c0635f3595c80bdc09]: Commencement: [Reg. 53](https://www.legislation.gov.uk/uksi/1997/1509/regulation/53) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
+[^c-5a420a5b5fa913c0635f3595c80bdc09]: Commencement: [Reg. 53](https://www.legislation.gov.uk/uksi/1997/1509/regulation/53) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
 
-[^key-763cb5831e9cf09f9b7a68dca44ddf4c]: Commencement: [Reg. 54](https://www.legislation.gov.uk/uksi/1997/1509/regulation/54) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
+[^c-763cb5831e9cf09f9b7a68dca44ddf4c]: Commencement: [Reg. 54](https://www.legislation.gov.uk/uksi/1997/1509/regulation/54) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
 
-[^key-19259c89a123a85b94b1444adc609ed4]: Textual amendment: [Regs. 54A-54C](https://www.legislation.gov.uk/uksi/1997/1509/regulation/54A) inserted (5.4.1999) by [The Merchant Shipping (Cargo Ship Construction) (Amendment) Regulations 1999 (S.I. 1999/643)](https://www.legislation.gov.uk/uksi/1999/643), [regs. 1](https://www.legislation.gov.uk/uksi/1999/643/regulation/1), [13](https://www.legislation.gov.uk/uksi/1999/643/regulation/13)
+[^c-19259c89a123a85b94b1444adc609ed4]: Textual amendment: [Regs. 54A-54C](https://www.legislation.gov.uk/uksi/1997/1509/regulation/54A) inserted (5.4.1999) by [The Merchant Shipping (Cargo Ship Construction) (Amendment) Regulations 1999 (S.I. 1999/643)](https://www.legislation.gov.uk/uksi/1999/643), [regs. 1](https://www.legislation.gov.uk/uksi/1999/643/regulation/1), [13](https://www.legislation.gov.uk/uksi/1999/643/regulation/13)
 
-[^key-3d3b56bc91cbae412f9f6aedf3346b7e]: Commencement: [Reg. 55](https://www.legislation.gov.uk/uksi/1997/1509/regulation/55) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
+[^c-3d3b56bc91cbae412f9f6aedf3346b7e]: Commencement: [Reg. 55](https://www.legislation.gov.uk/uksi/1997/1509/regulation/55) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
 
-[^key-fcfbf0af459f5f209533428162a29b7f]: Commencement: [Reg. 56](https://www.legislation.gov.uk/uksi/1997/1509/regulation/56) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
+[^c-fcfbf0af459f5f209533428162a29b7f]: Commencement: [Reg. 56](https://www.legislation.gov.uk/uksi/1997/1509/regulation/56) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
 
-[^key-3cf3fe5bb6e2028e1967268170a7a20d]: Commencement: [Reg. 57](https://www.legislation.gov.uk/uksi/1997/1509/regulation/57) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
+[^c-3cf3fe5bb6e2028e1967268170a7a20d]: Commencement: [Reg. 57](https://www.legislation.gov.uk/uksi/1997/1509/regulation/57) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
 
-[^key-bc7e4434852f674bf29338abb9269138]: Textual amendment: Words in [reg. 57(b)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/57/b) omitted (31.12.2020) by virtue of [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 3(3)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bc7e4434852f674bf29338abb9269138]: Textual amendment: Words in [reg. 57(b)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/57/b) omitted (31.12.2020) by virtue of [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 3(3)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-647dd9e821de50078c6b73e1201fee8d]: Textual amendment: [Reg. 58](https://www.legislation.gov.uk/uksi/1997/1509/regulation/58) substituted (5.4.1999) by [The Merchant Shipping (Cargo Ship Construction) (Amendment) Regulations 1999 (S.I. 1999/643)](https://www.legislation.gov.uk/uksi/1999/643), [regs. 1](https://www.legislation.gov.uk/uksi/1999/643/regulation/1), [14](https://www.legislation.gov.uk/uksi/1999/643/regulation/14)
+[^c-647dd9e821de50078c6b73e1201fee8d]: Textual amendment: [Reg. 58](https://www.legislation.gov.uk/uksi/1997/1509/regulation/58) substituted (5.4.1999) by [The Merchant Shipping (Cargo Ship Construction) (Amendment) Regulations 1999 (S.I. 1999/643)](https://www.legislation.gov.uk/uksi/1999/643), [regs. 1](https://www.legislation.gov.uk/uksi/1999/643/regulation/1), [14](https://www.legislation.gov.uk/uksi/1999/643/regulation/14)
 
-[^key-5326560d312b9ef86962c43122974d73]: Commencement: [Reg. 59](https://www.legislation.gov.uk/uksi/1997/1509/regulation/59) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)
+[^c-5326560d312b9ef86962c43122974d73]: Commencement: [Reg. 59](https://www.legislation.gov.uk/uksi/1997/1509/regulation/59) in force at 11.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1509/regulation/1/1)

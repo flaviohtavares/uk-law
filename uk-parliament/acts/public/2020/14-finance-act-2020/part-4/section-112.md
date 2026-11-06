@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 112. Limits on local loans[^key-bad993e91e9f69ecf539a8a243d6b953]
+## 112. Limits on local loans[^c-bad993e91e9f69ecf539a8a243d6b953]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bad993e91e9f69ecf539a8a243d6b953]: Commencement: [S. 112](https://www.legislation.gov.uk/ukpga/2020/14/section/112) in force at 12.5.2022 by [S.I. 2022/531](https://www.legislation.gov.uk/uksi/2022/531), [reg. 2](https://www.legislation.gov.uk/uksi/2022/531/regulation/2)
+[^c-bad993e91e9f69ecf539a8a243d6b953]: Commencement: [S. 112](https://www.legislation.gov.uk/ukpga/2020/14/section/112) in force at 12.5.2022 by [S.I. 2022/531](https://www.legislation.gov.uk/uksi/2022/531), [reg. 2](https://www.legislation.gov.uk/uksi/2022/531/regulation/2)

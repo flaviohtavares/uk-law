@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9A. Contributions towards cost of judicial pension etc[^key-24f8cdd222c1b845e18bb05c1bf6b1c5]
+## 9A. Contributions towards cost of judicial pension etc[^c-24f8cdd222c1b845e18bb05c1bf6b1c5]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-24f8cdd222c1b845e18bb05c1bf6b1c5]: Textual amendment: S. 9A and cross-heading inserted (3.1.2012) by [Pensions Act 2011 (c. 19)](https://www.legislation.gov.uk/ukpga/2011/19), [ss. 34](https://www.legislation.gov.uk/ukpga/2011/19/section/34), [38(4)](https://www.legislation.gov.uk/ukpga/2011/19/section/38/4); [S.I. 2011/3034](https://www.legislation.gov.uk/uksi/2011/3034), [art. 3(g)](https://www.legislation.gov.uk/uksi/2011/3034/article/3/g)
+[^c-24f8cdd222c1b845e18bb05c1bf6b1c5]: Textual amendment: S. 9A and cross-heading inserted (3.1.2012) by [Pensions Act 2011 (c. 19)](https://www.legislation.gov.uk/ukpga/2011/19), [ss. 34](https://www.legislation.gov.uk/ukpga/2011/19/section/34), [38(4)](https://www.legislation.gov.uk/ukpga/2011/19/section/38/4); [S.I. 2011/3034](https://www.legislation.gov.uk/uksi/2011/3034), [art. 3(g)](https://www.legislation.gov.uk/uksi/2011/3034/article/3/g)

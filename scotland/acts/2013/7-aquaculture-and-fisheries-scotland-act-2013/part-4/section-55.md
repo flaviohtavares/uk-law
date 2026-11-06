@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 55. Power to make orders as to fisheries for shellfish[^key-3b8aed30024e294627acb0b924172b58]
+## 55. Power to make orders as to fisheries for shellfish[^c-3b8aed30024e294627acb0b924172b58]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3b8aed30024e294627acb0b924172b58]: Commencement: [S. 55](https://www.legislation.gov.uk/asp/2013/7/section/55) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-3b8aed30024e294627acb0b924172b58]: Commencement: [S. 55](https://www.legislation.gov.uk/asp/2013/7/section/55) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)

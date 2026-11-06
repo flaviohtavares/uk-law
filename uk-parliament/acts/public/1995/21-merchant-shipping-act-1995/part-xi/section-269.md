@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 269. Re-hearing of and appeal from investigations.[^key-0a80c20a0e4b870a16358c0cddcd9c3b]
+## 269. Re-hearing of and appeal from investigations.[^c-0a80c20a0e4b870a16358c0cddcd9c3b]
 
 *Extent: E+W+S+N.I.*
 
 (1) Where a formal investigation has been held under section 268 the Secretary of State may order the whole or part of the case to be re-heard, and shall do so—
 
-- (a)[^key-7f6ec5f901e644902bef6586c3cae9ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) if there appear to the Secretary of State to be [^key-6fe5f5e835424ce41b66c9f2cf3e8b5c]... grounds for suspecting that a miscarriage of justice may have occurred.
+- (a)[^c-7f6ec5f901e644902bef6586c3cae9ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) if there appear to the Secretary of State to be [^c-6fe5f5e835424ce41b66c9f2cf3e8b5c]... grounds for suspecting that a miscarriage of justice may have occurred.
 
 (2) An order under subsection (1) above may provide for the re-hearing to be as follows—
 
@@ -41,8 +41,8 @@ summary: ''
 
 ## Annotations
 
-[^key-0a80c20a0e4b870a16358c0cddcd9c3b]: Modification: [Ss. 267-270](https://www.legislation.gov.uk/ukpga/1995/21/section/267) extended (with modifications) (16.10.2025) by [S.I. 1989/1350](https://www.legislation.gov.uk/uksi/1989/1350), [art. 2](https://www.legislation.gov.uk/uksi/1989/1350/article/2) (as substituted by [The Hovercraft (Application of Enactments) (Amendment) Order 2025 (S.I. 2025/1094)](https://www.legislation.gov.uk/uksi/2025/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1094/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2025/1094/article/2/2))
+[^c-0a80c20a0e4b870a16358c0cddcd9c3b]: Modification: [Ss. 267-270](https://www.legislation.gov.uk/ukpga/1995/21/section/267) extended (with modifications) (16.10.2025) by [S.I. 1989/1350](https://www.legislation.gov.uk/uksi/1989/1350), [art. 2](https://www.legislation.gov.uk/uksi/1989/1350/article/2) (as substituted by [The Hovercraft (Application of Enactments) (Amendment) Order 2025 (S.I. 2025/1094)](https://www.legislation.gov.uk/uksi/2025/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1094/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2025/1094/article/2/2))
 
-[^key-7f6ec5f901e644902bef6586c3cae9ed]: Textual amendment: [S. 269(1)(a)](https://www.legislation.gov.uk/ukpga/1995/21/section/269/1/a) and word omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 55(a)](https://www.legislation.gov.uk/ukpga/2015/20/section/55/a), [115(3)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/e)
+[^c-7f6ec5f901e644902bef6586c3cae9ed]: Textual amendment: [S. 269(1)(a)](https://www.legislation.gov.uk/ukpga/1995/21/section/269/1/a) and word omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 55(a)](https://www.legislation.gov.uk/ukpga/2015/20/section/55/a), [115(3)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/e)
 
-[^key-6fe5f5e835424ce41b66c9f2cf3e8b5c]: Textual amendment: Word in [s. 269(1)(b)](https://www.legislation.gov.uk/ukpga/1995/21/section/269/1/b) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 55(b)](https://www.legislation.gov.uk/ukpga/2015/20/section/55/b), [115(3)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/e)
+[^c-6fe5f5e835424ce41b66c9f2cf3e8b5c]: Textual amendment: Word in [s. 269(1)(b)](https://www.legislation.gov.uk/ukpga/1995/21/section/269/1/b) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 55(b)](https://www.legislation.gov.uk/ukpga/2015/20/section/55/b), [115(3)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/e)

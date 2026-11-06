@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 8. Consent to transfer benefit of Order[^key-dfabe5478397b219021e8918ac7e0470]
+## 8. Consent to transfer benefit of Order[^c-dfabe5478397b219021e8918ac7e0470]
 
 *Extent: E+W+S*
 
@@ -52,7 +52,7 @@ summary: ''
 
 ## Annotations
 
-[^key-dfabe5478397b219021e8918ac7e0470]: Commencement: Art. 8 in force at 10.3.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/157/article/1)
+[^c-dfabe5478397b219021e8918ac7e0470]: Commencement: Art. 8 in force at 10.3.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/157/article/1)
 
 [^f00016]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29).
 

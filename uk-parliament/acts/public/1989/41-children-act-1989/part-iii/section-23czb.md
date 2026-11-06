@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23CZB. England: further advice and support[^key-1969bd5c2ccd0f45ceaad69f78a84f12]
+## 23CZB. England: further advice and support[^c-1969bd5c2ccd0f45ceaad69f78a84f12]
 
 *Extent: E+W*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1969bd5c2ccd0f45ceaad69f78a84f12]: Textual amendment: S. 23CZB inserted (1.4.2018) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [ss. 3(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/3/2), [70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2); [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2018/346/regulation/4/c)
+[^c-1969bd5c2ccd0f45ceaad69f78a84f12]: Textual amendment: S. 23CZB inserted (1.4.2018) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [ss. 3(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/3/2), [70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2); [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2018/346/regulation/4/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 9. Consultation as to inclusion of site omitted from the list[^key-907f36582042a78af96614a196898044]
+## 9. Consultation as to inclusion of site omitted from the list[^c-907f36582042a78af96614a196898044]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-907f36582042a78af96614a196898044]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/1994/2716/regulation/9) omitted (31.12.2020) by virtue of [The Conservation (Natural Habitats, &c.) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/113)](https://www.legislation.gov.uk/ssi/2019/113), [regs. 1](https://www.legislation.gov.uk/ssi/2019/113/regulation/1), [9](https://www.legislation.gov.uk/ssi/2019/113/regulation/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-907f36582042a78af96614a196898044]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/1994/2716/regulation/9) omitted (31.12.2020) by virtue of [The Conservation (Natural Habitats, &c.) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/113)](https://www.legislation.gov.uk/ssi/2019/113), [regs. 1](https://www.legislation.gov.uk/ssi/2019/113/regulation/1), [9](https://www.legislation.gov.uk/ssi/2019/113/regulation/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

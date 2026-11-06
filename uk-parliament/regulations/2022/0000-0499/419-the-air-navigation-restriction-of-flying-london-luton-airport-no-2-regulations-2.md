@@ -31,7 +31,7 @@ summary: ''
 
 Civil Aviation
 
-The Air Navigation (Restriction of Flying) (London Luton Airport) (No. 2) Regulations 2022 (revoked)[^key-64be9221ef14978f4c70bfdd1d313447]
+The Air Navigation (Restriction of Flying) (London Luton Airport) (No. 2) Regulations 2022 (revoked)[^c-64be9221ef14978f4c70bfdd1d313447]
 
 Made
 
@@ -39,19 +39,19 @@ at 10.15 p.m. on 1st April 2022
 
 Coming into force with immediate effect
 
-[^key-64be9221ef14978f4c70bfdd1d313447]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-64be9221ef14978f4c70bfdd1d313447]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-64be9221ef14978f4c70bfdd1d313447]
+## 1. Citation and commencement[^c-64be9221ef14978f4c70bfdd1d313447]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Restricted airspace[^key-64be9221ef14978f4c70bfdd1d313447]
+## 2. Restricted airspace[^c-64be9221ef14978f4c70bfdd1d313447]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-64be9221ef14978f4c70bfdd1d313447]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-64be9221ef14978f4c70bfdd1d313447]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
@@ -59,4 +59,4 @@ Coming into force with immediate effect
 
 ## Annotations
 
-[^key-64be9221ef14978f4c70bfdd1d313447]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2022/419) revoked (27.4.2022 at 10.10 a.m.) by [The Air Navigation (Restriction of Flying) (London Luton Airport) (No. 2) (Revocation) Regulations 2022 (S.I. 2022/483)](https://www.legislation.gov.uk/uksi/2022/483), [regs. 1](https://www.legislation.gov.uk/uksi/2022/483/regulation/1), [2](https://www.legislation.gov.uk/uksi/2022/483/regulation/2)
+[^c-64be9221ef14978f4c70bfdd1d313447]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2022/419) revoked (27.4.2022 at 10.10 a.m.) by [The Air Navigation (Restriction of Flying) (London Luton Airport) (No. 2) (Revocation) Regulations 2022 (S.I. 2022/483)](https://www.legislation.gov.uk/uksi/2022/483), [regs. 1](https://www.legislation.gov.uk/uksi/2022/483/regulation/1), [2](https://www.legislation.gov.uk/uksi/2022/483/regulation/2)

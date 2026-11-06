@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 293. Procedure of the Appeals Commission[^c20621311][^c20621291][^c22549221][^c22549231][^key-8899264e50a59e889bdd1414d46552d5]
+## 293. Procedure of the Appeals Commission[^c20621311][^c20621291][^c22549221][^c22549231][^c-8899264e50a59e889bdd1414d46552d5]
 
 *Extent: N.I.*
 
@@ -66,8 +66,8 @@ of that decision.
 - (b) Article 20(3)(h) of that Order (abstraction and impounding of water);
 - (c) Article 32(5) of that Order (exclusion from register of confidential information).
 - (d)[^c22549181] the Marine Licensing (Appeals) Regulations (Northern Ireland) 2011; and
-- (e) the Marine Licensing (Civil Sanctions) Order (Northern Ireland) 2011; and[^key-75ccf4812309b7093eac6ee25082b2b2]
-- (f)[^key-14eaa1fdf15fe354ed77b4265ae013f9] The Marine Conservation (Fixed Monetary Penalties) Order (Northern Ireland) 2015.
+- (e) the Marine Licensing (Civil Sanctions) Order (Northern Ireland) 2011; and[^c-75ccf4812309b7093eac6ee25082b2b2]
+- (f)[^c-14eaa1fdf15fe354ed77b4265ae013f9] The Marine Conservation (Fixed Monetary Penalties) Order (Northern Ireland) 2015.
 
 (10) This paragraph applies to a decision by the Appeals Commission under—
 
@@ -89,7 +89,7 @@ the Appeals Commission may regulate its own procedure.
 (14) In this Article—
 
 - “**the Office**” means the Office of the First Minister and deputy First Minister;
-- “**the relevant department**”, in relation to any decision of the Appeals Commission, means the Northern Ireland department that has functions under, or in relation to, the statutory provision conferring jurisdiction on the Commission to make that decision.[^key-f179e9510991c57298d31dc761be7775]
+- “**the relevant department**”, in relation to any decision of the Appeals Commission, means the Northern Ireland department that has functions under, or in relation to, the statutory provision conferring jurisdiction on the Commission to make that decision.[^c-f179e9510991c57298d31dc761be7775]
 
 ## Annotations
 
@@ -101,12 +101,12 @@ the Appeals Commission may regulate its own procedure.
 
 [^c22549231]: Modification: Art. 293 applied (6.4.2011) by [Marine Licensing (Civil Sanctions) Order (Northern Ireland) 2011 (S.R. 2011/81)](https://www.legislation.gov.uk/nisr/2011/81), [art. 28(1)](https://www.legislation.gov.uk/nisr/2011/81/article/28/1)
 
-[^key-8899264e50a59e889bdd1414d46552d5]: Modification: Arts. 292 293: transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/nisr/2016/76/schedule/1/part/5) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-8899264e50a59e889bdd1414d46552d5]: Modification: Arts. 292 293: transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/nisr/2016/76/schedule/1/part/5) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
 [^c22549181]: Textual amendment: Art. 293(9)(d)(e) added (6.4.2011) by [Marine Licensing (Appeals) Regulations (Northern Ireland) 2011 (S.R. 2011/80)](https://www.legislation.gov.uk/nisr/2011/80), [reg. 9(2)](https://www.legislation.gov.uk/nisr/2011/80/regulation/9/2)
 
-[^key-75ccf4812309b7093eac6ee25082b2b2]: Textual amendment: Words in art. 293(9)(e) substituted (19.6.2015) by [The Marine Conservation (Fixed Monetary Penalties) Order (Northern Ireland) 2015 (S.R. 2015/279)](https://www.legislation.gov.uk/nisr/2015/279), [arts. 1](https://www.legislation.gov.uk/nisr/2015/279/article/1), [20(2)(a)](https://www.legislation.gov.uk/nisr/2015/279/article/20/2/a)
+[^c-75ccf4812309b7093eac6ee25082b2b2]: Textual amendment: Words in art. 293(9)(e) substituted (19.6.2015) by [The Marine Conservation (Fixed Monetary Penalties) Order (Northern Ireland) 2015 (S.R. 2015/279)](https://www.legislation.gov.uk/nisr/2015/279), [arts. 1](https://www.legislation.gov.uk/nisr/2015/279/article/1), [20(2)(a)](https://www.legislation.gov.uk/nisr/2015/279/article/20/2/a)
 
-[^key-14eaa1fdf15fe354ed77b4265ae013f9]: Textual amendment: Art. 293(9)(f) inserted (19.6.2015) by [The Marine Conservation (Fixed Monetary Penalties) Order (Northern Ireland) 2015 (S.R. 2015/279)](https://www.legislation.gov.uk/nisr/2015/279), [arts. 1](https://www.legislation.gov.uk/nisr/2015/279/article/1), [20(2)(b)](https://www.legislation.gov.uk/nisr/2015/279/article/20/2/b)
+[^c-14eaa1fdf15fe354ed77b4265ae013f9]: Textual amendment: Art. 293(9)(f) inserted (19.6.2015) by [The Marine Conservation (Fixed Monetary Penalties) Order (Northern Ireland) 2015 (S.R. 2015/279)](https://www.legislation.gov.uk/nisr/2015/279), [arts. 1](https://www.legislation.gov.uk/nisr/2015/279/article/1), [20(2)(b)](https://www.legislation.gov.uk/nisr/2015/279/article/20/2/b)
 
-[^key-f179e9510991c57298d31dc761be7775]: Textual amendment: Words in [art. 293(14)](https://www.legislation.gov.uk/nisi/2006/3336/article/293/14) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 79](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/79) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-f179e9510991c57298d31dc761be7775]: Textual amendment: Words in [art. 293(14)](https://www.legislation.gov.uk/nisi/2006/3336/article/293/14) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 79](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/79) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))

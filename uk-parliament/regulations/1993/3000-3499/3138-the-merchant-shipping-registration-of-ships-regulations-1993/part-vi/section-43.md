@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Evidence of title on registration of transfer of ship[^key-b33c6ce27a58402697689c1817f1e4e8]
+## 43. Evidence of title on registration of transfer of ship[^c-b33c6ce27a58402697689c1817f1e4e8]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b33c6ce27a58402697689c1817f1e4e8]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/1993/3138/regulation/43) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
+[^c-b33c6ce27a58402697689c1817f1e4e8]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/1993/3138/regulation/43) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)

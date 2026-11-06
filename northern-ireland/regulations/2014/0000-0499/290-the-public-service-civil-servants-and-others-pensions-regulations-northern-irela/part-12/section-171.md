@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 171. Payment on behalf of members of lifetime allowance charge[^key-32de58ca49fa58cad40305f2b9cf237b]
+## 171. Payment on behalf of members of lifetime allowance charge[^c-32de58ca49fa58cad40305f2b9cf237b]
 
 *Extent: N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-32de58ca49fa58cad40305f2b9cf237b]: Commencement: [Reg. 171](https://www.legislation.gov.uk/nisr/2014/290/regulation/171) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-32de58ca49fa58cad40305f2b9cf237b]: Commencement: [Reg. 171](https://www.legislation.gov.uk/nisr/2014/290/regulation/171) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
 
 [^f00091]: Footnote: Section 216(1) was amended by the Finance Act [2005 (c.7)](https://www.legislation.gov.uk/ukpga/2005/7) Schedule 10 paragraphs 1, 31 and 42; the Finance Act [2006 (c.25)](https://www.legislation.gov.uk/ukpga/2006/25) Schedule 23 paragraphs 1 and 30; the Finance Act [2008 (c.9)](https://www.legislation.gov.uk/ukpga/2008/9) Schedule 29 paragraphs 1, 4 and 5; and the Finance Act [2011 (c.11)](https://www.legislation.gov.uk/ukpga/2011/11) Schedule 16 paragraphs 43, 62, 73 and 104

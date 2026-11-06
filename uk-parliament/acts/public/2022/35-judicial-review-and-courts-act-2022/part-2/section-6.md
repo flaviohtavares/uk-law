@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Written procedure for indicating plea and determining mode of trial: adults[^key-bc2c667fa2c9326d13350bd4f9ea2380]
+## 6. Written procedure for indicating plea and determining mode of trial: adults[^c-bc2c667fa2c9326d13350bd4f9ea2380]
 
 *Extent: E+W+S+N.I.*
 
@@ -247,4 +247,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bc2c667fa2c9326d13350bd4f9ea2380]: Commencement: S. 6 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-bc2c667fa2c9326d13350bd4f9ea2380]: Commencement: S. 6 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)

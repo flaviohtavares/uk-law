@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 59. Electoral Commission’s annual report[^key-5ea7b3829a445922d7ac2d7e93869b93][^key-343c025af4ac33e1e14223125105ef72]
+## 59. Electoral Commission’s annual report[^c-5ea7b3829a445922d7ac2d7e93869b93][^c-343c025af4ac33e1e14223125105ef72]
 
 *Extent: S*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5ea7b3829a445922d7ac2d7e93869b93]: Commencement: S. 59 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
+[^c-5ea7b3829a445922d7ac2d7e93869b93]: Commencement: S. 59 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
 
-[^key-343c025af4ac33e1e14223125105ef72]: Commencement: [S. 59](https://www.legislation.gov.uk/asp/2025/4/section/59) in force at 17.11.2025 by [S.S.I. 2025/260](https://www.legislation.gov.uk/ssi/2025/260), [reg. 3](https://www.legislation.gov.uk/ssi/2025/260/regulation/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/260/schedule/part/1)
+[^c-343c025af4ac33e1e14223125105ef72]: Commencement: [S. 59](https://www.legislation.gov.uk/asp/2025/4/section/59) in force at 17.11.2025 by [S.S.I. 2025/260](https://www.legislation.gov.uk/ssi/2025/260), [reg. 3](https://www.legislation.gov.uk/ssi/2025/260/regulation/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/260/schedule/part/1)

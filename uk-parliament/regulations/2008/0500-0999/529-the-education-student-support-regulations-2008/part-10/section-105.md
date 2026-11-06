@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105. General[^key-c65199bb154e3b2ad2c78cda7f9f54a4]
+## 105. General[^c-c65199bb154e3b2ad2c78cda7f9f54a4]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c65199bb154e3b2ad2c78cda7f9f54a4]: Commencement: Reg. 105 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-c65199bb154e3b2ad2c78cda7f9f54a4]: Commencement: Reg. 105 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

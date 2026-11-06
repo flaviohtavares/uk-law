@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60B. Changes in control of registered cryptoasset businesses[^key-a8fc2fa82974fff49b7d9f5f7952f843]
+## 60B. Changes in control of registered cryptoasset businesses[^c-a8fc2fa82974fff49b7d9f5f7952f843]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 6B applies to an acquisition of or increase in control over a registere
 
 ## Annotations
 
-[^key-a8fc2fa82974fff49b7d9f5f7952f843]: Textual amendment: [Reg. 60B](https://www.legislation.gov.uk/uksi/2017/692/regulation/60B) inserted (11.8.2022) by [The Money Laundering and Terrorist Financing (Amendment) (No. 2) Regulations 2022 (S.I. 2022/860)](https://www.legislation.gov.uk/uksi/2022/860), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2022/860/regulation/1/2/c), [12(3)](https://www.legislation.gov.uk/uksi/2022/860/regulation/12/3)
+[^c-a8fc2fa82974fff49b7d9f5f7952f843]: Textual amendment: [Reg. 60B](https://www.legislation.gov.uk/uksi/2017/692/regulation/60B) inserted (11.8.2022) by [The Money Laundering and Terrorist Financing (Amendment) (No. 2) Regulations 2022 (S.I. 2022/860)](https://www.legislation.gov.uk/uksi/2022/860), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2022/860/regulation/1/2/c), [12(3)](https://www.legislation.gov.uk/uksi/2022/860/regulation/12/3)

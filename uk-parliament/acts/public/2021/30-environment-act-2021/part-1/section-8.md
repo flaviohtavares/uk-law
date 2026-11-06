@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Environmental improvement plans[^key-4e1f6d1995686c3092a34965fb859f2c][^key-e90408faa7862551693f2698c076b891]
+## 8. Environmental improvement plans[^c-4e1f6d1995686c3092a34965fb859f2c][^c-e90408faa7862551693f2698c076b891]
 
 *Extent: E+W*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4e1f6d1995686c3092a34965fb859f2c]: Commencement: S. 8 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-4e1f6d1995686c3092a34965fb859f2c]: Commencement: S. 8 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-e90408faa7862551693f2698c076b891]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2021/30/section/8) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/b)
+[^c-e90408faa7862551693f2698c076b891]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2021/30/section/8) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/b)

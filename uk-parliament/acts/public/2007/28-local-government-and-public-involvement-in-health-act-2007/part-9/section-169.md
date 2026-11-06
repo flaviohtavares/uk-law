@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 169. Responsibilities of Commissioners[^key-dfc94591cc913d062429ce326e603d9e]
+## 169. Responsibilities of Commissioners[^c-dfc94591cc913d062429ce326e603d9e]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dfc94591cc913d062429ce326e603d9e]: Commencement: S. 169 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(g)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/g)
+[^c-dfc94591cc913d062429ce326e603d9e]: Commencement: S. 169 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(g)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/g)

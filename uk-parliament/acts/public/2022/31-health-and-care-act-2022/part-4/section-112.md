@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 112. Criteria, principles and processes[^key-ee33075b6c3caa392f2b799dc974d7cf][^key-4076d1e79bd39b3b2d7b6d113ba4080f]
+## 112. Criteria, principles and processes[^c-ee33075b6c3caa392f2b799dc974d7cf][^c-4076d1e79bd39b3b2d7b6d113ba4080f]
 
 *Extent: E+W*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ee33075b6c3caa392f2b799dc974d7cf]: Commencement: S. 112 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-ee33075b6c3caa392f2b799dc974d7cf]: Commencement: S. 112 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-4076d1e79bd39b3b2d7b6d113ba4080f]: Commencement: [S. 112](https://www.legislation.gov.uk/ukpga/2022/31/section/112) in force at 1.10.2023 by [S.I. 2023/1035](https://www.legislation.gov.uk/uksi/2023/1035), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1035/regulation/2/a)
+[^c-4076d1e79bd39b3b2d7b6d113ba4080f]: Commencement: [S. 112](https://www.legislation.gov.uk/ukpga/2022/31/section/112) in force at 1.10.2023 by [S.I. 2023/1035](https://www.legislation.gov.uk/uksi/2023/1035), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1035/regulation/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Correction or change of name or address; correction of address for service[^key-81935e460b7e397f639771213d1fc4f5]
+## 49. Correction or change of name or address; correction of address for service[^c-81935e460b7e397f639771213d1fc4f5]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,13 +37,13 @@ summary: ''
 
 (5) If the comptroller has no doubts (or no longer has doubts) about whether he should make the correction, he must enter the correction in the register or make it to the application or document.
 
-(6)[^key-14a9fb05f846facbb58861393e759f9a] For the purposes of this rule a request for a correction includes—
+(6)[^c-14a9fb05f846facbb58861393e759f9a] For the purposes of this rule a request for a correction includes—
 
 - (a) a correction made for the purposes of section 117; and
 - (b) a change to any of the matters listed in paragraph (1)(a) or (b) in respect of an entry recorded in the register or made to any application or other document filed at the Patent Office.
 
 ## Annotations
 
-[^key-81935e460b7e397f639771213d1fc4f5]: Textual amendment: Words in [rule 49](https://www.legislation.gov.uk/uksi/2007/3291/rule/49) heading substituted (1.10.2016) by [The Patents (Amendment) (No. 2) Rules 2016 (S.I. 2016/892)](https://www.legislation.gov.uk/uksi/2016/892), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/892/rule/1/2), [10(a)](https://www.legislation.gov.uk/uksi/2016/892/rule/10/a)
+[^c-81935e460b7e397f639771213d1fc4f5]: Textual amendment: Words in [rule 49](https://www.legislation.gov.uk/uksi/2007/3291/rule/49) heading substituted (1.10.2016) by [The Patents (Amendment) (No. 2) Rules 2016 (S.I. 2016/892)](https://www.legislation.gov.uk/uksi/2016/892), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/892/rule/1/2), [10(a)](https://www.legislation.gov.uk/uksi/2016/892/rule/10/a)
 
-[^key-14a9fb05f846facbb58861393e759f9a]: Textual amendment: [Rule 49(6)](https://www.legislation.gov.uk/uksi/2007/3291/rule/49/6) substituted (1.10.2016) by [The Patents (Amendment) (No. 2) Rules 2016 (S.I. 2016/892)](https://www.legislation.gov.uk/uksi/2016/892), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/892/rule/1/2), [10(b)](https://www.legislation.gov.uk/uksi/2016/892/rule/10/b)
+[^c-14a9fb05f846facbb58861393e759f9a]: Textual amendment: [Rule 49(6)](https://www.legislation.gov.uk/uksi/2007/3291/rule/49/6) substituted (1.10.2016) by [The Patents (Amendment) (No. 2) Rules 2016 (S.I. 2016/892)](https://www.legislation.gov.uk/uksi/2016/892), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/892/rule/1/2), [10(b)](https://www.legislation.gov.uk/uksi/2016/892/rule/10/b)

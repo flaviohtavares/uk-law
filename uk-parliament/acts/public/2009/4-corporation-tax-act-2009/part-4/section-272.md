@@ -27,8 +27,8 @@ summary: ''
 
 (2) In calculating the amount of rent receivable in connection with a UK section 39(4) concern, a deduction is allowed for the sum for the accounting period.
 
-(3)[^key-be674608f06f4bb6652e961cce417923] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-be674608f06f4bb6652e961cce417923] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-be674608f06f4bb6652e961cce417923]: Textual amendment: S. 272(3) omitted (with effect in accordance with Sch. 39 para. 44(3) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 44(2)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/44/2)
+[^c-be674608f06f4bb6652e961cce417923]: Textual amendment: S. 272(3) omitted (with effect in accordance with Sch. 39 para. 44(3) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 44(2)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/44/2)

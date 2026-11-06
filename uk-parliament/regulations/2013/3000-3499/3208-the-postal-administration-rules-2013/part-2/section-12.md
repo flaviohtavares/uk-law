@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. The hearing[^key-f20e7c231d8afd1b9114e9bf76c729d0]
+## 12. The hearing[^c-f20e7c231d8afd1b9114e9bf76c729d0]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f20e7c231d8afd1b9114e9bf76c729d0]: Commencement: [Rule 12](https://www.legislation.gov.uk/uksi/2013/3208/rule/12) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-f20e7c231d8afd1b9114e9bf76c729d0]: Commencement: [Rule 12](https://www.legislation.gov.uk/uksi/2013/3208/rule/12) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

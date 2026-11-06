@@ -55,7 +55,7 @@ The Welsh Ministers, in exercise of the powers conferred on the National Assembl
 
 In paragraph 4 of Schedule 2 to the Education (School Teacher's Qualifications) (Wales) Regulations 2004 [^c18928271] for the words “Article 3 of Council Directive 89/48 EEC on a general system for the recognition of higher-education diplomas awarded on completion of professional education and training of at least three years' duration” substitute “ the European Communities (Recognition of Professional Qualifications) Regulations 2007 ”.
 
-## 3. Amendment to the Education (Induction Arrangements for School Teachers) (Wales) Regulations 2005[^key-d002f895edc64834183bf29ecbe66aea]
+## 3. Amendment to the Education (Induction Arrangements for School Teachers) (Wales) Regulations 2005[^c-d002f895edc64834183bf29ecbe66aea]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -81,6 +81,6 @@ These Regulations also substitute for reference in the Head Teachers' Qualificat
 
 [^c18928271]: Marginal citation: [S.I. 2004/1729](https://www.legislation.gov.uk/uksi/2004/1729) (W.173).
 
-[^key-d002f895edc64834183bf29ecbe66aea]: Textual amendment: Reg. 3 revoked (1.4.2015) by [The Education (Induction Arrangements for School Teachers) (Wales) Regulations 2015 (S.I. 2015/484)](https://www.legislation.gov.uk/wsi/2015/484), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/484/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/wsi/2015/484/schedule/1)
+[^c-d002f895edc64834183bf29ecbe66aea]: Textual amendment: Reg. 3 revoked (1.4.2015) by [The Education (Induction Arrangements for School Teachers) (Wales) Regulations 2015 (S.I. 2015/484)](https://www.legislation.gov.uk/wsi/2015/484), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/484/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/wsi/2015/484/schedule/1)
 
 [^c18928291]: Marginal citation: [S.I. 2005/1227](https://www.legislation.gov.uk/uksi/2005/1227) (W.85).

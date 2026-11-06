@@ -16,21 +16,21 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Interpretation and application of Part 3[^key-370df2fa8c506ed9c6ded0a88e53f48c]
+## 11. Interpretation and application of Part 3[^c-370df2fa8c506ed9c6ded0a88e53f48c]
 
 *Extent: E+W*
 
 (1) In this Part—
 
-- “consultation bodies” has the meaning given in regulation 15 *(Extent: E)* *(affected by repeal, see note)*[^key-e154f4f2976bf0acf4aeeda45b61a89d] regulation 16 *(Extent: E)*;
+- “consultation bodies” has the meaning given in regulation 15 *(Extent: E)* *(affected by repeal, see note)*[^c-e154f4f2976bf0acf4aeeda45b61a89d] regulation 16 *(Extent: E)*;
 - “differential rate” has the meaning given in regulation 13;
-- “draft infrastructure list” means a draft of the list that the charging authority intends to publish as their infrastructure list;[^key-06d78e8e50c60f28062ce01fd082cd56]
+- “draft infrastructure list” means a draft of the list that the charging authority intends to publish as their infrastructure list;[^c-06d78e8e50c60f28062ce01fd082cd56]
 - “independent person” means—
   - (a) an examiner appointed under section 212(1) of PA 2008, or
   - (b) a person appointed under section 212(3) of PA 2008 to assist an examiner;
 - “relevant consenting authorities” means—
   - (a) the Secretary of State,
-  - (b) [^key-49d223d4b45e601f73243f0c69496080]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (b) [^c-49d223d4b45e601f73243f0c69496080]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (c) the Mayor, if the charging schedule has been approved by a London borough council,
   - (d) each London borough council, if the charging schedule has been approved by the Mayor,
   - (e) each county council whose area includes any part of the area to which the charging schedule applies, and
@@ -45,10 +45,10 @@ summary: ''
 
 ## Annotations
 
-[^key-370df2fa8c506ed9c6ded0a88e53f48c]: Commencement: Reg. 11 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
+[^c-370df2fa8c506ed9c6ded0a88e53f48c]: Commencement: Reg. 11 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
 
-[^key-e154f4f2976bf0acf4aeeda45b61a89d]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/uksi/2010/948/regulation/11/1) substituted (E.) (1.9.2019) by [The Community Infrastructure Levy (Amendment) (England) (No. 2) Regulations 2019 (S.I. 2019/1103)](https://www.legislation.gov.uk/uksi/2019/1103), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1), [3(1)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/3/1) (with [reg. 13](https://www.legislation.gov.uk/uksi/2019/1103/regulation/13))
+[^c-e154f4f2976bf0acf4aeeda45b61a89d]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/uksi/2010/948/regulation/11/1) substituted (E.) (1.9.2019) by [The Community Infrastructure Levy (Amendment) (England) (No. 2) Regulations 2019 (S.I. 2019/1103)](https://www.legislation.gov.uk/uksi/2019/1103), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1), [3(1)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/3/1) (with [reg. 13](https://www.legislation.gov.uk/uksi/2019/1103/regulation/13))
 
-[^key-06d78e8e50c60f28062ce01fd082cd56]: Textual amendment: Words in [reg. 11](https://www.legislation.gov.uk/uksi/2010/948/regulation/11) inserted (24.2.2014) by [The Community Infrastructure Levy (Amendment) Regulations 2014 (S.I. 2014/385)](https://www.legislation.gov.uk/uksi/2014/385), [regs. 1](https://www.legislation.gov.uk/uksi/2014/385/regulation/1), [5(1)](https://www.legislation.gov.uk/uksi/2014/385/regulation/5/1)
+[^c-06d78e8e50c60f28062ce01fd082cd56]: Textual amendment: Words in [reg. 11](https://www.legislation.gov.uk/uksi/2010/948/regulation/11) inserted (24.2.2014) by [The Community Infrastructure Levy (Amendment) Regulations 2014 (S.I. 2014/385)](https://www.legislation.gov.uk/uksi/2014/385), [regs. 1](https://www.legislation.gov.uk/uksi/2014/385/regulation/1), [5(1)](https://www.legislation.gov.uk/uksi/2014/385/regulation/5/1)
 
-[^key-49d223d4b45e601f73243f0c69496080]: Textual amendment: Words in [reg. 11](https://www.legislation.gov.uk/uksi/2010/948/regulation/11) omitted (1.4.2012) by virtue of [The Localism Act 2011(Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/10/2)
+[^c-49d223d4b45e601f73243f0c69496080]: Textual amendment: Words in [reg. 11](https://www.legislation.gov.uk/uksi/2010/948/regulation/11) omitted (1.4.2012) by virtue of [The Localism Act 2011(Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/10/2)

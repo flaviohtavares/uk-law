@@ -39,30 +39,30 @@ determining, pursuant to Regulation (EU) No 517/2014 of the European Parliament 
 
 (2014/774/EU) (revoked)
 
-[^key-5576d19bb14f4283993f65a9f7b79531]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5576d19bb14f4283993f65a9f7b79531]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Determination of reference values[^key-5576d19bb14f4283993f65a9f7b79531]
+## Article 1. Determination of reference values[^c-5576d19bb14f4283993f65a9f7b79531]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Period of validity[^key-5576d19bb14f4283993f65a9f7b79531]
+## Article 2. Period of validity[^c-5576d19bb14f4283993f65a9f7b79531]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Addressees[^key-5576d19bb14f4283993f65a9f7b79531]
+## Article 3. Addressees[^c-5576d19bb14f4283993f65a9f7b79531]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5576d19bb14f4283993f65a9f7b79531]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5576d19bb14f4283993f65a9f7b79531]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-5576d19bb14f4283993f65a9f7b79531]
+## ANNEX[^c-5576d19bb14f4283993f65a9f7b79531]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5576d19bb14f4283993f65a9f7b79531]: Textual amendment: Decision revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/2)
+[^c-5576d19bb14f4283993f65a9f7b79531]: Textual amendment: Decision revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/2)

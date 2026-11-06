@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. General matters[^key-712983abac73420ae4d4355e7a243257]
+## 32. General matters[^c-712983abac73420ae4d4355e7a243257]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-712983abac73420ae4d4355e7a243257]: Commencement: S. 32 in force at 1.12.2014 by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/2771/article/7/a)
+[^c-712983abac73420ae4d4355e7a243257]: Commencement: S. 32 in force at 1.12.2014 by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/2771/article/7/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 360. Person liable[^key-9fcbd969a94dc1100b1314bd12219e41]
+## 360. Person liable[^c-9fcbd969a94dc1100b1314bd12219e41]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9fcbd969a94dc1100b1314bd12219e41]: Textual amendment: Pt. 3 Ch. 11 omitted (with effect in accordance with Sch. 7 para. 81 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 49](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/49)
+[^c-9fcbd969a94dc1100b1314bd12219e41]: Textual amendment: Pt. 3 Ch. 11 omitted (with effect in accordance with Sch. 7 para. 81 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 49](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/49)

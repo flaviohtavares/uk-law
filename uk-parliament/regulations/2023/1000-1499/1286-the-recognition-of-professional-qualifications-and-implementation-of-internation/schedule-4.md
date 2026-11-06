@@ -24,7 +24,7 @@ Regulation 5
 
 ### PART 1 — Amendments in respect of professions in education
 
-#### 1. Amendments to the Education (School Teachers’ Qualifications) (England) Regulations 2003[^key-bcc783857fe9d65ec826d4c7e36886d3]
+#### 1. Amendments to the Education (School Teachers’ Qualifications) (England) Regulations 2003[^c-bcc783857fe9d65ec826d4c7e36886d3]
 
 (1) The Education (School Teachers’ Qualifications) (England) Regulations 2003 are amended as follows.
 
@@ -46,7 +46,7 @@ Regulation 5
 
     .
 
-#### 2. Amendment to the Education (Induction Arrangements for School Teachers) (England) Regulations 2012[^key-93cdb0f2e2ea622342deeab2d255ef26]
+#### 2. Amendment to the Education (Induction Arrangements for School Teachers) (England) Regulations 2012[^c-93cdb0f2e2ea622342deeab2d255ef26]
 
 (1) Paragraph 10 of Schedule 1 to the Education (Induction Arrangements for School Teachers) (England) Regulations 2012 (employment as a qualified teacher in a relevant school without satisfactory completion of an induction period)[^f00105] is amended as follows.
 
@@ -54,7 +54,7 @@ Regulation 5
 
 ### PART 2 — Amendments in respect of professions in transport
 
-#### 3. Amendments to the Road Traffic (Amendment) Act (Northern Ireland) 2016[^key-71c1d40003dbcb5df7766caf2ba4491e]
+#### 3. Amendments to the Road Traffic (Amendment) Act (Northern Ireland) 2016[^c-71c1d40003dbcb5df7766caf2ba4491e]
 
 (1) The Road Traffic (Amendment) Act (Northern Ireland) 2016[^f00106] is amended as follows.
 
@@ -65,7 +65,7 @@ Regulation 5
 - (c) in inserted paragraph (1ZB)(a)(iii), omit “or an EU temporary motorcycle instructor”; and
 - (d) in inserted paragraph (1ZB)(b), for “approved motorcycle instructor, EU temporary driving instructor and EU temporary motorcycle instructor”, substitute “and “approved motorcycle instructor””.
 
-#### 4. Amendments to the Motor Vehicles (Driving Licences) Regulations 1999[^key-b0ff0026f47acfa73631531b82a19928]
+#### 4. Amendments to the Motor Vehicles (Driving Licences) Regulations 1999[^c-b0ff0026f47acfa73631531b82a19928]
 
 (1) The Motor Vehicles (Driving Licences) Regulations 1999[^f00108] are amended as follows.
 
@@ -108,7 +108,7 @@ Regulation 5
 - (a) in the shoulder note, for “Regulations 60, 60A, 65, 65A and 68” substitute “Regulations 60, 65 and 68”;
 - (b) omit Parts 4 and 5.
 
-#### 5. Amendments to the Motor Cars (Driving Instruction) Regulations 2005[^key-d48ec38dc527b0d38ed00e23110b0f57]
+#### 5. Amendments to the Motor Cars (Driving Instruction) Regulations 2005[^c-d48ec38dc527b0d38ed00e23110b0f57]
 
 (1) The Motor Cars (Driving Instruction) Regulations 2005 are amended as follows.
 
@@ -152,7 +152,7 @@ Regulation 5
 
 (14) Omit Schedule 6A (Form of Badge: Part 2).
 
-#### 6. Amendments to the Road Traffic (Northern Ireland) Order 2007[^key-db37bbbb9c1dde7e493a48b7f268bc6a]
+#### 6. Amendments to the Road Traffic (Northern Ireland) Order 2007[^c-db37bbbb9c1dde7e493a48b7f268bc6a]
 
 (1) The Road Traffic (Northern Ireland) Order 2007 is amended as follows.
 
@@ -242,7 +242,7 @@ Regulation 5
   - (ii) after sub-paragraph (a), insert “or”;
   - (iii) omit sub-paragraph (c) and the “or” preceding it.
 
-#### 7. Amendments to the Driving and Motorcycle Riding Instructors (Recognition of European Professional Qualifications) Regulations 2016[^key-53326821b53fd127ee186ed72e9cb551]
+#### 7. Amendments to the Driving and Motorcycle Riding Instructors (Recognition of European Professional Qualifications) Regulations 2016[^c-53326821b53fd127ee186ed72e9cb551]
 
 (1) The Driving and Motorcycle Riding Instructors (Recognition of European Professional Qualifications) Regulations 2016 are amended as follows.
 
@@ -265,7 +265,7 @@ Regulation 5
 
 (3) Omit regulations 3 and 4.
 
-#### 8. Amendments to the Street Works (Qualifications of Operatives and Supervisors) (England) Regulations 2016[^key-4622be88af83e19186865f3d00e68d6b]
+#### 8. Amendments to the Street Works (Qualifications of Operatives and Supervisors) (England) Regulations 2016[^c-4622be88af83e19186865f3d00e68d6b]
 
 (1) The Street Works (Qualifications of Operatives and Supervisors) (England) Regulations 2016 are amended as follows.
 
@@ -282,7 +282,7 @@ Regulation 5
 
 ### PART 3 — Amendment to the Provision of Services Regulations 2009
 
-#### 9. Amendment to the Provision of Services Regulations 2009[^key-a0c6b73e54a3d9cb3ccad018e4eac596]
+#### 9. Amendment to the Provision of Services Regulations 2009[^c-a0c6b73e54a3d9cb3ccad018e4eac596]
 
 (1) The Provision of Services Regulations 2009[^f00109] are amended as follows.
 
@@ -290,7 +290,7 @@ Regulation 5
 
 ## Annotations
 
-[^key-bcc783857fe9d65ec826d4c7e36886d3]: Commencement: Sch. 4 para. 1 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-bcc783857fe9d65ec826d4c7e36886d3]: Commencement: Sch. 4 para. 1 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00102]: Footnote: Paragraph 8 was substituted by [S.I. 2019/312](https://www.legislation.gov.uk/uksi/2019/312), and amended by [S.I. 2020/1038](https://www.legislation.gov.uk/uksi/2020/1038).
 
@@ -298,28 +298,28 @@ Regulation 5
 
 [^f00104]: Footnote: Paragraph 8A was inserted by [S.I. 2016/1123](https://www.legislation.gov.uk/uksi/2016/1123) as amended by [S.I. 2019/312](https://www.legislation.gov.uk/uksi/2019/312) and [2020/1038](https://www.legislation.gov.uk/uksi/2020/1038).
 
-[^key-93cdb0f2e2ea622342deeab2d255ef26]: Commencement: Sch. 4 para. 2 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-93cdb0f2e2ea622342deeab2d255ef26]: Commencement: Sch. 4 para. 2 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00105]: Footnote: Paragraph 10 was substituted by [S.I. 2019/312](https://www.legislation.gov.uk/uksi/2019/312), and amended by [S.I. 2022/1256](https://www.legislation.gov.uk/uksi/2022/1256).
 
-[^key-71c1d40003dbcb5df7766caf2ba4491e]: Commencement: Sch. 4 para. 3 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-71c1d40003dbcb5df7766caf2ba4491e]: Commencement: Sch. 4 para. 3 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00106]: Footnote: [2016 c. 11](https://www.legislation.gov.uk/ukpga/2016/11).
 
 [^f00107]: Footnote: [S.I. 1981/154 (N.I. 1)](https://www.legislation.gov.uk/nisi/1981/154).
 
-[^key-b0ff0026f47acfa73631531b82a19928]: Commencement: Sch. 4 para. 4 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-b0ff0026f47acfa73631531b82a19928]: Commencement: Sch. 4 para. 4 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00108]: Footnote: [S.I. 1999/2864](https://www.legislation.gov.uk/uksi/1999/2864), as amended by [S.I. 2016/1089](https://www.legislation.gov.uk/uksi/2016/1089). There are other amending instruments but none is relevant to these Regulations.
 
-[^key-d48ec38dc527b0d38ed00e23110b0f57]: Commencement: Sch. 4 para. 5 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-d48ec38dc527b0d38ed00e23110b0f57]: Commencement: Sch. 4 para. 5 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
-[^key-db37bbbb9c1dde7e493a48b7f268bc6a]: Commencement: Sch. 4 para. 6 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-db37bbbb9c1dde7e493a48b7f268bc6a]: Commencement: Sch. 4 para. 6 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
-[^key-53326821b53fd127ee186ed72e9cb551]: Commencement: Sch. 4 para. 7 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-53326821b53fd127ee186ed72e9cb551]: Commencement: Sch. 4 para. 7 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
-[^key-4622be88af83e19186865f3d00e68d6b]: Commencement: Sch. 4 para. 8 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-4622be88af83e19186865f3d00e68d6b]: Commencement: Sch. 4 para. 8 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
-[^key-a0c6b73e54a3d9cb3ccad018e4eac596]: Commencement: Sch. 4 para. 9 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-a0c6b73e54a3d9cb3ccad018e4eac596]: Commencement: Sch. 4 para. 9 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00109]: Footnote: [S.I. 2009/2999](https://www.legislation.gov.uk/uksi/2009/2999); regulation 31(5)(k) was substituted by [S.I. 2018/1329](https://www.legislation.gov.uk/uksi/2018/1329).

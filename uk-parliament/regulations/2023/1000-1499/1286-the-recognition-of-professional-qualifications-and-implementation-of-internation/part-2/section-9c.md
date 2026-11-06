@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9C. Appeal against Law Society of Scotland decision to refuse or cancel registration[^key-7274465269a8c7fdab3d538d3b17be96]
+## 9C. Appeal against Law Society of Scotland decision to refuse or cancel registration[^c-7274465269a8c7fdab3d538d3b17be96]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7274465269a8c7fdab3d538d3b17be96]: Textual amendment: [Regs. 9A-9C](https://www.legislation.gov.uk/uksi/2023/1286/regulation/9A) inserted (1.1.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations 2024 (S.I. 2024/1379)](https://www.legislation.gov.uk/uksi/2024/1379), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/1/4), [9](https://www.legislation.gov.uk/uksi/2024/1379/regulation/9)
+[^c-7274465269a8c7fdab3d538d3b17be96]: Textual amendment: [Regs. 9A-9C](https://www.legislation.gov.uk/uksi/2023/1286/regulation/9A) inserted (1.1.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations 2024 (S.I. 2024/1379)](https://www.legislation.gov.uk/uksi/2024/1379), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/1/4), [9](https://www.legislation.gov.uk/uksi/2024/1379/regulation/9)

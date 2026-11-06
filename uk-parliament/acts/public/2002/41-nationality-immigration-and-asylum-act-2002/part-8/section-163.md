@@ -33,7 +33,7 @@ summary: ''
 - (b) Scotland, and
 - (c) Northern Ireland.
 
-(4)[^key-9d0a6f9bb17343f9fa9effa3e38555b0][^key-0a3fad1b4a4f3c3f1c5ebc1e70ead8ee][^key-804a4813978543105b347e87b7fa427f] Her Majesty may by Order in Council direct that a provision of this Act is to extend, with or without modification or adaptation, to—
+(4)[^c-9d0a6f9bb17343f9fa9effa3e38555b0][^c-0a3fad1b4a4f3c3f1c5ebc1e70ead8ee][^c-804a4813978543105b347e87b7fa427f] Her Majesty may by Order in Council direct that a provision of this Act is to extend, with or without modification or adaptation, to—
 
 - (a) any of the Channel Islands;
 - (b) the Isle of Man.
@@ -42,8 +42,8 @@ summary: ''
 
 ## Annotations
 
-[^key-9d0a6f9bb17343f9fa9effa3e38555b0]: Modification: S. 163(4): power to extend (with modifications) (Channel Islands or Isle of Man) any amendments or repeals made to this Act by 2016 c. 19, to which this section relates (12.5.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [ss.](https://www.legislation.gov.uk/ukpga/2016/19/section) [94(5)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/5), [95(6)(7)(e)](https://www.legislation.gov.uk/ukpga/2016/19/section/95/7/e)
+[^c-9d0a6f9bb17343f9fa9effa3e38555b0]: Modification: S. 163(4): power to extend (with modifications) (Channel Islands or Isle of Man) any amendments or repeals made to this Act by 2016 c. 19, to which this section relates (12.5.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [ss.](https://www.legislation.gov.uk/ukpga/2016/19/section) [94(5)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/5), [95(6)(7)(e)](https://www.legislation.gov.uk/ukpga/2016/19/section/95/7/e)
 
-[^key-0a3fad1b4a4f3c3f1c5ebc1e70ead8ee]: Modification: [S. 163(4)](https://www.legislation.gov.uk/ukpga/2002/41/section/163/4): power extended (28.4.2022) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 86(5)](https://www.legislation.gov.uk/ukpga/2022/36/section/86/5)[(6)(f)](https://www.legislation.gov.uk/ukpga/2022/36/section/86/6/f), [87(3)(c)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/3/c)
+[^c-0a3fad1b4a4f3c3f1c5ebc1e70ead8ee]: Modification: [S. 163(4)](https://www.legislation.gov.uk/ukpga/2002/41/section/163/4): power extended (28.4.2022) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 86(5)](https://www.legislation.gov.uk/ukpga/2022/36/section/86/5)[(6)(f)](https://www.legislation.gov.uk/ukpga/2022/36/section/86/6/f), [87(3)(c)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/3/c)
 
-[^key-804a4813978543105b347e87b7fa427f]: Modification: [S. 163(4)](https://www.legislation.gov.uk/ukpga/2002/41/section/163/4): power extended (2.12.2025) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [ss. 64(5)(6)(c)](https://www.legislation.gov.uk/ukpga/2025/31/section/64/6/c), [65(3)(d)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/d)
+[^c-804a4813978543105b347e87b7fa427f]: Modification: [S. 163(4)](https://www.legislation.gov.uk/ukpga/2002/41/section/163/4): power extended (2.12.2025) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [ss. 64(5)(6)(c)](https://www.legislation.gov.uk/ukpga/2025/31/section/64/6/c), [65(3)(d)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/d)

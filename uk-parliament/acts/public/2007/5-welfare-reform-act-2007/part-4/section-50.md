@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Widowed mother's allowance[^key-4a1e5bf5f807a9f4fb450497c5a2aad4]
+## 50. Widowed mother's allowance[^c-4a1e5bf5f807a9f4fb450497c5a2aad4]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ In section 37(2) of the Contributions and Benefits Act (which links entitlement 
 
 ## Annotations
 
-[^key-4a1e5bf5f807a9f4fb450497c5a2aad4]: Commencement: S. 50 in force at 7.10.2008 by [S.I. 2008/2101](https://www.legislation.gov.uk/uksi/2008/2101), [art. 2(3)(a)](https://www.legislation.gov.uk/uksi/2008/2101/article/2/3/a) (with [art. 3(3)](https://www.legislation.gov.uk/uksi/2008/2101/article/3/3))
+[^c-4a1e5bf5f807a9f4fb450497c5a2aad4]: Commencement: S. 50 in force at 7.10.2008 by [S.I. 2008/2101](https://www.legislation.gov.uk/uksi/2008/2101), [art. 2(3)(a)](https://www.legislation.gov.uk/uksi/2008/2101/article/2/3/a) (with [art. 3(3)](https://www.legislation.gov.uk/uksi/2008/2101/article/3/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 43. Release of child on bail: curfew and electronic monitoring requirements[^key-89ac3901aaa31923093b1f56a4c4eb71]
+## 43. Release of child on bail: curfew and electronic monitoring requirements[^c-89ac3901aaa31923093b1f56a4c4eb71]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ as a condition of bail unless the court considers that, if it did not do so, it 
 
 ## Annotations
 
-[^key-89ac3901aaa31923093b1f56a4c4eb71]: Modification: [Arts. 40-43](https://www.legislation.gov.uk/nisi/2008/1216/article/40) applied (3.12.2014) by [The Criminal Justice and Data Protection (Protocol No. 36) Regulations 2014 (S.I. 2014/3141)](https://www.legislation.gov.uk/uksi/2014/3141), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2014/3141/regulation/1/b), [107(4)(b)](https://www.legislation.gov.uk/uksi/2014/3141/regulation/107/4/b)
+[^c-89ac3901aaa31923093b1f56a4c4eb71]: Modification: [Arts. 40-43](https://www.legislation.gov.uk/nisi/2008/1216/article/40) applied (3.12.2014) by [The Criminal Justice and Data Protection (Protocol No. 36) Regulations 2014 (S.I. 2014/3141)](https://www.legislation.gov.uk/uksi/2014/3141), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2014/3141/regulation/1/b), [107(4)(b)](https://www.legislation.gov.uk/uksi/2014/3141/regulation/107/4/b)

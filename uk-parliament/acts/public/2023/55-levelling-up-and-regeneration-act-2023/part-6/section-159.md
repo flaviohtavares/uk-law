@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 159. Exemptions for national defence and civil emergency etc[^key-c1babc3a7241df2a162f4414554a99bd]
+## 159. Exemptions for national defence and civil emergency etc[^c-c1babc3a7241df2a162f4414554a99bd]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c1babc3a7241df2a162f4414554a99bd]: Commencement: [S. 159](https://www.legislation.gov.uk/ukpga/2023/55/section/159) in force at 26.12.2023, see [s. 255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5)
+[^c-c1babc3a7241df2a162f4414554a99bd]: Commencement: [S. 159](https://www.legislation.gov.uk/ukpga/2023/55/section/159) in force at 26.12.2023, see [s. 255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5)

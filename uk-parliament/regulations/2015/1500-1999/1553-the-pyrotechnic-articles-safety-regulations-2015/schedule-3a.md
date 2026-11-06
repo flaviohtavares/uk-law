@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3A — Declaration of Conformity (Annex III to the Directive)[^key-22a999b9f863a1d287e2d47624e47949]
+## SCHEDULE 3A — Declaration of Conformity (Annex III to the Directive)[^c-22a999b9f863a1d287e2d47624e47949]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ Signed for and on behalf of:
 
 ## Annotations
 
-[^key-22a999b9f863a1d287e2d47624e47949]: Textual amendment: [Sch. 3A](https://www.legislation.gov.uk/uksi/2015/1553/schedule/3A) inserted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 19 para. 41](https://www.legislation.gov.uk/uksi/2019/696/schedule/19/paragraph/41) (with [Sch. 19 para. 36](https://www.legislation.gov.uk/uksi/2019/696/schedule/19/paragraph/36)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-22a999b9f863a1d287e2d47624e47949]: Textual amendment: [Sch. 3A](https://www.legislation.gov.uk/uksi/2015/1553/schedule/3A) inserted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 19 para. 41](https://www.legislation.gov.uk/uksi/2019/696/schedule/19/paragraph/41) (with [Sch. 19 para. 36](https://www.legislation.gov.uk/uksi/2019/696/schedule/19/paragraph/36)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

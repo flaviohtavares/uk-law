@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Value added tax in Northern Ireland[^c24415721][^key-08dfd3dcb2d0e3f622e7052a09e6ac1d]
+## 3. Value added tax in Northern Ireland[^c24415721][^c-08dfd3dcb2d0e3f622e7052a09e6ac1d]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 [^c24415721]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2020/26/section/3) in force at Royal Assent for specified purposes, see [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e)
 
-[^key-08dfd3dcb2d0e3f622e7052a09e6ac1d]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2020/26/section/3) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-08dfd3dcb2d0e3f622e7052a09e6ac1d]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2020/26/section/3) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)

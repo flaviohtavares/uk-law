@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24ZJ. Inspectors' reports etc[^key-a299d3cfcfb3b363df58268cdfc36553]
+## 24ZJ. Inspectors' reports etc[^c-a299d3cfcfb3b363df58268cdfc36553]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a299d3cfcfb3b363df58268cdfc36553]: Textual amendment: [Ss. 24ZH-24ZK](https://www.legislation.gov.uk/ukpga/1992/52/section/24ZH) omitted (1.4.2022) by virtue of [Trade Union Act 2016 (c. 15)](https://www.legislation.gov.uk/ukpga/2016/15), [s. 25(1)](https://www.legislation.gov.uk/ukpga/2016/15/section/25/1), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2016/15/schedule/4/paragraph/1); [S.I. 2021/1373](https://www.legislation.gov.uk/uksi/2021/1373), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2021/1373/regulation/4/e)
+[^c-a299d3cfcfb3b363df58268cdfc36553]: Textual amendment: [Ss. 24ZH-24ZK](https://www.legislation.gov.uk/ukpga/1992/52/section/24ZH) omitted (1.4.2022) by virtue of [Trade Union Act 2016 (c. 15)](https://www.legislation.gov.uk/ukpga/2016/15), [s. 25(1)](https://www.legislation.gov.uk/ukpga/2016/15/section/25/1), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2016/15/schedule/4/paragraph/1); [S.I. 2021/1373](https://www.legislation.gov.uk/uksi/2021/1373), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2021/1373/regulation/4/e)

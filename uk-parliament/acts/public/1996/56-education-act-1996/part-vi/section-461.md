@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 461. Recovery of sums as civil debt.[^key-06dd79d0f477f057e7be418e2e48584c]
+## 461. Recovery of sums as civil debt.[^c-06dd79d0f477f057e7be418e2e48584c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Any sum payable under section 453(2), 455 or 458 by the parent of a registered p
 
 ## Annotations
 
-[^key-06dd79d0f477f057e7be418e2e48584c]: Modification: Pt. 6 Ch. 3 modified (1.9.2013) by [The Operation of the Local Curriculum (Wales) Regulations 2013 (S.I. 2013/1793)](https://www.legislation.gov.uk/wsi/2013/1793), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2013/1793/regulation/1/1), [6(3)](https://www.legislation.gov.uk/wsi/2013/1793/regulation/6/3)
+[^c-06dd79d0f477f057e7be418e2e48584c]: Modification: Pt. 6 Ch. 3 modified (1.9.2013) by [The Operation of the Local Curriculum (Wales) Regulations 2013 (S.I. 2013/1793)](https://www.legislation.gov.uk/wsi/2013/1793), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2013/1793/regulation/1/1), [6(3)](https://www.legislation.gov.uk/wsi/2013/1793/regulation/6/3)

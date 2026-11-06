@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 145. Vape-free places in England[^key-5f116407517d2d2f2eb15414b767a59f]
+## 145. Vape-free places in England[^c-5f116407517d2d2f2eb15414b767a59f]
 
 *Extent: E+W+S+N.I.*
 
@@ -126,4 +126,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5f116407517d2d2f2eb15414b767a59f]: Commencement: S. 145 not in force at Royal Assent, see [s. 176(3)(a)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/a)
+[^c-5f116407517d2d2f2eb15414b767a59f]: Commencement: S. 145 not in force at Royal Assent, see [s. 176(3)(a)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/a)

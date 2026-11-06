@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 213. Offence under the Obscene Publications Act 1959: OFCOM defence[^key-c05afb4b0001b60d935fc8a8329c2c06][^key-406ee75597dc8d5d7b58bd399e003c3d]
+## 213. Offence under the Obscene Publications Act 1959: OFCOM defence[^c-c05afb4b0001b60d935fc8a8329c2c06][^c-406ee75597dc8d5d7b58bd399e003c3d]
 
 *Extent: E+W*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c05afb4b0001b60d935fc8a8329c2c06]: Commencement: S. 213 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-c05afb4b0001b60d935fc8a8329c2c06]: Commencement: S. 213 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-406ee75597dc8d5d7b58bd399e003c3d]: Commencement: [S. 213](https://www.legislation.gov.uk/ukpga/2023/50/section/213) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z30)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z30)
+[^c-406ee75597dc8d5d7b58bd399e003c3d]: Commencement: [S. 213](https://www.legislation.gov.uk/ukpga/2023/50/section/213) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z30)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z30)

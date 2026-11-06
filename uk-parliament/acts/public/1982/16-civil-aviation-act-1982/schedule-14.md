@@ -52,7 +52,7 @@ Section 109.
 
 ### Lighthouse authorities
 
-**7.** The rights, powers and privileges of any general or local lighthouse authority shall not be prejudiced by, or by an instrument under, any of the following provisions of this Act, that is to say, sections 39, 41, 43, 47, 60, 62, 73 to 77, [^key-5bb8a52083119a7aa99d2120f9bfce36]... 87, 89, 96, 97 and 107(2).
+**7.** The rights, powers and privileges of any general or local lighthouse authority shall not be prejudiced by, or by an instrument under, any of the following provisions of this Act, that is to say, sections 39, 41, 43, 47, 60, 62, 73 to 77, [^c-5bb8a52083119a7aa99d2120f9bfce36]... 87, 89, 96, 97 and 107(2).
 
 ### The Hovercraft Act 1968
 
@@ -93,7 +93,7 @@ and notwithstanding that repeal, the valuation roll and valuation lists to which
 
 [^c2548001]: Marginal citation: [1949 c. 67](https://www.legislation.gov.uk/ukpga/1949/67).
 
-[^key-5bb8a52083119a7aa99d2120f9bfce36]: Textual amendment: Reference in [Sch. 14 para. 7](https://www.legislation.gov.uk/ukpga/1982/16/schedule/14/paragraph/7) omitted (19.2.2013) by virtue of [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [ss. 106(7)](https://www.legislation.gov.uk/ukpga/2012/19/section/106/7), [110(3)(e)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/3/e) (with [Sch. 10 paras. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17))
+[^c-5bb8a52083119a7aa99d2120f9bfce36]: Textual amendment: Reference in [Sch. 14 para. 7](https://www.legislation.gov.uk/ukpga/1982/16/schedule/14/paragraph/7) omitted (19.2.2013) by virtue of [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [ss. 106(7)](https://www.legislation.gov.uk/ukpga/2012/19/section/106/7), [110(3)(e)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/3/e) (with [Sch. 10 paras. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17))
 
 [^c2548011]: Marginal citation: [1968 c. 59](https://www.legislation.gov.uk/ukpga/1968/59).
 

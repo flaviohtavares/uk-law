@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 93. Record of examination[^key-6f896e3e0f742e610779f94e72ac52b8]
+## 93. Record of examination[^c-6f896e3e0f742e610779f94e72ac52b8]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6f896e3e0f742e610779f94e72ac52b8]: Commencement: [Rule 93](https://www.legislation.gov.uk/uksi/2007/3141/rule/93) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-6f896e3e0f742e610779f94e72ac52b8]: Commencement: [Rule 93](https://www.legislation.gov.uk/uksi/2007/3141/rule/93) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

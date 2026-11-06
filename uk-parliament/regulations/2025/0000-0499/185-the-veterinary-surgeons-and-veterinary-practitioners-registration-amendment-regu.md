@@ -31,7 +31,7 @@ summary: ''
 
 VETERINARY SURGEONS
 
-The Veterinary Surgeons and Veterinary Practitioners (Registration) (Amendment) Regulations Order of Council 2025 (revoked)[^key-d1b61e9fe51e84d864d215baa498e5c9]
+The Veterinary Surgeons and Veterinary Practitioners (Registration) (Amendment) Regulations Order of Council 2025 (revoked)[^c-d1b61e9fe51e84d864d215baa498e5c9]
 
 Made
 
@@ -45,35 +45,35 @@ At the Council Chamber, Whitehall, the 17th day of February 2025
 
 By the Lords of His Majesty’s Most Honourable Privy Council
 
-[^key-d1b61e9fe51e84d864d215baa498e5c9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d1b61e9fe51e84d864d215baa498e5c9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-d1b61e9fe51e84d864d215baa498e5c9]
+## 1. Citation and commencement[^c-d1b61e9fe51e84d864d215baa498e5c9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Approval[^key-d1b61e9fe51e84d864d215baa498e5c9]
+## 2. Approval[^c-d1b61e9fe51e84d864d215baa498e5c9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-d1b61e9fe51e84d864d215baa498e5c9]
+## 3. Revocation[^c-d1b61e9fe51e84d864d215baa498e5c9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d1b61e9fe51e84d864d215baa498e5c9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d1b61e9fe51e84d864d215baa498e5c9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Schedule — The Veterinary Surgeons and Veterinary Practitioners (Registration) (Amendment) Regulations 2025[^key-d1b61e9fe51e84d864d215baa498e5c9]
+## Schedule — The Veterinary Surgeons and Veterinary Practitioners (Registration) (Amendment) Regulations 2025[^c-d1b61e9fe51e84d864d215baa498e5c9]
 
 Article 2
 
-[^key-d1b61e9fe51e84d864d215baa498e5c9]
+[^c-d1b61e9fe51e84d864d215baa498e5c9]
 
 The Council of the Royal College of Veterinary Surgeons, in exercise of its powers under section 11 of the Veterinary Surgeons Act 1966, makes the following Regulations.
 
-[^key-d1b61e9fe51e84d864d215baa498e5c9]
+[^c-d1b61e9fe51e84d864d215baa498e5c9]
 
 For Part 4 (fees payable) of the Veterinary Surgeons and Veterinary Practitioners (Registration) Regulations 2014, substitute—
 
@@ -83,16 +83,16 @@ For Part 4 (fees payable) of the Veterinary Surgeons and Veterinary Practitioner
 
 .
 
-[^key-d1b61e9fe51e84d864d215baa498e5c9]
+[^c-d1b61e9fe51e84d864d215baa498e5c9]
 
 Pursuant to a resolution of the Council of the Royal College of Veterinary Surgeons on 16th January 2025, the Common Seal of the said Royal College was affixed on the 30th January 2025 in the presence of—
 
-[^key-d1b61e9fe51e84d864d215baa498e5c9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d1b61e9fe51e84d864d215baa498e5c9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-d1b61e9fe51e84d864d215baa498e5c9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d1b61e9fe51e84d864d215baa498e5c9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d1b61e9fe51e84d864d215baa498e5c9]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2025/185) revoked (1.4.2026) by [The Veterinary Surgeons and Veterinary Practitioners (Registration) (Amendment) Regulations Order of Council 2026 (S.I. 2026/175)](https://www.legislation.gov.uk/uksi/2026/175), [arts. 1](https://www.legislation.gov.uk/uksi/2026/175/article/1), [3](https://www.legislation.gov.uk/uksi/2026/175/article/3)
+[^c-d1b61e9fe51e84d864d215baa498e5c9]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2025/185) revoked (1.4.2026) by [The Veterinary Surgeons and Veterinary Practitioners (Registration) (Amendment) Regulations Order of Council 2026 (S.I. 2026/175)](https://www.legislation.gov.uk/uksi/2026/175), [arts. 1](https://www.legislation.gov.uk/uksi/2026/175/article/1), [3](https://www.legislation.gov.uk/uksi/2026/175/article/3)

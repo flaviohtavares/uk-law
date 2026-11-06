@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. FCA rules relating to admissions to trading on regulated market[^key-fd07125fcd9fd98b94f008ff7934319e]
+## 14. FCA rules relating to admissions to trading on regulated market[^c-fd07125fcd9fd98b94f008ff7934319e]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fd07125fcd9fd98b94f008ff7934319e]: Commencement: Reg. 14 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)
+[^c-fd07125fcd9fd98b94f008ff7934319e]: Commencement: Reg. 14 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)

@@ -32,7 +32,7 @@ summary: ''
 
 Fees And Charges
 
-The Registrar of Companies (Fees) (Amendment) Regulations 2009 (revoked)[^key-fb414e764eba8b41024e3cb46fe45efc]
+The Registrar of Companies (Fees) (Amendment) Regulations 2009 (revoked)[^c-fb414e764eba8b41024e3cb46fe45efc]
 
 Made
 
@@ -46,36 +46,36 @@ Coming into force
 
 1st October 2009
 
-[^key-fb414e764eba8b41024e3cb46fe45efc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fb414e764eba8b41024e3cb46fe45efc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-fb414e764eba8b41024e3cb46fe45efc]
+## 1. Citation and commencement[^c-fb414e764eba8b41024e3cb46fe45efc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-fb414e764eba8b41024e3cb46fe45efc]
+## 2. Interpretation[^c-fb414e764eba8b41024e3cb46fe45efc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Interpretation of Main Regulations[^key-fb414e764eba8b41024e3cb46fe45efc]
+## 3. Interpretation of Main Regulations[^c-fb414e764eba8b41024e3cb46fe45efc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment to Regulation 4[^key-fb414e764eba8b41024e3cb46fe45efc]
+## 4. Amendment to Regulation 4[^c-fb414e764eba8b41024e3cb46fe45efc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment to Schedule 1 to the Main Regulations[^key-fb414e764eba8b41024e3cb46fe45efc]
+## 5. Amendment to Schedule 1 to the Main Regulations[^c-fb414e764eba8b41024e3cb46fe45efc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fb414e764eba8b41024e3cb46fe45efc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fb414e764eba8b41024e3cb46fe45efc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-fb414e764eba8b41024e3cb46fe45efc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fb414e764eba8b41024e3cb46fe45efc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fb414e764eba8b41024e3cb46fe45efc]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/2439) revoked (1.10.2012) by [The Registrar of Companies (Fees) (Companies, Overseas Companies and Limited Liability Partnerships) Regulations 2012 (S.I. 2012/1907)](https://www.legislation.gov.uk/uksi/2012/1907), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1907/regulation/1), [8(b)](https://www.legislation.gov.uk/uksi/2012/1907/regulation/8/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2012/1907/regulation/7))
+[^c-fb414e764eba8b41024e3cb46fe45efc]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/2439) revoked (1.10.2012) by [The Registrar of Companies (Fees) (Companies, Overseas Companies and Limited Liability Partnerships) Regulations 2012 (S.I. 2012/1907)](https://www.legislation.gov.uk/uksi/2012/1907), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1907/regulation/1), [8(b)](https://www.legislation.gov.uk/uksi/2012/1907/regulation/8/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2012/1907/regulation/7))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 10C[^key-4eb12806b0c142212c75b3feb1650a89]
+## SCHEDULE 10C[^c-4eb12806b0c142212c75b3feb1650a89]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ Note: A weight is not required in the box for Maximum Train Weight unless the ve
 
 ## Annotations
 
-[^key-4eb12806b0c142212c75b3feb1650a89]: Textual amendment: [Sch. 10C](https://www.legislation.gov.uk/uksi/1986/1078/schedule/10C) inserted (24.3.1994) by [The Road Vehicles (Construction and Use) (Amendment) (No. 2) Regulations 1994 (S.I. 1994/329)](https://www.legislation.gov.uk/uksi/1994/329), [regs. 1](https://www.legislation.gov.uk/uksi/1994/329/regulation/1), [10](https://www.legislation.gov.uk/uksi/1994/329/regulation/10), [Sch. 2](https://www.legislation.gov.uk/uksi/1994/329/schedule/2)
+[^c-4eb12806b0c142212c75b3feb1650a89]: Textual amendment: [Sch. 10C](https://www.legislation.gov.uk/uksi/1986/1078/schedule/10C) inserted (24.3.1994) by [The Road Vehicles (Construction and Use) (Amendment) (No. 2) Regulations 1994 (S.I. 1994/329)](https://www.legislation.gov.uk/uksi/1994/329), [regs. 1](https://www.legislation.gov.uk/uksi/1994/329/regulation/1), [10](https://www.legislation.gov.uk/uksi/1994/329/regulation/10), [Sch. 2](https://www.legislation.gov.uk/uksi/1994/329/schedule/2)

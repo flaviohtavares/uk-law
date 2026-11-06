@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 88. Calculation of income which consists of earnings of participants in exempt work[^key-41623601ae5c79bf59f934f80d192821]
+## 88. Calculation of income which consists of earnings of participants in exempt work[^c-41623601ae5c79bf59f934f80d192821]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Notwithstanding the other provisions of this Part, regulations 91(2), 92 to 99 a
 
 ## Annotations
 
-[^key-41623601ae5c79bf59f934f80d192821]: Commencement: [Reg. 88](https://www.legislation.gov.uk/nisr/2008/280/regulation/88) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-41623601ae5c79bf59f934f80d192821]: Commencement: [Reg. 88](https://www.legislation.gov.uk/nisr/2008/280/regulation/88) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)

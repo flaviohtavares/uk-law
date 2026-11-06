@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Acquisition of subsoil only[^key-104df2a0773175e11e8087de7a75aedc]
+## 25. Acquisition of subsoil only[^c-104df2a0773175e11e8087de7a75aedc]
 
 *Extent: E+W*
 
@@ -26,7 +26,7 @@ summary: ''
 
 (3) The following do not apply in connection with the exercise of the power under paragraph (1) in relation to subsoil only—
 
-- (a) Schedule 2A (counter-notice requiring purchase of land not in notice to treat) to the 1965 Act as modified by Schedule 10 (modification of compensation and compulsory purchase enactments for the[^key-cac06bda0989f72997fb2a31b654fc64] creation of new rights and imposition of new restrictive covenants);
+- (a) Schedule 2A (counter-notice requiring purchase of land not in notice to treat) to the 1965 Act as modified by Schedule 10 (modification of compensation and compulsory purchase enactments for the[^c-cac06bda0989f72997fb2a31b654fc64] creation of new rights and imposition of new restrictive covenants);
 - (b) Schedule A1 (counter-notice requiring purchase of land not in general vesting declaration) to the 1981 Act; and
 - (c) section 153(4A) (blighted land: proposed acquisition of part interest, material detriment test) of the 1990 Act.
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-104df2a0773175e11e8087de7a75aedc]: Commencement: Art. 25 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
+[^c-104df2a0773175e11e8087de7a75aedc]: Commencement: Art. 25 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
 
-[^key-cac06bda0989f72997fb2a31b654fc64]: Textual amendment: Word in [art. 25(3)(a)](https://www.legislation.gov.uk/uksi/2024/796/article/25/3/a) inserted (1.11.2024) by [The Mallard Pass Solar Farm (Correction) Order 2024 (S.I. 2024/1088)](https://www.legislation.gov.uk/uksi/2024/1088), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1088/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/1088/schedule)
+[^c-cac06bda0989f72997fb2a31b654fc64]: Textual amendment: Word in [art. 25(3)(a)](https://www.legislation.gov.uk/uksi/2024/796/article/25/3/a) inserted (1.11.2024) by [The Mallard Pass Solar Farm (Correction) Order 2024 (S.I. 2024/1088)](https://www.legislation.gov.uk/uksi/2024/1088), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1088/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/1088/schedule)

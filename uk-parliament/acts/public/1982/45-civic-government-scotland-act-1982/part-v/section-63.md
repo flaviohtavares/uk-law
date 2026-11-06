@@ -30,7 +30,7 @@ summary: ''
 - (a) if a local authority have made an order under subsection (1) above they may at any time thereafter, after consulting the chief constable and (where subsection (1)(aa) of that section applies) the National Park authority[^c13375491], vary or revoke the order and, where they revoke it, make any order which they were empowered to make under that subsection;
 - (b) if they have decided not to make an order they may at any time thereafter, after consulting the chief constable and (where subsection (1)(aa) of that scetion applies) the National Park authority, make any order which they were empowered to make under that subsection.
 
-(2)[^key-ce8d406c1b4378d97751259eba16042d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-ce8d406c1b4378d97751259eba16042d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) A local authority shall—
 
@@ -46,7 +46,7 @@ summary: ''
 - (a) as early as possible;
 - (b) only insofar as it is reasonably practicable for them to do so.
 
-(5)[^key-154b98d5474f9794897289599b7ebd36] The local authority may, after consulting the chief constable and (where section 62(1)(aa) of this Act applies) the National Parks Authority, make an order—
+(5)[^c-154b98d5474f9794897289599b7ebd36] The local authority may, after consulting the chief constable and (where section 62(1)(aa) of this Act applies) the National Parks Authority, make an order—
 
 - (a) imposing conditions on the holding of a procession to which paragraph (a) of subsection (11B) of section 62 of this Act relates;
 - (b) prohibiting or imposing conditions on the holding of a procession to which paragraph (b) of that subsection relates.
@@ -89,7 +89,7 @@ summary: ''
 
 [^c13375491]: Textual amendment: Words in s. 63(1A) inserted (8.9.2000) by [2000 asp 10](https://www.legislation.gov.uk/asp/2000/10), [s. 36](https://www.legislation.gov.uk/asp/2000/10/section/36), [Sch. 5 para. 9(2)(b)](https://www.legislation.gov.uk/asp/2000/10/schedule/5/paragraph/9/2/b) (with [s. 32](https://www.legislation.gov.uk/asp/2000/10/section/32)); [S.S.I. 2000/312](https://www.legislation.gov.uk/ssi/2000/312), [art. 2](https://www.legislation.gov.uk/ssi/2000/312/article/2)
 
-[^key-ce8d406c1b4378d97751259eba16042d]: Textual amendment: S. 63(2) repealed (1.4.2007) by [Police, Public Order and Criminal Justice (Scotland) Act 2006 (asp 10)](https://www.legislation.gov.uk/asp/2006/10), [ss. 71(2)](https://www.legislation.gov.uk/asp/2006/10/section/71/2), [104(1)](https://www.legislation.gov.uk/asp/2006/10/section/104/1); [S.S.I. 2007/84](https://www.legislation.gov.uk/ssi/2007/84), [art. 3(3)](https://www.legislation.gov.uk/ssi/2007/84/article/3/3) (with [arts. 5](https://www.legislation.gov.uk/ssi/2007/84/article/5) [6](https://www.legislation.gov.uk/ssi/2007/84/article/6))
+[^c-ce8d406c1b4378d97751259eba16042d]: Textual amendment: S. 63(2) repealed (1.4.2007) by [Police, Public Order and Criminal Justice (Scotland) Act 2006 (asp 10)](https://www.legislation.gov.uk/asp/2006/10), [ss. 71(2)](https://www.legislation.gov.uk/asp/2006/10/section/71/2), [104(1)](https://www.legislation.gov.uk/asp/2006/10/section/104/1); [S.S.I. 2007/84](https://www.legislation.gov.uk/ssi/2007/84), [art. 3(3)](https://www.legislation.gov.uk/ssi/2007/84/article/3/3) (with [arts. 5](https://www.legislation.gov.uk/ssi/2007/84/article/5) [6](https://www.legislation.gov.uk/ssi/2007/84/article/6))
 
 [^c13375531]: Textual amendment: “or (1A)” inserted by [Public Order Act 1986 (c. 64, SIF 39:2)](https://www.legislation.gov.uk/ukpga/1986/64), [s. 40(2)(4)(5)](https://www.legislation.gov.uk/ukpga/1986/64/section/40/2/4/5), [Sch. 2 para. 3(3)](https://www.legislation.gov.uk/ukpga/1986/64/schedule/2/paragraph/3/3)(*c*)(i)
 
@@ -103,4 +103,4 @@ summary: ''
 
 [^c13375591]: Textual amendment: S. 63(3)(*c*) and “; and” immediately preceding it inserted by [Public Order Act 1986 (c. 64, SIF 39:2)](https://www.legislation.gov.uk/ukpga/1986/64), [s. 40(2)(4)(5)](https://www.legislation.gov.uk/ukpga/1986/64/section/40/2/4/5), [Sch. 2 para. 3(3)](https://www.legislation.gov.uk/ukpga/1986/64/schedule/2/paragraph/3/3)(*c*)(v)
 
-[^key-154b98d5474f9794897289599b7ebd36]: Textual amendment: S. 63(5)-(10) inserted (1.4.2007) by [Police, Public Order and Criminal Justice (Scotland) Act 2006 (asp 10)](https://www.legislation.gov.uk/asp/2006/10), [ss. 71(3)](https://www.legislation.gov.uk/asp/2006/10/section/71/3), [104(1)](https://www.legislation.gov.uk/asp/2006/10/section/104/1); [S.S.I. 2007/84](https://www.legislation.gov.uk/ssi/2007/84), [art. 3(3)](https://www.legislation.gov.uk/ssi/2007/84/article/3/3) (with [arts. 5](https://www.legislation.gov.uk/ssi/2007/84/article/5) [6](https://www.legislation.gov.uk/ssi/2007/84/article/6))
+[^c-154b98d5474f9794897289599b7ebd36]: Textual amendment: S. 63(5)-(10) inserted (1.4.2007) by [Police, Public Order and Criminal Justice (Scotland) Act 2006 (asp 10)](https://www.legislation.gov.uk/asp/2006/10), [ss. 71(3)](https://www.legislation.gov.uk/asp/2006/10/section/71/3), [104(1)](https://www.legislation.gov.uk/asp/2006/10/section/104/1); [S.S.I. 2007/84](https://www.legislation.gov.uk/ssi/2007/84), [art. 3(3)](https://www.legislation.gov.uk/ssi/2007/84/article/3/3) (with [arts. 5](https://www.legislation.gov.uk/ssi/2007/84/article/5) [6](https://www.legislation.gov.uk/ssi/2007/84/article/6))

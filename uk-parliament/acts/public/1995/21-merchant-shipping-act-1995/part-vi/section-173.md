@@ -20,13 +20,13 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Contributions shall be payable to the Fund and to the Supplementary Fund[^key-0eb7e3f5ff70486b1a081b6ac57bf669] in respect of oil carried by sea to ports or terminal installations in the United Kingdom otherwise than on a voyage only within its national waters.
+(1) Contributions shall be payable to the Fund and to the Supplementary Fund[^c-0eb7e3f5ff70486b1a081b6ac57bf669] in respect of oil carried by sea to ports or terminal installations in the United Kingdom otherwise than on a voyage only within its national waters.
 
 (2) Subsection (1) above applies whether or not the oil is being imported, and applies even if contributions are payable in respect of carriage of the same oil on a previous voyage.
 
-(3) Contributions shall also be payable —[^key-3d2788c7e687fcc5fbd59959bdfa523e]
+(3) Contributions shall also be payable —[^c-3d2788c7e687fcc5fbd59959bdfa523e]
 
-- (a) to the Fund in respect of oil when first received in any installation in the United Kingdom after having been carried by sea and discharged in a port or terminal installation in a country which is not a Fund Convention country; and[^key-a9b5fc22c4757806fd4b4b006af79860]
+- (a) to the Fund in respect of oil when first received in any installation in the United Kingdom after having been carried by sea and discharged in a port or terminal installation in a country which is not a Fund Convention country; and[^c-a9b5fc22c4757806fd4b4b006af79860]
 - (b) to the Supplementary Fund in respect of oil when first received in any installation in the United Kingdom after having been carried by sea and discharged in a port or terminal installation in a country which is not a Supplementary Fund Protocol country.
 
 (4) The person liable to pay contributions is—
@@ -43,12 +43,12 @@ summary: ''
 
 (7) The contributions payable by a person for any year shall—
 
-- (a) be of such amount as may be determined —[^key-436abbbc98c86578ec356537f5a3efa1]
+- (a) be of such amount as may be determined —[^c-436abbbc98c86578ec356537f5a3efa1]
   - (i) by the Director of the Fund under Article 12 of the Fund Convention and notified to that person by the Fund
-  - (ii) in the case of contributions to the Supplementary Fund, by the Director of the Supplementary Fund under Article 11 of the Supplementary Fund Protocol and notified to that person by the Supplementary Fund;[^key-4cdfb91d6ecbe2c260aee82e2472aa02]
+  - (ii) in the case of contributions to the Supplementary Fund, by the Director of the Supplementary Fund under Article 11 of the Supplementary Fund Protocol and notified to that person by the Supplementary Fund;[^c-4cdfb91d6ecbe2c260aee82e2472aa02]
 - (b) be payable in such instalments, becoming due at such times, as may be so notified to him;
 
-and if any amount due from him remains unpaid after the date on which it became due, it shall from then on bear interest, at a rate determined from time to time by the Assembly of the Fund or the Assembly of the Supplementary Fund (as the case may be)[^key-ce0e3853cea90992481ca01435b6bdfb] , until it is paid.
+and if any amount due from him remains unpaid after the date on which it became due, it shall from then on bear interest, at a rate determined from time to time by the Assembly of the Fund or the Assembly of the Supplementary Fund (as the case may be)[^c-ce0e3853cea90992481ca01435b6bdfb] , until it is paid.
 
 (8) The Secretary of State may by regulations impose on persons who are or may be liable to pay contributions under this section obligations to give security for payment to the Secretary of State, or the Fund.
 
@@ -60,7 +60,7 @@ and if any amount due from him remains unpaid after the date on which it became 
 (10) In this section and in section 174, unless the context otherwise requires—
 
 - “**company**” means a body incorporated under the law of the United Kingdom, or of any other country;
-- “**group**” in relation to companies, means a holding company and its subsidiaries as defined by section 1159 of the Companies Act 2006[^key-68751dc247fa5a8bd2c838aa845eb3ac], subject, in the case of a company incorporated outside the United Kingdom, to any necessary modifications of those definitions;
+- “**group**” in relation to companies, means a holding company and its subsidiaries as defined by section 1159 of the Companies Act 2006[^c-68751dc247fa5a8bd2c838aa845eb3ac], subject, in the case of a company incorporated outside the United Kingdom, to any necessary modifications of those definitions;
 - “**importer**” means the person by whom or on whose behalf the oil in question is entered for customs or excise purposes on importation, and “**import**” shall be construed accordingly;
 - “**oil**” means crude oil and fuel oil, and
 - (a) “**crude oil**” means any liquid hydrocarbon mixture occurring naturally in the earth whether or not treated to render it suitable for transportation, and includes—
@@ -102,16 +102,16 @@ and if any amount due from him remains unpaid after the date on which it became 
 
     S. 173 extended (with modifications) to Saint Helena (20.5.1998) by [S.I. 1998/1263](https://www.legislation.gov.uk/uksi/1998/1263), [art. 2](https://www.legislation.gov.uk/uksi/1998/1263/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1998/1263/schedule)
 
-[^key-0eb7e3f5ff70486b1a081b6ac57bf669]: Textual amendment: Words in s. 173(1) inserted (8.9.2006) by [The Merchant Shipping (Oil Pollution) (Supplementary Fund Protocol) Order 2006 (S.I. 2006/1265)](https://www.legislation.gov.uk/uksi/2006/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/1265/article/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2006/1265/article/4/2)
+[^c-0eb7e3f5ff70486b1a081b6ac57bf669]: Textual amendment: Words in s. 173(1) inserted (8.9.2006) by [The Merchant Shipping (Oil Pollution) (Supplementary Fund Protocol) Order 2006 (S.I. 2006/1265)](https://www.legislation.gov.uk/uksi/2006/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/1265/article/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2006/1265/article/4/2)
 
-[^key-3d2788c7e687fcc5fbd59959bdfa523e]: Textual amendment: Words in s. 173(3) inserted (8.9.2006) by [The Merchant Shipping (Oil Pollution) (Supplementary Fund Protocol) Order 2006 (S.I. 2006/1265)](https://www.legislation.gov.uk/uksi/2006/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/1265/article/1/2), [4(3)(a)](https://www.legislation.gov.uk/uksi/2006/1265/article/4/3/a)
+[^c-3d2788c7e687fcc5fbd59959bdfa523e]: Textual amendment: Words in s. 173(3) inserted (8.9.2006) by [The Merchant Shipping (Oil Pollution) (Supplementary Fund Protocol) Order 2006 (S.I. 2006/1265)](https://www.legislation.gov.uk/uksi/2006/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/1265/article/1/2), [4(3)(a)](https://www.legislation.gov.uk/uksi/2006/1265/article/4/3/a)
 
-[^key-a9b5fc22c4757806fd4b4b006af79860]: Textual amendment: S. 173(3)(b) and word inserted (8.9.2006) by [The Merchant Shipping (Oil Pollution) (Supplementary Fund Protocol) Order 2006 (S.I. 2006/1265)](https://www.legislation.gov.uk/uksi/2006/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/1265/article/1/2), [4(3)(b)](https://www.legislation.gov.uk/uksi/2006/1265/article/4/3/b)
+[^c-a9b5fc22c4757806fd4b4b006af79860]: Textual amendment: S. 173(3)(b) and word inserted (8.9.2006) by [The Merchant Shipping (Oil Pollution) (Supplementary Fund Protocol) Order 2006 (S.I. 2006/1265)](https://www.legislation.gov.uk/uksi/2006/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/1265/article/1/2), [4(3)(b)](https://www.legislation.gov.uk/uksi/2006/1265/article/4/3/b)
 
-[^key-436abbbc98c86578ec356537f5a3efa1]: Textual amendment: Words in s. 173(7)(a) inserted (8.9.2006) by [The Merchant Shipping (Oil Pollution) (Supplementary Fund Protocol) Order 2006 (S.I. 2006/1265)](https://www.legislation.gov.uk/uksi/2006/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/1265/article/1/2), [4(4)(a)](https://www.legislation.gov.uk/uksi/2006/1265/article/4/4/a)
+[^c-436abbbc98c86578ec356537f5a3efa1]: Textual amendment: Words in s. 173(7)(a) inserted (8.9.2006) by [The Merchant Shipping (Oil Pollution) (Supplementary Fund Protocol) Order 2006 (S.I. 2006/1265)](https://www.legislation.gov.uk/uksi/2006/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/1265/article/1/2), [4(4)(a)](https://www.legislation.gov.uk/uksi/2006/1265/article/4/4/a)
 
-[^key-4cdfb91d6ecbe2c260aee82e2472aa02]: Textual amendment: Words in s. 173(7)(a) inserted (8.9.2006) by [The Merchant Shipping (Oil Pollution) (Supplementary Fund Protocol) Order 2006 (S.I. 2006/1265)](https://www.legislation.gov.uk/uksi/2006/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/1265/article/1/2), [4(4)(b)](https://www.legislation.gov.uk/uksi/2006/1265/article/4/4/b)
+[^c-4cdfb91d6ecbe2c260aee82e2472aa02]: Textual amendment: Words in s. 173(7)(a) inserted (8.9.2006) by [The Merchant Shipping (Oil Pollution) (Supplementary Fund Protocol) Order 2006 (S.I. 2006/1265)](https://www.legislation.gov.uk/uksi/2006/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/1265/article/1/2), [4(4)(b)](https://www.legislation.gov.uk/uksi/2006/1265/article/4/4/b)
 
-[^key-ce0e3853cea90992481ca01435b6bdfb]: Textual amendment: Words in s. 173(7)(a) inserted (8.9.2006) by [The Merchant Shipping (Oil Pollution) (Supplementary Fund Protocol) Order 2006 (S.I. 2006/1265)](https://www.legislation.gov.uk/uksi/2006/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/1265/article/1/2), [4(4)(c)](https://www.legislation.gov.uk/uksi/2006/1265/article/4/4/c)
+[^c-ce0e3853cea90992481ca01435b6bdfb]: Textual amendment: Words in s. 173(7)(a) inserted (8.9.2006) by [The Merchant Shipping (Oil Pollution) (Supplementary Fund Protocol) Order 2006 (S.I. 2006/1265)](https://www.legislation.gov.uk/uksi/2006/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/1265/article/1/2), [4(4)(c)](https://www.legislation.gov.uk/uksi/2006/1265/article/4/4/c)
 
-[^key-68751dc247fa5a8bd2c838aa845eb3ac]: Textual amendment: Words in [s. 173(10)](https://www.legislation.gov.uk/ukpga/1995/21/section/173/10) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 152(4)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/152/4) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-68751dc247fa5a8bd2c838aa845eb3ac]: Textual amendment: Words in [s. 173(10)](https://www.legislation.gov.uk/ukpga/1995/21/section/173/10) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 152(4)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/152/4) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))

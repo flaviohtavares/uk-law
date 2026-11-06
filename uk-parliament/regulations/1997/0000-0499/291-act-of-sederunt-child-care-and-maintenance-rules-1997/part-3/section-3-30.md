@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.30. Form of application[^key-fe73423d38b86c0d3ab1f52baf4540e8]
+## 3.30. Form of application[^c-fe73423d38b86c0d3ab1f52baf4540e8]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ An application made by a local authority shall be in Form 47 and an application 
 
 ## Annotations
 
-[^key-fe73423d38b86c0d3ab1f52baf4540e8]: Commencement: Rule 3.30 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
+[^c-fe73423d38b86c0d3ab1f52baf4540e8]: Commencement: Rule 3.30 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)

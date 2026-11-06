@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 106. Responsibility for marketing: general[^key-819f08c5379b9b7810bc80632f34ecf5]
+## 106. Responsibility for marketing: general[^c-819f08c5379b9b7810bc80632f34ecf5]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ must take reasonable steps to inform a potential buyer that a request under sect
 
 ## Annotations
 
-[^key-819f08c5379b9b7810bc80632f34ecf5]: Commencement: S. 106 in force at 1.12.2008 by [S.S.I. 2008/308](https://www.legislation.gov.uk/ssi/2008/308), [art. 3](https://www.legislation.gov.uk/ssi/2008/308/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2008/308/article/4))
+[^c-819f08c5379b9b7810bc80632f34ecf5]: Commencement: S. 106 in force at 1.12.2008 by [S.S.I. 2008/308](https://www.legislation.gov.uk/ssi/2008/308), [art. 3](https://www.legislation.gov.uk/ssi/2008/308/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2008/308/article/4))

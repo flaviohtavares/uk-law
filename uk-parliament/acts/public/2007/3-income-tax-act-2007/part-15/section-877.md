@@ -20,10 +20,10 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-The duty to deduct a sum representing income tax under section 874 does not apply to a payment of interest that is[^key-65247f7be6324b9322d6ab173dc265b5] a UK public revenue dividend (as defined by section 891)[^key-764d2b59bc477c5c609d997e80b7c635].
+The duty to deduct a sum representing income tax under section 874 does not apply to a payment of interest that is[^c-65247f7be6324b9322d6ab173dc265b5] a UK public revenue dividend (as defined by section 891)[^c-764d2b59bc477c5c609d997e80b7c635].
 
 ## Annotations
 
-[^key-65247f7be6324b9322d6ab173dc265b5]: Textual amendment: Words in s. 877 substituted (with effect in accordance with Sch. 6 para. 28 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 6 para. 26(a)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/6/paragraph/26/a)
+[^c-65247f7be6324b9322d6ab173dc265b5]: Textual amendment: Words in s. 877 substituted (with effect in accordance with Sch. 6 para. 28 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 6 para. 26(a)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/6/paragraph/26/a)
 
-[^key-764d2b59bc477c5c609d997e80b7c635]: Textual amendment: Words in s. 877 inserted (with effect in accordance with Sch. 6 para. 28 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 6 para. 26(b)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/6/paragraph/26/b)
+[^c-764d2b59bc477c5c609d997e80b7c635]: Textual amendment: Words in s. 877 inserted (with effect in accordance with Sch. 6 para. 28 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 6 para. 26(b)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/6/paragraph/26/b)

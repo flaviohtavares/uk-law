@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Traffic regulation measures[^key-2359a8c08614b33a05efb91cd2784f6b]
+## 17. Traffic regulation measures[^c-2359a8c08614b33a05efb91cd2784f6b]
 
 *Extent: E+W*
 
@@ -60,7 +60,7 @@ summary: ''
 
 ## Annotations
 
-[^key-2359a8c08614b33a05efb91cd2784f6b]: Commencement: Art. 17 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
+[^c-2359a8c08614b33a05efb91cd2784f6b]: Commencement: Art. 17 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
 
 [^f00035]: Footnote: [S.I. 2016/362](https://www.legislation.gov.uk/uksi/2016/362).
 

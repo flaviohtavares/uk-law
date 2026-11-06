@@ -36,7 +36,7 @@ An Act to make provision to remove the two child limit on the child element of u
 
 Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Removal of two child limit: GB[^key-2b6fabce258df27bc7c1e8a86d30a0bb]
+## 1. Removal of two child limit: GB[^c-2b6fabce258df27bc7c1e8a86d30a0bb]
 
 *Extent: E+W+S*
 
@@ -58,7 +58,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 (4) The amendments made by this section have effect in relation to assessment periods commencing on or after 6 April 2026, and for this purpose “**assessment period**” has the same meaning as in [Part 1](https://www.legislation.gov.uk/ukpga/2012/5/part/1) of the [Welfare Reform Act 2012](https://www.legislation.gov.uk/ukpga/2012/5/contents).
 
-## 2. Removal of two child limit: NI[^key-aa29c16053f8ade01447347f25bf2b84]
+## 2. Removal of two child limit: NI[^c-aa29c16053f8ade01447347f25bf2b84]
 
 *Extent: N.I.*
 
@@ -80,7 +80,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 (4) The amendments made by this section have effect in relation to assessment periods commencing on or after 6 April 2026, and for this purpose “**assessment period**” has the same meaning as in [Part 2](https://www.legislation.gov.uk/nisi/2015/2006/part/2) of the [Welfare Reform (Northern Ireland) Order 2015](https://www.legislation.gov.uk/nisi/2015/2006/contents).
 
-## 3. Extent, commencement and short title[^key-e9ac640a3652fdd31db1935b50cd5deb][^key-e9ac640a3652fdd31db1935b50cd5deb]
+## 3. Extent, commencement and short title[^c-e9ac640a3652fdd31db1935b50cd5deb][^c-e9ac640a3652fdd31db1935b50cd5deb]
 
 (1) Section 1 extends to England and Wales and Scotland only.
 
@@ -100,8 +100,8 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 ## Annotations
 
-[^key-2b6fabce258df27bc7c1e8a86d30a0bb]: Commencement: S. 1 in force at 6.4.2026, see [s. 3(4)](https://www.legislation.gov.uk/ukpga/2026/13/section/3/4)
+[^c-2b6fabce258df27bc7c1e8a86d30a0bb]: Commencement: S. 1 in force at 6.4.2026, see [s. 3(4)](https://www.legislation.gov.uk/ukpga/2026/13/section/3/4)
 
-[^key-aa29c16053f8ade01447347f25bf2b84]: Commencement: S. 2 in force at 6.4.2026, see [s. 3(4)](https://www.legislation.gov.uk/ukpga/2026/13/section/3/4)
+[^c-aa29c16053f8ade01447347f25bf2b84]: Commencement: S. 2 in force at 6.4.2026, see [s. 3(4)](https://www.legislation.gov.uk/ukpga/2026/13/section/3/4)
 
-[^key-e9ac640a3652fdd31db1935b50cd5deb]: Commencement: S. 3 in force at Royal Assent, see [s. 3(5)](https://www.legislation.gov.uk/ukpga/2026/13/section/3/5)
+[^c-e9ac640a3652fdd31db1935b50cd5deb]: Commencement: S. 3 in force at Royal Assent, see [s. 3(5)](https://www.legislation.gov.uk/ukpga/2026/13/section/3/5)

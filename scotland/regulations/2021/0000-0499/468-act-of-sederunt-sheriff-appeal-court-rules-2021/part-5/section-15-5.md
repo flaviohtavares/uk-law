@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 15.5. Joint motions[^key-acd4d80027875269924e1ad331e1447b]
+## 15.5. Joint motions[^c-acd4d80027875269924e1ad331e1447b]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-acd4d80027875269924e1ad331e1447b]: Commencement: Para. 15.5 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-acd4d80027875269924e1ad331e1447b]: Commencement: Para. 15.5 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

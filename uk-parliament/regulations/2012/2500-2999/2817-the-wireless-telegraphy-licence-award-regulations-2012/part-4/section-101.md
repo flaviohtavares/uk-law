@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101. Notification that assignment stage bid is not valid[^key-77af07e48c5a75aa37e4bd0914a29eca]
+## 101. Notification that assignment stage bid is not valid[^c-77af07e48c5a75aa37e4bd0914a29eca]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Where a bidder submits an assignment stage bid that is not a valid assignment st
 
 ## Annotations
 
-[^key-77af07e48c5a75aa37e4bd0914a29eca]: Commencement: Reg. 101 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-77af07e48c5a75aa37e4bd0914a29eca]: Commencement: Reg. 101 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

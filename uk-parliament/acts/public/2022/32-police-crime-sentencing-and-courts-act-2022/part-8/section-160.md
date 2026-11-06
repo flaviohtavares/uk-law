@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 160. Detention and training orders: time to count as served[^key-6aec57f7198f90c2b1fdaab5498eab2e]
+## 160. Detention and training orders: time to count as served[^c-6aec57f7198f90c2b1fdaab5498eab2e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 16 makes provision in relation to the treatment of time spent remanded 
 
 ## Annotations
 
-[^key-6aec57f7198f90c2b1fdaab5498eab2e]: Commencement: S. 160 in force at 28.6.2022, see [s. 208(5)(t)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/t)
+[^c-6aec57f7198f90c2b1fdaab5498eab2e]: Commencement: S. 160 in force at 28.6.2022, see [s. 208(5)(t)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/t)

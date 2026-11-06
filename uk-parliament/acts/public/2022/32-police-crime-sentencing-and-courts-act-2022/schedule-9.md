@@ -22,9 +22,9 @@ summary: ''
 
 Section 95
 
-**1.**[^key-7f301d713a6287848874d7d3aa3dde8e][^key-2791d1568d96ff4befad3035965c1cf2] The Road Traffic (New Drivers) Act 1995 is amended as follows.
+**1.**[^c-7f301d713a6287848874d7d3aa3dde8e][^c-2791d1568d96ff4befad3035965c1cf2] The Road Traffic (New Drivers) Act 1995 is amended as follows.
 
-**2.**[^key-71003a3a0578563a492088b6019c8c8d][^key-8aef67a1bf328464e05d9b31a37f9045] (1) Section 2 (surrender of licences) is amended as follows.
+**2.**[^c-71003a3a0578563a492088b6019c8c8d][^c-8aef67a1bf328464e05d9b31a37f9045] (1) Section 2 (surrender of licences) is amended as follows.
 
 (2) For the heading substitute “Persons to whom section 3(1) applies”.
 
@@ -73,7 +73,7 @@ Section 95
 
 (8) Omit subsection (7).
 
-**3.**[^key-8210294552dc9b64bf1ae49810445936][^key-182d80e39bc0079aceaad137ec848188] (1) Section 3 (revocation of licences) is amended as follows.
+**3.**[^c-8210294552dc9b64bf1ae49810445936][^c-182d80e39bc0079aceaad137ec848188] (1) Section 3 (revocation of licences) is amended as follows.
 
 (2) For subsection (1) substitute—
 
@@ -88,7 +88,7 @@ Section 95
 
 (5) In subsection (1B), omit “or (1ZA)”.
 
-**4.**[^key-f7be1427a50640654c0ac5612c1af62f][^key-b0976fe4f4f5727d16a89a3dafc7802e] After section 3 insert—
+**4.**[^c-f7be1427a50640654c0ac5612c1af62f][^c-b0976fe4f4f5727d16a89a3dafc7802e] After section 3 insert—
 
 > **3A. Surrender of licences**
 >
@@ -106,7 +106,7 @@ Section 95
 >
 > (3) Where the Secretary of State receives a Northern Ireland licence pursuant to a requirement to surrender it imposed under subsection (1), the Secretary of State must send it to the licensing authority in Northern Ireland.
 
-**5.**[^key-20aad89e90d73dafddede8dcac6b8044][^key-6e6c88221b9fcffbf7b8a3509e3bc4b1] In section 9, for subsection (5) (interpretation: address for sending licences, test certificates etc) substitute—
+**5.**[^c-20aad89e90d73dafddede8dcac6b8044][^c-6e6c88221b9fcffbf7b8a3509e3bc4b1] In section 9, for subsection (5) (interpretation: address for sending licences, test certificates etc) substitute—
 
 > (5) Any requirement under any provision of this Act that—
 >
@@ -115,7 +115,7 @@ Section 95
 >
 > is a requirement that the licence, test certificate or notice must be sent, or the licence or test certificate must be surrendered, to the Secretary of State at such address as the Secretary of State may determine.
 
-**6.**[^key-1451aaf1933347a862802109bd7f8963][^key-efa6d59f45111e59659ad6ce6f98f871] (1) Schedule 1 (newly qualified drivers holding test certificates) is amended as follows.
+**6.**[^c-1451aaf1933347a862802109bd7f8963][^c-efa6d59f45111e59659ad6ce6f98f871] (1) Schedule 1 (newly qualified drivers holding test certificates) is amended as follows.
 
 (2) Omit—
 
@@ -217,26 +217,26 @@ Section 95
 
 ## Annotations
 
-[^key-7f301d713a6287848874d7d3aa3dde8e]: Commencement: Sch. 9 para. 1 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-7f301d713a6287848874d7d3aa3dde8e]: Commencement: Sch. 9 para. 1 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-2791d1568d96ff4befad3035965c1cf2]: Commencement: [Sch. 9 para. 1](https://www.legislation.gov.uk/ukpga/2022/32/schedule/9/paragraph/1) in force at 30.11.2022 by [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))
+[^c-2791d1568d96ff4befad3035965c1cf2]: Commencement: [Sch. 9 para. 1](https://www.legislation.gov.uk/ukpga/2022/32/schedule/9/paragraph/1) in force at 30.11.2022 by [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))
 
-[^key-71003a3a0578563a492088b6019c8c8d]: Commencement: Sch. 9 para. 2 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-71003a3a0578563a492088b6019c8c8d]: Commencement: Sch. 9 para. 2 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-8aef67a1bf328464e05d9b31a37f9045]: Commencement: [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2022/32/schedule/9/paragraph/2) in force at 30.11.2022 by [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))
+[^c-8aef67a1bf328464e05d9b31a37f9045]: Commencement: [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2022/32/schedule/9/paragraph/2) in force at 30.11.2022 by [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))
 
-[^key-8210294552dc9b64bf1ae49810445936]: Commencement: Sch. 9 para. 3 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-8210294552dc9b64bf1ae49810445936]: Commencement: Sch. 9 para. 3 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-182d80e39bc0079aceaad137ec848188]: Commencement: [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/2022/32/schedule/9/paragraph/3) in force at 30.11.2022 by [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))
+[^c-182d80e39bc0079aceaad137ec848188]: Commencement: [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/2022/32/schedule/9/paragraph/3) in force at 30.11.2022 by [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))
 
-[^key-f7be1427a50640654c0ac5612c1af62f]: Commencement: Sch. 9 para. 4 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-f7be1427a50640654c0ac5612c1af62f]: Commencement: Sch. 9 para. 4 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-b0976fe4f4f5727d16a89a3dafc7802e]: Commencement: [Sch. 9 para. 4](https://www.legislation.gov.uk/ukpga/2022/32/schedule/9/paragraph/4) in force at 30.11.2022 by [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))
+[^c-b0976fe4f4f5727d16a89a3dafc7802e]: Commencement: [Sch. 9 para. 4](https://www.legislation.gov.uk/ukpga/2022/32/schedule/9/paragraph/4) in force at 30.11.2022 by [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))
 
-[^key-20aad89e90d73dafddede8dcac6b8044]: Commencement: Sch. 9 para. 5 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-20aad89e90d73dafddede8dcac6b8044]: Commencement: Sch. 9 para. 5 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-6e6c88221b9fcffbf7b8a3509e3bc4b1]: Commencement: [Sch. 9 para. 5](https://www.legislation.gov.uk/ukpga/2022/32/schedule/9/paragraph/5) in force at 30.11.2022 by [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))
+[^c-6e6c88221b9fcffbf7b8a3509e3bc4b1]: Commencement: [Sch. 9 para. 5](https://www.legislation.gov.uk/ukpga/2022/32/schedule/9/paragraph/5) in force at 30.11.2022 by [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))
 
-[^key-1451aaf1933347a862802109bd7f8963]: Commencement: Sch. 9 para. 6 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-1451aaf1933347a862802109bd7f8963]: Commencement: Sch. 9 para. 6 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-efa6d59f45111e59659ad6ce6f98f871]: Commencement: [Sch. 9 para. 6](https://www.legislation.gov.uk/ukpga/2022/32/schedule/9/paragraph/6) in force at 30.11.2022 by [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))
+[^c-efa6d59f45111e59659ad6ce6f98f871]: Commencement: [Sch. 9 para. 6](https://www.legislation.gov.uk/ukpga/2022/32/schedule/9/paragraph/6) in force at 30.11.2022 by [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))

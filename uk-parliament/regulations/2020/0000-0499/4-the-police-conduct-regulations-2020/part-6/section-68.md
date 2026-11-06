@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 68. Fact-finding stage[^key-a802b6443e82d0d029824a76eab3d6e3]
+## 68. Fact-finding stage[^c-a802b6443e82d0d029824a76eab3d6e3]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a802b6443e82d0d029824a76eab3d6e3]: Commencement: Reg. 68 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-a802b6443e82d0d029824a76eab3d6e3]: Commencement: Reg. 68 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)

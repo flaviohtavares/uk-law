@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Interpretation[^key-21d71a04b30091531fe3817c5ed8c977]
+## 59. Interpretation[^c-21d71a04b30091531fe3817c5ed8c977]
 
 *Extent: E+W+S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-21d71a04b30091531fe3817c5ed8c977]: Commencement: S. 59 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-21d71a04b30091531fe3817c5ed8c977]: Commencement: S. 59 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

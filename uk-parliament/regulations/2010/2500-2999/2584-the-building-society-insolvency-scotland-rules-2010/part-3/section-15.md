@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 15. Remuneration[^key-5e192a8c8fdb66903ec4aecefc50ef63]
+## 15. Remuneration[^c-5e192a8c8fdb66903ec4aecefc50ef63]
 
 *Extent: S*
 
@@ -24,6 +24,6 @@ Apply rule 4.5 of the 1986 Rules[^f00012].
 
 ## Annotations
 
-[^key-5e192a8c8fdb66903ec4aecefc50ef63]: Commencement: Rule 15 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-5e192a8c8fdb66903ec4aecefc50ef63]: Commencement: Rule 15 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
 
 [^f00012]: Footnote: Rule 4.5 was amended by paragraph 10 of Schedule 1(I) to [S.I. 1987/1921](https://www.legislation.gov.uk/uksi/1987/1921).

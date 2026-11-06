@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. Effective relationships[^key-be47ac769a091cd65a25a4f070f64600]
+## 34. Effective relationships[^c-be47ac769a091cd65a25a4f070f64600]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ The service provider must—
 
 ## Annotations
 
-[^key-be47ac769a091cd65a25a4f070f64600]: Commencement: [Reg. 34](https://www.legislation.gov.uk/wsi/2019/163/regulation/34) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/163/regulation/1/2)
+[^c-be47ac769a091cd65a25a4f070f64600]: Commencement: [Reg. 34](https://www.legislation.gov.uk/wsi/2019/163/regulation/34) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/163/regulation/1/2)

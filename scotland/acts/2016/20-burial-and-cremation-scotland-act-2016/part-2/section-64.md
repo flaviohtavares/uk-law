@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 64. Cremation authority: code of practice[^key-6f3f9373ff7a6972400fecd808324a75]
+## 64. Cremation authority: code of practice[^c-6f3f9373ff7a6972400fecd808324a75]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6f3f9373ff7a6972400fecd808324a75]: Commencement: [S. 64](https://www.legislation.gov.uk/asp/2016/20/section/64) in force at 2.6.2023 by [S.S.I. 2023/145](https://www.legislation.gov.uk/ssi/2023/145), [reg. 2](https://www.legislation.gov.uk/ssi/2023/145/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/145/schedule)
+[^c-6f3f9373ff7a6972400fecd808324a75]: Commencement: [S. 64](https://www.legislation.gov.uk/asp/2016/20/section/64) in force at 2.6.2023 by [S.S.I. 2023/145](https://www.legislation.gov.uk/ssi/2023/145), [reg. 2](https://www.legislation.gov.uk/ssi/2023/145/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/145/schedule)

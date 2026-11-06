@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 150. Reports of investigations[^key-2ed833c7cb82c28a0d527a3b7f362046]
+## 150. Reports of investigations[^c-2ed833c7cb82c28a0d527a3b7f362046]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2ed833c7cb82c28a0d527a3b7f362046]: Commencement: S. 150 in force at 6.10.2010 by [S.I. 2010/2089](https://www.legislation.gov.uk/uksi/2010/2089), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2089/article/2/a)
+[^c-2ed833c7cb82c28a0d527a3b7f362046]: Commencement: S. 150 in force at 6.10.2010 by [S.I. 2010/2089](https://www.legislation.gov.uk/uksi/2010/2089), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2089/article/2/a)

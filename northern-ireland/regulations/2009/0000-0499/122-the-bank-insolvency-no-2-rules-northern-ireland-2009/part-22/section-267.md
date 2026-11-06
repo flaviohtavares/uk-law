@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 267. Service by post[^key-7d432bdb436345ff59742336a018b988]
+## 267. Service by post[^c-7d432bdb436345ff59742336a018b988]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 12.11 of the 1991 Rules.
 
 ## Annotations
 
-[^key-7d432bdb436345ff59742336a018b988]: Commencement: Rule 267 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-7d432bdb436345ff59742336a018b988]: Commencement: Rule 267 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

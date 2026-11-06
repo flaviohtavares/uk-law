@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Minimum age for governors of establishments of further education.[^key-c2d9489edf29b8491a29e66dceadcf17]
+## 61. Minimum age for governors of establishments of further education.[^c-c2d9489edf29b8491a29e66dceadcf17]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c2d9489edf29b8491a29e66dceadcf17]: Textual amendment: [S. 61](https://www.legislation.gov.uk/ukpga/1986/61/section/61) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(h)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/h), [Sch. 15 para. 2(2)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/15/paragraph/2/2)
+[^c-c2d9489edf29b8491a29e66dceadcf17]: Textual amendment: [S. 61](https://www.legislation.gov.uk/ukpga/1986/61/section/61) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(h)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/h), [Sch. 15 para. 2(2)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/15/paragraph/2/2)

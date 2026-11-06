@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 65. Meaning of “inaccuracy”[^key-1e63f9a91710f3a8e08dcbaa1bc6e067]
+## 65. Meaning of “inaccuracy”[^c-1e63f9a91710f3a8e08dcbaa1bc6e067]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1e63f9a91710f3a8e08dcbaa1bc6e067]: Commencement: [S. 65](https://www.legislation.gov.uk/asp/2012/5/section/65) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-1e63f9a91710f3a8e08dcbaa1bc6e067]: Commencement: [S. 65](https://www.legislation.gov.uk/asp/2012/5/section/65) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

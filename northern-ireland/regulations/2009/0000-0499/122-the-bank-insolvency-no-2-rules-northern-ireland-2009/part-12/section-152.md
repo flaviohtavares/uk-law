@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 152. Application for exercise of court’s powers under Article 155[^key-8d9e892df3d22af18824732cf8e2fcd0]
+## 152. Application for exercise of court’s powers under Article 155[^c-8d9e892df3d22af18824732cf8e2fcd0]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 4.204 of the 1991 Rules.
 
 ## Annotations
 
-[^key-8d9e892df3d22af18824732cf8e2fcd0]: Commencement: Rule 152 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-8d9e892df3d22af18824732cf8e2fcd0]: Commencement: Rule 152 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

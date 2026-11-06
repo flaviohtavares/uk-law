@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Amendment of regulation H3[^key-dbc855b53f898601758826ecd9bcb1f9]
+## 31. Amendment of regulation H3[^c-dbc855b53f898601758826ecd9bcb1f9]
 
 *Extent: E+W*
 
@@ -69,4 +69,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dbc855b53f898601758826ecd9bcb1f9]: Commencement: Reg. 31 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
+[^c-dbc855b53f898601758826ecd9bcb1f9]: Commencement: Reg. 31 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46. Offences[^key-1d207fe1070954b052c1ddbb678b6ffb]
+## 46. Offences[^c-1d207fe1070954b052c1ddbb678b6ffb]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Proceedings for an offence under this Part may be instituted by any local author
 
 ## Annotations
 
-[^key-1d207fe1070954b052c1ddbb678b6ffb]: Commencement: [S. 46](https://www.legislation.gov.uk/anaw/2013/6/section/46) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(c)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/c) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-1d207fe1070954b052c1ddbb678b6ffb]: Commencement: [S. 46](https://www.legislation.gov.uk/anaw/2013/6/section/46) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(c)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/c) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Effect of transfer of chief probation officers.[^key-e7c79a13a707d463cff8a46773884ecc]
+## 22. Effect of transfer of chief probation officers.[^c-e7c79a13a707d463cff8a46773884ecc]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e7c79a13a707d463cff8a46773884ecc]: Textual amendment: S. 22 repealed (1.4.2008 for specified purposes, 1.4.2009 for specified purposes, 1.4.2010 in so far as not already in force) by [Offender Management Act 2007 (c. 21)](https://www.legislation.gov.uk/ukpga/2007/21), [s. 41(1)](https://www.legislation.gov.uk/ukpga/2007/21/section/41/1), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/21/schedule/5/part/1); [S.I. 2008/504](https://www.legislation.gov.uk/uksi/2008/504), [art. 4(1)(m)(vii)](https://www.legislation.gov.uk/uksi/2008/504/article/4/1/m/vii)[(2)](https://www.legislation.gov.uk/uksi/2008/504/article/4/2); [S.I. 2009/547](https://www.legislation.gov.uk/uksi/2009/547), [art. 2(1)(m)(vii)](https://www.legislation.gov.uk/uksi/2009/547/article/2/1/m/vii)[(2)](https://www.legislation.gov.uk/uksi/2009/547/article/2/2); [S.I. 2010/191](https://www.legislation.gov.uk/uksi/2010/191), [art. 2(13)(g)](https://www.legislation.gov.uk/uksi/2010/191/article/2/13/g)
+[^c-e7c79a13a707d463cff8a46773884ecc]: Textual amendment: S. 22 repealed (1.4.2008 for specified purposes, 1.4.2009 for specified purposes, 1.4.2010 in so far as not already in force) by [Offender Management Act 2007 (c. 21)](https://www.legislation.gov.uk/ukpga/2007/21), [s. 41(1)](https://www.legislation.gov.uk/ukpga/2007/21/section/41/1), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/21/schedule/5/part/1); [S.I. 2008/504](https://www.legislation.gov.uk/uksi/2008/504), [art. 4(1)(m)(vii)](https://www.legislation.gov.uk/uksi/2008/504/article/4/1/m/vii)[(2)](https://www.legislation.gov.uk/uksi/2008/504/article/4/2); [S.I. 2009/547](https://www.legislation.gov.uk/uksi/2009/547), [art. 2(1)(m)(vii)](https://www.legislation.gov.uk/uksi/2009/547/article/2/1/m/vii)[(2)](https://www.legislation.gov.uk/uksi/2009/547/article/2/2); [S.I. 2010/191](https://www.legislation.gov.uk/uksi/2010/191), [art. 2(13)(g)](https://www.legislation.gov.uk/uksi/2010/191/article/2/13/g)

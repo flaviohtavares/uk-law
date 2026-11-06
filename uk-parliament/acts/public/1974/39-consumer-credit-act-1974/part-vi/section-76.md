@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Duty to give notice before taking certain action.[^c20572151][^key-ad81f0f67db482f3b9b44cdb73c20eb0]
+## 76. Duty to give notice before taking certain action.[^c20572151][^c-ad81f0f67db482f3b9b44cdb73c20eb0]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,12 +43,12 @@ but so applies notwithstanding that, under the agreement, any party is entitled 
 
 (6) Subsection (1) does not apply to a right of enforcement arising by reason of any breach by the debtor or hirer of the regulated agreement.
 
-(7)[^key-2e85cd7dcec6df16dbc4867030f312af] This section does not apply to a regulated deferred payment credit agreement.
+(7)[^c-2e85cd7dcec6df16dbc4867030f312af] This section does not apply to a regulated deferred payment credit agreement.
 
 ## Annotations
 
 [^c20572151]: Modification: S. 76 applied (1.11.2009) by [The Payment Services Regulations 2009 (S.I. 2009/209)](https://www.legislation.gov.uk/uksi/2009/209), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2009/209/regulation/1/2/c), [52(d)](https://www.legislation.gov.uk/uksi/2009/209/regulation/52/d) (with [reg. 3](https://www.legislation.gov.uk/uksi/2009/209/regulation/3))
 
-[^key-ad81f0f67db482f3b9b44cdb73c20eb0]: Modification: [S. 76](https://www.legislation.gov.uk/ukpga/1974/39/section/76) excluded (E.W.S.) (15.7.2014) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Green Deal) (Amendment) Order 2014 (S.I. 2014/1850)](https://www.legislation.gov.uk/uksi/2014/1850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/2), [12(3)](https://www.legislation.gov.uk/uksi/2014/1850/article/12/3) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/3))
+[^c-ad81f0f67db482f3b9b44cdb73c20eb0]: Modification: [S. 76](https://www.legislation.gov.uk/ukpga/1974/39/section/76) excluded (E.W.S.) (15.7.2014) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Green Deal) (Amendment) Order 2014 (S.I. 2014/1850)](https://www.legislation.gov.uk/uksi/2014/1850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/2), [12(3)](https://www.legislation.gov.uk/uksi/2014/1850/article/12/3) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/3))
 
-[^key-2e85cd7dcec6df16dbc4867030f312af]: Textual amendment: [S. 76(7)](https://www.legislation.gov.uk/ukpga/1974/39/section/76/7) inserted (15.7.2025 for specified purposes, 15.7.2026 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities etc.) (Amendment) Order 2025 (S.I. 2025/859)](https://www.legislation.gov.uk/uksi/2025/859), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/859/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/859/article/1/3), [2(8)](https://www.legislation.gov.uk/uksi/2025/859/article/2/8)
+[^c-2e85cd7dcec6df16dbc4867030f312af]: Textual amendment: [S. 76(7)](https://www.legislation.gov.uk/ukpga/1974/39/section/76/7) inserted (15.7.2025 for specified purposes, 15.7.2026 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities etc.) (Amendment) Order 2025 (S.I. 2025/859)](https://www.legislation.gov.uk/uksi/2025/859), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/859/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/859/article/1/3), [2(8)](https://www.legislation.gov.uk/uksi/2025/859/article/2/8)

@@ -37,7 +37,7 @@ Made
 
 The Scottish Ministers make the following Order in exercise of the powers conferred by sections 40(1) and (2) and 43(3) of the Tobacco and Primary Medical Services (Scotland) Act 2010[^f00001].
 
-## 1. Citation and interpretation[^key-600b75f460d0bfb5ceb23b2f624d0d35]
+## 1. Citation and interpretation[^c-600b75f460d0bfb5ceb23b2f624d0d35]
 
 (1) This Order may be cited as the Tobacco and Primary Medical Services (Scotland) Act 2010 (Commencement No. 1, Consequential and Saving Provisions) Order 2010.
 
@@ -46,17 +46,17 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 - “the 2010 Act” means the Tobacco and Primary Medical Services (Scotland) Act 2010; and
 - “the 1991 Act” means the Children and Young Persons (Protection from Tobacco) Act 1991[^f00002].
 
-## 2. Commencement of sections 4 to 8, 10 to 36 and Schedule 1 of the 2010 Act[^key-31935b4989cf7559c2612f3e374b3475]
+## 2. Commencement of sections 4 to 8, 10 to 36 and Schedule 1 of the 2010 Act[^c-31935b4989cf7559c2612f3e374b3475]
 
 (1) Subject to paragraph (2), the day appointed for the coming into force of the provisions of the 2010 Act specified in column 1 of the table in the Schedule to this Order (the subject matter of which is specified in column 2 of that table) is the day specified in column 3 of that table.
 
 (2) Where a purpose is specified in column 4 of that table, a provision mentioned in column 1 comes into force in accordance with paragraph (1) only for that purpose.
 
-## 3. Consequential amendment of section 4 of the Children and Young Persons (Protection from Tobacco) Act 1991[^key-9f7ea6782facb5ceab295e08ecaa6622]
+## 3. Consequential amendment of section 4 of the Children and Young Persons (Protection from Tobacco) Act 1991[^c-9f7ea6782facb5ceab295e08ecaa6622]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Saving section 18 of the Children and Young Persons (Scotland) Act 1937[^key-8a761628e2cd312eb9baca42d8f300db]
+## 4. Saving section 18 of the Children and Young Persons (Scotland) Act 1937[^c-8a761628e2cd312eb9baca42d8f300db]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -70,7 +70,7 @@ Edinburgh
 
 27th September 2010
 
-## SCHEDULE[^key-13008415d7d8e54e56b523c17f9ed867]
+## SCHEDULE[^c-13008415d7d8e54e56b523c17f9ed867]
 
 Articles 2(1) and (2)
 
@@ -160,14 +160,14 @@ In terms of the ancillary Order, section 18 of the Children and Young Persons (S
 
 [^f00001]: Footnote: [2010 asp 3](https://www.legislation.gov.uk/asp/2010/3).
 
-[^key-600b75f460d0bfb5ceb23b2f624d0d35]: Commencement: Art. 1 in force at made date
+[^c-600b75f460d0bfb5ceb23b2f624d0d35]: Commencement: Art. 1 in force at made date
 
 [^f00002]: Footnote: [1991 c.23](https://www.legislation.gov.uk/ukpga/1991/23).
 
-[^key-31935b4989cf7559c2612f3e374b3475]: Commencement: Art. 2 in force at made date
+[^c-31935b4989cf7559c2612f3e374b3475]: Commencement: Art. 2 in force at made date
 
-[^key-9f7ea6782facb5ceab295e08ecaa6622]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/ssi/2010/345/article/3) revoked (29.4.2013) by [The Tobacco and Primary Medical Services (Scotland) Act 2010 (Incidental Provision and Commencement No. 4) Order 2013 (S.S.I. 2013/106)](https://www.legislation.gov.uk/ssi/2013/106), [arts. 1(2)(a)](https://www.legislation.gov.uk/ssi/2013/106/article/1/2/a), [4(a)](https://www.legislation.gov.uk/ssi/2013/106/article/4/a)
+[^c-9f7ea6782facb5ceab295e08ecaa6622]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/ssi/2010/345/article/3) revoked (29.4.2013) by [The Tobacco and Primary Medical Services (Scotland) Act 2010 (Incidental Provision and Commencement No. 4) Order 2013 (S.S.I. 2013/106)](https://www.legislation.gov.uk/ssi/2013/106), [arts. 1(2)(a)](https://www.legislation.gov.uk/ssi/2013/106/article/1/2/a), [4(a)](https://www.legislation.gov.uk/ssi/2013/106/article/4/a)
 
-[^key-8a761628e2cd312eb9baca42d8f300db]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/ssi/2010/345/article/4) revoked (29.4.2013) by [The Tobacco and Primary Medical Services (Scotland) Act 2010 (Incidental Provision and Commencement No. 4) Order 2013 (S.S.I. 2013/106)](https://www.legislation.gov.uk/ssi/2013/106), [arts. 1(2)(a)](https://www.legislation.gov.uk/ssi/2013/106/article/1/2/a), [4(a)](https://www.legislation.gov.uk/ssi/2013/106/article/4/a)
+[^c-8a761628e2cd312eb9baca42d8f300db]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/ssi/2010/345/article/4) revoked (29.4.2013) by [The Tobacco and Primary Medical Services (Scotland) Act 2010 (Incidental Provision and Commencement No. 4) Order 2013 (S.S.I. 2013/106)](https://www.legislation.gov.uk/ssi/2013/106), [arts. 1(2)(a)](https://www.legislation.gov.uk/ssi/2013/106/article/1/2/a), [4(a)](https://www.legislation.gov.uk/ssi/2013/106/article/4/a)
 
-[^key-13008415d7d8e54e56b523c17f9ed867]: Commencement: Sch. in force at made date
+[^c-13008415d7d8e54e56b523c17f9ed867]: Commencement: Sch. in force at made date

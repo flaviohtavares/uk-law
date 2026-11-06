@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5. Extended meaning of tenancy and related expressions in other enactments[^key-739367e6a5bbd58345013c90bcfd1988]
+## 5. Extended meaning of tenancy and related expressions in other enactments[^c-739367e6a5bbd58345013c90bcfd1988]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ Unless the contrary intention appears, a reference in any enactment to—
 
 ## Annotations
 
-[^key-739367e6a5bbd58345013c90bcfd1988]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2016/19/section/5) in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
+[^c-739367e6a5bbd58345013c90bcfd1988]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2016/19/section/5) in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)

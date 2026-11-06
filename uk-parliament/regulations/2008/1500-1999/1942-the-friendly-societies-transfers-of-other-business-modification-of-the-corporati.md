@@ -32,7 +32,7 @@ summary: ''
 
 Corporation Tax
 
-The Friendly Societies (Transfers of Other Business) (Modification of the Corporation Tax Acts) Regulations 2008 (revoked)[^key-fb0f59dab809e3ad8b80af418161b1d7]
+The Friendly Societies (Transfers of Other Business) (Modification of the Corporation Tax Acts) Regulations 2008 (revoked)[^c-fb0f59dab809e3ad8b80af418161b1d7]
 
 Made
 
@@ -46,48 +46,48 @@ Coming into force
 
 12th August 2008
 
-[^key-fb0f59dab809e3ad8b80af418161b1d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fb0f59dab809e3ad8b80af418161b1d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and effect[^key-fb0f59dab809e3ad8b80af418161b1d7]
+## 1. Citation, commencement and effect[^c-fb0f59dab809e3ad8b80af418161b1d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Modification of the Corporation Tax Acts[^key-fb0f59dab809e3ad8b80af418161b1d7]
+## 2. Modification of the Corporation Tax Acts[^c-fb0f59dab809e3ad8b80af418161b1d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Modification of the Income and Corporation Taxes Act 1988[^key-fb0f59dab809e3ad8b80af418161b1d7]
+## 3. Modification of the Income and Corporation Taxes Act 1988[^c-fb0f59dab809e3ad8b80af418161b1d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Modification of section 432ZA (linked assets)[^key-fb0f59dab809e3ad8b80af418161b1d7]
+## 4. Modification of section 432ZA (linked assets)[^c-fb0f59dab809e3ad8b80af418161b1d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Modification of section 461 (taxation in respect of other business)[^key-fb0f59dab809e3ad8b80af418161b1d7]
+## 5. Modification of section 461 (taxation in respect of other business)[^c-fb0f59dab809e3ad8b80af418161b1d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Modification of section 461B (taxation in respect of other business: incorporated friendly societies etc)[^key-fb0f59dab809e3ad8b80af418161b1d7]
+## 6. Modification of section 461B (taxation in respect of other business: incorporated friendly societies etc)[^c-fb0f59dab809e3ad8b80af418161b1d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Insertion of regulations 461E to 461G (apportionment)[^key-fb0f59dab809e3ad8b80af418161b1d7]
+## 7. Insertion of regulations 461E to 461G (apportionment)[^c-fb0f59dab809e3ad8b80af418161b1d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Modification of the Capital Allowances Act 2001[^key-fb0f59dab809e3ad8b80af418161b1d7]
+## 8. Modification of the Capital Allowances Act 2001[^c-fb0f59dab809e3ad8b80af418161b1d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fb0f59dab809e3ad8b80af418161b1d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fb0f59dab809e3ad8b80af418161b1d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-fb0f59dab809e3ad8b80af418161b1d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fb0f59dab809e3ad8b80af418161b1d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fb0f59dab809e3ad8b80af418161b1d7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/1942) revoked (31.12.2012) by [The Friendly Societies (Modifications of the Tax Acts) Regulations 2012 (S.I. 2012/3008)](https://www.legislation.gov.uk/uksi/2012/3008), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/3008/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2012/3008/schedule) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3008/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2012/3008/regulation/2))
+[^c-fb0f59dab809e3ad8b80af418161b1d7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/1942) revoked (31.12.2012) by [The Friendly Societies (Modifications of the Tax Acts) Regulations 2012 (S.I. 2012/3008)](https://www.legislation.gov.uk/uksi/2012/3008), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/3008/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2012/3008/schedule) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3008/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2012/3008/regulation/2))

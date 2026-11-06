@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Disclosure orders: Scotland[^key-1a1badb963cc6ebb9b54ab3f4125f0ab][^c22725131]
+## 8. Disclosure orders: Scotland[^c-1a1badb963cc6ebb9b54ab3f4125f0ab][^c22725131]
 
 *Extent: S*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1a1badb963cc6ebb9b54ab3f4125f0ab]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2017/22/section/8) in force at 31.1.2018 in so far as not already in force by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/b)
+[^c-1a1badb963cc6ebb9b54ab3f4125f0ab]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2017/22/section/8) in force at 31.1.2018 in so far as not already in force by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/b)
 
 [^c22725131]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2017/22/section/8) in force at Royal Assent for specified purposes, see [s. 58](https://www.legislation.gov.uk/ukpga/2017/22/section/58)

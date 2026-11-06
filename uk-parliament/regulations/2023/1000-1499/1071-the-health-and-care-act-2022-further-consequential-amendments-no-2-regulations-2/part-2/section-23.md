@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Amendment of the National Health Service (Free Prescriptions and Charges for Drugs and Appliances) (Wales) Regulations 2007 (English language text)[^key-bb7297ddf4fe5eb07d249474c00c8460]
+## 23. Amendment of the National Health Service (Free Prescriptions and Charges for Drugs and Appliances) (Wales) Regulations 2007 (English language text)[^c-bb7297ddf4fe5eb07d249474c00c8460]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bb7297ddf4fe5eb07d249474c00c8460]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2023/1071/regulation/23) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-bb7297ddf4fe5eb07d249474c00c8460]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2023/1071/regulation/23) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
 
 [^f00020]: Footnote: [S.I. 2007/121 (W. 11)](https://www.legislation.gov.uk/wsi/2007/121), amended by [S.I. 2013/235](https://www.legislation.gov.uk/uksi/2013/235); there are other amending instruments but none is relevant.

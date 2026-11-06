@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 232. Enforcement of court orders[^key-8237f646dda3ca8f39c850e3e08ada58]
+## 232. Enforcement of court orders[^c-8237f646dda3ca8f39c850e3e08ada58]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In a special administration, orders of the court may be enforced in the same man
 
 ## Annotations
 
-[^key-8237f646dda3ca8f39c850e3e08ada58]: Commencement: Rule 232 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-8237f646dda3ca8f39c850e3e08ada58]: Commencement: Rule 232 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

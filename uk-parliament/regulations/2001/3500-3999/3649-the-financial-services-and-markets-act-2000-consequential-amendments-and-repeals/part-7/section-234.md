@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 234. Competent authorities for the receipt of information[^key-42c717c5cfc7cabe1baf47edd4cfc289]
+## 234. Competent authorities for the receipt of information[^c-42c717c5cfc7cabe1baf47edd4cfc289]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ For paragraphs (e) to (l) of section 30(5) of the Criminal Law (Consolidation) (
 
 ## Annotations
 
-[^key-42c717c5cfc7cabe1baf47edd4cfc289]: Commencement: Art. 234 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-42c717c5cfc7cabe1baf47edd4cfc289]: Commencement: Art. 234 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

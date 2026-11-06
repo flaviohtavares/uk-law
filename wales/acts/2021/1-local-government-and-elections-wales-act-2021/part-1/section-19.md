@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Qualification for election and holding office as a member of a local authority in Wales[^key-b38fb311d5380fa61cd2374507f58046]
+## 19. Qualification for election and holding office as a member of a local authority in Wales[^c-b38fb311d5380fa61cd2374507f58046]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b38fb311d5380fa61cd2374507f58046]: Commencement: [S. 19](https://www.legislation.gov.uk/asc/2021/1/section/19) in force at 17.11.2021 by [S.I. 2021/1249](https://www.legislation.gov.uk/wsi/2021/1249), [art. 2(a)](https://www.legislation.gov.uk/wsi/2021/1249/article/2/a) (with [art. 4](https://www.legislation.gov.uk/wsi/2021/1249/article/4))
+[^c-b38fb311d5380fa61cd2374507f58046]: Commencement: [S. 19](https://www.legislation.gov.uk/asc/2021/1/section/19) in force at 17.11.2021 by [S.I. 2021/1249](https://www.legislation.gov.uk/wsi/2021/1249), [art. 2(a)](https://www.legislation.gov.uk/wsi/2021/1249/article/2/a) (with [art. 4](https://www.legislation.gov.uk/wsi/2021/1249/article/4))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 127. Vacancy (contributory members)[^key-016fb2c68dfa6635b49a1c7f5bc973e2]
+## 127. Vacancy (contributory members)[^c-016fb2c68dfa6635b49a1c7f5bc973e2]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 4.172 of the 1991 Rules.
 
 ## Annotations
 
-[^key-016fb2c68dfa6635b49a1c7f5bc973e2]: Commencement: Rule 127 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-016fb2c68dfa6635b49a1c7f5bc973e2]: Commencement: Rule 127 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

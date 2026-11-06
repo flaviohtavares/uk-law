@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 140A. Section 139(1) intervention notices: Secretary of State's duty to refer[^key-14bebbb44d8fbbd7a0812dc4ea6f13f4]
+## 140A. Section 139(1) intervention notices: Secretary of State's duty to refer[^c-14bebbb44d8fbbd7a0812dc4ea6f13f4]
 
 *Extent: E+W+S+N.I.*
 
@@ -72,4 +72,4 @@ summary: ''
 
 ## Annotations
 
-[^key-14bebbb44d8fbbd7a0812dc4ea6f13f4]: Textual amendment: S. 140A inserted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 35(8)](https://www.legislation.gov.uk/ukpga/2013/24/section/35/8), [103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-14bebbb44d8fbbd7a0812dc4ea6f13f4]: Textual amendment: S. 140A inserted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 35(8)](https://www.legislation.gov.uk/ukpga/2013/24/section/35/8), [103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

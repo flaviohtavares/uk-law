@@ -31,8 +31,8 @@ if the investor disposes of some but not all of the shares of that class which t
 
 (3) Shares acquired on the same day are treated as disposed of in the following order—
 
-- (a) first any to which no[^key-9451b070b200ec1ab8811d1a89b25372] EIS relief, deferral relief or SEIS relief is attributable,
-- (aa)[^key-8f196bd5a8b3bba90860f180a79f1c7f] next any to which SEIS relief is attributable,
+- (a) first any to which no[^c-9451b070b200ec1ab8811d1a89b25372] EIS relief, deferral relief or SEIS relief is attributable,
+- (aa)[^c-8f196bd5a8b3bba90860f180a79f1c7f] next any to which SEIS relief is attributable,
 - (b) next any to which deferral relief, but not EIS relief, is attributable,
 - (c) next any to which EIS relief, but not deferral relief, is attributable, and
 - (d) finally any to which both EIS relief and deferral relief are attributable.
@@ -52,12 +52,12 @@ are treated for the purposes of subsections (2) and (3) as acquired by the indiv
 
 - “**deferral relief**” has the same meaning as in Schedule 5B to TCGA 1992,
 - “**new holding**” and “**original shares**” have the same meaning as in section 127 of TCGA 1992 (or, as the case may be, that section as applied by the enactment concerned).
-- “[^key-7cc1a8cb16d93673dae9e99baae112fd]**SEIS relief**” means relief under Part 5A (seed enterprise investment scheme).
+- “[^c-7cc1a8cb16d93673dae9e99baae112fd]**SEIS relief**” means relief under Part 5A (seed enterprise investment scheme).
 
 ## Annotations
 
-[^key-9451b070b200ec1ab8811d1a89b25372]: Textual amendment: Words in s. 246(3)(a) substituted (17.7.2012) (with effect in accordance with Sch. 6 para. 24(1) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 6 para. 14(2)(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/6/paragraph/14/2/a)
+[^c-9451b070b200ec1ab8811d1a89b25372]: Textual amendment: Words in s. 246(3)(a) substituted (17.7.2012) (with effect in accordance with Sch. 6 para. 24(1) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 6 para. 14(2)(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/6/paragraph/14/2/a)
 
-[^key-8f196bd5a8b3bba90860f180a79f1c7f]: Textual amendment: S. 246(3)(aa) inserted (17.7.2012) (with effect in accordance with Sch. 6 para. 24(1) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 6 para. 14(2)(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/6/paragraph/14/2/b)
+[^c-8f196bd5a8b3bba90860f180a79f1c7f]: Textual amendment: S. 246(3)(aa) inserted (17.7.2012) (with effect in accordance with Sch. 6 para. 24(1) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 6 para. 14(2)(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/6/paragraph/14/2/b)
 
-[^key-7cc1a8cb16d93673dae9e99baae112fd]: Textual amendment: Words in s. 246(7) inserted (17.7.2012) (with effect in accordance with Sch. 6 para. 24(1) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 6 para. 14(3)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/6/paragraph/14/3)
+[^c-7cc1a8cb16d93673dae9e99baae112fd]: Textual amendment: Words in s. 246(7) inserted (17.7.2012) (with effect in accordance with Sch. 6 para. 24(1) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 6 para. 14(3)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/6/paragraph/14/3)

@@ -36,7 +36,7 @@ This is subject to the provisions of Chapter 6 for the withdrawal or reduction o
 - (a) is apportioned between the loan or loans, securities or shares in each of those investments in the same proportions as the invested amounts in respect of the loan or loans, securities or shares for the year, and
 - (b) is attributed to that loan or those loans, securities or shares accordingly.
 
-(4A)[^key-757fba13e62575f3203fb247e13f51b8] In the case of CITR under section 335A, in subsection (4)(a) the reference to the year is to be read as a reference to the year mentioned in section 335A(1)(a).
+(4A)[^c-757fba13e62575f3203fb247e13f51b8] In the case of CITR under section 335A, in subsection (4)(a) the reference to the year is to be read as a reference to the year mentioned in section 335A(1)(a).
 
 (5) If under this section an amount of any reduction of income tax is attributed to any securities in the same issue, a proportionate part of that amount is attributed to each security.
 
@@ -48,4 +48,4 @@ This is subject to the provisions of Chapter 6 for the withdrawal or reduction o
 
 ## Annotations
 
-[^key-757fba13e62575f3203fb247e13f51b8]: Textual amendment: S. 357(4A) inserted (with effect in accordance with Sch. 27 para. 6 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 27 para. 4](https://www.legislation.gov.uk/ukpga/2013/29/schedule/27/paragraph/4)
+[^c-757fba13e62575f3203fb247e13f51b8]: Textual amendment: S. 357(4A) inserted (with effect in accordance with Sch. 27 para. 6 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 27 para. 4](https://www.legislation.gov.uk/ukpga/2013/29/schedule/27/paragraph/4)

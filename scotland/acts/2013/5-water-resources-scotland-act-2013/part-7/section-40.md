@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 40. Content of order[^key-de1e2ac65aae8e72a9ec149d2c732765]
+## 40. Content of order[^c-de1e2ac65aae8e72a9ec149d2c732765]
 
 *Extent: S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-de1e2ac65aae8e72a9ec149d2c732765]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2013/5/section/40) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
+[^c-de1e2ac65aae8e72a9ec149d2c732765]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2013/5/section/40) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)

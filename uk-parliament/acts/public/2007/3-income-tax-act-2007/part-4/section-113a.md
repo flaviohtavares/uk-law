@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113A. Exclusion of amounts contributed to access relief[^key-38e54178fffa3735668e77a4b6c5c965]
+## 113A. Exclusion of amounts contributed to access relief[^c-38e54178fffa3735668e77a4b6c5c965]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ that amount is to be excluded in calculating the individual's contribution to th
 
 ## Annotations
 
-[^key-38e54178fffa3735668e77a4b6c5c965]: Textual amendment: S. 113A and cross-heading inserted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/2)
+[^c-38e54178fffa3735668e77a4b6c5c965]: Textual amendment: S. 113A and cross-heading inserted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/2)

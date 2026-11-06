@@ -641,7 +641,7 @@ Schedule 1 is amended as follows—
   - (i) transfer value (in the context of payment of a transfer value);
   - (ii) transfer value (in the context of acceptance of a transfer value).
 
-## 22. Amendment to Schedule 2 (pensionable employment)[^key-b4606d4a31a16f0ab2ae6f79baea1a84]
+## 22. Amendment to Schedule 2 (pensionable employment)[^c-b4606d4a31a16f0ab2ae6f79baea1a84]
 
 In Schedule 2—
 
@@ -862,6 +862,6 @@ An impact assessment has not been produced for this instrument as it has no impa
 
 [^c22224721]: Marginal citation: [2010 c.32](https://www.legislation.gov.uk/ukpga/2010/32). Sections 1A, 1B and 1C were inserted by section 57(3) of the [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21).
 
-[^key-b4606d4a31a16f0ab2ae6f79baea1a84]: Textual amendment: Reg. 22 substituted (1.8.2021 with effect from 11.59 p.m. on 31.3.2015) by [The Teachers’ Pensions (Miscellaneous Provisions) (Amendment) Regulations 2021 (S.I. 2021/805)](https://www.legislation.gov.uk/uksi/2021/805), [regs. 1](https://www.legislation.gov.uk/uksi/2021/805/regulation/1), [2(1)(b)](https://www.legislation.gov.uk/uksi/2021/805/regulation/2/1/b)[(2)](https://www.legislation.gov.uk/uksi/2021/805/regulation/2/2)
+[^c-b4606d4a31a16f0ab2ae6f79baea1a84]: Textual amendment: Reg. 22 substituted (1.8.2021 with effect from 11.59 p.m. on 31.3.2015) by [The Teachers’ Pensions (Miscellaneous Provisions) (Amendment) Regulations 2021 (S.I. 2021/805)](https://www.legislation.gov.uk/uksi/2021/805), [regs. 1](https://www.legislation.gov.uk/uksi/2021/805/regulation/1), [2(1)(b)](https://www.legislation.gov.uk/uksi/2021/805/regulation/2/1/b)[(2)](https://www.legislation.gov.uk/uksi/2021/805/regulation/2/2)
 
 [^c22224731]: Marginal citation: [2007 c.18](https://www.legislation.gov.uk/ukpga/2007/18).

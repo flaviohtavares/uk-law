@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18.[^key-8629aa3c037d4341991ef4019b34c5aa]
+## 18.[^c-8629aa3c037d4341991ef4019b34c5aa]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,7 +35,7 @@ In section 1253B (request from EEA competent authorities) [^c23586361]—
 
 ## Annotations
 
-[^key-8629aa3c037d4341991ef4019b34c5aa]: Commencement: Reg. 18 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+[^c-8629aa3c037d4341991ef4019b34c5aa]: Commencement: Reg. 18 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
 
 [^c23586361]: Marginal citation: Section 1253B was inserted by regulation 14(1) of [S.I. 2007/3494](https://www.legislation.gov.uk/uksi/2007/3494).
 

@@ -181,7 +181,7 @@ In accordance with section 45Q(3) of the Public Health (Control of Disease) Act 
 
 (6) This regulation does not apply where the operator of the diagnostic laboratory reasonably believes that the proper officer of the relevant local authority has already been notified in accordance with this regulation by the operator of another diagnostic laboratory in relation to the same causative agent being found in a sample from the same person.
 
-(6A)[^key-47af6092d94c4834e94bb6af0b6f6132] This regulation does not apply where the operator of a diagnostic laboratory has made a notification to Public Health Wales in accordance with regulation 4A, 4B, 4C or 4D.
+(6A)[^c-47af6092d94c4834e94bb6af0b6f6132] This regulation does not apply where the operator of a diagnostic laboratory has made a notification to Public Health Wales in accordance with regulation 4A, 4B, 4C or 4D.
 
 (7) For the purposes of paragraph (1), a diagnostic laboratory identifies a causative agent where—
 
@@ -204,18 +204,18 @@ In accordance with section 45Q(3) of the Public Health (Control of Disease) Act 
   - (a) the clinical microbiologist, consultant pathologist or other registered medical practitioner or other person in charge of a diagnostic laboratory; or
   - (b) any other person working in the diagnostic laboratory to whom the function of making a notification under this regulation has been delegated by the person mentioned in sub-paragraph (a);
 - “**operator of a diagnostic laboratory**” (“***gweithredwr labordy diagnostig***”) means the corporate body that operates the diagnostic laboratory or, if there is no such body, the director of the diagnostic laboratory; and
-- “Public Health Wales” (“[^key-aaf9ed01ba331b243f12c9735cf294e1]*Iechyd Cyhoeddus Cymru*”) means Public Health Wales National Health Service Trust;
+- “Public Health Wales” (“[^c-aaf9ed01ba331b243f12c9735cf294e1]*Iechyd Cyhoeddus Cymru*”) means Public Health Wales National Health Service Trust;
 - “**relevant local authority**” (“***awdurdod lleol perthnasol***”) means the local authority within whose area the organisation of the person who solicited the test which identified the causative agent is situated.
 
-## 4A. Duty on the operators of diagnostic laboratories to notify Public Health Wales of SARS-CoV-2 or influenza virus tests processed[^key-1040f62f9fa1ecee814f15766202b161]
+## 4A. Duty on the operators of diagnostic laboratories to notify Public Health Wales of SARS-CoV-2 or influenza virus tests processed[^c-1040f62f9fa1ecee814f15766202b161]
 
-(1) The operator of a diagnostic laboratory must notify Public Health Wales in accordance with this regulation where the diagnostic laboratory processes a test for the detection of SARS-CoV-2 , other than a test in relation to which regulation 4AB applies,[^key-3b81a738af85d59316e2a7e0fac821d6] and the test result is positive or indeterminate.
+(1) The operator of a diagnostic laboratory must notify Public Health Wales in accordance with this regulation where the diagnostic laboratory processes a test for the detection of SARS-CoV-2 , other than a test in relation to which regulation 4AB applies,[^c-3b81a738af85d59316e2a7e0fac821d6] and the test result is positive or indeterminate.
 
 (2) Where paragraph (1) of regulation 4B applies to the operator of a diagnostic laboratory, the notification required by paragraph (1) must be in accordance with this regulation and regulation 4B.
 
 (3) The operator of a diagnostic laboratory must also notify Public Health Wales in accordance with this regulation where the diagnostic laboratory—
 
-- (a) processes a test for the detection of SARS-CoV-2 , other than a test in relation to which regulation 4AB applies,[^key-d352577827dbe747f7d4f233adbc3cb0] and the test result is negative or void; or
+- (a) processes a test for the detection of SARS-CoV-2 , other than a test in relation to which regulation 4AB applies,[^c-d352577827dbe747f7d4f233adbc3cb0] and the test result is negative or void; or
 - (b) processes a test for the detection of influenza virus and the test result is positive, indeterminate, negative or void.
 
 (4) The notification must include the following information insofar as it is known to the operator of the diagnostic laboratory—
@@ -277,7 +277,7 @@ must be provided within 48 hours of the time the diagnostic laboratory received 
 - “parent” (“*rhiant*”) has the meaning given in regulation 2(7);
 - “Public Health Wales” (“*Iechyd Cyhoeddus Cymru*”) has the meaning given in regulation 4(11).
 
-## 4AB. Duty to notify Public Health Wales of the results of lateral flow device tests undertaken by eligible travellers[^key-173c457ff980e2afd1e369db892a839a]
+## 4AB. Duty to notify Public Health Wales of the results of lateral flow device tests undertaken by eligible travellers[^c-173c457ff980e2afd1e369db892a839a]
 
 (1) This regulation applies where a test provider administers or provides a test for the detection of SARS-CoV-2 in accordance with regulation 6AB(2)(a)(ii)(bb) (lateral flow device tests) of the International Travel Regulations.
 
@@ -465,21 +465,21 @@ must be provided within 48 hours of the time the diagnostic laboratory received 
 
 (10) In this regulation, “International Travel Regulations” and “Public Health Wales” have the same meaning as in regulation 4A(13).
 
-## 5. Duty to provide information to the proper officer or Public Health Wales[^key-920cff348b541dd6381fde901e9cbec3]
+## 5. Duty to provide information to the proper officer or Public Health Wales[^c-920cff348b541dd6381fde901e9cbec3]
 
-(1) This regulation applies where a notification has been made by the operator of a diagnostic laboratory to the proper officer under regulation 4 or Public Health Wales under regulations 4A,[^key-c2e72504d1ba4866ee5ce7a3d8185837] 4AB,[^key-0b3d6112e73ceaf438631753ed0847b6] 4B, 4C and 4D.
+(1) This regulation applies where a notification has been made by the operator of a diagnostic laboratory to the proper officer under regulation 4 or Public Health Wales under regulations 4A,[^c-c2e72504d1ba4866ee5ce7a3d8185837] 4AB,[^c-0b3d6112e73ceaf438631753ed0847b6] 4B, 4C and 4D.
 
 (2) The proper officer may request that the person (R) who solicited the laboratory test which identified the causative agent to which the notification relates, provide to him or her the information listed at regulation 4(2) insofar as that information was not included in the notification.
 
-(2A)[^key-84bc28e3a507bce03aec8a8468dce3c5] Public Health Wales may request that R provide to it the information listed at regulation 4A(3), 4AB(4),[^key-3edb33227046054b19fff2101f7accfc] 4B(2) or 4D(5) insofar as that information was not included in the notification.
+(2A)[^c-84bc28e3a507bce03aec8a8468dce3c5] Public Health Wales may request that R provide to it the information listed at regulation 4A(3), 4AB(4),[^c-3edb33227046054b19fff2101f7accfc] 4B(2) or 4D(5) insofar as that information was not included in the notification.
 
-(3) R must provide the information requested under paragraph (2) or (2A)[^key-0056e612069f91c6919c18fa982d5ce2] insofar as it is known to R.
+(3) R must provide the information requested under paragraph (2) or (2A)[^c-0056e612069f91c6919c18fa982d5ce2] insofar as it is known to R.
 
 (4) The information must be provided in writing within 3 days beginning with the day on which the request is made.
 
-(5) Without prejudice to paragraph (4), if the proper officer or Public Health Wales[^key-4dd3d6783d032ba0600671e9d9351a66] considers the case to be urgent and informs R of this fact when making the request, the information must be provided orally as soon as reasonably practicable.
+(5) Without prejudice to paragraph (4), if the proper officer or Public Health Wales[^c-4dd3d6783d032ba0600671e9d9351a66] considers the case to be urgent and informs R of this fact when making the request, the information must be provided orally as soon as reasonably practicable.
 
-(6) In determining whether the case is urgent, the proper officer or Public Health Wales[^key-5306eee2a8bb26cf408f02c4b5adc786] must have regard to—
+(6) In determining whether the case is urgent, the proper officer or Public Health Wales[^c-5306eee2a8bb26cf408f02c4b5adc786] must have regard to—
 
 - (a) the nature of the causative agent to which the notification relates;
 - (b) the nature of the disease which the causative agent causes;
@@ -487,7 +487,7 @@ must be provided within 48 hours of the time the diagnostic laboratory received 
 - (d) the ways in which the spread of the causative agent can be prevented or controlled; and
 - (e) where known, the circumstances of the person from whom the sample was taken (including age, sex and occupation).
 
-(7)[^key-b589365d233c90915f1d640eade78f92] In this regulation, “causative agent” (“*cyfrwng achosol*”) and “Public Health Wales” (“*Iechyd Cyhoeddus Cymru*”) have the same meaning as in regulation 4(11).
+(7)[^c-b589365d233c90915f1d640eade78f92] In this regulation, “causative agent” (“*cyfrwng achosol*”) and “Public Health Wales” (“*Iechyd Cyhoeddus Cymru*”) have the same meaning as in regulation 4(11).
 
 ## 6. Duty on the proper officer to disclose notifications to others
 
@@ -514,7 +514,7 @@ must be provided within 48 hours of the time the diagnostic laboratory received 
 
 (1) This regulation applies to—
 
-- (a) notifications provided under regulations 2(1), 3(1) , 4(1), 4A(1),[^key-8dec72c9574eb46745ef52fc637796ea] 4AB,[^key-33efa14a3de167c2c5353d29a631a33d] 4B(1), 4C(1) and 4D(3);
+- (a) notifications provided under regulations 2(1), 3(1) , 4(1), 4A(1),[^c-8dec72c9574eb46745ef52fc637796ea] 4AB,[^c-33efa14a3de167c2c5353d29a631a33d] 4B(1), 4C(1) and 4D(3);
 - (b) information provided under regulation 5(3);
 - (c) disclosures made under regulation 6(2);
 - (d) lists provided under regulation 3 (requirement to provide details of children attending school) of the Health Protection (Local Authority Powers) (Wales) Regulations 2010 [^c20357561]; and
@@ -537,13 +537,13 @@ Minister for Health and Social Services, one of the Welsh Ministers
 
 Regulations 2(7)
 
-- Acquired carbapenemase-producing Gram-negative bacteria[^key-687867c5b4f59e20bded87d5d403a850]
+- Acquired carbapenemase-producing Gram-negative bacteria[^c-687867c5b4f59e20bded87d5d403a850]
 - Anthrax
 - Botulism
 - Brucellosis
 - Chikungunya virus disease
 - Cholera
-- Coronavirus Disease 2019 (COVID-19)[^key-2f1fc3b46054a298b97ffbf844a1d5a1]
+- Coronavirus Disease 2019 (COVID-19)[^c-2f1fc3b46054a298b97ffbf844a1d5a1]
 - Diphtheria
 - Encephalitis (acute)
 - Enteric fever (typhoid or paratyphoid fever)
@@ -558,7 +558,7 @@ Regulations 2(7)
 - Measles
 - Meningitis (acute)
 - Meningococcal septicaemia
-- Monkeypox[^key-6591e685eec931bf4be1347055ec4021]
+- Monkeypox[^c-6591e685eec931bf4be1347055ec4021]
 - Mumps
 - Plague
 - Poliomyelitis (acute)
@@ -618,7 +618,7 @@ Regulations 4(11) and 5(7)
 - Machupo virus
 - Marburg virus
 - Measles virus
-- Monkeypox virus[^key-029fa942ac6fbd02cff4fb3ce21b959d]
+- Monkeypox virus[^c-029fa942ac6fbd02cff4fb3ce21b959d]
 - Mumps virus
 - *Mycobacterium tuberculosis complex*
 - *Neisseria meningitidis*
@@ -632,7 +632,7 @@ Regulations 4(11) and 5(7)
 - Sabia virus
 - *Salmonella spp*
 - SARS coronavirus
-- Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)[^key-3927d7f0c1bc4fed0acc21b5bfd7b1bd]
+- Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)[^c-3927d7f0c1bc4fed0acc21b5bfd7b1bd]
 - *Shigella spp*
 - *Streptococcus pneumoniae (invasive)*
 - *Streptococcus pyogenes (invasive)*
@@ -680,55 +680,55 @@ A regulatory impact assessment has been prepared as to the likely costs and bene
 
 [^c20357541]: Marginal citation: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56).
 
-[^key-47af6092d94c4834e94bb6af0b6f6132]: Textual amendment: Reg. 4(6A) inserted (21.9.2021) by [The Health Protection (Coronavirus, International Travel and Notification) (Wales) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1063)](https://www.legislation.gov.uk/wsi/2021/1063), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2021/1063/regulation/1/3), [10(a)](https://www.legislation.gov.uk/wsi/2021/1063/regulation/10/a)
+[^c-47af6092d94c4834e94bb6af0b6f6132]: Textual amendment: Reg. 4(6A) inserted (21.9.2021) by [The Health Protection (Coronavirus, International Travel and Notification) (Wales) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1063)](https://www.legislation.gov.uk/wsi/2021/1063), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2021/1063/regulation/1/3), [10(a)](https://www.legislation.gov.uk/wsi/2021/1063/regulation/10/a)
 
-[^key-aaf9ed01ba331b243f12c9735cf294e1]: Textual amendment: Words in reg. 4(11) inserted (21.9.2021) by [The Health Protection (Coronavirus, International Travel and Notification) (Wales) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1063)](https://www.legislation.gov.uk/wsi/2021/1063), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2021/1063/regulation/1/3), [10(b)](https://www.legislation.gov.uk/wsi/2021/1063/regulation/10/b)
+[^c-aaf9ed01ba331b243f12c9735cf294e1]: Textual amendment: Words in reg. 4(11) inserted (21.9.2021) by [The Health Protection (Coronavirus, International Travel and Notification) (Wales) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1063)](https://www.legislation.gov.uk/wsi/2021/1063), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2021/1063/regulation/1/3), [10(b)](https://www.legislation.gov.uk/wsi/2021/1063/regulation/10/b)
 
-[^key-1040f62f9fa1ecee814f15766202b161]: Textual amendment: Regs. 4A-4D inserted (21.9.2021) by [The Health Protection (Coronavirus, International Travel and Notification) (Wales) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1063)](https://www.legislation.gov.uk/wsi/2021/1063), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2021/1063/regulation/1/3), [11](https://www.legislation.gov.uk/wsi/2021/1063/regulation/11)
+[^c-1040f62f9fa1ecee814f15766202b161]: Textual amendment: Regs. 4A-4D inserted (21.9.2021) by [The Health Protection (Coronavirus, International Travel and Notification) (Wales) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1063)](https://www.legislation.gov.uk/wsi/2021/1063), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2021/1063/regulation/1/3), [11](https://www.legislation.gov.uk/wsi/2021/1063/regulation/11)
 
-[^key-3b81a738af85d59316e2a7e0fac821d6]: Textual amendment: Words in [reg. 4A(1)](https://www.legislation.gov.uk/wsi/2010/1546/regulation/4A/1) inserted (31.10.2021 at 4.00 a.m.) by [The Health Protection (Coronavirus, Restrictions, International Travel, Notification and Public Health Information to Travellers) (Wales) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1212)](https://www.legislation.gov.uk/wsi/2021/1212), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1212/regulation/1/2), [14(2)](https://www.legislation.gov.uk/wsi/2021/1212/regulation/14/2)
+[^c-3b81a738af85d59316e2a7e0fac821d6]: Textual amendment: Words in [reg. 4A(1)](https://www.legislation.gov.uk/wsi/2010/1546/regulation/4A/1) inserted (31.10.2021 at 4.00 a.m.) by [The Health Protection (Coronavirus, Restrictions, International Travel, Notification and Public Health Information to Travellers) (Wales) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1212)](https://www.legislation.gov.uk/wsi/2021/1212), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1212/regulation/1/2), [14(2)](https://www.legislation.gov.uk/wsi/2021/1212/regulation/14/2)
 
-[^key-d352577827dbe747f7d4f233adbc3cb0]: Textual amendment: Words in [reg. 4A(3)(a)](https://www.legislation.gov.uk/wsi/2010/1546/regulation/4A/3/a) inserted (31.10.2021 at 4.00 a.m.) by [The Health Protection (Coronavirus, Restrictions, International Travel, Notification and Public Health Information to Travellers) (Wales) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1212)](https://www.legislation.gov.uk/wsi/2021/1212), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1212/regulation/1/2), [14(3)](https://www.legislation.gov.uk/wsi/2021/1212/regulation/14/3)
+[^c-d352577827dbe747f7d4f233adbc3cb0]: Textual amendment: Words in [reg. 4A(3)(a)](https://www.legislation.gov.uk/wsi/2010/1546/regulation/4A/3/a) inserted (31.10.2021 at 4.00 a.m.) by [The Health Protection (Coronavirus, Restrictions, International Travel, Notification and Public Health Information to Travellers) (Wales) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1212)](https://www.legislation.gov.uk/wsi/2021/1212), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1212/regulation/1/2), [14(3)](https://www.legislation.gov.uk/wsi/2021/1212/regulation/14/3)
 
-[^key-173c457ff980e2afd1e369db892a839a]: Textual amendment: [Reg. 4AB](https://www.legislation.gov.uk/wsi/2010/1546/regulation/4AB) inserted (31.10.2021 at 4.00 a.m.) by [The Health Protection (Coronavirus, Restrictions, International Travel, Notification and Public Health Information to Travellers) (Wales) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1212)](https://www.legislation.gov.uk/wsi/2021/1212), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1212/regulation/1/2), [14(4)](https://www.legislation.gov.uk/wsi/2021/1212/regulation/14/4)
+[^c-173c457ff980e2afd1e369db892a839a]: Textual amendment: [Reg. 4AB](https://www.legislation.gov.uk/wsi/2010/1546/regulation/4AB) inserted (31.10.2021 at 4.00 a.m.) by [The Health Protection (Coronavirus, Restrictions, International Travel, Notification and Public Health Information to Travellers) (Wales) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1212)](https://www.legislation.gov.uk/wsi/2021/1212), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1212/regulation/1/2), [14(4)](https://www.legislation.gov.uk/wsi/2021/1212/regulation/14/4)
 
-[^key-920cff348b541dd6381fde901e9cbec3]: Textual amendment: Words in reg. 5 heading inserted (21.9.2021) by [The Health Protection (Coronavirus, International Travel and Notification) (Wales) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1063)](https://www.legislation.gov.uk/wsi/2021/1063), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2021/1063/regulation/1/3), [12(a)](https://www.legislation.gov.uk/wsi/2021/1063/regulation/12/a)
+[^c-920cff348b541dd6381fde901e9cbec3]: Textual amendment: Words in reg. 5 heading inserted (21.9.2021) by [The Health Protection (Coronavirus, International Travel and Notification) (Wales) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1063)](https://www.legislation.gov.uk/wsi/2021/1063), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2021/1063/regulation/1/3), [12(a)](https://www.legislation.gov.uk/wsi/2021/1063/regulation/12/a)
 
-[^key-c2e72504d1ba4866ee5ce7a3d8185837]: Textual amendment: Words in reg. 5(1) inserted (21.9.2021) by [The Health Protection (Coronavirus, International Travel and Notification) (Wales) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1063)](https://www.legislation.gov.uk/wsi/2021/1063), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2021/1063/regulation/1/3), [12(b)](https://www.legislation.gov.uk/wsi/2021/1063/regulation/12/b)
+[^c-c2e72504d1ba4866ee5ce7a3d8185837]: Textual amendment: Words in reg. 5(1) inserted (21.9.2021) by [The Health Protection (Coronavirus, International Travel and Notification) (Wales) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1063)](https://www.legislation.gov.uk/wsi/2021/1063), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2021/1063/regulation/1/3), [12(b)](https://www.legislation.gov.uk/wsi/2021/1063/regulation/12/b)
 
-[^key-0b3d6112e73ceaf438631753ed0847b6]: Textual amendment: Word in [reg. 5(1)](https://www.legislation.gov.uk/wsi/2010/1546/regulation/5/1) inserted (31.10.2021 at 4.00 a.m.) by [The Health Protection (Coronavirus, Restrictions, International Travel, Notification and Public Health Information to Travellers) (Wales) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1212)](https://www.legislation.gov.uk/wsi/2021/1212), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1212/regulation/1/2), [15(2)](https://www.legislation.gov.uk/wsi/2021/1212/regulation/15/2)
+[^c-0b3d6112e73ceaf438631753ed0847b6]: Textual amendment: Word in [reg. 5(1)](https://www.legislation.gov.uk/wsi/2010/1546/regulation/5/1) inserted (31.10.2021 at 4.00 a.m.) by [The Health Protection (Coronavirus, Restrictions, International Travel, Notification and Public Health Information to Travellers) (Wales) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1212)](https://www.legislation.gov.uk/wsi/2021/1212), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1212/regulation/1/2), [15(2)](https://www.legislation.gov.uk/wsi/2021/1212/regulation/15/2)
 
-[^key-84bc28e3a507bce03aec8a8468dce3c5]: Textual amendment: Reg. 5(2A) inserted (21.9.2021) by [The Health Protection (Coronavirus, International Travel and Notification) (Wales) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1063)](https://www.legislation.gov.uk/wsi/2021/1063), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2021/1063/regulation/1/3), [12(c)](https://www.legislation.gov.uk/wsi/2021/1063/regulation/12/c)
+[^c-84bc28e3a507bce03aec8a8468dce3c5]: Textual amendment: Reg. 5(2A) inserted (21.9.2021) by [The Health Protection (Coronavirus, International Travel and Notification) (Wales) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1063)](https://www.legislation.gov.uk/wsi/2021/1063), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2021/1063/regulation/1/3), [12(c)](https://www.legislation.gov.uk/wsi/2021/1063/regulation/12/c)
 
-[^key-3edb33227046054b19fff2101f7accfc]: Textual amendment: Word in [reg. 5(2A)](https://www.legislation.gov.uk/wsi/2010/1546/regulation/5/2A) inserted (31.10.2021 at 4.00 a.m.) by [The Health Protection (Coronavirus, Restrictions, International Travel, Notification and Public Health Information to Travellers) (Wales) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1212)](https://www.legislation.gov.uk/wsi/2021/1212), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1212/regulation/1/2), [15(3)](https://www.legislation.gov.uk/wsi/2021/1212/regulation/15/3)
+[^c-3edb33227046054b19fff2101f7accfc]: Textual amendment: Word in [reg. 5(2A)](https://www.legislation.gov.uk/wsi/2010/1546/regulation/5/2A) inserted (31.10.2021 at 4.00 a.m.) by [The Health Protection (Coronavirus, Restrictions, International Travel, Notification and Public Health Information to Travellers) (Wales) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1212)](https://www.legislation.gov.uk/wsi/2021/1212), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1212/regulation/1/2), [15(3)](https://www.legislation.gov.uk/wsi/2021/1212/regulation/15/3)
 
-[^key-0056e612069f91c6919c18fa982d5ce2]: Textual amendment: Words in reg. 5(3) inserted (21.9.2021) by [The Health Protection (Coronavirus, International Travel and Notification) (Wales) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1063)](https://www.legislation.gov.uk/wsi/2021/1063), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2021/1063/regulation/1/3), [12(d)](https://www.legislation.gov.uk/wsi/2021/1063/regulation/12/d)
+[^c-0056e612069f91c6919c18fa982d5ce2]: Textual amendment: Words in reg. 5(3) inserted (21.9.2021) by [The Health Protection (Coronavirus, International Travel and Notification) (Wales) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1063)](https://www.legislation.gov.uk/wsi/2021/1063), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2021/1063/regulation/1/3), [12(d)](https://www.legislation.gov.uk/wsi/2021/1063/regulation/12/d)
 
-[^key-4dd3d6783d032ba0600671e9d9351a66]: Textual amendment: Words in reg. 5(5) inserted (21.9.2021) by [The Health Protection (Coronavirus, International Travel and Notification) (Wales) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1063)](https://www.legislation.gov.uk/wsi/2021/1063), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2021/1063/regulation/1/3), [12(e)](https://www.legislation.gov.uk/wsi/2021/1063/regulation/12/e)
+[^c-4dd3d6783d032ba0600671e9d9351a66]: Textual amendment: Words in reg. 5(5) inserted (21.9.2021) by [The Health Protection (Coronavirus, International Travel and Notification) (Wales) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1063)](https://www.legislation.gov.uk/wsi/2021/1063), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2021/1063/regulation/1/3), [12(e)](https://www.legislation.gov.uk/wsi/2021/1063/regulation/12/e)
 
-[^key-5306eee2a8bb26cf408f02c4b5adc786]: Textual amendment: Words in reg. 5(6) inserted (21.9.2021) by [The Health Protection (Coronavirus, International Travel and Notification) (Wales) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1063)](https://www.legislation.gov.uk/wsi/2021/1063), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2021/1063/regulation/1/3), [12(e)](https://www.legislation.gov.uk/wsi/2021/1063/regulation/12/e)
+[^c-5306eee2a8bb26cf408f02c4b5adc786]: Textual amendment: Words in reg. 5(6) inserted (21.9.2021) by [The Health Protection (Coronavirus, International Travel and Notification) (Wales) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1063)](https://www.legislation.gov.uk/wsi/2021/1063), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2021/1063/regulation/1/3), [12(e)](https://www.legislation.gov.uk/wsi/2021/1063/regulation/12/e)
 
-[^key-b589365d233c90915f1d640eade78f92]: Textual amendment: Reg. 5(7) substituted (21.9.2021) by [The Health Protection (Coronavirus, International Travel and Notification) (Wales) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1063)](https://www.legislation.gov.uk/wsi/2021/1063), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2021/1063/regulation/1/3), [12(f)](https://www.legislation.gov.uk/wsi/2021/1063/regulation/12/f)
+[^c-b589365d233c90915f1d640eade78f92]: Textual amendment: Reg. 5(7) substituted (21.9.2021) by [The Health Protection (Coronavirus, International Travel and Notification) (Wales) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1063)](https://www.legislation.gov.uk/wsi/2021/1063), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2021/1063/regulation/1/3), [12(f)](https://www.legislation.gov.uk/wsi/2021/1063/regulation/12/f)
 
 [^c20357551]: Marginal citation: Public Health Wales National Health Service Trust was established by [S.I. 2009/2058](https://www.legislation.gov.uk/uksi/2009/2058) (W.177).
 
-[^key-8dec72c9574eb46745ef52fc637796ea]: Textual amendment: Words in reg. 7(1)(a) substituted (21.9.2021) by [The Health Protection (Coronavirus, International Travel and Notification) (Wales) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1063)](https://www.legislation.gov.uk/wsi/2021/1063), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2021/1063/regulation/1/3), [13](https://www.legislation.gov.uk/wsi/2021/1063/regulation/13)
+[^c-8dec72c9574eb46745ef52fc637796ea]: Textual amendment: Words in reg. 7(1)(a) substituted (21.9.2021) by [The Health Protection (Coronavirus, International Travel and Notification) (Wales) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1063)](https://www.legislation.gov.uk/wsi/2021/1063), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2021/1063/regulation/1/3), [13](https://www.legislation.gov.uk/wsi/2021/1063/regulation/13)
 
-[^key-33efa14a3de167c2c5353d29a631a33d]: Textual amendment: Word in [reg. 7(1)(a)](https://www.legislation.gov.uk/wsi/2010/1546/regulation/7/1/a) inserted (31.10.2021 at 4.00 a.m.) by [The Health Protection (Coronavirus, Restrictions, International Travel, Notification and Public Health Information to Travellers) (Wales) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1212)](https://www.legislation.gov.uk/wsi/2021/1212), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1212/regulation/1/2), [16](https://www.legislation.gov.uk/wsi/2021/1212/regulation/16)
+[^c-33efa14a3de167c2c5353d29a631a33d]: Textual amendment: Word in [reg. 7(1)(a)](https://www.legislation.gov.uk/wsi/2010/1546/regulation/7/1/a) inserted (31.10.2021 at 4.00 a.m.) by [The Health Protection (Coronavirus, Restrictions, International Travel, Notification and Public Health Information to Travellers) (Wales) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1212)](https://www.legislation.gov.uk/wsi/2021/1212), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1212/regulation/1/2), [16](https://www.legislation.gov.uk/wsi/2021/1212/regulation/16)
 
 [^c20357561]: Marginal citation: [S.I.2010/1545](https://www.legislation.gov.uk/uksi/2010/1545) (W.143).
 
 [^c20357571]: Marginal citation: [S.I. 2010/1544](https://www.legislation.gov.uk/uksi/2010/1544) (W.142).
 
-[^key-687867c5b4f59e20bded87d5d403a850]: Textual amendment: Words in Sch. 1 inserted (21.9.2021) by [The Health Protection (Coronavirus, International Travel and Notification) (Wales) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1063)](https://www.legislation.gov.uk/wsi/2021/1063), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2021/1063/regulation/1/3), [14](https://www.legislation.gov.uk/wsi/2021/1063/regulation/14)
+[^c-687867c5b4f59e20bded87d5d403a850]: Textual amendment: Words in Sch. 1 inserted (21.9.2021) by [The Health Protection (Coronavirus, International Travel and Notification) (Wales) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1063)](https://www.legislation.gov.uk/wsi/2021/1063), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2021/1063/regulation/1/3), [14](https://www.legislation.gov.uk/wsi/2021/1063/regulation/14)
 
-[^key-2f1fc3b46054a298b97ffbf844a1d5a1]: Textual amendment: Words in Sch. 1 inserted (6.3.2020) by [The Health Protection (Notification) (Wales) (Amendment) Regulations 2020 (S.I. 2020/232)](https://www.legislation.gov.uk/wsi/2020/232), [regs. 1](https://www.legislation.gov.uk/wsi/2020/232/regulation/1), [2(2)](https://www.legislation.gov.uk/wsi/2020/232/regulation/2/2)
+[^c-2f1fc3b46054a298b97ffbf844a1d5a1]: Textual amendment: Words in Sch. 1 inserted (6.3.2020) by [The Health Protection (Notification) (Wales) (Amendment) Regulations 2020 (S.I. 2020/232)](https://www.legislation.gov.uk/wsi/2020/232), [regs. 1](https://www.legislation.gov.uk/wsi/2020/232/regulation/1), [2(2)](https://www.legislation.gov.uk/wsi/2020/232/regulation/2/2)
 
-[^key-6591e685eec931bf4be1347055ec4021]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/wsi/2010/1546/schedule/1) inserted (15.6.2022) by [The Health Protection (Notification) (Wales) (Amendment) Regulations 2022 (S.I. 2022/657)](https://www.legislation.gov.uk/wsi/2022/657), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/657/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2022/657/regulation/2/2)
+[^c-6591e685eec931bf4be1347055ec4021]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/wsi/2010/1546/schedule/1) inserted (15.6.2022) by [The Health Protection (Notification) (Wales) (Amendment) Regulations 2022 (S.I. 2022/657)](https://www.legislation.gov.uk/wsi/2022/657), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/657/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2022/657/regulation/2/2)
 
-[^key-029fa942ac6fbd02cff4fb3ce21b959d]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/wsi/2010/1546/schedule/2) inserted (15.6.2022) by [The Health Protection (Notification) (Wales) (Amendment) Regulations 2022 (S.I. 2022/657)](https://www.legislation.gov.uk/wsi/2022/657), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/657/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2022/657/regulation/2/3)
+[^c-029fa942ac6fbd02cff4fb3ce21b959d]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/wsi/2010/1546/schedule/2) inserted (15.6.2022) by [The Health Protection (Notification) (Wales) (Amendment) Regulations 2022 (S.I. 2022/657)](https://www.legislation.gov.uk/wsi/2022/657), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/657/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2022/657/regulation/2/3)
 
-[^key-3927d7f0c1bc4fed0acc21b5bfd7b1bd]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/wsi/2010/1546/schedule/2) inserted (6.3.2020) by [The Health Protection (Notification) (Wales) (Amendment) Regulations 2020 (S.I. 2020/232)](https://www.legislation.gov.uk/wsi/2020/232), [regs. 1](https://www.legislation.gov.uk/wsi/2020/232/regulation/1), [2(3)](https://www.legislation.gov.uk/wsi/2020/232/regulation/2/3)
+[^c-3927d7f0c1bc4fed0acc21b5bfd7b1bd]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/wsi/2010/1546/schedule/2) inserted (6.3.2020) by [The Health Protection (Notification) (Wales) (Amendment) Regulations 2020 (S.I. 2020/232)](https://www.legislation.gov.uk/wsi/2020/232), [regs. 1](https://www.legislation.gov.uk/wsi/2020/232/regulation/1), [2(3)](https://www.legislation.gov.uk/wsi/2020/232/regulation/2/3)
 
 [^c20357581]: Marginal citation: [S.I. 1925/757](https://www.legislation.gov.uk/uksi/1925/757).
 

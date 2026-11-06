@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Section 83 does not prevent the debtor under a credit-token agreement from being made liable to the extent of £35[^key-e25f4681702ee0696df01cb51138c79c] (or the credit limit if lower) for loss to the creditor arising from use of the credit-token by other persons during a period beginning when the credit-token ceases to be in the possession of any authorised person and ending when the credit-token is once more in the possession of an authorised person.
+(1) Section 83 does not prevent the debtor under a credit-token agreement from being made liable to the extent of £35[^c-e25f4681702ee0696df01cb51138c79c] (or the credit limit if lower) for loss to the creditor arising from use of the credit-token by other persons during a period beginning when the credit-token ceases to be in the possession of any authorised person and ending when the credit-token is once more in the possession of an authorised person.
 
 (2) Section 83 does not prevent the debtor under a credit-token agreement from being made liable to any extent for loss to the creditor from use of the credit-token by a person who acquired possession of it with the debtor’s consent.
 
@@ -46,7 +46,7 @@ summary: ''
 
 [^c20572181]: Modification: S. 84 applied (1.11.2009) by [The Payment Services Regulations 2009 (S.I. 2009/209)](https://www.legislation.gov.uk/uksi/2009/209), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2009/209/regulation/1/2/c), [52(b)](https://www.legislation.gov.uk/uksi/2009/209/regulation/52/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2009/209/regulation/3))
 
-[^key-e25f4681702ee0696df01cb51138c79c]: Textual amendment: Word in [s. 84(1)](https://www.legislation.gov.uk/ukpga/1974/39/section/84/1) substituted (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 1(b)](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/1/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
+[^c-e25f4681702ee0696df01cb51138c79c]: Textual amendment: Word in [s. 84(1)](https://www.legislation.gov.uk/ukpga/1974/39/section/84/1) substituted (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 1(b)](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/1/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
 
 [^c2431351]: Textual amendment: S. 84(3A)(3B) inserted (31.10.2000) by [S.I. 2000/2334](https://www.legislation.gov.uk/uksi/2000/2334), [reg. 21(5)](https://www.legislation.gov.uk/uksi/2000/2334/regulation/21/5)
 

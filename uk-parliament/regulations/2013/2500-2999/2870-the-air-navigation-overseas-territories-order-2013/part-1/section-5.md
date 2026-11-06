@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Publication of requirements[^key-47d9ee126f4b492b12e1962d363249b9]
+## 5. Publication of requirements[^c-47d9ee126f4b492b12e1962d363249b9]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,12 +27,12 @@ summary: ''
 
 (2) Nothing in this article requires the Governor to publish requirements in respect of a licence, certificate or other document if the Governor does not exercise the powers to grant the licence, certificate or document in question.
 
-(3)[^key-375ff5273f93a68687969bd183255bc7] Subject to paragraph (4), nothing in this article requires the Governor to publish requirements in respect of a licence, certificate or other document if the Governor determines that to do so would be, or would be likely to be, detrimental to national security.
+(3)[^c-375ff5273f93a68687969bd183255bc7] Subject to paragraph (4), nothing in this article requires the Governor to publish requirements in respect of a licence, certificate or other document if the Governor determines that to do so would be, or would be likely to be, detrimental to national security.
 
 (4) If the Governor makes a determination under paragraph (3) any applicant for such a licence, certificate or other document must be given access to such requirements on such terms as the Governor thinks fit.
 
 ## Annotations
 
-[^key-47d9ee126f4b492b12e1962d363249b9]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2013/2870/article/5) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-47d9ee126f4b492b12e1962d363249b9]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2013/2870/article/5) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-375ff5273f93a68687969bd183255bc7]: Textual amendment: [Art. 5(3)](https://www.legislation.gov.uk/uksi/2013/2870/article/5/3)[(4)](https://www.legislation.gov.uk/uksi/2013/2870/article/5/4) inserted (1.4.2015) by [The Air Navigation (Overseas Territories) (Amendment) Order 2014 (S.I. 2014/2925)](https://www.legislation.gov.uk/uksi/2014/2925), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/2925/article/1/1), [4](https://www.legislation.gov.uk/uksi/2014/2925/article/4)
+[^c-375ff5273f93a68687969bd183255bc7]: Textual amendment: [Art. 5(3)](https://www.legislation.gov.uk/uksi/2013/2870/article/5/3)[(4)](https://www.legislation.gov.uk/uksi/2013/2870/article/5/4) inserted (1.4.2015) by [The Air Navigation (Overseas Territories) (Amendment) Order 2014 (S.I. 2014/2925)](https://www.legislation.gov.uk/uksi/2014/2925), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/2925/article/1/1), [4](https://www.legislation.gov.uk/uksi/2014/2925/article/4)

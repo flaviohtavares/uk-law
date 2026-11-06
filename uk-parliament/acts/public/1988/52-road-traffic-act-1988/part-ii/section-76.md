@@ -66,7 +66,7 @@ he is guilty of an offence if that part could not be fitted to a motor vehicle o
 
 (10) Nothing in this section shall affect the validity of a contract or of any rights arising under a contract.
 
-(11)[^key-3731e77d18c6dfb737726e6b24205f6a] In this section—
+(11)[^c-3731e77d18c6dfb737726e6b24205f6a] In this section—
 
 - (a) references to a vehicle part include software (except in subsection (5)(a)), and
 - (b) references to fitting a vehicle part to a vehicle include installing software in, or otherwise making software interact with, a vehicle.
@@ -81,4 +81,4 @@ he is guilty of an offence if that part could not be fitted to a motor vehicle o
 
 [^c13977241]: Textual amendment: Words in s. 76(3)(5)(b)(ii)(6)(a) added (1.7.1992) by [Road Traffic Act 1991 (c. 40, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1991/40), [s. 48](https://www.legislation.gov.uk/ukpga/1991/40/section/48), [Sch. 4 para. 58(4)](https://www.legislation.gov.uk/ukpga/1991/40/schedule/4/paragraph/58/4); [S.I. 1992/1286](https://www.legislation.gov.uk/uksi/1992/1286), [art. 2](https://www.legislation.gov.uk/uksi/1992/1286/article/2),Sch.
 
-[^key-3731e77d18c6dfb737726e6b24205f6a]: Textual amendment: [S. 76(11)](https://www.legislation.gov.uk/ukpga/1988/52/section/76/11) inserted (1.1.2026) by [Automated Vehicles Act 2024 (c. 10)](https://www.legislation.gov.uk/ukpga/2024/10), [ss. 56](https://www.legislation.gov.uk/ukpga/2024/10/section/56), [99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1) (with [s. 96](https://www.legislation.gov.uk/ukpga/2024/10/section/96)); [S.I. 2025/1339](https://www.legislation.gov.uk/uksi/2025/1339), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2025/1339/regulation/2/1/b)
+[^c-3731e77d18c6dfb737726e6b24205f6a]: Textual amendment: [S. 76(11)](https://www.legislation.gov.uk/ukpga/1988/52/section/76/11) inserted (1.1.2026) by [Automated Vehicles Act 2024 (c. 10)](https://www.legislation.gov.uk/ukpga/2024/10), [ss. 56](https://www.legislation.gov.uk/ukpga/2024/10/section/56), [99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1) (with [s. 96](https://www.legislation.gov.uk/ukpga/2024/10/section/96)); [S.I. 2025/1339](https://www.legislation.gov.uk/uksi/2025/1339), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2025/1339/regulation/2/1/b)

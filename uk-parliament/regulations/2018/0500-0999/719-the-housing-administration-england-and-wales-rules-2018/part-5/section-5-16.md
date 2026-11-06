@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5.16. Secured creditor: surrender for non-disclosure[^key-6c7e23c35ba98df2a248478c07f50d2b]
+## 5.16. Secured creditor: surrender for non-disclosure[^c-6c7e23c35ba98df2a248478c07f50d2b]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6c7e23c35ba98df2a248478c07f50d2b]: Commencement: Rule 5.16 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-6c7e23c35ba98df2a248478c07f50d2b]: Commencement: Rule 5.16 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

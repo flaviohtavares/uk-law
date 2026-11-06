@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Calculating the amount of nitrogen available for crop uptake from organic manure[^key-fd3ef522c4804c4e1f12e64e1e00f13a]
+## 9. Calculating the amount of nitrogen available for crop uptake from organic manure[^c-fd3ef522c4804c4e1f12e64e1e00f13a]
 
 *Extent: E+W*
 
@@ -44,6 +44,6 @@ Available percentage
 
 ## Annotations
 
-[^key-fd3ef522c4804c4e1f12e64e1e00f13a]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2021/77/regulation/9) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)
+[^c-fd3ef522c4804c4e1f12e64e1e00f13a]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2021/77/regulation/9) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)
 
 [^f00004]: Footnote: https://ahdb.org.uk/RB209. A copy can be obtained from AHDB (the Agricultural and Horticultural Development Board.

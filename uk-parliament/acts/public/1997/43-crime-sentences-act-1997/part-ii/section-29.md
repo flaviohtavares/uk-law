@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Power to release other life prisoners.[^key-ce936cbea85298c6445c00d587ab45a1]
+## 29. Power to release other life prisoners.[^c-ce936cbea85298c6445c00d587ab45a1]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ce936cbea85298c6445c00d587ab45a1]: Textual amendment: S. 29 repealed (18.12.2003) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [ss. 303(b)(i)](https://www.legislation.gov.uk/ukpga/2003/44/section/303/b/i), [336(2)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/2), [Sch. 37 Pt. 8](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/8)
+[^c-ce936cbea85298c6445c00d587ab45a1]: Textual amendment: S. 29 repealed (18.12.2003) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [ss. 303(b)(i)](https://www.legislation.gov.uk/ukpga/2003/44/section/303/b/i), [336(2)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/2), [Sch. 37 Pt. 8](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/8)

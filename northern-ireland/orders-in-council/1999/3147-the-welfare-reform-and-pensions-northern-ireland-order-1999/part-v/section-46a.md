@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 46A. Creation of debits and credits: transferor in new state pension system and sharing activated on or after 6 April 2016[^M_C_8d4e956c-6313-4c3a-e7b5-d73d439ffa60][^M_C_1f6d6449-d1d3-4363-cfee-83d197c4880c][^key-af16df19d5327927ffb9fa3154bfc74b]
+## 46A. Creation of debits and credits: transferor in new state pension system and sharing activated on or after 6 April 2016[^M_C_8d4e956c-6313-4c3a-e7b5-d73d439ffa60][^M_C_1f6d6449-d1d3-4363-cfee-83d197c4880c][^c-af16df19d5327927ffb9fa3154bfc74b]
 
 *Extent: N.I.*
 
@@ -55,4 +55,4 @@ summary: ''
 
 [^M_C_1f6d6449-d1d3-4363-cfee-83d197c4880c]: Modification: Art. 46A excluded (6.4.2016) by [The Pensions (2015 Act) (Pension Sharing on Divorce etc.) (Transitional Provision) Order (Northern Ireland) 2016 (S.R. 2016/99)](https://www.legislation.gov.uk/nisr/2016/99), [art. 2(2)(b)](https://www.legislation.gov.uk/nisr/2016/99/article/2/2/b)
 
-[^key-af16df19d5327927ffb9fa3154bfc74b]: Textual amendment: Art. 46A inserted (6.4.2016) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 11 para. 12](https://www.legislation.gov.uk/nia/2015/5/schedule/11/paragraph/12)
+[^c-af16df19d5327927ffb9fa3154bfc74b]: Textual amendment: Art. 46A inserted (6.4.2016) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 11 para. 12](https://www.legislation.gov.uk/nia/2015/5/schedule/11/paragraph/12)

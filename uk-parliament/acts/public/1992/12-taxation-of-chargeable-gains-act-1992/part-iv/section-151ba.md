@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 151BA. CITR: identification of securities or shares on a disposal[^key-31b457f28cd8a22dd21aee73ffb5e881]
+## 151BA. CITR: identification of securities or shares on a disposal[^c-31b457f28cd8a22dd21aee73ffb5e881]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,18 +67,18 @@ It does not matter for this purpose that the number of the shares grows or dimin
   - (ii) references to CITR being attributable to securities, shares or debentures are to be read in accordance with section 357 of that Act, and
   - (iii) references to securities, shares or debentures having been held by the investor continuously are to be read in accordance with section 380 of that Act,
 - (b) if the investor is a company—
-  - (i) “**CITR**” means relief under Part 7 of CTA 2010[^key-e7fa838e7f78081aa556aec6841f8643],
-  - (ii) references to CITR being attributable to securities, shares or debentures[^key-5c86d9ef1177922f7f90e82d5bfa921e] are to be read in accordance with section 240 of that Act[^key-50f5b0c53ca5ac32fd0259ec0625413c], and
-  - (iii) references to securities, shares or debentures having been held by the investor continuously are to be read in accordance with section 267 of that Act[^key-7796aa1d83f8813c30867783d33ed94c].
+  - (i) “**CITR**” means relief under Part 7 of CTA 2010[^c-e7fa838e7f78081aa556aec6841f8643],
+  - (ii) references to CITR being attributable to securities, shares or debentures[^c-5c86d9ef1177922f7f90e82d5bfa921e] are to be read in accordance with section 240 of that Act[^c-50f5b0c53ca5ac32fd0259ec0625413c], and
+  - (iii) references to securities, shares or debentures having been held by the investor continuously are to be read in accordance with section 267 of that Act[^c-7796aa1d83f8813c30867783d33ed94c].
 
 ## Annotations
 
-[^key-31b457f28cd8a22dd21aee73ffb5e881]: Textual amendment: S. 151BA inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 316](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/316) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-31b457f28cd8a22dd21aee73ffb5e881]: Textual amendment: S. 151BA inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 316](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/316) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-e7fa838e7f78081aa556aec6841f8643]: Textual amendment: Words in s. 151BA(10)(b)(i) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 236(a)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/236/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-e7fa838e7f78081aa556aec6841f8643]: Textual amendment: Words in s. 151BA(10)(b)(i) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 236(a)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/236/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-5c86d9ef1177922f7f90e82d5bfa921e]: Textual amendment: Words in s. 151BA(10)(b)(ii) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 236(b)(i)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/236/b/i) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-5c86d9ef1177922f7f90e82d5bfa921e]: Textual amendment: Words in s. 151BA(10)(b)(ii) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 236(b)(i)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/236/b/i) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-50f5b0c53ca5ac32fd0259ec0625413c]: Textual amendment: Words in s. 151BA(10)(b)(ii) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 236(b)(ii)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/236/b/ii) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-50f5b0c53ca5ac32fd0259ec0625413c]: Textual amendment: Words in s. 151BA(10)(b)(ii) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 236(b)(ii)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/236/b/ii) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-7796aa1d83f8813c30867783d33ed94c]: Textual amendment: Words in s. 151BA(10)(b)(iii) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 236(c)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/236/c) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-7796aa1d83f8813c30867783d33ed94c]: Textual amendment: Words in s. 151BA(10)(b)(iii) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 236(c)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/236/c) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

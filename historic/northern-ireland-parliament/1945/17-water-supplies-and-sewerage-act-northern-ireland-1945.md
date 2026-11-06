@@ -68,7 +68,7 @@ Provided that any person aggrieved by the refusal of the \[[^c5435141] council\]
 
 - *Definitions rep. by 1973 NI 2*
 - “contravene” in relation to any provision includes failing to comply with that provision;
-- [^key-d290cf8cbe1fa431566fbcf942dab533]...
+- [^c-d290cf8cbe1fa431566fbcf942dab533]...
 - *Definitions rep. by 1973 NI 2*
 - “house” means dwelling-house, whether privately owned or not;
 - *Definition rep. by 1973 NI 2*
@@ -101,6 +101,6 @@ This Act may be cited as the Water Supplies and Sewerage Act (Northern Ireland),
 
 [^c19025671]: Textual amendment: [S. 4(4)](https://www.legislation.gov.uk/apni/1945/17/section/4/4) added "at the end" of s. 4 (1.4.2007) by virtue of [Water and Sewerage Services (Northern Ireland) Order 2006 (S.I. 2006/3336 (N.I. 21))](https://www.legislation.gov.uk/nisi/2006/3336), [arts. 1(2)](https://www.legislation.gov.uk/nisi/2006/3336/article/1/2), [308(1)](https://www.legislation.gov.uk/nisi/2006/3336/article/308/1), [Sch. 12 para. 2(3)](https://www.legislation.gov.uk/nisi/2006/3336/schedule/12/paragraph/2/3) (with [arts. 8(8)](https://www.legislation.gov.uk/nisi/2006/3336/article/8/8), [121(3)](https://www.legislation.gov.uk/nisi/2006/3336/article/121/3), [307](https://www.legislation.gov.uk/nisi/2006/3336/article/307)); S.R 2007/194, {art. 2(2)}, Sch. 1 Pt. II (subject to art. 3, Sch. 2)
 
-[^key-d290cf8cbe1fa431566fbcf942dab533]: Textual amendment: Words in [s. 16(1)](https://www.legislation.gov.uk/apni/1945/17/section/16/1) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 44](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/44), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-d290cf8cbe1fa431566fbcf942dab533]: Textual amendment: Words in [s. 16(1)](https://www.legislation.gov.uk/apni/1945/17/section/16/1) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 44](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/44), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^c5435301]: Textual amendment: SRO (NI) 1964/205; 1973/504

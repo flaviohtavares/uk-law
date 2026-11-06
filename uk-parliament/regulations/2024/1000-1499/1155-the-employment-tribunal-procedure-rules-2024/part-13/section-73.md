@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 73. Costs orders and preparation time orders[^key-54c1e4094ec1b89469dc78ce62b8b9ef]
+## 73. Costs orders and preparation time orders[^c-54c1e4094ec1b89469dc78ce62b8b9ef]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-54c1e4094ec1b89469dc78ce62b8b9ef]: Commencement: [Rule 73](https://www.legislation.gov.uk/uksi/2024/1155/rule/73) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-54c1e4094ec1b89469dc78ce62b8b9ef]: Commencement: [Rule 73](https://www.legislation.gov.uk/uksi/2024/1155/rule/73) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)

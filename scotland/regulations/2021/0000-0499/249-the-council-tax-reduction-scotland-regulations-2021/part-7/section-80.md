@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 80. Extended council tax reduction[^key-26b53c2f5e03a5e5a25eb8f0ecb640e1]
+## 80. Extended council tax reduction[^c-26b53c2f5e03a5e5a25eb8f0ecb640e1]
 
 *Extent: S*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-26b53c2f5e03a5e5a25eb8f0ecb640e1]: Commencement: [Reg. 80](https://www.legislation.gov.uk/ssi/2021/249/regulation/80) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-26b53c2f5e03a5e5a25eb8f0ecb640e1]: Commencement: [Reg. 80](https://www.legislation.gov.uk/ssi/2021/249/regulation/80) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
 
 [^f00218]: Footnote: Regulation 6(5) was added by [S.I. 2001/488](https://www.legislation.gov.uk/uksi/2001/488) and amended by [S.I. 2007/3183](https://www.legislation.gov.uk/uksi/2007/3183), [S.I. 2008/1554](https://www.legislation.gov.uk/uksi/2008/1554) and [S.I. 2017/725](https://www.legislation.gov.uk/uksi/2017/725).

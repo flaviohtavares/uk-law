@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 253. Proof of sending[^key-8166264921708b03095d926a83b0edfd]
+## 253. Proof of sending[^c-8166264921708b03095d926a83b0edfd]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8166264921708b03095d926a83b0edfd]: Commencement: [Rule 253](https://www.legislation.gov.uk/nisr/2026/11/rule/253) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-8166264921708b03095d926a83b0edfd]: Commencement: [Rule 253](https://www.legislation.gov.uk/nisr/2026/11/rule/253) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

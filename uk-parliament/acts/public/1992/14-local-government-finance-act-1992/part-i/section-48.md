@@ -32,9 +32,9 @@ summary: ''
 where—
 
 - C is the amount so calculated; and
-- T is the amount which, in relation to the billing authority, is determined for item T in section 31B(1)[^key-bad7112d715693bbff5b1e3af1eea28a] above.
+- T is the amount which, in relation to the billing authority, is determined for item T in section 31B(1)[^c-bad7112d715693bbff5b1e3af1eea28a] above.
 
-(2) Where an amount calculated (or last calculated) for the year under section 42B(1) or (as the case may be) 44(1) above or under section[^key-e429284ddc100a05b9a09ca5510d5545] 45(2) or (3) above applies to dwellings in the whole of the billing authority’s area, the amount payable by that authority shall be calculated by applying the formula—
+(2) Where an amount calculated (or last calculated) for the year under section 42B(1) or (as the case may be) 44(1) above or under section[^c-e429284ddc100a05b9a09ca5510d5545] 45(2) or (3) above applies to dwellings in the whole of the billing authority’s area, the amount payable by that authority shall be calculated by applying the formula—
 
 [formula: see source](https://www.legislation.gov.uk/ukpga/1992/14)
 
@@ -42,9 +42,9 @@ where—
 
 C is the amount so calculated;
 
-T is the amount which, in relation to the billing authority, is determined for item T in section 31B(1) or (as the case may be)[^key-6e726b80a353ad6dd3f2c20d635ac48f] section 33(1) above.
+T is the amount which, in relation to the billing authority, is determined for item T in section 31B(1) or (as the case may be)[^c-6e726b80a353ad6dd3f2c20d635ac48f] section 33(1) above.
 
-(3) Where an amount calculated (or last calculated) for the year under section 42B(1) or 44(1) above or under section[^key-14ce689450c1fedd0965b7e02eaf04a8] 45(2) or (3) above applies to dwellings in a part of the billing authority’s area, the amount payable by that authority shall be calculated by applying the formula—
+(3) Where an amount calculated (or last calculated) for the year under section 42B(1) or 44(1) above or under section[^c-14ce689450c1fedd0965b7e02eaf04a8] 45(2) or (3) above applies to dwellings in a part of the billing authority’s area, the amount payable by that authority shall be calculated by applying the formula—
 
 [formula: see source](https://www.legislation.gov.uk/ukpga/1992/14)
 
@@ -76,10 +76,10 @@ TP is (in each case) the amount which is calculated by the billing authority as 
 
 [^c12078731]: Textual amendment: S. 48(1A) inserted (12.1.2000) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 93(3)](https://www.legislation.gov.uk/ukpga/1999/29/section/93/3) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 1999/3434](https://www.legislation.gov.uk/uksi/1999/3434), [art. 2](https://www.legislation.gov.uk/uksi/1999/3434/article/2)
 
-[^key-bad7112d715693bbff5b1e3af1eea28a]: Textual amendment: Word in s. 48(1A) substituted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 7 para. 25(2)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/25/2); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-bad7112d715693bbff5b1e3af1eea28a]: Textual amendment: Word in s. 48(1A) substituted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 7 para. 25(2)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/25/2); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-e429284ddc100a05b9a09ca5510d5545]: Textual amendment: Words in s. 48(2) substituted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 7 para. 25(3)(a)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/25/3/a); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-e429284ddc100a05b9a09ca5510d5545]: Textual amendment: Words in s. 48(2) substituted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 7 para. 25(3)(a)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/25/3/a); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-6e726b80a353ad6dd3f2c20d635ac48f]: Textual amendment: Words in s. 48(2) inserted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 7 para. 25(3)(b)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/25/3/b); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-6e726b80a353ad6dd3f2c20d635ac48f]: Textual amendment: Words in s. 48(2) inserted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 7 para. 25(3)(b)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/25/3/b); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-14ce689450c1fedd0965b7e02eaf04a8]: Textual amendment: Words in s. 48(3) substituted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 7 para. 25(4)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/25/4); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-14ce689450c1fedd0965b7e02eaf04a8]: Textual amendment: Words in s. 48(3) substituted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 7 para. 25(4)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/25/4); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)

@@ -59,7 +59,7 @@ A draft of this Order, and an explanatory document containing the information re
 
 In accordance with section 11(4) of the Act, the draft of this Order has been approved by a resolution of each House of Parliament after the expiry of the 40-day period referred to in that provision.
 
-## 1. Citation, commencement, interpretation and extent[^key-5188d4a5389d08a95787d5b85e933745][^key-5188d4a5389d08a95787d5b85e933745]
+## 1. Citation, commencement, interpretation and extent[^c-5188d4a5389d08a95787d5b85e933745][^c-5188d4a5389d08a95787d5b85e933745]
 
 (1) This Order may be cited as the Public Bodies (Abolition of the National Consumer Council and Transfer of the Office of Fair Trading’s Functions in relation to Estate Agents etc) Order 2014.
 
@@ -99,11 +99,11 @@ In accordance with section 11(4) of the Act, the draft of this Order has been ap
 - (b) Citizens Advice Scotland, or
 - (c) the GCCNI.
 
-## 2. Abolition of the National Consumer Council[^key-f45a12cfafef42e212389639e8d3f71d][^key-f45a12cfafef42e212389639e8d3f71d]
+## 2. Abolition of the National Consumer Council[^c-f45a12cfafef42e212389639e8d3f71d][^c-f45a12cfafef42e212389639e8d3f71d]
 
 The National Consumer Council is abolished.
 
-## 3. Transfer of functions of the National Consumer Council[^key-6c52fb91624b007cdd660ae057c09942][^key-ca3cfbb898af0637476d0c93b432334e]
+## 3. Transfer of functions of the National Consumer Council[^c-6c52fb91624b007cdd660ae057c09942][^c-ca3cfbb898af0637476d0c93b432334e]
 
 (1) Schedule 1 has effect—
 
@@ -134,7 +134,7 @@ The National Consumer Council is abolished.
   to Citizens Advice Scotland;
 - (e) to transfer certain functions of the National Consumer Council under the 2007 Act to the GCCNI;
 - (f) to make consequential, supplementary incidental and transitional provision relating to the abolition of the National Consumer Council and the transfer of certain functions;
-- (g)[^key-ca3cfbb898af0637476d0c93b432334e] to repeal the entry relating to the National Consumer Council in Schedule 1 to the Public Bodies Act 2011.
+- (g)[^c-ca3cfbb898af0637476d0c93b432334e] to repeal the entry relating to the National Consumer Council in Schedule 1 to the Public Bodies Act 2011.
 
 (2) A function transferred under paragraph (1)(a) or (b) to Citizens Advice or Citizens Advice Scotland—
 
@@ -147,14 +147,14 @@ The National Consumer Council is abolished.
 
 (5) In paragraph (4) “consumer matters” has the meaning given by section 3 of the 2007 Act.
 
-## 4. Transfer of OFT functions in relation to a consumer advice scheme[^key-99911a7d3868b26d778c71c71a6da819][^key-99911a7d3868b26d778c71c71a6da819]
+## 4. Transfer of OFT functions in relation to a consumer advice scheme[^c-99911a7d3868b26d778c71c71a6da819][^c-99911a7d3868b26d778c71c71a6da819]
 
 Schedule 1 also has effect—
 
 - (a) to transfer certain functions of the OFT under the 2007 Act in relation to a consumer advice scheme to Citizens Advice and Citizens Advice Scotland;
 - (b) to make consequential, supplementary and incidental provision relating to the transfer of certain functions relating to a consumer advice scheme from the OFT to Citizens Advice and Citizens Advice Scotland.
 
-## 5. Transfer of OFT functions in relation to estate agents[^key-3acaa01f62715d975e7357e37e821c2d][^key-268d0a8d86d7516600f182b6c217aa49]
+## 5. Transfer of OFT functions in relation to estate agents[^c-3acaa01f62715d975e7357e37e821c2d][^c-268d0a8d86d7516600f182b6c217aa49]
 
 (1) The functions conferred on the OFT by the 1979 Act are transferred to the lead enforcement authority.
 
@@ -181,22 +181,22 @@ Articles 3 and 4
 
 ### PART 1 — Amendments to Acts
 
-#### 1. Public Records Act 1958[^key-a4256eb1b89b0b73018f71860f660ef4][^key-a4256eb1b89b0b73018f71860f660ef4]
+#### 1. Public Records Act 1958[^c-a4256eb1b89b0b73018f71860f660ef4][^c-a4256eb1b89b0b73018f71860f660ef4]
 
 In Part 2 of Schedule 1 to the Public Records Act 1958[^f00021] (definition of public record: other establishments and organisations) omit the entry relating to the National Consumer Council.
 
-#### 2. Parliamentary Commissioner Act 1967[^key-e9c525c01c3c85c4e8087085c91096da][^key-e9c525c01c3c85c4e8087085c91096da]
+#### 2. Parliamentary Commissioner Act 1967[^c-e9c525c01c3c85c4e8087085c91096da][^c-e9c525c01c3c85c4e8087085c91096da]
 
 In Schedule 2 to the Parliamentary Commissioner Act 1967[^f00022] (departments etc. subject to investigation) omit the entry relating to the National Consumer Council.
 
-#### 3. House of Commons Disqualification Act 1975[^key-8c85ccf3d15904ac677d732dfbe0dc8e][^key-8c85ccf3d15904ac677d732dfbe0dc8e]
+#### 3. House of Commons Disqualification Act 1975[^c-8c85ccf3d15904ac677d732dfbe0dc8e][^c-8c85ccf3d15904ac677d732dfbe0dc8e]
 
 In Schedule 1 to the House of Commons Disqualification Act 1975[^f00023] (offices disqualifying for membership)—
 
 - (a) in Part 2 (bodies of which all members are disqualified)[^f00024] omit the entry relating to the National Consumer Council;
 - (b) in Part 3 (other disqualifying offices)[^f00025] omit the entry relating to a member of a committee of the National Consumer Council established under section 1 of, or paragraph 12 of Schedule 1 to, the Consumers, Estate Agents and Redress Act 2007.
 
-#### 4. Gas Act 1986[^key-c277a2665655abfa31a22af9313224ac][^key-c277a2665655abfa31a22af9313224ac]
+#### 4. Gas Act 1986[^c-c277a2665655abfa31a22af9313224ac][^c-c277a2665655abfa31a22af9313224ac]
 
 (1) The Gas Act 1986[^f00026] is amended as follows.
 
@@ -310,7 +310,7 @@ In Schedule 1 to the House of Commons Disqualification Act 1975[^f00023] (office
   ;
 - (b) in paragraph 8(11)(b)[^f00046] for “and to the Council” substitute “, to Citizens Advice and to Citizens Advice Scotland”.
 
-#### 5. Electricity Act 1989[^key-3bdaf23fcaa52b7597a6af5b35e3c983][^key-3bdaf23fcaa52b7597a6af5b35e3c983]
+#### 5. Electricity Act 1989[^c-3bdaf23fcaa52b7597a6af5b35e3c983][^c-3bdaf23fcaa52b7597a6af5b35e3c983]
 
 (1) The Electricity Act 1989[^f00047] is amended as follows.
 
@@ -430,7 +430,7 @@ In Schedule 1 to the House of Commons Disqualification Act 1975[^f00023] (office
 
 .
 
-#### 6. Water Industry Act 1991[^key-a238c3a7f56e22036ca69d3765303063][^key-a238c3a7f56e22036ca69d3765303063]
+#### 6. Water Industry Act 1991[^c-a238c3a7f56e22036ca69d3765303063][^c-a238c3a7f56e22036ca69d3765303063]
 
 In Schedule 15 to the Water Industry Act 1991[^f00067], in Part 1 (persons in respect of whose functions disclosure may be made)—
 
@@ -441,7 +441,7 @@ In Schedule 15 to the Water Industry Act 1991[^f00067], in Part 1 (persons in re
   ;
 - (b) omit the entry relating to the National Consumer Council.
 
-#### 7. Postal Services Act 2000[^key-94837c40791324f7b2ed72b32708c901][^key-94837c40791324f7b2ed72b32708c901]
+#### 7. Postal Services Act 2000[^c-94837c40791324f7b2ed72b32708c901][^c-94837c40791324f7b2ed72b32708c901]
 
 (1) The Postal Services Act 2000[^f00068] is amended as follows.
 
@@ -478,7 +478,7 @@ In Schedule 15 to the Water Industry Act 1991[^f00067], in Part 1 (persons in re
 
   .
 
-#### 8. Utilities Act 2000[^key-17f965d2f5699808c22faed6b7782330][^key-17f965d2f5699808c22faed6b7782330]
+#### 8. Utilities Act 2000[^c-17f965d2f5699808c22faed6b7782330][^c-17f965d2f5699808c22faed6b7782330]
 
 (1) The Utilities Act 2000[^f00071] is amended as follows.
 
@@ -568,7 +568,7 @@ In Schedule 15 to the Water Industry Act 1991[^f00067], in Part 1 (persons in re
   > - “Citizens Advice Scotland” means the Scottish Association of Citizens Advice Bureaux;
 - (b) omit the definition of “Council”.
 
-#### 9. Warm Homes and Energy Conservation Act 2000[^key-595390ecd2a95ebf159237a2ca525679][^key-595390ecd2a95ebf159237a2ca525679]
+#### 9. Warm Homes and Energy Conservation Act 2000[^c-595390ecd2a95ebf159237a2ca525679][^c-595390ecd2a95ebf159237a2ca525679]
 
 (1) The Warm Homes and Energy Conservation Act 2000[^f00078] is amended as follows.
 
@@ -580,7 +580,7 @@ In Schedule 15 to the Water Industry Act 1991[^f00067], in Part 1 (persons in re
 
 .
 
-#### 10. Freedom of Information Act 2000[^key-05a549df3034a01170752feccbbc121f][^key-05a549df3034a01170752feccbbc121f]
+#### 10. Freedom of Information Act 2000[^c-05a549df3034a01170752feccbbc121f][^c-05a549df3034a01170752feccbbc121f]
 
 (1) In Schedule 1 to the Freedom of Information Act 2000[^f00079] (list of public authorities), Part 6 (other public bodies and offices: general) is amended as follows.
 
@@ -601,7 +601,7 @@ In Schedule 15 to the Water Industry Act 1991[^f00067], in Part 1 (persons in re
 
 (3) Omit the entry relating to the National Consumer Council.
 
-#### 11. Communications Act 2003[^key-55d200221e216016a29991e6087831b8][^key-55d200221e216016a29991e6087831b8]
+#### 11. Communications Act 2003[^c-55d200221e216016a29991e6087831b8][^c-55d200221e216016a29991e6087831b8]
 
 (1) The Communications Act 2003[^f00080] is amended as follows.
 
@@ -634,7 +634,7 @@ In Schedule 15 to the Water Industry Act 1991[^f00067], in Part 1 (persons in re
   ;
 - (e) in subsection (5) after “to (4A)” insert “and (4BA)”.
 
-#### 12. Consumers, Estate Agents and Redress Act 2007[^key-85335cacafd0c18e1f80013d41be70dc][^key-85335cacafd0c18e1f80013d41be70dc]
+#### 12. Consumers, Estate Agents and Redress Act 2007[^c-85335cacafd0c18e1f80013d41be70dc][^c-85335cacafd0c18e1f80013d41be70dc]
 
 (1) The 2007 Act[^f00082] is amended as follows.
 
@@ -1150,7 +1150,7 @@ In Schedule 15 to the Water Industry Act 1991[^f00067], in Part 1 (persons in re
 
 (49) In Schedule 4 (transfer of property etc to the National Consumer Council) for “the Council”, in each place it occurs, substitute “Citizens Advice”.
 
-#### 13. Postal Services Act 2011[^key-b03eb3375a73409c79de1eb22c281dee][^key-b03eb3375a73409c79de1eb22c281dee]
+#### 13. Postal Services Act 2011[^c-b03eb3375a73409c79de1eb22c281dee][^c-b03eb3375a73409c79de1eb22c281dee]
 
 (1) The Postal Services Act 2011[^f00099] is amended as follows.
 
@@ -1235,13 +1235,13 @@ In Schedule 15 to the Water Industry Act 1991[^f00067], in Part 1 (persons in re
 
 (8) In Schedule 7 (enforcement of regulatory requirements) in paragraph 1(2)(b)(ii) for “National Consumer Council” substitute “Citizens Advice etc”.
 
-#### 14. Public Bodies Act 2011[^key-da4d8c92a7af793a9afbe9583c11558d]
+#### 14. Public Bodies Act 2011[^c-da4d8c92a7af793a9afbe9583c11558d]
 
 In Schedule 1 to the Public Bodies Act 2011 (bodies and offices subject to the power to abolish in section 1) omit the entry for the National Consumer Council.
 
 ### PART 2 — Amendments to Acts of the Scottish Parliament
 
-#### 15. Water Industry (Scotland) Act [2002 (asp 3)](https://www.legislation.gov.uk/asp/2002/3)[^key-0128845c2329bb2ca7a0d3d8295b97d5][^key-0128845c2329bb2ca7a0d3d8295b97d5]
+#### 15. Water Industry (Scotland) Act [2002 (asp 3)](https://www.legislation.gov.uk/asp/2002/3)[^c-0128845c2329bb2ca7a0d3d8295b97d5][^c-0128845c2329bb2ca7a0d3d8295b97d5]
 
 (1) The Water Industry (Scotland) Act 2002[^f00101] is amended as follows.
 
@@ -1287,11 +1287,11 @@ In Schedule 1 to the Public Bodies Act 2011 (bodies and offices subject to the p
 
 .
 
-#### 16. Scottish Public Services Ombudsman Act [2002 (asp 11)](https://www.legislation.gov.uk/asp/2002/11)[^key-dca343b8b0136da78563331a62e14732][^key-dca343b8b0136da78563331a62e14732]
+#### 16. Scottish Public Services Ombudsman Act [2002 (asp 11)](https://www.legislation.gov.uk/asp/2002/11)[^c-dca343b8b0136da78563331a62e14732][^c-dca343b8b0136da78563331a62e14732]
 
 In Part 2 of Schedule 2 to the Scottish Public Services Ombudsman Act 2002[^f00112] (entries amendable by Order in Council: cross-border public authorities), omit “79 National Consumer Council”.
 
-#### 17. Freedom of Information (Scotland) Act [2002 (asp 13)](https://www.legislation.gov.uk/asp/2002/13)[^key-f0b790955b46a0afaa23b71b7d640421][^key-f0b790955b46a0afaa23b71b7d640421]
+#### 17. Freedom of Information (Scotland) Act [2002 (asp 13)](https://www.legislation.gov.uk/asp/2002/13)[^c-f0b790955b46a0afaa23b71b7d640421][^c-f0b790955b46a0afaa23b71b7d640421]
 
 (1) The Freedom of Information (Scotland) Act 2002[^f00113] is amended as follows.
 
@@ -1300,7 +1300,7 @@ In Part 2 of Schedule 2 to the Scottish Public Services Ombudsman Act 2002[^f001
 - (a) for “function” substitute “functions”;
 - (b) at the end insert “and articles 3(1)(a), (b) and (d) of the Public Bodies (Abolition of the National Consumer Council and the Transfer of the Office of Fair Trading’s Functions in relation to Estate Agents etc) Order 2014 (S.I. 2014/…)”.
 
-#### 18. Water Services etc (Scotland) Act [2005 (asp 3)](https://www.legislation.gov.uk/asp/2005/3)[^key-685e266e6d53a6b5c20197d3c3daec7a][^key-685e266e6d53a6b5c20197d3c3daec7a]
+#### 18. Water Services etc (Scotland) Act [2005 (asp 3)](https://www.legislation.gov.uk/asp/2005/3)[^c-685e266e6d53a6b5c20197d3c3daec7a][^c-685e266e6d53a6b5c20197d3c3daec7a]
 
 (1) The Water Services etc (Scotland) Act 2005[^f00114] is amended as follows.
 
@@ -1308,7 +1308,7 @@ In Part 2 of Schedule 2 to the Scottish Public Services Ombudsman Act 2002[^f001
 
 (3) In section 20B (Commission’s scheme)[^f00116], in subsection (4)(c) for “the National Consumer Council” substitute “Citizens Advice Scotland”.
 
-#### 19. Public Services Reform (Scotland) Act [2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8)[^key-983cd930a4ba9a271889fd3fdede5787][^key-983cd930a4ba9a271889fd3fdede5787]
+#### 19. Public Services Reform (Scotland) Act [2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8)[^c-983cd930a4ba9a271889fd3fdede5787][^c-983cd930a4ba9a271889fd3fdede5787]
 
 (1) The Public Services Reform (Scotland) Act 2010[^f00117] is amended as follows.
 
@@ -1326,11 +1326,11 @@ In Part 2 of Schedule 2 to the Scottish Public Services Ombudsman Act 2002[^f001
 
 ### PART 3 — Amendment to Northern Ireland legislation
 
-#### 20. Northern Ireland Assembly Disqualification Act 1975[^key-0f19eb7add7bce9c4895254cedd5bdf6][^key-0f19eb7add7bce9c4895254cedd5bdf6]
+#### 20. Northern Ireland Assembly Disqualification Act 1975[^c-0f19eb7add7bce9c4895254cedd5bdf6][^c-0f19eb7add7bce9c4895254cedd5bdf6]
 
 In the Northern Ireland Assembly Disqualification Act 1975[^f00118], Schedule 1 Part 3 (other disqualifying offices)[^f00119] omit “A member of a committee of the National Consumer Council established under section 1 of, or paragraph 12 of Schedule 1 to, the Consumers, Estate Agents and Redress Act 2007 (territorial and regional committees).”.
 
-#### 21. The General Consumer Council (Northern Ireland) Order 1984[^key-59621c69657ee0f3a17be9f64f70f9ed][^key-59621c69657ee0f3a17be9f64f70f9ed]
+#### 21. The General Consumer Council (Northern Ireland) Order 1984[^c-59621c69657ee0f3a17be9f64f70f9ed][^c-59621c69657ee0f3a17be9f64f70f9ed]
 
 (1) In the General Consumer Council (Northern Ireland) Order 1984[^f00120], Schedule 1 (provision as to the GCCNI) is amended as follows.
 
@@ -1380,11 +1380,11 @@ In the Northern Ireland Assembly Disqualification Act 1975[^f00118], Schedule 1 
 
 ### PART 4 — Statutory Instruments
 
-#### 22. Enterprise Act 2002 (Bodies Designated to make Super-Complaints) Order 2004[^key-c7c87b3612ed94549e36bb00c40ef3c8][^key-c7c87b3612ed94549e36bb00c40ef3c8]
+#### 22. Enterprise Act 2002 (Bodies Designated to make Super-Complaints) Order 2004[^c-c7c87b3612ed94549e36bb00c40ef3c8][^c-c7c87b3612ed94549e36bb00c40ef3c8]
 
 In the Schedule to the Enterprise Act 2002 (Bodies Designated to make Super-Complaints) Order 2004[^f00121] omit “3. The National Consumer Council.”.
 
-#### 23. Gas and Electricity (Consumer Complaints Handling Standards) Regulations 2008[^key-48fdd0f5c873dea21ad5b3c874c1d9c1][^key-48fdd0f5c873dea21ad5b3c874c1d9c1]
+#### 23. Gas and Electricity (Consumer Complaints Handling Standards) Regulations 2008[^c-48fdd0f5c873dea21ad5b3c874c1d9c1][^c-48fdd0f5c873dea21ad5b3c874c1d9c1]
 
 (1) The Gas and Electricity (Consumer Complaints Handling Standards) Regulations 2008[^f00122] are amended as follows.
 
@@ -1424,7 +1424,7 @@ In the Schedule to the Enterprise Act 2002 (Bodies Designated to make Super-Comp
   - (ii) for the second mention of Consumer Direct” substitute “the consumer advocacy bodies”;
 - (c) in paragraph (2) for “Consumer Direct” substitute “the consumer advocacy bodies”.
 
-#### 24. Infrastructure Planning (National Policy Statement Consultation) Regulations 2009[^key-30b52abf81b6cf0064dc01ca06ba7ed3][^key-30b52abf81b6cf0064dc01ca06ba7ed3]
+#### 24. Infrastructure Planning (National Policy Statement Consultation) Regulations 2009[^c-30b52abf81b6cf0064dc01ca06ba7ed3][^c-30b52abf81b6cf0064dc01ca06ba7ed3]
 
 For sub-paragraph (x) of regulation 3(3) of the Infrastructure Planning (National Policy Statement Consultation) Regulations 2009[^f00123], substitute—
 
@@ -1433,11 +1433,11 @@ For sub-paragraph (x) of regulation 3(3) of the Infrastructure Planning (Nationa
 
 .
 
-#### 25. Electricity (Standards of Performance) Regulations 2010[^key-4990231fecf1f5c92058716a7ff6c7d6]
+#### 25. Electricity (Standards of Performance) Regulations 2010[^c-4990231fecf1f5c92058716a7ff6c7d6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 26. Electricity (Connection Standards of Performance) Regulations 2010[^key-fac541ff6591c66c22d6f14746263f8d][^key-fac541ff6591c66c22d6f14746263f8d]
+#### 26. Electricity (Connection Standards of Performance) Regulations 2010[^c-fac541ff6591c66c22d6f14746263f8d][^c-fac541ff6591c66c22d6f14746263f8d]
 
 (1) The Electricity (Connection Standards of Performance) Regulations 2010[^f00126] are amended as follows.
 
@@ -1454,7 +1454,7 @@ For sub-paragraph (x) of regulation 3(3) of the Infrastructure Planning (Nationa
 
 (4) In Schedule 2 (practice and procedure for determinations) in paragraph 1(2)(a), for “the Council” substitute “a consumer advocacy body”.
 
-#### 27. Postal Services Act 2011 (Disclosure of Information) Order 2012[^key-011326802fe52542127bba40d3aba682][^key-011326802fe52542127bba40d3aba682]
+#### 27. Postal Services Act 2011 (Disclosure of Information) Order 2012[^c-011326802fe52542127bba40d3aba682][^c-011326802fe52542127bba40d3aba682]
 
 In Article 3 (prescription of bodies and persons) of the Postal Services Act 2011 (Disclosure of Information) Order 2012[^f00127]—
 
@@ -1475,7 +1475,7 @@ In Article 3 (prescription of bodies and persons) of the Postal Services Act 201
 
 ### PART 5 — Transitional provisions
 
-**28.**[^key-c49eaf28e1a9233076c460c53cbd4095][^key-c49eaf28e1a9233076c460c53cbd4095] (1) Nothing in this Order affects the validity of anything done (or having effect as if done) by or in relation to the National Consumer Council before the coming into force of articles 2 and 3.
+**28.**[^c-c49eaf28e1a9233076c460c53cbd4095][^c-c49eaf28e1a9233076c460c53cbd4095] (1) Nothing in this Order affects the validity of anything done (or having effect as if done) by or in relation to the National Consumer Council before the coming into force of articles 2 and 3.
 
 (2) Anything done (or having effect as if done) by or in relation to the National Consumer Council, so far as it relates to any of the functions transferred by article 3, has effect, so far as is necessary for continuing its effect after the coming into force of articles 2 and 3, as if done by or in relation to the transferee or transferees.
 
@@ -1502,7 +1502,7 @@ Article 5(3)
 
 ### PART 1 — Amendments to Acts
 
-#### 1. Estate Agents Act 1979[^key-3252fb04b1d4e719f4efe58fee2a830f][^key-3252fb04b1d4e719f4efe58fee2a830f]
+#### 1. Estate Agents Act 1979[^c-3252fb04b1d4e719f4efe58fee2a830f][^c-3252fb04b1d4e719f4efe58fee2a830f]
 
 (1) The 1979 Act[^f00130] is amended as follows.
 
@@ -1631,7 +1631,7 @@ Article 5(3)
   - (i) in paragraph (a) omit “other than the OFT”;
   - (ii) for “by the OFT” substitute “by the lead enforcement authority”.
 
-#### 2. Companies Act 1985[^key-503f52f82bc267f49b106ccbd38a8be4][^key-503f52f82bc267f49b106ccbd38a8be4]
+#### 2. Companies Act 1985[^c-503f52f82bc267f49b106ccbd38a8be4][^c-503f52f82bc267f49b106ccbd38a8be4]
 
 In Schedule 15D to the Companies Act 1985[^f00141] (disclosures)—
 
@@ -1642,7 +1642,7 @@ In Schedule 15D to the Companies Act 1985[^f00141] (disclosures)—
 
   .
 
-#### 3. Tribunals and Inquiries Act 1992[^key-b7dc2e8047f5597e6ed3d3ce64b80056][^key-b7dc2e8047f5597e6ed3d3ce64b80056]
+#### 3. Tribunals and Inquiries Act 1992[^c-b7dc2e8047f5597e6ed3d3ce64b80056][^c-b7dc2e8047f5597e6ed3d3ce64b80056]
 
 (1) The Tribunals and Inquiries Act 1992[^f00142] is amended as follows.
 
@@ -1663,11 +1663,11 @@ In Schedule 15D to the Companies Act 1985[^f00141] (disclosures)—
   ;
 - (b) in paragraph 17 omit “and the Estate Agents Act 1979”.
 
-#### 4. Enterprise Act 2002[^key-d576a2977c19a605723930a5e6d7907c][^key-d576a2977c19a605723930a5e6d7907c]
+#### 4. Enterprise Act 2002[^c-d576a2977c19a605723930a5e6d7907c][^c-d576a2977c19a605723930a5e6d7907c]
 
 In section 231 of the Enterprise Act 2002 (notice of convictions and judgment to OFT), in subsection (2) omit “or under the Estate Agents Act [1979 (c.38)](https://www.legislation.gov.uk/ukpga/1979/38)”.
 
-#### 5. Companies Act 2006[^key-0fca3725098195c0415fbf10ce279a85][^key-0fca3725098195c0415fbf10ce279a85]
+#### 5. Companies Act 2006[^c-0fca3725098195c0415fbf10ce279a85][^c-0fca3725098195c0415fbf10ce279a85]
 
 (1) The Companies Act 2006[^f00145] is amended as follows.
 
@@ -1685,13 +1685,13 @@ In section 231 of the Enterprise Act 2002 (notice of convictions and judgment to
 
   > **51A.** A disclosure for the purpose of enabling or assisting the lead enforcement authority (as defined in section 33(1) of the Estate Agents Act 1979) to exercise its functions under the Estate Agents Act 1979.
 
-#### 6. Public Bodies Act 2011[^key-0cb741c9da6e0c820529f2ec66839024][^key-0cb741c9da6e0c820529f2ec66839024]
+#### 6. Public Bodies Act 2011[^c-0cb741c9da6e0c820529f2ec66839024][^c-0cb741c9da6e0c820529f2ec66839024]
 
 In Schedule 5 to the Public Bodies Act 2011 (power to modify or transfer functions: bodies and offices) omit the entry for the Office of Fair Trading (“OFT”).
 
 ### PART 2 — Amendments to Acts of the Scottish Parliament
 
-#### 7. Housing (Scotland) Act 2006[^key-dd0f1fa5aaccf13780c3f523f296b768][^key-dd0f1fa5aaccf13780c3f523f296b768]
+#### 7. Housing (Scotland) Act 2006[^c-dd0f1fa5aaccf13780c3f523f296b768][^c-dd0f1fa5aaccf13780c3f523f296b768]
 
 (1) In section 117 of the Housing (Scotland) Act 2006[^f00148] (notification of breach of duty)—
 
@@ -1700,11 +1700,11 @@ In Schedule 5 to the Public Bodies Act 2011 (power to modify or transfer functio
 
 ### PART 3 — Amendments to Statutory Instruments
 
-#### 8. Estate Agents (Entry and Inspection) Regulations 1981[^key-0c354e03fa8e2b72585af79664a398ee][^key-0c354e03fa8e2b72585af79664a398ee]
+#### 8. Estate Agents (Entry and Inspection) Regulations 1981[^c-0c354e03fa8e2b72585af79664a398ee][^c-0c354e03fa8e2b72585af79664a398ee]
 
 The Estate Agents (Entry and Inspection) Regulations 1981[^f00149] are revoked.
 
-#### 9. Energy (Northern Ireland) Order 2003[^key-012cf63ca5a8ab843154f7ffb9cfdc11][^key-012cf63ca5a8ab843154f7ffb9cfdc11]
+#### 9. Energy (Northern Ireland) Order 2003[^c-012cf63ca5a8ab843154f7ffb9cfdc11][^c-012cf63ca5a8ab843154f7ffb9cfdc11]
 
 In Article 63 of the Energy (Northern Ireland) Order 2003[^f00150] (general restrictions on disclosure of information) after paragraph 4(f) insert—
 
@@ -1712,7 +1712,7 @@ In Article 63 of the Energy (Northern Ireland) Order 2003[^f00150] (general rest
 
 .
 
-#### 10. Water and Sewerage Services (Northern Ireland) Order 2006[^key-d83c27b155625eac7bb9e8be47079e8d][^key-d83c27b155625eac7bb9e8be47079e8d]
+#### 10. Water and Sewerage Services (Northern Ireland) Order 2006[^c-d83c27b155625eac7bb9e8be47079e8d][^c-d83c27b155625eac7bb9e8be47079e8d]
 
 In Article 265 of the Water and Sewerage Services (Northern Ireland) Order 2006[^f00151] (restriction on disclosure of information) after paragraph (3)(k) insert—
 
@@ -1720,7 +1720,7 @@ In Article 265 of the Water and Sewerage Services (Northern Ireland) Order 2006[
 
 .
 
-#### 11. Companies (Disclosure of Address) Regulations 2009[^key-a0bcbfff3a45660078b6f87f75f537b9][^key-a0bcbfff3a45660078b6f87f75f537b9]
+#### 11. Companies (Disclosure of Address) Regulations 2009[^c-a0bcbfff3a45660078b6f87f75f537b9][^c-a0bcbfff3a45660078b6f87f75f537b9]
 
 At the end of Schedule 1 to the Companies (Disclosure of Address) Regulations 2009[^f00152] (specified public authorities) after “the Scottish Housing Regulator”, insert—
 
@@ -1728,7 +1728,7 @@ At the end of Schedule 1 to the Companies (Disclosure of Address) Regulations 20
 
 .
 
-#### 12. Overseas Companies Regulations 2009[^key-442ae04cd03f54a8710290a46cccad89][^key-442ae04cd03f54a8710290a46cccad89]
+#### 12. Overseas Companies Regulations 2009[^c-442ae04cd03f54a8710290a46cccad89][^c-442ae04cd03f54a8710290a46cccad89]
 
 At the end of Schedule 1 to the Overseas Companies Regulations 2009[^f00153] (specified public authorities), after “the Scottish Housing Regulator” insert—
 
@@ -1738,7 +1738,7 @@ At the end of Schedule 1 to the Overseas Companies Regulations 2009[^f00153] (sp
 
 ### PART 4 — Transitional provisions and savings
 
-#### 13. General[^key-c64bdce927cd740818fba09bc22b23a5][^key-c64bdce927cd740818fba09bc22b23a5]
+#### 13. General[^c-c64bdce927cd740818fba09bc22b23a5][^c-c64bdce927cd740818fba09bc22b23a5]
 
 (1) Nothing in this Order affects the validity of anything done (or having effect as if done) by or in relation to the OFT before the coming into force of article 5(1).
 
@@ -1750,17 +1750,17 @@ At the end of Schedule 1 to the Overseas Companies Regulations 2009[^f00153] (sp
 
 (5) This paragraph is subject to paragraphs 14 and 15.
 
-#### 14. Costs orders[^key-50e94372f89f6c322fbde94c64427b3c][^key-50e94372f89f6c322fbde94c64427b3c]
+#### 14. Costs orders[^c-50e94372f89f6c322fbde94c64427b3c][^c-50e94372f89f6c322fbde94c64427b3c]
 
 Where the OFT is the receiving or paying party under a costs order made in connection with legal proceedings that relate to the exercise of any function transferred by article 5(1), the CMA is to be treated as the receiving or paying party, as the case may be, instead.
 
-#### 15. General notices issued by the OFT[^key-2ad64f3b9159ed9ce027ce3e0d3a2df8][^key-2ad64f3b9159ed9ce027ce3e0d3a2df8]
+#### 15. General notices issued by the OFT[^c-2ad64f3b9159ed9ce027ce3e0d3a2df8][^c-2ad64f3b9159ed9ce027ce3e0d3a2df8]
 
 (1) Any general notices issued by the OFT under the 1979 Act cease to have effect.
 
 (2) In this paragraph “general notice” has the meaning given by section 33(1) of the 1979 Act.
 
-#### 16. Information[^key-94d1ad5a330f0849d55b04093b8ff9ea][^key-94d1ad5a330f0849d55b04093b8ff9ea]
+#### 16. Information[^c-94d1ad5a330f0849d55b04093b8ff9ea][^c-94d1ad5a330f0849d55b04093b8ff9ea]
 
 The OFT may disclose to the lead enforcement authority any information which the OFT considers it necessary or expedient to disclose to the lead enforcement authority in connection with the transfer of functions by article 5(1).
 
@@ -1770,13 +1770,13 @@ Article 5(3)
 
 ### PART 1 — Amendments to Statutory Instruments
 
-#### 1. Public Interest Disclosure (Prescribed Persons) Order (Northern Ireland) 1999[^key-2b66bb4edcc65823729dc7673af29750][^key-2b66bb4edcc65823729dc7673af29750]
+#### 1. Public Interest Disclosure (Prescribed Persons) Order (Northern Ireland) 1999[^c-2b66bb4edcc65823729dc7673af29750][^c-2b66bb4edcc65823729dc7673af29750]
 
 In column 2 of the table in the Schedule (descriptions of matters) to the Public Interest Disclosure (Prescribed Persons) Order (Northern Ireland) 1999[^f00154] adjacent to the entry for Her Majesty’s Revenue and Customs after “national minimum wage.” insert—
 
 > Matters relating to the Commissioners’ functions as the supervisory authority for estate agents pursuant to regulation 23(1)(d)(vii) of the Money Laundering Regulations 2007.
 
-#### 2. Money Laundering Regulations 2007[^key-67243e4ee4a267a09683593623510ac5][^key-67243e4ee4a267a09683593623510ac5]
+#### 2. Money Laundering Regulations 2007[^c-67243e4ee4a267a09683593623510ac5][^c-67243e4ee4a267a09683593623510ac5]
 
 (1) The 2007 Regulations are amended as follows.
 
@@ -1800,7 +1800,7 @@ In column 2 of the table in the Schedule (descriptions of matters) to the Public
 
 ### PART 2 — Transitional provisions and savings
 
-#### 3. General[^key-826d2345a385326cf2695f99d6a15b93][^key-826d2345a385326cf2695f99d6a15b93]
+#### 3. General[^c-826d2345a385326cf2695f99d6a15b93][^c-826d2345a385326cf2695f99d6a15b93]
 
 (1) This paragraph and paragraphs 4 to 7 have effect in place of the provisions of paragraph 32 of the Schedule to the Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No. 2) Order 2013[^f00157] (transitional provision in relation to the Money Laundering Regulations 2007).
 
@@ -1814,15 +1814,15 @@ In column 2 of the table in the Schedule (descriptions of matters) to the Public
 
 (6) This paragraph is subject to paragraphs 4 to 7.
 
-#### 4. Costs orders[^key-890b8887ca846f6c18f8999360f05e47][^key-890b8887ca846f6c18f8999360f05e47]
+#### 4. Costs orders[^c-890b8887ca846f6c18f8999360f05e47][^c-890b8887ca846f6c18f8999360f05e47]
 
 Where the OFT is the receiving or paying party under a costs order made in connection with legal proceedings that relate to the exercise of any function transferred by article 5(2), the CMA is to be treated as the receiving or paying party, as the case may be, instead.
 
-#### 5. Change in appeal procedure[^key-ba943948bfe955a1d2fb50ab6bfb74bc][^key-ba943948bfe955a1d2fb50ab6bfb74bc]
+#### 5. Change in appeal procedure[^c-ba943948bfe955a1d2fb50ab6bfb74bc][^c-ba943948bfe955a1d2fb50ab6bfb74bc]
 
 Where the OFT has issued a notice under regulation 34(4)(b), 34(8) or 42(6) of the 2007 Regulations in relation to any of the functions transferred by article 5(2) but have not before the commencement of article 5(2) issued a notice of its decision under regulation 34(5)(b), 34(9)(b) or 42(7)(b), as the case may be, the notice ceases to have effect.
 
-**6.**[^key-5c602f44a277fa910bb583b4684604f4] Where the OFT has issued a notice of its decision under regulation 34(5)(b), 34(9)(b) or 42(7)(b) of the 2007 Regulations in relation to any of the functions transferred by article 5(2) and an appeal has not been started before the commencement of article 5(2)—
+**6.**[^c-5c602f44a277fa910bb583b4684604f4] Where the OFT has issued a notice of its decision under regulation 34(5)(b), 34(9)(b) or 42(7)(b) of the 2007 Regulations in relation to any of the functions transferred by article 5(2) and an appeal has not been started before the commencement of article 5(2)—
 
 - (a) a person who is the subject of such a decision may appeal to the First-tier Tribunal;
 - (b) any such appeal must be started in accordance with the Tribunal Procedure (First Tier Tribunal) (General Regulatory Chamber) Rules 2009[^f00158];
@@ -1839,7 +1839,7 @@ Where the OFT has issued a notice under regulation 34(4)(b), 34(8) or 42(6) of t
     - (bb) regulation 43D(3).
   - (iv) in regulation 43E (nature of review etc.), in paragraph (3)(a) for “Commissioners” substitute “Office of Fair Trading”.
 
-**7.**[^key-11a20616b0781b930fb682ebb897e218] Where an appeal has been started against a decision of the OFT in relation to any of the functions transferred by article 5(2) under regulation 44 of the 2007 Regulations, after the commencement of article 5(2) it is to be treated as an appeal under regulation 43 of the 2007 Regulations.
+**7.**[^c-11a20616b0781b930fb682ebb897e218] Where an appeal has been started against a decision of the OFT in relation to any of the functions transferred by article 5(2) under regulation 44 of the 2007 Regulations, after the commencement of article 5(2) it is to be treated as an appeal under regulation 43 of the 2007 Regulations.
 
 EXPLANATORY NOTE
 
@@ -1877,7 +1877,7 @@ A full regulatory impact assessment of the effect that this Order will have on t
 
 [^f00001]: Footnote: [2011 c. 24](https://www.legislation.gov.uk/ukpga/2011/24).
 
-[^key-5188d4a5389d08a95787d5b85e933745]: Commencement: Art. 1 in force at 14.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/631/article/1/2)
+[^c-5188d4a5389d08a95787d5b85e933745]: Commencement: Art. 1 in force at 14.3.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/631/article/1/2)
 
 [^f00002]: Footnote: [1979 c. 38](https://www.legislation.gov.uk/ukpga/1979/38); relevant amendments were made by the 2002 Act and the 2007 Act.
 
@@ -1897,11 +1897,11 @@ A full regulatory impact assessment of the effect that this Order will have on t
 
 [^f00010]: Footnote: The General Consumer Council for Northern Ireland was established by the General Consumer Council (Northern Ireland) Order [1984 No. 1822 (N.I.12)](https://www.legislation.gov.uk/nisi/1984/1822) as amended by the Electricity (Northern Ireland) Order [1992 No. 231 (N.I.1)](https://www.legislation.gov.uk/nisi/1992/231), the Audit and Accountability (Northern Ireland) Order [2003 No. 418 (N.I.5)](https://www.legislation.gov.uk/nisi/2003/481), the Energy (Northern Ireland) Order [2003 No. 419 (N.I.6)](https://www.legislation.gov.uk/nisi/2003/419), the Natural Environment and Rural Communities Act [2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), Water and Sewage Services (Northern Ireland) Order [2006 No. 3336 (N.I.21)](https://www.legislation.gov.uk/nisi/2006/3336) and the Transport Act (Northern Ireland) [2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11).
 
-[^key-f45a12cfafef42e212389639e8d3f71d]: Commencement: Art. 2 in force at 1.4.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3)
+[^c-f45a12cfafef42e212389639e8d3f71d]: Commencement: Art. 2 in force at 1.4.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3)
 
-[^key-6c52fb91624b007cdd660ae057c09942]: Commencement: Art. 3(1)(a)-(f)(2)-(5) in force at 1.4.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3)
+[^c-6c52fb91624b007cdd660ae057c09942]: Commencement: Art. 3(1)(a)-(f)(2)-(5) in force at 1.4.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3)
 
-[^key-ca3cfbb898af0637476d0c93b432334e]: Commencement: Art. 3(1)(g) in force at 2.4.2014, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2014/631/article/1/4)
+[^c-ca3cfbb898af0637476d0c93b432334e]: Commencement: Art. 3(1)(g) in force at 2.4.2014, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2014/631/article/1/4)
 
 [^f00011]: Footnote: [2000 c. 26](https://www.legislation.gov.uk/ukpga/2000/26); relevant amendments have been made by the Postal Services Act 2011.
 
@@ -1923,21 +1923,21 @@ A full regulatory impact assessment of the effect that this Order will have on t
 
 [^f00020]: Footnote: [2010 asp 8](https://www.legislation.gov.uk/asp/2010/8).
 
-[^key-99911a7d3868b26d778c71c71a6da819]: Commencement: Art. 4 in force at 1.4.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3)
+[^c-99911a7d3868b26d778c71c71a6da819]: Commencement: Art. 4 in force at 1.4.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3)
 
-[^key-3acaa01f62715d975e7357e37e821c2d]: Commencement: [Art. 5(1)(2)(3)(a)(i)(b)](https://www.legislation.gov.uk/uksi/2014/631/article/5/1/2/3/a/i/b) in force at 31.3.2014, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2014/631/article/1/5)
+[^c-3acaa01f62715d975e7357e37e821c2d]: Commencement: [Art. 5(1)(2)(3)(a)(i)(b)](https://www.legislation.gov.uk/uksi/2014/631/article/5/1/2/3/a/i/b) in force at 31.3.2014, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2014/631/article/1/5)
 
-[^key-268d0a8d86d7516600f182b6c217aa49]: Commencement: Art. 5(3)(a)(ii) in force at 1.4.2014, see [art. 1(6)](https://www.legislation.gov.uk/uksi/2014/631/article/1/6)
+[^c-268d0a8d86d7516600f182b6c217aa49]: Commencement: Art. 5(3)(a)(ii) in force at 1.4.2014, see [art. 1(6)](https://www.legislation.gov.uk/uksi/2014/631/article/1/6)
 
-[^key-a4256eb1b89b0b73018f71860f660ef4]: Commencement: Sch. 1 para. 1 in force at 1.4.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3)
+[^c-a4256eb1b89b0b73018f71860f660ef4]: Commencement: Sch. 1 para. 1 in force at 1.4.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3)
 
 [^f00021]: Footnote: [1958 c. 51](https://www.legislation.gov.uk/ukpga/1958/51). The entry relating to the National Consumer Council was inserted by paragraph 36(1) of Part 6 of Schedule 1 to the 2007 Act.
 
-[^key-e9c525c01c3c85c4e8087085c91096da]: Commencement: Sch. 1 para. 2 in force at 1.4.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3)
+[^c-e9c525c01c3c85c4e8087085c91096da]: Commencement: Sch. 1 para. 2 in force at 1.4.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3)
 
 [^f00022]: Footnote: [1967 c. 13](https://www.legislation.gov.uk/ukpga/1967/13); Schedule 2 was substituted by Schedule 1 to [S.I. 2011/2986](https://www.legislation.gov.uk/uksi/2011/2986). Other amendments to this Act are not relevant to this Order.
 
-[^key-8c85ccf3d15904ac677d732dfbe0dc8e]: Commencement: Sch. 1 para. 3 in force at 1.4.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3)
+[^c-8c85ccf3d15904ac677d732dfbe0dc8e]: Commencement: Sch. 1 para. 3 in force at 1.4.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3)
 
 [^f00023]: Footnote: [1975 c. 24](https://www.legislation.gov.uk/ukpga/1975/24).
 
@@ -1945,7 +1945,7 @@ A full regulatory impact assessment of the effect that this Order will have on t
 
 [^f00025]: Footnote: Part 3 of Schedule 1 was amended by paragraph 34(2) of Part 6 of Schedule 1 to the 2007 Act. Other amendments to this Part are not relevant to this Order.
 
-[^key-c277a2665655abfa31a22af9313224ac]: Commencement: Sch. 1 para. 4 in force at 1.4.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3)
+[^c-c277a2665655abfa31a22af9313224ac]: Commencement: Sch. 1 para. 4 in force at 1.4.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3)
 
 [^f00026]: Footnote: [1986 c. 44](https://www.legislation.gov.uk/ukpga/1986/44) as amended by section 10(1) of and paragraph 26 of Schedule 3 to the Gas Act [1995 (c. 45)](https://www.legislation.gov.uk/ukpga/1995/45), sections 20(5), 90(2), and 108 of and paragraphs 1, 2(1) and 10 of Part 1 of Schedule 6 to the Utilities Act [2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27), section 17 of and paragraphs 1 and 3 of the Schedule to the Climate Change and Sustainable Energy Act [2006 (c. 19)](https://www.legislation.gov.uk/ukpga/2006/19) and paragraph 1 of Schedule 1 to the Energy Act [2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16).
 
@@ -1989,7 +1989,7 @@ A full regulatory impact assessment of the effect that this Order will have on t
 
 [^f00046]: Footnote: Paragraph 8 of Schedule 2B was amended by section 108 of and paragraphs 1 and 23(a) and (b) of Part 1 of Schedule 6 to the Utilities Act 2000.
 
-[^key-3bdaf23fcaa52b7597a6af5b35e3c983]: Commencement: Sch. 1 para. 5 in force at 1.4.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3)
+[^c-3bdaf23fcaa52b7597a6af5b35e3c983]: Commencement: Sch. 1 para. 5 in force at 1.4.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3)
 
 [^f00047]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29).
 
@@ -2031,11 +2031,11 @@ A full regulatory impact assessment of the effect that this Order will have on t
 
 [^f00066]: Footnote: Schedule 6 was substituted by section 51(2) of and Schedule 4 to the Utilities Act 2000. Other amendments are not relevant to this Order.
 
-[^key-a238c3a7f56e22036ca69d3765303063]: Commencement: Sch. 1 para. 6 in force at 1.4.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3)
+[^c-a238c3a7f56e22036ca69d3765303063]: Commencement: Sch. 1 para. 6 in force at 1.4.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3)
 
 [^f00067]: Footnote: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56); Part 1 of Schedule 15 was amended by paragraph 10(a) of Schedule 7 to the 2007 Act.
 
-[^key-94837c40791324f7b2ed72b32708c901]: Commencement: Sch. 1 para. 7 in force at 1.4.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3)
+[^c-94837c40791324f7b2ed72b32708c901]: Commencement: Sch. 1 para. 7 in force at 1.4.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3)
 
 [^f00068]: Footnote: [2000 c. 26](https://www.legislation.gov.uk/ukpga/2000/26).
 
@@ -2043,7 +2043,7 @@ A full regulatory impact assessment of the effect that this Order will have on t
 
 [^f00070]: Footnote: Section 102(1) and (3) was amended by paragraphs 1 and 33(1), (2) and (3) of Part 1 of Schedule 12 to the Postal Services Act 2011.
 
-[^key-17f965d2f5699808c22faed6b7782330]: Commencement: Sch. 1 para. 8 in force at 1.4.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3)
+[^c-17f965d2f5699808c22faed6b7782330]: Commencement: Sch. 1 para. 8 in force at 1.4.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3)
 
 [^f00071]: Footnote: [2000 c. 27](https://www.legislation.gov.uk/ukpga/2000/27).
 
@@ -2059,21 +2059,21 @@ A full regulatory impact assessment of the effect that this Order will have on t
 
 [^f00077]: Footnote: Section 106(1) was amended by section 30(4)(d) of the 2007 Act.
 
-[^key-595390ecd2a95ebf159237a2ca525679]: Commencement: Sch. 1 para. 9 in force at 1.4.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3)
+[^c-595390ecd2a95ebf159237a2ca525679]: Commencement: Sch. 1 para. 9 in force at 1.4.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3)
 
 [^f00078]: Footnote: [2000 c. 31](https://www.legislation.gov.uk/ukpga/2000/31); section 2(4)(c) was amended by paragraphs 18 and 21 of Schedule 7 to the 2007 Act.
 
-[^key-05a549df3034a01170752feccbbc121f]: Commencement: Sch. 1 para. 10 in force at 1.4.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3)
+[^c-05a549df3034a01170752feccbbc121f]: Commencement: Sch. 1 para. 10 in force at 1.4.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3)
 
 [^f00079]: Footnote: [2000 c. 36](https://www.legislation.gov.uk/ukpga/2000/36); Schedule 1 was amended by Schedule 1 to [S.I. 2010/937](https://www.legislation.gov.uk/uksi/2010/937) and by [S.I. 2013/783](https://www.legislation.gov.uk/uksi/2013/783).
 
-[^key-55d200221e216016a29991e6087831b8]: Commencement: Sch. 1 para. 11 in force at 1.4.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3)
+[^c-55d200221e216016a29991e6087831b8]: Commencement: Sch. 1 para. 11 in force at 1.4.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3)
 
 [^f00080]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21).
 
 [^f00081]: Footnote: Section 17(4A) to (4C) was inserted, and section 17(5) amended, by section 40 of the 2007 Act.
 
-[^key-85335cacafd0c18e1f80013d41be70dc]: Commencement: Sch. 1 para. 12 in force at 1.4.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3)
+[^c-85335cacafd0c18e1f80013d41be70dc]: Commencement: Sch. 1 para. 12 in force at 1.4.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3)
 
 [^f00082]: Footnote: [2007 c. 17](https://www.legislation.gov.uk/ukpga/2007/17).
 
@@ -2109,15 +2109,15 @@ A full regulatory impact assessment of the effect that this Order will have on t
 
 [^f00098]: Footnote: Section 41(1) was amended by paragraphs 175 and 182 of Part 3 of Schedule 12 to the Postal Services Act [2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5).
 
-[^key-b03eb3375a73409c79de1eb22c281dee]: Commencement: Sch. 1 para. 13 in force at 1.4.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3)
+[^c-b03eb3375a73409c79de1eb22c281dee]: Commencement: Sch. 1 para. 13 in force at 1.4.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3)
 
 [^f00099]: Footnote: [2011 c. 5](https://www.legislation.gov.uk/ukpga/2011/5).
 
 [^f00100]: Footnote: Section 51(2), (4) and (4)(b) was amended, and sections 51(4A) and (8) inserted, by article 6 of [S.I. 2013/783](https://www.legislation.gov.uk/uksi/2013/783).
 
-[^key-da4d8c92a7af793a9afbe9583c11558d]: Commencement: Sch. 1 para. 14 in force at 2.4.2014, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2014/631/article/1/4)
+[^c-da4d8c92a7af793a9afbe9583c11558d]: Commencement: Sch. 1 para. 14 in force at 2.4.2014, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2014/631/article/1/4)
 
-[^key-0128845c2329bb2ca7a0d3d8295b97d5]: Commencement: Sch. 1 para. 15 in force at 1.4.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3)
+[^c-0128845c2329bb2ca7a0d3d8295b97d5]: Commencement: Sch. 1 para. 15 in force at 1.4.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3)
 
 [^f00101]: Footnote: [2002 asp 3](https://www.legislation.gov.uk/asp/2002/3).
 
@@ -2141,15 +2141,15 @@ A full regulatory impact assessment of the effect that this Order will have on t
 
 [^f00111]: Footnote: Section 57(6) and (7) was amended by paragraph 7 of Schedule 5 to the Water Services etc (Scotland) Act 2005. Section 57(6) was also amended by sections 3(6) and 130(1) and (7) of and paragraph 13 of Part 1 of Schedule 2 to the Public Services Reform (Scotland) Act 2010.
 
-[^key-dca343b8b0136da78563331a62e14732]: Commencement: Sch. 1 para. 16 in force at 1.4.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3)
+[^c-dca343b8b0136da78563331a62e14732]: Commencement: Sch. 1 para. 16 in force at 1.4.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3)
 
 [^f00112]: Footnote: [2002 asp 11](https://www.legislation.gov.uk/asp/2002/11).
 
-[^key-f0b790955b46a0afaa23b71b7d640421]: Commencement: Sch. 1 para. 17 in force at 1.4.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3)
+[^c-f0b790955b46a0afaa23b71b7d640421]: Commencement: Sch. 1 para. 17 in force at 1.4.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3)
 
 [^f00113]: Footnote: [2002 asp 13](https://www.legislation.gov.uk/asp/2002/13).
 
-[^key-685e266e6d53a6b5c20197d3c3daec7a]: Commencement: Sch. 1 para. 18 in force at 1.4.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3)
+[^c-685e266e6d53a6b5c20197d3c3daec7a]: Commencement: Sch. 1 para. 18 in force at 1.4.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3)
 
 [^f00114]: Footnote: [2005 asp 3](https://www.legislation.gov.uk/asp/2005/3).
 
@@ -2157,49 +2157,49 @@ A full regulatory impact assessment of the effect that this Order will have on t
 
 [^f00116]: Footnote: Section 20B was inserted by section 32 of the Water Resources (Scotland) Act [2013 asp 5](https://www.legislation.gov.uk/asp/2013/5).
 
-[^key-983cd930a4ba9a271889fd3fdede5787]: Commencement: Sch. 1 para. 19 in force at 1.4.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3)
+[^c-983cd930a4ba9a271889fd3fdede5787]: Commencement: Sch. 1 para. 19 in force at 1.4.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3)
 
 [^f00117]: Footnote: [2010 asp 8](https://www.legislation.gov.uk/asp/2010/8).
 
-[^key-0f19eb7add7bce9c4895254cedd5bdf6]: Commencement: Sch. 1 para. 20 in force at 1.4.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3)
+[^c-0f19eb7add7bce9c4895254cedd5bdf6]: Commencement: Sch. 1 para. 20 in force at 1.4.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3)
 
 [^f00118]: Footnote: [1975 c. 25](https://www.legislation.gov.uk/ukpga/1975/25).
 
 [^f00119]: Footnote: Part 3 of Schedule 1 was amended by section 1(4) of and Part 6 of Schedule 1 to the 2007 Act.
 
-[^key-59621c69657ee0f3a17be9f64f70f9ed]: Commencement: Sch. 1 para. 21 in force at 1.4.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3)
+[^c-59621c69657ee0f3a17be9f64f70f9ed]: Commencement: Sch. 1 para. 21 in force at 1.4.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3)
 
 [^f00120]: Footnote: [S.I. 1984/1822 (N.I.12)](https://www.legislation.gov.uk/nisi/1984/1822).
 
-[^key-c7c87b3612ed94549e36bb00c40ef3c8]: Commencement: Sch. 1 para. 22 in force at 1.4.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3)
+[^c-c7c87b3612ed94549e36bb00c40ef3c8]: Commencement: Sch. 1 para. 22 in force at 1.4.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3)
 
 [^f00121]: Footnote: [S.I 2004/1517](https://www.legislation.gov.uk/uksi/2004/1517) .
 
-[^key-48fdd0f5c873dea21ad5b3c874c1d9c1]: Commencement: Sch. 1 para. 23 in force at 1.4.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3)
+[^c-48fdd0f5c873dea21ad5b3c874c1d9c1]: Commencement: Sch. 1 para. 23 in force at 1.4.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3)
 
 [^f00122]: Footnote: [S.I 2008/1898](https://www.legislation.gov.uk/uksi/2008/1898).
 
-[^key-30b52abf81b6cf0064dc01ca06ba7ed3]: Commencement: Sch. 1 para. 24 in force at 1.4.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3)
+[^c-30b52abf81b6cf0064dc01ca06ba7ed3]: Commencement: Sch. 1 para. 24 in force at 1.4.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3)
 
 [^f00123]: Footnote: [S.I. 2009/1302](https://www.legislation.gov.uk/uksi/2009/1302).
 
-[^key-4990231fecf1f5c92058716a7ff6c7d6]: Textual amendment: Sch. 1 para. 25 revoked (1.4.2015) by [The Electricity (Standards of Performance) Regulations 2015 (S.I. 2015/699)](https://www.legislation.gov.uk/uksi/2015/699), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2015/699/schedule/1)
+[^c-4990231fecf1f5c92058716a7ff6c7d6]: Textual amendment: Sch. 1 para. 25 revoked (1.4.2015) by [The Electricity (Standards of Performance) Regulations 2015 (S.I. 2015/699)](https://www.legislation.gov.uk/uksi/2015/699), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2015/699/schedule/1)
 
-[^key-fac541ff6591c66c22d6f14746263f8d]: Commencement: Sch. 1 para. 26 in force at 1.4.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3)
+[^c-fac541ff6591c66c22d6f14746263f8d]: Commencement: Sch. 1 para. 26 in force at 1.4.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3)
 
 [^f00126]: Footnote: [S.I. 2010/2088](https://www.legislation.gov.uk/uksi/2010/2088).
 
-[^key-011326802fe52542127bba40d3aba682]: Commencement: Sch. 1 para. 27 in force at 1.4.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3)
+[^c-011326802fe52542127bba40d3aba682]: Commencement: Sch. 1 para. 27 in force at 1.4.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3)
 
 [^f00127]: Footnote: [S.I. 2012/1128](https://www.legislation.gov.uk/uksi/2012/1128).
 
-[^key-c49eaf28e1a9233076c460c53cbd4095]: Commencement: Sch. 1 para. 28 in force at 1.4.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3)
+[^c-c49eaf28e1a9233076c460c53cbd4095]: Commencement: Sch. 1 para. 28 in force at 1.4.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3)
 
 [^f00128]: Footnote: The Gas and Electricity Markets Authority was established by section 1 of the Utilities Act [2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27).
 
 [^f00129]: Footnote: The Office of Communications was established by section 1 of the Communications Act [2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-3252fb04b1d4e719f4efe58fee2a830f]: Commencement: Sch. 2 para. 1 in force at 31.3.2014, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2014/631/article/1/5)
+[^c-3252fb04b1d4e719f4efe58fee2a830f]: Commencement: Sch. 2 para. 1 in force at 31.3.2014, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2014/631/article/1/5)
 
 [^f00130]: Footnote: References in the 1979 Act to the Office of Fair Trading were substituted for references to the Director General of Fair Trading by paragraph 9 of Schedule 25 to the 2002 Act.
 
@@ -2223,11 +2223,11 @@ A full regulatory impact assessment of the effect that this Order will have on t
 
 [^f00140]: Footnote: Schedule 4 was inserted by paragraph 4 of Schedule 6 to the 2007 Act.
 
-[^key-503f52f82bc267f49b106ccbd38a8be4]: Commencement: Sch. 2 para. 2 in force at 31.3.2014, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2014/631/article/1/5)
+[^c-503f52f82bc267f49b106ccbd38a8be4]: Commencement: Sch. 2 para. 2 in force at 31.3.2014, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2014/631/article/1/5)
 
 [^f00141]: Footnote: [1985 c. 6](https://www.legislation.gov.uk/ukpga/1985/6); Schedule 15D was inserted by paragraph 25 of Part 3 of Schedule 2 to the Companies (Audit, Investigations and Community Enterprise) Act [2004 (c. 27)](https://www.legislation.gov.uk/ukpga/2004/27).
 
-[^key-b7dc2e8047f5597e6ed3d3ce64b80056]: Commencement: Sch. 2 para. 3 in force at 31.3.2014, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2014/631/article/1/5)
+[^c-b7dc2e8047f5597e6ed3d3ce64b80056]: Commencement: Sch. 2 para. 3 in force at 31.3.2014, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2014/631/article/1/5)
 
 [^f00142]: Footnote: [1992 c. 53](https://www.legislation.gov.uk/ukpga/1992/53).
 
@@ -2235,9 +2235,9 @@ A full regulatory impact assessment of the effect that this Order will have on t
 
 [^f00144]: Footnote: The entry for Fair Trading in paragraph 17 was revoked by paragraph 4 of Part 1 of Schedule 1 to [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881), which was commenced on 26 July 2013 for the purposes in Article 1(2) of that Order, coming fully into force on 1st April 2014.
 
-[^key-d576a2977c19a605723930a5e6d7907c]: Commencement: Sch. 2 para. 4 in force at 31.3.2014, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2014/631/article/1/5)
+[^c-d576a2977c19a605723930a5e6d7907c]: Commencement: Sch. 2 para. 4 in force at 31.3.2014, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2014/631/article/1/5)
 
-[^key-0fca3725098195c0415fbf10ce279a85]: Commencement: Sch. 2 para. 5 in force at 31.3.2014, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2014/631/article/1/5)
+[^c-0fca3725098195c0415fbf10ce279a85]: Commencement: Sch. 2 para. 5 in force at 31.3.2014, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2014/631/article/1/5)
 
 [^f00145]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
 
@@ -2245,60 +2245,60 @@ A full regulatory impact assessment of the effect that this Order will have on t
 
 [^f00147]: Footnote: Schedule 11A was inserted by paragraph 1 of Schedule 1 to [S.I. 2007/3494](https://www.legislation.gov.uk/uksi/2007/3494).
 
-[^key-0cb741c9da6e0c820529f2ec66839024]: Commencement: Sch. 2 para. 6 in force at 1.4.2014, see [art. 1(6)](https://www.legislation.gov.uk/uksi/2014/631/article/1/6)
+[^c-0cb741c9da6e0c820529f2ec66839024]: Commencement: Sch. 2 para. 6 in force at 1.4.2014, see [art. 1(6)](https://www.legislation.gov.uk/uksi/2014/631/article/1/6)
 
-[^key-dd0f1fa5aaccf13780c3f523f296b768]: Commencement: Sch. 2 para. 7 in force at 31.3.2014, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2014/631/article/1/5)
+[^c-dd0f1fa5aaccf13780c3f523f296b768]: Commencement: Sch. 2 para. 7 in force at 31.3.2014, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2014/631/article/1/5)
 
 [^f00148]: Footnote: [2006 asp 1](https://www.legislation.gov.uk/asp/2006/1).
 
-[^key-0c354e03fa8e2b72585af79664a398ee]: Commencement: Sch. 2 para. 8 in force at 31.3.2014, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2014/631/article/1/5)
+[^c-0c354e03fa8e2b72585af79664a398ee]: Commencement: Sch. 2 para. 8 in force at 31.3.2014, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2014/631/article/1/5)
 
 [^f00149]: Footnote: [S.I. 1981/1519](https://www.legislation.gov.uk/uksi/1981/1519).
 
-[^key-012cf63ca5a8ab843154f7ffb9cfdc11]: Commencement: Sch. 2 para. 9 in force at 31.3.2014, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2014/631/article/1/5)
+[^c-012cf63ca5a8ab843154f7ffb9cfdc11]: Commencement: Sch. 2 para. 9 in force at 31.3.2014, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2014/631/article/1/5)
 
 [^f00150]: Footnote: [S.I. 2003/419](https://www.legislation.gov.uk/uksi/2003/419), to which there are amendments not relevant to this Order.
 
-[^key-d83c27b155625eac7bb9e8be47079e8d]: Commencement: Sch. 2 para. 10 in force at 31.3.2014, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2014/631/article/1/5)
+[^c-d83c27b155625eac7bb9e8be47079e8d]: Commencement: Sch. 2 para. 10 in force at 31.3.2014, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2014/631/article/1/5)
 
 [^f00151]: Footnote: [S.I. 2006/3336](https://www.legislation.gov.uk/uksi/2006/3336), to which there are amendments not relevant to this Order.
 
-[^key-a0bcbfff3a45660078b6f87f75f537b9]: Commencement: Sch. 2 para. 11 in force at 31.3.2014, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2014/631/article/1/5)
+[^c-a0bcbfff3a45660078b6f87f75f537b9]: Commencement: Sch. 2 para. 11 in force at 31.3.2014, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2014/631/article/1/5)
 
 [^f00152]: Footnote: [S.I. 2009/214](https://www.legislation.gov.uk/uksi/2009/214), the entry for the Scottish Housing Regulator was inserted by paragraph 20 of Part 2 of Schedule 1 to [S.I. 2012/700](https://www.legislation.gov.uk/uksi/2012/700); there are other amending instruments, but none are relevant.
 
-[^key-442ae04cd03f54a8710290a46cccad89]: Commencement: Sch. 2 para. 12 in force at 31.3.2014, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2014/631/article/1/5)
+[^c-442ae04cd03f54a8710290a46cccad89]: Commencement: Sch. 2 para. 12 in force at 31.3.2014, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2014/631/article/1/5)
 
 [^f00153]: Footnote: [S.I. 2009/1801](https://www.legislation.gov.uk/uksi/2009/1801), the entry for the Scottish Housing Regulator was inserted by paragraph 21 of Part 2 of Schedule 1 to [S.I. 2012/700](https://www.legislation.gov.uk/uksi/2012/700); there are other amending instruments, but none are relevant.
 
-[^key-c64bdce927cd740818fba09bc22b23a5]: Commencement: Sch. 2 para. 13 in force at 31.3.2014, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2014/631/article/1/5)
+[^c-c64bdce927cd740818fba09bc22b23a5]: Commencement: Sch. 2 para. 13 in force at 31.3.2014, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2014/631/article/1/5)
 
-[^key-50e94372f89f6c322fbde94c64427b3c]: Commencement: Sch. 2 para. 14 in force at 31.3.2014, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2014/631/article/1/5)
+[^c-50e94372f89f6c322fbde94c64427b3c]: Commencement: Sch. 2 para. 14 in force at 31.3.2014, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2014/631/article/1/5)
 
-[^key-2ad64f3b9159ed9ce027ce3e0d3a2df8]: Commencement: Sch. 2 para. 15 in force at 31.3.2014, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2014/631/article/1/5)
+[^c-2ad64f3b9159ed9ce027ce3e0d3a2df8]: Commencement: Sch. 2 para. 15 in force at 31.3.2014, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2014/631/article/1/5)
 
-[^key-94d1ad5a330f0849d55b04093b8ff9ea]: Commencement: Sch. 2 para. 16 in force at 14.3.2014, see [art. 1(7)](https://www.legislation.gov.uk/uksi/2014/631/article/1/7)
+[^c-94d1ad5a330f0849d55b04093b8ff9ea]: Commencement: Sch. 2 para. 16 in force at 14.3.2014, see [art. 1(7)](https://www.legislation.gov.uk/uksi/2014/631/article/1/7)
 
-[^key-2b66bb4edcc65823729dc7673af29750]: Commencement: Sch. 3 para. 1 in force at 31.3.2014, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2014/631/article/1/5)
+[^c-2b66bb4edcc65823729dc7673af29750]: Commencement: Sch. 3 para. 1 in force at 31.3.2014, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2014/631/article/1/5)
 
 [^f00154]: Footnote: [S.I. 1999/401](https://www.legislation.gov.uk/uksi/1999/401), the Schedule was substituted by paragraph 1 of Schedule 1 to [S.I. 2012/283](https://www.legislation.gov.uk/uksi/2012/283); there are other amending instruments but none are relevant.
 
-[^key-67243e4ee4a267a09683593623510ac5]: Commencement: Sch. 3 para. 2 in force at 31.3.2014, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2014/631/article/1/5)
+[^c-67243e4ee4a267a09683593623510ac5]: Commencement: Sch. 3 para. 2 in force at 31.3.2014, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2014/631/article/1/5)
 
 [^f00155]: Footnote: Regulation 23(1)(b) was revoked by paragraph 31(5)(a)(ii) of Part 2 of Schedule to [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881), which was commenced on 26 July 2013 for the purposes in Article 1(2) of that Order, coming fully into force on 1st April 2014; Regulations 23(1)(d)(v) and (vi) were inserted by paragraph 6(d) of Part 2 of Schedule 6 to [S.I. 2009/209](https://www.legislation.gov.uk/uksi/2009/209); there are other amending instruments, but none are relevant.
 
 [^f00156]: Footnote: Regulation 32(3)(b) was revoked by paragraph 31(6) of Part 2 of Schedule to [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881), which was commenced on 26 July 2013 for the purposes in Article 1(2) of that Order, coming fully into force on 1st April 2014.
 
-[^key-826d2345a385326cf2695f99d6a15b93]: Commencement: Sch. 3 para. 3 in force at 31.3.2014, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2014/631/article/1/5)
+[^c-826d2345a385326cf2695f99d6a15b93]: Commencement: Sch. 3 para. 3 in force at 31.3.2014, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2014/631/article/1/5)
 
 [^f00157]: Footnote: [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881) was commenced on 26th July 2013 for the purposes in Article 1(2) of that Order, coming fully into force on 1st April 2014.
 
-[^key-890b8887ca846f6c18f8999360f05e47]: Commencement: Sch. 3 para. 4 in force at 31.3.2014, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2014/631/article/1/5)
+[^c-890b8887ca846f6c18f8999360f05e47]: Commencement: Sch. 3 para. 4 in force at 31.3.2014, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2014/631/article/1/5)
 
-[^key-ba943948bfe955a1d2fb50ab6bfb74bc]: Commencement: Sch. 3 para. 5 in force at 31.3.2014, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2014/631/article/1/5)
+[^c-ba943948bfe955a1d2fb50ab6bfb74bc]: Commencement: Sch. 3 para. 5 in force at 31.3.2014, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2014/631/article/1/5)
 
-[^key-5c602f44a277fa910bb583b4684604f4]: Commencement: Sch. 3 para. 6 in force at 31.3.2014, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2014/631/article/1/5)
+[^c-5c602f44a277fa910bb583b4684604f4]: Commencement: Sch. 3 para. 6 in force at 31.3.2014, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2014/631/article/1/5)
 
 [^f00158]: Footnote: [S.I. 2009/1976](https://www.legislation.gov.uk/uksi/2009/1976), rule 1(2) was substituted by rule 2(2) of [S.I. 2010/2653](https://www.legislation.gov.uk/uksi/2010/2653); the definition of “General Regulatory Chamber” was repealed by rule 2(2) of [S.I. 2011/651](https://www.legislation.gov.uk/uksi/2011/651); rule 22(1)(a) was substituted by rule 27(a) of [S.I. 2010/43](https://www.legislation.gov.uk/uksi/2010/43); there are other amending instruments but none are relevant.
 
-[^key-11a20616b0781b930fb682ebb897e218]: Commencement: Sch. 3 para. 7 in force at 31.3.2014, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2014/631/article/1/5)
+[^c-11a20616b0781b930fb682ebb897e218]: Commencement: Sch. 3 para. 7 in force at 31.3.2014, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2014/631/article/1/5)

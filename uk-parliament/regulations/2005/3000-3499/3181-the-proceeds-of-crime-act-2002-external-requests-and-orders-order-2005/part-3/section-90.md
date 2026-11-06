@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90. Value of tainted gifts[^key-1a825a3913ea3ed38b63a725414f5819]
+## 90. Value of tainted gifts[^c-1a825a3913ea3ed38b63a725414f5819]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1a825a3913ea3ed38b63a725414f5819]: Commencement: [Art. 90](https://www.legislation.gov.uk/uksi/2005/3181/article/90) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-1a825a3913ea3ed38b63a725414f5819]: Commencement: [Art. 90](https://www.legislation.gov.uk/uksi/2005/3181/article/90) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

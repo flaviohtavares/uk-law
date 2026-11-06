@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50.21. Respondent’s notice[^key-d983ad48c6c1b7cee7fb1b9451b1f867]
+## 50.21. Respondent’s notice[^c-d983ad48c6c1b7cee7fb1b9451b1f867]
 
 *Extent: E+W*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d983ad48c6c1b7cee7fb1b9451b1f867]: Commencement: [Rule 50.21](https://www.legislation.gov.uk/uksi/2025/909/rule/50.21) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-d983ad48c6c1b7cee7fb1b9451b1f867]: Commencement: [Rule 50.21](https://www.legislation.gov.uk/uksi/2025/909/rule/50.21) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

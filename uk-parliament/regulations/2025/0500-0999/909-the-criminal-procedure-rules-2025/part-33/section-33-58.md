@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33.58. Statements, etc. relevant to making confiscation orders[^key-8599a0df52412f5358ddbc61b39132fe]
+## 33.58. Statements, etc. relevant to making confiscation orders[^c-8599a0df52412f5358ddbc61b39132fe]
 
 *Extent: E+W*
 
@@ -40,7 +40,7 @@ that party must serve a copy as soon as practicable on the defendant or the pros
 
 ## Annotations
 
-[^key-8599a0df52412f5358ddbc61b39132fe]: Commencement: [Rule 33.58](https://www.legislation.gov.uk/uksi/2025/909/rule/33.58) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-8599a0df52412f5358ddbc61b39132fe]: Commencement: [Rule 33.58](https://www.legislation.gov.uk/uksi/2025/909/rule/33.58) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00849]: Footnote: [1988 c. 33](https://www.legislation.gov.uk/ukpga/1988/33); section 73 and Schedule 4 were repealed, with savings, by paragraphs 1 and 17 of Schedule 11 and Schedule 12 to the Proceeds of Crime Act [2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29).
 

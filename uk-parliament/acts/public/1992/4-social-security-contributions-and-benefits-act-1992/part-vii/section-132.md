@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 132. Couples.[^key-67b23406b28006f5c07c2e1260fcd11e]
+## 132. Couples.[^c-67b23406b28006f5c07c2e1260fcd11e]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-67b23406b28006f5c07c2e1260fcd11e]: Textual amendment: Ss. 123-137 repealed (1.4.2013 in relation to council tax benefit) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3), [Sch. 14 Pt. 1](https://www.legislation.gov.uk/ukpga/2012/5/schedule/14/part/1); [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 8(c)](https://www.legislation.gov.uk/uksi/2013/358/article/8/c), [Sch. 4](https://www.legislation.gov.uk/uksi/2013/358/schedule/4) (with [arts. 9](https://www.legislation.gov.uk/uksi/2013/358/article/9), [10](https://www.legislation.gov.uk/uksi/2013/358/article/10), [Sch. 5](https://www.legislation.gov.uk/uksi/2013/358/schedule/5))
+[^c-67b23406b28006f5c07c2e1260fcd11e]: Textual amendment: Ss. 123-137 repealed (1.4.2013 in relation to council tax benefit) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3), [Sch. 14 Pt. 1](https://www.legislation.gov.uk/ukpga/2012/5/schedule/14/part/1); [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 8(c)](https://www.legislation.gov.uk/uksi/2013/358/article/8/c), [Sch. 4](https://www.legislation.gov.uk/uksi/2013/358/schedule/4) (with [arts. 9](https://www.legislation.gov.uk/uksi/2013/358/article/9), [10](https://www.legislation.gov.uk/uksi/2013/358/article/10), [Sch. 5](https://www.legislation.gov.uk/uksi/2013/358/schedule/5))

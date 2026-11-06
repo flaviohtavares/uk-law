@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 101. Statutory nuisance: insects[^key-2ed5a13011f9d277f33674d15866bfe9][^key-593c35ea9937c240dc1d0a7b40307112][^key-aabeefcf095f8f11b94a247bc559999d]
+## 101. Statutory nuisance: insects[^c-2ed5a13011f9d277f33674d15866bfe9][^c-593c35ea9937c240dc1d0a7b40307112][^c-aabeefcf095f8f11b94a247bc559999d]
 
 *Extent: E+W*
 
@@ -67,8 +67,8 @@ summary: ''
 
 ## Annotations
 
-[^key-2ed5a13011f9d277f33674d15866bfe9]: Commencement: [S. 101](https://www.legislation.gov.uk/ukpga/2005/16/section/101) in force at 16.3.2006 for specified purposes for W. by [S.I. 2006/768](https://www.legislation.gov.uk/wsi/2006/768), [art. 3](https://www.legislation.gov.uk/wsi/2006/768/article/3)
+[^c-2ed5a13011f9d277f33674d15866bfe9]: Commencement: [S. 101](https://www.legislation.gov.uk/ukpga/2005/16/section/101) in force at 16.3.2006 for specified purposes for W. by [S.I. 2006/768](https://www.legislation.gov.uk/wsi/2006/768), [art. 3](https://www.legislation.gov.uk/wsi/2006/768/article/3)
 
-[^key-593c35ea9937c240dc1d0a7b40307112]: Commencement: [S. 101](https://www.legislation.gov.uk/ukpga/2005/16/section/101) in force at 6.4.2006 for E. by [S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/795/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/795/schedule/2)
+[^c-593c35ea9937c240dc1d0a7b40307112]: Commencement: [S. 101](https://www.legislation.gov.uk/ukpga/2005/16/section/101) in force at 6.4.2006 for E. by [S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/795/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/795/schedule/2)
 
-[^key-aabeefcf095f8f11b94a247bc559999d]: Commencement: [S. 101](https://www.legislation.gov.uk/ukpga/2005/16/section/101) in force at 31.1.2007 (being the date on which S.I. 2007/117 came into force) for W. by [S.I. 2006/2797](https://www.legislation.gov.uk/wsi/2006/2797), [art. 6(a)](https://www.legislation.gov.uk/wsi/2006/2797/article/6/a) (as amended by S.I. 2007/120, art. 3(c)(d))
+[^c-aabeefcf095f8f11b94a247bc559999d]: Commencement: [S. 101](https://www.legislation.gov.uk/ukpga/2005/16/section/101) in force at 31.1.2007 (being the date on which S.I. 2007/117 came into force) for W. by [S.I. 2006/2797](https://www.legislation.gov.uk/wsi/2006/2797), [art. 6(a)](https://www.legislation.gov.uk/wsi/2006/2797/article/6/a) (as amended by S.I. 2007/120, art. 3(c)(d))

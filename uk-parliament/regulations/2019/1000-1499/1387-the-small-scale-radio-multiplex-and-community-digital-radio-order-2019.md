@@ -46,11 +46,11 @@ The Secretary of State considers that the provision of services of the descripti
 
 In accordance with sections 258A(8) and 262(5) of that Act a draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament.
 
-## 1. Citation and commencement[^key-e269b6047f609c1eef58bd48f07b5d3b]
+## 1. Citation and commencement[^c-e269b6047f609c1eef58bd48f07b5d3b]
 
 This Order may be cited as the Small-scale Radio Multiplex and Community Digital Radio Order 2019 and comes into force on the day after the day on which it is made.
 
-## 2. Interpretation[^key-73fa0a6a50f94b331207f081f6a83d97]
+## 2. Interpretation[^c-73fa0a6a50f94b331207f081f6a83d97]
 
 (1) In this Order—
 
@@ -60,7 +60,7 @@ This Order may be cited as the Small-scale Radio Multiplex and Community Digital
   - (b) persons who, in a particular area or locality, have one or more interests or characteristics in common;
 - “community digital sound programme licence” means a licence to provide a community digital sound programme service;
 - “community digital sound programme service” means a digital sound programme service having the description set out in article 4;
-- “community radio service” has the meaning given in article 2(1) of the Community Radio Order 2025[^key-b4ae96cbb1b1ce7b2deefa73bba97116];
+- “community radio service” has the meaning given in article 2(1) of the Community Radio Order 2025[^c-b4ae96cbb1b1ce7b2deefa73bba97116];
 - “local radio multiplex licence” and “local radio multiplex service” each has the same meaning as in Part 2 of the 1996 Act[^f00003] (see sections 40 and 72 of that Act);
 - “small-scale radio multiplex service” means a radio multiplex service that is provided for a particular area or locality in the United Kingdom and is of the description specified by article 3;
 - “social enterprise” means a business which has as its primary objective the support of one or more projects of a social nature (rather than the production of a financial profit);
@@ -88,7 +88,7 @@ and may also include the achievement of other objectives of a social nature and,
 
 (5) In this Order, any reference to an area overlapping with another includes reference to it lying wholly inside the other area.
 
-## 3. Description of small-scale radio multiplex services[^key-90151a10ff66601b2dacd1cb47bf4d56]
+## 3. Description of small-scale radio multiplex services[^c-90151a10ff66601b2dacd1cb47bf4d56]
 
 A small-scale radio multiplex service is a radio multiplex service that is provided for a particular area or locality in the United Kingdom and is of the following description—
 
@@ -97,7 +97,7 @@ A small-scale radio multiplex service is a radio multiplex service that is provi
   - (i) where the area or locality for which the service is provided overlaps with the coverage area of a local radio multiplex service, the size of the overlapping area is smaller than the size of the coverage area of that local radio multiplex service, or
   - (ii) where the area or locality for which the service is provided does not overlap with the coverage area of a local radio multiplex service, the size of that area or locality is not larger than 7,500 square kilometres.
 
-## 4. Description of a community digital sound programme service[^key-c590d33642b93eeb7fdcc4fc645ffadb]
+## 4. Description of a community digital sound programme service[^c-c590d33642b93eeb7fdcc4fc645ffadb]
 
 (1) A community digital sound programme service is a digital sound programme service of the following description—
 
@@ -123,7 +123,7 @@ rather than primarily for commercial reasons or for the financial or other mater
 
 (6) It is a characteristic of a community digital sound programme service that, in respect of the provision of that service, the person providing the service makes themselves accountable to the community that the service is intended to service.
 
-## 5. Disqualified persons[^key-1424b155728cd0665f51e90c82c0da49]
+## 5. Disqualified persons[^c-1424b155728cd0665f51e90c82c0da49]
 
 (1) Part 2 of Schedule 2 to the 1990 Act[^f00004] (disqualification for holding licences) has effect in relation to community digital sound programme licences as if the persons who are disqualified persons by virtue of that Part of that Schedule included, in relation to such licences, any person falling within paragraph (2).
 
@@ -161,14 +161,14 @@ rather than primarily for commercial reasons or for the financial or other mater
 - “local digital television programme service” has the meaning given in article 3 of the Local Digital Television Programme Services Order 2012[^f00005];
 - “restricted service” has the meaning given in section 245(4)(c) of the 2003 Act.
 
-## 6. Application of broadcasting legislation[^key-c83be257e2c3eeb67f5f412a6c09ab4b]
+## 6. Application of broadcasting legislation[^c-c83be257e2c3eeb67f5f412a6c09ab4b]
 
 Part 2 of the 1996 Act (digital terrestrial sound broadcasting) has effect—
 
 - (a) in relation to a small-scale radio multiplex service with the modifications set out in Parts 1 and 3 of the Schedule;
 - (b) in relation to a community digital sound programme service with the modifications set out in Parts 2 and 3 of the Schedule.
 
-## 7. Amendment of the Community Radio Order 2004[^key-2376cf35251eaacb5f1cf2e1211b3180][^key-b8dc53e69ef64483c94fad1399261265]
+## 7. Amendment of the Community Radio Order 2004[^c-2376cf35251eaacb5f1cf2e1211b3180][^c-b8dc53e69ef64483c94fad1399261265]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -186,15 +186,15 @@ Article 6
 
 ### PART 1 — Modifications of Part 2 of the 1996 Act in relation to small-scale radio multiplex services
 
-**1.**[^key-181f24e31f8c385691127625d592f787] Part 2 of the 1996 Act has effect with the following modifications.
+**1.**[^c-181f24e31f8c385691127625d592f787] Part 2 of the 1996 Act has effect with the following modifications.
 
-**2.**[^key-0f44c417ef096629d393de868ac311fd] Section 40 (radio multiplex services) has effect as if in subsection (4), before paragraph (a) there were inserted—
+**2.**[^c-0f44c417ef096629d393de868ac311fd] Section 40 (radio multiplex services) has effect as if in subsection (4), before paragraph (a) there were inserted—
 
 > - (za) a small-scale radio multiplex service,
 
 .
 
-**3.**[^key-3bbddbf971dd31b52be86d332603e834] Section 44 (restrictions on holding of licences under Part 2) has effect as if—
+**3.**[^c-3bbddbf971dd31b52be86d332603e834] Section 44 (restrictions on holding of licences under Part 2) has effect as if—
 
 - (a) in subsection (1)—
   - (i) at the end of paragraph (a) “and” were omitted;
@@ -217,7 +217,7 @@ Article 6
     ;
 - (c) in subsection (8), in paragraph (c)[^f00008], after “the 1990 Act” there were inserted “or section 44A”.
 
-**4.**[^key-1dda106565678d593138cb26904b26be] Part 2 has effect as if after section 44 there were inserted—
+**4.**[^c-1dda106565678d593138cb26904b26be] Part 2 has effect as if after section 44 there were inserted—
 
 > **44A. Persons disqualified from holding small-scale radio multiplex licences**
 >
@@ -247,7 +247,7 @@ Article 6
 
 .
 
-**5.**[^key-0360086eebec9704b61821f832ee869c] Part 2 has effect as if after section 49 there were inserted—
+**5.**[^c-0360086eebec9704b61821f832ee869c] Part 2 has effect as if after section 49 there were inserted—
 
 > **49A. Reservation of digital capacity for community digital sound programme services**
 >
@@ -279,7 +279,7 @@ Article 6
 
 .
 
-**6.**[^key-fcdd63d0232cc488e793f3dadf10ab16] Section 50 (local radio multiplex licences) has effect as if—
+**6.**[^c-fcdd63d0232cc488e793f3dadf10ab16] Section 50 (local radio multiplex licences) has effect as if—
 
 - (a) in the heading, for “Local” there were substituted “Small-scale”;
 - (b) for subsection (1) there were substituted—
@@ -310,16 +310,16 @@ Article 6
 
   ;
 - (f) in subsection (4)—
-  - (i)[^key-67f343321f854d68f69f7c457386aea5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-67f343321f854d68f69f7c457386aea5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (ii) in paragraph (f), the words from “and his projected” to “in force” were omitted;
-- (g)[^key-d5c97aa2173d3b1c9bc97fa8fdd770a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^c-d5c97aa2173d3b1c9bc97fa8fdd770a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-a0b97041a73a548ed71963f69eb5af4b] Section 51 (award of local radio multiplex licences) has effect as if—
+**7.**[^c-a0b97041a73a548ed71963f69eb5af4b] Section 51 (award of local radio multiplex licences) has effect as if—
 
 - (a) in the heading, for “local” there were substituted “small-scale”;
 - (b) in subsection (1), for “local” there were substituted “small-scale”;
 - (c) in subsection (2)—
-  - (i) paragraphs (b) was[^key-d591f272037c6ed2991ee864bf792260] omitted;
+  - (i) paragraphs (b) was[^c-d591f272037c6ed2991ee864bf792260] omitted;
   - (ii) in paragraph (c), the words from “and to maintain” to the end were omitted;
   - (iii) after paragraph (c) there were inserted—
 
@@ -328,7 +328,7 @@ Article 6
     >   - (ii) has as a participant a person providing or proposing to provide a community digital sound programme service in that area or locality,
 
     ;
-  - (iv)[^key-a30f4b0ce69670a67adedb65868ddab7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iv)[^c-a30f4b0ce69670a67adedb65868ddab7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (v) in paragraph (g)[^f00013]—
     - (aa) after “providing” there were inserted “or proposing to provide community or local”;
     - (bb) “television licensable content services or digital additional services,” were omitted;
@@ -344,9 +344,9 @@ Article 6
 
   .
 
-**8.**[^key-b07604a5236ced411c7991d3ae9c528f] Part 2 has effect as if section 52 (power to require two or more local radio multiplex licences to be granted to one person) were omitted.
+**8.**[^c-b07604a5236ced411c7991d3ae9c528f] Part 2 has effect as if section 52 (power to require two or more local radio multiplex licences to be granted to one person) were omitted.
 
-**9.**[^key-84433ebd93b0831c8c8848b783d38154] Section 53 (failure to begin providing licensed service and financial penalties on revocation of licence) has effect as if—
+**9.**[^c-84433ebd93b0831c8c8848b783d38154] Section 53 (failure to begin providing licensed service and financial penalties on revocation of licence) has effect as if—
 
 - (a) in subsection (1), after paragraph (a) there were inserted—
 
@@ -361,7 +361,7 @@ Article 6
 
     .
 
-**10.**[^key-e11b9b5a235ac0a319f27c20d71089f4] Section 54 (conditions attached to national or local radio multiplex licence) has effect as if—
+**10.**[^c-e11b9b5a235ac0a319f27c20d71089f4] Section 54 (conditions attached to national or local radio multiplex licence) has effect as if—
 
 - (a) in the heading, after “local” there were inserted “or small-scale”;
 - (b) in subsection (1)—
@@ -371,10 +371,10 @@ Article 6
     > - (iii) in the case of a small-scale radio multiplex licence, by the BBC or the holder of a local or community digital sound programme licence under that section.
 
     ;
-  - (iii) in paragraph (g), for “high” there were substituted “reasonable” [^key-462540aa5f06d5691cd6d75d065e7e4e]...
-  - (iv)[^key-0b223bee0ce4a6e4d8f8a527fc9d585d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii) in paragraph (g), for “high” there were substituted “reasonable” [^c-462540aa5f06d5691cd6d75d065e7e4e]...
+  - (iv)[^c-0b223bee0ce4a6e4d8f8a527fc9d585d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-7853cc5d50cf5fbebfb104cd730bbb4c] Section 54A (variation of radio multiplex licences: frequency or licensed area)[^f00015] has effect as if—
+**11.**[^c-7853cc5d50cf5fbebfb104cd730bbb4c] Section 54A (variation of radio multiplex licences: frequency or licensed area)[^f00015] has effect as if—
 
 - (a) in subsection (2)—
   - (i) for “(6)” there were substituted “(7)”;
@@ -385,7 +385,7 @@ Article 6
 
   .
 
-**12.**[^key-0b8b1b38ad52f81094f0f0ca108b7cc9] Section 58 (duration and renewal of national or local radio multiplex licences) has effect as if—
+**12.**[^c-0b8b1b38ad52f81094f0f0ca108b7cc9] Section 58 (duration and renewal of national or local radio multiplex licences) has effect as if—
 
 - (a) in the heading, for “national or local” there were substituted “small-scale”;
 - (b) in subsection (1)—
@@ -403,7 +403,7 @@ Article 6
   ;
 - (e) in subsection (4)—
   - (i) in paragraph (a)(i), “46(4)(b) or” were omitted;
-  - (ii)[^key-c596c3c6027ac40a63f792967b58f2bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^c-c596c3c6027ac40a63f792967b58f2bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (iii) in paragraph (b), “46(4)(b)(i) and (ii) or” were omitted;
   - (iv) at the end of paragraph (b) there were inserted “, and” and after that paragraph there were inserted—
 
@@ -416,7 +416,7 @@ Article 6
 - (i) subsections (12) and (12A)[^f00016] were omitted;
 - (j) in subsection (13), before “radio” there were inserted “small-scale” and “46(1) or” were omitted.
 
-**13.**[^key-387164f7d95f6049ed15467d95186881] Section 59 (enforcement of national or local radio multiplex licences) has effect as if—
+**13.**[^c-387164f7d95f6049ed15467d95186881] Section 59 (enforcement of national or local radio multiplex licences) has effect as if—
 
 - (a) in the heading, after “local” there were inserted “or small-scale”;
 - (b) after subsection (4) there were inserted—
@@ -425,13 +425,13 @@ Article 6
 
   .
 
-**14.**[^key-930851838c51fa4b1283b21dba02c559] Section 60 (licensing of digital sound programme services) has effect as if in subsection (1), in paragraph (b), after “of a local” there were inserted “or small-scale”.
+**14.**[^c-930851838c51fa4b1283b21dba02c559] Section 60 (licensing of digital sound programme services) has effect as if in subsection (1), in paragraph (b), after “of a local” there were inserted “or small-scale”.
 
 ### PART 2 — Modifications of Part 2 of the 1996 Act in relation to community digital sound programme services
 
-**15.**[^key-ab3b624a3ceb1b6efffdaf8b2f5ed205] Part 2 of the 1996 Act has effect with the following modifications.
+**15.**[^c-ab3b624a3ceb1b6efffdaf8b2f5ed205] Part 2 of the 1996 Act has effect with the following modifications.
 
-**16.**[^key-c8f7b5a7353396c49ec4e8460844b29f] Section 60 (licensing of digital sound programme services) has effect as if—
+**16.**[^c-c8f7b5a7353396c49ec4e8460844b29f] Section 60 (licensing of digital sound programme services) has effect as if—
 
 - (a) in subsection (1), at the end of paragraph (b) there were inserted “, and” and after that paragraph there were inserted—
 
@@ -458,7 +458,7 @@ Article 6
 
   .
 
-**17.**[^key-401657f6b6e13dbf367312e465d4b7bc] Section 61 (duration and conditions of digital sound programme licence) has effect as if—
+**17.**[^c-401657f6b6e13dbf367312e465d4b7bc] Section 61 (duration and conditions of digital sound programme licence) has effect as if—
 
 - (a) in the heading, after “conditions of” there were inserted “community”;
 - (b) in subsection (1), before “digital” there were inserted “community”;
@@ -482,9 +482,9 @@ Article 6
 
   .
 
-**18.**[^key-818411c31e6bb83bf2d450741ad56a20] Part 2 has effect as if after section 61 there were inserted—
+**18.**[^c-818411c31e6bb83bf2d450741ad56a20] Part 2 has effect as if after section 61 there were inserted—
 
-> **61A. Advertising restrictions for community digital sound programme services[^key-929a4790b38543488ca970ef2f20ad09]**
+> **61A. Advertising restrictions for community digital sound programme services[^c-929a4790b38543488ca970ef2f20ad09]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
@@ -504,7 +504,7 @@ Article 6
 
 .
 
-**19.**[^key-68103384ccc110f4c414c57b062d661d] Section 62 (enforcement of digital sound programme licences) has effect as if after subsection (6) there were inserted—
+**19.**[^c-68103384ccc110f4c414c57b062d661d] Section 62 (enforcement of digital sound programme licences) has effect as if after subsection (6) there were inserted—
 
 > (6A) The amount of any financial penalty imposed in pursuance of subsection (1)(a) on the holder of a community digital sound programme licence must not exceed £100,000.
 
@@ -512,11 +512,11 @@ Article 6
 
 ### PART 3 — Modifications of Part 2 of the 1996 Act in relation to community digital sound programme services and small-scale radio multiplex services
 
-**20.**[^key-319d7a096e9e9aa769175dc1ae6d0243] Part 2 of the 1996 Act has effect with the following modifications.
+**20.**[^c-319d7a096e9e9aa769175dc1ae6d0243] Part 2 of the 1996 Act has effect with the following modifications.
 
-**21.**[^key-4037e30673d41c335e02840c58571531] Section 72 (interpretation of Part 2) has effect as if the following definitions were inserted in the appropriate places—
+**21.**[^c-4037e30673d41c335e02840c58571531] Section 72 (interpretation of Part 2) has effect as if the following definitions were inserted in the appropriate places—
 
-> - [^key-2b53551fb1527015aa188f2fec2ce748]...
+> - [^c-2b53551fb1527015aa188f2fec2ce748]...
 > - “2019 Order” means the Small-scale Radio Multiplex and Community Digital Radio Order 2019[^f00019];
 > - “Broadcasting Act licence” has the meaning given in paragraph 1 of Schedule 2 to the 1990 Act[^f00020];
 > - “community” has the meaning given in article 2(1) of the 2019 Order;
@@ -547,107 +547,107 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00001]: Footnote: [2003 c.21](https://www.legislation.gov.uk/ukpga/2003/21). Section 258A was inserted by the Broadcasting (Radio Multiplex Services) Act [2017 (c.12)](https://www.legislation.gov.uk/ukpga/2017/12).
 
-[^key-e269b6047f609c1eef58bd48f07b5d3b]: Commencement: Art. 1 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1387/article/1)
+[^c-e269b6047f609c1eef58bd48f07b5d3b]: Commencement: Art. 1 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1387/article/1)
 
-[^key-73fa0a6a50f94b331207f081f6a83d97]: Commencement: Art. 2 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1387/article/1)
+[^c-73fa0a6a50f94b331207f081f6a83d97]: Commencement: Art. 2 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1387/article/1)
 
-[^key-b4ae96cbb1b1ce7b2deefa73bba97116]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2019/1387/article/2/1) substituted (1.4.2025) by [The Community Radio Order 2025 (S.I. 2025/160)](https://www.legislation.gov.uk/uksi/2025/160), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/160/article/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2025/160/article/9/2)
+[^c-b4ae96cbb1b1ce7b2deefa73bba97116]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2019/1387/article/2/1) substituted (1.4.2025) by [The Community Radio Order 2025 (S.I. 2025/160)](https://www.legislation.gov.uk/uksi/2025/160), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/160/article/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2025/160/article/9/2)
 
 [^f00003]: Footnote: Section 405(1) of the 2003 Act defines “the 1996 Act” as meaning the Broadcasting Act [1996 (c.55)](https://www.legislation.gov.uk/ukpga/1996/55).
 
-[^key-90151a10ff66601b2dacd1cb47bf4d56]: Commencement: Art. 3 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1387/article/1)
+[^c-90151a10ff66601b2dacd1cb47bf4d56]: Commencement: Art. 3 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1387/article/1)
 
-[^key-c590d33642b93eeb7fdcc4fc645ffadb]: Commencement: Art. 4 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1387/article/1)
+[^c-c590d33642b93eeb7fdcc4fc645ffadb]: Commencement: Art. 4 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1387/article/1)
 
-[^key-1424b155728cd0665f51e90c82c0da49]: Commencement: Art. 5 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1387/article/1)
+[^c-1424b155728cd0665f51e90c82c0da49]: Commencement: Art. 5 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1387/article/1)
 
 [^f00004]: Footnote: Section 405(1) of the 2003 Act defines “the 1990 Act” as meaning the Broadcasting Act [1990 (c.42)](https://www.legislation.gov.uk/ukpga/1990/42). Part 2 of Schedule 2 to the 1990 Act was amended by sections 73 and 148 of, and Schedules 2 and 11 to, the 1996 Act and by sections 348, 349, 360(3) and 406(7) of, and Schedules 15 and 19 to, the 2003 Act.
 
 [^f00005]: Footnote: [S.I. 2012/292](https://www.legislation.gov.uk/uksi/2012/292), to which there are amendments not relevant to this Order.
 
-[^key-c83be257e2c3eeb67f5f412a6c09ab4b]: Commencement: Art. 6 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1387/article/1)
+[^c-c83be257e2c3eeb67f5f412a6c09ab4b]: Commencement: Art. 6 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1387/article/1)
 
-[^key-2376cf35251eaacb5f1cf2e1211b3180]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/uksi/2019/1387/article/7) omitted (1.4.2025) by virtue of [The Community Radio Order 2025 (S.I. 2025/160)](https://www.legislation.gov.uk/uksi/2025/160), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/160/article/1/2), [9(3)](https://www.legislation.gov.uk/uksi/2025/160/article/9/3)
+[^c-2376cf35251eaacb5f1cf2e1211b3180]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/uksi/2019/1387/article/7) omitted (1.4.2025) by virtue of [The Community Radio Order 2025 (S.I. 2025/160)](https://www.legislation.gov.uk/uksi/2025/160), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/160/article/1/2), [9(3)](https://www.legislation.gov.uk/uksi/2025/160/article/9/3)
 
-[^key-b8dc53e69ef64483c94fad1399261265]: Commencement: Art. 7 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1387/article/1)
+[^c-b8dc53e69ef64483c94fad1399261265]: Commencement: Art. 7 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1387/article/1)
 
-[^key-181f24e31f8c385691127625d592f787]: Commencement: Sch. para. 1 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1387/article/1)
+[^c-181f24e31f8c385691127625d592f787]: Commencement: Sch. para. 1 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1387/article/1)
 
-[^key-0f44c417ef096629d393de868ac311fd]: Commencement: Sch. para. 2 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1387/article/1)
+[^c-0f44c417ef096629d393de868ac311fd]: Commencement: Sch. para. 2 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1387/article/1)
 
-[^key-3bbddbf971dd31b52be86d332603e834]: Commencement: Sch. para. 3 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1387/article/1)
+[^c-3bbddbf971dd31b52be86d332603e834]: Commencement: Sch. para. 3 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1387/article/1)
 
 [^f00007]: Footnote: Paragraph (db) was inserted by section 360(3) of, and paragraph 104 of Schedule 15 to, the 2003 Act.
 
 [^f00008]: Footnote: Paragraph (c) was amended by section 360(3) of, and paragraph 105 of Schedule 15 to, the 2003 Act.
 
-[^key-1dda106565678d593138cb26904b26be]: Commencement: Sch. para. 4 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1387/article/1)
+[^c-1dda106565678d593138cb26904b26be]: Commencement: Sch. para. 4 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1387/article/1)
 
 [^f00009]: Footnote: See paragraph 3 of Part 1 of Schedule 2. This paragraph was substituted by section 73 of, and paragraph 3 of Schedule 2 to, the 1996 Act.
 
 [^f00010]: Footnote: See paragraph 1(1) of Part 1 of Schedule 2.
 
-[^key-0360086eebec9704b61821f832ee869c]: Commencement: Sch. para. 5 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1387/article/1)
+[^c-0360086eebec9704b61821f832ee869c]: Commencement: Sch. para. 5 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1387/article/1)
 
-[^key-fcdd63d0232cc488e793f3dadf10ab16]: Commencement: Sch. para. 6 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1387/article/1)
+[^c-fcdd63d0232cc488e793f3dadf10ab16]: Commencement: Sch. para. 6 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1387/article/1)
 
-[^key-67f343321f854d68f69f7c457386aea5]: Textual amendment: [Sch. para. 6(f)(i)](https://www.legislation.gov.uk/uksi/2019/1387/schedule/paragraph/6/f/i) omitted (1.4.2025) by virtue of [The Community Radio Order 2025 (S.I. 2025/160)](https://www.legislation.gov.uk/uksi/2025/160), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/160/article/1/2), [9(4)(a)](https://www.legislation.gov.uk/uksi/2025/160/article/9/4/a)
+[^c-67f343321f854d68f69f7c457386aea5]: Textual amendment: [Sch. para. 6(f)(i)](https://www.legislation.gov.uk/uksi/2019/1387/schedule/paragraph/6/f/i) omitted (1.4.2025) by virtue of [The Community Radio Order 2025 (S.I. 2025/160)](https://www.legislation.gov.uk/uksi/2025/160), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/160/article/1/2), [9(4)(a)](https://www.legislation.gov.uk/uksi/2025/160/article/9/4/a)
 
-[^key-d5c97aa2173d3b1c9bc97fa8fdd770a3]: Textual amendment: [Sch. para. 6(g)](https://www.legislation.gov.uk/uksi/2019/1387/schedule/paragraph/6/g) omitted (1.4.2025) by virtue of [The Community Radio Order 2025 (S.I. 2025/160)](https://www.legislation.gov.uk/uksi/2025/160), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/160/article/1/2), [9(4)(b)](https://www.legislation.gov.uk/uksi/2025/160/article/9/4/b)
+[^c-d5c97aa2173d3b1c9bc97fa8fdd770a3]: Textual amendment: [Sch. para. 6(g)](https://www.legislation.gov.uk/uksi/2019/1387/schedule/paragraph/6/g) omitted (1.4.2025) by virtue of [The Community Radio Order 2025 (S.I. 2025/160)](https://www.legislation.gov.uk/uksi/2025/160), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/160/article/1/2), [9(4)(b)](https://www.legislation.gov.uk/uksi/2025/160/article/9/4/b)
 
-[^key-a0b97041a73a548ed71963f69eb5af4b]: Commencement: Sch. para. 7 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1387/article/1)
+[^c-a0b97041a73a548ed71963f69eb5af4b]: Commencement: Sch. para. 7 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1387/article/1)
 
-[^key-d591f272037c6ed2991ee864bf792260]: Textual amendment: Word in [Sch. para. 7(c)(i)](https://www.legislation.gov.uk/uksi/2019/1387/schedule/paragraph/7/c/i) substituted (1.4.2025) by [The Community Radio Order 2025 (S.I. 2025/160)](https://www.legislation.gov.uk/uksi/2025/160), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/160/article/1/2), [9(4)(c)](https://www.legislation.gov.uk/uksi/2025/160/article/9/4/c)
+[^c-d591f272037c6ed2991ee864bf792260]: Textual amendment: Word in [Sch. para. 7(c)(i)](https://www.legislation.gov.uk/uksi/2019/1387/schedule/paragraph/7/c/i) substituted (1.4.2025) by [The Community Radio Order 2025 (S.I. 2025/160)](https://www.legislation.gov.uk/uksi/2025/160), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/160/article/1/2), [9(4)(c)](https://www.legislation.gov.uk/uksi/2025/160/article/9/4/c)
 
-[^key-a30f4b0ce69670a67adedb65868ddab7]: Textual amendment: [Sch. para. 7(c)(iv)](https://www.legislation.gov.uk/uksi/2019/1387/schedule/paragraph/7/c/iv) omitted (1.4.2025) by virtue of [The Community Radio Order 2025 (S.I. 2025/160)](https://www.legislation.gov.uk/uksi/2025/160), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/160/article/1/2), [9(4)(d)](https://www.legislation.gov.uk/uksi/2025/160/article/9/4/d)
+[^c-a30f4b0ce69670a67adedb65868ddab7]: Textual amendment: [Sch. para. 7(c)(iv)](https://www.legislation.gov.uk/uksi/2019/1387/schedule/paragraph/7/c/iv) omitted (1.4.2025) by virtue of [The Community Radio Order 2025 (S.I. 2025/160)](https://www.legislation.gov.uk/uksi/2025/160), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/160/article/1/2), [9(4)(d)](https://www.legislation.gov.uk/uksi/2025/160/article/9/4/d)
 
 [^f00013]: Footnote: Paragraph (g) was amended by [S.I. 2006/2131](https://www.legislation.gov.uk/uksi/2006/2131).
 
-[^key-b07604a5236ced411c7991d3ae9c528f]: Commencement: Sch. para. 8 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1387/article/1)
+[^c-b07604a5236ced411c7991d3ae9c528f]: Commencement: Sch. para. 8 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1387/article/1)
 
-[^key-84433ebd93b0831c8c8848b783d38154]: Commencement: Sch. para. 9 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1387/article/1)
+[^c-84433ebd93b0831c8c8848b783d38154]: Commencement: Sch. para. 9 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1387/article/1)
 
-[^key-e11b9b5a235ac0a319f27c20d71089f4]: Commencement: Sch. para. 10 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1387/article/1)
+[^c-e11b9b5a235ac0a319f27c20d71089f4]: Commencement: Sch. para. 10 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1387/article/1)
 
-[^key-462540aa5f06d5691cd6d75d065e7e4e]: Textual amendment: Words in [Sch. para. 10(b)(iii)](https://www.legislation.gov.uk/uksi/2019/1387/schedule/paragraph/10/b/iii) omitted (1.4.2025) by virtue of [The Community Radio Order 2025 (S.I. 2025/160)](https://www.legislation.gov.uk/uksi/2025/160), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/160/article/1/2), [9(4)(e)](https://www.legislation.gov.uk/uksi/2025/160/article/9/4/e)
+[^c-462540aa5f06d5691cd6d75d065e7e4e]: Textual amendment: Words in [Sch. para. 10(b)(iii)](https://www.legislation.gov.uk/uksi/2019/1387/schedule/paragraph/10/b/iii) omitted (1.4.2025) by virtue of [The Community Radio Order 2025 (S.I. 2025/160)](https://www.legislation.gov.uk/uksi/2025/160), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/160/article/1/2), [9(4)(e)](https://www.legislation.gov.uk/uksi/2025/160/article/9/4/e)
 
-[^key-0b223bee0ce4a6e4d8f8a527fc9d585d]: Textual amendment: [Sch. para. 10(b)(iv)](https://www.legislation.gov.uk/uksi/2019/1387/schedule/paragraph/10/b/iv) omitted (1.4.2025) by virtue of [The Community Radio Order 2025 (S.I. 2025/160)](https://www.legislation.gov.uk/uksi/2025/160), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/160/article/1/2), [9(4)(f)](https://www.legislation.gov.uk/uksi/2025/160/article/9/4/f)
+[^c-0b223bee0ce4a6e4d8f8a527fc9d585d]: Textual amendment: [Sch. para. 10(b)(iv)](https://www.legislation.gov.uk/uksi/2019/1387/schedule/paragraph/10/b/iv) omitted (1.4.2025) by virtue of [The Community Radio Order 2025 (S.I. 2025/160)](https://www.legislation.gov.uk/uksi/2025/160), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/160/article/1/2), [9(4)(f)](https://www.legislation.gov.uk/uksi/2025/160/article/9/4/f)
 
-[^key-7853cc5d50cf5fbebfb104cd730bbb4c]: Commencement: Sch. para. 11 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1387/article/1)
+[^c-7853cc5d50cf5fbebfb104cd730bbb4c]: Commencement: Sch. para. 11 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1387/article/1)
 
 [^f00015]: Footnote: Section 54A was inserted by section 35 of the Digital Economy Act [2010 (c.24)](https://www.legislation.gov.uk/ukpga/2010/24).
 
-[^key-0b8b1b38ad52f81094f0f0ca108b7cc9]: Commencement: Sch. para. 12 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1387/article/1)
+[^c-0b8b1b38ad52f81094f0f0ca108b7cc9]: Commencement: Sch. para. 12 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1387/article/1)
 
-[^key-c596c3c6027ac40a63f792967b58f2bc]: Textual amendment: [Sch. para. 12(e)(ii)](https://www.legislation.gov.uk/uksi/2019/1387/schedule/paragraph/12/e/ii) omitted (1.4.2025) by virtue of [The Community Radio Order 2025 (S.I. 2025/160)](https://www.legislation.gov.uk/uksi/2025/160), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/160/article/1/2), [9(4)(g)](https://www.legislation.gov.uk/uksi/2025/160/article/9/4/g)
+[^c-c596c3c6027ac40a63f792967b58f2bc]: Textual amendment: [Sch. para. 12(e)(ii)](https://www.legislation.gov.uk/uksi/2019/1387/schedule/paragraph/12/e/ii) omitted (1.4.2025) by virtue of [The Community Radio Order 2025 (S.I. 2025/160)](https://www.legislation.gov.uk/uksi/2025/160), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/160/article/1/2), [9(4)(g)](https://www.legislation.gov.uk/uksi/2025/160/article/9/4/g)
 
 [^f00016]: Footnote: Subsection (12A) was inserted by section 360(3) of, and paragraph 117 of Schedule 15 to, the 2003 Act.
 
-[^key-387164f7d95f6049ed15467d95186881]: Commencement: Sch. para. 13 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1387/article/1)
+[^c-387164f7d95f6049ed15467d95186881]: Commencement: Sch. para. 13 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1387/article/1)
 
-[^key-930851838c51fa4b1283b21dba02c559]: Commencement: Sch. para. 14 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1387/article/1)
+[^c-930851838c51fa4b1283b21dba02c559]: Commencement: Sch. para. 14 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1387/article/1)
 
-[^key-ab3b624a3ceb1b6efffdaf8b2f5ed205]: Commencement: Sch. para. 15 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1387/article/1)
+[^c-ab3b624a3ceb1b6efffdaf8b2f5ed205]: Commencement: Sch. para. 15 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1387/article/1)
 
-[^key-c8f7b5a7353396c49ec4e8460844b29f]: Commencement: Sch. para. 16 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1387/article/1)
+[^c-c8f7b5a7353396c49ec4e8460844b29f]: Commencement: Sch. para. 16 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1387/article/1)
 
-[^key-401657f6b6e13dbf367312e465d4b7bc]: Commencement: Sch. para. 17 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1387/article/1)
+[^c-401657f6b6e13dbf367312e465d4b7bc]: Commencement: Sch. para. 17 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1387/article/1)
 
 [^f00017]: Footnote: Paragraph (a) was amended by section 360(3) of, and paragraph 120 of Schedule 15 to, the 2003 Act.
 
 [^f00018]: Footnote: Paragraph (c) was amended by section 360(3) of, and paragraph 120 of Schedule 15 to, the 2003 Act.
 
-[^key-818411c31e6bb83bf2d450741ad56a20]: Commencement: Sch. para. 18 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1387/article/1)
+[^c-818411c31e6bb83bf2d450741ad56a20]: Commencement: Sch. para. 18 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1387/article/1)
 
-[^key-929a4790b38543488ca970ef2f20ad09]: Textual amendment: Words in [Sch. para. 18](https://www.legislation.gov.uk/uksi/2019/1387/schedule/paragraph/18) omitted (1.4.2025) by virtue of [The Community Radio Order 2025 (S.I. 2025/160)](https://www.legislation.gov.uk/uksi/2025/160), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/160/article/1/2), [9(5)](https://www.legislation.gov.uk/uksi/2025/160/article/9/5) (with [art. 10](https://www.legislation.gov.uk/uksi/2025/160/article/10))
+[^c-929a4790b38543488ca970ef2f20ad09]: Textual amendment: Words in [Sch. para. 18](https://www.legislation.gov.uk/uksi/2019/1387/schedule/paragraph/18) omitted (1.4.2025) by virtue of [The Community Radio Order 2025 (S.I. 2025/160)](https://www.legislation.gov.uk/uksi/2025/160), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/160/article/1/2), [9(5)](https://www.legislation.gov.uk/uksi/2025/160/article/9/5) (with [art. 10](https://www.legislation.gov.uk/uksi/2025/160/article/10))
 
-[^key-68103384ccc110f4c414c57b062d661d]: Commencement: Sch. para. 19 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1387/article/1)
+[^c-68103384ccc110f4c414c57b062d661d]: Commencement: Sch. para. 19 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1387/article/1)
 
-[^key-319d7a096e9e9aa769175dc1ae6d0243]: Commencement: Sch. para. 20 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1387/article/1)
+[^c-319d7a096e9e9aa769175dc1ae6d0243]: Commencement: Sch. para. 20 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1387/article/1)
 
-[^key-4037e30673d41c335e02840c58571531]: Commencement: Sch. para. 21 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1387/article/1)
+[^c-4037e30673d41c335e02840c58571531]: Commencement: Sch. para. 21 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1387/article/1)
 
-[^key-2b53551fb1527015aa188f2fec2ce748]: Textual amendment: Words in [Sch. para. 21](https://www.legislation.gov.uk/uksi/2019/1387/schedule/paragraph/21) omitted (1.4.2025) by virtue of [The Community Radio Order 2025 (S.I. 2025/160)](https://www.legislation.gov.uk/uksi/2025/160), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/160/article/1/2), [9(6)](https://www.legislation.gov.uk/uksi/2025/160/article/9/6)
+[^c-2b53551fb1527015aa188f2fec2ce748]: Textual amendment: Words in [Sch. para. 21](https://www.legislation.gov.uk/uksi/2019/1387/schedule/paragraph/21) omitted (1.4.2025) by virtue of [The Community Radio Order 2025 (S.I. 2025/160)](https://www.legislation.gov.uk/uksi/2025/160), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/160/article/1/2), [9(6)](https://www.legislation.gov.uk/uksi/2025/160/article/9/6)
 
 [^f00019]: Footnote: S.I. 2019/\*\*\*\*.
 

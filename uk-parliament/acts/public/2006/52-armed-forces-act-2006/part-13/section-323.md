@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 323. Power to make provision in consequence of criminal justice enactments[^key-b190efa9160c1b36f8c6da61267cc152][^key-5a8bae7552286c6fce5ed5f5b8f6345e][^key-3adc08b03eff9bc86a8ee2a0a9b18cc7]
+## 323. Power to make provision in consequence of criminal justice enactments[^c-b190efa9160c1b36f8c6da61267cc152][^c-5a8bae7552286c6fce5ed5f5b8f6345e][^c-3adc08b03eff9bc86a8ee2a0a9b18cc7]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,8 +48,8 @@ which is equivalent to that made by a relevant provision, subject to such modifi
 
 ## Annotations
 
-[^key-b190efa9160c1b36f8c6da61267cc152]: Commencement: S. 323 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-b190efa9160c1b36f8c6da61267cc152]: Commencement: S. 323 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-5a8bae7552286c6fce5ed5f5b8f6345e]: Modification: S. 323 applied by 2003 c. 44, s. 94(1) (as substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 214(2)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/214/2) (with [s. 385](https://www.legislation.gov.uk/ukpga/2006/52/section/385)); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4))
+[^c-5a8bae7552286c6fce5ed5f5b8f6345e]: Modification: S. 323 applied by 2003 c. 44, s. 94(1) (as substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 214(2)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/214/2) (with [s. 385](https://www.legislation.gov.uk/ukpga/2006/52/section/385)); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4))
 
-[^key-3adc08b03eff9bc86a8ee2a0a9b18cc7]: Commencement: S. 323 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-3adc08b03eff9bc86a8ee2a0a9b18cc7]: Commencement: S. 323 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

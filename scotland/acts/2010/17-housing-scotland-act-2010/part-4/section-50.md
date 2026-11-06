@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 50. Social landlords' involvement of tenants etc. when providing information[^key-30a3297a9fda536cf97efdec8cb4dfda][^key-08a05ebe78536c8b1477fa6043ce670e]
+## 50. Social landlords' involvement of tenants etc. when providing information[^c-30a3297a9fda536cf97efdec8cb4dfda][^c-08a05ebe78536c8b1477fa6043ce670e]
 
 *Extent: S*
 
@@ -46,6 +46,6 @@ in the preparation of information to be given by social landlords to the Regulat
 
 ## Annotations
 
-[^key-30a3297a9fda536cf97efdec8cb4dfda]: Commencement: S. 50 in force at 1.4.2011 for specified purposes by [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)
+[^c-30a3297a9fda536cf97efdec8cb4dfda]: Commencement: S. 50 in force at 1.4.2011 for specified purposes by [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)
 
-[^key-08a05ebe78536c8b1477fa6043ce670e]: Commencement: S. 50 in force at 1.4.2012 in so far as not already in force by [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2))
+[^c-08a05ebe78536c8b1477fa6043ce670e]: Commencement: S. 50 in force at 1.4.2012 in so far as not already in force by [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2))

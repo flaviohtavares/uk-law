@@ -33,7 +33,7 @@ summary: ''
 
 - (a) to secure that a ballot is held in accordance with Article 70 not earlier than twenty‐eight days and not later than three months[^c17609651] or such longer period as the Department may approve after the date on which the[^c17609671]. . . resolution was passed or the request was received; and
 - (b) to give notice in writing that such a ballot is to be held to—
-  - (i) the Authority[^key-fcd0511eb6e364df109288cd3c276628] ;
+  - (i) the Authority[^c-fcd0511eb6e364df109288cd3c276628] ;
   - (ii) if the school is a voluntary school, the trustees of the school;
   - (iii) if the school is a Catholic maintained school, the Council for Catholic Maintained Schools.
 
@@ -60,4 +60,4 @@ summary: ''
 
 [^c17609671]: Textual amendment: [1996 NI 1](https://www.legislation.gov.uk/nisi/1996)
 
-[^key-fcd0511eb6e364df109288cd3c276628]: Textual amendment: Word in art. 69(4)(b)(i) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 11(1)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/11/1) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-fcd0511eb6e364df109288cd3c276628]: Textual amendment: Word in art. 69(4)(b)(i) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 11(1)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/11/1) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 102. Content of relevant funds claim[^key-7e78cc1668eb2219efcbcc213f4f8fe8]
+## 102. Content of relevant funds claim[^c-7e78cc1668eb2219efcbcc213f4f8fe8]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7e78cc1668eb2219efcbcc213f4f8fe8]: Commencement: Rule 102 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-7e78cc1668eb2219efcbcc213f4f8fe8]: Commencement: Rule 102 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

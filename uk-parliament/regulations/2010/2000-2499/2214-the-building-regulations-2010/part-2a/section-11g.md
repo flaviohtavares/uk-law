@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11G. Competence: principal designer[^key-ae1741cfc504b806ada35e057a73b124]
+## 11G. Competence: principal designer[^c-ae1741cfc504b806ada35e057a73b124]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ to fulfil the duties of a principal designer under these Regulations in relation
 
 ## Annotations
 
-[^key-ae1741cfc504b806ada35e057a73b124]: Textual amendment: [Pt. 2A](https://www.legislation.gov.uk/uksi/2010/2214/part/2A) inserted (E.) (1.10.2023) by [The Building Regulations etc. (Amendment) (England) Regulations 2023 (S.I. 2023/911)](https://www.legislation.gov.uk/uksi/2023/911), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2), [6(1)](https://www.legislation.gov.uk/uksi/2023/911/regulation/6/1) (with [regs. 22-24](https://www.legislation.gov.uk/uksi/2023/911/regulation/22))
+[^c-ae1741cfc504b806ada35e057a73b124]: Textual amendment: [Pt. 2A](https://www.legislation.gov.uk/uksi/2010/2214/part/2A) inserted (E.) (1.10.2023) by [The Building Regulations etc. (Amendment) (England) Regulations 2023 (S.I. 2023/911)](https://www.legislation.gov.uk/uksi/2023/911), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2), [6(1)](https://www.legislation.gov.uk/uksi/2023/911/regulation/6/1) (with [regs. 22-24](https://www.legislation.gov.uk/uksi/2023/911/regulation/22))

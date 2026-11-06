@@ -60,7 +60,7 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 
 - “**authorised person**” means any person authorised by the Scottish Ministers or the Scottish Environment Protection Agency to act in matters arising under these Regulations, the Horizontal Regulation, the Horizontal Delegated Regulation or the Horizontal Implementing Regulation;
 - “**beneficiary**” has the same meaning as in Article 2(1) of the Horizontal Delegated Regulation [^c22256361];
-- “[^key-1e686c4d6c79533d591810dde283677b]**claim year**” has the meaning given in section 1(7) of the Direct Payments to Farmers (Legislative Continuity) Act 2020 [^c22256421];
+- “[^c-1e686c4d6c79533d591810dde283677b]**claim year**” has the meaning given in section 1(7) of the Direct Payments to Farmers (Legislative Continuity) Act 2020 [^c22256421];
 - “**control report**” means a control report pursuant to Article 72 of the Horizontal Implementing Regulation, and “provisional control report” is a draft control report detailing all the information required in a control report;
 - “**holding**” has the same meaning as in Article 91 of the Horizontal Regulation;
 - “**non-compliance**” has the same meaning as at point (2)(b) in Article 2(1) of the Horizontal Delegated Regulation;
@@ -71,7 +71,7 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 
 (2) Other expressions used in these Regulations have, unless the context otherwise requires, the meaning as in the Horizontal Regulation, the Horizontal Delegated Regulation and the Horizontal Implementing Regulation.
 
-(2A)[^key-3680f9b95b64f196fc6d230db913cc84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2A)[^c-3680f9b95b64f196fc6d230db913cc84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Anything done under these Regulations to be done in writing includes an electronic communication as defined in section 15(1) of the Electronic Communications Act 2000 [^c22256411] which has been recorded and is consequently capable of being reproduced.
 
@@ -124,7 +124,7 @@ the sheriff, stipendiary magistrate or justice may, by signed warrant, valid for
 - (i) take a photograph or any other digital record of anything on the land; or
 - (j) remove anything reasonably believed to be evidence of any non-compliance.
 
-(5)[^key-7969743a86da97475744741650a26d3d] An authorised person entering any premises by virtue of this regulation may be accompanied by such other person as the authorised person considers necessary.
+(5)[^c-7969743a86da97475744741650a26d3d] An authorised person entering any premises by virtue of this regulation may be accompanied by such other person as the authorised person considers necessary.
 
 (6) A person accompanying an authorised person may also exercise any of the powers conferred on an authorised person by virtue of paragraph (4).
 
@@ -169,7 +169,7 @@ the individual as well as the body corporate, Scottish partnership or unincorpor
 - (b) in relation to a Scottish partnership, a partner; or
 - (c) in relation to an unincorporated association other than a Scottish partnership, a person who is concerned in the management or control of the association.
 
-## 9. Amendment to the Rural Payments (Appeals) (Scotland) Regulations 2009[^key-c145460099fe1da8dcf7fc8a3f5d612f]
+## 9. Amendment to the Rural Payments (Appeals) (Scotland) Regulations 2009[^c-c145460099fe1da8dcf7fc8a3f5d612f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -198,15 +198,15 @@ Regulation 3(2)
 In this Schedule—
 
 - “**the 2003 Act**” means the Water Environment and Water Services (Scotland) Act 2003 [^c22256451];
-- “[^key-36ed2cd6936e005271645cfa6824b461]**the 2018 Regulations**” means the Environmental Authorisations (Scotland) Regulations 2018,
+- “[^c-36ed2cd6936e005271645cfa6824b461]**the 2018 Regulations**” means the Environmental Authorisations (Scotland) Regulations 2018,
 - “**chemical fertiliser**” means fertiliser which is manufactured by an industrial process;
-- “invasive species” means giant hogweed ([^key-18f067b70e65000a91d1e1f08b68708f]*heracleum mantegazzianum*), Japanese knotweed (*fallopia japonica*), Himalayan balsam (*impatiens glandulifera*) and rhododendron (*rhododendron ponticum*);
+- “invasive species” means giant hogweed ([^c-18f067b70e65000a91d1e1f08b68708f]*heracleum mantegazzianum*), Japanese knotweed (*fallopia japonica*), Himalayan balsam (*impatiens glandulifera*) and rhododendron (*rhododendron ponticum*);
 - “**nitrogen fertiliser**” means any substance containing a nitrogen compound utilised on land to enhance growth or vegetation;
 - “**organic manure**” means—
   - (a) livestock manure; and
   - (b) nitrogen fertiliser, not being livestock manure or chemical fertiliser, derived from organic matter, and includes sewage sludge and other organic wastes;
 - “**pesticides**” means anything used for destroying pests and includes herbicides, fungicides, insecticides and other biocides;
-- “relevant period” means the period beginning on the day the land is prepared for planting a hedge and terminating at the end of the third growing season following the planting of that hedge;[^key-7439586aeb57ef6a6e286453299bd4ca]
+- “relevant period” means the period beginning on the day the land is prepared for planting a hedge and terminating at the end of the third growing season following the planting of that hedge;[^c-7439586aeb57ef6a6e286453299bd4ca]
 - “**rough grazings and other semi-natural areas**” means land containing semi-natural vegetation including heathland, heather moorland, bog, unimproved grassland and rough grassland which is used or suitable for grazing; and
 - “**surface water**” has the same meaning as in section 3(3) of the 2003 Act.
 
@@ -251,9 +251,9 @@ In this Schedule—
 
 #### 2. Use of water for irrigation
 
-(1) The abstraction of water for irrigation must be carried out in compliance with the authorisation procedures set out in the 2018 Regulations[^key-a6a581f07c973c0dce13d48f3ac5599b].
+(1) The abstraction of water for irrigation must be carried out in compliance with the authorisation procedures set out in the 2018 Regulations[^c-a6a581f07c973c0dce13d48f3ac5599b].
 
-(2)[^key-0b133c8378849b29585538e4019fb73e] In this paragraph, “**abstraction**” has the same meaning as in regulation 2 of the 2018 Regulations.
+(2)[^c-0b133c8378849b29585538e4019fb73e] In this paragraph, “**abstraction**” has the same meaning as in regulation 2 of the 2018 Regulations.
 
 #### 3. Protection of groundwater against pollution
 
@@ -262,9 +262,9 @@ In this Schedule—
 - (a) cause or permit the direct or indirect discharge into groundwater; or
 - (b) do anything likely to cause a direct or indirect discharge into groundwater,
 
-of any substances or families or groups of substances specified in the lists in the Table in Part 3 of this Schedule, unless it is authorised under the 2018 Regulations[^key-7c5eb07dc62c1ca30273eeb93e62e418] and carried out in accordance with that authorisation.
+of any substances or families or groups of substances specified in the lists in the Table in Part 3 of this Schedule, unless it is authorised under the 2018 Regulations[^c-7c5eb07dc62c1ca30273eeb93e62e418] and carried out in accordance with that authorisation.
 
-(2) A beneficiary must, when carrying on any agricultural activity, comply with the requirements of a notice issued under regulation 46 of the 2018 Regulations (regulatory notices)[^key-e73b97fda88bb51b1130ec1de5a49d28] in relation to the direct or indirect discharge into groundwater of any substances or families or groups of substances specified in the lists in the Table in Part 3 of this Schedule.
+(2) A beneficiary must, when carrying on any agricultural activity, comply with the requirements of a notice issued under regulation 46 of the 2018 Regulations (regulatory notices)[^c-e73b97fda88bb51b1130ec1de5a49d28] in relation to the direct or indirect discharge into groundwater of any substances or families or groups of substances specified in the lists in the Table in Part 3 of this Schedule.
 
 #### 4. Minimum soil cover
 
@@ -296,9 +296,9 @@ of any substances or families or groups of substances specified in the lists in 
 - (a) provide at the place where the muirburn is about to take place, and maintain there whilst the muirburn is undertaken, sufficient staff and equipment to control and regulate burning operations so as to prevent damage to any woodlands on or adjoining the land where the operations are taking place or to any adjoining lands, march fences or other things; and
 - (b) do so with due care so as not to cause damage to any woodlands on or adjoining the land where the operations are taking place, or to any adjoining lands, woodlands, march fences or other things.
 
-(3) A beneficiary must not plough up or cultivate[^key-b5dd4966b6f16427bdd6f9b5f2cb060f] rough grazings and other semi-natural areas without approval under the Agriculture, Land Drainage and Irrigation Projects (Environmental Impact Assessment) (Scotland) Regulations 2017[^M_F_b7fb2565-8d53-460c-8263-a6c68820f355].
+(3) A beneficiary must not plough up or cultivate[^c-b5dd4966b6f16427bdd6f9b5f2cb060f] rough grazings and other semi-natural areas without approval under the Agriculture, Land Drainage and Irrigation Projects (Environmental Impact Assessment) (Scotland) Regulations 2017[^M_F_b7fb2565-8d53-460c-8263-a6c68820f355].
 
-(4)[^key-90515d9de4f67593de6c7a3a662625e9] Subject to sub-paragraphs (7) and (8), a beneficiary must not carry out any of the following activities on peatlands or wetlands—
+(4)[^c-90515d9de4f67593de6c7a3a662625e9] Subject to sub-paragraphs (7) and (8), a beneficiary must not carry out any of the following activities on peatlands or wetlands—
 
 - (a) reseeding;
 - (b) drainage;
@@ -482,7 +482,7 @@ No business and regulatory impact assessment has been prepared for these Regulat
 
 [^c22256361]: Marginal citation: The definition of “beneficiary” is found at point (1) of Article 2(1).
 
-[^key-1e686c4d6c79533d591810dde283677b]: Textual amendment: Words in reg. 2(1) inserted (31.1.2020) by [The Direct Payments to Farmers (Legislative Continuity) (Scotland) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/18)](https://www.legislation.gov.uk/ssi/2020/18), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/18/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/ssi/2020/18/regulation/2/2/a)
+[^c-1e686c4d6c79533d591810dde283677b]: Textual amendment: Words in reg. 2(1) inserted (31.1.2020) by [The Direct Payments to Farmers (Legislative Continuity) (Scotland) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/18)](https://www.legislation.gov.uk/ssi/2020/18), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/18/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/ssi/2020/18/regulation/2/2/a)
 
 [^c22256421]: Marginal citation: [2020 c.2](https://www.legislation.gov.uk/ukpga/2020/2).
 
@@ -494,13 +494,13 @@ No business and regulatory impact assessment has been prepared for these Regulat
 
 [^c22256401]: Marginal citation: OJ L 227, 31.7.2014, p.69.
 
-[^key-3680f9b95b64f196fc6d230db913cc84]: Textual amendment: [Reg. 2(2A)](https://www.legislation.gov.uk/ssi/2014/325/regulation/2/2A) omitted (1.1.2021) by virtue of [The Direct Payments to Farmers (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/460)](https://www.legislation.gov.uk/ssi/2020/460), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/460/regulation/1/2), [8](https://www.legislation.gov.uk/ssi/2020/460/regulation/8)
+[^c-3680f9b95b64f196fc6d230db913cc84]: Textual amendment: [Reg. 2(2A)](https://www.legislation.gov.uk/ssi/2014/325/regulation/2/2A) omitted (1.1.2021) by virtue of [The Direct Payments to Farmers (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/460)](https://www.legislation.gov.uk/ssi/2020/460), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/460/regulation/1/2), [8](https://www.legislation.gov.uk/ssi/2020/460/regulation/8)
 
 [^c22256411]: Marginal citation: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7). Section 15(1) was amended by the [Communications Act 2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21), [section 406](https://www.legislation.gov.uk/ukpga/2003/21/section/406) and Schedule 17, paragraph 158.
 
-[^key-7969743a86da97475744741650a26d3d]: Textual amendment: [Reg. 5(5)](https://www.legislation.gov.uk/ssi/2014/325/regulation/5/5) substituted (31.12.2020) by [The Common Agricultural Policy (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/60)](https://www.legislation.gov.uk/ssi/2019/60), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/60/regulation/1/1/b), [5](https://www.legislation.gov.uk/ssi/2019/60/regulation/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7969743a86da97475744741650a26d3d]: Textual amendment: [Reg. 5(5)](https://www.legislation.gov.uk/ssi/2014/325/regulation/5/5) substituted (31.12.2020) by [The Common Agricultural Policy (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/60)](https://www.legislation.gov.uk/ssi/2019/60), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/60/regulation/1/1/b), [5](https://www.legislation.gov.uk/ssi/2019/60/regulation/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c145460099fe1da8dcf7fc8a3f5d612f]: Textual amendment: Reg. 9 revoked (12.6.2015) by [The Rural Payments (Appeals) (Scotland) Regulations 2015 (S.S.I. 2015/194)](https://www.legislation.gov.uk/ssi/2015/194), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/194/regulation/1/1), [11(1)(b)(iii)](https://www.legislation.gov.uk/ssi/2015/194/regulation/11/1/b/iii) (with [reg. 11(2)](https://www.legislation.gov.uk/ssi/2015/194/regulation/11/2)[(3)](https://www.legislation.gov.uk/ssi/2015/194/regulation/11/3)).
+[^c-c145460099fe1da8dcf7fc8a3f5d612f]: Textual amendment: Reg. 9 revoked (12.6.2015) by [The Rural Payments (Appeals) (Scotland) Regulations 2015 (S.S.I. 2015/194)](https://www.legislation.gov.uk/ssi/2015/194), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/194/regulation/1/1), [11(1)(b)(iii)](https://www.legislation.gov.uk/ssi/2015/194/regulation/11/1/b/iii) (with [reg. 11(2)](https://www.legislation.gov.uk/ssi/2015/194/regulation/11/2)[(3)](https://www.legislation.gov.uk/ssi/2015/194/regulation/11/3)).
 
 [^c22256431]: Marginal citation: [S.S.I. 2011/415](https://www.legislation.gov.uk/ssi/2011/415).
 
@@ -508,11 +508,11 @@ No business and regulatory impact assessment has been prepared for these Regulat
 
 [^c22256451]: Marginal citation: [2003 asp 3](https://www.legislation.gov.uk/asp/2003/3), to which there are amendments not relevant to these Regulations.
 
-[^key-36ed2cd6936e005271645cfa6824b461]: Textual amendment: Words in [sch. 1 Pt. 1](https://www.legislation.gov.uk/ssi/2014/325/schedule/1/part/1) substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 24(a)](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/24/a) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-36ed2cd6936e005271645cfa6824b461]: Textual amendment: Words in [sch. 1 Pt. 1](https://www.legislation.gov.uk/ssi/2014/325/schedule/1/part/1) substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 24(a)](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/24/a) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-18f067b70e65000a91d1e1f08b68708f]: Textual amendment: Words in sch. Pt. 1 inserted (16.3.2015) by [The Common Agricultural Policy (Direct Payments etc.) (Scotland) Regulations 2015 (S.S.I. 2015/58)](https://www.legislation.gov.uk/ssi/2015/58), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/58/regulation/1/1), [27(2)](https://www.legislation.gov.uk/ssi/2015/58/regulation/27/2).
+[^c-18f067b70e65000a91d1e1f08b68708f]: Textual amendment: Words in sch. Pt. 1 inserted (16.3.2015) by [The Common Agricultural Policy (Direct Payments etc.) (Scotland) Regulations 2015 (S.S.I. 2015/58)](https://www.legislation.gov.uk/ssi/2015/58), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/58/regulation/1/1), [27(2)](https://www.legislation.gov.uk/ssi/2015/58/regulation/27/2).
 
-[^key-7439586aeb57ef6a6e286453299bd4ca]: Textual amendment: Words in sch. Pt. 1 inserted (27.6.2015) by [The Common Agricultural Policy (Direct Payments etc.) (Scotland) Amendment Regulations 2015 (S.S.I. 2015/215)](https://www.legislation.gov.uk/ssi/2015/215), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2015/215/regulation/1/3), [11](https://www.legislation.gov.uk/ssi/2015/215/regulation/11).
+[^c-7439586aeb57ef6a6e286453299bd4ca]: Textual amendment: Words in sch. Pt. 1 inserted (27.6.2015) by [The Common Agricultural Policy (Direct Payments etc.) (Scotland) Amendment Regulations 2015 (S.S.I. 2015/215)](https://www.legislation.gov.uk/ssi/2015/215), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2015/215/regulation/1/3), [11](https://www.legislation.gov.uk/ssi/2015/215/regulation/11).
 
 [^M_F_e4f1dc46-7478-4053-f109-8b3de3b87e28]: Textual amendment: Words in sch. Pt. 2 para 1(2) inserted (15.5.2018) by [The Common Agricultural Policy (Miscellaneous Amendments) (Scotland) Regulations 2018 (S.S.I. 2018/122)](https://www.legislation.gov.uk/ssi/2018/122), [regs. 1](https://www.legislation.gov.uk/ssi/2018/122/regulation/1), [14(a)(i)](https://www.legislation.gov.uk/ssi/2018/122/regulation/14/a/i).
 
@@ -524,21 +524,21 @@ No business and regulatory impact assessment has been prepared for these Regulat
 
 [^M_F_f131e4d0-e156-4766-ed65-32f0b2b92dfd]: Textual amendment: sch. Pt. 2 para 1(8) inserted (15.5.2018) by [The Common Agricultural Policy (Miscellaneous Amendments) (Scotland) Regulations 2018 (S.S.I. 2018/122)](https://www.legislation.gov.uk/ssi/2018/122), [regs. 1](https://www.legislation.gov.uk/ssi/2018/122/regulation/1), [14(a)(ii)](https://www.legislation.gov.uk/ssi/2018/122/regulation/14/a/ii).
 
-[^key-a6a581f07c973c0dce13d48f3ac5599b]: Textual amendment: Words in [sch. 1 Pt. 2 para. 2(1)](https://www.legislation.gov.uk/ssi/2014/325/schedule/1/part/2/paragraph/2/1) substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 24(b)(i)](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/24/b/i) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-a6a581f07c973c0dce13d48f3ac5599b]: Textual amendment: Words in [sch. 1 Pt. 2 para. 2(1)](https://www.legislation.gov.uk/ssi/2014/325/schedule/1/part/2/paragraph/2/1) substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 24(b)(i)](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/24/b/i) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-0b133c8378849b29585538e4019fb73e]: Textual amendment: [Sch. 1 Pt. 2 para. 2(2)](https://www.legislation.gov.uk/ssi/2014/325/schedule/1/part/2/paragraph/2/2) substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 24(b)(ii)](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/24/b/ii) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-0b133c8378849b29585538e4019fb73e]: Textual amendment: [Sch. 1 Pt. 2 para. 2(2)](https://www.legislation.gov.uk/ssi/2014/325/schedule/1/part/2/paragraph/2/2) substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 24(b)(ii)](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/24/b/ii) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-7c5eb07dc62c1ca30273eeb93e62e418]: Textual amendment: Words in [sch. 1 Pt. 2 para. 3(1)](https://www.legislation.gov.uk/ssi/2014/325/schedule/1/part/2/paragraph/3/1) substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 24(b)(iii)](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/24/b/iii) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-7c5eb07dc62c1ca30273eeb93e62e418]: Textual amendment: Words in [sch. 1 Pt. 2 para. 3(1)](https://www.legislation.gov.uk/ssi/2014/325/schedule/1/part/2/paragraph/3/1) substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 24(b)(iii)](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/24/b/iii) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-e73b97fda88bb51b1130ec1de5a49d28]: Textual amendment: Words in [sch. 1 Pt. 2 para. 3(2)](https://www.legislation.gov.uk/ssi/2014/325/schedule/1/part/2/paragraph/3/2) substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 24(b)(iv)](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/24/b/iv) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-e73b97fda88bb51b1130ec1de5a49d28]: Textual amendment: Words in [sch. 1 Pt. 2 para. 3(2)](https://www.legislation.gov.uk/ssi/2014/325/schedule/1/part/2/paragraph/3/2) substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 24(b)(iv)](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/24/b/iv) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
 [^M_F_48289ff7-fddb-4070-a13c-965feecbf779]: Textual amendment: Word in sch. Pt. 2 para 5(1) substituted (15.5.2018) by [The Common Agricultural Policy (Miscellaneous Amendments) (Scotland) Regulations 2018 (S.S.I. 2018/122)](https://www.legislation.gov.uk/ssi/2018/122), [regs. 1](https://www.legislation.gov.uk/ssi/2018/122/regulation/1), [14(b)](https://www.legislation.gov.uk/ssi/2018/122/regulation/14/b).
 
-[^key-b5dd4966b6f16427bdd6f9b5f2cb060f]: Textual amendment: Words in [sch. para. 6(3)](https://www.legislation.gov.uk/ssi/2014/325/schedule/paragraph/6/3) inserted (1.1.2025) by [The Rural Support (Improvement) (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/380)](https://www.legislation.gov.uk/ssi/2024/380), [regs. 1](https://www.legislation.gov.uk/ssi/2024/380/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2024/380/regulation/2/2)
+[^c-b5dd4966b6f16427bdd6f9b5f2cb060f]: Textual amendment: Words in [sch. para. 6(3)](https://www.legislation.gov.uk/ssi/2014/325/schedule/paragraph/6/3) inserted (1.1.2025) by [The Rural Support (Improvement) (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/380)](https://www.legislation.gov.uk/ssi/2024/380), [regs. 1](https://www.legislation.gov.uk/ssi/2024/380/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2024/380/regulation/2/2)
 
 [^M_F_b7fb2565-8d53-460c-8263-a6c68820f355]: Textual amendment: Words in [sch. para. 6(3)](https://www.legislation.gov.uk/ssi/2014/325/schedule/paragraph/6/3) substituted (28.3.2019) by [The Common Agricultural Policy (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/60)](https://www.legislation.gov.uk/ssi/2019/60), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/60/regulation/1/1/a), [2](https://www.legislation.gov.uk/ssi/2019/60/regulation/2)
 
-[^key-90515d9de4f67593de6c7a3a662625e9]: Textual amendment: [Sch. para. 6(4)-(9)](https://www.legislation.gov.uk/ssi/2014/325/schedule/paragraph/6/4) inserted (1.1.2025) by [The Rural Support (Improvement) (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/380)](https://www.legislation.gov.uk/ssi/2024/380), [regs. 1](https://www.legislation.gov.uk/ssi/2024/380/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2024/380/regulation/2/3)
+[^c-90515d9de4f67593de6c7a3a662625e9]: Textual amendment: [Sch. para. 6(4)-(9)](https://www.legislation.gov.uk/ssi/2014/325/schedule/paragraph/6/4) inserted (1.1.2025) by [The Rural Support (Improvement) (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/380)](https://www.legislation.gov.uk/ssi/2024/380), [regs. 1](https://www.legislation.gov.uk/ssi/2024/380/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2024/380/regulation/2/3)
 
 [^M_F_fd6b2053-f7b1-4c7c-f51b-002e7899172f]: Textual amendment: sch. Pt. 2 para 7(2) substituted (15.5.2018) by [The Common Agricultural Policy (Miscellaneous Amendments) (Scotland) Regulations 2018 (S.S.I. 2018/122)](https://www.legislation.gov.uk/ssi/2018/122), [regs. 1](https://www.legislation.gov.uk/ssi/2018/122/regulation/1), [14(c)(i)](https://www.legislation.gov.uk/ssi/2018/122/regulation/14/c/i).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. The launch vehicle’s ground support equipment[^key-0b30e1a31cdfbb9bbc76dc75075ed411]
+## 92. The launch vehicle’s ground support equipment[^c-0b30e1a31cdfbb9bbc76dc75075ed411]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0b30e1a31cdfbb9bbc76dc75075ed411]: Commencement: Reg. 92 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-0b30e1a31cdfbb9bbc76dc75075ed411]: Commencement: Reg. 92 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

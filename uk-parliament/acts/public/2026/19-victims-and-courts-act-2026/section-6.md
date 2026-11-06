@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Victims’ rights to make disclosures relating to criminal conduct[^key-fea13b06dab1b6ab2456c8da8cc846d5]
+## 6. Victims’ rights to make disclosures relating to criminal conduct[^c-fea13b06dab1b6ab2456c8da8cc846d5]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,4 +66,4 @@ For section 17 of the Victims and Prisoners Act 2024 (disclosures by victims tha
 
 ## Annotations
 
-[^key-fea13b06dab1b6ab2456c8da8cc846d5]: Commencement: S. 6 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
+[^c-fea13b06dab1b6ab2456c8da8cc846d5]: Commencement: S. 6 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)

@@ -74,7 +74,7 @@ Section 40
 - “**financial resources**”, in relation to an individual, includes an individual's means, disposable income and disposable capital;
 - “**the relevant authority**” means—
   - (a) a prescribed person, or
-  - (b) in relation to circumstances for which no person is prescribed, the Director of Legal Aid Casework designated under section 2 of the Legal Aid and Coroners' Courts Act (Northern Ireland) 2014 *(Extent: N.I.)*[^key-21a52a54202883e9b2cbb5ca1735240a];
+  - (b) in relation to circumstances for which no person is prescribed, the Director of Legal Aid Casework designated under section 2 of the Legal Aid and Coroners' Courts Act (Northern Ireland) 2014 *(Extent: N.I.)*[^c-21a52a54202883e9b2cbb5ca1735240a];
 - “**a relevant individual**”, in relation to an information request under this paragraph for the purposes of a determination about an individual's financial resources, means—
   - (a) that individual, and
   - (b) any other individual whose financial resources are or may be relevant for the purposes of the determination;
@@ -100,7 +100,7 @@ Section 40
 
 - (a) on conviction on indictment, to imprisonment for a term not exceeding 2 years or a fine (or both);
 - (b) on summary conviction—
-  - (i) in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-d76adbca7c569e51f0782043bbdc68a3] or a fine not exceeding the statutory maximum (or both), and
+  - (i) in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^c-d76adbca7c569e51f0782043bbdc68a3] or a fine not exceeding the statutory maximum (or both), and
   - (ii) in Northern Ireland, to imprisonment for a term not exceeding 6 months or a fine not exceeding the statutory maximum (or both).
 
 (5) It is a defence for a person charged with an offence under this paragraph to prove that the person reasonably believed that the disclosure or use was lawful.
@@ -110,7 +110,7 @@ Section 40
 - (a) an enactment contained subordinate legislation (within the meaning of the Interpretation Act 1978), and
 - (b) an enactment contained in, or in an instrument made under, an Act or Measure of the National Assembly for Wales or Northern Ireland legislation.
 
-(7) In relation to an offence under this paragraph committed before 2 May 2022[^key-eac0863458c83c8edab7ff09946c62f3], the reference in sub-paragraph (4)(b)(i) to the general limit in a magistrates’ court[^key-f52957a4c2c5a84077986939412c5d7b] has effect as if it were a reference to 6 months.
+(7) In relation to an offence under this paragraph committed before 2 May 2022[^c-eac0863458c83c8edab7ff09946c62f3], the reference in sub-paragraph (4)(b)(i) to the general limit in a magistrates’ court[^c-f52957a4c2c5a84077986939412c5d7b] has effect as if it were a reference to 6 months.
 
 ### Power to make consequential and supplementary provision etc
 
@@ -140,10 +140,10 @@ Section 40
 
 ## Annotations
 
-[^key-21a52a54202883e9b2cbb5ca1735240a]: Textual amendment: Words in Sch. 6 para. 1(8) substituted (N.I.) (1.4.2015) by [Legal Aid and Coroners‘ Courts Act (Northern Ireland) 2014 (c. 11)](https://www.legislation.gov.uk/nia/2014/11), [s. 12(1)](https://www.legislation.gov.uk/nia/2014/11/section/12/1), [Sch. 2 para. 11](https://www.legislation.gov.uk/nia/2014/11/schedule/2/paragraph/11) (with [ss. 2(3)](https://www.legislation.gov.uk/nia/2014/11/section/2/3), [9](https://www.legislation.gov.uk/nia/2014/11/section/9), [Sch. 1 paras. 3(3)](https://www.legislation.gov.uk/nia/2014/11/schedule/1/paragraph/3/3)); [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(e)](https://www.legislation.gov.uk/nisr/2015/193/article/2/e)
+[^c-21a52a54202883e9b2cbb5ca1735240a]: Textual amendment: Words in Sch. 6 para. 1(8) substituted (N.I.) (1.4.2015) by [Legal Aid and Coroners‘ Courts Act (Northern Ireland) 2014 (c. 11)](https://www.legislation.gov.uk/nia/2014/11), [s. 12(1)](https://www.legislation.gov.uk/nia/2014/11/section/12/1), [Sch. 2 para. 11](https://www.legislation.gov.uk/nia/2014/11/schedule/2/paragraph/11) (with [ss. 2(3)](https://www.legislation.gov.uk/nia/2014/11/section/2/3), [9](https://www.legislation.gov.uk/nia/2014/11/section/9), [Sch. 1 paras. 3(3)](https://www.legislation.gov.uk/nia/2014/11/schedule/1/paragraph/3/3)); [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(e)](https://www.legislation.gov.uk/nisr/2015/193/article/2/e)
 
-[^key-d76adbca7c569e51f0782043bbdc68a3]: Textual amendment: Words in [Sch. 6 para. 2(4)(b)(i)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/6/paragraph/2/4/b/i) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+[^c-d76adbca7c569e51f0782043bbdc68a3]: Textual amendment: Words in [Sch. 6 para. 2(4)(b)(i)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/6/paragraph/2/4/b/i) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
 
-[^key-eac0863458c83c8edab7ff09946c62f3]: Textual amendment: Words in [Sch. 6 para. 2(7)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/6/paragraph/2/7) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
+[^c-eac0863458c83c8edab7ff09946c62f3]: Textual amendment: Words in [Sch. 6 para. 2(7)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/6/paragraph/2/7) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
 
-[^key-f52957a4c2c5a84077986939412c5d7b]: Textual amendment: Words in [Sch. 6 para. 2(7)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/6/paragraph/2/7) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+[^c-f52957a4c2c5a84077986939412c5d7b]: Textual amendment: Words in [Sch. 6 para. 2(7)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/6/paragraph/2/7) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)

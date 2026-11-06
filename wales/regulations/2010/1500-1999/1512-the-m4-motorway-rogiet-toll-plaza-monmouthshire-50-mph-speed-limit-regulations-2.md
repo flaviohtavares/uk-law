@@ -31,7 +31,7 @@ summary: ''
 
 ROAD TRAFFIC, WALES
 
-The M4 Motorway (Rogiet Toll Plaza, Monmouthshire) (50 mph Speed Limit) Regulations 2010 (revoked)[^key-86f4072d631d6892dbf1a116838544ed]
+The M4 Motorway (Rogiet Toll Plaza, Monmouthshire) (50 mph Speed Limit) Regulations 2010 (revoked)[^c-86f4072d631d6892dbf1a116838544ed]
 
 Made
 
@@ -45,32 +45,32 @@ Coming into force
 
 24 June 2010
 
-[^key-86f4072d631d6892dbf1a116838544ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-86f4072d631d6892dbf1a116838544ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-86f4072d631d6892dbf1a116838544ed]
+## 1. Title and commencement[^c-86f4072d631d6892dbf1a116838544ed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-86f4072d631d6892dbf1a116838544ed]
+## 2. Interpretation[^c-86f4072d631d6892dbf1a116838544ed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Imposition of speed limit[^key-86f4072d631d6892dbf1a116838544ed]
+## 3. Imposition of speed limit[^c-86f4072d631d6892dbf1a116838544ed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocation[^key-86f4072d631d6892dbf1a116838544ed]
+## 4. Revocation[^c-86f4072d631d6892dbf1a116838544ed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-86f4072d631d6892dbf1a116838544ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-86f4072d631d6892dbf1a116838544ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-86f4072d631d6892dbf1a116838544ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-86f4072d631d6892dbf1a116838544ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-86f4072d631d6892dbf1a116838544ed]: Textual amendment: Regulations revoked (31.10.2019) by [The M4 Motorway (Rogiet Toll Plaza, Monmouthshire) (50 mph Speed Limit) Regulations 2010 (Revocation) Regulations 2019 (S.I. 2019/1306)](https://www.legislation.gov.uk/uksi/2019/1306), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1306/regulation/1), [2](https://www.legislation.gov.uk/uksi/2019/1306/regulation/2)
+[^c-86f4072d631d6892dbf1a116838544ed]: Textual amendment: Regulations revoked (31.10.2019) by [The M4 Motorway (Rogiet Toll Plaza, Monmouthshire) (50 mph Speed Limit) Regulations 2010 (Revocation) Regulations 2019 (S.I. 2019/1306)](https://www.legislation.gov.uk/uksi/2019/1306), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1306/regulation/1), [2](https://www.legislation.gov.uk/uksi/2019/1306/regulation/2)

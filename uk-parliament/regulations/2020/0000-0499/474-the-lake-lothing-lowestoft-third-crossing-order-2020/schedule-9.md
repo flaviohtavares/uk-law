@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 9 — LAND OF WHICH ONLY TEMPORARY POSSESSION MAY BE TAKEN[^key-9d2ea21bc85b8e85f5bd42e3bc657bc8]
+## SCHEDULE 9 — LAND OF WHICH ONLY TEMPORARY POSSESSION MAY BE TAKEN[^c-9d2ea21bc85b8e85f5bd42e3bc657bc8]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ Article 33
 
 ## Annotations
 
-[^key-9d2ea21bc85b8e85f5bd42e3bc657bc8]: Commencement: Sch. 9 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
+[^c-9d2ea21bc85b8e85f5bd42e3bc657bc8]: Commencement: Sch. 9 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)

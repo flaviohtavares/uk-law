@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Civilian proceedings barring subsequent service proceedings[^key-dc47ddde5a652088762fc7ac72edd087][^key-abc7d46cba7d7b4ec01e84a72cd84d73]
+## 66. Civilian proceedings barring subsequent service proceedings[^c-dc47ddde5a652088762fc7ac72edd087][^c-abc7d46cba7d7b4ec01e84a72cd84d73]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,6 +47,6 @@ would amount to an offence under the law of England and Wales if it had been don
 
 ## Annotations
 
-[^key-dc47ddde5a652088762fc7ac72edd087]: Commencement: S. 66 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-dc47ddde5a652088762fc7ac72edd087]: Commencement: S. 66 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-abc7d46cba7d7b4ec01e84a72cd84d73]: Commencement: S. 66 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-abc7d46cba7d7b4ec01e84a72cd84d73]: Commencement: S. 66 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

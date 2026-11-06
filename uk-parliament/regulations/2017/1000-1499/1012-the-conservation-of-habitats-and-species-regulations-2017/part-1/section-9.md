@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Duties relating to compliance with the Directives[^key-6ca3f2237e3f127c3f3ccf2cc9f22540]
+## 9. Duties relating to compliance with the Directives[^c-6ca3f2237e3f127c3f3ccf2cc9f22540]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,26 +36,26 @@ summary: ''
 - (j) the Sea Fisheries Acts within the meaning of section 1 of the Sea Fisheries (Wildlife Conservation) Act 1992 (conservation in the exercise of sea fisheries functions) [^c23343391];
 - (k) the Natural Environment and Rural Communities Act 2006 [^c23343401];
 - (l) the Planning Act 2008;
-- (m) the Marine Act, in particular any functions under Parts 3, 4, 5 and 6 of that Act (marine planning, marine licensing, nature conservation and management of inshore fisheries, respectively); [^key-9341d38967843ab378b97f004fff054c]...
-- (n) the Natural Resources Body for Wales (Establishment) Order 2012 [^c23343411], where the functions are exercised for purposes related to nature conservation ; and[^key-001de13f7c2993f5925cfcdf6a70563a]
+- (m) the Marine Act, in particular any functions under Parts 3, 4, 5 and 6 of that Act (marine planning, marine licensing, nature conservation and management of inshore fisheries, respectively); [^c-9341d38967843ab378b97f004fff054c]...
+- (n) the Natural Resources Body for Wales (Establishment) Order 2012 [^c23343411], where the functions are exercised for purposes related to nature conservation ; and[^c-001de13f7c2993f5925cfcdf6a70563a]
 - (o) the Infrastructure (Wales) Act 2024.
 
-(2A)[^key-44840fcdfd1ba466f3fedf121610960c] Paragraph (1) does not apply to functions exercisable under or by virtue of Part 3 of the Planning and Infrastructure Act 2025 (development and nature recovery).
+(2A)[^c-44840fcdfd1ba466f3fedf121610960c] Paragraph (1) does not apply to functions exercisable under or by virtue of Part 3 of the Planning and Infrastructure Act 2025 (development and nature recovery).
 
 (3) Without prejudice to the preceding provisions, a competent authority, in exercising any of its functions, must have regard to the requirements of the Directives so far as they may be affected by the exercise of those functions.
 
-(3ZA)[^key-f777d43db155987c1da97eb861f7e331] The duties in paragraphs (1) and (3) do not apply to functions under regulation 68A (compensatory measures for relevant offshore wind activity in the Scottish inshore region).
+(3ZA)[^c-f777d43db155987c1da97eb861f7e331] The duties in paragraphs (1) and (3) do not apply to functions under regulation 68A (compensatory measures for relevant offshore wind activity in the Scottish inshore region).
 
-(3ZB)[^key-7877238ca5e348fb0fa8e588267868fc] The duties in paragraphs (1) and (3) do not apply to functions under regulation 68ZA (compensatory measures: relevant offshore wind plans or projects).
+(3ZB)[^c-7877238ca5e348fb0fa8e588267868fc] The duties in paragraphs (1) and (3) do not apply to functions under regulation 68ZA (compensatory measures: relevant offshore wind plans or projects).
 
-(3A)[^key-c5a26055f4ce0a71c56aaacec8a98687] Paragraph (3) does not apply to functions exercised by a competent authority in connection with an environmental delivery plan within the meaning of Part 3 of the Planning and Infrastructure Act 2025.
+(3A)[^c-c5a26055f4ce0a71c56aaacec8a98687] Paragraph (3) does not apply to functions exercised by a competent authority in connection with an environmental delivery plan within the meaning of Part 3 of the Planning and Infrastructure Act 2025.
 
 (4) The reference in paragraph (1) to the appropriate authority—
 
 - (a) to the extent that that paragraph applies in relation to Scotland, includes the Secretary of State exercising functions in relation to Scotland; and
 - (b) to the extent that that paragraph applies in relation to Northern Ireland, includes the Secretary of State exercising functions in relation to Northern Ireland.
 
-(4A)[^key-53f030bcc4b28f02de09ba3b803561dc] In complying with their duties under paragraphs (1) and (3), the nature conservation body and a competent authority must have regard to any guidance issued under regulation 3A(4)—
+(4A)[^c-53f030bcc4b28f02de09ba3b803561dc] In complying with their duties under paragraphs (1) and (3), the nature conservation body and a competent authority must have regard to any guidance issued under regulation 3A(4)—
 
 - (a) by the Secretary of State, in relation to England; or
 - (b) by the Welsh Ministers, in relation to Wales.
@@ -67,7 +67,7 @@ summary: ''
 
 ## Annotations
 
-[^key-6ca3f2237e3f127c3f3ccf2cc9f22540]: Modification: Reg. 9: power to disapply or modify conferred (26.12.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 293(4)](https://www.legislation.gov.uk/ukpga/2023/52/section/293/4)[(5)](https://www.legislation.gov.uk/ukpga/2023/52/section/293/5), [334(3)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/j) (with [s. 293(6)](https://www.legislation.gov.uk/ukpga/2023/52/section/293/6))
+[^c-6ca3f2237e3f127c3f3ccf2cc9f22540]: Modification: Reg. 9: power to disapply or modify conferred (26.12.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 293(4)](https://www.legislation.gov.uk/ukpga/2023/52/section/293/4)[(5)](https://www.legislation.gov.uk/ukpga/2023/52/section/293/5), [334(3)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/j) (with [s. 293(6)](https://www.legislation.gov.uk/ukpga/2023/52/section/293/6))
 
 [^c23343331]: Marginal citation: [1865 c. 125](https://www.legislation.gov.uk/ukpga/1865/125).
 
@@ -85,18 +85,18 @@ summary: ''
 
 [^c23343401]: Marginal citation: [2006 c. 16](https://www.legislation.gov.uk/ukpga/2006/16).
 
-[^key-9341d38967843ab378b97f004fff054c]: Textual amendment: Word in reg. 9(2) omitted (15.12.2025) by virtue of [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [13(3)(a)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/13/3/a)
+[^c-9341d38967843ab378b97f004fff054c]: Textual amendment: Word in reg. 9(2) omitted (15.12.2025) by virtue of [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [13(3)(a)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/13/3/a)
 
 [^c23343411]: Marginal citation: [S.I. 2012/1903](https://www.legislation.gov.uk/uksi/2012/1903) (W. 230), to which there are amendments not relevant to these Regulations.
 
-[^key-001de13f7c2993f5925cfcdf6a70563a]: Textual amendment: Reg. 9(2)(o) and word inserted (15.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [13(3)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/13/3/b)
+[^c-001de13f7c2993f5925cfcdf6a70563a]: Textual amendment: Reg. 9(2)(o) and word inserted (15.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [13(3)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/13/3/b)
 
-[^key-44840fcdfd1ba466f3fedf121610960c]: Textual amendment: Reg. 9(2A) inserted (18.2.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3), [Sch. 5 para. 48(a)](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/48/a) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)[(3)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/3)
+[^c-44840fcdfd1ba466f3fedf121610960c]: Textual amendment: Reg. 9(2A) inserted (18.2.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3), [Sch. 5 para. 48(a)](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/48/a) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)[(3)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/3)
 
-[^key-f777d43db155987c1da97eb861f7e331]: Textual amendment: [Reg. 9(3ZA)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/9/3ZA) inserted (S.) (25.5.2026) by [The Conservation of Habitats and Species (Offshore Wind) (Miscellaneous Amendments) (Scotland) Regulations 2026 (S.S.I. 2026/143)](https://www.legislation.gov.uk/ssi/2026/143), [regs. 1](https://www.legislation.gov.uk/ssi/2026/143/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2026/143/regulation/3/2)
+[^c-f777d43db155987c1da97eb861f7e331]: Textual amendment: [Reg. 9(3ZA)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/9/3ZA) inserted (S.) (25.5.2026) by [The Conservation of Habitats and Species (Offshore Wind) (Miscellaneous Amendments) (Scotland) Regulations 2026 (S.S.I. 2026/143)](https://www.legislation.gov.uk/ssi/2026/143), [regs. 1](https://www.legislation.gov.uk/ssi/2026/143/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2026/143/regulation/3/2)
 
-[^key-7877238ca5e348fb0fa8e588267868fc]: Textual amendment: [Reg. 9(3ZB)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/9/3ZB) inserted (21.5.2026) by [The Conservation of Habitats and Species (Offshore Wind) (Amendment etc.) Regulations 2026 (S.I. 2026/508)](https://www.legislation.gov.uk/uksi/2026/508), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/508/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2026/508/regulation/4)
+[^c-7877238ca5e348fb0fa8e588267868fc]: Textual amendment: [Reg. 9(3ZB)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/9/3ZB) inserted (21.5.2026) by [The Conservation of Habitats and Species (Offshore Wind) (Amendment etc.) Regulations 2026 (S.I. 2026/508)](https://www.legislation.gov.uk/uksi/2026/508), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/508/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2026/508/regulation/4)
 
-[^key-c5a26055f4ce0a71c56aaacec8a98687]: Textual amendment: Reg. 9(3A) inserted (18.2.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3), [Sch. 5 para. 48(b)](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/48/b) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)[(3)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/3)
+[^c-c5a26055f4ce0a71c56aaacec8a98687]: Textual amendment: Reg. 9(3A) inserted (18.2.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3), [Sch. 5 para. 48(b)](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/48/b) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)[(3)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/3)
 
-[^key-53f030bcc4b28f02de09ba3b803561dc]: Textual amendment: Reg. 9(4A) inserted (31.12.2020) by [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [7](https://www.legislation.gov.uk/uksi/2019/579/regulation/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-53f030bcc4b28f02de09ba3b803561dc]: Textual amendment: Reg. 9(4A) inserted (31.12.2020) by [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [7](https://www.legislation.gov.uk/uksi/2019/579/regulation/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

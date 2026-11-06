@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 40. Tribunal hearing normally to be in private[^key-2805f32d0d705f1856f3a1b61919813b]
+## 40. Tribunal hearing normally to be in private[^c-2805f32d0d705f1856f3a1b61919813b]
 
 *Extent: E*
 
@@ -29,4 +29,4 @@ in which case the tribunal shall direct that the hearing shall be in public, but
 
 ## Annotations
 
-[^key-2805f32d0d705f1856f3a1b61919813b]: Commencement: [Rule 40](https://www.legislation.gov.uk/uksi/2005/2022/rule/40) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)
+[^c-2805f32d0d705f1856f3a1b61919813b]: Commencement: [Rule 40](https://www.legislation.gov.uk/uksi/2005/2022/rule/40) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)

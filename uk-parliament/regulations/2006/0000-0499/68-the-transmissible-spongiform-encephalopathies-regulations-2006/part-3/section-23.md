@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Offences by bodies corporate[^key-e9fd6e6b2e4f01798875296a4d215143]
+## 23. Offences by bodies corporate[^c-e9fd6e6b2e4f01798875296a4d215143]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ he, as well as the body corporate, is guilty of the offence.
 
 ## Annotations
 
-[^key-e9fd6e6b2e4f01798875296a4d215143]: Commencement: Reg. 23 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)
+[^c-e9fd6e6b2e4f01798875296a4d215143]: Commencement: Reg. 23 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)

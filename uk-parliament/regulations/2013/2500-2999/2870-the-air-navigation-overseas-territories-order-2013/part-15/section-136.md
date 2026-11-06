@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 136. Filing and approval of tariffs[^key-edba3257bcfc4ee428f6be86ae22c458]
+## 136. Filing and approval of tariffs[^c-edba3257bcfc4ee428f6be86ae22c458]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ and includes any condition as to the applicability of any such price, the provis
 
 ## Annotations
 
-[^key-edba3257bcfc4ee428f6be86ae22c458]: Commencement: [Art. 136](https://www.legislation.gov.uk/uksi/2013/2870/article/136) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-edba3257bcfc4ee428f6be86ae22c458]: Commencement: [Art. 136](https://www.legislation.gov.uk/uksi/2013/2870/article/136) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

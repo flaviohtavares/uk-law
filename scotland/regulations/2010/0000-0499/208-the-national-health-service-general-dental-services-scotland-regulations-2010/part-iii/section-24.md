@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 24. Drugs[^key-57edd0ab14a6915055e4b5fefaeb605d]
+## 24. Drugs[^c-57edd0ab14a6915055e4b5fefaeb605d]
 
 *Extent: S*
 
@@ -24,6 +24,6 @@ The fees payable by a Health Board to a contractor in respect of listed drugs un
 
 ## Annotations
 
-[^key-57edd0ab14a6915055e4b5fefaeb605d]: Commencement: [Reg. 24](https://www.legislation.gov.uk/ssi/2010/208/regulation/24) in force at 2.7.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/208/regulation/1)
+[^c-57edd0ab14a6915055e4b5fefaeb605d]: Commencement: [Reg. 24](https://www.legislation.gov.uk/ssi/2010/208/regulation/24) in force at 2.7.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/208/regulation/1)
 
 [^f00044]: Footnote: [S.S.I. 2009/183](https://www.legislation.gov.uk/ssi/2009/183) as amended by [S.S.I. 2009/209](https://www.legislation.gov.uk/ssi/2009/209) and [2010/128](https://www.legislation.gov.uk/ssi/2010/128).

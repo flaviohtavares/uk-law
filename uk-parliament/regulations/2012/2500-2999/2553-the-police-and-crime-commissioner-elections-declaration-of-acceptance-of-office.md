@@ -44,9 +44,9 @@ Coming into force
 
 15th November 2012
 
-The Secretary of State makes this Order in exercise of the powers conferred by sections 70(1)(a) and 154(5)(a) and (c) of the Police Reform and Social Responsibility Act 2011[^f00001] as extended by section 26(3) of the Welsh Language Act 1993[^f00002].[^key-d74f5574534e386d76ca4f21168e4161]
+The Secretary of State makes this Order in exercise of the powers conferred by sections 70(1)(a) and 154(5)(a) and (c) of the Police Reform and Social Responsibility Act 2011[^f00001] as extended by section 26(3) of the Welsh Language Act 1993[^f00002].[^c-d74f5574534e386d76ca4f21168e4161]
 
-## 1. Citation, commencement and interpretation[^key-6a0d09c56ee7306c849ee8af94c9a0f7]
+## 1. Citation, commencement and interpretation[^c-6a0d09c56ee7306c849ee8af94c9a0f7]
 
 (1) This Order may be cited as the Police and Crime Commissioner Elections (Declaration of Acceptance of Office) Order 2012.
 
@@ -54,11 +54,11 @@ The Secretary of State makes this Order in exercise of the powers conferred by s
 
 (3) “Police area” means a police area listed in Schedule 1 to the Police Act 1996[^f00003] (police areas outside London).
 
-## 2. Form of declaration of acceptance of office: police areas in England[^key-6b770b28cef9ce84029a7f2f013446ce]
+## 2. Form of declaration of acceptance of office: police areas in England[^c-6b770b28cef9ce84029a7f2f013446ce]
 
 The declaration of acceptance of office by a person elected to the office of police and crime commissioner for any police area in England must be in the form set out in Schedule 1.
 
-## 3. Form of declaration of acceptance of office: police areas in Wales[^key-438205dc178ead2a7c7903937f6be20b]
+## 3. Form of declaration of acceptance of office: police areas in Wales[^c-438205dc178ead2a7c7903937f6be20b]
 
 The declaration of acceptance of office by a person elected to the office of police and crime commissioner for any police area in Wales must be either—
 
@@ -73,11 +73,11 @@ Home Office
 
 8th October 2012
 
-## SCHEDULE 1 — Declaration of Acceptance of Office[^key-6ed988c6b78cbad47ac8a161b9517c13]
+## SCHEDULE 1 — Declaration of Acceptance of Office[^c-6ed988c6b78cbad47ac8a161b9517c13]
 
 Article 2
 
-## SCHEDULE 2 — Datganiad ar Dderbyn Swydd[^key-4a09ea8edc449b253c1d3f3aad1e7f98]
+## SCHEDULE 2 — Datganiad ar Dderbyn Swydd[^c-4a09ea8edc449b253c1d3f3aad1e7f98]
 
 Article 3
 
@@ -99,16 +99,16 @@ Schedules 1 and 2 prescribe the form of the declaration of office in English and
 
 [^f00002]: Footnote: [1993 c. 38](https://www.legislation.gov.uk/ukpga/1993/38).
 
-[^key-d74f5574534e386d76ca4f21168e4161]: Modification: Order excluded (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [3](https://www.legislation.gov.uk/uksi/2017/470/article/3), [Sch. 2 para. 24](https://www.legislation.gov.uk/uksi/2017/470/schedule/2/paragraph/24)
+[^c-d74f5574534e386d76ca4f21168e4161]: Modification: Order excluded (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [3](https://www.legislation.gov.uk/uksi/2017/470/article/3), [Sch. 2 para. 24](https://www.legislation.gov.uk/uksi/2017/470/schedule/2/paragraph/24)
 
-[^key-6a0d09c56ee7306c849ee8af94c9a0f7]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2012/2553/article/1) in force at 15.11.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2553/article/1/2)
+[^c-6a0d09c56ee7306c849ee8af94c9a0f7]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2012/2553/article/1) in force at 15.11.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2553/article/1/2)
 
 [^f00003]: Footnote: [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16); Schedule 1 was amended by section 129 of the Police Act [1997 (c. 50)](https://www.legislation.gov.uk/ukpga/1997/50) and by [S.I. 1997/1844](https://www.legislation.gov.uk/uksi/1997/1844), [1997/1845](https://www.legislation.gov.uk/uksi/1997/1845), [1997/1846](https://www.legislation.gov.uk/uksi/1997/1846), [1997/1847](https://www.legislation.gov.uk/uksi/1997/1847), [1997/1849](https://www.legislation.gov.uk/uksi/1997/1849), [1997/1850](https://www.legislation.gov.uk/uksi/1997/1850), [1997/1855](https://www.legislation.gov.uk/uksi/1997/1855), [1997/1857](https://www.legislation.gov.uk/uksi/1997/1857) and [2009/119](https://www.legislation.gov.uk/uksi/2009/119).
 
-[^key-6b770b28cef9ce84029a7f2f013446ce]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2012/2553/article/2) in force at 15.11.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2553/article/1/2)
+[^c-6b770b28cef9ce84029a7f2f013446ce]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2012/2553/article/2) in force at 15.11.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2553/article/1/2)
 
-[^key-438205dc178ead2a7c7903937f6be20b]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2012/2553/article/3) in force at 15.11.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2553/article/1/2)
+[^c-438205dc178ead2a7c7903937f6be20b]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2012/2553/article/3) in force at 15.11.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2553/article/1/2)
 
-[^key-6ed988c6b78cbad47ac8a161b9517c13]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2012/2553/schedule/1) in force at 15.11.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2553/article/1/2)
+[^c-6ed988c6b78cbad47ac8a161b9517c13]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2012/2553/schedule/1) in force at 15.11.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2553/article/1/2)
 
-[^key-4a09ea8edc449b253c1d3f3aad1e7f98]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2012/2553/schedule/2) in force at 15.11.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2553/article/1/2)
+[^c-4a09ea8edc449b253c1d3f3aad1e7f98]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2012/2553/schedule/2) in force at 15.11.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2553/article/1/2)

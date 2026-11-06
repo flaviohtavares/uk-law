@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51A. Cash basis: interest payments on loans[^key-bcca9f3be96ec7f81cf780a89cb84c16]
+## 51A. Cash basis: interest payments on loans[^c-bcca9f3be96ec7f81cf780a89cb84c16]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bcca9f3be96ec7f81cf780a89cb84c16]: Textual amendment: [S. 51A](https://www.legislation.gov.uk/ukpga/2005/5/section/51A) omitted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 10 paras. 7(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/7/a), [47](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/47) (with [Sch. 10 paras. 48-50](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/48))
+[^c-bcca9f3be96ec7f81cf780a89cb84c16]: Textual amendment: [S. 51A](https://www.legislation.gov.uk/ukpga/2005/5/section/51A) omitted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 10 paras. 7(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/7/a), [47](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/47) (with [Sch. 10 paras. 48-50](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/48))

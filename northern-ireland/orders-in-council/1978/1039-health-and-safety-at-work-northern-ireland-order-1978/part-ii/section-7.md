@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1)[^key-fb4df3656dc3a0ed947ce3cd644ba45c][^c17534251][^c17534261][^c17534271][^c17534281][^c17534291] It shall be the duty of any person who designs, manufactures, imports or supplies any article for use at work or any article of fairground equipment —
+(1)[^c-fb4df3656dc3a0ed947ce3cd644ba45c][^c17534251][^c17534261][^c17534271][^c17534281][^c17534291] It shall be the duty of any person who designs, manufactures, imports or supplies any article for use at work or any article of fairground equipment —
 
 - (a) to ensure, so far as is reasonably practicable, that the article is so designed and constructed that it will be safe and without risks to health at all times when it is being set, used, cleaned or maintained by a person at work;
 - (b) to carry out or arrange for the carrying out of such testing and examination as may be necessary for the performance of the duty imposed on him by sub-paragraph ( *a*);
@@ -71,7 +71,7 @@ the effective supplier and not the ostensible supplier shall be treated for the 
 
 [^c17534241]: Textual amendment: mod. by SR 2000/87; 2000/120
 
-[^key-fb4df3656dc3a0ed947ce3cd644ba45c]: Modification: [Art. 7(1)](https://www.legislation.gov.uk/nisi/1978/1039/article/7/1) modified (1.1.2018) by [The Ionising Radiations Regulations (Northern Ireland) 2017 (S.R. 2017/229)](https://www.legislation.gov.uk/nisr/2017/229), [regs. 1](https://www.legislation.gov.uk/nisr/2017/229/regulation/1), [32(1)](https://www.legislation.gov.uk/nisr/2017/229/regulation/32/1) (with [reg. 41](https://www.legislation.gov.uk/nisr/2017/229/regulation/41), [Sch. 8](https://www.legislation.gov.uk/nisr/2017/229/schedule/8))
+[^c-fb4df3656dc3a0ed947ce3cd644ba45c]: Modification: [Art. 7(1)](https://www.legislation.gov.uk/nisi/1978/1039/article/7/1) modified (1.1.2018) by [The Ionising Radiations Regulations (Northern Ireland) 2017 (S.R. 2017/229)](https://www.legislation.gov.uk/nisr/2017/229), [regs. 1](https://www.legislation.gov.uk/nisr/2017/229/regulation/1), [32(1)](https://www.legislation.gov.uk/nisr/2017/229/regulation/32/1) (with [reg. 41](https://www.legislation.gov.uk/nisr/2017/229/regulation/41), [Sch. 8](https://www.legislation.gov.uk/nisr/2017/229/schedule/8))
 
 [^c17534251]: Textual amendment: enforcing authority DED for certain purposes—SR 1989/321
 

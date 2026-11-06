@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28ZC. Regulations with respect to referrals[^key-79fcda8c8d839dc96505089e23e8bd79]
+## 28ZC. Regulations with respect to referrals[^c-79fcda8c8d839dc96505089e23e8bd79]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-79fcda8c8d839dc96505089e23e8bd79]: Textual amendment: S. 28ZC omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/14)
+[^c-79fcda8c8d839dc96505089e23e8bd79]: Textual amendment: S. 28ZC omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/14)

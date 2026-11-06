@@ -26,9 +26,9 @@ Section 5
 
 #### Duty to co-operate
 
-**1.**[^c2194796][^key-19d9e99e943c0a18da60cbc26af46984] (1) It is the duty of NCA officers to co-operate with the persons listed in sub-paragraph (3) for the purpose of assisting those persons in their activities to combat crime.
+**1.**[^c2194796][^c-19d9e99e943c0a18da60cbc26af46984] (1) It is the duty of NCA officers to co-operate with the persons listed in sub-paragraph (3) for the purpose of assisting those persons in their activities to combat crime.
 
-(2)[^key-6a33720870824fa6cd85f6a5d1fc0426] It is the duty of—
+(2)[^c-6a33720870824fa6cd85f6a5d1fc0426] It is the duty of—
 
 - (a) the persons listed in sub-paragraph (3),
 - (b) members of Her Majesty's armed forces, and
@@ -47,13 +47,13 @@ to co-operate with NCA officers for the purpose of assisting NCA officers in the
 
 #### Co-operation arrangements
 
-**2.**[^key-5fc769f253da90e9f8aab96013e7312a] For the purposes of the discharge of any function of the NCA, the NCA may enter into arrangements for co-operating with other persons (in the United Kingdom or elsewhere).
+**2.**[^c-5fc769f253da90e9f8aab96013e7312a] For the purposes of the discharge of any function of the NCA, the NCA may enter into arrangements for co-operating with other persons (in the United Kingdom or elsewhere).
 
 ### Part 2 — Exchange of information
 
 #### Duty to keep NCA informed & disclose information: police forces
 
-**3.**[^c2194797][^key-a27b7449fe29e8017fae1f9282fc8a34][^key-91f77b095d56b8285c69dfa46c1c97ce] (1) The chief officers of each UK police force must keep the Director General informed of any information held by that police force which appears to the chief officer to be relevant to the exercise by the NCA of—
+**3.**[^c2194797][^c-a27b7449fe29e8017fae1f9282fc8a34][^c-91f77b095d56b8285c69dfa46c1c97ce] (1) The chief officers of each UK police force must keep the Director General informed of any information held by that police force which appears to the chief officer to be relevant to the exercise by the NCA of—
 
 - (a) the crime-reduction function,
 - (b) the criminal intelligence function, or
@@ -65,13 +65,13 @@ to co-operate with NCA officers for the purpose of assisting NCA officers in the
 
 #### Duty to keep police forces informed
 
-**4.**[^key-1adfdb8ce52577d6fe127c38fd20fbbb] (1) The Director General must keep the chief officers of each UK police force informed of any information obtained by the NCA in the exercise of any NCA function which appears to the Director General to be relevant to the exercise by that chief officer or any other member of that police force of any functions.
+**4.**[^c-1adfdb8ce52577d6fe127c38fd20fbbb] (1) The Director General must keep the chief officers of each UK police force informed of any information obtained by the NCA in the exercise of any NCA function which appears to the Director General to be relevant to the exercise by that chief officer or any other member of that police force of any functions.
 
 (2) This paragraph does not require the Director General to keep the chief officer of a police force informed of information which appears to the Director General to be information obtained (whether directly or indirectly) from that chief officer or any other member of that police force.
 
 #### Duty to keep NCA informed: government bodies
 
-**5.**[^key-0f09214055e4ba95651b1c97102cd67b] (1) Each specified body must keep the Director General informed of any information held by that body which—
+**5.**[^c-0f09214055e4ba95651b1c97102cd67b] (1) Each specified body must keep the Director General informed of any information held by that body which—
 
 - (a) is held in connection with the exercise of a relevant function of that body, and
 - (b) appears to that body to be relevant to the exercise by the NCA of—
@@ -87,13 +87,13 @@ to co-operate with NCA officers for the purpose of assisting NCA officers in the
 
 #### Duty to keep government bodies informed
 
-**6.**[^key-a060a1652e0de7546a7debb7444e3219] (1) The Director General must keep each specified body informed of any information obtained by the NCA in the exercise of any NCA function which appears to the Director General to be relevant to the exercise by that specified body of any relevant function for the purposes of carrying out activities to combat crime.
+**6.**[^c-a060a1652e0de7546a7debb7444e3219] (1) The Director General must keep each specified body informed of any information obtained by the NCA in the exercise of any NCA function which appears to the Director General to be relevant to the exercise by that specified body of any relevant function for the purposes of carrying out activities to combat crime.
 
 (2) This paragraph does not require the Director General to keep a specified body informed of information which appears to the Director General to be information obtained (whether directly or indirectly) from that body.
 
 #### Meaning of “specified body” & “relevant function”
 
-**7.**[^key-5b6b2277a4ec0aeed19248cc7eb71120] In paragraphs 5 and 6—
+**7.**[^c-5b6b2277a4ec0aeed19248cc7eb71120] In paragraphs 5 and 6—
 
 - (a) “**specified body**” means a body specified in the first column of this table;
 - (b) “**relevant function**”, in relation to such a body, means a function that falls within the functions specified in relation to that body in the second column of this table.
@@ -108,7 +108,7 @@ to co-operate with NCA officers for the purpose of assisting NCA officers in the
 
 #### Voluntary assistance by NCA: the UK, the Channel Islands & the Isle of Man
 
-**8.**[^key-297a1db3c5497c6414f0d1d110927d9f] (1) The Director General may provide assistance to—
+**8.**[^c-297a1db3c5497c6414f0d1d110927d9f] (1) The Director General may provide assistance to—
 
 - (a) a UK police force, or
 - (b) an Island police force;
@@ -133,7 +133,7 @@ if the agency requests assistance to be provided.
 
 #### Voluntary assistance to NCA: the UK
 
-**9.**[^key-7e799d83c03df2a57b1c372c8bf6fd13] (1) The chief officer of a UK police force may provide assistance to the NCA if the Director General requests assistance to be provided.
+**9.**[^c-7e799d83c03df2a57b1c372c8bf6fd13] (1) The chief officer of a UK police force may provide assistance to the NCA if the Director General requests assistance to be provided.
 
 (2) A UK law enforcement agency may provide assistance to the NCA if the Director General requests assistance to be provided.
 
@@ -148,7 +148,7 @@ if the agency requests assistance to be provided.
 
 #### Directed assistance by NCA: England and Wales police etc
 
-**10.**[^key-2225b0df127a663bcd5a4d4753d894f5] (1) The Secretary of State may direct the Director General to provide specified assistance to—
+**10.**[^c-2225b0df127a663bcd5a4d4753d894f5] (1) The Secretary of State may direct the Director General to provide specified assistance to—
 
 - (a) an England and Wales police force,
 - (b) a special police force,
@@ -165,7 +165,7 @@ if the agency requests assistance to be provided.
 
 #### Directed assistance to NCA: England and Wales police etc
 
-**11.**[^key-8fd9ba8d83d9b0fdc5d96ae127105377] (1) The Director General may direct any of the following to provide specified assistance to the NCA—
+**11.**[^c-8fd9ba8d83d9b0fdc5d96ae127105377] (1) The Director General may direct any of the following to provide specified assistance to the NCA—
 
 - (a) the chief officer of an England and Wales police force;
 - (b) the Chief Constable of the British Transport Police;
@@ -186,7 +186,7 @@ if the agency requests assistance to be provided.
 
 #### Directed assistance by NCA: Scotland
 
-**12.**[^key-1a17109602d5595afa6d99e509d13af0] (1) The Scottish Ministers may direct the Director General to provide specified assistance to the Police Service of Scotland.
+**12.**[^c-1a17109602d5595afa6d99e509d13af0] (1) The Scottish Ministers may direct the Director General to provide specified assistance to the Police Service of Scotland.
 
 (2) A direction may be given under this paragraph only if—
 
@@ -195,13 +195,13 @@ if the agency requests assistance to be provided.
 
 #### Directed assistance to NCA: Scotland
 
-**13.**[^key-4a654c459d02e13944f78290b63d615d] The Scottish Ministers may direct the chief constable of the Police Service of Scotland to provide specified assistance to the NCA if it appears to the Scottish Ministers that it is appropriate for the NCA to receive directed assistance from the chief constable.
+**13.**[^c-4a654c459d02e13944f78290b63d615d] The Scottish Ministers may direct the chief constable of the Police Service of Scotland to provide specified assistance to the NCA if it appears to the Scottish Ministers that it is appropriate for the NCA to receive directed assistance from the chief constable.
 
 #### Directed assistance by NCA: Northern Ireland
 
 *Extent: E+W+S*
 
-**14.**[^c2194798][^key-00be5eee147cc7fc3ce029cb0717e61f] (1) The Department of Justice in Northern Ireland may direct the Director General to provide specified assistance to the Police Service of Northern Ireland.
+**14.**[^c2194798][^c-00be5eee147cc7fc3ce029cb0717e61f] (1) The Department of Justice in Northern Ireland may direct the Director General to provide specified assistance to the Police Service of Northern Ireland.
 
 (2) A direction may be given under this paragraph only if—
 
@@ -212,7 +212,7 @@ if the agency requests assistance to be provided.
 
 *Extent: E+W+S*
 
-**15.**[^c2194799][^key-0a5d1644408679260814bda6b01a5dca] (1) The Department of Justice in Northern Ireland may direct the Chief Constable of the Police Service of Northern Ireland to provide specified assistance to the NCA if it appears to the Department that it is appropriate for the NCA to receive directed assistance from the Chief Constable.
+**15.**[^c2194799][^c-0a5d1644408679260814bda6b01a5dca] (1) The Department of Justice in Northern Ireland may direct the Chief Constable of the Police Service of Northern Ireland to provide specified assistance to the NCA if it appears to the Department that it is appropriate for the NCA to receive directed assistance from the Chief Constable.
 
 (2) Before giving such a direction, the Department of Justice must consult—
 
@@ -221,7 +221,7 @@ if the agency requests assistance to be provided.
 
 #### When is it appropriate for a person to receive directed assistance?
 
-**16.**[^key-4dfe6fd630e3c54ff49393b70b81cc9a] For the purposes of this Part of this Schedule, it is appropriate for a person (“R”) to receive directed assistance from another person (“P”) if—
+**16.**[^c-4dfe6fd630e3c54ff49393b70b81cc9a] For the purposes of this Part of this Schedule, it is appropriate for a person (“R”) to receive directed assistance from another person (“P”) if—
 
 - (a) R has a special need for assistance from P,
 - (b) it is expedient for P to provide the assistance, and
@@ -229,7 +229,7 @@ if the agency requests assistance to be provided.
 
 #### Voluntary or directed assistance: particular assistance that may be provided
 
-**17.**[^key-c275de596ee6410bb5e84d6fe92a734d] (1) A person may provide any of the following in response to a request for assistance, and a direction may require the provision of any of the following—
+**17.**[^c-c275de596ee6410bb5e84d6fe92a734d] (1) A person may provide any of the following in response to a request for assistance, and a direction may require the provision of any of the following—
 
 - (a) equipment;
 - (b) NCA officers (if assistance is to be provided by the Director General);
@@ -245,7 +245,7 @@ if the agency requests assistance to be provided.
 
 #### Voluntary or directed assistance: control of individuals provided for assistance
 
-**18.**[^key-5e80544bba87f04c8c0bbee21c105f94] (1) An individual who is provided under this Part of this Schedule—
+**18.**[^c-5e80544bba87f04c8c0bbee21c105f94] (1) An individual who is provided under this Part of this Schedule—
 
 - (a) to assist the NCA is, whilst so provided, under the direction and control of the Director General;
 - (b) to assist a UK police force is, whilst so provided, under the direction and control of the chief officer of the police force;
@@ -266,7 +266,7 @@ if the agency requests assistance to be provided.
 
 #### Voluntary arrangements: police forces outside London
 
-**19.**[^key-e46901a95aed21b5a77b5016b548324f] (1) The Director General and a relevant body (or both those bodies) may make arrangements for the NCA to use facilities made available by the police force maintained for a police area listed in Schedule 1 to the Police Act 1996 (police areas in England and Wales outside London).
+**19.**[^c-e46901a95aed21b5a77b5016b548324f] (1) The Director General and a relevant body (or both those bodies) may make arrangements for the NCA to use facilities made available by the police force maintained for a police area listed in Schedule 1 to the Police Act 1996 (police areas in England and Wales outside London).
 
 (2) In this paragraph “**relevant body**”, in relation to the police force maintained for a police area, means—
 
@@ -275,7 +275,7 @@ if the agency requests assistance to be provided.
 
 #### Voluntary arrangements: the metropolitan police force
 
-**20.**[^key-b33db5d07e3ebed7c28cb379dba839e4] (1) The Director General and a relevant metropolitan body (or both those bodies) may make arrangements for the NCA to use facilities made available by the metropolitan police force.
+**20.**[^c-b33db5d07e3ebed7c28cb379dba839e4] (1) The Director General and a relevant metropolitan body (or both those bodies) may make arrangements for the NCA to use facilities made available by the metropolitan police force.
 
 (2) In this paragraph “**relevant metropolitan body**” means—
 
@@ -284,11 +284,11 @@ if the agency requests assistance to be provided.
 
 #### Voluntary arrangements: the City of London police force
 
-**21.**[^key-9df56a6aca5235f3078a86384e5b59ba] The Director General and the Common Council of the City of London (in its capacity as police authority for the City of London police area) may make arrangements for the NCA to use facilities made available by the City of London police force.
+**21.**[^c-9df56a6aca5235f3078a86384e5b59ba] The Director General and the Common Council of the City of London (in its capacity as police authority for the City of London police area) may make arrangements for the NCA to use facilities made available by the City of London police force.
 
 #### Voluntary arrangements: immigration or customs facilities
 
-**22.**[^key-1227c95ba651ac8073cdaef76af2210c] (1) The Director General and the Secretary of State may make arrangements for the NCA to use immigration facilities made available by the Secretary of State.
+**22.**[^c-1227c95ba651ac8073cdaef76af2210c] (1) The Director General and the Secretary of State may make arrangements for the NCA to use immigration facilities made available by the Secretary of State.
 
 (2) The Director General and a relevant person (or both those persons) may make arrangements for the NCA to use customs premises made available by the relevant person (or both those persons).
 
@@ -304,7 +304,7 @@ if the agency requests assistance to be provided.
 
 #### Directed arrangements: England and Wales police forces
 
-**23.**[^key-5e7765826eaaf46ab5a2df630d9aa20c] (1) If it appears to the Secretary of State that—
+**23.**[^c-5e7765826eaaf46ab5a2df630d9aa20c] (1) If it appears to the Secretary of State that—
 
 - (a) it is expedient for relevant parties to make arrangements under paragraph 19, 20 or 21, and
 - (b) satisfactory arrangements cannot be made, or cannot be made in time, under that paragraph,
@@ -318,13 +318,13 @@ the Secretary of State may direct those relevant parties to make specified arran
 
 #### Voluntary arrangements: Police Service of Northern Ireland
 
-**24.**[^key-c61a8ba9377ca6ee2c02bdd6995c86f1] The Director General may make arrangements with the Northern Ireland Policing Board for the NCA to use facilities made available by the Police Service of Northern Ireland.
+**24.**[^c-c61a8ba9377ca6ee2c02bdd6995c86f1] The Director General may make arrangements with the Northern Ireland Policing Board for the NCA to use facilities made available by the Police Service of Northern Ireland.
 
 #### Directed arrangements: Police Service of Northern Ireland
 
 *Extent: E+W+S*
 
-**25.**[^c2194800][^key-b52a2833476390c4c47fed3f7f24d8cb][^key-b963b55126b2afa895574b2f9caf855e] If it appears to the Department of Justice in Northern Ireland—
+**25.**[^c2194800][^c-b52a2833476390c4c47fed3f7f24d8cb][^c-b963b55126b2afa895574b2f9caf855e] If it appears to the Department of Justice in Northern Ireland—
 
 - (a) that it is expedient for the Director General and the Northern Ireland Policing Board to make arrangements under paragraph 24, and
 - (b) that satisfactory arrangements cannot be made, or cannot be made in time, under paragraph 24,
@@ -333,27 +333,27 @@ the Department of Justice may, with the consent of the Secretary of State, direc
 
 #### Arrangements: terms, variation and termination
 
-**26.**[^c2194801][^key-ac5e215652834ccfa47623788afb247d] (1) Facility-sharing arrangements must specify or describe the facilities which are to be made available for use by the NCA under the arrangements.
+**26.**[^c2194801][^c-ac5e215652834ccfa47623788afb247d] (1) Facility-sharing arrangements must specify or describe the facilities which are to be made available for use by the NCA under the arrangements.
 
 (2) Facility-sharing arrangements may be varied or terminated by the parties.
 
 (3) But the arrangements may not be terminated without the consent of—
 
 - (a) the Secretary of State (if the arrangements have been made in compliance with a direction by the Secretary of State), or
-- (b)[^key-1d3ea18796476e4d05995e1cdaef6d6b] the Department of Justice in Northern Ireland (if the arrangements have been made in compliance with a direction by that Department).
+- (b)[^c-1d3ea18796476e4d05995e1cdaef6d6b] the Department of Justice in Northern Ireland (if the arrangements have been made in compliance with a direction by that Department).
 
 (4) In this paragraph “**facility-sharing arrangements**” means arrangements under any other provision of this Part of this Schedule.
 
 #### Consultation before direction
 
-**27.**[^key-6d663b944ee8038111e8b552211091c2] Before a person (“D”) gives a direction under this Part of this Schedule to another person (“P”), D must—
+**27.**[^c-6d663b944ee8038111e8b552211091c2] Before a person (“D”) gives a direction under this Part of this Schedule to another person (“P”), D must—
 
 - (a) notify P of the proposal to give the direction, and
 - (b) consider any representations made by P.
 
 #### Facilities
 
-**28.**[^key-a8345259fe83fb8be5cdd6a902ff18ca] In this Part of this Schedule “**facilities**” means—
+**28.**[^c-a8345259fe83fb8be5cdd6a902ff18ca] In this Part of this Schedule “**facilities**” means—
 
 - (a) premises,
 - (b) equipment, and
@@ -363,7 +363,7 @@ the Department of Justice may, with the consent of the Secretary of State, direc
 
 #### Payments by Director General
 
-**29.**[^key-3090aa3f783929c04a2037595835b52a] (1) The Director General must pay the appropriate amount to the fundholding body for a UK police force if—
+**29.**[^c-3090aa3f783929c04a2037595835b52a] (1) The Director General must pay the appropriate amount to the fundholding body for a UK police force if—
 
 - (a) the chief officer of that police force performs a task—
   - (i) in response to a request under section 5, or
@@ -383,7 +383,7 @@ the Department of Justice may, with the consent of the Secretary of State, direc
 
 #### Payments by police
 
-**30.**[^key-68fd2dd6e8a24ab0808d7b9feca68bb8] The fundholding body for a UK police force must pay the appropriate amount to the Director General if—
+**30.**[^c-68fd2dd6e8a24ab0808d7b9feca68bb8] The fundholding body for a UK police force must pay the appropriate amount to the Director General if—
 
 - (a) the Director General performs a task in response to a request by the chief officer of that police force under section 5; or
 - (b) the Director General provides that police force with assistance—
@@ -392,7 +392,7 @@ the Department of Justice may, with the consent of the Secretary of State, direc
 
 #### Payments by law enforcement agencies
 
-**31.**[^key-79d30d0b8aaa4f61e79f2c6a7f11f46f] A UK law enforcement agency must pay the appropriate amount to the Director General if—
+**31.**[^c-79d30d0b8aaa4f61e79f2c6a7f11f46f] A UK law enforcement agency must pay the appropriate amount to the Director General if—
 
 - (a) the Director General performs a task in response to a request by that agency under section 5; or
 - (b) the Director General provides that agency with assistance—
@@ -401,7 +401,7 @@ the Department of Justice may, with the consent of the Secretary of State, direc
 
 #### The “appropriate amount”
 
-**32.**[^key-30debcb7d8d14dfd23978aedac364a71] (1) In any provision of this Part of this Schedule which requires one person (“R”) to pay the appropriate amount to another person (“P”), “**appropriate amount**” means—
+**32.**[^c-30debcb7d8d14dfd23978aedac364a71] (1) In any provision of this Part of this Schedule which requires one person (“R”) to pay the appropriate amount to another person (“P”), “**appropriate amount**” means—
 
 - (a) such amount as may be agreed between R and P, or
 - (b) in the absence of agreement, such amount as may be determined by the Secretary of State.
@@ -425,7 +425,7 @@ the Department of Justice may, with the consent of the Secretary of State, direc
 
 #### Directed tasking or assistance: power to amend those who may be directed
 
-**33.**[^key-881304ebf029a46a6af7ec45e158af0b] (1) The Secretary of State may, by order, amend section 5 or paragraph 11 of this Schedule by making any of the following kinds of provision—
+**33.**[^c-881304ebf029a46a6af7ec45e158af0b] (1) The Secretary of State may, by order, amend section 5 or paragraph 11 of this Schedule by making any of the following kinds of provision—
 
 - (a) provision adding a person or category of persons to the relevant list;
 - (b) provision imposing on the Director General a requirement to obtain the consent of one or more persons before giving a direction to—
@@ -451,7 +451,7 @@ the Department of Justice may, with the consent of the Secretary of State, direc
 
 #### Duty to provide information etc: power to amend specified bodies etc
 
-**34.**[^key-4f56df5673dd73d9b62cc71455f4a1cd] (1) The Secretary of State may, by order, amend paragraph 7 of this Schedule by making any of the following kinds of provision—
+**34.**[^c-4f56df5673dd73d9b62cc71455f4a1cd] (1) The Secretary of State may, by order, amend paragraph 7 of this Schedule by making any of the following kinds of provision—
 
 - (a) provision adding a person to the specified bodies in the relevant table;
 - (b) provision specifying in the relevant table one or more relevant functions in relation to—
@@ -470,13 +470,13 @@ the Department of Justice may, with the consent of the Secretary of State, direc
 
 #### Directions
 
-**35.**[^key-a5a390a781136d65ac09ae8d0959bd20] (1) A person given a direction under this Schedule must comply with it.
+**35.**[^c-a5a390a781136d65ac09ae8d0959bd20] (1) A person given a direction under this Schedule must comply with it.
 
 (2) A direction under this Schedule may not relate to the prosecution functions of any person.
 
 #### Interpretation
 
-**36.**[^key-b02f5708dd685489de585c1b8c1e95cd] In this Schedule—
+**36.**[^c-b02f5708dd685489de585c1b8c1e95cd] In this Schedule—
 
 - “**fundholding body**” means—
   - (a) the policing body (in relation to any UK police force other than the Police Service of Northern Ireland);
@@ -487,92 +487,92 @@ the Department of Justice may, with the consent of the Secretary of State, direc
 
 [^c2194796]: Extent: Sch. 3 para. 1(2): "the relevant NCA provisions" as specified in the table in Sch. 24 para. 9, and to the extent there specified, do not extend to Northern Ireland, see Sch. 24 paras. 1, 2
 
-[^key-19d9e99e943c0a18da60cbc26af46984]: Commencement: Sch. 3 para. 1 in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/g)
+[^c-19d9e99e943c0a18da60cbc26af46984]: Commencement: Sch. 3 para. 1 in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/g)
 
-[^key-6a33720870824fa6cd85f6a5d1fc0426]: Extent: Sch. 3 para. 1(2) extended (N.I.) (19.5.2015) by [The Crime and Courts Act 2013 (National Crime Agency and Proceeds of Crime) (Northern Ireland) Order 2015 (S.I. 2015/798)](https://www.legislation.gov.uk/uksi/2015/798), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/798/article/1/3), [4(1)(b)(i)](https://www.legislation.gov.uk/uksi/2015/798/article/4/1/b/i)
+[^c-6a33720870824fa6cd85f6a5d1fc0426]: Extent: Sch. 3 para. 1(2) extended (N.I.) (19.5.2015) by [The Crime and Courts Act 2013 (National Crime Agency and Proceeds of Crime) (Northern Ireland) Order 2015 (S.I. 2015/798)](https://www.legislation.gov.uk/uksi/2015/798), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/798/article/1/3), [4(1)(b)(i)](https://www.legislation.gov.uk/uksi/2015/798/article/4/1/b/i)
 
-[^key-5fc769f253da90e9f8aab96013e7312a]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2013/22/schedule/3/paragraph/2) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/g)
+[^c-5fc769f253da90e9f8aab96013e7312a]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2013/22/schedule/3/paragraph/2) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/g)
 
 [^c2194797]: Extent: Sch. 3 para. 3: "the relevant NCA provisions" as specified in the table in Sch. 24 para. 9, and to the extent there specified, do not extend to Northern Ireland, see Sch. 24 paras. 1, 2
 
-[^key-a27b7449fe29e8017fae1f9282fc8a34]: Commencement: Sch. 3 para. 3 in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/g)
+[^c-a27b7449fe29e8017fae1f9282fc8a34]: Commencement: Sch. 3 para. 3 in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/g)
 
-[^key-91f77b095d56b8285c69dfa46c1c97ce]: Extent: Sch. 3 para. 3 extended (N.I.) (19.5.2015) by [The Crime and Courts Act 2013 (National Crime Agency and Proceeds of Crime) (Northern Ireland) Order 2015 (S.I. 2015/798)](https://www.legislation.gov.uk/uksi/2015/798), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/798/article/1/3), [4(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2015/798/article/4/1/b/ii)
+[^c-91f77b095d56b8285c69dfa46c1c97ce]: Extent: Sch. 3 para. 3 extended (N.I.) (19.5.2015) by [The Crime and Courts Act 2013 (National Crime Agency and Proceeds of Crime) (Northern Ireland) Order 2015 (S.I. 2015/798)](https://www.legislation.gov.uk/uksi/2015/798), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/798/article/1/3), [4(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2015/798/article/4/1/b/ii)
 
-[^key-1adfdb8ce52577d6fe127c38fd20fbbb]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2013/22/schedule/3/paragraph/4) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/g)
+[^c-1adfdb8ce52577d6fe127c38fd20fbbb]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2013/22/schedule/3/paragraph/4) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/g)
 
-[^key-0f09214055e4ba95651b1c97102cd67b]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2013/22/schedule/3/paragraph/5) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/g)
+[^c-0f09214055e4ba95651b1c97102cd67b]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2013/22/schedule/3/paragraph/5) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/g)
 
-[^key-a060a1652e0de7546a7debb7444e3219]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2013/22/schedule/3/paragraph/6) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/g)
+[^c-a060a1652e0de7546a7debb7444e3219]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2013/22/schedule/3/paragraph/6) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/g)
 
-[^key-5b6b2277a4ec0aeed19248cc7eb71120]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2013/22/schedule/3/paragraph/7) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/g)
+[^c-5b6b2277a4ec0aeed19248cc7eb71120]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2013/22/schedule/3/paragraph/7) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/g)
 
-[^key-297a1db3c5497c6414f0d1d110927d9f]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2013/22/schedule/3/paragraph/8) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/g)
+[^c-297a1db3c5497c6414f0d1d110927d9f]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2013/22/schedule/3/paragraph/8) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/g)
 
-[^key-7e799d83c03df2a57b1c372c8bf6fd13]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2013/22/schedule/3/paragraph/9) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/g)
+[^c-7e799d83c03df2a57b1c372c8bf6fd13]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2013/22/schedule/3/paragraph/9) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/g)
 
-[^key-2225b0df127a663bcd5a4d4753d894f5]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/2013/22/schedule/3/paragraph/10) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/g)
+[^c-2225b0df127a663bcd5a4d4753d894f5]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/2013/22/schedule/3/paragraph/10) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/g)
 
-[^key-8fd9ba8d83d9b0fdc5d96ae127105377]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/ukpga/2013/22/schedule/3/paragraph/11) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/g)
+[^c-8fd9ba8d83d9b0fdc5d96ae127105377]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/ukpga/2013/22/schedule/3/paragraph/11) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/g)
 
-[^key-1a17109602d5595afa6d99e509d13af0]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/ukpga/2013/22/schedule/3/paragraph/12) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/g)
+[^c-1a17109602d5595afa6d99e509d13af0]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/ukpga/2013/22/schedule/3/paragraph/12) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/g)
 
-[^key-4a654c459d02e13944f78290b63d615d]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/ukpga/2013/22/schedule/3/paragraph/13) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/g)
+[^c-4a654c459d02e13944f78290b63d615d]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/ukpga/2013/22/schedule/3/paragraph/13) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/g)
 
 [^c2194798]: Extent: [Sch. 3 para. 14](https://www.legislation.gov.uk/ukpga/2013/22/schedule/3/paragraph/14): "the relevant NCA provisions" as specified in the table in Sch. 24 para. 9, and to the extent there specified, do not extend to Northern Ireland, see [Sch. 24 paras. 1](https://www.legislation.gov.uk/ukpga/2013/22/schedule/24/paragraph/1), [2](https://www.legislation.gov.uk/ukpga/2013/22/schedule/24/paragraph/2)
 
-[^key-00be5eee147cc7fc3ce029cb0717e61f]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/ukpga/2013/22/schedule/3/paragraph/14) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/g)
+[^c-00be5eee147cc7fc3ce029cb0717e61f]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/ukpga/2013/22/schedule/3/paragraph/14) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/g)
 
 [^c2194799]: Extent: [Sch. 3 para. 15](https://www.legislation.gov.uk/ukpga/2013/22/schedule/3/paragraph/15): "the relevant NCA provisions" as specified in the table in Sch. 24 para. 9, and to the extent there specified, do not extend to Northern Ireland, see [Sch. 24 paras. 1](https://www.legislation.gov.uk/ukpga/2013/22/schedule/24/paragraph/1), [2](https://www.legislation.gov.uk/ukpga/2013/22/schedule/24/paragraph/2)
 
-[^key-0a5d1644408679260814bda6b01a5dca]: Commencement: [Sch. 3 para. 15](https://www.legislation.gov.uk/ukpga/2013/22/schedule/3/paragraph/15) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/g)
+[^c-0a5d1644408679260814bda6b01a5dca]: Commencement: [Sch. 3 para. 15](https://www.legislation.gov.uk/ukpga/2013/22/schedule/3/paragraph/15) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/g)
 
-[^key-4dfe6fd630e3c54ff49393b70b81cc9a]: Commencement: [Sch. 3 para. 16](https://www.legislation.gov.uk/ukpga/2013/22/schedule/3/paragraph/16) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/g)
+[^c-4dfe6fd630e3c54ff49393b70b81cc9a]: Commencement: [Sch. 3 para. 16](https://www.legislation.gov.uk/ukpga/2013/22/schedule/3/paragraph/16) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/g)
 
-[^key-c275de596ee6410bb5e84d6fe92a734d]: Commencement: [Sch. 3 para. 17](https://www.legislation.gov.uk/ukpga/2013/22/schedule/3/paragraph/17) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/g)
+[^c-c275de596ee6410bb5e84d6fe92a734d]: Commencement: [Sch. 3 para. 17](https://www.legislation.gov.uk/ukpga/2013/22/schedule/3/paragraph/17) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/g)
 
-[^key-5e80544bba87f04c8c0bbee21c105f94]: Commencement: [Sch. 3 para. 18](https://www.legislation.gov.uk/ukpga/2013/22/schedule/3/paragraph/18) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/g)
+[^c-5e80544bba87f04c8c0bbee21c105f94]: Commencement: [Sch. 3 para. 18](https://www.legislation.gov.uk/ukpga/2013/22/schedule/3/paragraph/18) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/g)
 
-[^key-e46901a95aed21b5a77b5016b548324f]: Commencement: [Sch. 3 para. 19](https://www.legislation.gov.uk/ukpga/2013/22/schedule/3/paragraph/19) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/g)
+[^c-e46901a95aed21b5a77b5016b548324f]: Commencement: [Sch. 3 para. 19](https://www.legislation.gov.uk/ukpga/2013/22/schedule/3/paragraph/19) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/g)
 
-[^key-b33db5d07e3ebed7c28cb379dba839e4]: Commencement: [Sch. 3 para. 20](https://www.legislation.gov.uk/ukpga/2013/22/schedule/3/paragraph/20) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/g)
+[^c-b33db5d07e3ebed7c28cb379dba839e4]: Commencement: [Sch. 3 para. 20](https://www.legislation.gov.uk/ukpga/2013/22/schedule/3/paragraph/20) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/g)
 
-[^key-9df56a6aca5235f3078a86384e5b59ba]: Commencement: [Sch. 3 para. 21](https://www.legislation.gov.uk/ukpga/2013/22/schedule/3/paragraph/21) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/g)
+[^c-9df56a6aca5235f3078a86384e5b59ba]: Commencement: [Sch. 3 para. 21](https://www.legislation.gov.uk/ukpga/2013/22/schedule/3/paragraph/21) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/g)
 
-[^key-1227c95ba651ac8073cdaef76af2210c]: Commencement: [Sch. 3 para. 22](https://www.legislation.gov.uk/ukpga/2013/22/schedule/3/paragraph/22) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/g)
+[^c-1227c95ba651ac8073cdaef76af2210c]: Commencement: [Sch. 3 para. 22](https://www.legislation.gov.uk/ukpga/2013/22/schedule/3/paragraph/22) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/g)
 
-[^key-5e7765826eaaf46ab5a2df630d9aa20c]: Commencement: [Sch. 3 para. 23](https://www.legislation.gov.uk/ukpga/2013/22/schedule/3/paragraph/23) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/g)
+[^c-5e7765826eaaf46ab5a2df630d9aa20c]: Commencement: [Sch. 3 para. 23](https://www.legislation.gov.uk/ukpga/2013/22/schedule/3/paragraph/23) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/g)
 
-[^key-c61a8ba9377ca6ee2c02bdd6995c86f1]: Commencement: [Sch. 3 para. 24](https://www.legislation.gov.uk/ukpga/2013/22/schedule/3/paragraph/24) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/g)
+[^c-c61a8ba9377ca6ee2c02bdd6995c86f1]: Commencement: [Sch. 3 para. 24](https://www.legislation.gov.uk/ukpga/2013/22/schedule/3/paragraph/24) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/g)
 
 [^c2194800]: Extent: Sch. 3 para. 25: "the relevant NCA provisions" as specified in the table in Sch. 24 para. 9, and to the extent there specified, do not extend to Northern Ireland, see Sch. 24 paras. 1, 2
 
-[^key-b52a2833476390c4c47fed3f7f24d8cb]: Commencement: Sch. 3 para. 25 in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/g)
+[^c-b52a2833476390c4c47fed3f7f24d8cb]: Commencement: Sch. 3 para. 25 in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/g)
 
-[^key-b963b55126b2afa895574b2f9caf855e]: Extent: Sch. 3 para. 25 extended (N.I.) (19.5.2015) by [The Crime and Courts Act 2013 (National Crime Agency and Proceeds of Crime) (Northern Ireland) Order 2015 (S.I. 2015/798)](https://www.legislation.gov.uk/uksi/2015/798), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/798/article/1/3), [4(1)(b)(iii)](https://www.legislation.gov.uk/uksi/2015/798/article/4/1/b/iii)
+[^c-b963b55126b2afa895574b2f9caf855e]: Extent: Sch. 3 para. 25 extended (N.I.) (19.5.2015) by [The Crime and Courts Act 2013 (National Crime Agency and Proceeds of Crime) (Northern Ireland) Order 2015 (S.I. 2015/798)](https://www.legislation.gov.uk/uksi/2015/798), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/798/article/1/3), [4(1)(b)(iii)](https://www.legislation.gov.uk/uksi/2015/798/article/4/1/b/iii)
 
 [^c2194801]: Extent: Sch. 3 para. 26(3)(b): "the relevant NCA provisions" as specified in the table in Sch. 24 para. 9, and to the extent there specified, do not extend to Northern Ireland, see Sch. 24 paras. 1, 2
 
-[^key-ac5e215652834ccfa47623788afb247d]: Commencement: Sch. 3 para. 26 in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/g)
+[^c-ac5e215652834ccfa47623788afb247d]: Commencement: Sch. 3 para. 26 in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/g)
 
-[^key-1d3ea18796476e4d05995e1cdaef6d6b]: Extent: Sch. 3 para. 26(3)(b) extended (N.I.) (19.5.2015) by [The Crime and Courts Act 2013 (National Crime Agency and Proceeds of Crime) (Northern Ireland) Order 2015 (S.I. 2015/798)](https://www.legislation.gov.uk/uksi/2015/798), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/798/article/1/3), [4(1)(b)(iv)](https://www.legislation.gov.uk/uksi/2015/798/article/4/1/b/iv)
+[^c-1d3ea18796476e4d05995e1cdaef6d6b]: Extent: Sch. 3 para. 26(3)(b) extended (N.I.) (19.5.2015) by [The Crime and Courts Act 2013 (National Crime Agency and Proceeds of Crime) (Northern Ireland) Order 2015 (S.I. 2015/798)](https://www.legislation.gov.uk/uksi/2015/798), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/798/article/1/3), [4(1)(b)(iv)](https://www.legislation.gov.uk/uksi/2015/798/article/4/1/b/iv)
 
-[^key-6d663b944ee8038111e8b552211091c2]: Commencement: [Sch. 3 para. 27](https://www.legislation.gov.uk/ukpga/2013/22/schedule/3/paragraph/27) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/g)
+[^c-6d663b944ee8038111e8b552211091c2]: Commencement: [Sch. 3 para. 27](https://www.legislation.gov.uk/ukpga/2013/22/schedule/3/paragraph/27) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/g)
 
-[^key-a8345259fe83fb8be5cdd6a902ff18ca]: Commencement: [Sch. 3 para. 28](https://www.legislation.gov.uk/ukpga/2013/22/schedule/3/paragraph/28) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/g)
+[^c-a8345259fe83fb8be5cdd6a902ff18ca]: Commencement: [Sch. 3 para. 28](https://www.legislation.gov.uk/ukpga/2013/22/schedule/3/paragraph/28) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/g)
 
-[^key-3090aa3f783929c04a2037595835b52a]: Commencement: [Sch. 3 para. 29](https://www.legislation.gov.uk/ukpga/2013/22/schedule/3/paragraph/29) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/g)
+[^c-3090aa3f783929c04a2037595835b52a]: Commencement: [Sch. 3 para. 29](https://www.legislation.gov.uk/ukpga/2013/22/schedule/3/paragraph/29) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/g)
 
-[^key-68fd2dd6e8a24ab0808d7b9feca68bb8]: Commencement: [Sch. 3 para. 30](https://www.legislation.gov.uk/ukpga/2013/22/schedule/3/paragraph/30) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/g)
+[^c-68fd2dd6e8a24ab0808d7b9feca68bb8]: Commencement: [Sch. 3 para. 30](https://www.legislation.gov.uk/ukpga/2013/22/schedule/3/paragraph/30) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/g)
 
-[^key-79d30d0b8aaa4f61e79f2c6a7f11f46f]: Commencement: [Sch. 3 para. 31](https://www.legislation.gov.uk/ukpga/2013/22/schedule/3/paragraph/31) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/g)
+[^c-79d30d0b8aaa4f61e79f2c6a7f11f46f]: Commencement: [Sch. 3 para. 31](https://www.legislation.gov.uk/ukpga/2013/22/schedule/3/paragraph/31) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/g)
 
-[^key-30debcb7d8d14dfd23978aedac364a71]: Commencement: [Sch. 3 para. 32](https://www.legislation.gov.uk/ukpga/2013/22/schedule/3/paragraph/32) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/g)
+[^c-30debcb7d8d14dfd23978aedac364a71]: Commencement: [Sch. 3 para. 32](https://www.legislation.gov.uk/ukpga/2013/22/schedule/3/paragraph/32) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/g)
 
-[^key-881304ebf029a46a6af7ec45e158af0b]: Commencement: [Sch. 3 para. 33](https://www.legislation.gov.uk/ukpga/2013/22/schedule/3/paragraph/33) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/g)
+[^c-881304ebf029a46a6af7ec45e158af0b]: Commencement: [Sch. 3 para. 33](https://www.legislation.gov.uk/ukpga/2013/22/schedule/3/paragraph/33) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/g)
 
-[^key-4f56df5673dd73d9b62cc71455f4a1cd]: Commencement: [Sch. 3 para. 34](https://www.legislation.gov.uk/ukpga/2013/22/schedule/3/paragraph/34) in force at 8.5.2013 by [S.I. 2013/1042](https://www.legislation.gov.uk/uksi/2013/1042), [art. 2(j)](https://www.legislation.gov.uk/uksi/2013/1042/article/2/j)
+[^c-4f56df5673dd73d9b62cc71455f4a1cd]: Commencement: [Sch. 3 para. 34](https://www.legislation.gov.uk/ukpga/2013/22/schedule/3/paragraph/34) in force at 8.5.2013 by [S.I. 2013/1042](https://www.legislation.gov.uk/uksi/2013/1042), [art. 2(j)](https://www.legislation.gov.uk/uksi/2013/1042/article/2/j)
 
-[^key-a5a390a781136d65ac09ae8d0959bd20]: Commencement: [Sch. 3 para. 35](https://www.legislation.gov.uk/ukpga/2013/22/schedule/3/paragraph/35) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/g)
+[^c-a5a390a781136d65ac09ae8d0959bd20]: Commencement: [Sch. 3 para. 35](https://www.legislation.gov.uk/ukpga/2013/22/schedule/3/paragraph/35) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/g)
 
-[^key-b02f5708dd685489de585c1b8c1e95cd]: Commencement: [Sch. 3 para. 36](https://www.legislation.gov.uk/ukpga/2013/22/schedule/3/paragraph/36) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/g)
+[^c-b02f5708dd685489de585c1b8c1e95cd]: Commencement: [Sch. 3 para. 36](https://www.legislation.gov.uk/ukpga/2013/22/schedule/3/paragraph/36) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/g)

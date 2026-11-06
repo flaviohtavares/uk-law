@@ -71,7 +71,7 @@ Done at Brussels, 19 December 2016.
 
 Jean-Claude Juncker
 
-## ANNEX[^key-f081ce6f8cedf5150ce6e7ad31a75ef9]
+## ANNEX[^c-f081ce6f8cedf5150ce6e7ad31a75ef9]
 
 [image: see source](https://www.legislation.gov.uk/eudn/2016/2324/images/eudn_20162324_2016-12-19_en_001)
 
@@ -79,4 +79,4 @@ Jean-Claude Juncker
 
 [^f00001]: Footnote: [OJ L 330, 10.12.2013, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2013.330.01.0001.01.ENG).
 
-[^key-f081ce6f8cedf5150ce6e7ad31a75ef9]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eudn/2016/2324/annex) "United Kingdom list" substituted for "European List" (31.12.2020) by [The Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/277)](https://www.legislation.gov.uk/uksi/2019/277), [regs. 1](https://www.legislation.gov.uk/uksi/2019/277/regulation/1), [9(2)](https://www.legislation.gov.uk/uksi/2019/277/regulation/9/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f081ce6f8cedf5150ce6e7ad31a75ef9]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eudn/2016/2324/annex) "United Kingdom list" substituted for "European List" (31.12.2020) by [The Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/277)](https://www.legislation.gov.uk/uksi/2019/277), [regs. 1](https://www.legislation.gov.uk/uksi/2019/277/regulation/1), [9(2)](https://www.legislation.gov.uk/uksi/2019/277/regulation/9/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 75. Power to disclose information about complaints: relevant professional organisations[^key-c5cd9cf6717bf016833873de1901ff71]
+## 75. Power to disclose information about complaints: relevant professional organisations[^c-c5cd9cf6717bf016833873de1901ff71]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c5cd9cf6717bf016833873de1901ff71]: Commencement: S. 75 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-c5cd9cf6717bf016833873de1901ff71]: Commencement: S. 75 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)

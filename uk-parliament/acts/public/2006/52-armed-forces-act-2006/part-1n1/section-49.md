@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Air Navigation Order offences[^key-2fe3b6e46cabe01b4d35671083454cfc][^key-0143ddd6591ac6af1c5e2297741a48fe]
+## 49. Air Navigation Order offences[^c-2fe3b6e46cabe01b4d35671083454cfc][^c-0143ddd6591ac6af1c5e2297741a48fe]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2fe3b6e46cabe01b4d35671083454cfc]: Commencement: S. 49 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-2fe3b6e46cabe01b4d35671083454cfc]: Commencement: S. 49 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-0143ddd6591ac6af1c5e2297741a48fe]: Commencement: S. 49 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-0143ddd6591ac6af1c5e2297741a48fe]: Commencement: S. 49 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

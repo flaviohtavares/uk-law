@@ -68,7 +68,7 @@ Section 6
 - (a) in relation to the impairment of a person's sight, to the extent that the impairment is, in the person's case, correctable by spectacles or contact lenses or in such other ways as may be prescribed;
 - (b) in relation to such other impairments as may be prescribed, in such circumstances as are prescribed.
 
-#### Normal day-to-day activities[^key-6e8b8b12483831dda72092afea73fcce]
+#### Normal day-to-day activities[^c-6e8b8b12483831dda72092afea73fcce]
 
 **5A.** (1) This paragraph has effect for the purposes of the application to the protected characteristic of disability of—
 
@@ -189,7 +189,7 @@ Section 6
 
 [^c21153511]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2010/15/schedule/1/paragraph/5) wholly in force at 1.10.2010; [para. 5](https://www.legislation.gov.uk/ukpga/2010/15/paragraph/5) not in force at Royal Assent see [s. 216](https://www.legislation.gov.uk/ukpga/2010/15/section/216); [para. 5](https://www.legislation.gov.uk/ukpga/2010/15/paragraph/5) in force for certain purposes at 6.7.2010 by [S.I. 2010/1736](https://www.legislation.gov.uk/uksi/2010/1736), [art. 2](https://www.legislation.gov.uk/uksi/2010/1736/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2010/1736/schedule); [Sch. 1](https://www.legislation.gov.uk/ukpga/2010/15/schedule/1) in force at 1.10.2010 in so far as not already in force by [S.I. 2010/2317](https://www.legislation.gov.uk/uksi/2010/2317), [art. 2(1)(2)(g)](https://www.legislation.gov.uk/uksi/2010/2317/article/2/1/2/g) (with [art. 15](https://www.legislation.gov.uk/uksi/2010/2317/article/15))
 
-[^key-6e8b8b12483831dda72092afea73fcce]: Textual amendment: [Sch. 1 para. 5A](https://www.legislation.gov.uk/ukpga/2010/15/schedule/1/paragraph/5A) and cross-heading inserted (1.1.2024) by [The Equality Act 2010 (Amendment) Regulations 2023 (S.I. 2023/1425)](https://www.legislation.gov.uk/uksi/2023/1425), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1425/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2023/1425/regulation/6)
+[^c-6e8b8b12483831dda72092afea73fcce]: Textual amendment: [Sch. 1 para. 5A](https://www.legislation.gov.uk/ukpga/2010/15/schedule/1/paragraph/5A) and cross-heading inserted (1.1.2024) by [The Equality Act 2010 (Amendment) Regulations 2023 (S.I. 2023/1425)](https://www.legislation.gov.uk/uksi/2023/1425), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1425/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2023/1425/regulation/6)
 
 [^c21153521]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2010/15/schedule/1/paragraph/7) wholly in force at 1.10.2010; [para. 7](https://www.legislation.gov.uk/ukpga/2010/15/paragraph/7) not in force at Royal Assent see [s. 216](https://www.legislation.gov.uk/ukpga/2010/15/section/216); [para. 7](https://www.legislation.gov.uk/ukpga/2010/15/paragraph/7) in force for certain purposes at 6.7.2010 by [S.I. 2010/1736](https://www.legislation.gov.uk/uksi/2010/1736), [art. 2](https://www.legislation.gov.uk/uksi/2010/1736/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2010/1736/schedule); [Sch. 1](https://www.legislation.gov.uk/ukpga/2010/15/schedule/1) in force at 1.10.2010 in so far as not already in force by [S.I. 2010/2317](https://www.legislation.gov.uk/uksi/2010/2317), [art. 2(1)(2)(g)](https://www.legislation.gov.uk/uksi/2010/2317/article/2/1/2/g) (with [art. 15](https://www.legislation.gov.uk/uksi/2010/2317/article/15))
 

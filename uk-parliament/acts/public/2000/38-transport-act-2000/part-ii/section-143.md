@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 143. Power to obtain information about local services.[^c14881201][^key-d236b2a239992040336cae0951f6908e][^key-c05adb8597f2acc398b3fefbd54794ff]
+## 143. Power to obtain information about local services.[^c14881201][^c-d236b2a239992040336cae0951f6908e][^c-c05adb8597f2acc398b3fefbd54794ff]
 
 *Extent: E+W*
 
@@ -50,9 +50,9 @@ shall be disclosed during the lifetime of the individual or while the business c
 
 [^c14881201]: Commencement: S. 143 wholly in force at 1.8.2001; s. 143 not in force at Royal Assent see s. 275(1)(2); s. 143 in force (E.) at 1.2.2001 by [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(2)](https://www.legislation.gov.uk/uksi/2001/57/article/3/2), [Sch. 3 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/3/part/I) (subject to the savings in [Sch. 3 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/3/part/II)); s. 143 in force (W.) at 1.8.2001 by [S.I. 2001/2788](https://www.legislation.gov.uk/uksi/2001/2788), [art. 2](https://www.legislation.gov.uk/uksi/2001/2788/article/2), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2001/2788/schedule/1/paragraph/4)
 
-[^key-d236b2a239992040336cae0951f6908e]: Modification: Ss. 138A-143B: functions transferred (E.) (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [15(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/15/2)
+[^c-d236b2a239992040336cae0951f6908e]: Modification: Ss. 138A-143B: functions transferred (E.) (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [15(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/15/2)
 
-[^key-c05adb8597f2acc398b3fefbd54794ff]: Modification: Ss. 112-159: transfer of functions (5.2.2025) by [The Hull and East Yorkshire Combined Authority Order 2025 (S.I. 2025/113)](https://www.legislation.gov.uk/uksi/2025/113), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/113/article/1/2), [7](https://www.legislation.gov.uk/uksi/2025/113/article/7)
+[^c-c05adb8597f2acc398b3fefbd54794ff]: Modification: Ss. 112-159: transfer of functions (5.2.2025) by [The Hull and East Yorkshire Combined Authority Order 2025 (S.I. 2025/113)](https://www.legislation.gov.uk/uksi/2025/113), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/113/article/1/2), [7](https://www.legislation.gov.uk/uksi/2025/113/article/7)
 
 [^c14881211]: Modification: S. 143(5)(b): Disclosure powers extended (14.12.2001) by [2001 c. 24](https://www.legislation.gov.uk/ukpga/2001/24), [ss. 17](https://www.legislation.gov.uk/ukpga/2001/24/section/17), [127(2)(a)](https://www.legislation.gov.uk/ukpga/2001/24/section/127/2/a), [Sch. 4 Pt. I para. 53(1)](https://www.legislation.gov.uk/ukpga/2001/24/schedule/4/part/I/paragraph/53/1)
 

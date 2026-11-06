@@ -81,7 +81,7 @@ The Secretary of State [^M_F_eb6e0820-0562-4398-8001-ee5bc2de14cd][^c24162771], 
 - [Section 16 — Making economic resources available for benefit of designated persons](part-3/section-16.md)
 - [Section 17 — Circumventing etc. prohibitions](part-3/section-17.md)
 
-### PART 3A — Director disqualification sanctions[^key-901862bb12a43415edbc152521b8f666]
+### PART 3A — Director disqualification sanctions[^c-901862bb12a43415edbc152521b8f666]
 
 - [Section 17A — Director disqualification sanctions](part-3a/section-17a.md)
 
@@ -241,4 +241,4 @@ An Impact Assessment has not been produced for these Regulations, as they are in
 
 [^c24162781]: Marginal citation: [2018 c.13](https://www.legislation.gov.uk/ukpga/2018/13).
 
-[^key-901862bb12a43415edbc152521b8f666]: Textual amendment: Pt. 3A inserted (5.6.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/644)](https://www.legislation.gov.uk/uksi/2024/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/1/2), [9(4)](https://www.legislation.gov.uk/uksi/2024/644/regulation/9/4)
+[^c-901862bb12a43415edbc152521b8f666]: Textual amendment: Pt. 3A inserted (5.6.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/644)](https://www.legislation.gov.uk/uksi/2024/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/1/2), [9(4)](https://www.legislation.gov.uk/uksi/2024/644/regulation/9/4)

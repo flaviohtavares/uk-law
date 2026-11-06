@@ -50,11 +50,11 @@ The Secretary of State for Transport makes this Order in exercise of the powers 
 
 The Secretary of State is a Minister designated for the purposes of section 2(2) of the European Communities Act 1972 in relation to port security, measures relating to the safety of ships and the health and safety of persons on them, and maritime transport[^f00002].
 
-## 1. Citation and commencement[^key-845368025b72b4605c68143a8719f334]
+## 1. Citation and commencement[^c-845368025b72b4605c68143a8719f334]
 
 This Order may be cited as the Port Security (Port of Shoreham) Designation Order 2013 and comes into force on 20th January 2014.
 
-## 2. Port boundary[^key-681836178748641cd0eb476976e1e0f6]
+## 2. Port boundary[^c-681836178748641cd0eb476976e1e0f6]
 
 (1) For the purposes of the definition of “port” in regulation 2 of the Port Security Regulations 2009[^f00003], the boundary of the Port of Shoreham is defined as follows.
 
@@ -68,13 +68,13 @@ This Order may be cited as the Port Security (Port of Shoreham) Designation Orde
 
 (6) Where the red line runs along a beach or foreshore, the boundary runs along the edge of the land on that beach or foreshore which is below the level of mean high water springs.
 
-## 3. The Shoreham Port Security Authority[^key-1d8d3798a6a0eb238e97e0b5b35c67f9]
+## 3. The Shoreham Port Security Authority[^c-1d8d3798a6a0eb238e97e0b5b35c67f9]
 
 (1) For the purposes of the Port Security Regulations 2009[^f00004], the Shoreham Port Security Authority is designated as the port security authority for the port of Shoreham.
 
 (2) Schedule 2 has effect with respect to the Shoreham Port Security Authority.
 
-## 4. Review[^key-c46c7cbce0fb49950f66720fb792ef9d]
+## 4. Review[^c-c46c7cbce0fb49950f66720fb792ef9d]
 
 (1) The Secretary of State must from time to time—
 
@@ -108,7 +108,7 @@ Department for Transport
 
 Article 2
 
-### PART 1 — Boundary of the Port of Shoreham[^key-4d848f4a91be70e4765cd53c5fa004e9]
+### PART 1 — Boundary of the Port of Shoreham[^c-4d848f4a91be70e4765cd53c5fa004e9]
 
 Article 2(2)
 
@@ -148,7 +148,7 @@ Article 2(4)
 
 Article 3(2)
 
-### 1. Members[^key-90cbe10fdcd5505f8e8b1fd52b6e6007]
+### 1. Members[^c-90cbe10fdcd5505f8e8b1fd52b6e6007]
 
 (1) The Shoreham Port Security Authority (in this Schedule called “the Authority”) is to consist of three or more members, each of them appointed by the Secretary of State.
 
@@ -168,7 +168,7 @@ Article 3(2)
 
 - (a) the member has failed to attend four or more consecutive meetings of the Authority without the permission of the Secretary of State;
 - (b) the member has a financial interest and it appears to the Secretary of State that the interest is likely to influence or to be capable of being seen as influencing the performance of the member’s functions;
-- (c) the member has been made[^key-27f610a8047a898cd72295bdcf636b5e] bankrupt, the member’s estate has been sequestrated or the member has made a composition with creditors or granted a trust deed for creditors;
+- (c) the member has been made[^c-27f610a8047a898cd72295bdcf636b5e] bankrupt, the member’s estate has been sequestrated or the member has made a composition with creditors or granted a trust deed for creditors;
 - (d) there has been misconduct on the part of the member relevant to his or her position as a member of the Authority; or
 - (e) the member is unable or unfit to perform the functions of the office.
 
@@ -178,7 +178,7 @@ Article 3(2)
 
 (8) A proxy must speak and vote at the meeting on behalf of the absent member as that member may direct.
 
-### 2. Proceedings of the Authority[^key-7531a7a0926e33385cdcd230e06a483f]
+### 2. Proceedings of the Authority[^c-7531a7a0926e33385cdcd230e06a483f]
 
 (1) The Authority must hold at least two meetings in any 12-month period.
 
@@ -201,7 +201,7 @@ Article 3(2)
 
 (9) The Authority must provide the Secretary of State with a copy of the minutes of a meeting before the end of the period of thirty days beginning with the day of the meeting.
 
-### 3. Members’ interests[^key-f3f9790390434b8e59d526ae1a4c251f]
+### 3. Members’ interests[^c-f3f9790390434b8e59d526ae1a4c251f]
 
 (1) A member who has any pecuniary interest, direct or indirect, in any matter that is brought up for consideration at a meeting of the Authority (which expression in this paragraph includes any committee or subcommittee of the Authority) must disclose the nature of the interest to the meeting.
 
@@ -242,7 +242,7 @@ and in the case of two persons living together as a couple (whether married or n
 
 (11) A person shall not be convicted of an offence under sub-paragraph (10) if it is proved that that person did not know that the contract, proposed contract or other matter in which that person had a pecuniary interest was the subject of consideration at the meeting concerned.
 
-### 4. The Crown[^key-02333e1c58e704155e6fdb7c502c6f7c]
+### 4. The Crown[^c-02333e1c58e704155e6fdb7c502c6f7c]
 
 The Authority is not to be regarded as the servant or agent of the Crown or as enjoying any status, immunity or privilege of the Crown and its property is not to be regarded as property of, or held on behalf of, the Crown.
 
@@ -262,26 +262,26 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00002]: Footnote: [S.I. 1993/595](https://www.legislation.gov.uk/uksi/1993/595), [1994/757](https://www.legislation.gov.uk/uksi/1994/757) and [2004/706](https://www.legislation.gov.uk/uksi/2004/706).
 
-[^key-845368025b72b4605c68143a8719f334]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2013/3185/article/1) in force at 20.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3185/article/1)
+[^c-845368025b72b4605c68143a8719f334]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2013/3185/article/1) in force at 20.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3185/article/1)
 
-[^key-681836178748641cd0eb476976e1e0f6]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2013/3185/article/2) in force at 20.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3185/article/1)
+[^c-681836178748641cd0eb476976e1e0f6]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2013/3185/article/2) in force at 20.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3185/article/1)
 
 [^f00003]: Footnote: [S.I. 2009/2048](https://www.legislation.gov.uk/uksi/2009/2048), amended by [S.I. 2013/2815](https://www.legislation.gov.uk/uksi/2013/2815).
 
-[^key-1d8d3798a6a0eb238e97e0b5b35c67f9]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2013/3185/article/3) in force at 20.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3185/article/1)
+[^c-1d8d3798a6a0eb238e97e0b5b35c67f9]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2013/3185/article/3) in force at 20.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3185/article/1)
 
 [^f00004]: Footnote: [S.I. 2009/2048](https://www.legislation.gov.uk/uksi/2009/2048), amended by [S.I. 2013/2815](https://www.legislation.gov.uk/uksi/2013/2815).
 
-[^key-c46c7cbce0fb49950f66720fb792ef9d]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2013/3185/article/4) in force at 20.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3185/article/1)
+[^c-c46c7cbce0fb49950f66720fb792ef9d]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2013/3185/article/4) in force at 20.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3185/article/1)
 
-[^key-4d848f4a91be70e4765cd53c5fa004e9]: Commencement: [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2013/3185/schedule/1/part/1) in force at 20.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3185/article/1)
+[^c-4d848f4a91be70e4765cd53c5fa004e9]: Commencement: [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2013/3185/schedule/1/part/1) in force at 20.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3185/article/1)
 
-[^key-90cbe10fdcd5505f8e8b1fd52b6e6007]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2013/3185/schedule/2/paragraph/1) in force at 20.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3185/article/1)
+[^c-90cbe10fdcd5505f8e8b1fd52b6e6007]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2013/3185/schedule/2/paragraph/1) in force at 20.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3185/article/1)
 
-[^key-27f610a8047a898cd72295bdcf636b5e]: Textual amendment: Word in [Sch. 2 para. 1(5)(c)](https://www.legislation.gov.uk/uksi/2013/3185/schedule/2/paragraph/1/5/c) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2016/481/schedule/2/paragraph/13)
+[^c-27f610a8047a898cd72295bdcf636b5e]: Textual amendment: Word in [Sch. 2 para. 1(5)(c)](https://www.legislation.gov.uk/uksi/2013/3185/schedule/2/paragraph/1/5/c) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2016/481/schedule/2/paragraph/13)
 
-[^key-7531a7a0926e33385cdcd230e06a483f]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2013/3185/schedule/2/paragraph/2) in force at 20.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3185/article/1)
+[^c-7531a7a0926e33385cdcd230e06a483f]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2013/3185/schedule/2/paragraph/2) in force at 20.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3185/article/1)
 
-[^key-f3f9790390434b8e59d526ae1a4c251f]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2013/3185/schedule/2/paragraph/3) in force at 20.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3185/article/1)
+[^c-f3f9790390434b8e59d526ae1a4c251f]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2013/3185/schedule/2/paragraph/3) in force at 20.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3185/article/1)
 
-[^key-02333e1c58e704155e6fdb7c502c6f7c]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2013/3185/schedule/2/paragraph/4) in force at 20.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3185/article/1)
+[^c-02333e1c58e704155e6fdb7c502c6f7c]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2013/3185/schedule/2/paragraph/4) in force at 20.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3185/article/1)

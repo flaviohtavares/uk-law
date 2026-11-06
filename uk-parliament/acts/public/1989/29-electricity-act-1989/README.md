@@ -33,15 +33,15 @@ An Act to provide for the appointment and functions of a Director General of Ele
 
 \[27th July 1989\]
 
-BE IT ENACTED by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^M_C_baab74ee-e314-4226-8cbd-5eaa45302379][^M_C_eb697841-4e37-4cde-c0d3-40b060f27583][^key-b776ba6a1be1a08037dbd9dd77f41102][^key-e8da0949ea076741a10fda529751e426][^key-4f925339afaaf32c64de9e7e6225fcfc]
+BE IT ENACTED by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^M_C_baab74ee-e314-4226-8cbd-5eaa45302379][^M_C_eb697841-4e37-4cde-c0d3-40b060f27583][^c-b776ba6a1be1a08037dbd9dd77f41102][^c-e8da0949ea076741a10fda529751e426][^c-4f925339afaaf32c64de9e7e6225fcfc]
 
 ## Contents
 
-### Part I — ELECTRICITY SUPPLY[^key-4eaadf820714d5ea3749f09cbfe3af1e][^key-4951ee6e366f649a5c87e3f0fc9f47e1][^key-84c7bdc13a505f2490487bdbc0ceda60][^c4110031][^c17031931]
+### Part I — ELECTRICITY SUPPLY[^c-4eaadf820714d5ea3749f09cbfe3af1e][^c-4951ee6e366f649a5c87e3f0fc9f47e1][^c-84c7bdc13a505f2490487bdbc0ceda60][^c4110031][^c17031931]
 
 *Extent: E+W+S+N.I.*
 
-#### Introductory[^key-c7abe15d0492bd77a30b1d7394987098]
+#### Introductory[^c-c7abe15d0492bd77a30b1d7394987098]
 
 *Extent: E+W+S+N.I.*
 
@@ -86,7 +86,7 @@ BE IT ENACTED by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 9 — General duties of licence holders.](part-i/section-9.md)
 - [Section 10 — Powers etc. of licence holders.](part-i/section-10.md)
 
-#### Electricity transmission and the operation of electricity interconnectors: independence[^key-0ad53e4f3cafa17a3266363ef95540bb]
+#### Electricity transmission and the operation of electricity interconnectors: independence[^c-0ad53e4f3cafa17a3266363ef95540bb]
 
 - [Section 10A — Electricity transmission and the operation of electricity interconnectors: requirement for certain participants to be certified as independent](part-i/section-10a.md)
 - [Section 10B — Application for certification](part-i/section-10b.md)
@@ -104,7 +104,7 @@ BE IT ENACTED by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 10N — Validity of acts infringing section 10M](part-i/section-10n.md)
 - [Section 10O — Interpretation](part-i/section-10o.md)
 
-#### Long duration electricity storage[^key-645fc8220ee78d38fd14e30ec170e48a]
+#### Long duration electricity storage[^c-645fc8220ee78d38fd14e30ec170e48a]
 
 - [Section 10P — Long duration electricity storage](part-i/section-10p.md)
 
@@ -117,7 +117,7 @@ BE IT ENACTED by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 11AA — Modification of conditions under section 11A: early effective date](part-i/section-11aa.md)
 - [Section 11B — Modification of conditions under section 11A: supplementary](part-i/section-11b.md)
 
-#### Appeal from decisions of the Authority[^key-3e5d046bf1d85088fd2a23e9b354f715]
+#### Appeal from decisions of the Authority[^c-3e5d046bf1d85088fd2a23e9b354f715]
 
 *Extent: E+W+S+N.I.*
 
@@ -151,7 +151,7 @@ BE IT ENACTED by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 23 — Determination of disputes.](part-i/section-23.md)
 - [Section 24 — The public electricity supply code.](part-i/section-24.md)
 
-#### Enforcement of obligations of regulated persons[^key-41681becb5c85d8c5db137626125a39d]
+#### Enforcement of obligations of regulated persons[^c-41681becb5c85d8c5db137626125a39d]
 
 *Extent: E+W+S*
 
@@ -244,7 +244,7 @@ BE IT ENACTED by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 37C — Correction of errors in consent documents: Scotland](part-i/section-37c.md)
 - [Section 38 — Preservation of amenity and fisheries.](part-i/section-38.md)
 
-#### Benefits resulting from proximity to new or upgraded transmission infrastructure[^key-5c2d4ac8cf593c30a1ff6e7b9c08bd2d]
+#### Benefits resulting from proximity to new or upgraded transmission infrastructure[^c-5c2d4ac8cf593c30a1ff6e7b9c08bd2d]
 
 - [Section 38A — Power to establish scheme for giving of benefits](part-i/section-38a.md)
 - [Section 38B — Passing of benefits to ultimate consumer](part-i/section-38b.md)
@@ -281,7 +281,7 @@ BE IT ENACTED by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 43B — Orders: supplementary.](part-i/section-43b.md)
 - [Section 44 — Maximum prices for reselling electricity.](part-i/section-44.md)
 
-#### Section 44B disputes[^key-0e4a9137331e0fb611a5e5c2c04035c2][^key-900ea886bbf1e3573afd45617d64e30c]
+#### Section 44B disputes[^c-0e4a9137331e0fb611a5e5c2c04035c2][^c-900ea886bbf1e3573afd45617d64e30c]
 
 *Extent: E+W+S*
 
@@ -362,7 +362,7 @@ BE IT ENACTED by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 63 — Application to Crown land.](part-i/section-63.md)
 - [Section 64 — Interpretation etc. of Part I.](part-i/section-64.md)
 
-### PART II — REORGANISATION OF THE INDUSTRY[^key-4ae31ac805f6d3b3a11c533971dad8bf][^c4118781]
+### PART II — REORGANISATION OF THE INDUSTRY[^c-4ae31ac805f6d3b3a11c533971dad8bf][^c4118781]
 
 *Extent: E+W+S+N.I.*
 
@@ -498,17 +498,17 @@ BE IT ENACTED by the Queen’s most Excellent Majesty, by and with the advice an
 
 [^M_C_eb697841-4e37-4cde-c0d3-40b060f27583]: Modification: Act: references to a public gas transporter or to the holder of a licence under section 7 of the 1986 Act shall have effect as if they were references to a gas transporter (1.10.2001) by virtue of [Utilities Act 2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27), [s. 76(7)](https://www.legislation.gov.uk/ukpga/2000/27/section/76/7); [S.I. 2001/3266](https://www.legislation.gov.uk/uksi/2001/3266), [art. 2](https://www.legislation.gov.uk/uksi/2001/3266/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/3266/schedule) (with [arts. 3-20](https://www.legislation.gov.uk/uksi/2001/3266/article/3))
 
-[^key-b776ba6a1be1a08037dbd9dd77f41102]: Modification: Act: power to modify conferred (E.W.S.) (8.5.2003) by [Electricity (Miscellaneous Provisions) Act 2003 (c. 9)](https://www.legislation.gov.uk/ukpga/2003/9), [s. 2(3)](https://www.legislation.gov.uk/ukpga/2003/9/section/2/3)
+[^c-b776ba6a1be1a08037dbd9dd77f41102]: Modification: Act: power to modify conferred (E.W.S.) (8.5.2003) by [Electricity (Miscellaneous Provisions) Act 2003 (c. 9)](https://www.legislation.gov.uk/ukpga/2003/9), [s. 2(3)](https://www.legislation.gov.uk/ukpga/2003/9/section/2/3)
 
-[^key-e8da0949ea076741a10fda529751e426]: Modification: Act: transfer of functions (1.10.2008) by [Consumers, Estate Agents and Redress Act 2007 (c. 17)](https://www.legislation.gov.uk/ukpga/2007/17), [ss. 30(3)(a)](https://www.legislation.gov.uk/ukpga/2007/17/section/30/3/a), [66(2)](https://www.legislation.gov.uk/ukpga/2007/17/section/66/2) (with [s. 6(9)](https://www.legislation.gov.uk/ukpga/2007/17/section/6/9), [Sch. 3](https://www.legislation.gov.uk/ukpga/2007/17/schedule/3)); [S.I. 2008/2550](https://www.legislation.gov.uk/uksi/2008/2550), [art. 2](https://www.legislation.gov.uk/uksi/2008/2550/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/2550/schedule)
+[^c-e8da0949ea076741a10fda529751e426]: Modification: Act: transfer of functions (1.10.2008) by [Consumers, Estate Agents and Redress Act 2007 (c. 17)](https://www.legislation.gov.uk/ukpga/2007/17), [ss. 30(3)(a)](https://www.legislation.gov.uk/ukpga/2007/17/section/30/3/a), [66(2)](https://www.legislation.gov.uk/ukpga/2007/17/section/66/2) (with [s. 6(9)](https://www.legislation.gov.uk/ukpga/2007/17/section/6/9), [Sch. 3](https://www.legislation.gov.uk/ukpga/2007/17/schedule/3)); [S.I. 2008/2550](https://www.legislation.gov.uk/uksi/2008/2550), [art. 2](https://www.legislation.gov.uk/uksi/2008/2550/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/2550/schedule)
 
-[^key-4f925339afaaf32c64de9e7e6225fcfc]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1989/29): power to amend conferred (24.5.2024 for specified purposes, 1.1.2025 in so far as not already in force) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 138(2)-(7)](https://www.legislation.gov.uk/ukpga/2024/13/section/138/2), [339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/10), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
+[^c-4f925339afaaf32c64de9e7e6225fcfc]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1989/29): power to amend conferred (24.5.2024 for specified purposes, 1.1.2025 in so far as not already in force) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 138(2)-(7)](https://www.legislation.gov.uk/ukpga/2024/13/section/138/2), [339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/10), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
 
-[^key-4eaadf820714d5ea3749f09cbfe3af1e]: Modification: [Pt. I](https://www.legislation.gov.uk/ukpga/1989/29/part/I) modified (5.10.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [ss. 184(12)](https://www.legislation.gov.uk/ukpga/2004/20/section/184/12), [185(13)](https://www.legislation.gov.uk/ukpga/2004/20/section/185/13), [198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2); [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-4eaadf820714d5ea3749f09cbfe3af1e]: Modification: [Pt. I](https://www.legislation.gov.uk/ukpga/1989/29/part/I) modified (5.10.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [ss. 184(12)](https://www.legislation.gov.uk/ukpga/2004/20/section/184/12), [185(13)](https://www.legislation.gov.uk/ukpga/2004/20/section/185/13), [198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2); [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-4951ee6e366f649a5c87e3f0fc9f47e1]: Modification: Pt. I modified (S.) (30.11.2005) by [The Electricity from Non-Fossil Fuel Sources (Scotland) Saving Arrangements Order 2005 (S.S.I. 2005/549)](https://www.legislation.gov.uk/ssi/2005/549), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2005/549/article/1/1), [9](https://www.legislation.gov.uk/ssi/2005/549/article/9)
+[^c-4951ee6e366f649a5c87e3f0fc9f47e1]: Modification: Pt. I modified (S.) (30.11.2005) by [The Electricity from Non-Fossil Fuel Sources (Scotland) Saving Arrangements Order 2005 (S.S.I. 2005/549)](https://www.legislation.gov.uk/ssi/2005/549), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2005/549/article/1/1), [9](https://www.legislation.gov.uk/ssi/2005/549/article/9)
 
-[^key-84c7bdc13a505f2490487bdbc0ceda60]: Modification: Pt. 1 excluded (30.12.2015) by [The Port Talbot Steelworks Generating Station Order 2015 (S.I. 2015/1984)](https://www.legislation.gov.uk/uksi/2015/1984), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1984/article/1), [7(2)](https://www.legislation.gov.uk/uksi/2015/1984/article/7/2) (with [art. 26](https://www.legislation.gov.uk/uksi/2015/1984/article/26))
+[^c-84c7bdc13a505f2490487bdbc0ceda60]: Modification: Pt. 1 excluded (30.12.2015) by [The Port Talbot Steelworks Generating Station Order 2015 (S.I. 2015/1984)](https://www.legislation.gov.uk/uksi/2015/1984), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1984/article/1), [7(2)](https://www.legislation.gov.uk/uksi/2015/1984/article/7/2) (with [art. 26](https://www.legislation.gov.uk/uksi/2015/1984/article/26))
 
 [^c4110031]: Modification: Pt. I (ss. 1-64) applied (1.10.2001) by [S.I. 2001/3264](https://www.legislation.gov.uk/uksi/2001/3264), [regs. 4(2)](https://www.legislation.gov.uk/uksi/2001/3264/regulation/4/2), [5(2)](https://www.legislation.gov.uk/uksi/2001/3264/regulation/5/2)
 
@@ -518,27 +518,27 @@ BE IT ENACTED by the Queen’s most Excellent Majesty, by and with the advice an
 
     Pt. I (ss. 1-64) amended (E.W.) (1.10.2001) by [S.I. 2000/2727](https://www.legislation.gov.uk/uksi/2000/2727), [art. 10](https://www.legislation.gov.uk/uksi/2000/2727/article/10) (as substituted (1.10.2001) by [S.I. 2001/3268](https://www.legislation.gov.uk/uksi/2001/3268), [art. 2(13)](https://www.legislation.gov.uk/uksi/2001/3268/article/2/13))
 
-[^key-c7abe15d0492bd77a30b1d7394987098]: Modification: Ss. 3A-3D applied (18.2.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [ss. 136(2)](https://www.legislation.gov.uk/ukpga/2013/32/section/136/2), [156(2)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/2)
+[^c-c7abe15d0492bd77a30b1d7394987098]: Modification: Ss. 3A-3D applied (18.2.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [ss. 136(2)](https://www.legislation.gov.uk/ukpga/2013/32/section/136/2), [156(2)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/2)
 
-[^key-0ad53e4f3cafa17a3266363ef95540bb]: Textual amendment: Ss. 10A-10O and cross-heading inserted (10.11.2011) by [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2011/2704/regulation/5)
+[^c-0ad53e4f3cafa17a3266363ef95540bb]: Textual amendment: Ss. 10A-10O and cross-heading inserted (10.11.2011) by [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2011/2704/regulation/5)
 
-[^key-645fc8220ee78d38fd14e30ec170e48a]: Textual amendment: [S. 10P](https://www.legislation.gov.uk/ukpga/1989/29/section/10P) and cross-heading inserted (18.2.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 26](https://www.legislation.gov.uk/ukpga/2025/34/section/26), [118(1)(m)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/m) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116))
+[^c-645fc8220ee78d38fd14e30ec170e48a]: Textual amendment: [S. 10P](https://www.legislation.gov.uk/ukpga/1989/29/section/10P) and cross-heading inserted (18.2.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 26](https://www.legislation.gov.uk/ukpga/2025/34/section/26), [118(1)(m)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/m) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116))
 
-[^key-3e5d046bf1d85088fd2a23e9b354f715]: Textual amendment: Ss. 11C-11H and cross-heading inserted (10.11.2011) by [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [43(8)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/43/8) (with [reg. 44](https://www.legislation.gov.uk/uksi/2011/2704/regulation/44))
+[^c-3e5d046bf1d85088fd2a23e9b354f715]: Textual amendment: Ss. 11C-11H and cross-heading inserted (10.11.2011) by [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [43(8)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/43/8) (with [reg. 44](https://www.legislation.gov.uk/uksi/2011/2704/regulation/44))
 
 [^c17031981]: Textual amendment: Ss. 16, 16A, 17 and cross-heading substituted for ss. 16, 17 (1.10.2001) by [2000 c. 27](https://www.legislation.gov.uk/ukpga/2000/27), [s. 44](https://www.legislation.gov.uk/ukpga/2000/27/section/44); [S.I. 2001/3266](https://www.legislation.gov.uk/uksi/2001/3266), [art. 2](https://www.legislation.gov.uk/uksi/2001/3266/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/3266/schedule) (subject to transitional provisions in [arts. 3-20](https://www.legislation.gov.uk/uksi/2001/3266/article/3))
 
-[^key-41681becb5c85d8c5db137626125a39d]: Textual amendment: S. 25 cross-heading substituted (10.11.2011) by [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [39(2)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/39/2)
+[^c-41681becb5c85d8c5db137626125a39d]: Textual amendment: S. 25 cross-heading substituted (10.11.2011) by [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [39(2)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/39/2)
 
-[^key-5c2d4ac8cf593c30a1ff6e7b9c08bd2d]: Textual amendment: Ss. 38A-38D and cross-heading inserted (18.12.2025) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 27(2)](https://www.legislation.gov.uk/ukpga/2025/34/section/27/2), [118(1)(n)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/n) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116))
+[^c-5c2d4ac8cf593c30a1ff6e7b9c08bd2d]: Textual amendment: Ss. 38A-38D and cross-heading inserted (18.12.2025) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 27(2)](https://www.legislation.gov.uk/ukpga/2025/34/section/27/2), [118(1)(n)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/n) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116))
 
-[^key-0e4a9137331e0fb611a5e5c2c04035c2]: Textual amendment: Words in s. 44B cross-heading substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [55](https://www.legislation.gov.uk/uksi/2019/530/regulation/55); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0e4a9137331e0fb611a5e5c2c04035c2]: Textual amendment: Words in s. 44B cross-heading substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [55](https://www.legislation.gov.uk/uksi/2019/530/regulation/55); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-900ea886bbf1e3573afd45617d64e30c]: Textual amendment: Ss. 44B-44D and cross-heading inserted (E.W.S.) (29.6.2009) by [The Gas and Electricity (Dispute Resolution) Regulations 2009 (S.I. 2009/1349)](https://www.legislation.gov.uk/uksi/2009/1349), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1349/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2009/1349/regulation/3)
+[^c-900ea886bbf1e3573afd45617d64e30c]: Textual amendment: Ss. 44B-44D and cross-heading inserted (E.W.S.) (29.6.2009) by [The Gas and Electricity (Dispute Resolution) Regulations 2009 (S.I. 2009/1349)](https://www.legislation.gov.uk/uksi/2009/1349), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1349/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2009/1349/regulation/3)
 
 [^c4115941]: Textual amendment: Ss. 56A-56F and cross-heading inserted (1.10.2001) by [2000 c. 27](https://www.legislation.gov.uk/ukpga/2000/27), [s. 43](https://www.legislation.gov.uk/ukpga/2000/27/section/43); [S.I. 2001/3266](https://www.legislation.gov.uk/uksi/2001/3266), [art. 2](https://www.legislation.gov.uk/uksi/2001/3266/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/3266/schedule) (subject to transitional provisions in [arts. 3-20](https://www.legislation.gov.uk/uksi/2001/3266/article/3))
 
-[^key-4ae31ac805f6d3b3a11c533971dad8bf]: Modification: Pt. II: power to repeal conferred (E.W.S.) (8.5.2003) by [Electricity (Miscellaneous Provisions) Act 2003 (c. 9)](https://www.legislation.gov.uk/ukpga/2003/9), [s. 2(2)](https://www.legislation.gov.uk/ukpga/2003/9/section/2/2)
+[^c-4ae31ac805f6d3b3a11c533971dad8bf]: Modification: Pt. II: power to repeal conferred (E.W.S.) (8.5.2003) by [Electricity (Miscellaneous Provisions) Act 2003 (c. 9)](https://www.legislation.gov.uk/ukpga/2003/9), [s. 2(2)](https://www.legislation.gov.uk/ukpga/2003/9/section/2/2)
 
 [^c4118781]: Modification: Pt. II (ss. 65-95) extended (15.12.2001) by [S.I. 2001/4011](https://www.legislation.gov.uk/uksi/2001/4011), [art. 12(1)(a)](https://www.legislation.gov.uk/uksi/2001/4011/article/12/1/a)
 

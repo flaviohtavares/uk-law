@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43ZA. Further exclusion of home business tenancies from Part 2[^key-c3baae63b40b380aa57cd92d7bf7a4de]
+## 43ZA. Further exclusion of home business tenancies from Part 2[^c-c3baae63b40b380aa57cd92d7bf7a4de]
 
 *Extent: E+W*
 
@@ -67,4 +67,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c3baae63b40b380aa57cd92d7bf7a4de]: Textual amendment: S. 43ZA inserted (1.10.2015) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 35(4)](https://www.legislation.gov.uk/ukpga/2015/26/section/35/4), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1) (with [s. 35(5)](https://www.legislation.gov.uk/ukpga/2015/26/section/35/5)); [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/2/b); [S.I. 2015/1710](https://www.legislation.gov.uk/wsi/2015/1710), [reg. 2(a)](https://www.legislation.gov.uk/wsi/2015/1710/regulation/2/a)
+[^c-c3baae63b40b380aa57cd92d7bf7a4de]: Textual amendment: S. 43ZA inserted (1.10.2015) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 35(4)](https://www.legislation.gov.uk/ukpga/2015/26/section/35/4), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1) (with [s. 35(5)](https://www.legislation.gov.uk/ukpga/2015/26/section/35/5)); [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/2/b); [S.I. 2015/1710](https://www.legislation.gov.uk/wsi/2015/1710), [reg. 2(a)](https://www.legislation.gov.uk/wsi/2015/1710/regulation/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 27. Advice on annual targets etc.[^key-66c8a1d12ab6aaa87f8bf84a67dfcf09]
+## 27. Advice on annual targets etc.[^c-66c8a1d12ab6aaa87f8bf84a67dfcf09]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-66c8a1d12ab6aaa87f8bf84a67dfcf09]: Textual amendment: Ss. 27-29 repealed (23.3.2020) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15)](https://www.legislation.gov.uk/asp/2019/15), [s. 32(2)](https://www.legislation.gov.uk/asp/2019/15/section/32/2), [sch. para. 9](https://www.legislation.gov.uk/asp/2019/15/schedule/paragraph/9); [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
+[^c-66c8a1d12ab6aaa87f8bf84a67dfcf09]: Textual amendment: Ss. 27-29 repealed (23.3.2020) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15)](https://www.legislation.gov.uk/asp/2019/15), [s. 32(2)](https://www.legislation.gov.uk/asp/2019/15/section/32/2), [sch. para. 9](https://www.legislation.gov.uk/asp/2019/15/schedule/paragraph/9); [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)

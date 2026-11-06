@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Amendment of Schedule 5 (review upon oral representations)[^key-11ba4945e2e68e5728b9bdd6b73f9985]
+## 22. Amendment of Schedule 5 (review upon oral representations)[^c-11ba4945e2e68e5728b9bdd6b73f9985]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-11ba4945e2e68e5728b9bdd6b73f9985]: Commencement: Reg. 22 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-11ba4945e2e68e5728b9bdd6b73f9985]: Commencement: Reg. 22 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23884491]: Marginal citation: Schedule 5 was amended by [S.I. 2013/1855](https://www.legislation.gov.uk/uksi/2013/1855).

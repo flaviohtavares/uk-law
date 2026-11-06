@@ -25,15 +25,15 @@ summary: ''
 - (a) inform the operators concerned and, where appropriate, the customs authorities; and
 - (b) decide whether the animals or goods need to be detained pending the results of the analysis, test or diagnosis carried out, or whether they can be released provided that the traceability of the animals or goods is ensured.
 
-2. The appropriate authority may make regulations to[^key-27bf9832a54cbd1d4951865628f52c18]:
+2. The appropriate authority may make regulations to[^c-27bf9832a54cbd1d4951865628f52c18]:
 
 - (a) establish the procedures necessary to ensure the traceability of the animals or goods referred to in point (b) of paragraph 1; and
 - (b) identify the documents that must accompany the animals or goods referred to in paragraph 1 when samples have been taken by the competent authorities.
 
-[^key-9b9479095f4c506679ee6cad1fe78575]...
+[^c-9b9479095f4c506679ee6cad1fe78575]...
 
 ## Annotations
 
-[^key-27bf9832a54cbd1d4951865628f52c18]: Textual amendment: Words in [Art. 46(2)](https://www.legislation.gov.uk/eur/2017/625/article/46/2) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [10(3)(a)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/10/3/a) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-27bf9832a54cbd1d4951865628f52c18]: Textual amendment: Words in [Art. 46(2)](https://www.legislation.gov.uk/eur/2017/625/article/46/2) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [10(3)(a)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/10/3/a) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
 
-[^key-9b9479095f4c506679ee6cad1fe78575]: Textual amendment: Words in [Art. 46(2)](https://www.legislation.gov.uk/eur/2017/625/article/46/2) omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [10(3)(b)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/10/3/b) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-9b9479095f4c506679ee6cad1fe78575]: Textual amendment: Words in [Art. 46(2)](https://www.legislation.gov.uk/eur/2017/625/article/46/2) omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [10(3)(b)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/10/3/b) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))

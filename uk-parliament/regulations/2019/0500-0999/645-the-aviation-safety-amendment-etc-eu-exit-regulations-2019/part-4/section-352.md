@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 352. Amendment of Annex 2 to [Commission Regulation (EU) No 965/2012](https://www.legislation.gov.uk/eur/2012/0965)[^key-8564a5e97d427180a6a08a0f0a769cd7]
+## 352. Amendment of Annex 2 to [Commission Regulation (EU) No 965/2012](https://www.legislation.gov.uk/eur/2012/0965)[^c-8564a5e97d427180a6a08a0f0a769cd7]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Annex 2 (Part-ARO) is amended in accordance with regulations 353 to 357.
 
 ## Annotations
 
-[^key-8564a5e97d427180a6a08a0f0a769cd7]: Commencement: Reg. 352 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-8564a5e97d427180a6a08a0f0a769cd7]: Commencement: Reg. 352 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

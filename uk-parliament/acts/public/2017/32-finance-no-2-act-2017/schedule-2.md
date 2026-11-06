@@ -879,7 +879,7 @@ Section 16
 
 > (7) In calculating the profits of a property business on the cash basis, any reference in this section to the incurring of expenditure is to the paying of expenditure.
 
-**26.**[^key-f8dbab476843108feb180a947e8a6ca4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**26.**[^c-f8dbab476843108feb180a947e8a6ca4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **27.** After section 329 insert—
 
@@ -1422,4 +1422,4 @@ that deduction is to be allowed in calculating the profits of that trade, profes
 
 ## Annotations
 
-[^key-f8dbab476843108feb180a947e8a6ca4]: Textual amendment: Sch. 2 para. 26 repealed (for the purposes of income tax in relation to the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 5 paras. 4(e)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/4/e), [12(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/12/1) (with [Sch. 5 paras. 15](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/15), [18(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/18/4), [19](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/19))
+[^c-f8dbab476843108feb180a947e8a6ca4]: Textual amendment: Sch. 2 para. 26 repealed (for the purposes of income tax in relation to the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 5 paras. 4(e)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/4/e), [12(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/12/1) (with [Sch. 5 paras. 15](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/15), [18(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/18/4), [19](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/19))

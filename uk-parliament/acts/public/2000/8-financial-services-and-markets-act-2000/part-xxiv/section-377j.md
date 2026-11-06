@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 377J. Further provision about write-down orders[^key-8842c7af9a567040976035aa3328ad8d]
+## 377J. Further provision about write-down orders[^c-8842c7af9a567040976035aa3328ad8d]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ In Schedule 19B—
 
 ## Annotations
 
-[^key-8842c7af9a567040976035aa3328ad8d]: Textual amendment: [Ss. 377A-377J](https://www.legislation.gov.uk/ukpga/2000/8/section/377A) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(2)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/e), [Sch. 12 para. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/12/paragraph/1/4)
+[^c-8842c7af9a567040976035aa3328ad8d]: Textual amendment: [Ss. 377A-377J](https://www.legislation.gov.uk/ukpga/2000/8/section/377A) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(2)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/e), [Sch. 12 para. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/12/paragraph/1/4)

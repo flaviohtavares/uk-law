@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9.[^key-54121c19a77813d317611a64cab6f883]
+## 9.[^c-54121c19a77813d317611a64cab6f883]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ In section 539 (minor definitions), in the definition of “MiFID investment fir
 
 ## Annotations
 
-[^key-54121c19a77813d317611a64cab6f883]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+[^c-54121c19a77813d317611a64cab6f883]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
 
 [^c23586221]: Marginal citation: The definition of “MiFID investment firm” was inserted by regulation 3(7)(b) of [S.I. 2007/2932](https://www.legislation.gov.uk/uksi/2007/2932), and amended by paragraphs 9(5)(a), (b) and (c) of Schedule 4 to [S.I. 2017/701](https://www.legislation.gov.uk/uksi/2017/701) and regulation 3 of [S.I. 2018/786](https://www.legislation.gov.uk/uksi/2018/786).
 

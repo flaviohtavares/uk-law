@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Reporting to authorities: duty of accountable person[^key-d4848d213f6b03ca45a27116af4263b3]
+## 39. Reporting to authorities: duty of accountable person[^c-d4848d213f6b03ca45a27116af4263b3]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d4848d213f6b03ca45a27116af4263b3]: Commencement: S. 39 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-d4848d213f6b03ca45a27116af4263b3]: Commencement: S. 39 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

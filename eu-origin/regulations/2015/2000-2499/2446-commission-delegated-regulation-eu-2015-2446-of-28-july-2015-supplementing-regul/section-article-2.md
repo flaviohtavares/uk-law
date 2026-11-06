@@ -22,7 +22,7 @@ summary: ''
 
 1. The exchange and storage of information required for applications and decisions shall be subject to the common data requirements set out in Annex A.
 
-2.[^key-662da8e7d5926ce70ded21cb0ae57c2c] The Commissioners for His Majesty’s Revenue and Customs must publish a public notice specifying—
+2.[^c-662da8e7d5926ce70ded21cb0ae57c2c] The Commissioners for His Majesty’s Revenue and Customs must publish a public notice specifying—
 
 - (a)) the common data requirements for the exchange and storage of information required for entry summary declarations and exit summary declarations, and
 - (b)) the manner and form in which that data is to be exchanged and stored.
@@ -31,7 +31,7 @@ summary: ''
 
 By way of derogation from paragraph 1 of this Article, until the date of the upgrading of the AEO system referred to in the Annex to Implementing Decision 2014/255/EU, column 2 of Annex A of this Regulation shall not apply and the respective data requirements set out in Annexes 6 and 7 to Delegated Regulation (EU) 2016/341 shall apply.
 
-4.[^key-d99abe541c9dc1349397b68436c10bf5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4.[^c-d99abe541c9dc1349397b68436c10bf5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 5. Until the date of deployment of the UCC Customs Decisions system referred to in the Annex to Implementing Decision 2014/255/EU, customs authorities may decide that appropriate alternative data requirements to those laid down in Annex A of this Regulation are to apply in respect of the following applications and authorisations:
 
@@ -82,10 +82,10 @@ By way of derogation from paragraph 1 of this Article, until the date of the upg
 
 ## Annotations
 
-[^key-662da8e7d5926ce70ded21cb0ae57c2c]: Textual amendment: [Art. 2(2)](https://www.legislation.gov.uk/eur/2015/2446/article/2/2) substituted (30.1.2025 with effect in respect of goods brought into Great Britain on or after 31.1.2025) by [The Customs (Safety and Security Procedures) Regulations 2025 (S.I. 2025/20)](https://www.legislation.gov.uk/uksi/2025/20), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/20/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2025/20/regulation/2/2/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/20/regulation/1/2))
+[^c-662da8e7d5926ce70ded21cb0ae57c2c]: Textual amendment: [Art. 2(2)](https://www.legislation.gov.uk/eur/2015/2446/article/2/2) substituted (30.1.2025 with effect in respect of goods brought into Great Britain on or after 31.1.2025) by [The Customs (Safety and Security Procedures) Regulations 2025 (S.I. 2025/20)](https://www.legislation.gov.uk/uksi/2025/20), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/20/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2025/20/regulation/2/2/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/20/regulation/1/2))
 
 [^c000004]: Textual amendment: Inserted by [Commission Delegated Regulation (EU) 2016/341 of 17 December 2015 supplementing Regulation (EU) No 952/2013 of the European Parliament and of the Council as regards transitional rules for certain provisions of the Union Customs Code where the relevant electronic systems are not yet operational and amending Delegated Regulation (EU) 2015/2446](https://www.legislation.gov.uk/eur/2016/341).
 
 [^f00013]: Footnote: Commission Delegated Regulation (EU) 2016/341 of[^c000004] 17 December 2015 supplementing Regulation (EU) No 952/2013 of the European Parliament and of the Council as regards transitional rules for certain provisions of the Union Customs Code where the relevant electronic systems are not yet operational and amending Delegated Regulation (EU) 2015/2446 ( [OJ L 69, 15.3.2016, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.069.01.0001.01.ENG) ).
 
-[^key-d99abe541c9dc1349397b68436c10bf5]: Textual amendment: [Art. 2(4)](https://www.legislation.gov.uk/eur/2015/2446/article/2/4) omitted (30.1.2025 with effect in respect of goods brought into Great Britain on or after 31.1.2025) by virtue of [The Customs (Safety and Security Procedures) Regulations 2025 (S.I. 2025/20)](https://www.legislation.gov.uk/uksi/2025/20), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/20/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2025/20/regulation/2/2/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/20/regulation/1/2))
+[^c-d99abe541c9dc1349397b68436c10bf5]: Textual amendment: [Art. 2(4)](https://www.legislation.gov.uk/eur/2015/2446/article/2/4) omitted (30.1.2025 with effect in respect of goods brought into Great Britain on or after 31.1.2025) by virtue of [The Customs (Safety and Security Procedures) Regulations 2025 (S.I. 2025/20)](https://www.legislation.gov.uk/uksi/2025/20), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/20/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2025/20/regulation/2/2/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/20/regulation/1/2))

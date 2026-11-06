@@ -22,7 +22,7 @@ summary: ''
 
 (1) A “compliance notice” is a notice requiring a person to take specified steps within a specified period to secure that a contravention does not continue or recur.
 
-(2) If the appropriate body[^key-66c136c6cebd91280b7a4ea96e1a0c99] considers that a person has contravened or is contravening regulation 12(1), 13(2)[^key-6060098ff020ba1926dc242b15bb112e], 14(1) or 25 it may serve a compliance notice on that person.
+(2) If the appropriate body[^c-66c136c6cebd91280b7a4ea96e1a0c99] considers that a person has contravened or is contravening regulation 12(1), 13(2)[^c-6060098ff020ba1926dc242b15bb112e], 14(1) or 25 it may serve a compliance notice on that person.
 
 (3) If a regulation authority considers that a person has contravened or is contravening section 1 of the 1989 Act it may serve a compliance notice on that person.
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-66c136c6cebd91280b7a4ea96e1a0c99]: Textual amendment: Words in regs. 37-40 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 409](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/409) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-66c136c6cebd91280b7a4ea96e1a0c99]: Textual amendment: Words in regs. 37-40 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 409](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/409) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-6060098ff020ba1926dc242b15bb112e]: Textual amendment: Word in reg. 38(2) substituted (1.10.2012) by [The Waste (England and Wales) (Amendment) Regulations 2012 (S.I. 2012/1889)](https://www.legislation.gov.uk/uksi/2012/1889), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/1889/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2012/1889/regulation/2/4)
+[^c-6060098ff020ba1926dc242b15bb112e]: Textual amendment: Word in reg. 38(2) substituted (1.10.2012) by [The Waste (England and Wales) (Amendment) Regulations 2012 (S.I. 2012/1889)](https://www.legislation.gov.uk/uksi/2012/1889), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/1889/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2012/1889/regulation/2/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Updating information provided with an application under Part 3 of Schedule 4 (low-volume participants)[^key-e35ce3977c12ca3ee4e0f54908926953]
+## 82. Updating information provided with an application under Part 3 of Schedule 4 (low-volume participants)[^c-e35ce3977c12ca3ee4e0f54908926953]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A low-volume CRTS participant and a low-volume VRTS participant must notify the 
 
 ## Annotations
 
-[^key-e35ce3977c12ca3ee4e0f54908926953]: Commencement: Art. 82 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-e35ce3977c12ca3ee4e0f54908926953]: Commencement: Art. 82 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)

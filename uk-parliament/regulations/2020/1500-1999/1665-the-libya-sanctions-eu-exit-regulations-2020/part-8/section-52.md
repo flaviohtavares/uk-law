@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Finance: licensing offences[^key-755869824eb840b2e57ccbe76c7b36c3]
+## 52. Finance: licensing offences[^c-755869824eb840b2e57ccbe76c7b36c3]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ for the purpose of obtaining a Treasury licence (whether for P or anyone else).
 
 ## Annotations
 
-[^key-755869824eb840b2e57ccbe76c7b36c3]: Commencement: Reg. 52 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)
+[^c-755869824eb840b2e57ccbe76c7b36c3]: Commencement: Reg. 52 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)

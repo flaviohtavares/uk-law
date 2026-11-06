@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. CMA report following mandatory or voluntary referral[^key-151f258febbf7281f25e76daf6100ec4][^key-69f3ee06542e6b908afddbf935f73470]
+## 59. CMA report following mandatory or voluntary referral[^c-151f258febbf7281f25e76daf6100ec4][^c-69f3ee06542e6b908afddbf935f73470]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-151f258febbf7281f25e76daf6100ec4]: Commencement: S. 59 in force at Royal Assent for specified purposes, see [s. 91(1)(b)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/1/b)
+[^c-151f258febbf7281f25e76daf6100ec4]: Commencement: S. 59 in force at Royal Assent for specified purposes, see [s. 91(1)(b)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/1/b)
 
-[^key-69f3ee06542e6b908afddbf935f73470]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2022/23/section/59) in force at 4.1.2023 in so far as not already in force by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-69f3ee06542e6b908afddbf935f73470]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2022/23/section/59) in force at 4.1.2023 in so far as not already in force by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)

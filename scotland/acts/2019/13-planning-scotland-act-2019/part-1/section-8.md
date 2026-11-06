@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8. List of persons seeking land for self-build housing[^key-ea36cd9afacbb73ae5c1f2303af73352]
+## 8. List of persons seeking land for self-build housing[^c-ea36cd9afacbb73ae5c1f2303af73352]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ea36cd9afacbb73ae5c1f2303af73352]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2019/13/section/8) in force at 19.5.2023 by [S.S.I. 2023/100](https://www.legislation.gov.uk/ssi/2023/100), [reg. 2(2)(b)](https://www.legislation.gov.uk/ssi/2023/100/regulation/2/2/b)
+[^c-ea36cd9afacbb73ae5c1f2303af73352]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2019/13/section/8) in force at 19.5.2023 by [S.S.I. 2023/100](https://www.legislation.gov.uk/ssi/2023/100), [reg. 2(2)(b)](https://www.legislation.gov.uk/ssi/2023/100/regulation/2/2/b)

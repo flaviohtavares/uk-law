@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100. Meaning of “final pay”[^key-041b7db48348165461ab95fa16fac0e8]
+## 100. Meaning of “final pay”[^c-041b7db48348165461ab95fa16fac0e8]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-041b7db48348165461ab95fa16fac0e8]: Commencement: Reg. 100 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-041b7db48348165461ab95fa16fac0e8]: Commencement: Reg. 100 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Judicial agreement to certain regulations[^key-670438ddc129b7e9d0c44b1f1da46337][^key-09ee256bd999acd220c5c4860da9dcd5]
+## 32. Judicial agreement to certain regulations[^c-670438ddc129b7e9d0c44b1f1da46337][^c-09ee256bd999acd220c5c4860da9dcd5]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-670438ddc129b7e9d0c44b1f1da46337]: Commencement: S. 32 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-670438ddc129b7e9d0c44b1f1da46337]: Commencement: S. 32 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
-[^key-09ee256bd999acd220c5c4860da9dcd5]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2022/35/section/32) in force at 28.6.2023 by [S.I. 2023/631](https://www.legislation.gov.uk/uksi/2023/631), [reg. 2](https://www.legislation.gov.uk/uksi/2023/631/regulation/2)
+[^c-09ee256bd999acd220c5c4860da9dcd5]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2022/35/section/32) in force at 28.6.2023 by [S.I. 2023/631](https://www.legislation.gov.uk/uksi/2023/631), [reg. 2](https://www.legislation.gov.uk/uksi/2023/631/regulation/2)

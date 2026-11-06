@@ -61,12 +61,12 @@ Regulations 21 and 23
 </tbody>
 </table>
 
-**12.**[^key-bc2adb2190a3ef30df6dade85cd25d09] Other requirements—
+**12.**[^c-bc2adb2190a3ef30df6dade85cd25d09] Other requirements—
 
 - (a) Every main-beam headlamp shall be so constructed that the direction of the beam of light emitted therefrom can be adjusted whilst the vehicle is stationary.
 - (b) Except in the case of a bus first used before 1st October 1969, where two main-beam headlamps are required to be fitted they shall form a matched pair.
 
-**13.**[^key-3294b95a65e810a694fe61acf36c38d5] Definitions—
+**13.**[^c-3294b95a65e810a694fe61acf36c38d5] Definitions—
 
 In this Schedule—
 
@@ -75,14 +75,14 @@ In this Schedule—
   - (b) a marking designated as an approval mark by regulation 4 of the Designation of Approval Marks Regulations as shown at item 1A or 1B or 1F or 5A or 5B or 5F or 8C or 8D or 8E or 8F or 8M or 8N or 20C or 20D or 20E or 20F or 20M or 20N or 31A or 31D of Schedule 2 to those Regulations; and
 - “British Standard mark” means the specification for sealed beam headlamps published by the British Standards Institution under the reference BS AU 40: Part 4a: 1966 as amended by Amendment AMD 2188 published in December 1976, namely “B.S. AU40.”
 
-### Part II — Requirements Relating to Optional Main-Beam Headlamps[^key-1481a16c7bbb6018906d2fd3fcddceb2]
+### Part II — Requirements Relating to Optional Main-Beam Headlamps[^c-1481a16c7bbb6018906d2fd3fcddceb2]
 
 Any number may be fitted and the only requirements prescribed by these Regulations in respect of any which are fitted are those specified in paragraphs 7, 10 and 12(*a*) of Part I and, in the case of a motor vehicle first used on or after 24th January 1996, paragraph 5 of Part I.
 
 ## Annotations
 
-[^key-bc2adb2190a3ef30df6dade85cd25d09]: Commencement: [Sch. 5 para. 12](https://www.legislation.gov.uk/nisr/2000/169/schedule/5/paragraph/12) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
+[^c-bc2adb2190a3ef30df6dade85cd25d09]: Commencement: [Sch. 5 para. 12](https://www.legislation.gov.uk/nisr/2000/169/schedule/5/paragraph/12) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
 
-[^key-3294b95a65e810a694fe61acf36c38d5]: Commencement: [Sch. 5 para. 13](https://www.legislation.gov.uk/nisr/2000/169/schedule/5/paragraph/13) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
+[^c-3294b95a65e810a694fe61acf36c38d5]: Commencement: [Sch. 5 para. 13](https://www.legislation.gov.uk/nisr/2000/169/schedule/5/paragraph/13) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
 
-[^key-1481a16c7bbb6018906d2fd3fcddceb2]: Commencement: [Sch. 5 Pt. II](https://www.legislation.gov.uk/nisr/2000/169/schedule/5/part/II) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
+[^c-1481a16c7bbb6018906d2fd3fcddceb2]: Commencement: [Sch. 5 Pt. II](https://www.legislation.gov.uk/nisr/2000/169/schedule/5/part/II) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)

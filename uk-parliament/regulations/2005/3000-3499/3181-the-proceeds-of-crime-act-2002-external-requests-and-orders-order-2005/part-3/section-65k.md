@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65K. Release of property[^key-975775a42ef1622cf6b07daab5659aef]
+## 65K. Release of property[^c-975775a42ef1622cf6b07daab5659aef]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,13 +30,13 @@ summary: ''
 (3) The detention condition is met for so long as—
 
 - (a) either condition in article 65A is met; and
-- (b) there are reasonable grounds for the suspicion mentioned in article 65B(1) or (4A)[^key-7f020c6acd33e8aad1a0d660b812cf70].
+- (b) there are reasonable grounds for the suspicion mentioned in article 65B(1) or (4A)[^c-7f020c6acd33e8aad1a0d660b812cf70].
 
 (4) Nothing in this article requires property to be released if there is a power to detain it otherwise than under or by virtue of article 65I or 65J.
 
 (5) Nothing in this article affects the operation of any power or duty to release property that arises apart from this article.
 
-(6)[^key-33a16c873e00df8e306e354e7ca66f53] If a cryptoasset-related item, as defined by article 65(4B), which has been released is not claimed within the period of a year beginning with the date on which it was released, the appropriate officer may—
+(6)[^c-33a16c873e00df8e306e354e7ca66f53] If a cryptoasset-related item, as defined by article 65(4B), which has been released is not claimed within the period of a year beginning with the date on which it was released, the appropriate officer may—
 
 - (a) retain the item and deal with it as they see fit,
 - (b) dispose of the item, or
@@ -57,8 +57,8 @@ summary: ''
 
 ## Annotations
 
-[^key-975775a42ef1622cf6b07daab5659aef]: Textual amendment: [Ch. 1A](https://www.legislation.gov.uk/uksi/2005/3181/chapter/1A) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2015 (S.I. 2015/1750)](https://www.legislation.gov.uk/uksi/2015/1750), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1750/article/1/2), [25](https://www.legislation.gov.uk/uksi/2015/1750/article/25)
+[^c-975775a42ef1622cf6b07daab5659aef]: Textual amendment: [Ch. 1A](https://www.legislation.gov.uk/uksi/2005/3181/chapter/1A) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2015 (S.I. 2015/1750)](https://www.legislation.gov.uk/uksi/2015/1750), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1750/article/1/2), [25](https://www.legislation.gov.uk/uksi/2015/1750/article/25)
 
-[^key-7f020c6acd33e8aad1a0d660b812cf70]: Textual amendment: Words in [art. 65K(3)(b)](https://www.legislation.gov.uk/uksi/2005/3181/article/65K/3/b) inserted (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [8(4)(a)](https://www.legislation.gov.uk/uksi/2024/1127/article/8/4/a)
+[^c-7f020c6acd33e8aad1a0d660b812cf70]: Textual amendment: Words in [art. 65K(3)(b)](https://www.legislation.gov.uk/uksi/2005/3181/article/65K/3/b) inserted (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [8(4)(a)](https://www.legislation.gov.uk/uksi/2024/1127/article/8/4/a)
 
-[^key-33a16c873e00df8e306e354e7ca66f53]: Textual amendment: [Art. 65K(6)-(9)](https://www.legislation.gov.uk/uksi/2005/3181/article/65K/6) inserted (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [8(4)(b)](https://www.legislation.gov.uk/uksi/2024/1127/article/8/4/b)
+[^c-33a16c873e00df8e306e354e7ca66f53]: Textual amendment: [Art. 65K(6)-(9)](https://www.legislation.gov.uk/uksi/2005/3181/article/65K/6) inserted (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [8(4)(b)](https://www.legislation.gov.uk/uksi/2024/1127/article/8/4/b)

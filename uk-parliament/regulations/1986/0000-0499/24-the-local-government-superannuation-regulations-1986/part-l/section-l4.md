@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## L4. Reduction in remuneration[^key-0a0a9ab287d2160948e7b85c1ebe6994]
+## L4. Reduction in remuneration[^c-0a0a9ab287d2160948e7b85c1ebe6994]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0a0a9ab287d2160948e7b85c1ebe6994]: Commencement: [Reg. L4](https://www.legislation.gov.uk/uksi/1986/24/regulation/L4) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-0a0a9ab287d2160948e7b85c1ebe6994]: Commencement: [Reg. L4](https://www.legislation.gov.uk/uksi/1986/24/regulation/L4) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

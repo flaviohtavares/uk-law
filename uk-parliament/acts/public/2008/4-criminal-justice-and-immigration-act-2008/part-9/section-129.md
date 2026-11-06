@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 129. Inspection of police authorities[^key-a4f55fff9b3b6e7973f6142b81fbb7ff]
+## 129. Inspection of police authorities[^c-a4f55fff9b3b6e7973f6142b81fbb7ff]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ In section 54 of the Police Act 1996 (c. 16) (appointment and functions of inspe
 
 ## Annotations
 
-[^key-a4f55fff9b3b6e7973f6142b81fbb7ff]: Commencement: [S. 129](https://www.legislation.gov.uk/ukpga/2008/4/section/129) in force at 3.11.2008 by [S.I. 2008/2712](https://www.legislation.gov.uk/uksi/2008/2712), [art. 2](https://www.legislation.gov.uk/uksi/2008/2712/article/2), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2008/2712/schedule/paragraph/11)
+[^c-a4f55fff9b3b6e7973f6142b81fbb7ff]: Commencement: [S. 129](https://www.legislation.gov.uk/ukpga/2008/4/section/129) in force at 3.11.2008 by [S.I. 2008/2712](https://www.legislation.gov.uk/uksi/2008/2712), [art. 2](https://www.legislation.gov.uk/uksi/2008/2712/article/2), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2008/2712/schedule/paragraph/11)

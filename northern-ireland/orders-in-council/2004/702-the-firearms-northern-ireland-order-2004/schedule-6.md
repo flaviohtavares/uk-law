@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 6 — FEES[^key-6338ff367457eb2a87e9bae71f11a685]
+## SCHEDULE 6 — FEES[^c-6338ff367457eb2a87e9bae71f11a685]
 
 *Extent: N.I.*
 
@@ -70,4 +70,4 @@ Firearms clubs and shotgun clubs
 
 ## Annotations
 
-[^key-6338ff367457eb2a87e9bae71f11a685]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/nisi/2004/702/schedule/6) substituted (13.5.2016) by [Justice Act (NorthernIreland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [s. 61(1)](https://www.legislation.gov.uk/nia/2016/21/section/61/1), [Sch. 5 para. 7(1)](https://www.legislation.gov.uk/nia/2016/21/schedule/5/paragraph/7/1)
+[^c-6338ff367457eb2a87e9bae71f11a685]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/nisi/2004/702/schedule/6) substituted (13.5.2016) by [Justice Act (NorthernIreland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [s. 61(1)](https://www.legislation.gov.uk/nia/2016/21/section/61/1), [Sch. 5 para. 7(1)](https://www.legislation.gov.uk/nia/2016/21/schedule/5/paragraph/7/1)

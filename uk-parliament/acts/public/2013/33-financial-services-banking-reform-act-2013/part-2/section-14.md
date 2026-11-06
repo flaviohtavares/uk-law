@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Discharge of functions by the scheme manager[^key-7d537775eb8b74961004e5221ca89a59]
+## 14. Discharge of functions by the scheme manager[^c-7d537775eb8b74961004e5221ca89a59]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ After section 224 of FSMA 2000 insert—
 
 ## Annotations
 
-[^key-7d537775eb8b74961004e5221ca89a59]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2013/33/section/14) in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
+[^c-7d537775eb8b74961004e5221ca89a59]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2013/33/section/14) in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)

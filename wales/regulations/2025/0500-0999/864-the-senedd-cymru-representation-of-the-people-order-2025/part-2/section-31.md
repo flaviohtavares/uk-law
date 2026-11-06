@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Other voting offences[^key-117fa5c03fb0fe899847b76b16f9e796]
+## 31. Other voting offences[^c-117fa5c03fb0fe899847b76b16f9e796]
 
 *Extent: E+W*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-117fa5c03fb0fe899847b76b16f9e796]: Commencement: Art. 31 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-117fa5c03fb0fe899847b76b16f9e796]: Commencement: Art. 31 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

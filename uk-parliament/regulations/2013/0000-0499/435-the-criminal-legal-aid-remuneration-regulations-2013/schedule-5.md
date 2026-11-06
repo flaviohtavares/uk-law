@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 5 — Experts' Fees and Rates[^key-61d0efe5f61ad1bdba8cf38b705445f5]
+## SCHEDULE 5 — Experts' Fees and Rates[^c-61d0efe5f61ad1bdba8cf38b705445f5]
 
 *Extent: E+W*
 
@@ -102,4 +102,4 @@ Regulation 16
 
 ## Annotations
 
-[^key-61d0efe5f61ad1bdba8cf38b705445f5]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/uksi/2013/435/schedule/5) substituted (30.9.2022) by [The Criminal Legal Aid (Remuneration) (Amendment) Regulations 2022 (S.I. 2022/848)](https://www.legislation.gov.uk/uksi/2022/848), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2022/848/schedule/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/848/regulation/3)) (as amended (31.10.2022) by [The Criminal Legal Aid (Remuneration) (Amendment) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/1035)](https://www.legislation.gov.uk/uksi/2022/1035), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1035/regulation/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2022/1035/regulation/2/1))
+[^c-61d0efe5f61ad1bdba8cf38b705445f5]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/uksi/2013/435/schedule/5) substituted (30.9.2022) by [The Criminal Legal Aid (Remuneration) (Amendment) Regulations 2022 (S.I. 2022/848)](https://www.legislation.gov.uk/uksi/2022/848), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2022/848/schedule/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/848/regulation/3)) (as amended (31.10.2022) by [The Criminal Legal Aid (Remuneration) (Amendment) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/1035)](https://www.legislation.gov.uk/uksi/2022/1035), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1035/regulation/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2022/1035/regulation/2/1))

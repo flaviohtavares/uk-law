@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 122. Unlawful disclosure of information[^key-222a7e3335c4f48cd886918a888738b5][^key-41400a1ac8b27b4e989c4541d97a6a49]
+## 122. Unlawful disclosure of information[^c-222a7e3335c4f48cd886918a888738b5][^c-41400a1ac8b27b4e989c4541d97a6a49]
 
 *Extent: N.I.*
 
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-222a7e3335c4f48cd886918a888738b5]: Commencement: [Art. 122](https://www.legislation.gov.uk/nisi/2015/2006/article/122) in operation at 17.2.2016 by [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(4)(g)](https://www.legislation.gov.uk/nisr/2016/46/article/3/4/g)
+[^c-222a7e3335c4f48cd886918a888738b5]: Commencement: [Art. 122](https://www.legislation.gov.uk/nisi/2015/2006/article/122) in operation at 17.2.2016 by [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(4)(g)](https://www.legislation.gov.uk/nisr/2016/46/article/3/4/g)
 
-[^key-41400a1ac8b27b4e989c4541d97a6a49]: Modification: [Art. 122](https://www.legislation.gov.uk/nisi/2015/2006/article/122) applied (4.4.2016) by [The Social Security (Information-sharing in relation to Welfare Services etc.) Regulations (Northern Ireland) 2016 (S.R. 2016/56)](https://www.legislation.gov.uk/nisr/2016/56), [regs. 1](https://www.legislation.gov.uk/nisr/2016/56/regulation/1), [11(2)](https://www.legislation.gov.uk/nisr/2016/56/regulation/11/2)
+[^c-41400a1ac8b27b4e989c4541d97a6a49]: Modification: [Art. 122](https://www.legislation.gov.uk/nisi/2015/2006/article/122) applied (4.4.2016) by [The Social Security (Information-sharing in relation to Welfare Services etc.) Regulations (Northern Ireland) 2016 (S.R. 2016/56)](https://www.legislation.gov.uk/nisr/2016/56), [regs. 1](https://www.legislation.gov.uk/nisr/2016/56/regulation/1), [11(2)](https://www.legislation.gov.uk/nisr/2016/56/regulation/11/2)

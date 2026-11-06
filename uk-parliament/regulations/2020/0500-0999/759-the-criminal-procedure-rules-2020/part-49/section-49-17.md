@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49.17. Application to vary or revoke a search warrant or production etc. order issued to give effect to a European investigation order[^key-3552ef16b2e5bec7bd608ef1a5612a03]
+## 49.17. Application to vary or revoke a search warrant or production etc. order issued to give effect to a European investigation order[^c-3552ef16b2e5bec7bd608ef1a5612a03]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3552ef16b2e5bec7bd608ef1a5612a03]: Textual amendment: [Rules](https://www.legislation.gov.uk/uksi/2020/759) revoked (6.10.2025) by [The Criminal Procedure Rules 2025 (S.I. 2025/909)](https://www.legislation.gov.uk/uksi/2025/909), [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-3552ef16b2e5bec7bd608ef1a5612a03]: Textual amendment: [Rules](https://www.legislation.gov.uk/uksi/2020/759) revoked (6.10.2025) by [The Criminal Procedure Rules 2025 (S.I. 2025/909)](https://www.legislation.gov.uk/uksi/2025/909), [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

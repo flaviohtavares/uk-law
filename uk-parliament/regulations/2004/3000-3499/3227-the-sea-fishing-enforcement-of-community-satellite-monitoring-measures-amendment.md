@@ -46,24 +46,24 @@ Coming into force
 
 1st January 2005
 
-[^key-76e7ab8eba401155a80fb238e4e72d57]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-76e7ab8eba401155a80fb238e4e72d57]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, Commencement and extent[^key-76e7ab8eba401155a80fb238e4e72d57]
+## 1. Citation, Commencement and extent[^c-76e7ab8eba401155a80fb238e4e72d57]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation[^key-76e7ab8eba401155a80fb238e4e72d57]
+## 2. Revocation[^c-76e7ab8eba401155a80fb238e4e72d57]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-76e7ab8eba401155a80fb238e4e72d57]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-76e7ab8eba401155a80fb238e4e72d57]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-76e7ab8eba401155a80fb238e4e72d57]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-76e7ab8eba401155a80fb238e4e72d57]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-76e7ab8eba401155a80fb238e4e72d57]: Textual amendment: Regulations revoked (E.W.) (6.3.2015) by [The Sea Fishing (Enforcement and Miscellaneous Provisions) Order 2015 (S.I. 2015/191)](https://www.legislation.gov.uk/uksi/2015/191), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/191/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/191/schedule)
+[^c-76e7ab8eba401155a80fb238e4e72d57]: Textual amendment: Regulations revoked (E.W.) (6.3.2015) by [The Sea Fishing (Enforcement and Miscellaneous Provisions) Order 2015 (S.I. 2015/191)](https://www.legislation.gov.uk/uksi/2015/191), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/191/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/191/schedule)

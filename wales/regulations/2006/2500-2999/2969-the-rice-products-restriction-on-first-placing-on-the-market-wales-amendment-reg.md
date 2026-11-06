@@ -31,7 +31,7 @@ summary: ''
 
 FOOD, WALES
 
-The Rice Products (Restriction on First Placing on the Market) (Wales) (Amendment) Regulations 2006 (revoked)[^key-620b385ecfe5f607c6b2dc695d2c2906]
+The Rice Products (Restriction on First Placing on the Market) (Wales) (Amendment) Regulations 2006 (revoked)[^c-620b385ecfe5f607c6b2dc695d2c2906]
 
 Made
 
@@ -41,30 +41,30 @@ Coming into force
 
 15 November 2006
 
-[^key-620b385ecfe5f607c6b2dc695d2c2906]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-620b385ecfe5f607c6b2dc695d2c2906]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
 The National Assembly for Wales has been designated for the purpose of that section in relation to measures relating to food (including drink) including the primary production of food and measures relating to feed produced for or fed to food-producing animals .
 
-## 1. Title and commencement[^key-620b385ecfe5f607c6b2dc695d2c2906]
+## 1. Title and commencement[^c-620b385ecfe5f607c6b2dc695d2c2906]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-620b385ecfe5f607c6b2dc695d2c2906]
+## 2. Interpretation[^c-620b385ecfe5f607c6b2dc695d2c2906]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment to Regulation 4 of the Principal Regulations[^key-620b385ecfe5f607c6b2dc695d2c2906]
+## 3. Amendment to Regulation 4 of the Principal Regulations[^c-620b385ecfe5f607c6b2dc695d2c2906]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-620b385ecfe5f607c6b2dc695d2c2906]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-620b385ecfe5f607c6b2dc695d2c2906]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-620b385ecfe5f607c6b2dc695d2c2906]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-620b385ecfe5f607c6b2dc695d2c2906]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-620b385ecfe5f607c6b2dc695d2c2906]: Textual amendment: Regulations revoked (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/uksi/2018/806), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/806/regulation/1/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2018/806/schedule/3)
+[^c-620b385ecfe5f607c6b2dc695d2c2906]: Textual amendment: Regulations revoked (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/uksi/2018/806), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/806/regulation/1/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2018/806/schedule/3)

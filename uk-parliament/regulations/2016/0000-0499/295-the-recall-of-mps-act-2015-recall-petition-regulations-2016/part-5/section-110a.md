@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110A. List of rejected postal petition documents: Northern Ireland[^key-4ac7d890c7410b835f9dca129f73990e]
+## 110A. List of rejected postal petition documents: Northern Ireland[^c-4ac7d890c7410b835f9dca129f73990e]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4ac7d890c7410b835f9dca129f73990e]: Textual amendment: Reg. 110A inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 10(13)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/10/13)
+[^c-4ac7d890c7410b835f9dca129f73990e]: Textual amendment: Reg. 110A inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 10(13)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/10/13)

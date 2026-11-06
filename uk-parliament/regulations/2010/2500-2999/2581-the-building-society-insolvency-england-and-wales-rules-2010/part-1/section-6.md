@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Time limits[^key-dac0e2930b6d1682ece8f6c85f5af62d]
+## 6. Time limits[^c-dac0e2930b6d1682ece8f6c85f5af62d]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dac0e2930b6d1682ece8f6c85f5af62d]: Commencement: Rule 6 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-dac0e2930b6d1682ece8f6c85f5af62d]: Commencement: Rule 6 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

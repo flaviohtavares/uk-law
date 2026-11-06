@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 3 — INQUIRIES INTO FITNESS OF HOLDERS OF CERTIFICATES AND DELIVERY UP AND CUSTODY OF CERTIFICATES IN CONNECTION WITH PROSECUTIONS AND INQUIRIES[^key-cab64fc2d1c9951bc64a662c7315f4d8]
+## SCHEDULE 3 — INQUIRIES INTO FITNESS OF HOLDERS OF CERTIFICATES AND DELIVERY UP AND CUSTODY OF CERTIFICATES IN CONNECTION WITH PROSECUTIONS AND INQUIRIES[^c-cab64fc2d1c9951bc64a662c7315f4d8]
 
 *Extent: N.I.*
 
@@ -24,42 +24,42 @@ summary: ''
 
 Section 127.
 
-### PART I — INQUIRIES INTO FITNESS OF HOLDERS OF CERTIFICATES[^key-cab64fc2d1c9951bc64a662c7315f4d8]
+### PART I — INQUIRIES INTO FITNESS OF HOLDERS OF CERTIFICATES[^c-cab64fc2d1c9951bc64a662c7315f4d8]
 
-**1.**[^key-cab64fc2d1c9951bc64a662c7315f4d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-cab64fc2d1c9951bc64a662c7315f4d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-cab64fc2d1c9951bc64a662c7315f4d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-cab64fc2d1c9951bc64a662c7315f4d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-cab64fc2d1c9951bc64a662c7315f4d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-cab64fc2d1c9951bc64a662c7315f4d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-cab64fc2d1c9951bc64a662c7315f4d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-cab64fc2d1c9951bc64a662c7315f4d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-cab64fc2d1c9951bc64a662c7315f4d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-cab64fc2d1c9951bc64a662c7315f4d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-cab64fc2d1c9951bc64a662c7315f4d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-cab64fc2d1c9951bc64a662c7315f4d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-cab64fc2d1c9951bc64a662c7315f4d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-cab64fc2d1c9951bc64a662c7315f4d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-cab64fc2d1c9951bc64a662c7315f4d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-cab64fc2d1c9951bc64a662c7315f4d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-cab64fc2d1c9951bc64a662c7315f4d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-cab64fc2d1c9951bc64a662c7315f4d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-cab64fc2d1c9951bc64a662c7315f4d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-cab64fc2d1c9951bc64a662c7315f4d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — DELIVERY UP AND CUSTODY OF CERTIFICATES IN CONNECTION WITH PROSECUTIONS AND INQUIRIES[^key-cab64fc2d1c9951bc64a662c7315f4d8]
+### PART II — DELIVERY UP AND CUSTODY OF CERTIFICATES IN CONNECTION WITH PROSECUTIONS AND INQUIRIES[^c-cab64fc2d1c9951bc64a662c7315f4d8]
 
-**11.**[^key-cab64fc2d1c9951bc64a662c7315f4d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-cab64fc2d1c9951bc64a662c7315f4d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-cab64fc2d1c9951bc64a662c7315f4d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-cab64fc2d1c9951bc64a662c7315f4d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-cab64fc2d1c9951bc64a662c7315f4d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-cab64fc2d1c9951bc64a662c7315f4d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-cab64fc2d1c9951bc64a662c7315f4d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-cab64fc2d1c9951bc64a662c7315f4d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-cab64fc2d1c9951bc64a662c7315f4d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-cab64fc2d1c9951bc64a662c7315f4d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-cab64fc2d1c9951bc64a662c7315f4d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-cab64fc2d1c9951bc64a662c7315f4d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cab64fc2d1c9951bc64a662c7315f4d8]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/apni/1969/6/schedule/3) repealed (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2016/427/schedule/3)
+[^c-cab64fc2d1c9951bc64a662c7315f4d8]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/apni/1969/6/schedule/3) repealed (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2016/427/schedule/3)

@@ -31,7 +31,7 @@ summary: ''
 
 AGRICULTURE
 
-The Common Agricultural Policy Single Payment and Support Schemes (Set-aside) (Amendment) Regulations (Northern Ireland) 2006 (revoked)[^key-ba204b39e544c771d3d87e966bf7a1f4]
+The Common Agricultural Policy Single Payment and Support Schemes (Set-aside) (Amendment) Regulations (Northern Ireland) 2006 (revoked)[^c-ba204b39e544c771d3d87e966bf7a1f4]
 
 Made
 
@@ -41,40 +41,40 @@ Coming into operation
 
 15th May 2006
 
-[^key-ba204b39e544c771d3d87e966bf7a1f4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ba204b39e544c771d3d87e966bf7a1f4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-ba204b39e544c771d3d87e966bf7a1f4]
+## 1. Citation and commencement[^c-ba204b39e544c771d3d87e966bf7a1f4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-ba204b39e544c771d3d87e966bf7a1f4]
+## 2. Interpretation[^c-ba204b39e544c771d3d87e966bf7a1f4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of regulation 2 of the Principal Regulations[^key-ba204b39e544c771d3d87e966bf7a1f4]
+## 3. Amendment of regulation 2 of the Principal Regulations[^c-ba204b39e544c771d3d87e966bf7a1f4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of regulation 4 of the Principal Regulations[^key-ba204b39e544c771d3d87e966bf7a1f4]
+## 4. Amendment of regulation 4 of the Principal Regulations[^c-ba204b39e544c771d3d87e966bf7a1f4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of regulation 6 of the Principal Regulations[^key-ba204b39e544c771d3d87e966bf7a1f4]
+## 5. Amendment of regulation 6 of the Principal Regulations[^c-ba204b39e544c771d3d87e966bf7a1f4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of Schedule 1 to the Principal Regulations[^key-ba204b39e544c771d3d87e966bf7a1f4]
+## 6. Amendment of Schedule 1 to the Principal Regulations[^c-ba204b39e544c771d3d87e966bf7a1f4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ba204b39e544c771d3d87e966bf7a1f4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ba204b39e544c771d3d87e966bf7a1f4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ba204b39e544c771d3d87e966bf7a1f4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ba204b39e544c771d3d87e966bf7a1f4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ba204b39e544c771d3d87e966bf7a1f4]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/200) revoked (15.5.2010) by [The Common Agricultural Policy Single Payment and Support Schemes Regulations (Northern Ireland) 2010 (S.R. 2010/161)](https://www.legislation.gov.uk/nisr/2010/161), [regs. 1](https://www.legislation.gov.uk/nisr/2010/161/regulation/1), [9(1)(e)](https://www.legislation.gov.uk/nisr/2010/161/regulation/9/1/e)
+[^c-ba204b39e544c771d3d87e966bf7a1f4]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/200) revoked (15.5.2010) by [The Common Agricultural Policy Single Payment and Support Schemes Regulations (Northern Ireland) 2010 (S.R. 2010/161)](https://www.legislation.gov.uk/nisr/2010/161), [regs. 1](https://www.legislation.gov.uk/nisr/2010/161/regulation/1), [9(1)(e)](https://www.legislation.gov.uk/nisr/2010/161/regulation/9/1/e)

@@ -60,13 +60,13 @@ In this Order—
 
 - “**the Act**” means the Sea Fish (Conservation) Act 1967;
 - “**co-ordinate**” means a co-ordinate of latitude and longitude according to the World Geodetic System 1984 datum [^c23231651]; and
-- [^key-16d633956c3737da59538c05c87046f0]...
+- [^c-16d633956c3737da59538c05c87046f0]...
 
 ## 3. Prescribed minimum size for landing edible crabs in Scotland
 
 (1) For the purposes of section 1(1) of the Act (which prohibits the landing in Scotland of any sea fish of any description, which does not meet such requirements as to size as may be prescribed in relation to sea fish of that description), there is prescribed as the minimum size in relation to sea fish of the description of edible crab a size of 150 millimetres.
 
-(2)[^key-b71782e8f9b757055c8260e8aaa6ee01] The prohibition imposed by section 1(1) of the Act, as read with paragraph (1), does not apply in relation to sea fish caught by a foreign fishing boat in waters lying outside British fishery limits.
+(2)[^c-b71782e8f9b757055c8260e8aaa6ee01] The prohibition imposed by section 1(1) of the Act, as read with paragraph (1), does not apply in relation to sea fish caught by a foreign fishing boat in waters lying outside British fishery limits.
 
 (3) Landing into the Shetland Islands is exempted from the prohibition imposed by section 1(1) of the Act, as read with paragraph (1).
 
@@ -83,11 +83,11 @@ In this Order—
 
 (3) For the purposes of section 1(3B) of the Act (which prohibits the carriage on specified fishing boats of any sea fish of any description, which does not meet such requirements as to size as may be prescribed in relation to sea fish of that description) there is prescribed as the minimum size in relation to sea fish of the description of velvet crab a size of 70 millimetres.
 
-(4) It is prohibited for a relevant British fishing boat within the Scottish zone , or a foreign fishing boat within the Scottish zone,[^key-b24c1b160724f74a30c0f6808d751e1c] to carry any velvet crab with a size of less than 70 millimetres.
+(4) It is prohibited for a relevant British fishing boat within the Scottish zone , or a foreign fishing boat within the Scottish zone,[^c-b24c1b160724f74a30c0f6808d751e1c] to carry any velvet crab with a size of less than 70 millimetres.
 
 (5) The landing in Scotland of any berried velvet crab, caught in the territorial sea of the United Kingdom adjacent to Scotland, is prohibited.
 
-(6)[^key-b6a5f42fb9eac28f3f4b8a06058d3a15] The prohibitions imposed by—
+(6)[^c-b6a5f42fb9eac28f3f4b8a06058d3a15] The prohibitions imposed by—
 
 - (a) section 1(1) of the Act, as read with paragraph (1), and
 - (b) paragraphs (4) and (5),
@@ -107,7 +107,7 @@ do not apply in relation to sea fish caught by a foreign fishing boat in waters 
 
 (1) For the purposes of section 1(1) of the Act (which prohibits the landing in Scotland of any sea fish of any description, which does not meet such requirements as to size as may be prescribed in relation to sea fish of that description), there is prescribed as the minimum size in relation to sea fish of the description of male spider crab a size of 130 millimetres.
 
-(2)[^key-3e8c3adf7f0033550674aeca568f5c55] The prohibition imposed by section 1(1) of the Act, as read with paragraph (1), does not apply in relation to sea fish caught by a foreign fishing boat in waters lying outside British fishery limits.
+(2)[^c-3e8c3adf7f0033550674aeca568f5c55] The prohibition imposed by section 1(1) of the Act, as read with paragraph (1), does not apply in relation to sea fish caught by a foreign fishing boat in waters lying outside British fishery limits.
 
 (3) In this article—
 
@@ -118,7 +118,7 @@ do not apply in relation to sea fish caught by a foreign fishing boat in waters 
 
 (1) For the purposes of section 1(1) of the Act (which prohibits the landing in Scotland of any sea fish of any description, which does not meet such requirements as to size as may be prescribed in relation to sea fish of that description), in relation to landing in the Orkney Islands, there is prescribed as the minimum size in relation to sea fish of the description of green crab a size of 70 millimetres.
 
-(2)[^key-a14fc39922a67b670541c6009171309a] The prohibition imposed by section 1(1) of the Act, as read with paragraph (1), does not apply in relation to sea fish caught by a foreign fishing boat in waters lying outside British fishery limits.
+(2)[^c-a14fc39922a67b670541c6009171309a] The prohibition imposed by section 1(1) of the Act, as read with paragraph (1), does not apply in relation to sea fish caught by a foreign fishing boat in waters lying outside British fishery limits.
 
 (3) In this article—
 
@@ -154,11 +154,11 @@ do not apply in relation to sea fish caught by a foreign fishing boat in waters 
 
 (9) For the purposes of section 1(3B) of the Act (which prohibits the carriage on specified fishing boats of any sea fish of any description, which does not meet such requirements as to size as may be prescribed in relation to sea fish of that description), there is prescribed as the minimum size in relation to sea fish of the description of lobster a size of 87 millimetres.
 
-(10) It is prohibited for a relevant British fishing boat within the Scottish zone , or a foreign fishing boat within the Scottish zone,[^key-b7cd53cfaa0e759a39b094a7f54e79d7] to carry any sea fish of the description of lobster with a size of less than 87 millimetres.
+(10) It is prohibited for a relevant British fishing boat within the Scottish zone , or a foreign fishing boat within the Scottish zone,[^c-b7cd53cfaa0e759a39b094a7f54e79d7] to carry any sea fish of the description of lobster with a size of less than 87 millimetres.
 
 (11) It is prohibited to land in Scotland any sea fish of the description of crippled female lobster, caught in the waters described in schedule 6.
 
-(12)[^key-9c0067fd2ec8a63ef16c5bc88599be99] The prohibitions imposed by—
+(12)[^c-9c0067fd2ec8a63ef16c5bc88599be99] The prohibitions imposed by—
 
 - (a) section 1(1) of the Act, as read with paragraphs (1) to (7), and
 - (b) paragraph (10),
@@ -369,23 +369,23 @@ This Order is made in accordance with the procedure set out in Article 46 of the
 
 [^c23231651]: Marginal citation: The World Geodetic System 1984 datum is defined at paragraph 2.1 of the United States National Imagery and Mapping Agency Technical Report TR8350.2, third edition, amendment 1 of 3rd January 2000 entitled “Department of Defense World Geodetic System 1984” (http://earth-info.nga.mil/GandG/publications/tr8350.2/wgs84fin.pdf).
 
-[^key-16d633956c3737da59538c05c87046f0]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/ssi/2017/455/article/2) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 29(2)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/29/2) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-16d633956c3737da59538c05c87046f0]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/ssi/2017/455/article/2) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 29(2)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/29/2) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-b71782e8f9b757055c8260e8aaa6ee01]: Textual amendment: [Art. 3(2)](https://www.legislation.gov.uk/ssi/2017/455/article/3/2) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 29(3)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/29/3) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-b71782e8f9b757055c8260e8aaa6ee01]: Textual amendment: [Art. 3(2)](https://www.legislation.gov.uk/ssi/2017/455/article/3/2) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 29(3)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/29/3) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-b24c1b160724f74a30c0f6808d751e1c]: Textual amendment: Words in [art. 4(4)](https://www.legislation.gov.uk/ssi/2017/455/article/4/4) inserted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 29(4)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/29/4/a) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-b24c1b160724f74a30c0f6808d751e1c]: Textual amendment: Words in [art. 4(4)](https://www.legislation.gov.uk/ssi/2017/455/article/4/4) inserted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 29(4)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/29/4/a) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-b6a5f42fb9eac28f3f4b8a06058d3a15]: Textual amendment: [Art. 4(6)](https://www.legislation.gov.uk/ssi/2017/455/article/4/6)[(7)](https://www.legislation.gov.uk/ssi/2017/455/article/4/7) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 29(4)(b)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/29/4/b) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-b6a5f42fb9eac28f3f4b8a06058d3a15]: Textual amendment: [Art. 4(6)](https://www.legislation.gov.uk/ssi/2017/455/article/4/6)[(7)](https://www.legislation.gov.uk/ssi/2017/455/article/4/7) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 29(4)(b)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/29/4/b) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
 [^c23231671]: Marginal citation: [S.I. 1999/1126](https://www.legislation.gov.uk/uksi/1999/1126).
 
-[^key-3e8c3adf7f0033550674aeca568f5c55]: Textual amendment: [Art. 5(2)](https://www.legislation.gov.uk/ssi/2017/455/article/5/2) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 29(5)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/29/5) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-3e8c3adf7f0033550674aeca568f5c55]: Textual amendment: [Art. 5(2)](https://www.legislation.gov.uk/ssi/2017/455/article/5/2) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 29(5)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/29/5) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-a14fc39922a67b670541c6009171309a]: Textual amendment: [Art. 6(2)](https://www.legislation.gov.uk/ssi/2017/455/article/6/2) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 29(6)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/29/6) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-a14fc39922a67b670541c6009171309a]: Textual amendment: [Art. 6(2)](https://www.legislation.gov.uk/ssi/2017/455/article/6/2) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 29(6)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/29/6) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-b7cd53cfaa0e759a39b094a7f54e79d7]: Textual amendment: Words in [art. 7(10)](https://www.legislation.gov.uk/ssi/2017/455/article/7/10) inserted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 29(7)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/29/7/a) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-b7cd53cfaa0e759a39b094a7f54e79d7]: Textual amendment: Words in [art. 7(10)](https://www.legislation.gov.uk/ssi/2017/455/article/7/10) inserted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 29(7)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/29/7/a) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-9c0067fd2ec8a63ef16c5bc88599be99]: Textual amendment: [Art. 7(12)](https://www.legislation.gov.uk/ssi/2017/455/article/7/12)[(13)](https://www.legislation.gov.uk/ssi/2017/455/article/7/13) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 29(7)(b)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/29/7/b) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-9c0067fd2ec8a63ef16c5bc88599be99]: Textual amendment: [Art. 7(12)](https://www.legislation.gov.uk/ssi/2017/455/article/7/12)[(13)](https://www.legislation.gov.uk/ssi/2017/455/article/7/13) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 29(7)(b)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/29/7/b) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
 [^c23231681]: Marginal citation: [S.S.I. 2000/197](https://www.legislation.gov.uk/ssi/2000/197), as amended by [S.S.I. 2015/183](https://www.legislation.gov.uk/ssi/2015/183) and [S.S.I. 2016/50](https://www.legislation.gov.uk/ssi/2016/50).
 

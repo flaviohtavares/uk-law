@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 49. Other reports[^key-6d04e22318419eacb7a38c6aed040da8][^key-5133bfda20659bf31f14f8d9b653e8e3]
+## 49. Other reports[^c-6d04e22318419eacb7a38c6aed040da8][^c-5133bfda20659bf31f14f8d9b653e8e3]
 
 *Extent: S*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6d04e22318419eacb7a38c6aed040da8]: Commencement: S. 49 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
+[^c-6d04e22318419eacb7a38c6aed040da8]: Commencement: S. 49 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
 
-[^key-5133bfda20659bf31f14f8d9b653e8e3]: Commencement: [S. 49](https://www.legislation.gov.uk/asp/2025/11/section/49) in force at 1.3.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2)
+[^c-5133bfda20659bf31f14f8d9b653e8e3]: Commencement: [S. 49](https://www.legislation.gov.uk/asp/2025/11/section/49) in force at 1.3.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2)

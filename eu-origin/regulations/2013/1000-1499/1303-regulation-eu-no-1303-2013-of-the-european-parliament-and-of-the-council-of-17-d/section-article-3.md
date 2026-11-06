@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 3 (affected by repeal, see note) (affected by repeal, see note). Calculation of time limits for Commission decisions (affected by repeal, see note) (affected by repeal, see note)[^key-14086a827102ed6e936db0bad96d53b9][^key-b676935048cfd925335e1c66c82fd0d4][^key-b676935048cfd925335e1c66c82fd0d4][^key-b676935048cfd925335e1c66c82fd0d4][^key-b676935048cfd925335e1c66c82fd0d4]
+## Article 3 (affected by repeal, see note) (affected by repeal, see note). Calculation of time limits for Commission decisions (affected by repeal, see note) (affected by repeal, see note)[^c-14086a827102ed6e936db0bad96d53b9][^c-b676935048cfd925335e1c66c82fd0d4][^c-b676935048cfd925335e1c66c82fd0d4][^c-b676935048cfd925335e1c66c82fd0d4][^c-b676935048cfd925335e1c66c82fd0d4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-14086a827102ed6e936db0bad96d53b9]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/eur/2013/1303/article/3) omitted (31.12.2020) by virtue of [The European Structural and Investment Funds Common Provisions (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/785)](https://www.legislation.gov.uk/uksi/2019/785), [regs. 1](https://www.legislation.gov.uk/uksi/2019/785/regulation/1), [4(2)(u)](https://www.legislation.gov.uk/uksi/2019/785/regulation/4/2/u); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-14086a827102ed6e936db0bad96d53b9]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/eur/2013/1303/article/3) omitted (31.12.2020) by virtue of [The European Structural and Investment Funds Common Provisions (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/785)](https://www.legislation.gov.uk/uksi/2019/785), [regs. 1](https://www.legislation.gov.uk/uksi/2019/785/regulation/1), [4(2)(u)](https://www.legislation.gov.uk/uksi/2019/785/regulation/4/2/u); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b676935048cfd925335e1c66c82fd0d4]: Textual amendment: Regulation revoked in so far as relating to the European Maritime and Fisheries Fund (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2020/1542/schedule/part/2)
+[^c-b676935048cfd925335e1c66c82fd0d4]: Textual amendment: Regulation revoked in so far as relating to the European Maritime and Fisheries Fund (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2020/1542/schedule/part/2)

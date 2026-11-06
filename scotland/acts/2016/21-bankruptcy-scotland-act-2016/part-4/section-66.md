@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 66. Replacement of trustee acting in more than one sequestration[^key-d68a169777ed13d4da3eaa8195d31679]
+## 66. Replacement of trustee acting in more than one sequestration[^c-d68a169777ed13d4da3eaa8195d31679]
 
 *Extent: S*
 
@@ -57,4 +57,4 @@ which prevents the trustee from carrying out the trustee's functions, or makes i
 
 ## Annotations
 
-[^key-d68a169777ed13d4da3eaa8195d31679]: Commencement: [S. 66](https://www.legislation.gov.uk/asp/2016/21/section/66) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-d68a169777ed13d4da3eaa8195d31679]: Commencement: [S. 66](https://www.legislation.gov.uk/asp/2016/21/section/66) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

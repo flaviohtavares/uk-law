@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 94. Requisite majorities[^key-49137a5a40cb8bf9db994025c844660a]
+## 94. Requisite majorities[^c-49137a5a40cb8bf9db994025c844660a]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-49137a5a40cb8bf9db994025c844660a]: Commencement: [Rule 94](https://www.legislation.gov.uk/uksi/2011/1301/rule/94) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-49137a5a40cb8bf9db994025c844660a]: Commencement: [Rule 94](https://www.legislation.gov.uk/uksi/2011/1301/rule/94) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

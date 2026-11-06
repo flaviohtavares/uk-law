@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Amending entries on the Register[^key-fe1c01374a20b51a10971bb2053ed1b8]
+## 11. Amending entries on the Register[^c-fe1c01374a20b51a10971bb2053ed1b8]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The Council may make provision as to the restoration and alteration of entries o
 
 ## Annotations
 
-[^key-fe1c01374a20b51a10971bb2053ed1b8]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2015/140/regulation/11) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)
+[^c-fe1c01374a20b51a10971bb2053ed1b8]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2015/140/regulation/11) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)

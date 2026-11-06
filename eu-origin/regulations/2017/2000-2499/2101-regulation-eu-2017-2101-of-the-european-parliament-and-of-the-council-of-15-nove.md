@@ -33,18 +33,18 @@ of 15 November 2017
 
 amending Regulation (EC) No 1920/2006 as regards information exchange on, and an early warning system and risk assessment procedure for, new psychoactive substances (revoked)
 
-[^key-33bb47a5f887fc268ebeb96def8e14da]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-33bb47a5f887fc268ebeb96def8e14da]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Amendments to Regulation (EC) No 1920/2006[^key-33bb47a5f887fc268ebeb96def8e14da]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Entry into force[^key-33bb47a5f887fc268ebeb96def8e14da]
+## Article 1. Amendments to Regulation (EC) No 1920/2006[^c-33bb47a5f887fc268ebeb96def8e14da]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-33bb47a5f887fc268ebeb96def8e14da]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 2. Entry into force[^c-33bb47a5f887fc268ebeb96def8e14da]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-33bb47a5f887fc268ebeb96def8e14da]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-33bb47a5f887fc268ebeb96def8e14da]: Textual amendment: Regulation revoked (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [19](https://www.legislation.gov.uk/uksi/2019/742/regulation/19); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-33bb47a5f887fc268ebeb96def8e14da]: Textual amendment: Regulation revoked (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [19](https://www.legislation.gov.uk/uksi/2019/742/regulation/19); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -40,7 +40,7 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
 ## Part I — General
 
-### 1. Citation, commencement and interpretation[^key-76fe1f4690b66e78f2802b1347deb9cf]
+### 1. Citation, commencement and interpretation[^c-76fe1f4690b66e78f2802b1347deb9cf]
 
 (1) These Regulations may be cited as the Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 1998 and this regulation and regulation 10 shall come into operation on 1st April 1998.
 
@@ -64,7 +64,7 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
 - “the Disability Working Allowance Regulations” means the Disability Working Allowance (General) Regulations (Northern Ireland) 1992[^f00010];
 - “the Family Credit Regulations” means the Family Credit (General) Regulations (Northern Ireland) 1987[^f00011];
-- [^key-8ba919f3da5f4bcad9372d168db941f7]...
+- [^c-8ba919f3da5f4bcad9372d168db941f7]...
 - “the Income Support Regulations” means the Income Support (General) Regulations (Northern Ireland) 1987[^f00013];
 - “the Jobseeker’s Allowance Regulations” means the Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00014].
 
@@ -72,17 +72,17 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
 ## Part II — Child Maintenance Bonus
 
-### 2. Amendment of the Social Security (Child Maintenance Bonus) Regulations[^key-df67f300c3dc75936e93716c91e150b8]
+### 2. Amendment of the Social Security (Child Maintenance Bonus) Regulations[^c-df67f300c3dc75936e93716c91e150b8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Part III — Amendments with respect to Income-Related Benefits and Jobseeker’s Allowance
 
-### 3. Common Amendments: Disregard of contribution[^key-98248b25500de875db5de9fe21e65266][^key-11b558e035e5478661a3f63918ef128d][^key-dad98aec104f02ae6e9d8fbd2bd6731c][^key-daafc1d7df40819a63e3cbe96af912ff]
+### 3. Common Amendments: Disregard of contribution[^c-98248b25500de875db5de9fe21e65266][^c-11b558e035e5478661a3f63918ef128d][^c-dad98aec104f02ae6e9d8fbd2bd6731c][^c-daafc1d7df40819a63e3cbe96af912ff]
 
-(1)[^key-a142bc76f9dace03de6a7771268f6002] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-a142bc76f9dace03de6a7771268f6002] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-a142bc76f9dace03de6a7771268f6002] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-a142bc76f9dace03de6a7771268f6002] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In each of the regulations specified in paragraph (4) the following regulation shall be inserted and numbered in accordance with that paragraph—
 
@@ -96,11 +96,11 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
 - (a) regulation 48A of the Disability Working Allowance Regulations;
 - (b) regulation 43A of the Family Credit Regulations;
-- (c)[^key-75b200856ab09004c958963c31ee737d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-75b200856ab09004c958963c31ee737d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) regulation 67A of the Income Support Regulations, and
 - (e) regulation 137A of the Jobseeker’s Allowance Regulations.
 
-### 4. Common Amendments: Disregard of income other than earnings[^key-ce6bbf14f46a08350d7733e04b3e31d6][^key-822cf75adea9f33d3b2f69e4d0c6f988][^key-44de34b51d6e40e6df775f613c021c46][^key-d23af179df3e85d625e6bb7f047d9c72]
+### 4. Common Amendments: Disregard of income other than earnings[^c-ce6bbf14f46a08350d7733e04b3e31d6][^c-822cf75adea9f33d3b2f69e4d0c6f988][^c-44de34b51d6e40e6df775f613c021c46][^c-d23af179df3e85d625e6bb7f047d9c72]
 
 (1) For each of the paragraphs of the Schedules to the Regulations specified in paragraph (2) (sums to be disregarded in the calculation of income other than earnings) there shall be substituted the following paragraph—
 
@@ -117,33 +117,33 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
 - (a) paragraph 24 of Schedule 3 to the Disability Working Allowance Regulations[^f00025];
 - (b) paragraph 24 of Schedule 2 to the Family Credit Regulations[^f00026];
-- (c)[^key-9bd471f686453c3d6ee3a708330a4ae2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-9bd471f686453c3d6ee3a708330a4ae2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) paragraph 27 of Schedule 9 to the Income Support Regulations[^f00028], and
 - (e) paragraph 28 of Schedule 6 to the Jobseeker’s Allowance Regulations[^f00029].
 
-(3)[^key-3caf87ff05ed70522b661a89538d281f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-3caf87ff05ed70522b661a89538d281f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Housing Benefit, Income Support, Jobseeker’s Allowance: Amendments with respect to persons in detention[^key-93059a78fc431516eccea821f0600c7f][^key-5fa26c0480407ebbfd271bc5624a118d][^key-2e4d28b111982b3b82747edafe7f5744][^key-57950ba782babbacdb94c7f50f9332e8]
+### 5. Housing Benefit, Income Support, Jobseeker’s Allowance: Amendments with respect to persons in detention[^c-93059a78fc431516eccea821f0600c7f][^c-5fa26c0480407ebbfd271bc5624a118d][^c-2e4d28b111982b3b82747edafe7f5744][^c-57950ba782babbacdb94c7f50f9332e8]
 
 (1) For the words referred to in each of the provisions specified in paragraph (2) there shall be substituted “who is detained in hospital”—
 
 (2) The words referred to and the provisions specified in this paragraph are—
 
-- (a)[^key-430d603a11a26acf489f7899ec27fa9b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-430d603a11a26acf489f7899ec27fa9b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in the Income Support Regulations—
   - (i) in regulation 21(3)[^f00033] (special cases) in the definition of “prisoner”[^f00034] for “whose detention is”;
-  - (ii)[^key-2e13896ac16e8a4ca164d32a2afec18a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^c-2e13896ac16e8a4ca164d32a2afec18a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) in the Jobseeker’s Allowance Regulations in regulation 85(4) (special cases) in the definition of “prisoner” for “whose detention is”.
 
-### 6. Housing Benefit: Maximum rent[^key-884a1b5a997bc5f4b34754226445437d]
+### 6. Housing Benefit: Maximum rent[^c-884a1b5a997bc5f4b34754226445437d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Housing Benefit: Excluded tenancies[^key-2b6777cff667870d90b749522df6e545]
+### 7. Housing Benefit: Excluded tenancies[^c-2b6777cff667870d90b749522df6e545]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Income Support and Jobseeker’s Allowance: Treatment of grant awards for former students[^key-5d03a8aff13e437ce258c097ec453ad5][^key-5d97843431ce57724e1da140375d2098][^key-b99407ed7380301ede3d631a3181cfe1][^key-bf0fa496c3aa58bd91a8b4e136e676c9]
+### 8. Income Support and Jobseeker’s Allowance: Treatment of grant awards for former students[^c-5d03a8aff13e437ce258c097ec453ad5][^c-5d97843431ce57724e1da140375d2098][^c-b99407ed7380301ede3d631a3181cfe1][^c-bf0fa496c3aa58bd91a8b4e136e676c9]
 
 In regulation 29(2A) of the Income Support Regulations[^f00038] and regulation 94(2A) of the Jobseeker’s Allowance Regulations[^f00039] (calculations of earnings derived from employed earner’s employment and income other than earnings) after sub-paragraph (*a*) the following sub-paragraph shall be inserted—
 
@@ -151,7 +151,7 @@ In regulation 29(2A) of the Income Support Regulations[^f00038] and regulation 9
 
 .
 
-### 9. Income Support and Jobseeker’s Allowance: Calculation of notional income and income other than earnings[^key-845ecb207add810e71df3843f7834087][^key-e0052560be0707a0daf0f0477485e40b][^key-2ccced2c1b16d84a4202ae888a587108][^key-17702656f8377a475be15d0a0d7f7101]
+### 9. Income Support and Jobseeker’s Allowance: Calculation of notional income and income other than earnings[^c-845ecb207add810e71df3843f7834087][^c-e0052560be0707a0daf0f0477485e40b][^c-2ccced2c1b16d84a4202ae888a587108][^c-17702656f8377a475be15d0a0d7f7101]
 
 (1) The Income Support Regulations shall be amended in accordance with sub-paragraphs (*a*) to (*c*)—
 
@@ -160,7 +160,7 @@ In regulation 29(2A) of the Income Support Regulations[^f00038] and regulation 9
 - (c) in Schedule 9 (sums to be disregarded in the calculation of income other than earnings)—
   - (i) in paragraph 7[^f00044]—
     - (a) in sub-paragraph (*a*) for “paragraph 6, 9 or 9A”[^f00045] there shall be substituted “paragraph 6 or 9”, and
-    - (b)[^key-9825ae51f83f3436868186004a4bb728] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+    - (b)[^c-9825ae51f83f3436868186004a4bb728] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (ii) after paragraph 61[^f00046] there shall be added the following paragraph—
 
     > **62.** Any payment made with respect to a person on account of the provision of accommodation, aftercare or other personal social services to which Articles 15 and 36 of the 1972 Order refer which falls to be treated as notional income under regulation 42(4A) (payments made in respect of a person in a residential care or nursing home).
@@ -176,7 +176,7 @@ In regulation 29(2A) of the Income Support Regulations[^f00038] and regulation 9
 
   .
 
-### 10. Jobseeker’s Allowance: Periods of interruption of employment[^key-57fe46248dd29ef1b1e4a5b244c0268d]
+### 10. Jobseeker’s Allowance: Periods of interruption of employment[^c-57fe46248dd29ef1b1e4a5b244c0268d]
 
 (1) Regulation 47A of the Jobseeker’s Allowance Regulations[^f00049] (job seeking periods: periods of interruption of employment) shall be renumbered as regulation 47A(1) and in sub-paragraph (*za*) of that paragraph “and is still current on 1st December 1997” shall be omitted.
 
@@ -188,7 +188,7 @@ In regulation 29(2A) of the Income Support Regulations[^f00038] and regulation 9
 
 ## Part IV — Amendments with respect to Persons from Abroad
 
-### 11. Common amendments with respect to persons from abroad[^key-ced4554f742953ad7df0e2af7dfff9a4][^key-77abd99a192f3e33b5c2b278cbb06cc5][^key-73dcd685e19da28324869c30b84b3844][^key-8c36dc34ba6ccc0d636fc64ba9a8905d]
+### 11. Common amendments with respect to persons from abroad[^c-ced4554f742953ad7df0e2af7dfff9a4][^c-77abd99a192f3e33b5c2b278cbb06cc5][^c-73dcd685e19da28324869c30b84b3844][^c-8c36dc34ba6ccc0d636fc64ba9a8905d]
 
 (1) In each of the regulations specified in paragraph (2) (conditions affecting the entitlement of a person from abroad to the relevant benefits) for “to remain in the United Kingdom by the Secretary of State” there shall be substituted—
 
@@ -211,11 +211,11 @@ In regulation 29(2A) of the Income Support Regulations[^f00038] and regulation 9
 
 (4) The regulations specified in this paragraph are—
 
-- (a)[^key-3a03aab73ed0fb927137d08130aa8da4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-3a03aab73ed0fb927137d08130aa8da4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) regulation 21(3) of the Income Support Regulations[^f00060] in sub-paragraph (*c*) of the second definition of “person from abroad”, and
 - (c) regulation 85(4) of the Jobseeker’s Allowance Regulations[^f00061] in sub-paragraph (*c*) of the second definition of “person from abroad”.
 
-### 12. Further amendments of the Income Support Regulations and the Jobseeker’s Allowance Regulations[^key-b9c451dadd9898a7fc7d2d536a007858]
+### 12. Further amendments of the Income Support Regulations and the Jobseeker’s Allowance Regulations[^c-b9c451dadd9898a7fc7d2d536a007858]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -281,7 +281,7 @@ In so far as these Regulations are required, for the purposes of regulations 3(1
 
 [^f00006]: Footnote: *See* section 150(1)(b) of the Social Security Administration (Northern Ireland) Act 1992
 
-[^key-76fe1f4690b66e78f2802b1347deb9cf]: Commencement: Reg. 1 in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/81/regulation/1/1)
+[^c-76fe1f4690b66e78f2802b1347deb9cf]: Commencement: Reg. 1 in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/81/regulation/1/1)
 
 [^f00007]: Footnote: [S.R. 1998 No. 59](https://www.legislation.gov.uk/nisr/1998/59)
 
@@ -293,7 +293,7 @@ In so far as these Regulations are required, for the purposes of regulations 3(1
 
 [^f00011]: Footnote: [S.R. 1987 No. 463](https://www.legislation.gov.uk/nisr/1987/463); relevant amending Regulations are [S.R. 1996 No. 11](https://www.legislation.gov.uk/nisr/1996/11) and [S.R. 1998 No. 2](https://www.legislation.gov.uk/nisr/1998/2)
 
-[^key-8ba919f3da5f4bcad9372d168db941f7]: Textual amendment: Words in [reg. 1(7)](https://www.legislation.gov.uk/nisr/1998/81/regulation/1/7) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-8ba919f3da5f4bcad9372d168db941f7]: Textual amendment: Words in [reg. 1(7)](https://www.legislation.gov.uk/nisr/1998/81/regulation/1/7) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
 [^f00013]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); relevant amending Regulations are [S.R. 1988 Nos. 205](https://www.legislation.gov.uk/nisr/1988/205), [318](https://www.legislation.gov.uk/nisr/1988/318) and [431](https://www.legislation.gov.uk/nisr/1988/431), [S.R. 1990 Nos. 33](https://www.legislation.gov.uk/nisr/1990/33), [131](https://www.legislation.gov.uk/nisr/1990/131) and [297](https://www.legislation.gov.uk/nisr/1990/297), [S.R. 1991 Nos. 46](https://www.legislation.gov.uk/nisr/1991/46) and [204](https://www.legislation.gov.uk/nisr/1991/204), [S.R. 1992 Nos. 6](https://www.legislation.gov.uk/nisr/1992/6) and [201](https://www.legislation.gov.uk/nisr/1992/201), [S.R. 1993 Nos. 195](https://www.legislation.gov.uk/nisr/1993/195), [233](https://www.legislation.gov.uk/nisr/1993/233) and [373](https://www.legislation.gov.uk/nisr/1993/373), [S.R. 1994 Nos. 77](https://www.legislation.gov.uk/nisr/1994/77) and [266](https://www.legislation.gov.uk/nisr/1994/266), [S.R. 1995 No. 86](https://www.legislation.gov.uk/nisr/1995/86), [S.R. 1996 Nos. 375](https://www.legislation.gov.uk/nisr/1996/375), [405](https://www.legislation.gov.uk/nisr/1996/405) and [449](https://www.legislation.gov.uk/nisr/1996/449), [S.R. 1997 Nos. 22](https://www.legislation.gov.uk/nisr/1997/22), [412](https://www.legislation.gov.uk/nisr/1997/412) and [541](https://www.legislation.gov.uk/nisr/1997/541) and [S.R. 1998 No. 2](https://www.legislation.gov.uk/nisr/1998/2)
 
@@ -301,27 +301,27 @@ In so far as these Regulations are required, for the purposes of regulations 3(1
 
 [^f00015]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-df67f300c3dc75936e93716c91e150b8]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/1998/81/regulation/2) revoked (coming into operation in accordance with reg. 1(1) of the amending Rule) by [The Social Security (Child Maintenance Premium and Miscellaneous Amendments) Regulations (Northern Ireland) 2001 (S.R. 2001/25)](https://www.legislation.gov.uk/nisr/2001/25), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2001/25/regulation/1/1), [4(1)(d)](https://www.legislation.gov.uk/nisr/2001/25/regulation/4/1/d)
+[^c-df67f300c3dc75936e93716c91e150b8]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/1998/81/regulation/2) revoked (coming into operation in accordance with reg. 1(1) of the amending Rule) by [The Social Security (Child Maintenance Premium and Miscellaneous Amendments) Regulations (Northern Ireland) 2001 (S.R. 2001/25)](https://www.legislation.gov.uk/nisr/2001/25), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2001/25/regulation/1/1), [4(1)(d)](https://www.legislation.gov.uk/nisr/2001/25/regulation/4/1/d)
 
-[^key-98248b25500de875db5de9fe21e65266]: Commencement: Reg. 3 in operation at 1.4.1998 for specified purposes, see [reg. 1(5)(a)](https://www.legislation.gov.uk/nisr/1998/81/regulation/1/5/a)
+[^c-98248b25500de875db5de9fe21e65266]: Commencement: Reg. 3 in operation at 1.4.1998 for specified purposes, see [reg. 1(5)(a)](https://www.legislation.gov.uk/nisr/1998/81/regulation/1/5/a)
 
-[^key-11b558e035e5478661a3f63918ef128d]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/1998/81/regulation/3) in operation at 6.4.1998 for specified purposes, see [reg. 1(5)(b)](https://www.legislation.gov.uk/nisr/1998/81/regulation/1/5/b)
+[^c-11b558e035e5478661a3f63918ef128d]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/1998/81/regulation/3) in operation at 6.4.1998 for specified purposes, see [reg. 1(5)(b)](https://www.legislation.gov.uk/nisr/1998/81/regulation/1/5/b)
 
-[^key-dad98aec104f02ae6e9d8fbd2bd6731c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/1998/81/regulation/3) coming into operation in accordance with [reg. 1(2)](https://www.legislation.gov.uk/nisr/1998/81/regulation/1/2)
+[^c-dad98aec104f02ae6e9d8fbd2bd6731c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/1998/81/regulation/3) coming into operation in accordance with [reg. 1(2)](https://www.legislation.gov.uk/nisr/1998/81/regulation/1/2)
 
-[^key-daafc1d7df40819a63e3cbe96af912ff]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/1998/81/regulation/3) in operation at 7.4.1998 for specified purposes, see [reg. 1(4)](https://www.legislation.gov.uk/nisr/1998/81/regulation/1/4)
+[^c-daafc1d7df40819a63e3cbe96af912ff]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/1998/81/regulation/3) in operation at 7.4.1998 for specified purposes, see [reg. 1(4)](https://www.legislation.gov.uk/nisr/1998/81/regulation/1/4)
 
-[^key-a142bc76f9dace03de6a7771268f6002]: Textual amendment: [Reg. 3(1)](https://www.legislation.gov.uk/nisr/1998/81/regulation/3/1)[(2)](https://www.legislation.gov.uk/nisr/1998/81/regulation/3/2) revoked (6.4.2009) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/92)](https://www.legislation.gov.uk/nisr/2009/92), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2009/92/schedule)
+[^c-a142bc76f9dace03de6a7771268f6002]: Textual amendment: [Reg. 3(1)](https://www.legislation.gov.uk/nisr/1998/81/regulation/3/1)[(2)](https://www.legislation.gov.uk/nisr/1998/81/regulation/3/2) revoked (6.4.2009) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/92)](https://www.legislation.gov.uk/nisr/2009/92), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2009/92/schedule)
 
-[^key-75b200856ab09004c958963c31ee737d]: Textual amendment: [Reg. 3(4)(c)](https://www.legislation.gov.uk/nisr/1998/81/regulation/3/4/c) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-75b200856ab09004c958963c31ee737d]: Textual amendment: [Reg. 3(4)(c)](https://www.legislation.gov.uk/nisr/1998/81/regulation/3/4/c) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
-[^key-ce6bbf14f46a08350d7733e04b3e31d6]: Commencement: Reg. 4 in operation at 1.4.1998 for specified purposes, see [reg. 1(5)(a)](https://www.legislation.gov.uk/nisr/1998/81/regulation/1/5/a)
+[^c-ce6bbf14f46a08350d7733e04b3e31d6]: Commencement: Reg. 4 in operation at 1.4.1998 for specified purposes, see [reg. 1(5)(a)](https://www.legislation.gov.uk/nisr/1998/81/regulation/1/5/a)
 
-[^key-822cf75adea9f33d3b2f69e4d0c6f988]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/1998/81/regulation/4) in operation at 6.4.1998 for specified purposes, see [reg. 1(5)(b)](https://www.legislation.gov.uk/nisr/1998/81/regulation/1/5/b)
+[^c-822cf75adea9f33d3b2f69e4d0c6f988]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/1998/81/regulation/4) in operation at 6.4.1998 for specified purposes, see [reg. 1(5)(b)](https://www.legislation.gov.uk/nisr/1998/81/regulation/1/5/b)
 
-[^key-44de34b51d6e40e6df775f613c021c46]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/1998/81/regulation/4) coming into operation in accordance with [reg. 1(2)](https://www.legislation.gov.uk/nisr/1998/81/regulation/1/2)
+[^c-44de34b51d6e40e6df775f613c021c46]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/1998/81/regulation/4) coming into operation in accordance with [reg. 1(2)](https://www.legislation.gov.uk/nisr/1998/81/regulation/1/2)
 
-[^key-d23af179df3e85d625e6bb7f047d9c72]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/1998/81/regulation/4) in operation at 7.4.1998 for specified purposes, see [reg. 1(4)](https://www.legislation.gov.uk/nisr/1998/81/regulation/1/4)
+[^c-d23af179df3e85d625e6bb7f047d9c72]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/1998/81/regulation/4) in operation at 7.4.1998 for specified purposes, see [reg. 1(4)](https://www.legislation.gov.uk/nisr/1998/81/regulation/1/4)
 
 [^f00023]: Footnote: [S.I. 1972/1275 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1275); Article 36 was substituted by Article 25 of [S.I. 1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194) and amended by paragraph 2(4) and (5) of Schedule 1 to [S.I. 1992/3204 (N.I. 20)](https://www.legislation.gov.uk/nisi/1992/3204)
 
@@ -331,53 +331,53 @@ In so far as these Regulations are required, for the purposes of regulations 3(1
 
 [^f00026]: Footnote: Paragraph 24 was amended by regulation 4(5)(*c*) of [S.R. 1998 No. 2](https://www.legislation.gov.uk/nisr/1998/2)
 
-[^key-9bd471f686453c3d6ee3a708330a4ae2]: Textual amendment: [Reg. 4(2)(c)](https://www.legislation.gov.uk/nisr/1998/81/regulation/4/2/c) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-9bd471f686453c3d6ee3a708330a4ae2]: Textual amendment: [Reg. 4(2)(c)](https://www.legislation.gov.uk/nisr/1998/81/regulation/4/2/c) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
 [^f00028]: Footnote: Paragraph 27 was amended by regulation 2(8)(*c*) of [S.R. 1998 No. 2](https://www.legislation.gov.uk/nisr/1998/2)
 
 [^f00029]: Footnote: Paragraph 28 was amended by regulation 8(7)(*c*) of [S.R. 1998 No. 2](https://www.legislation.gov.uk/nisr/1998/2)
 
-[^key-3caf87ff05ed70522b661a89538d281f]: Textual amendment: [Reg. 4(3)](https://www.legislation.gov.uk/nisr/1998/81/regulation/4/3) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-3caf87ff05ed70522b661a89538d281f]: Textual amendment: [Reg. 4(3)](https://www.legislation.gov.uk/nisr/1998/81/regulation/4/3) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
-[^key-93059a78fc431516eccea821f0600c7f]: Commencement: Reg. 5 in operation at 1.4.1998 for specified purposes, see [reg. 1(5)(a)](https://www.legislation.gov.uk/nisr/1998/81/regulation/1/5/a)
+[^c-93059a78fc431516eccea821f0600c7f]: Commencement: Reg. 5 in operation at 1.4.1998 for specified purposes, see [reg. 1(5)(a)](https://www.legislation.gov.uk/nisr/1998/81/regulation/1/5/a)
 
-[^key-5fa26c0480407ebbfd271bc5624a118d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/1998/81/regulation/5) in operation at 6.4.1998 for specified purposes, see [reg. 1(5)(b)](https://www.legislation.gov.uk/nisr/1998/81/regulation/1/5/b)
+[^c-5fa26c0480407ebbfd271bc5624a118d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/1998/81/regulation/5) in operation at 6.4.1998 for specified purposes, see [reg. 1(5)(b)](https://www.legislation.gov.uk/nisr/1998/81/regulation/1/5/b)
 
-[^key-2e4d28b111982b3b82747edafe7f5744]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/1998/81/regulation/5) coming into operation in accordance with [reg. 1(2)](https://www.legislation.gov.uk/nisr/1998/81/regulation/1/2)
+[^c-2e4d28b111982b3b82747edafe7f5744]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/1998/81/regulation/5) coming into operation in accordance with [reg. 1(2)](https://www.legislation.gov.uk/nisr/1998/81/regulation/1/2)
 
-[^key-57950ba782babbacdb94c7f50f9332e8]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/1998/81/regulation/5) in operation at 7.4.1998 for specified purposes, see [reg. 1(4)](https://www.legislation.gov.uk/nisr/1998/81/regulation/1/4)
+[^c-57950ba782babbacdb94c7f50f9332e8]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/1998/81/regulation/5) in operation at 7.4.1998 for specified purposes, see [reg. 1(4)](https://www.legislation.gov.uk/nisr/1998/81/regulation/1/4)
 
-[^key-430d603a11a26acf489f7899ec27fa9b]: Textual amendment: [Reg. 5(2)(a)](https://www.legislation.gov.uk/nisr/1998/81/regulation/5/2/a) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-430d603a11a26acf489f7899ec27fa9b]: Textual amendment: [Reg. 5(2)(a)](https://www.legislation.gov.uk/nisr/1998/81/regulation/5/2/a) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
 [^f00033]: Footnote: Relevant amending Regulations are [S.R. 1996 No. 375](https://www.legislation.gov.uk/nisr/1996/375)
 
 [^f00034]: Footnote: The definition of “prisoner” was substituted by regulation 2(6)(*a*) of [S.R. 1995 No. 86](https://www.legislation.gov.uk/nisr/1995/86)
 
-[^key-2e13896ac16e8a4ca164d32a2afec18a]: Textual amendment: [Reg. 5(2)(b)(ii)](https://www.legislation.gov.uk/nisr/1998/81/regulation/5/2/b/ii) revoked (coming into operation in accordance with reg. 1(1)(d) of the amending Rule) by [The Social Security (Hospital In-Patients) Regulations (Northern Ireland) 2005 (S.R. 2005/580)](https://www.legislation.gov.uk/nisr/2005/580), [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/2005/580/regulation/1/1/d), [Sch. 1](https://www.legislation.gov.uk/nisr/2005/580/schedule/1)
+[^c-2e13896ac16e8a4ca164d32a2afec18a]: Textual amendment: [Reg. 5(2)(b)(ii)](https://www.legislation.gov.uk/nisr/1998/81/regulation/5/2/b/ii) revoked (coming into operation in accordance with reg. 1(1)(d) of the amending Rule) by [The Social Security (Hospital In-Patients) Regulations (Northern Ireland) 2005 (S.R. 2005/580)](https://www.legislation.gov.uk/nisr/2005/580), [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/2005/580/regulation/1/1/d), [Sch. 1](https://www.legislation.gov.uk/nisr/2005/580/schedule/1)
 
-[^key-884a1b5a997bc5f4b34754226445437d]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/nisr/1998/81/regulation/6) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-884a1b5a997bc5f4b34754226445437d]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/nisr/1998/81/regulation/6) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
-[^key-2b6777cff667870d90b749522df6e545]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/nisr/1998/81/regulation/7) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-2b6777cff667870d90b749522df6e545]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/nisr/1998/81/regulation/7) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
-[^key-5d03a8aff13e437ce258c097ec453ad5]: Commencement: Reg. 8 in operation at 1.4.1998 for specified purposes, see [reg. 1(5)(a)](https://www.legislation.gov.uk/nisr/1998/81/regulation/1/5/a)
+[^c-5d03a8aff13e437ce258c097ec453ad5]: Commencement: Reg. 8 in operation at 1.4.1998 for specified purposes, see [reg. 1(5)(a)](https://www.legislation.gov.uk/nisr/1998/81/regulation/1/5/a)
 
-[^key-5d97843431ce57724e1da140375d2098]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/1998/81/regulation/8) in operation at 6.4.1998 for specified purposes, see [reg. 1(5)(b)](https://www.legislation.gov.uk/nisr/1998/81/regulation/1/5/b)
+[^c-5d97843431ce57724e1da140375d2098]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/1998/81/regulation/8) in operation at 6.4.1998 for specified purposes, see [reg. 1(5)(b)](https://www.legislation.gov.uk/nisr/1998/81/regulation/1/5/b)
 
-[^key-b99407ed7380301ede3d631a3181cfe1]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/1998/81/regulation/8) coming into operation in accordance with [reg. 1(2)](https://www.legislation.gov.uk/nisr/1998/81/regulation/1/2)
+[^c-b99407ed7380301ede3d631a3181cfe1]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/1998/81/regulation/8) coming into operation in accordance with [reg. 1(2)](https://www.legislation.gov.uk/nisr/1998/81/regulation/1/2)
 
-[^key-bf0fa496c3aa58bd91a8b4e136e676c9]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/1998/81/regulation/8) in operation at 7.4.1998 for specified purposes, see [reg. 1(4)](https://www.legislation.gov.uk/nisr/1998/81/regulation/1/4)
+[^c-bf0fa496c3aa58bd91a8b4e136e676c9]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/1998/81/regulation/8) in operation at 7.4.1998 for specified purposes, see [reg. 1(4)](https://www.legislation.gov.uk/nisr/1998/81/regulation/1/4)
 
 [^f00038]: Footnote: Paragraph (2A) was inserted by regulation 5(1)(*b*) of [S.R. 1997 No. 22](https://www.legislation.gov.uk/nisr/1997/22)
 
 [^f00039]: Footnote: Paragraph (2A) was inserted by regulation 5(2)(*b*) of [S.R. 1997 No. 22](https://www.legislation.gov.uk/nisr/1997/22)
 
-[^key-845ecb207add810e71df3843f7834087]: Commencement: Reg. 9 in operation at 1.4.1998 for specified purposes, see [reg. 1(5)(a)](https://www.legislation.gov.uk/nisr/1998/81/regulation/1/5/a)
+[^c-845ecb207add810e71df3843f7834087]: Commencement: Reg. 9 in operation at 1.4.1998 for specified purposes, see [reg. 1(5)(a)](https://www.legislation.gov.uk/nisr/1998/81/regulation/1/5/a)
 
-[^key-e0052560be0707a0daf0f0477485e40b]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/1998/81/regulation/9) in operation at 6.4.1998 for specified purposes, see [reg. 1(5)(b)](https://www.legislation.gov.uk/nisr/1998/81/regulation/1/5/b)
+[^c-e0052560be0707a0daf0f0477485e40b]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/1998/81/regulation/9) in operation at 6.4.1998 for specified purposes, see [reg. 1(5)(b)](https://www.legislation.gov.uk/nisr/1998/81/regulation/1/5/b)
 
-[^key-2ccced2c1b16d84a4202ae888a587108]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/1998/81/regulation/9) coming into operation in accordance with [reg. 1(2)](https://www.legislation.gov.uk/nisr/1998/81/regulation/1/2)
+[^c-2ccced2c1b16d84a4202ae888a587108]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/1998/81/regulation/9) coming into operation in accordance with [reg. 1(2)](https://www.legislation.gov.uk/nisr/1998/81/regulation/1/2)
 
-[^key-17702656f8377a475be15d0a0d7f7101]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/1998/81/regulation/9) in operation at 7.4.1998 for specified purposes, see [reg. 1(4)](https://www.legislation.gov.uk/nisr/1998/81/regulation/1/4)
+[^c-17702656f8377a475be15d0a0d7f7101]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/1998/81/regulation/9) in operation at 7.4.1998 for specified purposes, see [reg. 1(4)](https://www.legislation.gov.uk/nisr/1998/81/regulation/1/4)
 
 [^f00040]: Footnote: Relevant amending Regulations are [S.R. 1988 No. 431](https://www.legislation.gov.uk/nisr/1988/431) and [S.R. 1990 No. 297](https://www.legislation.gov.uk/nisr/1990/297)
 
@@ -391,7 +391,7 @@ In so far as these Regulations are required, for the purposes of regulations 3(1
 
 [^f00045]: Footnote: Paragraph 9A was omitted by [S.R. 1993 No. 373](https://www.legislation.gov.uk/nisr/1993/373)
 
-[^key-9825ae51f83f3436868186004a4bb728]: Textual amendment: [Reg. 9(1)(c)(i)(b)](https://www.legislation.gov.uk/nisr/1998/81/regulation/9/1/c/i/b) revoked (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) Regulations (Northern Ireland) 2008 (S.R. 2008/286)](https://www.legislation.gov.uk/nisr/2008/286), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2008/286/regulation/1/b), [35](https://www.legislation.gov.uk/nisr/2008/286/regulation/35), [Sch. 2](https://www.legislation.gov.uk/nisr/2008/286/schedule/2)
+[^c-9825ae51f83f3436868186004a4bb728]: Textual amendment: [Reg. 9(1)(c)(i)(b)](https://www.legislation.gov.uk/nisr/1998/81/regulation/9/1/c/i/b) revoked (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) Regulations (Northern Ireland) 2008 (S.R. 2008/286)](https://www.legislation.gov.uk/nisr/2008/286), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2008/286/regulation/1/b), [35](https://www.legislation.gov.uk/nisr/2008/286/regulation/35), [Sch. 2](https://www.legislation.gov.uk/nisr/2008/286/schedule/2)
 
 [^f00046]: Footnote: Paragraph 61 was added by regulation 17(9) and (10)(*a*) of [S.R. 1997 No. 541](https://www.legislation.gov.uk/nisr/1997/541)
 
@@ -399,19 +399,19 @@ In so far as these Regulations are required, for the purposes of regulations 3(1
 
 [^f00048]: Footnote: Paragraph 59 was added by regulation 14(*b*) of [S.R. 1997 No. 541](https://www.legislation.gov.uk/nisr/1997/541)
 
-[^key-57fe46248dd29ef1b1e4a5b244c0268d]: Commencement: Reg. 10 in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/81/regulation/1/1)
+[^c-57fe46248dd29ef1b1e4a5b244c0268d]: Commencement: Reg. 10 in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/81/regulation/1/1)
 
 [^f00049]: Footnote: Regulation 47A was inserted by regulation 2(7) of [S.R. 1996 No. 503](https://www.legislation.gov.uk/nisr/1996/503) and amended by regulation 2 of [S.R. 1997 No. 484](https://www.legislation.gov.uk/nisr/1997/484)
 
 [^f00050]: Footnote: Section 25A was inserted by paragraph 5 of Schedule 1 to the Social Security (Incapacity for Work) (Northern Ireland) Order 1994 ([S.I. 1994/1898 (N.I. 12)](https://www.legislation.gov.uk/nisi/1994/1898)) and repealed by Article 4 of, and Schedule3 to, the Jobseekers (Northern Ireland) Order 1995
 
-[^key-ced4554f742953ad7df0e2af7dfff9a4]: Commencement: Reg. 11 in operation at 1.4.1998 for specified purposes, see [reg. 1(5)(a)](https://www.legislation.gov.uk/nisr/1998/81/regulation/1/5/a)
+[^c-ced4554f742953ad7df0e2af7dfff9a4]: Commencement: Reg. 11 in operation at 1.4.1998 for specified purposes, see [reg. 1(5)(a)](https://www.legislation.gov.uk/nisr/1998/81/regulation/1/5/a)
 
-[^key-77abd99a192f3e33b5c2b278cbb06cc5]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/1998/81/regulation/11) in operation at 6.4.1998 for specified purposes, see [reg. 1(5)(b)](https://www.legislation.gov.uk/nisr/1998/81/regulation/1/5/b)
+[^c-77abd99a192f3e33b5c2b278cbb06cc5]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/1998/81/regulation/11) in operation at 6.4.1998 for specified purposes, see [reg. 1(5)(b)](https://www.legislation.gov.uk/nisr/1998/81/regulation/1/5/b)
 
-[^key-73dcd685e19da28324869c30b84b3844]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/1998/81/regulation/11) coming into operation in accordance with [reg. 1(2)](https://www.legislation.gov.uk/nisr/1998/81/regulation/1/2)
+[^c-73dcd685e19da28324869c30b84b3844]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/1998/81/regulation/11) coming into operation in accordance with [reg. 1(2)](https://www.legislation.gov.uk/nisr/1998/81/regulation/1/2)
 
-[^key-8c36dc34ba6ccc0d636fc64ba9a8905d]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/1998/81/regulation/11) in operation at 7.4.1998 for specified purposes, see [reg. 1(4)](https://www.legislation.gov.uk/nisr/1998/81/regulation/1/4)
+[^c-8c36dc34ba6ccc0d636fc64ba9a8905d]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/1998/81/regulation/11) in operation at 7.4.1998 for specified purposes, see [reg. 1(4)](https://www.legislation.gov.uk/nisr/1998/81/regulation/1/4)
 
 [^f00051]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77)
 
@@ -429,10 +429,10 @@ In so far as these Regulations are required, for the purposes of regulations 3(1
 
 [^f00058]: Footnote: [S.R. 1984 No. 317](https://www.legislation.gov.uk/nisr/1984/317); regulation 3(1A) was inserted by regulation 3(*b*) of [S.R. 1996 No. 11](https://www.legislation.gov.uk/nisr/1996/11)
 
-[^key-3a03aab73ed0fb927137d08130aa8da4]: Textual amendment: [Reg. 11(4)(a)](https://www.legislation.gov.uk/nisr/1998/81/regulation/11/4/a) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-3a03aab73ed0fb927137d08130aa8da4]: Textual amendment: [Reg. 11(4)(a)](https://www.legislation.gov.uk/nisr/1998/81/regulation/11/4/a) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
 [^f00060]: Footnote: Relevant amending Regulations are [S.R. 1994 No. 266](https://www.legislation.gov.uk/nisr/1994/266) and [S.R. 1996 Nos. 375](https://www.legislation.gov.uk/nisr/1996/375) and [405](https://www.legislation.gov.uk/nisr/1996/405)
 
 [^f00061]: Footnote: Relevant amending Regulations are [S.R. 1996 Nos. 356](https://www.legislation.gov.uk/nisr/1996/356) and [503](https://www.legislation.gov.uk/nisr/1996/503)
 
-[^key-b9c451dadd9898a7fc7d2d536a007858]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/nisr/1998/81/regulation/12) revoked (25.1.2010) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/6)](https://www.legislation.gov.uk/nisr/2010/6), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/6/regulation/1/2), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2010/6/schedule/part/1) (with [reg. 2(2)-(4)](https://www.legislation.gov.uk/nisr/2010/6/regulation/2/2))
+[^c-b9c451dadd9898a7fc7d2d536a007858]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/nisr/1998/81/regulation/12) revoked (25.1.2010) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/6)](https://www.legislation.gov.uk/nisr/2010/6), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/6/regulation/1/2), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2010/6/schedule/part/1) (with [reg. 2(2)-(4)](https://www.legislation.gov.uk/nisr/2010/6/regulation/2/2))

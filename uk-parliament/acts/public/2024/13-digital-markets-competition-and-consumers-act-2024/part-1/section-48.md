@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Procedure relating to PCI investigations[^key-cc92e0f970018684a6be90ece41d9e4a][^key-58872dd0cd133221111c5990aa2d425f]
+## 48. Procedure relating to PCI investigations[^c-cc92e0f970018684a6be90ece41d9e4a][^c-58872dd0cd133221111c5990aa2d425f]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cc92e0f970018684a6be90ece41d9e4a]: Commencement: S. 48 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-cc92e0f970018684a6be90ece41d9e4a]: Commencement: S. 48 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-58872dd0cd133221111c5990aa2d425f]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2024/13/section/48) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-58872dd0cd133221111c5990aa2d425f]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2024/13/section/48) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

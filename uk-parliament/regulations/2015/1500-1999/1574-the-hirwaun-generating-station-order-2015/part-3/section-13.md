@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 13. Agreements with street authorities[^key-563efaefd3e98a9962ed8a3b2e06f68b]
+## 13. Agreements with street authorities[^c-563efaefd3e98a9962ed8a3b2e06f68b]
 
 *Extent: E+W+S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-563efaefd3e98a9962ed8a3b2e06f68b]: Commencement: Art. 13 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)
+[^c-563efaefd3e98a9962ed8a3b2e06f68b]: Commencement: Art. 13 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)

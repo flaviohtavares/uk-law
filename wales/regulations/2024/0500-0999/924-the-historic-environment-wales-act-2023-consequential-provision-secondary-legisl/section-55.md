@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 55. The Waste (England and Wales) Regulations 2011[^key-ab9c7a6d59d0c3cee832cfbabba19c24]
+## 55. The Waste (England and Wales) Regulations 2011[^c-ab9c7a6d59d0c3cee832cfbabba19c24]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ The Waste (England and Wales) Regulations 2011[^f00035] are amended as follows.
 
 ## Annotations
 
-[^key-ab9c7a6d59d0c3cee832cfbabba19c24]: Commencement: [Reg. 55](https://www.legislation.gov.uk/wsi/2024/924/regulation/55) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-ab9c7a6d59d0c3cee832cfbabba19c24]: Commencement: [Reg. 55](https://www.legislation.gov.uk/wsi/2024/924/regulation/55) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
 
 [^f00035]: Footnote: [S.I. 2011/988](https://www.legislation.gov.uk/uksi/2011/988), to which there are amendments not relevant to these Regulations.

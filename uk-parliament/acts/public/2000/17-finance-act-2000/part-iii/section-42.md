@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Millennium gift aid.[^key-a06760dc2e8092dcf7c8e5d3ee63a650]
+## 42. Millennium gift aid.[^c-a06760dc2e8092dcf7c8e5d3ee63a650]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a06760dc2e8092dcf7c8e5d3ee63a650]: Textual amendment: [S. 42](https://www.legislation.gov.uk/ukpga/2000/17/section/42) repealed (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 26 para. 2(2)(b)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/26/paragraph/2/2/b)
+[^c-a06760dc2e8092dcf7c8e5d3ee63a650]: Textual amendment: [S. 42](https://www.legislation.gov.uk/ukpga/2000/17/section/42) repealed (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 26 para. 2(2)(b)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/26/paragraph/2/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 99. Bank liquidator’s entitlement to remuneration where it is not fixed under rule 98[^key-426a11148484d5f5b2bd5351f446e547]
+## 99. Bank liquidator’s entitlement to remuneration where it is not fixed under rule 98[^c-426a11148484d5f5b2bd5351f446e547]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-426a11148484d5f5b2bd5351f446e547]: Commencement: Rule 99 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-426a11148484d5f5b2bd5351f446e547]: Commencement: Rule 99 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

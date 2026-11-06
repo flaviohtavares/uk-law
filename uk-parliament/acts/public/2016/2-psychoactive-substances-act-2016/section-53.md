@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Return of item to person entitled to it, or disposal if return impracticable[^key-5404ab502263228c4cd1b44c66aa8619]
+## 53. Return of item to person entitled to it, or disposal if return impracticable[^c-5404ab502263228c4cd1b44c66aa8619]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,4 +58,4 @@ a relevant enforcement officer may dispose of the item in whatever way the offic
 
 ## Annotations
 
-[^key-5404ab502263228c4cd1b44c66aa8619]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2016/2/section/53) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
+[^c-5404ab502263228c4cd1b44c66aa8619]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2016/2/section/53) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)

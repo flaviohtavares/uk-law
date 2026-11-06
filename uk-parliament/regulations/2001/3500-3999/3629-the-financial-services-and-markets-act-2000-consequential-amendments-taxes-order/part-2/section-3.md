@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Returns and other information: stock jobbers' transactions[^key-734498ee9a40c2b0185eb18024c9c89b]
+## 3. Returns and other information: stock jobbers' transactions[^c-734498ee9a40c2b0185eb18024c9c89b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In section 21(7) of the Taxes Management Act 1970[^f00005] in the definition of 
 
 ## Annotations
 
-[^key-734498ee9a40c2b0185eb18024c9c89b]: Commencement: Art. 3 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-734498ee9a40c2b0185eb18024c9c89b]: Commencement: Art. 3 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
 
 [^f00005]: Footnote: Section 21(7) was substituted by paragraph 14(8) of Schedule 10 to the Finance Act [1997 (c. 16)](https://www.legislation.gov.uk/ukpga/1997/16).

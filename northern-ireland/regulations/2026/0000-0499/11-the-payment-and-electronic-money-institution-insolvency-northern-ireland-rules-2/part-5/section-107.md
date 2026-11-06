@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 107. Withdrawal or variation of relevant funds claim[^key-01f9546e96a322c85b7a77ae09fff8bd]
+## 107. Withdrawal or variation of relevant funds claim[^c-01f9546e96a322c85b7a77ae09fff8bd]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ A relevant funds claim may at any time, with the agreement of the administrator,
 
 ## Annotations
 
-[^key-01f9546e96a322c85b7a77ae09fff8bd]: Commencement: [Rule 107](https://www.legislation.gov.uk/nisr/2026/11/rule/107) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-01f9546e96a322c85b7a77ae09fff8bd]: Commencement: [Rule 107](https://www.legislation.gov.uk/nisr/2026/11/rule/107) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

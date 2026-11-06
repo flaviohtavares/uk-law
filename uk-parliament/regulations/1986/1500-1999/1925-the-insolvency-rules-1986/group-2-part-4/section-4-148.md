@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.148. Liquidator's duties on vacating office[^key-da76b3f3ab51ea772be70ace62f75cb5]
+## 4.148. Liquidator's duties on vacating office[^c-da76b3f3ab51ea772be70ace62f75cb5]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ Where the liquidator ceases to be in office as such, in consequence of removal, 
 
 ## Annotations
 
-[^key-da76b3f3ab51ea772be70ace62f75cb5]: Commencement: [Rule 4.148](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.148) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-da76b3f3ab51ea772be70ace62f75cb5]: Commencement: [Rule 4.148](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.148) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

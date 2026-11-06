@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39.12. Power to vary determination of appeal against sentence[^key-4f3144589fe6107b4dd427c218c53f30]
+## 39.12. Power to vary determination of appeal against sentence[^c-4f3144589fe6107b4dd427c218c53f30]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4f3144589fe6107b4dd427c218c53f30]: Commencement: [Rule 39.12](https://www.legislation.gov.uk/uksi/2025/909/rule/39.12) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-4f3144589fe6107b4dd427c218c53f30]: Commencement: [Rule 39.12](https://www.legislation.gov.uk/uksi/2025/909/rule/39.12) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

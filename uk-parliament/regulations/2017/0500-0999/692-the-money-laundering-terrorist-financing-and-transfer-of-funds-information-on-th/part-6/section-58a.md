@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58A. Fit and proper test: cryptoasset businesses[^key-bb114c16b296c98b6f44f1151476c395]
+## 58A. Fit and proper test: cryptoasset businesses[^c-bb114c16b296c98b6f44f1151476c395]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bb114c16b296c98b6f44f1151476c395]: Textual amendment: Reg. 58A inserted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [7(14)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/7/14)
+[^c-bb114c16b296c98b6f44f1151476c395]: Textual amendment: Reg. 58A inserted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [7(14)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/7/14)

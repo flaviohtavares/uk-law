@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 22.2. Test for permission to appeal to provincial courts[^key-31f8f35180ec848852063ebcfa81f07c]
+## 22.2. Test for permission to appeal to provincial courts[^c-31f8f35180ec848852063ebcfa81f07c]
 
 *Extent: E*
 
@@ -27,4 +27,4 @@ Permission to appeal to a provincial court may be granted only where the judge t
 
 ## Annotations
 
-[^key-31f8f35180ec848852063ebcfa81f07c]: Commencement: [Rule 22.2](https://www.legislation.gov.uk/uksi/2015/1568/article/22.2) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-31f8f35180ec848852063ebcfa81f07c]: Commencement: [Rule 22.2](https://www.legislation.gov.uk/uksi/2015/1568/article/22.2) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

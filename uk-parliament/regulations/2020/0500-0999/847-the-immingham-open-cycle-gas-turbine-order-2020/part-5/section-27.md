@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Temporary use of land for carrying out the authorised development[^key-bf2b0d104f842f8a98cd74f650d4ce2c]
+## 27. Temporary use of land for carrying out the authorised development[^c-bf2b0d104f842f8a98cd74f650d4ce2c]
 
 *Extent: E+W*
 
@@ -42,7 +42,7 @@ provided that such periods may be varied from time to time by agreement between 
 (4) The undertaker may not, without the agreement of the owners of the land, remain in possession of any land under this article—
 
 - (a) in the case of land specified in paragraph (1)(a)(i), after the end of the period of one year beginning with the date of final commissioning of the authorised development; or
-- (b) in the case of land referred to in paragraph (1)(a)(ii), after the end of the period of one year beginning with the date of final commissioning of the authorised development unless the undertaker has, before the end of that period, served notice of entry under section 11 of the 1965 Act or made a declaration under section 4 of the 1981 Act or[^key-f217f79b6aff4fee9ffb7820418ac87d] has otherwise acquired the land subject to temporary possession.
+- (b) in the case of land referred to in paragraph (1)(a)(ii), after the end of the period of one year beginning with the date of final commissioning of the authorised development unless the undertaker has, before the end of that period, served notice of entry under section 11 of the 1965 Act or made a declaration under section 4 of the 1981 Act or[^c-f217f79b6aff4fee9ffb7820418ac87d] has otherwise acquired the land subject to temporary possession.
 
 (5) Unless the undertaker has served notice of entry under section 11 of the 1965 Act or made a declaration under section 4 of the 1981 Act or has otherwise acquired the land subject to temporary possession, the undertaker must, before giving up possession of land of which temporary possession has been taken under this article, remove all temporary works and restore the land to the reasonable satisfaction of the owners of the land; but the undertaker is not to be required to replace a building or any debris removed under this article.
 
@@ -69,8 +69,8 @@ provided that such periods may be varied from time to time by agreement between 
 
 ## Annotations
 
-[^key-bf2b0d104f842f8a98cd74f650d4ce2c]: Commencement: Art. 27 in force at 1.9.2020, see art. 1
+[^c-bf2b0d104f842f8a98cd74f650d4ce2c]: Commencement: Art. 27 in force at 1.9.2020, see art. 1
 
-[^key-f217f79b6aff4fee9ffb7820418ac87d]: Textual amendment: Words in [art. 27(4)(b)](https://www.legislation.gov.uk/uksi/2020/847/article/27/4/b) substituted (17.5.2021) by [The Immingham Open Cycle Gas Turbine (Correction) Order 2021 (S.I. 2021/581)](https://www.legislation.gov.uk/uksi/2021/581), [art. 1](https://www.legislation.gov.uk/uksi/2021/581/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/581/schedule)
+[^c-f217f79b6aff4fee9ffb7820418ac87d]: Textual amendment: Words in [art. 27(4)(b)](https://www.legislation.gov.uk/uksi/2020/847/article/27/4/b) substituted (17.5.2021) by [The Immingham Open Cycle Gas Turbine (Correction) Order 2021 (S.I. 2021/581)](https://www.legislation.gov.uk/uksi/2021/581), [art. 1](https://www.legislation.gov.uk/uksi/2021/581/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/581/schedule)
 
 [^c24261551]: Marginal citation: [2017 c.20](https://www.legislation.gov.uk/ukpga/2017/20).

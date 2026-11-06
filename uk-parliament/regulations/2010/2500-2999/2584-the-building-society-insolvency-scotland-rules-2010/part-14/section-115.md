@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 115. Validity of proceedings[^key-0106e8a0e74242f3f6ae80d589a1dbc3]
+## 115. Validity of proceedings[^c-0106e8a0e74242f3f6ae80d589a1dbc3]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0106e8a0e74242f3f6ae80d589a1dbc3]: Commencement: Rule 115 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-0106e8a0e74242f3f6ae80d589a1dbc3]: Commencement: Rule 115 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)

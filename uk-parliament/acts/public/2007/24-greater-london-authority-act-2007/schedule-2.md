@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 2 — Repeals[^key-dffea41059b043ef3c1daad69b46330e][^key-ba71390c2b2f422ee660e9b94306b2df][^key-055db62ed18dce741d244cd496d052e9]
+## SCHEDULE 2 — Repeals[^c-dffea41059b043ef3c1daad69b46330e][^c-ba71390c2b2f422ee660e9b94306b2df][^c-055db62ed18dce741d244cd496d052e9]
 
 *Extent: E+W*
 
@@ -30,8 +30,8 @@ Section 57
 
 ## Annotations
 
-[^key-dffea41059b043ef3c1daad69b46330e]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/24/schedule/2) in force at 30.10.2007 for specified purposes by [S.I. 2007/3107](https://www.legislation.gov.uk/uksi/2007/3107), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/3107/article/2/c)
+[^c-dffea41059b043ef3c1daad69b46330e]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/24/schedule/2) in force at 30.10.2007 for specified purposes by [S.I. 2007/3107](https://www.legislation.gov.uk/uksi/2007/3107), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/3107/article/2/c)
 
-[^key-ba71390c2b2f422ee660e9b94306b2df]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/24/schedule/2) in force at 21.1.2008 for specified purposes by [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(m)](https://www.legislation.gov.uk/uksi/2008/113/article/2/m)
+[^c-ba71390c2b2f422ee660e9b94306b2df]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/24/schedule/2) in force at 21.1.2008 for specified purposes by [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(m)](https://www.legislation.gov.uk/uksi/2008/113/article/2/m)
 
-[^key-055db62ed18dce741d244cd496d052e9]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/24/schedule/2) in force at 6.4.2008 in so far as not already in force by [S.I. 2008/582](https://www.legislation.gov.uk/uksi/2008/582), [art. 2(e)](https://www.legislation.gov.uk/uksi/2008/582/article/2/e)
+[^c-055db62ed18dce741d244cd496d052e9]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/24/schedule/2) in force at 6.4.2008 in so far as not already in force by [S.I. 2008/582](https://www.legislation.gov.uk/uksi/2008/582), [art. 2(e)](https://www.legislation.gov.uk/uksi/2008/582/article/2/e)

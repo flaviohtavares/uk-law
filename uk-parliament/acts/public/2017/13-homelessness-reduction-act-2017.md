@@ -37,7 +37,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Threatened homelessness
 
-### 1. Meaning of “threatened with homelessness”[^key-f5759d7affcf9bdf5e35b5965c7acece]
+### 1. Meaning of “threatened with homelessness”[^c-f5759d7affcf9bdf5e35b5965c7acece]
 
 (1) Section 175 of the Housing Act 1996 (homelessness and threatened homelessness) is amended as follows.
 
@@ -52,7 +52,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Advisory services
 
-### 2. Duty to provide advisory services[^key-6b3171bad6ae4e99fe8bb2081ecaa174]
+### 2. Duty to provide advisory services[^c-6b3171bad6ae4e99fe8bb2081ecaa174]
 
 For section 179 of the Housing Act 1996 (duty of local housing authority to provide advisory services) substitute—
 
@@ -111,7 +111,7 @@ For section 179 of the Housing Act 1996 (duty of local housing authority to prov
 
 ## Assessments and plans
 
-### 3. Duty to assess all eligible applicants' cases and agree a plan[^key-d302a0b7794abdcb640c1ebbfac293b1]
+### 3. Duty to assess all eligible applicants' cases and agree a plan[^c-d302a0b7794abdcb640c1ebbfac293b1]
 
 (1) After section 189 of the Housing Act 1996, but before the heading after that section (duties to persons found to be homeless or threatened with homelessness), insert—
 
@@ -177,7 +177,7 @@ For section 179 of the Housing Act 1996 (duty of local housing authority to prov
 
 ## Duties to those who are homeless or threatened with homelessness
 
-### 4. Duty in cases of threatened homelessness[^key-8ea40ed4fc667d50a495dd40b8e4418e]
+### 4. Duty in cases of threatened homelessness[^c-8ea40ed4fc667d50a495dd40b8e4418e]
 
 (1) The Housing Act 1996 is amended as follows.
 
@@ -229,11 +229,11 @@ For section 179 of the Housing Act 1996 (duty of local housing authority to prov
 - (a) omit “or 195(2)”;
 - (b) omit “or (as the case may be) section 195(4A)”.
 
-(4)[^key-1f3042ee47ed62fba5a380c6e7887750] In section 195A (re-application after private rented sector offer)— *(affected by repeal, see note)*[^key-1f3042ee47ed62fba5a380c6e7887750]
+(4)[^c-1f3042ee47ed62fba5a380c6e7887750] In section 195A (re-application after private rented sector offer)— *(affected by repeal, see note)*[^c-1f3042ee47ed62fba5a380c6e7887750]
 
-- (a) omit subsections (3) and (4); *(affected by repeal, see note)*[^key-1f3042ee47ed62fba5a380c6e7887750]
-- (b) in subsection (5), omit “or (3)”; *(affected by repeal, see note)*[^key-1f3042ee47ed62fba5a380c6e7887750]
-- (c) in subsection (6), omit “or (3)” (in both places). *(affected by repeal, see note)*[^key-1f3042ee47ed62fba5a380c6e7887750]
+- (a) omit subsections (3) and (4); *(affected by repeal, see note)*[^c-1f3042ee47ed62fba5a380c6e7887750]
+- (b) in subsection (5), omit “or (3)”; *(affected by repeal, see note)*[^c-1f3042ee47ed62fba5a380c6e7887750]
+- (c) in subsection (6), omit “or (3)” (in both places). *(affected by repeal, see note)*[^c-1f3042ee47ed62fba5a380c6e7887750]
 
 (5) Omit section 196 (becoming threatened with homelessness intentionally).
 
@@ -248,7 +248,7 @@ For section 179 of the Housing Act 1996 (duty of local housing authority to prov
 
 (8) In section 218 (index of defined expressions: Part 7), in the Table, omit the entry for “intentionally threatened with homelessness”.
 
-### 5. Duties owed to those who are homeless[^key-1d4f78cd90987090fa4bd823c4e0c8c7]
+### 5. Duties owed to those who are homeless[^c-1d4f78cd90987090fa4bd823c4e0c8c7]
 
 (1) The Housing Act 1996 is amended as follows.
 
@@ -417,7 +417,7 @@ For section 179 of the Housing Act 1996 (duty of local housing authority to prov
 
 (12) In section 211 (protection of property of homeless persons and persons threatened with homelessness), in subsection (2), after “accommodate),” insert— “ section 189B (initial duty owed to all eligible persons who are homeless), ”.
 
-### 6. Duties to help to secure accommodation[^key-6631f17d75be15d4899c28b2d4373d84]
+### 6. Duties to help to secure accommodation[^c-6631f17d75be15d4899c28b2d4373d84]
 
 In section 205 of the Housing Act 1996 (discharge of functions: introductory), after subsection (2) insert—
 
@@ -427,7 +427,7 @@ In section 205 of the Housing Act 1996 (discharge of functions: introductory), a
 
 ### 7. Deliberate and unreasonable refusal to co-operate: duty upon giving of notice
 
-(1)[^key-b269eafd1d8f9c54026cad309a1bec2e][^key-82a1a02fa06a99846d5ab6ca8746e8dc] After section 193 of the Housing Act 1996 insert—
+(1)[^c-b269eafd1d8f9c54026cad309a1bec2e][^c-82a1a02fa06a99846d5ab6ca8746e8dc] After section 193 of the Housing Act 1996 insert—
 
 > **193A. Consequences of refusal of final accommodation offer or final Part 6 offer at the initial relief stage**
 >
@@ -536,7 +536,7 @@ In section 205 of the Housing Act 1996 (discharge of functions: introductory), a
 > - (a) the applicant is under contractual or other obligations in respect of the applicant's existing accommodation, and
 > - (b) the applicant is not able to bring those obligations to an end before being required to take up the offer.
 
-(2)[^key-6074d6f3ff00e11b7e80b9a163999206] In section 193 (duty to persons with priority need who are not homeless intentionally), after subsection (1) insert—
+(2)[^c-6074d6f3ff00e11b7e80b9a163999206] In section 193 (duty to persons with priority need who are not homeless intentionally), after subsection (1) insert—
 
 > (1A) But this section does not apply if—
 >
@@ -545,7 +545,7 @@ In section 205 of the Housing Act 1996 (discharge of functions: introductory), a
 
 ## Local connection
 
-### 8. Local connection of a care leaver[^key-a5d85d4caf925950acb8d31c95b6b968]
+### 8. Local connection of a care leaver[^c-a5d85d4caf925950acb8d31c95b6b968]
 
 In section 199 of the Housing Act 1996 (local connection), after subsection (7), insert—
 
@@ -564,9 +564,9 @@ In section 199 of the Housing Act 1996 (local connection), after subsection (7),
 
 ### 9. Reviews
 
-(1)[^key-f2f560260643785d3eee5c79a025162c][^key-14bf791a381e42b3d41dce641751fed0] Section 202 of the Housing Act 1996 (right to request review of decision) is amended as follows.
+(1)[^c-f2f560260643785d3eee5c79a025162c][^c-14bf791a381e42b3d41dce641751fed0] Section 202 of the Housing Act 1996 (right to request review of decision) is amended as follows.
 
-(2)[^key-f2f560260643785d3eee5c79a025162c][^key-14bf791a381e42b3d41dce641751fed0] In subsection (1)—
+(2)[^c-f2f560260643785d3eee5c79a025162c][^c-14bf791a381e42b3d41dce641751fed0] In subsection (1)—
 
 - (a) in paragraph (b)—
   - (i) for “190 to 193” substitute “ 189B to 193C ”;
@@ -589,13 +589,13 @@ In section 199 of the Housing Act 1996 (local connection), after subsection (7),
   >
   > - (h) any decision of a local housing authority as to the suitability of accommodation offered to the applicant by way of a final accommodation offer or a final Part 6 offer (within the meaning of section 193A or 193C).
 
-(3)[^key-0cfbf612e80980aa0a16d2b455debc04] After subsection (1A) insert—
+(3)[^c-0cfbf612e80980aa0a16d2b455debc04] After subsection (1A) insert—
 
 > (1B) An applicant may, under subsection (1)(h), request a review of the suitability of the accommodation offered whether or not the applicant has accepted the offer.
 
 ## Duty on public authorities in England to refer cases
 
-### 10. Duty of public authority to refer cases to local housing authority[^key-bf4ba7434538cd0b51ee0faf4cb5bfa4][^key-f195dda85c51687961a72e0783758e92]
+### 10. Duty of public authority to refer cases to local housing authority[^c-bf4ba7434538cd0b51ee0faf4cb5bfa4][^c-f195dda85c51687961a72e0783758e92]
 
 After section 213A of the Housing Act 1996, but before the heading after that section (general provisions), insert—
 
@@ -621,7 +621,7 @@ After section 213A of the Housing Act 1996, but before the heading after that se
 
 ## Codes of practice
 
-### 11. Codes of practice[^key-3c3f3b0eccb38edda8ebcc043366a4cd]
+### 11. Codes of practice[^c-3c3f3b0eccb38edda8ebcc043366a4cd]
 
 After section 214 of the Housing Act 1996 insert—
 
@@ -674,7 +674,7 @@ After section 214 of the Housing Act 1996 insert—
 
 ## Suitability of accommodation
 
-### 12. Suitability of private rented sector accommodation[^key-3ebf220c98371ebe3f73412b3d57feb8]
+### 12. Suitability of private rented sector accommodation[^c-3ebf220c98371ebe3f73412b3d57feb8]
 
 (1) Article 3 of the Homelessness (Suitability of Accommodation) (England) Order 2012 (S.I. 2012/2601) (circumstances in which accommodation is not to be regarded as suitable for a person) (“**the 2012 Order**”) is amended in accordance with subsections (2) to (4).
 
@@ -712,38 +712,38 @@ After section 214 of the Housing Act 1996 insert—
 
 ## Annotations
 
-[^key-f5759d7affcf9bdf5e35b5965c7acece]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2017/13/section/1) in force at 3.4.2018 by [S.I. 2018/167](https://www.legislation.gov.uk/uksi/2018/167), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/167/regulation/3/a) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2018/167/regulation/4/1))
+[^c-f5759d7affcf9bdf5e35b5965c7acece]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2017/13/section/1) in force at 3.4.2018 by [S.I. 2018/167](https://www.legislation.gov.uk/uksi/2018/167), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/167/regulation/3/a) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2018/167/regulation/4/1))
 
-[^key-6b3171bad6ae4e99fe8bb2081ecaa174]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2017/13/section/2) in force at 3.4.2018 by [S.I. 2018/167](https://www.legislation.gov.uk/uksi/2018/167), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/167/regulation/3/b)
+[^c-6b3171bad6ae4e99fe8bb2081ecaa174]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2017/13/section/2) in force at 3.4.2018 by [S.I. 2018/167](https://www.legislation.gov.uk/uksi/2018/167), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/167/regulation/3/b)
 
-[^key-d302a0b7794abdcb640c1ebbfac293b1]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2017/13/section/3) in force at 3.4.2018 by [S.I. 2018/167](https://www.legislation.gov.uk/uksi/2018/167), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2018/167/regulation/3/c)
+[^c-d302a0b7794abdcb640c1ebbfac293b1]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2017/13/section/3) in force at 3.4.2018 by [S.I. 2018/167](https://www.legislation.gov.uk/uksi/2018/167), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2018/167/regulation/3/c)
 
-[^key-8ea40ed4fc667d50a495dd40b8e4418e]: Commencement: S. 4 in force at 3.4.2018 by [S.I. 2018/167](https://www.legislation.gov.uk/uksi/2018/167), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2018/167/regulation/3/d) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2018/167/regulation/4/1))
+[^c-8ea40ed4fc667d50a495dd40b8e4418e]: Commencement: S. 4 in force at 3.4.2018 by [S.I. 2018/167](https://www.legislation.gov.uk/uksi/2018/167), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2018/167/regulation/3/d) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2018/167/regulation/4/1))
 
-[^key-1f3042ee47ed62fba5a380c6e7887750]: Textual amendment: S. 4(4) omitted (1.5.2026 for specified purposes) by virtue of [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [s. 145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/7), [Sch. 2 para. 76](https://www.legislation.gov.uk/ukpga/2025/26/schedule/2/paragraph/76) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/c)
+[^c-1f3042ee47ed62fba5a380c6e7887750]: Textual amendment: S. 4(4) omitted (1.5.2026 for specified purposes) by virtue of [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [s. 145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/7), [Sch. 2 para. 76](https://www.legislation.gov.uk/ukpga/2025/26/schedule/2/paragraph/76) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/c)
 
-[^key-1d4f78cd90987090fa4bd823c4e0c8c7]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2017/13/section/5) in force at 3.4.2018 by [S.I. 2018/167](https://www.legislation.gov.uk/uksi/2018/167), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2018/167/regulation/3/e) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2018/167/regulation/4/1))
+[^c-1d4f78cd90987090fa4bd823c4e0c8c7]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2017/13/section/5) in force at 3.4.2018 by [S.I. 2018/167](https://www.legislation.gov.uk/uksi/2018/167), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2018/167/regulation/3/e) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2018/167/regulation/4/1))
 
-[^key-6631f17d75be15d4899c28b2d4373d84]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2017/13/section/6) in force at 3.4.2018 by [S.I. 2018/167](https://www.legislation.gov.uk/uksi/2018/167), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2018/167/regulation/3/f)
+[^c-6631f17d75be15d4899c28b2d4373d84]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2017/13/section/6) in force at 3.4.2018 by [S.I. 2018/167](https://www.legislation.gov.uk/uksi/2018/167), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2018/167/regulation/3/f)
 
-[^key-b269eafd1d8f9c54026cad309a1bec2e]: Commencement: [S. 7(1)](https://www.legislation.gov.uk/ukpga/2017/13/section/7/1) in force at 12.2.2018 for specified purposes by [S.I. 2018/167](https://www.legislation.gov.uk/uksi/2018/167), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/167/regulation/2/a)
+[^c-b269eafd1d8f9c54026cad309a1bec2e]: Commencement: [S. 7(1)](https://www.legislation.gov.uk/ukpga/2017/13/section/7/1) in force at 12.2.2018 for specified purposes by [S.I. 2018/167](https://www.legislation.gov.uk/uksi/2018/167), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/167/regulation/2/a)
 
-[^key-82a1a02fa06a99846d5ab6ca8746e8dc]: Commencement: [S. 7(1)](https://www.legislation.gov.uk/ukpga/2017/13/section/7/1) in force at 3.4.2018 in so far as not already in force by [S.I. 2018/167](https://www.legislation.gov.uk/uksi/2018/167), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2018/167/regulation/3/g)
+[^c-82a1a02fa06a99846d5ab6ca8746e8dc]: Commencement: [S. 7(1)](https://www.legislation.gov.uk/ukpga/2017/13/section/7/1) in force at 3.4.2018 in so far as not already in force by [S.I. 2018/167](https://www.legislation.gov.uk/uksi/2018/167), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2018/167/regulation/3/g)
 
-[^key-6074d6f3ff00e11b7e80b9a163999206]: Commencement: [S. 7(2)](https://www.legislation.gov.uk/ukpga/2017/13/section/7/2) in force at 3.4.2018 by [S.I. 2018/167](https://www.legislation.gov.uk/uksi/2018/167), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2018/167/regulation/3/g)
+[^c-6074d6f3ff00e11b7e80b9a163999206]: Commencement: [S. 7(2)](https://www.legislation.gov.uk/ukpga/2017/13/section/7/2) in force at 3.4.2018 by [S.I. 2018/167](https://www.legislation.gov.uk/uksi/2018/167), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2018/167/regulation/3/g)
 
-[^key-a5d85d4caf925950acb8d31c95b6b968]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2017/13/section/8) in force at 3.4.2018 by [S.I. 2018/167](https://www.legislation.gov.uk/uksi/2018/167), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2018/167/regulation/3/h)
+[^c-a5d85d4caf925950acb8d31c95b6b968]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2017/13/section/8) in force at 3.4.2018 by [S.I. 2018/167](https://www.legislation.gov.uk/uksi/2018/167), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2018/167/regulation/3/h)
 
-[^key-f2f560260643785d3eee5c79a025162c]: Commencement: [S. 9(1)](https://www.legislation.gov.uk/ukpga/2017/13/section/9/1)[(2)](https://www.legislation.gov.uk/ukpga/2017/13/section/9/2) in force at 12.2.2018 for specified purposes by [S.I. 2018/167](https://www.legislation.gov.uk/uksi/2018/167), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/167/regulation/2/b)
+[^c-f2f560260643785d3eee5c79a025162c]: Commencement: [S. 9(1)](https://www.legislation.gov.uk/ukpga/2017/13/section/9/1)[(2)](https://www.legislation.gov.uk/ukpga/2017/13/section/9/2) in force at 12.2.2018 for specified purposes by [S.I. 2018/167](https://www.legislation.gov.uk/uksi/2018/167), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/167/regulation/2/b)
 
-[^key-14bf791a381e42b3d41dce641751fed0]: Commencement: [S. 9(1)](https://www.legislation.gov.uk/ukpga/2017/13/section/9/1)[(2)](https://www.legislation.gov.uk/ukpga/2017/13/section/9/2) in force at 3.4.2018 in so far as not already in force by [S.I. 2018/167](https://www.legislation.gov.uk/uksi/2018/167), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2018/167/regulation/3/i) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2018/167/regulation/4/2))
+[^c-14bf791a381e42b3d41dce641751fed0]: Commencement: [S. 9(1)](https://www.legislation.gov.uk/ukpga/2017/13/section/9/1)[(2)](https://www.legislation.gov.uk/ukpga/2017/13/section/9/2) in force at 3.4.2018 in so far as not already in force by [S.I. 2018/167](https://www.legislation.gov.uk/uksi/2018/167), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2018/167/regulation/3/i) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2018/167/regulation/4/2))
 
-[^key-0cfbf612e80980aa0a16d2b455debc04]: Commencement: [S. 9(3)](https://www.legislation.gov.uk/ukpga/2017/13/section/9/3) in force at 3.4.2018 by [S.I. 2018/167](https://www.legislation.gov.uk/uksi/2018/167), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2018/167/regulation/3/i) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2018/167/regulation/4/2))
+[^c-0cfbf612e80980aa0a16d2b455debc04]: Commencement: [S. 9(3)](https://www.legislation.gov.uk/ukpga/2017/13/section/9/3) in force at 3.4.2018 by [S.I. 2018/167](https://www.legislation.gov.uk/uksi/2018/167), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2018/167/regulation/3/i) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2018/167/regulation/4/2))
 
-[^key-bf4ba7434538cd0b51ee0faf4cb5bfa4]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2017/13/section/10) in force at 12.2.2018 for specified purposes by [S.I. 2018/167](https://www.legislation.gov.uk/uksi/2018/167), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2018/167/regulation/2/c)
+[^c-bf4ba7434538cd0b51ee0faf4cb5bfa4]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2017/13/section/10) in force at 12.2.2018 for specified purposes by [S.I. 2018/167](https://www.legislation.gov.uk/uksi/2018/167), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2018/167/regulation/2/c)
 
-[^key-f195dda85c51687961a72e0783758e92]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2017/13/section/10) in force at 3.4.2018 in so far as not already in force by [S.I. 2018/167](https://www.legislation.gov.uk/uksi/2018/167), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2018/167/regulation/3/j)
+[^c-f195dda85c51687961a72e0783758e92]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2017/13/section/10) in force at 3.4.2018 in so far as not already in force by [S.I. 2018/167](https://www.legislation.gov.uk/uksi/2018/167), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2018/167/regulation/3/j)
 
-[^key-3c3f3b0eccb38edda8ebcc043366a4cd]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2017/13/section/11) in force at 3.4.2018 by [S.I. 2018/167](https://www.legislation.gov.uk/uksi/2018/167), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2018/167/regulation/3/k)
+[^c-3c3f3b0eccb38edda8ebcc043366a4cd]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2017/13/section/11) in force at 3.4.2018 by [S.I. 2018/167](https://www.legislation.gov.uk/uksi/2018/167), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2018/167/regulation/3/k)
 
-[^key-3ebf220c98371ebe3f73412b3d57feb8]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2017/13/section/12) in force at 3.4.2018 by [S.I. 2018/167](https://www.legislation.gov.uk/uksi/2018/167), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2018/167/regulation/3/l)
+[^c-3ebf220c98371ebe3f73412b3d57feb8]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2017/13/section/12) in force at 3.4.2018 by [S.I. 2018/167](https://www.legislation.gov.uk/uksi/2018/167), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2018/167/regulation/3/l)

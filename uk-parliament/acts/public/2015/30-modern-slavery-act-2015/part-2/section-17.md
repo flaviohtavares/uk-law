@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Effect of slavery and trafficking prevention orders[^key-3ccf75399e541ffc83a196bdf95a674e]
+## 17. Effect of slavery and trafficking prevention orders[^c-3ccf75399e541ffc83a196bdf95a674e]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3ccf75399e541ffc83a196bdf95a674e]: Commencement: S. 17 in force at 31.7.2015 by [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/b)
+[^c-3ccf75399e541ffc83a196bdf95a674e]: Commencement: S. 17 in force at 31.7.2015 by [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/b)

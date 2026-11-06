@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 9 — DEFINITION OF THE FODDER PLANT SEED DIRECTIVE[^key-775f98926e01d05022353c88e8b182b9]
+## SCHEDULE 9 — DEFINITION OF THE FODDER PLANT SEED DIRECTIVE[^c-775f98926e01d05022353c88e8b182b9]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ Regulation 2(1)
 
 ## Annotations
 
-[^key-775f98926e01d05022353c88e8b182b9]: Textual amendment: [Sch. 9](https://www.legislation.gov.uk/ssi/2005/329/schedule/9) revoked (16.12.2013) by [The Seed (Scotland) (Miscellaneous Amendments) Regulations 2013 (S.S.I. 2013/326)](https://www.legislation.gov.uk/ssi/2013/326), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2013/326/regulation/1/1), [7](https://www.legislation.gov.uk/ssi/2013/326/regulation/7)
+[^c-775f98926e01d05022353c88e8b182b9]: Textual amendment: [Sch. 9](https://www.legislation.gov.uk/ssi/2005/329/schedule/9) revoked (16.12.2013) by [The Seed (Scotland) (Miscellaneous Amendments) Regulations 2013 (S.S.I. 2013/326)](https://www.legislation.gov.uk/ssi/2013/326), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2013/326/regulation/1/1), [7](https://www.legislation.gov.uk/ssi/2013/326/regulation/7)

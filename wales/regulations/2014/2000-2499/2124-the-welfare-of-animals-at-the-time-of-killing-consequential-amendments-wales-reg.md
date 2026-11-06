@@ -33,7 +33,7 @@ Animals, Wales
 
 Prevention Of Cruelty
 
-The Welfare of Animals at the Time of Killing (Consequential Amendments) (Wales) Regulations 2014 (revoked)[^key-c5b7746aca8371b920b09477bf5ac123]
+The Welfare of Animals at the Time of Killing (Consequential Amendments) (Wales) Regulations 2014 (revoked)[^c-c5b7746aca8371b920b09477bf5ac123]
 
 Made
 
@@ -47,26 +47,26 @@ Coming into force
 
 5 September 2014
 
-[^key-c5b7746aca8371b920b09477bf5ac123]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c5b7746aca8371b920b09477bf5ac123]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — General[^key-c5b7746aca8371b920b09477bf5ac123]
+## PART 1 — General[^c-c5b7746aca8371b920b09477bf5ac123]
 
-### 1. Title, application and commencement[^key-c5b7746aca8371b920b09477bf5ac123]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Consequential amendments[^key-c5b7746aca8371b920b09477bf5ac123]
+### 1. Title, application and commencement[^c-c5b7746aca8371b920b09477bf5ac123]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c5b7746aca8371b920b09477bf5ac123]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 2. Consequential amendments[^c-c5b7746aca8371b920b09477bf5ac123]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-c5b7746aca8371b920b09477bf5ac123]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c5b7746aca8371b920b09477bf5ac123]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c5b7746aca8371b920b09477bf5ac123]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c5b7746aca8371b920b09477bf5ac123]: Textual amendment: Regulations revoked (5.11.2015) by [The Welfare of Animals at the Time of Killing (England) Regulations 2015 (S.I. 2015/1782)](https://www.legislation.gov.uk/uksi/2015/1782), [Sch. 6 para. 6](https://www.legislation.gov.uk/uksi/2015/1782/schedule/6/paragraph/6)
+[^c-c5b7746aca8371b920b09477bf5ac123]: Textual amendment: Regulations revoked (5.11.2015) by [The Welfare of Animals at the Time of Killing (England) Regulations 2015 (S.I. 2015/1782)](https://www.legislation.gov.uk/uksi/2015/1782), [Sch. 6 para. 6](https://www.legislation.gov.uk/uksi/2015/1782/schedule/6/paragraph/6)

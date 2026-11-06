@@ -49,7 +49,7 @@ In accordance with section 4 of the Scottish Civil Justice Council and Criminal 
 
 The Court of Session therefore makes this Act of Sederunt under the powers conferred by sections 103(1) and 104(1) of the Courts Reform (Scotland) Act 2014[^f00002].
 
-## 1. Citation and commencement, etc.[^key-c8c950bac3fe3c60932c4db200108b01]
+## 1. Citation and commencement, etc.[^c-c8c950bac3fe3c60932c4db200108b01]
 
 (1) This Act of Sederunt may be cited as the Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (Miscellaneous) 2016.
 
@@ -57,7 +57,7 @@ The Court of Session therefore makes this Act of Sederunt under the powers confe
 
 (3) A certified copy is to be inserted in the Books of Sederunt.
 
-## 2. Amendment of the Rules of the Court of Session 1994[^key-29b54b1891edc7bc060b67715e2e1abc]
+## 2. Amendment of the Rules of the Court of Session 1994[^c-29b54b1891edc7bc060b67715e2e1abc]
 
 (1) The Rules of the Court of Session 1994[^f00003] are amended in accordance with this paragraph.
 
@@ -110,7 +110,7 @@ The Court of Session therefore makes this Act of Sederunt under the powers confe
   [image: see source](https://www.legislation.gov.uk/ssi/2016/102/images/ssi_20160102_en_002)
 - (c) omit Form 41.52C (form of notice of intention to pursue application or appeal under the Nationality, Immigration and Asylum Act 2002)[^f00012].
 
-## 3. Amendment of the Ordinary Cause Rules 1993[^key-db3415f88cb2f48200f089b93d856923]
+## 3. Amendment of the Ordinary Cause Rules 1993[^c-db3415f88cb2f48200f089b93d856923]
 
 (1) The Ordinary Cause Rules 1993[^f00013] are amended in accordance with this paragraph.
 
@@ -198,7 +198,7 @@ The Court of Session therefore makes this Act of Sederunt under the powers confe
 
 (3) In Appendix 1, after Form CP37 (form of extract decree of dissolution of a civil partnership in an application for a simplified dissolution of a civil partnership)[^f00015], insert the form set out in the Schedule to this Act of Sederunt.
 
-## 4. Amendment of the Summary Application Rules[^key-c57df4691937e357ad51b91cfb6b88c5]
+## 4. Amendment of the Summary Application Rules[^c-c57df4691937e357ad51b91cfb6b88c5]
 
 (1) The Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc.) Rules 1999[^f00016] is amended in accordance with this paragraph.
 
@@ -217,9 +217,9 @@ The Court of Session therefore makes this Act of Sederunt under the powers confe
 
 [image: see source](https://www.legislation.gov.uk/ssi/2016/102/images/ssi_20160102_en_003)
 
-## 5. Saving[^key-3c651c9ab2aa4968895300f80197ec4e]
+## 5. Saving[^c-3c651c9ab2aa4968895300f80197ec4e]
 
-The Ordinary Cause Rules 1993 as they applied immediately before 21st March 2016[^key-75a5048a4827a715b5473ef6e435d960] continue to apply to an appointment under rule 33A.21 made before that date.
+The Ordinary Cause Rules 1993 as they applied immediately before 21st March 2016[^c-75a5048a4827a715b5473ef6e435d960] continue to apply to an appointment under rule 33A.21 made before that date.
 
 CJM Sutherland
 
@@ -231,7 +231,7 @@ I.P.D.
 
 15th February 2016
 
-## SCHEDULE[^key-abc736836910e8387771fbee7725e37c]
+## SCHEDULE[^c-abc736836910e8387771fbee7725e37c]
 
 Paragraph 3(3)
 
@@ -261,9 +261,9 @@ Paragraph 4 of this Act of Sederunt makes a number of minor corrections to Part 
 
 [^f00002]: Footnote: [2014 asp 18](https://www.legislation.gov.uk/asp/2014/18).
 
-[^key-c8c950bac3fe3c60932c4db200108b01]: Commencement: [Para. 1](https://www.legislation.gov.uk/ssi/2016/102/paragraph/1) in force at 21.3.2016, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2016/102/paragraph/1/2)
+[^c-c8c950bac3fe3c60932c4db200108b01]: Commencement: [Para. 1](https://www.legislation.gov.uk/ssi/2016/102/paragraph/1) in force at 21.3.2016, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2016/102/paragraph/1/2)
 
-[^key-29b54b1891edc7bc060b67715e2e1abc]: Commencement: [Para. 2](https://www.legislation.gov.uk/ssi/2016/102/paragraph/2) in force at 21.3.2016, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2016/102/paragraph/1/2)
+[^c-29b54b1891edc7bc060b67715e2e1abc]: Commencement: [Para. 2](https://www.legislation.gov.uk/ssi/2016/102/paragraph/2) in force at 21.3.2016, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2016/102/paragraph/1/2)
 
 [^f00003]: Footnote: The Rules of the Court of Session 1994 are in Schedule 2 to the Act of Sederunt (Rules of the Court of Session 1994) 1994 ([S.I. 1994/1443](https://www.legislation.gov.uk/uksi/1994/1443), last amended by [S.S.I. 2015/419](https://www.legislation.gov.uk/ssi/2015/419)).
 
@@ -285,7 +285,7 @@ Paragraph 4 of this Act of Sederunt makes a number of minor corrections to Part 
 
 [^f00012]: Footnote: Form 41.52C was inserted by [S.S.I. 2007/283](https://www.legislation.gov.uk/ssi/2007/283).
 
-[^key-db3415f88cb2f48200f089b93d856923]: Commencement: [Para. 3](https://www.legislation.gov.uk/ssi/2016/102/paragraph/3) in force at 21.3.2016, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2016/102/paragraph/1/2)
+[^c-db3415f88cb2f48200f089b93d856923]: Commencement: [Para. 3](https://www.legislation.gov.uk/ssi/2016/102/paragraph/3) in force at 21.3.2016, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2016/102/paragraph/1/2)
 
 [^f00013]: Footnote: The Ordinary Cause Rules 1993 are in Schedule 1 to the Sheriff Courts (Scotland) Act [1907 (c.51)](https://www.legislation.gov.uk/ukpga/1907/51). Schedule 1 was substituted by [S.I. 1993/1956](https://www.legislation.gov.uk/uksi/1993/1956) and was last amended by [S.S.I. 2015/424](https://www.legislation.gov.uk/ssi/2015/424).
 
@@ -293,7 +293,7 @@ Paragraph 4 of this Act of Sederunt makes a number of minor corrections to Part 
 
 [^f00015]: Footnote: Form CP37 was inserted by [S.S.I. 2005/638](https://www.legislation.gov.uk/ssi/2005/638).
 
-[^key-c57df4691937e357ad51b91cfb6b88c5]: Commencement: [Para. 4](https://www.legislation.gov.uk/ssi/2016/102/paragraph/4) in force at 21.3.2016, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2016/102/paragraph/1/2)
+[^c-c57df4691937e357ad51b91cfb6b88c5]: Commencement: [Para. 4](https://www.legislation.gov.uk/ssi/2016/102/paragraph/4) in force at 21.3.2016, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2016/102/paragraph/1/2)
 
 [^f00016]: Footnote: [S.I. 1999/929](https://www.legislation.gov.uk/uksi/1999/929), last amended by [S.S.I. 2015/419](https://www.legislation.gov.uk/ssi/2015/419).
 
@@ -305,8 +305,8 @@ Paragraph 4 of this Act of Sederunt makes a number of minor corrections to Part 
 
 [^f00020]: Footnote: Form 70 was inserted by [S.S.I. 2015/283](https://www.legislation.gov.uk/ssi/2015/283).
 
-[^key-3c651c9ab2aa4968895300f80197ec4e]: Commencement: [Para. 5](https://www.legislation.gov.uk/ssi/2016/102/paragraph/5) in force at 21.3.2016, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2016/102/paragraph/1/2)
+[^c-3c651c9ab2aa4968895300f80197ec4e]: Commencement: [Para. 5](https://www.legislation.gov.uk/ssi/2016/102/paragraph/5) in force at 21.3.2016, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2016/102/paragraph/1/2)
 
-[^key-75a5048a4827a715b5473ef6e435d960]: Textual amendment: Words in [para. 5](https://www.legislation.gov.uk/ssi/2016/102/paragraph/5) substituted (7.7.2016) by [Act of Sederunt (Sheriff Appeal Court Rules 2015 and Sheriff Court Rules Amendment) (Miscellaneous) 2016 (S.S.I. 2016/194)](https://www.legislation.gov.uk/ssi/2016/194), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2016/194/paragraph/1/2), [9(2)](https://www.legislation.gov.uk/ssi/2016/194/paragraph/9/2)
+[^c-75a5048a4827a715b5473ef6e435d960]: Textual amendment: Words in [para. 5](https://www.legislation.gov.uk/ssi/2016/102/paragraph/5) substituted (7.7.2016) by [Act of Sederunt (Sheriff Appeal Court Rules 2015 and Sheriff Court Rules Amendment) (Miscellaneous) 2016 (S.S.I. 2016/194)](https://www.legislation.gov.uk/ssi/2016/194), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2016/194/paragraph/1/2), [9(2)](https://www.legislation.gov.uk/ssi/2016/194/paragraph/9/2)
 
-[^key-abc736836910e8387771fbee7725e37c]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2016/102/schedule) in force at 21.3.2016, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2016/102/paragraph/1/2)
+[^c-abc736836910e8387771fbee7725e37c]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2016/102/schedule) in force at 21.3.2016, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2016/102/paragraph/1/2)

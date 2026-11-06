@@ -42,7 +42,7 @@ but this subsection does not relieve the appropriate authority of any duty to pr
 (3) Subject to subsection (4), where such a statement has been prepared by the appropriate authority, they must, before the end of the prescribed period, send copies of it—
 
 - (a) to the Chief Inspector,
-- (b) to whichever of the governing body and the local authority[^key-94ed0295e29907765ea29be5dd3e5cb4] are not the appropriate authority, and
+- (b) to whichever of the governing body and the local authority[^c-94ed0295e29907765ea29be5dd3e5cb4] are not the appropriate authority, and
 - (c) in such circumstances as may be prescribed, to such other persons (if any) as may be prescribed.
 
 (4) Where the report in question is a report of a section 28 inspection of a school, subsection (3)(a) does not require a copy of the statement to be sent to the Chief Inspector unless the report states that the person making it is of the opinion—
@@ -80,4 +80,4 @@ the appropriate authority must, before the end of the prescribed period, send a 
 
 [^c19221831]: Modification: S. 39 applied (with modifications) (1.9.2006 for W.) by [2000 c. 21](https://www.legislation.gov.uk/ukpga/2000/21) Sch. 7 para. 6(3)(b)(iii) (as substituted by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [ss. 46](https://www.legislation.gov.uk/ukpga/2005/18/section/46), [125](https://www.legislation.gov.uk/ukpga/2005/18/section/125), [Sch. 5 para. 3(8)(c)](https://www.legislation.gov.uk/ukpga/2005/18/schedule/5/paragraph/3/8/c)); [S.I. 2006/1338](https://www.legislation.gov.uk/uksi/2006/1338), [art. 3](https://www.legislation.gov.uk/uksi/2006/1338/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/1338/schedule/1)
 
-[^key-94ed0295e29907765ea29be5dd3e5cb4]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/13/2)
+[^c-94ed0295e29907765ea29be5dd3e5cb4]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/13/2)

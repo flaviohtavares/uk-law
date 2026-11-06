@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Disclosure of information[^key-5cc13a6ac0ba00be643cf37495f5442e][^key-7997907facf59c4f07b65580e468e045]
+## 54. Disclosure of information[^c-5cc13a6ac0ba00be643cf37495f5442e][^c-7997907facf59c4f07b65580e468e045]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 - (a) any information obtained under or by virtue of Part 6 (Exceptions and licences), this Part or Part 9 (Maritime enforcement), or
 - (b) any information held in connection with—
-  - (i) anything done under or by virtue of Part 2 (Designation of persons), Part 3 (Finance), Part 3A (Director disqualification sanctions),[^key-2bc185202b7a3de7717cf43668b387bc] Part 5 (Trade), or
+  - (i) anything done under or by virtue of Part 2 (Designation of persons), Part 3 (Finance), Part 3A (Director disqualification sanctions),[^c-2bc185202b7a3de7717cf43668b387bc] Part 5 (Trade), or
   - (ii) any exception or licence under Part 6 or anything done in accordance with such an exception or under the authority of such a licence.
 
 (2) Information referred to in paragraph (1) may be disclosed for, or in connection with, any of the following purposes—
@@ -34,7 +34,7 @@ summary: ''
 - (c) facilitating, monitoring or ensuring compliance with these Regulations;
 - (d) taking any action with a view to instituting, or otherwise for the purposes of, any proceedings in the United Kingdom—
   - (i) for an offence under any provision of these Regulations,
-  - (ii) for an offence under CEMA in connection with any prohibition in Part 5 (trade) on imports or exports[^key-aaa9c67733e8b8ab683ca891bb8fceea]
+  - (ii) for an offence under CEMA in connection with any prohibition in Part 5 (trade) on imports or exports[^c-aaa9c67733e8b8ab683ca891bb8fceea]
   - (iii) in relation to a monetary penalty under section 146 of the Policing and Crime Act 2017 (breach of financial sanctions legislation) [^c23622041];
 - (e) taking any action with a view to instituting, or otherwise for the purposes of, any proceedings in any of the Channel Islands, the Isle of Man or any British overseas territory for an offence—
   - (i) under a provision in any such jurisdiction that is similar to a provision of these Regulations, or
@@ -73,13 +73,13 @@ summary: ''
 
 ## Annotations
 
-[^key-5cc13a6ac0ba00be643cf37495f5442e]: Commencement: Reg. 54 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/461/regulation/1/2)
+[^c-5cc13a6ac0ba00be643cf37495f5442e]: Commencement: Reg. 54 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/461/regulation/1/2)
 
-[^key-7997907facf59c4f07b65580e468e045]: Commencement: [Reg. 54](https://www.legislation.gov.uk/uksi/2019/461/regulation/54) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 8(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7997907facf59c4f07b65580e468e045]: Commencement: [Reg. 54](https://www.legislation.gov.uk/uksi/2019/461/regulation/54) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 8(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2bc185202b7a3de7717cf43668b387bc]: Textual amendment: Words in [reg. 54(1)(b)(i)](https://www.legislation.gov.uk/uksi/2019/461/regulation/54/1/b/i) inserted (5.6.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/644)](https://www.legislation.gov.uk/uksi/2024/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/1/2), [5(8)](https://www.legislation.gov.uk/uksi/2024/644/regulation/5/8)
+[^c-2bc185202b7a3de7717cf43668b387bc]: Textual amendment: Words in [reg. 54(1)(b)(i)](https://www.legislation.gov.uk/uksi/2019/461/regulation/54/1/b/i) inserted (5.6.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/644)](https://www.legislation.gov.uk/uksi/2024/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/1/2), [5(8)](https://www.legislation.gov.uk/uksi/2024/644/regulation/5/8)
 
-[^key-aaa9c67733e8b8ab683ca891bb8fceea]: Textual amendment: Words in [reg. 54(2)(d)(ii)](https://www.legislation.gov.uk/uksi/2019/461/regulation/54/2/d/ii) substituted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2026/983/regulation/10)
+[^c-aaa9c67733e8b8ab683ca891bb8fceea]: Textual amendment: Words in [reg. 54(2)(d)(ii)](https://www.legislation.gov.uk/uksi/2019/461/regulation/54/2/d/ii) substituted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2026/983/regulation/10)
 
 [^c23622041]: Marginal citation: [2017 c.3](https://www.legislation.gov.uk/ukpga/2017/3).
 

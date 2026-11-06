@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Attendance of witnesses[^key-4f81656ffb47f5c96387f815a982d959]
+## 31. Attendance of witnesses[^c-4f81656ffb47f5c96387f815a982d959]
 
 *Extent: E+W*
 
-A Fitness to Practise[^key-a14784f8595f70c24685506dea86ea92] Committee may require any person to attend and give evidence or to produce documents or other material evidence at any hearing.
+A Fitness to Practise[^c-a14784f8595f70c24685506dea86ea92] Committee may require any person to attend and give evidence or to produce documents or other material evidence at any hearing.
 
 ## Annotations
 
-[^key-4f81656ffb47f5c96387f815a982d959]: Commencement: [Reg. 31](https://www.legislation.gov.uk/wsi/2015/140/regulation/31) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)
+[^c-4f81656ffb47f5c96387f815a982d959]: Commencement: [Reg. 31](https://www.legislation.gov.uk/wsi/2015/140/regulation/31) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)
 
-[^key-a14784f8595f70c24685506dea86ea92]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/wsi/2015/140) substituted (1.3.2024) by [The Education Workforce Council (Main Functions) (Wales) (Amendment) Regulations 2024 (S.I. 2024/74)](https://www.legislation.gov.uk/wsi/2024/74), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/74/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2024/74/regulation/2/2)
+[^c-a14784f8595f70c24685506dea86ea92]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/wsi/2015/140) substituted (1.3.2024) by [The Education Workforce Council (Main Functions) (Wales) (Amendment) Regulations 2024 (S.I. 2024/74)](https://www.legislation.gov.uk/wsi/2024/74), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/74/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2024/74/regulation/2/2)

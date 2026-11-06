@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 31B. Calculation of basic amount of tax by authorities in England[^key-3c633e3c84625d299c5565f9648765ed][^key-1304ad51e0298e9c29d2496b54843766]
+## 31B. Calculation of basic amount of tax by authorities in England[^c-3c633e3c84625d299c5565f9648765ed][^c-1304ad51e0298e9c29d2496b54843766]
 
 *Extent: E+W*
 
@@ -43,6 +43,6 @@ T is the amount which is calculated by the authority as its council tax base for
 
 ## Annotations
 
-[^key-3c633e3c84625d299c5565f9648765ed]: Textual amendment: Ss. 31A, 31B inserted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 74](https://www.legislation.gov.uk/ukpga/2011/20/section/74), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(g)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/g)
+[^c-3c633e3c84625d299c5565f9648765ed]: Textual amendment: Ss. 31A, 31B inserted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 74](https://www.legislation.gov.uk/ukpga/2011/20/section/74), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(g)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/g)
 
-[^key-1304ad51e0298e9c29d2496b54843766]: Modification: Pt. 1 Ch. 3 modified (7.12.2011 for specified purposes, 3.5.2012 in so far as not already in force) by [The Swansea (Communities) Order 2011 (S.I. 2011/2932)](https://www.legislation.gov.uk/wsi/2011/2932), [art. 1(2)](https://www.legislation.gov.uk/wsi/2011/2932/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2011/2932/article/1/3), [22(4)](https://www.legislation.gov.uk/wsi/2011/2932/article/22/4)
+[^c-1304ad51e0298e9c29d2496b54843766]: Modification: Pt. 1 Ch. 3 modified (7.12.2011 for specified purposes, 3.5.2012 in so far as not already in force) by [The Swansea (Communities) Order 2011 (S.I. 2011/2932)](https://www.legislation.gov.uk/wsi/2011/2932), [art. 1(2)](https://www.legislation.gov.uk/wsi/2011/2932/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2011/2932/article/1/3), [22(4)](https://www.legislation.gov.uk/wsi/2011/2932/article/22/4)

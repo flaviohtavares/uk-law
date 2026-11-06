@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## B3. Exclusion from pensionable employment[^key-78e340aa49f26b4b88e1d27c369fd7b0]
+## B3. Exclusion from pensionable employment[^c-78e340aa49f26b4b88e1d27c369fd7b0]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-78e340aa49f26b4b88e1d27c369fd7b0]: Commencement: Reg. B3 in operation at 2.11.1998, see reg. A1
+[^c-78e340aa49f26b4b88e1d27c369fd7b0]: Commencement: Reg. B3 in operation at 2.11.1998, see reg. A1

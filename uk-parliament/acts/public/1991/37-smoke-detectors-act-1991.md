@@ -29,38 +29,38 @@ Smoke Detectors Act 1991 (repealed)
 
 1991 c. 37
 
-[^key-7158c120d46dba36e345aa7187511bcf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7158c120d46dba36e345aa7187511bcf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
-## 1. New dwellings to be fitted with smoke detectors.[^key-7158c120d46dba36e345aa7187511bcf]
+## 1. New dwellings to be fitted with smoke detectors.[^c-7158c120d46dba36e345aa7187511bcf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Relaxation of requirement as to smoke detectors.[^key-7158c120d46dba36e345aa7187511bcf]
+## 2. Relaxation of requirement as to smoke detectors.[^c-7158c120d46dba36e345aa7187511bcf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Guidance as to fitting of smoke detectors.[^key-7158c120d46dba36e345aa7187511bcf]
+## 3. Guidance as to fitting of smoke detectors.[^c-7158c120d46dba36e345aa7187511bcf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Enforcement.[^key-7158c120d46dba36e345aa7187511bcf]
+## 4. Enforcement.[^c-7158c120d46dba36e345aa7187511bcf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Effect of initial notice under Part II of Building Act 1984.[^key-7158c120d46dba36e345aa7187511bcf]
+## 5. Effect of initial notice under Part II of Building Act 1984.[^c-7158c120d46dba36e345aa7187511bcf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Power to repeal or modify provisions of this Act.[^key-7158c120d46dba36e345aa7187511bcf]
+## 6. Power to repeal or modify provisions of this Act.[^c-7158c120d46dba36e345aa7187511bcf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Short title, interpretation, commencement and extent.[^key-7158c120d46dba36e345aa7187511bcf]
+## 7. Short title, interpretation, commencement and extent.[^c-7158c120d46dba36e345aa7187511bcf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7158c120d46dba36e345aa7187511bcf]: Textual amendment: Act repealed (1.10.2006) by [Regulatory Reform (Fire Safety) Order 2005 (S.I. 2005/1541)](https://www.legislation.gov.uk/uksi/2005/1541), [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/1541/article/1/3), [Sch. 2 para. 47](https://www.legislation.gov.uk/uksi/2005/1541/schedule/2/paragraph/47), [Sch. 4](https://www.legislation.gov.uk/uksi/2005/1541/schedule/4) (with [art. 49](https://www.legislation.gov.uk/uksi/2005/1541/article/49)) (as amended by [The Regulatory Reform (Fire Safety) Subordinate Provisions Order 2006 (S.I. 2006/484)](https://www.legislation.gov.uk/uksi/2006/484), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/484/article/1/1), [2](https://www.legislation.gov.uk/uksi/2006/484/article/2))
+[^c-7158c120d46dba36e345aa7187511bcf]: Textual amendment: Act repealed (1.10.2006) by [Regulatory Reform (Fire Safety) Order 2005 (S.I. 2005/1541)](https://www.legislation.gov.uk/uksi/2005/1541), [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/1541/article/1/3), [Sch. 2 para. 47](https://www.legislation.gov.uk/uksi/2005/1541/schedule/2/paragraph/47), [Sch. 4](https://www.legislation.gov.uk/uksi/2005/1541/schedule/4) (with [art. 49](https://www.legislation.gov.uk/uksi/2005/1541/article/49)) (as amended by [The Regulatory Reform (Fire Safety) Subordinate Provisions Order 2006 (S.I. 2006/484)](https://www.legislation.gov.uk/uksi/2006/484), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/484/article/1/1), [2](https://www.legislation.gov.uk/uksi/2006/484/article/2))

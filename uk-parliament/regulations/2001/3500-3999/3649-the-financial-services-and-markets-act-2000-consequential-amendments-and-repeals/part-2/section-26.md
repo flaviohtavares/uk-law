@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Companies to which section 460 applies[^key-caee97e6e96afccfb6430f07f9baa666]
+## 26. Companies to which section 460 applies[^c-caee97e6e96afccfb6430f07f9baa666]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ For subsection (1) of section 460 of the 1985 Act (order on application of the S
 
 ## Annotations
 
-[^key-caee97e6e96afccfb6430f07f9baa666]: Commencement: Art. 26 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-caee97e6e96afccfb6430f07f9baa666]: Commencement: Art. 26 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

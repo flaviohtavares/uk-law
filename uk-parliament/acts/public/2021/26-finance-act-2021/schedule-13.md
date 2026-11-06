@@ -50,11 +50,11 @@ Section 71
 
 ### Application for group treatment
 
-**3.**[^M_I_90567fd5-b315-4f36-83e3-d3e0816e5cdf][^M_I_8a73555a-6ea8-465b-9562-328fe0d52328] (1) Two or more eligible bodies may apply to the Commissioners to be treated as members of the same group [^key-b52dbbe2bd5d26f846b43e41ed967214]....
+**3.**[^M_I_90567fd5-b315-4f36-83e3-d3e0816e5cdf][^M_I_8a73555a-6ea8-465b-9562-328fe0d52328] (1) Two or more eligible bodies may apply to the Commissioners to be treated as members of the same group [^c-b52dbbe2bd5d26f846b43e41ed967214]....
 
 (2) An application under this paragraph must specify which body is to be the representative member.
 
-(3)[^key-084aabd59dd366a05d2929fdcff18f2f] Where the Commissioners receive an application under sub-paragraph (1), they must, by notice to the applicants or the body that is to be the representative member—
+(3)[^c-084aabd59dd366a05d2929fdcff18f2f] Where the Commissioners receive an application under sub-paragraph (1), they must, by notice to the applicants or the body that is to be the representative member—
 
 - (a) confirm whether they accept or refuse the application, and
 - (b) if they accept the application, specify a date from which the applicants are to be treated as members of the same group.
@@ -81,9 +81,9 @@ Section 71
 - (c) exclude a member of the group, or
 - (d) terminate the treatment of the members as members of a group,
 
-[^key-5a70d974c84988b7f7abfe22b25e48d0]...
+[^c-5a70d974c84988b7f7abfe22b25e48d0]...
 
-(2)[^key-6d2572fc2bbbca54241d9d0a87a0a3fa] Where the Commissioners receive an application under sub-paragraph (1), they must, by notice to the applicant and, in a case within sub-paragraph (1)(b), the proposed new representative member—
+(2)[^c-6d2572fc2bbbca54241d9d0a87a0a3fa] Where the Commissioners receive an application under sub-paragraph (1), they must, by notice to the applicant and, in a case within sub-paragraph (1)(b), the proposed new representative member—
 
 - (a) confirm whether they accept or refuse the application, and
 - (b) if they accept the application, specify a date from which the application is to be treated as having been accepted.
@@ -160,9 +160,9 @@ the Commissioners must, by notice given to such one of the bodies mentioned in p
 
 [^M_I_8a73555a-6ea8-465b-9562-328fe0d52328]: Commencement: Sch. 13 para. 3 in force at 1.4.2022 in so far as not already in force by [S.I. 2021/1409](https://www.legislation.gov.uk/uksi/2021/1409), [reg. 4](https://www.legislation.gov.uk/uksi/2021/1409/regulation/4)
 
-[^key-b52dbbe2bd5d26f846b43e41ed967214]: Textual amendment: Words in [Sch. 13 para. 3(1)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/13/paragraph/3/1) omitted (24.2.2022) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 12 para. 6(5)(a)(i)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/12/paragraph/6/5/a/i)
+[^c-b52dbbe2bd5d26f846b43e41ed967214]: Textual amendment: Words in [Sch. 13 para. 3(1)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/13/paragraph/3/1) omitted (24.2.2022) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 12 para. 6(5)(a)(i)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/12/paragraph/6/5/a/i)
 
-[^key-084aabd59dd366a05d2929fdcff18f2f]: Textual amendment: [Sch. 13 para. 3(3)-(5)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/13/paragraph/3/3) substituted for [Sch. 13](https://www.legislation.gov.uk/ukpga/2021/26/schedule/13) [para. 3(3)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/13/paragraph/3/3) (24.2.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 12 para. 6(5)(a)(ii)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/12/paragraph/6/5/a/ii)
+[^c-084aabd59dd366a05d2929fdcff18f2f]: Textual amendment: [Sch. 13 para. 3(3)-(5)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/13/paragraph/3/3) substituted for [Sch. 13](https://www.legislation.gov.uk/ukpga/2021/26/schedule/13) [para. 3(3)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/13/paragraph/3/3) (24.2.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 12 para. 6(5)(a)(ii)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/12/paragraph/6/5/a/ii)
 
 [^M_I_88e2e5bc-66b8-4289-891d-398159e95f9b]: Commencement: Sch. 13 para. 4 in force at 10.12.2021 for specified purposes by [S.I. 2021/1409](https://www.legislation.gov.uk/uksi/2021/1409), [reg. 3](https://www.legislation.gov.uk/uksi/2021/1409/regulation/3)
 
@@ -172,9 +172,9 @@ the Commissioners must, by notice given to such one of the bodies mentioned in p
 
 [^M_I_ad8bff26-0a06-4964-9385-413065d0e806]: Commencement: Sch. 13 para. 5 in force at 1.4.2022 in so far as not already in force by [S.I. 2021/1409](https://www.legislation.gov.uk/uksi/2021/1409), [reg. 4](https://www.legislation.gov.uk/uksi/2021/1409/regulation/4)
 
-[^key-5a70d974c84988b7f7abfe22b25e48d0]: Textual amendment: Words in [Sch. 13 para. 5(1)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/13/paragraph/5/1) omitted (24.2.2022) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 12 para. 6(5)(b)(i)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/12/paragraph/6/5/b/i)
+[^c-5a70d974c84988b7f7abfe22b25e48d0]: Textual amendment: Words in [Sch. 13 para. 5(1)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/13/paragraph/5/1) omitted (24.2.2022) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 12 para. 6(5)(b)(i)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/12/paragraph/6/5/b/i)
 
-[^key-6d2572fc2bbbca54241d9d0a87a0a3fa]: Textual amendment: [Sch. 13 para. 5(2)-(4)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/13/paragraph/5/2) substituted for [Sch. 13](https://www.legislation.gov.uk/ukpga/2021/26/schedule/13) [para. 5(2)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/13/paragraph/5/2) (24.2.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 12 para. 6(5)(b)(ii)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/12/paragraph/6/5/b/ii)
+[^c-6d2572fc2bbbca54241d9d0a87a0a3fa]: Textual amendment: [Sch. 13 para. 5(2)-(4)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/13/paragraph/5/2) substituted for [Sch. 13](https://www.legislation.gov.uk/ukpga/2021/26/schedule/13) [para. 5(2)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/13/paragraph/5/2) (24.2.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 12 para. 6(5)(b)(ii)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/12/paragraph/6/5/b/ii)
 
 [^M_I_7d4d71fb-f6ab-442a-c9d3-1c083a0fee35]: Commencement: Sch. 13 para. 6 in force at 10.12.2021 for specified purposes by [S.I. 2021/1409](https://www.legislation.gov.uk/uksi/2021/1409), [reg. 3](https://www.legislation.gov.uk/uksi/2021/1409/regulation/3)
 

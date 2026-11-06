@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 21. Bankruptcy: remote meetings of creditors[^key-812fbe94da167dbd7151081f5e28442f]
+## 21. Bankruptcy: remote meetings of creditors[^c-812fbe94da167dbd7151081f5e28442f]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-812fbe94da167dbd7151081f5e28442f]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2022/8/section/21) in force at 1.10.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
+[^c-812fbe94da167dbd7151081f5e28442f]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2022/8/section/21) in force at 1.10.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)

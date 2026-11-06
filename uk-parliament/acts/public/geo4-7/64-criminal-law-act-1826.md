@@ -65,7 +65,7 @@ An Act for improving the Administration of Criminal Justice in England.
 
 ## 28. Courts may order compensation to those who have been active in the apprehension of certain offenders.
 
-Where any person shall appear to the Crown Court[^c555001], to have been active in or towards the apprehension of any person charged with an indictable offence[^key-1d0a7ebae62a254ff9a7ed58d758b814], the Crown Court is hereby authorized and empowered, in any of the cases aforesaid, to order the high sheriff[^c555004] of the county in which the offence shall have been committed to pay to the person or persons who shall appear to the court to have been active in or towards the apprehension of any person charged with that offence[^c555002] such sum or sums of money as to the court shall seem reasonable and sufficient to compensate such person or persons for his, her, or their expences, exertions, and loss of time in or towards such apprehension; . . . [^c555006]: [^c555007]. . .
+Where any person shall appear to the Crown Court[^c555001], to have been active in or towards the apprehension of any person charged with an indictable offence[^c-1d0a7ebae62a254ff9a7ed58d758b814], the Crown Court is hereby authorized and empowered, in any of the cases aforesaid, to order the high sheriff[^c555004] of the county in which the offence shall have been committed to pay to the person or persons who shall appear to the court to have been active in or towards the apprehension of any person charged with that offence[^c555002] such sum or sums of money as to the court shall seem reasonable and sufficient to compensate such person or persons for his, her, or their expences, exertions, and loss of time in or towards such apprehension; . . . [^c555006]: [^c555007]. . .
 
 ## 29. Such orders to be paid by the sheriff, who may obtain immediate repayment on application to the Treasury.
 
@@ -115,7 +115,7 @@ Every order for payment to any person in respect of such apprehension as aforesa
 
 [^c555001]: Textual amendment: Words substituted by virtue of [Courts Act 1971 (c. 23)](https://www.legislation.gov.uk/ukpga/1971/23), [Sch. 8 para. 2](https://www.legislation.gov.uk/ukpga/1971/23/schedule/8/paragraph/2)
 
-[^key-1d0a7ebae62a254ff9a7ed58d758b814]: Textual amendment: Words in s. 28 substituted (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 7 para. 39](https://www.legislation.gov.uk/ukpga/2005/15/schedule/7/paragraph/39); [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(m)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/m)
+[^c-1d0a7ebae62a254ff9a7ed58d758b814]: Textual amendment: Words in s. 28 substituted (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 7 para. 39](https://www.legislation.gov.uk/ukpga/2005/15/schedule/7/paragraph/39); [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(m)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/m)
 
 [^c555004]: Textual amendment: Words substituted by virtue of [Local Government Act 1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70), [s. 219(1)](https://www.legislation.gov.uk/ukpga/1972/70/section/219/1)
 

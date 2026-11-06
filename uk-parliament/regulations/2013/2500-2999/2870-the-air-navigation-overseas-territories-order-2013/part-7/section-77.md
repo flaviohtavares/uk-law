@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Wearing of survival suits by crew[^key-4b6517c17c0945f1ae22b7b1bd4b6ec0]
+## 77. Wearing of survival suits by crew[^c-4b6517c17c0945f1ae22b7b1bd4b6ec0]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Each member of the crew of an aircraft registered in the Territory must wear a s
 
 ## Annotations
 
-[^key-4b6517c17c0945f1ae22b7b1bd4b6ec0]: Commencement: [Art. 77](https://www.legislation.gov.uk/uksi/2013/2870/article/77) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-4b6517c17c0945f1ae22b7b1bd4b6ec0]: Commencement: [Art. 77](https://www.legislation.gov.uk/uksi/2013/2870/article/77) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

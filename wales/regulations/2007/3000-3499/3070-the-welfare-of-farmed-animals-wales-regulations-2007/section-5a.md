@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5A. Monitoring and follow-up at the slaughterhouse[^key-8def8b916efbfb18bb0f27759194b932]
+## 5A. Monitoring and follow-up at the slaughterhouse[^c-8def8b916efbfb18bb0f27759194b932]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Part 3 of Schedule 5A has effect.
 
 ## Annotations
 
-[^key-8def8b916efbfb18bb0f27759194b932]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/wsi/2007/3070/regulation/5A) inserted (10.11.2010) by [The Welfare of Farmed Animals (Wales) (Amendment) Regulations 2010 (S.I. 2010/2713)](https://www.legislation.gov.uk/wsi/2010/2713), [regs. 1](https://www.legislation.gov.uk/wsi/2010/2713/regulation/1), [5](https://www.legislation.gov.uk/wsi/2010/2713/regulation/5)
+[^c-8def8b916efbfb18bb0f27759194b932]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/wsi/2007/3070/regulation/5A) inserted (10.11.2010) by [The Welfare of Farmed Animals (Wales) (Amendment) Regulations 2010 (S.I. 2010/2713)](https://www.legislation.gov.uk/wsi/2010/2713), [regs. 1](https://www.legislation.gov.uk/wsi/2010/2713/regulation/1), [5](https://www.legislation.gov.uk/wsi/2010/2713/regulation/5)

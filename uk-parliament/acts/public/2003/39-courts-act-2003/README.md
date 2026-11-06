@@ -99,7 +99,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 25 — District Judges (Magistrates' Courts) as justices of the peace](part-2/section-25.md)
 - [Section 26 — District Judges (Magistrates' Courts) able to act alone](part-2/section-26.md)
 
-#### Legal advice[^key-38a0b057b66f55bff50f7c255de8e15a]
+#### Legal advice[^c-38a0b057b66f55bff50f7c255de8e15a]
 
 *Extent: E+W*
 
@@ -159,7 +159,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 49 — Family proceedings courts](part-3/section-49.md)
 - [Section 50 — Youth courts](part-3/section-50.md)
 
-### Part 4 — Court security[^key-2e8493904568d8f3a030dd3599cb6375][^key-f6efd80715fbc76340c9219671d3381e][^c20625951]
+### Part 4 — Court security[^c-2e8493904568d8f3a030dd3599cb6375][^c-f6efd80715fbc76340c9219671d3381e][^c20625951]
 
 *Extent: E+W*
 
@@ -173,7 +173,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 56 — Regulations about retention of articles](part-4/section-56.md)
 - [Section 57 — Assaulting and obstructing court security officers](part-4/section-57.md)
 
-### Part 5 — Inspectors of court administration[^key-c27b187bfddf675ce8f6f8f81d4e3c37]
+### Part 5 — Inspectors of court administration[^c-c27b187bfddf675ce8f6f8f81d4e3c37]
 
 *Extent: E+W+S+N.I.*
 
@@ -199,7 +199,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 66 — Judges having powers of District Judges (Magistrates' Courts)](part-6/section-66.md)
 - [Section 67 — Removal of restriction on Circuit judges sitting on certain appeals](part-6/section-67.md)
 
-### PART 6A — Exercise of judicial functions by authorised persons[^key-f919ddeeb08ac78ee4ca1a128d92b030]
+### PART 6A — Exercise of judicial functions by authorised persons[^c-f919ddeeb08ac78ee4ca1a128d92b030]
 
 *Extent: E+W*
 
@@ -248,19 +248,19 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 84 — Power to change certain requirements relating to Committee](part-7/section-84.md)
 - [Section 85 — Process for making Civil Procedure Rules](part-7/section-85.md)
 
-### PART 7ZA — Transmission and recording of court and tribunal proceedings[^key-f0d1e4558dc139b8916e64a5870e6ac8]
+### PART 7ZA — Transmission and recording of court and tribunal proceedings[^c-f0d1e4558dc139b8916e64a5870e6ac8]
 
 *Extent: E+W*
 
-#### Remote observation and recording[^key-f0d1e4558dc139b8916e64a5870e6ac8]
+#### Remote observation and recording[^c-f0d1e4558dc139b8916e64a5870e6ac8]
 
 - [Section 85A — Remote observation and recording of proceedings by direction of a court or tribunal](part-7za/section-85a.md)
 
-#### Offence of recording or transmission[^key-23425060d46b0cda2226696f4b8e4f3a]
+#### Offence of recording or transmission[^c-23425060d46b0cda2226696f4b8e4f3a]
 
 - [Section 85B — Offence of recording or transmission in relation to remote proceedings](part-7za/section-85b.md)
 
-### PART 7A — Civil proceedings: prohibition of cross-examination in person[^key-8defc5a035f8cd9c8588a45b06cabb4a]
+### PART 7A — Civil proceedings: prohibition of cross-examination in person[^c-8defc5a035f8cd9c8588a45b06cabb4a]
 
 - [Section 85E — Prohibition of cross-examination in person: introductory](part-7a/section-85e.md)
 - [Section 85F — Prohibition of cross-examination in person: victims of offences](part-7a/section-85f.md)
@@ -352,22 +352,22 @@ SCHEDULES
 
 ## Annotations
 
-[^key-38a0b057b66f55bff50f7c255de8e15a]: Textual amendment: Ss. 28, 29 and crossheading substituted for ss. 27-29 (10.1.2020 for specified purposes, 6.4.2020 in so far as not already in force) by [Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (c. 33)](https://www.legislation.gov.uk/ukpga/2018/33), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2018/33/section/4/3), [Sch. para. 26](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/26); [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [regs. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2020/24/regulation/2/b/ii), [3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+[^c-38a0b057b66f55bff50f7c255de8e15a]: Textual amendment: Ss. 28, 29 and crossheading substituted for ss. 27-29 (10.1.2020 for specified purposes, 6.4.2020 in so far as not already in force) by [Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (c. 33)](https://www.legislation.gov.uk/ukpga/2018/33), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2018/33/section/4/3), [Sch. para. 26](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/26); [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [regs. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2020/24/regulation/2/b/ii), [3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
 
-[^key-2e8493904568d8f3a030dd3599cb6375]: Modification: Pt. 4: power to apply in part (with modifications) (18.11.2013) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [ss. 148](https://www.legislation.gov.uk/ukpga/2009/25/section/148), [182(4)(c)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/4/c) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180)); [S.I. 2013/2908](https://www.legislation.gov.uk/uksi/2013/2908), [art. 2](https://www.legislation.gov.uk/uksi/2013/2908/article/2)
+[^c-2e8493904568d8f3a030dd3599cb6375]: Modification: Pt. 4: power to apply in part (with modifications) (18.11.2013) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [ss. 148](https://www.legislation.gov.uk/ukpga/2009/25/section/148), [182(4)(c)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/4/c) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180)); [S.I. 2013/2908](https://www.legislation.gov.uk/uksi/2013/2908), [art. 2](https://www.legislation.gov.uk/uksi/2013/2908/article/2)
 
-[^key-f6efd80715fbc76340c9219671d3381e]: Modification: Pt. 4 applied in part (with modifications) (20.3.2014) by [The Tribunal Security Order 2014 (S.I. 2014/786)](https://www.legislation.gov.uk/uksi/2014/786), [arts. 1](https://www.legislation.gov.uk/uksi/2014/786/article/1), [3](https://www.legislation.gov.uk/uksi/2014/786/article/3), [4(a)](https://www.legislation.gov.uk/uksi/2014/786/article/4/a)
+[^c-f6efd80715fbc76340c9219671d3381e]: Modification: Pt. 4 applied in part (with modifications) (20.3.2014) by [The Tribunal Security Order 2014 (S.I. 2014/786)](https://www.legislation.gov.uk/uksi/2014/786), [arts. 1](https://www.legislation.gov.uk/uksi/2014/786/article/1), [3](https://www.legislation.gov.uk/uksi/2014/786/article/3), [4(a)](https://www.legislation.gov.uk/uksi/2014/786/article/4/a)
 
 [^c20625951]: Modification: Pt. 4 (ss. 51-57): power to apply in part (with modifications) conferred (prosp.) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [ss. 148](https://www.legislation.gov.uk/ukpga/2009/25/section/148), [182](https://www.legislation.gov.uk/ukpga/2009/25/section/182) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180))
 
-[^key-c27b187bfddf675ce8f6f8f81d4e3c37]: Textual amendment: Pt. 5 repealed (18.9.2012) by [The Public Bodies (Abolition of Her Majesty s Inspectorate of Courts Administration and the Public Guardian Board) Order 2012 (S.I. 2012/2401)](https://www.legislation.gov.uk/uksi/2012/2401), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2401/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2012/2401/article/1/3), [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2012/2401/schedule/1/paragraph/13) (with [art. 2](https://www.legislation.gov.uk/uksi/2012/2401/article/2))
+[^c-c27b187bfddf675ce8f6f8f81d4e3c37]: Textual amendment: Pt. 5 repealed (18.9.2012) by [The Public Bodies (Abolition of Her Majesty s Inspectorate of Courts Administration and the Public Guardian Board) Order 2012 (S.I. 2012/2401)](https://www.legislation.gov.uk/uksi/2012/2401), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2401/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2012/2401/article/1/3), [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2012/2401/schedule/1/paragraph/13) (with [art. 2](https://www.legislation.gov.uk/uksi/2012/2401/article/2))
 
-[^key-f919ddeeb08ac78ee4ca1a128d92b030]: Textual amendment: Pt. 6A inserted (10.1.2020 for specified purposes, 6.4.2020 in so far as not already in force) by [Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (c. 33)](https://www.legislation.gov.uk/ukpga/2018/33), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2018/33/section/4/3), [Sch. para. 32](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/32); [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [regs. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2020/24/regulation/2/b/iii), [3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+[^c-f919ddeeb08ac78ee4ca1a128d92b030]: Textual amendment: Pt. 6A inserted (10.1.2020 for specified purposes, 6.4.2020 in so far as not already in force) by [Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (c. 33)](https://www.legislation.gov.uk/ukpga/2018/33), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2018/33/section/4/3), [Sch. para. 32](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/32); [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [regs. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2020/24/regulation/2/b/iii), [3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
 
 [^c19550761]: Modification: Pt. 7 modified (6.4.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [ss. 36(4)](https://www.legislation.gov.uk/ukpga/2007/27/section/36/4), [94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1); [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 15(1)(f)](https://www.legislation.gov.uk/uksi/2008/755/article/15/1/f)
 
-[^key-f0d1e4558dc139b8916e64a5870e6ac8]: Textual amendment: [Pt. 7ZA](https://www.legislation.gov.uk/ukpga/2003/39/part/7ZA) inserted (28.4.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 198(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/198/1), [208(4)(aa)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/aa)
+[^c-f0d1e4558dc139b8916e64a5870e6ac8]: Textual amendment: [Pt. 7ZA](https://www.legislation.gov.uk/ukpga/2003/39/part/7ZA) inserted (28.4.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 198(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/198/1), [208(4)(aa)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/aa)
 
-[^key-23425060d46b0cda2226696f4b8e4f3a]: Textual amendment: [S. 85B and cross-heading](https://www.legislation.gov.uk/ukpga/2003/39/part/7/crossheading/use-of-live-video-or-audio-links-public-participation-offences-of-recording-etc) inserted (28.4.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 199](https://www.legislation.gov.uk/ukpga/2022/32/section/199), [208(4)(aa)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/aa)
+[^c-23425060d46b0cda2226696f4b8e4f3a]: Textual amendment: [S. 85B and cross-heading](https://www.legislation.gov.uk/ukpga/2003/39/part/7/crossheading/use-of-live-video-or-audio-links-public-participation-offences-of-recording-etc) inserted (28.4.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 199](https://www.legislation.gov.uk/ukpga/2022/32/section/199), [208(4)(aa)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/aa)
 
-[^key-8defc5a035f8cd9c8588a45b06cabb4a]: Textual amendment: [Pt. 7A](https://www.legislation.gov.uk/ukpga/2003/39/part/7A) inserted (21.7.2022) by [Domestic Abuse Act 2021 (c. 17)](https://www.legislation.gov.uk/ukpga/2021/17), [ss. 66](https://www.legislation.gov.uk/ukpga/2021/17/section/66), [90(6)](https://www.legislation.gov.uk/ukpga/2021/17/section/90/6); [S.I. 2022/840](https://www.legislation.gov.uk/uksi/2022/840), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/840/regulation/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2022/840/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/840/regulation/3))
+[^c-8defc5a035f8cd9c8588a45b06cabb4a]: Textual amendment: [Pt. 7A](https://www.legislation.gov.uk/ukpga/2003/39/part/7A) inserted (21.7.2022) by [Domestic Abuse Act 2021 (c. 17)](https://www.legislation.gov.uk/ukpga/2021/17), [ss. 66](https://www.legislation.gov.uk/ukpga/2021/17/section/66), [90(6)](https://www.legislation.gov.uk/ukpga/2021/17/section/90/6); [S.I. 2022/840](https://www.legislation.gov.uk/uksi/2022/840), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/840/regulation/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2022/840/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/840/regulation/3))

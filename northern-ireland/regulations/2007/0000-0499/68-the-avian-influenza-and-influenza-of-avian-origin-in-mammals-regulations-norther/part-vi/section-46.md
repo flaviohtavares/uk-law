@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 46. Measures when low pathogenic avian influenza is confirmed[^key-a2c8d777df8c40d5a8e2f28cffcc1129]
+## 46. Measures when low pathogenic avian influenza is confirmed[^c-a2c8d777df8c40d5a8e2f28cffcc1129]
 
 *Extent: N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a2c8d777df8c40d5a8e2f28cffcc1129]: Commencement: Reg. 46 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
+[^c-a2c8d777df8c40d5a8e2f28cffcc1129]: Commencement: Reg. 46 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)

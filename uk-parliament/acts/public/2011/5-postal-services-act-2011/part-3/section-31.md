@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Minimum requirements[^key-05956eb843cf6c5fc3a480898ca908ff]
+## 31. Minimum requirements[^c-05956eb843cf6c5fc3a480898ca908ff]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ This section sets out the services that must, as a minimum, be included in a uni
 
 ## Annotations
 
-[^key-05956eb843cf6c5fc3a480898ca908ff]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2011/5/section/31) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-05956eb843cf6c5fc3a480898ca908ff]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2011/5/section/31) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

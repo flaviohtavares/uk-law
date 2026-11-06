@@ -32,7 +32,7 @@ summary: ''
 
 Agriculture, England
 
-The Common Agricultural Policy Single Payment and Support Schemes (Appeals) Regulations 2010 (revoked)[^key-5c5e737587901273cad8cc21c15d6e5e]
+The Common Agricultural Policy Single Payment and Support Schemes (Appeals) Regulations 2010 (revoked)[^c-5c5e737587901273cad8cc21c15d6e5e]
 
 Made
 
@@ -46,27 +46,27 @@ Coming into force
 
 5th February 2010
 
-[^key-5c5e737587901273cad8cc21c15d6e5e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5c5e737587901273cad8cc21c15d6e5e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-5c5e737587901273cad8cc21c15d6e5e]
+## 1. Title, application and commencement[^c-5c5e737587901273cad8cc21c15d6e5e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Appeals[^key-5c5e737587901273cad8cc21c15d6e5e]
+## 2. Appeals[^c-5c5e737587901273cad8cc21c15d6e5e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-5c5e737587901273cad8cc21c15d6e5e]
+## 3. Revocation[^c-5c5e737587901273cad8cc21c15d6e5e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5c5e737587901273cad8cc21c15d6e5e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5c5e737587901273cad8cc21c15d6e5e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-5c5e737587901273cad8cc21c15d6e5e]EXPLANATORY NOTE
+[^c-5c5e737587901273cad8cc21c15d6e5e]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -76,4 +76,4 @@ A full regulatory impact assessment has not been prepared for this instrument as
 
 ## Annotations
 
-[^key-5c5e737587901273cad8cc21c15d6e5e]: Textual amendment: Regulations revoked (1.1.2015) by [The Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) Regulations 2014 (S.I. 2014/3263)](https://www.legislation.gov.uk/uksi/2014/3263), regs. 1, [Sch. 5](https://www.legislation.gov.uk/uksi/2014/3263/schedule/5)
+[^c-5c5e737587901273cad8cc21c15d6e5e]: Textual amendment: Regulations revoked (1.1.2015) by [The Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) Regulations 2014 (S.I. 2014/3263)](https://www.legislation.gov.uk/uksi/2014/3263), regs. 1, [Sch. 5](https://www.legislation.gov.uk/uksi/2014/3263/schedule/5)

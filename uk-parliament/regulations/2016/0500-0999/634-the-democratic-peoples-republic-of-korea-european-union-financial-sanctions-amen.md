@@ -32,7 +32,7 @@ summary: ''
 
 Criminal Law
 
-The Democratic People’s Republic of Korea (European Union Financial Sanctions) (Amendment) (No. 2) Regulations 2016 (revoked)[^key-9bdd01ae94b6a18491fb27dece6b4566]
+The Democratic People’s Republic of Korea (European Union Financial Sanctions) (Amendment) (No. 2) Regulations 2016 (revoked)[^c-9bdd01ae94b6a18491fb27dece6b4566]
 
 Made
 
@@ -46,36 +46,36 @@ Coming into force
 
 11th June 2016
 
-[^key-9bdd01ae94b6a18491fb27dece6b4566]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9bdd01ae94b6a18491fb27dece6b4566]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — General[^key-9bdd01ae94b6a18491fb27dece6b4566]
+## PART 1 — General[^c-9bdd01ae94b6a18491fb27dece6b4566]
 
-### 1. Citation, commencement and interpretation[^key-9bdd01ae94b6a18491fb27dece6b4566]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## PART 2 — Amendment of the 2013 Regulations[^key-9bdd01ae94b6a18491fb27dece6b4566]
-
-### 2. Amendment of the 2013 Regulations[^key-9bdd01ae94b6a18491fb27dece6b4566]
+### 1. Citation, commencement and interpretation[^c-9bdd01ae94b6a18491fb27dece6b4566]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-9bdd01ae94b6a18491fb27dece6b4566] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## PART 2 — Amendment of the 2013 Regulations[^c-9bdd01ae94b6a18491fb27dece6b4566]
 
-**4.**[^key-9bdd01ae94b6a18491fb27dece6b4566] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 2. Amendment of the 2013 Regulations[^c-9bdd01ae94b6a18491fb27dece6b4566]
 
-**5.**[^key-9bdd01ae94b6a18491fb27dece6b4566] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-9bdd01ae94b6a18491fb27dece6b4566] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-9bdd01ae94b6a18491fb27dece6b4566] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9bdd01ae94b6a18491fb27dece6b4566]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-9bdd01ae94b6a18491fb27dece6b4566] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5.**[^c-9bdd01ae94b6a18491fb27dece6b4566] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**6.**[^c-9bdd01ae94b6a18491fb27dece6b4566] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-9bdd01ae94b6a18491fb27dece6b4566]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-9bdd01ae94b6a18491fb27dece6b4566]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9bdd01ae94b6a18491fb27dece6b4566]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9bdd01ae94b6a18491fb27dece6b4566]: Textual amendment: Regulations revoked (1.3.2017) by [The Democratic People's Republic of Korea (European Union Financial Sanctions) Regulations 2017 (S.I. 2017/218)](https://www.legislation.gov.uk/uksi/2017/218), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/218/regulation/1/1), [32(1)(c)](https://www.legislation.gov.uk/uksi/2017/218/regulation/32/1/c) (with [regs. 31](https://www.legislation.gov.uk/uksi/2017/218/regulation/31), [33](https://www.legislation.gov.uk/uksi/2017/218/regulation/33))
+[^c-9bdd01ae94b6a18491fb27dece6b4566]: Textual amendment: Regulations revoked (1.3.2017) by [The Democratic People's Republic of Korea (European Union Financial Sanctions) Regulations 2017 (S.I. 2017/218)](https://www.legislation.gov.uk/uksi/2017/218), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/218/regulation/1/1), [32(1)(c)](https://www.legislation.gov.uk/uksi/2017/218/regulation/32/1/c) (with [regs. 31](https://www.legislation.gov.uk/uksi/2017/218/regulation/31), [33](https://www.legislation.gov.uk/uksi/2017/218/regulation/33))

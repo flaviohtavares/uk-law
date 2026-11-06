@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 122. Application of insolvency law[^M_I_04ed19e1-39d4-4cb6-c609-c0cf5d3e4a60][^key-1aa5422b34479e2b95a04c07a8fe2e20]
+## 122. Application of insolvency law[^M_I_04ed19e1-39d4-4cb6-c609-c0cf5d3e4a60][^c-1aa5422b34479e2b95a04c07a8fe2e20]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 [^M_I_04ed19e1-39d4-4cb6-c609-c0cf5d3e4a60]: Commencement: S. 122 in force at 17.2.2009 for specified purposes by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), arts. 2, 3, Sch. para. 2
 
-[^key-1aa5422b34479e2b95a04c07a8fe2e20]: Commencement: S. 122 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/2)
+[^c-1aa5422b34479e2b95a04c07a8fe2e20]: Commencement: S. 122 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/2)

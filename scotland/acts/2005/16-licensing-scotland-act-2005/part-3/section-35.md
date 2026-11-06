@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 35. Variation on transfer[^key-65c81f2cd331b7d80e08543e2b150d67]
+## 35. Variation on transfer[^c-65c81f2cd331b7d80e08543e2b150d67]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ the Licensing Board must determine the application under subsection (1) before d
 
 ## Annotations
 
-[^key-65c81f2cd331b7d80e08543e2b150d67]: Commencement: S. 35 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
+[^c-65c81f2cd331b7d80e08543e2b150d67]: Commencement: S. 35 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 119. Amendments relating to family members of persons granted leave under one of the Afghan Schemes or one of the Ukraine Schemes[^key-b8d987c5e77c02fa4095afc3d8225534]
+## 119. Amendments relating to family members of persons granted leave under one of the Afghan Schemes or one of the Ukraine Schemes[^c-b8d987c5e77c02fa4095afc3d8225534]
 
 *Extent: E+W*
 
@@ -30,12 +30,12 @@ In regulation 2(1) (interpretation) (as amended by regulations 113 and 115 of th
   - (ii) at the end of paragraph (a)(iii), for “or” substitute “and”;
   - (iii) omit paragraph (a)(iv).
 
-**120.**[^key-0673d8598ef8debce554c3d160acc7bf] In regulation 7(2) (as substituted by regulation 117 of these Regulations) (students becoming eligible in the course of an academic year: events)—
+**120.**[^c-0673d8598ef8debce554c3d160acc7bf] In regulation 7(2) (as substituted by regulation 117 of these Regulations) (students becoming eligible in the course of an academic year: events)—
 
 - (a) in sub-paragraph (j), after “the student” insert “or the student’s spouse, civil partner or parent”;
 - (b) in sub-paragraph (k), after “the student” insert “or the student’s spouse, civil partner or parent”.
 
-**121.**[^key-1718f99b50d7f0b1fd8eb463a556d001] In Part 2 of Schedule 1 (eligible students: categories)—
+**121.**[^c-1718f99b50d7f0b1fd8eb463a556d001] In Part 2 of Schedule 1 (eligible students: categories)—
 
 - (a) in paragraph 6A (as amended by regulation 116(9) of these Regulations)—
   - (i) for the heading substitute—
@@ -99,10 +99,10 @@ In regulation 2(1) (interpretation) (as amended by regulations 113 and 115 of th
 
 ## Annotations
 
-[^key-b8d987c5e77c02fa4095afc3d8225534]: Commencement: Reg. 119 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-b8d987c5e77c02fa4095afc3d8225534]: Commencement: Reg. 119 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
 
-[^key-0673d8598ef8debce554c3d160acc7bf]: Commencement: Reg. 120 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-0673d8598ef8debce554c3d160acc7bf]: Commencement: Reg. 120 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
 
-[^key-1718f99b50d7f0b1fd8eb463a556d001]: Commencement: Reg. 121 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-1718f99b50d7f0b1fd8eb463a556d001]: Commencement: Reg. 121 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
 
 [^f00093]: Footnote: Paragraph 6C inserted by [S.I. 2022/534](https://www.legislation.gov.uk/uksi/2022/534).

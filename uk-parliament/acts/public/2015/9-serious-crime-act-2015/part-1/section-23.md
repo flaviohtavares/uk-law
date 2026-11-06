@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Prohibitory property orders: PPO receivers[^key-e42630591527756f62ddd7ad31cb7e67]
+## 23. Prohibitory property orders: PPO receivers[^c-e42630591527756f62ddd7ad31cb7e67]
 
 *Extent: E+W+S+N.I.*
 
@@ -121,4 +121,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e42630591527756f62ddd7ad31cb7e67]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2015/9/section/23) in force at 1.3.2016 by [S.I. 2016/148](https://www.legislation.gov.uk/uksi/2016/148), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2016/148/regulation/3/b)
+[^c-e42630591527756f62ddd7ad31cb7e67]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2015/9/section/23) in force at 1.3.2016 by [S.I. 2016/148](https://www.legislation.gov.uk/uksi/2016/148), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2016/148/regulation/3/b)

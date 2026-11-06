@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 145. Setting of targets etc[^key-4649ce97effaeff65d4f75978e092c32]
+## 145. Setting of targets etc[^c-4649ce97effaeff65d4f75978e092c32]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4649ce97effaeff65d4f75978e092c32]: Commencement: S. 145 in force at Royal Assent, see [s. 334(2)(c)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/c)
+[^c-4649ce97effaeff65d4f75978e092c32]: Commencement: S. 145 in force at Royal Assent, see [s. 334(2)(c)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/c)

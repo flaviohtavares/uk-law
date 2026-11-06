@@ -32,7 +32,7 @@ Regulation 39(6)
 - (d) regulation 38(5)(a) (failing to comply with the record-keeping requirements in paragraph 17(3) or (4) of Schedule 2), or
 - (e) regulation 38(6) (acts of third parties) so far as it relates to an offence listed in paragraphs (a) to (d).
 
-(2)[^key-111c2885e5f4896b509fc3eead6eb9f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-111c2885e5f4896b509fc3eead6eb9f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) For the purposes of this Schedule, an “enforcement undertaking” is a written undertaking to take such action as may be specified in the undertaking within such period as may be so specified.
 
@@ -125,4 +125,4 @@ If the Agency has accepted an enforcement undertaking then, unless the person fr
 
 ## Annotations
 
-[^key-111c2885e5f4896b509fc3eead6eb9f4]: Textual amendment: Sch. 26 para. 1(2) omitted (30.1.2018) by virtue of [The Environmental Permitting (England and Wales) (Amendment) Regulations 2018 (S.I. 2018/110)](https://www.legislation.gov.uk/uksi/2018/110), [regs. 1](https://www.legislation.gov.uk/uksi/2018/110/regulation/1), [17](https://www.legislation.gov.uk/uksi/2018/110/regulation/17)
+[^c-111c2885e5f4896b509fc3eead6eb9f4]: Textual amendment: Sch. 26 para. 1(2) omitted (30.1.2018) by virtue of [The Environmental Permitting (England and Wales) (Amendment) Regulations 2018 (S.I. 2018/110)](https://www.legislation.gov.uk/uksi/2018/110), [regs. 1](https://www.legislation.gov.uk/uksi/2018/110/regulation/1), [17](https://www.legislation.gov.uk/uksi/2018/110/regulation/17)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1) Where at any diet the accused tenders a plea of guilty to the indictment or any part thereof he shall do so in open court [^key-6d8a881532f5763cb4bdbf4d9620b68d]....
+(1) Where at any diet the accused tenders a plea of guilty to the indictment or any part thereof he shall do so in open court [^c-6d8a881532f5763cb4bdbf4d9620b68d]....
 
 (2) Where the plea is to part only of the charge and the prosecutor does not accept the plea, such non-acceptance shall be recorded.
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6d8a881532f5763cb4bdbf4d9620b68d]: Textual amendment: Words in [s. 77(1)](https://www.legislation.gov.uk/ukpga/1995/46/section/77/1) repealed (17.1.2017) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [ss. 83(b)](https://www.legislation.gov.uk/asp/2016/1/section/83/b), [117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2); [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule)
+[^c-6d8a881532f5763cb4bdbf4d9620b68d]: Textual amendment: Words in [s. 77(1)](https://www.legislation.gov.uk/ukpga/1995/46/section/77/1) repealed (17.1.2017) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [ss. 83(b)](https://www.legislation.gov.uk/asp/2016/1/section/83/b), [117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2); [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule)

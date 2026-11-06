@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Designation of works[^key-0eb940cf0a491da1108a0e78240b5832]
+## 8. Designation of works[^c-0eb940cf0a491da1108a0e78240b5832]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0eb940cf0a491da1108a0e78240b5832]: Commencement: Art. 8 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)
+[^c-0eb940cf0a491da1108a0e78240b5832]: Commencement: Art. 8 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)

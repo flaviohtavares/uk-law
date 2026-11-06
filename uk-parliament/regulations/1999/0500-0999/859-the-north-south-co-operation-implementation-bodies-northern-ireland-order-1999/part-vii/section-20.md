@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 20. The implementation body for aquaculture and marine matters[^key-e29bf0c7dba2a53c2a883ab4d2716ebf]
+## 20. The implementation body for aquaculture and marine matters[^c-e29bf0c7dba2a53c2a883ab4d2716ebf]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e29bf0c7dba2a53c2a883ab4d2716ebf]: Commencement: [Art. 20](https://www.legislation.gov.uk/uksi/1999/859/article/20) in force at 2.12.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/859/article/1/2)
+[^c-e29bf0c7dba2a53c2a883ab4d2716ebf]: Commencement: [Art. 20](https://www.legislation.gov.uk/uksi/1999/859/article/20) in force at 2.12.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/859/article/1/2)

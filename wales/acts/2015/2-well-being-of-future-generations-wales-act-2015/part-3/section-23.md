@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Future Generations report[^c2253091][^key-1811af66b3928f62ac4dae69e83e185d]
+## 23. Future Generations report[^c2253091][^c-1811af66b3928f62ac4dae69e83e185d]
 
 *Extent: E+W*
 
@@ -53,4 +53,4 @@ summary: ''
 
 [^c2253091]: Commencement: [S. 23](https://www.legislation.gov.uk/anaw/2015/2/section/23) partly in force; [s. 23](https://www.legislation.gov.uk/anaw/2015/2/section/23) in force for specified purposes at 30.4.2015, see [s. 56(1)(b)](https://www.legislation.gov.uk/anaw/2015/2/section/56/1/b)
 
-[^key-1811af66b3928f62ac4dae69e83e185d]: Commencement: [S. 23](https://www.legislation.gov.uk/anaw/2015/2/section/23) in force at 1.2.2016 by [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 2](https://www.legislation.gov.uk/wsi/2016/86/article/2)
+[^c-1811af66b3928f62ac4dae69e83e185d]: Commencement: [S. 23](https://www.legislation.gov.uk/anaw/2015/2/section/23) in force at 1.2.2016 by [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 2](https://www.legislation.gov.uk/wsi/2016/86/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10. Key agencies[^key-8f0b85b5f5909b722d3be074d66605bf]
+## 10. Key agencies[^c-8f0b85b5f5909b722d3be074d66605bf]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ In section 23D of the Town and Country Planning (Scotland) Act 1997 (meaning of 
 
 ## Annotations
 
-[^key-8f0b85b5f5909b722d3be074d66605bf]: Commencement: S. 10 in force at 8.11.2019 by [S.S.I. 2019/314](https://www.legislation.gov.uk/ssi/2019/314), [reg. 2](https://www.legislation.gov.uk/ssi/2019/314/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/314/schedule)
+[^c-8f0b85b5f5909b722d3be074d66605bf]: Commencement: S. 10 in force at 8.11.2019 by [S.S.I. 2019/314](https://www.legislation.gov.uk/ssi/2019/314), [reg. 2](https://www.legislation.gov.uk/ssi/2019/314/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/314/schedule)

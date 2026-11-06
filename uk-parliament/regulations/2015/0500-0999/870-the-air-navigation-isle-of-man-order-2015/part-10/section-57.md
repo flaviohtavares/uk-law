@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Commercial Air Transport, Aerial Work and Large Aircraft[^key-3aa0ae193c786c992871229c86081d7e]
+## 57. Commercial Air Transport, Aerial Work and Large Aircraft[^c-3aa0ae193c786c992871229c86081d7e]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,7 +66,7 @@ unless, in either case, the specified visual reference for landing is establishe
 - (a) in the case of an aircraft with two engines – within one hour of flight time at a one-engine inoperative cruising speed, determined from the aircraft operating manual, calculated in international standard atmospheres and still air conditions using the actual take-off mass; or
 - (b) in the case of an aircraft with three or more engines – within two hours of flight time at an all engines operating cruising speed, determined from the aircraft operating manual, calculated in international standard atmospheres and still air conditions using the actual take-off mass.
 
-(11) If, according to any available information, an aircraft would be required [^key-3bc61393e63637c1662c921897a05ab9]... to be flown in accordance with the Instrument Flight Rules at the aerodrome of intended landing, the pilot in command of the aircraft must select an alternate aerodrome before take-off unless no aerodrome suitable for that purpose is available.
+(11) If, according to any available information, an aircraft would be required [^c-3bc61393e63637c1662c921897a05ab9]... to be flown in accordance with the Instrument Flight Rules at the aerodrome of intended landing, the pilot in command of the aircraft must select an alternate aerodrome before take-off unless no aerodrome suitable for that purpose is available.
 
 (12) The pilot in command of an aircraft must not commence a flight to be conducted in accordance with the Instrument Flight Rules to an aerodrome where no suitable alternate aerodrome is available unless—
 
@@ -83,6 +83,6 @@ unless, in either case, the specified visual reference for landing is establishe
 
 ## Annotations
 
-[^key-3aa0ae193c786c992871229c86081d7e]: Textual amendment: [Pt. 10](https://www.legislation.gov.uk/uksi/2015/870/part/10) substituted (1.5.2016) by [The Air Navigation (Isle of Man) (Amendment) Order 2016 (S.I. 2016/155)](https://www.legislation.gov.uk/uksi/2016/155), [arts. 1](https://www.legislation.gov.uk/uksi/2016/155/article/1), [9](https://www.legislation.gov.uk/uksi/2016/155/article/9)
+[^c-3aa0ae193c786c992871229c86081d7e]: Textual amendment: [Pt. 10](https://www.legislation.gov.uk/uksi/2015/870/part/10) substituted (1.5.2016) by [The Air Navigation (Isle of Man) (Amendment) Order 2016 (S.I. 2016/155)](https://www.legislation.gov.uk/uksi/2016/155), [arts. 1](https://www.legislation.gov.uk/uksi/2016/155/article/1), [9](https://www.legislation.gov.uk/uksi/2016/155/article/9)
 
-[^key-3bc61393e63637c1662c921897a05ab9]: Textual amendment: Words in [art. 57(11)](https://www.legislation.gov.uk/uksi/2015/870/article/57/11) omitted (coming into force in accordance with art. 1 of the amending S.I.) by virtue of [The Air Navigation (Isle of Man) (Amendment) Order 2021 (S.I. 2021/751)](https://www.legislation.gov.uk/uksi/2021/751), [art. 3](https://www.legislation.gov.uk/uksi/2021/751/article/3)
+[^c-3bc61393e63637c1662c921897a05ab9]: Textual amendment: Words in [art. 57(11)](https://www.legislation.gov.uk/uksi/2015/870/article/57/11) omitted (coming into force in accordance with art. 1 of the amending S.I.) by virtue of [The Air Navigation (Isle of Man) (Amendment) Order 2021 (S.I. 2021/751)](https://www.legislation.gov.uk/uksi/2021/751), [art. 3](https://www.legislation.gov.uk/uksi/2021/751/article/3)

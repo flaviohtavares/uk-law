@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## E2A. Ill health pension on early retirement[^key-650d38873ec88ec32d23557105525728]
+## E2A. Ill health pension on early retirement[^c-650d38873ec88ec32d23557105525728]
 
 *Extent: E+W+S*
 
@@ -49,7 +49,7 @@ will be calculated as described in regulation E1.
 
 (6) To the extent that any increase under paragraph (4) or (5) would cause a member’s pensionable service to exceed the limit provided for in regulation C2(3) (meaning of pensionable service), the amount of any excess will be reduced accordingly.
 
-(7) Subject to paragraph (8), where a member becomes entitled to a pension by virtue of meeting the tier 2 condition, the Secretary of State may discharge her liability for that pension by the payment of a lump sum of an amount consistent with—[^key-091ff0433ce70eb77d4832d3f156f344]
+(7) Subject to paragraph (8), where a member becomes entitled to a pension by virtue of meeting the tier 2 condition, the Secretary of State may discharge her liability for that pension by the payment of a lump sum of an amount consistent with—[^c-091ff0433ce70eb77d4832d3f156f344]
 
 - (a) the contracting-out requirements; and
 - (b) the preservation requirements.
@@ -134,8 +134,8 @@ will be calculated as described in regulation E1.
 
 ## Annotations
 
-[^key-650d38873ec88ec32d23557105525728]: Textual amendment: [Regs. E2A-E2C](https://www.legislation.gov.uk/uksi/1995/300/regulation/E2A) inserted (1.4.2008) by [The National Health Service Pension Scheme (Amendment) Regulations 2008 (S.I. 2008/654)](https://www.legislation.gov.uk/uksi/2008/654), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2008/654/regulation/11)
+[^c-650d38873ec88ec32d23557105525728]: Textual amendment: [Regs. E2A-E2C](https://www.legislation.gov.uk/uksi/1995/300/regulation/E2A) inserted (1.4.2008) by [The National Health Service Pension Scheme (Amendment) Regulations 2008 (S.I. 2008/654)](https://www.legislation.gov.uk/uksi/2008/654), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2008/654/regulation/11)
 
-[^key-091ff0433ce70eb77d4832d3f156f344]: Textual amendment: Words in [reg. E2A(7)](https://www.legislation.gov.uk/uksi/1995/300/regulation/E2A/7) substituted (6.4.2019) by [The National Health Service Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2019 (S.I. 2019/418)](https://www.legislation.gov.uk/uksi/2019/418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/3), [9](https://www.legislation.gov.uk/uksi/2019/418/regulation/9)
+[^c-091ff0433ce70eb77d4832d3f156f344]: Textual amendment: Words in [reg. E2A(7)](https://www.legislation.gov.uk/uksi/1995/300/regulation/E2A/7) substituted (6.4.2019) by [The National Health Service Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2019 (S.I. 2019/418)](https://www.legislation.gov.uk/uksi/2019/418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/3), [9](https://www.legislation.gov.uk/uksi/2019/418/regulation/9)
 
 [^M_F_a39f9b09-bed3-4dbb-e21d-2be0d96b5747]: Textual amendment: Words in reg. E2A(11) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2009/2446/schedule/1/paragraph/1)

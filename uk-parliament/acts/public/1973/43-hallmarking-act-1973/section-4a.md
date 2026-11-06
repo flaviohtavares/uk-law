@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4A. Assay office carrying on business outside the United Kingdom[^key-e4518fe6182763808ef10e1a7adfb356]
+## 4A. Assay office carrying on business outside the United Kingdom[^c-e4518fe6182763808ef10e1a7adfb356]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e4518fe6182763808ef10e1a7adfb356]: Textual amendment: [S. 4A](https://www.legislation.gov.uk/ukpga/1973/43/section/4A) inserted (8.2.2013) by [The Legislative Reform (Hallmarking) Order 2013 (S.I. 2013/251)](https://www.legislation.gov.uk/uksi/2013/251), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/251/article/1/2), [5](https://www.legislation.gov.uk/uksi/2013/251/article/5)
+[^c-e4518fe6182763808ef10e1a7adfb356]: Textual amendment: [S. 4A](https://www.legislation.gov.uk/ukpga/1973/43/section/4A) inserted (8.2.2013) by [The Legislative Reform (Hallmarking) Order 2013 (S.I. 2013/251)](https://www.legislation.gov.uk/uksi/2013/251), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/251/article/1/2), [5](https://www.legislation.gov.uk/uksi/2013/251/article/5)

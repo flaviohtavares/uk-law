@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Meaning of “owned or controlled directly or indirectly”[^key-fd734de4d77796a89cdd3cb957ac277b][^key-2737b4b3b206bf408f048fad3173fcea]
+## 7. Meaning of “owned or controlled directly or indirectly”[^c-fd734de4d77796a89cdd3cb957ac277b][^c-2737b4b3b206bf408f048fad3173fcea]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,12 +30,12 @@ summary: ''
 
 (3) Schedule 1 contains provision applying for the purpose of interpreting paragraph (2).
 
-(4) The second condition is that it is reasonable, having regard to all the circumstances, to expect that P would (if P chose to) be able, in most cases or in significant respects, by whatever means and[^key-2d2c5cfe24835a774c3f027895e3b17b]... whether directly or indirectly, to achieve the result that affairs of C are conducted in accordance with P's wishes.
+(4) The second condition is that it is reasonable, having regard to all the circumstances, to expect that P would (if P chose to) be able, in most cases or in significant respects, by whatever means and[^c-2d2c5cfe24835a774c3f027895e3b17b]... whether directly or indirectly, to achieve the result that affairs of C are conducted in accordance with P's wishes.
 
 ## Annotations
 
-[^key-fd734de4d77796a89cdd3cb957ac277b]: Commencement: Reg. 7 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/604/regulation/1/2)
+[^c-fd734de4d77796a89cdd3cb957ac277b]: Commencement: Reg. 7 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/604/regulation/1/2)
 
-[^key-2737b4b3b206bf408f048fad3173fcea]: Commencement: Reg. 7 in force at 22.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 13(1)(f)](https://www.legislation.gov.uk/uksi/2019/627/regulation/13/1/f)
+[^c-2737b4b3b206bf408f048fad3173fcea]: Commencement: Reg. 7 in force at 22.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 13(1)(f)](https://www.legislation.gov.uk/uksi/2019/627/regulation/13/1/f)
 
-[^key-2d2c5cfe24835a774c3f027895e3b17b]: Textual amendment: Reg. 7(4): comma omitted (31.12.2020 immediately after IP completion day) by virtue of [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2020 (S.I. 2020/590)](https://www.legislation.gov.uk/uksi/2020/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/590/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2020/590/regulation/7/3); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 4](https://www.legislation.gov.uk/uksi/2020/1514/regulation/4)
+[^c-2d2c5cfe24835a774c3f027895e3b17b]: Textual amendment: Reg. 7(4): comma omitted (31.12.2020 immediately after IP completion day) by virtue of [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2020 (S.I. 2020/590)](https://www.legislation.gov.uk/uksi/2020/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/590/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2020/590/regulation/7/3); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 4](https://www.legislation.gov.uk/uksi/2020/1514/regulation/4)

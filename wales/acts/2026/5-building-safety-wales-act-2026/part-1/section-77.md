@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 77. Regulations under sections 17, 28(2) and 75: initial procedure[^key-bc596fac225ed978ff1cef115b6912be]
+## 77. Regulations under sections 17, 28(2) and 75: initial procedure[^c-bc596fac225ed978ff1cef115b6912be]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bc596fac225ed978ff1cef115b6912be]: Commencement: S. 77 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-bc596fac225ed978ff1cef115b6912be]: Commencement: S. 77 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

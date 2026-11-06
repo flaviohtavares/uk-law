@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 144. Statement of entitlement[^key-79c0db2b554d1c277fb1aa32e9002fda]
+## 144. Statement of entitlement[^c-79c0db2b554d1c277fb1aa32e9002fda]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-79c0db2b554d1c277fb1aa32e9002fda]: Commencement: [Reg. 144](https://www.legislation.gov.uk/nisr/2014/290/regulation/144) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-79c0db2b554d1c277fb1aa32e9002fda]: Commencement: [Reg. 144](https://www.legislation.gov.uk/nisr/2014/290/regulation/144) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

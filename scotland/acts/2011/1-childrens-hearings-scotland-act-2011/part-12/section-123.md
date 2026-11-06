@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 123. General power to grant warrant to secure attendance[^key-6ebe6c739270afda2b9c5c17f10c722b]
+## 123. General power to grant warrant to secure attendance[^c-6ebe6c739270afda2b9c5c17f10c722b]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6ebe6c739270afda2b9c5c17f10c722b]: Commencement: S. 123 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-6ebe6c739270afda2b9c5c17f10c722b]: Commencement: S. 123 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

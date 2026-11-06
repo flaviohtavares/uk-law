@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. General trade licences: records[^key-069d13ed518b521443a4dfa46baf2d90][^key-ece5c7d75c97a2de683182e912330743]
+## 45. General trade licences: records[^c-069d13ed518b521443a4dfa46baf2d90][^c-ece5c7d75c97a2de683182e912330743]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-069d13ed518b521443a4dfa46baf2d90]: Commencement: Reg. 45 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/433/regulation/1/2)
+[^c-069d13ed518b521443a4dfa46baf2d90]: Commencement: Reg. 45 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/433/regulation/1/2)
 
-[^key-ece5c7d75c97a2de683182e912330743]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/2019/433/regulation/45) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 5(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ece5c7d75c97a2de683182e912330743]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/2019/433/regulation/45) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 5(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

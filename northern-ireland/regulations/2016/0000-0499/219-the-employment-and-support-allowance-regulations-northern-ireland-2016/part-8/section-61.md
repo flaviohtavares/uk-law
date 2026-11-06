@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 61. Sanctions where universal credit ends and the person is entitled to an employment and support allowance[^key-79aa80c232322b0963b7a6ca77ebe9a8]
+## 61. Sanctions where universal credit ends and the person is entitled to an employment and support allowance[^c-79aa80c232322b0963b7a6ca77ebe9a8]
 
 *Extent: N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-79aa80c232322b0963b7a6ca77ebe9a8]: Commencement: [Reg. 61](https://www.legislation.gov.uk/nisr/2016/219/regulation/61) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-79aa80c232322b0963b7a6ca77ebe9a8]: Commencement: [Reg. 61](https://www.legislation.gov.uk/nisr/2016/219/regulation/61) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)

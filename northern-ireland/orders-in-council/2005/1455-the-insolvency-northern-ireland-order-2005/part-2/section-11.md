@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 11. Voluntary arrangements: minor amendments[^key-d344a92e5098248a56bb6f2b3be6152d]
+## 11. Voluntary arrangements: minor amendments[^c-d344a92e5098248a56bb6f2b3be6152d]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d344a92e5098248a56bb6f2b3be6152d]: Textual amendment: [Art. 11](https://www.legislation.gov.uk/nisi/2005/1455/article/11) omitted (26.6.2020) by virtue of [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 7 para. 37](https://www.legislation.gov.uk/ukpga/2020/12/schedule/7/paragraph/37) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-d344a92e5098248a56bb6f2b3be6152d]: Textual amendment: [Art. 11](https://www.legislation.gov.uk/nisi/2005/1455/article/11) omitted (26.6.2020) by virtue of [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 7 para. 37](https://www.legislation.gov.uk/ukpga/2020/12/schedule/7/paragraph/37) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 5H. Further provision about regulations under Article 5G[^key-4815fb533c98a206ed454e93966310d1]
+## 5H. Further provision about regulations under Article 5G[^c-4815fb533c98a206ed454e93966310d1]
 
 *Extent: N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4815fb533c98a206ed454e93966310d1]: Textual amendment: [Arts. 5G](https://www.legislation.gov.uk/nisi/1997/2778/article/5G), [5H](https://www.legislation.gov.uk/nisi/1997/2778/article/5H) and cross-heading inserted (28.2.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 59(2)](https://www.legislation.gov.uk/ukpga/2021/30/section/59/2), [147(6)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(i)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/i)
+[^c-4815fb533c98a206ed454e93966310d1]: Textual amendment: [Arts. 5G](https://www.legislation.gov.uk/nisi/1997/2778/article/5G), [5H](https://www.legislation.gov.uk/nisi/1997/2778/article/5H) and cross-heading inserted (28.2.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 59(2)](https://www.legislation.gov.uk/ukpga/2021/30/section/59/2), [147(6)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(i)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/i)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 25. Proceeds of sale etc.[^key-f2aecabc2d15a049686f507e60526d5b]
+## 25. Proceeds of sale etc.[^c-f2aecabc2d15a049686f507e60526d5b]
 
 *Extent: E*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f2aecabc2d15a049686f507e60526d5b]: Commencement: [S. 25](https://www.legislation.gov.uk/ukcm/2018/8/section/25) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
+[^c-f2aecabc2d15a049686f507e60526d5b]: Commencement: [S. 25](https://www.legislation.gov.uk/ukcm/2018/8/section/25) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)

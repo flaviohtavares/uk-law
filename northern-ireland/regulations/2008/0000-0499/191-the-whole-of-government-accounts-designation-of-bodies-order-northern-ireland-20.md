@@ -48,11 +48,11 @@ The bodies listed in the Schedule to this Order appear to the Department of Fina
 
 The Department intends the accounts under section 14 of the Government Resources and Accounts Act (Northern Ireland) 2001 (“the Act”) for the financial year ending with 31st March 2008 to relate in part to those bodies:
 
-## 1. Title and commencement[^key-15d568ba2cdef1b15eb8e9ff2600b975]
+## 1. Title and commencement[^c-15d568ba2cdef1b15eb8e9ff2600b975]
 
 This Order may be cited as the Whole of Government Accounts (Designation of Bodies) Order (Northern Ireland) 2008 and shall come into operation on 23rd May 2008.
 
-## 2. Designation of Bodies[^key-c18ae806138f1b79860350737f21f8c5]
+## 2. Designation of Bodies[^c-c18ae806138f1b79860350737f21f8c5]
 
 For the purposes of section 15 of the Act, the Department hereby designates the bodies listed in the Schedule in respect of the financial year ending with 31st March 2008.
 
@@ -62,11 +62,11 @@ David Thomson
 
 A senior officer of the Department of Finance and Personnel
 
-## SCHEDULE 1 — DESIGNATED BODIES FOR 2007/2008[^key-e71b3764e3d6a5a34cf3c74d24b16502]
+## SCHEDULE 1 — DESIGNATED BODIES FOR 2007/2008[^c-e71b3764e3d6a5a34cf3c74d24b16502]
 
 Article 2
 
-[^key-e71b3764e3d6a5a34cf3c74d24b16502]
+[^c-e71b3764e3d6a5a34cf3c74d24b16502]
 
 - Agri-Food and Biosciences Institute
 - Air Route Development (Northern Ireland) Limited
@@ -179,8 +179,8 @@ WGA are financial statements prepared on the basis of Generally Accepted Account
 
 [^f00002]: Footnote: [2001 (c.6)](https://www.legislation.gov.uk/nia/2001/6)
 
-[^key-15d568ba2cdef1b15eb8e9ff2600b975]: Commencement: Art. 1 in operation at 23.5.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/191/article/1)
+[^c-15d568ba2cdef1b15eb8e9ff2600b975]: Commencement: Art. 1 in operation at 23.5.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/191/article/1)
 
-[^key-c18ae806138f1b79860350737f21f8c5]: Commencement: Art. 2 in operation at 23.5.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/191/article/1)
+[^c-c18ae806138f1b79860350737f21f8c5]: Commencement: Art. 2 in operation at 23.5.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/191/article/1)
 
-[^key-e71b3764e3d6a5a34cf3c74d24b16502]: Commencement: Sch. 1 in operation at 23.5.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/191/article/1)
+[^c-e71b3764e3d6a5a34cf3c74d24b16502]: Commencement: Sch. 1 in operation at 23.5.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/191/article/1)

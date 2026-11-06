@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 132. Recovery of costs of compliance with enforcement notice[^key-78ac6098c6bd47711d32f32f07899bc7][^key-860c01fa28cf23267928b48534b5e7da]
+## 132. Recovery of costs of compliance with enforcement notice[^c-78ac6098c6bd47711d32f32f07899bc7][^c-860c01fa28cf23267928b48534b5e7da]
 
 *Extent: E+W*
 
@@ -56,6 +56,6 @@ are to be treated as incurred or paid for the use and at the request of the pers
 
 ## Annotations
 
-[^key-78ac6098c6bd47711d32f32f07899bc7]: Commencement: S. 132 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-78ac6098c6bd47711d32f32f07899bc7]: Commencement: S. 132 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-860c01fa28cf23267928b48534b5e7da]: Commencement: [S. 132](https://www.legislation.gov.uk/asc/2023/3/section/132) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)
+[^c-860c01fa28cf23267928b48534b5e7da]: Commencement: [S. 132](https://www.legislation.gov.uk/asc/2023/3/section/132) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)

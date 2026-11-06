@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 12. Remand or committal under section 11[^key-30a249eff4774de40df4f2e2913e0d7c]
+## 12. Remand or committal under section 11[^c-30a249eff4774de40df4f2e2913e0d7c]
 
 *Extent: N.I.*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-30a249eff4774de40df4f2e2913e0d7c]: Commencement: [S. 12](https://www.legislation.gov.uk/nia/2016/21/section/12) in operation at 1.6.2018 by [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(a)](https://www.legislation.gov.uk/nisr/2018/99/article/2/a)
+[^c-30a249eff4774de40df4f2e2913e0d7c]: Commencement: [S. 12](https://www.legislation.gov.uk/nia/2016/21/section/12) in operation at 1.6.2018 by [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(a)](https://www.legislation.gov.uk/nisr/2018/99/article/2/a)

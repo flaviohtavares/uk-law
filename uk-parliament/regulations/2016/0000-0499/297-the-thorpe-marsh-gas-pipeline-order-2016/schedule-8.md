@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 8 — REMOVAL OF IMPORTANT HEDGEROWS[^key-303d6ff7d88d81923148fb128fc2b623]
+## SCHEDULE 8 — REMOVAL OF IMPORTANT HEDGEROWS[^c-303d6ff7d88d81923148fb128fc2b623]
 
 *Extent: E+W+S*
 
@@ -54,4 +54,4 @@ Article 37
 
 ## Annotations
 
-[^key-303d6ff7d88d81923148fb128fc2b623]: Commencement: Sch. 8 in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)
+[^c-303d6ff7d88d81923148fb128fc2b623]: Commencement: Sch. 8 in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)

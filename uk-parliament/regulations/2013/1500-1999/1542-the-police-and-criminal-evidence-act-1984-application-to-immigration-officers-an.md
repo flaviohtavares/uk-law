@@ -52,11 +52,11 @@ In accordance with section 37(3) of that Act, a draft of this Order was laid bef
 
 ## PART 1 — GENERAL
 
-### 1. Citation and commencement[^key-c26bf34a0463be28cf86373e635d945b]
+### 1. Citation and commencement[^c-c26bf34a0463be28cf86373e635d945b]
 
 This Order may be cited as the Police and Criminal Evidence Act 1984 (Application to immigration officers and designated customs officials in England and Wales) Order 2013 and shall come into force on the day after the day on which it is made.
 
-### 2. Interpretation[^key-c43757dff842e7a7dc36fe8010d5d101]
+### 2. Interpretation[^c-c43757dff842e7a7dc36fe8010d5d101]
 
 (1) In this Order—
 
@@ -84,7 +84,7 @@ and is detained there or detained elsewhere in the charge of an officer of Reven
 
 ## PART 2 — INVESTIGATIONS CONDUCTED BY IMMIGRATION OFFICERS
 
-### 3. Application of the Police and Criminal Evidence Act 1984[^key-6ec2f588325e40cf6f4497d88c8b47e8]
+### 3. Application of the Police and Criminal Evidence Act 1984[^c-6ec2f588325e40cf6f4497d88c8b47e8]
 
 (1) This article applies in relation to England and Wales.
 
@@ -101,7 +101,7 @@ and is detained there or detained elsewhere in the charge of an officer of Reven
 
 (6) In the Act as it applies by virtue of this article, an expression defined in this Order has the same meaning as in this Order.
 
-### 4. Exceptions[^key-5882fdd97ad3cbf531e677ca32f632f4]
+### 4. Exceptions[^c-5882fdd97ad3cbf531e677ca32f632f4]
 
 (1) Nothing in the application of the Act by virtue of article 3 confers on an immigration officer any power—
 
@@ -115,11 +115,11 @@ and is detained there or detained elsewhere in the charge of an officer of Reven
 
 (3) Nothing in the application of the Act by virtue of article 3 confers on an immigration officer any power to detain a person for an offence after the person has been charged with that offence.
 
-### 5. Authorisation[^key-eac35fe540030558a77e6109c7f5a01e]
+### 5. Authorisation[^c-eac35fe540030558a77e6109c7f5a01e]
 
 Powers and functions in the provisions of the Act, as applied by article 3, may be exercised by an immigration officer only if the officer is acting with the authority (which may be general or specific) of the Secretary of State.
 
-### 6. Use of reasonable force[^key-463a565c6a2a8ab8760f32205211c4f0]
+### 6. Use of reasonable force[^c-463a565c6a2a8ab8760f32205211c4f0]
 
 Where any provision of the Act as applied by article 3—
 
@@ -128,11 +128,11 @@ Where any provision of the Act as applied by article 3—
 
 the immigration officer may use reasonable force, if necessary, in the exercise of the power.
 
-### 7. Arrest without warrant[^key-a6e74929a8c25a451134a29088522c52]
+### 7. Arrest without warrant[^c-a6e74929a8c25a451134a29088522c52]
 
 Section 24(2) of the Act[^f00006], as applied by article 3, does not limit any other enactment, including any enactment contained in subordinate legislation, for the time being in force which confers upon an immigration officer the power to arrest or detain a person.
 
-### 8. Search of persons found on premises[^key-4b7144c299669bade1b0b1671016a93e]
+### 8. Search of persons found on premises[^c-4b7144c299669bade1b0b1671016a93e]
 
 (1) This article applies where an immigration officer searches premises in reliance on a warrant under section 8 of, or paragraph 12 of Schedule 1 to, the Act[^f00007], as applied by article 3.
 
@@ -144,7 +144,7 @@ Section 24(2) of the Act[^f00006], as applied by article 3, does not limit any o
 
 (5) No person may be searched except by a person of the same sex.
 
-### 9. Seizure and retention of things found upon search[^key-6af34cd3e30da4bc3adc2cd86c3738ff]
+### 9. Seizure and retention of things found upon search[^c-6af34cd3e30da4bc3adc2cd86c3738ff]
 
 (1) The power of an immigration officer to seize and retain evidence found upon a lawful search of a person or premise under section 19 of the Act[^f00008], as applied by article 3, shall have effect notwithstanding that the offence to which the evidence relates does not relate to an immigration or nationality matter.
 
@@ -152,7 +152,7 @@ Section 24(2) of the Act[^f00006], as applied by article 3, does not limit any o
 
 (3) Section 21 of the Act (access and copying)[^f00009], as applied by article 3, shall not apply to any thing seized or retained by an immigration officer under the Immigration Acts.
 
-### 10. Modification of section 18 of the Act (entry and search after arrest)[^key-bb1c728bfd9367e4dcda411696d811a8]
+### 10. Modification of section 18 of the Act (entry and search after arrest)[^c-bb1c728bfd9367e4dcda411696d811a8]
 
 Section 18 of the Act[^f00010], as applied by article 3, has effect as if for subsection (8) there were substituted—
 
@@ -160,7 +160,7 @@ Section 18 of the Act[^f00010], as applied by article 3, has effect as if for su
 
 .
 
-### 11. Modification of section 22 of the Act (retention)[^key-ed058a038533ffac867008352f26af04]
+### 11. Modification of section 22 of the Act (retention)[^c-ed058a038533ffac867008352f26af04]
 
 Section 22 of the Act[^f00011], as applied by article 3, has effect as if for subsection (5) there were substituted—
 
@@ -170,7 +170,7 @@ Section 22 of the Act[^f00011], as applied by article 3, has effect as if for su
 
 ## PART 3 — INVESTIGATIONS CONDUCTED, AND PERSONS DETAINED, BY DESIGNATED CUSTOMS OFFICIALS
 
-### 12. Application of the Police and Criminal Evidence Act 1984[^key-9e52bce23d0bd763188d21ab38c02ffe]
+### 12. Application of the Police and Criminal Evidence Act 1984[^c-9e52bce23d0bd763188d21ab38c02ffe]
 
 (1) This article applies in relation to England and Wales.
 
@@ -199,7 +199,7 @@ Section 22 of the Act[^f00011], as applied by article 3, has effect as if for su
 - (a) “designated customs official” has the same meaning as in section 38 of the Borders, Citizenship and Immigration Act 2009, and
 - (b) an expression which is defined in this Order has the same meaning as in this Order.
 
-### 13. Exceptions[^key-c56455bb4c696e13b4b779e3b5505ed6]
+### 13. Exceptions[^c-c56455bb4c696e13b4b779e3b5505ed6]
 
 (1) Nothing in the application of the Act by virtue of article 12 confers on a designated customs official any power—
 
@@ -211,7 +211,7 @@ Section 22 of the Act[^f00011], as applied by article 3, has effect as if for su
 - (a) references to a person being charged with an offence are to a person being charged with an offence by a constable, and
 - (b) references to a person being released on bail are to a person being released on bail by a constable.
 
-### 14. Detention[^key-935709f580b6699f636f6e0831fc302a]
+### 14. Detention[^c-935709f580b6699f636f6e0831fc302a]
 
 (1) Nothing in the application of the Act by virtue of article 12 shall prevent a detained person from being transferred between—
 
@@ -233,7 +233,7 @@ Section 22 of the Act[^f00011], as applied by article 3, has effect as if for su
 
 (8) In this article, “police detention” has the meaning given to it by section 118(2) of the Act, as modified by Article 12(6)(b).
 
-### 15. Use of reasonable force[^key-2656577db42e5422aade552270f8d40e]
+### 15. Use of reasonable force[^c-2656577db42e5422aade552270f8d40e]
 
 Where any provision of the Act as applied by article 12—
 
@@ -242,11 +242,11 @@ Where any provision of the Act as applied by article 12—
 
 the designated customs official may use reasonable force, if necessary, in the exercise of the power.
 
-### 16. Arrest without warrant[^key-bd85aa5c502ddd2143b1a90aa3234d3d]
+### 16. Arrest without warrant[^c-bd85aa5c502ddd2143b1a90aa3234d3d]
 
 Section 24(2) of the Act, as applied by article 12, does not limit any other enactment, including any enactment contained in subordinate legislation, for the time being in force which confers upon a designated customs official the power to arrest or detain a person.
 
-### 17. Search of persons found on premises[^key-95e9a8313663bce5806e0bd94eca2539]
+### 17. Search of persons found on premises[^c-95e9a8313663bce5806e0bd94eca2539]
 
 (1) This article applies where a designated customs official searches premises in reliance on a warrant under section 8 of, or paragraph 12 of Schedule 1 to, the Act, as applied by article 12.
 
@@ -258,7 +258,7 @@ Section 24(2) of the Act, as applied by article 12, does not limit any other ena
 
 (5) No person may be searched except by a person of the same sex.
 
-### 18. Seizure and retention of things found upon search[^key-f85f5c7deb3c11467fbf4fde642aa8d4]
+### 18. Seizure and retention of things found upon search[^c-f85f5c7deb3c11467fbf4fde642aa8d4]
 
 (1) The power of a designated customs official to seize and retain evidence found upon a lawful search of a person or premise under section 19 of the Act, as applied by article 12, shall have effect notwithstanding that the offence to which the evidence relates does not relate to a general customs or customs revenue matter.
 
@@ -266,7 +266,7 @@ Section 24(2) of the Act, as applied by article 12, does not limit any other ena
 
 (3) Section 21 of the Act (access and copying), as applied by article 12, shall not apply to any thing seized as liable to forfeiture under the customs and excise Acts.
 
-### 19. Modification of section 8 of the Act (power of justice of the peace to authorise entry and search of premises)[^key-e24e20f7819c2a67d35f8a80be384d47]
+### 19. Modification of section 8 of the Act (power of justice of the peace to authorise entry and search of premises)[^c-e24e20f7819c2a67d35f8a80be384d47]
 
 Section 8 of the Act, as applied by article 12, has effect as if for subsection (7) there were substituted—
 
@@ -274,7 +274,7 @@ Section 8 of the Act, as applied by article 12, has effect as if for subsection 
 
 .
 
-### 20. Modification of section 18 of the Act (entry and search after arrest)[^key-2b95ab2041abe0cc8f85c68824f4943d]
+### 20. Modification of section 18 of the Act (entry and search after arrest)[^c-2b95ab2041abe0cc8f85c68824f4943d]
 
 Section 18 of the Act, as applied by article 12, has effect as if for subsection (8) there were substituted—
 
@@ -282,11 +282,11 @@ Section 18 of the Act, as applied by article 12, has effect as if for subsection
 
 .
 
-### 21. Modification of section 30 of the Act (arrest elsewhere than at a police station)[^key-08120d65c3b3e8dcd8952c7913dae27f]
+### 21. Modification of section 30 of the Act (arrest elsewhere than at a police station)[^c-08120d65c3b3e8dcd8952c7913dae27f]
 
 Section 30 of the Act[^f00017], as applied by article 12, has effect as if the references to release on bail under section 30A in subsections (1B), (7A), (10) and (12) were omitted.
 
-### 22. Modification of section 35 of the Act (designated police stations)[^key-57503ffd02839a47f6e3cd6a7a7e93e6]
+### 22. Modification of section 35 of the Act (designated police stations)[^c-57503ffd02839a47f6e3cd6a7a7e93e6]
 
 Section 35 of the Act[^f00018], as applied by article 12, has effect as if for that section there were substituted—
 
@@ -305,7 +305,7 @@ Section 35 of the Act[^f00018], as applied by article 12, has effect as if for t
 
 .
 
-### 23. Modification of section 36 of the Act (custody officers at police stations)[^key-762e0c62ec124b88063a025e7140e65b]
+### 23. Modification of section 36 of the Act (custody officers at police stations)[^c-762e0c62ec124b88063a025e7140e65b]
 
 Section 36 of the Act[^f00019], as applied by article 12, has effect as if for subsection (2) there were substituted—
 
@@ -316,7 +316,7 @@ Section 36 of the Act[^f00019], as applied by article 12, has effect as if for s
 
 .
 
-### 24. Modification of section 41 of the Act (limits on period of detention without charge)[^key-cdcbf5b321e3c2a0ff56959fabb27249]
+### 24. Modification of section 41 of the Act (limits on period of detention without charge)[^c-cdcbf5b321e3c2a0ff56959fabb27249]
 
 (1) Section 41 of the Act[^f00020], as applied by article 12, has effect as if for subsection (2)(b) there were substituted—
 
@@ -345,7 +345,7 @@ Section 36 of the Act[^f00019], as applied by article 12, has effect as if for s
 
 .
 
-### 25. Modification of section 42 of the Act (authorisation of continued detention)[^key-e0ccf89999b4481159e8cb645f7ed5e8]
+### 25. Modification of section 42 of the Act (authorisation of continued detention)[^c-e0ccf89999b4481159e8cb645f7ed5e8]
 
 Section 42 of the Act[^f00021], as applied by article 12, has effect as if for subsection (3) there were substituted—
 
@@ -353,7 +353,7 @@ Section 42 of the Act[^f00021], as applied by article 12, has effect as if for s
 
 .
 
-### 26. Modification of section 43 of the Act (warrants of further detention)[^key-0998b00e4fcc7f3bad7f32625272aee0]
+### 26. Modification of section 43 of the Act (warrants of further detention)[^c-0998b00e4fcc7f3bad7f32625272aee0]
 
 Section 43 of the Act[^f00022], as applied by article 12, has effect as if for subsection (13) there were substituted—
 
@@ -361,7 +361,7 @@ Section 43 of the Act[^f00022], as applied by article 12, has effect as if for s
 
 .
 
-### 27. Modification of section 46 of the Act (detention after charge)[^key-051769732718ba22f868f22185766b65]
+### 27. Modification of section 46 of the Act (detention after charge)[^c-051769732718ba22f868f22185766b65]
 
 Section 46 of the Act[^f00023], as applied by article 12, has effect as if for subsection (3) there were substituted—
 
@@ -369,7 +369,7 @@ Section 46 of the Act[^f00023], as applied by article 12, has effect as if for s
 
 .
 
-### 28. Modification of section 50 of the Act (records of detention)[^key-32ac37ca83451c57a66f3927fc29f0b2]
+### 28. Modification of section 50 of the Act (records of detention)[^c-32ac37ca83451c57a66f3927fc29f0b2]
 
 (1) Section 50 of the Act[^f00024], as applied by article 12, has effect as if for that section there were substituted—
 
@@ -390,7 +390,7 @@ Section 46 of the Act[^f00023], as applied by article 12, has effect as if for s
 
 (2) The modification to section 50 of the Act, as applied by paragraph (1) above, shall have effect in relation to the period beginning with the day on which this Order comes into force and ending with 31 December 2013 as if it required records to be kept showing the information about the matters mentioned in subsection (1) for that period and, in relation to the duty to publish information in 2014, as if it required information to be published about persons kept in customs detention for that period.
 
-### 29. Modification of section 54 of the Act (searches of detained persons)[^key-45fdffd4865f9bcb17e893b90c65e17b]
+### 29. Modification of section 54 of the Act (searches of detained persons)[^c-45fdffd4865f9bcb17e893b90c65e17b]
 
 Section 54 of the Act[^f00025], as applied by article 12, has effect as if for subsection (6A) there was substituted—
 
@@ -398,7 +398,7 @@ Section 54 of the Act[^f00025], as applied by article 12, has effect as if for s
 
 .
 
-### 30. Modification of section 55 of the Act (intimate searches)[^key-2a4116776dfd04ec547de9de8e3639c3]
+### 30. Modification of section 55 of the Act (intimate searches)[^c-2a4116776dfd04ec547de9de8e3639c3]
 
 (1) Section 55 of the Act[^f00026], as applied by article 12, has effect as if for subsection (14) there were substituted—
 
@@ -410,13 +410,13 @@ Section 54 of the Act[^f00025], as applied by article 12, has effect as if for s
 
 (2) The modification to section 55 of the Act, as applied by paragraph (1) above, shall have effect in relation to the period beginning with the day on which this Order comes into force and ending with 31 December 2013 as if it required records to be kept showing the information about searches carried out by designated customs officials mentioned in subsection (15) for that period and, in relation to the duty to publish information in 2014, as if it required information to be published about searches carried out in that period.
 
-### 31. Modification of sections 63R, 63T and 63U of the Act (destruction and use of samples)[^key-7dedfe1242dd93b5236f4c795ee928f6][^key-24c24cd87c1cd20de2d5b4eb00f2bf12]
+### 31. Modification of sections 63R, 63T and 63U of the Act (destruction and use of samples)[^c-7dedfe1242dd93b5236f4c795ee928f6][^c-24c24cd87c1cd20de2d5b4eb00f2bf12]
 
-sections 63R, 63T and 63U[^key-214e5d701832267e63ffbeaeaa828dad] of the Act, as applied by article 12, shall have effect as if they[^key-394dce57c9aaab74349a3149c94eebb7] related only to samples taken from a person under section 62 (Intimate samples) of the Act as applied by virtue of that article.
+sections 63R, 63T and 63U[^c-214e5d701832267e63ffbeaeaa828dad] of the Act, as applied by article 12, shall have effect as if they[^c-394dce57c9aaab74349a3149c94eebb7] related only to samples taken from a person under section 62 (Intimate samples) of the Act as applied by virtue of that article.
 
 ## PART 4 — AMENDMENTS
 
-### 32. Amendment of section 22 of the Borders, Citizenship and Immigration Act 2009[^key-0a233421b76f50f77a66b9ba9c80791b]
+### 32. Amendment of section 22 of the Borders, Citizenship and Immigration Act 2009[^c-0a233421b76f50f77a66b9ba9c80791b]
 
 (1) Section 22 of the Borders, Citizenship and Immigration Act 2009 (application of the PACE Orders) is amended as follows.
 
@@ -444,7 +444,7 @@ Home Office
 
 Article 3
 
-### PART 1 — Provisions of the Act applied to investigations conducted by immigration officers[^key-2e1ba953f8cf90daf770c3c72771300c]
+### PART 1 — Provisions of the Act applied to investigations conducted by immigration officers[^c-2e1ba953f8cf90daf770c3c72771300c]
 
 - Section 8(1) to (6) (power of justice of the peace to authorise entry and search of premises) (subject to the modification in article 8)
 - Section 9(1) (special provisions as to access)[^f00028] and Schedule 1 (special procedure)[^f00029]
@@ -466,7 +466,7 @@ Article 3
 - Section 51(b) (savings)[^f00036]
 - Section 107(2) (police officers performing duties of higher rank)[^f00037]
 
-### PART 2 — Substitution of Equivalent Words and Phrases in the Act[^key-4b4af58c32ff1b1714f31aae2298ea82]
+### PART 2 — Substitution of Equivalent Words and Phrases in the Act[^c-4b4af58c32ff1b1714f31aae2298ea82]
 
 | *Column 1* | *Column 2* |
 | --- | --- |
@@ -479,7 +479,7 @@ Article 3
 |  |  |
 | the police (all references) | the Secretary of State or immigration officers |
 
-### PART 3 — Equivalent Titles of immigration officers[^key-8649e2bbc59822ab59f5793de1a11acc]
+### PART 3 — Equivalent Titles of immigration officers[^c-8649e2bbc59822ab59f5793de1a11acc]
 
 | *Column 1* | *Column 2* |
 | --- | --- |
@@ -493,7 +493,7 @@ Article 3
 
 Article 12
 
-### PART 1 — Provisions of the Act applied to investigations conducted, and to persons detained, by designated customs officials[^key-9d248fb5d194af1cf4b3ecbe2a0166c0]
+### PART 1 — Provisions of the Act applied to investigations conducted, and to persons detained, by designated customs officials[^c-9d248fb5d194af1cf4b3ecbe2a0166c0]
 
 - Section 8 (power of justice of the peace to authorise entry and search of premises) (subject to the modifications in articles 17 and 19)
 - Section 9(1) (special provisions as to access) and Schedule 1 (special procedure)
@@ -535,13 +535,13 @@ Article 12
 - Section 57 (additional rights of children and young persons)[^f00047]
 - Section 58 (access to legal advice)[^f00048]
 - Section 62(1) to (2) and (3) to (12) (intimate samples)[^f00049]
-- Section 63R(1), (2) and (5) (destruction of samples) (subject to the modification in article 31)[^key-eff4ad05789b2b971e06dc8f9daa8949]
+- Section 63R(1), (2) and (5) (destruction of samples) (subject to the modification in article 31)[^c-eff4ad05789b2b971e06dc8f9daa8949]
 - Section 63T (use of retained material) (subject to the modification in article 31)
 - Section 63U (exclusion for certain regimes) (subject to the modification in article 31)
 - Section 65 (Part V – supplementary)[^f00050]
 - Section 107 (police officers performing duties of higher rank)
 
-### PART 2 — Substitution of Equivalent Words and Phrases in the Act[^key-0fd4103a138d899a568b050ac0c45e66]
+### PART 2 — Substitution of Equivalent Words and Phrases in the Act[^c-0fd4103a138d899a568b050ac0c45e66]
 
 | *Column 1* | *Column 2* |
 | --- | --- |
@@ -572,7 +572,7 @@ Article 12
 |  |  |
 |  |  |
 
-### PART 3 — Equivalent Titles of designated customs officials[^key-4bc036307068cdc426da24453d83cc68]
+### PART 3 — Equivalent Titles of designated customs officials[^c-4bc036307068cdc426da24453d83cc68]
 
 | *Column 1* | *Column 2* |
 | --- | --- |
@@ -581,7 +581,7 @@ Article 12
 | Inspector | Higher officer |
 | Chief Inspector | Higher officer |
 | Superintendent | Senior officer |
-| Chief officer of police[^key-dbfa47c5e5bf510fb3c853825c91b548] | Director |
+| Chief officer of police[^c-dbfa47c5e5bf510fb3c853825c91b548] | Director |
 
 EXPLANATORY NOTE
 
@@ -659,9 +659,9 @@ Article 32 amends section 22 of the BCIA insofar as it applies to England & Wale
 
 [^f00001]: Footnote: [2009 c. 11](https://www.legislation.gov.uk/ukpga/2009/11).
 
-[^key-c26bf34a0463be28cf86373e635d945b]: Commencement: Art. 1 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
+[^c-c26bf34a0463be28cf86373e635d945b]: Commencement: Art. 1 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
 
-[^key-c43757dff842e7a7dc36fe8010d5d101]: Commencement: Art. 2 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
+[^c-c43757dff842e7a7dc36fe8010d5d101]: Commencement: Art. 2 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
 
 [^f00002]: Footnote: [1984 c. 60](https://www.legislation.gov.uk/ukpga/1984/60).
 
@@ -669,45 +669,45 @@ Article 32 amends section 22 of the BCIA insofar as it applies to England & Wale
 
 [^f00004]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77) to which there are amendments not relevant to this Order.
 
-[^key-6ec2f588325e40cf6f4497d88c8b47e8]: Commencement: Art. 3 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
+[^c-6ec2f588325e40cf6f4497d88c8b47e8]: Commencement: Art. 3 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
 
 [^f00005]: Footnote: Section 118(2) of the Act was amended by the Police Reform Act [2002 (c.30)](https://www.legislation.gov.uk/ukpga/2002/30), section 107(1), Schedule 7, paragraph 9(9); and the Terrorism Act [2000 (c.11)](https://www.legislation.gov.uk/ukpga/2000/11), section 125(1), Schedule 15, paragraph 5(1) and (12).
 
-[^key-5882fdd97ad3cbf531e677ca32f632f4]: Commencement: Art. 4 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
+[^c-5882fdd97ad3cbf531e677ca32f632f4]: Commencement: Art. 4 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
 
-[^key-eac35fe540030558a77e6109c7f5a01e]: Commencement: Art. 5 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
+[^c-eac35fe540030558a77e6109c7f5a01e]: Commencement: Art. 5 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
 
-[^key-463a565c6a2a8ab8760f32205211c4f0]: Commencement: Art. 6 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
+[^c-463a565c6a2a8ab8760f32205211c4f0]: Commencement: Art. 6 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
 
-[^key-a6e74929a8c25a451134a29088522c52]: Commencement: Art. 7 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
+[^c-a6e74929a8c25a451134a29088522c52]: Commencement: Art. 7 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
 
 [^f00006]: Footnote: Section 24 of the Act was amended by the Serious Organised Crime and Police Act [2005 (c.15)](https://www.legislation.gov.uk/ukpga/2005/15), section 110(1).
 
-[^key-4b7144c299669bade1b0b1671016a93e]: Commencement: Art. 8 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
+[^c-4b7144c299669bade1b0b1671016a93e]: Commencement: Art. 8 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
 
 [^f00007]: Footnote: Section 8 of the Act was amended by the Serious Organised Crime and Police Act (2005) (c.15), sections 113(3), (4), 114(2) and section 111, Schedule 7, Part 3, paragraph 43(1) and (3); the Immigration and Asylum Act [1999 (c.33)](https://www.legislation.gov.uk/ukpga/1999/33), section 169(1), Schedule 14, paragraph 80(1) and (2); and the Finance Act [2007 (c.11)](https://www.legislation.gov.uk/ukpga/2007/11), section 86. Paragraph 12 of Schedule 1 to the Act was amended by the Serious Organised Crime and Police Act [2005 (c.15)](https://www.legislation.gov.uk/ukpga/2005/15), section 113(1), (10); and (13) and the Courts Act [2003 (c.39)](https://www.legislation.gov.uk/ukpga/2003/39), section 65, Schedule 4, paragraph 6(1), but the latter amendment is not yet in force.
 
-[^key-6af34cd3e30da4bc3adc2cd86c3738ff]: Commencement: Art. 9 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
+[^c-6af34cd3e30da4bc3adc2cd86c3738ff]: Commencement: Art. 9 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
 
 [^f00008]: Footnote: Section 19 of the Act was amended by the Criminal Justice and Police Act [2001 (c.16)](https://www.legislation.gov.uk/ukpga/2001/16), section 70, Schedule 2, Part 2, paragraphs 13(1) and 2(a).
 
 [^f00009]: Footnote: Section 21 of the Act was amended by the Criminal Justice Act [2003 (c.44)](https://www.legislation.gov.uk/ukpga/2003/44), section 12, Schedule 1, paragraphs 1 and 3.
 
-[^key-bb1c728bfd9367e4dcda411696d811a8]: Commencement: Art. 10 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
+[^c-bb1c728bfd9367e4dcda411696d811a8]: Commencement: Art. 10 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
 
 [^f00010]: Footnote: Section 18 of the Act was amended by the Criminal Justice Act [2003 (c.44)](https://www.legislation.gov.uk/ukpga/2003/44), section 12, Schedule 1, paragraphs 1 and 2; and the Serious Organised Crime and Police Act [2005 (c.15)](https://www.legislation.gov.uk/ukpga/2005/15), section 111, Schedule 7, Part 3, paragraph 43(1) and (5).
 
-[^key-ed058a038533ffac867008352f26af04]: Commencement: Art. 11 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
+[^c-ed058a038533ffac867008352f26af04]: Commencement: Art. 11 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
 
 [^f00011]: Footnote: Section 22 of the Act was amended by the Criminal Justice Act [2003 (c.44)](https://www.legislation.gov.uk/ukpga/2003/44), section 12, Schedule 1, paragraphs 1 and 4.There was another amendment to this section by the Immigration and Asylum Act [1999 (c.33)](https://www.legislation.gov.uk/ukpga/1999/33), which is not relevant to this Order.
 
 [^f00012]: Footnote: [2007 c. 30](https://www.legislation.gov.uk/ukpga/2007/30).
 
-[^key-9e52bce23d0bd763188d21ab38c02ffe]: Commencement: Art. 12 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
+[^c-9e52bce23d0bd763188d21ab38c02ffe]: Commencement: Art. 12 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
 
-[^key-c56455bb4c696e13b4b779e3b5505ed6]: Commencement: Art. 13 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
+[^c-c56455bb4c696e13b4b779e3b5505ed6]: Commencement: Art. 13 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
 
-[^key-935709f580b6699f636f6e0831fc302a]: Commencement: Art. 14 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
+[^c-935709f580b6699f636f6e0831fc302a]: Commencement: Art. 14 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
 
 [^f00013]: Footnote: [1971 c. 38](https://www.legislation.gov.uk/ukpga/1971/38).
 
@@ -715,71 +715,71 @@ Article 32 amends section 22 of the BCIA insofar as it applies to England & Wale
 
 [^f00015]: Footnote: [1988 c. 33](https://www.legislation.gov.uk/ukpga/1988/33); Section 151 has been amended by sections 456, 457 and paragraphs 1, 17(1) and 17(3) of Schedule 11 to, the Proceeds of Crime Act [2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29).
 
-[^key-2656577db42e5422aade552270f8d40e]: Commencement: Art. 15 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
+[^c-2656577db42e5422aade552270f8d40e]: Commencement: Art. 15 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
 
-[^key-bd85aa5c502ddd2143b1a90aa3234d3d]: Commencement: Art. 16 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
+[^c-bd85aa5c502ddd2143b1a90aa3234d3d]: Commencement: Art. 16 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
 
-[^key-95e9a8313663bce5806e0bd94eca2539]: Commencement: Art. 17 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
+[^c-95e9a8313663bce5806e0bd94eca2539]: Commencement: Art. 17 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
 
-[^key-f85f5c7deb3c11467fbf4fde642aa8d4]: Commencement: Art. 18 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
+[^c-f85f5c7deb3c11467fbf4fde642aa8d4]: Commencement: Art. 18 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
 
-[^key-e24e20f7819c2a67d35f8a80be384d47]: Commencement: Art. 19 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
+[^c-e24e20f7819c2a67d35f8a80be384d47]: Commencement: Art. 19 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
 
 [^f00016]: Footnote: [2009 c. 11](https://www.legislation.gov.uk/ukpga/2009/11).
 
-[^key-2b95ab2041abe0cc8f85c68824f4943d]: Commencement: Art. 20 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
+[^c-2b95ab2041abe0cc8f85c68824f4943d]: Commencement: Art. 20 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
 
-[^key-08120d65c3b3e8dcd8952c7913dae27f]: Commencement: Art. 21 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
+[^c-08120d65c3b3e8dcd8952c7913dae27f]: Commencement: Art. 21 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
 
 [^f00017]: Footnote: Section 30 of the Act was amended by the Criminal Justice Act [2003 (c.44)](https://www.legislation.gov.uk/ukpga/2003/44), section 4(1) to (6); and the Terrorism Act [2000 (c.11)](https://www.legislation.gov.uk/ukpga/2000/11), section 125(1), Schedule 15, paragraph 5(1) and (2). There is another amendment not relevant to this Order.
 
-[^key-57503ffd02839a47f6e3cd6a7a7e93e6]: Commencement: Art. 22 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
+[^c-57503ffd02839a47f6e3cd6a7a7e93e6]: Commencement: Art. 22 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
 
 [^f00018]: Footnote: Section 35 of the Act was amended by the Criminal Justice Act [2003 (c.44)](https://www.legislation.gov.uk/ukpga/2003/44), section 12, Schedule 1, paragraphs 1 and 6; and the Anti-Terrorism, Crime and Security Act [2001 (c.24)](https://www.legislation.gov.uk/ukpga/2001/24), section 101, Schedule 7, paragraphs 11 and 12.
 
-[^key-762e0c62ec124b88063a025e7140e65b]: Commencement: Art. 23 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
+[^c-762e0c62ec124b88063a025e7140e65b]: Commencement: Art. 23 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
 
 [^f00019]: Footnote: Section 36 of the Act was amended by the Anti-Terrorism, Crime and Security Act [2001 (c.24)](https://www.legislation.gov.uk/ukpga/2001/24), section 101, Schedule 7, paragraphs 11, 13(1) and (2); the Serious Organised Crime and Police Act [2005 (c.15)](https://www.legislation.gov.uk/ukpga/2005/15), section 121(1), (4) and (5)(a); the Policing and Crime Act [2009 (c.26)](https://www.legislation.gov.uk/ukpga/2009/26), section 112(1), Schedule 7, Part 13, paragraphs 123(1) and (3) and Schedule 8, Part 13; and the Police Reform and Social Responsibility Act [2011 (c.13)](https://www.legislation.gov.uk/ukpga/2011/13), section 99, Schedule 16, Part 3, paragraphs 160 and 162.
 
-[^key-cdcbf5b321e3c2a0ff56959fabb27249]: Commencement: Art. 24 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
+[^c-cdcbf5b321e3c2a0ff56959fabb27249]: Commencement: Art. 24 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
 
 [^f00020]: Footnote: Section 41 of the Act was amended by the Criminal Justice and Public Order Act [1994 (c.33)](https://www.legislation.gov.uk/ukpga/1994/33), section 29(4)(b). There is another amendment not relevant to this Order.
 
-[^key-e0ccf89999b4481159e8cb645f7ed5e8]: Commencement: Art. 25 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
+[^c-e0ccf89999b4481159e8cb645f7ed5e8]: Commencement: Art. 25 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
 
 [^f00021]: Footnote: Section 42 of the Act was amended by the Criminal Justice and Public Order Act [1994 (c.33)](https://www.legislation.gov.uk/ukpga/1994/33), section 29(4)(b); the Criminal Justice Act [2003 (c.44)](https://www.legislation.gov.uk/ukpga/2003/44), section 7; and the Serious Organised Crime Act [2005 (c.15)](https://www.legislation.gov.uk/ukpga/2005/15), section 111, Schedule 7, Part 3, paragraph 43(1) and (7).
 
-[^key-0998b00e4fcc7f3bad7f32625272aee0]: Commencement: Art. 26 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
+[^c-0998b00e4fcc7f3bad7f32625272aee0]: Commencement: Art. 26 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
 
 [^f00022]: Footnote: Section 43 of the Act was amended by the Criminal Justice and Public Order Act [1994 (c.33)](https://www.legislation.gov.uk/ukpga/1994/33), section 29(4)(b); the Criminal Justice Act [2003 (c.44)](https://www.legislation.gov.uk/ukpga/2003/44), section 7; and the Serious Organised Crime Act [2005 (c.15)](https://www.legislation.gov.uk/ukpga/2005/15), section 111, Schedule 7, Part 3, paragraph 43(1) and (8).
 
-[^key-051769732718ba22f868f22185766b65]: Commencement: Art. 27 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
+[^c-051769732718ba22f868f22185766b65]: Commencement: Art. 27 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
 
 [^f00023]: Footnote: Section 46 of the Act was amended by the Courts Act [2003(c.39)](https://www.legislation.gov.uk/ukpga/2003/39), section 109(1), Schedule 8, paragraph 282.
 
-[^key-32ac37ca83451c57a66f3927fc29f0b2]: Commencement: Art. 28 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
+[^c-32ac37ca83451c57a66f3927fc29f0b2]: Commencement: Art. 28 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
 
 [^f00024]: Footnote: Section 50 of the Act was amended by the Police Act [1996 (c.16)](https://www.legislation.gov.uk/ukpga/1996/16), section 103, Schedule 7, paragraph 35.
 
-[^key-45fdffd4865f9bcb17e893b90c65e17b]: Commencement: Art. 29 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
+[^c-45fdffd4865f9bcb17e893b90c65e17b]: Commencement: Art. 29 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
 
 [^f00025]: Footnote: Section 54 of the Act was amended by the Criminal Justice Act [1988 (c.33)](https://www.legislation.gov.uk/ukpga/1988/33), section 147; the Criminal Justice and Public Order Act [1994 (c.33)](https://www.legislation.gov.uk/ukpga/1994/33), section 168(2), Schedule 10, paragraph 55; the Criminal Justice Act [2003 (c.44)](https://www.legislation.gov.uk/ukpga/2003/44), section 147; and the Police and Justice Act [2006 (c.48)](https://www.legislation.gov.uk/ukpga/2006/48), section 46(1), (6).
 
-[^key-2a4116776dfd04ec547de9de8e3639c3]: Commencement: Art. 30 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
+[^c-2a4116776dfd04ec547de9de8e3639c3]: Commencement: Art. 30 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
 
 [^f00026]: Footnote: Section 55 of the Act was amended by the Criminal Justice Act [1988 (c.33)](https://www.legislation.gov.uk/ukpga/1988/33), section 170(1), Schedule 15, paragraphs 97 and 99; the Police Act [1996 (c.16)](https://www.legislation.gov.uk/ukpga/1996/16), section 103, Schedule 7, paragraph 36; the Criminal Justice and Police Act [2001 (c.16)](https://www.legislation.gov.uk/ukpga/2001/16), section 79; the Drugs Act [2005 (c.17)](https://www.legislation.gov.uk/ukpga/2005/17), section 3; and the Policing and Crime Act [2009 (c.26)](https://www.legislation.gov.uk/ukpga/2009/26), section 112(1) and (2), Schedule 7, Part 13, paragraph 123(1), (5) and Schedule 8, Part 13. There are other amendments not relevant to this Order.
 
-[^key-7dedfe1242dd93b5236f4c795ee928f6]: Commencement: Art. 31 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
+[^c-7dedfe1242dd93b5236f4c795ee928f6]: Commencement: Art. 31 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
 
-[^key-24c24cd87c1cd20de2d5b4eb00f2bf12]: Textual amendment: Words in art. 31 heading substituted (31.10.2013) by [The Protection of Freedoms Act 2012 (Consequential Amendments) No. 3 Order 2013 (S.I. 2013/2343)](https://www.legislation.gov.uk/uksi/2013/2343), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2343/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2013/2343/article/2/2)
+[^c-24c24cd87c1cd20de2d5b4eb00f2bf12]: Textual amendment: Words in art. 31 heading substituted (31.10.2013) by [The Protection of Freedoms Act 2012 (Consequential Amendments) No. 3 Order 2013 (S.I. 2013/2343)](https://www.legislation.gov.uk/uksi/2013/2343), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2343/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2013/2343/article/2/2)
 
-[^key-214e5d701832267e63ffbeaeaa828dad]: Textual amendment: Words in art. 31 substituted (31.10.2013) by [The Protection of Freedoms Act 2012 (Consequential Amendments) No. 3 Order 2013 (S.I. 2013/2343)](https://www.legislation.gov.uk/uksi/2013/2343), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2343/article/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2013/2343/article/2/3/a)
+[^c-214e5d701832267e63ffbeaeaa828dad]: Textual amendment: Words in art. 31 substituted (31.10.2013) by [The Protection of Freedoms Act 2012 (Consequential Amendments) No. 3 Order 2013 (S.I. 2013/2343)](https://www.legislation.gov.uk/uksi/2013/2343), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2343/article/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2013/2343/article/2/3/a)
 
-[^key-394dce57c9aaab74349a3149c94eebb7]: Textual amendment: Word in art. 31 substituted (31.10.2013) by [The Protection of Freedoms Act 2012 (Consequential Amendments) No. 3 Order 2013 (S.I. 2013/2343)](https://www.legislation.gov.uk/uksi/2013/2343), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2343/article/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2013/2343/article/2/3/b)
+[^c-394dce57c9aaab74349a3149c94eebb7]: Textual amendment: Word in art. 31 substituted (31.10.2013) by [The Protection of Freedoms Act 2012 (Consequential Amendments) No. 3 Order 2013 (S.I. 2013/2343)](https://www.legislation.gov.uk/uksi/2013/2343), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2343/article/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2013/2343/article/2/3/b)
 
-[^key-0a233421b76f50f77a66b9ba9c80791b]: Commencement: Art. 32 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
+[^c-0a233421b76f50f77a66b9ba9c80791b]: Commencement: Art. 32 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
 
-[^key-2e1ba953f8cf90daf770c3c72771300c]: Commencement: Sch. 1 Pt. 1 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
+[^c-2e1ba953f8cf90daf770c3c72771300c]: Commencement: Sch. 1 Pt. 1 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
 
 [^f00028]: Footnote: There are amendments to section 9 of the Act not relevant to this Order.
 
@@ -801,11 +801,11 @@ Article 32 amends section 22 of the BCIA insofar as it applies to England & Wale
 
 [^f00037]: Footnote: Section 107 of the Act was amended by the Police and Magistrates’ Courts Act [1994 (c.29)](https://www.legislation.gov.uk/ukpga/1994/29), section 44, Schedule 5, Part 2, paragraph 35.
 
-[^key-4b4af58c32ff1b1714f31aae2298ea82]: Commencement: Sch. 1 Pt. 2 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
+[^c-4b4af58c32ff1b1714f31aae2298ea82]: Commencement: Sch. 1 Pt. 2 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
 
-[^key-8649e2bbc59822ab59f5793de1a11acc]: Commencement: Sch. 1 Pt. 3 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
+[^c-8649e2bbc59822ab59f5793de1a11acc]: Commencement: Sch. 1 Pt. 3 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
 
-[^key-9d248fb5d194af1cf4b3ecbe2a0166c0]: Commencement: Sch. 2 Pt. 1 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
+[^c-9d248fb5d194af1cf4b3ecbe2a0166c0]: Commencement: Sch. 2 Pt. 1 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
 
 [^f00038]: Footnote: Section 34 of the Act was amended by the Criminal Justice and Courts Service Act [2000 (c.43)](https://www.legislation.gov.uk/ukpga/2000/43), section 56(2) and the Legal Aid, Punishment and Sentencing of Offenders Act [2012 (c.10)](https://www.legislation.gov.uk/ukpga/2012/10), section 135(3), Schedule 24, paragraphs 4 and 5. There are other amendments not relevant to this Order.
 
@@ -831,12 +831,12 @@ Article 32 amends section 22 of the BCIA insofar as it applies to England & Wale
 
 [^f00049]: Footnote: Section 62 of the Act was amended by the Road Traffic (Consequential Provisions) Act [1988 (c.54)](https://www.legislation.gov.uk/ukpga/1988/54), section 4, Schedule 3, paragraph 27; the Criminal Justice and Public Order Act [1994 (c.33)](https://www.legislation.gov.uk/ukpga/1994/33), sections 54(2) to (4), 168(1) to (3), Schedule 9, paragraph 24, and Schedule 10, paragraphs 57(a) and 62(4)(a) and Schedule 11; the Criminal Justice and Courts Service Act [2000 (c.43)](https://www.legislation.gov.uk/ukpga/2000/43), section 74, Schedule 7, Part 2, paragraphs 76 and 78; the Terrorism Act [2000 (c.11)](https://www.legislation.gov.uk/ukpga/2000/11), section 125(1), Schedule 15, paragraphs 5(1) and (8); the Criminal Justice and Police Act [2001 (c.16)](https://www.legislation.gov.uk/ukpga/2001/16), section 80(1); the Police Reform Act [2002 (c.30)](https://www.legislation.gov.uk/ukpga/2002/30), sections 53(2) and 54(1); the Criminal Justice Act [2003 (c.44)](https://www.legislation.gov.uk/ukpga/2003/44), sections 41, 332, Schedule 3, Part 2, paragraph 56(1) and (2) and Schedule 37, Part 4; and the Crime and Security Act [2010 (c.17)](https://www.legislation.gov.uk/ukpga/2010/17), section 4(4) and (5). Some of the amendments made by the Criminal Justice Act [2003 (c.44)](https://www.legislation.gov.uk/ukpga/2003/44) are not yet in force and there are further amendments to section 62 not relevant to this Order.
 
-[^key-eff4ad05789b2b971e06dc8f9daa8949]: Textual amendment: Words in [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2013/1542/schedule/2/part/1) substituted (31.10.2013) by [The Protection of Freedoms Act 2012 (Consequential Amendments) No. 3 Order 2013 (S.I. 2013/2343)](https://www.legislation.gov.uk/uksi/2013/2343), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2343/article/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2013/2343/article/2/4)
+[^c-eff4ad05789b2b971e06dc8f9daa8949]: Textual amendment: Words in [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2013/1542/schedule/2/part/1) substituted (31.10.2013) by [The Protection of Freedoms Act 2012 (Consequential Amendments) No. 3 Order 2013 (S.I. 2013/2343)](https://www.legislation.gov.uk/uksi/2013/2343), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2343/article/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2013/2343/article/2/4)
 
 [^f00050]: Footnote: There are amendments to section 65 of the Act not relevant to the Order.
 
-[^key-0fd4103a138d899a568b050ac0c45e66]: Commencement: Sch. 2 Pt. 2 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
+[^c-0fd4103a138d899a568b050ac0c45e66]: Commencement: Sch. 2 Pt. 2 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
 
-[^key-4bc036307068cdc426da24453d83cc68]: Commencement: Sch. 2 Pt. 3 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
+[^c-4bc036307068cdc426da24453d83cc68]: Commencement: Sch. 2 Pt. 3 in force at 25.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1)
 
-[^key-dbfa47c5e5bf510fb3c853825c91b548]: Textual amendment: Words in Sch. 2 Pt. 3 inserted (31.10.2013) by [The Protection of Freedoms Act 2012 (Consequential Amendments) No. 3 Order 2013 (S.I. 2013/2343)](https://www.legislation.gov.uk/uksi/2013/2343), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2343/article/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2013/2343/article/2/5)
+[^c-dbfa47c5e5bf510fb3c853825c91b548]: Textual amendment: Words in Sch. 2 Pt. 3 inserted (31.10.2013) by [The Protection of Freedoms Act 2012 (Consequential Amendments) No. 3 Order 2013 (S.I. 2013/2343)](https://www.legislation.gov.uk/uksi/2013/2343), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2343/article/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2013/2343/article/2/5)

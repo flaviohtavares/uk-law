@@ -42,27 +42,27 @@ Coming into operation
 
 The Department of Agriculture and Rural Development, being a Department designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the environment, makes the following Regulations in exercise of the powers conferred by that section.
 
-## 1. Citation and commencement[^key-40653bcccbe5e6412a7a0b43e078e2c5]
+## 1. Citation and commencement[^c-40653bcccbe5e6412a7a0b43e078e2c5]
 
 (1) These Regulations may be cited as the Water Environment (Floods Directive) Regulations (Northern Ireland) 2009 and shall come into operation on 14<sup>th</sup> December 2009.
 
-## 2. Interpretation[^key-b999aeeec5e21ec29b9950beee6adde6]
+## 2. Interpretation[^c-b999aeeec5e21ec29b9950beee6adde6]
 
 (1) The Interpretation Act (Northern Ireland) 1954[^f00003] shall apply to these Regulations as it applies to an Act of the Assembly.
 
 (2) In these Regulations—
 
-- [^key-71d876c3d224d5c7b54b3da6fe957dcb]...
-- “[^key-8bdd2a994baccc7996bdc84501e6439f]**the 2017 Regulations**” means the Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2017;
-- the Department means the Department for Infrastructure;[^key-e84ec219dd91ec14d8c8ba39af1026cc]
+- [^c-71d876c3d224d5c7b54b3da6fe957dcb]...
+- “[^c-8bdd2a994baccc7996bdc84501e6439f]**the 2017 Regulations**” means the Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2017;
+- the Department means the Department for Infrastructure;[^c-e84ec219dd91ec14d8c8ba39af1026cc]
 - “flood” means the temporary covering by water from any source of land not normally covered by water, but does not include a flood solely from a sewerage system;
-- [^key-e0329060676c2b7ca394ddb4f224a366]...
+- [^c-e0329060676c2b7ca394ddb4f224a366]...
 - “flood risk” means the combination of the probability of a flood and of the potential adverse consequences, associated with a flood, for human health, the environment, cultural heritage and economic activity;
 - “flood solely from a sewerage system” means the temporary covering of land by sewage caused solely by a failure or blockage of a sewerage system or which is not connected with any loading on the system by abnormal external hydraulic factors (for example by heavier than usual rainfall or higher than usual river levels);
 - “Implementation body” means—
   - (a) Waterways Ireland; or
   - (b) The Foyle, Carlingford and Irish Lights Commission;
-- “[^key-5bcb89a256edfd04ff5b900347ad4f2a]**international river basin district**” has the same meaning as in the 2017 Regulations;
+- “[^c-5bcb89a256edfd04ff5b900347ad4f2a]**international river basin district**” has the same meaning as in the 2017 Regulations;
 - “Northern Ireland” has the meaning given by section 98(1) of the Northern Ireland Act 1998[^f00006];
 - “public body” means—
   - (a) a Northern Ireland department;
@@ -70,28 +70,28 @@ The Department of Agriculture and Rural Development, being a Department designat
   - (c) a body established by or under a statutory provision;
   - (d) a statutory undertaker (within the meaning of the Planning (Northern Ireland) Order 1991[^f00007]); or
   - (e) an implementation body;
-- “[^key-6a38575f84bcb3de91dbe27d8da8c8de]**river basin district**” has the same meaning as in the 2017 Regulations;
+- “[^c-6a38575f84bcb3de91dbe27d8da8c8de]**river basin district**” has the same meaning as in the 2017 Regulations;
 - “statutory provision” has the meaning given in section 1(f) of the Interpretation Act (Northern Ireland) 1954; and
 - “the Water Framework Directive” means Directive [2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060) of the European Parliament and of the Council establishing a framework for Community action in the field of water policy[^f00008]**.**
 
 (3) Any other word or expression used both in these Regulations and in the Floods Directive or in the Water Framework Directive has the same meaning in these Regulations as it has in those Directives.
 
-## 3. Competent authority[^key-c21bc3026592d7d1c846ab4d2e534d5c]
+## 3. Competent authority[^c-c21bc3026592d7d1c846ab4d2e534d5c]
 
-The Department is the competent authority for the purposes of the implementation of these Regulations[^key-d4ccacb1533a889b908dfb83228946fa].
+The Department is the competent authority for the purposes of the implementation of these Regulations[^c-d4ccacb1533a889b908dfb83228946fa].
 
-## 4. General duties[^key-443959456dc1cf46e0d6393775a4d4cf]
+## 4. General duties[^c-443959456dc1cf46e0d6393775a4d4cf]
 
-(1) A Northern Ireland department, each district council, each water undertaker, each sewerage undertaker, each implementation body and the Northern Ireland Fire and Rescue Service Board shall exercise their relevant functions in a manner which secures compliance with the requirements of these Regulations[^key-95070bf580483fce525b205475ef7b78].
+(1) A Northern Ireland department, each district council, each water undertaker, each sewerage undertaker, each implementation body and the Northern Ireland Fire and Rescue Service Board shall exercise their relevant functions in a manner which secures compliance with the requirements of these Regulations[^c-95070bf580483fce525b205475ef7b78].
 
-(2) In exercising its relevant functions, the Department shall ensure that the implementation of the requirements of these Regulations[^key-74390edcb09c2b99db9dd2e0d85520bc] is co-ordinated between the bodies mentioned in paragraph (1).
+(2) In exercising its relevant functions, the Department shall ensure that the implementation of the requirements of these Regulations[^c-74390edcb09c2b99db9dd2e0d85520bc] is co-ordinated between the bodies mentioned in paragraph (1).
 
 (3) In this regulation “relevant functions” means functions under these Regulations and, so far as material—
 
 - (a) in the case of a district council, under every statutory provision conferring functions on a district council;
 - (b) in any other case, under the statutory provisions listed in Schedule 1.
 
-## 5. Preliminary flood risk assessments[^key-cd2339c3ddc866f734fc541abc370f6c]
+## 5. Preliminary flood risk assessments[^c-cd2339c3ddc866f734fc541abc370f6c]
 
 (1) The Department shall prepare a preliminary flood risk assessment for the river basin district and the part of each international river basin district lying within Northern Ireland.
 
@@ -108,7 +108,7 @@ The Department is the competent authority for the purposes of the implementation
 
 (6) A preliminary flood risk assessment and any map included in it by virtue of paragraph 1 of Schedule 2, may also include such other information as the Department considers appropriate.
 
-## 6. Preliminary flood risk assessments: review[^key-1a29abf0a712ece5c2908191c185d458]
+## 6. Preliminary flood risk assessments: review[^c-1a29abf0a712ece5c2908191c185d458]
 
 (1) The Department shall—
 
@@ -119,11 +119,11 @@ The Department is the competent authority for the purposes of the implementation
 
 (3) Regulation 5(2) and (4) to (6) and Schedule 2 apply in relation to the review and updating of a preliminary flood risk assessment.
 
-## 7. Preliminary flood risk assessments: availability for public inspection[^key-98060c2cc8c389bb6c19d43689cc616e]
+## 7. Preliminary flood risk assessments: availability for public inspection[^c-98060c2cc8c389bb6c19d43689cc616e]
 
 The Department shall make available for public inspection copies of the preliminary flood risk assessment for the time being applicable for the river basin district or the part of each international river basin district lying within Northern Ireland.
 
-## 8. Areas of significant flood risk[^key-35d3050552df326af64f579bbcdb8b0d]
+## 8. Areas of significant flood risk[^c-35d3050552df326af64f579bbcdb8b0d]
 
 (1) On the basis of a preliminary flood risk assessment but subject to paragraph (2), the Department shall—
 
@@ -134,13 +134,13 @@ The Department shall make available for public inspection copies of the prelimin
 
 (2) The identification under paragraph (1) of any area within a part of an international river basin district lying within Northern Ireland shall be co-ordinated with the relevant competent authority in the Republic of Ireland.
 
-## 9. Area of significant flood risk: reviews[^key-7af4d12abcb9be0b5670d0f0b3b6e226]
+## 9. Area of significant flood risk: reviews[^c-7af4d12abcb9be0b5670d0f0b3b6e226]
 
 (1) Where the Department updates a preliminary flood risk assessment for the river basin district or the part of any international river basin district lying within Northern Ireland under regulation 6(1), it shall review and, if necessary, update the identification of areas within that district or part for which it has concluded that potential significant flood risks exist or might be considered likely to occur.
 
 (2) Regulation 8(2) applies in relation to a review and updating of an identification of areas under paragraph (1).
 
-## 10. Preparation of flood hazard maps and flood risk maps[^key-9e0c3255fedea11a4b6f2e7fd77609b2]
+## 10. Preparation of flood hazard maps and flood risk maps[^c-9e0c3255fedea11a4b6f2e7fd77609b2]
 
 (1) Subject to paragraph (3), the Department shall prepare, in relation to the river basin district and the part of each international river basin district lying within Northern Ireland, flood hazard maps and flood risk maps in accordance with this regulation and regulations 11 and 12.
 
@@ -152,7 +152,7 @@ The Department shall make available for public inspection copies of the prelimin
 
 (3) In the case of an international river basin district the Department shall ensure that information is exchanged with the relevant competent authority in the Republic of Ireland before flood hazard maps and flood risk maps are prepared under paragraph (1).
 
-## 11. Flood hazard maps[^key-f05023106070a0119b5e051597a167d1]
+## 11. Flood hazard maps[^c-f05023106070a0119b5e051597a167d1]
 
 (1) Subject to paragraphs (2) and (3), a flood hazard map (or more than one such map taken together) shall show—
 
@@ -169,7 +169,7 @@ The Department shall make available for public inspection copies of the prelimin
 
 (3) The Department may decide that for a coastal area which, in its opinion, is adequately protected from coastal floods, the preparation of a flood hazard map (or more than one such map taken together) may be limited to the scenario referred to in paragraph (1)(a)(i).
 
-## 12. Flood risk maps[^key-1272568f793a0b15a5dc0a0bc48119e7]
+## 12. Flood risk maps[^c-1272568f793a0b15a5dc0a0bc48119e7]
 
 (1) The potential adverse consequences associated with each flood scenario for which any information referred to in regulation 11(1) is shown in a flood hazard map shall be shown in a flood risk map (or more than one flood risk map taken together) by reference to the matters mentioned in paragraph (2).
 
@@ -177,14 +177,14 @@ The Department shall make available for public inspection copies of the prelimin
 
 - (a) the indicative number of inhabitants who potentially could be affected;
 - (b) the type of economic activity in the area which could be flooded;
-- (c) installations [^key-d7b3740dc099be163535216bf8198aa3]..., which might cause accidental pollution if any flood scenario referred to in paragraph (1) occurred;
+- (c) installations [^c-d7b3740dc099be163535216bf8198aa3]..., which might cause accidental pollution if any flood scenario referred to in paragraph (1) occurred;
 - (d) protected areas which potentially could be affected if any flood scenario referred to in paragraph (1) occurred;
 - (e) any area which is within a protected area and could be affected by pollution from any installation referred to in sub-paragraph (c); and
 - (f) such other information as the Department considers useful including the indication of areas where floods with a high content of transported sediments or debris floods can occur and information on other significant sources of pollution.
 
-(3) In this regulation “protected area” has the meaning assigned to it by regulation 2 of the 2017 Regulations[^key-f4c7043f67a1313ad38eab166d7f6a45].
+(3) In this regulation “protected area” has the meaning assigned to it by regulation 2 of the 2017 Regulations[^c-f4c7043f67a1313ad38eab166d7f6a45].
 
-## 13. Flood hazard maps and flood risk maps: review[^key-ae11cdb52887d95c68e69500b2281012]
+## 13. Flood hazard maps and flood risk maps: review[^c-ae11cdb52887d95c68e69500b2281012]
 
 (1) The Department shall—
 
@@ -193,18 +193,18 @@ The Department shall make available for public inspection copies of the prelimin
 
 (2) Regulations 10(2)(b) and (c) and (3), 11 and 12 apply in relation to the review and updating of a flood hazard map and a flood risk map.
 
-## 14. Flood hazard maps and flood risk maps: availability for public inspection[^key-18f0aad611cfd2e240006f32fafbc83b]
+## 14. Flood hazard maps and flood risk maps: availability for public inspection[^c-18f0aad611cfd2e240006f32fafbc83b]
 
 The Department shall make available for public inspection copies of each flood hazard and each flood risk map for the time being applicable to the river basin district or the part of each international river basin district lying within Northern Ireland.
 
-## 15. Flood hazard maps and flood risk maps: co-ordination with the 2017 Regulations[^key-a978f0283be9da04936789f3aac70ea7]
+## 15. Flood hazard maps and flood risk maps: co-ordination with the 2017 Regulations[^c-a978f0283be9da04936789f3aac70ea7]
 
 (1) The development of the first flood hazard maps and flood risk maps and their subsequent reviews shall be—
 
 - (a) co-ordinated with, and may be integrated into, the reviews required by regulations 5(2) and 7(2) of the 2017 Regulations; and
 - (b) carried out in such a way that the information they contain is consistent with the information provided under the 2017 Regulations.
 
-## 16. Flood risk management plans[^key-537b3129246ec616c94184c592ee347d]
+## 16. Flood risk management plans[^c-537b3129246ec616c94184c592ee347d]
 
 (1) The Department shall prepare a flood risk management plan for the river basin district or a set of such plans co-ordinated at the level of that district.
 
@@ -230,7 +230,7 @@ The Department shall make available for public inspection copies of each flood h
 
 (9) A flood risk management plan shall be prepared and published by 22<sup>nd </sup>December 2015.
 
-## 17. Flood risk management plans: objectives and measures[^key-e9ea9be598f9342cdd096d46342ef5cf]
+## 17. Flood risk management plans: objectives and measures[^c-e9ea9be598f9342cdd096d46342ef5cf]
 
 (1) In setting objectives and identifying measures under regulation 16(5)—
 
@@ -242,8 +242,8 @@ The Department shall make available for public inspection copies of each flood h
   - (v) the benefits (in terms of reducing the potential adverse consequences of flooding for human health, the environment, cultural heritage and economic activity or otherwise) that are likely to be derived from implementing proposed measures;
   - (vi) flood extent and flood conveyance routes and areas which have the potential to retain flood water such as natural flood plains;
   - (vii) soil and water management;
-  - (viii) anything done under or in pursuance of the Planning Act (Northern Ireland) 2011[^key-859bdf91ce4d7bbf394189450ae25728] which affects development or the use of land within the river basin district to which the plan relates;
-  - (ix) the environmental objectives , within the meaning of regulation 2(2) of the 2017 Regulations[^key-702ae571717b8ff18d692ced5a220488];
+  - (viii) anything done under or in pursuance of the Planning Act (Northern Ireland) 2011[^c-859bdf91ce4d7bbf394189450ae25728] which affects development or the use of land within the river basin district to which the plan relates;
+  - (ix) the environmental objectives , within the meaning of regulation 2(2) of the 2017 Regulations[^c-702ae571717b8ff18d692ced5a220488];
   - (x) the conservation of nature whether within or outside the river basin district to which the plan relates; and
   - (xi) navigation and port infrastructure; and
 - (b) shall consider, so far as is appropriate, structural and non-structural measures and the reduction of the likelihood of flooding as means of achieving objectives.
@@ -257,13 +257,13 @@ The Department shall make available for public inspection copies of each flood h
 
 (4) For the purposes of paragraph (1)(b), a measure is structural if it involves the carrying out of any operation on land.
 
-## 18. Flood risk management plans: co-ordination with the 2017 Regulations[^key-3b229718d9e6da64dae93e261538db9f]
+## 18. Flood risk management plans: co-ordination with the 2017 Regulations[^c-3b229718d9e6da64dae93e261538db9f]
 
 (1) The development of the first flood risk management plans and their subsequent reviews shall be co-ordinated with, and may be integrated into, the reviews of the river basin management plans required by regulation 26 of the 2017 Regulations.
 
 (2) The active involvement of the parties and bodies listed in regulation 19(4) in the development of the first flood risk management plans and their subsequent reviews shall be co-ordinated, as appropriate, with the active involvement of the persons listed in regulation 27(6) of the 2017 Regulations.
 
-## 19. Flood risk management plans: public participation[^key-52604654f527554abf54a511b746c0b0]
+## 19. Flood risk management plans: public participation[^c-52604654f527554abf54a511b746c0b0]
 
 (1) The Department shall, in respect of the preparation of a flood risk management plan—
 
@@ -272,7 +272,7 @@ The Department shall make available for public inspection copies of each flood h
 
 (2) The Department shall publish the documents referred to in paragraph (1) in a manner calculated to bring them to the attention of persons and bodies likely to be affected by them and, in particular, shall—
 
-- (a) make copies of each document accessible to the public free of charge at its headquarters and through its website[^key-c1ff0976cc95af52dc1a23ad047efff1];
+- (a) make copies of each document accessible to the public free of charge at its headquarters and through its website[^c-c1ff0976cc95af52dc1a23ad047efff1];
 - (b) publish a notice—
   - (i) stating the fact of publication;
   - (ii) specifying the arrangements made for making copies of the documents available for public inspection; and
@@ -292,7 +292,7 @@ The Department shall make available for public inspection copies of each flood h
 - (a) the Drainage Council;
 - (b) each district council any part of whose area is within the river basin district;
 - (c) the harbour authority for each harbour in the river basin district;
-- (d)[^key-da1d2e87c9db50fb00ff3a98f1dcf1ea] the Department of Communities.
+- (d)[^c-da1d2e87c9db50fb00ff3a98f1dcf1ea] the Department of Communities.
 - (e) the Department of Agriculture, Environment and Rural Affairs.
 - (g) each water undertaker and each sewerage undertaker;
 - (h) Waterways Ireland;
@@ -310,7 +310,7 @@ The Department shall make available for public inspection copies of each flood h
 - (a) “harbour” and “harbour authority” have the meanings given by section 38 of the Harbours Act (Northern Ireland) 1970[^f00011]; and
 - (b) “the river basin district” includes an international river basin district or, as the case may be, the part of an international river basin district lying within Northern Ireland.
 
-## 20. Flood risk management plan: publication[^key-27907465b94847faa338e2c0f2ed0816]
+## 20. Flood risk management plan: publication[^c-27907465b94847faa338e2c0f2ed0816]
 
 (1) The Department shall—
 
@@ -321,7 +321,7 @@ The Department shall make available for public inspection copies of each flood h
 
 (2) In making copies of a plan available to the public under paragraph (1)(c), the Department may charge a reasonable fee for each copy.
 
-## 21. Flood risk management plans: review[^key-848e7e6c928adad3a5baaa7ce9439e44]
+## 21. Flood risk management plans: review[^c-848e7e6c928adad3a5baaa7ce9439e44]
 
 (1) The Department shall—
 
@@ -334,13 +334,13 @@ The Department shall make available for public inspection copies of each flood h
 
 (4) Regulations 16(2) to (8) and 17 to 20 apply in relation to the preparation of an updated flood risk management plan.
 
-## 22. Provision of information and assistance by public bodies[^key-787486f6f3d9c2a8acfa6197b0a3a0be]
+## 22. Provision of information and assistance by public bodies[^c-787486f6f3d9c2a8acfa6197b0a3a0be]
 
 A public body shall, on being requested to do so by the Department, provide the Department with such information in its possession or under its control and such assistance as the Department may reasonably seek in connection with the exercise of any of the Department’s functions under these Regulations.
 
-## 23. Guidance to public bodies[^key-e7c92fa1ab525f70bc0a40a9ff5b8d76]
+## 23. Guidance to public bodies[^c-e7c92fa1ab525f70bc0a40a9ff5b8d76]
 
-The Department may give guidance to any public body on the implementation of these Regulations[^key-948a1d22d04c9a93cf01d93dfe93a81c], and the body to whom guidance is issued shall have regard to it.
+The Department may give guidance to any public body on the implementation of these Regulations[^c-948a1d22d04c9a93cf01d93dfe93a81c], and the body to whom guidance is issued shall have regard to it.
 
 Sealed with the Official Seal of the Department of Agriculture and Rural Development on 20<sup>th</sup> November 2009.
 
@@ -350,11 +350,11 @@ A senior officer of the
 
 Department of Agriculture and Rural Development
 
-## SCHEDULE 1 — STATUTORY PROVISIONS IN RELATION TO WHICH DUTIES IN REGULATION 4 APPLY[^key-373b6e9cbde375b8d012896125ea3486]
+## SCHEDULE 1 — STATUTORY PROVISIONS IN RELATION TO WHICH DUTIES IN REGULATION 4 APPLY[^c-373b6e9cbde375b8d012896125ea3486]
 
 Regulation 4(3)
 
-[^key-373b6e9cbde375b8d012896125ea3486]
+[^c-373b6e9cbde375b8d012896125ea3486]
 
 - The Foyle Fisheries Acts (Northern Ireland) 1952 and 1962[^f00012]
 - The Forestry Act (Northern Ireland) 1953[^f00013]
@@ -383,18 +383,18 @@ Regulation 4(3)
 
 Regulations 5(5) and (6) and 6(3)
 
-**1.**[^key-73100ccaa5ba6b1e930da92d5985f1fd] Maps at the appropriate scale of the river basin district which show—
+**1.**[^c-73100ccaa5ba6b1e930da92d5985f1fd] Maps at the appropriate scale of the river basin district which show—
 
 - (a) borders of any river basin, sub-basin and coastal area in the district; and
 - (b) topography and land use.
 
-**2.**[^key-f256a066609da84c77733b4ed53b2a97] (1) Subject to sub-paragraph (2), a description of the floods which have occurred in the past in the river basin district and which had significant adverse impacts on human health, the environment, cultural heritage or economic activity (including their extent and conveyance routes and an assessment of the adverse impacts they have entailed).
+**2.**[^c-f256a066609da84c77733b4ed53b2a97] (1) Subject to sub-paragraph (2), a description of the floods which have occurred in the past in the river basin district and which had significant adverse impacts on human health, the environment, cultural heritage or economic activity (including their extent and conveyance routes and an assessment of the adverse impacts they have entailed).
 
 (2) Sub-paragraph (1) applies only where a similar future flood with significant adverse impacts on the matters mentioned in that sub-paragraph is still probable in the river basin district.
 
-**3.**[^key-00e0077196cb11135ad3a6022c971ff6] A description of the significant floods which have occurred in the past in the river basin district where significant adverse consequences of any similar future flood might be envisaged.
+**3.**[^c-00e0077196cb11135ad3a6022c971ff6] A description of the significant floods which have occurred in the past in the river basin district where significant adverse consequences of any similar future flood might be envisaged.
 
-**4.**[^key-f8694713b44dfce44937e83ba4cf013d] An assessment of the potential adverse consequences of any future flood for human health, the environment, cultural heritage and economic activity in the river basin district taking into account, as far as possible, issues such as—
+**4.**[^c-f8694713b44dfce44937e83ba4cf013d] An assessment of the potential adverse consequences of any future flood for human health, the environment, cultural heritage and economic activity in the river basin district taking into account, as far as possible, issues such as—
 
 - (i) the topography;
 - (ii) the position, and the general hydrological and geomorphological characteristics of watercourses;
@@ -403,7 +403,7 @@ Regulations 5(5) and (6) and 6(3)
 - (v) the position of any populated area and area of economic activity; and
 - (vi) long-term developments including impacts of climate change on the occurrence of floods.
 
-**5.**[^key-02a840c9373b89f6eb9a2599b8a10bad] In this Schedule any reference to the river basin district shall include a reference to the part of each international river basin district lying within Northern Ireland.
+**5.**[^c-02a840c9373b89f6eb9a2599b8a10bad] In this Schedule any reference to the river basin district shall include a reference to the part of each international river basin district lying within Northern Ireland.
 
 ## SCHEDULE 3 — MATTERS TO BE INCLUDED IN FLOOD RISK MANAGEMENT PLANS
 
@@ -411,49 +411,49 @@ Regulations 16(6) and 21(2)
 
 ### PART I — MATTERS TO BE INCLUDED IN EVERY PLAN
 
-**1.**[^key-fedc1c746008e6984c39375e9f8202c3] A description of—
+**1.**[^c-fedc1c746008e6984c39375e9f8202c3] A description of—
 
 - (a) the objectives set by the Department for the management of flood risks for the areas identified under regulation 8(1) or 9(1);
 - (b) the measures identified for achieving those objectives; and
 - (c) the priority to be given to implementing each measure.
 
-**2.**[^key-5463b6db1ccf12e9b76bb28f9b9f258e] The conclusions of the preliminary flood risk assessment as required by regulation 5 in the form of a map of the river basin district delineating the areas identified under regulation 8(1) or 9(1) which are the subject of the flood risk management plan.
+**2.**[^c-5463b6db1ccf12e9b76bb28f9b9f258e] The conclusions of the preliminary flood risk assessment as required by regulation 5 in the form of a map of the river basin district delineating the areas identified under regulation 8(1) or 9(1) which are the subject of the flood risk management plan.
 
-**3.**[^key-210f614a49c1b716b14b717405c5b9e8] Flood hazard maps and flood risk maps prepared under regulation 10 and the conclusions that can be drawn from those maps.
+**3.**[^c-210f614a49c1b716b14b717405c5b9e8] Flood hazard maps and flood risk maps prepared under regulation 10 and the conclusions that can be drawn from those maps.
 
-**4.**[^key-bd8d95722890db54a0eb26bd5dae8b5e] A summary of flood related measures taken under—
+**4.**[^c-bd8d95722890db54a0eb26bd5dae8b5e] A summary of flood related measures taken under—
 
-- (a) Council[^key-e107b3142797237fa830a04b35995a20] [Directive 2011/92/EU](https://www.legislation.gov.uk/european/directive/2011/0092), as amended by [Directive 2014/52/EU](https://www.legislation.gov.uk/european/directive/2014/0052) on the assessment of the effects of certain public and private projects on the environment;
-- (b) Council[^key-1b1138edd1fd40ec85d51f7bfe6e314b] [Directive 2012/18/EU](https://www.legislation.gov.uk/european/directive/2012/0018) in the control of major accident hazards involving dangerous substances;
+- (a) Council[^c-e107b3142797237fa830a04b35995a20] [Directive 2011/92/EU](https://www.legislation.gov.uk/european/directive/2011/0092), as amended by [Directive 2014/52/EU](https://www.legislation.gov.uk/european/directive/2014/0052) on the assessment of the effects of certain public and private projects on the environment;
+- (b) Council[^c-1b1138edd1fd40ec85d51f7bfe6e314b] [Directive 2012/18/EU](https://www.legislation.gov.uk/european/directive/2012/0018) in the control of major accident hazards involving dangerous substances;
 - (c) Directive [2001/42/EC](https://www.legislation.gov.uk/european/directive/2001/0042) of the European Parliament and the Council on the assessment of the effects of certain plans and programmes on the environment[^f00036];
-- (d)[^key-00db17bc04683c1ec4825127dbbee831] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (e) the 2017 Regulations[^key-7c225d5cc053cb6a8defb0636ac19bd1].
+- (d)[^c-00db17bc04683c1ec4825127dbbee831] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e) the 2017 Regulations[^c-7c225d5cc053cb6a8defb0636ac19bd1].
 
-**5.**[^key-1019b857da913918db917359de9322dc] When available, for shared river basins or sub-basins, a description of the methodology of cost-benefit analysis used to assess measures with transnational effects.
+**5.**[^c-1019b857da913918db917359de9322dc] When available, for shared river basins or sub-basins, a description of the methodology of cost-benefit analysis used to assess measures with transnational effects.
 
-**6.**[^key-4e539498c8754cab0c0d9505c4a2e2b0] A description of—
+**6.**[^c-4e539498c8754cab0c0d9505c4a2e2b0] A description of—
 
 - (a) how the priority given to implementing each measure under paragraph 1(c) was determined; and
 - (b) the way in which progress in implementing the plan will be monitored.
 
-**7.**[^key-275ae3b9a63a4d81a38736243425ddd1] A summary of—
+**7.**[^c-275ae3b9a63a4d81a38736243425ddd1] A summary of—
 
 - (a) the public information and consultation measures taken in connection with the preparation of the plan (including those public information measures taken in connection with the preliminary flood risk assessment mentioned in paragraph 2 and the maps mentioned in paragraph 3); and
 - (b) changes made to the plan in light of the views and representations received on it.
 
-**8.**[^key-4e5b45a51d0d6321a23e95b0894367cc] Information as to the Department and a description of the co-ordination process within any international river basin district and of the co-ordination process with the 2017 Regulations[^key-33139628c460a33be3e22a74d7138ae4].
+**8.**[^c-4e5b45a51d0d6321a23e95b0894367cc] Information as to the Department and a description of the co-ordination process within any international river basin district and of the co-ordination process with the 2017 Regulations[^c-33139628c460a33be3e22a74d7138ae4].
 
-**9.**[^key-3d6e94c4914b94c6eb6dd95e094db98f] In this Part “river basin district” includes an international river basin district or, as the case may be, the part of an international river basin district lying within Northern Ireland.
+**9.**[^c-3d6e94c4914b94c6eb6dd95e094db98f] In this Part “river basin district” includes an international river basin district or, as the case may be, the part of an international river basin district lying within Northern Ireland.
 
 ### PART II — COMPONENTS OF THE SUBSEQUENT UPDATE OF FLOOD RISK MANAGEMENT PLANS
 
-**10.**[^key-21e282fc33a6bc5b91f2210d8c60816a] A summary of any changes which have been made as compared to the previous version of the plan including a summary of the reviews carried out under regulations 6, 9, 13 and 21.
+**10.**[^c-21e282fc33a6bc5b91f2210d8c60816a] A summary of any changes which have been made as compared to the previous version of the plan including a summary of the reviews carried out under regulations 6, 9, 13 and 21.
 
-**11.**[^key-7d24d69523b8c60658b989c701b6aabc] An assessment of the progress made towards the achievement of the objectives included in the plan under paragraph 1(a).
+**11.**[^c-7d24d69523b8c60658b989c701b6aabc] An assessment of the progress made towards the achievement of the objectives included in the plan under paragraph 1(a).
 
-**12.**[^key-8eee807df62b3fe4497350e1d2cc0a3a] A summary of any measures included in the previous plan under paragraph 1(b) which were not implemented, with reasons for non-implementation.
+**12.**[^c-8eee807df62b3fe4497350e1d2cc0a3a] A summary of any measures included in the previous plan under paragraph 1(b) which were not implemented, with reasons for non-implementation.
 
-**13.**[^key-4fb0a9bae15a2f40a0a58c77ad367329] A description of any other measures implemented since the publication of the previous version of the plan which the Department considers have contributed to the achievement of the objectives included in the plan under paragraph 1(a).
+**13.**[^c-4fb0a9bae15a2f40a0a58c77ad367329] A description of any other measures implemented since the publication of the previous version of the plan which the Department considers have contributed to the achievement of the objectives included in the plan under paragraph 1(a).
 
 EXPLANATORY NOTE
 
@@ -486,95 +486,95 @@ These Regulations implement Directive [2007/60/EC](https://www.legislation.gov.u
 
 [^f00002]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68)
 
-[^key-40653bcccbe5e6412a7a0b43e078e2c5]: Commencement: Reg. 1 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
+[^c-40653bcccbe5e6412a7a0b43e078e2c5]: Commencement: Reg. 1 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
 
-[^key-b999aeeec5e21ec29b9950beee6adde6]: Commencement: Reg. 2 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
+[^c-b999aeeec5e21ec29b9950beee6adde6]: Commencement: Reg. 2 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
 
 [^f00003]: Footnote: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-71d876c3d224d5c7b54b3da6fe957dcb]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2009/376/regulation/2/2) omitted (with application in accordance with reg. 1(b), 4(1) of the amending Rule) by virtue of [The Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2017 (S.R. 2017/81)](https://www.legislation.gov.uk/nisr/2017/81), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2017/81/regulation/1/a), [Sch. 4 para. 2(2)(a)](https://www.legislation.gov.uk/nisr/2017/81/schedule/4/paragraph/2/2/a) (with [reg. 37](https://www.legislation.gov.uk/nisr/2017/81/regulation/37))
+[^c-71d876c3d224d5c7b54b3da6fe957dcb]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2009/376/regulation/2/2) omitted (with application in accordance with reg. 1(b), 4(1) of the amending Rule) by virtue of [The Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2017 (S.R. 2017/81)](https://www.legislation.gov.uk/nisr/2017/81), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2017/81/regulation/1/a), [Sch. 4 para. 2(2)(a)](https://www.legislation.gov.uk/nisr/2017/81/schedule/4/paragraph/2/2/a) (with [reg. 37](https://www.legislation.gov.uk/nisr/2017/81/regulation/37))
 
-[^key-8bdd2a994baccc7996bdc84501e6439f]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2009/376/regulation/2/2) inserted (with application in accordance with reg. 1(b), 4(1) of the amending Rule) by [The Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2017 (S.R. 2017/81)](https://www.legislation.gov.uk/nisr/2017/81), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2017/81/regulation/1/a), [Sch. 4 para. 2(2)(b)](https://www.legislation.gov.uk/nisr/2017/81/schedule/4/paragraph/2/2/b) (with [reg. 37](https://www.legislation.gov.uk/nisr/2017/81/regulation/37))
+[^c-8bdd2a994baccc7996bdc84501e6439f]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2009/376/regulation/2/2) inserted (with application in accordance with reg. 1(b), 4(1) of the amending Rule) by [The Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2017 (S.R. 2017/81)](https://www.legislation.gov.uk/nisr/2017/81), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2017/81/regulation/1/a), [Sch. 4 para. 2(2)(b)](https://www.legislation.gov.uk/nisr/2017/81/schedule/4/paragraph/2/2/b) (with [reg. 37](https://www.legislation.gov.uk/nisr/2017/81/regulation/37))
 
-[^key-e84ec219dd91ec14d8c8ba39af1026cc]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2009/376/regulation/2/2) substituted (27.7.2018) by [The Water Environment (Floods Directive) (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/137)](https://www.legislation.gov.uk/nisr/2018/137), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/137/regulation/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2018/137/regulation/2/2)
+[^c-e84ec219dd91ec14d8c8ba39af1026cc]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2009/376/regulation/2/2) substituted (27.7.2018) by [The Water Environment (Floods Directive) (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/137)](https://www.legislation.gov.uk/nisr/2018/137), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/137/regulation/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2018/137/regulation/2/2)
 
-[^key-e0329060676c2b7ca394ddb4f224a366]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2009/376/regulation/2) omitted (31.12.2020) by virtue of [The Water and Floods (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/32)](https://www.legislation.gov.uk/uksi/2019/32), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/32/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2019/32/regulation/4/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e0329060676c2b7ca394ddb4f224a366]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2009/376/regulation/2) omitted (31.12.2020) by virtue of [The Water and Floods (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/32)](https://www.legislation.gov.uk/uksi/2019/32), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/32/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2019/32/regulation/4/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5bcb89a256edfd04ff5b900347ad4f2a]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2009/376/regulation/2/2) substituted (with application in accordance with reg. 1(b), 4(1) of the amending Rule) by [The Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2017 (S.R. 2017/81)](https://www.legislation.gov.uk/nisr/2017/81), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2017/81/regulation/1/a), [Sch. 4 para. 2(2)(c)](https://www.legislation.gov.uk/nisr/2017/81/schedule/4/paragraph/2/2/c) (with [reg. 37](https://www.legislation.gov.uk/nisr/2017/81/regulation/37))
+[^c-5bcb89a256edfd04ff5b900347ad4f2a]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2009/376/regulation/2/2) substituted (with application in accordance with reg. 1(b), 4(1) of the amending Rule) by [The Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2017 (S.R. 2017/81)](https://www.legislation.gov.uk/nisr/2017/81), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2017/81/regulation/1/a), [Sch. 4 para. 2(2)(c)](https://www.legislation.gov.uk/nisr/2017/81/schedule/4/paragraph/2/2/c) (with [reg. 37](https://www.legislation.gov.uk/nisr/2017/81/regulation/37))
 
 [^f00006]: Footnote: [1998 c.47](https://www.legislation.gov.uk/ukpga/1998/47)
 
 [^f00007]: Footnote: [S.I. 1991/1220 (N.I. 11)](https://www.legislation.gov.uk/nisi/1991/1220)
 
-[^key-6a38575f84bcb3de91dbe27d8da8c8de]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2009/376/regulation/2/2) substituted (with application in accordance with reg. 1(b), 4(1) of the amending Rule) by [The Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2017 (S.R. 2017/81)](https://www.legislation.gov.uk/nisr/2017/81), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2017/81/regulation/1/a), [Sch. 4 para. 2(2)(d)](https://www.legislation.gov.uk/nisr/2017/81/schedule/4/paragraph/2/2/d) (with [reg. 37](https://www.legislation.gov.uk/nisr/2017/81/regulation/37))
+[^c-6a38575f84bcb3de91dbe27d8da8c8de]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2009/376/regulation/2/2) substituted (with application in accordance with reg. 1(b), 4(1) of the amending Rule) by [The Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2017 (S.R. 2017/81)](https://www.legislation.gov.uk/nisr/2017/81), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2017/81/regulation/1/a), [Sch. 4 para. 2(2)(d)](https://www.legislation.gov.uk/nisr/2017/81/schedule/4/paragraph/2/2/d) (with [reg. 37](https://www.legislation.gov.uk/nisr/2017/81/regulation/37))
 
 [^f00008]: Footnote: O.J. No. L327, 22.12.2000, p.1 as last amended by Directive [2009/31/EC](https://www.legislation.gov.uk/european/directive/2009/0031) of the European Parliament and of the Council (O.J. No. L140, 5.6.2009, p.114)
 
-[^key-c21bc3026592d7d1c846ab4d2e534d5c]: Commencement: Reg. 3 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
+[^c-c21bc3026592d7d1c846ab4d2e534d5c]: Commencement: Reg. 3 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
 
-[^key-d4ccacb1533a889b908dfb83228946fa]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/nisr/2009/376/regulation/3) substituted (31.12.2020) by [The Water and Floods (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/32)](https://www.legislation.gov.uk/uksi/2019/32), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/32/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2019/32/regulation/4/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d4ccacb1533a889b908dfb83228946fa]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/nisr/2009/376/regulation/3) substituted (31.12.2020) by [The Water and Floods (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/32)](https://www.legislation.gov.uk/uksi/2019/32), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/32/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2019/32/regulation/4/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-443959456dc1cf46e0d6393775a4d4cf]: Commencement: Reg. 4 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
+[^c-443959456dc1cf46e0d6393775a4d4cf]: Commencement: Reg. 4 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
 
-[^key-95070bf580483fce525b205475ef7b78]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/4/1) substituted (31.12.2020) by [The Water and Floods (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/32)](https://www.legislation.gov.uk/uksi/2019/32), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/32/regulation/1/1), [4(4)(a)](https://www.legislation.gov.uk/uksi/2019/32/regulation/4/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-95070bf580483fce525b205475ef7b78]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/4/1) substituted (31.12.2020) by [The Water and Floods (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/32)](https://www.legislation.gov.uk/uksi/2019/32), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/32/regulation/1/1), [4(4)(a)](https://www.legislation.gov.uk/uksi/2019/32/regulation/4/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-74390edcb09c2b99db9dd2e0d85520bc]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/nisr/2009/376/regulation/4/2) substituted (31.12.2020) by [The Water and Floods (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/32)](https://www.legislation.gov.uk/uksi/2019/32), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/32/regulation/1/1), [4(4)(b)](https://www.legislation.gov.uk/uksi/2019/32/regulation/4/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-74390edcb09c2b99db9dd2e0d85520bc]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/nisr/2009/376/regulation/4/2) substituted (31.12.2020) by [The Water and Floods (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/32)](https://www.legislation.gov.uk/uksi/2019/32), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/32/regulation/1/1), [4(4)(b)](https://www.legislation.gov.uk/uksi/2019/32/regulation/4/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-cd2339c3ddc866f734fc541abc370f6c]: Commencement: Reg. 5 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
+[^c-cd2339c3ddc866f734fc541abc370f6c]: Commencement: Reg. 5 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
 
-[^key-1a29abf0a712ece5c2908191c185d458]: Commencement: Reg. 6 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
+[^c-1a29abf0a712ece5c2908191c185d458]: Commencement: Reg. 6 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
 
-[^key-98060c2cc8c389bb6c19d43689cc616e]: Commencement: Reg. 7 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
+[^c-98060c2cc8c389bb6c19d43689cc616e]: Commencement: Reg. 7 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
 
-[^key-35d3050552df326af64f579bbcdb8b0d]: Commencement: Reg. 8 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
+[^c-35d3050552df326af64f579bbcdb8b0d]: Commencement: Reg. 8 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
 
-[^key-7af4d12abcb9be0b5670d0f0b3b6e226]: Commencement: Reg. 9 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
+[^c-7af4d12abcb9be0b5670d0f0b3b6e226]: Commencement: Reg. 9 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
 
-[^key-9e0c3255fedea11a4b6f2e7fd77609b2]: Commencement: Reg. 10 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
+[^c-9e0c3255fedea11a4b6f2e7fd77609b2]: Commencement: Reg. 10 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
 
-[^key-f05023106070a0119b5e051597a167d1]: Commencement: Reg. 11 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
+[^c-f05023106070a0119b5e051597a167d1]: Commencement: Reg. 11 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
 
-[^key-1272568f793a0b15a5dc0a0bc48119e7]: Commencement: Reg. 12 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
+[^c-1272568f793a0b15a5dc0a0bc48119e7]: Commencement: Reg. 12 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
 
-[^key-d7b3740dc099be163535216bf8198aa3]: Textual amendment: Words in [reg. 12(2)(c)](https://www.legislation.gov.uk/nisr/2009/376/regulation/12/2/c) omitted (21.12.2018) by virtue of [The Water Environment (Floods Directive) (Amendment No. 2) Regulations (Northern Ireland) 2018 (S.R. 2018/196)](https://www.legislation.gov.uk/nisr/2018/196), [regs. 1](https://www.legislation.gov.uk/nisr/2018/196/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2018/196/regulation/2/2)
+[^c-d7b3740dc099be163535216bf8198aa3]: Textual amendment: Words in [reg. 12(2)(c)](https://www.legislation.gov.uk/nisr/2009/376/regulation/12/2/c) omitted (21.12.2018) by virtue of [The Water Environment (Floods Directive) (Amendment No. 2) Regulations (Northern Ireland) 2018 (S.R. 2018/196)](https://www.legislation.gov.uk/nisr/2018/196), [regs. 1](https://www.legislation.gov.uk/nisr/2018/196/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2018/196/regulation/2/2)
 
-[^key-f4c7043f67a1313ad38eab166d7f6a45]: Textual amendment: Words in [reg. 12(3)](https://www.legislation.gov.uk/nisr/2009/376/regulation/12/3) substituted (21.12.2018) by [The Water Environment (Floods Directive) (Amendment No. 2) Regulations (Northern Ireland) 2018 (S.R. 2018/196)](https://www.legislation.gov.uk/nisr/2018/196), [regs. 1](https://www.legislation.gov.uk/nisr/2018/196/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2018/196/regulation/2/3)
+[^c-f4c7043f67a1313ad38eab166d7f6a45]: Textual amendment: Words in [reg. 12(3)](https://www.legislation.gov.uk/nisr/2009/376/regulation/12/3) substituted (21.12.2018) by [The Water Environment (Floods Directive) (Amendment No. 2) Regulations (Northern Ireland) 2018 (S.R. 2018/196)](https://www.legislation.gov.uk/nisr/2018/196), [regs. 1](https://www.legislation.gov.uk/nisr/2018/196/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2018/196/regulation/2/3)
 
-[^key-ae11cdb52887d95c68e69500b2281012]: Commencement: Reg. 13 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
+[^c-ae11cdb52887d95c68e69500b2281012]: Commencement: Reg. 13 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
 
-[^key-18f0aad611cfd2e240006f32fafbc83b]: Commencement: Reg. 14 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
+[^c-18f0aad611cfd2e240006f32fafbc83b]: Commencement: Reg. 14 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
 
-[^key-a978f0283be9da04936789f3aac70ea7]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/nisr/2009/376/regulation/15) substituted (with application in accordance with reg. 1(b), 4(1) of the amending Rule) by [The Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2017 (S.R. 2017/81)](https://www.legislation.gov.uk/nisr/2017/81), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2017/81/regulation/1/a), [Sch. 4 para. 2(3)](https://www.legislation.gov.uk/nisr/2017/81/schedule/4/paragraph/2/3) (with [reg. 37](https://www.legislation.gov.uk/nisr/2017/81/regulation/37))
+[^c-a978f0283be9da04936789f3aac70ea7]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/nisr/2009/376/regulation/15) substituted (with application in accordance with reg. 1(b), 4(1) of the amending Rule) by [The Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2017 (S.R. 2017/81)](https://www.legislation.gov.uk/nisr/2017/81), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2017/81/regulation/1/a), [Sch. 4 para. 2(3)](https://www.legislation.gov.uk/nisr/2017/81/schedule/4/paragraph/2/3) (with [reg. 37](https://www.legislation.gov.uk/nisr/2017/81/regulation/37))
 
-[^key-537b3129246ec616c94184c592ee347d]: Commencement: Reg. 16 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
+[^c-537b3129246ec616c94184c592ee347d]: Commencement: Reg. 16 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
 
-[^key-e9ea9be598f9342cdd096d46342ef5cf]: Commencement: Reg. 17 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
+[^c-e9ea9be598f9342cdd096d46342ef5cf]: Commencement: Reg. 17 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
 
-[^key-859bdf91ce4d7bbf394189450ae25728]: Textual amendment: Words in [reg. 17(1)(a)(viii)](https://www.legislation.gov.uk/nisr/2009/376/regulation/17/1/a/viii) substituted (21.12.2018) by [The Water Environment (Floods Directive) (Amendment No. 2) Regulations (Northern Ireland) 2018 (S.R. 2018/196)](https://www.legislation.gov.uk/nisr/2018/196), [regs. 1](https://www.legislation.gov.uk/nisr/2018/196/regulation/1), [2(4)](https://www.legislation.gov.uk/nisr/2018/196/regulation/2/4)
+[^c-859bdf91ce4d7bbf394189450ae25728]: Textual amendment: Words in [reg. 17(1)(a)(viii)](https://www.legislation.gov.uk/nisr/2009/376/regulation/17/1/a/viii) substituted (21.12.2018) by [The Water Environment (Floods Directive) (Amendment No. 2) Regulations (Northern Ireland) 2018 (S.R. 2018/196)](https://www.legislation.gov.uk/nisr/2018/196), [regs. 1](https://www.legislation.gov.uk/nisr/2018/196/regulation/1), [2(4)](https://www.legislation.gov.uk/nisr/2018/196/regulation/2/4)
 
-[^key-702ae571717b8ff18d692ced5a220488]: Textual amendment: Words in [reg. 17(1)(a)(ix)](https://www.legislation.gov.uk/nisr/2009/376/regulation/17/1/a/ix) substituted (31.12.2020) by [The Water and Floods (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/32)](https://www.legislation.gov.uk/uksi/2019/32), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/32/regulation/1/1), [4(5)](https://www.legislation.gov.uk/uksi/2019/32/regulation/4/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-702ae571717b8ff18d692ced5a220488]: Textual amendment: Words in [reg. 17(1)(a)(ix)](https://www.legislation.gov.uk/nisr/2009/376/regulation/17/1/a/ix) substituted (31.12.2020) by [The Water and Floods (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/32)](https://www.legislation.gov.uk/uksi/2019/32), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/32/regulation/1/1), [4(5)](https://www.legislation.gov.uk/uksi/2019/32/regulation/4/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3b229718d9e6da64dae93e261538db9f]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/nisr/2009/376/regulation/18) substituted (with application in accordance with reg. 1(b), 4(1) of the amending Rule) by [The Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2017 (S.R. 2017/81)](https://www.legislation.gov.uk/nisr/2017/81), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2017/81/regulation/1/a), [Sch. 4 para. 2(4)](https://www.legislation.gov.uk/nisr/2017/81/schedule/4/paragraph/2/4) (with [reg. 37](https://www.legislation.gov.uk/nisr/2017/81/regulation/37))
+[^c-3b229718d9e6da64dae93e261538db9f]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/nisr/2009/376/regulation/18) substituted (with application in accordance with reg. 1(b), 4(1) of the amending Rule) by [The Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2017 (S.R. 2017/81)](https://www.legislation.gov.uk/nisr/2017/81), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2017/81/regulation/1/a), [Sch. 4 para. 2(4)](https://www.legislation.gov.uk/nisr/2017/81/schedule/4/paragraph/2/4) (with [reg. 37](https://www.legislation.gov.uk/nisr/2017/81/regulation/37))
 
-[^key-52604654f527554abf54a511b746c0b0]: Commencement: Reg. 19 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
+[^c-52604654f527554abf54a511b746c0b0]: Commencement: Reg. 19 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
 
-[^key-c1ff0976cc95af52dc1a23ad047efff1]: Textual amendment: Words in [reg. 19(2)(a)](https://www.legislation.gov.uk/nisr/2009/376/regulation/19/2/a) substituted (27.7.2018) by [The Water Environment (Floods Directive) (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/137)](https://www.legislation.gov.uk/nisr/2018/137), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/137/regulation/1/1), [2(3)](https://www.legislation.gov.uk/nisr/2018/137/regulation/2/3)
+[^c-c1ff0976cc95af52dc1a23ad047efff1]: Textual amendment: Words in [reg. 19(2)(a)](https://www.legislation.gov.uk/nisr/2009/376/regulation/19/2/a) substituted (27.7.2018) by [The Water Environment (Floods Directive) (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/137)](https://www.legislation.gov.uk/nisr/2018/137), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/137/regulation/1/1), [2(3)](https://www.legislation.gov.uk/nisr/2018/137/regulation/2/3)
 
-[^key-da1d2e87c9db50fb00ff3a98f1dcf1ea]: Textual amendment: [Reg. 19(4)(d)(e)](https://www.legislation.gov.uk/nisr/2009/376/regulation/19/4/d) substituted (27.7.2018) for reg. 19(4)(d)-(f) by [The Water Environment (Floods Directive) (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/137)](https://www.legislation.gov.uk/nisr/2018/137), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/137/regulation/1/1), [2(4)](https://www.legislation.gov.uk/nisr/2018/137/regulation/2/4)
+[^c-da1d2e87c9db50fb00ff3a98f1dcf1ea]: Textual amendment: [Reg. 19(4)(d)(e)](https://www.legislation.gov.uk/nisr/2009/376/regulation/19/4/d) substituted (27.7.2018) for reg. 19(4)(d)-(f) by [The Water Environment (Floods Directive) (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/137)](https://www.legislation.gov.uk/nisr/2018/137), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/137/regulation/1/1), [2(4)](https://www.legislation.gov.uk/nisr/2018/137/regulation/2/4)
 
 [^f00011]: Footnote: [1970 c.1 (N.I. 1)](https://www.legislation.gov.uk/apni/1970/1)
 
-[^key-27907465b94847faa338e2c0f2ed0816]: Commencement: Reg. 20 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
+[^c-27907465b94847faa338e2c0f2ed0816]: Commencement: Reg. 20 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
 
-[^key-848e7e6c928adad3a5baaa7ce9439e44]: Commencement: Reg. 21 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
+[^c-848e7e6c928adad3a5baaa7ce9439e44]: Commencement: Reg. 21 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
 
-[^key-787486f6f3d9c2a8acfa6197b0a3a0be]: Commencement: Reg. 22 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
+[^c-787486f6f3d9c2a8acfa6197b0a3a0be]: Commencement: Reg. 22 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
 
-[^key-e7c92fa1ab525f70bc0a40a9ff5b8d76]: Commencement: Reg. 23 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
+[^c-e7c92fa1ab525f70bc0a40a9ff5b8d76]: Commencement: Reg. 23 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
 
-[^key-948a1d22d04c9a93cf01d93dfe93a81c]: Textual amendment: Words in [reg. 23](https://www.legislation.gov.uk/nisr/2009/376/regulation/23) substituted (31.12.2020) by [The Water and Floods (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/32)](https://www.legislation.gov.uk/uksi/2019/32), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/32/regulation/1/1), [4(6)](https://www.legislation.gov.uk/uksi/2019/32/regulation/4/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-948a1d22d04c9a93cf01d93dfe93a81c]: Textual amendment: Words in [reg. 23](https://www.legislation.gov.uk/nisr/2009/376/regulation/23) substituted (31.12.2020) by [The Water and Floods (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/32)](https://www.legislation.gov.uk/uksi/2019/32), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/32/regulation/1/1), [4(6)](https://www.legislation.gov.uk/uksi/2019/32/regulation/4/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-373b6e9cbde375b8d012896125ea3486]: Commencement: Sch. 1 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
+[^c-373b6e9cbde375b8d012896125ea3486]: Commencement: Sch. 1 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
 
 [^f00012]: Footnote: [1952 c.5 (N.I.)](https://www.legislation.gov.uk/apni/1952/5) and [1962 c.5 (N.I.)](https://www.legislation.gov.uk/apni/1962/5)
 
@@ -620,50 +620,50 @@ These Regulations implement Directive [2007/60/EC](https://www.legislation.gov.u
 
 [^f00033]: Footnote: [S.I. 2007/915 (N.I. 9)](https://www.legislation.gov.uk/nisi/2007/915)
 
-[^key-73100ccaa5ba6b1e930da92d5985f1fd]: Commencement: Sch. 2 para. 1 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
+[^c-73100ccaa5ba6b1e930da92d5985f1fd]: Commencement: Sch. 2 para. 1 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
 
-[^key-f256a066609da84c77733b4ed53b2a97]: Commencement: Sch. 2 para. 2 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
+[^c-f256a066609da84c77733b4ed53b2a97]: Commencement: Sch. 2 para. 2 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
 
-[^key-00e0077196cb11135ad3a6022c971ff6]: Commencement: Sch. 2 para. 3 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
+[^c-00e0077196cb11135ad3a6022c971ff6]: Commencement: Sch. 2 para. 3 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
 
-[^key-f8694713b44dfce44937e83ba4cf013d]: Commencement: Sch. 2 para. 4 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
+[^c-f8694713b44dfce44937e83ba4cf013d]: Commencement: Sch. 2 para. 4 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
 
-[^key-02a840c9373b89f6eb9a2599b8a10bad]: Commencement: Sch. 2 para. 5 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
+[^c-02a840c9373b89f6eb9a2599b8a10bad]: Commencement: Sch. 2 para. 5 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
 
-[^key-fedc1c746008e6984c39375e9f8202c3]: Commencement: Sch. 3 para. 1 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
+[^c-fedc1c746008e6984c39375e9f8202c3]: Commencement: Sch. 3 para. 1 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
 
-[^key-5463b6db1ccf12e9b76bb28f9b9f258e]: Commencement: Sch. 3 para. 2 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
+[^c-5463b6db1ccf12e9b76bb28f9b9f258e]: Commencement: Sch. 3 para. 2 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
 
-[^key-210f614a49c1b716b14b717405c5b9e8]: Commencement: Sch. 3 para. 3 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
+[^c-210f614a49c1b716b14b717405c5b9e8]: Commencement: Sch. 3 para. 3 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
 
-[^key-bd8d95722890db54a0eb26bd5dae8b5e]: Commencement: Sch. 3 para. 4 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
+[^c-bd8d95722890db54a0eb26bd5dae8b5e]: Commencement: Sch. 3 para. 4 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
 
-[^key-e107b3142797237fa830a04b35995a20]: Textual amendment: Words in [Sch. 3 para. 4(a)](https://www.legislation.gov.uk/nisr/2009/376/schedule/3/paragraph/4/a) substituted (21.12.2018) by [The Water Environment (Floods Directive) (Amendment No. 2) Regulations (Northern Ireland) 2018 (S.R. 2018/196)](https://www.legislation.gov.uk/nisr/2018/196), [regs. 1](https://www.legislation.gov.uk/nisr/2018/196/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/nisr/2018/196/regulation/2/5/a)
+[^c-e107b3142797237fa830a04b35995a20]: Textual amendment: Words in [Sch. 3 para. 4(a)](https://www.legislation.gov.uk/nisr/2009/376/schedule/3/paragraph/4/a) substituted (21.12.2018) by [The Water Environment (Floods Directive) (Amendment No. 2) Regulations (Northern Ireland) 2018 (S.R. 2018/196)](https://www.legislation.gov.uk/nisr/2018/196), [regs. 1](https://www.legislation.gov.uk/nisr/2018/196/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/nisr/2018/196/regulation/2/5/a)
 
-[^key-1b1138edd1fd40ec85d51f7bfe6e314b]: Textual amendment: Words in [Sch. 3 para. 4(b)](https://www.legislation.gov.uk/nisr/2009/376/schedule/3/paragraph/4/b) substituted (21.12.2018) by [The Water Environment (Floods Directive) (Amendment No. 2) Regulations (Northern Ireland) 2018 (S.R. 2018/196)](https://www.legislation.gov.uk/nisr/2018/196), [regs. 1](https://www.legislation.gov.uk/nisr/2018/196/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/nisr/2018/196/regulation/2/5/b)
+[^c-1b1138edd1fd40ec85d51f7bfe6e314b]: Textual amendment: Words in [Sch. 3 para. 4(b)](https://www.legislation.gov.uk/nisr/2009/376/schedule/3/paragraph/4/b) substituted (21.12.2018) by [The Water Environment (Floods Directive) (Amendment No. 2) Regulations (Northern Ireland) 2018 (S.R. 2018/196)](https://www.legislation.gov.uk/nisr/2018/196), [regs. 1](https://www.legislation.gov.uk/nisr/2018/196/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/nisr/2018/196/regulation/2/5/b)
 
 [^f00036]: Footnote: O.J. No. L197, 21.7.2001, p.30
 
-[^key-00db17bc04683c1ec4825127dbbee831]: Textual amendment: [Sch. 3 para. 4(d)](https://www.legislation.gov.uk/nisr/2009/376/schedule/3/paragraph/4/d) omitted (31.12.2020) by virtue of [The Water and Floods (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/32)](https://www.legislation.gov.uk/uksi/2019/32), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/32/regulation/1/1), [4(7)](https://www.legislation.gov.uk/uksi/2019/32/regulation/4/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-00db17bc04683c1ec4825127dbbee831]: Textual amendment: [Sch. 3 para. 4(d)](https://www.legislation.gov.uk/nisr/2009/376/schedule/3/paragraph/4/d) omitted (31.12.2020) by virtue of [The Water and Floods (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/32)](https://www.legislation.gov.uk/uksi/2019/32), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/32/regulation/1/1), [4(7)](https://www.legislation.gov.uk/uksi/2019/32/regulation/4/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7c225d5cc053cb6a8defb0636ac19bd1]: Textual amendment: Words in [Sch. 3 para. 4(e)](https://www.legislation.gov.uk/nisr/2009/376/schedule/3/paragraph/4/e) substituted (with application in accordance with reg. 1(b), 4(1) of the amending Rule) by [The Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2017 (S.R. 2017/81)](https://www.legislation.gov.uk/nisr/2017/81), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2017/81/regulation/1/a), [Sch. 4 para. 2(5)(a)](https://www.legislation.gov.uk/nisr/2017/81/schedule/4/paragraph/2/5/a) (with [reg. 37](https://www.legislation.gov.uk/nisr/2017/81/regulation/37))
+[^c-7c225d5cc053cb6a8defb0636ac19bd1]: Textual amendment: Words in [Sch. 3 para. 4(e)](https://www.legislation.gov.uk/nisr/2009/376/schedule/3/paragraph/4/e) substituted (with application in accordance with reg. 1(b), 4(1) of the amending Rule) by [The Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2017 (S.R. 2017/81)](https://www.legislation.gov.uk/nisr/2017/81), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2017/81/regulation/1/a), [Sch. 4 para. 2(5)(a)](https://www.legislation.gov.uk/nisr/2017/81/schedule/4/paragraph/2/5/a) (with [reg. 37](https://www.legislation.gov.uk/nisr/2017/81/regulation/37))
 
-[^key-1019b857da913918db917359de9322dc]: Commencement: Sch. 3 para. 5 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
+[^c-1019b857da913918db917359de9322dc]: Commencement: Sch. 3 para. 5 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
 
-[^key-4e539498c8754cab0c0d9505c4a2e2b0]: Commencement: Sch. 3 para. 6 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
+[^c-4e539498c8754cab0c0d9505c4a2e2b0]: Commencement: Sch. 3 para. 6 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
 
-[^key-275ae3b9a63a4d81a38736243425ddd1]: Commencement: Sch. 3 para. 7 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
+[^c-275ae3b9a63a4d81a38736243425ddd1]: Commencement: Sch. 3 para. 7 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
 
-[^key-4e5b45a51d0d6321a23e95b0894367cc]: Commencement: Sch. 3 para. 8 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
+[^c-4e5b45a51d0d6321a23e95b0894367cc]: Commencement: Sch. 3 para. 8 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
 
-[^key-33139628c460a33be3e22a74d7138ae4]: Textual amendment: Words in [Sch. 3 para. 8](https://www.legislation.gov.uk/nisr/2009/376/schedule/3/paragraph/8) substituted (with application in accordance with reg. 1(b), 4(1) of the amending Rule) by [The Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2017 (S.R. 2017/81)](https://www.legislation.gov.uk/nisr/2017/81), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2017/81/regulation/1/a), [Sch. 4 para. 2(5)(b)](https://www.legislation.gov.uk/nisr/2017/81/schedule/4/paragraph/2/5/b) (with [reg. 37](https://www.legislation.gov.uk/nisr/2017/81/regulation/37))
+[^c-33139628c460a33be3e22a74d7138ae4]: Textual amendment: Words in [Sch. 3 para. 8](https://www.legislation.gov.uk/nisr/2009/376/schedule/3/paragraph/8) substituted (with application in accordance with reg. 1(b), 4(1) of the amending Rule) by [The Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2017 (S.R. 2017/81)](https://www.legislation.gov.uk/nisr/2017/81), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2017/81/regulation/1/a), [Sch. 4 para. 2(5)(b)](https://www.legislation.gov.uk/nisr/2017/81/schedule/4/paragraph/2/5/b) (with [reg. 37](https://www.legislation.gov.uk/nisr/2017/81/regulation/37))
 
-[^key-3d6e94c4914b94c6eb6dd95e094db98f]: Commencement: Sch. 3 para. 9 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
+[^c-3d6e94c4914b94c6eb6dd95e094db98f]: Commencement: Sch. 3 para. 9 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
 
-[^key-21e282fc33a6bc5b91f2210d8c60816a]: Commencement: Sch. 3 para. 10 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
+[^c-21e282fc33a6bc5b91f2210d8c60816a]: Commencement: Sch. 3 para. 10 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
 
-[^key-7d24d69523b8c60658b989c701b6aabc]: Commencement: Sch. 3 para. 11 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
+[^c-7d24d69523b8c60658b989c701b6aabc]: Commencement: Sch. 3 para. 11 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
 
-[^key-8eee807df62b3fe4497350e1d2cc0a3a]: Commencement: Sch. 3 para. 12 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
+[^c-8eee807df62b3fe4497350e1d2cc0a3a]: Commencement: Sch. 3 para. 12 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
 
-[^key-4fb0a9bae15a2f40a0a58c77ad367329]: Commencement: Sch. 3 para. 13 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)
+[^c-4fb0a9bae15a2f40a0a58c77ad367329]: Commencement: Sch. 3 para. 13 in operation at 14.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/376/regulation/1/1)

@@ -56,7 +56,7 @@ Section 12.
 
 (2) Except in so far as regulations otherwise provide, no person who is an officer of the Regional Agency may be appointed under sub-paragraph (1)(a) or (b).
 
-(3)[^key-dd6d1f00d658695936182d1afb087c33] Regulations may provide—
+(3)[^c-dd6d1f00d658695936182d1afb087c33] Regulations may provide—
 
 - (a) that the person appointed under sub-paragraph (1)(a) must fulfil prescribed conditions or hold a post of a prescribed description;
 - (b) that all or any of the persons appointed under sub-paragraph (1)(b) must fulfil prescribed conditions or hold posts of a prescribed description.
@@ -274,7 +274,7 @@ as the Department may, with the approval of the Department of Finance and Person
 
 [^c19578871]: Commencement: Sch. 2 para. 3 wholly in operation at 1.4.2009; Sch. 2 para. 3 in operation for certain purposes at Royal Assent see s. 34(2)(c); Sch. 2 para. 3 in operation at 1.4.2009 insofar as not already in operation by [S.R. 2009/114](https://www.legislation.gov.uk/nisr/2009/114), [art. 2](https://www.legislation.gov.uk/nisr/2009/114/article/2)
 
-[^key-dd6d1f00d658695936182d1afb087c33]: Textual amendment: [Sch. 2 para. 3(3)](https://www.legislation.gov.uk/nia/2009/1/schedule/2/paragraph/3/3) substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [s. 3(1)](https://www.legislation.gov.uk/nia/2014/5/section/3/1)
+[^c-dd6d1f00d658695936182d1afb087c33]: Textual amendment: [Sch. 2 para. 3(3)](https://www.legislation.gov.uk/nia/2009/1/schedule/2/paragraph/3/3) substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [s. 3(1)](https://www.legislation.gov.uk/nia/2014/5/section/3/1)
 
 [^c19578901]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nia/2009/1/schedule/2/paragraph/6) wholly in operation at 1.4.2009; [Sch. 2 para. 6](https://www.legislation.gov.uk/nia/2009/1/schedule/2/paragraph/6) in operation for certain purposes at Royal Assent see [s. 34(2)(c)](https://www.legislation.gov.uk/nia/2009/1/section/34/2/c); [Sch. 2 para. 6](https://www.legislation.gov.uk/nia/2009/1/schedule/2/paragraph/6) in operation at 1.4.2009 insofar as not already in operation by [S.R. 2009/114](https://www.legislation.gov.uk/nisr/2009/114), [art. 2](https://www.legislation.gov.uk/nisr/2009/114/article/2)
 

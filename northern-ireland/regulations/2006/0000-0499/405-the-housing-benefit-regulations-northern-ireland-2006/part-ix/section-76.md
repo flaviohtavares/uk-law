@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 76. Date on which housing benefit is to end where entitlement to severe disablement allowance or incapacity benefit ceases[^key-d7ecbb46360da10581ad910de6bda90e]
+## 76. Date on which housing benefit is to end where entitlement to severe disablement allowance or incapacity benefit ceases[^c-d7ecbb46360da10581ad910de6bda90e]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d7ecbb46360da10581ad910de6bda90e]: Textual amendment: [Reg. 76](https://www.legislation.gov.uk/nisr/2006/405/regulation/76) omitted (6.10.2008) by virtue of [The Housing Benefit (Extended Payments) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/285)](https://www.legislation.gov.uk/nisr/2008/285), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/285/regulation/1/1), [2(6)(b)](https://www.legislation.gov.uk/nisr/2008/285/regulation/2/6/b)
+[^c-d7ecbb46360da10581ad910de6bda90e]: Textual amendment: [Reg. 76](https://www.legislation.gov.uk/nisr/2006/405/regulation/76) omitted (6.10.2008) by virtue of [The Housing Benefit (Extended Payments) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/285)](https://www.legislation.gov.uk/nisr/2008/285), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/285/regulation/1/1), [2(6)(b)](https://www.legislation.gov.uk/nisr/2008/285/regulation/2/6/b)

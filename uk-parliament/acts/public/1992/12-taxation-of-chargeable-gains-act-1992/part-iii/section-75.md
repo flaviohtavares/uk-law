@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-[^key-0a5db2e303045bac23a80052233d416e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0a5db2e303045bac23a80052233d416e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0a5db2e303045bac23a80052233d416e]: Textual amendment: S. 75 repealed (with effect in accordance with Sch. 39 of the amending Act) by [Finance Act 1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), [Sch. 41 Pt. VIII(4)](https://www.legislation.gov.uk/ukpga/1996/8/schedule/41/part/VIII/4)
+[^c-0a5db2e303045bac23a80052233d416e]: Textual amendment: S. 75 repealed (with effect in accordance with Sch. 39 of the amending Act) by [Finance Act 1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), [Sch. 41 Pt. VIII(4)](https://www.legislation.gov.uk/ukpga/1996/8/schedule/41/part/VIII/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Loans by the Secretary of State[^key-2682e78c39d69ab50fd89c5bb4abe06d]
+## 21. Loans by the Secretary of State[^c-2682e78c39d69ab50fd89c5bb4abe06d]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2682e78c39d69ab50fd89c5bb4abe06d]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2008/17/section/21) in force at 1.12.2008 by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(k)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/k) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-2682e78c39d69ab50fd89c5bb4abe06d]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2008/17/section/21) in force at 1.12.2008 by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(k)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/k) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))

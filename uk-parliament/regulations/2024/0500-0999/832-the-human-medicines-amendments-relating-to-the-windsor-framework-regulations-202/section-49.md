@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Amendment to regulation 60A[^key-19a1c7563d0694fb6e22dd1b89b0dcf2]
+## 49. Amendment to regulation 60A[^c-19a1c7563d0694fb6e22dd1b89b0dcf2]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,6 +47,6 @@ In regulation 60A (condition as to the submitting of samples and other informati
 
 ## Annotations
 
-[^key-19a1c7563d0694fb6e22dd1b89b0dcf2]: Commencement: [Reg. 49](https://www.legislation.gov.uk/uksi/2024/832/regulation/49) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-19a1c7563d0694fb6e22dd1b89b0dcf2]: Commencement: [Reg. 49](https://www.legislation.gov.uk/uksi/2024/832/regulation/49) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00060]: Footnote: Regulation 60A was inserted by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488).

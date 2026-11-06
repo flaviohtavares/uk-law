@@ -31,7 +31,7 @@ summary: ''
 
 FOOD
 
-The Foot-and-Mouth Disease (Marking of Meat, Meat Products, Minced Meat and Meat Preparations) (Scotland) Regulations 2001 (revoked)[^key-d5d745d0089aeb1938cfb193b23ebeb6]
+The Foot-and-Mouth Disease (Marking of Meat, Meat Products, Minced Meat and Meat Preparations) (Scotland) Regulations 2001 (revoked)[^c-d5d745d0089aeb1938cfb193b23ebeb6]
 
 Made
 
@@ -45,36 +45,36 @@ Coming into force
 
 12th November 2001
 
-[^key-d5d745d0089aeb1938cfb193b23ebeb6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d5d745d0089aeb1938cfb193b23ebeb6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-d5d745d0089aeb1938cfb193b23ebeb6]
+## 1. Citation, commencement and extent[^c-d5d745d0089aeb1938cfb193b23ebeb6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Meat Products (Hygiene) Regulations 1994[^key-d5d745d0089aeb1938cfb193b23ebeb6]
+## 2. Amendment to the Meat Products (Hygiene) Regulations 1994[^c-d5d745d0089aeb1938cfb193b23ebeb6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment to the Fresh Meat (Hygiene and Inspection) Regulations 1995[^key-d5d745d0089aeb1938cfb193b23ebeb6]
+## 3. Amendment to the Fresh Meat (Hygiene and Inspection) Regulations 1995[^c-d5d745d0089aeb1938cfb193b23ebeb6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment to the Minced Meat and Meat Preparations (Hygiene) Regulations 1995[^key-d5d745d0089aeb1938cfb193b23ebeb6]
+## 4. Amendment to the Minced Meat and Meat Preparations (Hygiene) Regulations 1995[^c-d5d745d0089aeb1938cfb193b23ebeb6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Revocation[^key-d5d745d0089aeb1938cfb193b23ebeb6]
+## 5. Revocation[^c-d5d745d0089aeb1938cfb193b23ebeb6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d5d745d0089aeb1938cfb193b23ebeb6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d5d745d0089aeb1938cfb193b23ebeb6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-d5d745d0089aeb1938cfb193b23ebeb6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d5d745d0089aeb1938cfb193b23ebeb6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d5d745d0089aeb1938cfb193b23ebeb6]: Textual amendment: Regulations revoked (1.2.2002 at 12 noon) by [The Import and Export Restrictions (Foot-and-Mouth Disease) (Scotland) (No. 3) Amendment (No. 2) Regulations 2002 (S.S.I. 2002/35)](https://www.legislation.gov.uk/ssi/2002/35), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2002/35/regulation/1/1), [6(2)](https://www.legislation.gov.uk/ssi/2002/35/regulation/6/2)
+[^c-d5d745d0089aeb1938cfb193b23ebeb6]: Textual amendment: Regulations revoked (1.2.2002 at 12 noon) by [The Import and Export Restrictions (Foot-and-Mouth Disease) (Scotland) (No. 3) Amendment (No. 2) Regulations 2002 (S.S.I. 2002/35)](https://www.legislation.gov.uk/ssi/2002/35), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2002/35/regulation/1/1), [6(2)](https://www.legislation.gov.uk/ssi/2002/35/regulation/6/2)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) This section applies where a dwelling-house is let by a housing action trust on a periodic tenancy which is not a secure tenancy,[^key-587a456c35b4388053932fd17ada5988] or an introductory tenancy[^key-63048d3f4d2626294f078aa27a251bb6].
+(1) This section applies where a dwelling-house is let by a housing action trust on a periodic tenancy which is not a secure tenancy,[^c-587a456c35b4388053932fd17ada5988] or an introductory tenancy[^c-63048d3f4d2626294f078aa27a251bb6].
 
 (2) The rent payable under the tenancy may, without the tenancy being terminated, be increased with effect from the beginning of a rental period by a written notice of increase given by the housing action trust to the tenant.
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-587a456c35b4388053932fd17ada5988]: Textual amendment: S. 86(1) comma inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [16(15)(a)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/16/15/a) (with savings and transitional provisions in [S.I. 2022/1172](https://www.legislation.gov.uk/uksi/2022/1172), [regs. 3](https://www.legislation.gov.uk/uksi/2022/1172/regulation/3), [10](https://www.legislation.gov.uk/uksi/2022/1172/regulation/10), [19](https://www.legislation.gov.uk/uksi/2022/1172/regulation/19))
+[^c-587a456c35b4388053932fd17ada5988]: Textual amendment: S. 86(1) comma inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [16(15)(a)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/16/15/a) (with savings and transitional provisions in [S.I. 2022/1172](https://www.legislation.gov.uk/uksi/2022/1172), [regs. 3](https://www.legislation.gov.uk/uksi/2022/1172/regulation/3), [10](https://www.legislation.gov.uk/uksi/2022/1172/regulation/10), [19](https://www.legislation.gov.uk/uksi/2022/1172/regulation/19))
 
-[^key-63048d3f4d2626294f078aa27a251bb6]: Textual amendment: Words in s. 86(1) substituted (10.9.2025) by [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 7(11)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/7/11)
+[^c-63048d3f4d2626294f078aa27a251bb6]: Textual amendment: Words in s. 86(1) substituted (10.9.2025) by [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 7(11)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/7/11)

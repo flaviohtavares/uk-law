@@ -31,7 +31,7 @@ who it appears to the Secretary of State may be destitute.
 
 (3) Subsections (2) to (11) of section 95 apply for the purposes of this section as they apply for the purposes of that section.
 
-(4)[^key-3283ee6bde845d0a9445002d8c0eb6a8] Subsection (3A) of section 97 applies to the power to provide, or arrange for the provision of, accommodation under this section as it applies to the power to do so under section 95.
+(4)[^c-3283ee6bde845d0a9445002d8c0eb6a8] Subsection (3A) of section 97 applies to the power to provide, or arrange for the provision of, accommodation under this section as it applies to the power to do so under section 95.
 
 ## Annotations
 
@@ -41,4 +41,4 @@ who it appears to the Secretary of State may be destitute.
 
     [S. 98](https://www.legislation.gov.uk/ukpga/1999/33/section/98) restricted (prosp.) by [Nationality, Immigration and Asylum Act 2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41), [ss. 51](https://www.legislation.gov.uk/ukpga/2002/41/section/51), [162(1)](https://www.legislation.gov.uk/ukpga/2002/41/section/162/1) (with [s. 159](https://www.legislation.gov.uk/ukpga/2002/41/section/159))
 
-[^key-3283ee6bde845d0a9445002d8c0eb6a8]: Textual amendment: [S. 98(4)](https://www.legislation.gov.uk/ukpga/1999/33/section/98/4) inserted (28.6.2022) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 13(3)](https://www.legislation.gov.uk/ukpga/2022/36/section/13/3), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/11)
+[^c-3283ee6bde845d0a9445002d8c0eb6a8]: Textual amendment: [S. 98(4)](https://www.legislation.gov.uk/ukpga/1999/33/section/98/4) inserted (28.6.2022) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 13(3)](https://www.legislation.gov.uk/ukpga/2022/36/section/13/3), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/11)

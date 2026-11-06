@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 351A. Variation, renewal or discharge of sexual harm prevention order by court in Scotland[^key-867b98d49961787844eabdd7b66a3537]
+## 351A. Variation, renewal or discharge of sexual harm prevention order by court in Scotland[^c-867b98d49961787844eabdd7b66a3537]
 
 *Extent: E+W+S*
 
@@ -73,4 +73,4 @@ This is subject to subsections (5) to (8).
 
 ## Annotations
 
-[^key-867b98d49961787844eabdd7b66a3537]: Textual amendment: [S. 351A](https://www.legislation.gov.uk/ukpga/2020/17/section/351A) inserted (31.3.2023) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1), [Sch. 18 para. 5](https://www.legislation.gov.uk/ukpga/2022/32/schedule/18/paragraph/5); [S.I. 2023/387](https://www.legislation.gov.uk/uksi/2023/387), [reg. 3(g)(ii)](https://www.legislation.gov.uk/uksi/2023/387/regulation/3/g/ii)
+[^c-867b98d49961787844eabdd7b66a3537]: Textual amendment: [S. 351A](https://www.legislation.gov.uk/ukpga/2020/17/section/351A) inserted (31.3.2023) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1), [Sch. 18 para. 5](https://www.legislation.gov.uk/ukpga/2022/32/schedule/18/paragraph/5); [S.I. 2023/387](https://www.legislation.gov.uk/uksi/2023/387), [reg. 3(g)(ii)](https://www.legislation.gov.uk/uksi/2023/387/regulation/3/g/ii)

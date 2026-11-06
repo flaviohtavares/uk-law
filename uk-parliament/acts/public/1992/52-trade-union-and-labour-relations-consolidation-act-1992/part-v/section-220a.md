@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 220A. Union supervision of picketing[^key-0e667ac54f992e422e074ec102984896]
+## 220A. Union supervision of picketing[^c-0e667ac54f992e422e074ec102984896]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0e667ac54f992e422e074ec102984896]: Textual amendment: S. 220A omitted (18.2.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 75(1)(b)](https://www.legislation.gov.uk/ukpga/2025/36/section/75/1/b), [159(2)(l)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/2/l)
+[^c-0e667ac54f992e422e074ec102984896]: Textual amendment: S. 220A omitted (18.2.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 75(1)(b)](https://www.legislation.gov.uk/ukpga/2025/36/section/75/1/b), [159(2)(l)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/2/l)

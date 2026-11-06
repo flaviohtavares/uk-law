@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 82. Rule Committee: procedure etc.[^key-9214983e4b8e36a732c0b44e9714185d]
+## 82. Rule Committee: procedure etc.[^c-9214983e4b8e36a732c0b44e9714185d]
 
 *Extent: E*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9214983e4b8e36a732c0b44e9714185d]: Commencement: [S. 82](https://www.legislation.gov.uk/ukcm/2018/3/section/82) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-9214983e4b8e36a732c0b44e9714185d]: Commencement: [S. 82](https://www.legislation.gov.uk/ukcm/2018/3/section/82) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)

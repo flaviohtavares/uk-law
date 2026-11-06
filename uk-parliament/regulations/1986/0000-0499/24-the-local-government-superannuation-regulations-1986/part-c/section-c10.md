@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## C10. Statement of remuneration received otherwise than from employing authority[^key-82cb74533fd540d04da2567d4e7c28c2]
+## C10. Statement of remuneration received otherwise than from employing authority[^c-82cb74533fd540d04da2567d4e7c28c2]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-82cb74533fd540d04da2567d4e7c28c2]: Commencement: [Reg. C10](https://www.legislation.gov.uk/uksi/1986/24/regulation/C10) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-82cb74533fd540d04da2567d4e7c28c2]: Commencement: [Reg. C10](https://www.legislation.gov.uk/uksi/1986/24/regulation/C10) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

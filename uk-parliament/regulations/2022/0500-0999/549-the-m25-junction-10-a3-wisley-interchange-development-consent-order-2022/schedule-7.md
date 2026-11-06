@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 7 — LAND OF WHICH TEMPORARY POSSESSION MAY BE TAKEN[^key-f4f237c6959d211de9112c85a215964f]
+## SCHEDULE 7 — LAND OF WHICH TEMPORARY POSSESSION MAY BE TAKEN[^c-f4f237c6959d211de9112c85a215964f]
 
 *Extent: E+W*
 
@@ -153,10 +153,10 @@ Article 32
 </tbody>
 </table>
 
-[^key-b0ace6c55f3c967e077193aeb0c04d6a]
+[^c-b0ace6c55f3c967e077193aeb0c04d6a]
 
 ## Annotations
 
-[^key-f4f237c6959d211de9112c85a215964f]: Commencement: Sch. 7 in force at 2.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/549/article/1)
+[^c-f4f237c6959d211de9112c85a215964f]: Commencement: Sch. 7 in force at 2.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/549/article/1)
 
-[^key-b0ace6c55f3c967e077193aeb0c04d6a]: Textual amendment: Words in [Sch. 7](https://www.legislation.gov.uk/uksi/2022/549/schedule/7) inserted (19.1.2023) by [The M25 Junction 10/A3 Wisley Interchange Development Consent (Correction) Order 2023 (S.I. 2023/46)](https://www.legislation.gov.uk/uksi/2023/46), [arts. 1](https://www.legislation.gov.uk/uksi/2023/46/article/1), [2(11)](https://www.legislation.gov.uk/uksi/2023/46/article/2/11)
+[^c-b0ace6c55f3c967e077193aeb0c04d6a]: Textual amendment: Words in [Sch. 7](https://www.legislation.gov.uk/uksi/2022/549/schedule/7) inserted (19.1.2023) by [The M25 Junction 10/A3 Wisley Interchange Development Consent (Correction) Order 2023 (S.I. 2023/46)](https://www.legislation.gov.uk/uksi/2023/46), [arts. 1](https://www.legislation.gov.uk/uksi/2023/46/article/1), [2(11)](https://www.legislation.gov.uk/uksi/2023/46/article/2/11)

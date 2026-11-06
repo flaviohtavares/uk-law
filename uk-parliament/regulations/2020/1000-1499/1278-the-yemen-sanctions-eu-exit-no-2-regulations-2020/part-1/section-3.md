@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Application of prohibitions and requirements outside the United Kingdom[^key-c58a3abb904d18c4933189c1dc0b1a81][^key-851c31d3d235ba782ecf27d90d465089]
+## 3. Application of prohibitions and requirements outside the United Kingdom[^c-c58a3abb904d18c4933189c1dc0b1a81][^c-851c31d3d235ba782ecf27d90d465089]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c58a3abb904d18c4933189c1dc0b1a81]: Commencement: Reg. 3 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/1/2)
+[^c-c58a3abb904d18c4933189c1dc0b1a81]: Commencement: Reg. 3 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/1/2)
 
-[^key-851c31d3d235ba782ecf27d90d465089]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2020/1278/regulation/3) in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 20(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/20/2)
+[^c-851c31d3d235ba782ecf27d90d465089]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2020/1278/regulation/3) in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 20(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/20/2)

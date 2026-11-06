@@ -48,7 +48,7 @@ Articles 4, 5, 8 and 31.
 
 **13.** A person, on payment of a fee to a sporting club in respect of any day may use, on that day, such facilities as the management committee or governing body of the club may determine and paragraph I2 shall not apply to that person in respect of that day.
 
-**13A.**[^key-4459c88589617ec1ce1ce80500467b41] But paragraph 13 entitles a person to use facilities of the club on the day in question only if the person also engages in sporting activities of the club on that day; and paragraph 14 applies subject to this paragraph.
+**13A.**[^c-4459c88589617ec1ce1ce80500467b41] But paragraph 13 entitles a person to use facilities of the club on the day in question only if the person also engages in sporting activities of the club on that day; and paragraph 14 applies subject to this paragraph.
 
 **14.** A member shall be responsible for his guest strictly observing the rules and shall not leave the club premises before his guest and a guest shall not he supplied with intoxicating liquor in the club premises unless upon invitation and in the company of a member.
 
@@ -66,4 +66,4 @@ Articles 4, 5, 8 and 31.
 
 [^c17050281]: Textual amendment: [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33)
 
-[^key-4459c88589617ec1ce1ce80500467b41]: Textual amendment: [Sch. 1 para. 13A](https://www.legislation.gov.uk/nisi/1996/3159/schedule/1/paragraph/13A) inserted (1.10.2021) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2), [Sch. 1 para. 19](https://www.legislation.gov.uk/nia/2021/7/schedule/1/paragraph/19); [S.R. 2021/247](https://www.legislation.gov.uk/nisr/2021/247), [art. 2](https://www.legislation.gov.uk/nisr/2021/247/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2021/247/schedule)
+[^c-4459c88589617ec1ce1ce80500467b41]: Textual amendment: [Sch. 1 para. 13A](https://www.legislation.gov.uk/nisi/1996/3159/schedule/1/paragraph/13A) inserted (1.10.2021) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2), [Sch. 1 para. 19](https://www.legislation.gov.uk/nia/2021/7/schedule/1/paragraph/19); [S.R. 2021/247](https://www.legislation.gov.uk/nisr/2021/247), [art. 2](https://www.legislation.gov.uk/nisr/2021/247/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2021/247/schedule)

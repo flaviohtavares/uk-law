@@ -51,7 +51,7 @@ This instrument satisfies the requirements of paragraph 38 of Schedule 4 to the 
 (2) In these regulations—
 
 - “**the Act**” means the Social Security and Housing Benefits Act 1982;
-- “the[^key-643b36f359ad3cee61cd5251168bf0ea] Contributions and Benefits Act” means the Social Security Contributions and Benefits Act 1992;
+- “the[^c-643b36f359ad3cee61cd5251168bf0ea] Contributions and Benefits Act” means the Social Security Contributions and Benefits Act 1992;
 - “the Contributions Regulations” means the Social Security (Contributions) Regulations 1979;
 - “**Part I**” means Part I of the Act;
 - “**the General Regulations**” means the Statutory Sick Pay (General) Regulations 1982;
@@ -83,19 +83,19 @@ In regulations 7 and 12—
 In this regulation and regulations 8 and 13—
 
 - “**designated area**” means any area which may from time to time be designated by Order in Council under the Continental Shelf Act 1964 as an area within which the rights of the United Kingdom with respect to the sea-bed and subsoil and their natural resources may be exercised;
-- “**prescribed area**” means an area over which Norway or any member State [^key-d495e80bf90a52af85576e194b197754]... exercises sovereign rights for the purpose of exploring the seabed and subsoil and exploiting their natural resources, being an area outside the territorial seas of Norway or that member State or any other area which is from time to time specified under section 22(5) of the Oil and Gas (Enterprise) Act 1982[^key-3719850fe75a4431cacd1c2ce50d915a];
+- “**prescribed area**” means an area over which Norway or any member State [^c-d495e80bf90a52af85576e194b197754]... exercises sovereign rights for the purpose of exploring the seabed and subsoil and exploiting their natural resources, being an area outside the territorial seas of Norway or that member State or any other area which is from time to time specified under section 22(5) of the Oil and Gas (Enterprise) Act 1982[^c-3719850fe75a4431cacd1c2ce50d915a];
 - “**prescribed employment**” means employment in a designated area or prescribed area in connection with the exploration of the seabed and subsoil and the exploitation of the natural resources of that area.
 
-## 5. Persons in ... member States—meaning of “employee”[^key-1f46a0161d2e0beaf397df3664737edd]
+## 5. Persons in ... member States—meaning of “employee”[^c-1f46a0161d2e0beaf397df3664737edd]
 
 Subject to regulations 6(2), 7(2) and 9, a person who is—
 
-- (a) gainfully employed in a member State [^key-ca253542266771d1b51fb436d108fc14]... in such circumstances that if his employment were in Great Britain he would be an employee for the purposes of Part I or a person treated as such an employee under regulation 16 of the General Regulations; and
-- (b) subject to the legislation of the United Kingdom under Council Regulation [(EEC) No. 1408/71](https://www.legislation.gov.uk/european/regulation/1971/1408)[^f00002] , as amended from time to time, or Regulation[^key-6be0209b6bd030e02eaca027fdb7a388] [(EC) No. 883/2004](https://www.legislation.gov.uk/european/regulation/2004/0883) of the European Parliament and of the Council of 29 April 2004, as amended from time to time, on the coordination of social security systems;
+- (a) gainfully employed in a member State [^c-ca253542266771d1b51fb436d108fc14]... in such circumstances that if his employment were in Great Britain he would be an employee for the purposes of Part I or a person treated as such an employee under regulation 16 of the General Regulations; and
+- (b) subject to the legislation of the United Kingdom under Council Regulation [(EEC) No. 1408/71](https://www.legislation.gov.uk/european/regulation/1971/1408)[^f00002] , as amended from time to time, or Regulation[^c-6be0209b6bd030e02eaca027fdb7a388] [(EC) No. 883/2004](https://www.legislation.gov.uk/european/regulation/2004/0883) of the European Parliament and of the Council of 29 April 2004, as amended from time to time, on the coordination of social security systems;
 
 notwithstanding that he is not employed in Great Britain, shall be treated as an employee for the purposes of Part I.
 
-## 5A. Persons absent from Great Britain—meaning of “employee”[^key-053bcb548f020625aec28f99f05708dc]
+## 5A. Persons absent from Great Britain—meaning of “employee”[^c-053bcb548f020625aec28f99f05708dc]
 
 Subject to regulations 5, 6(2), 7(2) and 9, where a person, while absent from Great Britain for any purpose, is gainfully employed by an employer who is liable to pay in respect of him secondary Class 1 contributions under section 6 of the Contributions and Benefits Act 1992 or regulation 120 of the Contributions Regulations, he shall be treated as an employee for the purposes of Part XI of the Contributions and Benefits Act.
 
@@ -146,19 +146,19 @@ Subject to regulation 9, a person in prescribed employment, notwithstanding that
 
 No person who, by virtue of regulation 16 of the General Regulations, would not be treated as an employee for the purposes of Part I if his employment were in Great Britain, shall be treated as an employee by virtue of any of regulations 5 to 8.
 
-## 10. Persons abroad—period of entitlement ending or not arising[^key-3813b90a8b4a434a6858211dbcba320f]
+## 10. Persons abroad—period of entitlement ending or not arising[^c-3813b90a8b4a434a6858211dbcba320f]
 
 In a case where a mariner, an airman or a continental shelf employee, respectively, within the meaning of regulation 6(1), 7 or 8, or a person who, is an employee or, is treated as an employee under regulation 5 or 5A, is incapable of work during a period of entitlement to statutory sick pay while absent from Great Britain, his entitlement to statutory sick pay shall cease only if he fails to satisfy the conditions of entitlement under Part XI of the Contributions and Benefits Act notwithstanding that his employer ceases, during the period of entitlement, to be liable to pay, in respect of him, secondary Class 1 contributions under section 6 of the Contributions and Benefits Act or regulation 120 of the Contributions Regulations.
 
-## 11. Mariners—exception to regulation 10[^key-840cb072e25786bdcbde0507ae5c763b]
+## 11. Mariners—exception to regulation 10[^c-840cb072e25786bdcbde0507ae5c763b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Airmen—exception to regulation 10[^key-15f3d71fad89e813a609a7d5a5493168]
+## 12. Airmen—exception to regulation 10[^c-15f3d71fad89e813a609a7d5a5493168]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Continental shelf—exception to regulation 10[^key-3cad13ea95bfec3303d0ed271f0a5555]
+## 13. Continental shelf—exception to regulation 10[^c-3cad13ea95bfec3303d0ed271f0a5555]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -188,28 +188,28 @@ Some of the requirements of Part I of the Act and regulations made under it impo
 
 ## Annotations
 
-[^key-643b36f359ad3cee61cd5251168bf0ea]: Textual amendment: Words in reg. 1(2) inserted (6.4.1996) by [The Social Security Contributions, Statutory Maternity Pay and Statutory Sick Pay (Miscellaneous Amendments) Regulations 1996 (S.I. 1996/777)](https://www.legislation.gov.uk/uksi/1996/777), [regs. 1](https://www.legislation.gov.uk/uksi/1996/777/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/1996/777/regulation/3/2)
+[^c-643b36f359ad3cee61cd5251168bf0ea]: Textual amendment: Words in reg. 1(2) inserted (6.4.1996) by [The Social Security Contributions, Statutory Maternity Pay and Statutory Sick Pay (Miscellaneous Amendments) Regulations 1996 (S.I. 1996/777)](https://www.legislation.gov.uk/uksi/1996/777), [regs. 1](https://www.legislation.gov.uk/uksi/1996/777/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/1996/777/regulation/3/2)
 
 [^f00001]: Footnote: to which there are amendments not relevant to these regulations.
 
-[^key-d495e80bf90a52af85576e194b197754]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/1982/1349/regulation/4) omitted (31.12.2020) by virtue of [The Social Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/128)](https://www.legislation.gov.uk/uksi/2019/128), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/128/regulation/1/2), [Sch. para. 3(2)](https://www.legislation.gov.uk/uksi/2019/128/schedule/paragraph/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d495e80bf90a52af85576e194b197754]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/1982/1349/regulation/4) omitted (31.12.2020) by virtue of [The Social Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/128)](https://www.legislation.gov.uk/uksi/2019/128), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/128/regulation/1/2), [Sch. para. 3(2)](https://www.legislation.gov.uk/uksi/2019/128/schedule/paragraph/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3719850fe75a4431cacd1c2ce50d915a]: Textual amendment: Words in reg. 4 added (6.4.1983) by [The Social Security and Statutory Sick Pay (Oil and Gas (Enterprise) Act 1982) (Consequential) Regulations 1982 (S.I. 1982/1738)](https://www.legislation.gov.uk/uksi/1982/1738), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1982/1738/regulation/1/1), [5(a)](https://www.legislation.gov.uk/uksi/1982/1738/regulation/5/a)
+[^c-3719850fe75a4431cacd1c2ce50d915a]: Textual amendment: Words in reg. 4 added (6.4.1983) by [The Social Security and Statutory Sick Pay (Oil and Gas (Enterprise) Act 1982) (Consequential) Regulations 1982 (S.I. 1982/1738)](https://www.legislation.gov.uk/uksi/1982/1738), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1982/1738/regulation/1/1), [5(a)](https://www.legislation.gov.uk/uksi/1982/1738/regulation/5/a)
 
-[^key-1f46a0161d2e0beaf397df3664737edd]: Textual amendment: Word in [reg. 5](https://www.legislation.gov.uk/uksi/1982/1349/regulation/5) title omitted (31.12.2020) by virtue of [The Social Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/128)](https://www.legislation.gov.uk/uksi/2019/128), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/128/regulation/1/2), [Sch. para. 3(3)(a)](https://www.legislation.gov.uk/uksi/2019/128/schedule/paragraph/3/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1f46a0161d2e0beaf397df3664737edd]: Textual amendment: Word in [reg. 5](https://www.legislation.gov.uk/uksi/1982/1349/regulation/5) title omitted (31.12.2020) by virtue of [The Social Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/128)](https://www.legislation.gov.uk/uksi/2019/128), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/128/regulation/1/2), [Sch. para. 3(3)(a)](https://www.legislation.gov.uk/uksi/2019/128/schedule/paragraph/3/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ca253542266771d1b51fb436d108fc14]: Textual amendment: Words in [reg. 5(a)](https://www.legislation.gov.uk/uksi/1982/1349/regulation/5/a) omitted (31.12.2020) by virtue of [The Social Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/128)](https://www.legislation.gov.uk/uksi/2019/128), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/128/regulation/1/2), [Sch. para. 3(3)(b)](https://www.legislation.gov.uk/uksi/2019/128/schedule/paragraph/3/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ca253542266771d1b51fb436d108fc14]: Textual amendment: Words in [reg. 5(a)](https://www.legislation.gov.uk/uksi/1982/1349/regulation/5/a) omitted (31.12.2020) by virtue of [The Social Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/128)](https://www.legislation.gov.uk/uksi/2019/128), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/128/regulation/1/2), [Sch. para. 3(3)(b)](https://www.legislation.gov.uk/uksi/2019/128/schedule/paragraph/3/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00002]: Footnote: (O.J.S.E. 1971 (II) p. 416).
 
-[^key-6be0209b6bd030e02eaca027fdb7a388]: Textual amendment: Words in [reg. 5(b)](https://www.legislation.gov.uk/uksi/1982/1349/regulation/5/b) inserted (15.11.2018) by [The Social Security (Updating of EU References) (Amendment) Regulations 2018 (S.I. 2018/1084)](https://www.legislation.gov.uk/uksi/2018/1084), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1084/regulation/1), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2018/1084/schedule/paragraph/2)
+[^c-6be0209b6bd030e02eaca027fdb7a388]: Textual amendment: Words in [reg. 5(b)](https://www.legislation.gov.uk/uksi/1982/1349/regulation/5/b) inserted (15.11.2018) by [The Social Security (Updating of EU References) (Amendment) Regulations 2018 (S.I. 2018/1084)](https://www.legislation.gov.uk/uksi/2018/1084), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1084/regulation/1), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2018/1084/schedule/paragraph/2)
 
-[^key-053bcb548f020625aec28f99f05708dc]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/uksi/1982/1349/regulation/5A) inserted (6.4.1996) by [The Social Security Contributions, Statutory Maternity Pay and Statutory Sick Pay (Miscellaneous Amendments) Regulations 1996 (S.I. 1996/777)](https://www.legislation.gov.uk/uksi/1996/777), [regs. 1](https://www.legislation.gov.uk/uksi/1996/777/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/1996/777/regulation/3/3)
+[^c-053bcb548f020625aec28f99f05708dc]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/uksi/1982/1349/regulation/5A) inserted (6.4.1996) by [The Social Security Contributions, Statutory Maternity Pay and Statutory Sick Pay (Miscellaneous Amendments) Regulations 1996 (S.I. 1996/777)](https://www.legislation.gov.uk/uksi/1996/777), [regs. 1](https://www.legislation.gov.uk/uksi/1996/777/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/1996/777/regulation/3/3)
 
-[^key-3813b90a8b4a434a6858211dbcba320f]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/1982/1349/regulation/10) substituted (6.4.1996) by [The Social Security Contributions, Statutory Maternity Pay and Statutory Sick Pay (Miscellaneous Amendments) Regulations 1996 (S.I. 1996/777)](https://www.legislation.gov.uk/uksi/1996/777), [regs. 1](https://www.legislation.gov.uk/uksi/1996/777/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/1996/777/regulation/3/4)
+[^c-3813b90a8b4a434a6858211dbcba320f]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/1982/1349/regulation/10) substituted (6.4.1996) by [The Social Security Contributions, Statutory Maternity Pay and Statutory Sick Pay (Miscellaneous Amendments) Regulations 1996 (S.I. 1996/777)](https://www.legislation.gov.uk/uksi/1996/777), [regs. 1](https://www.legislation.gov.uk/uksi/1996/777/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/1996/777/regulation/3/4)
 
-[^key-840cb072e25786bdcbde0507ae5c763b]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/1982/1349/regulation/11) omitted (6.4.1996) by virtue of [The Social Security Contributions, Statutory Maternity Pay and Statutory Sick Pay (Miscellaneous Amendments) Regulations 1996 (S.I. 1996/777)](https://www.legislation.gov.uk/uksi/1996/777), [regs. 1](https://www.legislation.gov.uk/uksi/1996/777/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/1996/777/regulation/3/5)
+[^c-840cb072e25786bdcbde0507ae5c763b]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/1982/1349/regulation/11) omitted (6.4.1996) by virtue of [The Social Security Contributions, Statutory Maternity Pay and Statutory Sick Pay (Miscellaneous Amendments) Regulations 1996 (S.I. 1996/777)](https://www.legislation.gov.uk/uksi/1996/777), [regs. 1](https://www.legislation.gov.uk/uksi/1996/777/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/1996/777/regulation/3/5)
 
-[^key-15f3d71fad89e813a609a7d5a5493168]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/uksi/1982/1349/regulation/12) omitted (6.4.1996) by virtue of [The Social Security Contributions, Statutory Maternity Pay and Statutory Sick Pay (Miscellaneous Amendments) Regulations 1996 (S.I. 1996/777)](https://www.legislation.gov.uk/uksi/1996/777), [regs. 1](https://www.legislation.gov.uk/uksi/1996/777/regulation/1), [3(6)](https://www.legislation.gov.uk/uksi/1996/777/regulation/3/6)
+[^c-15f3d71fad89e813a609a7d5a5493168]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/uksi/1982/1349/regulation/12) omitted (6.4.1996) by virtue of [The Social Security Contributions, Statutory Maternity Pay and Statutory Sick Pay (Miscellaneous Amendments) Regulations 1996 (S.I. 1996/777)](https://www.legislation.gov.uk/uksi/1996/777), [regs. 1](https://www.legislation.gov.uk/uksi/1996/777/regulation/1), [3(6)](https://www.legislation.gov.uk/uksi/1996/777/regulation/3/6)
 
-[^key-3cad13ea95bfec3303d0ed271f0a5555]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/uksi/1982/1349/regulation/13) omitted (6.4.1996) by virtue of [The Social Security Contributions, Statutory Maternity Pay and Statutory Sick Pay (Miscellaneous Amendments) Regulations 1996 (S.I. 1996/777)](https://www.legislation.gov.uk/uksi/1996/777), [regs. 1](https://www.legislation.gov.uk/uksi/1996/777/regulation/1), [3(7)](https://www.legislation.gov.uk/uksi/1996/777/regulation/3/7)
+[^c-3cad13ea95bfec3303d0ed271f0a5555]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/uksi/1982/1349/regulation/13) omitted (6.4.1996) by virtue of [The Social Security Contributions, Statutory Maternity Pay and Statutory Sick Pay (Miscellaneous Amendments) Regulations 1996 (S.I. 1996/777)](https://www.legislation.gov.uk/uksi/1996/777), [regs. 1](https://www.legislation.gov.uk/uksi/1996/777/regulation/1), [3(7)](https://www.legislation.gov.uk/uksi/1996/777/regulation/3/7)

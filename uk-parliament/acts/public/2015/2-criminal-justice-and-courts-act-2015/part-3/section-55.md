@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Duty to review criminal courts charge[^key-7b659f7b2a20f1e6087b3c1dc1a20091]
+## 55. Duty to review criminal courts charge[^c-7b659f7b2a20f1e6087b3c1dc1a20091]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7b659f7b2a20f1e6087b3c1dc1a20091]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2015/2/section/55) in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 45](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/45)
+[^c-7b659f7b2a20f1e6087b3c1dc1a20091]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2015/2/section/55) in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 45](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/45)

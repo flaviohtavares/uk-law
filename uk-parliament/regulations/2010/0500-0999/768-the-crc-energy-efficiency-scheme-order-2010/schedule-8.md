@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 8 — Achievement and performance tables[^key-b7a52f3626210c3787e0acdbaaaa5a08]
+## SCHEDULE 8 — Achievement and performance tables[^c-b7a52f3626210c3787e0acdbaaaa5a08]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,26 +24,26 @@ summary: ''
 
 Article 75
 
-### 1. Absolute change in CRC emissions[^key-b7a52f3626210c3787e0acdbaaaa5a08]
+### 1. Absolute change in CRC emissions[^c-b7a52f3626210c3787e0acdbaaaa5a08]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Relative change in CRC emissions[^key-b7a52f3626210c3787e0acdbaaaa5a08]
+### 2. Relative change in CRC emissions[^c-b7a52f3626210c3787e0acdbaaaa5a08]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Historic average of CRC emissions and reported or determined CRC emissions[^key-b7a52f3626210c3787e0acdbaaaa5a08]
+### 3. Historic average of CRC emissions and reported or determined CRC emissions[^c-b7a52f3626210c3787e0acdbaaaa5a08]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Adjustments to CRC emissions[^key-b7a52f3626210c3787e0acdbaaaa5a08]
+### 4. Adjustments to CRC emissions[^c-b7a52f3626210c3787e0acdbaaaa5a08]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Early action[^key-b7a52f3626210c3787e0acdbaaaa5a08]
+### 5. Early action[^c-b7a52f3626210c3787e0acdbaaaa5a08]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b7a52f3626210c3787e0acdbaaaa5a08]: Textual amendment: Order revoked (with savings) (20.5.2013 and 1.4.2019 in so far as not already in force) by [The CRC Energy Efficiency Scheme Order 2013 (revoked) 2013 (S.I. 2013/1119)](https://www.legislation.gov.uk/uksi/2013/1119), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1119/article/1), [96(1)(2)](https://www.legislation.gov.uk/uksi/2013/1119/article/96/1/2) (with [arts. 2(2)](https://www.legislation.gov.uk/uksi/2013/1119/article/2/2), [86](https://www.legislation.gov.uk/uksi/2013/1119/article/86))
+[^c-b7a52f3626210c3787e0acdbaaaa5a08]: Textual amendment: Order revoked (with savings) (20.5.2013 and 1.4.2019 in so far as not already in force) by [The CRC Energy Efficiency Scheme Order 2013 (revoked) 2013 (S.I. 2013/1119)](https://www.legislation.gov.uk/uksi/2013/1119), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1119/article/1), [96(1)(2)](https://www.legislation.gov.uk/uksi/2013/1119/article/96/1/2) (with [arts. 2(2)](https://www.legislation.gov.uk/uksi/2013/1119/article/2/2), [86](https://www.legislation.gov.uk/uksi/2013/1119/article/86))

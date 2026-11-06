@@ -22,7 +22,7 @@ summary: ''
 
 (1) A “stop notice” is a notice prohibiting a person from carrying on an activity specified in the notice until the person has taken the steps specified in the notice.
 
-(2) If the appropriate body[^key-66c136c6cebd91280b7a4ea96e1a0c99] considers that a person is carrying on an activity in contravention of regulation 12(1), 13(2)[^key-11b209908c3b8b3a2b105c7e2dcedb20], 14(1) or 25 it may serve a stop notice on that person.
+(2) If the appropriate body[^c-66c136c6cebd91280b7a4ea96e1a0c99] considers that a person is carrying on an activity in contravention of regulation 12(1), 13(2)[^c-11b209908c3b8b3a2b105c7e2dcedb20], 14(1) or 25 it may serve a stop notice on that person.
 
 (3) If a regulation authority considers that a person is carrying on an activity in contravention of section 1 of the 1989 Act it may serve a stop notice on that person.
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-66c136c6cebd91280b7a4ea96e1a0c99]: Textual amendment: Words in regs. 37-40 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 409](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/409) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-66c136c6cebd91280b7a4ea96e1a0c99]: Textual amendment: Words in regs. 37-40 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 409](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/409) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-11b209908c3b8b3a2b105c7e2dcedb20]: Textual amendment: Word in reg. 39(2) substituted (1.10.2012) by [The Waste (England and Wales) (Amendment) Regulations 2012 (S.I. 2012/1889)](https://www.legislation.gov.uk/uksi/2012/1889), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/1889/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2012/1889/regulation/2/4)
+[^c-11b209908c3b8b3a2b105c7e2dcedb20]: Textual amendment: Word in reg. 39(2) substituted (1.10.2012) by [The Waste (England and Wales) (Amendment) Regulations 2012 (S.I. 2012/1889)](https://www.legislation.gov.uk/uksi/2012/1889), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/1889/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2012/1889/regulation/2/4)

@@ -33,7 +33,7 @@ The person who obtains the option is, in that capacity, called “the recipient�
 (2) A business is within this subsection so far as—
 
 - (a) the business is carried on by the employing company, and
-- (b) the employing company is within the charge to corporation tax in relation to the profits of the business “ or would be but for section 18A[^key-e0c0c1d321f03b0c2d6424c3254f68f6].
+- (b) the employing company is within the charge to corporation tax in relation to the profits of the business “ or would be but for section 18A[^c-e0c0c1d321f03b0c2d6424c3254f68f6].
 
 (3) If—
 
@@ -44,4 +44,4 @@ this Chapter applies as if the recipient were alive and the shares were acquired
 
 ## Annotations
 
-[^key-e0c0c1d321f03b0c2d6424c3254f68f6]: Textual amendment: Words in s. 1015(2)(b) inserted (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 13 paras. 10](https://www.legislation.gov.uk/ukpga/2011/11/schedule/13/paragraph/10), [31](https://www.legislation.gov.uk/ukpga/2011/11/schedule/13/paragraph/31)
+[^c-e0c0c1d321f03b0c2d6424c3254f68f6]: Textual amendment: Words in s. 1015(2)(b) inserted (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 13 paras. 10](https://www.legislation.gov.uk/ukpga/2011/11/schedule/13/paragraph/10), [31](https://www.legislation.gov.uk/ukpga/2011/11/schedule/13/paragraph/31)

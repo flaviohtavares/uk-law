@@ -32,7 +32,7 @@ summary: ''
 
 Financial Services And Markets
 
-The Banking Act 2009 (Exclusion of Investment Firms of a Specified Description) Order 2014 (revoked)[^key-0299aeb9597ff5cac7016d8d762fc871]
+The Banking Act 2009 (Exclusion of Investment Firms of a Specified Description) Order 2014 (revoked)[^c-0299aeb9597ff5cac7016d8d762fc871]
 
 Made
 
@@ -42,24 +42,24 @@ Coming into force
 
 1st August 2014
 
-[^key-0299aeb9597ff5cac7016d8d762fc871]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0299aeb9597ff5cac7016d8d762fc871]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-0299aeb9597ff5cac7016d8d762fc871]
+## 1. Citation and commencement[^c-0299aeb9597ff5cac7016d8d762fc871]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Description of institution not included within the meaning of “investment firm”[^key-0299aeb9597ff5cac7016d8d762fc871]
+## 2. Description of institution not included within the meaning of “investment firm”[^c-0299aeb9597ff5cac7016d8d762fc871]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0299aeb9597ff5cac7016d8d762fc871]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0299aeb9597ff5cac7016d8d762fc871]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-0299aeb9597ff5cac7016d8d762fc871]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0299aeb9597ff5cac7016d8d762fc871]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0299aeb9597ff5cac7016d8d762fc871]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2014/1832) revoked (17.8.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2022 (S.I. 2022/838)](https://www.legislation.gov.uk/uksi/2022/838), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/838/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2022/838/regulation/10) (with [regs. 24-26](https://www.legislation.gov.uk/uksi/2022/838/regulation/24))
+[^c-0299aeb9597ff5cac7016d8d762fc871]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2014/1832) revoked (17.8.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2022 (S.I. 2022/838)](https://www.legislation.gov.uk/uksi/2022/838), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/838/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2022/838/regulation/10) (with [regs. 24-26](https://www.legislation.gov.uk/uksi/2022/838/regulation/24))

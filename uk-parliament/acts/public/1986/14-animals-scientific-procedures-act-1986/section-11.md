@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Failure to comply with licence conditions etc[^c1016521][^key-92c099114b670b8c75a739dca91dbad1]
+## 11. Failure to comply with licence conditions etc[^c1016521][^c-92c099114b670b8c75a739dca91dbad1]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ the Secretary of State may take that action (whether or not a compliance notice 
 
 [^c1016521]: Extent: In its application to Northern Ireland, this section has effect subject to the modifications set out in s. 29, see s. 29(1)
 
-[^key-92c099114b670b8c75a739dca91dbad1]: Textual amendment: S. 11 substituted (1.1.2013) by [The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039)](https://www.legislation.gov.uk/uksi/2012/3039), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2012/3039/regulation/11) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2012/3039/schedule/3))
+[^c-92c099114b670b8c75a739dca91dbad1]: Textual amendment: S. 11 substituted (1.1.2013) by [The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039)](https://www.legislation.gov.uk/uksi/2012/3039), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2012/3039/regulation/11) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2012/3039/schedule/3))

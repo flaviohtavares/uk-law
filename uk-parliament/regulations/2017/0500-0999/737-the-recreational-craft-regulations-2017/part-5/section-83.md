@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Compensation[^key-22e448344f7b8060490af5cd7f43d2af]
+## 83. Compensation[^c-22e448344f7b8060490af5cd7f43d2af]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-22e448344f7b8060490af5cd7f43d2af]: Commencement: Reg. 83 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)
+[^c-22e448344f7b8060490af5cd7f43d2af]: Commencement: Reg. 83 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)

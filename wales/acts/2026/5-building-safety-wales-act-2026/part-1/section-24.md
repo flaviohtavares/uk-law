@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Duty to give declaration about accuracy of information and documents included in register[^key-3f192776bec8779fd2362f9ebe10a2ce]
+## 24. Duty to give declaration about accuracy of information and documents included in register[^c-3f192776bec8779fd2362f9ebe10a2ce]
 
 *Extent: E+W*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3f192776bec8779fd2362f9ebe10a2ce]: Commencement: S. 24 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-3f192776bec8779fd2362f9ebe10a2ce]: Commencement: S. 24 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

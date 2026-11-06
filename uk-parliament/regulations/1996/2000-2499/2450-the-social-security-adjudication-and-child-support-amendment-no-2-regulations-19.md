@@ -55,51 +55,51 @@ The Secretary of State for Social Security, in exercise of the powers conferred 
 
 “the Appeal Regulations" means the Child Support Appeal Tribunals (Procedure) Regulations 1992 [^c1765592].
 
-## 2. Amendment of regulation 1 of the Adjudication Regulations[^key-3e407a38c3feeaf3fff151aedb388e3d]
+## 2. Amendment of regulation 1 of the Adjudication Regulations[^c-3e407a38c3feeaf3fff151aedb388e3d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of regulation 2 of the Adjudication Regulations[^key-3e407a38c3feeaf3fff151aedb388e3d]
+## 3. Amendment of regulation 2 of the Adjudication Regulations[^c-3e407a38c3feeaf3fff151aedb388e3d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of regulation 3 of the Adjudication Regulations[^key-3e407a38c3feeaf3fff151aedb388e3d]
+## 4. Amendment of regulation 3 of the Adjudication Regulations[^c-3e407a38c3feeaf3fff151aedb388e3d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of regulation 4 of the Adjudication Regulations[^key-3e407a38c3feeaf3fff151aedb388e3d]
+## 5. Amendment of regulation 4 of the Adjudication Regulations[^c-3e407a38c3feeaf3fff151aedb388e3d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of regulation 5 of the Adjudication Regulations[^key-3e407a38c3feeaf3fff151aedb388e3d]
+## 6. Amendment of regulation 5 of the Adjudication Regulations[^c-3e407a38c3feeaf3fff151aedb388e3d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment of regulation 6 of the Adjudication Regulations[^key-3e407a38c3feeaf3fff151aedb388e3d]
+## 7. Amendment of regulation 6 of the Adjudication Regulations[^c-3e407a38c3feeaf3fff151aedb388e3d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendment of regulation 7 of the Adjudication Regulations[^key-3e407a38c3feeaf3fff151aedb388e3d]
+## 8. Amendment of regulation 7 of the Adjudication Regulations[^c-3e407a38c3feeaf3fff151aedb388e3d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Amendment of regulation 10 of the Adjudication Regulations[^key-3e407a38c3feeaf3fff151aedb388e3d]
+## 9. Amendment of regulation 10 of the Adjudication Regulations[^c-3e407a38c3feeaf3fff151aedb388e3d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Amendment of regulation 22 of the Adjudication Regulations[^key-3e407a38c3feeaf3fff151aedb388e3d]
+## 10. Amendment of regulation 22 of the Adjudication Regulations[^c-3e407a38c3feeaf3fff151aedb388e3d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Amendment of regulation 23 of the Adjudication Regulations[^key-3e407a38c3feeaf3fff151aedb388e3d]
+## 11. Amendment of regulation 23 of the Adjudication Regulations[^c-3e407a38c3feeaf3fff151aedb388e3d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Amendment of regulation 29 of the Adjudication Regulations[^key-3e407a38c3feeaf3fff151aedb388e3d]
+## 12. Amendment of regulation 29 of the Adjudication Regulations[^c-3e407a38c3feeaf3fff151aedb388e3d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Amendment of regulation 38 of the Adjudication Regulations[^key-3e407a38c3feeaf3fff151aedb388e3d]
+## 13. Amendment of regulation 38 of the Adjudication Regulations[^c-3e407a38c3feeaf3fff151aedb388e3d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -336,7 +336,7 @@ These Regulations do not impose any costs to business.
 
 [^c1765592]: Marginal citation: [S.I. 1992/2641](https://www.legislation.gov.uk/uksi/1992/2641); the relevant amending instruments are [S.I. 1995/1045](https://www.legislation.gov.uk/uksi/1995/1045) and 1996/182.
 
-[^key-3e407a38c3feeaf3fff151aedb388e3d]: Textual amendment: [Regs. 2-13](https://www.legislation.gov.uk/uksi/1996/2450/regulation/2) revoked (5.7.1999 for specified purposes, 6.9.1999 for specified purposes, 5.10.1999 for specified purposes, 18.10.1999 for specified purposes, 29.11.1999 in so far as not already in force) by [The Social Security and Child Support (Decisions and Appeals) Regulations 1999 (S.I. 1999/991)](https://www.legislation.gov.uk/uksi/1999/991), [reg. 59(1)](https://www.legislation.gov.uk/uksi/1999/991/regulation/59/1), [Sch. 4](https://www.legislation.gov.uk/uksi/1999/991/schedule/4) (with [reg. 59(2)](https://www.legislation.gov.uk/uksi/1999/991/regulation/59/2)[(3)](https://www.legislation.gov.uk/uksi/1999/991/regulation/59/3))
+[^c-3e407a38c3feeaf3fff151aedb388e3d]: Textual amendment: [Regs. 2-13](https://www.legislation.gov.uk/uksi/1996/2450/regulation/2) revoked (5.7.1999 for specified purposes, 6.9.1999 for specified purposes, 5.10.1999 for specified purposes, 18.10.1999 for specified purposes, 29.11.1999 in so far as not already in force) by [The Social Security and Child Support (Decisions and Appeals) Regulations 1999 (S.I. 1999/991)](https://www.legislation.gov.uk/uksi/1999/991), [reg. 59(1)](https://www.legislation.gov.uk/uksi/1999/991/regulation/59/1), [Sch. 4](https://www.legislation.gov.uk/uksi/1999/991/schedule/4) (with [reg. 59(2)](https://www.legislation.gov.uk/uksi/1999/991/regulation/59/2)[(3)](https://www.legislation.gov.uk/uksi/1999/991/regulation/59/3))
 
 [^c1765597]: Marginal citation: Paragraph (1A) was inserted by regulation 3 of [S.I. 1995/1045](https://www.legislation.gov.uk/uksi/1995/1045).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51B. Powers of search, exclusion, removal and restraint[^key-58cfacd577e9a7d410cab34959e01c58]
+## 51B. Powers of search, exclusion, removal and restraint[^c-58cfacd577e9a7d410cab34959e01c58]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ if it is reasonably necessary to do so for one of the purposes given in subsecti
 
 ## Annotations
 
-[^key-58cfacd577e9a7d410cab34959e01c58]: Textual amendment: Ss. 51A-51E and cross-heading inserted (1.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [ss. 30(1)](https://www.legislation.gov.uk/ukpga/2013/22/section/30/1), [61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(c)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/c)
+[^c-58cfacd577e9a7d410cab34959e01c58]: Textual amendment: Ss. 51A-51E and cross-heading inserted (1.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [ss. 30(1)](https://www.legislation.gov.uk/ukpga/2013/22/section/30/1), [61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(c)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/c)

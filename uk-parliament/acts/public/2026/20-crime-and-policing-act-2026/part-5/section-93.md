@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Modification of Chapter for constables[^key-f0695b56af2a7fc650b13159da8cf977]
+## 93. Modification of Chapter for constables[^c-f0695b56af2a7fc650b13159da8cf977]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f0695b56af2a7fc650b13159da8cf977]: Commencement: S. 93 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-f0695b56af2a7fc650b13159da8cf977]: Commencement: S. 93 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

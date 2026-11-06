@@ -22,7 +22,7 @@ summary: ''
 
 Section 200
 
-### 1. Criminal Justice Act 2003[^key-27d85f15dae1f58aea65fd7f79576164]
+### 1. Criminal Justice Act 2003[^c-27d85f15dae1f58aea65fd7f79576164]
 
 *Extent: E+W*
 
@@ -168,7 +168,7 @@ Section 200
   > - (a) the extent (if any) to which a person is unable to see or hear by reason of any impairment of eyesight or hearing;
   > - (b) the effect of any direction or order which provides for one person taking part in proceedings to be prevented by means of a screen or other arrangement from seeing another person taking part in the proceedings.
 
-### 2. Extradition Act 2003[^key-fbb4729d740babd5ffd7fd7335c91f2b]
+### 2. Extradition Act 2003[^c-fbb4729d740babd5ffd7fd7335c91f2b]
 
 (1) The Extradition Act 2003 is amended as follows.
 
@@ -206,7 +206,7 @@ Section 200
   > - (a) the extent (if any) to which a person is unable to see or hear by reason of any impairment of eyesight or hearing;
   > - (b) the effect of any direction or order which provides for one person taking part in a hearing to be prevented by means of a screen or other arrangement from seeing another person taking part in the hearing.
 
-### 3. Consequential amendments of other enactments[^key-9061dab798b4cdaec29d3dad6dc5ef7a]
+### 3. Consequential amendments of other enactments[^c-9061dab798b4cdaec29d3dad6dc5ef7a]
 
 (1) The Criminal Appeal Act 1968 is amended as follows.
 
@@ -234,7 +234,7 @@ Section 200
   ;
 - (d) in subsection (4), after “subsection (2)” insert “or (2A)”.
 
-### 4.[^key-ed0d8a9312cbb5baad431dd8f358ca69]
+### 4.[^c-ed0d8a9312cbb5baad431dd8f358ca69]
 
 *Extent: E+W*
 
@@ -256,7 +256,7 @@ Section 200
 
 .
 
-### 5.[^key-baf444bbe638933109d55c323a9452c6]
+### 5.[^c-baf444bbe638933109d55c323a9452c6]
 
 *Extent: E+W*
 
@@ -267,7 +267,7 @@ In section 32 of the Criminal Justice Act 1988—
 
   > (A1) This section applies only so far as provided by an order under paragraph 8 of Schedule 13.
 
-### 6.[^key-49c1fc101bee9166a3b659afe8e1bd39]
+### 6.[^c-49c1fc101bee9166a3b659afe8e1bd39]
 
 *Extent: E+W*
 
@@ -277,7 +277,7 @@ In section 32 of the Criminal Justice Act 1988—
 
 (3) In section 33A (use of live links for evidence of the accused), in subsection (1), for the words from “any” to the end substitute “proceedings in a service court against a person for an offence, if and so far as provided by an order under section 61(1).”
 
-### 7.[^key-e150ed979edf9e36ef3065fa413d5973]
+### 7.[^c-e150ed979edf9e36ef3065fa413d5973]
 
 (1) In section 29 of the Crime (International Co-operation) Act 2003—
 
@@ -286,13 +286,13 @@ In section 32 of the Criminal Justice Act 1988—
 
 (2) The Evidence Through Television Links (England and Wales) Order 2013 ([S.I. 2013/1598](https://www.legislation.gov.uk/uksi/2013/1598)) is revoked.
 
-### 8.[^key-e7afd3b73834a96926d39396073dbf3e]
+### 8.[^c-e7afd3b73834a96926d39396073dbf3e]
 
 *Extent: E+W*
 
 In the Sentencing Code, omit section 391.
 
-### 9.[^key-342a62c5616067a3c6073fac8d8a2e35]
+### 9.[^c-342a62c5616067a3c6073fac8d8a2e35]
 
 *Extent: E+W*
 
@@ -302,20 +302,20 @@ In section 26 of the Domestic Abuse Act 2021 (breach of domestic abuse protectio
 
 ## Annotations
 
-[^key-27d85f15dae1f58aea65fd7f79576164]: Commencement: [Sch. 20 para. 1](https://www.legislation.gov.uk/ukpga/2022/32/schedule/20/paragraph/1) in force at 28.6.2022, see [s. 208(5)(y)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/y)
+[^c-27d85f15dae1f58aea65fd7f79576164]: Commencement: [Sch. 20 para. 1](https://www.legislation.gov.uk/ukpga/2022/32/schedule/20/paragraph/1) in force at 28.6.2022, see [s. 208(5)(y)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/y)
 
-[^key-fbb4729d740babd5ffd7fd7335c91f2b]: Commencement: [Sch. 20 para. 2](https://www.legislation.gov.uk/ukpga/2022/32/schedule/20/paragraph/2) in force at 28.6.2022, see [s. 208(5)(y)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/y)
+[^c-fbb4729d740babd5ffd7fd7335c91f2b]: Commencement: [Sch. 20 para. 2](https://www.legislation.gov.uk/ukpga/2022/32/schedule/20/paragraph/2) in force at 28.6.2022, see [s. 208(5)(y)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/y)
 
-[^key-9061dab798b4cdaec29d3dad6dc5ef7a]: Commencement: [Sch. 20 para. 3](https://www.legislation.gov.uk/ukpga/2022/32/schedule/20/paragraph/3) in force at 28.6.2022, see [s. 208(5)(y)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/y)
+[^c-9061dab798b4cdaec29d3dad6dc5ef7a]: Commencement: [Sch. 20 para. 3](https://www.legislation.gov.uk/ukpga/2022/32/schedule/20/paragraph/3) in force at 28.6.2022, see [s. 208(5)(y)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/y)
 
-[^key-ed0d8a9312cbb5baad431dd8f358ca69]: Commencement: [Sch. 20 para. 4](https://www.legislation.gov.uk/ukpga/2022/32/schedule/20/paragraph/4) in force at 28.6.2022, see [s. 208(5)(y)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/y)
+[^c-ed0d8a9312cbb5baad431dd8f358ca69]: Commencement: [Sch. 20 para. 4](https://www.legislation.gov.uk/ukpga/2022/32/schedule/20/paragraph/4) in force at 28.6.2022, see [s. 208(5)(y)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/y)
 
-[^key-baf444bbe638933109d55c323a9452c6]: Commencement: [Sch. 20 para. 5](https://www.legislation.gov.uk/ukpga/2022/32/schedule/20/paragraph/5) in force at 28.6.2022, see [s. 208(5)(y)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/y)
+[^c-baf444bbe638933109d55c323a9452c6]: Commencement: [Sch. 20 para. 5](https://www.legislation.gov.uk/ukpga/2022/32/schedule/20/paragraph/5) in force at 28.6.2022, see [s. 208(5)(y)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/y)
 
-[^key-49c1fc101bee9166a3b659afe8e1bd39]: Commencement: [Sch. 20 para. 6](https://www.legislation.gov.uk/ukpga/2022/32/schedule/20/paragraph/6) in force at 28.6.2022, see [s. 208(5)(y)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/y)
+[^c-49c1fc101bee9166a3b659afe8e1bd39]: Commencement: [Sch. 20 para. 6](https://www.legislation.gov.uk/ukpga/2022/32/schedule/20/paragraph/6) in force at 28.6.2022, see [s. 208(5)(y)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/y)
 
-[^key-e150ed979edf9e36ef3065fa413d5973]: Commencement: [Sch. 20 para. 7](https://www.legislation.gov.uk/ukpga/2022/32/schedule/20/paragraph/7) in force at 28.6.2022, see [s. 208(5)(y)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/y)
+[^c-e150ed979edf9e36ef3065fa413d5973]: Commencement: [Sch. 20 para. 7](https://www.legislation.gov.uk/ukpga/2022/32/schedule/20/paragraph/7) in force at 28.6.2022, see [s. 208(5)(y)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/y)
 
-[^key-e7afd3b73834a96926d39396073dbf3e]: Commencement: [Sch. 20 para. 8](https://www.legislation.gov.uk/ukpga/2022/32/schedule/20/paragraph/8) in force at 28.6.2022, see [s. 208(5)(y)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/y)
+[^c-e7afd3b73834a96926d39396073dbf3e]: Commencement: [Sch. 20 para. 8](https://www.legislation.gov.uk/ukpga/2022/32/schedule/20/paragraph/8) in force at 28.6.2022, see [s. 208(5)(y)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/y)
 
-[^key-342a62c5616067a3c6073fac8d8a2e35]: Commencement: [Sch. 20 para. 9](https://www.legislation.gov.uk/ukpga/2022/32/schedule/20/paragraph/9) in force at 28.6.2022, see [s. 208(5)(y)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/y)
+[^c-342a62c5616067a3c6073fac8d8a2e35]: Commencement: [Sch. 20 para. 9](https://www.legislation.gov.uk/ukpga/2022/32/schedule/20/paragraph/9) in force at 28.6.2022, see [s. 208(5)(y)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/y)

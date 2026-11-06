@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44. Inspection[^key-7bb20d2dfdf43d94225c1f8262e04cad]
+## 44. Inspection[^c-7bb20d2dfdf43d94225c1f8262e04cad]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ After paragraph 19B of Schedule 1 to the Housing Act 1996 insert—
 
 ## Annotations
 
-[^key-7bb20d2dfdf43d94225c1f8262e04cad]: Commencement: [S. 44](https://www.legislation.gov.uk/mwa/2011/5/section/44) in force at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(g)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/g)
+[^c-7bb20d2dfdf43d94225c1f8262e04cad]: Commencement: [S. 44](https://www.legislation.gov.uk/mwa/2011/5/section/44) in force at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(g)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/g)

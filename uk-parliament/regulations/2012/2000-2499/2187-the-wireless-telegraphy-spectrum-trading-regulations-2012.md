@@ -70,7 +70,7 @@ In these Regulations—
 - (a) that the rights and obligations of the person making the transfer become rights and obligations of the transferee to the exclusion of the person making the transfer;
 - (b) that the transferred rights and obligations become rights and obligations of the transferee while continuing, concurrently, to be rights and obligations of the person making the transfer.
 
-(3) Paragraph (1) shall apply to wireless telegraphy licences within the licence classes specified in Column 1 of each of Parts 3 to 22[^key-fd61961d5c0a066dc4c8a8a5f84c294a] of Schedule 2 which apply to a station or apparatus operating within any of the frequency bands specified in Column 2 of the same Part.
+(3) Paragraph (1) shall apply to wireless telegraphy licences within the licence classes specified in Column 1 of each of Parts 3 to 22[^c-fd61961d5c0a066dc4c8a8a5f84c294a] of Schedule 2 which apply to a station or apparatus operating within any of the frequency bands specified in Column 2 of the same Part.
 
 ## 5. Concurrent Spectrum Access licence class
 
@@ -265,7 +265,7 @@ Regulations 4, 5, 6 and 7
 |  | 3600–4200 MHz |
 |  | 5925–6425 MHz |
 |  | 6425–7125 MHz |
-|  | 7425-8400 MHz[^key-754098ee1f35eff2067d325fc2fc0f57] |
+|  | 7425-8400 MHz[^c-754098ee1f35eff2067d325fc2fc0f57] |
 |  | 10.7–11.7 GHz |
 |  | 12.75–13.25 GHz |
 |  | 14.25–14.5 GHz |
@@ -281,7 +281,7 @@ Regulations 4, 5, 6 and 7
 |  | 49.2–50.2 GHz |
 |  | 51.4–52.6 GHz |
 |  | 55.78–57 GHz |
-|  | [^key-3b84375b61fde902edbe843fde4ce886]. . . |
+|  | [^c-3b84375b61fde902edbe843fde4ce886]. . . |
 |  | 71.125–75.875 GHz |
 |  | 81.125–85.875 GHz |
 
@@ -293,12 +293,12 @@ Regulations 4, 5, 6 and 7
 | Broadband Fixed Wireless Access | 412.0–414.0 MHz |
 | Spectrum Access | 422.0–424.0 MHz |
 |  | 542–550 MHz |
-|  | [^key-eba45d89f1aeaa4a7377dfd2add86f14]. . . |
-|  | [^key-eba45d89f1aeaa4a7377dfd2add86f14]. . . |
-|  | [^key-2200c1926bf475f58c2ceca6546ac87b]. . . |
+|  | [^c-eba45d89f1aeaa4a7377dfd2add86f14]. . . |
+|  | [^c-eba45d89f1aeaa4a7377dfd2add86f14]. . . |
+|  | [^c-2200c1926bf475f58c2ceca6546ac87b]. . . |
 |  | 1785–1805 MHz |
-|  | [^key-2200c1926bf475f58c2ceca6546ac87b]. . . |
-|  | [^key-2200c1926bf475f58c2ceca6546ac87b]. . . |
+|  | [^c-2200c1926bf475f58c2ceca6546ac87b]. . . |
+|  | [^c-2200c1926bf475f58c2ceca6546ac87b]. . . |
 |  | 10.125–10.225 GHz |
 |  | 10.475–10.575 GHz |
 |  | 27.8285– 28.0525 GHz |
@@ -339,7 +339,7 @@ Regulations 4, 5, 6 and 7
 | *Column 1* | *Column 2* |
 | --- | --- |
 | **Licence class** | **Frequency bands** |
-| Spectrum Access | [^key-04f75ce4383eff3151e38981e6df7113]. . . |
+| Spectrum Access | [^c-04f75ce4383eff3151e38981e6df7113]. . . |
 |  | 3925–4009 MHz |
 
 ### PART 15
@@ -431,7 +431,7 @@ Regulations 4, 5, 6 and 7
 |  | 28.4545–28.8265 GHz |
 |  | 29.4625–30 GHz |
 
-### PART 22[^key-ef63d8ca97d9f902b531a3a2f79aa73f]
+### PART 22[^c-ef63d8ca97d9f902b531a3a2f79aa73f]
 
 | **Column 1** | **Column 2** |
 | --- | --- |
@@ -466,18 +466,18 @@ A full regulatory impact assessment of the effect that these Regulations will ha
 
 [^c21354661]: Marginal citation: [2006 c.36](https://www.legislation.gov.uk/ukpga/2006/36)
 
-[^key-fd61961d5c0a066dc4c8a8a5f84c294a]: Textual amendment: Words in reg. 4(3) substituted (2.6.2025) by [The Wireless Telegraphy (Spectrum Trading and Register) (Amendment) Regulations 2025 (S.I. 2025/571)](https://www.legislation.gov.uk/uksi/2025/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/571/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2025/571/regulation/2/2)
+[^c-fd61961d5c0a066dc4c8a8a5f84c294a]: Textual amendment: Words in reg. 4(3) substituted (2.6.2025) by [The Wireless Telegraphy (Spectrum Trading and Register) (Amendment) Regulations 2025 (S.I. 2025/571)](https://www.legislation.gov.uk/uksi/2025/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/571/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2025/571/regulation/2/2)
 
 [^c21354671]: Marginal citation: [S.I. 2011/1128](https://www.legislation.gov.uk/uksi/2011/1128)
 
-[^key-754098ee1f35eff2067d325fc2fc0f57]: Textual amendment: Words in Sch. 2 Pt. 10 substituted (2.6.2025) by [The Wireless Telegraphy (Spectrum Trading and Register) (Amendment) Regulations 2025 (S.I. 2025/571)](https://www.legislation.gov.uk/uksi/2025/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/571/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2025/571/regulation/2/4/a)
+[^c-754098ee1f35eff2067d325fc2fc0f57]: Textual amendment: Words in Sch. 2 Pt. 10 substituted (2.6.2025) by [The Wireless Telegraphy (Spectrum Trading and Register) (Amendment) Regulations 2025 (S.I. 2025/571)](https://www.legislation.gov.uk/uksi/2025/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/571/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2025/571/regulation/2/4/a)
 
-[^key-3b84375b61fde902edbe843fde4ce886]: Textual amendment: Words in Sch. 2 Pt. 10 omitted (2.6.2025) by virtue of [The Wireless Telegraphy (Spectrum Trading and Register) (Amendment) Regulations 2025 (S.I. 2025/571)](https://www.legislation.gov.uk/uksi/2025/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/571/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2025/571/regulation/2/4/b)
+[^c-3b84375b61fde902edbe843fde4ce886]: Textual amendment: Words in Sch. 2 Pt. 10 omitted (2.6.2025) by virtue of [The Wireless Telegraphy (Spectrum Trading and Register) (Amendment) Regulations 2025 (S.I. 2025/571)](https://www.legislation.gov.uk/uksi/2025/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/571/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2025/571/regulation/2/4/b)
 
-[^key-eba45d89f1aeaa4a7377dfd2add86f14]: Textual amendment: Words in Sch. 2 Pt. 11 omitted (10.6.2019) by [The Wireless Telegraphy (Spectrum Trading) (Amendment) Regulations 2019 (S.I. 2019/950)](https://www.legislation.gov.uk/uksi/2019/950), [regs. 1](https://www.legislation.gov.uk/uksi/2019/950/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2019/950/regulation/2/a)
+[^c-eba45d89f1aeaa4a7377dfd2add86f14]: Textual amendment: Words in Sch. 2 Pt. 11 omitted (10.6.2019) by [The Wireless Telegraphy (Spectrum Trading) (Amendment) Regulations 2019 (S.I. 2019/950)](https://www.legislation.gov.uk/uksi/2019/950), [regs. 1](https://www.legislation.gov.uk/uksi/2019/950/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2019/950/regulation/2/a)
 
-[^key-2200c1926bf475f58c2ceca6546ac87b]: Textual amendment: Words in Sch. 2 Pt. 11 deleted (19.6.2015) by [The Wireless Telegraphy (Spectrum Trading) (Amendment) Regulations 2015 (S.I. 2015/1338)](https://www.legislation.gov.uk/uksi/2015/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1338/regulation/1), [2](https://www.legislation.gov.uk/uksi/2015/1338/regulation/2)
+[^c-2200c1926bf475f58c2ceca6546ac87b]: Textual amendment: Words in Sch. 2 Pt. 11 deleted (19.6.2015) by [The Wireless Telegraphy (Spectrum Trading) (Amendment) Regulations 2015 (S.I. 2015/1338)](https://www.legislation.gov.uk/uksi/2015/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1338/regulation/1), [2](https://www.legislation.gov.uk/uksi/2015/1338/regulation/2)
 
-[^key-04f75ce4383eff3151e38981e6df7113]: Textual amendment: Words in Sch. 2 Pt. 14 omitted (10.6.2019) by [The Wireless Telegraphy (Spectrum Trading) (Amendment) Regulations 2019 (S.I. 2019/950)](https://www.legislation.gov.uk/uksi/2019/950), [regs. 1](https://www.legislation.gov.uk/uksi/2019/950/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2019/950/regulation/2/b)
+[^c-04f75ce4383eff3151e38981e6df7113]: Textual amendment: Words in Sch. 2 Pt. 14 omitted (10.6.2019) by [The Wireless Telegraphy (Spectrum Trading) (Amendment) Regulations 2019 (S.I. 2019/950)](https://www.legislation.gov.uk/uksi/2019/950), [regs. 1](https://www.legislation.gov.uk/uksi/2019/950/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2019/950/regulation/2/b)
 
-[^key-ef63d8ca97d9f902b531a3a2f79aa73f]: Textual amendment: Sch. 2 Pt. 22 inserted (2.6.2025) by [The Wireless Telegraphy (Spectrum Trading and Register) (Amendment) Regulations 2025 (S.I. 2025/571)](https://www.legislation.gov.uk/uksi/2025/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/571/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2025/571/regulation/2/5)
+[^c-ef63d8ca97d9f902b531a3a2f79aa73f]: Textual amendment: Sch. 2 Pt. 22 inserted (2.6.2025) by [The Wireless Telegraphy (Spectrum Trading and Register) (Amendment) Regulations 2025 (S.I. 2025/571)](https://www.legislation.gov.uk/uksi/2025/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/571/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2025/571/regulation/2/5)

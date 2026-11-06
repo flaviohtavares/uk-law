@@ -22,7 +22,7 @@ summary: ''
 
 Regulations 21 and 23
 
-### Part I — Requirements Relating to Obligatory Direction Indicators and to Optional Direction Indicators to the Extent Specified in Part II[^key-2adcab08b1abde501c38d53a5eefc52d]
+### Part I — Requirements Relating to Obligatory Direction Indicators and to Optional Direction Indicators to the Extent Specified in Part II[^c-2adcab08b1abde501c38d53a5eefc52d]
 
 <table>
 <tbody>
@@ -104,40 +104,40 @@ Regulations 21 and 23
 </tbody>
 </table>
 
-[^key-d5bca90cd7ba4b7742cbde49bc04d2f5][^key-88539fc17294eaa5a17203e8df954f45][^key-c6d02154b27130ff1c9c68a7286f1535][^key-fab733983f8009b14a8fd72b39d258aa][^key-b40d15225f14f734031007a6edf2693e]
+[^c-d5bca90cd7ba4b7742cbde49bc04d2f5][^c-88539fc17294eaa5a17203e8df954f45][^c-c6d02154b27130ff1c9c68a7286f1535][^c-fab733983f8009b14a8fd72b39d258aa][^c-b40d15225f14f734031007a6edf2693e]
 
 ### Part II — Requirements Relating to Optional Direction Indicators
 
-**1.**[^key-e808827014e4d105256176714af38a17] A vehicle shall not be fitted with a total of more than one front indicator nor more than two rear indicators, on each side.
+**1.**[^c-e808827014e4d105256176714af38a17] A vehicle shall not be fitted with a total of more than one front indicator nor more than two rear indicators, on each side.
 
-**2.**[^key-98d349c8221ea68780bc6cf842f9fb0a] Any number of side indicators may be fitted to the side (excluding the front and rear) of a vehicle.
+**2.**[^c-98d349c8221ea68780bc6cf842f9fb0a] Any number of side indicators may be fitted to the side (excluding the front and rear) of a vehicle.
 
-**3.**[^key-049e72243f4bd17417edea29b754cd1a] The only other requirements prescribed by these Regulations in respect of any which are fitted are those specified in paragraphs 5, 7, 8, 9, 10, 11, 12(*a*) and 12(*b*) of Part I.
+**3.**[^c-049e72243f4bd17417edea29b754cd1a] The only other requirements prescribed by these Regulations in respect of any which are fitted are those specified in paragraphs 5, 7, 8, 9, 10, 11, 12(*a*) and 12(*b*) of Part I.
 
-### Part III[^key-b290a6bc0aff11dbc02a5813d85e7606][^key-2ba4cf2fd9a45440802ab2114b1dc121]
+### Part III[^c-b290a6bc0aff11dbc02a5813d85e7606][^c-2ba4cf2fd9a45440802ab2114b1dc121]
 
 [image: see source](https://www.legislation.gov.uk/nisr/2000/169/images/nisr_20000169_en_001)
 
 ## Annotations
 
-[^key-2adcab08b1abde501c38d53a5eefc52d]: Commencement: [Sch. 7 Pt. I](https://www.legislation.gov.uk/nisr/2000/169/schedule/7/part/I) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
+[^c-2adcab08b1abde501c38d53a5eefc52d]: Commencement: [Sch. 7 Pt. I](https://www.legislation.gov.uk/nisr/2000/169/schedule/7/part/I) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
 
-[^key-d5bca90cd7ba4b7742cbde49bc04d2f5]: Textual amendment: Words in [Sch. 7 Pt. I](https://www.legislation.gov.uk/nisr/2000/169/schedule/7/part/I) substituted (21.10.2011) by [The Road Vehicles Lighting (Amendment No. 3) Regulations (Northern Ireland) 2011 (S.R. 2011/329)](https://www.legislation.gov.uk/nisr/2011/329), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/329/regulation/1/1), [12(2)(a)](https://www.legislation.gov.uk/nisr/2011/329/regulation/12/2/a)
+[^c-d5bca90cd7ba4b7742cbde49bc04d2f5]: Textual amendment: Words in [Sch. 7 Pt. I](https://www.legislation.gov.uk/nisr/2000/169/schedule/7/part/I) substituted (21.10.2011) by [The Road Vehicles Lighting (Amendment No. 3) Regulations (Northern Ireland) 2011 (S.R. 2011/329)](https://www.legislation.gov.uk/nisr/2011/329), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/329/regulation/1/1), [12(2)(a)](https://www.legislation.gov.uk/nisr/2011/329/regulation/12/2/a)
 
-[^key-88539fc17294eaa5a17203e8df954f45]: Textual amendment: Words in [Sch. 7 Pt. I](https://www.legislation.gov.uk/nisr/2000/169/schedule/7/part/I) substituted (21.10.2011) by [The Road Vehicles Lighting (Amendment No. 3) Regulations (Northern Ireland) 2011 (S.R. 2011/329)](https://www.legislation.gov.uk/nisr/2011/329), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/329/regulation/1/1), [12(2)(b)](https://www.legislation.gov.uk/nisr/2011/329/regulation/12/2/b)
+[^c-88539fc17294eaa5a17203e8df954f45]: Textual amendment: Words in [Sch. 7 Pt. I](https://www.legislation.gov.uk/nisr/2000/169/schedule/7/part/I) substituted (21.10.2011) by [The Road Vehicles Lighting (Amendment No. 3) Regulations (Northern Ireland) 2011 (S.R. 2011/329)](https://www.legislation.gov.uk/nisr/2011/329), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/329/regulation/1/1), [12(2)(b)](https://www.legislation.gov.uk/nisr/2011/329/regulation/12/2/b)
 
-[^key-c6d02154b27130ff1c9c68a7286f1535]: Textual amendment: Words in [Sch. 7 Pt. I](https://www.legislation.gov.uk/nisr/2000/169/schedule/7/part/I) inserted (21.10.2011) by [The Road Vehicles Lighting (Amendment No. 3) Regulations (Northern Ireland) 2011 (S.R. 2011/329)](https://www.legislation.gov.uk/nisr/2011/329), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/329/regulation/1/1), [12(2)(c)](https://www.legislation.gov.uk/nisr/2011/329/regulation/12/2/c)
+[^c-c6d02154b27130ff1c9c68a7286f1535]: Textual amendment: Words in [Sch. 7 Pt. I](https://www.legislation.gov.uk/nisr/2000/169/schedule/7/part/I) inserted (21.10.2011) by [The Road Vehicles Lighting (Amendment No. 3) Regulations (Northern Ireland) 2011 (S.R. 2011/329)](https://www.legislation.gov.uk/nisr/2011/329), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/329/regulation/1/1), [12(2)(c)](https://www.legislation.gov.uk/nisr/2011/329/regulation/12/2/c)
 
-[^key-fab733983f8009b14a8fd72b39d258aa]: Textual amendment: Words in [Sch. 7 Pt. I](https://www.legislation.gov.uk/nisr/2000/169/schedule/7/part/I) substituted (21.10.2011) by [The Road Vehicles Lighting (Amendment No. 3) Regulations (Northern Ireland) 2011 (S.R. 2011/329)](https://www.legislation.gov.uk/nisr/2011/329), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/329/regulation/1/1), [12(2)(d)](https://www.legislation.gov.uk/nisr/2011/329/regulation/12/2/d)
+[^c-fab733983f8009b14a8fd72b39d258aa]: Textual amendment: Words in [Sch. 7 Pt. I](https://www.legislation.gov.uk/nisr/2000/169/schedule/7/part/I) substituted (21.10.2011) by [The Road Vehicles Lighting (Amendment No. 3) Regulations (Northern Ireland) 2011 (S.R. 2011/329)](https://www.legislation.gov.uk/nisr/2011/329), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/329/regulation/1/1), [12(2)(d)](https://www.legislation.gov.uk/nisr/2011/329/regulation/12/2/d)
 
-[^key-b40d15225f14f734031007a6edf2693e]: Textual amendment: Words in [Sch. 7 Pt. I](https://www.legislation.gov.uk/nisr/2000/169/schedule/7/part/I) inserted (21.10.2011) by [The Road Vehicles Lighting (Amendment No. 3) Regulations (Northern Ireland) 2011 (S.R. 2011/329)](https://www.legislation.gov.uk/nisr/2011/329), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/329/regulation/1/1), [12(2)(e)](https://www.legislation.gov.uk/nisr/2011/329/regulation/12/2/e)
+[^c-b40d15225f14f734031007a6edf2693e]: Textual amendment: Words in [Sch. 7 Pt. I](https://www.legislation.gov.uk/nisr/2000/169/schedule/7/part/I) inserted (21.10.2011) by [The Road Vehicles Lighting (Amendment No. 3) Regulations (Northern Ireland) 2011 (S.R. 2011/329)](https://www.legislation.gov.uk/nisr/2011/329), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/329/regulation/1/1), [12(2)(e)](https://www.legislation.gov.uk/nisr/2011/329/regulation/12/2/e)
 
-[^key-e808827014e4d105256176714af38a17]: Commencement: [Sch. 7 Pt. II para. 1](https://www.legislation.gov.uk/nisr/2000/169/schedule/7/part/II/paragraph/1) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
+[^c-e808827014e4d105256176714af38a17]: Commencement: [Sch. 7 Pt. II para. 1](https://www.legislation.gov.uk/nisr/2000/169/schedule/7/part/II/paragraph/1) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
 
-[^key-98d349c8221ea68780bc6cf842f9fb0a]: Commencement: [Sch. 7 Pt. II para. 2](https://www.legislation.gov.uk/nisr/2000/169/schedule/7/part/II/paragraph/2) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
+[^c-98d349c8221ea68780bc6cf842f9fb0a]: Commencement: [Sch. 7 Pt. II para. 2](https://www.legislation.gov.uk/nisr/2000/169/schedule/7/part/II/paragraph/2) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
 
-[^key-049e72243f4bd17417edea29b754cd1a]: Commencement: [Sch. 7 Pt. II para. 3](https://www.legislation.gov.uk/nisr/2000/169/schedule/7/part/II/paragraph/3) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
+[^c-049e72243f4bd17417edea29b754cd1a]: Commencement: [Sch. 7 Pt. II para. 3](https://www.legislation.gov.uk/nisr/2000/169/schedule/7/part/II/paragraph/3) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
 
-[^key-b290a6bc0aff11dbc02a5813d85e7606]: Commencement: [Sch. 7 Pt. III](https://www.legislation.gov.uk/nisr/2000/169/schedule/7/part/III) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
+[^c-b290a6bc0aff11dbc02a5813d85e7606]: Commencement: [Sch. 7 Pt. III](https://www.legislation.gov.uk/nisr/2000/169/schedule/7/part/III) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
 
-[^key-2ba4cf2fd9a45440802ab2114b1dc121]: Textual amendment: [Sch. 7 Pt. III](https://www.legislation.gov.uk/nisr/2000/169/schedule/7/part/III): in the first diagram the words “or 6 inserted after “Category 5” (21.10.2011) by [The Road Vehicles Lighting (Amendment No. 3) Regulations (Northern Ireland) 2011 (S.R. 2011/329)](https://www.legislation.gov.uk/nisr/2011/329), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/329/regulation/1/1), [12(3)](https://www.legislation.gov.uk/nisr/2011/329/regulation/12/3)
+[^c-2ba4cf2fd9a45440802ab2114b1dc121]: Textual amendment: [Sch. 7 Pt. III](https://www.legislation.gov.uk/nisr/2000/169/schedule/7/part/III): in the first diagram the words “or 6 inserted after “Category 5” (21.10.2011) by [The Road Vehicles Lighting (Amendment No. 3) Regulations (Northern Ireland) 2011 (S.R. 2011/329)](https://www.legislation.gov.uk/nisr/2011/329), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/329/regulation/1/1), [12(3)](https://www.legislation.gov.uk/nisr/2011/329/regulation/12/3)

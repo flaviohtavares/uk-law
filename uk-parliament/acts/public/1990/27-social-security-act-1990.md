@@ -81,7 +81,7 @@ The enactments specified in Schedule 1 to this Act shall have effect with the am
 
 ## Energy efficiency in certain dwellings etc.
 
-### 15. Grants for the improvement of energy efficiency in certain dwellings etc.[^c9299741][^c9299751][^key-8d3084ae37970948869c5acd75b121e0]
+### 15. Grants for the improvement of energy efficiency in certain dwellings etc.[^c9299741][^c9299751][^c-8d3084ae37970948869c5acd75b121e0]
 
 (1)[^c9299761] The Secretary of State may make or arrange for the making of grants—
 
@@ -1220,7 +1220,7 @@ Section 21(2).
 
 [^c9299751]: Modification: [S. 15](https://www.legislation.gov.uk/ukpga/1990/27/section/15): funtions shall be exercisable by the Assembly concurrently with the Secretary of State (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
 
-[^key-8d3084ae37970948869c5acd75b121e0]: Modification: [S. 15](https://www.legislation.gov.uk/ukpga/1990/27/section/15) functions made exercisable concurrently or jointly with the Welsh Ministers by 2006 c. 32, Sch. 3A para. 1 (as inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/4/paragraph/1) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/p))
+[^c-8d3084ae37970948869c5acd75b121e0]: Modification: [S. 15](https://www.legislation.gov.uk/ukpga/1990/27/section/15) functions made exercisable concurrently or jointly with the Welsh Ministers by 2006 c. 32, Sch. 3A para. 1 (as inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/4/paragraph/1) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/p))
 
 [^c9299761]: Textual amendment: [S. 15(1)](https://www.legislation.gov.uk/ukpga/1990/27/section/15/1) substituted (24.9.1996) by [1996 c. 53](https://www.legislation.gov.uk/ukpga/1996/53), [ss. 142(1)](https://www.legislation.gov.uk/ukpga/1996/53/section/142/1), [150(2)](https://www.legislation.gov.uk/ukpga/1996/53/section/150/2)
 

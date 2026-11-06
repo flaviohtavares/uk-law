@@ -29,7 +29,7 @@ summary: ''
 
 a magistrates’ court acting in that area[^c2070493][^c2070493] may make such order as to costs to be paid . . . [^c847810], by the complainant to the defendant as it thinks just and reasonable.
 
-(3A)[^key-8219ae5b92af666cf98d044d07fd547d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3A)[^c-8219ae5b92af666cf98d044d07fd547d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) An order under subsection (3) above shall specify the amount of the costs ordered to be paid.
 
@@ -47,6 +47,6 @@ a magistrates’ court acting in that area[^c2070493][^c2070493] may make such o
 
 [^c847810]: Textual amendment: Words repealed by Costs in [Criminal Cases Act 1973 (c. 14)](https://www.legislation.gov.uk/ukpga/1973/14), [Sch. 2](https://www.legislation.gov.uk/ukpga/1973/14/schedule/2)
 
-[^key-8219ae5b92af666cf98d044d07fd547d]: Textual amendment: S. 52(3A) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 19](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/19); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-8219ae5b92af666cf98d044d07fd547d]: Textual amendment: S. 52(3A) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 19](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/19); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c847812]: Textual amendment: Words substituted by [Magistrates Courts' Act 1980 (c. 43, SIF 82)](https://www.legislation.gov.uk/ukpga/1980/43), [s. 154(1)](https://www.legislation.gov.uk/ukpga/1980/43/section/154/1), [Sch. 7 para. 96](https://www.legislation.gov.uk/ukpga/1980/43/schedule/7/paragraph/96)

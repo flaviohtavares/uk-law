@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Aircraft subject to a mortgage[^key-ec91658d5a9f3804162bccdb12071b4e]
+## 20. Aircraft subject to a mortgage[^c-ec91658d5a9f3804162bccdb12071b4e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The registration of an aircraft which is the subject of an undischarged mortgage
 
 ## Annotations
 
-[^key-ec91658d5a9f3804162bccdb12071b4e]: Commencement: [Art. 20](https://www.legislation.gov.uk/uksi/2013/2870/article/20) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-ec91658d5a9f3804162bccdb12071b4e]: Commencement: [Art. 20](https://www.legislation.gov.uk/uksi/2013/2870/article/20) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

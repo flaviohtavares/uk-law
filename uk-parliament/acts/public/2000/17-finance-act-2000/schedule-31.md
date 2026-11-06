@@ -158,17 +158,17 @@ Section 104.
 
 **7.** (1) In Part II of Schedule 25 (exempt activities) amend paragraph 6 as follows.
 
-(2)[^key-cda668d2c2c1a17a91267e3054e04817] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-cda668d2c2c1a17a91267e3054e04817] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-cda668d2c2c1a17a91267e3054e04817] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-cda668d2c2c1a17a91267e3054e04817] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-cda668d2c2c1a17a91267e3054e04817] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-cda668d2c2c1a17a91267e3054e04817] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-cda668d2c2c1a17a91267e3054e04817] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-cda668d2c2c1a17a91267e3054e04817] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-cda668d2c2c1a17a91267e3054e04817] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-cda668d2c2c1a17a91267e3054e04817] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-cda668d2c2c1a17a91267e3054e04817] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-cda668d2c2c1a17a91267e3054e04817] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) In sub-paragraph (5) (interpretation of sub-paragraphs (3) to (4B)) after “a reference to a trading company" insert
 
@@ -185,9 +185,9 @@ Section 104.
 > - (a) it is a controlled foreign company by virtue of subsection (1A) of section 747; and
 > - (b) the person who satisfies the requirement in paragraph (b) of that subsection in relation to the company also controls the holding company or superior holding company.
 
-(10)[^key-54bc58be8b3437e5b0dd25a62e553188] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-54bc58be8b3437e5b0dd25a62e553188] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(11)[^key-54bc58be8b3437e5b0dd25a62e553188] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-54bc58be8b3437e5b0dd25a62e553188] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Businesses to which requirement as to derivation of receipts applies
 
@@ -220,6 +220,6 @@ Section 104.
 
 ## Annotations
 
-[^key-cda668d2c2c1a17a91267e3054e04817]: Textual amendment: [Sch. 31 para. 7(2)-(7)](https://www.legislation.gov.uk/ukpga/2000/17/schedule/31/paragraph/7/2) omitted (with effect in accordance with Sch. 16 para. 12 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 16 para. 11(b)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/11/b) (with [Sch. 16 paras. 13-20](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/13))
+[^c-cda668d2c2c1a17a91267e3054e04817]: Textual amendment: [Sch. 31 para. 7(2)-(7)](https://www.legislation.gov.uk/ukpga/2000/17/schedule/31/paragraph/7/2) omitted (with effect in accordance with Sch. 16 para. 12 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 16 para. 11(b)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/11/b) (with [Sch. 16 paras. 13-20](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/13))
 
-[^key-54bc58be8b3437e5b0dd25a62e553188]: Textual amendment: [Sch. 31 para. 7(10)](https://www.legislation.gov.uk/ukpga/2000/17/schedule/31/paragraph/7/10)[(11)](https://www.legislation.gov.uk/ukpga/2000/17/schedule/31/paragraph/7/11) omitted (with effect in accordance with Sch. 16 para. 12 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 16 para. 11(b)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/11/b) (with [Sch. 16 paras. 13-20](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/13))
+[^c-54bc58be8b3437e5b0dd25a62e553188]: Textual amendment: [Sch. 31 para. 7(10)](https://www.legislation.gov.uk/ukpga/2000/17/schedule/31/paragraph/7/10)[(11)](https://www.legislation.gov.uk/ukpga/2000/17/schedule/31/paragraph/7/11) omitted (with effect in accordance with Sch. 16 para. 12 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 16 para. 11(b)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/11/b) (with [Sch. 16 paras. 13-20](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/13))

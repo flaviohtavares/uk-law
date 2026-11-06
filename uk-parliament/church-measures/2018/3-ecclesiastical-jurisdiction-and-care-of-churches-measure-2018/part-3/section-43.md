@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 43. Effect of inclusion in the list[^key-e27eb0af3b2401134214d11712cc573e]
+## 43. Effect of inclusion in the list[^c-e27eb0af3b2401134214d11712cc573e]
 
 *Extent: E*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e27eb0af3b2401134214d11712cc573e]: Commencement: [S. 43](https://www.legislation.gov.uk/ukcm/2018/3/section/43) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-e27eb0af3b2401134214d11712cc573e]: Commencement: [S. 43](https://www.legislation.gov.uk/ukcm/2018/3/section/43) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)

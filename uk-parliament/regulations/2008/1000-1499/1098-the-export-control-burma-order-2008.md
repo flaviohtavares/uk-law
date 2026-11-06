@@ -32,7 +32,7 @@ summary: ''
 
 Customs
 
-The Export Control (Burma) Order 2008 (revoked)[^key-d0c48c59c30f264eafdc4d6cd927ec71]
+The Export Control (Burma) Order 2008 (revoked)[^c-d0c48c59c30f264eafdc4d6cd927ec71]
 
 Made
 
@@ -46,70 +46,70 @@ Coming into force
 
 23rd April 2008
 
-[^key-d0c48c59c30f264eafdc4d6cd927ec71]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d0c48c59c30f264eafdc4d6cd927ec71]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-d0c48c59c30f264eafdc4d6cd927ec71]
+## 1. Citation, commencement and interpretation[^c-d0c48c59c30f264eafdc4d6cd927ec71]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Offences related to import, purchase and transport prohibitions[^key-d0c48c59c30f264eafdc4d6cd927ec71]
+## 2. Offences related to import, purchase and transport prohibitions[^c-d0c48c59c30f264eafdc4d6cd927ec71]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Offences related to sale, supply, transfer and export prohibitions[^key-d0c48c59c30f264eafdc4d6cd927ec71]
+## 3. Offences related to sale, supply, transfer and export prohibitions[^c-d0c48c59c30f264eafdc4d6cd927ec71]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Offences related to export authorisation requirement[^key-d0c48c59c30f264eafdc4d6cd927ec71]
+## 4. Offences related to export authorisation requirement[^c-d0c48c59c30f264eafdc4d6cd927ec71]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Offences related to technical assistance prohibitions[^key-d0c48c59c30f264eafdc4d6cd927ec71]
+## 5. Offences related to technical assistance prohibitions[^c-d0c48c59c30f264eafdc4d6cd927ec71]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Offences related to financial assistance prohibitions[^key-d0c48c59c30f264eafdc4d6cd927ec71]
+## 6. Offences related to financial assistance prohibitions[^c-d0c48c59c30f264eafdc4d6cd927ec71]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Offence related to technical and financial assistance anti-avoidance provision[^key-d0c48c59c30f264eafdc4d6cd927ec71]
+## 7. Offence related to technical and financial assistance anti-avoidance provision[^c-d0c48c59c30f264eafdc4d6cd927ec71]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Offences related to technical assistance authorisation requirement[^key-d0c48c59c30f264eafdc4d6cd927ec71]
+## 8. Offences related to technical assistance authorisation requirement[^c-d0c48c59c30f264eafdc4d6cd927ec71]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Offences related to EU authorisations[^key-d0c48c59c30f264eafdc4d6cd927ec71][^M_F_b765ddda-a240-46eb-a437-ff0719a1d67b]
+## 9. Offences related to EU authorisations[^c-d0c48c59c30f264eafdc4d6cd927ec71][^M_F_b765ddda-a240-46eb-a437-ff0719a1d67b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Penalties[^key-d0c48c59c30f264eafdc4d6cd927ec71]
+## 10. Penalties[^c-d0c48c59c30f264eafdc4d6cd927ec71]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Application of the 1979 Act[^key-d0c48c59c30f264eafdc4d6cd927ec71]
+## 11. Application of the 1979 Act[^c-d0c48c59c30f264eafdc4d6cd927ec71]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Revocation of secondary legislation relating to restrictive measures against Burma[^key-d0c48c59c30f264eafdc4d6cd927ec71]
+## 12. Revocation of secondary legislation relating to restrictive measures against Burma[^c-d0c48c59c30f264eafdc4d6cd927ec71]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Review[^key-d0c48c59c30f264eafdc4d6cd927ec71]
+## 13. Review[^c-d0c48c59c30f264eafdc4d6cd927ec71]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d0c48c59c30f264eafdc4d6cd927ec71]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d0c48c59c30f264eafdc4d6cd927ec71]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-d0c48c59c30f264eafdc4d6cd927ec71]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d0c48c59c30f264eafdc4d6cd927ec71]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d0c48c59c30f264eafdc4d6cd927ec71]: Textual amendment: Order revoked (28.8.2013) by [The Export Control (Burma Sanctions) Order 2013 (S.I. 2013/1964)](https://www.legislation.gov.uk/uksi/2013/1964), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/1964/article/1/1), [2](https://www.legislation.gov.uk/uksi/2013/1964/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2013/1964/schedule)
+[^c-d0c48c59c30f264eafdc4d6cd927ec71]: Textual amendment: Order revoked (28.8.2013) by [The Export Control (Burma Sanctions) Order 2013 (S.I. 2013/1964)](https://www.legislation.gov.uk/uksi/2013/1964), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/1964/article/1/1), [2](https://www.legislation.gov.uk/uksi/2013/1964/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2013/1964/schedule)
 
 [^M_F_b765ddda-a240-46eb-a437-ff0719a1d67b]: Textual amendment: Word in art. 9 substituted (26.6.2010) by [The Export Control (Burma) (Amendment) Order 2010 (S.I. 2010/1675)](https://www.legislation.gov.uk/uksi/2010/1675), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1675/article/1), [3](https://www.legislation.gov.uk/uksi/2010/1675/article/3)

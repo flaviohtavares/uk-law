@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 81. Fees for landlord and dwelling entries[^key-90b7d3630601f8ff0d0cfc4425749d1b]
+## 81. Fees for landlord and dwelling entries[^c-90b7d3630601f8ff0d0cfc4425749d1b]
 
 *Extent: E+W*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-90b7d3630601f8ff0d0cfc4425749d1b]: Commencement: S. 81 in force at Royal Assent for specified purposes, see [s. 145(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/2)
+[^c-90b7d3630601f8ff0d0cfc4425749d1b]: Commencement: S. 81 in force at Royal Assent for specified purposes, see [s. 145(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/2)

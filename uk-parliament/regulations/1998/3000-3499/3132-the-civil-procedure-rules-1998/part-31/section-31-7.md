@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31.7. Duty of search[^key-a721a4a779f97e4653ec391010fe1eb6]
+## 31.7. Duty of search[^c-a721a4a779f97e4653ec391010fe1eb6]
 
 *Extent: E+W*
 
@@ -29,14 +29,14 @@ summary: ''
 - (c) the ease and expense of retrieval of any particular document; and
 - (d) the significance of any document which is likely to be located during the search.
 
-(3) Where a party has not searched for a category or class of document on the grounds that to do so would be unreasonable, they[^key-e7fb806cfdd4912b99e60071a07bbd05] must state this in their[^key-1f0081cc5a23ae0ba5cb256441e9063a] disclosure statement and identify the category or class of document.
+(3) Where a party has not searched for a category or class of document on the grounds that to do so would be unreasonable, they[^c-e7fb806cfdd4912b99e60071a07bbd05] must state this in their[^c-1f0081cc5a23ae0ba5cb256441e9063a] disclosure statement and identify the category or class of document.
 
 (Rule 31.10 makes provision for a disclosure statement)
 
 ## Annotations
 
-[^key-a721a4a779f97e4653ec391010fe1eb6]: Commencement: Rule 31.7 in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-a721a4a779f97e4653ec391010fe1eb6]: Commencement: Rule 31.7 in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
 
-[^key-e7fb806cfdd4912b99e60071a07bbd05]: Textual amendment: Word in [rule 31.7(3)](https://www.legislation.gov.uk/uksi/1998/3132/rule/31.7/3) substituted (1.10.2026) by [The Civil Procedure (Amendment No. 2) Rules 2026 (S.I. 2026/817)](https://www.legislation.gov.uk/uksi/2026/817), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/817/rule/1/3), [10(3)(a)](https://www.legislation.gov.uk/uksi/2026/817/rule/10/3/a)
+[^c-e7fb806cfdd4912b99e60071a07bbd05]: Textual amendment: Word in [rule 31.7(3)](https://www.legislation.gov.uk/uksi/1998/3132/rule/31.7/3) substituted (1.10.2026) by [The Civil Procedure (Amendment No. 2) Rules 2026 (S.I. 2026/817)](https://www.legislation.gov.uk/uksi/2026/817), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/817/rule/1/3), [10(3)(a)](https://www.legislation.gov.uk/uksi/2026/817/rule/10/3/a)
 
-[^key-1f0081cc5a23ae0ba5cb256441e9063a]: Textual amendment: Word in [rule 31.7(3)](https://www.legislation.gov.uk/uksi/1998/3132/rule/31.7/3) substituted (1.10.2026) by [The Civil Procedure (Amendment No. 2) Rules 2026 (S.I. 2026/817)](https://www.legislation.gov.uk/uksi/2026/817), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/817/rule/1/3), [10(3)(b)](https://www.legislation.gov.uk/uksi/2026/817/rule/10/3/b)
+[^c-1f0081cc5a23ae0ba5cb256441e9063a]: Textual amendment: Word in [rule 31.7(3)](https://www.legislation.gov.uk/uksi/1998/3132/rule/31.7/3) substituted (1.10.2026) by [The Civil Procedure (Amendment No. 2) Rules 2026 (S.I. 2026/817)](https://www.legislation.gov.uk/uksi/2026/817), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/817/rule/1/3), [10(3)(b)](https://www.legislation.gov.uk/uksi/2026/817/rule/10/3/b)

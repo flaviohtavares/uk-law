@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 96. Payment break[^key-2c4c5341c940374028b521504f2cd2f7]
+## 96. Payment break[^c-2c4c5341c940374028b521504f2cd2f7]
 
 *Extent: S*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2c4c5341c940374028b521504f2cd2f7]: Commencement: [S. 96](https://www.legislation.gov.uk/asp/2016/21/section/96) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-2c4c5341c940374028b521504f2cd2f7]: Commencement: [S. 96](https://www.legislation.gov.uk/asp/2016/21/section/96) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

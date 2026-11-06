@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Transactions treated as a reorganisation of share capital.[^key-ebc5ace92d22f0d413af07b33e4076e4]
+## 34. Transactions treated as a reorganisation of share capital.[^c-ebc5ace92d22f0d413af07b33e4076e4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ebc5ace92d22f0d413af07b33e4076e4]: Textual amendment: S. 31 substituted for ss. 31-34 (with effect in accordance with Sch. 9 para. 6 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2011/11/schedule/9/paragraph/2)
+[^c-ebc5ace92d22f0d413af07b33e4076e4]: Textual amendment: S. 31 substituted for ss. 31-34 (with effect in accordance with Sch. 9 para. 6 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2011/11/schedule/9/paragraph/2)

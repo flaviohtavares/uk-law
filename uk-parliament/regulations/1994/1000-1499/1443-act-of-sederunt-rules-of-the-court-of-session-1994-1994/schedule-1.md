@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 1 — POWERS UNDER AND BY VIRTUE OF WHICH THIS ACT OF SEDERUNT IS MADE[^key-684c9283bbf3e0ebde1c121117937d31]
+## SCHEDULE 1 — POWERS UNDER AND BY VIRTUE OF WHICH THIS ACT OF SEDERUNT IS MADE[^c-684c9283bbf3e0ebde1c121117937d31]
 
 *Extent: S*
 
@@ -104,7 +104,7 @@ Preamble
 
 ## Annotations
 
-[^key-684c9283bbf3e0ebde1c121117937d31]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/1994/1443/schedule/1) in force at 5.9.1994, see [para. 1(1)](https://www.legislation.gov.uk/uksi/1994/1443/paragraph/1/1)
+[^c-684c9283bbf3e0ebde1c121117937d31]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/1994/1443/schedule/1) in force at 5.9.1994, see [para. 1(1)](https://www.legislation.gov.uk/uksi/1994/1443/paragraph/1/1)
 
 [^f00003]: Footnote: Section 185 of the Representation of the People Act 1983 contains a definition of “prescribed” relevant to the exercise of powers under sections 121, 136, 138, 139, 146, 147, 152 and 153.
 

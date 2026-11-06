@@ -29,7 +29,7 @@ National Insurance Act 1913
 
 1913 c.37
 
-An Act to amend Parts I. and III. of the National Insurance Act 1911. [^key-f63c9bf24019f679ae800a53fc32d090]
+An Act to amend Parts I. and III. of the National Insurance Act 1911. [^c-f63c9bf24019f679ae800a53fc32d090]
 
 \[15th August 1913\]
 
@@ -67,7 +67,7 @@ An Act to amend Parts I. and III. of the National Insurance Act 1911. [^key-f63c
 
 ## Annotations
 
-[^key-f63c9bf24019f679ae800a53fc32d090]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Geo5/3-4/37) repealed (S.) (1.10.2009) by [Public Health etc. (Scotland) Act 2008 (Commencement No. 2, Savings and Consequential Provisions) Order 2009 (S.S.I. 2009/319)](https://www.legislation.gov.uk/ssi/2009/319), [art. 2](https://www.legislation.gov.uk/ssi/2009/319/article/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/3/part/1)
+[^c-f63c9bf24019f679ae800a53fc32d090]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Geo5/3-4/37) repealed (S.) (1.10.2009) by [Public Health etc. (Scotland) Act 2008 (Commencement No. 2, Savings and Consequential Provisions) Order 2009 (S.S.I. 2009/319)](https://www.legislation.gov.uk/ssi/2009/319), [art. 2](https://www.legislation.gov.uk/ssi/2009/319/article/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/3/part/1)
 
 [^c579880]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/Geo5/3-4/37/section/1) repealed by [National Health Insurance Act 1936 (c. 32)](https://www.legislation.gov.uk/ukpga/1936/32), [Sch. 6](https://www.legislation.gov.uk/ukpga/1936/32/schedule/6)
 

@@ -43,7 +43,7 @@ This Act may be cited for all purposes as “**The Foreign Enlistment Act 1870.*
 
 This Act shall extend to all the dominions of Her Majesty, including the adjacent territorial waters.
 
-### 3. Commencement of Act.[^key-505a4d15e3c81d7b76be34c90d63239c]
+### 3. Commencement of Act.[^c-505a4d15e3c81d7b76be34c90d63239c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -291,7 +291,7 @@ Nothing in this Act contained shall subject to forfeiture any commissioned ship 
 
 [^c567690]: Modification: Preamble omitted under authority of [Statute Law Revision (No. 2) Act 1893 (c. 54)](https://www.legislation.gov.uk/ukpga/1893/54)
 
-[^key-505a4d15e3c81d7b76be34c90d63239c]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukpga/Vict/33-34/90/section/3) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/3)
+[^c-505a4d15e3c81d7b76be34c90d63239c]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukpga/Vict/33-34/90/section/3) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/3)
 
 [^c567692]: Textual amendment: Words omitted by virtue of (E.W.) [Criminal Justice Act 1948 (c. 58)](https://www.legislation.gov.uk/ukpga/1948/58), [s. 1(2)](https://www.legislation.gov.uk/ukpga/1948/58/section/1/2) and (S.) [Criminal Procedure (Scotland) Act 1975 (c. 21)](https://www.legislation.gov.uk/ukpga/1975/21), [s. 221(2)](https://www.legislation.gov.uk/ukpga/1975/21/section/221/2)
 

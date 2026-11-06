@@ -33,7 +33,7 @@ summary: ''
 
 FOOD
 
-The Food (Brazil Nuts) (Emergency Control) (Scotland) Amendment Regulations 2003 (revoked)[^key-05734303a0286aec30fbb79efc406c21]
+The Food (Brazil Nuts) (Emergency Control) (Scotland) Amendment Regulations 2003 (revoked)[^c-05734303a0286aec30fbb79efc406c21]
 
 Made
 
@@ -47,24 +47,24 @@ Coming into force
 
 12th December 2003
 
-[^key-05734303a0286aec30fbb79efc406c21]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-05734303a0286aec30fbb79efc406c21]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citations and commencement[^key-05734303a0286aec30fbb79efc406c21]
+## 1. Citations and commencement[^c-05734303a0286aec30fbb79efc406c21]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Food (Brazil Nuts) (Emergency Control) (Scotland) Regulations 2003[^key-05734303a0286aec30fbb79efc406c21]
+## 2. Amendment of the Food (Brazil Nuts) (Emergency Control) (Scotland) Regulations 2003[^c-05734303a0286aec30fbb79efc406c21]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-05734303a0286aec30fbb79efc406c21]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-05734303a0286aec30fbb79efc406c21]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-05734303a0286aec30fbb79efc406c21]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-05734303a0286aec30fbb79efc406c21]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-05734303a0286aec30fbb79efc406c21]: Textual amendment: Regulations revoked (1.10.2006) by [The Food (Emergency Control) (Scotland) Revocation Regulations 2006 (S.S.I. 2006/459)](https://www.legislation.gov.uk/ssi/2006/459), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/459/regulation/1/1), [sch.](https://www.legislation.gov.uk/ssi/2006/459/schedule)
+[^c-05734303a0286aec30fbb79efc406c21]: Textual amendment: Regulations revoked (1.10.2006) by [The Food (Emergency Control) (Scotland) Revocation Regulations 2006 (S.S.I. 2006/459)](https://www.legislation.gov.uk/ssi/2006/459), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/459/regulation/1/1), [sch.](https://www.legislation.gov.uk/ssi/2006/459/schedule)

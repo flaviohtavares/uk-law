@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Single Commissioner continuing though ceasing to be Commissioner[^key-a02be4cd7491bc6f797f973bf0f0479c]
+## 81. Single Commissioner continuing though ceasing to be Commissioner[^c-a02be4cd7491bc6f797f973bf0f0479c]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a02be4cd7491bc6f797f973bf0f0479c]: Textual amendment: S. 81 repealed (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 13 para. 33](https://www.legislation.gov.uk/ukpga/2011/20/schedule/13/paragraph/33), [Sch. 25 Pt. 20](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/20); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7](https://www.legislation.gov.uk/uksi/2012/628/article/7)
+[^c-a02be4cd7491bc6f797f973bf0f0479c]: Textual amendment: S. 81 repealed (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 13 para. 33](https://www.legislation.gov.uk/ukpga/2011/20/schedule/13/paragraph/33), [Sch. 25 Pt. 20](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/20); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7](https://www.legislation.gov.uk/uksi/2012/628/article/7)

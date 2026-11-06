@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Service proceedings barring subsequent service proceedings[^key-3b8e4ca2a45534a89853f319a5abd2db][^key-65f70190b88de9542fe9ac1da95deb47]
+## 63. Service proceedings barring subsequent service proceedings[^c-3b8e4ca2a45534a89853f319a5abd2db][^c-65f70190b88de9542fe9ac1da95deb47]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,6 +47,6 @@ and in this section “**offence A**” means the offence mentioned in paragraph
 
 ## Annotations
 
-[^key-3b8e4ca2a45534a89853f319a5abd2db]: Commencement: S. 63 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-3b8e4ca2a45534a89853f319a5abd2db]: Commencement: S. 63 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-65f70190b88de9542fe9ac1da95deb47]: Commencement: S. 63 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-65f70190b88de9542fe9ac1da95deb47]: Commencement: S. 63 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

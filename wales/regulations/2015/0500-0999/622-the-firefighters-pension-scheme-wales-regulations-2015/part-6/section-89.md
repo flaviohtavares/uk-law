@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 89. Surviving partner’s pension payable on death of pensioner member[^key-bd76e337aa5097fe72807e9f34b347b6]
+## 89. Surviving partner’s pension payable on death of pensioner member[^c-bd76e337aa5097fe72807e9f34b347b6]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bd76e337aa5097fe72807e9f34b347b6]: Commencement: Reg. 89 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-bd76e337aa5097fe72807e9f34b347b6]: Commencement: Reg. 89 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

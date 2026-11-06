@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Application during the transitional period[^key-ffc61ea1c428074b48aa05a2e44b6abb]
+## 5. Application during the transitional period[^c-ffc61ea1c428074b48aa05a2e44b6abb]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ffc61ea1c428074b48aa05a2e44b6abb]: Commencement: Reg. 5 in force at 1.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/1/2)
+[^c-ffc61ea1c428074b48aa05a2e44b6abb]: Commencement: Reg. 5 in force at 1.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/1/2)

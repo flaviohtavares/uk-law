@@ -33,133 +33,133 @@ An Act to enable lessees and sub-lessees occupying residential property in Scotl
 
 \[30th July 1954\] [^c699183]
 
-## Part I — Grant of Feu Right of Property Let under certain Long Leases[^key-c179db9fa6306caeeea5577b1a2ffa63]
+## Part I — Grant of Feu Right of Property Let under certain Long Leases[^c-c179db9fa6306caeeea5577b1a2ffa63]
 
-### General provisions relating to grant of feu right[^key-c179db9fa6306caeeea5577b1a2ffa63]
-
-**No longer in force.**
-
-#### 1. Lessee or sub-lessee under certain long leases may require landlord to grant feu right.[^key-c179db9fa6306caeeea5577b1a2ffa63]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 2. Lessee or sub-lessee deemed to be occupying lessee in certain circumstances.[^key-c179db9fa6306caeeea5577b1a2ffa63]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 3. Occupying lessee acquiring right on or after 10th May, 1951, not entitled to require grant of feu right.[^key-c179db9fa6306caeeea5577b1a2ffa63]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 4. Refusal of grant of feu right on ground of public interest.[^key-c179db9fa6306caeeea5577b1a2ffa63]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 5. Power to certain landlords who have acquired property for occupation as residence, etc., to apply to sheriff for declarator refusing grant of feu right.[^key-c179db9fa6306caeeea5577b1a2ffa63]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Notice requiring grant of feu right[^key-c179db9fa6306caeeea5577b1a2ffa63]
+### General provisions relating to grant of feu right[^c-c179db9fa6306caeeea5577b1a2ffa63]
 
 **No longer in force.**
 
-#### 6. Notice requiring grant of feu right.[^key-c179db9fa6306caeeea5577b1a2ffa63]
+#### 1. Lessee or sub-lessee under certain long leases may require landlord to grant feu right.[^c-c179db9fa6306caeeea5577b1a2ffa63]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Payments to be made where feu right granted[^key-c179db9fa6306caeeea5577b1a2ffa63]
+#### 2. Lessee or sub-lessee deemed to be occupying lessee in certain circumstances.[^c-c179db9fa6306caeeea5577b1a2ffa63]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 3. Occupying lessee acquiring right on or after 10th May, 1951, not entitled to require grant of feu right.[^c-c179db9fa6306caeeea5577b1a2ffa63]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 4. Refusal of grant of feu right on ground of public interest.[^c-c179db9fa6306caeeea5577b1a2ffa63]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 5. Power to certain landlords who have acquired property for occupation as residence, etc., to apply to sheriff for declarator refusing grant of feu right.[^c-c179db9fa6306caeeea5577b1a2ffa63]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Notice requiring grant of feu right[^c-c179db9fa6306caeeea5577b1a2ffa63]
 
 **No longer in force.**
 
-#### 7. Sums payable to landlord by occupying lessee in respect of feu right of subjects let under lease with one hundred years or less unexpired.[^key-c179db9fa6306caeeea5577b1a2ffa63]
+#### 6. Notice requiring grant of feu right.[^c-c179db9fa6306caeeea5577b1a2ffa63]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 8. Feu-duty payable in respect of feu right of subjects let under lease with over one hundred years unexpired.[^key-c179db9fa6306caeeea5577b1a2ffa63]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 9. Payment to be made to intermediate landlord by occupying lessee on grant of feu right.[^key-c179db9fa6306caeeea5577b1a2ffa63]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 10. Payments to creditors.[^key-c179db9fa6306caeeea5577b1a2ffa63]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Conveyancing provisions[^key-c179db9fa6306caeeea5577b1a2ffa63]
+### Payments to be made where feu right granted[^c-c179db9fa6306caeeea5577b1a2ffa63]
 
 **No longer in force.**
 
-#### 11. Feu contract to be entered into on grant of feu right.[^key-c179db9fa6306caeeea5577b1a2ffa63]
+#### 7. Sums payable to landlord by occupying lessee in respect of feu right of subjects let under lease with one hundred years or less unexpired.[^c-c179db9fa6306caeeea5577b1a2ffa63]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 12. Rights to minerals.[^key-c179db9fa6306caeeea5577b1a2ffa63]
+#### 8. Feu-duty payable in respect of feu right of subjects let under lease with over one hundred years unexpired.[^c-c179db9fa6306caeeea5577b1a2ffa63]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 13. Execution of feu contract.[^key-c179db9fa6306caeeea5577b1a2ffa63]
+#### 9. Payment to be made to intermediate landlord by occupying lessee on grant of feu right.[^c-c179db9fa6306caeeea5577b1a2ffa63]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 14. Provisions where lease or sub-lease assigned byex facieabsolute assignation.[^key-c179db9fa6306caeeea5577b1a2ffa63]
+#### 10. Payments to creditors.[^c-c179db9fa6306caeeea5577b1a2ffa63]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Continuation of certain leases and sub-leases[^key-c179db9fa6306caeeea5577b1a2ffa63]
+### Conveyancing provisions[^c-c179db9fa6306caeeea5577b1a2ffa63]
 
 **No longer in force.**
 
-#### 15. Continuation of leases and sub-leases expiring within five years after commencement of Act.[^key-c179db9fa6306caeeea5577b1a2ffa63]
+#### 11. Feu contract to be entered into on grant of feu right.[^c-c179db9fa6306caeeea5577b1a2ffa63]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 16. Power to occupying lessee to exclude operation of s. 15.[^key-c179db9fa6306caeeea5577b1a2ffa63]
+#### 12. Rights to minerals.[^c-c179db9fa6306caeeea5577b1a2ffa63]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 17. Restriction on exercise of option to terminate lease or sub-lease.[^key-c179db9fa6306caeeea5577b1a2ffa63]
+#### 13. Execution of feu contract.[^c-c179db9fa6306caeeea5577b1a2ffa63]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Supplementary provisions[^key-c179db9fa6306caeeea5577b1a2ffa63]
+#### 14. Provisions where lease or sub-lease assigned byex facieabsolute assignation.[^c-c179db9fa6306caeeea5577b1a2ffa63]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Continuation of certain leases and sub-leases[^c-c179db9fa6306caeeea5577b1a2ffa63]
 
 **No longer in force.**
 
-#### 18. Rules for determining duration of lease or sub-lease.[^key-c179db9fa6306caeeea5577b1a2ffa63]
+#### 15. Continuation of leases and sub-leases expiring within five years after commencement of Act.[^c-c179db9fa6306caeeea5577b1a2ffa63]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 19. Rules for determining rent payable under lease or sub-lease.[^key-c179db9fa6306caeeea5577b1a2ffa63]
+#### 16. Power to occupying lessee to exclude operation of s. 15.[^c-c179db9fa6306caeeea5577b1a2ffa63]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 20. Apportionment of rent.[^key-c179db9fa6306caeeea5577b1a2ffa63]
+#### 17. Restriction on exercise of option to terminate lease or sub-lease.[^c-c179db9fa6306caeeea5577b1a2ffa63]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 21. Provisions regarding securities.[^key-c179db9fa6306caeeea5577b1a2ffa63]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 22. Expenses to be borne by occupying lessee.[^key-c179db9fa6306caeeea5577b1a2ffa63]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 23. Provisions regarding notices, etc.[^key-c179db9fa6306caeeea5577b1a2ffa63]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 24. Provisions regarding heirs of entail, etc.[^key-c179db9fa6306caeeea5577b1a2ffa63]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Interpretation of Part I[^key-c179db9fa6306caeeea5577b1a2ffa63]
+### Supplementary provisions[^c-c179db9fa6306caeeea5577b1a2ffa63]
 
 **No longer in force.**
 
-#### 25. Interpretation of Part I.[^key-c179db9fa6306caeeea5577b1a2ffa63]
+#### 18. Rules for determining duration of lease or sub-lease.[^c-c179db9fa6306caeeea5577b1a2ffa63]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 19. Rules for determining rent payable under lease or sub-lease.[^c-c179db9fa6306caeeea5577b1a2ffa63]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 20. Apportionment of rent.[^c-c179db9fa6306caeeea5577b1a2ffa63]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 21. Provisions regarding securities.[^c-c179db9fa6306caeeea5577b1a2ffa63]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 22. Expenses to be borne by occupying lessee.[^c-c179db9fa6306caeeea5577b1a2ffa63]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 23. Provisions regarding notices, etc.[^c-c179db9fa6306caeeea5577b1a2ffa63]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 24. Provisions regarding heirs of entail, etc.[^c-c179db9fa6306caeeea5577b1a2ffa63]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Interpretation of Part I[^c-c179db9fa6306caeeea5577b1a2ffa63]
+
+**No longer in force.**
+
+#### 25. Interpretation of Part I.[^c-c179db9fa6306caeeea5577b1a2ffa63]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -202,7 +202,7 @@ An Act to enable lessees and sub-lessees occupying residential property in Scotl
 
 This Act shall, subject to the provisions of section four thereof, apply where there is an interest belonging to Her Majesty in right of the Crown or to a Government department or held on behalf of Her Majesty for the purposes of a Government department in like manner as where no such interest subsists.
 
-### 30. Construction of references to enactments.[^key-e4afc23ff80f13013fe677fd10d6cc0b]
+### 30. Construction of references to enactments.[^c-e4afc23ff80f13013fe677fd10d6cc0b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -371,7 +371,7 @@ Section 18.
 
 [^c699183]: Modification: Words of enactment omitted under authority of [Statute Law Revision Act 1948 (c. 62)](https://www.legislation.gov.uk/ukpga/1948/62), [s. 3](https://www.legislation.gov.uk/ukpga/1948/62/section/3)
 
-[^key-c179db9fa6306caeeea5577b1a2ffa63]: Textual amendment: Pt. 1 repealed (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
+[^c-c179db9fa6306caeeea5577b1a2ffa63]: Textual amendment: Pt. 1 repealed (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
 
 [^c699198]: Marginal citation: [1857 c. 26](https://www.legislation.gov.uk/ukpga/1857/26)
 
@@ -385,7 +385,7 @@ Section 18.
 
 [^c699203]: Textual amendment: Words repealed by [Land Tenure Reform (Scotland) Act 1974 (c. 38)](https://www.legislation.gov.uk/ukpga/1974/38), [Sch. 6 para. 7](https://www.legislation.gov.uk/ukpga/1974/38/schedule/6/paragraph/7), [Sch. 7](https://www.legislation.gov.uk/ukpga/1974/38/schedule/7)
 
-[^key-e4afc23ff80f13013fe677fd10d6cc0b]: Textual amendment: S. 30 repealed (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
+[^c-e4afc23ff80f13013fe677fd10d6cc0b]: Textual amendment: S. 30 repealed (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
 
 [^M_F_ab7e9d5f-60df-4147-c677-357e1a621152]: Textual amendment: Schs. repealed (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
 

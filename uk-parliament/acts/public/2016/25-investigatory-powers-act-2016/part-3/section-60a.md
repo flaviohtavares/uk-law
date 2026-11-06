@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60A. Power of Investigatory Powers Commissioner to grant authorisations[^key-625a328ebf66ddfb96e0ca797becc9db]
+## 60A. Power of Investigatory Powers Commissioner to grant authorisations[^c-625a328ebf66ddfb96e0ca797becc9db]
 
 *Extent: E+W+S+N.I.*
 
@@ -87,4 +87,4 @@ summary: ''
 
 ## Annotations
 
-[^key-625a328ebf66ddfb96e0ca797becc9db]: Textual amendment: S. 60A and cross-heading inserted (5.2.2019) by [The Data Retention and Acquisition Regulations 2018 (S.I. 2018/1123)](https://www.legislation.gov.uk/uksi/2018/1123), [regs. 1(4)(b)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/1/4/b)[(5)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/1/5), [5](https://www.legislation.gov.uk/uksi/2018/1123/regulation/5) (see S.I. 2019/174, reg. 2(c))
+[^c-625a328ebf66ddfb96e0ca797becc9db]: Textual amendment: S. 60A and cross-heading inserted (5.2.2019) by [The Data Retention and Acquisition Regulations 2018 (S.I. 2018/1123)](https://www.legislation.gov.uk/uksi/2018/1123), [regs. 1(4)(b)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/1/4/b)[(5)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/1/5), [5](https://www.legislation.gov.uk/uksi/2018/1123/regulation/5) (see S.I. 2019/174, reg. 2(c))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Restriction zone requirement[^key-f301879083be7ffe5207ee8e3d1261b2]
+## 17. Restriction zone requirement[^c-f301879083be7ffe5207ee8e3d1261b2]
 
 *Extent: E+W*
 
@@ -146,4 +146,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f301879083be7ffe5207ee8e3d1261b2]: Commencement: S. 17 not in force at Royal Assent, see [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1)
+[^c-f301879083be7ffe5207ee8e3d1261b2]: Commencement: S. 17 not in force at Royal Assent, see [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1)

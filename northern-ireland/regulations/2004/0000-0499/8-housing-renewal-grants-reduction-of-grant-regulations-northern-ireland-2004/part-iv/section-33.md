@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 33. Modifications in respect of child and young person[^key-a373fb984170ba97d2a398df8b06294e]
+## 33. Modifications in respect of child and young person[^c-a373fb984170ba97d2a398df8b06294e]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a373fb984170ba97d2a398df8b06294e]: Commencement: Reg. 33 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)
+[^c-a373fb984170ba97d2a398df8b06294e]: Commencement: Reg. 33 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)

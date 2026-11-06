@@ -32,7 +32,7 @@ summary: ''
 
 Food
 
-The Food Labelling (Declaration of Allergens) (Scotland) Regulations 2011 (revoked)[^key-3467800a2aaa70ba2e1dff053ae16b3d]
+The Food Labelling (Declaration of Allergens) (Scotland) Regulations 2011 (revoked)[^c-3467800a2aaa70ba2e1dff053ae16b3d]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 19th March 2011
 
-[^key-3467800a2aaa70ba2e1dff053ae16b3d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3467800a2aaa70ba2e1dff053ae16b3d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-3467800a2aaa70ba2e1dff053ae16b3d]
+## 1. Citation, commencement and extent[^c-3467800a2aaa70ba2e1dff053ae16b3d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Food Labelling Regulations 1996[^key-3467800a2aaa70ba2e1dff053ae16b3d]
+## 2. Amendment of the Food Labelling Regulations 1996[^c-3467800a2aaa70ba2e1dff053ae16b3d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3467800a2aaa70ba2e1dff053ae16b3d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3467800a2aaa70ba2e1dff053ae16b3d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-3467800a2aaa70ba2e1dff053ae16b3d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3467800a2aaa70ba2e1dff053ae16b3d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3467800a2aaa70ba2e1dff053ae16b3d]: Textual amendment: Regulations revoked (13.12.2014) by [The Food Information (Scotland) Regulations 2014 (S.S.I. 2014/312)](https://www.legislation.gov.uk/ssi/2014/312), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/312/regulation/1/2), [sch. 4 Pt. 1](https://www.legislation.gov.uk/ssi/2014/312/schedule/4/part/1)
+[^c-3467800a2aaa70ba2e1dff053ae16b3d]: Textual amendment: Regulations revoked (13.12.2014) by [The Food Information (Scotland) Regulations 2014 (S.S.I. 2014/312)](https://www.legislation.gov.uk/ssi/2014/312), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/312/regulation/1/2), [sch. 4 Pt. 1](https://www.legislation.gov.uk/ssi/2014/312/schedule/4/part/1)

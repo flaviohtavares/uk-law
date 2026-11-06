@@ -469,7 +469,7 @@ In regulation 4 of the Surface Waters (Dangerous Substances) (Classification) Re
 
 In regulation 2 of the Mines (Notice of Abandonment) Regulations 1998 [^c21770471], after “Agency” insert “ or the NRBW ”.
 
-### 79. Town and Country Planning (Environmental Impact Assessment) (England and Wales) Regulations 1999[^key-96692ea479543c7d645279a80b3421c3]
+### 79. Town and Country Planning (Environmental Impact Assessment) (England and Wales) Regulations 1999[^c-96692ea479543c7d645279a80b3421c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -672,7 +672,7 @@ The Environmental Impact Assessment (Forestry) (England and Wales) Regulations 1
 - (a) in sub-paragraph (d), omit “and Wales”;
 - (b) in sub-paragraph (f), for “the Countryside Council for Wales” substitute “ the Natural Resources Body for Wales ”.
 
-### 113. Ionising Radiations Regulations 1999[^key-e439aededa0f26237eb23f8a0bd47e51]
+### 113. Ionising Radiations Regulations 1999[^c-e439aededa0f26237eb23f8a0bd47e51]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -1085,7 +1085,7 @@ The Water Resources (Environmental Impact Assessment) (England and Wales) Regula
 
 In regulations 2 and 3 of the Urban Waste Water Treatment (England and Wales) (Amendment) Regulations 2003 [^c21770711], for “the Environment Agency” and “the Agency”, in each place where they occur, substitute “ the appropriate agency ”.
 
-### 169. Packaging (Essential Requirements) Regulations 2003[^key-3928657502a8d36508b6404f71d382d1]
+### 169. Packaging (Essential Requirements) Regulations 2003[^c-3928657502a8d36508b6404f71d382d1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -2189,31 +2189,31 @@ The REACH Enforcement Regulations 2008 [^c21771011] are amended as follows.
 
 (2) Accordingly, in the heading to Part 1, after “the Environment Agency,” insert “ the Natural Resources Body for Wales, ”.
 
-### 310. Transfrontier Shipment of Radioactive Waste and Spent Fuel Regulations 2008[^key-1f39df8ef120d47dd25dc041c1af47ed]
+### 310. Transfrontier Shipment of Radioactive Waste and Spent Fuel Regulations 2008[^c-1f39df8ef120d47dd25dc041c1af47ed]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**311.**[^key-1f39df8ef120d47dd25dc041c1af47ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**311.**[^c-1f39df8ef120d47dd25dc041c1af47ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**312.**[^key-1f39df8ef120d47dd25dc041c1af47ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**312.**[^c-1f39df8ef120d47dd25dc041c1af47ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 313. Environmental Damage (Prevention and Remediation) Regulations 2009
 
 In regulation 10(2) of the Environmental Damage (Prevention and Remediation) Regulations 2009 [^c21771031], for “the Environment Agency”, in the first place where it occurs, substitute “ either the Environment Agency or the Natural Resources Body for Wales ”.
 
-### 314. Ozone-Depleting Substances (Qualifications) Regulations 2009[^key-f6349366237645fb864dd71734a5139f]
+### 314. Ozone-Depleting Substances (Qualifications) Regulations 2009[^c-f6349366237645fb864dd71734a5139f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 315. Fluorinated Greenhouse Gases Regulations 2009[^key-38fcd85e1bf9c50f012107ca4ece6c5b]
+### 315. Fluorinated Greenhouse Gases Regulations 2009[^c-38fcd85e1bf9c50f012107ca4ece6c5b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**316.**[^key-38fcd85e1bf9c50f012107ca4ece6c5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**316.**[^c-38fcd85e1bf9c50f012107ca4ece6c5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**317.**[^key-38fcd85e1bf9c50f012107ca4ece6c5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**317.**[^c-38fcd85e1bf9c50f012107ca4ece6c5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 318. Waste Batteries and Accumulators Regulations 2009
 
@@ -2663,7 +2663,7 @@ The Environmental Permitting (England and Wales) Regulations 2010 [^c21771181] a
 
 (3) In the definition of “rule-making authority”, in sub-paragraph (b), for “Agency” substitute “ appropriate agency ”.
 
-**377.**[^key-d20e52d9943ea1866f20e868606ea2e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**377.**[^c-d20e52d9943ea1866f20e868606ea2e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **378.** (1) Regulation 33 is amended as follows.
 
@@ -3249,7 +3249,7 @@ The Greenhouse Gas Emissions Trading Scheme Regulations 2012 [^c21771291] are am
 
 [^c21770471]: Marginal citation: [S.I. 1998/892](https://www.legislation.gov.uk/uksi/1998/892).
 
-[^key-96692ea479543c7d645279a80b3421c3]: Textual amendment: [Sch. 4 para. 79](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/79) revoked (1.3.2016) by [The Town and Country Planning (Environmental Impact Assessment) (Wales) Regulations 2016 (S.I. 2016/58)](https://www.legislation.gov.uk/wsi/2016/58), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/58/regulation/1/2), [Sch. 8](https://www.legislation.gov.uk/wsi/2016/58/schedule/8) (with [regs. 59](https://www.legislation.gov.uk/wsi/2016/58/regulation/59), [60(2)](https://www.legislation.gov.uk/wsi/2016/58/regulation/60/2))
+[^c-96692ea479543c7d645279a80b3421c3]: Textual amendment: [Sch. 4 para. 79](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/79) revoked (1.3.2016) by [The Town and Country Planning (Environmental Impact Assessment) (Wales) Regulations 2016 (S.I. 2016/58)](https://www.legislation.gov.uk/wsi/2016/58), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/58/regulation/1/2), [Sch. 8](https://www.legislation.gov.uk/wsi/2016/58/schedule/8) (with [regs. 59](https://www.legislation.gov.uk/wsi/2016/58/regulation/59), [60(2)](https://www.legislation.gov.uk/wsi/2016/58/regulation/60/2))
 
 [^c21770491]: Marginal citation: [S.I. 1999/367](https://www.legislation.gov.uk/uksi/1999/367) as amended by [S.I. 2001/1149](https://www.legislation.gov.uk/uksi/2001/1149), [S.I](https://www.legislation.gov.uk/uksi/2001/1149/section/I). 2011/1043; modified by [Countryside and Rights of Way Act 2000 (c. 37)](https://www.legislation.gov.uk/ukpga/2000/37), [section 93](https://www.legislation.gov.uk/ukpga/2000/37/section/93), [Schedule 15](https://www.legislation.gov.uk/ukpga/2000/37/schedule/15), [paragraph 17](https://www.legislation.gov.uk/ukpga/2000/37/paragraph/17).
 
@@ -3275,7 +3275,7 @@ The Greenhouse Gas Emissions Trading Scheme Regulations 2012 [^c21771291] are am
 
 [^c21770601]: Marginal citation: [S.I. 1999/2892](https://www.legislation.gov.uk/uksi/1999/2892) as amended by [S.I. 2006/657](https://www.legislation.gov.uk/uksi/2006/657), [S.I](https://www.legislation.gov.uk/uksi/2006/657/section/I). 2008/960, [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043).
 
-[^key-e439aededa0f26237eb23f8a0bd47e51]: Textual amendment: [Sch. 4 para. 113](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/113) omitted (1.1.2018) by virtue of [The Ionising Radiations Regulations 2017 (S.I. 2017/1075)](https://www.legislation.gov.uk/uksi/2017/1075), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/1/2), [Sch. 9 para. 12](https://www.legislation.gov.uk/uksi/2017/1075/schedule/9/paragraph/12) (with [regs. 2(5)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/2/5), [3](https://www.legislation.gov.uk/uksi/2017/1075/regulation/3), [Sch. 8](https://www.legislation.gov.uk/uksi/2017/1075/schedule/8))
+[^c-e439aededa0f26237eb23f8a0bd47e51]: Textual amendment: [Sch. 4 para. 113](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/113) omitted (1.1.2018) by virtue of [The Ionising Radiations Regulations 2017 (S.I. 2017/1075)](https://www.legislation.gov.uk/uksi/2017/1075), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/1/2), [Sch. 9 para. 12](https://www.legislation.gov.uk/uksi/2017/1075/schedule/9/paragraph/12) (with [regs. 2(5)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/2/5), [3](https://www.legislation.gov.uk/uksi/2017/1075/regulation/3), [Sch. 8](https://www.legislation.gov.uk/uksi/2017/1075/schedule/8))
 
 [^c21770621]: Marginal citation: [S.I. 1999/3442](https://www.legislation.gov.uk/uksi/1999/3442) as amended by [S.I. 2005/2035](https://www.legislation.gov.uk/uksi/2005/2035), [S.I](https://www.legislation.gov.uk/uksi/2005/2035/section/I). 2007/2457.
 
@@ -3297,7 +3297,7 @@ The Greenhouse Gas Emissions Trading Scheme Regulations 2012 [^c21771291] are am
 
 [^c21770711]: Marginal citation: [S.I. 2003/1788](https://www.legislation.gov.uk/uksi/2003/1788).
 
-[^key-3928657502a8d36508b6404f71d382d1]: Textual amendment: [Sch. 4 para. 169](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/169) revoked (1.10.2015) by [The Packaging (Essential Requirements) Regulations 2015 (S.I. 2015/1640)](https://www.legislation.gov.uk/uksi/2015/1640), [reg. 1](https://www.legislation.gov.uk/uksi/2015/1640/regulation/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2015/1640/schedule/6) (with [reg. 3(5)](https://www.legislation.gov.uk/uksi/2015/1640/regulation/3/5))
+[^c-3928657502a8d36508b6404f71d382d1]: Textual amendment: [Sch. 4 para. 169](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/169) revoked (1.10.2015) by [The Packaging (Essential Requirements) Regulations 2015 (S.I. 2015/1640)](https://www.legislation.gov.uk/uksi/2015/1640), [reg. 1](https://www.legislation.gov.uk/uksi/2015/1640/regulation/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2015/1640/schedule/6) (with [reg. 3(5)](https://www.legislation.gov.uk/uksi/2015/1640/regulation/3/5))
 
 [^c21770731]: Marginal citation: [S.I. 2003/2553](https://www.legislation.gov.uk/uksi/2003/2553) as amended by [S.I. 2009/584](https://www.legislation.gov.uk/uksi/2009/584).
 
@@ -3357,13 +3357,13 @@ The Greenhouse Gas Emissions Trading Scheme Regulations 2012 [^c21771291] are am
 
 [^c21771011]: Marginal citation: [S.I. 2008/2852](https://www.legislation.gov.uk/uksi/2008/2852) as amended by [S.I. 2009/716](https://www.legislation.gov.uk/uksi/2009/716), [S.I](https://www.legislation.gov.uk/uksi/2009/716/section/I). 2010/1513, [S.I. 2011/3058](https://www.legislation.gov.uk/uksi/2011/3058), [S.I](https://www.legislation.gov.uk/uksi/2011/3058/section/I). 2012/632.
 
-[^key-1f39df8ef120d47dd25dc041c1af47ed]: Textual amendment: [Sch. 4 paras. 310-312](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/310) revoked (31.12.2020) by [The Transfrontier Shipment of Radioactive Waste and Spent Fuel (EU Exit) Regulations 2019 (S.I. 2019/156)](https://www.legislation.gov.uk/uksi/2019/156), [regs. 1](https://www.legislation.gov.uk/uksi/2019/156/regulation/1), [17(1)(b)](https://www.legislation.gov.uk/uksi/2019/156/regulation/17/1/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1f39df8ef120d47dd25dc041c1af47ed]: Textual amendment: [Sch. 4 paras. 310-312](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/310) revoked (31.12.2020) by [The Transfrontier Shipment of Radioactive Waste and Spent Fuel (EU Exit) Regulations 2019 (S.I. 2019/156)](https://www.legislation.gov.uk/uksi/2019/156), [regs. 1](https://www.legislation.gov.uk/uksi/2019/156/regulation/1), [17(1)(b)](https://www.legislation.gov.uk/uksi/2019/156/regulation/17/1/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c21771031]: Marginal citation: [S.I. 2009/153](https://www.legislation.gov.uk/uksi/2009/153) as amended by [S.I. 2009/3275](https://www.legislation.gov.uk/uksi/2009/3275), [S.I](https://www.legislation.gov.uk/uksi/2009/3275/section/I). 2010/587, [S.I. 2010/675](https://www.legislation.gov.uk/uksi/2010/675), [S.I](https://www.legislation.gov.uk/uksi/2010/675/section/I). 2010/2221, [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556) (C. 19), [S.I. 2011/988](https://www.legislation.gov.uk/uksi/2011/988), [S.I](https://www.legislation.gov.uk/uksi/2011/988/section/I). 2011/1043, [S.I. 2011/2131](https://www.legislation.gov.uk/uksi/2011/2131), [S.I](https://www.legislation.gov.uk/uksi/2011/2131/section/I). 2012/630, [S.I. 2012/2897](https://www.legislation.gov.uk/uksi/2012/2897).
 
-[^key-f6349366237645fb864dd71734a5139f]: Textual amendment: Sch. 4 para. 314 revoked (7.3.2015) by [The Ozone-Depleting Substances Regulations 2015 (S.I. 2015/168)](https://www.legislation.gov.uk/uksi/2015/168), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/168/regulation/1/2), [21(2)(b)](https://www.legislation.gov.uk/uksi/2015/168/regulation/21/2/b) (with [reg. 12(7)](https://www.legislation.gov.uk/uksi/2015/168/regulation/12/7))
+[^c-f6349366237645fb864dd71734a5139f]: Textual amendment: Sch. 4 para. 314 revoked (7.3.2015) by [The Ozone-Depleting Substances Regulations 2015 (S.I. 2015/168)](https://www.legislation.gov.uk/uksi/2015/168), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/168/regulation/1/2), [21(2)(b)](https://www.legislation.gov.uk/uksi/2015/168/regulation/21/2/b) (with [reg. 12(7)](https://www.legislation.gov.uk/uksi/2015/168/regulation/12/7))
 
-[^key-38fcd85e1bf9c50f012107ca4ece6c5b]: Textual amendment: [Sch. 4 paras. 315-317](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/315) omitted (19.3.2015) by virtue of [The Fluorinated Greenhouse Gases Regulations 2015 (S.I. 2015/310)](https://www.legislation.gov.uk/uksi/2015/310), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2015/310/regulation/1/1/b), [33(3)](https://www.legislation.gov.uk/uksi/2015/310/regulation/33/3)
+[^c-38fcd85e1bf9c50f012107ca4ece6c5b]: Textual amendment: [Sch. 4 paras. 315-317](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/315) omitted (19.3.2015) by virtue of [The Fluorinated Greenhouse Gases Regulations 2015 (S.I. 2015/310)](https://www.legislation.gov.uk/uksi/2015/310), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2015/310/regulation/1/1/b), [33(3)](https://www.legislation.gov.uk/uksi/2015/310/regulation/33/3)
 
 [^c21771061]: Marginal citation: [S.I. 2009/890](https://www.legislation.gov.uk/uksi/2009/890) as amended by [S.I. 2009/3381](https://www.legislation.gov.uk/uksi/2009/3381), [S.I](https://www.legislation.gov.uk/uksi/2009/3381/section/I). 2010/675, [S.I. 2011/988](https://www.legislation.gov.uk/uksi/2011/988), [S.I](https://www.legislation.gov.uk/uksi/2011/988/section/I). 2011/1043.
 
@@ -3391,7 +3391,7 @@ The Greenhouse Gas Emissions Trading Scheme Regulations 2012 [^c21771291] are am
 
 [^c21771181]: Marginal citation: [S.I. 2010/675](https://www.legislation.gov.uk/uksi/2010/675) as amended by [S.I. 2010/676](https://www.legislation.gov.uk/uksi/2010/676), [S.I](https://www.legislation.gov.uk/uksi/2010/676/section/I). 2010/2172, [S.I. 2011/881](https://www.legislation.gov.uk/uksi/2011/881), [S.I](https://www.legislation.gov.uk/uksi/2011/881/section/I). 2011/988, [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043), [S.I](https://www.legislation.gov.uk/uksi/2011/1043/section/I). 2011/2043, [S.I. 2011/2377](https://www.legislation.gov.uk/uksi/2011/2377) (W. 250), [S.I. 2011/2933](https://www.legislation.gov.uk/uksi/2011/2933), [S.I](https://www.legislation.gov.uk/uksi/2011/2933/section/I). 2012/630, [S.I. 2012/811](https://www.legislation.gov.uk/uksi/2012/811).
 
-[^key-d20e52d9943ea1866f20e868606ea2e4]: Textual amendment: Sch. 4 para. 377 omitted (5.3.2014) by virtue of [The Environmental Permitting (England and Wales) (Amendment) Regulations 2014 (S.I. 2014/255)](https://www.legislation.gov.uk/uksi/2014/255), [regs. 1](https://www.legislation.gov.uk/uksi/2014/255/regulation/21), [21](https://www.legislation.gov.uk/uksi/2014/255/regulation/21)
+[^c-d20e52d9943ea1866f20e868606ea2e4]: Textual amendment: Sch. 4 para. 377 omitted (5.3.2014) by virtue of [The Environmental Permitting (England and Wales) (Amendment) Regulations 2014 (S.I. 2014/255)](https://www.legislation.gov.uk/uksi/2014/255), [regs. 1](https://www.legislation.gov.uk/uksi/2014/255/regulation/21), [21](https://www.legislation.gov.uk/uksi/2014/255/regulation/21)
 
 [^c21771191]: Marginal citation: [S.I. 2010/768](https://www.legislation.gov.uk/uksi/2010/768) as amended by [S.I. 2011/234](https://www.legislation.gov.uk/uksi/2011/234).
 

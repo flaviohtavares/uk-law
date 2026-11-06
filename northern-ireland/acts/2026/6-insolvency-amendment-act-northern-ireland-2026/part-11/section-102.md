@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 102. Miscellaneous provision about insolvency law[^key-89dd95f6bf551b722ae5e2c28e453d7d]
+## 102. Miscellaneous provision about insolvency law[^c-89dd95f6bf551b722ae5e2c28e453d7d]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ Schedule 3 to this Act—
 
 ## Annotations
 
-[^key-89dd95f6bf551b722ae5e2c28e453d7d]: Commencement: S. 102 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-89dd95f6bf551b722ae5e2c28e453d7d]: Commencement: S. 102 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 299A. The no disqualifying arrangements requirement[^key-e21c457e4ad2672d59363d7a2799686b]
+## 299A. The no disqualifying arrangements requirement[^c-e21c457e4ad2672d59363d7a2799686b]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,13 +48,13 @@ summary: ''
   - (a) relief under Chapter 6 of Part 4 (losses on disposal of shares) in respect of the shares;
   - (b) EIS relief (within the meaning of Part 5) in respect of the shares;
   - (c) SEIS relief (within the meaning of Part 5A) in respect of the shares;
-  - (ca) SI[^key-291ca85cc1f4e626a664209d69f89043] relief (within the meaning of Part 5B) in respect of the shares;
+  - (ca) SI[^c-291ca85cc1f4e626a664209d69f89043] relief (within the meaning of Part 5B) in respect of the shares;
   - (d) relief under section 150A or 150E of TCGA 1992 (enterprise investment scheme and seed enterprise investment scheme) in respect of the shares;
   - (e) relief under Schedule 5B to that Act in consequence of which deferral relief is attributable to the shares;
   - (f) relief under Schedule 5BB to that Act (seed enterprise investment scheme: re-investment) in consequence of which SEIS re-investment relief is attributable to the shares (see paragraph 4 of that Schedule).
 
 ## Annotations
 
-[^key-e21c457e4ad2672d59363d7a2799686b]: Textual amendment: S. 299A inserted (17.7.2012) (with effect in accordance with Sch. 8 para. 19 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 8 para. 10](https://www.legislation.gov.uk/ukpga/2012/14/schedule/8/paragraph/10)
+[^c-e21c457e4ad2672d59363d7a2799686b]: Textual amendment: S. 299A inserted (17.7.2012) (with effect in accordance with Sch. 8 para. 19 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 8 para. 10](https://www.legislation.gov.uk/ukpga/2012/14/schedule/8/paragraph/10)
 
-[^key-291ca85cc1f4e626a664209d69f89043]: Textual amendment: Words in s. 299A(6) inserted (with effect in accordance with Sch. 1 para. 16 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 1 para. 11(4)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/1/paragraph/11/4)
+[^c-291ca85cc1f4e626a664209d69f89043]: Textual amendment: Words in s. 299A(6) inserted (with effect in accordance with Sch. 1 para. 16 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 1 para. 11(4)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/1/paragraph/11/4)

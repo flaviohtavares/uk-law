@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 33. Equipment used for medical exposure[^key-432fa85c83c27283d194893fd859b60f]
+## 33. Equipment used for medical exposure[^c-432fa85c83c27283d194893fd859b60f]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-432fa85c83c27283d194893fd859b60f]: Textual amendment: [Reg. 33](https://www.legislation.gov.uk/uksi/2017/1075/regulation/33) omitted (6.2.2018) by virtue of [The Ionising Radiation (Medical Exposure) Regulations 2017 (S.I. 2017/1322)](https://www.legislation.gov.uk/uksi/2017/1322), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1322/regulation/1), [Sch. 4 para. 3(4)](https://www.legislation.gov.uk/uksi/2017/1322/schedule/4/paragraph/3/4)
+[^c-432fa85c83c27283d194893fd859b60f]: Textual amendment: [Reg. 33](https://www.legislation.gov.uk/uksi/2017/1075/regulation/33) omitted (6.2.2018) by virtue of [The Ionising Radiation (Medical Exposure) Regulations 2017 (S.I. 2017/1322)](https://www.legislation.gov.uk/uksi/2017/1322), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1322/regulation/1), [Sch. 4 para. 3(4)](https://www.legislation.gov.uk/uksi/2017/1322/schedule/4/paragraph/3/4)

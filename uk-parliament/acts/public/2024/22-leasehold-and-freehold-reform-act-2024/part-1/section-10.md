@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Permitted leases: transaction warning conditions[^key-7d8620f66b5ee48837622f374a786dde]
+## 10. Permitted leases: transaction warning conditions[^c-7d8620f66b5ee48837622f374a786dde]
 
 *Extent: E+W*
 
@@ -78,4 +78,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7d8620f66b5ee48837622f374a786dde]: Commencement: S. 10 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-7d8620f66b5ee48837622f374a786dde]: Commencement: S. 10 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

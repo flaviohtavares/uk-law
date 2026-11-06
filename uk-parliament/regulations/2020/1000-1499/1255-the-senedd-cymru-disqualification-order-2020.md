@@ -33,7 +33,7 @@ Constitutional Law
 
 Representation Of The People, Wales
 
-The Senedd Cymru (Disqualification) Order 2020 (revoked)[^key-7cafedb05d3bd983d24fad2caf8194dd]
+The Senedd Cymru (Disqualification) Order 2020 (revoked)[^c-7cafedb05d3bd983d24fad2caf8194dd]
 
 Made
 
@@ -49,27 +49,27 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-7cafedb05d3bd983d24fad2caf8194dd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7cafedb05d3bd983d24fad2caf8194dd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-7cafedb05d3bd983d24fad2caf8194dd]
+## 1. Title and commencement[^c-7cafedb05d3bd983d24fad2caf8194dd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Designation of disqualifying offices[^key-7cafedb05d3bd983d24fad2caf8194dd]
+## 2. Designation of disqualifying offices[^c-7cafedb05d3bd983d24fad2caf8194dd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-7cafedb05d3bd983d24fad2caf8194dd]
+## 3. Revocation[^c-7cafedb05d3bd983d24fad2caf8194dd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7cafedb05d3bd983d24fad2caf8194dd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7cafedb05d3bd983d24fad2caf8194dd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Offices disqualifying holders from membership of the Senedd[^key-7cafedb05d3bd983d24fad2caf8194dd]
+## SCHEDULE — Offices disqualifying holders from membership of the Senedd[^c-7cafedb05d3bd983d24fad2caf8194dd]
 
 Article 2
 
@@ -77,8 +77,8 @@ Article 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-7cafedb05d3bd983d24fad2caf8194dd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7cafedb05d3bd983d24fad2caf8194dd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7cafedb05d3bd983d24fad2caf8194dd]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2020/1255) revoked (with effect in accordance with art. 1(2) of the amending S.I.) by [The Senedd Cymru (Disqualification) Order 2025 (S.I. 2025/1183)](https://www.legislation.gov.uk/uksi/2025/1183), [art. 3](https://www.legislation.gov.uk/uksi/2025/1183/article/3)
+[^c-7cafedb05d3bd983d24fad2caf8194dd]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2020/1255) revoked (with effect in accordance with art. 1(2) of the amending S.I.) by [The Senedd Cymru (Disqualification) Order 2025 (S.I. 2025/1183)](https://www.legislation.gov.uk/uksi/2025/1183), [art. 3](https://www.legislation.gov.uk/uksi/2025/1183/article/3)

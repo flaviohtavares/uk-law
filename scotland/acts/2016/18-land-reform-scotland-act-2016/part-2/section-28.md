@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 28. Tenant Farming Commissioner: promotion of codes of practice[^key-69dad87622d140b4dfe37531ddb37198]
+## 28. Tenant Farming Commissioner: promotion of codes of practice[^c-69dad87622d140b4dfe37531ddb37198]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ The Tenant Farming Commissioner is to promote the observance of the codes of pra
 
 ## Annotations
 
-[^key-69dad87622d140b4dfe37531ddb37198]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2016/18/section/28) in force at 1.4.2017 by [S.S.I. 2016/250](https://www.legislation.gov.uk/ssi/2016/250), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2016/250/regulation/2/3), [sch. 2](https://www.legislation.gov.uk/ssi/2016/250/schedule/2)
+[^c-69dad87622d140b4dfe37531ddb37198]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2016/18/section/28) in force at 1.4.2017 by [S.S.I. 2016/250](https://www.legislation.gov.uk/ssi/2016/250), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2016/250/regulation/2/3), [sch. 2](https://www.legislation.gov.uk/ssi/2016/250/schedule/2)

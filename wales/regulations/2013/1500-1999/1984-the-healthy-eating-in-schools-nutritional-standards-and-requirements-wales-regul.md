@@ -45,13 +45,13 @@ Coming into force
 
 The Welsh Ministers, in exercise of the powers conferred on them by section 4(1), (2), (3), (4) and (8) and section 10 of the Healthy Eating in Schools (Wales) Measure 2009[^f00001] and having ascertained the views of pupils and consulted such other persons as they consider appropriate in accordance with section 4(11) of that Measure make the following Regulations.
 
-## 1. Title, commencement and application[^key-68ca58b23ba422e27be06af70be4f0a8]
+## 1. Title, commencement and application[^c-68ca58b23ba422e27be06af70be4f0a8]
 
 (1) The title of these Regulations is the Healthy Eating in Schools (Nutritional Standards and Requirements) (Wales) Regulations 2013 and they come into force on 2 September 2013.
 
 (2) These Regulations apply in relation to Wales.
 
-## 2. Interpretation[^key-79f294006206abb906a1b98caa6acc8b]
+## 2. Interpretation[^c-79f294006206abb906a1b98caa6acc8b]
 
 (1) In these Regulations—
 
@@ -69,26 +69,26 @@ The Welsh Ministers, in exercise of the powers conferred on them by section 4(1)
 - “evening meal” (“*pryd gyda’r hwyr*”) in relation to a maintained boarding school, means food or drink provided on or after 6pm;
 - “fruit juice” (“*sudd ffrwythau*”) means—
   - (a) the products described by that name; or
-  - (b) the product described by the name of “fruit juice from concentrate” in Schedule 3 to the Fruit Juices and Fruit Nectars (Wales) Regulations 2013[^key-00e01b907133880645400b86ff2aa575];
+  - (b) the product described by the name of “fruit juice from concentrate” in Schedule 3 to the Fruit Juices and Fruit Nectars (Wales) Regulations 2013[^c-00e01b907133880645400b86ff2aa575];
 - “junior pupil” (“*disgybl iau*”) has the meaning given to it by section 3(2) of the 1996 Act;
 - “maintained nursery school” (“*ysgol feithrin a gynhelir*”) means a nursery school or a nursery unit in a primary school maintained by a local authority;
 - “maintained school” (“*ysgol a gynhelir*”) has the meaning given to it by section 11 of the Healthy Eating in Schools (Wales) Measure 2009;
 - “milk” (“*llaeth*”) means whole milk, semi-skimmed milk or skimmed milk;
-- “[^key-19fdaffa5e8bef3fce7efbdbc159f2cf]**meat**” (“***cig***”) means the skeletal muscles of mammalian and bird species recognised as fit for human consumption with naturally included or adherent tissue but does not include mechanically separated meat (which has the meaning given in point 1.14 of Annex I to Regulation [(EC) No 853/2004](https://www.legislation.gov.uk/european/regulation/2004/0853) of the European Parliament and of the Council laying down specific hygiene rules for food of animal origin);
-- [^key-6ca38af414f7c3f3f37890d3a387ea50]...
-- “Meat Products Regulations” ([^key-5f1175917ba8cbc4335814a390319080]*“Rheoliadau Cynhyrchion Cig*”) means the Products Containing Meat etc. (Wales) Regulations 2014;
+- “[^c-19fdaffa5e8bef3fce7efbdbc159f2cf]**meat**” (“***cig***”) means the skeletal muscles of mammalian and bird species recognised as fit for human consumption with naturally included or adherent tissue but does not include mechanically separated meat (which has the meaning given in point 1.14 of Annex I to Regulation [(EC) No 853/2004](https://www.legislation.gov.uk/european/regulation/2004/0853) of the European Parliament and of the Council laying down specific hygiene rules for food of animal origin);
+- [^c-6ca38af414f7c3f3f37890d3a387ea50]...
+- “Meat Products Regulations” ([^c-5f1175917ba8cbc4335814a390319080]*“Rheoliadau Cynhyrchion Cig*”) means the Products Containing Meat etc. (Wales) Regulations 2014;
 - “medically prescribed dietary requirements” (“*anghenion deietegol sydd wedi eu rhagnodi’n feddygol*”) means dietary requirements prescribed by—
   - (a) a registered medical practitioner; or
-  - (b) a dietitian who is registered in Part 4 of the Register maintained under article 5 of the Health Professions Order 2001[^key-bfbe060c5bfc2ee1cf564dd6b8134a71];
+  - (b) a dietitian who is registered in Part 4 of the Register maintained under article 5 of the Health Professions Order 2001[^c-bfbe060c5bfc2ee1cf564dd6b8134a71];
 - “oily fish” (“*pysgod olewog*”) includes anchovies, herring, kipper, mackerel, pilchards, salmon, sardines, trout, tuna (but not canned tuna) and whitebait but excludes fortified fish products or other foods fortified with omega 3;
 - “portion” (“*dogn*”) means an amount of a particular food provided to an individual as part of a meal;
 - “primary education” (“*addysg gynradd*”) has the meaning given to it by section 2(1) of the 1996 Act;
 - “primary school” (“ysgol gynradd”) means a school that provides primary education (whether or not it also provides other kinds of education);
-- “product containing meat” (“[^key-ce18b364c19aa92c72f07feb69c581d0]*cynnyrch sy’n cynnwys cig*”) has the same meaning as “regulated product” (“*cynnyrch rheoleiddiedig*”) in regulation 2 of the Products Containing Meat etc. (Wales) Regulations 2014;
+- “product containing meat” (“[^c-ce18b364c19aa92c72f07feb69c581d0]*cynnyrch sy’n cynnwys cig*”) has the same meaning as “regulated product” (“*cynnyrch rheoleiddiedig*”) in regulation 2 of the Products Containing Meat etc. (Wales) Regulations 2014;
 - “provide” (“*darparu*”) includes arranging provision;
 - “relevant European Union Regulations” (“*Rheoliadau Undeb Ewropeaidd perthnasol*”) means—
-  - (a) Regulation [(EC) No 1333/2008](https://www.legislation.gov.uk/european/regulation/2008/1333)[^f00007] of the European Parliament and the Council of the European Union on food additives as amended from time to time[^key-bf45a326ee8e34441820fc347916f252];
-  - (b) Regulation [(EC) No 1334/2008](https://www.legislation.gov.uk/european/regulation/2008/1334)[^f00008] of the European Parliament and the Council of the European Union on flavourings and certain food ingredients with flavouring properties for use in and on foods as amended from time to time[^key-d1a8fea248aac4ccce8bdb6027971d2f];
+  - (a) Regulation [(EC) No 1333/2008](https://www.legislation.gov.uk/european/regulation/2008/1333)[^f00007] of the European Parliament and the Council of the European Union on food additives as amended from time to time[^c-bf45a326ee8e34441820fc347916f252];
+  - (b) Regulation [(EC) No 1334/2008](https://www.legislation.gov.uk/european/regulation/2008/1334)[^f00008] of the European Parliament and the Council of the European Union on flavourings and certain food ingredients with flavouring properties for use in and on foods as amended from time to time[^c-d1a8fea248aac4ccce8bdb6027971d2f];
 - “sandwiches” (“*brechdanau*”) includes filled rolls and similar products which are ready to eat without further preparation;
 - “savoury snacks” (“*byrbrydau sawrus*”) means —
   - (a) pre-packaged items (excluding confectionery, sandwiches, cakes, biscuits, nuts and seeds) which are ready to eat without further preparation; and
@@ -121,11 +121,11 @@ The Welsh Ministers, in exercise of the powers conferred on them by section 4(1)
 - (e) by parents, pupils or other persons for their own consumption on school premises;
 - (f) as part of any medically prescribed dietary requirements.
 
-## 3. Revocations[^key-d20ca9b8c5a1aa261ed023e83a2e3630]
+## 3. Revocations[^c-d20ca9b8c5a1aa261ed023e83a2e3630]
 
 The Education (Nutritional Standards for School Lunches) (Wales) Regulations 2001[^f00009] are revoked.
 
-## 4. Breakfast in maintained schools[^key-4d106dc834885dded1d1ecd843ede959]
+## 4. Breakfast in maintained schools[^c-4d106dc834885dded1d1ecd843ede959]
 
 (1) A local authority or a governing body of a maintained school must comply with the requirements in Schedule 1 where it provides school breakfast on a school day to—
 
@@ -134,7 +134,7 @@ The Education (Nutritional Standards for School Lunches) (Wales) Regulations 200
 
 (2) Where the local authority or governing body provides school breakfast in accordance with paragraph (1), it must give the pupil or other person the option to choose one food item from each of the food categories listed in Table A in Schedule 1.
 
-## 5. Lunch in maintained nursery schools[^key-39cb913b62f14fe773bcfabca4548f3e]
+## 5. Lunch in maintained nursery schools[^c-39cb913b62f14fe773bcfabca4548f3e]
 
 (1) Subject to paragraph (2), a local authority or a governing body of a maintained school must comply with the requirements in Schedule 2 where it provides school lunch on a school day to—
 
@@ -143,7 +143,7 @@ The Education (Nutritional Standards for School Lunches) (Wales) Regulations 200
 
 (2) The requirements in Schedule 2 do not apply where a local authority or a governing body of a maintained school has complied with the requirements in Schedule 3 and the nutritional standards in Schedule 4 in relation to school lunches provided to persons in paragraph (1).
 
-## 6. Lunch in maintained primary and secondary schools[^key-208bdb8f7882d0df9ec4cfb6538d211e]
+## 6. Lunch in maintained primary and secondary schools[^c-208bdb8f7882d0df9ec4cfb6538d211e]
 
 (1) This regulation applies where a local authority or a governing body of a maintained school provides school lunch on a school day to—
 
@@ -161,7 +161,7 @@ The Education (Nutritional Standards for School Lunches) (Wales) Regulations 200
 
 (5) Where a school is open for fewer than five days in any week the requirements in Schedule 3 which refer to the number of times food must or must not be provided by reference to a week apply as if the school were open for the whole of that week.
 
-## 7. Drinks in maintained schools[^key-0e0add537c748a4888384b5f8fd44e17]
+## 7. Drinks in maintained schools[^c-0e0add537c748a4888384b5f8fd44e17]
 
 (1) This regulation applies to a drink provided to—
 
@@ -175,7 +175,7 @@ The Education (Nutritional Standards for School Lunches) (Wales) Regulations 200
 - (a) a junior pupil must comply with the requirements for primary schools in Schedule 5; and
 - (b) a senior pupil must comply with the requirements for secondary schools in Schedule 5.
 
-## 8. Provision of other food or drink in maintained schools[^key-a498796c0b65f23f415cd91443030e44]
+## 8. Provision of other food or drink in maintained schools[^c-a498796c0b65f23f415cd91443030e44]
 
 (1) A local authority or a governing body of a maintained school must comply with the requirements in Schedule 6 if it provides food on a school day that does not form part of school breakfast or school lunch to persons specified in paragraph (3).
 
@@ -200,11 +200,11 @@ First Minister of Wales
 
 Regulation 4
 
-**1.**[^key-65bdf77cff995a5174f9bb2d2b93f8b3] The requirements in this Schedule apply where school breakfast is provided in maintained schools.
+**1.**[^c-65bdf77cff995a5174f9bb2d2b93f8b3] The requirements in this Schedule apply where school breakfast is provided in maintained schools.
 
-**2.**[^key-fec1d4c3f6b3cf5f9b53798080d6c46b] Only foods from the categories in Table A must be available on each school day.
+**2.**[^c-fec1d4c3f6b3cf5f9b53798080d6c46b] Only foods from the categories in Table A must be available on each school day.
 
-**3.**[^key-4de14ef706060db185ca895e07775fb1] Milk based drinks provided to pupils in maintained schools or persons on the premises of maintained schools must comply with the requirements in Schedule 5.
+**3.**[^c-4de14ef706060db185ca895e07775fb1] Milk based drinks provided to pupils in maintained schools or persons on the premises of maintained schools must comply with the requirements in Schedule 5.
 
 Table A
 
@@ -219,9 +219,9 @@ Table A
 
 Regulation 5
 
-**1.**[^key-40f37330619aa68e949fab49d2619972] On each school day food from each of the food categories in Table B must form part of the school lunch provided in maintained nursery schools.
+**1.**[^c-40f37330619aa68e949fab49d2619972] On each school day food from each of the food categories in Table B must form part of the school lunch provided in maintained nursery schools.
 
-**2.**[^key-2d42ce964f81ca448bcb4fd709aa0d23] Milk provided to pupils in maintained nursery schools or persons on the premises of maintained nursery schools must comply with the requirements in Schedule 5.
+**2.**[^c-2d42ce964f81ca448bcb4fd709aa0d23] Milk provided to pupils in maintained nursery schools or persons on the premises of maintained nursery schools must comply with the requirements in Schedule 5.
 
 Table B
 
@@ -236,9 +236,9 @@ Table B
 
 Regulation 6
 
-**1.**[^key-7a56e00ca5f5042a30a43cf114fa11dc] The requirements in this Schedule apply to school lunch provided in primary and secondary schools unless otherwise stated.
+**1.**[^c-7a56e00ca5f5042a30a43cf114fa11dc] The requirements in this Schedule apply to school lunch provided in primary and secondary schools unless otherwise stated.
 
-### 2. Vegetables[^key-8d66c1810beb7a56b7b69ae3921ebbad]
+### 2. Vegetables[^c-8d66c1810beb7a56b7b69ae3921ebbad]
 
 (1) At least one portion of vegetables or salad must be provided each day in primary schools.
 
@@ -246,7 +246,7 @@ Regulation 6
 
 (3) For the purposes of sub-paragraphs (1) and (2), “vegetables” excludes potatoes.
 
-### 3. Fruit[^key-84ab4945e5949ad1b6f02e1ad6b94a64]
+### 3. Fruit[^c-84ab4945e5949ad1b6f02e1ad6b94a64]
 
 (1) At least one portion of fruit, fruit salad or fruit juice must be provided each day.
 
@@ -257,7 +257,7 @@ Regulation 6
 - (a) in primary schools, of at least 40 grams measured by the weight of the raw ingredients;
 - (b) in secondary schools, of at least 60 grams measured by the weight of the raw ingredients.
 
-### 4. Fish[^key-36b32aab0269f6b7e5e1eba5ea39bf0a]
+### 4. Fish[^c-36b32aab0269f6b7e5e1eba5ea39bf0a]
 
 (1) Subject to sub-paragraph (2), a portion of fish must be provided—
 
@@ -266,50 +266,50 @@ Regulation 6
 
 (2) A portion of oily fish must be provided at least twice during any four week period.
 
-### 5. Potato and potato products[^key-256b7b46fa7b68e6c5fb66ad21dea463]
+### 5. Potato and potato products[^c-256b7b46fa7b68e6c5fb66ad21dea463]
 
 (1) A portion of potato or potato product which is cooked in fat or oil must not be provided more than twice each week.
 
 (2) Where a potato or potato product under paragraph (1) is provided in secondary schools, an alternative starchy food that is not cooked in fat or oil must also be provided.
 
-### 6. Deep-fried or flash-fried food[^key-2d178c726773cf6f6314b12b0200aba1]
+### 6. Deep-fried or flash-fried food[^c-2d178c726773cf6f6314b12b0200aba1]
 
 (1) A portion of food, including prepared, coated, battered and breaded food products, deep-fried or flash-fried on school premises or during the manufacturing process must not be provided more than twice each week.
 
 (2) Food in sub-paragraph (1) does not include potato and potato products.
 
-### 7. Meat[^key-f46c580d687fe1fa9048fcb967a3b23c]
+### 7. Meat[^c-f46c580d687fe1fa9048fcb967a3b23c]
 
 Meat must be provided—
 
 - (a) in primary schools on at least two days each week;
 - (b) in secondary schools on at least three days each week.
 
-### 8. Meat Products[^key-4f0dddfd338bdbb34380e872cb497da7]
+### 8. Meat Products[^c-4f0dddfd338bdbb34380e872cb497da7]
 
-(1) No more than two products containing meat[^key-e6263268ac9dadcba4bc6749bc88778e] are to be provided each week.
+(1) No more than two products containing meat[^c-e6263268ac9dadcba4bc6749bc88778e] are to be provided each week.
 
-(2) A product containing meat[^key-2f53f4de3816b44d89c1468aa8cdfb30] provided under paragraph (1) must not be served more than twice each week.
+(2) A product containing meat[^c-2f53f4de3816b44d89c1468aa8cdfb30] provided under paragraph (1) must not be served more than twice each week.
 
-(3) For the purposes of paragraphs (1) and (2), product containing meat[^key-1c3f8181ae0d138a28a2029a7cd5eaa3] does not include luncheon meat.
+(3) For the purposes of paragraphs (1) and (2), product containing meat[^c-1c3f8181ae0d138a28a2029a7cd5eaa3] does not include luncheon meat.
 
-(4) Products containing meat[^key-7e740fa24b5f18fc2c24d438d854a8a8] including luncheon meat must meet the minimum meat content levels set out in Schedule 1[^key-0902602b0feb469e9b66fafa8a56e560] to the Meat Product Regulations.
+(4) Products containing meat[^c-7e740fa24b5f18fc2c24d438d854a8a8] including luncheon meat must meet the minimum meat content levels set out in Schedule 1[^c-0902602b0feb469e9b66fafa8a56e560] to the Meat Product Regulations.
 
-(5) No product containing meat[^key-5fd89b188dffb9134ab13ffe025577b8] must be provided if it contains any carcase part listed in regulation 5(2)[^key-ed326d6d77df3db858ac479c232720f1] of the Meat Products Regulations, subject to the exception in regulation 5(3)[^key-643f0245a0569674aeae7f199357d655] of those Regulations.
+(5) No product containing meat[^c-5fd89b188dffb9134ab13ffe025577b8] must be provided if it contains any carcase part listed in regulation 5(2)[^c-ed326d6d77df3db858ac479c232720f1] of the Meat Products Regulations, subject to the exception in regulation 5(3)[^c-643f0245a0569674aeae7f199357d655] of those Regulations.
 
-(6) No economy burgers as defined in Schedule 1[^key-3d45c85007f367eb248fda42453f2958] to the Meat Products Regulations must be provided.
+(6) No economy burgers as defined in Schedule 1[^c-3d45c85007f367eb248fda42453f2958] to the Meat Products Regulations must be provided.
 
-(7) Any shaped meat product consisting of a mixture of meat and other ingredients which is not included in the reserved descriptions specified in Schedule 1[^key-6785fdc140ab5875d43e7c6e7fce3e87] to the Meat Product Regulations may only be provided if it complies with the meat content requirements for “Burger” in that Schedule.
+(7) Any shaped meat product consisting of a mixture of meat and other ingredients which is not included in the reserved descriptions specified in Schedule 1[^c-6785fdc140ab5875d43e7c6e7fce3e87] to the Meat Product Regulations may only be provided if it complies with the meat content requirements for “Burger” in that Schedule.
 
-### 9. Confectionary and savoury snacks[^key-ba63f66ce40fbfcaadfcb2ddffdd1af7]
+### 9. Confectionary and savoury snacks[^c-ba63f66ce40fbfcaadfcb2ddffdd1af7]
 
 No confectionery or savoury snacks may be provided.
 
-### 10. Cakes and biscuits[^key-56d82e1674dc6f4605739e8a291b2862]
+### 10. Cakes and biscuits[^c-56d82e1674dc6f4605739e8a291b2862]
 
 Cakes and biscuits must not contain any confectionery.
 
-### 11. Salt and condiments[^key-5ee40757b8e148d82698e5b9e06d2f5a]
+### 11. Salt and condiments[^c-5ee40757b8e148d82698e5b9e06d2f5a]
 
 (1) No salt must be available to pupils to add to food after the cooking process is complete.
 
@@ -319,14 +319,14 @@ Cakes and biscuits must not contain any confectionery.
 
 Regulation 6
 
-**1.**[^key-b739303d9a55bb3e3a0ca857740fc481] In this Schedule—
+**1.**[^c-b739303d9a55bb3e3a0ca857740fc481] In this Schedule—
 
 - “average school lunch” (“*cinio ysgol cyfartalog*”) has the meaning given by paragraph 2 (1);
 - “group of schools” (“*grŵp o ysgolion*”) means two or more schools providing education for the same age range of pupils and which, where the schools provide secondary education, are either all co-educational, all boys’ single sex or all girls’ single sex;
 - “non-milk extrinsic sugars” (“*siwgrau anghynhenid nad ydynt yn deillio o laeth*”) means any sugar which is not contained within cell walls, except lactose in milk and milk products; and
 - “nutrient” (“*maethyn*”) means any substance listed in Table C.
 
-**2.**[^key-f3a323ecb7482487c61c0d73a3003240] (1) Subject to sub-paragraph (2), the average school lunch for a school or a group of schools must be calculated in accordance with the following formula:—
+**2.**[^c-f3a323ecb7482487c61c0d73a3003240] (1) Subject to sub-paragraph (2), the average school lunch for a school or a group of schools must be calculated in accordance with the following formula:—
 
 [formula: see source](https://www.legislation.gov.uk/wsi/2013/1984)
 
@@ -338,7 +338,7 @@ Where—
 
 (2) A group of schools must use the formula in sub-paragraph (1) where school lunch provided at each school in the group is the same.
 
-**3.**[^key-86250c384af44dfa67c4c5d32e25a5fd] The average school lunch must provide—
+**3.**[^c-86250c384af44dfa67c4c5d32e25a5fd] The average school lunch must provide—
 
 - (a) an amount of energy which must be either the figure shown in Table C or within 5% of that figure;
 - (b) no more than the maximum amounts of fat, saturated fat, non-milk extrinsic sugars and sodium shown in Table C; and
@@ -369,7 +369,7 @@ Where—
   </tbody>
   </table>
 
-## SCHEDULE 5 — DRINKS PROVIDED IN MAINTAINED SCHOOLS[^key-f97b5156f11aecbd26a0a6df814ce78d]
+## SCHEDULE 5 — DRINKS PROVIDED IN MAINTAINED SCHOOLS[^c-f97b5156f11aecbd26a0a6df814ce78d]
 
 Regulation 7
 
@@ -402,7 +402,7 @@ The requirements in Table D apply to drinks provided in maintained primary and s
 
 [^f00010]
 
-## SCHEDULE 6 — OTHER FOOD PROVIDED IN MAINTAINED SCHOOLS[^key-0717e40bf91296477a0afd77e47e3c24]
+## SCHEDULE 6 — OTHER FOOD PROVIDED IN MAINTAINED SCHOOLS[^c-0717e40bf91296477a0afd77e47e3c24]
 
 Regulation 8
 
@@ -460,109 +460,109 @@ Schedule 4 requires a calculation to be made for a school or a group of schools 
 
 [^f00001]: Footnote: [2009 nawm 3](https://www.legislation.gov.uk/mwa/2009/3).
 
-[^key-68ca58b23ba422e27be06af70be4f0a8]: Commencement: Reg. 1 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
+[^c-68ca58b23ba422e27be06af70be4f0a8]: Commencement: Reg. 1 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
 
-[^key-79f294006206abb906a1b98caa6acc8b]: Commencement: Reg. 2 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
+[^c-79f294006206abb906a1b98caa6acc8b]: Commencement: Reg. 2 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
 
 [^f00002]: Footnote: [1996 c.56](https://www.legislation.gov.uk/ukpga/1996/56).
 
-[^key-00e01b907133880645400b86ff2aa575]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/2/1) substituted (20.11.2013) by [The Fruit Juices and Fruit Nectars (Wales) Regulations 2013 (S.I. 2013/2750)](https://www.legislation.gov.uk/wsi/2013/2750), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2750/regulation/1/2), [Sch. 15 para. 2(2)](https://www.legislation.gov.uk/wsi/2013/2750/schedule/15/paragraph/2/2) (with [reg. 22(2)](https://www.legislation.gov.uk/wsi/2013/2750/regulation/22/2))
+[^c-00e01b907133880645400b86ff2aa575]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/2/1) substituted (20.11.2013) by [The Fruit Juices and Fruit Nectars (Wales) Regulations 2013 (S.I. 2013/2750)](https://www.legislation.gov.uk/wsi/2013/2750), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2750/regulation/1/2), [Sch. 15 para. 2(2)](https://www.legislation.gov.uk/wsi/2013/2750/schedule/15/paragraph/2/2) (with [reg. 22(2)](https://www.legislation.gov.uk/wsi/2013/2750/regulation/22/2))
 
-[^key-19fdaffa5e8bef3fce7efbdbc159f2cf]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/2/1) substituted (13.12.2014) by [The Food Information (Wales) Regulations 2014 (S.I. 2014/2303)](https://www.legislation.gov.uk/wsi/2014/2303), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/1/3), [Sch. 7 para. 55](https://www.legislation.gov.uk/wsi/2014/2303/schedule/7/paragraph/55)
+[^c-19fdaffa5e8bef3fce7efbdbc159f2cf]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/2/1) substituted (13.12.2014) by [The Food Information (Wales) Regulations 2014 (S.I. 2014/2303)](https://www.legislation.gov.uk/wsi/2014/2303), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/1/3), [Sch. 7 para. 55](https://www.legislation.gov.uk/wsi/2014/2303/schedule/7/paragraph/55)
 
-[^key-6ca38af414f7c3f3f37890d3a387ea50]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/2/1) omitted (13.12.2014) by virtue of [The Products Containing Meat etc. (Wales) Regulations 2014 (S.I. 2014/3087)](https://www.legislation.gov.uk/wsi/2014/3087), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3087/regulation/1/2), [Sch. 3 para. 2(a)](https://www.legislation.gov.uk/wsi/2014/3087/schedule/3/paragraph/2/a) (with [reg. 3](https://www.legislation.gov.uk/wsi/2014/3087/regulation/3))
+[^c-6ca38af414f7c3f3f37890d3a387ea50]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/2/1) omitted (13.12.2014) by virtue of [The Products Containing Meat etc. (Wales) Regulations 2014 (S.I. 2014/3087)](https://www.legislation.gov.uk/wsi/2014/3087), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3087/regulation/1/2), [Sch. 3 para. 2(a)](https://www.legislation.gov.uk/wsi/2014/3087/schedule/3/paragraph/2/a) (with [reg. 3](https://www.legislation.gov.uk/wsi/2014/3087/regulation/3))
 
-[^key-5f1175917ba8cbc4335814a390319080]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/2/1) substituted (13.12.2014) by [The Products Containing Meat etc. (Wales) Regulations 2014 (S.I. 2014/3087)](https://www.legislation.gov.uk/wsi/2014/3087), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3087/regulation/1/2), [Sch. 3 para. 2(b)](https://www.legislation.gov.uk/wsi/2014/3087/schedule/3/paragraph/2/b) (with [reg. 3](https://www.legislation.gov.uk/wsi/2014/3087/regulation/3))
+[^c-5f1175917ba8cbc4335814a390319080]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/2/1) substituted (13.12.2014) by [The Products Containing Meat etc. (Wales) Regulations 2014 (S.I. 2014/3087)](https://www.legislation.gov.uk/wsi/2014/3087), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3087/regulation/1/2), [Sch. 3 para. 2(b)](https://www.legislation.gov.uk/wsi/2014/3087/schedule/3/paragraph/2/b) (with [reg. 3](https://www.legislation.gov.uk/wsi/2014/3087/regulation/3))
 
-[^key-bfbe060c5bfc2ee1cf564dd6b8134a71]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/2/1) substituted (2.12.2019) by [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1094/regulation/1), [Sch. 2 para. 33(2)](https://www.legislation.gov.uk/uksi/2019/1094/schedule/2/paragraph/33/2); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
+[^c-bfbe060c5bfc2ee1cf564dd6b8134a71]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/2/1) substituted (2.12.2019) by [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1094/regulation/1), [Sch. 2 para. 33(2)](https://www.legislation.gov.uk/uksi/2019/1094/schedule/2/paragraph/33/2); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
 
-[^key-ce18b364c19aa92c72f07feb69c581d0]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/2/1) inserted (13.12.2014) by [The Products Containing Meat etc. (Wales) Regulations 2014 (S.I. 2014/3087)](https://www.legislation.gov.uk/wsi/2014/3087), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3087/regulation/1/2), [Sch. 3 para. 2(c)](https://www.legislation.gov.uk/wsi/2014/3087/schedule/3/paragraph/2/c) (with [reg. 3](https://www.legislation.gov.uk/wsi/2014/3087/regulation/3))
+[^c-ce18b364c19aa92c72f07feb69c581d0]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/2/1) inserted (13.12.2014) by [The Products Containing Meat etc. (Wales) Regulations 2014 (S.I. 2014/3087)](https://www.legislation.gov.uk/wsi/2014/3087), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3087/regulation/1/2), [Sch. 3 para. 2(c)](https://www.legislation.gov.uk/wsi/2014/3087/schedule/3/paragraph/2/c) (with [reg. 3](https://www.legislation.gov.uk/wsi/2014/3087/regulation/3))
 
 [^f00007]: Footnote: OJ L 354, 31.12.2008, p.16. Vitamins or minerals added to a food for an additive purpose must meet the controls on the use of additives set out in the Direction.
 
-[^key-bf45a326ee8e34441820fc347916f252]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/2/1) inserted (28.3.2019) by [The Rural Affairs, Environment, Fisheries and Food (Miscellaneous Amendments and Revocations) (Wales) Regulations 2019 (S.I. 2019/463)](https://www.legislation.gov.uk/wsi/2019/463), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3), [15(2)(a)](https://www.legislation.gov.uk/wsi/2019/463/regulation/15/2/a)
+[^c-bf45a326ee8e34441820fc347916f252]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/2/1) inserted (28.3.2019) by [The Rural Affairs, Environment, Fisheries and Food (Miscellaneous Amendments and Revocations) (Wales) Regulations 2019 (S.I. 2019/463)](https://www.legislation.gov.uk/wsi/2019/463), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3), [15(2)(a)](https://www.legislation.gov.uk/wsi/2019/463/regulation/15/2/a)
 
 [^f00008]: Footnote: OJ L 354, 31.12.2008, p.34.
 
-[^key-d1a8fea248aac4ccce8bdb6027971d2f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/2/1) inserted (28.3.2019) by [The Rural Affairs, Environment, Fisheries and Food (Miscellaneous Amendments and Revocations) (Wales) Regulations 2019 (S.I. 2019/463)](https://www.legislation.gov.uk/wsi/2019/463), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3), [15(2)(b)](https://www.legislation.gov.uk/wsi/2019/463/regulation/15/2/b)
+[^c-d1a8fea248aac4ccce8bdb6027971d2f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/2/1) inserted (28.3.2019) by [The Rural Affairs, Environment, Fisheries and Food (Miscellaneous Amendments and Revocations) (Wales) Regulations 2019 (S.I. 2019/463)](https://www.legislation.gov.uk/wsi/2019/463), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3), [15(2)(b)](https://www.legislation.gov.uk/wsi/2019/463/regulation/15/2/b)
 
-[^key-d20ca9b8c5a1aa261ed023e83a2e3630]: Commencement: Reg. 3 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
+[^c-d20ca9b8c5a1aa261ed023e83a2e3630]: Commencement: Reg. 3 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
 
 [^f00009]: Footnote: [S.I. 2001/1784 (W.126)](https://www.legislation.gov.uk/wsi/2001/1784).
 
-[^key-4d106dc834885dded1d1ecd843ede959]: Commencement: Reg. 4 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
+[^c-4d106dc834885dded1d1ecd843ede959]: Commencement: Reg. 4 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
 
-[^key-39cb913b62f14fe773bcfabca4548f3e]: Commencement: Reg. 5 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
+[^c-39cb913b62f14fe773bcfabca4548f3e]: Commencement: Reg. 5 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
 
-[^key-208bdb8f7882d0df9ec4cfb6538d211e]: Commencement: Reg. 6 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
+[^c-208bdb8f7882d0df9ec4cfb6538d211e]: Commencement: Reg. 6 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
 
-[^key-0e0add537c748a4888384b5f8fd44e17]: Commencement: Reg. 7 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
+[^c-0e0add537c748a4888384b5f8fd44e17]: Commencement: Reg. 7 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
 
-[^key-a498796c0b65f23f415cd91443030e44]: Commencement: Reg. 8 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
+[^c-a498796c0b65f23f415cd91443030e44]: Commencement: Reg. 8 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
 
-[^key-65bdf77cff995a5174f9bb2d2b93f8b3]: Commencement: Sch. 1 para. 1 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
+[^c-65bdf77cff995a5174f9bb2d2b93f8b3]: Commencement: Sch. 1 para. 1 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
 
-[^key-fec1d4c3f6b3cf5f9b53798080d6c46b]: Commencement: Sch. 1 para. 2 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
+[^c-fec1d4c3f6b3cf5f9b53798080d6c46b]: Commencement: Sch. 1 para. 2 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
 
-[^key-4de14ef706060db185ca895e07775fb1]: Commencement: Sch. 1 para. 3 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
+[^c-4de14ef706060db185ca895e07775fb1]: Commencement: Sch. 1 para. 3 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
 
-[^key-40f37330619aa68e949fab49d2619972]: Commencement: Sch. 2 para. 1 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
+[^c-40f37330619aa68e949fab49d2619972]: Commencement: Sch. 2 para. 1 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
 
-[^key-2d42ce964f81ca448bcb4fd709aa0d23]: Commencement: Sch. 2 para. 2 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
+[^c-2d42ce964f81ca448bcb4fd709aa0d23]: Commencement: Sch. 2 para. 2 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
 
-[^key-7a56e00ca5f5042a30a43cf114fa11dc]: Commencement: Sch. 3 para. 1 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
+[^c-7a56e00ca5f5042a30a43cf114fa11dc]: Commencement: Sch. 3 para. 1 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
 
-[^key-8d66c1810beb7a56b7b69ae3921ebbad]: Commencement: Sch. 3 para. 2 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
+[^c-8d66c1810beb7a56b7b69ae3921ebbad]: Commencement: Sch. 3 para. 2 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
 
-[^key-84ab4945e5949ad1b6f02e1ad6b94a64]: Commencement: Sch. 3 para. 3 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
+[^c-84ab4945e5949ad1b6f02e1ad6b94a64]: Commencement: Sch. 3 para. 3 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
 
-[^key-36b32aab0269f6b7e5e1eba5ea39bf0a]: Commencement: Sch. 3 para. 4 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
+[^c-36b32aab0269f6b7e5e1eba5ea39bf0a]: Commencement: Sch. 3 para. 4 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
 
-[^key-256b7b46fa7b68e6c5fb66ad21dea463]: Commencement: Sch. 3 para. 5 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
+[^c-256b7b46fa7b68e6c5fb66ad21dea463]: Commencement: Sch. 3 para. 5 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
 
-[^key-2d178c726773cf6f6314b12b0200aba1]: Commencement: Sch. 3 para. 6 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
+[^c-2d178c726773cf6f6314b12b0200aba1]: Commencement: Sch. 3 para. 6 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
 
-[^key-f46c580d687fe1fa9048fcb967a3b23c]: Commencement: Sch. 3 para. 7 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
+[^c-f46c580d687fe1fa9048fcb967a3b23c]: Commencement: Sch. 3 para. 7 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
 
-[^key-4f0dddfd338bdbb34380e872cb497da7]: Commencement: Sch. 3 para. 8 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
+[^c-4f0dddfd338bdbb34380e872cb497da7]: Commencement: Sch. 3 para. 8 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
 
-[^key-e6263268ac9dadcba4bc6749bc88778e]: Textual amendment: Words in [Sch. 3 para. 8(1)](https://www.legislation.gov.uk/wsi/2013/1984/schedule/3/paragraph/8/1) substituted (13.12.2014) by [The Products Containing Meat etc. (Wales) Regulations 2014 (S.I. 2014/3087)](https://www.legislation.gov.uk/wsi/2014/3087), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3087/regulation/1/2), [Sch. 3 para. 3(a)](https://www.legislation.gov.uk/wsi/2014/3087/schedule/3/paragraph/3/a) (with [reg. 3](https://www.legislation.gov.uk/wsi/2014/3087/regulation/3))
+[^c-e6263268ac9dadcba4bc6749bc88778e]: Textual amendment: Words in [Sch. 3 para. 8(1)](https://www.legislation.gov.uk/wsi/2013/1984/schedule/3/paragraph/8/1) substituted (13.12.2014) by [The Products Containing Meat etc. (Wales) Regulations 2014 (S.I. 2014/3087)](https://www.legislation.gov.uk/wsi/2014/3087), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3087/regulation/1/2), [Sch. 3 para. 3(a)](https://www.legislation.gov.uk/wsi/2014/3087/schedule/3/paragraph/3/a) (with [reg. 3](https://www.legislation.gov.uk/wsi/2014/3087/regulation/3))
 
-[^key-2f53f4de3816b44d89c1468aa8cdfb30]: Textual amendment: Words in [Sch. 3 para. 8(2)](https://www.legislation.gov.uk/wsi/2013/1984/schedule/3/paragraph/8/2) substituted (13.12.2014) by [The Products Containing Meat etc. (Wales) Regulations 2014 (S.I. 2014/3087)](https://www.legislation.gov.uk/wsi/2014/3087), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3087/regulation/1/2), [Sch. 3 para. 3(b)](https://www.legislation.gov.uk/wsi/2014/3087/schedule/3/paragraph/3/b) (with [reg. 3](https://www.legislation.gov.uk/wsi/2014/3087/regulation/3))
+[^c-2f53f4de3816b44d89c1468aa8cdfb30]: Textual amendment: Words in [Sch. 3 para. 8(2)](https://www.legislation.gov.uk/wsi/2013/1984/schedule/3/paragraph/8/2) substituted (13.12.2014) by [The Products Containing Meat etc. (Wales) Regulations 2014 (S.I. 2014/3087)](https://www.legislation.gov.uk/wsi/2014/3087), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3087/regulation/1/2), [Sch. 3 para. 3(b)](https://www.legislation.gov.uk/wsi/2014/3087/schedule/3/paragraph/3/b) (with [reg. 3](https://www.legislation.gov.uk/wsi/2014/3087/regulation/3))
 
-[^key-1c3f8181ae0d138a28a2029a7cd5eaa3]: Textual amendment: Words in [Sch. 3 para. 8(3)](https://www.legislation.gov.uk/wsi/2013/1984/schedule/3/paragraph/8/3) substituted (13.12.2014) by [The Products Containing Meat etc. (Wales) Regulations 2014 (S.I. 2014/3087)](https://www.legislation.gov.uk/wsi/2014/3087), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3087/regulation/1/2), [Sch. 3 para. 3(c)](https://www.legislation.gov.uk/wsi/2014/3087/schedule/3/paragraph/3/c) (with [reg. 3](https://www.legislation.gov.uk/wsi/2014/3087/regulation/3))
+[^c-1c3f8181ae0d138a28a2029a7cd5eaa3]: Textual amendment: Words in [Sch. 3 para. 8(3)](https://www.legislation.gov.uk/wsi/2013/1984/schedule/3/paragraph/8/3) substituted (13.12.2014) by [The Products Containing Meat etc. (Wales) Regulations 2014 (S.I. 2014/3087)](https://www.legislation.gov.uk/wsi/2014/3087), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3087/regulation/1/2), [Sch. 3 para. 3(c)](https://www.legislation.gov.uk/wsi/2014/3087/schedule/3/paragraph/3/c) (with [reg. 3](https://www.legislation.gov.uk/wsi/2014/3087/regulation/3))
 
-[^key-7e740fa24b5f18fc2c24d438d854a8a8]: Textual amendment: Words in [Sch. 3 para. 8(4)](https://www.legislation.gov.uk/wsi/2013/1984/schedule/3/paragraph/8/4) substituted (13.12.2014) by [The Products Containing Meat etc. (Wales) Regulations 2014 (S.I. 2014/3087)](https://www.legislation.gov.uk/wsi/2014/3087), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3087/regulation/1/2), [Sch. 3 para. 3(d)(i)](https://www.legislation.gov.uk/wsi/2014/3087/schedule/3/paragraph/3/d/i) (with [reg. 3](https://www.legislation.gov.uk/wsi/2014/3087/regulation/3))
+[^c-7e740fa24b5f18fc2c24d438d854a8a8]: Textual amendment: Words in [Sch. 3 para. 8(4)](https://www.legislation.gov.uk/wsi/2013/1984/schedule/3/paragraph/8/4) substituted (13.12.2014) by [The Products Containing Meat etc. (Wales) Regulations 2014 (S.I. 2014/3087)](https://www.legislation.gov.uk/wsi/2014/3087), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3087/regulation/1/2), [Sch. 3 para. 3(d)(i)](https://www.legislation.gov.uk/wsi/2014/3087/schedule/3/paragraph/3/d/i) (with [reg. 3](https://www.legislation.gov.uk/wsi/2014/3087/regulation/3))
 
-[^key-0902602b0feb469e9b66fafa8a56e560]: Textual amendment: Words in [Sch. 3 para. 8(4)](https://www.legislation.gov.uk/wsi/2013/1984/schedule/3/paragraph/8/4) substituted (13.12.2014) by [The Products Containing Meat etc. (Wales) Regulations 2014 (S.I. 2014/3087)](https://www.legislation.gov.uk/wsi/2014/3087), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3087/regulation/1/2), [Sch. 3 para. 3(d)(ii)](https://www.legislation.gov.uk/wsi/2014/3087/schedule/3/paragraph/3/d/ii) (with [reg. 3](https://www.legislation.gov.uk/wsi/2014/3087/regulation/3))
+[^c-0902602b0feb469e9b66fafa8a56e560]: Textual amendment: Words in [Sch. 3 para. 8(4)](https://www.legislation.gov.uk/wsi/2013/1984/schedule/3/paragraph/8/4) substituted (13.12.2014) by [The Products Containing Meat etc. (Wales) Regulations 2014 (S.I. 2014/3087)](https://www.legislation.gov.uk/wsi/2014/3087), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3087/regulation/1/2), [Sch. 3 para. 3(d)(ii)](https://www.legislation.gov.uk/wsi/2014/3087/schedule/3/paragraph/3/d/ii) (with [reg. 3](https://www.legislation.gov.uk/wsi/2014/3087/regulation/3))
 
-[^key-5fd89b188dffb9134ab13ffe025577b8]: Textual amendment: Words in [Sch. 3 para. 8(5)](https://www.legislation.gov.uk/wsi/2013/1984/schedule/3/paragraph/8/5) substituted (13.12.2014) by [The Products Containing Meat etc. (Wales) Regulations 2014 (S.I. 2014/3087)](https://www.legislation.gov.uk/wsi/2014/3087), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3087/regulation/1/2), [Sch. 3 para. 3(e)(i)](https://www.legislation.gov.uk/wsi/2014/3087/schedule/3/paragraph/3/e/i) (with [reg. 3](https://www.legislation.gov.uk/wsi/2014/3087/regulation/3))
+[^c-5fd89b188dffb9134ab13ffe025577b8]: Textual amendment: Words in [Sch. 3 para. 8(5)](https://www.legislation.gov.uk/wsi/2013/1984/schedule/3/paragraph/8/5) substituted (13.12.2014) by [The Products Containing Meat etc. (Wales) Regulations 2014 (S.I. 2014/3087)](https://www.legislation.gov.uk/wsi/2014/3087), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3087/regulation/1/2), [Sch. 3 para. 3(e)(i)](https://www.legislation.gov.uk/wsi/2014/3087/schedule/3/paragraph/3/e/i) (with [reg. 3](https://www.legislation.gov.uk/wsi/2014/3087/regulation/3))
 
-[^key-ed326d6d77df3db858ac479c232720f1]: Textual amendment: Words in [Sch. 3 para. 8(5)](https://www.legislation.gov.uk/wsi/2013/1984/schedule/3/paragraph/8/5) substituted (13.12.2014) by [The Products Containing Meat etc. (Wales) Regulations 2014 (S.I. 2014/3087)](https://www.legislation.gov.uk/wsi/2014/3087), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3087/regulation/1/2), [Sch. 3 para. 3(e)(ii)](https://www.legislation.gov.uk/wsi/2014/3087/schedule/3/paragraph/3/e/ii) (with [reg. 3](https://www.legislation.gov.uk/wsi/2014/3087/regulation/3))
+[^c-ed326d6d77df3db858ac479c232720f1]: Textual amendment: Words in [Sch. 3 para. 8(5)](https://www.legislation.gov.uk/wsi/2013/1984/schedule/3/paragraph/8/5) substituted (13.12.2014) by [The Products Containing Meat etc. (Wales) Regulations 2014 (S.I. 2014/3087)](https://www.legislation.gov.uk/wsi/2014/3087), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3087/regulation/1/2), [Sch. 3 para. 3(e)(ii)](https://www.legislation.gov.uk/wsi/2014/3087/schedule/3/paragraph/3/e/ii) (with [reg. 3](https://www.legislation.gov.uk/wsi/2014/3087/regulation/3))
 
-[^key-643f0245a0569674aeae7f199357d655]: Textual amendment: Words in [Sch. 3 para. 8(5)](https://www.legislation.gov.uk/wsi/2013/1984/schedule/3/paragraph/8/5) substituted (13.12.2014) by [The Products Containing Meat etc. (Wales) Regulations 2014 (S.I. 2014/3087)](https://www.legislation.gov.uk/wsi/2014/3087), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3087/regulation/1/2), [Sch. 3 para. 3(e)(iii)](https://www.legislation.gov.uk/wsi/2014/3087/schedule/3/paragraph/3/e/iii) (with [reg. 3](https://www.legislation.gov.uk/wsi/2014/3087/regulation/3))
+[^c-643f0245a0569674aeae7f199357d655]: Textual amendment: Words in [Sch. 3 para. 8(5)](https://www.legislation.gov.uk/wsi/2013/1984/schedule/3/paragraph/8/5) substituted (13.12.2014) by [The Products Containing Meat etc. (Wales) Regulations 2014 (S.I. 2014/3087)](https://www.legislation.gov.uk/wsi/2014/3087), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3087/regulation/1/2), [Sch. 3 para. 3(e)(iii)](https://www.legislation.gov.uk/wsi/2014/3087/schedule/3/paragraph/3/e/iii) (with [reg. 3](https://www.legislation.gov.uk/wsi/2014/3087/regulation/3))
 
-[^key-3d45c85007f367eb248fda42453f2958]: Textual amendment: Words in [Sch. 3 para. 8(6)](https://www.legislation.gov.uk/wsi/2013/1984/schedule/3/paragraph/8/6) substituted (13.12.2014) by [The Products Containing Meat etc. (Wales) Regulations 2014 (S.I. 2014/3087)](https://www.legislation.gov.uk/wsi/2014/3087), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3087/regulation/1/2), [Sch. 3 para. 3(f)](https://www.legislation.gov.uk/wsi/2014/3087/schedule/3/paragraph/3/f) (with [reg. 3](https://www.legislation.gov.uk/wsi/2014/3087/regulation/3))
+[^c-3d45c85007f367eb248fda42453f2958]: Textual amendment: Words in [Sch. 3 para. 8(6)](https://www.legislation.gov.uk/wsi/2013/1984/schedule/3/paragraph/8/6) substituted (13.12.2014) by [The Products Containing Meat etc. (Wales) Regulations 2014 (S.I. 2014/3087)](https://www.legislation.gov.uk/wsi/2014/3087), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3087/regulation/1/2), [Sch. 3 para. 3(f)](https://www.legislation.gov.uk/wsi/2014/3087/schedule/3/paragraph/3/f) (with [reg. 3](https://www.legislation.gov.uk/wsi/2014/3087/regulation/3))
 
-[^key-6785fdc140ab5875d43e7c6e7fce3e87]: Textual amendment: Words in [Sch. 3 para. 8(7)](https://www.legislation.gov.uk/wsi/2013/1984/schedule/3/paragraph/8/7) substituted (13.12.2014) by [The Products Containing Meat etc. (Wales) Regulations 2014 (S.I. 2014/3087)](https://www.legislation.gov.uk/wsi/2014/3087), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3087/regulation/1/2), [Sch. 3 para. 3(g)](https://www.legislation.gov.uk/wsi/2014/3087/schedule/3/paragraph/3/g) (with [reg. 3](https://www.legislation.gov.uk/wsi/2014/3087/regulation/3))
+[^c-6785fdc140ab5875d43e7c6e7fce3e87]: Textual amendment: Words in [Sch. 3 para. 8(7)](https://www.legislation.gov.uk/wsi/2013/1984/schedule/3/paragraph/8/7) substituted (13.12.2014) by [The Products Containing Meat etc. (Wales) Regulations 2014 (S.I. 2014/3087)](https://www.legislation.gov.uk/wsi/2014/3087), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3087/regulation/1/2), [Sch. 3 para. 3(g)](https://www.legislation.gov.uk/wsi/2014/3087/schedule/3/paragraph/3/g) (with [reg. 3](https://www.legislation.gov.uk/wsi/2014/3087/regulation/3))
 
-[^key-ba63f66ce40fbfcaadfcb2ddffdd1af7]: Commencement: Sch. 3 para. 9 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
+[^c-ba63f66ce40fbfcaadfcb2ddffdd1af7]: Commencement: Sch. 3 para. 9 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
 
-[^key-56d82e1674dc6f4605739e8a291b2862]: Commencement: Sch. 3 para. 10 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
+[^c-56d82e1674dc6f4605739e8a291b2862]: Commencement: Sch. 3 para. 10 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
 
-[^key-5ee40757b8e148d82698e5b9e06d2f5a]: Commencement: Sch. 3 para. 11 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
+[^c-5ee40757b8e148d82698e5b9e06d2f5a]: Commencement: Sch. 3 para. 11 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
 
-[^key-b739303d9a55bb3e3a0ca857740fc481]: Commencement: Sch. 4 para. 1 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
+[^c-b739303d9a55bb3e3a0ca857740fc481]: Commencement: Sch. 4 para. 1 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
 
-[^key-f3a323ecb7482487c61c0d73a3003240]: Commencement: Sch. 4 para. 2 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
+[^c-f3a323ecb7482487c61c0d73a3003240]: Commencement: Sch. 4 para. 2 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
 
-[^key-86250c384af44dfa67c4c5d32e25a5fd]: Commencement: Sch. 4 para. 3 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
+[^c-86250c384af44dfa67c4c5d32e25a5fd]: Commencement: Sch. 4 para. 3 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
 
-[^key-f97b5156f11aecbd26a0a6df814ce78d]: Commencement: Sch. 5 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
+[^c-f97b5156f11aecbd26a0a6df814ce78d]: Commencement: Sch. 5 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
 
 [^f00010]: Footnote: As permitted by paragraph 3(a) of Schedule 3 to [S.I 2003/3041(W.286)](https://www.legislation.gov.uk/wsi/2003/3041)(as amended by [S.I. 2011/700 (W.107)](https://www.legislation.gov.uk/wsi/2011/700)).
 
-[^key-0717e40bf91296477a0afd77e47e3c24]: Commencement: Sch. 6 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
+[^c-0717e40bf91296477a0afd77e47e3c24]: Commencement: Sch. 6 in force at 2.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/1984/regulation/1/1)
 
 [^f00011]: Footnote: OJ L 204, 21.7.1998, p.37.
 

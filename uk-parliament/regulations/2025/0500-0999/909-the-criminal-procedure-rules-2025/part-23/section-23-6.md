@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23.6. Application containing information withheld from another party[^key-89a317fd01557fb4f6f6f3053f7a803c]
+## 23.6. Application containing information withheld from another party[^c-89a317fd01557fb4f6f6f3053f7a803c]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-89a317fd01557fb4f6f6f3053f7a803c]: Commencement: [Rule 23.6](https://www.legislation.gov.uk/uksi/2025/909/rule/23.6) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-89a317fd01557fb4f6f6f3053f7a803c]: Commencement: [Rule 23.6](https://www.legislation.gov.uk/uksi/2025/909/rule/23.6) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3 — LICENCES[^key-331800350d3b9b22c2596000157f8010]
+## SCHEDULE 3 — LICENCES[^c-331800350d3b9b22c2596000157f8010]
 
 *Extent: E+W+S+N.I.*
 
@@ -84,7 +84,7 @@ Article 51, 52, 53 and 56
 - (d) if the licence does not include a valid instrument rating (aeroplanes), act as pilot-in-command of an aeroplane carrying passengers at night unless during the previous 90 days at least one of the take-offs and landings required in sub-paragraph (b) has been at night;
 - (e) unless the licence includes an instrument rating (aeroplanes), fly any aeroplane of which the maximum certificated take-off mass exceeds 2300 kg on any flight for the purpose of commercial air transport, except a flight beginning and ending at the same aerodrome and not extending beyond 25 nautical miles from that aerodrome;
 - (f) fly as pilot-in-command of an aeroplane on a flight for the purpose of commercial air transport unless it is certificated for single pilot operation;
-- (g) fly an aeroplane on any flight for the purpose of commercial air transport after attaining the age of 60 years unless the aeroplane is fitted with dual controls and carries a second pilot [^key-e78b375327b641c1066890585399c1a4]... who holds an appropriate licence under this Order entitling the second pilot to act as pilot-in-command or co-pilot of that aeroplane and neither of the two pilots has attained the age of 65 years[^key-ea2d3535b7881787a9cb1d50a640e14e];
+- (g) fly an aeroplane on any flight for the purpose of commercial air transport after attaining the age of 60 years unless the aeroplane is fitted with dual controls and carries a second pilot [^c-e78b375327b641c1066890585399c1a4]... who holds an appropriate licence under this Order entitling the second pilot to act as pilot-in-command or co-pilot of that aeroplane and neither of the two pilots has attained the age of 65 years[^c-ea2d3535b7881787a9cb1d50a640e14e];
 - (h) fly as pilot-in-command or co-pilot of an aeroplane flying in Class A, B or C airspace in circumstances which require compliance with the Instrument Flight Rules, unless the licence includes an instrument rating (aeroplanes).
 
 (4) Subject to paragraph (5), the holder is entitled to fly as pilot-in-command of an aeroplane of a type specified in a flying instructor’s rating included in the licence on a flight for the purpose of aerial work which consists of—
@@ -175,7 +175,7 @@ in either case in a gyroplane owned, or operated under arrangements entered into
 (2) The holder of the licence must not—
 
 - (a) fly a helicopter on a flight for the purpose of commercial air transport unless it is certificated for single pilot operation;
-- (b) fly a helicopter on any flight for the purpose of commercial air transport after attaining the age of 60 years unless the helicopter is fitted with dual controls and carries a second pilot [^key-a966772542d95ff198999e2409f3ddfb]... who holds an appropriate licence under this Order entitling the second pilot to act as pilot-in-command or co-pilot of that helicopter and neither of the two pilots has attained the age of 65 years[^key-f12251bb17c232d2dcd42c2def04f572];
+- (b) fly a helicopter on any flight for the purpose of commercial air transport after attaining the age of 60 years unless the helicopter is fitted with dual controls and carries a second pilot [^c-a966772542d95ff198999e2409f3ddfb]... who holds an appropriate licence under this Order entitling the second pilot to act as pilot-in-command or co-pilot of that helicopter and neither of the two pilots has attained the age of 65 years[^c-f12251bb17c232d2dcd42c2def04f572];
 - (c) unless the licence includes an instrument rating (helicopter), fly as pilot-in-command of a helicopter in circumstances which require compliance with the Instrument Flight Rules—
   - (i) in Class A, B or C airspace at any time; or
   - (ii) in Class D, E, F or G airspace unless remaining clear of cloud and with the surface in sight.
@@ -183,7 +183,7 @@ in either case in a gyroplane owned, or operated under arrangements entered into
 - (e) unless the licence includes a valid instrument rating (helicopter) act as pilot-in-command of a helicopter carrying passengers at night unless during the previous 90 days at least one of the take-offs and landings required in sub-paragraph (aa) above has been carried out at night;
 - (f) fly a gyroplane on a flight for the purpose of commercial air transport unless it is certificated for single pilot operation;
 - (g) fly a gyroplane at night unless the holder has within the immediately preceding 13 months carried out as pilot-in-command not less than 5 take-offs and 5 landings at a time when the depression of the centre of the sun was not less than 12° below the horizon;
-- (h) fly a gyroplane on any flight for the purpose of commercial air transport after attaining the age of 60 years unless the gyroplane is fitted with dual controls and carries a second pilot [^key-a966772542d95ff198999e2409f3ddfb]... who holds an appropriate licence under this Order entitling the second pilot to act as pilot-in-command or co-pilot of that gyroplane and neither of the two pilots has attained the age of 65 years.
+- (h) fly a gyroplane on any flight for the purpose of commercial air transport after attaining the age of 60 years unless the gyroplane is fitted with dual controls and carries a second pilot [^c-a966772542d95ff198999e2409f3ddfb]... who holds an appropriate licence under this Order entitling the second pilot to act as pilot-in-command or co-pilot of that gyroplane and neither of the two pilots has attained the age of 65 years.
 - (i)
   - (i) Subject to sub-paragraph (b) the holder is entitled to fly as co-pilot of any helicopter or gyroplane of a type specified in an aircraft rating included in the licence when the helicopter or gyroplane is engaged on a flight for any purpose whatsoever.
   - (ii) The holder may not, unless his licence includes an instrument rating (helicopter), fly as co-pilot of a helicopter flying in circumstances which require compliance with the Instrument Flight Rules—
@@ -287,12 +287,12 @@ The holder of a Radio Telephony Operator’s Licence is entitled to operate radi
 
 ## Annotations
 
-[^key-331800350d3b9b22c2596000157f8010]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/2013/2870/schedule/3) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-331800350d3b9b22c2596000157f8010]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/2013/2870/schedule/3) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-e78b375327b641c1066890585399c1a4]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2013/2870/schedule/3) omitted (22.7.2021) by virtue of [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [22(a)(i)](https://www.legislation.gov.uk/uksi/2021/755/article/22/a/i)
+[^c-e78b375327b641c1066890585399c1a4]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2013/2870/schedule/3) omitted (22.7.2021) by virtue of [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [22(a)(i)](https://www.legislation.gov.uk/uksi/2021/755/article/22/a/i)
 
-[^key-ea2d3535b7881787a9cb1d50a640e14e]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2013/2870/schedule/3) inserted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [22(a)(ii)](https://www.legislation.gov.uk/uksi/2021/755/article/22/a/ii)
+[^c-ea2d3535b7881787a9cb1d50a640e14e]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2013/2870/schedule/3) inserted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [22(a)(ii)](https://www.legislation.gov.uk/uksi/2021/755/article/22/a/ii)
 
-[^key-a966772542d95ff198999e2409f3ddfb]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2013/2870/schedule/3) omitted (22.7.2021) by virtue of [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [22(b)(i)](https://www.legislation.gov.uk/uksi/2021/755/article/22/b/i)
+[^c-a966772542d95ff198999e2409f3ddfb]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2013/2870/schedule/3) omitted (22.7.2021) by virtue of [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [22(b)(i)](https://www.legislation.gov.uk/uksi/2021/755/article/22/b/i)
 
-[^key-f12251bb17c232d2dcd42c2def04f572]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2013/2870/schedule/3) inserted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [22(b)(ii)](https://www.legislation.gov.uk/uksi/2021/755/article/22/b/ii)
+[^c-f12251bb17c232d2dcd42c2def04f572]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2013/2870/schedule/3) inserted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [22(b)(ii)](https://www.legislation.gov.uk/uksi/2021/755/article/22/b/ii)

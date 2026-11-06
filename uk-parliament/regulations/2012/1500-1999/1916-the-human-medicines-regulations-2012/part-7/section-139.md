@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 139. Registrations granted under Chapter 4 of Title III of the 2001 Directive[^key-79ba6406165d222f5ce46f8e4e2553a6]
+## 139. Registrations granted under Chapter 4 of Title III of the 2001 Directive[^c-79ba6406165d222f5ce46f8e4e2553a6]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-79ba6406165d222f5ce46f8e4e2553a6]: Textual amendment: [Reg. 139](https://www.legislation.gov.uk/uksi/2012/1916/regulation/139) omitted (31.12.2020) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [122](https://www.legislation.gov.uk/uksi/2019/775/regulation/122); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-79ba6406165d222f5ce46f8e4e2553a6]: Textual amendment: [Reg. 139](https://www.legislation.gov.uk/uksi/2012/1916/regulation/139) omitted (31.12.2020) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [122](https://www.legislation.gov.uk/uksi/2019/775/regulation/122); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

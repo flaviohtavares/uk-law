@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 147. Presumption of Death Act (Northern Ireland) 2009[^key-c9b013c9b761448c8145aac640873466]
+## 147. Presumption of Death Act (Northern Ireland) 2009[^c-c9b013c9b761448c8145aac640873466]
 
 *Extent: N.I.*
 
@@ -32,6 +32,6 @@ In section 1(2) of the Presumption of Death Act (Northern Ireland) 2009[^f00235]
 
 ## Annotations
 
-[^key-c9b013c9b761448c8145aac640873466]: Commencement: Reg. 147 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-c9b013c9b761448c8145aac640873466]: Commencement: Reg. 147 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00235]: Footnote: [2009 c.6 (N.I.)](https://www.legislation.gov.uk/nia/2009/6).

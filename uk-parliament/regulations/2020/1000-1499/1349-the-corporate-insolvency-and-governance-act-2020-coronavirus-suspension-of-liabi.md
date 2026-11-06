@@ -59,18 +59,18 @@ Further to section 22(2) of that Act, the Secretary of State considers that—
 - (c) is it not practicable without legislation to bring about the result intended to be brought about by these Regulations; and,
 - (d) the Secretary of State cannot make the same provision in other subordinate legislation that is made in these Regulations.
 
-## 1. Citation and commencement[^key-5391e1d65f747686cfb96f023c074db1]
+## 1. Citation and commencement[^c-5391e1d65f747686cfb96f023c074db1]
 
 These Regulations may be cited as the Corporate Insolvency and Governance Act 2020 (Coronavirus) (Suspension of Liability for Wrongful Trading and Extension of the Relevant Period) Regulations 2020 and come into force on 26th November 2020.
 
-## 2. Suspension of liability for wrongful trading: Great Britain[^key-d175856b7f09bbfa7e339fce5d2082e0]
+## 2. Suspension of liability for wrongful trading: Great Britain[^c-d175856b7f09bbfa7e339fce5d2082e0]
 
 (1) In determining for the purposes of section 214 or 246ZB of the Insolvency Act 1986 [^c24416681] (liability of director for wrongful trading) the contribution (if any) to a company's assets that it is proper for a person to make, the court is to assume that the person is not responsible for any worsening of the financial position of the company or its creditors that occurs during the relevant period.
 
 (2) In this regulation the “relevant period” is the period which—
 
 - (a) begins with 26th November 2020, and
-- (b) ends with 30th June 2021[^key-978ad8a9a5befdb419267a3c29a18064].
+- (b) ends with 30th June 2021[^c-978ad8a9a5befdb419267a3c29a18064].
 
 (3) Paragraph (1) does not apply if at any time during the relevant period the company concerned is excluded from being eligible by any of the paragraphs of Schedule ZA1 to the Insolvency Act 1986 listed in paragraph (4), as they apply for the purposes of this paragraph (see paragraph (5)).
 
@@ -115,7 +115,7 @@ These Regulations may be cited as the Corporate Insolvency and Governance Act 20
 
 (9) In this regulation “**regulated activity**” has the meaning given by section 22 of the Financial Services and Markets Act 2000, taken with Schedule 2 to that Act and any order under that section.
 
-## 3. Amendment of the Corporate Insolvency and Governance Act 2020[^key-c5e09f5a4d9193ee76e5dbddaed2dca4]
+## 3. Amendment of the Corporate Insolvency and Governance Act 2020[^c-c5e09f5a4d9193ee76e5dbddaed2dca4]
 
 (1) In Schedule 14 to the Corporate Insolvency and Governance Act 2020 [^c24416741] (meetings of companies and other bodies), in paragraph 2(1) (meaning of “relevant period”), for “30 December 2020” substitute “ 30 March 2021 ”.
 
@@ -148,13 +148,13 @@ No impact assessment has been prepared for these Regulations. An Explanatory Mem
 
 [^c24416671]: Marginal citation: [2020 c.12](https://www.legislation.gov.uk/ukpga/2020/12).
 
-[^key-5391e1d65f747686cfb96f023c074db1]: Commencement: Reg. 1 in force at 26.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1349/regulation/1)
+[^c-5391e1d65f747686cfb96f023c074db1]: Commencement: Reg. 1 in force at 26.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1349/regulation/1)
 
-[^key-d175856b7f09bbfa7e339fce5d2082e0]: Commencement: Reg. 2 in force at 26.11.2020, see reg. 1
+[^c-d175856b7f09bbfa7e339fce5d2082e0]: Commencement: Reg. 2 in force at 26.11.2020, see reg. 1
 
 [^c24416681]: Marginal citation: [1986 c.45](https://www.legislation.gov.uk/ukpga/1986/45).
 
-[^key-978ad8a9a5befdb419267a3c29a18064]: Textual amendment: Words in [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1349/regulation/2/2/b) substituted (26.3.2021) by [The Corporate Insolvency and Governance Act 2020 (Coronavirus) (Extension of the Relevant Period) Regulations 2021 (S.I. 2021/375)](https://www.legislation.gov.uk/uksi/2021/375), [regs. 1](https://www.legislation.gov.uk/uksi/2021/375/regulation/1), [2](https://www.legislation.gov.uk/uksi/2021/375/regulation/2)
+[^c-978ad8a9a5befdb419267a3c29a18064]: Textual amendment: Words in [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1349/regulation/2/2/b) substituted (26.3.2021) by [The Corporate Insolvency and Governance Act 2020 (Coronavirus) (Extension of the Relevant Period) Regulations 2021 (S.I. 2021/375)](https://www.legislation.gov.uk/uksi/2021/375), [regs. 1](https://www.legislation.gov.uk/uksi/2021/375/regulation/1), [2](https://www.legislation.gov.uk/uksi/2021/375/regulation/2)
 
 [^c24416691]: Marginal citation: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8).
 
@@ -166,7 +166,7 @@ No impact assessment has been prepared for these Regulations. An Explanatory Mem
 
 [^c24416731]: Marginal citation: [2014 c.14](https://www.legislation.gov.uk/ukpga/2014/14).
 
-[^key-c5e09f5a4d9193ee76e5dbddaed2dca4]: Commencement: Reg. 3 in force at 26.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1349/regulation/1)
+[^c-c5e09f5a4d9193ee76e5dbddaed2dca4]: Commencement: Reg. 3 in force at 26.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1349/regulation/1)
 
 [^c24416741]: Marginal citation: [Schedule 14](https://www.legislation.gov.uk/uksi/2020/1349/schedule/14) was amended by [S.I. 2020/1031](https://www.legislation.gov.uk/uksi/2020/1031).
 

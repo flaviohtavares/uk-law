@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 43. Penalty notices for graffiti and fly-posting[^key-426284270c8714ad759d4af67d922b9f][^key-4710281d204215de923297200a3a4422]
+## 43. Penalty notices for graffiti and fly-posting[^c-426284270c8714ad759d4af67d922b9f][^c-4710281d204215de923297200a3a4422]
 
 *Extent: E+W*
 
@@ -50,14 +50,14 @@ summary: ''
 
 (9) A notice under subsection (1) must be in such form as the appropriate person may by order prescribe.
 
-(10)[^key-bfe1e0b846cd219de6799d33325f6249] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-bfe1e0b846cd219de6799d33325f6249] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(11)[^key-bfe1e0b846cd219de6799d33325f6249] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-bfe1e0b846cd219de6799d33325f6249] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-426284270c8714ad759d4af67d922b9f]: Commencement: S. 43 in force at 31.3.2004 for W. by [S.I. 2004/999](https://www.legislation.gov.uk/uksi/2004/999), [art. 2(d)](https://www.legislation.gov.uk/uksi/2004/999/article/2/d)
+[^c-426284270c8714ad759d4af67d922b9f]: Commencement: S. 43 in force at 31.3.2004 for W. by [S.I. 2004/999](https://www.legislation.gov.uk/uksi/2004/999), [art. 2(d)](https://www.legislation.gov.uk/uksi/2004/999/article/2/d)
 
-[^key-4710281d204215de923297200a3a4422]: Commencement: S. 43 in force at 31.3.2004 for E. by [S.I. 2004/690](https://www.legislation.gov.uk/uksi/2004/690), [art. 3(d)](https://www.legislation.gov.uk/uksi/2004/690/article/3/d)
+[^c-4710281d204215de923297200a3a4422]: Commencement: S. 43 in force at 31.3.2004 for E. by [S.I. 2004/690](https://www.legislation.gov.uk/uksi/2004/690), [art. 3(d)](https://www.legislation.gov.uk/uksi/2004/690/article/3/d)
 
-[^key-bfe1e0b846cd219de6799d33325f6249]: Textual amendment: S. 43(10)(11) repealed (16.3.2006 for W. for specified purposes, 6.4.2006 for E. and 15.3.2007 for W. in so far as not already in force) by [Clean Neighbourhoods and Environment Act 2005 (c. 16)](https://www.legislation.gov.uk/ukpga/2005/16), [ss. 28(1)](https://www.legislation.gov.uk/ukpga/2005/16/section/28/1), [108(1)](https://www.legislation.gov.uk/ukpga/2005/16/section/108/1), [108(2)](https://www.legislation.gov.uk/ukpga/2005/16/section/108/2)(d), [Sch. 5 Pt. 3](https://www.legislation.gov.uk/ukpga/2005/16/schedule/5/part/3); [S.I. 2006/768](https://www.legislation.gov.uk/uksi/2006/768), [art. 3](https://www.legislation.gov.uk/uksi/2006/768/article/3);[S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), art. 2(3), Sch. 2; S.I. 2006/2797, art. 4(m)
+[^c-bfe1e0b846cd219de6799d33325f6249]: Textual amendment: S. 43(10)(11) repealed (16.3.2006 for W. for specified purposes, 6.4.2006 for E. and 15.3.2007 for W. in so far as not already in force) by [Clean Neighbourhoods and Environment Act 2005 (c. 16)](https://www.legislation.gov.uk/ukpga/2005/16), [ss. 28(1)](https://www.legislation.gov.uk/ukpga/2005/16/section/28/1), [108(1)](https://www.legislation.gov.uk/ukpga/2005/16/section/108/1), [108(2)](https://www.legislation.gov.uk/ukpga/2005/16/section/108/2)(d), [Sch. 5 Pt. 3](https://www.legislation.gov.uk/ukpga/2005/16/schedule/5/part/3); [S.I. 2006/768](https://www.legislation.gov.uk/uksi/2006/768), [art. 3](https://www.legislation.gov.uk/uksi/2006/768/article/3);[S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), art. 2(3), Sch. 2; S.I. 2006/2797, art. 4(m)

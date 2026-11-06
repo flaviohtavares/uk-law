@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 33. Procedure in relation to approvals, etc. under requirements[^key-be00b9f7c5666c14c312d41b442bd3c3]
+## 33. Procedure in relation to approvals, etc. under requirements[^c-be00b9f7c5666c14c312d41b442bd3c3]
 
 *Extent: E+W+S*
 
@@ -29,6 +29,6 @@ insofar as those provisions are not inconsistent with the EIA Regulations and an
 
 ## Annotations
 
-[^key-be00b9f7c5666c14c312d41b442bd3c3]: Commencement: Art. 33 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
+[^c-be00b9f7c5666c14c312d41b442bd3c3]: Commencement: Art. 33 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
 
 [^f00042]: Footnote: Section 78 was amended by section 43(2) of the Planning and Compulsory Purchase Act [2004 (c.5)](https://www.legislation.gov.uk/ukpga/2004/5), paragraph 3(b) of Schedule 10 to the Planning Act 2008, section 123(3) of, and paragraph 11 of Schedule 12 to, the Localism Act 2011, paragraph 8 of Schedule 1 to the Growth and Infrastructure Act 2013, paragraph 12 of Schedule 4 to the Infrastructure Act 2015 and paragraph 21 of Schedule 12 to the Housing and Planning Act 2016. Section 79 was amended by section 18 of, and paragraph 19 of Schedule 7 to, the Planning and Compensation Act [1991 (c.34)](https://www.legislation.gov.uk/ukpga/1991/34), paragraph 4 of Schedule 10 to the Planning Act 2008 and paragraph 23 of Schedule 12 to the Housing and Planning Act 2016.

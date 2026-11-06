@@ -99,7 +99,7 @@ Where an application for the grant of a marketing authorisation or traditional h
 
 there shall be refunded or waived the amount which would have been refunded or waived if the application had been withdrawn before it was refused by the licensing authority.
 
-### 7A. Orphan marketing authorisation[^key-bf3af5c962254d3b6c3b1ffdc9e78666]
+### 7A. Orphan marketing authorisation[^c-bf3af5c962254d3b6c3b1ffdc9e78666]
 
 Where the licensing authority grants an orphan marketing authorisation, the following percentage of the fee otherwise payable under regulation 12(1)(a) in connection with the application for that authorisation shall be refunded or, if it has not yet been paid, shall be waived—
 
@@ -136,7 +136,7 @@ The fee payable for an application to vary a parallel import licence shall be wa
 
 ### 11. Scientific advice: paediatric indications
 
-(1) Where the licensing authority holds a meeting referred to in regulation 3A[^key-a31119c13bf1156a18526fcc627fc3c8] in order to provide scientific advice with a view to a person making an application other than a major application or an application for a paediatric use marketing authorisation the fee shall be waived if—
+(1) Where the licensing authority holds a meeting referred to in regulation 3A[^c-a31119c13bf1156a18526fcc627fc3c8] in order to provide scientific advice with a view to a person making an application other than a major application or an application for a paediatric use marketing authorisation the fee shall be waived if—
 
 - (a) sub-paragraphs (2) or (3) apply to the application; and
 - (b) the meeting is held solely for the purpose of providing advice in relation to the application.
@@ -164,9 +164,9 @@ Any sums payable to the applicant by way of refund of any fees under the provisi
 
 ## Annotations
 
-[^key-bf3af5c962254d3b6c3b1ffdc9e78666]: Textual amendment: [Sch. 7 para. 7A](https://www.legislation.gov.uk/uksi/2016/190/schedule/7/paragraph/7A) inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2019/775/schedule/1/paragraph/9) (with [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2019/775/schedule/1/paragraph/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bf3af5c962254d3b6c3b1ffdc9e78666]: Textual amendment: [Sch. 7 para. 7A](https://www.legislation.gov.uk/uksi/2016/190/schedule/7/paragraph/7A) inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2019/775/schedule/1/paragraph/9) (with [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2019/775/schedule/1/paragraph/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a31119c13bf1156a18526fcc627fc3c8]: Textual amendment: Words in Sch. 7 para. 11(1) substituted (1.4.2025) by [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/317/regulation/1/2), [31(2)](https://www.legislation.gov.uk/uksi/2025/317/regulation/31/2)
+[^c-a31119c13bf1156a18526fcc627fc3c8]: Textual amendment: Words in Sch. 7 para. 11(1) substituted (1.4.2025) by [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/317/regulation/1/2), [31(2)](https://www.legislation.gov.uk/uksi/2025/317/regulation/31/2)
 
 [^c23108651]: Marginal citation: [Article 11](https://www.legislation.gov.uk/uksi/2016/190/article/11) has been amended by Directive 2004/27/EC of the European Parliament and of the Council (OJ No L 136, 30.4.2004, p34) and Directive 2010/84/EU of the European Parliament and of the Council (OJ No L 348, 31.12.2010, p74).
 

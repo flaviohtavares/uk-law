@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 47. Removal of falling loads and objects[^key-6d1a893cc7531579ea68a05073cb41f0]
+## 47. Removal of falling loads and objects[^c-6d1a893cc7531579ea68a05073cb41f0]
 
 *Extent: E+W+S*
 
@@ -68,4 +68,4 @@ an authorised person may take all reasonable steps to remove the load or object 
 
 ## Annotations
 
-[^key-6d1a893cc7531579ea68a05073cb41f0]: Commencement: Art. 47 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-6d1a893cc7531579ea68a05073cb41f0]: Commencement: Art. 47 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)

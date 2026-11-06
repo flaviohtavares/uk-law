@@ -24,7 +24,7 @@ Section 57.
 
 ### Part I — Amendments of Highways Act 1980
 
-**1.**[^key-1595501c567e94802e3fbda798655a20][^key-41e86aa74f7907c99cec851bf8757b1e][^key-e35b49c7df38e9ec70389bc1f17c8668] In section 26 of the 1980 Act (compulsory powers for creation of footpaths and bridleways) after subsection (3) there is inserted—
+**1.**[^c-1595501c567e94802e3fbda798655a20][^c-41e86aa74f7907c99cec851bf8757b1e][^c-e35b49c7df38e9ec70389bc1f17c8668] In section 26 of the 1980 Act (compulsory powers for creation of footpaths and bridleways) after subsection (3) there is inserted—
 
 > (3A) The considerations to which—
 >
@@ -33,7 +33,7 @@ Section 57.
 >
 > include any material provision of a rights of way improvement plan prepared by any local highway authority whose area includes land over which the proposed footpath or bridleway would be created.
 
-**2.**[^key-b4ad6cd231887a596af9fd34b62ebac8][^key-c267b831556d4dae0d2d798fa80648fb] For section 29 of the 1980 Act there is substituted—
+**2.**[^c-b4ad6cd231887a596af9fd34b62ebac8][^c-c267b831556d4dae0d2d798fa80648fb] For section 29 of the 1980 Act there is substituted—
 
 > **29. Duty to have regard to agriculture, forestry and nature conservation.**
 >
@@ -44,9 +44,9 @@ Section 57.
 >
 > (2) In this section, “**agriculture**” includes the breeding or keeping of horses.
 
-**3.**[^key-a9a33864bece6416501b02f9f26b6b44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-a9a33864bece6416501b02f9f26b6b44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-40216ec717b7d0f9dcbddfdfd1c862bb][^key-b00dbbd776fc5da645238950cf11cf93] After section 31 of the 1980 Act there is inserted—
+**4.**[^c-40216ec717b7d0f9dcbddfdfd1c862bb][^c-b00dbbd776fc5da645238950cf11cf93] After section 31 of the 1980 Act there is inserted—
 
 > **31A. Register of maps, statements and declarations.**
 >
@@ -64,11 +64,11 @@ Section 57.
 > - “**prescribed**” means prescribed by regulations;
 > - “**regulations**” means regulations made by the Secretary of State.
 
-**5.**[^key-686760cc24ead20fe21f943ea3cf2e5c][^key-5c16bb358c72597541cedac96d8c2a61][^key-57550c34adf84479b729c5990783c2f9] In section 36 of the 1980 Act (highways maintainable at public expense) in subsection (2), after paragraph (e) there is inserted—
+**5.**[^c-686760cc24ead20fe21f943ea3cf2e5c][^c-5c16bb358c72597541cedac96d8c2a61][^c-57550c34adf84479b729c5990783c2f9] In section 36 of the 1980 Act (highways maintainable at public expense) in subsection (2), after paragraph (e) there is inserted—
 
 > - (f) a highway, being a footpath, a bridleway, a restricted byway or a way over which the public have a right of way for vehicular and all other kinds of traffic, created in consequence of a special diversion order or an SSSI diversion order.
 
-**6.**[^key-a21d083f215328848e05c4dedf409c94][^key-74995e36a2ad6abed2da7e22e7f45ff5][^key-9395508561da5d8cfcf1e2eb937b1c0d] In section 118 of the 1980 Act (stopping up of footpaths and bridleways) after subsection (6) there is inserted—
+**6.**[^c-a21d083f215328848e05c4dedf409c94][^c-74995e36a2ad6abed2da7e22e7f45ff5][^c-9395508561da5d8cfcf1e2eb937b1c0d] In section 118 of the 1980 Act (stopping up of footpaths and bridleways) after subsection (6) there is inserted—
 
 > (6A) The considerations to which—
 >
@@ -121,7 +121,7 @@ Section 57.
 > - “**prescribed**” means prescribed by regulations;
 > - “**regulations**” means regulations made by the Secretary of State.
 
-**8.**[^key-814294dee94ff02c3df55acaeb63a47d][^key-2b3b730e4b236dfd0cb9632ee3477c47] After section 118A of the 1980 Act there is inserted—
+**8.**[^c-814294dee94ff02c3df55acaeb63a47d][^c-2b3b730e4b236dfd0cb9632ee3477c47] After section 118A of the 1980 Act there is inserted—
 
 > **118B. Stopping up of certain highways for purposes of crime prevention, etc.**
 >
@@ -183,11 +183,11 @@ Section 57.
 
 .
 
-**9.** (1)[^key-444b8f320eac631a4f116264749641c0][^key-1486def4046ced500d194f29c71b8ddb] Section 119 of the 1980 Act (diversion of footpaths and bridleways) is amended as follows.
+**9.** (1)[^c-444b8f320eac631a4f116264749641c0][^c-1486def4046ced500d194f29c71b8ddb] Section 119 of the 1980 Act (diversion of footpaths and bridleways) is amended as follows.
 
-(2)[^key-444b8f320eac631a4f116264749641c0][^key-1486def4046ced500d194f29c71b8ddb] In subsection (1)(b), for “so specified” there is substituted “ specified in the order or determined ”.
+(2)[^c-444b8f320eac631a4f116264749641c0][^c-1486def4046ced500d194f29c71b8ddb] In subsection (1)(b), for “so specified” there is substituted “ specified in the order or determined ”.
 
-(3)[^key-444b8f320eac631a4f116264749641c0][^key-1486def4046ced500d194f29c71b8ddb] For subsection (3), there is substituted—
+(3)[^c-444b8f320eac631a4f116264749641c0][^c-1486def4046ced500d194f29c71b8ddb] For subsection (3), there is substituted—
 
 > (3) Where it appears to the council that work requires to be done to bring the new site of the footpath or bridleway into a fit condition for use by the public, the council shall—
 >
@@ -201,7 +201,7 @@ Section 57.
 - (a) after “diversion order” there is inserted “ on an application under section 119ZA below or ”, and
 - (b) for “him” there is substituted “ the person who made the application or representations ”.
 
-(5)[^key-32d7c3d312f177b6aa32c9a22dd64d3b][^key-add7c6ca96d7ecfe57aa2d9653aee3a3][^key-cfffc7835b70c8aaea01a7dc7d5eee1e] After subsection (6) there is inserted—
+(5)[^c-32d7c3d312f177b6aa32c9a22dd64d3b][^c-add7c6ca96d7ecfe57aa2d9653aee3a3][^c-cfffc7835b70c8aaea01a7dc7d5eee1e] After subsection (6) there is inserted—
 
 > (6A) The considerations to which—
 >
@@ -274,7 +274,7 @@ Section 57.
 > - “**prescribed**” means prescribed by regulations;
 > - “**regulations**” means regulations made by the Secretary of State.
 
-**11.**[^key-cf0c0b08e80c6493b8beebd1df088b74][^key-2e3e26e814c4a9ceaa6f41087607226c] (1) Section 119A (diversion of footpaths and bridleways crossing railways) is amended as follows.
+**11.**[^c-cf0c0b08e80c6493b8beebd1df088b74][^c-2e3e26e814c4a9ceaa6f41087607226c] (1) Section 119A (diversion of footpaths and bridleways crossing railways) is amended as follows.
 
 (2) In subsection (2)(b), for “so specified” there is substituted “ specified in the order or determined under subsection (7) below ”.
 
@@ -287,7 +287,7 @@ Section 57.
 
 .
 
-**12.**[^key-d079e144d0d9eeaf81a19bee74ccff62][^key-92913f4e264101eab1c10a224e5f03c0][^key-d74122a591a2cc9ad0f4e7e22ea4a06c] After section 119A of the 1980 Act there is inserted—
+**12.**[^c-d079e144d0d9eeaf81a19bee74ccff62][^c-92913f4e264101eab1c10a224e5f03c0][^c-d74122a591a2cc9ad0f4e7e22ea4a06c] After section 119A of the 1980 Act there is inserted—
 
 > **119B. Diversion of certain highways for purposes of crime prevention, etc.**
 >
@@ -462,7 +462,7 @@ Section 57.
 >
 > - “**the appropriate conservation body**” means—
 >   - (a) as respects England, English Nature, and
->   - (b) as respects Wales, the Natural Resources Body for Wales[^key-04f0dac1c0a59df0e5c235d8ac615881];
+>   - (b) as respects Wales, the Natural Resources Body for Wales[^c-04f0dac1c0a59df0e5c235d8ac615881];
 > - “**site of special scientific interest**” has the same meaning as in the [^c1057158]Wildlife and Countryside Act 1981.
 >
 > **119E. Provisions supplementary to section 119D.**
@@ -513,32 +513,32 @@ Section 57.
 > - “**site of special scientific interest**” has the same meaning as in the [^c1057160]Wildlife and Countryside Act 1981;
 > - “**traffic regulation order**” means an order under section 1 or 6 of the Road Traffic Regulation Act 1984.
 
-**13.** (1)[^key-7a58d6181064d34658b1dbbd0d3f18f7][^key-e91b3b6bd3ce92c1f5320e6eea707114][^key-e8791edd5d98becba59913974d59d152] Section 120 of the 1980 Act (exercise of powers of making public path extinguishment and diversion orders) is amended as follows.
+**13.** (1)[^c-7a58d6181064d34658b1dbbd0d3f18f7][^c-e91b3b6bd3ce92c1f5320e6eea707114][^c-e8791edd5d98becba59913974d59d152] Section 120 of the 1980 Act (exercise of powers of making public path extinguishment and diversion orders) is amended as follows.
 
-(2)[^key-7a58d6181064d34658b1dbbd0d3f18f7][^key-e91b3b6bd3ce92c1f5320e6eea707114][^key-e8791edd5d98becba59913974d59d152] In subsection (1), for “to 119A” there is substituted “ , 118A, 119 and 119A ”.
+(2)[^c-7a58d6181064d34658b1dbbd0d3f18f7][^c-e91b3b6bd3ce92c1f5320e6eea707114][^c-e8791edd5d98becba59913974d59d152] In subsection (1), for “to 119A” there is substituted “ , 118A, 119 and 119A ”.
 
-(3)[^key-7a58d6181064d34658b1dbbd0d3f18f7][^key-e91b3b6bd3ce92c1f5320e6eea707114][^key-e8791edd5d98becba59913974d59d152] After that subsection there is inserted—
+(3)[^c-7a58d6181064d34658b1dbbd0d3f18f7][^c-e91b3b6bd3ce92c1f5320e6eea707114][^c-e8791edd5d98becba59913974d59d152] After that subsection there is inserted—
 
 > (1A) Where a council are the highway authority for only part of a highway, the powers conferred on the council by sections 118B, 119B and 119D above are exercisable with respect to the whole of the highway, but subject to subsection (2) and only with the consent of every other council which is a highway authority for any other part with respect to which the powers are exercised.
 
-(4)[^key-7a58d6181064d34658b1dbbd0d3f18f7][^key-e91b3b6bd3ce92c1f5320e6eea707114][^key-e8791edd5d98becba59913974d59d152] In subsection (2)—
+(4)[^c-7a58d6181064d34658b1dbbd0d3f18f7][^c-e91b3b6bd3ce92c1f5320e6eea707114][^c-e8791edd5d98becba59913974d59d152] In subsection (2)—
 
 - (a) for “to 119A” there is substituted “ to 119D ”, and
 - (b) for “footpath or bridleway”, wherever occurring, there is substituted “ highway ”.
 
-(5)[^key-7a58d6181064d34658b1dbbd0d3f18f7][^key-e8791edd5d98becba59913974d59d152] In subsection (3)—
+(5)[^c-7a58d6181064d34658b1dbbd0d3f18f7][^c-e8791edd5d98becba59913974d59d152] In subsection (3)—
 
-- (a)[^key-e91b3b6bd3ce92c1f5320e6eea707114] after “or diverted” there is inserted “ or where it appears to the Secretary of State as respects a relevant highway as defined by section 118B(2), 119B(2) or 119D(2) that it is expedient as mentioned in section 118B(1)(a) or (b), 119B(1)(a) or (b) or 119D(1)(b) that the highway should be stopped up or diverted ”,
-- (b)[^key-e91b3b6bd3ce92c1f5320e6eea707114] in paragraph (a), for “a rail crossing diversion order or a public path diversion order” there is substituted “ a special extinguishment order, a public path diversion order, a rail crossing diversion order, a special diversion order or an SSSI diversion order ”,
-- (c)[^key-e91b3b6bd3ce92c1f5320e6eea707114] in paragraph (b), for “to 119A” there is substituted “ to 119D ”,
-- (d)[^key-e91b3b6bd3ce92c1f5320e6eea707114] for “(subject to subsection (3A) below)” there is substituted “ (subject to the following provisions of this section) ”, and
+- (a)[^c-e91b3b6bd3ce92c1f5320e6eea707114] after “or diverted” there is inserted “ or where it appears to the Secretary of State as respects a relevant highway as defined by section 118B(2), 119B(2) or 119D(2) that it is expedient as mentioned in section 118B(1)(a) or (b), 119B(1)(a) or (b) or 119D(1)(b) that the highway should be stopped up or diverted ”,
+- (b)[^c-e91b3b6bd3ce92c1f5320e6eea707114] in paragraph (a), for “a rail crossing diversion order or a public path diversion order” there is substituted “ a special extinguishment order, a public path diversion order, a rail crossing diversion order, a special diversion order or an SSSI diversion order ”,
+- (c)[^c-e91b3b6bd3ce92c1f5320e6eea707114] in paragraph (b), for “to 119A” there is substituted “ to 119D ”,
+- (d)[^c-e91b3b6bd3ce92c1f5320e6eea707114] for “(subject to subsection (3A) below)” there is substituted “ (subject to the following provisions of this section) ”, and
 - (e) at the end there is inserted “ and, in the case of an SSSI diversion order, with the appropriate conservation body ”.
 
 (6) After subsection (3) there is inserted—
 
 > (3ZA) Where an appeal to the Secretary of State is brought under section 121D(1) below, paragraph (a) of subsection (3) above does not apply, and the power conferred on him by that subsection may be exercised without consultation with the appropriate authority.
 
-(7)[^key-7a58d6181064d34658b1dbbd0d3f18f7][^key-e91b3b6bd3ce92c1f5320e6eea707114][^key-e8791edd5d98becba59913974d59d152] After subsection (3A) there is inserted—
+(7)[^c-7a58d6181064d34658b1dbbd0d3f18f7][^c-e91b3b6bd3ce92c1f5320e6eea707114][^c-e8791edd5d98becba59913974d59d152] After subsection (3A) there is inserted—
 
 > (3B) Unless an appeal to the Secretary of State is brought under section 121D(1) below, the power conferred on the Secretary of State by subsection (3) above to make a special extinguishment order or a special diversion order is exercisable only after consultation with the police authority in whose area the highway lies.
 >
@@ -551,12 +551,12 @@ Section 57.
 >
 > the power conferred on the Secretary of State by subsection (3) above to make an SSSI diversion order may be exercised without consultation with the council.
 
-(8)[^key-7a58d6181064d34658b1dbbd0d3f18f7][^key-e91b3b6bd3ce92c1f5320e6eea707114][^key-e8791edd5d98becba59913974d59d152] In subsection (4)—
+(8)[^c-7a58d6181064d34658b1dbbd0d3f18f7][^c-e91b3b6bd3ce92c1f5320e6eea707114][^c-e8791edd5d98becba59913974d59d152] In subsection (4)—
 
 - (a) for “or a rail crossing diversion order” there is substituted “ , a rail crossing diversion order, a special diversion order or an SSSI diversion order ”, and
 - (b) for “path or way” there is substituted “ highway ”.
 
-(9)[^key-7a58d6181064d34658b1dbbd0d3f18f7][^key-e91b3b6bd3ce92c1f5320e6eea707114][^key-e8791edd5d98becba59913974d59d152] For subsection (5) there is substituted—
+(9)[^c-7a58d6181064d34658b1dbbd0d3f18f7][^c-e91b3b6bd3ce92c1f5320e6eea707114][^c-e8791edd5d98becba59913974d59d152] For subsection (5) there is substituted—
 
 > (5) The Secretary of State may, before determining—
 >
@@ -575,21 +575,21 @@ Section 57.
 > - (b) in a case falling within paragraph (b) or (c) of that subsection, the appellant, and
 > - (c) in a case falling within paragraph (d) of that subsection, the operator of the railway concerned.
 
-(10)[^key-e8791edd5d98becba59913974d59d152] After subsection (6) there is inserted—
+(10)[^c-e8791edd5d98becba59913974d59d152] After subsection (6) there is inserted—
 
 > (7) Where under subsection (3) above the Secretary of State decides to make an SSSI diversion order he may require the appropriate conservation body to enter into an agreement with such council as he may specify for the body to defray, or to make such contribution as may be specified in the agreement towards, any such compensation or expenses as are specified in paragraphs (a), (b) and (c) of section 119D(8) above.
 >
 > (8) In this section “**the appropriate conservation body**” has the same meaning as in section 119D above.
 
-**14.**[^key-5e95a5aed765b38fba2cb1581d84b009][^key-4930c3285032fe552c3ad774bb56002f] (1)[^key-f8d11efe4b4d400e47a0a27531772b69] Section 121 of the 1980 Act (supplementary provisions as to public path extinguishment and diversion orders) is amended as follows.
+**14.**[^c-5e95a5aed765b38fba2cb1581d84b009][^c-4930c3285032fe552c3ad774bb56002f] (1)[^c-f8d11efe4b4d400e47a0a27531772b69] Section 121 of the 1980 Act (supplementary provisions as to public path extinguishment and diversion orders) is amended as follows.
 
-(2)[^key-63b460dd9478ca625503a78e581a2eb9] In subsection (1)—
+(2)[^c-63b460dd9478ca625503a78e581a2eb9] In subsection (1)—
 
 - (a) after “rail crossing extinguishment order,” there is inserted “ a special extinguishment order ”,
 - (b) for “or a rail crossing diversion order”, wherever occurring, there is substituted “ , a rail crossing diversion order, a special diversion order or an SSSI diversion order ”, and
 - (c) for “path or way”, wherever occurring, there is substituted “ highway ”.
 
-(3)[^key-63b460dd9478ca625503a78e581a2eb9] In subsection (2)—
+(3)[^c-63b460dd9478ca625503a78e581a2eb9] In subsection (2)—
 
 - (a) after “rail crossing extinguishment orders,” there is inserted “ special extinguishment orders ”,
 - (b) for “and rail crossing diversion orders” there is substituted “ , rail crossing diversion orders, special diversion orders and SSSI diversion orders ”, and
@@ -604,16 +604,16 @@ Section 57.
 
 (4) In subsection (3)—
 
-- (a)[^key-f8d11efe4b4d400e47a0a27531772b69] for “(protection for agriculture and forestry)” there is substituted “ (duty to have regard to agriculture, forestry and nature conservation) ”,
-- (b)[^key-63b460dd9478ca625503a78e581a2eb9] after “rail crossing extinguishment orders,” there is inserted “ special extinguishment orders ”, and
-- (c)[^key-63b460dd9478ca625503a78e581a2eb9] for “and rail crossing diversion orders” there is substituted “ , rail crossing diversion orders, special diversion orders and SSSI diversion orders ”.
+- (a)[^c-f8d11efe4b4d400e47a0a27531772b69] for “(protection for agriculture and forestry)” there is substituted “ (duty to have regard to agriculture, forestry and nature conservation) ”,
+- (b)[^c-63b460dd9478ca625503a78e581a2eb9] after “rail crossing extinguishment orders,” there is inserted “ special extinguishment orders ”, and
+- (c)[^c-63b460dd9478ca625503a78e581a2eb9] for “and rail crossing diversion orders” there is substituted “ , rail crossing diversion orders, special diversion orders and SSSI diversion orders ”.
 
-(5)[^key-63b460dd9478ca625503a78e581a2eb9] In subsection (4)—
+(5)[^c-63b460dd9478ca625503a78e581a2eb9] In subsection (4)—
 
 - (a) after “rail crossing extinguishment order,” there is inserted “ a special extinguishment order ”, and
 - (b) for “or a rail crossing diversion order” there is substituted “ , a rail crossing diversion order, a special diversion order or an SSSI diversion order ”.
 
-(6)[^key-63b460dd9478ca625503a78e581a2eb9] After subsection (5) there is inserted—
+(6)[^c-63b460dd9478ca625503a78e581a2eb9] After subsection (5) there is inserted—
 
 > (5A) Before making a determination under subsection (5) above the appropriate Minister may, if he thinks fit, give any person an opportunity to be heard on the question, and he must either give such an opportunity or cause a local inquiry to be held if a request to be heard with respect to the question to be determined is made—
 >
@@ -629,9 +629,9 @@ Section 57.
 >
 > (5E) [^c1057161]Section 322A of the Town and Country Planning Act 1990 (orders as to costs where no hearing or inquiry takes place) applies in relation to a hearing or inquiry under subsection (5A) above as it applies in relation to a hearing or local inquiry for the purposes referred to in that section, but as if references to the Secretary of State were references to the appropriate Minister.
 
-(7)[^key-63b460dd9478ca625503a78e581a2eb9] In subsection (6), for “subsection (5)” there is substituted “ subsections (5) to (5E) ”.
+(7)[^c-63b460dd9478ca625503a78e581a2eb9] In subsection (6), for “subsection (5)” there is substituted “ subsections (5) to (5E) ”.
 
-**15.**[^key-793bf8e26d15ae210807e75558c25148] After section 121 of the 1980 Act there is inserted—
+**15.**[^c-793bf8e26d15ae210807e75558c25148] After section 121 of the 1980 Act there is inserted—
 
 > **121A. Regulations with respect to applications for orders.**
 >
@@ -812,7 +812,7 @@ Section 57.
 >
 > - (a) to the highway authority for the footpath or bridleway,
 > - (b) if the footpath or bridleway is on or contiguous with access land in England, to the Countryside Agency, and
-> - (c) if the footpath or bridleway is on or contiguous with access land in Wales, to the Natural Resources Body for Wales[^key-70be13676b2fc4b26c145accf2294b08].
+> - (c) if the footpath or bridleway is on or contiguous with access land in Wales, to the Natural Resources Body for Wales[^c-70be13676b2fc4b26c145accf2294b08].
 >
 > (7) A notice under subsection (5)(a), (b) or (c) above shall be in such form and contain such information as may be prescribed.
 >
@@ -851,19 +851,19 @@ Section 57.
 >
 > (6) Without prejudice to section 130 (protection of public rights of way) above, it is the duty of the highway authority to enforce the provisions of section 135A and this section.
 
-**17.**[^key-1fed4088ce7f61c73312608ad911b53d] In section 293 of the 1980 Act (powers of entry for purposes connected with certain orders relating to footpaths and bridleways), in subsection (1)—
+**17.**[^c-1fed4088ce7f61c73312608ad911b53d] In section 293 of the 1980 Act (powers of entry for purposes connected with certain orders relating to footpaths and bridleways), in subsection (1)—
 
-- (a)[^key-f2ce28412acb286ad3e6b5afc5a7c0ba] after “rail crossing extinguishment order,” there is inserted “ a special extinguishment order ”, and
-- (b)[^key-d6c560b1f4f8243660c068b6ab3c7721][^key-41862a93882338999e143aff6a3f5284] for “or a rail crossing diversion order” there is substituted “ , a rail crossing diversion order, a special diversion order or an SSSI diversion order ”.
+- (a)[^c-f2ce28412acb286ad3e6b5afc5a7c0ba] after “rail crossing extinguishment order,” there is inserted “ a special extinguishment order ”, and
+- (b)[^c-d6c560b1f4f8243660c068b6ab3c7721][^c-41862a93882338999e143aff6a3f5284] for “or a rail crossing diversion order” there is substituted “ , a rail crossing diversion order, a special diversion order or an SSSI diversion order ”.
 
 **18.**[^c1057162] In section 325 of the 1980 Act (regulations, schemes and orders)—
 
-- (a)[^key-5a386dfa75c4b354ba60af3feb0020db][^key-7165014672360f69d27fa71b18fbfaf8][^key-3d0f8ce4b51660f8ab28f5bdfe73feb2] in subsection (1)(d), for “118, 119,” there is substituted “ 118, 118A, 118B(4), 119, 119A, 119B(4), 119D ”, and
-- (b)[^key-23f37d39c2a8a3423b56655a39c64334][^key-3f6a7e61dfdfe66ac68e5f235961572f] in subsection (2)(b), after “17” there is inserted “ or 118B(1)(a) ”.
+- (a)[^c-5a386dfa75c4b354ba60af3feb0020db][^c-7165014672360f69d27fa71b18fbfaf8][^c-3d0f8ce4b51660f8ab28f5bdfe73feb2] in subsection (1)(d), for “118, 119,” there is substituted “ 118, 118A, 118B(4), 119, 119A, 119B(4), 119D ”, and
+- (b)[^c-23f37d39c2a8a3423b56655a39c64334][^c-3f6a7e61dfdfe66ac68e5f235961572f] in subsection (2)(b), after “17” there is inserted “ or 118B(1)(a) ”.
 
-**19.**[^c1057163][^key-c1dd92a82316bc6a70bb488faf58e36b][^key-c64c6c124ec449930ce8c15d8dc43293][^key-9c5972c86de71de80e0fbb31ba3e48db] In section 326 of the 1980 Act (revocation and variation of schemes and orders) in subsection (5), for “a public path diversion order” there is substituted “ a rail crossing extinguishment order, a special extinguishment order, a public path diversion order, a rail crossing diversion order, a special diversion order or an SSSI diversion order ”.
+**19.**[^c1057163][^c-c1dd92a82316bc6a70bb488faf58e36b][^c-c64c6c124ec449930ce8c15d8dc43293][^c-9c5972c86de71de80e0fbb31ba3e48db] In section 326 of the 1980 Act (revocation and variation of schemes and orders) in subsection (5), for “a public path diversion order” there is substituted “ a rail crossing extinguishment order, a special extinguishment order, a public path diversion order, a rail crossing diversion order, a special diversion order or an SSSI diversion order ”.
 
-**20.**[^key-49a6c472eba7d73136be49c3800a0811][^key-9b98f887e0592039d281689054eee30e][^key-c28827a874c5dc7f46346e8893140f35] In section 329(1) of the 1980 Act (interpretation)—
+**20.**[^c-49a6c472eba7d73136be49c3800a0811][^c-9b98f887e0592039d281689054eee30e][^c-c28827a874c5dc7f46346e8893140f35] In section 329(1) of the 1980 Act (interpretation)—
 
 - (a) after the definition of “cycle track” there is inserted—
 
@@ -898,33 +898,33 @@ Section 57.
 
   .
 
-**21.**[^key-d70363d67cf820d4cfd4e8ca6e996a31][^key-3ba8bbde73867a4d33e73f097385bf7b][^key-9a2cfa0b6773dca54c1c9d037253437d] In section 334 of the 1980 Act (savings relating to telecommunications apparatus) in subsection (2), for “and a public path diversion order” there is substituted “ , a special extinguishment order, a public path diversion order, a special diversion order and an SSSI diversion order ”.
+**21.**[^c-d70363d67cf820d4cfd4e8ca6e996a31][^c-3ba8bbde73867a4d33e73f097385bf7b][^c-9a2cfa0b6773dca54c1c9d037253437d] In section 334 of the 1980 Act (savings relating to telecommunications apparatus) in subsection (2), for “and a public path diversion order” there is substituted “ , a special extinguishment order, a public path diversion order, a special diversion order and an SSSI diversion order ”.
 
 **Not yet in force.**
 
 **22.** In section 344 of the 1980 Act (application to Isles of Scilly) in subsection (2)(a) after “135,” there is inserted “ 135A, 135B, ”.
 
-**23.** (1)[^key-957615e053feb81c7b3e525c71f071e4][^key-33805c5dc27e5bad1eb2740579d5dd5e][^key-ee32a4df2432b165760fda6ec5bc955c] Schedule 6 to the 1980 Act (provisions as to making, confirmation, validity and date of operation of certain orders relating to footpaths and bridleways), including that Schedule as applied by section 32(2) of the Acquisition of Land Act 1981, is amended as follows.
+**23.** (1)[^c-957615e053feb81c7b3e525c71f071e4][^c-33805c5dc27e5bad1eb2740579d5dd5e][^c-ee32a4df2432b165760fda6ec5bc955c] Schedule 6 to the 1980 Act (provisions as to making, confirmation, validity and date of operation of certain orders relating to footpaths and bridleways), including that Schedule as applied by section 32(2) of the Acquisition of Land Act 1981, is amended as follows.
 
-(2)[^key-957615e053feb81c7b3e525c71f071e4][^key-ee32a4df2432b165760fda6ec5bc955c] In paragraph 1(1) and (2)—
+(2)[^c-957615e053feb81c7b3e525c71f071e4][^c-ee32a4df2432b165760fda6ec5bc955c] In paragraph 1(1) and (2)—
 
-- (a)[^key-e69d8c2e99e61b4bb739dfc09a70487a] after “rail crossing extinguishment order,” there is inserted “ a special extinguishment order ”, and
-- (b)[^key-36e17c9129bc7feab1f8bf97a287d74a] for “or a rail crossing diversion order” there is substituted “ , a rail crossing diversion order, a special diversion order or an SSSI diversion order ”.
+- (a)[^c-e69d8c2e99e61b4bb739dfc09a70487a] after “rail crossing extinguishment order,” there is inserted “ a special extinguishment order ”, and
+- (b)[^c-36e17c9129bc7feab1f8bf97a287d74a] for “or a rail crossing diversion order” there is substituted “ , a rail crossing diversion order, a special diversion order or an SSSI diversion order ”.
 
-(3)[^key-957615e053feb81c7b3e525c71f071e4][^key-ee32a4df2432b165760fda6ec5bc955c] In paragraph 1(3A)—
+(3)[^c-957615e053feb81c7b3e525c71f071e4][^c-ee32a4df2432b165760fda6ec5bc955c] In paragraph 1(3A)—
 
-- (a)[^key-20166c8e353d3af1efddcdb39fd965e6] after “rail crossing extinguishment orders,” there is inserted “ special extinguishment orders ”, and
-- (b)[^key-c1a9140a91e521d6d755957ea0538c52] for “and rail crossing diversion orders” there is substituted “ , rail crossing diversion orders, special diversion orders and SSSI diversion orders ”.
+- (a)[^c-20166c8e353d3af1efddcdb39fd965e6] after “rail crossing extinguishment orders,” there is inserted “ special extinguishment orders ”, and
+- (b)[^c-c1a9140a91e521d6d755957ea0538c52] for “and rail crossing diversion orders” there is substituted “ , rail crossing diversion orders, special diversion orders and SSSI diversion orders ”.
 
-(4)[^key-957615e053feb81c7b3e525c71f071e4][^key-ee32a4df2432b165760fda6ec5bc955c] In paragraph 1(3B)—
+(4)[^c-957615e053feb81c7b3e525c71f071e4][^c-ee32a4df2432b165760fda6ec5bc955c] In paragraph 1(3B)—
 
-- (a)[^key-c31196ff15bae85b2b849ca8558ee5c8] after “draft rail crossing extinguishment orders,” there is inserted “ draft special extinguishment orders ”, and
-- (b)[^key-44744b47d5e5d252deeb2a0db88d4353] for “and draft rail crossing diversion orders” there is substituted “ , draft rail crossing diversion orders, draft special diversion orders and draft SSSI diversion orders ”.
+- (a)[^c-c31196ff15bae85b2b849ca8558ee5c8] after “draft rail crossing extinguishment orders,” there is inserted “ draft special extinguishment orders ”, and
+- (b)[^c-44744b47d5e5d252deeb2a0db88d4353] for “and draft rail crossing diversion orders” there is substituted “ , draft rail crossing diversion orders, draft special diversion orders and draft SSSI diversion orders ”.
 
-(5)[^key-f98b574d4deaea3a2df17efc9167a4a2] In paragraph 2—
+(5)[^c-f98b574d4deaea3a2df17efc9167a4a2] In paragraph 2—
 
 - (a) in sub-paragraph (1), at the beginning of paragraph (a) there is inserted “ subject to sub-paragraph (2A) ”,
-- (b)[^key-957615e053feb81c7b3e525c71f071e4][^key-ee32a4df2432b165760fda6ec5bc955c] in sub-paragraphs (2) and (3), for “or a public path diversion order,” there is substituted “ , a public path diversion order, a special diversion order or an SSSI diversion order ”, and
+- (b)[^c-957615e053feb81c7b3e525c71f071e4][^c-ee32a4df2432b165760fda6ec5bc955c] in sub-paragraphs (2) and (3), for “or a public path diversion order,” there is substituted “ , a public path diversion order, a special diversion order or an SSSI diversion order ”, and
 - (c) after sub-paragraph (2) there is inserted—
 
   > (2A) Before making or confirming an order on an appeal under section 121D(1) of this Act, the Secretary of State shall—
@@ -956,7 +956,7 @@ Section 57.
 >
 > **2ZB.** Where, in relation to any public path extinguishment order, special extinguishment order, public path diversion order or special diversion order which was made by an authority other than the Secretary of State on an application under section 118ZA, 118C, 119ZA or 119C of this Act, no representations or objections are duly made or any representations or objections so made are withdrawn, that authority may not submit the order to the Secretary of State for confirmation with any modification of the map contained in the order.
 
-(7)[^key-33e29b9a407c54a265dca69d40b47411][^key-f58ce5c26c2799de1cfcd9730060a24c][^key-469da7322aff2eb1c5af6dbf6717f93b] In paragraph 2A(1), for the words from the beginning to “shall” there is substituted—
+(7)[^c-33e29b9a407c54a265dca69d40b47411][^c-f58ce5c26c2799de1cfcd9730060a24c][^c-469da7322aff2eb1c5af6dbf6717f93b] In paragraph 2A(1), for the words from the beginning to “shall” there is substituted—
 
 > The following decisions—
 >
@@ -967,7 +967,7 @@ Section 57.
 
 .
 
-(8)[^key-957615e053feb81c7b3e525c71f071e4][^key-ff3b6a90260597489603ddf8ee16f9c9][^key-fe32c23a10a99d4bfce8c8179971890c][^key-ee32a4df2432b165760fda6ec5bc955c] After paragraph 2A there is inserted—
+(8)[^c-957615e053feb81c7b3e525c71f071e4][^c-ff3b6a90260597489603ddf8ee16f9c9][^c-fe32c23a10a99d4bfce8c8179971890c][^c-ee32a4df2432b165760fda6ec5bc955c] After paragraph 2A there is inserted—
 
 > **2B.** (1) Subject to sub-paragraph (2), subsections (2) to (5) of section 250 of the [^c1057165]Local Government Act 1972 (giving of evidence at, and defraying of costs of, inquiries) apply to a hearing which the Secretary of State causes to be held under paragraph 2 above as they apply (by virtue of section 302(1) of this Act) to a local inquiry which he causes to be held under this Act.
 >
@@ -977,14 +977,14 @@ Section 57.
 
 .
 
-(9)[^key-957615e053feb81c7b3e525c71f071e4][^key-ee32a4df2432b165760fda6ec5bc955c] In paragraph 3(2)—
+(9)[^c-957615e053feb81c7b3e525c71f071e4][^c-ee32a4df2432b165760fda6ec5bc955c] In paragraph 3(2)—
 
-- (a)[^key-412ab19a7762cea749338645836d87d1] for “or a rail crossing extinguishment order” there is substituted “ , a rail crossing extinguishment order or a special extinguishment order ”, and
-- (b)[^key-80e6a526e99df913a44b152e58b93c47] for “or a rail crossing diversion order” there is substituted “ , a rail crossing diversion order, a special diversion order or an SSSI diversion order ”.
+- (a)[^c-412ab19a7762cea749338645836d87d1] for “or a rail crossing extinguishment order” there is substituted “ , a rail crossing extinguishment order or a special extinguishment order ”, and
+- (b)[^c-80e6a526e99df913a44b152e58b93c47] for “or a rail crossing diversion order” there is substituted “ , a rail crossing diversion order, a special diversion order or an SSSI diversion order ”.
 
 (10) At the end of paragraph 4(3) there is inserted “ other than any person on whom notice of the decision is required to be served under paragraph 2ZA(2) above ”.
 
-**24.**[^key-b8658f43dafb4e049884cedfbb387538][^key-fd6a619a72efd960583697fc5f2e004f][^key-556d34dd67d35f3f493aa8a608efacde] After Schedule 12 to the 1980 Act there is inserted—
+**24.**[^c-b8658f43dafb4e049884cedfbb387538][^c-fd6a619a72efd960583697fc5f2e004f][^c-556d34dd67d35f3f493aa8a608efacde] After Schedule 12 to the 1980 Act there is inserted—
 
 > **Schedule 12ZA — Delegation of function of making determination**
 >
@@ -1060,14 +1060,14 @@ Section 57.
 
 #### Norfolk and Suffolk Broads Act 1988 (c. 4)
 
-**25.**[^key-5922687aa0e8c00a7edb6ead351afdfa] In Schedule 3 to the Norfolk and Suffolk Broads Act 1988 (functions of Broads Authority), in paragraph 47 (footpaths and bridleways)—
+**25.**[^c-5922687aa0e8c00a7edb6ead351afdfa] In Schedule 3 to the Norfolk and Suffolk Broads Act 1988 (functions of Broads Authority), in paragraph 47 (footpaths and bridleways)—
 
 - (a) for “118 to 121” there is substituted “ 118 to 121E ”, and
 - (b) after “footpaths etc.)” there is inserted “ , except sections 118B and 119B of that Act (stopping up and diversion for purposes of crime prevention, etc.), ”.
 
 #### Environment Act 1995 (c. 25)
 
-**26.**[^key-48b7d4745b6a5a3d7eafb78fde628e56][^key-d31c1e736a1eb2962ee58f608c2f82e6] In Schedule 9 to the Environment Act 1995 (miscellaneous functions of National Park authorities), in paragraph 11 (footpaths and bridleways) for paragraph (c) there is substituted—
+**26.**[^c-48b7d4745b6a5a3d7eafb78fde628e56][^c-d31c1e736a1eb2962ee58f608c2f82e6] In Schedule 9 to the Environment Act 1995 (miscellaneous functions of National Park authorities), in paragraph 11 (footpaths and bridleways) for paragraph (c) there is substituted—
 
 > - (c) sections 118 to 121E (stopping up and diversion of public paths, etc.), except sections 118B and 119B (stopping up and diversion for purposes of crime prevention, etc.), and
 
@@ -1075,63 +1075,63 @@ Section 57.
 
 ## Annotations
 
-[^key-1595501c567e94802e3fbda798655a20]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/1) in force at 12.2.2003 for E. by [S.I. 2003/272](https://www.legislation.gov.uk/uksi/2003/272), [art. 2(b)](https://www.legislation.gov.uk/uksi/2003/272/article/2/b)
+[^c-1595501c567e94802e3fbda798655a20]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/1) in force at 12.2.2003 for E. by [S.I. 2003/272](https://www.legislation.gov.uk/uksi/2003/272), [art. 2(b)](https://www.legislation.gov.uk/uksi/2003/272/article/2/b)
 
-[^key-41e86aa74f7907c99cec851bf8757b1e]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/1) in force at 1.4.2004 for W. by [S.I. 2004/315](https://www.legislation.gov.uk/wsi/2004/315), [art. 2(c)](https://www.legislation.gov.uk/wsi/2004/315/article/2/c)
+[^c-41e86aa74f7907c99cec851bf8757b1e]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/1) in force at 1.4.2004 for W. by [S.I. 2004/315](https://www.legislation.gov.uk/wsi/2004/315), [art. 2(c)](https://www.legislation.gov.uk/wsi/2004/315/article/2/c)
 
-[^key-e35b49c7df38e9ec70389bc1f17c8668]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/1) in force at 6.12.2006 for W. in so far as not already in force by [S.I. 2006/3257](https://www.legislation.gov.uk/wsi/2006/3257), [art. 2(a)(i)](https://www.legislation.gov.uk/wsi/2006/3257/article/2/a/i)
+[^c-e35b49c7df38e9ec70389bc1f17c8668]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/1) in force at 6.12.2006 for W. in so far as not already in force by [S.I. 2006/3257](https://www.legislation.gov.uk/wsi/2006/3257), [art. 2(a)(i)](https://www.legislation.gov.uk/wsi/2006/3257/article/2/a/i)
 
-[^key-b4ad6cd231887a596af9fd34b62ebac8]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/2) in force at 12.2.2003 for E. by [S.I. 2003/272](https://www.legislation.gov.uk/uksi/2003/272), [art. 2(c)](https://www.legislation.gov.uk/uksi/2003/272/article/2/c)
+[^c-b4ad6cd231887a596af9fd34b62ebac8]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/2) in force at 12.2.2003 for E. by [S.I. 2003/272](https://www.legislation.gov.uk/uksi/2003/272), [art. 2(c)](https://www.legislation.gov.uk/uksi/2003/272/article/2/c)
 
-[^key-c267b831556d4dae0d2d798fa80648fb]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/2) in force at 31.5.2005 for W. by [S.I. 2005/1314](https://www.legislation.gov.uk/wsi/2005/1314), [art. 2(b)(i)](https://www.legislation.gov.uk/wsi/2005/1314/article/2/b/i)
+[^c-c267b831556d4dae0d2d798fa80648fb]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/2) in force at 31.5.2005 for W. by [S.I. 2005/1314](https://www.legislation.gov.uk/wsi/2005/1314), [art. 2(b)(i)](https://www.legislation.gov.uk/wsi/2005/1314/article/2/b/i)
 
-[^key-a9a33864bece6416501b02f9f26b6b44]: Textual amendment: Sch. 6 para. 3 omitted (25.6.2013 for specified purposes, 1.10.2013 in so far as not already in force) by virtue of [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [ss. 13(7)](https://www.legislation.gov.uk/ukpga/2013/27/section/13/7), [35(1)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/1); [S.I. 2013/1488](https://www.legislation.gov.uk/uksi/2013/1488), [art. 4(a)](https://www.legislation.gov.uk/uksi/2013/1488/article/4/a); [S.I. 2013/1766](https://www.legislation.gov.uk/uksi/2013/1766), [art. 3(a)](https://www.legislation.gov.uk/uksi/2013/1766/article/3/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2013/1766/article/4))
+[^c-a9a33864bece6416501b02f9f26b6b44]: Textual amendment: Sch. 6 para. 3 omitted (25.6.2013 for specified purposes, 1.10.2013 in so far as not already in force) by virtue of [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [ss. 13(7)](https://www.legislation.gov.uk/ukpga/2013/27/section/13/7), [35(1)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/1); [S.I. 2013/1488](https://www.legislation.gov.uk/uksi/2013/1488), [art. 4(a)](https://www.legislation.gov.uk/uksi/2013/1488/article/4/a); [S.I. 2013/1766](https://www.legislation.gov.uk/uksi/2013/1766), [art. 3(a)](https://www.legislation.gov.uk/uksi/2013/1766/article/3/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2013/1766/article/4))
 
-[^key-40216ec717b7d0f9dcbddfdfd1c862bb]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/4) in force at 21.11.2005 for W. by [S.I. 2005/1314](https://www.legislation.gov.uk/wsi/2005/1314), [art. 4(b)(i)](https://www.legislation.gov.uk/wsi/2005/1314/article/4/b/i)
+[^c-40216ec717b7d0f9dcbddfdfd1c862bb]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/4) in force at 21.11.2005 for W. by [S.I. 2005/1314](https://www.legislation.gov.uk/wsi/2005/1314), [art. 4(b)(i)](https://www.legislation.gov.uk/wsi/2005/1314/article/4/b/i)
 
-[^key-b00dbbd776fc5da645238950cf11cf93]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/4) in force at 1.10.2007 for E. by [S.I. 2007/2335](https://www.legislation.gov.uk/uksi/2007/2335), [art. 2](https://www.legislation.gov.uk/uksi/2007/2335/article/2)
+[^c-b00dbbd776fc5da645238950cf11cf93]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/4) in force at 1.10.2007 for E. by [S.I. 2007/2335](https://www.legislation.gov.uk/uksi/2007/2335), [art. 2](https://www.legislation.gov.uk/uksi/2007/2335/article/2)
 
-[^key-686760cc24ead20fe21f943ea3cf2e5c]: Commencement: [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/5) in force at 12.2.2003 for specified purposes for E. by [S.I. 2003/272](https://www.legislation.gov.uk/uksi/2003/272), [art. 2(d)](https://www.legislation.gov.uk/uksi/2003/272/article/2/d)
+[^c-686760cc24ead20fe21f943ea3cf2e5c]: Commencement: [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/5) in force at 12.2.2003 for specified purposes for E. by [S.I. 2003/272](https://www.legislation.gov.uk/uksi/2003/272), [art. 2(d)](https://www.legislation.gov.uk/uksi/2003/272/article/2/d)
 
-[^key-5c16bb358c72597541cedac96d8c2a61]: Commencement: [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/5) in force at 15.7.2005 for specified purposes for W. by [S.I. 2005/1314](https://www.legislation.gov.uk/wsi/2005/1314), [art. 3(a)](https://www.legislation.gov.uk/wsi/2005/1314/article/3/a)
+[^c-5c16bb358c72597541cedac96d8c2a61]: Commencement: [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/5) in force at 15.7.2005 for specified purposes for W. by [S.I. 2005/1314](https://www.legislation.gov.uk/wsi/2005/1314), [art. 3(a)](https://www.legislation.gov.uk/wsi/2005/1314/article/3/a)
 
-[^key-57550c34adf84479b729c5990783c2f9]: Commencement: [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/5) in force at 21.5.2007 for E. in so far as not already in force by [S.I. 2007/1493](https://www.legislation.gov.uk/uksi/2007/1493), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/1493/article/2/a)
+[^c-57550c34adf84479b729c5990783c2f9]: Commencement: [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/5) in force at 21.5.2007 for E. in so far as not already in force by [S.I. 2007/1493](https://www.legislation.gov.uk/uksi/2007/1493), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/1493/article/2/a)
 
-[^key-a21d083f215328848e05c4dedf409c94]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/6) in force at 12.2.2003 for E. by [S.I. 2003/272](https://www.legislation.gov.uk/uksi/2003/272), [art. 2(b)](https://www.legislation.gov.uk/uksi/2003/272/article/2/b)
+[^c-a21d083f215328848e05c4dedf409c94]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/6) in force at 12.2.2003 for E. by [S.I. 2003/272](https://www.legislation.gov.uk/uksi/2003/272), [art. 2(b)](https://www.legislation.gov.uk/uksi/2003/272/article/2/b)
 
-[^key-74995e36a2ad6abed2da7e22e7f45ff5]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/6) in force at 1.4.2004 for W. by [S.I. 2004/315](https://www.legislation.gov.uk/wsi/2004/315), [art. 2(c)](https://www.legislation.gov.uk/wsi/2004/315/article/2/c)
+[^c-74995e36a2ad6abed2da7e22e7f45ff5]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/6) in force at 1.4.2004 for W. by [S.I. 2004/315](https://www.legislation.gov.uk/wsi/2004/315), [art. 2(c)](https://www.legislation.gov.uk/wsi/2004/315/article/2/c)
 
-[^key-9395508561da5d8cfcf1e2eb937b1c0d]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/6) in force at 6.12.2006 for W. in so far as not already in force by [S.I. 2006/3257](https://www.legislation.gov.uk/wsi/2006/3257), [art. 2(a)(i)](https://www.legislation.gov.uk/wsi/2006/3257/article/2/a/i)
+[^c-9395508561da5d8cfcf1e2eb937b1c0d]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/6) in force at 6.12.2006 for W. in so far as not already in force by [S.I. 2006/3257](https://www.legislation.gov.uk/wsi/2006/3257), [art. 2(a)(i)](https://www.legislation.gov.uk/wsi/2006/3257/article/2/a/i)
 
-[^key-814294dee94ff02c3df55acaeb63a47d]: Commencement: [Sch. 6 para. 8](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/8) in force at 12.2.2003 for specified purposes for E. by [S.I. 2003/272](https://www.legislation.gov.uk/uksi/2003/272), [art. 2(e)](https://www.legislation.gov.uk/uksi/2003/272/article/2/e)
+[^c-814294dee94ff02c3df55acaeb63a47d]: Commencement: [Sch. 6 para. 8](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/8) in force at 12.2.2003 for specified purposes for E. by [S.I. 2003/272](https://www.legislation.gov.uk/uksi/2003/272), [art. 2(e)](https://www.legislation.gov.uk/uksi/2003/272/article/2/e)
 
-[^key-2b3b730e4b236dfd0cb9632ee3477c47]: Commencement: [Sch. 6 para. 8](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/8) in force at 15.7.2005 for specified purposes for W. by [S.I. 2005/1314](https://www.legislation.gov.uk/wsi/2005/1314), [art. 3(b)](https://www.legislation.gov.uk/wsi/2005/1314/article/3/b)
+[^c-2b3b730e4b236dfd0cb9632ee3477c47]: Commencement: [Sch. 6 para. 8](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/8) in force at 15.7.2005 for specified purposes for W. by [S.I. 2005/1314](https://www.legislation.gov.uk/wsi/2005/1314), [art. 3(b)](https://www.legislation.gov.uk/wsi/2005/1314/article/3/b)
 
 [^c1057156]: Marginal citation: [1998 c. 37](https://www.legislation.gov.uk/ukpga/1998/37).
 
-[^key-444b8f320eac631a4f116264749641c0]: Commencement: [Sch. 6 para. 9(1)-(3)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/9/1) in force at 12.2.2003 for E. by [S.I. 2003/272](https://www.legislation.gov.uk/uksi/2003/272), [art. 2(f)](https://www.legislation.gov.uk/uksi/2003/272/article/2/f)
+[^c-444b8f320eac631a4f116264749641c0]: Commencement: [Sch. 6 para. 9(1)-(3)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/9/1) in force at 12.2.2003 for E. by [S.I. 2003/272](https://www.legislation.gov.uk/uksi/2003/272), [art. 2(f)](https://www.legislation.gov.uk/uksi/2003/272/article/2/f)
 
-[^key-1486def4046ced500d194f29c71b8ddb]: Commencement: [Sch. 6 para. 9(1)-(3)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/9/1) in force at 31.5.2005 for W. by [S.I. 2005/1314](https://www.legislation.gov.uk/wsi/2005/1314), [art. 2(b)(iii)](https://www.legislation.gov.uk/wsi/2005/1314/article/2/b/iii)
+[^c-1486def4046ced500d194f29c71b8ddb]: Commencement: [Sch. 6 para. 9(1)-(3)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/9/1) in force at 31.5.2005 for W. by [S.I. 2005/1314](https://www.legislation.gov.uk/wsi/2005/1314), [art. 2(b)(iii)](https://www.legislation.gov.uk/wsi/2005/1314/article/2/b/iii)
 
-[^key-32d7c3d312f177b6aa32c9a22dd64d3b]: Commencement: [Sch. 6 para. 9(5)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/9/5) in force at 12.2.2003 for E. by [S.I. 2003/272](https://www.legislation.gov.uk/uksi/2003/272), [art. 2(b)](https://www.legislation.gov.uk/uksi/2003/272/article/2/b)
+[^c-32d7c3d312f177b6aa32c9a22dd64d3b]: Commencement: [Sch. 6 para. 9(5)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/9/5) in force at 12.2.2003 for E. by [S.I. 2003/272](https://www.legislation.gov.uk/uksi/2003/272), [art. 2(b)](https://www.legislation.gov.uk/uksi/2003/272/article/2/b)
 
-[^key-add7c6ca96d7ecfe57aa2d9653aee3a3]: Commencement: [Sch. 6 para. 9(5)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/9/5) in force at 1.4.2004 for W. by [S.I. 2004/315](https://www.legislation.gov.uk/wsi/2004/315), [art. 2(c)](https://www.legislation.gov.uk/wsi/2004/315/article/2/c)
+[^c-add7c6ca96d7ecfe57aa2d9653aee3a3]: Commencement: [Sch. 6 para. 9(5)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/9/5) in force at 1.4.2004 for W. by [S.I. 2004/315](https://www.legislation.gov.uk/wsi/2004/315), [art. 2(c)](https://www.legislation.gov.uk/wsi/2004/315/article/2/c)
 
-[^key-cfffc7835b70c8aaea01a7dc7d5eee1e]: Commencement: [Sch. 6 para. 9(5)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/9/5) in force at 6.12.2006 for W. in so far as not already in force by [S.I. 2006/3257](https://www.legislation.gov.uk/wsi/2006/3257), [art. 2(a)(i)](https://www.legislation.gov.uk/wsi/2006/3257/article/2/a/i)
+[^c-cfffc7835b70c8aaea01a7dc7d5eee1e]: Commencement: [Sch. 6 para. 9(5)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/9/5) in force at 6.12.2006 for W. in so far as not already in force by [S.I. 2006/3257](https://www.legislation.gov.uk/wsi/2006/3257), [art. 2(a)(i)](https://www.legislation.gov.uk/wsi/2006/3257/article/2/a/i)
 
-[^key-cf0c0b08e80c6493b8beebd1df088b74]: Commencement: [Sch. 6 para. 11](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/11) in force at 12.2.2003 for E. by [S.I. 2003/272](https://www.legislation.gov.uk/uksi/2003/272), [art. 2(g)](https://www.legislation.gov.uk/uksi/2003/272/article/2/g)
+[^c-cf0c0b08e80c6493b8beebd1df088b74]: Commencement: [Sch. 6 para. 11](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/11) in force at 12.2.2003 for E. by [S.I. 2003/272](https://www.legislation.gov.uk/uksi/2003/272), [art. 2(g)](https://www.legislation.gov.uk/uksi/2003/272/article/2/g)
 
-[^key-2e3e26e814c4a9ceaa6f41087607226c]: Commencement: [Sch. 6 para. 11](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/11) in force at 31.5.2005 for W. by [S.I. 2005/1314](https://www.legislation.gov.uk/wsi/2005/1314), [art. 2(b)(iv)](https://www.legislation.gov.uk/wsi/2005/1314/article/2/b/iv)
+[^c-2e3e26e814c4a9ceaa6f41087607226c]: Commencement: [Sch. 6 para. 11](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/11) in force at 31.5.2005 for W. by [S.I. 2005/1314](https://www.legislation.gov.uk/wsi/2005/1314), [art. 2(b)(iv)](https://www.legislation.gov.uk/wsi/2005/1314/article/2/b/iv)
 
-[^key-d079e144d0d9eeaf81a19bee74ccff62]: Commencement: Sch. 6 para. 12 in force at 12.2.2003 for specified purposes for E. by [S.I. 2003/272](https://www.legislation.gov.uk/uksi/2003/272), [art. 2(h)](https://www.legislation.gov.uk/uksi/2003/272/article/2/h)
+[^c-d079e144d0d9eeaf81a19bee74ccff62]: Commencement: Sch. 6 para. 12 in force at 12.2.2003 for specified purposes for E. by [S.I. 2003/272](https://www.legislation.gov.uk/uksi/2003/272), [art. 2(h)](https://www.legislation.gov.uk/uksi/2003/272/article/2/h)
 
-[^key-92913f4e264101eab1c10a224e5f03c0]: Commencement: Sch. 6 para. 12 in force at 15.7.2005 for specified purposes for W. by [S.I. 2005/1314](https://www.legislation.gov.uk/uksi/2005/1314), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/1314/article/3/c)
+[^c-92913f4e264101eab1c10a224e5f03c0]: Commencement: Sch. 6 para. 12 in force at 15.7.2005 for specified purposes for W. by [S.I. 2005/1314](https://www.legislation.gov.uk/uksi/2005/1314), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/1314/article/3/c)
 
-[^key-d74122a591a2cc9ad0f4e7e22ea4a06c]: Commencement: Sch. 6 para. 12 in force at 21.5.2007 for specified purposes for E. by [S.I. 2007/1493](https://www.legislation.gov.uk/uksi/2007/1493), [art. 2(b)](https://www.legislation.gov.uk/uksi/2007/1493/article/2/b)
+[^c-d74122a591a2cc9ad0f4e7e22ea4a06c]: Commencement: Sch. 6 para. 12 in force at 21.5.2007 for specified purposes for E. by [S.I. 2007/1493](https://www.legislation.gov.uk/uksi/2007/1493), [art. 2(b)](https://www.legislation.gov.uk/uksi/2007/1493/article/2/b)
 
 [^c1057157]: Marginal citation: [1998 c. 37](https://www.legislation.gov.uk/ukpga/1998/37).
 
-[^key-04f0dac1c0a59df0e5c235d8ac615881]: Textual amendment: Words in Sch. 6 para. 12 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 411(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/411/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-04f0dac1c0a59df0e5c235d8ac615881]: Textual amendment: Words in Sch. 6 para. 12 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 411(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/411/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c1057158]: Marginal citation: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69).
 
@@ -1139,116 +1139,116 @@ Section 57.
 
 [^c1057160]: Marginal citation: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69).
 
-[^key-7a58d6181064d34658b1dbbd0d3f18f7]: Commencement: Sch. 6 para. 13(1)-(5), (7)-(9) in force at 12.2.2003 for specified purposes for E. by [S.I. 2003/272](https://www.legislation.gov.uk/uksi/2003/272), [art. 2(i)](https://www.legislation.gov.uk/uksi/2003/272/article/2/i)
+[^c-7a58d6181064d34658b1dbbd0d3f18f7]: Commencement: Sch. 6 para. 13(1)-(5), (7)-(9) in force at 12.2.2003 for specified purposes for E. by [S.I. 2003/272](https://www.legislation.gov.uk/uksi/2003/272), [art. 2(i)](https://www.legislation.gov.uk/uksi/2003/272/article/2/i)
 
-[^key-e91b3b6bd3ce92c1f5320e6eea707114]: Commencement: Sch. 6 para. 13(1)-(4)(5)(a)-(d)(7)-(9) in force at 15.7.2005 for specified purposes for W. by [S.I. 2005/1314](https://www.legislation.gov.uk/uksi/2005/1314), [art. 3(d)(i)](https://www.legislation.gov.uk/uksi/2005/1314/article/3/d/i)
+[^c-e91b3b6bd3ce92c1f5320e6eea707114]: Commencement: Sch. 6 para. 13(1)-(4)(5)(a)-(d)(7)-(9) in force at 15.7.2005 for specified purposes for W. by [S.I. 2005/1314](https://www.legislation.gov.uk/uksi/2005/1314), [art. 3(d)(i)](https://www.legislation.gov.uk/uksi/2005/1314/article/3/d/i)
 
-[^key-e8791edd5d98becba59913974d59d152]: Commencement: [Sch. 6 para. 13(1)-(5)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/13/1) [(7)-(10)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/13/7) in force at 21.5.2007 for specified purposes for E. by [S.I. 2007/1493](https://www.legislation.gov.uk/uksi/2007/1493), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/1493/article/2/c)
+[^c-e8791edd5d98becba59913974d59d152]: Commencement: [Sch. 6 para. 13(1)-(5)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/13/1) [(7)-(10)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/13/7) in force at 21.5.2007 for specified purposes for E. by [S.I. 2007/1493](https://www.legislation.gov.uk/uksi/2007/1493), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/1493/article/2/c)
 
-[^key-5e95a5aed765b38fba2cb1581d84b009]: Commencement: Sch. 6 para. 14 in force at 12.2.2003 for specified purposes for E. by [S.I. 2003/272](https://www.legislation.gov.uk/uksi/2003/272), [art. 2(j)](https://www.legislation.gov.uk/uksi/2003/272/article/2/j)
+[^c-5e95a5aed765b38fba2cb1581d84b009]: Commencement: Sch. 6 para. 14 in force at 12.2.2003 for specified purposes for E. by [S.I. 2003/272](https://www.legislation.gov.uk/uksi/2003/272), [art. 2(j)](https://www.legislation.gov.uk/uksi/2003/272/article/2/j)
 
-[^key-4930c3285032fe552c3ad774bb56002f]: Commencement: [Sch. 6 para. 14](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/14) in force at 21.5.2007 for specified purposes for E. by [S.I. 2007/1493](https://www.legislation.gov.uk/uksi/2007/1493), [art. 2(d)](https://www.legislation.gov.uk/uksi/2007/1493/article/2/d)
+[^c-4930c3285032fe552c3ad774bb56002f]: Commencement: [Sch. 6 para. 14](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/14) in force at 21.5.2007 for specified purposes for E. by [S.I. 2007/1493](https://www.legislation.gov.uk/uksi/2007/1493), [art. 2(d)](https://www.legislation.gov.uk/uksi/2007/1493/article/2/d)
 
-[^key-f8d11efe4b4d400e47a0a27531772b69]: Commencement: Sch. 6 para. 14(1)(4)(a) in force at 31.5.2005 for W. by [S.I. 2005/1314](https://www.legislation.gov.uk/uksi/2005/1314), [art. 2(b)(v)](https://www.legislation.gov.uk/uksi/2005/1314/article/2/b/v)
+[^c-f8d11efe4b4d400e47a0a27531772b69]: Commencement: Sch. 6 para. 14(1)(4)(a) in force at 31.5.2005 for W. by [S.I. 2005/1314](https://www.legislation.gov.uk/uksi/2005/1314), [art. 2(b)(v)](https://www.legislation.gov.uk/uksi/2005/1314/article/2/b/v)
 
-[^key-63b460dd9478ca625503a78e581a2eb9]: Commencement: Sch. 6 para. 14(2) (3) (4)(b) (4)(c)(5)-(7) in force at 15.7.2005 for specified purposes for W. by [S.I. 2005/1314](https://www.legislation.gov.uk/uksi/2005/1314), [art. 3(d)(ii)](https://www.legislation.gov.uk/uksi/2005/1314/article/3/d/ii)
+[^c-63b460dd9478ca625503a78e581a2eb9]: Commencement: Sch. 6 para. 14(2) (3) (4)(b) (4)(c)(5)-(7) in force at 15.7.2005 for specified purposes for W. by [S.I. 2005/1314](https://www.legislation.gov.uk/uksi/2005/1314), [art. 3(d)(ii)](https://www.legislation.gov.uk/uksi/2005/1314/article/3/d/ii)
 
 [^c1057161]: Marginal citation: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8).
 
-[^key-793bf8e26d15ae210807e75558c25148]: Commencement: [Sch. 6 para. 15](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/15) in force at 21.11.2005 for specified purposes for W. by [S.I. 2005/1314](https://www.legislation.gov.uk/wsi/2005/1314), [art. 4(b)(ii)](https://www.legislation.gov.uk/wsi/2005/1314/article/4/b/ii)
+[^c-793bf8e26d15ae210807e75558c25148]: Commencement: [Sch. 6 para. 15](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/15) in force at 21.11.2005 for specified purposes for W. by [S.I. 2005/1314](https://www.legislation.gov.uk/wsi/2005/1314), [art. 4(b)(ii)](https://www.legislation.gov.uk/wsi/2005/1314/article/4/b/ii)
 
-[^key-70be13676b2fc4b26c145accf2294b08]: Textual amendment: Words in Sch. 6 para. 16 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 411(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/411/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-70be13676b2fc4b26c145accf2294b08]: Textual amendment: Words in Sch. 6 para. 16 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 411(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/411/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-1fed4088ce7f61c73312608ad911b53d]: Commencement: [Sch. 6 para. 17](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/17) in force at 15.7.2005 for specified purposes for W. by [S.I. 2005/1314](https://www.legislation.gov.uk/wsi/2005/1314), [art. 3(d)(iii)](https://www.legislation.gov.uk/wsi/2005/1314/article/3/d/iii)
+[^c-1fed4088ce7f61c73312608ad911b53d]: Commencement: [Sch. 6 para. 17](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/17) in force at 15.7.2005 for specified purposes for W. by [S.I. 2005/1314](https://www.legislation.gov.uk/wsi/2005/1314), [art. 3(d)(iii)](https://www.legislation.gov.uk/wsi/2005/1314/article/3/d/iii)
 
-[^key-f2ce28412acb286ad3e6b5afc5a7c0ba]: Commencement: [Sch. 6 para. 17(a)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/17/a) in force at 12.2.2003 for E. by [S.I. 2003/272](https://www.legislation.gov.uk/uksi/2003/272), [art. 2(k)(i)](https://www.legislation.gov.uk/uksi/2003/272/article/2/k/i)
+[^c-f2ce28412acb286ad3e6b5afc5a7c0ba]: Commencement: [Sch. 6 para. 17(a)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/17/a) in force at 12.2.2003 for E. by [S.I. 2003/272](https://www.legislation.gov.uk/uksi/2003/272), [art. 2(k)(i)](https://www.legislation.gov.uk/uksi/2003/272/article/2/k/i)
 
-[^key-d6c560b1f4f8243660c068b6ab3c7721]: Commencement: [Sch. 6 para. 17(b)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/17/b) in force at 12.2.2003 for specified purposes for E. by [S.I. 2003/272](https://www.legislation.gov.uk/uksi/2003/272), [art. 2(k)(ii)](https://www.legislation.gov.uk/uksi/2003/272/article/2/k/ii)
+[^c-d6c560b1f4f8243660c068b6ab3c7721]: Commencement: [Sch. 6 para. 17(b)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/17/b) in force at 12.2.2003 for specified purposes for E. by [S.I. 2003/272](https://www.legislation.gov.uk/uksi/2003/272), [art. 2(k)(ii)](https://www.legislation.gov.uk/uksi/2003/272/article/2/k/ii)
 
-[^key-41862a93882338999e143aff6a3f5284]: Commencement: [Sch. 6 para. 17(b)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/17/b) in force at 21.5.2007 for E. in so far as not already in force by [S.I. 2007/1493](https://www.legislation.gov.uk/uksi/2007/1493), [art. 2(e)](https://www.legislation.gov.uk/uksi/2007/1493/article/2/e)
+[^c-41862a93882338999e143aff6a3f5284]: Commencement: [Sch. 6 para. 17(b)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/17/b) in force at 21.5.2007 for E. in so far as not already in force by [S.I. 2007/1493](https://www.legislation.gov.uk/uksi/2007/1493), [art. 2(e)](https://www.legislation.gov.uk/uksi/2007/1493/article/2/e)
 
 [^c1057162]: Commencement: [Sch. 6 para. 18](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/18) partly in force; [Sch. 6 para. 18](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/18) not in force at Royal Assent see [s. 103(3)](https://www.legislation.gov.uk/ukpga/2000/37/section/103/3); [Sch. 6 para. 18(a)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/18/a) in force for certain purposes for E. at 30.1.2001 by [S.I. 2001/114](https://www.legislation.gov.uk/uksi/2001/114), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2001/114/article/2/1/e); [Sch. 6 para. 18(a)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/18/a) in force for certain purposes for W. by [S.I. 2001/1410](https://www.legislation.gov.uk/uksi/2001/1410), [art. 2(k)](https://www.legislation.gov.uk/uksi/2001/1410/article/2/k)
 
-[^key-5a386dfa75c4b354ba60af3feb0020db]: Commencement: [Sch. 6 para. 18(a)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/18/a) in force at 12.2.2003 for specified purposes for E. by [S.I. 2003/272](https://www.legislation.gov.uk/uksi/2003/272), [art. 2(l)(i)](https://www.legislation.gov.uk/uksi/2003/272/article/2/l/i)
+[^c-5a386dfa75c4b354ba60af3feb0020db]: Commencement: [Sch. 6 para. 18(a)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/18/a) in force at 12.2.2003 for specified purposes for E. by [S.I. 2003/272](https://www.legislation.gov.uk/uksi/2003/272), [art. 2(l)(i)](https://www.legislation.gov.uk/uksi/2003/272/article/2/l/i)
 
-[^key-7165014672360f69d27fa71b18fbfaf8]: Commencement: [Sch. 6 para. 18(a)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/18/a) in force at 15.7.2005 for specified purposes for W. by [S.I. 2005/1314](https://www.legislation.gov.uk/wsi/2005/1314), [art. 3(d)(aa)](https://www.legislation.gov.uk/wsi/2005/1314/article/3/d/aa)[(iv)](https://www.legislation.gov.uk/wsi/2005/1314/article/3/d/iv)
+[^c-7165014672360f69d27fa71b18fbfaf8]: Commencement: [Sch. 6 para. 18(a)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/18/a) in force at 15.7.2005 for specified purposes for W. by [S.I. 2005/1314](https://www.legislation.gov.uk/wsi/2005/1314), [art. 3(d)(aa)](https://www.legislation.gov.uk/wsi/2005/1314/article/3/d/aa)[(iv)](https://www.legislation.gov.uk/wsi/2005/1314/article/3/d/iv)
 
-[^key-3d0f8ce4b51660f8ab28f5bdfe73feb2]: Commencement: [Sch. 6 para. 18(a)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/18/a) in force at 21.5.2007 for E. in so far as not already in force by [S.I. 2007/1493](https://www.legislation.gov.uk/uksi/2007/1493), [art. 2(f)](https://www.legislation.gov.uk/uksi/2007/1493/article/2/f)
+[^c-3d0f8ce4b51660f8ab28f5bdfe73feb2]: Commencement: [Sch. 6 para. 18(a)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/18/a) in force at 21.5.2007 for E. in so far as not already in force by [S.I. 2007/1493](https://www.legislation.gov.uk/uksi/2007/1493), [art. 2(f)](https://www.legislation.gov.uk/uksi/2007/1493/article/2/f)
 
-[^key-23f37d39c2a8a3423b56655a39c64334]: Commencement: [Sch. 6 para. 18(b)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/18/b) in force at 12.2.2003 for E. by [S.I. 2003/272](https://www.legislation.gov.uk/uksi/2003/272), [art. 2(l)(ii)](https://www.legislation.gov.uk/uksi/2003/272/article/2/l/ii)
+[^c-23f37d39c2a8a3423b56655a39c64334]: Commencement: [Sch. 6 para. 18(b)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/18/b) in force at 12.2.2003 for E. by [S.I. 2003/272](https://www.legislation.gov.uk/uksi/2003/272), [art. 2(l)(ii)](https://www.legislation.gov.uk/uksi/2003/272/article/2/l/ii)
 
-[^key-3f6a7e61dfdfe66ac68e5f235961572f]: Commencement: [Sch. 6 para. 18(b)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/18/b) in force at 15.7.2005 for specified purposes for W. by [S.I. 2005/1314](https://www.legislation.gov.uk/wsi/2005/1314), [art. 3(d)(bb)](https://www.legislation.gov.uk/wsi/2005/1314/article/3/d/bb)[(iv)](https://www.legislation.gov.uk/wsi/2005/1314/article/3/d/iv)
+[^c-3f6a7e61dfdfe66ac68e5f235961572f]: Commencement: [Sch. 6 para. 18(b)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/18/b) in force at 15.7.2005 for specified purposes for W. by [S.I. 2005/1314](https://www.legislation.gov.uk/wsi/2005/1314), [art. 3(d)(bb)](https://www.legislation.gov.uk/wsi/2005/1314/article/3/d/bb)[(iv)](https://www.legislation.gov.uk/wsi/2005/1314/article/3/d/iv)
 
 [^c1057163]: Commencement: [Sch. 16 para. 19](https://www.legislation.gov.uk/ukpga/2000/37/schedule/16/paragraph/19) partly in force; [Sch. 6 para. 19](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/19) not in force at Royal Assent see [s. 103(3)](https://www.legislation.gov.uk/ukpga/2000/37/section/103/3); [Sch. 16 para. 19](https://www.legislation.gov.uk/ukpga/2000/37/schedule/16/paragraph/19) in force for certain purposes for E. at 1.5.2001 by [S.I. 2001/114](https://www.legislation.gov.uk/uksi/2001/114), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2001/114/article/2/1/f); [Sch. 6 para. 19](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/19) in force for certain purpsoes for W. at 1.5.2001 by [S.I. 2001/1410](https://www.legislation.gov.uk/uksi/2001/1410), [art. 2(l)](https://www.legislation.gov.uk/uksi/2001/1410/article/2/l)
 
-[^key-c1dd92a82316bc6a70bb488faf58e36b]: Commencement: [Sch. 6 para. 19](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/19) in force at 12.2.2003 for specified purposes for E. by [S.I. 2003/272](https://www.legislation.gov.uk/uksi/2003/272), [art. 2(m)](https://www.legislation.gov.uk/uksi/2003/272/article/2/m)
+[^c-c1dd92a82316bc6a70bb488faf58e36b]: Commencement: [Sch. 6 para. 19](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/19) in force at 12.2.2003 for specified purposes for E. by [S.I. 2003/272](https://www.legislation.gov.uk/uksi/2003/272), [art. 2(m)](https://www.legislation.gov.uk/uksi/2003/272/article/2/m)
 
-[^key-c64c6c124ec449930ce8c15d8dc43293]: Commencement: [Sch. 6 para. 19](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/19) in force at 15.7.2005 for specified purposes for W. by [S.I. 2005/1314](https://www.legislation.gov.uk/wsi/2005/1314), [art. 3(d)(v)](https://www.legislation.gov.uk/wsi/2005/1314/article/3/d/v)
+[^c-c64c6c124ec449930ce8c15d8dc43293]: Commencement: [Sch. 6 para. 19](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/19) in force at 15.7.2005 for specified purposes for W. by [S.I. 2005/1314](https://www.legislation.gov.uk/wsi/2005/1314), [art. 3(d)(v)](https://www.legislation.gov.uk/wsi/2005/1314/article/3/d/v)
 
-[^key-9c5972c86de71de80e0fbb31ba3e48db]: Commencement: [Sch. 6 para. 19](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/19) in force at 21.5.2007 for E. in so far as not already in force by [S.I. 2007/1493](https://www.legislation.gov.uk/uksi/2007/1493), [art. 2(g)](https://www.legislation.gov.uk/uksi/2007/1493/article/2/g)
+[^c-9c5972c86de71de80e0fbb31ba3e48db]: Commencement: [Sch. 6 para. 19](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/19) in force at 21.5.2007 for E. in so far as not already in force by [S.I. 2007/1493](https://www.legislation.gov.uk/uksi/2007/1493), [art. 2(g)](https://www.legislation.gov.uk/uksi/2007/1493/article/2/g)
 
-[^key-49a6c472eba7d73136be49c3800a0811]: Commencement: [Sch. 6 para. 20(d)(e)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/20/d/e) in force at 15.7.2005 for specified purposes for W. by [S.I. 2005/1314](https://www.legislation.gov.uk/wsi/2005/1314), [art. 3(d)(vi)](https://www.legislation.gov.uk/wsi/2005/1314/article/3/d/vi)
+[^c-49a6c472eba7d73136be49c3800a0811]: Commencement: [Sch. 6 para. 20(d)(e)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/20/d/e) in force at 15.7.2005 for specified purposes for W. by [S.I. 2005/1314](https://www.legislation.gov.uk/wsi/2005/1314), [art. 3(d)(vi)](https://www.legislation.gov.uk/wsi/2005/1314/article/3/d/vi)
 
-[^key-9b98f887e0592039d281689054eee30e]: Commencement: Sch. 6 para. 20(a)-(c) in force at 31.5.2005 for W. by [S.I. 2005/1314](https://www.legislation.gov.uk/uksi/2005/1314), [art. 2(b)(vi)](https://www.legislation.gov.uk/uksi/2005/1314/article/2/b/vi)
+[^c-9b98f887e0592039d281689054eee30e]: Commencement: Sch. 6 para. 20(a)-(c) in force at 31.5.2005 for W. by [S.I. 2005/1314](https://www.legislation.gov.uk/uksi/2005/1314), [art. 2(b)(vi)](https://www.legislation.gov.uk/uksi/2005/1314/article/2/b/vi)
 
-[^key-c28827a874c5dc7f46346e8893140f35]: Commencement: Sch. 6 para. 20 in force at 12.2.2003 for E. by [S.I. 2003/272](https://www.legislation.gov.uk/uksi/2003/272), [art. 2(n)](https://www.legislation.gov.uk/uksi/2003/272/article/2/n)
+[^c-c28827a874c5dc7f46346e8893140f35]: Commencement: Sch. 6 para. 20 in force at 12.2.2003 for E. by [S.I. 2003/272](https://www.legislation.gov.uk/uksi/2003/272), [art. 2(n)](https://www.legislation.gov.uk/uksi/2003/272/article/2/n)
 
 [^c1057164]: Marginal citation: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69).
 
-[^key-d70363d67cf820d4cfd4e8ca6e996a31]: Commencement: [Sch. 6 para. 21](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/21) in force at 12.2.2003 for specified purposes for E. by [S.I. 2003/272](https://www.legislation.gov.uk/uksi/2003/272), [art. 2(o)](https://www.legislation.gov.uk/uksi/2003/272/article/2/o)
+[^c-d70363d67cf820d4cfd4e8ca6e996a31]: Commencement: [Sch. 6 para. 21](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/21) in force at 12.2.2003 for specified purposes for E. by [S.I. 2003/272](https://www.legislation.gov.uk/uksi/2003/272), [art. 2(o)](https://www.legislation.gov.uk/uksi/2003/272/article/2/o)
 
-[^key-3ba8bbde73867a4d33e73f097385bf7b]: Commencement: [Sch. 6 para. 21](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/21) in force at 15.7.2005 for specified purposes for W. by [S.I. 2005/1314](https://www.legislation.gov.uk/wsi/2005/1314), [art. 3(d)(vii)](https://www.legislation.gov.uk/wsi/2005/1314/article/3/d/vii)
+[^c-3ba8bbde73867a4d33e73f097385bf7b]: Commencement: [Sch. 6 para. 21](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/21) in force at 15.7.2005 for specified purposes for W. by [S.I. 2005/1314](https://www.legislation.gov.uk/wsi/2005/1314), [art. 3(d)(vii)](https://www.legislation.gov.uk/wsi/2005/1314/article/3/d/vii)
 
-[^key-9a2cfa0b6773dca54c1c9d037253437d]: Commencement: [Sch. 6 para. 21](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/21) in force at 21.5.2007 for E. in so far as not already in force by [S.I. 2007/1493](https://www.legislation.gov.uk/uksi/2007/1493), [art. 2(h)](https://www.legislation.gov.uk/uksi/2007/1493/article/2/h)
+[^c-9a2cfa0b6773dca54c1c9d037253437d]: Commencement: [Sch. 6 para. 21](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/21) in force at 21.5.2007 for E. in so far as not already in force by [S.I. 2007/1493](https://www.legislation.gov.uk/uksi/2007/1493), [art. 2(h)](https://www.legislation.gov.uk/uksi/2007/1493/article/2/h)
 
-[^key-957615e053feb81c7b3e525c71f071e4]: Commencement: Sch. 6 para. 23(1)-(4) (5)(b) (7)(8) (9) in force at 12.2.2003 for specified purposes for E. by [S.I. 2003/272](https://www.legislation.gov.uk/uksi/2003/272), [art. 2(p)](https://www.legislation.gov.uk/uksi/2003/272/article/2/p)
+[^c-957615e053feb81c7b3e525c71f071e4]: Commencement: Sch. 6 para. 23(1)-(4) (5)(b) (7)(8) (9) in force at 12.2.2003 for specified purposes for E. by [S.I. 2003/272](https://www.legislation.gov.uk/uksi/2003/272), [art. 2(p)](https://www.legislation.gov.uk/uksi/2003/272/article/2/p)
 
-[^key-33805c5dc27e5bad1eb2740579d5dd5e]: Commencement: [Sch. 6 para. 23(1)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/23/1) in force at 15.7.2005 for specified purposes for W. by [S.I. 2005/1314](https://www.legislation.gov.uk/wsi/2005/1314), [art. 3(d)(aa)](https://www.legislation.gov.uk/wsi/2005/1314/article/3/d/aa)[(viii)](https://www.legislation.gov.uk/wsi/2005/1314/article/3/d/viii)
+[^c-33805c5dc27e5bad1eb2740579d5dd5e]: Commencement: [Sch. 6 para. 23(1)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/23/1) in force at 15.7.2005 for specified purposes for W. by [S.I. 2005/1314](https://www.legislation.gov.uk/wsi/2005/1314), [art. 3(d)(aa)](https://www.legislation.gov.uk/wsi/2005/1314/article/3/d/aa)[(viii)](https://www.legislation.gov.uk/wsi/2005/1314/article/3/d/viii)
 
-[^key-ee32a4df2432b165760fda6ec5bc955c]: Commencement: [Sch. 6 para. 23(1)-(4)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/23/1) [(5)(b)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/23/5/b) [(8)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/23/8) [(9)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/23/9) in force at 21.5.2007 for E. in so far as not already in force by [S.I. 2007/1493](https://www.legislation.gov.uk/uksi/2007/1493), [art. 2(i)](https://www.legislation.gov.uk/uksi/2007/1493/article/2/i)
+[^c-ee32a4df2432b165760fda6ec5bc955c]: Commencement: [Sch. 6 para. 23(1)-(4)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/23/1) [(5)(b)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/23/5/b) [(8)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/23/8) [(9)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/23/9) in force at 21.5.2007 for E. in so far as not already in force by [S.I. 2007/1493](https://www.legislation.gov.uk/uksi/2007/1493), [art. 2(i)](https://www.legislation.gov.uk/uksi/2007/1493/article/2/i)
 
-[^key-e69d8c2e99e61b4bb739dfc09a70487a]: Commencement: [Sch. 6 para. 23(2)(a)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/23/2/a) in force at 15.7.2005 for specified purposes for W. by [S.I. 2005/1314](https://www.legislation.gov.uk/wsi/2005/1314), [art. 3(d)(bb)](https://www.legislation.gov.uk/wsi/2005/1314/article/3/d/bb)[(viii)](https://www.legislation.gov.uk/wsi/2005/1314/article/3/d/viii)
+[^c-e69d8c2e99e61b4bb739dfc09a70487a]: Commencement: [Sch. 6 para. 23(2)(a)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/23/2/a) in force at 15.7.2005 for specified purposes for W. by [S.I. 2005/1314](https://www.legislation.gov.uk/wsi/2005/1314), [art. 3(d)(bb)](https://www.legislation.gov.uk/wsi/2005/1314/article/3/d/bb)[(viii)](https://www.legislation.gov.uk/wsi/2005/1314/article/3/d/viii)
 
-[^key-36e17c9129bc7feab1f8bf97a287d74a]: Commencement: [Sch. 6 para. 23(2)(b)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/23/2/b) in force at 15.7.2005 for specified purposes for W. by [S.I. 2005/1314](https://www.legislation.gov.uk/wsi/2005/1314), [art. 3(d)(bb)](https://www.legislation.gov.uk/wsi/2005/1314/article/3/d/bb)[(viii)](https://www.legislation.gov.uk/wsi/2005/1314/article/3/d/viii)
+[^c-36e17c9129bc7feab1f8bf97a287d74a]: Commencement: [Sch. 6 para. 23(2)(b)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/23/2/b) in force at 15.7.2005 for specified purposes for W. by [S.I. 2005/1314](https://www.legislation.gov.uk/wsi/2005/1314), [art. 3(d)(bb)](https://www.legislation.gov.uk/wsi/2005/1314/article/3/d/bb)[(viii)](https://www.legislation.gov.uk/wsi/2005/1314/article/3/d/viii)
 
-[^key-20166c8e353d3af1efddcdb39fd965e6]: Commencement: [Sch. 6 para. 23(3)(a)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/23/3/a) in force at 15.7.2005 for specified purposes for W. by [S.I. 2005/1314](https://www.legislation.gov.uk/wsi/2005/1314), [art. 3(d)(cc)](https://www.legislation.gov.uk/wsi/2005/1314/article/3/d/cc)[(viii)](https://www.legislation.gov.uk/wsi/2005/1314/article/3/d/viii)
+[^c-20166c8e353d3af1efddcdb39fd965e6]: Commencement: [Sch. 6 para. 23(3)(a)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/23/3/a) in force at 15.7.2005 for specified purposes for W. by [S.I. 2005/1314](https://www.legislation.gov.uk/wsi/2005/1314), [art. 3(d)(cc)](https://www.legislation.gov.uk/wsi/2005/1314/article/3/d/cc)[(viii)](https://www.legislation.gov.uk/wsi/2005/1314/article/3/d/viii)
 
-[^key-c1a9140a91e521d6d755957ea0538c52]: Commencement: [Sch. 6 para. 23(3)(b)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/23/3/b) in force at 15.7.2005 for specified purposes for W. by [S.I. 2005/1314](https://www.legislation.gov.uk/wsi/2005/1314), [art. 3(d)(cc)](https://www.legislation.gov.uk/wsi/2005/1314/article/3/d/cc)[(viii)](https://www.legislation.gov.uk/wsi/2005/1314/article/3/d/viii)
+[^c-c1a9140a91e521d6d755957ea0538c52]: Commencement: [Sch. 6 para. 23(3)(b)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/23/3/b) in force at 15.7.2005 for specified purposes for W. by [S.I. 2005/1314](https://www.legislation.gov.uk/wsi/2005/1314), [art. 3(d)(cc)](https://www.legislation.gov.uk/wsi/2005/1314/article/3/d/cc)[(viii)](https://www.legislation.gov.uk/wsi/2005/1314/article/3/d/viii)
 
-[^key-c31196ff15bae85b2b849ca8558ee5c8]: Commencement: [Sch. 6 para. 23(4)(a)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/23/4/a) in force at 15.7.2005 for specified purposes for W. by [S.I. 2005/1314](https://www.legislation.gov.uk/wsi/2005/1314), [art. 3(d)(dd)](https://www.legislation.gov.uk/wsi/2005/1314/article/3/d/dd)[(viii)](https://www.legislation.gov.uk/wsi/2005/1314/article/3/d/viii)
+[^c-c31196ff15bae85b2b849ca8558ee5c8]: Commencement: [Sch. 6 para. 23(4)(a)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/23/4/a) in force at 15.7.2005 for specified purposes for W. by [S.I. 2005/1314](https://www.legislation.gov.uk/wsi/2005/1314), [art. 3(d)(dd)](https://www.legislation.gov.uk/wsi/2005/1314/article/3/d/dd)[(viii)](https://www.legislation.gov.uk/wsi/2005/1314/article/3/d/viii)
 
-[^key-44744b47d5e5d252deeb2a0db88d4353]: Commencement: [Sch. 6 para. 23(4)(b)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/23/4/b) in force at 15.7.2005 for specified purposes for W. by [S.I. 2005/1314](https://www.legislation.gov.uk/wsi/2005/1314), [art. 3(d)(dd)](https://www.legislation.gov.uk/wsi/2005/1314/article/3/d/dd)[(viii)](https://www.legislation.gov.uk/wsi/2005/1314/article/3/d/viii)
+[^c-44744b47d5e5d252deeb2a0db88d4353]: Commencement: [Sch. 6 para. 23(4)(b)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/23/4/b) in force at 15.7.2005 for specified purposes for W. by [S.I. 2005/1314](https://www.legislation.gov.uk/wsi/2005/1314), [art. 3(d)(dd)](https://www.legislation.gov.uk/wsi/2005/1314/article/3/d/dd)[(viii)](https://www.legislation.gov.uk/wsi/2005/1314/article/3/d/viii)
 
-[^key-f98b574d4deaea3a2df17efc9167a4a2]: Commencement: [Sch. 6 para. 23(5)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/23/5) in force at 15.7.2005 for specified purposes for W. by [S.I. 2005/1314](https://www.legislation.gov.uk/wsi/2005/1314), [art. 3(d)(ee)](https://www.legislation.gov.uk/wsi/2005/1314/article/3/d/ee)[(viii)](https://www.legislation.gov.uk/wsi/2005/1314/article/3/d/viii)
+[^c-f98b574d4deaea3a2df17efc9167a4a2]: Commencement: [Sch. 6 para. 23(5)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/23/5) in force at 15.7.2005 for specified purposes for W. by [S.I. 2005/1314](https://www.legislation.gov.uk/wsi/2005/1314), [art. 3(d)(ee)](https://www.legislation.gov.uk/wsi/2005/1314/article/3/d/ee)[(viii)](https://www.legislation.gov.uk/wsi/2005/1314/article/3/d/viii)
 
-[^key-33e29b9a407c54a265dca69d40b47411]: Commencement: Sch. 6 para. 23(7) in force at 12.2.2003 for specified purposes for E. by [S.I. 2003/272](https://www.legislation.gov.uk/uksi/2003/272), [art. 2(p)](https://www.legislation.gov.uk/uksi/2003/272/article/2/p)
+[^c-33e29b9a407c54a265dca69d40b47411]: Commencement: Sch. 6 para. 23(7) in force at 12.2.2003 for specified purposes for E. by [S.I. 2003/272](https://www.legislation.gov.uk/uksi/2003/272), [art. 2(p)](https://www.legislation.gov.uk/uksi/2003/272/article/2/p)
 
-[^key-f58ce5c26c2799de1cfcd9730060a24c]: Commencement: [Sch. 6 para. 23(7)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/23/7) in force at 15.7.2005 for specified purposes for W. by [S.I. 2005/1314](https://www.legislation.gov.uk/wsi/2005/1314), [art. 3(d)(ff)](https://www.legislation.gov.uk/wsi/2005/1314/article/3/d/ff)[(viii)](https://www.legislation.gov.uk/wsi/2005/1314/article/3/d/viii)
+[^c-f58ce5c26c2799de1cfcd9730060a24c]: Commencement: [Sch. 6 para. 23(7)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/23/7) in force at 15.7.2005 for specified purposes for W. by [S.I. 2005/1314](https://www.legislation.gov.uk/wsi/2005/1314), [art. 3(d)(ff)](https://www.legislation.gov.uk/wsi/2005/1314/article/3/d/ff)[(viii)](https://www.legislation.gov.uk/wsi/2005/1314/article/3/d/viii)
 
-[^key-469da7322aff2eb1c5af6dbf6717f93b]: Commencement: [Sch. 6 para. 23(7)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/23/7) in force at 21.5.2007 for specified purposes for E. by [S.I. 2007/1493](https://www.legislation.gov.uk/uksi/2007/1493), [art. 2(i)](https://www.legislation.gov.uk/uksi/2007/1493/article/2/i)
+[^c-469da7322aff2eb1c5af6dbf6717f93b]: Commencement: [Sch. 6 para. 23(7)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/23/7) in force at 21.5.2007 for specified purposes for E. by [S.I. 2007/1493](https://www.legislation.gov.uk/uksi/2007/1493), [art. 2(i)](https://www.legislation.gov.uk/uksi/2007/1493/article/2/i)
 
-[^key-ff3b6a90260597489603ddf8ee16f9c9]: Commencement: [Sch. 6 para. 23(8)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/23/8) in force at 15.7.2005 for specified purposes for W. by [S.I. 2005/1314](https://www.legislation.gov.uk/wsi/2005/1314), [art. 3(d)(gg)](https://www.legislation.gov.uk/wsi/2005/1314/article/3/d/gg)[(viii)](https://www.legislation.gov.uk/wsi/2005/1314/article/3/d/viii)
+[^c-ff3b6a90260597489603ddf8ee16f9c9]: Commencement: [Sch. 6 para. 23(8)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/23/8) in force at 15.7.2005 for specified purposes for W. by [S.I. 2005/1314](https://www.legislation.gov.uk/wsi/2005/1314), [art. 3(d)(gg)](https://www.legislation.gov.uk/wsi/2005/1314/article/3/d/gg)[(viii)](https://www.legislation.gov.uk/wsi/2005/1314/article/3/d/viii)
 
-[^key-fe32c23a10a99d4bfce8c8179971890c]: Commencement: [Sch. 6 para. 23(8)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/23/8) in force at 11.5.2006 for W. in so far as not already in force by [S.I. 2006/1279](https://www.legislation.gov.uk/wsi/2006/1279), [art. 2(n)](https://www.legislation.gov.uk/wsi/2006/1279/article/2/n)
+[^c-fe32c23a10a99d4bfce8c8179971890c]: Commencement: [Sch. 6 para. 23(8)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/23/8) in force at 11.5.2006 for W. in so far as not already in force by [S.I. 2006/1279](https://www.legislation.gov.uk/wsi/2006/1279), [art. 2(n)](https://www.legislation.gov.uk/wsi/2006/1279/article/2/n)
 
 [^c1057165]: Marginal citation: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
 
 [^c1057166]: Marginal citation: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8).
 
-[^key-412ab19a7762cea749338645836d87d1]: Commencement: [Sch. 6 para. 23(9)(a)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/23/9/a) in force at 15.7.2005 for specified purposes for W. by [S.I. 2005/1314](https://www.legislation.gov.uk/wsi/2005/1314), [art. 3(d)(hh)](https://www.legislation.gov.uk/wsi/2005/1314/article/3/d/hh)[(viii)](https://www.legislation.gov.uk/wsi/2005/1314/article/3/d/viii)
+[^c-412ab19a7762cea749338645836d87d1]: Commencement: [Sch. 6 para. 23(9)(a)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/23/9/a) in force at 15.7.2005 for specified purposes for W. by [S.I. 2005/1314](https://www.legislation.gov.uk/wsi/2005/1314), [art. 3(d)(hh)](https://www.legislation.gov.uk/wsi/2005/1314/article/3/d/hh)[(viii)](https://www.legislation.gov.uk/wsi/2005/1314/article/3/d/viii)
 
-[^key-80e6a526e99df913a44b152e58b93c47]: Commencement: [Sch. 6 para. 23(9)(b)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/23/9/b) in force at 15.7.2005 for specified purposes for W. by [S.I. 2005/1314](https://www.legislation.gov.uk/wsi/2005/1314), [art. 3(d)(hh)](https://www.legislation.gov.uk/wsi/2005/1314/article/3/d/hh)[(viii)](https://www.legislation.gov.uk/wsi/2005/1314/article/3/d/viii)
+[^c-80e6a526e99df913a44b152e58b93c47]: Commencement: [Sch. 6 para. 23(9)(b)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/23/9/b) in force at 15.7.2005 for specified purposes for W. by [S.I. 2005/1314](https://www.legislation.gov.uk/wsi/2005/1314), [art. 3(d)(hh)](https://www.legislation.gov.uk/wsi/2005/1314/article/3/d/hh)[(viii)](https://www.legislation.gov.uk/wsi/2005/1314/article/3/d/viii)
 
-[^key-b8658f43dafb4e049884cedfbb387538]: Commencement: [Sch. 6 para. 24](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/24) in force at 12.2.2003 for specified purposes for E. by [S.I. 2003/272](https://www.legislation.gov.uk/uksi/2003/272), [art. 2(q)](https://www.legislation.gov.uk/uksi/2003/272/article/2/q)
+[^c-b8658f43dafb4e049884cedfbb387538]: Commencement: [Sch. 6 para. 24](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/24) in force at 12.2.2003 for specified purposes for E. by [S.I. 2003/272](https://www.legislation.gov.uk/uksi/2003/272), [art. 2(q)](https://www.legislation.gov.uk/uksi/2003/272/article/2/q)
 
-[^key-fd6a619a72efd960583697fc5f2e004f]: Commencement: [Sch. 6 para. 24](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/24) in force at 31.5.2005 for W. by [S.I. 2005/1314](https://www.legislation.gov.uk/wsi/2005/1314), [art. 2(b)(vii)](https://www.legislation.gov.uk/wsi/2005/1314/article/2/b/vii)
+[^c-fd6a619a72efd960583697fc5f2e004f]: Commencement: [Sch. 6 para. 24](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/24) in force at 31.5.2005 for W. by [S.I. 2005/1314](https://www.legislation.gov.uk/wsi/2005/1314), [art. 2(b)(vii)](https://www.legislation.gov.uk/wsi/2005/1314/article/2/b/vii)
 
-[^key-556d34dd67d35f3f493aa8a608efacde]: Commencement: [Sch. 6 para. 24](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/24) in force at 21.5.2007 for specified purposes for E. by [S.I. 2007/1493](https://www.legislation.gov.uk/uksi/2007/1493), [art. 2(j)](https://www.legislation.gov.uk/uksi/2007/1493/article/2/j)
+[^c-556d34dd67d35f3f493aa8a608efacde]: Commencement: [Sch. 6 para. 24](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/24) in force at 21.5.2007 for specified purposes for E. by [S.I. 2007/1493](https://www.legislation.gov.uk/uksi/2007/1493), [art. 2(j)](https://www.legislation.gov.uk/uksi/2007/1493/article/2/j)
 
 [^c1057167]: Marginal citation: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
 
-[^key-5922687aa0e8c00a7edb6ead351afdfa]: Commencement: [Sch. 6 para. 25](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/25) in force at 12.2.2003 for E. by [S.I. 2003/272](https://www.legislation.gov.uk/uksi/2003/272), [art. 2(r)](https://www.legislation.gov.uk/uksi/2003/272/article/2/r)
+[^c-5922687aa0e8c00a7edb6ead351afdfa]: Commencement: [Sch. 6 para. 25](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/25) in force at 12.2.2003 for E. by [S.I. 2003/272](https://www.legislation.gov.uk/uksi/2003/272), [art. 2(r)](https://www.legislation.gov.uk/uksi/2003/272/article/2/r)
 
-[^key-48b7d4745b6a5a3d7eafb78fde628e56]: Commencement: [Sch. 6 para. 26](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/26) in force at 12.2.2003 for E. by [S.I. 2003/272](https://www.legislation.gov.uk/uksi/2003/272), [art. 2(s)](https://www.legislation.gov.uk/uksi/2003/272/article/2/s)
+[^c-48b7d4745b6a5a3d7eafb78fde628e56]: Commencement: [Sch. 6 para. 26](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/26) in force at 12.2.2003 for E. by [S.I. 2003/272](https://www.legislation.gov.uk/uksi/2003/272), [art. 2(s)](https://www.legislation.gov.uk/uksi/2003/272/article/2/s)
 
-[^key-d31c1e736a1eb2962ee58f608c2f82e6]: Commencement: [Sch. 6 para. 26](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/26) in force at 6.12.2006 for W. by [S.I. 2006/3257](https://www.legislation.gov.uk/wsi/2006/3257), [art. 2(a)(ii)](https://www.legislation.gov.uk/wsi/2006/3257/article/2/a/ii)
+[^c-d31c1e736a1eb2962ee58f608c2f82e6]: Commencement: [Sch. 6 para. 26](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/26) in force at 6.12.2006 for W. by [S.I. 2006/3257](https://www.legislation.gov.uk/wsi/2006/3257), [art. 2(a)(ii)](https://www.legislation.gov.uk/wsi/2006/3257/article/2/a/ii)

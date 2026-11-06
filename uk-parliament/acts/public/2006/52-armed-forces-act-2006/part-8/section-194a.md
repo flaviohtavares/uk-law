@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 194A. Extended powers of activation: time for obtaining[^key-cff6733fa6259f31b591cb6f557974db]
+## 194A. Extended powers of activation: time for obtaining[^c-cff6733fa6259f31b591cb6f557974db]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ is to be treated for the purposes of section 194(4) as made within the relevant 
 
 ## Annotations
 
-[^key-cff6733fa6259f31b591cb6f557974db]: Textual amendment: S. 194A inserted (2.4.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [s. 32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3), [Sch. 3 para. 16](https://www.legislation.gov.uk/ukpga/2011/18/schedule/3/paragraph/16); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/669/article/4/d)
+[^c-cff6733fa6259f31b591cb6f557974db]: Textual amendment: S. 194A inserted (2.4.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [s. 32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3), [Sch. 3 para. 16](https://www.legislation.gov.uk/ukpga/2011/18/schedule/3/paragraph/16); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/669/article/4/d)

@@ -24,12 +24,12 @@ summary: ''
 
 (2) Where—
 
-- (a) there is a discharge or escape of oil from a ship to which section 153 applies, or a discharge or escape of oil falling within section 154(1), which[^key-eaf59f537d21dc4e7e861233a34425b9] does not result in any damage caused by contamination in the territory of the United Kingdom and no measures are reasonably taken to prevent or minimise such damage in that territory, or
-- (b) any relevant threat of contamination falling within section 153(2) or 154(2)[^key-9bd46f0a9b8866bd9621f7431561863c] arises but no measures are reasonably taken to prevent or minimise such damage in the territory of the United Kingdom,
+- (a) there is a discharge or escape of oil from a ship to which section 153 applies, or a discharge or escape of oil falling within section 154(1), which[^c-eaf59f537d21dc4e7e861233a34425b9] does not result in any damage caused by contamination in the territory of the United Kingdom and no measures are reasonably taken to prevent or minimise such damage in that territory, or
+- (b) any relevant threat of contamination falling within section 153(2) or 154(2)[^c-9bd46f0a9b8866bd9621f7431561863c] arises but no measures are reasonably taken to prevent or minimise such damage in the territory of the United Kingdom,
 
 no court in the United Kingdom shall entertain any action (whether in rem or in personam) to enforce a claim arising from any relevant damage or cost—
 
-- (i) against the registered owner[^key-c62e634b123e8e3c7fc23f9811bd3886] of the ship, or
+- (i) against the registered owner[^c-c62e634b123e8e3c7fc23f9811bd3886] of the ship, or
 - (ii) against any person to whom section 156(1)(ii) applies, unless any such damage or cost resulted from anything done or omitted to be done as mentioned in that provision.
 
 (3) In subsection (2) above, “**relevant damage or cost**” means—
@@ -40,7 +40,7 @@ no court in the United Kingdom shall entertain any action (whether in rem or in 
 
 and section 156(2)(e) shall have effect for the purposes of subsection (2)(ii) above as if it referred to any person taking any such measures as are mentioned in paragraph (a) or (b) above.
 
-(3A)[^key-f5fb0ef14caf2779bb79c00df84877fd] Where—
+(3A)[^c-f5fb0ef14caf2779bb79c00df84877fd] Where—
 
 - (a) there is a discharge or escape of bunker oil falling within section 153A(1) which does not result in any damage caused by contamination in the territory of the United Kingdom and no measures are reasonably taken to prevent or minimise such damage in that territory, or
 - (b) any relevant threat of contamination falling within section 153A(2) arises but no measures are reasonably taken to prevent or minimise such damage in the territory of the United Kingdom,
@@ -58,7 +58,7 @@ no court in the United Kingdom shall entertain any action (whether in rem or in 
 
 and section 156(2B)(d) shall have effect for the purpose of subsection (3A)(ii) above as if it referred to any person taking any such measures as are mentioned in paragraph (a) or (b) above.
 
-(4)[^key-9b0e47440d896e80b86f5c7545be3670] Part I of the Foreign Judgments (Reciprocal Enforcement) Act 1933 shall apply, whether or not it would so apply apart from this section, to—
+(4)[^c-9b0e47440d896e80b86f5c7545be3670] Part I of the Foreign Judgments (Reciprocal Enforcement) Act 1933 shall apply, whether or not it would so apply apart from this section, to—
 
 - (a) any judgment given by a court in a Liability Convention country to enforce a claim in respect of a liability incurred under any provision corresponding to section 153; and
 - (b) any judgment given by a court in a Bunkers Convention country to enforce a claim in respect of a liability incurred under any provision corresponding to section 153A;
@@ -99,12 +99,12 @@ and in its application to any such judgment that Part shall have effect with the
 
 [^c14527301]: Marginal citation: [1956 c. 46](https://www.legislation.gov.uk/ukpga/1956/46).
 
-[^key-eaf59f537d21dc4e7e861233a34425b9]: Textual amendment: Words in [s. 166(2)(a)](https://www.legislation.gov.uk/ukpga/1995/21/section/166/2/a) substituted (21.11.2008) by [The Merchant Shipping (Oil Pollution) (Bunkers Convention) Regulations 2006 (S.I. 2006/1244)](https://www.legislation.gov.uk/uksi/2006/1244), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/2), [20(2)(a)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/20/2/a) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/5))
+[^c-eaf59f537d21dc4e7e861233a34425b9]: Textual amendment: Words in [s. 166(2)(a)](https://www.legislation.gov.uk/ukpga/1995/21/section/166/2/a) substituted (21.11.2008) by [The Merchant Shipping (Oil Pollution) (Bunkers Convention) Regulations 2006 (S.I. 2006/1244)](https://www.legislation.gov.uk/uksi/2006/1244), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/2), [20(2)(a)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/20/2/a) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/5))
 
-[^key-9bd46f0a9b8866bd9621f7431561863c]: Textual amendment: Words in [s. 166(2)(b)](https://www.legislation.gov.uk/ukpga/1995/21/section/166/2/b) inserted (21.11.2008) by [The Merchant Shipping (Oil Pollution) (Bunkers Convention) Regulations 2006 (S.I. 2006/1244)](https://www.legislation.gov.uk/uksi/2006/1244), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/2), [20(2)(b)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/20/2/b) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/5))
+[^c-9bd46f0a9b8866bd9621f7431561863c]: Textual amendment: Words in [s. 166(2)(b)](https://www.legislation.gov.uk/ukpga/1995/21/section/166/2/b) inserted (21.11.2008) by [The Merchant Shipping (Oil Pollution) (Bunkers Convention) Regulations 2006 (S.I. 2006/1244)](https://www.legislation.gov.uk/uksi/2006/1244), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/2), [20(2)(b)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/20/2/b) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/5))
 
-[^key-c62e634b123e8e3c7fc23f9811bd3886]: Textual amendment: Words in [s. 166(2)(i)](https://www.legislation.gov.uk/ukpga/1995/21/section/166/2/i) substituted (21.11.2008) by [The Merchant Shipping (Oil Pollution) (Bunkers Convention) Regulations 2006 (S.I. 2006/1244)](https://www.legislation.gov.uk/uksi/2006/1244), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/2), [20(2)(c)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/20/2/c) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/5))
+[^c-c62e634b123e8e3c7fc23f9811bd3886]: Textual amendment: Words in [s. 166(2)(i)](https://www.legislation.gov.uk/ukpga/1995/21/section/166/2/i) substituted (21.11.2008) by [The Merchant Shipping (Oil Pollution) (Bunkers Convention) Regulations 2006 (S.I. 2006/1244)](https://www.legislation.gov.uk/uksi/2006/1244), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/2), [20(2)(c)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/20/2/c) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/5))
 
-[^key-f5fb0ef14caf2779bb79c00df84877fd]: Textual amendment: [S. 166(3A)](https://www.legislation.gov.uk/ukpga/1995/21/section/166/3A)[(3B)](https://www.legislation.gov.uk/ukpga/1995/21/section/166/3B) inserted (21.11.2008) by [The Merchant Shipping (Oil Pollution) (Bunkers Convention) Regulations 2006 (S.I. 2006/1244)](https://www.legislation.gov.uk/uksi/2006/1244), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/2), [20(3)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/20/3) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/5))
+[^c-f5fb0ef14caf2779bb79c00df84877fd]: Textual amendment: [S. 166(3A)](https://www.legislation.gov.uk/ukpga/1995/21/section/166/3A)[(3B)](https://www.legislation.gov.uk/ukpga/1995/21/section/166/3B) inserted (21.11.2008) by [The Merchant Shipping (Oil Pollution) (Bunkers Convention) Regulations 2006 (S.I. 2006/1244)](https://www.legislation.gov.uk/uksi/2006/1244), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/2), [20(3)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/20/3) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/5))
 
-[^key-9b0e47440d896e80b86f5c7545be3670]: Textual amendment: [S. 166(4)](https://www.legislation.gov.uk/ukpga/1995/21/section/166/4) substituted (21.11.2008) by [The Merchant Shipping (Oil Pollution) (Bunkers Convention) Regulations 2006 (S.I. 2006/1244)](https://www.legislation.gov.uk/uksi/2006/1244), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/2), [20(4)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/20/4) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/5))
+[^c-9b0e47440d896e80b86f5c7545be3670]: Textual amendment: [S. 166(4)](https://www.legislation.gov.uk/ukpga/1995/21/section/166/4) substituted (21.11.2008) by [The Merchant Shipping (Oil Pollution) (Bunkers Convention) Regulations 2006 (S.I. 2006/1244)](https://www.legislation.gov.uk/uksi/2006/1244), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/2), [20(4)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/20/4) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/5))

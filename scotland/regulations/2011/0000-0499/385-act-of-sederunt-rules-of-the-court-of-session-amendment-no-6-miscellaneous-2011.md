@@ -43,7 +43,7 @@ Coming into force in accordance with paragraph 1(1) and (2)
 
 The Lords of Council and Session, under and by virtue of the powers conferred by section 5 of the Court of Session Act 1988[^f00001] and of all other powers enabling them in that behalf, do hereby enact and declare:
 
-## 1. Citation, commencement etc.[^key-b8e44fc02a87ed0f1aa2f5024c8db73a]
+## 1. Citation, commencement etc.[^c-b8e44fc02a87ed0f1aa2f5024c8db73a]
 
 (1) This Act of Sederunt may be cited as the Act of Sederunt (Rules of the Court of Session Amendment No. 6) (Miscellaneous) 2011 and, subject to subparagraph (2), comes into force on 28th November 2011.
 
@@ -53,7 +53,7 @@ The Lords of Council and Session, under and by virtue of the powers conferred by
 
 (4) In this Act of Sederunt, “the Rules” means the Rules of the Court of Session 1994[^f00002].
 
-## 2. Election petitions[^key-f78ebd249df6ec66d273336e0917d6e9]
+## 2. Election petitions[^c-f78ebd249df6ec66d273336e0917d6e9]
 
 (1) The Rules are amended in accordance with the following subparagraphs.
 
@@ -110,7 +110,7 @@ The Lords of Council and Session, under and by virtue of the powers conferred by
 - (c) in Form 69.4, after “section 136 of the Representation of the People Act 1983” insert “\[*or* regulation 94 of the European Parliamentary Elections Regulations 2004\]”; and
 - (d) for Form 69.5 (form of notice of the presentation of an election petition and of the nature of the proposed security) substitute the Form set out in Schedule 2 to this Act of Sederunt.
 
-## 3. Investment Bank Special Administration procedure[^key-0e8f922e3ad1f780c5d1e7a484e09c3a][^key-0e8f922e3ad1f780c5d1e7a484e09c3a]
+## 3. Investment Bank Special Administration procedure[^c-0e8f922e3ad1f780c5d1e7a484e09c3a][^c-0e8f922e3ad1f780c5d1e7a484e09c3a]
 
 (1) The Rules are amended in accordance with the following subparagraphs.
 
@@ -261,7 +261,7 @@ The Lords of Council and Session, under and by virtue of the powers conferred by
 
 .
 
-## 4. Reporting restrictions[^key-ddb7b367dc8eab1ab00f748599abb28e]
+## 4. Reporting restrictions[^c-ddb7b367dc8eab1ab00f748599abb28e]
 
 (1) The Rules are amended in accordance with the following subparagraph.
 
@@ -302,7 +302,7 @@ The Lords of Council and Session, under and by virtue of the powers conferred by
 
 .
 
-## 5. Forced marriage[^key-827012b9bc0137ebdfa50020ceda5162]
+## 5. Forced marriage[^c-827012b9bc0137ebdfa50020ceda5162]
 
 (1) The Rules are amended in accordance with the following subparagraph.
 
@@ -338,7 +338,7 @@ The Lords of Council and Session, under and by virtue of the powers conferred by
 
 .
 
-## 6. References to appeals under statute[^key-9d721b42c90118d1ea3ba48102c7e311]
+## 6. References to appeals under statute[^c-9d721b42c90118d1ea3ba48102c7e311]
 
 (1) The Rules are amended in accordance with the following subparagraphs.
 
@@ -363,7 +363,7 @@ The Lords of Council and Session, under and by virtue of the powers conferred by
 
 (5) In rule 100.8 (appeals against arbitral awards on ground of legal error)[^f00023], for “41.3A” substitute “41.5”.
 
-(6)[^key-09b775f01512103fcc934b18a8ac3d24] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-09b775f01512103fcc934b18a8ac3d24] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) This paragraph does not apply in relation to an appeal under Chapter 41 where the appeal was lodged before 27th September 2011; and the Rules as they applied immediately before that date continue to have effect for such purposes.
 
@@ -377,11 +377,11 @@ Edinburgh
 
 2nd November 2011
 
-## SCHEDULE 1[^key-c7d8a7c72b7efed9483cf3bcb947bb02]
+## SCHEDULE 1[^c-c7d8a7c72b7efed9483cf3bcb947bb02]
 
 Paragraph 2(12)(a)
 
-## SCHEDULE 2[^key-3eb331d269b5348a09039ae82b99158c]
+## SCHEDULE 2[^c-3eb331d269b5348a09039ae82b99158c]
 
 Paragraph 2(12)(d)
 
@@ -405,11 +405,11 @@ Paragraph 6 makes amendments to certain rules which refer to provisions in Chapt
 
 [^f00001]: Footnote: [1988 c.36](https://www.legislation.gov.uk/ukpga/1988/36); section 5 was amended by the Civil Evidence (Scotland) Act [1988 (c.32)](https://www.legislation.gov.uk/ukpga/1988/32), section 2(3); the Law Reform (Miscellaneous Provisions) (Scotland) Act [1990 (c.40)](https://www.legislation.gov.uk/ukpga/1990/40), Schedule 9; the Children (Scotland) Act [1995 (c.36)](https://www.legislation.gov.uk/ukpga/1995/36), Schedule 4, paragraph 45; the [Vulnerable Witnesses (Scotland) Act 2004 (asp 3)](https://www.legislation.gov.uk/asp/2004/3), section 14(1); and the [Judiciary and Courts (Scotland) Act 2008, (asp 6)](https://www.legislation.gov.uk/asp/2008/6), section 46(3).
 
-[^key-b8e44fc02a87ed0f1aa2f5024c8db73a]: Commencement: Para. 1 in force at 28.11.2011, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2011/385/paragraph/1/1)
+[^c-b8e44fc02a87ed0f1aa2f5024c8db73a]: Commencement: Para. 1 in force at 28.11.2011, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2011/385/paragraph/1/1)
 
 [^f00002]: Footnote: [S.I. 1994/1443](https://www.legislation.gov.uk/uksi/1994/1443), last amended by [S.S.I. 2011/303](https://www.legislation.gov.uk/ssi/2011/303).
 
-[^key-f78ebd249df6ec66d273336e0917d6e9]: Commencement: Para. 2 in force at 28.11.2011, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2011/385/paragraph/1/1)
+[^c-f78ebd249df6ec66d273336e0917d6e9]: Commencement: Para. 2 in force at 28.11.2011, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2011/385/paragraph/1/1)
 
 [^f00003]: Footnote: Rule 69.1 was amended by [S.I. 1999/787](https://www.legislation.gov.uk/uksi/1999/787), [2007/937](https://www.legislation.gov.uk/uksi/2007/937) and [2010/2999](https://www.legislation.gov.uk/uksi/2010/2999).
 
@@ -425,7 +425,7 @@ Paragraph 6 makes amendments to certain rules which refer to provisions in Chapt
 
 [^f00009]: Footnote: Rule 69.19 was amended by [S.I. 1999/787](https://www.legislation.gov.uk/uksi/1999/787) and [1999/1386](https://www.legislation.gov.uk/uksi/1999/1386).
 
-[^key-0e8f922e3ad1f780c5d1e7a484e09c3a]: Commencement: Para. 3 in force at 14.11.2011, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2011/385/paragraph/1/2)
+[^c-0e8f922e3ad1f780c5d1e7a484e09c3a]: Commencement: Para. 3 in force at 14.11.2011, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2011/385/paragraph/1/2)
 
 [^f00010]: Footnote: [S.I. 2011/245](https://www.legislation.gov.uk/uksi/2011/245).
 
@@ -439,19 +439,19 @@ Paragraph 6 makes amendments to certain rules which refer to provisions in Chapt
 
 [^f00015]: Footnote: [1985 c.66](https://www.legislation.gov.uk/ukpga/1985/66).
 
-[^key-ddb7b367dc8eab1ab00f748599abb28e]: Commencement: Para. 4 in force at 28.11.2011, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2011/385/paragraph/1/1)
+[^c-ddb7b367dc8eab1ab00f748599abb28e]: Commencement: Para. 4 in force at 28.11.2011, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2011/385/paragraph/1/1)
 
 [^f00016]: Footnote: Chapter 101 was inserted by [S.S.I. 2010/459](https://www.legislation.gov.uk/ssi/2010/459).
 
 [^f00017]: Footnote: [1981 c.49](https://www.legislation.gov.uk/ukpga/1981/49).
 
-[^key-827012b9bc0137ebdfa50020ceda5162]: Commencement: Para. 5 in force at 28.11.2011, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2011/385/paragraph/1/1)
+[^c-827012b9bc0137ebdfa50020ceda5162]: Commencement: Para. 5 in force at 28.11.2011, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2011/385/paragraph/1/1)
 
 [^f00018]: Footnote: Chapter 102 is inserted by paragraph 4 of this Act of Sederunt.
 
 [^f00019]: Footnote: [2011 asp 15](https://www.legislation.gov.uk/asp/2011/15).
 
-[^key-9d721b42c90118d1ea3ba48102c7e311]: Commencement: Para. 6 in force at 28.11.2011, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2011/385/paragraph/1/1)
+[^c-9d721b42c90118d1ea3ba48102c7e311]: Commencement: Para. 6 in force at 28.11.2011, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2011/385/paragraph/1/1)
 
 [^f00020]: Footnote: Rule 55.14 was amended by [S.I. 1994/2901](https://www.legislation.gov.uk/uksi/1994/2901) and [1999/1785](https://www.legislation.gov.uk/uksi/1999/1785).
 
@@ -461,8 +461,8 @@ Paragraph 6 makes amendments to certain rules which refer to provisions in Chapt
 
 [^f00023]: Footnote: Rule 100.8 was inserted by [S.S.I. 2010/205](https://www.legislation.gov.uk/ssi/2010/205).
 
-[^key-09b775f01512103fcc934b18a8ac3d24]: Textual amendment: [Para. 6(6)](https://www.legislation.gov.uk/ssi/2011/385/paragraph/6/6) revoked (29.3.2019) by [Act of Sederunt (Rules of the Court of Session 1994 Amendment) (Sanctions and Anti-Money Laundering) 2019 (S.S.I. 2019/72)](https://www.legislation.gov.uk/ssi/2019/72), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/72/paragraph/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2019/72/paragraph/3/2) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/72/paragraph/4))
+[^c-09b775f01512103fcc934b18a8ac3d24]: Textual amendment: [Para. 6(6)](https://www.legislation.gov.uk/ssi/2011/385/paragraph/6/6) revoked (29.3.2019) by [Act of Sederunt (Rules of the Court of Session 1994 Amendment) (Sanctions and Anti-Money Laundering) 2019 (S.S.I. 2019/72)](https://www.legislation.gov.uk/ssi/2019/72), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/72/paragraph/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2019/72/paragraph/3/2) (with [para. 4](https://www.legislation.gov.uk/ssi/2019/72/paragraph/4))
 
-[^key-c7d8a7c72b7efed9483cf3bcb947bb02]: Commencement: Sch. 1 in force at 28.11.2011, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2011/385/paragraph/1/1)
+[^c-c7d8a7c72b7efed9483cf3bcb947bb02]: Commencement: Sch. 1 in force at 28.11.2011, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2011/385/paragraph/1/1)
 
-[^key-3eb331d269b5348a09039ae82b99158c]: Commencement: Sch. 2 in force at 28.11.2011, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2011/385/paragraph/1/1)
+[^c-3eb331d269b5348a09039ae82b99158c]: Commencement: Sch. 2 in force at 28.11.2011, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2011/385/paragraph/1/1)

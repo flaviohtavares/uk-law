@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Application of finances[^key-27423f3b433d6400c98694f1d63687a1]
+## 14. Application of finances[^c-27423f3b433d6400c98694f1d63687a1]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ The Council must apply the harbours revenue in the manner following and not othe
 
 ## Annotations
 
-[^key-27423f3b433d6400c98694f1d63687a1]: Commencement: Art. 14 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
+[^c-27423f3b433d6400c98694f1d63687a1]: Commencement: Art. 14 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)

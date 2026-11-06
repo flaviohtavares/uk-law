@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Agreements with highway authorities[^key-112b9409f60ebf3f952916a2f98af036]
+## 21. Agreements with highway authorities[^c-112b9409f60ebf3f952916a2f98af036]
 
 *Extent: E+W*
 
@@ -39,7 +39,7 @@ summary: ''
 
 ## Annotations
 
-[^key-112b9409f60ebf3f952916a2f98af036]: Commencement: Art. 21 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
+[^c-112b9409f60ebf3f952916a2f98af036]: Commencement: Art. 21 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
 
 [^f00061]: Footnote: Section 278 was substituted by section 23 of the New Roads and Street Works Act [1991 (c. 22)](https://www.legislation.gov.uk/ukpga/1991/22).
 

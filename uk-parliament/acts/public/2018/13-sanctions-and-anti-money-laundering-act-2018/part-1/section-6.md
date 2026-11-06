@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Aircraft sanctions[^key-40772fabd6b374efb3d25870e74e0fd6]
+## 6. Aircraft sanctions[^c-40772fabd6b374efb3d25870e74e0fd6]
 
 *Extent: E+W+S+N.I.*
 
@@ -87,4 +87,4 @@ summary: ''
 
 ## Annotations
 
-[^key-40772fabd6b374efb3d25870e74e0fd6]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2018/13/section/6) in force at 22.11.2018 by [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/a)
+[^c-40772fabd6b374efb3d25870e74e0fd6]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2018/13/section/6) in force at 22.11.2018 by [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/a)

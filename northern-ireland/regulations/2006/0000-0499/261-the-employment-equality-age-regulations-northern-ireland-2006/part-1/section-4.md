@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 4. Discrimination by way of victimisation[^key-12ee6df22d2cc299da68098d95f4f928]
+## 4. Discrimination by way of victimisation[^c-12ee6df22d2cc299da68098d95f4f928]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ or by reason that A knows that B intends to do any of those things, or suspects 
 
 ## Annotations
 
-[^key-12ee6df22d2cc299da68098d95f4f928]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2006/261/regulation/4) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-12ee6df22d2cc299da68098d95f4f928]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2006/261/regulation/4) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)

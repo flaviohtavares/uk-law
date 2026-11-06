@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 14. Visitor permits: young persons[^key-da08db5ea3350f995a1e0b8a03a2e0a7][^key-961f4bd4266c230d54e9b8c4013eb2fa]
+## 14. Visitor permits: young persons[^c-da08db5ea3350f995a1e0b8a03a2e0a7][^c-961f4bd4266c230d54e9b8c4013eb2fa]
 
 *Extent: S*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-da08db5ea3350f995a1e0b8a03a2e0a7]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2015/10/section/14) in force at 1.7.2016 for specified purposes by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 2](https://www.legislation.gov.uk/ssi/2016/130/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/130/schedule) (with [arts. 5](https://www.legislation.gov.uk/ssi/2016/130/article/5), [6](https://www.legislation.gov.uk/ssi/2016/130/article/6))
+[^c-da08db5ea3350f995a1e0b8a03a2e0a7]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2015/10/section/14) in force at 1.7.2016 for specified purposes by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 2](https://www.legislation.gov.uk/ssi/2016/130/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/130/schedule) (with [arts. 5](https://www.legislation.gov.uk/ssi/2016/130/article/5), [6](https://www.legislation.gov.uk/ssi/2016/130/article/6))
 
-[^key-961f4bd4266c230d54e9b8c4013eb2fa]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2015/10/section/14) in force at 31.12.2016 in so far as not already in force by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 3(a)](https://www.legislation.gov.uk/ssi/2016/130/article/3/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/130/article/4))
+[^c-961f4bd4266c230d54e9b8c4013eb2fa]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2015/10/section/14) in force at 31.12.2016 in so far as not already in force by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 3(a)](https://www.legislation.gov.uk/ssi/2016/130/article/3/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/130/article/4))

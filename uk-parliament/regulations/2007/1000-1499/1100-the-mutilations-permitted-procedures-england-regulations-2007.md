@@ -62,7 +62,7 @@ In these Regulations—
 
 - “the Act” means the Animal Welfare Act 2006;
 - “cattle” means all animals of the bovine species including bison and buffalo;
-- “conventionally reared meat chicken” means an animal of the species[^key-bf1648b9f1f0419f3f67b1f3efecc089] *Gallus gallus* that is kept for meat production, other than one—
+- “conventionally reared meat chicken” means an animal of the species[^c-bf1648b9f1f0419f3f67b1f3efecc089] *Gallus gallus* that is kept for meat production, other than one—
   - (a) that is on a holding with fewer than 500 such animals or with only breeding stocks of such animals;
   - (b) in relation to which the term “Extensive indoor (barn reared)”, “Free range”, “Traditional free range” or “Free range – total freedom” can be used within the meaning of point (b), (c), (d) or (e) of Annex V to Commission Regulation [(EC) No 543/2008](https://www.legislation.gov.uk/european/regulation/2008/0543) laying down detailed rules for the application of Regulation [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234) as regards the marketing standards for poultrymeat;
   - (c) that is organically reared in accordance with Council Regulation [(EC) No 834/2007](https://www.legislation.gov.uk/european/regulation/2007/0834) on organic production and labelling of organic products and repealing Regulation [(EEC) No 2092/91](https://www.legislation.gov.uk/european/regulation/1991/2092);
@@ -84,17 +84,17 @@ Section 5(1) and (2) of the Act does not apply to a procedure listed in Schedule
 
 - (a) in accordance with any relevant requirement in Schedules 2 to 9;
 - (b) in such a way as to minimise the pain and suffering it causes to the animal;
-- (c)[^key-ed8ac04cf78c6c66fa4c9a2df0bdca07] in hygienic conditions;
+- (c)[^c-ed8ac04cf78c6c66fa4c9a2df0bdca07] in hygienic conditions;
 - (d) in accordance with good practice; and
 - (e) in accordance with regulation 5, where applicable
 
 ## 4. Performance of prohibited procedures in an emergency
 
-(1) Section 5(1) and (2) of the Act does not apply where a prohibited procedure is carried out in an emergency for the purpose of saving the life or relieving the pain of the [^key-cd0d972d09e7b7cd1be1b32c76ad0217]... animal.
+(1) Section 5(1) and (2) of the Act does not apply where a prohibited procedure is carried out in an emergency for the purpose of saving the life or relieving the pain of the [^c-cd0d972d09e7b7cd1be1b32c76ad0217]... animal.
 
 (2) Any procedure carried out under paragraph (1) must be carried out in accordance with regulation 3, so far as this is practicable in all of the circumstances.
 
-## 5. Persons who may carry out permitted procedures[^key-c28abb4650abbdacfba90ee8bc86a415]
+## 5. Persons who may carry out permitted procedures[^c-c28abb4650abbdacfba90ee8bc86a415]
 
 (1) Any procedure permitted under regulation 3 to which the Veterinary Surgeons Act 1966[^f00003] or the Veterinary Surgeons (Exemptions) Order 1962 applies, with the exception of the procedures referred to in paragraph (2), may only be carried out by a person permitted to carry it out under that legislation.
 
@@ -149,7 +149,7 @@ Regulation 3
     - Tusk trimming.
 - **Birds**
   - Identification Procedures:
-    - Micro-chipping.[^key-bf4d0b9ed8321ca9a57e6ffbec703d1f]
+    - Micro-chipping.[^c-bf4d0b9ed8321ca9a57e6ffbec703d1f]
 
       Neck tagging.
 
@@ -181,7 +181,7 @@ Regulation 3
     - Tattooing.
     - Other methods of identification involving a mutilation required by law.
   - Procedures for the Control of Reproduction:
-    - Castration.[^key-4e3f21fe54a6403f91707af711de813f]
+    - Castration.[^c-4e3f21fe54a6403f91707af711de813f]
 
       Embryo collection or transfer by a surgical method.
 
@@ -206,7 +206,7 @@ Regulation 3
     - Tattooing.
     - Other methods of identification involving a mutilation required by law.
   - Procedures for the Control of Reproduction:
-    - Castration.[^key-3b5e348cf1c11a33cf2a86ec73c031e6]
+    - Castration.[^c-3b5e348cf1c11a33cf2a86ec73c031e6]
 
       Embryo collection or transfer by a surgical method.
 
@@ -355,9 +355,9 @@ Regulation 3
 
 When carried out on a bird, a procedure listed below must be carried out in accordance with the condition or conditions specified for that procedure.
 
-- A1. **All procedures in the section on birds in Schedule 1[^key-271ff0a835a76c9dde5ffe1fcdef7dad]**
+- A1. **All procedures in the section on birds in Schedule 1[^c-271ff0a835a76c9dde5ffe1fcdef7dad]**
 
-  None of the procedures listed in the section on birds in Schedule 1, apart from beak trimming (see paragraph 5), may be performed on–[^key-bb518a26ac6b32f765ae5217d536638a]
+  None of the procedures listed in the section on birds in Schedule 1, apart from beak trimming (see paragraph 5), may be performed on–[^c-bb518a26ac6b32f765ae5217d536638a]
 
   - (1) conventionally reared meat chickens; or
   - (2) a laying hen, or a chick that is intended to become a laying hen, which is kept on an establishment with 350 or more such birds.
@@ -403,7 +403,7 @@ When carried out on a bird, a procedure listed below must be carried out in acco
   The procedure may only be carried out as part of a conservation breeding programme.
 
   An anaesthetic must be administered.
-- 5. **Beak trimming of poultry[^key-930dd2a8d474839657d5850ed08a4e8c]**
+- 5. **Beak trimming of poultry[^c-930dd2a8d474839657d5850ed08a4e8c]**
   - (1) For all poultry, the beak trimming procedure must be performed using a suitable instrument.
   - (2) For all poultry, any subsequent haemorrhage from the beak must be arrested by cauterisation.
   - (3) For all poultry the procedure must be performed on–
@@ -453,7 +453,7 @@ When carried out on a sheep, a procedure listed below must be carried out in acc
   When the method used is the application of a rubber ring or other device to constrict the flow of blood to the scrotum, the procedure may only be carried out on an animal aged not more than 7 days.
 
   When any other method is used, an anaesthetic must be administered where the animal is aged 3 months or over.
-- 1A. **Embryo collection or transfer by a surgical method[^key-1eb1e4f74cef5b54a97a81e181757031]**
+- 1A. **Embryo collection or transfer by a surgical method[^c-1eb1e4f74cef5b54a97a81e181757031]**
 
   An anaesthetic must be administered.
 - 2. **Implantation of a subcutaneous contraceptive**
@@ -461,7 +461,7 @@ When carried out on a sheep, a procedure listed below must be carried out in acc
   The procedure may not be carried out on a farmed animal.
 
   The procedure may only be carried out as part of a conservation breeding programme.
-- 2A. **Laparoscopic insemination[^key-f06e9b908cb14ad81e4438e5739db146]**
+- 2A. **Laparoscopic insemination[^c-f06e9b908cb14ad81e4438e5739db146]**
 
   The procedure may only be carried out as part of a breed improvement programme.
 - 2B. **Ovum transplantation, including ovum collection, by a surgical method**
@@ -494,7 +494,7 @@ When carried out on a goat, a procedure listed below must be carried out in acco
   When the method used is the application of a rubber ring or other device to constrict the flow of blood to the scrotum, the procedure may only be carried out on an animal aged not more than 7 days.
 
   When any other method is used, an anaesthetic must be administered where the animal is aged 2 months or over.
-- 1A. **Embryo collection or transfer by a surgical method[^key-d860492486af5b78033388f758a85025]**
+- 1A. **Embryo collection or transfer by a surgical method[^c-d860492486af5b78033388f758a85025]**
 
   An anaesthetic must be administered.
 - 2. **Implantation of a subcutaneous contraceptive**
@@ -502,7 +502,7 @@ When carried out on a goat, a procedure listed below must be carried out in acco
   The procedure may not be carried out on a farmed animal.
 
   The procedure may only be carried out as part of a conservation breeding programme.
-- 2A. **Laparoscopic insemination[^key-05bef546df5dca98e586b25233191169]**
+- 2A. **Laparoscopic insemination[^c-05bef546df5dca98e586b25233191169]**
 
   The procedure may only be carried out as part of a breed improvement programme.
 
@@ -614,32 +614,32 @@ A regulatory impact assessment has been prepared and placed in the library of ea
 
 [^f00001]: Footnote: [2006 c.45](https://www.legislation.gov.uk/ukpga/2006/45). The appropriate national authority is defined in section 62(1) of the Act.
 
-[^key-bf1648b9f1f0419f3f67b1f3efecc089]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2007/1100/regulation/2) inserted (23.12.2010) by [Mutilations (Permitted Procedures) (England) (Amendment) Regulations 2010 (S.I. 2010/3034)](https://www.legislation.gov.uk/uksi/2010/3034), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2010/3034/regulation/1/b), [2(2)](https://www.legislation.gov.uk/uksi/2010/3034/regulation/2/2)
+[^c-bf1648b9f1f0419f3f67b1f3efecc089]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2007/1100/regulation/2) inserted (23.12.2010) by [Mutilations (Permitted Procedures) (England) (Amendment) Regulations 2010 (S.I. 2010/3034)](https://www.legislation.gov.uk/uksi/2010/3034), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2010/3034/regulation/1/b), [2(2)](https://www.legislation.gov.uk/uksi/2010/3034/regulation/2/2)
 
-[^key-ed8ac04cf78c6c66fa4c9a2df0bdca07]: Textual amendment: Reg. 3(c)-(e) substituted for reg. 3(c)(d) (3.6.2008) by [Mutilations (Permitted Procedures) (England) (Amendment) Regulations 2008 (S.I. 2008/1426)](https://www.legislation.gov.uk/uksi/2008/1426), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2008/1426/regulation/1/b), [3](https://www.legislation.gov.uk/uksi/2008/1426/regulation/3)
+[^c-ed8ac04cf78c6c66fa4c9a2df0bdca07]: Textual amendment: Reg. 3(c)-(e) substituted for reg. 3(c)(d) (3.6.2008) by [Mutilations (Permitted Procedures) (England) (Amendment) Regulations 2008 (S.I. 2008/1426)](https://www.legislation.gov.uk/uksi/2008/1426), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2008/1426/regulation/1/b), [3](https://www.legislation.gov.uk/uksi/2008/1426/regulation/3)
 
-[^key-cd0d972d09e7b7cd1be1b32c76ad0217]: Textual amendment: Word in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2007/1100/regulation/4/1) omitted (3.6.2008) by virtue of [Mutilations (Permitted Procedures) (England) (Amendment) Regulations 2008 (S.I. 2008/1426)](https://www.legislation.gov.uk/uksi/2008/1426), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2008/1426/regulation/1/b), [4](https://www.legislation.gov.uk/uksi/2008/1426/regulation/4)
+[^c-cd0d972d09e7b7cd1be1b32c76ad0217]: Textual amendment: Word in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2007/1100/regulation/4/1) omitted (3.6.2008) by virtue of [Mutilations (Permitted Procedures) (England) (Amendment) Regulations 2008 (S.I. 2008/1426)](https://www.legislation.gov.uk/uksi/2008/1426), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2008/1426/regulation/1/b), [4](https://www.legislation.gov.uk/uksi/2008/1426/regulation/4)
 
-[^key-c28abb4650abbdacfba90ee8bc86a415]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2007/1100/regulation/5) substituted (3.6.2008) by [Mutilations (Permitted Procedures) (England) (Amendment) Regulations 2008 (S.I. 2008/1426)](https://www.legislation.gov.uk/uksi/2008/1426), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2008/1426/regulation/1/b), [5](https://www.legislation.gov.uk/uksi/2008/1426/regulation/5)
+[^c-c28abb4650abbdacfba90ee8bc86a415]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2007/1100/regulation/5) substituted (3.6.2008) by [Mutilations (Permitted Procedures) (England) (Amendment) Regulations 2008 (S.I. 2008/1426)](https://www.legislation.gov.uk/uksi/2008/1426), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2008/1426/regulation/1/b), [5](https://www.legislation.gov.uk/uksi/2008/1426/regulation/5)
 
 [^f00003]: Footnote: [S.I. 1962/2557](https://www.legislation.gov.uk/uksi/1962/2557); relevant amending instruments are [S.I. 1982/1627](https://www.legislation.gov.uk/uksi/1982/1627), [2002/1646](https://www.legislation.gov.uk/uksi/2002/1646).
 
-[^key-bf4d0b9ed8321ca9a57e6ffbec703d1f]: Textual amendment: Words in Sch. 1 substituted (3.6.2008) by [Mutilations (Permitted Procedures) (England) (Amendment) Regulations 2008 (S.I. 2008/1426)](https://www.legislation.gov.uk/uksi/2008/1426), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2008/1426/regulation/1/b), [6(2)](https://www.legislation.gov.uk/uksi/2008/1426/regulation/6/2)
+[^c-bf4d0b9ed8321ca9a57e6ffbec703d1f]: Textual amendment: Words in Sch. 1 substituted (3.6.2008) by [Mutilations (Permitted Procedures) (England) (Amendment) Regulations 2008 (S.I. 2008/1426)](https://www.legislation.gov.uk/uksi/2008/1426), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2008/1426/regulation/1/b), [6(2)](https://www.legislation.gov.uk/uksi/2008/1426/regulation/6/2)
 
-[^key-4e3f21fe54a6403f91707af711de813f]: Textual amendment: Words in Sch. 1 substituted (3.6.2008) by [Mutilations (Permitted Procedures) (England) (Amendment) Regulations 2008 (S.I. 2008/1426)](https://www.legislation.gov.uk/uksi/2008/1426), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2008/1426/regulation/1/b), [6(4)](https://www.legislation.gov.uk/uksi/2008/1426/regulation/6/4)
+[^c-4e3f21fe54a6403f91707af711de813f]: Textual amendment: Words in Sch. 1 substituted (3.6.2008) by [Mutilations (Permitted Procedures) (England) (Amendment) Regulations 2008 (S.I. 2008/1426)](https://www.legislation.gov.uk/uksi/2008/1426), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2008/1426/regulation/1/b), [6(4)](https://www.legislation.gov.uk/uksi/2008/1426/regulation/6/4)
 
-[^key-3b5e348cf1c11a33cf2a86ec73c031e6]: Textual amendment: Words in Sch. 1 substituted (3.6.2008) by [Mutilations (Permitted Procedures) (England) (Amendment) Regulations 2008 (S.I. 2008/1426)](https://www.legislation.gov.uk/uksi/2008/1426), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2008/1426/regulation/1/b), [6(3)](https://www.legislation.gov.uk/uksi/2008/1426/regulation/6/3)
+[^c-3b5e348cf1c11a33cf2a86ec73c031e6]: Textual amendment: Words in Sch. 1 substituted (3.6.2008) by [Mutilations (Permitted Procedures) (England) (Amendment) Regulations 2008 (S.I. 2008/1426)](https://www.legislation.gov.uk/uksi/2008/1426), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2008/1426/regulation/1/b), [6(3)](https://www.legislation.gov.uk/uksi/2008/1426/regulation/6/3)
 
-[^key-271ff0a835a76c9dde5ffe1fcdef7dad]: Textual amendment: Sch. 4 paras. A1-A5 inserted (3.6.2008) by [Mutilations (Permitted Procedures) (England) (Amendment) Regulations 2008 (S.I. 2008/1426)](https://www.legislation.gov.uk/uksi/2008/1426), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2008/1426/regulation/1/b), [7(2)](https://www.legislation.gov.uk/uksi/2008/1426/regulation/7/2)
+[^c-271ff0a835a76c9dde5ffe1fcdef7dad]: Textual amendment: Sch. 4 paras. A1-A5 inserted (3.6.2008) by [Mutilations (Permitted Procedures) (England) (Amendment) Regulations 2008 (S.I. 2008/1426)](https://www.legislation.gov.uk/uksi/2008/1426), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2008/1426/regulation/1/b), [7(2)](https://www.legislation.gov.uk/uksi/2008/1426/regulation/7/2)
 
-[^key-bb518a26ac6b32f765ae5217d536638a]: Textual amendment: Sch. 4 para. A1 substituted (23.12.2010) by [Mutilations (Permitted Procedures) (England) (Amendment) Regulations 2010 (S.I. 2010/3034)](https://www.legislation.gov.uk/uksi/2010/3034), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2010/3034/regulation/1/b), [2(3)(a)](https://www.legislation.gov.uk/uksi/2010/3034/regulation/2/3/a)
+[^c-bb518a26ac6b32f765ae5217d536638a]: Textual amendment: Sch. 4 para. A1 substituted (23.12.2010) by [Mutilations (Permitted Procedures) (England) (Amendment) Regulations 2010 (S.I. 2010/3034)](https://www.legislation.gov.uk/uksi/2010/3034), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2010/3034/regulation/1/b), [2(3)(a)](https://www.legislation.gov.uk/uksi/2010/3034/regulation/2/3/a)
 
-[^key-930dd2a8d474839657d5850ed08a4e8c]: Textual amendment: Sch. 4 para. 5 substituted (23.12.2010) by [Mutilations (Permitted Procedures) (England) (Amendment) Regulations 2010 (S.I. 2010/3034)](https://www.legislation.gov.uk/uksi/2010/3034), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2010/3034/regulation/1/b), [2(3)(b)](https://www.legislation.gov.uk/uksi/2010/3034/regulation/2/3/b)
+[^c-930dd2a8d474839657d5850ed08a4e8c]: Textual amendment: Sch. 4 para. 5 substituted (23.12.2010) by [Mutilations (Permitted Procedures) (England) (Amendment) Regulations 2010 (S.I. 2010/3034)](https://www.legislation.gov.uk/uksi/2010/3034), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2010/3034/regulation/1/b), [2(3)(b)](https://www.legislation.gov.uk/uksi/2010/3034/regulation/2/3/b)
 
-[^key-1eb1e4f74cef5b54a97a81e181757031]: Textual amendment: Sch. 5 para. 1A inserted (3.6.2008) by [Mutilations (Permitted Procedures) (England) (Amendment) Regulations 2008 (S.I. 2008/1426)](https://www.legislation.gov.uk/uksi/2008/1426), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2008/1426/regulation/1/b), [8(2)](https://www.legislation.gov.uk/uksi/2008/1426/regulation/8/2)
+[^c-1eb1e4f74cef5b54a97a81e181757031]: Textual amendment: Sch. 5 para. 1A inserted (3.6.2008) by [Mutilations (Permitted Procedures) (England) (Amendment) Regulations 2008 (S.I. 2008/1426)](https://www.legislation.gov.uk/uksi/2008/1426), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2008/1426/regulation/1/b), [8(2)](https://www.legislation.gov.uk/uksi/2008/1426/regulation/8/2)
 
-[^key-f06e9b908cb14ad81e4438e5739db146]: Textual amendment: Sch. 5 para. 2A, 2B inserted (3.6.2008) by [Mutilations (Permitted Procedures) (England) (Amendment) Regulations 2008 (S.I. 2008/1426)](https://www.legislation.gov.uk/uksi/2008/1426), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2008/1426/regulation/1/b), [8(3)](https://www.legislation.gov.uk/uksi/2008/1426/regulation/8/3)
+[^c-f06e9b908cb14ad81e4438e5739db146]: Textual amendment: Sch. 5 para. 2A, 2B inserted (3.6.2008) by [Mutilations (Permitted Procedures) (England) (Amendment) Regulations 2008 (S.I. 2008/1426)](https://www.legislation.gov.uk/uksi/2008/1426), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2008/1426/regulation/1/b), [8(3)](https://www.legislation.gov.uk/uksi/2008/1426/regulation/8/3)
 
-[^key-d860492486af5b78033388f758a85025]: Textual amendment: Sch. 6 para. 1A inserted (3.6.2008) by [Mutilations (Permitted Procedures) (England) (Amendment) Regulations 2008 (S.I. 2008/1426)](https://www.legislation.gov.uk/uksi/2008/1426), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2008/1426/regulation/1/b), [9(2)](https://www.legislation.gov.uk/uksi/2008/1426/regulation/9/2)
+[^c-d860492486af5b78033388f758a85025]: Textual amendment: Sch. 6 para. 1A inserted (3.6.2008) by [Mutilations (Permitted Procedures) (England) (Amendment) Regulations 2008 (S.I. 2008/1426)](https://www.legislation.gov.uk/uksi/2008/1426), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2008/1426/regulation/1/b), [9(2)](https://www.legislation.gov.uk/uksi/2008/1426/regulation/9/2)
 
-[^key-05bef546df5dca98e586b25233191169]: Textual amendment: Sch. 6 para. 2A, 2B inserted (3.6.2008) by [Mutilations (Permitted Procedures) (England) (Amendment) Regulations 2008 (S.I. 2008/1426)](https://www.legislation.gov.uk/uksi/2008/1426), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2008/1426/regulation/1/b), [9(3)](https://www.legislation.gov.uk/uksi/2008/1426/regulation/9/3)
+[^c-05bef546df5dca98e586b25233191169]: Textual amendment: Sch. 6 para. 2A, 2B inserted (3.6.2008) by [Mutilations (Permitted Procedures) (England) (Amendment) Regulations 2008 (S.I. 2008/1426)](https://www.legislation.gov.uk/uksi/2008/1426), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2008/1426/regulation/1/b), [9(3)](https://www.legislation.gov.uk/uksi/2008/1426/regulation/9/3)

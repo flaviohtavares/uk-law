@@ -122,7 +122,7 @@ The preceding provisions of this Measure shall, so far as applicable and with th
 
 (4) The preceding provisions do not apply to any register books which are for the time being deposited in a diocesan record office.
 
-### 6A. Access to electronic register book of services[^key-e372061874dc3113250b80babede5329]
+### 6A. Access to electronic register book of services[^c-e372061874dc3113250b80babede5329]
 
 (1) This section applies where there is an online facility provided by one or more of the National Institutions of the Church of England for enabling any person who has the custody of an electronic register book of services to allow any of the National Institutions and certain other persons to have access to the information contained in that register book.
 
@@ -341,7 +341,7 @@ the bishop of the diocese in which such books or records are, on the application
 
 (4) Before approving a place as a suitable and safe place for the purposes of this section the bishop of a diocese shall consult the chief officer of the diocesan record office or, where the diocese has more than one such office, the chief officer of the appropriate office.
 
-### 16A. Making electronic register book of services available for certain purposes[^key-13e53c064b9c11d9e4b2da4f3595a9a6]
+### 16A. Making electronic register book of services available for certain purposes[^c-13e53c064b9c11d9e4b2da4f3595a9a6]
 
 (1) Any person who has the custody of an electronic register book of services may, for a limited period and in the manner approved by the bishop of the diocese concerned, make the register book available for the purpose of exhibition or research or for the purpose of enabling a copy to be made of the register book or any part of it.
 
@@ -379,7 +379,7 @@ he may require the person who made the request to effect with the Ecclesiastical
 
 (1) Where a parish is dissolved by a pastoral scheme, whether in consequence of a union of parishes or otherwise, then, subject to the provisions of that scheme, the register books belonging to that parish and any records in parochial custody therein shall be dealt with in such manner as the bishop of the diocese concerned may direct.
 
-(2) [^key-25e81905c1fdc2ed0f114ea54d2cc94b]... Where a church within the meaning of the [^c1316334]Pastoral Measure 1968 ceases to be used as such, whether by reason of a declaration of redundancy, demolition or otherwise, then, unless the bishop of the diocese in which that church is otherwise directs or any pastoral scheme otherwise provides, the register books and records kept in or relating to that church shall be deposited in the diocesan record office for the diocese or part thereof in which the church is situated.
+(2) [^c-25e81905c1fdc2ed0f114ea54d2cc94b]... Where a church within the meaning of the [^c1316334]Pastoral Measure 1968 ceases to be used as such, whether by reason of a declaration of redundancy, demolition or otherwise, then, unless the bishop of the diocese in which that church is otherwise directs or any pastoral scheme otherwise provides, the register books and records kept in or relating to that church shall be deposited in the diocesan record office for the diocese or part thereof in which the church is situated.
 
 (3) Subsections (1) and (2) above are without prejudice to the power of the bishop of the diocese referred to therein to make an order under section 12 of this Measure with respect to such books or records, and section 13 thereof, with the omission of subsection (3), shall apply in relation to any such books or records which in compliance with the direction of the bishop have been deposited in a place which is not a diocesan record office.
 
@@ -394,9 +394,9 @@ he may require the person who made the request to effect with the Ecclesiastical
 (2) Where any register books of baptisms or burials are deposited in a diocesan record office—
 
 - (a) the chief officer of that office shall at all reasonable hours allow searches to be made in any such book and shall, if requested to do so, give a copy certified under his hand of any entry therein; and
-- (b)[^c1316348] the authority under whose control that office is, not being a local authority, may charge such fees, if any, for allowing a search to be made in any such book or for providing a copy of an entry therein as is payable to an diocesan board of finance[^key-23cffb07a38392074fb9d6008663400c] for the same service by virtue of any order for the time being in force made under the Ecclesiastical Fees Measure 1962.
+- (b)[^c1316348] the authority under whose control that office is, not being a local authority, may charge such fees, if any, for allowing a search to be made in any such book or for providing a copy of an entry therein as is payable to an diocesan board of finance[^c-23cffb07a38392074fb9d6008663400c] for the same service by virtue of any order for the time being in force made under the Ecclesiastical Fees Measure 1962.
 
-(3) Where any register books of marriages are deposited in a diocesan record office, section 63 of the [^c1316349]Marriage Act 1949 (searches in marriage register books) shall have effect as if for references therein to an incumbent and to the parochial church council of the parish[^key-45f96cf4f6f604183c0296b624326754] there were substituted references to the chief officer of that office.
+(3) Where any register books of marriages are deposited in a diocesan record office, section 63 of the [^c1316349]Marriage Act 1949 (searches in marriage register books) shall have effect as if for references therein to an incumbent and to the parochial church council of the parish[^c-45f96cf4f6f604183c0296b624326754] there were substituted references to the chief officer of that office.
 
 (3A)[^c1316350] Where a search is made under subsection (1) or (2) above or, in the case of a register book of marriages wherein the first entry was made before 1st July 1837, under the said section 63 the person having the custody of the register book or the chief officer may require the search to be made in an authenticated photographic copy of the register book; and for the purposes of this subsection a copy shall be regarded as authenticated if it bears a certificate signed by the person who had the custody of the register book or the person who was the chief officer, as the case may be, at the time the certificate was issued to the effect that it is a true copy of the register book.
 
@@ -406,7 +406,7 @@ he may require the person who made the request to effect with the Ecclesiastical
 
 (4) No part of any fee paid to the chief officer of a diocesan record office by virtue of this section shall be payable by him to any person who would have had the custody of any register book had it not been deposited in that office.
 
-(5)[^key-8ed9887b196ca62495161c63bc9af396] Nothing in subsections (2) and (3) above shall be taken as affecting the powers of local authorities under section 1 of the Local Government (Records) Act 1962 (power to promote adequate use of records).
+(5)[^c-8ed9887b196ca62495161c63bc9af396] Nothing in subsections (2) and (3) above shall be taken as affecting the powers of local authorities under section 1 of the Local Government (Records) Act 1962 (power to promote adequate use of records).
 
 (6)[^c1316353] This section shall so far as applicable and with the necessary modifications, apply in relation to the custody or deposit of register books of baptisms, burials or marriages provided for any cathedral or collegiate church or any other church or chapel which does not belong to a parish.
 
@@ -418,19 +418,19 @@ he may require the person who made the request to effect with the Ecclesiastical
 
 (3) For the removal of doubt it is hereby declared that subject to the provisions of this Measure and of the [^c1316354]Marriage Act 1949 the title to or right to the possession of register books in the custody of any person by virtue of this Measure is incapable of assignment whether for value or otherwise.
 
-### 22. Special provisions as to marriage registers.[^key-72b54ecfa04b29d611505491379d955c]
+### 22. Special provisions as to marriage registers.[^c-72b54ecfa04b29d611505491379d955c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Supplemental
 
-### 23. Appointment of deputy to perform functions of bishop.[^key-e4dfef6b5d235eb93258a7b14db4c589]
+### 23. Appointment of deputy to perform functions of bishop.[^c-e4dfef6b5d235eb93258a7b14db4c589]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 24. Service of notices and orders.
 
-(1) Any notice or order required or authorised by this Measure to be served on or sent or given to any person may be served, sent or given by delivering it to him, or by leaving it at his proper address, or by post , or by electronic means[^key-66984d88ab20e63537d057f0f9699d55].
+(1) Any notice or order required or authorised by this Measure to be served on or sent or given to any person may be served, sent or given by delivering it to him, or by leaving it at his proper address, or by post , or by electronic means[^c-66984d88ab20e63537d057f0f9699d55].
 
 (2) Any such notice or order required or authorised to be served on, sent or given to, a parochial church council shall be duly served, sent or given if it is served on or sent or given to the secretary of that council.
 
@@ -443,7 +443,7 @@ he may require the person who made the request to effect with the Ecclesiastical
 (1) In this Measure, except in so far as the context otherwise requires, the following expressions have the meanings hereby respectively assigned to them, that is to say—
 
 - “[^c1316359]**burial**” includes the disposal of cremated remains;
-- “[^key-3cb88c5a4c57100d4c2cf53c75e9fbb9]**records**” means materials in written or other form setting out facts or events or otherwise recording information, but a reference to a record does not include a reference to—
+- “[^c-3cb88c5a4c57100d4c2cf53c75e9fbb9]**records**” means materials in written or other form setting out facts or events or otherwise recording information, but a reference to a record does not include a reference to—
   - (a) a register book,
   - (b) anything which is or has been fixed to the fabric of a parish church or other place of public worship in a parish, or
   - (c) a photograph or picture which is or has been displayed in a parish church or other place of public worship in a parish;
@@ -452,12 +452,12 @@ he may require the person who made the request to effect with the Ecclesiastical
   - (b) in the joint custody of any of those mentioned in paragraph (a);
 - “**register books**” means the register books mentioned in section 6(1) of this Measure and “**register books in parochial custody**” means register books in the custody of an incumbent or priest in charge or of churchwardens.
 
-(1A)[^key-8257dfd54765722c3f8f8e3f7e39412b] In the case of a register book of services which is, by virtue of Canon F 12, kept in an electronic or other form approved by the General Synod—
+(1A)[^c-8257dfd54765722c3f8f8e3f7e39412b] In the case of a register book of services which is, by virtue of Canon F 12, kept in an electronic or other form approved by the General Synod—
 
 - (a) a reference in this Measure to the register book of services includes (where the context allows) a reference to that register book in that form, and
 - (b) a reference in this Measure to an electronic register book of services is to be construed in accordance with this subsection.
 
-(1B)[^key-cbd92fa082a11e14083254ccd1b9e6bb] In subsection (1), the reference in each of paragraphs (b) and (c) of the definition of “records” to a parish church or other place of public worship in a parish includes a reference to—
+(1B)[^c-cbd92fa082a11e14083254ccd1b9e6bb] In subsection (1), the reference in each of paragraphs (b) and (c) of the definition of “records” to a parish church or other place of public worship in a parish includes a reference to—
 
 - (a) an adjoining building used wholly or mainly as a vestry or sacristy, and
 - (b) a church hall.
@@ -480,7 +480,7 @@ he may require the person who made the request to effect with the Ecclesiastical
 
 (1) This Measure may be cited as the Parochial Registers and Records Measure 1978.
 
-(2)[^key-037507da36440698e4ca65797a797984][^c1316364] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-037507da36440698e4ca65797a797984][^c1316364] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) This Measure shall extend to the whole of the provinces of Canterbury and York, except the Channel Islands and the Isle of Man, but may be applied to the Channel Islands, or either of them, as defined in the [^c1316365]Channel Islands (Church Legislation) Measures 1931 and [^c1316366]1957, in accordance with those Measures and may by Act of Tynwald be extended to the Isle of Man, with such exceptions, adaptations and modifications, if any, as may be specified in such Act.
 
@@ -599,7 +599,7 @@ Section 26(2).
 
 [^c1316317]: Marginal citation: [1968 No. 1](https://www.legislation.gov.uk/ukcm/1968/1).
 
-[^key-e372061874dc3113250b80babede5329]: Textual amendment: S. 6A inserted (16.11.2023) by [Church of England (Miscellaneous Provisions) Measure 2020 (No. 1)](https://www.legislation.gov.uk/ukcm/2020/1), [ss. 8(2)](https://www.legislation.gov.uk/ukcm/2020/1/section/8/2), [16(3)](https://www.legislation.gov.uk/ukcm/2020/1/section/16/3); [S.I. 2023/1264](https://www.legislation.gov.uk/uksi/2023/1264), [art. 2](https://www.legislation.gov.uk/uksi/2023/1264/article/2)
+[^c-e372061874dc3113250b80babede5329]: Textual amendment: S. 6A inserted (16.11.2023) by [Church of England (Miscellaneous Provisions) Measure 2020 (No. 1)](https://www.legislation.gov.uk/ukcm/2020/1), [ss. 8(2)](https://www.legislation.gov.uk/ukcm/2020/1/section/8/2), [16(3)](https://www.legislation.gov.uk/ukcm/2020/1/section/16/3); [S.I. 2023/1264](https://www.legislation.gov.uk/uksi/2023/1264), [art. 2](https://www.legislation.gov.uk/uksi/2023/1264/article/2)
 
 [^c1316318]: Marginal citation: [1962 c. 56](https://www.legislation.gov.uk/ukpga/1962/56).
 
@@ -629,9 +629,9 @@ Section 26(2).
 
 [^c1316332]: Textual amendment: [S. 12A](https://www.legislation.gov.uk/ukcm/1978/2/section/12A) inserted (1.1.1993) by [Church of England (Miscellaneous Provisions) Measure 1992 (No. 1)](https://www.legislation.gov.uk/ukcm/1992/1), [s. 4(1)](https://www.legislation.gov.uk/ukcm/1992/1/section/4/1), [Sch. 1 para.8](https://www.legislation.gov.uk/ukcm/1992/1/schedule/1/paragraph/8);[Instrument dated 7.9.1992 made by the Archbishops of Canterbury and York](https://www.legislation.gov.uk/ukci/1992-09-07).
 
-[^key-13e53c064b9c11d9e4b2da4f3595a9a6]: Textual amendment: S. 16A inserted (16.11.2023) by [Church of England (Miscellaneous Provisions) Measure 2020 (No. 1)](https://www.legislation.gov.uk/ukcm/2020/1), [ss. 8(3)](https://www.legislation.gov.uk/ukcm/2020/1/section/8/3), [16(3)](https://www.legislation.gov.uk/ukcm/2020/1/section/16/3); [S.I. 2023/1264](https://www.legislation.gov.uk/uksi/2023/1264), [art. 2](https://www.legislation.gov.uk/uksi/2023/1264/article/2)
+[^c-13e53c064b9c11d9e4b2da4f3595a9a6]: Textual amendment: S. 16A inserted (16.11.2023) by [Church of England (Miscellaneous Provisions) Measure 2020 (No. 1)](https://www.legislation.gov.uk/ukcm/2020/1), [ss. 8(3)](https://www.legislation.gov.uk/ukcm/2020/1/section/8/3), [16(3)](https://www.legislation.gov.uk/ukcm/2020/1/section/16/3); [S.I. 2023/1264](https://www.legislation.gov.uk/uksi/2023/1264), [art. 2](https://www.legislation.gov.uk/uksi/2023/1264/article/2)
 
-[^key-25e81905c1fdc2ed0f114ea54d2cc94b]: Textual amendment: Words in s. 19(2) omitted (4.5.2021) by virtue of [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 57(2)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/57/2) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
+[^c-25e81905c1fdc2ed0f114ea54d2cc94b]: Textual amendment: Words in s. 19(2) omitted (4.5.2021) by virtue of [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 57(2)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/57/2) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
 
 [^c1316334]: Marginal citation: [1968 No. 1](https://www.legislation.gov.uk/ukcm/1968/1).
 
@@ -641,35 +641,35 @@ Section 26(2).
 
 [^c1316348]: Textual amendment: Words substituted by [Church of England (Miscellaneous Provisions) Measure 1978 (No. 3, SIF 21:8)](https://www.legislation.gov.uk/ukcm/1978/3), [s. 6](https://www.legislation.gov.uk/ukcm/1978/3/section/6)
 
-[^key-23cffb07a38392074fb9d6008663400c]: Textual amendment: Words in s. 20(2)(b) substituted (1.7.2011) by [Ecclesiastical Fees (Amendment) Measure 2011 (No. 2)](https://www.legislation.gov.uk/ukcm/2011/2), [s. 6(2)](https://www.legislation.gov.uk/ukcm/2011/2/section/6/2), [Sch. 2 para. 4(a)](https://www.legislation.gov.uk/ukcm/2011/2/schedule/2/paragraph/4/a); [2011 No. 1](https://www.legislation.gov.uk/ukci/2011/1), [art. 2](https://www.legislation.gov.uk/ukci/2011/1/article/2)
+[^c-23cffb07a38392074fb9d6008663400c]: Textual amendment: Words in s. 20(2)(b) substituted (1.7.2011) by [Ecclesiastical Fees (Amendment) Measure 2011 (No. 2)](https://www.legislation.gov.uk/ukcm/2011/2), [s. 6(2)](https://www.legislation.gov.uk/ukcm/2011/2/section/6/2), [Sch. 2 para. 4(a)](https://www.legislation.gov.uk/ukcm/2011/2/schedule/2/paragraph/4/a); [2011 No. 1](https://www.legislation.gov.uk/ukci/2011/1), [art. 2](https://www.legislation.gov.uk/ukci/2011/1/article/2)
 
 [^c1316349]: Marginal citation: [1949 c. 76](https://www.legislation.gov.uk/ukpga/1949/76).
 
-[^key-45f96cf4f6f604183c0296b624326754]: Textual amendment: Words in s. 20(3) inserted (1.7.2011) by [Ecclesiastical Fees (Amendment) Measure 2011 (No. 2)](https://www.legislation.gov.uk/ukcm/2011/2), [s. 6(2)](https://www.legislation.gov.uk/ukcm/2011/2/section/6/2), [Sch. 2 para. 4(b)](https://www.legislation.gov.uk/ukcm/2011/2/schedule/2/paragraph/4/b); [2011 No. 1](https://www.legislation.gov.uk/ukci/2011/1), [art. 2](https://www.legislation.gov.uk/ukci/2011/1/article/2)
+[^c-45f96cf4f6f604183c0296b624326754]: Textual amendment: Words in s. 20(3) inserted (1.7.2011) by [Ecclesiastical Fees (Amendment) Measure 2011 (No. 2)](https://www.legislation.gov.uk/ukcm/2011/2), [s. 6(2)](https://www.legislation.gov.uk/ukcm/2011/2/section/6/2), [Sch. 2 para. 4(b)](https://www.legislation.gov.uk/ukcm/2011/2/schedule/2/paragraph/4/b); [2011 No. 1](https://www.legislation.gov.uk/ukci/2011/1), [art. 2](https://www.legislation.gov.uk/ukci/2011/1/article/2)
 
 [^c1316350]: Textual amendment: S. 20(3A)-(3C) inserted (1.1.1993) by [Church of England (Miscellaneous Provisions) Measure 1992 (No. 1)](https://www.legislation.gov.uk/ukcm/1992/1), [s. 4(1)](https://www.legislation.gov.uk/ukcm/1992/1/section/4/1), [Sch. 1 para. 9](https://www.legislation.gov.uk/ukcm/1992/1/schedule/1/paragraph/9); [Instrument dated 7.9.1992 made by the Archbishops of Canterbury and York](https://www.legislation.gov.uk/ukci/1992-09-07).
 
-[^key-8ed9887b196ca62495161c63bc9af396]: Textual amendment: S. 20(5) substituted (1.7.2011) by [Ecclesiastical Fees (Amendment) Measure 2011 (No. 2)](https://www.legislation.gov.uk/ukcm/2011/2), [s. 6(2)](https://www.legislation.gov.uk/ukcm/2011/2/section/6/2), [Sch. 2 para. 4(c)](https://www.legislation.gov.uk/ukcm/2011/2/schedule/2/paragraph/4/c); [2011 No. 1](https://www.legislation.gov.uk/ukci/2011/1), [art. 2](https://www.legislation.gov.uk/ukci/2011/1/article/2)
+[^c-8ed9887b196ca62495161c63bc9af396]: Textual amendment: S. 20(5) substituted (1.7.2011) by [Ecclesiastical Fees (Amendment) Measure 2011 (No. 2)](https://www.legislation.gov.uk/ukcm/2011/2), [s. 6(2)](https://www.legislation.gov.uk/ukcm/2011/2/section/6/2), [Sch. 2 para. 4(c)](https://www.legislation.gov.uk/ukcm/2011/2/schedule/2/paragraph/4/c); [2011 No. 1](https://www.legislation.gov.uk/ukci/2011/1), [art. 2](https://www.legislation.gov.uk/ukci/2011/1/article/2)
 
 [^c1316353]: Textual amendment: S. 20(6) inserted (1.9.1995) by [1995 No. 2](https://www.legislation.gov.uk/ukcm/1995/2), [s.10](https://www.legislation.gov.uk/ukcm/1995/2/section/10); [Instrument dated 26.7.1995 made by Archbishops of Canterbury and York](https://www.legislation.gov.uk/ukci/1995-07-26)
 
 [^c1316354]: Marginal citation: [1949 c. 76](https://www.legislation.gov.uk/ukpga/1949/76).
 
-[^key-72b54ecfa04b29d611505491379d955c]: Textual amendment: [S. 22](https://www.legislation.gov.uk/ukcm/1978/2/section/22) omitted (4.5.2021) by virtue of [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 57(3)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/57/3) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
+[^c-72b54ecfa04b29d611505491379d955c]: Textual amendment: [S. 22](https://www.legislation.gov.uk/ukcm/1978/2/section/22) omitted (4.5.2021) by virtue of [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 57(3)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/57/3) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
 
-[^key-e4dfef6b5d235eb93258a7b14db4c589]: Textual amendment: [S. 23](https://www.legislation.gov.uk/ukcm/1978/2/section/23) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 5
+[^c-e4dfef6b5d235eb93258a7b14db4c589]: Textual amendment: [S. 23](https://www.legislation.gov.uk/ukcm/1978/2/section/23) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 5
 
-[^key-66984d88ab20e63537d057f0f9699d55]: Textual amendment: Words in s. 24(1) inserted (16.11.2023) by [Church of England (Miscellaneous Provisions) Measure 2020 (No. 1)](https://www.legislation.gov.uk/ukcm/2020/1), [ss. 8(4)](https://www.legislation.gov.uk/ukcm/2020/1/section/8/4), [16(3)](https://www.legislation.gov.uk/ukcm/2020/1/section/16/3); [S.I. 2023/1264](https://www.legislation.gov.uk/uksi/2023/1264), [art. 2](https://www.legislation.gov.uk/uksi/2023/1264/article/2)
+[^c-66984d88ab20e63537d057f0f9699d55]: Textual amendment: Words in s. 24(1) inserted (16.11.2023) by [Church of England (Miscellaneous Provisions) Measure 2020 (No. 1)](https://www.legislation.gov.uk/ukcm/2020/1), [ss. 8(4)](https://www.legislation.gov.uk/ukcm/2020/1/section/8/4), [16(3)](https://www.legislation.gov.uk/ukcm/2020/1/section/16/3); [S.I. 2023/1264](https://www.legislation.gov.uk/uksi/2023/1264), [art. 2](https://www.legislation.gov.uk/uksi/2023/1264/article/2)
 
 [^c1316358]: Marginal citation: [1889 c. 63](https://www.legislation.gov.uk/ukpga/1889/63).
 
 [^c1316359]: Textual amendment: Words in s. 25 inserted (1.1.1993) by [Church of England (Miscellaneous Provisions) Measure 1992 (No. 1)](https://www.legislation.gov.uk/ukcm/1992/1), [s. 4(1)](https://www.legislation.gov.uk/ukcm/1992/1/section/4/1), [Sch. 1 para.10](https://www.legislation.gov.uk/ukcm/1992/1/schedule/1/paragraph/10);[Instrument dated 7.9.1992 made by the Archbishops of Canterbury and York](https://www.legislation.gov.uk/ukci/1992-09-07).
 
-[^key-3cb88c5a4c57100d4c2cf53c75e9fbb9]: Textual amendment: Words in s. 25(1) substituted (1.9.2020) by [Church of England (Miscellaneous Provisions) Measure 2020 (No. 1)](https://www.legislation.gov.uk/ukcm/2020/1), [ss. 9(1)](https://www.legislation.gov.uk/ukcm/2020/1/section/9/1), [16(3)](https://www.legislation.gov.uk/ukcm/2020/1/section/16/3); [S.I. 2020/835](https://www.legislation.gov.uk/uksi/2020/835), [art. 2](https://www.legislation.gov.uk/uksi/2020/835/article/2)
+[^c-3cb88c5a4c57100d4c2cf53c75e9fbb9]: Textual amendment: Words in s. 25(1) substituted (1.9.2020) by [Church of England (Miscellaneous Provisions) Measure 2020 (No. 1)](https://www.legislation.gov.uk/ukcm/2020/1), [ss. 9(1)](https://www.legislation.gov.uk/ukcm/2020/1/section/9/1), [16(3)](https://www.legislation.gov.uk/ukcm/2020/1/section/16/3); [S.I. 2020/835](https://www.legislation.gov.uk/uksi/2020/835), [art. 2](https://www.legislation.gov.uk/uksi/2020/835/article/2)
 
-[^key-8257dfd54765722c3f8f8e3f7e39412b]: Textual amendment: S. 25(1A) inserted (16.11.2023) by [Church of England (Miscellaneous Provisions) Measure 2020 (No. 1)](https://www.legislation.gov.uk/ukcm/2020/1), [ss. 8(1)](https://www.legislation.gov.uk/ukcm/2020/1/section/8/1), [16(3)](https://www.legislation.gov.uk/ukcm/2020/1/section/16/3); [S.I. 2023/1264](https://www.legislation.gov.uk/uksi/2023/1264), [art. 2](https://www.legislation.gov.uk/uksi/2023/1264/article/2)
+[^c-8257dfd54765722c3f8f8e3f7e39412b]: Textual amendment: S. 25(1A) inserted (16.11.2023) by [Church of England (Miscellaneous Provisions) Measure 2020 (No. 1)](https://www.legislation.gov.uk/ukcm/2020/1), [ss. 8(1)](https://www.legislation.gov.uk/ukcm/2020/1/section/8/1), [16(3)](https://www.legislation.gov.uk/ukcm/2020/1/section/16/3); [S.I. 2023/1264](https://www.legislation.gov.uk/uksi/2023/1264), [art. 2](https://www.legislation.gov.uk/uksi/2023/1264/article/2)
 
-[^key-cbd92fa082a11e14083254ccd1b9e6bb]: Textual amendment: S. 25(1B) inserted (1.9.2020) by [Church of England (Miscellaneous Provisions) Measure 2020 (No. 1)](https://www.legislation.gov.uk/ukcm/2020/1), [ss. 9(2)](https://www.legislation.gov.uk/ukcm/2020/1/section/9/2), [16(3)](https://www.legislation.gov.uk/ukcm/2020/1/section/16/3); [S.I. 2020/835](https://www.legislation.gov.uk/uksi/2020/835), [art. 2](https://www.legislation.gov.uk/uksi/2020/835/article/2)
+[^c-cbd92fa082a11e14083254ccd1b9e6bb]: Textual amendment: S. 25(1B) inserted (1.9.2020) by [Church of England (Miscellaneous Provisions) Measure 2020 (No. 1)](https://www.legislation.gov.uk/ukcm/2020/1), [ss. 9(2)](https://www.legislation.gov.uk/ukcm/2020/1/section/9/2), [16(3)](https://www.legislation.gov.uk/ukcm/2020/1/section/16/3); [S.I. 2020/835](https://www.legislation.gov.uk/uksi/2020/835), [art. 2](https://www.legislation.gov.uk/uksi/2020/835/article/2)
 
 [^c1316360]: Modification: [S. 26(1)(2)](https://www.legislation.gov.uk/ukcm/1978/2/section/26/1/2) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
@@ -677,7 +677,7 @@ Section 26(2).
 
 [^c1316363]: Marginal citation: [1925 No. 1](https://www.legislation.gov.uk/ukcm/1925/1).
 
-[^key-037507da36440698e4ca65797a797984]: Textual amendment: [S. 27(2)](https://www.legislation.gov.uk/ukcm/1978/2/section/27/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 5
+[^c-037507da36440698e4ca65797a797984]: Textual amendment: [S. 27(2)](https://www.legislation.gov.uk/ukcm/1978/2/section/27/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 5
 
 [^c1316364]: Modification: 1.1.1979 appointed under s. 27(2)
 

@@ -22,7 +22,7 @@ summary: ''
 
 **Not yet in force.**
 
-(1) There shall be an officer to be known as the official custodian for charities in Northern Ireland (in this Act referred to as “**the official custodian**”) whose function it shall be to act as trustee for charities in the cases provided for by this Act; and the official custodian shall be a corporation sole whose official seal[^key-ed7242d4f4205708854bdee20553c051] shall be officially and judicially noticed.
+(1) There shall be an officer to be known as the official custodian for charities in Northern Ireland (in this Act referred to as “**the official custodian**”) whose function it shall be to act as trustee for charities in the cases provided for by this Act; and the official custodian shall be a corporation sole whose official seal[^c-ed7242d4f4205708854bdee20553c051] shall be officially and judicially noticed.
 
 (2) Such individual as the Commission may designate shall be the official custodian.
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ed7242d4f4205708854bdee20553c051]: Textual amendment: Words in [s. 11(1)](https://www.legislation.gov.uk/nia/2008/12/section/11/1) substituted (19.1.2013) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [s. 10(1)](https://www.legislation.gov.uk/nia/2013/3/section/10/1), [Sch. 1 para. 3](https://www.legislation.gov.uk/nia/2013/3/schedule/1/paragraph/3)
+[^c-ed7242d4f4205708854bdee20553c051]: Textual amendment: Words in [s. 11(1)](https://www.legislation.gov.uk/nia/2008/12/section/11/1) substituted (19.1.2013) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [s. 10(1)](https://www.legislation.gov.uk/nia/2013/3/section/10/1), [Sch. 1 para. 3](https://www.legislation.gov.uk/nia/2013/3/schedule/1/paragraph/3)

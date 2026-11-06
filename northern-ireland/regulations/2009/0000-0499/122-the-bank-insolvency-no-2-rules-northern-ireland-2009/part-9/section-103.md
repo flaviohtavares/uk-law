@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 103. Recourse to the court[^key-966d188e2c1ce6a1cb0dfc3dfcf1bb93]
+## 103. Recourse to the court[^c-966d188e2c1ce6a1cb0dfc3dfcf1bb93]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 4.137 of the 1991 Rules.
 
 ## Annotations
 
-[^key-966d188e2c1ce6a1cb0dfc3dfcf1bb93]: Commencement: Rule 103 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-966d188e2c1ce6a1cb0dfc3dfcf1bb93]: Commencement: Rule 103 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

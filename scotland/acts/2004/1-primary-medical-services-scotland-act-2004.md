@@ -40,9 +40,9 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 #### 1. Health Boards' functions: provision of primary medical services
 
-(1)[^key-62307e47a73cfd61ef49fc010e983d8d][^key-65ee27e384792e3c1ed3c7f707c3ac50] The National Health Service (Scotland) Act 1978 (c. 29) (referred to in this Act as “**the 1978 Act**”) is amended as follows.
+(1)[^c-62307e47a73cfd61ef49fc010e983d8d][^c-65ee27e384792e3c1ed3c7f707c3ac50] The National Health Service (Scotland) Act 1978 (c. 29) (referred to in this Act as “**the 1978 Act**”) is amended as follows.
 
-(2)[^key-62307e47a73cfd61ef49fc010e983d8d][^key-65ee27e384792e3c1ed3c7f707c3ac50] After section 2 (constitution of Health Boards) insert—
+(2)[^c-62307e47a73cfd61ef49fc010e983d8d][^c-65ee27e384792e3c1ed3c7f707c3ac50] After section 2 (constitution of Health Boards) insert—
 
 > **2C. Functions of Health Boards: primary medical services**
 >
@@ -67,15 +67,15 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 >
 > (8) Anything done by a Health Board in pursuance of subsection (1) or (2) is to be regarded as done in exercise of functions of the Scottish Ministers conferred on the Health Board by an order under section 2(1)(a).
 
-(3)[^key-9849a54f5b0f254cdae44ae89e9de6d7] In section 18, the words “general medical,” are repealed.
+(3)[^c-9849a54f5b0f254cdae44ae89e9de6d7] In section 18, the words “general medical,” are repealed.
 
 ### Section 17C arrangements
 
 #### 2. Provision of primary medical services: section 17C arrangements
 
-(1)[^key-7d5487716b1bf73598753b8b72447e47][^key-9fba59a5cce86fe40ec18b12b175e9ad] The 1978 Act is amended as follows.
+(1)[^c-7d5487716b1bf73598753b8b72447e47][^c-9fba59a5cce86fe40ec18b12b175e9ad] The 1978 Act is amended as follows.
 
-(2)[^key-7d5487716b1bf73598753b8b72447e47][^key-9fba59a5cce86fe40ec18b12b175e9ad] In section 17C (agreements by Health Boards for provision by others of personal medical services etc.)—
+(2)[^c-7d5487716b1bf73598753b8b72447e47][^c-9fba59a5cce86fe40ec18b12b175e9ad] In section 17C (agreements by Health Boards for provision by others of personal medical services etc.)—
 
 - (a) in subsections (1)(a) and (2)(a) and (b)(i), for the words “personal medical services”, in each place where they occur, substitute “ primary medical services ”,
 - (b) in subsection (2), for “; but (b)” substitute—
@@ -90,7 +90,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (d) in subsection (4), the words “personal medical services or” are repealed,
 - (e) in subsection (6), the definition of “personal medical services” is repealed.
 
-(3)[^key-7d5487716b1bf73598753b8b72447e47][^key-9fba59a5cce86fe40ec18b12b175e9ad] In section 17D (persons with whom agreement under section 17C may be made)—
+(3)[^c-7d5487716b1bf73598753b8b72447e47][^c-9fba59a5cce86fe40ec18b12b175e9ad] In section 17D (persons with whom agreement under section 17C may be made)—
 
 - (a) for paragraph (b) of subsection (1) substitute—
 
@@ -107,7 +107,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
   ,
 - (b) in paragraph (d) of that subsection leave out “or a section 28C employee” and insert “ , a section 28C employee or (in the case of an agreement under which primary medical services are provided) an Article 15B employee ”,
-- (c)[^key-0d2fc5737e327cf15d09225ed803bb54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-0d2fc5737e327cf15d09225ed803bb54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) in subsection (2)—
   - (i) after “section” in the first place where it occurs insert—
 
@@ -157,7 +157,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
   > (3) The references in subsection (1)(b)(iii) to (ix) to a person or individual who is providing services include a person or, as the case may be, an individual who has provided them within such period as may be prescribed.
 
-(4)[^key-7d5487716b1bf73598753b8b72447e47][^key-9fba59a5cce86fe40ec18b12b175e9ad] In section 17E (regulations concerning section 17C arrangements)—
+(4)[^c-7d5487716b1bf73598753b8b72447e47][^c-9fba59a5cce86fe40ec18b12b175e9ad] In section 17E (regulations concerning section 17C arrangements)—
 
 - (a) in subsection (2)(b), the words “medical practitioners performing personal medical services, and” are repealed,
 - (b) in subsection (3)—
@@ -189,17 +189,17 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (d) subsections (5) and (7) are repealed,
 - (e) in subsection (6), for “personal medical services” substitute “ primary medical services ”.
 
-(5)[^key-1d234d007acd6b2f724142b1c8a3f0b2] Section 17H (immunisation under section 17C arrangements) is repealed.
+(5)[^c-1d234d007acd6b2f724142b1c8a3f0b2] Section 17H (immunisation under section 17C arrangements) is repealed.
 
 ### Pilot schemes
 
-#### 3. Revocation of power to make pilot schemes[^key-9d9f96c71cdda312ef25c4ebb800e630]
+#### 3. Revocation of power to make pilot schemes[^c-9d9f96c71cdda312ef25c4ebb800e630]
 
 The power of a Health Board under Part I of the National Health Service (Primary Care) Act 1997 (c. 46) to make pilot schemes for the provision of personal medical services ceases to have effect.
 
 ### General medical services contracts
 
-#### 4. Provision of primary medical services: general medical services contracts[^key-32d9ccfd3ec404a9072939e339f6694a][^key-f99b19da859e056e343402144b0498ac]
+#### 4. Provision of primary medical services: general medical services contracts[^c-32d9ccfd3ec404a9072939e339f6694a][^c-f99b19da859e056e343402144b0498ac]
 
 After section 17I of the 1978 Act insert—
 
@@ -344,7 +344,7 @@ After section 17I of the 1978 Act insert—
 
 ### Persons performing primary medical services
 
-#### 5. Persons performing primary medical services[^key-d07b1c7833e965c71f862e3cdcb5a027][^key-167a5e7385da7faf94d0c4ac4788adee]
+#### 5. Persons performing primary medical services[^c-d07b1c7833e965c71f862e3cdcb5a027][^c-167a5e7385da7faf94d0c4ac4788adee]
 
 (1) The 1978 Act is amended as follows.
 
@@ -379,7 +379,7 @@ After section 17I of the 1978 Act insert—
 
 (3) In section 29 (the NHS Tribunal)—
 
-- (a)[^key-fe18cc9e505cfeac9a773f759956fde0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-fe18cc9e505cfeac9a773f759956fde0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) for paragraphs (a) and (aa) of subsection (8) substitute—
 
   > - (a) a list of health care professionals of a prescribed description performing primary medical services;
@@ -391,7 +391,7 @@ After section 17I of the 1978 Act insert—
 
 ### Assistance and support
 
-#### 6. Assistance and support[^key-5b0151e1c72a670fb69b08cb90877432]
+#### 6. Assistance and support[^c-5b0151e1c72a670fb69b08cb90877432]
 
 After section 17P (as inserted by section 5 above) insert—
 
@@ -428,7 +428,7 @@ After section 17P (as inserted by section 5 above) insert—
 
 is to be made unless a draft of the statutory instrument containing the order has been laid before, and approved by resolution of, the Scottish Parliament.
 
-### 8. Modification of enactments[^key-36dca7f91f44e4ccb4b6292f93bcf1e2][^key-7799b01753979a1feb2f0e84bb60457b]
+### 8. Modification of enactments[^c-36dca7f91f44e4ccb4b6292f93bcf1e2][^c-7799b01753979a1feb2f0e84bb60457b]
 
 The schedule makes modifications of enactments in consequence of this Act.
 
@@ -446,39 +446,39 @@ The schedule makes modifications of enactments in consequence of this Act.
 
 ### National Health Service (Scotland) Act 1978 (c.29)
 
-**1.** (1)[^key-db69c3061d971c79ab4425194715a63f][^key-c73582a77a83634b623f664394f39d63] The 1978 Act is amended as follows.
+**1.** (1)[^c-db69c3061d971c79ab4425194715a63f][^c-c73582a77a83634b623f664394f39d63] The 1978 Act is amended as follows.
 
-(2)[^key-66d3d894929cc6952ed5f2939fee746a] In section 15(1)(a) (supply of goods and services to local authorities etc.)—
+(2)[^c-66d3d894929cc6952ed5f2939fee746a] In section 15(1)(a) (supply of goods and services to local authorities etc.)—
 
 - (a) in sub-paragraph (i), for “general medical,” substitute “ primary medical services under a general medical services contract or ”,
 - (b) in sub-paragraph (ii), for “personal medical services” substitute “ primary medical services ”.
 
-(3)[^key-66d3d894929cc6952ed5f2939fee746a] In section 17D(2), after the definition of “section 28C arrangements” the word “and” is repealed.
+(3)[^c-66d3d894929cc6952ed5f2939fee746a] In section 17D(2), after the definition of “section 28C arrangements” the word “and” is repealed.
 
-(4)[^key-66d3d894929cc6952ed5f2939fee746a] Sections 17EA (services lists in relation to section 17C arrangements etc. for personal medical services) and 17EB (application for inclusion in list) are repealed.
+(4)[^c-66d3d894929cc6952ed5f2939fee746a] Sections 17EA (services lists in relation to section 17C arrangements etc. for personal medical services) and 17EB (application for inclusion in list) are repealed.
 
-(5)[^key-66d3d894929cc6952ed5f2939fee746a] Section 17F (right to choose medical practitioner in relation to primary medical services) is repealed.
+(5)[^c-66d3d894929cc6952ed5f2939fee746a] Section 17F (right to choose medical practitioner in relation to primary medical services) is repealed.
 
-(6)[^key-66d3d894929cc6952ed5f2939fee746a] In section 17I (making available by Scottish Ministers of accommodation for use in connection with section 17C arrangements), for “personal medical services” substitute “ primary medical services ”.
+(6)[^c-66d3d894929cc6952ed5f2939fee746a] In section 17I (making available by Scottish Ministers of accommodation for use in connection with section 17C arrangements), for “personal medical services” substitute “ primary medical services ”.
 
-(7)[^key-66d3d894929cc6952ed5f2939fee746a] Sections 19 (arrangements etc. in relation to general medical services) to 23 (refusal of application: provision of services adequate) and 24A (liabilities and obligations in relation to deputies) to 24C (application for inclusion in supplementary list) arerepealed.
+(7)[^c-66d3d894929cc6952ed5f2939fee746a] Sections 19 (arrangements etc. in relation to general medical services) to 23 (refusal of application: provision of services adequate) and 24A (liabilities and obligations in relation to deputies) to 24C (application for inclusion in supplementary list) arerepealed.
 
-(8)[^key-66d3d894929cc6952ed5f2939fee746a] In section 28(1) (persons authorised to provide pharmaceutical services), for “general medical services” substitute “ primary medical services under Part 1 ”.
+(8)[^c-66d3d894929cc6952ed5f2939fee746a] In section 28(1) (persons authorised to provide pharmaceutical services), for “general medical services” substitute “ primary medical services under Part 1 ”.
 
-(9)[^key-66d3d894929cc6952ed5f2939fee746a] In section 28A(1) (remuneration for provision of Part II services), the words “general medical services,” are repealed.
+(9)[^c-66d3d894929cc6952ed5f2939fee746a] In section 28A(1) (remuneration for provision of Part II services), the words “general medical services,” are repealed.
 
-(10)[^key-66d3d894929cc6952ed5f2939fee746a] In section 28B(6) (Part II remuneration: supplementary), for “sections 19(3) and” substitute “ section ”.
+(10)[^c-66d3d894929cc6952ed5f2939fee746a] In section 28B(6) (Part II remuneration: supplementary), for “sections 19(3) and” substitute “ section ”.
 
-(11)[^key-66d3d894929cc6952ed5f2939fee746a] In section 28C(3) (indemnity cover)—
+(11)[^c-66d3d894929cc6952ed5f2939fee746a] In section 28C(3) (indemnity cover)—
 
-- (a)[^key-06c6c0089fb3d594fb152807c4eb1b4f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-06c6c0089fb3d594fb152807c4eb1b4f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in the definition of “Part II services”, the words “general medical services,” are repealed.
 
-(12)[^key-66d3d894929cc6952ed5f2939fee746a] In section 29A (NHS Tribunal: supplementary), subsection (3A) is repealed.
+(12)[^c-66d3d894929cc6952ed5f2939fee746a] In section 29A (NHS Tribunal: supplementary), subsection (3A) is repealed.
 
-(13)[^key-f730d664405d3422d700f4c25a5521db][^key-66d3d894929cc6952ed5f2939fee746a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(13)[^c-f730d664405d3422d700f4c25a5521db][^c-66d3d894929cc6952ed5f2939fee746a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(14)[^key-db69c3061d971c79ab4425194715a63f][^key-c73582a77a83634b623f664394f39d63] In section 35 (sale of medical practices)—
+(14)[^c-db69c3061d971c79ab4425194715a63f][^c-c73582a77a83634b623f664394f39d63] In section 35 (sale of medical practices)—
 
 - (a) in subsection (1)—
   - (i) in paragraph (a) after “1972 or” insert “ (prior to its repeal) section 19 of ”,
@@ -496,14 +496,14 @@ The schedule makes modifications of enactments in consequence of this Act.
   - (i) after “by arrangement” insert “ or contract ”,
   - (ii) for paragraphs (a) and (b) substitute “ provided or performed services as specified in subsection (1) ”.
 
-(15)[^key-66d3d894929cc6952ed5f2939fee746a] Section 40(2)(vaccination and immunisation) is repealed.
+(15)[^c-66d3d894929cc6952ed5f2939fee746a] Section 40(2)(vaccination and immunisation) is repealed.
 
-(16)[^key-66d3d894929cc6952ed5f2939fee746a] In section 85AA (means of meeting expenditure of Health Boards out of public funds), in subsection (4)—
+(16)[^c-66d3d894929cc6952ed5f2939fee746a] In section 85AA (means of meeting expenditure of Health Boards out of public funds), in subsection (4)—
 
 - (a) in paragraph (a)(ii), for “to (d)” substitute “ or (c) ”,
 - (b) paragraph (d) is repealed.
 
-(17)[^key-66d3d894929cc6952ed5f2939fee746a] In section 108 (interpretation)—
+(17)[^c-66d3d894929cc6952ed5f2939fee746a] In section 108 (interpretation)—
 
 - (a) after the definition of “functions”, insert—
 
@@ -520,7 +520,7 @@ The schedule makes modifications of enactments in consequence of this Act.
 
 ### National Health Service (Primary Care) Act 1997 (c.46)
 
-**2.**[^key-a6998dbd81103832d785be6b6ad6e840] (1) The National Health Service (Primary Care) Act 1997 is amended as follows.
+**2.**[^c-a6998dbd81103832d785be6b6ad6e840] (1) The National Health Service (Primary Care) Act 1997 is amended as follows.
 
 (2) In section 1 (pilot schemes)—
 
@@ -557,7 +557,7 @@ The schedule makes modifications of enactments in consequence of this Act.
 
 ### Community Care and Health (Scotland) Act 2002 (asp 5)
 
-**3.**[^key-49de5bcb3750ae255a3d3c1d6dc7de36] (1) The Community Care and Health (Scotland) Act 2002 is amended as follows.
+**3.**[^c-49de5bcb3750ae255a3d3c1d6dc7de36] (1) The Community Care and Health (Scotland) Act 2002 is amended as follows.
 
 (2) Section 18 (services lists and supplementary lists) is repealed.
 
@@ -568,7 +568,7 @@ The schedule makes modifications of enactments in consequence of this Act.
 
 ### Scottish Public Services Ombudsman Act 2002 (asp 11)
 
-**4.**[^key-4fbef1b4902e9711c623e5eb3b05f0e3] (1) The Scottish Public Services Ombudsman Act 2002 is amended as follows.
+**4.**[^c-4fbef1b4902e9711c623e5eb3b05f0e3] (1) The Scottish Public Services Ombudsman Act 2002 is amended as follows.
 
 (2) In schedule 2 (listed authorities), in paragraph 5—
 
@@ -583,7 +583,7 @@ The schedule makes modifications of enactments in consequence of this Act.
 
 ### Freedom of Information (Scotland) Act 2002 (asp 13)
 
-**5.**[^key-d195832c95e35c268938033cef6ac2b4] In Part 4 (The National Health Service) of schedule 1 (Scottish public authorities) to the Freedom of Information (Scotland) Act 2002—
+**5.**[^c-d195832c95e35c268938033cef6ac2b4] In Part 4 (The National Health Service) of schedule 1 (Scottish public authorities) to the Freedom of Information (Scotland) Act 2002—
 
 - (a) in paragraph 33—
   - (i) for “general medical services,” substitute “ primary medical services under a general medical services contract (within the meaning of the National Health Service (Scotland) Act 1978) or ”,
@@ -592,52 +592,52 @@ The schedule makes modifications of enactments in consequence of this Act.
 
 ## Annotations
 
-[^key-62307e47a73cfd61ef49fc010e983d8d]: Commencement: [S. 1(1)](https://www.legislation.gov.uk/asp/2004/1/section/1/1)[(2)](https://www.legislation.gov.uk/asp/2004/1/section/1/2) in force at 13.2.2004 for specified purposes by [S.S.I. 2004/58](https://www.legislation.gov.uk/ssi/2004/58), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/58/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2004/58/schedule) (with [art. 2(2)](https://www.legislation.gov.uk/ssi/2004/58/article/2/2))
+[^c-62307e47a73cfd61ef49fc010e983d8d]: Commencement: [S. 1(1)](https://www.legislation.gov.uk/asp/2004/1/section/1/1)[(2)](https://www.legislation.gov.uk/asp/2004/1/section/1/2) in force at 13.2.2004 for specified purposes by [S.S.I. 2004/58](https://www.legislation.gov.uk/ssi/2004/58), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/58/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2004/58/schedule) (with [art. 2(2)](https://www.legislation.gov.uk/ssi/2004/58/article/2/2))
 
-[^key-65ee27e384792e3c1ed3c7f707c3ac50]: Commencement: [S. 1(1)](https://www.legislation.gov.uk/asp/2004/1/section/1/1)[(2)](https://www.legislation.gov.uk/asp/2004/1/section/1/2) in force at 1.4.2004 in so far as not already in force by [S.S.I. 2004/58](https://www.legislation.gov.uk/ssi/2004/58), [art. 2(3)](https://www.legislation.gov.uk/ssi/2004/58/article/2/3)
+[^c-65ee27e384792e3c1ed3c7f707c3ac50]: Commencement: [S. 1(1)](https://www.legislation.gov.uk/asp/2004/1/section/1/1)[(2)](https://www.legislation.gov.uk/asp/2004/1/section/1/2) in force at 1.4.2004 in so far as not already in force by [S.S.I. 2004/58](https://www.legislation.gov.uk/ssi/2004/58), [art. 2(3)](https://www.legislation.gov.uk/ssi/2004/58/article/2/3)
 
-[^key-9849a54f5b0f254cdae44ae89e9de6d7]: Commencement: [S. 1(3)](https://www.legislation.gov.uk/asp/2004/1/section/1/3) in force at 1.4.2004 by [S.S.I. 2004/58](https://www.legislation.gov.uk/ssi/2004/58), [art. 2(3)](https://www.legislation.gov.uk/ssi/2004/58/article/2/3)
+[^c-9849a54f5b0f254cdae44ae89e9de6d7]: Commencement: [S. 1(3)](https://www.legislation.gov.uk/asp/2004/1/section/1/3) in force at 1.4.2004 by [S.S.I. 2004/58](https://www.legislation.gov.uk/ssi/2004/58), [art. 2(3)](https://www.legislation.gov.uk/ssi/2004/58/article/2/3)
 
-[^key-7d5487716b1bf73598753b8b72447e47]: Commencement: S. 2(1)-(4) in force at 13.2.2004 for specified purposes by [S.S.I. 2004/58](https://www.legislation.gov.uk/ssi/2004/58), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/58/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2004/58/schedule) (with [art. 2(2)](https://www.legislation.gov.uk/ssi/2004/58/article/2/2))
+[^c-7d5487716b1bf73598753b8b72447e47]: Commencement: S. 2(1)-(4) in force at 13.2.2004 for specified purposes by [S.S.I. 2004/58](https://www.legislation.gov.uk/ssi/2004/58), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/58/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2004/58/schedule) (with [art. 2(2)](https://www.legislation.gov.uk/ssi/2004/58/article/2/2))
 
-[^key-9fba59a5cce86fe40ec18b12b175e9ad]: Commencement: S. 2(1)-(4) in force at 1.4.2004 in so far as not already in force by [S.S.I. 2004/58](https://www.legislation.gov.uk/ssi/2004/58), [art. 2(3)](https://www.legislation.gov.uk/ssi/2004/58/article/2/3)
+[^c-9fba59a5cce86fe40ec18b12b175e9ad]: Commencement: S. 2(1)-(4) in force at 1.4.2004 in so far as not already in force by [S.S.I. 2004/58](https://www.legislation.gov.uk/ssi/2004/58), [art. 2(3)](https://www.legislation.gov.uk/ssi/2004/58/article/2/3)
 
-[^key-0d2fc5737e327cf15d09225ed803bb54]: Textual amendment: [S. 2(3)(c)](https://www.legislation.gov.uk/asp/2004/1/section/2/3/c) repealed (3.3.2010) by [Tobacco and Primary Medical Services (Scotland) Act 2010 (asp 3)](https://www.legislation.gov.uk/asp/2010/3), [s. 43(2)](https://www.legislation.gov.uk/asp/2010/3/section/43/2), [Sch. 2 para. 7](https://www.legislation.gov.uk/asp/2010/3/schedule/2/paragraph/7)
+[^c-0d2fc5737e327cf15d09225ed803bb54]: Textual amendment: [S. 2(3)(c)](https://www.legislation.gov.uk/asp/2004/1/section/2/3/c) repealed (3.3.2010) by [Tobacco and Primary Medical Services (Scotland) Act 2010 (asp 3)](https://www.legislation.gov.uk/asp/2010/3), [s. 43(2)](https://www.legislation.gov.uk/asp/2010/3/section/43/2), [Sch. 2 para. 7](https://www.legislation.gov.uk/asp/2010/3/schedule/2/paragraph/7)
 
-[^key-1d234d007acd6b2f724142b1c8a3f0b2]: Commencement: S. 2(5) in force at 1.4.2004 by [S.S.I. 2004/58](https://www.legislation.gov.uk/ssi/2004/58), [art. 2(3)](https://www.legislation.gov.uk/ssi/2004/58/article/2/3)
+[^c-1d234d007acd6b2f724142b1c8a3f0b2]: Commencement: S. 2(5) in force at 1.4.2004 by [S.S.I. 2004/58](https://www.legislation.gov.uk/ssi/2004/58), [art. 2(3)](https://www.legislation.gov.uk/ssi/2004/58/article/2/3)
 
-[^key-9d9f96c71cdda312ef25c4ebb800e630]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2004/1/section/3) in force at 1.4.2004 by [S.S.I. 2004/58](https://www.legislation.gov.uk/ssi/2004/58), [art. 2(3)](https://www.legislation.gov.uk/ssi/2004/58/article/2/3)
+[^c-9d9f96c71cdda312ef25c4ebb800e630]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2004/1/section/3) in force at 1.4.2004 by [S.S.I. 2004/58](https://www.legislation.gov.uk/ssi/2004/58), [art. 2(3)](https://www.legislation.gov.uk/ssi/2004/58/article/2/3)
 
-[^key-32d9ccfd3ec404a9072939e339f6694a]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2004/1/section/4) in force at 13.2.2004 for specified purposes by [S.S.I. 2004/58](https://www.legislation.gov.uk/ssi/2004/58), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/58/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2004/58/schedule) (with [art. 2(2)](https://www.legislation.gov.uk/ssi/2004/58/article/2/2))
+[^c-32d9ccfd3ec404a9072939e339f6694a]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2004/1/section/4) in force at 13.2.2004 for specified purposes by [S.S.I. 2004/58](https://www.legislation.gov.uk/ssi/2004/58), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/58/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2004/58/schedule) (with [art. 2(2)](https://www.legislation.gov.uk/ssi/2004/58/article/2/2))
 
-[^key-f99b19da859e056e343402144b0498ac]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2004/1/section/4) in force at 1.4.2004 in so far as not already in force by [S.S.I. 2004/58](https://www.legislation.gov.uk/ssi/2004/58), [art. 2(3)](https://www.legislation.gov.uk/ssi/2004/58/article/2/3)
+[^c-f99b19da859e056e343402144b0498ac]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2004/1/section/4) in force at 1.4.2004 in so far as not already in force by [S.S.I. 2004/58](https://www.legislation.gov.uk/ssi/2004/58), [art. 2(3)](https://www.legislation.gov.uk/ssi/2004/58/article/2/3)
 
-[^key-d07b1c7833e965c71f862e3cdcb5a027]: Commencement: S. 5 in force at 13.2.2004 for specified purposes by [S.S.I. 2004/58](https://www.legislation.gov.uk/ssi/2004/58), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/58/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2004/58/schedule) (with [art. 2(2)](https://www.legislation.gov.uk/ssi/2004/58/article/2/2))
+[^c-d07b1c7833e965c71f862e3cdcb5a027]: Commencement: S. 5 in force at 13.2.2004 for specified purposes by [S.S.I. 2004/58](https://www.legislation.gov.uk/ssi/2004/58), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/58/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2004/58/schedule) (with [art. 2(2)](https://www.legislation.gov.uk/ssi/2004/58/article/2/2))
 
-[^key-167a5e7385da7faf94d0c4ac4788adee]: Commencement: S. 5 in force at 1.4.2004 in so far as not already in force by [S.S.I. 2004/58](https://www.legislation.gov.uk/ssi/2004/58), [art. 2(3)](https://www.legislation.gov.uk/ssi/2004/58/article/2/3)
+[^c-167a5e7385da7faf94d0c4ac4788adee]: Commencement: S. 5 in force at 1.4.2004 in so far as not already in force by [S.S.I. 2004/58](https://www.legislation.gov.uk/ssi/2004/58), [art. 2(3)](https://www.legislation.gov.uk/ssi/2004/58/article/2/3)
 
-[^key-fe18cc9e505cfeac9a773f759956fde0]: Textual amendment: [S. 5(3)(a)](https://www.legislation.gov.uk/asp/2004/1/section/5/3/a) repealed (1.4.2006) by [Smoking, Health and Social Care (Scotland) Act 2005 (asp 13)](https://www.legislation.gov.uk/asp/2005/13), [s. 43(3)](https://www.legislation.gov.uk/asp/2005/13/section/43/3), [Sch. 3](https://www.legislation.gov.uk/asp/2005/13/schedule/3); [S.S.I. 2006/121](https://www.legislation.gov.uk/ssi/2006/121), [art. 3(b)](https://www.legislation.gov.uk/ssi/2006/121/article/3/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2006/121/schedule/2)
+[^c-fe18cc9e505cfeac9a773f759956fde0]: Textual amendment: [S. 5(3)(a)](https://www.legislation.gov.uk/asp/2004/1/section/5/3/a) repealed (1.4.2006) by [Smoking, Health and Social Care (Scotland) Act 2005 (asp 13)](https://www.legislation.gov.uk/asp/2005/13), [s. 43(3)](https://www.legislation.gov.uk/asp/2005/13/section/43/3), [Sch. 3](https://www.legislation.gov.uk/asp/2005/13/schedule/3); [S.S.I. 2006/121](https://www.legislation.gov.uk/ssi/2006/121), [art. 3(b)](https://www.legislation.gov.uk/ssi/2006/121/article/3/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2006/121/schedule/2)
 
-[^key-5b0151e1c72a670fb69b08cb90877432]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2004/1/section/6) in force at 1.4.2004 by [S.S.I. 2004/58](https://www.legislation.gov.uk/ssi/2004/58), [art. 2(3)](https://www.legislation.gov.uk/ssi/2004/58/article/2/3)
+[^c-5b0151e1c72a670fb69b08cb90877432]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2004/1/section/6) in force at 1.4.2004 by [S.S.I. 2004/58](https://www.legislation.gov.uk/ssi/2004/58), [art. 2(3)](https://www.legislation.gov.uk/ssi/2004/58/article/2/3)
 
-[^key-36dca7f91f44e4ccb4b6292f93bcf1e2]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2004/1/section/8) in force at 13.2.2004 for specified purposes by [S.S.I. 2004/58](https://www.legislation.gov.uk/ssi/2004/58), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/58/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2004/58/schedule) (with [art. 2(2)](https://www.legislation.gov.uk/ssi/2004/58/article/2/2))
+[^c-36dca7f91f44e4ccb4b6292f93bcf1e2]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2004/1/section/8) in force at 13.2.2004 for specified purposes by [S.S.I. 2004/58](https://www.legislation.gov.uk/ssi/2004/58), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/58/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2004/58/schedule) (with [art. 2(2)](https://www.legislation.gov.uk/ssi/2004/58/article/2/2))
 
-[^key-7799b01753979a1feb2f0e84bb60457b]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2004/1/section/8) in force at 1.4.2004 in so far as not already in force by [S.S.I. 2004/58](https://www.legislation.gov.uk/ssi/2004/58), [art. 2(3)](https://www.legislation.gov.uk/ssi/2004/58/article/2/3)
+[^c-7799b01753979a1feb2f0e84bb60457b]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2004/1/section/8) in force at 1.4.2004 in so far as not already in force by [S.S.I. 2004/58](https://www.legislation.gov.uk/ssi/2004/58), [art. 2(3)](https://www.legislation.gov.uk/ssi/2004/58/article/2/3)
 
-[^key-db69c3061d971c79ab4425194715a63f]: Commencement: Sch. para. 1(1)(14) in force at 13.2.2004 for specified purposes by [S.S.I. 2004/58](https://www.legislation.gov.uk/ssi/2004/58), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/58/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2004/58/schedule) (with [art. 2(2)](https://www.legislation.gov.uk/ssi/2004/58/article/2/2))
+[^c-db69c3061d971c79ab4425194715a63f]: Commencement: Sch. para. 1(1)(14) in force at 13.2.2004 for specified purposes by [S.S.I. 2004/58](https://www.legislation.gov.uk/ssi/2004/58), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/58/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2004/58/schedule) (with [art. 2(2)](https://www.legislation.gov.uk/ssi/2004/58/article/2/2))
 
-[^key-c73582a77a83634b623f664394f39d63]: Commencement: Sch. para. 1(1)(14) in force at 1.4.2004 in so far as not already in force by [S.S.I. 2004/58](https://www.legislation.gov.uk/ssi/2004/58), [art. 2(3)](https://www.legislation.gov.uk/ssi/2004/58/article/2/3)
+[^c-c73582a77a83634b623f664394f39d63]: Commencement: Sch. para. 1(1)(14) in force at 1.4.2004 in so far as not already in force by [S.S.I. 2004/58](https://www.legislation.gov.uk/ssi/2004/58), [art. 2(3)](https://www.legislation.gov.uk/ssi/2004/58/article/2/3)
 
-[^key-66d3d894929cc6952ed5f2939fee746a]: Commencement: Sch. para. 1(2)-(13)(15)-(17)in force at 1.4.2004 by [S.S.I. 2004/58](https://www.legislation.gov.uk/ssi/2004/58), [art. 2(3)](https://www.legislation.gov.uk/ssi/2004/58/article/2/3)
+[^c-66d3d894929cc6952ed5f2939fee746a]: Commencement: Sch. para. 1(2)-(13)(15)-(17)in force at 1.4.2004 by [S.S.I. 2004/58](https://www.legislation.gov.uk/ssi/2004/58), [art. 2(3)](https://www.legislation.gov.uk/ssi/2004/58/article/2/3)
 
-[^key-06c6c0089fb3d594fb152807c4eb1b4f]: Textual amendment: [Sch. para. 1(11)(a)](https://www.legislation.gov.uk/asp/2004/1/schedule/paragraph/1/11/a) repealed (1.4.2006) by [Smoking, Health and Social Care (Scotland) Act 2005 (asp 13)](https://www.legislation.gov.uk/asp/2005/13), [s. 43(3)](https://www.legislation.gov.uk/asp/2005/13/section/43/3), [Sch. 3](https://www.legislation.gov.uk/asp/2005/13/schedule/3); [S.S.I. 2006/121](https://www.legislation.gov.uk/ssi/2006/121), [art. 3(b)](https://www.legislation.gov.uk/ssi/2006/121/article/3/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2006/121/schedule/2)
+[^c-06c6c0089fb3d594fb152807c4eb1b4f]: Textual amendment: [Sch. para. 1(11)(a)](https://www.legislation.gov.uk/asp/2004/1/schedule/paragraph/1/11/a) repealed (1.4.2006) by [Smoking, Health and Social Care (Scotland) Act 2005 (asp 13)](https://www.legislation.gov.uk/asp/2005/13), [s. 43(3)](https://www.legislation.gov.uk/asp/2005/13/section/43/3), [Sch. 3](https://www.legislation.gov.uk/asp/2005/13/schedule/3); [S.S.I. 2006/121](https://www.legislation.gov.uk/ssi/2006/121), [art. 3(b)](https://www.legislation.gov.uk/ssi/2006/121/article/3/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2006/121/schedule/2)
 
-[^key-f730d664405d3422d700f4c25a5521db]: Textual amendment: [Sch. para. 1(13)](https://www.legislation.gov.uk/asp/2004/1/schedule/paragraph/1/13) repealed (1.4.2006) by [Smoking, Health and Social Care (Scotland) Act 2005 (asp 13)](https://www.legislation.gov.uk/asp/2005/13), [s. 43(3)](https://www.legislation.gov.uk/asp/2005/13/section/43/3), [Sch. 3](https://www.legislation.gov.uk/asp/2005/13/schedule/3); [S.S.I. 2006/121](https://www.legislation.gov.uk/ssi/2006/121), [art. 3(b)](https://www.legislation.gov.uk/ssi/2006/121/article/3/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2006/121/schedule/2)
+[^c-f730d664405d3422d700f4c25a5521db]: Textual amendment: [Sch. para. 1(13)](https://www.legislation.gov.uk/asp/2004/1/schedule/paragraph/1/13) repealed (1.4.2006) by [Smoking, Health and Social Care (Scotland) Act 2005 (asp 13)](https://www.legislation.gov.uk/asp/2005/13), [s. 43(3)](https://www.legislation.gov.uk/asp/2005/13/section/43/3), [Sch. 3](https://www.legislation.gov.uk/asp/2005/13/schedule/3); [S.S.I. 2006/121](https://www.legislation.gov.uk/ssi/2006/121), [art. 3(b)](https://www.legislation.gov.uk/ssi/2006/121/article/3/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2006/121/schedule/2)
 
-[^key-a6998dbd81103832d785be6b6ad6e840]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/asp/2004/1/schedule/paragraph/2) in force at 1.4.2004 by [S.S.I. 2004/58](https://www.legislation.gov.uk/ssi/2004/58), [art. 2(3)](https://www.legislation.gov.uk/ssi/2004/58/article/2/3)
+[^c-a6998dbd81103832d785be6b6ad6e840]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/asp/2004/1/schedule/paragraph/2) in force at 1.4.2004 by [S.S.I. 2004/58](https://www.legislation.gov.uk/ssi/2004/58), [art. 2(3)](https://www.legislation.gov.uk/ssi/2004/58/article/2/3)
 
-[^key-49de5bcb3750ae255a3d3c1d6dc7de36]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/asp/2004/1/schedule/paragraph/3) in force at 1.4.2004 by [S.S.I. 2004/58](https://www.legislation.gov.uk/ssi/2004/58), [art. 2(3)](https://www.legislation.gov.uk/ssi/2004/58/article/2/3)
+[^c-49de5bcb3750ae255a3d3c1d6dc7de36]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/asp/2004/1/schedule/paragraph/3) in force at 1.4.2004 by [S.S.I. 2004/58](https://www.legislation.gov.uk/ssi/2004/58), [art. 2(3)](https://www.legislation.gov.uk/ssi/2004/58/article/2/3)
 
-[^key-4fbef1b4902e9711c623e5eb3b05f0e3]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/asp/2004/1/schedule/paragraph/4) in force at 1.4.2004 by [S.S.I. 2004/58](https://www.legislation.gov.uk/ssi/2004/58), [art. 2(3)](https://www.legislation.gov.uk/ssi/2004/58/article/2/3)
+[^c-4fbef1b4902e9711c623e5eb3b05f0e3]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/asp/2004/1/schedule/paragraph/4) in force at 1.4.2004 by [S.S.I. 2004/58](https://www.legislation.gov.uk/ssi/2004/58), [art. 2(3)](https://www.legislation.gov.uk/ssi/2004/58/article/2/3)
 
-[^key-d195832c95e35c268938033cef6ac2b4]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/asp/2004/1/schedule/paragraph/5) in force at 1.4.2004 by [S.S.I. 2004/58](https://www.legislation.gov.uk/ssi/2004/58), [art. 2(3)](https://www.legislation.gov.uk/ssi/2004/58/article/2/3)
+[^c-d195832c95e35c268938033cef6ac2b4]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/asp/2004/1/schedule/paragraph/5) in force at 1.4.2004 by [S.S.I. 2004/58](https://www.legislation.gov.uk/ssi/2004/58), [art. 2(3)](https://www.legislation.gov.uk/ssi/2004/58/article/2/3)

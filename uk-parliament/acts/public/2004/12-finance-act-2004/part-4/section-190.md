@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 190. Annual limit for relief[^key-3cba012a4a94ee5b8b02faf84f94e9e9]
+## 190. Annual limit for relief[^c-3cba012a4a94ee5b8b02faf84f94e9e9]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,10 +33,10 @@ summary: ''
 
 (4) “The basic amount” is £3,600 or such greater amount as the Treasury may by order specify.
 
-(5)[^key-f61ff72d71f50f52e20e559d9e6b115d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-f61ff72d71f50f52e20e559d9e6b115d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3cba012a4a94ee5b8b02faf84f94e9e9]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see [s. 284](https://www.legislation.gov.uk/ukpga/2004/12/section/284)
+[^c-3cba012a4a94ee5b8b02faf84f94e9e9]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see [s. 284](https://www.legislation.gov.uk/ukpga/2004/12/section/284)
 
-[^key-f61ff72d71f50f52e20e559d9e6b115d]: Textual amendment: S. 190(5) omitted (retrospective to 6.4.2013) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 52(4)](https://www.legislation.gov.uk/ukpga/2013/29/section/52/4)[(10)](https://www.legislation.gov.uk/ukpga/2013/29/section/52/10)
+[^c-f61ff72d71f50f52e20e559d9e6b115d]: Textual amendment: S. 190(5) omitted (retrospective to 6.4.2013) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 52(4)](https://www.legislation.gov.uk/ukpga/2013/29/section/52/4)[(10)](https://www.legislation.gov.uk/ukpga/2013/29/section/52/10)

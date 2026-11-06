@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 24 — TITANIUM DIOXIDE ACTIVITIES[^key-377dbc5084af46263b6cadb5ac68f77c]
+## SCHEDULE 24 — TITANIUM DIOXIDE ACTIVITIES[^c-377dbc5084af46263b6cadb5ac68f77c]
 
 *Extent: S*
 
@@ -111,4 +111,4 @@ SEPA must ensure that an authorisation for a titanium dioxide activity includes 
 
 ## Annotations
 
-[^key-377dbc5084af46263b6cadb5ac68f77c]: Textual amendment: [Sch. 24](https://www.legislation.gov.uk/ssi/2018/219/schedule/24) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 15](https://www.legislation.gov.uk/ssi/2025/165/schedule/15) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-377dbc5084af46263b6cadb5ac68f77c]: Textual amendment: [Sch. 24](https://www.legislation.gov.uk/ssi/2018/219/schedule/24) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 15](https://www.legislation.gov.uk/ssi/2025/165/schedule/15) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2C — Critical-industry goods and critical-industry technology[^key-623e44a474bb052ad5d51ce71208019a]
+## SCHEDULE 2C — Critical-industry goods and critical-industry technology[^c-623e44a474bb052ad5d51ce71208019a]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ Regulation 20(3)
 
 (2) In this Schedule, defined terms are printed in quotation marks.
 
-(2A)[^key-536de827d1b300c10cb790baef750869] In this Schedule a thing “falls within” a commodity code if it is, or would be, classified under that commodity code, as set out in the Goods Classification Table.
+(2A)[^c-536de827d1b300c10cb790baef750869] In this Schedule a thing “falls within” a commodity code if it is, or would be, classified under that commodity code, as set out in the Goods Classification Table.
 
 (2B) For the purposes of this Schedule—
 
@@ -266,7 +266,7 @@ Table 1
 </tbody>
 </table>
 
-Any thing that falls within the following commodity codes—[^key-aba438a5c91e42db9461f1bc421ccf1c]
+Any thing that falls within the following commodity codes—[^c-aba438a5c91e42db9461f1bc421ccf1c]
 
 | Commodity Code | Description |
 | --- | --- |
@@ -555,7 +555,7 @@ Any thing that falls within the following commodity codes—[^key-aba438a5c91e42
 | **7D994 “Software” for the “development”, “production”, or “use” of navigation, airborne communication and other avionics.** |
 | **7E994 “Technology” for the “development,” “production” or “use” of navigation, airborne communication, and other avionics equipment.** |
 
-Any thing falling within—[^key-4bbc82800a6f9597847b9806e7deb223]
+Any thing falling within—[^c-4bbc82800a6f9597847b9806e7deb223]
 
 - (a) a commodity code mentioned in column 1 of the following table, and
 - (b) the description in column 2 corresponding to that code.
@@ -596,7 +596,7 @@ Any thing falling within—[^key-4bbc82800a6f9597847b9806e7deb223]
 
 ### PART 8 — Aerospace and Propulsion
 
-Any thing falling within—[^key-7482d0ec08d7cef9c24105108deaa145]
+Any thing falling within—[^c-7482d0ec08d7cef9c24105108deaa145]
 
 - (a) chapter 88,
 - (b) a commodity code mentioned in column 1 of the following table, and
@@ -651,12 +651,12 @@ Any thing falling within—[^key-7482d0ec08d7cef9c24105108deaa145]
 
 ## Annotations
 
-[^key-623e44a474bb052ad5d51ce71208019a]: Textual amendment: [Sch. 2C](https://www.legislation.gov.uk/uksi/2019/600/schedule/2C) inserted (5.7.2022) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2022 (S.I. 2022/748)](https://www.legislation.gov.uk/uksi/2022/748), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/748/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/748/schedule)
+[^c-623e44a474bb052ad5d51ce71208019a]: Textual amendment: [Sch. 2C](https://www.legislation.gov.uk/uksi/2019/600/schedule/2C) inserted (5.7.2022) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2022 (S.I. 2022/748)](https://www.legislation.gov.uk/uksi/2022/748), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/748/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/748/schedule)
 
-[^key-536de827d1b300c10cb790baef750869]: Textual amendment: [Sch. 2C para. 1(2A)](https://www.legislation.gov.uk/uksi/2019/600/schedule/2C/paragraph/1/2A)[(2B)](https://www.legislation.gov.uk/uksi/2019/600/schedule/2C/paragraph/1/2B) inserted (16.5.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/643)](https://www.legislation.gov.uk/uksi/2024/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/643/regulation/1/2), [4(22)(a)](https://www.legislation.gov.uk/uksi/2024/643/regulation/4/22/a)
+[^c-536de827d1b300c10cb790baef750869]: Textual amendment: [Sch. 2C para. 1(2A)](https://www.legislation.gov.uk/uksi/2019/600/schedule/2C/paragraph/1/2A)[(2B)](https://www.legislation.gov.uk/uksi/2019/600/schedule/2C/paragraph/1/2B) inserted (16.5.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/643)](https://www.legislation.gov.uk/uksi/2024/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/643/regulation/1/2), [4(22)(a)](https://www.legislation.gov.uk/uksi/2024/643/regulation/4/22/a)
 
-[^key-aba438a5c91e42db9461f1bc421ccf1c]: Textual amendment: Words in [Sch. 2C Pt. 2](https://www.legislation.gov.uk/uksi/2019/600/schedule/2C/part/2) inserted (16.5.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/643)](https://www.legislation.gov.uk/uksi/2024/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/643/regulation/1/2), [4(22)(b)](https://www.legislation.gov.uk/uksi/2024/643/regulation/4/22/b)
+[^c-aba438a5c91e42db9461f1bc421ccf1c]: Textual amendment: Words in [Sch. 2C Pt. 2](https://www.legislation.gov.uk/uksi/2019/600/schedule/2C/part/2) inserted (16.5.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/643)](https://www.legislation.gov.uk/uksi/2024/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/643/regulation/1/2), [4(22)(b)](https://www.legislation.gov.uk/uksi/2024/643/regulation/4/22/b)
 
-[^key-4bbc82800a6f9597847b9806e7deb223]: Textual amendment: Words in [Sch. 2C Pt. 6](https://www.legislation.gov.uk/uksi/2019/600/schedule/2C/part/6) inserted (16.5.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/643)](https://www.legislation.gov.uk/uksi/2024/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/643/regulation/1/2), [4(22)(c)](https://www.legislation.gov.uk/uksi/2024/643/regulation/4/22/c)
+[^c-4bbc82800a6f9597847b9806e7deb223]: Textual amendment: Words in [Sch. 2C Pt. 6](https://www.legislation.gov.uk/uksi/2019/600/schedule/2C/part/6) inserted (16.5.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/643)](https://www.legislation.gov.uk/uksi/2024/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/643/regulation/1/2), [4(22)(c)](https://www.legislation.gov.uk/uksi/2024/643/regulation/4/22/c)
 
-[^key-7482d0ec08d7cef9c24105108deaa145]: Textual amendment: Words in [Sch. 2C Pt. 8](https://www.legislation.gov.uk/uksi/2019/600/schedule/2C/part/8) inserted (16.5.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/643)](https://www.legislation.gov.uk/uksi/2024/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/643/regulation/1/2), [4(22)(d)](https://www.legislation.gov.uk/uksi/2024/643/regulation/4/22/d)
+[^c-7482d0ec08d7cef9c24105108deaa145]: Textual amendment: Words in [Sch. 2C Pt. 8](https://www.legislation.gov.uk/uksi/2019/600/schedule/2C/part/8) inserted (16.5.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/643)](https://www.legislation.gov.uk/uksi/2024/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/643/regulation/1/2), [4(22)(d)](https://www.legislation.gov.uk/uksi/2024/643/regulation/4/22/d)

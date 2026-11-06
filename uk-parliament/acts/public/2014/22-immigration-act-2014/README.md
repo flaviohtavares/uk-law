@@ -34,7 +34,7 @@ An Act to make provision about immigration law; to limit, or otherwise make prov
 
 \[14th May 2014\]
 
-Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-920c1f88f5f72d6ff07493233eef3152][^key-a001d055023e28e0eeaa59c33792fed6][^key-94366b471fefc24a38d7d8e835dacb5a]
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-920c1f88f5f72d6ff07493233eef3152][^c-a001d055023e28e0eeaa59c33792fed6][^c-94366b471fefc24a38d7d8e835dacb5a]
 
 ## Contents
 
@@ -108,13 +108,13 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 32 — General matters](part-3/section-32.md)
 - [Section 33 — Discrimination](part-3/section-33.md)
 
-##### Offences[^key-e1ec1ed99dced66182bdb645cdb14186]
+##### Offences[^c-e1ec1ed99dced66182bdb645cdb14186]
 
 - [Section 33A — Offences: landlords](part-3/section-33a.md)
 - [Section 33B — Offences: agents](part-3/section-33b.md)
 - [Section 33C — Offences: penalties etc](part-3/section-33c.md)
 
-##### Eviction[^key-31348d22a84da1247d546219edc7642a]
+##### Eviction[^c-31348d22a84da1247d546219edc7642a]
 
 *Extent: E+W+S+N.I.*
 
@@ -261,12 +261,12 @@ SCHEDULES
 
 ## Annotations
 
-[^key-920c1f88f5f72d6ff07493233eef3152]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2014/22) extended in part (Jersey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Jersey) Order 2021 (S.I. 2021/1281)](https://www.legislation.gov.uk/uksi/2021/1281), [art. 12](https://www.legislation.gov.uk/uksi/2021/1281/article/12), [Sch. 10](https://www.legislation.gov.uk/uksi/2021/1281/schedule/10), [Sch. 10A](https://www.legislation.gov.uk/uksi/2021/1281/schedule/10A) (with [art. 16](https://www.legislation.gov.uk/uksi/2021/1281/article/16))
+[^c-920c1f88f5f72d6ff07493233eef3152]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2014/22) extended in part (Jersey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Jersey) Order 2021 (S.I. 2021/1281)](https://www.legislation.gov.uk/uksi/2021/1281), [art. 12](https://www.legislation.gov.uk/uksi/2021/1281/article/12), [Sch. 10](https://www.legislation.gov.uk/uksi/2021/1281/schedule/10), [Sch. 10A](https://www.legislation.gov.uk/uksi/2021/1281/schedule/10A) (with [art. 16](https://www.legislation.gov.uk/uksi/2021/1281/article/16))
 
-[^key-a001d055023e28e0eeaa59c33792fed6]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2014/22): power to amend conferred (28.4.2022 for specified purposes, 28.6.2022 in so far as not already in force) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 82(1)(2)(n)(3)-(6)](https://www.legislation.gov.uk/ukpga/2022/36/section/82/2/n), [87(1)(4)(i)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 29](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/29)
+[^c-a001d055023e28e0eeaa59c33792fed6]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2014/22): power to amend conferred (28.4.2022 for specified purposes, 28.6.2022 in so far as not already in force) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 82(1)(2)(n)(3)-(6)](https://www.legislation.gov.uk/ukpga/2022/36/section/82/2/n), [87(1)(4)(i)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 29](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/29)
 
-[^key-94366b471fefc24a38d7d8e835dacb5a]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2014/22) excluded (25.4.2024) by [Safety of Rwanda (Asylum and Immigration) Act 2024 (c. 8)](https://www.legislation.gov.uk/ukpga/2024/8), [ss. 2(5)(a)](https://www.legislation.gov.uk/ukpga/2024/8/section/2/5/a), [5](https://www.legislation.gov.uk/ukpga/2024/8/section/5), [10(1)](https://www.legislation.gov.uk/ukpga/2024/8/section/10/1) (with [ss. 4](https://www.legislation.gov.uk/ukpga/2024/8/section/4), [10(2)](https://www.legislation.gov.uk/ukpga/2024/8/section/10/2))
+[^c-94366b471fefc24a38d7d8e835dacb5a]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2014/22) excluded (25.4.2024) by [Safety of Rwanda (Asylum and Immigration) Act 2024 (c. 8)](https://www.legislation.gov.uk/ukpga/2024/8), [ss. 2(5)(a)](https://www.legislation.gov.uk/ukpga/2024/8/section/2/5/a), [5](https://www.legislation.gov.uk/ukpga/2024/8/section/5), [10(1)](https://www.legislation.gov.uk/ukpga/2024/8/section/10/1) (with [ss. 4](https://www.legislation.gov.uk/ukpga/2024/8/section/4), [10(2)](https://www.legislation.gov.uk/ukpga/2024/8/section/10/2))
 
-[^key-e1ec1ed99dced66182bdb645cdb14186]: Textual amendment: Ss. 33A-33C and cross-heading inserted (1.11.2016 for specified purposes, 1.12.2016 in so far as not already in force) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [ss. 39(2)](https://www.legislation.gov.uk/ukpga/2016/19/section/39/2), [94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/2/a), [5(c)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/c)
+[^c-e1ec1ed99dced66182bdb645cdb14186]: Textual amendment: Ss. 33A-33C and cross-heading inserted (1.11.2016 for specified purposes, 1.12.2016 in so far as not already in force) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [ss. 39(2)](https://www.legislation.gov.uk/ukpga/2016/19/section/39/2), [94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/2/a), [5(c)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/c)
 
-[^key-31348d22a84da1247d546219edc7642a]: Textual amendment: Ss. 33D, 33E and cross-heading inserted (1.11.2016 for specified purposes, 1.12.2016 in so far as not already in force) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [ss. 40(2)](https://www.legislation.gov.uk/ukpga/2016/19/section/40/2), [94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), regs. 2(a), 5(d)
+[^c-31348d22a84da1247d546219edc7642a]: Textual amendment: Ss. 33D, 33E and cross-heading inserted (1.11.2016 for specified purposes, 1.12.2016 in so far as not already in force) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [ss. 40(2)](https://www.legislation.gov.uk/ukpga/2016/19/section/40/2), [94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), regs. 2(a), 5(d)

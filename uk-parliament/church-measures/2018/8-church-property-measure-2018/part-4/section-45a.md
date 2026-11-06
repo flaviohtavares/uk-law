@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 45A. Power for bishop to act where benefice vacant[^key-1672d5e6a715c8d38ec7ac5c94c6e022]
+## 45A. Power for bishop to act where benefice vacant[^c-1672d5e6a715c8d38ec7ac5c94c6e022]
 
 *Extent: E*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1672d5e6a715c8d38ec7ac5c94c6e022]: Textual amendment: [S. 45A](https://www.legislation.gov.uk/ukcm/2018/8/section/45A) inserted (17.5.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 14(2)](https://www.legislation.gov.uk/ukcm/2024/1/section/14/2), [22(4)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/4); [S.I. 2024/631](https://www.legislation.gov.uk/uksi/2024/631), [art. 2](https://www.legislation.gov.uk/uksi/2024/631/article/2)
+[^c-1672d5e6a715c8d38ec7ac5c94c6e022]: Textual amendment: [S. 45A](https://www.legislation.gov.uk/ukcm/2018/8/section/45A) inserted (17.5.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 14(2)](https://www.legislation.gov.uk/ukcm/2024/1/section/14/2), [22(4)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/4); [S.I. 2024/631](https://www.legislation.gov.uk/uksi/2024/631), [art. 2](https://www.legislation.gov.uk/uksi/2024/631/article/2)

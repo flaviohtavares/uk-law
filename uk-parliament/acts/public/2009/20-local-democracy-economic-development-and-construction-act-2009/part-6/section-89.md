@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Constitution[^key-f7c591411bec9db93a31f0620d993c25]
+## 89. Constitution[^c-f7c591411bec9db93a31f0620d993c25]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f7c591411bec9db93a31f0620d993c25]: Commencement: S. 89 in force at 17.12.2009 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/3318/article/2/a)
+[^c-f7c591411bec9db93a31f0620d993c25]: Commencement: S. 89 in force at 17.12.2009 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/3318/article/2/a)

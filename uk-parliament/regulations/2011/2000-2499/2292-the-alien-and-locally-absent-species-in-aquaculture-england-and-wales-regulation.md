@@ -96,7 +96,7 @@ These Regulations may be cited as the Alien and Locally Absent Species in Aquacu
 - (b) set out the conclusions of the review in a report; and
 - (c) lay the report before Parliament.
 
-(2)[^key-efb9af3ebdefae718de8fe64a54707c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-efb9af3ebdefae718de8fe64a54707c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The report must in particular—
 
@@ -135,7 +135,7 @@ These Regulations may be cited as the Alien and Locally Absent Species in Aquacu
 (1) This regulation applies in relation to the proposed movement of—
 
 - (a) an Annex IV species; or
-- (b) a locally absent species from within Great Britain[^key-8c4ddf67393cdf5983cbd75db53b02d4].
+- (b) a locally absent species from within Great Britain[^c-8c4ddf67393cdf5983cbd75db53b02d4].
 
 (2) A person proposing to undertake a movement must notify that proposal to the competent authority in writing.
 
@@ -170,7 +170,7 @@ These Regulations may be cited as the Alien and Locally Absent Species in Aquacu
 
 ### 8. Movement of locally absent species
 
-(1) This regulation applies where the competent authority receives a notification under regulation 6(2) in relation to the proposed movement of a locally absent species from within Great Britain[^key-f86e2e9721240e65663ce5e332162924].
+(1) This regulation applies where the competent authority receives a notification under regulation 6(2) in relation to the proposed movement of a locally absent species from within Great Britain[^c-f86e2e9721240e65663ce5e332162924].
 
 (2) The competent authority must serve written notice on the person proposing to undertake the movement within 90 days of receiving notification informing them whether for the purposes of Article 2(2) of Council Regulation 708/2007 there are grounds for foreseeing environmental threats due to the proposed translocation.
 
@@ -221,7 +221,7 @@ An environmental risk assessment carried out under Article 9(1) of Council Regul
 
 (5) A warrant is valid for three months.
 
-(6)[^key-d241f78a4d41ea460575e9fcd348171d] An inspector entering any land or premises under this regulation may be accompanied by such person, and may enter together with such equipment or vehicle, as the inspector considers necessary for the purposes of this regulation.
+(6)[^c-d241f78a4d41ea460575e9fcd348171d] An inspector entering any land or premises under this regulation may be accompanied by such person, and may enter together with such equipment or vehicle, as the inspector considers necessary for the purposes of this regulation.
 
 (7) An inspector entering any premises which are unoccupied or from which the occupier is temporarily absent must leave them as effectively secured against unauthorised entry as they were before entry.
 
@@ -405,7 +405,7 @@ that officer as well as the body corporate is guilty of the offence and is liabl
 
 ## PART 4 — Miscellaneous
 
-### 25. Disclosure of information[^key-11f7fbe614ad8eda44f8b2ab1abed5d7]
+### 25. Disclosure of information[^c-11f7fbe614ad8eda44f8b2ab1abed5d7]
 
 The competent authority may disclose information to—
 
@@ -468,7 +468,7 @@ The competent authority may disclose information to—
 
 .
 
-### 29. Amendment to the Prohibition of Keeping or Release of Live Fish (Specified Species) Order 1998[^key-29f56760b3ba60a370768eb238f4fa8b]
+### 29. Amendment to the Prohibition of Keeping or Release of Live Fish (Specified Species) Order 1998[^c-29f56760b3ba60a370768eb238f4fa8b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -510,17 +510,17 @@ A full impact assessment has been produced and placed in the library of each Hou
 
 [^c21032471]: Marginal citation: The Welsh zone is specified in [S.I. 2010/760](https://www.legislation.gov.uk/uksi/2010/760).
 
-[^key-efb9af3ebdefae718de8fe64a54707c6]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/uksi/2011/2292/regulation/4/2) omitted (31.12.2020) by virtue of [The Aquatic Animal Health and Alien Species in Aquaculture (Amendment) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/452)](https://www.legislation.gov.uk/uksi/2019/452), [regs. 1](https://www.legislation.gov.uk/uksi/2019/452/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2019/452/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-efb9af3ebdefae718de8fe64a54707c6]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/uksi/2011/2292/regulation/4/2) omitted (31.12.2020) by virtue of [The Aquatic Animal Health and Alien Species in Aquaculture (Amendment) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/452)](https://www.legislation.gov.uk/uksi/2019/452), [regs. 1](https://www.legislation.gov.uk/uksi/2019/452/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2019/452/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8c4ddf67393cdf5983cbd75db53b02d4]: Textual amendment: Words in [reg. 6(1)(b)](https://www.legislation.gov.uk/uksi/2011/2292/regulation/6/1/b) substituted (31.12.2020) by S.I. 2019/452, reg. 3(2A) (as inserted by [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/a), [3(2)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/3/2))
+[^c-8c4ddf67393cdf5983cbd75db53b02d4]: Textual amendment: Words in [reg. 6(1)(b)](https://www.legislation.gov.uk/uksi/2011/2292/regulation/6/1/b) substituted (31.12.2020) by S.I. 2019/452, reg. 3(2A) (as inserted by [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/a), [3(2)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/3/2))
 
 [^c21032481]: Marginal citation: [S.I. 2009/463](https://www.legislation.gov.uk/uksi/2009/463) to which there are amendments not relevant to these Regulations..
 
-[^key-f86e2e9721240e65663ce5e332162924]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/uksi/2011/2292/regulation/8/1) substituted (31.12.2020) by S.I. 2019/452, reg. 3(2A) (as inserted by [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/a), [3(2)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/3/2))
+[^c-f86e2e9721240e65663ce5e332162924]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/uksi/2011/2292/regulation/8/1) substituted (31.12.2020) by S.I. 2019/452, reg. 3(2A) (as inserted by [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/a), [3(2)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/3/2))
 
-[^key-d241f78a4d41ea460575e9fcd348171d]: Textual amendment: [Reg. 12(6)](https://www.legislation.gov.uk/uksi/2011/2292/regulation/12/6) substituted (31.12.2020) by [The Aquatic Animal Health and Alien Species in Aquaculture (Amendment) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/452)](https://www.legislation.gov.uk/uksi/2019/452), [regs. 1](https://www.legislation.gov.uk/uksi/2019/452/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2019/452/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d241f78a4d41ea460575e9fcd348171d]: Textual amendment: [Reg. 12(6)](https://www.legislation.gov.uk/uksi/2011/2292/regulation/12/6) substituted (31.12.2020) by [The Aquatic Animal Health and Alien Species in Aquaculture (Amendment) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/452)](https://www.legislation.gov.uk/uksi/2019/452), [regs. 1](https://www.legislation.gov.uk/uksi/2019/452/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2019/452/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-11f7fbe614ad8eda44f8b2ab1abed5d7]: Textual amendment: Reg. 25 substituted (31.12.2020) by [S.I. 2019/452](https://www.legislation.gov.uk/uksi/2019/452), [reg. 3(4)](https://www.legislation.gov.uk/uksi/2019/452/regulation/3/4) (as inserted by The Aquatic Animal Health and Alien Species in [Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/a), [3(3)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/3/3))
+[^c-11f7fbe614ad8eda44f8b2ab1abed5d7]: Textual amendment: Reg. 25 substituted (31.12.2020) by [S.I. 2019/452](https://www.legislation.gov.uk/uksi/2019/452), [reg. 3(4)](https://www.legislation.gov.uk/uksi/2019/452/regulation/3/4) (as inserted by The Aquatic Animal Health and Alien Species in [Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/a), [3(3)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/3/3))
 
 [^c21032491]: Marginal citation: [1978 c.30](https://www.legislation.gov.uk/ukpga/1978/30).
 
@@ -532,4 +532,4 @@ A full impact assessment has been produced and placed in the library of each Hou
 
 [^c21032531]: Marginal citation: O.J. L 168, 28.6.07 p.1 as last amended by Regulation (EU) No 304/2011, OJ No L 88, 4.4.2011, p. 1.
 
-[^key-29f56760b3ba60a370768eb238f4fa8b]: Textual amendment: Reg. 29 revoked (E.) (17.2.2014) by [The Prohibition of Keeping or Release of Live Fish (Specified Species) (England) Order 2014 (S.I. 2014/143)](https://www.legislation.gov.uk/uksi/2014/143), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/143/article/1/1/b), [4(c)](https://www.legislation.gov.uk/uksi/2014/143/article/4/c) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/143/regulation/1/2)) and reg. 29 revoked (W.) (27.2.2015) by [The Prohibition of Keeping or Release of Live Fish (Specified Species) (Wales) Order 2015 (S.I. 2015/88)](https://www.legislation.gov.uk/wsi/2015/88), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2015/88/article/1/1), [4(c)](https://www.legislation.gov.uk/wsi/2015/88/article/4/c) (with [art. 1(4)](https://www.legislation.gov.uk/wsi/2015/88/article/1/4)[(5)](https://www.legislation.gov.uk/wsi/2015/88/article/1/5))
+[^c-29f56760b3ba60a370768eb238f4fa8b]: Textual amendment: Reg. 29 revoked (E.) (17.2.2014) by [The Prohibition of Keeping or Release of Live Fish (Specified Species) (England) Order 2014 (S.I. 2014/143)](https://www.legislation.gov.uk/uksi/2014/143), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/143/article/1/1/b), [4(c)](https://www.legislation.gov.uk/uksi/2014/143/article/4/c) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/143/regulation/1/2)) and reg. 29 revoked (W.) (27.2.2015) by [The Prohibition of Keeping or Release of Live Fish (Specified Species) (Wales) Order 2015 (S.I. 2015/88)](https://www.legislation.gov.uk/wsi/2015/88), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2015/88/article/1/1), [4(c)](https://www.legislation.gov.uk/wsi/2015/88/article/4/c) (with [art. 1(4)](https://www.legislation.gov.uk/wsi/2015/88/article/1/4)[(5)](https://www.legislation.gov.uk/wsi/2015/88/article/1/5))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 234. Power of planning authority to make tree preservation order[^key-4fffd34c9f6146d8f4d2eb2da308f77f]
+## 234. Power of planning authority to make tree preservation order[^c-4fffd34c9f6146d8f4d2eb2da308f77f]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4fffd34c9f6146d8f4d2eb2da308f77f]: Commencement: S. 234 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-4fffd34c9f6146d8f4d2eb2da308f77f]: Commencement: S. 234 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 88. Notification and advertisement of appointment of replacement energy administrator[^key-7d279c81c46bc184baf878f557b32d6b]
+## 88. Notification and advertisement of appointment of replacement energy administrator[^c-7d279c81c46bc184baf878f557b32d6b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where a replacement energy administrator is appointed, the same provisions apply
 
 ## Annotations
 
-[^key-7d279c81c46bc184baf878f557b32d6b]: Commencement: Rule 88 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-7d279c81c46bc184baf878f557b32d6b]: Commencement: Rule 88 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

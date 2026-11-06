@@ -43,11 +43,11 @@ Coming into operation
 
 The Department for Communities[^f00001] makes the following Regulations in exercise of the powers conferred by sections 78(3) and 171(1), (3) and (4) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00002].
 
-## 1. Citation and commencement[^key-4fc936dc6be67e56f6c58dacc703f49a]
+## 1. Citation and commencement[^c-4fc936dc6be67e56f6c58dacc703f49a]
 
 These Regulations may be cited as the Social Security (Widow’s Benefit and Retirement Pensions) (Amendment) Regulations (Northern Ireland) 2023 and shall come into operation on 31st December 2023.
 
-## 2. Amendment of the Social Security (Widow’s Benefit and Retirement Pensions) Regulations[^key-b0afb5ebfec435d9a7c148e24dc24b21]
+## 2. Amendment of the Social Security (Widow’s Benefit and Retirement Pensions) Regulations[^c-b0afb5ebfec435d9a7c148e24dc24b21]
 
 In regulation 10 of the Social Security (Widow’s Benefit and Retirement Pensions) Regulations (Northern Ireland) 1979[^f00003] (conditions for an entitlement to a Category D retirement pension)—
 
@@ -88,9 +88,9 @@ Regulation 10 is amended so that the condition of residence on that date does no
 
 [^f00002]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7). See section 121(1) of this Act for the definition of “prescribe”. Section 78(3) is amended by paragraph 69 of Schedule 12 to the Pensions Act (Northern Ireland) [2015 (c. 5)](https://www.legislation.gov.uk/ukpga/2015/5). Section 171 is amended by paragraph 5 of Schedule 4 to the Tax Credits Act [2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21)
 
-[^key-4fc936dc6be67e56f6c58dacc703f49a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2023/192/regulation/1) in operation at 31.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/192/regulation/1)
+[^c-4fc936dc6be67e56f6c58dacc703f49a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2023/192/regulation/1) in operation at 31.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/192/regulation/1)
 
-[^key-b0afb5ebfec435d9a7c148e24dc24b21]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2023/192/regulation/2) in operation at 31.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/192/regulation/1)
+[^c-b0afb5ebfec435d9a7c148e24dc24b21]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2023/192/regulation/2) in operation at 31.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/192/regulation/1)
 
 [^f00003]: Footnote: [S.R. 1979 No. 243](https://www.legislation.gov.uk/nisr/1979/243); regulation 10(a) was substituted by regulation 2 of [S.R. 1984 No. 372](https://www.legislation.gov.uk/nisr/1984/372)
 

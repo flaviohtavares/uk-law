@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 14A. Pre-action requirements where grounds for possession include rent arrears[^key-9835e29eb0a037e0d19901d041a8ec4d]
+## 14A. Pre-action requirements where grounds for possession include rent arrears[^c-9835e29eb0a037e0d19901d041a8ec4d]
 
 *Extent: S*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9835e29eb0a037e0d19901d041a8ec4d]: Textual amendment: [S. 14A](https://www.legislation.gov.uk/asp/2001/10/section/14A) inserted (22.2.2012 for specified purposes, 1.8.2012 in so far as not already in force) by [Housing (Scotland) Act 2010 (asp 17)](https://www.legislation.gov.uk/asp/2010/17), [ss. 155(b)](https://www.legislation.gov.uk/asp/2010/17/section/155/b), [166(2)](https://www.legislation.gov.uk/asp/2010/17/section/166/2); [S.S.I. 2012/19](https://www.legislation.gov.uk/ssi/2012/19), [art. 2(c)](https://www.legislation.gov.uk/ssi/2012/19/article/2/c); [S.I. 2012/91](https://www.legislation.gov.uk/uksi/2012/91), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/91/article/2/a)
+[^c-9835e29eb0a037e0d19901d041a8ec4d]: Textual amendment: [S. 14A](https://www.legislation.gov.uk/asp/2001/10/section/14A) inserted (22.2.2012 for specified purposes, 1.8.2012 in so far as not already in force) by [Housing (Scotland) Act 2010 (asp 17)](https://www.legislation.gov.uk/asp/2010/17), [ss. 155(b)](https://www.legislation.gov.uk/asp/2010/17/section/155/b), [166(2)](https://www.legislation.gov.uk/asp/2010/17/section/166/2); [S.S.I. 2012/19](https://www.legislation.gov.uk/ssi/2012/19), [art. 2(c)](https://www.legislation.gov.uk/ssi/2012/19/article/2/c); [S.I. 2012/91](https://www.legislation.gov.uk/uksi/2012/91), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/91/article/2/a)

@@ -46,14 +46,14 @@ Coming into force
 
 The Secretary of State for Transport, after consulting with the persons referred to in section 22(2) of the Merchant Shipping Act 1979[^f00001], in exercise of the powers conferred on him by section 21(a) and (b), (3) to (6) and section 22(1) of that Act, and of all other powers enabling him in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement, interpretation and revocation[^key-3845c0025283c72909786cbc808ecbad]
+## 1. Citation, commencement, interpretation and revocation[^c-3845c0025283c72909786cbc808ecbad]
 
 (1) These Regulations may be cited as the Merchant Shipping (Gas Carriers) Regulations 1994 and shall come into force on 1st October 1994.
 
 (2) In these Regulations:—
 
 - “the 1974 SOLAS Convention” means the International Convention for the Safety of Life at Sea, 1974, as amended[^f00002];
-- “anniversary date” means the day and month of each year which will correspond to the date of expiry of the International Certificate of Fitness for the Carriage of Liquefied Gases in Bulk;[^key-a704f0572755016d0d168fbdc50cb01f]
+- “anniversary date” means the day and month of each year which will correspond to the date of expiry of the International Certificate of Fitness for the Carriage of Liquefied Gases in Bulk;[^c-a704f0572755016d0d168fbdc50cb01f]
 - “appropriate Certifying Authority” means the Secretary of State or any person authorised by the Secretary of State and includes in particular (if so authorised) Lloyd’s Register of Shipping, the British Committee of Bureau Veritas, the British Committee of Det Norske Veritas, the British Committee of Germanischer Lloyd, the British Technical Committee of the American Bureau of Shipping, and the British Committee of Registro Italiano Navale;
 - “Cargo Ship Safety Construction Certificate”, “Cargo Ship Safety Equipment Certificate”, “Cargo Ship Safety Radiotelegraphy Certificate” and “Cargo Ship Safety Radiotelephony Certificate” mean respectively the certificates so entitled, issued in conformity with the 1974 SOLAS Convention and, in the case of a United Kingdom ship, under or pursuant to the Merchant Shipping Acts 1894 to 1994;
 - “constructed” means, in relation to a ship, having its keel laid or being at a similar stage of construction; and “similar stage of construction” means the stage at which—
@@ -65,16 +65,16 @@ The Secretary of State for Transport, after consulting with the persons referred
   - (c) (to the extent that the Secretary of State considers reasonable and practicable) a gas carrier which was constructed before 1st July 1986, but which underwent repairs, alterations or modifications of a major character in that period;
 - “gas carrier” means a self-propelled cargo ship constructed or adapted and used for the carriage in bulk of any liquefied gas listed in Chapter 19 of the IGC Code or any other substance so listed;
 - “the IBC Code” means, in relation to 1986-1994 gas carriers the 1983 IBC Code, and in relation to new gas carriers, the 1994 IBC Code;
-- “the IGC Code” means, in relation to 1986-1994 gas carriers, the 1983 IGC Code as amended by Resolution MSC.17.(58) of the International Maritime Organisation, adopted on 24th May 1990, and includes any further amendments adopted by the International Maritime Organisation which are considered by the Secretary of State to be relevant from time to time and are specified in a Merchant Shipping Notice[^key-ec94ed00f96b626f15a7e1495680003b] and in relation to new gas carriers, the 1993 IGC Code as amended by Resolution MSC.17.(58) of the International Maritime Organisation, adopted on 24th May 1990, and includes any further amendments adopted by the International Maritime Organisation which are considered by the Secretary of State to be relevant from time to time and are specified in a Merchant Shipping Notice;
-- “[^key-e28bc8097fbd3a9d592148c14e925629]**IMO Member State**” means a State which is a member of the International Maritime Organization;
+- “the IGC Code” means, in relation to 1986-1994 gas carriers, the 1983 IGC Code as amended by Resolution MSC.17.(58) of the International Maritime Organisation, adopted on 24th May 1990, and includes any further amendments adopted by the International Maritime Organisation which are considered by the Secretary of State to be relevant from time to time and are specified in a Merchant Shipping Notice[^c-ec94ed00f96b626f15a7e1495680003b] and in relation to new gas carriers, the 1993 IGC Code as amended by Resolution MSC.17.(58) of the International Maritime Organisation, adopted on 24th May 1990, and includes any further amendments adopted by the International Maritime Organisation which are considered by the Secretary of State to be relevant from time to time and are specified in a Merchant Shipping Notice;
+- “[^c-e28bc8097fbd3a9d592148c14e925629]**IMO Member State**” means a State which is a member of the International Maritime Organization;
 - “in bulk” means directly and without intermediate form of containment in a tank forming an integral part of, or permanently located on, a ship;
-- “International Certificate of Fitness for the Carriage of Liquefied Gases in Bulk” means a certificate which certifies compliance with the[^key-056d5c6b18a0684d957dd6abe7430577] IGC Code;
-- “Merchant Shipping Notice” means a Notice described as such and issued by the Maritime and Coastguard Agency (which is an executive agency of the Department for Transport); and any reference to a particular Merchant Shipping Notice includes a reference to any document amending or replacing that Notice which is considered by the Secretary of State to be relevant from time to time and is specified in a Merchant Shipping Notice;[^key-671e4d5a92f396c4fb55d8389bb71bb3]
+- “International Certificate of Fitness for the Carriage of Liquefied Gases in Bulk” means a certificate which certifies compliance with the[^c-056d5c6b18a0684d957dd6abe7430577] IGC Code;
+- “Merchant Shipping Notice” means a Notice described as such and issued by the Maritime and Coastguard Agency (which is an executive agency of the Department for Transport); and any reference to a particular Merchant Shipping Notice includes a reference to any document amending or replacing that Notice which is considered by the Secretary of State to be relevant from time to time and is specified in a Merchant Shipping Notice;[^c-671e4d5a92f396c4fb55d8389bb71bb3]
 - “new gas carrier” means—
   - (a) a gas carrier which is constructed on or after 1st October 1994;
   - (b) a ship which is converted to being a gas carrier on or after that date; or
   - (c) (to the extent that the Secretary of State considers reasonable and practicable) a gas carrier which was constructed before that date, but underwent repairs, alterations or modifications of a major character after that date;
-- “proper officer” means a consular officer appointed by Her Majesty’s Government in the United Kingdom and, in relation to a port in a country outside the United Kingdom which is not a foreign country, also any officer exercising in that port functions similar to those of a superintendent;[^key-e59995f76b1855c7d30625311af13822]
+- “proper officer” means a consular officer appointed by Her Majesty’s Government in the United Kingdom and, in relation to a port in a country outside the United Kingdom which is not a foreign country, also any officer exercising in that port functions similar to those of a superintendent;[^c-e59995f76b1855c7d30625311af13822]
 - “short international voyage” means a voyage from a port in one country to which the 1974 SOLAS Convention applies to a port in another country, or conversely,—
   - (a) in the course of which a ship is not more than two hundred nautical miles from a port or place in which the passengers and crew could be placed in safety, and
   - (b) which does not exceed 600 nautical miles in distance between the last port of call in the country in which the voyage begins and the last port of call in the scheduled voyage before beginning a return voyage, and which on the return voyage does not exceed 600 nautical miles in distance between the port of call in which the ship commences its return voyage and the first port of call in the country in which the voyage began,
@@ -110,7 +110,7 @@ shall include a reference to any document amending it which is considered by the
 
 (6) The Merchant Shipping (Gas Carriers) Regulations 1986[^f00003] are hereby revoked.
 
-## 1A. Transitional provision[^key-c3073974bc81225156e935656a3e3f00]
+## 1A. Transitional provision[^c-c3073974bc81225156e935656a3e3f00]
 
 Except in special circumstances as determined by the Maritime and Coastguard Agency, an International Certificate of Fitness for the Carriage of Liquefied Gases in Bulk issued or endorsed before 20th April 2004 by:
 
@@ -119,7 +119,7 @@ Except in special circumstances as determined by the Maritime and Coastguard Age
 
 shall remain valid until it expires under the terms of these Regulations as in force before that date, and shall for any other purpose of these Regulations be treated as though it had been issued or endorsed under these Regulations as amended.
 
-## 2. Application[^key-c5a477378c63f344238b62cfa3feff38]
+## 2. Application[^c-c5a477378c63f344238b62cfa3feff38]
 
 (1) These Regulations apply, subject to the following provisions of this regulation, to 1986-1994 gas carriers and to new gas carriers.
 
@@ -127,11 +127,11 @@ shall remain valid until it expires under the terms of these Regulations as in f
 
 (3) These Regulations apply to all ships specified in paragraph (1) which are United Kingdom ships wherever they may be and to other such ships while they are within the United Kingdom or the territorial waters thereof: provided that in the case of a ship registered in a State which is not a party to the 1974 SOLAS Convention they shall not apply by reason of its being in the United Kingdom or the territorial waters thereof if it would not have been there but for stress of weather or any circumstances which could not have been prevented by the owner, the master or the charterer (if any).
 
-## 3. Compliance with the IGC Code[^key-0f1e60d0e26adae32171a483efbcb9e7]
+## 3. Compliance with the IGC Code[^c-0f1e60d0e26adae32171a483efbcb9e7]
 
 Every ship to which these Regulations apply shall be constructed, equipped and operated in accordance with the requirements of Chapter 1, paragraphs 1.1.4.1 to 1.1.4.4 inclusive, and Chapters 2 to 19 inclusive of the IGC Code relevant to a ship of its physical description.
 
-## 4. Surveys[^key-65524f0d83c427c175f7a22d7a5ff716]
+## 4. Surveys[^c-65524f0d83c427c175f7a22d7a5ff716]
 
 A United Kingdom gas carrier shall be subject to the following surveys:
 
@@ -233,20 +233,20 @@ the Secretary of State, Certifying Authority or proper officer shall cause inves
 
 the new Certificate may be issued as being valid from the date of completion of the renewal survey.
 
-## 7. Equivalents[^key-894ed164a17089d84e9bccf5ea9b634c]
+## 7. Equivalents[^c-894ed164a17089d84e9bccf5ea9b634c]
 
 (1) Where the IGC Code requires that a particular fitting, material, appliance, apparatus, item of equipment or type thereof should be fitted or carried in a ship, or that any particular provision should be made, or any procedure or arrangement should be complied with, the Secretary of State shall allow any other fitting, material, appliance, apparatus, item of equipment or type thereof to be fitted or carried, or any other provision, procedure or arrangement to be made in that ship, if he is satisfied by trial thereof or otherwise that such fitting, material, appliance, apparatus, item of equipment or type thereof, or that any particular provision, procedure or arrangement is at least as effective as that required by the IGC Code.
 
 (2) For the purposes of these Regulations, the results of a verification or test shall be accepted if the verification or test is carried out—
 
-- (a) in accordance with these Regulations or with a standard, code of practice, specification or technical description of an IMO Member State[^key-0ed218b6f5f54a61a7a859be9af83c87], other than the United Kingdom offering equivalent levels of safety, suitability and fitness for purpose; and
-- (b) by a body or laboratory of an IMO Member State[^key-9f28450ebc7add71e6f5c7b222be66fe] other than the United Kingdom offering suitable and satisfactory guarantess of technical and professional competence and independence.
+- (a) in accordance with these Regulations or with a standard, code of practice, specification or technical description of an IMO Member State[^c-0ed218b6f5f54a61a7a859be9af83c87], other than the United Kingdom offering equivalent levels of safety, suitability and fitness for purpose; and
+- (b) by a body or laboratory of an IMO Member State[^c-9f28450ebc7add71e6f5c7b222be66fe] other than the United Kingdom offering suitable and satisfactory guarantess of technical and professional competence and independence.
 
-## 8. Exemptions[^key-06a82cb5d5c43ffbbecc3fc9b0afe806]
+## 8. Exemptions[^c-06a82cb5d5c43ffbbecc3fc9b0afe806]
 
 The Secretary of State may exempt any ship from any of the requirements of the IGC Code, subject to such conditions as he may specify, and may alter or cancel any exemption so granted.
 
-## 9. Loading and carriage in bulk of dangerous substances[^key-d3f1fa54a30124a4c0b8f663719fccdc]
+## 9. Loading and carriage in bulk of dangerous substances[^c-d3f1fa54a30124a4c0b8f663719fccdc]
 
 (1) No ship to which these Regulations apply shall load in bulk or carry in bulk any of the substances listed in Chapter 19 of the IGC Code unless—
 
@@ -255,16 +255,16 @@ The Secretary of State may exempt any ship from any of the requirements of the I
 
 (2) Any approval in pursuance of this regulation shall be given in writing and shall specify the date on which it takes effect and the conditions (if any) on which it is given.
 
-## 10. Penalties[^key-eb84551422814b80b5e04592557c158b]
+## 10. Penalties[^c-eb84551422814b80b5e04592557c158b]
 
 (1)
 
-- (a) If there is a breach of regulation 3, 5 or 9[^key-1fd62281f90675167a238c64493e2068] in relation to a ship then the owner and master of the ship shall each be guilty of an offence punishable on summary conviction by a fine not exceeding the statutory maximum or, on indictment, to a fine.
-- (b)[^key-34ee32d4c83255e7c6fbaa44ba7cae2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) If there is a breach of regulation 3, 5 or 9[^c-1fd62281f90675167a238c64493e2068] in relation to a ship then the owner and master of the ship shall each be guilty of an offence punishable on summary conviction by a fine not exceeding the statutory maximum or, on indictment, to a fine.
+- (b)[^c-34ee32d4c83255e7c6fbaa44ba7cae2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) It shall be a defence for a person charged with an offence under these Regulations to prove that he took all reasonable steps to ensure that the Regulations were complied with.
 
-## 11. Power to detain[^key-94d5d941095274790647d5d9cb434b6d]
+## 11. Power to detain[^c-94d5d941095274790647d5d9cb434b6d]
 
 In any case where:
 
@@ -296,46 +296,46 @@ Merchant Shipping Notices can be obtained from the Marine Safety Agency, Departm
 
 [^f00001]: Footnote: [1979 c. 39](https://www.legislation.gov.uk/ukpga/1979/39); section 21(6) was amended by section 49(3) of the Criminal Justice Act [1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48).
 
-[^key-3845c0025283c72909786cbc808ecbad]: Commencement: Reg. 1 in force at 1.10.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1994/2464/regulation/1/1)
+[^c-3845c0025283c72909786cbc808ecbad]: Commencement: Reg. 1 in force at 1.10.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1994/2464/regulation/1/1)
 
 [^f00002]: Footnote: The Convention and amendments are set out in the 1992 consolidated edition of SOLAS published by the International Maritime Organisation.
 
-[^key-a704f0572755016d0d168fbdc50cb01f]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/2464/regulation/1/2) inserted (20.4.2004) by [The Merchant Shipping (Gas Carriers) (Amendment) Regulations 2004 (S.I. 2004/929)](https://www.legislation.gov.uk/uksi/2004/929), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/929/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2004/929/regulation/2/a)
+[^c-a704f0572755016d0d168fbdc50cb01f]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/2464/regulation/1/2) inserted (20.4.2004) by [The Merchant Shipping (Gas Carriers) (Amendment) Regulations 2004 (S.I. 2004/929)](https://www.legislation.gov.uk/uksi/2004/929), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/929/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2004/929/regulation/2/a)
 
-[^key-ec94ed00f96b626f15a7e1495680003b]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/2464/regulation/1/2) inserted (20.4.2004) by [The Merchant Shipping (Gas Carriers) (Amendment) Regulations 2004 (S.I. 2004/929)](https://www.legislation.gov.uk/uksi/2004/929), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/929/regulation/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2004/929/regulation/2/b)
+[^c-ec94ed00f96b626f15a7e1495680003b]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/2464/regulation/1/2) inserted (20.4.2004) by [The Merchant Shipping (Gas Carriers) (Amendment) Regulations 2004 (S.I. 2004/929)](https://www.legislation.gov.uk/uksi/2004/929), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/929/regulation/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2004/929/regulation/2/b)
 
-[^key-e28bc8097fbd3a9d592148c14e925629]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/2464/regulation/1/2) inserted (31.12.2020) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 2(2)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e28bc8097fbd3a9d592148c14e925629]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/2464/regulation/1/2) inserted (31.12.2020) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 2(2)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-056d5c6b18a0684d957dd6abe7430577]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/2464/regulation/1/2) substituted (20.4.2004) by [The Merchant Shipping (Gas Carriers) (Amendment) Regulations 2004 (S.I. 2004/929)](https://www.legislation.gov.uk/uksi/2004/929), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/929/regulation/1/1), [2(c)](https://www.legislation.gov.uk/uksi/2004/929/regulation/2/c)
+[^c-056d5c6b18a0684d957dd6abe7430577]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/2464/regulation/1/2) substituted (20.4.2004) by [The Merchant Shipping (Gas Carriers) (Amendment) Regulations 2004 (S.I. 2004/929)](https://www.legislation.gov.uk/uksi/2004/929), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/929/regulation/1/1), [2(c)](https://www.legislation.gov.uk/uksi/2004/929/regulation/2/c)
 
-[^key-671e4d5a92f396c4fb55d8389bb71bb3]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/2464/regulation/1/2) inserted (20.4.2004) by [The Merchant Shipping (Gas Carriers) (Amendment) Regulations 2004 (S.I. 2004/929)](https://www.legislation.gov.uk/uksi/2004/929), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/929/regulation/1/1), [2(d)](https://www.legislation.gov.uk/uksi/2004/929/regulation/2/d)
+[^c-671e4d5a92f396c4fb55d8389bb71bb3]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/2464/regulation/1/2) inserted (20.4.2004) by [The Merchant Shipping (Gas Carriers) (Amendment) Regulations 2004 (S.I. 2004/929)](https://www.legislation.gov.uk/uksi/2004/929), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/929/regulation/1/1), [2(d)](https://www.legislation.gov.uk/uksi/2004/929/regulation/2/d)
 
-[^key-e59995f76b1855c7d30625311af13822]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/2464/regulation/1/2) inserted (20.4.2004) by [The Merchant Shipping (Gas Carriers) (Amendment) Regulations 2004 (S.I. 2004/929)](https://www.legislation.gov.uk/uksi/2004/929), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/929/regulation/1/1), [2(e)](https://www.legislation.gov.uk/uksi/2004/929/regulation/2/e)
+[^c-e59995f76b1855c7d30625311af13822]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/2464/regulation/1/2) inserted (20.4.2004) by [The Merchant Shipping (Gas Carriers) (Amendment) Regulations 2004 (S.I. 2004/929)](https://www.legislation.gov.uk/uksi/2004/929), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/929/regulation/1/1), [2(e)](https://www.legislation.gov.uk/uksi/2004/929/regulation/2/e)
 
 [^f00003]: Footnote: S.I. [1986/1073](https://www.legislation.gov.uk/uksi/1986/1073).
 
-[^key-c3073974bc81225156e935656a3e3f00]: Textual amendment: [Reg. 1A](https://www.legislation.gov.uk/uksi/1994/2464/regulation/1A) inserted (20.4.2004) by [The Merchant Shipping (Gas Carriers) (Amendment) Regulations 2004 (S.I. 2004/929)](https://www.legislation.gov.uk/uksi/2004/929), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/929/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2004/929/regulation/3)
+[^c-c3073974bc81225156e935656a3e3f00]: Textual amendment: [Reg. 1A](https://www.legislation.gov.uk/uksi/1994/2464/regulation/1A) inserted (20.4.2004) by [The Merchant Shipping (Gas Carriers) (Amendment) Regulations 2004 (S.I. 2004/929)](https://www.legislation.gov.uk/uksi/2004/929), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/929/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2004/929/regulation/3)
 
-[^key-c5a477378c63f344238b62cfa3feff38]: Commencement: Reg. 2 in force at 1.10.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1994/2464/regulation/1/1)
+[^c-c5a477378c63f344238b62cfa3feff38]: Commencement: Reg. 2 in force at 1.10.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1994/2464/regulation/1/1)
 
-[^key-0f1e60d0e26adae32171a483efbcb9e7]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/1994/2464/regulation/3) substituted (20.4.2004) by [The Merchant Shipping (Gas Carriers) (Amendment) Regulations 2004 (S.I. 2004/929)](https://www.legislation.gov.uk/uksi/2004/929), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/929/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2004/929/regulation/4)
+[^c-0f1e60d0e26adae32171a483efbcb9e7]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/1994/2464/regulation/3) substituted (20.4.2004) by [The Merchant Shipping (Gas Carriers) (Amendment) Regulations 2004 (S.I. 2004/929)](https://www.legislation.gov.uk/uksi/2004/929), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/929/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2004/929/regulation/4)
 
-[^key-65524f0d83c427c175f7a22d7a5ff716]: Textual amendment: [Regs. 4-6B](https://www.legislation.gov.uk/uksi/1994/2464/regulation/4) substituted for regs. 4-6 (20.4.2004) by [The Merchant Shipping (Gas Carriers) (Amendment) Regulations 2004 (S.I. 2004/929)](https://www.legislation.gov.uk/uksi/2004/929), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/929/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2004/929/regulation/5)
+[^c-65524f0d83c427c175f7a22d7a5ff716]: Textual amendment: [Regs. 4-6B](https://www.legislation.gov.uk/uksi/1994/2464/regulation/4) substituted for regs. 4-6 (20.4.2004) by [The Merchant Shipping (Gas Carriers) (Amendment) Regulations 2004 (S.I. 2004/929)](https://www.legislation.gov.uk/uksi/2004/929), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/929/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2004/929/regulation/5)
 
-[^key-894ed164a17089d84e9bccf5ea9b634c]: Commencement: Reg. 7 in force at 1.10.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1994/2464/regulation/1/1)
+[^c-894ed164a17089d84e9bccf5ea9b634c]: Commencement: Reg. 7 in force at 1.10.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1994/2464/regulation/1/1)
 
-[^key-0ed218b6f5f54a61a7a859be9af83c87]: Textual amendment: Words in [reg. 7(2)(a)](https://www.legislation.gov.uk/uksi/1994/2464/regulation/7/2/a) substituted (31.12.2020) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 2(3)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0ed218b6f5f54a61a7a859be9af83c87]: Textual amendment: Words in [reg. 7(2)(a)](https://www.legislation.gov.uk/uksi/1994/2464/regulation/7/2/a) substituted (31.12.2020) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 2(3)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9f28450ebc7add71e6f5c7b222be66fe]: Textual amendment: Words in [reg. 7(2)(b)](https://www.legislation.gov.uk/uksi/1994/2464/regulation/7/2/b) substituted (31.12.2020) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 2(3)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9f28450ebc7add71e6f5c7b222be66fe]: Textual amendment: Words in [reg. 7(2)(b)](https://www.legislation.gov.uk/uksi/1994/2464/regulation/7/2/b) substituted (31.12.2020) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 2(3)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-06a82cb5d5c43ffbbecc3fc9b0afe806]: Commencement: Reg. 8 in force at 1.10.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1994/2464/regulation/1/1)
+[^c-06a82cb5d5c43ffbbecc3fc9b0afe806]: Commencement: Reg. 8 in force at 1.10.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1994/2464/regulation/1/1)
 
-[^key-d3f1fa54a30124a4c0b8f663719fccdc]: Commencement: Reg. 9 in force at 1.10.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1994/2464/regulation/1/1)
+[^c-d3f1fa54a30124a4c0b8f663719fccdc]: Commencement: Reg. 9 in force at 1.10.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1994/2464/regulation/1/1)
 
-[^key-eb84551422814b80b5e04592557c158b]: Commencement: Reg. 10 in force at 1.10.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1994/2464/regulation/1/1)
+[^c-eb84551422814b80b5e04592557c158b]: Commencement: Reg. 10 in force at 1.10.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1994/2464/regulation/1/1)
 
-[^key-1fd62281f90675167a238c64493e2068]: Textual amendment: Words in [reg. 10(1)(a)](https://www.legislation.gov.uk/uksi/1994/2464/regulation/10/1/a) substituted (20.4.2004) by [The Merchant Shipping (Gas Carriers) (Amendment) Regulations 2004 (S.I. 2004/929)](https://www.legislation.gov.uk/uksi/2004/929), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/929/regulation/1/1), [6(a)](https://www.legislation.gov.uk/uksi/2004/929/regulation/6/a)
+[^c-1fd62281f90675167a238c64493e2068]: Textual amendment: Words in [reg. 10(1)(a)](https://www.legislation.gov.uk/uksi/1994/2464/regulation/10/1/a) substituted (20.4.2004) by [The Merchant Shipping (Gas Carriers) (Amendment) Regulations 2004 (S.I. 2004/929)](https://www.legislation.gov.uk/uksi/2004/929), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/929/regulation/1/1), [6(a)](https://www.legislation.gov.uk/uksi/2004/929/regulation/6/a)
 
-[^key-34ee32d4c83255e7c6fbaa44ba7cae2b]: Textual amendment: [Reg. 10(1)(b)](https://www.legislation.gov.uk/uksi/1994/2464/regulation/10/1/b) revoked (20.4.2004) by [The Merchant Shipping (Gas Carriers) (Amendment) Regulations 2004 (S.I. 2004/929)](https://www.legislation.gov.uk/uksi/2004/929), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/929/regulation/1/1), [6(b)](https://www.legislation.gov.uk/uksi/2004/929/regulation/6/b)
+[^c-34ee32d4c83255e7c6fbaa44ba7cae2b]: Textual amendment: [Reg. 10(1)(b)](https://www.legislation.gov.uk/uksi/1994/2464/regulation/10/1/b) revoked (20.4.2004) by [The Merchant Shipping (Gas Carriers) (Amendment) Regulations 2004 (S.I. 2004/929)](https://www.legislation.gov.uk/uksi/2004/929), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/929/regulation/1/1), [6(b)](https://www.legislation.gov.uk/uksi/2004/929/regulation/6/b)
 
-[^key-94d5d941095274790647d5d9cb434b6d]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/1994/2464/regulation/11) substituted (20.4.2004) by [The Merchant Shipping (Gas Carriers) (Amendment) Regulations 2004 (S.I. 2004/929)](https://www.legislation.gov.uk/uksi/2004/929), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/929/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2004/929/regulation/7)
+[^c-94d5d941095274790647d5d9cb434b6d]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/1994/2464/regulation/11) substituted (20.4.2004) by [The Merchant Shipping (Gas Carriers) (Amendment) Regulations 2004 (S.I. 2004/929)](https://www.legislation.gov.uk/uksi/2004/929), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/929/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2004/929/regulation/7)

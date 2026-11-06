@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 83. Incorporation of governing body of a school leaving a federation[^key-85ae20f9bf1ae7aa4f85cf76e8af69ff]
+## 83. Incorporation of governing body of a school leaving a federation[^c-85ae20f9bf1ae7aa4f85cf76e8af69ff]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ On the de-federation date the temporary governing body of the de-federated schoo
 
 ## Annotations
 
-[^key-85ae20f9bf1ae7aa4f85cf76e8af69ff]: Commencement: Reg. 83 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-85ae20f9bf1ae7aa4f85cf76e8af69ff]: Commencement: Reg. 83 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)

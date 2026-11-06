@@ -48,7 +48,7 @@ The Lord Chancellor makes the following Regulations in exercise of the powers co
 
 ## PART 1 — Introduction
 
-### 1. Citation, commencement, extent and interpretation[^key-466b095f826ea99857ce39b360895d95]
+### 1. Citation, commencement, extent and interpretation[^c-466b095f826ea99857ce39b360895d95]
 
 (1) These Regulations may be cited as the Fines Collection Regulations 2006 and shall come into force on the 27th March 2006.
 
@@ -76,21 +76,21 @@ The Lord Chancellor makes the following Regulations in exercise of the powers co
 
 ## PART 2 — Fine increase, delivery and summons
 
-### 2. Increase in fine[^key-2b8b2d812930e758c7fd7c622b403311]
+### 2. Increase in fine[^c-2b8b2d812930e758c7fd7c622b403311]
 
 The increase in the fine under paragraph 42A of Schedule 5 shall be 50% of the fine.
 
-### 3. Delivery of further steps notice[^key-dfc84ab05ebcc24fc714a8d90752d1ee]
+### 3. Delivery of further steps notice[^c-dfc84ab05ebcc24fc714a8d90752d1ee]
 
 A further steps notice issued under paragraph 37 of Schedule 5 may be delivered by hand or be sent by post to P’s last known address.
 
-### 4. Summons for ensuring attendance of P before the court[^key-b84a220d67cb9fd76469b66094083ef9]
+### 4. Summons for ensuring attendance of P before the court[^c-b84a220d67cb9fd76469b66094083ef9]
 
 A fines officer may for the purpose of ensuring that P attends a magistrates' court to which he has referred P’s case under paragraph 37 or 42 of Schedule 5, issue a summons requiring P to appear before the court at the time and place appointed in the summons.
 
 ## PART 3 — Attachment of Earnings
 
-### 5. Tables and calculation method for attachment of earnings orders[^key-eaf922e25a2082bcc441599b63336dd0]
+### 5. Tables and calculation method for attachment of earnings orders[^c-eaf922e25a2082bcc441599b63336dd0]
 
 In the case of an attachment of earnings order made under Schedule 5, the employer shall make deductions from P’s earnings in accordance with the following tables and regulations 6 to 15—
 
@@ -144,7 +144,7 @@ Tables of Periodical Deductions from Earnings
 </tbody>
 </table>
 
-**6.**[^key-4560a54ac0c720f076be715b8acbb2c1] Subject to regulations 7 and 8, the sum to be deducted by an employer under an attachment of earnings order on any pay-day shall be—
+**6.**[^c-4560a54ac0c720f076be715b8acbb2c1] Subject to regulations 7 and 8, the sum to be deducted by an employer under an attachment of earnings order on any pay-day shall be—
 
 - (a) where P’s earnings from the employer are payable weekly, a sum equal to the appropriate percentage of the attachable earnings otherwise payable on that pay-day; and for this purpose the appropriate percentage is the percentage (or percentages) specified in column 2 of Table A in regulation 5 in relation to the band in column 1 of that Table within which the attachable earnings fall;
 - (b) where his earnings from the employer are payable monthly, a sum equal to the appropriate percentage of the attachable earnings otherwise payable on that pay-day; and for this purpose the appropriate percentage is the percentage (or percentages) specified in column 2 of Table B in regulation 5 in relation to the band in column 1 of that Table within which the attachable earnings fall; and
@@ -153,22 +153,22 @@ Tables of Periodical Deductions from Earnings
   - (ii) ascertaining the percentage (or percentages) specified in column 2 of Table A (if the whole number is of weeks) or of Table B (if the whole number is of months) in regulation 5 in relation to the band in column 1 of that Table within which the notional attachable earnings calculated under paragraph (i) fall, and
   - (iii) calculating the sum which equals the appropriate percentage (or percentages) of the notional attachable earnings for any of those weeks or months and multiplying that sum by the whole number of weeks or months, as appropriate.
 
-**7.**[^key-bd93dc99131be14363698e52ac781329] Where regulation 6 applies and the amount to be paid to P on any pay-day includes an advance in respect of future pay, the sum to be deducted on that pay-day shall be the aggregate of the amount which would otherwise fall to be deducted under regulation 6 and—
+**7.**[^c-bd93dc99131be14363698e52ac781329] Where regulation 6 applies and the amount to be paid to P on any pay-day includes an advance in respect of future pay, the sum to be deducted on that pay-day shall be the aggregate of the amount which would otherwise fall to be deducted under regulation 6 and—
 
 - (a) where the amount advanced would otherwise have been paid on a single pay-day, the sum which would have been deducted on that pay-day in accordance with regulation 6 if the amount advanced had been the amount of attachable earnings on that day; or
 - (b) where the amount advanced would otherwise have been paid on more than one pay-day, the sums which would have been deducted on each of the relevant pay-days in accordance with regulation 6 if—
   - (i) an equal proportion of the amount advanced had been paid on each of those days; and
   - (ii) the attachable earnings of P on each of those days had been an amount equal to that proportion.
 
-**8.**[^key-d49f5a4bd8192e1c6083f5081eb71805] Where the amount payable to P on any pay-day is reduced by reason of an earlier advance of pay, the attachable earnings of P on that day shall, for the purposes of regulation 6, be the attachable earnings less the amount of that deduction.
+**8.**[^c-d49f5a4bd8192e1c6083f5081eb71805] Where the amount payable to P on any pay-day is reduced by reason of an earlier advance of pay, the attachable earnings of P on that day shall, for the purposes of regulation 6, be the attachable earnings less the amount of that deduction.
 
-**9.**[^key-bcabb86283f2b6be9560a75ab8ed5c0a] Subject to regulations 10 and 11, where P’s earnings from the employer are payable at regular intervals other than at intervals to which regulation 6 applies, the sum to be deducted on any pay-day shall be arrived at by—
+**9.**[^c-bcabb86283f2b6be9560a75ab8ed5c0a] Subject to regulations 10 and 11, where P’s earnings from the employer are payable at regular intervals other than at intervals to which regulation 6 applies, the sum to be deducted on any pay-day shall be arrived at by—
 
 - (a) calculating what would be his daily attachable earnings (the “notional daily attachable earnings”) by dividing the attachable earnings payable to him by the employer on the pay-day by the number of days in the interval,
 - (b) ascertaining the percentage (or percentages) specified in column 2 of Table C in regulation 5 in relation to the band in column 1 of that Table within which the notional daily attachable earnings calculated under sub-paragraph (a) fall, and
 - (c) calculating the sum which equals the appropriate percentage (or percentages) of the notional daily attachable earnings and multiplying that sum by the number of days in the interval.
 
-**10.**[^key-e4b67e4a7255a645a9401ce1bb7b0e82] Where P’s earnings are payable as mentioned in regulation 9, and the amount to be paid to P on any pay-day includes an amount advanced in respect of future pay, the amount of P’s notional daily attachable earnings under paragraph (a) of that regulation shall be calculated in accordance with the formula—
+**10.**[^c-e4b67e4a7255a645a9401ce1bb7b0e82] Where P’s earnings are payable as mentioned in regulation 9, and the amount to be paid to P on any pay-day includes an amount advanced in respect of future pay, the amount of P’s notional daily attachable earnings under paragraph (a) of that regulation shall be calculated in accordance with the formula—
 
 [formula: see source](https://www.legislation.gov.uk/uksi/2006/501)
 
@@ -179,9 +179,9 @@ where:
 - C is the number of days in the period for which the amount of attachable earnings is payable; and
 - D is the number of days in the period for which, but for the agreement to pay in advance, the amount advanced would have been payable.
 
-**11.**[^key-14f5d63c58413e2f54ebfc7439457d9d] Regulation 8 applies in relation to regulation 9 as it applies in relation to regulation 6.
+**11.**[^c-14f5d63c58413e2f54ebfc7439457d9d] Regulation 8 applies in relation to regulation 9 as it applies in relation to regulation 6.
 
-**12.**[^key-6a59474663bee5bb344ac1109fa590bf] Where earnings are payable to P by the employer by 2 or more series of payments at regular intervals—
+**12.**[^c-6a59474663bee5bb344ac1109fa590bf] Where earnings are payable to P by the employer by 2 or more series of payments at regular intervals—
 
 - (a) if some or all of the intervals are of different lengths—
   - (i) for the purpose of arriving at the sum to be deducted, whichever of regulations 6, 7, 8, 9, 10 and 11 is appropriate shall apply to the series with the shortest interval (or, if there is more than one series with the shortest interval, such one of those series as the employer may choose), and
@@ -190,7 +190,7 @@ where:
 
 and regulation 8 shall apply in relation to paragraph (a)(ii) as it applies in relation to regulation 6.
 
-**13.**[^key-f835afccd092ce5d61e7c16c03a3510d] Subject to regulations 14 and 15, where P’s earnings from the employer are payable at irregular intervals, the sums to be deducted on any pay-day shall be arrived at by—
+**13.**[^c-f835afccd092ce5d61e7c16c03a3510d] Subject to regulations 14 and 15, where P’s earnings from the employer are payable at irregular intervals, the sums to be deducted on any pay-day shall be arrived at by—
 
 - (a) calculating what would be his daily attachable earnings by dividing the attachable earnings payable to him by the employer on the pay-day—
   - (i) by the number of days since earnings were last payable by the employer to him, or
@@ -198,20 +198,20 @@ and regulation 8 shall apply in relation to paragraph (a)(ii) as it applies in r
 - (b) ascertaining the percentage (or percentages) specified in column 2 of Table C in regulation 5 in relation to the band in column 1 of that Table within which the notional attachable earnings calculated under paragraph (a) fall; and
 - (c) calculating the sum which equals the appropriate percentage (or percentages) of the daily attachable earnings and multiplying that sum by the same number as that of the divisor for the purposes of the calculation mentioned in paragraph (a).
 
-**14.**[^key-a507cbff983997b9231133ad1685cbc5] Where on the same pay-day there are payable to P by the employer both earnings payable at regular intervals and earnings payable at irregular intervals, for the purpose of arriving at the sum to be deducted on the pay-day under the foregoing paragraphs all the earnings shall be aggregated and treated as earnings payable at the regular interval.
+**14.**[^c-a507cbff983997b9231133ad1685cbc5] Where on the same pay-day there are payable to P by the employer both earnings payable at regular intervals and earnings payable at irregular intervals, for the purpose of arriving at the sum to be deducted on the pay-day under the foregoing paragraphs all the earnings shall be aggregated and treated as earnings payable at the regular interval.
 
-**15.**[^key-9f01df13e4fc8315cc29a72863ffa0fd] Where there are earnings payable to P by the employer at regular intervals on one pay-day, and earnings are payable by the employer to him at irregular intervals on a different pay-day, the sum to be deducted on each of the pay-days on which the earnings which are payable at irregular intervals are so payable shall be 20 per cent of the attachable earnings payable to him on the day.
+**15.**[^c-9f01df13e4fc8315cc29a72863ffa0fd] Where there are earnings payable to P by the employer at regular intervals on one pay-day, and earnings are payable by the employer to him at irregular intervals on a different pay-day, the sum to be deducted on each of the pay-days on which the earnings which are payable at irregular intervals are so payable shall be 20 per cent of the attachable earnings payable to him on the day.
 
 ## PART 4 — Clamping of motor vehicles
 
-### 16. Requirements with respect to the making of a clamping order[^key-5eb5b7aeac1e14ad0a9b170dfaa3814e]
+### 16. Requirements with respect to the making of a clamping order[^c-5eb5b7aeac1e14ad0a9b170dfaa3814e]
 
 Before a clamping order is made by the court under paragraph 39(3)(b) or 42(2)(c), or by the fines officer under paragraph 40, of Schedule 5 the court or, as the case may be, the fines officer must be satisfied—
 
 - (a) that P has the means to pay the sum due; and
 - (b) that the value of the vehicle or vehicles to be clamped, if sold, would be likely to exceed the amount of the sum due, the amount of the likely charges due and the likely costs of the sale.
 
-### 17. Matters to be included in a clamping order[^key-3591be087d6aeb44fcb00d6770d27968]
+### 17. Matters to be included in a clamping order[^c-3591be087d6aeb44fcb00d6770d27968]
 
 A clamping order must specify—
 
@@ -226,13 +226,13 @@ A clamping order must specify—
 - (d) the name, official address and telephone number of the fines officer and the court; and
 - (e) how the sum due may be paid.
 
-### 18. Procedure on making a clamping order[^key-46aa994e9da236eaf06411137e2191b3]
+### 18. Procedure on making a clamping order[^c-46aa994e9da236eaf06411137e2191b3]
 
 (1) On the making of a clamping order by the court or the fines officer, the fines officer must send a copy of the order to a clamping contractor who, if the sum due is not paid, must execute the order in accordance with these Regulations on or after the date specified in the order.
 
 (2) The copy of the clamping order sent to the clamping contractor must be accompanied by details of P’s last known address, the vehicle or vehicles to be clamped and, if known, the likely whereabouts of the vehicle or vehicles to be clamped.
 
-### 19. Places where vehicles may be clamped[^key-7e2e12945938e01587d227186c33a09b]
+### 19. Places where vehicles may be clamped[^c-7e2e12945938e01587d227186c33a09b]
 
 (1) Vehicles may be clamped at any place (including on any highway or road) to which the public has access.
 
@@ -240,7 +240,7 @@ A clamping order must specify—
 
 (3) Authorised persons and other employees of the contractor entering land in accordance with paragraph (2) may enter such private land with their equipment and with or without a vehicle or vehicles for the purpose of clamping a vehicle on the land, releasing it from a clamp or removing it to secure storage.
 
-### 20. Vehicles which must not be clamped[^key-78dc8f0cced095d2bf456e4f2fdac528]
+### 20. Vehicles which must not be clamped[^c-78dc8f0cced095d2bf456e4f2fdac528]
 
 The following vehicles must not be clamped—
 
@@ -249,7 +249,7 @@ The following vehicles must not be clamped—
 - (c) a vehicle used for police, fire or ambulance purposes; and
 - (d) a vehicle being used by a doctor on call away from his usual place of work which is displaying a British Medical Association badge or other health emergency badge showing the doctor’s address.
 
-### 21. Defect in clamping order or irregularity in its execution[^key-fae35e5214c0605492d898173d95cef1]
+### 21. Defect in clamping order or irregularity in its execution[^c-fae35e5214c0605492d898173d95cef1]
 
 (1) A clamping order made for the purpose of enforcing payment of a sum adjudged to be paid, as mentioned in paragraph 1 of Schedule 5, shall not be held void by reason of any defect in the order.
 
@@ -257,7 +257,7 @@ The following vehicles must not be clamped—
 
 (3) Nothing in this regulation shall prejudice the claim of any person for special damages in respect of any loss caused by a defect in the order or irregularity in its execution.
 
-### 22. Clamping a vehicle[^key-fb51582b58488611434e0d67bcd01fd0]
+### 22. Clamping a vehicle[^c-fb51582b58488611434e0d67bcd01fd0]
 
 (1) If a vehicle to be clamped is so positioned that, while the vehicle is clamped in that position there would be at any time a contravention of any prohibition or restriction imposed by or under any enactment, the authorised person must before the vehicle is clamped, have it repositioned to the nearest place where there would be no such contravention while it is clamped there.
 
@@ -277,7 +277,7 @@ The following vehicles must not be clamped—
 - (h) the opening hours of the contractor and the court; and
 - (i) how to apply under regulations 27 and 28 for the release of a vehicle wrongly clamped.
 
-### 23. Release of vehicle on payment of charges and sum due[^key-09adeeb71706edd96cd711d36764c849]
+### 23. Release of vehicle on payment of charges and sum due[^c-09adeeb71706edd96cd711d36764c849]
 
 (1) The office of the contractor where payment of the sum due and charge or charges due may be made must be readily accessible from the place where the vehicle is clamped during all hours when the contractor undertakes clamping and for a least 2 hours thereafter.
 
@@ -304,7 +304,7 @@ The following vehicles must not be clamped—
 - (j) if applicable, the place where the vehicle is clamped; and
 - (k) the serial number of the receipt.
 
-### 24. Removal of vehicle for storage[^key-0f2ffa2c07a9578987bbf4fbb1b46670]
+### 24. Removal of vehicle for storage[^c-0f2ffa2c07a9578987bbf4fbb1b46670]
 
 (1) A vehicle clamped under a clamping order must, unless released from clamping under regulation 23, 27 or 28, remain clamped where it is positioned or repositioned for the period of not less than 24 hours from the time of clamping.
 
@@ -332,7 +332,7 @@ the contractor must have the vehicle removed by, or under the direction and supe
 - (l) how to apply under regulations 27 and 28 for the release of a vehicle wrongly clamped; and
 - (m) a serial number of the notice.
 
-### 25. Storage of vehicle[^key-c051d128632384eafbc1d26a459c50db]
+### 25. Storage of vehicle[^c-c051d128632384eafbc1d26a459c50db]
 
 (1) A vehicle removed to storage must remain in storage, unless released on payment of the sum due and charges due in full or pursuant to a decision under regulation 27 or an order under regulation 28(6), or sold or otherwise disposed of by order of the court under paragraph 41(2) of Schedule 5.
 
@@ -340,7 +340,7 @@ the contractor must have the vehicle removed by, or under the direction and supe
 
 (3) Premises used for the storage of vehicles must be secure and such as to protect the vehicles from damage or deterioration.
 
-### 26. Sale of clamped vehicles[^key-a5ac0c160d5724ea61bc3e655e3d2a00]
+### 26. Sale of clamped vehicles[^c-a5ac0c160d5724ea61bc3e655e3d2a00]
 
 (1) The period referred to in paragraph 41(1)(b) (power to order sale of clamped vehicle) of Schedule 5 for the sale of a vehicle shall be the period of 1 month from the date on which the vehicle was clamped.
 
@@ -379,7 +379,7 @@ and must notify the fines officer of the date and time of the hearing.
 
 (15) Where the balance is not sufficient to satisfy payment of the sum due the fines officer must then seek to recover the outstanding amount of the sum due under the collection order and the powers conferred by Schedule 5, including his power to refer the case to the court under paragraph 42 of that Schedule.
 
-### 27. Release of vehicle wrongly clamped[^key-fa4548cecbb72048899acd716de245cc]
+### 27. Release of vehicle wrongly clamped[^c-fa4548cecbb72048899acd716de245cc]
 
 (1) Where a vehicle is clamped, removed or stored in breach of any provision of this Part of these Regulations, a person may apply for the release and, where appropriate, the return of the vehicle in accordance with this regulation and regulation 28.
 
@@ -397,7 +397,7 @@ and must notify the fines officer of the date and time of the hearing.
 
 (5) If the decision is to accept the request, arrangements must immediately be made for the release and, where appropriate, return of the vehicle without charge.
 
-**28.**[^key-02c0285cd70d78d2489f52cd591b001a] (1) A person may apply to the court for the release and, where appropriate, the return of the vehicle if, having made a request under regulation 27—
+**28.**[^c-02c0285cd70d78d2489f52cd591b001a] (1) A person may apply to the court for the release and, where appropriate, the return of the vehicle if, having made a request under regulation 27—
 
 - (a) the request was refused; or
 - (b) there was a failure to make a decision on that request within the period referred to in regulation 27(4).
@@ -423,22 +423,22 @@ and must notify the fines officer of the date and time of the hearing.
 
 ## PART 5 — Application of enactments with modifications
 
-### 29. Purpose of the application of enactments[^key-eb68d2f06294b7d001582ee2af828621]
+### 29. Purpose of the application of enactments[^c-eb68d2f06294b7d001582ee2af828621]
 
 The application of enactments with modifications in this Part is for the purpose of giving effect to Schedule 5 and section 97 of the Courts Act 2003 so far as it relates to that Schedule.
 
-### 30. Application with modifications of the Magistrates' Courts (Attachment of Earnings) Rules 1971[^key-5efca16321dfe883996a7a93b4e809b7]
+### 30. Application with modifications of the Magistrates' Courts (Attachment of Earnings) Rules 1971[^c-5efca16321dfe883996a7a93b4e809b7]
 
 In the case of a person aged 18 or over liable to pay a sum to which Schedule 5 applies, the Magistrates' Courts (Attachment of Earnings) Rules 1971[^f00004] shall apply to attachments of earnings orders made under that Schedule as they apply to such orders made under the Attachment of Earnings Act 1971[^f00005] but with the following modifications—
 
 - (a) omit—
-  - (i) rule 2(6) (interpretation of references to attachment of earnings order); [^key-9ba20a2134efa647580ccadd43c66a6a]...
-  - (ii)[^key-5c9de140169c494d02fe1ca0845e3e27] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i) rule 2(6) (interpretation of references to attachment of earnings order); [^c-9ba20a2134efa647580ccadd43c66a6a]...
+  - (ii)[^c-5c9de140169c494d02fe1ca0845e3e27] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in rule 6 (service of orders and notices)—
   - (i) in paragraphs (1) and (2) after “magistrates' court” insert “or a fines officer, as the case may be,”;
-  - (ii) in paragraph (2), for “8 [^key-21439f9d7c2c7b8a841be84ea2aa0388]...” substitute “8(5)”; and
+  - (ii) in paragraph (2), for “8 [^c-21439f9d7c2c7b8a841be84ea2aa0388]...” substitute “8(5)”; and
   - (iii) in paragraph (3)—
-    - (aa)[^key-45f1565e30df8cc4cd10b9e6e1105c54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+    - (aa)[^c-45f1565e30df8cc4cd10b9e6e1105c54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
     - (bb) in sub-paragraph (c) for the words from “65(2)” to the end of that sub-paragraph substitute “77(2) of the Magistrates' Courts Act 1980 (postponement of issue of warrant)”.
 - (c) omit—
   - (i) rule 8 (notice of application for appropriate variation order);
@@ -458,7 +458,7 @@ In the case of a person aged 18 or over liable to pay a sum to which Schedule 5 
   - (iii) in the heading to the rule, for “of its” substitute “or fines officer of its or his”.
 - (f) omit rule 14 (temporary variation of protected earnings rate);
 - (g) in rule 15 (consolidated attachment orders)—
-  - (i) in paragraph (1), after [^key-52e484289de10d710b4d29863d2065ee]... “a magistrates' court” insert “or a fines officer, as the case may be,”;
+  - (i) in paragraph (1), after [^c-52e484289de10d710b4d29863d2065ee]... “a magistrates' court” insert “or a fines officer, as the case may be,”;
   - (ii) in paragraph (2), —
     - (aa) after “a magistrates' court” insert “or a fines officer, as the case may be,”; and
     - (bb) after “it” insert “or he”;
@@ -495,13 +495,13 @@ In the case of a person aged 18 or over liable to pay a sum to which Schedule 5 
     - (aa) after “the court”, insert “or, as the case may be, the fines officer”; and
     - (bb) after “a court”, insert “or a fines officer”; and
   - (iii) in paragraph (3), for the words from “72” to the end of that paragraph substitute “89 (transfer of fine order) or section 90 (transfer of fines to Scotland or Northern Ireland) of the Magistrates' Courts Act 1980”;
-- (i)[^key-c9857e285b6921d596dce512d832db12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (i)[^c-c9857e285b6921d596dce512d832db12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (j) omit—
-  - (i)[^key-3b71b5009ae3d7c5eab18217d19a3f2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-3b71b5009ae3d7c5eab18217d19a3f2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (ii) in rule 22 (justices' clerks), in paragraph (2), sub-paragraphs (b), (c) and (e); and
   - (iii) rule 23 (application of these Rules to attachment of earnings orders in respect of fines etc).
 
-### 31. Application with modifications of the Fines (Deductions from Income Support) Regulations 1992[^key-9de3349bbaf62d930f3fc8f1a1d6fc20]
+### 31. Application with modifications of the Fines (Deductions from Income Support) Regulations 1992[^c-9de3349bbaf62d930f3fc8f1a1d6fc20]
 
 In the case of a person aged 18 or over liable to pay a sum to which Schedule 5 applies, the Fines (Deductions from Income Support) Regulations 1992[^f00006] apply to applications for benefit deductions made under that Schedule, as they apply to such applications made under those Regulations but with the following modifications—
 
@@ -556,7 +556,7 @@ In the case of a person aged 18 or over liable to pay a sum to which Schedule 5 
 
 ## PART 6 — Revocations and transitional provision
 
-### 32. Revocations[^key-ddfac4c4820a085ce07047342b6278e4]
+### 32. Revocations[^c-ddfac4c4820a085ce07047342b6278e4]
 
 The following Regulations are revoked—
 
@@ -564,7 +564,7 @@ The following Regulations are revoked—
 - (b) The Fines Collection (Amendment) Regulations 2004[^f00008]; and
 - (c) The Fines Collection (Amendment) Regulations 2005[^f00009].
 
-### 33. Transitional provision and savings[^key-9a933dc91e7876c3ca5607b9ceb9798c]
+### 33. Transitional provision and savings[^c-9a933dc91e7876c3ca5607b9ceb9798c]
 
 (1) Subject to paragraph (2), these Regulations apply to any order made under Schedule 5, notwithstanding that the order may have been made before these Regulations come into force.
 
@@ -614,93 +614,93 @@ The modifications to the 1992 Regulations ensure that—
 
 [^f00001]: Footnote: [2003 c. 39](https://www.legislation.gov.uk/ukpga/2003/39); as modified by the Collection of Fines (Pilot Scheme) and Discharge of Fines by Unpaid Work (Pilot Schemes) (Amendment) Order 2006. [S.I. 2006/502](https://www.legislation.gov.uk/uksi/2006/502).
 
-[^key-466b095f826ea99857ce39b360895d95]: Commencement: Reg. 1 in force at 27.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/501/regulation/1/1)
+[^c-466b095f826ea99857ce39b360895d95]: Commencement: Reg. 1 in force at 27.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/501/regulation/1/1)
 
 [^f00002]: Footnote: [1971 c. 32](https://www.legislation.gov.uk/ukpga/1971/32).
 
-[^key-2b8b2d812930e758c7fd7c622b403311]: Commencement: Reg. 2 in force at 27.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/501/regulation/1/1)
+[^c-2b8b2d812930e758c7fd7c622b403311]: Commencement: Reg. 2 in force at 27.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/501/regulation/1/1)
 
-[^key-dfc84ab05ebcc24fc714a8d90752d1ee]: Commencement: Reg. 3 in force at 27.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/501/regulation/1/1)
+[^c-dfc84ab05ebcc24fc714a8d90752d1ee]: Commencement: Reg. 3 in force at 27.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/501/regulation/1/1)
 
-[^key-b84a220d67cb9fd76469b66094083ef9]: Commencement: Reg. 4 in force at 27.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/501/regulation/1/1)
+[^c-b84a220d67cb9fd76469b66094083ef9]: Commencement: Reg. 4 in force at 27.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/501/regulation/1/1)
 
-[^key-eaf922e25a2082bcc441599b63336dd0]: Commencement: Reg. 5 in force at 27.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/501/regulation/1/1)
+[^c-eaf922e25a2082bcc441599b63336dd0]: Commencement: Reg. 5 in force at 27.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/501/regulation/1/1)
 
-[^key-4560a54ac0c720f076be715b8acbb2c1]: Commencement: Reg. 6 in force at 27.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/501/regulation/1/1)
+[^c-4560a54ac0c720f076be715b8acbb2c1]: Commencement: Reg. 6 in force at 27.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/501/regulation/1/1)
 
-[^key-bd93dc99131be14363698e52ac781329]: Commencement: Reg. 7 in force at 27.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/501/regulation/1/1)
+[^c-bd93dc99131be14363698e52ac781329]: Commencement: Reg. 7 in force at 27.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/501/regulation/1/1)
 
-[^key-d49f5a4bd8192e1c6083f5081eb71805]: Commencement: Reg. 8 in force at 27.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/501/regulation/1/1)
+[^c-d49f5a4bd8192e1c6083f5081eb71805]: Commencement: Reg. 8 in force at 27.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/501/regulation/1/1)
 
-[^key-bcabb86283f2b6be9560a75ab8ed5c0a]: Commencement: Reg. 9 in force at 27.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/501/regulation/1/1)
+[^c-bcabb86283f2b6be9560a75ab8ed5c0a]: Commencement: Reg. 9 in force at 27.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/501/regulation/1/1)
 
-[^key-e4b67e4a7255a645a9401ce1bb7b0e82]: Commencement: Reg. 10 in force at 27.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/501/regulation/1/1)
+[^c-e4b67e4a7255a645a9401ce1bb7b0e82]: Commencement: Reg. 10 in force at 27.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/501/regulation/1/1)
 
-[^key-14f5d63c58413e2f54ebfc7439457d9d]: Commencement: Reg. 11 in force at 27.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/501/regulation/1/1)
+[^c-14f5d63c58413e2f54ebfc7439457d9d]: Commencement: Reg. 11 in force at 27.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/501/regulation/1/1)
 
-[^key-6a59474663bee5bb344ac1109fa590bf]: Commencement: Reg. 12 in force at 27.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/501/regulation/1/1)
+[^c-6a59474663bee5bb344ac1109fa590bf]: Commencement: Reg. 12 in force at 27.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/501/regulation/1/1)
 
-[^key-f835afccd092ce5d61e7c16c03a3510d]: Commencement: Reg. 13 in force at 27.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/501/regulation/1/1)
+[^c-f835afccd092ce5d61e7c16c03a3510d]: Commencement: Reg. 13 in force at 27.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/501/regulation/1/1)
 
-[^key-a507cbff983997b9231133ad1685cbc5]: Commencement: Reg. 14 in force at 27.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/501/regulation/1/1)
+[^c-a507cbff983997b9231133ad1685cbc5]: Commencement: Reg. 14 in force at 27.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/501/regulation/1/1)
 
-[^key-9f01df13e4fc8315cc29a72863ffa0fd]: Commencement: Reg. 15 in force at 27.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/501/regulation/1/1)
+[^c-9f01df13e4fc8315cc29a72863ffa0fd]: Commencement: Reg. 15 in force at 27.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/501/regulation/1/1)
 
-[^key-5eb5b7aeac1e14ad0a9b170dfaa3814e]: Commencement: Reg. 16 in force at 27.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/501/regulation/1/1)
+[^c-5eb5b7aeac1e14ad0a9b170dfaa3814e]: Commencement: Reg. 16 in force at 27.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/501/regulation/1/1)
 
-[^key-3591be087d6aeb44fcb00d6770d27968]: Commencement: Reg. 17 in force at 27.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/501/regulation/1/1)
+[^c-3591be087d6aeb44fcb00d6770d27968]: Commencement: Reg. 17 in force at 27.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/501/regulation/1/1)
 
-[^key-46aa994e9da236eaf06411137e2191b3]: Commencement: Reg. 18 in force at 27.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/501/regulation/1/1)
+[^c-46aa994e9da236eaf06411137e2191b3]: Commencement: Reg. 18 in force at 27.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/501/regulation/1/1)
 
-[^key-7e2e12945938e01587d227186c33a09b]: Commencement: Reg. 19 in force at 27.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/501/regulation/1/1)
+[^c-7e2e12945938e01587d227186c33a09b]: Commencement: Reg. 19 in force at 27.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/501/regulation/1/1)
 
-[^key-78dc8f0cced095d2bf456e4f2fdac528]: Commencement: Reg. 20 in force at 27.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/501/regulation/1/1)
+[^c-78dc8f0cced095d2bf456e4f2fdac528]: Commencement: Reg. 20 in force at 27.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/501/regulation/1/1)
 
 [^f00003]: Footnote: [1994 c. 22](https://www.legislation.gov.uk/ukpga/1994/22).
 
-[^key-fae35e5214c0605492d898173d95cef1]: Commencement: Reg. 21 in force at 27.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/501/regulation/1/1)
+[^c-fae35e5214c0605492d898173d95cef1]: Commencement: Reg. 21 in force at 27.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/501/regulation/1/1)
 
-[^key-fb51582b58488611434e0d67bcd01fd0]: Commencement: Reg. 22 in force at 27.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/501/regulation/1/1)
+[^c-fb51582b58488611434e0d67bcd01fd0]: Commencement: Reg. 22 in force at 27.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/501/regulation/1/1)
 
-[^key-09adeeb71706edd96cd711d36764c849]: Commencement: Reg. 23 in force at 27.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/501/regulation/1/1)
+[^c-09adeeb71706edd96cd711d36764c849]: Commencement: Reg. 23 in force at 27.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/501/regulation/1/1)
 
-[^key-0f2ffa2c07a9578987bbf4fbb1b46670]: Commencement: Reg. 24 in force at 27.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/501/regulation/1/1)
+[^c-0f2ffa2c07a9578987bbf4fbb1b46670]: Commencement: Reg. 24 in force at 27.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/501/regulation/1/1)
 
-[^key-c051d128632384eafbc1d26a459c50db]: Commencement: Reg. 25 in force at 27.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/501/regulation/1/1)
+[^c-c051d128632384eafbc1d26a459c50db]: Commencement: Reg. 25 in force at 27.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/501/regulation/1/1)
 
-[^key-a5ac0c160d5724ea61bc3e655e3d2a00]: Commencement: Reg. 26 in force at 27.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/501/regulation/1/1)
+[^c-a5ac0c160d5724ea61bc3e655e3d2a00]: Commencement: Reg. 26 in force at 27.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/501/regulation/1/1)
 
-[^key-fa4548cecbb72048899acd716de245cc]: Commencement: Reg. 27 in force at 27.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/501/regulation/1/1)
+[^c-fa4548cecbb72048899acd716de245cc]: Commencement: Reg. 27 in force at 27.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/501/regulation/1/1)
 
-[^key-02c0285cd70d78d2489f52cd591b001a]: Commencement: Reg. 28 in force at 27.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/501/regulation/1/1)
+[^c-02c0285cd70d78d2489f52cd591b001a]: Commencement: Reg. 28 in force at 27.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/501/regulation/1/1)
 
-[^key-eb68d2f06294b7d001582ee2af828621]: Commencement: Reg. 29 in force at 27.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/501/regulation/1/1)
+[^c-eb68d2f06294b7d001582ee2af828621]: Commencement: Reg. 29 in force at 27.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/501/regulation/1/1)
 
-[^key-5efca16321dfe883996a7a93b4e809b7]: Commencement: Reg. 30 in force at 27.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/501/regulation/1/1)
+[^c-5efca16321dfe883996a7a93b4e809b7]: Commencement: Reg. 30 in force at 27.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/501/regulation/1/1)
 
 [^f00004]: Footnote: [S.I. 1971/809](https://www.legislation.gov.uk/uksi/1971/809) as amended by [S.I. 2001/615](https://www.legislation.gov.uk/uksi/2001/615), [S.I. 2003/1236](https://www.legislation.gov.uk/uksi/2003/1236) and [S.I. 2005/617](https://www.legislation.gov.uk/uksi/2005/617).
 
 [^f00005]: Footnote: [1971 c. 32](https://www.legislation.gov.uk/ukpga/1971/32).
 
-[^key-9ba20a2134efa647580ccadd43c66a6a]: Textual amendment: Word in [reg. 30(a)(i)](https://www.legislation.gov.uk/uksi/2006/501/regulation/30/a/i) omitted (22.4.2014) by virtue of [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [92(a)(i)](https://www.legislation.gov.uk/uksi/2014/879/article/92/a/i)
+[^c-9ba20a2134efa647580ccadd43c66a6a]: Textual amendment: Word in [reg. 30(a)(i)](https://www.legislation.gov.uk/uksi/2006/501/regulation/30/a/i) omitted (22.4.2014) by virtue of [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [92(a)(i)](https://www.legislation.gov.uk/uksi/2014/879/article/92/a/i)
 
-[^key-5c9de140169c494d02fe1ca0845e3e27]: Textual amendment: [Reg. 30(a)(ii)](https://www.legislation.gov.uk/uksi/2006/501/regulation/30/a/ii) omitted (22.4.2014) by virtue of [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [92(a)(ii)](https://www.legislation.gov.uk/uksi/2014/879/article/92/a/ii)
+[^c-5c9de140169c494d02fe1ca0845e3e27]: Textual amendment: [Reg. 30(a)(ii)](https://www.legislation.gov.uk/uksi/2006/501/regulation/30/a/ii) omitted (22.4.2014) by virtue of [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [92(a)(ii)](https://www.legislation.gov.uk/uksi/2014/879/article/92/a/ii)
 
-[^key-21439f9d7c2c7b8a841be84ea2aa0388]: Textual amendment: Words in [reg. 30(b)(ii)](https://www.legislation.gov.uk/uksi/2006/501/regulation/30/b/ii) omitted (22.4.2014) by virtue of [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [92(b)(i)](https://www.legislation.gov.uk/uksi/2014/879/article/92/b/i)
+[^c-21439f9d7c2c7b8a841be84ea2aa0388]: Textual amendment: Words in [reg. 30(b)(ii)](https://www.legislation.gov.uk/uksi/2006/501/regulation/30/b/ii) omitted (22.4.2014) by virtue of [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [92(b)(i)](https://www.legislation.gov.uk/uksi/2014/879/article/92/b/i)
 
-[^key-45f1565e30df8cc4cd10b9e6e1105c54]: Textual amendment: [Reg. 30(b)(iii)(aa)](https://www.legislation.gov.uk/uksi/2006/501/regulation/30/b/iii/aa) omitted (22.4.2014) by virtue of [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [92(b)(ii)](https://www.legislation.gov.uk/uksi/2014/879/article/92/b/ii)
+[^c-45f1565e30df8cc4cd10b9e6e1105c54]: Textual amendment: [Reg. 30(b)(iii)(aa)](https://www.legislation.gov.uk/uksi/2006/501/regulation/30/b/iii/aa) omitted (22.4.2014) by virtue of [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [92(b)(ii)](https://www.legislation.gov.uk/uksi/2014/879/article/92/b/ii)
 
-[^key-52e484289de10d710b4d29863d2065ee]: Textual amendment: Words in [reg. 30(g)(i)](https://www.legislation.gov.uk/uksi/2006/501/regulation/30/g/i) omitted (22.4.2014) by virtue of [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [92(c)](https://www.legislation.gov.uk/uksi/2014/879/article/92/c)
+[^c-52e484289de10d710b4d29863d2065ee]: Textual amendment: Words in [reg. 30(g)(i)](https://www.legislation.gov.uk/uksi/2006/501/regulation/30/g/i) omitted (22.4.2014) by virtue of [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [92(c)](https://www.legislation.gov.uk/uksi/2014/879/article/92/c)
 
-[^key-c9857e285b6921d596dce512d832db12]: Textual amendment: [Reg. 30(i)](https://www.legislation.gov.uk/uksi/2006/501/regulation/30/i) omitted (22.4.2014) by virtue of [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [92(d)](https://www.legislation.gov.uk/uksi/2014/879/article/92/d)
+[^c-c9857e285b6921d596dce512d832db12]: Textual amendment: [Reg. 30(i)](https://www.legislation.gov.uk/uksi/2006/501/regulation/30/i) omitted (22.4.2014) by virtue of [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [92(d)](https://www.legislation.gov.uk/uksi/2014/879/article/92/d)
 
-[^key-3b71b5009ae3d7c5eab18217d19a3f2e]: Textual amendment: [Reg. 30(j)(i)](https://www.legislation.gov.uk/uksi/2006/501/regulation/30/j/i) omitted (22.4.2014) by virtue of [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [92(e)](https://www.legislation.gov.uk/uksi/2014/879/article/92/e)
+[^c-3b71b5009ae3d7c5eab18217d19a3f2e]: Textual amendment: [Reg. 30(j)(i)](https://www.legislation.gov.uk/uksi/2006/501/regulation/30/j/i) omitted (22.4.2014) by virtue of [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [92(e)](https://www.legislation.gov.uk/uksi/2014/879/article/92/e)
 
-[^key-9de3349bbaf62d930f3fc8f1a1d6fc20]: Commencement: Reg. 31 in force at 27.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/501/regulation/1/1)
+[^c-9de3349bbaf62d930f3fc8f1a1d6fc20]: Commencement: Reg. 31 in force at 27.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/501/regulation/1/1)
 
 [^f00006]: Footnote: [S.I. 1992/2182](https://www.legislation.gov.uk/uksi/1992/2182) as amended by [S.I. 1999/3178](https://www.legislation.gov.uk/uksi/1999/3178) and [S.I. 2003/1360](https://www.legislation.gov.uk/uksi/2003/1360)
 
-[^key-ddfac4c4820a085ce07047342b6278e4]: Commencement: Reg. 32 in force at 27.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/501/regulation/1/1)
+[^c-ddfac4c4820a085ce07047342b6278e4]: Commencement: Reg. 32 in force at 27.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/501/regulation/1/1)
 
 [^f00007]: Footnote: [S.I. 2004/176](https://www.legislation.gov.uk/uksi/2004/176).
 
@@ -708,7 +708,7 @@ The modifications to the 1992 Regulations ensure that—
 
 [^f00009]: Footnote: [S.I. 2005/484](https://www.legislation.gov.uk/uksi/2005/484).
 
-[^key-9a933dc91e7876c3ca5607b9ceb9798c]: Commencement: Reg. 33 in force at 27.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/501/regulation/1/1)
+[^c-9a933dc91e7876c3ca5607b9ceb9798c]: Commencement: Reg. 33 in force at 27.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/501/regulation/1/1)
 
 [^f00010]: Footnote: [S.I. 2004/176](https://www.legislation.gov.uk/uksi/2004/176).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 263C. Stock lending involving redemption.[^key-4d4c884cf99b808b26432c537cc69a0f]
+## 263C. Stock lending involving redemption.[^c-4d4c884cf99b808b26432c537cc69a0f]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4d4c884cf99b808b26432c537cc69a0f]: Textual amendment: Ss. 263B, 263C inserted (with effect in accordance with Sch. 10 para. 7(1) of the amending Act) by [Finance Act 1997 (c. 16)](https://www.legislation.gov.uk/ukpga/1997/16), [Sch. 10 para. 5(1)](https://www.legislation.gov.uk/ukpga/1997/16/schedule/10/paragraph/5/1); [S.I. 1997/991](https://www.legislation.gov.uk/uksi/1997/991), art. 2
+[^c-4d4c884cf99b808b26432c537cc69a0f]: Textual amendment: Ss. 263B, 263C inserted (with effect in accordance with Sch. 10 para. 7(1) of the amending Act) by [Finance Act 1997 (c. 16)](https://www.legislation.gov.uk/ukpga/1997/16), [Sch. 10 para. 5(1)](https://www.legislation.gov.uk/ukpga/1997/16/schedule/10/paragraph/5/1); [S.I. 1997/991](https://www.legislation.gov.uk/uksi/1997/991), art. 2

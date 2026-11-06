@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 17. Approval of arrangement[^key-1bcac90ecafad44f2706407556ade872]
+## 17. Approval of arrangement[^c-1bcac90ecafad44f2706407556ade872]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1bcac90ecafad44f2706407556ade872]: Commencement: S. 17 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-1bcac90ecafad44f2706407556ade872]: Commencement: S. 17 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

@@ -48,15 +48,15 @@ Coming into force
 
 The Scottish Ministers make the following Order in exercise of the powers conferred by sections 1, 8(1), 28, 32(2) and (3), 34(7) and 83(2) of the Animal Health Act 1981[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation and commencement[^key-2b09c46f7641c7aa088c2c9b988608ca]
+## 1. Citation and commencement[^c-2b09c46f7641c7aa088c2c9b988608ca]
 
 This Order may be cited as the Tuberculosis (Miscellaneous Amendments) (Scotland) (No. 2) Order 2018 and comes into force on 12 December 2018.
 
-## 2. Amendment of the Tuberculosis (Scotland) Order 2007[^key-50abc7789fe14a7edc625b99d7d21d66]
+## 2. Amendment of the Tuberculosis (Scotland) Order 2007[^c-50abc7789fe14a7edc625b99d7d21d66]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Tuberculosis in Specified Animals (Scotland) Order 2015[^key-b7dc0ce2677cf9d7414891d7ea83040d]
+## 3. Amendment of the Tuberculosis in Specified Animals (Scotland) Order 2015[^c-b7dc0ce2677cf9d7414891d7ea83040d]
 
 In article 2(1) of the Tuberculosis in Specified Animals (Scotland) Order 2015[^f00009], omit the definition of “authorised veterinary inspector”.
 
@@ -117,10 +117,10 @@ A Business and Regulatory Impact Assessment has been prepared and placed in the 
 
 [^f00001]: Footnote: [1981 c.22](https://www.legislation.gov.uk/ukpga/1981/22). The functions of the Secretary of State in so far as within devolved competence were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46). See section 86 of the Animal Health Act 1981 for the exercise of functions in relation to tuberculosis. The requirement to obtain Treasury consent in section 32(3) of the Animal Health Act 1981 was removed by section 55 of the Scotland Act 1998.
 
-[^key-2b09c46f7641c7aa088c2c9b988608ca]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2018/333/article/1) in force at 12.12.2018, see [art. 1](https://www.legislation.gov.uk/ssi/2018/333/article/1)
+[^c-2b09c46f7641c7aa088c2c9b988608ca]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2018/333/article/1) in force at 12.12.2018, see [art. 1](https://www.legislation.gov.uk/ssi/2018/333/article/1)
 
-[^key-50abc7789fe14a7edc625b99d7d21d66]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/ssi/2018/333/article/2) revoked (18.5.2023) by [The Tuberculosis (Scotland) Order 2023 (S.S.I. 2023/93)](https://www.legislation.gov.uk/ssi/2023/93), [art. 1(1)](https://www.legislation.gov.uk/ssi/2023/93/article/1/1), [sch.](https://www.legislation.gov.uk/ssi/2023/93/schedule)
+[^c-50abc7789fe14a7edc625b99d7d21d66]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/ssi/2018/333/article/2) revoked (18.5.2023) by [The Tuberculosis (Scotland) Order 2023 (S.S.I. 2023/93)](https://www.legislation.gov.uk/ssi/2023/93), [art. 1(1)](https://www.legislation.gov.uk/ssi/2023/93/article/1/1), [sch.](https://www.legislation.gov.uk/ssi/2023/93/schedule)
 
-[^key-b7dc0ce2677cf9d7414891d7ea83040d]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2018/333/article/3) in force at 12.12.2018, see [art. 1](https://www.legislation.gov.uk/ssi/2018/333/article/1)
+[^c-b7dc0ce2677cf9d7414891d7ea83040d]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2018/333/article/3) in force at 12.12.2018, see [art. 1](https://www.legislation.gov.uk/ssi/2018/333/article/1)
 
 [^f00009]: Footnote: [S.S.I. 2015/327](https://www.legislation.gov.uk/ssi/2015/327).

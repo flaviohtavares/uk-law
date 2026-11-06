@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 36. Notice of meeting by individual notice: when and where sent[^key-6b0d1bd76c2cbdff461cd7d444aa1353]
+## 36. Notice of meeting by individual notice: when and where sent[^c-6b0d1bd76c2cbdff461cd7d444aa1353]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6b0d1bd76c2cbdff461cd7d444aa1353]: Commencement: [Rule 36](https://www.legislation.gov.uk/nisr/2026/11/rule/36) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-6b0d1bd76c2cbdff461cd7d444aa1353]: Commencement: [Rule 36](https://www.legislation.gov.uk/nisr/2026/11/rule/36) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

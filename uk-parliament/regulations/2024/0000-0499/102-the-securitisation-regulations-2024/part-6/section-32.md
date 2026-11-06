@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Withdrawal of registration to provide third party verification service at request of third party verifier[^key-89d66a182cab5110a42d693fac2a0090]
+## 32. Withdrawal of registration to provide third party verification service at request of third party verifier[^c-89d66a182cab5110a42d693fac2a0090]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-89d66a182cab5110a42d693fac2a0090]: Commencement: Reg. 32 in force at 30.1.2024 for specified purposes and 1.11.2024 (the main commencement day) in so far as not already in force, see [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)(2)
+[^c-89d66a182cab5110a42d693fac2a0090]: Commencement: Reg. 32 in force at 30.1.2024 for specified purposes and 1.11.2024 (the main commencement day) in so far as not already in force, see [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)(2)

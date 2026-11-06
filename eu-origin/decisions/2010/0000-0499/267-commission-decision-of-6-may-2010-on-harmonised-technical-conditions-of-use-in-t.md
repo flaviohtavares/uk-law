@@ -39,21 +39,19 @@ on harmonised technical conditions of use in the 790-862 MHz frequency band for
 
 (2010/267/EU) (revoked)
 
-[^key-1b73d215e01b3088518a736e311d7d66]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1b73d215e01b3088518a736e311d7d66]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-1b73d215e01b3088518a736e311d7d66] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-1b73d215e01b3088518a736e311d7d66] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-1b73d215e01b3088518a736e311d7d66] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-1b73d215e01b3088518a736e311d7d66] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-1b73d215e01b3088518a736e311d7d66] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-1b73d215e01b3088518a736e311d7d66] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-1b73d215e01b3088518a736e311d7d66] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-1b73d215e01b3088518a736e311d7d66] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1b73d215e01b3088518a736e311d7d66]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1b73d215e01b3088518a736e311d7d66]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX — PARAMETERS REFERRED TO IN ARTICLES[^key-1b73d215e01b3088518a736e311d7d66]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## ANNEX — PARAMETERS REFERRED TO IN ARTICLES[^c-1b73d215e01b3088518a736e311d7d66]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -65,41 +63,43 @@ on harmonised technical conditions of use in the 790-862 MHz frequency band for
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1b73d215e01b3088518a736e311d7d66]A.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-1b73d215e01b3088518a736e311d7d66]A.
 
 **General parameters**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1b73d215e01b3088518a736e311d7d66]1.
+[^c-1b73d215e01b3088518a736e311d7d66]1.
 
 Within the band 790-862 MHz the frequency arrangement shall be as follows:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1b73d215e01b3088518a736e311d7d66]2.
+[^c-1b73d215e01b3088518a736e311d7d66]2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1b73d215e01b3088518a736e311d7d66]B.
+[^c-1b73d215e01b3088518a736e311d7d66]B.
 
 **Technical conditions for FDD or TDD base stations (BS)**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1b73d215e01b3088518a736e311d7d66]1.
+[^c-1b73d215e01b3088518a736e311d7d66]1.
 
 In-block limits:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1b73d215e01b3088518a736e311d7d66]2.
+[^c-1b73d215e01b3088518a736e311d7d66]2.
 
 Out-of-block limits:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1b73d215e01b3088518a736e311d7d66]C.
+[^c-1b73d215e01b3088518a736e311d7d66]C.
 
 **Technical conditions for FDD or TDD terminal stations (TS)**
 
@@ -107,4 +107,4 @@ Out-of-block limits:
 
 ## Annotations
 
-[^key-1b73d215e01b3088518a736e311d7d66]: Textual amendment: Decision revoked (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [Sch. 2 para. 22](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/22); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1b73d215e01b3088518a736e311d7d66]: Textual amendment: Decision revoked (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [Sch. 2 para. 22](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/22); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

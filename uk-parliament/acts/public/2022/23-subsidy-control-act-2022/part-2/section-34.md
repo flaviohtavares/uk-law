@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Information to be included in the subsidy database[^key-159f3709b9320e349d343f3ff94c9ec8][^key-c11d3443acb482a8e41de773acd1226f]
+## 34. Information to be included in the subsidy database[^c-159f3709b9320e349d343f3ff94c9ec8][^c-c11d3443acb482a8e41de773acd1226f]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-159f3709b9320e349d343f3ff94c9ec8]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2022/23/section/34) in force at Royal Assent for specified purposes, see [s. 91(1)(b)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/1/b)
+[^c-159f3709b9320e349d343f3ff94c9ec8]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2022/23/section/34) in force at Royal Assent for specified purposes, see [s. 91(1)(b)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/1/b)
 
-[^key-c11d3443acb482a8e41de773acd1226f]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2022/23/section/34) in force at 4.1.2023 in so far as not already in force by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-c11d3443acb482a8e41de773acd1226f]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2022/23/section/34) in force at 4.1.2023 in so far as not already in force by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)

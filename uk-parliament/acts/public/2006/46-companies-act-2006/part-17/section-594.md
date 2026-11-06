@@ -44,10 +44,10 @@ of all or some of the shares, or of all or some of the shares of a particular cl
 (6) In this section—
 
 - (a) “**arrangement**” means any agreement, scheme or arrangement (including an arrangement sanctioned in accordance with—
-  - (i) Part 26 or 26A[^key-61eef603c5fa449854eae57cd68d6abd] (arrangements and reconstructions), or
+  - (i) Part 26 or 26A[^c-61eef603c5fa449854eae57cd68d6abd] (arrangements and reconstructions), or
   - (ii) section 110 of the Insolvency Act 1986 (c. 45) or Article 96 of the Insolvency (Northern Ireland) Order 1989 (S.I. 1989/2405 (N.I. 19)) (liquidator in winding up accepting shares as consideration for sale of company property)), and
 - (b) “company”, except in reference to company A, includes any body corporate.
 
 ## Annotations
 
-[^key-61eef603c5fa449854eae57cd68d6abd]: Textual amendment: Words in [s. 594(6)(a)(i)](https://www.legislation.gov.uk/ukpga/2006/46/section/594/6/a/i) inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 9 para. 33(4)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/9/paragraph/33/4) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-61eef603c5fa449854eae57cd68d6abd]: Textual amendment: Words in [s. 594(6)(a)(i)](https://www.legislation.gov.uk/ukpga/2006/46/section/594/6/a/i) inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 9 para. 33(4)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/9/paragraph/33/4) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))

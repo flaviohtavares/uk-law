@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Grooming and adoption[^c1931238][^key-2a57f1cfc2f6305dd94135668cca06e3]
+## 73. Grooming and adoption[^c1931238][^c-2a57f1cfc2f6305dd94135668cca06e3]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ Schedule 15—
 
 [^c1931238]: Commencement: [S. 73](https://www.legislation.gov.uk/ukpga/2008/4/section/73) partly in force; [s. 73](https://www.legislation.gov.uk/ukpga/2008/4/section/73) not in force at Royal Assent; [s. 73](https://www.legislation.gov.uk/ukpga/2008/4/section/73) in force for certain purposes at 8.7.2008, see [s. 153(2)(e)(3)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/2/e/3)
 
-[^key-2a57f1cfc2f6305dd94135668cca06e3]: Commencement: [S. 73](https://www.legislation.gov.uk/ukpga/2008/4/section/73) in force at 14.7.2008 by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 35](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/35)
+[^c-2a57f1cfc2f6305dd94135668cca06e3]: Commencement: [S. 73](https://www.legislation.gov.uk/ukpga/2008/4/section/73) in force at 14.7.2008 by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 35](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/35)

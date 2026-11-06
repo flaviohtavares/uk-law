@@ -46,17 +46,17 @@ The Lord Chancellor makes the following Order in exercise of the powers conferre
 
 In accordance with section 144(4) and (5)(b), (c) and (d) of that Act, a draft of this instrument was laid before and approved by a resolution of each House of Parliament.
 
-## 1. Citation and commencement[^key-afd69a1ab3ed1c9180f48f71c92a68dc]
+## 1. Citation and commencement[^c-afd69a1ab3ed1c9180f48f71c92a68dc]
 
 This Order may be cited as the Lord Chancellor (Transfer of Functions and Supplementary Provisions) (No.2) Order 2006 and shall come into force on the day after the day on which it is made.
 
-## 2. Transfer and modification of functions[^key-47a69e769f6a4f810b06fbab02b0e02b]
+## 2. Transfer and modification of functions[^c-47a69e769f6a4f810b06fbab02b0e02b]
 
 Schedule 1 has effect with respect to the transfer, modification and abolition of functions of the Lord Chancellor contained in primary legislation.
 
-**3.**[^key-5f4ce2f6d983fe6dd0e53d15c7912a53] Schedule 2 has effect with respect to the transfer and modification of functions of the Lord Chancellor contained in secondary legislation.
+**3.**[^c-5f4ce2f6d983fe6dd0e53d15c7912a53] Schedule 2 has effect with respect to the transfer and modification of functions of the Lord Chancellor contained in secondary legislation.
 
-## 4. Supplementary provision[^key-2d8f05758cb1fab923cf19e0f85d086a]
+## 4. Supplementary provision[^c-2d8f05758cb1fab923cf19e0f85d086a]
 
 Schedule 3 has effect with respect to making provision supplementary to that under the Constitutional Reform Act 2005.
 
@@ -68,57 +68,45 @@ Dated 2nd April 2006
 
 Article 2
 
-### 1. Appellate Jurisdiction Act 1876[^key-9328d1a99088108572e76fd268c77694]
+### 1. Appellate Jurisdiction Act 1876[^c-9328d1a99088108572e76fd268c77694]
 
 The Appellate Jurisdiction Act 1876[^f00002] is amended as follows.
 
-**2.**[^key-91c45328e55ea242df7e9d5fbb11f4bc] In section 5, omit subsection (1).
+**2.**[^c-91c45328e55ea242df7e9d5fbb11f4bc] In section 5, omit subsection (1).
 
-**3.**[^key-54211179ff4e1160ad348d132c683980] In section 25, in the definition of “High judicial office”, omit the words “Lord Chancellor of Great Britain or of”.
+**3.**[^c-54211179ff4e1160ad348d132c683980] In section 25, in the definition of “High judicial office”, omit the words “Lord Chancellor of Great Britain or of”.
 
-### 4. Appellate Jurisdiction Act 1887[^key-d96476fe719fbd1771041d4b34dbe441]
+### 4. Appellate Jurisdiction Act 1887[^c-d96476fe719fbd1771041d4b34dbe441]
 
 (1) Section 3 of the Appellate Jurisdiction Act 1887[^f00003] is amended in accordance with this paragraph.
 
 (2) Omit “unless he is for the time being the Lord Chancellor of Great Britain”.
 
-### 5. Matrimonial and Family Proceedings Act 1984[^key-774b8ff5f7e96ac32919f6c2075db439]
+### 5. Matrimonial and Family Proceedings Act 1984[^c-774b8ff5f7e96ac32919f6c2075db439]
 
 The Matrimonial and Family Proceedings Act 1984[^f00004] is amended as follows.
 
-**6.**[^key-58bd007f3abb391b9136224cd60db96d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-58bd007f3abb391b9136224cd60db96d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-c861048b6aae9befb905f5d93fa23029] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-c861048b6aae9befb905f5d93fa23029] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Nationality, Immigration and Asylum Act 2002[^key-ea222c39d3039c3dc14d6d9c020eee8f]
+### 8. Nationality, Immigration and Asylum Act 2002[^c-ea222c39d3039c3dc14d6d9c020eee8f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-ea222c39d3039c3dc14d6d9c020eee8f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-ea222c39d3039c3dc14d6d9c020eee8f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-ea222c39d3039c3dc14d6d9c020eee8f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-ea222c39d3039c3dc14d6d9c020eee8f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-ea222c39d3039c3dc14d6d9c020eee8f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-ea222c39d3039c3dc14d6d9c020eee8f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Gender Recognition Act 2004[^key-8c557fc5b0696e3f533036c9da5baa52]
+### 12. Gender Recognition Act 2004[^c-8c557fc5b0696e3f533036c9da5baa52]
 
 Schedule 1 to the Gender Recognition Act 2004[^f00006] is amended as follows.
 
-**13.**[^key-11edec924e6dc8d32fee87193a474119] In paragraph 1(1), for “The Lord Chancellor” substitute “Subject to sub-paragraph (1A), the Lord Chancellor”.
+**13.**[^c-11edec924e6dc8d32fee87193a474119] In paragraph 1(1), for “The Lord Chancellor” substitute “Subject to sub-paragraph (1A), the Lord Chancellor”.
 
-**14.**[^key-bb1a6001436d9d4ffbdd3b5338774502] After paragraph 1(1) insert—
-
-> (1A) The Lord Chancellor may appoint a person under sub-paragraph (1) only with the concurrence of all of the following—
->
-> - (a) the Lord Chief Justice of England and Wales;
-> - (b) the Lord President of the Court of Session;
-> - (c) the Lord Chief Justice of Northern Ireland.
-
-.
-
-**15.**[^key-d999e69f95a03b672afa425c2457e089] In paragraph 2(1), for “The Lord Chancellor” substitute “Subject to sub-paragraph (1A), the Lord Chancellor”.
-
-**16.**[^key-c64c33a50add255ba87397242cbb4c3f] After paragraph 2(1) insert—
+**14.**[^c-bb1a6001436d9d4ffbdd3b5338774502] After paragraph 1(1) insert—
 
 > (1A) The Lord Chancellor may appoint a person under sub-paragraph (1) only with the concurrence of all of the following—
 >
@@ -128,7 +116,19 @@ Schedule 1 to the Gender Recognition Act 2004[^f00006] is amended as follows.
 
 .
 
-**17.**[^key-c4905c2ab84cd84073cf76995b130a5a] After paragraph 8 insert—
+**15.**[^c-d999e69f95a03b672afa425c2457e089] In paragraph 2(1), for “The Lord Chancellor” substitute “Subject to sub-paragraph (1A), the Lord Chancellor”.
+
+**16.**[^c-c64c33a50add255ba87397242cbb4c3f] After paragraph 2(1) insert—
+
+> (1A) The Lord Chancellor may appoint a person under sub-paragraph (1) only with the concurrence of all of the following—
+>
+> - (a) the Lord Chief Justice of England and Wales;
+> - (b) the Lord President of the Court of Session;
+> - (c) the Lord Chief Justice of Northern Ireland.
+
+.
+
+**17.**[^c-c4905c2ab84cd84073cf76995b130a5a] After paragraph 8 insert—
 
 > **8A. Delegation**
 >
@@ -143,11 +143,11 @@ Schedule 1 to the Gender Recognition Act 2004[^f00006] is amended as follows.
 
 .
 
-### 18. Traffic Management Act 2004[^key-2c8213963eecc80119191389747bbb04]
+### 18. Traffic Management Act 2004[^c-2c8213963eecc80119191389747bbb04]
 
 Section 81 of the Traffic Management Act 2004[^f00007] is amended as follows.
 
-**19.**[^key-11f40349fdca059b29f0ca4fa220605e] For subsection (3)(b) substitute—
+**19.**[^c-11f40349fdca059b29f0ca4fa220605e] For subsection (3)(b) substitute—
 
 > - (b) for the consent of the Lord Chancellor to be required for any decision by those authorities to appoint a person as an adjudicator;
 > - (c) for the consent of the Lord Chancellor and the Lord Chief Justice to be required for any decision by those authorities—
@@ -156,17 +156,17 @@ Section 81 of the Traffic Management Act 2004[^f00007] is amended as follows.
 
 .
 
-**20.**[^key-1a728d714c7fd5e3f2752e0e3de6c1c7] After subsection (3) insert—
+**20.**[^c-1a728d714c7fd5e3f2752e0e3de6c1c7] After subsection (3) insert—
 
 > (3A) The regulations may provide for the Lord Chief Justice to nominate a judicial office holder (as defined in section 109(4) of the Constitutional Reform Act 2005) to exercise any of his functions under the regulations.
 
 .
 
-### 21. Civil Partnership Act 2004[^key-48da54b8e4f5a9e0f2d7a5c70f1c9993]
+### 21. Civil Partnership Act 2004[^c-48da54b8e4f5a9e0f2d7a5c70f1c9993]
 
 The Civil Partnership Act 2004[^f00008] is amended as follows.
 
-**22.**[^key-ae6ef429daa677a7cd6bc82f9e3e95c4] (1) Section 188 is amended in accordance with this paragraph.
+**22.**[^c-ae6ef429daa677a7cd6bc82f9e3e95c4] (1) Section 188 is amended in accordance with this paragraph.
 
 (2) After subsection (4) insert—
 
@@ -174,7 +174,7 @@ The Civil Partnership Act 2004[^f00008] is amended as follows.
 
 .
 
-**23.**[^key-d1efc64c1b98a96bdfa2e48e4581a5fe] In paragraph 47 of Schedule 6, after sub-paragraph (2) insert—
+**23.**[^c-d1efc64c1b98a96bdfa2e48e4581a5fe] In paragraph 47 of Schedule 6, after sub-paragraph (2) insert—
 
 > (3) The Lord Chancellor may make a determination for the purposes of sub-paragraph (1) only with the concurrence of the Lord Chief Justice.
 >
@@ -182,21 +182,21 @@ The Civil Partnership Act 2004[^f00008] is amended as follows.
 
 .
 
-**24.**[^key-30cae36457d01e846a5e49698d580c66] (1) Paragraph 2 of Schedule 16 is amended in accordance with this paragraph.
+**24.**[^c-30cae36457d01e846a5e49698d580c66] (1) Paragraph 2 of Schedule 16 is amended in accordance with this paragraph.
 
 (2) In sub-paragraph (2)(b), after “may” insert “, after consultation with the Lord Chief Justice of Northern Ireland,”.
 
-### 25. Pensions Act 2004[^key-5587f832b1da40bdbeede7f6d59bdc10]
+### 25. Pensions Act 2004[^c-5587f832b1da40bdbeede7f6d59bdc10]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**26.**[^key-5587f832b1da40bdbeede7f6d59bdc10] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**26.**[^c-5587f832b1da40bdbeede7f6d59bdc10] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**27.**[^key-5587f832b1da40bdbeede7f6d59bdc10] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**27.**[^c-5587f832b1da40bdbeede7f6d59bdc10] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**28.**[^key-5587f832b1da40bdbeede7f6d59bdc10] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**28.**[^c-5587f832b1da40bdbeede7f6d59bdc10] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 29. Prevention of Terrorism Act 2005[^key-a3e643d9dbbb20148dd23dcacc0c1822]
+### 29. Prevention of Terrorism Act 2005[^c-a3e643d9dbbb20148dd23dcacc0c1822]
 
 (1) Paragraph 6 of the Schedule to the Prevention of Terrorism Act 2005[^f00010] is amended in accordance with this paragraph.
 
@@ -225,11 +225,11 @@ The Civil Partnership Act 2004[^f00008] is amended as follows.
 
 .
 
-### 30. Mental Capacity Act 2005[^key-dfc02d3c5f49b67a6deb8ef100d7d6ca]
+### 30. Mental Capacity Act 2005[^c-dfc02d3c5f49b67a6deb8ef100d7d6ca]
 
 The Mental Capacity Act 2005[^f00011] is amended as follows.
 
-**31.**[^key-a71eb8e24dc240d3214e2c92d3dad795] (1) Section 21 is amended in accordance with this paragraph.
+**31.**[^c-a71eb8e24dc240d3214e2c92d3dad795] (1) Section 21 is amended in accordance with this paragraph.
 
 (2) That section becomes subsection (1) of section 21.
 
@@ -244,7 +244,7 @@ The Mental Capacity Act 2005[^f00011] is amended as follows.
 
 .
 
-**32.**[^key-5933d6b5fd56c40e141272586e083a72] (1) Section 45 is amended in accordance with this paragraph.
+**32.**[^c-5933d6b5fd56c40e141272586e083a72] (1) Section 45 is amended in accordance with this paragraph.
 
 (2) In subsection (4) after “Lord Chancellor” insert “, after consulting the Lord Chief Justice”.
 
@@ -259,7 +259,7 @@ The Mental Capacity Act 2005[^f00011] is amended as follows.
 
 .
 
-**33.**[^key-50ef47522eced106ac6f5e0809750d9c] (1) Section 46 is amended in accordance with this paragraph.
+**33.**[^c-50ef47522eced106ac6f5e0809750d9c] (1) Section 46 is amended in accordance with this paragraph.
 
 (2) In subsection (1)(a), for “Lord Chancellor” substitute “Lord Chief Justice”.
 
@@ -278,13 +278,13 @@ The Mental Capacity Act 2005[^f00011] is amended as follows.
 - (a) for “Lord Chancellor” in the first place substitute “Lord Chief Justice, after consulting the Lord Chancellor,”;
 - (b) after “Lord Chancellor” in the second place insert “, after consulting the Lord Chief Justice,”.
 
-**34.**[^key-1f5fb8870beafa645d55b8b1fad10899] For section 51(1) substitute—
+**34.**[^c-1f5fb8870beafa645d55b8b1fad10899] For section 51(1) substitute—
 
 > (1) Rules of court with respect to the practice and procedure of the court (to be called “Court of Protection Rules”) may be made in accordance with Part 1 of Schedule 1 to the Constitutional Reform Act 2005.
 
 .
 
-**35.**[^key-0eb3bcca6c7b3ab623018b65c8896b33] For section 52 substitute—
+**35.**[^c-0eb3bcca6c7b3ab623018b65c8896b33] For section 52 substitute—
 
 > **52. Practice directions**
 >
@@ -302,9 +302,9 @@ The Mental Capacity Act 2005[^f00011] is amended as follows.
 
 .
 
-**36.**[^key-6f6f23094b8579c1f9ad37102851a15b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**36.**[^c-6f6f23094b8579c1f9ad37102851a15b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**37.**[^key-a86967bfc40c969f8a6f93db507eac66] (1) Section 65 is amended in accordance with this paragraph.
+**37.**[^c-a86967bfc40c969f8a6f93db507eac66] (1) Section 65 is amended in accordance with this paragraph.
 
 (2) In subsection (1), after “this Act” insert “, other than the power in section 21”.
 
@@ -319,7 +319,7 @@ The Mental Capacity Act 2005[^f00011] is amended as follows.
 
 .
 
-### 38. Education Act 2005[^key-0b2f8897a4e566e95eccd039451af753]
+### 38. Education Act 2005[^c-0b2f8897a4e566e95eccd039451af753]
 
 (1) Paragraph 1 of Schedule 3 to the Education Act 2005[^f00012] is amended in accordance with this paragraph.
 
@@ -331,7 +331,7 @@ The Mental Capacity Act 2005[^f00011] is amended as follows.
 
 .
 
-### 39. Gambling Act 2005[^key-b131f3291730039067fa4491762b814c]
+### 39. Gambling Act 2005[^c-b131f3291730039067fa4491762b814c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -339,7 +339,7 @@ The Mental Capacity Act 2005[^f00011] is amended as follows.
 
 Article 3
 
-### 1. Iron and Steel (Compensation to Officers and Servants) (No. 2) Regulations 1953[^key-c232cf893c23dc6749c0d9b2ec115ae5]
+### 1. Iron and Steel (Compensation to Officers and Servants) (No. 2) Regulations 1953[^c-c232cf893c23dc6749c0d9b2ec115ae5]
 
 (1) Regulation 2 of the Iron and Steel Regulations (Compensation to Officers and Servants) (No. 2) Regulations 1953[^f00014] is amended in accordance with this paragraph.
 
@@ -351,7 +351,7 @@ Article 3
 
 .
 
-### 2. British Transport Reorganisation (Compensation to Employees) Regulations 1962[^key-9649c8f080e7db95fd2836cde738ab92]
+### 2. British Transport Reorganisation (Compensation to Employees) Regulations 1962[^c-9649c8f080e7db95fd2836cde738ab92]
 
 (1) Regulation 1 of the British Transport Reorganisation (Compensation to Employees) Regulations 1962[^f00015] is amended in accordance with this paragraph.
 
@@ -363,27 +363,27 @@ Article 3
 
 .
 
-### 3. National Assembly for Wales (Representation of the People) Order 2003[^key-d64ee7d33350e3c9fd424feff65461fc]
+### 3. National Assembly for Wales (Representation of the People) Order 2003[^c-d64ee7d33350e3c9fd424feff65461fc]
 
 In article 112 of the National Assembly for Wales (Representation of the People) Order 2003[^f00016] after “Lord Chancellor” insert “and the Lord Chief Justice”.
 
-### 4. Courts Boards (Appointments and Procedure) Regulations 2004[^key-c4b4eb727ac34f0c45a9fbe5d8e36297]
+### 4. Courts Boards (Appointments and Procedure) Regulations 2004[^c-c4b4eb727ac34f0c45a9fbe5d8e36297]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-c4b4eb727ac34f0c45a9fbe5d8e36297] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-c4b4eb727ac34f0c45a9fbe5d8e36297] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-c4b4eb727ac34f0c45a9fbe5d8e36297] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-c4b4eb727ac34f0c45a9fbe5d8e36297] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-c4b4eb727ac34f0c45a9fbe5d8e36297] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-c4b4eb727ac34f0c45a9fbe5d8e36297] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — Supplementary provision[^key-72947b6ed4a795786412a707f0dd66f3]
+## SCHEDULE 3 — Supplementary provision[^c-72947b6ed4a795786412a707f0dd66f3]
 
 Article 4
 
 ### Copyright, Designs and Patents Act 1988
 
-[^key-72947b6ed4a795786412a707f0dd66f3]
+[^c-72947b6ed4a795786412a707f0dd66f3]
 
 In section 146(8) of the Copyright, Designs and Patents Act 1988[^f00018], after “functions” in both places where it occurs insert “, or the person to be appointed is to exercise functions,”.
 
@@ -405,112 +405,112 @@ Schedule 3 to this Order makes a supplementary provision to the amendment made b
 
 [^f00001]: Footnote: [2005 c. 4](https://www.legislation.gov.uk/ukpga/2005/4).
 
-[^key-afd69a1ab3ed1c9180f48f71c92a68dc]: Commencement: Art. 1 in force at 3.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2006/1016/article/1)
+[^c-afd69a1ab3ed1c9180f48f71c92a68dc]: Commencement: Art. 1 in force at 3.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2006/1016/article/1)
 
-[^key-47a69e769f6a4f810b06fbab02b0e02b]: Commencement: Art. 2 in force at 3.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2006/1016/article/1)
+[^c-47a69e769f6a4f810b06fbab02b0e02b]: Commencement: Art. 2 in force at 3.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2006/1016/article/1)
 
-[^key-5f4ce2f6d983fe6dd0e53d15c7912a53]: Commencement: Art. 3 in force at 3.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2006/1016/article/1)
+[^c-5f4ce2f6d983fe6dd0e53d15c7912a53]: Commencement: Art. 3 in force at 3.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2006/1016/article/1)
 
-[^key-2d8f05758cb1fab923cf19e0f85d086a]: Commencement: Art. 4 in force at 3.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2006/1016/article/1)
+[^c-2d8f05758cb1fab923cf19e0f85d086a]: Commencement: Art. 4 in force at 3.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2006/1016/article/1)
 
-[^key-9328d1a99088108572e76fd268c77694]: Commencement: Sch. 1 para. 1 in force at 3.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2006/1016/article/1)
+[^c-9328d1a99088108572e76fd268c77694]: Commencement: Sch. 1 para. 1 in force at 3.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2006/1016/article/1)
 
 [^f00002]: Footnote: [1876 c. 59](https://www.legislation.gov.uk/ukpga/1876/59). Section 25 was amended by Schedule 1 to the Statute Law Revision Act [1894 (c. 56)](https://www.legislation.gov.uk/ukpga/1894/56), Schedule 2 to the Administration of Justice Act [1965 (c. 2)](https://www.legislation.gov.uk/ukpga/1965/2), Schedule 5 the Justices of the Peace Act [1968 (c. 69)](https://www.legislation.gov.uk/ukpga/1968/69) and by Schedule 5 the Judicature (Northern Ireland) Act [1978 (c. 23)](https://www.legislation.gov.uk/ukpga/1978/23).
 
-[^key-91c45328e55ea242df7e9d5fbb11f4bc]: Commencement: Sch. 1 para. 2 in force at 3.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2006/1016/article/1)
+[^c-91c45328e55ea242df7e9d5fbb11f4bc]: Commencement: Sch. 1 para. 2 in force at 3.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2006/1016/article/1)
 
-[^key-54211179ff4e1160ad348d132c683980]: Commencement: Sch. 1 para. 3 in force at 3.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2006/1016/article/1)
+[^c-54211179ff4e1160ad348d132c683980]: Commencement: Sch. 1 para. 3 in force at 3.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2006/1016/article/1)
 
-[^key-d96476fe719fbd1771041d4b34dbe441]: Commencement: Sch. 1 para. 4 in force at 3.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2006/1016/article/1)
+[^c-d96476fe719fbd1771041d4b34dbe441]: Commencement: Sch. 1 para. 4 in force at 3.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2006/1016/article/1)
 
 [^f00003]: Footnote: [1887 c. 70](https://www.legislation.gov.uk/ukpga/1887/70). Section 3 was amended by paragraph 1(1) of Schedule 6 to the Judicial Pensions and Retirement Act [1993 (c. 8)](https://www.legislation.gov.uk/ukpga/1993/8).
 
-[^key-774b8ff5f7e96ac32919f6c2075db439]: Commencement: Sch. 1 para. 5 in force at 3.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2006/1016/article/1)
+[^c-774b8ff5f7e96ac32919f6c2075db439]: Commencement: Sch. 1 para. 5 in force at 3.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2006/1016/article/1)
 
 [^f00004]: Footnote: [1984 c. 42](https://www.legislation.gov.uk/ukpga/1984/42). Sections 36A and 36D were inserted by paragraph 92 of Schedule 27 to the Civil Partnership Act [2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33).
 
-[^key-58bd007f3abb391b9136224cd60db96d]: Textual amendment: Sch. 1 para. 6 revoked (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), [arts. 3-11](https://www.legislation.gov.uk/uksi/2014/956/article/3))
+[^c-58bd007f3abb391b9136224cd60db96d]: Textual amendment: Sch. 1 para. 6 revoked (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), [arts. 3-11](https://www.legislation.gov.uk/uksi/2014/956/article/3))
 
-[^key-c861048b6aae9befb905f5d93fa23029]: Textual amendment: Sch. 1 para. 7 revoked (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), [arts. 3-11](https://www.legislation.gov.uk/uksi/2014/956/article/3))
+[^c-c861048b6aae9befb905f5d93fa23029]: Textual amendment: Sch. 1 para. 7 revoked (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), [arts. 3-11](https://www.legislation.gov.uk/uksi/2014/956/article/3))
 
-[^key-ea222c39d3039c3dc14d6d9c020eee8f]: Textual amendment: Sch. 1 paras. 8-11 revoked (15.2.2010) by [The Transfer of Functions of the Asylum and Immigration Tribunal Order 2010 (S.I. 2010/21)](https://www.legislation.gov.uk/uksi/2010/21), [art. 1](https://www.legislation.gov.uk/uksi/2010/21/article/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/21/schedule/3)
+[^c-ea222c39d3039c3dc14d6d9c020eee8f]: Textual amendment: Sch. 1 paras. 8-11 revoked (15.2.2010) by [The Transfer of Functions of the Asylum and Immigration Tribunal Order 2010 (S.I. 2010/21)](https://www.legislation.gov.uk/uksi/2010/21), [art. 1](https://www.legislation.gov.uk/uksi/2010/21/article/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/21/schedule/3)
 
-[^key-8c557fc5b0696e3f533036c9da5baa52]: Commencement: Sch. 1 para. 12 in force at 3.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2006/1016/article/1)
+[^c-8c557fc5b0696e3f533036c9da5baa52]: Commencement: Sch. 1 para. 12 in force at 3.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2006/1016/article/1)
 
 [^f00006]: Footnote: [2004 c. 7](https://www.legislation.gov.uk/ukpga/2004/7).
 
-[^key-11edec924e6dc8d32fee87193a474119]: Commencement: Sch. 1 para. 13 in force at 3.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2006/1016/article/1)
+[^c-11edec924e6dc8d32fee87193a474119]: Commencement: Sch. 1 para. 13 in force at 3.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2006/1016/article/1)
 
-[^key-bb1a6001436d9d4ffbdd3b5338774502]: Commencement: Sch. 1 para. 14 in force at 3.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2006/1016/article/1)
+[^c-bb1a6001436d9d4ffbdd3b5338774502]: Commencement: Sch. 1 para. 14 in force at 3.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2006/1016/article/1)
 
-[^key-d999e69f95a03b672afa425c2457e089]: Commencement: Sch. 1 para. 15 in force at 3.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2006/1016/article/1)
+[^c-d999e69f95a03b672afa425c2457e089]: Commencement: Sch. 1 para. 15 in force at 3.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2006/1016/article/1)
 
-[^key-c64c33a50add255ba87397242cbb4c3f]: Commencement: Sch. 1 para. 16 in force at 3.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2006/1016/article/1)
+[^c-c64c33a50add255ba87397242cbb4c3f]: Commencement: Sch. 1 para. 16 in force at 3.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2006/1016/article/1)
 
-[^key-c4905c2ab84cd84073cf76995b130a5a]: Commencement: Sch. 1 para. 17 in force at 3.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2006/1016/article/1)
+[^c-c4905c2ab84cd84073cf76995b130a5a]: Commencement: Sch. 1 para. 17 in force at 3.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2006/1016/article/1)
 
-[^key-2c8213963eecc80119191389747bbb04]: Commencement: Sch. 1 para. 18 in force at 3.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2006/1016/article/1)
+[^c-2c8213963eecc80119191389747bbb04]: Commencement: Sch. 1 para. 18 in force at 3.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2006/1016/article/1)
 
 [^f00007]: Footnote: [2004 c. 18](https://www.legislation.gov.uk/ukpga/2004/18).
 
-[^key-11f40349fdca059b29f0ca4fa220605e]: Commencement: Sch. 1 para. 19 in force at 3.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2006/1016/article/1)
+[^c-11f40349fdca059b29f0ca4fa220605e]: Commencement: Sch. 1 para. 19 in force at 3.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2006/1016/article/1)
 
-[^key-1a728d714c7fd5e3f2752e0e3de6c1c7]: Commencement: Sch. 1 para. 20 in force at 3.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2006/1016/article/1)
+[^c-1a728d714c7fd5e3f2752e0e3de6c1c7]: Commencement: Sch. 1 para. 20 in force at 3.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2006/1016/article/1)
 
-[^key-48da54b8e4f5a9e0f2d7a5c70f1c9993]: Commencement: Sch. 1 para. 21 in force at 3.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2006/1016/article/1)
+[^c-48da54b8e4f5a9e0f2d7a5c70f1c9993]: Commencement: Sch. 1 para. 21 in force at 3.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2006/1016/article/1)
 
 [^f00008]: Footnote: [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33).
 
-[^key-ae6ef429daa677a7cd6bc82f9e3e95c4]: Commencement: Sch. 1 para. 22 in force at 3.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2006/1016/article/1)
+[^c-ae6ef429daa677a7cd6bc82f9e3e95c4]: Commencement: Sch. 1 para. 22 in force at 3.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2006/1016/article/1)
 
-[^key-d1efc64c1b98a96bdfa2e48e4581a5fe]: Commencement: Sch. 1 para. 23 in force at 3.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2006/1016/article/1)
+[^c-d1efc64c1b98a96bdfa2e48e4581a5fe]: Commencement: Sch. 1 para. 23 in force at 3.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2006/1016/article/1)
 
-[^key-30cae36457d01e846a5e49698d580c66]: Commencement: Sch. 1 para. 24 in force at 3.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2006/1016/article/1)
+[^c-30cae36457d01e846a5e49698d580c66]: Commencement: Sch. 1 para. 24 in force at 3.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2006/1016/article/1)
 
-[^key-5587f832b1da40bdbeede7f6d59bdc10]: Textual amendment: Sch. 1 paras. 25-28 revoked (E.W.S.) (6.4.2010) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(2)(g)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2/g), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2010/22/schedule/4/part/2)
+[^c-5587f832b1da40bdbeede7f6d59bdc10]: Textual amendment: Sch. 1 paras. 25-28 revoked (E.W.S.) (6.4.2010) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(2)(g)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2/g), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2010/22/schedule/4/part/2)
 
-[^key-a3e643d9dbbb20148dd23dcacc0c1822]: Commencement: Sch. 1 para. 29 in force at 3.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2006/1016/article/1)
+[^c-a3e643d9dbbb20148dd23dcacc0c1822]: Commencement: Sch. 1 para. 29 in force at 3.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2006/1016/article/1)
 
 [^f00010]: Footnote: [2005 c. 2](https://www.legislation.gov.uk/ukpga/2005/2).
 
-[^key-dfc02d3c5f49b67a6deb8ef100d7d6ca]: Commencement: Sch. 1 para. 30 in force at 3.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2006/1016/article/1)
+[^c-dfc02d3c5f49b67a6deb8ef100d7d6ca]: Commencement: Sch. 1 para. 30 in force at 3.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2006/1016/article/1)
 
 [^f00011]: Footnote: [2005 c. 9](https://www.legislation.gov.uk/ukpga/2005/9).
 
-[^key-a71eb8e24dc240d3214e2c92d3dad795]: Commencement: Sch. 1 para. 31 in force at 3.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2006/1016/article/1)
+[^c-a71eb8e24dc240d3214e2c92d3dad795]: Commencement: Sch. 1 para. 31 in force at 3.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2006/1016/article/1)
 
-[^key-5933d6b5fd56c40e141272586e083a72]: Commencement: Sch. 1 para. 32 in force at 3.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2006/1016/article/1)
+[^c-5933d6b5fd56c40e141272586e083a72]: Commencement: Sch. 1 para. 32 in force at 3.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2006/1016/article/1)
 
-[^key-50ef47522eced106ac6f5e0809750d9c]: Commencement: Sch. 1 para. 33 in force at 3.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2006/1016/article/1)
+[^c-50ef47522eced106ac6f5e0809750d9c]: Commencement: Sch. 1 para. 33 in force at 3.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2006/1016/article/1)
 
-[^key-1f5fb8870beafa645d55b8b1fad10899]: Commencement: Sch. 1 para. 34 in force at 3.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2006/1016/article/1)
+[^c-1f5fb8870beafa645d55b8b1fad10899]: Commencement: Sch. 1 para. 34 in force at 3.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2006/1016/article/1)
 
-[^key-0eb3bcca6c7b3ab623018b65c8896b33]: Commencement: Sch. 1 para. 35 in force at 3.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2006/1016/article/1)
+[^c-0eb3bcca6c7b3ab623018b65c8896b33]: Commencement: Sch. 1 para. 35 in force at 3.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2006/1016/article/1)
 
-[^key-6f6f23094b8579c1f9ad37102851a15b]: Textual amendment: Sch. 1 para. 36 revoked (18.9.2012) by [The Public Bodies (Abolition of Her Majesty’s Inspectorate of Courts Administration and the Public Guardian Board) Order 2012 (S.I. 2012/2401)](https://www.legislation.gov.uk/uksi/2012/2401), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2401/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2012/2401/article/1/3), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2012/2401/schedule/2/paragraph/6) (with [art. 2](https://www.legislation.gov.uk/uksi/2012/2401/article/2))
+[^c-6f6f23094b8579c1f9ad37102851a15b]: Textual amendment: Sch. 1 para. 36 revoked (18.9.2012) by [The Public Bodies (Abolition of Her Majesty’s Inspectorate of Courts Administration and the Public Guardian Board) Order 2012 (S.I. 2012/2401)](https://www.legislation.gov.uk/uksi/2012/2401), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2401/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2012/2401/article/1/3), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2012/2401/schedule/2/paragraph/6) (with [art. 2](https://www.legislation.gov.uk/uksi/2012/2401/article/2))
 
-[^key-a86967bfc40c969f8a6f93db507eac66]: Commencement: Sch. 1 para. 37 in force at 3.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2006/1016/article/1)
+[^c-a86967bfc40c969f8a6f93db507eac66]: Commencement: Sch. 1 para. 37 in force at 3.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2006/1016/article/1)
 
-[^key-0b2f8897a4e566e95eccd039451af753]: Commencement: Sch. 1 para. 38 in force at 3.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2006/1016/article/1)
+[^c-0b2f8897a4e566e95eccd039451af753]: Commencement: Sch. 1 para. 38 in force at 3.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2006/1016/article/1)
 
 [^f00012]: Footnote: [2005 c. 18](https://www.legislation.gov.uk/ukpga/2005/18).
 
-[^key-b131f3291730039067fa4491762b814c]: Textual amendment: Sch. 1 para. 39 revoked (E.W.S.) (18.1.2010) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/22/article/1/1), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2010/22/schedule/4/part/1)
+[^c-b131f3291730039067fa4491762b814c]: Textual amendment: Sch. 1 para. 39 revoked (E.W.S.) (18.1.2010) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/22/article/1/1), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2010/22/schedule/4/part/1)
 
-[^key-c232cf893c23dc6749c0d9b2ec115ae5]: Commencement: Sch. 2 para. 1 in force at 3.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2006/1016/article/1)
+[^c-c232cf893c23dc6749c0d9b2ec115ae5]: Commencement: Sch. 2 para. 1 in force at 3.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2006/1016/article/1)
 
 [^f00014]: Footnote: S.I. [1953/1849](https://www.legislation.gov.uk/uksi/1953/1849); paragraph 2(1) was amended by S.I. [1967/1370](https://www.legislation.gov.uk/uksi/1967/1370).
 
-[^key-9649c8f080e7db95fd2836cde738ab92]: Commencement: Sch. 2 para. 2 in force at 3.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2006/1016/article/1)
+[^c-9649c8f080e7db95fd2836cde738ab92]: Commencement: Sch. 2 para. 2 in force at 3.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2006/1016/article/1)
 
 [^f00015]: Footnote: S.I. [1962/2834](https://www.legislation.gov.uk/uksi/1962/2834).
 
-[^key-d64ee7d33350e3c9fd424feff65461fc]: Commencement: Sch. 2 para. 3 in force at 3.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2006/1016/article/1)
+[^c-d64ee7d33350e3c9fd424feff65461fc]: Commencement: Sch. 2 para. 3 in force at 3.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2006/1016/article/1)
 
 [^f00016]: Footnote: S.I. [2003/284](https://www.legislation.gov.uk/uksi/2003/284).
 
-[^key-c4b4eb727ac34f0c45a9fbe5d8e36297]: Textual amendment: Sch. 2 paras. 4-7 revoked (E.W.) (2.5.2012) by [The Public Bodies (Abolition of Courts Boards) Order 2012 (S.I. 2012/1206)](https://www.legislation.gov.uk/uksi/2012/1206), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1206/article/1/2), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2012/1206/schedule/paragraph/15)
+[^c-c4b4eb727ac34f0c45a9fbe5d8e36297]: Textual amendment: Sch. 2 paras. 4-7 revoked (E.W.) (2.5.2012) by [The Public Bodies (Abolition of Courts Boards) Order 2012 (S.I. 2012/1206)](https://www.legislation.gov.uk/uksi/2012/1206), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1206/article/1/2), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2012/1206/schedule/paragraph/15)
 
-[^key-72947b6ed4a795786412a707f0dd66f3]: Commencement: Sch. 3 in force at 3.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2006/1016/article/1)
+[^c-72947b6ed4a795786412a707f0dd66f3]: Commencement: Sch. 3 in force at 3.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2006/1016/article/1)
 
 [^f00018]: Footnote: [1988 c. 48](https://www.legislation.gov.uk/ukpga/1988/48). Section 146(8) was inserted by the paragraph 199 of Schedule 4 to the Constitutional Reform Act 2005.

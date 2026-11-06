@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Loans: attribution of financial assets and profits arising[^key-93b5c8e852a32df5dc6e7f0d2822ec3b]
+## 27. Loans: attribution of financial assets and profits arising[^c-93b5c8e852a32df5dc6e7f0d2822ec3b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-93b5c8e852a32df5dc6e7f0d2822ec3b]: Textual amendment: [S. 27](https://www.legislation.gov.uk/ukpga/2009/4/section/27) omitted (for chargeable periods beginning on or after 1.1.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 7 paras. 8(c)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/8/c), [30](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/30)
+[^c-93b5c8e852a32df5dc6e7f0d2822ec3b]: Textual amendment: [S. 27](https://www.legislation.gov.uk/ukpga/2009/4/section/27) omitted (for chargeable periods beginning on or after 1.1.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 7 paras. 8(c)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/8/c), [30](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/30)

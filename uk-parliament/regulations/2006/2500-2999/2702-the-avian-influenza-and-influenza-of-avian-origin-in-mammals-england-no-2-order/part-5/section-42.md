@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) An inspector who knows or suspects that any poultry, other captive bird or any thing on any vehicle is infected or contaminated with highly pathogenic avian influenza virus[^key-b0f8e96107d8a22e4c14f4477a17b208] may, by notice to the owner or driver of the vehicle or to the occupier of any premises—
+(1) An inspector who knows or suspects that any poultry, other captive bird or any thing on any vehicle is infected or contaminated with highly pathogenic avian influenza virus[^c-b0f8e96107d8a22e4c14f4477a17b208] may, by notice to the owner or driver of the vehicle or to the occupier of any premises—
 
 - (a) require the detention at such place as the inspector directs of any vehicle, equipment or other thing suspected of being contaminated; and
 - (b) direct that the vehicle be moved to such premises as the inspector directs.
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b0f8e96107d8a22e4c14f4477a17b208]: Textual amendment: Word in [art. 42](https://www.legislation.gov.uk/uksi/2006/2702/article/42) inserted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [4(23)](https://www.legislation.gov.uk/uksi/2023/1415/article/4/23)
+[^c-b0f8e96107d8a22e4c14f4477a17b208]: Textual amendment: Word in [art. 42](https://www.legislation.gov.uk/uksi/2006/2702/article/42) inserted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [4(23)](https://www.legislation.gov.uk/uksi/2023/1415/article/4/23)

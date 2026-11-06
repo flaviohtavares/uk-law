@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## M8. Member’s right to transfer a preserved pension to the 2015 Scheme[^key-24c46b60b6752c25141902df07266c8d]
+## M8. Member’s right to transfer a preserved pension to the 2015 Scheme[^c-24c46b60b6752c25141902df07266c8d]
 
 *Extent: E+W+S*
 
@@ -37,7 +37,7 @@ summary: ''
 
 (5) For the purposes of paragraphs (3) and (4) any break in pensionable employment where the member was in pensionable public service as defined in paragraph 3(2) of Schedule 7 to the 2013 Act is to be disregarded.
 
-(5A)[^key-3db3ccaec569f0ae3dbf0fa423645e9c] The Secretary of State must provide a member to whom this regulation applies with a notice in writing stating that the member has the right to request a statement of the amount of the cash equivalent of the member’s benefits accrued in accordance with these Regulations (“a statement of entitlement”).
+(5A)[^c-3db3ccaec569f0ae3dbf0fa423645e9c] The Secretary of State must provide a member to whom this regulation applies with a notice in writing stating that the member has the right to request a statement of the amount of the cash equivalent of the member’s benefits accrued in accordance with these Regulations (“a statement of entitlement”).
 
 (5B) The Secretary of State must provide the member with the notice referred to in paragraph (5A) within the period of three months beginning with the date that the Secretary of State receives notification from the member’s employing authority that the member has joined the 2015 Scheme.
 
@@ -48,7 +48,7 @@ summary: ''
 - (a) be made by the member in writing on the form provided by the Secretary of State for that purpose;
 - (b) be received by the Secretary of State before the end of the three month period beginning with the date of the notice under paragraph (5A).
 
-(6)[^key-0be995b8f2f03d8f18049b04b1ec99bd] The Secretary of State must provide a member who has requested a statement of entitlement in accordance with paragraph (5D) with a statement of entitlement at the guarantee date.
+(6)[^c-0be995b8f2f03d8f18049b04b1ec99bd] The Secretary of State must provide a member who has requested a statement of entitlement in accordance with paragraph (5D) with a statement of entitlement at the guarantee date.
 
 (7) In this regulation “the guarantee date” means any date that falls within the required period and is—
 
@@ -60,7 +60,7 @@ summary: ''
 
 (9) In paragraph (7), “the required period” means—
 
-- (a)[^key-aefdb183f0ac375091d70be52a9195fe] the period of three months beginning with the date that the Secretary of State receives the member’s request for a statement of entitlement in accordance with paragraph (5D); or
+- (a)[^c-aefdb183f0ac375091d70be52a9195fe] the period of three months beginning with the date that the Secretary of State receives the member’s request for a statement of entitlement in accordance with paragraph (5D); or
 - (b) such longer period beginning with that date (but not exceeding six months) as may be reasonably required if, for reasons beyond the control of the Secretary of State, the requisite information cannot be obtained to calculate the amount of the cash equivalent.
 
 (10) Subject to paragraphs (11) to (13), the member’s guaranteed cash equivalent shall be equal to the capitalised value of all of the member’s rights to benefits accrued under these Regulations and any associated rights under Part I of the Pensions (Increase) Act 1971.
@@ -89,10 +89,10 @@ summary: ''
 
 ## Annotations
 
-[^key-24c46b60b6752c25141902df07266c8d]: Textual amendment: [Reg. M8](https://www.legislation.gov.uk/uksi/1995/300/regulation/M8) inserted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2015/96/regulation/13)
+[^c-24c46b60b6752c25141902df07266c8d]: Textual amendment: [Reg. M8](https://www.legislation.gov.uk/uksi/1995/300/regulation/M8) inserted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2015/96/regulation/13)
 
-[^key-3db3ccaec569f0ae3dbf0fa423645e9c]: Textual amendment: [Regs. M8(5A)-(5D)](https://www.legislation.gov.uk/uksi/1995/300/regulation/M8/5A) inserted (1.4.2017) by [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2017/275/regulation/1/2/c), [6(2)](https://www.legislation.gov.uk/uksi/2017/275/regulation/6/2)
+[^c-3db3ccaec569f0ae3dbf0fa423645e9c]: Textual amendment: [Regs. M8(5A)-(5D)](https://www.legislation.gov.uk/uksi/1995/300/regulation/M8/5A) inserted (1.4.2017) by [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2017/275/regulation/1/2/c), [6(2)](https://www.legislation.gov.uk/uksi/2017/275/regulation/6/2)
 
-[^key-0be995b8f2f03d8f18049b04b1ec99bd]: Textual amendment: [Reg. M8(6)](https://www.legislation.gov.uk/uksi/1995/300/regulation/M8/6) substituted (1.4.2017) by [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2017/275/regulation/1/2/c), [6(3)](https://www.legislation.gov.uk/uksi/2017/275/regulation/6/3)
+[^c-0be995b8f2f03d8f18049b04b1ec99bd]: Textual amendment: [Reg. M8(6)](https://www.legislation.gov.uk/uksi/1995/300/regulation/M8/6) substituted (1.4.2017) by [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2017/275/regulation/1/2/c), [6(3)](https://www.legislation.gov.uk/uksi/2017/275/regulation/6/3)
 
-[^key-aefdb183f0ac375091d70be52a9195fe]: Textual amendment: [Reg. M8(9)(a)](https://www.legislation.gov.uk/uksi/1995/300/regulation/M8/9/a) substituted (1.4.2017) by [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2017/275/regulation/1/2/c), [6(4)](https://www.legislation.gov.uk/uksi/2017/275/regulation/6/4)
+[^c-aefdb183f0ac375091d70be52a9195fe]: Textual amendment: [Reg. M8(9)(a)](https://www.legislation.gov.uk/uksi/1995/300/regulation/M8/9/a) substituted (1.4.2017) by [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2017/275/regulation/1/2/c), [6(4)](https://www.legislation.gov.uk/uksi/2017/275/regulation/6/4)

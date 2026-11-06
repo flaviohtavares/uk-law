@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 139. Penalty for failure to comply with confirmation decision[^key-f2d2f648735ad4fe3df52fdfc042a03c][^key-d91b18b8f1576d3f5ec4bda6f5ea7016]
+## 139. Penalty for failure to comply with confirmation decision[^c-f2d2f648735ad4fe3df52fdfc042a03c][^c-d91b18b8f1576d3f5ec4bda6f5ea7016]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f2d2f648735ad4fe3df52fdfc042a03c]: Commencement: S. 139 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-f2d2f648735ad4fe3df52fdfc042a03c]: Commencement: S. 139 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-d91b18b8f1576d3f5ec4bda6f5ea7016]: Commencement: [S. 139](https://www.legislation.gov.uk/ukpga/2023/50/section/139) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z17)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z17)
+[^c-d91b18b8f1576d3f5ec4bda6f5ea7016]: Commencement: [S. 139](https://www.legislation.gov.uk/ukpga/2023/50/section/139) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z17)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z17)

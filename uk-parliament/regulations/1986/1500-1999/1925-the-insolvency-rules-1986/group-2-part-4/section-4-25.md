@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.25. Appointment of provisional liquidator[^key-1ecdcb673eb375fcc43349b9c2a6a6d0]
+## 4.25. Appointment of provisional liquidator[^c-1ecdcb673eb375fcc43349b9c2a6a6d0]
 
 *Extent: E+W*
 
-(1)[^key-9581a92e407ca4b0ff93e1df104f0a18] An application to the court for the appointment of a provisional liquidator under section 135 may be made by—
+(1)[^c-9581a92e407ca4b0ff93e1df104f0a18] An application to the court for the appointment of a provisional liquidator under section 135 may be made by—
 
 - (a) the petitioner;
 - (b) a creditor of the company;
@@ -50,6 +50,6 @@ If for any reason it is not practicable to comply with this paragraph, the offic
 
 ## Annotations
 
-[^key-1ecdcb673eb375fcc43349b9c2a6a6d0]: Commencement: Rule 4.25 in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-1ecdcb673eb375fcc43349b9c2a6a6d0]: Commencement: Rule 4.25 in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
-[^key-9581a92e407ca4b0ff93e1df104f0a18]: Textual amendment: Rule 4.25(1) substituted (31.5.2002) by [The Insolvency (Amendment) Rules 2002 (S.I. 2002/1307)](https://www.legislation.gov.uk/uksi/2002/1307), [rules 1](https://www.legislation.gov.uk/uksi/2002/1307/rule/1), [6(5)](https://www.legislation.gov.uk/uksi/2002/1307/rule/6/5) (with [rule 3](https://www.legislation.gov.uk/uksi/2002/1307/article/3))
+[^c-9581a92e407ca4b0ff93e1df104f0a18]: Textual amendment: Rule 4.25(1) substituted (31.5.2002) by [The Insolvency (Amendment) Rules 2002 (S.I. 2002/1307)](https://www.legislation.gov.uk/uksi/2002/1307), [rules 1](https://www.legislation.gov.uk/uksi/2002/1307/rule/1), [6(5)](https://www.legislation.gov.uk/uksi/2002/1307/rule/6/5) (with [rule 3](https://www.legislation.gov.uk/uksi/2002/1307/article/3))

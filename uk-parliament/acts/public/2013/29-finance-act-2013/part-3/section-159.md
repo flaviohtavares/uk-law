@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 159. Annual tax on enveloped dwellings return[^key-85f183f351e8229c2240fa55651b5500][^key-a1a9973bdc968c2724e92c88ae0eb606]
+## 159. Annual tax on enveloped dwellings return[^c-85f183f351e8229c2240fa55651b5500][^c-a1a9973bdc968c2724e92c88ae0eb606]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,7 +29,7 @@ summary: ''
 - (a) subsection (2) does not apply, and
 - (b) the return must be delivered by the end of the period of 90 days beginning with day 1.
 
-(3A)[^key-3eef5d424cffc176e30f56f748bd858f] Where a person—
+(3A)[^c-3eef5d424cffc176e30f56f748bd858f] Where a person—
 
 - (a) would (apart from this subsection) be required in accordance with subsection (2) to deliver a return for a chargeable period (“the later period”) by 30 April in that period, and
 - (b) is also required in accordance with subsection (3) to deliver a return for the previous chargeable period by a date (“the later date”) which is later than 30 April in the later period,
@@ -40,8 +40,8 @@ subsection (2) has effect as if it required the return mentioned in paragraph (a
 
 ## Annotations
 
-[^key-85f183f351e8229c2240fa55651b5500]: Modification: S. 159 modified (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 109(5)](https://www.legislation.gov.uk/ukpga/2014/26/section/109/5)[(6)](https://www.legislation.gov.uk/ukpga/2014/26/section/109/6)
+[^c-85f183f351e8229c2240fa55651b5500]: Modification: S. 159 modified (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 109(5)](https://www.legislation.gov.uk/ukpga/2014/26/section/109/5)[(6)](https://www.legislation.gov.uk/ukpga/2014/26/section/109/6)
 
-[^key-a1a9973bdc968c2724e92c88ae0eb606]: Modification: S. 159 modified (26.3.2015) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 73(7)](https://www.legislation.gov.uk/ukpga/2015/11/section/73/7)[(8)](https://www.legislation.gov.uk/ukpga/2015/11/section/73/8)
+[^c-a1a9973bdc968c2724e92c88ae0eb606]: Modification: S. 159 modified (26.3.2015) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 73(7)](https://www.legislation.gov.uk/ukpga/2015/11/section/73/7)[(8)](https://www.legislation.gov.uk/ukpga/2015/11/section/73/8)
 
-[^key-3eef5d424cffc176e30f56f748bd858f]: Textual amendment: S. 159(3A) inserted (with effect in accordance with s. 73(6) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 73(2)](https://www.legislation.gov.uk/ukpga/2015/11/section/73/2)
+[^c-3eef5d424cffc176e30f56f748bd858f]: Textual amendment: S. 159(3A) inserted (with effect in accordance with s. 73(6) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 73(2)](https://www.legislation.gov.uk/ukpga/2015/11/section/73/2)

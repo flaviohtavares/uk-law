@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Strategic plans and annual reports[^key-704905d74ff91bb20cdf4c1707d733f1]
+## 42. Strategic plans and annual reports[^c-704905d74ff91bb20cdf4c1707d733f1]
 
 *Extent: E+W+S+N.I.*
 
@@ -92,4 +92,4 @@ and must do so as soon as reasonably practicable after receiving the plan or the
 
 ## Annotations
 
-[^key-704905d74ff91bb20cdf4c1707d733f1]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2015/30/section/42) in force at 31.7.2015 by [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/c)
+[^c-704905d74ff91bb20cdf4c1707d733f1]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2015/30/section/42) in force at 31.7.2015 by [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/c)

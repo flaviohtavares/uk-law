@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Assignment of numbers of hours of guided learning to external qualifications[^key-1c7d3937ae3fe6e28405417736ce873d]
+## 9. Assignment of numbers of hours of guided learning to external qualifications[^c-1c7d3937ae3fe6e28405417736ce873d]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1c7d3937ae3fe6e28405417736ce873d]: Textual amendment: S. 9 repealed (31.5.2013) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [s. 269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4), [Sch. 16 Pt. 4](https://www.legislation.gov.uk/ukpga/2009/22/schedule/16/part/4); [S.I. 2013/975](https://www.legislation.gov.uk/uksi/2013/975), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/975/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/975/article/3))
+[^c-1c7d3937ae3fe6e28405417736ce873d]: Textual amendment: S. 9 repealed (31.5.2013) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [s. 269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4), [Sch. 16 Pt. 4](https://www.legislation.gov.uk/ukpga/2009/22/schedule/16/part/4); [S.I. 2013/975](https://www.legislation.gov.uk/uksi/2013/975), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/975/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/975/article/3))

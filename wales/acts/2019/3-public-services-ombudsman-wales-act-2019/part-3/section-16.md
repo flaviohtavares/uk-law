@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Power to investigate other health-related services[^key-af01356b9aa22f2ece513c37234ac65f]
+## 16. Power to investigate other health-related services[^c-af01356b9aa22f2ece513c37234ac65f]
 
 *Extent: E+W*
 
@@ -41,26 +41,26 @@ summary: ''
   other than a special procedure performed under the authority of a special procedure licence (within the meaning of Part 4 of the Public Health (Wales) Act 2017 (anaw 2);
 - “**relevant action**” (“***camau gweithredu perthnasol***”) has the meaning given in section 11(4);
 - “**relevant listed authority**” (“***awdurdod rhestredig perthnasol***”) means—
-  - (a) [^key-0d70a21238179dbcf394c748a0cf4f89]...
+  - (a) [^c-0d70a21238179dbcf394c748a0cf4f89]...
   - (b) a Local Health Board;
   - (c) an NHS Trust managing a hospital or other establishment or facility in Wales;
   - (d) a Special Health Authority not discharging functions only or mainly in England;
-  - (e) [^key-7b795166d69394c3a72a866d56faaf3b]...
+  - (e) [^c-7b795166d69394c3a72a866d56faaf3b]...
   - (f) an independent provider in Wales;
   - (g) a family health service provider in Wales;
   - (h) a person with functions conferred by regulations made under section 113(2) of the Health and Social Care (Community Health Standards) Act 2003 (c.43);
   - (i) the Welsh Health Specialised Services Committee;
-  - (ia) the Citizen Voice Body for Health and Social Care, Wales;[^key-f6acb2e109f55a268a7049a46c720654]
+  - (ia) the Citizen Voice Body for Health and Social Care, Wales;[^c-f6acb2e109f55a268a7049a46c720654]
 - “**relevant service**” (“***gwasanaeth perthnasol***”) has the meaning in section 11(5).
 
 (5) This section does not affect the Ombudsman's power under section 19.
 
 ## Annotations
 
-[^key-af01356b9aa22f2ece513c37234ac65f]: Commencement: [S. 16](https://www.legislation.gov.uk/anaw/2019/3/section/16) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)
+[^c-af01356b9aa22f2ece513c37234ac65f]: Commencement: [S. 16](https://www.legislation.gov.uk/anaw/2019/3/section/16) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)
 
-[^key-0d70a21238179dbcf394c748a0cf4f89]: Textual amendment: [S. 16(4)(a)](https://www.legislation.gov.uk/anaw/2019/3/section/16/4/a) omitted (1.4.2023) by virtue of [Health and Social Care (Quality and Engagement) (Wales) Act 2020 (asc 1)](https://www.legislation.gov.uk/asc/2020/1), [s. 29(2)](https://www.legislation.gov.uk/asc/2020/1/section/29/2), [Sch. 3 para. 17(2)(a)](https://www.legislation.gov.uk/asc/2020/1/schedule/3/paragraph/17/2/a); [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(t)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/t)
+[^c-0d70a21238179dbcf394c748a0cf4f89]: Textual amendment: [S. 16(4)(a)](https://www.legislation.gov.uk/anaw/2019/3/section/16/4/a) omitted (1.4.2023) by virtue of [Health and Social Care (Quality and Engagement) (Wales) Act 2020 (asc 1)](https://www.legislation.gov.uk/asc/2020/1), [s. 29(2)](https://www.legislation.gov.uk/asc/2020/1/section/29/2), [Sch. 3 para. 17(2)(a)](https://www.legislation.gov.uk/asc/2020/1/schedule/3/paragraph/17/2/a); [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(t)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/t)
 
-[^key-7b795166d69394c3a72a866d56faaf3b]: Textual amendment: [S. 16(4)(e)](https://www.legislation.gov.uk/anaw/2019/3/section/16/4/e) omitted (1.4.2023) by virtue of [Health and Social Care (Quality and Engagement) (Wales) Act 2020 (asc 1)](https://www.legislation.gov.uk/asc/2020/1), [s. 29(2)](https://www.legislation.gov.uk/asc/2020/1/section/29/2), [Sch. 3 para. 17(2)(b)](https://www.legislation.gov.uk/asc/2020/1/schedule/3/paragraph/17/2/b); [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(t)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/t)
+[^c-7b795166d69394c3a72a866d56faaf3b]: Textual amendment: [S. 16(4)(e)](https://www.legislation.gov.uk/anaw/2019/3/section/16/4/e) omitted (1.4.2023) by virtue of [Health and Social Care (Quality and Engagement) (Wales) Act 2020 (asc 1)](https://www.legislation.gov.uk/asc/2020/1), [s. 29(2)](https://www.legislation.gov.uk/asc/2020/1/section/29/2), [Sch. 3 para. 17(2)(b)](https://www.legislation.gov.uk/asc/2020/1/schedule/3/paragraph/17/2/b); [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(t)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/t)
 
-[^key-f6acb2e109f55a268a7049a46c720654]: Textual amendment: [S. 16(4)(ia)](https://www.legislation.gov.uk/anaw/2019/3/section/16/4/ia) inserted (1.4.2023) by [Health and Social Care (Quality and Engagement) (Wales) Act 2020 (asc 1)](https://www.legislation.gov.uk/asc/2020/1), [s. 29(2)](https://www.legislation.gov.uk/asc/2020/1/section/29/2), [Sch. 3 para. 17(2)(c)](https://www.legislation.gov.uk/asc/2020/1/schedule/3/paragraph/17/2/c); [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(t)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/t)
+[^c-f6acb2e109f55a268a7049a46c720654]: Textual amendment: [S. 16(4)(ia)](https://www.legislation.gov.uk/anaw/2019/3/section/16/4/ia) inserted (1.4.2023) by [Health and Social Care (Quality and Engagement) (Wales) Act 2020 (asc 1)](https://www.legislation.gov.uk/asc/2020/1), [s. 29(2)](https://www.legislation.gov.uk/asc/2020/1/section/29/2), [Sch. 3 para. 17(2)(c)](https://www.legislation.gov.uk/asc/2020/1/schedule/3/paragraph/17/2/c); [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(t)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/t)

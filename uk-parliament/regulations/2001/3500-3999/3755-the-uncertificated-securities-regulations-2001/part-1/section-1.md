@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Citation and commencement[^key-54de239a05d840350cfecdc09f9993ef]
+## 1. Citation and commencement[^c-54de239a05d840350cfecdc09f9993ef]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ These Regulations may be cited as the Uncertificated Securities Regulations 2001
 
 ## Annotations
 
-[^key-54de239a05d840350cfecdc09f9993ef]: Commencement: Reg. 1 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
+[^c-54de239a05d840350cfecdc09f9993ef]: Commencement: Reg. 1 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)

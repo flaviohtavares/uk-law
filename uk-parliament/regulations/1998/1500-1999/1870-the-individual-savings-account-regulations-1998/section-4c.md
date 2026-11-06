@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4C. Removal of insurance components at 6th April 2005[^key-bdf4446826099ff41bdb377b03dbce05]
+## 4C. Removal of insurance components at 6th April 2005[^c-bdf4446826099ff41bdb377b03dbce05]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bdf4446826099ff41bdb377b03dbce05]: Textual amendment: Reg. 4C omitted (1.7.2014) by virtue of [The Individual Savings Account (Amendment No. 2) Regulations 2014 (S.I. 2014/1450)](https://www.legislation.gov.uk/uksi/2014/1450), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1450/regulation/1), [9](https://www.legislation.gov.uk/uksi/2014/1450/regulation/9)
+[^c-bdf4446826099ff41bdb377b03dbce05]: Textual amendment: Reg. 4C omitted (1.7.2014) by virtue of [The Individual Savings Account (Amendment No. 2) Regulations 2014 (S.I. 2014/1450)](https://www.legislation.gov.uk/uksi/2014/1450), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1450/regulation/1), [9](https://www.legislation.gov.uk/uksi/2014/1450/regulation/9)

@@ -32,7 +32,7 @@ summary: ''
 
 Education, England
 
-The Education (National Curriculum) (Attainment Targets and Programme of Study in Science in respect of the Third Key Stage) (England) Order 2008 (revoked)[^key-3236538db2588b14413a3cef09dfcb07]
+The Education (National Curriculum) (Attainment Targets and Programme of Study in Science in respect of the Third Key Stage) (England) Order 2008 (revoked)[^c-3236538db2588b14413a3cef09dfcb07]
 
 Made
 
@@ -46,34 +46,34 @@ Coming into force
 
 1st August 2008
 
-[^key-3236538db2588b14413a3cef09dfcb07]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3236538db2588b14413a3cef09dfcb07]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-3236538db2588b14413a3cef09dfcb07]
+## 1. Citation, commencement and application[^c-3236538db2588b14413a3cef09dfcb07]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-3236538db2588b14413a3cef09dfcb07]
+## 2. Interpretation[^c-3236538db2588b14413a3cef09dfcb07]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Specification of attainment targets and programmes of study[^key-3236538db2588b14413a3cef09dfcb07]
+## 3. Specification of attainment targets and programmes of study[^c-3236538db2588b14413a3cef09dfcb07]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-3236538db2588b14413a3cef09dfcb07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-3236538db2588b14413a3cef09dfcb07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Revocation and savings[^key-3236538db2588b14413a3cef09dfcb07]
+## 5. Revocation and savings[^c-3236538db2588b14413a3cef09dfcb07]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3236538db2588b14413a3cef09dfcb07]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3236538db2588b14413a3cef09dfcb07]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-3236538db2588b14413a3cef09dfcb07]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3236538db2588b14413a3cef09dfcb07]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3236538db2588b14413a3cef09dfcb07]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2008/1763) revoked (1.9.2014) by [The Education (National Curriculum)(Attainment Targets and Programmes of Study)(England) Order 2013 (S.I. 2013/2232)](https://www.legislation.gov.uk/uksi/2013/2232), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2232/article/1/1), [6(1)](https://www.legislation.gov.uk/uksi/2013/2232/article/6/1), [Sch.](https://www.legislation.gov.uk/uksi/2013/2232/schedule)
+[^c-3236538db2588b14413a3cef09dfcb07]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2008/1763) revoked (1.9.2014) by [The Education (National Curriculum)(Attainment Targets and Programmes of Study)(England) Order 2013 (S.I. 2013/2232)](https://www.legislation.gov.uk/uksi/2013/2232), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2232/article/1/1), [6(1)](https://www.legislation.gov.uk/uksi/2013/2232/article/6/1), [Sch.](https://www.legislation.gov.uk/uksi/2013/2232/schedule)

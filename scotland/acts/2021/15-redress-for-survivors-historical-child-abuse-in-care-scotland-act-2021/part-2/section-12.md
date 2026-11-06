@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 12. Sharing of information between the Scottish Ministers and Redress Scotland[^key-deeb784e6e0f16bdfe1d1df2cfdd6c8d]
+## 12. Sharing of information between the Scottish Ministers and Redress Scotland[^c-deeb784e6e0f16bdfe1d1df2cfdd6c8d]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-deeb784e6e0f16bdfe1d1df2cfdd6c8d]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2021/15/section/12) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
+[^c-deeb784e6e0f16bdfe1d1df2cfdd6c8d]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2021/15/section/12) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)

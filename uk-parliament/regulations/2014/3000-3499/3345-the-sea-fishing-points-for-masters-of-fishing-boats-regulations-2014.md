@@ -60,7 +60,7 @@ The Secretary of State, in relation to England and Northern Ireland, and (but on
 
 (1) These Regulations may be cited as the Sea Fishing (Points for Masters of Fishing Boats) Regulations 2014 and come into force on 12th January 2015.
 
-(2) They extend to England and Wales and to Northern Ireland, and regulations 3(1), 4, 7, 8(5), 8(6)[^key-c83587ed0f064e7a16e1012a8d09d035] and 11 also extend to Scotland.
+(2) They extend to England and Wales and to Northern Ireland, and regulations 3(1), 4, 7, 8(5), 8(6)[^c-c83587ed0f064e7a16e1012a8d09d035] and 11 also extend to Scotland.
 
 (3) Regulation 14 applies only in relation to England.
 
@@ -70,7 +70,7 @@ The Secretary of State, in relation to England and Northern Ireland, and (but on
 
 (1) In these Regulations—
 
-- “**administrative sanction**” means a sanction other than a criminal sanction imposed by the authorities of a[^key-50ced34f1fc755aa20e63a12f4a4f3a6] third country on a master in respect of a serious infringement;
+- “**administrative sanction**” means a sanction other than a criminal sanction imposed by the authorities of a[^c-50ced34f1fc755aa20e63a12f4a4f3a6] third country on a master in respect of a serious infringement;
 - “**British national**” means a British citizen, a person who is a British subject by virtue of Part IV of the British Nationality Act 1981 [^c22307291] and who has the right of abode in the United Kingdom and is therefore exempt from United Kingdom immigration control, or a British overseas territories citizen who has acquired citizenship from a connection with Gibraltar [^c22307301];
 - “**the Control Regulation**” means Council Regulation [(EC) No. 1224/2009](https://www.legislation.gov.uk/european/regulation/2009/1224) establishing a Community control system for ensuring compliance with the rules of the common fisheries policy [^c22307311];
 - “**conviction**” has the meaning given by regulation 6;
@@ -89,7 +89,7 @@ The Secretary of State, in relation to England and Northern Ireland, and (but on
   - (a) Article 42 of Council Regulation [(EC) No. 1005/2008](https://www.legislation.gov.uk/european/regulation/2008/1005) establishing a Community system to prevent, deter and eliminate illegal, unreported and unregulated fishing [^c22307321]; and
   - (b) Article 90 of the Control Regulation;
 - “**statutory notification**” means a notification under any enactment having effect in Scotland and requiring the notification in question by the Scottish Ministers;
-- “**third country**” means a country other than the United Kingdom[^key-dde4ebe2eefbcd879c1f3919d0e26ffc];
+- “**third country**” means a country other than the United Kingdom[^c-dde4ebe2eefbcd879c1f3919d0e26ffc];
 - “**UK fishing boat**” means a fishing boat which—
   - (c) is registered in the United Kingdom under Part 2 of the Merchant Shipping Act 1995 [^c22307331]; or
   - (d) is wholly owned by persons qualified to own British ships for the purposes of that Part;
@@ -99,28 +99,28 @@ The Secretary of State, in relation to England and Northern Ireland, and (but on
 
 ## 3. Relevant authorities
 
-(1)[^key-44422bfeea23f6abc21d81049e6e76d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-44422bfeea23f6abc21d81049e6e76d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) The “points authority” is—
 
 - (a) the Marine Management Organisation, if—
   - (i) a master is convicted of a serious infringement by a court in the United Kingdom in relation to a fishing boat other than a Welsh, Northern Ireland or Scottish fishing boat; or
   - (ii) a master of any fishing boat, other than a Welsh, Northern Ireland or Scottish fishing boat, is—
-    - (aa) charged with a fisheries offence in [^key-72ca5070c7039cfc3a6a2f8db31b639c]... a third country;
-    - (bb) convicted of a serious infringement by a court in [^key-63889631b33458cdcb1cd967e6da2f9c]... a third country; or
-    - (cc) given an administrative sanction for a serious infringement in [^key-9b1945595f820fcebace4ea178f2b6d0]... a third country;
+    - (aa) charged with a fisheries offence in [^c-72ca5070c7039cfc3a6a2f8db31b639c]... a third country;
+    - (bb) convicted of a serious infringement by a court in [^c-63889631b33458cdcb1cd967e6da2f9c]... a third country; or
+    - (cc) given an administrative sanction for a serious infringement in [^c-9b1945595f820fcebace4ea178f2b6d0]... a third country;
 - (b) the Welsh Ministers, if—
   - (i) a master is convicted of a serious infringement by a court in the United Kingdom in relation to a Welsh fishing boat; or
   - (ii) a master of a Welsh fishing boat, is—
-    - (aa) charged with a fisheries offence in [^key-f9192881fafe8bc801b13ac2d288df14]... a third country;
-    - (bb) convicted of a serious infringement by a court in [^key-13b45ad08928727bc4f7767fbbe1775f]... a third country; or
-    - (cc) given an administrative sanction for a serious infringement in [^key-1a2c8b69c83b5cd049fba99804a97de0]... a third country;
+    - (aa) charged with a fisheries offence in [^c-f9192881fafe8bc801b13ac2d288df14]... a third country;
+    - (bb) convicted of a serious infringement by a court in [^c-13b45ad08928727bc4f7767fbbe1775f]... a third country; or
+    - (cc) given an administrative sanction for a serious infringement in [^c-1a2c8b69c83b5cd049fba99804a97de0]... a third country;
 - (c) DARD, if—
   - (i) a master is convicted of a serious infringement by a court in the United Kingdom in relation to a Northern Ireland fishing boat; or
   - (ii) a master of a Northern Ireland fishing boat, is—
-    - (aa) charged with a fisheries offence in [^key-1886b02a95d7f2b54a13644a5a605202]... a third country;
-    - (bb) convicted of a serious infringement by a court in [^key-fde3cc0a92a6a9e3c96c68bfbf83d1ba]... a third country; or
-    - (cc) given an administrative sanction for a serious infringement in [^key-8e5eebc03aa5be686817fdca155863b9]... a third country.
+    - (aa) charged with a fisheries offence in [^c-1886b02a95d7f2b54a13644a5a605202]... a third country;
+    - (bb) convicted of a serious infringement by a court in [^c-fde3cc0a92a6a9e3c96c68bfbf83d1ba]... a third country; or
+    - (cc) given an administrative sanction for a serious infringement in [^c-8e5eebc03aa5be686817fdca155863b9]... a third country.
 
 (3) The “prosecuting authority” is—
 
@@ -203,9 +203,9 @@ For the purposes of these Regulations, a master is only to be treated as convict
 
 (7) If a suspension starts while the master is mastering a fishing boat engaged in fishing, the Marine Management Organisation must extend the period of the suspension by the number of calendar days the master spends at sea between the start date set out in the register and the date on which the master returns to port.
 
-## 8. Allocation of points in respect of convictions and administrative sanctions in ... third countries[^key-94c709b07127b158a75600a7be9149ef]
+## 8. Allocation of points in respect of convictions and administrative sanctions in ... third countries[^c-94c709b07127b158a75600a7be9149ef]
 
-(1) A master (“M”) who is charged with an offence in [^key-db3142f7aece765a8deb63a7fd0aef9b]... a third country may request that the points authority notify M—
+(1) A master (“M”) who is charged with an offence in [^c-db3142f7aece765a8deb63a7fd0aef9b]... a third country may request that the points authority notify M—
 
 - (a) whether the offence is a serious infringement;
 - (b) of the points relating to any such serious infringement; and
@@ -213,7 +213,7 @@ For the purposes of these Regulations, a master is only to be treated as convict
 
 (2) The points authority must provide this information to M within 7 days of receiving M's request.
 
-(3) The points authority must, within 7 days of being satisfied that M has been convicted of, or received an administrative sanction in respect of, a serious infringement in [^key-2e12df96facc6fb6d7ec0fab20d88462]... a third country—
+(3) The points authority must, within 7 days of being satisfied that M has been convicted of, or received an administrative sanction in respect of, a serious infringement in [^c-2e12df96facc6fb6d7ec0fab20d88462]... a third country—
 
 - (a) allocate to M the points relating to the serious infringement; and
 - (b) notify the Marine Management Organisation of the allocation of points.
@@ -223,12 +223,12 @@ For the purposes of these Regulations, a master is only to be treated as convict
 - (a) include the points allocated by the points authority against M's name; and
 - (b) notify the points information to M and the other points authorities.
 
-(5) The Marine Management Organisation must, within 7 days of receiving a statutory notification from the Scottish Ministers that they have allocated points to the master of a Scottish fishing boat in respect of a serious infringement in [^key-eb40455a36fcebb3d752f4856b6fbe0e]... a third country—
+(5) The Marine Management Organisation must, within 7 days of receiving a statutory notification from the Scottish Ministers that they have allocated points to the master of a Scottish fishing boat in respect of a serious infringement in [^c-eb40455a36fcebb3d752f4856b6fbe0e]... a third country—
 
 - (a) include the points allocated by the Scottish Ministers against M's name; and
 - (b) notify the Scottish Ministers that it has done so.
 
-(6)[^key-5b83cf8e04d48140ae7d84698f8056d0] If the allocation of points under this regulation triggers a suspension or disqualification under regulation 10 or under a corresponding Scottish enactment, the Marine Management Organisation must ensure that the start date of the suspension or disqualification is at least one calendar day after it is included in the register.
+(6)[^c-5b83cf8e04d48140ae7d84698f8056d0] If the allocation of points under this regulation triggers a suspension or disqualification under regulation 10 or under a corresponding Scottish enactment, the Marine Management Organisation must ensure that the start date of the suspension or disqualification is at least one calendar day after it is included in the register.
 
 ## 9. Allocation of points in respect of serious infringements committed on the same occasion
 
@@ -238,9 +238,9 @@ For the purposes of these Regulations, a master is only to be treated as convict
 
 (2) An enforcement officer is—
 
-- (a) a person appointed for the purposes of carrying out inspections[^key-96c03dd731256ea6fe18694954174952]—
-  - (i) by a prosecuting authority; [^key-3d92ce8d267b120e00f31e84e7112330]...
-  - (ii)[^key-3d92ce8d267b120e00f31e84e7112330] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) a person appointed for the purposes of carrying out inspections[^c-96c03dd731256ea6fe18694954174952]—
+  - (i) by a prosecuting authority; [^c-3d92ce8d267b120e00f31e84e7112330]...
+  - (ii)[^c-3d92ce8d267b120e00f31e84e7112330] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in the case of a charge brought in a third country in respect of a fishing activity which is a serious infringement, the person appointed in that country who carried out the inspection or surveillance which led to the charge being brought.
 
 ## 10. Suspension and disqualification
@@ -261,14 +261,14 @@ For the purposes of these Regulations, a master is only to be treated as convict
 (4) A suspension or disqualification under this regulation starts—
 
 - (a) on the start date set out in the register; or
-- (b) if later, in a case where[^key-3026e3f2747c2995121fee749b1e0c16] the master is mastering a relevant fishing boat engaged in fishing when a suspension or disqualification is triggered, on the day following the day on which the master returns to port.
+- (b) if later, in a case where[^c-3026e3f2747c2995121fee749b1e0c16] the master is mastering a relevant fishing boat engaged in fishing when a suspension or disqualification is triggered, on the day following the day on which the master returns to port.
 
 (5) It is an offence for a master to master a relevant fishing boat—
 
 - (a) while suspended from doing so; or
 - (b) if disqualified from doing so.
 
-(5A)[^key-e80a302018fead227f5c0474fa910adb] If a master is already suspended from mastering a vessel when the master accumulates points triggering a further suspension period under this regulation, the further suspension period starts on the expiry of the existing suspension period.
+(5A)[^c-e80a302018fead227f5c0474fa910adb] If a master is already suspended from mastering a vessel when the master accumulates points triggering a further suspension period under this regulation, the further suspension period starts on the expiry of the existing suspension period.
 
 (6) In this regulation, “a relevant fishing boat” is a UK fishing boat which is not a Scottish fishing boat.
 
@@ -359,9 +359,9 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c22307281]: Marginal citation: [Paragraph 1A](https://www.legislation.gov.uk/uksi/2014/3345/paragraph/1A) of Schedule 2 was inserted by the Legislative and Regulatory Reform Act 2006, section 28 and amended by the European Union (Amendment) Act 2008, Part 1 of the Schedule and [S.I. 2007/1388](https://www.legislation.gov.uk/uksi/2007/1388).
 
-[^key-c83587ed0f064e7a16e1012a8d09d035]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3345/regulation/1/2) inserted (18.6.2018) by [The Sea Fishing (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/643)](https://www.legislation.gov.uk/uksi/2018/643), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/643/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2018/643/regulation/9)
+[^c-c83587ed0f064e7a16e1012a8d09d035]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3345/regulation/1/2) inserted (18.6.2018) by [The Sea Fishing (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/643)](https://www.legislation.gov.uk/uksi/2018/643), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/643/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2018/643/regulation/9)
 
-[^key-50ced34f1fc755aa20e63a12f4a4f3a6]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/3345/regulation/2/1) substituted (31.12.2020) by [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [11(2)(a)](https://www.legislation.gov.uk/uksi/2019/746/regulation/11/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-50ced34f1fc755aa20e63a12f4a4f3a6]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/3345/regulation/2/1) substituted (31.12.2020) by [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [11(2)(a)](https://www.legislation.gov.uk/uksi/2019/746/regulation/11/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22307291]: Marginal citation: [1981 c. 61](https://www.legislation.gov.uk/ukpga/1981/61); [section 31](https://www.legislation.gov.uk/uksi/2014/3345/section/31) in Part IV was amended by the [British Overseas Territories Act 2002 (c. 8)](https://www.legislation.gov.uk/ukpga/2002/8), [section 1(1)(b)](https://www.legislation.gov.uk/ukpga/2002/8/section/1/1/b). Section 33 was repealed by the [Nationality, Immigration and Asylum Act 2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41), [Schedule 2](https://www.legislation.gov.uk/ukpga/2002/41/schedule/2), [paragraph 1(i)](https://www.legislation.gov.uk/ukpga/2002/41/paragraph/1/i) and Schedule 9.
 
@@ -371,48 +371,48 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c22307321]: Marginal citation: OJ No. L 286, 29.10.2008, p.1, as last amended by Commission Regulation (EU) No. 202/2011 (OJ No. L 57, 2.3.2011, p. 10).
 
-[^key-dde4ebe2eefbcd879c1f3919d0e26ffc]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/3345/regulation/2/1) substituted (31.12.2020) by [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [11(2)(b)](https://www.legislation.gov.uk/uksi/2019/746/regulation/11/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dde4ebe2eefbcd879c1f3919d0e26ffc]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/3345/regulation/2/1) substituted (31.12.2020) by [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [11(2)(b)](https://www.legislation.gov.uk/uksi/2019/746/regulation/11/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22307331]: Marginal citation: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21); [section 15](https://www.legislation.gov.uk/uksi/2014/3345/section/15) in Part 2 was amended by [S.I. 2002/794](https://www.legislation.gov.uk/uksi/2002/794).
 
-[^key-44422bfeea23f6abc21d81049e6e76d6]: Textual amendment: [Reg. 3(1)](https://www.legislation.gov.uk/uksi/2014/3345/regulation/3/1) omitted (31.12.2020) by virtue of [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [11(3)(a)](https://www.legislation.gov.uk/uksi/2019/746/regulation/11/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-44422bfeea23f6abc21d81049e6e76d6]: Textual amendment: [Reg. 3(1)](https://www.legislation.gov.uk/uksi/2014/3345/regulation/3/1) omitted (31.12.2020) by virtue of [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [11(3)(a)](https://www.legislation.gov.uk/uksi/2019/746/regulation/11/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-72ca5070c7039cfc3a6a2f8db31b639c]: Textual amendment: Words in [reg. 3(2)(a)(ii)(aa)](https://www.legislation.gov.uk/uksi/2014/3345/regulation/3/2/a/ii/aa) omitted (31.12.2020) by virtue of [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [11(3)(b)(i)(aa)](https://www.legislation.gov.uk/uksi/2019/746/regulation/11/3/b/i/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-72ca5070c7039cfc3a6a2f8db31b639c]: Textual amendment: Words in [reg. 3(2)(a)(ii)(aa)](https://www.legislation.gov.uk/uksi/2014/3345/regulation/3/2/a/ii/aa) omitted (31.12.2020) by virtue of [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [11(3)(b)(i)(aa)](https://www.legislation.gov.uk/uksi/2019/746/regulation/11/3/b/i/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-63889631b33458cdcb1cd967e6da2f9c]: Textual amendment: Words in [reg. 3(2)(a)(ii)(bb)](https://www.legislation.gov.uk/uksi/2014/3345/regulation/3/2/a/ii/bb) omitted (31.12.2020) by virtue of [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [11(3)(b)(i)(aa)](https://www.legislation.gov.uk/uksi/2019/746/regulation/11/3/b/i/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-63889631b33458cdcb1cd967e6da2f9c]: Textual amendment: Words in [reg. 3(2)(a)(ii)(bb)](https://www.legislation.gov.uk/uksi/2014/3345/regulation/3/2/a/ii/bb) omitted (31.12.2020) by virtue of [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [11(3)(b)(i)(aa)](https://www.legislation.gov.uk/uksi/2019/746/regulation/11/3/b/i/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9b1945595f820fcebace4ea178f2b6d0]: Textual amendment: Words in [reg. 3(2)(a)(ii)(cc)](https://www.legislation.gov.uk/uksi/2014/3345/regulation/3/2/a/ii/cc) omitted (31.12.2020) by virtue of [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [11(3)(b)(i)(bb)](https://www.legislation.gov.uk/uksi/2019/746/regulation/11/3/b/i/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9b1945595f820fcebace4ea178f2b6d0]: Textual amendment: Words in [reg. 3(2)(a)(ii)(cc)](https://www.legislation.gov.uk/uksi/2014/3345/regulation/3/2/a/ii/cc) omitted (31.12.2020) by virtue of [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [11(3)(b)(i)(bb)](https://www.legislation.gov.uk/uksi/2019/746/regulation/11/3/b/i/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f9192881fafe8bc801b13ac2d288df14]: Textual amendment: Words in [reg. 3(2)(b)(ii)(aa)](https://www.legislation.gov.uk/uksi/2014/3345/regulation/3/2/b/ii/aa) omitted (31.12.2020) by virtue of [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [11(3)(b)(ii)(aa)](https://www.legislation.gov.uk/uksi/2019/746/regulation/11/3/b/ii/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f9192881fafe8bc801b13ac2d288df14]: Textual amendment: Words in [reg. 3(2)(b)(ii)(aa)](https://www.legislation.gov.uk/uksi/2014/3345/regulation/3/2/b/ii/aa) omitted (31.12.2020) by virtue of [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [11(3)(b)(ii)(aa)](https://www.legislation.gov.uk/uksi/2019/746/regulation/11/3/b/ii/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-13b45ad08928727bc4f7767fbbe1775f]: Textual amendment: Words in [reg. 3(2)(b)(ii)(bb)](https://www.legislation.gov.uk/uksi/2014/3345/regulation/3/2/b/ii/bb) omitted (31.12.2020) by virtue of [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [11(3)(b)(ii)(aa)](https://www.legislation.gov.uk/uksi/2019/746/regulation/11/3/b/ii/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-13b45ad08928727bc4f7767fbbe1775f]: Textual amendment: Words in [reg. 3(2)(b)(ii)(bb)](https://www.legislation.gov.uk/uksi/2014/3345/regulation/3/2/b/ii/bb) omitted (31.12.2020) by virtue of [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [11(3)(b)(ii)(aa)](https://www.legislation.gov.uk/uksi/2019/746/regulation/11/3/b/ii/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1a2c8b69c83b5cd049fba99804a97de0]: Textual amendment: Words in [reg. 3(2)(b)(ii)(cc)](https://www.legislation.gov.uk/uksi/2014/3345/regulation/3/2/b/ii/cc) omitted (31.12.2020) by virtue of [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [11(3)(b)(ii)(bb)](https://www.legislation.gov.uk/uksi/2019/746/regulation/11/3/b/ii/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1a2c8b69c83b5cd049fba99804a97de0]: Textual amendment: Words in [reg. 3(2)(b)(ii)(cc)](https://www.legislation.gov.uk/uksi/2014/3345/regulation/3/2/b/ii/cc) omitted (31.12.2020) by virtue of [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [11(3)(b)(ii)(bb)](https://www.legislation.gov.uk/uksi/2019/746/regulation/11/3/b/ii/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1886b02a95d7f2b54a13644a5a605202]: Textual amendment: Words in [reg. 3(2)(c)(ii)(aa)](https://www.legislation.gov.uk/uksi/2014/3345/regulation/3/2/c/ii/aa) omitted (31.12.2020) by virtue of [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [11(3)(b)(iii)(aa)](https://www.legislation.gov.uk/uksi/2019/746/regulation/11/3/b/iii/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1886b02a95d7f2b54a13644a5a605202]: Textual amendment: Words in [reg. 3(2)(c)(ii)(aa)](https://www.legislation.gov.uk/uksi/2014/3345/regulation/3/2/c/ii/aa) omitted (31.12.2020) by virtue of [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [11(3)(b)(iii)(aa)](https://www.legislation.gov.uk/uksi/2019/746/regulation/11/3/b/iii/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-fde3cc0a92a6a9e3c96c68bfbf83d1ba]: Textual amendment: Words in [reg. 3(2)(c)(ii)(bb)](https://www.legislation.gov.uk/uksi/2014/3345/regulation/3/2/c/ii/bb) omitted (31.12.2020) by virtue of [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [11(3)(b)(iii)(aa)](https://www.legislation.gov.uk/uksi/2019/746/regulation/11/3/b/iii/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fde3cc0a92a6a9e3c96c68bfbf83d1ba]: Textual amendment: Words in [reg. 3(2)(c)(ii)(bb)](https://www.legislation.gov.uk/uksi/2014/3345/regulation/3/2/c/ii/bb) omitted (31.12.2020) by virtue of [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [11(3)(b)(iii)(aa)](https://www.legislation.gov.uk/uksi/2019/746/regulation/11/3/b/iii/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8e5eebc03aa5be686817fdca155863b9]: Textual amendment: Words in [reg. 3(2)(c)(ii)(cc)](https://www.legislation.gov.uk/uksi/2014/3345/regulation/3/2/c/ii/cc) omitted (31.12.2020) by virtue of [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [11(3)(b)(iii)(bb)](https://www.legislation.gov.uk/uksi/2019/746/regulation/11/3/b/iii/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8e5eebc03aa5be686817fdca155863b9]: Textual amendment: Words in [reg. 3(2)(c)(ii)(cc)](https://www.legislation.gov.uk/uksi/2014/3345/regulation/3/2/c/ii/cc) omitted (31.12.2020) by virtue of [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [11(3)(b)(iii)(bb)](https://www.legislation.gov.uk/uksi/2019/746/regulation/11/3/b/iii/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22307341]: Marginal citation: Inshore fisheries and conservation districts and authorities were set up under sections 149 and 150 of the [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23).
 
 [^c22307351]: Marginal citation: OJ No. L 112, 30.4.2011, p.1, subject to a corrigendum (OJ No. L 328, 10.12.2011, p. 58).
 
-[^key-94c709b07127b158a75600a7be9149ef]: Textual amendment: Words in [reg. 8](https://www.legislation.gov.uk/uksi/2014/3345/regulation/8) heading omitted (31.12.2020) by virtue of [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [11(4)(a)](https://www.legislation.gov.uk/uksi/2019/746/regulation/11/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-94c709b07127b158a75600a7be9149ef]: Textual amendment: Words in [reg. 8](https://www.legislation.gov.uk/uksi/2014/3345/regulation/8) heading omitted (31.12.2020) by virtue of [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [11(4)(a)](https://www.legislation.gov.uk/uksi/2019/746/regulation/11/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-db3142f7aece765a8deb63a7fd0aef9b]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/uksi/2014/3345/regulation/8/1) omitted (31.12.2020) by virtue of [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [11(4)(b)](https://www.legislation.gov.uk/uksi/2019/746/regulation/11/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-db3142f7aece765a8deb63a7fd0aef9b]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/uksi/2014/3345/regulation/8/1) omitted (31.12.2020) by virtue of [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [11(4)(b)](https://www.legislation.gov.uk/uksi/2019/746/regulation/11/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2e12df96facc6fb6d7ec0fab20d88462]: Textual amendment: Words in [reg. 8(3)](https://www.legislation.gov.uk/uksi/2014/3345/regulation/8/3) omitted (31.12.2020) by virtue of [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [11(4)(b)](https://www.legislation.gov.uk/uksi/2019/746/regulation/11/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2e12df96facc6fb6d7ec0fab20d88462]: Textual amendment: Words in [reg. 8(3)](https://www.legislation.gov.uk/uksi/2014/3345/regulation/8/3) omitted (31.12.2020) by virtue of [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [11(4)(b)](https://www.legislation.gov.uk/uksi/2019/746/regulation/11/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-eb40455a36fcebb3d752f4856b6fbe0e]: Textual amendment: Words in [reg. 8(5)](https://www.legislation.gov.uk/uksi/2014/3345/regulation/8/5) omitted (31.12.2020) by virtue of [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [11(4)(b)](https://www.legislation.gov.uk/uksi/2019/746/regulation/11/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-eb40455a36fcebb3d752f4856b6fbe0e]: Textual amendment: Words in [reg. 8(5)](https://www.legislation.gov.uk/uksi/2014/3345/regulation/8/5) omitted (31.12.2020) by virtue of [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [11(4)(b)](https://www.legislation.gov.uk/uksi/2019/746/regulation/11/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5b83cf8e04d48140ae7d84698f8056d0]: Textual amendment: [Reg. 8(6)](https://www.legislation.gov.uk/uksi/2014/3345/regulation/8/6) inserted (18.6.2018) by [The Sea Fishing (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/643)](https://www.legislation.gov.uk/uksi/2018/643), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/643/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2018/643/regulation/10)
+[^c-5b83cf8e04d48140ae7d84698f8056d0]: Textual amendment: [Reg. 8(6)](https://www.legislation.gov.uk/uksi/2014/3345/regulation/8/6) inserted (18.6.2018) by [The Sea Fishing (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/643)](https://www.legislation.gov.uk/uksi/2018/643), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/643/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2018/643/regulation/10)
 
-[^key-96c03dd731256ea6fe18694954174952]: Textual amendment: Words in [reg. 9(2)(a)](https://www.legislation.gov.uk/uksi/2014/3345/regulation/9/2/a) substituted (31.12.2020) by [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [11(5)(a)](https://www.legislation.gov.uk/uksi/2019/746/regulation/11/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-96c03dd731256ea6fe18694954174952]: Textual amendment: Words in [reg. 9(2)(a)](https://www.legislation.gov.uk/uksi/2014/3345/regulation/9/2/a) substituted (31.12.2020) by [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [11(5)(a)](https://www.legislation.gov.uk/uksi/2019/746/regulation/11/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3d92ce8d267b120e00f31e84e7112330]: Textual amendment: [Reg. 9(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2014/3345/regulation/9/2/a/ii) and word omitted (31.12.2020) by virtue of [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [11(5)(b)](https://www.legislation.gov.uk/uksi/2019/746/regulation/11/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3d92ce8d267b120e00f31e84e7112330]: Textual amendment: [Reg. 9(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2014/3345/regulation/9/2/a/ii) and word omitted (31.12.2020) by virtue of [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [11(5)(b)](https://www.legislation.gov.uk/uksi/2019/746/regulation/11/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3026e3f2747c2995121fee749b1e0c16]: Textual amendment: Words in [reg. 10(4)(b)](https://www.legislation.gov.uk/uksi/2014/3345/regulation/10/4/b) substituted (18.6.2018) by [The Sea Fishing (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/643)](https://www.legislation.gov.uk/uksi/2018/643), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/643/regulation/1/1), [11(2)](https://www.legislation.gov.uk/uksi/2018/643/regulation/11/2)
+[^c-3026e3f2747c2995121fee749b1e0c16]: Textual amendment: Words in [reg. 10(4)(b)](https://www.legislation.gov.uk/uksi/2014/3345/regulation/10/4/b) substituted (18.6.2018) by [The Sea Fishing (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/643)](https://www.legislation.gov.uk/uksi/2018/643), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/643/regulation/1/1), [11(2)](https://www.legislation.gov.uk/uksi/2018/643/regulation/11/2)
 
-[^key-e80a302018fead227f5c0474fa910adb]: Textual amendment: [Reg. 10(5A)](https://www.legislation.gov.uk/uksi/2014/3345/regulation/10/5A) inserted (18.6.2018) by [The Sea Fishing (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/643)](https://www.legislation.gov.uk/uksi/2018/643), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/643/regulation/1/1), [11(3)](https://www.legislation.gov.uk/uksi/2018/643/regulation/11/3)
+[^c-e80a302018fead227f5c0474fa910adb]: Textual amendment: [Reg. 10(5A)](https://www.legislation.gov.uk/uksi/2014/3345/regulation/10/5A) inserted (18.6.2018) by [The Sea Fishing (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/643)](https://www.legislation.gov.uk/uksi/2018/643), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/643/regulation/1/1), [11(3)](https://www.legislation.gov.uk/uksi/2018/643/regulation/11/3)

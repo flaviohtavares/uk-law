@@ -33,22 +33,22 @@ of 20 December 2018
 
 on the harmonised standard for websites and mobile applications drafted in support of Directive (EU) 2016/2102 of the European Parliament and of the Council (revoked)
 
-[^key-e7b036296924c408be1c5379f4f8283f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e7b036296924c408be1c5379f4f8283f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-e7b036296924c408be1c5379f4f8283f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-e7b036296924c408be1c5379f4f8283f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-e7b036296924c408be1c5379f4f8283f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-e7b036296924c408be1c5379f4f8283f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e7b036296924c408be1c5379f4f8283f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e7b036296924c408be1c5379f4f8283f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-e7b036296924c408be1c5379f4f8283f]
+## ANNEX[^c-e7b036296924c408be1c5379f4f8283f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e7b036296924c408be1c5379f4f8283f]: Textual amendment: Decision revoked (26.10.2022) by [The Public Sector Bodies (Websites and Mobile Applications) Accessibility (Amendment) (EU Exit) Regulations 2022 (S.I. 2022/1097)](https://www.legislation.gov.uk/uksi/2022/1097), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1097/regulation/1/2), [7(c)](https://www.legislation.gov.uk/uksi/2022/1097/regulation/7/c)
+[^c-e7b036296924c408be1c5379f4f8283f]: Textual amendment: Decision revoked (26.10.2022) by [The Public Sector Bodies (Websites and Mobile Applications) Accessibility (Amendment) (EU Exit) Regulations 2022 (S.I. 2022/1097)](https://www.legislation.gov.uk/uksi/2022/1097), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1097/regulation/1/2), [7(c)](https://www.legislation.gov.uk/uksi/2022/1097/regulation/7/c)

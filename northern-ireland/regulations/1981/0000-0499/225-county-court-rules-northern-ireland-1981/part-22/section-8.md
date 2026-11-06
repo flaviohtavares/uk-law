@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) Where under the provisions of any enactment an action is ordered by the High Court to be heard, or remitted by the High Court for hearing in a county court, the plaintiff shall lodge the original writ of summons or other originating process \[[^f00208] and all other pleadings\] with the chief clerk [^key-893e1ea4dc007d3f0255824054eab914]....
+(1) Where under the provisions of any enactment an action is ordered by the High Court to be heard, or remitted by the High Court for hearing in a county court, the plaintiff shall lodge the original writ of summons or other originating process \[[^f00208] and all other pleadings\] with the chief clerk [^c-893e1ea4dc007d3f0255824054eab914]....
 
 [(2) [^f00209] The original writ of summons or other originating process and all other pleadings shall be lodged with the chief clerk in accordance with paragraph (1) within 14 days from the date of the order for remittal.\]
 
@@ -34,7 +34,7 @@ summary: ''
 
 [^f00208]: Footnote: Words inserted by [S.R. 1982 No. 287](https://www.legislation.gov.uk/nisr/1982/287) with effect from 11.10.82
 
-[^key-893e1ea4dc007d3f0255824054eab914]: Textual amendment: Words in Order 22 rule 8(1) omitted (31.10.2016) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/302)](https://www.legislation.gov.uk/nisr/2016/302), [rules 1](https://www.legislation.gov.uk/nisr/2016/302/rule/1), [3(5)(b)](https://www.legislation.gov.uk/nisr/2016/302/rule/3/5/b); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2](https://www.legislation.gov.uk/nisr/2016/387/article/2)
+[^c-893e1ea4dc007d3f0255824054eab914]: Textual amendment: Words in Order 22 rule 8(1) omitted (31.10.2016) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/302)](https://www.legislation.gov.uk/nisr/2016/302), [rules 1](https://www.legislation.gov.uk/nisr/2016/302/rule/1), [3(5)(b)](https://www.legislation.gov.uk/nisr/2016/302/rule/3/5/b); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2](https://www.legislation.gov.uk/nisr/2016/387/article/2)
 
 [^f00209]: Footnote: Paragraph (2) substituted by [S.R. 1995 No. 151](https://www.legislation.gov.uk/nisr/1995/151) with effect from 01.09.95
 

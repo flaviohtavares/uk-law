@@ -37,7 +37,7 @@ An Act to consolidate with amendments to give effect to recommendations of the S
 
 ## Contents
 
-### PART I — PROVISION OF HOUSING[^c12769821][^key-ea61006bd93b6dae5efba35692ced44e]
+### PART I — PROVISION OF HOUSING[^c12769821][^c-ea61006bd93b6dae5efba35692ced44e]
 
 #### Duties and powers of local authorities
 
@@ -124,7 +124,7 @@ An Act to consolidate with amendments to give effect to recommendations of the S
 - [Section 35B — Procedure on review](part-ii/section-35b.md)
 - [Section 36 — Protection of property of homeless persons and persons threatened with homelessness.](part-ii/section-36.md)
 
-#### Duties of relevant bodies in relation to homelessness[^key-222e63e00c79ff3eaac646e9f36f9e01]
+#### Duties of relevant bodies in relation to homelessness[^c-222e63e00c79ff3eaac646e9f36f9e01]
 
 - [Section 36A — Duty to ask if a person is homeless or threatened with homelessness](part-ii/section-36a.md)
 - [Section 36B — Duty to act if a person may be homeless](part-ii/section-36b.md)
@@ -436,13 +436,13 @@ An Act to consolidate with amendments to give effect to recommendations of the S
 - [Section 150 — Duty to enforce this Part.](part-vii/section-150.md)
 - [Section 151 — Interpretation and application.](part-vii/section-151.md)
 
-### PART VIII — HOUSES IN MULTIPLE OCCUPATION[^key-f08aca333f06ced90a56cfa725faf617]
+### PART VIII — HOUSES IN MULTIPLE OCCUPATION[^c-f08aca333f06ced90a56cfa725faf617]
 
 *Extent: S*
 
 **No longer in force.**
 
-#### Registration schemes[^key-f08aca333f06ced90a56cfa725faf617]
+#### Registration schemes[^c-f08aca333f06ced90a56cfa725faf617]
 
 **No longer in force.**
 
@@ -451,7 +451,7 @@ An Act to consolidate with amendments to give effect to recommendations of the S
 - [Section 154 — Proof of scheme and contents of register.](part-viii/section-154.md)
 - [Section 155 — Power to require information for purposes of scheme.](part-viii/section-155.md)
 
-#### Management code[^key-f08aca333f06ced90a56cfa725faf617]
+#### Management code[^c-f08aca333f06ced90a56cfa725faf617]
 
 **No longer in force.**
 
@@ -460,7 +460,7 @@ An Act to consolidate with amendments to give effect to recommendations of the S
 - [Section 158 — Appeal against making of, or failure to revoke, order under s.157.](part-viii/section-158.md)
 - [Section 159 — Registration of order and of revocation.](part-viii/section-159.md)
 
-#### Powers of local authority to require works to be done[^key-f08aca333f06ced90a56cfa725faf617]
+#### Powers of local authority to require works to be done[^c-f08aca333f06ced90a56cfa725faf617]
 
 **No longer in force.**
 
@@ -471,7 +471,7 @@ An Act to consolidate with amendments to give effect to recommendations of the S
 - [Section 164 — Carrying out of works by local authority.](part-viii/section-164.md)
 - [Section 165 — Penalty for failure to execute works.](part-viii/section-165.md)
 
-#### Overcrowding[^key-f08aca333f06ced90a56cfa725faf617]
+#### Overcrowding[^c-f08aca333f06ced90a56cfa725faf617]
 
 **No longer in force.**
 
@@ -481,7 +481,7 @@ An Act to consolidate with amendments to give effect to recommendations of the S
 - [Section 169 — Revocation and variation.](part-viii/section-169.md)
 - [Section 170 — Appeal against refusal.](part-viii/section-170.md)
 
-#### Supplementary[^key-f08aca333f06ced90a56cfa725faf617]
+#### Supplementary[^c-f08aca333f06ced90a56cfa725faf617]
 
 **No longer in force.**
 
@@ -493,7 +493,7 @@ An Act to consolidate with amendments to give effect to recommendations of the S
 - [Section 176 — Identity and notice under Part VIII.](part-viii/section-176.md)
 - [Section 177 — Statutory tenant to be regarded as lessee, etc.](part-viii/section-177.md)
 
-#### Control orders[^key-f08aca333f06ced90a56cfa725faf617]
+#### Control orders[^c-f08aca333f06ced90a56cfa725faf617]
 
 **No longer in force.**
 
@@ -506,14 +506,14 @@ An Act to consolidate with amendments to give effect to recommendations of the S
 - [Section 184 — Duty to prepare management scheme.](part-viii/section-184.md)
 - [Section 185 — Power of sheriff to modify or determine lease.](part-viii/section-185.md)
 
-#### Appeals[^key-f08aca333f06ced90a56cfa725faf617]
+#### Appeals[^c-f08aca333f06ced90a56cfa725faf617]
 
 **No longer in force.**
 
 - [Section 186 — Appeal against control order.](part-viii/section-186.md)
 - [Section 187 — Control order revoked on appeal.](part-viii/section-187.md)
 
-#### Expiration and revocation of control order, Et ceteralaetc[^key-f08aca333f06ced90a56cfa725faf617]
+#### Expiration and revocation of control order, Et ceteralaetc[^c-f08aca333f06ced90a56cfa725faf617]
 
 **No longer in force.**
 
@@ -610,7 +610,7 @@ An Act to consolidate with amendments to give effect to recommendations of the S
 
 - [Section 235 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-xii/section-235.md)
 
-### PART XIII — LOCAL AUTHORITY GRANTS FOR IMPROVEMENT, REPAIR AND CONVERSION[^key-0848da685d3aba4e37151f481cd0e3a6]
+### PART XIII — LOCAL AUTHORITY GRANTS FOR IMPROVEMENT, REPAIR AND CONVERSION[^c-0848da685d3aba4e37151f481cd0e3a6]
 
 *Extent: S*
 
@@ -685,13 +685,13 @@ An Act to consolidate with amendments to give effect to recommendations of the S
 - [Section 256 — Application of this Part to agricultural tenants, etc.](part-xiii/section-256.md)
 - [Section 256A — Application of this Part to the Scottish Ministers](part-xiii/section-256a.md)
 
-### PART XIV — ASSISTANCE FOR OWNERS OF DEFECTIVE HOUSING[^key-a2412634fd3881c4dba21a9d88956035]
+### PART XIV — ASSISTANCE FOR OWNERS OF DEFECTIVE HOUSING[^c-a2412634fd3881c4dba21a9d88956035]
 
 *Extent: S*
 
 **No longer in force.**
 
-#### Eligibility for assistance[^key-a2412634fd3881c4dba21a9d88956035]
+#### Eligibility for assistance[^c-a2412634fd3881c4dba21a9d88956035]
 
 **No longer in force.**
 
@@ -701,7 +701,7 @@ An Act to consolidate with amendments to give effect to recommendations of the S
 - [Section 260 — Exceptions to eligibility.](part-xiv/section-260.md)
 - [Section 261 — Construction of references to disposal, etc.](part-xiv/section-261.md)
 
-#### Determination of entitlement[^key-a2412634fd3881c4dba21a9d88956035]
+#### Determination of entitlement[^c-a2412634fd3881c4dba21a9d88956035]
 
 **No longer in force.**
 
@@ -713,7 +713,7 @@ An Act to consolidate with amendments to give effect to recommendations of the S
 - [Section 267 — Meaning of “work required for reinstatement” and “associated arrangement”.](part-xiv/section-267.md)
 - [Section 268 — Notice of determination.](part-xiv/section-268.md)
 
-#### Assistance by way of reinstatement grant[^key-a2412634fd3881c4dba21a9d88956035]
+#### Assistance by way of reinstatement grant[^c-a2412634fd3881c4dba21a9d88956035]
 
 **No longer in force.**
 
@@ -724,7 +724,7 @@ An Act to consolidate with amendments to give effect to recommendations of the S
 - [Section 273 — Payment of reinstatement grant.](part-xiv/section-273.md)
 - [Section 274 — Repayment of grant for breach of condition.](part-xiv/section-274.md)
 
-#### Assistance by way of repurchase[^key-a2412634fd3881c4dba21a9d88956035]
+#### Assistance by way of repurchase[^c-a2412634fd3881c4dba21a9d88956035]
 
 **No longer in force.**
 
@@ -735,7 +735,7 @@ An Act to consolidate with amendments to give effect to recommendations of the S
 - [Section 279 — Supplementary provisions as to payments under s.277 or 278.](part-xiv/section-279.md)
 - [Section 280 — Reimbursement of expenses incidental to repurchase.](part-xiv/section-280.md)
 
-#### Effect of repurchase on occupier[^key-a2412634fd3881c4dba21a9d88956035]
+#### Effect of repurchase on occupier[^c-a2412634fd3881c4dba21a9d88956035]
 
 **No longer in force.**
 
@@ -746,7 +746,7 @@ An Act to consolidate with amendments to give effect to recommendations of the S
 - [Section 285 — Request for tenancy under s.282 or 283.](part-xiv/section-285.md)
 - [Section 286 — Interpretation of ss.281 to 285.](part-xiv/section-286.md)
 
-#### Local schemes[^key-a2412634fd3881c4dba21a9d88956035]
+#### Local schemes[^c-a2412634fd3881c4dba21a9d88956035]
 
 **No longer in force.**
 
@@ -754,7 +754,7 @@ An Act to consolidate with amendments to give effect to recommendations of the S
 - [Section 288 — Variation or revocation of designation under local schemes.](part-xiv/section-288.md)
 - [Section 289 — Secretary of State’s control over designation, variation or revocation.](part-xiv/section-289.md)
 
-#### Miscellaneous[^key-a2412634fd3881c4dba21a9d88956035]
+#### Miscellaneous[^c-a2412634fd3881c4dba21a9d88956035]
 
 **No longer in force.**
 
@@ -766,7 +766,7 @@ An Act to consolidate with amendments to give effect to recommendations of the S
 - [Section 295 — Application of Act in relation to lenders on security of defective dwelling.](part-xiv/section-295.md)
 - [Section 296 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-xiv/section-296.md)
 
-#### Supplementary provisions[^key-a2412634fd3881c4dba21a9d88956035]
+#### Supplementary provisions[^c-a2412634fd3881c4dba21a9d88956035]
 
 **No longer in force.**
 
@@ -900,7 +900,7 @@ SCHEDULES
 
 [^c12769821]: Modification: Pt. I (ss. 1-23) restricted (19.8.1996) by [1996 c. 49](https://www.legislation.gov.uk/ukpga/1996/49), [s. 9](https://www.legislation.gov.uk/ukpga/1996/49/section/9); [S.I. 1996/2127](https://www.legislation.gov.uk/uksi/1996/2127), [art. 2](https://www.legislation.gov.uk/uksi/1996/2127/article/2), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/1996/2127/schedule/part/I)
 
-[^key-ea61006bd93b6dae5efba35692ced44e]: Modification: [Pt. I](https://www.legislation.gov.uk/ukpga/1987/26/part/I) modified (1.12.2014 for specified purposes, 1.2.2016 for E. in so far as not already in force) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 3 para. 2(4)](https://www.legislation.gov.uk/ukpga/2014/22/schedule/3/paragraph/2/4); [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 6(1)(m)](https://www.legislation.gov.uk/uksi/2014/2771/article/6/1/m); [S.I. 2016/11](https://www.legislation.gov.uk/uksi/2016/11), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/11/article/2/m)
+[^c-ea61006bd93b6dae5efba35692ced44e]: Modification: [Pt. I](https://www.legislation.gov.uk/ukpga/1987/26/part/I) modified (1.12.2014 for specified purposes, 1.2.2016 for E. in so far as not already in force) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 3 para. 2(4)](https://www.legislation.gov.uk/ukpga/2014/22/schedule/3/paragraph/2/4); [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 6(1)(m)](https://www.legislation.gov.uk/uksi/2014/2771/article/6/1/m); [S.I. 2016/11](https://www.legislation.gov.uk/uksi/2016/11), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/11/article/2/m)
 
 [^c12770121]: Textual amendment: Crossheading for ss. 17A-17C inserted (1.4.1994) by [1993 c. 28](https://www.legislation.gov.uk/ukpga/1993/28), [s. 153](https://www.legislation.gov.uk/ukpga/1993/28/section/153); [S.I. 1993/2163](https://www.legislation.gov.uk/uksi/1993/2163), [art. 2](https://www.legislation.gov.uk/uksi/1993/2163/article/2), [Sch. 2](https://www.legislation.gov.uk/uksi/1993/2163/schedule/2).
 
@@ -910,14 +910,14 @@ SCHEDULES
 
 [^c12770451]: Modification: Pt. II (ss. 24-43) restricted (19.8.1996) by [1996 c. 49](https://www.legislation.gov.uk/ukpga/1996/49), [s. 9](https://www.legislation.gov.uk/ukpga/1996/49/section/9); [S.I. 1996/2127](https://www.legislation.gov.uk/uksi/1996/2127), [art. 2](https://www.legislation.gov.uk/uksi/1996/2127/article/2), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/1996/2127/schedule/part/I)
 
-[^key-222e63e00c79ff3eaac646e9f36f9e01]: Textual amendment: Ss. 36A-36E and cross-heading inserted (1.4.2026 for the purpose of making regulations) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 52(9)](https://www.legislation.gov.uk/asp/2025/13/section/52/9), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+[^c-222e63e00c79ff3eaac646e9f36f9e01]: Textual amendment: Ss. 36A-36E and cross-heading inserted (1.4.2026 for the purpose of making regulations) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 52(9)](https://www.legislation.gov.uk/asp/2025/13/section/52/9), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
 
 [^c12775661]: Textual amendment: S. 81A and cross heading inserted (21.2.1992) by [Housing Act 1988 (c. 50, SIF 61)](https://www.legislation.gov.uk/ukpga/1988/50), [s. 128](https://www.legislation.gov.uk/ukpga/1988/50/section/128); [S.I. 1992/324](https://www.legislation.gov.uk/uksi/1992/324), [art. 2](https://www.legislation.gov.uk/uksi/1992/324/article/2)
 
 [^c12775701]: Textual amendment: S. 81B and cross heading inserted (21.2.1992) by [Housing Act 1988 (c. 50, SIF 61)](https://www.legislation.gov.uk/ukpga/1988/50), [s. 135(1)(3)](https://www.legislation.gov.uk/ukpga/1988/50/section/135/1/3); [S.I. 1992/324](https://www.legislation.gov.uk/uksi/1992/324), [art. 2](https://www.legislation.gov.uk/uksi/1992/324/article/2)
 
-[^key-f08aca333f06ced90a56cfa725faf617]: Textual amendment: [Pt. VIII](https://www.legislation.gov.uk/ukpga/1987/26/part/VIII) repealed (31.8.2011) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [s. 195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3), [sch. 7](https://www.legislation.gov.uk/asp/2006/1/schedule/7) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
+[^c-f08aca333f06ced90a56cfa725faf617]: Textual amendment: [Pt. VIII](https://www.legislation.gov.uk/ukpga/1987/26/part/VIII) repealed (31.8.2011) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [s. 195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3), [sch. 7](https://www.legislation.gov.uk/asp/2006/1/schedule/7) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
 
-[^key-0848da685d3aba4e37151f481cd0e3a6]: Textual amendment: Pt. 13 repealed (1.4.2009 for specified purposes, 1.4.2010 in so far as not already in force) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [s. 195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3), [sch. 7](https://www.legislation.gov.uk/asp/2006/1/schedule/7) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3) (with [art. 6](https://www.legislation.gov.uk/ssi/2009/122/article/6))
+[^c-0848da685d3aba4e37151f481cd0e3a6]: Textual amendment: Pt. 13 repealed (1.4.2009 for specified purposes, 1.4.2010 in so far as not already in force) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [s. 195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3), [sch. 7](https://www.legislation.gov.uk/asp/2006/1/schedule/7) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3) (with [art. 6](https://www.legislation.gov.uk/ssi/2009/122/article/6))
 
-[^key-a2412634fd3881c4dba21a9d88956035]: Textual amendment: [Pt. XIV](https://www.legislation.gov.uk/ukpga/1987/26/part/XIV) repealed (30.7.2018) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 99(1)](https://www.legislation.gov.uk/asp/2014/14/section/99/1), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2018/153](https://www.legislation.gov.uk/ssi/2018/153), [art. 2](https://www.legislation.gov.uk/ssi/2018/153/article/2), [sch.](https://www.legislation.gov.uk/ssi/2018/153/schedule)
+[^c-a2412634fd3881c4dba21a9d88956035]: Textual amendment: [Pt. XIV](https://www.legislation.gov.uk/ukpga/1987/26/part/XIV) repealed (30.7.2018) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 99(1)](https://www.legislation.gov.uk/asp/2014/14/section/99/1), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2018/153](https://www.legislation.gov.uk/ssi/2018/153), [art. 2](https://www.legislation.gov.uk/ssi/2018/153/article/2), [sch.](https://www.legislation.gov.uk/ssi/2018/153/schedule)

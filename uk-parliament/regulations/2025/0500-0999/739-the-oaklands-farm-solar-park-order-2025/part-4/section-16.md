@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Authority to survey and investigate the land[^key-d5395eba04219f576843d4de4a8fdd4f]
+## 16. Authority to survey and investigate the land[^c-d5395eba04219f576843d4de4a8fdd4f]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ or such longer period that is agreed in writing between the undertaker and that 
 
 ## Annotations
 
-[^key-d5395eba04219f576843d4de4a8fdd4f]: Commencement: Art. 16 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
+[^c-d5395eba04219f576843d4de4a8fdd4f]: Commencement: Art. 16 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)

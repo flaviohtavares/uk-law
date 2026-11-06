@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 80. Deer management plans[^key-071521cf8f2e1113891ecd233f4798a5]
+## 80. Deer management plans[^c-071521cf8f2e1113891ecd233f4798a5]
 
 *Extent: S*
 
@@ -84,4 +84,4 @@ summary: ''
 
 ## Annotations
 
-[^key-071521cf8f2e1113891ecd233f4798a5]: Commencement: [S. 80](https://www.legislation.gov.uk/asp/2016/18/section/80) in force at 28.6.2016 by [S.S.I. 2016/193](https://www.legislation.gov.uk/ssi/2016/193), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/193/regulation/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2016/193/schedule)
+[^c-071521cf8f2e1113891ecd233f4798a5]: Commencement: [S. 80](https://www.legislation.gov.uk/asp/2016/18/section/80) in force at 28.6.2016 by [S.S.I. 2016/193](https://www.legislation.gov.uk/ssi/2016/193), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/193/regulation/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2016/193/schedule)

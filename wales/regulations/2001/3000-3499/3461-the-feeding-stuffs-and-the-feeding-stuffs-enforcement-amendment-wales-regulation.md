@@ -31,7 +31,7 @@ summary: ''
 
 AGRICULTURE, WALES
 
-The Feeding Stuffs and the Feeding Stuffs (Enforcement) (Amendment) (Wales) Regulations 2001 (revoked)[^key-1f673cae2c0cb9fcaf09b9ff5a19eaab]
+The Feeding Stuffs and the Feeding Stuffs (Enforcement) (Amendment) (Wales) Regulations 2001 (revoked)[^c-1f673cae2c0cb9fcaf09b9ff5a19eaab]
 
 Made
 
@@ -41,100 +41,100 @@ Coming into force
 
 3rd November 2001
 
-[^key-1f673cae2c0cb9fcaf09b9ff5a19eaab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1f673cae2c0cb9fcaf09b9ff5a19eaab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-1f673cae2c0cb9fcaf09b9ff5a19eaab]
+## 1. Title, application and commencement[^c-1f673cae2c0cb9fcaf09b9ff5a19eaab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Feeding Stuffs (Wales) Regulations 2001[^key-1f673cae2c0cb9fcaf09b9ff5a19eaab]
+## 2. Amendment of the Feeding Stuffs (Wales) Regulations 2001[^c-1f673cae2c0cb9fcaf09b9ff5a19eaab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-1f673cae2c0cb9fcaf09b9ff5a19eaab]
+## 3.[^c-1f673cae2c0cb9fcaf09b9ff5a19eaab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-1f673cae2c0cb9fcaf09b9ff5a19eaab]
+## 4.[^c-1f673cae2c0cb9fcaf09b9ff5a19eaab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-1f673cae2c0cb9fcaf09b9ff5a19eaab]
+## 5.[^c-1f673cae2c0cb9fcaf09b9ff5a19eaab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-1f673cae2c0cb9fcaf09b9ff5a19eaab]
+## 6.[^c-1f673cae2c0cb9fcaf09b9ff5a19eaab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7.[^key-1f673cae2c0cb9fcaf09b9ff5a19eaab]
+## 7.[^c-1f673cae2c0cb9fcaf09b9ff5a19eaab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8.[^key-1f673cae2c0cb9fcaf09b9ff5a19eaab]
+## 8.[^c-1f673cae2c0cb9fcaf09b9ff5a19eaab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9.[^key-1f673cae2c0cb9fcaf09b9ff5a19eaab]
+## 9.[^c-1f673cae2c0cb9fcaf09b9ff5a19eaab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10.[^key-1f673cae2c0cb9fcaf09b9ff5a19eaab]
+## 10.[^c-1f673cae2c0cb9fcaf09b9ff5a19eaab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11.[^key-1f673cae2c0cb9fcaf09b9ff5a19eaab]
+## 11.[^c-1f673cae2c0cb9fcaf09b9ff5a19eaab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12.[^key-1f673cae2c0cb9fcaf09b9ff5a19eaab]
+## 12.[^c-1f673cae2c0cb9fcaf09b9ff5a19eaab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13.[^key-1f673cae2c0cb9fcaf09b9ff5a19eaab]
+## 13.[^c-1f673cae2c0cb9fcaf09b9ff5a19eaab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14.[^key-1f673cae2c0cb9fcaf09b9ff5a19eaab]
+## 14.[^c-1f673cae2c0cb9fcaf09b9ff5a19eaab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15.[^key-1f673cae2c0cb9fcaf09b9ff5a19eaab]
+## 15.[^c-1f673cae2c0cb9fcaf09b9ff5a19eaab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16.[^key-1f673cae2c0cb9fcaf09b9ff5a19eaab]
+## 16.[^c-1f673cae2c0cb9fcaf09b9ff5a19eaab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. Amendment of the Feeding Stuffs (Enforcement) Regulations 1999[^key-1f673cae2c0cb9fcaf09b9ff5a19eaab]
+## 17. Amendment of the Feeding Stuffs (Enforcement) Regulations 1999[^c-1f673cae2c0cb9fcaf09b9ff5a19eaab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1f673cae2c0cb9fcaf09b9ff5a19eaab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1f673cae2c0cb9fcaf09b9ff5a19eaab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — PROVISIONS SUBSTITUTED FOR THE PROVISIONS IN PART V OF SCHEDULE 3 TO THE FEEDING STUFFS (WALES) REGULATIONS 2001 RELATING TO THE ELEMENT COPPER-Cu[^key-1f673cae2c0cb9fcaf09b9ff5a19eaab]
+## SCHEDULE 1 — PROVISIONS SUBSTITUTED FOR THE PROVISIONS IN PART V OF SCHEDULE 3 TO THE FEEDING STUFFS (WALES) REGULATIONS 2001 RELATING TO THE ELEMENT COPPER-Cu[^c-1f673cae2c0cb9fcaf09b9ff5a19eaab]
 
 **Regulation 14(c)**
 
-[^key-1f673cae2c0cb9fcaf09b9ff5a19eaab]
+[^c-1f673cae2c0cb9fcaf09b9ff5a19eaab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Regulation 14(d) — PROVISIONS SUBSTITUTED FOR PART IX OF THE TABLE TO SCHEDULE 3 TO THE FEEDING STUFFS (WALES) REGULATIONS 2001[^key-1f673cae2c0cb9fcaf09b9ff5a19eaab]
+## SCHEDULE 2 — Regulation 14(d) — PROVISIONS SUBSTITUTED FOR PART IX OF THE TABLE TO SCHEDULE 3 TO THE FEEDING STUFFS (WALES) REGULATIONS 2001[^c-1f673cae2c0cb9fcaf09b9ff5a19eaab]
 
-[^key-1f673cae2c0cb9fcaf09b9ff5a19eaab]
+[^c-1f673cae2c0cb9fcaf09b9ff5a19eaab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-1f673cae2c0cb9fcaf09b9ff5a19eaab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1f673cae2c0cb9fcaf09b9ff5a19eaab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1f673cae2c0cb9fcaf09b9ff5a19eaab]: Textual amendment: Regulations revoked (25.1.2006) by [The Feeding Stuffs (Wales) Regulations 2006 (S.I. 2006/116)](https://www.legislation.gov.uk/uksi/2006/116), [reg. 1](https://www.legislation.gov.uk/uksi/2006/116/regulation/1), [Sch. 9](https://www.legislation.gov.uk/uksi/2006/116/schedule/9)
+[^c-1f673cae2c0cb9fcaf09b9ff5a19eaab]: Textual amendment: Regulations revoked (25.1.2006) by [The Feeding Stuffs (Wales) Regulations 2006 (S.I. 2006/116)](https://www.legislation.gov.uk/uksi/2006/116), [reg. 1](https://www.legislation.gov.uk/uksi/2006/116/regulation/1), [Sch. 9](https://www.legislation.gov.uk/uksi/2006/116/schedule/9)

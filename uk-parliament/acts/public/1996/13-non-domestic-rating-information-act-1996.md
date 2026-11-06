@@ -43,7 +43,7 @@ An Act to make provision for and in connection with the disclosure by persons wh
 
 - “**rating official**” means a valuation officer or an assessor; and
 - “**statutory functions**” means—
-  - (a) in relation to a valuation officer, functions under Part III of the [^c831927]Local Government Finance Act 1988 or the function under section 12(4) of the Business Rate Supplements Act 2009 *(Extent: E+W)*[^key-096c37fce62414d1af8b45fe385ab63f]; and
+  - (a) in relation to a valuation officer, functions under Part III of the [^c831927]Local Government Finance Act 1988 or the function under section 12(4) of the Business Rate Supplements Act 2009 *(Extent: E+W)*[^c-096c37fce62414d1af8b45fe385ab63f]; and
   - (b) in relation to an assessor, functions under the Valuation Acts as defined in section 183(1) of the [^c831928]Local Government etc. (Scotland) Act 1994;
 
   and in this subsection “**valuation officer**” means a person appointed under section 61(1)(a) or (b) of the Local Government Finance Act 1988 and “**assessor**” means a person appointed under section 27 of the Local Government etc. (Scotland) Act 1994.
@@ -65,6 +65,6 @@ An Act to make provision for and in connection with the disclosure by persons wh
 
 [^c831927]: Marginal citation: [1988 c. 41](https://www.legislation.gov.uk/ukpga/1988/41).
 
-[^key-096c37fce62414d1af8b45fe385ab63f]: Textual amendment: Words in s. 1(2) inserted (E.W.) (19.8.2009) by [Business Rate Supplements Act 2009 (c. 7)](https://www.legislation.gov.uk/ukpga/2009/7), [ss. 12(10)](https://www.legislation.gov.uk/ukpga/2009/7/section/12/10), [32](https://www.legislation.gov.uk/ukpga/2009/7/section/32) (with [s. 31](https://www.legislation.gov.uk/ukpga/2009/7/section/31)); [S.I. 2009/2202](https://www.legislation.gov.uk/uksi/2009/2202), [art. 2](https://www.legislation.gov.uk/uksi/2009/2202/article/2)
+[^c-096c37fce62414d1af8b45fe385ab63f]: Textual amendment: Words in s. 1(2) inserted (E.W.) (19.8.2009) by [Business Rate Supplements Act 2009 (c. 7)](https://www.legislation.gov.uk/ukpga/2009/7), [ss. 12(10)](https://www.legislation.gov.uk/ukpga/2009/7/section/12/10), [32](https://www.legislation.gov.uk/ukpga/2009/7/section/32) (with [s. 31](https://www.legislation.gov.uk/ukpga/2009/7/section/31)); [S.I. 2009/2202](https://www.legislation.gov.uk/uksi/2009/2202), [art. 2](https://www.legislation.gov.uk/uksi/2009/2202/article/2)
 
 [^c831928]: Marginal citation: [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39).

@@ -171,7 +171,7 @@ Food Act 1984
 - [Section 48 — Misuse of designation “cream”.](part-ii/section-48.md)
 - [Section 49 — Reconstituted cream.](part-ii/section-49.md)
 
-### Part III — Markets[^key-24dcf3ea0dcfdaad4b2f66b0ca88e7d1][^key-1c8b0210904a02d1e422bd64ebc5b248][^key-212e4b16b7f44aa7aab26535fef33dc8]
+### Part III — Markets[^c-24dcf3ea0dcfdaad4b2f66b0ca88e7d1][^c-1c8b0210904a02d1e422bd64ebc5b248][^c-212e4b16b7f44aa7aab26535fef33dc8]
 
 *Extent: E+W*
 
@@ -342,10 +342,10 @@ SCHEDULES
 
     \[Editorial note: Act no longer applies to N.I. by virtue of the repeals made (4.11.1991) by [The Food Safety (Northern Ireland) Order 1991 (S.I. 1991/762)](https://www.legislation.gov.uk/uksi/1991/762), [art. 1(2)](https://www.legislation.gov.uk/uksi/1991/762/article/1/2), [51](https://www.legislation.gov.uk/uksi/1991/762/article/51), [Sch. 4](https://www.legislation.gov.uk/uksi/1991/762/schedule/4)\]
 
-[^key-24dcf3ea0dcfdaad4b2f66b0ca88e7d1]: Modification: Pt. 3 applied (30.1.2004) by [Hereford Markets Act 2003 (c. iv)](https://www.legislation.gov.uk/ukla/2003/4), [ss. 1](https://www.legislation.gov.uk/ukla/2003/4/section/1), [3(2)](https://www.legislation.gov.uk/ukla/2003/4/section/3/2)
+[^c-24dcf3ea0dcfdaad4b2f66b0ca88e7d1]: Modification: Pt. 3 applied (30.1.2004) by [Hereford Markets Act 2003 (c. iv)](https://www.legislation.gov.uk/ukla/2003/4), [ss. 1](https://www.legislation.gov.uk/ukla/2003/4/section/1), [3(2)](https://www.legislation.gov.uk/ukla/2003/4/section/3/2)
 
-[^key-1c8b0210904a02d1e422bd64ebc5b248]: Modification: Pt. 3 applied (2.10.2004) by [Ipswich Market Act 2004 (c. iii)](https://www.legislation.gov.uk/ukla/2004/3), [ss. 1](https://www.legislation.gov.uk/ukla/2004/3/section/1), [6](https://www.legislation.gov.uk/ukla/2004/3/section/6)
+[^c-1c8b0210904a02d1e422bd64ebc5b248]: Modification: Pt. 3 applied (2.10.2004) by [Ipswich Market Act 2004 (c. iii)](https://www.legislation.gov.uk/ukla/2004/3), [ss. 1](https://www.legislation.gov.uk/ukla/2004/3/section/1), [6](https://www.legislation.gov.uk/ukla/2004/3/section/6)
 
-[^key-212e4b16b7f44aa7aab26535fef33dc8]: Modification: Pt. 3 applied (18.8.2025) by [Norwich Livestock Market Act 2025 (c. i)](https://www.legislation.gov.uk/ukla/2025/1), [ss. 1](https://www.legislation.gov.uk/ukla/2025/1/section/1), [6(2)](https://www.legislation.gov.uk/ukla/2025/1/section/6/2)
+[^c-212e4b16b7f44aa7aab26535fef33dc8]: Modification: Pt. 3 applied (18.8.2025) by [Norwich Livestock Market Act 2025 (c. i)](https://www.legislation.gov.uk/ukla/2025/1), [ss. 1](https://www.legislation.gov.uk/ukla/2025/1/section/1), [6(2)](https://www.legislation.gov.uk/ukla/2025/1/section/6/2)
 
 [^c1022440]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/ukpga/1984/30/part/IV) repealed (3.4.1992) by [Food Safety Act 1990 (c. 16, SIF 53:1, 2)](https://www.legislation.gov.uk/ukpga/1990/16), [ss. 54](https://www.legislation.gov.uk/ukpga/1990/16/section/54), [60(3)](https://www.legislation.gov.uk/ukpga/1990/16/section/60/3), [Sch. 5](https://www.legislation.gov.uk/ukpga/1990/16/schedule/5); [S.I. 1992/57](https://www.legislation.gov.uk/uksi/1992/57), [art. 2](https://www.legislation.gov.uk/uksi/1992/57/article/2)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) Where a trustee of a trust scheme is removed by an order under Article 3, by Article 3A[^key-0e59ead42ae2bdfe81db6df117cad559] or[^c17248141]. . . by reason of his disqualification, the Authority may by order appoint another trustee in his place.
+(1) Where a trustee of a trust scheme is removed by an order under Article 3, by Article 3A[^c-0e59ead42ae2bdfe81db6df117cad559] or[^c17248141]. . . by reason of his disqualification, the Authority may by order appoint another trustee in his place.
 
 (2) Where a trustee appointed under paragraph (1) is appointed to replace a trustee appointed under Article 23(1), Articles 22 to 26 shall apply to the replacement trustee as they apply to a trustee appointed under Article 23(1).
 
@@ -54,7 +54,7 @@ for the appointment of a trustee of the scheme under paragraph (3)(a) or (c).
 
 ## Annotations
 
-[^key-0e59ead42ae2bdfe81db6df117cad559]: Textual amendment: Words in [art. 7(1)](https://www.legislation.gov.uk/nisi/1995/3213/article/7/1) inserted (16.7.2015) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(1)](https://www.legislation.gov.uk/nia/2015/5/section/53/1), [Sch. 19 para. 3](https://www.legislation.gov.uk/nia/2015/5/schedule/19/paragraph/3); [S.R. 2015/307](https://www.legislation.gov.uk/nisr/2015/307), [art. 2(1)(o)](https://www.legislation.gov.uk/nisr/2015/307/article/2/1/o)
+[^c-0e59ead42ae2bdfe81db6df117cad559]: Textual amendment: Words in [art. 7(1)](https://www.legislation.gov.uk/nisi/1995/3213/article/7/1) inserted (16.7.2015) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(1)](https://www.legislation.gov.uk/nia/2015/5/section/53/1), [Sch. 19 para. 3](https://www.legislation.gov.uk/nia/2015/5/schedule/19/paragraph/3); [S.R. 2015/307](https://www.legislation.gov.uk/nisr/2015/307), [art. 2(1)(o)](https://www.legislation.gov.uk/nisr/2015/307/article/2/1/o)
 
 [^c17248141]: Textual amendment: [2005 NI 1](https://www.legislation.gov.uk/nisi/2005)
 

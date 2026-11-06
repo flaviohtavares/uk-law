@@ -74,7 +74,7 @@ the person is to be treated as occupying the former dwelling as a home for a per
   - (i) that delay was necessary in order to adapt the dwelling to meet the disablement needs of the person or any member of the person's family;
   - (ii) the move was delayed pending the outcome of an application—
     - (aa) under Part 8 of the 1992 Act [^c21458511] for a social fund payment;
-    - (bb)[^key-dc0fdc74aa3ad9f9496e54d5eac48c3a] to a welfare fund for a payment;
+    - (bb)[^c-dc0fdc74aa3ad9f9496e54d5eac48c3a] to a welfare fund for a payment;
     - (cc) to a local authority in exercise of the power in section 1 of the Localism Act 2011 [^c21458531] (local authority's general power of competence) using funds provided by the Secretary of State, and in this sub-head local authority means a local authority within the meaning of section 8 of that Act;
     - (dd) to the Welsh Ministers, or to a person acting on their behalf, for a payment made in exercise of the power in section 60 of the Government of Wales Act 2006 [^c21458541] (promotion etc. of well-being),
 
@@ -149,7 +149,7 @@ the person is to be treated as occupying the dwelling as a home for a period not
 
 [^c21458511]: Marginal citation: Part 8 was amended by sections 70 and 71 of, and paragraphs 72 and 73 of Schedule 7 and paragraph 1 of Schedule 8 to, the [Social Security Act 1998 (c.14)](https://www.legislation.gov.uk/ukpga/1998/14) and section 54 of, paragraph 2 of Schedule 7 and paragraph 1 of Schedule 8 to, the [Welfare Reform Act 2007 (c.5)](https://www.legislation.gov.uk/ukpga/2007/5) and sections 71 and 72 of the [Welfare Reform Act 2012 (c.5)](https://www.legislation.gov.uk/ukpga/2012/5).
 
-[^key-dc0fdc74aa3ad9f9496e54d5eac48c3a]: Textual amendment: [Reg. 5(8)](https://www.legislation.gov.uk/ssi/2012/319/regulation/5/8/bb)[(c)(ii)(bb)](https://www.legislation.gov.uk/ssi/2012/319/regulation/5/8/c/ii) substituted (1.4.2016) by [The Council Tax Reduction (Scotland) Amendment Regulations 2016 (S.S.I. 2016/81)](https://www.legislation.gov.uk/ssi/2016/81), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2016/81/regulation/1/2), [17(3)](https://www.legislation.gov.uk/ssi/2016/81/regulation/17/3)
+[^c-dc0fdc74aa3ad9f9496e54d5eac48c3a]: Textual amendment: [Reg. 5(8)](https://www.legislation.gov.uk/ssi/2012/319/regulation/5/8/bb)[(c)(ii)(bb)](https://www.legislation.gov.uk/ssi/2012/319/regulation/5/8/c/ii) substituted (1.4.2016) by [The Council Tax Reduction (Scotland) Amendment Regulations 2016 (S.S.I. 2016/81)](https://www.legislation.gov.uk/ssi/2016/81), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2016/81/regulation/1/2), [17(3)](https://www.legislation.gov.uk/ssi/2016/81/regulation/17/3)
 
 [^c21458531]: Marginal citation: [2011 c.20](https://www.legislation.gov.uk/ukpga/2011/20).
 

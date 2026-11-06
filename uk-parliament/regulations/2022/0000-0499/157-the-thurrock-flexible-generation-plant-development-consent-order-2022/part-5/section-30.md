@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 30. Statutory undertakers[^key-a4a3847d2830b8f3f53d3d570546edbe]
+## 30. Statutory undertakers[^c-a4a3847d2830b8f3f53d3d570546edbe]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ Subject to article 22 and the provisions of Schedule 8 (protective provisions), 
 
 ## Annotations
 
-[^key-a4a3847d2830b8f3f53d3d570546edbe]: Commencement: Art. 30 in force at 10.3.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/157/article/1)
+[^c-a4a3847d2830b8f3f53d3d570546edbe]: Commencement: Art. 30 in force at 10.3.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/157/article/1)

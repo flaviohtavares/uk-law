@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Definition of “restricted goods” and “restricted technology”[^key-f79398b0b277e5aa1ee5978f0b2a0db3][^key-33059575561b1bd35b57f2457100a8dc]
+## 18. Definition of “restricted goods” and “restricted technology”[^c-f79398b0b277e5aa1ee5978f0b2a0db3][^c-33059575561b1bd35b57f2457100a8dc]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ In this Part—
 
 ## Annotations
 
-[^key-f79398b0b277e5aa1ee5978f0b2a0db3]: Commencement: Reg. 18 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/604/regulation/1/2)
+[^c-f79398b0b277e5aa1ee5978f0b2a0db3]: Commencement: Reg. 18 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/604/regulation/1/2)
 
-[^key-33059575561b1bd35b57f2457100a8dc]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2019/604/regulation/18) in force at 22.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 13(1)(h)](https://www.legislation.gov.uk/uksi/2019/627/regulation/13/1/h)
+[^c-33059575561b1bd35b57f2457100a8dc]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2019/604/regulation/18) in force at 22.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 13(1)(h)](https://www.legislation.gov.uk/uksi/2019/627/regulation/13/1/h)

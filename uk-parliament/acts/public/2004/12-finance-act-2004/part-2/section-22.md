@@ -22,7 +22,7 @@ summary: ''
 
 (1) The Value Added Tax Act 1994 (c. 23) is amended as follows.
 
-(2)[^key-6220061c3b1132c0c55d56fd33ecab6b] In Schedule 6 (valuation: special cases) after paragraph 1 (supply to connected person at less than market value etc) insert—
+(2)[^c-6220061c3b1132c0c55d56fd33ecab6b] In Schedule 6 (valuation: special cases) after paragraph 1 (supply to connected person at less than market value etc) insert—
 
 > **1A.**
 >
@@ -103,4 +103,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6220061c3b1132c0c55d56fd33ecab6b]: Commencement: [S. 22(2)](https://www.legislation.gov.uk/ukpga/2004/12/section/22/2) has effect as specified by [The Finance Act 2004, section 22(2), (Appointed Day) Order 2004 (S.I. 2004/3104)](https://www.legislation.gov.uk/uksi/2004/3104), [art. 2](https://www.legislation.gov.uk/uksi/2004/3104/article/2)
+[^c-6220061c3b1132c0c55d56fd33ecab6b]: Commencement: [S. 22(2)](https://www.legislation.gov.uk/ukpga/2004/12/section/22/2) has effect as specified by [The Finance Act 2004, section 22(2), (Appointed Day) Order 2004 (S.I. 2004/3104)](https://www.legislation.gov.uk/uksi/2004/3104), [art. 2](https://www.legislation.gov.uk/uksi/2004/3104/article/2)

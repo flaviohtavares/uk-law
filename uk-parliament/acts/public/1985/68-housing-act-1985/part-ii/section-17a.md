@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17A. Compulsory acquisition of land by strategic authorities[^key-bfd494d8c701288bb8eb02690b91388a]
+## 17A. Compulsory acquisition of land by strategic authorities[^c-bfd494d8c701288bb8eb02690b91388a]
 
 *Extent: E+W*
 
@@ -64,4 +64,4 @@ and consent of a constituent council must be given at a meeting of the CCA.
 
 ## Annotations
 
-[^key-bfd494d8c701288bb8eb02690b91388a]: Textual amendment: S. 17A inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 19 para. 6(6)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/19/paragraph/6/6) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-bfd494d8c701288bb8eb02690b91388a]: Textual amendment: S. 17A inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 19 para. 6(6)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/19/paragraph/6/6) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))

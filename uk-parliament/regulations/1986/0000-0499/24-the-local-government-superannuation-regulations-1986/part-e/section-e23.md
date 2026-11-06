@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## E23. Pay restraint not to affect pensionable remuneration in certain cases[^key-242ffb32c66e714031e816dcafc1c466]
+## E23. Pay restraint not to affect pensionable remuneration in certain cases[^c-242ffb32c66e714031e816dcafc1c466]
 
 *Extent: E+W+S*
 
@@ -62,7 +62,7 @@ summary: ''
 
 ## Annotations
 
-[^key-242ffb32c66e714031e816dcafc1c466]: Commencement: [Reg. E23](https://www.legislation.gov.uk/uksi/1986/24/regulation/E23) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-242ffb32c66e714031e816dcafc1c466]: Commencement: [Reg. E23](https://www.legislation.gov.uk/uksi/1986/24/regulation/E23) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
 [^f00043]: Footnote: [1975 c.57](https://www.legislation.gov.uk/ukpga/1975/57); section 1 was amended, and the period for which it had effect extended, by the [Price Commission Act 1977 (c.33)](https://www.legislation.gov.uk/ukpga/1977/33), section 17; references to limits set out in documents laid before Parliament in 1976 and 1977 were added by [S.I. 1976/1097](https://www.legislation.gov.uk/uksi/1976/1097), [1977/1294](https://www.legislation.gov.uk/uksi/1977/1294).
 

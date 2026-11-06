@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Capping of costs: orders and their terms[^key-1cf8f556c928b82c292ada5e2b096e10][^key-c8c16a74de519787590bfdc61f4cd7b9]
+## 89. Capping of costs: orders and their terms[^c-1cf8f556c928b82c292ada5e2b096e10][^c-c8c16a74de519787590bfdc61f4cd7b9]
 
 *Extent: E+W*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1cf8f556c928b82c292ada5e2b096e10]: Commencement: [S. 89](https://www.legislation.gov.uk/ukpga/2015/2/section/89) in force at 8.8.2016 by [S.I. 2016/717](https://www.legislation.gov.uk/uksi/2016/717), [art. 3(e)](https://www.legislation.gov.uk/uksi/2016/717/article/3/e) (with [art. 7](https://www.legislation.gov.uk/uksi/2016/717/article/7))
+[^c-1cf8f556c928b82c292ada5e2b096e10]: Commencement: [S. 89](https://www.legislation.gov.uk/ukpga/2015/2/section/89) in force at 8.8.2016 by [S.I. 2016/717](https://www.legislation.gov.uk/uksi/2016/717), [art. 3(e)](https://www.legislation.gov.uk/uksi/2016/717/article/3/e) (with [art. 7](https://www.legislation.gov.uk/uksi/2016/717/article/7))
 
-[^key-c8c16a74de519787590bfdc61f4cd7b9]: Modification: [S. 89](https://www.legislation.gov.uk/ukpga/2015/2/section/89) excluded (28.2.2017) by [The Criminal Justice and Courts Act 2015 (Disapplication of Sections 88 and 89) Regulations 2017 (S.I. 2017/100)](https://www.legislation.gov.uk/uksi/2017/100), [regs. 1](https://www.legislation.gov.uk/uksi/2017/100/regulation/1), [2(1)](https://www.legislation.gov.uk/uksi/2017/100/regulation/2/1)
+[^c-c8c16a74de519787590bfdc61f4cd7b9]: Modification: [S. 89](https://www.legislation.gov.uk/ukpga/2015/2/section/89) excluded (28.2.2017) by [The Criminal Justice and Courts Act 2015 (Disapplication of Sections 88 and 89) Regulations 2017 (S.I. 2017/100)](https://www.legislation.gov.uk/uksi/2017/100), [regs. 1](https://www.legislation.gov.uk/uksi/2017/100/regulation/1), [2(1)](https://www.legislation.gov.uk/uksi/2017/100/regulation/2/1)

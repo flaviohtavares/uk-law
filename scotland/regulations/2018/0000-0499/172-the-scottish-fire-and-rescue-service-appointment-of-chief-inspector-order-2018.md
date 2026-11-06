@@ -31,7 +31,7 @@ summary: ''
 
 Fire And Rescue Services
 
-The Scottish Fire and Rescue Service (Appointment of Chief Inspector) Order 2018 (revoked)[^key-f287f883be2a78412f7ca4f717d46ecb]
+The Scottish Fire and Rescue Service (Appointment of Chief Inspector) Order 2018 (revoked)[^c-f287f883be2a78412f7ca4f717d46ecb]
 
 Made
 
@@ -51,28 +51,28 @@ Present,
 
 The Queen's Most Excellent Majesty in Council
 
-[^key-f287f883be2a78412f7ca4f717d46ecb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f287f883be2a78412f7ca4f717d46ecb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-f287f883be2a78412f7ca4f717d46ecb]
+## 1. Citation and commencement[^c-f287f883be2a78412f7ca4f717d46ecb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Appointment of Chief Inspector[^key-f287f883be2a78412f7ca4f717d46ecb]
+## 2. Appointment of Chief Inspector[^c-f287f883be2a78412f7ca4f717d46ecb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-f287f883be2a78412f7ca4f717d46ecb]
+## 3. Revocation[^c-f287f883be2a78412f7ca4f717d46ecb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f287f883be2a78412f7ca4f717d46ecb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f287f883be2a78412f7ca4f717d46ecb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-f287f883be2a78412f7ca4f717d46ecb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f287f883be2a78412f7ca4f717d46ecb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f287f883be2a78412f7ca4f717d46ecb]: Textual amendment: Order revoked (1.4.2021) by [The Scottish Fire and Rescue Service (Appointment of Chief Inspector) Order 2021 (S.S.I. 2021/132)](https://www.legislation.gov.uk/ssi/2021/132), [arts. 1](https://www.legislation.gov.uk/ssi/2021/132/article/1), [3](https://www.legislation.gov.uk/ssi/2021/132/article/3)
+[^c-f287f883be2a78412f7ca4f717d46ecb]: Textual amendment: Order revoked (1.4.2021) by [The Scottish Fire and Rescue Service (Appointment of Chief Inspector) Order 2021 (S.S.I. 2021/132)](https://www.legislation.gov.uk/ssi/2021/132), [arts. 1](https://www.legislation.gov.uk/ssi/2021/132/article/1), [3](https://www.legislation.gov.uk/ssi/2021/132/article/3)

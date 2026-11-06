@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Employment of young persons (affected by repeal, see note)[^key-7856b66c7604d51b92c8c8ab18717f24][^key-c8f710f05d44de617588a65a6843d766][^key-c8f710f05d44de617588a65a6843d766]
+## 7. Employment of young persons (affected by repeal, see note)[^c-7856b66c7604d51b92c8c8ab18717f24][^c-c8f710f05d44de617588a65a6843d766][^c-c8f710f05d44de617588a65a6843d766]
 
 *Extent: E+W+S+N.I.*
 
-No person who manufactures or stores explosives shall permit a person *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766] under[^key-76c2734fd4c3197854bc8ad0c72f3f53] *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766] 18 years to work in that manufacture or storage except under appropriate supervision. *(affected by repeal, see note)*[^key-c8f710f05d44de617588a65a6843d766]
+No person who manufactures or stores explosives shall permit a person *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766] under[^c-76c2734fd4c3197854bc8ad0c72f3f53] *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766] 18 years to work in that manufacture or storage except under appropriate supervision. *(affected by repeal, see note)*[^c-c8f710f05d44de617588a65a6843d766]
 
 ## Annotations
 
-[^key-7856b66c7604d51b92c8c8ab18717f24]: Commencement: Reg. 7 in force at 26.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1082/regulation/1/1)
+[^c-7856b66c7604d51b92c8c8ab18717f24]: Commencement: Reg. 7 in force at 26.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1082/regulation/1/1)
 
-[^key-c8f710f05d44de617588a65a6843d766]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2005/1082) revoked (with savings) (1.10.2014) by [The Explosives Regulations 2014 (S.I. 2014/1638)](https://www.legislation.gov.uk/uksi/2014/1638), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1638/regulation/1/1), [Sch. 14 Pt. 2](https://www.legislation.gov.uk/uksi/2014/1638/schedule/14/part/2) (with [reg. 47](https://www.legislation.gov.uk/uksi/2014/1638/regulation/47/made))
+[^c-c8f710f05d44de617588a65a6843d766]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2005/1082) revoked (with savings) (1.10.2014) by [The Explosives Regulations 2014 (S.I. 2014/1638)](https://www.legislation.gov.uk/uksi/2014/1638), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1638/regulation/1/1), [Sch. 14 Pt. 2](https://www.legislation.gov.uk/uksi/2014/1638/schedule/14/part/2) (with [reg. 47](https://www.legislation.gov.uk/uksi/2014/1638/regulation/47/made))
 
-[^key-76c2734fd4c3197854bc8ad0c72f3f53]: Textual amendment: Word in [reg. 7](https://www.legislation.gov.uk/uksi/2005/1082/regulation/7) substituted (6.4.2009) by [The Health and Safety (Miscellaneous Amendments and Revocations) Regulations 2009 (S.I. 2009/693)](https://www.legislation.gov.uk/uksi/2009/693), [reg. 1](https://www.legislation.gov.uk/uksi/2009/693/regulation/1), [Sch. 1 para. 4(5)](https://www.legislation.gov.uk/uksi/2009/693/schedule/1/paragraph/4/made)
+[^c-76c2734fd4c3197854bc8ad0c72f3f53]: Textual amendment: Word in [reg. 7](https://www.legislation.gov.uk/uksi/2005/1082/regulation/7) substituted (6.4.2009) by [The Health and Safety (Miscellaneous Amendments and Revocations) Regulations 2009 (S.I. 2009/693)](https://www.legislation.gov.uk/uksi/2009/693), [reg. 1](https://www.legislation.gov.uk/uksi/2009/693/regulation/1), [Sch. 1 para. 4(5)](https://www.legislation.gov.uk/uksi/2009/693/schedule/1/paragraph/4/made)

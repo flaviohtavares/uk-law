@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Companies with more than one category of business: restriction of credit[^key-e323e9829f65e1296674806ab382a1ca]
+## 97. Companies with more than one category of business: restriction of credit[^c-e323e9829f65e1296674806ab382a1ca]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ TRI is the total amount of the relevant income.
 
 ## Annotations
 
-[^key-e323e9829f65e1296674806ab382a1ca]: Textual amendment: Ss. 97, 97A substituted (17.7.2012) for s. 97 by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 236](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/236)
+[^c-e323e9829f65e1296674806ab382a1ca]: Textual amendment: Ss. 97, 97A substituted (17.7.2012) for s. 97 by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 236](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/236)

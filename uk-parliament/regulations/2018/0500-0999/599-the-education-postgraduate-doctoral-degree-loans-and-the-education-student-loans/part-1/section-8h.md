@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8H. Appeals against correction years[^key-64d850d176e32a8be3b830e083ca6d73]
+## 8H. Appeals against correction years[^c-64d850d176e32a8be3b830e083ca6d73]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-64d850d176e32a8be3b830e083ca6d73]: Textual amendment: [Ch. 2A](https://www.legislation.gov.uk/uksi/2018/599/chapter/apte/rule/2A) inserted (25.6.2026) by [The Education (Student Support for Postgraduate Provision) (Amendment) Regulations 2026 (S.I. 2026/581)](https://www.legislation.gov.uk/uksi/2026/581), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/581/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2026/581/regulation/6) (with [regs. 13](https://www.legislation.gov.uk/uksi/2026/581/regulation/13), [14](https://www.legislation.gov.uk/uksi/2026/581/regulation/14))
+[^c-64d850d176e32a8be3b830e083ca6d73]: Textual amendment: [Ch. 2A](https://www.legislation.gov.uk/uksi/2018/599/chapter/apte/rule/2A) inserted (25.6.2026) by [The Education (Student Support for Postgraduate Provision) (Amendment) Regulations 2026 (S.I. 2026/581)](https://www.legislation.gov.uk/uksi/2026/581), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/581/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2026/581/regulation/6) (with [regs. 13](https://www.legislation.gov.uk/uksi/2026/581/regulation/13), [14](https://www.legislation.gov.uk/uksi/2026/581/regulation/14))

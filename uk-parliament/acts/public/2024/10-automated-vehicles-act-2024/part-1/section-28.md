@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Warrants for entry, search and seizure[^key-fd1fe72b0710143ef6fa51c6964d277a]
+## 28. Warrants for entry, search and seizure[^c-fd1fe72b0710143ef6fa51c6964d277a]
 
 *Extent: E+W+S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fd1fe72b0710143ef6fa51c6964d277a]: Commencement: S. 28 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-fd1fe72b0710143ef6fa51c6964d277a]: Commencement: S. 28 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

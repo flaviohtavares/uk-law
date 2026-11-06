@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Insurance business transfer schemes: non-profit fund transferred assets[^key-288d26b34aa7acf34be88eb5a0917b85]
+## 15. Insurance business transfer schemes: non-profit fund transferred assets[^c-288d26b34aa7acf34be88eb5a0917b85]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-288d26b34aa7acf34be88eb5a0917b85]: Textual amendment: [S. 15](https://www.legislation.gov.uk/ukpga/2010/33/section/15) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 247(w)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/247/w)
+[^c-288d26b34aa7acf34be88eb5a0917b85]: Textual amendment: [S. 15](https://www.legislation.gov.uk/ukpga/2010/33/section/15) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 247(w)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/247/w)

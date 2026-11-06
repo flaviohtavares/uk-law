@@ -44,7 +44,7 @@ A draft of the instrument has been laid before Parliament and a period of forty 
 
 The Commission makes the following Order in exercise of the power conferred by section 59(1) of the Act.
 
-## 1. Citation, commencement, extent and application[^key-044135e39e0bc1af0b04c6fe1f73429c]
+## 1. Citation, commencement, extent and application[^c-044135e39e0bc1af0b04c6fe1f73429c]
 
 (1) This Order may be cited as the Thurrock (Electoral Changes) Order 2025.
 
@@ -53,17 +53,17 @@ The Commission makes the following Order in exercise of the power conferred by s
 (3) Article 3 comes into force—
 
 - (a) for the purpose of proceedings preliminary or relating to the election of councillors, on the day after the day on which this Order is made;
-- (b) for all other purposes, on the ordinary day of election of councillors in England[^f00004] in 2026[^key-97f126606b200d8280802c91a6d72e0f].
+- (b) for all other purposes, on the ordinary day of election of councillors in England[^f00004] in 2026[^c-97f126606b200d8280802c91a6d72e0f].
 
 (4) This Order extends to England and Wales but applies in relation to England only.
 
-## 2. Interpretation[^key-e8b7f3a6723c164ea767df83fc8bf91f]
+## 2. Interpretation[^c-e8b7f3a6723c164ea767df83fc8bf91f]
 
 (1) In this Order, “**the map**” means the map marked “Map referred to in the Thurrock (Electoral Changes) Order 2025”, held by the Local Government Boundary Commission for England[^f00005].
 
 (2) Where a boundary is shown on the map as running along a road, railway line, footway, watercourse or similar geographical feature, it is to be treated as running along the centre line of the feature.
 
-## 3. Wards of the borough of Thurrock and number of councillors[^key-e8523faa7e57efa9ec086553135bdf1a][^key-ccd4f157c4f8f275ae6b33e77f1b75af]
+## 3. Wards of the borough of Thurrock and number of councillors[^c-e8523faa7e57efa9ec086553135bdf1a][^c-ccd4f157c4f8f275ae6b33e77f1b75af]
 
 (1) The existing wards of the borough of Thurrock are abolished.
 
@@ -83,7 +83,7 @@ Local Government Boundary Commission for England
 
 6th February 2025
 
-## Schedule — Wards of the borough of Thurrock and number of councillors[^key-af6283da3a7324c4a8cd32040b5e4f81][^key-db55c489dd0fcc66f0e58261e147a4a6]
+## Schedule — Wards of the borough of Thurrock and number of councillors[^c-af6283da3a7324c4a8cd32040b5e4f81][^c-db55c489dd0fcc66f0e58261e147a4a6]
 
 Article 3
 
@@ -132,20 +132,20 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00003]: Footnote: The report is available for inspection at reasonable times at the principal office of the Local Government Boundary Commission for England, 7th Floor, 3 Bunhill Row, London EC1Y 8YZ. It is also accessible online at https://www.lgbce.org.uk/all-reviews/thurrock.
 
-[^key-044135e39e0bc1af0b04c6fe1f73429c]: Commencement: Art. 1 in force at 7.2.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/129/article/1/2)
+[^c-044135e39e0bc1af0b04c6fe1f73429c]: Commencement: Art. 1 in force at 7.2.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/129/article/1/2)
 
 [^f00004]: Footnote: The ordinary day of election of councillors in England is prescribed by section 37(1) of the Representation of the People Act [1983 (c. 2)](https://www.legislation.gov.uk/ukpga/1983/2), as amended by section 18(2) of the Representation of the People Act [1985 (c. 50)](https://www.legislation.gov.uk/ukpga/1985/50), renumbered by paragraph 5 of Schedule 3 to the Greater London Authority Act [1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29), and further amended by section 6(16) of the Wales Act [2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4).
 
-[^key-97f126606b200d8280802c91a6d72e0f]: Textual amendment: Word in [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2025/129/article/1/3/b) substituted (4.3.2025) by [The Local Authorities (Changes to Years of Ordinary Elections) (England) Order 2025 (S.I. 2025/137)](https://www.legislation.gov.uk/uksi/2025/137), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/137/article/1/1), [5(1)(g)](https://www.legislation.gov.uk/uksi/2025/137/article/5/1/g)
+[^c-97f126606b200d8280802c91a6d72e0f]: Textual amendment: Word in [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2025/129/article/1/3/b) substituted (4.3.2025) by [The Local Authorities (Changes to Years of Ordinary Elections) (England) Order 2025 (S.I. 2025/137)](https://www.legislation.gov.uk/uksi/2025/137), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/137/article/1/1), [5(1)(g)](https://www.legislation.gov.uk/uksi/2025/137/article/5/1/g)
 
-[^key-e8b7f3a6723c164ea767df83fc8bf91f]: Commencement: Art. 2 in force at 7.2.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/129/article/1/2)
+[^c-e8b7f3a6723c164ea767df83fc8bf91f]: Commencement: Art. 2 in force at 7.2.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/129/article/1/2)
 
 [^f00005]: Footnote: Prints of the map are available for inspection at reasonable times at the principal office of the Local Government Boundary Commission for England, 7th Floor, 3 Bunhill Row, London EC1Y 8YZ. It is also accessible online at https://www.lgbce.org.uk/all-reviews/thurrock.
 
-[^key-e8523faa7e57efa9ec086553135bdf1a]: Commencement: Art. 3 in force at 7.2.2025 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2025/129/article/1/3/a)
+[^c-e8523faa7e57efa9ec086553135bdf1a]: Commencement: Art. 3 in force at 7.2.2025 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2025/129/article/1/3/a)
 
-[^key-ccd4f157c4f8f275ae6b33e77f1b75af]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2025/129/article/3) in force at 7.5.2026 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2025/129/article/1/3/b) (as amended by [S.I. 2025/137](https://www.legislation.gov.uk/uksi/2025/137), [art. 5(1)(g)](https://www.legislation.gov.uk/uksi/2025/137/article/5/1/g))
+[^c-ccd4f157c4f8f275ae6b33e77f1b75af]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2025/129/article/3) in force at 7.5.2026 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2025/129/article/1/3/b) (as amended by [S.I. 2025/137](https://www.legislation.gov.uk/uksi/2025/137), [art. 5(1)(g)](https://www.legislation.gov.uk/uksi/2025/137/article/5/1/g))
 
-[^key-af6283da3a7324c4a8cd32040b5e4f81]: Commencement: Sch. in force at 7.2.2025 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2025/129/article/1/3/a)
+[^c-af6283da3a7324c4a8cd32040b5e4f81]: Commencement: Sch. in force at 7.2.2025 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2025/129/article/1/3/a)
 
-[^key-db55c489dd0fcc66f0e58261e147a4a6]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2025/129/schedule) in force at 7.5.2026 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2025/129/article/1/3/b) (as amended by [S.I. 2025/137](https://www.legislation.gov.uk/uksi/2025/137), [art. 5(1)(g)](https://www.legislation.gov.uk/uksi/2025/137/article/5/1/g))
+[^c-db55c489dd0fcc66f0e58261e147a4a6]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2025/129/schedule) in force at 7.5.2026 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2025/129/article/1/3/b) (as amended by [S.I. 2025/137](https://www.legislation.gov.uk/uksi/2025/137), [art. 5(1)(g)](https://www.legislation.gov.uk/uksi/2025/137/article/5/1/g))

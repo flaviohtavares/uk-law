@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2A — ARTICLE 8 OF COUNCIL DIRECTIVE No.[86/609/EEC](https://www.legislation.gov.uk/european/directive/1986/0609)[^key-8ce2754f50a3b7fe652e48c2dac04c5b]
+## SCHEDULE 2A — ARTICLE 8 OF COUNCIL DIRECTIVE No.[86/609/EEC](https://www.legislation.gov.uk/european/directive/1986/0609)[^c-8ce2754f50a3b7fe652e48c2dac04c5b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,14 +24,14 @@ summary: ''
 
 Section 10(2A).
 
-**1.**[^key-8ce2754f50a3b7fe652e48c2dac04c5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-8ce2754f50a3b7fe652e48c2dac04c5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-8ce2754f50a3b7fe652e48c2dac04c5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-8ce2754f50a3b7fe652e48c2dac04c5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-8ce2754f50a3b7fe652e48c2dac04c5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-8ce2754f50a3b7fe652e48c2dac04c5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-8ce2754f50a3b7fe652e48c2dac04c5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-8ce2754f50a3b7fe652e48c2dac04c5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8ce2754f50a3b7fe652e48c2dac04c5b]: Textual amendment: Sch. 2A omitted (1.1.2013) by virtue of [The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039)](https://www.legislation.gov.uk/uksi/2012/3039), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/1/2), [26(19)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/26/19) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2012/3039/schedule/3))
+[^c-8ce2754f50a3b7fe652e48c2dac04c5b]: Textual amendment: Sch. 2A omitted (1.1.2013) by virtue of [The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039)](https://www.legislation.gov.uk/uksi/2012/3039), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/1/2), [26(19)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/26/19) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2012/3039/schedule/3))

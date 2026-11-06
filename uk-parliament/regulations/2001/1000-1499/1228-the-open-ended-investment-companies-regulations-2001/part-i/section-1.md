@@ -28,8 +28,8 @@ summary: ''
 - (b) for the purposes of regulations 7, 12, 13, 18(1) and (3), 74, 77 and 80 to 82, so far as relating to the making of applications for authorisation orders to be made on or after the day mentioned in sub-paragraph (c), on the day on which section 40 of the Act comes into force;
 - (c) for all remaining purposes, on the day on which section 19 of the Act comes into force.
 
-(3)[^key-30f3ea283663dd5a039cf3f207339d3d] Except as otherwise provided, these Regulations extend to the whole of the United Kingdom.
+(3)[^c-30f3ea283663dd5a039cf3f207339d3d] Except as otherwise provided, these Regulations extend to the whole of the United Kingdom.
 
 ## Annotations
 
-[^key-30f3ea283663dd5a039cf3f207339d3d]: Textual amendment: Reg. 1(3) substituted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2011/1265/schedule/2/paragraph/2) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2011/1265/schedule/3))
+[^c-30f3ea283663dd5a039cf3f207339d3d]: Textual amendment: Reg. 1(3) substituted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2011/1265/schedule/2/paragraph/2) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2011/1265/schedule/3))

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Remuneration of members of the Parliament and Government.[^key-f50360eeb39d4d96e2ea1b78c2e48c16]
+## 81. Remuneration of members of the Parliament and Government.[^c-f50360eeb39d4d96e2ea1b78c2e48c16]
 
 *Extent: E+W+S+N.I.*
 
-(1) The Parliament shall make provision for the payment of salaries to members of the Parliament and members of the Scottish Government[^key-1a6eec0a223077253e974615c6946a62].
+(1) The Parliament shall make provision for the payment of salaries to members of the Parliament and members of the Scottish Government[^c-1a6eec0a223077253e974615c6946a62].
 
 (2) The Parliament may make provision for the payment of allowances to members of the Parliament or members of the Scottish Government.
 
@@ -43,8 +43,8 @@ and references to a member of the Scottish Government include a junior Scottish 
 
 ## Annotations
 
-[^key-f50360eeb39d4d96e2ea1b78c2e48c16]: Textual amendment: Word in s. 81 heading substituted (3.7.2012) by [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 12(2)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/12/2/b), [44(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/5) (with [s. 12(3)](https://www.legislation.gov.uk/ukpga/2012/11/section/12/3)); [S.I. 2012/1710](https://www.legislation.gov.uk/uksi/2012/1710), [art. 2(f)](https://www.legislation.gov.uk/uksi/2012/1710/article/2/f)
+[^c-f50360eeb39d4d96e2ea1b78c2e48c16]: Textual amendment: Word in s. 81 heading substituted (3.7.2012) by [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 12(2)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/12/2/b), [44(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/5) (with [s. 12(3)](https://www.legislation.gov.uk/ukpga/2012/11/section/12/3)); [S.I. 2012/1710](https://www.legislation.gov.uk/uksi/2012/1710), [art. 2(f)](https://www.legislation.gov.uk/uksi/2012/1710/article/2/f)
 
-[^key-1a6eec0a223077253e974615c6946a62]: Textual amendment: Words in Act substituted (3.7.2012) by [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 12(2)(a)](https://www.legislation.gov.uk/ukpga/2012/11/section/12/2/a), [44(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/5) (with [s. 12(3)](https://www.legislation.gov.uk/ukpga/2012/11/section/12/3)); [S.I. 2012/1710](https://www.legislation.gov.uk/uksi/2012/1710), [art. 2(f)](https://www.legislation.gov.uk/uksi/2012/1710/article/2/f)
+[^c-1a6eec0a223077253e974615c6946a62]: Textual amendment: Words in Act substituted (3.7.2012) by [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 12(2)(a)](https://www.legislation.gov.uk/ukpga/2012/11/section/12/2/a), [44(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/5) (with [s. 12(3)](https://www.legislation.gov.uk/ukpga/2012/11/section/12/3)); [S.I. 2012/1710](https://www.legislation.gov.uk/uksi/2012/1710), [art. 2(f)](https://www.legislation.gov.uk/uksi/2012/1710/article/2/f)
 
 [^c12394731]: Modification: S. 81(3) extended (6.5.1999) by [S.I. 1999/1081](https://www.legislation.gov.uk/uksi/1999/1081), [art. 8](https://www.legislation.gov.uk/uksi/1999/1081/article/8)

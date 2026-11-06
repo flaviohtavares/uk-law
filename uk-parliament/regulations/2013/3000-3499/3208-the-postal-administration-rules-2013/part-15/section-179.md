@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 179. Electronic submission of information instead of submission of forms to the Secretary of State, postal administrators, and of copies to the registrar of companies[^key-af22077709b3af12b44ae152cab9c79d]
+## 179. Electronic submission of information instead of submission of forms to the Secretary of State, postal administrators, and of copies to the registrar of companies[^c-af22077709b3af12b44ae152cab9c79d]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-af22077709b3af12b44ae152cab9c79d]: Commencement: [Rule 179](https://www.legislation.gov.uk/uksi/2013/3208/rule/179) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-af22077709b3af12b44ae152cab9c79d]: Commencement: [Rule 179](https://www.legislation.gov.uk/uksi/2013/3208/rule/179) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

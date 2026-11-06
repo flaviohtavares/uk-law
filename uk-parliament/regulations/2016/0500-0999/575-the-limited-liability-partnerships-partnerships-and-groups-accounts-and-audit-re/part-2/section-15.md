@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Exemption for dormant subsidiary LLPs[^key-5f45318943ca4c372a233def5094d00c]
+## 15. Exemption for dormant subsidiary LLPs[^c-5f45318943ca4c372a233def5094d00c]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,7 +36,7 @@ summary: ''
 
 ## Annotations
 
-[^key-5f45318943ca4c372a233def5094d00c]: Commencement: Reg. 15 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
+[^c-5f45318943ca4c372a233def5094d00c]: Commencement: Reg. 15 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
 
 [^f00031]: Footnote: Regulation 19A was inserted by [S.I. 2012/2301](https://www.legislation.gov.uk/uksi/2012/2301), regulation 20(1) and (7).
 

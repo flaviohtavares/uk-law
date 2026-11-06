@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 77. Claims under Keeper's warranty[^key-60664e7595e5f8b409cbc581c64435d4]
+## 77. Claims under Keeper's warranty[^c-60664e7595e5f8b409cbc581c64435d4]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-60664e7595e5f8b409cbc581c64435d4]: Commencement: [S. 77](https://www.legislation.gov.uk/asp/2012/5/section/77) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-60664e7595e5f8b409cbc581c64435d4]: Commencement: [S. 77](https://www.legislation.gov.uk/asp/2012/5/section/77) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

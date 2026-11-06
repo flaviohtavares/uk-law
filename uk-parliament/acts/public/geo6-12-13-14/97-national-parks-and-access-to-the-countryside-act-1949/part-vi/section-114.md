@@ -24,9 +24,9 @@ summary: ''
 
 - . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c642576]
 - “[^c642577] **area of outstanding natural beauty** ” means an area designated under section 82 of the Countryside and Rights of Way Act 2000;
-- [^key-60d215d38f8d522b39995f3344c5c37d]...
-- [^key-ea9061816e9f49d5d654e643e09de802]...
-- “drainage authority” means—[^key-06ce415277bab0517e37ec5e3bab9b08]
+- [^c-60d215d38f8d522b39995f3344c5c37d]...
+- [^c-ea9061816e9f49d5d654e643e09de802]...
+- “drainage authority” means—[^c-06ce415277bab0517e37ec5e3bab9b08]
   - (a) as respects England, the Environment Agency;
   - (b) as respects Wales, the Natural Resources Body for Wales;
   - (c) in either case, an internal drainage board;
@@ -62,11 +62,11 @@ and, except where the context otherwise requires, other expressions have the sam
 
 [^c642577]: Textual amendment: S. 114(1): definition of “area of outstanding natural beauty” substituted (1.4.2001 for E. and 1.5.2001 for W.) by [2000 c. 37](https://www.legislation.gov.uk/ukpga/2000/37), [s. 93](https://www.legislation.gov.uk/ukpga/2000/37/section/93), [Sch. 15 Pt. I para. 3](https://www.legislation.gov.uk/ukpga/2000/37/schedule/15/part/I/paragraph/3) (with [s. 84(4)-(6)](https://www.legislation.gov.uk/ukpga/2000/37/section/84/4)); [S.I. 2001/114](https://www.legislation.gov.uk/uksi/2001/114), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2001/114/article/2/2/e); [S.I. 2001/1410](https://www.legislation.gov.uk/uksi/2001/1410), [art. 2(g)](https://www.legislation.gov.uk/uksi/2001/1410/article/2/g)
 
-[^key-60d215d38f8d522b39995f3344c5c37d]: Textual amendment: Words in s. 114(1) repealed (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 24](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/24), [Sch. 12](https://www.legislation.gov.uk/ukpga/2006/16/schedule/12); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-60d215d38f8d522b39995f3344c5c37d]: Textual amendment: Words in s. 114(1) repealed (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 24](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/24), [Sch. 12](https://www.legislation.gov.uk/ukpga/2006/16/schedule/12); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
 
-[^key-ea9061816e9f49d5d654e643e09de802]: Textual amendment: Words in s. 114(1) omitted (1.4.2013) by virtue of [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 24(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/24/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-ea9061816e9f49d5d654e643e09de802]: Textual amendment: Words in s. 114(1) omitted (1.4.2013) by virtue of [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 24(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/24/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-06ce415277bab0517e37ec5e3bab9b08]: Textual amendment: Words in s. 114(1) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 24(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/24/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-06ce415277bab0517e37ec5e3bab9b08]: Textual amendment: Words in s. 114(1) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 24(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/24/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c642582]: Textual amendment: Words substituted by virtue of [S.I. 1951/142](https://www.legislation.gov.uk/uksi/1951/142) (1951 I, p. 1348), art. 2, 1951/1900 (1951 I, p. 1347), 1965/143, arts. 2(2), 3(1), 1965/319, arts. 2(1), 10(1), Sch. 1 Pt. I and 1970/1681, arts. 2, 6(3)
 

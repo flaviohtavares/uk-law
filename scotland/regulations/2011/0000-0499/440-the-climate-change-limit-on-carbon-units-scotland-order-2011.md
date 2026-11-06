@@ -32,7 +32,7 @@ summary: ''
 
 Climate Change
 
-The Climate Change (Limit on Carbon Units) (Scotland) Order 2011 (revoked)[^key-e4d6bc44658e6a03331b4c3e0bad7f50]
+The Climate Change (Limit on Carbon Units) (Scotland) Order 2011 (revoked)[^c-e4d6bc44658e6a03331b4c3e0bad7f50]
 
 Made
 
@@ -42,27 +42,27 @@ Coming into force
 
 31st December 2011
 
-[^key-e4d6bc44658e6a03331b4c3e0bad7f50]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e4d6bc44658e6a03331b4c3e0bad7f50]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-e4d6bc44658e6a03331b4c3e0bad7f50]
+## 1. Citation, commencement and interpretation[^c-e4d6bc44658e6a03331b4c3e0bad7f50]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Limit on the net amount of carbon units for the period 2013-2017[^key-e4d6bc44658e6a03331b4c3e0bad7f50]
+## 2. Limit on the net amount of carbon units for the period 2013-2017[^c-e4d6bc44658e6a03331b4c3e0bad7f50]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Carbon units that do not count towards the limit[^key-e4d6bc44658e6a03331b4c3e0bad7f50]
+## 3. Carbon units that do not count towards the limit[^c-e4d6bc44658e6a03331b4c3e0bad7f50]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e4d6bc44658e6a03331b4c3e0bad7f50]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e4d6bc44658e6a03331b4c3e0bad7f50]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Net amount of carbon units that may be credited to the net Scottish emissions account[^key-e4d6bc44658e6a03331b4c3e0bad7f50]
+## SCHEDULE — Net amount of carbon units that may be credited to the net Scottish emissions account[^c-e4d6bc44658e6a03331b4c3e0bad7f50]
 
 Article 2
 
@@ -70,8 +70,8 @@ Article 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-e4d6bc44658e6a03331b4c3e0bad7f50]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e4d6bc44658e6a03331b4c3e0bad7f50]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e4d6bc44658e6a03331b4c3e0bad7f50]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2011/440) revoked (23.3.2020) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15)](https://www.legislation.gov.uk/asp/2019/15), [ss. 15(4)(b)](https://www.legislation.gov.uk/asp/2019/15/section/15/4/b), [32(2)](https://www.legislation.gov.uk/asp/2019/15/section/32/2); [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
+[^c-e4d6bc44658e6a03331b4c3e0bad7f50]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2011/440) revoked (23.3.2020) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15)](https://www.legislation.gov.uk/asp/2019/15), [ss. 15(4)(b)](https://www.legislation.gov.uk/asp/2019/15/section/15/4/b), [32(2)](https://www.legislation.gov.uk/asp/2019/15/section/32/2); [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 56. Correction of errors in decisions[^key-399c6b9687bcb94fa2320f44687903fc]
+## 56. Correction of errors in decisions[^c-399c6b9687bcb94fa2320f44687903fc]
 
 *Extent: E+W*
 
@@ -29,9 +29,9 @@ summary: ''
 
 (3) But the Secretary of State or inspector must not correct the error unless—
 
-- (a) not later than the end of the relevant period he receives a request mentioned in subsection (2)(a) or sends a statement mentioned in subsection (2)(b), and[^key-56bbf4733b15c850c19c7ace5e89c4c6]
-- (b) he informs the local planning authority of that fact, [^key-04b639b7be82963295eef02b0b91e2de]...
-- (c)[^key-04b639b7be82963295eef02b0b91e2de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) not later than the end of the relevant period he receives a request mentioned in subsection (2)(a) or sends a statement mentioned in subsection (2)(b), and[^c-56bbf4733b15c850c19c7ace5e89c4c6]
+- (b) he informs the local planning authority of that fact, [^c-04b639b7be82963295eef02b0b91e2de]...
+- (c)[^c-04b639b7be82963295eef02b0b91e2de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The relevant period—
 
@@ -40,16 +40,16 @@ summary: ''
 
 (5) It is immaterial whether any such application or appeal is made.
 
-(6)[^key-10006982729ec7d51bed588be3e0e2f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-10006982729ec7d51bed588be3e0e2f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-10006982729ec7d51bed588be3e0e2f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-10006982729ec7d51bed588be3e0e2f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-399c6b9687bcb94fa2320f44687903fc]: Commencement: S. 56 in force at 28.9.2004 by [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 3(a)](https://www.legislation.gov.uk/uksi/2004/2202/article/3/a)
+[^c-399c6b9687bcb94fa2320f44687903fc]: Commencement: S. 56 in force at 28.9.2004 by [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 3(a)](https://www.legislation.gov.uk/uksi/2004/2202/article/3/a)
 
-[^key-56bbf4733b15c850c19c7ace5e89c4c6]: Textual amendment: Word in s. 56(3)(a) inserted (1.9.2014) by [The Town and Country Planning (Non-Material Changes and Correction of Errors) (Wales) Order 2014 (S.I. 2014/1770)](https://www.legislation.gov.uk/wsi/2014/1770), [arts. 1](https://www.legislation.gov.uk/wsi/2014/1770/article/1), [3(2)(a)](https://www.legislation.gov.uk/wsi/2014/1770/article/3/2/a)
+[^c-56bbf4733b15c850c19c7ace5e89c4c6]: Textual amendment: Word in s. 56(3)(a) inserted (1.9.2014) by [The Town and Country Planning (Non-Material Changes and Correction of Errors) (Wales) Order 2014 (S.I. 2014/1770)](https://www.legislation.gov.uk/wsi/2014/1770), [arts. 1](https://www.legislation.gov.uk/wsi/2014/1770/article/1), [3(2)(a)](https://www.legislation.gov.uk/wsi/2014/1770/article/3/2/a)
 
-[^key-04b639b7be82963295eef02b0b91e2de]: Textual amendment: S. 56(3)(c) and word omitted (1.9.2014) by virtue of [The Town and Country Planning (Non-Material Changes and Correction of Errors) (Wales) Order 2014 (S.I. 2014/1770)](https://www.legislation.gov.uk/wsi/2014/1770), [arts. 1](https://www.legislation.gov.uk/wsi/2014/1770/article/1), [3(2)(b)](https://www.legislation.gov.uk/wsi/2014/1770/article/3/2/b)
+[^c-04b639b7be82963295eef02b0b91e2de]: Textual amendment: S. 56(3)(c) and word omitted (1.9.2014) by virtue of [The Town and Country Planning (Non-Material Changes and Correction of Errors) (Wales) Order 2014 (S.I. 2014/1770)](https://www.legislation.gov.uk/wsi/2014/1770), [arts. 1](https://www.legislation.gov.uk/wsi/2014/1770/article/1), [3(2)(b)](https://www.legislation.gov.uk/wsi/2014/1770/article/3/2/b)
 
-[^key-10006982729ec7d51bed588be3e0e2f4]: Textual amendment: S. 56(6)(7) omitted (1.9.2014) by virtue of [The Town and Country Planning (Non-Material Changes and Correction of Errors) (Wales) Order 2014 (S.I. 2014/1770)](https://www.legislation.gov.uk/wsi/2014/1770), [arts. 1](https://www.legislation.gov.uk/wsi/2014/1770/article/1), [3(3)](https://www.legislation.gov.uk/wsi/2014/1770/article/3/3)
+[^c-10006982729ec7d51bed588be3e0e2f4]: Textual amendment: S. 56(6)(7) omitted (1.9.2014) by virtue of [The Town and Country Planning (Non-Material Changes and Correction of Errors) (Wales) Order 2014 (S.I. 2014/1770)](https://www.legislation.gov.uk/wsi/2014/1770), [arts. 1](https://www.legislation.gov.uk/wsi/2014/1770/article/1), [3(3)](https://www.legislation.gov.uk/wsi/2014/1770/article/3/3)

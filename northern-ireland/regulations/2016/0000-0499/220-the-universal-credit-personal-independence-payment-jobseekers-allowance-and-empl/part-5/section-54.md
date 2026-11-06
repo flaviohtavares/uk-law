@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 54. Direct payment to lender of deductions in respect of interest secured on loans[^key-1f95e1b35140e8e0a6f6a6ae3321896f]
+## 54. Direct payment to lender of deductions in respect of interest secured on loans[^c-1f95e1b35140e8e0a6f6a6ae3321896f]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1f95e1b35140e8e0a6f6a6ae3321896f]: Textual amendment: Reg. 54 omitted by S.R. 2017/176, Sch 5 para. 8(a) (as inserted (6.4.2018) by virtue of [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/3), [2(18)(e)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/18/e))
+[^c-1f95e1b35140e8e0a6f6a6ae3321896f]: Textual amendment: Reg. 54 omitted by S.R. 2017/176, Sch 5 para. 8(a) (as inserted (6.4.2018) by virtue of [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/3), [2(18)(e)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/18/e))

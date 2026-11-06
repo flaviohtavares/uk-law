@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Lease[^key-d443aa6af8e3a2790e37afa687dbc0a7]
+## 74. Lease[^c-d443aa6af8e3a2790e37afa687dbc0a7]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d443aa6af8e3a2790e37afa687dbc0a7]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/2007/15/section/74) in force at 6.4.2014 by [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/a)
+[^c-d443aa6af8e3a2790e37afa687dbc0a7]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/2007/15/section/74) in force at 6.4.2014 by [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/a)

@@ -33,7 +33,7 @@ EUROPEAN COMMUNITIES
 
 WATER AND SEWERAGE
 
-The Protection of Water Against Agricultural Nitrate Pollution (Amendment) Regulations (Northern Ireland) 2005 (revoked)[^key-30c4525a524cb5a14c5f299ff4fcfbb6]
+The Protection of Water Against Agricultural Nitrate Pollution (Amendment) Regulations (Northern Ireland) 2005 (revoked)[^c-30c4525a524cb5a14c5f299ff4fcfbb6]
 
 Made
 
@@ -43,26 +43,26 @@ Coming into operation
 
 25th July 2005
 
-[^key-30c4525a524cb5a14c5f299ff4fcfbb6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-30c4525a524cb5a14c5f299ff4fcfbb6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-30c4525a524cb5a14c5f299ff4fcfbb6]
+## 1. Citation and commencement[^c-30c4525a524cb5a14c5f299ff4fcfbb6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-30c4525a524cb5a14c5f299ff4fcfbb6]
+## 2. Interpretation[^c-30c4525a524cb5a14c5f299ff4fcfbb6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment to the Principal Regulations[^key-30c4525a524cb5a14c5f299ff4fcfbb6]
+## 3. Amendment to the Principal Regulations[^c-30c4525a524cb5a14c5f299ff4fcfbb6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-30c4525a524cb5a14c5f299ff4fcfbb6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-30c4525a524cb5a14c5f299ff4fcfbb6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-30c4525a524cb5a14c5f299ff4fcfbb6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-30c4525a524cb5a14c5f299ff4fcfbb6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-30c4525a524cb5a14c5f299ff4fcfbb6]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/306) revoked (with application in accordance with reg. 2 of the amending Rule) by [The Nitrates Action Programme Regulations (Northern Ireland) 2006 (S.R. 2006/489)](https://www.legislation.gov.uk/nisr/2006/489), [regs. 1](https://www.legislation.gov.uk/nisr/2006/489/regulation/1), [30(2)](https://www.legislation.gov.uk/nisr/2006/489/regulation/30/2)
+[^c-30c4525a524cb5a14c5f299ff4fcfbb6]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/306) revoked (with application in accordance with reg. 2 of the amending Rule) by [The Nitrates Action Programme Regulations (Northern Ireland) 2006 (S.R. 2006/489)](https://www.legislation.gov.uk/nisr/2006/489), [regs. 1](https://www.legislation.gov.uk/nisr/2006/489/regulation/1), [30(2)](https://www.legislation.gov.uk/nisr/2006/489/regulation/30/2)

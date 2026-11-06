@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 33. Abatement of offshore works abandoned or decayed[^key-817d6f38fd530f972c9b0bdf991b0c5e]
+## 33. Abatement of offshore works abandoned or decayed[^c-817d6f38fd530f972c9b0bdf991b0c5e]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-817d6f38fd530f972c9b0bdf991b0c5e]: Commencement: Art. 33 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
+[^c-817d6f38fd530f972c9b0bdf991b0c5e]: Commencement: Art. 33 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Other authorised use: personnel[^key-15c12214681ea2fbfa80855f95d2763a]
+## 12. Other authorised use: personnel[^c-15c12214681ea2fbfa80855f95d2763a]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-15c12214681ea2fbfa80855f95d2763a]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2017/6/section/12) in force at 12.12.2017 by [S.I. 2017/1087](https://www.legislation.gov.uk/uksi/2017/1087), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1087/regulation/2)
+[^c-15c12214681ea2fbfa80855f95d2763a]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2017/6/section/12) in force at 12.12.2017 by [S.I. 2017/1087](https://www.legislation.gov.uk/uksi/2017/1087), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1087/regulation/2)

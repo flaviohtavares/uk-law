@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Article 17 (export of controlled substances or of products and equipment containing or relying on controlled substances)[^key-27299dc60aee87757a03daae4d46f288]
+## 16. Article 17 (export of controlled substances or of products and equipment containing or relying on controlled substances)[^c-27299dc60aee87757a03daae4d46f288]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,13 +32,13 @@ summary: ''
 (4) In paragraph 4—
 
 - (a) for “re-exports” substitute “non-domestic goods”;
-- (b)[^key-fb32af588263706a1ebec968673f5064] for “the customs territory of the Community” substitute “Great Britain”;
+- (b)[^c-fb32af588263706a1ebec968673f5064] for “the customs territory of the Community” substitute “Great Britain”;
 - (c) for “as referred to in Regulation [(EC) No 450/2008](https://www.legislation.gov.uk/eur/2008/450)” substitute “in accordance with the applicable provisions of the Taxation (Cross-border Trade) Act 2018”;
 - (d) for “re-export” substitute “export”;
 - (e) for “Commission” substitute “Environment Agency”.
 
 ## Annotations
 
-[^key-27299dc60aee87757a03daae4d46f288]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-27299dc60aee87757a03daae4d46f288]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-fb32af588263706a1ebec968673f5064]: Textual amendment: [Reg. 16(4)(b)](https://www.legislation.gov.uk/uksi/2019/583/regulation/16/4/b) substituted (31.12.2020 immediately before IP completion day) by [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1616)](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(10)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/10)
+[^c-fb32af588263706a1ebec968673f5064]: Textual amendment: [Reg. 16(4)(b)](https://www.legislation.gov.uk/uksi/2019/583/regulation/16/4/b) substituted (31.12.2020 immediately before IP completion day) by [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1616)](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(10)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/10)

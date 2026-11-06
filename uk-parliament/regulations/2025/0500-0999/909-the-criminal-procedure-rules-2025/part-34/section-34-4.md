@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34.4. Duty of magistrates’ court officer[^key-a8675c8a08dc9733ae033a5bcbf34e33]
+## 34.4. Duty of magistrates’ court officer[^c-a8675c8a08dc9733ae033a5bcbf34e33]
 
 *Extent: E+W*
 
@@ -59,6 +59,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a8675c8a08dc9733ae033a5bcbf34e33]: Commencement: [Rule 34.4](https://www.legislation.gov.uk/uksi/2025/909/rule/34.4) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-a8675c8a08dc9733ae033a5bcbf34e33]: Commencement: [Rule 34.4](https://www.legislation.gov.uk/uksi/2025/909/rule/34.4) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00888]: Footnote: [2003 c. 44](https://www.legislation.gov.uk/ukpga/2003/44).

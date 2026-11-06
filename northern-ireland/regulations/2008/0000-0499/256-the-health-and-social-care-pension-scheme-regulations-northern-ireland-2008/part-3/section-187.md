@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 187. Reduction in pension debit member’s benefits[^key-475a36ef0286d06a3c89453a1c208cc9]
+## 187. Reduction in pension debit member’s benefits[^c-475a36ef0286d06a3c89453a1c208cc9]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-475a36ef0286d06a3c89453a1c208cc9]: Textual amendment: [Reg. 187](https://www.legislation.gov.uk/nisr/2008/256/regulation/187) substituted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [77](https://www.legislation.gov.uk/nisr/2010/22/regulation/77)
+[^c-475a36ef0286d06a3c89453a1c208cc9]: Textual amendment: [Reg. 187](https://www.legislation.gov.uk/nisr/2008/256/regulation/187) substituted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [77](https://www.legislation.gov.uk/nisr/2010/22/regulation/77)

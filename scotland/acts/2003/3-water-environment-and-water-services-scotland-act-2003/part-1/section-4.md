@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4. Establishment of river basin districts[^key-4e1aeb4a9e750e16fe8be1afb2167b7c]
+## 4. Establishment of river basin districts[^c-4e1aeb4a9e750e16fe8be1afb2167b7c]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4e1aeb4a9e750e16fe8be1afb2167b7c]: Commencement: S. 4 in force at 15.12.2003 by [S.S.I. 2003/562](https://www.legislation.gov.uk/ssi/2003/562), [art. 2(a)](https://www.legislation.gov.uk/ssi/2003/562/article/2/a)
+[^c-4e1aeb4a9e750e16fe8be1afb2167b7c]: Commencement: S. 4 in force at 15.12.2003 by [S.S.I. 2003/562](https://www.legislation.gov.uk/ssi/2003/562), [art. 2(a)](https://www.legislation.gov.uk/ssi/2003/562/article/2/a)

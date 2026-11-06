@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Right to obtain information on request[^key-819c840219cc3cc0a46d58cb84e3f0c7]
+## 57. Right to obtain information on request[^c-819c840219cc3cc0a46d58cb84e3f0c7]
 
 *Extent: E+W*
 
@@ -122,4 +122,4 @@ summary: ''
 
 ## Annotations
 
-[^key-819c840219cc3cc0a46d58cb84e3f0c7]: Commencement: S. 57 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-819c840219cc3cc0a46d58cb84e3f0c7]: Commencement: S. 57 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

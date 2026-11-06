@@ -31,7 +31,7 @@ summary: ''
 
 CUSTOMS AND EXCISE
 
-The Federal Republic of Yugoslavia (Supply, Sale and Export of Petroleum and Petroleum Products) (Penalties and Licences) Regulations 1999 (revoked)[^key-6273af5a5ebfee01e1b790056f794ac6]
+The Federal Republic of Yugoslavia (Supply, Sale and Export of Petroleum and Petroleum Products) (Penalties and Licences) Regulations 1999 (revoked)[^c-6273af5a5ebfee01e1b790056f794ac6]
 
 Made
 
@@ -45,32 +45,32 @@ Coming into force
 
 1st May 1999
 
-[^key-6273af5a5ebfee01e1b790056f794ac6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6273af5a5ebfee01e1b790056f794ac6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-## 1.[^key-6273af5a5ebfee01e1b790056f794ac6]
+## 1.[^c-6273af5a5ebfee01e1b790056f794ac6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2.[^key-6273af5a5ebfee01e1b790056f794ac6]
+## 2.[^c-6273af5a5ebfee01e1b790056f794ac6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-6273af5a5ebfee01e1b790056f794ac6]
+## 3.[^c-6273af5a5ebfee01e1b790056f794ac6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-6273af5a5ebfee01e1b790056f794ac6]
+## 4.[^c-6273af5a5ebfee01e1b790056f794ac6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6273af5a5ebfee01e1b790056f794ac6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6273af5a5ebfee01e1b790056f794ac6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-6273af5a5ebfee01e1b790056f794ac6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6273af5a5ebfee01e1b790056f794ac6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6273af5a5ebfee01e1b790056f794ac6]: Textual amendment: Regulations revoked (3.6.1999) by [The Federal Republic of Yugoslavia (Supply, Sale and Export of Petroleum and Petroleum Products) (No. 2) Regulations 1999 (S.I. 1999/1516)](https://www.legislation.gov.uk/uksi/1999/1516), [regs. 1](https://www.legislation.gov.uk/uksi/1999/1516/regulation/1), [12](https://www.legislation.gov.uk/uksi/1999/1516/regulation/12)
+[^c-6273af5a5ebfee01e1b790056f794ac6]: Textual amendment: Regulations revoked (3.6.1999) by [The Federal Republic of Yugoslavia (Supply, Sale and Export of Petroleum and Petroleum Products) (No. 2) Regulations 1999 (S.I. 1999/1516)](https://www.legislation.gov.uk/uksi/1999/1516), [regs. 1](https://www.legislation.gov.uk/uksi/1999/1516/regulation/1), [12](https://www.legislation.gov.uk/uksi/1999/1516/regulation/12)

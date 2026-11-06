@@ -33,7 +33,7 @@ An Act to continue the Army Act 1955, the Air Force Act 1955 and the Naval Disci
 
 \[11th May 2001\]
 
-Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-8f6e9528c0c43dd761a5cbb44073fbd3]
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-8f6e9528c0c43dd761a5cbb44073fbd3]
 
 ## Contents
 
@@ -127,4 +127,4 @@ SCHEDULES
 
 ## Annotations
 
-[^key-8f6e9528c0c43dd761a5cbb44073fbd3]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2001/19) power to amend conferred (4.6.2007) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [ss. 381](https://www.legislation.gov.uk/ukpga/2006/52/section/381), [383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2); [S.I. 2007/1442](https://www.legislation.gov.uk/uksi/2007/1442), [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/1442/article/2/2)
+[^c-8f6e9528c0c43dd761a5cbb44073fbd3]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2001/19) power to amend conferred (4.6.2007) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [ss. 381](https://www.legislation.gov.uk/ukpga/2006/52/section/381), [383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2); [S.I. 2007/1442](https://www.legislation.gov.uk/uksi/2007/1442), [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/1442/article/2/2)

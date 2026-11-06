@@ -31,7 +31,7 @@ Marriage Act 1949
 
 An Act to consolidate certain enactments relating to the solemnization and registration of marriages in England with such corrections and improvements as may be authorised under the Consolidation of Enactments (Procedure) Act, 1949.
 
-\[24th November 1949\][^c6278981][^c6278991][^c6279001][^c6279011][^c6279021][^c6279031][^c6279041][^key-4131b02f3334cb97c374283cad69bca1][^key-8420f26b63971e39bf682e9785e4fb3e][^key-a0a498998a256b109a78304f4b849a5a]
+\[24th November 1949\][^c6278981][^c6278991][^c6279001][^c6279011][^c6279021][^c6279031][^c6279041][^c-4131b02f3334cb97c374283cad69bca1][^c-8420f26b63971e39bf682e9785e4fb3e][^c-a0a498998a256b109a78304f4b849a5a]
 
 ## Contents
 
@@ -76,7 +76,7 @@ An Act to consolidate certain enactments relating to the solemnization and regis
 - [Section 15 — Places in which marriages may be solemnized by common licence.](part-ii/section-15.md)
 - [Section 16 — Provisions as to common licences.](part-ii/section-16.md)
 
-#### Marriage under marriage schedule[^key-beacd3feccb262d95c8fb6091971a47a]
+#### Marriage under marriage schedule[^c-beacd3feccb262d95c8fb6091971a47a]
 
 *Extent: E+W*
 
@@ -96,7 +96,7 @@ An Act to consolidate certain enactments relating to the solemnization and regis
 - [Section 20 — Licensing of chapels for publication of banns and solemnization of marriages for persons residing in specified district.](part-ii/section-20.md)
 - [Section 21 — Authorising of publication of banns and solemnization of marriages in churches and chapels of extra-parochial places.](part-ii/section-21.md)
 
-#### Issue of marriage document after publication of banns or the grant of a special or common licence[^key-45e58d4f9f14716dd1bb7cf7f17a6df9]
+#### Issue of marriage document after publication of banns or the grant of a special or common licence[^c-45e58d4f9f14716dd1bb7cf7f17a6df9]
 
 *Extent: E+W+S+N.I.*
 
@@ -111,11 +111,11 @@ An Act to consolidate certain enactments relating to the solemnization and regis
 - [Section 24 — Proof of residence not necessary to validity of marriage by banns or common licence.](part-ii/section-24.md)
 - [Section 25 — Void marriages.](part-ii/section-25.md)
 
-### Part III — Marriage under marriage schedule[^c6280221][^key-c898f7a5800b3f42e0c6454cec446a45][^key-dbb819f801a1b4913060392380df064f]
+### Part III — Marriage under marriage schedule[^c6280221][^c-c898f7a5800b3f42e0c6454cec446a45][^c-dbb819f801a1b4913060392380df064f]
 
 *Extent: E+W+S+N.I.*
 
-#### Issue of a marriage schedule[^key-a0c4e14bee09c58e7c425d57a82c6ca6]
+#### Issue of a marriage schedule[^c-a0c4e14bee09c58e7c425d57a82c6ca6]
 
 *Extent: E+W+S+N.I.*
 
@@ -167,7 +167,7 @@ An Act to consolidate certain enactments relating to the solemnization and regis
 - [Section 43D — Regulations about sections 41 and 43 and 43A to 43C](part-iii/section-43d.md)
 - [Section 44 — Solemnization of marriage in registered building.](part-iii/section-44.md)
 
-#### Registration of shared buildings for marriage of same sex couples[^key-326d8c7c54427fdb6aec992f1c1ff491]
+#### Registration of shared buildings for marriage of same sex couples[^c-326d8c7c54427fdb6aec992f1c1ff491]
 
 - [Section 44A — Building subject to Sharing of Church Buildings Act 1969: registration](part-iii/section-44a.md)
 - [Section 44B — Building subject to Sharing of Church Buildings Act 1969: cancellation](part-iii/section-44b.md)
@@ -230,7 +230,7 @@ An Act to consolidate certain enactments relating to the solemnization and regis
 - [Section 66 — Sending documents by post.](part-iv/section-66.md)
 - [Section 67 — Interpretation of Part IV.](part-iv/section-67.md)
 
-### Part V — Marriages in Naval, Military, and Air Force Chapels[^key-efd58b3c82a9bfb9733675aec8f98c04]
+### Part V — Marriages in Naval, Military, and Air Force Chapels[^c-efd58b3c82a9bfb9733675aec8f98c04]
 
 *Extent: E+W*
 
@@ -284,28 +284,28 @@ SCHEDULES
 
 [^c6279041]: Commencement: Act wholly in force at 1.1.1950 see [s. 80(4)](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/76/section/80/4)
 
-[^key-4131b02f3334cb97c374283cad69bca1]: Modification: [Act](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/76) applied (with modifications) (1.2.2005) by [Asylum and Immigration (Treatment of Claimants, etc.) Act 2004 (c. 19)](https://www.legislation.gov.uk/ukpga/2004/19), [ss. 20](https://www.legislation.gov.uk/ukpga/2004/19/section/20), [48(3)](https://www.legislation.gov.uk/ukpga/2004/19/section/48/3); [S.I. 2004/3398](https://www.legislation.gov.uk/uksi/2004/3398), [art. 3](https://www.legislation.gov.uk/uksi/2004/3398/article/3)
+[^c-4131b02f3334cb97c374283cad69bca1]: Modification: [Act](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/76) applied (with modifications) (1.2.2005) by [Asylum and Immigration (Treatment of Claimants, etc.) Act 2004 (c. 19)](https://www.legislation.gov.uk/ukpga/2004/19), [ss. 20](https://www.legislation.gov.uk/ukpga/2004/19/section/20), [48(3)](https://www.legislation.gov.uk/ukpga/2004/19/section/48/3); [S.I. 2004/3398](https://www.legislation.gov.uk/uksi/2004/3398), [art. 3](https://www.legislation.gov.uk/uksi/2004/3398/article/3)
 
-[^key-8420f26b63971e39bf682e9785e4fb3e]: Modification: [Act](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/76) modified (1.7.2012) by [Mission and Pastoral Measure 2011 (No. 3)](https://www.legislation.gov.uk/ukcm/2011/3), [ss. 43(2)(a)](https://www.legislation.gov.uk/ukcm/2011/3/section/43/2/a), [112(3)](https://www.legislation.gov.uk/ukcm/2011/3/section/112/3) (with [ss. 100](https://www.legislation.gov.uk/ukcm/2011/3/section/100), [105(4)](https://www.legislation.gov.uk/ukcm/2011/3/section/105/4), [107](https://www.legislation.gov.uk/ukcm/2011/3/section/107), [108(6)](https://www.legislation.gov.uk/ukcm/2011/3/section/108/6), [Sch. 8](https://www.legislation.gov.uk/ukcm/2011/3/schedule/8)); [2012 No. 1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-8420f26b63971e39bf682e9785e4fb3e]: Modification: [Act](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/76) modified (1.7.2012) by [Mission and Pastoral Measure 2011 (No. 3)](https://www.legislation.gov.uk/ukcm/2011/3), [ss. 43(2)(a)](https://www.legislation.gov.uk/ukcm/2011/3/section/43/2/a), [112(3)](https://www.legislation.gov.uk/ukcm/2011/3/section/112/3) (with [ss. 100](https://www.legislation.gov.uk/ukcm/2011/3/section/100), [105(4)](https://www.legislation.gov.uk/ukcm/2011/3/section/105/4), [107](https://www.legislation.gov.uk/ukcm/2011/3/section/107), [108(6)](https://www.legislation.gov.uk/ukcm/2011/3/section/108/6), [Sch. 8](https://www.legislation.gov.uk/ukcm/2011/3/schedule/8)); [2012 No. 1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
 
-[^key-a0a498998a256b109a78304f4b849a5a]: Modification: [Act](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/76): power to amend conferred (26.5.2019) by [Civil Partnerships, Marriages and Deaths (Registration etc) Act 2019 (c. 12)](https://www.legislation.gov.uk/ukpga/2019/12), [s. 1(1)](https://www.legislation.gov.uk/ukpga/2019/12/section/1/1)
+[^c-a0a498998a256b109a78304f4b849a5a]: Modification: [Act](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/76): power to amend conferred (26.5.2019) by [Civil Partnerships, Marriages and Deaths (Registration etc) Act 2019 (c. 12)](https://www.legislation.gov.uk/ukpga/2019/12), [s. 1(1)](https://www.legislation.gov.uk/ukpga/2019/12/section/1/1)
 
 [^c6279721]: Modification: Pt. II applied by [Sharing of Church Buildings Act 1969 (c. 38)](https://www.legislation.gov.uk/ukpga/1969/38), [s. 6(2)](https://www.legislation.gov.uk/ukpga/1969/38/section/6/2)
 
-[^key-beacd3feccb262d95c8fb6091971a47a]: Textual amendment: Words in s. 17 cross-heading substituted (4.5.2021) by [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/4) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
+[^c-beacd3feccb262d95c8fb6091971a47a]: Textual amendment: Words in s. 17 cross-heading substituted (4.5.2021) by [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/4) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
 
-[^key-45e58d4f9f14716dd1bb7cf7f17a6df9]: Textual amendment: S. 21A and cross-heading inserted (27.3.2021 for specified purposes, 19.4.2021 in so far as not already in force) by [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(4)(c)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/4/c)[(7)(a)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/7/a), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/7) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
+[^c-45e58d4f9f14716dd1bb7cf7f17a6df9]: Textual amendment: S. 21A and cross-heading inserted (27.3.2021 for specified purposes, 19.4.2021 in so far as not already in force) by [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(4)(c)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/4/c)[(7)(a)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/7/a), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/7) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
 
 [^c6280221]: Modification: Pt. III applied (S.) as to issue of certificates for marriage by [Marriage (Scotland) Act 1956 (c. 70)](https://www.legislation.gov.uk/ukpga/1956/70), [s. 1(3)](https://www.legislation.gov.uk/ukpga/1956/70/section/1/3)
 
-[^key-c898f7a5800b3f42e0c6454cec446a45]: Modification: Pt. 3 applied (13.3.2014) by [Marriage (Same Sex Couples) Act 2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30), [ss. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2013/30/section/1/2/a), [21(3)](https://www.legislation.gov.uk/ukpga/2013/30/section/21/3); [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/93/article/3/a)
+[^c-c898f7a5800b3f42e0c6454cec446a45]: Modification: Pt. 3 applied (13.3.2014) by [Marriage (Same Sex Couples) Act 2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30), [ss. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2013/30/section/1/2/a), [21(3)](https://www.legislation.gov.uk/ukpga/2013/30/section/21/3); [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/93/article/3/a)
 
-[^key-dbb819f801a1b4913060392380df064f]: Textual amendment: Words in Pt. 3 heading substituted (4.5.2021) by [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/9) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
+[^c-dbb819f801a1b4913060392380df064f]: Textual amendment: Words in Pt. 3 heading substituted (4.5.2021) by [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/9) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
 
-[^key-a0c4e14bee09c58e7c425d57a82c6ca6]: Textual amendment: Words in s. 26 cross-heading substituted (4.5.2021) by [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/10) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
+[^c-a0c4e14bee09c58e7c425d57a82c6ca6]: Textual amendment: Words in s. 26 cross-heading substituted (4.5.2021) by [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/10) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
 
-[^key-326d8c7c54427fdb6aec992f1c1ff491]: Textual amendment: Ss. 44A-44D inserted (31.10.2013 for specified purposes, 13.3.2014 in so far as not already in force) by [Marriage (Same Sex Couples) Act 2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30), [s. 21(3)](https://www.legislation.gov.uk/ukpga/2013/30/section/21/3), [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2013/30/schedule/1/paragraph/3); [S.I. 2013/2789](https://www.legislation.gov.uk/uksi/2013/2789), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2789/article/2/a); [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 3(g)](https://www.legislation.gov.uk/uksi/2014/93/article/3/g)
+[^c-326d8c7c54427fdb6aec992f1c1ff491]: Textual amendment: Ss. 44A-44D inserted (31.10.2013 for specified purposes, 13.3.2014 in so far as not already in force) by [Marriage (Same Sex Couples) Act 2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30), [s. 21(3)](https://www.legislation.gov.uk/ukpga/2013/30/section/21/3), [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2013/30/schedule/1/paragraph/3); [S.I. 2013/2789](https://www.legislation.gov.uk/uksi/2013/2789), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2789/article/2/a); [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 3(g)](https://www.legislation.gov.uk/uksi/2014/93/article/3/g)
 
 [^c6283261]: Textual amendment: Ss. 46A, 46B and cross-heading inserted (24.2.1995) by [1994 c. 34](https://www.legislation.gov.uk/ukpga/1994/34), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/1994/34/section/1/2), [3(2)](https://www.legislation.gov.uk/ukpga/1994/34/section/3/2); [S.I. 1995/424](https://www.legislation.gov.uk/uksi/1995/424), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/1995/424/article/2/1/a)
 
-[^key-efd58b3c82a9bfb9733675aec8f98c04]: Modification: Pt. V applied (13.3.2014) by [Marriage (Same Sex Couples) Act 2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30), [ss. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2013/30/section/1/2/b), [21(3)](https://www.legislation.gov.uk/ukpga/2013/30/section/21/3); [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/93/article/3/a)
+[^c-efd58b3c82a9bfb9733675aec8f98c04]: Modification: Pt. V applied (13.3.2014) by [Marriage (Same Sex Couples) Act 2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30), [ss. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2013/30/section/1/2/b), [21(3)](https://www.legislation.gov.uk/ukpga/2013/30/section/21/3); [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/93/article/3/a)

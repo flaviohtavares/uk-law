@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 64. Clinical and other specialist advisers[^key-5e3fa367c383ba956e6f5036331fa527][^key-a6a72c9e6a413281af8bbf8adaac5bb0]
+## 64. Clinical and other specialist advisers[^c-5e3fa367c383ba956e6f5036331fa527][^c-a6a72c9e6a413281af8bbf8adaac5bb0]
 
 *Extent: E+W+S*
 
@@ -58,6 +58,6 @@ and are to hold and vacate office in accordance with the terms of the instrument
 
 ## Annotations
 
-[^key-5e3fa367c383ba956e6f5036331fa527]: Commencement: Art. 64 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-5e3fa367c383ba956e6f5036331fa527]: Commencement: Art. 64 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-a6a72c9e6a413281af8bbf8adaac5bb0]: Commencement: [Art. 64](https://www.legislation.gov.uk/uksi/2010/231/article/64) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-a6a72c9e6a413281af8bbf8adaac5bb0]: Commencement: [Art. 64](https://www.legislation.gov.uk/uksi/2010/231/article/64) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)

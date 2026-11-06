@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Application of registration provisions in 2011 Act[^key-3f557ba77a51bfc0c40312025d6ba197]
+## 6. Application of registration provisions in 2011 Act[^c-3f557ba77a51bfc0c40312025d6ba197]
 
 *Extent: E+W*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3f557ba77a51bfc0c40312025d6ba197]: Commencement: Reg. 6 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
+[^c-3f557ba77a51bfc0c40312025d6ba197]: Commencement: Reg. 6 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)

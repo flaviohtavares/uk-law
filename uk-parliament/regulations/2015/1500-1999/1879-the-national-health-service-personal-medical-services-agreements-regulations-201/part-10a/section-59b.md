@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 59B. Vaccines and immunisations: duty of co-operation[^key-f51426e6fdab03ade6c6903a2e4987a4]
+## 59B. Vaccines and immunisations: duty of co-operation[^c-f51426e6fdab03ade6c6903a2e4987a4]
 
 *Extent: E+W*
 
@@ -28,15 +28,15 @@ summary: ''
 (2) For the purposes of paragraph (1) “relevant persons” means—
 
 - (a) other persons who administer relevant vaccines and immunisations to patients;
-- (b) NHS England[^key-9520329cffeb7671913a444ac58ebf84];
+- (b) NHS England[^c-9520329cffeb7671913a444ac58ebf84];
 - (c) the Secretary of State;
 - (d) local authorities.
-- (e)[^key-5d79efded52b0d8055f695b2849e7cc1] integrated care boards.
+- (e)[^c-5d79efded52b0d8055f695b2849e7cc1] integrated care boards.
 
 ## Annotations
 
-[^key-f51426e6fdab03ade6c6903a2e4987a4]: Textual amendment: Pt. 10A inserted (1.4.2021) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2021 (S.I. 2021/331)](https://www.legislation.gov.uk/uksi/2021/331), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/331/regulation/1/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2021/331/schedule/2/paragraph/1)
+[^c-f51426e6fdab03ade6c6903a2e4987a4]: Textual amendment: Pt. 10A inserted (1.4.2021) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2021 (S.I. 2021/331)](https://www.legislation.gov.uk/uksi/2021/331), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/331/regulation/1/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2021/331/schedule/2/paragraph/1)
 
-[^key-9520329cffeb7671913a444ac58ebf84]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-9520329cffeb7671913a444ac58ebf84]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
-[^key-5d79efded52b0d8055f695b2849e7cc1]: Textual amendment: [Reg. 59B(2)(e)](https://www.legislation.gov.uk/uksi/2015/1879/regulation/59B/2/e) inserted (15.5.2023) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/449)](https://www.legislation.gov.uk/uksi/2023/436), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/436/regulation/1/2), [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2023/436/schedule/2/paragraph/4)
+[^c-5d79efded52b0d8055f695b2849e7cc1]: Textual amendment: [Reg. 59B(2)(e)](https://www.legislation.gov.uk/uksi/2015/1879/regulation/59B/2/e) inserted (15.5.2023) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/449)](https://www.legislation.gov.uk/uksi/2023/436), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/436/regulation/1/2), [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2023/436/schedule/2/paragraph/4)

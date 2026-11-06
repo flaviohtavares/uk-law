@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 342. Compensation: cases where prospect of planning permission to be ignored[^key-baea0afe496305796a3e5b388682285d]
+## 342. Compensation: cases where prospect of planning permission to be ignored[^c-baea0afe496305796a3e5b388682285d]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-baea0afe496305796a3e5b388682285d]: Commencement: S. 342 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-baea0afe496305796a3e5b388682285d]: Commencement: S. 342 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

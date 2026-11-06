@@ -40,11 +40,11 @@ Coming into operation
 
 The Department of Economic Development, being the Department concerned[^f00001], in exercise of the powers conferred on it by Articles 17(1) and (3), 20(2) and 55(2) of the Health and Safety at Work (Northern Ireland) Order 1978[^f00002] and of every other power enabling it in that behalf, after consultation in accordance with Article 46(1) of that Order with the Health and Safety Agency for Northern Ireland and such other bodies as appeared to the Department to be appropriate, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-8d9030f39772c0c7060ab6bdc9838977]
+## 1. Citation and commencement[^c-8d9030f39772c0c7060ab6bdc9838977]
 
 These Regulations may be cited as the Health and Safety (Enforcing Authority) Regulations (Northern Ireland) 1999 and shall come into operation on 1st April 1999.
 
-## 2. Interpretation[^key-232ef8ee3ce3830653f7632b71b19153]
+## 2. Interpretation[^c-232ef8ee3ce3830653f7632b71b19153]
 
 (1) In these Regulations—
 
@@ -77,11 +77,11 @@ These Regulations may be cited as the Health and Safety (Enforcing Authority) Re
 
 (2) In these Regulations, any reference to the enforcing authority for premises or parts of premises is a reference to the enforcing authority for the relevant statutory provisions in relation to those premises or parts, as the case may be, and to any activity carried on in them.
 
-## 3. Application[^key-7cdda59d900258e1b619f12ec652c4a4]
+## 3. Application[^c-7cdda59d900258e1b619f12ec652c4a4]
 
 These Regulations shall not apply to an industrial activity involving substances to which the Explosive Acts (Northern Ireland) 1875 to 1970[^f00013] or the Explosives (Northern Ireland) Order 1972[^f00014] apply.
 
-## 4. District councils to be enforcing authorities for certain premises and the Executive to be the enforcing authority for certain premises[^key-e29b93a8cf0ee8c8ba0850216b2ba6f7]
+## 4. District councils to be enforcing authorities for certain premises and the Executive to be the enforcing authority for certain premises[^c-e29b93a8cf0ee8c8ba0850216b2ba6f7]
 
 (1) Where the main activity carried on in non-domestic premises is specified in Schedule 1, the district council for the district in which those premises are situated shall be the enforcing authority for them, and the Executive shall be the enforcing authority in any other case including the common parts of domestic premises.
 
@@ -100,7 +100,7 @@ These Regulations shall not apply to an industrial activity involving substances
 
 (5) This regulation shall have effect subject to regulations 5, 7 and 8.
 
-## 5. The Executive to be the enforcing authority for the whole of certain premises[^key-00a03a308e26e2f5a242a3ff2bc0d55f]
+## 5. The Executive to be the enforcing authority for the whole of certain premises[^c-00a03a308e26e2f5a242a3ff2bc0d55f]
 
 (1) The Executive shall be the enforcing authority for the whole of the following premises whether occupied by more than one occupier or not—
 
@@ -136,7 +136,7 @@ These Regulations shall not apply to an industrial activity involving substances
 
 (8) This regulation shall have effect subject to regulations 7 and 8.
 
-## 6. References in judgments, etc.[^key-4ef03a09b7f05fee2414cd7c8ae29c8e]
+## 6. References in judgments, etc.[^c-4ef03a09b7f05fee2414cd7c8ae29c8e]
 
 (1) In the construction and for the purposes of any judgment, decree, award, deed, contract, certificate or other document passed or made before the date of coming into operation of these Regulations, any reference to, or which is to be construed as a reference to, the Department shall, so far only as may be necessary for the purposes of these Regulations, be construed as a reference to the Executive.
 
@@ -146,7 +146,7 @@ These Regulations shall not apply to an industrial activity involving substances
 
 (4) Where, at the date of coming into operation of these Regulations, any legal proceeding is pending to which the Department is a party and the proceeding relates to any of the functions transferred to the Executive by these Regulations, the Executive shall be substituted in the proceeding for the Department, and the proceeding shall not abate by reason of the substitution.
 
-## 7. Arrangements enabling responsibility for enforcement to be transferred[^key-0865358f6be762426375875f24b3f37a]
+## 7. Arrangements enabling responsibility for enforcement to be transferred[^c-0865358f6be762426375875f24b3f37a]
 
 (1) The responsibility for enforcing any of the relevant statutory provisions in respect of any particular premises, part of premises, or any activity carried on there may be transferred from the Executive to a district council or from a district council to the Executive.
 
@@ -156,7 +156,7 @@ These Regulations shall not apply to an industrial activity involving substances
 
 (4) The preceding paragraphs shall not apply to any part of premises occupied by the Crown or to any activity carried on there but responsibility for enforcing any of the relevant statutory provisions in respect of office activities and the premises used for them may be transferred by an agreement between the Executive, the district council concerned and the government department or other public body concerned.
 
-## 8. Arrangements enabling responsibility for enforcement to be assigned in cases of uncertainty[^key-06fae83b594d3205e44e0a0ffa8057e5]
+## 8. Arrangements enabling responsibility for enforcement to be assigned in cases of uncertainty[^c-06fae83b594d3205e44e0a0ffa8057e5]
 
 (1) The responsibility for enforcing any of the relevant statutory provisions in respect of any particular premises, part of premises or any activity carried on there may be assigned to the Executive or to any district council; and an assignment under this paragraph may be made only by the Executive and the district council jointly and only where they agree—
 
@@ -167,7 +167,7 @@ and where such an assignment is made the authority to which responsibility has b
 
 (2) For the purpose of removing uncertainty in any particular case as to what are their respective responsibilities by virtue of regulations made under Article 20(2) of the 1978 Order, either the Executive or a district council may apply to the Department and where the Department considers that there is uncertainty it shall, after considering the circumstances and any views which may have been expressed to it by either enforcing authority or by persons affected, assign responsibility to whichever authority it considers appropriate; and where such an assignment is made the Department shall cause notice of the assignment to be given to both enforcing authorities concerned and to persons affected by it.
 
-## 9. Revocation[^key-9780e252a5bd95f8aead82abd80f55b2]
+## 9. Revocation[^c-9780e252a5bd95f8aead82abd80f55b2]
 
 The Health and Safety (Enforcing Authority) Regulations (Northern Ireland) 1997[^f00021] are hereby revoked.
 
@@ -183,7 +183,7 @@ Assistant Secretary
 
 Regulation 4(1)
 
-**1.**[^key-c2ecd4a19911235fd4015652fdd0ef91] The sale of goods, or the storage of goods for retail or wholesale distribution, except—
+**1.**[^c-c2ecd4a19911235fd4015652fdd0ef91] The sale of goods, or the storage of goods for retail or wholesale distribution, except—
 
 - (a) at container depots where the main activity is the storage of goods in the course of transit to or from dock premises, an airport or a railway;
 - (b) where the main activity is the sale or storage for wholesale distribution of any substance or preparation dangerous for supply;
@@ -191,45 +191,45 @@ Regulation 4(1)
 
 and for the purposes of this paragraph, where the main activity carried on in premises is the sale and fitting of motor car tyres, exhausts, windscreens or sunroofs the main activity shall be deemed to be the sale of goods.
 
-**2.**[^key-ba6c8ce7ca47fa526403b232ef9cdb2a] The display or demonstration of goods at an exhibition, excluding those activities at an agricultural show specified in paragraph 10 of Schedule 2, for the purposes of offer or advertisement for sale.
+**2.**[^c-ba6c8ce7ca47fa526403b232ef9cdb2a] The display or demonstration of goods at an exhibition, excluding those activities at an agricultural show specified in paragraph 10 of Schedule 2, for the purposes of offer or advertisement for sale.
 
-**3.**[^key-ec19cddce9f81cf41414cb50ca71481f] Office activities.
+**3.**[^c-ec19cddce9f81cf41414cb50ca71481f] Office activities.
 
-**4.**[^key-68bbf40339924d02127a611c878f6c27] Catering services.
+**4.**[^c-68bbf40339924d02127a611c878f6c27] Catering services.
 
-**5.**[^key-cadba3f5068ed7ed7fa41207399a1697] The provision of permanent or temporary residential accommodation including the provision of a site for caravans or campers.
+**5.**[^c-cadba3f5068ed7ed7fa41207399a1697] The provision of permanent or temporary residential accommodation including the provision of a site for caravans or campers.
 
-**6.**[^key-b678c7de7df6bd16b90e477a76fd03ca] Consumer services provided in a shop except dry cleaning or radio and television repairs, and in this paragraph “consumer services” means services of a type ordinarily supplied to persons who receive them otherwise than in the course of a trade, business or other undertaking carried on by them (whether for profit or not).
+**6.**[^c-b678c7de7df6bd16b90e477a76fd03ca] Consumer services provided in a shop except dry cleaning or radio and television repairs, and in this paragraph “consumer services” means services of a type ordinarily supplied to persons who receive them otherwise than in the course of a trade, business or other undertaking carried on by them (whether for profit or not).
 
-**7.**[^key-487dd8ed7f24253719b87504b5afbd05] Cleaning (wet or dry) in coin operated units in launderettes and similar premises.
+**7.**[^c-487dd8ed7f24253719b87504b5afbd05] Cleaning (wet or dry) in coin operated units in launderettes and similar premises.
 
-**8.**[^key-9c92a8b22a5fd6a9da8fd7ec2265c3c8] The use of a bath, sauna or solarium, massaging, hair transplanting, skin piercing, manicuring or other cosmetic services and therapeutic treatments, except where they are carried out under the supervision or control of a registered medical practitioner (that is to say, a fully registered person within the meaning of the Medical Act 1983[^f00022]), a dentist registered under the Dentists Act 1984[^f00023], a physiotherapist, an osteopath or a chiropractor.
+**8.**[^c-9c92a8b22a5fd6a9da8fd7ec2265c3c8] The use of a bath, sauna or solarium, massaging, hair transplanting, skin piercing, manicuring or other cosmetic services and therapeutic treatments, except where they are carried out under the supervision or control of a registered medical practitioner (that is to say, a fully registered person within the meaning of the Medical Act 1983[^f00022]), a dentist registered under the Dentists Act 1984[^f00023], a physiotherapist, an osteopath or a chiropractor.
 
-**9.**[^key-627dd18da59b37fd8167615f1aa91d8a] The practice or presentation of the arts, sports, games, entertainment or other cultural or recreational activities except where the main activity is the exhibition of a cave to the public.
+**9.**[^c-627dd18da59b37fd8167615f1aa91d8a] The practice or presentation of the arts, sports, games, entertainment or other cultural or recreational activities except where the main activity is the exhibition of a cave to the public.
 
-**10.**[^key-18506dfe670c7f5667a3227e16d56fd1] The hiring out of pleasure craft for use on inland waters.
+**10.**[^c-18506dfe670c7f5667a3227e16d56fd1] The hiring out of pleasure craft for use on inland waters.
 
-**11.**[^key-816fb0838227883609d34e7b09947291] The care, treatment, accommodation or exhibition of animals, birds or other creatures, except where the main activity is horse breeding or horse training at a stable, or is an agricultural activity or veterinary surgery.
+**11.**[^c-816fb0838227883609d34e7b09947291] The care, treatment, accommodation or exhibition of animals, birds or other creatures, except where the main activity is horse breeding or horse training at a stable, or is an agricultural activity or veterinary surgery.
 
-**12.**[^key-3ab7120b7c8b0dfd8604da859d48b4f7] The activities of an undertaker, except where the main activity is embalming or the making of coffins.
+**12.**[^c-3ab7120b7c8b0dfd8604da859d48b4f7] The activities of an undertaker, except where the main activity is embalming or the making of coffins.
 
-**13.**[^key-3c133cb49d11bd771aabceb51c93982a] Church worship or religious meetings.
+**13.**[^c-3c133cb49d11bd771aabceb51c93982a] Church worship or religious meetings.
 
-**14.**[^key-78ba8b7091566d5469d196e64f8d3bbf] The provision of car parking facilities within the perimeter of an airport.
+**14.**[^c-78ba8b7091566d5469d196e64f8d3bbf] The provision of car parking facilities within the perimeter of an airport.
 
-**15.**[^key-2ba114657ca8ddb3d0f4768496436f1e] The provision of child care, or playgroup or nursery facilities.
+**15.**[^c-2ba114657ca8ddb3d0f4768496436f1e] The provision of child care, or playgroup or nursery facilities.
 
 ## SCHEDULE 2 — Activities in respect of which the Executive is the enforcing authority
 
 Regulation 5(6)(b)
 
-**1.**[^key-2ded18b4f6e9d7241098593002ea24ea] Any activity in a mine or quarry other than a quarry in respect of which notice or abandonment or discontinuance has been given under Article 16 of the Quarries (Northern Ireland) Order 1983.
+**1.**[^c-2ded18b4f6e9d7241098593002ea24ea] Any activity in a mine or quarry other than a quarry in respect of which notice or abandonment or discontinuance has been given under Article 16 of the Quarries (Northern Ireland) Order 1983.
 
-**2.**[^key-183d2f3d7842c0204b80b0d00d102a11] Any activity in a fairground.
+**2.**[^c-183d2f3d7842c0204b80b0d00d102a11] Any activity in a fairground.
 
-**3.**[^key-f863e8d32faf6e92cebd3a840b4c62a8] Any activity in premises occupied by a radio, television or film undertaking in which the activity of broadcasting, recording or filming is carried on, and the activity of broadcasting, recording or filming wherever carried on, and for this purpose “film” includes video.
+**3.**[^c-f863e8d32faf6e92cebd3a840b4c62a8] Any activity in premises occupied by a radio, television or film undertaking in which the activity of broadcasting, recording or filming is carried on, and the activity of broadcasting, recording or filming wherever carried on, and for this purpose “film” includes video.
 
-**4.**[^key-1835bb85ca5b0660df5c314f93c70e4c] The following activities carried on at any premises by persons who do not normally work in the premises—
+**4.**[^c-1835bb85ca5b0660df5c314f93c70e4c] The following activities carried on at any premises by persons who do not normally work in the premises—
 
 - (a) construction work if—
   - (i) regulation 7(1) of the Construction (Design and Management) Regulations (Northern Ireland) 1995[^f00024] (which requires projects which include or are intended to include construction work to be notified to the Executive) applies to the project which includes the work;
@@ -239,25 +239,25 @@ Regulation 5(6)(b)
 - (c) the installation, maintenance or repair of electricity systems;
 - (d) work with ionising radiations except work in one or more of the categories set out in Schedule 3 to the Ionising Radiations Regulations (Northern Ireland) 1985.
 
-**5.**[^key-c0d12895d2c23e07ecf9cbcce3c10018] The use of ionising radiations for medical exposure (within the meaning of regulation 2(1) of the Ionising Radiations Regulations (Northern Ireland) 1985).
+**5.**[^c-c0d12895d2c23e07ecf9cbcce3c10018] The use of ionising radiations for medical exposure (within the meaning of regulation 2(1) of the Ionising Radiations Regulations (Northern Ireland) 1985).
 
-**6.**[^key-007bdaafca876fb75624a1145ebdd1dd] Any activity in premises occupied by a radiography undertaking in which there is carried on any work with ionising radiations.
+**6.**[^c-007bdaafca876fb75624a1145ebdd1dd] Any activity in premises occupied by a radiography undertaking in which there is carried on any work with ionising radiations.
 
-**7.**[^key-804dcd19b72dc40d3410517471aa49e7] Any activity involving genetic modification (within the meaning of regulation 2(1) of the Genetically Modified Organisms (Contained Use) Regulations (Northern Ireland) 1994[^f00025]).
+**7.**[^c-804dcd19b72dc40d3410517471aa49e7] Any activity involving genetic modification (within the meaning of regulation 2(1) of the Genetically Modified Organisms (Contained Use) Regulations (Northern Ireland) 1994[^f00025]).
 
-**8.**[^key-4f057cef07eaff0aeab36824b15c5e49] Any activity on board a sea-going ship.
+**8.**[^c-4f057cef07eaff0aeab36824b15c5e49] Any activity on board a sea-going ship.
 
-**9.**[^key-241796dde9de976fa5bb280989154ab7] Any activity in relation to a ski slope, ski lift, ski tow or cable car.
+**9.**[^c-241796dde9de976fa5bb280989154ab7] Any activity in relation to a ski slope, ski lift, ski tow or cable car.
 
-**10.**[^key-2b62b3defa8553da0a485d1927b4b289] Agricultural activities, and any activity at an agricultural show which involves the handling of livestock or the working of agricultural equipment.
+**10.**[^c-2b62b3defa8553da0a485d1927b4b289] Agricultural activities, and any activity at an agricultural show which involves the handling of livestock or the working of agricultural equipment.
 
-**11.**[^key-8830da4503e7ebbdea162af17865fdd4] Fish farming, maggot and game breeding except in a zoo.
+**11.**[^c-8830da4503e7ebbdea162af17865fdd4] Fish farming, maggot and game breeding except in a zoo.
 
-**12.**[^key-60d7b592b12b59e4e18ff21c9725ea2a] Horse breeding or horse training at a stable.
+**12.**[^c-60d7b592b12b59e4e18ff21c9725ea2a] Horse breeding or horse training at a stable.
 
-**13.**[^key-c03c61909bdb7426347325aaadf16825] Any activity in relation to a pipeline within the meaning of regulation 3 of the Pipelines Safety Regulations (Northern Ireland) 1997[^f00026].
+**13.**[^c-c03c61909bdb7426347325aaadf16825] Any activity in relation to a pipeline within the meaning of regulation 3 of the Pipelines Safety Regulations (Northern Ireland) 1997[^f00026].
 
-**14.**[^key-8d5e76469f73b12213a6084dca5eca75] The operation of a railway.
+**14.**[^c-8d5e76469f73b12213a6084dca5eca75] The operation of a railway.
 
 (This note is not part of the Regulations.)
 
@@ -303,9 +303,9 @@ Regulation 5(6)(b)
 
 [^f00002]: Footnote: [S.I. 1978/1039 (N.I. 9)](https://www.legislation.gov.uk/nisi/1978/1039) as amended by [S.I. 1998/2795 (N.I. 18)](https://www.legislation.gov.uk/nisi/1998/2795)
 
-[^key-8d9030f39772c0c7060ab6bdc9838977]: Commencement: Reg. 1 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)
+[^c-8d9030f39772c0c7060ab6bdc9838977]: Commencement: Reg. 1 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)
 
-[^key-232ef8ee3ce3830653f7632b71b19153]: Commencement: Reg. 2 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)
+[^c-232ef8ee3ce3830653f7632b71b19153]: Commencement: Reg. 2 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)
 
 [^f00003]: Footnote: [S.R. 1995 No. 209](https://www.legislation.gov.uk/nisr/1995/209)
 
@@ -327,15 +327,15 @@ Regulation 5(6)(b)
 
 [^f00012]: Footnote: [1972 c. 7 (N.I.)](https://www.legislation.gov.uk/apni/1972/7); section 12(1) was amended by [S.I. 1994/1891 (N.I. 6)](https://www.legislation.gov.uk/nisi/1994/1891) Article 14
 
-[^key-7cdda59d900258e1b619f12ec652c4a4]: Commencement: Reg. 3 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)
+[^c-7cdda59d900258e1b619f12ec652c4a4]: Commencement: Reg. 3 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)
 
 [^f00013]: Footnote: [1875 c. 17](https://www.legislation.gov.uk/ukpga/1875/17), [1924 c. 5 (N.I.)](https://www.legislation.gov.uk/apni/1924/5); [1970 c. 10 (N.I](https://www.legislation.gov.uk/apni/1970/10).)
 
 [^f00014]: Footnote: [S.I. 1972/730 (N.I. 3)](https://www.legislation.gov.uk/nisi/1972/730)
 
-[^key-e29b93a8cf0ee8c8ba0850216b2ba6f7]: Commencement: Reg. 4 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)
+[^c-e29b93a8cf0ee8c8ba0850216b2ba6f7]: Commencement: Reg. 4 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)
 
-[^key-00a03a308e26e2f5a242a3ff2bc0d55f]: Commencement: Reg. 5 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)
+[^c-00a03a308e26e2f5a242a3ff2bc0d55f]: Commencement: Reg. 5 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)
 
 [^f00015]: Footnote: [S.R. 1995 No. 340](https://www.legislation.gov.uk/nisr/1995/340)
 
@@ -349,80 +349,80 @@ Regulation 5(6)(b)
 
 [^f00020]: Footnote: [1929 c. 13 (N.I.)](https://www.legislation.gov.uk/apni/1929/13), [1937 c. 4 (N.I.) (1 Edw. 8 and 1 Geo. 6)](https://www.legislation.gov.uk/apni/1937/4)
 
-[^key-4ef03a09b7f05fee2414cd7c8ae29c8e]: Commencement: Reg. 6 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)
+[^c-4ef03a09b7f05fee2414cd7c8ae29c8e]: Commencement: Reg. 6 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)
 
-[^key-0865358f6be762426375875f24b3f37a]: Commencement: Reg. 7 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)
+[^c-0865358f6be762426375875f24b3f37a]: Commencement: Reg. 7 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)
 
-[^key-06fae83b594d3205e44e0a0ffa8057e5]: Commencement: Reg. 8 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)
+[^c-06fae83b594d3205e44e0a0ffa8057e5]: Commencement: Reg. 8 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)
 
-[^key-9780e252a5bd95f8aead82abd80f55b2]: Commencement: Reg. 9 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)
+[^c-9780e252a5bd95f8aead82abd80f55b2]: Commencement: Reg. 9 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)
 
 [^f00021]: Footnote: [S.R. 1997 No. 229](https://www.legislation.gov.uk/nisr/1997/229)
 
-[^key-c2ecd4a19911235fd4015652fdd0ef91]: Commencement: Sch. 1 para. 1 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)
+[^c-c2ecd4a19911235fd4015652fdd0ef91]: Commencement: Sch. 1 para. 1 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)
 
-[^key-ba6c8ce7ca47fa526403b232ef9cdb2a]: Commencement: Sch. 1 para. 2 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)
+[^c-ba6c8ce7ca47fa526403b232ef9cdb2a]: Commencement: Sch. 1 para. 2 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)
 
-[^key-ec19cddce9f81cf41414cb50ca71481f]: Commencement: Sch. 1 para. 3 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)
+[^c-ec19cddce9f81cf41414cb50ca71481f]: Commencement: Sch. 1 para. 3 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)
 
-[^key-68bbf40339924d02127a611c878f6c27]: Commencement: Sch. 1 para. 4 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)
+[^c-68bbf40339924d02127a611c878f6c27]: Commencement: Sch. 1 para. 4 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)
 
-[^key-cadba3f5068ed7ed7fa41207399a1697]: Commencement: Sch. 1 para. 5 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)
+[^c-cadba3f5068ed7ed7fa41207399a1697]: Commencement: Sch. 1 para. 5 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)
 
-[^key-b678c7de7df6bd16b90e477a76fd03ca]: Commencement: Sch. 1 para. 6 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)
+[^c-b678c7de7df6bd16b90e477a76fd03ca]: Commencement: Sch. 1 para. 6 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)
 
-[^key-487dd8ed7f24253719b87504b5afbd05]: Commencement: Sch. 1 para. 7 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)
+[^c-487dd8ed7f24253719b87504b5afbd05]: Commencement: Sch. 1 para. 7 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)
 
-[^key-9c92a8b22a5fd6a9da8fd7ec2265c3c8]: Commencement: Sch. 1 para. 8 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)
+[^c-9c92a8b22a5fd6a9da8fd7ec2265c3c8]: Commencement: Sch. 1 para. 8 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)
 
 [^f00022]: Footnote: [1983 c. 54](https://www.legislation.gov.uk/ukpga/1983/54)
 
 [^f00023]: Footnote: [1984 c. 24](https://www.legislation.gov.uk/ukpga/1984/24)
 
-[^key-627dd18da59b37fd8167615f1aa91d8a]: Commencement: Sch. 1 para. 9 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)
+[^c-627dd18da59b37fd8167615f1aa91d8a]: Commencement: Sch. 1 para. 9 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)
 
-[^key-18506dfe670c7f5667a3227e16d56fd1]: Commencement: Sch. 1 para. 10 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)
+[^c-18506dfe670c7f5667a3227e16d56fd1]: Commencement: Sch. 1 para. 10 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)
 
-[^key-816fb0838227883609d34e7b09947291]: Commencement: Sch. 1 para. 11 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)
+[^c-816fb0838227883609d34e7b09947291]: Commencement: Sch. 1 para. 11 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)
 
-[^key-3ab7120b7c8b0dfd8604da859d48b4f7]: Commencement: Sch. 1 para. 12 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)
+[^c-3ab7120b7c8b0dfd8604da859d48b4f7]: Commencement: Sch. 1 para. 12 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)
 
-[^key-3c133cb49d11bd771aabceb51c93982a]: Commencement: Sch. 1 para. 13 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)
+[^c-3c133cb49d11bd771aabceb51c93982a]: Commencement: Sch. 1 para. 13 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)
 
-[^key-78ba8b7091566d5469d196e64f8d3bbf]: Commencement: Sch. 1 para. 14 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)
+[^c-78ba8b7091566d5469d196e64f8d3bbf]: Commencement: Sch. 1 para. 14 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)
 
-[^key-2ba114657ca8ddb3d0f4768496436f1e]: Commencement: Sch. 1 para. 15 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)
+[^c-2ba114657ca8ddb3d0f4768496436f1e]: Commencement: Sch. 1 para. 15 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)
 
-[^key-2ded18b4f6e9d7241098593002ea24ea]: Commencement: Sch. 2 para. 1 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)
+[^c-2ded18b4f6e9d7241098593002ea24ea]: Commencement: Sch. 2 para. 1 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)
 
-[^key-183d2f3d7842c0204b80b0d00d102a11]: Commencement: Sch. 2 para. 2 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)
+[^c-183d2f3d7842c0204b80b0d00d102a11]: Commencement: Sch. 2 para. 2 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)
 
-[^key-f863e8d32faf6e92cebd3a840b4c62a8]: Commencement: Sch. 2 para. 3 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)
+[^c-f863e8d32faf6e92cebd3a840b4c62a8]: Commencement: Sch. 2 para. 3 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)
 
-[^key-1835bb85ca5b0660df5c314f93c70e4c]: Commencement: Sch. 2 para. 4 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)
+[^c-1835bb85ca5b0660df5c314f93c70e4c]: Commencement: Sch. 2 para. 4 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)
 
 [^f00024]: Footnote: [S.R. 1995 No. 209](https://www.legislation.gov.uk/nisr/1995/209)
 
-[^key-c0d12895d2c23e07ecf9cbcce3c10018]: Commencement: Sch. 2 para. 5 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)
+[^c-c0d12895d2c23e07ecf9cbcce3c10018]: Commencement: Sch. 2 para. 5 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)
 
-[^key-007bdaafca876fb75624a1145ebdd1dd]: Commencement: Sch. 2 para. 6 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)
+[^c-007bdaafca876fb75624a1145ebdd1dd]: Commencement: Sch. 2 para. 6 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)
 
-[^key-804dcd19b72dc40d3410517471aa49e7]: Commencement: Sch. 2 para. 7 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)
+[^c-804dcd19b72dc40d3410517471aa49e7]: Commencement: Sch. 2 para. 7 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)
 
 [^f00025]: Footnote: [S.R. 1994 No. 143](https://www.legislation.gov.uk/nisr/1994/143) to which there are amendments not relevant to these Regulations
 
-[^key-4f057cef07eaff0aeab36824b15c5e49]: Commencement: Sch. 2 para. 8 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)
+[^c-4f057cef07eaff0aeab36824b15c5e49]: Commencement: Sch. 2 para. 8 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)
 
-[^key-241796dde9de976fa5bb280989154ab7]: Commencement: Sch. 2 para. 9 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)
+[^c-241796dde9de976fa5bb280989154ab7]: Commencement: Sch. 2 para. 9 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)
 
-[^key-2b62b3defa8553da0a485d1927b4b289]: Commencement: Sch. 2 para. 10 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)
+[^c-2b62b3defa8553da0a485d1927b4b289]: Commencement: Sch. 2 para. 10 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)
 
-[^key-8830da4503e7ebbdea162af17865fdd4]: Commencement: Sch. 2 para. 11 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)
+[^c-8830da4503e7ebbdea162af17865fdd4]: Commencement: Sch. 2 para. 11 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)
 
-[^key-60d7b592b12b59e4e18ff21c9725ea2a]: Commencement: Sch. 2 para. 12 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)
+[^c-60d7b592b12b59e4e18ff21c9725ea2a]: Commencement: Sch. 2 para. 12 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)
 
-[^key-c03c61909bdb7426347325aaadf16825]: Commencement: Sch. 2 para. 13 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)
+[^c-c03c61909bdb7426347325aaadf16825]: Commencement: Sch. 2 para. 13 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)
 
 [^f00026]: Footnote: [S.R. 1997 No. 193](https://www.legislation.gov.uk/nisr/1997/193)
 
-[^key-8d5e76469f73b12213a6084dca5eca75]: Commencement: Sch. 2 para. 14 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)
+[^c-8d5e76469f73b12213a6084dca5eca75]: Commencement: Sch. 2 para. 14 in operation at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/90/regulation/1)

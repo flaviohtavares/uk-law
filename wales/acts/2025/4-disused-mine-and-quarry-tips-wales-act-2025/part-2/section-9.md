@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Public access to the register[^key-8b35478c54690d3ac6e857ae3ba9c2d7]
+## 9. Public access to the register[^c-8b35478c54690d3ac6e857ae3ba9c2d7]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ The Authority must‍ publish the maps and information in the register, other th
 
 ## Annotations
 
-[^key-8b35478c54690d3ac6e857ae3ba9c2d7]: Commencement: S. 9 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)
+[^c-8b35478c54690d3ac6e857ae3ba9c2d7]: Commencement: S. 9 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)

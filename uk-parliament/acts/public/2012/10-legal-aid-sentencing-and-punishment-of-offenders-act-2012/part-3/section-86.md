@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Power to increase certain other fines on conviction by magistrates' court[^key-8d176f51bb9b99320711f8ed64a675a9]
+## 86. Power to increase certain other fines on conviction by magistrates' court[^c-8d176f51bb9b99320711f8ed64a675a9]
 
 *Extent: E+W*
 
@@ -64,4 +64,4 @@ and provision made in exercise of a relevant power in reliance on regulations un
 
 ## Annotations
 
-[^key-8d176f51bb9b99320711f8ed64a675a9]: Commencement: S. 86 in force at 28.5.2014 by [S.I. 2014/1291](https://www.legislation.gov.uk/uksi/2014/1291), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/1291/article/2/b)
+[^c-8d176f51bb9b99320711f8ed64a675a9]: Commencement: S. 86 in force at 28.5.2014 by [S.I. 2014/1291](https://www.legislation.gov.uk/uksi/2014/1291), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/1291/article/2/b)

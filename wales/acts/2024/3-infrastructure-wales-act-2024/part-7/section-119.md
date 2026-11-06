@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 119. Duration etc. of temporary stop notice[^key-251d56d3176ab043640f9a4b0dcc71ff][^key-339b5de0f8f523c3e10c18695d1a00b4]
+## 119. Duration etc. of temporary stop notice[^c-251d56d3176ab043640f9a4b0dcc71ff][^c-339b5de0f8f523c3e10c18695d1a00b4]
 
 *Extent: E+W*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-251d56d3176ab043640f9a4b0dcc71ff]: Commencement: S. 119 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
+[^c-251d56d3176ab043640f9a4b0dcc71ff]: Commencement: S. 119 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
 
-[^key-339b5de0f8f523c3e10c18695d1a00b4]: Commencement: [S. 119](https://www.legislation.gov.uk/asc/2024/3/section/119) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(h)](https://www.legislation.gov.uk/wsi/2025/698/article/3/h)
+[^c-339b5de0f8f523c3e10c18695d1a00b4]: Commencement: [S. 119](https://www.legislation.gov.uk/asc/2024/3/section/119) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(h)](https://www.legislation.gov.uk/wsi/2025/698/article/3/h)

@@ -20,13 +20,13 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-cdc6daeda14ce99737263428aa690b9e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-cdc6daeda14ce99737263428aa690b9e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-cdc6daeda14ce99737263428aa690b9e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-cdc6daeda14ce99737263428aa690b9e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-cdc6daeda14ce99737263428aa690b9e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-cdc6daeda14ce99737263428aa690b9e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-cdc6daeda14ce99737263428aa690b9e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-cdc6daeda14ce99737263428aa690b9e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) The Secretary of State may not exercise any power conferred on him by this section, or dispose of any securities issued or of any rights to securities initially allotted to him in pursuance of this section, without the consent of the Treasury.
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cdc6daeda14ce99737263428aa690b9e]: Textual amendment: [S. 4(1)-(4)](https://www.legislation.gov.uk/ukpga/1986/31/section/4/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 4](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/4)
+[^c-cdc6daeda14ce99737263428aa690b9e]: Textual amendment: [S. 4(1)-(4)](https://www.legislation.gov.uk/ukpga/1986/31/section/4/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 4](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/4)

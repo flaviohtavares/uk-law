@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Old system students with full entitlement[^key-8c810866c404f2a147d9cfd7541c165f]
+## 69. Old system students with full entitlement[^c-8c810866c404f2a147d9cfd7541c165f]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8c810866c404f2a147d9cfd7541c165f]: Commencement: Reg. 69 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-8c810866c404f2a147d9cfd7541c165f]: Commencement: Reg. 69 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

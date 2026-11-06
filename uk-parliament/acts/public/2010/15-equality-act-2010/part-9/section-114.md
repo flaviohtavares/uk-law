@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1) The county court[^key-e1dd5a6b97de7dc17a13f3c6ef7fd308] or, in Scotland, the sheriff has jurisdiction to determine a claim relating to—
+(1) The county court[^c-e1dd5a6b97de7dc17a13f3c6ef7fd308] or, in Scotland, the sheriff has jurisdiction to determine a claim relating to—
 
 - (a) a contravention of Part 3 (services and public functions);
 - (b) a contravention of Part 4 (premises);
@@ -54,4 +54,4 @@ summary: ''
 
 [^c21892721]: Commencement: S. 114 wholly in force; s. 114 not in force at Royal Assent see s. 216; s. 114 in force at 1.10.2010 by [S.I. 2010/2317](https://www.legislation.gov.uk/uksi/2010/2317), [art. 2(1)(9)(a)](https://www.legislation.gov.uk/uksi/2010/2317/article/2/1/9/a) (with [art. 15](https://www.legislation.gov.uk/uksi/2010/2317/article/15), and subject to transitional provision in [art. 7](https://www.legislation.gov.uk/uksi/2010/2317/article/7))
 
-[^key-e1dd5a6b97de7dc17a13f3c6ef7fd308]: Textual amendment: Words in s. 114(1) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-e1dd5a6b97de7dc17a13f3c6ef7fd308]: Textual amendment: Words in s. 114(1) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)

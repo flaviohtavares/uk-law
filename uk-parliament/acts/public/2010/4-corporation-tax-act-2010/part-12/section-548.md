@@ -31,15 +31,15 @@ summary: ''
 
 (4) In subsection (3) the reference to a company UK REIT includes a reference to the post-cessation company.
 
-(5) If the shareholder is within the charge to corporation tax, the distribution is to be treated as profits of a UK property business (within the meaning given by section 205 of CTA 2009) so far as the distribution is a distribution of exempt profits[^key-f784c08d152b0e6ed164896613a5ee24] .
+(5) If the shareholder is within the charge to corporation tax, the distribution is to be treated as profits of a UK property business (within the meaning given by section 205 of CTA 2009) so far as the distribution is a distribution of exempt profits[^c-f784c08d152b0e6ed164896613a5ee24] .
 
-(6) If the shareholder is not within the charge to corporation tax, the distribution is to be treated as profits of a UK property business (within the meaning given by section 264 of ITTOIA 2005) so far as the distribution is a distribution of exempt profits[^key-e100dc5810e8e8c9175118025e9bb236] .
+(6) If the shareholder is not within the charge to corporation tax, the distribution is to be treated as profits of a UK property business (within the meaning given by section 264 of ITTOIA 2005) so far as the distribution is a distribution of exempt profits[^c-e100dc5810e8e8c9175118025e9bb236] .
 
 (7) In the case of a non-UK resident shareholder, the distribution is not non-resident landlord income for the purposes of regulations under section 971 of ITA 2007 (income tax due in respect of income of non-resident landlords).
 
 (8) See sections 973 and 974 of ITA 2007 (income tax due in respect of distributions) for provision about the deduction of sums representing income tax in relation to distributions of a kind mentioned in this section.
 
-(9)[^key-589bc865e07ccdc3a812fa0c5207b8c6] This section does not apply in relation to a distribution falling within section 549A(6) or (8) so far as the distribution is a distribution of exempt profits.
+(9)[^c-589bc865e07ccdc3a812fa0c5207b8c6] This section does not apply in relation to a distribution falling within section 549A(6) or (8) so far as the distribution is a distribution of exempt profits.
 
 (10) For the purposes of this Chapter a distribution is a “distribution of exempt profits” so far as the distribution falls within section 550(2)(a), (aa), (c) or (d).
 
@@ -50,8 +50,8 @@ summary: ''
 
 ## Annotations
 
-[^key-f784c08d152b0e6ed164896613a5ee24]: Textual amendment: Words in s. 548(5) inserted (with effect in accordance with Sch. 19 para. 13(2)-(4) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 19 para. 5(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/19/paragraph/5/2)
+[^c-f784c08d152b0e6ed164896613a5ee24]: Textual amendment: Words in s. 548(5) inserted (with effect in accordance with Sch. 19 para. 13(2)-(4) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 19 para. 5(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/19/paragraph/5/2)
 
-[^key-e100dc5810e8e8c9175118025e9bb236]: Textual amendment: Words in s. 548(6) inserted (with effect in accordance with Sch. 19 para. 13(2)-(4) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 19 para. 5(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/19/paragraph/5/3)
+[^c-e100dc5810e8e8c9175118025e9bb236]: Textual amendment: Words in s. 548(6) inserted (with effect in accordance with Sch. 19 para. 13(2)-(4) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 19 para. 5(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/19/paragraph/5/3)
 
-[^key-589bc865e07ccdc3a812fa0c5207b8c6]: Textual amendment: S. 548(9)-(11) inserted (with effect in accordance with Sch. 19 para. 13(2)-(4) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 19 para. 5(4)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/19/paragraph/5/4)
+[^c-589bc865e07ccdc3a812fa0c5207b8c6]: Textual amendment: S. 548(9)-(11) inserted (with effect in accordance with Sch. 19 para. 13(2)-(4) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 19 para. 5(4)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/19/paragraph/5/4)

@@ -44,7 +44,7 @@ The Department of Agriculture, Environment and Rural Affairs[^f00001] makes the 
 
 In accordance with Article 8(1) of that Order, it has consulted with the bodies which appear to it to be substantially representative of the interests concerned.
 
-## 1. Citation, commencement and interpretation[^key-6b75e67df27783ddc6cef35b83c644c5]
+## 1. Citation, commencement and interpretation[^c-6b75e67df27783ddc6cef35b83c644c5]
 
 (1) This Order may be cited as The Bovine Viral Diarrhoea Eradication Scheme (Amendment) Order (Northern Ireland) 2024 and comes into operation on 1<sup>st</sup> February 2025.
 
@@ -54,7 +54,7 @@ In accordance with Article 8(1) of that Order, it has consulted with the bodies 
 
 (3) Expressions used in this Order and in the 2016 Order have the same meaning as in the 2016 Order.
 
-## 2. Amendments to the Bovine Viral Diarrhoea Eradication Scheme Order (Northern Ireland) 2016[^key-e8112c8858a0c287349e56cb77d397cb]
+## 2. Amendments to the Bovine Viral Diarrhoea Eradication Scheme Order (Northern Ireland) 2016[^c-e8112c8858a0c287349e56cb77d397cb]
 
 (1) The Bovine Viral Diarrhoea Eradication Scheme Order (Northern Ireland) 2016[^f00004], is amended as follows.
 
@@ -77,7 +77,7 @@ In accordance with Article 8(1) of that Order, it has consulted with the bodies 
 - (b) in paragraph 4, omit the words “, born on or after the coming into operation of this Order”;
 - (c) omit paragraph 14.
 
-## 3. Transitional and Saving Provision[^key-81f17b74d7049ae64d906e2255ea17b2]
+## 3. Transitional and Saving Provision[^c-81f17b74d7049ae64d906e2255ea17b2]
 
 The revocation of paragraph 14 of the Schedule to the 2016 Order shall not affect the continued application of any restrictions imposed by or under that paragraph before the coming into operation of this Order until a tissue or blood sample has been taken in accordance with paragraphs 3, 4, 6 or 10 of the Schedule to the 2016 Order and a negative test result for that sample has been obtained from an approved laboratory.
 
@@ -111,10 +111,10 @@ It also revokes paragraph 14 of the Schedule, which currently governs restrictio
 
 [^f00003]: Footnote: The Department of Finance and Personnel was renamed the Department of Finance by section 1(4) of the Departments Act (Northern Ireland) [2016 (c.5 (N.I.))](https://www.legislation.gov.uk/nia/2016/5).
 
-[^key-6b75e67df27783ddc6cef35b83c644c5]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2024/225/article/1) in operation at 1.2.2025, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2024/225/article/1/1)
+[^c-6b75e67df27783ddc6cef35b83c644c5]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2024/225/article/1) in operation at 1.2.2025, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2024/225/article/1/1)
 
-[^key-e8112c8858a0c287349e56cb77d397cb]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2024/225/article/2) in operation at 1.2.2025, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2024/225/article/1/1)
+[^c-e8112c8858a0c287349e56cb77d397cb]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2024/225/article/2) in operation at 1.2.2025, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2024/225/article/1/1)
 
 [^f00004]: Footnote: [SR 2016 No. 22](https://www.legislation.gov.uk/nisr/2016/22).
 
-[^key-81f17b74d7049ae64d906e2255ea17b2]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2024/225/article/3) in operation at 1.2.2025, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2024/225/article/1/1)
+[^c-81f17b74d7049ae64d906e2255ea17b2]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2024/225/article/3) in operation at 1.2.2025, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2024/225/article/1/1)

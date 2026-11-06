@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 170. Duty of operators to assist with implementation[^key-0d3e486f4828941ebbb585d19fc33f32]
+## 170. Duty of operators to assist with implementation[^c-0d3e486f4828941ebbb585d19fc33f32]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ This is subject to subsection (3).
 
 ## Annotations
 
-[^key-0d3e486f4828941ebbb585d19fc33f32]: Commencement: [S. 170](https://www.legislation.gov.uk/ukpga/2016/25/section/170) in force at 22.8.2018 by [S.I. 2018/873](https://www.legislation.gov.uk/uksi/2018/873), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/873/regulation/3/b)
+[^c-0d3e486f4828941ebbb585d19fc33f32]: Commencement: [S. 170](https://www.legislation.gov.uk/ukpga/2016/25/section/170) in force at 22.8.2018 by [S.I. 2018/873](https://www.legislation.gov.uk/uksi/2018/873), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/873/regulation/3/b)

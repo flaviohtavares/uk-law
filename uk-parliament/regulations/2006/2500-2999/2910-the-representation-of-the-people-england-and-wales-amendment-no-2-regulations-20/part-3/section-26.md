@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Communication of notices made on polling day[^key-8352792685ab3a0eece87ebee3455741]
+## 26. Communication of notices made on polling day[^c-8352792685ab3a0eece87ebee3455741]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ After regulation 36 insert the following—
 
 ## Annotations
 
-[^key-8352792685ab3a0eece87ebee3455741]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2006/2910/regulation/26) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
+[^c-8352792685ab3a0eece87ebee3455741]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2006/2910/regulation/26) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)

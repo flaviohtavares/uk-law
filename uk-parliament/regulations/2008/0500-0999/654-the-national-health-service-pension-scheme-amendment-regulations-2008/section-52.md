@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 52. Amendment of regulation R3[^key-a44828e82d0733745d807619909e20be]
+## 52. Amendment of regulation R3[^c-a44828e82d0733745d807619909e20be]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ In paragraph (7) of regulation R3 (mental health officers)—
 
 ## Annotations
 
-[^key-a44828e82d0733745d807619909e20be]: Commencement: Reg. 52 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
+[^c-a44828e82d0733745d807619909e20be]: Commencement: Reg. 52 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Where a child’s father and mother were married to , or civil partners of,[^key-af5249062599c4250cbbfca46bc20914] each other at the time of his birth, they shall each have parental responsibility for the child.
+(1) Where a child’s father and mother were married to , or civil partners of,[^c-af5249062599c4250cbbfca46bc20914] each other at the time of his birth, they shall each have parental responsibility for the child.
 
 (1A)[^c19934461] Where a child—
 
@@ -29,7 +29,7 @@ summary: ''
 
 the child's mother and the other parent shall each have parental responsibility for the child.
 
-(2) Where a child’s father and mother were not married to , or civil partners of,[^key-9528aa9762e861bdb6fea066be48bef2] each other at the time of his birth—
+(2) Where a child’s father and mother were not married to , or civil partners of,[^c-9528aa9762e861bdb6fea066be48bef2] each other at the time of his birth—
 
 - (a) the mother shall have parental responsibility for the child;
 - (b) the father shall have parental responsibility for the child if he has acquired it (and has not ceased to have it)[^c15159091] in accordance with the provisions of this Act.
@@ -39,7 +39,7 @@ the child's mother and the other parent shall each have parental responsibility 
 - (a) the mother shall have parental responsibility for the child;
 - (b) the other parent shall have parental responsibility for the child if she has acquired it (and has not ceased to have it) in accordance with the provisions of this Act.
 
-(3) References in this Act to a child whose father and mother were, or (as the case may be) were not, married to , or civil partners of,[^key-89ea9f0515f08dee353df00ae650f292] each other at the time of his birth must be read with section 1 of the [^c15159101]Family Law Reform Act 1987 (which extends their meaning).
+(3) References in this Act to a child whose father and mother were, or (as the case may be) were not, married to , or civil partners of,[^c-89ea9f0515f08dee353df00ae650f292] each other at the time of his birth must be read with section 1 of the [^c15159101]Family Law Reform Act 1987 (which extends their meaning).
 
 (4) The rule of law that a father is the natural guardian of his legitimate child is abolished.
 
@@ -61,16 +61,16 @@ the child's mother and the other parent shall each have parental responsibility 
 
 [^c15159081]: Commencement: S. 2 wholly in force at 14.10.1991, see s. 108(2)(3) and [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2)
 
-[^key-af5249062599c4250cbbfca46bc20914]: Textual amendment: Words in s. 2(1) inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [15(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/15/2)
+[^c-af5249062599c4250cbbfca46bc20914]: Textual amendment: Words in s. 2(1) inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [15(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/15/2)
 
 [^c19934461]: Textual amendment: S. 2(1A) inserted (6.4.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [ss. 56](https://www.legislation.gov.uk/ukpga/2008/22/section/56), [68](https://www.legislation.gov.uk/ukpga/2008/22/section/68), [Sch. 6 para. 26(2)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/6/paragraph/26/2); [S.I. 2009/479](https://www.legislation.gov.uk/uksi/2009/479), [art. 6(1)(e)](https://www.legislation.gov.uk/uksi/2009/479/article/6/1/e)
 
-[^key-9528aa9762e861bdb6fea066be48bef2]: Textual amendment: Words in s. 2(2) inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [15(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/15/2)
+[^c-9528aa9762e861bdb6fea066be48bef2]: Textual amendment: Words in s. 2(2) inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [15(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/15/2)
 
 [^c15159091]: Textual amendment: Words in s. 2(2) substituted (1.12.2003) by [2002 c. 38](https://www.legislation.gov.uk/ukpga/2002/38), [ss. 111(5)](https://www.legislation.gov.uk/ukpga/2002/38/section/111/5), [148](https://www.legislation.gov.uk/ukpga/2002/38/section/148) (with [Sch. 4 paras. 6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.I. 2003/3079](https://www.legislation.gov.uk/uksi/2003/3079), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2003/3079/article/2/2/a)
 
 [^c19934501]: Textual amendment: S. 2(2A) inserted (6.4.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [ss. 56](https://www.legislation.gov.uk/ukpga/2008/22/section/56), [68](https://www.legislation.gov.uk/ukpga/2008/22/section/68), [Sch. 6 para. 26(3)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/6/paragraph/26/3); [S.I. 2009/479](https://www.legislation.gov.uk/uksi/2009/479), [art. 6(1)(e)](https://www.legislation.gov.uk/uksi/2009/479/article/6/1/e)
 
-[^key-89ea9f0515f08dee353df00ae650f292]: Textual amendment: Words in s. 2(3) inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [15(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/15/2)
+[^c-89ea9f0515f08dee353df00ae650f292]: Textual amendment: Words in s. 2(3) inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [15(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/15/2)
 
 [^c15159101]: Marginal citation: [1987 c. 42](https://www.legislation.gov.uk/ukpga/1987/42).

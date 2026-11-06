@@ -85,7 +85,7 @@ Section 63.
 
 > (2A) The power to make an award as to expenses under section 210(8) of the Local Government (Scotland) Act 1973 as applied by subsection (2) above shall be exercisable not only where the inquiry or hearing takes place but also where arrangements are made for it but it does not take place.
 
-(4) In subsection (3), for the words from “required by paragraph 4(3)” to “Schedule 4” there shall be substituted the words *(Extent: S)* *(affected by repeal, see note)*[^key-2ba92f50942fe4b60f8ea48749480506] “ into an order subject to the provisions of paragraph 4B of Schedule 3 ” *(Extent: S)* *(affected by repeal, see note)*[^key-2ba92f50942fe4b60f8ea48749480506]. *(Extent: S)* *(affected by repeal, see note)*[^key-2ba92f50942fe4b60f8ea48749480506]
+(4) In subsection (3), for the words from “required by paragraph 4(3)” to “Schedule 4” there shall be substituted the words *(Extent: S)* *(affected by repeal, see note)*[^c-2ba92f50942fe4b60f8ea48749480506] “ into an order subject to the provisions of paragraph 4B of Schedule 3 ” *(Extent: S)* *(affected by repeal, see note)*[^c-2ba92f50942fe4b60f8ea48749480506]. *(Extent: S)* *(affected by repeal, see note)*[^c-2ba92f50942fe4b60f8ea48749480506]
 
 **6.**[^c8597341] After section 48 (service of documents) there shall be inserted—
 
@@ -191,7 +191,7 @@ Section 63.
 
 [^c8597331]: Commencement: Sch. 3 wholly in force at 15. 7. 1992 see s. 70 and [S.I. 1992/1347](https://www.legislation.gov.uk/uksi/1992/1347), [art. 2](https://www.legislation.gov.uk/uksi/1992/1347/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1992/1347/schedule)
 
-[^key-2ba92f50942fe4b60f8ea48749480506]: Textual amendment: [Sch. 3 para. 5(4)](https://www.legislation.gov.uk/ukpga/1992/42/schedule/3/paragraph/5/4) repealed (S.) (28.12.2007) by [Transport and Works (Scotland) Act 2007 (asp 8)](https://www.legislation.gov.uk/asp/2007/8), [s. 30(4)](https://www.legislation.gov.uk/asp/2007/8/section/30/4), [sch. 3](https://www.legislation.gov.uk/asp/2007/8/schedule/3); [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
+[^c-2ba92f50942fe4b60f8ea48749480506]: Textual amendment: [Sch. 3 para. 5(4)](https://www.legislation.gov.uk/ukpga/1992/42/schedule/3/paragraph/5/4) repealed (S.) (28.12.2007) by [Transport and Works (Scotland) Act 2007 (asp 8)](https://www.legislation.gov.uk/asp/2007/8), [s. 30(4)](https://www.legislation.gov.uk/asp/2007/8/section/30/4), [sch. 3](https://www.legislation.gov.uk/asp/2007/8/schedule/3); [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
 
 [^c8597341]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ukpga/1992/42/schedule/3) wholly in force at 15. 7. 1992 see [s. 70](https://www.legislation.gov.uk/ukpga/1992/42/section/70) and [S.I. 1992/1347](https://www.legislation.gov.uk/uksi/1992/1347), [art. 2](https://www.legislation.gov.uk/uksi/1992/1347/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1992/1347/schedule)
 

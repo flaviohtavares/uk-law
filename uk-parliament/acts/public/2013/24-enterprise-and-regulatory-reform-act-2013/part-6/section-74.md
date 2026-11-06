@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Exploitation of design derived from artistic work[^key-c1e9092fff85e1e6bdc9b3f8384fb248]
+## 74. Exploitation of design derived from artistic work[^c-c1e9092fff85e1e6bdc9b3f8384fb248]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c1e9092fff85e1e6bdc9b3f8384fb248]: Commencement: S. 74 in force at 28.7.2016 by [S.I. 2016/593](https://www.legislation.gov.uk/uksi/2016/593), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2016/593/article/2/1), [3](https://www.legislation.gov.uk/uksi/2016/593/article/3) (with [arts. 4](https://www.legislation.gov.uk/uksi/2016/593/article/4), [5](https://www.legislation.gov.uk/uksi/2016/593/article/5))
+[^c-c1e9092fff85e1e6bdc9b3f8384fb248]: Commencement: S. 74 in force at 28.7.2016 by [S.I. 2016/593](https://www.legislation.gov.uk/uksi/2016/593), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2016/593/article/2/1), [3](https://www.legislation.gov.uk/uksi/2016/593/article/3) (with [arts. 4](https://www.legislation.gov.uk/uksi/2016/593/article/4), [5](https://www.legislation.gov.uk/uksi/2016/593/article/5))

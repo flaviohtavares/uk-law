@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Assignment of standing high bid status by OFCOM after the end of each principal stage round[^key-c99c23c669f0f9620a91d5ff3c21301b]
+## 29. Assignment of standing high bid status by OFCOM after the end of each principal stage round[^c-c99c23c669f0f9620a91d5ff3c21301b]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c99c23c669f0f9620a91d5ff3c21301b]: Commencement: Reg. 29 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-c99c23c669f0f9620a91d5ff3c21301b]: Commencement: Reg. 29 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

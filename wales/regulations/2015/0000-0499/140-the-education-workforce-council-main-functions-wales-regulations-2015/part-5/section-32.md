@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Requirement for hearings to be held in public[^key-fa047abe6afc66e525f9f2452ecc9577]
+## 32. Requirement for hearings to be held in public[^c-fa047abe6afc66e525f9f2452ecc9577]
 
 *Extent: E+W*
 
-(1) A Fitness to Practise[^key-a14784f8595f70c24685506dea86ea92] Committee must announce its determination of the outcome of all hearings in public and subject to paragraphs (2) and (3) all hearings of a Fitness to Practise Committee must take place in public.
+(1) A Fitness to Practise[^c-a14784f8595f70c24685506dea86ea92] Committee must announce its determination of the outcome of all hearings in public and subject to paragraphs (2) and (3) all hearings of a Fitness to Practise Committee must take place in public.
 
 (2) A Fitness to Practise Committee may deliberate in private at any time and for any purpose during or after a hearing.
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fa047abe6afc66e525f9f2452ecc9577]: Commencement: [Reg. 32](https://www.legislation.gov.uk/wsi/2015/140/regulation/32) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)
+[^c-fa047abe6afc66e525f9f2452ecc9577]: Commencement: [Reg. 32](https://www.legislation.gov.uk/wsi/2015/140/regulation/32) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)
 
-[^key-a14784f8595f70c24685506dea86ea92]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/wsi/2015/140) substituted (1.3.2024) by [The Education Workforce Council (Main Functions) (Wales) (Amendment) Regulations 2024 (S.I. 2024/74)](https://www.legislation.gov.uk/wsi/2024/74), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/74/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2024/74/regulation/2/2)
+[^c-a14784f8595f70c24685506dea86ea92]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/wsi/2015/140) substituted (1.3.2024) by [The Education Workforce Council (Main Functions) (Wales) (Amendment) Regulations 2024 (S.I. 2024/74)](https://www.legislation.gov.uk/wsi/2024/74), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/74/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2024/74/regulation/2/2)

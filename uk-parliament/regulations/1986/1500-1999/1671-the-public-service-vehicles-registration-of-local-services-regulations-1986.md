@@ -47,11 +47,11 @@ Coming into Operation
 
 The Secretary of State for Transport, in exercise of the powers conferred by sections 52(1) and 60(1)(f) of the Public Passenger Vehicles Act 1981[^f00001] and sections 6(2)(a), (3)(a), (8)(a), (9) and 8(6) of the Transport Act 1985[^f00002], and of all other enabling powers, and after consultation with representative organisations in accordance with section 61(2) of the said Act of 1981[^f00003], hereby makes the following Regulations:—
 
-## 1. Citation and commencement[^key-530c516677b81e1be04a742c7d99f134]
+## 1. Citation and commencement[^c-530c516677b81e1be04a742c7d99f134]
 
 These Regulations may be cited as the Public Service Vehicles (Registration of Local Services) Regulations 1986 and shall come into operation on 26th October 1986.
 
-## 2. Interpretation[^key-d3d8747a2e1b0fca538b1eb35588e7eb]
+## 2. Interpretation[^c-d3d8747a2e1b0fca538b1eb35588e7eb]
 
 (1) In these Regulations—
 
@@ -69,7 +69,7 @@ These Regulations may be cited as the Public Service Vehicles (Registration of L
 - (a) a numbered regulation is a reference to the regulation bearing that number in these Regulations; and
 - (b) a numbered paragraph is a reference to the paragraph bearing that number in the regulation in which the reference appears.
 
-## 3. Applications for registration[^key-f921bbc9bd0ecc7aa6a3e2bfbe26377b]
+## 3. Applications for registration[^c-f921bbc9bd0ecc7aa6a3e2bfbe26377b]
 
 (1) Subject to paragraph (2), an application for registration in respect of a service having stopping places in more than one traffic area shall be made to the traffic commissioner for the area in which the service will start.
 
@@ -81,11 +81,11 @@ These Regulations may be cited as the Public Service Vehicles (Registration of L
 
 (5) The traffic commissioner shall send notice of the date of the acceptance by him of an application for registration or for the variation or cancellation of a registration to the applicant and to every relevant authority.
 
-## 4. Prescribed particulars[^key-46726b806fe7dbe4ea04b9141fed9cc9]
+## 4. Prescribed particulars[^c-46726b806fe7dbe4ea04b9141fed9cc9]
 
 The prescribed particulars of a service registered under section 6 of the 1985 Act are such of the particulars specified in the Schedule to these Regulations as are relevant to that service.
 
-## 5. Periods of notice[^key-d3cfb9c6f127622c51a209a08344e5e7]
+## 5. Periods of notice[^c-d3cfb9c6f127622c51a209a08344e5e7]
 
 (1) Subject to paragraph (2), and to regulations 6, 7 and 8:
 
@@ -94,9 +94,9 @@ The prescribed particulars of a service registered under section 6 of the 1985 A
 
 (2) Any period which would in accordance with paragraph (1)(a) or (b) end before 25th January 1987 shall be extended to end with that date, but this paragraph shall not apply to any case to which regulation 6, 7 or 8 applies.
 
-**6.**[^key-6ab7ba57273c03babc7905e864c8910d] The length of the period determined in accordance with regulation 5(1)(b) shall be 21 days where only the timetable of the service is varied for all or part of a week which includes 24th December, Christmas Day, Good Friday or any bank holiday.
+**6.**[^c-6ab7ba57273c03babc7905e864c8910d] The length of the period determined in accordance with regulation 5(1)(b) shall be 21 days where only the timetable of the service is varied for all or part of a week which includes 24th December, Christmas Day, Good Friday or any bank holiday.
 
-**7.**[^key-70fdd8ef17148062e8cd10efb8e80f61] (1) In the cases specified in paragraph (2):
+**7.**[^c-70fdd8ef17148062e8cd10efb8e80f61] (1) In the cases specified in paragraph (2):
 
 - (a) section 6(2), where it applies, shall have effect as if for the reference in paragraph (b) to the period of notice there were substituted a reference to such period as the traffic commissioner may determine; and
 - (b) section 6(8), where it applies, shall have effect as if for the reference in paragraph (a) to the date on which the period mentioned in that paragraph is to expire there were substituted a reference to such date as the traffic commissioner may determine.
@@ -114,7 +114,7 @@ The prescribed particulars of a service registered under section 6 of the 1985 A
 - (g) where the application for registration or for variation of a registration relates to a service for which the operator has entered into an agreement providing for service subsidies and the application is accepted by the traffic commissioner before 26th January 1987;
 - (h) where an operator, due to circumstances which he could not reasonably have foreseen, failed to make an application in sufficient time for the period of notice applicable apart from this sub-paragraph to operate.
 
-**8.**[^key-e9e8b6b58c4514c663bca5f778c54d42] (1) In the cases specified in paragraph (2), subsection (3) of section 6 of the 1985 Act, where it applies, shall be modified to exclude the reference to the prescribed period, and subsection (8) of that section, where it applies, shall be modified to exclude the requirement of the expiry of a period.
+**8.**[^c-e9e8b6b58c4514c663bca5f778c54d42] (1) In the cases specified in paragraph (2), subsection (3) of section 6 of the 1985 Act, where it applies, shall be modified to exclude the reference to the prescribed period, and subsection (8) of that section, where it applies, shall be modified to exclude the requirement of the expiry of a period.
 
 (2) The cases referred to in paragraph (1) are as follows:
 
@@ -123,7 +123,7 @@ The prescribed particulars of a service registered under section 6 of the 1985 A
 - (c) where the service in question is a bus substitution service; and
 - (d) where the registration is varied only to enable the service to comply with traffic regulation conditions or any other provision made by or under any enactment prohibiting or restricting the use of any road by traffic.
 
-## 9. Variations of registered services[^key-69e3e95ca2d2bf8c9b475d09bafaf3ca]
+## 9. Variations of registered services[^c-69e3e95ca2d2bf8c9b475d09bafaf3ca]
 
 (1) A registered service may be varied without variation of the registration in the cases specified in paragraph (2).
 
@@ -136,15 +136,15 @@ The prescribed particulars of a service registered under section 6 of the 1985 A
 - (e) the route number or name of a service, when registered in accordance with the Public Passenger Vehicles (Registration of Local Services: Transitional Provisions) Regulations 1985[^f00005], may be altered or its use abandoned; and
 - (f) a service which is not available to the general public and which is provided by a local education authority or (in Scotland) an education authority to transport pupils to school may be varied temporarily so far as may be necessary to enable that authority to comply with its duty[^f00006] to provide such transport.
 
-## 10. Excursions and Tours[^key-1ec5f0cb20fe9a005a5b880776bf6a59]
+## 10. Excursions and Tours[^c-1ec5f0cb20fe9a005a5b880776bf6a59]
 
 Section 6 of the 1985 Act shall not apply to services which are excursions or tours except to any services operated at least once a week for a period of at least 6 consecutive weeks.
 
-## 11. Compliance with traffic regulation conditions etc.[^key-d3bd0ac6e13eadfdc47b3fb8839fe8f8]
+## 11. Compliance with traffic regulation conditions etc.[^c-d3bd0ac6e13eadfdc47b3fb8839fe8f8]
 
 The prescribed period for the purposes of section 8(6) of the 1985 Act (during which failure to operate a service in accordance with the registered particulars is disregarded in specified circumstances) shall be 28 days.
 
-## 12. Fees[^key-c0311781b0b04515c153f99c37300c1d]
+## 12. Fees[^c-c0311781b0b04515c153f99c37300c1d]
 
 (1) The fee for an application to register particulars of a service shall be £27, except for an application which relates to a service which, except for the operation of section 34(3) of the 1985 Act, would be part of a service which requires a London local service licence.
 
@@ -154,7 +154,7 @@ The prescribed period for the purposes of section 8(6) of the 1985 Act (during w
 
 (4) The fee for an application shall be paid when the application is made.
 
-## 13. Fare tables, timetables and destination notices[^key-513466dcd328f2e2b91c6fbfcce38ad4]
+## 13. Fare tables, timetables and destination notices[^c-513466dcd328f2e2b91c6fbfcce38ad4]
 
 (1) Subject to paragraph (2), the operator shall, during such time as a vehicle is being used to provide a service, cause:
 
@@ -178,25 +178,25 @@ Secretary of State for Transport
 
 Regulation 4
 
-**1.**[^key-545bdb03c118423bf0d7e51937193b81] The name of the operator of the service and the number of his PSV operator’s licence or community bus permit (if any).
+**1.**[^c-545bdb03c118423bf0d7e51937193b81] The name of the operator of the service and the number of his PSV operator’s licence or community bus permit (if any).
 
-**2.**[^key-6d5248e2ffcac6c492e4ec195282ebd7] The principal starting point and finishing point of the service.
+**2.**[^c-6d5248e2ffcac6c492e4ec195282ebd7] The principal starting point and finishing point of the service.
 
-**3.**[^key-7830e6947579ba2acbce8f4bedd72ce6] An indication of whether or not the service consists of excursions or tours.
+**3.**[^c-7830e6947579ba2acbce8f4bedd72ce6] An indication of whether or not the service consists of excursions or tours.
 
-**4.**[^key-ecf3848a23166659f7d7044d41a10288] A description of the route, and of any modifications of the route for the purpose of particular journeys, which is both sufficient to identify the roads to be traversed, and accompanied by a map showing those roads.
+**4.**[^c-ecf3848a23166659f7d7044d41a10288] A description of the route, and of any modifications of the route for the purpose of particular journeys, which is both sufficient to identify the roads to be traversed, and accompanied by a map showing those roads.
 
-**5.**[^key-71e30d23155e9e039d570b373eb6d437] Details of stopping arrangements, including whether all indicated and generally recognised stops on the route will be used and if not what the stopping arrangements will be.
+**5.**[^c-71e30d23155e9e039d570b373eb6d437] Details of stopping arrangements, including whether all indicated and generally recognised stops on the route will be used and if not what the stopping arrangements will be.
 
-**6.**[^key-2abfc6db37127b6fe44e5034f7241f57] An indication of any of the stopping places where the vehicles used on the service will stand for longer than the time required to pick up or set down passengers.
+**6.**[^c-2abfc6db37127b6fe44e5034f7241f57] An indication of any of the stopping places where the vehicles used on the service will stand for longer than the time required to pick up or set down passengers.
 
-**7.**[^key-257375c8df239247837a9d979ec5c404] A description of any reversing manoeuvres and other manoeuvres that will result in a vehicle returning along any part of its route.
+**7.**[^c-257375c8df239247837a9d979ec5c404] A description of any reversing manoeuvres and other manoeuvres that will result in a vehicle returning along any part of its route.
 
-**8.**[^key-62fb521f090f8b5f13dc7c42e864e229] The date on which the service is to start.
+**8.**[^c-62fb521f090f8b5f13dc7c42e864e229] The date on which the service is to start.
 
-**9.**[^key-25a8e7d836465828f46133530211460e] A timetable for the service, indicating the days in the year when the service will be provided and the proposed times of individual services at principal points on the route, save when the service interval is 10 minutes or less when a statement of that fact may be given.
+**9.**[^c-25a8e7d836465828f46133530211460e] A timetable for the service, indicating the days in the year when the service will be provided and the proposed times of individual services at principal points on the route, save when the service interval is 10 minutes or less when a statement of that fact may be given.
 
-**10.**[^key-3e82c375ad632df99061deceee727b6e] The largest category of vehicles to be used in accordance with the following categories:
+**10.**[^c-3e82c375ad632df99061deceee727b6e] The largest category of vehicles to be used in accordance with the following categories:
 
 - (a) single-decked vehicle adapted to carry not more than 8 passengers;
 - (b) single-decked vehicle adapted to carry more than 8 and not more than 16 passengers;
@@ -205,13 +205,13 @@ Regulation 4
 - (e) single-decked vehicle adapted to carry 56 or more passengers;
 - (f) double-decked vehicle.
 
-**11.**[^key-6ca796aa7f94f9a753ccc5b0fd5a85e9] In the case of an excursion or tour, then in substitution for the information required by paragraphs 4, 6 and 9 of this Schedule, the following may be provided:
+**11.**[^c-6ca796aa7f94f9a753ccc5b0fd5a85e9] In the case of an excursion or tour, then in substitution for the information required by paragraphs 4, 6 and 9 of this Schedule, the following may be provided:
 
 - (a) an outline of the route indicating the points (if any other than the starting point) at which passengers are to be taken up;
 - (b) the period or periods of the year during which the service is to be operated; and
 - (c) the maximum number of vehicle departures to be made on any one day.
 
-**12.**[^key-5ee7224e071c278705773f1ba44b7738] In any case where paragraph 11 of this Schedule does not apply and, because of the nature of the proposed service, it is not possible to provide the information required by paragraphs 2, 4 or 9 of this Schedule, then such further particulars of the service as may be required to provide a complete description of it.
+**12.**[^c-5ee7224e071c278705773f1ba44b7738] In any case where paragraph 11 of this Schedule does not apply and, because of the nature of the proposed service, it is not possible to provide the information required by paragraphs 2, 4 or 9 of this Schedule, then such further particulars of the service as may be required to provide a complete description of it.
 
 (This note is not part of the Regulations.)
 
@@ -243,58 +243,58 @@ By section 6 of the Transport Act 1985, particulars of local services are requir
 
 [^f00003]: Footnote: Section 61(2) was amended by section 135(1) of the Transport Act 1985.
 
-[^key-530c516677b81e1be04a742c7d99f134]: Commencement: Reg. 1 in force at 26.10.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1671/regulation/1)
+[^c-530c516677b81e1be04a742c7d99f134]: Commencement: Reg. 1 in force at 26.10.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1671/regulation/1)
 
-[^key-d3d8747a2e1b0fca538b1eb35588e7eb]: Commencement: Reg. 2 in force at 26.10.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1671/regulation/1)
+[^c-d3d8747a2e1b0fca538b1eb35588e7eb]: Commencement: Reg. 2 in force at 26.10.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1671/regulation/1)
 
 [^f00004]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-f921bbc9bd0ecc7aa6a3e2bfbe26377b]: Commencement: Reg. 3 in force at 26.10.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1671/regulation/1)
+[^c-f921bbc9bd0ecc7aa6a3e2bfbe26377b]: Commencement: Reg. 3 in force at 26.10.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1671/regulation/1)
 
-[^key-46726b806fe7dbe4ea04b9141fed9cc9]: Commencement: Reg. 4 in force at 26.10.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1671/regulation/1)
+[^c-46726b806fe7dbe4ea04b9141fed9cc9]: Commencement: Reg. 4 in force at 26.10.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1671/regulation/1)
 
-[^key-d3cfb9c6f127622c51a209a08344e5e7]: Commencement: Reg. 5 in force at 26.10.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1671/regulation/1)
+[^c-d3cfb9c6f127622c51a209a08344e5e7]: Commencement: Reg. 5 in force at 26.10.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1671/regulation/1)
 
-[^key-6ab7ba57273c03babc7905e864c8910d]: Commencement: Reg. 6 in force at 26.10.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1671/regulation/1)
+[^c-6ab7ba57273c03babc7905e864c8910d]: Commencement: Reg. 6 in force at 26.10.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1671/regulation/1)
 
-[^key-70fdd8ef17148062e8cd10efb8e80f61]: Commencement: Reg. 7 in force at 26.10.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1671/regulation/1)
+[^c-70fdd8ef17148062e8cd10efb8e80f61]: Commencement: Reg. 7 in force at 26.10.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1671/regulation/1)
 
-[^key-e9e8b6b58c4514c663bca5f778c54d42]: Commencement: Reg. 8 in force at 26.10.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1671/regulation/1)
+[^c-e9e8b6b58c4514c663bca5f778c54d42]: Commencement: Reg. 8 in force at 26.10.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1671/regulation/1)
 
-[^key-69e3e95ca2d2bf8c9b475d09bafaf3ca]: Commencement: Reg. 9 in force at 26.10.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1671/regulation/1)
+[^c-69e3e95ca2d2bf8c9b475d09bafaf3ca]: Commencement: Reg. 9 in force at 26.10.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1671/regulation/1)
 
 [^f00005]: Footnote: [S.I. 1985/1904](https://www.legislation.gov.uk/uksi/1985/1904).
 
 [^f00006]: Footnote: Section 55(1) of the Education Act [1944 (c. 31)](https://www.legislation.gov.uk/ukpga/Geo6/7-8/31) and section 51(1) of the Education (Scotland) Act [1980 (c. 44)](https://www.legislation.gov.uk/ukpga/1980/44)
 
-[^key-1ec5f0cb20fe9a005a5b880776bf6a59]: Commencement: Reg. 10 in force at 26.10.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1671/regulation/1)
+[^c-1ec5f0cb20fe9a005a5b880776bf6a59]: Commencement: Reg. 10 in force at 26.10.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1671/regulation/1)
 
-[^key-d3bd0ac6e13eadfdc47b3fb8839fe8f8]: Commencement: Reg. 11 in force at 26.10.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1671/regulation/1)
+[^c-d3bd0ac6e13eadfdc47b3fb8839fe8f8]: Commencement: Reg. 11 in force at 26.10.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1671/regulation/1)
 
-[^key-c0311781b0b04515c153f99c37300c1d]: Commencement: Reg. 12 in force at 26.10.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1671/regulation/1)
+[^c-c0311781b0b04515c153f99c37300c1d]: Commencement: Reg. 12 in force at 26.10.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1671/regulation/1)
 
-[^key-513466dcd328f2e2b91c6fbfcce38ad4]: Commencement: Reg. 13 in force at 26.10.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1671/regulation/1)
+[^c-513466dcd328f2e2b91c6fbfcce38ad4]: Commencement: Reg. 13 in force at 26.10.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1671/regulation/1)
 
-[^key-545bdb03c118423bf0d7e51937193b81]: Commencement: Sch. para. 1 in force at 26.10.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1671/regulation/1)
+[^c-545bdb03c118423bf0d7e51937193b81]: Commencement: Sch. para. 1 in force at 26.10.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1671/regulation/1)
 
-[^key-6d5248e2ffcac6c492e4ec195282ebd7]: Commencement: Sch. para. 2 in force at 26.10.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1671/regulation/1)
+[^c-6d5248e2ffcac6c492e4ec195282ebd7]: Commencement: Sch. para. 2 in force at 26.10.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1671/regulation/1)
 
-[^key-7830e6947579ba2acbce8f4bedd72ce6]: Commencement: Sch. para. 3 in force at 26.10.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1671/regulation/1)
+[^c-7830e6947579ba2acbce8f4bedd72ce6]: Commencement: Sch. para. 3 in force at 26.10.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1671/regulation/1)
 
-[^key-ecf3848a23166659f7d7044d41a10288]: Commencement: Sch. para. 4 in force at 26.10.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1671/regulation/1)
+[^c-ecf3848a23166659f7d7044d41a10288]: Commencement: Sch. para. 4 in force at 26.10.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1671/regulation/1)
 
-[^key-71e30d23155e9e039d570b373eb6d437]: Commencement: Sch. para. 5 in force at 26.10.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1671/regulation/1)
+[^c-71e30d23155e9e039d570b373eb6d437]: Commencement: Sch. para. 5 in force at 26.10.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1671/regulation/1)
 
-[^key-2abfc6db37127b6fe44e5034f7241f57]: Commencement: Sch. para. 6 in force at 26.10.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1671/regulation/1)
+[^c-2abfc6db37127b6fe44e5034f7241f57]: Commencement: Sch. para. 6 in force at 26.10.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1671/regulation/1)
 
-[^key-257375c8df239247837a9d979ec5c404]: Commencement: Sch. para. 7 in force at 26.10.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1671/regulation/1)
+[^c-257375c8df239247837a9d979ec5c404]: Commencement: Sch. para. 7 in force at 26.10.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1671/regulation/1)
 
-[^key-62fb521f090f8b5f13dc7c42e864e229]: Commencement: Sch. para. 8 in force at 26.10.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1671/regulation/1)
+[^c-62fb521f090f8b5f13dc7c42e864e229]: Commencement: Sch. para. 8 in force at 26.10.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1671/regulation/1)
 
-[^key-25a8e7d836465828f46133530211460e]: Commencement: Sch. para. 9 in force at 26.10.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1671/regulation/1)
+[^c-25a8e7d836465828f46133530211460e]: Commencement: Sch. para. 9 in force at 26.10.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1671/regulation/1)
 
-[^key-3e82c375ad632df99061deceee727b6e]: Commencement: Sch. para. 10 in force at 26.10.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1671/regulation/1)
+[^c-3e82c375ad632df99061deceee727b6e]: Commencement: Sch. para. 10 in force at 26.10.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1671/regulation/1)
 
-[^key-6ca796aa7f94f9a753ccc5b0fd5a85e9]: Commencement: Sch. para. 11 in force at 26.10.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1671/regulation/1)
+[^c-6ca796aa7f94f9a753ccc5b0fd5a85e9]: Commencement: Sch. para. 11 in force at 26.10.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1671/regulation/1)
 
-[^key-5ee7224e071c278705773f1ba44b7738]: Commencement: Sch. para. 12 in force at 26.10.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1671/regulation/1)
+[^c-5ee7224e071c278705773f1ba44b7738]: Commencement: Sch. para. 12 in force at 26.10.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1671/regulation/1)

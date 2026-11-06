@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 87. Confidentiality of information[^key-c54701206952188a3a3382858ad05434]
+## 87. Confidentiality of information[^c-c54701206952188a3a3382858ad05434]
 
 *Extent: S*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c54701206952188a3a3382858ad05434]: Commencement: [S. 87](https://www.legislation.gov.uk/asp/2021/15/section/87) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
+[^c-c54701206952188a3a3382858ad05434]: Commencement: [S. 87](https://www.legislation.gov.uk/asp/2021/15/section/87) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 6A — The United Kingdom’s Financial Intelligence Unit[^key-66e2d30bf50c4a9cde36b2cbc4887a89]
+## SCHEDULE 6A — The United Kingdom’s Financial Intelligence Unit[^c-66e2d30bf50c4a9cde36b2cbc4887a89]
 
 *Extent: E+W+S+N.I.*
 
@@ -94,7 +94,7 @@ Where the NCA receives information from a foreign FIU, the NCA must—
 
 ## Annotations
 
-[^key-66e2d30bf50c4a9cde36b2cbc4887a89]: Textual amendment: Sch. 6A inserted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2019/1511/regulation/13)
+[^c-66e2d30bf50c4a9cde36b2cbc4887a89]: Textual amendment: Sch. 6A inserted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2019/1511/regulation/13)
 
 [^c23050201]: Marginal citation: [2000 c. 11](https://www.legislation.gov.uk/ukpga/2000/11).
 

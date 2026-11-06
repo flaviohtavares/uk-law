@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Discretionary licence conditions[^key-fe8e28d4f6d1db1fc274a8ff8ad62c42][^key-f27818695a9aec03163e91cf3f62c1f2]
+## 21. Discretionary licence conditions[^c-fe8e28d4f6d1db1fc274a8ff8ad62c42][^c-f27818695a9aec03163e91cf3f62c1f2]
 
 *Extent: E+W*
 
@@ -56,6 +56,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fe8e28d4f6d1db1fc274a8ff8ad62c42]: Commencement: S. 21 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-fe8e28d4f6d1db1fc274a8ff8ad62c42]: Commencement: S. 21 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-f27818695a9aec03163e91cf3f62c1f2]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2025/21/section/21) in force at 1.11.2026 in so far as not already in force by [S.I. 2026/1135](https://www.legislation.gov.uk/uksi/2026/1135), [reg. 3(1)(a)(vii)](https://www.legislation.gov.uk/uksi/2026/1135/regulation/3/1/a/vii)
+[^c-f27818695a9aec03163e91cf3f62c1f2]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2025/21/section/21) in force at 1.11.2026 in so far as not already in force by [S.I. 2026/1135](https://www.legislation.gov.uk/uksi/2026/1135), [reg. 3(1)(a)(vii)](https://www.legislation.gov.uk/uksi/2026/1135/regulation/3/1/a/vii)

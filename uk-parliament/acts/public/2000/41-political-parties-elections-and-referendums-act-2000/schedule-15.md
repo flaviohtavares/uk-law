@@ -16,17 +16,17 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 15 — Control of donations to permitted participants[^c20061381][^key-a4f3b58200ba9bb8a73773f59828b703][^key-febd71ed6cc115c4d58ec65b47bbcea3]
+## SCHEDULE 15 — Control of donations to permitted participants[^c20061381][^c-a4f3b58200ba9bb8a73773f59828b703][^c-febd71ed6cc115c4d58ec65b47bbcea3]
 
 *Extent: E+W+S+N.I.*
 
 Section 119.
 
-### Part I — Introductory[^key-febd71ed6cc115c4d58ec65b47bbcea3]
+### Part I — Introductory[^c-febd71ed6cc115c4d58ec65b47bbcea3]
 
 #### Operation and interpretation of Schedule
 
-**1.**[^c10577231][^key-e53e7dbded143feb1acfe8471c56eeb4][^key-febd71ed6cc115c4d58ec65b47bbcea3] (1) This Schedule has effect for controlling donations to permitted participants that either are not registered parties or are minor parties.
+**1.**[^c10577231][^c-e53e7dbded143feb1acfe8471c56eeb4][^c-febd71ed6cc115c4d58ec65b47bbcea3] (1) This Schedule has effect for controlling donations to permitted participants that either are not registered parties or are minor parties.
 
 (2) The following provisions have effect for the purposes of this Schedule.
 
@@ -102,7 +102,7 @@ regard shall be had to the total value in monetary terms of the consideration pr
 
 #### Payments etc. not to be regarded as donations
 
-**4.**[^c10577261] (1)[^key-0255a89c044067ce05f7cd569f4f4846] None of the following shall be regarded as a donation—
+**4.**[^c10577261] (1)[^c-0255a89c044067ce05f7cd569f4f4846] None of the following shall be regarded as a donation—
 
 - (a) any grant provided out of public funds, other than a grant provided to a designated organisation by virtue of section 110(2);
 - (b) the provision of any rights conferred on a designated organisation (or persons authorised by a designated organisation) by virtue of section 110(4) and Schedule 12;
@@ -136,11 +136,11 @@ regard shall be had to the total value in monetary terms of the consideration pr
 - (a) shall be determined at the time when it is made, but
 - (b) shall be so determined by reference to the total benefit accruing to the donee over that period.
 
-### Part II — Controls on donations[^key-febd71ed6cc115c4d58ec65b47bbcea3]
+### Part II — Controls on donations[^c-febd71ed6cc115c4d58ec65b47bbcea3]
 
 #### Prohibition on accepting donations from impermissible donors
 
-**6.**[^c10577291][^key-febd71ed6cc115c4d58ec65b47bbcea3][^key-08f9afd51681eca2c3eb0bd16c9fe45c] (1) A relevant donation received by a permitted participant must not be accepted by the permitted participant if—
+**6.**[^c10577291][^c-febd71ed6cc115c4d58ec65b47bbcea3][^c-08f9afd51681eca2c3eb0bd16c9fe45c] (1) A relevant donation received by a permitted participant must not be accepted by the permitted participant if—
 
 - (a) the person by whom the donation would be made is not, at the time of its receipt by the permitted participant, a permissible donor falling within section 54(2), or
 - (b) the permitted participant is (whether because the donation is given anonymously or by reason of any deception or concealment or otherwise) unable to ascertain the identity of the person offering the donation.
@@ -227,20 +227,20 @@ the agent must ensure that, at the time when the donation is received by the per
 
 **7.**[^c10577301] (1) Sections 56 to 60 shall apply for the purposes of this Schedule in relation to a permitted participant and any relevant donation received by a permitted participant as they apply in relation to a registered party and a donation received by a registered party.
 
-(2)[^key-d42f1d82180939b8ad1125d31c5e5784] In the application of sections 56 to 60 in accordance with sub-paragraph (1)—
+(2)[^c-d42f1d82180939b8ad1125d31c5e5784] In the application of sections 56 to 60 in accordance with sub-paragraph (1)—
 
 - (a) section 56(1) shall have effect as if the reference to the particulars relating to a donor which would be required to be included in a donation report by virtue of paragraph 2 of Schedule 6 (if the donation were a recordable donation within the meaning of that Schedule) were construed as a reference to the particulars which are required to be included in a return by virtue of paragraph 10(1)(c) (in relation to a donation to which that paragraph applies); and
 - (b) section 56(3) and (4) shall each have effect as if any reference to the treasurer of a registered party were construed as a reference to the responsible person in relation to the permitted participant.
 
 #### Evasion of restrictions on donations
 
-**8.**[^c10577311][^key-febd71ed6cc115c4d58ec65b47bbcea3][^key-c9d91c1776edd3e7da07e44e2a73a765] Section 61 shall apply for the purposes of this Schedule as if—
+**8.**[^c10577311][^c-febd71ed6cc115c4d58ec65b47bbcea3][^c-c9d91c1776edd3e7da07e44e2a73a765] Section 61 shall apply for the purposes of this Schedule as if—
 
 - (a) any reference to donations were to relevant donations;
 - (b) any reference to a registered party were a reference to a permitted participant; and
 - (c) any reference to the treasurer of such a party were, in relation to a permitted participant, a reference to the responsible person.
 
-### Part III — Reporting of donations[^key-febd71ed6cc115c4d58ec65b47bbcea3]
+### Part III — Reporting of donations[^c-febd71ed6cc115c4d58ec65b47bbcea3]
 
 #### Statement of relevant donations
 
@@ -262,7 +262,7 @@ the agent must ensure that, at the time when the donation is received by the per
 
 #### Donations from permissible donors
 
-**10.**[^c10577341][^key-40f20e2582adf0d997fc364a38e9cd82][^key-febd71ed6cc115c4d58ec65b47bbcea3][^key-0b36a29bdec4435831420b42a7b94bcf] (1) The statement must record, in relation to each relevant donation falling within sub-paragraph (2) which is accepted by the permitted participant—
+**10.**[^c10577341][^c-40f20e2582adf0d997fc364a38e9cd82][^c-febd71ed6cc115c4d58ec65b47bbcea3][^c-0b36a29bdec4435831420b42a7b94bcf] (1) The statement must record, in relation to each relevant donation falling within sub-paragraph (2) which is accepted by the permitted participant—
 
 - (a) the amount of the donation (if a donation of money, in cash or otherwise) or (in any other case) the nature of the donation and its value as determined in accordance with paragraph 5;
 - (b) the date when the donation was accepted by the permitted participant; and
@@ -270,7 +270,7 @@ the agent must ensure that, at the time when the donation is received by the per
 
 (2) Sub-paragraph (1) applies to a relevant donation where—
 
-- (a) the value of the donation is more than £11,180[^key-a0d28a1f51448ce78e91a8782e8616db], or
+- (a) the value of the donation is more than £11,180[^c-a0d28a1f51448ce78e91a8782e8616db], or
 - (b) the value of the donation, when added to the value of any other donation or donations made by the same donor (whether or not falling within paragraph (a)), is more than that amount.
 
 (3) The statement must also record—
@@ -278,7 +278,7 @@ the agent must ensure that, at the time when the donation is received by the per
 - (a) the total value of any relevant donations, other than those falling within sub-paragraph (2), which are accepted by the permitted participant; and
 - (b) such other information as may be required by regulations made by the Commission.
 
-(4)[^key-fd597c71f0c643dcd97c34f90e697d44][^c20084281] In the case of a donation made by an individual who has an anonymous entry in an electoral register (within the meaning of the Representation of the People Act 1983) if the statement states that the permitted participant has seen evidence of such description as is prescribed by the Secretary of State in regulations that the individual has such an anonymous entry, the statement must be accompanied by a copy of the evidence.
+(4)[^c-fd597c71f0c643dcd97c34f90e697d44][^c20084281] In the case of a donation made by an individual who has an anonymous entry in an electoral register (within the meaning of the Representation of the People Act 1983) if the statement states that the permitted participant has seen evidence of such description as is prescribed by the Secretary of State in regulations that the individual has such an anonymous entry, the statement must be accompanied by a copy of the evidence.
 
 #### Donations from impermissible or unidentifiable donors
 
@@ -304,13 +304,13 @@ the agent must ensure that, at the time when the donation is received by the per
 
 [^c20061381]: Modification: Sch. 15 applied (23.7.2004) by [The Regional Assembly and Local Government Referendums Order 2004 (S.I. 2004/1962)](https://www.legislation.gov.uk/uksi/2004/1962), [art. 7(2)](https://www.legislation.gov.uk/uksi/2004/1962/article/7/2), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2004/1962/schedule/3/part/2)
 
-[^key-a4f3b58200ba9bb8a73773f59828b703]: Modification: Sch. 15 modified (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [ss. 6(5)](https://www.legislation.gov.uk/ukpga/2011/1/section/6/5), [19(1)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/1)
+[^c-a4f3b58200ba9bb8a73773f59828b703]: Modification: Sch. 15 modified (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [ss. 6(5)](https://www.legislation.gov.uk/ukpga/2011/1/section/6/5), [19(1)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/1)
 
-[^key-febd71ed6cc115c4d58ec65b47bbcea3]: Modification: [Sch. 15](https://www.legislation.gov.uk/ukpga/2000/41/schedule/15) modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 2 para. 2(4)](https://www.legislation.gov.uk/ukpga/2015/36/schedule/2/paragraph/2/4); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-febd71ed6cc115c4d58ec65b47bbcea3]: Modification: [Sch. 15](https://www.legislation.gov.uk/ukpga/2000/41/schedule/15) modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 2 para. 2(4)](https://www.legislation.gov.uk/ukpga/2015/36/schedule/2/paragraph/2/4); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
 [^c10577231]: Commencement: Sch. 15 wholly in force at 16.2.2001; Sch. 15 partly in force at Royal Assent, see s. 163(3); Sch. 15 in force in so far as not already in force at 16.2.2001 by [S.I. 2001/222](https://www.legislation.gov.uk/uksi/2001/222), [art. 2](https://www.legislation.gov.uk/uksi/2001/222/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2001/222/schedule/1/part/I) (subject to transitional provisions in [Sch. 1 Pt. II](https://www.legislation.gov.uk/uksi/2001/222/schedule/1/part/II))
 
-[^key-e53e7dbded143feb1acfe8471c56eeb4]: Modification: [Sch. 15 para. 1](https://www.legislation.gov.uk/ukpga/2000/41/schedule/15/paragraph/1) modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 1 para. 29](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/29); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-e53e7dbded143feb1acfe8471c56eeb4]: Modification: [Sch. 15 para. 1](https://www.legislation.gov.uk/ukpga/2000/41/schedule/15/paragraph/1) modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 1 para. 29](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/29); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
 [^c10577241]: Commencement: Sch. 15 wholly in force at 16.2.2001; Sch. 15 partly in force at Royal Assent, see s. 163(3); Sch. 15 in force in so far as not already in force at 16.2.2001 by [S.I. 2001/222](https://www.legislation.gov.uk/uksi/2001/222), [art. 2](https://www.legislation.gov.uk/uksi/2001/222/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2001/222/schedule/1/part/I) (subject to transitional provisions in [Sch. 1 Pt. II](https://www.legislation.gov.uk/uksi/2001/222/schedule/1/part/II))
 
@@ -318,7 +318,7 @@ the agent must ensure that, at the time when the donation is received by the per
 
 [^c10577261]: Commencement: Sch. 15 wholly in force at 16.2.2001; Sch. 15 partly in force at Royal Assent, see s. 163(3); Sch. 15 in force in so far as not already in force at 16.2.2001 by [S.I. 2001/222](https://www.legislation.gov.uk/uksi/2001/222), [art. 2](https://www.legislation.gov.uk/uksi/2001/222/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2001/222/schedule/1/part/I) (subject to transitional provisions in [Sch. 1 Pt. II](https://www.legislation.gov.uk/uksi/2001/222/schedule/1/part/II))
 
-[^key-0255a89c044067ce05f7cd569f4f4846]: Modification: [Sch. 15 para. 4(1)](https://www.legislation.gov.uk/ukpga/2000/41/schedule/15/paragraph/4/1) modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 1 para. 30](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/30); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-0255a89c044067ce05f7cd569f4f4846]: Modification: [Sch. 15 para. 4(1)](https://www.legislation.gov.uk/ukpga/2000/41/schedule/15/paragraph/4/1) modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 1 para. 30](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/30); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
 [^c20261751]: Textual amendment: Sum in Sch. 15 para. 4(2) substituted (1.1.2010) by [Political Parties and Elections Act 2009 (c. 12)](https://www.legislation.gov.uk/ukpga/2009/12), [ss. 20(1)](https://www.legislation.gov.uk/ukpga/2009/12/section/20/1), [43](https://www.legislation.gov.uk/ukpga/2009/12/section/43); [S.I. 2009/3084](https://www.legislation.gov.uk/uksi/2009/3084), [art. 4(h)](https://www.legislation.gov.uk/uksi/2009/3084/article/4/h)
 
@@ -326,7 +326,7 @@ the agent must ensure that, at the time when the donation is received by the per
 
 [^c10577291]: Commencement: Sch. 15 wholly in force at 16.2.2001; Sch. 15 partly in force at Royal Assent, see s. 163(3); Sch. 15 in force in so far as not already in force at 16.2.2001 by [S.I. 2001/222](https://www.legislation.gov.uk/uksi/2001/222), [art. 2](https://www.legislation.gov.uk/uksi/2001/222/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2001/222/schedule/1/part/I) (subject to transitional provisions in [Sch. 1 Pt. II](https://www.legislation.gov.uk/uksi/2001/222/schedule/1/part/II))
 
-[^key-08f9afd51681eca2c3eb0bd16c9fe45c]: Modification: [Sch. 15 para. 6](https://www.legislation.gov.uk/ukpga/2000/41/schedule/15/paragraph/6) modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 1 para. 31](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/31); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-08f9afd51681eca2c3eb0bd16c9fe45c]: Modification: [Sch. 15 para. 6](https://www.legislation.gov.uk/ukpga/2000/41/schedule/15/paragraph/6) modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 1 para. 31](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/31); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
 [^c20261831]: Textual amendment: Sums in Sch. 15 para. 6(5)(7)(b) substituted (1.1.2010) by [Political Parties and Elections Act 2009 (c. 12)](https://www.legislation.gov.uk/ukpga/2009/12), [ss. 20(1)](https://www.legislation.gov.uk/ukpga/2009/12/section/20/1), [43](https://www.legislation.gov.uk/ukpga/2009/12/section/43); [S.I. 2009/3084](https://www.legislation.gov.uk/uksi/2009/3084), [art. 4(h)](https://www.legislation.gov.uk/uksi/2009/3084/article/4/h)
 
@@ -336,11 +336,11 @@ the agent must ensure that, at the time when the donation is received by the per
 
 [^c10577301]: Commencement: Sch. 15 wholly in force at 16.2.2001; Sch. 15 partly in force at Royal Assent, see s. 163(3); Sch. 15 in force in so far as not already in force at 16.2.2001 by [S.I. 2001/222](https://www.legislation.gov.uk/uksi/2001/222), [art. 2](https://www.legislation.gov.uk/uksi/2001/222/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2001/222/schedule/1/part/I) (subject to transitional provisions in [Sch. 1 Pt. II](https://www.legislation.gov.uk/uksi/2001/222/schedule/1/part/II))
 
-[^key-d42f1d82180939b8ad1125d31c5e5784]: Modification: [Sch. 15 para. 7(2)](https://www.legislation.gov.uk/ukpga/2000/41/schedule/15/paragraph/7/2) modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 1 para. 32](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/32); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-d42f1d82180939b8ad1125d31c5e5784]: Modification: [Sch. 15 para. 7(2)](https://www.legislation.gov.uk/ukpga/2000/41/schedule/15/paragraph/7/2) modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 1 para. 32](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/32); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
 [^c10577311]: Commencement: Sch. 15 wholly in force at 16.2.2001; Sch. 15 partly in force at Royal Assent, see s. 163(3); Sch. 15 in force in so far as not already in force at 16.2.2001 by [S.I. 2001/222](https://www.legislation.gov.uk/uksi/2001/222), [art. 2](https://www.legislation.gov.uk/uksi/2001/222/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2001/222/schedule/1/part/I) (subject to transitional provisions in [Sch. 1 Pt. II](https://www.legislation.gov.uk/uksi/2001/222/schedule/1/part/II))
 
-[^key-c9d91c1776edd3e7da07e44e2a73a765]: Modification: [Sch. 15 para. 8](https://www.legislation.gov.uk/ukpga/2000/41/schedule/15/paragraph/8) modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 1 para. 33](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/33); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-c9d91c1776edd3e7da07e44e2a73a765]: Modification: [Sch. 15 para. 8](https://www.legislation.gov.uk/ukpga/2000/41/schedule/15/paragraph/8) modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 1 para. 33](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/33); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
 [^c10577331]: Commencement: Sch. 15 wholly in force at 16.2.2001; Sch. 15 partly in force at Royal Assent, see s. 163(3); Sch. 15 in force in so far as not already in force at 16.2.2001 by [S.I. 2001/222](https://www.legislation.gov.uk/uksi/2001/222), [art. 2](https://www.legislation.gov.uk/uksi/2001/222/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2001/222/schedule/1/part/I) (subject to transitional provisions in [Sch. 1 Pt. II](https://www.legislation.gov.uk/uksi/2001/222/schedule/1/part/II))
 
@@ -354,13 +354,13 @@ the agent must ensure that, at the time when the donation is received by the per
 
 [^c10577341]: Commencement: Sch. 15 wholly in force at 16.2.2001; Sch. 15 partly in force at Royal Assent, see s. 163(3); Sch. 15 in force in so far as not already in force at 16.2.2001 by [S.I. 2001/222](https://www.legislation.gov.uk/uksi/2001/222), [art. 2](https://www.legislation.gov.uk/uksi/2001/222/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2001/222/schedule/1/part/I) (subject to transitional provisions in [Sch. 1 Pt. II](https://www.legislation.gov.uk/uksi/2001/222/schedule/1/part/II))
 
-[^key-40f20e2582adf0d997fc364a38e9cd82]: Modification: [Sch. 15 para. 10](https://www.legislation.gov.uk/ukpga/2000/41/schedule/15/paragraph/10) modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 1 para. 34](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/34); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-40f20e2582adf0d997fc364a38e9cd82]: Modification: [Sch. 15 para. 10](https://www.legislation.gov.uk/ukpga/2000/41/schedule/15/paragraph/10) modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 1 para. 34](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/34); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-0b36a29bdec4435831420b42a7b94bcf]: Modification: [Sch. 15 para. 10](https://www.legislation.gov.uk/ukpga/2000/41/schedule/15/paragraph/10) modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 2 para. 2(5)](https://www.legislation.gov.uk/ukpga/2015/36/schedule/2/paragraph/2/5); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-0b36a29bdec4435831420b42a7b94bcf]: Modification: [Sch. 15 para. 10](https://www.legislation.gov.uk/ukpga/2000/41/schedule/15/paragraph/10) modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 2 para. 2(5)](https://www.legislation.gov.uk/ukpga/2015/36/schedule/2/paragraph/2/5); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-a0d28a1f51448ce78e91a8782e8616db]: Textual amendment: Sum in [Sch. 15 para. 10(2)(a)](https://www.legislation.gov.uk/ukpga/2000/41/schedule/15/paragraph/10/2/a) substituted (21.11.2023) by [The Representation of the People (Variation of Election Expenses, Expenditure Limits and Donation etc. Thresholds) Order 2023 (S.I. 2023/1235)](https://www.legislation.gov.uk/uksi/2023/1235), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1235/article/1/2), [4(3)(g)](https://www.legislation.gov.uk/uksi/2023/1235/article/4/3/g)
+[^c-a0d28a1f51448ce78e91a8782e8616db]: Textual amendment: Sum in [Sch. 15 para. 10(2)(a)](https://www.legislation.gov.uk/ukpga/2000/41/schedule/15/paragraph/10/2/a) substituted (21.11.2023) by [The Representation of the People (Variation of Election Expenses, Expenditure Limits and Donation etc. Thresholds) Order 2023 (S.I. 2023/1235)](https://www.legislation.gov.uk/uksi/2023/1235), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1235/article/1/2), [4(3)(g)](https://www.legislation.gov.uk/uksi/2023/1235/article/4/3/g)
 
-[^key-fd597c71f0c643dcd97c34f90e697d44]: Modification: [Sch. 15 para. 10(4)](https://www.legislation.gov.uk/ukpga/2000/41/schedule/15/paragraph/10/4) amendment by 2006 c. 22, Sch. 1 para. 30 extended to N.I. (15.9.2014) by [The Anonymous Registration (Northern Ireland) Order 2014 (S.I. 2014/1116)](https://www.legislation.gov.uk/uksi/2014/1116), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1116/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/1116/article/2/2)
+[^c-fd597c71f0c643dcd97c34f90e697d44]: Modification: [Sch. 15 para. 10(4)](https://www.legislation.gov.uk/ukpga/2000/41/schedule/15/paragraph/10/4) amendment by 2006 c. 22, Sch. 1 para. 30 extended to N.I. (15.9.2014) by [The Anonymous Registration (Northern Ireland) Order 2014 (S.I. 2014/1116)](https://www.legislation.gov.uk/uksi/2014/1116), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1116/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/1116/article/2/2)
 
 [^c20084281]: Textual amendment: Sch. 15 para. 10(4) inserted (E.W.S.) (1.1.2007) by [Electoral Administration Act 2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22), [ss. 10(2)](https://www.legislation.gov.uk/ukpga/2006/22/section/10/2), [77(2)](https://www.legislation.gov.uk/ukpga/2006/22/section/77/2), [Sch. 1 para. 30](https://www.legislation.gov.uk/ukpga/2006/22/schedule/1/paragraph/30); [S.I. 2006/3412](https://www.legislation.gov.uk/uksi/2006/3412), [art. 3](https://www.legislation.gov.uk/uksi/2006/3412/article/3), [Sch. 1 para. 12(a)](https://www.legislation.gov.uk/uksi/2006/3412/schedule/1/paragraph/12/a) (subject to [art. 6](https://www.legislation.gov.uk/uksi/2006/3412/article/6), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/3412/schedule/2))
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Section 92: supplementary[^key-a7e434b0ebabdcf1d2a04fa526a0e577]
+## 93. Section 92: supplementary[^c-a7e434b0ebabdcf1d2a04fa526a0e577]
 
 *Extent: E+W+S+N.I.*
 
@@ -76,4 +76,4 @@ that the Secretary of State considers appropriate in consequence of, or of provi
 
 ## Annotations
 
-[^key-a7e434b0ebabdcf1d2a04fa526a0e577]: Commencement: [S. 93](https://www.legislation.gov.uk/ukpga/2023/52/section/93) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-a7e434b0ebabdcf1d2a04fa526a0e577]: Commencement: [S. 93](https://www.legislation.gov.uk/ukpga/2023/52/section/93) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)

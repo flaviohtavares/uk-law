@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 17. Students becoming eligible during the course of an academic year[^key-a6b81aa6043d6ebb2021369b70315959]
+## 17. Students becoming eligible during the course of an academic year[^c-a6b81aa6043d6ebb2021369b70315959]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a6b81aa6043d6ebb2021369b70315959]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/nisr/2009/373/regulation/17) substituted (with application in accordance with reg. 1(3)(4)(c) of the amending Rule) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/19)](https://www.legislation.gov.uk/nisr/2024/19), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2), [38](https://www.legislation.gov.uk/nisr/2024/19/regulation/38)
+[^c-a6b81aa6043d6ebb2021369b70315959]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/nisr/2009/373/regulation/17) substituted (with application in accordance with reg. 1(3)(4)(c) of the amending Rule) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/19)](https://www.legislation.gov.uk/nisr/2024/19), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2), [38](https://www.legislation.gov.uk/nisr/2024/19/regulation/38)

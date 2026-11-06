@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 118. Local financial returns.[^key-b71ab9b942f0c2e430a7573cacdfdbc1][^c9679261]
+## 118. Local financial returns.[^c-b71ab9b942f0c2e430a7573cacdfdbc1][^c9679261]
 
 *Extent: S*
 
@@ -34,7 +34,7 @@ summary: ''
 
 ## Annotations
 
-[^key-b71ab9b942f0c2e430a7573cacdfdbc1]: Modification: [S. 118](https://www.legislation.gov.uk/ukpga/1973/65/section/118) modified (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Supplementary, Transitional, Transitory and Saving Provisions) Order2013 (S.S.I. 2013/121)](https://www.legislation.gov.uk/ssi/2013/121), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/121/article/1/1), [7](https://www.legislation.gov.uk/ssi/2013/121/article/7), [sch.](https://www.legislation.gov.uk/ssi/2013/121/schedule)
+[^c-b71ab9b942f0c2e430a7573cacdfdbc1]: Modification: [S. 118](https://www.legislation.gov.uk/ukpga/1973/65/section/118) modified (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Supplementary, Transitional, Transitory and Saving Provisions) Order2013 (S.S.I. 2013/121)](https://www.legislation.gov.uk/ssi/2013/121), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/121/article/1/1), [7](https://www.legislation.gov.uk/ssi/2013/121/article/7), [sch.](https://www.legislation.gov.uk/ssi/2013/121/schedule)
 
 [^c9679261]: Modification: [S. 118](https://www.legislation.gov.uk/ukpga/1973/65/section/118) extended by [Local Government (Scotland) Act 1975 (c. 30)](https://www.legislation.gov.uk/ukpga/1975/30), [ss. 10(4)](https://www.legislation.gov.uk/ukpga/1975/30/section/10/4), [16](https://www.legislation.gov.uk/ukpga/1975/30/section/16), [Sch. 3 para. 10(2)](https://www.legislation.gov.uk/ukpga/1975/30/schedule/3/paragraph/10/2)
 

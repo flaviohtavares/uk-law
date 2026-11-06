@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 77. Role of approved regulators[^key-28a446a5d2a9f992a464f151bee4c420]
+## 77. Role of approved regulators[^c-28a446a5d2a9f992a464f151bee4c420]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-28a446a5d2a9f992a464f151bee4c420]: Commencement: [S. 77](https://www.legislation.gov.uk/asp/2010/16/section/77) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
+[^c-28a446a5d2a9f992a464f151bee4c420]: Commencement: [S. 77](https://www.legislation.gov.uk/asp/2010/16/section/77) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)

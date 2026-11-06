@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 111. Certificates granted under Chapter 4 of Title III of the 2001 Directive[^key-41258a6ff535f0295764126eef98dee1]
+## 111. Certificates granted under Chapter 4 of Title III of the 2001 Directive[^c-41258a6ff535f0295764126eef98dee1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-41258a6ff535f0295764126eef98dee1]: Textual amendment: [Reg. 111](https://www.legislation.gov.uk/uksi/2012/1916/regulation/111) omitted (31.12.2020) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [103](https://www.legislation.gov.uk/uksi/2019/775/regulation/103); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-41258a6ff535f0295764126eef98dee1]: Textual amendment: [Reg. 111](https://www.legislation.gov.uk/uksi/2012/1916/regulation/111) omitted (31.12.2020) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [103](https://www.legislation.gov.uk/uksi/2019/775/regulation/103); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

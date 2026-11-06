@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40. Disregard of certain improvements, etc.[^key-c59464de21546e3d1c1f32f2afea1b0f]
+## 40. Disregard of certain improvements, etc.[^c-c59464de21546e3d1c1f32f2afea1b0f]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ if the tribunal is satisfied that the creation of the interest, the erection of 
 
 ## Annotations
 
-[^key-c59464de21546e3d1c1f32f2afea1b0f]: Commencement: Art. 40 in force at 24.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/463/article/1)
+[^c-c59464de21546e3d1c1f32f2afea1b0f]: Commencement: Art. 40 in force at 24.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/463/article/1)

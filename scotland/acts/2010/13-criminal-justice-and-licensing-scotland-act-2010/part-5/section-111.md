@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 111. Assistance for victim support[^key-8d40b7246f97549a0c79021ba56a6e87]
+## 111. Assistance for victim support[^c-8d40b7246f97549a0c79021ba56a6e87]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ as the Scottish Ministers consider appropriate.
 
 ## Annotations
 
-[^key-8d40b7246f97549a0c79021ba56a6e87]: Commencement: [S. 111](https://www.legislation.gov.uk/asp/2010/13/section/111) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)
+[^c-8d40b7246f97549a0c79021ba56a6e87]: Commencement: [S. 111](https://www.legislation.gov.uk/asp/2010/13/section/111) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)

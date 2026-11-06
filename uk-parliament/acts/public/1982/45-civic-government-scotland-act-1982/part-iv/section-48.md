@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 48. Dogs: fouling of pavements.[^key-edb9767b8598b7581a335b724b46e6eb]
+## 48. Dogs: fouling of pavements.[^c-edb9767b8598b7581a335b724b46e6eb]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-edb9767b8598b7581a335b724b46e6eb]: Textual amendment: S. 48 repealed (22.10.2003) by [Dog Fouling (Scotland) Act 2003 (asp 12)](https://www.legislation.gov.uk/asp/2003/12), [ss. 17](https://www.legislation.gov.uk/asp/2003/12/section/17), [18(2)](https://www.legislation.gov.uk/asp/2003/12/section/18/2)
+[^c-edb9767b8598b7581a335b724b46e6eb]: Textual amendment: S. 48 repealed (22.10.2003) by [Dog Fouling (Scotland) Act 2003 (asp 12)](https://www.legislation.gov.uk/asp/2003/12), [ss. 17](https://www.legislation.gov.uk/asp/2003/12/section/17), [18(2)](https://www.legislation.gov.uk/asp/2003/12/section/18/2)

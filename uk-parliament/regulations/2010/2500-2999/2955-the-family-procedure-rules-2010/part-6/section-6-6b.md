@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6.6B. Extension of time for serving the application[^key-f1f3516c77c520c42c0d7fb6a66583f5]
+## 6.6B. Extension of time for serving the application[^c-f1f3516c77c520c42c0d7fb6a66583f5]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ must be served on the respondent when the application for a matrimonial or civil
 
 ## Annotations
 
-[^key-f1f3516c77c520c42c0d7fb6a66583f5]: Textual amendment: [Rules 6.6A](https://www.legislation.gov.uk/uksi/2010/2955/rule/6.6A), [6.6B](https://www.legislation.gov.uk/uksi/2010/2955/rule/6.6B) inserted (6.4.2022) by [The Family Procedure (Amendment) Rules 2022 (S.I. 2022/44)](https://www.legislation.gov.uk/uksi/2022/44), [rules 1(3)(a)](https://www.legislation.gov.uk/uksi/2022/44/rule/1/3/a), [10](https://www.legislation.gov.uk/uksi/2022/44/rule/10) (with [rule 29](https://www.legislation.gov.uk/uksi/2022/44/rule/29)); [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-f1f3516c77c520c42c0d7fb6a66583f5]: Textual amendment: [Rules 6.6A](https://www.legislation.gov.uk/uksi/2010/2955/rule/6.6A), [6.6B](https://www.legislation.gov.uk/uksi/2010/2955/rule/6.6B) inserted (6.4.2022) by [The Family Procedure (Amendment) Rules 2022 (S.I. 2022/44)](https://www.legislation.gov.uk/uksi/2022/44), [rules 1(3)(a)](https://www.legislation.gov.uk/uksi/2022/44/rule/1/3/a), [10](https://www.legislation.gov.uk/uksi/2022/44/rule/10) (with [rule 29](https://www.legislation.gov.uk/uksi/2022/44/rule/29)); [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)

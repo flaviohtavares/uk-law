@@ -59,8 +59,8 @@ In this Order—
 - “land” includes common or unenclosed land;
 - “premises” includes land, with or without buildings;
 - “sole occupancy group” has the meaning assigned by article 11;
-- [^key-c93d15a260fec25c48daa0d4a6d47a15]...
-- “slaughterhouse” has the meaning it is given in the Food Safety and Hygiene (England) Regulations 2013[^key-fd411d863d7103caeb4cee8db497574b];
+- [^c-c93d15a260fec25c48daa0d4a6d47a15]...
+- “slaughterhouse” has the meaning it is given in the Food Safety and Hygiene (England) Regulations 2013[^c-fd411d863d7103caeb4cee8db497574b];
 - “standstill period” means a period when animals may not be moved off premises because of the provisions of articles 4 or 5; and
 - “veterinary treatment” includes, in the case of goats, the collection of semen.
 
@@ -71,7 +71,7 @@ This Order shall not apply in relation to a movement—
 - (a) licensed under the Foot-and-Mouth Disease Order 1983[^f00003]; or
 - (b) to or from a zoo licensed under the Zoo Licensing Act 1981[^f00004].
 
-### 3A. Emergency measures[^key-593c4da71526307b09737209990bf608]
+### 3A. Emergency measures[^c-593c4da71526307b09737209990bf608]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -105,7 +105,7 @@ The standstill period is not triggered by a movement on to premises if it is a m
 
 (2) Pigs may not share an isolation facility with animals of any other species.
 
-### 9. Marking sheep and goats travelling to shows or exhibitions[^key-a84a0223065d00a2b5b730ab1e02fe94]
+### 9. Marking sheep and goats travelling to shows or exhibitions[^c-a84a0223065d00a2b5b730ab1e02fe94]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -126,7 +126,7 @@ The Secretary of State may authorise sets of premises as sole occupancy groups i
 
 (1) No person shall move an animal from any premises unless the movement is made under the authority of a licence issued by the Secretary of State or an inspector.
 
-(2) Paragraph (1) shall not apply to any movement authorised by a licence under article 20 of the Pigs (Records, Identification and Movement) Order 2011 (walking licences for pet pigs)[^key-f667482711fb561ebcac584ffc940ac9].
+(2) Paragraph (1) shall not apply to any movement authorised by a licence under article 20 of the Pigs (Records, Identification and Movement) Order 2011 (walking licences for pet pigs)[^c-f667482711fb561ebcac584ffc940ac9].
 
 ### 13. Notices prohibiting movement under a general licence
 
@@ -159,18 +159,18 @@ The Secretary of State may authorise sets of premises as sole occupancy groups i
 - (b) allow a copy or an extract to be taken; and
 - (c) if so required, furnish his name and address.
 
-(3)[^key-27b71ebeff278a68ef2ac2413b5af5e5] Every animal which is moved under a specific licence shall be kept separate throughout such movement from any animal which is not being moved under that licence.
+(3)[^c-27b71ebeff278a68ef2ac2413b5af5e5] Every animal which is moved under a specific licence shall be kept separate throughout such movement from any animal which is not being moved under that licence.
 
 (4) Where animals are moved under a specific licence, then, unless the licence provides otherwise, the occupier of premises which they are moved on to shall—
 
 - (a) ensure that he or his representative is given the licence before allowing the animals to be unloaded; and
 - (b) keep the licence for six months and during that period produce it to an inspector on request.
 
-### 15. General licences[^key-2180eea41bea8a922d46fe9473a79f24]
+### 15. General licences[^c-2180eea41bea8a922d46fe9473a79f24]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15A. Movement documents for deer[^key-02d7942d52a77a1c1f241490b499e548]
+### 15A. Movement documents for deer[^c-02d7942d52a77a1c1f241490b499e548]
 
 Where deer are moved under a general licence, and that licence requires the person moving the deer to have a movement document, the occupier of premises which they are moved on to must—
 
@@ -185,7 +185,7 @@ Where an inspector of a local authority issues a licence under article 12(1), he
 
 If any person fails to comply with a licence, permit, authorisation or notice issued under this Order an officer of the Secretary of State or an inspector may arrange for it to be complied with at the expense of the person in default.
 
-### 18. Cross-border movements of animals into England[^key-a2668f35307585644a1c09b8d23310e8]
+### 18. Cross-border movements of animals into England[^c-a2668f35307585644a1c09b8d23310e8]
 
 (1) In this article a “**cross-border movement**” means the movement of an animal—
 
@@ -211,7 +211,7 @@ If any person fails to comply with a licence, permit, authorisation or notice is
 
 ### 20. Cleansing and disinfection
 
-(1) A licence issued under article 12(1), a permit issued under article 6(b) or an authorisation under article 11 may specify requirements for the cleansing and disinfection of any vehicle used for moving animals additional to the requirements of the Transport of Animals (Cleansing and Disinfection) (England) ([^key-869fbb59b4aa16daac91022ef3d37f48]No. 3) Order 2003 .
+(1) A licence issued under article 12(1), a permit issued under article 6(b) or an authorisation under article 11 may specify requirements for the cleansing and disinfection of any vehicle used for moving animals additional to the requirements of the Transport of Animals (Cleansing and Disinfection) (England) ([^c-869fbb59b4aa16daac91022ef3d37f48]No. 3) Order 2003 .
 
 (2) Where animals are moved under a licence, the occupier of the premises which they are moved on to shall provide adequate facilities, equipment and materials for any cleansing and disinfection required by the licence.
 
@@ -230,13 +230,13 @@ If any person fails to comply with a licence, permit, authorisation or notice is
 
 (2) The Secretary of State may direct, in relation to cases of a particular description or any particular case, that an enforcement duty imposed on a local authority under this regulation shall be discharged by the Secretary of State and not by the local authority.
 
-(3)[^key-19e0e36349bd83fd8671f3083b60ba7e] Where the Secretary of State makes a direction under paragraph (2), the Secretary of State may delegate to the Director of Public Prosecutions functions in relation to the prosecution of an offence under section 73 of the Animal Health Act 1981 relating to this Order.
+(3)[^c-19e0e36349bd83fd8671f3083b60ba7e] Where the Secretary of State makes a direction under paragraph (2), the Secretary of State may delegate to the Director of Public Prosecutions functions in relation to the prosecution of an offence under section 73 of the Animal Health Act 1981 relating to this Order.
 
 ### 23. Revocations
 
 The Disease Control (Interim Measures) (England) (No. 2) Order 2003[^f00008] is revoked.
 
-### 24. Review[^key-a761b9350b48d6de3ee7e55aaa6e12f6]
+### 24. Review[^c-a761b9350b48d6de3ee7e55aaa6e12f6]
 
 (1) The Secretary of State must from time to time—
 
@@ -293,7 +293,7 @@ The movement of cattle or pigs to an artificial insemination centre.
 
 ### 7. Animals for export
 
-The movement of an animal for direct export or to a collecting centre or assembly centre [^key-d9950322fba582a4f420d6abaed12ae1]... prior to such export.
+The movement of an animal for direct export or to a collecting centre or assembly centre [^c-d9950322fba582a4f420d6abaed12ae1]... prior to such export.
 
 ### 8. Movement within a sole occupancy group
 
@@ -312,7 +312,7 @@ The movement of animals between premises in a sole occupancy group.
 
 ### 10. Movement of pigs for breeding, etc.
 
-(1) The movement of a pig intended for breeding or growing in accordance with article 21 of the Pigs (Records, Identification and Movement) Order 2011[^key-3958fb44cae2487f9f30f1c516fe89db].
+(1) The movement of a pig intended for breeding or growing in accordance with article 21 of the Pigs (Records, Identification and Movement) Order 2011[^c-3958fb44cae2487f9f30f1c516fe89db].
 
 (2) The movement of a pig intended for breeding other than in accordance with paragraph (1) if that pig has been placed in an isolation facility approved for this purpose by a veterinary inspector for 20 days prior to the movement.
 
@@ -332,7 +332,7 @@ The movement of a pig to a show or exhibition provided that—
 - (a) the movement must take place on or after 1st August and before 1st December;
 - (b) the animals must not have shared the isolation facility with animals isolated for any other purpose;
 - (c)[^M_F_307ba826-bda6-4562-c354-af7ac1fb9b26] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-1aa8e63439caf4da22215b5ce8b4fa52] the person sending the animal must submit, in accordance with the terms of the licence under which the animal is moved, and without undue delay, a declaration that the animal is intended for sale for breeding
+- (d)[^c-1aa8e63439caf4da22215b5ce8b4fa52] the person sending the animal must submit, in accordance with the terms of the licence under which the animal is moved, and without undue delay, a declaration that the animal is intended for sale for breeding
 
 ### 13. Movement of cattle, sheep and goats to shows and exhibitions
 
@@ -349,32 +349,32 @@ Movement of an animal which is on a vehicle which enters premises to drop off ot
 
 Article 7
 
-### 1. Arrival at a premises licensed under the Animal Gatherings Order 2010[^key-99d536eee5b2c09e4c6c9f20782b9a06]
+### 1. Arrival at a premises licensed under the Animal Gatherings Order 2010[^c-99d536eee5b2c09e4c6c9f20782b9a06]
 
-The movement of an animal on to any premises licensed under the Animal Gatherings Order 2010[^key-d5b52a53ba30def5cdce00b4a72bbb05] if the movement is for the purposes of a gathering licensed under that Order.
+The movement of an animal on to any premises licensed under the Animal Gatherings Order 2010[^c-d5b52a53ba30def5cdce00b4a72bbb05] if the movement is for the purposes of a gathering licensed under that Order.
 
 ### 2. Arrival at an artificial insemination centre
 
 The movement of an animal on to an artificial insemination centre.
 
-### 3. Movement of a pig under the Pigs (Records, Identification and Movement) Order 2011[^key-8d30fbfa679f5c027e04cd07e020c6c8]
+### 3. Movement of a pig under the Pigs (Records, Identification and Movement) Order 2011[^c-8d30fbfa679f5c027e04cd07e020c6c8]
 
-Movement of a pig where that movement is as referred to in article 21 of the Pigs (Records, Identification and Movement) Order 2011[^key-7a21d1866d7cd102b3b6f7e84b45535c].
+Movement of a pig where that movement is as referred to in article 21 of the Pigs (Records, Identification and Movement) Order 2011[^c-7a21d1866d7cd102b3b6f7e84b45535c].
 
 ### 4. Movement of a pig for breeding purposes
 
-(1) Arrival of a pig for breeding (other than one being moved under article 21 of the Pigs (Records, Identification and Movement) Order 2011[^key-939452176bf941ab556d5bda735cc020]) on the breeding premises provided that—
+(1) Arrival of a pig for breeding (other than one being moved under article 21 of the Pigs (Records, Identification and Movement) Order 2011[^c-939452176bf941ab556d5bda735cc020]) on the breeding premises provided that—
 
 - (a) prior to being moved, either there is no standstill period on the premises of departure, or alternatively it has been isolated for 20 days prior to the movement taking place in a facility approved for this purpose by a veterinary inspector;
 - (b) it is isolated while on the breeding premises (or for 20 days, whichever is shorter) in an isolation facility approved for this purpose by a veterinary inspector;
 - (c) any pig placed in the isolation facility with the pig brought on to the premise for breeding purposes has been on the breeding premises for at least 20 days before being placed in that facility;
 - (d) any other pig placed into the isolation facility on the breeding premises with the one brought on to those premises remains in isolation for 20 days after the arrival of the pig being brought into the premises, or for 20 days after being placed into isolation with it whichever is later; and
-- (e) the recipient of the breeding pig submits, in accordance with the terms of the licence under which the pig is moved, and[^key-d5006b99c2a3407f21c26ab7f35a7b31] without undue delay a declaration that the pig is intended for breeding on those premises.
+- (e) the recipient of the breeding pig submits, in accordance with the terms of the licence under which the pig is moved, and[^c-d5006b99c2a3407f21c26ab7f35a7b31] without undue delay a declaration that the pig is intended for breeding on those premises.
 
-(2) Movement of a pig (other than one being moved under article 21 of the Pigs (Records, Identification and Movement) Order 2011[^key-f8a7c5a73ebe4745d00663b5effbed7b]) which is being returned to those premises from a place to which it had been moved for breeding, provided that—
+(2) Movement of a pig (other than one being moved under article 21 of the Pigs (Records, Identification and Movement) Order 2011[^c-f8a7c5a73ebe4745d00663b5effbed7b]) which is being returned to those premises from a place to which it had been moved for breeding, provided that—
 
 - (a) it is isolated for 20 days after the date of its return from all other animals, and
-- (b) the occupier of the premises from which the pig has returned from breeding has submitted[^key-b7594c0d27509da7965f478b482cd093] the declaration required in paragraph 4(1)(e) [^key-7a5d2736ecdb5b9e99540d7feb847121]....
+- (b) the occupier of the premises from which the pig has returned from breeding has submitted[^c-b7594c0d27509da7965f478b482cd093] the declaration required in paragraph 4(1)(e) [^c-7a5d2736ecdb5b9e99540d7feb847121]....
 
 ### 5. Return of pigs, cattle, sheep or goats from a show or exhibition
 
@@ -388,7 +388,7 @@ The return of pigs, cattle, sheep or goats from a show or exhibition to the prem
 
 - (a) the movement must take place on or after 1st August and before 1st December;
 - (b) the animals must not have shared the isolation facility with animals isolated for any other purpose;
-- (c)[^key-f9df8bbb5fae7d6a45e45c998706114c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-f9df8bbb5fae7d6a45e45c998706114c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 7. Arrival of rams and bulls for breeding
 
@@ -397,8 +397,8 @@ The return of pigs, cattle, sheep or goats from a show or exhibition to the prem
 (2) To qualify for this exemption—
 
 - (a) the movement must take place on or after 1st August and before 1st December;
-- (b)[^key-2fcd042c1a195dc3ad4c503836259833] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c) the recipient of the breeding animal must submit, in accordance with the terms of the licence under which the animal is moved, and[^key-939dd23dac4389261e8f46bcbb678122] without undue delay a declaration that the animal is intended for breeding on those premises;
+- (b)[^c-2fcd042c1a195dc3ad4c503836259833] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) the recipient of the breeding animal must submit, in accordance with the terms of the licence under which the animal is moved, and[^c-939dd23dac4389261e8f46bcbb678122] without undue delay a declaration that the animal is intended for breeding on those premises;
 - (d) any ewes placed with that ram must be isolated for six days in that facility.
 
 ### 8. Arrival of goats for breeding
@@ -407,8 +407,8 @@ The return of pigs, cattle, sheep or goats from a show or exhibition to the prem
 
 (2) To qualify for this exemption—
 
-- (a)[^key-5497e0ef29cb1972238ef8212a0ec1b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) the recipient of the breeding animal must submit, in accordance with the terms of the licence under which the animal is moved, and[^key-39f114183dc47d47bb2f7c11a053186d] without undue delay a declaration that the animal is intended for breeding on those premises.
+- (a)[^c-5497e0ef29cb1972238ef8212a0ec1b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) the recipient of the breeding animal must submit, in accordance with the terms of the licence under which the animal is moved, and[^c-39f114183dc47d47bb2f7c11a053186d] without undue delay a declaration that the animal is intended for breeding on those premises.
 
 ### 9. Artificial insemination centres
 
@@ -474,37 +474,37 @@ A regulatory impact assessment has been prepared and placed in the library of ea
 
 [^f00001]: Footnote: [1981 c. 22](https://www.legislation.gov.uk/ukpga/1981/22). Functions conferred under the 1981 Act on “the Ministers” (as defined in section 86 of that Act) were transferred, so far as exercisable by the Secretaries of State for Scotland and Wales, to the Minister of Agriculture, Fisheries and Food by the Transfer of Functions (Agriculture and Food) Order 1999 (S.I. [1999/3141](https://www.legislation.gov.uk/uksi/1999/3141)) and were then further transferred to the Secretary of State by the Minister of Agriculture, Fisheries and Food (Dissolution) Order 2002 (S.I. [2002/794](https://www.legislation.gov.uk/uksi/2002/794)).
 
-[^key-c93d15a260fec25c48daa0d4a6d47a15]: Textual amendment: Words in art. 2 omitted (12.5.2008) by virtue of [The Disease Control (England) (Amendment) Order 2008 (S.I. 2008/1066)](https://www.legislation.gov.uk/uksi/2008/1066), [arts. 1](https://www.legislation.gov.uk/uksi/2008/1066/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2008/1066/article/2/2)
+[^c-c93d15a260fec25c48daa0d4a6d47a15]: Textual amendment: Words in art. 2 omitted (12.5.2008) by virtue of [The Disease Control (England) (Amendment) Order 2008 (S.I. 2008/1066)](https://www.legislation.gov.uk/uksi/2008/1066), [arts. 1](https://www.legislation.gov.uk/uksi/2008/1066/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2008/1066/article/2/2)
 
-[^key-fd411d863d7103caeb4cee8db497574b]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2003/1729/article/2) substituted (6.4.2016) by [The Disease Control (England) (Amendment) Order 2016 (S.I. 2016/280)](https://www.legislation.gov.uk/uksi/2016/280), [arts. 1](https://www.legislation.gov.uk/uksi/2016/280/article/1), [3](https://www.legislation.gov.uk/uksi/2016/280/article/3)
+[^c-fd411d863d7103caeb4cee8db497574b]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2003/1729/article/2) substituted (6.4.2016) by [The Disease Control (England) (Amendment) Order 2016 (S.I. 2016/280)](https://www.legislation.gov.uk/uksi/2016/280), [arts. 1](https://www.legislation.gov.uk/uksi/2016/280/article/1), [3](https://www.legislation.gov.uk/uksi/2016/280/article/3)
 
 [^f00003]: Footnote: S.I. [1983/1950](https://www.legislation.gov.uk/uksi/1983/1950) as last amended by S.I. [2001/4029](https://www.legislation.gov.uk/uksi/2001/4029).
 
 [^f00004]: Footnote: [1981 c. 37](https://www.legislation.gov.uk/ukpga/1981/37).
 
-[^key-593c4da71526307b09737209990bf608]: Textual amendment: [Art. 3A](https://www.legislation.gov.uk/uksi/2003/1729/article/3A) revoked (8.9.2007) by [The Disease Control (England) (Amendment) (No. 2) Order 2007 (S.I. 2007/2623)](https://www.legislation.gov.uk/uksi/2007/2623), [arts. 1](https://www.legislation.gov.uk/uksi/2007/2623/article/1), [2](https://www.legislation.gov.uk/uksi/2007/2623/article/2)
+[^c-593c4da71526307b09737209990bf608]: Textual amendment: [Art. 3A](https://www.legislation.gov.uk/uksi/2003/1729/article/3A) revoked (8.9.2007) by [The Disease Control (England) (Amendment) (No. 2) Order 2007 (S.I. 2007/2623)](https://www.legislation.gov.uk/uksi/2007/2623), [arts. 1](https://www.legislation.gov.uk/uksi/2007/2623/article/1), [2](https://www.legislation.gov.uk/uksi/2007/2623/article/2)
 
-[^key-a84a0223065d00a2b5b730ab1e02fe94]: Textual amendment: Art. 9 revoked (30.11.2005) by [The Sheep and Goats (Records, Identification and Movement) (England) Order 2005 (S.I. 2005/3100)](https://www.legislation.gov.uk/uksi/2005/3100), [arts. 1(c)](https://www.legislation.gov.uk/uksi/2005/3100/article/1/c), [36(2)](https://www.legislation.gov.uk/uksi/2005/3100/article/36/2)
+[^c-a84a0223065d00a2b5b730ab1e02fe94]: Textual amendment: Art. 9 revoked (30.11.2005) by [The Sheep and Goats (Records, Identification and Movement) (England) Order 2005 (S.I. 2005/3100)](https://www.legislation.gov.uk/uksi/2005/3100), [arts. 1(c)](https://www.legislation.gov.uk/uksi/2005/3100/article/1/c), [36(2)](https://www.legislation.gov.uk/uksi/2005/3100/article/36/2)
 
-[^key-f667482711fb561ebcac584ffc940ac9]: Textual amendment: Words in [art. 12(2)](https://www.legislation.gov.uk/uksi/2003/1729/article/12/2) substituted (6.4.2016) by [The Disease Control (England) (Amendment) Order 2016 (S.I. 2016/280)](https://www.legislation.gov.uk/uksi/2016/280), [arts. 1](https://www.legislation.gov.uk/uksi/2016/280/article/1), [4](https://www.legislation.gov.uk/uksi/2016/280/article/4)
+[^c-f667482711fb561ebcac584ffc940ac9]: Textual amendment: Words in [art. 12(2)](https://www.legislation.gov.uk/uksi/2003/1729/article/12/2) substituted (6.4.2016) by [The Disease Control (England) (Amendment) Order 2016 (S.I. 2016/280)](https://www.legislation.gov.uk/uksi/2016/280), [arts. 1](https://www.legislation.gov.uk/uksi/2016/280/article/1), [4](https://www.legislation.gov.uk/uksi/2016/280/article/4)
 
-[^key-27b71ebeff278a68ef2ac2413b5af5e5]: Textual amendment: Art. 14(3) substituted (12.5.2008) by [The Disease Control (England) (Amendment) Order 2008 (S.I. 2008/1066)](https://www.legislation.gov.uk/uksi/2008/1066), [arts. 1](https://www.legislation.gov.uk/uksi/2008/1066/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2008/1066/article/2/3)
+[^c-27b71ebeff278a68ef2ac2413b5af5e5]: Textual amendment: Art. 14(3) substituted (12.5.2008) by [The Disease Control (England) (Amendment) Order 2008 (S.I. 2008/1066)](https://www.legislation.gov.uk/uksi/2008/1066), [arts. 1](https://www.legislation.gov.uk/uksi/2008/1066/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2008/1066/article/2/3)
 
-[^key-2180eea41bea8a922d46fe9473a79f24]: Textual amendment: [Art. 15](https://www.legislation.gov.uk/uksi/2003/1729/article/15) omitted (6.4.2016) by virtue of [The Disease Control (England) (Amendment) Order 2016 (S.I. 2016/280)](https://www.legislation.gov.uk/uksi/2016/280), [arts. 1](https://www.legislation.gov.uk/uksi/2016/280/article/1), [5](https://www.legislation.gov.uk/uksi/2016/280/article/5)
+[^c-2180eea41bea8a922d46fe9473a79f24]: Textual amendment: [Art. 15](https://www.legislation.gov.uk/uksi/2003/1729/article/15) omitted (6.4.2016) by virtue of [The Disease Control (England) (Amendment) Order 2016 (S.I. 2016/280)](https://www.legislation.gov.uk/uksi/2016/280), [arts. 1](https://www.legislation.gov.uk/uksi/2016/280/article/1), [5](https://www.legislation.gov.uk/uksi/2016/280/article/5)
 
-[^key-02d7942d52a77a1c1f241490b499e548]: Textual amendment: [Art. 15A](https://www.legislation.gov.uk/uksi/2003/1729/article/15A) inserted (6.4.2016) by [The Disease Control (England) (Amendment) Order 2016 (S.I. 2016/280)](https://www.legislation.gov.uk/uksi/2016/280), [arts. 1](https://www.legislation.gov.uk/uksi/2016/280/article/1), [6](https://www.legislation.gov.uk/uksi/2016/280/article/6)
+[^c-02d7942d52a77a1c1f241490b499e548]: Textual amendment: [Art. 15A](https://www.legislation.gov.uk/uksi/2003/1729/article/15A) inserted (6.4.2016) by [The Disease Control (England) (Amendment) Order 2016 (S.I. 2016/280)](https://www.legislation.gov.uk/uksi/2016/280), [arts. 1](https://www.legislation.gov.uk/uksi/2016/280/article/1), [6](https://www.legislation.gov.uk/uksi/2016/280/article/6)
 
-[^key-a2668f35307585644a1c09b8d23310e8]: Textual amendment: Art. 18 substituted (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2012/2897/article/5/2)
+[^c-a2668f35307585644a1c09b8d23310e8]: Textual amendment: Art. 18 substituted (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2012/2897/article/5/2)
 
-[^key-869fbb59b4aa16daac91022ef3d37f48]: Textual amendment: Words in art. 20(1) substituted (12.5.2008) by [The Disease Control (England) (Amendment) Order 2008 (S.I. 2008/1066)](https://www.legislation.gov.uk/uksi/2008/1066), [arts. 1](https://www.legislation.gov.uk/uksi/2008/1066/article/1), [2(4)](https://www.legislation.gov.uk/uksi/2008/1066/article/2/4)
+[^c-869fbb59b4aa16daac91022ef3d37f48]: Textual amendment: Words in art. 20(1) substituted (12.5.2008) by [The Disease Control (England) (Amendment) Order 2008 (S.I. 2008/1066)](https://www.legislation.gov.uk/uksi/2008/1066), [arts. 1](https://www.legislation.gov.uk/uksi/2008/1066/article/1), [2(4)](https://www.legislation.gov.uk/uksi/2008/1066/article/2/4)
 
-[^key-19e0e36349bd83fd8671f3083b60ba7e]: Textual amendment: [Art. 22(3)](https://www.legislation.gov.uk/uksi/2003/1729/article/22/3) added (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2012/2897/article/5/3)
+[^c-19e0e36349bd83fd8671f3083b60ba7e]: Textual amendment: [Art. 22(3)](https://www.legislation.gov.uk/uksi/2003/1729/article/22/3) added (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2012/2897/article/5/3)
 
 [^f00008]: Footnote: S.I. [2003/1279](https://www.legislation.gov.uk/uksi/2003/1279).
 
-[^key-a761b9350b48d6de3ee7e55aaa6e12f6]: Textual amendment: [Art. 24](https://www.legislation.gov.uk/uksi/2003/1729/article/24) inserted (6.4.2016) by [The Disease Control (England) (Amendment) Order 2016 (S.I. 2016/280)](https://www.legislation.gov.uk/uksi/2016/280), [arts. 1](https://www.legislation.gov.uk/uksi/2016/280/article/1), [7](https://www.legislation.gov.uk/uksi/2016/280/article/7)
+[^c-a761b9350b48d6de3ee7e55aaa6e12f6]: Textual amendment: [Art. 24](https://www.legislation.gov.uk/uksi/2003/1729/article/24) inserted (6.4.2016) by [The Disease Control (England) (Amendment) Order 2016 (S.I. 2016/280)](https://www.legislation.gov.uk/uksi/2016/280), [arts. 1](https://www.legislation.gov.uk/uksi/2016/280/article/1), [7](https://www.legislation.gov.uk/uksi/2016/280/article/7)
 
-[^key-d9950322fba582a4f420d6abaed12ae1]: Textual amendment: Words in [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2003/1729/schedule/1/paragraph/7) omitted (31.12.2020) by virtue of [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/2/a), [34](https://www.legislation.gov.uk/uksi/2020/1462/regulation/34)
+[^c-d9950322fba582a4f420d6abaed12ae1]: Textual amendment: Words in [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2003/1729/schedule/1/paragraph/7) omitted (31.12.2020) by virtue of [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/2/a), [34](https://www.legislation.gov.uk/uksi/2020/1462/regulation/34)
 
 [^f00010]: Footnote: [1965 c. 64](https://www.legislation.gov.uk/ukpga/1965/64).
 
@@ -514,39 +514,39 @@ A regulatory impact assessment has been prepared and placed in the library of ea
 
 [^f00013]: Footnote: [1977 c. CXV](https://www.legislation.gov.uk/ukla/1977/115).
 
-[^key-3958fb44cae2487f9f30f1c516fe89db]: Textual amendment: Words in [Sch. 1 para. 10(1)](https://www.legislation.gov.uk/uksi/2003/1729/schedule/1/paragraph/10/1) substituted (6.4.2016) by [The Disease Control (England) (Amendment) Order 2016 (S.I. 2016/280)](https://www.legislation.gov.uk/uksi/2016/280), [arts. 1](https://www.legislation.gov.uk/uksi/2016/280/article/1), [8(b)](https://www.legislation.gov.uk/uksi/2016/280/article/8/b)
+[^c-3958fb44cae2487f9f30f1c516fe89db]: Textual amendment: Words in [Sch. 1 para. 10(1)](https://www.legislation.gov.uk/uksi/2003/1729/schedule/1/paragraph/10/1) substituted (6.4.2016) by [The Disease Control (England) (Amendment) Order 2016 (S.I. 2016/280)](https://www.legislation.gov.uk/uksi/2016/280), [arts. 1](https://www.legislation.gov.uk/uksi/2016/280/article/1), [8(b)](https://www.legislation.gov.uk/uksi/2016/280/article/8/b)
 
 [^M_F_307ba826-bda6-4562-c354-af7ac1fb9b26]: Textual amendment: Sch. 1 para. 12(2)(c) revoked (30.11.2005) by [The Sheep and Goats (Records, Identification and Movement) (England) Order 2005 (S.I. 2005/3100)](https://www.legislation.gov.uk/uksi/2005/3100), [arts. 1(c)](https://www.legislation.gov.uk/uksi/2005/3100/article/1/c), [36(3)](https://www.legislation.gov.uk/uksi/2005/3100/article/36/3)
 
-[^key-1aa8e63439caf4da22215b5ce8b4fa52]: Textual amendment: [Sch. 1 para. 12(2)(d)](https://www.legislation.gov.uk/uksi/2003/1729/schedule/1/paragraph/12/2/d) substituted (6.4.2016) by [The Disease Control (England) (Amendment) Order 2016 (S.I. 2016/280)](https://www.legislation.gov.uk/uksi/2016/280), [arts. 1](https://www.legislation.gov.uk/uksi/2016/280/article/1), [8(c)](https://www.legislation.gov.uk/uksi/2016/280/article/8/c)
+[^c-1aa8e63439caf4da22215b5ce8b4fa52]: Textual amendment: [Sch. 1 para. 12(2)(d)](https://www.legislation.gov.uk/uksi/2003/1729/schedule/1/paragraph/12/2/d) substituted (6.4.2016) by [The Disease Control (England) (Amendment) Order 2016 (S.I. 2016/280)](https://www.legislation.gov.uk/uksi/2016/280), [arts. 1](https://www.legislation.gov.uk/uksi/2016/280/article/1), [8(c)](https://www.legislation.gov.uk/uksi/2016/280/article/8/c)
 
-[^key-99d536eee5b2c09e4c6c9f20782b9a06]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2003/1729/schedule/2/paragraph/1) heading substituted (6.4.2016) by [The Disease Control (England) (Amendment) Order 2016 (S.I. 2016/280)](https://www.legislation.gov.uk/uksi/2016/280), [arts. 1](https://www.legislation.gov.uk/uksi/2016/280/article/1), [9(2)](https://www.legislation.gov.uk/uksi/2016/280/article/9/2)
+[^c-99d536eee5b2c09e4c6c9f20782b9a06]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2003/1729/schedule/2/paragraph/1) heading substituted (6.4.2016) by [The Disease Control (England) (Amendment) Order 2016 (S.I. 2016/280)](https://www.legislation.gov.uk/uksi/2016/280), [arts. 1](https://www.legislation.gov.uk/uksi/2016/280/article/1), [9(2)](https://www.legislation.gov.uk/uksi/2016/280/article/9/2)
 
-[^key-d5b52a53ba30def5cdce00b4a72bbb05]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2003/1729/schedule/2/paragraph/1) substituted (6.4.2016) by [The Disease Control (England) (Amendment) Order 2016 (S.I. 2016/280)](https://www.legislation.gov.uk/uksi/2016/280), [arts. 1](https://www.legislation.gov.uk/uksi/2016/280/article/1), [9(2)](https://www.legislation.gov.uk/uksi/2016/280/article/9/2)
+[^c-d5b52a53ba30def5cdce00b4a72bbb05]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2003/1729/schedule/2/paragraph/1) substituted (6.4.2016) by [The Disease Control (England) (Amendment) Order 2016 (S.I. 2016/280)](https://www.legislation.gov.uk/uksi/2016/280), [arts. 1](https://www.legislation.gov.uk/uksi/2016/280/article/1), [9(2)](https://www.legislation.gov.uk/uksi/2016/280/article/9/2)
 
-[^key-8d30fbfa679f5c027e04cd07e020c6c8]: Textual amendment: Words in Sch. 2 para. 3 heading substituted (6.4.2016) by [The Disease Control (England) (Amendment) Order 2016 (S.I. 2016/280)](https://www.legislation.gov.uk/uksi/2016/280), [arts. 1](https://www.legislation.gov.uk/uksi/2016/280/article/1), [9(3)](https://www.legislation.gov.uk/uksi/2016/280/article/9/3)
+[^c-8d30fbfa679f5c027e04cd07e020c6c8]: Textual amendment: Words in Sch. 2 para. 3 heading substituted (6.4.2016) by [The Disease Control (England) (Amendment) Order 2016 (S.I. 2016/280)](https://www.legislation.gov.uk/uksi/2016/280), [arts. 1](https://www.legislation.gov.uk/uksi/2016/280/article/1), [9(3)](https://www.legislation.gov.uk/uksi/2016/280/article/9/3)
 
-[^key-7a21d1866d7cd102b3b6f7e84b45535c]: Textual amendment: Words in Sch. 2 para. 3 substituted (6.4.2016) by [The Disease Control (England) (Amendment) Order 2016 (S.I. 2016/280)](https://www.legislation.gov.uk/uksi/2016/280), [arts. 1](https://www.legislation.gov.uk/uksi/2016/280/article/1), [9(4)](https://www.legislation.gov.uk/uksi/2016/280/article/9/4)
+[^c-7a21d1866d7cd102b3b6f7e84b45535c]: Textual amendment: Words in Sch. 2 para. 3 substituted (6.4.2016) by [The Disease Control (England) (Amendment) Order 2016 (S.I. 2016/280)](https://www.legislation.gov.uk/uksi/2016/280), [arts. 1](https://www.legislation.gov.uk/uksi/2016/280/article/1), [9(4)](https://www.legislation.gov.uk/uksi/2016/280/article/9/4)
 
-[^key-939452176bf941ab556d5bda735cc020]: Textual amendment: Words in Sch. 2 para. 4(1) substituted (6.4.2016) by [The Disease Control (England) (Amendment) Order 2016 (S.I. 2016/280)](https://www.legislation.gov.uk/uksi/2016/280), [arts. 1](https://www.legislation.gov.uk/uksi/2016/280/article/1), [9(5)(a)](https://www.legislation.gov.uk/uksi/2016/280/article/9/5/a)
+[^c-939452176bf941ab556d5bda735cc020]: Textual amendment: Words in Sch. 2 para. 4(1) substituted (6.4.2016) by [The Disease Control (England) (Amendment) Order 2016 (S.I. 2016/280)](https://www.legislation.gov.uk/uksi/2016/280), [arts. 1](https://www.legislation.gov.uk/uksi/2016/280/article/1), [9(5)(a)](https://www.legislation.gov.uk/uksi/2016/280/article/9/5/a)
 
-[^key-d5006b99c2a3407f21c26ab7f35a7b31]: Textual amendment: Words in Sch. 2 para. 4(1)(e) substituted (6.4.2016) by [The Disease Control (England) (Amendment) Order 2016 (S.I. 2016/280)](https://www.legislation.gov.uk/uksi/2016/280), [arts. 1](https://www.legislation.gov.uk/uksi/2016/280/article/1), [9(5)(b)](https://www.legislation.gov.uk/uksi/2016/280/article/9/5/b)
+[^c-d5006b99c2a3407f21c26ab7f35a7b31]: Textual amendment: Words in Sch. 2 para. 4(1)(e) substituted (6.4.2016) by [The Disease Control (England) (Amendment) Order 2016 (S.I. 2016/280)](https://www.legislation.gov.uk/uksi/2016/280), [arts. 1](https://www.legislation.gov.uk/uksi/2016/280/article/1), [9(5)(b)](https://www.legislation.gov.uk/uksi/2016/280/article/9/5/b)
 
-[^key-f8a7c5a73ebe4745d00663b5effbed7b]: Textual amendment: Words in Sch. 2 para. 4(2) substituted (6.4.2016) by [The Disease Control (England) (Amendment) Order 2016 (S.I. 2016/280)](https://www.legislation.gov.uk/uksi/2016/280), [arts. 1](https://www.legislation.gov.uk/uksi/2016/280/article/1), [9(5)(a)](https://www.legislation.gov.uk/uksi/2016/280/article/9/5/a)
+[^c-f8a7c5a73ebe4745d00663b5effbed7b]: Textual amendment: Words in Sch. 2 para. 4(2) substituted (6.4.2016) by [The Disease Control (England) (Amendment) Order 2016 (S.I. 2016/280)](https://www.legislation.gov.uk/uksi/2016/280), [arts. 1](https://www.legislation.gov.uk/uksi/2016/280/article/1), [9(5)(a)](https://www.legislation.gov.uk/uksi/2016/280/article/9/5/a)
 
-[^key-b7594c0d27509da7965f478b482cd093]: Textual amendment: Word in Sch. 2 para. 4(2)(b) substituted (6.4.2016) by [The Disease Control (England) (Amendment) Order 2016 (S.I. 2016/280)](https://www.legislation.gov.uk/uksi/2016/280), [arts. 1](https://www.legislation.gov.uk/uksi/2016/280/article/1), [9(5)(c)(i)](https://www.legislation.gov.uk/uksi/2016/280/article/9/5/c/i)
+[^c-b7594c0d27509da7965f478b482cd093]: Textual amendment: Word in Sch. 2 para. 4(2)(b) substituted (6.4.2016) by [The Disease Control (England) (Amendment) Order 2016 (S.I. 2016/280)](https://www.legislation.gov.uk/uksi/2016/280), [arts. 1](https://www.legislation.gov.uk/uksi/2016/280/article/1), [9(5)(c)(i)](https://www.legislation.gov.uk/uksi/2016/280/article/9/5/c/i)
 
-[^key-7a5d2736ecdb5b9e99540d7feb847121]: Textual amendment: Words in Sch. 2 para. 4(2)(b) omitted (6.4.2016) by virtue of [The Disease Control (England) (Amendment) Order 2016 (S.I. 2016/280)](https://www.legislation.gov.uk/uksi/2016/280), [arts. 1](https://www.legislation.gov.uk/uksi/2016/280/article/1), [9(5)(c)(ii)](https://www.legislation.gov.uk/uksi/2016/280/article/9/5/c/ii)
+[^c-7a5d2736ecdb5b9e99540d7feb847121]: Textual amendment: Words in Sch. 2 para. 4(2)(b) omitted (6.4.2016) by virtue of [The Disease Control (England) (Amendment) Order 2016 (S.I. 2016/280)](https://www.legislation.gov.uk/uksi/2016/280), [arts. 1](https://www.legislation.gov.uk/uksi/2016/280/article/1), [9(5)(c)(ii)](https://www.legislation.gov.uk/uksi/2016/280/article/9/5/c/ii)
 
-[^key-f9df8bbb5fae7d6a45e45c998706114c]: Textual amendment: Sch. 2 para. 6(2)(c) revoked (30.11.2005) by [The Sheep and Goats (Records, Identification and Movement) (England) Order 2005 (S.I. 2005/3100)](https://www.legislation.gov.uk/uksi/2005/3100), [arts. 1(c)](https://www.legislation.gov.uk/uksi/2005/3100/article/1/c), [36(4)(a)](https://www.legislation.gov.uk/uksi/2005/3100/article/36/4/a)
+[^c-f9df8bbb5fae7d6a45e45c998706114c]: Textual amendment: Sch. 2 para. 6(2)(c) revoked (30.11.2005) by [The Sheep and Goats (Records, Identification and Movement) (England) Order 2005 (S.I. 2005/3100)](https://www.legislation.gov.uk/uksi/2005/3100), [arts. 1(c)](https://www.legislation.gov.uk/uksi/2005/3100/article/1/c), [36(4)(a)](https://www.legislation.gov.uk/uksi/2005/3100/article/36/4/a)
 
-[^key-2fcd042c1a195dc3ad4c503836259833]: Textual amendment: Sch. 2 para. 7(2)(b) revoked (30.11.2005) by [The Sheep and Goats (Records, Identification and Movement) (England) Order 2005 (S.I. 2005/3100)](https://www.legislation.gov.uk/uksi/2005/3100), [arts. 1(c)](https://www.legislation.gov.uk/uksi/2005/3100/article/1/c), [36(4)(a)](https://www.legislation.gov.uk/uksi/2005/3100/article/36/4/a)
+[^c-2fcd042c1a195dc3ad4c503836259833]: Textual amendment: Sch. 2 para. 7(2)(b) revoked (30.11.2005) by [The Sheep and Goats (Records, Identification and Movement) (England) Order 2005 (S.I. 2005/3100)](https://www.legislation.gov.uk/uksi/2005/3100), [arts. 1(c)](https://www.legislation.gov.uk/uksi/2005/3100/article/1/c), [36(4)(a)](https://www.legislation.gov.uk/uksi/2005/3100/article/36/4/a)
 
-[^key-939dd23dac4389261e8f46bcbb678122]: Textual amendment: Words in [Sch. 2 para. 7(2)(c)](https://www.legislation.gov.uk/uksi/2003/1729/schedule/2/paragraph/7/2/c) substituted (6.4.2016) by [The Disease Control (England) (Amendment) Order 2016 (S.I. 2016/280)](https://www.legislation.gov.uk/uksi/2016/280), [arts. 1](https://www.legislation.gov.uk/uksi/2016/280/article/1), [9(6)](https://www.legislation.gov.uk/uksi/2016/280/article/9/6)
+[^c-939dd23dac4389261e8f46bcbb678122]: Textual amendment: Words in [Sch. 2 para. 7(2)(c)](https://www.legislation.gov.uk/uksi/2003/1729/schedule/2/paragraph/7/2/c) substituted (6.4.2016) by [The Disease Control (England) (Amendment) Order 2016 (S.I. 2016/280)](https://www.legislation.gov.uk/uksi/2016/280), [arts. 1](https://www.legislation.gov.uk/uksi/2016/280/article/1), [9(6)](https://www.legislation.gov.uk/uksi/2016/280/article/9/6)
 
-[^key-5497e0ef29cb1972238ef8212a0ec1b4]: Textual amendment: Sch. 2 para. 8(2)(a) revoked (30.11.2005) by [The Sheep and Goats (Records, Identification and Movement) (England) Order 2005 (S.I. 2005/3100)](https://www.legislation.gov.uk/uksi/2005/3100), [arts. 1(c)](https://www.legislation.gov.uk/uksi/2005/3100/article/1/c), [36(4)(a)](https://www.legislation.gov.uk/uksi/2005/3100/article/36/4/a)
+[^c-5497e0ef29cb1972238ef8212a0ec1b4]: Textual amendment: Sch. 2 para. 8(2)(a) revoked (30.11.2005) by [The Sheep and Goats (Records, Identification and Movement) (England) Order 2005 (S.I. 2005/3100)](https://www.legislation.gov.uk/uksi/2005/3100), [arts. 1(c)](https://www.legislation.gov.uk/uksi/2005/3100/article/1/c), [36(4)(a)](https://www.legislation.gov.uk/uksi/2005/3100/article/36/4/a)
 
-[^key-39f114183dc47d47bb2f7c11a053186d]: Textual amendment: Words in [Sch. 2 para. 8(2)(b)](https://www.legislation.gov.uk/uksi/2003/1729/schedule/2/paragraph/8/2/b) substituted (6.4.2016) by [The Disease Control (England) (Amendment) Order 2016 (S.I. 2016/280)](https://www.legislation.gov.uk/uksi/2016/280), [arts. 1](https://www.legislation.gov.uk/uksi/2016/280/article/1), [9(6)](https://www.legislation.gov.uk/uksi/2016/280/article/9/6)
+[^c-39f114183dc47d47bb2f7c11a053186d]: Textual amendment: Words in [Sch. 2 para. 8(2)(b)](https://www.legislation.gov.uk/uksi/2003/1729/schedule/2/paragraph/8/2/b) substituted (6.4.2016) by [The Disease Control (England) (Amendment) Order 2016 (S.I. 2016/280)](https://www.legislation.gov.uk/uksi/2016/280), [arts. 1](https://www.legislation.gov.uk/uksi/2016/280/article/1), [9(6)](https://www.legislation.gov.uk/uksi/2016/280/article/9/6)
 
 [^f00016]: Footnote: S.I. [2003/1279](https://www.legislation.gov.uk/uksi/2003/1279).
 

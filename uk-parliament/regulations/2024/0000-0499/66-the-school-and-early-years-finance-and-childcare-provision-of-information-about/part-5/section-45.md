@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Information to be provided under the Childcare (Provision of Information About Young Children) Regulations 2009[^key-e5b6586a5d9bce50a460f1ed3003b998][^key-3ecdc1182ab3db80470ff44dd274cc18]
+## 45. Information to be provided under the Childcare (Provision of Information About Young Children) Regulations 2009[^c-e5b6586a5d9bce50a460f1ed3003b998][^c-3ecdc1182ab3db80470ff44dd274cc18]
 
 *Extent: E+W*
 
-(1)[^key-e5b6586a5d9bce50a460f1ed3003b998] The Childcare (Provision of Information About Young Children) Regulations 2009[^f00093] are amended as follows.
+(1)[^c-e5b6586a5d9bce50a460f1ed3003b998] The Childcare (Provision of Information About Young Children) Regulations 2009[^f00093] are amended as follows.
 
-(2)[^key-e5b6586a5d9bce50a460f1ed3003b998] In regulation 2 (interpretation) —
+(2)[^c-e5b6586a5d9bce50a460f1ed3003b998] In regulation 2 (interpretation) —
 
 - (a) for ““the 2017 Regulations”” and the associated definition, substitute—
 
@@ -34,8 +34,8 @@ summary: ''
 
 (3) In the Schedule—
 
-- (a)[^key-3ecdc1182ab3db80470ff44dd274cc18] omit paragraphs 10 to 11;
-- (b)[^key-3ecdc1182ab3db80470ff44dd274cc18] for paragraph 12 substitute—
+- (a)[^c-3ecdc1182ab3db80470ff44dd274cc18] omit paragraphs 10 to 11;
+- (b)[^c-3ecdc1182ab3db80470ff44dd274cc18] for paragraph 12 substitute—
 
   > **12.** (1) The number of weeks during the funding period in which the child is expected to receive at least one hour of funded early years provision pursuant to each of the entitlements separately.
   >
@@ -64,7 +64,7 @@ summary: ''
   > - (f) “**a specified week**” means a week (and may include more than one week) specified in a request for information mentioned in regulation 4(1) or (2) or 4A(1)
 
   ; and
-- (c)[^key-e5b6586a5d9bce50a460f1ed3003b998] in paragraph 14—
+- (c)[^c-e5b6586a5d9bce50a460f1ed3003b998] in paragraph 14—
   - (i) omit sub-paragraphs (2) and (3); and
   - (ii) insert—
 
@@ -74,8 +74,8 @@ summary: ''
 
 ## Annotations
 
-[^key-e5b6586a5d9bce50a460f1ed3003b998]: Commencement: Reg. 45(1)(2)(3)(c) in force at 13.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/66/regulation/1/2)
+[^c-e5b6586a5d9bce50a460f1ed3003b998]: Commencement: Reg. 45(1)(2)(3)(c) in force at 13.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/66/regulation/1/2)
 
-[^key-3ecdc1182ab3db80470ff44dd274cc18]: Commencement: [Reg. 45(3)(a)](https://www.legislation.gov.uk/uksi/2024/66/regulation/45/3/a)[(b)](https://www.legislation.gov.uk/uksi/2024/66/regulation/45/3/b) in force at 1.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/66/regulation/1/2)
+[^c-3ecdc1182ab3db80470ff44dd274cc18]: Commencement: [Reg. 45(3)(a)](https://www.legislation.gov.uk/uksi/2024/66/regulation/45/3/a)[(b)](https://www.legislation.gov.uk/uksi/2024/66/regulation/45/3/b) in force at 1.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/66/regulation/1/2)
 
 [^f00093]: Footnote: [S.I. 2009/1554](https://www.legislation.gov.uk/uksi/2009/1554), amended by [S.I. 2010/1836](https://www.legislation.gov.uk/uksi/2010/1836), [2012/765](https://www.legislation.gov.uk/uksi/2012/765), [2014/2103](https://www.legislation.gov.uk/uksi/2014/2103) and [3197](https://www.legislation.gov.uk/uksi/2014/3197), [2015/1696](https://www.legislation.gov.uk/uksi/2015/1696) and [2017/461](https://www.legislation.gov.uk/uksi/2017/461).

@@ -33,18 +33,18 @@ of 9 November 2012
 
 establishing the standard import values for determining the entry price of certain fruit and vegetables (revoked)
 
-[^key-c44a28d1c14172f2745f8c41a24589ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c44a28d1c14172f2745f8c41a24589ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-c44a28d1c14172f2745f8c41a24589ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-c44a28d1c14172f2745f8c41a24589ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-c44a28d1c14172f2745f8c41a24589ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-c44a28d1c14172f2745f8c41a24589ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c44a28d1c14172f2745f8c41a24589ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c44a28d1c14172f2745f8c41a24589ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX — Standard import values for determining the entry price of certain fruit and vegetables[^key-c44a28d1c14172f2745f8c41a24589ba]
+## ANNEX — Standard import values for determining the entry price of certain fruit and vegetables[^c-c44a28d1c14172f2745f8c41a24589ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c44a28d1c14172f2745f8c41a24589ba]: Textual amendment: Regulation revoked (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 37 para. 1(d)](https://www.legislation.gov.uk/uksi/2019/696/schedule/37/paragraph/1/d) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2020/676/regulation/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c44a28d1c14172f2745f8c41a24589ba]: Textual amendment: Regulation revoked (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 37 para. 1(d)](https://www.legislation.gov.uk/uksi/2019/696/schedule/37/paragraph/1/d) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2020/676/regulation/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

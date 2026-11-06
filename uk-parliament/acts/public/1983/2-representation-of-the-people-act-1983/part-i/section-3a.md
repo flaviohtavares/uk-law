@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3A. Disfranchisement of offenders detained in mental hospitals.[^key-56beaf61fcaabc9dd7c0f86206a065e8][^c14478261]
+## 3A. Disfranchisement of offenders detained in mental hospitals.[^c-56beaf61fcaabc9dd7c0f86206a065e8][^c14478261]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,7 +59,7 @@ legally incapable of voting at any parliamentary or local government election.
 
 ## Annotations
 
-[^key-56beaf61fcaabc9dd7c0f86206a065e8]: Modification: [S. 3A](https://www.legislation.gov.uk/ukpga/1983/2/section/3A) modified (temp.) (S.) (19.11.2025) by [The Representation of the People Act 1983 Remedial (Scotland) Order 2025 (S.S.I. 2025/353)](https://www.legislation.gov.uk/ssi/2025/353), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2025/353/article/1/1), [3](https://www.legislation.gov.uk/ssi/2025/353/article/3) (with [arts. 1(3)](https://www.legislation.gov.uk/ssi/2025/353/article/1/3), [2](https://www.legislation.gov.uk/ssi/2025/353/article/2), [8](https://www.legislation.gov.uk/ssi/2025/353/article/8))
+[^c-56beaf61fcaabc9dd7c0f86206a065e8]: Modification: [S. 3A](https://www.legislation.gov.uk/ukpga/1983/2/section/3A) modified (temp.) (S.) (19.11.2025) by [The Representation of the People Act 1983 Remedial (Scotland) Order 2025 (S.S.I. 2025/353)](https://www.legislation.gov.uk/ssi/2025/353), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2025/353/article/1/1), [3](https://www.legislation.gov.uk/ssi/2025/353/article/3) (with [arts. 1(3)](https://www.legislation.gov.uk/ssi/2025/353/article/1/3), [2](https://www.legislation.gov.uk/ssi/2025/353/article/2), [8](https://www.legislation.gov.uk/ssi/2025/353/article/8))
 
 [^c14478261]: Textual amendment: S. 3A inserted (29.1.2001 for certain purposes and 16.2.2001 otherwise) by [2000 c. 2](https://www.legislation.gov.uk/ukpga/2000/2), [s. 2](https://www.legislation.gov.uk/ukpga/2000/2/section/2); [S.I. 2001/116](https://www.legislation.gov.uk/uksi/2001/116), [art. 2(1)(2)](https://www.legislation.gov.uk/uksi/2001/116/article/2/1/2) (with [art. 2(4)](https://www.legislation.gov.uk/uksi/2001/116/article/2/4))
 

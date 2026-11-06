@@ -39,7 +39,7 @@ consists only of remuneration which is reasonable remuneration for services rend
 - (a) connected with the issuing company, or
 - (b) involved in carrying on (whether on the investor's own account or as a partner, director or employee) the whole or any part of the trade, business or profession carried on by the issuing company or a subsidiary of that company.
 
-(4) Condition C is that, if the issue of the relevant shares did not meet condition B, they were issued before —[^key-f6ebdcc1303ab0085848f2f85a8cc288]
+(4) Condition C is that, if the issue of the relevant shares did not meet condition B, they were issued before —[^c-f6ebdcc1303ab0085848f2f85a8cc288]
 
 - (a) the termination date relating to the latest issue of shares which met that condition, or
 - (b) if that issue is an issue in respect of which the investor is eligible for SEIS relief (within the meaning of Part 5A), before the date specified in section 257AC(4) in relation to the shares.
@@ -50,4 +50,4 @@ consists only of remuneration which is reasonable remuneration for services rend
 
 ## Annotations
 
-[^key-f6ebdcc1303ab0085848f2f85a8cc288]: Textual amendment: Words in s. 169(4) substituted (17.7.2012) (with effect in accordance with Sch. 6 para. 24(1) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 6 para. 10](https://www.legislation.gov.uk/ukpga/2012/14/schedule/6/paragraph/10)
+[^c-f6ebdcc1303ab0085848f2f85a8cc288]: Textual amendment: Words in s. 169(4) substituted (17.7.2012) (with effect in accordance with Sch. 6 para. 24(1) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 6 para. 10](https://www.legislation.gov.uk/ukpga/2012/14/schedule/6/paragraph/10)

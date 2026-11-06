@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 52. Interpretation and application of this Part[^key-e252443976418bfd99e5bb4a58154b23]
+## 52. Interpretation and application of this Part[^c-e252443976418bfd99e5bb4a58154b23]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e252443976418bfd99e5bb4a58154b23]: Commencement: [S. 52](https://www.legislation.gov.uk/nia/2014/8/section/52) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
+[^c-e252443976418bfd99e5bb4a58154b23]: Commencement: [S. 52](https://www.legislation.gov.uk/nia/2014/8/section/52) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)

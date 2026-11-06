@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 137. Public rights of way: statutory undertakers' apparatus etc.[^key-b881280c13c6ebcc67df5a9f40aec9d2]
+## 137. Public rights of way: statutory undertakers' apparatus etc.[^c-b881280c13c6ebcc67df5a9f40aec9d2]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b881280c13c6ebcc67df5a9f40aec9d2]: Textual amendment: S. 137 repealed (25.6.2013) by [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [ss. 23(3)](https://www.legislation.gov.uk/ukpga/2013/27/section/23/3), [35(1)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/1); [S.I. 2013/1124](https://www.legislation.gov.uk/uksi/2013/1124), [art. 4(b)](https://www.legislation.gov.uk/uksi/2013/1124/article/4/b) (with [art. 6](https://www.legislation.gov.uk/uksi/2013/1124/article/6))
+[^c-b881280c13c6ebcc67df5a9f40aec9d2]: Textual amendment: S. 137 repealed (25.6.2013) by [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [ss. 23(3)](https://www.legislation.gov.uk/ukpga/2013/27/section/23/3), [35(1)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/1); [S.I. 2013/1124](https://www.legislation.gov.uk/uksi/2013/1124), [art. 4(b)](https://www.legislation.gov.uk/uksi/2013/1124/article/4/b) (with [art. 6](https://www.legislation.gov.uk/uksi/2013/1124/article/6))

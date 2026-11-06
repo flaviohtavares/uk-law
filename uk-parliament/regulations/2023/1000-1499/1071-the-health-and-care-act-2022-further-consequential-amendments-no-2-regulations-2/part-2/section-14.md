@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Amendment of the Adoption Support Services (Local Authorities) (Wales) Regulations 2005 (Welsh language text)[^key-2f5413350a9d75b49565412ac8a068e8]
+## 14. Amendment of the Adoption Support Services (Local Authorities) (Wales) Regulations 2005 (Welsh language text)[^c-2f5413350a9d75b49565412ac8a068e8]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2f5413350a9d75b49565412ac8a068e8]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2023/1071/regulation/14) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-2f5413350a9d75b49565412ac8a068e8]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2023/1071/regulation/14) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 196. Restriction on letting while initial notice in force[^key-20face71d29612c0f6c7dfe84c039947][^key-3f04877fdd070ba7ed670ee3acdefdc4]
+## 196. Restriction on letting while initial notice in force[^c-20face71d29612c0f6c7dfe84c039947][^c-3f04877fdd070ba7ed670ee3acdefdc4]
 
 *Extent: E+W*
 
@@ -44,6 +44,6 @@ without the written consent of the local authority that served the notice.
 
 ## Annotations
 
-[^key-20face71d29612c0f6c7dfe84c039947]: Commencement: S. 196 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
+[^c-20face71d29612c0f6c7dfe84c039947]: Commencement: S. 196 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
 
-[^key-3f04877fdd070ba7ed670ee3acdefdc4]: Commencement: [S. 196](https://www.legislation.gov.uk/ukpga/2023/55/section/196) in force at 2.12.2024 by [S.I. 2024/1138](https://www.legislation.gov.uk/uksi/2024/1138), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/1138/regulation/2/a)
+[^c-3f04877fdd070ba7ed670ee3acdefdc4]: Commencement: [S. 196](https://www.legislation.gov.uk/ukpga/2023/55/section/196) in force at 2.12.2024 by [S.I. 2024/1138](https://www.legislation.gov.uk/uksi/2024/1138), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/1138/regulation/2/a)

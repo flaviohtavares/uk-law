@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-69328c574e04e8911349554b01fcb228] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-69328c574e04e8911349554b01fcb228] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In the [^c13100731]Children Act 1989, Schedules 5 and 6 (which provide for the regulation of voluntary homes and registered childrens’ homes respectively) shall be amended as follows, that is to say—
 
@@ -39,12 +39,12 @@ summary: ''
 
     .
 
-(3)[^key-70afdeef4598e0b3d11902790fbd55ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-70afdeef4598e0b3d11902790fbd55ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-69328c574e04e8911349554b01fcb228]: Textual amendment: [S. 19(1)](https://www.legislation.gov.uk/ukpga/1994/33/section/19/1) omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 12 para. 34](https://www.legislation.gov.uk/ukpga/2012/10/schedule/12/paragraph/34); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(j)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/j) (with [art. 7(2)](https://www.legislation.gov.uk/uksi/2012/2906/article/7/2)[(3)](https://www.legislation.gov.uk/uksi/2012/2906/article/7/3))
+[^c-69328c574e04e8911349554b01fcb228]: Textual amendment: [S. 19(1)](https://www.legislation.gov.uk/ukpga/1994/33/section/19/1) omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 12 para. 34](https://www.legislation.gov.uk/ukpga/2012/10/schedule/12/paragraph/34); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(j)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/j) (with [art. 7(2)](https://www.legislation.gov.uk/uksi/2012/2906/article/7/2)[(3)](https://www.legislation.gov.uk/uksi/2012/2906/article/7/3))
 
 [^c13100731]: Marginal citation: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41).
 
-[^key-70afdeef4598e0b3d11902790fbd55ac]: Textual amendment: [S. 19(3)](https://www.legislation.gov.uk/ukpga/1994/33/section/19/3) omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 12 para. 34](https://www.legislation.gov.uk/ukpga/2012/10/schedule/12/paragraph/34); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(j)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/j) (with [art. 7(2)](https://www.legislation.gov.uk/uksi/2012/2906/article/7/2)[(3)](https://www.legislation.gov.uk/uksi/2012/2906/article/7/3))
+[^c-70afdeef4598e0b3d11902790fbd55ac]: Textual amendment: [S. 19(3)](https://www.legislation.gov.uk/ukpga/1994/33/section/19/3) omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 12 para. 34](https://www.legislation.gov.uk/ukpga/2012/10/schedule/12/paragraph/34); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(j)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/j) (with [art. 7(2)](https://www.legislation.gov.uk/uksi/2012/2906/article/7/2)[(3)](https://www.legislation.gov.uk/uksi/2012/2906/article/7/3))

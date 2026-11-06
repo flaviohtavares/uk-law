@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 21. Application of various Articles of the Order[^key-7fd6bddd9c30049635f073ee0fba8fe2]
+## 21. Application of various Articles of the Order[^c-7fd6bddd9c30049635f073ee0fba8fe2]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ The following provisions of the Order shall apply for the purposes of these Regu
 
 ## Annotations
 
-[^key-7fd6bddd9c30049635f073ee0fba8fe2]: Commencement: Reg. 21 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
+[^c-7fd6bddd9c30049635f073ee0fba8fe2]: Commencement: Reg. 21 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)

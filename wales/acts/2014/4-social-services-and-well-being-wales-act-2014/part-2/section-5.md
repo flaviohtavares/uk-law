@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Well-being duty[^key-44b2129c8ef59d463dbe6523b3ff4c78]
+## 5. Well-being duty[^c-44b2129c8ef59d463dbe6523b3ff4c78]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ A person exercising functions under this Act must seek to promote the well-being
 
 ## Annotations
 
-[^key-44b2129c8ef59d463dbe6523b3ff4c78]: Commencement: S. 5 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
+[^c-44b2129c8ef59d463dbe6523b3ff4c78]: Commencement: S. 5 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))

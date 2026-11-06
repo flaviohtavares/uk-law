@@ -50,7 +50,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 ## PART 1 — Introductory
 
-### 1. Citation, commencement, extent and application[^key-a6b64f655d8732e0536a6a9c26868c8f]
+### 1. Citation, commencement, extent and application[^c-a6b64f655d8732e0536a6a9c26868c8f]
 
 (1) These Regulations may be cited as the Education (Student Fees, Awards and Support) (Amendment) Regulations 2022 and come into force on 15th February 2022.
 
@@ -62,13 +62,13 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 ### CHAPTER 1 — Introductory
 
-#### 2. Amendment of the Education (Student Support) Regulations 2011[^key-bfa644eff45f7ccc414ccb824f673e38]
+#### 2. Amendment of the Education (Student Support) Regulations 2011[^c-bfa644eff45f7ccc414ccb824f673e38]
 
 The Education (Student Support) Regulations 2011[^f00004] are amended as follows.
 
 ### CHAPTER 2 — Relocated Afghan citizens
 
-#### 3. Eligibility of relocated Afghan citizens[^key-c724c8e9c3040ec264ce440a15c01e3a]
+#### 3. Eligibility of relocated Afghan citizens[^c-c724c8e9c3040ec264ce440a15c01e3a]
 
 In regulation 2(1)—
 
@@ -87,27 +87,27 @@ In regulation 2(1)—
   - (ii) in paragraph (a)(i) for “276BB1(iv)” substitute “276BB1(iii)(a)”;
   - (iii) in paragraph (a)(iv) for “276BJ1 or 276BO1” substitute “276BJ2 or 276BO2”.
 
-**4.**[^key-e00e121ccdae19dbd6f3ce2cd3054ea8] In regulation 4(13C)[^f00008], in the opening words of sub-paragraph (a) and in sub-paragraph (b), for “the Afghan Relocations and Assistance Scheme” substitute “one of the Afghan Schemes”.
+**4.**[^c-e00e121ccdae19dbd6f3ce2cd3054ea8] In regulation 4(13C)[^f00008], in the opening words of sub-paragraph (a) and in sub-paragraph (b), for “the Afghan Relocations and Assistance Scheme” substitute “one of the Afghan Schemes”.
 
-**5.**[^key-b7f96e6207832056dc83fefc90dd955e] In regulation 17(n)[^f00009] for “the Afghan Relocations and Assistance Scheme” substitute “one of the Afghan Schemes”.
+**5.**[^c-b7f96e6207832056dc83fefc90dd955e] In regulation 17(n)[^f00009] for “the Afghan Relocations and Assistance Scheme” substitute “one of the Afghan Schemes”.
 
-**6.**[^key-b1f51b29aa9b2ea294d82b22c4fa3894] In regulation 85(2)(m)[^f00010] for “the Afghan Relocations and Assistance Scheme” substitute “one of the Afghan Schemes”.
+**6.**[^c-b1f51b29aa9b2ea294d82b22c4fa3894] In regulation 85(2)(m)[^f00010] for “the Afghan Relocations and Assistance Scheme” substitute “one of the Afghan Schemes”.
 
-**7.**[^key-2bee6fdf3888d805dffe4b18699b2f30] In regulation 137(11C)[^f00011], in the opening words of sub-paragraph (a) and in sub-paragraph (b), for “the Afghan Relocations and Assistance Scheme” substitute “one of the Afghan Schemes”.
+**7.**[^c-2bee6fdf3888d805dffe4b18699b2f30] In regulation 137(11C)[^f00011], in the opening words of sub-paragraph (a) and in sub-paragraph (b), for “the Afghan Relocations and Assistance Scheme” substitute “one of the Afghan Schemes”.
 
-**8.**[^key-559270488fa6140925fe9edea08ff7d3] In regulation 138(4)(o)[^f00012] for “the Afghan Relocations and Assistance Scheme” substitute “one of the Afghan Schemes”.
+**8.**[^c-559270488fa6140925fe9edea08ff7d3] In regulation 138(4)(o)[^f00012] for “the Afghan Relocations and Assistance Scheme” substitute “one of the Afghan Schemes”.
 
-**9.**[^key-2b8bac0d63d5d191c6c539568706b4d6] In regulation 138A(2)(m)[^f00013] for “the Afghan Relocations and Assistance Scheme” substitute “one of the Afghan Schemes”.
+**9.**[^c-2b8bac0d63d5d191c6c539568706b4d6] In regulation 138A(2)(m)[^f00013] for “the Afghan Relocations and Assistance Scheme” substitute “one of the Afghan Schemes”.
 
-**10.**[^key-9889d5847426c567552d14e10e84fb89] In regulation 159(16C)[^f00014], in the opening words of sub-paragraph (a) and in sub-paragraph (b), for “the Afghan Relocations and Assistance Scheme” substitute “one of the Afghan Schemes”.
+**10.**[^c-9889d5847426c567552d14e10e84fb89] In regulation 159(16C)[^f00014], in the opening words of sub-paragraph (a) and in sub-paragraph (b), for “the Afghan Relocations and Assistance Scheme” substitute “one of the Afghan Schemes”.
 
-**11.**[^key-8f318c6e09e2a3c0920e165f14ba8afe] In regulation 160(2)(m)[^f00015] for “the Afghan Relocations and Assistance Scheme” substitute “one of the Afghan Schemes”.
+**11.**[^c-8f318c6e09e2a3c0920e165f14ba8afe] In regulation 160(2)(m)[^f00015] for “the Afghan Relocations and Assistance Scheme” substitute “one of the Afghan Schemes”.
 
-**12.**[^key-9afc1fc25ccd23bae4faafe495021162] In Schedule 1, in paragraph 14 and in the heading to that paragraph, for “the Afghan Relocations and Assistance Scheme” substitute “one of the Afghan Schemes”.
+**12.**[^c-9afc1fc25ccd23bae4faafe495021162] In Schedule 1, in paragraph 14 and in the heading to that paragraph, for “the Afghan Relocations and Assistance Scheme” substitute “one of the Afghan Schemes”.
 
 ### CHAPTER 3 — Overpayments
 
-#### 13. Recovery of fee loans[^key-443f36f1099c5e97a44a8350d06d7228]
+#### 13. Recovery of fee loans[^c-443f36f1099c5e97a44a8350d06d7228]
 
 In regulation 117[^f00016], after paragraph (1A), insert—
 
@@ -115,7 +115,7 @@ In regulation 117[^f00016], after paragraph (1A), insert—
 
 .
 
-**14.**[^key-d72bd75eccd6db329e83d644792720e0] In regulation 157[^f00017], after paragraph (1A), insert—
+**14.**[^c-d72bd75eccd6db329e83d644792720e0] In regulation 157[^f00017], after paragraph (1A), insert—
 
 > (1B) An academic authority must, if so required by the Secretary of State, repay any amount of a fee loan paid to the academic authority in respect of a student which for whatever reason exceeds the amount of a fee loan to which the student is entitled.
 
@@ -127,13 +127,13 @@ In regulation 117[^f00016], after paragraph (1A), insert—
 
 #### SECTION 1 — Introductory
 
-##### 15. Amendment of the Education (Fees and Awards) (England) Regulations 2007[^key-bdda73a96f073b6906688eb12fced116]
+##### 15. Amendment of the Education (Fees and Awards) (England) Regulations 2007[^c-bdda73a96f073b6906688eb12fced116]
 
 The Education (Fees and Awards) (England) Regulations 2007[^f00018] are amended as follows.
 
 #### SECTION 2 — Relocated Afghan citizens
 
-##### 16. Relocated Afghan citizens: fees and awards[^key-a4e72d4c819a94c496b988ab866193f5]
+##### 16. Relocated Afghan citizens: fees and awards[^c-a4e72d4c819a94c496b988ab866193f5]
 
 In Schedule 1[^f00019]—
 
@@ -158,13 +158,13 @@ In Schedule 1[^f00019]—
 
 #### SECTION 1 — Introductory
 
-##### 17. Amendment of the Education (Student Support) (European University Institute) Regulations 2010[^key-631115294b7daf43d10fa6e173e4250c]
+##### 17. Amendment of the Education (Student Support) (European University Institute) Regulations 2010[^c-631115294b7daf43d10fa6e173e4250c]
 
 The Education (Student Support) (European University Institute) Regulations 2010[^f00021] are amended as follows.
 
 #### SECTION 2 — Relocated Afghan citizens
 
-##### 18. Eligibility of relocated Afghan citizens[^key-a8ad52822e58316b2dbf0eb5ce35507b]
+##### 18. Eligibility of relocated Afghan citizens[^c-a8ad52822e58316b2dbf0eb5ce35507b]
 
 (1) In regulation 9(11C)[^f00022], in the opening words of sub-paragraph (a), and in sub-paragraph (b), for “the Afghan Relocations and Assistance Scheme” substitute “one of the Afghan Schemes, as that expression is defined in paragraph 1(1) of Schedule 1”.
 
@@ -191,13 +191,13 @@ The Education (Student Support) (European University Institute) Regulations 2010
 
 #### SECTION 1 — Introductory
 
-##### 19. Amendment of the Further Education Loans Regulations 2012[^key-8a2477cc0b62368f338a4b90fcd4be96]
+##### 19. Amendment of the Further Education Loans Regulations 2012[^c-8a2477cc0b62368f338a4b90fcd4be96]
 
 The Further Education Loans Regulations 2012[^f00023] are amended as follows.
 
 #### SECTION 2 — Relocated Afghan citizens
 
-##### 20. Eligibility of relocated Afghan citizens: further education loans[^key-eddd489ee8ae1663754e522f5cdcc4b5]
+##### 20. Eligibility of relocated Afghan citizens: further education loans[^c-eddd489ee8ae1663754e522f5cdcc4b5]
 
 (1) In regulation 2(1)[^f00024]—
 
@@ -224,7 +224,7 @@ The Further Education Loans Regulations 2012[^f00023] are amended as follows.
 
 #### SECTION 3 — Overpayments
 
-##### 21. Recovery of fee loans[^key-5bd9ba9b1068349de8888cd7044977dc]
+##### 21. Recovery of fee loans[^c-5bd9ba9b1068349de8888cd7044977dc]
 
 In regulation 24, after paragraph (1) insert—
 
@@ -238,13 +238,13 @@ In regulation 24, after paragraph (1) insert—
 
 #### SECTION 1 — Introductory
 
-##### 22. Amendment of the Education (Postgraduate Master’s Degree Loans) Regulations 2016[^key-c05a911bc17e54ac1727dead91defa40]
+##### 22. Amendment of the Education (Postgraduate Master’s Degree Loans) Regulations 2016[^c-c05a911bc17e54ac1727dead91defa40]
 
 The Education (Postgraduate Master’s Degree Loans) Regulations 2016[^f00026] are amended as follows.
 
 #### SECTION 2 — Relocated Afghan citizens
 
-##### 23. Eligibility of relocated Afghan citizens: Master’s degrees[^key-4777582fc9c85e89f590d3cde437d1d9]
+##### 23. Eligibility of relocated Afghan citizens: Master’s degrees[^c-4777582fc9c85e89f590d3cde437d1d9]
 
 (1) In regulation 2(1)[^f00027]—
 
@@ -269,7 +269,7 @@ The Education (Postgraduate Master’s Degree Loans) Regulations 2016[^f00026] a
 
 #### SECTION 3 — Overpayments
 
-##### 24. Recovery of postgraduate master’s degree loans[^key-bffbf251828411531c65d5f7e4df9cf1]
+##### 24. Recovery of postgraduate master’s degree loans[^c-bffbf251828411531c65d5f7e4df9cf1]
 
 In regulation 17, after paragraph (2), insert—
 
@@ -281,13 +281,13 @@ In regulation 17, after paragraph (2), insert—
 
 #### SECTION 1 — Introductory
 
-##### 25. Amendment of the Higher Education (Fee Limit Condition) (England) Regulations 2017[^key-50044fb431a54cf167c2a90feddbef64]
+##### 25. Amendment of the Higher Education (Fee Limit Condition) (England) Regulations 2017[^c-50044fb431a54cf167c2a90feddbef64]
 
 The Higher Education (Fee Limit Condition) (England) Regulations 2017[^f00029] are amended as follows.
 
 #### SECTION 2 — Relocated Afghan citizens
 
-##### 26. Relocated Afghan citizens: fee limit condition[^key-9c96293beb27a2d9b41ce37102f8830a]
+##### 26. Relocated Afghan citizens: fee limit condition[^c-9c96293beb27a2d9b41ce37102f8830a]
 
 (1) In regulation 2[^f00030]—
 
@@ -314,13 +314,13 @@ The Higher Education (Fee Limit Condition) (England) Regulations 2017[^f00029] a
 
 #### SECTION 1 — Introductory
 
-##### 27. Amendment of the Education (Postgraduate Doctoral Degree Loans and the Education (Student Loans) (Repayment) (Amendment) (No 2) etc.) Regulations 2018[^key-b66f7bb785e7206309a42d8f3deeeaa7]
+##### 27. Amendment of the Education (Postgraduate Doctoral Degree Loans and the Education (Student Loans) (Repayment) (Amendment) (No 2) etc.) Regulations 2018[^c-b66f7bb785e7206309a42d8f3deeeaa7]
 
 The Education (Postgraduate Doctoral Degree Loans and the Education (Student Loans) (Repayment) (Amendment) (No 2) etc.) Regulations 2018[^f00031] are amended as follows.
 
 #### SECTION 2 — Relocated Afghan citizens
 
-##### 28. Relocated Afghan citizens: Doctoral degrees[^key-65890cc159a1f78a7284bf875e5e6f5e]
+##### 28. Relocated Afghan citizens: Doctoral degrees[^c-65890cc159a1f78a7284bf875e5e6f5e]
 
 (1) In regulation 2(1)[^f00032]—
 
@@ -345,7 +345,7 @@ The Education (Postgraduate Doctoral Degree Loans and the Education (Student Loa
 
 #### SECTION 3 — Overpayments
 
-##### 29. Recovery of postgraduate doctoral degree loans[^key-c1651673a19e7f8c7c2d53dc755b3f9b]
+##### 29. Recovery of postgraduate doctoral degree loans[^c-c1651673a19e7f8c7c2d53dc755b3f9b]
 
 In regulation 17, after paragraph (2), insert—
 
@@ -392,13 +392,13 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00003]: Footnote: [2017 c. 29](https://www.legislation.gov.uk/ukpga/2017/29). See section 10(9) for the definition of “prescribed”.
 
-[^key-a6b64f655d8732e0536a6a9c26868c8f]: Commencement: Reg. 1 in force at 15.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/57/regulation/1/1)
+[^c-a6b64f655d8732e0536a6a9c26868c8f]: Commencement: Reg. 1 in force at 15.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/57/regulation/1/1)
 
-[^key-bfa644eff45f7ccc414ccb824f673e38]: Commencement: Reg. 2 in force at 15.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/57/regulation/1/1)
+[^c-bfa644eff45f7ccc414ccb824f673e38]: Commencement: Reg. 2 in force at 15.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/57/regulation/1/1)
 
 [^f00004]: Footnote: [S.I. 2011/1986](https://www.legislation.gov.uk/uksi/2011/1986), amended by [S.I. 2012/1653](https://www.legislation.gov.uk/uksi/2012/1653), [2013/235](https://www.legislation.gov.uk/uksi/2013/235), [630](https://www.legislation.gov.uk/uksi/2013/630), [1728](https://www.legislation.gov.uk/uksi/2013/1728) and [3106](https://www.legislation.gov.uk/uksi/2013/3106), [2014/1766](https://www.legislation.gov.uk/uksi/2014/1766), [2103](https://www.legislation.gov.uk/uksi/2014/2103) and [2765](https://www.legislation.gov.uk/uksi/2014/2765), [2015/1951](https://www.legislation.gov.uk/uksi/2015/1951), [2016/211](https://www.legislation.gov.uk/uksi/2016/211), [270](https://www.legislation.gov.uk/uksi/2016/270) and [584](https://www.legislation.gov.uk/uksi/2016/584), [2017/52](https://www.legislation.gov.uk/uksi/2017/52), [114](https://www.legislation.gov.uk/uksi/2017/114) and [204](https://www.legislation.gov.uk/uksi/2017/204), [2018/136](https://www.legislation.gov.uk/uksi/2018/136), [137](https://www.legislation.gov.uk/uksi/2018/137), [434](https://www.legislation.gov.uk/uksi/2018/434), [443](https://www.legislation.gov.uk/uksi/2018/443), [472](https://www.legislation.gov.uk/uksi/2018/472) and [599](https://www.legislation.gov.uk/uksi/2018/599), [2019/142](https://www.legislation.gov.uk/uksi/2019/142), [983](https://www.legislation.gov.uk/uksi/2019/983) and [1094](https://www.legislation.gov.uk/uksi/2019/1094), [2020/48](https://www.legislation.gov.uk/uksi/2020/48), [1181](https://www.legislation.gov.uk/uksi/2020/1181) and [1203](https://www.legislation.gov.uk/uksi/2020/1203), [2021/127](https://www.legislation.gov.uk/uksi/2021/127), [929](https://www.legislation.gov.uk/uksi/2021/929) and [1348](https://www.legislation.gov.uk/uksi/2021/1348).
 
-[^key-c724c8e9c3040ec264ce440a15c01e3a]: Commencement: Reg. 3 in force at 15.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/57/regulation/1/1)
+[^c-c724c8e9c3040ec264ce440a15c01e3a]: Commencement: Reg. 3 in force at 15.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/57/regulation/1/1)
 
 [^f00005]: Footnote: The definition of “person granted indefinite leave to remain as a victim of domestic violence or domestic abuse” was inserted by [S.I. 2020/48](https://www.legislation.gov.uk/uksi/2020/48).
 
@@ -406,106 +406,106 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00007]: Footnote: Definition inserted by [S.I. 2021/1348](https://www.legislation.gov.uk/uksi/2021/1348).
 
-[^key-e00e121ccdae19dbd6f3ce2cd3054ea8]: Commencement: Reg. 4 in force at 15.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/57/regulation/1/1)
+[^c-e00e121ccdae19dbd6f3ce2cd3054ea8]: Commencement: Reg. 4 in force at 15.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/57/regulation/1/1)
 
 [^f00008]: Footnote: Paragraph (13C) was inserted by [S.I. 2021/1348](https://www.legislation.gov.uk/uksi/2021/1348).
 
-[^key-b7f96e6207832056dc83fefc90dd955e]: Commencement: Reg. 5 in force at 15.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/57/regulation/1/1)
+[^c-b7f96e6207832056dc83fefc90dd955e]: Commencement: Reg. 5 in force at 15.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/57/regulation/1/1)
 
 [^f00009]: Footnote: Paragraph (n) was inserted by [S.I. 2021/1348](https://www.legislation.gov.uk/uksi/2021/1348).
 
-[^key-b1f51b29aa9b2ea294d82b22c4fa3894]: Commencement: Reg. 6 in force at 15.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/57/regulation/1/1)
+[^c-b1f51b29aa9b2ea294d82b22c4fa3894]: Commencement: Reg. 6 in force at 15.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/57/regulation/1/1)
 
 [^f00010]: Footnote: Sub-paragraph (m) was inserted by [S.I. 2021/1348](https://www.legislation.gov.uk/uksi/2021/1348).
 
-[^key-2bee6fdf3888d805dffe4b18699b2f30]: Commencement: Reg. 7 in force at 15.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/57/regulation/1/1)
+[^c-2bee6fdf3888d805dffe4b18699b2f30]: Commencement: Reg. 7 in force at 15.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/57/regulation/1/1)
 
 [^f00011]: Footnote: Paragraph (11C) was inserted by [S.I. 2021/1348](https://www.legislation.gov.uk/uksi/2021/1348).
 
-[^key-559270488fa6140925fe9edea08ff7d3]: Commencement: Reg. 8 in force at 15.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/57/regulation/1/1)
+[^c-559270488fa6140925fe9edea08ff7d3]: Commencement: Reg. 8 in force at 15.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/57/regulation/1/1)
 
 [^f00012]: Footnote: Sub-paragraph (o) was inserted by [S.I. 2021/1348](https://www.legislation.gov.uk/uksi/2021/1348).
 
-[^key-2b8bac0d63d5d191c6c539568706b4d6]: Commencement: Reg. 9 in force at 15.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/57/regulation/1/1)
+[^c-2b8bac0d63d5d191c6c539568706b4d6]: Commencement: Reg. 9 in force at 15.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/57/regulation/1/1)
 
 [^f00013]: Footnote: Regulation 138A was inserted by [S.I. 2018/472](https://www.legislation.gov.uk/uksi/2018/472); paragraph (2) was amended by [S.I. 2021/127](https://www.legislation.gov.uk/uksi/2021/127) and [S.I. 2021/1348](https://www.legislation.gov.uk/uksi/2021/1348).
 
-[^key-9889d5847426c567552d14e10e84fb89]: Commencement: Reg. 10 in force at 15.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/57/regulation/1/1)
+[^c-9889d5847426c567552d14e10e84fb89]: Commencement: Reg. 10 in force at 15.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/57/regulation/1/1)
 
 [^f00014]: Footnote: Paragraph (16C) was inserted by [S.I. 2021/1348](https://www.legislation.gov.uk/uksi/2021/1348).
 
-[^key-8f318c6e09e2a3c0920e165f14ba8afe]: Commencement: Reg. 11 in force at 15.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/57/regulation/1/1)
+[^c-8f318c6e09e2a3c0920e165f14ba8afe]: Commencement: Reg. 11 in force at 15.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/57/regulation/1/1)
 
 [^f00015]: Footnote: Regulation 160(2) was amended by [S.I. 2021/1348](https://www.legislation.gov.uk/uksi/2021/1348).
 
-[^key-9afc1fc25ccd23bae4faafe495021162]: Commencement: Reg. 12 in force at 15.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/57/regulation/1/1)
+[^c-9afc1fc25ccd23bae4faafe495021162]: Commencement: Reg. 12 in force at 15.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/57/regulation/1/1)
 
-[^key-443f36f1099c5e97a44a8350d06d7228]: Commencement: Reg. 13 in force at 15.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/57/regulation/1/1)
+[^c-443f36f1099c5e97a44a8350d06d7228]: Commencement: Reg. 13 in force at 15.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/57/regulation/1/1)
 
 [^f00016]: Footnote: Regulation 117 was amended by [S.I. 2015/1951](https://www.legislation.gov.uk/uksi/2015/1951) and [2020/1203](https://www.legislation.gov.uk/uksi/2020/1203).
 
-[^key-d72bd75eccd6db329e83d644792720e0]: Commencement: Reg. 14 in force at 15.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/57/regulation/1/1)
+[^c-d72bd75eccd6db329e83d644792720e0]: Commencement: Reg. 14 in force at 15.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/57/regulation/1/1)
 
 [^f00017]: Footnote: Regulation 157 was amended by [S.I. 2015/1951](https://www.legislation.gov.uk/uksi/2015/1951) and [2020/1203](https://www.legislation.gov.uk/uksi/2020/1203).
 
-[^key-bdda73a96f073b6906688eb12fced116]: Commencement: Reg. 15 in force at 15.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/57/regulation/1/1)
+[^c-bdda73a96f073b6906688eb12fced116]: Commencement: Reg. 15 in force at 15.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/57/regulation/1/1)
 
 [^f00018]: Footnote: [S.I. 2007/779](https://www.legislation.gov.uk/uksi/2007/779).
 
-[^key-a4e72d4c819a94c496b988ab866193f5]: Commencement: Reg. 16 in force at 15.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/57/regulation/1/1)
+[^c-a4e72d4c819a94c496b988ab866193f5]: Commencement: Reg. 16 in force at 15.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/57/regulation/1/1)
 
 [^f00019]: Footnote: Each of the provisions amended by this regulation were inserted into [S.I. 2007/779](https://www.legislation.gov.uk/uksi/2007/779) by [S.I. 2021/1348](https://www.legislation.gov.uk/uksi/2021/1348).
 
 [^f00020]: Footnote: The definition of “person granted humanitarian protection” was inserted by [S.I. 2011/87](https://www.legislation.gov.uk/uksi/2011/87).
 
-[^key-631115294b7daf43d10fa6e173e4250c]: Commencement: Reg. 17 in force at 15.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/57/regulation/1/1)
+[^c-631115294b7daf43d10fa6e173e4250c]: Commencement: Reg. 17 in force at 15.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/57/regulation/1/1)
 
 [^f00021]: Footnote: [S.I. 2010/447](https://www.legislation.gov.uk/uksi/2010/447).
 
-[^key-a8ad52822e58316b2dbf0eb5ce35507b]: Commencement: Reg. 18 in force at 15.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/57/regulation/1/1)
+[^c-a8ad52822e58316b2dbf0eb5ce35507b]: Commencement: Reg. 18 in force at 15.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/57/regulation/1/1)
 
 [^f00022]: Footnote: Each of the provisions amended by this regulation was inserted into [S.I. 2010/447](https://www.legislation.gov.uk/uksi/2010/447) by [S.I. 2021/1348](https://www.legislation.gov.uk/uksi/2021/1348).
 
-[^key-8a2477cc0b62368f338a4b90fcd4be96]: Commencement: Reg. 19 in force at 15.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/57/regulation/1/1)
+[^c-8a2477cc0b62368f338a4b90fcd4be96]: Commencement: Reg. 19 in force at 15.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/57/regulation/1/1)
 
 [^f00023]: Footnote: [S.I. 2012/1818](https://www.legislation.gov.uk/uksi/2012/1818).
 
-[^key-eddd489ee8ae1663754e522f5cdcc4b5]: Commencement: Reg. 20 in force at 15.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/57/regulation/1/1)
+[^c-eddd489ee8ae1663754e522f5cdcc4b5]: Commencement: Reg. 20 in force at 15.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/57/regulation/1/1)
 
 [^f00024]: Footnote: Each of the provisions amended by this regulation were inserted into [S.I. 2012/1818](https://www.legislation.gov.uk/uksi/2012/1818) by [S.I. 2021/1348](https://www.legislation.gov.uk/uksi/2021/1348).
 
 [^f00025]: Footnote: The definition of “person granted indefinite leave to remain as a victim of domestic violence or domestic abuse” was inserted by [S.I. 2020/48](https://www.legislation.gov.uk/uksi/2020/48).
 
-[^key-5bd9ba9b1068349de8888cd7044977dc]: Commencement: Reg. 21 in force at 15.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/57/regulation/1/1)
+[^c-5bd9ba9b1068349de8888cd7044977dc]: Commencement: Reg. 21 in force at 15.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/57/regulation/1/1)
 
-[^key-c05a911bc17e54ac1727dead91defa40]: Commencement: Reg. 22 in force at 15.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/57/regulation/1/1)
+[^c-c05a911bc17e54ac1727dead91defa40]: Commencement: Reg. 22 in force at 15.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/57/regulation/1/1)
 
 [^f00026]: Footnote: [S.I. 2016/606](https://www.legislation.gov.uk/uksi/2016/606).
 
-[^key-4777582fc9c85e89f590d3cde437d1d9]: Commencement: Reg. 23 in force at 15.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/57/regulation/1/1)
+[^c-4777582fc9c85e89f590d3cde437d1d9]: Commencement: Reg. 23 in force at 15.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/57/regulation/1/1)
 
 [^f00027]: Footnote: Each of the provisions amended by this regulation were inserted into [S.I. 2016/606](https://www.legislation.gov.uk/uksi/2016/606) by [S.I. 2021/1348](https://www.legislation.gov.uk/uksi/2021/1348).
 
 [^f00028]: Footnote: The definition of “person granted indefinite leave to remain as a victim of domestic violence or domestic abuse” was inserted by [S.I. 2020/48](https://www.legislation.gov.uk/uksi/2020/48).
 
-[^key-bffbf251828411531c65d5f7e4df9cf1]: Commencement: Reg. 24 in force at 15.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/57/regulation/1/1)
+[^c-bffbf251828411531c65d5f7e4df9cf1]: Commencement: Reg. 24 in force at 15.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/57/regulation/1/1)
 
-[^key-50044fb431a54cf167c2a90feddbef64]: Commencement: Reg. 25 in force at 15.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/57/regulation/1/1)
+[^c-50044fb431a54cf167c2a90feddbef64]: Commencement: Reg. 25 in force at 15.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/57/regulation/1/1)
 
 [^f00029]: Footnote: [S.I. 2017/1189](https://www.legislation.gov.uk/uksi/2017/1189).
 
-[^key-9c96293beb27a2d9b41ce37102f8830a]: Commencement: Reg. 26 in force at 15.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/57/regulation/1/1)
+[^c-9c96293beb27a2d9b41ce37102f8830a]: Commencement: Reg. 26 in force at 15.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/57/regulation/1/1)
 
 [^f00030]: Footnote: Each of the provisions amended by this regulation were inserted into [S.I. 2017/1189](https://www.legislation.gov.uk/uksi/2017/1189) by [S.I. 2021/1348](https://www.legislation.gov.uk/uksi/2021/1348).
 
-[^key-b66f7bb785e7206309a42d8f3deeeaa7]: Commencement: Reg. 27 in force at 15.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/57/regulation/1/1)
+[^c-b66f7bb785e7206309a42d8f3deeeaa7]: Commencement: Reg. 27 in force at 15.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/57/regulation/1/1)
 
 [^f00031]: Footnote: [S.I. 2018/599](https://www.legislation.gov.uk/uksi/2018/599).
 
-[^key-65890cc159a1f78a7284bf875e5e6f5e]: Commencement: Reg. 28 in force at 15.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/57/regulation/1/1)
+[^c-65890cc159a1f78a7284bf875e5e6f5e]: Commencement: Reg. 28 in force at 15.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/57/regulation/1/1)
 
 [^f00032]: Footnote: Each of the provisions amended by this regulation were inserted into [S.I. 2018/599](https://www.legislation.gov.uk/uksi/2018/599) by [S.I. 2021/1348](https://www.legislation.gov.uk/uksi/2021/1348).
 
 [^f00033]: Footnote: The definition of “person granted indefinite leave to remain as a victim of domestic violence or domestic abuse” was inserted by [S.I. 2020/48](https://www.legislation.gov.uk/uksi/2020/48).
 
-[^key-c1651673a19e7f8c7c2d53dc755b3f9b]: Commencement: Reg. 29 in force at 15.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/57/regulation/1/1)
+[^c-c1651673a19e7f8c7c2d53dc755b3f9b]: Commencement: Reg. 29 in force at 15.2.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/57/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Treatment of opposite-sex overseas relationships as civil partnerships[^key-6b80ff205e7d14bf5e9565a76e076cb3]
+## 5. Treatment of opposite-sex overseas relationships as civil partnerships[^c-6b80ff205e7d14bf5e9565a76e076cb3]
 
 *Extent: E+W*
 
@@ -77,7 +77,7 @@ summary: ''
 
 ## Annotations
 
-[^key-6b80ff205e7d14bf5e9565a76e076cb3]: Commencement: Reg. 5 in force at 2.12.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2)
+[^c-6b80ff205e7d14bf5e9565a76e076cb3]: Commencement: Reg. 5 in force at 2.12.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2)
 
 [^f00006]: Footnote: Section 213 was amended by [S.I. 2010/1839](https://www.legislation.gov.uk/uksi/2010/1839).
 

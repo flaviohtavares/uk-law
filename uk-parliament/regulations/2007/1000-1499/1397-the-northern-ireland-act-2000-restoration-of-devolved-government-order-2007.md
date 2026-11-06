@@ -45,13 +45,13 @@ The Secretary of State makes the following Order in exercise of the powers confe
 
 This Order is made in accordance with the duty imposed by section 2(2) of the Northern Ireland (St Andrews Agreement) Act 2006[^f00002].
 
-**1.**[^key-d7fc0b29aac44084a8bfda12670acc1b] This Order may be cited as the Northern Ireland Act 2000 (Restoration of Devolved Government) Order 2007 and shall come into force on 8th May 2007.
+**1.**[^c-d7fc0b29aac44084a8bfda12670acc1b] This Order may be cited as the Northern Ireland Act 2000 (Restoration of Devolved Government) Order 2007 and shall come into force on 8th May 2007.
 
-**2.**[^key-1c988942ba30f50b290e3d12e7be0ded] Section 1 of the Northern Ireland Act 2000 shall cease to have effect on 8th May 2007.
+**2.**[^c-1c988942ba30f50b290e3d12e7be0ded] Section 1 of the Northern Ireland Act 2000 shall cease to have effect on 8th May 2007.
 
-**3.**[^key-0a896048404da2e0505feeac7fee26a1] The Northern Ireland Act 2000 (Suspension of Devolved Government) Order 2002[^f00003] is revoked.
+**3.**[^c-0a896048404da2e0505feeac7fee26a1] The Northern Ireland Act 2000 (Suspension of Devolved Government) Order 2002[^f00003] is revoked.
 
-**4.**[^key-879940ecdcd76a6ab87f7c4524e7d568] (1) This article applies to any member of the Northern Ireland Assembly who took his seat in the Transitional Assembly after 7th March 2007 by signing the Roll of Membership in accordance with the Transitional Assembly’s standing orders.
+**4.**[^c-879940ecdcd76a6ab87f7c4524e7d568] (1) This article applies to any member of the Northern Ireland Assembly who took his seat in the Transitional Assembly after 7th March 2007 by signing the Roll of Membership in accordance with the Transitional Assembly’s standing orders.
 
 (2) The member shall be treated as having signed the Roll of Membership of, and taken his seat in, the Northern Ireland Assembly at the time of commencement in accordance with the Northern Ireland Assembly’s standing orders.
 
@@ -85,12 +85,12 @@ Section 2 of the Northern Ireland (St Andrews Agreement) Act 2006 provides for S
 
 [^f00002]: Footnote: Section 2(2) of the 2006 Act is modified by section 1 of the Northern Ireland (St Andrews Agreement) Act [2007 (c.4)](https://www.legislation.gov.uk/ukpga/2007/4). Section 2(7) of the 2006 Act provides that section 7(4) to (7) of the Northern Ireland Act 2000 (affirmative resolution etc procedure) does not apply in relation to an order made by virtue of section 2(2) of the 2006 Act.
 
-[^key-d7fc0b29aac44084a8bfda12670acc1b]: Commencement: Art. 1 in force at 8.5.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/1397/article/1)
+[^c-d7fc0b29aac44084a8bfda12670acc1b]: Commencement: Art. 1 in force at 8.5.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/1397/article/1)
 
-[^key-1c988942ba30f50b290e3d12e7be0ded]: Commencement: Art. 2 in force at 8.5.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/1397/article/1)
+[^c-1c988942ba30f50b290e3d12e7be0ded]: Commencement: Art. 2 in force at 8.5.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/1397/article/1)
 
-[^key-0a896048404da2e0505feeac7fee26a1]: Commencement: Art. 3 in force at 8.5.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/1397/article/1)
+[^c-0a896048404da2e0505feeac7fee26a1]: Commencement: Art. 3 in force at 8.5.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/1397/article/1)
 
 [^f00003]: Footnote: [S.I. 2002/2574](https://www.legislation.gov.uk/uksi/2002/2574).
 
-[^key-879940ecdcd76a6ab87f7c4524e7d568]: Commencement: Art. 4 in force at 8.5.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/1397/article/1)
+[^c-879940ecdcd76a6ab87f7c4524e7d568]: Commencement: Art. 4 in force at 8.5.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/1397/article/1)

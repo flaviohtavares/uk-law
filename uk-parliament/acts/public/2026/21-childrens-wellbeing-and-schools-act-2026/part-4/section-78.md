@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Commencement[^key-a75466ff8aeffb3d6feb1babb22d016f]
+## 78. Commencement[^c-a75466ff8aeffb3d6feb1babb22d016f]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a75466ff8aeffb3d6feb1babb22d016f]: Commencement: S. 78 in force at Royal Assent, see [s. 78(1)(c)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/c)
+[^c-a75466ff8aeffb3d6feb1babb22d016f]: Commencement: S. 78 in force at Royal Assent, see [s. 78(1)(c)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/c)

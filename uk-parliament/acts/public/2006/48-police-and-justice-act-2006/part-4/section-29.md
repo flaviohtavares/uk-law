@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Her Majesty's Inspectors of Constabulary[^key-f1fe37897bd0016f4d3ff5d47a0960cb]
+## 29. Her Majesty's Inspectors of Constabulary[^c-f1fe37897bd0016f4d3ff5d47a0960cb]
 
 *Extent: E+W*
 
@@ -165,4 +165,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f1fe37897bd0016f4d3ff5d47a0960cb]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2006/48/section/29) in force at 1.4.2007 by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(m)](https://www.legislation.gov.uk/uksi/2007/709/article/3/m) (with [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
+[^c-f1fe37897bd0016f4d3ff5d47a0960cb]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2006/48/section/29) in force at 1.4.2007 by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(m)](https://www.legislation.gov.uk/uksi/2007/709/article/3/m) (with [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))

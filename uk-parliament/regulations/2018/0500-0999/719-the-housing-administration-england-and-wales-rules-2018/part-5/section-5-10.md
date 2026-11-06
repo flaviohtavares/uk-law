@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5.10. Withdrawal or variation of proof[^key-4bd4685535316ba46a84e7065cdbd463]
+## 5.10. Withdrawal or variation of proof[^c-4bd4685535316ba46a84e7065cdbd463]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4bd4685535316ba46a84e7065cdbd463]: Commencement: Rule 5.10 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-4bd4685535316ba46a84e7065cdbd463]: Commencement: Rule 5.10 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

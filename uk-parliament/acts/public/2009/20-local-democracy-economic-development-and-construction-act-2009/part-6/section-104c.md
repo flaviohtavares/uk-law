@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104C. Regulations about members[^key-2f967f86fff17c403a8ce8c14c0519b6]
+## 104C. Regulations about members[^c-2f967f86fff17c403a8ce8c14c0519b6]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ summary: ''
 
 (2) The provision that may be made by regulations under subsection (1) includes, in particular, provision about—
 
-- (a) the cases in which a decision of a combined authority requires a majority, or a particular kind of majority, of the votes of members of a particular kind (including provision disapplying or modifying the effect of section 104CA)[^key-7d28a21e6333e95d8c2a814b19668994];
+- (a) the cases in which a decision of a combined authority requires a majority, or a particular kind of majority, of the votes of members of a particular kind (including provision disapplying or modifying the effect of section 104CA)[^c-7d28a21e6333e95d8c2a814b19668994];
 - (b) the process for the designation of a nominating body or the removal of such a designation;
 - (c) the number of nominating bodies that may be designated by a combined authority;
 - (d) the number of non-constituent members that may be appointed by a combined authority;
@@ -65,6 +65,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2f967f86fff17c403a8ce8c14c0519b6]: Textual amendment.
+[^c-2f967f86fff17c403a8ce8c14c0519b6]: Textual amendment.
 
-[^key-7d28a21e6333e95d8c2a814b19668994]: Textual amendment: Words in [s. 104C(2)(a)](https://www.legislation.gov.uk/ukpga/2009/20/section/104C/2/a) inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 6(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/6/6), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-7d28a21e6333e95d8c2a814b19668994]: Textual amendment: Words in [s. 104C(2)(a)](https://www.legislation.gov.uk/ukpga/2009/20/section/104C/2/a) inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 6(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/6/6), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))

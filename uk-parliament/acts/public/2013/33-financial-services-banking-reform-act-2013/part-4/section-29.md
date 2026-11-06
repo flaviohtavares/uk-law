@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Certification of employees by relevant authorised persons[^key-f03080ca8d9a42300d97af8059118756][^key-83ccb838dd204ae631de1cc7612829ce][^key-0757e31944ca84855f06180d627ad599]
+## 29. Certification of employees by relevant authorised persons[^c-f03080ca8d9a42300d97af8059118756][^c-83ccb838dd204ae631de1cc7612829ce][^c-0757e31944ca84855f06180d627ad599]
 
 *Extent: E+W+S+N.I.*
 
@@ -104,8 +104,8 @@ After section 63D of FSMA 2000 insert—
 
 ## Annotations
 
-[^key-f03080ca8d9a42300d97af8059118756]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2013/33/section/29) in force at 25.7.2014 for specified purposes by [S.I. 2014/1819](https://www.legislation.gov.uk/uksi/2014/1819), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2014/1819/article/2/2/b)
+[^c-f03080ca8d9a42300d97af8059118756]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2013/33/section/29) in force at 25.7.2014 for specified purposes by [S.I. 2014/1819](https://www.legislation.gov.uk/uksi/2014/1819), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2014/1819/article/2/2/b)
 
-[^key-83ccb838dd204ae631de1cc7612829ce]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2013/33/section/29) in force at 7.3.2016 for specified purposes by [S.I. 2015/490](https://www.legislation.gov.uk/uksi/2015/490), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2015/490/article/2/1/a) (with savings and transitional provisions in S.I. 2015/492 (as amended by S.I. 2015/1660))
+[^c-83ccb838dd204ae631de1cc7612829ce]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2013/33/section/29) in force at 7.3.2016 for specified purposes by [S.I. 2015/490](https://www.legislation.gov.uk/uksi/2015/490), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2015/490/article/2/1/a) (with savings and transitional provisions in S.I. 2015/492 (as amended by S.I. 2015/1660))
 
-[^key-0757e31944ca84855f06180d627ad599]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2013/33/section/29) in force at 7.3.2017 in so far as not already in force by [S.I. 2015/490](https://www.legislation.gov.uk/uksi/2015/490), [art. 2(2)](https://www.legislation.gov.uk/uksi/2015/490/article/2/2) (with savings and transitional provisions in S.I. 2015/492 (as amended by S.I. 2015/1660))
+[^c-0757e31944ca84855f06180d627ad599]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2013/33/section/29) in force at 7.3.2017 in so far as not already in force by [S.I. 2015/490](https://www.legislation.gov.uk/uksi/2015/490), [art. 2(2)](https://www.legislation.gov.uk/uksi/2015/490/article/2/2) (with savings and transitional provisions in S.I. 2015/492 (as amended by S.I. 2015/1660))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Transfer of property, rights and liabilities[^key-49bc90755bb21ef75f411dc16e8d9434]
+## 6. Transfer of property, rights and liabilities[^c-49bc90755bb21ef75f411dc16e8d9434]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-49bc90755bb21ef75f411dc16e8d9434]: Commencement: Art. 6 in force at 21.3.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/414/article/1/2)
+[^c-49bc90755bb21ef75f411dc16e8d9434]: Commencement: Art. 6 in force at 21.3.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/414/article/1/2)
 
 [^f00015]: Footnote: Section 18 was amended by paragraphs 52 and 53 of Schedule 7 to the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), paragraphs 115 and 116 of Schedule 12 to the Local Audit and Accountability Act [2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), and by section 23(2) of the Policing and Crime Act [2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3) (“**the 2017 Act**”).

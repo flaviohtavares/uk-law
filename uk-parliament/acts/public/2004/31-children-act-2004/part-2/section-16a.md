@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16A. Child Safeguarding Practice Review Panel[^key-cd0d6d37a319e631046cbe01f191bb40]
+## 16A. Child Safeguarding Practice Review Panel[^c-cd0d6d37a319e631046cbe01f191bb40]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cd0d6d37a319e631046cbe01f191bb40]: Textual amendment: S. 16A and cross-heading inserted (29.6.2018) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [ss. 12](https://www.legislation.gov.uk/ukpga/2017/16/section/12), [70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2); [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/497/regulation/3/a)
+[^c-cd0d6d37a319e631046cbe01f191bb40]: Textual amendment: S. 16A and cross-heading inserted (29.6.2018) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [ss. 12](https://www.legislation.gov.uk/ukpga/2017/16/section/12), [70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2); [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/497/regulation/3/a)

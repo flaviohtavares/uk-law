@@ -26,8 +26,8 @@ summary: ''
 
 (3) Where an application is made in accordance with this section, the relevant licensing authority must issue the club with a copy of the certificate or summary (certified by the authority to be a true copy) if it is satisfied that—
 
-- (a) the certificate or summary has been lost, stolen, damaged or destroyed, [^key-a7cc029dbca3983f3917db3546e0b478]...
-- (b)[^key-a7cc029dbca3983f3917db3546e0b478] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) the certificate or summary has been lost, stolen, damaged or destroyed, [^c-a7cc029dbca3983f3917db3546e0b478]...
+- (b)[^c-a7cc029dbca3983f3917db3546e0b478] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The copy issued under this section must be a copy of the club premises certificate or summary in the form in which it existed immediately before it was lost, stolen, damaged or destroyed.
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a7cc029dbca3983f3917db3546e0b478]: Textual amendment: S. 79(3)(b) and preceding word omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 72(b)](https://www.legislation.gov.uk/ukpga/2015/20/section/72/b), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(j)](https://www.legislation.gov.uk/uksi/2015/994/article/6/j)
+[^c-a7cc029dbca3983f3917db3546e0b478]: Textual amendment: S. 79(3)(b) and preceding word omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 72(b)](https://www.legislation.gov.uk/ukpga/2015/20/section/72/b), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(j)](https://www.legislation.gov.uk/uksi/2015/994/article/6/j)

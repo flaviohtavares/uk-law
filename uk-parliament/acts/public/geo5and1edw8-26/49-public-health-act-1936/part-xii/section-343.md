@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-889ae60ad65e2cf41d14cabcae340706] In this Act, unless the context otherwise requires, the following expressions have the meanings hereby assigned to them—
+(1)[^c-889ae60ad65e2cf41d14cabcae340706] In this Act, unless the context otherwise requires, the following expressions have the meanings hereby assigned to them—
 
 - “**authorised officer**” means, as respects any council, an officer of the council authorised by them in writing, either generally or specially, to act in matters of any specified kind, or in any specified matter:
 - Provided that the medical officer of health, surveyor and sanitary inspector of a council shall, by virtue of their appointments, be deemed to be authorised officers for the purpose of matters within their respective provinces:
@@ -37,7 +37,7 @@ summary: ''
 - . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c612016]
 - “**enactment**” includes any enactment in a provisional order confirmed by Parliament;
 - “**factory**” means a factory within the meaning of the Factories Act 1961[^c612022];
-- [^key-889ae60ad65e2cf41d14cabcae340706]...
+- [^c-889ae60ad65e2cf41d14cabcae340706]...
 - “**functions**” includes powers and duties;
 - . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c612025]
 - . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c612025]
@@ -45,7 +45,7 @@ summary: ''
 - “**inland waters**” includes rivers, harbours and creeks;
 - “**joint board**” means a joint board constituted under this Act or under any Act repealed by this Act, other than[^c612027] a port health authority;
 - “**land**” includes any interest in land and any easement or right in, to or over land;
-- “[^c612028] **land drainage authority** ” means the Environment Agency, the Natural Resources Body for Wales or an[^key-9e7c66f066ff82b5cd7c61fc557b4382] internal drainage board; and
+- “[^c612028] **land drainage authority** ” means the Environment Agency, the Natural Resources Body for Wales or an[^c-9e7c66f066ff82b5cd7c61fc557b4382] internal drainage board; and
 - “**local Act**” includes a provisional order confirmed by Parliament and the confirming Act so far as it relates to that order;
 - “**local authority**” has the meaning assigned to it in section one of this Act;
 - . . . [^c612029]
@@ -77,7 +77,7 @@ summary: ''
 
 ## Annotations
 
-[^key-889ae60ad65e2cf41d14cabcae340706]: Textual amendment: Words in s. 343(1) repealed (7.9.2004 for E. for specified purposes, 1.10.2004 for E. in so far as not already in force, 10.11.2004 for W.) by [Fire and Rescue Services Act 2004 (c. 21)](https://www.legislation.gov.uk/ukpga/2004/21), [s. 61](https://www.legislation.gov.uk/ukpga/2004/21/section/61), [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2004/21/schedule/1/paragraph/6), [Sch. 2](https://www.legislation.gov.uk/ukpga/2004/21/schedule/2); [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2; S.I. 2004/2917, art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2)
+[^c-889ae60ad65e2cf41d14cabcae340706]: Textual amendment: Words in s. 343(1) repealed (7.9.2004 for E. for specified purposes, 1.10.2004 for E. in so far as not already in force, 10.11.2004 for W.) by [Fire and Rescue Services Act 2004 (c. 21)](https://www.legislation.gov.uk/ukpga/2004/21), [s. 61](https://www.legislation.gov.uk/ukpga/2004/21/section/61), [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2004/21/schedule/1/paragraph/6), [Sch. 2](https://www.legislation.gov.uk/ukpga/2004/21/schedule/2); [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2; S.I. 2004/2917, art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2)
 
 [^c612016]: Textual amendment: Definitions of “bridge authority”, “county district”, “emoluments” repealed by [Statute Law (Repeals) Act 1989 (c. 43)](https://www.legislation.gov.uk/ukpga/1989/43), [s. 1](https://www.legislation.gov.uk/ukpga/1989/43/section/1), [Sch. 1 Pt. IV](https://www.legislation.gov.uk/ukpga/1989/43/schedule/1/part/IV)
 
@@ -95,7 +95,7 @@ summary: ''
 
 [^c612028]: Textual amendment: Definitions in s. 343 substituted (1.12.1991) by [Water Consolidation (Consequential Provisions) Act 1991 (c. 60)](https://www.legislation.gov.uk/ukpga/1991/60), [ss. 2](https://www.legislation.gov.uk/ukpga/1991/60/section/2), [4(2)](https://www.legislation.gov.uk/ukpga/1991/60/section/4/2), [Sch. 1 para. 2(4)](https://www.legislation.gov.uk/ukpga/1991/60/schedule/1/paragraph/2/4).
 
-[^key-9e7c66f066ff82b5cd7c61fc557b4382]: Textual amendment: Words in s. 343(1) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/1) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-9e7c66f066ff82b5cd7c61fc557b4382]: Textual amendment: Words in s. 343(1) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/1) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c612029]: Textual amendment: Definition of “London” repealed by [London Government Act 1963 (c. 33)](https://www.legislation.gov.uk/ukpga/1963/33), [Sch. 18 Pt. II](https://www.legislation.gov.uk/ukpga/1963/33/schedule/18/part/II)
 

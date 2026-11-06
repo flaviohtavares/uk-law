@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Firing an air weapon beyond premises[^key-7af70cf4d6765393e1f4c73debb9da10]
+## 34. Firing an air weapon beyond premises[^c-7af70cf4d6765393e1f4c73debb9da10]
 
 *Extent: E+W+S*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7af70cf4d6765393e1f4c73debb9da10]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2006/38/section/34) in force at 1.10.2007 by [S.I. 2007/2180](https://www.legislation.gov.uk/uksi/2007/2180), [art. 3(d)](https://www.legislation.gov.uk/uksi/2007/2180/article/3/d)
+[^c-7af70cf4d6765393e1f4c73debb9da10]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2006/38/section/34) in force at 1.10.2007 by [S.I. 2007/2180](https://www.legislation.gov.uk/uksi/2007/2180), [art. 3(d)](https://www.legislation.gov.uk/uksi/2007/2180/article/3/d)

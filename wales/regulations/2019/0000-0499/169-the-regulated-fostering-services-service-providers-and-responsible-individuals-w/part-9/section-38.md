@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Premises, facilities and equipment - foster parents[^key-73e767828ad25fc35c5959c7bd30149b]
+## 38. Premises, facilities and equipment - foster parents[^c-73e767828ad25fc35c5959c7bd30149b]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-73e767828ad25fc35c5959c7bd30149b]: Commencement: [Reg. 38](https://www.legislation.gov.uk/wsi/2019/169/regulation/38) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)
+[^c-73e767828ad25fc35c5959c7bd30149b]: Commencement: [Reg. 38](https://www.legislation.gov.uk/wsi/2019/169/regulation/38) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 232. Accounts and audit[^key-6cff2c10c199c9baba113e71c632feb2]
+## 232. Accounts and audit[^c-6cff2c10c199c9baba113e71c632feb2]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6cff2c10c199c9baba113e71c632feb2]: Textual amendment: [S. 232 and cross-heading](https://www.legislation.gov.uk/ukpga/2006/41/part/11/chapter/6/crossheading/accounts-and-audit) omitted (1.7.2022) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 87(3)(b)(i)](https://www.legislation.gov.uk/ukpga/2022/31/section/87/3/b/i), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-6cff2c10c199c9baba113e71c632feb2]: Textual amendment: [S. 232 and cross-heading](https://www.legislation.gov.uk/ukpga/2006/41/part/11/chapter/6/crossheading/accounts-and-audit) omitted (1.7.2022) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 87(3)(b)(i)](https://www.legislation.gov.uk/ukpga/2022/31/section/87/3/b/i), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

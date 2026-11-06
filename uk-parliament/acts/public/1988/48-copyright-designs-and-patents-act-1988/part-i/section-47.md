@@ -22,7 +22,7 @@ summary: ''
 
 (1)[^c13755251] Where material is open to public inspection pursuant to a statutory requirement, or is on a statutory register, any copyright in the material as a literary work is not infringed by the copying of so much of the material as contains factual information of any description, by or with the authority of the appropriate person, for a purpose which does not involve the issuing of copies to the public.
 
-(2)[^key-5da16f23f99e1318915bf18b19ca1c2a] Where material is open to public inspection pursuant to a statutory requirement, copyright in the material is not infringed by an act to which subsection (3A) applies provided that—
+(2)[^c-5da16f23f99e1318915bf18b19ca1c2a] Where material is open to public inspection pursuant to a statutory requirement, copyright in the material is not infringed by an act to which subsection (3A) applies provided that—
 
 - (a) the act is done by or with the authority of the appropriate person,
 - (b) the purpose of the act is—
@@ -53,7 +53,7 @@ summary: ''
 
 as they apply in relation to material open to public inspection pursuant to a statutory requirement or to a statutory register.
 
-(6)[^c20953921][^key-dd8600f3a4cdb8855db5c182d9a105ff] In this section—
+(6)[^c20953921][^c-dd8600f3a4cdb8855db5c182d9a105ff] In this section—
 
 - “**appropriate person**” means the person required to make the material open to public inspection or, as the case may be, the person maintaining the register;
 - “**statutory register**” means a register maintained in pursuance of a statutory requirement; and
@@ -65,8 +65,8 @@ as they apply in relation to material open to public inspection pursuant to a st
 
 [^c13755251]: Modification: S. 47(1) extended with modifications by [S.I. 1989/1098](https://www.legislation.gov.uk/uksi/1989/1098), [art. 2](https://www.legislation.gov.uk/uksi/1989/1098/article/2)
 
-[^key-5da16f23f99e1318915bf18b19ca1c2a]: Textual amendment: S. 47(2)-(3A) substituted for s. 47(2)(3) (1.6.2014) by [The Copyright (Public Administration) Regulations 2014 (S.I. 2014/1385)](https://www.legislation.gov.uk/uksi/2014/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1385/regulation/1), [2(1)](https://www.legislation.gov.uk/uksi/2014/1385/regulation/2/1)
+[^c-5da16f23f99e1318915bf18b19ca1c2a]: Textual amendment: S. 47(2)-(3A) substituted for s. 47(2)(3) (1.6.2014) by [The Copyright (Public Administration) Regulations 2014 (S.I. 2014/1385)](https://www.legislation.gov.uk/uksi/2014/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1385/regulation/1), [2(1)](https://www.legislation.gov.uk/uksi/2014/1385/regulation/2/1)
 
 [^c20953921]: Modification: S. 47(6) modified (1.3.2010) by [The Scottish Register of Tartans Act 2008 (Consequential Modifications) Order 2010 (S.I. 2010/180)](https://www.legislation.gov.uk/uksi/2010/180), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/180/article/2/2) (with [art. 2(4)](https://www.legislation.gov.uk/uksi/2010/180/article/2/4))
 
-[^key-dd8600f3a4cdb8855db5c182d9a105ff]: Modification: S. 47(6) modified (26.2.2015) by [The Regulatory Reform (Scotland) Act 2014 (Consequential Modifications) Order 2015 (S.I. 2015/374)](https://www.legislation.gov.uk/uksi/2015/374), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/374/article/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2015/374/article/3/3) (with [art. 3(4)](https://www.legislation.gov.uk/uksi/2015/374/article/3/4))
+[^c-dd8600f3a4cdb8855db5c182d9a105ff]: Modification: S. 47(6) modified (26.2.2015) by [The Regulatory Reform (Scotland) Act 2014 (Consequential Modifications) Order 2015 (S.I. 2015/374)](https://www.legislation.gov.uk/uksi/2015/374), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/374/article/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2015/374/article/3/3) (with [art. 3(4)](https://www.legislation.gov.uk/uksi/2015/374/article/3/4))

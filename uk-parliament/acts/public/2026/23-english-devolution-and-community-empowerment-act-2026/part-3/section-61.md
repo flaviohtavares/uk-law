@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 61. Local authority governance and executives[^key-f262fbfaafe89bdad89a9b527bdc4250]
+## 61. Local authority governance and executives[^c-f262fbfaafe89bdad89a9b527bdc4250]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 29 contains provision about local authority governance and executives.
 
 ## Annotations
 
-[^key-f262fbfaafe89bdad89a9b527bdc4250]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2026/23/section/61) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-f262fbfaafe89bdad89a9b527bdc4250]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2026/23/section/61) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)

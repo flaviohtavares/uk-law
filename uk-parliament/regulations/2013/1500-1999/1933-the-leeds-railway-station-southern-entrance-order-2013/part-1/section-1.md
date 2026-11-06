@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation and commencement[^key-1404b037501b9b08891e28e694e7b066]
+## 1. Citation and commencement[^c-1404b037501b9b08891e28e694e7b066]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Order may be cited as the Leeds Railway Station (Southern Entrance) Order 2
 
 ## Annotations
 
-[^key-1404b037501b9b08891e28e694e7b066]: Commencement: Art. 1 in force at 22.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1)
+[^c-1404b037501b9b08891e28e694e7b066]: Commencement: Art. 1 in force at 22.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1)

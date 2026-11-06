@@ -34,7 +34,7 @@ summary: ''
 
 (4) The member of the Royal Ulster Constabulary to whom notice is given shall forthwith give information of it to such person or authority as the Department by order directs.
 
-(5) Where the Department is satisfied of the occurrence of any disease communicable to man, the Department shall forthwith notify the Regional Agency for Public Health and Social Well-being and the Health and Social Care trust[^key-3df872eb01734438caf5d2e9a244e454] [^c16922651] within whose area that disease has occurred.
+(5) Where the Department is satisfied of the occurrence of any disease communicable to man, the Department shall forthwith notify the Regional Agency for Public Health and Social Well-being and the Health and Social Care trust[^c-3df872eb01734438caf5d2e9a244e454] [^c16922651] within whose area that disease has occurred.
 
 (6)[^c16922661] The Department may by order—
 
@@ -46,7 +46,7 @@ summary: ''
 
 ## Annotations
 
-[^key-3df872eb01734438caf5d2e9a244e454]: Textual amendment: Words in [art. 10(5)](https://www.legislation.gov.uk/nisi/1981/1115/article/10/5) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 65](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/65); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-3df872eb01734438caf5d2e9a244e454]: Textual amendment: Words in [art. 10(5)](https://www.legislation.gov.uk/nisi/1981/1115/article/10/5) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 65](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/65); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
 [^c16922651]: Textual amendment: [1972 NI 14](https://www.legislation.gov.uk/1972/ni14)
 

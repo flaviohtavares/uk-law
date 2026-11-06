@@ -35,22 +35,22 @@ summary: ''
 - (a) the person's name;
 - (b) the person's qualifying address;
 - (c) the person's date of birth;
-- (d) subject to subsection (5)[^key-ee25e4b3d1b16f88844b67b5fecc449e], the person's signature;
+- (d) subject to subsection (5)[^c-ee25e4b3d1b16f88844b67b5fecc449e], the person's signature;
 - (e) the person's national insurance number or a statement that he does not have one.
 
 (5) The required information does not include the person's signature if—
 
-- (a) the Chief Electoral Officer has dispensed with the requirement to provide a signature, [^key-c8a296a7bf0382964be5fea7e0cb9754]... or[^key-0c05b4d8c0afeff5036393b8760c711e]
-- (aa)[^key-a132630846b70d03b8c58122f0783e69] the registration was made following an application for registration submitted through the UK digital service.
-- (b)[^key-c8a296a7bf0382964be5fea7e0cb9754] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) the Chief Electoral Officer has dispensed with the requirement to provide a signature, [^c-c8a296a7bf0382964be5fea7e0cb9754]... or[^c-0c05b4d8c0afeff5036393b8760c711e]
+- (aa)[^c-a132630846b70d03b8c58122f0783e69] the registration was made following an application for registration submitted through the UK digital service.
+- (b)[^c-c8a296a7bf0382964be5fea7e0cb9754] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-70336c002d29c1c72cdaff4c95dbc37b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-70336c002d29c1c72cdaff4c95dbc37b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) “**False**”, in relation to a signature, means that the signature is not the usual signature of, or was written by a person other than, the person whose signature it purports to be.
 
-(7A)[^key-bc02cda5d82fae9a4bd865f251706893] In subsection (5)(aa), “the UK digital service” has the same meaning as in section 10ZF, and the reference to an application for registration submitted through the UK digital service shall be construed in accordance with subsection (4) of that section.
+(7A)[^c-bc02cda5d82fae9a4bd865f251706893] In subsection (5)(aa), “the UK digital service” has the same meaning as in section 10ZF, and the reference to an application for registration submitted through the UK digital service shall be construed in accordance with subsection (4) of that section.
 
-(8)[^key-66de90989014a34abceea9af8e75274d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-66de90989014a34abceea9af8e75274d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -58,16 +58,16 @@ summary: ''
 
 [^c19418981]: Textual amendment: S. 10ZB inserted (1.12.2006) by [Northern Ireland (Miscellaneous Provisions) Act 2006 (c. 33)](https://www.legislation.gov.uk/ukpga/2006/33), [ss. 4](https://www.legislation.gov.uk/ukpga/2006/33/section/4), [31](https://www.legislation.gov.uk/ukpga/2006/33/section/31); [S.I. 2006/2688](https://www.legislation.gov.uk/uksi/2006/2688), [art. 3(1)(2)(a)](https://www.legislation.gov.uk/uksi/2006/2688/article/3/1/2/a)
 
-[^key-ee25e4b3d1b16f88844b67b5fecc449e]: Textual amendment: Words in s. 10ZB(4)(d) substituted (31.5.2018) by [The Representation of the People (Electronic Communications and Amendment) (Northern Ireland) Regulations 2018 (S.I. 2018/699)](https://www.legislation.gov.uk/uksi/2018/699), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/699/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2018/699/regulation/2/2/a)
+[^c-ee25e4b3d1b16f88844b67b5fecc449e]: Textual amendment: Words in s. 10ZB(4)(d) substituted (31.5.2018) by [The Representation of the People (Electronic Communications and Amendment) (Northern Ireland) Regulations 2018 (S.I. 2018/699)](https://www.legislation.gov.uk/uksi/2018/699), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/699/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2018/699/regulation/2/2/a)
 
-[^key-c8a296a7bf0382964be5fea7e0cb9754]: Textual amendment: S. 10ZB(5)(b) and preceding word repealed (2.4.2013) by [Electoral Registration and Administration Act 2013 (c. 6)](https://www.legislation.gov.uk/ukpga/2013/6), [ss. 23(2)](https://www.legislation.gov.uk/ukpga/2013/6/section/23/2), [27(1)](https://www.legislation.gov.uk/ukpga/2013/6/section/27/1); [S.I. 2013/702](https://www.legislation.gov.uk/uksi/2013/702), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/702/article/3/e)
+[^c-c8a296a7bf0382964be5fea7e0cb9754]: Textual amendment: S. 10ZB(5)(b) and preceding word repealed (2.4.2013) by [Electoral Registration and Administration Act 2013 (c. 6)](https://www.legislation.gov.uk/ukpga/2013/6), [ss. 23(2)](https://www.legislation.gov.uk/ukpga/2013/6/section/23/2), [27(1)](https://www.legislation.gov.uk/ukpga/2013/6/section/27/1); [S.I. 2013/702](https://www.legislation.gov.uk/uksi/2013/702), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/702/article/3/e)
 
-[^key-0c05b4d8c0afeff5036393b8760c711e]: Textual amendment: Word in s. 10ZB(5)(a) inserted (31.5.2018) by [The Representation of the People (Electronic Communications and Amendment) (Northern Ireland) Regulations 2018 (S.I. 2018/699)](https://www.legislation.gov.uk/uksi/2018/699), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/699/regulation/1/2), [2(2)(b)(i)](https://www.legislation.gov.uk/uksi/2018/699/regulation/2/2/b/i)
+[^c-0c05b4d8c0afeff5036393b8760c711e]: Textual amendment: Word in s. 10ZB(5)(a) inserted (31.5.2018) by [The Representation of the People (Electronic Communications and Amendment) (Northern Ireland) Regulations 2018 (S.I. 2018/699)](https://www.legislation.gov.uk/uksi/2018/699), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/699/regulation/1/2), [2(2)(b)(i)](https://www.legislation.gov.uk/uksi/2018/699/regulation/2/2/b/i)
 
-[^key-a132630846b70d03b8c58122f0783e69]: Textual amendment: S. 10ZB(5)(aa) inserted (31.5.2018) by [The Representation of the People (Electronic Communications and Amendment) (Northern Ireland) Regulations 2018 (S.I. 2018/699)](https://www.legislation.gov.uk/uksi/2018/699), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/699/regulation/1/2), [2(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/699/regulation/2/2/b/ii)
+[^c-a132630846b70d03b8c58122f0783e69]: Textual amendment: S. 10ZB(5)(aa) inserted (31.5.2018) by [The Representation of the People (Electronic Communications and Amendment) (Northern Ireland) Regulations 2018 (S.I. 2018/699)](https://www.legislation.gov.uk/uksi/2018/699), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/699/regulation/1/2), [2(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/699/regulation/2/2/b/ii)
 
-[^key-70336c002d29c1c72cdaff4c95dbc37b]: Textual amendment: S. 10ZB(6) repealed (2.4.2013) by [Electoral Registration and Administration Act 2013 (c. 6)](https://www.legislation.gov.uk/ukpga/2013/6), [ss. 23(2)](https://www.legislation.gov.uk/ukpga/2013/6/section/23/2), [27(1)](https://www.legislation.gov.uk/ukpga/2013/6/section/27/1); [S.I. 2013/702](https://www.legislation.gov.uk/uksi/2013/702), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/702/article/3/e)
+[^c-70336c002d29c1c72cdaff4c95dbc37b]: Textual amendment: S. 10ZB(6) repealed (2.4.2013) by [Electoral Registration and Administration Act 2013 (c. 6)](https://www.legislation.gov.uk/ukpga/2013/6), [ss. 23(2)](https://www.legislation.gov.uk/ukpga/2013/6/section/23/2), [27(1)](https://www.legislation.gov.uk/ukpga/2013/6/section/27/1); [S.I. 2013/702](https://www.legislation.gov.uk/uksi/2013/702), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/702/article/3/e)
 
-[^key-bc02cda5d82fae9a4bd865f251706893]: Textual amendment: S. 10ZB(7A) inserted (31.5.2018) by [The Representation of the People (Electronic Communications and Amendment) (Northern Ireland) Regulations 2018 (S.I. 2018/699)](https://www.legislation.gov.uk/uksi/2018/699), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/699/regulation/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2018/699/regulation/2/2/c)
+[^c-bc02cda5d82fae9a4bd865f251706893]: Textual amendment: S. 10ZB(7A) inserted (31.5.2018) by [The Representation of the People (Electronic Communications and Amendment) (Northern Ireland) Regulations 2018 (S.I. 2018/699)](https://www.legislation.gov.uk/uksi/2018/699), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/699/regulation/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2018/699/regulation/2/2/c)
 
-[^key-66de90989014a34abceea9af8e75274d]: Textual amendment: S. 10ZB(8) repealed (2.4.2013) by [Electoral Registration and Administration Act 2013 (c. 6)](https://www.legislation.gov.uk/ukpga/2013/6), [ss. 23(2)](https://www.legislation.gov.uk/ukpga/2013/6/section/23/2), [27(1)](https://www.legislation.gov.uk/ukpga/2013/6/section/27/1); [S.I. 2013/702](https://www.legislation.gov.uk/uksi/2013/702), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/702/article/3/e)
+[^c-66de90989014a34abceea9af8e75274d]: Textual amendment: S. 10ZB(8) repealed (2.4.2013) by [Electoral Registration and Administration Act 2013 (c. 6)](https://www.legislation.gov.uk/ukpga/2013/6), [ss. 23(2)](https://www.legislation.gov.uk/ukpga/2013/6/section/23/2), [27(1)](https://www.legislation.gov.uk/ukpga/2013/6/section/27/1); [S.I. 2013/702](https://www.legislation.gov.uk/uksi/2013/702), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/702/article/3/e)

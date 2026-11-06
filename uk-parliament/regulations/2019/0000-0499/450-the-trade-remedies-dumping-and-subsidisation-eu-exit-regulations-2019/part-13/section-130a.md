@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 130A. Modifications to Part 9A[^key-6ec83419301b4980b8b2787a065373d8]
+## 130A. Modifications to Part 9A[^c-6ec83419301b4980b8b2787a065373d8]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ Part 9A (investigation in light of an international dispute decision) has effect
 - (b) in regulation 88A—
   - (i) in paragraph (1), the words “direct the TRA to” were omitted;
   - (ii) in paragraph (2), for “required” there were substituted “initiated”;
-- (c) in regulation 88B(3)(b)(ii)[^key-80bd0615473a60bea92f4d54a9c802ee], after “regulation” there were inserted “88I(3)(a) or”;
+- (c) in regulation 88B(3)(b)(ii)[^c-80bd0615473a60bea92f4d54a9c802ee], after “regulation” there were inserted “88I(3)(a) or”;
 - (e) in regulations 88G(2) and 88H(2), for “recommend to the Secretary of State”, there were substituted “make a preliminary decision”;
 - (e) for the section heading after regulation 88I and for regulation 88I, there were substituted—
 
@@ -54,6 +54,6 @@ Part 9A (investigation in light of an international dispute decision) has effect
 
 ## Annotations
 
-[^key-6ec83419301b4980b8b2787a065373d8]: Textual amendment: Reg. 130A inserted (1.3.2020) by [The Trade Remedies (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/99)](https://www.legislation.gov.uk/uksi/2020/99), [regs. 1](https://www.legislation.gov.uk/uksi/2020/99/regulation/1), [33](https://www.legislation.gov.uk/uksi/2020/99/regulation/33)
+[^c-6ec83419301b4980b8b2787a065373d8]: Textual amendment: Reg. 130A inserted (1.3.2020) by [The Trade Remedies (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/99)](https://www.legislation.gov.uk/uksi/2020/99), [regs. 1](https://www.legislation.gov.uk/uksi/2020/99/regulation/1), [33](https://www.legislation.gov.uk/uksi/2020/99/regulation/33)
 
-[^key-80bd0615473a60bea92f4d54a9c802ee]: Textual amendment: Word in [reg. 130A(c)](https://www.legislation.gov.uk/uksi/2019/450/regulation/130A/c) substituted (5.8.2020) by [The Trade Remedies (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/730)](https://www.legislation.gov.uk/uksi/2020/730), [regs. 1](https://www.legislation.gov.uk/uksi/2020/730/regulation/1), [19](https://www.legislation.gov.uk/uksi/2020/730/regulation/19)
+[^c-80bd0615473a60bea92f4d54a9c802ee]: Textual amendment: Word in [reg. 130A(c)](https://www.legislation.gov.uk/uksi/2019/450/regulation/130A/c) substituted (5.8.2020) by [The Trade Remedies (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/730)](https://www.legislation.gov.uk/uksi/2020/730), [regs. 1](https://www.legislation.gov.uk/uksi/2020/730/regulation/1), [19](https://www.legislation.gov.uk/uksi/2020/730/regulation/19)

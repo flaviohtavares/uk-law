@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 56. Services complaint: sanctions[^key-d8d71b45e44e3f586c6b841064c1996c]
+## 56. Services complaint: sanctions[^c-d8d71b45e44e3f586c6b841064c1996c]
 
 *Extent: S*
 
@@ -68,4 +68,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d8d71b45e44e3f586c6b841064c1996c]: Commencement: S. 56 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-d8d71b45e44e3f586c6b841064c1996c]: Commencement: S. 56 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)

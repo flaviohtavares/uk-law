@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104B. Penalties for failure to provide information[^key-9b5e8059d82d0828ee4d5f5847f0a92f]
+## 104B. Penalties for failure to provide information[^c-9b5e8059d82d0828ee4d5f5847f0a92f]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9b5e8059d82d0828ee4d5f5847f0a92f]: Textual amendment: [S. 104B](https://www.legislation.gov.uk/ukpga/1996/55/section/104B) inserted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 24(5)](https://www.legislation.gov.uk/ukpga/2024/15/section/24/5), [55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/d)
+[^c-9b5e8059d82d0828ee4d5f5847f0a92f]: Textual amendment: [S. 104B](https://www.legislation.gov.uk/ukpga/1996/55/section/104B) inserted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 24(5)](https://www.legislation.gov.uk/ukpga/2024/15/section/24/5), [55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/d)

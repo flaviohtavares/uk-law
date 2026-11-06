@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7.8. Estimates of duration of appeal hearing[^key-c370cec7b2f449d894f854d46c2bbacc]
+## 7.8. Estimates of duration of appeal hearing[^c-c370cec7b2f449d894f854d46c2bbacc]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The parties must lodge estimates of the duration of any appeal hearing required 
 
 ## Annotations
 
-[^key-c370cec7b2f449d894f854d46c2bbacc]: Commencement: Para. 7.8 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-c370cec7b2f449d894f854d46c2bbacc]: Commencement: Para. 7.8 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

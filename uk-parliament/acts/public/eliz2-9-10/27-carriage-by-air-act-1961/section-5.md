@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Time for bringing proceedings.[^c12406981][^key-abf7e08d5ba0366ba3ec36e3477e7f6e][^key-d5c8b51ee990114a3fa956ee5766ba54][^c12406971]
+## 5. Time for bringing proceedings.[^c12406981][^c-abf7e08d5ba0366ba3ec36e3477e7f6e][^c-d5c8b51ee990114a3fa956ee5766ba54][^c12406971]
 
 *Extent: E+W+N.I.*
 
@@ -34,7 +34,7 @@ summary: ''
 
 (5) If the Montreal Convention applies, “carrier" in this section includes an actual carrier as defined by Article 39 of that Convention.
 
-## 5. Time for bringing proceedings.[^c12407091][^key-abf7e08d5ba0366ba3ec36e3477e7f6e][^key-d5c8b51ee990114a3fa956ee5766ba54][^c12407081]
+## 5. Time for bringing proceedings.[^c12407091][^c-abf7e08d5ba0366ba3ec36e3477e7f6e][^c-d5c8b51ee990114a3fa956ee5766ba54][^c12407081]
 
 *Extent: S*
 
@@ -56,9 +56,9 @@ summary: ''
 
 [^c12406981]: Extent: This version of this provision extends to England, Wales and Northern Ireland only; a separate version has been created for Scotland only
 
-[^key-abf7e08d5ba0366ba3ec36e3477e7f6e]: Modification: [S. 5](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/27/section/5) applied (with modifications) (6.8.2004) by [The Carriage by Air Acts (Application of Provisions) Order 2004 (S.I. 2004/1899)](https://www.legislation.gov.uk/uksi/2004/1899), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/1899/article/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2004/1899/article/5/1)[(3)](https://www.legislation.gov.uk/uksi/2004/1899/article/5/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/1899/schedule/2) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2004/1899/article/1/3), [3](https://www.legislation.gov.uk/uksi/2004/1899/article/3))
+[^c-abf7e08d5ba0366ba3ec36e3477e7f6e]: Modification: [S. 5](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/27/section/5) applied (with modifications) (6.8.2004) by [The Carriage by Air Acts (Application of Provisions) Order 2004 (S.I. 2004/1899)](https://www.legislation.gov.uk/uksi/2004/1899), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/1899/article/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2004/1899/article/5/1)[(3)](https://www.legislation.gov.uk/uksi/2004/1899/article/5/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/1899/schedule/2) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2004/1899/article/1/3), [3](https://www.legislation.gov.uk/uksi/2004/1899/article/3))
 
-[^key-d5c8b51ee990114a3fa956ee5766ba54]: Modification: [S. 5](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/27/section/5) applied (with modifications) (6.8.2004) by [The Carriage by Air Acts (Application of Provisions) Order 2004 (S.I. 2004/1899)](https://www.legislation.gov.uk/uksi/2004/1899), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/1899/article/1/2), [6(1)](https://www.legislation.gov.uk/uksi/2004/1899/article/6/1)[(3)](https://www.legislation.gov.uk/uksi/2004/1899/article/6/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2004/1899/schedule/3) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2004/1899/article/1/3), [3](https://www.legislation.gov.uk/uksi/2004/1899/article/3))
+[^c-d5c8b51ee990114a3fa956ee5766ba54]: Modification: [S. 5](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/27/section/5) applied (with modifications) (6.8.2004) by [The Carriage by Air Acts (Application of Provisions) Order 2004 (S.I. 2004/1899)](https://www.legislation.gov.uk/uksi/2004/1899), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/1899/article/1/2), [6(1)](https://www.legislation.gov.uk/uksi/2004/1899/article/6/1)[(3)](https://www.legislation.gov.uk/uksi/2004/1899/article/6/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2004/1899/schedule/3) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2004/1899/article/1/3), [3](https://www.legislation.gov.uk/uksi/2004/1899/article/3))
 
 [^c12406971]: Modification: [S. 5](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/27/section/5) amended by Carriage by [Air (Supplementary Provisions) Act 1962 (c. 43, SIF 9)](https://www.legislation.gov.uk/ukpga/1962/43), [s. 3(2)](https://www.legislation.gov.uk/ukpga/1962/43/section/3/2)
 

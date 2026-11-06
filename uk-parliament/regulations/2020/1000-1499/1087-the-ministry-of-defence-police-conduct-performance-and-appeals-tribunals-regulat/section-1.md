@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Citation and commencement[^key-175e8a40fcc7c6cb9a1129e6fdc1d7b4]
+## 1. Citation and commencement[^c-175e8a40fcc7c6cb9a1129e6fdc1d7b4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ These Regulations may be cited as the Ministry of Defence Police (Conduct, Perfo
 
 ## Annotations
 
-[^key-175e8a40fcc7c6cb9a1129e6fdc1d7b4]: Commencement: Reg. 1 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-175e8a40fcc7c6cb9a1129e6fdc1d7b4]: Commencement: Reg. 1 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)

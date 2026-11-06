@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 5 — Streets to be temporarily closed[^key-535f27eeab85503d4834df78b8c0b797]
+## SCHEDULE 5 — Streets to be temporarily closed[^c-535f27eeab85503d4834df78b8c0b797]
 
 *Extent: E+W*
 
@@ -144,4 +144,4 @@ Article 10
 
 ## Annotations
 
-[^key-535f27eeab85503d4834df78b8c0b797]: Commencement: Sch. 5 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)
+[^c-535f27eeab85503d4834df78b8c0b797]: Commencement: Sch. 5 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 96. First instance decisions[^key-80df73967a6cf7208926ace576f337e2]
+## 96. First instance decisions[^c-80df73967a6cf7208926ace576f337e2]
 
 *Extent: E+W+S*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-80df73967a6cf7208926ace576f337e2]: Commencement: Reg. 96 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-80df73967a6cf7208926ace576f337e2]: Commencement: Reg. 96 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

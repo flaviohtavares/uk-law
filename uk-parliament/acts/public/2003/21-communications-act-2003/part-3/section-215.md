@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 215. Replacement of existing Channel 3 and Channel 5 licences[^key-9c1b16a403b5226aa7063c9d4b92dd05]
+## 215. Replacement of existing Channel 3 and Channel 5 licences[^c-9c1b16a403b5226aa7063c9d4b92dd05]
 
 *Extent: E+W+S+N.I.*
 
@@ -84,4 +84,4 @@ the existing licence shall have effect as if the period for which it is to conti
 
 ## Annotations
 
-[^key-9c1b16a403b5226aa7063c9d4b92dd05]: Commencement: S. 215 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-9c1b16a403b5226aa7063c9d4b92dd05]: Commencement: S. 215 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))

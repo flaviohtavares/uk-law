@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Civil enforcement of traffic contraventions[^key-0609d2aa6fd56b7ff03a3add99956fcd]
+## 27. Civil enforcement of traffic contraventions[^c-0609d2aa6fd56b7ff03a3add99956fcd]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 10 confers on combined authorities and CCAs functions in relation to ci
 
 ## Annotations
 
-[^key-0609d2aa6fd56b7ff03a3add99956fcd]: Commencement: S. 27 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-0609d2aa6fd56b7ff03a3add99956fcd]: Commencement: S. 27 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)

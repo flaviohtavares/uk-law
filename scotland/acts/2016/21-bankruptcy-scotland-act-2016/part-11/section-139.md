@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 139. Discharge of debtor: review and appeal[^key-e4608a44ce18489abce54c001cec3571]
+## 139. Discharge of debtor: review and appeal[^c-e4608a44ce18489abce54c001cec3571]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e4608a44ce18489abce54c001cec3571]: Commencement: [S. 139](https://www.legislation.gov.uk/asp/2016/21/section/139) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-e4608a44ce18489abce54c001cec3571]: Commencement: [S. 139](https://www.legislation.gov.uk/asp/2016/21/section/139) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Publication of names of qualified applicants[^key-1015b935a8a93057f231770259cab923]
+## 11. Publication of names of qualified applicants[^c-1015b935a8a93057f231770259cab923]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ OFCOM shall notify each applicant qualified to participate of the name of each o
 
 ## Annotations
 
-[^key-1015b935a8a93057f231770259cab923]: Commencement: Reg. 11 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-1015b935a8a93057f231770259cab923]: Commencement: Reg. 11 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

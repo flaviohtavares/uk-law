@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 73. Suspension of censure pending appeal.[^key-9a11bc01793ad997b7385784efb50ce5]
+## 73. Suspension of censure pending appeal.[^c-9a11bc01793ad997b7385784efb50ce5]
 
 *Extent: E*
 
@@ -24,4 +24,4 @@ In any case in which pursuant to the provisions of this Measure, an appeal is lo
 
 ## Annotations
 
-[^key-9a11bc01793ad997b7385784efb50ce5]: Modification: [S. 73](https://www.legislation.gov.uk/ukcm/1963/1/section/73) applied (with modifications) (1.1.2006) by [Clergy Discipline Measure 2003 (No. 3)](https://www.legislation.gov.uk/ukcm/2003/3), [ss. 35(1)](https://www.legislation.gov.uk/ukcm/2003/3/section/35/1), [48(2)](https://www.legislation.gov.uk/ukcm/2003/3/section/48/2) (with [s. 47](https://www.legislation.gov.uk/ukcm/2003/3/section/47)); [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
+[^c-9a11bc01793ad997b7385784efb50ce5]: Modification: [S. 73](https://www.legislation.gov.uk/ukcm/1963/1/section/73) applied (with modifications) (1.1.2006) by [Clergy Discipline Measure 2003 (No. 3)](https://www.legislation.gov.uk/ukcm/2003/3), [ss. 35(1)](https://www.legislation.gov.uk/ukcm/2003/3/section/35/1), [48(2)](https://www.legislation.gov.uk/ukcm/2003/3/section/48/2) (with [s. 47](https://www.legislation.gov.uk/ukcm/2003/3/section/47)); [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops

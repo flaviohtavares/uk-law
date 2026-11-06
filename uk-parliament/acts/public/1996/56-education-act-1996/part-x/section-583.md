@@ -37,10 +37,10 @@ shall come into force on such day as the Secretary of State may by order appoint
 
 (4) The Secretary of State may by order make such incidental, supplemental, saving or transitional provision as he thinks fit in connection with the coming into force in accordance with subsection (2) of any provision of this Act reproducing the effect of a provision of the [^c15256581]Education Act 1993 which has not previously been brought into force by an order under section 308(3) of that Act (commencement).
 
-(5) Where an order under subsection (3) brings into force any provision of section 317(6) or 528, then in relation to the coming into force of that provision— *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-2c372cf4f32d211c81240fd8e30ba070]
+(5) Where an order under subsection (3) brings into force any provision of section 317(6) or 528, then in relation to the coming into force of that provision— *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-2c372cf4f32d211c81240fd8e30ba070]
 
-- (a (Extent: E+W+S) (affected by repeal, see note))[^key-2c372cf4f32d211c81240fd8e30ba070] section 568(5) and (6) shall not apply to the order, but *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-2c372cf4f32d211c81240fd8e30ba070]
-- (b (Extent: E+W+S) (affected by repeal, see note))[^key-2c372cf4f32d211c81240fd8e30ba070] the order may make such provision as is authorised to be made, by virtue of section 67(2) and (3) of the *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-2c372cf4f32d211c81240fd8e30ba070] [^c15256591]Disability Discrimination Act 1995 (regulations and orders), by an order under section 70(3) of that Act (commencement). *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-2c372cf4f32d211c81240fd8e30ba070]
+- (a (Extent: E+W+S) (affected by repeal, see note))[^c-2c372cf4f32d211c81240fd8e30ba070] section 568(5) and (6) shall not apply to the order, but *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-2c372cf4f32d211c81240fd8e30ba070]
+- (b (Extent: E+W+S) (affected by repeal, see note))[^c-2c372cf4f32d211c81240fd8e30ba070] the order may make such provision as is authorised to be made, by virtue of section 67(2) and (3) of the *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-2c372cf4f32d211c81240fd8e30ba070] [^c15256591]Disability Discrimination Act 1995 (regulations and orders), by an order under section 70(3) of that Act (commencement). *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-2c372cf4f32d211c81240fd8e30ba070]
 
 (6) Subject to subsections (7) and (8), this Act extends to England and Wales only.
 
@@ -58,6 +58,6 @@ shall come into force on such day as the Secretary of State may by order appoint
 
 [^c15256581]: Marginal citation: [1993 c. 35](https://www.legislation.gov.uk/ukpga/1993/35).
 
-[^key-2c372cf4f32d211c81240fd8e30ba070]: Textual amendment: S. 583(5) omitted (E.W.S.) by 2010 c. 15, Sch. 26 Pt. 1 para. 39 (as inserted (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2010/2279/schedule/1/paragraph/5)) (see S.I. 2010/2317, art. 2)
+[^c-2c372cf4f32d211c81240fd8e30ba070]: Textual amendment: S. 583(5) omitted (E.W.S.) by 2010 c. 15, Sch. 26 Pt. 1 para. 39 (as inserted (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2010/2279/schedule/1/paragraph/5)) (see S.I. 2010/2317, art. 2)
 
 [^c15256591]: Marginal citation: [1995 c. 50](https://www.legislation.gov.uk/ukpga/1995/50).

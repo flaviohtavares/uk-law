@@ -132,7 +132,7 @@ Section 222.
 
 **13.** “**Foundation governor**” means a person who—
 
-- (a) is appointed otherwise than by a local authority[^key-6f7ad3e2cc8ee9e0ff2977c70c6c2e41] or the funding authority,
+- (a) is appointed otherwise than by a local authority[^c-6f7ad3e2cc8ee9e0ff2977c70c6c2e41] or the funding authority,
 - (b) where paragraph 8(1)(b) or (2)(b) applies, is appointed for the purpose there referred to, and
 - (c) where there is a trust deed relating to the school, is appointed for the purpose of securing that the school is conducted in accordance with that deed.
 
@@ -146,4 +146,4 @@ Section 222.
 
 ## Annotations
 
-[^key-6f7ad3e2cc8ee9e0ff2977c70c6c2e41]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/2) (with [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/5))
+[^c-6f7ad3e2cc8ee9e0ff2977c70c6c2e41]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/2) (with [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/5))

@@ -47,13 +47,13 @@ Coming into force
 
 The Lord Chancellor, in exercise of the powers conferred by sections 21(2), 23(5)(a) and 41(1)(a) and (b), (2)(a) and (b) and 3(c) of the Legal Aid, Sentencing and Punishment of Offenders Act 2012[^f00001], makes the following Regulations.
 
-## 1. Citation, commencement and extent[^key-5a65b021b17fed831ed1073ab07a5566]
+## 1. Citation, commencement and extent[^c-5a65b021b17fed831ed1073ab07a5566]
 
 (1) These Regulations may be cited as the Civil Legal Aid (Financial Resources and Payment for Services) (Amendment) Regulations 2023 and come into force on 10 February 2023.
 
 (2) These Regulations extend to England and Wales.
 
-## 2. Amendments to the Civil Legal Aid (Financial Resources and Payment for Services) Regulations 2013[^key-3366646faac7342b4bee077334ce0f9e]
+## 2. Amendments to the Civil Legal Aid (Financial Resources and Payment for Services) Regulations 2013[^c-3366646faac7342b4bee077334ce0f9e]
 
 (1) The Civil Legal Aid (Financial Resources and Payment for Services) Regulations 2013[^f00002] are amended as follows.
 
@@ -106,7 +106,7 @@ The Lord Chancellor, in exercise of the powers conferred by sections 21(2), 23(5
 - (b) at the end of the definition of “special Children Act 1989 case” omit “and”;
 - (c) at the end of the definition of “TPIM proceedings” insert “; and”.
 
-## 3. Transitional provisions[^key-d208dd2ba32435d42b320db32fed2ab4]
+## 3. Transitional provisions[^c-d208dd2ba32435d42b320db32fed2ab4]
 
 (1) Paragraph (2) applies to an application for civil legal services that is made before the relevant date and has yet to be determined and has not been withdrawn on the relevant date.
 
@@ -124,12 +124,12 @@ The Lord Chancellor, in exercise of the powers conferred by sections 21(2), 23(5
 (6) In this regulation—
 
 - “**the 2013 Regulations**” means the Civil Legal Aid (Financial Resources and Payment for Services) Regulations 2013;
-- [^key-efcffecd571f57d954581e17bac8b5f3]...
-- [^key-efcffecd571f57d954581e17bac8b5f3]...
+- [^c-efcffecd571f57d954581e17bac8b5f3]...
+- [^c-efcffecd571f57d954581e17bac8b5f3]...
 - “**Client and Cost Management System**” means the system used by the Director to manage applications for civil legal services;
-- [^key-efcffecd571f57d954581e17bac8b5f3]...
+- [^c-efcffecd571f57d954581e17bac8b5f3]...
 - “**the relevant date**” means the date on which these Regulations come into force;
-- [^key-efcffecd571f57d954581e17bac8b5f3]...
+- [^c-efcffecd571f57d954581e17bac8b5f3]...
 
 Bellamy
 
@@ -157,9 +157,9 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00001]: Footnote: [2012 c. 10](https://www.legislation.gov.uk/ukpga/2012/10)
 
-[^key-5a65b021b17fed831ed1073ab07a5566]: Commencement: Reg. 1 in force at 10.2.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/45/regulation/1/1)
+[^c-5a65b021b17fed831ed1073ab07a5566]: Commencement: Reg. 1 in force at 10.2.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/45/regulation/1/1)
 
-[^key-3366646faac7342b4bee077334ce0f9e]: Commencement: Reg. 2 in force at 10.2.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/45/regulation/1/1)
+[^c-3366646faac7342b4bee077334ce0f9e]: Commencement: Reg. 2 in force at 10.2.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/45/regulation/1/1)
 
 [^f00002]: Footnote: [S.I. 2013/480](https://www.legislation.gov.uk/uksi/2013/480), as amended by [S.I. 2013/753](https://www.legislation.gov.uk/uksi/2013/753), [S.I. 2014/812](https://www.legislation.gov.uk/uksi/2014/812), [S.I. 2014/2701](https://www.legislation.gov.uk/uksi/2014/2701), [S.I. 2021/1423](https://www.legislation.gov.uk/uksi/2021/1423). There are other amending instruments, but none are relevant.
 
@@ -173,6 +173,6 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00007]: Footnote: [2014 anaw 4](https://www.legislation.gov.uk/anaw/2014/4)
 
-[^key-d208dd2ba32435d42b320db32fed2ab4]: Commencement: Reg. 3 in force at 10.2.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/45/regulation/1/1)
+[^c-d208dd2ba32435d42b320db32fed2ab4]: Commencement: Reg. 3 in force at 10.2.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/45/regulation/1/1)
 
-[^key-efcffecd571f57d954581e17bac8b5f3]: Textual amendment: Words in [reg. 3(6)](https://www.legislation.gov.uk/uksi/2023/45/regulation/3/6) omitted (3.8.2023) by virtue of [The Criminal and Civil Legal Aid (Amendment) Regulations 2023 (S.I. 2023/745)](https://www.legislation.gov.uk/uksi/2023/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/745/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2023/745/regulation/5/2) (with [reg. 6](https://www.legislation.gov.uk/uksi/2023/745/regulation/6))
+[^c-efcffecd571f57d954581e17bac8b5f3]: Textual amendment: Words in [reg. 3(6)](https://www.legislation.gov.uk/uksi/2023/45/regulation/3/6) omitted (3.8.2023) by virtue of [The Criminal and Civil Legal Aid (Amendment) Regulations 2023 (S.I. 2023/745)](https://www.legislation.gov.uk/uksi/2023/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/745/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2023/745/regulation/5/2) (with [reg. 6](https://www.legislation.gov.uk/uksi/2023/745/regulation/6))

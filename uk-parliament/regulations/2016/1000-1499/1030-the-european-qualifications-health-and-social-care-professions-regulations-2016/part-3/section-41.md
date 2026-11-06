@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Amendment of Schedule 2[^key-fa96585ba68f55e5de0d4870599ec305]
+## 41. Amendment of Schedule 2[^c-fa96585ba68f55e5de0d4870599ec305]
 
 *Extent: E+W+S+N.I.*
 
@@ -100,4 +100,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fa96585ba68f55e5de0d4870599ec305]: Commencement: Reg. 41 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-fa96585ba68f55e5de0d4870599ec305]: Commencement: Reg. 41 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)

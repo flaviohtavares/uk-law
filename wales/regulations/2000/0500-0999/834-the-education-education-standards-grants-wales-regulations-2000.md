@@ -41,13 +41,13 @@ Coming into force
 
 In exercise of the powers conferred upon the Secretary of State by sections 484, 489 and 569(4) of the Education Act 1996[^f00001] and now vested in the National Assembly for Wales[^f00002], the National Assembly for Wales makes the following Regulations:
 
-## 1. Citation, commencement and application[^key-f1a5e13c82ad817353eec13b1725431d]
+## 1. Citation, commencement and application[^c-f1a5e13c82ad817353eec13b1725431d]
 
 (1) These Regulations may be cited as the Education (Education Standards Grants) (Wales) Regulations 2000 and shall come into force on 1st April 2000.
 
 (2) These Regulations apply in relation to local education authorities in Wales.
 
-## 2. Interpretation[^key-637cda7d0bb8952cd48eedd11fb28392]
+## 2. Interpretation[^c-637cda7d0bb8952cd48eedd11fb28392]
 
 (1) In these Regulations –
 
@@ -88,11 +88,11 @@ In exercise of the powers conferred upon the Secretary of State by sections 484,
 
 (2) In these Regulations a reference to a regulation is a reference to a regulation contained herein, a reference in a regulation to a paragraph is a reference to a paragraph of that regulation, and a reference to the Schedule is a reference to the Schedule to these Regulations.
 
-## 3. Expenditure in respect of which grants are payable[^key-56b2103848f1ca379ed0b5ad7abf67e9]
+## 3. Expenditure in respect of which grants are payable[^c-56b2103848f1ca379ed0b5ad7abf67e9]
 
 Grants shall be payable only in respect of prescribed expenditure incurred or to be incurred in a financial year and only to the extent to which that expenditure is approved for that year by the National Assembly for the purposes of these Regulations.
 
-## 4. Grants in respect of payments to third parties[^key-953b75374fffc9494e8e5d4f9a2ed35b]
+## 4. Grants in respect of payments to third parties[^c-953b75374fffc9494e8e5d4f9a2ed35b]
 
 Where –
 
@@ -101,7 +101,7 @@ Where –
 
 such payments shall to that extent be treated as prescribed expenditure for the purposes of these Regulations.
 
-## 5. Rate of Grant[^key-bcb40097abd514a8a5a558e8e3a96387]
+## 5. Rate of Grant[^c-bcb40097abd514a8a5a558e8e3a96387]
 
 Grants in respect of approved expenditure incurred on or after 1st April 2000 of the kind referred to in the paragraphs of the Schedule listed in the left hand column of the table below shall be payable at the percentage rate of such expenditure specified in relation thereto in the right hand column of the table.
 
@@ -114,7 +114,7 @@ TABLE
 | 28 | 70 |
 | All other paragraphs | 60 |
 
-## 6. Conditions for payment of grant[^key-30f5ef5a6341dd3e0f6f34833f0d80a7]
+## 6. Conditions for payment of grant[^c-30f5ef5a6341dd3e0f6f34833f0d80a7]
 
 (1) No payment of grant shall be made except in response to an application in writing from an education authority to the National Assembly, authenticated by the officer of the authority responsible for the administration of their financial affairs or that person’s deputy.
 
@@ -137,9 +137,9 @@ TABLE
 
 (7) Any under-payment or over-payment of grant which remains outstanding following receipt of the auditor’s certificate referred to in paragraph (5)(b) shall, without prejudice to the recovery of any over-payment from any subsequent payment of grant to the education authority, be adjusted by payment between the authority and the National Assembly.
 
-**7.**[^key-29c777ec83a86dc658043f1ae77ee2e2] Where at the time of approving expenditure for the purpose of these Regulations, the National Assembly requests information in respect of any purpose listed in the Schedule, payment of grant in respect of that purpose shall be conditional on that information being included in the education authority’s application for payment of grant.
+**7.**[^c-29c777ec83a86dc658043f1ae77ee2e2] Where at the time of approving expenditure for the purpose of these Regulations, the National Assembly requests information in respect of any purpose listed in the Schedule, payment of grant in respect of that purpose shall be conditional on that information being included in the education authority’s application for payment of grant.
 
-**8.**[^key-55d3d0e23be6978671f46285fea5df16] –
+**8.**[^c-55d3d0e23be6978671f46285fea5df16] –
 
 (1) The National Assembly may from time to time determine further conditions on the fulfilment of which the making of any payment in pursuance of the Regulations shall be dependent.
 
@@ -147,13 +147,13 @@ TABLE
 
 (3) The National Assembly may determine to withdraw or, after consulting the education authority, to vary conditions determined in pursuance of this regulation.
 
-## 9. Requirements to be complied with[^key-48c80c3707645bcff32d141225c6677e]
+## 9. Requirements to be complied with[^c-48c80c3707645bcff32d141225c6677e]
 
 Any education authority to whom a payment of grant has been made shall, if so required by the National Assembly, furnish it with such further information as may be required to enable it to verify that any grant paid has been properly paid under these Regulations.
 
-**10.**[^key-c050b56319a1fe6f5332fd178f44c2c9] Any education authority to whom a payment of grant has been made shall comply with such requirements (including requirements as to the repayment of grant or the payment to the National Assembly of other sums related to the value of assets acquired, provided or improved with the aid of grant or interest on sums due to it) as may be determined by the National Assembly in the case in question.
+**10.**[^c-c050b56319a1fe6f5332fd178f44c2c9] Any education authority to whom a payment of grant has been made shall comply with such requirements (including requirements as to the repayment of grant or the payment to the National Assembly of other sums related to the value of assets acquired, provided or improved with the aid of grant or interest on sums due to it) as may be determined by the National Assembly in the case in question.
 
-**11.**[^key-597e9e527060f50690e1e132230e9de7] (1) The National Assembly may require any education authority to delegate decisions about the spending of–
+**11.**[^c-597e9e527060f50690e1e132230e9de7] (1) The National Assembly may require any education authority to delegate decisions about the spending of–
 
 - (a) grant, and
 - (b) amounts allocated by the authority to meet prescribed expenditure approved in accordance with regulation 3,
@@ -162,7 +162,7 @@ to the governing body of a maintained school.
 
 (2) The National Assembly may determine to withdraw or, after consulting the education authority, to vary requirements determined in pursuance of this regulation.
 
-## 12. Revocation and saving provisions[^key-cba005584794964c020328b336ba909a]
+## 12. Revocation and saving provisions[^c-cba005584794964c020328b336ba909a]
 
 The Education (Education Standards Grants) (Wales) Regulations 1999[^f00013] are hereby revoked, but those Regulations shall continue to apply to the payments of grant authorised by those Regulations in respect of expenditure incurred on or before the day these Regulations come into force and to any condition or requirement determined by or in accordance with the Regulations so revoked.
 
@@ -178,7 +178,7 @@ D. Elis Thomas
 
 **Regulations 2 and 3**
 
-**1.**[^key-72332bfa1ea14a8f84a9359862e8cd8f] The provision of –
+**1.**[^c-72332bfa1ea14a8f84a9359862e8cd8f] The provision of –
 
 - (a) support and training for the implementation and administration of schemes (within the meaning of section 48 of the 1998 Act) for financing maintained schools;
 - (b) training and professional development in management and leadership skills of teachers and those employed in schools as secretaries, bursars and in other administrative capacities;
@@ -192,26 +192,26 @@ D. Elis Thomas
 - (j) training for persons employed at schools which is aimed at equipping (or better equipping) them to conduct, or to assist in conducting, acts of religious worship at such schools in accordance with section 70 of the 1998 Act; and
 - (k) support and training for school governors in carrying out reviews of the performance of teachers (including head teachers and deputy head teachers).
 
-**2.**[^key-69f1faee406bba04578ff4d7e52cb574] –
+**2.**[^c-69f1faee406bba04578ff4d7e52cb574] –
 
 - (a) Support and training for the implementation in schools of the arrangements for assessing pupils in relation to National Curriculum attainment targets under Chapter II of Part V of the 1996 Act[^f00015], or in relation to a baseline assessment scheme;
 - (b) Training for teachers in the following activities, namely –
   - (i) administering National Curriculum tests, administering and marking National Curriculum tasks and carrying out teacher assessments in respect of key stages 2 and 3 in accordance with the requirements of articles 4 to 9 of the Education (National Curriculum) (Assessment Arrangements for English, Welsh, Mathematics and Science) (Key Stage 2) (Wales) Order 1997[^f00016] and articles 4 to 12 of the Education (National Curriculum) (Key Stage 3 Assessment Arrangements) (Wales) Order 1997[^f00017], and
   - (ii) administering and marking standard task assessments and carrying out teacher assessments in respect of key stage 1 in accordance with the requirements of articles 4 to 9 of the Education (National Curriculum) (Assessment Arrangements for English, Welsh, Mathematics and Science) (Key Stage 1) (Wales) Order 1997[^f00018] and the provision of additional staff to assist schools for the period during which teachers are engaged in those activities.
 
-**3.**[^key-fb4b86e4c9bf3e0ed044a3b087279f8f] Support for schemes to improve the teaching of literacy and numeracy in primary schools with a view to improving pupils' standards of literacy and numeracy in such schools.
+**3.**[^c-fb4b86e4c9bf3e0ed044a3b087279f8f] Support for schemes to improve the teaching of literacy and numeracy in primary schools with a view to improving pupils' standards of literacy and numeracy in such schools.
 
-**4.**[^key-6b57080158b6af807bc608c81d16d984] The training and professional development of head teachers.
+**4.**[^c-6b57080158b6af807bc608c81d16d984] The training and professional development of head teachers.
 
-**5.**[^key-6ed0c701b2b915dbda996ea742d22725] The professional development and training of teachers (other than head teachers), including –
+**5.**[^c-6ed0c701b2b915dbda996ea742d22725] The professional development and training of teachers (other than head teachers), including –
 
 - (a) professional development and training with a view to their taking the National Professional Qualification for Headship;
 - (b) support for activities designed to develop effective programmes of work related education (including training and development for teachers) in accordance with the programme set out in the document published by the Qualifications, Curriculum and Assessment Authority for Wales[^f00019] in 1999 entitled “A Framework for Work Related Education for 14 to 19 Year Olds in Wales”[^f00020]; and
 - (c) training to give advice, assistance and support to persons seeking to become qualified or registered teachers.
 
-**6.**[^key-b03b69890fadd3a3caebf1fc77fae806] The training of teachers to teach, through the medium of Welsh, subjects required to be taught under the National Curriculum.
+**6.**[^c-b03b69890fadd3a3caebf1fc77fae806] The training of teachers to teach, through the medium of Welsh, subjects required to be taught under the National Curriculum.
 
-**7.**[^key-f03c3b5121c58e02344972c48ec60839]
+**7.**[^c-f03c3b5121c58e02344972c48ec60839]
 
 - (a) Training for headteachers, teachers and special needs assistants in maintained schools and in special schools which are not maintained schools and for those staff in such schools or in education authority support services with responsibility for children with special educational needs;
 - (b) The encouragement of partnerships between parents, education authorities, schools and voluntary bodies in order to secure a better education for children with special educational needs, through the use of materials, information technology and additional staff time to strengthen an education authority’s input to annual review meetings;
@@ -220,66 +220,66 @@ D. Elis Thomas
 - (e) Support for children with emotional and behavioural difficulties or at risk of developing emotional and behavioural difficulties;
 - (f) Support for the promotion of co-operation for educational purposes between an education authority and other bodies, including support for selected pilot projects to investigate and develop regional planning arrangements for the improvement of services for children with special educational needs.
 
-**8.**[^key-34ba14138be58ca25f355583c9f1f688] Support and training for governors of maintained schools and for those employed in such schools as teachers and in other capacities, in developing policies for pupils with special educational needs.
+**8.**[^c-34ba14138be58ca25f355583c9f1f688] Support and training for governors of maintained schools and for those employed in such schools as teachers and in other capacities, in developing policies for pupils with special educational needs.
 
-**9.**[^key-0c4c0627d12250719f43a7707b2b4734] Support for education authorities in identifying named persons.
+**9.**[^c-0c4c0627d12250719f43a7707b2b4734] Support for education authorities in identifying named persons.
 
-**10.**[^key-c042e178493b052e9d2794c14a19850a] Support for qualified teachers who are newly qualified.
+**10.**[^c-c042e178493b052e9d2794c14a19850a] Support for qualified teachers who are newly qualified.
 
-**11.**[^key-28533d58b2295393e6c47e3ac891f1f0] The training of persons granted a licence or authorisation to teach under regulations for the time being in force under section 218(3)[^f00021] of the Education Reform Act 1988 to enable them to become qualified teachers.
+**11.**[^c-28533d58b2295393e6c47e3ac891f1f0] The training of persons granted a licence or authorisation to teach under regulations for the time being in force under section 218(3)[^f00021] of the Education Reform Act 1988 to enable them to become qualified teachers.
 
-**12.**[^key-b38f2a07e3c388472ae156ee4295e2aa] Support for schools which offer vocational courses leading to General National Vocational Qualifications, or which are preparing for the introduction of such courses, including the provision of training, books and equipment.
+**12.**[^c-b38f2a07e3c388472ae156ee4295e2aa] Support for schools which offer vocational courses leading to General National Vocational Qualifications, or which are preparing for the introduction of such courses, including the provision of training, books and equipment.
 
-**13.**[^key-a97f3f7714baf5b584518c1ec6a3b725] Action to improve rates of attendance in, and reduce the numbers of children excluded from, schools and to improve provision for pupils whose behaviour poses difficulties for such schools.
+**13.**[^c-a97f3f7714baf5b584518c1ec6a3b725] Action to improve rates of attendance in, and reduce the numbers of children excluded from, schools and to improve provision for pupils whose behaviour poses difficulties for such schools.
 
-**14.**[^key-342cfa377dc46ee318dc815c844c724d] The training of persons employed as youth and community workers.
+**14.**[^c-342cfa377dc46ee318dc815c844c724d] The training of persons employed as youth and community workers.
 
-**15.**[^key-703850afe6add43ffbeab99c71f517aa] Training for teachers with responsibility for child protection in schools.
+**15.**[^c-703850afe6add43ffbeab99c71f517aa] Training for teachers with responsibility for child protection in schools.
 
-**16.**[^key-a5b230273427edc234d7b9e6e24aba95] Training for careers teachers, and training for other teachers in the provision of vocational and careers education and guidance in schools.
+**16.**[^c-a5b230273427edc234d7b9e6e24aba95] Training for careers teachers, and training for other teachers in the provision of vocational and careers education and guidance in schools.
 
-**17.**[^key-b892d1668fe632cfdc554272bf43ba99] Support for teachers at secondary schools in establishing an effective system for reviewing and recording pupils' achievements.
+**17.**[^c-b892d1668fe632cfdc554272bf43ba99] Support for teachers at secondary schools in establishing an effective system for reviewing and recording pupils' achievements.
 
-**18.**[^key-b4880669383874a5b7c49bc8d9230577] Training for teachers with responsibility for providing health and sex education in schools, particularly related to the misuse of drugs.
+**18.**[^c-b4880669383874a5b7c49bc8d9230577] Training for teachers with responsibility for providing health and sex education in schools, particularly related to the misuse of drugs.
 
-**19.**[^key-4c283948236fd0294e215fc48e3a2920] The improvement of the planning and co-ordination of educational provision for children aged under five, and the development of staff providing education for such children.
+**19.**[^c-4c283948236fd0294e215fc48e3a2920] The improvement of the planning and co-ordination of educational provision for children aged under five, and the development of staff providing education for such children.
 
-**20.**[^key-6c9e1e1395bd8c373ec27ba617ceb1a8] The provision of training and advice for persons employed at schools concerning action which could be taken to improve the security of school premises and the personal safety of pupils and persons working at schools.
+**20.**[^c-6c9e1e1395bd8c373ec27ba617ceb1a8] The provision of training and advice for persons employed at schools concerning action which could be taken to improve the security of school premises and the personal safety of pupils and persons working at schools.
 
-**21.**[^key-f28d8dd02acba5816efcdd8ae4bef111] Projects to improve levels of literacy of families by encouraging parents to assist their children with learning to read and write.
+**21.**[^c-f28d8dd02acba5816efcdd8ae4bef111] Projects to improve levels of literacy of families by encouraging parents to assist their children with learning to read and write.
 
-**22.**[^key-4d433a21a384a86669ce82f720259d82] The improvement of school sites, including –
+**22.**[^c-4d433a21a384a86669ce82f720259d82] The improvement of school sites, including –
 
 - (a) the provision of security surveillance equipment;
 - (b) the improvement, renovation or replacement of buildings, furniture and equipment (other than information and communications technology equipment) used for educational purposes;
 - (c) the provision and installation of cabling for information and communications technology equipment as part of such improvement, renovation or replacement (but not the provision and installation of equipment itself); and
 - (d) the provision and installation of equipment (including information and communications technology equipment) to enhance the teaching and learning of design and technology at key stages 3 and 4 and above, particularly in relation to control technology and the design and manufacture of products with the aid of information and communications technology and equipment.
 
-**23.**[^key-69e251a1135ec40dc7cb8fbd457207b4] Projects to foster the reintegration or progression of young persons into forms of education or training suitable to their needs, abilities and aptitudes.
+**23.**[^c-69e251a1135ec40dc7cb8fbd457207b4] Projects to foster the reintegration or progression of young persons into forms of education or training suitable to their needs, abilities and aptitudes.
 
-**24.**[^key-ad78bf0550691c873554893170bae92d] Support to enable maintained schools to secure effective use of the networked educational services made available through the National Grid for Learning.
+**24.**[^c-ad78bf0550691c873554893170bae92d] Support to enable maintained schools to secure effective use of the networked educational services made available through the National Grid for Learning.
 
-**25.**[^key-239d4f14f36dad4caac3d6af921ab2f3] Support for education authorities to develop and implement strategies to improve standards of literacy in Welsh and English and standards of numeracy.
+**25.**[^c-239d4f14f36dad4caac3d6af921ab2f3] Support for education authorities to develop and implement strategies to improve standards of literacy in Welsh and English and standards of numeracy.
 
-**26.**[^key-9082d6b7b98cf3c3bb103b6f8a316474] Support for measures to improve the standards attained by pupils in schools which are causing concern and in other schools, including support for measures in an education authority’s education strategic plan and for measures in a school development plan.
+**26.**[^c-9082d6b7b98cf3c3bb103b6f8a316474] Support for measures to improve the standards attained by pupils in schools which are causing concern and in other schools, including support for measures in an education authority’s education strategic plan and for measures in a school development plan.
 
-**27.**[^key-9173e7c3fcd140bbaca88ad336ce4b1c] Support for the setting up and running out of school hours learning activities for pupils in maintained schools, including motivational, creative and sporting activities and homework and study clubs.
+**27.**[^c-9173e7c3fcd140bbaca88ad336ce4b1c] Support for the setting up and running out of school hours learning activities for pupils in maintained schools, including motivational, creative and sporting activities and homework and study clubs.
 
-**28.**[^key-533168f8a678b5324a8125c02ad56974] Measures to provide equality of educational opportunity for all minority ethnic groups, including in particular measures to assist pupils for whom English is an additional language and measures to improve standards of achievement.
+**28.**[^c-533168f8a678b5324a8125c02ad56974] Measures to provide equality of educational opportunity for all minority ethnic groups, including in particular measures to assist pupils for whom English is an additional language and measures to improve standards of achievement.
 
-**29.**[^key-930987fdc947f3a55a470b45616413cc] Support for the setting up and running of summer literacy schools and of summer numeracy schools.
+**29.**[^c-930987fdc947f3a55a470b45616413cc] Support for the setting up and running of summer literacy schools and of summer numeracy schools.
 
-**30.**[^key-603db15d1be5193e18f0ae0a27f49c40] Support for the continuing, new or increased provision by an education authority of a central music service, including measures to improve the quality of music teaching, to improve equality of access to music services, to promote the development of choirs and instrumental ensembles of all types and to promote co-operative working between education authorities and other bodies.
+**30.**[^c-603db15d1be5193e18f0ae0a27f49c40] Support for the continuing, new or increased provision by an education authority of a central music service, including measures to improve the quality of music teaching, to improve equality of access to music services, to promote the development of choirs and instrumental ensembles of all types and to promote co-operative working between education authorities and other bodies.
 
-**31.**[^key-1baba1e03abec4834256088fd2ed745f] Training, for teachers of subjects for which first aid and health and safety have a particular relevance, which is aimed at equipping (or better equipping) them to administer first aid and informing them as to health and safety issues.
+**31.**[^c-1baba1e03abec4834256088fd2ed745f] Training, for teachers of subjects for which first aid and health and safety have a particular relevance, which is aimed at equipping (or better equipping) them to administer first aid and informing them as to health and safety issues.
 
-**32.**[^key-e87c4879f159371c4dc526d087e3f659] Training of persons employed as classroom assistants.
+**32.**[^c-e87c4879f159371c4dc526d087e3f659] Training of persons employed as classroom assistants.
 
-**33.**[^key-a4123ef3d1bb52481d3f61ea2a3c5ad5] Measures to provide classroom assistance and support for qualified teachers in maintained schools, including the employment of classroom assistants.
+**33.**[^c-a4123ef3d1bb52481d3f61ea2a3c5ad5] Measures to provide classroom assistance and support for qualified teachers in maintained schools, including the employment of classroom assistants.
 
-**34.**[^key-b9d69a5c658efb2960936a5f0d564178] The provision of additional staff to assist schools for the periods during which teachers are attending training courses.
+**34.**[^c-b9d69a5c658efb2960936a5f0d564178] The provision of additional staff to assist schools for the periods during which teachers are attending training courses.
 
-**35.**[^key-0afd7846250526da509e44e9bf7cdcc5] Measures to promote wider access to information and communications technology.
+**35.**[^c-0afd7846250526da509e44e9bf7cdcc5] Measures to promote wider access to information and communications technology.
 
 (This note is not part of the Regulations)
 
@@ -313,9 +313,9 @@ Section 484 of the Education Act 1996 enables the National Assembly for Wales to
 
 [^f00002]: Footnote: *See the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)).*
 
-[^key-f1a5e13c82ad817353eec13b1725431d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2000/834/regulation/1) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
+[^c-f1a5e13c82ad817353eec13b1725431d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2000/834/regulation/1) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
 
-[^key-637cda7d0bb8952cd48eedd11fb28392]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2000/834/regulation/2) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
+[^c-637cda7d0bb8952cd48eedd11fb28392]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2000/834/regulation/2) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
 
 [^f00003]: Footnote: *[1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31).*
 
@@ -333,37 +333,37 @@ Section 484 of the Education Act 1996 enables the National Assembly for Wales to
 
 [^f00010]: Footnote: *Section 337(1) is amended by paragraph 80 of Schedule 30 to the School Standards and Framework Act 1998.*
 
-[^key-56b2103848f1ca379ed0b5ad7abf67e9]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2000/834/regulation/3) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
+[^c-56b2103848f1ca379ed0b5ad7abf67e9]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2000/834/regulation/3) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
 
-[^key-953b75374fffc9494e8e5d4f9a2ed35b]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2000/834/regulation/4) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
+[^c-953b75374fffc9494e8e5d4f9a2ed35b]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2000/834/regulation/4) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
 
-[^key-bcb40097abd514a8a5a558e8e3a96387]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2000/834/regulation/5) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
+[^c-bcb40097abd514a8a5a558e8e3a96387]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2000/834/regulation/5) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
 
-[^key-30f5ef5a6341dd3e0f6f34833f0d80a7]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2000/834/regulation/6) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
+[^c-30f5ef5a6341dd3e0f6f34833f0d80a7]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2000/834/regulation/6) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
 
 [^f00011]: Footnote: *[1998 c. 18](https://www.legislation.gov.uk/ukpga/1998/18).*
 
 [^f00012]: Footnote: *Section 484 was amended by section 7(10) of and paragraph 125 of Schedule 30 to the School Standards and Framework Act 1998.*
 
-[^key-29c777ec83a86dc658043f1ae77ee2e2]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2000/834/regulation/7) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
+[^c-29c777ec83a86dc658043f1ae77ee2e2]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2000/834/regulation/7) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
 
-[^key-55d3d0e23be6978671f46285fea5df16]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2000/834/regulation/8) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
+[^c-55d3d0e23be6978671f46285fea5df16]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2000/834/regulation/8) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
 
-[^key-48c80c3707645bcff32d141225c6677e]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2000/834/regulation/9) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
+[^c-48c80c3707645bcff32d141225c6677e]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2000/834/regulation/9) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
 
-[^key-c050b56319a1fe6f5332fd178f44c2c9]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2000/834/regulation/10) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
+[^c-c050b56319a1fe6f5332fd178f44c2c9]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2000/834/regulation/10) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
 
-[^key-597e9e527060f50690e1e132230e9de7]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2000/834/regulation/11) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
+[^c-597e9e527060f50690e1e132230e9de7]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2000/834/regulation/11) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
 
-[^key-cba005584794964c020328b336ba909a]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2000/834/regulation/12) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
+[^c-cba005584794964c020328b336ba909a]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2000/834/regulation/12) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
 
 [^f00013]: Footnote: *S.I. [1999/521](https://www.legislation.gov.uk/uksi/1999/521).*
 
 [^f00014]: Footnote: *[1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).*
 
-[^key-72332bfa1ea14a8f84a9359862e8cd8f]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/wsi/2000/834/schedule/paragraph/1) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
+[^c-72332bfa1ea14a8f84a9359862e8cd8f]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/wsi/2000/834/schedule/paragraph/1) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
 
-[^key-69f1faee406bba04578ff4d7e52cb574]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/wsi/2000/834/schedule/paragraph/2) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
+[^c-69f1faee406bba04578ff4d7e52cb574]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/wsi/2000/834/schedule/paragraph/2) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
 
 [^f00015]: Footnote: *Chapter II is amended by paragraphs 26-28 of Schedule 7 to the Education Act 1997 and by paragraphs 87 -91 of Schedule 30 to the School Stardards and Framework Act 1998*
 
@@ -373,74 +373,74 @@ Section 484 of the Education Act 1996 enables the National Assembly for Wales to
 
 [^f00018]: Footnote: *S.I. [1997/2011](https://www.legislation.gov.uk/uksi/1997/2011).*
 
-[^key-fb4b86e4c9bf3e0ed044a3b087279f8f]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/wsi/2000/834/schedule/paragraph/3) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
+[^c-fb4b86e4c9bf3e0ed044a3b087279f8f]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/wsi/2000/834/schedule/paragraph/3) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
 
-[^key-6b57080158b6af807bc608c81d16d984]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/wsi/2000/834/schedule/paragraph/4) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
+[^c-6b57080158b6af807bc608c81d16d984]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/wsi/2000/834/schedule/paragraph/4) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
 
-[^key-6ed0c701b2b915dbda996ea742d22725]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/wsi/2000/834/schedule/paragraph/5) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
+[^c-6ed0c701b2b915dbda996ea742d22725]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/wsi/2000/834/schedule/paragraph/5) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
 
 [^f00019]: Footnote: *The Qualifications, Curriculum and Assessment Authority for Wales was established by section 14(1) (b) of the Education Reform Act [1988 (c. 40)](https://www.legislation.gov.uk/ukpga/1988/40), continued in existence by section 360 of the Education Act 1996 and given its current name by section 27(1) of the Education Act 1997.*
 
 [^f00020]: Footnote: *ISBN 1 86112 223 3*
 
-[^key-b03b69890fadd3a3caebf1fc77fae806]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/wsi/2000/834/schedule/paragraph/6) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
+[^c-b03b69890fadd3a3caebf1fc77fae806]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/wsi/2000/834/schedule/paragraph/6) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
 
-[^key-f03c3b5121c58e02344972c48ec60839]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/wsi/2000/834/schedule/paragraph/7) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
+[^c-f03c3b5121c58e02344972c48ec60839]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/wsi/2000/834/schedule/paragraph/7) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
 
-[^key-34ba14138be58ca25f355583c9f1f688]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/wsi/2000/834/schedule/paragraph/8) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
+[^c-34ba14138be58ca25f355583c9f1f688]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/wsi/2000/834/schedule/paragraph/8) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
 
-[^key-0c4c0627d12250719f43a7707b2b4734]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/wsi/2000/834/schedule/paragraph/9) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
+[^c-0c4c0627d12250719f43a7707b2b4734]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/wsi/2000/834/schedule/paragraph/9) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
 
-[^key-c042e178493b052e9d2794c14a19850a]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/wsi/2000/834/schedule/paragraph/10) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
+[^c-c042e178493b052e9d2794c14a19850a]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/wsi/2000/834/schedule/paragraph/10) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
 
-[^key-28533d58b2295393e6c47e3ac891f1f0]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/wsi/2000/834/schedule/paragraph/11) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
+[^c-28533d58b2295393e6c47e3ac891f1f0]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/wsi/2000/834/schedule/paragraph/11) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
 
 [^f00021]: Footnote: *Section 218(3) is amended by section 14(3) of the Education Act 1994 and is prospectively amended by section 10 of the Teaching and Higher Education Act 1998.*
 
-[^key-b38f2a07e3c388472ae156ee4295e2aa]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/wsi/2000/834/schedule/paragraph/12) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
+[^c-b38f2a07e3c388472ae156ee4295e2aa]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/wsi/2000/834/schedule/paragraph/12) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
 
-[^key-a97f3f7714baf5b584518c1ec6a3b725]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/wsi/2000/834/schedule/paragraph/13) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
+[^c-a97f3f7714baf5b584518c1ec6a3b725]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/wsi/2000/834/schedule/paragraph/13) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
 
-[^key-342cfa377dc46ee318dc815c844c724d]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/wsi/2000/834/schedule/paragraph/14) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
+[^c-342cfa377dc46ee318dc815c844c724d]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/wsi/2000/834/schedule/paragraph/14) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
 
-[^key-703850afe6add43ffbeab99c71f517aa]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/wsi/2000/834/schedule/paragraph/15) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
+[^c-703850afe6add43ffbeab99c71f517aa]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/wsi/2000/834/schedule/paragraph/15) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
 
-[^key-a5b230273427edc234d7b9e6e24aba95]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/wsi/2000/834/schedule/paragraph/16) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
+[^c-a5b230273427edc234d7b9e6e24aba95]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/wsi/2000/834/schedule/paragraph/16) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
 
-[^key-b892d1668fe632cfdc554272bf43ba99]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/wsi/2000/834/schedule/paragraph/17) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
+[^c-b892d1668fe632cfdc554272bf43ba99]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/wsi/2000/834/schedule/paragraph/17) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
 
-[^key-b4880669383874a5b7c49bc8d9230577]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/wsi/2000/834/schedule/paragraph/18) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
+[^c-b4880669383874a5b7c49bc8d9230577]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/wsi/2000/834/schedule/paragraph/18) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
 
-[^key-4c283948236fd0294e215fc48e3a2920]: Commencement: [Sch. para. 19](https://www.legislation.gov.uk/wsi/2000/834/schedule/paragraph/19) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
+[^c-4c283948236fd0294e215fc48e3a2920]: Commencement: [Sch. para. 19](https://www.legislation.gov.uk/wsi/2000/834/schedule/paragraph/19) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
 
-[^key-6c9e1e1395bd8c373ec27ba617ceb1a8]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/wsi/2000/834/schedule/paragraph/20) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
+[^c-6c9e1e1395bd8c373ec27ba617ceb1a8]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/wsi/2000/834/schedule/paragraph/20) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
 
-[^key-f28d8dd02acba5816efcdd8ae4bef111]: Commencement: [Sch. para. 21](https://www.legislation.gov.uk/wsi/2000/834/schedule/paragraph/21) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
+[^c-f28d8dd02acba5816efcdd8ae4bef111]: Commencement: [Sch. para. 21](https://www.legislation.gov.uk/wsi/2000/834/schedule/paragraph/21) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
 
-[^key-4d433a21a384a86669ce82f720259d82]: Commencement: [Sch. para. 22](https://www.legislation.gov.uk/wsi/2000/834/schedule/paragraph/22) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
+[^c-4d433a21a384a86669ce82f720259d82]: Commencement: [Sch. para. 22](https://www.legislation.gov.uk/wsi/2000/834/schedule/paragraph/22) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
 
-[^key-69e251a1135ec40dc7cb8fbd457207b4]: Commencement: [Sch. para. 23](https://www.legislation.gov.uk/wsi/2000/834/schedule/paragraph/23) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
+[^c-69e251a1135ec40dc7cb8fbd457207b4]: Commencement: [Sch. para. 23](https://www.legislation.gov.uk/wsi/2000/834/schedule/paragraph/23) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
 
-[^key-ad78bf0550691c873554893170bae92d]: Commencement: [Sch. para. 24](https://www.legislation.gov.uk/wsi/2000/834/schedule/paragraph/24) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
+[^c-ad78bf0550691c873554893170bae92d]: Commencement: [Sch. para. 24](https://www.legislation.gov.uk/wsi/2000/834/schedule/paragraph/24) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
 
-[^key-239d4f14f36dad4caac3d6af921ab2f3]: Commencement: [Sch. para. 25](https://www.legislation.gov.uk/wsi/2000/834/schedule/paragraph/25) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
+[^c-239d4f14f36dad4caac3d6af921ab2f3]: Commencement: [Sch. para. 25](https://www.legislation.gov.uk/wsi/2000/834/schedule/paragraph/25) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
 
-[^key-9082d6b7b98cf3c3bb103b6f8a316474]: Commencement: [Sch. para. 26](https://www.legislation.gov.uk/wsi/2000/834/schedule/paragraph/26) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
+[^c-9082d6b7b98cf3c3bb103b6f8a316474]: Commencement: [Sch. para. 26](https://www.legislation.gov.uk/wsi/2000/834/schedule/paragraph/26) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
 
-[^key-9173e7c3fcd140bbaca88ad336ce4b1c]: Commencement: [Sch. para. 27](https://www.legislation.gov.uk/wsi/2000/834/schedule/paragraph/27) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
+[^c-9173e7c3fcd140bbaca88ad336ce4b1c]: Commencement: [Sch. para. 27](https://www.legislation.gov.uk/wsi/2000/834/schedule/paragraph/27) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
 
-[^key-533168f8a678b5324a8125c02ad56974]: Commencement: [Sch. para. 28](https://www.legislation.gov.uk/wsi/2000/834/schedule/paragraph/28) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
+[^c-533168f8a678b5324a8125c02ad56974]: Commencement: [Sch. para. 28](https://www.legislation.gov.uk/wsi/2000/834/schedule/paragraph/28) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
 
-[^key-930987fdc947f3a55a470b45616413cc]: Commencement: [Sch. para. 29](https://www.legislation.gov.uk/wsi/2000/834/schedule/paragraph/29) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
+[^c-930987fdc947f3a55a470b45616413cc]: Commencement: [Sch. para. 29](https://www.legislation.gov.uk/wsi/2000/834/schedule/paragraph/29) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
 
-[^key-603db15d1be5193e18f0ae0a27f49c40]: Commencement: [Sch. para. 30](https://www.legislation.gov.uk/wsi/2000/834/schedule/paragraph/30) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
+[^c-603db15d1be5193e18f0ae0a27f49c40]: Commencement: [Sch. para. 30](https://www.legislation.gov.uk/wsi/2000/834/schedule/paragraph/30) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
 
-[^key-1baba1e03abec4834256088fd2ed745f]: Commencement: [Sch. para. 31](https://www.legislation.gov.uk/wsi/2000/834/schedule/paragraph/31) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
+[^c-1baba1e03abec4834256088fd2ed745f]: Commencement: [Sch. para. 31](https://www.legislation.gov.uk/wsi/2000/834/schedule/paragraph/31) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
 
-[^key-e87c4879f159371c4dc526d087e3f659]: Commencement: [Sch. para. 32](https://www.legislation.gov.uk/wsi/2000/834/schedule/paragraph/32) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
+[^c-e87c4879f159371c4dc526d087e3f659]: Commencement: [Sch. para. 32](https://www.legislation.gov.uk/wsi/2000/834/schedule/paragraph/32) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
 
-[^key-a4123ef3d1bb52481d3f61ea2a3c5ad5]: Commencement: [Sch. para. 33](https://www.legislation.gov.uk/wsi/2000/834/schedule/paragraph/33) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
+[^c-a4123ef3d1bb52481d3f61ea2a3c5ad5]: Commencement: [Sch. para. 33](https://www.legislation.gov.uk/wsi/2000/834/schedule/paragraph/33) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
 
-[^key-b9d69a5c658efb2960936a5f0d564178]: Commencement: [Sch. para. 34](https://www.legislation.gov.uk/wsi/2000/834/schedule/paragraph/34) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
+[^c-b9d69a5c658efb2960936a5f0d564178]: Commencement: [Sch. para. 34](https://www.legislation.gov.uk/wsi/2000/834/schedule/paragraph/34) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
 
-[^key-0afd7846250526da509e44e9bf7cdcc5]: Commencement: [Sch. para. 35](https://www.legislation.gov.uk/wsi/2000/834/schedule/paragraph/35) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)
+[^c-0afd7846250526da509e44e9bf7cdcc5]: Commencement: [Sch. para. 35](https://www.legislation.gov.uk/wsi/2000/834/schedule/paragraph/35) in force at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/834/regulation/1/1)

@@ -41,7 +41,7 @@ summary: ''
 - (a) wages or salary payable in respect of a period of holiday or absence from work through sickness or other good cause are deemed to be wages or (as the case may be) salary in respect of services rendered in that period, and
 - (b) a sum payable in lieu of holiday is deemed to be wages or (as the case may be) salary in respect of services rendered in the period by reference to which the holiday entitlement arose.
 
-(2D)[^key-b61af4caf2f888dbbe098c05f13f6572] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2D)[^c-b61af4caf2f888dbbe098c05f13f6572] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) This Article does not limit any right to indemnity which the administrative receiver would have apart from it, nor limit his liability on contracts entered into or adopted without authority, nor confer any right to indemnity in respect of that liability.
 
@@ -53,4 +53,4 @@ summary: ''
 
 [^c17597691]: Textual amendment: [1994 c.7](https://www.legislation.gov.uk/ukpga/1994/7)
 
-[^key-b61af4caf2f888dbbe098c05f13f6572]: Textual amendment: [Art. 54(2D)](https://www.legislation.gov.uk/nisi/1989/2405/article/54/2D) repealed (1.4.2016) by [Insolvency (Amendment) Act (Northern Ireland) 2016 (c. 2)](https://www.legislation.gov.uk/nia/2016/2), [ss. 10(3)](https://www.legislation.gov.uk/nia/2016/2/section/10/3), [28(2)](https://www.legislation.gov.uk/nia/2016/2/section/28/2), [Sch. 4](https://www.legislation.gov.uk/nia/2016/2/schedule/4); [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)
+[^c-b61af4caf2f888dbbe098c05f13f6572]: Textual amendment: [Art. 54(2D)](https://www.legislation.gov.uk/nisi/1989/2405/article/54/2D) repealed (1.4.2016) by [Insolvency (Amendment) Act (Northern Ireland) 2016 (c. 2)](https://www.legislation.gov.uk/nia/2016/2), [ss. 10(3)](https://www.legislation.gov.uk/nia/2016/2/section/10/3), [28(2)](https://www.legislation.gov.uk/nia/2016/2/section/28/2), [Sch. 4](https://www.legislation.gov.uk/nia/2016/2/schedule/4); [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Condition A is that each relevant company must be UK[^key-242247e29f0814cc64430d3141d8c7ad] resident or resident in a member State at the time of the distribution.
+(1) Condition A is that each relevant company must be UK[^c-242247e29f0814cc64430d3141d8c7ad] resident or resident in a member State at the time of the distribution.
 
 (2) Condition B is that at the time of the distribution—
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-242247e29f0814cc64430d3141d8c7ad]: Textual amendment: Words in [s. 1081(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1081/1) inserted (31.12.2020) by [The Taxes (Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/818)](https://www.legislation.gov.uk/uksi/2019/818), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/818/regulation/1/2), [8(5)](https://www.legislation.gov.uk/uksi/2019/818/regulation/8/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-242247e29f0814cc64430d3141d8c7ad]: Textual amendment: Words in [s. 1081(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1081/1) inserted (31.12.2020) by [The Taxes (Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/818)](https://www.legislation.gov.uk/uksi/2019/818), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/818/regulation/1/2), [8(5)](https://www.legislation.gov.uk/uksi/2019/818/regulation/8/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 122HA. Publication of corrective statements relating to benchmarks[^key-728031025990ea155b570b9027f144de][^key-6fd0432ab398d8bfa3958d489ec58a52]
+## 122HA. Publication of corrective statements relating to benchmarks[^c-728031025990ea155b570b9027f144de][^c-6fd0432ab398d8bfa3958d489ec58a52]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,6 +47,6 @@ correcting false or misleading information made public, or a false or misleading
 
 ## Annotations
 
-[^key-728031025990ea155b570b9027f144de]: Textual amendment: [S. 122HA](https://www.legislation.gov.uk/ukpga/2000/8/section/122HA) inserted (27.2.2018) by [The Financial Services and Markets Act 2000 (Benchmarks) Regulations 2018 (S.I. 2018/135)](https://www.legislation.gov.uk/uksi/2018/135), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/135/regulation/1/2), [41](https://www.legislation.gov.uk/uksi/2018/135/regulation/41)
+[^c-728031025990ea155b570b9027f144de]: Textual amendment: [S. 122HA](https://www.legislation.gov.uk/ukpga/2000/8/section/122HA) inserted (27.2.2018) by [The Financial Services and Markets Act 2000 (Benchmarks) Regulations 2018 (S.I. 2018/135)](https://www.legislation.gov.uk/uksi/2018/135), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/135/regulation/1/2), [41](https://www.legislation.gov.uk/uksi/2018/135/regulation/41)
 
-[^key-6fd0432ab398d8bfa3958d489ec58a52]: Textual amendment: Ss. 122A-122I and cross-headings inserted (3.7.2016) by [The Financial Services and Markets Act 2000 (Market Abuse) Regulations 2016 (S.I. 2016/680)](https://www.legislation.gov.uk/uksi/2016/680), [regs. 1](https://www.legislation.gov.uk/uksi/2016/680/regulation/1), [9(4)](https://www.legislation.gov.uk/uksi/2016/680/regulation/9/4)
+[^c-6fd0432ab398d8bfa3958d489ec58a52]: Textual amendment: Ss. 122A-122I and cross-headings inserted (3.7.2016) by [The Financial Services and Markets Act 2000 (Market Abuse) Regulations 2016 (S.I. 2016/680)](https://www.legislation.gov.uk/uksi/2016/680), [regs. 1](https://www.legislation.gov.uk/uksi/2016/680/regulation/1), [9(4)](https://www.legislation.gov.uk/uksi/2016/680/regulation/9/4)

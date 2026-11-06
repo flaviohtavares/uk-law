@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-255f31c7f914c26df5c00f1a7bd7e878] The Registrar General must—
+(1)[^c-255f31c7f914c26df5c00f1a7bd7e878] The Registrar General must—
 
 - (a) cause indexes of all entries in the marriage register made under section 53D(10)(a) to be made and kept in the General Register Office, and
 - (b) keep in the General Register Office indexes of certified copies of marriage register books kept in the General Register Office.
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-255f31c7f914c26df5c00f1a7bd7e878]: Textual amendment: S. 65(1)(2) substituted (4.5.2021) by [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 38](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/38) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
+[^c-255f31c7f914c26df5c00f1a7bd7e878]: Textual amendment: S. 65(1)(2) substituted (4.5.2021) by [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 38](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/38) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
 
 [^c6285761]: Textual amendment: S. 65(4) repealed by [Registration Service Act 1953 (c. 37)](https://www.legislation.gov.uk/ukpga/1953/37), [Sch. 2](https://www.legislation.gov.uk/ukpga/1953/37/schedule/2)

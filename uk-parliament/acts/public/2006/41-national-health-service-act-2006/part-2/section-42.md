@@ -26,13 +26,13 @@ summary: ''
 
 (3) The Secretary of State may, with the consent of the Treasury, decide the terms on which any public dividend capital of an NHS foundation trust must be treated as having been issued.
 
-(4)[^key-dd9ad006a798837256e85e841ed5c5fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-dd9ad006a798837256e85e841ed5c5fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-8e72117e0ccf1353f5b010d6aa328c83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-8e72117e0ccf1353f5b010d6aa328c83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) Any amount paid to the Secretary of State by an NHS foundation trust by way of repayment of public dividend capital must be paid into the Consolidated Fund.
 
-(7)[^key-c46b8512a8c5aa0f38b821d8e928a16a] The terms which may be decided under subsection (3) include terms to which the exercise of any power of an NHS foundation trust to do any of the following will be subject as a consequence—
+(7)[^c-c46b8512a8c5aa0f38b821d8e928a16a] The terms which may be decided under subsection (3) include terms to which the exercise of any power of an NHS foundation trust to do any of the following will be subject as a consequence—
 
 - (a) providing goods or services,
 - (b) borrowing or investing money,
@@ -44,8 +44,8 @@ summary: ''
 
 ## Annotations
 
-[^key-dd9ad006a798837256e85e841ed5c5fb]: Textual amendment: S. 42(4) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 163(3)](https://www.legislation.gov.uk/ukpga/2012/7/section/163/3), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-dd9ad006a798837256e85e841ed5c5fb]: Textual amendment: S. 42(4) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 163(3)](https://www.legislation.gov.uk/ukpga/2012/7/section/163/3), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-8e72117e0ccf1353f5b010d6aa328c83]: Textual amendment: S. 42(5) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 163(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/163/4), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-8e72117e0ccf1353f5b010d6aa328c83]: Textual amendment: S. 42(5) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 163(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/163/4), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-c46b8512a8c5aa0f38b821d8e928a16a]: Textual amendment: [S. 42(7)](https://www.legislation.gov.uk/ukpga/2006/41/section/42/7) inserted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 163(5)](https://www.legislation.gov.uk/ukpga/2012/7/section/163/5), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-c46b8512a8c5aa0f38b821d8e928a16a]: Textual amendment: [S. 42(7)](https://www.legislation.gov.uk/ukpga/2006/41/section/42/7) inserted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 163(5)](https://www.legislation.gov.uk/ukpga/2012/7/section/163/5), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

@@ -62,13 +62,13 @@ These Regulations—
 In these Regulations—
 
 - “**the Act**” means the Flood Risk Management (Scotland) Act 2009;
-- “**the consultative body[^key-fb585e277bff3ebf38ea734a18920bf7]** ” means—
+- “**the consultative body[^c-fb585e277bff3ebf38ea734a18920bf7]** ” means—
   - (a) SEPA;
   - (b) Scottish Natural Heritage;
   - (c) Scottish Water;
   - (d) any planning authority whose district is likely to be affected by the proposed flood protection scheme (other than the local authority proposing the scheme); and
   - (e) any other body designated by statutory provision as having specific environmental responsibilities which, in the opinion of the local authority proposing the flood protection scheme, has an interest in relation to the environmental effects of that scheme;
-- “[^key-2b26507618fb5c2324d7d721ae9cd2b5]the Directive” means [Directive 2011/92/EU](https://www.legislation.gov.uk/european/directive/2011/0092) of the European Parliament and of the Council on the assessment of the effects of certain public and private projects on the environment;
+- “[^c-2b26507618fb5c2324d7d721ae9cd2b5]the Directive” means [Directive 2011/92/EU](https://www.legislation.gov.uk/european/directive/2011/0092) of the European Parliament and of the Council on the assessment of the effects of certain public and private projects on the environment;
 - “EIA report” means a report prepared in accordance with regulation 6;
 - “environmental information” means, in respect of a proposed scheme or a modified scheme—
   - (a) the EIA report prepared in respect of the scheme;
@@ -84,11 +84,11 @@ In these Regulations—
 - “relevant assessment” means, in relation to a proposed scheme or a modified scheme, an assessment or verification of effects on the environment carried out pursuant to national legislation which is relevant to the assessment of the environmental impacts of the scheme;
 - “the scheme” means the proposed scheme or the modified scheme in question;
 - “scheme operations” means, in relation to a proposed scheme or a modified scheme, operations described in the scheme;
-- [^key-b4d316f7073aade9e34e76ad77eded4d]...
-- “screening opinion”, in relation to a proposed scheme or a modified scheme, means a written statement of opinion as to whether the scheme is required to be subject to an environmental impact assessment;[^key-138134d64a5bff735e986bc074a7b0a7]
-- [^key-a71ffb72101f37180ca8ffe112be7a3d]...
+- [^c-b4d316f7073aade9e34e76ad77eded4d]...
+- “screening opinion”, in relation to a proposed scheme or a modified scheme, means a written statement of opinion as to whether the scheme is required to be subject to an environmental impact assessment;[^c-138134d64a5bff735e986bc074a7b0a7]
+- [^c-a71ffb72101f37180ca8ffe112be7a3d]...
 
-### 2A. Meaning of “environmental impact assessment”, etc.[^key-e6987dbcc00c67798254403e14993def]
+### 2A. Meaning of “environmental impact assessment”, etc.[^c-e6987dbcc00c67798254403e14993def]
 
 (1) In these Regulations “environmental impact assessment” means, in respect of a proposed scheme or a modified scheme, a process consisting of—
 
@@ -103,7 +103,7 @@ In these Regulations—
 (3) The factors are—
 
 - (a) population and human health;
-- (b) biodiversity, and in particular species and habitats protected under any[^key-a0ca6eb97d0810c979af99b4099487a7] assimilated[^key-085d038fb14365f90e0bac711f70f17b] law which implemented Council [Directive 92/43/EEC](https://www.legislation.gov.uk/european/directive/1992/0043) on the conservation of natural habitats and of wild fauna and flora and [Directive 2009/147/EC](https://www.legislation.gov.uk/european/directive/2009/0147) of the European Parliament and of the Council on the conservation of wild birds;
+- (b) biodiversity, and in particular species and habitats protected under any[^c-a0ca6eb97d0810c979af99b4099487a7] assimilated[^c-085d038fb14365f90e0bac711f70f17b] law which implemented Council [Directive 92/43/EEC](https://www.legislation.gov.uk/european/directive/1992/0043) on the conservation of natural habitats and of wild fauna and flora and [Directive 2009/147/EC](https://www.legislation.gov.uk/european/directive/2009/0147) of the European Parliament and of the Council on the conservation of wild birds;
 - (c) land, soil, water, air and climate; and
 - (d) material assets, cultural heritage and the landscape.
 
@@ -111,7 +111,7 @@ In these Regulations—
 
 ## PART II — ENVIRONMENTAL IMPACT ASSESSMENT
 
-### 3. Restrictions on confirming a proposed scheme or a modified scheme[^key-6ed9148cd518a98ec4e2d394090e075c]
+### 3. Restrictions on confirming a proposed scheme or a modified scheme[^c-6ed9148cd518a98ec4e2d394090e075c]
 
 (1) A local authority must not—
 
@@ -386,7 +386,7 @@ the local authority or, as the case may be, the Scottish Ministers must consider
 (2) When considering whether to make such modifications, and the nature of any such monitoring measures, the local authority or the Scottish Ministers must consider—
 
 - (a) whether monitoring measures are proportionate to the nature, location and size of the scheme and the significance of its effects on the environment having regard in particular to the type of parameters to be monitored and the duration of the monitoring;
-- (b) in order to avoid duplication of monitoring, whether monitoring arrangements required under assimilated[^key-7ecfeb114291d30da1c54162f3bf7fc9][^key-bd7365c21d4ef724e36db987f3cd57ba] law (other than legislation implementing the requirements of the Directive) or other legislation applicable in Scotland are more appropriate; and
+- (b) in order to avoid duplication of monitoring, whether monitoring arrangements required under assimilated[^c-7ecfeb114291d30da1c54162f3bf7fc9][^c-bd7365c21d4ef724e36db987f3cd57ba] law (other than legislation implementing the requirements of the Directive) or other legislation applicable in Scotland are more appropriate; and
 - (c) if monitoring measures are to be required, whether provision should be made to require appropriate remedial action.
 
 (3) Where the local authority considers or, as the case may be, the Scottish Ministers consider that it is appropriate to make modifications to the scheme so as to require monitoring measures to be carried out, the local authority or, as the case may be, the Scottish Ministers must do so.
@@ -463,7 +463,7 @@ the individual as well as the body corporate, Scottish partnership or unincorpor
 
 ### 11. Maps, plans and specifications
 
-(1) A proposed scheme or, as the case may be, a modified scheme[^key-50e8f955cc080e85e07a263ae9e3b23a] must include a description, by reference to maps, plans and specifications, of—
+(1) A proposed scheme or, as the case may be, a modified scheme[^c-50e8f955cc080e85e07a263ae9e3b23a] must include a description, by reference to maps, plans and specifications, of—
 
 - (a) the extent and scale of the scheme operations;
 - (b) the land which the local authority considers may be affected by those operations; and
@@ -471,15 +471,15 @@ the individual as well as the body corporate, Scottish partnership or unincorpor
 
 (2) The maps and plans referred to in paragraph (1) must be at an appropriate scale to enable interested persons to identify whether their land will be affected by the scheme operations.
 
-(3) The proposed scheme or, as the case may be, the modified scheme[^key-e7043aa17a6499dd329cfcb8de791a51] must include an estimate of the cost of the scheme operations proposed to be carried out.
+(3) The proposed scheme or, as the case may be, the modified scheme[^c-e7043aa17a6499dd329cfcb8de791a51] must include an estimate of the cost of the scheme operations proposed to be carried out.
 
 ## PART IV — FURTHER PROCEDURAL PROVISIONS
 
 ### 12. Objections
 
-(1) Any objection to a proposed scheme or a modified scheme[^key-fca2e9fc0384caca91462ff9919334d5] under paragraph 3 of schedule 2 to the Act must be accompanied by a statement of the reasons for the objection.
+(1) Any objection to a proposed scheme or a modified scheme[^c-fca2e9fc0384caca91462ff9919334d5] under paragraph 3 of schedule 2 to the Act must be accompanied by a statement of the reasons for the objection.
 
-(2) Where an objector under paragraph 3 of schedule 2 to the Act has an interest in any land on which the scheme[^key-942551ac66ceef48e8aa49d1a521d011] operations are to be carried out or which may be affected by any of the scheme operations, or by any alteration in the flow of water caused by any of the scheme operations[^key-7c11a0cb7c5b0725bcc10745bf64aefe], that person's objection must include—
+(2) Where an objector under paragraph 3 of schedule 2 to the Act has an interest in any land on which the scheme[^c-942551ac66ceef48e8aa49d1a521d011] operations are to be carried out or which may be affected by any of the scheme operations, or by any alteration in the flow of water caused by any of the scheme operations[^c-7c11a0cb7c5b0725bcc10745bf64aefe], that person's objection must include—
 
 - (a) details of the land in which the objector has an interest;
 - (b) disclosure of the nature of the objector's interest in the land; and
@@ -495,14 +495,14 @@ the individual as well as the body corporate, Scottish partnership or unincorpor
 
 ### 14. Deemed planning permission
 
-(1) Where a local authority confirms a proposed scheme or a modified scheme[^key-8da95700cef967e45b36dc33ade254e6] under paragraph 4(1) or 9(1) of schedule 2 to the Act, it must request that the Scottish Ministers direct that planning permission for any development described in the scheme is to be deemed to be granted.
+(1) Where a local authority confirms a proposed scheme or a modified scheme[^c-8da95700cef967e45b36dc33ade254e6] under paragraph 4(1) or 9(1) of schedule 2 to the Act, it must request that the Scottish Ministers direct that planning permission for any development described in the scheme is to be deemed to be granted.
 
 (2) A request under paragraph (1) must be made to the Scottish Ministers in writing and must be accompanied by—
 
 - (a) a brief description of the nature and purpose of the confirmed scheme;
 - (b) a copy of the confirmed scheme;
 - (c) a summary of the scheme documents; and
-- (d) a summary of the EIA[^key-47bbe6de9de066df9adf376c5ccabc5d] report (if any).
+- (d) a summary of the EIA[^c-47bbe6de9de066df9adf376c5ccabc5d] report (if any).
 
 (3) A request under paragraph (1) may be accompanied by any other material which the local authority considers relevant to the grant of deemed planning permission.
 
@@ -603,7 +603,7 @@ St Andrew's House,
 
 Edinburgh
 
-## SCHEDULE 1 — SELECTION CRITERIA[^key-3232d57f4b521efa3403f50ddc41a973]
+## SCHEDULE 1 — SELECTION CRITERIA[^c-3232d57f4b521efa3403f50ddc41a973]
 
 Regulations 4(3) and 5
 
@@ -631,7 +631,7 @@ The environmental sensitivity of geographical areas likely to be affected by the
   - (iii) mountain and forest areas;
   - (iv) nature reserves and parks;
   - (v) European sites and other areas classified or protected under national legislation;
-  - (vi) areas in which there has already been a failure to meet the environmental quality standards, laid down in retained EU law[^key-ff2d887b5011ed073fa19b810f396b22] and relevant to the scheme, or in which it is considered that there is such a failure;
+  - (vi) areas in which there has already been a failure to meet the environmental quality standards, laid down in retained EU law[^c-ff2d887b5011ed073fa19b810f396b22] and relevant to the scheme, or in which it is considered that there is such a failure;
   - (vii) densely populated areas;
   - (viii) landscapes and sites of historical, cultural or archaeological significance.
 
@@ -657,7 +657,7 @@ In this schedule—
   - (a) the execution of construction works or of other installations or schemes; and
   - (b) other interventions in the natural surroundings and landscape including those involving the extraction of mineral resources.
 
-## SCHEDULE 2 — INFORMATION FOR INCLUSION IN EIA REPORTS[^key-ba0a45979942eff981bdf78acc8fc693]
+## SCHEDULE 2 — INFORMATION FOR INCLUSION IN EIA REPORTS[^c-ba0a45979942eff981bdf78acc8fc693]
 
 Regulation 6(2)(f)
 
@@ -684,7 +684,7 @@ Regulation 6(2)(f)
 - (f) the impact of the proposed scheme on climate (for example the nature and magnitude of greenhouse gas emissions) and the vulnerability of the scheme to climate change;
 - (g) the technologies and the substances used.
 
-(2) The description of the likely significant effects on the factors specified in regulation 2A(3) should cover the direct effects and any indirect, secondary, cumulative, transboundary, short-term, medium-term and long-term, permanent and temporary, positive and negative effects of the scheme. This description should take into account the environmental protection objectives in[^key-3ca23ccf597d774ba7191c84385ede12] assimilated[^key-243bc564ba7c0bfc555089ea4e7442b8] law or otherwise under the law of any part of the United Kingdom which are relevant to the scheme including in particular those established under any law in Scotland which implemented[^key-0477f36e65a47f70b90b5916a23afe82] Council [Directive 92/43/EEC](https://www.legislation.gov.uk/european/directive/1992/0043) on the conservation of natural habitats and of wild fauna and flora and [Directive 2009/147/EC](https://www.legislation.gov.uk/european/directive/2009/0147) of the European Parliament and of the Council on the conservation of wild birds.
+(2) The description of the likely significant effects on the factors specified in regulation 2A(3) should cover the direct effects and any indirect, secondary, cumulative, transboundary, short-term, medium-term and long-term, permanent and temporary, positive and negative effects of the scheme. This description should take into account the environmental protection objectives in[^c-3ca23ccf597d774ba7191c84385ede12] assimilated[^c-243bc564ba7c0bfc555089ea4e7442b8] law or otherwise under the law of any part of the United Kingdom which are relevant to the scheme including in particular those established under any law in Scotland which implemented[^c-0477f36e65a47f70b90b5916a23afe82] Council [Directive 92/43/EEC](https://www.legislation.gov.uk/european/directive/1992/0043) on the conservation of natural habitats and of wild fauna and flora and [Directive 2009/147/EC](https://www.legislation.gov.uk/european/directive/2009/0147) of the European Parliament and of the Council on the conservation of wild birds.
 
 (3) In sub-paragraph (1) “projects” means—
 
@@ -695,7 +695,7 @@ Regulation 6(2)(f)
 
 **7.** A description of the measures envisaged to avoid, prevent, reduce or, if possible, offset any identified significant adverse effects on the environment and, where appropriate, of any proposed monitoring arrangements (for example the preparation of a post-scheme analysis). That description should explain the extent, to which significant adverse effects on the environment are avoided, prevented, reduced or offset, and should cover both the construction and operational phases.
 
-**8.** A description of the expected significant adverse effects of the scheme on the environment deriving from the vulnerability of the scheme to risks of major accidents and/or disasters which are relevant to the scheme. Relevant information available and obtained pursuant to any law which implemented[^key-decc7442831099abe73d9bfddef2ae8d] [Directive 2012/18/EU](https://www.legislation.gov.uk/european/directive/2012/0018) of the European Parliament and of the Council on the control of major-accident hazards involving dangerous substances, amending and subsequently repealing Council [Directive 96/82/EC](https://www.legislation.gov.uk/european/directive/1996/0082) or Council Directive 2009/71/Euratom establishing a Community framework for the nuclear safety of nuclear installations or relevant assessments may be used for this purpose provided that the requirements of these Regulations are met. Where appropriate, this description should include measures envisaged to prevent or mitigate the significant adverse effects of such events on the environment and details of the preparedness for and proposed response to such emergencies.
+**8.** A description of the expected significant adverse effects of the scheme on the environment deriving from the vulnerability of the scheme to risks of major accidents and/or disasters which are relevant to the scheme. Relevant information available and obtained pursuant to any law which implemented[^c-decc7442831099abe73d9bfddef2ae8d] [Directive 2012/18/EU](https://www.legislation.gov.uk/european/directive/2012/0018) of the European Parliament and of the Council on the control of major-accident hazards involving dangerous substances, amending and subsequently repealing Council [Directive 96/82/EC](https://www.legislation.gov.uk/european/directive/1996/0082) or Council Directive 2009/71/Euratom establishing a Community framework for the nuclear safety of nuclear installations or relevant assessments may be used for this purpose provided that the requirements of these Regulations are met. Where appropriate, this description should include measures envisaged to prevent or mitigate the significant adverse effects of such events on the environment and details of the preparedness for and proposed response to such emergencies.
 
 **9.** A non-technical summary of the information provided under paragraphs 1 to 8.
 
@@ -765,52 +765,52 @@ Schedule 2 lists the required content of an environmental statement prepared by 
 
 [^c20611731]: Marginal citation: [2009 asp 6](https://www.legislation.gov.uk/asp/2009/6).
 
-[^key-fb585e277bff3ebf38ea734a18920bf7]: Textual amendment: Word in reg. 2 substituted (16.5.2017) by [The Flood Risk Management (Flood Protection Schemes, Potentially Vulnerable Areas and Local Plan Districts) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/112)](https://www.legislation.gov.uk/ssi/2017/112), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/112/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2017/112/regulation/2/2/a) (with [reg. 7](https://www.legislation.gov.uk/ssi/2017/112/regulation/7))
+[^c-fb585e277bff3ebf38ea734a18920bf7]: Textual amendment: Word in reg. 2 substituted (16.5.2017) by [The Flood Risk Management (Flood Protection Schemes, Potentially Vulnerable Areas and Local Plan Districts) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/112)](https://www.legislation.gov.uk/ssi/2017/112), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/112/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2017/112/regulation/2/2/a) (with [reg. 7](https://www.legislation.gov.uk/ssi/2017/112/regulation/7))
 
-[^key-2b26507618fb5c2324d7d721ae9cd2b5]: Textual amendment: Words in reg. 2 inserted (16.5.2017) by [The Flood Risk Management (Flood Protection Schemes, Potentially Vulnerable Areas and Local Plan Districts) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/112)](https://www.legislation.gov.uk/ssi/2017/112), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/112/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/ssi/2017/112/regulation/2/2/c) (with [reg. 7](https://www.legislation.gov.uk/ssi/2017/112/regulation/7))
+[^c-2b26507618fb5c2324d7d721ae9cd2b5]: Textual amendment: Words in reg. 2 inserted (16.5.2017) by [The Flood Risk Management (Flood Protection Schemes, Potentially Vulnerable Areas and Local Plan Districts) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/112)](https://www.legislation.gov.uk/ssi/2017/112), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/112/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/ssi/2017/112/regulation/2/2/c) (with [reg. 7](https://www.legislation.gov.uk/ssi/2017/112/regulation/7))
 
-[^key-b4d316f7073aade9e34e76ad77eded4d]: Textual amendment: Words in reg. 2 omitted (16.5.2017) by virtue of [The Flood Risk Management (Flood Protection Schemes, Potentially Vulnerable Areas and Local Plan Districts) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/112)](https://www.legislation.gov.uk/ssi/2017/112), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/112/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2017/112/regulation/2/2/b) (with [reg. 7](https://www.legislation.gov.uk/ssi/2017/112/regulation/7))
+[^c-b4d316f7073aade9e34e76ad77eded4d]: Textual amendment: Words in reg. 2 omitted (16.5.2017) by virtue of [The Flood Risk Management (Flood Protection Schemes, Potentially Vulnerable Areas and Local Plan Districts) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/112)](https://www.legislation.gov.uk/ssi/2017/112), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/112/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2017/112/regulation/2/2/b) (with [reg. 7](https://www.legislation.gov.uk/ssi/2017/112/regulation/7))
 
-[^key-138134d64a5bff735e986bc074a7b0a7]: Textual amendment: Words in reg. 2 substituted (16.5.2017) by [The Flood Risk Management (Flood Protection Schemes, Potentially Vulnerable Areas and Local Plan Districts) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/112)](https://www.legislation.gov.uk/ssi/2017/112), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/112/regulation/1/1), [2(2)(d)](https://www.legislation.gov.uk/ssi/2017/112/regulation/2/2/d) (with [reg. 7](https://www.legislation.gov.uk/ssi/2017/112/regulation/7))
+[^c-138134d64a5bff735e986bc074a7b0a7]: Textual amendment: Words in reg. 2 substituted (16.5.2017) by [The Flood Risk Management (Flood Protection Schemes, Potentially Vulnerable Areas and Local Plan Districts) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/112)](https://www.legislation.gov.uk/ssi/2017/112), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/112/regulation/1/1), [2(2)(d)](https://www.legislation.gov.uk/ssi/2017/112/regulation/2/2/d) (with [reg. 7](https://www.legislation.gov.uk/ssi/2017/112/regulation/7))
 
-[^key-a71ffb72101f37180ca8ffe112be7a3d]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2010/426/regulation/2) omitted (1.6.2022) by virtue of [The Environment and Trade in Animals and Related Products (EU Exit) (Scotland) (Miscellaneous Amendment) Regulations 2022 (S.S.I. 2022/138)](https://www.legislation.gov.uk/ssi/2022/138), [regs. 1](https://www.legislation.gov.uk/ssi/2022/138/regulation/1), [7(2)](https://www.legislation.gov.uk/ssi/2022/138/regulation/7/2)
+[^c-a71ffb72101f37180ca8ffe112be7a3d]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2010/426/regulation/2) omitted (1.6.2022) by virtue of [The Environment and Trade in Animals and Related Products (EU Exit) (Scotland) (Miscellaneous Amendment) Regulations 2022 (S.S.I. 2022/138)](https://www.legislation.gov.uk/ssi/2022/138), [regs. 1](https://www.legislation.gov.uk/ssi/2022/138/regulation/1), [7(2)](https://www.legislation.gov.uk/ssi/2022/138/regulation/7/2)
 
-[^key-e6987dbcc00c67798254403e14993def]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/ssi/2010/426/regulation/2A) inserted (16.5.2017) by [The Flood Risk Management (Flood Protection Schemes, Potentially Vulnerable Areas and Local Plan Districts) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/112)](https://www.legislation.gov.uk/ssi/2017/112), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/112/regulation/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2017/112/regulation/2/3) (with [reg. 7](https://www.legislation.gov.uk/ssi/2017/112/regulation/7))
+[^c-e6987dbcc00c67798254403e14993def]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/ssi/2010/426/regulation/2A) inserted (16.5.2017) by [The Flood Risk Management (Flood Protection Schemes, Potentially Vulnerable Areas and Local Plan Districts) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/112)](https://www.legislation.gov.uk/ssi/2017/112), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/112/regulation/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2017/112/regulation/2/3) (with [reg. 7](https://www.legislation.gov.uk/ssi/2017/112/regulation/7))
 
-[^key-a0ca6eb97d0810c979af99b4099487a7]: Textual amendment: Words in [reg. 2A(3)(b)](https://www.legislation.gov.uk/ssi/2010/426/regulation/2A/3/b) inserted (1.6.2022) by [The Environment and Trade in Animals and Related Products (EU Exit) (Scotland) (Miscellaneous Amendment) Regulations 2022 (S.S.I. 2022/138)](https://www.legislation.gov.uk/ssi/2022/138), [regs. 1](https://www.legislation.gov.uk/ssi/2022/138/regulation/1), [7(3)](https://www.legislation.gov.uk/ssi/2022/138/regulation/7/3)
+[^c-a0ca6eb97d0810c979af99b4099487a7]: Textual amendment: Words in [reg. 2A(3)(b)](https://www.legislation.gov.uk/ssi/2010/426/regulation/2A/3/b) inserted (1.6.2022) by [The Environment and Trade in Animals and Related Products (EU Exit) (Scotland) (Miscellaneous Amendment) Regulations 2022 (S.S.I. 2022/138)](https://www.legislation.gov.uk/ssi/2022/138), [regs. 1](https://www.legislation.gov.uk/ssi/2022/138/regulation/1), [7(3)](https://www.legislation.gov.uk/ssi/2022/138/regulation/7/3)
 
-[^key-085d038fb14365f90e0bac711f70f17b]: Textual amendment: Word in [reg. 2A(3)(b)](https://www.legislation.gov.uk/ssi/2010/426/regulation/2A/3/b) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 20(2)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/20/2)
+[^c-085d038fb14365f90e0bac711f70f17b]: Textual amendment: Word in [reg. 2A(3)(b)](https://www.legislation.gov.uk/ssi/2010/426/regulation/2A/3/b) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 20(2)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/20/2)
 
-[^key-6ed9148cd518a98ec4e2d394090e075c]: Textual amendment: Regs. 3-10E substituted for regs. 3-10 (16.5.2017) by [The Flood Risk Management (Flood Protection Schemes, Potentially Vulnerable Areas and Local Plan Districts) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/112)](https://www.legislation.gov.uk/ssi/2017/112), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/112/regulation/1/1), [3](https://www.legislation.gov.uk/ssi/2017/112/regulation/3) (with [reg. 7](https://www.legislation.gov.uk/ssi/2017/112/regulation/7))
+[^c-6ed9148cd518a98ec4e2d394090e075c]: Textual amendment: Regs. 3-10E substituted for regs. 3-10 (16.5.2017) by [The Flood Risk Management (Flood Protection Schemes, Potentially Vulnerable Areas and Local Plan Districts) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/112)](https://www.legislation.gov.uk/ssi/2017/112), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/112/regulation/1/1), [3](https://www.legislation.gov.uk/ssi/2017/112/regulation/3) (with [reg. 7](https://www.legislation.gov.uk/ssi/2017/112/regulation/7))
 
-[^key-7ecfeb114291d30da1c54162f3bf7fc9]: Textual amendment: Word in [reg. 10A(2)(b)](https://www.legislation.gov.uk/ssi/2010/426/regulation/10A/2/b) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 20(3)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/20/3)
+[^c-7ecfeb114291d30da1c54162f3bf7fc9]: Textual amendment: Word in [reg. 10A(2)(b)](https://www.legislation.gov.uk/ssi/2010/426/regulation/10A/2/b) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 20(3)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/20/3)
 
-[^key-bd7365c21d4ef724e36db987f3cd57ba]: Textual amendment: Words in [reg. 10A(2)(b)](https://www.legislation.gov.uk/ssi/2010/426/regulation/10A/2/b) substituted (1.6.2022) by [The Environment and Trade in Animals and Related Products (EU Exit) (Scotland) (Miscellaneous Amendment) Regulations 2022 (S.S.I. 2022/138)](https://www.legislation.gov.uk/ssi/2022/138), [regs. 1](https://www.legislation.gov.uk/ssi/2022/138/regulation/1), [7(4)](https://www.legislation.gov.uk/ssi/2022/138/regulation/7/4)
+[^c-bd7365c21d4ef724e36db987f3cd57ba]: Textual amendment: Words in [reg. 10A(2)(b)](https://www.legislation.gov.uk/ssi/2010/426/regulation/10A/2/b) substituted (1.6.2022) by [The Environment and Trade in Animals and Related Products (EU Exit) (Scotland) (Miscellaneous Amendment) Regulations 2022 (S.S.I. 2022/138)](https://www.legislation.gov.uk/ssi/2022/138), [regs. 1](https://www.legislation.gov.uk/ssi/2022/138/regulation/1), [7(4)](https://www.legislation.gov.uk/ssi/2022/138/regulation/7/4)
 
-[^key-50e8f955cc080e85e07a263ae9e3b23a]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/ssi/2010/426/regulation/11/1) substituted (16.5.2017) by [The Flood Risk Management (Flood Protection Schemes, Potentially Vulnerable Areas and Local Plan Districts) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/112)](https://www.legislation.gov.uk/ssi/2017/112), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/112/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/ssi/2017/112/regulation/4/2/a) (with [reg. 7](https://www.legislation.gov.uk/ssi/2017/112/regulation/7))
+[^c-50e8f955cc080e85e07a263ae9e3b23a]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/ssi/2010/426/regulation/11/1) substituted (16.5.2017) by [The Flood Risk Management (Flood Protection Schemes, Potentially Vulnerable Areas and Local Plan Districts) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/112)](https://www.legislation.gov.uk/ssi/2017/112), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/112/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/ssi/2017/112/regulation/4/2/a) (with [reg. 7](https://www.legislation.gov.uk/ssi/2017/112/regulation/7))
 
-[^key-e7043aa17a6499dd329cfcb8de791a51]: Textual amendment: Words in [reg. 11(3)](https://www.legislation.gov.uk/ssi/2010/426/regulation/11/3) substituted (16.5.2017) by [The Flood Risk Management (Flood Protection Schemes, Potentially Vulnerable Areas and Local Plan Districts) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/112)](https://www.legislation.gov.uk/ssi/2017/112), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/112/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/ssi/2017/112/regulation/4/2/b) (with [reg. 7](https://www.legislation.gov.uk/ssi/2017/112/regulation/7))
+[^c-e7043aa17a6499dd329cfcb8de791a51]: Textual amendment: Words in [reg. 11(3)](https://www.legislation.gov.uk/ssi/2010/426/regulation/11/3) substituted (16.5.2017) by [The Flood Risk Management (Flood Protection Schemes, Potentially Vulnerable Areas and Local Plan Districts) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/112)](https://www.legislation.gov.uk/ssi/2017/112), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/112/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/ssi/2017/112/regulation/4/2/b) (with [reg. 7](https://www.legislation.gov.uk/ssi/2017/112/regulation/7))
 
-[^key-fca2e9fc0384caca91462ff9919334d5]: Textual amendment: Words in reg. 12(1) substituted (16.5.2017) by [The Flood Risk Management (Flood Protection Schemes, Potentially Vulnerable Areas and Local Plan Districts) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/112)](https://www.legislation.gov.uk/ssi/2017/112), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/112/regulation/1/1), [4(3)(a)](https://www.legislation.gov.uk/ssi/2017/112/regulation/4/3/a) (with [reg. 7](https://www.legislation.gov.uk/ssi/2017/112/regulation/7))
+[^c-fca2e9fc0384caca91462ff9919334d5]: Textual amendment: Words in reg. 12(1) substituted (16.5.2017) by [The Flood Risk Management (Flood Protection Schemes, Potentially Vulnerable Areas and Local Plan Districts) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/112)](https://www.legislation.gov.uk/ssi/2017/112), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/112/regulation/1/1), [4(3)(a)](https://www.legislation.gov.uk/ssi/2017/112/regulation/4/3/a) (with [reg. 7](https://www.legislation.gov.uk/ssi/2017/112/regulation/7))
 
-[^key-942551ac66ceef48e8aa49d1a521d011]: Textual amendment: Word in reg. 12(2) substituted (16.5.2017) by [The Flood Risk Management (Flood Protection Schemes, Potentially Vulnerable Areas and Local Plan Districts) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/112)](https://www.legislation.gov.uk/ssi/2017/112), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/112/regulation/1/1), [4(3)(b)(i)](https://www.legislation.gov.uk/ssi/2017/112/regulation/4/3/b/i) (with [reg. 7](https://www.legislation.gov.uk/ssi/2017/112/regulation/7))
+[^c-942551ac66ceef48e8aa49d1a521d011]: Textual amendment: Word in reg. 12(2) substituted (16.5.2017) by [The Flood Risk Management (Flood Protection Schemes, Potentially Vulnerable Areas and Local Plan Districts) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/112)](https://www.legislation.gov.uk/ssi/2017/112), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/112/regulation/1/1), [4(3)(b)(i)](https://www.legislation.gov.uk/ssi/2017/112/regulation/4/3/b/i) (with [reg. 7](https://www.legislation.gov.uk/ssi/2017/112/regulation/7))
 
-[^key-7c11a0cb7c5b0725bcc10745bf64aefe]: Textual amendment: Words in reg. 12(2) substituted (16.5.2017) by [The Flood Risk Management (Flood Protection Schemes, Potentially Vulnerable Areas and Local Plan Districts) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/112)](https://www.legislation.gov.uk/ssi/2017/112), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/112/regulation/1/1), [4(3)(b)(ii)](https://www.legislation.gov.uk/ssi/2017/112/regulation/4/3/b/ii) (with [reg. 7](https://www.legislation.gov.uk/ssi/2017/112/regulation/7))
+[^c-7c11a0cb7c5b0725bcc10745bf64aefe]: Textual amendment: Words in reg. 12(2) substituted (16.5.2017) by [The Flood Risk Management (Flood Protection Schemes, Potentially Vulnerable Areas and Local Plan Districts) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/112)](https://www.legislation.gov.uk/ssi/2017/112), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/112/regulation/1/1), [4(3)(b)(ii)](https://www.legislation.gov.uk/ssi/2017/112/regulation/4/3/b/ii) (with [reg. 7](https://www.legislation.gov.uk/ssi/2017/112/regulation/7))
 
-[^key-8da95700cef967e45b36dc33ade254e6]: Textual amendment: Words in [reg. 14(1)](https://www.legislation.gov.uk/ssi/2010/426/regulation/14/1) inserted (16.5.2017) by virtue of [The Flood Risk Management (Flood Protection Schemes, Potentially Vulnerable Areas and Local Plan Districts) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/112)](https://www.legislation.gov.uk/ssi/2017/112), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/112/regulation/1/1), [4(4)(a)](https://www.legislation.gov.uk/ssi/2017/112/regulation/4/4/a) (with [reg. 7](https://www.legislation.gov.uk/ssi/2017/112/regulation/7))
+[^c-8da95700cef967e45b36dc33ade254e6]: Textual amendment: Words in [reg. 14(1)](https://www.legislation.gov.uk/ssi/2010/426/regulation/14/1) inserted (16.5.2017) by virtue of [The Flood Risk Management (Flood Protection Schemes, Potentially Vulnerable Areas and Local Plan Districts) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/112)](https://www.legislation.gov.uk/ssi/2017/112), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/112/regulation/1/1), [4(4)(a)](https://www.legislation.gov.uk/ssi/2017/112/regulation/4/4/a) (with [reg. 7](https://www.legislation.gov.uk/ssi/2017/112/regulation/7))
 
-[^key-47bbe6de9de066df9adf376c5ccabc5d]: Textual amendment: Words in [reg. 14(2)](https://www.legislation.gov.uk/ssi/2010/426/regulation/14/2) substituted (16.5.2017) by [The Flood Risk Management (Flood Protection Schemes, Potentially Vulnerable Areas and Local Plan Districts) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/112)](https://www.legislation.gov.uk/ssi/2017/112), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/112/regulation/1/1), [4(4)(b)](https://www.legislation.gov.uk/ssi/2017/112/regulation/4/4/b) (with [reg. 7](https://www.legislation.gov.uk/ssi/2017/112/regulation/7))
+[^c-47bbe6de9de066df9adf376c5ccabc5d]: Textual amendment: Words in [reg. 14(2)](https://www.legislation.gov.uk/ssi/2010/426/regulation/14/2) substituted (16.5.2017) by [The Flood Risk Management (Flood Protection Schemes, Potentially Vulnerable Areas and Local Plan Districts) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/112)](https://www.legislation.gov.uk/ssi/2017/112), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/112/regulation/1/1), [4(4)(b)](https://www.legislation.gov.uk/ssi/2017/112/regulation/4/4/b) (with [reg. 7](https://www.legislation.gov.uk/ssi/2017/112/regulation/7))
 
-[^key-3232d57f4b521efa3403f50ddc41a973]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ssi/2010/426/schedule/1) substituted (16.5.2017) by [The Flood Risk Management (Flood Protection Schemes, Potentially Vulnerable Areas and Local Plan Districts) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/112)](https://www.legislation.gov.uk/ssi/2017/112), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/112/regulation/1/1), [sch. 1](https://www.legislation.gov.uk/ssi/2017/112/schedule/1) (with [reg. 7](https://www.legislation.gov.uk/ssi/2017/112/regulation/7))
+[^c-3232d57f4b521efa3403f50ddc41a973]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ssi/2010/426/schedule/1) substituted (16.5.2017) by [The Flood Risk Management (Flood Protection Schemes, Potentially Vulnerable Areas and Local Plan Districts) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/112)](https://www.legislation.gov.uk/ssi/2017/112), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/112/regulation/1/1), [sch. 1](https://www.legislation.gov.uk/ssi/2017/112/schedule/1) (with [reg. 7](https://www.legislation.gov.uk/ssi/2017/112/regulation/7))
 
-[^key-ff2d887b5011ed073fa19b810f396b22]: Textual amendment: Words in [sch. 1 para. 2(c)(vi)](https://www.legislation.gov.uk/ssi/2010/426/schedule/1/paragraph/2/c/vi) substituted (1.6.2022) by [The Environment and Trade in Animals and Related Products (EU Exit) (Scotland) (Miscellaneous Amendment) Regulations 2022 (S.S.I. 2022/138)](https://www.legislation.gov.uk/ssi/2022/138), [regs. 1](https://www.legislation.gov.uk/ssi/2022/138/regulation/1), [7(4)](https://www.legislation.gov.uk/ssi/2022/138/regulation/7/4)
+[^c-ff2d887b5011ed073fa19b810f396b22]: Textual amendment: Words in [sch. 1 para. 2(c)(vi)](https://www.legislation.gov.uk/ssi/2010/426/schedule/1/paragraph/2/c/vi) substituted (1.6.2022) by [The Environment and Trade in Animals and Related Products (EU Exit) (Scotland) (Miscellaneous Amendment) Regulations 2022 (S.S.I. 2022/138)](https://www.legislation.gov.uk/ssi/2022/138), [regs. 1](https://www.legislation.gov.uk/ssi/2022/138/regulation/1), [7(4)](https://www.legislation.gov.uk/ssi/2022/138/regulation/7/4)
 
-[^key-ba0a45979942eff981bdf78acc8fc693]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ssi/2010/426/schedule/2) substituted (16.5.2017) by [The Flood Risk Management (Flood Protection Schemes, Potentially Vulnerable Areas and Local Plan Districts) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/112)](https://www.legislation.gov.uk/ssi/2017/112), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/112/regulation/1/1), [sch. 2](https://www.legislation.gov.uk/ssi/2017/112/schedule/2) (with [reg. 7](https://www.legislation.gov.uk/ssi/2017/112/regulation/7))
+[^c-ba0a45979942eff981bdf78acc8fc693]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ssi/2010/426/schedule/2) substituted (16.5.2017) by [The Flood Risk Management (Flood Protection Schemes, Potentially Vulnerable Areas and Local Plan Districts) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/112)](https://www.legislation.gov.uk/ssi/2017/112), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/112/regulation/1/1), [sch. 2](https://www.legislation.gov.uk/ssi/2017/112/schedule/2) (with [reg. 7](https://www.legislation.gov.uk/ssi/2017/112/regulation/7))
 
-[^key-3ca23ccf597d774ba7191c84385ede12]: Textual amendment: Words in [sch. 2 para. 5(2)](https://www.legislation.gov.uk/ssi/2010/426/schedule/2/paragraph/5/2) substituted (1.6.2022) by [The Environment and Trade in Animals and Related Products (EU Exit) (Scotland) (Miscellaneous Amendment) Regulations 2022 (S.S.I. 2022/138)](https://www.legislation.gov.uk/ssi/2022/138), [regs. 1](https://www.legislation.gov.uk/ssi/2022/138/regulation/1), [7(5)(a)(i)](https://www.legislation.gov.uk/ssi/2022/138/regulation/7/5/a/i)
+[^c-3ca23ccf597d774ba7191c84385ede12]: Textual amendment: Words in [sch. 2 para. 5(2)](https://www.legislation.gov.uk/ssi/2010/426/schedule/2/paragraph/5/2) substituted (1.6.2022) by [The Environment and Trade in Animals and Related Products (EU Exit) (Scotland) (Miscellaneous Amendment) Regulations 2022 (S.S.I. 2022/138)](https://www.legislation.gov.uk/ssi/2022/138), [regs. 1](https://www.legislation.gov.uk/ssi/2022/138/regulation/1), [7(5)(a)(i)](https://www.legislation.gov.uk/ssi/2022/138/regulation/7/5/a/i)
 
-[^key-243bc564ba7c0bfc555089ea4e7442b8]: Textual amendment: Word in [sch. 2 para. 5(2)](https://www.legislation.gov.uk/ssi/2010/426/schedule/2/paragraph/5/2) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 20(4)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/20/4)
+[^c-243bc564ba7c0bfc555089ea4e7442b8]: Textual amendment: Word in [sch. 2 para. 5(2)](https://www.legislation.gov.uk/ssi/2010/426/schedule/2/paragraph/5/2) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 20(4)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/20/4)
 
-[^key-0477f36e65a47f70b90b5916a23afe82]: Textual amendment: Words in [sch. 2 para. 5(2)](https://www.legislation.gov.uk/ssi/2010/426/schedule/2/paragraph/5/2) inserted (1.6.2022) by [The Environment and Trade in Animals and Related Products (EU Exit) (Scotland) (Miscellaneous Amendment) Regulations 2022 (S.S.I. 2022/138)](https://www.legislation.gov.uk/ssi/2022/138), [regs. 1](https://www.legislation.gov.uk/ssi/2022/138/regulation/1), [7(5)(a)(ii)](https://www.legislation.gov.uk/ssi/2022/138/regulation/7/5/a/ii)
+[^c-0477f36e65a47f70b90b5916a23afe82]: Textual amendment: Words in [sch. 2 para. 5(2)](https://www.legislation.gov.uk/ssi/2010/426/schedule/2/paragraph/5/2) inserted (1.6.2022) by [The Environment and Trade in Animals and Related Products (EU Exit) (Scotland) (Miscellaneous Amendment) Regulations 2022 (S.S.I. 2022/138)](https://www.legislation.gov.uk/ssi/2022/138), [regs. 1](https://www.legislation.gov.uk/ssi/2022/138/regulation/1), [7(5)(a)(ii)](https://www.legislation.gov.uk/ssi/2022/138/regulation/7/5/a/ii)
 
-[^key-decc7442831099abe73d9bfddef2ae8d]: Textual amendment: Words in [sch. 2 para. 8](https://www.legislation.gov.uk/ssi/2010/426/schedule/2/paragraph/8) substituted (1.6.2022) by [The Environment and Trade in Animals and Related Products (EU Exit) (Scotland) (Miscellaneous Amendment) Regulations 2022 (S.S.I. 2022/138)](https://www.legislation.gov.uk/ssi/2022/138), [regs. 1](https://www.legislation.gov.uk/ssi/2022/138/regulation/1), [7(5)(b)](https://www.legislation.gov.uk/ssi/2022/138/regulation/7/5/b)
+[^c-decc7442831099abe73d9bfddef2ae8d]: Textual amendment: Words in [sch. 2 para. 8](https://www.legislation.gov.uk/ssi/2010/426/schedule/2/paragraph/8) substituted (1.6.2022) by [The Environment and Trade in Animals and Related Products (EU Exit) (Scotland) (Miscellaneous Amendment) Regulations 2022 (S.S.I. 2022/138)](https://www.legislation.gov.uk/ssi/2022/138), [regs. 1](https://www.legislation.gov.uk/ssi/2022/138/regulation/1), [7(5)(b)](https://www.legislation.gov.uk/ssi/2022/138/regulation/7/5/b)

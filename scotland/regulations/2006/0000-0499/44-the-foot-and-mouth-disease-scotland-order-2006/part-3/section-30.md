@@ -22,7 +22,7 @@ summary: ''
 
 (1) The Scottish Ministers shall, on confirmation of the disease on premises in Scotland, other than–
 
-- (a) a slaughterhouse or border control post[^key-177c7b197b22a2b9515d626662a01ecc]; or
+- (a) a slaughterhouse or border control post[^c-177c7b197b22a2b9515d626662a01ecc]; or
 - (b) premises to which infected or contaminated animals have been transported under article 10(1)(b),
 
 declare a protection zone and a surveillance zone in such part of Scotland as they think fit.
@@ -41,4 +41,4 @@ declare a protection zone and a surveillance zone in such part of Scotland as th
 
 ## Annotations
 
-[^key-177c7b197b22a2b9515d626662a01ecc]: Textual amendment: Words in [art. 30](https://www.legislation.gov.uk/ssi/2006/44/article/30) substituted (14.12.2019) by [The Official Controls (Agriculture etc.) (Scotland) Regulations 2019 (S.S.I. 2019/412)](https://www.legislation.gov.uk/ssi/2019/412), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1), [17(7)](https://www.legislation.gov.uk/ssi/2019/412/regulation/17/7)
+[^c-177c7b197b22a2b9515d626662a01ecc]: Textual amendment: Words in [art. 30](https://www.legislation.gov.uk/ssi/2006/44/article/30) substituted (14.12.2019) by [The Official Controls (Agriculture etc.) (Scotland) Regulations 2019 (S.S.I. 2019/412)](https://www.legislation.gov.uk/ssi/2019/412), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1), [17(7)](https://www.legislation.gov.uk/ssi/2019/412/regulation/17/7)

@@ -37,30 +37,30 @@ on the application of Articles 107 and 108 of the Treaty on the Functioning of t
 
 (Text with EEA relevance) (revoked)
 
-[^key-13cdffe418eb23a4c1c97550a6417d8e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-13cdffe418eb23a4c1c97550a6417d8e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Scope and definitions[^key-13cdffe418eb23a4c1c97550a6417d8e]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. De minimis aid[^key-13cdffe418eb23a4c1c97550a6417d8e]
+## Article 1. Scope and definitions[^c-13cdffe418eb23a4c1c97550a6417d8e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Monitoring[^key-13cdffe418eb23a4c1c97550a6417d8e]
+## Article 2. De minimis aid[^c-13cdffe418eb23a4c1c97550a6417d8e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Transitional provisions[^key-13cdffe418eb23a4c1c97550a6417d8e]
+## Article 3. Monitoring[^c-13cdffe418eb23a4c1c97550a6417d8e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Entry into force and period of validity[^key-13cdffe418eb23a4c1c97550a6417d8e]
+## Article 4. Transitional provisions[^c-13cdffe418eb23a4c1c97550a6417d8e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-13cdffe418eb23a4c1c97550a6417d8e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 5. Entry into force and period of validity[^c-13cdffe418eb23a4c1c97550a6417d8e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-13cdffe418eb23a4c1c97550a6417d8e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-13cdffe418eb23a4c1c97550a6417d8e]: Textual amendment: Regulation revoked (31.12.2020) by [The State Aid (Revocations and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1470)](https://www.legislation.gov.uk/uksi/2020/1470), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2), [5(h)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/5/h) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1470/schedule/3))
+[^c-13cdffe418eb23a4c1c97550a6417d8e]: Textual amendment: Regulation revoked (31.12.2020) by [The State Aid (Revocations and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1470)](https://www.legislation.gov.uk/uksi/2020/1470), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2), [5(h)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/5/h) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1470/schedule/3))

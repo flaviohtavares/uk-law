@@ -31,22 +31,22 @@ Police (Insurance of Voluntary Assistants) Act 1997 (repealed)
 
 1997 c. 45
 
-[^key-e131f65e9461c5fb6bd0f6f09d00b4bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e131f65e9461c5fb6bd0f6f09d00b4bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Power of police authorities to insure voluntary assistants.[^key-e131f65e9461c5fb6bd0f6f09d00b4bd][^key-e131f65e9461c5fb6bd0f6f09d00b4bd]
+## 1. Power of police authorities to insure voluntary assistants.[^c-e131f65e9461c5fb6bd0f6f09d00b4bd][^c-e131f65e9461c5fb6bd0f6f09d00b4bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-e131f65e9461c5fb6bd0f6f09d00b4bd][^key-e131f65e9461c5fb6bd0f6f09d00b4bd]
+## 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-e131f65e9461c5fb6bd0f6f09d00b4bd][^c-e131f65e9461c5fb6bd0f6f09d00b4bd]
 
-## 3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-e131f65e9461c5fb6bd0f6f09d00b4bd][^key-e131f65e9461c5fb6bd0f6f09d00b4bd]
+## 3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-e131f65e9461c5fb6bd0f6f09d00b4bd][^c-e131f65e9461c5fb6bd0f6f09d00b4bd]
 
-## 4. Short title and extent.[^key-e131f65e9461c5fb6bd0f6f09d00b4bd][^key-e131f65e9461c5fb6bd0f6f09d00b4bd]
+## 4. Short title and extent.[^c-e131f65e9461c5fb6bd0f6f09d00b4bd][^c-e131f65e9461c5fb6bd0f6f09d00b4bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e131f65e9461c5fb6bd0f6f09d00b4bd]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1997/45) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/6)
+[^c-e131f65e9461c5fb6bd0f6f09d00b4bd]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1997/45) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/6)

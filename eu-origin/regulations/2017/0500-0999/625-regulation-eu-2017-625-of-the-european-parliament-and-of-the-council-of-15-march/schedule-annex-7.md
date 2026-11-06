@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## ANNEX 7 — Goods exempt from the application of Annex 6[^key-242c3f8cb79e1e55101f72ddc99833ce]
+## ANNEX 7 — Goods exempt from the application of Annex 6[^c-242c3f8cb79e1e55101f72ddc99833ce]
 
 *Extent: E+W+S*
 
@@ -41,7 +41,7 @@ Article 168
 | Tomatoes, fresh or chilled | Third countries other than an EU Member State and Switzerland |
 | Asparagus, fresh or chilled | Third countries other than an EU Member State and Switzerland |
 | Sweetcorn, fresh or chilled | Third countries other than an EU Member State and Switzerland |
-| Leaves of basil plants, fresh or chilled[^key-7bc5813cf9e40c1f35ad38ef7ed96c30] | Third countries other than an EU Member State and Switzerland |
+| Leaves of basil plants, fresh or chilled[^c-7bc5813cf9e40c1f35ad38ef7ed96c30] | Third countries other than an EU Member State and Switzerland |
 | Cut flowers of carnations, fresh | Third countries other than an EU Member State and Switzerland |
 | Cut flowers of roses, fresh | Third countries other than an EU Member State and Switzerland |
 | Cut flowers of gypsophila, fresh | Third countries other than an EU Member State and Switzerland |
@@ -49,6 +49,6 @@ Article 168
 
 ## Annotations
 
-[^key-242c3f8cb79e1e55101f72ddc99833ce]: Textual amendment: [Annex 7](https://www.legislation.gov.uk/eur/2017/625/annex/7) inserted (E.W.S.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [10(4)](https://www.legislation.gov.uk/uksi/2023/959/regulation/10/4)
+[^c-242c3f8cb79e1e55101f72ddc99833ce]: Textual amendment: [Annex 7](https://www.legislation.gov.uk/eur/2017/625/annex/7) inserted (E.W.S.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [10(4)](https://www.legislation.gov.uk/uksi/2023/959/regulation/10/4)
 
-[^key-7bc5813cf9e40c1f35ad38ef7ed96c30]: Textual amendment: Words in [Annex 7](https://www.legislation.gov.uk/eur/2017/625/annex/7) inserted (2.9.2024) by [The Windsor Framework (Retail Movement Scheme: Plant and Animal Health) (Amendment etc.) Regulations 2024 (S.I. 2024/853)](https://www.legislation.gov.uk/uksi/2024/853), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2024/853/regulation/1/2/b), [2(2)](https://www.legislation.gov.uk/uksi/2024/853/regulation/2/2)
+[^c-7bc5813cf9e40c1f35ad38ef7ed96c30]: Textual amendment: Words in [Annex 7](https://www.legislation.gov.uk/eur/2017/625/annex/7) inserted (2.9.2024) by [The Windsor Framework (Retail Movement Scheme: Plant and Animal Health) (Amendment etc.) Regulations 2024 (S.I. 2024/853)](https://www.legislation.gov.uk/uksi/2024/853), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2024/853/regulation/1/2/b), [2(2)](https://www.legislation.gov.uk/uksi/2024/853/regulation/2/2)

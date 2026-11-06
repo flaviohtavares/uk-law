@@ -31,8 +31,8 @@ summary: ''
 
 and it may be given subject to conditions.
 
-(4)[^key-659c99676426f69740f4f40f6478bc90] The Secretary of State shall consult the Regulator of Social Housing before deciding whether to consent under this section to anything within the Regulator’s remit.
+(4)[^c-659c99676426f69740f4f40f6478bc90] The Secretary of State shall consult the Regulator of Social Housing before deciding whether to consent under this section to anything within the Regulator’s remit.
 
 ## Annotations
 
-[^key-659c99676426f69740f4f40f6478bc90]: Textual amendment: S. 19(4) inserted (1.4.2010) by [The Housing and Regeneration Act 2008 (Registration of Local Authorities) Order 2010 (S.I. 2010/844)](https://www.legislation.gov.uk/uksi/2010/844), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/844/article/1/2), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2010/844/schedule/2/paragraph/5)
+[^c-659c99676426f69740f4f40f6478bc90]: Textual amendment: S. 19(4) inserted (1.4.2010) by [The Housing and Regeneration Act 2008 (Registration of Local Authorities) Order 2010 (S.I. 2010/844)](https://www.legislation.gov.uk/uksi/2010/844), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/844/article/1/2), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2010/844/schedule/2/paragraph/5)

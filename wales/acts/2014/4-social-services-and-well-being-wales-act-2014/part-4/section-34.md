@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. How to meet needs[^key-4be868497514d7f34f4e0b87e71f203e][^key-5c5e077065ddfa47c2c39d63393d3314]
+## 34. How to meet needs[^c-4be868497514d7f34f4e0b87e71f203e][^c-5c5e077065ddfa47c2c39d63393d3314]
 
 *Extent: E+W*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4be868497514d7f34f4e0b87e71f203e]: Commencement: S. 34 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
+[^c-4be868497514d7f34f4e0b87e71f203e]: Commencement: S. 34 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
 
-[^key-5c5e077065ddfa47c2c39d63393d3314]: Modification: S. 34 applied (1.4.2015 for specified purposes, 6.4.2016 in so far as not already in force) by [Care Act 2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23), [ss. 52(3)](https://www.legislation.gov.uk/ukpga/2014/23/section/52/3), [127(1)](https://www.legislation.gov.uk/ukpga/2014/23/section/127/1); [S.I. 2015/993](https://www.legislation.gov.uk/uksi/2015/993), [art. 2(p)](https://www.legislation.gov.uk/uksi/2015/993/article/2/p) (with transitional provisions in [S.I. 2015/995](https://www.legislation.gov.uk/uksi/2015/995)); [S.I. 2016/464](https://www.legislation.gov.uk/uksi/2016/464), [art. 2(b)](https://www.legislation.gov.uk/uksi/2016/464/article/2/b)
+[^c-5c5e077065ddfa47c2c39d63393d3314]: Modification: S. 34 applied (1.4.2015 for specified purposes, 6.4.2016 in so far as not already in force) by [Care Act 2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23), [ss. 52(3)](https://www.legislation.gov.uk/ukpga/2014/23/section/52/3), [127(1)](https://www.legislation.gov.uk/ukpga/2014/23/section/127/1); [S.I. 2015/993](https://www.legislation.gov.uk/uksi/2015/993), [art. 2(p)](https://www.legislation.gov.uk/uksi/2015/993/article/2/p) (with transitional provisions in [S.I. 2015/995](https://www.legislation.gov.uk/uksi/2015/995)); [S.I. 2016/464](https://www.legislation.gov.uk/uksi/2016/464), [art. 2(b)](https://www.legislation.gov.uk/uksi/2016/464/article/2/b)

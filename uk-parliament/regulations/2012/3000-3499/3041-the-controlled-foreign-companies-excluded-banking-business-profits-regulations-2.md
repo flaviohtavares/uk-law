@@ -46,19 +46,19 @@ Coming into force
 
 The Commissioners for Her Majesty’s Revenue and Customs make the following Regulations in exercise of the powers conferred by section 371FD of the Taxation (International and Other Provisions) Act 2010[^f00001].
 
-## 1. Citation, commencement and effect[^key-0804222c7174e20673ee2dac84a4f4c3]
+## 1. Citation, commencement and effect[^c-0804222c7174e20673ee2dac84a4f4c3]
 
 (1) These Regulations may be cited as the Controlled Foreign Companies (Excluded Banking Business Profits) Regulations 2012.
 
 (2) These Regulations come into force on 1st January 2013 and have effect for accounting periods of CFCs beginning on or after 1st January 2013.
 
-## 2. Interpretation[^key-be6f5445c5c9450e5597a0ddc26ef35d]
+## 2. Interpretation[^c-be6f5445c5c9450e5597a0ddc26ef35d]
 
 (1) In these Regulations—
 
-- “BIPRU 11” means the rules of that name set out in the PRA[^key-89cf940f3b7594bfbe4ff516183b2cc7] Handbook;
-- “the[^key-88583c9d2c65fef67f5ec01e8d192fd8] PRA Handbook” means the Handbook made by the Prudential Regulation Authority under the Financial Services and Markets 2000 Act (as that Handbook has effect from time to time);
-- “GENPRU 2 Annex 2” means the rules of that name set out in the PRA[^key-2c837d68b81b7ad2e88a428fb624cfdf] Handbook;
+- “BIPRU 11” means the rules of that name set out in the PRA[^c-89cf940f3b7594bfbe4ff516183b2cc7] Handbook;
+- “the[^c-88583c9d2c65fef67f5ec01e8d192fd8] PRA Handbook” means the Handbook made by the Prudential Regulation Authority under the Financial Services and Markets 2000 Act (as that Handbook has effect from time to time);
+- “GENPRU 2 Annex 2” means the rules of that name set out in the PRA[^c-2c837d68b81b7ad2e88a428fb624cfdf] Handbook;
 - “group consolidated accounts” means group accounts prepared in accordance with the requirements of Chapter 4 of Part 15 of the Companies Act 2006[^f00003];
 - “group regulatory return” means consolidated financial information disclosed by a bank in accordance with BIPRU 11;
 - “regulatory return period” means the period to which a group regulatory return relates;
@@ -66,7 +66,7 @@ The Commissioners for Her Majesty’s Revenue and Customs make the following Reg
 - “total tier one capital” means the amount shown as such (or as “total tier 1 capital”) in the group regulatory return for a regulatory return period;
 - “UK banking group” means a group for which consolidated financial information is required to be compiled under BIPRU 11.
 
-(2) In these Regulations, the following expressions have the meaning given by the PRA[^key-b3342ceb67cbbb3621e5e0c4392d7a08] Handbook—
+(2) In these Regulations, the following expressions have the meaning given by the PRA[^c-b3342ceb67cbbb3621e5e0c4392d7a08] Handbook—
 
 - (a) “bank”,
 - (b) “exposure”,
@@ -75,13 +75,13 @@ The Commissioners for Her Majesty’s Revenue and Customs make the following Reg
 
 (3) In these Regulations, “net total tier one capital” so far as it is used in relation to a CFC means the CFC’s total tier one capital after deductions, as calculated in accordance with the capital resources table shown in GENPRU 2 Annex 2.
 
-## 3. Disapplication of Step 3 in section 371FA(1)[^key-6086138b02ed5aa1f244f92f1a8639d6]
+## 3. Disapplication of Step 3 in section 371FA(1)[^c-6086138b02ed5aa1f244f92f1a8639d6]
 
 (1) Paragraph (2) applies to an accounting period of a CFC if the CFC meets the conditions specified in regulation 4, as supplemented by regulation 5.
 
 (2) Step 3 in section 371FA(1) is not to apply in relation to the CFC’s trading finance profits in that accounting period so far as they arise from banking business carried on by the CFC in relation to which the CFC is regulated in the territory in which it is resident.
 
-## 4. Regulatory capital requirements test[^key-1d4de728028f92ebf5efda620fbf16b6]
+## 4. Regulatory capital requirements test[^c-1d4de728028f92ebf5efda620fbf16b6]
 
 (1) The first condition is that throughout the accounting period (“the relevant accounting period”) the CFC is a member of a UK banking group (“the CFC’s UK banking group”).
 
@@ -89,7 +89,7 @@ The Commissioners for Her Majesty’s Revenue and Customs make the following Reg
 
 (3) The third condition is that it is reasonable to suppose that the average tier one capital ratio of the CFC during the relevant accounting period did not exceed the capital ratio limit.
 
-## 5. Supplementary provisions[^key-41200c148e07fd5acea0e221d4d35246]
+## 5. Supplementary provisions[^c-41200c148e07fd5acea0e221d4d35246]
 
 For the purposes of regulation 4—
 
@@ -145,22 +145,22 @@ A Tax Information and Impact Note covering this instrument was published on 21 M
 
 [^f00001]: Footnote: [2010 c. 8](https://www.legislation.gov.uk/ukpga/2010/8). Section 371FD was inserted by paragraph 1 of Schedule 20 to the Finance Act [2012 c. 14](https://www.legislation.gov.uk/ukpga/2012/14).
 
-[^key-0804222c7174e20673ee2dac84a4f4c3]: Commencement: Reg. 1 in force at 1.1.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/3041/regulation/1/2)
+[^c-0804222c7174e20673ee2dac84a4f4c3]: Commencement: Reg. 1 in force at 1.1.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/3041/regulation/1/2)
 
-[^key-be6f5445c5c9450e5597a0ddc26ef35d]: Commencement: Reg. 2 in force at 1.1.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/3041/regulation/1/2)
+[^c-be6f5445c5c9450e5597a0ddc26ef35d]: Commencement: Reg. 2 in force at 1.1.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/3041/regulation/1/2)
 
-[^key-89cf940f3b7594bfbe4ff516183b2cc7]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/3041/regulation/2/1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 243(a)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/243/a/i)
+[^c-89cf940f3b7594bfbe4ff516183b2cc7]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/3041/regulation/2/1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 243(a)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/243/a/i)
 
-[^key-88583c9d2c65fef67f5ec01e8d192fd8]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/3041/regulation/2/1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 243(a)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/243/a/ii)
+[^c-88583c9d2c65fef67f5ec01e8d192fd8]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/3041/regulation/2/1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 243(a)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/243/a/ii)
 
-[^key-2c837d68b81b7ad2e88a428fb624cfdf]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/3041/regulation/2/1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 243(a)(iii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/243/a/iii)
+[^c-2c837d68b81b7ad2e88a428fb624cfdf]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/3041/regulation/2/1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 243(a)(iii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/243/a/iii)
 
 [^f00003]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-b3342ceb67cbbb3621e5e0c4392d7a08]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2012/3041/regulation/2/2) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 243(b)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/243/b)
+[^c-b3342ceb67cbbb3621e5e0c4392d7a08]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2012/3041/regulation/2/2) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 243(b)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/243/b)
 
-[^key-6086138b02ed5aa1f244f92f1a8639d6]: Commencement: Reg. 3 in force at 1.1.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/3041/regulation/1/2)
+[^c-6086138b02ed5aa1f244f92f1a8639d6]: Commencement: Reg. 3 in force at 1.1.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/3041/regulation/1/2)
 
-[^key-1d4de728028f92ebf5efda620fbf16b6]: Commencement: Reg. 4 in force at 1.1.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/3041/regulation/1/2)
+[^c-1d4de728028f92ebf5efda620fbf16b6]: Commencement: Reg. 4 in force at 1.1.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/3041/regulation/1/2)
 
-[^key-41200c148e07fd5acea0e221d4d35246]: Commencement: Reg. 5 in force at 1.1.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/3041/regulation/1/2)
+[^c-41200c148e07fd5acea0e221d4d35246]: Commencement: Reg. 5 in force at 1.1.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/3041/regulation/1/2)

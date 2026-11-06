@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Academy schools: duty to follow National Curriculum[^key-45a0e095dded594ddd0381f4da5c557c]
+## 54. Academy schools: duty to follow National Curriculum[^c-45a0e095dded594ddd0381f4da5c557c]
 
 *Extent: E+W*
 
@@ -94,4 +94,4 @@ summary: ''
 
 ## Annotations
 
-[^key-45a0e095dded594ddd0381f4da5c557c]: Commencement: S. 54 in force at Royal Assent for specified purposes, see [s. 78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)(5)
+[^c-45a0e095dded594ddd0381f4da5c557c]: Commencement: S. 54 in force at Royal Assent for specified purposes, see [s. 78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)(5)

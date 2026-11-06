@@ -27,8 +27,8 @@ summary: ''
 
 (2) But no reduction is to be applied where the amount of the childcare costs element is greater than the excess.
 
-(3) The excess is the total amount of welfare benefits that the single person or the couple are entitled to in the reference period, minus the relevant amount determined under regulation 80A[^key-aa0c739a7c8a2e76aac41d1eca56eb24].
+(3) The excess is the total amount of welfare benefits that the single person or the couple are entitled to in the reference period, minus the relevant amount determined under regulation 80A[^c-aa0c739a7c8a2e76aac41d1eca56eb24].
 
 ## Annotations
 
-[^key-aa0c739a7c8a2e76aac41d1eca56eb24]: Textual amendment: Words in [reg. 81(3)](https://www.legislation.gov.uk/uksi/2013/376/regulation/81/3) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Benefit Cap (Housing Benefit and Universal Credit) (Amendment) Regulations 2016 (S.I. 2016/909)](https://www.legislation.gov.uk/uksi/2016/909), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/909/regulation/1/1), [3(5)](https://www.legislation.gov.uk/uksi/2016/909/regulation/3/5)
+[^c-aa0c739a7c8a2e76aac41d1eca56eb24]: Textual amendment: Words in [reg. 81(3)](https://www.legislation.gov.uk/uksi/2013/376/regulation/81/3) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Benefit Cap (Housing Benefit and Universal Credit) (Amendment) Regulations 2016 (S.I. 2016/909)](https://www.legislation.gov.uk/uksi/2016/909), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/909/regulation/1/1), [3(5)](https://www.legislation.gov.uk/uksi/2016/909/regulation/3/5)

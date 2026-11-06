@@ -22,7 +22,7 @@ summary: ''
 
 (1) Subject to paragraphs (2) and (3), hardship payments are recoverable in accordance with section 69ZH of the Social Security Administration (Northern Ireland) Act 1992 (recovery of hardship payments etc.) [^c22824751].
 
-(2)[^key-e00d3ab8ac3e7d4cd55642eea5927b9f] Paragraph (1) does not apply in relation to any assessment period in which—
+(2)[^c-e00d3ab8ac3e7d4cd55642eea5927b9f] Paragraph (1) does not apply in relation to any assessment period in which—
 
 - (a) the single claimant, or each joint claimant, falls within Article 24 of the Order by virtue of regulation 89 (claimants subject to no work-related requirements – the earnings threshold);
 - (b) where regulation 89 applies to one of the joint claimants only, the joint claimants’ combined monthly earnings are equal to or exceed the amount of the individual threshold; or
@@ -40,4 +40,4 @@ for a period of, or more than one period where the total of those periods amount
 
 [^c22824751]: Marginal citation: Section 69ZH was inserted by Article 109(1) of Order.
 
-[^key-e00d3ab8ac3e7d4cd55642eea5927b9f]: Textual amendment: Reg. 114(2)(3) substituted (coming into force in accordance with reg. 1(3) of the amending Rule) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/116)](https://www.legislation.gov.uk/nisr/2017/116), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2017/116/regulation/1/3), [9(14)](https://www.legislation.gov.uk/nisr/2017/116/regulation/9/14)
+[^c-e00d3ab8ac3e7d4cd55642eea5927b9f]: Textual amendment: Reg. 114(2)(3) substituted (coming into force in accordance with reg. 1(3) of the amending Rule) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/116)](https://www.legislation.gov.uk/nisr/2017/116), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2017/116/regulation/1/3), [9(14)](https://www.legislation.gov.uk/nisr/2017/116/regulation/9/14)

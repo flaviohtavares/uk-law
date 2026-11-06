@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 89. Specified proportion[^key-99b552230b3a2795a338085bd94c4a01]
+## 89. Specified proportion[^c-99b552230b3a2795a338085bd94c4a01]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-99b552230b3a2795a338085bd94c4a01]: Commencement: [Reg. 89](https://www.legislation.gov.uk/ssi/2015/19/regulation/89) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-99b552230b3a2795a338085bd94c4a01]: Commencement: [Reg. 89](https://www.legislation.gov.uk/ssi/2015/19/regulation/89) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

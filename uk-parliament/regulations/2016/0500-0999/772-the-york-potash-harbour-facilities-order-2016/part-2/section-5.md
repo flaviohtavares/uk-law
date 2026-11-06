@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Maintenance of authorised development[^key-33fa2b10b8fa9b8e8e041e05948a2602]
+## 5. Maintenance of authorised development[^c-33fa2b10b8fa9b8e8e041e05948a2602]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Subject to the requirements and the protective provisions the undertaker may mai
 
 ## Annotations
 
-[^key-33fa2b10b8fa9b8e8e041e05948a2602]: Commencement: Art. 5 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
+[^c-33fa2b10b8fa9b8e8e041e05948a2602]: Commencement: Art. 5 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)

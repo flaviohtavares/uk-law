@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 13. Measures to minimise the risk of the spread of avian influenza from suspect premises[^key-7c3084c56997d8bcb6be9c4828c33889]
+## 13. Measures to minimise the risk of the spread of avian influenza from suspect premises[^c-7c3084c56997d8bcb6be9c4828c33889]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7c3084c56997d8bcb6be9c4828c33889]: Textual amendment: Instrument revoked with saving (13.11.2006) by [The Avian Influenza and Influenza of Avian Origin in Mammals (England) (No.2) Order 2006 (S.I. 2006/2702)](https://www.legislation.gov.uk/uksi/2006/2702), [art. 86(2)](https://www.legislation.gov.uk/uksi/2006/2702/article/86/2) (with [art. 86(2)](https://www.legislation.gov.uk/uksi/2006/2702/article/86/2))
+[^c-7c3084c56997d8bcb6be9c4828c33889]: Textual amendment: Instrument revoked with saving (13.11.2006) by [The Avian Influenza and Influenza of Avian Origin in Mammals (England) (No.2) Order 2006 (S.I. 2006/2702)](https://www.legislation.gov.uk/uksi/2006/2702), [art. 86(2)](https://www.legislation.gov.uk/uksi/2006/2702/article/86/2) (with [art. 86(2)](https://www.legislation.gov.uk/uksi/2006/2702/article/86/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 130. Revocations[^key-840adb1b606814e3f37248f3216c7a0c][^key-a14aa5d25e2bb44364e71ca8926ba71f]
+## 130. Revocations[^c-840adb1b606814e3f37248f3216c7a0c][^c-a14aa5d25e2bb44364e71ca8926ba71f]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,9 +30,9 @@ summary: ''
 
 ## Annotations
 
-[^key-840adb1b606814e3f37248f3216c7a0c]: Commencement: Reg. 130 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
+[^c-840adb1b606814e3f37248f3216c7a0c]: Commencement: Reg. 130 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
 
-[^key-a14aa5d25e2bb44364e71ca8926ba71f]: Commencement: [Reg. 130](https://www.legislation.gov.uk/uksi/2019/411/regulation/130) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a14aa5d25e2bb44364e71ca8926ba71f]: Commencement: [Reg. 130](https://www.legislation.gov.uk/uksi/2019/411/regulation/130) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23636951]: Marginal citation: [S.I. 2009/1749](https://www.legislation.gov.uk/uksi/2009/1749), as amended by [S.I. 2009/3213](https://www.legislation.gov.uk/uksi/2009/3213), [S.I](https://www.legislation.gov.uk/uksi/2009/3213/section/I). 2012/362, [S.I. 2015/2014](https://www.legislation.gov.uk/uksi/2015/2014), [S.I](https://www.legislation.gov.uk/uksi/2015/2014/section/I). 2016/1119, [S.I. 2017/319](https://www.legislation.gov.uk/uksi/2017/319), [S.I](https://www.legislation.gov.uk/uksi/2017/319/section/I)., 2017/1110, [S.I. 2017/1278](https://www.legislation.gov.uk/uksi/2017/1278), [S.I](https://www.legislation.gov.uk/uksi/2017/1278/section/I). 2018/523, and [S.I. 2018/1060](https://www.legislation.gov.uk/uksi/2018/1060).
 

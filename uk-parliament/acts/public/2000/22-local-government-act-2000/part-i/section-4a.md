@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4A. Strategies: parishes[^key-26fa2df7ae5460b7cdcdc6eebb4c6c9d]
+## 4A. Strategies: parishes[^c-26fa2df7ae5460b7cdcdc6eebb4c6c9d]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-26fa2df7ae5460b7cdcdc6eebb4c6c9d]: Textual amendment: [S. 4A](https://www.legislation.gov.uk/ukpga/2000/22/section/4A) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 100(2)(a)](https://www.legislation.gov.uk/ukpga/2015/20/section/100/2/a), [115(3)(k)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/k)
+[^c-26fa2df7ae5460b7cdcdc6eebb4c6c9d]: Textual amendment: [S. 4A](https://www.legislation.gov.uk/ukpga/2000/22/section/4A) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 100(2)(a)](https://www.legislation.gov.uk/ukpga/2015/20/section/100/2/a), [115(3)(k)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/k)

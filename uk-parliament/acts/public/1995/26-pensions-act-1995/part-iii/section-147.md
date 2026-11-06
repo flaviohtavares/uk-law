@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 147. Monitoring personal pension schemes.[^key-7ee8ba07bf3e9c5b7c0f048d74d20c5a]
+## 147. Monitoring personal pension schemes.[^c-7ee8ba07bf3e9c5b7c0f048d74d20c5a]
 
 *Extent: E+W+S*
 
@@ -35,6 +35,6 @@ After section 33 of the [^c2136354]Pension Schemes Act 1993 there is inserted—
 
 ## Annotations
 
-[^key-7ee8ba07bf3e9c5b7c0f048d74d20c5a]: Commencement: S. 147 in force at 6.4.1997 in so far as not already in force by [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/3)
+[^c-7ee8ba07bf3e9c5b7c0f048d74d20c5a]: Commencement: S. 147 in force at 6.4.1997 in so far as not already in force by [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/3)
 
 [^c2136354]: Marginal citation: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48).

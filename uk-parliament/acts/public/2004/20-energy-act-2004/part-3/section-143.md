@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 143. Amendments consequential on Chapter 1 of Part 3[^key-c1a116ca0906a82734c29bd9e83a6f51]
+## 143. Amendments consequential on Chapter 1 of Part 3[^c-c1a116ca0906a82734c29bd9e83a6f51]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ is to reduce in any respect the area in which the holder of a transmission licen
 
 ## Annotations
 
-[^key-c1a116ca0906a82734c29bd9e83a6f51]: Commencement: [S. 143](https://www.legislation.gov.uk/ukpga/2004/20/section/143) in force at 1.9.2004 by [S.I. 2004/2184](https://www.legislation.gov.uk/uksi/2004/2184), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/2184/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/2184/schedule/2)
+[^c-c1a116ca0906a82734c29bd9e83a6f51]: Commencement: [S. 143](https://www.legislation.gov.uk/ukpga/2004/20/section/143) in force at 1.9.2004 by [S.I. 2004/2184](https://www.legislation.gov.uk/uksi/2004/2184), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/2184/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/2184/schedule/2)

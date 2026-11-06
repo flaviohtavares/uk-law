@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Extent[^key-0dd666e099f5659f5102e7f3140ac5aa]
+## 3. Extent[^c-0dd666e099f5659f5102e7f3140ac5aa]
 
 *Extent: E+W*
 
@@ -34,7 +34,7 @@ summary: ''
 
 ## Annotations
 
-[^key-0dd666e099f5659f5102e7f3140ac5aa]: Commencement: Art. 3 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2)
+[^c-0dd666e099f5659f5102e7f3140ac5aa]: Commencement: Art. 3 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2)
 
 [^f00004]: Footnote: [1985 c.69](https://www.legislation.gov.uk/ukpga/1985/69). Section 2B was inserted by paragraph 15(2) of Schedule 2 to the Housing Act 1996 (Consequential Provisions) Order 1996 ([S.I. 1996/2325](https://www.legislation.gov.uk/uksi/1996/2325)).
 

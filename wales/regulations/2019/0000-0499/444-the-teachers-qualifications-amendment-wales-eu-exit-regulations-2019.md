@@ -53,7 +53,7 @@ The requirements of paragraph 4(2) of Schedule 7 to the European Union (Withdraw
 
 ## PART 1 — Introduction
 
-### 1. Title, commencement, application and revocation[^key-76324fb157b71a7ea5b8b3145bb4cef1]
+### 1. Title, commencement, application and revocation[^c-76324fb157b71a7ea5b8b3145bb4cef1]
 
 (1) The title of these Regulations is the Teachers' Qualifications (Amendment) (Wales) (EU Exit) Regulations 2019.
 
@@ -65,7 +65,7 @@ The requirements of paragraph 4(2) of Schedule 7 to the European Union (Withdraw
 
 ## PART 2 — Amendment of subordinate legislation
 
-### 2. Amendment of the Head Teachers' Qualifications and Registration (Wales) Regulations 2005[^key-329801272a921d89b6799d9a53320575]
+### 2. Amendment of the Head Teachers' Qualifications and Registration (Wales) Regulations 2005[^c-329801272a921d89b6799d9a53320575]
 
 (1) The Head Teachers' Qualifications and Registration (Wales) Regulations 2005 [^c24498111] are amended as follows.
 
@@ -77,7 +77,7 @@ The requirements of paragraph 4(2) of Schedule 7 to the European Union (Withdraw
 
 (3) In regulation 3(1)(e) for “the 2005 Regulations”, substitute “ the 2015 Regulations ”.
 
-### 3. Amendment of the School Teachers' Qualifications (Wales) Regulations 2012[^key-4b77566923692797581cabdf58869066]
+### 3. Amendment of the School Teachers' Qualifications (Wales) Regulations 2012[^c-4b77566923692797581cabdf58869066]
 
 (1) The School Teachers' Qualifications (Wales) Regulations 2012 [^c24498131] are amended as follows.
 
@@ -89,7 +89,7 @@ The requirements of paragraph 4(2) of Schedule 7 to the European Union (Withdraw
 >
 > - (a) a decision taken or right accrued under the 2007 Regulations or the 2015 European Union Regulations before exit day in accordance with paragraph 40 of Schedule 1 to the Recognition of Professional Qualifications (Amendment etc.) (EU Exit) Regulations 2019 [^c24498141];
 > - (b) a decision taken or determination made under the 2015 European Union Regulations in accordance with paragraph 44 of Schedule 1 to the Recognition of Professional Qualifications (Amendment etc.) (EU Exit) Regulations 2019; or
-> - (c) a decision taken or determination made under the 2007 Regulations in accordance with paragraph 50 or paragraph 51[^key-c3e3349e0433a9711f2cabf1e51bf5f1] of Schedule 1 to the Recognition of Professional Qualifications (Amendment etc.) (EU Exit) Regulations 2019.
+> - (c) a decision taken or determination made under the 2007 Regulations in accordance with paragraph 50 or paragraph 51[^c-c3e3349e0433a9711f2cabf1e51bf5f1] of Schedule 1 to the Recognition of Professional Qualifications (Amendment etc.) (EU Exit) Regulations 2019.
 >
 > (2) In this paragraph—
 >
@@ -106,7 +106,7 @@ The requirements of paragraph 4(2) of Schedule 7 to the European Union (Withdraw
 >
 > (3) Persons are not the subject of any decision of, or proceedings before, a body, which restricts or may restrict a person's ability to teach in any state or who have been otherwise barred from accessing or pursuing the profession of school teacher.
 
-### 4. Amendment of the Education Workforce Council (Main Functions) (Wales) Regulations 2015[^key-d7412df9eef7ba43e763eb51a7277eaf]
+### 4. Amendment of the Education Workforce Council (Main Functions) (Wales) Regulations 2015[^c-d7412df9eef7ba43e763eb51a7277eaf]
 
 (1) The Education Workforce Council (Main Functions) (Wales) Regulation 2015 [^c24498181] are amended as follows.
 
@@ -116,7 +116,7 @@ The requirements of paragraph 4(2) of Schedule 7 to the European Union (Withdraw
 
 (4) Regulation 7(3) is revoked.
 
-### 5. Amendment of the Education Workforce Council (Additional Functions and Revocation) (Wales) Order 2015[^key-345c19b4ed508d05f0b3342137b36106]
+### 5. Amendment of the Education Workforce Council (Additional Functions and Revocation) (Wales) Order 2015[^c-345c19b4ed508d05f0b3342137b36106]
 
 (1) The Education Workforce Council (Additional Functions and Revocation) (Wales) Order 2015 [^c24498191] is amended as follows.
 
@@ -131,7 +131,7 @@ The requirements of paragraph 4(2) of Schedule 7 to the European Union (Withdraw
 
 (3) In article 3(1) omit “for the purpose of the Directive”.
 
-### 6. Amendment of the Education (Induction Arrangements for School Teachers) (Wales) Regulations 2015[^key-33d747818fd49bf2e89b6e0491a8083a]
+### 6. Amendment of the Education (Induction Arrangements for School Teachers) (Wales) Regulations 2015[^c-33d747818fd49bf2e89b6e0491a8083a]
 
 (1) The Education (Induction Arrangements for School Teachers) (Wales) Regulations 2015 [^c24498211] are amended as follows.
 
@@ -163,38 +163,38 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c24498091]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-76324fb157b71a7ea5b8b3145bb4cef1]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-76324fb157b71a7ea5b8b3145bb4cef1]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c24498101]: Marginal citation: [S.I. 2009/3200](https://www.legislation.gov.uk/uksi/2009/3200) these regulations were revoked in relation to England by [S.I. 2012/1153](https://www.legislation.gov.uk/uksi/2012/1153).
 
-[^key-329801272a921d89b6799d9a53320575]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-329801272a921d89b6799d9a53320575]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c24498111]: Marginal citation: [S.I. 2005/1227](https://www.legislation.gov.uk/uksi/2005/1227) (W.85), as amended by [S.I. 2011/1769](https://www.legislation.gov.uk/uksi/2011/1769) (W.196).
 
 [^c24498121]: Marginal citation: [S.I. 2015/2059](https://www.legislation.gov.uk/uksi/2015/2059), amended by section 211 of, and Schedule 19 to the [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [S.I](https://www.legislation.gov.uk/ukpga/2018/12/section/I). 2016/696, 2016/1094, 2016/1030, [S.I. 2018/838](https://www.legislation.gov.uk/uksi/2018/838).
 
-[^key-4b77566923692797581cabdf58869066]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-4b77566923692797581cabdf58869066]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c24498131]: Marginal citation: [S.I. 2012/724](https://www.legislation.gov.uk/uksi/2012/724) (W.96), as amended by [S.I. 2015/484](https://www.legislation.gov.uk/uksi/2015/484) (W..41).
 
 [^c24498141]: Marginal citation: [S.I. 2019/312](https://www.legislation.gov.uk/uksi/2019/312)
 
-[^key-c3e3349e0433a9711f2cabf1e51bf5f1]: Textual amendment: Words in reg. 3(2) substituted (31.12.2020) by [The Teachers Qualifications (Amendment) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1246)](https://www.legislation.gov.uk/uksi/2020/1246), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1246/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/1246/regulation/2/1) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1246/regulation/1/3))
+[^c-c3e3349e0433a9711f2cabf1e51bf5f1]: Textual amendment: Words in reg. 3(2) substituted (31.12.2020) by [The Teachers Qualifications (Amendment) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1246)](https://www.legislation.gov.uk/uksi/2020/1246), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1246/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/1246/regulation/2/1) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1246/regulation/1/3))
 
 [^c24498161]: Marginal citation: [S.I. 2007/2871](https://www.legislation.gov.uk/uksi/2007/2871), as amended by [S.I. 2015/2059](https://www.legislation.gov.uk/uksi/2015/2059).
 
 [^c24498171]: Marginal citation: [S.I. 2015/2059](https://www.legislation.gov.uk/uksi/2015/2059), amended by section 211 of, and Schedule 19 to the [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [S.I](https://www.legislation.gov.uk/ukpga/2018/12/section/I). 2016/696, 2016/1094, 2016/1030, [S.I. 2018/838](https://www.legislation.gov.uk/uksi/2018/838).
 
-[^key-d7412df9eef7ba43e763eb51a7277eaf]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-d7412df9eef7ba43e763eb51a7277eaf]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c24498181]: Marginal citation: [S.I. 2015/140](https://www.legislation.gov.uk/uksi/2015/140) (W.8).
 
-[^key-345c19b4ed508d05f0b3342137b36106]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-345c19b4ed508d05f0b3342137b36106]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c24498191]: Marginal citation: [S.I. 2015/194](https://www.legislation.gov.uk/uksi/2015/194) (W.9).
 
 [^c24498201]: Marginal citation: [S.I. 2015/2059](https://www.legislation.gov.uk/uksi/2015/2059), amended by section 211 of, and Schedule 19 to the [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [S.I](https://www.legislation.gov.uk/ukpga/2018/12/section/I). 2016/696, 2016/1094, 2016/1030, [S.I. 2018/838](https://www.legislation.gov.uk/uksi/2018/838).
 
-[^key-33d747818fd49bf2e89b6e0491a8083a]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-33d747818fd49bf2e89b6e0491a8083a]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c24498211]: Marginal citation: [S.I. 2015/484](https://www.legislation.gov.uk/uksi/2015/484) (W.41)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 56. Preliminary notice of enforcement action[^key-637616eafc8dd55995d8ae59989eb8d5][^key-bb775dba02b4515b247c4fc6e100263b]
+## 56. Preliminary notice of enforcement action[^c-637616eafc8dd55995d8ae59989eb8d5][^c-bb775dba02b4515b247c4fc6e100263b]
 
 *Extent: S*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-637616eafc8dd55995d8ae59989eb8d5]: Commencement: S. 56 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
+[^c-637616eafc8dd55995d8ae59989eb8d5]: Commencement: S. 56 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
 
-[^key-bb775dba02b4515b247c4fc6e100263b]: Commencement: [S. 56](https://www.legislation.gov.uk/asp/2025/11/section/56) in force at 1.3.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2)
+[^c-bb775dba02b4515b247c4fc6e100263b]: Commencement: [S. 56](https://www.legislation.gov.uk/asp/2025/11/section/56) in force at 1.3.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2)

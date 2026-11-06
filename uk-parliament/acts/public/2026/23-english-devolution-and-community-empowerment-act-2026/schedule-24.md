@@ -22,7 +22,7 @@ summary: ''
 
 Section 47
 
-**1.**[^key-f0eec2c4c74126e5176a9cc57dfcd5c6] This is Schedule 10A to be inserted after Schedule 10 to PRSRA 2011—
+**1.**[^c-f0eec2c4c74126e5176a9cc57dfcd5c6] This is Schedule 10A to be inserted after Schedule 10 to PRSRA 2011—
 
 > **Schedule 10A — Exercise of PCC functions by elected mayors**
 >
@@ -790,4 +790,4 @@ Section 47
 
 ## Annotations
 
-[^key-f0eec2c4c74126e5176a9cc57dfcd5c6]: Commencement: [Sch. 24 para. 1](https://www.legislation.gov.uk/ukpga/2026/23/schedule/24/paragraph/1) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-f0eec2c4c74126e5176a9cc57dfcd5c6]: Commencement: [Sch. 24 para. 1](https://www.legislation.gov.uk/ukpga/2026/23/schedule/24/paragraph/1) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)

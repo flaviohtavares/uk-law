@@ -50,7 +50,7 @@ The Treasury make the following Order in exercise of the powers conferred on the
 
 ## PART 1 — GENERAL
 
-### 1. Citation and commencement[^key-89412cfd1849bd4cdf94bb7ea90132ac][^key-8074f9e7ab51c7509978ca0415d1f8dc]
+### 1. Citation and commencement[^c-89412cfd1849bd4cdf94bb7ea90132ac][^c-8074f9e7ab51c7509978ca0415d1f8dc]
 
 (1) This Order may be cited as the Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2006.
 
@@ -65,11 +65,11 @@ The Treasury make the following Order in exercise of the powers conferred on the
 
 ## PART 2 — AMENDMENTS OF THE REGULATED ACTIVITIES ORDER
 
-### 2. Amendments of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001[^key-d3c74124c9e6dae061d828ebeea5129b][^key-c6b18be396e0b270d7b95369b87a84f8]
+### 2. Amendments of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001[^c-d3c74124c9e6dae061d828ebeea5129b][^c-c6b18be396e0b270d7b95369b87a84f8]
 
 The Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 is amended as follows.
 
-### 3. Definitions[^key-211f8fd46c389ae116e37d66c4aebd59][^key-8f6140e5c39364e55c3543243d669051]
+### 3. Definitions[^c-211f8fd46c389ae116e37d66c4aebd59][^c-8f6140e5c39364e55c3543243d669051]
 
 (1) In article 3(1)[^f00003] (interpretation)—
 
@@ -101,7 +101,7 @@ The Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 is
 
 (2) In article 3(2) after “article 25(1)” insert “, 25A(1), 25B(1) or 25C(1)”.
 
-### 4. Arranging regulated home reversion plans and regulated home purchase plans[^key-fe70cd1d5e2c60c592f9fd4d62943e4f][^key-7b5e474f956ca8e14e98a4c085a9af52]
+### 4. Arranging regulated home reversion plans and regulated home purchase plans[^c-fe70cd1d5e2c60c592f9fd4d62943e4f][^c-7b5e474f956ca8e14e98a4c085a9af52]
 
 After article 25A (arranging regulated mortgage contracts) insert—
 
@@ -129,15 +129,15 @@ After article 25A (arranging regulated mortgage contracts) insert—
 
 .
 
-### 5. Exclusion of arrangements not causing a deal[^key-ba4ff2f08c3449c914a6e23c619138d9][^key-bd11a7f2013cda3caa082f0704645697]
+### 5. Exclusion of arrangements not causing a deal[^c-ba4ff2f08c3449c914a6e23c619138d9][^c-bd11a7f2013cda3caa082f0704645697]
 
 In article 26 (arrangements not causing a deal), for “article 25(1) and article 25A(1)” substitute “articles 25(1), 25A(1), 25B(1) and 25C(1)”.
 
-### 6. Exclusion where a person provides a means of communication between parties[^key-4b3268a895139df8a1287460dfb5e92d][^key-a3bb5836ded01c6c9e6518d953f6fc07]
+### 6. Exclusion where a person provides a means of communication between parties[^c-4b3268a895139df8a1287460dfb5e92d][^c-a3bb5836ded01c6c9e6518d953f6fc07]
 
 In article 27 (enabling parties to communicate) for “article 25(2) and article 25A(2)” substitute “article 25(2), 25A(2), 25B(2) or 25C(2)”.
 
-### 7. Exclusion where the arranger is a party to the contract or plan[^key-1b03bc0477c9fd0b1a26f8e15f5549e9][^key-c613b1088ab54ddf9433aa9b945773f6]
+### 7. Exclusion where the arranger is a party to the contract or plan[^c-1b03bc0477c9fd0b1a26f8e15f5549e9][^c-c613b1088ab54ddf9433aa9b945773f6]
 
 (1) In the title of article 28A (arranging contracts to which the arranger is a party) after “contracts” insert “or plans”.
 
@@ -150,14 +150,14 @@ In article 27 (enabling parties to communicate) for “article 25(2) and article
   - (i) for “article 25A(2)” substitute “articles 25A(2), 25B(2) and 25C(2)”;
   - (ii) after “contracts” insert “or plans”.
 
-### 8. Exclusion of arrangements where transaction is with or through an authorised person[^key-ddbb4b8df8c2466c547e731bfc0d5dee][^key-f66c8889cc6a62ed14f64ce047f8e75b]
+### 8. Exclusion of arrangements where transaction is with or through an authorised person[^c-ddbb4b8df8c2466c547e731bfc0d5dee][^c-f66c8889cc6a62ed14f64ce047f8e75b]
 
 In article 29(1) (arranging deals with or through authorised persons)—
 
 - (a) for “article 25(1) and (2) and article 25A(1) and (2)” substitute “articles 25(1) and (2), 25A(1) and (2), 25B(1) and (2) and 25C(1) and (2)”;
 - (b) in sub-paragraph (b) for “investor or (as the case may be) a borrower under a regulated mortgage contract” substitute “investor, borrower, reversion seller, plan provider or (as the case may be) home purchaser”.
 
-### 9. Exclusion made in the course of administration by an authorised person[^key-fe5ec14c6d0b3069d0136bb63d6b8068][^key-85461a8e934ca587f4e282bba2063719]
+### 9. Exclusion made in the course of administration by an authorised person[^c-fe5ec14c6d0b3069d0136bb63d6b8068][^c-85461a8e934ca587f4e282bba2063719]
 
 In article 29A (arrangements made in the course of administration by authorised person)—
 
@@ -176,7 +176,7 @@ In article 29A (arrangements made in the course of administration by authorised 
 
   .
 
-### 10. Exclusion of arrangements which consist of introduction to an authorised person etc. for independent advice[^key-8c67eadad4f8a13616fc12cbbe4eb731][^key-85ba4bb9580de2b3c067ed4617415cd5]
+### 10. Exclusion of arrangements which consist of introduction to an authorised person etc. for independent advice[^c-8c67eadad4f8a13616fc12cbbe4eb731][^c-85ba4bb9580de2b3c067ed4617415cd5]
 
 In article 33 (introducing)—
 
@@ -185,7 +185,7 @@ In article 33 (introducing)—
   - (i) after “25A, ” insert “25B, 25C, ”;
   - (ii) for “and 53A” substitute “, 53A, 53B and 53C”.
 
-### 11. Exclusion of certain other arrangements consisting of an introduction to an authorised person etc.[^key-2c2dc6b2955c14b148d5522f495f0de7][^key-f71ecadbf9c8148bc805a555bf783323]
+### 11. Exclusion of certain other arrangements consisting of an introduction to an authorised person etc.[^c-2c2dc6b2955c14b148d5522f495f0de7][^c-f71ecadbf9c8148bc805a555bf783323]
 
 In article 33A (introducing to authorised persons etc.)—
 
@@ -218,11 +218,11 @@ In article 33A (introducing to authorised persons etc.)—
 
   .
 
-### 12. Other exclusions: arranging[^key-cd580fb4f3f656fe593fc71b92e10994][^key-f74bf6eae107ad108bb07d5bd7776245]
+### 12. Other exclusions: arranging[^c-cd580fb4f3f656fe593fc71b92e10994][^c-f74bf6eae107ad108bb07d5bd7776245]
 
 In article 36(2) (other exclusions) for “Article 25A is” substitute “Articles 25A, 25B and 25C are”.
 
-### 13. Advising on regulated home reversion plans and regulated home purchase plans[^key-d8360d11008db31d1dfd03595906f89d][^key-1696765dd525ef88ecf5f196055de86e]
+### 13. Advising on regulated home reversion plans and regulated home purchase plans[^c-d8360d11008db31d1dfd03595906f89d][^c-1696765dd525ef88ecf5f196055de86e]
 
 After article 53A (advising on regulated mortgage contracts) insert—
 
@@ -248,7 +248,7 @@ After article 53A (advising on regulated mortgage contracts) insert—
 
 .
 
-### 14. Exclusion of advice given in newspapers etc.[^key-c8e68d52068d8bde414b4156ff896fdc][^key-6719b5f2ed9d1c70fd1b9da1f1800ac9]
+### 14. Exclusion of advice given in newspapers etc.[^c-c8e68d52068d8bde414b4156ff896fdc][^c-6719b5f2ed9d1c70fd1b9da1f1800ac9]
 
 In article 54 (advice given in newspapers etc.)—
 
@@ -265,7 +265,7 @@ In article 54 (advice given in newspapers etc.)—
     ;
 - (b) in paragraph (2) for “article 53 and article 53A” substitute “articles 53, 53A, 53B and 53C”.
 
-### 15. Exclusion of advice given in the course of administration by authorised person[^key-9cd71e7d68b66ecfeb5ed197df95b71a][^key-593c1e4c2d7bc570909dea394529b1ad]
+### 15. Exclusion of advice given in the course of administration by authorised person[^c-9cd71e7d68b66ecfeb5ed197df95b71a][^c-593c1e4c2d7bc570909dea394529b1ad]
 
 In article 54A (advice given in the course of administration by authorised person)—
 
@@ -284,11 +284,11 @@ In article 54A (advice given in the course of administration by authorised perso
 
   .
 
-### 16. Other exclusions: advising[^key-aaa7c97cd2baa9b7112be6ee722e761c][^key-deb9e87595a867a435dba61c3f313154]
+### 16. Other exclusions: advising[^c-aaa7c97cd2baa9b7112be6ee722e761c][^c-deb9e87595a867a435dba61c3f313154]
 
 In article 55(2) (other exclusions) for “Article 53A is” substitute “Articles 53A, 53B and 53C are”.
 
-### 17. Regulated mortgage contracts[^key-54dd0b4d30c948b248e1db52efd085b8][^key-67ac7bcf7ba778027b836a7aee3a363b]
+### 17. Regulated mortgage contracts[^c-54dd0b4d30c948b248e1db52efd085b8][^c-67ac7bcf7ba778027b836a7aee3a363b]
 
 In article 61(3)(a) (regulated mortgage contracts) after paragraph (iii) insert—
 
@@ -296,7 +296,7 @@ In article 61(3)(a) (regulated mortgage contracts) after paragraph (iii) insert�
 
 .
 
-### 18. Entering into and administering regulated home reversion plans and regulated home purchase plans[^key-3bb69034b0f047a1d9e09c4328226577][^key-81faeaa8d8a76b4ec40cf98a8c7ec50c]
+### 18. Entering into and administering regulated home reversion plans and regulated home purchase plans[^c-3bb69034b0f047a1d9e09c4328226577][^c-81faeaa8d8a76b4ec40cf98a8c7ec50c]
 
 After article 63A (other exclusions) insert—
 
@@ -419,7 +419,7 @@ After article 63A (other exclusions) insert—
 
 .
 
-### 19. Exclusion of trustees, nominees and personal representatives[^key-1a756b49a00f892be37f10d394bc3afc][^key-eae63e6b1d1e7e99cffb392ad40bc4a6]
+### 19. Exclusion of trustees, nominees and personal representatives[^c-1a756b49a00f892be37f10d394bc3afc][^c-eae63e6b1d1e7e99cffb392ad40bc4a6]
 
 In article 66 (trustees, nominees and personal representatives)—
 
@@ -434,14 +434,14 @@ In article 66 (trustees, nominees and personal representatives)—
   ;
 - (d) in paragraph (7) for “ and (6A)” insert “, (6A), (6B) and (6C)”.
 
-### 20. Exclusion of activities carried on in the course of a profession or non-investment business[^key-601f76d7e4a57e007d86df51d397a2cb][^key-ee5077c6c56655cec01e4bff3c00c850]
+### 20. Exclusion of activities carried on in the course of a profession or non-investment business[^c-601f76d7e4a57e007d86df51d397a2cb][^c-ee5077c6c56655cec01e4bff3c00c850]
 
 In article 67(1) (activities carried on in the course of a profession or non-investment business)—
 
 - (a) after “25A, ” insert “25B, 25C, ”;
 - (b) for “and 53A” substitute “, 53A, 53B and 53C”.
 
-### 21. Overseas persons[^key-300e08ae0ebdf171e5359eaf6e97f07f][^key-8857cedba4db6d755583aed617c3ab46]
+### 21. Overseas persons[^c-300e08ae0ebdf171e5359eaf6e97f07f][^c-8857cedba4db6d755583aed617c3ab46]
 
 In article 72 (overseas persons) for paragraphs (5A) to (5F) substitute—
 
@@ -473,11 +473,11 @@ In article 72 (overseas persons) for paragraphs (5A) to (5F) substitute—
 
 .
 
-### 22. Business Angel-led Enterprise Capital Funds: interpretation[^key-6bc1e0989bbd0c5b4f2e2f51df3302c3][^key-7e28e2bdd471f43d5fb043f59396cad3]
+### 22. Business Angel-led Enterprise Capital Funds: interpretation[^c-6bc1e0989bbd0c5b4f2e2f51df3302c3][^c-7e28e2bdd471f43d5fb043f59396cad3]
 
 In article 72F(1)[^f00009] (interpretation) in paragraph (b) of the definition of “high net worth company” for “(in a manner which creates a binding obligation on the company)” substitute “(in a manner which binds the company)”.
 
-### 23. Specified investments[^key-4b848ca85225d9fe27c3f5f070378275][^key-bb0743dd6a6ba7c49029477ceab0e090]
+### 23. Specified investments[^c-4b848ca85225d9fe27c3f5f070378275][^c-bb0743dd6a6ba7c49029477ceab0e090]
 
 After article 88 (regulated mortgage contracts) insert—
 
@@ -491,13 +491,13 @@ After article 88 (regulated mortgage contracts) insert—
 
 .
 
-### 24. Rights to or interests in investments[^key-e78a2e8a4865ed860585249c2a8a866a][^key-0644423aaad926326cfbe4b79358ba89]
+### 24. Rights to or interests in investments[^c-e78a2e8a4865ed860585249c2a8a866a][^c-0644423aaad926326cfbe4b79358ba89]
 
 In article 89(1) (rights to or interests in investments) for “article 88” substitute “article 88, 88A or 88B”.
 
 ## PART 3 — AMENDMENTS OF PRIMARY LEGISLATION
 
-### 25. Amendments of the Consumer Credit Act 1974[^key-c8575239ed1ab6257e847a1b62832730][^key-aac2daaf292b650153a959a867b9409f]
+### 25. Amendments of the Consumer Credit Act 1974[^c-c8575239ed1ab6257e847a1b62832730][^c-aac2daaf292b650153a959a867b9409f]
 
 (1) The Consumer Credit Act 1974[^f00010] is amended as follows.
 
@@ -536,7 +536,7 @@ In article 89(1) (rights to or interests in investments) for “article 88” su
     ;
   - (ii) after “and references to “regulated activities”” insert “, “regulated home purchase plan” and “home purchase provider””.
 
-### 26. Amendments of the Companies Act 1985[^key-e6c7d72de27509ec5a3c2a2c199d764c][^key-ea2b9a4deb5ee15c1bfa4b0c640572da]
+### 26. Amendments of the Companies Act 1985[^c-e6c7d72de27509ec5a3c2a2c199d764c][^c-ea2b9a4deb5ee15c1bfa4b0c640572da]
 
 In section 262(1) of the Companies Act 1985[^f00011] (minor definitions) in the definition of “regulated activity”—
 
@@ -553,20 +553,20 @@ In section 262(1) of the Companies Act 1985[^f00011] (minor definitions) in the 
 
   .
 
-### 27. Amendments of the Law of Property (Miscellaneous Provisions) Act 1989[^key-f5212a1911a1f824a445b1e746ed0405][^key-16e9351939efa490b9197aa63cbf216e]
+### 27. Amendments of the Law of Property (Miscellaneous Provisions) Act 1989[^c-f5212a1911a1f824a445b1e746ed0405][^c-16e9351939efa490b9197aa63cbf216e]
 
 In section 2 of the Law of Property (Miscellaneous Provisions) Act 1989[^f00012] (contracts for sale etc. of land to be made by signed writing)—
 
 - (a) in subsection (5)(c) after “regulated mortgage contract” insert “, a regulated home reversion plan or a regulated home purchase plan”;
 - (b) in subsection (6) after ““regulated mortgage contract”” insert “, “regulated home reversion plan” and “regulated home purchase plan””.
 
-### 28. Amendment of the Financial Services and Markets Act 2000[^key-69cee7eba44184bc22bb0f4e96c5c62d][^key-b0495fb72ea678dcebbe651a0f5c921d]
+### 28. Amendment of the Financial Services and Markets Act 2000[^c-69cee7eba44184bc22bb0f4e96c5c62d][^c-b0495fb72ea678dcebbe651a0f5c921d]
 
 In section 49(2A)(b) of the Financial Services and Markets Act 2000[^f00013] (persons connected with an applicant) after “regulated mortgage contract” insert “, a regulated home reversion plan or a regulated home purchase plan”.
 
 ## PART 4 — AMENDMENTS OF OTHER SECONDARY LEGISLATION
 
-### 29. Amendments of the Financial Services and Markets Act 2000 (Carrying on Regulated Activities by Way of Business) Order 2001[^key-46325e0252418234bb11717aae21ae35][^key-390c7596c4cad8a559e945af53ec414b]
+### 29. Amendments of the Financial Services and Markets Act 2000 (Carrying on Regulated Activities by Way of Business) Order 2001[^c-46325e0252418234bb11717aae21ae35][^c-390c7596c4cad8a559e945af53ec414b]
 
 In the Financial Services and Markets Act 2000 (Carrying on Regulated Activities by Way of Business) Order 2001[^f00014] after article 3A (arranging and advising on regulated mortgage contracts) insert—
 
@@ -592,7 +592,7 @@ In the Financial Services and Markets Act 2000 (Carrying on Regulated Activities
 
 .
 
-### 30. Amendments of the Financial Services and Markets Act 2000 (Exemption) Order 2001[^key-736a7568aa5c33871aef8519736e4fd2][^key-cb6973dda5f027623a8729b59f63d3f7]
+### 30. Amendments of the Financial Services and Markets Act 2000 (Exemption) Order 2001[^c-736a7568aa5c33871aef8519736e4fd2][^c-cb6973dda5f027623a8729b59f63d3f7]
 
 In the Financial Services and Markets Act 2000 (Exemption) Order 2001[^f00015], Part 4 of the Schedule (persons exempt in respect of particular regulated activities) is amended as follows—
 
@@ -617,7 +617,7 @@ In the Financial Services and Markets Act 2000 (Exemption) Order 2001[^f00015], 
 
     .
 
-### 31. Amendments of the Financial Services and Markets Act 2000 (Appointed Representatives) Regulations 2001[^key-cacd08e7bc335d92117a1c41d3ef8a6d][^key-4ffbe26ffc4140cd24a6e988b23f231c]
+### 31. Amendments of the Financial Services and Markets Act 2000 (Appointed Representatives) Regulations 2001[^c-cacd08e7bc335d92117a1c41d3ef8a6d][^c-4ffbe26ffc4140cd24a6e988b23f231c]
 
 (1) The Financial Services and Markets Act 2000 (Appointed Representatives) Regulations 2001[^f00016] are amended as follows.
 
@@ -684,7 +684,7 @@ In the Financial Services and Markets Act 2000 (Exemption) Order 2001[^f00015], 
 
 .
 
-### 32. Amendments of the Financial Services and Markets Act 2000 (Professions) (Non-Exempt Activities) Order 2001[^key-d3d860240deabcdb457c151004becd1f][^key-d94921e34531b2c5f9e97597f8b94404]
+### 32. Amendments of the Financial Services and Markets Act 2000 (Professions) (Non-Exempt Activities) Order 2001[^c-d3d860240deabcdb457c151004becd1f][^c-d94921e34531b2c5f9e97597f8b94404]
 
 (1) The Financial Services and Markets Act 2000 (Professions) (Non-Exempt Activities) Order 2001[^f00018] is amended as follows.
 
@@ -742,11 +742,11 @@ In the Financial Services and Markets Act 2000 (Exemption) Order 2001[^f00015], 
 
 .
 
-### 33. Amendment of the Money Laundering Regulations 2003[^key-b478a898b3b3646e7168b2abc22ac13e][^key-96204b7581f973d6f658fd39a246e87d]
+### 33. Amendment of the Money Laundering Regulations 2003[^c-b478a898b3b3646e7168b2abc22ac13e][^c-96204b7581f973d6f658fd39a246e87d]
 
 In regulation 2(3)(h) of the Money Laundering Regulations 2003[^f00019] (interpretation) after “a regulated mortgage contract” insert “, rights under a regulated home reversion plan or rights under a regulated home purchase plan”.
 
-### 34. Amendments of the Consumer Credit (Advertisement) Regulations 2004[^key-043fc9284134f1d9e2c336e6fbf3b7ee][^key-c347f2b00064a2fa8a5341871f357e7c]
+### 34. Amendments of the Consumer Credit (Advertisement) Regulations 2004[^c-043fc9284134f1d9e2c336e6fbf3b7ee][^c-c347f2b00064a2fa8a5341871f357e7c]
 
 In the Consumer Credit (Advertisements) Regulations 2004[^f00020] for regulation 10(5) (exclusions) substitute—
 
@@ -757,7 +757,7 @@ In the Consumer Credit (Advertisements) Regulations 2004[^f00020] for regulation
 
 .
 
-### 35. Amendments of the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005[^key-53de8102c5d5adde98d6b5a9bacf0c2f][^key-a30f3bf8d3bf386f06876b5602094763]
+### 35. Amendments of the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005[^c-53de8102c5d5adde98d6b5a9bacf0c2f][^c-a30f3bf8d3bf386f06876b5602094763]
 
 (1) The Financial Services and Markets Act 2000 (Financial Promotion) Order 2005[^f00021] is amended as follows.
 
@@ -859,7 +859,7 @@ In the Consumer Credit (Advertisements) Regulations 2004[^f00020] for regulation
 
 ## PART 5 — TRANSITIONAL PROVISIONS
 
-### 36. Interpretation[^key-ac10be41b4631bb159d9b230ee4b6cd8][^key-de09998e1fed8d6ae46bc96085964f51]
+### 36. Interpretation[^c-ac10be41b4631bb159d9b230ee4b6cd8][^c-de09998e1fed8d6ae46bc96085964f51]
 
 In this Part—
 
@@ -867,7 +867,7 @@ In this Part—
 - “commencement” means the beginning of 6th April 2007;
 - “the Regulated Activities Order” means the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001.
 
-### 37. Interim permission[^key-47de0534de4295cd8ee61ab4f304aa44][^key-d829228d8d417498332973b4a96c9318]
+### 37. Interim permission[^c-47de0534de4295cd8ee61ab4f304aa44][^c-d829228d8d417498332973b4a96c9318]
 
 (1) This article applies where—
 
@@ -915,7 +915,7 @@ In this Part—
 
 the Authority must, once it is satisfied that it is no longer necessary to keep the interim permission in force, cancel it.
 
-### 38. Interim approval[^key-6e0e3e2adfab7c97bdc56d3bbb42722d][^key-abf279ed6e81f5b61a69e5c4bde581d6]
+### 38. Interim approval[^c-6e0e3e2adfab7c97bdc56d3bbb42722d][^c-abf279ed6e81f5b61a69e5c4bde581d6]
 
 (1) This article applies where—
 
@@ -944,7 +944,7 @@ the Authority must, once it is satisfied that it is no longer necessary to keep 
   - (i) if the reference is determined by the Tribunal (including a determination following remission back to the Tribunal for rehearing in accordance with section 137(3)(a) of the Act), the time for bringing an appeal has expired; or
   - (ii) on an appeal from a determination by the Tribunal on a point of law, the Court itself determines the application in accordance with section 137 of the Act.
 
-### 39. Application of the Authority’s rules etc. to persons with an interim permission or an interim approval[^key-d070520f33a432799aa90e5635ec3484][^key-c0664d7c504acdc589003a0655b05062]
+### 39. Application of the Authority’s rules etc. to persons with an interim permission or an interim approval[^c-d070520f33a432799aa90e5635ec3484][^c-c0664d7c504acdc589003a0655b05062]
 
 (1) The Authority may direct in writing that any relevant provision which would otherwise apply to a person by virtue of his interim permission or interim approval is not to apply or is to apply to him as modified in the way specified in the direction.
 
@@ -952,7 +952,7 @@ the Authority must, once it is satisfied that it is no longer necessary to keep 
 
 (3) For the purposes of paragraph (1) a “relevant provision” is any provision made as a result of the exercise by the Authority of any of its legislative functions mentioned in paragraph 1(2) of Schedule 1 to the Act (the Financial Services Authority).
 
-### 40. Application of the Act etc.[^key-5747a3c3e19fbbb752b52b3da49f884b][^key-19684a4ee482638cb570e3fe294e632f]
+### 40. Application of the Act etc.[^c-5747a3c3e19fbbb752b52b3da49f884b][^c-19684a4ee482638cb570e3fe294e632f]
 
 The Schedule modifies the application of the Act and the Regulated Activities Order in relation to persons with an interim permission or an interim approval.
 
@@ -972,11 +972,11 @@ of Her Majesty’s Treasury
 
 Article 40
 
-**1.**[^key-f6106842d517252c7b0782505a351cdb][^key-113bc82ca9621b1d91fab70e0bd14856] Paragraphs 2 and 3 apply to every person with an interim permission.
+**1.**[^c-f6106842d517252c7b0782505a351cdb][^c-113bc82ca9621b1d91fab70e0bd14856] Paragraphs 2 and 3 apply to every person with an interim permission.
 
-**2.**[^key-3c648cdff77510cc50beb44c1db1393e][^key-1baef3bd2b5820127a931b6e7992103a] For the purposes of section 20 (authorised persons acting without permission), a person’s interim permission is treated as having been given to him under Part 4 of the Act.
+**2.**[^c-3c648cdff77510cc50beb44c1db1393e][^c-1baef3bd2b5820127a931b6e7992103a] For the purposes of section 20 (authorised persons acting without permission), a person’s interim permission is treated as having been given to him under Part 4 of the Act.
 
-**3.**[^key-4add63948e4de1a138545a37e595ee8e][^key-bb3a68751645ce6a3b93dbd046d086e8] A person’s interim permission is to be disregarded for the purposes of—
+**3.**[^c-4add63948e4de1a138545a37e595ee8e][^c-bb3a68751645ce6a3b93dbd046d086e8] A person’s interim permission is to be disregarded for the purposes of—
 
 - (a) section 38(2) (exemption orders);
 - (b) section 40(2) (application for permission);
@@ -984,24 +984,24 @@ Article 40
 - (d) section 43 (imposition of requirements); and
 - (e) section 44(1), (4) and (5) (variation etc at request of authorised person).
 
-**4.**[^key-85d3f1ca628ba595f28159619dd18b53][^key-0928c07945ff75c69ee0083cf6f6023e] Paragraphs 5(1) and 6 to 10 apply to a person who falls within section 31(1) (authorised persons) by virtue only of having an interim permission.
+**4.**[^c-85d3f1ca628ba595f28159619dd18b53][^c-0928c07945ff75c69ee0083cf6f6023e] Paragraphs 5(1) and 6 to 10 apply to a person who falls within section 31(1) (authorised persons) by virtue only of having an interim permission.
 
-**5.**[^key-339b117223f48c93acf0f535fe16032b][^key-0e9ea91566539789ff40a46f2ae107f4] (1) A person with an interim permission is to be treated on or after commencement as an authorised person for the purposes of the Act (and any provision made under the Act), unless otherwise expressly provided for by this Schedule.
+**5.**[^c-339b117223f48c93acf0f535fe16032b][^c-0e9ea91566539789ff40a46f2ae107f4] (1) A person with an interim permission is to be treated on or after commencement as an authorised person for the purposes of the Act (and any provision made under the Act), unless otherwise expressly provided for by this Schedule.
 
 (2) A person with an interim approval is to be treated on or after commencement as an approved person for the purposes of the Act (and any provision made under the Act).
 
-**6.**[^key-4c492266edd0ed0dfb608dbc538e37a5][^key-be41899dca7bbf2b3d8d83100391c4c3] For the purposes of section 21(2) (restrictions on financial promotion), a person with an interim permission is not to be treated as an authorised person for the purposes of communicating or approving the content of a communication except where the communication invites or induces a person to enter into (or offer to enter into) an agreement the making or performance of which constitutes a controlled activity which corresponds to a regulated activity which is covered by his interim permission.
+**6.**[^c-4c492266edd0ed0dfb608dbc538e37a5][^c-be41899dca7bbf2b3d8d83100391c4c3] For the purposes of section 21(2) (restrictions on financial promotion), a person with an interim permission is not to be treated as an authorised person for the purposes of communicating or approving the content of a communication except where the communication invites or induces a person to enter into (or offer to enter into) an agreement the making or performance of which constitutes a controlled activity which corresponds to a regulated activity which is covered by his interim permission.
 
-**7.**[^key-aeee5412e7e913007fcbb7bbc1ddce09][^key-6168d1ed95dae142018494b25f80dba9] A person with an interim permission may still be an appointed representative within the meaning of section 39(2) (exemption of appointed representatives) (and hence may be treated as exempt from the general prohibition as a result of section 39(1) for the purposes of section 42(3)(a) (giving permission)).
+**7.**[^c-aeee5412e7e913007fcbb7bbc1ddce09][^c-6168d1ed95dae142018494b25f80dba9] A person with an interim permission may still be an appointed representative within the meaning of section 39(2) (exemption of appointed representatives) (and hence may be treated as exempt from the general prohibition as a result of section 39(1) for the purposes of section 42(3)(a) (giving permission)).
 
-**8.**[^key-8f757de1cbb5a59650d258be38cf8560][^key-9483b3689769244df08c2bed26bb637f] Subsection (3)(a) of section 213 (the compensation scheme) does not apply to—
+**8.**[^c-8f757de1cbb5a59650d258be38cf8560][^c-9483b3689769244df08c2bed26bb637f] Subsection (3)(a) of section 213 (the compensation scheme) does not apply to—
 
 - (a) a person who is a relevant person, within the meaning of that section, by virtue only of having an interim permission; or
 - (b) an appointed representative of such person.
 
-**9.**[^key-c5e0edd528c8b2c5abd242628384b6a5][^key-b4dd3ee8ac632ba8af4a572f263869fe] In article 29 of the Regulated Activities Order (arranging deals with or through authorised persons), with the exception of the first reference, the references to an “authorised person” do not include a person with an interim permission.
+**9.**[^c-c5e0edd528c8b2c5abd242628384b6a5][^c-b4dd3ee8ac632ba8af4a572f263869fe] In article 29 of the Regulated Activities Order (arranging deals with or through authorised persons), with the exception of the first reference, the references to an “authorised person” do not include a person with an interim permission.
 
-**10.**[^key-9e61dc27aff87892637a18967770e495][^key-29319ea240868f7ac7b391bc2adb9527] In sub-paragraph (a) of both paragraphs (2) and (3) of article 29A of the Regulated Activities Order (arrangements made in the course of administration by authorised person), the references to an “authorised person” do not include a person with an interim permission.
+**10.**[^c-9e61dc27aff87892637a18967770e495][^c-29319ea240868f7ac7b391bc2adb9527] In sub-paragraph (a) of both paragraphs (2) and (3) of article 29A of the Regulated Activities Order (arrangements made in the course of administration by authorised person), the references to an “authorised person” do not include a person with an interim permission.
 
 EXPLANATORY NOTE
 
@@ -1047,83 +1047,83 @@ A Regulatory Impact Assessment of the effect of this instrument on the costs of 
 
 [^f00001]: Footnote: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8). A relevant amendment was made by the Regulation of Financial Services (Land Transactions) Act [2005 (c.24)](https://www.legislation.gov.uk/ukpga/2005/24) which inserts paragraph 23A of Schedule 2 to the 2000 Act.
 
-[^key-89412cfd1849bd4cdf94bb7ea90132ac]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2006/2383/article/1) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
+[^c-89412cfd1849bd4cdf94bb7ea90132ac]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2006/2383/article/1) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
 
-[^key-8074f9e7ab51c7509978ca0415d1f8dc]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2006/2383/article/1) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
+[^c-8074f9e7ab51c7509978ca0415d1f8dc]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2006/2383/article/1) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
 
 [^f00002]: Footnote: [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544), amended by [S.I. 2003/1475](https://www.legislation.gov.uk/uksi/2003/1475); there are other amending instruments but none is relevant.
 
-[^key-d3c74124c9e6dae061d828ebeea5129b]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2006/2383/article/2) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
+[^c-d3c74124c9e6dae061d828ebeea5129b]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2006/2383/article/2) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
 
-[^key-c6b18be396e0b270d7b95369b87a84f8]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2006/2383/article/2) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
+[^c-c6b18be396e0b270d7b95369b87a84f8]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2006/2383/article/2) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
 
-[^key-211f8fd46c389ae116e37d66c4aebd59]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2006/2383/article/3) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
+[^c-211f8fd46c389ae116e37d66c4aebd59]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2006/2383/article/3) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
 
-[^key-8f6140e5c39364e55c3543243d669051]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2006/2383/article/3) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
+[^c-8f6140e5c39364e55c3543243d669051]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2006/2383/article/3) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
 
 [^f00003]: Footnote: The definition of “relevant investment” was inserted by [S.I. 2003/1476](https://www.legislation.gov.uk/uksi/2003/1476).
 
 [^f00004]: Footnote: The definition of “personal pension scheme” was inserted by [S.I. 2006/1969](https://www.legislation.gov.uk/uksi/2006/1969).
 
-[^key-fe70cd1d5e2c60c592f9fd4d62943e4f]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2006/2383/article/4) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
+[^c-fe70cd1d5e2c60c592f9fd4d62943e4f]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2006/2383/article/4) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
 
-[^key-7b5e474f956ca8e14e98a4c085a9af52]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2006/2383/article/4) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
+[^c-7b5e474f956ca8e14e98a4c085a9af52]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2006/2383/article/4) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
 
-[^key-ba4ff2f08c3449c914a6e23c619138d9]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2006/2383/article/5) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
+[^c-ba4ff2f08c3449c914a6e23c619138d9]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2006/2383/article/5) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
 
-[^key-bd11a7f2013cda3caa082f0704645697]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2006/2383/article/5) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
+[^c-bd11a7f2013cda3caa082f0704645697]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2006/2383/article/5) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
 
-[^key-4b3268a895139df8a1287460dfb5e92d]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2006/2383/article/6) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
+[^c-4b3268a895139df8a1287460dfb5e92d]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2006/2383/article/6) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
 
-[^key-a3bb5836ded01c6c9e6518d953f6fc07]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2006/2383/article/6) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
+[^c-a3bb5836ded01c6c9e6518d953f6fc07]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2006/2383/article/6) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
 
-[^key-1b03bc0477c9fd0b1a26f8e15f5549e9]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2006/2383/article/7) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
+[^c-1b03bc0477c9fd0b1a26f8e15f5549e9]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2006/2383/article/7) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
 
-[^key-c613b1088ab54ddf9433aa9b945773f6]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2006/2383/article/7) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
+[^c-c613b1088ab54ddf9433aa9b945773f6]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2006/2383/article/7) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
 
-[^key-ddbb4b8df8c2466c547e731bfc0d5dee]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2006/2383/article/8) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
+[^c-ddbb4b8df8c2466c547e731bfc0d5dee]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2006/2383/article/8) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
 
-[^key-f66c8889cc6a62ed14f64ce047f8e75b]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2006/2383/article/8) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
+[^c-f66c8889cc6a62ed14f64ce047f8e75b]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2006/2383/article/8) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
 
-[^key-fe5ec14c6d0b3069d0136bb63d6b8068]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2006/2383/article/9) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
+[^c-fe5ec14c6d0b3069d0136bb63d6b8068]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2006/2383/article/9) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
 
-[^key-85461a8e934ca587f4e282bba2063719]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2006/2383/article/9) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
+[^c-85461a8e934ca587f4e282bba2063719]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2006/2383/article/9) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
 
-[^key-8c67eadad4f8a13616fc12cbbe4eb731]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2006/2383/article/10) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
+[^c-8c67eadad4f8a13616fc12cbbe4eb731]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2006/2383/article/10) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
 
-[^key-85ba4bb9580de2b3c067ed4617415cd5]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2006/2383/article/10) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
+[^c-85ba4bb9580de2b3c067ed4617415cd5]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2006/2383/article/10) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
 
-[^key-2c2dc6b2955c14b148d5522f495f0de7]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2006/2383/article/11) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
+[^c-2c2dc6b2955c14b148d5522f495f0de7]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2006/2383/article/11) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
 
-[^key-f71ecadbf9c8148bc805a555bf783323]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2006/2383/article/11) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
+[^c-f71ecadbf9c8148bc805a555bf783323]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2006/2383/article/11) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
 
-[^key-cd580fb4f3f656fe593fc71b92e10994]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2006/2383/article/12) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
+[^c-cd580fb4f3f656fe593fc71b92e10994]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2006/2383/article/12) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
 
-[^key-f74bf6eae107ad108bb07d5bd7776245]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2006/2383/article/12) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
+[^c-f74bf6eae107ad108bb07d5bd7776245]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2006/2383/article/12) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
 
-[^key-d8360d11008db31d1dfd03595906f89d]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2006/2383/article/13) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
+[^c-d8360d11008db31d1dfd03595906f89d]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2006/2383/article/13) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
 
-[^key-1696765dd525ef88ecf5f196055de86e]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2006/2383/article/13) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
+[^c-1696765dd525ef88ecf5f196055de86e]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2006/2383/article/13) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
 
-[^key-c8e68d52068d8bde414b4156ff896fdc]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2006/2383/article/14) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
+[^c-c8e68d52068d8bde414b4156ff896fdc]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2006/2383/article/14) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
 
-[^key-6719b5f2ed9d1c70fd1b9da1f1800ac9]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2006/2383/article/14) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
+[^c-6719b5f2ed9d1c70fd1b9da1f1800ac9]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2006/2383/article/14) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
 
-[^key-9cd71e7d68b66ecfeb5ed197df95b71a]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2006/2383/article/15) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
+[^c-9cd71e7d68b66ecfeb5ed197df95b71a]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2006/2383/article/15) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
 
-[^key-593c1e4c2d7bc570909dea394529b1ad]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2006/2383/article/15) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
+[^c-593c1e4c2d7bc570909dea394529b1ad]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2006/2383/article/15) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
 
-[^key-aaa7c97cd2baa9b7112be6ee722e761c]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/2006/2383/article/16) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
+[^c-aaa7c97cd2baa9b7112be6ee722e761c]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/2006/2383/article/16) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
 
-[^key-deb9e87595a867a435dba61c3f313154]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/2006/2383/article/16) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
+[^c-deb9e87595a867a435dba61c3f313154]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/2006/2383/article/16) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
 
-[^key-54dd0b4d30c948b248e1db52efd085b8]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2006/2383/article/17) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
+[^c-54dd0b4d30c948b248e1db52efd085b8]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2006/2383/article/17) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
 
-[^key-67ac7bcf7ba778027b836a7aee3a363b]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2006/2383/article/17) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
+[^c-67ac7bcf7ba778027b836a7aee3a363b]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2006/2383/article/17) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
 
-[^key-3bb69034b0f047a1d9e09c4328226577]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/2006/2383/article/18) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
+[^c-3bb69034b0f047a1d9e09c4328226577]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/2006/2383/article/18) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
 
-[^key-81faeaa8d8a76b4ec40cf98a8c7ec50c]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/2006/2383/article/18) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
+[^c-81faeaa8d8a76b4ec40cf98a8c7ec50c]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/2006/2383/article/18) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
 
 [^f00005]: Footnote: [1992 c. 35](https://www.legislation.gov.uk/ukpga/1992/35).
 
@@ -1133,158 +1133,158 @@ A Regulatory Impact Assessment of the effect of this instrument on the costs of 
 
 [^f00008]: Footnote: [S.I. 2003/431 (N.I.9)](https://www.legislation.gov.uk/nisi/2003/431).
 
-[^key-1a756b49a00f892be37f10d394bc3afc]: Commencement: [Art. 19](https://www.legislation.gov.uk/uksi/2006/2383/article/19) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
+[^c-1a756b49a00f892be37f10d394bc3afc]: Commencement: [Art. 19](https://www.legislation.gov.uk/uksi/2006/2383/article/19) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
 
-[^key-eae63e6b1d1e7e99cffb392ad40bc4a6]: Commencement: [Art. 19](https://www.legislation.gov.uk/uksi/2006/2383/article/19) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
+[^c-eae63e6b1d1e7e99cffb392ad40bc4a6]: Commencement: [Art. 19](https://www.legislation.gov.uk/uksi/2006/2383/article/19) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
 
-[^key-601f76d7e4a57e007d86df51d397a2cb]: Commencement: [Art. 20](https://www.legislation.gov.uk/uksi/2006/2383/article/20) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
+[^c-601f76d7e4a57e007d86df51d397a2cb]: Commencement: [Art. 20](https://www.legislation.gov.uk/uksi/2006/2383/article/20) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
 
-[^key-ee5077c6c56655cec01e4bff3c00c850]: Commencement: [Art. 20](https://www.legislation.gov.uk/uksi/2006/2383/article/20) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
+[^c-ee5077c6c56655cec01e4bff3c00c850]: Commencement: [Art. 20](https://www.legislation.gov.uk/uksi/2006/2383/article/20) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
 
-[^key-300e08ae0ebdf171e5359eaf6e97f07f]: Commencement: [Art. 21](https://www.legislation.gov.uk/uksi/2006/2383/article/21) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
+[^c-300e08ae0ebdf171e5359eaf6e97f07f]: Commencement: [Art. 21](https://www.legislation.gov.uk/uksi/2006/2383/article/21) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
 
-[^key-8857cedba4db6d755583aed617c3ab46]: Commencement: [Art. 21](https://www.legislation.gov.uk/uksi/2006/2383/article/21) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
+[^c-8857cedba4db6d755583aed617c3ab46]: Commencement: [Art. 21](https://www.legislation.gov.uk/uksi/2006/2383/article/21) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
 
-[^key-6bc1e0989bbd0c5b4f2e2f51df3302c3]: Commencement: [Art. 22](https://www.legislation.gov.uk/uksi/2006/2383/article/22) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
+[^c-6bc1e0989bbd0c5b4f2e2f51df3302c3]: Commencement: [Art. 22](https://www.legislation.gov.uk/uksi/2006/2383/article/22) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
 
-[^key-7e28e2bdd471f43d5fb043f59396cad3]: Commencement: [Art. 22](https://www.legislation.gov.uk/uksi/2006/2383/article/22) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
+[^c-7e28e2bdd471f43d5fb043f59396cad3]: Commencement: [Art. 22](https://www.legislation.gov.uk/uksi/2006/2383/article/22) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
 
 [^f00009]: Footnote: Article 72F was inserted by [S.I. 2005/1518](https://www.legislation.gov.uk/uksi/2005/1518).
 
-[^key-4b848ca85225d9fe27c3f5f070378275]: Commencement: [Art. 23](https://www.legislation.gov.uk/uksi/2006/2383/article/23) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
+[^c-4b848ca85225d9fe27c3f5f070378275]: Commencement: [Art. 23](https://www.legislation.gov.uk/uksi/2006/2383/article/23) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
 
-[^key-bb0743dd6a6ba7c49029477ceab0e090]: Commencement: [Art. 23](https://www.legislation.gov.uk/uksi/2006/2383/article/23) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
+[^c-bb0743dd6a6ba7c49029477ceab0e090]: Commencement: [Art. 23](https://www.legislation.gov.uk/uksi/2006/2383/article/23) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
 
-[^key-e78a2e8a4865ed860585249c2a8a866a]: Commencement: [Art. 24](https://www.legislation.gov.uk/uksi/2006/2383/article/24) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
+[^c-e78a2e8a4865ed860585249c2a8a866a]: Commencement: [Art. 24](https://www.legislation.gov.uk/uksi/2006/2383/article/24) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
 
-[^key-0644423aaad926326cfbe4b79358ba89]: Commencement: [Art. 24](https://www.legislation.gov.uk/uksi/2006/2383/article/24) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
+[^c-0644423aaad926326cfbe4b79358ba89]: Commencement: [Art. 24](https://www.legislation.gov.uk/uksi/2006/2383/article/24) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
 
-[^key-c8575239ed1ab6257e847a1b62832730]: Commencement: [Art. 25](https://www.legislation.gov.uk/uksi/2006/2383/article/25) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
+[^c-c8575239ed1ab6257e847a1b62832730]: Commencement: [Art. 25](https://www.legislation.gov.uk/uksi/2006/2383/article/25) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
 
-[^key-aac2daaf292b650153a959a867b9409f]: Commencement: [Art. 25](https://www.legislation.gov.uk/uksi/2006/2383/article/25) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
+[^c-aac2daaf292b650153a959a867b9409f]: Commencement: [Art. 25](https://www.legislation.gov.uk/uksi/2006/2383/article/25) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
 
 [^f00010]: Footnote: [1974 c. 39](https://www.legislation.gov.uk/ukpga/1974/39); sections 16 and 53 were amended by [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544); section 146 was amended by [S.I. 2003/1475](https://www.legislation.gov.uk/uksi/2003/1475) and [S.I. 2005/2967](https://www.legislation.gov.uk/uksi/2005/2967); there are other amending instruments but none is relevant.
 
-[^key-e6c7d72de27509ec5a3c2a2c199d764c]: Commencement: [Art. 26](https://www.legislation.gov.uk/uksi/2006/2383/article/26) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
+[^c-e6c7d72de27509ec5a3c2a2c199d764c]: Commencement: [Art. 26](https://www.legislation.gov.uk/uksi/2006/2383/article/26) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
 
-[^key-ea2b9a4deb5ee15c1bfa4b0c640572da]: Commencement: [Art. 26](https://www.legislation.gov.uk/uksi/2006/2383/article/26) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
+[^c-ea2b9a4deb5ee15c1bfa4b0c640572da]: Commencement: [Art. 26](https://www.legislation.gov.uk/uksi/2006/2383/article/26) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
 
 [^f00011]: Footnote: [1985 c. 6](https://www.legislation.gov.uk/ukpga/1985/6); the definition of “regulated activity” was inserted by [S.I. 2005/2280](https://www.legislation.gov.uk/uksi/2005/2280).
 
-[^key-f5212a1911a1f824a445b1e746ed0405]: Commencement: [Art. 27](https://www.legislation.gov.uk/uksi/2006/2383/article/27) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
+[^c-f5212a1911a1f824a445b1e746ed0405]: Commencement: [Art. 27](https://www.legislation.gov.uk/uksi/2006/2383/article/27) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
 
-[^key-16e9351939efa490b9197aa63cbf216e]: Commencement: [Art. 27](https://www.legislation.gov.uk/uksi/2006/2383/article/27) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
+[^c-16e9351939efa490b9197aa63cbf216e]: Commencement: [Art. 27](https://www.legislation.gov.uk/uksi/2006/2383/article/27) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
 
 [^f00012]: Footnote: [1989 c. 34](https://www.legislation.gov.uk/ukpga/1989/34); section 2 was amended by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649).
 
-[^key-69cee7eba44184bc22bb0f4e96c5c62d]: Commencement: [Art. 28](https://www.legislation.gov.uk/uksi/2006/2383/article/28) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
+[^c-69cee7eba44184bc22bb0f4e96c5c62d]: Commencement: [Art. 28](https://www.legislation.gov.uk/uksi/2006/2383/article/28) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
 
-[^key-b0495fb72ea678dcebbe651a0f5c921d]: Commencement: [Art. 28](https://www.legislation.gov.uk/uksi/2006/2383/article/28) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
+[^c-b0495fb72ea678dcebbe651a0f5c921d]: Commencement: [Art. 28](https://www.legislation.gov.uk/uksi/2006/2383/article/28) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
 
 [^f00013]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8); section 49(2A) was inserted by [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544) as amended by [S.I. 2004/1610](https://www.legislation.gov.uk/uksi/2004/1610).
 
-[^key-46325e0252418234bb11717aae21ae35]: Commencement: [Art. 29](https://www.legislation.gov.uk/uksi/2006/2383/article/29) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
+[^c-46325e0252418234bb11717aae21ae35]: Commencement: [Art. 29](https://www.legislation.gov.uk/uksi/2006/2383/article/29) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
 
-[^key-390c7596c4cad8a559e945af53ec414b]: Commencement: [Art. 29](https://www.legislation.gov.uk/uksi/2006/2383/article/29) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
+[^c-390c7596c4cad8a559e945af53ec414b]: Commencement: [Art. 29](https://www.legislation.gov.uk/uksi/2006/2383/article/29) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
 
 [^f00014]: Footnote: [S.I. 2001/1177](https://www.legislation.gov.uk/uksi/2001/1177); article 3A was inserted by [S.I. 2003/1475](https://www.legislation.gov.uk/uksi/2003/1475).
 
-[^key-736a7568aa5c33871aef8519736e4fd2]: Commencement: [Art. 30](https://www.legislation.gov.uk/uksi/2006/2383/article/30) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
+[^c-736a7568aa5c33871aef8519736e4fd2]: Commencement: [Art. 30](https://www.legislation.gov.uk/uksi/2006/2383/article/30) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
 
-[^key-cb6973dda5f027623a8729b59f63d3f7]: Commencement: [Art. 30](https://www.legislation.gov.uk/uksi/2006/2383/article/30) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
+[^c-cb6973dda5f027623a8729b59f63d3f7]: Commencement: [Art. 30](https://www.legislation.gov.uk/uksi/2006/2383/article/30) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
 
 [^f00015]: Footnote: [S.I. 2001/1201](https://www.legislation.gov.uk/uksi/2001/1201); paragraphs 47 and 48 of the Schedule were substituted by [S.I. 2003/1675](https://www.legislation.gov.uk/uksi/2003/1675).
 
-[^key-cacd08e7bc335d92117a1c41d3ef8a6d]: Commencement: [Art. 31](https://www.legislation.gov.uk/uksi/2006/2383/article/31) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
+[^c-cacd08e7bc335d92117a1c41d3ef8a6d]: Commencement: [Art. 31](https://www.legislation.gov.uk/uksi/2006/2383/article/31) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
 
-[^key-4ffbe26ffc4140cd24a6e988b23f231c]: Commencement: [Art. 31](https://www.legislation.gov.uk/uksi/2006/2383/article/31) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
+[^c-4ffbe26ffc4140cd24a6e988b23f231c]: Commencement: [Art. 31](https://www.legislation.gov.uk/uksi/2006/2383/article/31) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
 
 [^f00016]: Footnote: [S.I. 2001/1217](https://www.legislation.gov.uk/uksi/2001/1217); amended by [S.I. 2003/1475](https://www.legislation.gov.uk/uksi/2003/1475) and [S.I. 2003/1476](https://www.legislation.gov.uk/uksi/2003/1476).
 
 [^f00017]: Footnote: The definition of “contract of long-term insurance” was inserted by [S.I. 2004/453](https://www.legislation.gov.uk/uksi/2004/453).
 
-[^key-d3d860240deabcdb457c151004becd1f]: Commencement: [Art. 32](https://www.legislation.gov.uk/uksi/2006/2383/article/32) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
+[^c-d3d860240deabcdb457c151004becd1f]: Commencement: [Art. 32](https://www.legislation.gov.uk/uksi/2006/2383/article/32) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
 
-[^key-d94921e34531b2c5f9e97597f8b94404]: Commencement: [Art. 32](https://www.legislation.gov.uk/uksi/2006/2383/article/32) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
+[^c-d94921e34531b2c5f9e97597f8b94404]: Commencement: [Art. 32](https://www.legislation.gov.uk/uksi/2006/2383/article/32) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
 
 [^f00018]: Footnote: [S.I. 2001/1227](https://www.legislation.gov.uk/uksi/2001/1227); amended by [S.I. 2001/3650](https://www.legislation.gov.uk/uksi/2001/3650) and [S.I. 2003/1475](https://www.legislation.gov.uk/uksi/2003/1475); there are other amending instruments but none is relevant.
 
-[^key-b478a898b3b3646e7168b2abc22ac13e]: Commencement: [Art. 33](https://www.legislation.gov.uk/uksi/2006/2383/article/33) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
+[^c-b478a898b3b3646e7168b2abc22ac13e]: Commencement: [Art. 33](https://www.legislation.gov.uk/uksi/2006/2383/article/33) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
 
-[^key-96204b7581f973d6f658fd39a246e87d]: Commencement: [Art. 33](https://www.legislation.gov.uk/uksi/2006/2383/article/33) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
+[^c-96204b7581f973d6f658fd39a246e87d]: Commencement: [Art. 33](https://www.legislation.gov.uk/uksi/2006/2383/article/33) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
 
 [^f00019]: Footnote: [S.I. 2003/3075](https://www.legislation.gov.uk/uksi/2003/3075).
 
-[^key-043fc9284134f1d9e2c336e6fbf3b7ee]: Commencement: [Art. 34](https://www.legislation.gov.uk/uksi/2006/2383/article/34) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
+[^c-043fc9284134f1d9e2c336e6fbf3b7ee]: Commencement: [Art. 34](https://www.legislation.gov.uk/uksi/2006/2383/article/34) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
 
-[^key-c347f2b00064a2fa8a5341871f357e7c]: Commencement: [Art. 34](https://www.legislation.gov.uk/uksi/2006/2383/article/34) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
+[^c-c347f2b00064a2fa8a5341871f357e7c]: Commencement: [Art. 34](https://www.legislation.gov.uk/uksi/2006/2383/article/34) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
 
 [^f00020]: Footnote: [S.I. 2004/1484](https://www.legislation.gov.uk/uksi/2004/1484).
 
-[^key-53de8102c5d5adde98d6b5a9bacf0c2f]: Commencement: [Art. 35](https://www.legislation.gov.uk/uksi/2006/2383/article/35) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
+[^c-53de8102c5d5adde98d6b5a9bacf0c2f]: Commencement: [Art. 35](https://www.legislation.gov.uk/uksi/2006/2383/article/35) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
 
-[^key-a30f3bf8d3bf386f06876b5602094763]: Commencement: [Art. 35](https://www.legislation.gov.uk/uksi/2006/2383/article/35) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
+[^c-a30f3bf8d3bf386f06876b5602094763]: Commencement: [Art. 35](https://www.legislation.gov.uk/uksi/2006/2383/article/35) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
 
 [^f00021]: Footnote: [S.I. 2005/1529](https://www.legislation.gov.uk/uksi/2005/1529).
 
-[^key-ac10be41b4631bb159d9b230ee4b6cd8]: Commencement: [Art. 36](https://www.legislation.gov.uk/uksi/2006/2383/article/36) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
+[^c-ac10be41b4631bb159d9b230ee4b6cd8]: Commencement: [Art. 36](https://www.legislation.gov.uk/uksi/2006/2383/article/36) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
 
-[^key-de09998e1fed8d6ae46bc96085964f51]: Commencement: [Art. 36](https://www.legislation.gov.uk/uksi/2006/2383/article/36) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
+[^c-de09998e1fed8d6ae46bc96085964f51]: Commencement: [Art. 36](https://www.legislation.gov.uk/uksi/2006/2383/article/36) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
 
 [^f00022]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8).
 
-[^key-47de0534de4295cd8ee61ab4f304aa44]: Commencement: [Art. 37](https://www.legislation.gov.uk/uksi/2006/2383/article/37) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
+[^c-47de0534de4295cd8ee61ab4f304aa44]: Commencement: [Art. 37](https://www.legislation.gov.uk/uksi/2006/2383/article/37) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
 
-[^key-d829228d8d417498332973b4a96c9318]: Commencement: [Art. 37](https://www.legislation.gov.uk/uksi/2006/2383/article/37) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
+[^c-d829228d8d417498332973b4a96c9318]: Commencement: [Art. 37](https://www.legislation.gov.uk/uksi/2006/2383/article/37) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
 
-[^key-6e0e3e2adfab7c97bdc56d3bbb42722d]: Commencement: [Art. 38](https://www.legislation.gov.uk/uksi/2006/2383/article/38) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
+[^c-6e0e3e2adfab7c97bdc56d3bbb42722d]: Commencement: [Art. 38](https://www.legislation.gov.uk/uksi/2006/2383/article/38) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
 
-[^key-abf279ed6e81f5b61a69e5c4bde581d6]: Commencement: [Art. 38](https://www.legislation.gov.uk/uksi/2006/2383/article/38) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
+[^c-abf279ed6e81f5b61a69e5c4bde581d6]: Commencement: [Art. 38](https://www.legislation.gov.uk/uksi/2006/2383/article/38) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
 
-[^key-d070520f33a432799aa90e5635ec3484]: Commencement: [Art. 39](https://www.legislation.gov.uk/uksi/2006/2383/article/39) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
+[^c-d070520f33a432799aa90e5635ec3484]: Commencement: [Art. 39](https://www.legislation.gov.uk/uksi/2006/2383/article/39) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
 
-[^key-c0664d7c504acdc589003a0655b05062]: Commencement: [Art. 39](https://www.legislation.gov.uk/uksi/2006/2383/article/39) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
+[^c-c0664d7c504acdc589003a0655b05062]: Commencement: [Art. 39](https://www.legislation.gov.uk/uksi/2006/2383/article/39) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
 
-[^key-5747a3c3e19fbbb752b52b3da49f884b]: Commencement: [Art. 40](https://www.legislation.gov.uk/uksi/2006/2383/article/40) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
+[^c-5747a3c3e19fbbb752b52b3da49f884b]: Commencement: [Art. 40](https://www.legislation.gov.uk/uksi/2006/2383/article/40) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
 
-[^key-19684a4ee482638cb570e3fe294e632f]: Commencement: [Art. 40](https://www.legislation.gov.uk/uksi/2006/2383/article/40) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
+[^c-19684a4ee482638cb570e3fe294e632f]: Commencement: [Art. 40](https://www.legislation.gov.uk/uksi/2006/2383/article/40) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
 
-[^key-f6106842d517252c7b0782505a351cdb]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2006/2383/schedule/paragraph/1) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
+[^c-f6106842d517252c7b0782505a351cdb]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2006/2383/schedule/paragraph/1) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
 
-[^key-113bc82ca9621b1d91fab70e0bd14856]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2006/2383/schedule/paragraph/1) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
+[^c-113bc82ca9621b1d91fab70e0bd14856]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2006/2383/schedule/paragraph/1) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
 
-[^key-3c648cdff77510cc50beb44c1db1393e]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2006/2383/schedule/paragraph/2) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
+[^c-3c648cdff77510cc50beb44c1db1393e]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2006/2383/schedule/paragraph/2) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
 
-[^key-1baef3bd2b5820127a931b6e7992103a]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2006/2383/schedule/paragraph/2) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
+[^c-1baef3bd2b5820127a931b6e7992103a]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2006/2383/schedule/paragraph/2) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
 
-[^key-4add63948e4de1a138545a37e595ee8e]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2006/2383/schedule/paragraph/3) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
+[^c-4add63948e4de1a138545a37e595ee8e]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2006/2383/schedule/paragraph/3) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
 
-[^key-bb3a68751645ce6a3b93dbd046d086e8]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2006/2383/schedule/paragraph/3) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
+[^c-bb3a68751645ce6a3b93dbd046d086e8]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2006/2383/schedule/paragraph/3) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
 
-[^key-85d3f1ca628ba595f28159619dd18b53]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2006/2383/schedule/paragraph/4) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
+[^c-85d3f1ca628ba595f28159619dd18b53]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2006/2383/schedule/paragraph/4) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
 
-[^key-0928c07945ff75c69ee0083cf6f6023e]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2006/2383/schedule/paragraph/4) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
+[^c-0928c07945ff75c69ee0083cf6f6023e]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2006/2383/schedule/paragraph/4) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
 
-[^key-339b117223f48c93acf0f535fe16032b]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2006/2383/schedule/paragraph/5) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
+[^c-339b117223f48c93acf0f535fe16032b]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2006/2383/schedule/paragraph/5) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
 
-[^key-0e9ea91566539789ff40a46f2ae107f4]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2006/2383/schedule/paragraph/5) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
+[^c-0e9ea91566539789ff40a46f2ae107f4]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2006/2383/schedule/paragraph/5) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
 
-[^key-4c492266edd0ed0dfb608dbc538e37a5]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2006/2383/schedule/paragraph/6) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
+[^c-4c492266edd0ed0dfb608dbc538e37a5]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2006/2383/schedule/paragraph/6) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
 
-[^key-be41899dca7bbf2b3d8d83100391c4c3]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2006/2383/schedule/paragraph/6) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
+[^c-be41899dca7bbf2b3d8d83100391c4c3]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2006/2383/schedule/paragraph/6) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
 
-[^key-aeee5412e7e913007fcbb7bbc1ddce09]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2006/2383/schedule/paragraph/7) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
+[^c-aeee5412e7e913007fcbb7bbc1ddce09]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2006/2383/schedule/paragraph/7) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
 
-[^key-6168d1ed95dae142018494b25f80dba9]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2006/2383/schedule/paragraph/7) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
+[^c-6168d1ed95dae142018494b25f80dba9]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2006/2383/schedule/paragraph/7) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
 
-[^key-8f757de1cbb5a59650d258be38cf8560]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2006/2383/schedule/paragraph/8) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
+[^c-8f757de1cbb5a59650d258be38cf8560]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2006/2383/schedule/paragraph/8) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
 
-[^key-9483b3689769244df08c2bed26bb637f]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2006/2383/schedule/paragraph/8) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
+[^c-9483b3689769244df08c2bed26bb637f]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2006/2383/schedule/paragraph/8) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
 
-[^key-c5e0edd528c8b2c5abd242628384b6a5]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2006/2383/schedule/paragraph/9) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
+[^c-c5e0edd528c8b2c5abd242628384b6a5]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2006/2383/schedule/paragraph/9) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
 
-[^key-b4dd3ee8ac632ba8af4a572f263869fe]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2006/2383/schedule/paragraph/9) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
+[^c-b4dd3ee8ac632ba8af4a572f263869fe]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2006/2383/schedule/paragraph/9) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
 
-[^key-9e61dc27aff87892637a18967770e495]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2006/2383/schedule/paragraph/10) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
+[^c-9e61dc27aff87892637a18967770e495]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2006/2383/schedule/paragraph/10) in force at 6.11.2006 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/a)
 
-[^key-29319ea240868f7ac7b391bc2adb9527]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2006/2383/schedule/paragraph/10) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)
+[^c-29319ea240868f7ac7b391bc2adb9527]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2006/2383/schedule/paragraph/10) in force at 6.4.2007 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2/b)

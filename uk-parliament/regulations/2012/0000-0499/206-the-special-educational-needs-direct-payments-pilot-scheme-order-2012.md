@@ -42,7 +42,7 @@ The Secretary of State for Education, in exercise of the powers conferred by sec
 
 In accordance with section 568(3) and (3A) of that Act[^f00002], a draft of this instrument was laid before, and approved by a resolution of, each House of Parliament.
 
-## 1. Citation, commencement and interpretation[^key-32626e7106e8e7bba36e188504b13549]
+## 1. Citation, commencement and interpretation[^c-32626e7106e8e7bba36e188504b13549]
 
 (1) This Order may be cited as the Special Educational Needs (Direct Payments) (Pilot Scheme) Order 2012.
 
@@ -50,15 +50,15 @@ In accordance with section 568(3) and (3A) of that Act[^f00002], a draft of this
 
 (3) In this Order “pilot scheme” means the pilot scheme set out in Schedule 1.
 
-## 2. Pilot scheme[^key-e1e24a02e6d7e2865545835616d405f6]
+## 2. Pilot scheme[^c-e1e24a02e6d7e2865545835616d405f6]
 
 The pilot scheme, in accordance with which direct payments may be made under section 532A of the Education Act 1996[^f00003], has effect.
 
-## 3. Pilot scheme: local authorities[^key-03ed83758eb238b874252e46bc61e0b0]
+## 3. Pilot scheme: local authorities[^c-03ed83758eb238b874252e46bc61e0b0]
 
 The local authorities in respect of which the pilot scheme operates are those local authorities specified in Schedule 2.
 
-## 4. Pilot scheme: duration[^key-f5a6278a0b986e1b2f955240035a4c4e]
+## 4. Pilot scheme: duration[^c-f5a6278a0b986e1b2f955240035a4c4e]
 
 The pilot scheme has effect for the period ending with 30th September 2015.
 
@@ -76,7 +76,7 @@ Article 2
 
 ### PART 1 — General
 
-#### 1. Interpretation[^key-154a3b22041e22b77bbb9155a0cc8b17]
+#### 1. Interpretation[^c-154a3b22041e22b77bbb9155a0cc8b17]
 
 In this Schedule—
 
@@ -97,7 +97,7 @@ In this Schedule—
     - (iii) where the parent has created an enduring power of attorney within the meaning of Schedule 4 to the 2005 Act (provisions applying to existing enduring powers of attorney), which is registered in accordance with paragraphs 4 and 13 of that Schedule or in respect of which an application has been made for such registration, any attorney in whom the power is vested;
   - (b) in the case of a beneficiary who has attained the age of 16, but does not have capacity to consent to the making of direct payments to them, the parent of the beneficiary, or the parent’s representative, as the case may be.
 
-#### 2. Effect of direct payment[^key-7d2e85b8e4534b3d900833d34bea61e4]
+#### 2. Effect of direct payment[^c-7d2e85b8e4534b3d900833d34bea61e4]
 
 (1) Goods and services acquired by means of direct payments made in accordance with this scheme are to be treated as goods and services provided or arranged by a local authority in pursuance of the relevant statutory duty.
 
@@ -110,7 +110,7 @@ In this Schedule—
 
 ### PART 2 — Circumstances in which direct payments may be made
 
-#### 3. Request for direct payments[^key-d9ae2a8f6a01d365103ace7b39ac5f7f]
+#### 3. Request for direct payments[^c-d9ae2a8f6a01d365103ace7b39ac5f7f]
 
 (1) Where a local authority has—
 
@@ -125,19 +125,19 @@ the authority must provide P with information and advice about direct payments u
 - (b) the beneficiary where the beneficiary has attained the age of 16 and has capacity to consent to the making of direct payments to them; or
 - (c) a representative.
 
-(3)[^key-a080b8f2449a28a9b41ee90d83bbe73e] The duty to provide information and advice under sub-paragraph (1) shall cease at the end of 31st August 2014.
+(3)[^c-a080b8f2449a28a9b41ee90d83bbe73e] The duty to provide information and advice under sub-paragraph (1) shall cease at the end of 31st August 2014.
 
 (4) The duty to consider a request made under sub-paragraph (1) shall not apply in relation to a request received after 31st August 2014.
 
-#### 4. Goods and services in respect of which direct payments may be made[^key-a0505e0d1d908d1335982c8d7edbcba8]
+#### 4. Goods and services in respect of which direct payments may be made[^c-a0505e0d1d908d1335982c8d7edbcba8]
 
 A local authority may make direct payments in respect of any qualifying goods and services.
 
-#### 5. Persons in respect of whom direct payments may be made[^key-01170a58d1b1badadd0d75fc53444d88]
+#### 5. Persons in respect of whom direct payments may be made[^c-01170a58d1b1badadd0d75fc53444d88]
 
 Direct payments may be made in respect of a beneficiary.
 
-#### 6. Persons to whom direct payments may be made[^key-a8a6255a9142c3a1a440b44e63761ad8]
+#### 6. Persons to whom direct payments may be made[^c-a8a6255a9142c3a1a440b44e63761ad8]
 
 (1) Subject to sub-paragraph (2), a local authority may make direct payments to a person who is either—
 
@@ -151,7 +151,7 @@ Direct payments may be made in respect of a beneficiary.
 - (c) has capacity to consent to the making of direct payments to them; and
 - (d) is not a person described in Part 4.
 
-#### 7. Nominees[^key-61dc8daf2520759100ddd7d01cdaddf7]
+#### 7. Nominees[^c-61dc8daf2520759100ddd7d01cdaddf7]
 
 (1) Subject to sub-paragraph (2), a local authority may make direct payments to a nominee where—
 
@@ -170,7 +170,7 @@ with capacity to consent to the making of direct payments to them, nominates in 
 
 (3) If the parent or beneficiary notifies the local authority in writing that they wish to withdraw or change their nomination, the local authority must stop making direct payments to the nominee as soon as reasonably practicable and, where applicable, consider whether to make direct payments to the alternative nominee.
 
-#### 8. Representatives[^key-d0e1cc02d67d1b9d6e44274a22b00a43]
+#### 8. Representatives[^c-d0e1cc02d67d1b9d6e44274a22b00a43]
 
 (1) Subject to sub-paragraph (2), a local authority may make direct payments to a representative where—
 
@@ -187,7 +187,7 @@ does not have capacity to consent to the making of direct payments to them.
   - (iii) act in the best interests of the beneficiary in relation to the direct payments; and
 - (b) is not a person described in Part 4.
 
-#### 9. Transition - beneficiary attains the age of 16[^key-069bcbad5bb588c230d7feeac6006a32]
+#### 9. Transition - beneficiary attains the age of 16[^c-069bcbad5bb588c230d7feeac6006a32]
 
 (1) This paragraph applies where a beneficiary in respect of whom direct payments are already being made attains the age of 16 and is a person falling within paragraph 6(2).
 
@@ -197,7 +197,7 @@ does not have capacity to consent to the making of direct payments to them.
 
 (4) Where the beneficiary notifies the local authority in writing that they do not consent to the making of direct payments, the authority must stop making the direct payments as soon as reasonably practicable.
 
-#### 10. Requirement to reach agreement about direct payments and obtain consent[^key-9afd2bb003d69e1faba48801b46c5bca]
+#### 10. Requirement to reach agreement about direct payments and obtain consent[^c-9afd2bb003d69e1faba48801b46c5bca]
 
 (1) Before making direct payments, a local authority must—
 
@@ -211,7 +211,7 @@ does not have capacity to consent to the making of direct payments to them.
 - (b) the agreed provision; and
 - (c) the amount of the direct payments and whether to be paid in a lump sum and if so the date of payment of the lump sum or by instalments and if so the intervals at which the instalments are to be paid.
 
-#### 11. Decision to make direct payments[^key-bb1e38636695f15e10f3e037945235ae]
+#### 11. Decision to make direct payments[^c-bb1e38636695f15e10f3e037945235ae]
 
 Before deciding whether to make direct payments in respect of a beneficiary the local authority must be satisfied—
 
@@ -220,11 +220,11 @@ Before deciding whether to make direct payments in respect of a beneficiary the 
 - (c) that the making of direct payments in respect of the beneficiary will not have an adverse impact on other services which the local authority provides or arranges for children and young people in its area for whom it maintains a statement of special educational needs under section 324 of the 1996 Act or who are subject to a learning difficulty assessment arranged under section 139A of the 2000 Act; and
 - (d) that securing the agreed provision by means of direct payments in the case of that beneficiary is compatible with the authority’s efficient use of its resources.
 
-#### 12. Permission of school or college[^key-ad57acda21618be249873e3a044e6235]
+#### 12. Permission of school or college[^c-ad57acda21618be249873e3a044e6235]
 
 A local authority may not make direct payments in respect of goods or services which will be used or provided in a school[^f00014] or college unless the head teacher, principal or the person occupying an equivalent position at the school or college agrees.
 
-#### 13. Decision not to make direct payments[^key-7d95b5c5104e209a93e5d3e7425c644c]
+#### 13. Decision not to make direct payments[^c-7d95b5c5104e209a93e5d3e7425c644c]
 
 (1) Where a local authority decides not to make direct payments, it must—
 
@@ -234,7 +234,7 @@ A local authority may not make direct payments in respect of goods or services w
 
 (2) In this paragraph “P” means the person who wishes to receive direct payments and, if different, the parent, or the beneficiary, where the beneficiary has attained the age of 16.
 
-#### 14. Amount of direct payments[^key-87e693056ceec56a30fc328ba45c0aae]
+#### 14. Amount of direct payments[^c-87e693056ceec56a30fc328ba45c0aae]
 
 (1) The local authority must ensure that the amount of the direct payments is sufficient to secure the full cost of the agreed provision.
 
@@ -250,7 +250,7 @@ A local authority may not make direct payments in respect of goods or services w
 - (a) give reasonable notice in writing to the person receiving the direct payments; and
 - (b) where it decides to reduce the amount of direct payments in the circumstances described in sub-paragraph (2) or (3), it must give reasons for that reduction in the notice.
 
-#### 15. Monitoring and review of direct payments[^key-5136c6de76786df535b4a98261d13d49]
+#### 15. Monitoring and review of direct payments[^c-5136c6de76786df535b4a98261d13d49]
 
 (1) The local authority must monitor the use of direct payments by persons to whom direct payments are made.
 
@@ -272,7 +272,7 @@ A local authority may not make direct payments in respect of goods or services w
 - (d) it is still satisfied as to the matters set out in paragraph 11; and
 - (e) the person receiving the direct payments has complied with the obligations imposed on them under Part 3.
 
-#### 16.[^key-4f6ca947732c9ea6f28e7c3e4de21ec0]
+#### 16.[^c-4f6ca947732c9ea6f28e7c3e4de21ec0]
 
 (1) Following a review, the local authority may—
 
@@ -294,7 +294,7 @@ A local authority may not make direct payments in respect of goods or services w
 
 (6) The local authority need not undertake more than one reconsideration of a decision under sub-paragraph (2).
 
-#### 17. Stopping making direct payments[^key-115bf7e6fd82812c8b04244ff0b31e42]
+#### 17. Stopping making direct payments[^c-115bf7e6fd82812c8b04244ff0b31e42]
 
 The local authority must stop making direct payments if—
 
@@ -307,7 +307,7 @@ The local authority must stop making direct payments if—
   - (i) having an adverse impact on other services which the local authority provides or arranges for children and young people in its area for whom it maintains a statement of special educational needs under section 324 of the 1996 Act or who are subject to a learning difficulty assessment arranged under section 139A of the 2000 Act; or
   - (ii) no longer consistent with the authority’s efficient use of its resources.
 
-#### 18. Repayment and recovery of direct payments[^key-7f8b4248a54dea73d98f61d84e009630]
+#### 18. Repayment and recovery of direct payments[^c-7f8b4248a54dea73d98f61d84e009630]
 
 (1) Subject to sub-paragraph (2), the local authority may require that all or part of any direct payments must be repaid if it is satisfied that it is appropriate having regard in particular to whether—
 
@@ -336,7 +336,7 @@ The local authority must stop making direct payments if—
 
 (8) Where the local authority requires a sum to be repaid pursuant to this paragraph, that sum may be recovered as a debt due to the local authority.
 
-#### 19. Information, advice and support[^key-aae1f20948f2fff3775907f730d9089d]
+#### 19. Information, advice and support[^c-aae1f20948f2fff3775907f730d9089d]
 
 (1) The local authority must make arrangements for a person to or in respect of whom direct payments are made to obtain information, advice or other support in connection with direct payments.
 
@@ -346,7 +346,7 @@ The local authority must stop making direct payments if—
 
 ### PART 3 — Conditions to be complied with by the person receiving direct payments
 
-**20.**[^key-98a8b178265b192fc8922804a23c825f] (1) The local authority must require the person receiving direct payments (“R”) to comply with the conditions set out in this paragraph.
+**20.**[^c-98a8b178265b192fc8922804a23c825f] (1) The local authority must require the person receiving direct payments (“R”) to comply with the conditions set out in this paragraph.
 
 (2) The conditions are that R must—
 
@@ -363,7 +363,7 @@ The local authority must stop making direct payments if—
 
 ### PART 4 — Persons to whom direct payments may not be made
 
-**21.**[^key-da3bc12675cb0dd2a8c6c6a1716dd741] The following persons may not receive direct payments—
+**21.**[^c-da3bc12675cb0dd2a8c6c6a1716dd741] The following persons may not receive direct payments—
 
 - (a) a person who is subject to a drug rehabilitation requirement, as defined by section 209 of the Criminal Justice Act 2003[^f00015], imposed by a community order within the meaning of section 177 of that Act or by a suspended sentence order within the meaning of section 189 of that Act;
 - (b) a person who is subject to an alcohol treatment requirement, as defined by section 212 of the Criminal Justice Act 2003, imposed by a community order within the meaning of section 177 of that Act or by a suspended sentence order within the meaning of section 189 of that Act;
@@ -371,11 +371,11 @@ The local authority must stop making direct payments if—
 - (d) a person who is required to submit to treatment for their drug or alcohol dependency by virtue of a community rehabilitation order within the meaning of section 41 of the Powers of Criminal Courts (Sentencing) Act 2000 or a community punishment and rehabilitation order within the meaning of section 51 of that Act[^f00018];
 - (e) a person who is subject to a drug treatment and testing order imposed under section 52 of the Powers of Criminal Courts (Sentencing) Act 2000[^f00019].
 
-## SCHEDULE 2 — Local Authorities[^key-c853f704c5102643556c3863d360de74]
+## SCHEDULE 2 — Local Authorities[^c-c853f704c5102643556c3863d360de74]
 
 Article 3
 
-[^key-c853f704c5102643556c3863d360de74]
+[^c-c853f704c5102643556c3863d360de74]
 
 The local authorities in respect of which the pilot scheme operates are—
 
@@ -466,17 +466,17 @@ No regulatory impact assessment has been prepared for this Order as there is no 
 
 [^f00002]: Footnote: Section 568(3) of the 1996 Act was amended by section 75 of the 2011 Act and a new subsection (3A) inserted.
 
-[^key-32626e7106e8e7bba36e188504b13549]: Commencement: Art. 1 in force at 30.1.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/206/article/1/2)
+[^c-32626e7106e8e7bba36e188504b13549]: Commencement: Art. 1 in force at 30.1.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/206/article/1/2)
 
-[^key-e1e24a02e6d7e2865545835616d405f6]: Commencement: Art. 2 in force at 30.1.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/206/article/1/2)
+[^c-e1e24a02e6d7e2865545835616d405f6]: Commencement: Art. 2 in force at 30.1.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/206/article/1/2)
 
 [^f00003]: Footnote: Section 532A was inserted by section 75 of the 2011 Act.
 
-[^key-03ed83758eb238b874252e46bc61e0b0]: Commencement: Art. 3 in force at 30.1.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/206/article/1/2)
+[^c-03ed83758eb238b874252e46bc61e0b0]: Commencement: Art. 3 in force at 30.1.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/206/article/1/2)
 
-[^key-f5a6278a0b986e1b2f955240035a4c4e]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/uksi/2012/206/article/4) substituted (29.1.2014) by [The Special Educational Needs (Direct Payments) (Pilot Scheme) (Extension and Amendment) Order 2014 (S.I. 2014/166)](https://www.legislation.gov.uk/uksi/2014/166), [arts. 1](https://www.legislation.gov.uk/uksi/2014/166/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/166/article/2/2)
+[^c-f5a6278a0b986e1b2f955240035a4c4e]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/uksi/2012/206/article/4) substituted (29.1.2014) by [The Special Educational Needs (Direct Payments) (Pilot Scheme) (Extension and Amendment) Order 2014 (S.I. 2014/166)](https://www.legislation.gov.uk/uksi/2014/166), [arts. 1](https://www.legislation.gov.uk/uksi/2014/166/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/166/article/2/2)
 
-[^key-154a3b22041e22b77bbb9155a0cc8b17]: Commencement: Sch. 1 para. 1 in force at 30.1.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/206/article/1/2)
+[^c-154a3b22041e22b77bbb9155a0cc8b17]: Commencement: Sch. 1 para. 1 in force at 30.1.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/206/article/1/2)
 
 [^f00004]: Footnote: [2000 c.21](https://www.legislation.gov.uk/ukpga/2000/21).
 
@@ -496,51 +496,51 @@ No regulatory impact assessment has been prepared for this Order as there is no 
 
 [^f00012]: Footnote: Parent is defined in section 576 of the 1996 Act.
 
-[^key-7d2e85b8e4534b3d900833d34bea61e4]: Commencement: Sch. 1 para. 2 in force at 30.1.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/206/article/1/2)
+[^c-7d2e85b8e4534b3d900833d34bea61e4]: Commencement: Sch. 1 para. 2 in force at 30.1.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/206/article/1/2)
 
-[^key-d9ae2a8f6a01d365103ace7b39ac5f7f]: Commencement: Sch. 1 para. 3 in force at 30.1.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/206/article/1/2)
+[^c-d9ae2a8f6a01d365103ace7b39ac5f7f]: Commencement: Sch. 1 para. 3 in force at 30.1.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/206/article/1/2)
 
 [^f00013]: Footnote: Section 139B was inserted by section 80 of the 2008 Act and amended by [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158).
 
-[^key-a080b8f2449a28a9b41ee90d83bbe73e]: Textual amendment: [Sch. 1 para. 3(3)](https://www.legislation.gov.uk/uksi/2012/206/schedule/1/paragraph/3/3)[(4)](https://www.legislation.gov.uk/uksi/2012/206/schedule/1/paragraph/3/4) inserted (29.1.2014) by [The Special Educational Needs (Direct Payments) (Pilot Scheme) (Extension and Amendment) Order 2014 (S.I. 2014/166)](https://www.legislation.gov.uk/uksi/2014/166), [arts. 1](https://www.legislation.gov.uk/uksi/2014/166/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2014/166/article/2/3)
+[^c-a080b8f2449a28a9b41ee90d83bbe73e]: Textual amendment: [Sch. 1 para. 3(3)](https://www.legislation.gov.uk/uksi/2012/206/schedule/1/paragraph/3/3)[(4)](https://www.legislation.gov.uk/uksi/2012/206/schedule/1/paragraph/3/4) inserted (29.1.2014) by [The Special Educational Needs (Direct Payments) (Pilot Scheme) (Extension and Amendment) Order 2014 (S.I. 2014/166)](https://www.legislation.gov.uk/uksi/2014/166), [arts. 1](https://www.legislation.gov.uk/uksi/2014/166/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2014/166/article/2/3)
 
-[^key-a0505e0d1d908d1335982c8d7edbcba8]: Commencement: Sch. 1 para. 4 in force at 30.1.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/206/article/1/2)
+[^c-a0505e0d1d908d1335982c8d7edbcba8]: Commencement: Sch. 1 para. 4 in force at 30.1.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/206/article/1/2)
 
-[^key-01170a58d1b1badadd0d75fc53444d88]: Commencement: Sch. 1 para. 5 in force at 30.1.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/206/article/1/2)
+[^c-01170a58d1b1badadd0d75fc53444d88]: Commencement: Sch. 1 para. 5 in force at 30.1.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/206/article/1/2)
 
-[^key-a8a6255a9142c3a1a440b44e63761ad8]: Commencement: Sch. 1 para. 6 in force at 30.1.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/206/article/1/2)
+[^c-a8a6255a9142c3a1a440b44e63761ad8]: Commencement: Sch. 1 para. 6 in force at 30.1.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/206/article/1/2)
 
-[^key-61dc8daf2520759100ddd7d01cdaddf7]: Commencement: Sch. 1 para. 7 in force at 30.1.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/206/article/1/2)
+[^c-61dc8daf2520759100ddd7d01cdaddf7]: Commencement: Sch. 1 para. 7 in force at 30.1.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/206/article/1/2)
 
-[^key-d0e1cc02d67d1b9d6e44274a22b00a43]: Commencement: Sch. 1 para. 8 in force at 30.1.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/206/article/1/2)
+[^c-d0e1cc02d67d1b9d6e44274a22b00a43]: Commencement: Sch. 1 para. 8 in force at 30.1.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/206/article/1/2)
 
-[^key-069bcbad5bb588c230d7feeac6006a32]: Commencement: Sch. 1 para. 9 in force at 30.1.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/206/article/1/2)
+[^c-069bcbad5bb588c230d7feeac6006a32]: Commencement: Sch. 1 para. 9 in force at 30.1.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/206/article/1/2)
 
-[^key-9afd2bb003d69e1faba48801b46c5bca]: Commencement: Sch. 1 para. 10 in force at 30.1.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/206/article/1/2)
+[^c-9afd2bb003d69e1faba48801b46c5bca]: Commencement: Sch. 1 para. 10 in force at 30.1.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/206/article/1/2)
 
-[^key-bb1e38636695f15e10f3e037945235ae]: Commencement: Sch. 1 para. 11 in force at 30.1.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/206/article/1/2)
+[^c-bb1e38636695f15e10f3e037945235ae]: Commencement: Sch. 1 para. 11 in force at 30.1.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/206/article/1/2)
 
-[^key-ad57acda21618be249873e3a044e6235]: Commencement: Sch. 1 para. 12 in force at 30.1.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/206/article/1/2)
+[^c-ad57acda21618be249873e3a044e6235]: Commencement: Sch. 1 para. 12 in force at 30.1.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/206/article/1/2)
 
 [^f00014]: Footnote: School is defined in section 4 of the 1996 Act.
 
-[^key-7d95b5c5104e209a93e5d3e7425c644c]: Commencement: Sch. 1 para. 13 in force at 30.1.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/206/article/1/2)
+[^c-7d95b5c5104e209a93e5d3e7425c644c]: Commencement: Sch. 1 para. 13 in force at 30.1.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/206/article/1/2)
 
-[^key-87e693056ceec56a30fc328ba45c0aae]: Commencement: Sch. 1 para. 14 in force at 30.1.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/206/article/1/2)
+[^c-87e693056ceec56a30fc328ba45c0aae]: Commencement: Sch. 1 para. 14 in force at 30.1.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/206/article/1/2)
 
-[^key-5136c6de76786df535b4a98261d13d49]: Commencement: Sch. 1 para. 15 in force at 30.1.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/206/article/1/2)
+[^c-5136c6de76786df535b4a98261d13d49]: Commencement: Sch. 1 para. 15 in force at 30.1.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/206/article/1/2)
 
-[^key-4f6ca947732c9ea6f28e7c3e4de21ec0]: Commencement: Sch. 1 para. 16 in force at 30.1.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/206/article/1/2)
+[^c-4f6ca947732c9ea6f28e7c3e4de21ec0]: Commencement: Sch. 1 para. 16 in force at 30.1.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/206/article/1/2)
 
-[^key-115bf7e6fd82812c8b04244ff0b31e42]: Commencement: Sch. 1 para. 17 in force at 30.1.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/206/article/1/2)
+[^c-115bf7e6fd82812c8b04244ff0b31e42]: Commencement: Sch. 1 para. 17 in force at 30.1.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/206/article/1/2)
 
-[^key-7f8b4248a54dea73d98f61d84e009630]: Commencement: Sch. 1 para. 18 in force at 30.1.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/206/article/1/2)
+[^c-7f8b4248a54dea73d98f61d84e009630]: Commencement: Sch. 1 para. 18 in force at 30.1.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/206/article/1/2)
 
-[^key-aae1f20948f2fff3775907f730d9089d]: Commencement: Sch. 1 para. 19 in force at 30.1.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/206/article/1/2)
+[^c-aae1f20948f2fff3775907f730d9089d]: Commencement: Sch. 1 para. 19 in force at 30.1.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/206/article/1/2)
 
-[^key-98a8b178265b192fc8922804a23c825f]: Commencement: Sch. 1 para. 20 in force at 30.1.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/206/article/1/2)
+[^c-98a8b178265b192fc8922804a23c825f]: Commencement: Sch. 1 para. 20 in force at 30.1.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/206/article/1/2)
 
-[^key-da3bc12675cb0dd2a8c6c6a1716dd741]: Commencement: Sch. 1 para. 21 in force at 30.1.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/206/article/1/2)
+[^c-da3bc12675cb0dd2a8c6c6a1716dd741]: Commencement: Sch. 1 para. 21 in force at 30.1.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/206/article/1/2)
 
 [^f00015]: Footnote: [2003 c.44](https://www.legislation.gov.uk/ukpga/2003/44); section 209 was amended by paragraphs 71 and 88 of Schedule 4 to the Criminal Justice and Immigration Act [2008 (c.4)](https://www.legislation.gov.uk/ukpga/2008/4).
 
@@ -552,4 +552,4 @@ No regulatory impact assessment has been prepared for this Order as there is no 
 
 [^f00019]: Footnote: Section 52 was repealed, with savings, by Schedule 37 to the 2003 Act.
 
-[^key-c853f704c5102643556c3863d360de74]: Commencement: Sch. 2 in force at 30.1.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/206/article/1/2)
+[^c-c853f704c5102643556c3863d360de74]: Commencement: Sch. 2 in force at 30.1.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/206/article/1/2)

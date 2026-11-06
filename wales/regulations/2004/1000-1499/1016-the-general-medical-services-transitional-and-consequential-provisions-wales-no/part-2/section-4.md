@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Acceptance of applications for inclusion in lists of patients[^key-67ed9623edad22b3ecc763b7b975f193]
+## 4. Acceptance of applications for inclusion in lists of patients[^c-67ed9623edad22b3ecc763b7b975f193]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-67ed9623edad22b3ecc763b7b975f193]: Commencement: Art. 4 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-67ed9623edad22b3ecc763b7b975f193]: Commencement: Art. 4 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
 
 [^f00015]: Footnote: Paragraph 6 was amended by [S.I. 1998/682](https://www.legislation.gov.uk/uksi/1998/682), [2002/1896 (W.197)](https://www.legislation.gov.uk/wsi/2002/1896) and [2002/916 (W.104)](https://www.legislation.gov.uk/wsi/2002/916).

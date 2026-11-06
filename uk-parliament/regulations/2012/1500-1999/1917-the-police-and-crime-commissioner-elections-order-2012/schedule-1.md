@@ -26,8 +26,8 @@ Article 9
 
 (1) As soon as practicable after the relevant date, the registration officer must supply each relevant returning officer with as many printed copies of the following as the relevant returning officer may reasonably require for the purposes of the PCC election—
 
-- (a) the latest revised version of the register published under section 13(1) or (3) of the 1983 Act or under the Electoral Registration (Postponement of 2013 Annual Canvass) Order 2013[^key-bacece307f4ba5729c56ac777b6b8190], and
-- (b) any notice, published under section 13A(2), 13AB(2)[^key-6408a70faeac0f058647a7d0a1c5f15a], 13B(3), (3B) or (3D)[^key-91018ef7321ab5e13f807b1353ceaa28] of that Act [^c21343781], setting out an alteration to the latest version of the register.
+- (a) the latest revised version of the register published under section 13(1) or (3) of the 1983 Act or under the Electoral Registration (Postponement of 2013 Annual Canvass) Order 2013[^c-bacece307f4ba5729c56ac777b6b8190], and
+- (b) any notice, published under section 13A(2), 13AB(2)[^c-6408a70faeac0f058647a7d0a1c5f15a], 13B(3), (3B) or (3D)[^c-91018ef7321ab5e13f807b1353ceaa28] of that Act [^c21343781], setting out an alteration to the latest version of the register.
 
 (2) In this paragraph—
 
@@ -57,7 +57,7 @@ other than for the purposes of an election.
 (1) The persons or organisations within any of paragraphs 3 to 5 may request the registration officer to supply free of charge the relevant part (within the meaning of those paragraphs) of any of the following—
 
 - (a) a revised version of the register published under section 13(1) or (3) of the 1983 Act;
-- (b) any notice, published under section 13A(2), 13AB(2)[^key-0eaabd210a75de8f74a9a166ea28474e], 13B(3), (3B) or (3D)[^key-77594ebd0b5eafb79d388bad0c3ca3db] of the 1983 Act, setting out an alteration to the register.
+- (b) any notice, published under section 13A(2), 13AB(2)[^c-0eaabd210a75de8f74a9a166ea28474e], 13B(3), (3B) or (3D)[^c-77594ebd0b5eafb79d388bad0c3ca3db] of the 1983 Act, setting out an alteration to the register.
 
 (2) A request under sub-paragraph (1) must be made in writing and must—
 
@@ -117,14 +117,14 @@ other than for electoral purposes.
 
 ## Annotations
 
-[^key-bacece307f4ba5729c56ac777b6b8190]: Textual amendment: Words in Sch. 1 para. 1(1)(a) inserted (6.4.2014) by [The Police and Crime Commissioner Elections (Amendment) Order 2014 (S.I. 2014/921)](https://www.legislation.gov.uk/uksi/2014/921), [arts. 1(5)](https://www.legislation.gov.uk/uksi/2014/921/article/1/5), [6(1)](https://www.legislation.gov.uk/uksi/2014/921/article/6/1) (with [art. 1(5)](https://www.legislation.gov.uk/uksi/2014/921/article/1/5))
+[^c-bacece307f4ba5729c56ac777b6b8190]: Textual amendment: Words in Sch. 1 para. 1(1)(a) inserted (6.4.2014) by [The Police and Crime Commissioner Elections (Amendment) Order 2014 (S.I. 2014/921)](https://www.legislation.gov.uk/uksi/2014/921), [arts. 1(5)](https://www.legislation.gov.uk/uksi/2014/921/article/1/5), [6(1)](https://www.legislation.gov.uk/uksi/2014/921/article/6/1) (with [art. 1(5)](https://www.legislation.gov.uk/uksi/2014/921/article/1/5))
 
-[^key-6408a70faeac0f058647a7d0a1c5f15a]: Textual amendment: Word in Sch. 1 para. 1(1)(b) inserted (6.4.2014) by [The Police and Crime Commissioner Elections (Amendment) Order 2014 (S.I. 2014/921)](https://www.legislation.gov.uk/uksi/2014/921), [arts. 1(5)](https://www.legislation.gov.uk/uksi/2014/921/article/1/5), [6(2)(a)](https://www.legislation.gov.uk/uksi/2014/921/article/6/2/a) (with [art. 1(5)](https://www.legislation.gov.uk/uksi/2014/921/article/1/5))
+[^c-6408a70faeac0f058647a7d0a1c5f15a]: Textual amendment: Word in Sch. 1 para. 1(1)(b) inserted (6.4.2014) by [The Police and Crime Commissioner Elections (Amendment) Order 2014 (S.I. 2014/921)](https://www.legislation.gov.uk/uksi/2014/921), [arts. 1(5)](https://www.legislation.gov.uk/uksi/2014/921/article/1/5), [6(2)(a)](https://www.legislation.gov.uk/uksi/2014/921/article/6/2/a) (with [art. 1(5)](https://www.legislation.gov.uk/uksi/2014/921/article/1/5))
 
-[^key-91018ef7321ab5e13f807b1353ceaa28]: Textual amendment: Words in [Sch. 1 para. 1(1)(b)](https://www.legislation.gov.uk/uksi/2012/1917/schedule/1/paragraph/1/1/b) substituted (10.6.2014) by [The Police and Crime Commissioner Elections (Amendment) Order 2014 (S.I. 2014/921)](https://www.legislation.gov.uk/uksi/2014/921), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2014/921/article/1/4), [6(2)(b)](https://www.legislation.gov.uk/uksi/2014/921/article/6/2/b)
+[^c-91018ef7321ab5e13f807b1353ceaa28]: Textual amendment: Words in [Sch. 1 para. 1(1)(b)](https://www.legislation.gov.uk/uksi/2012/1917/schedule/1/paragraph/1/1/b) substituted (10.6.2014) by [The Police and Crime Commissioner Elections (Amendment) Order 2014 (S.I. 2014/921)](https://www.legislation.gov.uk/uksi/2014/921), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2014/921/article/1/4), [6(2)(b)](https://www.legislation.gov.uk/uksi/2014/921/article/6/2/b)
 
 [^c21343781]: Marginal citation: Section 13A of the Representation of the People Act 1983 was substituted by paragraph 6 of Schedule 1 to the Political Parties, Elections and Referendums Act 2000. Section 13B was inserted by paragraph 3 of Schedule 2 to the [Representation of the People Act 2000 (c.2)](https://www.legislation.gov.uk/ukpga/2000/2) and amended by section 11(3) of the [Electoral Administration Act 2006 (c.22)](https://www.legislation.gov.uk/ukpga/2006/22) and section 74 of, and paragraph 3 of Schedule 10 to, the [Police Reform and Social Responsibility Act 2011 (c.13)](https://www.legislation.gov.uk/ukpga/2011/13). Subsections (3B) and (3D) were inserted by section 11(4) of the Electoral Administration Act 2006. Section 13BB was inserted by section 23(1) of the [Political Parties and Elections Act 2009 (c.12)](https://www.legislation.gov.uk/ukpga/2009/12).
 
-[^key-0eaabd210a75de8f74a9a166ea28474e]: Textual amendment: Word in Sch. 1 para. 2(1)(b) inserted (6.4.2014) by [The Police and Crime Commissioner Elections (Amendment) Order 2014 (S.I. 2014/921)](https://www.legislation.gov.uk/uksi/2014/921), [arts. 1(5)](https://www.legislation.gov.uk/uksi/2014/921/article/1/5), [7(a)](https://www.legislation.gov.uk/uksi/2014/921/article/7/a) (with [art. 1(5)](https://www.legislation.gov.uk/uksi/2014/921/article/1/5))
+[^c-0eaabd210a75de8f74a9a166ea28474e]: Textual amendment: Word in Sch. 1 para. 2(1)(b) inserted (6.4.2014) by [The Police and Crime Commissioner Elections (Amendment) Order 2014 (S.I. 2014/921)](https://www.legislation.gov.uk/uksi/2014/921), [arts. 1(5)](https://www.legislation.gov.uk/uksi/2014/921/article/1/5), [7(a)](https://www.legislation.gov.uk/uksi/2014/921/article/7/a) (with [art. 1(5)](https://www.legislation.gov.uk/uksi/2014/921/article/1/5))
 
-[^key-77594ebd0b5eafb79d388bad0c3ca3db]: Textual amendment: Words in [Sch. 1 para. 2(1)(b)](https://www.legislation.gov.uk/uksi/2012/1917/schedule/1/paragraph/2/1/b) substituted (10.6.2014) by [The Police and Crime Commissioner Elections (Amendment) Order 2014 (S.I. 2014/921)](https://www.legislation.gov.uk/uksi/2014/921), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2014/921/article/1/4), [7(b)](https://www.legislation.gov.uk/uksi/2014/921/article/7/b)
+[^c-77594ebd0b5eafb79d388bad0c3ca3db]: Textual amendment: Words in [Sch. 1 para. 2(1)(b)](https://www.legislation.gov.uk/uksi/2012/1917/schedule/1/paragraph/2/1/b) substituted (10.6.2014) by [The Police and Crime Commissioner Elections (Amendment) Order 2014 (S.I. 2014/921)](https://www.legislation.gov.uk/uksi/2014/921), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2014/921/article/1/4), [7(b)](https://www.legislation.gov.uk/uksi/2014/921/article/7/b)

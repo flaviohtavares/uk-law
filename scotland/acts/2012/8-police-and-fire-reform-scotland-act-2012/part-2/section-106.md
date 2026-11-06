@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 106. Conferral of functions in relation to other emergencies[^key-020ac6eb610c39f7e98057ac0feb21dd]
+## 106. Conferral of functions in relation to other emergencies[^c-020ac6eb610c39f7e98057ac0feb21dd]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ In section 11 of the 2005 Act (conferral of functions in relation to other emerg
 
 ## Annotations
 
-[^key-020ac6eb610c39f7e98057ac0feb21dd]: Commencement: [S. 106](https://www.legislation.gov.uk/asp/2012/8/section/106) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)
+[^c-020ac6eb610c39f7e98057ac0feb21dd]: Commencement: [S. 106](https://www.legislation.gov.uk/asp/2012/8/section/106) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)

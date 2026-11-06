@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 63. Power by order to provide marine fish farming is not “development”[^key-0407958b5498c426058700c146ca91a1]
+## 63. Power by order to provide marine fish farming is not “development”[^c-0407958b5498c426058700c146ca91a1]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0407958b5498c426058700c146ca91a1]: Commencement: S. 63 in force at 6.4.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(a)](https://www.legislation.gov.uk/ssi/2011/58/article/3/a)
+[^c-0407958b5498c426058700c146ca91a1]: Commencement: S. 63 in force at 6.4.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(a)](https://www.legislation.gov.uk/ssi/2011/58/article/3/a)

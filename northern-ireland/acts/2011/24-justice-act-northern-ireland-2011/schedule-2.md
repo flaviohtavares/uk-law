@@ -24,7 +24,7 @@ Section 20.
 
 ### Interpretation
 
-**1.**[^key-6f7d79b0ef7f2b1bc2a0f2a3a974ef0a] (1) In this Schedule, in relation to a DPCSP—
+**1.**[^c-6f7d79b0ef7f2b1bc2a0f2a3a974ef0a] (1) In this Schedule, in relation to a DPCSP—
 
 - “**independent member**” means a member appointed under paragraph 4;
 - “**political member**” means a member appointed under paragraph 3.
@@ -44,7 +44,7 @@ Section 20.
 
 ### Composition
 
-**2.**[^key-1eb04b55a065a7109c5a4f10242807af] (1) A DPCSP shall consist of—
+**2.**[^c-1eb04b55a065a7109c5a4f10242807af] (1) A DPCSP shall consist of—
 
 - (a) 6 political members appointed under paragraph 3;
 - (b) 5 independent members appointed under paragraph 4; and
@@ -54,7 +54,7 @@ Section 20.
 
 ### Political members
 
-**3.**[^key-3147a482fb00f52a1668c35ea0b271c1] (1) The council shall exercise its power to appoint political members so as to ensure that, so far as practicable, the political members of all the DPCSPs, taken together, reflect the balance of parties prevailing among the members of the council immediately after the last local general election.
+**3.**[^c-3147a482fb00f52a1668c35ea0b271c1] (1) The council shall exercise its power to appoint political members so as to ensure that, so far as practicable, the political members of all the DPCSPs, taken together, reflect the balance of parties prevailing among the members of the council immediately after the last local general election.
 
 (2) Subject to the following provisions of this paragraph, a person shall hold and vacate office as a political member in accordance with the terms of that person's appointment.
 
@@ -74,7 +74,7 @@ Section 20.
 
 ### Independent members
 
-**4.**[^key-b296763de6a231ad571c396ce3962e4c] (1) Appointments of independent members shall be made by the Policing Board from among persons nominated by the council in accordance with paragraph 5.
+**4.**[^c-b296763de6a231ad571c396ce3962e4c] (1) Appointments of independent members shall be made by the Policing Board from among persons nominated by the council in accordance with paragraph 5.
 
 (2) In appointing independent members the Policing Board shall so far as practicable secure that the members of the DPCSP (taken together) are representative of the community in the DPCSP's police district.
 
@@ -97,7 +97,7 @@ Section 20.
 
 (10) Where an independent member ceases to hold office at any time during the transitional period, no appointment shall be made to fill the casual vacancy; and paragraph 2(1) and sub-paragraphs (1) and (2) of this paragraph shall have effect subject to this sub-paragraph.
 
-**5.**[^key-9eb8e0bad3dc6ecbe71a3d89d3bcd809] (1) Where appointments are to be made of independent members of a DPCSP, the council shall nominate persons willing to be candidates for appointment.
+**5.**[^c-9eb8e0bad3dc6ecbe71a3d89d3bcd809] (1) Where appointments are to be made of independent members of a DPCSP, the council shall nominate persons willing to be candidates for appointment.
 
 (2) Unless otherwise agreed with the Policing Board, the number of persons to be nominated under sub-paragraph (1) on any occasion shall be twice the number of appointments to be made of independent members.
 
@@ -121,7 +121,7 @@ Section 20.
 
 (7) If the Policing Board does so, paragraph 4(1) shall have effect as if those persons had been nominated by the council.
 
-**6.**[^key-5b9833c1167a0dd966f073c39fc83ced] (1) In exercising functions under paragraphs 4 and 5, the council and the Policing Board shall have regard to any code of practice under this paragraph.
+**6.**[^c-5b9833c1167a0dd966f073c39fc83ced] (1) In exercising functions under paragraphs 4 and 5, the council and the Policing Board shall have regard to any code of practice under this paragraph.
 
 (2) The Department may issue, and from time to time revise, a code of practice containing guidance as to the exercise by the council and the Policing Board of their functions under paragraphs 4 and 5.
 
@@ -135,7 +135,7 @@ Section 20.
 
 ### Representatives of designated organisations
 
-**7.**[^key-78eb048ad8e4ef1a63390b3c67470720] (1) A DPCSP must designate at least 4 organisations for the purposes of this paragraph.
+**7.**[^c-78eb048ad8e4ef1a63390b3c67470720] (1) A DPCSP must designate at least 4 organisations for the purposes of this paragraph.
 
 (2) A DPCSP may at any time revoke a designation under sub-paragraph (1).
 
@@ -152,12 +152,12 @@ Section 20.
 
 ### Removal of members
 
-**8.**[^key-35d5e8f9616933c9c8208df2a89e9684] (1) The Policing Board, or the council with the approval of the Policing Board, may remove a person (“P”) from office as a political or independent member of a DPCSP if satisfied that—
+**8.**[^c-35d5e8f9616933c9c8208df2a89e9684] (1) The Policing Board, or the council with the approval of the Policing Board, may remove a person (“P”) from office as a political or independent member of a DPCSP if satisfied that—
 
 - (a) in the case of an independent member, P failed to make the necessary disclosure in relation to P's conviction for a criminal offence in Northern Ireland or elsewhere;
 - (b) in the case of an independent member, P has acted in breach of the terms of a declaration against terrorism;
 - (c) P has been convicted in Northern Ireland or elsewhere after the date of P's appointment of a criminal offence (whether committed before or after that date);
-- (d) P has become bankrupt or P is the subject of a bankruptcy restrictions order[^M_F_011d6742-2de1-442d-f163-e73610cc920d] or P has had a debt relief order made in respect of him or is the subject of a debt relief restrictions order,[^key-7e79807d618b08d9dd8ad3af59418466] or has made[^key-6f7b41d7529aacbc59da1e5e1e2169cd] a composition or arrangement with P's creditors;
+- (d) P has become bankrupt or P is the subject of a bankruptcy restrictions order[^M_F_011d6742-2de1-442d-f163-e73610cc920d] or P has had a debt relief order made in respect of him or is the subject of a debt relief restrictions order,[^c-7e79807d618b08d9dd8ad3af59418466] or has made[^c-6f7b41d7529aacbc59da1e5e1e2169cd] a composition or arrangement with P's creditors;
 - (e) P has failed to comply with the terms of P's appointment; or
 - (f) P is otherwise unable or unfit to discharge P's functions as a member of the DPCSP.
 
@@ -180,7 +180,7 @@ Section 20.
 
 ### Disqualification
 
-**9.**[^key-eacca8e263eee327b1660eb650879f14] (1) A person is disqualified for being a political or independent member of a DPCSP if that person is—
+**9.**[^c-eacca8e263eee327b1660eb650879f14] (1) A person is disqualified for being a political or independent member of a DPCSP if that person is—
 
 - (a) a police officer;
 - (b) a member of the police support staff;
@@ -189,7 +189,7 @@ Section 20.
 
 (2) A person removed from office under paragraph 8(1) is disqualified for membership of a DPCSP until the date of the next local general election following that person's removal.
 
-(2A)[^key-a6b1892a61114e76d0e32c6a82c53ea6] A person is disqualified for being an independent member of a DPCSP if that person is a councillor.
+(2A)[^c-a6b1892a61114e76d0e32c6a82c53ea6] A person is disqualified for being an independent member of a DPCSP if that person is a councillor.
 
 (3) A person is disqualified for being an independent member of a DPCSP if—
 
@@ -213,7 +213,7 @@ Section 20.
 
 ### Chair and vice-chair
 
-**10.**[^key-ec5a8ffb77f4ddcdaac3b79ef4dc746b] (1) For each DPCSP there shall be—
+**10.**[^c-ec5a8ffb77f4ddcdaac3b79ef4dc746b] (1) For each DPCSP there shall be—
 
 - (a) a chair appointed by the council from among the political members; and
 - (b) a vice-chair elected by the independent members from among such members.
@@ -229,7 +229,7 @@ Section 20.
 
 ### Procedure of DPCSP
 
-**11.**[^key-71d10ccd890a3007ee548736cc00d2ac] (1) The quorum for a meeting of a DPCSP shall be one-quarter of the total number of members.
+**11.**[^c-71d10ccd890a3007ee548736cc00d2ac] (1) The quorum for a meeting of a DPCSP shall be one-quarter of the total number of members.
 
 (2) Every question at a meeting of a DPCSP shall be determined by a majority of the votes of the members present and voting on the question, and in the case of an equal division of the votes, the chair of the meeting shall have a second or casting vote.
 
@@ -239,7 +239,7 @@ Section 20.
 
 ### Policing committee: constitution
 
-**12.**[^key-42c83499c4fd0957437705a60f521698] (1) For each DPCSP there shall be a policing committee consisting of—
+**12.**[^c-42c83499c4fd0957437705a60f521698] (1) For each DPCSP there shall be a policing committee consisting of—
 
 - (a) the political members; and
 - (b) the independent members.
@@ -261,7 +261,7 @@ Section 20.
 
 ### Policing committee: procedure
 
-**13.**[^key-8bad1b6c763ea79f58c477d7ad7cf8a1] (1) The quorum for a meeting of a policing committee shall be 5.
+**13.**[^c-8bad1b6c763ea79f58c477d7ad7cf8a1] (1) The quorum for a meeting of a policing committee shall be 5.
 
 (2) Every question at a meeting of a policing committee shall be determined by a majority of the votes of the members present and voting on the question, and in the case of an equal division of the votes, the chair of the meeting shall have a second or casting vote.
 
@@ -278,7 +278,7 @@ Section 20.
 
 ### Other committees
 
-**14.**[^key-fe29402145a97e3572c6fbd7acb78f0b] (1) A DPCSP may constitute other committees of its members; and references in this paragraph to a committee are to a committee so constituted.
+**14.**[^c-fe29402145a97e3572c6fbd7acb78f0b] (1) A DPCSP may constitute other committees of its members; and references in this paragraph to a committee are to a committee so constituted.
 
 (2) A DPCSP shall constitute a committee of its members if directed to do so by the principal PCSP.
 
@@ -302,11 +302,11 @@ Section 20.
 
 ### Indemnities
 
-**15.**[^key-0dbea436f8a85f6f39c96da283535bbb] The council may indemnify a member of a DPCSP in respect of liability incurred by that member in connection with the business of the DPCSP.
+**15.**[^c-0dbea436f8a85f6f39c96da283535bbb] The council may indemnify a member of a DPCSP in respect of liability incurred by that member in connection with the business of the DPCSP.
 
 ### Insurance against accidents
 
-**16.**[^key-b42499b18a6875804cf1c09585ca0681] (1) The council may insure against risks of a member of the DPCSP meeting with a personal accident, whether fatal or not, while engaged on the business of the DPCSP.
+**16.**[^c-b42499b18a6875804cf1c09585ca0681] (1) The council may insure against risks of a member of the DPCSP meeting with a personal accident, whether fatal or not, while engaged on the business of the DPCSP.
 
 (2) Sub-paragraph (3) applies if the council receives a sum under any such insurance in respect of an accident to a member of the DPCSP.
 
@@ -316,11 +316,11 @@ Section 20.
 
 ### Expenses
 
-**17.**[^key-10ffe64190ebf71b0b3dd686ad1384c7] The council may pay to members of a DPCSP such expenses as the council may determine.
+**17.**[^c-10ffe64190ebf71b0b3dd686ad1384c7] The council may pay to members of a DPCSP such expenses as the council may determine.
 
 ### Finance
 
-**18.**[^key-5f55548af4e39c464571b0d58c266194] (1) The Department and the Policing Board shall for each financial year make to the council grants of such amounts as the joint committee may determine for defraying or contributing towards the expenses of the council in that year in connection with DPCSPs.
+**18.**[^c-5f55548af4e39c464571b0d58c266194] (1) The Department and the Policing Board shall for each financial year make to the council grants of such amounts as the joint committee may determine for defraying or contributing towards the expenses of the council in that year in connection with DPCSPs.
 
 (2) A grant made by the Department or the Policing Board under this paragraph—
 
@@ -333,14 +333,14 @@ as the joint committee may determine.
 
 ### Validity of proceedings
 
-**19.**[^key-d559b4cb72369b8588d56745437d8c2e] The validity of any proceedings of a DPCSP or a committee of a DPCSP shall not be affected by—
+**19.**[^c-d559b4cb72369b8588d56745437d8c2e] The validity of any proceedings of a DPCSP or a committee of a DPCSP shall not be affected by—
 
 - (a) any defect in the appointment of any member or in the appointment or election of the chair or vice-chair; or
 - (b) any vacancy in the office of chair or vice-chair or among the other members.
 
 ### Disclosure of pecuniary interests, family connections, etc.
 
-**20.**[^key-f7b98c45115acbc58a346e0ed1a63d0f] Sections 28 to 33, 42, 46, 47 and 146 of the Local Government Act (Northern Ireland) 1972 (c. 9) (and section 148 of that Act so far as applying for the interpretation of those sections) apply to a DPCSP and its members as if—
+**20.**[^c-f7b98c45115acbc58a346e0ed1a63d0f] Sections 28 to 33, 42, 46, 47 and 146 of the Local Government Act (Northern Ireland) 1972 (c. 9) (and section 148 of that Act so far as applying for the interpretation of those sections) apply to a DPCSP and its members as if—
 
 - (a) in those sections—
   - (i) any reference to a council were a reference to the DPCSP;
@@ -351,50 +351,50 @@ as the joint committee may determine.
 
 ## Annotations
 
-[^key-6f7d79b0ef7f2b1bc2a0f2a3a974ef0a]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nia/2011/24/schedule/2/paragraph/1) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)
+[^c-6f7d79b0ef7f2b1bc2a0f2a3a974ef0a]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nia/2011/24/schedule/2/paragraph/1) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)
 
-[^key-1eb04b55a065a7109c5a4f10242807af]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nia/2011/24/schedule/2/paragraph/2) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)
+[^c-1eb04b55a065a7109c5a4f10242807af]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nia/2011/24/schedule/2/paragraph/2) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)
 
-[^key-3147a482fb00f52a1668c35ea0b271c1]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nia/2011/24/schedule/2/paragraph/3) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)
+[^c-3147a482fb00f52a1668c35ea0b271c1]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nia/2011/24/schedule/2/paragraph/3) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)
 
-[^key-b296763de6a231ad571c396ce3962e4c]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nia/2011/24/schedule/2/paragraph/4) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)
+[^c-b296763de6a231ad571c396ce3962e4c]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nia/2011/24/schedule/2/paragraph/4) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)
 
-[^key-9eb8e0bad3dc6ecbe71a3d89d3bcd809]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nia/2011/24/schedule/2/paragraph/5) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)
+[^c-9eb8e0bad3dc6ecbe71a3d89d3bcd809]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nia/2011/24/schedule/2/paragraph/5) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)
 
-[^key-5b9833c1167a0dd966f073c39fc83ced]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nia/2011/24/schedule/2/paragraph/6) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)
+[^c-5b9833c1167a0dd966f073c39fc83ced]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nia/2011/24/schedule/2/paragraph/6) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)
 
-[^key-78eb048ad8e4ef1a63390b3c67470720]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nia/2011/24/schedule/2/paragraph/7) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)
+[^c-78eb048ad8e4ef1a63390b3c67470720]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nia/2011/24/schedule/2/paragraph/7) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)
 
-[^key-35d5e8f9616933c9c8208df2a89e9684]: Commencement: Sch. 2 para. 8 in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)
+[^c-35d5e8f9616933c9c8208df2a89e9684]: Commencement: Sch. 2 para. 8 in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)
 
 [^M_F_011d6742-2de1-442d-f163-e73610cc920d]: Textual amendment: Words in Sch. 2 para. 8(1)(d) inserted (21.4.2015) by [The Insolvency (Northern Ireland) Order 2005 (Consequential Amendments) Order (Northern Ireland) 2015 (S.R. 2015/159)](https://www.legislation.gov.uk/nisr/2015/159), [Sch. para. 21(3)](https://www.legislation.gov.uk/nisr/2015/159/schedule/paragraph/21/3)
 
-[^key-7e79807d618b08d9dd8ad3af59418466]: Textual amendment: Words in [Sch. 2 para. 8(1)(d)](https://www.legislation.gov.uk/nia/2011/24/schedule/2/paragraph/8/1/d) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 27(3)(a)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/27/3/a)
+[^c-7e79807d618b08d9dd8ad3af59418466]: Textual amendment: Words in [Sch. 2 para. 8(1)(d)](https://www.legislation.gov.uk/nia/2011/24/schedule/2/paragraph/8/1/d) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 27(3)(a)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/27/3/a)
 
-[^key-6f7b41d7529aacbc59da1e5e1e2169cd]: Textual amendment: Words in [Sch. 2 para. 8(1)(d)](https://www.legislation.gov.uk/nia/2011/24/schedule/2/paragraph/8/1/d) substituted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 27(3)(b)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/27/3/b)
+[^c-6f7b41d7529aacbc59da1e5e1e2169cd]: Textual amendment: Words in [Sch. 2 para. 8(1)(d)](https://www.legislation.gov.uk/nia/2011/24/schedule/2/paragraph/8/1/d) substituted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 27(3)(b)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/27/3/b)
 
-[^key-eacca8e263eee327b1660eb650879f14]: Commencement: Sch. 2 para. 9 in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)
+[^c-eacca8e263eee327b1660eb650879f14]: Commencement: Sch. 2 para. 9 in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)
 
-[^key-a6b1892a61114e76d0e32c6a82c53ea6]: Textual amendment: [Sch. 2 para. 9(2A)](https://www.legislation.gov.uk/nia/2011/24/schedule/2/paragraph/9/2A) inserted (1.4.2015) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [ss. 4(3)](https://www.legislation.gov.uk/nia/2014/8/section/4/3), [129](https://www.legislation.gov.uk/nia/2014/8/section/129) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)
+[^c-a6b1892a61114e76d0e32c6a82c53ea6]: Textual amendment: [Sch. 2 para. 9(2A)](https://www.legislation.gov.uk/nia/2011/24/schedule/2/paragraph/9/2A) inserted (1.4.2015) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [ss. 4(3)](https://www.legislation.gov.uk/nia/2014/8/section/4/3), [129](https://www.legislation.gov.uk/nia/2014/8/section/129) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)
 
-[^key-ec5a8ffb77f4ddcdaac3b79ef4dc746b]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/nia/2011/24/schedule/2/paragraph/10) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)
+[^c-ec5a8ffb77f4ddcdaac3b79ef4dc746b]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/nia/2011/24/schedule/2/paragraph/10) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)
 
-[^key-71d10ccd890a3007ee548736cc00d2ac]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/nia/2011/24/schedule/2/paragraph/11) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)
+[^c-71d10ccd890a3007ee548736cc00d2ac]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/nia/2011/24/schedule/2/paragraph/11) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)
 
-[^key-42c83499c4fd0957437705a60f521698]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/nia/2011/24/schedule/2/paragraph/12) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)
+[^c-42c83499c4fd0957437705a60f521698]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/nia/2011/24/schedule/2/paragraph/12) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)
 
-[^key-8bad1b6c763ea79f58c477d7ad7cf8a1]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/nia/2011/24/schedule/2/paragraph/13) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)
+[^c-8bad1b6c763ea79f58c477d7ad7cf8a1]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/nia/2011/24/schedule/2/paragraph/13) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)
 
-[^key-fe29402145a97e3572c6fbd7acb78f0b]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/nia/2011/24/schedule/2/paragraph/14) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)
+[^c-fe29402145a97e3572c6fbd7acb78f0b]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/nia/2011/24/schedule/2/paragraph/14) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)
 
-[^key-0dbea436f8a85f6f39c96da283535bbb]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/nia/2011/24/schedule/2/paragraph/15) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)
+[^c-0dbea436f8a85f6f39c96da283535bbb]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/nia/2011/24/schedule/2/paragraph/15) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)
 
-[^key-b42499b18a6875804cf1c09585ca0681]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/nia/2011/24/schedule/2/paragraph/16) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)
+[^c-b42499b18a6875804cf1c09585ca0681]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/nia/2011/24/schedule/2/paragraph/16) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)
 
-[^key-10ffe64190ebf71b0b3dd686ad1384c7]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/nia/2011/24/schedule/2/paragraph/17) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)
+[^c-10ffe64190ebf71b0b3dd686ad1384c7]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/nia/2011/24/schedule/2/paragraph/17) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)
 
-[^key-5f55548af4e39c464571b0d58c266194]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/nia/2011/24/schedule/2/paragraph/18) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)
+[^c-5f55548af4e39c464571b0d58c266194]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/nia/2011/24/schedule/2/paragraph/18) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)
 
-[^key-d559b4cb72369b8588d56745437d8c2e]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/nia/2011/24/schedule/2/paragraph/19) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)
+[^c-d559b4cb72369b8588d56745437d8c2e]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/nia/2011/24/schedule/2/paragraph/19) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)
 
-[^key-f7b98c45115acbc58a346e0ed1a63d0f]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/nia/2011/24/schedule/2/paragraph/20) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)
+[^c-f7b98c45115acbc58a346e0ed1a63d0f]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/nia/2011/24/schedule/2/paragraph/20) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)

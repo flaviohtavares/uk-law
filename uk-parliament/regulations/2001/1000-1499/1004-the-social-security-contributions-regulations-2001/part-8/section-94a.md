@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94A. Exception from Class 4 liability in respect of certain amounts chargeable to income tax under Schedule D[^key-371be5593ffc54fccb23d7338782b15e]
+## 94A. Exception from Class 4 liability in respect of certain amounts chargeable to income tax under Schedule D[^c-371be5593ffc54fccb23d7338782b15e]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ the earner shall be excepted from liability to pay contributions under section 1
 
 ## Annotations
 
-[^key-371be5593ffc54fccb23d7338782b15e]: Textual amendment: Reg. 94A and heading inserted (with effect in accordance with reg. 2 of the amending S.I.) by [The Social Security (Contributions) (Amendment No. 7) Regulations 2003 (S.I. 2003/2958)](https://www.legislation.gov.uk/uksi/2003/2958), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2958/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2003/2958/regulation/4)
+[^c-371be5593ffc54fccb23d7338782b15e]: Textual amendment: Reg. 94A and heading inserted (with effect in accordance with reg. 2 of the amending S.I.) by [The Social Security (Contributions) (Amendment No. 7) Regulations 2003 (S.I. 2003/2958)](https://www.legislation.gov.uk/uksi/2003/2958), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2958/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2003/2958/regulation/4)

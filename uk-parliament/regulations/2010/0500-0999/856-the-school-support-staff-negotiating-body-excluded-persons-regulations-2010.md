@@ -46,7 +46,7 @@ Coming into force
 
 The Secretary of State for Children, Schools and Families makes the following Regulations in exercise of the power conferred by section 240(3)(b) of the Apprenticeships, Skills, Children and Learning Act 2009[^f00001]:
 
-## 1. Citation, commencement and interpretation[^key-bf16033b39a091a995b4e97231488b6f]
+## 1. Citation, commencement and interpretation[^c-bf16033b39a091a995b4e97231488b6f]
 
 (1) These Regulations may be cited as the School Support Staff Negotiating Body (Excluded Persons) Regulations 2010.
 
@@ -54,7 +54,7 @@ The Secretary of State for Children, Schools and Families makes the following Re
 
 (3) In these Regulations “ASCLA 2009” means the Apprenticeships, Skills, Children and Learning Act 2009.
 
-## 2. Prescribed descriptions of persons[^key-fb32eb288c6bb68dc994fcbf94c296a1]
+## 2. Prescribed descriptions of persons[^c-fb32eb288c6bb68dc994fcbf94c296a1]
 
 The descriptions of persons prescribed for the purposes of section 240(3)(b) of ASCLA 2009 are those set out in the Schedule.
 
@@ -68,7 +68,7 @@ Department for Children, Schools and Families
 
 ## SCHEDULE — Prescribed descriptions of persons
 
-**1.**[^key-40faf26eac43be3212ac6f897ae9a896] (1) A person who meets the condition in section 240(3)(a) of ASCLA 2009, where the person’s relevant contract of employment includes terms or conditions agreed by one of the following bodies—
+**1.**[^c-40faf26eac43be3212ac6f897ae9a896] (1) A person who meets the condition in section 240(3)(a) of ASCLA 2009, where the person’s relevant contract of employment includes terms or conditions agreed by one of the following bodies—
 
 - (a) the Joint Negotiating Committee for Youth and Community Workers;
 - (b) the Soulbury Committee;
@@ -76,7 +76,7 @@ Department for Children, Schools and Families
 
 (2) In paragraph (1) “relevant contract of employment” means the contract of employment by virtue of which the person meets the condition in section 240(3)(a) of ASCLA 2009.
 
-**2.**[^key-46fc2d6c73c4ae1b9e442ffc23997194] A person who is a participant in the Foreign Language Assistants’ programme funded by the Department for Education[^key-41f3d90133730a470bc60d25664fcfd4].
+**2.**[^c-46fc2d6c73c4ae1b9e442ffc23997194] A person who is a participant in the Foreign Language Assistants’ programme funded by the Department for Education[^c-41f3d90133730a470bc60d25664fcfd4].
 
 EXPLANATORY NOTE
 
@@ -90,12 +90,12 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00001]: Footnote: [2009 c. 22](https://www.legislation.gov.uk/ukpga/2009/22). See section 264 for the definitions of “prescribed” and “regulations”.
 
-[^key-bf16033b39a091a995b4e97231488b6f]: Commencement: Reg. 1 in force at 15.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/856/regulation/1/2)
+[^c-bf16033b39a091a995b4e97231488b6f]: Commencement: Reg. 1 in force at 15.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/856/regulation/1/2)
 
-[^key-fb32eb288c6bb68dc994fcbf94c296a1]: Commencement: Reg. 2 in force at 15.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/856/regulation/1/2)
+[^c-fb32eb288c6bb68dc994fcbf94c296a1]: Commencement: Reg. 2 in force at 15.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/856/regulation/1/2)
 
-[^key-40faf26eac43be3212ac6f897ae9a896]: Commencement: Sch. para. 1 in force at 15.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/856/regulation/1/2)
+[^c-40faf26eac43be3212ac6f897ae9a896]: Commencement: Sch. para. 1 in force at 15.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/856/regulation/1/2)
 
-[^key-46fc2d6c73c4ae1b9e442ffc23997194]: Commencement: Sch. para. 2 in force at 15.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/856/regulation/1/2)
+[^c-46fc2d6c73c4ae1b9e442ffc23997194]: Commencement: Sch. para. 2 in force at 15.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/856/regulation/1/2)
 
-[^key-41f3d90133730a470bc60d25664fcfd4]: Textual amendment: Words in [Sch. para. 2](https://www.legislation.gov.uk/uksi/2010/856/schedule/paragraph/2) substituted (18.8.2010) by [The Secretary of State for Education Order 2010 (S.I. 2010/1836)](https://www.legislation.gov.uk/uksi/2010/1836), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1836/article/1/2), [Sch. para. 11(s)](https://www.legislation.gov.uk/uksi/2010/1836/schedule/paragraph/11/s)
+[^c-41f3d90133730a470bc60d25664fcfd4]: Textual amendment: Words in [Sch. para. 2](https://www.legislation.gov.uk/uksi/2010/856/schedule/paragraph/2) substituted (18.8.2010) by [The Secretary of State for Education Order 2010 (S.I. 2010/1836)](https://www.legislation.gov.uk/uksi/2010/1836), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1836/article/1/2), [Sch. para. 11(s)](https://www.legislation.gov.uk/uksi/2010/1836/schedule/paragraph/11/s)

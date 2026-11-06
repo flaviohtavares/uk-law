@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Preliminary assessments of all disused tips[^key-de07c3818cd9985e06b3c403d61c3e15]
+## 13. Preliminary assessments of all disused tips[^c-de07c3818cd9985e06b3c403d61c3e15]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-de07c3818cd9985e06b3c403d61c3e15]: Commencement: S. 13 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)
+[^c-de07c3818cd9985e06b3c403d61c3e15]: Commencement: S. 13 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)

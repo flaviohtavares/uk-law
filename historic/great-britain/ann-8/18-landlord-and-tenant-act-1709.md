@@ -30,7 +30,7 @@ Landlord and Tenant Act 1709
 
 [^c9182691][^c9182701][^c9182711][^c9182721]An Act for the better Security of Rents and to prevent Frauds committed by Tenants.
 
-## I.] Goods taken in Execution not removed unless Party taking pay Rent due. Proviso as to the Amount of Rent. Power of Sheriff.[^key-f37a760ec2d875494665798a4ea5aa9d]
+## I.] Goods taken in Execution not removed unless Party taking pay Rent due. Proviso as to the Amount of Rent. Power of Sheriff.[^c-f37a760ec2d875494665798a4ea5aa9d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -44,15 +44,15 @@ And whereas no Action of Debt lies against a Tenant for Life or Lives for any Ar
 
 ## V. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c9182781]
 
-## VI. Distress for Arrears on Leases determined.[^key-6633f7a3a47f73fe7f08c3d4f20a84d2]
+## VI. Distress for Arrears on Leases determined.[^c-6633f7a3a47f73fe7f08c3d4f20a84d2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## VII. Limitation of such Distress.[^key-6633f7a3a47f73fe7f08c3d4f20a84d2]
+## VII. Limitation of such Distress.[^c-6633f7a3a47f73fe7f08c3d4f20a84d2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## VIII. Proviso for the Crown.[^key-6633f7a3a47f73fe7f08c3d4f20a84d2]
+## VIII. Proviso for the Crown.[^c-6633f7a3a47f73fe7f08c3d4f20a84d2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -66,7 +66,7 @@ And whereas no Action of Debt lies against a Tenant for Life or Lives for any Ar
 
 [^c9182721]: Textual amendment: Certain words repealed by [Statute Law Revision Act 1948 (c. 62)](https://www.legislation.gov.uk/ukpga/1948/62), [Sch.1](https://www.legislation.gov.uk/ukpga/1948/62/schedule/1)
 
-[^key-f37a760ec2d875494665798a4ea5aa9d]: Textual amendment: S. 1 repealed (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 14 para. 2(a)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/14/paragraph/2/a), [Sch. 23 Pt. 4](https://www.legislation.gov.uk/ukpga/2007/15/schedule/23/part/4) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
+[^c-f37a760ec2d875494665798a4ea5aa9d]: Textual amendment: S. 1 repealed (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 14 para. 2(a)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/14/paragraph/2/a), [Sch. 23 Pt. 4](https://www.legislation.gov.uk/ukpga/2007/15/schedule/23/part/4) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
 
 [^c9182761]: Textual amendment: [Ss. 2](https://www.legislation.gov.uk/apgb/Ann/8/18/section/2), [3](https://www.legislation.gov.uk/apgb/Ann/8/18/section/3), [5](https://www.legislation.gov.uk/apgb/Ann/8/18/section/5) repealed by [Statute Law Revision Act 1867 (c. 59)](https://www.legislation.gov.uk/ukpga/1867/59)
 
@@ -74,4 +74,4 @@ And whereas no Action of Debt lies against a Tenant for Life or Lives for any Ar
 
 [^c9182781]: Textual amendment: [Ss. 2](https://www.legislation.gov.uk/apgb/Ann/8/18/section/2), [3](https://www.legislation.gov.uk/apgb/Ann/8/18/section/3), [5](https://www.legislation.gov.uk/apgb/Ann/8/18/section/5) repealed by [Statute Law Revision Act 1867 (c. 59)](https://www.legislation.gov.uk/ukpga/1867/59)
 
-[^key-6633f7a3a47f73fe7f08c3d4f20a84d2]: Textual amendment: Ss. 6-8 repealed (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 14 para. 2(b)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/14/paragraph/2/b), [Sch. 23 Pt. 4](https://www.legislation.gov.uk/ukpga/2007/15/schedule/23/part/4) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
+[^c-6633f7a3a47f73fe7f08c3d4f20a84d2]: Textual amendment: Ss. 6-8 repealed (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 14 para. 2(b)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/14/paragraph/2/b), [Sch. 23 Pt. 4](https://www.legislation.gov.uk/ukpga/2007/15/schedule/23/part/4) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)

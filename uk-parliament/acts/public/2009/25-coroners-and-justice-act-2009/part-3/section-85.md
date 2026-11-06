@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Interpretation of this Chapter[^key-9852fcd514b8fd5e6396867c516a652b][^key-bb99b83341f24896cf1ad1c2ded0ca44]
+## 85. Interpretation of this Chapter[^c-9852fcd514b8fd5e6396867c516a652b][^c-bb99b83341f24896cf1ad1c2ded0ca44]
 
 *Extent: E+W+N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9852fcd514b8fd5e6396867c516a652b]: Commencement: [S. 85](https://www.legislation.gov.uk/ukpga/2009/25/section/85) in force at 6.4.2010 for E.W. by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 3](https://www.legislation.gov.uk/uksi/2010/816/article/3)
+[^c-9852fcd514b8fd5e6396867c516a652b]: Commencement: [S. 85](https://www.legislation.gov.uk/ukpga/2009/25/section/85) in force at 6.4.2010 for E.W. by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 3](https://www.legislation.gov.uk/uksi/2010/816/article/3)
 
-[^key-bb99b83341f24896cf1ad1c2ded0ca44]: Commencement: [S. 85](https://www.legislation.gov.uk/ukpga/2009/25/section/85) in force at 18.4.2011 for N.I. by [S.R. 2011/182](https://www.legislation.gov.uk/nisr/2011/182), [art. 2(a)(ix)](https://www.legislation.gov.uk/nisr/2011/182/article/2/a/ix)
+[^c-bb99b83341f24896cf1ad1c2ded0ca44]: Commencement: [S. 85](https://www.legislation.gov.uk/ukpga/2009/25/section/85) in force at 18.4.2011 for N.I. by [S.R. 2011/182](https://www.legislation.gov.uk/nisr/2011/182), [art. 2(a)(ix)](https://www.legislation.gov.uk/nisr/2011/182/article/2/a/ix)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 371SLA. Corporate interest restriction[^key-e41ef8e30d4027b5465c0c89bb6966eb][^key-629ada2c8a18d82affe2c0e203fa8e18]
+## 371SLA. Corporate interest restriction[^c-e41ef8e30d4027b5465c0c89bb6966eb][^c-629ada2c8a18d82affe2c0e203fa8e18]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e41ef8e30d4027b5465c0c89bb6966eb]: Textual amendment: [S. 371SLA](https://www.legislation.gov.uk/ukpga/2010/8/section/371SLA) inserted (with effect in accordance with Sch. 5 para. 25(1)(2) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 23(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/23/3)
+[^c-e41ef8e30d4027b5465c0c89bb6966eb]: Textual amendment: [S. 371SLA](https://www.legislation.gov.uk/ukpga/2010/8/section/371SLA) inserted (with effect in accordance with Sch. 5 para. 25(1)(2) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 23(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/23/3)
 
-[^key-629ada2c8a18d82affe2c0e203fa8e18]: Textual amendment: Pt. 9A inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/1) (with [ss. 56-58](https://www.legislation.gov.uk/ukpga/2012/14/section/56))
+[^c-629ada2c8a18d82affe2c0e203fa8e18]: Textual amendment: Pt. 9A inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/1) (with [ss. 56-58](https://www.legislation.gov.uk/ukpga/2012/14/section/56))

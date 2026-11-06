@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Adjustment of provisional amount[^key-eb07a636ab02256754ed830349f8ed15]
+## 45. Adjustment of provisional amount[^c-eb07a636ab02256754ed830349f8ed15]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eb07a636ab02256754ed830349f8ed15]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/2015/182/regulation/45) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-eb07a636ab02256754ed830349f8ed15]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/2015/182/regulation/45) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)

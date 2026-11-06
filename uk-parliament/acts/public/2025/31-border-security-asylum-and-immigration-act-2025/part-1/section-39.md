@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Provision of biometric information at ports in Scotland[^key-b1593dd683d4de89734f1bbd58470773]
+## 39. Provision of biometric information at ports in Scotland[^c-b1593dd683d4de89734f1bbd58470773]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b1593dd683d4de89734f1bbd58470773]: Commencement: S. 39 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
+[^c-b1593dd683d4de89734f1bbd58470773]: Commencement: S. 39 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)

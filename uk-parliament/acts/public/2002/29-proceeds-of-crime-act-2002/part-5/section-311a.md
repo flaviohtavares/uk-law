@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 311A. Financial investigators[^key-2d5c775dc5cfca7035f43b262952aab0]
+## 311A. Financial investigators[^c-2d5c775dc5cfca7035f43b262952aab0]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2d5c775dc5cfca7035f43b262952aab0]: Textual amendment: [S. 311A](https://www.legislation.gov.uk/ukpga/2002/29/section/311A) and cross-heading inserted (26.10.2023 for specified purposes, 26.4.2024 for S. for specified purposes, 26.4.2024 for E.W.N.I. in so far as not already in force, 7.11.2024 for S. in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1/2/b), [Sch. 9 para. 6(6)](https://www.legislation.gov.uk/ukpga/2023/56/schedule/9/paragraph/6/6); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 4(b)(i)(ii)](https://www.legislation.gov.uk/uksi/2024/269/regulation/4/b/i/ii); [S.I. 2024/1108](https://www.legislation.gov.uk/uksi/2024/1108), [reg. 2](https://www.legislation.gov.uk/uksi/2024/1108/regulation/2)
+[^c-2d5c775dc5cfca7035f43b262952aab0]: Textual amendment: [S. 311A](https://www.legislation.gov.uk/ukpga/2002/29/section/311A) and cross-heading inserted (26.10.2023 for specified purposes, 26.4.2024 for S. for specified purposes, 26.4.2024 for E.W.N.I. in so far as not already in force, 7.11.2024 for S. in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1/2/b), [Sch. 9 para. 6(6)](https://www.legislation.gov.uk/ukpga/2023/56/schedule/9/paragraph/6/6); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 4(b)(i)(ii)](https://www.legislation.gov.uk/uksi/2024/269/regulation/4/b/i/ii); [S.I. 2024/1108](https://www.legislation.gov.uk/uksi/2024/1108), [reg. 2](https://www.legislation.gov.uk/uksi/2024/1108/regulation/2)

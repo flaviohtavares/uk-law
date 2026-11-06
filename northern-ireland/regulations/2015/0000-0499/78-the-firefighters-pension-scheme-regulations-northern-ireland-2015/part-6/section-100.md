@@ -24,7 +24,7 @@ summary: ''
 
 (2) If the surviving partner dies before the end of the initial period and a bereavement pension was payable to the surviving partner, a bereavement pension is payable to any eligible child for the remaining part of the initial period or until the child ceases to be eligible for an eligible child's pension if that is earlier.
 
-(3) If the member was an active member at the date of the member's death, the weekly amount of the bereavement pension payable under paragraph (1) or (2) is equal to the difference between the weekly amount of pensionable pay which the member was paid at the date of the member's death or, where the member was treated as receiving assumed pensionable pay, the weekly amount of assumed pensionable pay, and the weekly amount of the eligible child’s pension[^key-8c738a85aa7e42b8482ee27faff5aad6] .
+(3) If the member was an active member at the date of the member's death, the weekly amount of the bereavement pension payable under paragraph (1) or (2) is equal to the difference between the weekly amount of pensionable pay which the member was paid at the date of the member's death or, where the member was treated as receiving assumed pensionable pay, the weekly amount of assumed pensionable pay, and the weekly amount of the eligible child’s pension[^c-8c738a85aa7e42b8482ee27faff5aad6] .
 
 (4) If the member was a pensioner member, the weekly amount of the bereavement pension payable under paragraph (1) or (2) is equal to the difference between the weekly amount of the pension to which the member was entitled at the date of the member's death, and the weekly amount of the eligible child’s pension .
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8c738a85aa7e42b8482ee27faff5aad6]: Textual amendment: Words in [Pt. 6 reg. 100(3)](https://www.legislation.gov.uk/nisr/2015/78/part/6/regulation/100/3)[(4)](https://www.legislation.gov.uk/nisr/2015/78/part/6/regulation/100/4) substituted (5.7.2024) by [The Firefighters’ Pension Schemes and Compensation Scheme (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/130)](https://www.legislation.gov.uk/nisr/2024/130), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/1), [5(4)(b)](https://www.legislation.gov.uk/nisr/2024/130/regulation/5/4/b)
+[^c-8c738a85aa7e42b8482ee27faff5aad6]: Textual amendment: Words in [Pt. 6 reg. 100(3)](https://www.legislation.gov.uk/nisr/2015/78/part/6/regulation/100/3)[(4)](https://www.legislation.gov.uk/nisr/2015/78/part/6/regulation/100/4) substituted (5.7.2024) by [The Firefighters’ Pension Schemes and Compensation Scheme (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/130)](https://www.legislation.gov.uk/nisr/2024/130), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/1), [5(4)(b)](https://www.legislation.gov.uk/nisr/2024/130/regulation/5/4/b)

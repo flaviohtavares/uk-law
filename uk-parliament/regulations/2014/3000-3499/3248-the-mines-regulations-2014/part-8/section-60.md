@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 60. General duty to ensure safety of tips[^key-473e8a9101aae5a36529fdc03a5fb131]
+## 60. General duty to ensure safety of tips[^c-473e8a9101aae5a36529fdc03a5fb131]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ which is likely to give rise to a risk to the health and safety of any person is
 
 ## Annotations
 
-[^key-473e8a9101aae5a36529fdc03a5fb131]: Commencement: [Reg. 60](https://www.legislation.gov.uk/uksi/2014/3248/regulation/60) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
+[^c-473e8a9101aae5a36529fdc03a5fb131]: Commencement: [Reg. 60](https://www.legislation.gov.uk/uksi/2014/3248/regulation/60) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)

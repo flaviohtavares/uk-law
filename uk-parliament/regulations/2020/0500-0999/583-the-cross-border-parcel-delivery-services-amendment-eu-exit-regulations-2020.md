@@ -34,7 +34,7 @@ Exiting The European Union
 
 Postal Services
 
-The Cross-border Parcel Delivery Services (Amendment) (EU Exit) Regulations 2020 (revoked)[^key-e088ab9d3674a62499f00115e84f17da]
+The Cross-border Parcel Delivery Services (Amendment) (EU Exit) Regulations 2020 (revoked)[^c-e088ab9d3674a62499f00115e84f17da]
 
 Sift requirements satisfied
 
@@ -50,27 +50,27 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 1
 
-[^key-e088ab9d3674a62499f00115e84f17da]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e088ab9d3674a62499f00115e84f17da]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation and commencement[^key-e088ab9d3674a62499f00115e84f17da]
-
-**Not yet in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Amendments to the Postal Services Act 2011[^key-e088ab9d3674a62499f00115e84f17da]
+## 1. Citation and commencement[^c-e088ab9d3674a62499f00115e84f17da]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-e088ab9d3674a62499f00115e84f17da]
+## 2. Amendments to the Postal Services Act 2011[^c-e088ab9d3674a62499f00115e84f17da]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-e088ab9d3674a62499f00115e84f17da]
+## 3.[^c-e088ab9d3674a62499f00115e84f17da]
+
+**Not yet in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4.[^c-e088ab9d3674a62499f00115e84f17da]
 
 **Not yet in force.**
 
@@ -78,12 +78,12 @@ Coming into force in accordance with regulation 1
 
 **May not be in force at this date. Check the source.**
 
-[^key-e088ab9d3674a62499f00115e84f17da]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e088ab9d3674a62499f00115e84f17da]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-e088ab9d3674a62499f00115e84f17da]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e088ab9d3674a62499f00115e84f17da]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e088ab9d3674a62499f00115e84f17da]: Textual amendment: Regulations revoked (16.10.2020) by [The Cross-border Parcel Delivery Services (Amendment) (No.2) (EU Exit) Regulations 2020 (S.I. 2020/1036)](https://www.legislation.gov.uk/uksi/2020/1036), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1036/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2020/1036/regulation/5)
+[^c-e088ab9d3674a62499f00115e84f17da]: Textual amendment: Regulations revoked (16.10.2020) by [The Cross-border Parcel Delivery Services (Amendment) (No.2) (EU Exit) Regulations 2020 (S.I. 2020/1036)](https://www.legislation.gov.uk/uksi/2020/1036), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1036/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2020/1036/regulation/5)

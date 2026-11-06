@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 18. Guarantees in respect of payment of compensation[^key-6d04f64164bfaeec7f809f48d4c8af50]
+## 18. Guarantees in respect of payment of compensation[^c-6d04f64164bfaeec7f809f48d4c8af50]
 
 *Extent: E+W+S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6d04f64164bfaeec7f809f48d4c8af50]: Commencement: Art. 18 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-6d04f64164bfaeec7f809f48d4c8af50]: Commencement: Art. 18 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)

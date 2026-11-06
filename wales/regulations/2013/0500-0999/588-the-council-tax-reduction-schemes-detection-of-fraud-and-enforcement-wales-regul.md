@@ -41,7 +41,7 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 In accordance with section 14D(3) of that Act, a draft of this instrument has been laid before and approved by a resolution of the National Assembly for Wales.
 
-## 1. Title, commencement and application[^key-3363ff13e9b74ecee96f6788c9d02079][^key-3363ff13e9b74ecee96f6788c9d02079]
+## 1. Title, commencement and application[^c-3363ff13e9b74ecee96f6788c9d02079][^c-3363ff13e9b74ecee96f6788c9d02079]
 
 (1) The title of these Regulations is the Council Tax Reduction Schemes (Detection of Fraud and Enforcement) (Wales) Regulations 2013.
 
@@ -51,14 +51,14 @@ In accordance with section 14D(3) of that Act, a draft of this instrument has be
 
 (4) These Regulations apply in relation to Wales.
 
-## 2. Interpretation[^key-72c2f6ac551aa9e4e0bcd9e98f90abe6][^key-72c2f6ac551aa9e4e0bcd9e98f90abe6]
+## 2. Interpretation[^c-72c2f6ac551aa9e4e0bcd9e98f90abe6][^c-72c2f6ac551aa9e4e0bcd9e98f90abe6]
 
 (1) In these Regulations—
 
 - “the 1992 Act” (“*Deddf 1992*”) means the Local Government Finance Act 1992;
 - “the Contributions and Benefits Act” (“*y Ddeddf Cyfraniadau a Budd-daliadau*”) means the Social Security Contributions and Benefits Act 1992[^f00002];
-- “the Default Scheme” (“*y Cynllun Diofyn*”) means the scheme set out in the Schedule to the Council Tax Reduction Schemes (Default Scheme) (Wales) Regulations 2013[^key-b01a665ebba13b4c92c23754333467ca];
-- “the Prescribed Requirements Regulations” (“*y Rheoliadau Gofynion Rhagnodedig*”) means the Council Tax Reduction Schemes and Prescribed Requirements (Wales) Regulations 2013[^key-6860012fd8c83b9d85abd938e6eda39f];
+- “the Default Scheme” (“*y Cynllun Diofyn*”) means the scheme set out in the Schedule to the Council Tax Reduction Schemes (Default Scheme) (Wales) Regulations 2013[^c-b01a665ebba13b4c92c23754333467ca];
+- “the Prescribed Requirements Regulations” (“*y Rheoliadau Gofynion Rhagnodedig*”) means the Council Tax Reduction Schemes and Prescribed Requirements (Wales) Regulations 2013[^c-6860012fd8c83b9d85abd938e6eda39f];
 - “application” (“*cais*”) means an application for a reduction under a council tax reduction scheme;
 - “authorised officer” (“*swyddog awdurdodedig*”) means a person acting in accordance with any authorisation for the purposes of these Regulations which is for the time being in force in relation to that person;
 - “council tax offence” (“*trosedd treth gyngor*”) means—
@@ -75,7 +75,7 @@ In accordance with section 14D(3) of that Act, a draft of this instrument has be
   - (i) are transmitted to the recipient of the notice by electronic means; and
   - (ii) are received by the recipient in a form that is legible and capable of being recorded for future reference.
 
-## 3. Authorisations by billing authorities[^key-be30c94c617447f1e79c98ded9f06e59][^key-be30c94c617447f1e79c98ded9f06e59]
+## 3. Authorisations by billing authorities[^c-be30c94c617447f1e79c98ded9f06e59][^c-be30c94c617447f1e79c98ded9f06e59]
 
 (1) Subject to paragraphs (2) and (3), a billing authority may grant an authorisation to an individual to exercise the powers conferred on an authorised officer under regulations 4 and 5.
 
@@ -97,7 +97,7 @@ In accordance with section 14D(3) of that Act, a draft of this instrument has be
 
 (5) The written authorisation or withdrawal of an authorisation by a billing authority must be issued under the hand of either—
 
-- (a)[^key-b1e868369c76a2fc34e5ad040935a73c] the chief executive appointed under section 54 of the Local Government and Elections (Wales) Act 2021; or
+- (a)[^c-b1e868369c76a2fc34e5ad040935a73c] the chief executive appointed under section 54 of the Local Government and Elections (Wales) Act 2021; or
 - (b) the officer who is the authority’s chief finance officer (within the meaning of section 5(8) of that Act).
 
 (6) An individual who is authorised for the purposes of regulation 4, is only entitled to exercise the powers which are conferred by that regulation for the purpose of preventing, detecting and securing evidence of the commission (whether by particular persons or more generally) of a council tax offence.
@@ -106,7 +106,7 @@ In accordance with section 14D(3) of that Act, a draft of this instrument has be
 
 (8) Nothing in this regulation conferring any power on an authorised officer requires that power to be exercised only in relation to cases in which the authority administering the council tax reduction scheme is the authority by which that officer’s authorisation was granted.
 
-## 4. Power to require information[^key-688ecdb814ab97660c090e1b54714cdd][^key-688ecdb814ab97660c090e1b54714cdd]
+## 4. Power to require information[^c-688ecdb814ab97660c090e1b54714cdd][^c-688ecdb814ab97660c090e1b54714cdd]
 
 (1) In the circumstances described in paragraph (2), an authorised officer may, by written notice, require a person to provide all such information described in the notice as is information of which that person has possession, or to which that person has access, and which it is reasonable for the authorised officer to require for the purpose described in regulation 3(6).
 
@@ -168,12 +168,12 @@ In accordance with section 14D(3) of that Act, a draft of this instrument has be
 
 (11) In this regulation—
 
-- “bank” (“[^key-90affd7502d431843b803520e3ccc6a2]*banc*”) means—
+- “bank” (“[^c-90affd7502d431843b803520e3ccc6a2]*banc*”) means—
   - (a) a person who has permission under Part 4A of the Financial Services and Markets Act 2000 to accept deposits; or
   - (b) a person who does not require permission under that Act to accept deposits, in the course of that person’s business in the United Kingdom;
 - “credit” (“*credyd*”) includes a cash loan or any form of financial accommodation, including the cashing of a cheque;
 - “family” (“*teulu*”) has the meaning given in regulation 6 of the Prescribed Requirements Regulations;
-- “insurer” (“[^key-8282247b55b62c045fa43014f3f76b66]*yswiriwr*”) means a person who has permission under Part 4A of the Financial Services and Markets Act 2000 to effect or carry out contracts of insurance;
+- “insurer” (“[^c-8282247b55b62c045fa43014f3f76b66]*yswiriwr*”) means a person who has permission under Part 4A of the Financial Services and Markets Act 2000 to effect or carry out contracts of insurance;
 - “partner” (“*partner*”) has the meaning given in regulation 2 of the Prescribed Requirements Regulations.
 
 (12) The definitions of “bank” and “insurer” in paragraph (11) must be read with—
@@ -182,7 +182,7 @@ In accordance with section 14D(3) of that Act, a draft of this instrument has be
 - (b) any relevant order under that section; and
 - (c) Schedule 2 to that Act.
 
-## 5. Power to require electronic access to information[^key-2c8c6f6c797a9ca4fa13d43b49f69cff][^key-2c8c6f6c797a9ca4fa13d43b49f69cff]
+## 5. Power to require electronic access to information[^c-2c8c6f6c797a9ca4fa13d43b49f69cff][^c-2c8c6f6c797a9ca4fa13d43b49f69cff]
 
 (1) Subject to paragraph (3), a billing authority may, in the circumstances described in paragraph (2), require a person falling within regulation 4(4) to enter into arrangements under which an authorised officer is allowed access to electronic records kept by that person.
 
@@ -206,7 +206,7 @@ In accordance with section 14D(3) of that Act, a draft of this instrument has be
 
 (5) An authorised officer who is allowed access in accordance with any arrangements entered into under paragraph (1) is entitled to make copies of, and to take extracts from, any records containing information falling within paragraph (3).
 
-## 6. Delay or obstruction of authorised officer[^key-cf328e2007daa76d263f0e23f8491641][^key-cf328e2007daa76d263f0e23f8491641]
+## 6. Delay or obstruction of authorised officer[^c-cf328e2007daa76d263f0e23f8491641][^c-cf328e2007daa76d263f0e23f8491641]
 
 (1) A person (P) is to be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale if P—
 
@@ -216,14 +216,14 @@ In accordance with section 14D(3) of that Act, a draft of this instrument has be
 
 (2) Where P is convicted of an offence arising in the circumstances described in paragraph (1)(b) or (c) and the refusal or failure is continued by P after P’s conviction, P is to be guilty of a further offence and liable on summary conviction to a fine not exceeding £40 for each day on which the offence is continued.
 
-## 7. False representations for obtaining a reduction[^key-d9258fc7a3d62896531480d92dcf8222]
+## 7. False representations for obtaining a reduction[^c-d9258fc7a3d62896531480d92dcf8222]
 
 A person (P) is to be guilty of an offence and liable on summary conviction to a fine not exceeding level 4 on the standard scale, or to imprisonment for a term not exceeding 3 months, or to both if P, for the purpose of obtaining a reduction under a council tax reduction scheme whether for P or some other person—
 
 - (a) makes a statement or representation which P knows to be false; or
 - (b) provides, or knowingly causes or knowingly allows to be provided, any document or information which P knows to be false.
 
-## 8. Failure to notify a change of circumstances[^key-d48de8e7dc04496872f69230bf057903][^key-d48de8e7dc04496872f69230bf057903]
+## 8. Failure to notify a change of circumstances[^c-d48de8e7dc04496872f69230bf057903][^c-d48de8e7dc04496872f69230bf057903]
 
 (1) A person (P) is to be guilty of an offence if—
 
@@ -245,7 +245,7 @@ A person (P) is to be guilty of an offence and liable on summary conviction to a
 
 (5) A person guilty of an offence under this regulation is to be liable on summary conviction to a fine not exceeding level 4 on the standard scale, or to imprisonment for a term not exceeding 3 months, or to both.
 
-## 9. Dishonest representations for obtaining a reduction[^key-d1133494d7f1c6f4d190e1ec7a6786ce]
+## 9. Dishonest representations for obtaining a reduction[^c-d1133494d7f1c6f4d190e1ec7a6786ce]
 
 (1) A person (P) is to be guilty of an offence if P, for the purpose of obtaining a reduction under a council tax reduction scheme whether for P or some other person, dishonestly—
 
@@ -257,7 +257,7 @@ A person (P) is to be guilty of an offence and liable on summary conviction to a
 - (a) on summary conviction to a fine not exceeding level 5 on the standard scale, or to imprisonment for a term not exceeding 6 months, or to both; or
 - (b) on conviction on indictment to imprisonment for a term not exceeding seven years or to a fine or to both.
 
-## 10. Dishonest failure to notify a change of circumstances[^key-456a7ba96d8ce320371c43e9aaf4e507][^key-456a7ba96d8ce320371c43e9aaf4e507]
+## 10. Dishonest failure to notify a change of circumstances[^c-456a7ba96d8ce320371c43e9aaf4e507][^c-456a7ba96d8ce320371c43e9aaf4e507]
 
 (1) A person (P) is to be guilty of an offence if—
 
@@ -282,13 +282,13 @@ A person (P) is to be guilty of an offence and liable on summary conviction to a
 - (a) on summary conviction to a fine not exceeding level 5 on the standard scale, or to imprisonment for a term not exceeding 6 months, or to both; or
 - (b) on conviction on indictment to imprisonment for a term not exceeding seven years or to a fine or to both.
 
-## 11. Offences by bodies corporate[^key-2df3d10006d128b52856dbe934683d21][^key-2df3d10006d128b52856dbe934683d21]
+## 11. Offences by bodies corporate[^c-2df3d10006d128b52856dbe934683d21][^c-2df3d10006d128b52856dbe934683d21]
 
 (1) Where an offence under these Regulations, which has been committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a director, manager, secretary or other similar officer of the body corporate, or any person who was purporting to act in any such capacity, the director, manager, secretary or other similar officer, as well as the body corporate, is to be guilty of that offence and liable to be proceeded against accordingly.
 
 (2) Where the affairs of a body corporate are managed by its members, paragraph (1) applies in relation to the acts and defaults of a member in connection with the member’s functions of management as if the member were a director of the body corporate.
 
-## 12. Legal proceedings[^key-9c89ac81bb1dde310e23f79cd36e882b][^key-9c89ac81bb1dde310e23f79cd36e882b]
+## 12. Legal proceedings[^c-9c89ac81bb1dde310e23f79cd36e882b][^c-9c89ac81bb1dde310e23f79cd36e882b]
 
 (1) Proceedings brought for an offence under these Regulations may be begun at any time within the period of 3 months from the date on which evidence, sufficient in the opinion of the prosecutor to justify a prosecution for the offence, comes to the prosecutor’s knowledge or within a period of 12 months from the commission of the offence, whichever period last expires.
 
@@ -296,7 +296,7 @@ A person (P) is to be guilty of an offence and liable on summary conviction to a
 
 (3) Paragraph (1) does not impose any restriction on the time when proceedings may be begun for an offence under regulation 9 or 10.
 
-## 13. Penalty as alternative to prosecution (excess reduction)[^key-a13af1a29fd3c02d17967c572bfde3f8][^key-a13af1a29fd3c02d17967c572bfde3f8]
+## 13. Penalty as alternative to prosecution (excess reduction)[^c-a13af1a29fd3c02d17967c572bfde3f8][^c-a13af1a29fd3c02d17967c572bfde3f8]
 
 (1) A billing authority may give a person (P) a written notice including the information required by regulation 15, stating that P is invited to agree to pay a penalty, where P’s liability to pay council tax in respect of a chargeable dwelling has been reduced under a council tax reduction scheme and it appears to the authority that—
 
@@ -332,7 +332,7 @@ A person (P) is to be guilty of an offence and liable on summary conviction to a
 
 (9) If a new agreement is made under paragraph (1) in relation to the revised excess reduction, the amount already recovered by way of penalty, to the extent that it does not exceed the amount of the new penalty, may be treated as recovered under the new agreement instead of being repaid.
 
-## 14. Penalty as alternative to prosecution (acts or omissions)[^key-0391e11a16cfe94ca3e6d63db8a9b8ce][^key-0391e11a16cfe94ca3e6d63db8a9b8ce]
+## 14. Penalty as alternative to prosecution (acts or omissions)[^c-0391e11a16cfe94ca3e6d63db8a9b8ce][^c-0391e11a16cfe94ca3e6d63db8a9b8ce]
 
 (1) A billing authority may give a person (P) a written notice stating that P is invited to agree to pay a penalty, where it appears to the billing authority that—
 
@@ -353,7 +353,7 @@ A person (P) is to be guilty of an offence and liable on summary conviction to a
 - (a) so much of the penalty as has already been recovered is to be repaid; and
 - (b) paragraph (3) is not to apply.
 
-## 15. Notices[^key-2868528fe8a0474090f54975ec86242d][^key-2868528fe8a0474090f54975ec86242d]
+## 15. Notices[^c-2868528fe8a0474090f54975ec86242d][^c-2868528fe8a0474090f54975ec86242d]
 
 The notice to which regulations 13 and 14 refer must contain the following information—
 
@@ -381,7 +381,7 @@ The notice to which regulations 13 and 14 refer must contain the following infor
   - (iii) that the penalty is £100; and
   - (iv) the method by which the penalty is recoverable.
 
-## 16. Penalties for incorrect statements[^key-527f27fab50eea29eaf3f37d5da0b15f][^key-527f27fab50eea29eaf3f37d5da0b15f]
+## 16. Penalties for incorrect statements[^c-527f27fab50eea29eaf3f37d5da0b15f][^c-527f27fab50eea29eaf3f37d5da0b15f]
 
 (1) A billing authority may impose a penalty of £70 on a person (P) where—
 
@@ -398,7 +398,7 @@ The notice to which regulations 13 and 14 refer must contain the following infor
 
 (4) An authority may quash a penalty imposed by it under this regulation.
 
-## 17. Penalties for failure to notify a change of circumstances[^key-2b60c13c93a610c22421303a7640f4f9][^key-2b60c13c93a610c22421303a7640f4f9]
+## 17. Penalties for failure to notify a change of circumstances[^c-2b60c13c93a610c22421303a7640f4f9][^c-2b60c13c93a610c22421303a7640f4f9]
 
 (1) A billing authority may impose a penalty of £70 on a person (P) where—
 
@@ -454,23 +454,23 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^f00001]: Footnote: [1992 c. 14](https://www.legislation.gov.uk/ukpga/1992/14); sections 14A, 14B and 14C were inserted by section 14 of the Local Government Finance Act [2012 c. 17](https://www.legislation.gov.uk/ukpga/2012/17); subsections (1) and (2) of section 113 were amended by section 127 of, and paragraphs 40 and 52 of Schedule 7 to the Local Government Act [2003 c. 26](https://www.legislation.gov.uk/ukpga/2003/26), and section 80 of the Localism Act [2011 c. 20](https://www.legislation.gov.uk/ukpga/2011/20).
 
-[^key-3363ff13e9b74ecee96f6788c9d02079]: Commencement: Reg. 1 in force at 13.3.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/588/regulation/1/2)
+[^c-3363ff13e9b74ecee96f6788c9d02079]: Commencement: Reg. 1 in force at 13.3.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/588/regulation/1/2)
 
-[^key-72c2f6ac551aa9e4e0bcd9e98f90abe6]: Commencement: Reg. 2 in force at 13.3.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/588/regulation/1/2)
+[^c-72c2f6ac551aa9e4e0bcd9e98f90abe6]: Commencement: Reg. 2 in force at 13.3.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/588/regulation/1/2)
 
 [^f00002]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
 
-[^key-b01a665ebba13b4c92c23754333467ca]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2013/588/regulation/2/1) substituted (26.3.2014) by [The Council Tax Reduction Schemes (Miscellaneous Amendments) (Wales) Regulations 2014 (S.I. 2014/825)](https://www.legislation.gov.uk/wsi/2014/825), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/825/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/wsi/2014/825/regulation/2/2/a) (with [reg. 3](https://www.legislation.gov.uk/wsi/2014/825/regulation/3))
+[^c-b01a665ebba13b4c92c23754333467ca]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2013/588/regulation/2/1) substituted (26.3.2014) by [The Council Tax Reduction Schemes (Miscellaneous Amendments) (Wales) Regulations 2014 (S.I. 2014/825)](https://www.legislation.gov.uk/wsi/2014/825), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/825/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/wsi/2014/825/regulation/2/2/a) (with [reg. 3](https://www.legislation.gov.uk/wsi/2014/825/regulation/3))
 
-[^key-6860012fd8c83b9d85abd938e6eda39f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2013/588/regulation/2/1) substituted (26.3.2014) by [The Council Tax Reduction Schemes (Miscellaneous Amendments) (Wales) Regulations 2014 (S.I. 2014/825)](https://www.legislation.gov.uk/wsi/2014/825), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/825/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/wsi/2014/825/regulation/2/2/b) (with [reg. 3](https://www.legislation.gov.uk/wsi/2014/825/regulation/3))
+[^c-6860012fd8c83b9d85abd938e6eda39f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2013/588/regulation/2/1) substituted (26.3.2014) by [The Council Tax Reduction Schemes (Miscellaneous Amendments) (Wales) Regulations 2014 (S.I. 2014/825)](https://www.legislation.gov.uk/wsi/2014/825), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/825/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/wsi/2014/825/regulation/2/2/b) (with [reg. 3](https://www.legislation.gov.uk/wsi/2014/825/regulation/3))
 
-[^key-be30c94c617447f1e79c98ded9f06e59]: Commencement: Reg. 3 in force at 13.3.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/588/regulation/1/2)
+[^c-be30c94c617447f1e79c98ded9f06e59]: Commencement: Reg. 3 in force at 13.3.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/588/regulation/1/2)
 
 [^f00005]: Footnote: S.I. [1996/1880](https://www.legislation.gov.uk/uksi/1996/1880) as amended by S.I. [2013/ 502](https://www.legislation.gov.uk/uksi/2013/502).
 
-[^key-b1e868369c76a2fc34e5ad040935a73c]: Textual amendment: [Reg. 3(5)(a)](https://www.legislation.gov.uk/wsi/2013/588/regulation/3/5/a) substituted (5.5.2022) by [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments and Transitional Provision) (Chief Executives) Regulations 2022 (S.I. 2022/355)](https://www.legislation.gov.uk/wsi/2022/355), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/355/regulation/1/2), [6](https://www.legislation.gov.uk/wsi/2022/355/regulation/6) (with [reg. 9](https://www.legislation.gov.uk/wsi/2022/355/regulation/9))
+[^c-b1e868369c76a2fc34e5ad040935a73c]: Textual amendment: [Reg. 3(5)(a)](https://www.legislation.gov.uk/wsi/2013/588/regulation/3/5/a) substituted (5.5.2022) by [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments and Transitional Provision) (Chief Executives) Regulations 2022 (S.I. 2022/355)](https://www.legislation.gov.uk/wsi/2022/355), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/355/regulation/1/2), [6](https://www.legislation.gov.uk/wsi/2022/355/regulation/6) (with [reg. 9](https://www.legislation.gov.uk/wsi/2022/355/regulation/9))
 
-[^key-688ecdb814ab97660c090e1b54714cdd]: Commencement: Reg. 4 in force at 13.3.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/588/regulation/1/2)
+[^c-688ecdb814ab97660c090e1b54714cdd]: Commencement: Reg. 4 in force at 13.3.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/588/regulation/1/2)
 
 [^f00007]: Footnote: [1972 c. 65](https://www.legislation.gov.uk/ukpga/1972/65).
 
@@ -480,34 +480,34 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^f00010]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29).
 
-[^key-90affd7502d431843b803520e3ccc6a2]: Textual amendment: Words in [reg. 4(11)](https://www.legislation.gov.uk/wsi/2013/588/regulation/4/11) substituted (31.12.2020) by [The Local Government Finance (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/436)](https://www.legislation.gov.uk/wsi/2019/436), [regs. 1](https://www.legislation.gov.uk/wsi/2019/436/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/wsi/2019/436/regulation/2/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-90affd7502d431843b803520e3ccc6a2]: Textual amendment: Words in [reg. 4(11)](https://www.legislation.gov.uk/wsi/2013/588/regulation/4/11) substituted (31.12.2020) by [The Local Government Finance (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/436)](https://www.legislation.gov.uk/wsi/2019/436), [regs. 1](https://www.legislation.gov.uk/wsi/2019/436/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/wsi/2019/436/regulation/2/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8282247b55b62c045fa43014f3f76b66]: Textual amendment: Words in [reg. 4(11)](https://www.legislation.gov.uk/wsi/2013/588/regulation/4/11) substituted (31.12.2020) by [The Local Government Finance (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/436)](https://www.legislation.gov.uk/wsi/2019/436), [regs. 1](https://www.legislation.gov.uk/wsi/2019/436/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/wsi/2019/436/regulation/2/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8282247b55b62c045fa43014f3f76b66]: Textual amendment: Words in [reg. 4(11)](https://www.legislation.gov.uk/wsi/2013/588/regulation/4/11) substituted (31.12.2020) by [The Local Government Finance (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/436)](https://www.legislation.gov.uk/wsi/2019/436), [regs. 1](https://www.legislation.gov.uk/wsi/2019/436/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/wsi/2019/436/regulation/2/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2c8c6f6c797a9ca4fa13d43b49f69cff]: Commencement: Reg. 5 in force at 13.3.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/588/regulation/1/2)
+[^c-2c8c6f6c797a9ca4fa13d43b49f69cff]: Commencement: Reg. 5 in force at 13.3.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/588/regulation/1/2)
 
-[^key-cf328e2007daa76d263f0e23f8491641]: Commencement: Reg. 6 in force at 13.3.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/588/regulation/1/2)
+[^c-cf328e2007daa76d263f0e23f8491641]: Commencement: Reg. 6 in force at 13.3.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/588/regulation/1/2)
 
-[^key-d9258fc7a3d62896531480d92dcf8222]: Commencement: Reg. 7 in force at 26.3.2013, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2013/588/regulation/1/3)
+[^c-d9258fc7a3d62896531480d92dcf8222]: Commencement: Reg. 7 in force at 26.3.2013, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2013/588/regulation/1/3)
 
-[^key-d48de8e7dc04496872f69230bf057903]: Commencement: Reg. 8 in force at 13.3.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/588/regulation/1/2)
+[^c-d48de8e7dc04496872f69230bf057903]: Commencement: Reg. 8 in force at 13.3.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/588/regulation/1/2)
 
-[^key-d1133494d7f1c6f4d190e1ec7a6786ce]: Commencement: Reg. 9 in force at 26.3.2013, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2013/588/regulation/1/3)
+[^c-d1133494d7f1c6f4d190e1ec7a6786ce]: Commencement: Reg. 9 in force at 26.3.2013, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2013/588/regulation/1/3)
 
-[^key-456a7ba96d8ce320371c43e9aaf4e507]: Commencement: Reg. 10 in force at 13.3.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/588/regulation/1/2)
+[^c-456a7ba96d8ce320371c43e9aaf4e507]: Commencement: Reg. 10 in force at 13.3.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/588/regulation/1/2)
 
-[^key-2df3d10006d128b52856dbe934683d21]: Commencement: Reg. 11 in force at 13.3.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/588/regulation/1/2)
+[^c-2df3d10006d128b52856dbe934683d21]: Commencement: Reg. 11 in force at 13.3.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/588/regulation/1/2)
 
-[^key-9c89ac81bb1dde310e23f79cd36e882b]: Commencement: Reg. 12 in force at 13.3.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/588/regulation/1/2)
+[^c-9c89ac81bb1dde310e23f79cd36e882b]: Commencement: Reg. 12 in force at 13.3.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/588/regulation/1/2)
 
-[^key-a13af1a29fd3c02d17967c572bfde3f8]: Commencement: Reg. 13 in force at 13.3.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/588/regulation/1/2)
+[^c-a13af1a29fd3c02d17967c572bfde3f8]: Commencement: Reg. 13 in force at 13.3.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/588/regulation/1/2)
 
-[^key-0391e11a16cfe94ca3e6d63db8a9b8ce]: Commencement: Reg. 14 in force at 13.3.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/588/regulation/1/2)
+[^c-0391e11a16cfe94ca3e6d63db8a9b8ce]: Commencement: Reg. 14 in force at 13.3.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/588/regulation/1/2)
 
-[^key-2868528fe8a0474090f54975ec86242d]: Commencement: Reg. 15 in force at 13.3.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/588/regulation/1/2)
+[^c-2868528fe8a0474090f54975ec86242d]: Commencement: Reg. 15 in force at 13.3.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/588/regulation/1/2)
 
 [^f00016]: Footnote: [1992 c. 14](https://www.legislation.gov.uk/ukpga/1992/14); sub-paragraph (4) was inserted by section 14 of the Local Government Finance Act [2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17).
 
-[^key-527f27fab50eea29eaf3f37d5da0b15f]: Commencement: Reg. 16 in force at 13.3.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/588/regulation/1/2)
+[^c-527f27fab50eea29eaf3f37d5da0b15f]: Commencement: Reg. 16 in force at 13.3.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/588/regulation/1/2)
 
-[^key-2b60c13c93a610c22421303a7640f4f9]: Commencement: Reg. 17 in force at 13.3.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/588/regulation/1/2)
+[^c-2b60c13c93a610c22421303a7640f4f9]: Commencement: Reg. 17 in force at 13.3.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/588/regulation/1/2)

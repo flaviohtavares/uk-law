@@ -46,7 +46,7 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred on them by section 44(2), (3) and (4)(a) of the Non-Domestic Rates (Scotland) Act 2020 [^c24311011].
 
-## 1. Citation, commencement and interpretation[^key-28b4d50f839395140d02dbc2238f06e6]
+## 1. Citation, commencement and interpretation[^c-28b4d50f839395140d02dbc2238f06e6]
 
 (1) These Regulations may be cited as the Non-Domestic Rates (Scotland) Act 2020 (Commencement No. 2, Transitional and Saving Provisions) Regulations 2020 and come into force on 5 November 2020.
 
@@ -55,7 +55,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 - “**the Act**” means the Non-Domestic Rates (Scotland) Act 2020, and
 - “**the 1975 Act**” means the Local Government (Scotland) Act 1975 [^c24311021].
 
-## 2. Appointed days[^key-a74220e5db36d7a27fa6e087d207ec09]
+## 2. Appointed days[^c-a74220e5db36d7a27fa6e087d207ec09]
 
 (1) The day appointed for the coming into force of the provisions of the Act specified in column 1 of the table in the schedule (the subject matter of which is described in column 2 of that table) is specified in column 3 of that table.
 
@@ -73,21 +73,21 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
   - (i) make regulations under section 3ZA(7) and 3ZB(7) of the 1975 Act,
   - (ii) lay draft regulations under section 3ZA(7)(e) and 3ZB(7)(d) of that Act,
   - (iii) consult on proposals for regulations under section 3ZA(7)(e) and 3ZB(7)(d) of that Act, and
-- (b) 1 April 2023[^key-8819326140d1e842fcda26f2d37165b8], insofar as not already brought into force by sub-paragraph (a).
+- (b) 1 April 2023[^c-8819326140d1e842fcda26f2d37165b8], insofar as not already brought into force by sub-paragraph (a).
 
-## 3. Restriction on making complaints: saving provision[^key-2e770b7a641b1bb9b3bb4faf6743d878]
+## 3. Restriction on making complaints: saving provision[^c-2e770b7a641b1bb9b3bb4faf6743d878]
 
-The amendment made by section 12 of the Act (restriction on making complaints with regard to assessor's valuations under section 13 of the Lands Valuation (Scotland) Act 1854 [^c24311031]) has no effect in relation to complaints made prior to 1 April 2023[^key-1bb24d35f63e435d0c3ad62a86725206].
+The amendment made by section 12 of the Act (restriction on making complaints with regard to assessor's valuations under section 13 of the Lands Valuation (Scotland) Act 1854 [^c24311031]) has no effect in relation to complaints made prior to 1 April 2023[^c-1bb24d35f63e435d0c3ad62a86725206].
 
-## 4. Failure to pay instalments of rates: transitional provision[^key-dbe2a2e3557e6545c2dfbc9b3efaec66]
+## 4. Failure to pay instalments of rates: transitional provision[^c-dbe2a2e3557e6545c2dfbc9b3efaec66]
 
 For the avoidance of doubt, the amendment made by section 21 of the Act (procedure to be followed where a ratepayer fails to pay an instalment of rates in accordance with section 8(1) of the 1975 Act) has no effect in relation to a failure to pay an instalment of rates prior to 1 April 2021.
 
-## 5. Repeal of section 7 of the Lands Valuation (Scotland) Act 1854: saving provision[^key-c8128a4cbf015fdabdc51415fb01e7be]
+## 5. Repeal of section 7 of the Lands Valuation (Scotland) Act 1854: saving provision[^c-c8128a4cbf015fdabdc51415fb01e7be]
 
 The repeal made by section 26(5) of the Act (ability of assessor to call for written statement of rent under section 7 of the Lands Valuation (Scotland) Act 1854) has no effect in relation to a call made upon a person by an assessor prior to 1 April 2021.
 
-## 6. Duty to notify changes of circumstances: transitional provision[^key-b6b9bd670dee628ed5a3f11da00f31b3]
+## 6. Duty to notify changes of circumstances: transitional provision[^c-b6b9bd670dee628ed5a3f11da00f31b3]
 
 For the avoidance of doubt, the duty created by section 28 of the Act (duty to notify changes of circumstances) does not apply to a relevant change in circumstances which occurred prior to 1 April 2021.
 
@@ -99,7 +99,7 @@ St Andrew's House,
 
 Edinburgh
 
-## SCHEDULE[^key-fe0f8f51091a8f03a634e9d923a16f85]
+## SCHEDULE[^c-fe0f8f51091a8f03a634e9d923a16f85]
 
 Regulation 2(1)
 
@@ -112,12 +112,12 @@ Regulation 2(1)
 | Section 7 | Agreement as to valuation | 5 November 2020 |
 | Section 8 | Draft valuation roll and draft valuation notices | 5 November 2020 |
 | Section 9 | Valuation notices | 5 November 2020 |
-| Section 11 | Proposals and appeals: consequential modifications | 1 April 2023[^key-53a78fa0add2afa4bbc7c2a9b9757910] |
-| Section 12 | Restriction on making complaints | 1 April 2023[^key-4f43abea8106e57b0e672cad10dd78c7] |
+| Section 11 | Proposals and appeals: consequential modifications | 1 April 2023[^c-53a78fa0add2afa4bbc7c2a9b9757910] |
+| Section 12 | Restriction on making complaints | 1 April 2023[^c-4f43abea8106e57b0e672cad10dd78c7] |
 | Section 14 | New or improved properties: rates relief | 5 November 2020 |
 | Section 15 | Contribution to net-zero emissions target: rates relief | 5 November 2020 |
 | Section 16 | Specialist music provision in public schools: rates relief | 5 November 2020 |
-| Section 17 | Charitable relief: independent schools | 1 April 2022[^key-f75843884c270a9c9fd2236cd8ce1792] |
+| Section 17 | Charitable relief: independent schools | 1 April 2022[^c-f75843884c270a9c9fd2236cd8ce1792] |
 | Section 18 | Power to reduce or remit rates for certain organisations: guidance | 5 November 2020 |
 | Section 20 | Non-use or underuse of lands and heritages: notification | 1 April 2021 |
 | Section 21 | Failure to pay instalments | 1 April 2021 |
@@ -172,30 +172,30 @@ Section 13 of the Act was brought into force on 2 April 2020 by the Non-Domestic
 
 [^c24311011]: Marginal citation: [2020 asp 4](https://www.legislation.gov.uk/asp/2020/4).
 
-[^key-28b4d50f839395140d02dbc2238f06e6]: Commencement: Reg. 1 in force at 5.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/327/regulation/1/1)
+[^c-28b4d50f839395140d02dbc2238f06e6]: Commencement: Reg. 1 in force at 5.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/327/regulation/1/1)
 
 [^c24311021]: Marginal citation: [1975 c. 30](https://www.legislation.gov.uk/ukpga/1975/30). Section 2A of the 1975 Act is inserted by section 3 of the Act. Sections 3ZA and 3ZB of the 1975 Act are inserted by section 10(4) of the Act.
 
-[^key-a74220e5db36d7a27fa6e087d207ec09]: Commencement: Reg. 2 in force at 5.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/327/regulation/1/1)
+[^c-a74220e5db36d7a27fa6e087d207ec09]: Commencement: Reg. 2 in force at 5.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/327/regulation/1/1)
 
-[^key-8819326140d1e842fcda26f2d37165b8]: Textual amendment: Words in [reg. 2(3)(b)](https://www.legislation.gov.uk/ssi/2020/327/regulation/2/3/b) substituted (11.11.2022) by [The Non-Domestic Rates (Scotland) Act 2020 (Commencement No. 2, Transitional and Saving Provisions) Amendment (No. 2) Regulations 2022 (S.S.I. 2022/301)](https://www.legislation.gov.uk/ssi/2022/301), [regs. 1](https://www.legislation.gov.uk/ssi/2022/301/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2022/301/regulation/2/2)
+[^c-8819326140d1e842fcda26f2d37165b8]: Textual amendment: Words in [reg. 2(3)(b)](https://www.legislation.gov.uk/ssi/2020/327/regulation/2/3/b) substituted (11.11.2022) by [The Non-Domestic Rates (Scotland) Act 2020 (Commencement No. 2, Transitional and Saving Provisions) Amendment (No. 2) Regulations 2022 (S.S.I. 2022/301)](https://www.legislation.gov.uk/ssi/2022/301), [regs. 1](https://www.legislation.gov.uk/ssi/2022/301/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2022/301/regulation/2/2)
 
-[^key-2e770b7a641b1bb9b3bb4faf6743d878]: Commencement: Reg. 3 in force at 5.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/327/regulation/1/1)
+[^c-2e770b7a641b1bb9b3bb4faf6743d878]: Commencement: Reg. 3 in force at 5.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/327/regulation/1/1)
 
 [^c24311031]: Marginal citation: [1854 c.91](https://www.legislation.gov.uk/ukpga/1854/91).
 
-[^key-1bb24d35f63e435d0c3ad62a86725206]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/ssi/2020/327/regulation/3) substituted (11.11.2022) by [The Non-Domestic Rates (Scotland) Act 2020 (Commencement No. 2, Transitional and Saving Provisions) Amendment (No. 2) Regulations 2022 (S.S.I. 2022/301)](https://www.legislation.gov.uk/ssi/2022/301), [regs. 1](https://www.legislation.gov.uk/ssi/2022/301/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2022/301/regulation/2/3)
+[^c-1bb24d35f63e435d0c3ad62a86725206]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/ssi/2020/327/regulation/3) substituted (11.11.2022) by [The Non-Domestic Rates (Scotland) Act 2020 (Commencement No. 2, Transitional and Saving Provisions) Amendment (No. 2) Regulations 2022 (S.S.I. 2022/301)](https://www.legislation.gov.uk/ssi/2022/301), [regs. 1](https://www.legislation.gov.uk/ssi/2022/301/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2022/301/regulation/2/3)
 
-[^key-dbe2a2e3557e6545c2dfbc9b3efaec66]: Commencement: Reg. 4 in force at 5.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/327/regulation/1/1)
+[^c-dbe2a2e3557e6545c2dfbc9b3efaec66]: Commencement: Reg. 4 in force at 5.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/327/regulation/1/1)
 
-[^key-c8128a4cbf015fdabdc51415fb01e7be]: Commencement: Reg. 5 in force at 5.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/327/regulation/1/1)
+[^c-c8128a4cbf015fdabdc51415fb01e7be]: Commencement: Reg. 5 in force at 5.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/327/regulation/1/1)
 
-[^key-b6b9bd670dee628ed5a3f11da00f31b3]: Commencement: Reg. 6 in force at 5.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/327/regulation/1/1)
+[^c-b6b9bd670dee628ed5a3f11da00f31b3]: Commencement: Reg. 6 in force at 5.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/327/regulation/1/1)
 
-[^key-fe0f8f51091a8f03a634e9d923a16f85]: Commencement: Sch. in force at 5.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/327/regulation/1/1)
+[^c-fe0f8f51091a8f03a634e9d923a16f85]: Commencement: Sch. in force at 5.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/327/regulation/1/1)
 
-[^key-53a78fa0add2afa4bbc7c2a9b9757910]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule) substituted (11.11.2022) by [The Non-Domestic Rates (Scotland) Act 2020 (Commencement No. 2, Transitional and Saving Provisions) Amendment (No. 2) Regulations 2022 (S.S.I. 2022/301)](https://www.legislation.gov.uk/ssi/2022/301), [regs. 1](https://www.legislation.gov.uk/ssi/2022/301/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/ssi/2022/301/regulation/2/4/a)
+[^c-53a78fa0add2afa4bbc7c2a9b9757910]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule) substituted (11.11.2022) by [The Non-Domestic Rates (Scotland) Act 2020 (Commencement No. 2, Transitional and Saving Provisions) Amendment (No. 2) Regulations 2022 (S.S.I. 2022/301)](https://www.legislation.gov.uk/ssi/2022/301), [regs. 1](https://www.legislation.gov.uk/ssi/2022/301/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/ssi/2022/301/regulation/2/4/a)
 
-[^key-4f43abea8106e57b0e672cad10dd78c7]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule) substituted (11.11.2022) by [The Non-Domestic Rates (Scotland) Act 2020 (Commencement No. 2, Transitional and Saving Provisions) Amendment (No. 2) Regulations 2022 (S.S.I. 2022/301)](https://www.legislation.gov.uk/ssi/2022/301), [regs. 1](https://www.legislation.gov.uk/ssi/2022/301/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/ssi/2022/301/regulation/2/4/b)
+[^c-4f43abea8106e57b0e672cad10dd78c7]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule) substituted (11.11.2022) by [The Non-Domestic Rates (Scotland) Act 2020 (Commencement No. 2, Transitional and Saving Provisions) Amendment (No. 2) Regulations 2022 (S.S.I. 2022/301)](https://www.legislation.gov.uk/ssi/2022/301), [regs. 1](https://www.legislation.gov.uk/ssi/2022/301/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/ssi/2022/301/regulation/2/4/b)
 
-[^key-f75843884c270a9c9fd2236cd8ce1792]: Textual amendment: Word in [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule) substituted (23.3.2021) by The Non-[Domestic Rates (Scotland) Act 2020 (Commencement No. 2, Transitional and Saving Provisions) Amendment Regulations 2021 (S.S.I. 2021/120)](https://www.legislation.gov.uk/ssi/2021/120), [regs. 1](https://www.legislation.gov.uk/ssi/2021/120/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2021/120/regulation/2/2)
+[^c-f75843884c270a9c9fd2236cd8ce1792]: Textual amendment: Word in [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule) substituted (23.3.2021) by The Non-[Domestic Rates (Scotland) Act 2020 (Commencement No. 2, Transitional and Saving Provisions) Amendment Regulations 2021 (S.S.I. 2021/120)](https://www.legislation.gov.uk/ssi/2021/120), [regs. 1](https://www.legislation.gov.uk/ssi/2021/120/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2021/120/regulation/2/2)

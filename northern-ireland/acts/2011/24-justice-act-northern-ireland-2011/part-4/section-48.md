@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 48. Information about banning orders[^key-7ec86a8d918018357c1b99f2fdf82083]
+## 48. Information about banning orders[^c-7ec86a8d918018357c1b99f2fdf82083]
 
 *Extent: N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7ec86a8d918018357c1b99f2fdf82083]: Commencement: [S. 48](https://www.legislation.gov.uk/nia/2011/24/section/48) in operation at 1.1.2012 by [S.R. 2011/370](https://www.legislation.gov.uk/nisr/2011/370), [art. 3(d)](https://www.legislation.gov.uk/nisr/2011/370/article/3/d)
+[^c-7ec86a8d918018357c1b99f2fdf82083]: Commencement: [S. 48](https://www.legislation.gov.uk/nia/2011/24/section/48) in operation at 1.1.2012 by [S.R. 2011/370](https://www.legislation.gov.uk/nisr/2011/370), [art. 3(d)](https://www.legislation.gov.uk/nisr/2011/370/article/3/d)

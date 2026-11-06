@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Statements of compliance[^key-633a9244255413b14eb3a423e56d1899][^key-af00356406731ac02ac036480069441c]
+## 15. Statements of compliance[^c-633a9244255413b14eb3a423e56d1899][^c-af00356406731ac02ac036480069441c]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-633a9244255413b14eb3a423e56d1899]: Commencement: S. 15 in force at Royal Assent for specified purposes, see [s. 79(1)(c)](https://www.legislation.gov.uk/ukpga/2022/46/section/79/1/c)
+[^c-633a9244255413b14eb3a423e56d1899]: Commencement: S. 15 in force at Royal Assent for specified purposes, see [s. 79(1)(c)](https://www.legislation.gov.uk/ukpga/2022/46/section/79/1/c)
 
-[^key-af00356406731ac02ac036480069441c]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2022/46/section/15) in force at 29.4.2024 in so far as not already in force by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)
+[^c-af00356406731ac02ac036480069441c]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2022/46/section/15) in force at 29.4.2024 in so far as not already in force by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)

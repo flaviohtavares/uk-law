@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Hatred on the grounds of sexual orientation[^c1931241][^key-407642ebdadb7c34f43ba4e130145c06]
+## 74. Hatred on the grounds of sexual orientation[^c1931241][^c-407642ebdadb7c34f43ba4e130145c06]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ Schedule 16—
 
 [^c1931241]: Commencement: S. 74 partly in force at Royal Assent, see s. 153(1)(j)(3)
 
-[^key-407642ebdadb7c34f43ba4e130145c06]: Commencement: S. 74 in force at 23.3.2010 in so far as not already in force by [S.I. 2010/712](https://www.legislation.gov.uk/uksi/2010/712), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/712/article/2/a)
+[^c-407642ebdadb7c34f43ba4e130145c06]: Commencement: S. 74 in force at 23.3.2010 in so far as not already in force by [S.I. 2010/712](https://www.legislation.gov.uk/uksi/2010/712), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/712/article/2/a)

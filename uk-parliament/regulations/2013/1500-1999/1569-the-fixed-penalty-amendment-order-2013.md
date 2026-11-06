@@ -48,13 +48,13 @@ The Secretary of State makes the following Order in exercise of the powers confe
 
 Representative organisations have been consulted in accordance with section 88(2) of that Act.
 
-## 1. Citation and commencement[^key-f45b5ff179ad95339f7de0165dba7c24]
+## 1. Citation and commencement[^c-f45b5ff179ad95339f7de0165dba7c24]
 
 (1) This Order may be cited as the Fixed Penalty (Amendment) Order 2013 and comes into force on the day after the day of making of an order entitled the Road Safety (Financial Penalty Deposit) (Appropriate Amount) (Amendment) Order 2013 contained in a draft instrument laid before Parliament on 5th June 2013.
 
 (2) This Order applies in relation to a fixed penalty offence alleged to have been committed on or after the day on which this Order comes into force.
 
-## 2. Amendment of the Fixed Penalty Order 2000[^key-c87d31eaf1b49228a0fd6f3cb742a3e0]
+## 2. Amendment of the Fixed Penalty Order 2000[^c-c87d31eaf1b49228a0fd6f3cb742a3e0]
 
 The table in Schedule 1 (fixed penalties) to the Fixed Penalty Order 2000[^f00002] is substituted with the following table[^f00003]—
 
@@ -95,9 +95,9 @@ The table in Schedule 1 (fixed penalties) to the Fixed Penalty Order 2000[^f0000
 </tbody>
 </table>
 
-[^key-41f03b37f2f609c3c73f0c09a6eb929e]
+[^c-41f03b37f2f609c3c73f0c09a6eb929e]
 
-## 3.[^key-5d598fabf12270ab6d59108b8074dbf0]
+## 3.[^c-5d598fabf12270ab6d59108b8074dbf0]
 
 (1) Schedule 2 (graduated fixed penalties) to the Fixed Penalty Order 2000 is amended as follows.
 
@@ -150,14 +150,14 @@ A full impact assessment of the effect this instrument will have on the costs fo
 
 [^f00001]: Footnote: [1988 c.53](https://www.legislation.gov.uk/ukpga/1988/53); section 53 was substituted by section 48 of, and paragraph 102 of Schedule 4 to, the Road Traffic Act [1991 (c.40)](https://www.legislation.gov.uk/ukpga/1991/40) and sub-section (2) was subsequently substituted by section 3 of the Road Safety Act [2006 (c.49)](https://www.legislation.gov.uk/ukpga/2006/49).
 
-[^key-f45b5ff179ad95339f7de0165dba7c24]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2013/1569/article/1) in force at 16.8.2013 in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1569/article/1/1)
+[^c-f45b5ff179ad95339f7de0165dba7c24]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2013/1569/article/1) in force at 16.8.2013 in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1569/article/1/1)
 
-[^key-c87d31eaf1b49228a0fd6f3cb742a3e0]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2013/1569/article/2) in force at 16.8.2013 in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1569/article/1/1)
+[^c-c87d31eaf1b49228a0fd6f3cb742a3e0]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2013/1569/article/2) in force at 16.8.2013 in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1569/article/1/1)
 
 [^f00002]: Footnote: [S.I. 2000/2792](https://www.legislation.gov.uk/uksi/2000/2792), amended by [SI 2003/1254](https://www.legislation.gov.uk/uksi/2003/1254), [2009/488](https://www.legislation.gov.uk/uksi/2009/488), [2009/1487](https://www.legislation.gov.uk/uksi/2009/1487) and [2010/2720](https://www.legislation.gov.uk/uksi/2010/2720); there are other amending instruments but none is relevant.
 
 [^f00003]: Footnote: The whole table in Schedule 1 to the Fixed Penalty Order 2000 was substituted by [S.I. 2003/1254](https://www.legislation.gov.uk/uksi/2003/1254). Items 7, 8 and 13 were inserted by [S.I. 2009/1487](https://www.legislation.gov.uk/uksi/2009/1487), items 11 and 12 were inserted by [S.I. 2010/2720](https://www.legislation.gov.uk/uksi/2010/2720) and items 14 to 26 were inserted by [S.I. 2009/488](https://www.legislation.gov.uk/uksi/2009/488).
 
-[^key-41f03b37f2f609c3c73f0c09a6eb929e]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2013/1569/article/2) table substituted (15.8.2013) by [The Fixed Penalty (Amendment) (No. 2) Order 2013 (S.I. 2013/1840)](https://www.legislation.gov.uk/uksi/2013/1840), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1840/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2013/1840/article/2/2)
+[^c-41f03b37f2f609c3c73f0c09a6eb929e]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2013/1569/article/2) table substituted (15.8.2013) by [The Fixed Penalty (Amendment) (No. 2) Order 2013 (S.I. 2013/1840)](https://www.legislation.gov.uk/uksi/2013/1840), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1840/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2013/1840/article/2/2)
 
-[^key-5d598fabf12270ab6d59108b8074dbf0]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2013/1569/article/3) in force at 16.8.2013 in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1569/article/1/1)
+[^c-5d598fabf12270ab6d59108b8074dbf0]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2013/1569/article/3) in force at 16.8.2013 in accordance with [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1569/article/1/1)

@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W+S*
 
-**18.**[^key-0c37e6aaeaa179c706758659f82f9e2f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-0c37e6aaeaa179c706758659f82f9e2f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0c37e6aaeaa179c706758659f82f9e2f]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/uksi/1988/1478/regulation/18) omitted (5.3.1997) by virtue of [The Goods Vehicles (Plating and Testing) (Amendment) (No. 2) Regulations 1997 (S.I. 1997/263)](https://www.legislation.gov.uk/uksi/1997/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1997/263/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/1997/263/regulation/9)
+[^c-0c37e6aaeaa179c706758659f82f9e2f]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/uksi/1988/1478/regulation/18) omitted (5.3.1997) by virtue of [The Goods Vehicles (Plating and Testing) (Amendment) (No. 2) Regulations 1997 (S.I. 1997/263)](https://www.legislation.gov.uk/uksi/1997/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1997/263/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/1997/263/regulation/9)

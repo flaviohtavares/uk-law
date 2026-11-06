@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Without prejudice to the generality of section 339(2) or 340(2), an order under either of those sections with respect to a transaction or preference entered into or given by an individual who is subsequently made[^key-1f81c01c4e52dd2c5ace50bdec63673c] bankrupt may (subject as follows)—
+(1) Without prejudice to the generality of section 339(2) or 340(2), an order under either of those sections with respect to a transaction or preference entered into or given by an individual who is subsequently made[^c-1f81c01c4e52dd2c5ace50bdec63673c] bankrupt may (subject as follows)—
 
 - (a) require any property transferred as part of the transaction, or in connection with the giving of the preference, to be vested in the trustee of the bankrupt’s estate as part of that estate;
 - (b) require any property to be so vested it if represents in any person’s hands the application either of the proceeds of sale of property so transferred or of money so transferred;
@@ -51,8 +51,8 @@ then, unless the contrary is shown, it shall be presumed for the purposes of par
 
 (5) For the purposes of subsection (2A)(a), a person has notice of the relevant proceedings if he has notice—
 
-- (a)[^key-10be2e3ac24715e54820274464661b56] of the fact that the bankruptcy application as a result of which, or (as the case may be) the bankruptcy petition on which, the individual in question is made bankrupt has been made or presented; or
-- (b) of the fact that the individual in question has been made[^key-8314044783952e449a561f01e0047640] bankrupt.
+- (a)[^c-10be2e3ac24715e54820274464661b56] of the fact that the bankruptcy application as a result of which, or (as the case may be) the bankruptcy petition on which, the individual in question is made bankrupt has been made or presented; or
+- (b) of the fact that the individual in question has been made[^c-8314044783952e449a561f01e0047640] bankrupt.
 
 (6) Section 249 in Part VII of this Act shall apply for the purposes of subsection (2A)(b) as it applies for the purposes of the first Group of Parts.
 
@@ -62,7 +62,7 @@ then, unless the contrary is shown, it shall be presumed for the purposes of par
 
     S. 342 applied (with modifications) (4.4.2006) by The Cross-[Border Insolvency Regulations 2006 (S.I. 2006/1030)](https://www.legislation.gov.uk/uksi/2006/1030), [reg. 2](https://www.legislation.gov.uk/uksi/2006/1030/regulation/2), {Sch. 1 Art. 23 paras. 2, 3}
 
-[^key-1f81c01c4e52dd2c5ace50bdec63673c]: Textual amendment: Word in s. 342(1) substituted (6.4.2016) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 19 para. 34(2)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/19/paragraph/34/2); [S.I. 2016/191](https://www.legislation.gov.uk/uksi/2016/191), [art. 2](https://www.legislation.gov.uk/uksi/2016/191/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/191/article/3))
+[^c-1f81c01c4e52dd2c5ace50bdec63673c]: Textual amendment: Word in s. 342(1) substituted (6.4.2016) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 19 para. 34(2)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/19/paragraph/34/2); [S.I. 2016/191](https://www.legislation.gov.uk/uksi/2016/191), [art. 2](https://www.legislation.gov.uk/uksi/2016/191/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/191/article/3))
 
 [^c15580541]: Textual amendment: Words in s. 342(2)(a)(b) substituted (26.7.1994) by [1994 c. 12](https://www.legislation.gov.uk/ukpga/1994/12), [ss. 2(1)](https://www.legislation.gov.uk/ukpga/1994/12/section/2/1), [5](https://www.legislation.gov.uk/ukpga/1994/12/section/5), [6(2)](https://www.legislation.gov.uk/ukpga/1994/12/section/6/2) (with ss. 5, 6(3)
 
@@ -70,6 +70,6 @@ then, unless the contrary is shown, it shall be presumed for the purposes of par
 
 [^c15580571]: Textual amendment: S. 342(4)-(6) substituted for s. 342(4) (26.7.1994) by [1994 c. 12](https://www.legislation.gov.uk/ukpga/1994/12), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/1994/12/section/2/3), [5](https://www.legislation.gov.uk/ukpga/1994/12/section/5), [6(2)](https://www.legislation.gov.uk/ukpga/1994/12/section/6/2) (with [ss. 5](https://www.legislation.gov.uk/ukpga/1994/12/section/5), [6(3)](https://www.legislation.gov.uk/ukpga/1994/12/section/6/3))
 
-[^key-10be2e3ac24715e54820274464661b56]: Textual amendment: S. 342(5)(a) substituted (6.4.2016) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 19 para. 34(3)(a)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/19/paragraph/34/3/a); [S.I. 2016/191](https://www.legislation.gov.uk/uksi/2016/191), [art. 2](https://www.legislation.gov.uk/uksi/2016/191/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/191/article/3))
+[^c-10be2e3ac24715e54820274464661b56]: Textual amendment: S. 342(5)(a) substituted (6.4.2016) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 19 para. 34(3)(a)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/19/paragraph/34/3/a); [S.I. 2016/191](https://www.legislation.gov.uk/uksi/2016/191), [art. 2](https://www.legislation.gov.uk/uksi/2016/191/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/191/article/3))
 
-[^key-8314044783952e449a561f01e0047640]: Textual amendment: Word in s. 342(5)(b) substituted (6.4.2016) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 19 para. 34(3)(b)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/19/paragraph/34/3/b); [S.I. 2016/191](https://www.legislation.gov.uk/uksi/2016/191), [art. 2](https://www.legislation.gov.uk/uksi/2016/191/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/191/article/3))
+[^c-8314044783952e449a561f01e0047640]: Textual amendment: Word in s. 342(5)(b) substituted (6.4.2016) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 19 para. 34(3)(b)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/19/paragraph/34/3/b); [S.I. 2016/191](https://www.legislation.gov.uk/uksi/2016/191), [art. 2](https://www.legislation.gov.uk/uksi/2016/191/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/191/article/3))

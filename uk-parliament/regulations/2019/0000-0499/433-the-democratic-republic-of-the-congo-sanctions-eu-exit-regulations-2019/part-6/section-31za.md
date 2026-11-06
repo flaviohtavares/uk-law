@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31ZA. Finance: humanitarian exception[^key-1058e23facd024e9c6a65fbf7954a066]
+## 31ZA. Finance: humanitarian exception[^c-1058e23facd024e9c6a65fbf7954a066]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ where Conditions A and B are met.
 
 ## Annotations
 
-[^key-1058e23facd024e9c6a65fbf7954a066]: Textual amendment: Reg. 31ZA inserted (9.2.2023) by [The Sanctions (Humanitarian Exception) (Amendment) Regulations 2023 (S.I. 2023/121)](https://www.legislation.gov.uk/uksi/2023/121), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/121/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2023/121/regulation/3/2)
+[^c-1058e23facd024e9c6a65fbf7954a066]: Textual amendment: Reg. 31ZA inserted (9.2.2023) by [The Sanctions (Humanitarian Exception) (Amendment) Regulations 2023 (S.I. 2023/121)](https://www.legislation.gov.uk/uksi/2023/121), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/121/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2023/121/regulation/3/2)

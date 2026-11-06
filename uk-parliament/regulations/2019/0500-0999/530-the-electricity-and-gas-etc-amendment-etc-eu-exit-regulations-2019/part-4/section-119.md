@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 119.[^key-55fd117682bb2df82fbe1b834f5936c9]
+## 119.[^c-55fd117682bb2df82fbe1b834f5936c9]
 
 *Extent: E+W+S+N.I.*
 
@@ -70,4 +70,4 @@ For Article 10AA (licensing and energy efficiency) substitute—
 
 ## Annotations
 
-[^key-55fd117682bb2df82fbe1b834f5936c9]: Commencement: Reg. 119 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-55fd117682bb2df82fbe1b834f5936c9]: Commencement: Reg. 119 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)

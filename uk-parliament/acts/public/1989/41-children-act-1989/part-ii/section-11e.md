@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11E. ...Activity directions and conditions: making[^c18897321][^key-e0f7b6e2804201d131fc6ffef9d7d5d2]
+## 11E. ...Activity directions and conditions: making[^c18897321][^c-e0f7b6e2804201d131fc6ffef9d7d5d2]
 
 *Extent: E+W*
 
-(1) Before making an activity[^key-800fe4b09ba3735c9753c3c8bf8efca1] direction (or imposing an activity condition by means of a child arrangements order[^key-a7bff74fc02a4f326bfddc994e6c225d] ), the court must satisfy itself as to the matters falling within subsections (2) to (4).
+(1) Before making an activity[^c-800fe4b09ba3735c9753c3c8bf8efca1] direction (or imposing an activity condition by means of a child arrangements order[^c-a7bff74fc02a4f326bfddc994e6c225d] ), the court must satisfy itself as to the matters falling within subsections (2) to (4).
 
 (2) The first matter is that the activity proposed to be specified is appropriate in the circumstances of the case.
 
@@ -37,16 +37,16 @@ summary: ''
 
 (7) The court may ask an officer of the Service or a Welsh family proceedings officer to provide the court with information as to the matters in subsections (2) to (5); and it shall be the duty of the officer of the Service or Welsh family proceedings officer to comply with any such request.
 
-(8) In this section “ **specified** ” means specified in an[^key-b83a1001a123c68d360b70f0e0687ce0] activity direction (or in an activity condition).
+(8) In this section “ **specified** ” means specified in an[^c-b83a1001a123c68d360b70f0e0687ce0] activity direction (or in an activity condition).
 
 ## Annotations
 
 [^c18897321]: Textual amendment: S. 11E inserted (7.11.2008) by [Children and Adoption Act 2006 (c. 20)](https://www.legislation.gov.uk/ukpga/2006/20), [ss. 1](https://www.legislation.gov.uk/ukpga/2006/20/section/1), [17](https://www.legislation.gov.uk/ukpga/2006/20/section/17); [S.I. 2008/2870](https://www.legislation.gov.uk/uksi/2008/2870), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/2870/article/2/1)
 
-[^key-e0f7b6e2804201d131fc6ffef9d7d5d2]: Textual amendment: Word in s. 11E heading omitted (22.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 2 para. 11(4)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/11/4); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)
+[^c-e0f7b6e2804201d131fc6ffef9d7d5d2]: Textual amendment: Word in s. 11E heading omitted (22.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 2 para. 11(4)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/11/4); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)
 
-[^key-800fe4b09ba3735c9753c3c8bf8efca1]: Textual amendment: Words in s. 11E(1) substituted (22.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 2 para. 11(2)(a)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/11/2/a); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)
+[^c-800fe4b09ba3735c9753c3c8bf8efca1]: Textual amendment: Words in s. 11E(1) substituted (22.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 2 para. 11(2)(a)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/11/2/a); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)
 
-[^key-a7bff74fc02a4f326bfddc994e6c225d]: Textual amendment: Words in s. 11E(1) substituted (22.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 2 para. 11(2)(b)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/11/2/b); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)
+[^c-a7bff74fc02a4f326bfddc994e6c225d]: Textual amendment: Words in s. 11E(1) substituted (22.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 2 para. 11(2)(b)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/11/2/b); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)
 
-[^key-b83a1001a123c68d360b70f0e0687ce0]: Textual amendment: Word in s. 11E(8) substituted (22.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 2 para. 11(3)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/11/3); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)
+[^c-b83a1001a123c68d360b70f0e0687ce0]: Textual amendment: Word in s. 11E(8) substituted (22.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 2 para. 11(3)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/11/3); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)

@@ -30,17 +30,17 @@ summary: ''
 
 (3) The Secretary of State may by regulations provide that a scheme is not a qualifying scheme in relation to J if—
 
-- (a)[^key-bcfe0f262476308c3c2afaa5b94d4944] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (aa)[^key-72e12c8d65592a67f7a0c038a4005ea7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (ab)[^key-0658af06b0ef5557344c081b03f09813] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-bcfe0f262476308c3c2afaa5b94d4944] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (aa)[^c-72e12c8d65592a67f7a0c038a4005ea7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (ab)[^c-0658af06b0ef5557344c081b03f09813] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) while J is an active member, the contributions that must be paid to the scheme by, or on behalf or in respect of, J exceed a prescribed amount, or
 - (c) the scheme provides for average salary benefits to be provided to or in respect of J and contains prescribed features.
 
-(3A)[^key-c8ec32fcc882abc87f1ece659907e6e6] See also paragraphs 1(4) and 2(4) of Schedule 18 to the Pensions Act 2014, which confer power to make regulations providing for a scheme not to be a qualifying scheme in relation to a jobholder in certain circumstances.
+(3A)[^c-c8ec32fcc882abc87f1ece659907e6e6] See also paragraphs 1(4) and 2(4) of Schedule 18 to the Pensions Act 2014, which confer power to make regulations providing for a scheme not to be a qualifying scheme in relation to a jobholder in certain circumstances.
 
-(4)[^key-bac64eb998d352e6a462fc2d179aba80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-bac64eb998d352e6a462fc2d179aba80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-bac64eb998d352e6a462fc2d179aba80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-bac64eb998d352e6a462fc2d179aba80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -48,12 +48,12 @@ summary: ''
 
 [^c21681921]: Modification: S. 16(1)(b) excluded (1.7.2012) by The Occupational and Personal Pension Schemes (Automatic Enrolment) Regulations ([S.I. 2010/772](https://www.legislation.gov.uk/uksi/2010/772)), regs. 1(1) (as amended by [S.I. 2012/1257](https://www.legislation.gov.uk/uksi/2012/1257), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2012/1257/regulation/3/b)) and 47
 
-[^key-bcfe0f262476308c3c2afaa5b94d4944]: Textual amendment: S. 16(3)(a) omitted (11.9.2014) by virtue of [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(1)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/1), [Sch. 18 para. 11(2)](https://www.legislation.gov.uk/ukpga/2014/19/schedule/18/paragraph/11/2); [S.I. 2014/2377](https://www.legislation.gov.uk/uksi/2014/2377), [art. 2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/1/a/i)[(2)(k)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/2/k)
+[^c-bcfe0f262476308c3c2afaa5b94d4944]: Textual amendment: S. 16(3)(a) omitted (11.9.2014) by virtue of [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(1)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/1), [Sch. 18 para. 11(2)](https://www.legislation.gov.uk/ukpga/2014/19/schedule/18/paragraph/11/2); [S.I. 2014/2377](https://www.legislation.gov.uk/uksi/2014/2377), [art. 2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/1/a/i)[(2)(k)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/2/k)
 
-[^key-72e12c8d65592a67f7a0c038a4005ea7]: Textual amendment: S. 16(3)(aa) omitted (11.9.2014) by virtue of [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(1)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/1), [Sch. 18 para. 11(2)](https://www.legislation.gov.uk/ukpga/2014/19/schedule/18/paragraph/11/2); [S.I. 2014/2377](https://www.legislation.gov.uk/uksi/2014/2377), [art. 2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/1/a/i)[(2)(k)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/2/k)
+[^c-72e12c8d65592a67f7a0c038a4005ea7]: Textual amendment: S. 16(3)(aa) omitted (11.9.2014) by virtue of [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(1)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/1), [Sch. 18 para. 11(2)](https://www.legislation.gov.uk/ukpga/2014/19/schedule/18/paragraph/11/2); [S.I. 2014/2377](https://www.legislation.gov.uk/uksi/2014/2377), [art. 2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/1/a/i)[(2)(k)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/2/k)
 
-[^key-0658af06b0ef5557344c081b03f09813]: Textual amendment: S. 16(3)(ab) omitted (11.9.2014) by virtue of [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(1)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/1), [Sch. 18 para. 11(2)](https://www.legislation.gov.uk/ukpga/2014/19/schedule/18/paragraph/11/2); [S.I. 2014/2377](https://www.legislation.gov.uk/uksi/2014/2377), [art. 2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/1/a/i)[(2)(k)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/2/k)
+[^c-0658af06b0ef5557344c081b03f09813]: Textual amendment: S. 16(3)(ab) omitted (11.9.2014) by virtue of [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(1)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/1), [Sch. 18 para. 11(2)](https://www.legislation.gov.uk/ukpga/2014/19/schedule/18/paragraph/11/2); [S.I. 2014/2377](https://www.legislation.gov.uk/uksi/2014/2377), [art. 2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/1/a/i)[(2)(k)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/2/k)
 
-[^key-c8ec32fcc882abc87f1ece659907e6e6]: Textual amendment: S. 16(3A) inserted (11.9.2014) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(1)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/1), [Sch. 18 para. 11(3)](https://www.legislation.gov.uk/ukpga/2014/19/schedule/18/paragraph/11/3); [S.I. 2014/2377](https://www.legislation.gov.uk/uksi/2014/2377), [art. 2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/1/a/i)[(2)(k)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/2/k)
+[^c-c8ec32fcc882abc87f1ece659907e6e6]: Textual amendment: S. 16(3A) inserted (11.9.2014) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(1)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/1), [Sch. 18 para. 11(3)](https://www.legislation.gov.uk/ukpga/2014/19/schedule/18/paragraph/11/3); [S.I. 2014/2377](https://www.legislation.gov.uk/uksi/2014/2377), [art. 2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/1/a/i)[(2)(k)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/2/k)
 
-[^key-bac64eb998d352e6a462fc2d179aba80]: Textual amendment: S. 16(4)(5) omitted (11.9.2014) by virtue of [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(1)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/1), [Sch. 18 para. 11(4)](https://www.legislation.gov.uk/ukpga/2014/19/schedule/18/paragraph/11/4); [S.I. 2014/2377](https://www.legislation.gov.uk/uksi/2014/2377), [art. 2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/1/a/i)[(2)(k)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/2/k)
+[^c-bac64eb998d352e6a462fc2d179aba80]: Textual amendment: S. 16(4)(5) omitted (11.9.2014) by virtue of [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(1)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/1), [Sch. 18 para. 11(4)](https://www.legislation.gov.uk/ukpga/2014/19/schedule/18/paragraph/11/4); [S.I. 2014/2377](https://www.legislation.gov.uk/uksi/2014/2377), [art. 2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/1/a/i)[(2)(k)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/2/k)

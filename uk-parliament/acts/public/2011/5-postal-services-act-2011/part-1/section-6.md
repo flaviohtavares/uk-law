@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Meaning of “Post Office company”[^key-b8d407719c8c88884ffbf96d4f619d6b]
+## 6. Meaning of “Post Office company”[^c-b8d407719c8c88884ffbf96d4f619d6b]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b8d407719c8c88884ffbf96d4f619d6b]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2011/5/section/6) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-b8d407719c8c88884ffbf96d4f619d6b]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2011/5/section/6) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

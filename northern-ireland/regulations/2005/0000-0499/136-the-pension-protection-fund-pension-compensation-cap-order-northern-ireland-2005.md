@@ -31,7 +31,7 @@ summary: ''
 
 PENSIONS
 
-The Pension Protection Fund (Pension Compensation Cap) Order (Northern Ireland) 2005 (revoked)[^key-d82488020825bd0933ec8cec23a83bae]
+The Pension Protection Fund (Pension Compensation Cap) Order (Northern Ireland) 2005 (revoked)[^c-d82488020825bd0933ec8cec23a83bae]
 
 Made
 
@@ -41,22 +41,22 @@ Coming into operation
 
 6th April 2005
 
-[^key-d82488020825bd0933ec8cec23a83bae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d82488020825bd0933ec8cec23a83bae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-d82488020825bd0933ec8cec23a83bae]
+## 1. Citation and commencement[^c-d82488020825bd0933ec8cec23a83bae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. The compensation cap[^key-d82488020825bd0933ec8cec23a83bae]
+## 2. The compensation cap[^c-d82488020825bd0933ec8cec23a83bae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d82488020825bd0933ec8cec23a83bae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d82488020825bd0933ec8cec23a83bae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d82488020825bd0933ec8cec23a83bae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d82488020825bd0933ec8cec23a83bae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d82488020825bd0933ec8cec23a83bae]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2005/136) revoked (1.4.2006) by [The Pension Protection Fund (Pension Compensation Cap) Order (Northern Ireland) 2006 (S.R. 2006/50)](https://www.legislation.gov.uk/nisr/2006/50), [arts. 1](https://www.legislation.gov.uk/nisr/2006/50/article/1), [3](https://www.legislation.gov.uk/nisr/2006/50/article/3)
+[^c-d82488020825bd0933ec8cec23a83bae]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2005/136) revoked (1.4.2006) by [The Pension Protection Fund (Pension Compensation Cap) Order (Northern Ireland) 2006 (S.R. 2006/50)](https://www.legislation.gov.uk/nisr/2006/50), [arts. 1](https://www.legislation.gov.uk/nisr/2006/50/article/1), [3](https://www.legislation.gov.uk/nisr/2006/50/article/3)

@@ -39,7 +39,7 @@ Coming into operation in accordance with regulation 1
 
 The Department for Social Development, in exercise of the powers conferred by sections 107A(4)(b) to (7), 109(1)(d) and 177(2) and (4) of the Pension Schemes (Northern Ireland) Act 1993[^f00001] and Articles 41(1) and (6), 47(5) and (6), 49(2), (4) and (9)(b), 85(1), 86(1) and 166(1) to (3) of the Pensions (Northern Ireland) Order 1995[^f00002], and now vested in it[^f00003], and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-df01f7fc4b27ce736ba93540bfb802cc]
+## 1. Citation, commencement and interpretation[^c-df01f7fc4b27ce736ba93540bfb802cc]
 
 (1) These Regulations may be cited as the Occupational Pension Schemes (Administration and Audited Accounts) (Amendment) Regulations (Northern Ireland) 2005 and shall come into operation as follows—
 
@@ -62,19 +62,19 @@ The Department for Social Development, in exercise of the powers conferred by se
 
 (4) For the purposes of these Regulations and notwithstanding section 39(2) of the Interpretation Act (Northern Ireland) 1954, where a period of time is expressed to begin on, or to be reckoned from, a particular day, that day shall be included in the period.
 
-## 2. Amendment of the Occupational Pension Schemes (Requirement to obtain Audited Accounts and a Statement from the Auditor) Regulations[^key-6aa2fe1e884e71c61835fd0555bc8768][^key-481790952baff76ae2af262827560f06][^key-32e75a63e4fd386a202399442c12d34d]
+## 2. Amendment of the Occupational Pension Schemes (Requirement to obtain Audited Accounts and a Statement from the Auditor) Regulations[^c-6aa2fe1e884e71c61835fd0555bc8768][^c-481790952baff76ae2af262827560f06][^c-32e75a63e4fd386a202399442c12d34d]
 
-(1)[^key-481790952baff76ae2af262827560f06][^key-6aa2fe1e884e71c61835fd0555bc8768] The Occupational Pension Schemes (Requirement to obtain Audited Accounts and a Statement from the Auditor) Regulations (Northern Ireland) 1997[^f00006] shall be amended in accordance with paragraphs (2) to (5).
+(1)[^c-481790952baff76ae2af262827560f06][^c-6aa2fe1e884e71c61835fd0555bc8768] The Occupational Pension Schemes (Requirement to obtain Audited Accounts and a Statement from the Auditor) Regulations (Northern Ireland) 1997[^f00006] shall be amended in accordance with paragraphs (2) to (5).
 
-(2)[^key-481790952baff76ae2af262827560f06][^key-6aa2fe1e884e71c61835fd0555bc8768] In regulation 1(2) (interpretation) after the definition of “ear-marked scheme” there shall be inserted the following definition—
+(2)[^c-481790952baff76ae2af262827560f06][^c-6aa2fe1e884e71c61835fd0555bc8768] In regulation 1(2) (interpretation) after the definition of “ear-marked scheme” there shall be inserted the following definition—
 
 > - “group of companies” has the meaning given by section 71 of the Finance Act 2005[^f00007];
 
 .
 
-(3)[^key-481790952baff76ae2af262827560f06][^key-6aa2fe1e884e71c61835fd0555bc8768] In regulation 2 (requirement of trustees or managers to obtain documents)—
+(3)[^c-481790952baff76ae2af262827560f06][^c-6aa2fe1e884e71c61835fd0555bc8768] In regulation 2 (requirement of trustees or managers to obtain documents)—
 
-- (a)[^key-35dfb78cdd85159d633e1b304919f902] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-35dfb78cdd85159d633e1b304919f902] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) for paragraph (2) there shall be substituted the following paragraph—
 
   > (2) In the case of an ear-marked scheme, the requirements contained in paragraph (1)(a) shall not apply and the trustees or managers of such a scheme shall—
@@ -95,15 +95,15 @@ The Department for Social Development, in exercise of the powers conferred by se
   , and
 - (d) paragraph (4)[^f00009] shall be omitted.
 
-(4)[^key-481790952baff76ae2af262827560f06][^key-6aa2fe1e884e71c61835fd0555bc8768] In regulation 4(1)[^f00010] (form and content of the auditor’s statement) for sub-paragraph (a) there shall be substituted the following sub-paragraph—
+(4)[^c-481790952baff76ae2af262827560f06][^c-6aa2fe1e884e71c61835fd0555bc8768] In regulation 4(1)[^f00010] (form and content of the auditor’s statement) for sub-paragraph (a) there shall be substituted the following sub-paragraph—
 
 > - (a) a statement as to whether or not in his opinion contributions have in all material respects been paid at least in accordance with the schedule of contributions or payment schedule; and
 
 .
 
-(5)[^key-e3a37e17617ba6462eb9612f23a32663] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-e3a37e17617ba6462eb9612f23a32663] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Scheme Administration Regulations[^key-574cba1bba87714c5ff3f1f005c71ad4][^key-b2665587bb1a9422f77d8c01ae3e13ca][^key-816af3ff75bbbe6b83843576e03fb4b2]
+## 3. Amendment of the Scheme Administration Regulations[^c-574cba1bba87714c5ff3f1f005c71ad4][^c-b2665587bb1a9422f77d8c01ae3e13ca][^c-816af3ff75bbbe6b83843576e03fb4b2]
 
 (1) The Scheme Administration Regulations shall be amended in accordance with paragraphs (2) to (8).
 
@@ -180,7 +180,7 @@ The Department for Social Development, in exercise of the powers conferred by se
 
 .
 
-## 4. Further amendment of the Scheme Administration Regulations[^key-c9769479f22c2128b8c8d368974e2bab]
+## 4. Further amendment of the Scheme Administration Regulations[^c-c9769479f22c2128b8c8d368974e2bab]
 
 (1) The Scheme Administration Regulations shall be amended in accordance with paragraphs (2) to (8).
 
@@ -240,7 +240,7 @@ The Department for Social Development, in exercise of the powers conferred by se
 - (a) paragraphs (1) and (3)[^f00021] shall be omitted, and
 - (b) in paragraph (4)[^f00022] for “within a prescribed period” there shall be substituted “within a reasonable period”.
 
-## 5. Revocations[^key-bd8f5c353dfb28fc70f3f72cac03152d]
+## 5. Revocations[^c-bd8f5c353dfb28fc70f3f72cac03152d]
 
 The regulations specified in column (1) of the Schedule are revoked to the extent specified in column (3).
 
@@ -252,7 +252,7 @@ A senior officer of the
 
 Department for Social Development
 
-## SCHEDULE — Regulations revoked[^key-32caa3eff97bd3e84bfdbb3303518886]
+## SCHEDULE — Regulations revoked[^c-32caa3eff97bd3e84bfdbb3303518886]
 
 Regulation 5
 
@@ -297,23 +297,23 @@ Article 246 of the Order, which amends some of the enabling provisions under whi
 
 [^f00003]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-df01f7fc4b27ce736ba93540bfb802cc]: Commencement: Reg. 1 in operation at 22.9.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/421/regulation/1/1/a)
+[^c-df01f7fc4b27ce736ba93540bfb802cc]: Commencement: Reg. 1 in operation at 22.9.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/421/regulation/1/1/a)
 
 [^f00004]: Footnote: [S.R. 1997 No. 94](https://www.legislation.gov.uk/nisr/1997/94); relevant amending regulations are [S.R. 1997 No. 160](https://www.legislation.gov.uk/nisr/1997/160), [S.R. 1999 No. 486](https://www.legislation.gov.uk/nisr/1999/486) and [S.R. 2000 No. 69](https://www.legislation.gov.uk/nisr/2000/69)
 
 [^f00005]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-6aa2fe1e884e71c61835fd0555bc8768]: Commencement: Reg. 2(1)-(4) comes into force in accordance with reg. 1(1)(a)
+[^c-6aa2fe1e884e71c61835fd0555bc8768]: Commencement: Reg. 2(1)-(4) comes into force in accordance with reg. 1(1)(a)
 
-[^key-481790952baff76ae2af262827560f06]: Commencement: Reg. 2(1)-(4) in operation at 22.9.2005 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/421/regulation/1/1/b)
+[^c-481790952baff76ae2af262827560f06]: Commencement: Reg. 2(1)-(4) in operation at 22.9.2005 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/421/regulation/1/1/b)
 
-[^key-32e75a63e4fd386a202399442c12d34d]: Commencement: [Reg. 2(5)](https://www.legislation.gov.uk/nisr/2005/421/regulation/2/5) in operation at 6.4.2006 in so far as not already in operation, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/421/regulation/1/1/c)
+[^c-32e75a63e4fd386a202399442c12d34d]: Commencement: [Reg. 2(5)](https://www.legislation.gov.uk/nisr/2005/421/regulation/2/5) in operation at 6.4.2006 in so far as not already in operation, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/421/regulation/1/1/c)
 
 [^f00006]: Footnote: [S.R. 1997 No. 40](https://www.legislation.gov.uk/nisr/1997/40); relevant amending regulations are [S.R. 1997 No. 160](https://www.legislation.gov.uk/nisr/1997/160) and [S.R. 2000 Nos. 107](https://www.legislation.gov.uk/nisr/2000/107) and [382](https://www.legislation.gov.uk/nisr/2000/382)
 
 [^f00007]: Footnote: [2005 c. 7](https://www.legislation.gov.uk/ukpga/2005/7)
 
-[^key-35dfb78cdd85159d633e1b304919f902]: Textual amendment: [Reg. 2(3)(a)](https://www.legislation.gov.uk/nisr/2005/421/regulation/2/3/a) revoked (1.4.2016) by [The Occupational Pension Schemes (Requirement to obtain Audited Accounts and a Statement from the Auditor) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/141)](https://www.legislation.gov.uk/nisr/2016/141), [regs. 1](https://www.legislation.gov.uk/nisr/2016/141/regulation/1), [3(c)](https://www.legislation.gov.uk/nisr/2016/141/regulation/3/c)
+[^c-35dfb78cdd85159d633e1b304919f902]: Textual amendment: [Reg. 2(3)(a)](https://www.legislation.gov.uk/nisr/2005/421/regulation/2/3/a) revoked (1.4.2016) by [The Occupational Pension Schemes (Requirement to obtain Audited Accounts and a Statement from the Auditor) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/141)](https://www.legislation.gov.uk/nisr/2016/141), [regs. 1](https://www.legislation.gov.uk/nisr/2016/141/regulation/1), [3(c)](https://www.legislation.gov.uk/nisr/2016/141/regulation/3/c)
 
 [^f00008]: Footnote: Paragraph (2A) was inserted by regulation 8 of [S.R. 2000 No. 382](https://www.legislation.gov.uk/nisr/2000/382)
 
@@ -321,13 +321,13 @@ Article 246 of the Order, which amends some of the enabling provisions under whi
 
 [^f00010]: Footnote: Regulation 4 was amended by paragraph 14(3) of the Schedule to [S.R. 1997 No. 160](https://www.legislation.gov.uk/nisr/1997/160)
 
-[^key-e3a37e17617ba6462eb9612f23a32663]: Textual amendment: [Reg. 2(5)](https://www.legislation.gov.uk/nisr/2005/421/regulation/2/5) revoked (1.4.2016) by [The Occupational Pension Schemes (Requirement to obtain Audited Accounts and a Statement from the Auditor) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/141)](https://www.legislation.gov.uk/nisr/2016/141), [regs. 1](https://www.legislation.gov.uk/nisr/2016/141/regulation/1), [3(c)](https://www.legislation.gov.uk/nisr/2016/141/regulation/3/c)
+[^c-e3a37e17617ba6462eb9612f23a32663]: Textual amendment: [Reg. 2(5)](https://www.legislation.gov.uk/nisr/2005/421/regulation/2/5) revoked (1.4.2016) by [The Occupational Pension Schemes (Requirement to obtain Audited Accounts and a Statement from the Auditor) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/141)](https://www.legislation.gov.uk/nisr/2016/141), [regs. 1](https://www.legislation.gov.uk/nisr/2016/141/regulation/1), [3(c)](https://www.legislation.gov.uk/nisr/2016/141/regulation/3/c)
 
-[^key-574cba1bba87714c5ff3f1f005c71ad4]: Commencement: Reg. 3 comes into force in accordance with reg. 1(1)(a)
+[^c-574cba1bba87714c5ff3f1f005c71ad4]: Commencement: Reg. 3 comes into force in accordance with reg. 1(1)(a)
 
-[^key-b2665587bb1a9422f77d8c01ae3e13ca]: Commencement: Reg. 3 in operation at 22.9.2005 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/421/regulation/1/1/b)
+[^c-b2665587bb1a9422f77d8c01ae3e13ca]: Commencement: Reg. 3 in operation at 22.9.2005 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/421/regulation/1/1/b)
 
-[^key-816af3ff75bbbe6b83843576e03fb4b2]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2005/421/regulation/3) in operation at 6.4.2006 in so far as not already in operation, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/421/regulation/1/1/c)
+[^c-816af3ff75bbbe6b83843576e03fb4b2]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2005/421/regulation/3) in operation at 6.4.2006 in so far as not already in operation, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/421/regulation/1/1/c)
 
 [^f00012]: Footnote: Sub-paragraph (h) was amended and sub-paragraph (hh) was inserted by paragraph 16(3) of the Schedule to [S.R. 1997 No. 160](https://www.legislation.gov.uk/nisr/1997/160)
 
@@ -337,7 +337,7 @@ Article 246 of the Order, which amends some of the enabling provisions under whi
 
 [^f00015]: Footnote: Regulation 17 was amended by paragraph 16(5) of the Schedule to [S.R. 1997 No. 160](https://www.legislation.gov.uk/nisr/1997/160)
 
-[^key-c9769479f22c2128b8c8d368974e2bab]: Commencement: Reg. 4 in operation at 6.4.2006, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/421/regulation/1/1/c)
+[^c-c9769479f22c2128b8c8d368974e2bab]: Commencement: Reg. 4 in operation at 6.4.2006, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/421/regulation/1/1/c)
 
 [^f00016]: Footnote: The definition of “relevant ear-marked scheme” was inserted by paragraph 16(2)(b) of the Schedule to S.R. No. [1997 No. 160](https://www.legislation.gov.uk/nisr/1997/160)
 
@@ -353,6 +353,6 @@ Article 246 of the Order, which amends some of the enabling provisions under whi
 
 [^f00022]: Footnote: Paragraph (4) was added by regulation 2(4) of [S.R. 2000 No. 69](https://www.legislation.gov.uk/nisr/2000/69)
 
-[^key-bd8f5c353dfb28fc70f3f72cac03152d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2005/421/regulation/5) in operation at 6.4.2006, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/421/regulation/1/1/c)
+[^c-bd8f5c353dfb28fc70f3f72cac03152d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2005/421/regulation/5) in operation at 6.4.2006, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/421/regulation/1/1/c)
 
-[^key-32caa3eff97bd3e84bfdbb3303518886]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2005/421/schedule) in operation at 6.4.2006, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/421/regulation/1/1/c)
+[^c-32caa3eff97bd3e84bfdbb3303518886]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2005/421/schedule) in operation at 6.4.2006, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/421/regulation/1/1/c)

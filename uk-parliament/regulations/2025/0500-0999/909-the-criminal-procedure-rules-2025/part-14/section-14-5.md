@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14.5. Prosecutor’s representations about bail[^key-6c99ba0fd278a9c4b55959bad445a97f]
+## 14.5. Prosecutor’s representations about bail[^c-6c99ba0fd278a9c4b55959bad445a97f]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6c99ba0fd278a9c4b55959bad445a97f]: Commencement: [Rule 14.5](https://www.legislation.gov.uk/uksi/2025/909/rule/14.5) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-6c99ba0fd278a9c4b55959bad445a97f]: Commencement: [Rule 14.5](https://www.legislation.gov.uk/uksi/2025/909/rule/14.5) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 27. Functions of area medical committee[^key-459300baff012149d5e6cda0c55e9f44]
+## 27. Functions of area medical committee[^c-459300baff012149d5e6cda0c55e9f44]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-459300baff012149d5e6cda0c55e9f44]: Commencement: Reg. 27 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-459300baff012149d5e6cda0c55e9f44]: Commencement: Reg. 27 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)

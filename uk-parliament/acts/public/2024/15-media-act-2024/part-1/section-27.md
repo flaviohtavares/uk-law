@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Further amendments relating to public service television[^key-7abcc205f8bb7d58bb337b807f6fdf5d][^key-db0b826062746bc32bd645c2d3b79185]
+## 27. Further amendments relating to public service television[^c-7abcc205f8bb7d58bb337b807f6fdf5d][^c-db0b826062746bc32bd645c2d3b79185]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Schedule 2 contains further amendments relating to this Part.
 
 ## Annotations
 
-[^key-7abcc205f8bb7d58bb337b807f6fdf5d]: Commencement: S. 27 not in force at Royal Assent, see [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a)
+[^c-7abcc205f8bb7d58bb337b807f6fdf5d]: Commencement: S. 27 not in force at Royal Assent, see [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a)
 
-[^key-db0b826062746bc32bd645c2d3b79185]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2024/15/section/27) in force at 23.8.2024 by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/g)
+[^c-db0b826062746bc32bd645c2d3b79185]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2024/15/section/27) in force at 23.8.2024 by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/g)

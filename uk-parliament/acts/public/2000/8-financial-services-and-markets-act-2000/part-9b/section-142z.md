@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 142Z. Affirmative procedure in relation to certain orders under Part 9B[^key-515367dab7cbebca7f7219bdee427297]
+## 142Z. Affirmative procedure in relation to certain orders under Part 9B[^c-515367dab7cbebca7f7219bdee427297]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-515367dab7cbebca7f7219bdee427297]: Textual amendment: Pt. 9B inserted (1.3.2014 for the insertion of ss. 142A-142F, 142I, 142W-142Z1 for specified purposes, 21.4.2016 for the insertion of s. 142H, 1.1.2019 in so far as not already in force) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [ss. 4(1)](https://www.legislation.gov.uk/ukpga/2013/33/section/4/1), [148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5); [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/2); [S.I. 2016/512](https://www.legislation.gov.uk/uksi/2016/512), [art. 2(a)](https://www.legislation.gov.uk/uksi/2016/512/article/2/a); [S.I. 2018/1306](https://www.legislation.gov.uk/uksi/2018/1306), [art. 2(d)](https://www.legislation.gov.uk/uksi/2018/1306/article/2/d)
+[^c-515367dab7cbebca7f7219bdee427297]: Textual amendment: Pt. 9B inserted (1.3.2014 for the insertion of ss. 142A-142F, 142I, 142W-142Z1 for specified purposes, 21.4.2016 for the insertion of s. 142H, 1.1.2019 in so far as not already in force) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [ss. 4(1)](https://www.legislation.gov.uk/ukpga/2013/33/section/4/1), [148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5); [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/2); [S.I. 2016/512](https://www.legislation.gov.uk/uksi/2016/512), [art. 2(a)](https://www.legislation.gov.uk/uksi/2016/512/article/2/a); [S.I. 2018/1306](https://www.legislation.gov.uk/uksi/2018/1306), [art. 2(d)](https://www.legislation.gov.uk/uksi/2018/1306/article/2/d)

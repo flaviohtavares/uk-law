@@ -40,72 +40,72 @@ amending Decision 2008/294/EC to include additional access technologies and freq
 
 (2013/654/EU) (revoked)
 
-[^key-f67fcc05e3f8b3aacbe50e93ce6fb6c2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f67fcc05e3f8b3aacbe50e93ce6fb6c2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-f67fcc05e3f8b3aacbe50e93ce6fb6c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-f67fcc05e3f8b3aacbe50e93ce6fb6c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-f67fcc05e3f8b3aacbe50e93ce6fb6c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-f67fcc05e3f8b3aacbe50e93ce6fb6c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-f67fcc05e3f8b3aacbe50e93ce6fb6c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-f67fcc05e3f8b3aacbe50e93ce6fb6c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-f67fcc05e3f8b3aacbe50e93ce6fb6c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-f67fcc05e3f8b3aacbe50e93ce6fb6c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-f67fcc05e3f8b3aacbe50e93ce6fb6c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-f67fcc05e3f8b3aacbe50e93ce6fb6c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-f67fcc05e3f8b3aacbe50e93ce6fb6c2]
+## ANNEX[^c-f67fcc05e3f8b3aacbe50e93ce6fb6c2]
 
-[^key-f67fcc05e3f8b3aacbe50e93ce6fb6c2]1.
+[^c-f67fcc05e3f8b3aacbe50e93ce6fb6c2]1.
 
 FREQUENCY BANDS AND SYSTEMS ALLOWED FOR MCA SERVICES
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f67fcc05e3f8b3aacbe50e93ce6fb6c2]2.
+[^c-f67fcc05e3f8b3aacbe50e93ce6fb6c2]2.
 
 PREVENTION OF CONNECTION OF MOBILE TERMINALS TO GROUND NETWORKS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f67fcc05e3f8b3aacbe50e93ce6fb6c2]3.
+[^c-f67fcc05e3f8b3aacbe50e93ce6fb6c2]3.
 
 TECHNICAL PARAMETERS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f67fcc05e3f8b3aacbe50e93ce6fb6c2](a)
+[^c-f67fcc05e3f8b3aacbe50e93ce6fb6c2](a)
 
 **Equivalent isotropic radiated power (e.i.r.p.), outside the aircraft, from the NCU/aircraft BTS**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f67fcc05e3f8b3aacbe50e93ce6fb6c2](b)
+[^c-f67fcc05e3f8b3aacbe50e93ce6fb6c2](b)
 
 **Equivalent isotropic radiated power (e.i.r.p.), outside the aircraft, from the onboard terminal**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f67fcc05e3f8b3aacbe50e93ce6fb6c2](c)
+[^c-f67fcc05e3f8b3aacbe50e93ce6fb6c2](c)
 
 **Operational requirements**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f67fcc05e3f8b3aacbe50e93ce6fb6c2]I.
+[^c-f67fcc05e3f8b3aacbe50e93ce6fb6c2]I.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f67fcc05e3f8b3aacbe50e93ce6fb6c2]II.
+[^c-f67fcc05e3f8b3aacbe50e93ce6fb6c2]II.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f67fcc05e3f8b3aacbe50e93ce6fb6c2]III.
+[^c-f67fcc05e3f8b3aacbe50e93ce6fb6c2]III.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f67fcc05e3f8b3aacbe50e93ce6fb6c2]IV.
+[^c-f67fcc05e3f8b3aacbe50e93ce6fb6c2]IV.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f67fcc05e3f8b3aacbe50e93ce6fb6c2]: Textual amendment: Decision revoked (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [Sch. 2 para. 30](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/30); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f67fcc05e3f8b3aacbe50e93ce6fb6c2]: Textual amendment: Decision revoked (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [Sch. 2 para. 30](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/30); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

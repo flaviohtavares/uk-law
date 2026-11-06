@@ -32,7 +32,7 @@ summary: ''
 
 Food
 
-The Natural Mineral Water, Spring Water and Bottled Drinking Water (Amendment) (No.2) Regulations (Northern Ireland) 2010 (revoked)[^key-dc37b02590dc580e9ab18fab60d0bf5f]
+The Natural Mineral Water, Spring Water and Bottled Drinking Water (Amendment) (No.2) Regulations (Northern Ireland) 2010 (revoked)[^c-dc37b02590dc580e9ab18fab60d0bf5f]
 
 Made
 
@@ -42,24 +42,24 @@ Coming into operation
 
 8th April 2010
 
-[^key-dc37b02590dc580e9ab18fab60d0bf5f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dc37b02590dc580e9ab18fab60d0bf5f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-dc37b02590dc580e9ab18fab60d0bf5f]
+## 1. Citation and commencement[^c-dc37b02590dc580e9ab18fab60d0bf5f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Natural Mineral Water, Spring Water and Bottled Drinking Water (Amendment) Regulations (Northern Ireland) 2010[^key-dc37b02590dc580e9ab18fab60d0bf5f]
+## 2. Amendment of the Natural Mineral Water, Spring Water and Bottled Drinking Water (Amendment) Regulations (Northern Ireland) 2010[^c-dc37b02590dc580e9ab18fab60d0bf5f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-dc37b02590dc580e9ab18fab60d0bf5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-dc37b02590dc580e9ab18fab60d0bf5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dc37b02590dc580e9ab18fab60d0bf5f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dc37b02590dc580e9ab18fab60d0bf5f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dc37b02590dc580e9ab18fab60d0bf5f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dc37b02590dc580e9ab18fab60d0bf5f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-dc37b02590dc580e9ab18fab60d0bf5f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2010/127) revoked (28.11.2015) by [The Natural Mineral Water, Spring Water and Bottled Drinking Water Regulations (Northern Ireland) 2015 (S.R. 2015/365)](https://www.legislation.gov.uk/nisr/2015/365), [reg. 36(d)](https://www.legislation.gov.uk/nisr/2015/365/regulation/36/d) (with [reg. 35](https://www.legislation.gov.uk/nisr/2015/365/regulation/35))
+[^c-dc37b02590dc580e9ab18fab60d0bf5f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2010/127) revoked (28.11.2015) by [The Natural Mineral Water, Spring Water and Bottled Drinking Water Regulations (Northern Ireland) 2015 (S.R. 2015/365)](https://www.legislation.gov.uk/nisr/2015/365), [reg. 36(d)](https://www.legislation.gov.uk/nisr/2015/365/regulation/36/d) (with [reg. 35](https://www.legislation.gov.uk/nisr/2015/365/regulation/35))

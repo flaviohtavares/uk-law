@@ -22,11 +22,11 @@ summary: ''
 
 Regulation 3
 
-### 1. The Ecodesign for Energy-Related Products Regulations 2010[^key-07ec5b92485371642411feeec6a554b3]
+### 1. The Ecodesign for Energy-Related Products Regulations 2010[^c-07ec5b92485371642411feeec6a554b3]
 
 The Ecodesign for Energy-Related Products Regulations 2010 are amended as follows.
 
-### 2. Amendment to regulation 2[^key-5b5ad82d201e090689f4800169359c75]
+### 2. Amendment to regulation 2[^c-5b5ad82d201e090689f4800169359c75]
 
 (1) Regulation 2 (interpretation) is amended as follows.
 
@@ -39,9 +39,9 @@ The Ecodesign for Energy-Related Products Regulations 2010 are amended as follow
 > - “**authorised person**” means a person authorised by the market surveillance authority in accordance with regulation 12;
 > - “**authorised representative**” means—
 >   - (a) a person who—
->     - (i) immediately before IP completion day[^key-a7047683dfb59d9c8e710448f7c12d68] was established in the United Kingdom or an EEA state and was appointed by a manufacturer by written mandate to act on its behalf in relation to such tasks as are specified in the mandate with regard to the manufacturer's obligations under these Regulations, an implementing measure, or RAMS; and
+>     - (i) immediately before IP completion day[^c-a7047683dfb59d9c8e710448f7c12d68] was established in the United Kingdom or an EEA state and was appointed by a manufacturer by written mandate to act on its behalf in relation to such tasks as are specified in the mandate with regard to the manufacturer's obligations under these Regulations, an implementing measure, or RAMS; and
 >     - (ii) on or after IP completion day continues to be so established and appointed by the manufacturer to perform those tasks; or
->   - (b) a person who, on or after IP completion day, is established in Great Britain[^key-4818c9fae74b8bc0f899e54408e46cc1] and is appointed by a manufacturer by written mandate to act on its behalf in relation to such tasks as are specified in the mandate with regard to the manufacturer's obligations under these Regulations, an implementing measure, or RAMS;
+>   - (b) a person who, on or after IP completion day, is established in Great Britain[^c-4818c9fae74b8bc0f899e54408e46cc1] and is appointed by a manufacturer by written mandate to act on its behalf in relation to such tasks as are specified in the mandate with regard to the manufacturer's obligations under these Regulations, an implementing measure, or RAMS;
 > - “**companies qualifying as small or medium-sized**” means a company that qualifies as small under section 382 of the Companies Act 2006 [^c23633731] or as medium-sized under section 465 of that Act;
 > - “**components and sub-assemblies**” means parts which are intended to be incorporated into products and—
 >   - (a) which are not placed on the market or put into service as individual parts for end-users; or
@@ -66,20 +66,20 @@ The Ecodesign for Energy-Related Products Regulations 2010 are amended as follow
 >   - (a) by the approved body; or
 >   - (b) where instructed to do so by the approved body, by the manufacturer or the manufacturer's authorised representative;
 > - “**implementing measure**” means a measure made under the Directive before IP completion day, or regulations made under regulation 22 on or after IP completion day;
-> - “importer” means a person who—[^key-d97b03a02880455dd224566c6c264ce5]
+> - “importer” means a person who—[^c-d97b03a02880455dd224566c6c264ce5]
 >   - (a) is established in the United Kingdom and places a product from a country outside of the United Kingdom on the market; or
 >   - (b) is established in Northern Ireland and places a product on the market that has been supplied to them for distribution, consumption or use in the course of a commercial activity, whether in return for payment or free of charge, from an EEA state;
 > - “**life cycle**” means the consecutive and interlinked stages of a product from raw material use to final disposal;
-> - “make available on the market” means to supply a product for distribution or use on the market of Great Britain in the course of a commercial activity, whether in return for payment or free of charge;[^key-77043e2c1ed83e3a868311970c468905]
+> - “make available on the market” means to supply a product for distribution or use on the market of Great Britain in the course of a commercial activity, whether in return for payment or free of charge;[^c-77043e2c1ed83e3a868311970c468905]
 > - “**manufacturer**” means a person who—
 >   - (a) manufactures a product; or
 >   - (b) has a product designed or manufactured;
 >
 >   and markets that product under its name or trademark;
-> - “place on the market” except in regulation 20A, means the first making available of a product on the market of Great Britain[^key-d577a736889235dafe8eb954f078d8d6], and related expressions must be construed accordingly;
+> - “place on the market” except in regulation 20A, means the first making available of a product on the market of Great Britain[^c-d577a736889235dafe8eb954f078d8d6], and related expressions must be construed accordingly;
 > - “**product**” means an energy-related product;
 > - “**product design**” means the set of processes that transform legal, technical, safety, functional, market or other requirements to be met by a product into the technical specification for that product;
-> - “put into service” except in regulation 20A, means the first use of a product for its intended purpose on the Great Britain[^key-9f234646e2479b9a5e0c252b933aaa28] market, and related expressions must be construed accordingly;
+> - “put into service” except in regulation 20A, means the first use of a product for its intended purpose on the Great Britain[^c-9f234646e2479b9a5e0c252b933aaa28] market, and related expressions must be construed accordingly;
 > - “**RAMS**” means Regulation [(EC) No 765/2008](https://www.legislation.gov.uk/eur/2008/765) of the European Parliament and of the Council setting out the requirements for accreditation and market surveillance relating to the marketing of products and repealing Regulation EEC No 339/93;
 > - “**self-regulation**” includes voluntary agreements; and
 > - “**technical specification**” means, except in regulation 2A, a document that prescribes technical requirements to be fulfilled by a product, process, service or system.
@@ -98,7 +98,7 @@ The Ecodesign for Energy-Related Products Regulations 2010 are amended as follow
 
 .
 
-### 3. Insertion of regulation 2A[^key-db76b602c1d6f0f1e0a949564affaf32]
+### 3. Insertion of regulation 2A[^c-db76b602c1d6f0f1e0a949564affaf32]
 
 After regulation 2 (interpretation) insert—
 
@@ -143,11 +143,11 @@ After regulation 2 (interpretation) insert—
 
 .
 
-### 4. Amendment to Part 2[^key-5bd4315e60480a1f23329cc19e3bb802]
+### 4. Amendment to Part 2[^c-5bd4315e60480a1f23329cc19e3bb802]
 
 In the heading of Part 2, for “CE”, substitute “ UK ”.
 
-### 5. Amendment to regulation 3[^key-65b5470f48c9a4aefa4121b1d4157403]
+### 5. Amendment to regulation 3[^c-65b5470f48c9a4aefa4121b1d4157403]
 
 (1) Regulation 3 (restrictions on energy-related products) is amended as follows.
 
@@ -161,7 +161,7 @@ In the heading of Part 2, for “CE”, substitute “ UK ”.
 
 .
 
-### 6. Amendment to regulation 4[^key-8760f2aeebe82c71b02a42666557c1c4]
+### 6. Amendment to regulation 4[^c-8760f2aeebe82c71b02a42666557c1c4]
 
 (1) Regulation 4 (conformity assessments, declarations of conformity and the CE marking) is amended as follows.
 
@@ -173,7 +173,7 @@ In the heading of Part 2, for “CE”, substitute “ UK ”.
 
 (5) In paragraph (3), for “(CE marking)”, substitute “ (UK marking) ”.
 
-### 7. Amendment to regulation 7[^key-4b21e79533f645b8cfe4aed3a64f8c64]
+### 7. Amendment to regulation 7[^c-4b21e79533f645b8cfe4aed3a64f8c64]
 
 (1) Regulation 7 (presumption of conformity) is amended as follows.
 
@@ -187,19 +187,19 @@ In the heading of Part 2, for “CE”, substitute “ UK ”.
 
 (4) In paragraph (3), after “awarded a community eco-label” insert “ before IP completion day ”.
 
-### 8. Amendment to regulation 8[^key-3f2747a9ab1c83a3a0a258098595f790]
+### 8. Amendment to regulation 8[^c-3f2747a9ab1c83a3a0a258098595f790]
 
 In regulation 8 (misleading markings), for “CE”, substitute “ UK ”.
 
-### 9. Amendment to regulation 10[^key-b0e7160e87ea900a839d819fec3eb361]
+### 9. Amendment to regulation 10[^c-b0e7160e87ea900a839d819fec3eb361]
 
 Omit regulation 10(1) and (2).
 
-### 10. Amendment to Part 7[^key-4d13d9b415f68a065fc796eb4da10919]
+### 10. Amendment to Part 7[^c-4d13d9b415f68a065fc796eb4da10919]
 
 For the heading of Part 7 substitute— “ Revocations, review, transitional provision and obligations which are met by complying with obligations in the Directive ”.
 
-### 11. Insertion of regulations 20A and 20B[^key-a299ebe6be9a75cc795b533bf9df5761]
+### 11. Insertion of regulations 20A and 20B[^c-a299ebe6be9a75cc795b533bf9df5761]
 
 After regulation 20 (revocations) insert—
 
@@ -212,7 +212,7 @@ After regulation 20 (revocations) insert—
 >
 > (2) Subject to paragraph (3), where a product was placed on the market or put into service during the pre-exit period, despite the amendments made by Schedule 1 to the Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019, any obligation to which a person was subject under these Regulations as they had effect immediately before IP completion day, continues to have effect as it did immediately before IP completion day, in relation to that product.
 >
-> (3) Paragraph (2) does not apply to any obligation to take action outside Great Britain[^key-c36b46c239494648847495e66cc4ab76] in respect of that product.
+> (3) Paragraph (2) does not apply to any obligation to take action outside Great Britain[^c-c36b46c239494648847495e66cc4ab76] in respect of that product.
 >
 > (4) Where during the pre-exit period—
 >
@@ -284,7 +284,7 @@ After regulation 20 (revocations) insert—
 >
 > (8) Where there is no designated standard or part of a designated standard which corresponds exactly to a harmonised standard or part of a harmonised standard referred to in Article 10, paragraphs (2)(a)(ii), (4) and (6)(a)(ii) are to be treated as requiring the manufacturer to have carried out the conformity assessment procedure set out in Article 8.
 >
-> **20C. Expiry of regulation 20B[^key-c6a43321a46646a1d64ddb291f384fc3]**
+> **20C. Expiry of regulation 20B[^c-c6a43321a46646a1d64ddb291f384fc3]**
 >
 > (1) Subject to paragraph (2), regulation 20B ceases to have effect at the end of the period of 12 months beginning with IP completion day.
 >
@@ -311,7 +311,7 @@ After regulation 20 (revocations) insert—
 
 .
 
-### 12. Insertion of regulation 22[^key-f5c71c61b651ccec6c3d857857f0e2bd]
+### 12. Insertion of regulation 22[^c-f5c71c61b651ccec6c3d857857f0e2bd]
 
 After regulation 21, insert—
 
@@ -323,10 +323,10 @@ After regulation 21, insert—
 >
 > (2) The criteria referred to in paragraph (1) are that—
 >
-> - (a) the product, according to the most recently available figures and considering the quantities placed on the market or put into service, has a significant environmental impact within Great Britain[^key-bb338d2ee8edb99c074e4692d94d7e49]; and
+> - (a) the product, according to the most recently available figures and considering the quantities placed on the market or put into service, has a significant environmental impact within Great Britain[^c-bb338d2ee8edb99c074e4692d94d7e49]; and
 > - (b) the product presents significant potential for improvement in terms of its environmental impact without entailing excessive costs, taking into account in particular—
 >   - (i) the absence of other relevant legislation or failure of market forces to address the issue properly; and
->   - (ii) the existence of a wide disparity in the environmental performance of products available on the Great Britain[^key-f4fbb8b2bd36e78feaeb7010fa088140] market with equivalent functionality.
+>   - (ii) the existence of a wide disparity in the environmental performance of products available on the Great Britain[^c-f4fbb8b2bd36e78feaeb7010fa088140] market with equivalent functionality.
 >
 > (3) The Secretary of State must not make an implementing measure in respect of a product that is the subject of self-regulation where such self-regulation—
 >
@@ -371,7 +371,7 @@ After regulation 21, insert—
 >   - (iv) the installation requirements of the product where it has direct relevance to the product's environmental performance;
 >   - (v) where available, the designated standards that apply and if no designated standards apply, the measurement standards and measurement methods to be used;
 >   - (vi) requirements on information to be provided by manufacturers notably on the elements of the technical documentation which are needed to facilitate the checking of the compliance of the product with the implementing measure;
->   - (vii) the duration of the transitional period during which it is permitted to place on the market or put into service products which comply with legislation in force in Great Britain[^key-8e83b742587233a1efc0c0f274c1509c] before the coming into force of the implementing measure;
+>   - (vii) the duration of the transitional period during which it is permitted to place on the market or put into service products which comply with legislation in force in Great Britain[^c-8e83b742587233a1efc0c0f274c1509c] before the coming into force of the implementing measure;
 >   - (viii) the date for the evaluation and possible revision of the implementing measure, taking into account the speed of technological progress;
 > - (d) must specify the procedures for assessing the product's conformity with the implementing measure, including—
 >   - (i) the choice open to the manufacturer between the internal design control procedure set out in Part 1 of Schedule 1A and the management system procedure set out in Part 2 of that Schedule;
@@ -446,7 +446,7 @@ After regulation 21, insert—
 >   - (ii) in paragraph 5, in the second subparagraph, “Member States,” were omitted;
 >   - (iii) in paragraph 6, in the first subparagraph—
 >     - (aa) for “Commission services”, there were substituted “ Secretary of State ”;
->     - (bb) after “objectives”, there were inserted “ in the Great Britain[^key-94b569f9ddab441562415f21e4b550a2] context ”;
+>     - (bb) after “objectives”, there were inserted “ in the Great Britain[^c-94b569f9ddab441562415f21e4b550a2] context ”;
 >   - (iv) in paragraph 6, in the second subparagraph, the words from “It must” to the end were omitted; and
 >   - (v) in paragraph 8, for “the policy objectives of this Directive” there were substituted “ relevant ecodesign policy objectives ”.
 >
@@ -488,7 +488,7 @@ After regulation 21, insert—
 
 .
 
-### 13. Amendment to Schedule 1[^key-b28094082145854c84295c596396d271]
+### 13. Amendment to Schedule 1[^c-b28094082145854c84295c596396d271]
 
 (1) Schedule 1 (Declaration of Conformity) is amended as follows.
 
@@ -501,7 +501,7 @@ After regulation 21, insert—
 
   .
 
-### 14. Insertion of Schedule 1A[^key-bf4b20c0fcb156bd722e8ad4a08089de]
+### 14. Insertion of Schedule 1A[^c-bf4b20c0fcb156bd722e8ad4a08089de]
 
 After Schedule 1, insert—
 
@@ -544,7 +544,7 @@ After Schedule 1, insert—
 >
 > **3. The environmental product performance policy**
 >
-> (1) The manufacturer must, on request by the authorities of Great Britain[^key-270591be1cb7247708543748e6f487c5]—
+> (1) The manufacturer must, on request by the authorities of Great Britain[^c-270591be1cb7247708543748e6f487c5]—
 >
 > - (a) demonstrate conformity with the requirements of the applicable implementing measure; and
 > - (b) provide a framework for setting and reviewing environmental product performance objectives and indicators with a view to improving the overall environmental product performance.
@@ -594,7 +594,7 @@ After Schedule 1, insert—
 
 .
 
-### 15. Insertion of Schedule 1B[^key-51a5ceec37f74f301c41e5ad2ead4e49]
+### 15. Insertion of Schedule 1B[^c-51a5ceec37f74f301c41e5ad2ead4e49]
 
 After Schedule 1A (conformity assessment procedures) [^c23633791], insert—
 
@@ -743,7 +743,7 @@ After Schedule 1A (conformity assessment procedures) [^c23633791], insert—
 >
 > **PART 2 — Approved body requirements**
 >
-> **10.** (1) A conformity assessment body must be established in Great Britain[^key-38880e42bb9dde64d5de3505b24de548] and have legal personality.
+> **10.** (1) A conformity assessment body must be established in Great Britain[^c-38880e42bb9dde64d5de3505b24de548] and have legal personality.
 >
 > (2) A conformity assessment body must be a third party body independent of the organisation or the product it assesses. A body belonging to a business association or professional federation representing businesses involved in the design, manufacturing, provision, assembly, use or maintenance of products which it assesses, may, on condition that its independence and the absence of any conflict of interest are demonstrated, be considered such a body.
 >
@@ -831,7 +831,7 @@ After Schedule 1A (conformity assessment procedures) [^c23633791], insert—
 
 .
 
-### 16. Amendment to Schedule 3[^key-25f0f17335f6df71761c61224ad8ff5f]
+### 16. Amendment to Schedule 3[^c-25f0f17335f6df71761c61224ad8ff5f]
 
 In Schedule 3—
 
@@ -840,13 +840,13 @@ In Schedule 3—
 
 ## Annotations
 
-[^key-07ec5b92485371642411feeec6a554b3]: Commencement: Sch. 1 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-07ec5b92485371642411feeec6a554b3]: Commencement: Sch. 1 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-5b5ad82d201e090689f4800169359c75]: Commencement: Sch. 1 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-5b5ad82d201e090689f4800169359c75]: Commencement: Sch. 1 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-a7047683dfb59d9c8e710448f7c12d68]: Textual amendment: Words in Regulations substituted (31.12.2020 immediately before IP completion day) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1528/regulation/4)
+[^c-a7047683dfb59d9c8e710448f7c12d68]: Textual amendment: Words in Regulations substituted (31.12.2020 immediately before IP completion day) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1528/regulation/4)
 
-[^key-4818c9fae74b8bc0f899e54408e46cc1]: Textual amendment: Words in Sch. 1 para. 2(2) substituted (31.12.2020 immediately before IP completion day) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/6/3)[(4)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/6/4/a/i)
+[^c-4818c9fae74b8bc0f899e54408e46cc1]: Textual amendment: Words in Sch. 1 para. 2(2) substituted (31.12.2020 immediately before IP completion day) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/6/3)[(4)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/6/4/a/i)
 
 [^c23633731]: Marginal citation: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46) as amended by [S.I. 2013/3008](https://www.legislation.gov.uk/uksi/2013/3008) and [S.I. 2015/980](https://www.legislation.gov.uk/uksi/2015/980).
 
@@ -856,62 +856,62 @@ In Schedule 3—
 
 [^c23633761]: Marginal citation: For the purpose of any enactment, the UK marking is defined as the marking in the form published in accordance with RAMS.
 
-[^key-d97b03a02880455dd224566c6c264ce5]: Textual amendment: Words in Sch. 1 para. 2(2) substituted (31.12.2020 immediately before IP completion day) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/2), [7(a)(i)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/7/a/i)
+[^c-d97b03a02880455dd224566c6c264ce5]: Textual amendment: Words in Sch. 1 para. 2(2) substituted (31.12.2020 immediately before IP completion day) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/2), [7(a)(i)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/7/a/i)
 
-[^key-77043e2c1ed83e3a868311970c468905]: Textual amendment: Words in Sch. 1 para. 2(2) inserted (31.12.2020 immediately before IP completion day) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/2), [7(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/7/a/ii)
+[^c-77043e2c1ed83e3a868311970c468905]: Textual amendment: Words in Sch. 1 para. 2(2) inserted (31.12.2020 immediately before IP completion day) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/2), [7(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/7/a/ii)
 
-[^key-d577a736889235dafe8eb954f078d8d6]: Textual amendment: Words in Sch. 1 para. 2(2) substituted (31.12.2020 immediately before IP completion day) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/2), [7(a)(iii)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/7/a/iii)
+[^c-d577a736889235dafe8eb954f078d8d6]: Textual amendment: Words in Sch. 1 para. 2(2) substituted (31.12.2020 immediately before IP completion day) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/2), [7(a)(iii)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/7/a/iii)
 
-[^key-9f234646e2479b9a5e0c252b933aaa28]: Textual amendment: Words in Sch. 1 para. 2(2) substituted (31.12.2020 immediately before IP completion day) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/2), [6(1)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/6/1)[(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/6/2/a/i)
+[^c-9f234646e2479b9a5e0c252b933aaa28]: Textual amendment: Words in Sch. 1 para. 2(2) substituted (31.12.2020 immediately before IP completion day) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/2), [6(1)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/6/1)[(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/6/2/a/i)
 
-[^key-db76b602c1d6f0f1e0a949564affaf32]: Commencement: Sch. 1 para. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-db76b602c1d6f0f1e0a949564affaf32]: Commencement: Sch. 1 para. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-5bd4315e60480a1f23329cc19e3bb802]: Commencement: Sch. 1 para. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-5bd4315e60480a1f23329cc19e3bb802]: Commencement: Sch. 1 para. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-65b5470f48c9a4aefa4121b1d4157403]: Commencement: Sch. 1 para. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-65b5470f48c9a4aefa4121b1d4157403]: Commencement: Sch. 1 para. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-8760f2aeebe82c71b02a42666557c1c4]: Commencement: Sch. 1 para. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-8760f2aeebe82c71b02a42666557c1c4]: Commencement: Sch. 1 para. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-4b21e79533f645b8cfe4aed3a64f8c64]: Commencement: Sch. 1 para. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-4b21e79533f645b8cfe4aed3a64f8c64]: Commencement: Sch. 1 para. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-3f2747a9ab1c83a3a0a258098595f790]: Commencement: Sch. 1 para. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-3f2747a9ab1c83a3a0a258098595f790]: Commencement: Sch. 1 para. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-b0e7160e87ea900a839d819fec3eb361]: Commencement: Sch. 1 para. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-b0e7160e87ea900a839d819fec3eb361]: Commencement: Sch. 1 para. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-4d13d9b415f68a065fc796eb4da10919]: Commencement: Sch. 1 para. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-4d13d9b415f68a065fc796eb4da10919]: Commencement: Sch. 1 para. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-a299ebe6be9a75cc795b533bf9df5761]: Commencement: Sch. 1 para. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-a299ebe6be9a75cc795b533bf9df5761]: Commencement: Sch. 1 para. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-c36b46c239494648847495e66cc4ab76]: Textual amendment: Words in Sch. 1 para. 11 substituted (31.12.2020 immediately before IP completion day) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/6/3)[(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/6/4/a/ii)
+[^c-c36b46c239494648847495e66cc4ab76]: Textual amendment: Words in Sch. 1 para. 11 substituted (31.12.2020 immediately before IP completion day) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/6/3)[(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/6/4/a/ii)
 
-[^key-c6a43321a46646a1d64ddb291f384fc3]: Textual amendment: Words in Sch. 1 para. 11 inserted (31.12.2020 immediately before IP completion day) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/7/b)
+[^c-c6a43321a46646a1d64ddb291f384fc3]: Textual amendment: Words in Sch. 1 para. 11 inserted (31.12.2020 immediately before IP completion day) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/7/b)
 
-[^key-f5c71c61b651ccec6c3d857857f0e2bd]: Commencement: Sch. 1 para. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-f5c71c61b651ccec6c3d857857f0e2bd]: Commencement: Sch. 1 para. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-bb338d2ee8edb99c074e4692d94d7e49]: Textual amendment: Words in Sch. 1 para. 12 substituted (31.12.2020 immediately before IP completion day) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/6/3)[(4)(a)(iii)(aa)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/6/4/a/iii/aa)
+[^c-bb338d2ee8edb99c074e4692d94d7e49]: Textual amendment: Words in Sch. 1 para. 12 substituted (31.12.2020 immediately before IP completion day) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/6/3)[(4)(a)(iii)(aa)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/6/4/a/iii/aa)
 
-[^key-f4fbb8b2bd36e78feaeb7010fa088140]: Textual amendment: Words in Sch. 1 para. 12 substituted (31.12.2020 immediately before IP completion day) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/2), [6(1)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/6/1)[(2)(a)(ii)(aa)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/6/2/a/ii/aa)
+[^c-f4fbb8b2bd36e78feaeb7010fa088140]: Textual amendment: Words in Sch. 1 para. 12 substituted (31.12.2020 immediately before IP completion day) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/2), [6(1)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/6/1)[(2)(a)(ii)(aa)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/6/2/a/ii/aa)
 
-[^key-8e83b742587233a1efc0c0f274c1509c]: Textual amendment: Words in Sch. 1 para. 12 substituted (31.12.2020 immediately before IP completion day) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/6/3)[(4)(a)(iii)(bb)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/6/4/a/iii/bb)
+[^c-8e83b742587233a1efc0c0f274c1509c]: Textual amendment: Words in Sch. 1 para. 12 substituted (31.12.2020 immediately before IP completion day) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/6/3)[(4)(a)(iii)(bb)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/6/4/a/iii/bb)
 
 [^c23633771]: Marginal citation: [S.I. 2013/3113](https://www.legislation.gov.uk/uksi/2013/3113), amended by [S.I. 2014/1771](https://www.legislation.gov.uk/uksi/2014/1771), [S.I](https://www.legislation.gov.uk/uksi/2014/1771/section/I). 2015/1968, [S.I. 2016/738](https://www.legislation.gov.uk/uksi/2016/738), [S.I](https://www.legislation.gov.uk/uksi/2016/738/section/I). 2016/1154, [S.I. 2018/102](https://www.legislation.gov.uk/uksi/2018/102).
 
 [^c23633781]: Marginal citation: [S.I. 2012/3032](https://www.legislation.gov.uk/uksi/2012/3032), as amended by [S.I. 2018/942](https://www.legislation.gov.uk/uksi/2018/942).
 
-[^key-94b569f9ddab441562415f21e4b550a2]: Textual amendment: Words in Sch. 1 para. 12 substituted (31.12.2020 immediately before IP completion day) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/2), [6(1)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/6/1)[(2)(a)(ii)(bb)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/6/2/a/ii/bb)
+[^c-94b569f9ddab441562415f21e4b550a2]: Textual amendment: Words in Sch. 1 para. 12 substituted (31.12.2020 immediately before IP completion day) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/2), [6(1)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/6/1)[(2)(a)(ii)(bb)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/6/2/a/ii/bb)
 
-[^key-b28094082145854c84295c596396d271]: Commencement: Sch. 1 para. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-b28094082145854c84295c596396d271]: Commencement: Sch. 1 para. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-bf4b20c0fcb156bd722e8ad4a08089de]: Commencement: Sch. 1 para. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-bf4b20c0fcb156bd722e8ad4a08089de]: Commencement: Sch. 1 para. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-270591be1cb7247708543748e6f487c5]: Textual amendment: Words in Sch. 1 para. 14 substituted (31.12.2020 immediately before IP completion day) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/6/3)[(4)(a)(iv)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/6/4/a/iv)
+[^c-270591be1cb7247708543748e6f487c5]: Textual amendment: Words in Sch. 1 para. 14 substituted (31.12.2020 immediately before IP completion day) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/6/3)[(4)(a)(iv)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/6/4/a/iv)
 
-[^key-51a5ceec37f74f301c41e5ad2ead4e49]: Commencement: Sch. 1 para. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-51a5ceec37f74f301c41e5ad2ead4e49]: Commencement: Sch. 1 para. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23633791]: Marginal citation: As inserted by these Regulations.
 
 [^c23633801]: Marginal citation: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-38880e42bb9dde64d5de3505b24de548]: Textual amendment: Words in Sch. 1 para. 15 substituted (31.12.2020 immediately before IP completion day) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/6/3)[(4)(a)(v)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/6/4/a/v)
+[^c-38880e42bb9dde64d5de3505b24de548]: Textual amendment: Words in Sch. 1 para. 15 substituted (31.12.2020 immediately before IP completion day) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/6/3)[(4)(a)(v)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/6/4/a/v)
 
-[^key-25f0f17335f6df71761c61224ad8ff5f]: Commencement: Sch. 1 para. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-25f0f17335f6df71761c61224ad8ff5f]: Commencement: Sch. 1 para. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)

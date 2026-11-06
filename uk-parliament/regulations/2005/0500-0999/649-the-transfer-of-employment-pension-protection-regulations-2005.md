@@ -49,7 +49,7 @@ The Secretary of State for Work and Pensions, in exercise of the powers conferre
 
 (2) These Regulations apply in the case of a person (“**the employee**”) in relation to whom section 257 of the Act (conditions for pension protection) applies, that is to say a person who, in the circumstances described in subsection (1) of that section, ceases to be employed by the transferor of an undertaking or part of an undertaking and becomes employed by the transferee.
 
-(3)[^key-39df2914661c4ade33a91720f80afb7a] In these Regulations—
+(3)[^c-39df2914661c4ade33a91720f80afb7a] In these Regulations—
 
 - “the Act” means the Pensions Act 2004;
 - “remuneration period” means a period in respect of which the employee is paid remuneration.
@@ -61,9 +61,9 @@ The Secretary of State for Work and Pensions, in exercise of the powers conferre
 
 (5) In calculating the amount of a transferee’s pension contributions for the purposes of these Regulations in the case of a scheme which is contracted-out by virtue of section 9 of the Pension Schemes Act 1993, minimum payments within the meaning of that Act shall be disregarded.
 
-## 2. Requirements where the transferee’s pension scheme is not a money purchase scheme[^key-80a6cee77126572890252a65659954ef]
+## 2. Requirements where the transferee’s pension scheme is not a money purchase scheme[^c-80a6cee77126572890252a65659954ef]
 
-(1) In a case where these Regulations apply, and the transferee is the employer in relation to a pension scheme which is not a money purchase scheme, that scheme complies with section 258(2)(c)[^key-424748c7b80a7b14ff54117d6d5fd08d] of the Act (alternative standard for a scheme which is not a money purchase scheme) if it provides either—
+(1) In a case where these Regulations apply, and the transferee is the employer in relation to a pension scheme which is not a money purchase scheme, that scheme complies with section 258(2)(c)[^c-424748c7b80a7b14ff54117d6d5fd08d] of the Act (alternative standard for a scheme which is not a money purchase scheme) if it provides either—
 
 - (a) for members to be entitled to benefits the value of which equals or exceeds 6 per cent. of pensionable pay for each year of employment together with the total amount of any contributions made by them, and, where members are required to make contributions to the scheme, for them to contribute at a rate which does not exceed 6 per cent. of their pensionable pay; or
 - (b) for the transferee to make relevant contributions to the scheme on behalf of each employee of his who is an active member of it.
@@ -71,13 +71,13 @@ The Secretary of State for Work and Pensions, in exercise of the powers conferre
 (2) In this regulation—
 
 - “**pensionable pay**” means that part of the remuneration payable to a member of a scheme by reference to which the amount of contributions and benefits are determined under the rules of the scheme.
-- “relevant contributions” means contributions—[^key-059ce9db3ba31e4596264fcecb9282b6]
+- “relevant contributions” means contributions—[^c-059ce9db3ba31e4596264fcecb9282b6]
   - (a) made by the transferee in respect of each remuneration period in respect of which the employee contributes to the scheme; and
   - (b) the amount of which is—
     - (i) where the employee’s contributions are less than 6 per cent. of the employee’s remuneration, not less than the contributions made by the employee; or
     - (ii) where the employee’s contributions equal or exceed 6 per cent. of the employee’s remuneration, not less than 6 per cent. of that remuneration.
 
-## 3. Requirements where the transferee’s pension scheme is a money purchase scheme or stakeholder pension scheme[^key-f1d5e430711647aa8b2ac8a00d63188c]
+## 3. Requirements where the transferee’s pension scheme is a money purchase scheme or stakeholder pension scheme[^c-f1d5e430711647aa8b2ac8a00d63188c]
 
 (1) In a case where these Regulations apply, the transferee’s contributions are relevant contributions for the purposes of subsection (2)(b) (money purchase scheme) and subsections to (5) (stakeholder pension scheme) of section 258 of the Act if—
 
@@ -128,12 +128,12 @@ An assessment of the impact on business, charities and the voluntary sector of t
 
 [^c1133767]: Marginal citation: See section 317(2)(c) of the Pensions Act 2004 which provides that the Secretary of State must consult such persons as he considers appropriate before making regulations by virtue of the provisions of that Act (other than Part 8). This duty does not apply where regulations are made before the end of six months beginning with the coming into force of the provisions of that Act by virtue of which the regulations are made.
 
-[^key-39df2914661c4ade33a91720f80afb7a]: Textual amendment: [Reg. 1(3)-(5)](https://www.legislation.gov.uk/uksi/2005/649/regulation/1/3) substituted for [reg. 1(3)](https://www.legislation.gov.uk/uksi/2005/649/regulation/1/3) (6.4.2014) by [The Occupational Pension Schemes (Miscellaneous Amendments) Regulations 2014 (S.I. 2014/540)](https://www.legislation.gov.uk/uksi/2014/540), [regs. 1](https://www.legislation.gov.uk/uksi/2014/540/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2014/540/regulation/4/2)
+[^c-39df2914661c4ade33a91720f80afb7a]: Textual amendment: [Reg. 1(3)-(5)](https://www.legislation.gov.uk/uksi/2005/649/regulation/1/3) substituted for [reg. 1(3)](https://www.legislation.gov.uk/uksi/2005/649/regulation/1/3) (6.4.2014) by [The Occupational Pension Schemes (Miscellaneous Amendments) Regulations 2014 (S.I. 2014/540)](https://www.legislation.gov.uk/uksi/2014/540), [regs. 1](https://www.legislation.gov.uk/uksi/2014/540/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2014/540/regulation/4/2)
 
-[^key-80a6cee77126572890252a65659954ef]: Textual amendment: Words in reg. 2 heading substituted (6.4.2014) by virtue of [The Occupational Pension Schemes (Miscellaneous Amendments) Regulations 2014 (S.I. 2014/540)](https://www.legislation.gov.uk/uksi/2014/540), [regs. 1](https://www.legislation.gov.uk/uksi/2014/540/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2014/540/regulation/4/3)
+[^c-80a6cee77126572890252a65659954ef]: Textual amendment: Words in reg. 2 heading substituted (6.4.2014) by virtue of [The Occupational Pension Schemes (Miscellaneous Amendments) Regulations 2014 (S.I. 2014/540)](https://www.legislation.gov.uk/uksi/2014/540), [regs. 1](https://www.legislation.gov.uk/uksi/2014/540/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2014/540/regulation/4/3)
 
-[^key-424748c7b80a7b14ff54117d6d5fd08d]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/649/regulation/2/1) substituted (6.4.2016) by [The Pensions Act 2014 (Abolition of Contracting-out for Salary Related Pension Schemes) (Consequential Amendments and Savings) Order 2016 (S.I. 2016/200)](https://www.legislation.gov.uk/uksi/2016/200), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/200/article/1/2), [21](https://www.legislation.gov.uk/uksi/2016/200/article/21)
+[^c-424748c7b80a7b14ff54117d6d5fd08d]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/649/regulation/2/1) substituted (6.4.2016) by [The Pensions Act 2014 (Abolition of Contracting-out for Salary Related Pension Schemes) (Consequential Amendments and Savings) Order 2016 (S.I. 2016/200)](https://www.legislation.gov.uk/uksi/2016/200), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/200/article/1/2), [21](https://www.legislation.gov.uk/uksi/2016/200/article/21)
 
-[^key-059ce9db3ba31e4596264fcecb9282b6]: Textual amendment: Words in reg. 2(2) added (6.4.2014) by [The Occupational Pension Schemes (Miscellaneous Amendments) Regulations 2014 (S.I. 2014/540)](https://www.legislation.gov.uk/uksi/2014/540), [regs. 1](https://www.legislation.gov.uk/uksi/2014/540/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2014/540/regulation/4/4)
+[^c-059ce9db3ba31e4596264fcecb9282b6]: Textual amendment: Words in reg. 2(2) added (6.4.2014) by [The Occupational Pension Schemes (Miscellaneous Amendments) Regulations 2014 (S.I. 2014/540)](https://www.legislation.gov.uk/uksi/2014/540), [regs. 1](https://www.legislation.gov.uk/uksi/2014/540/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2014/540/regulation/4/4)
 
-[^key-f1d5e430711647aa8b2ac8a00d63188c]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2005/649/regulation/3) substituted (6.4.2014) by [The Occupational Pension Schemes (Miscellaneous Amendments) Regulations 2014 (S.I. 2014/540)](https://www.legislation.gov.uk/uksi/2014/540), [regs. 1](https://www.legislation.gov.uk/uksi/2014/540/regulation/1), [4(5)](https://www.legislation.gov.uk/uksi/2014/540/regulation/4/5)
+[^c-f1d5e430711647aa8b2ac8a00d63188c]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2005/649/regulation/3) substituted (6.4.2014) by [The Occupational Pension Schemes (Miscellaneous Amendments) Regulations 2014 (S.I. 2014/540)](https://www.legislation.gov.uk/uksi/2014/540), [regs. 1](https://www.legislation.gov.uk/uksi/2014/540/regulation/1), [4(5)](https://www.legislation.gov.uk/uksi/2014/540/regulation/4/5)

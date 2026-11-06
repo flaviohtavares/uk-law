@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13. Inspection of vehicles[^key-3e9dad0c31539cd8782f687a7c24c072]
+## 13. Inspection of vehicles[^c-3e9dad0c31539cd8782f687a7c24c072]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ After section 65A of the 1981 Act there is inserted—
 
 ## Annotations
 
-[^key-3e9dad0c31539cd8782f687a7c24c072]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2006/11/section/13) in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
+[^c-3e9dad0c31539cd8782f687a7c24c072]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2006/11/section/13) in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)

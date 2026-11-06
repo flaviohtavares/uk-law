@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 13. Route plans[^key-cecabbe02305a3ef6aa6eca68e4c2682]
+## 13. Route plans[^c-cecabbe02305a3ef6aa6eca68e4c2682]
 
 *Extent: N.I.*
 
@@ -65,4 +65,4 @@ and shall send it within 15 days of completion of the journey to the Divisional 
 
 ## Annotations
 
-[^key-cecabbe02305a3ef6aa6eca68e4c2682]: Commencement: Art. 13 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
+[^c-cecabbe02305a3ef6aa6eca68e4c2682]: Commencement: Art. 13 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)

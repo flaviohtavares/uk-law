@@ -32,7 +32,7 @@ summary: ''
 
 AGRICULTURE, ENGLAND
 
-The Common Agricultural Policy Single Payment and Support Schemes (Cross-compliance) (England) (Amendment) Regulations 2006 (revoked)[^key-572887d3e26d055ac9a28563e47029da]
+The Common Agricultural Policy Single Payment and Support Schemes (Cross-compliance) (England) (Amendment) Regulations 2006 (revoked)[^c-572887d3e26d055ac9a28563e47029da]
 
 Made
 
@@ -46,52 +46,52 @@ Coming into force
 
 1st January 2007
 
-[^key-572887d3e26d055ac9a28563e47029da]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-572887d3e26d055ac9a28563e47029da]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-572887d3e26d055ac9a28563e47029da]
+## 1. Title and commencement[^c-572887d3e26d055ac9a28563e47029da]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Common Agricultural Policy Single Payment and Support Schemes (Cross-compliance) (England) Regulations 2005[^key-572887d3e26d055ac9a28563e47029da]
+## 2. Amendments to the Common Agricultural Policy Single Payment and Support Schemes (Cross-compliance) (England) Regulations 2005[^c-572887d3e26d055ac9a28563e47029da]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-572887d3e26d055ac9a28563e47029da]
+## 3.[^c-572887d3e26d055ac9a28563e47029da]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-572887d3e26d055ac9a28563e47029da]
+## 4.[^c-572887d3e26d055ac9a28563e47029da]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-572887d3e26d055ac9a28563e47029da]
+## 5.[^c-572887d3e26d055ac9a28563e47029da]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-572887d3e26d055ac9a28563e47029da]
+## 6.[^c-572887d3e26d055ac9a28563e47029da]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7.[^key-572887d3e26d055ac9a28563e47029da]
+## 7.[^c-572887d3e26d055ac9a28563e47029da]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8.[^key-572887d3e26d055ac9a28563e47029da]
+## 8.[^c-572887d3e26d055ac9a28563e47029da]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9.[^key-572887d3e26d055ac9a28563e47029da]
+## 9.[^c-572887d3e26d055ac9a28563e47029da]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-572887d3e26d055ac9a28563e47029da]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-572887d3e26d055ac9a28563e47029da]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-572887d3e26d055ac9a28563e47029da]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-572887d3e26d055ac9a28563e47029da]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-572887d3e26d055ac9a28563e47029da]: Textual amendment: Regulations revoked (1.1.2010) by [The Agriculture (Cross compliance) Regulations 2009 (S.I. 2009/3264)](https://www.legislation.gov.uk/uksi/2009/3264), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3264/regulation/1), [8](https://www.legislation.gov.uk/uksi/2009/3264/regulation/8), [Sch. 3](https://www.legislation.gov.uk/uksi/2009/3264/schedule/3)
+[^c-572887d3e26d055ac9a28563e47029da]: Textual amendment: Regulations revoked (1.1.2010) by [The Agriculture (Cross compliance) Regulations 2009 (S.I. 2009/3264)](https://www.legislation.gov.uk/uksi/2009/3264), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3264/regulation/1), [8](https://www.legislation.gov.uk/uksi/2009/3264/regulation/8), [Sch. 3](https://www.legislation.gov.uk/uksi/2009/3264/schedule/3)

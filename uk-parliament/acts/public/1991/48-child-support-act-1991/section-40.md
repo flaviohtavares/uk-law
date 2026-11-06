@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Commitment to prison.[^c21359261][^c21359271][^key-c779506ccb6ccf15fb4e7f23593d74aa][^key-03a2088f542854cc90c541d3eabaed37][^key-44e58b3fae62f9dc48cdde1f6fbc787c]
+## 40. Commitment to prison.[^c21359261][^c21359271][^c-c779506ccb6ccf15fb4e7f23593d74aa][^c-03a2088f542854cc90c541d3eabaed37][^c-44e58b3fae62f9dc48cdde1f6fbc787c]
 
 *Extent: E+W*
 
-(1)[^key-ed767ac7f345d7635263d89f2a155121] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-ed767ac7f345d7635263d89f2a155121] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-ed767ac7f345d7635263d89f2a155121] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-ed767ac7f345d7635263d89f2a155121] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) If, but only if, the court is of the opinion that there has been wilful refusal or culpable neglect on the part of the liable person it may—
 
@@ -32,7 +32,7 @@ summary: ''
 (4) Any such warrant—
 
 - (a) shall be made in respect of an amount equal to the aggregate of—
-  - (i)[^key-448019d183c77f219f7a88e2a9ababa3] the amount outstanding, as defined by paragraph 50(3) of Schedule 12 to the Tribunals, Courts and Enforcement Act 2007 (taking control of goods); and
+  - (i)[^c-448019d183c77f219f7a88e2a9ababa3] the amount outstanding, as defined by paragraph 50(3) of Schedule 12 to the Tribunals, Courts and Enforcement Act 2007 (taking control of goods); and
   - (ii) an amount (determined in accordance with regulations made by the Secretary of State) in respect of the costs of commitment; and
 - (b) shall state that amount.
 
@@ -60,7 +60,7 @@ summary: ''
 - (e) that for the purpose of enabling such an inquiry, a justice of the peace may issue a warrant for the liable person’s arrest without issuing a summons;
 - (f) as to the execution of a warrant for arrest.
 
-(12)[^key-1574537440dc57edb91d2b31e26b26fb] This section does not apply to Scotland.
+(12)[^c-1574537440dc57edb91d2b31e26b26fb] This section does not apply to Scotland.
 
 ## Annotations
 
@@ -68,16 +68,16 @@ summary: ''
 
 [^c21359271]: Modification: S. 40 applied (with modifications) (E.W.) (5.4.1993) by [S.I. 1992/2643](https://www.legislation.gov.uk/uksi/1992/2643), [reg.3](https://www.legislation.gov.uk/uksi/1992/2643/regulation/3)
 
-[^key-c779506ccb6ccf15fb4e7f23593d74aa]: Modification: Ss. 29-41B modified by [The Child Support (Transitional Provisions) Regulations 2000 (S.I. 2000/3186)](https://www.legislation.gov.uk/uksi/2000/3186), [reg. 16(2A)](https://www.legislation.gov.uk/uksi/2000/3186/regulation/16/2A) (as inserted (21.2.2003) by [S.I. 2003/328](https://www.legislation.gov.uk/uksi/2003/328), [regs. 1(3)(a)](https://www.legislation.gov.uk/uksi/2003/328/regulation/1/3/a), [9(7)(b)](https://www.legislation.gov.uk/uksi/2003/328/regulation/9/7/b))
+[^c-c779506ccb6ccf15fb4e7f23593d74aa]: Modification: Ss. 29-41B modified by [The Child Support (Transitional Provisions) Regulations 2000 (S.I. 2000/3186)](https://www.legislation.gov.uk/uksi/2000/3186), [reg. 16(2A)](https://www.legislation.gov.uk/uksi/2000/3186/regulation/16/2A) (as inserted (21.2.2003) by [S.I. 2003/328](https://www.legislation.gov.uk/uksi/2003/328), [regs. 1(3)(a)](https://www.legislation.gov.uk/uksi/2003/328/regulation/1/3/a), [9(7)(b)](https://www.legislation.gov.uk/uksi/2003/328/regulation/9/7/b))
 
-[^key-03a2088f542854cc90c541d3eabaed37]: Modification: S. 40 modified (10.6.2008) by [Child Maintenance and Other Payments Act 2008 (c. 6)](https://www.legislation.gov.uk/ukpga/2008/6), [ss. 59(5)](https://www.legislation.gov.uk/ukpga/2008/6/section/59/5), [62(3)](https://www.legislation.gov.uk/ukpga/2008/6/section/62/3); [S.I. 2008/1476](https://www.legislation.gov.uk/uksi/2008/1476), [art. 2(6)](https://www.legislation.gov.uk/uksi/2008/1476/article/2/6)
+[^c-03a2088f542854cc90c541d3eabaed37]: Modification: S. 40 modified (10.6.2008) by [Child Maintenance and Other Payments Act 2008 (c. 6)](https://www.legislation.gov.uk/ukpga/2008/6), [ss. 59(5)](https://www.legislation.gov.uk/ukpga/2008/6/section/59/5), [62(3)](https://www.legislation.gov.uk/ukpga/2008/6/section/62/3); [S.I. 2008/1476](https://www.legislation.gov.uk/uksi/2008/1476), [art. 2(6)](https://www.legislation.gov.uk/uksi/2008/1476/article/2/6)
 
-[^key-44e58b3fae62f9dc48cdde1f6fbc787c]: Modification: S. 40 modified (10.6.2008) by [Child Maintenance and Other Payments Act 2008 (c. 6)](https://www.legislation.gov.uk/ukpga/2008/6), [ss. 59(6)](https://www.legislation.gov.uk/ukpga/2008/6/section/59/6), [62(3)](https://www.legislation.gov.uk/ukpga/2008/6/section/62/3); [S.I. 2008/1476](https://www.legislation.gov.uk/uksi/2008/1476), [art. 2(6)](https://www.legislation.gov.uk/uksi/2008/1476/article/2/6)
+[^c-44e58b3fae62f9dc48cdde1f6fbc787c]: Modification: S. 40 modified (10.6.2008) by [Child Maintenance and Other Payments Act 2008 (c. 6)](https://www.legislation.gov.uk/ukpga/2008/6), [ss. 59(6)](https://www.legislation.gov.uk/ukpga/2008/6/section/59/6), [62(3)](https://www.legislation.gov.uk/ukpga/2008/6/section/62/3); [S.I. 2008/1476](https://www.legislation.gov.uk/uksi/2008/1476), [art. 2(6)](https://www.legislation.gov.uk/uksi/2008/1476/article/2/6)
 
-[^key-ed767ac7f345d7635263d89f2a155121]: Textual amendment: S. 40(1)(2) repealed (10.11.2000 for specified purposes, 2.4.2001 in so far as not already in force) by [Child Support, Pensions and Social Security Act 2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19), [ss. 16(2)](https://www.legislation.gov.uk/ukpga/2000/19/section/16/2), [86(1)(a)](https://www.legislation.gov.uk/ukpga/2000/19/section/86/1/a)[(2)](https://www.legislation.gov.uk/ukpga/2000/19/section/86/2), [Sch. 9 Pt. I](https://www.legislation.gov.uk/ukpga/2000/19/schedule/9/part/I) (with [s. 83(6)](https://www.legislation.gov.uk/ukpga/2000/19/section/83/6)); [S.I. 2000/2994](https://www.legislation.gov.uk/uksi/2000/2994), [art. 2](https://www.legislation.gov.uk/uksi/2000/2994/article/2), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2000/2994/schedule/part/1); [S.I. 2000/3354](https://www.legislation.gov.uk/uksi/2000/3354), art. 2(3)
+[^c-ed767ac7f345d7635263d89f2a155121]: Textual amendment: S. 40(1)(2) repealed (10.11.2000 for specified purposes, 2.4.2001 in so far as not already in force) by [Child Support, Pensions and Social Security Act 2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19), [ss. 16(2)](https://www.legislation.gov.uk/ukpga/2000/19/section/16/2), [86(1)(a)](https://www.legislation.gov.uk/ukpga/2000/19/section/86/1/a)[(2)](https://www.legislation.gov.uk/ukpga/2000/19/section/86/2), [Sch. 9 Pt. I](https://www.legislation.gov.uk/ukpga/2000/19/schedule/9/part/I) (with [s. 83(6)](https://www.legislation.gov.uk/ukpga/2000/19/section/83/6)); [S.I. 2000/2994](https://www.legislation.gov.uk/uksi/2000/2994), [art. 2](https://www.legislation.gov.uk/uksi/2000/2994/article/2), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2000/2994/schedule/part/1); [S.I. 2000/3354](https://www.legislation.gov.uk/uksi/2000/3354), art. 2(3)
 
-[^key-448019d183c77f219f7a88e2a9ababa3]: Textual amendment: S. 40(4)(a)(i) substituted (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 13 para. 96](https://www.legislation.gov.uk/ukpga/2007/15/schedule/13/paragraph/96) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
+[^c-448019d183c77f219f7a88e2a9ababa3]: Textual amendment: S. 40(4)(a)(i) substituted (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 13 para. 96](https://www.legislation.gov.uk/ukpga/2007/15/schedule/13/paragraph/96) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
 
 [^c21359281]: Marginal citation: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
 
-[^key-1574537440dc57edb91d2b31e26b26fb]: Textual amendment: S. 40(12) substituted for s. 40(12)-(14) (10.11.2000 for specified purposes, 2.4.2001 in so far as not already in force) by [Child Support, Pensions and Social Security Act 2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19), [ss. 17(1)](https://www.legislation.gov.uk/ukpga/2000/19/section/17/1), [86(1)(a)](https://www.legislation.gov.uk/ukpga/2000/19/section/86/1/a)[(2)](https://www.legislation.gov.uk/ukpga/2000/19/section/86/2) (with [ss. 28](https://www.legislation.gov.uk/ukpga/2000/19/section/28), [83(6)](https://www.legislation.gov.uk/ukpga/2000/19/section/83/6)); [S.I. 2000/2994](https://www.legislation.gov.uk/uksi/2000/2994), [art. 2](https://www.legislation.gov.uk/uksi/2000/2994/article/2), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2000/2994/schedule/part/1); [S.I. 2000/3354](https://www.legislation.gov.uk/uksi/2000/3354), art. 2(3)
+[^c-1574537440dc57edb91d2b31e26b26fb]: Textual amendment: S. 40(12) substituted for s. 40(12)-(14) (10.11.2000 for specified purposes, 2.4.2001 in so far as not already in force) by [Child Support, Pensions and Social Security Act 2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19), [ss. 17(1)](https://www.legislation.gov.uk/ukpga/2000/19/section/17/1), [86(1)(a)](https://www.legislation.gov.uk/ukpga/2000/19/section/86/1/a)[(2)](https://www.legislation.gov.uk/ukpga/2000/19/section/86/2) (with [ss. 28](https://www.legislation.gov.uk/ukpga/2000/19/section/28), [83(6)](https://www.legislation.gov.uk/ukpga/2000/19/section/83/6)); [S.I. 2000/2994](https://www.legislation.gov.uk/uksi/2000/2994), [art. 2](https://www.legislation.gov.uk/uksi/2000/2994/article/2), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2000/2994/schedule/part/1); [S.I. 2000/3354](https://www.legislation.gov.uk/uksi/2000/3354), art. 2(3)

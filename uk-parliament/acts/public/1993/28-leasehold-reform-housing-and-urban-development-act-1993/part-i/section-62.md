@@ -22,7 +22,7 @@ summary: ''
 
 (1) In this Chapter—
 
-- “appropriate tribunal” means—[^key-19e7a55cc3da3f1a770b81604aa22000]
+- “appropriate tribunal” means—[^c-19e7a55cc3da3f1a770b81604aa22000]
   - (a) in relation to premises in England, the First-tier Tribunal or, where determined by or under Tribunal Procedure Rules, the Upper Tribunal; and
   - (b) in relation to premises in Wales, a leasehold valuation tribunal.
 - “**the existing lease**”, in relation to a claim by a tenant under this Chapter, means the lease in relation to which the claim is made;
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-19e7a55cc3da3f1a770b81604aa22000]: Textual amendment: Words in [s. 62](https://www.legislation.gov.uk/ukpga/1993/28/section/62) inserted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 110](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/110) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-19e7a55cc3da3f1a770b81604aa22000]: Textual amendment: Words in [s. 62](https://www.legislation.gov.uk/ukpga/1993/28/section/62) inserted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 110](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/110) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^c17070401]: Textual amendment: S. 62(4) repealed (26.7.2002 for E. and 1.1.2003 for W.) by [Commonhold and Leasehold Reform Act 2002 (c. 15)](https://www.legislation.gov.uk/ukpga/2002/15), [s. 180](https://www.legislation.gov.uk/ukpga/2002/15/section/180), [Sch. 14](https://www.legislation.gov.uk/ukpga/2002/15/schedule/14); [S.I. 2002/1912](https://www.legislation.gov.uk/uksi/2002/1912), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2002/1912/article/2/b/ii), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2002/1912/schedule/1/part/1) (subject to [Sch. 2](https://www.legislation.gov.uk/uksi/2002/1912/schedule/2)); [S. I. 2002/3012](https://www.legislation.gov.uk/uksi/2002/3012), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2002/3012/article/2/b/ii), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2002/3012/schedule/1/part/1) (subject to [Sch. 2](https://www.legislation.gov.uk/uksi/2002/3012/schedule/2))

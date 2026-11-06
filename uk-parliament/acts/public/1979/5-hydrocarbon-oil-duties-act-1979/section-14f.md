@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14F. Penalties for contravention of section 14E[^M_E_efca3f28-69d7-4a51-fc96-fe7a16f9bbdd][^key-9e4c7a0b2a64c433044f2b7817f9559a]
+## 14F. Penalties for contravention of section 14E[^M_E_efca3f28-69d7-4a51-fc96-fe7a16f9bbdd][^c-9e4c7a0b2a64c433044f2b7817f9559a]
 
 *Extent: E+W+S*
 
@@ -31,15 +31,15 @@ summary: ''
 
 (4) For the purposes of that section, if this section applies by virtue of subsection (1)(b)—
 
-- (a)[^key-5ce26bef75afce1736030d9787f2d71c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-476afbaf65fc63522074f176eabbb383] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-5ce26bef75afce1736030d9787f2d71c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-476afbaf65fc63522074f176eabbb383] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) the failure also attracts daily penalties.
 
 (5) If this section applies by virtue of subsection (1)(a), for the purpose of subsection (2) the reference in section 14E(4) to the time of supply is to be read as the time of use.
 
 *Extent: E.W.S.*
 
-(6)[^key-5e2527d77891a3006513c0fe84647b5e] Rebated heavy oil or bioblend is liable to forfeiture if—
+(6)[^c-5e2527d77891a3006513c0fe84647b5e] Rebated heavy oil or bioblend is liable to forfeiture if—
 
 - (a) it is in the fuel supply of an engine provided for propelling a vessel that is being used as a private pleasure craft, and
 - (b) its use would be in contravention of section 14E(2).
@@ -102,13 +102,13 @@ summary: ''
 
 [^M_E_efca3f28-69d7-4a51-fc96-fe7a16f9bbdd]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-9e4c7a0b2a64c433044f2b7817f9559a]: Textual amendment: Ss. 14E, 14F inserted (1.11.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 6 paras. 15](https://www.legislation.gov.uk/ukpga/2008/9/schedule/6/paragraph/15), [21](https://www.legislation.gov.uk/ukpga/2008/9/schedule/6/paragraph/21)
+[^c-9e4c7a0b2a64c433044f2b7817f9559a]: Textual amendment: Ss. 14E, 14F inserted (1.11.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 6 paras. 15](https://www.legislation.gov.uk/ukpga/2008/9/schedule/6/paragraph/15), [21](https://www.legislation.gov.uk/ukpga/2008/9/schedule/6/paragraph/21)
 
-[^key-5ce26bef75afce1736030d9787f2d71c]: Textual amendment: S. 14F(4)(a) omitted (with effect in accordance with art. 3 of the commencing S.I.) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 123(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/123/2), [Sch. 41 para. 25(d)(ii)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/41/paragraph/25/d/ii); [S.I. 2009/511](https://www.legislation.gov.uk/uksi/2009/511), [art. 2](https://www.legislation.gov.uk/uksi/2009/511/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/511/article/4))
+[^c-5ce26bef75afce1736030d9787f2d71c]: Textual amendment: S. 14F(4)(a) omitted (with effect in accordance with art. 3 of the commencing S.I.) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 123(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/123/2), [Sch. 41 para. 25(d)(ii)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/41/paragraph/25/d/ii); [S.I. 2009/511](https://www.legislation.gov.uk/uksi/2009/511), [art. 2](https://www.legislation.gov.uk/uksi/2009/511/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/511/article/4))
 
-[^key-476afbaf65fc63522074f176eabbb383]: Textual amendment: S. 14F(4)(b) omitted (with effect in accordance with art. 3 of the commencing S.I.) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 123(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/123/2), [Sch. 41 para. 25(d)(ii)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/41/paragraph/25/d/ii); [S.I. 2009/511](https://www.legislation.gov.uk/uksi/2009/511), [art. 2](https://www.legislation.gov.uk/uksi/2009/511/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/511/article/4))
+[^c-476afbaf65fc63522074f176eabbb383]: Textual amendment: S. 14F(4)(b) omitted (with effect in accordance with art. 3 of the commencing S.I.) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 123(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/123/2), [Sch. 41 para. 25(d)(ii)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/41/paragraph/25/d/ii); [S.I. 2009/511](https://www.legislation.gov.uk/uksi/2009/511), [art. 2](https://www.legislation.gov.uk/uksi/2009/511/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/511/article/4))
 
-[^key-5e2527d77891a3006513c0fe84647b5e]: Textual amendment: [S. 14F(6)](https://www.legislation.gov.uk/ukpga/1979/5/section/14F/6) inserted (1.4.2022 for E.W.S.) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 76(2)](https://www.legislation.gov.uk/ukpga/2022/3/section/76/2), [Sch. 11 para. 5](https://www.legislation.gov.uk/ukpga/2022/3/schedule/11/paragraph/5)
+[^c-5e2527d77891a3006513c0fe84647b5e]: Textual amendment: [S. 14F(6)](https://www.legislation.gov.uk/ukpga/1979/5/section/14F/6) inserted (1.4.2022 for E.W.S.) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 76(2)](https://www.legislation.gov.uk/ukpga/2022/3/section/76/2), [Sch. 11 para. 5](https://www.legislation.gov.uk/ukpga/2022/3/schedule/11/paragraph/5)
 
 [^M_E_e44d6d9d-ffaa-4383-a47c-18054448ef5a]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 

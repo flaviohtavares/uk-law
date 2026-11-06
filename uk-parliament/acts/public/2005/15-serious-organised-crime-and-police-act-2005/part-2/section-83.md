@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Joint arrangements[^key-c639bf0779ceabe9f9985456b34947d4][^key-1a65de56e42eac605d1a2f8581cf4bba]
+## 83. Joint arrangements[^c-c639bf0779ceabe9f9985456b34947d4][^c-1a65de56e42eac605d1a2f8581cf4bba]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c639bf0779ceabe9f9985456b34947d4]: Commencement: [S. 83](https://www.legislation.gov.uk/ukpga/2005/15/section/83) in force at 1.4.2006 for S. by [S.S.I. 2006/166](https://www.legislation.gov.uk/ssi/2006/166), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2006/166/article/2/1/b)
+[^c-c639bf0779ceabe9f9985456b34947d4]: Commencement: [S. 83](https://www.legislation.gov.uk/ukpga/2005/15/section/83) in force at 1.4.2006 for S. by [S.S.I. 2006/166](https://www.legislation.gov.uk/ssi/2006/166), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2006/166/article/2/1/b)
 
-[^key-1a65de56e42eac605d1a2f8581cf4bba]: Commencement: [S. 83](https://www.legislation.gov.uk/ukpga/2005/15/section/83) in force at 1.4.2006 except to the extent that it extends to S. by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 5(1)](https://www.legislation.gov.uk/uksi/2005/1521/article/5/1)
+[^c-1a65de56e42eac605d1a2f8581cf4bba]: Commencement: [S. 83](https://www.legislation.gov.uk/ukpga/2005/15/section/83) in force at 1.4.2006 except to the extent that it extends to S. by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 5(1)](https://www.legislation.gov.uk/uksi/2005/1521/article/5/1)

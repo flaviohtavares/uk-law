@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Further provision about regulated market admission rules[^key-77ad8bb734385d7147618c735a912108]
+## 18. Further provision about regulated market admission rules[^c-77ad8bb734385d7147618c735a912108]
 
 *Extent: E+W+S+N.I.*
 
@@ -68,6 +68,6 @@ summary: ''
 
 ## Annotations
 
-[^key-77ad8bb734385d7147618c735a912108]: Commencement: Reg. 18 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)
+[^c-77ad8bb734385d7147618c735a912108]: Commencement: Reg. 18 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)
 
 [^f00028]: Footnote: [2009 c. 1](https://www.legislation.gov.uk/ukpga/2009/1).

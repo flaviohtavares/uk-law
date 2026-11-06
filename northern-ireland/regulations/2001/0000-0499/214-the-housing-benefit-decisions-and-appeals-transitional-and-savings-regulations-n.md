@@ -31,7 +31,7 @@ summary: ''
 
 HOUSING; RATES
 
-The Housing Benefit (Decisions and Appeals) (Transitional and Savings) Regulations (Northern Ireland) 2001 (revoked)[^key-d788929981b93ca60d1390f0eb0ec648]
+The Housing Benefit (Decisions and Appeals) (Transitional and Savings) Regulations (Northern Ireland) 2001 (revoked)[^c-d788929981b93ca60d1390f0eb0ec648]
 
 Made
 
@@ -41,40 +41,40 @@ Coming into operation
 
 2nd July 2001
 
-[^key-d788929981b93ca60d1390f0eb0ec648]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d788929981b93ca60d1390f0eb0ec648]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-d788929981b93ca60d1390f0eb0ec648]
+## 1. Citation, commencement and interpretation[^c-d788929981b93ca60d1390f0eb0ec648]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Provision in respect of reviews of determinations made by relevant authorities[^key-d788929981b93ca60d1390f0eb0ec648]
+## 2. Provision in respect of reviews of determinations made by relevant authorities[^c-d788929981b93ca60d1390f0eb0ec648]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Provision in respect of requests for further review of determinations[^key-d788929981b93ca60d1390f0eb0ec648]
+## 3. Provision in respect of requests for further review of determinations[^c-d788929981b93ca60d1390f0eb0ec648]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Provision in respect of the abolition of Review Boards[^key-d788929981b93ca60d1390f0eb0ec648]
+## 4. Provision in respect of the abolition of Review Boards[^c-d788929981b93ca60d1390f0eb0ec648]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Suspension and withholding[^key-d788929981b93ca60d1390f0eb0ec648]
+## 5. Suspension and withholding[^c-d788929981b93ca60d1390f0eb0ec648]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Decisions of relevant authorities outstanding at the relevant date[^key-d788929981b93ca60d1390f0eb0ec648]
+## 6. Decisions of relevant authorities outstanding at the relevant date[^c-d788929981b93ca60d1390f0eb0ec648]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d788929981b93ca60d1390f0eb0ec648]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d788929981b93ca60d1390f0eb0ec648]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-d788929981b93ca60d1390f0eb0ec648]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d788929981b93ca60d1390f0eb0ec648]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d788929981b93ca60d1390f0eb0ec648]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2001/214) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-d788929981b93ca60d1390f0eb0ec648]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2001/214) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))

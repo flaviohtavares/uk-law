@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Designation of other providers of higher education[^key-91a8327dd24be0bca6990e972573ae86]
+## 84. Designation of other providers of higher education[^c-91a8327dd24be0bca6990e972573ae86]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-91a8327dd24be0bca6990e972573ae86]: Commencement: [S. 84](https://www.legislation.gov.uk/ukpga/2017/29/section/84) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/k)
+[^c-91a8327dd24be0bca6990e972573ae86]: Commencement: [S. 84](https://www.legislation.gov.uk/ukpga/2017/29/section/84) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/k)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 39. Service of notices[^key-6facc5edf3fd34a99bc8e50b63e77f39]
+## 39. Service of notices[^c-6facc5edf3fd34a99bc8e50b63e77f39]
 
 *Extent: N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6facc5edf3fd34a99bc8e50b63e77f39]: Commencement: Reg. 39 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-6facc5edf3fd34a99bc8e50b63e77f39]: Commencement: Reg. 39 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)

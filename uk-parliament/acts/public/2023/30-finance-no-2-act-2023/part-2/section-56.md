@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Small production premises[^M_I_13fa5606-ff30-4c02-ffc6-e8f23a41d681][^key-9b276943883c9181890435883047f4b1]
+## 56. Small production premises[^M_I_13fa5606-ff30-4c02-ffc6-e8f23a41d681][^c-9b276943883c9181890435883047f4b1]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 [^M_I_13fa5606-ff30-4c02-ffc6-e8f23a41d681]: Commencement: S. 56 not in force at Royal Assent, see [s. 120(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/2)
 
-[^key-9b276943883c9181890435883047f4b1]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2023/30/section/56) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/a) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
+[^c-9b276943883c9181890435883047f4b1]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2023/30/section/56) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/a) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))

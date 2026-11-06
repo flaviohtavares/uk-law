@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Establishment of active member’s account[^key-ea45b5c8f9f1db20926b110f563ac145]
+## 37. Establishment of active member’s account[^c-ea45b5c8f9f1db20926b110f563ac145]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ea45b5c8f9f1db20926b110f563ac145]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2015/182/regulation/37) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-ea45b5c8f9f1db20926b110f563ac145]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2015/182/regulation/37) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)

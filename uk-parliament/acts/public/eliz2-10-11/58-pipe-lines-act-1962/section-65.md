@@ -37,10 +37,10 @@ summary: ''
 - (d) apparatus for the transmission of information for the operation of the pipe or system;
 - (e) apparatus for affording cathodic protection to the pipe or system;
 - (f) a structure for the exclusive support of a part of the line or system.
-- (fa)[^key-83bd64c2932257dc01434d5c98afe10d] in relation only to a pipe, or system of pipes, which is used to convey carbon dioxide to a carbon dioxide storage site, apparatus for treating and cooling carbon dioxide which is to flow through, or through any part of, the pipe or system; [^key-43b725cb479720049df7c138bb78a9ac]...
-- (g)[^key-43b725cb479720049df7c138bb78a9ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (fa)[^c-83bd64c2932257dc01434d5c98afe10d] in relation only to a pipe, or system of pipes, which is used to convey carbon dioxide to a carbon dioxide storage site, apparatus for treating and cooling carbon dioxide which is to flow through, or through any part of, the pipe or system; [^c-43b725cb479720049df7c138bb78a9ac]...
+- (g)[^c-43b725cb479720049df7c138bb78a9ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-5a6ecabb85a09a677219075081944d0f] In subsection (2)(fa), the reference to a pipe, or system of pipes, being used to convey carbon dioxide includes a pipe or system which is not being used for any purpose but which is intended to be used to convey carbon dioxide.
+(3)[^c-5a6ecabb85a09a677219075081944d0f] In subsection (2)(fa), the reference to a pipe, or system of pipes, being used to convey carbon dioxide includes a pipe or system which is not being used for any purpose but which is intended to be used to convey carbon dioxide.
 
 ## Annotations
 
@@ -48,8 +48,8 @@ summary: ''
 
 [^c7381531]: Modification: S. 65(2) applied by [Gas Act 1986 (c. 44, SIF 44:2)](https://www.legislation.gov.uk/ukpga/1986/44), [s. 21(4)](https://www.legislation.gov.uk/ukpga/1986/44/section/21/4)
 
-[^key-83bd64c2932257dc01434d5c98afe10d]: Textual amendment: S. 65(2)(fa) inserted (16.9.2011) by [The Storage of Carbon Dioxide (Access to Infrastructure) Regulations 2011 (S.I. 2011/2305)](https://www.legislation.gov.uk/uksi/2011/2305), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1), [Sch. para. 5(a)](https://www.legislation.gov.uk/uksi/2011/2305/schedule/paragraph/5/a)
+[^c-83bd64c2932257dc01434d5c98afe10d]: Textual amendment: S. 65(2)(fa) inserted (16.9.2011) by [The Storage of Carbon Dioxide (Access to Infrastructure) Regulations 2011 (S.I. 2011/2305)](https://www.legislation.gov.uk/uksi/2011/2305), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1), [Sch. para. 5(a)](https://www.legislation.gov.uk/uksi/2011/2305/schedule/paragraph/5/a)
 
-[^key-43b725cb479720049df7c138bb78a9ac]: Textual amendment: S. 65(2)(g) and word omitted (21.3.2012) by virtue of [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [s. 121(1)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/1), [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2011/16/schedule/2/paragraph/6); [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2012/873/article/2/b/i)
+[^c-43b725cb479720049df7c138bb78a9ac]: Textual amendment: S. 65(2)(g) and word omitted (21.3.2012) by virtue of [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [s. 121(1)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/1), [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2011/16/schedule/2/paragraph/6); [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2012/873/article/2/b/i)
 
-[^key-5a6ecabb85a09a677219075081944d0f]: Textual amendment: S. 65(3) inserted (16.9.2011) by [The Storage of Carbon Dioxide (Access to Infrastructure) Regulations 2011 (S.I. 2011/2305)](https://www.legislation.gov.uk/uksi/2011/2305), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1), [Sch. para. 5(b)](https://www.legislation.gov.uk/uksi/2011/2305/schedule/paragraph/5/b)
+[^c-5a6ecabb85a09a677219075081944d0f]: Textual amendment: S. 65(3) inserted (16.9.2011) by [The Storage of Carbon Dioxide (Access to Infrastructure) Regulations 2011 (S.I. 2011/2305)](https://www.legislation.gov.uk/uksi/2011/2305), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1), [Sch. para. 5(b)](https://www.legislation.gov.uk/uksi/2011/2305/schedule/paragraph/5/b)

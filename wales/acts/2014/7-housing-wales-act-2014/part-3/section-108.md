@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 108. Interpretation[^key-a9a873807e551d5bd6708b673c814d8e]
+## 108. Interpretation[^c-a9a873807e551d5bd6708b673c814d8e]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ In this Part—
 
 ## Annotations
 
-[^key-a9a873807e551d5bd6708b673c814d8e]: Commencement: [S. 108](https://www.legislation.gov.uk/anaw/2014/7/section/108) in force at 25.2.2015 by [S.I. 2015/380](https://www.legislation.gov.uk/wsi/2015/380), [art. 2(f)](https://www.legislation.gov.uk/wsi/2015/380/article/2/f)
+[^c-a9a873807e551d5bd6708b673c814d8e]: Commencement: [S. 108](https://www.legislation.gov.uk/anaw/2014/7/section/108) in force at 25.2.2015 by [S.I. 2015/380](https://www.legislation.gov.uk/wsi/2015/380), [art. 2(f)](https://www.legislation.gov.uk/wsi/2015/380/article/2/f)

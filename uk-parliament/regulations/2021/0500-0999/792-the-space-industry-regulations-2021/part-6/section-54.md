@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Conditions applying to spaceflight operator[^key-9fbc5b6913af008ac4b350d7e73b293d]
+## 54. Conditions applying to spaceflight operator[^c-9fbc5b6913af008ac4b350d7e73b293d]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9fbc5b6913af008ac4b350d7e73b293d]: Commencement: Reg. 54 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-9fbc5b6913af008ac4b350d7e73b293d]: Commencement: Reg. 54 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

@@ -22,7 +22,7 @@ summary: ''
 
 (introduced by section 85)
 
-### 1. Rent (Scotland) Act 1984[^key-1b78c3118f6e29dee74f36f246014cfd][^key-2325d9ebd9e1a82678456442b3d3f9b1]
+### 1. Rent (Scotland) Act 1984[^c-1b78c3118f6e29dee74f36f246014cfd][^c-2325d9ebd9e1a82678456442b3d3f9b1]
 
 (1) The Rent (Scotland) Act 1984 is modified as follows.
 
@@ -35,7 +35,7 @@ summary: ''
 
 .
 
-### 2. Housing (Scotland) Act 1988[^key-d88a96da8be889466347c4548fa15d40]
+### 2. Housing (Scotland) Act 1988[^c-d88a96da8be889466347c4548fa15d40]
 
 **Not yet in force.**
 
@@ -43,13 +43,13 @@ summary: ''
 
 (2) In section 53 (orders and regulations), in subsection (2), after “18(4A)(b)” insert “, 20A(6) or 37(5)”.
 
-### 3. Housing (Scotland) Act 2001[^key-0b6f93dd1223c71b963e5319481ae9e0]
+### 3. Housing (Scotland) Act 2001[^c-0b6f93dd1223c71b963e5319481ae9e0]
 
-(1)[^key-f6b948fc2a10841259d26196e9a9fb61] The Housing (Scotland) Act 2001 is modified as follows.
+(1)[^c-f6b948fc2a10841259d26196e9a9fb61] The Housing (Scotland) Act 2001 is modified as follows.
 
 (2) In section 109 (orders and regulations)—
 
-- (a)[^key-f6b948fc2a10841259d26196e9a9fb61] after subsection (2) insert—
+- (a)[^c-f6b948fc2a10841259d26196e9a9fb61] after subsection (2) insert—
 
   > (2A) Regulations under paragraph 8B of schedule 5 prescribing requirements that must be fulfilled by, respectively, an application or an intimation may in particular require that it—
   >
@@ -58,18 +58,18 @@ summary: ''
   > - (c) be given in a manner specified in the regulations.
 
   ,
-- (b)[^key-7bf6f6c25d9632ad0ba40a8a800785c1] in subsection (4), after “16(5A)(c)” insert “, 16A(6), 31B(1), 31C(1), 36A(6)”,
-- (c)[^key-7bf6f6c25d9632ad0ba40a8a800785c1] in subsection (6), after “7(3)” insert “, 16A(6), 31B(1), 31C(1) or 36A(6)”.
+- (b)[^c-7bf6f6c25d9632ad0ba40a8a800785c1] in subsection (4), after “16(5A)(c)” insert “, 16A(6), 31B(1), 31C(1), 36A(6)”,
+- (c)[^c-7bf6f6c25d9632ad0ba40a8a800785c1] in subsection (6), after “7(3)” insert “, 16A(6), 31B(1), 31C(1) or 36A(6)”.
 
-(3)[^key-f6b948fc2a10841259d26196e9a9fb61] In the title of schedule 5, after “ALTERATIONS” insert “, KEEPING PETS”.
+(3)[^c-f6b948fc2a10841259d26196e9a9fb61] In the title of schedule 5, after “ALTERATIONS” insert “, KEEPING PETS”.
 
-### 4. Housing (Scotland) Act 2006[^key-9c4673b43576c7d1bf50a59a18f9b8d6][^key-6b1e8139a3f760499fa560880743d87f]
+### 4. Housing (Scotland) Act 2006[^c-9c4673b43576c7d1bf50a59a18f9b8d6][^c-6b1e8139a3f760499fa560880743d87f]
 
 (1) The Housing (Scotland) Act 2006 is modified as follows.
 
 (2) In section 182(2)(b) (warrants authorising entry), in sub-paragraph (vi), the word “that” is repealed.
 
-### 5. Property Factors (Scotland) Act 2011[^key-893a1dd8a58176f1d8a314462c1a1133][^key-aabed5518315a24cbc05d845aa5c490b]
+### 5. Property Factors (Scotland) Act 2011[^c-893a1dd8a58176f1d8a314462c1a1133][^c-aabed5518315a24cbc05d845aa5c490b]
 
 (1) The Property Factors (Scotland) Act 2011 is modified as follows.
 
@@ -81,22 +81,22 @@ summary: ''
 
 (5) In section 30 (orders and regulations), in subsection (3), after “33(2)” insert “or regulations under section 5(5)”.
 
-### 6. Housing (Scotland) Act 2014[^key-713a58152d9f5f1351e5212686351400][^key-ed8a6f66d5c34471d11aa5fa74567d24]
+### 6. Housing (Scotland) Act 2014[^c-713a58152d9f5f1351e5212686351400][^c-ed8a6f66d5c34471d11aa5fa74567d24]
 
 (1) The Housing (Scotland) Act 2014 is modified as follows.
 
 (2) In section 36 (letting agent registration number), in subsection (3)(b), the word “operated” is repealed.
 
-### 7. Private Housing (Tenancies) (Scotland) Act 2016[^key-c37cae97a80746d2ef3e726d48cfc42f]
+### 7. Private Housing (Tenancies) (Scotland) Act 2016[^c-c37cae97a80746d2ef3e726d48cfc42f]
 
-(1)[^key-5a805f1ad1dad9ff3cdba538fffa006e] The 2016 Act is modified as follows.
+(1)[^c-5a805f1ad1dad9ff3cdba538fffa006e] The 2016 Act is modified as follows.
 
 (2) In section 24 (tenant’s right to refer increase to rent officer)—
 
-- (a)[^key-5a805f1ad1dad9ff3cdba538fffa006e] subsection (2) is repealed,
+- (a)[^c-5a805f1ad1dad9ff3cdba538fffa006e] subsection (2) is repealed,
 - (b) in subsection (3)(d), for “21” substitute “30”.
 
-(3)[^key-5a805f1ad1dad9ff3cdba538fffa006e] Chapter 3 (rent pressure zones) of Part 4 is repealed.
+(3)[^c-5a805f1ad1dad9ff3cdba538fffa006e] Chapter 3 (rent pressure zones) of Part 4 is repealed.
 
 (4) In section 73(2) (minor errors in documents)—
 
@@ -104,15 +104,15 @@ summary: ''
   - (i) for “or” insert “, 43L(1),”,
   - (ii) after “61(1)” insert “, 64B(2), 64C(2), 64I(2) or 64J(2)”,
 - (b) in paragraph (b), after “24(1)” insert “or 43N(2)”,
-- (c)[^key-5a805f1ad1dad9ff3cdba538fffa006e] paragraph (c) and the word “and” that immediately follows that paragraph are repealed,
-- (d)[^key-6b50c18ee1c76cb15d36ed42584da763] after paragraph (c) insert—
+- (c)[^c-5a805f1ad1dad9ff3cdba538fffa006e] paragraph (c) and the word “and” that immediately follows that paragraph are repealed,
+- (d)[^c-6b50c18ee1c76cb15d36ed42584da763] after paragraph (c) insert—
 
   > - (ca) the document by which a request for review is made to a rent officer under section 43Q(1),
   > - (cb) the document by which a request is made for the landlord’s consent under section 64B(1) or 64I(1), and
 
   .
 
-(5)[^key-5a805f1ad1dad9ff3cdba538fffa006e] In section 76 (ancillary regulations), after subsection (1) insert—
+(5)[^c-5a805f1ad1dad9ff3cdba538fffa006e] In section 76 (ancillary regulations), after subsection (1) insert—
 
 > (1A) Regulations under subsection (1) may modify any enactment (including this Act).
 
@@ -120,20 +120,20 @@ summary: ''
 
 (6) In section 77 (regulation-making powers)—
 
-- (a)[^key-5a805f1ad1dad9ff3cdba538fffa006e] in subsection (1), after “purposes” insert “or areas”,
-- (b)[^key-5a805f1ad1dad9ff3cdba538fffa006e] in subsection (2)—
+- (a)[^c-5a805f1ad1dad9ff3cdba538fffa006e] in subsection (1), after “purposes” insert “or areas”,
+- (b)[^c-5a805f1ad1dad9ff3cdba538fffa006e] in subsection (2)—
   - (i) after “22(2)(b)” insert “, 43L(3)(b), 48A(3)(c)”,
   - (ii) for “or 62(1)(d)” substitute “, 62(1)(d), 64B(1)(b) or (3)(d), 64C(3), 64I(1)(b) or (3)(d) or 64J(3)”,
   - (iii) after “by a notice” insert “, pre-notice or request (as the case may be)”,
 - (c) in subsection (3)—
-  - (i)[^key-1d71ecdd811cf8637c8e799ff2529871][^key-6b50c18ee1c76cb15d36ed42584da763] after “12” insert “, 17A(6), 17D(1), 19(1)(a)”,
-  - (ii)[^key-6b50c18ee1c76cb15d36ed42584da763] for “and 41” substitute “, 41, 43B(4), 43E(1) or (2), 43I(1)(b)(i), 43W(1), 48A(5) and (6), 51A(6), 59(5), 64E(1), 64F(1), 64L(1), 64M(1), 64N(1)”,
+  - (i)[^c-1d71ecdd811cf8637c8e799ff2529871][^c-6b50c18ee1c76cb15d36ed42584da763] after “12” insert “, 17A(6), 17D(1), 19(1)(a)”,
+  - (ii)[^c-6b50c18ee1c76cb15d36ed42584da763] for “and 41” substitute “, 41, 43B(4), 43E(1) or (2), 43I(1)(b)(i), 43W(1), 48A(5) and (6), 51A(6), 59(5), 64E(1), 64F(1), 64L(1), 64M(1), 64N(1)”,
   - (iii) after “schedule 3” insert “and paragraph 6(1) of schedule 5”,
-- (d)[^key-5a805f1ad1dad9ff3cdba538fffa006e] in subsection (4)—
+- (d)[^c-5a805f1ad1dad9ff3cdba538fffa006e] in subsection (4)—
   - (i) after “43” insert “, 43L(3)(b), 43N(3), 43Q(2)(b), 43S(4)(a), 48A(1)(b)(ii) and (c)(ii)(B), 48A(3)(c)”,
   - (ii) for “and 62” substitute “, 62, 64B(1)(b), 64B(3)(d), 64C(3), 64I(1)(b) and (3)(d) and 64J(3)”.
 
-(7)[^key-5a805f1ad1dad9ff3cdba538fffa006e] In section 78 (interpretation), in subsection (1)—
+(7)[^c-5a805f1ad1dad9ff3cdba538fffa006e] In section 78 (interpretation), in subsection (1)—
 
 - (a) after the opening words insert—
 
@@ -153,7 +153,7 @@ summary: ''
 
   .
 
-(8)[^key-5a805f1ad1dad9ff3cdba538fffa006e] In schedule 2 (statutory terms required by section 8), in paragraph 2, for “in accordance with Chapter 2 of Part 4” substitute
+(8)[^c-5a805f1ad1dad9ff3cdba538fffa006e] In schedule 2 (statutory terms required by section 8), in paragraph 2, for “in accordance with Chapter 2 of Part 4” substitute
 
 > —
 >
@@ -168,34 +168,34 @@ summary: ''
 
 ## Annotations
 
-[^key-1b78c3118f6e29dee74f36f246014cfd]: Commencement: Sch. para. 1 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
+[^c-1b78c3118f6e29dee74f36f246014cfd]: Commencement: Sch. para. 1 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
 
-[^key-2325d9ebd9e1a82678456442b3d3f9b1]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/asp/2025/13/schedule/paragraph/1) in force at 1.4.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+[^c-2325d9ebd9e1a82678456442b3d3f9b1]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/asp/2025/13/schedule/paragraph/1) in force at 1.4.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
 
-[^key-d88a96da8be889466347c4548fa15d40]: Commencement: Sch. para. 2 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
+[^c-d88a96da8be889466347c4548fa15d40]: Commencement: Sch. para. 2 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
 
-[^key-0b6f93dd1223c71b963e5319481ae9e0]: Commencement: Sch. para. 3 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
+[^c-0b6f93dd1223c71b963e5319481ae9e0]: Commencement: Sch. para. 3 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
 
-[^key-f6b948fc2a10841259d26196e9a9fb61]: Commencement: [Sch. para. 3(1)(2)(a)(3)](https://www.legislation.gov.uk/asp/2025/13/schedule/paragraph/3/1/2/a/3) in force at 1.4.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+[^c-f6b948fc2a10841259d26196e9a9fb61]: Commencement: [Sch. para. 3(1)(2)(a)(3)](https://www.legislation.gov.uk/asp/2025/13/schedule/paragraph/3/1/2/a/3) in force at 1.4.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
 
-[^key-7bf6f6c25d9632ad0ba40a8a800785c1]: Commencement: [Sch. para. 3(2)(b)(c)](https://www.legislation.gov.uk/asp/2025/13/schedule/paragraph/3/2/b/c) in force at 1.4.2026 for specified purposes by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+[^c-7bf6f6c25d9632ad0ba40a8a800785c1]: Commencement: [Sch. para. 3(2)(b)(c)](https://www.legislation.gov.uk/asp/2025/13/schedule/paragraph/3/2/b/c) in force at 1.4.2026 for specified purposes by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
 
-[^key-9c4673b43576c7d1bf50a59a18f9b8d6]: Commencement: Sch. para. 4 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
+[^c-9c4673b43576c7d1bf50a59a18f9b8d6]: Commencement: Sch. para. 4 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
 
-[^key-6b1e8139a3f760499fa560880743d87f]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/asp/2025/13/schedule/paragraph/4) in force at 1.4.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+[^c-6b1e8139a3f760499fa560880743d87f]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/asp/2025/13/schedule/paragraph/4) in force at 1.4.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
 
-[^key-893a1dd8a58176f1d8a314462c1a1133]: Commencement: Sch. para. 5 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
+[^c-893a1dd8a58176f1d8a314462c1a1133]: Commencement: Sch. para. 5 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
 
-[^key-aabed5518315a24cbc05d845aa5c490b]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/asp/2025/13/schedule/paragraph/5) in force at 1.4.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+[^c-aabed5518315a24cbc05d845aa5c490b]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/asp/2025/13/schedule/paragraph/5) in force at 1.4.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
 
-[^key-713a58152d9f5f1351e5212686351400]: Commencement: Sch. para. 6 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
+[^c-713a58152d9f5f1351e5212686351400]: Commencement: Sch. para. 6 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
 
-[^key-ed8a6f66d5c34471d11aa5fa74567d24]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/asp/2025/13/schedule/paragraph/6) in force at 1.4.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+[^c-ed8a6f66d5c34471d11aa5fa74567d24]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/asp/2025/13/schedule/paragraph/6) in force at 1.4.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
 
-[^key-c37cae97a80746d2ef3e726d48cfc42f]: Commencement: Sch. para. 7 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
+[^c-c37cae97a80746d2ef3e726d48cfc42f]: Commencement: Sch. para. 7 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
 
-[^key-5a805f1ad1dad9ff3cdba538fffa006e]: Commencement: [Sch. para. 7(1)(2)(a)(3)(4)(a)(i)(b)(c)(5)(6)(a)(b)(d)(7)(8)](https://www.legislation.gov.uk/asp/2025/13/schedule/paragraph/7/1/2/a/3/4/a/i/b/c/5/6/a/b/d/7/8) in force at 1.4.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+[^c-5a805f1ad1dad9ff3cdba538fffa006e]: Commencement: [Sch. para. 7(1)(2)(a)(3)(4)(a)(i)(b)(c)(5)(6)(a)(b)(d)(7)(8)](https://www.legislation.gov.uk/asp/2025/13/schedule/paragraph/7/1/2/a/3/4/a/i/b/c/5/6/a/b/d/7/8) in force at 1.4.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
 
-[^key-6b50c18ee1c76cb15d36ed42584da763]: Commencement: [Sch. para. 7(4)(d)(6)(c)(i)(ii)](https://www.legislation.gov.uk/asp/2025/13/schedule/paragraph/7/4/d/6/c/i/ii) in force at 1.4.2026 for specified purposes by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+[^c-6b50c18ee1c76cb15d36ed42584da763]: Commencement: [Sch. para. 7(4)(d)(6)(c)(i)(ii)](https://www.legislation.gov.uk/asp/2025/13/schedule/paragraph/7/4/d/6/c/i/ii) in force at 1.4.2026 for specified purposes by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
 
-[^key-1d71ecdd811cf8637c8e799ff2529871]: Commencement: [Sch. para. 7(6)(c)(i)](https://www.legislation.gov.uk/asp/2025/13/schedule/paragraph/7/6/c/i) in force at 7.1.2026 for specified purposes by [S.S.I. 2025/355](https://www.legislation.gov.uk/ssi/2025/355), [reg. 3(c)](https://www.legislation.gov.uk/ssi/2025/355/regulation/3/c)
+[^c-1d71ecdd811cf8637c8e799ff2529871]: Commencement: [Sch. para. 7(6)(c)(i)](https://www.legislation.gov.uk/asp/2025/13/schedule/paragraph/7/6/c/i) in force at 7.1.2026 for specified purposes by [S.S.I. 2025/355](https://www.legislation.gov.uk/ssi/2025/355), [reg. 3(c)](https://www.legislation.gov.uk/ssi/2025/355/regulation/3/c)

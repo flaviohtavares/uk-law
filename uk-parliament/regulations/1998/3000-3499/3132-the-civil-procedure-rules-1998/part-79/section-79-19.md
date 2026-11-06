@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 79.19. Function of a special advocate[^key-a1accc8b3c27de745fb74740b9e24225]
+## 79.19. Function of a special advocate[^c-a1accc8b3c27de745fb74740b9e24225]
 
 *Extent: E+W*
 
-The function of a special advocate is to represent the interests of a party other than the appropriate Minister[^key-d2a4cb6fafa0a3bd15e7141ef72cde5e] by, for example—
+The function of a special advocate is to represent the interests of a party other than the appropriate Minister[^c-d2a4cb6fafa0a3bd15e7141ef72cde5e] by, for example—
 
 - (a) making submissions to the court at any hearing from which the party and that party’s legal representative are excluded;
 - (b) adducing evidence and cross-examining witnesses at such a hearing;
@@ -29,6 +29,6 @@ The function of a special advocate is to represent the interests of a party othe
 
 ## Annotations
 
-[^key-a1accc8b3c27de745fb74740b9e24225]: Textual amendment: [Pt. 79](https://www.legislation.gov.uk/uksi/1998/3132/part/79) inserted (4.12.2008) by [The Civil Procedure (Amendment No.2) Rules 2008 (S.I. 2008/3085)](https://www.legislation.gov.uk/uksi/2008/3085), [rule 1](https://www.legislation.gov.uk/uksi/2008/3085/rule/1), [Sch.](https://www.legislation.gov.uk/uksi/2008/3085/schedule)
+[^c-a1accc8b3c27de745fb74740b9e24225]: Textual amendment: [Pt. 79](https://www.legislation.gov.uk/uksi/1998/3132/part/79) inserted (4.12.2008) by [The Civil Procedure (Amendment No.2) Rules 2008 (S.I. 2008/3085)](https://www.legislation.gov.uk/uksi/2008/3085), [rule 1](https://www.legislation.gov.uk/uksi/2008/3085/rule/1), [Sch.](https://www.legislation.gov.uk/uksi/2008/3085/schedule)
 
-[^key-d2a4cb6fafa0a3bd15e7141ef72cde5e]: Textual amendment: Words in [rule 79.19](https://www.legislation.gov.uk/uksi/1998/3132/rule/79.19) substituted (1.3.2019) by [The Civil Procedure (Amendment) (EU Exit) Rules 2019 (S.I. 2019/147)](https://www.legislation.gov.uk/uksi/2019/147), [rules 1](https://www.legislation.gov.uk/uksi/2019/147/rule/1), [3(14)](https://www.legislation.gov.uk/uksi/2019/147/rule/3/14)
+[^c-d2a4cb6fafa0a3bd15e7141ef72cde5e]: Textual amendment: Words in [rule 79.19](https://www.legislation.gov.uk/uksi/1998/3132/rule/79.19) substituted (1.3.2019) by [The Civil Procedure (Amendment) (EU Exit) Rules 2019 (S.I. 2019/147)](https://www.legislation.gov.uk/uksi/2019/147), [rules 1](https://www.legislation.gov.uk/uksi/2019/147/rule/1), [3(14)](https://www.legislation.gov.uk/uksi/2019/147/rule/3/14)

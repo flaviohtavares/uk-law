@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 23. Procedure of the Tribunal[^key-56041f5b9103b5674be08ddb5300d3e7]
+## 23. Procedure of the Tribunal[^c-56041f5b9103b5674be08ddb5300d3e7]
 
 *Extent: N.I.*
 
-(1) The Department of Justice may by regulations[^key-8bb1a20716cc1ac79bfab8fc6f995e8f] make provision about—
+(1) The Department of Justice may by regulations[^c-8bb1a20716cc1ac79bfab8fc6f995e8f] make provision about—
 
 - (a) the proceedings of the Tribunal on a claim of unlawful discrimination under this Chapter; and
 - (b) the making of a claim.
@@ -47,9 +47,9 @@ summary: ''
 
 (3) Proceedings before the Tribunal are to be held in private, except in prescribed circumstances.
 
-(4) The Department of Justice[^key-6bb832ea89a6af741e2b2cdf70a12fbd] may pay such allowances for the purpose of or in connection with the attendance of persons at the Tribunal as it may, with the consent of the Department of Finance and Personnel, determine.
+(4) The Department of Justice[^c-6bb832ea89a6af741e2b2cdf70a12fbd] may pay such allowances for the purpose of or in connection with the attendance of persons at the Tribunal as it may, with the consent of the Department of Finance and Personnel, determine.
 
-(5) Part I of the Arbitration Act 1996 (c. 23) does not apply to proceedings before the Tribunal but the Department of Justice may by regulations[^key-03d7b7dbdb99d0c32ccf66e649e933dc] make provision, in relation to such proceedings, corresponding to any provision of that Part.
+(5) Part I of the Arbitration Act 1996 (c. 23) does not apply to proceedings before the Tribunal but the Department of Justice may by regulations[^c-03d7b7dbdb99d0c32ccf66e649e933dc] make provision, in relation to such proceedings, corresponding to any provision of that Part.
 
 (6) The regulations may make provision for a claim under this Chapter to be heard, in prescribed circumstances, with an appeal under Part II of the 1996 Order.
 
@@ -64,16 +64,16 @@ is guilty of an offence.
 
 (9) Part I of Schedule 2 makes further provision about enforcement of this Chapter and about procedure.
 
-(10)[^key-c9122cc1fe9cba1bcd467a53ad744b40] In this Article, “prescribed” means prescribed by regulations made by the Department of Justice.
+(10)[^c-c9122cc1fe9cba1bcd467a53ad744b40] In this Article, “prescribed” means prescribed by regulations made by the Department of Justice.
 
 ## Annotations
 
-[^key-56041f5b9103b5674be08ddb5300d3e7]: Modification: Art. 23: Transfer of functions (2.6.2021) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2021 (S.R. 2021/114)](https://www.legislation.gov.uk/nisr/2021/114), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2021/114/article/1/2), [5](https://www.legislation.gov.uk/nisr/2021/114/article/5) (with [art. 2(2)(a)](https://www.legislation.gov.uk/nisr/2021/114/article/2/2/a)[(b)](https://www.legislation.gov.uk/nisr/2021/114/article/2/2/b))
+[^c-56041f5b9103b5674be08ddb5300d3e7]: Modification: Art. 23: Transfer of functions (2.6.2021) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2021 (S.R. 2021/114)](https://www.legislation.gov.uk/nisr/2021/114), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2021/114/article/1/2), [5](https://www.legislation.gov.uk/nisr/2021/114/article/5) (with [art. 2(2)(a)](https://www.legislation.gov.uk/nisr/2021/114/article/2/2/a)[(b)](https://www.legislation.gov.uk/nisr/2021/114/article/2/2/b))
 
-[^key-8bb1a20716cc1ac79bfab8fc6f995e8f]: Textual amendment: Words in art. 23(1) substituted (2.6.2021) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2021 (S.R. 2021/114)](https://www.legislation.gov.uk/nisr/2021/114), [art. 1(2)](https://www.legislation.gov.uk/nisr/2021/114/article/1/2), [Sch. para. 3(3)(a)](https://www.legislation.gov.uk/nisr/2021/114/schedule/paragraph/3/3/a) (with [art. 2(2)(a)](https://www.legislation.gov.uk/nisr/2021/114/article/2/2/a)[(b)](https://www.legislation.gov.uk/nisr/2021/114/article/2/2/b))
+[^c-8bb1a20716cc1ac79bfab8fc6f995e8f]: Textual amendment: Words in art. 23(1) substituted (2.6.2021) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2021 (S.R. 2021/114)](https://www.legislation.gov.uk/nisr/2021/114), [art. 1(2)](https://www.legislation.gov.uk/nisr/2021/114/article/1/2), [Sch. para. 3(3)(a)](https://www.legislation.gov.uk/nisr/2021/114/schedule/paragraph/3/3/a) (with [art. 2(2)(a)](https://www.legislation.gov.uk/nisr/2021/114/article/2/2/a)[(b)](https://www.legislation.gov.uk/nisr/2021/114/article/2/2/b))
 
-[^key-6bb832ea89a6af741e2b2cdf70a12fbd]: Textual amendment: Words in art. 23(4) inserted (2.6.2021) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2021 (S.R. 2021/114)](https://www.legislation.gov.uk/nisr/2021/114), [art. 1(2)](https://www.legislation.gov.uk/nisr/2021/114/article/1/2), [Sch. para. 3(3)(b)](https://www.legislation.gov.uk/nisr/2021/114/schedule/paragraph/3/3/b) (with [art. 2(2)(a)](https://www.legislation.gov.uk/nisr/2021/114/article/2/2/a)[(b)](https://www.legislation.gov.uk/nisr/2021/114/article/2/2/b))
+[^c-6bb832ea89a6af741e2b2cdf70a12fbd]: Textual amendment: Words in art. 23(4) inserted (2.6.2021) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2021 (S.R. 2021/114)](https://www.legislation.gov.uk/nisr/2021/114), [art. 1(2)](https://www.legislation.gov.uk/nisr/2021/114/article/1/2), [Sch. para. 3(3)(b)](https://www.legislation.gov.uk/nisr/2021/114/schedule/paragraph/3/3/b) (with [art. 2(2)(a)](https://www.legislation.gov.uk/nisr/2021/114/article/2/2/a)[(b)](https://www.legislation.gov.uk/nisr/2021/114/article/2/2/b))
 
-[^key-03d7b7dbdb99d0c32ccf66e649e933dc]: Textual amendment: Words in art. 23(5) substituted (2.6.2021) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2021 (S.R. 2021/114)](https://www.legislation.gov.uk/nisr/2021/114), [art. 1(2)](https://www.legislation.gov.uk/nisr/2021/114/article/1/2), [Sch. para. 3(3)(c)](https://www.legislation.gov.uk/nisr/2021/114/schedule/paragraph/3/3/c) (with [art. 2(2)(a)](https://www.legislation.gov.uk/nisr/2021/114/article/2/2/a)[(b)](https://www.legislation.gov.uk/nisr/2021/114/article/2/2/b))
+[^c-03d7b7dbdb99d0c32ccf66e649e933dc]: Textual amendment: Words in art. 23(5) substituted (2.6.2021) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2021 (S.R. 2021/114)](https://www.legislation.gov.uk/nisr/2021/114), [art. 1(2)](https://www.legislation.gov.uk/nisr/2021/114/article/1/2), [Sch. para. 3(3)(c)](https://www.legislation.gov.uk/nisr/2021/114/schedule/paragraph/3/3/c) (with [art. 2(2)(a)](https://www.legislation.gov.uk/nisr/2021/114/article/2/2/a)[(b)](https://www.legislation.gov.uk/nisr/2021/114/article/2/2/b))
 
-[^key-c9122cc1fe9cba1bcd467a53ad744b40]: Textual amendment: Art. 23(10) inserted (2.6.2021) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2021 (S.R. 2021/114)](https://www.legislation.gov.uk/nisr/2021/114), [art. 1(2)](https://www.legislation.gov.uk/nisr/2021/114/article/1/2), [Sch. para. 3(3)(d)](https://www.legislation.gov.uk/nisr/2021/114/schedule/paragraph/3/3/d) (with [art. 2(2)(a)](https://www.legislation.gov.uk/nisr/2021/114/article/2/2/a)[(b)](https://www.legislation.gov.uk/nisr/2021/114/article/2/2/b))
+[^c-c9122cc1fe9cba1bcd467a53ad744b40]: Textual amendment: Art. 23(10) inserted (2.6.2021) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2021 (S.R. 2021/114)](https://www.legislation.gov.uk/nisr/2021/114), [art. 1(2)](https://www.legislation.gov.uk/nisr/2021/114/article/1/2), [Sch. para. 3(3)(d)](https://www.legislation.gov.uk/nisr/2021/114/schedule/paragraph/3/3/d) (with [art. 2(2)(a)](https://www.legislation.gov.uk/nisr/2021/114/article/2/2/a)[(b)](https://www.legislation.gov.uk/nisr/2021/114/article/2/2/b))

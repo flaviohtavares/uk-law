@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 57. Judicial review cases[^key-92bc143db6205c05bcf1060a072f9919]
+## 57. Judicial review cases[^c-92bc143db6205c05bcf1060a072f9919]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-92bc143db6205c05bcf1060a072f9919]: Commencement: S. 57 in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-92bc143db6205c05bcf1060a072f9919]: Commencement: S. 57 in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)

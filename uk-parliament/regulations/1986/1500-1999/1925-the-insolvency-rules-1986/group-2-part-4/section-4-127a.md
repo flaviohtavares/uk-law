@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.127A. Liquidator’s entitlement to remuneration where it is not fixed under Rule 4.127[^key-74cb6d48d28786b0be9b79562b2a38b6]
+## 4.127A. Liquidator’s entitlement to remuneration where it is not fixed under Rule 4.127[^c-74cb6d48d28786b0be9b79562b2a38b6]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-74cb6d48d28786b0be9b79562b2a38b6]: Textual amendment: Rules 4.127A, 4.127B inserted (1.4.2004) by [The Insolvency (Amendment) Rules 2004 (S.I. 2004/584)](https://www.legislation.gov.uk/uksi/2004/584), [rules 1(2)](https://www.legislation.gov.uk/uksi/2004/584/article/1/2), [15](https://www.legislation.gov.uk/uksi/2004/584/article/15)
+[^c-74cb6d48d28786b0be9b79562b2a38b6]: Textual amendment: Rules 4.127A, 4.127B inserted (1.4.2004) by [The Insolvency (Amendment) Rules 2004 (S.I. 2004/584)](https://www.legislation.gov.uk/uksi/2004/584), [rules 1(2)](https://www.legislation.gov.uk/uksi/2004/584/article/1/2), [15](https://www.legislation.gov.uk/uksi/2004/584/article/15)

@@ -43,13 +43,13 @@ Coming into force
 
 The Secretary of State for Defence in exercise of the powers conferred by section 1(2) of the Protection of Military Remains Act 1986[^f00001] (“the Act”), makes the following Order—
 
-## 1. Citation and commencement and interpretation[^key-e4a585d38ced6769376ccc86b75b2fe9]
+## 1. Citation and commencement and interpretation[^c-e4a585d38ced6769376ccc86b75b2fe9]
 
 (1) This Order may be cited as the Protection of Military Remains Act 1986 (Designation of Vessels and Controlled Sites) Order 2008 and shall come into force on 1st May 2008.
 
 (2) In this Order any reference to a point is a reference to a point given by co-ordinates based on the World Geodetic System 1984.
 
-## 2. Designated vessels[^key-6982ab0c905dc872bf0f066a7f1d1b18]
+## 2. Designated vessels[^c-6982ab0c905dc872bf0f066a7f1d1b18]
 
 Each of the following vessels is designated as a vessel to which the Act applies—
 
@@ -100,7 +100,7 @@ Each of the following vessels is designated as a vessel to which the Act applies
 - (ss) the vessel known as the U714, which sank on or about 14th March 1945; and
 - (tt) the vessel known as the UB-65, which sank on or about 14th July 1918.
 
-## 3. Designated controlled sites[^key-435f3fae0e17e8719006ba7286edf1e6]
+## 3. Designated controlled sites[^c-435f3fae0e17e8719006ba7286edf1e6]
 
 Each of the following areas is designated as a controlled site—
 
@@ -121,7 +121,7 @@ Each of the following areas is designated as a controlled site—
   - (ii) Latitude 50° 13.179′ North, Longitude 03° 04.071′ West, which contains the remains of the vessel known as HMS Formidable; and
 - (f) the area containing the vessel known as HMS Exmouth, which is situated within a distance of 750 metres of the point at Latitude 58° 18.467′ North, Longitude 02° 28.938′ West.
 
-## 4. Revocation[^key-084a30f951b6d6f92f436c7a2f83c400]
+## 4. Revocation[^c-084a30f951b6d6f92f436c7a2f83c400]
 
 The Protection of Military Remains Act 1986 (Designation of Vessels and Controlled Sites Order 2006[^f00002] is revoked.
 
@@ -154,12 +154,12 @@ A place is a ‘protected place’ under the Act if it comprises the remains of 
 
 [^f00001]: Footnote: [1986 c.35](https://www.legislation.gov.uk/ukpga/1986/35)
 
-[^key-e4a585d38ced6769376ccc86b75b2fe9]: Commencement: Art. 1 in force at 1.5.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/950/article/1/1)
+[^c-e4a585d38ced6769376ccc86b75b2fe9]: Commencement: Art. 1 in force at 1.5.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/950/article/1/1)
 
-[^key-6982ab0c905dc872bf0f066a7f1d1b18]: Commencement: Art. 2 in force at 1.5.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/950/article/1/1)
+[^c-6982ab0c905dc872bf0f066a7f1d1b18]: Commencement: Art. 2 in force at 1.5.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/950/article/1/1)
 
-[^key-435f3fae0e17e8719006ba7286edf1e6]: Commencement: Art. 3 in force at 1.5.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/950/article/1/1)
+[^c-435f3fae0e17e8719006ba7286edf1e6]: Commencement: Art. 3 in force at 1.5.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/950/article/1/1)
 
-[^key-084a30f951b6d6f92f436c7a2f83c400]: Commencement: Art. 4 in force at 1.5.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/950/article/1/1)
+[^c-084a30f951b6d6f92f436c7a2f83c400]: Commencement: Art. 4 in force at 1.5.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/950/article/1/1)
 
 [^f00002]: Footnote: [S.I. 2006/2616](https://www.legislation.gov.uk/uksi/2006/2616)

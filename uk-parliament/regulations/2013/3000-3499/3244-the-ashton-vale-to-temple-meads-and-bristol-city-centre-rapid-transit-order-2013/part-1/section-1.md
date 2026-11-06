@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1. Citation and commencement[^key-200b2532abfded87779c838a20d862da]
+## 1. Citation and commencement[^c-200b2532abfded87779c838a20d862da]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ This Order may be cited as the Ashton Vale to Temple Meads and Bristol City Cent
 
 ## Annotations
 
-[^key-200b2532abfded87779c838a20d862da]: Commencement: Art. 1 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
+[^c-200b2532abfded87779c838a20d862da]: Commencement: Art. 1 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)

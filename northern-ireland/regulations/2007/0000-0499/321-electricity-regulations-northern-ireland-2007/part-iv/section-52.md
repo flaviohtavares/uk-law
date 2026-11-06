@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 52. Compensation[^key-918c52c4ac1a864f97bf3fcd3c78950d]
+## 52. Compensation[^c-918c52c4ac1a864f97bf3fcd3c78950d]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-918c52c4ac1a864f97bf3fcd3c78950d]: Commencement: Reg. 52 in operation at 3.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/321/regulation/1/1)
+[^c-918c52c4ac1a864f97bf3fcd3c78950d]: Commencement: Reg. 52 in operation at 3.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/321/regulation/1/1)

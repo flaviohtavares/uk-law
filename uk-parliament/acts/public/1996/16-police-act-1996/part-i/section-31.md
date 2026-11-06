@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Rewards for diligence[^key-1b4d6be0231c005007fbc636d134932f]
+## 31. Rewards for diligence[^c-1b4d6be0231c005007fbc636d134932f]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1b4d6be0231c005007fbc636d134932f]: Textual amendment: S. 31 substituted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 29](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/29); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (with [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2011/3019/schedule/2/paragraph/11))
+[^c-1b4d6be0231c005007fbc636d134932f]: Textual amendment: S. 31 substituted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 29](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/29); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (with [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2011/3019/schedule/2/paragraph/11))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 107. Lump sum payable on death in certain cases[^key-6625e2a6f9ac48a69c1d82920baa21cc]
+## 107. Lump sum payable on death in certain cases[^c-6625e2a6f9ac48a69c1d82920baa21cc]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where a person (P) at the time of P’s death was a pensioner member of this sch
 
 ## Annotations
 
-[^key-6625e2a6f9ac48a69c1d82920baa21cc]: Commencement: Reg. 107 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-6625e2a6f9ac48a69c1d82920baa21cc]: Commencement: Reg. 107 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

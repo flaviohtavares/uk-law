@@ -55,27 +55,27 @@ By virtue of section 317(2) of the Pensions Act 2004, the Secretary of State is 
 
 (2) They come into force on 23rd July 2012.
 
-(3) [^key-9ed4c5b01dcf870ecfdf56675232fa00]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3) [^c-9ed4c5b01dcf870ecfdf56675232fa00]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 2. Amendment of the Pension Protection Fund (Multi-employer Schemes)(Modification) Regulations 2005
 
-[^key-058dc164b6aa54793257453b5d2c2b74]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-058dc164b6aa54793257453b5d2c2b74]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 3. Amendment of the Pension Protection Fund (Entry Rules) Regulations 2005
 
-[^key-93c47b9f5ff0db1efdb141bea848196f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-93c47b9f5ff0db1efdb141bea848196f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 4. Amendment of the Pension Protection Fund (Review and Reconsideration of Reviewable Matters) Regulations 2005
 
-[^key-a8e9d2ceed4d9f505e0575c3b48738e4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a8e9d2ceed4d9f505e0575c3b48738e4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 5. Amendment of the Pension Protection Fund (Valuation) Regulations 2005
 
-[^key-971ccf4e58d617ca6f71a39da195a20f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-971ccf4e58d617ca6f71a39da195a20f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 6. Amendment of the Pension Protection Fund (Provision of Information) Regulations 2005
 
-[^key-27a175c2623359b0dd766eda81981f33]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-27a175c2623359b0dd766eda81981f33]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 7. Amendment of the Pension Protection Fund (Reference of Reviewable Matters to the PPF Ombudsman) Regulations 2005
 
@@ -100,11 +100,11 @@ In regulation 3(2) of the Pension Protection Fund (Reference of Reviewable Matte
 
 ## 8. Amendment of the Occupational Pension Schemes (Fraud Compensation Payments and Miscellaneous Amendments) Regulations 2005
 
-[^key-1be62f0c6835d33009ac36d8ecd00bb3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1be62f0c6835d33009ac36d8ecd00bb3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 9. Amendment of the Pension Protection Fund (Closed Schemes) Regulations 2007
 
-[^key-ed3bec2aade6c3dd2c15fc283fa39e1c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ed3bec2aade6c3dd2c15fc283fa39e1c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Signed by authority of the Secretary of State for Work and Pensions.
 
@@ -164,20 +164,20 @@ An assessment of the impact on private and voluntary sector pension schemes of t
 
 [^c2130200]: Marginal citation: [2011 c. 19](https://www.legislation.gov.uk/ukpga/2011/19).
 
-[^key-9ed4c5b01dcf870ecfdf56675232fa00]: Textual amendment: Reg. 1(3) revoked (24.1.2013) by [The Pension Protection Fund (Miscellaneous Amendments) (No. 2) Regulations 2012 (S.I. 2012/3083)](https://www.legislation.gov.uk/uksi/2012/3083), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/1/2/a), [9(a)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/9/a) (with [reg. 10](https://www.legislation.gov.uk/uksi/2012/3083/regulation/10))
+[^c-9ed4c5b01dcf870ecfdf56675232fa00]: Textual amendment: Reg. 1(3) revoked (24.1.2013) by [The Pension Protection Fund (Miscellaneous Amendments) (No. 2) Regulations 2012 (S.I. 2012/3083)](https://www.legislation.gov.uk/uksi/2012/3083), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/1/2/a), [9(a)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/9/a) (with [reg. 10](https://www.legislation.gov.uk/uksi/2012/3083/regulation/10))
 
-[^key-058dc164b6aa54793257453b5d2c2b74]: Textual amendment: Reg. 2 revoked (24.1.2013) by [The Pension Protection Fund (Miscellaneous Amendments) (No. 2) Regulations 2012 (S.I. 2012/3083)](https://www.legislation.gov.uk/uksi/2012/3083), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/1/2/a), [9(b)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/9/b) (with [regs. 9(2)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/9/2) [10](https://www.legislation.gov.uk/uksi/2012/3083/regulation/10))
+[^c-058dc164b6aa54793257453b5d2c2b74]: Textual amendment: Reg. 2 revoked (24.1.2013) by [The Pension Protection Fund (Miscellaneous Amendments) (No. 2) Regulations 2012 (S.I. 2012/3083)](https://www.legislation.gov.uk/uksi/2012/3083), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/1/2/a), [9(b)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/9/b) (with [regs. 9(2)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/9/2) [10](https://www.legislation.gov.uk/uksi/2012/3083/regulation/10))
 
-[^key-93c47b9f5ff0db1efdb141bea848196f]: Textual amendment: Reg. 3 revoked (24.1.2013) by [The Pension Protection Fund (Miscellaneous Amendments) (No. 2) Regulations 2012 (S.I. 2012/3083)](https://www.legislation.gov.uk/uksi/2012/3083), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/1/2/a), [9(c)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/9/c) (with [regs. 9(2)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/9/2) [10](https://www.legislation.gov.uk/uksi/2012/3083/regulation/10))
+[^c-93c47b9f5ff0db1efdb141bea848196f]: Textual amendment: Reg. 3 revoked (24.1.2013) by [The Pension Protection Fund (Miscellaneous Amendments) (No. 2) Regulations 2012 (S.I. 2012/3083)](https://www.legislation.gov.uk/uksi/2012/3083), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/1/2/a), [9(c)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/9/c) (with [regs. 9(2)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/9/2) [10](https://www.legislation.gov.uk/uksi/2012/3083/regulation/10))
 
-[^key-a8e9d2ceed4d9f505e0575c3b48738e4]: Textual amendment: Reg. 4 revoked (24.1.2013) by [The Pension Protection Fund (Miscellaneous Amendments) (No. 2) Regulations 2012 (S.I. 2012/3083)](https://www.legislation.gov.uk/uksi/2012/3083), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/1/2/a), [9(d)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/9/d) (with [regs. 9(2)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/9/2) [10](https://www.legislation.gov.uk/uksi/2012/3083/regulation/10))
+[^c-a8e9d2ceed4d9f505e0575c3b48738e4]: Textual amendment: Reg. 4 revoked (24.1.2013) by [The Pension Protection Fund (Miscellaneous Amendments) (No. 2) Regulations 2012 (S.I. 2012/3083)](https://www.legislation.gov.uk/uksi/2012/3083), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/1/2/a), [9(d)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/9/d) (with [regs. 9(2)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/9/2) [10](https://www.legislation.gov.uk/uksi/2012/3083/regulation/10))
 
-[^key-971ccf4e58d617ca6f71a39da195a20f]: Textual amendment: Reg. 5 revoked (24.1.2013) by [The Pension Protection Fund (Miscellaneous Amendments) (No. 2) Regulations 2012 (S.I. 2012/3083)](https://www.legislation.gov.uk/uksi/2012/3083), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/1/2/a), [9(e)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/9/e) (with [regs. 9(2)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/9/2) [10](https://www.legislation.gov.uk/uksi/2012/3083/regulation/10))
+[^c-971ccf4e58d617ca6f71a39da195a20f]: Textual amendment: Reg. 5 revoked (24.1.2013) by [The Pension Protection Fund (Miscellaneous Amendments) (No. 2) Regulations 2012 (S.I. 2012/3083)](https://www.legislation.gov.uk/uksi/2012/3083), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/1/2/a), [9(e)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/9/e) (with [regs. 9(2)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/9/2) [10](https://www.legislation.gov.uk/uksi/2012/3083/regulation/10))
 
-[^key-27a175c2623359b0dd766eda81981f33]: Textual amendment: Reg. 6 revoked (24.1.2013) by [The Pension Protection Fund (Miscellaneous Amendments) (No. 2) Regulations 2012 (S.I. 2012/3083)](https://www.legislation.gov.uk/uksi/2012/3083), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/1/2/a), [9(f)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/9/f) (with [regs. 9(2)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/9/2) [10](https://www.legislation.gov.uk/uksi/2012/3083/regulation/10))
+[^c-27a175c2623359b0dd766eda81981f33]: Textual amendment: Reg. 6 revoked (24.1.2013) by [The Pension Protection Fund (Miscellaneous Amendments) (No. 2) Regulations 2012 (S.I. 2012/3083)](https://www.legislation.gov.uk/uksi/2012/3083), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/1/2/a), [9(f)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/9/f) (with [regs. 9(2)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/9/2) [10](https://www.legislation.gov.uk/uksi/2012/3083/regulation/10))
 
 [^c2130207]: Marginal citation: [S.I. 2005/2024](https://www.legislation.gov.uk/uksi/2005/2024), to which there are amendments not relevant to these Regulations.
 
-[^key-1be62f0c6835d33009ac36d8ecd00bb3]: Textual amendment: Reg. 8 revoked (24.1.2013) by [The Pension Protection Fund (Miscellaneous Amendments) (No. 2) Regulations 2012 (S.I. 2012/3083)](https://www.legislation.gov.uk/uksi/2012/3083), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/1/2/a), [9(g)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/9/g) (with [regs. 9(2)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/9/2) [10](https://www.legislation.gov.uk/uksi/2012/3083/regulation/10))
+[^c-1be62f0c6835d33009ac36d8ecd00bb3]: Textual amendment: Reg. 8 revoked (24.1.2013) by [The Pension Protection Fund (Miscellaneous Amendments) (No. 2) Regulations 2012 (S.I. 2012/3083)](https://www.legislation.gov.uk/uksi/2012/3083), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/1/2/a), [9(g)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/9/g) (with [regs. 9(2)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/9/2) [10](https://www.legislation.gov.uk/uksi/2012/3083/regulation/10))
 
-[^key-ed3bec2aade6c3dd2c15fc283fa39e1c]: Textual amendment: Reg. 9 revoked (24.1.2013) by [The Pension Protection Fund (Miscellaneous Amendments) (No. 2) Regulations 2012 (S.I. 2012/3083)](https://www.legislation.gov.uk/uksi/2012/3083), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/1/2/a), [9(h)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/9/h) (with [regs. 9(2)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/9/2) [10](https://www.legislation.gov.uk/uksi/2012/3083/regulation/10))
+[^c-ed3bec2aade6c3dd2c15fc283fa39e1c]: Textual amendment: Reg. 9 revoked (24.1.2013) by [The Pension Protection Fund (Miscellaneous Amendments) (No. 2) Regulations 2012 (S.I. 2012/3083)](https://www.legislation.gov.uk/uksi/2012/3083), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/1/2/a), [9(h)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/9/h) (with [regs. 9(2)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/9/2) [10](https://www.legislation.gov.uk/uksi/2012/3083/regulation/10))

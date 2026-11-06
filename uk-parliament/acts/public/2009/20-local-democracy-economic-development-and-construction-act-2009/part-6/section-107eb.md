@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107EB. Section 107EA orders: procedure[^key-c21d236103722888879824cc493eef26][^key-f78856540a0ef1754d6c0a1da23b73a9]
+## 107EB. Section 107EA orders: procedure[^c-c21d236103722888879824cc493eef26][^c-f78856540a0ef1754d6c0a1da23b73a9]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,15 +66,15 @@ summary: ''
 
 (12) In this section—
 
-- “[^key-f161198914f328d50fc9a9e07d9a690d]**constituent council *(affected by repeal, see note)*[^key-f161198914f328d50fc9a9e07d9a690d]**”, in relation to a combined authority, means— *(affected by repeal, see note)*[^key-f161198914f328d50fc9a9e07d9a690d]
-  - (a) a county council the whole or any part of whose area is within the area of the combined authority, or *(affected by repeal, see note)*[^key-f161198914f328d50fc9a9e07d9a690d]
-  - (b) a district council whose area is within the area of the combined authority; *(affected by repeal, see note)*[^key-f161198914f328d50fc9a9e07d9a690d]
+- “[^c-f161198914f328d50fc9a9e07d9a690d]**constituent council *(affected by repeal, see note)*[^c-f161198914f328d50fc9a9e07d9a690d]**”, in relation to a combined authority, means— *(affected by repeal, see note)*[^c-f161198914f328d50fc9a9e07d9a690d]
+  - (a) a county council the whole or any part of whose area is within the area of the combined authority, or *(affected by repeal, see note)*[^c-f161198914f328d50fc9a9e07d9a690d]
+  - (b) a district council whose area is within the area of the combined authority; *(affected by repeal, see note)*[^c-f161198914f328d50fc9a9e07d9a690d]
 - “**constituent member**”, in relation to a combined authority, means a member of the authority appointed by a constituent council (but does not include the mayor for the area of the combined authority).
 
 ## Annotations
 
-[^key-c21d236103722888879824cc493eef26]: Textual amendment: Ss. 107EA-107EG inserted (31.1.2017 for specified purposes, 17.7.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 8(2)](https://www.legislation.gov.uk/ukpga/2017/3/section/8/2), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2017/726](https://www.legislation.gov.uk/uksi/2017/726), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2017/726/regulation/2/a)
+[^c-c21d236103722888879824cc493eef26]: Textual amendment: Ss. 107EA-107EG inserted (31.1.2017 for specified purposes, 17.7.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 8(2)](https://www.legislation.gov.uk/ukpga/2017/3/section/8/2), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2017/726](https://www.legislation.gov.uk/uksi/2017/726), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2017/726/regulation/2/a)
 
-[^key-f78856540a0ef1754d6c0a1da23b73a9]: Textual amendment: Ss. 107D-107F inserted (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [ss. 4(1)](https://www.legislation.gov.uk/ukpga/2016/1/section/4/1), [25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2)
+[^c-f78856540a0ef1754d6c0a1da23b73a9]: Textual amendment: Ss. 107D-107F inserted (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [ss. 4(1)](https://www.legislation.gov.uk/ukpga/2016/1/section/4/1), [25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2)
 
-[^key-f161198914f328d50fc9a9e07d9a690d]: Textual amendment: Words in s. 107EB(12) omitted (29.4.2026 except so far as it relates to Sch. 1 paras. 18, 39) by virtue of [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2026/23/schedule/1/paragraph/14) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-f161198914f328d50fc9a9e07d9a690d]: Textual amendment: Words in s. 107EB(12) omitted (29.4.2026 except so far as it relates to Sch. 1 paras. 18, 39) by virtue of [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2026/23/schedule/1/paragraph/14) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))

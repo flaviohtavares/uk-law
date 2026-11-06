@@ -42,21 +42,21 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 In accordance with section 214(2)(j) of that Act, a draft of this instrument has been laid before and approved by a resolution of each House of Parliament.
 
-## 1. Citation, commencement and application[^key-105f1719a86a4dd200875e475a3bd0d2]
+## 1. Citation, commencement and application[^c-105f1719a86a4dd200875e475a3bd0d2]
 
 (1) These Regulations may be cited as the Client Money Protection Schemes for Property Agents (Approval and Designation of Schemes) Regulations 2018.
 
 (2) These Regulations come into force on the day after the day on which they are made.
 
-## 2. Interpretation[^key-54453c3fcdb8114f3afbc6808ac25271]
+## 2. Interpretation[^c-54453c3fcdb8114f3afbc6808ac25271]
 
 In these Regulations—
 
 - “**the 2016 Act**” means the Housing and Planning Act 2016;
 - “**approved scheme**” means a client money protection scheme approved under regulation 3;
 - “**client money**” means money—
-  - (a) received by a property agent in the course of English letting agency work within the meaning of section 54 of the Housing and Planning Act 2016 or English property management[^key-2c6e1d384c8a136b96b45ed4a0d90c02] work within the meaning of section 55 of that Act; and
-  - (b) held on behalf of another person , but does not include money held in accordance with an authorised tenancy deposit scheme within the meaning of Chapter 4 of Part 6 of the Housing Act 2004 (see section 212 of that Act);[^key-8c8001d98117a03b2fb60ebb7da66e2c];
+  - (a) received by a property agent in the course of English letting agency work within the meaning of section 54 of the Housing and Planning Act 2016 or English property management[^c-2c6e1d384c8a136b96b45ed4a0d90c02] work within the meaning of section 55 of that Act; and
+  - (b) held on behalf of another person , but does not include money held in accordance with an authorised tenancy deposit scheme within the meaning of Chapter 4 of Part 6 of the Housing Act 2004 (see section 212 of that Act);[^c-8c8001d98117a03b2fb60ebb7da66e2c];
 - “**client money protection scheme**” has the meaning given in section 133(4) of the 2016 Act;
 - “**designated scheme**” means a government administered client money protection scheme designated under regulation 6;
 - “**government administered client money protection scheme**” has the meaning given in section 133(4) of the 2016 Act;
@@ -66,7 +66,7 @@ In these Regulations—
   - (b) in the case of a designated scheme administered by the Secretary of State, the Secretary of State;
   - (c) in the case of any other designated scheme, the person appointed to administer that scheme on behalf of the Secretary of State.
 
-## 3. Applications for approval[^key-943a53d87825356d0042a6cb5d192139]
+## 3. Applications for approval[^c-943a53d87825356d0042a6cb5d192139]
 
 (1) The Secretary of State may only approve a client money protection scheme for the purposes of regulations under section 133 of the 2016 Act if the Secretary of State considers—
 
@@ -82,7 +82,7 @@ In these Regulations—
 
 (3) The Secretary of State must notify the applicant of the decision on an application for approval in writing, giving reasons for any refusal.
 
-## 4. Amendments to an approved scheme[^key-a20603cb06054892f4e94debdf55a235]
+## 4. Amendments to an approved scheme[^c-a20603cb06054892f4e94debdf55a235]
 
 (1) An amendment to an approved scheme (“amendment”) is not effective unless approved in writing by the Secretary of State.
 
@@ -90,16 +90,16 @@ In these Regulations—
 
 (3) Regulation 3(2) and (3) applies in relation to an application for approval of an amendment as it applies in relation to an application for approval of a scheme.
 
-(4)[^key-fbc93cadf1dd0ea84bdd301253d1b220] This regulation does not apply to an amendment made in accordance with a notice served under regulation 8(1D)(b).
+(4)[^c-fbc93cadf1dd0ea84bdd301253d1b220] This regulation does not apply to an amendment made in accordance with a notice served under regulation 8(1D)(b).
 
-## 5. Conditions which must be satisfied before approval may be given[^key-567b93fd9974cb6143ef8fe73a65a523]
+## 5. Conditions which must be satisfied before approval may be given[^c-567b93fd9974cb6143ef8fe73a65a523]
 
 (1) The conditions are that—
 
 - (a) the rules of the scheme—
   - (i) make satisfactory provision for the manner of becoming and of ceasing to be a scheme member;
   - (ii) require scheme members to meet the conditions for the handling of client money in paragraph (2);
-  - (iii) require the scheme administrator, in the event that a scheme member (M) fails to account for client money to the person (P) entitled to it, to make good M's liability to P as soon as reasonably practicable , subject to paragraph (1A)[^key-adc39645ca4203057c99ced2431df2ce]; and
+  - (iii) require the scheme administrator, in the event that a scheme member (M) fails to account for client money to the person (P) entitled to it, to make good M's liability to P as soon as reasonably practicable , subject to paragraph (1A)[^c-adc39645ca4203057c99ced2431df2ce]; and
   - (iv) require the scheme administrator to accept claims for compensation under the scheme for at least twelve months after the date on which the circumstances giving rise to a claim occurred;
   - (v) if the scheme administrator receives a scheme closure notice, require the scheme administrator to—
     - (aa) give written notice to each scheme member of the matters mentioned in regulation 9(3) as soon as reasonably practicable;
@@ -107,13 +107,13 @@ In these Regulations—
     - (cc) cease accepting any new member or any membership renewal;
 - (b) arrangements have been made for the appointment of a scheme administrator who is independent from the scheme members;
 - (c) arrangements have been made to secure insurance that—
-  - (i) covers any foreseeable liability which may arise in connection with the failure of scheme members to account for client money to persons entitled to that money[^key-726bbfd5d715e344b7d8efa2a58895dc]; and
+  - (i) covers any foreseeable liability which may arise in connection with the failure of scheme members to account for client money to persons entitled to that money[^c-726bbfd5d715e344b7d8efa2a58895dc]; and
   - (ii) is appropriate with regard to the size and number of scheme members and the amount of client money held by scheme members; and
 - (d) the scheme specifies—
   - (i) the process for making claims for compensation under the scheme; and
   - (ii) the procedures that will apply in relation to the investigation and determination of such claims and any complaints under the scheme.
 
-(1A)[^key-209d64cbb196a21738594967e6667cc6] The Secretary of State may determine that the condition in paragraph (1)(a)(iii) is satisfied where the rules of the scheme have the effect that the scheme administrator is required to make good M's liability—
+(1A)[^c-209d64cbb196a21738594967e6667cc6] The Secretary of State may determine that the condition in paragraph (1)(a)(iii) is satisfied where the rules of the scheme have the effect that the scheme administrator is required to make good M's liability—
 
 - (a) only up to such amount as the Secretary of State considers appropriate,
 - (b) only if or to the extent that M's liability can be made good without exceeding such aggregate limit on the liability of the scheme as a whole as the Secretary of State considers appropriate, or
@@ -129,7 +129,7 @@ In these Regulations—
 - (f) hold client money in a client money account with a bank or building society authorised by the Financial Conduct Authority; and
 - (g) hold and maintain professional indemnity insurance cover that is appropriate for the member's size, income, type of work and the amount of client money held.
 
-(2A)[^key-eced3f8fffdbc96296fa00b0faf6c8e2] The rules of the scheme are to be treated as complying with paragraph (2)(f) if they provide that, until 1 April 2021[^key-e5660420cdfff37f8a5db8c2dd4b4813], they have effect as if they required scheme members to make all reasonable efforts to hold client money in a client money account with a bank or building society authorised by the Financial Conduct Authority.
+(2A)[^c-eced3f8fffdbc96296fa00b0faf6c8e2] The rules of the scheme are to be treated as complying with paragraph (2)(f) if they provide that, until 1 April 2021[^c-e5660420cdfff37f8a5db8c2dd4b4813], they have effect as if they required scheme members to make all reasonable efforts to hold client money in a client money account with a bank or building society authorised by the Financial Conduct Authority.
 
 (3) In this regulation—
 
@@ -139,7 +139,7 @@ In these Regulations—
 - “**scheme closure date**” has the meaning given in regulation 9(3)(c); and
 - “**scheme closure notice**” has the meaning given in regulation 9(2).
 
-## 6. Designation as a government administered client money protection scheme[^key-7e6303d850aeac9ffde4b6b414ee79b0]
+## 6. Designation as a government administered client money protection scheme[^c-7e6303d850aeac9ffde4b6b414ee79b0]
 
 (1) The Secretary of State may designate a government administered client money protection scheme for the purposes of regulations under section 133 of the 2016 Act if the Secretary of State considers that it satisfies the conditions set out in regulation 5(1)(a), (c) and (d).
 
@@ -147,18 +147,18 @@ In these Regulations—
 
 (3) The Secretary of State may only approve an amendment if the Secretary of State considers that the scheme as amended would satisfy the conditions set out in regulation 5(1)(a), (c) and (d).
 
-## 7. Matters to which the Secretary of State may have regard[^key-2d32bb28acffb702f1c175fd243fd4b1]
+## 7. Matters to which the Secretary of State may have regard[^c-2d32bb28acffb702f1c175fd243fd4b1]
 
 In considering whether to approve or designate a scheme the Secretary of State may have regard to the number of other client money protection schemes which are (or are likely to become) approved under regulation 3 or designated under regulation 6.
 
-## 8. Conditions with which scheme administrators must comply[^key-902a6ec5e0721dc4c4b71541365eccfd]
+## 8. Conditions with which scheme administrators must comply[^c-902a6ec5e0721dc4c4b71541365eccfd]
 
-(1) The scheme administrator must provide each scheme member with a certificate confirming that person's membership of the scheme as soon as reasonably practicable —[^key-25abfbc95a54294620ad3369adaab1e8]
+(1) The scheme administrator must provide each scheme member with a certificate confirming that person's membership of the scheme as soon as reasonably practicable —[^c-25abfbc95a54294620ad3369adaab1e8]
 
 - (a) after that member joins the scheme, and
 - (b) after the scheme rules are amended under paragraph (1D)(a) or in accordance with a notice served under paragraph (1D)(b).
 
-(1A)[^key-4ebd81e22d32eb6d53fb9e304c766942] Paragraphs (1B) to (1E) apply if the rules of the scheme have the effect of requiring the scheme administrator to make good the liability of a scheme member—
+(1A)[^c-4ebd81e22d32eb6d53fb9e304c766942] Paragraphs (1B) to (1E) apply if the rules of the scheme have the effect of requiring the scheme administrator to make good the liability of a scheme member—
 
 - (a) only up to a certain amount,
 - (b) only within an aggregate limit on the liability of the scheme as a whole, or
@@ -193,7 +193,7 @@ as the case may be.
 
 (3) The scheme administrator must provide a relevant person with such information relating to a member's membership or a claim under the scheme as the relevant person may require in connection with their functions.
 
-(3A)[^key-fec9976e901a61f4e9af42ce0675c5ff] The scheme administrator must maintain insurance that—
+(3A)[^c-fec9976e901a61f4e9af42ce0675c5ff] The scheme administrator must maintain insurance that—
 
 - (a) covers any foreseeable liability which may arise in connection with the failure of scheme members to account for client money to persons entitled to that money, and
 - (b) is appropriate with regard to the size and number of scheme members and the amount of client money held by scheme members.
@@ -206,7 +206,7 @@ as the case may be.
 
 (5) The scheme administrator must publish on the scheme's website—
 
-- (a) the scheme's procedures for making claims against the scheme, the investigation and determination of such claims and dealing with any complaints that may be made under the scheme ,[^key-829f217facdb3becd1213cdd3c6df8d7]
+- (a) the scheme's procedures for making claims against the scheme, the investigation and determination of such claims and dealing with any complaints that may be made under the scheme ,[^c-829f217facdb3becd1213cdd3c6df8d7]
 - (aa) where paragraph (1B) applies—
   - (i) information about the amount referred to in paragraph (1A)(a),
   - (ii) information about the limit referred to in paragraph (1A)(b), or
@@ -225,11 +225,11 @@ as the case may be.
   - (d) any local authority in England exercising functions under regulations under section 135 of the 2016 Act; and
   - (e) any other person exercising regulatory or enforcement functions in relation to property agents.
 
-(7)[^key-0e561f8838f0c3762cb5db76674d13d4] In this regulation, references to renewing a scheme's insurance (however expressed) include obtaining new insurance.
+(7)[^c-0e561f8838f0c3762cb5db76674d13d4] In this regulation, references to renewing a scheme's insurance (however expressed) include obtaining new insurance.
 
 (8) Paragraphs (2), (3B), (3C) and (4) do not apply where the Secretary of State is the scheme administrator.
 
-## 9. Withdrawal of approval or revocation of designation[^key-7c729634c4cdf363ba8fd85f2e79e778]
+## 9. Withdrawal of approval or revocation of designation[^c-7c729634c4cdf363ba8fd85f2e79e778]
 
 (1) The Secretary of State may—
 
@@ -281,50 +281,50 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c23315731]: Marginal citation: [2016 c. 22](https://www.legislation.gov.uk/ukpga/2016/22).
 
-[^key-105f1719a86a4dd200875e475a3bd0d2]: Commencement: Reg. 1 in force at 21.6.2018, see reg. 1(2)
+[^c-105f1719a86a4dd200875e475a3bd0d2]: Commencement: Reg. 1 in force at 21.6.2018, see reg. 1(2)
 
-[^key-54453c3fcdb8114f3afbc6808ac25271]: Commencement: Reg. 2 in force at 21.6.2018, see reg. 1(2)
+[^c-54453c3fcdb8114f3afbc6808ac25271]: Commencement: Reg. 2 in force at 21.6.2018, see reg. 1(2)
 
-[^key-2c6e1d384c8a136b96b45ed4a0d90c02]: Textual amendment: Word in reg. 2 substituted (14.2.2019) by [Tenant Fees Act 2019 (c. 4)](https://www.legislation.gov.uk/ukpga/2019/4), [ss. 22(2)(a)](https://www.legislation.gov.uk/ukpga/2019/4/section/22/2/a), [34(1)](https://www.legislation.gov.uk/ukpga/2019/4/section/34/1) (with [s. 22(6)](https://www.legislation.gov.uk/ukpga/2019/4/section/22/6)); [S.I. 2019/260](https://www.legislation.gov.uk/uksi/2019/260), [reg. 2](https://www.legislation.gov.uk/uksi/2019/260/regulation/2)
+[^c-2c6e1d384c8a136b96b45ed4a0d90c02]: Textual amendment: Word in reg. 2 substituted (14.2.2019) by [Tenant Fees Act 2019 (c. 4)](https://www.legislation.gov.uk/ukpga/2019/4), [ss. 22(2)(a)](https://www.legislation.gov.uk/ukpga/2019/4/section/22/2/a), [34(1)](https://www.legislation.gov.uk/ukpga/2019/4/section/34/1) (with [s. 22(6)](https://www.legislation.gov.uk/ukpga/2019/4/section/22/6)); [S.I. 2019/260](https://www.legislation.gov.uk/uksi/2019/260), [reg. 2](https://www.legislation.gov.uk/uksi/2019/260/regulation/2)
 
-[^key-8c8001d98117a03b2fb60ebb7da66e2c]: Textual amendment: Words in reg. 2 inserted (14.2.2019) by [Tenant Fees Act 2019 (c. 4)](https://www.legislation.gov.uk/ukpga/2019/4), [ss. 22(2)(b)](https://www.legislation.gov.uk/ukpga/2019/4/section/22/2/b), [34(1)](https://www.legislation.gov.uk/ukpga/2019/4/section/34/1) (with [s. 22(6)](https://www.legislation.gov.uk/ukpga/2019/4/section/22/6)); [S.I. 2019/260](https://www.legislation.gov.uk/uksi/2019/260), [reg. 2](https://www.legislation.gov.uk/uksi/2019/260/regulation/2)
+[^c-8c8001d98117a03b2fb60ebb7da66e2c]: Textual amendment: Words in reg. 2 inserted (14.2.2019) by [Tenant Fees Act 2019 (c. 4)](https://www.legislation.gov.uk/ukpga/2019/4), [ss. 22(2)(b)](https://www.legislation.gov.uk/ukpga/2019/4/section/22/2/b), [34(1)](https://www.legislation.gov.uk/ukpga/2019/4/section/34/1) (with [s. 22(6)](https://www.legislation.gov.uk/ukpga/2019/4/section/22/6)); [S.I. 2019/260](https://www.legislation.gov.uk/uksi/2019/260), [reg. 2](https://www.legislation.gov.uk/uksi/2019/260/regulation/2)
 
-[^key-943a53d87825356d0042a6cb5d192139]: Commencement: Reg. 3 in force at 21.6.2018, see reg. 1(2)
+[^c-943a53d87825356d0042a6cb5d192139]: Commencement: Reg. 3 in force at 21.6.2018, see reg. 1(2)
 
-[^key-a20603cb06054892f4e94debdf55a235]: Commencement: Reg. 4 in force at 21.6.2018, see reg. 1(2)
+[^c-a20603cb06054892f4e94debdf55a235]: Commencement: Reg. 4 in force at 21.6.2018, see reg. 1(2)
 
-[^key-fbc93cadf1dd0ea84bdd301253d1b220]: Textual amendment: Reg. 4(4) inserted (14.2.2019) by [Tenant Fees Act 2019 (c. 4)](https://www.legislation.gov.uk/ukpga/2019/4), [ss. 22(3)](https://www.legislation.gov.uk/ukpga/2019/4/section/22/3), [34(1)](https://www.legislation.gov.uk/ukpga/2019/4/section/34/1) (with [s. 22(6)](https://www.legislation.gov.uk/ukpga/2019/4/section/22/6)); [S.I. 2019/260](https://www.legislation.gov.uk/uksi/2019/260), [reg. 2](https://www.legislation.gov.uk/uksi/2019/260/regulation/2)
+[^c-fbc93cadf1dd0ea84bdd301253d1b220]: Textual amendment: Reg. 4(4) inserted (14.2.2019) by [Tenant Fees Act 2019 (c. 4)](https://www.legislation.gov.uk/ukpga/2019/4), [ss. 22(3)](https://www.legislation.gov.uk/ukpga/2019/4/section/22/3), [34(1)](https://www.legislation.gov.uk/ukpga/2019/4/section/34/1) (with [s. 22(6)](https://www.legislation.gov.uk/ukpga/2019/4/section/22/6)); [S.I. 2019/260](https://www.legislation.gov.uk/uksi/2019/260), [reg. 2](https://www.legislation.gov.uk/uksi/2019/260/regulation/2)
 
-[^key-567b93fd9974cb6143ef8fe73a65a523]: Commencement: Reg. 5 in force at 21.6.2018, see reg. 1(2)
+[^c-567b93fd9974cb6143ef8fe73a65a523]: Commencement: Reg. 5 in force at 21.6.2018, see reg. 1(2)
 
-[^key-adc39645ca4203057c99ced2431df2ce]: Textual amendment: Words in reg. 5(1)(a)(iii) substituted (14.2.2019) by [Tenant Fees Act 2019 (c. 4)](https://www.legislation.gov.uk/ukpga/2019/4), [ss. 22(4)(a)](https://www.legislation.gov.uk/ukpga/2019/4/section/22/4/a), [34(1)](https://www.legislation.gov.uk/ukpga/2019/4/section/34/1) (with [s. 22(6)](https://www.legislation.gov.uk/ukpga/2019/4/section/22/6)); [S.I. 2019/260](https://www.legislation.gov.uk/uksi/2019/260), [reg. 2](https://www.legislation.gov.uk/uksi/2019/260/regulation/2)
+[^c-adc39645ca4203057c99ced2431df2ce]: Textual amendment: Words in reg. 5(1)(a)(iii) substituted (14.2.2019) by [Tenant Fees Act 2019 (c. 4)](https://www.legislation.gov.uk/ukpga/2019/4), [ss. 22(4)(a)](https://www.legislation.gov.uk/ukpga/2019/4/section/22/4/a), [34(1)](https://www.legislation.gov.uk/ukpga/2019/4/section/34/1) (with [s. 22(6)](https://www.legislation.gov.uk/ukpga/2019/4/section/22/6)); [S.I. 2019/260](https://www.legislation.gov.uk/uksi/2019/260), [reg. 2](https://www.legislation.gov.uk/uksi/2019/260/regulation/2)
 
-[^key-726bbfd5d715e344b7d8efa2a58895dc]: Textual amendment: Words in reg. 5(1)(c)(i) substituted (14.2.2019) by [Tenant Fees Act 2019 (c. 4)](https://www.legislation.gov.uk/ukpga/2019/4), [ss. 22(4)(b)](https://www.legislation.gov.uk/ukpga/2019/4/section/22/4/b), [34(1)](https://www.legislation.gov.uk/ukpga/2019/4/section/34/1) (with [s. 22(6)](https://www.legislation.gov.uk/ukpga/2019/4/section/22/6)); [S.I. 2019/260](https://www.legislation.gov.uk/uksi/2019/260), [reg. 2](https://www.legislation.gov.uk/uksi/2019/260/regulation/2)
+[^c-726bbfd5d715e344b7d8efa2a58895dc]: Textual amendment: Words in reg. 5(1)(c)(i) substituted (14.2.2019) by [Tenant Fees Act 2019 (c. 4)](https://www.legislation.gov.uk/ukpga/2019/4), [ss. 22(4)(b)](https://www.legislation.gov.uk/ukpga/2019/4/section/22/4/b), [34(1)](https://www.legislation.gov.uk/ukpga/2019/4/section/34/1) (with [s. 22(6)](https://www.legislation.gov.uk/ukpga/2019/4/section/22/6)); [S.I. 2019/260](https://www.legislation.gov.uk/uksi/2019/260), [reg. 2](https://www.legislation.gov.uk/uksi/2019/260/regulation/2)
 
-[^key-209d64cbb196a21738594967e6667cc6]: Textual amendment: Reg. 5(1A) inserted (14.2.2019) by [Tenant Fees Act 2019 (c. 4)](https://www.legislation.gov.uk/ukpga/2019/4), [ss. 22(4)(c)](https://www.legislation.gov.uk/ukpga/2019/4/section/22/4/c), [34(1)](https://www.legislation.gov.uk/ukpga/2019/4/section/34/1) (with [s. 22(6)](https://www.legislation.gov.uk/ukpga/2019/4/section/22/6)); [S.I. 2019/260](https://www.legislation.gov.uk/uksi/2019/260), [reg. 2](https://www.legislation.gov.uk/uksi/2019/260/regulation/2)
+[^c-209d64cbb196a21738594967e6667cc6]: Textual amendment: Reg. 5(1A) inserted (14.2.2019) by [Tenant Fees Act 2019 (c. 4)](https://www.legislation.gov.uk/ukpga/2019/4), [ss. 22(4)(c)](https://www.legislation.gov.uk/ukpga/2019/4/section/22/4/c), [34(1)](https://www.legislation.gov.uk/ukpga/2019/4/section/34/1) (with [s. 22(6)](https://www.legislation.gov.uk/ukpga/2019/4/section/22/6)); [S.I. 2019/260](https://www.legislation.gov.uk/uksi/2019/260), [reg. 2](https://www.legislation.gov.uk/uksi/2019/260/regulation/2)
 
-[^key-eced3f8fffdbc96296fa00b0faf6c8e2]: Textual amendment: Reg. 5(2A) inserted (14.2.2019) by [Tenant Fees Act 2019 (c. 4)](https://www.legislation.gov.uk/ukpga/2019/4), [ss. 22(4)(d)](https://www.legislation.gov.uk/ukpga/2019/4/section/22/4/d), [34(1)](https://www.legislation.gov.uk/ukpga/2019/4/section/34/1) (with [s. 22(6)](https://www.legislation.gov.uk/ukpga/2019/4/section/22/6)); [S.I. 2019/260](https://www.legislation.gov.uk/uksi/2019/260), [reg. 2](https://www.legislation.gov.uk/uksi/2019/260/regulation/2)
+[^c-eced3f8fffdbc96296fa00b0faf6c8e2]: Textual amendment: Reg. 5(2A) inserted (14.2.2019) by [Tenant Fees Act 2019 (c. 4)](https://www.legislation.gov.uk/ukpga/2019/4), [ss. 22(4)(d)](https://www.legislation.gov.uk/ukpga/2019/4/section/22/4/d), [34(1)](https://www.legislation.gov.uk/ukpga/2019/4/section/34/1) (with [s. 22(6)](https://www.legislation.gov.uk/ukpga/2019/4/section/22/6)); [S.I. 2019/260](https://www.legislation.gov.uk/uksi/2019/260), [reg. 2](https://www.legislation.gov.uk/uksi/2019/260/regulation/2)
 
-[^key-e5660420cdfff37f8a5db8c2dd4b4813]: Textual amendment: Word in reg. 5(2A) substituted (24.3.2020) by [The Client Money Protection Schemes for Property Agents (Approval and Designation of Schemes) (Amendment) Regulations 2020 (S.I. 2020/331)](https://www.legislation.gov.uk/uksi/2020/331), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/331/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2020/331/regulation/2)
+[^c-e5660420cdfff37f8a5db8c2dd4b4813]: Textual amendment: Word in reg. 5(2A) substituted (24.3.2020) by [The Client Money Protection Schemes for Property Agents (Approval and Designation of Schemes) (Amendment) Regulations 2020 (S.I. 2020/331)](https://www.legislation.gov.uk/uksi/2020/331), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/331/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2020/331/regulation/2)
 
-[^key-7e6303d850aeac9ffde4b6b414ee79b0]: Commencement: Reg. 6 in force at 21.6.2018, see reg. 1(2)
+[^c-7e6303d850aeac9ffde4b6b414ee79b0]: Commencement: Reg. 6 in force at 21.6.2018, see reg. 1(2)
 
-[^key-2d32bb28acffb702f1c175fd243fd4b1]: Commencement: Reg. 7 in force at 21.6.2018, see reg. 1(2)
+[^c-2d32bb28acffb702f1c175fd243fd4b1]: Commencement: Reg. 7 in force at 21.6.2018, see reg. 1(2)
 
-[^key-902a6ec5e0721dc4c4b71541365eccfd]: Commencement: Reg. 8 in force at 21.6.2018, see reg. 1(2)
+[^c-902a6ec5e0721dc4c4b71541365eccfd]: Commencement: Reg. 8 in force at 21.6.2018, see reg. 1(2)
 
-[^key-25abfbc95a54294620ad3369adaab1e8]: Textual amendment: Words in reg. 8(1) inserted (14.2.2019) by [Tenant Fees Act 2019 (c. 4)](https://www.legislation.gov.uk/ukpga/2019/4), [ss. 22(5)(a)](https://www.legislation.gov.uk/ukpga/2019/4/section/22/5/a), [34(1)](https://www.legislation.gov.uk/ukpga/2019/4/section/34/1) (with [s. 22(6)](https://www.legislation.gov.uk/ukpga/2019/4/section/22/6)); [S.I. 2019/260](https://www.legislation.gov.uk/uksi/2019/260), [reg. 2](https://www.legislation.gov.uk/uksi/2019/260/regulation/2)
+[^c-25abfbc95a54294620ad3369adaab1e8]: Textual amendment: Words in reg. 8(1) inserted (14.2.2019) by [Tenant Fees Act 2019 (c. 4)](https://www.legislation.gov.uk/ukpga/2019/4), [ss. 22(5)(a)](https://www.legislation.gov.uk/ukpga/2019/4/section/22/5/a), [34(1)](https://www.legislation.gov.uk/ukpga/2019/4/section/34/1) (with [s. 22(6)](https://www.legislation.gov.uk/ukpga/2019/4/section/22/6)); [S.I. 2019/260](https://www.legislation.gov.uk/uksi/2019/260), [reg. 2](https://www.legislation.gov.uk/uksi/2019/260/regulation/2)
 
-[^key-4ebd81e22d32eb6d53fb9e304c766942]: Textual amendment: Reg. 8(1A)-(1E) inserted (14.2.2019) by [Tenant Fees Act 2019 (c. 4)](https://www.legislation.gov.uk/ukpga/2019/4), [ss. 22(5)(b)](https://www.legislation.gov.uk/ukpga/2019/4/section/22/5/b), [34(1)](https://www.legislation.gov.uk/ukpga/2019/4/section/34/1) (with [s. 22(6)](https://www.legislation.gov.uk/ukpga/2019/4/section/22/6)); [S.I. 2019/260](https://www.legislation.gov.uk/uksi/2019/260), [reg. 2](https://www.legislation.gov.uk/uksi/2019/260/regulation/2)
+[^c-4ebd81e22d32eb6d53fb9e304c766942]: Textual amendment: Reg. 8(1A)-(1E) inserted (14.2.2019) by [Tenant Fees Act 2019 (c. 4)](https://www.legislation.gov.uk/ukpga/2019/4), [ss. 22(5)(b)](https://www.legislation.gov.uk/ukpga/2019/4/section/22/5/b), [34(1)](https://www.legislation.gov.uk/ukpga/2019/4/section/34/1) (with [s. 22(6)](https://www.legislation.gov.uk/ukpga/2019/4/section/22/6)); [S.I. 2019/260](https://www.legislation.gov.uk/uksi/2019/260), [reg. 2](https://www.legislation.gov.uk/uksi/2019/260/regulation/2)
 
-[^key-fec9976e901a61f4e9af42ce0675c5ff]: Textual amendment: Reg. 8(3A)-(3C) inserted (14.2.2019) by [Tenant Fees Act 2019 (c. 4)](https://www.legislation.gov.uk/ukpga/2019/4), [ss. 22(5)(c)](https://www.legislation.gov.uk/ukpga/2019/4/section/22/5/c), [34(1)](https://www.legislation.gov.uk/ukpga/2019/4/section/34/1) (with [s. 22(6)](https://www.legislation.gov.uk/ukpga/2019/4/section/22/6)); [S.I. 2019/260](https://www.legislation.gov.uk/uksi/2019/260), [reg. 2](https://www.legislation.gov.uk/uksi/2019/260/regulation/2)
+[^c-fec9976e901a61f4e9af42ce0675c5ff]: Textual amendment: Reg. 8(3A)-(3C) inserted (14.2.2019) by [Tenant Fees Act 2019 (c. 4)](https://www.legislation.gov.uk/ukpga/2019/4), [ss. 22(5)(c)](https://www.legislation.gov.uk/ukpga/2019/4/section/22/5/c), [34(1)](https://www.legislation.gov.uk/ukpga/2019/4/section/34/1) (with [s. 22(6)](https://www.legislation.gov.uk/ukpga/2019/4/section/22/6)); [S.I. 2019/260](https://www.legislation.gov.uk/uksi/2019/260), [reg. 2](https://www.legislation.gov.uk/uksi/2019/260/regulation/2)
 
-[^key-829f217facdb3becd1213cdd3c6df8d7]: Textual amendment: Reg. 8(5)(aa) substituted for word (14.2.2019) by [Tenant Fees Act 2019 (c. 4)](https://www.legislation.gov.uk/ukpga/2019/4), [ss. 22(5)(d)](https://www.legislation.gov.uk/ukpga/2019/4/section/22/5/d), [34(1)](https://www.legislation.gov.uk/ukpga/2019/4/section/34/1) (with [s. 22(6)](https://www.legislation.gov.uk/ukpga/2019/4/section/22/6)); [S.I. 2019/260](https://www.legislation.gov.uk/uksi/2019/260), [reg. 2](https://www.legislation.gov.uk/uksi/2019/260/regulation/2)
+[^c-829f217facdb3becd1213cdd3c6df8d7]: Textual amendment: Reg. 8(5)(aa) substituted for word (14.2.2019) by [Tenant Fees Act 2019 (c. 4)](https://www.legislation.gov.uk/ukpga/2019/4), [ss. 22(5)(d)](https://www.legislation.gov.uk/ukpga/2019/4/section/22/5/d), [34(1)](https://www.legislation.gov.uk/ukpga/2019/4/section/34/1) (with [s. 22(6)](https://www.legislation.gov.uk/ukpga/2019/4/section/22/6)); [S.I. 2019/260](https://www.legislation.gov.uk/uksi/2019/260), [reg. 2](https://www.legislation.gov.uk/uksi/2019/260/regulation/2)
 
 [^c23315741]: Marginal citation: [2004 c.34](https://www.legislation.gov.uk/ukpga/2004/34).
 
 [^c23315751]: Marginal citation: [2013 c. 24](https://www.legislation.gov.uk/ukpga/2013/24).
 
-[^key-0e561f8838f0c3762cb5db76674d13d4]: Textual amendment: Reg. 8(7)(8) inserted (14.2.2019) by [Tenant Fees Act 2019 (c. 4)](https://www.legislation.gov.uk/ukpga/2019/4), [ss. 22(5)(e)](https://www.legislation.gov.uk/ukpga/2019/4/section/22/5/e), [34(1)](https://www.legislation.gov.uk/ukpga/2019/4/section/34/1) (with [s. 22(6)](https://www.legislation.gov.uk/ukpga/2019/4/section/22/6)); [S.I. 2019/260](https://www.legislation.gov.uk/uksi/2019/260), [reg. 2](https://www.legislation.gov.uk/uksi/2019/260/regulation/2)
+[^c-0e561f8838f0c3762cb5db76674d13d4]: Textual amendment: Reg. 8(7)(8) inserted (14.2.2019) by [Tenant Fees Act 2019 (c. 4)](https://www.legislation.gov.uk/ukpga/2019/4), [ss. 22(5)(e)](https://www.legislation.gov.uk/ukpga/2019/4/section/22/5/e), [34(1)](https://www.legislation.gov.uk/ukpga/2019/4/section/34/1) (with [s. 22(6)](https://www.legislation.gov.uk/ukpga/2019/4/section/22/6)); [S.I. 2019/260](https://www.legislation.gov.uk/uksi/2019/260), [reg. 2](https://www.legislation.gov.uk/uksi/2019/260/regulation/2)
 
-[^key-7c729634c4cdf363ba8fd85f2e79e778]: Commencement: Reg. 9 in force at 21.6.2018, see reg. 1(2)
+[^c-7c729634c4cdf363ba8fd85f2e79e778]: Commencement: Reg. 9 in force at 21.6.2018, see reg. 1(2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Review of treatment[^key-c7d62c9d7414a458f63a1bc613e0eb5d]
+## 16. Review of treatment[^c-c7d62c9d7414a458f63a1bc613e0eb5d]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c7d62c9d7414a458f63a1bc613e0eb5d]: Commencement: S. 16 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-c7d62c9d7414a458f63a1bc613e0eb5d]: Commencement: S. 16 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)

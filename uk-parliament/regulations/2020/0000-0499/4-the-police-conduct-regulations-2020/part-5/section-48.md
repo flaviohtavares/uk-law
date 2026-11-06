@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. General[^key-e49433dd477523ddb8bf6126c358de8c]
+## 48. General[^c-e49433dd477523ddb8bf6126c358de8c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Any period of time specified in this Part in relation to an accelerated miscondu
 
 ## Annotations
 
-[^key-e49433dd477523ddb8bf6126c358de8c]: Commencement: Reg. 48 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-e49433dd477523ddb8bf6126c358de8c]: Commencement: Reg. 48 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Offences against the safety of spacecraft etc[^key-2c97a99a4e06d5d728b53c884ce6f71b]
+## 22. Offences against the safety of spacecraft etc[^c-2c97a99a4e06d5d728b53c884ce6f71b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 4 (offences against the safety of spacecraft etc) has effect.
 
 ## Annotations
 
-[^key-2c97a99a4e06d5d728b53c884ce6f71b]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2018/5/section/22) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 41](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/41) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-2c97a99a4e06d5d728b53c884ce6f71b]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2018/5/section/22) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 41](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/41) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))

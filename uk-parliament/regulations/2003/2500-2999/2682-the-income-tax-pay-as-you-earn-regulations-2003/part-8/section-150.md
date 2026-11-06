@@ -33,10 +33,10 @@ summary: ''
 | regulation 19 | amendment of code |
 | regulation 20 | notice to employer of amended code |
 | regulation 21 | deduction and repayment of tax by reference to employee’s code |
-| regulation 97 | retention by employer of[^key-718e6330f6f3d883004b5a12b7ac6d5e] PAYE records |
+| regulation 97 | retention by employer of[^c-718e6330f6f3d883004b5a12b7ac6d5e] PAYE records |
 | regulation 98 | multiple PAYE schemes |
 | regulation 102 | succession to a business etc |
-| regulation 185[^key-7a9f330bd249c36654c85a62a51481de] | Adjusting total net tax deducted for purposes of sections 59A(1), 59B(1) and 59BA(2) TMA |
+| regulation 185[^c-7a9f330bd249c36654c85a62a51481de] | Adjusting total net tax deducted for purposes of sections 59A(1), 59B(1) and 59BA(2) TMA |
 | regulation 188 | assessments other than self-assessments |
 | regulation 211 | how information must or may be delivered by employers |
 | regulation 214 | how information must be provided by employees |
@@ -59,6 +59,6 @@ summary: ''
 
 ## Annotations
 
-[^key-718e6330f6f3d883004b5a12b7ac6d5e]: Textual amendment: Words in [reg. 150(1)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/150/1) substituted (1.4.2009) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2009 (S.I. 2009/588)](https://www.legislation.gov.uk/uksi/2009/588), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/588/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2009/588/regulation/7)
+[^c-718e6330f6f3d883004b5a12b7ac6d5e]: Textual amendment: Words in [reg. 150(1)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/150/1) substituted (1.4.2009) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2009 (S.I. 2009/588)](https://www.legislation.gov.uk/uksi/2009/588), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/588/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2009/588/regulation/7)
 
-[^key-7a9f330bd249c36654c85a62a51481de]: Textual amendment: Words in [reg. 150(1)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/150/1) substituted (6.4.2017) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2017 (S.I. 2017/414)](https://www.legislation.gov.uk/uksi/2017/414), [regs. 1](https://www.legislation.gov.uk/uksi/2017/414/regulation/1), [4](https://www.legislation.gov.uk/uksi/2017/414/regulation/4)
+[^c-7a9f330bd249c36654c85a62a51481de]: Textual amendment: Words in [reg. 150(1)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/150/1) substituted (6.4.2017) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2017 (S.I. 2017/414)](https://www.legislation.gov.uk/uksi/2017/414), [regs. 1](https://www.legislation.gov.uk/uksi/2017/414/regulation/1), [4](https://www.legislation.gov.uk/uksi/2017/414/regulation/4)

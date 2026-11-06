@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 131ZA. Money[^key-fdebc74ba36e97c0e82c200838451d38][^key-e67d1733bd37a97c118b90b6f08d3e81]
+## 131ZA. Money[^c-fdebc74ba36e97c0e82c200838451d38][^c-e67d1733bd37a97c118b90b6f08d3e81]
 
 *Extent: S*
 
 (1) This section applies to money which—
 
 - (a) is held by a person, and
-- (b) is held in an account maintained by the person with a relevant financial institution[^key-eee6263f5537ebe9855fc291be3cc017].
+- (b) is held in an account maintained by the person with a relevant financial institution[^c-eee6263f5537ebe9855fc291be3cc017].
 
 (2) This section also applies to money which is held by a person and which—
 
@@ -44,7 +44,7 @@ summary: ''
 - (a) on the application of the prosecutor, or
 - (b) by the relevant court of its own accord.
 
-(7) The Scottish Ministers may by regulations amend this section so that it applies by virtue of subsection (1) not only to money held in an account maintained with a relevant financial institution[^key-dcaf26d40e6d73bcb8fab089a8f276f2] but also to—
+(7) The Scottish Ministers may by regulations amend this section so that it applies by virtue of subsection (1) not only to money held in an account maintained with a relevant financial institution[^c-dcaf26d40e6d73bcb8fab089a8f276f2] but also to—
 
 - (a) money held in an account maintained with a financial institution of a specified kind, or
 - (b) money that is represented by, or may be obtained from, a financial instrument or product of a specified kind.
@@ -55,11 +55,11 @@ summary: ''
 
 - “**appropriate clerk of court**”, in relation to a confiscation order, means the sheriff clerk of the sheriff court responsible for enforcing the confiscation order under section 211 of the Procedure Act as applied by section 118(1);
 - “**appropriate person**” means—
-  - (a) in a case where the money is held in an account maintained with a relevant financial institution, the relevant financial institution[^key-ec2d312ca22e1564d42e02edd6b09e12] ;
+  - (a) in a case where the money is held in an account maintained with a relevant financial institution, the relevant financial institution[^c-ec2d312ca22e1564d42e02edd6b09e12] ;
   - (b) in any other case, the person on whose authority the money is detained;
 - “**bank**” means an authorised deposit-taker, other than a building society, that has its head office or a branch in the United Kingdom;
 - “**building society**” has the same meaning as in the Building Societies Act 1986;
-- “[^key-a61e52df7381710795e7aa4bb21810a9]**electronic money institution**” has the same meaning as in the Electronic Money Regulations 2011 ([S.I. 2011/99](https://www.legislation.gov.uk/uksi/2011/99)) (see regulation 2 of those Regulations);
+- “[^c-a61e52df7381710795e7aa4bb21810a9]**electronic money institution**” has the same meaning as in the Electronic Money Regulations 2011 ([S.I. 2011/99](https://www.legislation.gov.uk/uksi/2011/99)) (see regulation 2 of those Regulations);
 - “**payment institution**” means an authorised payment institution or a small payment institution (each as defined in regulation 2 of the Payment Services Regulations 2017 ([S.I. 2017/752](https://www.legislation.gov.uk/uksi/2017/752)));
 - “**relevant court**”, in relation to a confiscation order, means—
   - (a) the court which makes the confiscation order, or
@@ -75,24 +75,24 @@ summary: ''
 - (b) a person who—
   - (i) is specified, or is within a class of persons specified, by an order under section 38 of that Act (exemption orders), and
   - (ii) accepts deposits;
-- (c)[^key-da11082edc35019d74e99c57f1cf5085] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-da11082edc35019d74e99c57f1cf5085] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(11) A reference in subsection (10) to a person [^key-d0491b7041eb9bc872577806d5f7e3f2]... with permission to accept deposits does not include a person [^key-d0491b7041eb9bc872577806d5f7e3f2]... with permission to do so only for the purposes of, or in the course of, an activity other than accepting deposits.
+(11) A reference in subsection (10) to a person [^c-d0491b7041eb9bc872577806d5f7e3f2]... with permission to accept deposits does not include a person [^c-d0491b7041eb9bc872577806d5f7e3f2]... with permission to do so only for the purposes of, or in the course of, an activity other than accepting deposits.
 
 ## Annotations
 
-[^key-fdebc74ba36e97c0e82c200838451d38]: Textual amendment: S. 131ZA and cross-heading inserted (S.) (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 28](https://www.legislation.gov.uk/ukpga/2017/22/section/28), [58(2)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/2)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.S.I. 2017/456](https://www.legislation.gov.uk/ssi/2017/456), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2017/456/regulation/2/a)
+[^c-fdebc74ba36e97c0e82c200838451d38]: Textual amendment: S. 131ZA and cross-heading inserted (S.) (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 28](https://www.legislation.gov.uk/ukpga/2017/22/section/28), [58(2)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/2)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.S.I. 2017/456](https://www.legislation.gov.uk/ssi/2017/456), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2017/456/regulation/2/a)
 
-[^key-e67d1733bd37a97c118b90b6f08d3e81]: Textual amendment: [S. 131ZA](https://www.legislation.gov.uk/ukpga/2002/29/section/131ZA) heading substituted (26.10.2023 for specified purposes, 31.3.2026 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(2)(b)(4)(a)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b/4/a), [Sch. 8 para. 28(5)](https://www.legislation.gov.uk/ukpga/2023/56/schedule/8/paragraph/28/5); [S.S.I. 2025/304](https://www.legislation.gov.uk/ssi/2025/304), [reg. 2](https://www.legislation.gov.uk/ssi/2025/304/regulation/2)
+[^c-e67d1733bd37a97c118b90b6f08d3e81]: Textual amendment: [S. 131ZA](https://www.legislation.gov.uk/ukpga/2002/29/section/131ZA) heading substituted (26.10.2023 for specified purposes, 31.3.2026 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(2)(b)(4)(a)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b/4/a), [Sch. 8 para. 28(5)](https://www.legislation.gov.uk/ukpga/2023/56/schedule/8/paragraph/28/5); [S.S.I. 2025/304](https://www.legislation.gov.uk/ssi/2025/304), [reg. 2](https://www.legislation.gov.uk/ssi/2025/304/regulation/2)
 
-[^key-eee6263f5537ebe9855fc291be3cc017]: Textual amendment: Words in [s. 131ZA(1)(b)](https://www.legislation.gov.uk/ukpga/2002/29/section/131ZA/1/b) substituted (26.10.2023 for specified purposes, 31.3.2026 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)[(4)(a)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/4/a), [Sch. 8 para. 28(2)](https://www.legislation.gov.uk/ukpga/2023/56/schedule/8/paragraph/28/2); [S.S.I. 2025/304](https://www.legislation.gov.uk/ssi/2025/304), [reg. 2](https://www.legislation.gov.uk/ssi/2025/304/regulation/2)
+[^c-eee6263f5537ebe9855fc291be3cc017]: Textual amendment: Words in [s. 131ZA(1)(b)](https://www.legislation.gov.uk/ukpga/2002/29/section/131ZA/1/b) substituted (26.10.2023 for specified purposes, 31.3.2026 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)[(4)(a)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/4/a), [Sch. 8 para. 28(2)](https://www.legislation.gov.uk/ukpga/2023/56/schedule/8/paragraph/28/2); [S.S.I. 2025/304](https://www.legislation.gov.uk/ssi/2025/304), [reg. 2](https://www.legislation.gov.uk/ssi/2025/304/regulation/2)
 
-[^key-dcaf26d40e6d73bcb8fab089a8f276f2]: Textual amendment: Words in [s. 131ZA(7)](https://www.legislation.gov.uk/ukpga/2002/29/section/131ZA/7) substituted (26.10.2023 for specified purposes, 31.3.2026 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)[(4)(a)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/4/a), [Sch. 8 para. 28(3)](https://www.legislation.gov.uk/ukpga/2023/56/schedule/8/paragraph/28/3); [S.S.I. 2025/304](https://www.legislation.gov.uk/ssi/2025/304), [reg. 2](https://www.legislation.gov.uk/ssi/2025/304/regulation/2)
+[^c-dcaf26d40e6d73bcb8fab089a8f276f2]: Textual amendment: Words in [s. 131ZA(7)](https://www.legislation.gov.uk/ukpga/2002/29/section/131ZA/7) substituted (26.10.2023 for specified purposes, 31.3.2026 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)[(4)(a)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/4/a), [Sch. 8 para. 28(3)](https://www.legislation.gov.uk/ukpga/2023/56/schedule/8/paragraph/28/3); [S.S.I. 2025/304](https://www.legislation.gov.uk/ssi/2025/304), [reg. 2](https://www.legislation.gov.uk/ssi/2025/304/regulation/2)
 
-[^key-ec2d312ca22e1564d42e02edd6b09e12]: Textual amendment: Words in [s. 131ZA(9)](https://www.legislation.gov.uk/ukpga/2002/29/section/131ZA/9) substituted (26.10.2023 for specified purposes, 31.3.2026 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)[(4)(a)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/4/a), [Sch. 8 para. 28(4)(a)](https://www.legislation.gov.uk/ukpga/2023/56/schedule/8/paragraph/28/4/a); [S.S.I. 2025/304](https://www.legislation.gov.uk/ssi/2025/304), [reg. 2](https://www.legislation.gov.uk/ssi/2025/304/regulation/2)
+[^c-ec2d312ca22e1564d42e02edd6b09e12]: Textual amendment: Words in [s. 131ZA(9)](https://www.legislation.gov.uk/ukpga/2002/29/section/131ZA/9) substituted (26.10.2023 for specified purposes, 31.3.2026 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)[(4)(a)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/4/a), [Sch. 8 para. 28(4)(a)](https://www.legislation.gov.uk/ukpga/2023/56/schedule/8/paragraph/28/4/a); [S.S.I. 2025/304](https://www.legislation.gov.uk/ssi/2025/304), [reg. 2](https://www.legislation.gov.uk/ssi/2025/304/regulation/2)
 
-[^key-a61e52df7381710795e7aa4bb21810a9]: Textual amendment: Words in [s. 131ZA(9)](https://www.legislation.gov.uk/ukpga/2002/29/section/131ZA/9) inserted (26.10.2023 for specified purposes, 31.3.2026 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)[(4)(a)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/4/a), [Sch. 8 para. 28(4)(b)](https://www.legislation.gov.uk/ukpga/2023/56/schedule/8/paragraph/28/4/b); [S.S.I. 2025/304](https://www.legislation.gov.uk/ssi/2025/304), [reg. 2](https://www.legislation.gov.uk/ssi/2025/304/regulation/2)
+[^c-a61e52df7381710795e7aa4bb21810a9]: Textual amendment: Words in [s. 131ZA(9)](https://www.legislation.gov.uk/ukpga/2002/29/section/131ZA/9) inserted (26.10.2023 for specified purposes, 31.3.2026 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)[(4)(a)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/4/a), [Sch. 8 para. 28(4)(b)](https://www.legislation.gov.uk/ukpga/2023/56/schedule/8/paragraph/28/4/b); [S.S.I. 2025/304](https://www.legislation.gov.uk/ssi/2025/304), [reg. 2](https://www.legislation.gov.uk/ssi/2025/304/regulation/2)
 
-[^key-da11082edc35019d74e99c57f1cf5085]: Textual amendment: S. 131ZA(10)(c) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [107(3)(a)](https://www.legislation.gov.uk/uksi/2019/742/regulation/107/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-da11082edc35019d74e99c57f1cf5085]: Textual amendment: S. 131ZA(10)(c) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [107(3)(a)](https://www.legislation.gov.uk/uksi/2019/742/regulation/107/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d0491b7041eb9bc872577806d5f7e3f2]: Textual amendment: Words in s. 131ZA(11) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [107(3)(b)](https://www.legislation.gov.uk/uksi/2019/742/regulation/107/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d0491b7041eb9bc872577806d5f7e3f2]: Textual amendment: Words in s. 131ZA(11) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [107(3)(b)](https://www.legislation.gov.uk/uksi/2019/742/regulation/107/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

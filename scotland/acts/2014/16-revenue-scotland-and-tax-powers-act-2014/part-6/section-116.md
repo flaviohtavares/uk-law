@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 116. The claimant: partnerships[^key-84b27eda01cdc62421a4696b68ee07ed]
+## 116. The claimant: partnerships[^c-84b27eda01cdc62421a4696b68ee07ed]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-84b27eda01cdc62421a4696b68ee07ed]: Commencement: [S. 116](https://www.legislation.gov.uk/asp/2014/16/section/116) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-84b27eda01cdc62421a4696b68ee07ed]: Commencement: [S. 116](https://www.legislation.gov.uk/asp/2014/16/section/116) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

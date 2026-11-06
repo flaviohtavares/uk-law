@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37A. Guidance[^key-28eadcd486be9856b2563840bee08bc4][^c18955551][^c20447571][^c18954271]
+## 37A. Guidance[^c-28eadcd486be9856b2563840bee08bc4][^c18955551][^c20447571][^c18954271]
 
 *Extent: E+W*
 
@@ -40,7 +40,7 @@ summary: ''
 
 ## Annotations
 
-[^key-28eadcd486be9856b2563840bee08bc4]: Modification: S. 37A applied (with modifications) (25.6.2013) by [The Police and Criminal Evidence Act 1984 (Application to immigration officers and designated customs officials in England and Wales) Order 2013 (S.I. 2013/1542)](https://www.legislation.gov.uk/uksi/2013/1542), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1), [12(2)-(4)](https://www.legislation.gov.uk/uksi/2013/1542/article/12/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/1542/schedule/2) (with [arts. 13-31](https://www.legislation.gov.uk/uksi/2013/1542/article/13))
+[^c-28eadcd486be9856b2563840bee08bc4]: Modification: S. 37A applied (with modifications) (25.6.2013) by [The Police and Criminal Evidence Act 1984 (Application to immigration officers and designated customs officials in England and Wales) Order 2013 (S.I. 2013/1542)](https://www.legislation.gov.uk/uksi/2013/1542), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1), [12(2)-(4)](https://www.legislation.gov.uk/uksi/2013/1542/article/12/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/1542/schedule/2) (with [arts. 13-31](https://www.legislation.gov.uk/uksi/2013/1542/article/13))
 
 [^c18955551]: Modification: Ss. 37-37B modified (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [ss. 50](https://www.legislation.gov.uk/ukpga/2005/11/section/50), [53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1) {Sch. 4 para. 30}; [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
 

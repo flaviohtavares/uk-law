@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25.12. Evidence of a witness in writing[^key-e899f9e14a1e6f2c788e3742d1255aee]
+## 25.12. Evidence of a witness in writing[^c-e899f9e14a1e6f2c788e3742d1255aee]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e899f9e14a1e6f2c788e3742d1255aee]: Commencement: [Rule 25.12](https://www.legislation.gov.uk/uksi/2025/909/rule/25.12) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-e899f9e14a1e6f2c788e3742d1255aee]: Commencement: [Rule 25.12](https://www.legislation.gov.uk/uksi/2025/909/rule/25.12) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

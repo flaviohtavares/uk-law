@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 15. Construction and maintenance of new or altered streets[^key-37c478f31addc8ed1a5118902f40636e]
+## 15. Construction and maintenance of new or altered streets[^c-37c478f31addc8ed1a5118902f40636e]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ but for the purposes of such a defence it is not relevant to prove that the Comp
 
 ## Annotations
 
-[^key-37c478f31addc8ed1a5118902f40636e]: Commencement: Art. 15 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)
+[^c-37c478f31addc8ed1a5118902f40636e]: Commencement: Art. 15 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)

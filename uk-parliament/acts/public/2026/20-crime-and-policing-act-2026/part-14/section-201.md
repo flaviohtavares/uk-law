@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 201. Anonymity for authorised firearms officers appealing convictions for qualifying offences[^key-8c15811e89895e33ce8a3a1d959f0a9e]
+## 201. Anonymity for authorised firearms officers appealing convictions for qualifying offences[^c-8c15811e89895e33ce8a3a1d959f0a9e]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8c15811e89895e33ce8a3a1d959f0a9e]: Commencement: [S. 201](https://www.legislation.gov.uk/ukpga/2026/20/section/201) in force at 29.6.2026, see [s. 255(3)(h)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/h)
+[^c-8c15811e89895e33ce8a3a1d959f0a9e]: Commencement: [S. 201](https://www.legislation.gov.uk/ukpga/2026/20/section/201) in force at 29.6.2026, see [s. 255(3)(h)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/h)

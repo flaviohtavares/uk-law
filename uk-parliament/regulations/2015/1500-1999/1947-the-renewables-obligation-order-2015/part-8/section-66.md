@@ -27,7 +27,7 @@ summary: ''
   - (b) amounts held by the Authority by virtue of articles 70(4)(b), 71(4), 76(5) and 77(6)(b), and
   - (c) any interest earned on those amounts;
 - “**compliant UK supplier**” means a UK supplier which, at the end of the late payment period, has discharged or is treated as if it had discharged in full every UK renewables obligation imposed on it in respect of the relevant period;
-- “[^key-b42eaa44aa8bd9f818c776762041ba45]**consumer prices index**” means—
+- “[^c-b42eaa44aa8bd9f818c776762041ba45]**consumer prices index**” means—
   - (a) the consumer prices index (for all items) calculated and published by the Office for National Statistics, or
   - (b) where the index is not published for a month, any substituted index or figures published by the Office for National Statistics;
 - “**GBRO costs**” means the costs which have been or are expected to be incurred by the Authority in connection with the performance of any of its functions conferred by or under sections 32 to 32M of the Act during the settlement period;
@@ -73,4 +73,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b42eaa44aa8bd9f818c776762041ba45]: Textual amendment: Words in [art. 66(1)](https://www.legislation.gov.uk/uksi/2015/1947/article/66/1) inserted (27.3.2026) by [The Renewables Obligation (Amendment) Order 2026 (S.I. 2026/380)](https://www.legislation.gov.uk/uksi/2026/380), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/380/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2026/380/article/2/2)
+[^c-b42eaa44aa8bd9f818c776762041ba45]: Textual amendment: Words in [art. 66(1)](https://www.legislation.gov.uk/uksi/2015/1947/article/66/1) inserted (27.3.2026) by [The Renewables Obligation (Amendment) Order 2026 (S.I. 2026/380)](https://www.legislation.gov.uk/uksi/2026/380), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/380/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2026/380/article/2/2)

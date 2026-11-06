@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Publication of final information[^key-8c503251921a5f445cb8973ea2d6d99f]
+## 80. Publication of final information[^c-8c503251921a5f445cb8973ea2d6d99f]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,16 +37,16 @@ summary: ''
   - (iii) the number of credits in each of the CRTS or VRTS which the SPV manufacturer disposed of through trading during the trading window following the scheme year;
 - (e) the average of the specific emissions of CO<sub>2</sub> of all the NZE cars, and of all the NZE vans, registered during the scheme year.
 
-(2) In paragraph (1)(c)(v), a reference to “**trading**” is a reference to trading allowances or credits under article 25, 25A, 26, 26A, 37, 57, 57A, 58, 58A or 69[^key-c9e7b469be056844138be501647ae8d5].
+(2) In paragraph (1)(c)(v), a reference to “**trading**” is a reference to trading allowances or credits under article 25, 25A, 26, 26A, 37, 57, 57A, 58, 58A or 69[^c-c9e7b469be056844138be501647ae8d5].
 
-(3) In paragraph (1)(d)(iii), a reference to “**trading**” is a reference to disposing of credits through trading under article 26, 26A, 58 or 58A[^key-548d93d846d096ad41c763a989cafdfd].
+(3) In paragraph (1)(d)(iii), a reference to “**trading**” is a reference to disposing of credits through trading under article 26, 26A, 58 or 58A[^c-548d93d846d096ad41c763a989cafdfd].
 
 (4) The administrator may publish amended information at any time where it discovers any error or omission in the published information.
 
 ## Annotations
 
-[^key-8c503251921a5f445cb8973ea2d6d99f]: Commencement: Art. 80 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-8c503251921a5f445cb8973ea2d6d99f]: Commencement: Art. 80 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
 
-[^key-c9e7b469be056844138be501647ae8d5]: Textual amendment: Words in [art. 80(2)](https://www.legislation.gov.uk/uksi/2023/1394/article/80/2) substituted (1.1.2026) by [The Vehicle Emissions Trading Schemes (Amendment) (No. 2) Order 2025 (S.I. 2025/1101)](https://www.legislation.gov.uk/uksi/2025/1101), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/1101/article/1/1), [34(2)](https://www.legislation.gov.uk/uksi/2025/1101/article/34/2)
+[^c-c9e7b469be056844138be501647ae8d5]: Textual amendment: Words in [art. 80(2)](https://www.legislation.gov.uk/uksi/2023/1394/article/80/2) substituted (1.1.2026) by [The Vehicle Emissions Trading Schemes (Amendment) (No. 2) Order 2025 (S.I. 2025/1101)](https://www.legislation.gov.uk/uksi/2025/1101), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/1101/article/1/1), [34(2)](https://www.legislation.gov.uk/uksi/2025/1101/article/34/2)
 
-[^key-548d93d846d096ad41c763a989cafdfd]: Textual amendment: Words in [art. 80(3)](https://www.legislation.gov.uk/uksi/2023/1394/article/80/3) substituted (1.1.2026) by [The Vehicle Emissions Trading Schemes (Amendment) (No. 2) Order 2025 (S.I. 2025/1101)](https://www.legislation.gov.uk/uksi/2025/1101), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/1101/article/1/1), [34(3)](https://www.legislation.gov.uk/uksi/2025/1101/article/34/3)
+[^c-548d93d846d096ad41c763a989cafdfd]: Textual amendment: Words in [art. 80(3)](https://www.legislation.gov.uk/uksi/2023/1394/article/80/3) substituted (1.1.2026) by [The Vehicle Emissions Trading Schemes (Amendment) (No. 2) Order 2025 (S.I. 2025/1101)](https://www.legislation.gov.uk/uksi/2025/1101), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/1101/article/1/1), [34(3)](https://www.legislation.gov.uk/uksi/2025/1101/article/34/3)

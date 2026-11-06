@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Commander to ensure crew, passengers, and baggage secure[^key-10b5f259795909f457dd9d8e51963d25]
+## 50. Commander to ensure crew, passengers, and baggage secure[^c-10b5f259795909f457dd9d8e51963d25]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-10b5f259795909f457dd9d8e51963d25]: Commencement: [Art. 50](https://www.legislation.gov.uk/uksi/2015/870/article/50) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-10b5f259795909f457dd9d8e51963d25]: Commencement: [Art. 50](https://www.legislation.gov.uk/uksi/2015/870/article/50) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

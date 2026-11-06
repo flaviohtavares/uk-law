@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Responsibilities of the safety manager[^key-2423aaece71667a80df25e9ee6c7880a]
+## 86. Responsibilities of the safety manager[^c-2423aaece71667a80df25e9ee6c7880a]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2423aaece71667a80df25e9ee6c7880a]: Commencement: Reg. 86 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-2423aaece71667a80df25e9ee6c7880a]: Commencement: Reg. 86 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

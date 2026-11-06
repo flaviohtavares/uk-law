@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Constitution of NDA[^key-81a8ea76ef97e3e22ab8f5e59e2ff942]
+## 2. Constitution of NDA[^c-81a8ea76ef97e3e22ab8f5e59e2ff942]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,4 +65,4 @@ and the direction must not set a maximum of more than three.
 
 ## Annotations
 
-[^key-81a8ea76ef97e3e22ab8f5e59e2ff942]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2004/20/section/2) in force at 27.7.2004 by [S.I. 2004/1973](https://www.legislation.gov.uk/uksi/2004/1973), [art. 2](https://www.legislation.gov.uk/uksi/2004/1973/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/1973/schedule)
+[^c-81a8ea76ef97e3e22ab8f5e59e2ff942]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2004/20/section/2) in force at 27.7.2004 by [S.I. 2004/1973](https://www.legislation.gov.uk/uksi/2004/1973), [art. 2](https://www.legislation.gov.uk/uksi/2004/1973/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/1973/schedule)

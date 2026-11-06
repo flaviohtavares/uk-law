@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation and commencement[^key-caf06f534769f72f4b1d35fd6b88fb5a]
+## 1. Citation and commencement[^c-caf06f534769f72f4b1d35fd6b88fb5a]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Order may be cited as the Sunnica Energy Farm Order 2024 and comes into for
 
 ## Annotations
 
-[^key-caf06f534769f72f4b1d35fd6b88fb5a]: Commencement: Art. 1 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/802/article/1)
+[^c-caf06f534769f72f4b1d35fd6b88fb5a]: Commencement: Art. 1 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/802/article/1)

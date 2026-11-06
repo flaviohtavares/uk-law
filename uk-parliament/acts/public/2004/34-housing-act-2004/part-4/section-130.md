@@ -47,7 +47,7 @@ as from the termination date.
 
 (8) If by virtue of this section a relevant landlord becomes subject to any liability to pay damages in respect of anything done (or omitted to be done) before the termination date by or on behalf of the authority, the authority are liable to reimburse to the relevant landlord an amount equal to the amount of the damages paid by him.
 
-(9) Where two or more persons are relevant landlords in relation to different parts of the house, any reference in this section to “**the relevant landlord**” is to be taken to refer to such one or more of them as is determined by agreement between them or (in default of agreement) by the appropriate tribunal[^key-26199d28441e8bae5b570beaaa130963] on an application made by any of them.
+(9) Where two or more persons are relevant landlords in relation to different parts of the house, any reference in this section to “**the relevant landlord**” is to be taken to refer to such one or more of them as is determined by agreement between them or (in default of agreement) by the appropriate tribunal[^c-26199d28441e8bae5b570beaaa130963] on an application made by any of them.
 
 (10) This section applies to instruments as it applies to agreements.
 
@@ -61,4 +61,4 @@ as from the termination date.
 
 [^c2052611]: Commencement: S. 130 wholly in force at 16.6.2006; s. 130 not in force at Royal Assent see s. 270(4)(5); s. 130 in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); s. 130 in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
 
-[^key-26199d28441e8bae5b570beaaa130963]: Textual amendment: Words in [s. 130(9)](https://www.legislation.gov.uk/ukpga/2004/34/section/130/9) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 166](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/166) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-26199d28441e8bae5b570beaaa130963]: Textual amendment: Words in [s. 130(9)](https://www.legislation.gov.uk/ukpga/2004/34/section/130/9) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 166](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/166) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))

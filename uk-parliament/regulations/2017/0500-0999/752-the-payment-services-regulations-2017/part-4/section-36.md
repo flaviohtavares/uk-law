@@ -20,10 +20,10 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Where an authorised payment institution , a small payment institution or a registered account information service provider[^key-a2f662da1d3841629f48419055bc0fc8] relies on a third party for the performance of operational functions it must take all reasonable steps to ensure that these Regulations are complied with.
+(1) Where an authorised payment institution , a small payment institution or a registered account information service provider[^c-a2f662da1d3841629f48419055bc0fc8] relies on a third party for the performance of operational functions it must take all reasonable steps to ensure that these Regulations are complied with.
 
 (2) Without prejudice to paragraph (1), an authorised payment institution , a small payment institution or a registered account information service provider is responsible, to the same extent as if it had expressly permitted it, for anything done or omitted by any of its employees, any agent or branch providing payment services on its behalf, or any entity to which activities are outsourced.
 
 ## Annotations
 
-[^key-a2f662da1d3841629f48419055bc0fc8]: Textual amendment: Words in reg. 36 substituted (13.1.2018) by [The Payment Systems and Services and Electronic Money (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/1173)](https://www.legislation.gov.uk/uksi/2017/1173), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2017/1173/regulation/1/4), [7(e)](https://www.legislation.gov.uk/uksi/2017/1173/regulation/7/e)
+[^c-a2f662da1d3841629f48419055bc0fc8]: Textual amendment: Words in reg. 36 substituted (13.1.2018) by [The Payment Systems and Services and Electronic Money (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/1173)](https://www.legislation.gov.uk/uksi/2017/1173), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2017/1173/regulation/1/4), [7(e)](https://www.legislation.gov.uk/uksi/2017/1173/regulation/7/e)

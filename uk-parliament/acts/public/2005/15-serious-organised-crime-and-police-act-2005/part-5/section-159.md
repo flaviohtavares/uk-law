@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 159. Investigations: accelerated procedure in special cases[^key-daf6d73ff274517da05ea08f52541a27]
+## 159. Investigations: accelerated procedure in special cases[^c-daf6d73ff274517da05ea08f52541a27]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 11 (which makes provision for an accelerated procedure for certain inve
 
 ## Annotations
 
-[^key-daf6d73ff274517da05ea08f52541a27]: Commencement: [S. 159](https://www.legislation.gov.uk/ukpga/2005/15/section/159) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(v)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/v)
+[^c-daf6d73ff274517da05ea08f52541a27]: Commencement: [S. 159](https://www.legislation.gov.uk/ukpga/2005/15/section/159) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(v)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/v)

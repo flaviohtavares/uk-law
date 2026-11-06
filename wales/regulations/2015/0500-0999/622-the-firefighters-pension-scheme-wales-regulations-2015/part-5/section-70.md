@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 70. Early payment reduction[^key-99d5f18f7b4530a28c2668fc61d30f1f]
+## 70. Early payment reduction[^c-99d5f18f7b4530a28c2668fc61d30f1f]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-99d5f18f7b4530a28c2668fc61d30f1f]: Commencement: Reg. 70 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-99d5f18f7b4530a28c2668fc61d30f1f]: Commencement: Reg. 70 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

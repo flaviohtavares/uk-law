@@ -25,10 +25,10 @@ summary: ''
 - (a) any fee, bonus, commission, holiday pay or other emolument referable to his employment, whether payable under his contract or otherwise,
 - (b) statutory sick pay under Part XI of the [^m00011] Social Security Contributions and Benefits (Northern Ireland) Act 1992,
 - (c) statutory maternity pay under Part XII of that Act,
-- (ca)[^c17621431] statutory paternity pay[^key-a0010a636a5cd644b1db36372411db34] under Part XllZA of that Act,
+- (ca)[^c17621431] statutory paternity pay[^c-a0010a636a5cd644b1db36372411db34] under Part XllZA of that Act,
 - (cb) statutory adoption pay under Part XllZB of that Act,
-- (cc)[^key-da15e1dd19fe81ffe35e826b1644c181] statutory shared parental pay under Part 12ZC of that Act,
-- (cd)[^key-d26a1983fa7dd79ea01fa5fbf70ee11b] statutory parental bereavement pay under Part 12ZD of that Act,
+- (cc)[^c-da15e1dd19fe81ffe35e826b1644c181] statutory shared parental pay under Part 12ZC of that Act,
+- (cd)[^c-d26a1983fa7dd79ea01fa5fbf70ee11b] statutory parental bereavement pay under Part 12ZD of that Act,
 - (d) a guarantee payment under Article 60,
 - (e) any payment for time off under Part VII,
 - (f) remuneration on suspension on medical grounds under Article 96 and remuneration on suspension on maternity grounds under Article 100,
@@ -65,10 +65,10 @@ but excluding any payments within paragraph (2).
 
 [^c17621431]: Textual amendment: [2002 NI 2](https://www.legislation.gov.uk/nisi/2002)
 
-[^key-a0010a636a5cd644b1db36372411db34]: Textual amendment: Words in [art. 59(1)(ca)](https://www.legislation.gov.uk/nisi/1996/1919/article/59/1/ca) substituted (5.4.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 1 para. 4(4)(a)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/4/4/a); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(2)(c)](https://www.legislation.gov.uk/nisr/2015/86/article/4/2/c) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
+[^c-a0010a636a5cd644b1db36372411db34]: Textual amendment: Words in [art. 59(1)(ca)](https://www.legislation.gov.uk/nisi/1996/1919/article/59/1/ca) substituted (5.4.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 1 para. 4(4)(a)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/4/4/a); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(2)(c)](https://www.legislation.gov.uk/nisr/2015/86/article/4/2/c) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
 
-[^key-da15e1dd19fe81ffe35e826b1644c181]: Textual amendment: Art. 59(1)(cc) inserted (15.3.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 1 para. 4(4)(b)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/4/4/b); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(2)(d)](https://www.legislation.gov.uk/nisr/2015/86/article/3/2/d)
+[^c-da15e1dd19fe81ffe35e826b1644c181]: Textual amendment: Art. 59(1)(cc) inserted (15.3.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 1 para. 4(4)(b)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/4/4/b); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(2)(d)](https://www.legislation.gov.uk/nisr/2015/86/article/3/2/d)
 
-[^key-d26a1983fa7dd79ea01fa5fbf70ee11b]: Textual amendment: [Art. 59(1)(cd)](https://www.legislation.gov.uk/nisi/1996/1919/article/59/1/cd) inserted (23.3.2022) by [Parental Bereavement (Leave and Pay) Act (Northern Ireland) 2022 (c. 5)](https://www.legislation.gov.uk/nia/2022/5), [ss. 4](https://www.legislation.gov.uk/nia/2022/5/section/4), [5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)[(6)](https://www.legislation.gov.uk/nia/2022/5/section/5/6), [Sch. Pt. 1 para. 17](https://www.legislation.gov.uk/nia/2022/5/schedule/part/1/paragraph/17); [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
+[^c-d26a1983fa7dd79ea01fa5fbf70ee11b]: Textual amendment: [Art. 59(1)(cd)](https://www.legislation.gov.uk/nisi/1996/1919/article/59/1/cd) inserted (23.3.2022) by [Parental Bereavement (Leave and Pay) Act (Northern Ireland) 2022 (c. 5)](https://www.legislation.gov.uk/nia/2022/5), [ss. 4](https://www.legislation.gov.uk/nia/2022/5/section/4), [5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)[(6)](https://www.legislation.gov.uk/nia/2022/5/section/5/6), [Sch. Pt. 1 para. 17](https://www.legislation.gov.uk/nia/2022/5/schedule/part/1/paragraph/17); [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
 
 [^c22541841]: Textual amendment: Art. 59(1)(fa) inserted (5.12.2011) by [Agency Workers Regulations (Northern Ireland) 2011 (S.R. 2011/350)](https://www.legislation.gov.uk/nisr/2011/350), [Sch. 2 para. 9](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/9)

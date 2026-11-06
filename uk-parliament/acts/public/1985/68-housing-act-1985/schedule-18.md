@@ -109,7 +109,7 @@ and that value, in the absence of a sale and in default of agreement, shall be s
 
 (4) All costs of or incidental to the taking possession, sale or other disposal of the house (including the costs of the arbitration, if any) incurred by the local authority, before the amount payable to the proprietor has been settled either by agreement or arbitration, shall be deducted from the amount otherwise payable to the proprietor.
 
-(5)[^c15087331] Where the local authority are entitled under this Schedule to take possession of a house, possession may be recovered in the county court[^key-a69b423940de25937d3e8c466bef3b50] whatever the annual value of the house for rating.
+(5)[^c15087331] Where the local authority are entitled under this Schedule to take possession of a house, possession may be recovered in the county court[^c-a69b423940de25937d3e8c466bef3b50] whatever the annual value of the house for rating.
 
 ### Procedure as to ordering sale
 
@@ -180,4 +180,4 @@ and shall pay over the balance (if any) to the proprietor.
 
 [^c15087331]: Modification: Sch. 18 para. 6(5) amended by [S.I. 1990/776](https://www.legislation.gov.uk/uksi/1990/776), [art. 4(1)(h)](https://www.legislation.gov.uk/uksi/1990/776/article/4/1/h)
 
-[^key-a69b423940de25937d3e8c466bef3b50]: Textual amendment: Words in Sch. 18 para. 6(5) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-a69b423940de25937d3e8c466bef3b50]: Textual amendment: Words in Sch. 18 para. 6(5) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)

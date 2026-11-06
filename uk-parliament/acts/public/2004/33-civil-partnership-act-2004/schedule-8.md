@@ -512,7 +512,7 @@ Section 81
 >
 > - (iv) Part 2 of Schedule 5, or paragraph 9(2) or (3) of Schedule 7, to the Civil Partnership Act 2004 (property adjustment orders in connection with civil partnership proceedings or after overseas dissolution of civil partnership, etc.).
 
-**61.**[^key-fb7ba38ac707681652ed26b82ca08570] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**61.**[^c-fb7ba38ac707681652ed26b82ca08570] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Housing Grants, Construction and Regeneration Act 1996 (c. 53)
 
@@ -539,4 +539,4 @@ Section 81
 
 ## Annotations
 
-[^key-fb7ba38ac707681652ed26b82ca08570]: Textual amendment: [Sch. 8 para. 61](https://www.legislation.gov.uk/ukpga/2004/33/schedule/8/paragraph/61) omitted (5.7.2021) by virtue of [Domestic Abuse Act 2021 (c. 17)](https://www.legislation.gov.uk/ukpga/2021/17), [ss. 78(9)(a)](https://www.legislation.gov.uk/ukpga/2021/17/section/78/9/a), [90(6)](https://www.legislation.gov.uk/ukpga/2021/17/section/90/6); [S.I. 2021/797](https://www.legislation.gov.uk/uksi/2021/797), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2021/797/regulation/2/2) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2021/797/regulation/4/1))
+[^c-fb7ba38ac707681652ed26b82ca08570]: Textual amendment: [Sch. 8 para. 61](https://www.legislation.gov.uk/ukpga/2004/33/schedule/8/paragraph/61) omitted (5.7.2021) by virtue of [Domestic Abuse Act 2021 (c. 17)](https://www.legislation.gov.uk/ukpga/2021/17), [ss. 78(9)(a)](https://www.legislation.gov.uk/ukpga/2021/17/section/78/9/a), [90(6)](https://www.legislation.gov.uk/ukpga/2021/17/section/90/6); [S.I. 2021/797](https://www.legislation.gov.uk/uksi/2021/797), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2021/797/regulation/2/2) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2021/797/regulation/4/1))

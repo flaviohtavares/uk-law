@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Recovering green deal payments: gas suppliers[^key-4e2bc5b90d83f0ad0668e5c2b8b8b402]
+## 23. Recovering green deal payments: gas suppliers[^c-4e2bc5b90d83f0ad0668e5c2b8b8b402]
 
 *Extent: E+W+S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4e2bc5b90d83f0ad0668e5c2b8b8b402]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2011/16/section/23) in force at 28.1.2013 by [S.I. 2013/125](https://www.legislation.gov.uk/uksi/2013/125), [art. 3(a)](https://www.legislation.gov.uk/uksi/2013/125/article/3/a)
+[^c-4e2bc5b90d83f0ad0668e5c2b8b8b402]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2011/16/section/23) in force at 28.1.2013 by [S.I. 2013/125](https://www.legislation.gov.uk/uksi/2013/125), [art. 3(a)](https://www.legislation.gov.uk/uksi/2013/125/article/3/a)

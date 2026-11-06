@@ -43,7 +43,7 @@ Coming into force in accordance with regulation 1(2)
 
 The Welsh Ministers, in exercise of the powers conferred on them by sections 144 and 146(6) of the Infrastructure (Wales) Act 2024[^f00001], by sections 61Z(4), (6), (9)(b) and (d) and 62R(2)(a) of the Town and Country Planning Act 1990[^f00002] and by section 54(3), (4), (5) and (7) of the Planning and Compulsory Purchase Act 2004[^f00003], make the following Regulations.
 
-## 1. Title, coming into force and interpretation[^key-0a75775f32fb62fe8b547d63fb6cacbd]
+## 1. Title, coming into force and interpretation[^c-0a75775f32fb62fe8b547d63fb6cacbd]
 
 (1) The title of these Regulations is the Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025.
 
@@ -56,7 +56,7 @@ The Welsh Ministers, in exercise of the powers conferred on them by sections 144
 
 ## PART 1 — Amendment Provisions
 
-### 2. The Town and Country Planning (General Permitted Development) Order 1995[^key-083726863aa114f36e30f863c82e417e]
+### 2. The Town and Country Planning (General Permitted Development) Order 1995[^c-083726863aa114f36e30f863c82e417e]
 
 (1) The Town and Country Planning (General Permitted Development) Order 1995[^f00004] is amended as follows.
 
@@ -68,7 +68,7 @@ The Welsh Ministers, in exercise of the powers conferred on them by sections 144
 
 .
 
-### 3. The Nuclear Industries Security Regulations 2003[^key-e0ed3571a2fcf31e84031c846ef17fe6]
+### 3. The Nuclear Industries Security Regulations 2003[^c-e0ed3571a2fcf31e84031c846ef17fe6]
 
 (1) The Nuclear Industries Security Regulations 2003[^f00005] are amended as follows.
 
@@ -76,7 +76,7 @@ The Welsh Ministers, in exercise of the powers conferred on them by sections 144
 
 > - (f) infrastructure consent within the meaning of section 19 of the Infrastructure (Wales) Act 2024.
 
-### 4. The Planning (National Security Directions and Appointed Representatives) (Wales) Regulations 2006[^key-c9cd251deaee123297e654756e96dbec]
+### 4. The Planning (National Security Directions and Appointed Representatives) (Wales) Regulations 2006[^c-c9cd251deaee123297e654756e96dbec]
 
 (1) The Planning (National Security Directions and Appointed Representatives) (Wales) Regulations 2006[^f00006] are amended as follows.
 
@@ -87,7 +87,7 @@ The Welsh Ministers, in exercise of the powers conferred on them by sections 144
 
 (3) The Regulations referred to in paragraph (1) have effect as if the amendment in paragraph (2) had not been made so far as the provisions of those Regulations relate to a development to which sections 19 and 20 do not apply by virtue of section 146 of the 2024 Act.
 
-### 5. The Marine Works (Environmental Impact Assessment) Regulations 2007[^key-0d5fe499474eb8ed6b7f228dc9156980]
+### 5. The Marine Works (Environmental Impact Assessment) Regulations 2007[^c-0d5fe499474eb8ed6b7f228dc9156980]
 
 (1) The Marine Works (Environmental Impact Assessment) Regulations 2007[^f00007] are amended as follows.
 
@@ -132,7 +132,7 @@ The Welsh Ministers, in exercise of the powers conferred on them by sections 144
 - (a) in sub-paragraph (4) after “for Wales” insert “or examining authority”;
 - (b) in paragraph (5)(a) after “for Wales” insert “or examining authority”.
 
-### 6. The Waste (England and Wales) Regulations 2011[^key-906b5d5339300c1de1cd3c4847c53ebc]
+### 6. The Waste (England and Wales) Regulations 2011[^c-906b5d5339300c1de1cd3c4847c53ebc]
 
 (1) The Waste (England and Wales) Regulations 2011[^f00008] are amended as follows.
 
@@ -152,7 +152,7 @@ The Welsh Ministers, in exercise of the powers conferred on them by sections 144
     >
     > - (h) the 2024 Act.
 
-### 7. The Town and Country Planning (Development Management Procedure) (Wales) Order 2012[^key-3966c86309db5f37d972358e107395f3]
+### 7. The Town and Country Planning (Development Management Procedure) (Wales) Order 2012[^c-3966c86309db5f37d972358e107395f3]
 
 (1) The Town and Country Planning (Development Management Procedure) (Wales) Order 2012[^f00009] is amended as follows.
 
@@ -160,7 +160,7 @@ The Welsh Ministers, in exercise of the powers conferred on them by sections 144
 
 (3) The Order referred to in paragraph (1) has effect as if the amendment in paragraph (2) had not been made so far as the provisions of that Order relate to a development to which sections 19 and 20 do not apply by virtue of section 146 of the 2024 Act.
 
-### 8. The Carbon Capture Readiness (Electricity Generating Stations) Regulations 2013[^key-98e1ac3d47a74d16b8b6988a2ede4436]
+### 8. The Carbon Capture Readiness (Electricity Generating Stations) Regulations 2013[^c-98e1ac3d47a74d16b8b6988a2ede4436]
 
 (1) The Carbon Capture Readiness (Electricity Generating Stations) Regulations 2013[^f00010] are amended as follows.
 
@@ -208,7 +208,7 @@ The Welsh Ministers, in exercise of the powers conferred on them by sections 144
 - (a) in paragraph (1), after the second reference to “planning permission”, insert “or infrastructure consent”;
 - (b) in paragraph (4), after “planning permission”, insert “or infrastructure consent”.
 
-### 9. The Town and Country Planning (Fees for Applications, Deemed Applications and Site Visits) (Wales) Regulations 2015[^key-31ab3d453d0609f2cf9c4c42562ca9ad]
+### 9. The Town and Country Planning (Fees for Applications, Deemed Applications and Site Visits) (Wales) Regulations 2015[^c-31ab3d453d0609f2cf9c4c42562ca9ad]
 
 (1) The Town and Country Planning (Fees for Applications, Deemed Applications and Site Visits) (Wales) Regulations 2015[^f00011] are amended as follows.
 
@@ -221,7 +221,7 @@ The Welsh Ministers, in exercise of the powers conferred on them by sections 144
 
 (3) The Regulations referred to in paragraph (1) have effect as if the amendments in paragraph (2) had not been made so far as the provisions of those Regulations relate to a development to which sections 19 and 20 do not apply by virtue of section 146 of the 2024 Act.
 
-### 10. The Planning (Hazardous Substances) (Wales) Regulations 2015[^key-09efe8eb0cf9e175448acb9228da4d96]
+### 10. The Planning (Hazardous Substances) (Wales) Regulations 2015[^c-09efe8eb0cf9e175448acb9228da4d96]
 
 (1) The Planning (Hazardous Substances) (Wales) Regulations 2015[^f00012] are amended as follows.
 
@@ -231,7 +231,7 @@ The Welsh Ministers, in exercise of the powers conferred on them by sections 144
 
 .
 
-### 11. The Renewables Obligation Order 2015[^key-67e1c4818a8d9b2a4887c7e1a9033213]
+### 11. The Renewables Obligation Order 2015[^c-67e1c4818a8d9b2a4887c7e1a9033213]
 
 (1) The Renewables Obligation Order 2015[^f00013] is amended as follows.
 
@@ -251,7 +251,7 @@ The Welsh Ministers, in exercise of the powers conferred on them by sections 144
 
   > (5) In paragraph (1)(b)(iv) “**development**” has the meaning given in section 133 of the Infrastructure (Wales) Act 2024.
 
-### 12. The Town and Country Planning (Environmental Impact Assessment) (Wales) Regulations 2017[^key-b926e96db2464a731e82a6d244c1db1c]
+### 12. The Town and Country Planning (Environmental Impact Assessment) (Wales) Regulations 2017[^c-b926e96db2464a731e82a6d244c1db1c]
 
 (1) The Town and Country Planning (Environmental Impact Assessment) (Wales) Regulations 2017[^f00014] are amended as follows.
 
@@ -477,7 +477,7 @@ The Welsh Ministers, in exercise of the powers conferred on them by sections 144
 
 - (a) in paragraph (1) after “planning authority” insert “, examining authority, specified person”;
 - (b) in paragraph (2)(b) after “planning permission” insert “, infrastructure consent”;
-- (c)[^key-49f1a4b06f667a62181e53848a4c92b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-49f1a4b06f667a62181e53848a4c92b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) in paragraph (2)(c) after “planning permission” insert “, infrastructure consent”.
 
 (27) In regulation 29(2)—
@@ -598,7 +598,7 @@ The Welsh Ministers, in exercise of the powers conferred on them by sections 144
   - (ii) in paragraph (2) and (3) after “Where a” insert “notice of unauthorised development is given or a”;
   - (iii) in paragraph (3)(b) after “public inspection” insert “, in relation to a section 97 order or section 102 order”, and after “is kept” insert “, in any other case at any place that is reasonable in the circumstances”;
 - (l) in paragraph 20—
-  - (i)[^key-110ad80c58e5380f3a3b8f8b466597a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-110ad80c58e5380f3a3b8f8b466597a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (ii) at the end of sub-paragraph (b) omit “and”;
   - (iii) in sub-paragraph (c) after “proposed” insert “notice of unauthorised development, order made under section 90 of the 2024 Act,”;
   - (iv) after sub-paragraph (c) insert—
@@ -610,7 +610,7 @@ The Welsh Ministers, in exercise of the powers conferred on them by sections 144
 
 (44) The Regulations referred to in paragraph (1) have effect as if the amendments in paragraphs (2) to (43) had not been made so far as the provisions of those Regulations relate to a development to which sections 19 and 20 do not apply by virtue of section 146 of the 2024 Act.
 
-### 13. The Conservation of Habitats and Species Regulations 2017[^key-551991b7e40a80a2c07f07c9e3e09836]
+### 13. The Conservation of Habitats and Species Regulations 2017[^c-551991b7e40a80a2c07f07c9e3e09836]
 
 (1) The Conservation of Habitats and Species Regulations 2017[^f00015] are amended as follows.
 
@@ -638,7 +638,7 @@ The Welsh Ministers, in exercise of the powers conferred on them by sections 144
 
 > (5) Where the plan or project to which this regulation applies was consented to by an examining authority appointed under section 40 of the Infrastructure (Wales) Act 2024, the duties and functions in paragraphs (1) to (3) must be carried out by the Welsh Ministers.
 
-### 14. The Electricity (Offshore Generating Stations) (Applications for Consent) (Wales) Regulations 2019[^key-9caa4baa5012badea51a45627441e7a0]
+### 14. The Electricity (Offshore Generating Stations) (Applications for Consent) (Wales) Regulations 2019[^c-9caa4baa5012badea51a45627441e7a0]
 
 (1) The Electricity (Offshore Generating Stations) (Applications for Consent) (Wales) Regulations 2019[^f00016] are amended as follows.
 
@@ -657,7 +657,7 @@ The Welsh Ministers, in exercise of the powers conferred on them by sections 144
   >
   > - (c) any infrastructure consent development will be situated.
 
-### 15. The Electricity (Offshore Generating Stations) (Variation of Consents) (Wales) Regulations 2019[^key-bb930dd91cc54ca5d8b8a8fd4eacd428]
+### 15. The Electricity (Offshore Generating Stations) (Variation of Consents) (Wales) Regulations 2019[^c-bb930dd91cc54ca5d8b8a8fd4eacd428]
 
 (1) The Electricity (Offshore Generating Stations) (Variation of Consent) (Wales) Regulations 2019[^f00017] are amended as follows.
 
@@ -686,7 +686,7 @@ The Welsh Ministers, in exercise of the powers conferred on them by sections 144
   > - (e) any order granted under section 60(1) or 90(1) of the Infrastructure (Wales) Act 2024 associated with the relevant section 36 consent; and
   > - (f) any application submitted for, or for variation of, an infrastructure consent associated with the relevant section 36 consent, made in accordance with the provisions of the Infrastructure (Wales) Act 2024.
 
-### 16. The Electricity (Offshore Generating Stations) (Inquiries Procedure) (Wales) Regulations 2019[^key-90046ab0ad4ae415215d77053cecde74]
+### 16. The Electricity (Offshore Generating Stations) (Inquiries Procedure) (Wales) Regulations 2019[^c-90046ab0ad4ae415215d77053cecde74]
 
 (1) The Electricity (Offshore Generating Stations) (Inquiries Procedure) (Wales) Regulations 2019[^f00018] are amended as follows.
 
@@ -705,7 +705,7 @@ The Welsh Ministers, in exercise of the powers conferred on them by sections 144
     >
     > - (c) any infrastructure consent development will be situated;
 
-### 17. The Listed Buildings and Conservation Areas (Procedure and Interest Rate) (Wales) Regulations 2024[^key-ec02664bf1e56d5177b2b567cfac09e3]
+### 17. The Listed Buildings and Conservation Areas (Procedure and Interest Rate) (Wales) Regulations 2024[^c-ec02664bf1e56d5177b2b567cfac09e3]
 
 (1) The Listed Buildings and Conservation Areas (Procedure and Interest Rate) (Wales) Regulations 2024[^f00019] are amended as follows.
 
@@ -713,7 +713,7 @@ The Welsh Ministers, in exercise of the powers conferred on them by sections 144
 
 (3) The Regulations referred to in paragraph (1) have effect as if the amendment in paragraph (2) had not been made so far as the provisions of those Regulations relate to a development to which sections 19 and 20 do not apply by virtue of section 146 of the 2024 Act.
 
-### 18. The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024[^key-397f425cedb2d22a608b5567d1d7514d]
+### 18. The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024[^c-397f425cedb2d22a608b5567d1d7514d]
 
 (1) The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024[^f00020] are amended as follows.
 
@@ -721,7 +721,7 @@ The Welsh Ministers, in exercise of the powers conferred on them by sections 144
 
 (3) The Regulations referred to in paragraph (1) have effect as if the amendment in paragraph (2) had not been made so far as the provisions of those Regulations relate to a development to which sections 19 and 20 do not apply by virtue of section 146 of the 2024 Act.
 
-### 19. The Applications for Scheduled Monument Consent (Wales) Regulations 2024[^key-76d628bb4ebaeb52514c8052a42bacf3]
+### 19. The Applications for Scheduled Monument Consent (Wales) Regulations 2024[^c-76d628bb4ebaeb52514c8052a42bacf3]
 
 (1) The Applications for Scheduled Monument Consent (Wales) Regulations 2024[^f00021] are amended as follows.
 
@@ -731,7 +731,7 @@ The Welsh Ministers, in exercise of the powers conferred on them by sections 144
 
 ## PART 2 — Transitional, revocation and savings provisions
 
-### 20. Transitional provision[^key-e5589c72a978ab86f9f5b520b5192d48]
+### 20. Transitional provision[^c-e5589c72a978ab86f9f5b520b5192d48]
 
 (1) For the purposes of section 146(2)(a) of the 2024 Act, an application described in the first column of the following table is not made until the requirements in the second column of that table which are applicable to the application are met—
 
@@ -762,9 +762,9 @@ The Welsh Ministers, in exercise of the powers conferred on them by sections 144
 
 (4) For the purposes of section 146(3)(b), an application is not made under section 62D of the Town and Country Planning Act 1990 until the requirements of articles 12(1) to (4) and (8) and 13 of the Developments of National Significance (Procedure) (Wales) Order 2016 which are applicable to the application are met.
 
-(5)[^key-3a5ca238422b0f41b3fa237aaf25557a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-3a5ca238422b0f41b3fa237aaf25557a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21. Revocation provision[^key-73a0fdc8615f2401bbbcd88dee47ba72]
+### 21. Revocation provision[^c-73a0fdc8615f2401bbbcd88dee47ba72]
 
 Subject to savings the following instruments are revoked—
 
@@ -780,7 +780,7 @@ Subject to savings the following instruments are revoked—
 - (j) the Developments of National Significance (Wales) (Amendment) Regulations 2024[^f00053];
 - (k) the Developments of National Significance (Fees) (Wales) (Amendment) Regulations 2024[^f00054].
 
-### 22. Saving provision[^key-d3af5b20c197f2eda9371fb223629144]
+### 22. Saving provision[^c-d3af5b20c197f2eda9371fb223629144]
 
 Section 146(10) of the 2024 Act saves the provisions of the Town and Country Planning Act 1990 as if the amendments in paragraph 4 of Schedule 3 to the 2024 Act had not been made, in so far as they relate to a development to which sections 19 and 20 of the 2024 Act do not apply by virtue of section 146 of that Act, and accordingly the instruments referred to in regulation 21 continue to apply to such a development.
 
@@ -816,85 +816,85 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00003]: Footnote: [2004 c. 5](https://www.legislation.gov.uk/ukpga/2004/5).
 
-[^key-0a75775f32fb62fe8b547d63fb6cacbd]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1) in force at 14.12.2025, see [reg. 1(2)(a)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/a)
+[^c-0a75775f32fb62fe8b547d63fb6cacbd]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1) in force at 14.12.2025, see [reg. 1(2)(a)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/a)
 
-[^key-083726863aa114f36e30f863c82e417e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2025/1192/regulation/2) in force at 15.12.2025, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b)
+[^c-083726863aa114f36e30f863c82e417e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2025/1192/regulation/2) in force at 15.12.2025, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b)
 
 [^f00004]: Footnote: [S.I. 1995/418](https://www.legislation.gov.uk/uksi/1995/418), amended by [S.I. 2019/330](https://www.legislation.gov.uk/uksi/2019/330); there are other amending instruments but none is relevant to these Regulations.
 
-[^key-e0ed3571a2fcf31e84031c846ef17fe6]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2025/1192/regulation/3) in force at 15.12.2025, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b)
+[^c-e0ed3571a2fcf31e84031c846ef17fe6]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2025/1192/regulation/3) in force at 15.12.2025, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b)
 
 [^f00005]: Footnote: [S.I. 2003/403](https://www.legislation.gov.uk/uksi/2003/403), regulation (2)(1A) was inserted by [S.I. 2013/190](https://www.legislation.gov.uk/uksi/2013/190); there are other amending instruments but none is relevant to these Regulations.
 
-[^key-c9cd251deaee123297e654756e96dbec]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2025/1192/regulation/4) in force at 15.12.2025, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b)
+[^c-c9cd251deaee123297e654756e96dbec]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2025/1192/regulation/4) in force at 15.12.2025, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b)
 
 [^f00006]: Footnote: [S.I. 2006/1387 (W. 137)](https://www.legislation.gov.uk/wsi/2006/1387), amended by [S.I. 2016/56 (W. 26)](https://www.legislation.gov.uk/wsi/2016/56); there are other amending instruments but none is relevant to these Regulations.
 
-[^key-0d5fe499474eb8ed6b7f228dc9156980]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2025/1192/regulation/5) in force at 15.12.2025, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b)
+[^c-0d5fe499474eb8ed6b7f228dc9156980]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2025/1192/regulation/5) in force at 15.12.2025, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b)
 
 [^f00007]: Footnote: [S.I. 2007/1518](https://www.legislation.gov.uk/uksi/2007/1518), amended by [S.I. 2011/735](https://www.legislation.gov.uk/uksi/2011/735), [S.I. 2013/755 (W. 90)](https://www.legislation.gov.uk/wsi/2013/755), [S.I. 2015/446](https://www.legislation.gov.uk/uksi/2015/446), [S.I. 2017/588](https://www.legislation.gov.uk/uksi/2017/588), [S.I. 2018/287](https://www.legislation.gov.uk/uksi/2018/287), [S.I. 2019/25](https://www.legislation.gov.uk/uksi/2019/25) and [S.I. 2025/82](https://www.legislation.gov.uk/uksi/2025/82); there are other amendments but none is relevant to Wales.
 
-[^key-906b5d5339300c1de1cd3c4847c53ebc]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2025/1192/regulation/6) in force at 15.12.2025, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b)
+[^c-906b5d5339300c1de1cd3c4847c53ebc]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2025/1192/regulation/6) in force at 15.12.2025, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b)
 
 [^f00008]: Footnote: [S.I. 2011/988](https://www.legislation.gov.uk/uksi/2011/988), amended by [S.I. 2024/924](https://www.legislation.gov.uk/uksi/2024/924); there are other amending instruments but none is relevant to these Regulations.
 
-[^key-3966c86309db5f37d972358e107395f3]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2025/1192/regulation/7) in force at 15.12.2025, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b)
+[^c-3966c86309db5f37d972358e107395f3]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2025/1192/regulation/7) in force at 15.12.2025, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b)
 
 [^f00009]: Footnote: [S.I. 2012/801 (W. 110)](https://www.legislation.gov.uk/wsi/2012/801), amended by [S.I. 2016/55 (W. 25)](https://www.legislation.gov.uk/wsi/2016/55); there are other amending instruments but none is relevant to these Regulations.
 
-[^key-98e1ac3d47a74d16b8b6988a2ede4436]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2025/1192/regulation/8) in force at 15.12.2025, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b)
+[^c-98e1ac3d47a74d16b8b6988a2ede4436]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2025/1192/regulation/8) in force at 15.12.2025, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b)
 
 [^f00010]: Footnote: [S.I. 2013/2696](https://www.legislation.gov.uk/uksi/2013/2696), amended by [S.I. 2019/294](https://www.legislation.gov.uk/uksi/2019/294).
 
-[^key-31ab3d453d0609f2cf9c4c42562ca9ad]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2025/1192/regulation/9) in force at 15.12.2025, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b)
+[^c-31ab3d453d0609f2cf9c4c42562ca9ad]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2025/1192/regulation/9) in force at 15.12.2025, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b)
 
 [^f00011]: Footnote: [S.I. 2015/1522 (W. 179)](https://www.legislation.gov.uk/wsi/2015/1522), amended by [S.I. 2019/283 (W. 65)](https://www.legislation.gov.uk/wsi/2019/283); there are other amending instruments but none is relevant to these Regulations.
 
-[^key-09efe8eb0cf9e175448acb9228da4d96]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2025/1192/regulation/10) in force at 15.12.2025, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b)
+[^c-09efe8eb0cf9e175448acb9228da4d96]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2025/1192/regulation/10) in force at 15.12.2025, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b)
 
 [^f00012]: Footnote: [S.I. 2015/1597 (W. 196)](https://www.legislation.gov.uk/wsi/2015/1597), amended by [S.I. 2019/456 (W. 109)](https://www.legislation.gov.uk/wsi/2019/456) and [S.I. 2024/924 (W. 196)](https://www.legislation.gov.uk/wsi/2024/924); there are other amending instruments but none is relevant to these Regulations.
 
-[^key-67e1c4818a8d9b2a4887c7e1a9033213]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2025/1192/regulation/11) in force at 15.12.2025, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b)
+[^c-67e1c4818a8d9b2a4887c7e1a9033213]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2025/1192/regulation/11) in force at 15.12.2025, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b)
 
 [^f00013]: Footnote: [S.I. 2015/1947](https://www.legislation.gov.uk/uksi/2015/1947), to which there are amendments not relevant to these Regulations.
 
-[^key-b926e96db2464a731e82a6d244c1db1c]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2025/1192/regulation/12) in force at 15.12.2025, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b)
+[^c-b926e96db2464a731e82a6d244c1db1c]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2025/1192/regulation/12) in force at 15.12.2025, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b)
 
 [^f00014]: Footnote: [S.I. 2017/567 (W. 136)](https://www.legislation.gov.uk/wsi/2017/567), amended by [S.I. 2017/1012](https://www.legislation.gov.uk/uksi/2017/1012), [S.I. 2019/245 (W. 60)](https://www.legislation.gov.uk/wsi/2019/245) and [S.I. 2024/924 (W. 151)](https://www.legislation.gov.uk/wsi/2024/924); there are other amending instruments but none is relevant to these Regulations.
 
-[^key-49f1a4b06f667a62181e53848a4c92b3]: Textual amendment: [Reg. 12(26)(c)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/12/26/c) omitted (2.6.2026) by virtue of [The Infrastructure Consent (Consequential and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/85)](https://www.legislation.gov.uk/wsi/2026/85), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/85/regulation/1/2), [5(a)(i)](https://www.legislation.gov.uk/wsi/2026/85/regulation/5/a/i)
+[^c-49f1a4b06f667a62181e53848a4c92b3]: Textual amendment: [Reg. 12(26)(c)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/12/26/c) omitted (2.6.2026) by virtue of [The Infrastructure Consent (Consequential and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/85)](https://www.legislation.gov.uk/wsi/2026/85), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/85/regulation/1/2), [5(a)(i)](https://www.legislation.gov.uk/wsi/2026/85/regulation/5/a/i)
 
-[^key-110ad80c58e5380f3a3b8f8b466597a6]: Textual amendment: [Reg. 12(42)(l)(i)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/12/42/l/i) omitted (2.6.2026) by virtue of [The Infrastructure Consent (Consequential and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/85)](https://www.legislation.gov.uk/wsi/2026/85), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/85/regulation/1/2), [5(a)(ii)](https://www.legislation.gov.uk/wsi/2026/85/regulation/5/a/ii)
+[^c-110ad80c58e5380f3a3b8f8b466597a6]: Textual amendment: [Reg. 12(42)(l)(i)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/12/42/l/i) omitted (2.6.2026) by virtue of [The Infrastructure Consent (Consequential and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/85)](https://www.legislation.gov.uk/wsi/2026/85), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/85/regulation/1/2), [5(a)(ii)](https://www.legislation.gov.uk/wsi/2026/85/regulation/5/a/ii)
 
-[^key-551991b7e40a80a2c07f07c9e3e09836]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2025/1192/regulation/13) in force at 15.12.2025, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b)
+[^c-551991b7e40a80a2c07f07c9e3e09836]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2025/1192/regulation/13) in force at 15.12.2025, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b)
 
 [^f00015]: Footnote: [S.I. 2017/1012](https://www.legislation.gov.uk/uksi/2017/1012), there are amendments not relevant to these Regulations.
 
-[^key-9caa4baa5012badea51a45627441e7a0]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2025/1192/regulation/14) in force at 15.12.2025, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b)
+[^c-9caa4baa5012badea51a45627441e7a0]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2025/1192/regulation/14) in force at 15.12.2025, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b)
 
 [^f00016]: Footnote: [S.I. 2019/295 (W. 73)](https://www.legislation.gov.uk/wsi/2019/295).
 
-[^key-bb930dd91cc54ca5d8b8a8fd4eacd428]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2025/1192/regulation/15) in force at 15.12.2025, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b)
+[^c-bb930dd91cc54ca5d8b8a8fd4eacd428]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2025/1192/regulation/15) in force at 15.12.2025, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b)
 
 [^f00017]: Footnote: [S.I. 2019/297 (W. 75)](https://www.legislation.gov.uk/wsi/2019/297).
 
-[^key-90046ab0ad4ae415215d77053cecde74]: Commencement: [Reg. 16](https://www.legislation.gov.uk/wsi/2025/1192/regulation/16) in force at 15.12.2025, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b)
+[^c-90046ab0ad4ae415215d77053cecde74]: Commencement: [Reg. 16](https://www.legislation.gov.uk/wsi/2025/1192/regulation/16) in force at 15.12.2025, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b)
 
 [^f00018]: Footnote: [S.I. 2019/304 (W. 77)](https://www.legislation.gov.uk/wsi/2019/304).
 
-[^key-ec02664bf1e56d5177b2b567cfac09e3]: Commencement: [Reg. 17](https://www.legislation.gov.uk/wsi/2025/1192/regulation/17) in force at 15.12.2025, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b)
+[^c-ec02664bf1e56d5177b2b567cfac09e3]: Commencement: [Reg. 17](https://www.legislation.gov.uk/wsi/2025/1192/regulation/17) in force at 15.12.2025, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b)
 
 [^f00019]: Footnote: [S.I. 2024/930 (W. 155)](https://www.legislation.gov.uk/wsi/2024/930), amended by [S.I. 2024/1258 (W. 211)](https://www.legislation.gov.uk/wsi/2024/1258).
 
-[^key-397f425cedb2d22a608b5567d1d7514d]: Commencement: [Reg. 18](https://www.legislation.gov.uk/wsi/2025/1192/regulation/18) in force at 15.12.2025, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b)
+[^c-397f425cedb2d22a608b5567d1d7514d]: Commencement: [Reg. 18](https://www.legislation.gov.uk/wsi/2025/1192/regulation/18) in force at 15.12.2025, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b)
 
 [^f00020]: Footnote: [S.I. 2024/924 (W. 151)](https://www.legislation.gov.uk/wsi/2024/924), amended by [S.I. 2024/1258 (W. 211)](https://www.legislation.gov.uk/wsi/2024/1258).
 
-[^key-76d628bb4ebaeb52514c8052a42bacf3]: Commencement: [Reg. 19](https://www.legislation.gov.uk/wsi/2025/1192/regulation/19) in force at 15.12.2025, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b)
+[^c-76d628bb4ebaeb52514c8052a42bacf3]: Commencement: [Reg. 19](https://www.legislation.gov.uk/wsi/2025/1192/regulation/19) in force at 15.12.2025, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b)
 
 [^f00021]: Footnote: [S.I. 2024/932 (W. 156)](https://www.legislation.gov.uk/wsi/2024/932).
 
-[^key-e5589c72a978ab86f9f5b520b5192d48]: Commencement: [Reg. 20](https://www.legislation.gov.uk/wsi/2025/1192/regulation/20) in force at 15.12.2025, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b)
+[^c-e5589c72a978ab86f9f5b520b5192d48]: Commencement: [Reg. 20](https://www.legislation.gov.uk/wsi/2025/1192/regulation/20) in force at 15.12.2025, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b)
 
 [^f00022]: Footnote: [S.I. 2012/801 (W. 110)](https://www.legislation.gov.uk/wsi/2012/801), amended by [S.I. 2016/59 (W. 29)](https://www.legislation.gov.uk/wsi/2016/59); there are other amending instruments but none is relevant to these Regulations.
 
@@ -944,9 +944,9 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00045]: Footnote: [1991 c. 22](https://www.legislation.gov.uk/ukpga/1991/22) (“**the 1991 Act**”). Section 6 was amended by the 2008 Act, section 36 and paragraphs 48 and 49 of Schedule 2 and by the 2024 Act, section 145 and paragraph 6 of Schedule 3; there are other amendments not relevant to this instrument. The functions of the Secretary of State under the 1991 Act were transferred to the National Assembly for Wales so far as exercisable in relation to Wales by the 1999 Order, article 2(a) and the entry in Schedule 1 in relation to the 1990 Act. Those functions were transferred to the Welsh Ministers by the 2006 Act, Schedule 11, paragraph 30.
 
-[^key-3a5ca238422b0f41b3fa237aaf25557a]: Textual amendment: [Reg. 20(5)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/20/5) omitted (2.6.2026) by virtue of [The Infrastructure Consent (Consequential and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/85)](https://www.legislation.gov.uk/wsi/2026/85), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/85/regulation/1/2), [5(b)](https://www.legislation.gov.uk/wsi/2026/85/regulation/5/b)
+[^c-3a5ca238422b0f41b3fa237aaf25557a]: Textual amendment: [Reg. 20(5)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/20/5) omitted (2.6.2026) by virtue of [The Infrastructure Consent (Consequential and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/85)](https://www.legislation.gov.uk/wsi/2026/85), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/85/regulation/1/2), [5(b)](https://www.legislation.gov.uk/wsi/2026/85/regulation/5/b)
 
-[^key-73a0fdc8615f2401bbbcd88dee47ba72]: Commencement: [Reg. 21](https://www.legislation.gov.uk/wsi/2025/1192/regulation/21) in force at 14.12.2025, see [reg. 1(2)(a)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/a)
+[^c-73a0fdc8615f2401bbbcd88dee47ba72]: Commencement: [Reg. 21](https://www.legislation.gov.uk/wsi/2025/1192/regulation/21) in force at 14.12.2025, see [reg. 1(2)(a)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/a)
 
 [^f00046]: Footnote: [S.I. 2016/53 (W. 23)](https://www.legislation.gov.uk/wsi/2016/53).
 
@@ -966,4 +966,4 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00054]: Footnote: [S.I. 2024/1325 (W. 224)](https://www.legislation.gov.uk/wsi/2024/1325).
 
-[^key-d3af5b20c197f2eda9371fb223629144]: Commencement: [Reg. 22](https://www.legislation.gov.uk/wsi/2025/1192/regulation/22) in force at 14.12.2025, see [reg. 1(2)(a)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/a)
+[^c-d3af5b20c197f2eda9371fb223629144]: Commencement: [Reg. 22](https://www.legislation.gov.uk/wsi/2025/1192/regulation/22) in force at 14.12.2025, see [reg. 1(2)(a)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/a)

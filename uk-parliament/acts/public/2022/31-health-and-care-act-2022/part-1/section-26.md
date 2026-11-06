@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Integrated care partnerships and strategies[^key-ad3e3e348bf45c107a93ea0f805a3cdb][^key-453e8b28161fa363002187c33d84108d]
+## 26. Integrated care partnerships and strategies[^c-ad3e3e348bf45c107a93ea0f805a3cdb][^c-453e8b28161fa363002187c33d84108d]
 
 *Extent: E+W*
 
@@ -155,6 +155,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ad3e3e348bf45c107a93ea0f805a3cdb]: Commencement: S. 26 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-ad3e3e348bf45c107a93ea0f805a3cdb]: Commencement: S. 26 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-453e8b28161fa363002187c33d84108d]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2022/31/section/26) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-453e8b28161fa363002187c33d84108d]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2022/31/section/26) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

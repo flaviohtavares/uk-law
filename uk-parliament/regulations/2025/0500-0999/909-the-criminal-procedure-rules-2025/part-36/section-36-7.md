@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36.7. Notice of hearings and decisions[^key-9a19dbeea223fb581cb2d99660c3f622]
+## 36.7. Notice of hearings and decisions[^c-9a19dbeea223fb581cb2d99660c3f622]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ anyone other than the prosecutor who applied for that ruling, unless the court o
 
 ## Annotations
 
-[^key-9a19dbeea223fb581cb2d99660c3f622]: Commencement: [Rule 36.7](https://www.legislation.gov.uk/uksi/2025/909/rule/36.7) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-9a19dbeea223fb581cb2d99660c3f622]: Commencement: [Rule 36.7](https://www.legislation.gov.uk/uksi/2025/909/rule/36.7) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

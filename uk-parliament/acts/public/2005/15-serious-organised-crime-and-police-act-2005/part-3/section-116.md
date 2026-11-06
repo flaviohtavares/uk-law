@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-afd883935655ffffb0f5b5882bc235f7] Section 64A of PACE (photographing of suspects etc.) is amended as follows.
+(1)[^c-afd883935655ffffb0f5b5882bc235f7] Section 64A of PACE (photographing of suspects etc.) is amended as follows.
 
-(2)[^key-7f337a0d0a2fdad712fb679e08347527] After subsection (1) insert—
+(2)[^c-7f337a0d0a2fdad712fb679e08347527] After subsection (1) insert—
 
 > (1A) A person falling within subsection (1B) below may, on the occasion of the relevant event referred to in subsection (1B), be photographed elsewhere than at a police station—
 >
@@ -38,20 +38,20 @@ summary: ''
 > - (e) given a notice in relation to a relevant fixed penalty offence (within the meaning of paragraph 1 of Schedule 4 to the 2002 Act) by a community support officer by virtue of a designation applying that paragraph to him; or
 > - (f) given a notice in relation to a relevant fixed penalty offence (within the meaning of paragraph 1 of Schedule 5 to the 2002 Act) by an accredited person by virtue of accreditation specifying that that paragraph applies to him.
 
-(3)[^key-afd883935655ffffb0f5b5882bc235f7] In subsection (4)(a), after “prosecution” insert “ or to the enforcement of a sentence ”.
+(3)[^c-afd883935655ffffb0f5b5882bc235f7] In subsection (4)(a), after “prosecution” insert “ or to the enforcement of a sentence ”.
 
-(4)[^key-afd883935655ffffb0f5b5882bc235f7] In subsection (5), after paragraph (b) insert
+(4)[^c-afd883935655ffffb0f5b5882bc235f7] In subsection (5), after paragraph (b) insert
 
 > ; and
 >
 > - (c) “**sentence**” includes any order made by a court in England and Wales when dealing with an offender in respect of his offence.
 
-(5)[^key-afd883935655ffffb0f5b5882bc235f7] After subsection (6) insert—
+(5)[^c-afd883935655ffffb0f5b5882bc235f7] After subsection (6) insert—
 
 > (6A) In this section, a “**photograph**” includes a moving image, and corresponding expressions shall be construed accordingly.
 
 ## Annotations
 
-[^key-afd883935655ffffb0f5b5882bc235f7]: Commencement: S. 116(1)(3)-(5) in force at 1.8.2005 by [S.I. 2005/2026](https://www.legislation.gov.uk/uksi/2005/2026), [art. 2(c)](https://www.legislation.gov.uk/uksi/2005/2026/article/2/c)
+[^c-afd883935655ffffb0f5b5882bc235f7]: Commencement: S. 116(1)(3)-(5) in force at 1.8.2005 by [S.I. 2005/2026](https://www.legislation.gov.uk/uksi/2005/2026), [art. 2(c)](https://www.legislation.gov.uk/uksi/2005/2026/article/2/c)
 
-[^key-7f337a0d0a2fdad712fb679e08347527]: Commencement: [S. 116(2)](https://www.legislation.gov.uk/ukpga/2005/15/section/116/2) in force at 1.1.2006 by [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(o)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/o)
+[^c-7f337a0d0a2fdad712fb679e08347527]: Commencement: [S. 116(2)](https://www.legislation.gov.uk/ukpga/2005/15/section/116/2) in force at 1.1.2006 by [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(o)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/o)

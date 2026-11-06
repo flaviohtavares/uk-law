@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 36. Procedure regarding certain approvals[^key-af2205806f5d2978fe6912afbd200960]
+## 36. Procedure regarding certain approvals[^c-af2205806f5d2978fe6912afbd200960]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-af2205806f5d2978fe6912afbd200960]: Commencement: Art. 36 in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
+[^c-af2205806f5d2978fe6912afbd200960]: Commencement: Art. 36 in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)

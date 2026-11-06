@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Article 21 amended (cap: hospital and small emitter reduction factors)[^key-761d6d6dfd45a14233f074ec252cf03e]
+## 12. Article 21 amended (cap: hospital and small emitter reduction factors)[^c-761d6d6dfd45a14233f074ec252cf03e]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-761d6d6dfd45a14233f074ec252cf03e]: Commencement: Art. 12 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)
+[^c-761d6d6dfd45a14233f074ec252cf03e]: Commencement: Art. 12 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)

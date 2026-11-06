@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44. Consequential amendments to the Forestry Act 1967[^key-2575022b1ec1f776b03b5eacefa543d4][^key-3cc5bbdae42236c2c48215dbc865aa4f]
+## 44. Consequential amendments to the Forestry Act 1967[^c-2575022b1ec1f776b03b5eacefa543d4][^c-3cc5bbdae42236c2c48215dbc865aa4f]
 
 *Extent: E+W*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2575022b1ec1f776b03b5eacefa543d4]: Commencement: [S. 44](https://www.legislation.gov.uk/asc/2023/4/section/44) in force at 18.8.2023 for specified purposes, see [s. 56(1)(a)](https://www.legislation.gov.uk/asc/2023/4/section/56/1/a)
+[^c-2575022b1ec1f776b03b5eacefa543d4]: Commencement: [S. 44](https://www.legislation.gov.uk/asc/2023/4/section/44) in force at 18.8.2023 for specified purposes, see [s. 56(1)(a)](https://www.legislation.gov.uk/asc/2023/4/section/56/1/a)
 
-[^key-3cc5bbdae42236c2c48215dbc865aa4f]: Commencement: [S. 44](https://www.legislation.gov.uk/asc/2023/4/section/44) in force at 1.4.2024 in so far as not already in force by [S.I. 2023/1092](https://www.legislation.gov.uk/wsi/2023/1092), [art. 3(a)](https://www.legislation.gov.uk/wsi/2023/1092/article/3/a)
+[^c-3cc5bbdae42236c2c48215dbc865aa4f]: Commencement: [S. 44](https://www.legislation.gov.uk/asc/2023/4/section/44) in force at 1.4.2024 in so far as not already in force by [S.I. 2023/1092](https://www.legislation.gov.uk/wsi/2023/1092), [art. 3(a)](https://www.legislation.gov.uk/wsi/2023/1092/article/3/a)

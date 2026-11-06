@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. The Mayor’s and City of London Court: removal of duty to provide premises[^key-85aa87da599944847a31a90910eb601a]
+## 46. The Mayor’s and City of London Court: removal of duty to provide premises[^c-85aa87da599944847a31a90910eb601a]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-85aa87da599944847a31a90910eb601a]: Commencement: S. 46 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-85aa87da599944847a31a90910eb601a]: Commencement: S. 46 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)

@@ -92,14 +92,14 @@ The Secretary of State in relation to England and Scotland [^c21854891], and the
 - “**the appropriate Minister**” means—
   - (a) in relation to surface waters in England, the Secretary of State;
   - (b) in relation to surface waters in Wales, the Welsh Ministers;
-- “[^key-a84eb087c2aaa4f819aa04a8b04ef5dc]**bathing season**” , in relation to a bathing water, means the bathing season specified in, or (as the case may be) determined under regulation 4(1);
-- “**a bathing water**” means an area of surface water identified under regulation 3 [^key-30233769911de03c46b57dd6e332618e]... , at which permanent advice against bathing is not currently in place under regulation 13;
+- “[^c-a84eb087c2aaa4f819aa04a8b04ef5dc]**bathing season**” , in relation to a bathing water, means the bathing season specified in, or (as the case may be) determined under regulation 4(1);
+- “**a bathing water**” means an area of surface water identified under regulation 3 [^c-30233769911de03c46b57dd6e332618e]... , at which permanent advice against bathing is not currently in place under regulation 13;
 - “**the Bathing Water Directive**” means Directive [2006/7/EC](https://www.legislation.gov.uk/eudr/2006/7) of the European Parliament and of the Council concerning the management of bathing water quality and repealing Directive [76/160/EEC](https://www.legislation.gov.uk/eudr/1976/160) [^c21854901];
 - “**bathing water profile**” means a profile established under regulation 7;
 - “**cyanobacterial proliferation**” means an accumulation of cyanobacteria including in the form of a bloom, mat or scum;
 - “**the Decision**” means the Commission Implementing Decision 2011/321/EU establishing, pursuant to Directive [2006/7/EC](https://www.legislation.gov.uk/eudr/2006/7) of the European Parliament and of the Council, a symbol for information to the public on bathing water classification and any bathing prohibition or advice against bathing [^c21854911];
 - “**England**” includes the territorial sea adjacent to England and not forming any part of Wales;
-- “[^key-06b43846f40d9071623251570bdb93a5]**environmental protection measures**” means any measures to—
+- “[^c-06b43846f40d9071623251570bdb93a5]**environmental protection measures**” means any measures to—
   - (a) protect the natural environment from the effects of human activity;
   - (b) protect people from the effects of human activity on the natural environment;
   - (c) maintain, restore or enhance the natural environment;
@@ -111,7 +111,7 @@ The Secretary of State in relation to England and Scotland [^c21854891], and the
   - (a) to give information to the public; or
   - (b) to prevent, by means of public information (including issuing an advice against bathing), bathers' exposure to pollution;
 - “**management measures**” means appropriate agency management measures or local authority management measures;
-- “**permanent advice against bathing**” means advice issued by the appropriate agency under regulation 13(2) in relation to at least one upcoming bathing season that would have been applicable to that former bathing water[^key-c3d04b639a7888d4a2aa10077331171b];
+- “**permanent advice against bathing**” means advice issued by the appropriate agency under regulation 13(2) in relation to at least one upcoming bathing season that would have been applicable to that former bathing water[^c-c3d04b639a7888d4a2aa10077331171b];
 - “**pollution**” means contamination which affects bathing water quality and presents a risk to bathers' health from any of the following—
   - (a) intestinal enterococci or *Escherichia coli*;
   - (b) cyanobacterial proliferation;
@@ -129,19 +129,19 @@ The Secretary of State in relation to England and Scotland [^c21854891], and the
   - (b) does not normally expect the contamination to affect bathing water quality for more than approximately 72 hours after the bathing water is first affected;
 - “**Wales**” has the meaning given by section 158 of the Government of Wales Act 2006 [^c21854921].;
 
-(2) In these Regulations, “coastal water”, “groundwater”, “inland water”, “lake”, “river”, “surface water” and “transitional waters” have the same meaning as in Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) of the European Parliament and of the Council establishing a framework for Community action in the field of water policy , as last amended by Commission[^key-45b36ebe9808912bb72b2f5e3cbec368] [Directive 2014/101/EU](https://www.legislation.gov.uk/eudr/2014/0101), and are listed in Schedule 1 to these Regulations.
+(2) In these Regulations, “coastal water”, “groundwater”, “inland water”, “lake”, “river”, “surface water” and “transitional waters” have the same meaning as in Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) of the European Parliament and of the Council establishing a framework for Community action in the field of water policy , as last amended by Commission[^c-45b36ebe9808912bb72b2f5e3cbec368] [Directive 2014/101/EU](https://www.legislation.gov.uk/eudr/2014/0101), and are listed in Schedule 1 to these Regulations.
 
 (3) For the purposes of these Regulations, a local authority controls a bathing water if the relevant land relating to that bathing water is located within its area.
 
-(4)[^key-a1e1ae44c1ad91d39663fe31f5a8e7b4] For the purposes of these Regulations, a reference to an EU Directive is to be read as if any reference in that Directive to one or more member States in a provision imposing an obligation on, or conferring a discretion on, a member State or member States were a reference to the appropriate Minister, appropriate agency or local authority which, immediately before exit day, was responsible for the United Kingdom's compliance with that obligation, or able to exercise that discretion, in respect of England or Wales.
+(4)[^c-a1e1ae44c1ad91d39663fe31f5a8e7b4] For the purposes of these Regulations, a reference to an EU Directive is to be read as if any reference in that Directive to one or more member States in a provision imposing an obligation on, or conferring a discretion on, a member State or member States were a reference to the appropriate Minister, appropriate agency or local authority which, immediately before exit day, was responsible for the United Kingdom's compliance with that obligation, or able to exercise that discretion, in respect of England or Wales.
 
 ### 3. Identification of bathing waters
 
-(1) The Secretary of State must identify, and maintain a list of, the surface waters[^key-691a0f864e580b0c63ac60d42eca0ebb] in England, other than excluded pools and waters, at which the Secretary of State expects a large number of people to bathe, having regard in particular to past trends and any infrastructure or facilities provided, or other measures taken, to promote bathing at those waters.
+(1) The Secretary of State must identify, and maintain a list of, the surface waters[^c-691a0f864e580b0c63ac60d42eca0ebb] in England, other than excluded pools and waters, at which the Secretary of State expects a large number of people to bathe, having regard in particular to past trends and any infrastructure or facilities provided, or other measures taken, to promote bathing at those waters.
 
-(2) The Welsh Ministers must identify, and maintain a list of, the surface waters[^key-088f510405a319398d29bc268f537b78] in Wales, other than excluded pools and waters, at which the Welsh Ministers expect a large number of people to bathe, having regard in particular to past trends and any infrastructure or facilities provided, or other measures taken, to promote bathing at those waters.
+(2) The Welsh Ministers must identify, and maintain a list of, the surface waters[^c-088f510405a319398d29bc268f537b78] in Wales, other than excluded pools and waters, at which the Welsh Ministers expect a large number of people to bathe, having regard in particular to past trends and any infrastructure or facilities provided, or other measures taken, to promote bathing at those waters.
 
-(2A)[^key-f3694f4f2fd6c6f132e3f322c705f165] The appropriate Minister must not identify or list a surface water under paragraph (1) or (2) (as the case may be) if—
+(2A)[^c-f3694f4f2fd6c6f132e3f322c705f165] The appropriate Minister must not identify or list a surface water under paragraph (1) or (2) (as the case may be) if—
 
 - (a) the appropriate agency, having consulted the local authority that controls the relevant surface water, advises the appropriate Minister that—
   - (i) it would be infeasible or disproportionately expensive for the surface water to achieve a classification of at least “sufficient” under regulation 11; or
@@ -158,26 +158,26 @@ The Secretary of State in relation to England and Scotland [^c21854891], and the
 
 (4) The Secretary of State must publish the following information annually, and in accordance with paragraph (6)—
 
-- (a)[^key-87c23f982f56fad1dcebbb89d833827f] details of each bathing water listed under paragraph (1), including—
+- (a)[^c-87c23f982f56fad1dcebbb89d833827f] details of each bathing water listed under paragraph (1), including—
   - (i) classification; and
   - (ii) the bathing season determined under regulation 4(1), if relevant.
 - (b) details of all surface waters in England at which permanent advice against bathing is currently in place under regulation 13, including, in relation to each such surface water, the reasons for that advice.
 
 (5) The Welsh Ministers must publish the following information annually, and in accordance with paragraph (6)—
 
-- (a)[^key-0cfa0d099f2e0b96f83d9be9e51ecb22] details of each bathing water listed under paragraph (2), including—
+- (a)[^c-0cfa0d099f2e0b96f83d9be9e51ecb22] details of each bathing water listed under paragraph (2), including—
   - (i) classification; and
   - (ii) the bathing season determined under regulation 4(1), if relevant.
 - (b) details of all surface waters in Wales at which permanent advice against bathing is currently in place under regulation 13, including, in relation to each such surface water, the reasons for that advice.
 
-(6)[^key-502400acec1b45df043a1ac8c6382e83] The information published under paragraphs (4) and (5) must be actively disseminated using appropriate media and technologies including the internet, and in such languages as the appropriate Minister considers appropriate, before the earlier of—
+(6)[^c-502400acec1b45df043a1ac8c6382e83] The information published under paragraphs (4) and (5) must be actively disseminated using appropriate media and technologies including the internet, and in such languages as the appropriate Minister considers appropriate, before the earlier of—
 
 - (a) 15th May in each year; or
 - (b) in the case of a bathing water for which the appropriate Minister determines a bathing season under regulation 4(1), the start of that bathing season.
 
-(7) For the purposes of these Regulations[^key-46c6f7f18e1080adbd53c68f6305cc18], section 104(1) of the Water Resources Act 1991 [^c21854931] (meaning of “controlled waters”) has effect as if “inland freshwaters” included any lake or pond (other than a relevant lake or pond within the meaning of that section) identified under this regulation.
+(7) For the purposes of these Regulations[^c-46c6f7f18e1080adbd53c68f6305cc18], section 104(1) of the Water Resources Act 1991 [^c21854931] (meaning of “controlled waters”) has effect as if “inland freshwaters” included any lake or pond (other than a relevant lake or pond within the meaning of that section) identified under this regulation.
 
-### 4. Length of the bathing season[^key-46bb79a685d185e2366e911892955033]
+### 4. Length of the bathing season[^c-46bb79a685d185e2366e911892955033]
 
 *Extent: E*
 
@@ -208,16 +208,16 @@ The Secretary of State in relation to England and Scotland [^c21854891], and the
 
 - (a) so as to ensure that, by the end of the bathing season in 2015, all bathing waters are classified under regulation 11 at least as “sufficient”;
 - (b) so as to take such realistic and proportionate measures as they each consider appropriate with a view to increasing the number of bathing waters classified under regulation 11 as “good” or “excellent”; and
-- (c) in all other respects, so as to ensure compliance with the provisions[^key-864bc54de85516a095b4d10dccdd46c0] of the Bathing Water Directive , except where there is alternative provision in these Regulations[^key-204d008cb715de4dbbdf14dc02f07943].
+- (c) in all other respects, so as to ensure compliance with the provisions[^c-864bc54de85516a095b4d10dccdd46c0] of the Bathing Water Directive , except where there is alternative provision in these Regulations[^c-204d008cb715de4dbbdf14dc02f07943].
 
-(2) In this regulation, “**relevant functions**” means functions, so far as relevant, under the enactments listed in Schedule 2 (enactments) to the Water Environment (Water Framework Directive) (England and Wales) Regulations 2017[^key-0fac142cf375226fcff4e7063caf28b3].
+(2) In this regulation, “**relevant functions**” means functions, so far as relevant, under the enactments listed in Schedule 2 (enactments) to the Water Environment (Water Framework Directive) (England and Wales) Regulations 2017[^c-0fac142cf375226fcff4e7063caf28b3].
 
 (3) The appropriate agency must promptly provide—
 
 - (a) to the appropriate Minister such information about the quality of bathing waters as the appropriate Minister may by notice reasonably require; and
 - (b) to a local authority such information about the quality of the bathing waters that it controls as that local authority may by notice reasonably require.
 
-(4)[^key-3be69794ce6b188353091bf19a14a7ef] For the purposes of this regulation, the Bathing Water Directive is to be read as if—
+(4)[^c-3be69794ce6b188353091bf19a14a7ef] For the purposes of this regulation, the Bathing Water Directive is to be read as if—
 
 - (a) in Article 2(13), the reference to Council Directive [85/337/EEC](https://www.legislation.gov.uk/eudr/1985/337) on the assessment of the effects of certain public and private projects on the environment were a reference to Council Directive 2011/92/EU on the assessment of the effects of certain public and private projects on the environment;
 - (b) the following provisions were omitted—
@@ -233,7 +233,7 @@ The Secretary of State in relation to England and Scotland [^c21854891], and the
 
 (5) For the purposes of paragraph (4)(c), Article 8 of Council Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) is to be read as if—
 
-- (a) in paragraph 1, in the final indent, the reference to Community legislation were a reference to assimilated[^key-4a0c069ece943c58513c9183638e634e] law;
+- (a) in paragraph 1, in the final indent, the reference to Community legislation were a reference to assimilated[^c-4a0c069ece943c58513c9183638e634e] law;
 - (b) in paragraph 2, the reference in the second sentence to Annex 5 to Council Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) were a reference to that Annex as modified by Part 1 of Schedule 5 to the Water Environment (Water Framework Directive) (England and Wales) Regulations 2017.
 
 ### 6. Public participation
@@ -260,7 +260,7 @@ The Secretary of State in relation to England and Scotland [^c21854891], and the
 
 (3) When complying with paragraph (1), the appropriate agency must take into account the data which it has obtained or analysed under—
 
-- (a) the Water Environment (Water Framework Directive) (England and Wales) Regulations 2017[^key-641eac107946fab2e5d6462261bebc03];
+- (a) the Water Environment (Water Framework Directive) (England and Wales) Regulations 2017[^c-641eac107946fab2e5d6462261bebc03];
 - (b) the Water Environment (Water Framework Directive) (Northumbria River Basin District) Regulations 2003 [^c21854951]; or
 - (c) the Water Environment (Water Framework Directive) (Solway Tweed River Basin District) Regulations 2004 [^c21854961].
 
@@ -393,7 +393,7 @@ The Secretary of State in relation to England and Scotland [^c21854891], and the
   - (iv) identify the reasons why the bathing water failed to achieve a classification of “sufficient”;
 - (b) the local authority that controls the bathing water must issue an advice against bathing at that bathing waters, and must take such local authority management measures as it considers adequate, with a view to preventing bathers' exposure to pollution.
 
-(1A)[^key-cfcd1b8d0113e1dd2da1c26df8202405] Where the appropriate agency classifies a bathing water as “poor” under regulation 11 for five consecutive years, the appropriate agency must, having consulted the local authority that controls the bathing water, advise the appropriate Minister on whether it would be feasible and not disproportionately expensive for the bathing water to achieve a classification of at least “sufficient” within a specified period.
+(1A)[^c-cfcd1b8d0113e1dd2da1c26df8202405] Where the appropriate agency classifies a bathing water as “poor” under regulation 11 for five consecutive years, the appropriate agency must, having consulted the local authority that controls the bathing water, advise the appropriate Minister on whether it would be feasible and not disproportionately expensive for the bathing water to achieve a classification of at least “sufficient” within a specified period.
 
 (1B) In this regulation the “**specified period**”, in relation to a bathing water, is the period of time which the appropriate agency advises the appropriate Minister to allow a bathing water to achieve a classification of at least “sufficient” under regulation 11.
 
@@ -401,12 +401,12 @@ The Secretary of State in relation to England and Scotland [^c21854891], and the
 
 (2) The appropriate agency must issue permanent advice against bathing in respect of a bathing water if—
 
-- (a)[^key-b0c40177b0df733bc88bda4e465dbee5] the appropriate agency classifies the bathing water as “poor” under regulation 11 for five consecutive years and advises the appropriate Minister under paragraph (1A) that it would be—
+- (a)[^c-b0c40177b0df733bc88bda4e465dbee5] the appropriate agency classifies the bathing water as “poor” under regulation 11 for five consecutive years and advises the appropriate Minister under paragraph (1A) that it would be—
   - (i) infeasible or disproportionately expensive for the bathing water to achieve a classification of at least “sufficient” within a period of five years beginning with the date on which the most recent classification under regulation 11 is published, and the appropriate Minister accepts that advice; or
   - (ii) feasible and not disproportionately expensive for the bathing water to achieve a classification of at least “sufficient” within the specified period—
     - (aa) but the appropriate Minister rejects that advice; or
     - (bb) the appropriate Minister accepts that advice, but the bathing water does not achieve a classification of at least “sufficient” before the end of the specified period; or
-- (b) the appropriate agency has not classified the bathing water as “poor” under regulation 11 for five consecutive years but,[^key-bee0dc9b6adb3ea74a44a3c8ded472f3] having consulted the local authority that controls the bathing water, the appropriate agency advises the appropriate Minister that it considers that it would be infeasible or disproportionately expensive for the bathing water to achieve a classification of “sufficient” and the appropriate Minister accepts that advice.
+- (b) the appropriate agency has not classified the bathing water as “poor” under regulation 11 for five consecutive years but,[^c-bee0dc9b6adb3ea74a44a3c8ded472f3] having consulted the local authority that controls the bathing water, the appropriate agency advises the appropriate Minister that it considers that it would be infeasible or disproportionately expensive for the bathing water to achieve a classification of “sufficient” and the appropriate Minister accepts that advice.
 
 (3) Where permanent advice against bathing has been issued under paragraph (2) in relation to a bathing water, the appropriate agency must—
 
@@ -418,7 +418,7 @@ The Secretary of State in relation to England and Scotland [^c21854891], and the
   - (ii) the fact that it is no longer a bathing water;
   - (iii) the reasons for its declassification.
 
-(4) When a local authority has received notification under paragraph (3)(a), it must ensure that the following information in relation to the former bathing water is actively disseminated and promptly made available to the public in an easily accessible place in the near vicinity of that former bathing water [^key-09b65b81b81e78e9bfe78ecce670b332]...–
+(4) When a local authority has received notification under paragraph (3)(a), it must ensure that the following information in relation to the former bathing water is actively disseminated and promptly made available to the public in an easily accessible place in the near vicinity of that former bathing water [^c-09b65b81b81e78e9bfe78ecce670b332]...–
 
 - (a) that permanent advice against bathing has been issued there, represented by a symbol in accordance with Part 1 of the Annex to the Decision;
 - (b) the fact that it is no longer a bathing water;
@@ -434,7 +434,7 @@ The Secretary of State in relation to England and Scotland [^c21854891], and the
   - (i) information as to the anticipated nature, frequency and duration of expected short-term pollution;
   - (ii) details of any remaining causes of short-term pollution;
   - (iii) details of the appropriate agency management measures taken and the time schedule for the elimination of the causes of the short-term pollution; and
-  - (iv) information on relevant procedures for short-term pollution taken during a short-term pollution incident and the [^key-fd544eafb811b13eb967d8f63555f864]... contact details of the appropriate agency[^key-b3dc721e8a715406a8fadcce6fa4a24d] responsible for taking such action;
+  - (iv) information on relevant procedures for short-term pollution taken during a short-term pollution incident and the [^c-fd544eafb811b13eb967d8f63555f864]... contact details of the appropriate agency[^c-b3dc721e8a715406a8fadcce6fa4a24d] responsible for taking such action;
 - (b) notify the local authority that controls the bathing water when short-term pollution is predicted there; and
 - (c) publish on its website the following information—
   - (i) the conditions likely to lead to short-term pollution at the bathing water;
@@ -448,9 +448,9 @@ The Secretary of State in relation to England and Scotland [^c21854891], and the
 - (a) an indication of the number of days for which advice against bathing was issued there during the immediately preceding bathing season because of short-term pollution; and
 - (b) a warning whenever short-term pollution is predicted or present there.
 
-(4)[^key-d461f035b460307e25544e5a8a9b611a] In the event of short-term pollution, the appropriate agency may, where the appropriate agency considers it necessary, take one additional sample as soon as reasonably practicable after the pollution incident is presumed to have ended, to verify that it has ended.
+(4)[^c-d461f035b460307e25544e5a8a9b611a] In the event of short-term pollution, the appropriate agency may, where the appropriate agency considers it necessary, take one additional sample as soon as reasonably practicable after the pollution incident is presumed to have ended, to verify that it has ended.
 
-(5)[^key-3d794f21a13f383f9ce512b35d02974d] The appropriate agency may disregard samples taken during short-term pollution from the set of bathing water quality data for the bathing water, and—
+(5)[^c-3d794f21a13f383f9ce512b35d02974d] The appropriate agency may disregard samples taken during short-term pollution from the set of bathing water quality data for the bathing water, and—
 
 - (a) after the end of short-term pollution and before the end of the bathing season, the appropriate agency must, where necessary, take additional samples to ensure that it has the minimum number required for the bathing water for the bathing season;
 - (b) where the appropriate agency expects to have the minimum number of samples required for the bathing water for the bathing season, the appropriate agency may take additional samples to replace those disregarded due to the short-term pollution, where the appropriate agency considers appropriate.
@@ -473,11 +473,11 @@ Where there is short-term pollution at a bathing water to which regulation 14 ap
 
 ## PART 6 — FINAL PROVISIONS
 
-### 15A. Annual reports[^key-4759b1c021a11075a3e448f91f54645e]
+### 15A. Annual reports[^c-4759b1c021a11075a3e448f91f54645e]
 
-(1)[^key-25ccd37ac3fc49f930a81854ece7cf75] Following the end of the latest bathing season that applies in England or Wales (as the case may be) in each year, the appropriate Minister must prepare and publish a report on the bathing season or seasons for that year.
+(1)[^c-25ccd37ac3fc49f930a81854ece7cf75] Following the end of the latest bathing season that applies in England or Wales (as the case may be) in each year, the appropriate Minister must prepare and publish a report on the bathing season or seasons for that year.
 
-(2)[^key-7f9182f4fa233fff777f9214db3e06c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-7f9182f4fa233fff777f9214db3e06c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) A report must—
 
@@ -514,13 +514,13 @@ Where there is short-term pollution at a bathing water to which regulation 14 ap
 - (a) “**pollution control functions**” in relation to the Secretary of State, the Welsh Ministers, the Environment Agency and the Natural Resources Body for Wales included their respective functions under these Regulations; and
 - (b) the powers in paragraph (4) of that section included the power to take any measure required of a local authority under these Regulations.
 
-(6) Section 202(2) of the Water Resources Act 1991 [^c21854981](information in connection with the control of pollution) has effect as if it conferred power on the Secretary of State, the Welsh Ministers, the Environment Agency and the Natural Resources Body for Wales to require the furnishing of information reasonably required for the purposes of these Regulations[^key-bbc25eaf83a418de6d50d61e8e7948e7].
+(6) Section 202(2) of the Water Resources Act 1991 [^c21854981](information in connection with the control of pollution) has effect as if it conferred power on the Secretary of State, the Welsh Ministers, the Environment Agency and the Natural Resources Body for Wales to require the furnishing of information reasonably required for the purposes of these Regulations[^c-bbc25eaf83a418de6d50d61e8e7948e7].
 
 (7) In this regulation, “**private operator**” means a person, other than a local authority, who controls the relevant land in relation to a bathing water.
 
 ### 17. Guidance
 
-The appropriate Minister may give guidance to the appropriate agency or any local authority with respect to the practical implementation of these Regulations[^key-7c91254aca741931b6c0c61b79efb6da], and the appropriate agency or local authority (as the case may be) to whom guidance is given must have regard to it.
+The appropriate Minister may give guidance to the appropriate agency or any local authority with respect to the practical implementation of these Regulations[^c-7c91254aca741931b6c0c61b79efb6da], and the appropriate agency or local authority (as the case may be) to whom guidance is given must have regard to it.
 
 ### 18. Amendment of the Bathing Waters (Classification) Regulations 1991 and transitional provision
 
@@ -564,7 +564,7 @@ The appropriate Minister may give guidance to the appropriate agency or any loca
   >
   > The Bathing Water Regulations 2013.
 
-### 20.[^key-9cb9782f75029d0873300cff8d00db18]
+### 20.[^c-9cb9782f75029d0873300cff8d00db18]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -590,17 +590,17 @@ Regulation 2
 - “**Surface water**” means inland waters, except groundwater; transitional waters and coastal waters, except in respect of chemical status for which it shall also include territorial waters.
 - “Transitional waters” are bodies of surface water in the vicinity of river mouths which are partly saline in character as a result of their proximity to coastal waters but which are substantially influenced by freshwater flows.
 
-## SCHEDULE 2 — SURFACE WATERS IDENTIFIED IN ENGLAND AND WALES[^key-2bc7d26dfe4f182e7a819a2f98b5cf91]
+## SCHEDULE 2 — SURFACE WATERS IDENTIFIED IN ENGLAND AND WALES[^c-2bc7d26dfe4f182e7a819a2f98b5cf91]
 
 **No longer in force.**
 
 Regulation 3
 
-### PART 1 — Surface Waters in England[^key-2bc7d26dfe4f182e7a819a2f98b5cf91]
+### PART 1 — Surface Waters in England[^c-2bc7d26dfe4f182e7a819a2f98b5cf91]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Surface Waters in Wales[^key-2bc7d26dfe4f182e7a819a2f98b5cf91]
+### PART 2 — Surface Waters in Wales[^c-2bc7d26dfe4f182e7a819a2f98b5cf91]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -652,7 +652,7 @@ The appropriate agency must—
 - (a) establish a monitoring calendar for every bathing water before the start of every bathing season; and
 - (b) take samples at every bathing water no later than four days after the date specified in the monitoring calendar.
 
-(2)[^key-b2f86903ba5483b882abe8e8cd12a93f] In relation to any abnormal situation, the appropriate agency—
+(2)[^c-b2f86903ba5483b882abe8e8cd12a93f] In relation to any abnormal situation, the appropriate agency—
 
 - (a) may suspend the monitoring calendar for the duration of the situation;
 - (b) after the end of the situation and before the end of the bathing season must, where necessary, take sufficient additional samples to ensure that it has the minimum number required for the bathing water for the bathing season;
@@ -662,8 +662,8 @@ The appropriate agency must—
 
 The appropriate agency must—
 
-- (a)[^key-4c3dcf729168bdb42a3acab94c0c0ab4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) take and analyse samples at intervals not exceeding one month, from every bathing water throughout the bathing season[^key-c869b5415c46afb6bd2361607208f2ce].
+- (a)[^c-4c3dcf729168bdb42a3acab94c0c0ab4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) take and analyse samples at intervals not exceeding one month, from every bathing water throughout the bathing season[^c-c869b5415c46afb6bd2361607208f2ce].
 
 #### 4. Sampling equipment
 
@@ -679,7 +679,7 @@ The appropriate agency must—
 (2) The appropriate agency must—
 
 - (a) use aseptic techniques to maintain the sterility of the sample bottles; and
-- (b)[^key-a0f9104906eb1bb7695ea0e0794631ab] clearly identify every sample taken by marking the sample bottle and linking the bottle to its associated documentation.
+- (b)[^c-a0f9104906eb1bb7695ea0e0794631ab] clearly identify every sample taken by marking the sample bottle and linking the bottle to its associated documentation.
 
 #### 5. Storage and transport of samples before analysis
 
@@ -770,7 +770,7 @@ Standards for coastal and transitional waters
 - (b) calculate the arithmetic mean (“μ”) of the log<sub>10</sub> values taken under paragraph (a);
 - (c) calculate the standard deviation (“σ”) of the log<sub>10</sub> values taken under paragraph (a);
 - (d) derive the upper 90-percentile point of the data probability density function from the following equation: upper 90-percentile = antilog (μ + 1.282 σ); and
-- (e) derive the upper 95-percentile point of the data probability density function from the following equation: upper 95-percentile = antilog (µ + 1.645 σ)[^key-3c04778fdf8006f08550715049a49209].
+- (e) derive the upper 95-percentile point of the data probability density function from the following equation: upper 95-percentile = antilog (µ + 1.645 σ)[^c-3c04778fdf8006f08550715049a49209].
 
 ### 3. Classification
 
@@ -844,87 +844,87 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c21854891]: Marginal citation: The power of the Secretary of State to make regulations in relation to matters as regards Scotland is preserved by section 57(1) of the [Scotland Act 1988 (c. 46)](https://www.legislation.gov.uk/ukpga/1988/46).
 
-[^key-a84eb087c2aaa4f819aa04a8b04ef5dc]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/1675/regulation/2/1) substituted (21.11.2025 for E., 1.4.2026 for W.) by [The Bathing Water (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/1129)](https://www.legislation.gov.uk/uksi/2025/1129), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3), [3(a)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/3/a)
+[^c-a84eb087c2aaa4f819aa04a8b04ef5dc]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/1675/regulation/2/1) substituted (21.11.2025 for E., 1.4.2026 for W.) by [The Bathing Water (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/1129)](https://www.legislation.gov.uk/uksi/2025/1129), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3), [3(a)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/3/a)
 
-[^key-30233769911de03c46b57dd6e332618e]: Textual amendment: Words in reg. 2(1) omitted (29.3.2019) by virtue of [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/4/2)
+[^c-30233769911de03c46b57dd6e332618e]: Textual amendment: Words in reg. 2(1) omitted (29.3.2019) by virtue of [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/4/2)
 
 [^c21854901]: Marginal citation: OJ No L 64, 4.3.2006, p.37, as amended by Regulation (EC) No 596/2009 (OJ No L 188, 18.7.2009, p.14).
 
 [^c21854911]: Marginal citation: OJ No L 143, 31.5.2011, p.38.
 
-[^key-06b43846f40d9071623251570bdb93a5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/1675/regulation/2/1) inserted (1.4.2026 for W., 15.5.2026 for E.) by [The Bathing Water (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/1129)](https://www.legislation.gov.uk/uksi/2025/1129), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3), [3(b)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/3/b)
+[^c-06b43846f40d9071623251570bdb93a5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/1675/regulation/2/1) inserted (1.4.2026 for W., 15.5.2026 for E.) by [The Bathing Water (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/1129)](https://www.legislation.gov.uk/uksi/2025/1129), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3), [3(b)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/3/b)
 
-[^key-c3d04b639a7888d4a2aa10077331171b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/1675/regulation/2/1) substituted (21.11.2025 for E., 1.4.2026 for W.) by [The Bathing Water (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/1129)](https://www.legislation.gov.uk/uksi/2025/1129), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3), [3(c)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/3/c)
+[^c-c3d04b639a7888d4a2aa10077331171b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/1675/regulation/2/1) substituted (21.11.2025 for E., 1.4.2026 for W.) by [The Bathing Water (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/1129)](https://www.legislation.gov.uk/uksi/2025/1129), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3), [3(c)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/3/c)
 
 [^c21854921]: Marginal citation: [2006 c.32](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-45b36ebe9808912bb72b2f5e3cbec368]: Textual amendment: Words in reg. 2(2) inserted (E.) (1.6.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 (S.I. 2018/575)](https://www.legislation.gov.uk/uksi/2018/575), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2018/575/regulation/9) and (W.) (17.12.2018) by [The Environment, Planning and Rural Affairs (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/1216)](https://www.legislation.gov.uk/wsi/2018/1216), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/1/3), [12](https://www.legislation.gov.uk/wsi/2018/1216/regulation/12)
+[^c-45b36ebe9808912bb72b2f5e3cbec368]: Textual amendment: Words in reg. 2(2) inserted (E.) (1.6.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 (S.I. 2018/575)](https://www.legislation.gov.uk/uksi/2018/575), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2018/575/regulation/9) and (W.) (17.12.2018) by [The Environment, Planning and Rural Affairs (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/1216)](https://www.legislation.gov.uk/wsi/2018/1216), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/1/3), [12](https://www.legislation.gov.uk/wsi/2018/1216/regulation/12)
 
-[^key-a1e1ae44c1ad91d39663fe31f5a8e7b4]: Textual amendment: Reg. 2(4) inserted (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [15(2)](https://www.legislation.gov.uk/uksi/2019/558/regulation/15/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a1e1ae44c1ad91d39663fe31f5a8e7b4]: Textual amendment: Reg. 2(4) inserted (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [15(2)](https://www.legislation.gov.uk/uksi/2019/558/regulation/15/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-691a0f864e580b0c63ac60d42eca0ebb]: Textual amendment: Words in reg. 3(1) substituted (29.3.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [4(3)(a)](https://www.legislation.gov.uk/uksi/2019/526/regulation/4/3/a)
+[^c-691a0f864e580b0c63ac60d42eca0ebb]: Textual amendment: Words in reg. 3(1) substituted (29.3.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [4(3)(a)](https://www.legislation.gov.uk/uksi/2019/526/regulation/4/3/a)
 
-[^key-088f510405a319398d29bc268f537b78]: Textual amendment: Words in reg. 3(2) substituted (29.3.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [4(3)(b)](https://www.legislation.gov.uk/uksi/2019/526/regulation/4/3/b)
+[^c-088f510405a319398d29bc268f537b78]: Textual amendment: Words in reg. 3(2) substituted (29.3.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [4(3)(b)](https://www.legislation.gov.uk/uksi/2019/526/regulation/4/3/b)
 
-[^key-f3694f4f2fd6c6f132e3f322c705f165]: Textual amendment: [Reg. 3(2A)](https://www.legislation.gov.uk/uksi/2013/1675/regulation/3/2A) inserted (1.4.2026 for W., 15.5.2026 for E.) by [The Bathing Water (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/1129)](https://www.legislation.gov.uk/uksi/2025/1129), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3), [4(a)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/4/a)
+[^c-f3694f4f2fd6c6f132e3f322c705f165]: Textual amendment: [Reg. 3(2A)](https://www.legislation.gov.uk/uksi/2013/1675/regulation/3/2A) inserted (1.4.2026 for W., 15.5.2026 for E.) by [The Bathing Water (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/1129)](https://www.legislation.gov.uk/uksi/2025/1129), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3), [4(a)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/4/a)
 
-[^key-87c23f982f56fad1dcebbb89d833827f]: Textual amendment: [Reg. 3(4)(a)](https://www.legislation.gov.uk/uksi/2013/1675/regulation/3/4/a) substituted (21.11.2025 for E., 1.4.2026 for W.) by [The Bathing Water (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/1129)](https://www.legislation.gov.uk/uksi/2025/1129), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3), [4(b)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/4/b)
+[^c-87c23f982f56fad1dcebbb89d833827f]: Textual amendment: [Reg. 3(4)(a)](https://www.legislation.gov.uk/uksi/2013/1675/regulation/3/4/a) substituted (21.11.2025 for E., 1.4.2026 for W.) by [The Bathing Water (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/1129)](https://www.legislation.gov.uk/uksi/2025/1129), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3), [4(b)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/4/b)
 
-[^key-0cfa0d099f2e0b96f83d9be9e51ecb22]: Textual amendment: [Reg. 3(5)(a)](https://www.legislation.gov.uk/uksi/2013/1675/regulation/3/5/a) substituted (21.11.2025 for E., 1.4.2026 for W.) by [The Bathing Water (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/1129)](https://www.legislation.gov.uk/uksi/2025/1129), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3), [4(c)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/4/c)
+[^c-0cfa0d099f2e0b96f83d9be9e51ecb22]: Textual amendment: [Reg. 3(5)(a)](https://www.legislation.gov.uk/uksi/2013/1675/regulation/3/5/a) substituted (21.11.2025 for E., 1.4.2026 for W.) by [The Bathing Water (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/1129)](https://www.legislation.gov.uk/uksi/2025/1129), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3), [4(c)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/4/c)
 
-[^key-502400acec1b45df043a1ac8c6382e83]: Textual amendment: [Reg. 3(6)](https://www.legislation.gov.uk/uksi/2013/1675/regulation/3/6) substituted (21.11.2025 for E., 1.4.2026 for W.) by [The Bathing Water (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/1129)](https://www.legislation.gov.uk/uksi/2025/1129), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3), [4(d)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/4/d)
+[^c-502400acec1b45df043a1ac8c6382e83]: Textual amendment: [Reg. 3(6)](https://www.legislation.gov.uk/uksi/2013/1675/regulation/3/6) substituted (21.11.2025 for E., 1.4.2026 for W.) by [The Bathing Water (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/1129)](https://www.legislation.gov.uk/uksi/2025/1129), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3), [4(d)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/4/d)
 
-[^key-46c6f7f18e1080adbd53c68f6305cc18]: Textual amendment: Words in reg. 3(7) substituted (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [15(3)](https://www.legislation.gov.uk/uksi/2019/558/regulation/15/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-46c6f7f18e1080adbd53c68f6305cc18]: Textual amendment: Words in reg. 3(7) substituted (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [15(3)](https://www.legislation.gov.uk/uksi/2019/558/regulation/15/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c21854931]: Marginal citation: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57).
 
-[^key-46bb79a685d185e2366e911892955033]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2013/1675/regulation/4) substituted (21.11.2025 for E., 1.4.2026 for W.) by [The Bathing Water (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/1129)](https://www.legislation.gov.uk/uksi/2025/1129), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3), [5](https://www.legislation.gov.uk/uksi/2025/1129/regulation/5)
+[^c-46bb79a685d185e2366e911892955033]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2013/1675/regulation/4) substituted (21.11.2025 for E., 1.4.2026 for W.) by [The Bathing Water (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/1129)](https://www.legislation.gov.uk/uksi/2025/1129), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3), [5](https://www.legislation.gov.uk/uksi/2025/1129/regulation/5)
 
-[^key-864bc54de85516a095b4d10dccdd46c0]: Textual amendment: Word in reg. 5(1)(c) substituted (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [15(4)(a)](https://www.legislation.gov.uk/uksi/2019/558/regulation/15/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-864bc54de85516a095b4d10dccdd46c0]: Textual amendment: Word in reg. 5(1)(c) substituted (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [15(4)(a)](https://www.legislation.gov.uk/uksi/2019/558/regulation/15/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-204d008cb715de4dbbdf14dc02f07943]: Textual amendment: Words in [reg. 5(1)(c)](https://www.legislation.gov.uk/uksi/2013/1675/regulation/5/1/c) inserted (21.11.2025 for E., 1.4.2026 for W.) by [The Bathing Water (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/1129)](https://www.legislation.gov.uk/uksi/2025/1129), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2025/1129/regulation/6)
+[^c-204d008cb715de4dbbdf14dc02f07943]: Textual amendment: Words in [reg. 5(1)(c)](https://www.legislation.gov.uk/uksi/2013/1675/regulation/5/1/c) inserted (21.11.2025 for E., 1.4.2026 for W.) by [The Bathing Water (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/1129)](https://www.legislation.gov.uk/uksi/2025/1129), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2025/1129/regulation/6)
 
-[^key-0fac142cf375226fcff4e7063caf28b3]: Textual amendment: Words in reg. 5(2) substituted (10.4.2017) by [The Water Environment (Water Framework Directive) (England and Wales) Regulations 2017 (S.I. 2017/407)](https://www.legislation.gov.uk/uksi/2017/407), [reg. 1(a)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/a), [Sch. 4 para. 4(2)](https://www.legislation.gov.uk/uksi/2017/407/schedule/4/paragraph/4/2) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/c))
+[^c-0fac142cf375226fcff4e7063caf28b3]: Textual amendment: Words in reg. 5(2) substituted (10.4.2017) by [The Water Environment (Water Framework Directive) (England and Wales) Regulations 2017 (S.I. 2017/407)](https://www.legislation.gov.uk/uksi/2017/407), [reg. 1(a)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/a), [Sch. 4 para. 4(2)](https://www.legislation.gov.uk/uksi/2017/407/schedule/4/paragraph/4/2) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/c))
 
-[^key-3be69794ce6b188353091bf19a14a7ef]: Textual amendment: Reg. 5(4)(5) inserted (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [15(4)(b)](https://www.legislation.gov.uk/uksi/2019/558/regulation/15/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3be69794ce6b188353091bf19a14a7ef]: Textual amendment: Reg. 5(4)(5) inserted (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [15(4)(b)](https://www.legislation.gov.uk/uksi/2019/558/regulation/15/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4a0c069ece943c58513c9183638e634e]: Textual amendment: Word in reg. 5(5)(a) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 29](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/29)
+[^c-4a0c069ece943c58513c9183638e634e]: Textual amendment: Word in reg. 5(5)(a) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 29](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/29)
 
-[^key-641eac107946fab2e5d6462261bebc03]: Textual amendment: Words in reg. 7(3)(a) substituted (10.4.2017) by [The Water Environment (Water Framework Directive) (England and Wales) Regulations 2017 (S.I. 2017/407)](https://www.legislation.gov.uk/uksi/2017/407), [reg. 1(a)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/a), [Sch. 4 para. 4(3)](https://www.legislation.gov.uk/uksi/2017/407/schedule/4/paragraph/4/3) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/c))
+[^c-641eac107946fab2e5d6462261bebc03]: Textual amendment: Words in reg. 7(3)(a) substituted (10.4.2017) by [The Water Environment (Water Framework Directive) (England and Wales) Regulations 2017 (S.I. 2017/407)](https://www.legislation.gov.uk/uksi/2017/407), [reg. 1(a)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/a), [Sch. 4 para. 4(3)](https://www.legislation.gov.uk/uksi/2017/407/schedule/4/paragraph/4/3) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/c))
 
 [^c21854951]: Marginal citation: [S.I. 2003/3245](https://www.legislation.gov.uk/uksi/2003/3245).
 
 [^c21854961]: Marginal citation: [S.I. 2004/99](https://www.legislation.gov.uk/uksi/2004/99). This instrument is amended by regulation 19(4) of these Regulations.
 
-[^key-cfcd1b8d0113e1dd2da1c26df8202405]: Textual amendment: [Reg. 13(1A)-(1C)](https://www.legislation.gov.uk/uksi/2013/1675/regulation/13/1A) inserted (21.11.2025 for E., 1.4.2026 for W.) by [The Bathing Water (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/1129)](https://www.legislation.gov.uk/uksi/2025/1129), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3), [7(a)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/7/a)
+[^c-cfcd1b8d0113e1dd2da1c26df8202405]: Textual amendment: [Reg. 13(1A)-(1C)](https://www.legislation.gov.uk/uksi/2013/1675/regulation/13/1A) inserted (21.11.2025 for E., 1.4.2026 for W.) by [The Bathing Water (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/1129)](https://www.legislation.gov.uk/uksi/2025/1129), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3), [7(a)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/7/a)
 
-[^key-b0c40177b0df733bc88bda4e465dbee5]: Textual amendment: [Reg. 13(2)(a)](https://www.legislation.gov.uk/uksi/2013/1675/regulation/13/2/a) substituted (21.11.2025 for E., 1.4.2026 for W.) by [The Bathing Water (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/1129)](https://www.legislation.gov.uk/uksi/2025/1129), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3), [7(b)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/7/b)
+[^c-b0c40177b0df733bc88bda4e465dbee5]: Textual amendment: [Reg. 13(2)(a)](https://www.legislation.gov.uk/uksi/2013/1675/regulation/13/2/a) substituted (21.11.2025 for E., 1.4.2026 for W.) by [The Bathing Water (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/1129)](https://www.legislation.gov.uk/uksi/2025/1129), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3), [7(b)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/7/b)
 
-[^key-bee0dc9b6adb3ea74a44a3c8ded472f3]: Textual amendment: Words in [reg. 13(2)(b)](https://www.legislation.gov.uk/uksi/2013/1675/regulation/13/2/b) inserted (21.11.2025 for E., 1.4.2026 for W.) by [The Bathing Water (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/1129)](https://www.legislation.gov.uk/uksi/2025/1129), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3), [7(c)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/7/c)
+[^c-bee0dc9b6adb3ea74a44a3c8ded472f3]: Textual amendment: Words in [reg. 13(2)(b)](https://www.legislation.gov.uk/uksi/2013/1675/regulation/13/2/b) inserted (21.11.2025 for E., 1.4.2026 for W.) by [The Bathing Water (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/1129)](https://www.legislation.gov.uk/uksi/2025/1129), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3), [7(c)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/7/c)
 
-[^key-09b65b81b81e78e9bfe78ecce670b332]: Textual amendment: Words in [reg. 13(4)](https://www.legislation.gov.uk/uksi/2013/1675/regulation/13/4) omitted (21.11.2025 for E., 1.4.2026 for W.) by virtue of [The Bathing Water (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/1129)](https://www.legislation.gov.uk/uksi/2025/1129), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3), [7(d)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/7/d)
+[^c-09b65b81b81e78e9bfe78ecce670b332]: Textual amendment: Words in [reg. 13(4)](https://www.legislation.gov.uk/uksi/2013/1675/regulation/13/4) omitted (21.11.2025 for E., 1.4.2026 for W.) by virtue of [The Bathing Water (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/1129)](https://www.legislation.gov.uk/uksi/2025/1129), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3), [7(d)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/7/d)
 
-[^key-fd544eafb811b13eb967d8f63555f864]: Textual amendment: Words in [reg. 14(2)(a)(iv)](https://www.legislation.gov.uk/uksi/2013/1675/regulation/14/2/a/iv) omitted (21.11.2025 for E., 1.4.2026 for W.) by virtue of [The Bathing Water (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/1129)](https://www.legislation.gov.uk/uksi/2025/1129), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3), [8(a)(i)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/8/a/i)
+[^c-fd544eafb811b13eb967d8f63555f864]: Textual amendment: Words in [reg. 14(2)(a)(iv)](https://www.legislation.gov.uk/uksi/2013/1675/regulation/14/2/a/iv) omitted (21.11.2025 for E., 1.4.2026 for W.) by virtue of [The Bathing Water (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/1129)](https://www.legislation.gov.uk/uksi/2025/1129), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3), [8(a)(i)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/8/a/i)
 
-[^key-b3dc721e8a715406a8fadcce6fa4a24d]: Textual amendment: Words in [reg. 14(2)(a)(iv)](https://www.legislation.gov.uk/uksi/2013/1675/regulation/14/2/a/iv) substituted (21.11.2025 for E., 1.4.2026 for W.) by [The Bathing Water (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/1129)](https://www.legislation.gov.uk/uksi/2025/1129), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3), [8(a)(ii)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/8/a/ii)
+[^c-b3dc721e8a715406a8fadcce6fa4a24d]: Textual amendment: Words in [reg. 14(2)(a)(iv)](https://www.legislation.gov.uk/uksi/2013/1675/regulation/14/2/a/iv) substituted (21.11.2025 for E., 1.4.2026 for W.) by [The Bathing Water (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/1129)](https://www.legislation.gov.uk/uksi/2025/1129), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3), [8(a)(ii)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/8/a/ii)
 
-[^key-d461f035b460307e25544e5a8a9b611a]: Textual amendment: [Reg. 14(4)](https://www.legislation.gov.uk/uksi/2013/1675/regulation/14/4) substituted (21.11.2025 for E., 1.4.2026 for W.) by [The Bathing Water (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/1129)](https://www.legislation.gov.uk/uksi/2025/1129), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3), [8(b)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/8/b)
+[^c-d461f035b460307e25544e5a8a9b611a]: Textual amendment: [Reg. 14(4)](https://www.legislation.gov.uk/uksi/2013/1675/regulation/14/4) substituted (21.11.2025 for E., 1.4.2026 for W.) by [The Bathing Water (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/1129)](https://www.legislation.gov.uk/uksi/2025/1129), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3), [8(b)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/8/b)
 
-[^key-3d794f21a13f383f9ce512b35d02974d]: Textual amendment: [Reg. 14(5)](https://www.legislation.gov.uk/uksi/2013/1675/regulation/14/5) substituted (21.11.2025 for E., 1.4.2026 for W.) by [The Bathing Water (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/1129)](https://www.legislation.gov.uk/uksi/2025/1129), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3), [8(c)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/8/c)
+[^c-3d794f21a13f383f9ce512b35d02974d]: Textual amendment: [Reg. 14(5)](https://www.legislation.gov.uk/uksi/2013/1675/regulation/14/5) substituted (21.11.2025 for E., 1.4.2026 for W.) by [The Bathing Water (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/1129)](https://www.legislation.gov.uk/uksi/2025/1129), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3), [8(c)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/8/c)
 
-[^key-4759b1c021a11075a3e448f91f54645e]: Textual amendment: Reg. 15A inserted (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [15(5)](https://www.legislation.gov.uk/uksi/2019/558/regulation/15/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4759b1c021a11075a3e448f91f54645e]: Textual amendment: Reg. 15A inserted (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [15(5)](https://www.legislation.gov.uk/uksi/2019/558/regulation/15/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-25ccd37ac3fc49f930a81854ece7cf75]: Textual amendment: [Reg. 15A(1)](https://www.legislation.gov.uk/uksi/2013/1675/regulation/15A/1) substituted (21.11.2025 for E., 1.4.2026 for W.) by [The Bathing Water (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/1129)](https://www.legislation.gov.uk/uksi/2025/1129), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3), [9(a)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/9/a)
+[^c-25ccd37ac3fc49f930a81854ece7cf75]: Textual amendment: [Reg. 15A(1)](https://www.legislation.gov.uk/uksi/2013/1675/regulation/15A/1) substituted (21.11.2025 for E., 1.4.2026 for W.) by [The Bathing Water (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/1129)](https://www.legislation.gov.uk/uksi/2025/1129), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3), [9(a)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/9/a)
 
-[^key-7f9182f4fa233fff777f9214db3e06c5]: Textual amendment: [Reg. 15A(2)](https://www.legislation.gov.uk/uksi/2013/1675/regulation/15A/2) omitted (21.11.2025 for E., 1.4.2026 for W.) by virtue of [The Bathing Water (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/1129)](https://www.legislation.gov.uk/uksi/2025/1129), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3), [9(b)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/9/b)
+[^c-7f9182f4fa233fff777f9214db3e06c5]: Textual amendment: [Reg. 15A(2)](https://www.legislation.gov.uk/uksi/2013/1675/regulation/15A/2) omitted (21.11.2025 for E., 1.4.2026 for W.) by virtue of [The Bathing Water (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/1129)](https://www.legislation.gov.uk/uksi/2025/1129), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3), [9(b)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/9/b)
 
 [^c21854971]: Marginal citation: [1995 c.25](https://www.legislation.gov.uk/ukpga/1995/25), as amended by [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755) (W. 90); there are other amending instruments but none is relevant.
 
 [^c21854981]: Marginal citation: [1991 c.57](https://www.legislation.gov.uk/ukpga/1991/57), as amended [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755) (W. 90).
 
-[^key-bbc25eaf83a418de6d50d61e8e7948e7]: Textual amendment: Words in [reg. 16(6)](https://www.legislation.gov.uk/uksi/2013/1675/regulation/16/6) substituted (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [15(6)](https://www.legislation.gov.uk/uksi/2019/558/regulation/15/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bbc25eaf83a418de6d50d61e8e7948e7]: Textual amendment: Words in [reg. 16(6)](https://www.legislation.gov.uk/uksi/2013/1675/regulation/16/6) substituted (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [15(6)](https://www.legislation.gov.uk/uksi/2019/558/regulation/15/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7c91254aca741931b6c0c61b79efb6da]: Textual amendment: Words in [reg. 17](https://www.legislation.gov.uk/uksi/2013/1675/regulation/17) substituted (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [15(7)](https://www.legislation.gov.uk/uksi/2019/558/regulation/15/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7c91254aca741931b6c0c61b79efb6da]: Textual amendment: Words in [reg. 17](https://www.legislation.gov.uk/uksi/2013/1675/regulation/17) substituted (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [15(7)](https://www.legislation.gov.uk/uksi/2019/558/regulation/15/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c21854991]: Marginal citation: [S.I. 1991/1597](https://www.legislation.gov.uk/uksi/1991/1597), as amended by [S.I. 2008/1097](https://www.legislation.gov.uk/uksi/2008/1097). The Bathing Water (Classification) Regulations 1991 will be revoked by paragraph (2) of regulation 19 when that paragraph comes into force.
 
@@ -942,18 +942,18 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c21855061]: Marginal citation: [S.I. 2004/99](https://www.legislation.gov.uk/uksi/2004/99).
 
-[^key-9cb9782f75029d0873300cff8d00db18]: Textual amendment: [Reg. 20](https://www.legislation.gov.uk/uksi/2013/1675/regulation/20) omitted (21.11.2025 for E., 1.4.2026 for W.) by virtue of [The Bathing Water (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/1129)](https://www.legislation.gov.uk/uksi/2025/1129), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3), [10](https://www.legislation.gov.uk/uksi/2025/1129/regulation/10)
+[^c-9cb9782f75029d0873300cff8d00db18]: Textual amendment: [Reg. 20](https://www.legislation.gov.uk/uksi/2013/1675/regulation/20) omitted (21.11.2025 for E., 1.4.2026 for W.) by virtue of [The Bathing Water (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/1129)](https://www.legislation.gov.uk/uksi/2025/1129), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3), [10](https://www.legislation.gov.uk/uksi/2025/1129/regulation/10)
 
 [^c21855071]: Marginal citation: The relevant baseline, for the purposes of this definition and the definition of “inland water”, is that from which the breadth of the territorial sea is measured and is established by section 1 of the [Territorial Sea Act 1987 (c.49)](https://www.legislation.gov.uk/ukpga/1987/49) and the Territorial Waters Order in Council 1964 (1965 III, p.6452A).
 
-[^key-2bc7d26dfe4f182e7a819a2f98b5cf91]: Textual amendment: Sch. 2 omitted (29.3.2019) by virtue of [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2019/526/regulation/4/4)
+[^c-2bc7d26dfe4f182e7a819a2f98b5cf91]: Textual amendment: Sch. 2 omitted (29.3.2019) by virtue of [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2019/526/regulation/4/4)
 
-[^key-b2f86903ba5483b882abe8e8cd12a93f]: Textual amendment: [Sch. 4 para. 2(2)](https://www.legislation.gov.uk/uksi/2013/1675/schedule/4/paragraph/2/2) substituted (21.11.2025 for E., 1.4.2026 for W.) by [The Bathing Water (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/1129)](https://www.legislation.gov.uk/uksi/2025/1129), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3), [11(a)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/11/a)
+[^c-b2f86903ba5483b882abe8e8cd12a93f]: Textual amendment: [Sch. 4 para. 2(2)](https://www.legislation.gov.uk/uksi/2013/1675/schedule/4/paragraph/2/2) substituted (21.11.2025 for E., 1.4.2026 for W.) by [The Bathing Water (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/1129)](https://www.legislation.gov.uk/uksi/2025/1129), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3), [11(a)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/11/a)
 
-[^key-4c3dcf729168bdb42a3acab94c0c0ab4]: Textual amendment: [Sch. 4 para. 3(a)](https://www.legislation.gov.uk/uksi/2013/1675/schedule/4/paragraph/3/a) omitted (21.11.2025 for E., 1.4.2026 for W.) by virtue of [The Bathing Water (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/1129)](https://www.legislation.gov.uk/uksi/2025/1129), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3), [11(b)(i)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/11/b/i)
+[^c-4c3dcf729168bdb42a3acab94c0c0ab4]: Textual amendment: [Sch. 4 para. 3(a)](https://www.legislation.gov.uk/uksi/2013/1675/schedule/4/paragraph/3/a) omitted (21.11.2025 for E., 1.4.2026 for W.) by virtue of [The Bathing Water (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/1129)](https://www.legislation.gov.uk/uksi/2025/1129), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3), [11(b)(i)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/11/b/i)
 
-[^key-c869b5415c46afb6bd2361607208f2ce]: Textual amendment: Words in [Sch. 4 para. 3(b)](https://www.legislation.gov.uk/uksi/2013/1675/schedule/4/paragraph/3/b) substituted (21.11.2025 for E., 1.4.2026 for W.) by [The Bathing Water (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/1129)](https://www.legislation.gov.uk/uksi/2025/1129), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3), [11(b)(ii)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/11/b/ii)
+[^c-c869b5415c46afb6bd2361607208f2ce]: Textual amendment: Words in [Sch. 4 para. 3(b)](https://www.legislation.gov.uk/uksi/2013/1675/schedule/4/paragraph/3/b) substituted (21.11.2025 for E., 1.4.2026 for W.) by [The Bathing Water (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/1129)](https://www.legislation.gov.uk/uksi/2025/1129), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3), [11(b)(ii)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/11/b/ii)
 
-[^key-a0f9104906eb1bb7695ea0e0794631ab]: Textual amendment: [Sch. 4 para. 4(2)(b)](https://www.legislation.gov.uk/uksi/2013/1675/schedule/4/paragraph/4/2/b) substituted (21.11.2025 for E., 1.4.2026 for W.) by [The Bathing Water (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/1129)](https://www.legislation.gov.uk/uksi/2025/1129), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3), [11(c)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/11/c)
+[^c-a0f9104906eb1bb7695ea0e0794631ab]: Textual amendment: [Sch. 4 para. 4(2)(b)](https://www.legislation.gov.uk/uksi/2013/1675/schedule/4/paragraph/4/2/b) substituted (21.11.2025 for E., 1.4.2026 for W.) by [The Bathing Water (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/1129)](https://www.legislation.gov.uk/uksi/2025/1129), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3), [11(c)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/11/c)
 
-[^key-3c04778fdf8006f08550715049a49209]: Textual amendment: [Sch. 5 para. 2(2)(e)](https://www.legislation.gov.uk/uksi/2013/1675/schedule/5/paragraph/2/2/e): formula substituted (21.11.2025 for E., 1.4.2026 for W.) by [The Bathing Water (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/1129)](https://www.legislation.gov.uk/uksi/2025/1129), [regs. 1(2)(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2/3), [12](https://www.legislation.gov.uk/uksi/2025/1129/regulation/12)
+[^c-3c04778fdf8006f08550715049a49209]: Textual amendment: [Sch. 5 para. 2(2)(e)](https://www.legislation.gov.uk/uksi/2013/1675/schedule/5/paragraph/2/2/e): formula substituted (21.11.2025 for E., 1.4.2026 for W.) by [The Bathing Water (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/1129)](https://www.legislation.gov.uk/uksi/2025/1129), [regs. 1(2)(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2/3), [12](https://www.legislation.gov.uk/uksi/2025/1129/regulation/12)

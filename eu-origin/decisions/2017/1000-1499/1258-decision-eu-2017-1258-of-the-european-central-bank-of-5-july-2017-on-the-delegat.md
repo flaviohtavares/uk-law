@@ -33,28 +33,28 @@ of 5 July 2017
 
 on the delegation of decisions on the transmission of confidential statistical information to the Single Resolution Board (ECB/2017/22) (revoked)
 
-[^key-6409fc84788f92d3a74dce78f1884f88]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6409fc84788f92d3a74dce78f1884f88]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Definitions[^key-6409fc84788f92d3a74dce78f1884f88]
+## Article 1. Definitions[^c-6409fc84788f92d3a74dce78f1884f88]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Transmission of confidential statistical information to the Single Resolution Board[^key-6409fc84788f92d3a74dce78f1884f88]
+## Article 2. Transmission of confidential statistical information to the Single Resolution Board[^c-6409fc84788f92d3a74dce78f1884f88]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Criteria for the adoption of delegated decisions on the transmission of confidential statistical information to the Single Resolution Board[^key-6409fc84788f92d3a74dce78f1884f88]
+## Article 3. Criteria for the adoption of delegated decisions on the transmission of confidential statistical information to the Single Resolution Board[^c-6409fc84788f92d3a74dce78f1884f88]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Entry into force[^key-6409fc84788f92d3a74dce78f1884f88]
+## Article 4. Entry into force[^c-6409fc84788f92d3a74dce78f1884f88]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6409fc84788f92d3a74dce78f1884f88]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6409fc84788f92d3a74dce78f1884f88]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6409fc84788f92d3a74dce78f1884f88]: Textual amendment: Decision revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 94](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/94)
+[^c-6409fc84788f92d3a74dce78f1884f88]: Textual amendment: Decision revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 94](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/94)

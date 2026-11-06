@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 168. Commutation: small pensions[^key-4e6bea71517251723f7e0cdd9db04803]
+## 168. Commutation: small pensions[^c-4e6bea71517251723f7e0cdd9db04803]
 
 *Extent: S*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4e6bea71517251723f7e0cdd9db04803]: Commencement: [Reg. 168](https://www.legislation.gov.uk/ssi/2014/292/regulation/168) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-4e6bea71517251723f7e0cdd9db04803]: Commencement: [Reg. 168](https://www.legislation.gov.uk/ssi/2014/292/regulation/168) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
 
 [^f00027]: Footnote: [S.I. 2009/1171](https://www.legislation.gov.uk/uksi/2009/1171).

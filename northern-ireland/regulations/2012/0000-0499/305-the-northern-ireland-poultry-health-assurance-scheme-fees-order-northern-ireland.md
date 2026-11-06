@@ -84,7 +84,7 @@ A senior officer of the
 
 Department of Finance and Personnel
 
-## SCHEDULE — NORTHERN IRELAND POULTRY HEALTH ASSURANCE SCHEME FEES[^key-ab8bf6ac96987ef55cbaad2df10ee8c5]
+## SCHEDULE — NORTHERN IRELAND POULTRY HEALTH ASSURANCE SCHEME FEES[^c-ab8bf6ac96987ef55cbaad2df10ee8c5]
 
 Article 3
 
@@ -120,4 +120,4 @@ This Order revokes and remakes the Northern Ireland Poultry Health Assurance Sch
 
 [^c21336231]: Marginal citation: S.R. [2011 No. 435](https://www.legislation.gov.uk/ukcm/2011/435)
 
-[^key-ab8bf6ac96987ef55cbaad2df10ee8c5]: Textual amendment: Sch. substituted (1.4.2016) by [The Northern Ireland Poultry Health Assurance Scheme (Fees) (Amendment) Order (Northern Ireland) 2016 (S.R. 2016/118)](https://www.legislation.gov.uk/nisr/2016/118), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2016/118/article/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2016/118/article/2/2), [Sch.](https://www.legislation.gov.uk/nisr/2016/118/schedule)
+[^c-ab8bf6ac96987ef55cbaad2df10ee8c5]: Textual amendment: Sch. substituted (1.4.2016) by [The Northern Ireland Poultry Health Assurance Scheme (Fees) (Amendment) Order (Northern Ireland) 2016 (S.R. 2016/118)](https://www.legislation.gov.uk/nisr/2016/118), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2016/118/article/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2016/118/article/2/2), [Sch.](https://www.legislation.gov.uk/nisr/2016/118/schedule)

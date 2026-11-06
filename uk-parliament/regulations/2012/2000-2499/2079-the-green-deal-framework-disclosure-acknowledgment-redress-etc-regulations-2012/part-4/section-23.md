@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 23. Requirements which apply to green deal installers[^key-d0ddacf4b4d32fff17850beac8b5300a]
+## 23. Requirements which apply to green deal installers[^c-d0ddacf4b4d32fff17850beac8b5300a]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ A green deal installer must comply with any provisions of the code of practice w
 
 ## Annotations
 
-[^key-d0ddacf4b4d32fff17850beac8b5300a]: Commencement: Reg. 23 in force at 7.8.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/2)
+[^c-d0ddacf4b4d32fff17850beac8b5300a]: Commencement: Reg. 23 in force at 7.8.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/2)

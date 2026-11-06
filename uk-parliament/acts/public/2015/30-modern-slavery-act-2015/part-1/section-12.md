@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Detention of land vehicle, ship or aircraft[^key-27dec116b9600117032c2b244b357881]
+## 12. Detention of land vehicle, ship or aircraft[^c-27dec116b9600117032c2b244b357881]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-27dec116b9600117032c2b244b357881]: Commencement: S. 12 in force at 31.7.2015 by [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/a)
+[^c-27dec116b9600117032c2b244b357881]: Commencement: S. 12 in force at 31.7.2015 by [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/a)

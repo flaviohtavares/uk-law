@@ -50,7 +50,7 @@ and information so given may be transmitted to any other authority to whom the M
 - “**occupier**” includes a person responsible for the carrying on of any activity on agricultural or forestry land as servant or agent of the occupier,
 - “**owner**” includes a person exercising, as servant or agent of the owner, functions of estate management in relation to the land.
 
-(8) In this section and in section 31 of this Act reference to the Minister are references to the Minister of Agriculture, Fisheries and Food and, so far as the reference relates to forestry land, to the Forestry Commissioners in relation to land in England and the Natural Resources Body for Wales in relation to land in Wales[^key-b7a75e4072aaca81cb5c60d69173d86d].
+(8) In this section and in section 31 of this Act reference to the Minister are references to the Minister of Agriculture, Fisheries and Food and, so far as the reference relates to forestry land, to the Forestry Commissioners in relation to land in England and the Natural Resources Body for Wales in relation to land in Wales[^c-b7a75e4072aaca81cb5c60d69173d86d].
 
 ## Annotations
 
@@ -62,4 +62,4 @@ and information so given may be transmitted to any other authority to whom the M
 
 [^c13230711]: Marginal citation: [1947 c. 48](https://www.legislation.gov.uk/ukpga/1947/48).
 
-[^key-b7a75e4072aaca81cb5c60d69173d86d]: Textual amendment: Words in [s. 30(8)](https://www.legislation.gov.uk/ukpga/1976/80/section/30/8) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 154](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/154) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-b7a75e4072aaca81cb5c60d69173d86d]: Textual amendment: Words in [s. 30(8)](https://www.legislation.gov.uk/ukpga/1976/80/section/30/8) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 154](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/154) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

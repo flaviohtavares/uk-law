@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-6a4c06d8253d8f5396deaf543f56053b] In this Part—
+(1)[^c-6a4c06d8253d8f5396deaf543f56053b] In this Part—
 
 “**authorised officer**” means an officer authorised by or in accordance with directions of the Defence Council for the purposes of this Part;
 
@@ -30,10 +30,10 @@ summary: ''
 
 “**service under a call-out order**”, and “**service**” mean permanent service on being called out under this Part on the authority of a call-out order.
 
-(2)[^key-48bb18f85dd09abcdf2f8f75542c4a04] The powers under sections 52, 54 and 56 to make a call-out order are each to be interpreted as including power to do so in circumstances in which an order could also be made under another of those sections.
+(2)[^c-48bb18f85dd09abcdf2f8f75542c4a04] The powers under sections 52, 54 and 56 to make a call-out order are each to be interpreted as including power to do so in circumstances in which an order could also be made under another of those sections.
 
 ## Annotations
 
-[^key-6a4c06d8253d8f5396deaf543f56053b]: Textual amendment: S. 64 renumbered as s. 64(1) (1.10.2014) by [Defence Reform Act 2014 (c. 20)](https://www.legislation.gov.uk/ukpga/2014/20), [ss. 45(8)(a)](https://www.legislation.gov.uk/ukpga/2014/20/section/45/8/a), [50(1)](https://www.legislation.gov.uk/ukpga/2014/20/section/50/1) (with [s. 49(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/4), [Sch. 7 para. 12(3)](https://www.legislation.gov.uk/ukpga/2014/20/schedule/7/paragraph/12/3)); [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(b)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/b)
+[^c-6a4c06d8253d8f5396deaf543f56053b]: Textual amendment: S. 64 renumbered as s. 64(1) (1.10.2014) by [Defence Reform Act 2014 (c. 20)](https://www.legislation.gov.uk/ukpga/2014/20), [ss. 45(8)(a)](https://www.legislation.gov.uk/ukpga/2014/20/section/45/8/a), [50(1)](https://www.legislation.gov.uk/ukpga/2014/20/section/50/1) (with [s. 49(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/4), [Sch. 7 para. 12(3)](https://www.legislation.gov.uk/ukpga/2014/20/schedule/7/paragraph/12/3)); [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(b)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/b)
 
-[^key-48bb18f85dd09abcdf2f8f75542c4a04]: Textual amendment: S. 64(2) inserted (1.10.2014) by [Defence Reform Act 2014 (c. 20)](https://www.legislation.gov.uk/ukpga/2014/20), [ss. 45(8)(b)](https://www.legislation.gov.uk/ukpga/2014/20/section/45/8/b), [50(1)](https://www.legislation.gov.uk/ukpga/2014/20/section/50/1) (with [s. 49(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/4), [Sch. 7 para. 12(3)](https://www.legislation.gov.uk/ukpga/2014/20/schedule/7/paragraph/12/3)); [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(b)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/b)
+[^c-48bb18f85dd09abcdf2f8f75542c4a04]: Textual amendment: S. 64(2) inserted (1.10.2014) by [Defence Reform Act 2014 (c. 20)](https://www.legislation.gov.uk/ukpga/2014/20), [ss. 45(8)(b)](https://www.legislation.gov.uk/ukpga/2014/20/section/45/8/b), [50(1)](https://www.legislation.gov.uk/ukpga/2014/20/section/50/1) (with [s. 49(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/4), [Sch. 7 para. 12(3)](https://www.legislation.gov.uk/ukpga/2014/20/schedule/7/paragraph/12/3)); [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(b)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/b)

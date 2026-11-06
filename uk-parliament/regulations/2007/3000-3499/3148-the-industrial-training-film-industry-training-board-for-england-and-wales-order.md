@@ -32,7 +32,7 @@ summary: ''
 
 employment and training, England and Wales
 
-The Industrial Training (Film Industry Training Board for England and Wales) Order 2007 (revoked)[^key-1991f0bd74c062ce47c2adc8cb51c569]
+The Industrial Training (Film Industry Training Board for England and Wales) Order 2007 (revoked)[^c-1991f0bd74c062ce47c2adc8cb51c569]
 
 Made
 
@@ -46,86 +46,86 @@ Coming into force
 
 7th December 2007
 
-[^key-1991f0bd74c062ce47c2adc8cb51c569]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1991f0bd74c062ce47c2adc8cb51c569]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, extent and interpretation[^key-1991f0bd74c062ce47c2adc8cb51c569]
+## 1. Citation, commencement, extent and interpretation[^c-1991f0bd74c062ce47c2adc8cb51c569]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-1991f0bd74c062ce47c2adc8cb51c569] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-1991f0bd74c062ce47c2adc8cb51c569] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-1991f0bd74c062ce47c2adc8cb51c569] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-1991f0bd74c062ce47c2adc8cb51c569] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Establishment of the Film Industry Training Board for England and Wales[^key-1991f0bd74c062ce47c2adc8cb51c569]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 5. Membership and proceedings of the Film Industry Training Board for England and Wales[^key-1991f0bd74c062ce47c2adc8cb51c569]
+## 4. Establishment of the Film Industry Training Board for England and Wales[^c-1991f0bd74c062ce47c2adc8cb51c569]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1991f0bd74c062ce47c2adc8cb51c569]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## 5. Membership and proceedings of the Film Industry Training Board for England and Wales[^c-1991f0bd74c062ce47c2adc8cb51c569]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-1991f0bd74c062ce47c2adc8cb51c569]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — The Film Industry[^key-1991f0bd74c062ce47c2adc8cb51c569]
+## SCHEDULE 1 — The Film Industry[^c-1991f0bd74c062ce47c2adc8cb51c569]
 
 article 4(1)
 
-### 1. The activities[^key-1991f0bd74c062ce47c2adc8cb51c569]
+### 1. The activities[^c-1991f0bd74c062ce47c2adc8cb51c569]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-1991f0bd74c062ce47c2adc8cb51c569] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-1991f0bd74c062ce47c2adc8cb51c569] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-1991f0bd74c062ce47c2adc8cb51c569] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-1991f0bd74c062ce47c2adc8cb51c569] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Interpretation[^key-1991f0bd74c062ce47c2adc8cb51c569]
+### 4. Interpretation[^c-1991f0bd74c062ce47c2adc8cb51c569]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Membership and proceedings of the Film Industry Training Board for England and Wales[^key-1991f0bd74c062ce47c2adc8cb51c569]
+## SCHEDULE 2 — Membership and proceedings of the Film Industry Training Board for England and Wales[^c-1991f0bd74c062ce47c2adc8cb51c569]
 
 article 5
 
-### 1. Membership of the Board[^key-1991f0bd74c062ce47c2adc8cb51c569]
+### 1. Membership of the Board[^c-1991f0bd74c062ce47c2adc8cb51c569]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-1991f0bd74c062ce47c2adc8cb51c569] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-1991f0bd74c062ce47c2adc8cb51c569] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-1991f0bd74c062ce47c2adc8cb51c569] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-1991f0bd74c062ce47c2adc8cb51c569] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-1991f0bd74c062ce47c2adc8cb51c569] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-1991f0bd74c062ce47c2adc8cb51c569] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Proceedings of the Board[^key-1991f0bd74c062ce47c2adc8cb51c569]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**6.**[^key-1991f0bd74c062ce47c2adc8cb51c569] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**7.**[^key-1991f0bd74c062ce47c2adc8cb51c569] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**8.**[^key-1991f0bd74c062ce47c2adc8cb51c569] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**9.**[^key-1991f0bd74c062ce47c2adc8cb51c569] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**10.**[^key-1991f0bd74c062ce47c2adc8cb51c569] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 11. Execution and issue of instruments[^key-1991f0bd74c062ce47c2adc8cb51c569]
+### 5. Proceedings of the Board[^c-1991f0bd74c062ce47c2adc8cb51c569]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Interpretation[^key-1991f0bd74c062ce47c2adc8cb51c569]
+**6.**[^c-1991f0bd74c062ce47c2adc8cb51c569] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**7.**[^c-1991f0bd74c062ce47c2adc8cb51c569] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**8.**[^c-1991f0bd74c062ce47c2adc8cb51c569] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**9.**[^c-1991f0bd74c062ce47c2adc8cb51c569] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**10.**[^c-1991f0bd74c062ce47c2adc8cb51c569] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 11. Execution and issue of instruments[^c-1991f0bd74c062ce47c2adc8cb51c569]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 12. Interpretation[^c-1991f0bd74c062ce47c2adc8cb51c569]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-1991f0bd74c062ce47c2adc8cb51c569]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1991f0bd74c062ce47c2adc8cb51c569]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1991f0bd74c062ce47c2adc8cb51c569]: Textual amendment: Order revoked (14.4.2021) by [The Industrial Training (Film Industry Training Board for England and Wales) (Revocation) Order 2021 (S.I. 2021/318)](https://www.legislation.gov.uk/uksi/2021/318), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/318/article/1/3), [3](https://www.legislation.gov.uk/uksi/2021/318/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2021/318/article/4))
+[^c-1991f0bd74c062ce47c2adc8cb51c569]: Textual amendment: Order revoked (14.4.2021) by [The Industrial Training (Film Industry Training Board for England and Wales) (Revocation) Order 2021 (S.I. 2021/318)](https://www.legislation.gov.uk/uksi/2021/318), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/318/article/1/3), [3](https://www.legislation.gov.uk/uksi/2021/318/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2021/318/article/4))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 116. Effect of transfers-out[^key-fa8c499b84a3f5f7ce2f684d7646c2aa]
+## 116. Effect of transfers-out[^c-fa8c499b84a3f5f7ce2f684d7646c2aa]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ If a transfer value payment is made under this Chapter in respect of a member’
 
 ## Annotations
 
-[^key-fa8c499b84a3f5f7ce2f684d7646c2aa]: Commencement: Reg. 116 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-fa8c499b84a3f5f7ce2f684d7646c2aa]: Commencement: Reg. 116 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

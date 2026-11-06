@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Electronic waste tracking: Northern Ireland[^key-80a36cd10d3461d4e0523f8c4dc56c05][^key-432efc1c0ab24b8590810c6d8e619a38]
+## 59. Electronic waste tracking: Northern Ireland[^c-80a36cd10d3461d4e0523f8c4dc56c05][^c-432efc1c0ab24b8590810c6d8e619a38]
 
 *Extent: E+W+S+N.I.*
 
@@ -112,6 +112,6 @@ summary: ''
 
 ## Annotations
 
-[^key-80a36cd10d3461d4e0523f8c4dc56c05]: Commencement: S. 59 not in force at Royal Assent, see [s. 147(6)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6)
+[^c-80a36cd10d3461d4e0523f8c4dc56c05]: Commencement: S. 59 not in force at Royal Assent, see [s. 147(6)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6)
 
-[^key-432efc1c0ab24b8590810c6d8e619a38]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2021/30/section/59) in force at 28.2.2022 by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(i)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/i)
+[^c-432efc1c0ab24b8590810c6d8e619a38]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2021/30/section/59) in force at 28.2.2022 by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(i)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/i)

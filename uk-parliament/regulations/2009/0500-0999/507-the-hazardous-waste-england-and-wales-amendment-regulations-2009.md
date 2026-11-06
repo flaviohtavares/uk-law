@@ -46,7 +46,7 @@ Coming into force
 
 The Secretary of State is a Minister designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the environment. In exercise of the powers conferred by section 2(2) of that Act, the Secretary of State makes the following Regulations.
 
-## 1. Citation, application and commencement[^key-4926fc6e92f43fca2c0ae4b70988397e]
+## 1. Citation, application and commencement[^c-4926fc6e92f43fca2c0ae4b70988397e]
 
 These Regulations—
 
@@ -54,11 +54,11 @@ These Regulations—
 - (b) apply in England; and
 - (c) come into force on 6th April 2009.
 
-## 2. Amendment to the Hazardous Waste (England and Wales) Regulations 2005[^key-bde306cb31bce9fe24bed397e4ea10a6]
+## 2. Amendment to the Hazardous Waste (England and Wales) Regulations 2005[^c-bde306cb31bce9fe24bed397e4ea10a6]
 
 The Hazardous Waste (England and Wales) Regulations 2005[^f00003] are amended as follows.
 
-## 3. Amendment of regulation 5 (general interpretation)[^key-41d658072de3670803e49524fc0de739]
+## 3. Amendment of regulation 5 (general interpretation)[^c-41d658072de3670803e49524fc0de739]
 
 In regulation 5(1), for the definition of “premises”, substitute—
 
@@ -66,7 +66,7 @@ In regulation 5(1), for the definition of “premises”, substitute—
 
 .
 
-## 4. Amendment of regulation 12 (general application of Parts 4 to 11)[^key-b5e7c6c04437ae3d12a85f17bb918d60]
+## 4. Amendment of regulation 12 (general application of Parts 4 to 11)[^c-b5e7c6c04437ae3d12a85f17bb918d60]
 
 For regulation 12(2), substitute—
 
@@ -74,7 +74,7 @@ For regulation 12(2), substitute—
 
 .
 
-## 5. Replacement of regulation 13 (asbestos waste)[^key-e71e446bf17d2efd5daf3895a65c1285]
+## 5. Replacement of regulation 13 (asbestos waste)[^c-e71e446bf17d2efd5daf3895a65c1285]
 
 For regulation 13, substitute—
 
@@ -88,7 +88,7 @@ For regulation 13, substitute—
 
 .
 
-## 6. Replacement of regulation 14 (separately collected domestic fractions)[^key-9e3954205f1913b9b60ef8a9a4d0c7b8]
+## 6. Replacement of regulation 14 (separately collected domestic fractions)[^c-9e3954205f1913b9b60ef8a9a4d0c7b8]
 
 For regulation 14, substitute—
 
@@ -110,7 +110,7 @@ For regulation 14, substitute—
 
 .
 
-## 7. Insertion of regulation 14A (hazardous waste produced at shop premises)[^key-7813f3eb28f0c8228dd7fbc4c333dd58]
+## 7. Insertion of regulation 14A (hazardous waste produced at shop premises)[^c-7813f3eb28f0c8228dd7fbc4c333dd58]
 
 After regulation 14, insert—
 
@@ -122,11 +122,11 @@ After regulation 14, insert—
 
 .
 
-## 8. Amendment of regulation 21 (requirement to notify premises)[^key-7e9d1e8365124338ba5fdceeceb145c8]
+## 8. Amendment of regulation 21 (requirement to notify premises)[^c-7e9d1e8365124338ba5fdceeceb145c8]
 
 In regulation 21(1), after “produced at,”, insert “collected at,”.
 
-## 9. Replacement of regulation 23 (exemption from requirement to notify)[^key-ef0baa88860d0c2b5eb7468fde9b42a0]
+## 9. Replacement of regulation 23 (exemption from requirement to notify)[^c-ef0baa88860d0c2b5eb7468fde9b42a0]
 
 For regulation 23, substitute—
 
@@ -147,7 +147,7 @@ For regulation 23, substitute—
 
 .
 
-## 10. Amendment of regulation 26 (common provisions on notifications)[^key-509e42388404a618b040a34b7399c96b]
+## 10. Amendment of regulation 26 (common provisions on notifications)[^c-509e42388404a618b040a34b7399c96b]
 
 For regulation 26(8), substitute—
 
@@ -160,7 +160,7 @@ For regulation 26(8), substitute—
 
 .
 
-## 11. Replacement of regulation 30 (the qualifying limitation)[^key-daedbe9cf8e3fe632b7a938aead680bb]
+## 11. Replacement of regulation 30 (the qualifying limitation)[^c-daedbe9cf8e3fe632b7a938aead680bb]
 
 For regulation 30, substitute—
 
@@ -175,7 +175,7 @@ For regulation 30, substitute—
 
 .
 
-## 12. Amendment of regulation 32 (general interpretation of Part 5)[^key-d02ec77a02e79cbf682a45c07a3f9d4f]
+## 12. Amendment of regulation 32 (general interpretation of Part 5)[^c-d02ec77a02e79cbf682a45c07a3f9d4f]
 
 In regulation 32—
 
@@ -193,7 +193,7 @@ In regulation 32—
 
     .
 
-## 13. Amendment of regulation 42 (duty of consignee not accepting delivery)[^key-d2e2083591d0c9897c48e6f4fd13ea16]
+## 13. Amendment of regulation 42 (duty of consignee not accepting delivery)[^c-d2e2083591d0c9897c48e6f4fd13ea16]
 
 In regulation 42—
 
@@ -205,7 +205,7 @@ In regulation 42—
 
   .
 
-## 14. Amendment of regulation 48 (records of disposal or recovery of hazardous waste by other means)[^key-4ca1ede8e12695f2c5e025f34ae2f3e6]
+## 14. Amendment of regulation 48 (records of disposal or recovery of hazardous waste by other means)[^c-4ca1ede8e12695f2c5e025f34ae2f3e6]
 
 For regulation 48(3)(c), substitute—
 
@@ -213,11 +213,11 @@ For regulation 48(3)(c), substitute—
 
 .
 
-## 15. Amendment of regulation 49 (producers’, holders’ and consignors’ records)[^key-d1da9dbc32016b4f0709b7ddde54fa50]
+## 15. Amendment of regulation 49 (producers’, holders’ and consignors’ records)[^c-d1da9dbc32016b4f0709b7ddde54fa50]
 
 In regulation 49(1), after the words “where different from the producer”, insert “or holder”.
 
-## 16. Amendment of regulation 70 (fixed penalties)[^key-0c5018ac7b9b33e7cf44b4e1b65a3984]
+## 16. Amendment of regulation 70 (fixed penalties)[^c-0c5018ac7b9b33e7cf44b4e1b65a3984]
 
 In regulation 70(10), for “(8)”, substitute “(9)”.
 
@@ -267,42 +267,42 @@ An Impact Assessment of the effect that this instrument will have on the costs o
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68); section 2(2) was amended by section 27(1) of the Legislative and Regulatory Reform Act [2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51).
 
-[^key-4926fc6e92f43fca2c0ae4b70988397e]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2009/507/regulation/1) in force at 6.4.2009, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2009/507/regulation/1/c)
+[^c-4926fc6e92f43fca2c0ae4b70988397e]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2009/507/regulation/1) in force at 6.4.2009, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2009/507/regulation/1/c)
 
-[^key-bde306cb31bce9fe24bed397e4ea10a6]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2009/507/regulation/2) in force at 6.4.2009, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2009/507/regulation/1/c)
+[^c-bde306cb31bce9fe24bed397e4ea10a6]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2009/507/regulation/2) in force at 6.4.2009, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2009/507/regulation/1/c)
 
 [^f00003]: Footnote: [S.I. 2005/894](https://www.legislation.gov.uk/uksi/2005/894), amended by [S.I. 2007/3538](https://www.legislation.gov.uk/uksi/2007/3538); there are other amending instruments but none is relevant.
 
-[^key-41d658072de3670803e49524fc0de739]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2009/507/regulation/3) in force at 6.4.2009, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2009/507/regulation/1/c)
+[^c-41d658072de3670803e49524fc0de739]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2009/507/regulation/3) in force at 6.4.2009, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2009/507/regulation/1/c)
 
-[^key-b5e7c6c04437ae3d12a85f17bb918d60]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2009/507/regulation/4) in force at 6.4.2009, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2009/507/regulation/1/c)
+[^c-b5e7c6c04437ae3d12a85f17bb918d60]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2009/507/regulation/4) in force at 6.4.2009, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2009/507/regulation/1/c)
 
-[^key-e71e446bf17d2efd5daf3895a65c1285]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2009/507/regulation/5) in force at 6.4.2009, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2009/507/regulation/1/c)
+[^c-e71e446bf17d2efd5daf3895a65c1285]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2009/507/regulation/5) in force at 6.4.2009, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2009/507/regulation/1/c)
 
-[^key-9e3954205f1913b9b60ef8a9a4d0c7b8]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2009/507/regulation/6) in force at 6.4.2009, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2009/507/regulation/1/c)
+[^c-9e3954205f1913b9b60ef8a9a4d0c7b8]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2009/507/regulation/6) in force at 6.4.2009, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2009/507/regulation/1/c)
 
-[^key-7813f3eb28f0c8228dd7fbc4c333dd58]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2009/507/regulation/7) in force at 6.4.2009, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2009/507/regulation/1/c)
+[^c-7813f3eb28f0c8228dd7fbc4c333dd58]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2009/507/regulation/7) in force at 6.4.2009, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2009/507/regulation/1/c)
 
 [^f00004]: Footnote: [1963 c. 41](https://www.legislation.gov.uk/ukpga/1963/41).
 
-[^key-7e9d1e8365124338ba5fdceeceb145c8]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2009/507/regulation/8) in force at 6.4.2009, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2009/507/regulation/1/c)
+[^c-7e9d1e8365124338ba5fdceeceb145c8]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2009/507/regulation/8) in force at 6.4.2009, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2009/507/regulation/1/c)
 
-[^key-ef0baa88860d0c2b5eb7468fde9b42a0]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2009/507/regulation/9) in force at 6.4.2009, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2009/507/regulation/1/c)
+[^c-ef0baa88860d0c2b5eb7468fde9b42a0]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2009/507/regulation/9) in force at 6.4.2009, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2009/507/regulation/1/c)
 
 [^f00005]: Footnote: [1989 c. 14](https://www.legislation.gov.uk/ukpga/1989/14).
 
-[^key-509e42388404a618b040a34b7399c96b]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2009/507/regulation/10) in force at 6.4.2009, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2009/507/regulation/1/c)
+[^c-509e42388404a618b040a34b7399c96b]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2009/507/regulation/10) in force at 6.4.2009, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2009/507/regulation/1/c)
 
-[^key-daedbe9cf8e3fe632b7a938aead680bb]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2009/507/regulation/11) in force at 6.4.2009, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2009/507/regulation/1/c)
+[^c-daedbe9cf8e3fe632b7a938aead680bb]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2009/507/regulation/11) in force at 6.4.2009, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2009/507/regulation/1/c)
 
-[^key-d02ec77a02e79cbf682a45c07a3f9d4f]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2009/507/regulation/12) in force at 6.4.2009, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2009/507/regulation/1/c)
+[^c-d02ec77a02e79cbf682a45c07a3f9d4f]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2009/507/regulation/12) in force at 6.4.2009, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2009/507/regulation/1/c)
 
-[^key-d2e2083591d0c9897c48e6f4fd13ea16]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2009/507/regulation/13) in force at 6.4.2009, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2009/507/regulation/1/c)
+[^c-d2e2083591d0c9897c48e6f4fd13ea16]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2009/507/regulation/13) in force at 6.4.2009, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2009/507/regulation/1/c)
 
 [^f00006]: Footnote: [S.I. 2007/3538](https://www.legislation.gov.uk/uksi/2007/3538).
 
-[^key-4ca1ede8e12695f2c5e025f34ae2f3e6]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2009/507/regulation/14) in force at 6.4.2009, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2009/507/regulation/1/c)
+[^c-4ca1ede8e12695f2c5e025f34ae2f3e6]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2009/507/regulation/14) in force at 6.4.2009, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2009/507/regulation/1/c)
 
-[^key-d1da9dbc32016b4f0709b7ddde54fa50]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2009/507/regulation/15) in force at 6.4.2009, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2009/507/regulation/1/c)
+[^c-d1da9dbc32016b4f0709b7ddde54fa50]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2009/507/regulation/15) in force at 6.4.2009, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2009/507/regulation/1/c)
 
-[^key-0c5018ac7b9b33e7cf44b4e1b65a3984]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2009/507/regulation/16) in force at 6.4.2009, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2009/507/regulation/1/c)
+[^c-0c5018ac7b9b33e7cf44b4e1b65a3984]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2009/507/regulation/16) in force at 6.4.2009, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2009/507/regulation/1/c)

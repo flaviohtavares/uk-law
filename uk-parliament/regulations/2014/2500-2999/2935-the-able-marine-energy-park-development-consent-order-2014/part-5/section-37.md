@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 37. Acquisition of subsoil only[^key-22fef089b275d0d5d12e201ff44feb7c]
+## 37. Acquisition of subsoil only[^c-22fef089b275d0d5d12e201ff44feb7c]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-22fef089b275d0d5d12e201ff44feb7c]: Commencement: [Art. 37](https://www.legislation.gov.uk/uksi/2014/2935/article/37) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)
+[^c-22fef089b275d0d5d12e201ff44feb7c]: Commencement: [Art. 37](https://www.legislation.gov.uk/uksi/2014/2935/article/37) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)

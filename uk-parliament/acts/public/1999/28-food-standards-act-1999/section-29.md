@@ -22,7 +22,7 @@ summary: ''
 
 (1) [^c1312469]. . . each Secretary of State having responsibility for any matters connected with the regulation of veterinary products, shall consult the Agency from time to time about the general policy he proposes to pursue in carrying out his functions in relation to those matters.
 
-(2)[^key-d63b3329e14e9806e8cd14aedbfc9d46] In this section “veterinary products” means—
+(2)[^c-d63b3329e14e9806e8cd14aedbfc9d46] In this section “veterinary products” means—
 
 - (a) veterinary medicinal products as defined in regulation 2 of the Veterinary Medicines Regulations 2006; or
 - (b) specified feed additives as defined in paragraph 1 of Schedule 5 to those Regulations.
@@ -37,7 +37,7 @@ summary: ''
 
 [^c1312469]: Textual amendment: Words in s. 29(1) repealed (27.3.2002) by [S.I. 2002/794](https://www.legislation.gov.uk/uksi/2002/794), [art. 5(2)](https://www.legislation.gov.uk/uksi/2002/794/article/5/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2002/794/schedule/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2002/794/article/6))
 
-[^key-d63b3329e14e9806e8cd14aedbfc9d46]: Textual amendment: [S. 29(2)](https://www.legislation.gov.uk/ukpga/1999/28/section/29/2) substituted (1.10.2006) by [The Veterinary Medicines Regulations 2006 (S.I. 2006/2407)](https://www.legislation.gov.uk/uksi/2006/2407), [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1), [Sch. 9 para. 12](https://www.legislation.gov.uk/uksi/2006/2407/schedule/9/paragraph/12) (with [regs. 2(4)](https://www.legislation.gov.uk/uksi/2006/2407/regulation/2/4), [3](https://www.legislation.gov.uk/uksi/2006/2407/regulation/3))
+[^c-d63b3329e14e9806e8cd14aedbfc9d46]: Textual amendment: [S. 29(2)](https://www.legislation.gov.uk/ukpga/1999/28/section/29/2) substituted (1.10.2006) by [The Veterinary Medicines Regulations 2006 (S.I. 2006/2407)](https://www.legislation.gov.uk/uksi/2006/2407), [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1), [Sch. 9 para. 12](https://www.legislation.gov.uk/uksi/2006/2407/schedule/9/paragraph/12) (with [regs. 2(4)](https://www.legislation.gov.uk/uksi/2006/2407/regulation/2/4), [3](https://www.legislation.gov.uk/uksi/2006/2407/regulation/3))
 
 [^c1312472]: Textual amendment: Words in s. 29(3) repealed (27.3.2002) by [S.I. 2002/794](https://www.legislation.gov.uk/uksi/2002/794), [art. 5(2)](https://www.legislation.gov.uk/uksi/2002/794/article/5/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2002/794/schedule/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2002/794/article/6))
 

@@ -22,7 +22,7 @@ summary: ''
 
 (1) A qualifying disclosure is made in accordance with this Article if the worker—
 
-- (a) makes the disclosure [^key-db6050521f378ece424964ec3066bc1a]... to a person prescribed by an order made by the Department for the purposes of this Article, and
+- (a) makes the disclosure [^c-db6050521f378ece424964ec3066bc1a]... to a person prescribed by an order made by the Department for the purposes of this Article, and
 - (b) reasonably believes—
   - (i) that the relevant failure falls within any description of matters in respect of which that person is so prescribed, and
   - (ii) that the information disclosed, and any allegation contained in it, are substantially true.
@@ -33,4 +33,4 @@ summary: ''
 
 [^c22339971]: Textual amendment: [1998 NI 17](https://www.legislation.gov.uk/nisi/1998)
 
-[^key-db6050521f378ece424964ec3066bc1a]: Textual amendment: Words in [art. 67F(1)(a)](https://www.legislation.gov.uk/nisi/1996/1919/article/67F/1/a) repealed (1.10.2017) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [ss. 14(1)(c)](https://www.legislation.gov.uk/nia/2016/15/section/14/1/c), [29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2), [Sch. 3](https://www.legislation.gov.uk/nia/2016/15/schedule/3); [S.R. 2017/199](https://www.legislation.gov.uk/nisr/2017/199), [art. 2](https://www.legislation.gov.uk/nisr/2017/199/article/2)
+[^c-db6050521f378ece424964ec3066bc1a]: Textual amendment: Words in [art. 67F(1)(a)](https://www.legislation.gov.uk/nisi/1996/1919/article/67F/1/a) repealed (1.10.2017) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [ss. 14(1)(c)](https://www.legislation.gov.uk/nia/2016/15/section/14/1/c), [29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2), [Sch. 3](https://www.legislation.gov.uk/nia/2016/15/schedule/3); [S.R. 2017/199](https://www.legislation.gov.uk/nisr/2017/199), [art. 2](https://www.legislation.gov.uk/nisr/2017/199/article/2)

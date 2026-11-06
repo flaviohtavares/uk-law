@@ -34,7 +34,7 @@ An Act to make provision about criminal justice (including the powers and duties
 
 \[20th November 2003\]
 
-Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-e8310eb401c7d8b85059fc3b4edc532d]
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-e8310eb401c7d8b85059fc3b4edc532d]
 
 ## Contents
 
@@ -69,7 +69,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 20 — Supplementary amendments to the Bail Act 1976](part-2/section-20.md)
 - [Section 21 — Interpretation of Part 2](part-2/section-21.md)
 
-### Part 3 — Conditional cautions[^key-5bd86af6add7f937ca7692d027f23a71]
+### Part 3 — Conditional cautions[^c-5bd86af6add7f937ca7692d027f23a71]
 
 *Extent: E+W*
 
@@ -435,7 +435,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 179 — Breach, revocation or amendment of community order](part-12/section-179.md)
 - [Section 180 — Transfer of community orders to Scotland or Northern Ireland](part-12/section-180.md)
 
-#### Chapter 3 — Suspended sentence orders[^key-958ede06332929f5704f4e76a3123219]
+#### Chapter 3 — Suspended sentence orders[^c-958ede06332929f5704f4e76a3123219]
 
 *Extent: E+W*
 
@@ -556,7 +556,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 225 — Life sentence ... for serious offences](part-12/section-225.md)
 - [Section 226 — Detention for life ... for serious offences committed by those under 18](part-12/section-226.md)
 
-##### Extended sentences[^key-697c421885d9d59752b2898ecbcb64dc]
+##### Extended sentences[^c-697c421885d9d59752b2898ecbcb64dc]
 
 - [Section 226A — Extended sentence for certain violent, sexual or terrorism offences: persons 18 or over](part-12/section-226a.md)
 - [Section 226B — Extended sentence for certain violent, sexual or terrorism offences: persons under 18](part-12/section-226b.md)
@@ -583,7 +583,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 236A — Special custodial sentence for certain offenders of particular concern](part-12/section-236a.md)
 
-#### Chapter 6 — Release, licences , supervision and recall[^key-0c780b6184e67c3ada348d3a114af260][^key-33489d54c102abbf03712f3be913d327][^key-ad9c2bc53516bdc69645a8f71e932e46][^key-155c0f69a8116c840c0366b45e57112f][^key-1685a02ce653a5293667f4152e268d38][^key-33bb97727bc5bf7b7148782a3164013f][^key-65c5e657ebfe88bf0b6d18f161e3347b][^key-a6706511f2568575b2e8ff6b14b4096f]
+#### Chapter 6 — Release, licences , supervision and recall[^c-0c780b6184e67c3ada348d3a114af260][^c-33489d54c102abbf03712f3be913d327][^c-ad9c2bc53516bdc69645a8f71e932e46][^c-155c0f69a8116c840c0366b45e57112f][^c-1685a02ce653a5293667f4152e268d38][^c-33bb97727bc5bf7b7148782a3164013f][^c-65c5e657ebfe88bf0b6d18f161e3347b][^c-a6706511f2568575b2e8ff6b14b4096f]
 
 *Extent: E+W*
 
@@ -609,7 +609,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 242 — Interpretation of sections 240ZA, 240A and 241](part-12/section-242.md)
 - [Section 243 — Persons extradited to the United Kingdom](part-12/section-243.md)
 
-##### Unconditional release[^key-7afcb0af90d6ab1a6d81a0d1f162f002]
+##### Unconditional release[^c-7afcb0af90d6ab1a6d81a0d1f162f002]
 
 *Extent: E+W*
 
@@ -650,7 +650,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 255 — Recall of prisoners released early under section 246](part-12/section-255.md)
 - [Section 255ZA — Offence of remaining unlawfully at large after recall](part-12/section-255za.md)
 
-##### Further release after recall[^key-1f245ec9ec10746a986d2fd3dbf3ffc7]
+##### Further release after recall[^c-1f245ec9ec10746a986d2fd3dbf3ffc7]
 
 *Extent: E+W*
 
@@ -663,17 +663,17 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 256AZA — Release after recall where further sentence being served](part-12/section-256aza.md)
 - [Section 256AZB — Power to change test for release following recall](part-12/section-256azb.md)
 
-##### Referral of release decisions to High Court[^key-fac7b55327d5e52792874c4b00691571]
+##### Referral of release decisions to High Court[^c-fac7b55327d5e52792874c4b00691571]
 
 - [Section 256AZBA — Referral of release decisions to High Court](part-12/section-256azba.md)
 - [Section 256AZBB — Specified offences](part-12/section-256azbb.md)
 - [Section 256AZBC — Powers of the High Court](part-12/section-256azbc.md)
 
-##### Release at the direction of the Board[^key-b5e8ffdbbde88e4b4b580668a397e281]
+##### Release at the direction of the Board[^c-b5e8ffdbbde88e4b4b580668a397e281]
 
 - [Section 256AZC — Release at direction of Parole Board: timing](part-12/section-256azc.md)
 
-##### Supervision of certain young offenders after release[^key-9c31f233c791ff866b09ac9cf31ff91f][^key-b98526457639ade6b8e3626908150ccd]
+##### Supervision of certain young offenders after release[^c-9c31f233c791ff866b09ac9cf31ff91f][^c-b98526457639ade6b8e3626908150ccd]
 
 *Extent: E+W*
 
@@ -681,7 +681,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 256AB — Supervision requirements under section 256AA](part-12/section-256ab.md)
 - [Section 256AC — Breach of supervision requirements imposed under section 256AA](part-12/section-256ac.md)
 
-##### ...[^key-0de4c3457615645009413f77efb1aa73][^key-932b6a018e4f64788148116e3b12ee45]
+##### ...[^c-0de4c3457615645009413f77efb1aa73][^c-932b6a018e4f64788148116e3b12ee45]
 
 *Extent: E+W*
 
@@ -971,9 +971,9 @@ SCHEDULES
 
 ## Annotations
 
-[^key-e8310eb401c7d8b85059fc3b4edc532d]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2003/44): power to amend conferred (1.2.2015) by [Offender Rehabilitation Act 2014 (c. 11)](https://www.legislation.gov.uk/ukpga/2014/11), [ss. 7](https://www.legislation.gov.uk/ukpga/2014/11/section/7), [22(1)](https://www.legislation.gov.uk/ukpga/2014/11/section/22/1) (with [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2014/11/schedule/7/paragraph/2)); [S.I. 2015/40](https://www.legislation.gov.uk/uksi/2015/40), [art. 2(g)](https://www.legislation.gov.uk/uksi/2015/40/article/2/g)
+[^c-e8310eb401c7d8b85059fc3b4edc532d]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2003/44): power to amend conferred (1.2.2015) by [Offender Rehabilitation Act 2014 (c. 11)](https://www.legislation.gov.uk/ukpga/2014/11), [ss. 7](https://www.legislation.gov.uk/ukpga/2014/11/section/7), [22(1)](https://www.legislation.gov.uk/ukpga/2014/11/section/22/1) (with [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2014/11/schedule/7/paragraph/2)); [S.I. 2015/40](https://www.legislation.gov.uk/uksi/2015/40), [art. 2(g)](https://www.legislation.gov.uk/uksi/2015/40/article/2/g)
 
-[^key-5bd86af6add7f937ca7692d027f23a71]: Modification: Pt. 3 excluded (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 17(8)(a)](https://www.legislation.gov.uk/ukpga/2015/2/section/17/8/a), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/13)
+[^c-5bd86af6add7f937ca7692d027f23a71]: Modification: Pt. 3 excluded (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 17(8)(a)](https://www.legislation.gov.uk/ukpga/2015/2/section/17/8/a), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/13)
 
 [^M_C_8930635f-5049-4e69-de49-3cfe900beff6]: Modification: Pt. 12 modified (28.3.2009 for certain purposes, otherwise 31.10.2009) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), ss. 183(4), 383 (as amended (1.4.2008) by [The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912)](https://www.legislation.gov.uk/uksi/2008/912), art. 3, Sch. 1 para. 23(2)(b)); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), art. 3 (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), art. 4
 
@@ -981,7 +981,7 @@ SCHEDULES
 
 [^c20059421]: Modification: Pt. 12 Ch. 1: power to amend conferred (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [ss. 4(3)](https://www.legislation.gov.uk/ukpga/2008/4/section/4/3), [153](https://www.legislation.gov.uk/ukpga/2008/4/section/153); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/d)
 
-[^key-958ede06332929f5704f4e76a3123219]: Textual amendment: Pt. 12 Ch. 3 heading substituted (3.12.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/2012/10/schedule/9/paragraph/3) (with [s. 68(7)](https://www.legislation.gov.uk/ukpga/2012/10/section/68/7)); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/g)
+[^c-958ede06332929f5704f4e76a3123219]: Textual amendment: Pt. 12 Ch. 3 heading substituted (3.12.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/2012/10/schedule/9/paragraph/3) (with [s. 68(7)](https://www.legislation.gov.uk/ukpga/2012/10/section/68/7)); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/g)
 
 [^M_C_83ad433d-fbc9-4a9c-defb-ef9cc376b573]: Modification: Pt. 12 Ch. 4 applied (with modifications) (8.12.2008) by [Children Act 1989 (c. 41)](https://www.legislation.gov.uk/ukpga/1989/41), [Sch. A1 paras. 1-3](https://www.legislation.gov.uk/ukpga/1989/41/schedule/A1/paragraph/1) (as inserted by the [Children and Adoption Act 2006 (c. 20)](https://www.legislation.gov.uk/ukpga/2006/20), [ss. 4(2)](https://www.legislation.gov.uk/ukpga/2006/20/section/4/2), [17](https://www.legislation.gov.uk/ukpga/2006/20/section/17), [Sch. 1](https://www.legislation.gov.uk/ukpga/2006/20/schedule/1)); [S.I. 2008/2870](https://www.legislation.gov.uk/uksi/2008/2870), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2008/2870/article/2/2/c) (as amended (1.2.2015) by [Offender Rehabilitation Act 2014 (c. 11)](https://www.legislation.gov.uk/ukpga/2014/11), [ss. 18(12)](https://www.legislation.gov.uk/ukpga/2014/11/section/18/12), [22(1)](https://www.legislation.gov.uk/ukpga/2014/11/section/22/1) (with [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/2014/11/schedule/7/paragraph/7)); [S.I. 2015/40](https://www.legislation.gov.uk/uksi/2015/40), [art. 2(p)](https://www.legislation.gov.uk/uksi/2015/40/article/2/p))
 
@@ -991,38 +991,38 @@ SCHEDULES
 
 [^c19414651]: Modification: Pt. 12 Ch. 4 excluded (28.3.2009 for certain purposes, otherwise 31.10.2009) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [ss. 201](https://www.legislation.gov.uk/ukpga/2006/52/section/201), [383](https://www.legislation.gov.uk/ukpga/2006/52/section/383); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3](https://www.legislation.gov.uk/uksi/2009/812/article/3) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-697c421885d9d59752b2898ecbcb64dc]: Textual amendment: Cross-heading in Pt. 12 Ch. 5 inserted (3.12.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 19 para. 18](https://www.legislation.gov.uk/ukpga/2012/10/schedule/19/paragraph/18); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(q)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/q)
+[^c-697c421885d9d59752b2898ecbcb64dc]: Textual amendment: Cross-heading in Pt. 12 Ch. 5 inserted (3.12.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 19 para. 18](https://www.legislation.gov.uk/ukpga/2012/10/schedule/19/paragraph/18); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(q)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/q)
 
-[^key-0c780b6184e67c3ada348d3a114af260]: Modification: Pt. 12 Ch. 6 applied to any person serving a sentence for an offence committed before 4 April 2005 (whenever that sentence was or is imposed) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 121(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/121/1), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/d)
+[^c-0c780b6184e67c3ada348d3a114af260]: Modification: Pt. 12 Ch. 6 applied to any person serving a sentence for an offence committed before 4 April 2005 (whenever that sentence was or is imposed) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 121(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/121/1), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/d)
 
-[^key-33489d54c102abbf03712f3be913d327]: Modification: Pt. 12 Ch. 6 applied (1.2.2015) by [Offender Rehabilitation Act 2014 (c. 11)](https://www.legislation.gov.uk/ukpga/2014/11), [s. 22(1)](https://www.legislation.gov.uk/ukpga/2014/11/section/22/1), [Sch. 7 para. 2(a)](https://www.legislation.gov.uk/ukpga/2014/11/schedule/7/paragraph/2/a); [S.I. 2015/40](https://www.legislation.gov.uk/uksi/2015/40), [art. 2(x)](https://www.legislation.gov.uk/uksi/2015/40/article/2/x)
+[^c-33489d54c102abbf03712f3be913d327]: Modification: Pt. 12 Ch. 6 applied (1.2.2015) by [Offender Rehabilitation Act 2014 (c. 11)](https://www.legislation.gov.uk/ukpga/2014/11), [s. 22(1)](https://www.legislation.gov.uk/ukpga/2014/11/section/22/1), [Sch. 7 para. 2(a)](https://www.legislation.gov.uk/ukpga/2014/11/schedule/7/paragraph/2/a); [S.I. 2015/40](https://www.legislation.gov.uk/uksi/2015/40), [art. 2(x)](https://www.legislation.gov.uk/uksi/2015/40/article/2/x)
 
-[^key-ad9c2bc53516bdc69645a8f71e932e46]: Modification: Pt. 12 Ch. 6 modified (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 245(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/245/1)[(2)(c)](https://www.legislation.gov.uk/ukpga/2020/17/section/245/2/c), [416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1) (with [ss. 2](https://www.legislation.gov.uk/ukpga/2020/17/section/2), [245(3)](https://www.legislation.gov.uk/ukpga/2020/17/section/245/3), [398(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/398/1), [406](https://www.legislation.gov.uk/ukpga/2020/17/section/406), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-ad9c2bc53516bdc69645a8f71e932e46]: Modification: Pt. 12 Ch. 6 modified (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 245(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/245/1)[(2)(c)](https://www.legislation.gov.uk/ukpga/2020/17/section/245/2/c), [416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1) (with [ss. 2](https://www.legislation.gov.uk/ukpga/2020/17/section/2), [245(3)](https://www.legislation.gov.uk/ukpga/2020/17/section/245/3), [398(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/398/1), [406](https://www.legislation.gov.uk/ukpga/2020/17/section/406), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-155c0f69a8116c840c0366b45e57112f]: Modification: Pt. 12 Ch. 6 modified (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 244(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/244/1)[(2)(c)](https://www.legislation.gov.uk/ukpga/2020/17/section/244/2/c), [416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1) (with [ss. 2](https://www.legislation.gov.uk/ukpga/2020/17/section/2), [244(3)](https://www.legislation.gov.uk/ukpga/2020/17/section/244/3), [398(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/398/1), [406](https://www.legislation.gov.uk/ukpga/2020/17/section/406), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-155c0f69a8116c840c0366b45e57112f]: Modification: Pt. 12 Ch. 6 modified (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 244(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/244/1)[(2)(c)](https://www.legislation.gov.uk/ukpga/2020/17/section/244/2/c), [416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1) (with [ss. 2](https://www.legislation.gov.uk/ukpga/2020/17/section/2), [244(3)](https://www.legislation.gov.uk/ukpga/2020/17/section/244/3), [398(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/398/1), [406](https://www.legislation.gov.uk/ukpga/2020/17/section/406), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-1685a02ce653a5293667f4152e268d38]: Modification: Pt. 12 Ch. 6 applied (29.6.2021) by [1984 c. 47](https://www.legislation.gov.uk/ukpga/1984/47), [Sch. para. 2(3B)](https://www.legislation.gov.uk/ukpga/1984/47/schedule/paragraph/2/3B) (as inserted by [Counter Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(2)(r)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/r), [Sch. 11 para. 2](https://www.legislation.gov.uk/ukpga/2021/11/schedule/11/paragraph/2))
+[^c-1685a02ce653a5293667f4152e268d38]: Modification: Pt. 12 Ch. 6 applied (29.6.2021) by [1984 c. 47](https://www.legislation.gov.uk/ukpga/1984/47), [Sch. para. 2(3B)](https://www.legislation.gov.uk/ukpga/1984/47/schedule/paragraph/2/3B) (as inserted by [Counter Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(2)(r)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/r), [Sch. 11 para. 2](https://www.legislation.gov.uk/ukpga/2021/11/schedule/11/paragraph/2))
 
-[^key-33bb97727bc5bf7b7148782a3164013f]: Modification: [Pt. 12 Ch. 6](https://www.legislation.gov.uk/ukpga/2003/44/part/12/chapter/6) modified (22.3.2026) by [1984 c. 27](https://www.legislation.gov.uk/ukpga/1984/27), [Sch. para. 2B(3)](https://www.legislation.gov.uk/ukpga/1984/27/schedule/paragraph/2B/3) (as inserted by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 41(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/41/1), [49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4) (with [s. 41(3)(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/41/3)))
+[^c-33bb97727bc5bf7b7148782a3164013f]: Modification: [Pt. 12 Ch. 6](https://www.legislation.gov.uk/ukpga/2003/44/part/12/chapter/6) modified (22.3.2026) by [1984 c. 27](https://www.legislation.gov.uk/ukpga/1984/27), [Sch. para. 2B(3)](https://www.legislation.gov.uk/ukpga/1984/27/schedule/paragraph/2B/3) (as inserted by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 41(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/41/1), [49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4) (with [s. 41(3)(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/41/3)))
 
-[^key-65c5e657ebfe88bf0b6d18f161e3347b]: Textual amendment: Pt. 12 Ch. 6 heading substituted (3.12.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 14 para. 16](https://www.legislation.gov.uk/ukpga/2012/10/schedule/14/paragraph/16); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(l)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/l)
+[^c-65c5e657ebfe88bf0b6d18f161e3347b]: Textual amendment: Pt. 12 Ch. 6 heading substituted (3.12.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 14 para. 16](https://www.legislation.gov.uk/ukpga/2012/10/schedule/14/paragraph/16); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(l)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/l)
 
-[^key-a6706511f2568575b2e8ff6b14b4096f]: Textual amendment: Word in Pt. 12 Ch. 6 heading inserted (1.2.2015) by [Offender Rehabilitation Act 2014 (c. 11)](https://www.legislation.gov.uk/ukpga/2014/11), [s. 22(1)](https://www.legislation.gov.uk/ukpga/2014/11/section/22/1), [Sch. 3 para. 15](https://www.legislation.gov.uk/ukpga/2014/11/schedule/3/paragraph/15) (with [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2014/11/schedule/7/paragraph/2)); [S.I. 2015/40](https://www.legislation.gov.uk/uksi/2015/40), [art. 2(u)](https://www.legislation.gov.uk/uksi/2015/40/article/2/u)
+[^c-a6706511f2568575b2e8ff6b14b4096f]: Textual amendment: Word in Pt. 12 Ch. 6 heading inserted (1.2.2015) by [Offender Rehabilitation Act 2014 (c. 11)](https://www.legislation.gov.uk/ukpga/2014/11), [s. 22(1)](https://www.legislation.gov.uk/ukpga/2014/11/section/22/1), [Sch. 3 para. 15](https://www.legislation.gov.uk/ukpga/2014/11/schedule/3/paragraph/15) (with [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2014/11/schedule/7/paragraph/2)); [S.I. 2015/40](https://www.legislation.gov.uk/uksi/2015/40), [art. 2(u)](https://www.legislation.gov.uk/uksi/2015/40/article/2/u)
 
 [^c20116471]: Textual amendment: Words in s. 240 cross-heading inserted (3.11.2008) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [ss. 21(3)](https://www.legislation.gov.uk/ukpga/2008/4/section/21/3), [153](https://www.legislation.gov.uk/ukpga/2008/4/section/153); [S.I. 2008/2712](https://www.legislation.gov.uk/uksi/2008/2712), [art. 2](https://www.legislation.gov.uk/uksi/2008/2712/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2008/2712/schedule/paragraph/1) (subject to [arts. 3](https://www.legislation.gov.uk/uksi/2008/2712/article/3), [4](https://www.legislation.gov.uk/uksi/2008/2712/article/4))
 
-[^key-7afcb0af90d6ab1a6d81a0d1f162f002]: Textual amendment: S. 243A and cross-heading inserted (3.12.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 111(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/111/1), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1) (with [Sch. 15](https://www.legislation.gov.uk/ukpga/2012/10/schedule/15)); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/d)
+[^c-7afcb0af90d6ab1a6d81a0d1f162f002]: Textual amendment: S. 243A and cross-heading inserted (3.12.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 111(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/111/1), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1) (with [Sch. 15](https://www.legislation.gov.uk/ukpga/2012/10/schedule/15)); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/d)
 
-[^key-1f245ec9ec10746a986d2fd3dbf3ffc7]: Textual amendment: [Ss. 255A-255C](https://www.legislation.gov.uk/ukpga/2003/44/section/255A) and cross-heading substituted for ss. 255A-255D (3.12.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 114(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/114/1), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1) (with [Sch. 15](https://www.legislation.gov.uk/ukpga/2012/10/schedule/15)); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/d)
+[^c-1f245ec9ec10746a986d2fd3dbf3ffc7]: Textual amendment: [Ss. 255A-255C](https://www.legislation.gov.uk/ukpga/2003/44/section/255A) and cross-heading substituted for ss. 255A-255D (3.12.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 114(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/114/1), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1) (with [Sch. 15](https://www.legislation.gov.uk/ukpga/2012/10/schedule/15)); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/d)
 
-[^key-fac7b55327d5e52792874c4b00691571]: Textual amendment: [Ss. 256AZBA-256AZBC](https://www.legislation.gov.uk/ukpga/2003/44/section/256AZBA) and cross-heading inserted (31.12.2025) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 62(1)](https://www.legislation.gov.uk/ukpga/2024/21/section/62/1), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2); [S.I. 2025/1325](https://www.legislation.gov.uk/uksi/2025/1325), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2025/1325/regulation/2/f)
+[^c-fac7b55327d5e52792874c4b00691571]: Textual amendment: [Ss. 256AZBA-256AZBC](https://www.legislation.gov.uk/ukpga/2003/44/section/256AZBA) and cross-heading inserted (31.12.2025) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 62(1)](https://www.legislation.gov.uk/ukpga/2024/21/section/62/1), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2); [S.I. 2025/1325](https://www.legislation.gov.uk/uksi/2025/1325), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2025/1325/regulation/2/f)
 
-[^key-b5e8ffdbbde88e4b4b580668a397e281]: Textual amendment: [S. 256AZC](https://www.legislation.gov.uk/ukpga/2003/44/section/256AZC) and cross-heading inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 139(2)(c)](https://www.legislation.gov.uk/ukpga/2022/32/section/139/2/c), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(o)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/o)
+[^c-b5e8ffdbbde88e4b4b580668a397e281]: Textual amendment: [S. 256AZC](https://www.legislation.gov.uk/ukpga/2003/44/section/256AZC) and cross-heading inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 139(2)(c)](https://www.legislation.gov.uk/ukpga/2022/32/section/139/2/c), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(o)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/o)
 
-[^key-9c31f233c791ff866b09ac9cf31ff91f]: Textual amendment: S. 256AA and cross-heading inserted (1.2.2015) by [Offender Rehabilitation Act 2014 (c. 11)](https://www.legislation.gov.uk/ukpga/2014/11), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2014/11/section/2/2), [22(1)](https://www.legislation.gov.uk/ukpga/2014/11/section/22/1) (with [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2014/11/schedule/7/paragraph/2)); [S.I. 2015/40](https://www.legislation.gov.uk/uksi/2015/40), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/40/article/2/b)
+[^c-9c31f233c791ff866b09ac9cf31ff91f]: Textual amendment: S. 256AA and cross-heading inserted (1.2.2015) by [Offender Rehabilitation Act 2014 (c. 11)](https://www.legislation.gov.uk/ukpga/2014/11), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2014/11/section/2/2), [22(1)](https://www.legislation.gov.uk/ukpga/2014/11/section/22/1) (with [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2014/11/schedule/7/paragraph/2)); [S.I. 2015/40](https://www.legislation.gov.uk/uksi/2015/40), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/40/article/2/b)
 
-[^key-b98526457639ade6b8e3626908150ccd]: Textual amendment: Words in s. 256AA cross-heading substituted (11.5.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 34(1)(a)](https://www.legislation.gov.uk/ukpga/2026/2/section/34/1/a), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1) (with [s. 34(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/34/4)[(5)](https://www.legislation.gov.uk/ukpga/2026/2/section/34/5)); [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/b)
+[^c-b98526457639ade6b8e3626908150ccd]: Textual amendment: Words in s. 256AA cross-heading substituted (11.5.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 34(1)(a)](https://www.legislation.gov.uk/ukpga/2026/2/section/34/1/a), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1) (with [s. 34(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/34/4)[(5)](https://www.legislation.gov.uk/ukpga/2026/2/section/34/5)); [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/b)
 
-[^key-0de4c3457615645009413f77efb1aa73]: Textual amendment: S. 256B cross-heading omitted (1.2.2015) by virtue of [Offender Rehabilitation Act 2014 (c. 11)](https://www.legislation.gov.uk/ukpga/2014/11), [s. 22(1)](https://www.legislation.gov.uk/ukpga/2014/11/section/22/1), [Sch. 3 para. 19](https://www.legislation.gov.uk/ukpga/2014/11/schedule/3/paragraph/19) (with [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2014/11/schedule/7/paragraph/2)); [S.I. 2015/40](https://www.legislation.gov.uk/uksi/2015/40), [art. 2(u)](https://www.legislation.gov.uk/uksi/2015/40/article/2/u)
+[^c-0de4c3457615645009413f77efb1aa73]: Textual amendment: S. 256B cross-heading omitted (1.2.2015) by virtue of [Offender Rehabilitation Act 2014 (c. 11)](https://www.legislation.gov.uk/ukpga/2014/11), [s. 22(1)](https://www.legislation.gov.uk/ukpga/2014/11/section/22/1), [Sch. 3 para. 19](https://www.legislation.gov.uk/ukpga/2014/11/schedule/3/paragraph/19) (with [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2014/11/schedule/7/paragraph/2)); [S.I. 2015/40](https://www.legislation.gov.uk/uksi/2015/40), [art. 2(u)](https://www.legislation.gov.uk/uksi/2015/40/article/2/u)
 
-[^key-932b6a018e4f64788148116e3b12ee45]: Textual amendment: Ss. 256B, 256C and cross-heading inserted (3.12.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 115](https://www.legislation.gov.uk/ukpga/2012/10/section/115), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1) (with [Sch. 15](https://www.legislation.gov.uk/ukpga/2012/10/schedule/15)); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/d)
+[^c-932b6a018e4f64788148116e3b12ee45]: Textual amendment: Ss. 256B, 256C and cross-heading inserted (3.12.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 115](https://www.legislation.gov.uk/ukpga/2012/10/section/115), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1) (with [Sch. 15](https://www.legislation.gov.uk/ukpga/2012/10/schedule/15)); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/d)

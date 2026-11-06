@@ -32,7 +32,7 @@ summary: ''
 
 Criminal Law, England And Wales
 
-The Sexual Offences Act 2003 (Prescribed Police Stations) Regulations 2013 (revoked)[^key-7dd18d4ddcf327b37104616126cf9e8c]
+The Sexual Offences Act 2003 (Prescribed Police Stations) Regulations 2013 (revoked)[^c-7dd18d4ddcf327b37104616126cf9e8c]
 
 Made
 
@@ -46,27 +46,27 @@ Coming into force
 
 12th March 2013
 
-[^key-7dd18d4ddcf327b37104616126cf9e8c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7dd18d4ddcf327b37104616126cf9e8c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-7dd18d4ddcf327b37104616126cf9e8c]
+## 1. Citation, commencement and extent[^c-7dd18d4ddcf327b37104616126cf9e8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Prescribed police stations[^key-7dd18d4ddcf327b37104616126cf9e8c]
+## 2. Prescribed police stations[^c-7dd18d4ddcf327b37104616126cf9e8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-7dd18d4ddcf327b37104616126cf9e8c]
+## 3. Revocation[^c-7dd18d4ddcf327b37104616126cf9e8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7dd18d4ddcf327b37104616126cf9e8c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7dd18d4ddcf327b37104616126cf9e8c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Police Stations in England and Wales[^key-7dd18d4ddcf327b37104616126cf9e8c]
+## SCHEDULE — Police Stations in England and Wales[^c-7dd18d4ddcf327b37104616126cf9e8c]
 
 Regulation 2
 
@@ -74,8 +74,8 @@ Regulation 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-7dd18d4ddcf327b37104616126cf9e8c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7dd18d4ddcf327b37104616126cf9e8c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7dd18d4ddcf327b37104616126cf9e8c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2013/300) revoked (25.2.2015) by [The Sexual Offences Act 2003 (Prescribed Police Stations) Regulations 2015 (S.I. 2015/82)](https://www.legislation.gov.uk/uksi/2015/82), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/82/regulation/1), [3](https://www.legislation.gov.uk/uksi/2015/82/regulation/3)
+[^c-7dd18d4ddcf327b37104616126cf9e8c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2013/300) revoked (25.2.2015) by [The Sexual Offences Act 2003 (Prescribed Police Stations) Regulations 2015 (S.I. 2015/82)](https://www.legislation.gov.uk/uksi/2015/82), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/82/regulation/1), [3](https://www.legislation.gov.uk/uksi/2015/82/regulation/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 161. Application of Order to certain aircraft registered elsewhere[^key-3c55e0d13a9eccb81252059b8e8b29b4]
+## 161. Application of Order to certain aircraft registered elsewhere[^c-3c55e0d13a9eccb81252059b8e8b29b4]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3c55e0d13a9eccb81252059b8e8b29b4]: Commencement: [Art. 161](https://www.legislation.gov.uk/uksi/2015/870/article/161) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-3c55e0d13a9eccb81252059b8e8b29b4]: Commencement: [Art. 161](https://www.legislation.gov.uk/uksi/2015/870/article/161) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

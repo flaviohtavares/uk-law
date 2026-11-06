@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 193. Other exemptions[^key-1b82804327c267fdb33ef5c43cc5c063]
+## 193. Other exemptions[^c-1b82804327c267fdb33ef5c43cc5c063]
 
 *Extent: E+W+S+N.I.*
 
-(1) Proceedings for a recovery order may not be taken against the Financial Conduct Authority, the Prudential Regulation Authority or the Bank of England[^key-52ca64f312499198cd69cf7c25ec6d01] in respect of any recoverable property held by the authority.
+(1) Proceedings for a recovery order may not be taken against the Financial Conduct Authority, the Prudential Regulation Authority or the Bank of England[^c-52ca64f312499198cd69cf7c25ec6d01] in respect of any recoverable property held by the authority.
 
 (2) Proceedings for a recovery order may not be taken in respect of any property which is subject to any of the following charges—
 
@@ -35,9 +35,9 @@ summary: ''
 
 ## Annotations
 
-[^key-1b82804327c267fdb33ef5c43cc5c063]: Commencement: [Art. 193](https://www.legislation.gov.uk/uksi/2005/3181/article/193) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-1b82804327c267fdb33ef5c43cc5c063]: Commencement: [Art. 193](https://www.legislation.gov.uk/uksi/2005/3181/article/193) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
 
-[^key-52ca64f312499198cd69cf7c25ec6d01]: Textual amendment: Words in [art. 193(1)](https://www.legislation.gov.uk/uksi/2005/3181/article/193/1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 110](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/110)
+[^c-52ca64f312499198cd69cf7c25ec6d01]: Textual amendment: Words in [art. 193(1)](https://www.legislation.gov.uk/uksi/2005/3181/article/193/1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 110](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/110)
 
 [^f00100]: Footnote: [S.I. 1999/2979](https://www.legislation.gov.uk/uksi/1999/2979).
 

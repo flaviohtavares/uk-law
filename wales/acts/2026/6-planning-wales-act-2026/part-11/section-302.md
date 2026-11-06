@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 302. Interpretation of this Part[^key-be3244bc9d379fcd9aa3a80fd4ff48fa]
+## 302. Interpretation of this Part[^c-be3244bc9d379fcd9aa3a80fd4ff48fa]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-be3244bc9d379fcd9aa3a80fd4ff48fa]: Commencement: S. 302 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-be3244bc9d379fcd9aa3a80fd4ff48fa]: Commencement: S. 302 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

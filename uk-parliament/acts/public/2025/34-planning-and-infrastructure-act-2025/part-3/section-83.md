@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Power to enter and survey or investigate land[^key-82106835ff2b8497f6237b0cd2c9c9a1][^key-082a02f47bc13213b73f118fc1b79125]
+## 83. Power to enter and survey or investigate land[^c-82106835ff2b8497f6237b0cd2c9c9a1][^c-082a02f47bc13213b73f118fc1b79125]
 
 *Extent: E+W*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-82106835ff2b8497f6237b0cd2c9c9a1]: Commencement: S. 83 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-82106835ff2b8497f6237b0cd2c9c9a1]: Commencement: S. 83 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-082a02f47bc13213b73f118fc1b79125]: Commencement: [S. 83](https://www.legislation.gov.uk/ukpga/2025/34/section/83) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)
+[^c-082a02f47bc13213b73f118fc1b79125]: Commencement: [S. 83](https://www.legislation.gov.uk/ukpga/2025/34/section/83) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)

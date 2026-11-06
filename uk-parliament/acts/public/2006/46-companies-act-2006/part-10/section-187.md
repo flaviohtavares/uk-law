@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 187. Declaration of interest in existing transaction by shadow director[^key-aade5f854be447d29468937ac3512719]
+## 187. Declaration of interest in existing transaction by shadow director[^c-aade5f854be447d29468937ac3512719]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aade5f854be447d29468937ac3512719]: Modification: [Ss. 182-187](https://www.legislation.gov.uk/ukpga/2006/46/section/182) applied (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/1/2), [83(1)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/83/1) (with [reg. 189](https://www.legislation.gov.uk/uksi/2017/1212/regulation/189))
+[^c-aade5f854be447d29468937ac3512719]: Modification: [Ss. 182-187](https://www.legislation.gov.uk/ukpga/2006/46/section/182) applied (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/1/2), [83(1)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/83/1) (with [reg. 189](https://www.legislation.gov.uk/uksi/2017/1212/regulation/189))

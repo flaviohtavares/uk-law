@@ -55,10 +55,10 @@ The Department of Justice, being a Northern Ireland department designated for th
 (1) In these Regulations—
 
 - “**the Aarhus Convention**” means the United Nations Economic Commission for Europe Convention on Access to Information, Public Participation in Decision-Making and Access to Justice in Environment Matters done at Aarhus on 25 June 1998;
-- “**an Aarhus Convention case**” means an application by a member of the public (as defined by Article 2 of the Aarhus Convention)[^key-9d6b5c6a77ede5b5b2252e23ea234e85]
+- “**an Aarhus Convention case**” means an application by a member of the public (as defined by Article 2 of the Aarhus Convention)[^c-9d6b5c6a77ede5b5b2252e23ea234e85]
   - (a) for judicial review under section 18 of the Judicature (Northern Ireland) Act 1978 [^c21724951] of a decision, act or omission all or part of which is subject to the provisions of the Aarhus Convention; or
-  - (b) for review under the provisions of any statutory provision to the court[^key-9aac9b87acbdd475315894c67b47896c] of a decision, act or omission all or part of which is subject to the provisions of the Aarhus Convention; and “applicant” shall be construed accordingly;[^key-3b14144500754562028f986b9570835b]
-- “**court**” means the High Court unless otherwise specified[^key-9db18c46b8d658b819e44e56f353fd5a] ;
+  - (b) for review under the provisions of any statutory provision to the court[^c-9aac9b87acbdd475315894c67b47896c] of a decision, act or omission all or part of which is subject to the provisions of the Aarhus Convention; and “applicant” shall be construed accordingly;[^c-3b14144500754562028f986b9570835b]
+- “**court**” means the High Court unless otherwise specified[^c-9db18c46b8d658b819e44e56f353fd5a] ;
 - “**free of charge**” means otherwise than for or in expectation of fee, gain or reward;
 - “**indemnity basis**” has the meaning assigned to it by rules of court;
 - “**legal representative**” means a person exercising a right of audience or conducting litigation in an Aarhus Convention case.
@@ -72,7 +72,7 @@ The Department of Justice, being a Northern Ireland department designated for th
 - (a) has not stated in the application that it is an Aarhus Convention case; or
 - (b) has stated in the application that the applicant does not wish these Regulations to apply.
 
-(2)[^key-bc2e26cba74bcca5dbeb453ab65557b7] Subject to paragraphs (3) and (7)<sub>, </sub>in an Aarhus Convention case, the court shall order that any costs recoverable from an applicant shall not exceed £5,000 where the applicant is an individual and £10,000 where the applicant is a legal person or an individual applying in the name of a legal entity or unincorporated association.
+(2)[^c-bc2e26cba74bcca5dbeb453ab65557b7] Subject to paragraphs (3) and (7)<sub>, </sub>in an Aarhus Convention case, the court shall order that any costs recoverable from an applicant shall not exceed £5,000 where the applicant is an individual and £10,000 where the applicant is a legal person or an individual applying in the name of a legal entity or unincorporated association.
 
 (3) The court may decrease the amount specified in paragraph (2) if it is satisfied that not doing so would make the costs of the proceedings prohibitively expensive for the applicant.
 
@@ -90,7 +90,7 @@ The Department of Justice, being a Northern Ireland department designated for th
 
 (10) The amounts specified in paragraphs (2) and (4) do not include value added tax.
 
-## 3A. Costs in appeals[^key-d2878069bc71c4a107416dba0da50f7b]
+## 3A. Costs in appeals[^c-d2878069bc71c4a107416dba0da50f7b]
 
 (1) Upon any appeal of a decision in an Aarhus Convention case, the court shall, subject to paragraph (2), order that the costs in respect of the appeal recoverable from an applicant or a respondent shall not exceed the amounts specified in regulation 3(2) and (4).
 
@@ -118,7 +118,7 @@ The Department of Justice, being a Northern Ireland department designated for th
 (3) In any proceedings, including any appeal, in relation to the question whether the case is an Aarhus Convention case—
 
 - (a) if the court is satisfied that the case is not an Aarhus Convention case, it shall normally make no order for costs in relation to those proceedings;
-- (b) if the court is satisfied that the case is an Aarhus Convention case, it shall normally order the respondent to pay the applicant's costs of those proceedings on the indemnity basis, and those costs shall be payable notwithstanding that this would increase the costs payable by the respondent beyond those specified in regulation 3(4) or in any order made under regulation 3(5)[^key-c67bb6152cbbaf015f67ca711477a51c] .
+- (b) if the court is satisfied that the case is an Aarhus Convention case, it shall normally order the respondent to pay the applicant's costs of those proceedings on the indemnity basis, and those costs shall be payable notwithstanding that this would increase the costs payable by the respondent beyond those specified in regulation 3(4) or in any order made under regulation 3(5)[^c-c67bb6152cbbaf015f67ca711477a51c] .
 
 (4) An appeal of a decision on whether the case is an Aarhus Convention case shall lie to the Court of Appeal and the notice of appeal shall be served within 21 days from the date the decision was filed.
 
@@ -129,7 +129,7 @@ If in an Aarhus Convention case the court is satisfied that an injunction is nec
 - (a) have particular regard to the need for the terms of the order overall not to be such as would make continuing with the case prohibitively expensive for the applicant; and
 - (b) make such directions as are necessary to ensure that the case is heard at the earliest opportunity.
 
-## 6. Determination of prohibitive expense[^key-63640f1a0aab93abc1241e43a52c6257]
+## 6. Determination of prohibitive expense[^c-63640f1a0aab93abc1241e43a52c6257]
 
 Proceedings are to be considered prohibitively expensive for the purpose of these Regulations if, having regard to any court fee an applicant is liable to pay, their likely costs either—
 
@@ -158,22 +158,22 @@ These Regulations make provision to provide costs protection for judicial review
 
 [^c21724941]: Marginal citation: [The European Communities (Designation) Order 2008 (S.I. 2008/301)](https://www.legislation.gov.uk/uksi/2008/301).
 
-[^key-9d6b5c6a77ede5b5b2252e23ea234e85]: Textual amendment: Words in reg. 2 inserted (14.2.2017) by [The Costs Protection (Aarhus Convention) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/27)](https://www.legislation.gov.uk/nisr/2017/27), [regs. 1](https://www.legislation.gov.uk/nisr/2017/27/regulation/1), [3(2)(a)(i)](https://www.legislation.gov.uk/nisr/2017/27/regulation/3/2/a/i)
+[^c-9d6b5c6a77ede5b5b2252e23ea234e85]: Textual amendment: Words in reg. 2 inserted (14.2.2017) by [The Costs Protection (Aarhus Convention) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/27)](https://www.legislation.gov.uk/nisr/2017/27), [regs. 1](https://www.legislation.gov.uk/nisr/2017/27/regulation/1), [3(2)(a)(i)](https://www.legislation.gov.uk/nisr/2017/27/regulation/3/2/a/i)
 
 [^c21724951]: Marginal citation: [1978 c.23](https://www.legislation.gov.uk/ukpga/1978/23). Section 18 was amended by Article 170(2) of and the Schedule to the [Magistrates' Courts (Northern Ireland) Order 1981 (S.I. 1981/1675)](https://www.legislation.gov.uk/uksi/1981/1675) (NI 26).
 
-[^key-9aac9b87acbdd475315894c67b47896c]: Textual amendment: Word in reg. 2 substituted (14.2.2017) by [The Costs Protection (Aarhus Convention) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/27)](https://www.legislation.gov.uk/nisr/2017/27), [regs. 1](https://www.legislation.gov.uk/nisr/2017/27/regulation/1), [3(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2017/27/regulation/3/2/a/ii)
+[^c-9aac9b87acbdd475315894c67b47896c]: Textual amendment: Word in reg. 2 substituted (14.2.2017) by [The Costs Protection (Aarhus Convention) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/27)](https://www.legislation.gov.uk/nisr/2017/27), [regs. 1](https://www.legislation.gov.uk/nisr/2017/27/regulation/1), [3(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2017/27/regulation/3/2/a/ii)
 
-[^key-3b14144500754562028f986b9570835b]: Textual amendment: Words in reg. 2 inserted (14.2.2017) by [The Costs Protection (Aarhus Convention) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/27)](https://www.legislation.gov.uk/nisr/2017/27), [regs. 1](https://www.legislation.gov.uk/nisr/2017/27/regulation/1), [3(2)(a)(iii)](https://www.legislation.gov.uk/nisr/2017/27/regulation/3/2/a/iii)
+[^c-3b14144500754562028f986b9570835b]: Textual amendment: Words in reg. 2 inserted (14.2.2017) by [The Costs Protection (Aarhus Convention) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/27)](https://www.legislation.gov.uk/nisr/2017/27), [regs. 1](https://www.legislation.gov.uk/nisr/2017/27/regulation/1), [3(2)(a)(iii)](https://www.legislation.gov.uk/nisr/2017/27/regulation/3/2/a/iii)
 
-[^key-9db18c46b8d658b819e44e56f353fd5a]: Textual amendment: Words in reg. 2 inserted (14.2.2017) by [The Costs Protection (Aarhus Convention) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/27)](https://www.legislation.gov.uk/nisr/2017/27), [regs. 1](https://www.legislation.gov.uk/nisr/2017/27/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/nisr/2017/27/regulation/3/2/b)
+[^c-9db18c46b8d658b819e44e56f353fd5a]: Textual amendment: Words in reg. 2 inserted (14.2.2017) by [The Costs Protection (Aarhus Convention) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/27)](https://www.legislation.gov.uk/nisr/2017/27), [regs. 1](https://www.legislation.gov.uk/nisr/2017/27/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/nisr/2017/27/regulation/3/2/b)
 
 [^c21724961]: Marginal citation: [1954 c.33 (NI)](https://www.legislation.gov.uk/apni/1954/33).
 
-[^key-bc2e26cba74bcca5dbeb453ab65557b7]: Textual amendment: Reg. 3(2)-(10) substituted for reg. 3(2)-(9) (14.2.2017) by [The Costs Protection (Aarhus Convention) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/27)](https://www.legislation.gov.uk/nisr/2017/27), [regs. 1](https://www.legislation.gov.uk/nisr/2017/27/regulation/1), [3(3)](https://www.legislation.gov.uk/nisr/2017/27/regulation/3/3)
+[^c-bc2e26cba74bcca5dbeb453ab65557b7]: Textual amendment: Reg. 3(2)-(10) substituted for reg. 3(2)-(9) (14.2.2017) by [The Costs Protection (Aarhus Convention) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/27)](https://www.legislation.gov.uk/nisr/2017/27), [regs. 1](https://www.legislation.gov.uk/nisr/2017/27/regulation/1), [3(3)](https://www.legislation.gov.uk/nisr/2017/27/regulation/3/3)
 
-[^key-d2878069bc71c4a107416dba0da50f7b]: Textual amendment: [Reg. 3A](https://www.legislation.gov.uk/nisr/2013/81/regulation/3A) inserted (14.2.2017) by [The Costs Protection (Aarhus Convention) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/27)](https://www.legislation.gov.uk/nisr/2017/27), [regs. 1](https://www.legislation.gov.uk/nisr/2017/27/regulation/1), [3(4)](https://www.legislation.gov.uk/nisr/2017/27/regulation/3/4)
+[^c-d2878069bc71c4a107416dba0da50f7b]: Textual amendment: [Reg. 3A](https://www.legislation.gov.uk/nisr/2013/81/regulation/3A) inserted (14.2.2017) by [The Costs Protection (Aarhus Convention) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/27)](https://www.legislation.gov.uk/nisr/2017/27), [regs. 1](https://www.legislation.gov.uk/nisr/2017/27/regulation/1), [3(4)](https://www.legislation.gov.uk/nisr/2017/27/regulation/3/4)
 
-[^key-c67bb6152cbbaf015f67ca711477a51c]: Textual amendment: Words in reg. 4(3)(b) substituted (14.2.2017) by [The Costs Protection (Aarhus Convention) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/27)](https://www.legislation.gov.uk/nisr/2017/27), [regs. 1](https://www.legislation.gov.uk/nisr/2017/27/regulation/1), [3(5)](https://www.legislation.gov.uk/nisr/2017/27/regulation/3/5)
+[^c-c67bb6152cbbaf015f67ca711477a51c]: Textual amendment: Words in reg. 4(3)(b) substituted (14.2.2017) by [The Costs Protection (Aarhus Convention) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/27)](https://www.legislation.gov.uk/nisr/2017/27), [regs. 1](https://www.legislation.gov.uk/nisr/2017/27/regulation/1), [3(5)](https://www.legislation.gov.uk/nisr/2017/27/regulation/3/5)
 
-[^key-63640f1a0aab93abc1241e43a52c6257]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/nisr/2013/81/regulation/6) inserted (14.2.2017) by [The Costs Protection (Aarhus Convention) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/27)](https://www.legislation.gov.uk/nisr/2017/27), [regs. 1](https://www.legislation.gov.uk/nisr/2017/27/regulation/1), [3(6)](https://www.legislation.gov.uk/nisr/2017/27/regulation/3/6)
+[^c-63640f1a0aab93abc1241e43a52c6257]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/nisr/2013/81/regulation/6) inserted (14.2.2017) by [The Costs Protection (Aarhus Convention) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/27)](https://www.legislation.gov.uk/nisr/2017/27), [regs. 1](https://www.legislation.gov.uk/nisr/2017/27/regulation/1), [3(6)](https://www.legislation.gov.uk/nisr/2017/27/regulation/3/6)

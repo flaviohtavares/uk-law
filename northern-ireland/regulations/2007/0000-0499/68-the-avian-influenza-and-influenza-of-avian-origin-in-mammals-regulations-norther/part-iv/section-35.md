@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 35. Additional measures in a protection and surveillance zone[^key-34e0b3d3861891a73b20679999c40aff]
+## 35. Additional measures in a protection and surveillance zone[^c-34e0b3d3861891a73b20679999c40aff]
 
 *Extent: N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-34e0b3d3861891a73b20679999c40aff]: Commencement: Reg. 35 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
+[^c-34e0b3d3861891a73b20679999c40aff]: Commencement: Reg. 35 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 302. Notice to enforcement officers[^key-83d29a6c95fc2ea22506cbcc27103f8b]
+## 302. Notice to enforcement officers[^c-83d29a6c95fc2ea22506cbcc27103f8b]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-83d29a6c95fc2ea22506cbcc27103f8b]: Commencement: [Rule 302](https://www.legislation.gov.uk/uksi/2011/1301/rule/302) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-83d29a6c95fc2ea22506cbcc27103f8b]: Commencement: [Rule 302](https://www.legislation.gov.uk/uksi/2011/1301/rule/302) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

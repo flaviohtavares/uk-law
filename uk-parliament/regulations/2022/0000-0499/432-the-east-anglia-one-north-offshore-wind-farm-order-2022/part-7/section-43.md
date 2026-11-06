@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 43. Funding[^key-02647cb6156ed5825f7c89cfe087fb61]
+## 43. Funding[^c-02647cb6156ed5825f7c89cfe087fb61]
 
 *Extent: E+W+S*
 
@@ -44,4 +44,4 @@ that has been approved by the Secretary of State.
 
 ## Annotations
 
-[^key-02647cb6156ed5825f7c89cfe087fb61]: Commencement: Art. 43 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/432/article/1/2)
+[^c-02647cb6156ed5825f7c89cfe087fb61]: Commencement: Art. 43 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/432/article/1/2)

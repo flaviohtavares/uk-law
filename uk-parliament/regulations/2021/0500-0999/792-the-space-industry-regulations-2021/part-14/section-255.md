@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 255. Prohibition on disclosing protected information[^key-ead1a1e3b0bfc42cc4d1ea593a6b9d17]
+## 255. Prohibition on disclosing protected information[^c-ead1a1e3b0bfc42cc4d1ea593a6b9d17]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Protected information must not be disclosed except in accordance with Section 2 
 
 ## Annotations
 
-[^key-ead1a1e3b0bfc42cc4d1ea593a6b9d17]: Commencement: Reg. 255 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-ead1a1e3b0bfc42cc4d1ea593a6b9d17]: Commencement: Reg. 255 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

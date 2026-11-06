@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 311A. Report on electronic programme guides and public service channels[^key-a206ea1e0a86feb71ba161204f34e7b0]
+## 311A. Report on electronic programme guides and public service channels[^c-a206ea1e0a86feb71ba161204f34e7b0]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a206ea1e0a86feb71ba161204f34e7b0]: Textual amendment: S. 311A inserted (31.7.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 95(1)](https://www.legislation.gov.uk/ukpga/2017/30/section/95/1), [118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6); [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(z)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/z)
+[^c-a206ea1e0a86feb71ba161204f34e7b0]: Textual amendment: S. 311A inserted (31.7.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 95(1)](https://www.legislation.gov.uk/ukpga/2017/30/section/95/1), [118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6); [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(z)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/z)

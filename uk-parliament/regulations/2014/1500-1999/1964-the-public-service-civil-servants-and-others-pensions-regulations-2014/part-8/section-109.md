@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 109. Annual rate of surviving adult’s pensions payable on death of deferred member[^key-964c47ea86ffd3d5de0d0a20b015775f]
+## 109. Annual rate of surviving adult’s pensions payable on death of deferred member[^c-964c47ea86ffd3d5de0d0a20b015775f]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-964c47ea86ffd3d5de0d0a20b015775f]: Commencement: [Reg. 109](https://www.legislation.gov.uk/uksi/2014/1964/regulation/109) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-964c47ea86ffd3d5de0d0a20b015775f]: Commencement: [Reg. 109](https://www.legislation.gov.uk/uksi/2014/1964/regulation/109) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)

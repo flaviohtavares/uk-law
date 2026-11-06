@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35.[^key-cacac8680f9d8ff269fe7a6fb5e3247b]
+## 35.[^c-cacac8680f9d8ff269fe7a6fb5e3247b]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ In regulation 14(2) [^c24395091] (contents of VAT invoice)—-
 
 ## Annotations
 
-[^key-cacac8680f9d8ff269fe7a6fb5e3247b]: Commencement: Reg. 35 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-cacac8680f9d8ff269fe7a6fb5e3247b]: Commencement: Reg. 35 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
 [^c24395091]: Marginal citation: Relevantly amended by [S.I. 2003/3220](https://www.legislation.gov.uk/uksi/2003/3220), 2007/2085 and 2019/59. The amendment made by the last-named instrument has not been commenced and is omitted by this instrument.

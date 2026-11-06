@@ -40,7 +40,7 @@ summary: ''
 - (f) that the rules of the club contain the provisions specified in Schedule 1 and do not contravene the provisions of this Order; and
 - (g) that the club has been conducted in good faith as a club for not less than 1 year; and
 - (h) that the provisions of the rules of the club and of this Order are, and will be, complied with; and
-- (i) that none of the officials of the club has an unspent conviction under the [^m00010] Rehabilitation of Offenders (Northern Ireland) Order 1978 for an offence of violence or an offence involving dishonesty; and[^key-75eb62ab1a3e1ce749cb07061b387494]
+- (i) that none of the officials of the club has an unspent conviction under the [^m00010] Rehabilitation of Offenders (Northern Ireland) Order 1978 for an offence of violence or an offence involving dishonesty; and[^c-75eb62ab1a3e1ce749cb07061b387494]
 - (j) that each of the officials of the club is aware of the responsibilities under any code of practice which the Department has approved under Article 41K (and from which it has not withdrawn its approval).
 
 (6) A court may refuse an application for the grant of registration of a club if it is satisfied—
@@ -69,7 +69,7 @@ the court shall direct that Article 24(2) shall have effect in relation to the c
 
 [^m00010]: Marginal citation: 1978 NI 27.
 
-[^key-75eb62ab1a3e1ce749cb07061b387494]: Textual amendment: [Art. 5(5)(j)](https://www.legislation.gov.uk/nisi/1996/3159/article/5/5/j) and word inserted (1.10.2022) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 41(2)](https://www.legislation.gov.uk/nia/2021/7/section/41/2), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2); [S.R. 2022/180](https://www.legislation.gov.uk/nisr/2022/180), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2022/180/article/1/2), [2](https://www.legislation.gov.uk/nisr/2022/180/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/180/schedule)
+[^c-75eb62ab1a3e1ce749cb07061b387494]: Textual amendment: [Art. 5(5)(j)](https://www.legislation.gov.uk/nisi/1996/3159/article/5/5/j) and word inserted (1.10.2022) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 41(2)](https://www.legislation.gov.uk/nia/2021/7/section/41/2), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2); [S.R. 2022/180](https://www.legislation.gov.uk/nisr/2022/180), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2022/180/article/1/2), [2](https://www.legislation.gov.uk/nisr/2022/180/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/180/schedule)
 
 [^m00011]: Marginal citation: 1996 NI 22.
 

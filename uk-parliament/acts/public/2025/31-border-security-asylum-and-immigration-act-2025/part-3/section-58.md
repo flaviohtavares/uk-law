@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Notification requirements[^key-9f2ddeeb524f31c8eeba32373303e4bc]
+## 58. Notification requirements[^c-9f2ddeeb524f31c8eeba32373303e4bc]
 
 *Extent: E+W+S+N.I.*
 
@@ -140,4 +140,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9f2ddeeb524f31c8eeba32373303e4bc]: Commencement: S. 58 in force at Royal Assent for specified purposes, see [s. 65(3)(f)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/f)
+[^c-9f2ddeeb524f31c8eeba32373303e4bc]: Commencement: S. 58 in force at Royal Assent for specified purposes, see [s. 65(3)(f)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/f)

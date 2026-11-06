@@ -27,7 +27,7 @@ summary: ''
 
 DANGEROUS DRUGS
 
-The Misuse of Drugs (Licence Fees) (Amendment) Regulations 1999 (revoked)[^key-c56f992fce55529bcf8ff45a08802881]
+The Misuse of Drugs (Licence Fees) (Amendment) Regulations 1999 (revoked)[^c-c56f992fce55529bcf8ff45a08802881]
 
 Made
 
@@ -41,24 +41,24 @@ Coming into force
 
 1st April 1999
 
-[^key-c56f992fce55529bcf8ff45a08802881]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c56f992fce55529bcf8ff45a08802881]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-c56f992fce55529bcf8ff45a08802881]
+## 1. Citation and commencement[^c-c56f992fce55529bcf8ff45a08802881]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Misuse of Drugs (Licence Fees) Regulations 1986[^key-c56f992fce55529bcf8ff45a08802881]
+## 2. Amendment of the Misuse of Drugs (Licence Fees) Regulations 1986[^c-c56f992fce55529bcf8ff45a08802881]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c56f992fce55529bcf8ff45a08802881]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c56f992fce55529bcf8ff45a08802881]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c56f992fce55529bcf8ff45a08802881]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c56f992fce55529bcf8ff45a08802881]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c56f992fce55529bcf8ff45a08802881]: Textual amendment: Regulations revoked (1.4.2003) by [The Misuse of Drugs (Licence Fees) (Amendment) Regulations 2003 (S.I. 2003/611)](https://www.legislation.gov.uk/uksi/2003/611), [reg. 3](https://www.legislation.gov.uk/uksi/2003/611/regulation/3), [Sch.](https://www.legislation.gov.uk/uksi/2003/611/schedule) \[Editorial note: No historical versions of this S.I. have been created prior to its revocation. Select the 'Original (As Made) version from the left-hand menu to see the document content as it originally stood\]
+[^c-c56f992fce55529bcf8ff45a08802881]: Textual amendment: Regulations revoked (1.4.2003) by [The Misuse of Drugs (Licence Fees) (Amendment) Regulations 2003 (S.I. 2003/611)](https://www.legislation.gov.uk/uksi/2003/611), [reg. 3](https://www.legislation.gov.uk/uksi/2003/611/regulation/3), [Sch.](https://www.legislation.gov.uk/uksi/2003/611/schedule) \[Editorial note: No historical versions of this S.I. have been created prior to its revocation. Select the 'Original (As Made) version from the left-hand menu to see the document content as it originally stood\]

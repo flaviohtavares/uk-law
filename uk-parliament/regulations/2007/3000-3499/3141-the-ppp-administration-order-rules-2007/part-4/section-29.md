@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Hire-purchase, conditional sale and chattel leasing agreements[^key-995d2b3f973ed953acdd4e137562bb31]
+## 29. Hire-purchase, conditional sale and chattel leasing agreements[^c-995d2b3f973ed953acdd4e137562bb31]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-995d2b3f973ed953acdd4e137562bb31]: Commencement: [Rule 29](https://www.legislation.gov.uk/uksi/2007/3141/rule/29) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-995d2b3f973ed953acdd4e137562bb31]: Commencement: [Rule 29](https://www.legislation.gov.uk/uksi/2007/3141/rule/29) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

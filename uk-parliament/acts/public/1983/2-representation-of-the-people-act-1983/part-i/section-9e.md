@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9E. Maintenance of registers: invitations to register in Great Britain[^key-572d7873e5de47cff372da3a92180ad1]
+## 9E. Maintenance of registers: invitations to register in Great Britain[^c-572d7873e5de47cff372da3a92180ad1]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,18 +47,18 @@ summary: ''
 
 *Extent: S*
 
-(7A)[^key-00dca943e61c239def814fc200312db7] In relation to the registration of local government electors in Scotland, subsection (7) does not apply to a person who was under the age of 16 at the time the requirement was imposed.
+(7A)[^c-00dca943e61c239def814fc200312db7] In relation to the registration of local government electors in Scotland, subsection (7) does not apply to a person who was under the age of 16 at the time the requirement was imposed.
 
 *Extent: W*
 
-(7A)[^key-dcb80952518522545d7ff463c2fc9431] In relation to the registration of local government electors in Wales, subsection (7) does not apply to a person who was under the age of 16 at the time the requirement was imposed.
+(7A)[^c-dcb80952518522545d7ff463c2fc9431] In relation to the registration of local government electors in Wales, subsection (7) does not apply to a person who was under the age of 16 at the time the requirement was imposed.
 
 (8) For more about civil penalties under this section, see Schedule ZA1.
 
 ## Annotations
 
-[^key-572d7873e5de47cff372da3a92180ad1]: Textual amendment: [S. 9E](https://www.legislation.gov.uk/ukpga/1983/2/section/9E) inserted (10.6.2014 for E.W., 15.9.2014 for N.I., 19.9.2014 for S.) by [Electoral Registration and Administration Act 2013 (c. 6)](https://www.legislation.gov.uk/ukpga/2013/6), [ss. 5(1)](https://www.legislation.gov.uk/ukpga/2013/6/section/5/1), [27(1)](https://www.legislation.gov.uk/ukpga/2013/6/section/27/1) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2013/6/schedule/5)); [S.I. 2014/414](https://www.legislation.gov.uk/uksi/2014/414), [art. 5(e)](https://www.legislation.gov.uk/uksi/2014/414/article/5/e); [S.I. 2014/2439](https://www.legislation.gov.uk/uksi/2014/2439), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/2439/article/2/d)
+[^c-572d7873e5de47cff372da3a92180ad1]: Textual amendment: [S. 9E](https://www.legislation.gov.uk/ukpga/1983/2/section/9E) inserted (10.6.2014 for E.W., 15.9.2014 for N.I., 19.9.2014 for S.) by [Electoral Registration and Administration Act 2013 (c. 6)](https://www.legislation.gov.uk/ukpga/2013/6), [ss. 5(1)](https://www.legislation.gov.uk/ukpga/2013/6/section/5/1), [27(1)](https://www.legislation.gov.uk/ukpga/2013/6/section/27/1) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2013/6/schedule/5)); [S.I. 2014/414](https://www.legislation.gov.uk/uksi/2014/414), [art. 5(e)](https://www.legislation.gov.uk/uksi/2014/414/article/5/e); [S.I. 2014/2439](https://www.legislation.gov.uk/uksi/2014/2439), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/2439/article/2/d)
 
-[^key-00dca943e61c239def814fc200312db7]: Textual amendment: S. 9E(7A) inserted (S.) (25.7.2015) by [Scottish Elections (Reduction of Voting Age) Act 2015 (asp 7)](https://www.legislation.gov.uk/asp/2015/7), [ss. 3(1)](https://www.legislation.gov.uk/asp/2015/7/section/3/1), [21](https://www.legislation.gov.uk/asp/2015/7/section/21)
+[^c-00dca943e61c239def814fc200312db7]: Textual amendment: S. 9E(7A) inserted (S.) (25.7.2015) by [Scottish Elections (Reduction of Voting Age) Act 2015 (asp 7)](https://www.legislation.gov.uk/asp/2015/7), [ss. 3(1)](https://www.legislation.gov.uk/asp/2015/7/section/3/1), [21](https://www.legislation.gov.uk/asp/2015/7/section/21)
 
-[^key-dcb80952518522545d7ff463c2fc9431]: Textual amendment: S. 9E(7A) inserted (E.W.) (1.6.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [ss. 14(1)](https://www.legislation.gov.uk/anaw/2020/1/section/14/1), [42(3)(a)](https://www.legislation.gov.uk/anaw/2020/1/section/42/3/a)
+[^c-dcb80952518522545d7ff463c2fc9431]: Textual amendment: S. 9E(7A) inserted (E.W.) (1.6.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [ss. 14(1)](https://www.legislation.gov.uk/anaw/2020/1/section/14/1), [42(3)(a)](https://www.legislation.gov.uk/anaw/2020/1/section/42/3/a)

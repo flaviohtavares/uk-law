@@ -30,7 +30,7 @@ summary: ''
 
 SOCIAL SECURITY
 
-The Social Security (Claims and Payments) (Amendment) Regulations (Northern Ireland) 1998 (revoked)[^key-df45613caf4f02124ed1aa7c00006206]
+The Social Security (Claims and Payments) (Amendment) Regulations (Northern Ireland) 1998 (revoked)[^c-df45613caf4f02124ed1aa7c00006206]
 
 Made
 
@@ -40,28 +40,28 @@ Coming into operation
 
 3rd August 1998
 
-[^key-df45613caf4f02124ed1aa7c00006206]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-df45613caf4f02124ed1aa7c00006206]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-df45613caf4f02124ed1aa7c00006206]
+## 1. Citation, commencement and interpretation[^c-df45613caf4f02124ed1aa7c00006206]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Social Security (Claims and Payments) Regulations[^key-df45613caf4f02124ed1aa7c00006206]
+## 2. Amendment of the Social Security (Claims and Payments) Regulations[^c-df45613caf4f02124ed1aa7c00006206]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-df45613caf4f02124ed1aa7c00006206]
+## 3. Revocation[^c-df45613caf4f02124ed1aa7c00006206]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-df45613caf4f02124ed1aa7c00006206]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-df45613caf4f02124ed1aa7c00006206]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-df45613caf4f02124ed1aa7c00006206]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-df45613caf4f02124ed1aa7c00006206]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-df45613caf4f02124ed1aa7c00006206]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/241) revoked (29.11.1999 for specified purposes) by [The Social Security (1998 Order) (Commencement No. 11 and Consequential and Transitional Provisions) Order (Northern Ireland) 1999 (S.R. 1999/472)](https://www.legislation.gov.uk/nisr/1999/472), [arts. 3](https://www.legislation.gov.uk/nisr/1999/472/article/3), [23](https://www.legislation.gov.uk/nisr/1999/472/article/23), [Sch. 2](https://www.legislation.gov.uk/nisr/1999/472/schedule/2)
+[^c-df45613caf4f02124ed1aa7c00006206]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/241) revoked (29.11.1999 for specified purposes) by [The Social Security (1998 Order) (Commencement No. 11 and Consequential and Transitional Provisions) Order (Northern Ireland) 1999 (S.R. 1999/472)](https://www.legislation.gov.uk/nisr/1999/472), [arts. 3](https://www.legislation.gov.uk/nisr/1999/472/article/3), [23](https://www.legislation.gov.uk/nisr/1999/472/article/23), [Sch. 2](https://www.legislation.gov.uk/nisr/1999/472/schedule/2)

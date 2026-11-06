@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 76. Publicity in relation to designation orders[^key-47087beb80093b917fdb82d2671b8502]
+## 76. Publicity in relation to designation orders[^c-47087beb80093b917fdb82d2671b8502]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-47087beb80093b917fdb82d2671b8502]: Commencement: [S. 76](https://www.legislation.gov.uk/asp/2010/5/section/76) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/230/article/2/b)
+[^c-47087beb80093b917fdb82d2671b8502]: Commencement: [S. 76](https://www.legislation.gov.uk/asp/2010/5/section/76) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/230/article/2/b)

@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**77.**[^key-0ee05561006e9756d7586c7f035071d4] After Schedule 1 (the offices which may be qualifying judicial offices) insert—
+**77.**[^c-0ee05561006e9756d7586c7f035071d4] After Schedule 1 (the offices which may be qualifying judicial offices) insert—
 
 > **SCHEDULE 1A — SURVIVING CIVIL PARTNER'S PENSION: TRANSITIONAL PROVISIONS**
 >
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0ee05561006e9756d7586c7f035071d4]: Commencement: Art. 77 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
+[^c-0ee05561006e9756d7586c7f035071d4]: Commencement: Art. 77 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)

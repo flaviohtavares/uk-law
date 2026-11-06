@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 12. Movement of species, etc.[^key-c0952c837bb8132952f53bf03996136e]
+## 12. Movement of species, etc.[^c-c0952c837bb8132952f53bf03996136e]
 
 *Extent: S*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c0952c837bb8132952f53bf03996136e]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2013/7/section/12) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-c0952c837bb8132952f53bf03996136e]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2013/7/section/12) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)

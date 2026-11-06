@@ -26,10 +26,10 @@ summary: ''
 
 (3) The conditions are that—
 
-- (a) the communication is made only to one recipient or only to one group of recipients in the expectation that they would engage in any investment activity or controlled claims management activity *(Extent: E+W+S)*[^key-b134913f7b9db903558e31ecf2822ed1] jointly;
+- (a) the communication is made only to one recipient or only to one group of recipients in the expectation that they would engage in any investment activity or controlled claims management activity *(Extent: E+W+S)*[^c-b134913f7b9db903558e31ecf2822ed1] jointly;
 - (b) the identity of the product or service to which the communication relates has been determined having regard to the particular circumstances of the recipient;
 - (c) the communication is not part of an organised marketing campaign.
 
 ## Annotations
 
-[^key-b134913f7b9db903558e31ecf2822ed1]: Textual amendment: Words in art. 28(3)(a) inserted (E.W.S.) (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [22](https://www.legislation.gov.uk/uksi/2018/1253/article/22)
+[^c-b134913f7b9db903558e31ecf2822ed1]: Textual amendment: Words in art. 28(3)(a) inserted (E.W.S.) (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [22](https://www.legislation.gov.uk/uksi/2018/1253/article/22)

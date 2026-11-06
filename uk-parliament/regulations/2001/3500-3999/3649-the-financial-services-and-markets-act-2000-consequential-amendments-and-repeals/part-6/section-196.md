@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 196. Transfers of business by building society to company[^key-b297e66224c2b7b0e0265e7b0d852251]
+## 196. Transfers of business by building society to company[^c-b297e66224c2b7b0e0265e7b0d852251]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b297e66224c2b7b0e0265e7b0d852251]: Commencement: Art. 196 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-b297e66224c2b7b0e0265e7b0d852251]: Commencement: Art. 196 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00138]: Footnote: Section 98(3) was amended by the Banking Act [1987 (c. 22)](https://www.legislation.gov.uk/ukpga/1987/22) Schedule 6 paragraph 26, by the Building Societies Act 1997, section 30 and by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617), Schedule 3 paragraph 181(b).

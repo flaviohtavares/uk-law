@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Conferral of functions and sub-delegation[^key-b7be9b44bc43f6b72762b9ce3b512cc4]
+## 57. Conferral of functions and sub-delegation[^c-b7be9b44bc43f6b72762b9ce3b512cc4]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b7be9b44bc43f6b72762b9ce3b512cc4]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2017/16/section/57) in force at 1.4.2018 by [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 4(x)](https://www.legislation.gov.uk/uksi/2018/346/regulation/4/x)
+[^c-b7be9b44bc43f6b72762b9ce3b512cc4]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2017/16/section/57) in force at 1.4.2018 by [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 4(x)](https://www.legislation.gov.uk/uksi/2018/346/regulation/4/x)

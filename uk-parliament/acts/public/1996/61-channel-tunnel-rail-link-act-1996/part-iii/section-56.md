@@ -30,7 +30,7 @@ summary: ''
   - (b) the plans and sections deposited in November 1995 otherwise than in connection with the Barking Extended Tunnel,
   - (c) the plans and sections deposited in December 1995, and
   - (d) the plans and sections deposited in November 1994, so far as not superseded by the plans and sections mentioned in paragraphs (a) to (c) above;
-- “**development agreement**” means an agreement (including one entered into before the passing of this Act) to which the Secretary of State is a party and under which another party has responsibilities in relation to the design, construction, financing , maintenance or operation[^key-5580b9f88fcbb9f7e7fb89d4a6f00945] of the rail link;
+- “**development agreement**” means an agreement (including one entered into before the passing of this Act) to which the Secretary of State is a party and under which another party has responsibilities in relation to the design, construction, financing , maintenance or operation[^c-5580b9f88fcbb9f7e7fb89d4a6f00945] of the rail link;
 - “**limits of deviation**” means the limits of deviation which are shown on the deposited plans;
 - “**limits of land to be acquired or used**” means the limits of land to be acquired or used which are shown on the deposited plans;
 - “**owner**” has the same meaning as in the [^c1252068]Acquisition of Land Act 1981;
@@ -53,6 +53,6 @@ summary: ''
 
 [^c1252067]: Marginal citation: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66).
 
-[^key-5580b9f88fcbb9f7e7fb89d4a6f00945]: Textual amendment: Words in [s. 56(1)](https://www.legislation.gov.uk/ukpga/1996/61/section/56/1) substituted (22.7.2008) by [Channel Tunnel Rail Link (Supplementary Provisions) Act 2008 (c. 5)](https://www.legislation.gov.uk/ukpga/2008/5), [ss. 5](https://www.legislation.gov.uk/ukpga/2008/5/section/5), [6(2)](https://www.legislation.gov.uk/ukpga/2008/5/section/6/2)
+[^c-5580b9f88fcbb9f7e7fb89d4a6f00945]: Textual amendment: Words in [s. 56(1)](https://www.legislation.gov.uk/ukpga/1996/61/section/56/1) substituted (22.7.2008) by [Channel Tunnel Rail Link (Supplementary Provisions) Act 2008 (c. 5)](https://www.legislation.gov.uk/ukpga/2008/5), [ss. 5](https://www.legislation.gov.uk/ukpga/2008/5/section/5), [6(2)](https://www.legislation.gov.uk/ukpga/2008/5/section/6/2)
 
 [^c1252068]: Marginal citation: [1981 c. 67](https://www.legislation.gov.uk/ukpga/1981/67).

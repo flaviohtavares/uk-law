@@ -333,15 +333,15 @@ In paragraph 9(5)(b) of Schedule 3 to the Crime and Disorder Act 1998 [^c1967032
 
 (2) For the purposes of paragraph 6(3) of Schedule 7 to the Youth Justice and Criminal Evidence Act 1999 (transitional provision), proceedings on appeal from a Standing Civilian Court are to be taken to have been instituted when notice of appeal was given under paragraph 18(3) of Schedule 3 to AFA 1976.
 
-### 45. Powers of Criminal Courts (Sentencing) Act 2000 and related provisions[^key-7e7083ccfe34947199635d743c5bf972]
+### 45. Powers of Criminal Courts (Sentencing) Act 2000 and related provisions[^c-7e7083ccfe34947199635d743c5bf972]
 
 (1) In section 99(5)(aa) of the Powers of Criminal Courts (Sentencing) Act 2000 [^c19670341] (conversion of sentence of detention to sentence of imprisonment), the reference to a sentence of detention under section 209 or 218 of AFA 2006 includes a sentence of detention under section 71A(3) or (4) of AA 1955 or AFA 1955 or section 43A(3) or (4) of NDA 1957.
 
-(2) In section 106A of the Powers of Criminal Courts (Sentencing) Act 2000 and section 245 of the Sentencing Code[^key-c7d4560c862718a47f491b5c848f47fd] (interaction of detention and training orders with sentences of detention), references to a sentence of detention include a sentence under section 71A(4) of AA 1955 or AFA 1955 or section 43A(4) of NDA 1957.
+(2) In section 106A of the Powers of Criminal Courts (Sentencing) Act 2000 and section 245 of the Sentencing Code[^c-c7d4560c862718a47f491b5c848f47fd] (interaction of detention and training orders with sentences of detention), references to a sentence of detention include a sentence under section 71A(4) of AA 1955 or AFA 1955 or section 43A(4) of NDA 1957.
 
-(3)[^key-a73b49d39d707f34c36fa58545f4599b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-a73b49d39d707f34c36fa58545f4599b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) In section 177A of the Armed Forces Act 2006[^key-152bf0490f77eb71cd7f857215d48f60] (effect of compensation order on award of damages in civil proceedings), the reference to a service compensation order includes—
+(4) In section 177A of the Armed Forces Act 2006[^c-152bf0490f77eb71cd7f857215d48f60] (effect of compensation order on award of damages in civil proceedings), the reference to a service compensation order includes—
 
 - (a) a compensation order under paragraph 11 of Schedule 5A to AA 1955 or AFA 1955 or of Schedule 4A to NDA 1957; and
 - (b) an award of stoppages under any of those Acts.
@@ -428,11 +428,11 @@ In section 308(4) of the Proceeds of Crime Act 2002 [^c19670391] (general except
 
 (4) In section 134(1A) of CJA 2003 (interpretation), treated as inserted by paragraph 2 of Schedule 7 to that Act, the reference to proceedings as mentioned there includes any proceedings in respect of an SDA offence (whether under AFA 2006 or an earlier enactment, and including any summary proceedings).
 
-(5)[^key-0d1e316298cafcfe499609937a75a0f2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-0d1e316298cafcfe499609937a75a0f2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-0d1e316298cafcfe499609937a75a0f2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-0d1e316298cafcfe499609937a75a0f2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-0d1e316298cafcfe499609937a75a0f2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-0d1e316298cafcfe499609937a75a0f2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) In section 237(1B) of CJA 2003 (meaning of “fixed-term prisoner” etc)—
 
@@ -570,15 +570,15 @@ In sections 69 and 71 of the Gambling Act 2005 [^c19670451] (application for ope
 
 [^c19670331]: Marginal citation: [1999 c. 23](https://www.legislation.gov.uk/ukpga/1999/23).
 
-[^key-7e7083ccfe34947199635d743c5bf972]: Textual amendment: Words in Sch. 1 para. 45 heading inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 370(d)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/370/d) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-7e7083ccfe34947199635d743c5bf972]: Textual amendment: Words in Sch. 1 para. 45 heading inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 370(d)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/370/d) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
 [^c19670341]: Marginal citation: [2000 c. 6](https://www.legislation.gov.uk/ukpga/2000/6).
 
-[^key-c7d4560c862718a47f491b5c848f47fd]: Textual amendment: Words in Sch. 1 para. 45(2) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 370(a)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/370/a) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-c7d4560c862718a47f491b5c848f47fd]: Textual amendment: Words in Sch. 1 para. 45(2) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 370(a)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/370/a) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-a73b49d39d707f34c36fa58545f4599b]: Textual amendment: Sch. 1 para. 45(3) omitted (1.12.2020) by virtue of [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 370(b)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/370/b) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-a73b49d39d707f34c36fa58545f4599b]: Textual amendment: Sch. 1 para. 45(3) omitted (1.12.2020) by virtue of [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 370(b)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/370/b) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-152bf0490f77eb71cd7f857215d48f60]: Textual amendment: Words in Sch. 1 para. 45(4) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 370(c)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/370/c) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-152bf0490f77eb71cd7f857215d48f60]: Textual amendment: Words in Sch. 1 para. 45(4) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 370(c)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/370/c) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
 [^c19670351]: Marginal citation: [2000 c. 36](https://www.legislation.gov.uk/ukpga/2000/36).
 
@@ -594,7 +594,7 @@ In sections 69 and 71 of the Gambling Act 2005 [^c19670451] (application for ope
 
 [^c19670411]: Marginal citation: [2003 c. 44](https://www.legislation.gov.uk/ukpga/2003/44).
 
-[^key-0d1e316298cafcfe499609937a75a0f2]: Textual amendment: Sch. 1 para. 53(5)-(7) revoked (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-0d1e316298cafcfe499609937a75a0f2]: Textual amendment: Sch. 1 para. 53(5)-(7) revoked (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
 [^c19670431]: Marginal citation: [2004 c. 28](https://www.legislation.gov.uk/ukpga/2004/28).
 

@@ -33,28 +33,28 @@ of 14 August 2007
 
 implementing Council Regulation (EC, Euratom) No 58/97 with regard to derogations to be granted for structural business statistics (revoked)
 
-[^key-0bc30a0482cf35e28f33017fceea5ff7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0bc30a0482cf35e28f33017fceea5ff7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-0bc30a0482cf35e28f33017fceea5ff7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-0bc30a0482cf35e28f33017fceea5ff7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-0bc30a0482cf35e28f33017fceea5ff7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-0bc30a0482cf35e28f33017fceea5ff7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-0bc30a0482cf35e28f33017fceea5ff7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-0bc30a0482cf35e28f33017fceea5ff7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0bc30a0482cf35e28f33017fceea5ff7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0bc30a0482cf35e28f33017fceea5ff7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I — Derogations for variables 21 12 0 and 21 14 0 of Annex 2[^key-0bc30a0482cf35e28f33017fceea5ff7]
+## ANNEX I — Derogations for variables 21 12 0 and 21 14 0 of Annex 2[^c-0bc30a0482cf35e28f33017fceea5ff7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — Derogations for Annex 7[^key-0bc30a0482cf35e28f33017fceea5ff7]
+## ANNEX II — Derogations for Annex 7[^c-0bc30a0482cf35e28f33017fceea5ff7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0bc30a0482cf35e28f33017fceea5ff7]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 55](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/55)
+[^c-0bc30a0482cf35e28f33017fceea5ff7]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 55](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/55)

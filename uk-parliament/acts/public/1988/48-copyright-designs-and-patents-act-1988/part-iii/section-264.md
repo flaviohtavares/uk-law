@@ -29,7 +29,7 @@ The following Table shows provisions defining or otherwise explaining expression
 | British designs | section 263(1) |
 | business | section 263(1) |
 | commercial purposes | section 263(3) |
-| [^key-ffc55ea36ad3b1c0180078fa4b33a029]. . . | [^key-ffc55ea36ad3b1c0180078fa4b33a029]. . . |
+| [^c-ffc55ea36ad3b1c0180078fa4b33a029]. . . | [^c-ffc55ea36ad3b1c0180078fa4b33a029]. . . |
 | the comptroller | section 263(1) |
 | computer-generated | section 263(1) |
 | costs (in Scotland) | section 262 |
@@ -56,12 +56,12 @@ The following Table shows provisions defining or otherwise explaining expression
 | marketing (and related expressions) | section 263(2) |
 | original | section 213(4) |
 | plaintiff (in Scotland) | section 262 |
-| [^key-15ed12664e1de1b54bf3985fd37c5b97]. . . | [^key-15ed12664e1de1b54bf3985fd37c5b97]. . . |
+| [^c-15ed12664e1de1b54bf3985fd37c5b97]. . . | [^c-15ed12664e1de1b54bf3985fd37c5b97]. . . |
 | qualifying person | sections 217(1) and (2) |
 | signed | section 261 |
 
 ## Annotations
 
-[^key-ffc55ea36ad3b1c0180078fa4b33a029]: Textual amendment: Words in s. 264 omitted (1.10.2014) by virtue of [Intellectual Property Act 2014 (c. 18)](https://www.legislation.gov.uk/ukpga/2014/18), [ss. 2(2)(k)](https://www.legislation.gov.uk/ukpga/2014/18/section/2/2/k), [24(1)](https://www.legislation.gov.uk/ukpga/2014/18/section/24/1) (with [s. 2(3)](https://www.legislation.gov.uk/ukpga/2014/18/section/2/3)); [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule)
+[^c-ffc55ea36ad3b1c0180078fa4b33a029]: Textual amendment: Words in s. 264 omitted (1.10.2014) by virtue of [Intellectual Property Act 2014 (c. 18)](https://www.legislation.gov.uk/ukpga/2014/18), [ss. 2(2)(k)](https://www.legislation.gov.uk/ukpga/2014/18/section/2/2/k), [24(1)](https://www.legislation.gov.uk/ukpga/2014/18/section/24/1) (with [s. 2(3)](https://www.legislation.gov.uk/ukpga/2014/18/section/2/3)); [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule)
 
-[^key-15ed12664e1de1b54bf3985fd37c5b97]: Textual amendment: Words in s. 264 omitted (1.10.2014) by virtue of [Intellectual Property Act 2014 (c. 18)](https://www.legislation.gov.uk/ukpga/2014/18), [ss. 3(5)](https://www.legislation.gov.uk/ukpga/2014/18/section/3/5), [24(1)](https://www.legislation.gov.uk/ukpga/2014/18/section/24/1) (with [s. 3(6)](https://www.legislation.gov.uk/ukpga/2014/18/section/3/6)); [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule)
+[^c-15ed12664e1de1b54bf3985fd37c5b97]: Textual amendment: Words in s. 264 omitted (1.10.2014) by virtue of [Intellectual Property Act 2014 (c. 18)](https://www.legislation.gov.uk/ukpga/2014/18), [ss. 3(5)](https://www.legislation.gov.uk/ukpga/2014/18/section/3/5), [24(1)](https://www.legislation.gov.uk/ukpga/2014/18/section/24/1) (with [s. 3(6)](https://www.legislation.gov.uk/ukpga/2014/18/section/3/6)); [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule)

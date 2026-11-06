@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 390. Offences by bodies corporate[^key-6e467eefe2b15d24f4d2cdf16cc25b62]
+## 390. Offences by bodies corporate[^c-6e467eefe2b15d24f4d2cdf16cc25b62]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6e467eefe2b15d24f4d2cdf16cc25b62]: Commencement: S. 390 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-6e467eefe2b15d24f4d2cdf16cc25b62]: Commencement: S. 390 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

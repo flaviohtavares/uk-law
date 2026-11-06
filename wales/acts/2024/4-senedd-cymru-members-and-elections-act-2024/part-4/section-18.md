@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Senedd constituencies for general elections held after regulations under section 49J of the 2013 Act take effect[^key-13030265b2049f2b31d281ec732b1d25]
+## 18. Senedd constituencies for general elections held after regulations under section 49J of the 2013 Act take effect[^c-13030265b2049f2b31d281ec732b1d25]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 3 inserts a new Part 3A into the 2013 Act; that Part makes provision ab
 
 ## Annotations
 
-[^key-13030265b2049f2b31d281ec732b1d25]: Commencement: [S. 18](https://www.legislation.gov.uk/asc/2024/4/section/18) in force at 24.8.2024, see [s. 25(2)(c)](https://www.legislation.gov.uk/asc/2024/4/section/25/2/c)
+[^c-13030265b2049f2b31d281ec732b1d25]: Commencement: [S. 18](https://www.legislation.gov.uk/asc/2024/4/section/18) in force at 24.8.2024, see [s. 25(2)(c)](https://www.legislation.gov.uk/asc/2024/4/section/25/2/c)

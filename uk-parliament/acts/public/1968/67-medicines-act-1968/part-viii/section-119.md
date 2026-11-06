@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 119. Protection for officers of enforcement authorities.[^c998865][^c998866][^c998867][^key-60a2b470cfcf5b8ea43cc03fd4e1612b][^key-9ce1a7e79cdab7e98e3078340da731b9][^key-ce3037a48c2b808498a3d4ba9c21581e][^c998864]
+## 119. Protection for officers of enforcement authorities.[^c998865][^c998866][^c998867][^c-60a2b470cfcf5b8ea43cc03fd4e1612b][^c-9ce1a7e79cdab7e98e3078340da731b9][^c-ce3037a48c2b808498a3d4ba9c21581e][^c998864]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,10 +46,10 @@ summary: ''
 
     S. 119 applied (1.2.2000) by [S.I. 2000/7](https://www.legislation.gov.uk/uksi/2000/7), [reg. 5](https://www.legislation.gov.uk/uksi/2000/7/regulation/5)
 
-[^key-60a2b470cfcf5b8ea43cc03fd4e1612b]: Modification: S. 119 applied (with modifications) (1.5.2004) by [Medicines for Human Use (Clinical Trials) Regulations 2004 (S.I. 2004/1031)](https://www.legislation.gov.uk/uksi/2004/1031), [regs. 1](https://www.legislation.gov.uk/uksi/2004/1031/regulation/1), [47](https://www.legislation.gov.uk/uksi/2004/1031/regulation/47), [Schs. 9](https://www.legislation.gov.uk/uksi/2004/1031/schedule/9)
+[^c-60a2b470cfcf5b8ea43cc03fd4e1612b]: Modification: S. 119 applied (with modifications) (1.5.2004) by [Medicines for Human Use (Clinical Trials) Regulations 2004 (S.I. 2004/1031)](https://www.legislation.gov.uk/uksi/2004/1031), [regs. 1](https://www.legislation.gov.uk/uksi/2004/1031/regulation/1), [47](https://www.legislation.gov.uk/uksi/2004/1031/regulation/47), [Schs. 9](https://www.legislation.gov.uk/uksi/2004/1031/schedule/9)
 
-[^key-9ce1a7e79cdab7e98e3078340da731b9]: Modification: S. 119 applied (with modifications) (30.10.2005) by [Medicines (Traditional Herbal Medicinal Products for Human Use) Regulations 2005 (S.I. 2005/2750)](https://www.legislation.gov.uk/uksi/2005/2750), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2005/2750/regulation/1/a), [11](https://www.legislation.gov.uk/uksi/2005/2750/regulation/11), [Schs. 4](https://www.legislation.gov.uk/uksi/2005/2750/schedule/4) (with [Sch. 6](https://www.legislation.gov.uk/uksi/2005/2750/schedule/6))
+[^c-9ce1a7e79cdab7e98e3078340da731b9]: Modification: S. 119 applied (with modifications) (30.10.2005) by [Medicines (Traditional Herbal Medicinal Products for Human Use) Regulations 2005 (S.I. 2005/2750)](https://www.legislation.gov.uk/uksi/2005/2750), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2005/2750/regulation/1/a), [11](https://www.legislation.gov.uk/uksi/2005/2750/regulation/11), [Schs. 4](https://www.legislation.gov.uk/uksi/2005/2750/schedule/4) (with [Sch. 6](https://www.legislation.gov.uk/uksi/2005/2750/schedule/6))
 
-[^key-ce3037a48c2b808498a3d4ba9c21581e]: Modification: S. 119 amendment to earlier affecting provision SI 2004/1031 reg. 47 Sch. 9 (29.8.2006) by [Medicines for Human Use (Clinical Trials) Amendment Regulations 2006 (S.I. 2006/1928)](https://www.legislation.gov.uk/uksi/2006/1928), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1928/regulation/1/1), [32](https://www.legislation.gov.uk/uksi/2006/1928/regulation/32)
+[^c-ce3037a48c2b808498a3d4ba9c21581e]: Modification: S. 119 amendment to earlier affecting provision SI 2004/1031 reg. 47 Sch. 9 (29.8.2006) by [Medicines for Human Use (Clinical Trials) Amendment Regulations 2006 (S.I. 2006/1928)](https://www.legislation.gov.uk/uksi/2006/1928), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1928/regulation/1/1), [32](https://www.legislation.gov.uk/uksi/2006/1928/regulation/32)
 
 [^c998864]: Modification: Pt. VIII (ss. 104–136) extended by S.I.s 1982/425, art. 3, 1984/187 art. 2; and extended with modifications by [S.I. 1985/403](https://www.legislation.gov.uk/uksi/1985/403), [art. 3(1)](https://www.legislation.gov.uk/uksi/1985/403/article/3/1)

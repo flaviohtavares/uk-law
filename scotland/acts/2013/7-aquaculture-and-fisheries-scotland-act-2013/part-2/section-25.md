@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 25. Duty to consult and report before making certain applications[^key-f10f00968e074c3d5ec18df8a56a07b6]
+## 25. Duty to consult and report before making certain applications[^c-f10f00968e074c3d5ec18df8a56a07b6]
 
 *Extent: S*
 
@@ -80,4 +80,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f10f00968e074c3d5ec18df8a56a07b6]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2013/7/section/25) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-f10f00968e074c3d5ec18df8a56a07b6]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2013/7/section/25) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)

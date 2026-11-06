@@ -32,7 +32,7 @@ Mental Health (Care and Treatment) (Scotland) Act 2003
 
 An Act of the Scottish Parliament to restate and amend the law relating to mentally disordered persons; and for connected purposes.
 
-The Bill for this Act of the Scottish Parliament was passed by the Parliament on 20th March 2003 and received Royal Assent on 25th April 2003[^key-03d3633ef99dd3a67a982bc207c82ad4][^key-53e269baae3670a29efa7e7f1130aa11][^key-9aad90cabc362923679ca49b1ebb72aa]
+The Bill for this Act of the Scottish Parliament was passed by the Parliament on 20th March 2003 and received Royal Assent on 25th April 2003[^c-03d3633ef99dd3a67a982bc207c82ad4][^c-53e269baae3670a29efa7e7f1130aa11][^c-9aad90cabc362923679ca49b1ebb72aa]
 
 ## Contents
 
@@ -42,7 +42,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 2 — Welfare of the child](part-1/section-2.md)
 - [Section 3 — Equal opportunities](part-1/section-3.md)
 
-### Part 2 — The Mental Welfare Commission for Scotland[^key-8ea8fdc9e7148185cba77e23ea67f543]
+### Part 2 — The Mental Welfare Commission for Scotland[^c-8ea8fdc9e7148185cba77e23ea67f543]
 
 *Extent: S*
 
@@ -56,7 +56,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 4ZC — Carrying out NCF functions](part-2/section-4zc.md)
 - [Section 4ZD — Modifications in relation to NCF](part-2/section-4zd.md)
 
-#### Commission Visitors[^key-56dbaf1cd6d944e39a19162be7cbb9dc]
+#### Commission Visitors[^c-56dbaf1cd6d944e39a19162be7cbb9dc]
 
 - [Section 4A — Commission Visitors](part-2/section-4a.md)
 
@@ -157,7 +157,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 41 — Suspension of authority to detain](part-5/section-41.md)
 - [Section 42 — Certificate under section 41: revocation](part-5/section-42.md)
 
-#### Effect of emergency detention certificate on certain orders[^key-260c6023a4c24b43fc3a3168e5b775d7]
+#### Effect of emergency detention certificate on certain orders[^c-260c6023a4c24b43fc3a3168e5b775d7]
 
 *Extent: S*
 
@@ -195,7 +195,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 - [Section 55 — Effect of subsequent short-term detention certificate on emergency detention certificate](part-6/section-55.md)
 
-#### Effect of short-term detention certificate etc. on certain orders[^key-8735b19f69a54a873116bd2143166eb6]
+#### Effect of short-term detention certificate etc. on certain orders[^c-8735b19f69a54a873116bd2143166eb6]
 
 *Extent: S*
 
@@ -745,7 +745,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 - [Section 257 — Named person: Tribunal’s powers](part-17/section-257.md)
 
-##### Ability to act if no named person[^key-60e87d6bf43ae757bc2db4b7bd1eb468]
+##### Ability to act if no named person[^c-60e87d6bf43ae757bc2db4b7bd1eb468]
 
 - [Section 257A — Ability to act if no named person](part-17/section-257a.md)
 
@@ -797,7 +797,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 270 — Order under section 269: further provision](part-17/section-270.md)
 - [Section 271 — Order under section 268 or 269: recall](part-17/section-271.md)
 
-##### Process for orders: further provision[^key-1dffe9e5dbbcbd696d7a2c7098f65087]
+##### Process for orders: further provision[^c-1dffe9e5dbbcbd696d7a2c7098f65087]
 
 - [Section 271A — Regulation-making powers](part-17/section-271a.md)
 
@@ -869,7 +869,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 - [Section 291 — Application to Tribunal in relation to unlawful detention](part-18/section-291.md)
 
-#### Conflicts of interest to be avoided[^key-d29e44a53a36b7baab623bf2811fee05]
+#### Conflicts of interest to be avoided[^c-d29e44a53a36b7baab623bf2811fee05]
 
 - [Section 291A — Conflicts of interest to be avoided](part-18/section-291a.md)
 
@@ -968,22 +968,22 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Annotations
 
-[^key-03d3633ef99dd3a67a982bc207c82ad4]: Modification: [Act](https://www.legislation.gov.uk/asp/2003/13) applied (5.10.2005) by [Mental Health (Cross-border transfer; patients subject to detention requirement or otherwise in hospital) (Scotland) Regulations 2005 (S.S.I. 2005/467)](https://www.legislation.gov.uk/ssi/2005/467), [reg. 46](https://www.legislation.gov.uk/ssi/2005/467/regulation/46) (with [reg. 2](https://www.legislation.gov.uk/ssi/2005/467/regulation/2))
+[^c-03d3633ef99dd3a67a982bc207c82ad4]: Modification: [Act](https://www.legislation.gov.uk/asp/2003/13) applied (5.10.2005) by [Mental Health (Cross-border transfer; patients subject to detention requirement or otherwise in hospital) (Scotland) Regulations 2005 (S.S.I. 2005/467)](https://www.legislation.gov.uk/ssi/2005/467), [reg. 46](https://www.legislation.gov.uk/ssi/2005/467/regulation/46) (with [reg. 2](https://www.legislation.gov.uk/ssi/2005/467/regulation/2))
 
-[^key-53e269baae3670a29efa7e7f1130aa11]: Modification: [Act](https://www.legislation.gov.uk/asp/2003/13) applied (with modifications) (3.11.2008) by [Mental Health (England and Wales Cross-border transfer: patients subject to requirements other than detention) (Scotland) Regulations 2008 (S.S.I. 2008/356)](https://www.legislation.gov.uk/ssi/2008/356), [reg. 33(1)](https://www.legislation.gov.uk/ssi/2008/356/regulation/33/1) (with [regs. 2](https://www.legislation.gov.uk/ssi/2008/356/regulation/2), [33(2)](https://www.legislation.gov.uk/ssi/2008/356/regulation/33/2))
+[^c-53e269baae3670a29efa7e7f1130aa11]: Modification: [Act](https://www.legislation.gov.uk/asp/2003/13) applied (with modifications) (3.11.2008) by [Mental Health (England and Wales Cross-border transfer: patients subject to requirements other than detention) (Scotland) Regulations 2008 (S.S.I. 2008/356)](https://www.legislation.gov.uk/ssi/2008/356), [reg. 33(1)](https://www.legislation.gov.uk/ssi/2008/356/regulation/33/1) (with [regs. 2](https://www.legislation.gov.uk/ssi/2008/356/regulation/2), [33(2)](https://www.legislation.gov.uk/ssi/2008/356/regulation/33/2))
 
-[^key-9aad90cabc362923679ca49b1ebb72aa]: Modification: [Act](https://www.legislation.gov.uk/asp/2003/13) applied in part (17.4.2024) by [The Armed Forces (Appeals Against Review of Sentence) Regulations 2024 (S.I. 2024/619)](https://www.legislation.gov.uk/uksi/2024/619), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/619/regulation/1/2), [6(5)](https://www.legislation.gov.uk/uksi/2024/619/regulation/6/5)[(6)](https://www.legislation.gov.uk/uksi/2024/619/regulation/6/6), [29(6)](https://www.legislation.gov.uk/uksi/2024/619/regulation/29/6)[(7)](https://www.legislation.gov.uk/uksi/2024/619/regulation/29/7); S.I. 2024/562, [reg. 2](https://www.legislation.gov.uk/uksi/2024/562/regulation/2)
+[^c-9aad90cabc362923679ca49b1ebb72aa]: Modification: [Act](https://www.legislation.gov.uk/asp/2003/13) applied in part (17.4.2024) by [The Armed Forces (Appeals Against Review of Sentence) Regulations 2024 (S.I. 2024/619)](https://www.legislation.gov.uk/uksi/2024/619), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/619/regulation/1/2), [6(5)](https://www.legislation.gov.uk/uksi/2024/619/regulation/6/5)[(6)](https://www.legislation.gov.uk/uksi/2024/619/regulation/6/6), [29(6)](https://www.legislation.gov.uk/uksi/2024/619/regulation/29/6)[(7)](https://www.legislation.gov.uk/uksi/2024/619/regulation/29/7); S.I. 2024/562, [reg. 2](https://www.legislation.gov.uk/uksi/2024/562/regulation/2)
 
-[^key-8ea8fdc9e7148185cba77e23ea67f543]: Modification: [Pt. 2](https://www.legislation.gov.uk/asp/2003/13/part/2) excluded (6.4.2016) by [Care Act 2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23), [s. 127(1)](https://www.legislation.gov.uk/ukpga/2014/23/section/127/1), [Sch. 1 para. 2(4)](https://www.legislation.gov.uk/ukpga/2014/23/schedule/1/paragraph/2/4)[(5)](https://www.legislation.gov.uk/ukpga/2014/23/schedule/1/paragraph/2/5) (with [Sch. 1 paras. 8](https://www.legislation.gov.uk/ukpga/2014/23/schedule/1/paragraph/8), [14](https://www.legislation.gov.uk/ukpga/2014/23/schedule/1/paragraph/14)); [S.I. 2016/464](https://www.legislation.gov.uk/uksi/2016/464), [art. 2(c)](https://www.legislation.gov.uk/uksi/2016/464/article/2/c)
+[^c-8ea8fdc9e7148185cba77e23ea67f543]: Modification: [Pt. 2](https://www.legislation.gov.uk/asp/2003/13/part/2) excluded (6.4.2016) by [Care Act 2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23), [s. 127(1)](https://www.legislation.gov.uk/ukpga/2014/23/section/127/1), [Sch. 1 para. 2(4)](https://www.legislation.gov.uk/ukpga/2014/23/schedule/1/paragraph/2/4)[(5)](https://www.legislation.gov.uk/ukpga/2014/23/schedule/1/paragraph/2/5) (with [Sch. 1 paras. 8](https://www.legislation.gov.uk/ukpga/2014/23/schedule/1/paragraph/8), [14](https://www.legislation.gov.uk/ukpga/2014/23/schedule/1/paragraph/14)); [S.I. 2016/464](https://www.legislation.gov.uk/uksi/2016/464), [art. 2(c)](https://www.legislation.gov.uk/uksi/2016/464/article/2/c)
 
-[^key-56dbaf1cd6d944e39a19162be7cbb9dc]: Textual amendment: [S. 4A and crossheading](https://www.legislation.gov.uk/asp/2003/13/part/2/crossheading/commission-visitors) inserted (1.8.2010 for specified purposes, 1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 111(3)](https://www.legislation.gov.uk/asp/2010/8/section/111/3), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2)[(3)](https://www.legislation.gov.uk/ssi/2010/221/article/3/3), [sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule); [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
+[^c-56dbaf1cd6d944e39a19162be7cbb9dc]: Textual amendment: [S. 4A and crossheading](https://www.legislation.gov.uk/asp/2003/13/part/2/crossheading/commission-visitors) inserted (1.8.2010 for specified purposes, 1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 111(3)](https://www.legislation.gov.uk/asp/2010/8/section/111/3), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2)[(3)](https://www.legislation.gov.uk/ssi/2010/221/article/3/3), [sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule); [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
 
-[^key-260c6023a4c24b43fc3a3168e5b775d7]: Textual amendment: [S. 43 cross-heading](https://www.legislation.gov.uk/asp/2003/13/part/5/crossheading/effect-of-emergency-detention-certificate-on-compulsory-treatment-order) substituted (30.6.2017) by virtue of [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 7(3)(b)](https://www.legislation.gov.uk/asp/2015/9/section/7/3/b), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule) (with [art. 7](https://www.legislation.gov.uk/ssi/2017/197/article/7))
+[^c-260c6023a4c24b43fc3a3168e5b775d7]: Textual amendment: [S. 43 cross-heading](https://www.legislation.gov.uk/asp/2003/13/part/5/crossheading/effect-of-emergency-detention-certificate-on-compulsory-treatment-order) substituted (30.6.2017) by virtue of [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 7(3)(b)](https://www.legislation.gov.uk/asp/2015/9/section/7/3/b), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule) (with [art. 7](https://www.legislation.gov.uk/ssi/2017/197/article/7))
 
-[^key-8735b19f69a54a873116bd2143166eb6]: Textual amendment: [S. 56 cross-heading](https://www.legislation.gov.uk/asp/2003/13/part/6/crossheading/effect-of-shortterm-detention-certificate-on-compulsory-treatment-order) substituted by virtue of (30.6.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 8(3)(b)](https://www.legislation.gov.uk/asp/2015/9/section/8/3/b), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
+[^c-8735b19f69a54a873116bd2143166eb6]: Textual amendment: [S. 56 cross-heading](https://www.legislation.gov.uk/asp/2003/13/part/6/crossheading/effect-of-shortterm-detention-certificate-on-compulsory-treatment-order) substituted by virtue of (30.6.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 8(3)(b)](https://www.legislation.gov.uk/asp/2015/9/section/8/3/b), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
 
-[^key-60e87d6bf43ae757bc2db4b7bd1eb468]: Textual amendment: S. 257A and cross-heading inserted (30.6.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 25(2)](https://www.legislation.gov.uk/asp/2015/9/section/25/2), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
+[^c-60e87d6bf43ae757bc2db4b7bd1eb468]: Textual amendment: S. 257A and cross-heading inserted (30.6.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 25(2)](https://www.legislation.gov.uk/asp/2015/9/section/25/2), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
 
-[^key-1dffe9e5dbbcbd696d7a2c7098f65087]: Textual amendment: S. 271A and cross-heading inserted (16.11.2015) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 16(5)](https://www.legislation.gov.uk/asp/2015/9/section/16/5), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2015/361](https://www.legislation.gov.uk/ssi/2015/361), [art. 2](https://www.legislation.gov.uk/ssi/2015/361/article/2)
+[^c-1dffe9e5dbbcbd696d7a2c7098f65087]: Textual amendment: S. 271A and cross-heading inserted (16.11.2015) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 16(5)](https://www.legislation.gov.uk/asp/2015/9/section/16/5), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2015/361](https://www.legislation.gov.uk/ssi/2015/361), [art. 2](https://www.legislation.gov.uk/ssi/2015/361/article/2)
 
-[^key-d29e44a53a36b7baab623bf2811fee05]: Textual amendment: S. 291A and cross-heading inserted (5.5.2017 for specified purposes, 30.6.2017 in so far as not already in force) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 29(2)](https://www.legislation.gov.uk/asp/2015/9/section/29/2), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/126](https://www.legislation.gov.uk/ssi/2017/126), [art. 2](https://www.legislation.gov.uk/ssi/2017/126/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/126/schedule); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
+[^c-d29e44a53a36b7baab623bf2811fee05]: Textual amendment: S. 291A and cross-heading inserted (5.5.2017 for specified purposes, 30.6.2017 in so far as not already in force) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 29(2)](https://www.legislation.gov.uk/asp/2015/9/section/29/2), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/126](https://www.legislation.gov.uk/ssi/2017/126), [art. 2](https://www.legislation.gov.uk/ssi/2017/126/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/126/schedule); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)

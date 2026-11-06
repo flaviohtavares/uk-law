@@ -296,7 +296,7 @@ as set out in the Promissory Oaths Act 1868 (c. 72).
 
 - (a) a judge, or other member, of the First-tier Tribunal or Upper Tribunal,
 - (b) [^c21473511]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c) a member of a panel of members of employment tribunals (whether or not a panel of Employment Judges[^key-9a6baaea11c9776554ffe80c92658984]),
+- (c) a member of a panel of members of employment tribunals (whether or not a panel of Employment Judges[^c-9a6baaea11c9776554ffe80c92658984]),
 - (d) a judge, or other member, of the Employment Appeal Tribunal, and
 - (e) a person who is, or is a member of, a tribunal in a list in Schedule 6 that has effect for the purposes of section 30.
 
@@ -324,6 +324,6 @@ as set out in the Promissory Oaths Act 1868 (c. 72).
 
 [^c21473511]: Textual amendment: Sch. 1 para. 12(1)(b) omitted (15.2.2010) by virtue of [The Transfer of Functions of the Asylum and Immigration Tribunal Order 2010 (S.I. 2010/21)](https://www.legislation.gov.uk/uksi/2010/21), [Sch. 1 para. 44](https://www.legislation.gov.uk/uksi/2010/21/schedule/1/paragraph/44) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2010/21/schedule/4))
 
-[^key-9a6baaea11c9776554ffe80c92658984]: Textual amendment: Words in [Sch. 1 para. 12(1)(c)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/1/paragraph/12/1/c) substituted (1.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 14 para. 13(1)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/14/paragraph/13/1); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/g)
+[^c-9a6baaea11c9776554ffe80c92658984]: Textual amendment: Words in [Sch. 1 para. 12(1)(c)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/1/paragraph/12/1/c) substituted (1.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 14 para. 13(1)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/14/paragraph/13/1); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/g)
 
 [^c21995921]: Textual amendment: Sch. 1 para. 12(2)(c) omitted (15.2.2010) by virtue of [The Transfer of Functions of the Asylum and Immigration Tribunal Order 2010 (S.I. 2010/21)](https://www.legislation.gov.uk/uksi/2010/21), [Sch. 1 para. 44](https://www.legislation.gov.uk/uksi/2010/21/schedule/1/paragraph/44) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2010/21/schedule/4))

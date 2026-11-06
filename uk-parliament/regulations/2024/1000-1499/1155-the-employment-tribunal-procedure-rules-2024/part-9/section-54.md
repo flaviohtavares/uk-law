@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 54. Preliminary hearings held in public[^key-d229a818281e8c54bdee56a9cae14b64]
+## 54. Preliminary hearings held in public[^c-d229a818281e8c54bdee56a9cae14b64]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d229a818281e8c54bdee56a9cae14b64]: Commencement: [Rule 54](https://www.legislation.gov.uk/uksi/2024/1155/rule/54) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-d229a818281e8c54bdee56a9cae14b64]: Commencement: [Rule 54](https://www.legislation.gov.uk/uksi/2024/1155/rule/54) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)

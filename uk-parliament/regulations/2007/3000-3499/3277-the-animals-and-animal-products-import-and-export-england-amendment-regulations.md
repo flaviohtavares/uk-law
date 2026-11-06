@@ -58,7 +58,7 @@ These Regulations may be cited as the Animals and Animal Products (Import and Ex
 
 (1) The Animals and Animal Products (Import and Export) (England) Regulations 2006 [^c18996571] are amended as follows.
 
-(2)[^key-f27a00a8afe765009df279df23407336] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-f27a00a8afe765009df279df23407336] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In regulation 2, after paragraph (2) insert—
 
@@ -138,4 +138,4 @@ An impact assessment has not been prepared for these Regulations.
 
 [^c18996571]: Marginal citation: SI 2006/1471 as last amended by SI 2007/1621.
 
-[^key-f27a00a8afe765009df279df23407336]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/uksi/2007/3277/regulation/2/2) revoked (15.1.2009) by [The Animals and Animal Products (Import and Export) (England) (Amendment) Regulations 2008 (S.I. 2008/3203)](https://www.legislation.gov.uk/uksi/2008/3203), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2008/3203/regulation/1/c), [3](https://www.legislation.gov.uk/uksi/2008/3203/regulation/3)
+[^c-f27a00a8afe765009df279df23407336]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/uksi/2007/3277/regulation/2/2) revoked (15.1.2009) by [The Animals and Animal Products (Import and Export) (England) (Amendment) Regulations 2008 (S.I. 2008/3203)](https://www.legislation.gov.uk/uksi/2008/3203), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2008/3203/regulation/1/c), [3](https://www.legislation.gov.uk/uksi/2008/3203/regulation/3)

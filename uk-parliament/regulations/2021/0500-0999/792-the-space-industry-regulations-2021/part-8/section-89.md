@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Flight termination personnel[^key-a25faa92b2f48220cfc7c4db6244c317]
+## 89. Flight termination personnel[^c-a25faa92b2f48220cfc7c4db6244c317]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ A spaceflight operator must—
 
 ## Annotations
 
-[^key-a25faa92b2f48220cfc7c4db6244c317]: Commencement: Reg. 89 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-a25faa92b2f48220cfc7c4db6244c317]: Commencement: Reg. 89 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

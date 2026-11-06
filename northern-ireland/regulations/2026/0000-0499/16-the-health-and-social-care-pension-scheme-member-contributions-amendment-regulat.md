@@ -50,13 +50,13 @@ In accordance with section 22(2)(b) of the 2014 Act, the Department has laid a r
 
 In accordance with Article 12(1) of the 1972 Order and section 3(5) of the 2014 Act, these Regulations are made with the consent of the Department of Finance.
 
-## 1. Citation, commencement and effect[^key-0d0db65c67bb6dfe336598f20f83d381][^key-7f9efdc7a9f85b43da3dfab0acfdd9e4]
+## 1. Citation, commencement and effect[^c-0d0db65c67bb6dfe336598f20f83d381][^c-7f9efdc7a9f85b43da3dfab0acfdd9e4]
 
 These Regulations may be cited as the Health and Social Care Pension Scheme (Member Contributions) (Amendment) Regulations (Northern Ireland) 2026.
 
-**2.**[^key-94f8de1bdd84bca21370bfe987c4141d][^key-7f9efdc7a9f85b43da3dfab0acfdd9e4][^key-9217b0fbb7f4d02bf30d2aa7ff484b0d] These Regulations come into operation on 2nd March 2026 and will have retrospective effect from 1st April 2025.
+**2.**[^c-94f8de1bdd84bca21370bfe987c4141d][^c-7f9efdc7a9f85b43da3dfab0acfdd9e4][^c-9217b0fbb7f4d02bf30d2aa7ff484b0d] These Regulations come into operation on 2nd March 2026 and will have retrospective effect from 1st April 2025.
 
-## 3. Amendment to the Health and Social Care Pension Scheme Regulations (Northern Ireland) 2015[^key-b5869d877a8131a353e38f3bc5570547][^key-6c5d69edb2ef88829ae1b5263ed330db]
+## 3. Amendment to the Health and Social Care Pension Scheme Regulations (Northern Ireland) 2015[^c-b5869d877a8131a353e38f3bc5570547][^c-6c5d69edb2ef88829ae1b5263ed330db]
 
 (1) The Health and Social Care Pension Scheme Regulations (Northern Ireland) 2015[^f00003] are amended as follows.
 
@@ -100,7 +100,7 @@ These Regulations may be cited as the Health and Social Care Pension Scheme (Mem
 
 (5) In paragraph (8)(d), for “2025” substitute “2026”.
 
-## 4. Amendment of regulation 31[^key-e334241274c61a1a42d3d9828aec5d9f][^key-6b394d1ef139b530337c7c4db404cff0]
+## 4. Amendment of regulation 31[^c-e334241274c61a1a42d3d9828aec5d9f][^c-6b394d1ef139b530337c7c4db404cff0]
 
 In regulation 31 (members’ contributions: practitioners and non-GP providers)[^f00005]—
 
@@ -166,24 +166,24 @@ A full impact assessment has not been produced for this statutory rule as no, or
 
 [^f00002]: Footnote: [2014 c. 2](https://www.legislation.gov.uk/ukpga/2014/2) Section 3(1) and (2) were amended by section 94(2) and (3) of the Public Service Pensions and Judicial Offices Act [2022 (c.7)](https://www.legislation.gov.uk/ukpga/2022/7).
 
-[^key-0d0db65c67bb6dfe336598f20f83d381]: Commencement: Reg. 1 in operation at 2.3.2026 with effect from 01/04/2025, see [reg. 2](https://www.legislation.gov.uk/nisr/2026/16/regulation/2)
+[^c-0d0db65c67bb6dfe336598f20f83d381]: Commencement: Reg. 1 in operation at 2.3.2026 with effect from 01/04/2025, see [reg. 2](https://www.legislation.gov.uk/nisr/2026/16/regulation/2)
 
-[^key-7f9efdc7a9f85b43da3dfab0acfdd9e4]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2026/16/regulation/1) in operation at 2.3.2026 with effect from 1/4/2025, see [reg. 2](https://www.legislation.gov.uk/nisr/2026/16/regulation/2)
+[^c-7f9efdc7a9f85b43da3dfab0acfdd9e4]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2026/16/regulation/1) in operation at 2.3.2026 with effect from 1/4/2025, see [reg. 2](https://www.legislation.gov.uk/nisr/2026/16/regulation/2)
 
-[^key-94f8de1bdd84bca21370bfe987c4141d]: Commencement: Reg. 2 in operation at 2.3.2026 with effect from 01/04/2025, see [reg. 2](https://www.legislation.gov.uk/nisr/2026/16/regulation/2)
+[^c-94f8de1bdd84bca21370bfe987c4141d]: Commencement: Reg. 2 in operation at 2.3.2026 with effect from 01/04/2025, see [reg. 2](https://www.legislation.gov.uk/nisr/2026/16/regulation/2)
 
-[^key-9217b0fbb7f4d02bf30d2aa7ff484b0d]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2026/16/regulation/2) in operation at 2.3.2026 with effect from 1/4/2025, see [reg. 2](https://www.legislation.gov.uk/nisr/2026/16/regulation/2)
+[^c-9217b0fbb7f4d02bf30d2aa7ff484b0d]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2026/16/regulation/2) in operation at 2.3.2026 with effect from 1/4/2025, see [reg. 2](https://www.legislation.gov.uk/nisr/2026/16/regulation/2)
 
-[^key-b5869d877a8131a353e38f3bc5570547]: Commencement: Reg. 3 in operation at 2.3.2026 with effect from 01/04/2025, see [reg. 2](https://www.legislation.gov.uk/nisr/2026/16/regulation/2)
+[^c-b5869d877a8131a353e38f3bc5570547]: Commencement: Reg. 3 in operation at 2.3.2026 with effect from 01/04/2025, see [reg. 2](https://www.legislation.gov.uk/nisr/2026/16/regulation/2)
 
-[^key-6c5d69edb2ef88829ae1b5263ed330db]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2026/16/regulation/3) in operation at 2.3.2026 with effect from 1/4/2025, see [reg. 2](https://www.legislation.gov.uk/nisr/2026/16/regulation/2)
+[^c-6c5d69edb2ef88829ae1b5263ed330db]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2026/16/regulation/3) in operation at 2.3.2026 with effect from 1/4/2025, see [reg. 2](https://www.legislation.gov.uk/nisr/2026/16/regulation/2)
 
 [^f00003]: Footnote: [S.R. 2015 No.120](https://www.legislation.gov.uk/nisr/2015/120).
 
 [^f00004]: Footnote: Regulation 30 was amended by [S.R. 2019 No.62](https://www.legislation.gov.uk/nisr/2019/62), [S.R. 2022 No. 244](https://www.legislation.gov.uk/nisr/2022/244) and [S.R. 2023 No.23](https://www.legislation.gov.uk/nisr/2023/23).
 
-[^key-e334241274c61a1a42d3d9828aec5d9f]: Commencement: Reg. 4 in operation at 2.3.2026 with effect from 01/04/2025, see [reg. 2](https://www.legislation.gov.uk/nisr/2026/16/regulation/2)
+[^c-e334241274c61a1a42d3d9828aec5d9f]: Commencement: Reg. 4 in operation at 2.3.2026 with effect from 01/04/2025, see [reg. 2](https://www.legislation.gov.uk/nisr/2026/16/regulation/2)
 
-[^key-6b394d1ef139b530337c7c4db404cff0]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2026/16/regulation/4) in operation at 2.3.2026 with effect from 1/4/2025, see [reg. 2](https://www.legislation.gov.uk/nisr/2026/16/regulation/2)
+[^c-6b394d1ef139b530337c7c4db404cff0]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2026/16/regulation/4) in operation at 2.3.2026 with effect from 1/4/2025, see [reg. 2](https://www.legislation.gov.uk/nisr/2026/16/regulation/2)
 
 [^f00005]: Footnote: Regulation 31 is amended by [S.R. 2019 No.62](https://www.legislation.gov.uk/nisr/2019/62), [S.R. 2022 No.33](https://www.legislation.gov.uk/nisr/2022/33), [S.R. 2022 No.244](https://www.legislation.gov.uk/nisr/2022/244)., [S.R. 2024 No.116](https://www.legislation.gov.uk/nisr/2024/116) & [S.R. 2024 No 117](https://www.legislation.gov.uk/nisr/2024/117).

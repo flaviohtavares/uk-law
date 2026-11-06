@@ -36,13 +36,13 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## References to the 2005 Act
 
-### 1. Meaning of the “2005 Act”[^key-634e6af36a92eba0d225ce41ef8f785c][^key-b4ccefbce0deb99d7d361486cdf81d37]
+### 1. Meaning of the “2005 Act”[^c-634e6af36a92eba0d225ce41ef8f785c][^c-b4ccefbce0deb99d7d361486cdf81d37]
 
 In this Act, the “**2005 Act**” means the Charities and Trustee Investment (Scotland) Act 2005.
 
 ## Information about charity trustees etc.
 
-### 2. Inclusion of names of charity trustees in the Scottish Charity Register[^key-350b393c02801c91ac8ef6b85c17d872][^key-73cc80ec448dfb80b52da4b6bb2af03e]
+### 2. Inclusion of names of charity trustees in the Scottish Charity Register[^c-350b393c02801c91ac8ef6b85c17d872][^c-73cc80ec448dfb80b52da4b6bb2af03e]
 
 (1) The 2005 Act is modified as follows.
 
@@ -69,7 +69,7 @@ In this Act, the “**2005 Act**” means the Charities and Trustee Investment (
 
 (4) In section 71(b) (decisions), for “3(3)(b)” substitute “3(3)(aa) or (b)”.
 
-### 3. Information about charity trustees for OSCR’s use[^key-df72cb7ed70f78994b9166419e400572][^key-da3035350deca4e99ace0f8221b93ddc]
+### 3. Information about charity trustees for OSCR’s use[^c-df72cb7ed70f78994b9166419e400572][^c-da3035350deca4e99ace0f8221b93ddc]
 
 (1) The 2005 Act is modified as follows.
 
@@ -102,7 +102,7 @@ In this Act, the “**2005 Act**” means the Charities and Trustee Investment (
 
 ## Disqualification from being charity trustee etc.
 
-### 4. Disqualification: offences[^key-975b726083c4f71eab431eba18c4764c][^key-66446a507e10ead00683d1ad13390f48][^key-0e2597347c5823ad6aa5116b1ab7c680]
+### 4. Disqualification: offences[^c-975b726083c4f71eab431eba18c4764c][^c-66446a507e10ead00683d1ad13390f48][^c-0e2597347c5823ad6aa5116b1ab7c680]
 
 (1) The 2005 Act is modified as follows.
 
@@ -160,7 +160,7 @@ In this Act, the “**2005 Act**” means the Charities and Trustee Investment (
 
 .
 
-### 5. Disqualification: other cases[^key-e12fbb8064712a11cd2c21de9da3e273][^key-6671a27b8f7d3512f17a820e1b58cd31][^key-aa6a70745941d0c78faa754af2e9c09f]
+### 5. Disqualification: other cases[^c-e12fbb8064712a11cd2c21de9da3e273][^c-6671a27b8f7d3512f17a820e1b58cd31][^c-aa6a70745941d0c78faa754af2e9c09f]
 
 (1) The 2005 Act is modified as follows.
 
@@ -266,9 +266,9 @@ In this Act, the “**2005 Act**” means the Charities and Trustee Investment (
 
 .
 
-### 6. Disqualification: senior management functions[^key-cfa84af5ab6401feb53d84ea42c9fb96][^key-7ece7386010fc9f2e4fd78db95b9a4e1][^key-f7175b3ec084c62d5f7c5c66ee9bfdce]
+### 6. Disqualification: senior management functions[^c-cfa84af5ab6401feb53d84ea42c9fb96][^c-7ece7386010fc9f2e4fd78db95b9a4e1][^c-f7175b3ec084c62d5f7c5c66ee9bfdce]
 
-(1)[^key-a4f3b8cc4751d7a1c6efdfc003135dc0][^key-5523e27b0c49e03607395925e13d0ea0] The 2005 Act is modified as follows.
+(1)[^c-a4f3b8cc4751d7a1c6efdfc003135dc0][^c-5523e27b0c49e03607395925e13d0ea0] The 2005 Act is modified as follows.
 
 (2) After section 69A (inserted by section 4(3)), insert—
 
@@ -310,15 +310,15 @@ In this Act, the “**2005 Act**” means the Charities and Trustee Investment (
 
 (4) The title of Chapter 9 becomes “Charity trustees and senior managers”.
 
-(5)[^key-a4f3b8cc4751d7a1c6efdfc003135dc0] In section 71 (decisions), after paragraph (p) insert—
+(5)[^c-a4f3b8cc4751d7a1c6efdfc003135dc0] In section 71 (decisions), after paragraph (p) insert—
 
 > - (pa) refuse to grant a waiver under section 69B(3),
 
 .
 
-(6)[^key-5523e27b0c49e03607395925e13d0ea0] In section 72(2)(a) (notice of decisions), for “or (p)” substitute “, (p), (pa)”.
+(6)[^c-5523e27b0c49e03607395925e13d0ea0] In section 72(2)(a) (notice of decisions), for “or (p)” substitute “, (p), (pa)”.
 
-### 7. Record of persons removed from office[^key-1795049ca3df74e96fd97efca467a85b][^key-477fb3ef815ae2cc26faae50abfa1f62]
+### 7. Record of persons removed from office[^c-1795049ca3df74e96fd97efca467a85b][^c-477fb3ef815ae2cc26faae50abfa1f62]
 
 (1) The 2005 Act is modified as follows.
 
@@ -372,7 +372,7 @@ In this Act, the “**2005 Act**” means the Charities and Trustee Investment (
 
 ## Appointment of interim charity trustees
 
-### 8. Appointment of interim trustees by OSCR[^key-f859b5d8a43f81419672f920a4a247c8][^key-5e540893ee57e556a3f1a18da844a37b]
+### 8. Appointment of interim trustees by OSCR[^c-f859b5d8a43f81419672f920a4a247c8][^c-5e540893ee57e556a3f1a18da844a37b]
 
 (1) Section 70A (appointment of charity trustees) of the 2005 Act is modified as follows.
 
@@ -437,7 +437,7 @@ In this Act, the “**2005 Act**” means the Charities and Trustee Investment (
 
 .
 
-### 9. Review of proposed appointment of interim trustee[^key-1423054a7a54e69289246bd1c7598897][^key-88d0084cbe303571e1bf832cc3e608b1]
+### 9. Review of proposed appointment of interim trustee[^c-1423054a7a54e69289246bd1c7598897][^c-88d0084cbe303571e1bf832cc3e608b1]
 
 (1) The 2005 Act is modified as follows.
 
@@ -463,7 +463,7 @@ In this Act, the “**2005 Act**” means the Charities and Trustee Investment (
 
 ## Charity accounts
 
-### 10. Preservation of and access to charity accounts and independent reports on accounts[^key-864a1d6cbcc7c14281943259d295ad93][^key-8c2e6eb1167a999a2362e8660202e129]
+### 10. Preservation of and access to charity accounts and independent reports on accounts[^c-864a1d6cbcc7c14281943259d295ad93][^c-8c2e6eb1167a999a2362e8660202e129]
 
 (1) The 2005 Act is modified as follows.
 
@@ -502,7 +502,7 @@ In this Act, the “**2005 Act**” means the Charities and Trustee Investment (
 
 .
 
-### 11. Independent reports: minor and consequential modifications[^key-e0f1500f908932a385ae7f5315045445][^key-03bd6c6f41b38931c668173c4e27c2c6]
+### 11. Independent reports: minor and consequential modifications[^c-e0f1500f908932a385ae7f5315045445][^c-03bd6c6f41b38931c668173c4e27c2c6]
 
 (1) The 2005 Act is modified as follows.
 
@@ -521,7 +521,7 @@ In this Act, the “**2005 Act**” means the Charities and Trustee Investment (
 
 .
 
-### 12. Removal of non-responsive charities for failure to submit accounts[^key-6eb7f6f038d4b6684ad2b975f8b7f445][^key-ef2f135cbdae8de10feb8d218e73acc4]
+### 12. Removal of non-responsive charities for failure to submit accounts[^c-6eb7f6f038d4b6684ad2b975f8b7f445][^c-ef2f135cbdae8de10feb8d218e73acc4]
 
 (1) The 2005 Act is modified as follows.
 
@@ -568,11 +568,11 @@ In this Act, the “**2005 Act**” means the Charities and Trustee Investment (
 
 ## Charity mergers
 
-### 13. Recording of charity mergers and treatment of legacies[^key-45222bda94f59d8947fc3b194f292264]
+### 13. Recording of charity mergers and treatment of legacies[^c-45222bda94f59d8947fc3b194f292264]
 
-(1)[^key-6d1a5347487d03b0257d45854ba1b92d][^key-5d521549d0460e7edc5513f748acf7e4] The 2005 Act is modified as follows.
+(1)[^c-6d1a5347487d03b0257d45854ba1b92d][^c-5d521549d0460e7edc5513f748acf7e4] The 2005 Act is modified as follows.
 
-(2)[^key-6d1a5347487d03b0257d45854ba1b92d][^key-5d521549d0460e7edc5513f748acf7e4] After section 64, insert—
+(2)[^c-6d1a5347487d03b0257d45854ba1b92d][^c-5d521549d0460e7edc5513f748acf7e4] After section 64, insert—
 
 > **Chapter 7A — Charity mergers**
 >
@@ -672,11 +672,11 @@ In this Act, the “**2005 Act**” means the Charities and Trustee Investment (
 
 .
 
-(3)[^key-f740f20060f0aba8170353266d8396bc] It does not matter if the will (within the meaning given in section 64D(7) of the 2005 Act) which gives rise to the legacy was executed before the date the amendment made by this section comes into force.
+(3)[^c-f740f20060f0aba8170353266d8396bc] It does not matter if the will (within the meaning given in section 64D(7) of the 2005 Act) which gives rise to the legacy was executed before the date the amendment made by this section comes into force.
 
 ## Reorganisation of charities
 
-### 14. Endowments[^key-8241a023983962e769c6457f8c55daaf][^key-5f0de4379301bbc629d207fc87e52493]
+### 14. Endowments[^c-8241a023983962e769c6457f8c55daaf][^c-5f0de4379301bbc629d207fc87e52493]
 
 (1) The 2005 Act is modified in accordance with subsections (2) and (3).
 
@@ -723,7 +723,7 @@ In this Act, the “**2005 Act**” means the Charities and Trustee Investment (
 
 ## Inquiries
 
-### 15. Inquiries about former charities etc.[^key-f59eba82847b12aa971ed99259fb78f7][^key-434dfcb3d12299957ced673505faacb1]
+### 15. Inquiries about former charities etc.[^c-f59eba82847b12aa971ed99259fb78f7][^c-434dfcb3d12299957ced673505faacb1]
 
 (1) Section 28 (inquiries about charities etc.) of the 2005 Act is modified as follows.
 
@@ -746,7 +746,7 @@ In this Act, the “**2005 Act**” means the Charities and Trustee Investment (
 
 .
 
-### 16. Notice and obtaining information[^key-b675c2ef7e1ab7caa56c747fd15340b9][^key-33773590ef36f741c237bbeca1253073]
+### 16. Notice and obtaining information[^c-b675c2ef7e1ab7caa56c747fd15340b9][^c-33773590ef36f741c237bbeca1253073]
 
 (1) The 2005 Act is modified as follows.
 
@@ -785,7 +785,7 @@ In this Act, the “**2005 Act**” means the Charities and Trustee Investment (
 
 (4) In section 73(3) (effect of decisions), in the opening words, for “the notice” substitute “any notice”.
 
-### 17. Ability to issue positive directions[^key-c8ac9c4321e7eff3cb15987b4aa7ac7b][^key-afe8ca7716c55ee7058092dd34dc9d58]
+### 17. Ability to issue positive directions[^c-c8ac9c4321e7eff3cb15987b4aa7ac7b][^c-afe8ca7716c55ee7058092dd34dc9d58]
 
 (1) The 2005 Act is modified as follows.
 
@@ -861,7 +861,7 @@ In this Act, the “**2005 Act**” means the Charities and Trustee Investment (
 
 ## Connection to Scotland
 
-### 18. Charities which it is not appropriate for OSCR to regulate[^key-4ee781ec92bb2ab80ed14748349a27cb][^key-bbc561308b592b6260756a7df32fad33]
+### 18. Charities which it is not appropriate for OSCR to regulate[^c-4ee781ec92bb2ab80ed14748349a27cb][^c-bbc561308b592b6260756a7df32fad33]
 
 (1) The 2005 Act is modified as follows.
 
@@ -949,13 +949,13 @@ In this Act, the “**2005 Act**” means the Charities and Trustee Investment (
 
 ## Further modification of the 2005 Act
 
-### 19. Minor or technical amendments[^key-2a98412bd30b9f6fda75c13cdb4d5cc5][^key-d2069cb38e9586731ee66422e96977a2][^key-9aa41d5afd54fc07d18b5cba8dde1118]
+### 19. Minor or technical amendments[^c-2a98412bd30b9f6fda75c13cdb4d5cc5][^c-d2069cb38e9586731ee66422e96977a2][^c-9aa41d5afd54fc07d18b5cba8dde1118]
 
 The schedule further modifies the 2005 Act.
 
 ## Final provisions
 
-### 20. Ancillary provision[^key-ae36bfeb33dc519b01a0a7aaf1da5483]
+### 20. Ancillary provision[^c-ae36bfeb33dc519b01a0a7aaf1da5483]
 
 (1) The Scottish Ministers may by regulations make any incidental, supplementary, consequential, transitional, transitory or saving provision they consider appropriate for the purposes of, in connection with or for giving full effect to this Act.
 
@@ -969,7 +969,7 @@ The schedule further modifies the 2005 Act.
 - (a) are subject to the affirmative procedure if they add to, replace or omit any part of the text of an Act,
 - (b) otherwise, are subject to the negative procedure.
 
-### 21. Commencement[^key-ad4755506656e001fbab8f462affe87c]
+### 21. Commencement[^c-ad4755506656e001fbab8f462affe87c]
 
 (1) This section and sections 20 and 22 come into force on the day after Royal Assent.
 
@@ -980,7 +980,7 @@ The schedule further modifies the 2005 Act.
 - (a) include transitional, transitory or saving provision,
 - (b) make different provision for different purposes.
 
-### 22. Short title[^key-9c609447598df0c0d7296e7c46665dd8]
+### 22. Short title[^c-9c609447598df0c0d7296e7c46665dd8]
 
 The short title of this Act is the Charities (Regulation and Administration) (Scotland) Act 2023.
 
@@ -988,7 +988,7 @@ The short title of this Act is the Charities (Regulation and Administration) (Sc
 
 (introduced by section 19)
 
-### 1. Annual reports by OSCR: action taken to promote awareness and understanding of the 2005 Act[^key-7edcfa5dab290a5047ec5596f3f01e14][^key-1be82acf3382001c5817db1d6e5f27e8]
+### 1. Annual reports by OSCR: action taken to promote awareness and understanding of the 2005 Act[^c-7edcfa5dab290a5047ec5596f3f01e14][^c-1be82acf3382001c5817db1d6e5f27e8]
 
 (1) Section 2 (annual reports) of the 2005 Act is modified as follows.
 
@@ -1000,7 +1000,7 @@ The short title of this Act is the Charities (Regulation and Administration) (Sc
 
 (3) In subsection (3), for “It” substitute “Subject to subsection (1A), it”.
 
-### 2. Duty to review Register[^key-48fa201812f69c99cf522b3e3c008dbf][^key-7c2bb2844f82f274fb80212e709315a0]
+### 2. Duty to review Register[^c-48fa201812f69c99cf522b3e3c008dbf][^c-7c2bb2844f82f274fb80212e709315a0]
 
 (1) Section 3 (Scottish Charity Register) of the 2005 Act is modified as follows.
 
@@ -1012,7 +1012,7 @@ The short title of this Act is the Charities (Regulation and Administration) (Sc
   - (ii) for “each”, substitute “any”,
 - (c) at the beginning of paragraph (b), insert “must, ”.
 
-### 3. Removal of former bodies[^key-cdc1e76bb845abe3bbb3c88c3bbd7ffa][^key-338cc8fd6fc2a7b47e5f546773ff1532]
+### 3. Removal of former bodies[^c-cdc1e76bb845abe3bbb3c88c3bbd7ffa][^c-338cc8fd6fc2a7b47e5f546773ff1532]
 
 (1) Section 3 (Scottish Charity Register) of the 2005 Act is modified as follows.
 
@@ -1027,7 +1027,7 @@ The short title of this Act is the Charities (Regulation and Administration) (Sc
 
   .
 
-### 4. Ability to allow duplicate charity names as part of merger[^key-7153650a09fc7875751bf8bb4789349d][^key-b0fd05b160bc81ea0c3f69c097472dea]
+### 4. Ability to allow duplicate charity names as part of merger[^c-7153650a09fc7875751bf8bb4789349d][^c-b0fd05b160bc81ea0c3f69c097472dea]
 
 (1) The 2005 Act is modified as follows.
 
@@ -1053,7 +1053,7 @@ The short title of this Act is the Charities (Regulation and Administration) (Sc
 
 .
 
-### 5. Change of name: delaying decision or granting or refusing consent[^key-b900300ce7c51c1149d8134bbfb71f3f][^key-ba60b4a6e2a4961184b2a3dcbe4ca190]
+### 5. Change of name: delaying decision or granting or refusing consent[^c-b900300ce7c51c1149d8134bbfb71f3f][^c-ba60b4a6e2a4961184b2a3dcbe4ca190]
 
 (1) The 2005 Act is modified as follows.
 
@@ -1103,7 +1103,7 @@ The short title of this Act is the Charities (Regulation and Administration) (Sc
 
 .
 
-### 6. Oversight in relation to working names[^key-9add76182d375f54c18665229cf48ac8][^key-dae198c6c2f335523a79ed3dcd9597f4]
+### 6. Oversight in relation to working names[^c-9add76182d375f54c18665229cf48ac8][^c-dae198c6c2f335523a79ed3dcd9597f4]
 
 (1) The 2005 Act is modified as follows.
 
@@ -1166,7 +1166,7 @@ The short title of this Act is the Charities (Regulation and Administration) (Sc
 
 .
 
-### 7. Giving notice to OSCR: removal of 42 day rule[^key-49df9c1dff20b40fdab244076503af02][^key-8ec2b41aa8698f3620f39483a1d2d6dc]
+### 7. Giving notice to OSCR: removal of 42 day rule[^c-49df9c1dff20b40fdab244076503af02][^c-8ec2b41aa8698f3620f39483a1d2d6dc]
 
 (1) The 2005 Act is modified as follows.
 
@@ -1177,7 +1177,7 @@ The short title of this Act is the Charities (Regulation and Administration) (Sc
 - (a) the words “, not less than 42 days before the date on which the action is to be taken,” are repealed,
 - (b) the words “specifying that date” are repealed.
 
-### 8. Consent to and notification of changes[^key-458588fd3cb1cd017d2ee275fe1928cd][^key-b57d64e526d83658f638572457313bde]
+### 8. Consent to and notification of changes[^c-458588fd3cb1cd017d2ee275fe1928cd][^c-b57d64e526d83658f638572457313bde]
 
 (1) The 2005 Act is modified as follows.
 
@@ -1191,7 +1191,7 @@ The short title of this Act is the Charities (Regulation and Administration) (Sc
 
 (4) The heading of section 17 becomes “Notification of changes”.
 
-### 9. Removal from Register: protection of assets[^key-4c8bcb114dc943f367eb8a7381dee86e][^key-4204d0d1ff0cf045035de6515b42449b]
+### 9. Removal from Register: protection of assets[^c-4c8bcb114dc943f367eb8a7381dee86e][^c-4204d0d1ff0cf045035de6515b42449b]
 
 (1) Section 19 (removal from register: protection of assets) of the 2005 Act is modified as follows.
 
@@ -1235,7 +1235,7 @@ The short title of this Act is the Charities (Regulation and Administration) (Sc
 - (a) for “property or income”, in the first place where it occurs, substitute “protected charitable assets”,
 - (b) for “that property or income” substitute “the protected charitable assets”.
 
-### 10. Provision of documents: period for compliance[^key-cb2f1e2cfd3fc307fa0fca740e766a4c][^key-7335475b43388be1c3e1f4f87d775a01]
+### 10. Provision of documents: period for compliance[^c-cb2f1e2cfd3fc307fa0fca740e766a4c][^c-7335475b43388be1c3e1f4f87d775a01]
 
 (1) Section 23 (entitlement to information about charities) of the 2005 Act is modified as follows.
 
@@ -1250,7 +1250,7 @@ The short title of this Act is the Charities (Regulation and Administration) (Sc
 
 .
 
-### 11. Disclosure of information by and to designated religious charities[^key-1d8870606c5dcc9eac26d92db8cee0ad][^key-7e216090901e7d83458e48856e00b5cc]
+### 11. Disclosure of information by and to designated religious charities[^c-1d8870606c5dcc9eac26d92db8cee0ad][^c-7e216090901e7d83458e48856e00b5cc]
 
 (1) The 2005 Act is modified as follows.
 
@@ -1287,7 +1287,7 @@ The short title of this Act is the Charities (Regulation and Administration) (Sc
 
   .
 
-### 12. Retention of accounting records[^key-a7ac67ef4944019304da7c78ddb80fca][^key-025c069e6243ad0bd6f77d99e562a7ae]
+### 12. Retention of accounting records[^c-a7ac67ef4944019304da7c78ddb80fca][^c-025c069e6243ad0bd6f77d99e562a7ae]
 
 (1) Section 44 (accounts) of the 2005 Act is modified as follows.
 
@@ -1306,7 +1306,7 @@ The short title of this Act is the Charities (Regulation and Administration) (Sc
 
 (4) In subsection (3), for “Subsection (2) is” substitute “Subsections (2) and (2A) are”.
 
-### 13. Ability to appoint person to prepare statement of account[^key-14388cbdd076672cb90a81f2819a790f][^key-d0ef580bd279f6a0a65592c1e7d84d75]
+### 13. Ability to appoint person to prepare statement of account[^c-14388cbdd076672cb90a81f2819a790f][^c-d0ef580bd279f6a0a65592c1e7d84d75]
 
 (1) Section 45 (failure to provide statement of account) of the 2005 Act is modified as follows.
 
@@ -1319,13 +1319,13 @@ The short title of this Act is the Charities (Regulation and Administration) (Sc
 
 .
 
-### 14. Reports from auditors etc.[^key-bf46c5f99a170aee29c2a75adaf4e41a][^key-b952a2a248f3c728a7f2ccfb93f57114]
+### 14. Reports from auditors etc.[^c-bf46c5f99a170aee29c2a75adaf4e41a][^c-b952a2a248f3c728a7f2ccfb93f57114]
 
 (1) Section 46 (duty of auditors etc. to report matters to OSCR) of the 2005 Act is modified as follows.
 
 (2) In subsection (2), in the closing words, after “report” insert “in writing”.
 
-### 15. Annual returns[^key-37e8a641982cf00ec2069df033e7186e][^key-fe1d00349693b8380c83422c14f04906]
+### 15. Annual returns[^c-37e8a641982cf00ec2069df033e7186e][^c-fe1d00349693b8380c83422c14f04906]
 
 (1) The 2005 Act is modified as follows.
 
@@ -1343,7 +1343,7 @@ The short title of this Act is the Charities (Regulation and Administration) (Sc
 
 .
 
-### 16. SCIO documents[^key-cfa3c5fae8b268cfc993d7d55fb222b0][^key-1a08516250fd4c532d801b43b2cccad8]
+### 16. SCIO documents[^c-cfa3c5fae8b268cfc993d7d55fb222b0][^c-1a08516250fd4c532d801b43b2cccad8]
 
 (1) Section 52 (name and status) of the 2005 Act is modified as follows.
 
@@ -1360,7 +1360,7 @@ The short title of this Act is the Charities (Regulation and Administration) (Sc
 
 (3) The heading of the section becomes “References in SCIO documents”.
 
-### 17. Conversion of charity which is a company or registered society[^key-d4fe3e498f1dd8b33b466cbec9e406a9][^key-243a5663ba64d5caf9e46cb29cd142a5]
+### 17. Conversion of charity which is a company or registered society[^c-d4fe3e498f1dd8b33b466cbec9e406a9][^c-243a5663ba64d5caf9e46cb29cd142a5]
 
 (1) Section 56 (conversion of charity which is a company or registered friendly society: applications) of the 2005 Act is modified as follows.
 
@@ -1368,7 +1368,7 @@ The short title of this Act is the Charities (Regulation and Administration) (Sc
 
 (3) The heading of the section becomes “Conversion of charity which is a company or registered society: applications”.
 
-### 18. Existing powers to make secondary legislation[^key-d3c41e0c0ee26a514b9151a5b2abad4c][^key-15eb8cc68e1909b8ca3474b93c156b67]
+### 18. Existing powers to make secondary legislation[^c-d3c41e0c0ee26a514b9151a5b2abad4c][^c-15eb8cc68e1909b8ca3474b93c156b67]
 
 (1) The 2005 Act is modified as follows.
 
@@ -1400,7 +1400,7 @@ The short title of this Act is the Charities (Regulation and Administration) (Sc
 
   .
 
-### 19. Trustee remuneration[^key-653aeded99edecc4333b1f6bdf6d7a06][^key-663e94337ec0f2173ea03010db2265e0]
+### 19. Trustee remuneration[^c-653aeded99edecc4333b1f6bdf6d7a06][^c-663e94337ec0f2173ea03010db2265e0]
 
 (1) The 2005 Act is modified as follows.
 
@@ -1415,7 +1415,7 @@ The short title of this Act is the Charities (Regulation and Administration) (Sc
 
 (3) In section 68(2)(b) (remuneration: supplementary), after “spouse” insert “or civil partner”.
 
-### 20. Notices[^key-c03621acdd1949e01f3954ab312dc5ba][^key-53d0051a18243f966da1bea86b8510d7]
+### 20. Notices[^c-c03621acdd1949e01f3954ab312dc5ba][^c-53d0051a18243f966da1bea86b8510d7]
 
 (1) Section 100 of the 2005 Act (notices, applications etc.) is modified as follows.
 
@@ -1443,7 +1443,7 @@ The short title of this Act is the Charities (Regulation and Administration) (Sc
 
 .
 
-### 21. Variation of constitution[^key-4862d4713cbb04f038ea9ff9d8288e31][^key-d91890a3c18068e26cd11c66b0c38f57]
+### 21. Variation of constitution[^c-4862d4713cbb04f038ea9ff9d8288e31][^c-d91890a3c18068e26cd11c66b0c38f57]
 
 (1) Section 106 of the 2005 Act (general interpretation) is modified as follows.
 
@@ -1455,184 +1455,184 @@ The short title of this Act is the Charities (Regulation and Administration) (Sc
 
 ## Annotations
 
-[^key-634e6af36a92eba0d225ce41ef8f785c]: Commencement: S. 1 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
+[^c-634e6af36a92eba0d225ce41ef8f785c]: Commencement: S. 1 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
 
-[^key-b4ccefbce0deb99d7d361486cdf81d37]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2023/5/section/1) in force at 1.4.2024 by [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1)
+[^c-b4ccefbce0deb99d7d361486cdf81d37]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2023/5/section/1) in force at 1.4.2024 by [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1)
 
-[^key-350b393c02801c91ac8ef6b85c17d872]: Commencement: S. 2 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
+[^c-350b393c02801c91ac8ef6b85c17d872]: Commencement: S. 2 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
 
-[^key-73cc80ec448dfb80b52da4b6bb2af03e]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2023/5/section/2) in force at 5.3.2026 by [S.S.I. 2026/98](https://www.legislation.gov.uk/ssi/2026/98), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2026/98/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2026/98/regulation/3))
+[^c-73cc80ec448dfb80b52da4b6bb2af03e]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2023/5/section/2) in force at 5.3.2026 by [S.S.I. 2026/98](https://www.legislation.gov.uk/ssi/2026/98), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2026/98/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2026/98/regulation/3))
 
-[^key-df72cb7ed70f78994b9166419e400572]: Commencement: S. 3 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
+[^c-df72cb7ed70f78994b9166419e400572]: Commencement: S. 3 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
 
-[^key-da3035350deca4e99ace0f8221b93ddc]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2023/5/section/3) in force at 30.6.2025 by [S.S.I. 2025/168](https://www.legislation.gov.uk/ssi/2025/168), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/168/regulation/2/1)[(3)](https://www.legislation.gov.uk/ssi/2025/168/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/168/schedule/part/1) (with [reg. 3](https://www.legislation.gov.uk/ssi/2025/168/regulation/3))
+[^c-da3035350deca4e99ace0f8221b93ddc]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2023/5/section/3) in force at 30.6.2025 by [S.S.I. 2025/168](https://www.legislation.gov.uk/ssi/2025/168), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/168/regulation/2/1)[(3)](https://www.legislation.gov.uk/ssi/2025/168/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/168/schedule/part/1) (with [reg. 3](https://www.legislation.gov.uk/ssi/2025/168/regulation/3))
 
-[^key-975b726083c4f71eab431eba18c4764c]: Commencement: S. 4 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
+[^c-975b726083c4f71eab431eba18c4764c]: Commencement: S. 4 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
 
-[^key-66446a507e10ead00683d1ad13390f48]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2023/5/section/4) in force at 30.6.2025 for specified purposes by [S.S.I. 2025/168](https://www.legislation.gov.uk/ssi/2025/168), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/168/regulation/2/1)[(3)](https://www.legislation.gov.uk/ssi/2025/168/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/168/schedule/part/1)
+[^c-66446a507e10ead00683d1ad13390f48]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2023/5/section/4) in force at 30.6.2025 for specified purposes by [S.S.I. 2025/168](https://www.legislation.gov.uk/ssi/2025/168), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/168/regulation/2/1)[(3)](https://www.legislation.gov.uk/ssi/2025/168/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/168/schedule/part/1)
 
-[^key-0e2597347c5823ad6aa5116b1ab7c680]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2023/5/section/4) in force at 31.8.2025 in so far as not already in force by [S.S.I. 2025/168](https://www.legislation.gov.uk/ssi/2025/168), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2025/168/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2025/168/regulation/2/3), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/168/schedule/part/2)
+[^c-0e2597347c5823ad6aa5116b1ab7c680]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2023/5/section/4) in force at 31.8.2025 in so far as not already in force by [S.S.I. 2025/168](https://www.legislation.gov.uk/ssi/2025/168), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2025/168/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2025/168/regulation/2/3), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/168/schedule/part/2)
 
-[^key-e12fbb8064712a11cd2c21de9da3e273]: Commencement: S. 5 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
+[^c-e12fbb8064712a11cd2c21de9da3e273]: Commencement: S. 5 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
 
-[^key-6671a27b8f7d3512f17a820e1b58cd31]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2023/5/section/5) in force at 30.6.2025 for specified purposes by [S.S.I. 2025/168](https://www.legislation.gov.uk/ssi/2025/168), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/168/regulation/2/1)[(3)](https://www.legislation.gov.uk/ssi/2025/168/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/168/schedule/part/1)
+[^c-6671a27b8f7d3512f17a820e1b58cd31]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2023/5/section/5) in force at 30.6.2025 for specified purposes by [S.S.I. 2025/168](https://www.legislation.gov.uk/ssi/2025/168), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/168/regulation/2/1)[(3)](https://www.legislation.gov.uk/ssi/2025/168/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/168/schedule/part/1)
 
-[^key-aa6a70745941d0c78faa754af2e9c09f]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2023/5/section/5) in force at 31.8.2025 in so far as not already in force by [S.S.I. 2025/168](https://www.legislation.gov.uk/ssi/2025/168), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2025/168/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2025/168/regulation/2/3), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/168/schedule/part/2)
+[^c-aa6a70745941d0c78faa754af2e9c09f]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2023/5/section/5) in force at 31.8.2025 in so far as not already in force by [S.S.I. 2025/168](https://www.legislation.gov.uk/ssi/2025/168), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2025/168/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2025/168/regulation/2/3), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/168/schedule/part/2)
 
-[^key-cfa84af5ab6401feb53d84ea42c9fb96]: Commencement: S. 6 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
+[^c-cfa84af5ab6401feb53d84ea42c9fb96]: Commencement: S. 6 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
 
-[^key-7ece7386010fc9f2e4fd78db95b9a4e1]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2023/5/section/6) in force at 30.6.2025 for specified purposes by [S.S.I. 2025/168](https://www.legislation.gov.uk/ssi/2025/168), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/168/regulation/2/1)[(3)](https://www.legislation.gov.uk/ssi/2025/168/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/168/schedule/part/1)
+[^c-7ece7386010fc9f2e4fd78db95b9a4e1]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2023/5/section/6) in force at 30.6.2025 for specified purposes by [S.S.I. 2025/168](https://www.legislation.gov.uk/ssi/2025/168), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/168/regulation/2/1)[(3)](https://www.legislation.gov.uk/ssi/2025/168/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/168/schedule/part/1)
 
-[^key-f7175b3ec084c62d5f7c5c66ee9bfdce]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2023/5/section/6) in force at 31.8.2025 in so far as not already in force by [S.S.I. 2025/168](https://www.legislation.gov.uk/ssi/2025/168), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2025/168/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2025/168/regulation/2/3), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/168/schedule/part/2)
+[^c-f7175b3ec084c62d5f7c5c66ee9bfdce]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2023/5/section/6) in force at 31.8.2025 in so far as not already in force by [S.S.I. 2025/168](https://www.legislation.gov.uk/ssi/2025/168), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2025/168/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2025/168/regulation/2/3), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/168/schedule/part/2)
 
-[^key-a4f3b8cc4751d7a1c6efdfc003135dc0]: Commencement: [S. 6(1)](https://www.legislation.gov.uk/asp/2023/5/section/6/1)[(5)](https://www.legislation.gov.uk/asp/2023/5/section/6/5) in force at 1.4.2024 for specified purposes by [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1)
+[^c-a4f3b8cc4751d7a1c6efdfc003135dc0]: Commencement: [S. 6(1)](https://www.legislation.gov.uk/asp/2023/5/section/6/1)[(5)](https://www.legislation.gov.uk/asp/2023/5/section/6/5) in force at 1.4.2024 for specified purposes by [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1)
 
-[^key-5523e27b0c49e03607395925e13d0ea0]: Commencement: [S. 6(1)](https://www.legislation.gov.uk/asp/2023/5/section/6/1)[(6)](https://www.legislation.gov.uk/asp/2023/5/section/6/6) in force at 1.10.2024 for specified purposes by [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/2), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/2)
+[^c-5523e27b0c49e03607395925e13d0ea0]: Commencement: [S. 6(1)](https://www.legislation.gov.uk/asp/2023/5/section/6/1)[(6)](https://www.legislation.gov.uk/asp/2023/5/section/6/6) in force at 1.10.2024 for specified purposes by [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/2), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/2)
 
-[^key-1795049ca3df74e96fd97efca467a85b]: Commencement: S. 7 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
+[^c-1795049ca3df74e96fd97efca467a85b]: Commencement: S. 7 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
 
-[^key-477fb3ef815ae2cc26faae50abfa1f62]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2023/5/section/7) in force at 1.10.2024 by [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/2), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/2)
+[^c-477fb3ef815ae2cc26faae50abfa1f62]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2023/5/section/7) in force at 1.10.2024 by [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/2), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/2)
 
-[^key-f859b5d8a43f81419672f920a4a247c8]: Commencement: S. 8 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
+[^c-f859b5d8a43f81419672f920a4a247c8]: Commencement: S. 8 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
 
-[^key-5e540893ee57e556a3f1a18da844a37b]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2023/5/section/8) in force at 1.4.2024 by [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/63/regulation/3))
+[^c-5e540893ee57e556a3f1a18da844a37b]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2023/5/section/8) in force at 1.4.2024 by [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/63/regulation/3))
 
-[^key-1423054a7a54e69289246bd1c7598897]: Commencement: S. 9 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
+[^c-1423054a7a54e69289246bd1c7598897]: Commencement: S. 9 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
 
-[^key-88d0084cbe303571e1bf832cc3e608b1]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2023/5/section/9) in force at 1.4.2024 by [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1)
+[^c-88d0084cbe303571e1bf832cc3e608b1]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2023/5/section/9) in force at 1.4.2024 by [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1)
 
-[^key-864a1d6cbcc7c14281943259d295ad93]: Commencement: S. 10 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
+[^c-864a1d6cbcc7c14281943259d295ad93]: Commencement: S. 10 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
 
-[^key-8c2e6eb1167a999a2362e8660202e129]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2023/5/section/10) in force at 5.3.2026 by [S.S.I. 2026/98](https://www.legislation.gov.uk/ssi/2026/98), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2026/98/regulation/2/b)
+[^c-8c2e6eb1167a999a2362e8660202e129]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2023/5/section/10) in force at 5.3.2026 by [S.S.I. 2026/98](https://www.legislation.gov.uk/ssi/2026/98), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2026/98/regulation/2/b)
 
-[^key-e0f1500f908932a385ae7f5315045445]: Commencement: S. 11 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
+[^c-e0f1500f908932a385ae7f5315045445]: Commencement: S. 11 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
 
-[^key-03bd6c6f41b38931c668173c4e27c2c6]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2023/5/section/11) in force at 5.3.2026 by [S.S.I. 2026/98](https://www.legislation.gov.uk/ssi/2026/98), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2026/98/regulation/2/c)
+[^c-03bd6c6f41b38931c668173c4e27c2c6]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2023/5/section/11) in force at 5.3.2026 by [S.S.I. 2026/98](https://www.legislation.gov.uk/ssi/2026/98), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2026/98/regulation/2/c)
 
-[^key-6eb7f6f038d4b6684ad2b975f8b7f445]: Commencement: S. 12 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
+[^c-6eb7f6f038d4b6684ad2b975f8b7f445]: Commencement: S. 12 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
 
-[^key-ef2f135cbdae8de10feb8d218e73acc4]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2023/5/section/12) in force at 1.4.2024 by [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1)
+[^c-ef2f135cbdae8de10feb8d218e73acc4]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2023/5/section/12) in force at 1.4.2024 by [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1)
 
-[^key-45222bda94f59d8947fc3b194f292264]: Commencement: S. 13 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
+[^c-45222bda94f59d8947fc3b194f292264]: Commencement: S. 13 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
 
-[^key-6d1a5347487d03b0257d45854ba1b92d]: Commencement: [S. 13(1)](https://www.legislation.gov.uk/asp/2023/5/section/13/1)[(2)](https://www.legislation.gov.uk/asp/2023/5/section/13/2) in force at 1.4.2024 for specified purposes by [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1)
+[^c-6d1a5347487d03b0257d45854ba1b92d]: Commencement: [S. 13(1)](https://www.legislation.gov.uk/asp/2023/5/section/13/1)[(2)](https://www.legislation.gov.uk/asp/2023/5/section/13/2) in force at 1.4.2024 for specified purposes by [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1)
 
-[^key-5d521549d0460e7edc5513f748acf7e4]: Commencement: [S. 13(1)](https://www.legislation.gov.uk/asp/2023/5/section/13/1)[(2)](https://www.legislation.gov.uk/asp/2023/5/section/13/2) in force at 30.6.2025 in so far as not already in force by [S.S.I. 2025/168](https://www.legislation.gov.uk/ssi/2025/168), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/168/regulation/2/1)[(3)](https://www.legislation.gov.uk/ssi/2025/168/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/168/schedule/part/1) (with [reg. 4](https://www.legislation.gov.uk/ssi/2025/168/regulation/4))
+[^c-5d521549d0460e7edc5513f748acf7e4]: Commencement: [S. 13(1)](https://www.legislation.gov.uk/asp/2023/5/section/13/1)[(2)](https://www.legislation.gov.uk/asp/2023/5/section/13/2) in force at 30.6.2025 in so far as not already in force by [S.S.I. 2025/168](https://www.legislation.gov.uk/ssi/2025/168), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/168/regulation/2/1)[(3)](https://www.legislation.gov.uk/ssi/2025/168/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/168/schedule/part/1) (with [reg. 4](https://www.legislation.gov.uk/ssi/2025/168/regulation/4))
 
-[^key-f740f20060f0aba8170353266d8396bc]: Commencement: [S. 13(3)](https://www.legislation.gov.uk/asp/2023/5/section/13/3) in force at 30.6.2025 by [S.S.I. 2025/168](https://www.legislation.gov.uk/ssi/2025/168), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/168/regulation/2/1)[(3)](https://www.legislation.gov.uk/ssi/2025/168/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/168/schedule/part/1)
+[^c-f740f20060f0aba8170353266d8396bc]: Commencement: [S. 13(3)](https://www.legislation.gov.uk/asp/2023/5/section/13/3) in force at 30.6.2025 by [S.S.I. 2025/168](https://www.legislation.gov.uk/ssi/2025/168), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/168/regulation/2/1)[(3)](https://www.legislation.gov.uk/ssi/2025/168/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/168/schedule/part/1)
 
-[^key-8241a023983962e769c6457f8c55daaf]: Commencement: S. 14 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
+[^c-8241a023983962e769c6457f8c55daaf]: Commencement: S. 14 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
 
-[^key-5f0de4379301bbc629d207fc87e52493]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2023/5/section/14) in force at 1.4.2024 by [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1)
+[^c-5f0de4379301bbc629d207fc87e52493]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2023/5/section/14) in force at 1.4.2024 by [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1)
 
-[^key-f59eba82847b12aa971ed99259fb78f7]: Commencement: S. 15 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
+[^c-f59eba82847b12aa971ed99259fb78f7]: Commencement: S. 15 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
 
-[^key-434dfcb3d12299957ced673505faacb1]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2023/5/section/15) in force at 1.4.2024 by [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1)
+[^c-434dfcb3d12299957ced673505faacb1]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2023/5/section/15) in force at 1.4.2024 by [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1)
 
-[^key-b675c2ef7e1ab7caa56c747fd15340b9]: Commencement: S. 16 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
+[^c-b675c2ef7e1ab7caa56c747fd15340b9]: Commencement: S. 16 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
 
-[^key-33773590ef36f741c237bbeca1253073]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2023/5/section/16) in force at 1.4.2024 by [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1) (with [reg. 7](https://www.legislation.gov.uk/ssi/2024/63/regulation/7))
+[^c-33773590ef36f741c237bbeca1253073]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2023/5/section/16) in force at 1.4.2024 by [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1) (with [reg. 7](https://www.legislation.gov.uk/ssi/2024/63/regulation/7))
 
-[^key-c8ac9c4321e7eff3cb15987b4aa7ac7b]: Commencement: S. 17 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
+[^c-c8ac9c4321e7eff3cb15987b4aa7ac7b]: Commencement: S. 17 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
 
-[^key-afe8ca7716c55ee7058092dd34dc9d58]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2023/5/section/17) in force at 1.4.2024 by [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1) (with [reg. 4](https://www.legislation.gov.uk/ssi/2024/63/regulation/4))
+[^c-afe8ca7716c55ee7058092dd34dc9d58]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2023/5/section/17) in force at 1.4.2024 by [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1) (with [reg. 4](https://www.legislation.gov.uk/ssi/2024/63/regulation/4))
 
-[^key-4ee781ec92bb2ab80ed14748349a27cb]: Commencement: S. 18 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
+[^c-4ee781ec92bb2ab80ed14748349a27cb]: Commencement: S. 18 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
 
-[^key-bbc561308b592b6260756a7df32fad33]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2023/5/section/18) in force at 1.4.2024 by [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1) (with [reg. 5](https://www.legislation.gov.uk/ssi/2024/63/regulation/5))
+[^c-bbc561308b592b6260756a7df32fad33]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2023/5/section/18) in force at 1.4.2024 by [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1) (with [reg. 5](https://www.legislation.gov.uk/ssi/2024/63/regulation/5))
 
-[^key-2a98412bd30b9f6fda75c13cdb4d5cc5]: Commencement: S. 19 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
+[^c-2a98412bd30b9f6fda75c13cdb4d5cc5]: Commencement: S. 19 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
 
-[^key-d2069cb38e9586731ee66422e96977a2]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2023/5/section/19) in force at 1.4.2024 for specified purposes by [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1)
+[^c-d2069cb38e9586731ee66422e96977a2]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2023/5/section/19) in force at 1.4.2024 for specified purposes by [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1)
 
-[^key-9aa41d5afd54fc07d18b5cba8dde1118]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2023/5/section/19) in force at 1.10.2024 in so far as not already in force by [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/2), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/2)
+[^c-9aa41d5afd54fc07d18b5cba8dde1118]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2023/5/section/19) in force at 1.10.2024 in so far as not already in force by [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/2), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/2)
 
-[^key-ae36bfeb33dc519b01a0a7aaf1da5483]: Commencement: S. 20 in force at 10.8.2023, see [s. 21(1)](https://www.legislation.gov.uk/asp/2023/5/section/21/1)
+[^c-ae36bfeb33dc519b01a0a7aaf1da5483]: Commencement: S. 20 in force at 10.8.2023, see [s. 21(1)](https://www.legislation.gov.uk/asp/2023/5/section/21/1)
 
-[^key-ad4755506656e001fbab8f462affe87c]: Commencement: S. 21 in force at 10.8.2023, see [s. 21(1)](https://www.legislation.gov.uk/asp/2023/5/section/21/1)
+[^c-ad4755506656e001fbab8f462affe87c]: Commencement: S. 21 in force at 10.8.2023, see [s. 21(1)](https://www.legislation.gov.uk/asp/2023/5/section/21/1)
 
-[^key-9c609447598df0c0d7296e7c46665dd8]: Commencement: S. 22 in force at 10.8.2023, see [s. 21(1)](https://www.legislation.gov.uk/asp/2023/5/section/21/1)
+[^c-9c609447598df0c0d7296e7c46665dd8]: Commencement: S. 22 in force at 10.8.2023, see [s. 21(1)](https://www.legislation.gov.uk/asp/2023/5/section/21/1)
 
-[^key-7edcfa5dab290a5047ec5596f3f01e14]: Commencement: Sch. para. 1 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
+[^c-7edcfa5dab290a5047ec5596f3f01e14]: Commencement: Sch. para. 1 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
 
-[^key-1be82acf3382001c5817db1d6e5f27e8]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/asp/2023/5/schedule/paragraph/1) in force at 1.10.2024 by [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/2), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/2)
+[^c-1be82acf3382001c5817db1d6e5f27e8]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/asp/2023/5/schedule/paragraph/1) in force at 1.10.2024 by [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/2), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/2)
 
-[^key-48fa201812f69c99cf522b3e3c008dbf]: Commencement: Sch. para. 2 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
+[^c-48fa201812f69c99cf522b3e3c008dbf]: Commencement: Sch. para. 2 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
 
-[^key-7c2bb2844f82f274fb80212e709315a0]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/asp/2023/5/schedule/paragraph/2) in force at 1.4.2024 by [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1)
+[^c-7c2bb2844f82f274fb80212e709315a0]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/asp/2023/5/schedule/paragraph/2) in force at 1.4.2024 by [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1)
 
-[^key-cdc1e76bb845abe3bbb3c88c3bbd7ffa]: Commencement: Sch. para. 3 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
+[^c-cdc1e76bb845abe3bbb3c88c3bbd7ffa]: Commencement: Sch. para. 3 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
 
-[^key-338cc8fd6fc2a7b47e5f546773ff1532]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/asp/2023/5/schedule/paragraph/3) in force at 1.4.2024 by [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1)
+[^c-338cc8fd6fc2a7b47e5f546773ff1532]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/asp/2023/5/schedule/paragraph/3) in force at 1.4.2024 by [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1)
 
-[^key-7153650a09fc7875751bf8bb4789349d]: Commencement: Sch. para. 4 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
+[^c-7153650a09fc7875751bf8bb4789349d]: Commencement: Sch. para. 4 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
 
-[^key-b0fd05b160bc81ea0c3f69c097472dea]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/asp/2023/5/schedule/paragraph/4) in force at 1.4.2024 by [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1)
+[^c-b0fd05b160bc81ea0c3f69c097472dea]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/asp/2023/5/schedule/paragraph/4) in force at 1.4.2024 by [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1)
 
-[^key-b900300ce7c51c1149d8134bbfb71f3f]: Commencement: Sch. para. 5 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
+[^c-b900300ce7c51c1149d8134bbfb71f3f]: Commencement: Sch. para. 5 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
 
-[^key-ba60b4a6e2a4961184b2a3dcbe4ca190]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/asp/2023/5/schedule/paragraph/5) in force at 1.4.2024 by [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1) (with [reg. 6](https://www.legislation.gov.uk/ssi/2024/63/regulation/6))
+[^c-ba60b4a6e2a4961184b2a3dcbe4ca190]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/asp/2023/5/schedule/paragraph/5) in force at 1.4.2024 by [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1) (with [reg. 6](https://www.legislation.gov.uk/ssi/2024/63/regulation/6))
 
-[^key-9add76182d375f54c18665229cf48ac8]: Commencement: Sch. para. 6 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
+[^c-9add76182d375f54c18665229cf48ac8]: Commencement: Sch. para. 6 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
 
-[^key-dae198c6c2f335523a79ed3dcd9597f4]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/asp/2023/5/schedule/paragraph/6) in force at 1.4.2024 by [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1)
+[^c-dae198c6c2f335523a79ed3dcd9597f4]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/asp/2023/5/schedule/paragraph/6) in force at 1.4.2024 by [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1)
 
-[^key-49df9c1dff20b40fdab244076503af02]: Commencement: Sch. para. 7 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
+[^c-49df9c1dff20b40fdab244076503af02]: Commencement: Sch. para. 7 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
 
-[^key-8ec2b41aa8698f3620f39483a1d2d6dc]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/asp/2023/5/schedule/paragraph/7) in force at 1.4.2024 by [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1)
+[^c-8ec2b41aa8698f3620f39483a1d2d6dc]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/asp/2023/5/schedule/paragraph/7) in force at 1.4.2024 by [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1)
 
-[^key-458588fd3cb1cd017d2ee275fe1928cd]: Commencement: Sch. para. 8 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
+[^c-458588fd3cb1cd017d2ee275fe1928cd]: Commencement: Sch. para. 8 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
 
-[^key-b57d64e526d83658f638572457313bde]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/asp/2023/5/schedule/paragraph/8) in force at 1.4.2024 by [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1)
+[^c-b57d64e526d83658f638572457313bde]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/asp/2023/5/schedule/paragraph/8) in force at 1.4.2024 by [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1)
 
-[^key-4c8bcb114dc943f367eb8a7381dee86e]: Commencement: Sch. para. 9 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
+[^c-4c8bcb114dc943f367eb8a7381dee86e]: Commencement: Sch. para. 9 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
 
-[^key-4204d0d1ff0cf045035de6515b42449b]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/asp/2023/5/schedule/paragraph/9) in force at 1.4.2024 by [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1)
+[^c-4204d0d1ff0cf045035de6515b42449b]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/asp/2023/5/schedule/paragraph/9) in force at 1.4.2024 by [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1)
 
-[^key-cb2f1e2cfd3fc307fa0fca740e766a4c]: Commencement: Sch. para. 10 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
+[^c-cb2f1e2cfd3fc307fa0fca740e766a4c]: Commencement: Sch. para. 10 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
 
-[^key-7335475b43388be1c3e1f4f87d775a01]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/asp/2023/5/schedule/paragraph/10) in force at 1.4.2024 by [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1) (with [reg. 8](https://www.legislation.gov.uk/ssi/2024/63/regulation/8))
+[^c-7335475b43388be1c3e1f4f87d775a01]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/asp/2023/5/schedule/paragraph/10) in force at 1.4.2024 by [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1) (with [reg. 8](https://www.legislation.gov.uk/ssi/2024/63/regulation/8))
 
-[^key-1d8870606c5dcc9eac26d92db8cee0ad]: Commencement: Sch. para. 11 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
+[^c-1d8870606c5dcc9eac26d92db8cee0ad]: Commencement: Sch. para. 11 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
 
-[^key-7e216090901e7d83458e48856e00b5cc]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/asp/2023/5/schedule/paragraph/11) in force at 1.4.2024 by [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1)
+[^c-7e216090901e7d83458e48856e00b5cc]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/asp/2023/5/schedule/paragraph/11) in force at 1.4.2024 by [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1)
 
-[^key-a7ac67ef4944019304da7c78ddb80fca]: Commencement: Sch. para. 12 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
+[^c-a7ac67ef4944019304da7c78ddb80fca]: Commencement: Sch. para. 12 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
 
-[^key-025c069e6243ad0bd6f77d99e562a7ae]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/asp/2023/5/schedule/paragraph/12) in force at 1.4.2024 by [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1)
+[^c-025c069e6243ad0bd6f77d99e562a7ae]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/asp/2023/5/schedule/paragraph/12) in force at 1.4.2024 by [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1)
 
-[^key-14388cbdd076672cb90a81f2819a790f]: Commencement: Sch. para. 13 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
+[^c-14388cbdd076672cb90a81f2819a790f]: Commencement: Sch. para. 13 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
 
-[^key-d0ef580bd279f6a0a65592c1e7d84d75]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/asp/2023/5/schedule/paragraph/13) in force at 1.4.2024 by [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1)
+[^c-d0ef580bd279f6a0a65592c1e7d84d75]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/asp/2023/5/schedule/paragraph/13) in force at 1.4.2024 by [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1)
 
-[^key-bf46c5f99a170aee29c2a75adaf4e41a]: Commencement: Sch. para. 14 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
+[^c-bf46c5f99a170aee29c2a75adaf4e41a]: Commencement: Sch. para. 14 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
 
-[^key-b952a2a248f3c728a7f2ccfb93f57114]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/asp/2023/5/schedule/paragraph/14) in force at 1.4.2024 by [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1)
+[^c-b952a2a248f3c728a7f2ccfb93f57114]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/asp/2023/5/schedule/paragraph/14) in force at 1.4.2024 by [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1)
 
-[^key-37e8a641982cf00ec2069df033e7186e]: Commencement: Sch. para. 15 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
+[^c-37e8a641982cf00ec2069df033e7186e]: Commencement: Sch. para. 15 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
 
-[^key-fe1d00349693b8380c83422c14f04906]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/asp/2023/5/schedule/paragraph/15) in force at 1.4.2024 by [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1)
+[^c-fe1d00349693b8380c83422c14f04906]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/asp/2023/5/schedule/paragraph/15) in force at 1.4.2024 by [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1)
 
-[^key-cfa3c5fae8b268cfc993d7d55fb222b0]: Commencement: Sch. para. 16 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
+[^c-cfa3c5fae8b268cfc993d7d55fb222b0]: Commencement: Sch. para. 16 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
 
-[^key-1a08516250fd4c532d801b43b2cccad8]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/asp/2023/5/schedule/paragraph/16) in force at 1.4.2024 by [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1)
+[^c-1a08516250fd4c532d801b43b2cccad8]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/asp/2023/5/schedule/paragraph/16) in force at 1.4.2024 by [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1)
 
-[^key-d4fe3e498f1dd8b33b466cbec9e406a9]: Commencement: Sch. para. 17 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
+[^c-d4fe3e498f1dd8b33b466cbec9e406a9]: Commencement: Sch. para. 17 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
 
-[^key-243a5663ba64d5caf9e46cb29cd142a5]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/asp/2023/5/schedule/paragraph/17) in force at 1.4.2024 by [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1)
+[^c-243a5663ba64d5caf9e46cb29cd142a5]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/asp/2023/5/schedule/paragraph/17) in force at 1.4.2024 by [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1)
 
-[^key-d3c41e0c0ee26a514b9151a5b2abad4c]: Commencement: Sch. para. 18 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
+[^c-d3c41e0c0ee26a514b9151a5b2abad4c]: Commencement: Sch. para. 18 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
 
-[^key-15eb8cc68e1909b8ca3474b93c156b67]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/asp/2023/5/schedule/paragraph/18) in force at 1.4.2024 by [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1)
+[^c-15eb8cc68e1909b8ca3474b93c156b67]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/asp/2023/5/schedule/paragraph/18) in force at 1.4.2024 by [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1)
 
-[^key-653aeded99edecc4333b1f6bdf6d7a06]: Commencement: Sch. para. 19 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
+[^c-653aeded99edecc4333b1f6bdf6d7a06]: Commencement: Sch. para. 19 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
 
-[^key-663e94337ec0f2173ea03010db2265e0]: Commencement: [Sch. para. 19](https://www.legislation.gov.uk/asp/2023/5/schedule/paragraph/19) in force at 1.4.2024 by [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1)
+[^c-663e94337ec0f2173ea03010db2265e0]: Commencement: [Sch. para. 19](https://www.legislation.gov.uk/asp/2023/5/schedule/paragraph/19) in force at 1.4.2024 by [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1)
 
-[^key-c03621acdd1949e01f3954ab312dc5ba]: Commencement: Sch. para. 20 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
+[^c-c03621acdd1949e01f3954ab312dc5ba]: Commencement: Sch. para. 20 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
 
-[^key-53d0051a18243f966da1bea86b8510d7]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/asp/2023/5/schedule/paragraph/20) in force at 1.4.2024 by [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1)
+[^c-53d0051a18243f966da1bea86b8510d7]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/asp/2023/5/schedule/paragraph/20) in force at 1.4.2024 by [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1)
 
-[^key-4862d4713cbb04f038ea9ff9d8288e31]: Commencement: Sch. para. 21 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
+[^c-4862d4713cbb04f038ea9ff9d8288e31]: Commencement: Sch. para. 21 not in force at Royal Assent, see [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2)
 
-[^key-d91890a3c18068e26cd11c66b0c38f57]: Commencement: [Sch. para. 21](https://www.legislation.gov.uk/asp/2023/5/schedule/paragraph/21) in force at 1.4.2024 by [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1)
+[^c-d91890a3c18068e26cd11c66b0c38f57]: Commencement: [Sch. para. 21](https://www.legislation.gov.uk/asp/2023/5/schedule/paragraph/21) in force at 1.4.2024 by [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1)

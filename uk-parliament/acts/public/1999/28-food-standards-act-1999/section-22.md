@@ -27,7 +27,7 @@ summary: ''
 - (a) securing that its activities are the subject of consultation with, or with representatives of, those affected and, where appropriate, with members of the public;
 - (b) promoting links with any of the following authorities with responsibilities affecting food safety or other interests of consumers in relation to food, namely—
   - (i) government departments, local authorities and other public authorities;
-  - (ii) the the Welsh Assembly Government[^key-5823984394a6b4076da638200eeb38e2], the Scottish Administration and Northern Ireland Departments;
+  - (ii) the the Welsh Assembly Government[^c-5823984394a6b4076da638200eeb38e2], the Scottish Administration and Northern Ireland Departments;
 
   with a view to securing that the Agency is consulted informally from time to time about the general manner in which any such responsibilities are discharged;
 - (c) securing that records of its decisions, and the information on which they are based, are kept and made available with a view to enabling members of the public to make informed judgments about the way in which it is carrying out its functions,
@@ -51,4 +51,4 @@ and any other objectives (which may include more specific objectives relating to
 
 ## Annotations
 
-[^key-5823984394a6b4076da638200eeb38e2]: Textual amendment: Words in [s. 22(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/1999/28/section/22/2/b/ii) substituted (25.5.2007) by [Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388)](https://www.legislation.gov.uk/uksi/2007/1388), [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/1388/article/1/2), [Sch. 1 para. 66](https://www.legislation.gov.uk/uksi/2007/1388/schedule/1/paragraph/66)
+[^c-5823984394a6b4076da638200eeb38e2]: Textual amendment: Words in [s. 22(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/1999/28/section/22/2/b/ii) substituted (25.5.2007) by [Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388)](https://www.legislation.gov.uk/uksi/2007/1388), [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/1388/article/1/2), [Sch. 1 para. 66](https://www.legislation.gov.uk/uksi/2007/1388/schedule/1/paragraph/66)

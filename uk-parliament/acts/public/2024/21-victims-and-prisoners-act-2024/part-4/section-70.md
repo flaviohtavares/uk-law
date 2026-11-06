@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Section 3 of the Human Rights Act 1998: fixed-term prisoners[^key-713c6ac9b72b5012314e016ad2a19c5c]
+## 70. Section 3 of the Human Rights Act 1998: fixed-term prisoners[^c-713c6ac9b72b5012314e016ad2a19c5c]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ In Chapter 6 of Part 12 of the Criminal Justice Act 2003 (release, licences, sup
 
 ## Annotations
 
-[^key-713c6ac9b72b5012314e016ad2a19c5c]: Commencement: S. 70 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
+[^c-713c6ac9b72b5012314e016ad2a19c5c]: Commencement: S. 70 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)

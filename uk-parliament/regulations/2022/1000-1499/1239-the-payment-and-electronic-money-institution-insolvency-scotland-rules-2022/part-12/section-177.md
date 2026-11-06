@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 177. Contents of notices to be gazetted[^key-5f0f9f7d0493430265b7c42c2972ef4c]
+## 177. Contents of notices to be gazetted[^c-5f0f9f7d0493430265b7c42c2972ef4c]
 
 *Extent: S*
 
-(1) Subject to rule 178, where under the Regulations or these Rules a notice is gazetted, in addition to any content specifically required by the Regulations or any other provision of these Rules, the content of such a notice must be as set out in paragraphs (2) and (3)[^key-d413bbf76ae2e235ac826ae66817cc7a].
+(1) Subject to rule 178, where under the Regulations or these Rules a notice is gazetted, in addition to any content specifically required by the Regulations or any other provision of these Rules, the content of such a notice must be as set out in paragraphs (2) and (3)[^c-d413bbf76ae2e235ac826ae66817cc7a].
 
 (2) All gazetted notices must specify insofar as it is applicable in relation to the particular notice—
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5f0f9f7d0493430265b7c42c2972ef4c]: Commencement: Rule 177 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-5f0f9f7d0493430265b7c42c2972ef4c]: Commencement: Rule 177 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
 
-[^key-d413bbf76ae2e235ac826ae66817cc7a]: Textual amendment: Words in [rule 177(1)](https://www.legislation.gov.uk/uksi/2022/1239/rule/177/1) substituted (26.2.2025) by [The Payment and Electronic Money Institution Insolvency (Scotland) (Amendment) Rules 2025 (S.I. 2025/110)](https://www.legislation.gov.uk/uksi/2025/110), [rules 2](https://www.legislation.gov.uk/uksi/2025/110/rule/2), [4(15)](https://www.legislation.gov.uk/uksi/2025/110/rule/4/15)
+[^c-d413bbf76ae2e235ac826ae66817cc7a]: Textual amendment: Words in [rule 177(1)](https://www.legislation.gov.uk/uksi/2022/1239/rule/177/1) substituted (26.2.2025) by [The Payment and Electronic Money Institution Insolvency (Scotland) (Amendment) Rules 2025 (S.I. 2025/110)](https://www.legislation.gov.uk/uksi/2025/110), [rules 2](https://www.legislation.gov.uk/uksi/2025/110/rule/2), [4(15)](https://www.legislation.gov.uk/uksi/2025/110/rule/4/15)

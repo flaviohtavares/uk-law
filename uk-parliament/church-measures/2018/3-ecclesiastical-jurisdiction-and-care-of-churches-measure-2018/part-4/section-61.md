@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 61. Vesting of privately owned parts of church[^key-d0e2273b91fb151639a68e7b670a183e]
+## 61. Vesting of privately owned parts of church[^c-d0e2273b91fb151639a68e7b670a183e]
 
 *Extent: E*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d0e2273b91fb151639a68e7b670a183e]: Commencement: [S. 61](https://www.legislation.gov.uk/ukcm/2018/3/section/61) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-d0e2273b91fb151639a68e7b670a183e]: Commencement: [S. 61](https://www.legislation.gov.uk/ukcm/2018/3/section/61) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 55. Amendment of local legislation[^key-3073fcdf6578e1232e8a056042ef94a3]
+## 55. Amendment of local legislation[^c-3073fcdf6578e1232e8a056042ef94a3]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3073fcdf6578e1232e8a056042ef94a3]: Commencement: Art. 55 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-3073fcdf6578e1232e8a056042ef94a3]: Commencement: Art. 55 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)

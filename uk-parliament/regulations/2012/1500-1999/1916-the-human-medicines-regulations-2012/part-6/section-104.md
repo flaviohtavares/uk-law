@@ -42,7 +42,7 @@ summary: ''
 
 (6) An application to which paragraph (5) applies is to be determined by the licensing authority in accordance with Chapter 4 of Title III of the 2001 Directive.
 
-(7)[^key-da6124738f246c50f263d67d295f864b] In the case of an application under the unfettered access route, the licensing authority may grant a COR(GB) (notwithstanding paragraph (3)) where the licensing authority—
+(7)[^c-da6124738f246c50f263d67d295f864b] In the case of an application under the unfettered access route, the licensing authority may grant a COR(GB) (notwithstanding paragraph (3)) where the licensing authority—
 
 - (a) has considered the application under the unfettered access route and the accompanying material,
 - (b) is satisfied that the applicant has complied with the application requirements, and
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-da6124738f246c50f263d67d295f864b]: Textual amendment: Reg. 104(7)(8) inserted (31.12.20200 by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [reg. 100(2)](https://www.legislation.gov.uk/uksi/2019/775/regulation/100/2) (as substituted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 77](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/77))
+[^c-da6124738f246c50f263d67d295f864b]: Textual amendment: Reg. 104(7)(8) inserted (31.12.20200 by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [reg. 100(2)](https://www.legislation.gov.uk/uksi/2019/775/regulation/100/2) (as substituted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 77](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/77))

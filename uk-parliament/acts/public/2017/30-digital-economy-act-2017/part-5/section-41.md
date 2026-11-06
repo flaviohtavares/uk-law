@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Confidentiality of personal information[^key-0730db0a36e3cf1ae21d0ef5283561da][^key-3659428999ad65ff9d3eb8131ca81866][^key-f6347ac9aa53f8a75e052bdbd9443a0c][^key-714d05f3bcd825736e772d7cfdd22463]
+## 41. Confidentiality of personal information[^c-0730db0a36e3cf1ae21d0ef5283561da][^c-3659428999ad65ff9d3eb8131ca81866][^c-f6347ac9aa53f8a75e052bdbd9443a0c][^c-714d05f3bcd825736e772d7cfdd22463]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,26 +58,26 @@ summary: ''
 
 (6) A person who is guilty of an offence under subsection (4) is liable on summary conviction—
 
-- (a) in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-f22002e769588fb186aa6a26e9949c24], to a fine or to both;
+- (a) in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^c-f22002e769588fb186aa6a26e9949c24], to a fine or to both;
 - (b) in Scotland, to imprisonment for a term not exceeding 12 months, to a fine not exceeding the statutory maximum or to both;
 - (c) in Northern Ireland, to imprisonment for a term not exceeding 6 months, to a fine not exceeding the statutory maximum or to both.
 
-(7) In the application of subsection (6)(a) to an offence committed before 2 May 2022[^key-01d9a86c8859476465684e576bbe70c5] the reference to the general limit in a magistrates’ court[^key-2fa298199e7fdfde0b3d66e697d675fc] is to be read as a reference to 6 months.
+(7) In the application of subsection (6)(a) to an offence committed before 2 May 2022[^c-01d9a86c8859476465684e576bbe70c5] the reference to the general limit in a magistrates’ court[^c-2fa298199e7fdfde0b3d66e697d675fc] is to be read as a reference to 6 months.
 
 (8) This section does not apply to personal information disclosed under section 35, 36 or 38 by the Revenue and Customs.
 
 ## Annotations
 
-[^key-0730db0a36e3cf1ae21d0ef5283561da]: Commencement: S. 41 in force at 1.4.2018 for specified purposes by [S.I. 2018/342](https://www.legislation.gov.uk/wsi/2018/342), [reg. 3(1)(e)](https://www.legislation.gov.uk/wsi/2018/342/regulation/3/1/e)
+[^c-0730db0a36e3cf1ae21d0ef5283561da]: Commencement: S. 41 in force at 1.4.2018 for specified purposes by [S.I. 2018/342](https://www.legislation.gov.uk/wsi/2018/342), [reg. 3(1)(e)](https://www.legislation.gov.uk/wsi/2018/342/regulation/3/1/e)
 
-[^key-3659428999ad65ff9d3eb8131ca81866]: Commencement: S. 41 in force at 1.5.2018 for E.W.S. in so far as not already in force by [S.I. 2018/382](https://www.legislation.gov.uk/uksi/2018/382), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2018/382/regulation/3/g)
+[^c-3659428999ad65ff9d3eb8131ca81866]: Commencement: S. 41 in force at 1.5.2018 for E.W.S. in so far as not already in force by [S.I. 2018/382](https://www.legislation.gov.uk/uksi/2018/382), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2018/382/regulation/3/g)
 
-[^key-f6347ac9aa53f8a75e052bdbd9443a0c]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2017/30/section/41) in force at 12.2.2026 for N.I. by [S.I. 2026/126](https://www.legislation.gov.uk/uksi/2026/126), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/126/regulation/2/c)
+[^c-f6347ac9aa53f8a75e052bdbd9443a0c]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2017/30/section/41) in force at 12.2.2026 for N.I. by [S.I. 2026/126](https://www.legislation.gov.uk/uksi/2026/126), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/126/regulation/2/c)
 
-[^key-714d05f3bcd825736e772d7cfdd22463]: Modification: Pt. 5 Ch. 1: functions made exercisable concurrently (30.9.2020) by [The Transfer of Functions (Digital Government) Order 2020 (S.I. 2020/940)](https://www.legislation.gov.uk/uksi/2020/940), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/940/article/1/2), [2](https://www.legislation.gov.uk/uksi/2020/940/article/2) (with [art. 5](https://www.legislation.gov.uk/uksi/2020/940/article/5))
+[^c-714d05f3bcd825736e772d7cfdd22463]: Modification: Pt. 5 Ch. 1: functions made exercisable concurrently (30.9.2020) by [The Transfer of Functions (Digital Government) Order 2020 (S.I. 2020/940)](https://www.legislation.gov.uk/uksi/2020/940), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/940/article/1/2), [2](https://www.legislation.gov.uk/uksi/2020/940/article/2) (with [art. 5](https://www.legislation.gov.uk/uksi/2020/940/article/5))
 
-[^key-f22002e769588fb186aa6a26e9949c24]: Textual amendment: Words in [s. 41(6)(a)](https://www.legislation.gov.uk/ukpga/2017/30/section/41/6/a) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+[^c-f22002e769588fb186aa6a26e9949c24]: Textual amendment: Words in [s. 41(6)(a)](https://www.legislation.gov.uk/ukpga/2017/30/section/41/6/a) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
 
-[^key-01d9a86c8859476465684e576bbe70c5]: Textual amendment: Words in [s. 41(7)](https://www.legislation.gov.uk/ukpga/2017/30/section/41/7) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
+[^c-01d9a86c8859476465684e576bbe70c5]: Textual amendment: Words in [s. 41(7)](https://www.legislation.gov.uk/ukpga/2017/30/section/41/7) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
 
-[^key-2fa298199e7fdfde0b3d66e697d675fc]: Textual amendment: Words in [s. 41(7)](https://www.legislation.gov.uk/ukpga/2017/30/section/41/7) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+[^c-2fa298199e7fdfde0b3d66e697d675fc]: Textual amendment: Words in [s. 41(7)](https://www.legislation.gov.uk/ukpga/2017/30/section/41/7) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)

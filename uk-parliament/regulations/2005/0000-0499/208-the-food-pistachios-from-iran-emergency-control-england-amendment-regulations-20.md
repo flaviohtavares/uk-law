@@ -46,11 +46,11 @@ Coming into force
 
 The Secretary of State, being a Minister designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to measures relating to food (including drink) including the primary production of food, in exercise of the powers conferred on him by that section, makes the following Regulations:
 
-## 1. Title and commencement[^key-c457200b35bf2f1381985ee17f109729]
+## 1. Title and commencement[^c-c457200b35bf2f1381985ee17f109729]
 
 These Regulations may be cited as the Food (Pistachios from Iran) (Emergency Control) (England) (Amendment) Regulations 2005 and shall come into force on 7th February 2005.
 
-## 2. Amendments to the Food (Pistachios from Iran) (Emergency Control) (England) Regulations 2003[^key-1398b65ce8c927589eb62c9723235dd0]
+## 2. Amendments to the Food (Pistachios from Iran) (Emergency Control) (England) Regulations 2003[^c-1398b65ce8c927589eb62c9723235dd0]
 
 (1) The Food (Pistachios from Iran) (Emergency Control) (England) Regulations 2003[^f00003] shall be amended in accordance with paragraphs (2) to (5).
 
@@ -157,9 +157,9 @@ Department of Health
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-c457200b35bf2f1381985ee17f109729]: Commencement: Reg. 1 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/208/regulation/1)
+[^c-c457200b35bf2f1381985ee17f109729]: Commencement: Reg. 1 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/208/regulation/1)
 
-[^key-1398b65ce8c927589eb62c9723235dd0]: Commencement: Reg. 2 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/208/regulation/1)
+[^c-1398b65ce8c927589eb62c9723235dd0]: Commencement: Reg. 2 in force at 7.2.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/208/regulation/1)
 
 [^f00003]: Footnote: [S.I. 2003/1956](https://www.legislation.gov.uk/uksi/2003/1956), amended by [S.I. 2004/1265](https://www.legislation.gov.uk/uksi/2004/1265).
 

@@ -22,14 +22,14 @@ summary: ''
 
 (1) A dispensing doctor (D) who—
 
-- (a) is providing pharmaceutical services at or[^key-fba8c84c06b5e77895cbf633489e0d95] from listed dispensing premises; and
+- (a) is providing pharmaceutical services at or[^c-fba8c84c06b5e77895cbf633489e0d95] from listed dispensing premises; and
 - (b) wishes to relocate and dispense from new medical practice premises in relation to the area for which D has outline consent,
 
-may apply in writing to NHS England[^key-fedf3951d93bcf656ad03378f887d7d5] for premises approval for the new medical practice premises at or[^key-5992b0ddb2ebb5e5e371060b4fbde3f0] from which D wishes to dispense.
+may apply in writing to NHS England[^c-fedf3951d93bcf656ad03378f887d7d5] for premises approval for the new medical practice premises at or[^c-5992b0ddb2ebb5e5e371060b4fbde3f0] from which D wishes to dispense.
 
 (2) Subject to paragraph (3), NHS England must grant that application if it is of the type described in this paragraph, that is to say if NHS England is satisfied that—
 
-- (a) for the patient groups that are accustomed to accessing pharmaceutical services at or from[^key-d507c354d04b5da1aaf649ab0bb96e31] the existing premises, the location of the new premises is not significantly less accessible;
+- (a) for the patient groups that are accustomed to accessing pharmaceutical services at or from[^c-d507c354d04b5da1aaf649ab0bb96e31] the existing premises, the location of the new premises is not significantly less accessible;
 - (b) granting the application would not result in a significant change to the arrangements that are in place for the provision of pharmaceutical services (including by a person on a dispensing doctor list) or of local pharmaceutical services—
   - (i) in any part of the area of the relevant HWB, or
   - (ii) in a controlled locality in the area of a neighbouring HWB, where that controlled locality is within 1.6 kilometres of the premises to which the applicant is seeking to relocate; and
@@ -50,12 +50,12 @@ has been granted to D during the 12 months before the application was submitted 
 
 ## Annotations
 
-[^key-fba8c84c06b5e77895cbf633489e0d95]: Textual amendment: Words in [reg. 55(1)(a)](https://www.legislation.gov.uk/uksi/2013/349/regulation/55/1/a) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [35(2)(a)](https://www.legislation.gov.uk/uksi/2025/989/regulation/35/2/a)
+[^c-fba8c84c06b5e77895cbf633489e0d95]: Textual amendment: Words in [reg. 55(1)(a)](https://www.legislation.gov.uk/uksi/2013/349/regulation/55/1/a) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [35(2)(a)](https://www.legislation.gov.uk/uksi/2025/989/regulation/35/2/a)
 
-[^key-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
-[^key-5992b0ddb2ebb5e5e371060b4fbde3f0]: Textual amendment: Words in [reg. 55(1)](https://www.legislation.gov.uk/uksi/2013/349/regulation/55/1) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [35(2)(b)](https://www.legislation.gov.uk/uksi/2025/989/regulation/35/2/b)
+[^c-5992b0ddb2ebb5e5e371060b4fbde3f0]: Textual amendment: Words in [reg. 55(1)](https://www.legislation.gov.uk/uksi/2013/349/regulation/55/1) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [35(2)(b)](https://www.legislation.gov.uk/uksi/2025/989/regulation/35/2/b)
 
-[^key-d507c354d04b5da1aaf649ab0bb96e31]: Textual amendment: Words in [reg. 55(2)(a)](https://www.legislation.gov.uk/uksi/2013/349/regulation/55/2/a) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [35(3)](https://www.legislation.gov.uk/uksi/2025/989/regulation/35/3)
+[^c-d507c354d04b5da1aaf649ab0bb96e31]: Textual amendment: Words in [reg. 55(2)(a)](https://www.legislation.gov.uk/uksi/2013/349/regulation/55/2/a) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [35(3)](https://www.legislation.gov.uk/uksi/2025/989/regulation/35/3)
 
 [^c21646911]: Marginal citation: Prior to its revocation, regulation 65 was amended by [S.I. 2006/3373](https://www.legislation.gov.uk/uksi/2006/3373).

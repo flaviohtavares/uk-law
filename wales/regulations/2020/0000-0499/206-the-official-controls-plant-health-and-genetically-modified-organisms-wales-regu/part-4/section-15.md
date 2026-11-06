@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Notices in relation to controlled plant pests or prohibited material[^key-cdbf480de226de135d6f4c131975eec6]
+## 15. Notices in relation to controlled plant pests or prohibited material[^c-cdbf480de226de135d6f4c131975eec6]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cdbf480de226de135d6f4c131975eec6]: Commencement: Reg. 15 in force at 27.3.2020, see reg. 1
+[^c-cdbf480de226de135d6f4c131975eec6]: Commencement: Reg. 15 in force at 27.3.2020, see reg. 1

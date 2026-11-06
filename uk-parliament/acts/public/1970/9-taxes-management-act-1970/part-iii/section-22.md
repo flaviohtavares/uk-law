@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Additional particulars for surtax.[^key-56d60502258c9295abf46e502b2ebc41]
+## 22. Additional particulars for surtax.[^c-56d60502258c9295abf46e502b2ebc41]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-56d60502258c9295abf46e502b2ebc41]: Textual amendment: S. 22 omitted (13.8.2009) by virtue of [The Finance Act 2009, Schedule 47 (Consequential Amendments) Order 2009 (S.I. 2009/2035)](https://www.legislation.gov.uk/uksi/2009/2035), [art. 1](https://www.legislation.gov.uk/uksi/2009/2035/article/1), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2009/2035/schedule/paragraph/5)
+[^c-56d60502258c9295abf46e502b2ebc41]: Textual amendment: S. 22 omitted (13.8.2009) by virtue of [The Finance Act 2009, Schedule 47 (Consequential Amendments) Order 2009 (S.I. 2009/2035)](https://www.legislation.gov.uk/uksi/2009/2035), [art. 1](https://www.legislation.gov.uk/uksi/2009/2035/article/1), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2009/2035/schedule/paragraph/5)

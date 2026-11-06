@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. NCA officers with operational powers: pay and allowances[^key-f1b2a9fe4075da20a22d74abccc882c9]
+## 14. NCA officers with operational powers: pay and allowances[^c-f1b2a9fe4075da20a22d74abccc882c9]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f1b2a9fe4075da20a22d74abccc882c9]: Commencement: S. 14 in force at 8.5.2013 by [S.I. 2013/1042](https://www.legislation.gov.uk/uksi/2013/1042), [art. 2(f)](https://www.legislation.gov.uk/uksi/2013/1042/article/2/f)
+[^c-f1b2a9fe4075da20a22d74abccc882c9]: Commencement: S. 14 in force at 8.5.2013 by [S.I. 2013/1042](https://www.legislation.gov.uk/uksi/2013/1042), [art. 2(f)](https://www.legislation.gov.uk/uksi/2013/1042/article/2/f)

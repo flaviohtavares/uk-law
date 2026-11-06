@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Notice of overseas residence[^key-f0fad16fe9246bae076174866527df11]
+## 72. Notice of overseas residence[^c-f0fad16fe9246bae076174866527df11]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f0fad16fe9246bae076174866527df11]: Commencement: [Reg. 72](https://www.legislation.gov.uk/uksi/2009/470/regulation/72) in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/1)
+[^c-f0fad16fe9246bae076174866527df11]: Commencement: [Reg. 72](https://www.legislation.gov.uk/uksi/2009/470/regulation/72) in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/1)

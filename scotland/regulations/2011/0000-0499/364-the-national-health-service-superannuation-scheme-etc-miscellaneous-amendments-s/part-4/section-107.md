@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 107. Amendment of regulation 12[^key-da3287adfb7de8293e30745c6790fb37]
+## 107. Amendment of regulation 12[^c-da3287adfb7de8293e30745c6790fb37]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ In regulation 12 (incidental provisions), in paragraph (3), for “superannuatio
 
 ## Annotations
 
-[^key-da3287adfb7de8293e30745c6790fb37]: Commencement: [Reg. 107](https://www.legislation.gov.uk/ssi/2011/364/regulation/107) in force at 1.12.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2)
+[^c-da3287adfb7de8293e30745c6790fb37]: Commencement: [Reg. 107](https://www.legislation.gov.uk/ssi/2011/364/regulation/107) in force at 1.12.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2)

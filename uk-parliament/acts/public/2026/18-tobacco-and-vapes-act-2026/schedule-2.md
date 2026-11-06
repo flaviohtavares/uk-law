@@ -24,13 +24,13 @@ summary: ''
 
 Section 18
 
-### 1. Introduction[^key-2a79d98305ab48c1b200cdddfe70a2be]
+### 1. Introduction[^c-2a79d98305ab48c1b200cdddfe70a2be]
 
 (1) This Schedule makes further provision in connection with the imposition of financial penalties under section 18.
 
 (2) In this Schedule “**relevant district council**” has the meaning given by section 18(6).
 
-### 2. Notices of intent[^key-c4b7e4d95d3df0a03c7b5be555f2630b]
+### 2. Notices of intent[^c-c4b7e4d95d3df0a03c7b5be555f2630b]
 
 (1) A local weights and measures authority or relevant district council must, before imposing a financial penalty on a person, give the person written notice (a “notice of intent”) of the proposed financial penalty.
 
@@ -45,13 +45,13 @@ Section 18
 
 (4) The local weights and measures authority or relevant district council may at any time withdraw the notice of intent, or amend it to reduce the amount of the proposed financial penalty, by giving written notice to the person.
 
-### 3. Right to make representations[^key-c05fe1308ba62dc486288478f5259783]
+### 3. Right to make representations[^c-c05fe1308ba62dc486288478f5259783]
 
 (1) A person who is given a notice of intent under paragraph 2 may make written representations to the local weights and measures authority or relevant district council that issued the notice about the proposal to impose a financial penalty.
 
 (2) Any representations must be made within the period (“the period for representations”) ending with the date specified under paragraph 2(2)(d).
 
-### 4. Final notices[^key-2ffa1bd00653bffdc6acd96a05965bee]
+### 4. Final notices[^c-2ffa1bd00653bffdc6acd96a05965bee]
 
 (1) After the end of the period for representations the local weights and measures authority or relevant district council must decide whether to impose a financial penalty on the person.
 
@@ -71,7 +71,7 @@ Section 18
 
 (6) A final notice may not be given more than 28 days after the last day of the period for representations.
 
-### 5. Appeals[^key-670e20d0a9adbca2323eaf545ff3ee8b]
+### 5. Appeals[^c-670e20d0a9adbca2323eaf545ff3ee8b]
 
 (1) A person on whom a financial penalty is imposed under section 18 may appeal to the magistrates’ court against—
 
@@ -84,13 +84,13 @@ Section 18
 
 (4) If a person appeals under this paragraph, the final notice is suspended until the appeal is finally determined, withdrawn or abandoned.
 
-### 6. Recovery[^key-dbd064cc07c4c55b8b451742fd0e77f4]
+### 6. Recovery[^c-dbd064cc07c4c55b8b451742fd0e77f4]
 
 (1) This paragraph applies if a person fails to pay the whole or part of a financial penalty before the end of the period within which the person is required to pay the penalty.
 
 (2) The local weights and measures authority or relevant district council that imposed the financial penalty may recover the unpaid amount of the penalty as if it were payable under an order of the county court.
 
-### 7. Use of proceeds[^key-fa30b48ba2164a5f5eb3a3e28d17b018]
+### 7. Use of proceeds[^c-fa30b48ba2164a5f5eb3a3e28d17b018]
 
 (1) Any sums received in pursuance of final notices given under paragraph 4 must be paid into the Consolidated Fund.
 
@@ -101,16 +101,16 @@ Section 18
 
 ## Annotations
 
-[^key-2a79d98305ab48c1b200cdddfe70a2be]: Commencement: Sch. 2 para. 1 not in force at Royal Assent, see [s. 175(4)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/4)
+[^c-2a79d98305ab48c1b200cdddfe70a2be]: Commencement: Sch. 2 para. 1 not in force at Royal Assent, see [s. 175(4)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/4)
 
-[^key-c4b7e4d95d3df0a03c7b5be555f2630b]: Commencement: Sch. 2 para. 2 not in force at Royal Assent, see [s. 175(4)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/4)
+[^c-c4b7e4d95d3df0a03c7b5be555f2630b]: Commencement: Sch. 2 para. 2 not in force at Royal Assent, see [s. 175(4)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/4)
 
-[^key-c05fe1308ba62dc486288478f5259783]: Commencement: Sch. 2 para. 3 not in force at Royal Assent, see [s. 175(4)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/4)
+[^c-c05fe1308ba62dc486288478f5259783]: Commencement: Sch. 2 para. 3 not in force at Royal Assent, see [s. 175(4)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/4)
 
-[^key-2ffa1bd00653bffdc6acd96a05965bee]: Commencement: Sch. 2 para. 4 not in force at Royal Assent, see [s. 175(4)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/4)
+[^c-2ffa1bd00653bffdc6acd96a05965bee]: Commencement: Sch. 2 para. 4 not in force at Royal Assent, see [s. 175(4)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/4)
 
-[^key-670e20d0a9adbca2323eaf545ff3ee8b]: Commencement: Sch. 2 para. 5 not in force at Royal Assent, see [s. 175(4)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/4)
+[^c-670e20d0a9adbca2323eaf545ff3ee8b]: Commencement: Sch. 2 para. 5 not in force at Royal Assent, see [s. 175(4)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/4)
 
-[^key-dbd064cc07c4c55b8b451742fd0e77f4]: Commencement: Sch. 2 para. 6 not in force at Royal Assent, see [s. 175(4)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/4)
+[^c-dbd064cc07c4c55b8b451742fd0e77f4]: Commencement: Sch. 2 para. 6 not in force at Royal Assent, see [s. 175(4)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/4)
 
-[^key-fa30b48ba2164a5f5eb3a3e28d17b018]: Commencement: Sch. 2 para. 7 not in force at Royal Assent, see [s. 175(4)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/4)
+[^c-fa30b48ba2164a5f5eb3a3e28d17b018]: Commencement: Sch. 2 para. 7 not in force at Royal Assent, see [s. 175(4)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/4)

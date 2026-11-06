@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20.2. Notice to introduce hearsay evidence[^key-56fb7761f6a0ea8e7b2c174403656bb9]
+## 20.2. Notice to introduce hearsay evidence[^c-56fb7761f6a0ea8e7b2c174403656bb9]
 
 *Extent: E+W*
 
@@ -69,7 +69,7 @@ summary: ''
 
 ## Annotations
 
-[^key-56fb7761f6a0ea8e7b2c174403656bb9]: Commencement: [Rule 20.2](https://www.legislation.gov.uk/uksi/2025/909/rule/20.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-56fb7761f6a0ea8e7b2c174403656bb9]: Commencement: [Rule 20.2](https://www.legislation.gov.uk/uksi/2025/909/rule/20.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00476]: Footnote: [2003 c. 44](https://www.legislation.gov.uk/ukpga/2003/44); section 117 was amended by regulation 4 of, and paragraph 8 of Schedule 3 to, [S.I. 2017/730](https://www.legislation.gov.uk/uksi/2017/730) and section 10 of the Crime (Overseas Production Orders) Act [2019 (c. 5)](https://www.legislation.gov.uk/ukpga/2019/5).
 

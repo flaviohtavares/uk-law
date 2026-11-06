@@ -26,14 +26,14 @@ summary: ''
 
 - (a) the child;
 - (b) each relevant person;
-- (ba)[^key-092da09e09daba0cd72257a63602e991] any individual who is to be afforded an opportunity to participate in relation to the children’s hearing by virtue of rule 2A;
-- (c) any other individual[^key-2e651ae48a269db0f61faeb4dbed5b51] who appears to the Reporter to have or recently have had significant involvement in the upbringing of the child;
+- (ba)[^c-092da09e09daba0cd72257a63602e991] any individual who is to be afforded an opportunity to participate in relation to the children’s hearing by virtue of rule 2A;
+- (c) any other individual[^c-2e651ae48a269db0f61faeb4dbed5b51] who appears to the Reporter to have or recently have had significant involvement in the upbringing of the child;
 - (d) any appointed safeguarder;
 - (e) the chief social work officer of the relevant local authority for the child;
 - (f) the National Convener.
 
 ## Annotations
 
-[^key-092da09e09daba0cd72257a63602e991]: Textual amendment: Rule 22(2)(ba) inserted (26.7.2021) by [The Children’s Hearings (Scotland) Act 2011 (Rules of Procedure in Children’s Hearings) Amendment Rules 2021 (S.S.I. 2021/68)](https://www.legislation.gov.uk/ssi/2021/68), [rules 1](https://www.legislation.gov.uk/ssi/2021/68/rule/1), [2(5)(a)](https://www.legislation.gov.uk/ssi/2021/68/rule/2/5/a)
+[^c-092da09e09daba0cd72257a63602e991]: Textual amendment: Rule 22(2)(ba) inserted (26.7.2021) by [The Children’s Hearings (Scotland) Act 2011 (Rules of Procedure in Children’s Hearings) Amendment Rules 2021 (S.S.I. 2021/68)](https://www.legislation.gov.uk/ssi/2021/68), [rules 1](https://www.legislation.gov.uk/ssi/2021/68/rule/1), [2(5)(a)](https://www.legislation.gov.uk/ssi/2021/68/rule/2/5/a)
 
-[^key-2e651ae48a269db0f61faeb4dbed5b51]: Textual amendment: Words in rule 22(2)(c) substituted (26.7.2021) by [The Children’s Hearings (Scotland) Act 2011 (Rules of Procedure in Children’s Hearings) Amendment Rules 2021 (S.S.I. 2021/68)](https://www.legislation.gov.uk/ssi/2021/68), [rules 1](https://www.legislation.gov.uk/ssi/2021/68/rule/1), [2(5)(b)](https://www.legislation.gov.uk/ssi/2021/68/rule/2/5/b)
+[^c-2e651ae48a269db0f61faeb4dbed5b51]: Textual amendment: Words in rule 22(2)(c) substituted (26.7.2021) by [The Children’s Hearings (Scotland) Act 2011 (Rules of Procedure in Children’s Hearings) Amendment Rules 2021 (S.S.I. 2021/68)](https://www.legislation.gov.uk/ssi/2021/68), [rules 1](https://www.legislation.gov.uk/ssi/2021/68/rule/1), [2(5)(b)](https://www.legislation.gov.uk/ssi/2021/68/rule/2/5/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 32. Certification of plans etc.[^key-d143fb015426486ba689e600f5ac080b]
+## 32. Certification of plans etc.[^c-d143fb015426486ba689e600f5ac080b]
 
 *Extent: E+W+S*
 
@@ -27,7 +27,7 @@ summary: ''
 - (c) the access to works plan (document reference 2.5);
 - (d) the temporary stopping up of public rights of way plan (document reference 2.6 – revision B);
 - (e) the important hedgerows plan (document reference 2.10 – revision 4);
-- (f)[^key-9c7619130448bdb10b1f3d358f3d1389] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-9c7619130448bdb10b1f3d358f3d1389] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (g) the book of reference (December 2016 – version 3);
 - (h) the outline code of construction practice (November 2016 – revision B) (document reference 8.1);
 - (i) the design and access statement (October 2016) (document reference 8.3);
@@ -57,8 +57,8 @@ the reference in the plan or document concerned must be construed for the purpos
 
 ## Annotations
 
-[^key-d143fb015426486ba689e600f5ac080b]: Commencement: Art. 32 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
+[^c-d143fb015426486ba689e600f5ac080b]: Commencement: Art. 32 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
 
-[^key-9c7619130448bdb10b1f3d358f3d1389]: Textual amendment: Art. 32(1)(f) omitted (16.4.2021) by virtue of [The East Anglia THREE Offshore Wind Farm (Amendment) Order 2021 (S.I. 2021/471)](https://www.legislation.gov.uk/uksi/2021/471), [arts. 1](https://www.legislation.gov.uk/uksi/2021/471/article/1), [4](https://www.legislation.gov.uk/uksi/2021/471/article/4)
+[^c-9c7619130448bdb10b1f3d358f3d1389]: Textual amendment: Art. 32(1)(f) omitted (16.4.2021) by virtue of [The East Anglia THREE Offshore Wind Farm (Amendment) Order 2021 (S.I. 2021/471)](https://www.legislation.gov.uk/uksi/2021/471), [arts. 1](https://www.legislation.gov.uk/uksi/2021/471/article/1), [4](https://www.legislation.gov.uk/uksi/2021/471/article/4)
 
 [^M_F_3a8b64df-87be-46ad-bdc9-082621efeb71]: Textual amendment: Words in art. 32(1)(t) substituted (13.7.2018) by [The East Anglia THREE Offshore Wind Farm (Correction) Order 2018 (S.I. 2018/843)](https://www.legislation.gov.uk/uksi/2018/843), [art. 1](https://www.legislation.gov.uk/uksi/2018/843/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/843/schedule)

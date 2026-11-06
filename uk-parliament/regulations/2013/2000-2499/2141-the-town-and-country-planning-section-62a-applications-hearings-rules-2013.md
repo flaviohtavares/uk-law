@@ -44,9 +44,9 @@ Coming into force
 
 1st October 2013
 
-The Lord Chancellor, in exercise of the powers conferred by section 9 of the Tribunals and Inquiries Act 1992[^f00001] makes the following Rules:[^key-cd3d86780fee1ad0c6366ca15fff3896]
+The Lord Chancellor, in exercise of the powers conferred by section 9 of the Tribunals and Inquiries Act 1992[^f00001] makes the following Rules:[^c-cd3d86780fee1ad0c6366ca15fff3896]
 
-## 1. Citation, commencement and application[^key-2a6642a4b12631e2b27ea0f862d68a5d]
+## 1. Citation, commencement and application[^c-2a6642a4b12631e2b27ea0f862d68a5d]
 
 (1) These Rules may be cited as the Town and Country Planning (Section 62A Applications) (Hearings) Rules 2013.
 
@@ -56,7 +56,7 @@ The Lord Chancellor, in exercise of the powers conferred by section 9 of the Tri
 
 (4) Where these Rules apply in relation to a relevant application which previously fell to be considered in accordance with the Town and Country Planning (Section 62A Applications) (Written Representations and Miscellaneous Provisions) Regulations 2013[^f00004], any step taken or thing done under those Regulations which could have been done under any corresponding provision of these Rules has effect as if it had been taken or done under the corresponding provision.
 
-## 2. Interpretation[^key-8b23dda3833210e00e1f0f09a1e4de92]
+## 2. Interpretation[^c-8b23dda3833210e00e1f0f09a1e4de92]
 
 In these Rules—
 
@@ -70,12 +70,12 @@ In these Rules—
 - “land” means the land or building to which the relevant application relates;
 - “persons entitled to appear at the hearing” has the meaning given in rule 6;
 - “recovered application” means a relevant application which falls to be determined by the Secretary of State as a consequence of a direction made under section 76E(1) of the 1990 Act[^f00008];
-- “relevant application” has the meaning given in section 62A(2) of the Town and Country Planning Act 1990;[^key-598948381a9622ae3aed59118a177df8]
+- “relevant application” has the meaning given in section 62A(2) of the Town and Country Planning Act 1990;[^c-598948381a9622ae3aed59118a177df8]
 - “representation period” has the meaning given in the 2013 Order;
 - “standard application” means a relevant application which falls to be determined by a person appointed by the Secretary of State under section 76D of the 1990 Act; and
 - “working day” means a day which is not a Saturday, Sunday, Bank Holiday or other public holiday.
 
-## 3. Electronic communications and service of documents[^key-4425c3da1e871c3b9d40820e4bee4dc1]
+## 3. Electronic communications and service of documents[^c-4425c3da1e871c3b9d40820e4bee4dc1]
 
 (1) In these Rules, and in relation to the use of electronic communications for any purpose of these Rules which is capable of being carried out electronically—
 
@@ -103,14 +103,14 @@ In these Rules—
 
 and such withdrawal or revocation is final and takes effect on a date specified by the person in the notice but not less than 7 days after the date on which the notice is given.
 
-## 4. Date and notification of hearing[^key-51919c5aaeb4dcf4231b21d5ac755739]
+## 4. Date and notification of hearing[^c-51919c5aaeb4dcf4231b21d5ac755739]
 
 (1) The date fixed by the Secretary of State for the holding of a hearing must be—
 
 - (a) not later than 5 weeks after the end of the representation period, unless he considers such a date impracticable, or
 - (b) the earliest date after that period which he considers to be practicable.
 
-(2) Subject to paragraph (3), the Secretary of State must give at least the minimum amount of[^key-e4fea9cfe4092e4b9a174ce7fd8f6b26] notice of—
+(2) Subject to paragraph (3), the Secretary of State must give at least the minimum amount of[^c-e4fea9cfe4092e4b9a174ce7fd8f6b26] notice of—
 
 - (a) the date, time and place fixed by him for the holding of a hearing, and
 - (b) the name of the inspector holding the hearing,
@@ -119,7 +119,7 @@ to each of the persons entitled to appear at the hearing (whether by publication
 
 (3) The Secretary of State may vary the date, time and place fixed for the holding of a hearing and must give such notice of any variation as appears to him to be reasonable.
 
-(3A)[^key-edb9c15f5775719977c937cf9b20b670] In paragraph (2) “the minimum amount of notice” means—
+(3A)[^c-edb9c15f5775719977c937cf9b20b670] In paragraph (2) “the minimum amount of notice” means—
 
 - (a) in relation to a hearing to be held regarding a relevant application in respect of major development, 2 weeks’;
 - (b) in relation to a hearing to be held regarding a relevant application in respect of non-major development, five working days’.
@@ -133,13 +133,13 @@ to each of the persons entitled to appear at the hearing (whether by publication
 
 the Secretary of State must cancel the hearing and give such notice of the cancellation to the persons previously notified as appears to him to be reasonable.
 
-(6)[^key-6f9123d3cc6f7b4ba115a8fa7883c968] In this rule, “major development” and “non-major development” have the meanings given by regulation 3 of the Town and Country Planning (Section 62A Applications) (Written Representations and Miscellaneous Provisions) Regulations 2013.
+(6)[^c-6f9123d3cc6f7b4ba115a8fa7883c968] In this rule, “major development” and “non-major development” have the meanings given by regulation 3 of the Town and Country Planning (Section 62A Applications) (Written Representations and Miscellaneous Provisions) Regulations 2013.
 
-## 5. Issues report[^key-23121aa883c8372d865ea9de1b4c5abb]
+## 5. Issues report[^c-23121aa883c8372d865ea9de1b4c5abb]
 
 At least 5 working days before the date fixed for the hearing under rule 4 the Secretary of State must prepare a report setting out what, in his opinion, are the issues to be considered in relation to the relevant application and publish the report on a website.
 
-## 6. Admission of the public and appearances at a hearing[^key-1084edd29ea47adf7a525dc72d7a9ce2]
+## 6. Admission of the public and appearances at a hearing[^c-1084edd29ea47adf7a525dc72d7a9ce2]
 
 (1) A hearing must be open to the public and any person attending a hearing for the purpose of reporting the proceedings is, so far as practicable, to be afforded reasonable facilities for taking their report.
 
@@ -157,7 +157,7 @@ At least 5 working days before the date fixed for the hearing under rule 4 the S
 
 (4) Any person entitled or permitted to appear may do so on his own behalf or be represented by any other person.
 
-## 7. Procedure at hearing[^key-b11b45559bd969f581e79101d402fa6b]
+## 7. Procedure at hearing[^c-b11b45559bd969f581e79101d402fa6b]
 
 (1) Except as otherwise provided in these Rules the inspector must determine the procedure at a hearing.
 
@@ -179,7 +179,7 @@ but any person not permitted to return or who does not return after being requir
 
 (7) The inspector may adjourn a hearing and, if the date, time and place of the adjourned hearing are announced at the hearing before the adjournment, no further notice is required.
 
-## 8. Site inspections[^key-52ccc6c469498faae9d8c8a4a06d391c]
+## 8. Site inspections[^c-52ccc6c469498faae9d8c8a4a06d391c]
 
 (1) The inspector may inspect the land to which the application relates.
 
@@ -187,7 +187,7 @@ but any person not permitted to return or who does not return after being requir
 
 (3) The inspector is not required to defer an inspection where any person (including the applicant) is not present at the time appointed.
 
-## 9. Procedure after hearing: standard applications[^key-d19af1c2f4e23ed61427a6afadf30c43]
+## 9. Procedure after hearing: standard applications[^c-d19af1c2f4e23ed61427a6afadf30c43]
 
 (1) This rule applies where a hearing has been held for the purposes of a standard application
 
@@ -205,7 +205,7 @@ but any person not permitted to return or who does not return after being requir
 - (a) notifying in writing the persons entitled to appear at the hearing of the matter in question; and
 - (b) affording them an opportunity of making written representations to him.
 
-## 10. Procedure after hearing: recovered applications[^key-37457fffe0828a5b6b731b9eac49f353]
+## 10. Procedure after hearing: recovered applications[^c-37457fffe0828a5b6b731b9eac49f353]
 
 (1) This rule applies where a hearing has been held for the purposes of a recovered application.
 
@@ -269,9 +269,9 @@ These Rules implement section 1 of, and Schedule 1 to, the Growth and Infrastruc
 
 [^f00001]: Footnote: [1992 c.53](https://www.legislation.gov.uk/ukpga/1992/53). Section 9 was amended by paragraph 11 of the Schedule to [S.I. 2013/2042](https://www.legislation.gov.uk/uksi/2013/2042). There are other amendments to section 9 which are not relevant to these Rules.
 
-[^key-cd3d86780fee1ad0c6366ca15fff3896]: Modification: Rules applied (with modifications) (1.10.2014) by [S.I. 2013/2140](https://www.legislation.gov.uk/uksi/2013/2140), [art. 48](https://www.legislation.gov.uk/uksi/2013/2140/article/48) (as inserted by [The Town and Country Planning (Development Management Procedure and Section 62A Applications) (England) (Amendment) Order 2014 (S.I. 2014/1532)](https://www.legislation.gov.uk/uksi/2014/1532), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1532/article/1/1), [7](https://www.legislation.gov.uk/uksi/2014/1532/article/7))
+[^c-cd3d86780fee1ad0c6366ca15fff3896]: Modification: Rules applied (with modifications) (1.10.2014) by [S.I. 2013/2140](https://www.legislation.gov.uk/uksi/2013/2140), [art. 48](https://www.legislation.gov.uk/uksi/2013/2140/article/48) (as inserted by [The Town and Country Planning (Development Management Procedure and Section 62A Applications) (England) (Amendment) Order 2014 (S.I. 2014/1532)](https://www.legislation.gov.uk/uksi/2014/1532), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1532/article/1/1), [7](https://www.legislation.gov.uk/uksi/2014/1532/article/7))
 
-[^key-2a6642a4b12631e2b27ea0f862d68a5d]: Commencement: Rule 1 in force at 1.10.2013, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2013/2141/article/1/2)
+[^c-2a6642a4b12631e2b27ea0f862d68a5d]: Commencement: Rule 1 in force at 1.10.2013, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2013/2141/article/1/2)
 
 [^f00002]: Footnote: Section 319A was inserted into the 1990 Act by section 196 of the Planning Act [2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29).
 
@@ -279,7 +279,7 @@ These Rules implement section 1 of, and Schedule 1 to, the Growth and Infrastruc
 
 [^f00004]: Footnote: [S.I. 2013/2142](https://www.legislation.gov.uk/uksi/2013/2142).
 
-[^key-8b23dda3833210e00e1f0f09a1e4de92]: Commencement: Rule 2 in force at 1.10.2013, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2013/2141/article/1/2)
+[^c-8b23dda3833210e00e1f0f09a1e4de92]: Commencement: Rule 2 in force at 1.10.2013, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2013/2141/article/1/2)
 
 [^f00005]: Footnote: [S.I. 2013/2140](https://www.legislation.gov.uk/uksi/2013/2140).
 
@@ -289,26 +289,26 @@ These Rules implement section 1 of, and Schedule 1 to, the Growth and Infrastruc
 
 [^f00008]: Footnote: Section 76E was inserted by paragraph 5 of Schedule 1 to the Growth and Infrastructure Act 2013.
 
-[^key-598948381a9622ae3aed59118a177df8]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/uksi/2013/2141/rule/2) inserted (21.10.2016) by [The Town and Country Planning (Section 62A Applications) (Hearings) (Amendment) Rules 2016 (S.I. 2016/955)](https://www.legislation.gov.uk/uksi/2016/955), [rules 1](https://www.legislation.gov.uk/uksi/2016/955/rule/1), [2(2)](https://www.legislation.gov.uk/uksi/2016/955/rule/2/2)
+[^c-598948381a9622ae3aed59118a177df8]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/uksi/2013/2141/rule/2) inserted (21.10.2016) by [The Town and Country Planning (Section 62A Applications) (Hearings) (Amendment) Rules 2016 (S.I. 2016/955)](https://www.legislation.gov.uk/uksi/2016/955), [rules 1](https://www.legislation.gov.uk/uksi/2016/955/rule/1), [2(2)](https://www.legislation.gov.uk/uksi/2016/955/rule/2/2)
 
-[^key-4425c3da1e871c3b9d40820e4bee4dc1]: Commencement: Rule 3 in force at 1.10.2013, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2013/2141/article/1/2)
+[^c-4425c3da1e871c3b9d40820e4bee4dc1]: Commencement: Rule 3 in force at 1.10.2013, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2013/2141/article/1/2)
 
-[^key-51919c5aaeb4dcf4231b21d5ac755739]: Commencement: Rule 4 in force at 1.10.2013, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2013/2141/rule/1/2)
+[^c-51919c5aaeb4dcf4231b21d5ac755739]: Commencement: Rule 4 in force at 1.10.2013, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2013/2141/rule/1/2)
 
-[^key-e4fea9cfe4092e4b9a174ce7fd8f6b26]: Textual amendment: Words in rule 4(2) substituted (21.10.2016) by [The Town and Country Planning (Section 62A Applications) (Hearings) (Amendment) Rules 2016 (S.I. 2016/955)](https://www.legislation.gov.uk/uksi/2016/955), [rules 1](https://www.legislation.gov.uk/uksi/2016/955/rule/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2016/955/article/2/3/a)
+[^c-e4fea9cfe4092e4b9a174ce7fd8f6b26]: Textual amendment: Words in rule 4(2) substituted (21.10.2016) by [The Town and Country Planning (Section 62A Applications) (Hearings) (Amendment) Rules 2016 (S.I. 2016/955)](https://www.legislation.gov.uk/uksi/2016/955), [rules 1](https://www.legislation.gov.uk/uksi/2016/955/rule/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2016/955/article/2/3/a)
 
-[^key-edb9c15f5775719977c937cf9b20b670]: Textual amendment: Rule 4(3A) inserted (21.10.2016) by [The Town and Country Planning (Section 62A Applications) (Hearings) (Amendment) Rules 2016 (S.I. 2016/955)](https://www.legislation.gov.uk/uksi/2016/955), [rules 1](https://www.legislation.gov.uk/uksi/2016/955/rule/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2016/955/article/2/3/b)
+[^c-edb9c15f5775719977c937cf9b20b670]: Textual amendment: Rule 4(3A) inserted (21.10.2016) by [The Town and Country Planning (Section 62A Applications) (Hearings) (Amendment) Rules 2016 (S.I. 2016/955)](https://www.legislation.gov.uk/uksi/2016/955), [rules 1](https://www.legislation.gov.uk/uksi/2016/955/rule/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2016/955/article/2/3/b)
 
-[^key-6f9123d3cc6f7b4ba115a8fa7883c968]: Textual amendment: Rule 4(6) inserted (21.10.2016) by [The Town and Country Planning (Section 62A Applications) (Hearings) (Amendment) Rules 2016 (S.I. 2016/955)](https://www.legislation.gov.uk/uksi/2016/955), [rules 1](https://www.legislation.gov.uk/uksi/2016/955/rule/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2016/955/article/2/3/c)
+[^c-6f9123d3cc6f7b4ba115a8fa7883c968]: Textual amendment: Rule 4(6) inserted (21.10.2016) by [The Town and Country Planning (Section 62A Applications) (Hearings) (Amendment) Rules 2016 (S.I. 2016/955)](https://www.legislation.gov.uk/uksi/2016/955), [rules 1](https://www.legislation.gov.uk/uksi/2016/955/rule/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2016/955/article/2/3/c)
 
-[^key-23121aa883c8372d865ea9de1b4c5abb]: Commencement: Rule 5 in force at 1.10.2013, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2013/2141/article/1/2)
+[^c-23121aa883c8372d865ea9de1b4c5abb]: Commencement: Rule 5 in force at 1.10.2013, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2013/2141/article/1/2)
 
-[^key-1084edd29ea47adf7a525dc72d7a9ce2]: Commencement: Rule 6 in force at 1.10.2013, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2013/2141/article/1/2)
+[^c-1084edd29ea47adf7a525dc72d7a9ce2]: Commencement: Rule 6 in force at 1.10.2013, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2013/2141/article/1/2)
 
-[^key-b11b45559bd969f581e79101d402fa6b]: Commencement: Rule 7 in force at 1.10.2013, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2013/2141/article/1/2)
+[^c-b11b45559bd969f581e79101d402fa6b]: Commencement: Rule 7 in force at 1.10.2013, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2013/2141/article/1/2)
 
-[^key-52ccc6c469498faae9d8c8a4a06d391c]: Commencement: Rule 8 in force at 1.10.2013, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2013/2141/article/1/2)
+[^c-52ccc6c469498faae9d8c8a4a06d391c]: Commencement: Rule 8 in force at 1.10.2013, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2013/2141/article/1/2)
 
-[^key-d19af1c2f4e23ed61427a6afadf30c43]: Commencement: Rule 9 in force at 1.10.2013, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2013/2141/article/1/2)
+[^c-d19af1c2f4e23ed61427a6afadf30c43]: Commencement: Rule 9 in force at 1.10.2013, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2013/2141/article/1/2)
 
-[^key-37457fffe0828a5b6b731b9eac49f353]: Commencement: Rule 10 in force at 1.10.2013, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2013/2141/article/1/2)
+[^c-37457fffe0828a5b6b731b9eac49f353]: Commencement: Rule 10 in force at 1.10.2013, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2013/2141/article/1/2)

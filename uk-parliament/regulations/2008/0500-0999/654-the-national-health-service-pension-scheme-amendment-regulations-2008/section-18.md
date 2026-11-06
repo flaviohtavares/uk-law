@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Substitution of heading to Part G[^key-3644120509690db9b1bd6583b4c726dd]
+## 18. Substitution of heading to Part G[^c-3644120509690db9b1bd6583b4c726dd]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ For the heading to Part G substitute—
 
 ## Annotations
 
-[^key-3644120509690db9b1bd6583b4c726dd]: Commencement: Reg. 18 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
+[^c-3644120509690db9b1bd6583b4c726dd]: Commencement: Reg. 18 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)

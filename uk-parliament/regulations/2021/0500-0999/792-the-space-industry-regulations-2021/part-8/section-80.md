@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Safety case and risk assessment review and revision requirements[^key-8eec68a0791abdbc38cf330a5ac27ce9]
+## 80. Safety case and risk assessment review and revision requirements[^c-8eec68a0791abdbc38cf330a5ac27ce9]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8eec68a0791abdbc38cf330a5ac27ce9]: Commencement: Reg. 80 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-8eec68a0791abdbc38cf330a5ac27ce9]: Commencement: Reg. 80 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

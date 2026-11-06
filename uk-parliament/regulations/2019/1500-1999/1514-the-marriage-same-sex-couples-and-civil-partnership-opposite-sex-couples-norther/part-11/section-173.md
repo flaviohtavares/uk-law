@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 173. Requirements for existing overseas relationship to be recognised as civil partnership[^key-58fd42857daca113d132beb1ecd63121]
+## 173. Requirements for existing overseas relationship to be recognised as civil partnership[^c-58fd42857daca113d132beb1ecd63121]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ be a relevant pre-commencement relationship.
 
 ## Annotations
 
-[^key-58fd42857daca113d132beb1ecd63121]: Commencement: Reg. 173 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-58fd42857daca113d132beb1ecd63121]: Commencement: Reg. 173 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)

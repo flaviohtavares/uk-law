@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Temporary use of land for maintaining the authorised development[^key-35c46ceebcdac4792340599d9bbf34de]
+## 38. Temporary use of land for maintaining the authorised development[^c-35c46ceebcdac4792340599d9bbf34de]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-35c46ceebcdac4792340599d9bbf34de]: Commencement: Art. 38 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-35c46ceebcdac4792340599d9bbf34de]: Commencement: Art. 38 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)

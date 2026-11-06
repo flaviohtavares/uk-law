@@ -22,9 +22,9 @@ summary: ''
 
 Section 35
 
-**1.**[^c22726061][^key-a3d9d4a0c187e7dcad1783849aa9c3ae] The Terrorism Act 2000 is amended as follows.
+**1.**[^c22726061][^c-a3d9d4a0c187e7dcad1783849aa9c3ae] The Terrorism Act 2000 is amended as follows.
 
-**2.**[^c22726071][^key-c81020d30f62036ca8e7f443ea41aea5] After section 37 insert—
+**2.**[^c22726071][^c-c81020d30f62036ca8e7f443ea41aea5] After section 37 insert—
 
 > **37A. Disclosure orders in relation to terrorist financing investigations**
 >
@@ -32,7 +32,7 @@ Section 35
 
 *Extent: E+W+N.I.*
 
-**3.**[^c22726081][^key-8803b6061a8bb8f3da12d078a9006927] After Schedule 5 insert—
+**3.**[^c22726081][^c-8803b6061a8bb8f3da12d078a9006927] After Schedule 5 insert—
 
 > **SCHEDULE 5A — Terrorist financing investigations: disclosure orders**
 >
@@ -194,7 +194,7 @@ Section 35
 
 *Extent: S*
 
-**4.**[^c22726091][^key-4f3b036e048a44f07267323718b48a58] After Part 1 of Schedule 5A (as inserted by paragraph 3 above) insert—
+**4.**[^c22726091][^c-4f3b036e048a44f07267323718b48a58] After Part 1 of Schedule 5A (as inserted by paragraph 3 above) insert—
 
 > **PART 2 — Scotland**
 >
@@ -317,16 +317,16 @@ Section 35
 
 [^c22726061]: Commencement: [Sch. 2 para 1](https://www.legislation.gov.uk/ukpga/2017/22/schedule/2/paragraph/1) in force at Royal Assent for specified purposes, see [s. 58](https://www.legislation.gov.uk/ukpga/2017/22/section/58)
 
-[^key-a3d9d4a0c187e7dcad1783849aa9c3ae]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2017/22/schedule/2/paragraph/1) in force at 31.1.2018 in so far as not already in force by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(bb)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/bb)
+[^c-a3d9d4a0c187e7dcad1783849aa9c3ae]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2017/22/schedule/2/paragraph/1) in force at 31.1.2018 in so far as not already in force by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(bb)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/bb)
 
 [^c22726071]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2017/22/schedule/2/paragraph/2) in force at Royal Assent for specified purposes, see [s. 58](https://www.legislation.gov.uk/ukpga/2017/22/section/58)
 
-[^key-c81020d30f62036ca8e7f443ea41aea5]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2017/22/schedule/2/paragraph/2) in force at 31.1.2018 in so far as not already in force by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(bb)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/bb)
+[^c-c81020d30f62036ca8e7f443ea41aea5]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2017/22/schedule/2/paragraph/2) in force at 31.1.2018 in so far as not already in force by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(bb)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/bb)
 
 [^c22726081]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2017/22/schedule/2/paragraph/3) in force at Royal Assent for specified purposes, see [s. 58](https://www.legislation.gov.uk/ukpga/2017/22/section/58)
 
-[^key-8803b6061a8bb8f3da12d078a9006927]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2017/22/schedule/2/paragraph/3) in force at 31.1.2018 in so far as not already in force by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(bb)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/bb)
+[^c-8803b6061a8bb8f3da12d078a9006927]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2017/22/schedule/2/paragraph/3) in force at 31.1.2018 in so far as not already in force by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(bb)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/bb)
 
 [^c22726091]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2017/22/schedule/2/paragraph/4) in force at Royal Assent for specified purposes, see [s. 58](https://www.legislation.gov.uk/ukpga/2017/22/section/58)
 
-[^key-4f3b036e048a44f07267323718b48a58]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2017/22/schedule/2/paragraph/4) in force at 31.1.2018 in so far as not already in force by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(bb)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/bb)
+[^c-4f3b036e048a44f07267323718b48a58]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2017/22/schedule/2/paragraph/4) in force at 31.1.2018 in so far as not already in force by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(bb)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/bb)

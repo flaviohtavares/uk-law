@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Unlimited guarantees[^key-e592236217cb8fab076db6eff6a67f07][^key-be2eedf1bfc66f875a8efb12545e4d82]
+## 15. Unlimited guarantees[^c-e592236217cb8fab076db6eff6a67f07][^c-be2eedf1bfc66f875a8efb12545e4d82]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,6 +27,6 @@ A subsidy in the form of a guarantee of the debts or liabilities of an enterpris
 
 ## Annotations
 
-[^key-e592236217cb8fab076db6eff6a67f07]: Commencement: S. 15 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
+[^c-e592236217cb8fab076db6eff6a67f07]: Commencement: S. 15 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
 
-[^key-be2eedf1bfc66f875a8efb12545e4d82]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2022/23/section/15) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-be2eedf1bfc66f875a8efb12545e4d82]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2022/23/section/15) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)

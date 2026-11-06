@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation, commencement and interpretation[^key-840da8361d20c0c6a370e0e93b25cebc]
+## 1. Citation, commencement and interpretation[^c-840da8361d20c0c6a370e0e93b25cebc]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-840da8361d20c0c6a370e0e93b25cebc]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2010/1172/article/1) in force at 5.5.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1172/article/1/1)
+[^c-840da8361d20c0c6a370e0e93b25cebc]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2010/1172/article/1) in force at 5.5.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1172/article/1/1)
 
 [^f00003]: Footnote: [1996 c.56](https://www.legislation.gov.uk/ukpga/1996/56); see section 578.

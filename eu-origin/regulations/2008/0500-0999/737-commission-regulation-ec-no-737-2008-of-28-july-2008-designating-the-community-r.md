@@ -36,79 +36,79 @@ of 28 July 2008
 
 designating the Community reference laboratories for crustacean diseases, rabies and bovine tuberculosis, laying down additional responsibilities and tasks for the Community reference laboratories for rabies and bovine tuberculosis and amending Annex VII to Regulation (EC) No 882/2004 of the European Parliament and of the Council (revoked)
 
-[^key-3200c7b31a058562aa4b648675fd0873]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3200c7b31a058562aa4b648675fd0873]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-3200c7b31a058562aa4b648675fd0873] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-3200c7b31a058562aa4b648675fd0873] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-3200c7b31a058562aa4b648675fd0873] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-3200c7b31a058562aa4b648675fd0873] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-3200c7b31a058562aa4b648675fd0873] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-3200c7b31a058562aa4b648675fd0873] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-3200c7b31a058562aa4b648675fd0873] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-3200c7b31a058562aa4b648675fd0873] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-3200c7b31a058562aa4b648675fd0873] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-3200c7b31a058562aa4b648675fd0873] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3200c7b31a058562aa4b648675fd0873]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3200c7b31a058562aa4b648675fd0873]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I — CERTAIN RESPONSIBILITIES AND TASKS OF THE COMMUNITY REFERENCE LABORATORY FOR RABIES[^key-3200c7b31a058562aa4b648675fd0873]
+## ANNEX I — CERTAIN RESPONSIBILITIES AND TASKS OF THE COMMUNITY REFERENCE LABORATORY FOR RABIES[^c-3200c7b31a058562aa4b648675fd0873]
 
-[^key-3200c7b31a058562aa4b648675fd0873]
+[^c-3200c7b31a058562aa4b648675fd0873]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3200c7b31a058562aa4b648675fd0873]1.
+[^c-3200c7b31a058562aa4b648675fd0873]1.
 
 To coordinate, in consultation with the Commission, the methods employed in the Member States for diagnosing rabies, in particular by:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3200c7b31a058562aa4b648675fd0873]2.
+[^c-3200c7b31a058562aa4b648675fd0873]2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3200c7b31a058562aa4b648675fd0873]3.
+[^c-3200c7b31a058562aa4b648675fd0873]3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3200c7b31a058562aa4b648675fd0873]4.
+[^c-3200c7b31a058562aa4b648675fd0873]4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3200c7b31a058562aa4b648675fd0873]5.
+[^c-3200c7b31a058562aa4b648675fd0873]5.
 
 To perform research activities and, whenever possible, coordinate research activities directed towards the improved control and eradication of rabies, in particular by:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — CERTAIN RESPONSIBILITIES AND TASKS OF THE COMMUNITY REFERENCE LABORATORY FOR BOVINE TUBERCULOSIS[^key-3200c7b31a058562aa4b648675fd0873]
+## ANNEX II — CERTAIN RESPONSIBILITIES AND TASKS OF THE COMMUNITY REFERENCE LABORATORY FOR BOVINE TUBERCULOSIS[^c-3200c7b31a058562aa4b648675fd0873]
 
-[^key-3200c7b31a058562aa4b648675fd0873]
+[^c-3200c7b31a058562aa4b648675fd0873]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3200c7b31a058562aa4b648675fd0873](1)
+[^c-3200c7b31a058562aa4b648675fd0873](1)
 
 To coordinate, in consultation with the Commission, the methods employed in the Member States for diagnosing bovine tuberculosis, in particular by:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3200c7b31a058562aa4b648675fd0873](2)
+[^c-3200c7b31a058562aa4b648675fd0873](2)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3200c7b31a058562aa4b648675fd0873](3)
+[^c-3200c7b31a058562aa4b648675fd0873](3)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3200c7b31a058562aa4b648675fd0873](4)
+[^c-3200c7b31a058562aa4b648675fd0873](4)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3200c7b31a058562aa4b648675fd0873](5)
+[^c-3200c7b31a058562aa4b648675fd0873](5)
 
 To perform research activities and, whenever possible, co-ordinate research activities directed towards the improved control and eradication of bovine tuberculosis, in particular by:
 
@@ -116,4 +116,4 @@ To perform research activities and, whenever possible, co-ordinate research acti
 
 ## Annotations
 
-[^key-3200c7b31a058562aa4b648675fd0873]: Textual amendment: Regulation revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/2)
+[^c-3200c7b31a058562aa4b648675fd0873]: Textual amendment: Regulation revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/2)

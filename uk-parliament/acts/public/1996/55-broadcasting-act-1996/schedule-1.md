@@ -26,7 +26,7 @@ Sections 37, 70.
 
 #### Computation of multiplex revenue
 
-**1.** (1) It shall be the duty of OFCOM[^key-9fc4ff0702060826adbcc4856bcabd6f] to draw up, and from time to time review, a statement setting out the principles to be followed in ascertaining—
+**1.** (1) It shall be the duty of OFCOM[^c-9fc4ff0702060826adbcc4856bcabd6f] to draw up, and from time to time review, a statement setting out the principles to be followed in ascertaining—
 
 - (a) the multiplex revenue in relation to a licence holder for the purposes of section 14 for any accounting period, and
 - (b) the share of multiplex revenue attributable to a person in relation to any multiplex service for the purposes of any provision of Part I of this Act—
@@ -61,7 +61,7 @@ shall, in the event of a disagreement between OFCOM and that person, be the amou
 
 #### Computation of multiplex revenue
 
-**3.** (1) It shall be the duty of OFCOM[^key-4cc82ef1a3ca4f43f0532fc8d436443c] to draw up, and from time to time review, a statement setting out the principles to be followed in ascertaining—
+**3.** (1) It shall be the duty of OFCOM[^c-4cc82ef1a3ca4f43f0532fc8d436443c] to draw up, and from time to time review, a statement setting out the principles to be followed in ascertaining—
 
 - (a) the multiplex revenue in relation to a licence holder for the purposes of section 56 for any accounting period, and
 - (b) the share of multiplex revenue attributable to a person in relation to any national radio multiplex service for the purposes of any provision of Part II of this Act—
@@ -96,6 +96,6 @@ shall, in the event of a disagreement between OFCOM and that person, be the amou
 
 [^c11523251]: Modification: Sch. 1 applied (*prosp.*) by [1990 c. 42](https://www.legislation.gov.uk/ukpga/1990/42), [s. 26(9A)](https://www.legislation.gov.uk/ukpga/1990/42/section/26/9A) (as inserted by [1996 c. 55](https://www.legislation.gov.uk/ukpga/1996/55), [s. 82(3)](https://www.legislation.gov.uk/ukpga/1996/55/section/82/3))
 
-[^key-9fc4ff0702060826adbcc4856bcabd6f]: Textual amendment: Words in Sch. 1 Pt. 1 substituted (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 15 para. 142(2)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/15/paragraph/142/2) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-9fc4ff0702060826adbcc4856bcabd6f]: Textual amendment: Words in Sch. 1 Pt. 1 substituted (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 15 para. 142(2)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/15/paragraph/142/2) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-4cc82ef1a3ca4f43f0532fc8d436443c]: Textual amendment: Words in Sch. 1 Pt. 2 substituted (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 15 para. 142(3)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/15/paragraph/142/3) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-4cc82ef1a3ca4f43f0532fc8d436443c]: Textual amendment: Words in Sch. 1 Pt. 2 substituted (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 15 para. 142(3)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/15/paragraph/142/3) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))

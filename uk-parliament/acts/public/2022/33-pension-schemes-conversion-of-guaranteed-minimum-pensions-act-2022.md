@@ -36,7 +36,7 @@ An Act to make provision about the amendment of pension schemes so as to provide
 
 Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Conversion of guaranteed minimum pensions[^key-eceadd1c0ad6bfdd9d1d3896a8c6d558]
+## 1. Conversion of guaranteed minimum pensions[^c-eceadd1c0ad6bfdd9d1d3896a8c6d558]
 
 *Extent: E+W+S*
 
@@ -131,7 +131,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (12) In the Pension Schemes Act 2015, in section 81 (extension to Scotland of certain provisions about marriage of same sex couples), omit “24D(5),”.
 
-## 2. Conversion of guaranteed minimum pensions: Northern Ireland[^key-a242f6f229e01c42b2ddf86c93185efe]
+## 2. Conversion of guaranteed minimum pensions: Northern Ireland[^c-a242f6f229e01c42b2ddf86c93185efe]
 
 *Extent: N.I.*
 
@@ -222,7 +222,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - (c) in subsection (10), after “conversion” insert “in relation to S”;
 - (d) in subsection (11), omit “inserted by subsection (3)”.
 
-## 3. Extent, commencement and short title[^key-cd527088e3d2ebcba3acaba8667f1641]
+## 3. Extent, commencement and short title[^c-cd527088e3d2ebcba3acaba8667f1641]
 
 (1) Section 1 extends to England and Wales and Scotland.
 
@@ -252,8 +252,8 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 ## Annotations
 
-[^key-eceadd1c0ad6bfdd9d1d3896a8c6d558]: Commencement: S. 1 in force at Royal Assent for specified purposes, see [s. 3(4)(a)](https://www.legislation.gov.uk/ukpga/2022/33/section/3/4/a)
+[^c-eceadd1c0ad6bfdd9d1d3896a8c6d558]: Commencement: S. 1 in force at Royal Assent for specified purposes, see [s. 3(4)(a)](https://www.legislation.gov.uk/ukpga/2022/33/section/3/4/a)
 
-[^key-a242f6f229e01c42b2ddf86c93185efe]: Commencement: S. 2 in force at Royal Assent for specified purposes, see [s. 3(4)(b)](https://www.legislation.gov.uk/ukpga/2022/33/section/3/4/b)
+[^c-a242f6f229e01c42b2ddf86c93185efe]: Commencement: S. 2 in force at Royal Assent for specified purposes, see [s. 3(4)(b)](https://www.legislation.gov.uk/ukpga/2022/33/section/3/4/b)
 
-[^key-cd527088e3d2ebcba3acaba8667f1641]: Commencement: S. 3 in force at Royal Assent, see [s. 3(4)(c)](https://www.legislation.gov.uk/ukpga/2022/33/section/3/4/c)
+[^c-cd527088e3d2ebcba3acaba8667f1641]: Commencement: S. 3 in force at Royal Assent, see [s. 3(4)(c)](https://www.legislation.gov.uk/ukpga/2022/33/section/3/4/c)

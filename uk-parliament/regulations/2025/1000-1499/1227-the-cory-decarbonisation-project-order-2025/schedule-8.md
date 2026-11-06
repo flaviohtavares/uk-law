@@ -22,7 +22,7 @@ summary: ''
 
 Article 30
 
-### 1. Interpretation[^key-489e0ee4165bb22819bdd0e8479a0f26]
+### 1. Interpretation[^c-489e0ee4165bb22819bdd0e8479a0f26]
 
 In this Schedule—
 
@@ -62,4 +62,4 @@ In this Schedule—
 
 ## Annotations
 
-[^key-489e0ee4165bb22819bdd0e8479a0f26]: Commencement: Sch. 8 para. 1 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-489e0ee4165bb22819bdd0e8479a0f26]: Commencement: Sch. 8 para. 1 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)

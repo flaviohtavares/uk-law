@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Offence of allowing minors access to air weapons[^key-792706e513a9c505d6862b9a20e41ad5]
+## 46. Offence of allowing minors access to air weapons[^c-792706e513a9c505d6862b9a20e41ad5]
 
 *Extent: E+W+S*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-792706e513a9c505d6862b9a20e41ad5]: Commencement: S. 46 in force at 10.2.2011 by [S.I. 2011/144](https://www.legislation.gov.uk/uksi/2011/144), [art. 2](https://www.legislation.gov.uk/uksi/2011/144/article/2)
+[^c-792706e513a9c505d6862b9a20e41ad5]: Commencement: S. 46 in force at 10.2.2011 by [S.I. 2011/144](https://www.legislation.gov.uk/uksi/2011/144), [art. 2](https://www.legislation.gov.uk/uksi/2011/144/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Notices[^key-c815d16f5d64a403a53f4035913e5bc3]
+## 41. Notices[^c-c815d16f5d64a403a53f4035913e5bc3]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c815d16f5d64a403a53f4035913e5bc3]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2016/20/section/41) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)
+[^c-c815d16f5d64a403a53f4035913e5bc3]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2016/20/section/41) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)

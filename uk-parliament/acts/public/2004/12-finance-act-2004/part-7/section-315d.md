@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 315D. Other exemptions from liability to a penalty[^key-d10dfe4008417f142de1d00000be7d5a]
+## 315D. Other exemptions from liability to a penalty[^c-d10dfe4008417f142de1d00000be7d5a]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ then any legal advice which was given or procured by that monitored promoter and
 
 ## Annotations
 
-[^key-d10dfe4008417f142de1d00000be7d5a]: Textual amendment: [Ss. 315-315E](https://www.legislation.gov.uk/ukpga/2004/12/section/315) substituted for [s. 315](https://www.legislation.gov.uk/ukpga/2004/12/section/315) (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 216(2)(b)](https://www.legislation.gov.uk/ukpga/2026/11/section/216/2/b) (with [s. 219](https://www.legislation.gov.uk/ukpga/2026/11/section/219))
+[^c-d10dfe4008417f142de1d00000be7d5a]: Textual amendment: [Ss. 315-315E](https://www.legislation.gov.uk/ukpga/2004/12/section/315) substituted for [s. 315](https://www.legislation.gov.uk/ukpga/2004/12/section/315) (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 216(2)(b)](https://www.legislation.gov.uk/ukpga/2026/11/section/216/2/b) (with [s. 219](https://www.legislation.gov.uk/ukpga/2026/11/section/219))

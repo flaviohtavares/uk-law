@@ -37,7 +37,7 @@ and (except in the case of the reference in paragraph 5(1)(b) to the flat as a d
 - (a) the new lease shall determine, and
 - (b) the compensation payable to the tenant by virtue of the order shall become payable,
 
-on such date as may, when the amount of compensation has been determined either by agreement between the landlord and the tenant or by the appropriate tribunal[^key-0ed123d7846cfa319a6e0f1b2a71c3bd], be fixed by order of the court made on the application of either the landlord or the tenant.
+on such date as may, when the amount of compensation has been determined either by agreement between the landlord and the tenant or by the appropriate tribunal[^c-0ed123d7846cfa319a6e0f1b2a71c3bd], be fixed by order of the court made on the application of either the landlord or the tenant.
 
 (2) Where the application for possession was made by virtue of section 61(2)(a), then—
 
@@ -68,7 +68,7 @@ or otherwise.
 
 (4) A person in occupation of any property under a sub-lease liable to terminate under sub-paragraph (1) may, with the leave of the court, appear and be heard on any application for possession or any application under paragraph 2.
 
-**4.** Where an order has been made by the county court[^key-aa24c0f138fffd4303c88b7920b2907b] under paragraph 2, that court [^key-1f1f8254b62cb63482e94ad3518fd7d7]... shall have jurisdiction to hear and determine any proceedings brought by virtue of the order to recover possession of the property or to recover the compensation.
+**4.** Where an order has been made by the county court[^c-aa24c0f138fffd4303c88b7920b2907b] under paragraph 2, that court [^c-1f1f8254b62cb63482e94ad3518fd7d7]... shall have jurisdiction to hear and determine any proceedings brought by virtue of the order to recover possession of the property or to recover the compensation.
 
 **5.** (1) The amount payable to a tenant, by virtue of an order for possession, by way of compensation for loss of his flat shall be the amount which at the valuation date the new lease, if sold on the open market by a willing seller, might be expected to realise on the following assumptions—
 
@@ -116,11 +116,11 @@ the court may order that no further application for possession of the flat made 
 
 the sum received shall be dealt with as if it were proceeds of sale arising under the trust.
 
-**10.**[^key-e8ec77d84d22dcfb4637d4408c3faa0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-e8ec77d84d22dcfb4637d4408c3faa0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **11.**[^c17028791] Where—
 
-- (a) the tenant under the new lease is the Chapter of a cathedral[^key-6c0b632b30f9d6357f24a33e75e9efb8] and the lease comprises property which forms part of the endowment of a cathedral church, and
+- (a) the tenant under the new lease is the Chapter of a cathedral[^c-6c0b632b30f9d6357f24a33e75e9efb8] and the lease comprises property which forms part of the endowment of a cathedral church, and
 - (b) compensation is paid as mentioned in paragraph 9(b) above,
 
 the sum received shall be treated as part of that endowment.
@@ -132,7 +132,7 @@ the sum received shall be treated as part of that endowment.
 
 the sum received shall be paid to the Church Commissioners to be applied for purposes for which the proceeds of any disposition of property by agreement would be applicable under any enactment or Measure authorising such a disposition or disposing of the proceeds of such a disposition.
 
-(2)[^key-9c2df0efb9947e7df36bbed901d233dc] In this paragraph—
+(2)[^c-9c2df0efb9947e7df36bbed901d233dc] In this paragraph—
 
 - “**diocesan board of finance**” has the same meaning as “**DBF**” in the Church Property Measure 2018;
 - “**diocesan glebe land**” has the same meaning as in that Measure.
@@ -141,7 +141,7 @@ the sum received shall be paid to the Church Commissioners to be applied for pur
 
 [^c17028701]: Commencement: [Sch. 14](https://www.legislation.gov.uk/ukpga/1993/28/schedule/14) wholly in force at 1.11.1993 see [s. 188(2)](https://www.legislation.gov.uk/ukpga/1993/28/section/188/2) and [S.I. 1993/2134](https://www.legislation.gov.uk/uksi/1993/2134), [art. 5](https://www.legislation.gov.uk/uksi/1993/2134/article/5)
 
-[^key-0ed123d7846cfa319a6e0f1b2a71c3bd]: Textual amendment: Words in [Sch. 14 para. 2(1)](https://www.legislation.gov.uk/ukpga/1993/28/schedule/14/paragraph/2/1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 129](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/129) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-0ed123d7846cfa319a6e0f1b2a71c3bd]: Textual amendment: Words in [Sch. 14 para. 2(1)](https://www.legislation.gov.uk/ukpga/1993/28/schedule/14/paragraph/2/1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 129](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/129) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^c17028711]: Marginal citation: [1977 c. 42](https://www.legislation.gov.uk/ukpga/1977/42).
 
@@ -149,9 +149,9 @@ the sum received shall be paid to the Church Commissioners to be applied for pur
 
 [^c17028731]: Marginal citation: [1988 c. 50](https://www.legislation.gov.uk/ukpga/1988/50).
 
-[^key-aa24c0f138fffd4303c88b7920b2907b]: Textual amendment: Words in Sch. 14 para. 4 substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-aa24c0f138fffd4303c88b7920b2907b]: Textual amendment: Words in Sch. 14 para. 4 substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-1f1f8254b62cb63482e94ad3518fd7d7]: Textual amendment: Words in Sch. 14 para. 4 omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 100](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/100); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-1f1f8254b62cb63482e94ad3518fd7d7]: Textual amendment: Words in Sch. 14 para. 4 omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 100](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/100); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c17028741]: Marginal citation: [1927 c. 36](https://www.legislation.gov.uk/ukpga/1927/36).
 
@@ -161,10 +161,10 @@ the sum received shall be paid to the Church Commissioners to be applied for pur
 
 [^c17028771]: Textual amendment: Words in [Sch. 14 para. 9(a)](https://www.legislation.gov.uk/ukpga/1993/28/schedule/14/paragraph/9/a) substituted (1.1.1997) by [1996 c. 47](https://www.legislation.gov.uk/ukpga/1996/47), [s. 25(1)](https://www.legislation.gov.uk/ukpga/1996/47/section/25/1), [Sch. 3 para. 27(3)(b)](https://www.legislation.gov.uk/ukpga/1996/47/schedule/3/paragraph/27/3/b) (with [ss. 24(2)](https://www.legislation.gov.uk/ukpga/1996/47/section/24/2), [25(4)(5)](https://www.legislation.gov.uk/ukpga/1996/47/section/25/4/5)); [S.I. 1996/2974](https://www.legislation.gov.uk/uksi/1996/2974), [art.2](https://www.legislation.gov.uk/uksi/1996/2974/article/2)
 
-[^key-e8ec77d84d22dcfb4637d4408c3faa0d]: Textual amendment: Sch. 14 para. 10 omitted (19.5.2025) by virtue of [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4), [Sch. 1 para. 18(3)](https://www.legislation.gov.uk/ukpga/2022/6/schedule/1/paragraph/18/3); [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 4](https://www.legislation.gov.uk/uksi/2024/265/regulation/4), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2024/265/schedule/2/paragraph/3)
+[^c-e8ec77d84d22dcfb4637d4408c3faa0d]: Textual amendment: Sch. 14 para. 10 omitted (19.5.2025) by virtue of [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4), [Sch. 1 para. 18(3)](https://www.legislation.gov.uk/ukpga/2022/6/schedule/1/paragraph/18/3); [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 4](https://www.legislation.gov.uk/uksi/2024/265/regulation/4), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2024/265/schedule/2/paragraph/3)
 
 [^c17028791]: Modification: Sch. 14 para. 11 amended (30.6.1999) by [1999 No. 1](https://www.legislation.gov.uk/ukcm/1999/1), [ss. 36(2)(6)](https://www.legislation.gov.uk/ukcm/1999/1/section/36/2/6), [38(2)(3)](https://www.legislation.gov.uk/ukcm/1999/1/section/38/2/3) (with [ss. 33](https://www.legislation.gov.uk/ukcm/1999/1/section/33), [34](https://www.legislation.gov.uk/ukcm/1999/1/section/34), [38(6)](https://www.legislation.gov.uk/ukcm/1999/1/section/38/6), [37](https://www.legislation.gov.uk/ukcm/1999/1/section/37))
 
-[^key-6c0b632b30f9d6357f24a33e75e9efb8]: Textual amendment: Words in Sch. 14 para. 11(a) substituted (coming into force in accordance with s. 53(3) of the amending Measure) by [Cathedrals Measure 2021 (No. 2)](https://www.legislation.gov.uk/ukcm/2021/2), [Sch. 4 para. 25](https://www.legislation.gov.uk/ukcm/2021/2/schedule/4/paragraph/25) (with [ss. 42(4)](https://www.legislation.gov.uk/ukcm/2021/2/section/42/4), [48](https://www.legislation.gov.uk/ukcm/2021/2/section/48), [52(1)](https://www.legislation.gov.uk/ukcm/2021/2/section/52/1))
+[^c-6c0b632b30f9d6357f24a33e75e9efb8]: Textual amendment: Words in Sch. 14 para. 11(a) substituted (coming into force in accordance with s. 53(3) of the amending Measure) by [Cathedrals Measure 2021 (No. 2)](https://www.legislation.gov.uk/ukcm/2021/2), [Sch. 4 para. 25](https://www.legislation.gov.uk/ukcm/2021/2/schedule/4/paragraph/25) (with [ss. 42(4)](https://www.legislation.gov.uk/ukcm/2021/2/section/42/4), [48](https://www.legislation.gov.uk/ukcm/2021/2/section/48), [52(1)](https://www.legislation.gov.uk/ukcm/2021/2/section/52/1))
 
-[^key-9c2df0efb9947e7df36bbed901d233dc]: Textual amendment: [Sch. 14 para. 12(2)](https://www.legislation.gov.uk/ukpga/1993/28/schedule/14/paragraph/12/2) substituted (E.) (1.3.2019) by [Church Property Measure 2018 (No. 8)](https://www.legislation.gov.uk/ukcm/2018/8), [s. 53(2)](https://www.legislation.gov.uk/ukcm/2018/8/section/53/2), [Sch. 1 para. 20](https://www.legislation.gov.uk/ukcm/2018/8/schedule/1/paragraph/20); [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
+[^c-9c2df0efb9947e7df36bbed901d233dc]: Textual amendment: [Sch. 14 para. 12(2)](https://www.legislation.gov.uk/ukpga/1993/28/schedule/14/paragraph/12/2) substituted (E.) (1.3.2019) by [Church Property Measure 2018 (No. 8)](https://www.legislation.gov.uk/ukcm/2018/8), [s. 53(2)](https://www.legislation.gov.uk/ukcm/2018/8/section/53/2), [Sch. 1 para. 20](https://www.legislation.gov.uk/ukcm/2018/8/schedule/1/paragraph/20); [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)

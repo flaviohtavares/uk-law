@@ -37,13 +37,13 @@ summary: ''
 
 *Extent: N.I.*
 
-- (ha)[^key-812b50b84272e21b45182e7475d99060] the corresponding provisions of the Welfare Reform (Northern Ireland) Order 2015;
-- (i) Part 1 of the Welfare Reform Act 2012; *(Extent: N.I.)*[^key-92d09aca208a382a600a5c93a6568936]
+- (ha)[^c-812b50b84272e21b45182e7475d99060] the corresponding provisions of the Welfare Reform (Northern Ireland) Order 2015;
+- (i) Part 1 of the Welfare Reform Act 2012; *(Extent: N.I.)*[^c-92d09aca208a382a600a5c93a6568936]
 
 *Extent: N.I.*
 
-- (j)[^key-3e48ba822903ed15294e67cc0c672fc2] the corresponding provisions of the Welfare Reform (Northern Ireland) Order 2015.
-- (k)[^key-c732fdea92d98f6151c8a8a13e53a3fb] Part 2 of the Social Security (Scotland) Act 2018.
+- (j)[^c-3e48ba822903ed15294e67cc0c672fc2] the corresponding provisions of the Welfare Reform (Northern Ireland) Order 2015.
+- (k)[^c-c732fdea92d98f6151c8a8a13e53a3fb] Part 2 of the Social Security (Scotland) Act 2018.
 
 ## Annotations
 
@@ -65,10 +65,10 @@ summary: ''
 
 [^c2203596]: Textual amendment: Art. 56(3)(i) and preceding semicolon inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [49(5)](https://www.legislation.gov.uk/uksi/2013/630/regulation/49/5)
 
-[^key-812b50b84272e21b45182e7475d99060]: Textual amendment: Art. 56(3)(ha) inserted (N.I.) (20.6.2016) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/228)](https://www.legislation.gov.uk/nisr/2016/228), [regs. 1](https://www.legislation.gov.uk/nisr/2016/228/regulation/1), [32(3)](https://www.legislation.gov.uk/nisr/2016/228/regulation/32/3)
+[^c-812b50b84272e21b45182e7475d99060]: Textual amendment: Art. 56(3)(ha) inserted (N.I.) (20.6.2016) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/228)](https://www.legislation.gov.uk/nisr/2016/228), [regs. 1](https://www.legislation.gov.uk/nisr/2016/228/regulation/1), [32(3)](https://www.legislation.gov.uk/nisr/2016/228/regulation/32/3)
 
-[^key-92d09aca208a382a600a5c93a6568936]: Textual amendment: Art. 56(3)(i): semicolon added (N.I.) (coming into force in accordance with reg. 1(1) of the amending Rule) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/236)](https://www.legislation.gov.uk/nisr/2016/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1), [16(5)(a)](https://www.legislation.gov.uk/nisr/2016/236/regulation/16/5/a)
+[^c-92d09aca208a382a600a5c93a6568936]: Textual amendment: Art. 56(3)(i): semicolon added (N.I.) (coming into force in accordance with reg. 1(1) of the amending Rule) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/236)](https://www.legislation.gov.uk/nisr/2016/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1), [16(5)(a)](https://www.legislation.gov.uk/nisr/2016/236/regulation/16/5/a)
 
-[^key-3e48ba822903ed15294e67cc0c672fc2]: Textual amendment: Art. 56(3)(j) added (N.I.) (coming into force in accordance with reg. 1(1) of the amending Rule) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/236)](https://www.legislation.gov.uk/nisr/2016/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1), [16(5)(b)](https://www.legislation.gov.uk/nisr/2016/236/regulation/16/5/b)
+[^c-3e48ba822903ed15294e67cc0c672fc2]: Textual amendment: Art. 56(3)(j) added (N.I.) (coming into force in accordance with reg. 1(1) of the amending Rule) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/236)](https://www.legislation.gov.uk/nisr/2016/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1), [16(5)(b)](https://www.legislation.gov.uk/nisr/2016/236/regulation/16/5/b)
 
-[^key-c732fdea92d98f6151c8a8a13e53a3fb]: Textual amendment: Art. 56(3)(k) inserted (8.4.2024) by [The Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions (Amendment) Order 2024 (S.I. 2024/191)](https://www.legislation.gov.uk/uksi/2024/191), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2024/191/article/1/b), [3](https://www.legislation.gov.uk/uksi/2024/191/article/3)
+[^c-c732fdea92d98f6151c8a8a13e53a3fb]: Textual amendment: Art. 56(3)(k) inserted (8.4.2024) by [The Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions (Amendment) Order 2024 (S.I. 2024/191)](https://www.legislation.gov.uk/uksi/2024/191), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2024/191/article/1/b), [3](https://www.legislation.gov.uk/uksi/2024/191/article/3)

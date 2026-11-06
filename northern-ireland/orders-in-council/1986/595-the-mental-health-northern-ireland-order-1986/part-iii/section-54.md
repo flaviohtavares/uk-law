@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1)[^key-d51be89beae0fd2560495c78e18e2f5d] If in the case of a person to whom this Article applies the Secretary of State is satisfied by the same reports as are required *(affected by repeal, see note)*[^key-1b2f4fa54870f1978152e43fd81673ac] satisfied by the same report as is required for the purposes of Article 53—
+(1)[^c-d51be89beae0fd2560495c78e18e2f5d] If in the case of a person to whom this Article applies the Secretary of State is satisfied by the same reports as are required *(affected by repeal, see note)*[^c-1b2f4fa54870f1978152e43fd81673ac] satisfied by the same report as is required for the purposes of Article 53—
 
 - (a) that the person is suffering from mental illness or severe mental impairment; and
 - (b) that the mental disorder from which the person is suffering is of a nature or degree which warrants his detention in hospital for medical treatment; and
@@ -39,9 +39,9 @@ the Secretary of State shall have the same power of giving a transfer direction 
 
 ## Annotations
 
-[^key-d51be89beae0fd2560495c78e18e2f5d]: Modification: [Art. 54(1)](https://www.legislation.gov.uk/nisi/1986/595/article/54/1) expiry of earlier affecting provision 2020 c. 7, Sch. 10 paras. 3-13 (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
+[^c-d51be89beae0fd2560495c78e18e2f5d]: Modification: [Art. 54(1)](https://www.legislation.gov.uk/nisi/1986/595/article/54/1) expiry of earlier affecting provision 2020 c. 7, Sch. 10 paras. 3-13 (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
 
-[^key-1b2f4fa54870f1978152e43fd81673ac]: Textual amendment: Words in art. 54(1) substituted (temp.) (2.4.2020) by virtue of [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 87(2)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/2), [Sch. 10 para. 12(2)](https://www.legislation.gov.uk/ukpga/2020/7/schedule/10/paragraph/12/2) (with [ss. 88-90](https://www.legislation.gov.uk/ukpga/2020/7/section/88), [Sch. 10 para. 2](https://www.legislation.gov.uk/ukpga/2020/7/schedule/10/paragraph/2)); [S.R. 2020/58](https://www.legislation.gov.uk/nisr/2020/58), [art. 2(c)](https://www.legislation.gov.uk/nisr/2020/58/article/2/c)
+[^c-1b2f4fa54870f1978152e43fd81673ac]: Textual amendment: Words in art. 54(1) substituted (temp.) (2.4.2020) by virtue of [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 87(2)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/2), [Sch. 10 para. 12(2)](https://www.legislation.gov.uk/ukpga/2020/7/schedule/10/paragraph/12/2) (with [ss. 88-90](https://www.legislation.gov.uk/ukpga/2020/7/section/88), [Sch. 10 para. 2](https://www.legislation.gov.uk/ukpga/2020/7/schedule/10/paragraph/2)); [S.R. 2020/58](https://www.legislation.gov.uk/nisr/2020/58), [art. 2(c)](https://www.legislation.gov.uk/nisr/2020/58/article/2/c)
 
 [^m00009]: Marginal citation: 1971 c. 77
 

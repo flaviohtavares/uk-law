@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.1. First notice[^key-cf282f2512f5be694fb571c9351f181f]
+## 3.1. First notice[^c-cf282f2512f5be694fb571c9351f181f]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cf282f2512f5be694fb571c9351f181f]: Commencement: [Rule 3.1](https://www.legislation.gov.uk/ssi/2017/103/rule/3.1) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-cf282f2512f5be694fb571c9351f181f]: Commencement: [Rule 3.1](https://www.legislation.gov.uk/ssi/2017/103/rule/3.1) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)

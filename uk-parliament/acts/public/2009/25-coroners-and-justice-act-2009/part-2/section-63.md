@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Exclusion of classified film etc[^key-4c39115479ac8a99c504c4d8c5c395ce]
+## 63. Exclusion of classified film etc[^c-4c39115479ac8a99c504c4d8c5c395ce]
 
 *Extent: E+W+N.I.*
 
@@ -58,4 +58,4 @@ is to be disregarded.
 
 ## Annotations
 
-[^key-4c39115479ac8a99c504c4d8c5c395ce]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2009/25/section/63) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/1)
+[^c-4c39115479ac8a99c504c4d8c5c395ce]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2009/25/section/63) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/1)

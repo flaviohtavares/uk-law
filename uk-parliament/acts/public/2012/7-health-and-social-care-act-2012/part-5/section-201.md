@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 201. Disclosure of reports etc. by the Health Service Commissioner[^key-9892d5dea354153625c9c8c5d468b7aa]
+## 201. Disclosure of reports etc. by the Health Service Commissioner[^c-9892d5dea354153625c9c8c5d468b7aa]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ In section 14 of the Health Service Commissioners Act 1993 (reports etc. by the 
 
 ## Annotations
 
-[^key-9892d5dea354153625c9c8c5d468b7aa]: Commencement: [S. 201](https://www.legislation.gov.uk/ukpga/2012/7/section/201) in force at 1.7.2012 by [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/3)
+[^c-9892d5dea354153625c9c8c5d468b7aa]: Commencement: [S. 201](https://www.legislation.gov.uk/ukpga/2012/7/section/201) in force at 1.7.2012 by [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/3)

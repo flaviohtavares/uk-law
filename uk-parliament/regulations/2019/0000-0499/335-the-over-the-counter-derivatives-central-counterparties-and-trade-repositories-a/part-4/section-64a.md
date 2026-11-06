@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64A. Supervision of trade repositories[^M_I_b649b13c-d679-4418-cda4-aee9e16dd648][^key-cc0d4dcd11b1f412892eff6a1adc3cf2]
+## 64A. Supervision of trade repositories[^M_I_b649b13c-d679-4418-cda4-aee9e16dd648][^c-cc0d4dcd11b1f412892eff6a1adc3cf2]
 
 *Extent: E+W+S+N.I.*
 
@@ -80,4 +80,4 @@ it must give the trade repository written notice.
 
 [^M_I_b649b13c-d679-4418-cda4-aee9e16dd648]: Commencement: Reg. 64A in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-cc0d4dcd11b1f412892eff6a1adc3cf2]: Textual amendment: Pt. 4 Ch. 1A inserted (31.12.2020 immediately before IP completion day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [52(6)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/52/6)
+[^c-cc0d4dcd11b1f412892eff6a1adc3cf2]: Textual amendment: Pt. 4 Ch. 1A inserted (31.12.2020 immediately before IP completion day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [52(6)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/52/6)

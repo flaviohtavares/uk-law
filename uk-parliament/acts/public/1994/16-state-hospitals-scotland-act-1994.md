@@ -68,9 +68,9 @@ For section 102 of the [^c861892]National Health Service (Scotland) Act 1978 (st
 
 (3) Sections 90 and 91(1) of the [^c861894]Mental Health (Scotland) Act 1984 are hereby repealed.
 
-(4)[^key-6e9ca6a32b4c574fa623b4dac1cac4e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-6e9ca6a32b4c574fa623b4dac1cac4e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-6e9ca6a32b4c574fa623b4dac1cac4e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-6e9ca6a32b4c574fa623b4dac1cac4e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 3. Short title, commencement and extent.
 
@@ -92,6 +92,6 @@ For section 102 of the [^c861892]National Health Service (Scotland) Act 1978 (st
 
 [^c861894]: Marginal citation: [1984 c. 36](https://www.legislation.gov.uk/ukpga/1984/36).
 
-[^key-6e9ca6a32b4c574fa623b4dac1cac4e3]: Textual amendment: S. 2(4)(5) repealed (5.10.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13)](https://www.legislation.gov.uk/asp/2003/13), [s. 333(2)](https://www.legislation.gov.uk/asp/2003/13/section/333/2), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/asp/2003/13/schedule/5/part/1); [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2; and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-6e9ca6a32b4c574fa623b4dac1cac4e3]: Textual amendment: S. 2(4)(5) repealed (5.10.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13)](https://www.legislation.gov.uk/asp/2003/13), [s. 333(2)](https://www.legislation.gov.uk/asp/2003/13/section/333/2), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/asp/2003/13/schedule/5/part/1); [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2; and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
 
 [^c861895]: Subordinate legislation: [S. 3(2)](https://www.legislation.gov.uk/ukpga/1994/16/section/3/2) power fully exercised (3.3.1995): 1.4.1995 for whole Act by [S.I. 1995/576](https://www.legislation.gov.uk/uksi/1995/576)

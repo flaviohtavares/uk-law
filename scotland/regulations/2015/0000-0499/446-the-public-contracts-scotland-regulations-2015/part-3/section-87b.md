@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 87B. Duty owed to economic operators from countries with whom the United Kingdom has an international agreement, other than the GPA[^key-a599350a6be87edb2d0decbacc9a8fbd]
+## 87B. Duty owed to economic operators from countries with whom the United Kingdom has an international agreement, other than the GPA[^c-a599350a6be87edb2d0decbacc9a8fbd]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a599350a6be87edb2d0decbacc9a8fbd]: Textual amendment: [Reg. 87B](https://www.legislation.gov.uk/ssi/2015/446/regulation/87B) inserted (2.7.2021) by [The Public Procurement (International Trade Agreements) (Amendment) Regulations 2021 (S.I. 2021/787)](https://www.legislation.gov.uk/uksi/2021/787), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/787/regulation/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2021/787/regulation/5/3)
+[^c-a599350a6be87edb2d0decbacc9a8fbd]: Textual amendment: [Reg. 87B](https://www.legislation.gov.uk/ssi/2015/446/regulation/87B) inserted (2.7.2021) by [The Public Procurement (International Trade Agreements) (Amendment) Regulations 2021 (S.I. 2021/787)](https://www.legislation.gov.uk/uksi/2021/787), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/787/regulation/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2021/787/regulation/5/3)

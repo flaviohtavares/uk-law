@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 1 — GLOSSARY OF EXPRESSIONS[^key-0f4d071b640de88d90f9186857073db5]
+## SCHEDULE 1 — GLOSSARY OF EXPRESSIONS[^c-0f4d071b640de88d90f9186857073db5]
 
 *Extent: E+W+S*
 
@@ -130,7 +130,7 @@ Regulation A2(1)
 
 ## Annotations
 
-[^key-0f4d071b640de88d90f9186857073db5]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/1986/24/schedule/1) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-0f4d071b640de88d90f9186857073db5]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/1986/24/schedule/1) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
 [^f00088]: Footnote: [1922 c.59](https://www.legislation.gov.uk/ukpga/1922/59).
 

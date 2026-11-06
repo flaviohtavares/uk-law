@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 14. Length of notice to quit : by landlords[^key-279305527e005e32234e0ccb56f5fd07][^key-5114f5299fcc6bf606d9805871bdf514]
+## 14. Length of notice to quit : by landlords[^c-279305527e005e32234e0ccb56f5fd07][^c-5114f5299fcc6bf606d9805871bdf514]
 
 *Extent: N.I.*
 
-(1)[^M_C_be7d7888-3906-40b3-efa5-2f5132fda7e4][^key-a1192a8fca64a45f7cd4a6c19892821f] A notice by a landlord to quit a dwelling-house let under a private tenancy is not valid unless—
+(1)[^M_C_be7d7888-3906-40b3-efa5-2f5132fda7e4][^c-a1192a8fca64a45f7cd4a6c19892821f] A notice by a landlord to quit a dwelling-house let under a private tenancy is not valid unless—
 
 - (a) it is in the prescribed form and contains the prescribed information, and
 - (b) it is given not less than the relevant period before the date on which it is to take effect.
 
-(1A)[^key-a95faf59f12cc4bd6c23991e3b05ce29] For the purposes of paragraph (1) the relevant period is—
+(1A)[^c-a95faf59f12cc4bd6c23991e3b05ce29] For the purposes of paragraph (1) the relevant period is—
 
 - (a) 8 weeks, if the tenancy has not been in existence for more than 12 months;
 - (b) 4 months, if the tenancy has been in existence for more than 12 months but not for more than 3 years;
@@ -72,12 +72,12 @@ but this is subject to regulations made under paragraph (5).
 
 ## Annotations
 
-[^key-279305527e005e32234e0ccb56f5fd07]: Modification: [Art. 14](https://www.legislation.gov.uk/nisi/2006/1459/article/14) applied (with modifications) (28.4.2022 for specified purposes) by [Private Tenancies Act (Northern Ireland) 2022 (c. 20)](https://www.legislation.gov.uk/nia/2022/20), [ss. 11(10)](https://www.legislation.gov.uk/nia/2022/20/section/11/10), [14(2)(g)(3)-(5)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/g) (with [s. 11(11)](https://www.legislation.gov.uk/nia/2022/20/section/11/11))
+[^c-279305527e005e32234e0ccb56f5fd07]: Modification: [Art. 14](https://www.legislation.gov.uk/nisi/2006/1459/article/14) applied (with modifications) (28.4.2022 for specified purposes) by [Private Tenancies Act (Northern Ireland) 2022 (c. 20)](https://www.legislation.gov.uk/nia/2022/20), [ss. 11(10)](https://www.legislation.gov.uk/nia/2022/20/section/11/10), [14(2)(g)(3)-(5)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/g) (with [s. 11(11)](https://www.legislation.gov.uk/nia/2022/20/section/11/11))
 
-[^key-5114f5299fcc6bf606d9805871bdf514]: Textual amendment: Words in [art. 14](https://www.legislation.gov.uk/nisi/2006/1459/article/14) heading added (28.4.2022 for specified purposes) by [Private Tenancies Act (Northern Ireland) 2022 (c. 20)](https://www.legislation.gov.uk/nia/2022/20), [ss. 11(5)](https://www.legislation.gov.uk/nia/2022/20/section/11/5), [14(2)(g)(3)-(5)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/g) (with [s. 11(11)](https://www.legislation.gov.uk/nia/2022/20/section/11/11))
+[^c-5114f5299fcc6bf606d9805871bdf514]: Textual amendment: Words in [art. 14](https://www.legislation.gov.uk/nisi/2006/1459/article/14) heading added (28.4.2022 for specified purposes) by [Private Tenancies Act (Northern Ireland) 2022 (c. 20)](https://www.legislation.gov.uk/nia/2022/20), [ss. 11(5)](https://www.legislation.gov.uk/nia/2022/20/section/11/5), [14(2)(g)(3)-(5)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/g) (with [s. 11(11)](https://www.legislation.gov.uk/nia/2022/20/section/11/11))
 
 [^M_C_be7d7888-3906-40b3-efa5-2f5132fda7e4]: Modification: [Art. 14(1)](https://www.legislation.gov.uk/nisi/2006/1459/article/14/1) applied (with modifications) (28.4.2022 for specified purposes) by [Private Tenancies Act (Northern Ireland) 2022 (c. 20)](https://www.legislation.gov.uk/nia/2022/20), [ss. 11(9)](https://www.legislation.gov.uk/nia/2022/20/section/11/9), [14(2)(g)(3)-(5)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/g) (with [s. 11(11)](https://www.legislation.gov.uk/nia/2022/20/section/11/11))
 
-[^key-a1192a8fca64a45f7cd4a6c19892821f]: Textual amendment: [Art. 14(1)](https://www.legislation.gov.uk/nisi/2006/1459/article/14/1) substituted (28.4.2022 for specified purposes) by [Private Tenancies Act (Northern Ireland) 2022 (c. 20)](https://www.legislation.gov.uk/nia/2022/20), [ss. 11(3)](https://www.legislation.gov.uk/nia/2022/20/section/11/3), [14(2)(g)(3)-(5)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/g) (with [s. 11(11)](https://www.legislation.gov.uk/nia/2022/20/section/11/11))
+[^c-a1192a8fca64a45f7cd4a6c19892821f]: Textual amendment: [Art. 14(1)](https://www.legislation.gov.uk/nisi/2006/1459/article/14/1) substituted (28.4.2022 for specified purposes) by [Private Tenancies Act (Northern Ireland) 2022 (c. 20)](https://www.legislation.gov.uk/nia/2022/20), [ss. 11(3)](https://www.legislation.gov.uk/nia/2022/20/section/11/3), [14(2)(g)(3)-(5)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/g) (with [s. 11(11)](https://www.legislation.gov.uk/nia/2022/20/section/11/11))
 
-[^key-a95faf59f12cc4bd6c23991e3b05ce29]: Textual amendment: [Art. 14(1A)-(10)](https://www.legislation.gov.uk/nisi/2006/1459/article/14/1A) substituted for [art. 14(1A)(2)](https://www.legislation.gov.uk/nisi/2006/1459/article/14/1A) (28.4.2022 for specified purposes) by [Private Tenancies Act (Northern Ireland) 2022 (c. 20)](https://www.legislation.gov.uk/nia/2022/20), [ss. 11(4)](https://www.legislation.gov.uk/nia/2022/20/section/11/4), [14(2)(g)(3)-(6)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/g) (with [s. 11(11)](https://www.legislation.gov.uk/nia/2022/20/section/11/11))
+[^c-a95faf59f12cc4bd6c23991e3b05ce29]: Textual amendment: [Art. 14(1A)-(10)](https://www.legislation.gov.uk/nisi/2006/1459/article/14/1A) substituted for [art. 14(1A)(2)](https://www.legislation.gov.uk/nisi/2006/1459/article/14/1A) (28.4.2022 for specified purposes) by [Private Tenancies Act (Northern Ireland) 2022 (c. 20)](https://www.legislation.gov.uk/nia/2022/20), [ss. 11(4)](https://www.legislation.gov.uk/nia/2022/20/section/11/4), [14(2)(g)(3)-(6)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/g) (with [s. 11(11)](https://www.legislation.gov.uk/nia/2022/20/section/11/11))

@@ -31,7 +31,7 @@ summary: ''
 
 TOWN AND COUNTRY PLANNING, ENGLAND AND WALES
 
-The Channel Tunnel Rail Link (Assessment of Environmental Effects) Regulations 1999 (revoked)[^key-2afa06f4934ad45e5700e7543ec97a30]
+The Channel Tunnel Rail Link (Assessment of Environmental Effects) Regulations 1999 (revoked)[^c-2afa06f4934ad45e5700e7543ec97a30]
 
 Made
 
@@ -45,32 +45,32 @@ Coming into force
 
 17th February 1999
 
-[^key-2afa06f4934ad45e5700e7543ec97a30]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2afa06f4934ad45e5700e7543ec97a30]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, Commencement and Interpretation[^key-2afa06f4934ad45e5700e7543ec97a30]
+## 1. Title, Commencement and Interpretation[^c-2afa06f4934ad45e5700e7543ec97a30]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Application[^key-2afa06f4934ad45e5700e7543ec97a30]
+## 2. Application[^c-2afa06f4934ad45e5700e7543ec97a30]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Application of section 9(1) of the Channel Tunnel Rail Link Act 1996[^key-2afa06f4934ad45e5700e7543ec97a30]
+## 3. Application of section 9(1) of the Channel Tunnel Rail Link Act 1996[^c-2afa06f4934ad45e5700e7543ec97a30]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Modification of the Town and Country Planning (Environmental Assessment and Permitted Development) Regulations 1995[^key-2afa06f4934ad45e5700e7543ec97a30]
+## 4. Modification of the Town and Country Planning (Environmental Assessment and Permitted Development) Regulations 1995[^c-2afa06f4934ad45e5700e7543ec97a30]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2afa06f4934ad45e5700e7543ec97a30]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2afa06f4934ad45e5700e7543ec97a30]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-2afa06f4934ad45e5700e7543ec97a30]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2afa06f4934ad45e5700e7543ec97a30]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2afa06f4934ad45e5700e7543ec97a30]: Textual amendment: Regulations revoked (30.6.2014) by [The Channel Tunnel Rail Link (Planning Appeals and Assessment of Environmental Effects) (Revocation) Regulations 2014 (S.I. 2014/1333)](https://www.legislation.gov.uk/uksi/2014/1333), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1333/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2014/1333/regulation/2/b)
+[^c-2afa06f4934ad45e5700e7543ec97a30]: Textual amendment: Regulations revoked (30.6.2014) by [The Channel Tunnel Rail Link (Planning Appeals and Assessment of Environmental Effects) (Revocation) Regulations 2014 (S.I. 2014/1333)](https://www.legislation.gov.uk/uksi/2014/1333), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1333/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2014/1333/regulation/2/b)

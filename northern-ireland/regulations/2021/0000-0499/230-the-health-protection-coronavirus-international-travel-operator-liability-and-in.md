@@ -32,7 +32,7 @@ summary: ''
 
 Public Health
 
-The Health Protection (Coronavirus, International Travel, Operator Liability and Information to Passengers) (Amendment No. 5) Regulations (Northern Ireland) 2021 (revoked)[^key-58985dbfa8ed373a66dbab79b462fc4e]
+The Health Protection (Coronavirus, International Travel, Operator Liability and Information to Passengers) (Amendment No. 5) Regulations (Northern Ireland) 2021 (revoked)[^c-58985dbfa8ed373a66dbab79b462fc4e]
 
 Made
 
@@ -42,63 +42,63 @@ Coming into operation
 
 at 4.00 a.m. on 8th August 2021
 
-[^key-58985dbfa8ed373a66dbab79b462fc4e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-58985dbfa8ed373a66dbab79b462fc4e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-58985dbfa8ed373a66dbab79b462fc4e]
+## 1. Citation, commencement and interpretation[^c-58985dbfa8ed373a66dbab79b462fc4e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Health Protection (Coronavirus, International Travel) Regulations (Northern Ireland) 2021[^key-58985dbfa8ed373a66dbab79b462fc4e]
+## 2. Amendment of the Health Protection (Coronavirus, International Travel) Regulations (Northern Ireland) 2021[^c-58985dbfa8ed373a66dbab79b462fc4e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments to Schedule 1[^key-58985dbfa8ed373a66dbab79b462fc4e]
+## 3. Amendments to Schedule 1[^c-58985dbfa8ed373a66dbab79b462fc4e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendments to Schedule 2[^key-58985dbfa8ed373a66dbab79b462fc4e]
+## 4. Amendments to Schedule 2[^c-58985dbfa8ed373a66dbab79b462fc4e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment to Schedule 2A[^key-58985dbfa8ed373a66dbab79b462fc4e]
+## 5. Amendment to Schedule 2A[^c-58985dbfa8ed373a66dbab79b462fc4e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment to Schedule 4[^key-58985dbfa8ed373a66dbab79b462fc4e]
+## 6. Amendment to Schedule 4[^c-58985dbfa8ed373a66dbab79b462fc4e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment to Schedule 7[^key-58985dbfa8ed373a66dbab79b462fc4e]
+## 7. Amendment to Schedule 7[^c-58985dbfa8ed373a66dbab79b462fc4e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendment to the Health Protection (Coronavirus, International Travel, Operator Liability and Information to Passengers) Regulations (Northern Ireland) 2021[^key-58985dbfa8ed373a66dbab79b462fc4e]
+## 8. Amendment to the Health Protection (Coronavirus, International Travel, Operator Liability and Information to Passengers) Regulations (Northern Ireland) 2021[^c-58985dbfa8ed373a66dbab79b462fc4e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Amendment to regulation 3[^key-58985dbfa8ed373a66dbab79b462fc4e]
+## 9. Amendment to regulation 3[^c-58985dbfa8ed373a66dbab79b462fc4e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Amendment to regulation 4A[^key-58985dbfa8ed373a66dbab79b462fc4e]
+## 10. Amendment to regulation 4A[^c-58985dbfa8ed373a66dbab79b462fc4e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Amendment to regulation 8[^key-58985dbfa8ed373a66dbab79b462fc4e]
+## 11. Amendment to regulation 8[^c-58985dbfa8ed373a66dbab79b462fc4e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Transitional and savings provision[^key-58985dbfa8ed373a66dbab79b462fc4e]
+## 12. Transitional and savings provision[^c-58985dbfa8ed373a66dbab79b462fc4e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-58985dbfa8ed373a66dbab79b462fc4e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-58985dbfa8ed373a66dbab79b462fc4e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-58985dbfa8ed373a66dbab79b462fc4e]EXPLANATORY NOTE
+[^c-58985dbfa8ed373a66dbab79b462fc4e]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -122,4 +122,4 @@ No impact assessment has been prepared for these Regulations.
 
 ## Annotations
 
-[^key-58985dbfa8ed373a66dbab79b462fc4e]: Textual amendment: [Rule](https://www.legislation.gov.uk/nisr/2021/230) revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel, Operator Liability and Information to Passengers) (Revocation) Regulations (Northern Ireland) 2022 (S.R. 2022/122)](https://www.legislation.gov.uk/nisr/2022/122), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/122/regulation/1/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/122/schedule)
+[^c-58985dbfa8ed373a66dbab79b462fc4e]: Textual amendment: [Rule](https://www.legislation.gov.uk/nisr/2021/230) revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel, Operator Liability and Information to Passengers) (Revocation) Regulations (Northern Ireland) 2022 (S.R. 2022/122)](https://www.legislation.gov.uk/nisr/2022/122), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/122/regulation/1/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/122/schedule)

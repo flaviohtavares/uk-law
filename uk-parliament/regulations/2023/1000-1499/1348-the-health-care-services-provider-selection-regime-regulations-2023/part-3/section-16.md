@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Framework agreements[^key-2fbee4b9c5c90786ff4279b15d5b92bb]
+## 16. Framework agreements[^c-2fbee4b9c5c90786ff4279b15d5b92bb]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2fbee4b9c5c90786ff4279b15d5b92bb]: Commencement: Reg. 16 in force at 1.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/1/1)
+[^c-2fbee4b9c5c90786ff4279b15d5b92bb]: Commencement: Reg. 16 in force at 1.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/1/1)

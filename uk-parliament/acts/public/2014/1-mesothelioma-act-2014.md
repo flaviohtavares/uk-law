@@ -37,7 +37,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Diffuse Mesothelioma Payment Scheme
 
-### 1. Power to establish the scheme[^key-2cc91f7d22a0c40ff6ac89f08dde6de7]
+### 1. Power to establish the scheme[^c-2cc91f7d22a0c40ff6ac89f08dde6de7]
 
 (1) The Secretary of State may by regulations establish a scheme called the Diffuse Mesothelioma Payment Scheme for making payments to—
 
@@ -48,7 +48,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Eligibility
 
-### 2. Eligible people with diffuse mesothelioma[^key-70d1ce0934feb2560ded7c8f5de54da4]
+### 2. Eligible people with diffuse mesothelioma[^c-70d1ce0934feb2560ded7c8f5de54da4]
 
 (1) A person diagnosed with diffuse mesothelioma is eligible for a payment under the scheme if—
 
@@ -66,7 +66,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
   - (b) would have been required by the compulsory insurance legislation to maintain insurance covering any liability arising because of the exposure to asbestos if the legislation had been in force at that time;
 - “**specified payment**” has the meaning to be given to it by the scheme.
 
-### 3. Eligible dependants[^key-1d2119308653fad1bd0fcae3db1dd462]
+### 3. Eligible dependants[^c-1d2119308653fad1bd0fcae3db1dd462]
 
 (1) A dependant of a person who has died with diffuse mesothelioma is eligible for a payment under the scheme if —
 
@@ -88,7 +88,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Payments and procedure
 
-### 4. Payments[^key-b9b0b438a2d216c53bdbe9849402396d]
+### 4. Payments[^c-b9b0b438a2d216c53bdbe9849402396d]
 
 (1) The amount of a payment under the scheme is to be determined in accordance with the scheme.
 
@@ -108,7 +108,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (6) The scheme must provide that where an eligible person has made an application in accordance with the scheme and has died before the payment is made, the payment must be made to his or her personal representatives.
 
-### 5. Applications and procedure[^key-67ff51154c12492c83eb4275f4235690]
+### 5. Applications and procedure[^c-67ff51154c12492c83eb4275f4235690]
 
 (1) The scheme may deal with the procedure for the making and deciding of applications and, in particular, may—
 
@@ -118,7 +118,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (2) The scheme may enable a court to order a person to comply with a requirement to produce documents.
 
-### 6. Reviews and appeals[^key-010ffbeef9e9486266026e8d1851a800]
+### 6. Reviews and appeals[^c-010ffbeef9e9486266026e8d1851a800]
 
 (1) The scheme—
 
@@ -133,7 +133,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Scheme administration
 
-### 7. Scheme administration[^key-0c3bf80272fea2c869a3da501e45c52e]
+### 7. Scheme administration[^c-0c3bf80272fea2c869a3da501e45c52e]
 
 (1) The Secretary of State may—
 
@@ -158,7 +158,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (6) For the purposes of this Act, a reference to administering the scheme includes carrying out any functions conferred by or under any enactment on the scheme administrator.
 
-### 8. Unauthorised disclosure of information: offence[^key-720d5fe2625d68d47a974354a7b36469]
+### 8. Unauthorised disclosure of information: offence[^c-720d5fe2625d68d47a974354a7b36469]
 
 (1) A person involved in the administration of the scheme must not, without lawful authority, disclose information which—
 
@@ -186,13 +186,13 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - (b) a person providing services to the scheme administrator, or
 - (c) an officer or employee of a person within paragraph (a) or (b).
 
-### 9. Unauthorised disclosure of information: penalties etc[^key-d80f9c304e68d9acef84d7c2052b860f]
+### 9. Unauthorised disclosure of information: penalties etc[^c-d80f9c304e68d9acef84d7c2052b860f]
 
 (1) A person guilty of an offence under section 8 is liable on conviction on indictment to imprisonment for a term not exceeding two years or a fine or both.
 
 (2) A person guilty of an offence under section 8 is liable—
 
-- (a) on summary conviction in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-8dfa8ac0deff8a87aac79a91b13ec9c0] or a fine;
+- (a) on summary conviction in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^c-8dfa8ac0deff8a87aac79a91b13ec9c0] or a fine;
 - (b) on summary conviction in Scotland, to imprisonment for a term not exceeding 12 months or a fine not exceeding the statutory maximum or both;
 - (c) on summary conviction in Northern Ireland, to imprisonment for a term not exceeding 6 months or a fine not exceeding the statutory maximum or both.
 
@@ -220,13 +220,13 @@ the partner as well as the Scottish partnership is guilty of the offence.
   - (b) a person purporting to act in any such a capacity;
 - “**partner**”, in relation to a Scottish partnership, includes any person who was purporting to act as a partner in the partnership.
 
-(7) In relation to an offence committed in England and Wales before 2 May 2022[^key-3efd28264e908307c89bb76ae79b30a1], the reference in subsection (2)(a) above to “ the general limit in a magistrates’ court[^key-7315237f31c54876aaea9e09a16f8692] ” is to be read as a reference to “6 months”.
+(7) In relation to an offence committed in England and Wales before 2 May 2022[^c-3efd28264e908307c89bb76ae79b30a1], the reference in subsection (2)(a) above to “ the general limit in a magistrates’ court[^c-7315237f31c54876aaea9e09a16f8692] ” is to be read as a reference to “6 months”.
 
 (8) In relation to an offence committed in England and Wales before section 85 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012 comes into force, the reference in subsection (2)(a) above to a fine is to be read as a reference to a fine not exceeding the statutory maximum.
 
 ## Recovery of payments etc
 
-### 10. Power of scheme administrator to help people bring proceedings[^key-7606034c7a4e59be2b9d537b37bd5ead]
+### 10. Power of scheme administrator to help people bring proceedings[^c-7606034c7a4e59be2b9d537b37bd5ead]
 
 (1) Where a payment is made under the scheme, the scheme administrator may help a person to bring relevant proceedings (for example by conducting proceedings or by giving advice or financial help).
 
@@ -244,7 +244,7 @@ the partner as well as the Scottish partnership is guilty of the offence.
 
 (5) The Secretary of State may by regulations amend subsection (2) to include other proceedings (which may be proceedings against someone other than an employer or insurer).
 
-### 11. Recovery of benefits etc from payments and recovery of payments[^key-e0e08f569b7bde13901c27cec190c096]
+### 11. Recovery of benefits etc from payments and recovery of payments[^c-e0e08f569b7bde13901c27cec190c096]
 
 Schedule 1 contains amendments to other legislation. Broadly—
 
@@ -254,13 +254,13 @@ Schedule 1 contains amendments to other legislation. Broadly—
 
 ## Relationship with other legislation
 
-### 12. Exclusion of payments under other legislation[^key-d3dad4e3727d2fb04ad1ee97cba8b979]
+### 12. Exclusion of payments under other legislation[^c-d3dad4e3727d2fb04ad1ee97cba8b979]
 
 Schedule 2 contains amendments to other legislation to ensure that where an application is made under the scheme a person does not receive certain other payments.
 
 ## Levy on insurers
 
-### 13. The levy[^key-aba4a7ef93aa712b8f08c0ffc6da0ec5]
+### 13. The levy[^c-aba4a7ef93aa712b8f08c0ffc6da0ec5]
 
 (1) The Secretary of State must make regulations requiring active insurers to pay a levy with a view to meeting the costs of the Diffuse Mesothelioma Payment Scheme during any given period.
 
@@ -293,7 +293,7 @@ Schedule 2 contains amendments to other legislation to ensure that where an appl
   - (b) the Social Security (Recovery of Benefits) (Northern Ireland) Order 1997 (S.I. 1997/1183 (N.I. 12));
 - “**reference period**” means a 12-month period determined in accordance with the regulations, and a reference period may be a period before this Act was passed.
 
-### 14. Collecting information for purposes of levy[^key-89b740cf4bfb26677189cefea8c2e7ce]
+### 14. Collecting information for purposes of levy[^c-89b740cf4bfb26677189cefea8c2e7ce]
 
 (1) The Secretary of State may require an active insurer to provide information for the purposes of working out how much to require different insurers to pay towards the levy under section 13.
 
@@ -355,7 +355,7 @@ Schedule 2 contains amendments to other legislation to ensure that where an appl
 
 ## General
 
-### 17. Regulations under this Act[^key-638b92985631697cacf53b955f9e16de]
+### 17. Regulations under this Act[^c-638b92985631697cacf53b955f9e16de]
 
 (1) Regulations under this Act are to be made by statutory instrument.
 
@@ -370,7 +370,7 @@ may not be made unless a draft of the instrument has been laid before and approv
 
 (4) Regulations under this Act may include incidental, supplementary, consequential, transitional, transitory or saving provision.
 
-### 18. Defined terms used in more than one section of this Act[^key-e204bf9a537305bf565e9b63d7f6263d]
+### 18. Defined terms used in more than one section of this Act[^c-e204bf9a537305bf565e9b63d7f6263d]
 
 (1) In this Act—
 
@@ -437,9 +437,9 @@ Section 11
 
 #### Recovery of benefits etc from scheme payments: England and Wales and Scotland
 
-**1.**[^key-d9e3431476616378ed6a9947286fafb6] The Social Security (Recovery of Benefits) Act 1997 is amended as follows.
+**1.**[^c-d9e3431476616378ed6a9947286fafb6] The Social Security (Recovery of Benefits) Act 1997 is amended as follows.
 
-**2.**[^key-d7394b5dffa49939736c320731cdab04] In section 1(2)—
+**2.**[^c-d7394b5dffa49939736c320731cdab04] In section 1(2)—
 
 - (a) omit the word “or” at the end of paragraph (a);
 - (b) at the end of paragraph (b) insert
@@ -450,7 +450,7 @@ Section 11
 
   .
 
-**3.**[^key-e94697a1823b41e6e7bb4d9ecb62aae3] After section 8 insert—
+**3.**[^c-e94697a1823b41e6e7bb4d9ecb62aae3] After section 8 insert—
 
 > **8A. Reduction of payment under Diffuse Mesothelioma Payment Scheme**
 >
@@ -466,23 +466,23 @@ Section 11
 > - (a) the person is paid the gross amount of the compensation payment less the amount of the recoverable benefit, or
 > - (b) the amount of the recoverable benefit is equal to or greater than the gross amount of the compensation payment and the person is given a statement by the scheme administrator saying that the compensation payment has been reduced to nil.
 
-**4.**[^key-1378aa245afc8ef2727456e58d9c7874] In section 10 after subsection (3) insert—
+**4.**[^c-1378aa245afc8ef2727456e58d9c7874] In section 10 after subsection (3) insert—
 
 > (4) The scheme administrator of the Diffuse Mesothelioma Payment Scheme may not apply for a review under this section.
 
-**5.**[^key-401b8084c07bf26dd9ac0a40d0880db1] In section 11(2) after paragraph (b) insert—
+**5.**[^c-401b8084c07bf26dd9ac0a40d0880db1] In section 11(2) after paragraph (b) insert—
 
 > but the scheme administrator of the Diffuse Mesothelioma Payment Scheme may not appeal under this section.
 
-**6.**[^key-9c50f939579afb7479b6e5a1b67fe30d] In section 13(2) after paragraph (c) insert—
+**6.**[^c-9c50f939579afb7479b6e5a1b67fe30d] In section 13(2) after paragraph (c) insert—
 
 > but the scheme administrator of the Diffuse Mesothelioma Payment Scheme may not appeal under this section.
 
-**7.**[^key-b936c48623be2af6d593c9041483ddc0] In section 29 at the end insert—
+**7.**[^c-b936c48623be2af6d593c9041483ddc0] In section 29 at the end insert—
 
 > “**scheme administrator**”, in relation to the Diffuse Mesothelioma Payment Scheme, has the meaning given by section 18 of the Mesothelioma Act 2014.
 
-**8.**[^key-dd52724dea191eac997c7623f21a521d] In the following provisions after “section 8” insert “ or 8A ”
+**8.**[^c-dd52724dea191eac997c7623f21a521d] In the following provisions after “section 8” insert “ or 8A ”
 
 - section 9(1), (2), (3)(a) and (4)(a);
 - section 11(2)(b);
@@ -494,13 +494,13 @@ Section 11
 
 #### Recovery of benefits etc from scheme payments: Northern Ireland
 
-**9.**[^key-d22e0ea7f373cc45f3b07e5e88887d67] The Social Security (Recovery of Benefits) (Northern Ireland) Order 1997 (S.I. 1997/1183 (N.I. 12)) is amended as follows.
+**9.**[^c-d22e0ea7f373cc45f3b07e5e88887d67] The Social Security (Recovery of Benefits) (Northern Ireland) Order 1997 (S.I. 1997/1183 (N.I. 12)) is amended as follows.
 
-**10.**[^key-a5cc56560c1a1921b4a3c643a030328b] In Article 2(2) at the appropriate place insert—
+**10.**[^c-a5cc56560c1a1921b4a3c643a030328b] In Article 2(2) at the appropriate place insert—
 
 > “**scheme administrator**”, in relation to the Diffuse Mesothelioma Payment Scheme, has the meaning given by section 18 of the Mesothelioma Act 2014.
 
-**11.**[^key-b760e8ee6a0c7589fa25ad15f5236b05] In Article 3(2)—
+**11.**[^c-b760e8ee6a0c7589fa25ad15f5236b05] In Article 3(2)—
 
 - (a) omit the word “or” at the end of sub-paragraph (a);
 - (b) at the end of sub-paragraph (b) insert
@@ -511,7 +511,7 @@ Section 11
 
   .
 
-**12.**[^key-09cc352074204f077fefc1e1add8345d] After Article 10 insert—
+**12.**[^c-09cc352074204f077fefc1e1add8345d] After Article 10 insert—
 
 > **10A. Reduction of payment under Diffuse Mesothelioma Payment Scheme**
 >
@@ -527,19 +527,19 @@ Section 11
 > - (a) the person is paid the gross amount of the compensation payment less the amount of the recoverable benefit, or
 > - (b) the amount of the recoverable benefit is equal to or greater than the gross amount of the compensation payment and the person is given a statement by the scheme administrator saying that the compensation payment has been reduced to nil.
 
-**13.**[^key-8efab7838ea419703df77df9b1389725] In Article 12 after paragraph (3) insert—
+**13.**[^c-8efab7838ea419703df77df9b1389725] In Article 12 after paragraph (3) insert—
 
 > (4) The scheme administrator of the Diffuse Mesothelioma Payment Scheme may not apply for a review under this Article.
 
-**14.**[^key-ff3a652f38fc21bc21f5b6b574779f75] In Article 13(2) after sub-paragraph (b) insert—
+**14.**[^c-ff3a652f38fc21bc21f5b6b574779f75] In Article 13(2) after sub-paragraph (b) insert—
 
 > but the scheme administrator of the Diffuse Mesothelioma Payment Scheme may not appeal under this Article.
 
-**15.**[^key-0279b29bc4016c90e31dcedc4c166352] In Article 15(2) after sub-paragraph (c) insert—
+**15.**[^c-0279b29bc4016c90e31dcedc4c166352] In Article 15(2) after sub-paragraph (c) insert—
 
 > but the scheme administrator of the Diffuse Mesothelioma Payment Scheme may not appeal under this Article.
 
-**16.**[^key-1eec41a393ed5dca4f3ce0fa9ecdf349] In the following provisions after “Article 10” insert “ or 10A ”
+**16.**[^c-1eec41a393ed5dca4f3ce0fa9ecdf349] In the following provisions after “Article 10” insert “ or 10A ”
 
 - Article 11(1), (2), (3)(a) and (4)(a);
 - Article 13(2)(b);
@@ -553,7 +553,7 @@ Section 11
 
 #### Recovery of scheme payments from compensation: England and Wales and Scotland
 
-**17.**[^key-53b1e8359cfc5d403e1be0d178eeab56] (1) Section 1A of the Social Security (Recovery of Benefits) Act 1997 is amended as follows.
+**17.**[^c-53b1e8359cfc5d403e1be0d178eeab56] (1) Section 1A of the Social Security (Recovery of Benefits) Act 1997 is amended as follows.
 
 (2) In subsection (2)—
 
@@ -570,7 +570,7 @@ Section 11
 
 #### Recovery of scheme payments from compensation: Northern Ireland
 
-**18.**[^key-7839d8ca1550eb7e23892b540bc6064b] (1) Article 3A of the Social Security (Recovery of Benefits) (Northern Ireland) Order 1997 (S.I. 1997/1183 (N.I. 12)) is amended as follows.
+**18.**[^c-7839d8ca1550eb7e23892b540bc6064b] (1) Article 3A of the Social Security (Recovery of Benefits) (Northern Ireland) Order 1997 (S.I. 1997/1183 (N.I. 12)) is amended as follows.
 
 (2) In paragraph (2)—
 
@@ -587,21 +587,21 @@ Section 11
 
 ### Part 3 — Information sharing
 
-**19.**[^key-b4315b6d74b2c47e41762e8594ff9455] In section 23 of the Social Security (Recovery of Benefits) Act 1997 after subsection (6) insert—
+**19.**[^c-b4315b6d74b2c47e41762e8594ff9455] In section 23 of the Social Security (Recovery of Benefits) Act 1997 after subsection (6) insert—
 
 > (6A) The following persons must give the Secretary of State the prescribed information for the purposes of this Act—
 >
 > - (a) the scheme administrator of the Diffuse Mesothelioma Payment Scheme, and
 > - (b) any person providing services to the scheme administrator.
 
-**20.**[^key-427f0bf687df64be4c18dd887109be65] In Article 25 of the Social Security (Recovery of Benefits) (Northern Ireland) Order 1997 (S.I. 1997/1183) (N.I. 12) after paragraph (6) insert—
+**20.**[^c-427f0bf687df64be4c18dd887109be65] In Article 25 of the Social Security (Recovery of Benefits) (Northern Ireland) Order 1997 (S.I. 1997/1183) (N.I. 12) after paragraph (6) insert—
 
 > (6A) The following persons must give the Department the prescribed information for the purposes of this Order—
 >
 > - (a) the scheme administrator of the Diffuse Mesothelioma Payment Scheme, and
 > - (b) any person providing services to the scheme administrator.
 
-**21.**[^key-a6f0de6fc1ced54f25041faa1bf3262d] In section 3 of the Social Security Act 1998 (use of information) at the end of subsection (1A) insert—
+**21.**[^c-a6f0de6fc1ced54f25041faa1bf3262d] In section 3 of the Social Security Act 1998 (use of information) at the end of subsection (1A) insert—
 
 > - (f) the Diffuse Mesothelioma Payment Scheme.
 
@@ -611,7 +611,7 @@ Section 12
 
 ### Exclusion of payments under other legislation: England and Wales and Scotland
 
-**1.**[^key-87dc32cecb8446f04b0a63c3068c14de] In section 2 of the Pneumoconiosis etc (Workers' Compensation) Act 1979—
+**1.**[^c-87dc32cecb8446f04b0a63c3068c14de] In section 2 of the Pneumoconiosis etc (Workers' Compensation) Act 1979—
 
 - (a) at the end of subsection (1)(b) (but before the “and”) insert—
 
@@ -624,7 +624,7 @@ Section 12
 
   .
 
-**2.**[^key-415473a234b4d30bf824bad56f97bb16] In section 47(3) of the Child Maintenance and Other Payments Act 2008 after paragraph (b) insert—
+**2.**[^c-415473a234b4d30bf824bad56f97bb16] In section 47(3) of the Child Maintenance and Other Payments Act 2008 after paragraph (b) insert—
 
 > - (ba) a payment under the Diffuse Mesothelioma Payment Scheme (for the scheme, see the Mesothelioma Act 2014);
 
@@ -632,21 +632,21 @@ Section 12
 
 ### Exclusion of payments under other legislation: Northern Ireland
 
-**3.**[^key-bf6fe65f1fb071ecd34bd87262114f48] The Pneumoconiosis, etc., (Workers' Compensation) (Northern Ireland) Order 1979 (S.I. 1979/925 (N.I. 9)) is amended as follows.
+**3.**[^c-bf6fe65f1fb071ecd34bd87262114f48] The Pneumoconiosis, etc., (Workers' Compensation) (Northern Ireland) Order 1979 (S.I. 1979/925 (N.I. 9)) is amended as follows.
 
-**4.**[^key-5ecd25914bb5be97c890851093d9cbd4] In Article 3(3) at the end of sub-paragraph (b) (but before the “and”) insert—
+**4.**[^c-5ecd25914bb5be97c890851093d9cbd4] In Article 3(3) at the end of sub-paragraph (b) (but before the “and”) insert—
 
 > - (ba) that no application has been made for a payment under the Diffuse Mesothelioma Payment Scheme in respect of the disease (for the scheme, see the Mesothelioma Act 2014);
 
 .
 
-**5.**[^key-5733a449dd65dbafee087fefbcd9f7db] In Article 4(3) at the end of sub-paragraph (c) (but before the “and”) insert—
+**5.**[^c-5733a449dd65dbafee087fefbcd9f7db] In Article 4(3) at the end of sub-paragraph (c) (but before the “and”) insert—
 
 > - (ca) that no application has been made by the deceased, or any dependant, for a payment under the Diffuse Mesothelioma Payment Scheme in respect of the disease (for the scheme, see the Mesothelioma Act 2014);
 
 .
 
-**6.**[^key-88e9dc14b5cfba4c9227d53967946aab] In section 2(3) of the Mesothelioma, etc., Act (Northern Ireland) 2008 (c. 9) after paragraph (b) insert—
+**6.**[^c-88e9dc14b5cfba4c9227d53967946aab] In section 2(3) of the Mesothelioma, etc., Act (Northern Ireland) 2008 (c. 9) after paragraph (b) insert—
 
 > - (ba) a payment under the Diffuse Mesothelioma Payment Scheme (for the scheme, see the Mesothelioma Act 2014);
 
@@ -654,94 +654,94 @@ Section 12
 
 ## Annotations
 
-[^key-2cc91f7d22a0c40ff6ac89f08dde6de7]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2014/1/section/1) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/459/article/3/a)
+[^c-2cc91f7d22a0c40ff6ac89f08dde6de7]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2014/1/section/1) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/459/article/3/a)
 
-[^key-70d1ce0934feb2560ded7c8f5de54da4]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2014/1/section/2) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/459/article/3/a)
+[^c-70d1ce0934feb2560ded7c8f5de54da4]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2014/1/section/2) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/459/article/3/a)
 
-[^key-1d2119308653fad1bd0fcae3db1dd462]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2014/1/section/3) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/459/article/3/a)
+[^c-1d2119308653fad1bd0fcae3db1dd462]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2014/1/section/3) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/459/article/3/a)
 
-[^key-b9b0b438a2d216c53bdbe9849402396d]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2014/1/section/4) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/459/article/3/a)
+[^c-b9b0b438a2d216c53bdbe9849402396d]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2014/1/section/4) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/459/article/3/a)
 
-[^key-67ff51154c12492c83eb4275f4235690]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2014/1/section/5) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/459/article/3/a)
+[^c-67ff51154c12492c83eb4275f4235690]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2014/1/section/5) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/459/article/3/a)
 
-[^key-010ffbeef9e9486266026e8d1851a800]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2014/1/section/6) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/459/article/3/a)
+[^c-010ffbeef9e9486266026e8d1851a800]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2014/1/section/6) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/459/article/3/a)
 
-[^key-0c3bf80272fea2c869a3da501e45c52e]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2014/1/section/7) in force at 4.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 2](https://www.legislation.gov.uk/uksi/2014/459/article/2)
+[^c-0c3bf80272fea2c869a3da501e45c52e]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2014/1/section/7) in force at 4.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 2](https://www.legislation.gov.uk/uksi/2014/459/article/2)
 
-[^key-720d5fe2625d68d47a974354a7b36469]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2014/1/section/8) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(b)](https://www.legislation.gov.uk/uksi/2014/459/article/3/b)
+[^c-720d5fe2625d68d47a974354a7b36469]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2014/1/section/8) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(b)](https://www.legislation.gov.uk/uksi/2014/459/article/3/b)
 
-[^key-d80f9c304e68d9acef84d7c2052b860f]: Commencement: S. 9 in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(b)](https://www.legislation.gov.uk/uksi/2014/459/article/3/b)
+[^c-d80f9c304e68d9acef84d7c2052b860f]: Commencement: S. 9 in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(b)](https://www.legislation.gov.uk/uksi/2014/459/article/3/b)
 
-[^key-8dfa8ac0deff8a87aac79a91b13ec9c0]: Textual amendment: Words in [s. 9(2)(a)](https://www.legislation.gov.uk/ukpga/2014/1/section/9/2/a) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+[^c-8dfa8ac0deff8a87aac79a91b13ec9c0]: Textual amendment: Words in [s. 9(2)(a)](https://www.legislation.gov.uk/ukpga/2014/1/section/9/2/a) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
 
-[^key-3efd28264e908307c89bb76ae79b30a1]: Textual amendment: Words in [s. 9(7)](https://www.legislation.gov.uk/ukpga/2014/1/section/9/7) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
+[^c-3efd28264e908307c89bb76ae79b30a1]: Textual amendment: Words in [s. 9(7)](https://www.legislation.gov.uk/ukpga/2014/1/section/9/7) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
 
-[^key-7315237f31c54876aaea9e09a16f8692]: Textual amendment: Words in [s. 9(7)](https://www.legislation.gov.uk/ukpga/2014/1/section/9/7) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+[^c-7315237f31c54876aaea9e09a16f8692]: Textual amendment: Words in [s. 9(7)](https://www.legislation.gov.uk/ukpga/2014/1/section/9/7) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
 
-[^key-7606034c7a4e59be2b9d537b37bd5ead]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2014/1/section/10) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(b)](https://www.legislation.gov.uk/uksi/2014/459/article/3/b)
+[^c-7606034c7a4e59be2b9d537b37bd5ead]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2014/1/section/10) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(b)](https://www.legislation.gov.uk/uksi/2014/459/article/3/b)
 
-[^key-e0e08f569b7bde13901c27cec190c096]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2014/1/section/11) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
+[^c-e0e08f569b7bde13901c27cec190c096]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2014/1/section/11) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
 
-[^key-d3dad4e3727d2fb04ad1ee97cba8b979]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2014/1/section/12) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(d)](https://www.legislation.gov.uk/uksi/2014/459/article/3/d)
+[^c-d3dad4e3727d2fb04ad1ee97cba8b979]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2014/1/section/12) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(d)](https://www.legislation.gov.uk/uksi/2014/459/article/3/d)
 
-[^key-aba4a7ef93aa712b8f08c0ffc6da0ec5]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2014/1/section/13) in force at 1.9.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 4](https://www.legislation.gov.uk/uksi/2014/459/article/4)
+[^c-aba4a7ef93aa712b8f08c0ffc6da0ec5]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2014/1/section/13) in force at 1.9.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 4](https://www.legislation.gov.uk/uksi/2014/459/article/4)
 
-[^key-89b740cf4bfb26677189cefea8c2e7ce]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2014/1/section/14) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(e)](https://www.legislation.gov.uk/uksi/2014/459/article/3/e)
+[^c-89b740cf4bfb26677189cefea8c2e7ce]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2014/1/section/14) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(e)](https://www.legislation.gov.uk/uksi/2014/459/article/3/e)
 
-[^key-638b92985631697cacf53b955f9e16de]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2014/1/section/17) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(f)](https://www.legislation.gov.uk/uksi/2014/459/article/3/f)
+[^c-638b92985631697cacf53b955f9e16de]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2014/1/section/17) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(f)](https://www.legislation.gov.uk/uksi/2014/459/article/3/f)
 
-[^key-e204bf9a537305bf565e9b63d7f6263d]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2014/1/section/18) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(f)](https://www.legislation.gov.uk/uksi/2014/459/article/3/f)
+[^c-e204bf9a537305bf565e9b63d7f6263d]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2014/1/section/18) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(f)](https://www.legislation.gov.uk/uksi/2014/459/article/3/f)
 
-[^key-d9e3431476616378ed6a9947286fafb6]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/1) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
+[^c-d9e3431476616378ed6a9947286fafb6]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/1) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
 
-[^key-d7394b5dffa49939736c320731cdab04]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/2) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
+[^c-d7394b5dffa49939736c320731cdab04]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/2) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
 
-[^key-e94697a1823b41e6e7bb4d9ecb62aae3]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/3) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
+[^c-e94697a1823b41e6e7bb4d9ecb62aae3]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/3) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
 
-[^key-1378aa245afc8ef2727456e58d9c7874]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/4) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
+[^c-1378aa245afc8ef2727456e58d9c7874]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/4) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
 
-[^key-401b8084c07bf26dd9ac0a40d0880db1]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/5) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
+[^c-401b8084c07bf26dd9ac0a40d0880db1]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/5) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
 
-[^key-9c50f939579afb7479b6e5a1b67fe30d]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/6) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
+[^c-9c50f939579afb7479b6e5a1b67fe30d]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/6) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
 
-[^key-b936c48623be2af6d593c9041483ddc0]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/7) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
+[^c-b936c48623be2af6d593c9041483ddc0]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/7) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
 
-[^key-dd52724dea191eac997c7623f21a521d]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/8) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
+[^c-dd52724dea191eac997c7623f21a521d]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/8) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
 
-[^key-d22e0ea7f373cc45f3b07e5e88887d67]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/9) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
+[^c-d22e0ea7f373cc45f3b07e5e88887d67]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/9) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
 
-[^key-a5cc56560c1a1921b4a3c643a030328b]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/10) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
+[^c-a5cc56560c1a1921b4a3c643a030328b]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/10) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
 
-[^key-b760e8ee6a0c7589fa25ad15f5236b05]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/11) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
+[^c-b760e8ee6a0c7589fa25ad15f5236b05]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/11) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
 
-[^key-09cc352074204f077fefc1e1add8345d]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/12) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
+[^c-09cc352074204f077fefc1e1add8345d]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/12) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
 
-[^key-8efab7838ea419703df77df9b1389725]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/13) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
+[^c-8efab7838ea419703df77df9b1389725]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/13) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
 
-[^key-ff3a652f38fc21bc21f5b6b574779f75]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/14) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
+[^c-ff3a652f38fc21bc21f5b6b574779f75]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/14) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
 
-[^key-0279b29bc4016c90e31dcedc4c166352]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/15) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
+[^c-0279b29bc4016c90e31dcedc4c166352]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/15) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
 
-[^key-1eec41a393ed5dca4f3ce0fa9ecdf349]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/16) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
+[^c-1eec41a393ed5dca4f3ce0fa9ecdf349]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/16) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
 
-[^key-53b1e8359cfc5d403e1be0d178eeab56]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/17) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
+[^c-53b1e8359cfc5d403e1be0d178eeab56]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/17) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
 
-[^key-7839d8ca1550eb7e23892b540bc6064b]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/18) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
+[^c-7839d8ca1550eb7e23892b540bc6064b]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/18) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
 
-[^key-b4315b6d74b2c47e41762e8594ff9455]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/19) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
+[^c-b4315b6d74b2c47e41762e8594ff9455]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/19) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
 
-[^key-427f0bf687df64be4c18dd887109be65]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/20) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
+[^c-427f0bf687df64be4c18dd887109be65]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/20) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
 
-[^key-a6f0de6fc1ced54f25041faa1bf3262d]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/21) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
+[^c-a6f0de6fc1ced54f25041faa1bf3262d]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/21) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
 
-[^key-87dc32cecb8446f04b0a63c3068c14de]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2014/1/schedule/2/paragraph/1) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(d)](https://www.legislation.gov.uk/uksi/2014/459/article/3/d)
+[^c-87dc32cecb8446f04b0a63c3068c14de]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2014/1/schedule/2/paragraph/1) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(d)](https://www.legislation.gov.uk/uksi/2014/459/article/3/d)
 
-[^key-415473a234b4d30bf824bad56f97bb16]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2014/1/schedule/2/paragraph/2) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(d)](https://www.legislation.gov.uk/uksi/2014/459/article/3/d)
+[^c-415473a234b4d30bf824bad56f97bb16]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2014/1/schedule/2/paragraph/2) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(d)](https://www.legislation.gov.uk/uksi/2014/459/article/3/d)
 
-[^key-bf6fe65f1fb071ecd34bd87262114f48]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2014/1/schedule/2/paragraph/3) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(d)](https://www.legislation.gov.uk/uksi/2014/459/article/3/d)
+[^c-bf6fe65f1fb071ecd34bd87262114f48]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2014/1/schedule/2/paragraph/3) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(d)](https://www.legislation.gov.uk/uksi/2014/459/article/3/d)
 
-[^key-5ecd25914bb5be97c890851093d9cbd4]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2014/1/schedule/2/paragraph/4) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(d)](https://www.legislation.gov.uk/uksi/2014/459/article/3/d)
+[^c-5ecd25914bb5be97c890851093d9cbd4]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2014/1/schedule/2/paragraph/4) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(d)](https://www.legislation.gov.uk/uksi/2014/459/article/3/d)
 
-[^key-5733a449dd65dbafee087fefbcd9f7db]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2014/1/schedule/2/paragraph/5) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(d)](https://www.legislation.gov.uk/uksi/2014/459/article/3/d)
+[^c-5733a449dd65dbafee087fefbcd9f7db]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2014/1/schedule/2/paragraph/5) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(d)](https://www.legislation.gov.uk/uksi/2014/459/article/3/d)
 
-[^key-88e9dc14b5cfba4c9227d53967946aab]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2014/1/schedule/2/paragraph/6) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(d)](https://www.legislation.gov.uk/uksi/2014/459/article/3/d)
+[^c-88e9dc14b5cfba4c9227d53967946aab]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2014/1/schedule/2/paragraph/6) in force at 31.3.2014 by [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(d)](https://www.legislation.gov.uk/uksi/2014/459/article/3/d)

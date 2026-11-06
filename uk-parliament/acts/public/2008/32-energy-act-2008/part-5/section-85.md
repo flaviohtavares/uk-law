@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Section 84: procedure[^key-a1af0f46b159f0881caef9fa4e371a72]
+## 85. Section 84: procedure[^c-a1af0f46b159f0881caef9fa4e371a72]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a1af0f46b159f0881caef9fa4e371a72]: Commencement: [S. 85](https://www.legislation.gov.uk/ukpga/2008/32/section/85) in force at 29.7.2010 by [S.I. 2010/1888](https://www.legislation.gov.uk/uksi/2010/1888), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/1888/article/2/2)
+[^c-a1af0f46b159f0881caef9fa4e371a72]: Commencement: [S. 85](https://www.legislation.gov.uk/ukpga/2008/32/section/85) in force at 29.7.2010 by [S.I. 2010/1888](https://www.legislation.gov.uk/uksi/2010/1888), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/1888/article/2/2)

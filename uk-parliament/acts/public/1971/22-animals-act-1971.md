@@ -70,9 +70,9 @@ the person to whom the livestock belongs is liable for the damage or expenses, e
 
 (2) For the purposes of this section any livestock belongs to the person in whose possession it is.
 
-(3)[^key-2e9cd125cd7045af0505a59d18ded066] This section does not apply in relation to horses on land in England (as to which, see section 4A).
+(3)[^c-2e9cd125cd7045af0505a59d18ded066] This section does not apply in relation to horses on land in England (as to which, see section 4A).
 
-### 4A. Liability for damage and expenses due to horses on land in England without lawful authority[^key-eaf81fff7119b36a6e319b96be482ad5]
+### 4A. Liability for damage and expenses due to horses on land in England without lawful authority[^c-eaf81fff7119b36a6e319b96be482ad5]
 
 (1) This section applies where a horse is on any land in England without lawful authority.
 
@@ -89,9 +89,9 @@ This is subject to the other provisions of this Act.
 
 (3) For the purposes of this section a horse belongs to the person in whose possession it is.
 
-### 5. Exceptions from liability under sections 2 to 4A.[^key-0bd5476a67dc143a26007ae59d2a0c30]
+### 5. Exceptions from liability under sections 2 to 4A.[^c-0bd5476a67dc143a26007ae59d2a0c30]
 
-(1) A person is not liable under sections 2 to 4A[^key-248723e113e0283a1fe40b69bc9a6254] of this Act for any damage which is due wholly to the fault of the person suffering it.
+(1) A person is not liable under sections 2 to 4A[^c-248723e113e0283a1fe40b69bc9a6254] of this Act for any damage which is due wholly to the fault of the person suffering it.
 
 (2) A person is not liable under section 2 of this Act for any damage suffered by a person who has voluntarily accepted the risk thereof.
 
@@ -104,9 +104,9 @@ This is subject to the other provisions of this Act.
 
 (5) A person is not liable under section 4 of this Act where the livestock strayed from a highway and its presence there was a lawful use of the highway.
 
-(5A)[^key-221227af115bd5a282123dc108d0cd3e] A person is not liable under section 4A of this Act in respect of a horse which strays from a highway when its presence there was a lawful use of the highway.
+(5A)[^c-221227af115bd5a282123dc108d0cd3e] A person is not liable under section 4A of this Act in respect of a horse which strays from a highway when its presence there was a lawful use of the highway.
 
-(6) In determining whether any liability for damage under section 4 of this Act, or under section 4A of this Act so far as relating to a straying horse in England,[^key-40db02001026ab4dbcd4fd25bfa162ff] is excluded by subsection (1) of this section the damage shall not be treated as due to the fault of the person suffering it by reason only that he could have prevented it by fencing; but a person is not liable under that section where it is proved that the straying of the livestock on to the land would not have occurred but for a breach by any other person, being a person having an interest in the land, of a duty to fence.
+(6) In determining whether any liability for damage under section 4 of this Act, or under section 4A of this Act so far as relating to a straying horse in England,[^c-40db02001026ab4dbcd4fd25bfa162ff] is excluded by subsection (1) of this section the damage shall not be treated as due to the fault of the person suffering it by reason only that he could have prevented it by fencing; but a person is not liable under that section where it is proved that the straying of the livestock on to the land would not have occurred but for a breach by any other person, being a person having an interest in the land, of a duty to fence.
 
 ### 6. Interpretation of certain expressions used in sections 2 to 5.
 
@@ -150,9 +150,9 @@ and if at any time an animal ceases to be owned by or to be in the possession of
 
 (7) References in this section to a claim under section 4 of this Act in respect of any livestock do not include any claim under that section for damage done by or expenses incurred in respect of the livestock before the straying in connection with which it is detained under this section.
 
-(8)[^key-c25c3d52fff77d0eaaaeabe0cab24f66] Subsections (2) to (7) do not apply to horses on land in England (as to which, see sections 7A to 7C).
+(8)[^c-c25c3d52fff77d0eaaaeabe0cab24f66] Subsections (2) to (7) do not apply to horses on land in England (as to which, see sections 7A to 7C).
 
-### 7A. Power of local authorities in England to detain horses[^key-aebbffd8846d96b83f40ccb2b026a9bc]
+### 7A. Power of local authorities in England to detain horses[^c-aebbffd8846d96b83f40ccb2b026a9bc]
 
 (1) A local authority in England may detain a horse which is in any public place in its area, if the conditions in subsection (2) are met.
 
@@ -173,7 +173,7 @@ and if at any time an animal ceases to be owned by or to be in the possession of
 - (d) the Common Council of the City of London, and
 - (e) the Council of the Isles of Scilly.
 
-### 7B. Powers of freeholders and occupiers in England to detain horses[^key-822cc13a69ab7badb9ccd1b31bd3ddbe]
+### 7B. Powers of freeholders and occupiers in England to detain horses[^c-822cc13a69ab7badb9ccd1b31bd3ddbe]
 
 (1) This section applies where a horse is on any land in England without lawful authority.
 
@@ -184,7 +184,7 @@ and if at any time an animal ceases to be owned by or to be in the possession of
 
 (3) Section 7C contains further provision about detention under this section.
 
-### 7C. Detention of horses under sections 7A and 7B[^key-2f4bcbb40ca6d8e85f435c87a542ca91]
+### 7C. Detention of horses under sections 7A and 7B[^c-2f4bcbb40ca6d8e85f435c87a542ca91]
 
 (1) This section applies where a horse is detained under section 7A or 7B.
 
@@ -256,26 +256,26 @@ and if at any time an animal ceases to be owned by or to be in the possession of
 
 ## Supplemental
 
-### 10. Application of certain enactments to liability under sections 2 to 4A.[^key-d8af84975d1901f8f70f5d882f126c57][^c815919]
+### 10. Application of certain enactments to liability under sections 2 to 4A.[^c-d8af84975d1901f8f70f5d882f126c57][^c815919]
 
-For the purposes of the Fatal Accidents Acts 1846 to 1959, the [^c815920]Law Reform (Contributory Negligence) Act 1945 and the Limitation Act 1980[^c815921] any damage for which a person is liable under sections 2 to 4A[^key-919d062b933b1b61d9449a83a89b0088] of this Act shall be treated as due to his fault.
+For the purposes of the Fatal Accidents Acts 1846 to 1959, the [^c815920]Law Reform (Contributory Negligence) Act 1945 and the Limitation Act 1980[^c815921] any damage for which a person is liable under sections 2 to 4A[^c-919d062b933b1b61d9449a83a89b0088] of this Act shall be treated as due to his fault.
 
 ### 11. General interpretation.
 
 In this Act—
 
-- “[^key-f3e8dfab391cc094da62d683229a0323] **common land** ” means—
+- “[^c-f3e8dfab391cc094da62d683229a0323] **common land** ” means—
   - land registered as common land in a register of common land kept under Part 1 of the Commons Act 2006;
   - land to which Part 1 of that Act does not apply and which is subject to rights of common within the meaning of that Act;
 - “ **town or village green** ” means land registered as a town or village green in a register of town or village greens kept under Part 1 of the Commons Act 2006;
 - “**damage**” includes the death of, or injury to, any person (including any disease and any impairment of physical or mental condition);
 - “**fault**” has the same meaning as in the Law Reform (Contributory Negligence) Act 1945;
 - “**fencing**” includes the construction of any obstacle designed to prevent animals from straying;
-- “[^key-ae069c1e60a8799ed4f6e4cd8f1cd9e9] **horse** ” includes an ass, mule or hinny;
+- “[^c-ae069c1e60a8799ed4f6e4cd8f1cd9e9] **horse** ” includes an ass, mule or hinny;
 
-- “**livestock**” means cattle, horses, [^key-0d8e27420ec9d1acb2f76c8777518861]... sheep, pigs, goats and poultry, and also deer not in the wild state and, in sections 3 and 9, also, while in captivity, pheasants, partridges and grouse;
+- “**livestock**” means cattle, horses, [^c-0d8e27420ec9d1acb2f76c8777518861]... sheep, pigs, goats and poultry, and also deer not in the wild state and, in sections 3 and 9, also, while in captivity, pheasants, partridges and grouse;
 - “**poultry**” means the domestic varieties of the following, that is to say, fowls, turkeys, geese, ducks, guinea-fowls, pigeons, peacocks and quails; and
-- “[^key-37b36fd73c9ad2939108657674c82a1c] **public place** ” includes—
+- “[^c-37b36fd73c9ad2939108657674c82a1c] **public place** ” includes—
   - any common land or town or village green;
   - any highway (and the verges of any highway);
 - “**species**” includes sub-species and variety.
@@ -307,27 +307,27 @@ In this Act—
 
 [^c815918]: Marginal citation: [1928 c. 21](https://www.legislation.gov.uk/ukpga/1928/21).
 
-[^key-2e9cd125cd7045af0505a59d18ded066]: Textual amendment: [S. 4(3)](https://www.legislation.gov.uk/ukpga/1971/22/section/4/3) inserted (26.5.2015) by [Control of Horses Act 2015 (c. 23)](https://www.legislation.gov.uk/ukpga/2015/23), [ss. 4(2)](https://www.legislation.gov.uk/ukpga/2015/23/section/4/2), [5(1)](https://www.legislation.gov.uk/ukpga/2015/23/section/5/1)
+[^c-2e9cd125cd7045af0505a59d18ded066]: Textual amendment: [S. 4(3)](https://www.legislation.gov.uk/ukpga/1971/22/section/4/3) inserted (26.5.2015) by [Control of Horses Act 2015 (c. 23)](https://www.legislation.gov.uk/ukpga/2015/23), [ss. 4(2)](https://www.legislation.gov.uk/ukpga/2015/23/section/4/2), [5(1)](https://www.legislation.gov.uk/ukpga/2015/23/section/5/1)
 
-[^key-eaf81fff7119b36a6e319b96be482ad5]: Textual amendment: [S. 4A](https://www.legislation.gov.uk/ukpga/1971/22/section/4A) inserted (26.5.2015) by [Control of Horses Act 2015 (c. 23)](https://www.legislation.gov.uk/ukpga/2015/23), [ss. 4(1)](https://www.legislation.gov.uk/ukpga/2015/23/section/4/1), [5(1)](https://www.legislation.gov.uk/ukpga/2015/23/section/5/1)
+[^c-eaf81fff7119b36a6e319b96be482ad5]: Textual amendment: [S. 4A](https://www.legislation.gov.uk/ukpga/1971/22/section/4A) inserted (26.5.2015) by [Control of Horses Act 2015 (c. 23)](https://www.legislation.gov.uk/ukpga/2015/23), [ss. 4(1)](https://www.legislation.gov.uk/ukpga/2015/23/section/4/1), [5(1)](https://www.legislation.gov.uk/ukpga/2015/23/section/5/1)
 
-[^key-0bd5476a67dc143a26007ae59d2a0c30]: Textual amendment: Word in s. 5 heading substituted (26.5.2015) by [Control of Horses Act 2015 (c. 23)](https://www.legislation.gov.uk/ukpga/2015/23), [ss. 4(3)(a)](https://www.legislation.gov.uk/ukpga/2015/23/section/4/3/a), [5(1)](https://www.legislation.gov.uk/ukpga/2015/23/section/5/1)
+[^c-0bd5476a67dc143a26007ae59d2a0c30]: Textual amendment: Word in s. 5 heading substituted (26.5.2015) by [Control of Horses Act 2015 (c. 23)](https://www.legislation.gov.uk/ukpga/2015/23), [ss. 4(3)(a)](https://www.legislation.gov.uk/ukpga/2015/23/section/4/3/a), [5(1)](https://www.legislation.gov.uk/ukpga/2015/23/section/5/1)
 
-[^key-248723e113e0283a1fe40b69bc9a6254]: Textual amendment: Word in s. 5(1) substituted (26.5.2015) by [Control of Horses Act 2015 (c. 23)](https://www.legislation.gov.uk/ukpga/2015/23), [ss. 4(3)(a)](https://www.legislation.gov.uk/ukpga/2015/23/section/4/3/a), [5(1)](https://www.legislation.gov.uk/ukpga/2015/23/section/5/1)
+[^c-248723e113e0283a1fe40b69bc9a6254]: Textual amendment: Word in s. 5(1) substituted (26.5.2015) by [Control of Horses Act 2015 (c. 23)](https://www.legislation.gov.uk/ukpga/2015/23), [ss. 4(3)(a)](https://www.legislation.gov.uk/ukpga/2015/23/section/4/3/a), [5(1)](https://www.legislation.gov.uk/ukpga/2015/23/section/5/1)
 
-[^key-221227af115bd5a282123dc108d0cd3e]: Textual amendment: S. 5(5A) inserted (26.5.2015) by [Control of Horses Act 2015 (c. 23)](https://www.legislation.gov.uk/ukpga/2015/23), [ss. 4(3)(b)](https://www.legislation.gov.uk/ukpga/2015/23/section/4/3/b), [5(1)](https://www.legislation.gov.uk/ukpga/2015/23/section/5/1)
+[^c-221227af115bd5a282123dc108d0cd3e]: Textual amendment: S. 5(5A) inserted (26.5.2015) by [Control of Horses Act 2015 (c. 23)](https://www.legislation.gov.uk/ukpga/2015/23), [ss. 4(3)(b)](https://www.legislation.gov.uk/ukpga/2015/23/section/4/3/b), [5(1)](https://www.legislation.gov.uk/ukpga/2015/23/section/5/1)
 
-[^key-40db02001026ab4dbcd4fd25bfa162ff]: Textual amendment: Words in s. 5(6) inserted (26.5.2015) by [Control of Horses Act 2015 (c. 23)](https://www.legislation.gov.uk/ukpga/2015/23), [ss. 4(3)(c)](https://www.legislation.gov.uk/ukpga/2015/23/section/4/3/c), [5(1)](https://www.legislation.gov.uk/ukpga/2015/23/section/5/1)
+[^c-40db02001026ab4dbcd4fd25bfa162ff]: Textual amendment: Words in s. 5(6) inserted (26.5.2015) by [Control of Horses Act 2015 (c. 23)](https://www.legislation.gov.uk/ukpga/2015/23), [ss. 4(3)(c)](https://www.legislation.gov.uk/ukpga/2015/23/section/4/3/c), [5(1)](https://www.legislation.gov.uk/ukpga/2015/23/section/5/1)
 
-[^key-c25c3d52fff77d0eaaaeabe0cab24f66]: Textual amendment: [S. 7(8)](https://www.legislation.gov.uk/ukpga/1971/22/section/7/8) inserted (26.5.2015) by [Control of Horses Act 2015 (c. 23)](https://www.legislation.gov.uk/ukpga/2015/23), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2015/23/section/1/2), [5(1)](https://www.legislation.gov.uk/ukpga/2015/23/section/5/1)
+[^c-c25c3d52fff77d0eaaaeabe0cab24f66]: Textual amendment: [S. 7(8)](https://www.legislation.gov.uk/ukpga/1971/22/section/7/8) inserted (26.5.2015) by [Control of Horses Act 2015 (c. 23)](https://www.legislation.gov.uk/ukpga/2015/23), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2015/23/section/1/2), [5(1)](https://www.legislation.gov.uk/ukpga/2015/23/section/5/1)
 
-[^key-aebbffd8846d96b83f40ccb2b026a9bc]: Textual amendment: S. 7A inserted (26.5.2015) by [Control of Horses Act 2015 (c. 23)](https://www.legislation.gov.uk/ukpga/2015/23), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2015/23/section/1/1), [5(1)](https://www.legislation.gov.uk/ukpga/2015/23/section/5/1)
+[^c-aebbffd8846d96b83f40ccb2b026a9bc]: Textual amendment: S. 7A inserted (26.5.2015) by [Control of Horses Act 2015 (c. 23)](https://www.legislation.gov.uk/ukpga/2015/23), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2015/23/section/1/1), [5(1)](https://www.legislation.gov.uk/ukpga/2015/23/section/5/1)
 
-[^key-822cc13a69ab7badb9ccd1b31bd3ddbe]: Textual amendment: S. 7B inserted (26.5.2015) by [Control of Horses Act 2015 (c. 23)](https://www.legislation.gov.uk/ukpga/2015/23), [ss. 2](https://www.legislation.gov.uk/ukpga/2015/23/section/2), [5(1)](https://www.legislation.gov.uk/ukpga/2015/23/section/5/1)
+[^c-822cc13a69ab7badb9ccd1b31bd3ddbe]: Textual amendment: S. 7B inserted (26.5.2015) by [Control of Horses Act 2015 (c. 23)](https://www.legislation.gov.uk/ukpga/2015/23), [ss. 2](https://www.legislation.gov.uk/ukpga/2015/23/section/2), [5(1)](https://www.legislation.gov.uk/ukpga/2015/23/section/5/1)
 
-[^key-2f4bcbb40ca6d8e85f435c87a542ca91]: Textual amendment: [S. 7C](https://www.legislation.gov.uk/ukpga/1971/22/section/7C) inserted (26.5.2015) by [Control of Horses Act 2015 (c. 23)](https://www.legislation.gov.uk/ukpga/2015/23), [ss. 3](https://www.legislation.gov.uk/ukpga/2015/23/section/3), [5(1)](https://www.legislation.gov.uk/ukpga/2015/23/section/5/1)
+[^c-2f4bcbb40ca6d8e85f435c87a542ca91]: Textual amendment: [S. 7C](https://www.legislation.gov.uk/ukpga/1971/22/section/7C) inserted (26.5.2015) by [Control of Horses Act 2015 (c. 23)](https://www.legislation.gov.uk/ukpga/2015/23), [ss. 3](https://www.legislation.gov.uk/ukpga/2015/23/section/3), [5(1)](https://www.legislation.gov.uk/ukpga/2015/23/section/5/1)
 
-[^key-d8af84975d1901f8f70f5d882f126c57]: Textual amendment: Word in s. 10 heading substituted (26.5.2015) by [Control of Horses Act 2015 (c. 23)](https://www.legislation.gov.uk/ukpga/2015/23), [ss. 4(4)](https://www.legislation.gov.uk/ukpga/2015/23/section/4/4), [5(1)](https://www.legislation.gov.uk/ukpga/2015/23/section/5/1)
+[^c-d8af84975d1901f8f70f5d882f126c57]: Textual amendment: Word in s. 10 heading substituted (26.5.2015) by [Control of Horses Act 2015 (c. 23)](https://www.legislation.gov.uk/ukpga/2015/23), [ss. 4(4)](https://www.legislation.gov.uk/ukpga/2015/23/section/4/4), [5(1)](https://www.legislation.gov.uk/ukpga/2015/23/section/5/1)
 
 [^c815919]: Modification: S. 10 amended by [Fatal Accidents Act 1976 (c. 30, SIF 122:3)](https://www.legislation.gov.uk/ukpga/1976/30), [Sch. 1 para. 2(2)](https://www.legislation.gov.uk/ukpga/1976/30/schedule/1/paragraph/2/2)
 
@@ -335,15 +335,15 @@ In this Act—
 
 [^c815921]: Textual amendment: Words substituted by [Limitation Act 1980 (c. 58, SIF 79)](https://www.legislation.gov.uk/ukpga/1980/58), [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/1980/58/schedule/3/paragraph/10)
 
-[^key-919d062b933b1b61d9449a83a89b0088]: Textual amendment: Word in s. 10 substituted (26.5.2015) by [Control of Horses Act 2015 (c. 23)](https://www.legislation.gov.uk/ukpga/2015/23), [ss. 4(4)](https://www.legislation.gov.uk/ukpga/2015/23/section/4/4), [5(1)](https://www.legislation.gov.uk/ukpga/2015/23/section/5/1)
+[^c-919d062b933b1b61d9449a83a89b0088]: Textual amendment: Word in s. 10 substituted (26.5.2015) by [Control of Horses Act 2015 (c. 23)](https://www.legislation.gov.uk/ukpga/2015/23), [ss. 4(4)](https://www.legislation.gov.uk/ukpga/2015/23/section/4/4), [5(1)](https://www.legislation.gov.uk/ukpga/2015/23/section/5/1)
 
-[^key-f3e8dfab391cc094da62d683229a0323]: Textual amendment: Words in s. 11 substituted (31.10.2011 for E.) by [Commons Act 2006 (c. 26)](https://www.legislation.gov.uk/ukpga/2006/26), [s. 56](https://www.legislation.gov.uk/ukpga/2006/26/section/56), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2006/26/schedule/5/paragraph/2) (with [s. 60](https://www.legislation.gov.uk/ukpga/2006/26/section/60)); [S.I. 2011/2460](https://www.legislation.gov.uk/uksi/2011/2460), [art. 2(a)(i)](https://www.legislation.gov.uk/uksi/2011/2460/article/2/a/i) (with [art. 3](https://www.legislation.gov.uk/uksi/2011/2460/article/3))
+[^c-f3e8dfab391cc094da62d683229a0323]: Textual amendment: Words in s. 11 substituted (31.10.2011 for E.) by [Commons Act 2006 (c. 26)](https://www.legislation.gov.uk/ukpga/2006/26), [s. 56](https://www.legislation.gov.uk/ukpga/2006/26/section/56), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2006/26/schedule/5/paragraph/2) (with [s. 60](https://www.legislation.gov.uk/ukpga/2006/26/section/60)); [S.I. 2011/2460](https://www.legislation.gov.uk/uksi/2011/2460), [art. 2(a)(i)](https://www.legislation.gov.uk/uksi/2011/2460/article/2/a/i) (with [art. 3](https://www.legislation.gov.uk/uksi/2011/2460/article/3))
 
-[^key-ae069c1e60a8799ed4f6e4cd8f1cd9e9]: Textual amendment: Words in s. 11 inserted (26.5.2015) by [Control of Horses Act 2015 (c. 23)](https://www.legislation.gov.uk/ukpga/2015/23), [ss. 1(3)(a)](https://www.legislation.gov.uk/ukpga/2015/23/section/1/3/a), [5(1)](https://www.legislation.gov.uk/ukpga/2015/23/section/5/1)
+[^c-ae069c1e60a8799ed4f6e4cd8f1cd9e9]: Textual amendment: Words in s. 11 inserted (26.5.2015) by [Control of Horses Act 2015 (c. 23)](https://www.legislation.gov.uk/ukpga/2015/23), [ss. 1(3)(a)](https://www.legislation.gov.uk/ukpga/2015/23/section/1/3/a), [5(1)](https://www.legislation.gov.uk/ukpga/2015/23/section/5/1)
 
-[^key-0d8e27420ec9d1acb2f76c8777518861]: Textual amendment: Words in s. 11 omitted (26.5.2015) by virtue of [Control of Horses Act 2015 (c. 23)](https://www.legislation.gov.uk/ukpga/2015/23), [ss. 1(3)(b)](https://www.legislation.gov.uk/ukpga/2015/23/section/1/3/b), [5(1)](https://www.legislation.gov.uk/ukpga/2015/23/section/5/1)
+[^c-0d8e27420ec9d1acb2f76c8777518861]: Textual amendment: Words in s. 11 omitted (26.5.2015) by virtue of [Control of Horses Act 2015 (c. 23)](https://www.legislation.gov.uk/ukpga/2015/23), [ss. 1(3)(b)](https://www.legislation.gov.uk/ukpga/2015/23/section/1/3/b), [5(1)](https://www.legislation.gov.uk/ukpga/2015/23/section/5/1)
 
-[^key-37b36fd73c9ad2939108657674c82a1c]: Textual amendment: Words in s. 11 inserted (26.5.2015) by [Control of Horses Act 2015 (c. 23)](https://www.legislation.gov.uk/ukpga/2015/23), [ss. 1(3)(c)](https://www.legislation.gov.uk/ukpga/2015/23/section/1/3/c), [5(1)](https://www.legislation.gov.uk/ukpga/2015/23/section/5/1)
+[^c-37b36fd73c9ad2939108657674c82a1c]: Textual amendment: Words in s. 11 inserted (26.5.2015) by [Control of Horses Act 2015 (c. 23)](https://www.legislation.gov.uk/ukpga/2015/23), [ss. 1(3)(c)](https://www.legislation.gov.uk/ukpga/2015/23/section/1/3/c), [5(1)](https://www.legislation.gov.uk/ukpga/2015/23/section/5/1)
 
 [^c815923]: Marginal citation: [1947 c. 44](https://www.legislation.gov.uk/ukpga/1947/44).
 

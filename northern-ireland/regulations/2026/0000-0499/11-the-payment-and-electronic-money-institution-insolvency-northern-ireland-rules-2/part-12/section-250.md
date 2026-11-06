@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 250. Notice etc to authorised recipients[^key-b56586939a3d6eb6e5119b7001abeafe]
+## 250. Notice etc to authorised recipients[^c-b56586939a3d6eb6e5119b7001abeafe]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Where a notice or other document is to be given, delivered or sent to a person u
 
 ## Annotations
 
-[^key-b56586939a3d6eb6e5119b7001abeafe]: Commencement: [Rule 250](https://www.legislation.gov.uk/nisr/2026/11/rule/250) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-b56586939a3d6eb6e5119b7001abeafe]: Commencement: [Rule 250](https://www.legislation.gov.uk/nisr/2026/11/rule/250) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

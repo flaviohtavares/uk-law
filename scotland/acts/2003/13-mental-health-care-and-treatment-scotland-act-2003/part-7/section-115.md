@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 115. Interim compulsory treatment order: detention pending further procedure[^key-6f74758f5c90138371094a41697d5928]
+## 115. Interim compulsory treatment order: detention pending further procedure[^c-6f74758f5c90138371094a41697d5928]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6f74758f5c90138371094a41697d5928]: Commencement: [S. 115](https://www.legislation.gov.uk/asp/2003/13/section/115) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
+[^c-6f74758f5c90138371094a41697d5928]: Commencement: [S. 115](https://www.legislation.gov.uk/asp/2003/13/section/115) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Return from category 1 territory[^key-003c609568ac4eec3dbacf32ca6cde97]
+## 72. Return from category 1 territory[^c-003c609568ac4eec3dbacf32ca6cde97]
 
 *Extent: E+W+S+N.I.*
 
@@ -77,4 +77,4 @@ For section 59 of the Extradition Act 2003 substitute—
 
 ## Annotations
 
-[^key-003c609568ac4eec3dbacf32ca6cde97]: Commencement: [S. 72](https://www.legislation.gov.uk/ukpga/2009/26/section/72) in force at 25.1.2010 by [S.I. 2009/3096](https://www.legislation.gov.uk/uksi/2009/3096), [art. 3(o)](https://www.legislation.gov.uk/uksi/2009/3096/article/3/o)
+[^c-003c609568ac4eec3dbacf32ca6cde97]: Commencement: [S. 72](https://www.legislation.gov.uk/ukpga/2009/26/section/72) in force at 25.1.2010 by [S.I. 2009/3096](https://www.legislation.gov.uk/uksi/2009/3096), [art. 3(o)](https://www.legislation.gov.uk/uksi/2009/3096/article/3/o)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Distribution of functions in relation to registered adoption societies[^key-fb22595a22f1bf25db7aa4fdb5c58d9e]
+## 16. Distribution of functions in relation to registered adoption societies[^c-fb22595a22f1bf25db7aa4fdb5c58d9e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fb22595a22f1bf25db7aa4fdb5c58d9e]: Textual amendment: S. 16 omitted (29.4.2019) by virtue of [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Regulations 2019 (S.I. 2019/772)](https://www.legislation.gov.uk/wsi/2019/772), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/772/regulation/1/2), [18](https://www.legislation.gov.uk/wsi/2019/772/regulation/18)
+[^c-fb22595a22f1bf25db7aa4fdb5c58d9e]: Textual amendment: S. 16 omitted (29.4.2019) by virtue of [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Regulations 2019 (S.I. 2019/772)](https://www.legislation.gov.uk/wsi/2019/772), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/772/regulation/1/2), [18](https://www.legislation.gov.uk/wsi/2019/772/regulation/18)

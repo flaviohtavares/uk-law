@@ -27,15 +27,15 @@ summary: ''
 - (a) about when a fee may be charged;
 - (b) about the amount which may be charged;
 - (c) for the supply of information needed for the purpose of determining the amount which may be charged;
-- (d) about who is liable to pay any fee charged (including provision for the apportionment of fees and the matters to be taken into account in determining an apportionment)[^key-31b789f8ec86ebb78e8a6bc5bc891076] ;
+- (d) about who is liable to pay any fee charged (including provision for the apportionment of fees and the matters to be taken into account in determining an apportionment)[^c-31b789f8ec86ebb78e8a6bc5bc891076] ;
 - (e) about when any fee charged is payable;
 - (f) about the recovery of fees charged;
-- (g) about [^key-de98adb1b46db15d83cf2cb9f4a43aba]... reduction or repayment of fees.
-- (h)[^key-2391940cf531c4e387db9c162ce35405] about waiver of fees (including the matters to be taken into account in determining a waiver).
+- (g) about [^c-de98adb1b46db15d83cf2cb9f4a43aba]... reduction or repayment of fees.
+- (h)[^c-2391940cf531c4e387db9c162ce35405] about waiver of fees (including the matters to be taken into account in determining a waiver).
 
 (3) The power conferred by subsection (1) includes power to make provision for the charging of fees which are not related to costs.
 
-(3A)[^key-834e29d65eab9e6e97f2dfb9e3d1dfc8] The Department must review the effect of the first regulations made under subsection (1).
+(3A)[^c-834e29d65eab9e6e97f2dfb9e3d1dfc8] The Department must review the effect of the first regulations made under subsection (1).
 
 (3B) The review must take place before the end of the period of 30 months beginning with the day on which those regulations come into operation.
 
@@ -59,10 +59,10 @@ shall apply equally (with any necessary modifications) to fees payable by virtue
 
 ## Annotations
 
-[^key-31b789f8ec86ebb78e8a6bc5bc891076]: Textual amendment: Words in [s. 3(2)(d)](https://www.legislation.gov.uk/nia/2008/10/section/3/2/d) inserted (17.2.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [arts. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [130(2)(a)](https://www.legislation.gov.uk/nisi/2015/2006/article/130/2/a); [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(5)(b)](https://www.legislation.gov.uk/nisr/2016/46/article/3/5/b)
+[^c-31b789f8ec86ebb78e8a6bc5bc891076]: Textual amendment: Words in [s. 3(2)(d)](https://www.legislation.gov.uk/nia/2008/10/section/3/2/d) inserted (17.2.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [arts. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [130(2)(a)](https://www.legislation.gov.uk/nisi/2015/2006/article/130/2/a); [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(5)(b)](https://www.legislation.gov.uk/nisr/2016/46/article/3/5/b)
 
-[^key-de98adb1b46db15d83cf2cb9f4a43aba]: Textual amendment: Word in [s. 3(2)(g)](https://www.legislation.gov.uk/nia/2008/10/section/3/2/g) repealed (17.2.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [arts. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [130(2)(b)](https://www.legislation.gov.uk/nisi/2015/2006/article/130/2/b); [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(5)(b)](https://www.legislation.gov.uk/nisr/2016/46/article/3/5/b)
+[^c-de98adb1b46db15d83cf2cb9f4a43aba]: Textual amendment: Word in [s. 3(2)(g)](https://www.legislation.gov.uk/nia/2008/10/section/3/2/g) repealed (17.2.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [arts. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [130(2)(b)](https://www.legislation.gov.uk/nisi/2015/2006/article/130/2/b); [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(5)(b)](https://www.legislation.gov.uk/nisr/2016/46/article/3/5/b)
 
-[^key-2391940cf531c4e387db9c162ce35405]: Textual amendment: [S. 3(2)(h)](https://www.legislation.gov.uk/nia/2008/10/section/3/2/h) inserted (17.2.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [arts. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [130(2)(c)](https://www.legislation.gov.uk/nisi/2015/2006/article/130/2/c); [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(5)(b)](https://www.legislation.gov.uk/nisr/2016/46/article/3/5/b)
+[^c-2391940cf531c4e387db9c162ce35405]: Textual amendment: [S. 3(2)(h)](https://www.legislation.gov.uk/nia/2008/10/section/3/2/h) inserted (17.2.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [arts. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [130(2)(c)](https://www.legislation.gov.uk/nisi/2015/2006/article/130/2/c); [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(5)(b)](https://www.legislation.gov.uk/nisr/2016/46/article/3/5/b)
 
-[^key-834e29d65eab9e6e97f2dfb9e3d1dfc8]: Textual amendment: [S. 3(3A)-(3D)](https://www.legislation.gov.uk/nia/2008/10/section/3/3A) inserted (17.2.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [arts. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [130(3)](https://www.legislation.gov.uk/nisi/2015/2006/article/130/3); [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(5)(b)](https://www.legislation.gov.uk/nisr/2016/46/article/3/5/b)
+[^c-834e29d65eab9e6e97f2dfb9e3d1dfc8]: Textual amendment: [S. 3(3A)-(3D)](https://www.legislation.gov.uk/nia/2008/10/section/3/3A) inserted (17.2.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [arts. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [130(3)](https://www.legislation.gov.uk/nisi/2015/2006/article/130/3); [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(5)(b)](https://www.legislation.gov.uk/nisr/2016/46/article/3/5/b)

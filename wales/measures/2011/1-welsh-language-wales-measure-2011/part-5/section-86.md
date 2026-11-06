@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 86. Consultation before final determination following an appeal[^key-c35c4c390eeeb6c8ed5219796de0500f]
+## 86. Consultation before final determination following an appeal[^c-c35c4c390eeeb6c8ed5219796de0500f]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c35c4c390eeeb6c8ed5219796de0500f]: Commencement: [S. 86](https://www.legislation.gov.uk/mwa/2011/1/section/86) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(c)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/c)
+[^c-c35c4c390eeeb6c8ed5219796de0500f]: Commencement: [S. 86](https://www.legislation.gov.uk/mwa/2011/1/section/86) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(c)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/c)

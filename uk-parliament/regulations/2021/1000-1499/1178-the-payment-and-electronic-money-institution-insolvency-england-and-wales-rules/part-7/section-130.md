@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 130. Secured creditors[^key-a182a3e220d1d149e5f9466c3c83d45a]
+## 130. Secured creditors[^c-a182a3e220d1d149e5f9466c3c83d45a]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a182a3e220d1d149e5f9466c3c83d45a]: Commencement: Rule 130 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-a182a3e220d1d149e5f9466c3c83d45a]: Commencement: Rule 130 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

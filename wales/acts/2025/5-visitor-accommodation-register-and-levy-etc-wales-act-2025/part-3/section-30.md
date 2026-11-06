@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Liability to pay the levy[^key-78fce6bef323950394333503c41ab9d1]
+## 30. Liability to pay the levy[^c-78fce6bef323950394333503c41ab9d1]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-78fce6bef323950394333503c41ab9d1]: Commencement: S. 30 in force at 19.9.2025, see [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1)
+[^c-78fce6bef323950394333503c41ab9d1]: Commencement: S. 30 in force at 19.9.2025, see [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1)

@@ -32,7 +32,7 @@ summary: ''
 
 FOOD
 
-The Dairy Produce Quotas (Scotland) Amendment Regulations 2006 (revoked)[^key-52388f7b79da7a1bdad80fb0c6d25d73]
+The Dairy Produce Quotas (Scotland) Amendment Regulations 2006 (revoked)[^c-52388f7b79da7a1bdad80fb0c6d25d73]
 
 Made
 
@@ -46,44 +46,44 @@ Coming into force
 
 31st March 2006
 
-[^key-52388f7b79da7a1bdad80fb0c6d25d73]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-52388f7b79da7a1bdad80fb0c6d25d73]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-52388f7b79da7a1bdad80fb0c6d25d73]
+## 1. Citation and commencement[^c-52388f7b79da7a1bdad80fb0c6d25d73]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Dairy Produce Quotas (Scotland) Regulations 2005[^key-52388f7b79da7a1bdad80fb0c6d25d73]
+## 2. Amendment of the Dairy Produce Quotas (Scotland) Regulations 2005[^c-52388f7b79da7a1bdad80fb0c6d25d73]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-52388f7b79da7a1bdad80fb0c6d25d73]
+## 3.[^c-52388f7b79da7a1bdad80fb0c6d25d73]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-52388f7b79da7a1bdad80fb0c6d25d73]
+## 4.[^c-52388f7b79da7a1bdad80fb0c6d25d73]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-52388f7b79da7a1bdad80fb0c6d25d73]
+## 5.[^c-52388f7b79da7a1bdad80fb0c6d25d73]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-52388f7b79da7a1bdad80fb0c6d25d73]
+## 6.[^c-52388f7b79da7a1bdad80fb0c6d25d73]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7.[^key-52388f7b79da7a1bdad80fb0c6d25d73]
+## 7.[^c-52388f7b79da7a1bdad80fb0c6d25d73]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-52388f7b79da7a1bdad80fb0c6d25d73]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-52388f7b79da7a1bdad80fb0c6d25d73]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-52388f7b79da7a1bdad80fb0c6d25d73]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-52388f7b79da7a1bdad80fb0c6d25d73]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-52388f7b79da7a1bdad80fb0c6d25d73]: Textual amendment: Regulations revoked (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2018/391/schedule/part/2)
+[^c-52388f7b79da7a1bdad80fb0c6d25d73]: Textual amendment: Regulations revoked (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2018/391/schedule/part/2)

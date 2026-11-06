@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Duty to make schemes and exercise of functions by authorities[^key-6d0dd715fc9b7b2f12b7e6eae71ca375]
+## 12. Duty to make schemes and exercise of functions by authorities[^c-6d0dd715fc9b7b2f12b7e6eae71ca375]
 
 *Extent: E+W*
 
@@ -30,7 +30,7 @@ summary: ''
 
 ## Annotations
 
-[^key-6d0dd715fc9b7b2f12b7e6eae71ca375]: Commencement: Reg. 12 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-6d0dd715fc9b7b2f12b7e6eae71ca375]: Commencement: Reg. 12 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
 
 [^f00092]: Footnote: [1972 c.70](https://www.legislation.gov.uk/ukpga/1972/70).
 

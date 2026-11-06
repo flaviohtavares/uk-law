@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 4 — Scheme valuation and employer cost cap[^key-54ca23c9eb5fe9513a188e96f5525635]
+## SCHEDULE 4 — Scheme valuation and employer cost cap[^c-54ca23c9eb5fe9513a188e96f5525635]
 
 *Extent: N.I.*
 
@@ -56,4 +56,4 @@ Any changes to the scheme made as a result of paragraph 5 are to take effect wit
 
 ## Annotations
 
-[^key-54ca23c9eb5fe9513a188e96f5525635]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/nisr/2014/310/schedule/4) inserted (1.4.2015) by [The Teachers’ Pensions (Miscellaneous Amendments) Regulations (Northern Ireland) 2015 (S.R. 2015/126)](https://www.legislation.gov.uk/nisr/2015/126), [regs. 1](https://www.legislation.gov.uk/nisr/2015/126/regulation/1), [25](https://www.legislation.gov.uk/nisr/2015/126/regulation/25)
+[^c-54ca23c9eb5fe9513a188e96f5525635]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/nisr/2014/310/schedule/4) inserted (1.4.2015) by [The Teachers’ Pensions (Miscellaneous Amendments) Regulations (Northern Ireland) 2015 (S.R. 2015/126)](https://www.legislation.gov.uk/nisr/2015/126), [regs. 1](https://www.legislation.gov.uk/nisr/2015/126/regulation/1), [25](https://www.legislation.gov.uk/nisr/2015/126/regulation/25)

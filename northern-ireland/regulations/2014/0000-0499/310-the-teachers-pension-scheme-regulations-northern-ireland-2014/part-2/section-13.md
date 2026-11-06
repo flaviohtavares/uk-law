@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 13. Northern Ireland Teachers’ Pension Scheme Advisory Board–Conflict of interest[^key-b3cea9e0a7d8c9fa68794e6de7d397ad]
+## 13. Northern Ireland Teachers’ Pension Scheme Advisory Board–Conflict of interest[^c-b3cea9e0a7d8c9fa68794e6de7d397ad]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b3cea9e0a7d8c9fa68794e6de7d397ad]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/nisr/2014/310/regulation/13) heading substituted (1.4.2015) by [The Teachers’ Pensions (Miscellaneous Amendments) Regulations (Northern Ireland) 2015 (S.R. 2015/126)](https://www.legislation.gov.uk/nisr/2015/126), [regs. 1](https://www.legislation.gov.uk/nisr/2015/126/regulation/1), [10](https://www.legislation.gov.uk/nisr/2015/126/regulation/10)
+[^c-b3cea9e0a7d8c9fa68794e6de7d397ad]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/nisr/2014/310/regulation/13) heading substituted (1.4.2015) by [The Teachers’ Pensions (Miscellaneous Amendments) Regulations (Northern Ireland) 2015 (S.R. 2015/126)](https://www.legislation.gov.uk/nisr/2015/126), [regs. 1](https://www.legislation.gov.uk/nisr/2015/126/regulation/1), [10](https://www.legislation.gov.uk/nisr/2015/126/regulation/10)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Absent vote at a particular Scottish parliamentary election and special lists[^key-38842c5d287e9521fffa19e8a0737cc1]
+## 9. Absent vote at a particular Scottish parliamentary election and special lists[^c-38842c5d287e9521fffa19e8a0737cc1]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,4 +66,4 @@ if that person is shown in the record so kept as voting by post and the ERO shal
 
 ## Annotations
 
-[^key-38842c5d287e9521fffa19e8a0737cc1]: Commencement: Art. 9 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-38842c5d287e9521fffa19e8a0737cc1]: Commencement: Art. 9 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)

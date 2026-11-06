@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 36. Calculation of income and capital of members of applicant’s family[^key-5628b4fb8c652fa1292465200911d01c]
+## 36. Calculation of income and capital of members of applicant’s family[^c-5628b4fb8c652fa1292465200911d01c]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5628b4fb8c652fa1292465200911d01c]: Commencement: [Reg. 36](https://www.legislation.gov.uk/ssi/2021/249/regulation/36) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-5628b4fb8c652fa1292465200911d01c]: Commencement: [Reg. 36](https://www.legislation.gov.uk/ssi/2021/249/regulation/36) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 18. Guidance in relation to kinship care assistance functions[^key-70a95b3620f74ac34cae82c1690e1479]
+## 18. Guidance in relation to kinship care assistance functions[^c-70a95b3620f74ac34cae82c1690e1479]
 
 *Extent: S*
 
 (1) The Children and Young People (Scotland) Act 2014 is amended as follows.
 
-(2)[^key-2f2afc44cf5a150c3428df06265b715b] After section 73, insert—
+(2)[^c-2f2afc44cf5a150c3428df06265b715b] After section 73, insert—
 
 > **73A. Duty to have regard to guidance about the provision of kinship care assistance**
 >
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-70a95b3620f74ac34cae82c1690e1479]: Commencement: S. 18 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)
+[^c-70a95b3620f74ac34cae82c1690e1479]: Commencement: S. 18 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)
 
-[^key-2f2afc44cf5a150c3428df06265b715b]: Commencement: [S. 18(2)](https://www.legislation.gov.uk/asp/2026/16/section/18/2) in force at 30.9.2026 for specified purposes by [S.S.I. 2026/258](https://www.legislation.gov.uk/ssi/2026/258), [reg. 2](https://www.legislation.gov.uk/ssi/2026/258/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/258/schedule)
+[^c-2f2afc44cf5a150c3428df06265b715b]: Commencement: [S. 18(2)](https://www.legislation.gov.uk/asp/2026/16/section/18/2) in force at 30.9.2026 for specified purposes by [S.S.I. 2026/258](https://www.legislation.gov.uk/ssi/2026/258), [reg. 2](https://www.legislation.gov.uk/ssi/2026/258/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/258/schedule)

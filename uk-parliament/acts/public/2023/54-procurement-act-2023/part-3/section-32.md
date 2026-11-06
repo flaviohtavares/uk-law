@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Reserving contracts to supported employment providers[^key-4739b6fbcd9020895542a8bb136c91d9][^key-4d101ea4e88b66b5560e542296168a1b]
+## 32. Reserving contracts to supported employment providers[^c-4739b6fbcd9020895542a8bb136c91d9][^c-4d101ea4e88b66b5560e542296168a1b]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4739b6fbcd9020895542a8bb136c91d9]: Commencement: S. 32 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
+[^c-4739b6fbcd9020895542a8bb136c91d9]: Commencement: S. 32 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
 
-[^key-4d101ea4e88b66b5560e542296168a1b]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2023/54/section/32) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
+[^c-4d101ea4e88b66b5560e542296168a1b]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2023/54/section/32) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))

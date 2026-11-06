@@ -31,7 +31,7 @@ summary: ''
 
 (3) References to functions are to functions of a public nature.
 
-(4) References to Welsh devolved functions are to functions which are exercisable in relation to Wales and could be conferred by provision falling within the legislative competence of the National Assembly for Wales as defined in section 108A[^key-4ebba41cf0ff972939419568397038ad] of the Government of Wales Act 2006.
+(4) References to Welsh devolved functions are to functions which are exercisable in relation to Wales and could be conferred by provision falling within the legislative competence of the National Assembly for Wales as defined in section 108A[^c-4ebba41cf0ff972939419568397038ad] of the Government of Wales Act 2006.
 
 (5) The “**appropriate national authority**”, in relation to a Welsh public authority with any functions other than Welsh devolved functions, means the following national authority or authorities (according to whichever one or more of the following paragraphs apply to that Welsh public authority)—
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4ebba41cf0ff972939419568397038ad]: Textual amendment: Words in [s. 61(4)](https://www.legislation.gov.uk/ukpga/2011/20/section/61/4) substituted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 90](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/90) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/r)
+[^c-4ebba41cf0ff972939419568397038ad]: Textual amendment: Words in [s. 61(4)](https://www.legislation.gov.uk/ukpga/2011/20/section/61/4) substituted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 90](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/90) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/r)

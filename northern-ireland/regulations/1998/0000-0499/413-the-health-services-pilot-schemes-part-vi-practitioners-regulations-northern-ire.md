@@ -30,7 +30,7 @@ summary: ''
 
 HEALTH AND PERSONAL SOCIAL SERVICES
 
-The Health Services (Pilot Schemes: Part VI Practitioners) Regulations (Northern Ireland) 1998 (revoked)[^key-80fd74130acc219dea1058c96f0fb7e4]
+The Health Services (Pilot Schemes: Part VI Practitioners) Regulations (Northern Ireland) 1998 (revoked)[^c-80fd74130acc219dea1058c96f0fb7e4]
 
 Made
 
@@ -40,28 +40,28 @@ Coming into operation
 
 1st April 1999
 
-[^key-80fd74130acc219dea1058c96f0fb7e4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-80fd74130acc219dea1058c96f0fb7e4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-80fd74130acc219dea1058c96f0fb7e4]
+## 1. Citation, commencement and interpretation[^c-80fd74130acc219dea1058c96f0fb7e4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Performance of personal medical services by a Part VI practitioner[^key-80fd74130acc219dea1058c96f0fb7e4]
+## 2. Performance of personal medical services by a Part VI practitioner[^c-80fd74130acc219dea1058c96f0fb7e4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Liability of Part VI practitioners who perform personal medical services[^key-80fd74130acc219dea1058c96f0fb7e4]
+## 3. Liability of Part VI practitioners who perform personal medical services[^c-80fd74130acc219dea1058c96f0fb7e4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-80fd74130acc219dea1058c96f0fb7e4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-80fd74130acc219dea1058c96f0fb7e4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-80fd74130acc219dea1058c96f0fb7e4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-80fd74130acc219dea1058c96f0fb7e4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-80fd74130acc219dea1058c96f0fb7e4]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/413) revoked (1.4.2004) by [The General Medical Services Transitional and Consequential Provisions (No. 2) (Northern Ireland) Order 2004 (S.R. 2004/156)](https://www.legislation.gov.uk/nisr/2004/156), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2004/156/schedule/2)
+[^c-80fd74130acc219dea1058c96f0fb7e4]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/413) revoked (1.4.2004) by [The General Medical Services Transitional and Consequential Provisions (No. 2) (Northern Ireland) Order 2004 (S.R. 2004/156)](https://www.legislation.gov.uk/nisr/2004/156), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2004/156/schedule/2)

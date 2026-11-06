@@ -44,11 +44,11 @@ Coming into force in accordance with article 1
 
 The Secretary of State, in exercise of the powers conferred on him by sections 56(2), 112(1) and 113 of the Scotland Act 1998[^f00001] and of all other powers enabling him in that behalf, hereby makes the following Order:
 
-## 1. Citation and commencement[^key-34c71faca1305217d80b5424f28f3cb2]
+## 1. Citation and commencement[^c-34c71faca1305217d80b5424f28f3cb2]
 
 This Order may be cited as the Scotland Act 1998 (Concurrent Functions) Order 1999 and shall come into force on the principal appointed day[^f00002].
 
-## 2. Interpretation[^key-edbef19681f58051a7e69f99d4034252]
+## 2. Interpretation[^c-edbef19681f58051a7e69f99d4034252]
 
 (1) In this Order—
 
@@ -61,7 +61,7 @@ This Order may be cited as the Scotland Act 1998 (Concurrent Functions) Order 19
 - (a) a reference to a numbered section is a reference to the section so numbered in the 1998 Act; and
 - (b) a reference to a numbered Schedule is a reference to the Schedule to this Order so numbered.
 
-## 3. Concurrent functions[^key-7250415b024ce386fe799032a6d2830f]
+## 3. Concurrent functions[^c-7250415b024ce386fe799032a6d2830f]
 
 (1) Despite its transfer to the Scottish Ministers by virtue of section 53, any specified function shall be exercisable by the person by whom it was exercisable immediately before that transfer as well as by the Scottish Ministers.
 
@@ -77,7 +77,7 @@ St Andrew’s House,
 
 Edinburgh
 
-## SCHEDULE 1[^key-48b3d2ef9838548c3e1bb543485830d1]
+## SCHEDULE 1[^c-48b3d2ef9838548c3e1bb543485830d1]
 
 Article 3(2)
 
@@ -114,32 +114,32 @@ Article 3(2)
 </tbody>
 </table>
 
-[^f00004][^key-b65a45c8795b3780232c0dda08db3af0][^key-ab1fbd766bb8fb4d0ab4384f5d4d239b][^f00006][^f00007][^f00008][^f00009][^f00010][^f00011][^key-8a35fe6244bb8e5627cb1fda5036caa9][^key-8a35fe6244bb8e5627cb1fda5036caa9][^f00013]
+[^f00004][^c-b65a45c8795b3780232c0dda08db3af0][^c-ab1fbd766bb8fb4d0ab4384f5d4d239b][^f00006][^f00007][^f00008][^f00009][^f00010][^f00011][^c-8a35fe6244bb8e5627cb1fda5036caa9][^c-8a35fe6244bb8e5627cb1fda5036caa9][^f00013]
 
 ## SCHEDULE 2
 
 Article 3(3)
 
-### 1. Export Promotion[^key-ab8324147e9c53a1fce292388c5d8995]
+### 1. Export Promotion[^c-ab8324147e9c53a1fce292388c5d8995]
 
 Any function relating to—
 
 - (a) the promotion of, or arranging for the promotion of, the export of goods or services from the United Kingdom and the provision of, or arranging for the provision of, advice and financial and other assistance in relation to such promotion; and
 - (b) support for, or arranging for support for, investment by any person in any matter outside the United Kingdom and the provision of, or arranging for the provision of, advice and financial and other assistance in relation to such investment.
 
-### 2. Fires and fire brigades: statistics and research[^key-13fd16280143f5a659bfac181483f2a4]
+### 2. Fires and fire brigades: statistics and research[^c-13fd16280143f5a659bfac181483f2a4]
 
 Any function relating to—
 
 - (a) the collection, analysis and publication of statistics relating to—
   - (i) occurrences of fires in Scotland;
-  - (ii) calls for the assistance of employees of[^key-4215ba26b8446ecb385c65d4ee5605e4] the Scottish Fire and Rescue Service[^key-ae144dff8b163ae77ef860fff555abe6] in Scotland; and
+  - (ii) calls for the assistance of employees of[^c-4215ba26b8446ecb385c65d4ee5605e4] the Scottish Fire and Rescue Service[^c-ae144dff8b163ae77ef860fff555abe6] in Scotland; and
   - (iii) the causes, characteristics and effects of fires occurring in Scotland; and
 - (b) the carrying out of, or arranging for the carrying out of, research into and development of knowledge of—
   - (i) the causes, characteristics and effects of fires occurring in Scotland;
   - (ii) the means of preventing or mitigating the outbreak or spread of fire;
-  - (iii) the manner in which employees of[^key-5df2c68acf35282c60ca6a5459b32b3e] the Scottish Fire and Rescue Service[^key-18353f7dbd93436fe97a438c863aadc1] may be trained and the equipment which may be provided to them; and
-  - (iv) the effectiveness and efficiency of arrangements for responding to calls for the assistance of employees of[^key-9548a42a9bf331f6e864eb37a058882b] the Scottish Fire and Rescue Service[^key-23e53972431f9c273ee836932d2e9d7c] in Scotland.
+  - (iii) the manner in which employees of[^c-5df2c68acf35282c60ca6a5459b32b3e] the Scottish Fire and Rescue Service[^c-18353f7dbd93436fe97a438c863aadc1] may be trained and the equipment which may be provided to them; and
+  - (iv) the effectiveness and efficiency of arrangements for responding to calls for the assistance of employees of[^c-9548a42a9bf331f6e864eb37a058882b] the Scottish Fire and Rescue Service[^c-23e53972431f9c273ee836932d2e9d7c] in Scotland.
 
 (This note is not part of the Order)
 
@@ -155,23 +155,23 @@ This Order will come into force on the principal appointed day. That day is curr
 
 [^f00001]: Footnote: [1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-34c71faca1305217d80b5424f28f3cb2]: Commencement: Art. 1 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1592/article/1)
+[^c-34c71faca1305217d80b5424f28f3cb2]: Commencement: Art. 1 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1592/article/1)
 
 [^f00002]: Footnote: The principal appointed day is 1st July 1999 by virtue of article 3 of the Scotland Act 1998 (Commencement) Order 1998 ([S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178)).
 
-[^key-edbef19681f58051a7e69f99d4034252]: Commencement: Art. 2 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1592/article/1)
+[^c-edbef19681f58051a7e69f99d4034252]: Commencement: Art. 2 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1592/article/1)
 
 [^f00003]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21).
 
-[^key-7250415b024ce386fe799032a6d2830f]: Commencement: Art. 3 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1592/article/1)
+[^c-7250415b024ce386fe799032a6d2830f]: Commencement: Art. 3 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1592/article/1)
 
-[^key-48b3d2ef9838548c3e1bb543485830d1]: Commencement: Sch. 1 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1592/article/1)
+[^c-48b3d2ef9838548c3e1bb543485830d1]: Commencement: Sch. 1 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1592/article/1)
 
 [^f00004]: Footnote: [1967 c. 84](https://www.legislation.gov.uk/ukpga/1967/84); subsection (3) was amended by the Fisheries Act [1981 (c. 29)](https://www.legislation.gov.uk/ukpga/1981/29) (“the 1981 Act”), section 33(1) and Schedule 4, Part 1, paragraph 12.
 
-[^key-b65a45c8795b3780232c0dda08db3af0]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/1592/schedule/1) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 para. 17(2)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/17/2/a) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-b65a45c8795b3780232c0dda08db3af0]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/1592/schedule/1) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 para. 17(2)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/17/2/a) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-ab1fbd766bb8fb4d0ab4384f5d4d239b]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/1592/schedule/1) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 para. 17(2)(b)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/17/2/b) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-ab1fbd766bb8fb4d0ab4384f5d4d239b]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/1592/schedule/1) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 para. 17(2)(b)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/17/2/b) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
 [^f00006]: Footnote: Section 4A was inserted by the 1981 Act, sections 21(1) and 27 and amended by the Sea Fish (Conservation) Act [1992 (c. 60)](https://www.legislation.gov.uk/ukpga/1992/60), section 3.
 
@@ -185,22 +185,22 @@ This Order will come into force on the principal appointed day. That day is curr
 
 [^f00011]: Footnote: [1981 c. 22](https://www.legislation.gov.uk/ukpga/1981/22).
 
-[^key-8a35fe6244bb8e5627cb1fda5036caa9]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/1592/schedule/1) omitted (23.11.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(1)(c)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/1/c), [Sch. 6 para. 4(2)(c)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/6/paragraph/4/2/c) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-8a35fe6244bb8e5627cb1fda5036caa9]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/1592/schedule/1) omitted (23.11.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(1)(c)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/1/c), [Sch. 6 para. 4(2)(c)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/6/paragraph/4/2/c) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
 [^f00013]: Footnote: [1983 c. 8](https://www.legislation.gov.uk/ukpga/1983/8).
 
-[^key-ab8324147e9c53a1fce292388c5d8995]: Commencement: Sch. 2 para. 1 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1592/article/1)
+[^c-ab8324147e9c53a1fce292388c5d8995]: Commencement: Sch. 2 para. 1 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1592/article/1)
 
-[^key-13fd16280143f5a659bfac181483f2a4]: Commencement: Sch. 2 para. 2 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1592/article/1)
+[^c-13fd16280143f5a659bfac181483f2a4]: Commencement: Sch. 2 para. 2 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1592/article/1)
 
-[^key-4215ba26b8446ecb385c65d4ee5605e4]: Textual amendment: Words in [Sch. 2 para. 2(a)(ii)](https://www.legislation.gov.uk/uksi/1999/1592/schedule/2/paragraph/2/a/ii) substituted (2.8.2005) by [The Fire (Scotland) Act 2005 (Consequential Provisions and Modifications) Order 2005 (S.I. 2005/2060)](https://www.legislation.gov.uk/uksi/2005/2060), [art. 1(2)(f)](https://www.legislation.gov.uk/uksi/2005/2060/article/1/2/f), [Sch. para. 14(2)](https://www.legislation.gov.uk/uksi/2005/2060/schedule/paragraph/14/2)
+[^c-4215ba26b8446ecb385c65d4ee5605e4]: Textual amendment: Words in [Sch. 2 para. 2(a)(ii)](https://www.legislation.gov.uk/uksi/1999/1592/schedule/2/paragraph/2/a/ii) substituted (2.8.2005) by [The Fire (Scotland) Act 2005 (Consequential Provisions and Modifications) Order 2005 (S.I. 2005/2060)](https://www.legislation.gov.uk/uksi/2005/2060), [art. 1(2)(f)](https://www.legislation.gov.uk/uksi/2005/2060/article/1/2/f), [Sch. para. 14(2)](https://www.legislation.gov.uk/uksi/2005/2060/schedule/paragraph/14/2)
 
-[^key-ae144dff8b163ae77ef860fff555abe6]: Textual amendment: Words in [Sch. 2 para. 2(a)(ii)](https://www.legislation.gov.uk/uksi/1999/1592/schedule/2/paragraph/2/a/ii) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 77(2)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/77/2)
+[^c-ae144dff8b163ae77ef860fff555abe6]: Textual amendment: Words in [Sch. 2 para. 2(a)(ii)](https://www.legislation.gov.uk/uksi/1999/1592/schedule/2/paragraph/2/a/ii) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 77(2)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/77/2)
 
-[^key-5df2c68acf35282c60ca6a5459b32b3e]: Textual amendment: Words in [Sch. 2 para. 2(b)(iii)](https://www.legislation.gov.uk/uksi/1999/1592/schedule/2/paragraph/2/b/iii) substituted (2.8.2005) by [The Fire (Scotland) Act 2005 (Consequential Provisions and Modifications) Order 2005 (S.I. 2005/2060)](https://www.legislation.gov.uk/uksi/2005/2060), [art. 1(2)(f)](https://www.legislation.gov.uk/uksi/2005/2060/article/1/2/f), [Sch. para. 14(3)](https://www.legislation.gov.uk/uksi/2005/2060/schedule/paragraph/14/3)
+[^c-5df2c68acf35282c60ca6a5459b32b3e]: Textual amendment: Words in [Sch. 2 para. 2(b)(iii)](https://www.legislation.gov.uk/uksi/1999/1592/schedule/2/paragraph/2/b/iii) substituted (2.8.2005) by [The Fire (Scotland) Act 2005 (Consequential Provisions and Modifications) Order 2005 (S.I. 2005/2060)](https://www.legislation.gov.uk/uksi/2005/2060), [art. 1(2)(f)](https://www.legislation.gov.uk/uksi/2005/2060/article/1/2/f), [Sch. para. 14(3)](https://www.legislation.gov.uk/uksi/2005/2060/schedule/paragraph/14/3)
 
-[^key-18353f7dbd93436fe97a438c863aadc1]: Textual amendment: Words in [Sch. 2 para. 2(b)(iii)](https://www.legislation.gov.uk/uksi/1999/1592/schedule/2/paragraph/2/b/iii) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 77(3)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/77/3)
+[^c-18353f7dbd93436fe97a438c863aadc1]: Textual amendment: Words in [Sch. 2 para. 2(b)(iii)](https://www.legislation.gov.uk/uksi/1999/1592/schedule/2/paragraph/2/b/iii) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 77(3)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/77/3)
 
-[^key-9548a42a9bf331f6e864eb37a058882b]: Textual amendment: Words in [Sch. 2 para. 2(b)(iv)](https://www.legislation.gov.uk/uksi/1999/1592/schedule/2/paragraph/2/b/iv) substituted (2.8.2005) by [The Fire (Scotland) Act 2005 (Consequential Provisions and Modifications) Order 2005 (S.I. 2005/2060)](https://www.legislation.gov.uk/uksi/2005/2060), [art. 1(2)(f)](https://www.legislation.gov.uk/uksi/2005/2060/article/1/2/f), [Sch. para. 14(4)](https://www.legislation.gov.uk/uksi/2005/2060/schedule/paragraph/14/4)
+[^c-9548a42a9bf331f6e864eb37a058882b]: Textual amendment: Words in [Sch. 2 para. 2(b)(iv)](https://www.legislation.gov.uk/uksi/1999/1592/schedule/2/paragraph/2/b/iv) substituted (2.8.2005) by [The Fire (Scotland) Act 2005 (Consequential Provisions and Modifications) Order 2005 (S.I. 2005/2060)](https://www.legislation.gov.uk/uksi/2005/2060), [art. 1(2)(f)](https://www.legislation.gov.uk/uksi/2005/2060/article/1/2/f), [Sch. para. 14(4)](https://www.legislation.gov.uk/uksi/2005/2060/schedule/paragraph/14/4)
 
-[^key-23e53972431f9c273ee836932d2e9d7c]: Textual amendment: Words in [Sch. 2 para. 2(b)(iv)](https://www.legislation.gov.uk/uksi/1999/1592/schedule/2/paragraph/2/b/iv) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 77(4)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/77/4)
+[^c-23e53972431f9c273ee836932d2e9d7c]: Textual amendment: Words in [Sch. 2 para. 2(b)(iv)](https://www.legislation.gov.uk/uksi/1999/1592/schedule/2/paragraph/2/b/iv) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 77(4)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/77/4)

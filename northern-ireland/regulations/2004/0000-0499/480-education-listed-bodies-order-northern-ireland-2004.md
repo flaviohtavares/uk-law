@@ -31,7 +31,7 @@ summary: ''
 
 HIGHER AND FURTHER EDUCATION, TRAINING AND EMPLOYMENT
 
-Education (Listed Bodies) Order (Northern Ireland) 2004 (revoked)[^key-e18f025974138a00a96b3e0c734b2649]
+Education (Listed Bodies) Order (Northern Ireland) 2004 (revoked)[^c-e18f025974138a00a96b3e0c734b2649]
 
 Made
 
@@ -41,48 +41,48 @@ Coming into operation
 
 22nd December 2004
 
-[^key-e18f025974138a00a96b3e0c734b2649]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e18f025974138a00a96b3e0c734b2649]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-e18f025974138a00a96b3e0c734b2649]
+## 1. Citation, commencement and interpretation[^c-e18f025974138a00a96b3e0c734b2649]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Listed bodies[^key-e18f025974138a00a96b3e0c734b2649]
+## 2. Listed bodies[^c-e18f025974138a00a96b3e0c734b2649]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-e18f025974138a00a96b3e0c734b2649]
+## 3. Revocation[^c-e18f025974138a00a96b3e0c734b2649]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e18f025974138a00a96b3e0c734b2649]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e18f025974138a00a96b3e0c734b2649]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-e18f025974138a00a96b3e0c734b2649]
+## SCHEDULE[^c-e18f025974138a00a96b3e0c734b2649]
 
-### PART 1 — bodies providing courses in preparation for a degree[^key-e18f025974138a00a96b3e0c734b2649]
+### PART 1 — bodies providing courses in preparation for a degree[^c-e18f025974138a00a96b3e0c734b2649]
 
-#### SECTION 1 — Generally[^key-e18f025974138a00a96b3e0c734b2649]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### SECTION 2 — In respect of foundation degrees only[^key-e18f025974138a00a96b3e0c734b2649]
+#### SECTION 1 — Generally[^c-e18f025974138a00a96b3e0c734b2649]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2[^key-e18f025974138a00a96b3e0c734b2649]
+#### SECTION 2 — In respect of foundation degrees only[^c-e18f025974138a00a96b3e0c734b2649]
 
-#### Institutions of a university[^key-e18f025974138a00a96b3e0c734b2649]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART 2[^c-e18f025974138a00a96b3e0c734b2649]
+
+#### Institutions of a university[^c-e18f025974138a00a96b3e0c734b2649]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-e18f025974138a00a96b3e0c734b2649]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e18f025974138a00a96b3e0c734b2649]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e18f025974138a00a96b3e0c734b2649]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2004/480) revoked (11.1.2018) by [The Education (Listed Bodies) Order (Northern Ireland) 2018 (S.R. 2018/9)](https://www.legislation.gov.uk/nisr/2018/9), [arts. 1](https://www.legislation.gov.uk/nisr/2018/9/article/1), [3](https://www.legislation.gov.uk/nisr/2018/9/article/3)
+[^c-e18f025974138a00a96b3e0c734b2649]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2004/480) revoked (11.1.2018) by [The Education (Listed Bodies) Order (Northern Ireland) 2018 (S.R. 2018/9)](https://www.legislation.gov.uk/nisr/2018/9), [arts. 1](https://www.legislation.gov.uk/nisr/2018/9/article/1), [3](https://www.legislation.gov.uk/nisr/2018/9/article/3)

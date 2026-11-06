@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95. Carbon emissions tax[^key-2af8dab5535634073bed5634333d04c3]
+## 95. Carbon emissions tax[^c-2af8dab5535634073bed5634333d04c3]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2af8dab5535634073bed5634333d04c3]: Textual amendment: [S. 95](https://www.legislation.gov.uk/ukpga/2020/14/section/95) omitted (10.6.2021) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 112(2)](https://www.legislation.gov.uk/ukpga/2021/26/section/112/2)
+[^c-2af8dab5535634073bed5634333d04c3]: Textual amendment: [S. 95](https://www.legislation.gov.uk/ukpga/2020/14/section/95) omitted (10.6.2021) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 112(2)](https://www.legislation.gov.uk/ukpga/2021/26/section/112/2)

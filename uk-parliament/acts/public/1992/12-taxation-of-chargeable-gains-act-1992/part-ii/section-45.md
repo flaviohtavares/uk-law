@@ -33,7 +33,7 @@ summary: ''
 - (b) the computation of the gain shall be made separately in relation to the apportioned parts of the expenditure and consideration, and
 - (c) subsection (1) above shall not apply to any gain accruing by reference to the computation in relation to the part of the consideration apportioned to use for the purposes of the trade, profession or vocation, or to the expenditure qualifying for capital allowances.
 
-(3A)[^key-e47060c0b938dc2ca1e11caab12cb622] But subsection (3) does not apply in the case of a disposal in relation to which subsection (3B) disapplies subsection (1).
+(3A)[^c-e47060c0b938dc2ca1e11caab12cb622] But subsection (3) does not apply in the case of a disposal in relation to which subsection (3B) disapplies subsection (1).
 
 (3B) Subsection (1) does not apply to a disposal of, or of an interest in, an asset if—
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e47060c0b938dc2ca1e11caab12cb622]: Textual amendment: S. 45(3A)-(3D) inserted (with effect in accordance with s. 40(2) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 40(1)](https://www.legislation.gov.uk/ukpga/2015/11/section/40/1)
+[^c-e47060c0b938dc2ca1e11caab12cb622]: Textual amendment: S. 45(3A)-(3D) inserted (with effect in accordance with s. 40(2) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 40(1)](https://www.legislation.gov.uk/ukpga/2015/11/section/40/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 45. Adjournment by chair[^key-b4a11fa1ea4b67be2b35ce65f890e1df]
+## 45. Adjournment by chair[^c-b4a11fa1ea4b67be2b35ce65f890e1df]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b4a11fa1ea4b67be2b35ce65f890e1df]: Commencement: Rule 45 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-b4a11fa1ea4b67be2b35ce65f890e1df]: Commencement: Rule 45 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

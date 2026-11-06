@@ -46,11 +46,11 @@ Coming into force
 
 The Treasury make the following Order in exercise of the powers conferred by sections 7(7)(a), 7(8), 61(4), 64(3), 65(8), 68(9), 69(12) of, and paragraph 20A(13) of Schedule 2 to, the Building Societies Act 1986[^f00001]:
 
-## 1. Citation and commencement[^key-1b80135cf01fa797cef049d7194b7657]
+## 1. Citation and commencement[^c-1b80135cf01fa797cef049d7194b7657]
 
 This Order may be cited as the Building Societies Act 1986 (Substitution of Specified Amounts and Modification of the Funding Limit Calculation) Order 2007 and comes into force on 6th April 2007.
 
-## 2. Substitution of specified amounts[^key-258f91406b32dc75c5a8d43a6c64df1f]
+## 2. Substitution of specified amounts[^c-258f91406b32dc75c5a8d43a6c64df1f]
 
 (1) The Building Societies Act 1986 is amended as follows.
 
@@ -83,17 +83,17 @@ This Order may be cited as the Building Societies Act 1986 (Substitution of Spec
 
 (7) In paragraph 20A(7) of Schedule 2 (establishment, incorporation and constitution of building societies), for “£25” substitute “£50”.
 
-## 3. Modification of the funding limit calculation[^key-dbea5bfa5bd5a65bba5a8c6440c93a22]
+## 3. Modification of the funding limit calculation[^c-dbea5bfa5bd5a65bba5a8c6440c93a22]
 
-(1) Subsections (2) and (3) of section 7 of the Building Societies Act 1986 (the funding limit) are modified as follows in their application to the liabilities of relevant[^key-f2a4530e8ef44b9e2be7261a43d7a9d6] subsidiary undertakings of a building society.
+(1) Subsections (2) and (3) of section 7 of the Building Societies Act 1986 (the funding limit) are modified as follows in their application to the liabilities of relevant[^c-f2a4530e8ef44b9e2be7261a43d7a9d6] subsidiary undertakings of a building society.
 
-(2) For the purposes of section 7(2), there shall be disregarded so much of the aggregate of the principal value of, and interest accrued on, sums deposited with any relevant[^key-c6fac6cc95ad5b9636d143cd8bba5702] subsidiary undertaking of the society by individuals acting otherwise than as bare trustees for bodies corporate or for persons who include bodies corporate as does not exceed the limit in paragraph (3).
+(2) For the purposes of section 7(2), there shall be disregarded so much of the aggregate of the principal value of, and interest accrued on, sums deposited with any relevant[^c-c6fac6cc95ad5b9636d143cd8bba5702] subsidiary undertaking of the society by individuals acting otherwise than as bare trustees for bodies corporate or for persons who include bodies corporate as does not exceed the limit in paragraph (3).
 
-(3) In respect of any day by reference to which the value of X falls to be calculated for the purposes of section 7(1) in relation to the society, that limit is 10 per cent. of the amount which would, apart from the modifications required by this article and by section 7(3)(aa)[^key-dd46fa7937d770271ecb877cbd77e886], be the value of X on that day.
+(3) In respect of any day by reference to which the value of X falls to be calculated for the purposes of section 7(1) in relation to the society, that limit is 10 per cent. of the amount which would, apart from the modifications required by this article and by section 7(3)(aa)[^c-dd46fa7937d770271ecb877cbd77e886], be the value of X on that day.
 
-(4) Where an individual declares that he is depositing a sum with a relevant[^key-7aa226cd2120453413d5732fdeb37ad4] subsidiary undertaking of a building society otherwise than as a bare trustee for a body corporate or for persons who include a body corporate, he shall, unless the contrary is shown, be conclusively presumed for the purposes of section 7 to have deposited the sum otherwise than as such a trustee.
+(4) Where an individual declares that he is depositing a sum with a relevant[^c-7aa226cd2120453413d5732fdeb37ad4] subsidiary undertaking of a building society otherwise than as a bare trustee for a body corporate or for persons who include a body corporate, he shall, unless the contrary is shown, be conclusively presumed for the purposes of section 7 to have deposited the sum otherwise than as such a trustee.
 
-(5) In this article, “a relevant subsidiary undertaking[^key-446e13e617f8af9fdc5f28880469c35d]” means a subsidiary undertaking that is incorporated or otherwise established in [^key-f2ba8ccd1f8840234a829b995e6fc831]... the Channel Islands, the Isle of Man or Gibraltar.
+(5) In this article, “a relevant subsidiary undertaking[^c-446e13e617f8af9fdc5f28880469c35d]” means a subsidiary undertaking that is incorporated or otherwise established in [^c-f2ba8ccd1f8840234a829b995e6fc831]... the Channel Islands, the Isle of Man or Gibraltar.
 
 Frank Roy
 
@@ -117,9 +117,9 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00001]: Footnote: [1986 (c.53)](https://www.legislation.gov.uk/ukpga/1986/53). Section 7(7)(a) was substituted by section 8 of the Building Societies Act [1997 (c.32)](https://www.legislation.gov.uk/ukpga/1997/32) and amended by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617). Section 61(4) was substituted by section 28(2) of the Building Societies Act 1997 and amended by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617). Sections 64(3), 65(8), 68(9) and 69(12) were amended by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617). Paragraph 20A of Schedule 2 was inserted by section 25 of the Building Societies Act 1997 and sub-paragraph (13) was amended by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617).
 
-[^key-1b80135cf01fa797cef049d7194b7657]: Commencement: Art. 1 in force at 6.4.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/860/article/1)
+[^c-1b80135cf01fa797cef049d7194b7657]: Commencement: Art. 1 in force at 6.4.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/860/article/1)
 
-[^key-258f91406b32dc75c5a8d43a6c64df1f]: Commencement: Art. 2 in force at 6.4.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/860/article/1)
+[^c-258f91406b32dc75c5a8d43a6c64df1f]: Commencement: Art. 2 in force at 6.4.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/860/article/1)
 
 [^f00002]: Footnote: Section 61(2) was substituted by section 28(1) of the Building Societies Act 1997.
 
@@ -127,16 +127,16 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00004]: Footnote: Section 65(2), (3), (4) and (6) were amended by [S.I. 1995/1872](https://www.legislation.gov.uk/uksi/1995/1872).
 
-[^key-dbea5bfa5bd5a65bba5a8c6440c93a22]: Commencement: Art. 3 in force at 6.4.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/860/article/1)
+[^c-dbea5bfa5bd5a65bba5a8c6440c93a22]: Commencement: Art. 3 in force at 6.4.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/860/article/1)
 
-[^key-f2a4530e8ef44b9e2be7261a43d7a9d6]: Textual amendment: Word in [art. 3(1)](https://www.legislation.gov.uk/uksi/2007/860/article/3/1) substituted (31.12.2020) by [The Building Societies Legislation (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1187)](https://www.legislation.gov.uk/uksi/2018/1187), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1187/regulation/1), [11(a)](https://www.legislation.gov.uk/uksi/2018/1187/regulation/11/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f2a4530e8ef44b9e2be7261a43d7a9d6]: Textual amendment: Word in [art. 3(1)](https://www.legislation.gov.uk/uksi/2007/860/article/3/1) substituted (31.12.2020) by [The Building Societies Legislation (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1187)](https://www.legislation.gov.uk/uksi/2018/1187), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1187/regulation/1), [11(a)](https://www.legislation.gov.uk/uksi/2018/1187/regulation/11/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c6fac6cc95ad5b9636d143cd8bba5702]: Textual amendment: Word in [art. 3(2)](https://www.legislation.gov.uk/uksi/2007/860/article/3/2) substituted (31.12.2020) by [The Building Societies Legislation (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1187)](https://www.legislation.gov.uk/uksi/2018/1187), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1187/regulation/1), [11(b)](https://www.legislation.gov.uk/uksi/2018/1187/regulation/11/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c6fac6cc95ad5b9636d143cd8bba5702]: Textual amendment: Word in [art. 3(2)](https://www.legislation.gov.uk/uksi/2007/860/article/3/2) substituted (31.12.2020) by [The Building Societies Legislation (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1187)](https://www.legislation.gov.uk/uksi/2018/1187), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1187/regulation/1), [11(b)](https://www.legislation.gov.uk/uksi/2018/1187/regulation/11/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-dd46fa7937d770271ecb877cbd77e886]: Textual amendment: Words in [art. 3(3)](https://www.legislation.gov.uk/uksi/2007/860/article/3/3) substituted (18.2.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(2)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/2), [Sch. 9 para. 3(1)](https://www.legislation.gov.uk/ukpga/2013/33/schedule/9/paragraph/3/1) (with [Sch. 9 para. 3(2)](https://www.legislation.gov.uk/ukpga/2013/33/schedule/9/paragraph/3/2))
+[^c-dd46fa7937d770271ecb877cbd77e886]: Textual amendment: Words in [art. 3(3)](https://www.legislation.gov.uk/uksi/2007/860/article/3/3) substituted (18.2.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(2)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/2), [Sch. 9 para. 3(1)](https://www.legislation.gov.uk/ukpga/2013/33/schedule/9/paragraph/3/1) (with [Sch. 9 para. 3(2)](https://www.legislation.gov.uk/ukpga/2013/33/schedule/9/paragraph/3/2))
 
-[^key-7aa226cd2120453413d5732fdeb37ad4]: Textual amendment: Words in [art. 3(4)](https://www.legislation.gov.uk/uksi/2007/860/article/3/4) substituted (31.12.2020) by [The Building Societies Legislation (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1187)](https://www.legislation.gov.uk/uksi/2018/1187), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1187/regulation/1), [11(c)](https://www.legislation.gov.uk/uksi/2018/1187/regulation/11/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7aa226cd2120453413d5732fdeb37ad4]: Textual amendment: Words in [art. 3(4)](https://www.legislation.gov.uk/uksi/2007/860/article/3/4) substituted (31.12.2020) by [The Building Societies Legislation (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1187)](https://www.legislation.gov.uk/uksi/2018/1187), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1187/regulation/1), [11(c)](https://www.legislation.gov.uk/uksi/2018/1187/regulation/11/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-446e13e617f8af9fdc5f28880469c35d]: Textual amendment: Words in [art. 3(5)](https://www.legislation.gov.uk/uksi/2007/860/article/3/5) substituted (31.12.2020) by [The Building Societies Legislation (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1187)](https://www.legislation.gov.uk/uksi/2018/1187), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1187/regulation/1), [11(d)(i)](https://www.legislation.gov.uk/uksi/2018/1187/regulation/11/d/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-446e13e617f8af9fdc5f28880469c35d]: Textual amendment: Words in [art. 3(5)](https://www.legislation.gov.uk/uksi/2007/860/article/3/5) substituted (31.12.2020) by [The Building Societies Legislation (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1187)](https://www.legislation.gov.uk/uksi/2018/1187), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1187/regulation/1), [11(d)(i)](https://www.legislation.gov.uk/uksi/2018/1187/regulation/11/d/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f2ba8ccd1f8840234a829b995e6fc831]: Textual amendment: Words in [art. 3(5)](https://www.legislation.gov.uk/uksi/2007/860/article/3/5) omitted (31.12.2020) by virtue of [The Building Societies Legislation (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1187)](https://www.legislation.gov.uk/uksi/2018/1187), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1187/regulation/1), [11(d)(ii)](https://www.legislation.gov.uk/uksi/2018/1187/regulation/11/d/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f2ba8ccd1f8840234a829b995e6fc831]: Textual amendment: Words in [art. 3(5)](https://www.legislation.gov.uk/uksi/2007/860/article/3/5) omitted (31.12.2020) by virtue of [The Building Societies Legislation (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1187)](https://www.legislation.gov.uk/uksi/2018/1187), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1187/regulation/1), [11(d)(ii)](https://www.legislation.gov.uk/uksi/2018/1187/regulation/11/d/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

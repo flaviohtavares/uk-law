@@ -24,8 +24,8 @@ summary: ''
 
 (2) A legally assisted person’s contribution under this section shall be determined by the Board, and may include—
 
-- (a) if his disposable income exceeds £3,521[^key-9cd5bb9f3af45cdc60c28d4f20995a97] a year, a contribution in respect of income which shall not be more than 67.1%[^c22566631] of the excess (or such other proportion of the excess, or such amount, as may be prescribed by regulations made under this section); and
-- (b) if his disposable capital exceeds £7,853[^key-afd29e71b93a64b35afc979270a9163a], a contribution in respect of capital which shall not be more than the excess (or such proportion of the excess or such lesser amount as may be prescribed by regulations made under this section).
+- (a) if his disposable income exceeds £3,521[^c-9cd5bb9f3af45cdc60c28d4f20995a97] a year, a contribution in respect of income which shall not be more than 67.1%[^c22566631] of the excess (or such other proportion of the excess, or such amount, as may be prescribed by regulations made under this section); and
+- (b) if his disposable capital exceeds £7,853[^c-afd29e71b93a64b35afc979270a9163a], a contribution in respect of capital which shall not be more than the excess (or such proportion of the excess or such lesser amount as may be prescribed by regulations made under this section).
 
 (2A)[^c14065321] Except in so far as regulations made under this section otherwise provide, any sum of money recovered under an award of or an agreement as to expenses in favour of any party in any proceedings in respect of which he is or has been in receipt of civil legal aid shall be paid to the Board.
 
@@ -53,11 +53,11 @@ summary: ''
 
     S. 17 modified (1.12.2002) by [The Civil Legal Aid (Scotland) Regulations 2002 (S.S.I. 2002/494)](https://www.legislation.gov.uk/ssi/2002/494), [reg. 46(2)(a)](https://www.legislation.gov.uk/ssi/2002/494/regulation/46/2/a)
 
-[^key-9cd5bb9f3af45cdc60c28d4f20995a97]: Textual amendment: Word in s. 17(2)(a) substituted (11.4.2011) by [The Advice and Assistance and Civil Legal Aid (Financial Conditions and Contributions) (Scotland) Regulations 2011 (S.S.I. 2011/217)](https://www.legislation.gov.uk/ssi/2011/217), [regs. 1](https://www.legislation.gov.uk/ssi/2011/217/regulation/1), [4(7)](https://www.legislation.gov.uk/ssi/2011/217/regulation/4/7) (with [reg. 3](https://www.legislation.gov.uk/ssi/2011/217/regulation/3))
+[^c-9cd5bb9f3af45cdc60c28d4f20995a97]: Textual amendment: Word in s. 17(2)(a) substituted (11.4.2011) by [The Advice and Assistance and Civil Legal Aid (Financial Conditions and Contributions) (Scotland) Regulations 2011 (S.S.I. 2011/217)](https://www.legislation.gov.uk/ssi/2011/217), [regs. 1](https://www.legislation.gov.uk/ssi/2011/217/regulation/1), [4(7)](https://www.legislation.gov.uk/ssi/2011/217/regulation/4/7) (with [reg. 3](https://www.legislation.gov.uk/ssi/2011/217/regulation/3))
 
 [^c22566631]: Textual amendment: Words in s. 17(2)(a) substituted (12.4.2010 with application as mentioned in reg. 3(2) of the amending S.S.I.) by virtue of [The Advice and Assistance and Civil Legal Aid (Financial Conditions and Contributions) (Scotland) Regulations 2010 (S.S.I. 2010/139)](https://www.legislation.gov.uk/ssi/2010/139), [reg. 5](https://www.legislation.gov.uk/ssi/2010/139/regulation/5) (with [reg. 8](https://www.legislation.gov.uk/ssi/2010/139/regulation/8))
 
-[^key-afd29e71b93a64b35afc979270a9163a]: Textual amendment: Word in s. 17(2)(b) substituted (11.4.2011) by [The Advice and Assistance and Civil Legal Aid (Financial Conditions and Contributions) (Scotland) Regulations 2011 (S.S.I. 2011/217)](https://www.legislation.gov.uk/ssi/2011/217), [regs. 1](https://www.legislation.gov.uk/ssi/2011/217/regulation/1), [4(8)](https://www.legislation.gov.uk/ssi/2011/217/regulation/4/8) (with [reg. 3](https://www.legislation.gov.uk/ssi/2011/217/regulation/3))
+[^c-afd29e71b93a64b35afc979270a9163a]: Textual amendment: Word in s. 17(2)(b) substituted (11.4.2011) by [The Advice and Assistance and Civil Legal Aid (Financial Conditions and Contributions) (Scotland) Regulations 2011 (S.S.I. 2011/217)](https://www.legislation.gov.uk/ssi/2011/217), [regs. 1](https://www.legislation.gov.uk/ssi/2011/217/regulation/1), [4(8)](https://www.legislation.gov.uk/ssi/2011/217/regulation/4/8) (with [reg. 3](https://www.legislation.gov.uk/ssi/2011/217/regulation/3))
 
 [^c14065321]: Textual amendment: S. 17(2A)(2B) inserted (30.9.1991) by [Law Reform (Miscellaneous Provisions) (Scotland) Act 1990 (c. 40, SIF 76:2)](https://www.legislation.gov.uk/ukpga/1990/40), [s. 74(1)](https://www.legislation.gov.uk/ukpga/1990/40/section/74/1), [Sch. 8 para. 36(6)](https://www.legislation.gov.uk/ukpga/1990/40/schedule/8/paragraph/36/6); [S.I. 1991/1903](https://www.legislation.gov.uk/uksi/1991/1903), [art. 3](https://www.legislation.gov.uk/uksi/1991/1903/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1991/1903/schedule)
 

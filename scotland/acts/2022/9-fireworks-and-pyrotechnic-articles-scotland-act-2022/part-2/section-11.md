@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 11. Register of fireworks licence applications and licensed persons[^key-47183c0c88243c9d7a3210fa3a88f20a]
+## 11. Register of fireworks licence applications and licensed persons[^c-47183c0c88243c9d7a3210fa3a88f20a]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-47183c0c88243c9d7a3210fa3a88f20a]: Commencement: S. 11 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
+[^c-47183c0c88243c9d7a3210fa3a88f20a]: Commencement: S. 11 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)

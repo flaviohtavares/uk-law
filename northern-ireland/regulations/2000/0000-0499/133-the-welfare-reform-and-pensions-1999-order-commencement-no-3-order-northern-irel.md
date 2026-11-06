@@ -37,13 +37,13 @@ Made
 
 The Department for Social Development, in exercise of the powers conferred by Article 1(2) of the Welfare Reform and Pensions (Northern Ireland) Order 1999[^f00001], and now vested in it[^f00002], and of all other powers enabling it in that behalf, hereby makes the following Order:
 
-## 1. Citation and interpretation[^key-c0b7db214a9d4ef53b101feedbc7b6e3]
+## 1. Citation and interpretation[^c-c0b7db214a9d4ef53b101feedbc7b6e3]
 
 (1) This Order may be cited as the Welfare Reform and Pensions (1999 Order) (Commencement No. 3) Order (Northern Ireland) 2000.
 
 (2) In this Order, “the Order” means the Welfare Reform and Pensions (Northern Ireland) Order 1999 and any reference to a numbered Article or Schedule is to the Article of, or Schedule to, the Order.
 
-## 2. Appointed days[^key-32247f762a362757825ce66513f02e7e]
+## 2. Appointed days[^c-32247f762a362757825ce66513f02e7e]
 
 (1) The day appointed for the coming into operation of paragraph 60 of Schedule 9 (deregulation and contracting out) is 18th April 2000.
 
@@ -74,7 +74,7 @@ Department for Social Development
 
 Article 2(3)
 
-### Part I — Provisions coming into operation on 24th April 2000 for the purpose only of authorising the making of regulations and 9th April 2001 for all other purposes[^key-1999cca0451804b773d253f36f033c46]
+### Part I — Provisions coming into operation on 24th April 2000 for the purpose only of authorising the making of regulations and 9th April 2001 for all other purposes[^c-1999cca0451804b773d253f36f033c46]
 
 | Provisions of the Order | Subject Matter |
 | --- | --- |
@@ -86,7 +86,7 @@ Article 2(3)
 | the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00003], section 20(1)(*e*)(i) | description of contributory benefits— widow’s payment |
 | the Social Security (Northern Ireland) Order 1998[^f00004], in Schedule 6, paragraph 59 | late claims for widowhood benefit |
 
-### Part II — Provisions coming into operation on 25th April 2000[^key-ef542eae22b5f4c4edd18fce1ab0f9eb]
+### Part II — Provisions coming into operation on 25th April 2000[^c-ef542eae22b5f4c4edd18fce1ab0f9eb]
 
 | Provisions of the Order | Subject Matter |
 | --- | --- |
@@ -104,7 +104,7 @@ Article 2(3)
 | the entries relating to sections 69(2)(*a*)(ii), 92(2)(*a*) and 176(1) of the Pension Schemes (Northern Ireland) Act 1993[^f00005], | short service benefit, option to take cash equivalent; definitions |
 | the entry relating to Article 8(4) of the Pensions (Northern Ireland) Order 1995[^f00006], | appointment of trustees |
 
-### Part III — Provisions coming into operation on 1st October 2000[^key-29b3ccc5c00f313df70494238237d1ed]
+### Part III — Provisions coming into operation on 1st October 2000[^c-29b3ccc5c00f313df70494238237d1ed]
 
 | Provisions of the Order | Subject Matter |
 | --- | --- |
@@ -113,7 +113,7 @@ Article 2(3)
 | Article 9, except the definition of “designated scheme” in subsection (1) | interpretation and application of Part II |
 | Schedule 1, except paragraph 1(3), and Article 8(3) except in so far as it relates to paragraph 1(3) | application of statutory provisions |
 
-### Part IV — Provisions coming into operation on 1st December 2000[^key-1ec755070c2a6862338a21459964979a]
+### Part IV — Provisions coming into operation on 1st December 2000[^c-1ec755070c2a6862338a21459964979a]
 
 | Provisions of the Order | Subject Matter |
 | --- | --- |
@@ -132,11 +132,11 @@ Article 2(3)
 | paragraphs 32 to 51 | the Pensions (Northern Ireland) Order 1995 |
 | Schedule 10, Part III and Article 76 in so far as it relates to that Part | repeals |
 
-### Part V — Provisions coming into operation on 8th October 2001[^key-ab3ae3d3863d68e55cc5ee631fbc8322]
+### Part V — Provisions coming into operation on 8th October 2001[^c-ab3ae3d3863d68e55cc5ee631fbc8322]
 
 | Provisions of the Order | Subject Matter |
 | --- | --- |
-| Article 5 | [^key-db758921c1aa1fe718c50f21ab047805]. . . |
+| Article 5 | [^c-db758921c1aa1fe718c50f21ab047805]. . . |
 | Article 6 | obtaining information |
 | Article 7 | powers of inspection |
 | Article 8(1), (2) and (4) | application of statutory provisions |
@@ -179,28 +179,28 @@ The following provisions of the Welfare Reform and Pensions (Northern Ireland) O
 
 [^f00002]: Footnote: *See* Article 8(*b*) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-c0b7db214a9d4ef53b101feedbc7b6e3]: Commencement: Art. 1 in operation at made date
+[^c-c0b7db214a9d4ef53b101feedbc7b6e3]: Commencement: Art. 1 in operation at made date
 
-[^key-32247f762a362757825ce66513f02e7e]: Commencement: Art. 2 in operation at made date
+[^c-32247f762a362757825ce66513f02e7e]: Commencement: Art. 2 in operation at made date
 
-[^key-1999cca0451804b773d253f36f033c46]: Commencement: Sch. Pt. I in operation at made date
+[^c-1999cca0451804b773d253f36f033c46]: Commencement: Sch. Pt. I in operation at made date
 
 [^f00003]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7)
 
 [^f00004]: Footnote: S.I. [1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506)
 
-[^key-ef542eae22b5f4c4edd18fce1ab0f9eb]: Commencement: Sch. Pt. II in operation at made date
+[^c-ef542eae22b5f4c4edd18fce1ab0f9eb]: Commencement: Sch. Pt. II in operation at made date
 
 [^f00005]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49)
 
 [^f00006]: Footnote: S.I. [1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213)
 
-[^key-29b3ccc5c00f313df70494238237d1ed]: Commencement: Sch. Pt. III in operation at made date
+[^c-29b3ccc5c00f313df70494238237d1ed]: Commencement: Sch. Pt. III in operation at made date
 
-[^key-1ec755070c2a6862338a21459964979a]: Commencement: Sch. Pt. IV in operation at made date
+[^c-1ec755070c2a6862338a21459964979a]: Commencement: Sch. Pt. IV in operation at made date
 
 [^f00007]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8)
 
-[^key-ab3ae3d3863d68e55cc5ee631fbc8322]: Commencement: Sch. Pt. V in operation at made date
+[^c-ab3ae3d3863d68e55cc5ee631fbc8322]: Commencement: Sch. Pt. V in operation at made date
 
-[^key-db758921c1aa1fe718c50f21ab047805]: Textual amendment: Words in [Sch. Pt. V](https://www.legislation.gov.uk/nisr/2000/133/schedule/part/V) omitted (15.3.2001) by virtue of [The Welfare Reform and Pensions (1999 Order) (Commencement No. 7 and Transitional Provisions) Order (Northern Ireland) 2001 (S.R. 2001/114)](https://www.legislation.gov.uk/nisr/2001/114), [arts. 1](https://www.legislation.gov.uk/nisr/2001/114/article/1), [2](https://www.legislation.gov.uk/nisr/2001/114/article/2)
+[^c-db758921c1aa1fe718c50f21ab047805]: Textual amendment: Words in [Sch. Pt. V](https://www.legislation.gov.uk/nisr/2000/133/schedule/part/V) omitted (15.3.2001) by virtue of [The Welfare Reform and Pensions (1999 Order) (Commencement No. 7 and Transitional Provisions) Order (Northern Ireland) 2001 (S.R. 2001/114)](https://www.legislation.gov.uk/nisr/2001/114), [arts. 1](https://www.legislation.gov.uk/nisr/2001/114/article/1), [2](https://www.legislation.gov.uk/nisr/2001/114/article/2)

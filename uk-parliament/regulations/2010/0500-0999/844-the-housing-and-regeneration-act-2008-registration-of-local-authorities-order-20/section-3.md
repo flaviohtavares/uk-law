@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Requirement to register[^key-689ba821f0cd8163ca6b52cbeb741a14]
+## 3. Requirement to register[^c-689ba821f0cd8163ca6b52cbeb741a14]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-689ba821f0cd8163ca6b52cbeb741a14]: Commencement: Art. 3 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/844/article/1/2)
+[^c-689ba821f0cd8163ca6b52cbeb741a14]: Commencement: Art. 3 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/844/article/1/2)

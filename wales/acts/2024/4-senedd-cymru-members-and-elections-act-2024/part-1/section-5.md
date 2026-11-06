@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Increase in maximum number of Welsh Ministers[^key-dac2e6d3c596988edd118ac23cc091db]
+## 5. Increase in maximum number of Welsh Ministers[^c-dac2e6d3c596988edd118ac23cc091db]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ In section 51 (limit on number of Ministers) of the 2006 Act—
 
 ## Annotations
 
-[^key-dac2e6d3c596988edd118ac23cc091db]: Commencement: [S. 5](https://www.legislation.gov.uk/asc/2024/4/section/5) in force at 8.5.2026, see [s. 25(4)](https://www.legislation.gov.uk/asc/2024/4/section/25/4)
+[^c-dac2e6d3c596988edd118ac23cc091db]: Commencement: [S. 5](https://www.legislation.gov.uk/asc/2024/4/section/5) in force at 8.5.2026, see [s. 25(4)](https://www.legislation.gov.uk/asc/2024/4/section/25/4)

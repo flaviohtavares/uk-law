@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Eligible child’s pension payable on death of deferred member[^key-7d11def53b8370f6001cc2014d96f7f7]
+## 87. Eligible child’s pension payable on death of deferred member[^c-7d11def53b8370f6001cc2014d96f7f7]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7d11def53b8370f6001cc2014d96f7f7]: Commencement: [Reg. 87](https://www.legislation.gov.uk/uksi/2014/2848/regulation/87) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-7d11def53b8370f6001cc2014d96f7f7]: Commencement: [Reg. 87](https://www.legislation.gov.uk/uksi/2014/2848/regulation/87) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

@@ -83,99 +83,99 @@ In regulation 3(1)(b), for “the Environment” substitute “ Agriculture, Env
 
 In regulation 9(2)(b), for “the Environment” substitute “ Agriculture, Environment and Rural Affairs ”.
 
-## PART 3 — Amendments to subordinate legislation under the European Union (Withdrawal) Act 2018[^key-e2e75e1e92f322fe21c0aee98be06179]
+## PART 3 — Amendments to subordinate legislation under the European Union (Withdrawal) Act 2018[^c-e2e75e1e92f322fe21c0aee98be06179]
 
 **Not yet in force.**
 
-### 6. Amendments to POPR 2007[^key-e2e75e1e92f322fe21c0aee98be06179]
+### 6. Amendments to POPR 2007[^c-e2e75e1e92f322fe21c0aee98be06179]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Amendments to regulation 3[^key-e2e75e1e92f322fe21c0aee98be06179]
+### 7. Amendments to regulation 3[^c-e2e75e1e92f322fe21c0aee98be06179]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Omission of regulation 4[^key-e2e75e1e92f322fe21c0aee98be06179]
+### 8. Omission of regulation 4[^c-e2e75e1e92f322fe21c0aee98be06179]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 4 — Amendments to retained direct EU legislation[^key-40d78cebfec65e2b2cd16f87d36ac544]
+## PART 4 — Amendments to retained direct EU legislation[^c-40d78cebfec65e2b2cd16f87d36ac544]
 
 **Not yet in force.**
 
-### 9. Amendments to EU POP Regulation[^key-40d78cebfec65e2b2cd16f87d36ac544]
+### 9. Amendments to EU POP Regulation[^c-40d78cebfec65e2b2cd16f87d36ac544]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Amendments to Article 2[^key-40d78cebfec65e2b2cd16f87d36ac544]
+### 10. Amendments to Article 2[^c-40d78cebfec65e2b2cd16f87d36ac544]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Amendments to Article 3[^key-40d78cebfec65e2b2cd16f87d36ac544]
+### 11. Amendments to Article 3[^c-40d78cebfec65e2b2cd16f87d36ac544]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Amendments to Article 4[^key-40d78cebfec65e2b2cd16f87d36ac544]
+### 12. Amendments to Article 4[^c-40d78cebfec65e2b2cd16f87d36ac544]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Amendments to Article 5[^key-40d78cebfec65e2b2cd16f87d36ac544]
+### 13. Amendments to Article 5[^c-40d78cebfec65e2b2cd16f87d36ac544]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Amendments to Article 6[^key-40d78cebfec65e2b2cd16f87d36ac544]
+### 14. Amendments to Article 6[^c-40d78cebfec65e2b2cd16f87d36ac544]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Amendments to Article 7[^key-40d78cebfec65e2b2cd16f87d36ac544]
+### 15. Amendments to Article 7[^c-40d78cebfec65e2b2cd16f87d36ac544]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Amendments to Article 8[^key-40d78cebfec65e2b2cd16f87d36ac544]
+### 16. Amendments to Article 8[^c-40d78cebfec65e2b2cd16f87d36ac544]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Amendments to Article 9[^key-40d78cebfec65e2b2cd16f87d36ac544]
+### 17. Amendments to Article 9[^c-40d78cebfec65e2b2cd16f87d36ac544]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Amendments to Article 10[^key-40d78cebfec65e2b2cd16f87d36ac544]
+### 18. Amendments to Article 10[^c-40d78cebfec65e2b2cd16f87d36ac544]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Amendment to Article 11[^key-40d78cebfec65e2b2cd16f87d36ac544]
+### 19. Amendment to Article 11[^c-40d78cebfec65e2b2cd16f87d36ac544]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 20. Amendments to Article 12[^key-40d78cebfec65e2b2cd16f87d36ac544]
+### 20. Amendments to Article 12[^c-40d78cebfec65e2b2cd16f87d36ac544]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21. Omission of Article 13[^key-40d78cebfec65e2b2cd16f87d36ac544]
+### 21. Omission of Article 13[^c-40d78cebfec65e2b2cd16f87d36ac544]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 22. Omission of Article 15[^key-40d78cebfec65e2b2cd16f87d36ac544]
+### 22. Omission of Article 15[^c-40d78cebfec65e2b2cd16f87d36ac544]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 23. Omission of Articles 18 and 19[^key-40d78cebfec65e2b2cd16f87d36ac544]
+### 23. Omission of Articles 18 and 19[^c-40d78cebfec65e2b2cd16f87d36ac544]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 24. Omission of text following Article 19[^key-40d78cebfec65e2b2cd16f87d36ac544]
+### 24. Omission of text following Article 19[^c-40d78cebfec65e2b2cd16f87d36ac544]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 25. Amendments to Annex 1[^key-40d78cebfec65e2b2cd16f87d36ac544]
+### 25. Amendments to Annex 1[^c-40d78cebfec65e2b2cd16f87d36ac544]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 26. Amendment to Annex 4[^key-40d78cebfec65e2b2cd16f87d36ac544]
+### 26. Amendment to Annex 4[^c-40d78cebfec65e2b2cd16f87d36ac544]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 27. Amendments to Annex 5[^key-40d78cebfec65e2b2cd16f87d36ac544]
+### 27. Amendments to Annex 5[^c-40d78cebfec65e2b2cd16f87d36ac544]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -216,6 +216,6 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^M_I_2de32d4d-1645-4e5a-cb7e-868a74d54e90]: Commencement: Reg. 5 in force at 21.1.2019, see reg. 2(1)
 
-[^key-e2e75e1e92f322fe21c0aee98be06179]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/uksi/2018/1405/part/3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Persistent Organic Pollutants (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1358)](https://www.legislation.gov.uk/uksi/2020/1358), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/1358/regulation/2/1), [29](https://www.legislation.gov.uk/uksi/2020/1358/regulation/29)
+[^c-e2e75e1e92f322fe21c0aee98be06179]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/uksi/2018/1405/part/3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Persistent Organic Pollutants (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1358)](https://www.legislation.gov.uk/uksi/2020/1358), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/1358/regulation/2/1), [29](https://www.legislation.gov.uk/uksi/2020/1358/regulation/29)
 
-[^key-40d78cebfec65e2b2cd16f87d36ac544]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2018/1405/part/4) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Persistent Organic Pollutants (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1358)](https://www.legislation.gov.uk/uksi/2020/1358), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/1358/regulation/2/1), [29](https://www.legislation.gov.uk/uksi/2020/1358/regulation/29)
+[^c-40d78cebfec65e2b2cd16f87d36ac544]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2018/1405/part/4) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Persistent Organic Pollutants (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1358)](https://www.legislation.gov.uk/uksi/2020/1358), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/1358/regulation/2/1), [29](https://www.legislation.gov.uk/uksi/2020/1358/regulation/29)

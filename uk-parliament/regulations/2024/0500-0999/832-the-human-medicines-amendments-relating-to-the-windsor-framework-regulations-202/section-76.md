@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Amendment to regulation 181[^key-e1d239c2ee1cc19ae6cfc9974dc33f97]
+## 76. Amendment to regulation 181[^c-e1d239c2ee1cc19ae6cfc9974dc33f97]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In regulation 181(1) (delegation of obligations under this Part)[^f00086], after
 
 ## Annotations
 
-[^key-e1d239c2ee1cc19ae6cfc9974dc33f97]: Commencement: [Reg. 76](https://www.legislation.gov.uk/uksi/2024/832/regulation/76) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-e1d239c2ee1cc19ae6cfc9974dc33f97]: Commencement: [Reg. 76](https://www.legislation.gov.uk/uksi/2024/832/regulation/76) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00086]: Footnote: Paragraph (1) was amended by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 3. Restrictions on traffic regulation orders.[^c13544371][^c18831341][^key-725ea49afe373d9ff82c67da483b7e4f]
+## 3. Restrictions on traffic regulation orders.[^c13544371][^c18831341][^c-725ea49afe373d9ff82c67da483b7e4f]
 
 *Extent: E+W+S*
 
@@ -49,7 +49,7 @@ it is requisite that subsection (1) above should not apply to the order.
 
     S. 3: functions made exercisable concurrently (S.) (7.11.2006) by The Transfer of Functions to the South West of Scotland Transport Partnership Order 2006 (S.S.I 2006/538), art. 4, {Sch. 2}
 
-[^key-725ea49afe373d9ff82c67da483b7e4f]: Modification: Pt. 1 applied (E.W.) (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/ukpga/1991/22/article/1/2), [17(3)](https://www.legislation.gov.uk/ukpga/1991/22/article/17/3)
+[^c-725ea49afe373d9ff82c67da483b7e4f]: Modification: Pt. 1 applied (E.W.) (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/ukpga/1991/22/article/1/2), [17(3)](https://www.legislation.gov.uk/ukpga/1991/22/article/17/3)
 
 [^c19175471]: Modification: S. 3(1) excluded (E.W.) (temp. from 5.10.2009) by [London Olympic Games and Paralympic Games Act 2006 (c. 12)](https://www.legislation.gov.uk/ukpga/2006/12), [ss. 14(6)](https://www.legislation.gov.uk/ukpga/2006/12/section/14/6), [40(2)(6)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/2/6), [41(3)](https://www.legislation.gov.uk/ukpga/2006/12/section/41/3); [S.I. 2009/2577](https://www.legislation.gov.uk/uksi/2009/2577), [art. 2](https://www.legislation.gov.uk/uksi/2009/2577/article/2)
 

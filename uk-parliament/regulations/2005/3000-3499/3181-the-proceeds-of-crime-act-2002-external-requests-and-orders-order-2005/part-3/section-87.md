@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Property[^key-ffc852b1abac0f552f2bdacd1d893529]
+## 87. Property[^c-ffc852b1abac0f552f2bdacd1d893529]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ffc852b1abac0f552f2bdacd1d893529]: Commencement: [Art. 87](https://www.legislation.gov.uk/uksi/2005/3181/article/87) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-ffc852b1abac0f552f2bdacd1d893529]: Commencement: [Art. 87](https://www.legislation.gov.uk/uksi/2005/3181/article/87) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

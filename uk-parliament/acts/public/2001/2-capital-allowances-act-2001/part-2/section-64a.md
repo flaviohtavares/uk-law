@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64A. Leased assets: arrangements reducing disposal value of asset[^key-9ba118faac380c268d214bd28814f02c]
+## 64A. Leased assets: arrangements reducing disposal value of asset[^c-9ba118faac380c268d214bd28814f02c]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ the disposal value is to be determined as if the arrangements had not been enter
 
 ## Annotations
 
-[^key-9ba118faac380c268d214bd28814f02c]: Textual amendment: S. 64A inserted (8.4.2010) (with effect in accordance with Sch. 5 para. 3(2) to the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 5 para. 3(1)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/5/paragraph/3/1)
+[^c-9ba118faac380c268d214bd28814f02c]: Textual amendment: S. 64A inserted (8.4.2010) (with effect in accordance with Sch. 5 para. 3(2) to the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 5 para. 3(1)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/5/paragraph/3/1)

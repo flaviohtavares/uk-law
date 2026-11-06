@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 1 — Forms[^key-5077948be4fb09464961b1ddf36f3b2b]
+## SCHEDULE 1 — Forms[^c-5077948be4fb09464961b1ddf36f3b2b]
 
 *Extent: E+W*
 
@@ -24,50 +24,50 @@ summary: ''
 
 Regulations 10(1), 11(1), 14(1)16(1), 18(4)-(6), 22(1), 25(1) and 27(1)
 
-### ...[^key-5077948be4fb09464961b1ddf36f3b2b]
+### ...[^c-5077948be4fb09464961b1ddf36f3b2b]
 
-### ...[^key-5077948be4fb09464961b1ddf36f3b2b]
+### ...[^c-5077948be4fb09464961b1ddf36f3b2b]
 
-### ...[^key-5077948be4fb09464961b1ddf36f3b2b]
+### ...[^c-5077948be4fb09464961b1ddf36f3b2b]
 
-### ...[^key-5077948be4fb09464961b1ddf36f3b2b]
+### ...[^c-5077948be4fb09464961b1ddf36f3b2b]
 
-### ...[^key-5077948be4fb09464961b1ddf36f3b2b]
+### ...[^c-5077948be4fb09464961b1ddf36f3b2b]
 
-### ...[^key-5077948be4fb09464961b1ddf36f3b2b]
+### ...[^c-5077948be4fb09464961b1ddf36f3b2b]
 
-### ...[^key-5077948be4fb09464961b1ddf36f3b2b]
+### ...[^c-5077948be4fb09464961b1ddf36f3b2b]
 
-### ...[^key-5077948be4fb09464961b1ddf36f3b2b]
+### ...[^c-5077948be4fb09464961b1ddf36f3b2b]
 
-### ...[^key-5077948be4fb09464961b1ddf36f3b2b]
+### ...[^c-5077948be4fb09464961b1ddf36f3b2b]
 
-### ...[^key-5077948be4fb09464961b1ddf36f3b2b]
+### ...[^c-5077948be4fb09464961b1ddf36f3b2b]
 
-### ...[^key-5077948be4fb09464961b1ddf36f3b2b]
+### ...[^c-5077948be4fb09464961b1ddf36f3b2b]
 
-### ...[^key-5077948be4fb09464961b1ddf36f3b2b]
+### ...[^c-5077948be4fb09464961b1ddf36f3b2b]
 
-### ...[^key-5077948be4fb09464961b1ddf36f3b2b]
+### ...[^c-5077948be4fb09464961b1ddf36f3b2b]
 
-### ...[^key-5077948be4fb09464961b1ddf36f3b2b]
+### ...[^c-5077948be4fb09464961b1ddf36f3b2b]
 
-### ...[^key-5077948be4fb09464961b1ddf36f3b2b]
+### ...[^c-5077948be4fb09464961b1ddf36f3b2b]
 
-### ...[^key-5077948be4fb09464961b1ddf36f3b2b]
+### ...[^c-5077948be4fb09464961b1ddf36f3b2b]
 
-### ...[^key-5077948be4fb09464961b1ddf36f3b2b]
+### ...[^c-5077948be4fb09464961b1ddf36f3b2b]
 
-### ...[^key-5077948be4fb09464961b1ddf36f3b2b]
+### ...[^c-5077948be4fb09464961b1ddf36f3b2b]
 
-### ...[^key-5077948be4fb09464961b1ddf36f3b2b]
+### ...[^c-5077948be4fb09464961b1ddf36f3b2b]
 
-### ...[^key-5077948be4fb09464961b1ddf36f3b2b]
+### ...[^c-5077948be4fb09464961b1ddf36f3b2b]
 
-### ...[^key-5077948be4fb09464961b1ddf36f3b2b]
+### ...[^c-5077948be4fb09464961b1ddf36f3b2b]
 
-### ...[^key-5077948be4fb09464961b1ddf36f3b2b]
+### ...[^c-5077948be4fb09464961b1ddf36f3b2b]
 
 ## Annotations
 
-[^key-5077948be4fb09464961b1ddf36f3b2b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/2215) revoked (E.) (6.4.2024) by [The Building (Registered Building Control Approvers etc.) (England) Regulations 2024 (S.I. 2024/110)](https://www.legislation.gov.uk/uksi/2024/110), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/1/3), [43(a)(i)](https://www.legislation.gov.uk/uksi/2024/110/regulation/43/a/i) (with [regs. 44-47](https://www.legislation.gov.uk/uksi/2024/110/regulation/44)); and [Schs. 1-9](https://www.legislation.gov.uk/uksi/2010/2215/schedule/1) revoked (W.) (1.1.2025) by [The Building (Registered Building Control Approvers etc.) (Wales) Regulations 2024 (S.I. 2024/1268)](https://www.legislation.gov.uk/uksi/2024/1268), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1268/regulation/1/2), [42(1)](https://www.legislation.gov.uk/uksi/2024/1268/regulation/42/1) (with [reg. 42(5)-(7)](https://www.legislation.gov.uk/uksi/2024/1268/regulation/42/5))
+[^c-5077948be4fb09464961b1ddf36f3b2b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/2215) revoked (E.) (6.4.2024) by [The Building (Registered Building Control Approvers etc.) (England) Regulations 2024 (S.I. 2024/110)](https://www.legislation.gov.uk/uksi/2024/110), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/1/3), [43(a)(i)](https://www.legislation.gov.uk/uksi/2024/110/regulation/43/a/i) (with [regs. 44-47](https://www.legislation.gov.uk/uksi/2024/110/regulation/44)); and [Schs. 1-9](https://www.legislation.gov.uk/uksi/2010/2215/schedule/1) revoked (W.) (1.1.2025) by [The Building (Registered Building Control Approvers etc.) (Wales) Regulations 2024 (S.I. 2024/1268)](https://www.legislation.gov.uk/uksi/2024/1268), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1268/regulation/1/2), [42(1)](https://www.legislation.gov.uk/uksi/2024/1268/regulation/42/1) (with [reg. 42(5)-(7)](https://www.legislation.gov.uk/uksi/2024/1268/regulation/42/5))

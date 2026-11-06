@@ -32,7 +32,7 @@ summary: ''
 
 Plant Health, England
 
-The Plant Health (England) (Amendment) (No. 2) Order 2018 (revoked)[^key-1bbc27105b29c55d810a10ff2b1e4148]
+The Plant Health (England) (Amendment) (No. 2) Order 2018 (revoked)[^c-1bbc27105b29c55d810a10ff2b1e4148]
 
 Made
 
@@ -46,48 +46,48 @@ Coming into force
 
 1st April 2018
 
-[^key-1bbc27105b29c55d810a10ff2b1e4148]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1bbc27105b29c55d810a10ff2b1e4148]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-1bbc27105b29c55d810a10ff2b1e4148]
+## 1. Citation and commencement[^c-1bbc27105b29c55d810a10ff2b1e4148]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Plant Health (England) Order 2015[^key-1bbc27105b29c55d810a10ff2b1e4148]
+## 2. Amendment of the Plant Health (England) Order 2015[^c-1bbc27105b29c55d810a10ff2b1e4148]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Article 2 (general interpretation)[^key-1bbc27105b29c55d810a10ff2b1e4148]
+## 3. Article 2 (general interpretation)[^c-1bbc27105b29c55d810a10ff2b1e4148]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Article 6 (advance notification of landing)[^key-1bbc27105b29c55d810a10ff2b1e4148]
+## 4. Article 6 (advance notification of landing)[^c-1bbc27105b29c55d810a10ff2b1e4148]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Article 19 (prohibitions on the introduction of plant pests and relevant material from the European Union)[^key-1bbc27105b29c55d810a10ff2b1e4148]
+## 5. Article 19 (prohibitions on the introduction of plant pests and relevant material from the European Union)[^c-1bbc27105b29c55d810a10ff2b1e4148]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Article 19A (notification of the landing of certain plants for planting)[^key-1bbc27105b29c55d810a10ff2b1e4148]
+## 6. Article 19A (notification of the landing of certain plants for planting)[^c-1bbc27105b29c55d810a10ff2b1e4148]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Schedule 4 (restrictions on the introduction into and movement within England of relevant material)[^key-1bbc27105b29c55d810a10ff2b1e4148]
+## 7. Schedule 4 (restrictions on the introduction into and movement within England of relevant material)[^c-1bbc27105b29c55d810a10ff2b1e4148]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Schedule 8 (Swiss plant passports)[^key-1bbc27105b29c55d810a10ff2b1e4148]
+## 8. Schedule 8 (Swiss plant passports)[^c-1bbc27105b29c55d810a10ff2b1e4148]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1bbc27105b29c55d810a10ff2b1e4148]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1bbc27105b29c55d810a10ff2b1e4148]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-1bbc27105b29c55d810a10ff2b1e4148]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1bbc27105b29c55d810a10ff2b1e4148]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1bbc27105b29c55d810a10ff2b1e4148]: Textual amendment: Order revoked (E.) (14.1.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (England) Regulations 2019 (S.I. 2019/1517)](https://www.legislation.gov.uk/uksi/2019/1517), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1517/regulation/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2019/1517/schedule/6)
+[^c-1bbc27105b29c55d810a10ff2b1e4148]: Textual amendment: Order revoked (E.) (14.1.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (England) Regulations 2019 (S.I. 2019/1517)](https://www.legislation.gov.uk/uksi/2019/1517), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1517/regulation/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2019/1517/schedule/6)

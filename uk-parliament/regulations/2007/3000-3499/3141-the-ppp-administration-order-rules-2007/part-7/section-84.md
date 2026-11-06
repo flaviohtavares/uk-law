@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 84. Use of proxies at meetings[^key-587982f841e5f728b4c64b7465ce9747]
+## 84. Use of proxies at meetings[^c-587982f841e5f728b4c64b7465ce9747]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-587982f841e5f728b4c64b7465ce9747]: Commencement: [Rule 84](https://www.legislation.gov.uk/uksi/2007/3141/rule/84) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-587982f841e5f728b4c64b7465ce9747]: Commencement: [Rule 84](https://www.legislation.gov.uk/uksi/2007/3141/rule/84) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

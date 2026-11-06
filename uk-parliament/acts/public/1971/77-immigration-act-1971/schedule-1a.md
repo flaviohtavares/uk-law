@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 1A — Electronic monitoring conditions[^key-349ac670f2e808f405f165e9e5a04d1c]
+## Schedule 1A — Electronic monitoring conditions[^c-349ac670f2e808f405f165e9e5a04d1c]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ Section 3(1)(c)(vi)
 
 ## Annotations
 
-[^key-349ac670f2e808f405f165e9e5a04d1c]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/ukpga/1971/77/schedule/1A) inserted (5.1.2026) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [ss. 46(3)](https://www.legislation.gov.uk/ukpga/2025/31/section/46/3), [65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1); [S.I. 2025/1318](https://www.legislation.gov.uk/uksi/2025/1318), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2025/1318/regulation/2/f)
+[^c-349ac670f2e808f405f165e9e5a04d1c]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/ukpga/1971/77/schedule/1A) inserted (5.1.2026) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [ss. 46(3)](https://www.legislation.gov.uk/ukpga/2025/31/section/46/3), [65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1); [S.I. 2025/1318](https://www.legislation.gov.uk/uksi/2025/1318), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2025/1318/regulation/2/f)

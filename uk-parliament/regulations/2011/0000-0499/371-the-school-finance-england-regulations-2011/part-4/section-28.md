@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Publication of schemes[^key-3c37fec2f3de8e736b3732695341fc43]
+## 28. Publication of schemes[^c-3c37fec2f3de8e736b3732695341fc43]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3c37fec2f3de8e736b3732695341fc43]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2011/371/regulation/28) in force at 15.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/371/regulation/1/1)
+[^c-3c37fec2f3de8e736b3732695341fc43]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2011/371/regulation/28) in force at 15.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/371/regulation/1/1)

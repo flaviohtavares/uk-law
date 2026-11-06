@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 13 — PROTECTIVE PROVISIONS IN RESPECT OF CERTAIN UNDERTAKINGS[^key-189886cc48cca67cfa19d9693b59f6b1]
+## SCHEDULE 13 — PROTECTIVE PROVISIONS IN RESPECT OF CERTAIN UNDERTAKINGS[^c-189886cc48cca67cfa19d9693b59f6b1]
 
 *Extent: E+W*
 
@@ -33,7 +33,7 @@ Section 183.
 
 as to affect injuriously those works or that property or the carrying on of that undertaking.
 
-(2) Without prejudice to the construction of sub-paragraph (1) above for the purposes of its application in relation to the other provisions of this Act, that sub-paragraph shall have effect in its application in relation to the relevant sewerage provisions as if any use of, injury to or interference with any sluices, floodgates, sewers, groynes, sea defences or other works which are vested in or under the control of the Environment Agency[^c13226181] or the[^key-a8042c897e77aa244a57825ca6a5b6b9] NRBW or an internal drainage board were such an interference with works or property vested in or under the control of the Environment Agency or the NRBW or that board as to affect injuriously the works or property or the carrying on of the undertaking of the Environment Agency or the NRBW or of that board.
+(2) Without prejudice to the construction of sub-paragraph (1) above for the purposes of its application in relation to the other provisions of this Act, that sub-paragraph shall have effect in its application in relation to the relevant sewerage provisions as if any use of, injury to or interference with any sluices, floodgates, sewers, groynes, sea defences or other works which are vested in or under the control of the Environment Agency[^c13226181] or the[^c-a8042c897e77aa244a57825ca6a5b6b9] NRBW or an internal drainage board were such an interference with works or property vested in or under the control of the Environment Agency or the NRBW or that board as to affect injuriously the works or property or the carrying on of the undertaking of the Environment Agency or the NRBW or of that board.
 
 (3) A consent for the purposes of sub-paragraph (1) above may be given subject to reasonable conditions but shall not be unreasonably withheld.
 
@@ -47,7 +47,7 @@ shall be referred to the arbitration of a single arbitrator to be appointed by a
 
 (5) The following are the undertakings protected by this paragraph, that is to say-
 
-- (a) the undertakings of the Environment Agency, the[^key-8731a52e62fb1f02c539ed61ecabd6f8] NRBW, the Civil Aviation Authority, the Coal Authority[^c13226221] and a universal service provider (so far as it is the provider’s undertaking in relation to the provision of a universal postal service[^c13226231];
+- (a) the undertakings of the Environment Agency, the[^c-8731a52e62fb1f02c539ed61ecabd6f8] NRBW, the Civil Aviation Authority, the Coal Authority[^c13226221] and a universal service provider (so far as it is the provider’s undertaking in relation to the provision of a universal postal service[^c13226231];
 - (b) the undertaking of any relevant undertaker;
 - (c)[^c19880701] any undertaking consisting in the provision of an electronic communications network;
 - (d) any airport to which Part V of the [^c13226251]Airports Act 1986 applies;
@@ -59,7 +59,7 @@ shall be referred to the arbitration of a single arbitrator to be appointed by a
 - (j)[^c13226291] the undertaking of any licensed operator, within the meaning of the Coal Industry Act 1994;
 - (k)[^c13226301] the undertaking of a person who holds a licence under Chapter I of Part I of the Transport Act 2000 (air traffic services) to the extent that it is the person’s undertaking as licence holder.
 
-(5A)[^c13226311] In sub-paragraph (5)(a) above “universal service provider” has the same meaning as in Part 3 of the Postal Services Act 2011[^key-e36be5615d615052a12d419b1d120684]; and the reference to the provision of a universal postal service shall be construed in accordance with that Part[^key-39c63e43cbde05c56bf6ba11e4913a7a].
+(5A)[^c13226311] In sub-paragraph (5)(a) above “universal service provider” has the same meaning as in Part 3 of the Postal Services Act 2011[^c-e36be5615d615052a12d419b1d120684]; and the reference to the provision of a universal postal service shall be construed in accordance with that Part[^c-39c63e43cbde05c56bf6ba11e4913a7a].
 
 (6) For the purposes of this paragraph any reference in this paragraph, in relation to any such airport as is mentioned in sub-paragraph (5)(d) above, to the persons carrying on the undertaking is a reference to the airport operator.
 
@@ -98,9 +98,9 @@ shall be referred to the arbitration of a single arbitrator appointed by agreeme
 
 (8) Until the coming into force of section 52 of the [^c13226361]New Roads and Street Works Act 1991, sub-paragraph (2) above shall have effect as if the reference to Part III of that Act were a reference to the [^c13226371]Public Utilities Street Works Act 1950; but nothing in this sub-paragraph shall be taken to prejudice the power of the Secretary of State under that Act of 1991 to make an order bringing that section 52 into force on different days for different purposes (including the purposes of this paragraph).
 
-#### Protection for electronic communications networks[^key-77ee571f58db43d8585087c886fa718e]
+#### Protection for electronic communications networks[^c-77ee571f58db43d8585087c886fa718e]
 
-**4.** Part 10[^key-a2bba04e162cd558ff1d5360dddf57bc] of Schedule 3A to the Communications Act 2003[^key-613f2101744452c8f17f36f7b0c1f62f] (which provides a procedure for certain cases where works involve the alteration of electronic communications apparatus[^c19880851]) shall apply to every relevant undertaker for the purposes of any works carried out by that undertaker in exercise of any of the powers conferred by any enactment [^key-ec0559c5e7ce714fb7826fe0255dd835]...
+**4.** Part 10[^c-a2bba04e162cd558ff1d5360dddf57bc] of Schedule 3A to the Communications Act 2003[^c-613f2101744452c8f17f36f7b0c1f62f] (which provides a procedure for certain cases where works involve the alteration of electronic communications apparatus[^c19880851]) shall apply to every relevant undertaker for the purposes of any works carried out by that undertaker in exercise of any of the powers conferred by any enactment [^c-ec0559c5e7ce714fb7826fe0255dd835]...
 
 ### Part II — FURTHER PROTECTIVE PROVISIONS IN RESPECT OF SEWERAGE POWERS
 
@@ -153,13 +153,13 @@ but, in any other case, the sewerage undertaker may carry out the works subject 
 
 ## Annotations
 
-[^key-189886cc48cca67cfa19d9693b59f6b1]: Modification: [Sch. 13](https://www.legislation.gov.uk/ukpga/1991/56/schedule/13) applied (with modifications) (28.6.2013) by [The Water Industry (Specified Infrastructure Projects) (English Undertakers) Regulations 2013 (S.I. 2013/1582)](https://www.legislation.gov.uk/uksi/2013/1582), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/b), [Sch. 1 para. 13(7)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/13/7) (with [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/c))
+[^c-189886cc48cca67cfa19d9693b59f6b1]: Modification: [Sch. 13](https://www.legislation.gov.uk/ukpga/1991/56/schedule/13) applied (with modifications) (28.6.2013) by [The Water Industry (Specified Infrastructure Projects) (English Undertakers) Regulations 2013 (S.I. 2013/1582)](https://www.legislation.gov.uk/uksi/2013/1582), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/b), [Sch. 1 para. 13(7)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/13/7) (with [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/c))
 
 [^c13226181]: Textual amendment: Words in Sch. 13 para. 1(2)(5)(a) substituted (1.4.1996) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 120(1)](https://www.legislation.gov.uk/ukpga/1995/25/section/120/1), [Sch. 22 para. 127](https://www.legislation.gov.uk/ukpga/1995/25/schedule/22/paragraph/127) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1996/186](https://www.legislation.gov.uk/uksi/1996/186), [art. 3](https://www.legislation.gov.uk/uksi/1996/186/article/3)
 
-[^key-a8042c897e77aa244a57825ca6a5b6b9]: Textual amendment: Words in Sch. 13 para. 1(2) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 263(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/263/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-a8042c897e77aa244a57825ca6a5b6b9]: Textual amendment: Words in Sch. 13 para. 1(2) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 263(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/263/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-8731a52e62fb1f02c539ed61ecabd6f8]: Textual amendment: Words in Sch. 13 para. 1(5)(a) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 263(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/263/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-8731a52e62fb1f02c539ed61ecabd6f8]: Textual amendment: Words in Sch. 13 para. 1(5)(a) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 263(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/263/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c13226221]: Textual amendment: Words in Sch. 13 para. 1(5)(a) substituted (31.10.1994) by [1994 c. 21](https://www.legislation.gov.uk/ukpga/1994/21), [ss. 67(1)](https://www.legislation.gov.uk/ukpga/1994/21/section/67/1), [68(2)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/2), [Sch. 9 para. 42(a)](https://www.legislation.gov.uk/ukpga/1994/21/schedule/9/paragraph/42/a) (with [s. 40(7)](https://www.legislation.gov.uk/ukpga/1994/21/section/40/7)); [S.I. 1994/2553](https://www.legislation.gov.uk/uksi/1994/2553), [art. 2](https://www.legislation.gov.uk/uksi/1994/2553/article/2)
 
@@ -183,9 +183,9 @@ but, in any other case, the sewerage undertaker may carry out the works subject 
 
 [^c13226311]: Textual amendment: Sch. 13 para. 1(5A) inserted (26.3.2001) by [S.I. 2001/1149](https://www.legislation.gov.uk/uksi/2001/1149), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/1149/article/3/1), [Sch. 1 para. 88(3)](https://www.legislation.gov.uk/uksi/2001/1149/schedule/1/paragraph/88/3)
 
-[^key-e36be5615d615052a12d419b1d120684]: Textual amendment: Words in Sch. 13 para. 1(5A) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 137(a)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/137/a); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-e36be5615d615052a12d419b1d120684]: Textual amendment: Words in Sch. 13 para. 1(5A) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 137(a)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/137/a); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-39c63e43cbde05c56bf6ba11e4913a7a]: Textual amendment: Words in Sch. 13 para. 1(5A) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 137(b)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/137/b); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-39c63e43cbde05c56bf6ba11e4913a7a]: Textual amendment: Words in Sch. 13 para. 1(5A) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 137(b)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/137/b); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
 [^c13226321]: Modification: [Sch. 13 para. 3](https://www.legislation.gov.uk/ukpga/1991/56/schedule/13/paragraph/3) applied (with modifications) (21.7.1994) by [1994 c. xi](https://www.legislation.gov.uk/ukla/1994/11), [s. 11(2)](https://www.legislation.gov.uk/ukla/1994/11/section/11/2)
 
@@ -199,14 +199,14 @@ but, in any other case, the sewerage undertaker may carry out the works subject 
 
 [^c13226371]: Marginal citation: [1950 c. 39](https://www.legislation.gov.uk/ukpga/1950/39).
 
-[^key-77ee571f58db43d8585087c886fa718e]: Textual amendment: Words in [Sch. 13 para. 4 heading](https://www.legislation.gov.uk/ukpga/1991/56/schedule/13/part/I/crossheading/protection-for-telecommunication-systems) substituted (28.12.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [s. 118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6), [Sch. 3 para. 30(c)](https://www.legislation.gov.uk/ukpga/2017/30/schedule/3/paragraph/30/c); [S.I. 2017/1286](https://www.legislation.gov.uk/uksi/2017/1286), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2017/1286/regulation/2/d)
+[^c-77ee571f58db43d8585087c886fa718e]: Textual amendment: Words in [Sch. 13 para. 4 heading](https://www.legislation.gov.uk/ukpga/1991/56/schedule/13/part/I/crossheading/protection-for-telecommunication-systems) substituted (28.12.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [s. 118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6), [Sch. 3 para. 30(c)](https://www.legislation.gov.uk/ukpga/2017/30/schedule/3/paragraph/30/c); [S.I. 2017/1286](https://www.legislation.gov.uk/uksi/2017/1286), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2017/1286/regulation/2/d)
 
-[^key-a2bba04e162cd558ff1d5360dddf57bc]: Textual amendment: Words in Sch. 13 para. 4 substituted (28.12.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [s. 118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6), [Sch. 3 para. 30(a)](https://www.legislation.gov.uk/ukpga/2017/30/schedule/3/paragraph/30/a); [S.I. 2017/1286](https://www.legislation.gov.uk/uksi/2017/1286), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2017/1286/regulation/2/d)
+[^c-a2bba04e162cd558ff1d5360dddf57bc]: Textual amendment: Words in Sch. 13 para. 4 substituted (28.12.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [s. 118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6), [Sch. 3 para. 30(a)](https://www.legislation.gov.uk/ukpga/2017/30/schedule/3/paragraph/30/a); [S.I. 2017/1286](https://www.legislation.gov.uk/uksi/2017/1286), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2017/1286/regulation/2/d)
 
-[^key-613f2101744452c8f17f36f7b0c1f62f]: Textual amendment: Words in Sch. 13 para. 4 substituted (28.12.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [s. 118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6), [Sch. 3 para. 30(b)](https://www.legislation.gov.uk/ukpga/2017/30/schedule/3/paragraph/30/b); [S.I. 2017/1286](https://www.legislation.gov.uk/uksi/2017/1286), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2017/1286/regulation/2/d)
+[^c-613f2101744452c8f17f36f7b0c1f62f]: Textual amendment: Words in Sch. 13 para. 4 substituted (28.12.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [s. 118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6), [Sch. 3 para. 30(b)](https://www.legislation.gov.uk/ukpga/2017/30/schedule/3/paragraph/30/b); [S.I. 2017/1286](https://www.legislation.gov.uk/uksi/2017/1286), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2017/1286/regulation/2/d)
 
 [^c19880851]: Textual amendment: Words in Sch. 13 para. 4 substituted (25.7.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [ss. 406](https://www.legislation.gov.uk/ukpga/2003/21/section/406), [411(2)(3)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2/3), [Sch. 17 para. 111(3)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/17/paragraph/111/3); [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1)
 
-[^key-ec0559c5e7ce714fb7826fe0255dd835]: Textual amendment: Words in Sch. 13 para. 4 omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 28(4)(f)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/28/4/f)
+[^c-ec0559c5e7ce714fb7826fe0255dd835]: Textual amendment: Words in Sch. 13 para. 4 omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 28(4)(f)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/28/4/f)
 
 [^c13226401]: Marginal citation: [1986 c. 31](https://www.legislation.gov.uk/ukpga/1986/31).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Advocate General[^key-c979a787a884204803bb593085a7a038]
+## 27. Advocate General[^c-c979a787a884204803bb593085a7a038]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c979a787a884204803bb593085a7a038]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2002/26/section/27) in force at 12.4.2010 by [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 7](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/7)
+[^c-c979a787a884204803bb593085a7a038]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2002/26/section/27) in force at 12.4.2010 by [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 7](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/7)

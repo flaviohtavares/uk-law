@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 146. Discharge under section 140: conditions[^key-c6969b5c3854b1022cdfa9655ed41aba]
+## 146. Discharge under section 140: conditions[^c-c6969b5c3854b1022cdfa9655ed41aba]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c6969b5c3854b1022cdfa9655ed41aba]: Commencement: [S. 146](https://www.legislation.gov.uk/asp/2016/21/section/146) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-c6969b5c3854b1022cdfa9655ed41aba]: Commencement: [S. 146](https://www.legislation.gov.uk/asp/2016/21/section/146) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

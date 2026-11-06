@@ -31,7 +31,7 @@ summary: ''
 
 FOOD
 
-The Contaminants in Food (Amendment) Regulations (Northern Ireland) 2005 (revoked)[^key-b70047166336686052705425b7082cfb]
+The Contaminants in Food (Amendment) Regulations (Northern Ireland) 2005 (revoked)[^c-b70047166336686052705425b7082cfb]
 
 Made
 
@@ -41,22 +41,22 @@ Coming into operation
 
 1st May 2005
 
-[^key-b70047166336686052705425b7082cfb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b70047166336686052705425b7082cfb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-b70047166336686052705425b7082cfb]
+## 1. Citation and commencement[^c-b70047166336686052705425b7082cfb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Contaminants in Food Regulations (Northern Ireland) 2004[^key-b70047166336686052705425b7082cfb]
+## 2. Amendments to the Contaminants in Food Regulations (Northern Ireland) 2004[^c-b70047166336686052705425b7082cfb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b70047166336686052705425b7082cfb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b70047166336686052705425b7082cfb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b70047166336686052705425b7082cfb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b70047166336686052705425b7082cfb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b70047166336686052705425b7082cfb]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/199) revoked (1.1.2006) by [The Contaminants in Food Regulations (Northern Ireland) 2005 (S.R. 2005/538)](https://www.legislation.gov.uk/nisr/2005/538), [regs. 1](https://www.legislation.gov.uk/nisr/2005/538/regulation/1), [7](https://www.legislation.gov.uk/nisr/2005/538/regulation/7)
+[^c-b70047166336686052705425b7082cfb]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/199) revoked (1.1.2006) by [The Contaminants in Food Regulations (Northern Ireland) 2005 (S.R. 2005/538)](https://www.legislation.gov.uk/nisr/2005/538), [regs. 1](https://www.legislation.gov.uk/nisr/2005/538/regulation/1), [7](https://www.legislation.gov.uk/nisr/2005/538/regulation/7)

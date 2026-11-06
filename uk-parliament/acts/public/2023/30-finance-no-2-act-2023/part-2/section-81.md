@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Further provision about remission and repayment[^M_I_78c8bcb0-64f6-4ff7-efa8-6f9ecec12406][^key-0110e2953bce3e03419033b2e6be144d]
+## 81. Further provision about remission and repayment[^M_I_78c8bcb0-64f6-4ff7-efa8-6f9ecec12406][^c-0110e2953bce3e03419033b2e6be144d]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 [^M_I_78c8bcb0-64f6-4ff7-efa8-6f9ecec12406]: Commencement: S. 81 in force at Royal Assent for specified purposes, see [s. 120(1)(b)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/1/b)
 
-[^key-0110e2953bce3e03419033b2e6be144d]: Commencement: [S. 81](https://www.legislation.gov.uk/ukpga/2023/30/section/81) in force at 1.8.2023 in so far as not already in force by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/b) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
+[^c-0110e2953bce3e03419033b2e6be144d]: Commencement: [S. 81](https://www.legislation.gov.uk/ukpga/2023/30/section/81) in force at 1.8.2023 in so far as not already in force by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/b) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))

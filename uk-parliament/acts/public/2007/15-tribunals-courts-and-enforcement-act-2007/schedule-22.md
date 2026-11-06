@@ -60,7 +60,7 @@ Section 139
 
 ### Regional Development Agencies Act 1998 (c. 45)
 
-**10.**[^key-27dbdc509159c25cd88e2ac1e905c85e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-27dbdc509159c25cd88e2ac1e905c85e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Postal Services Act 2000 (c. 26)
 
@@ -72,4 +72,4 @@ Section 139
 
 [^c20770511]: Textual amendment: [Sch. 22 para. 8](https://www.legislation.gov.uk/ukpga/2007/15/schedule/22/paragraph/8) repealed (1.12.2008) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [ss. 321(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/321/1), [324](https://www.legislation.gov.uk/ukpga/2008/17/section/324), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 5](https://www.legislation.gov.uk/uksi/2008/3068/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2008/3068/schedule) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
 
-[^key-27dbdc509159c25cd88e2ac1e905c85e]: Textual amendment: [Sch. 22 para. 10](https://www.legislation.gov.uk/ukpga/2007/15/schedule/22/paragraph/10) repealed (1.7.2012 at 0.02 a.m.) by [Public Bodies Act 2011 (c. 24)](https://www.legislation.gov.uk/ukpga/2011/24), [s. 38(3)](https://www.legislation.gov.uk/ukpga/2011/24/section/38/3), [Sch. 6](https://www.legislation.gov.uk/ukpga/2011/24/schedule/6); [S.I. 2012/1662](https://www.legislation.gov.uk/uksi/2012/1662), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2012/1662/article/2/2/b)
+[^c-27dbdc509159c25cd88e2ac1e905c85e]: Textual amendment: [Sch. 22 para. 10](https://www.legislation.gov.uk/ukpga/2007/15/schedule/22/paragraph/10) repealed (1.7.2012 at 0.02 a.m.) by [Public Bodies Act 2011 (c. 24)](https://www.legislation.gov.uk/ukpga/2011/24), [s. 38(3)](https://www.legislation.gov.uk/ukpga/2011/24/section/38/3), [Sch. 6](https://www.legislation.gov.uk/ukpga/2011/24/schedule/6); [S.I. 2012/1662](https://www.legislation.gov.uk/uksi/2012/1662), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2012/1662/article/2/2/b)

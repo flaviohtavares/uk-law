@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Reasons for decisions[^key-aa78e374b12316b0b51c4a2155d5f99d]
+## 31. Reasons for decisions[^c-aa78e374b12316b0b51c4a2155d5f99d]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aa78e374b12316b0b51c4a2155d5f99d]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2023/52/section/31) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-aa78e374b12316b0b51c4a2155d5f99d]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2023/52/section/31) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)

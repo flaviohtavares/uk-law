@@ -44,7 +44,7 @@ Coming into operation
 
 13th November 1959
 
-The Minister of Pensions and National Insurance, in exercise of powers conferred by sections 43 and 52 of the National Insurance Act, 1946 [^c22716431], and sections 7 and 13 of the National Insurance Act, 1959 [^c22716441], and of all other powers enabling him in that behalf, hereby makes the following regulations:—[^key-4b50136282caaca0a01118bb8e513b49]
+The Minister of Pensions and National Insurance, in exercise of powers conferred by sections 43 and 52 of the National Insurance Act, 1946 [^c22716431], and sections 7 and 13 of the National Insurance Act, 1959 [^c22716441], and of all other powers enabling him in that behalf, hereby makes the following regulations:—[^c-4b50136282caaca0a01118bb8e513b49]
 
 ## Part I — General
 
@@ -56,7 +56,7 @@ The Minister of Pensions and National Insurance, in exercise of powers conferred
 
 - “**"the Act”**” means the National Insurance Act, 1946;
 - “**"the Minister”**” means the Minister of Pensions and National Insurance;
-- “[^key-3993bd8a17860d35c662bcd3cef2aef4]**the Board**” means the Occupational Pensions Board established under section 66 of the Social Security Act 1973;
+- “[^c-3993bd8a17860d35c662bcd3cef2aef4]**the Board**” means the Occupational Pensions Board established under section 66 of the Social Security Act 1973;
 - “**"certificate”**” means a certificate that any employment is to be treated for the purposes of the said Act of 1959, either generally or in relation to any description of persons specified in the certificate, as a non-participating employment;
 - “**"election”**” means an election made by an employer with a view to the issue or variation of a certificate;
 
@@ -82,7 +82,7 @@ and other expressions have the same meanings as in the Act.
 - (b) posting up written notice in some conspicuous place or places at their place of work or employment so that it may be conveniently read by them; or
 - (c) making such other provision for giving notice to them as may be appropriate in the circumstances of the case.
 
-(2) An employer shall give at least one month's notice in writing of his intention to make or revoke an election, delivered or sent by registered post or by recorded delivery service[^key-b3716e3f4a368310142e27916bcfb663] to the trustees of any trust and to any persons with whom there is any contract of assurance or annuity contract under which benefits are liable to be paid in connection with any superannuation scheme or schemes relating to the employment in respect of which the election is to be made or revoked, and to the committee of management (if any) of any such scheme.
+(2) An employer shall give at least one month's notice in writing of his intention to make or revoke an election, delivered or sent by registered post or by recorded delivery service[^c-b3716e3f4a368310142e27916bcfb663] to the trustees of any trust and to any persons with whom there is any contract of assurance or annuity contract under which benefits are liable to be paid in connection with any superannuation scheme or schemes relating to the employment in respect of which the election is to be made or revoked, and to the committee of management (if any) of any such scheme.
 
 (3) Any notice given under this regulation shall:—
 
@@ -141,7 +141,7 @@ For the purpose of determining any question referred to him under this Part of t
 
 ### 11. Decisions of the Registrar
 
-(1) The Registrar shall dispose of any question submitted to him in accordance with the provisions of these regulations, by determining the question himself or by referring it to the Board[^key-737a25dae50c1d007782e83879fe0034].
+(1) The Registrar shall dispose of any question submitted to him in accordance with the provisions of these regulations, by determining the question himself or by referring it to the Board[^c-737a25dae50c1d007782e83879fe0034].
 
 (2) The decision of the Registrar on any question determined by him shall be in writing and shall be sent as soon as may be practicable to the Minister and to the employer or, in the case of a Part III question, to the Minister and to any person to whom notice of the reference was given under regulation 8 of these regulations; and the employer (unless the decision is in accordance with his election or revocation of an election) or any such person, as the case may be, shall at the same time be informed of the reasons for the decision and of his right of appeal to the Board.
 
@@ -195,13 +195,13 @@ Provided that–
 
 (7) On receipt of a notice to show cause why a certificate should not be cancelled or varied, served on him by the Registrar under paragraph (3) of this regulation, or on the issue, variation, cancellation or surrender of any certificate becoming effective, the employer shall forthwith give notice containing particulars of any superannuation scheme or schemes concerned and the employments and, where appropriate, descriptions of persons affected thereby to the persons to whom and in the manner in which notice of an intention to elect or revoke an election is required to be given under the provisions of regulation 3 of these regulations.
 
-(8) Where, by reason of variation, cancellation or surrender, a certificate has ceased to have effect, the employer, if he has not already done so, shall at the request of the Registrar return the certificate to him; and, in the case of variation, a fresh certificate shall be issued to the employer in accordance with the terms of the variation or, at the discretion of the Registrar, in the case of variation consequent upon the National Insurance Act 1963, the original certificate shall be endorsed to show the terms of the variation and the date from which it is to have effect, and shall be re-issued to the employer.[^key-857b7f542893917629cdbd4b657307f2]
+(8) Where, by reason of variation, cancellation or surrender, a certificate has ceased to have effect, the employer, if he has not already done so, shall at the request of the Registrar return the certificate to him; and, in the case of variation, a fresh certificate shall be issued to the employer in accordance with the terms of the variation or, at the discretion of the Registrar, in the case of variation consequent upon the National Insurance Act 1963, the original certificate shall be endorsed to show the terms of the variation and the date from which it is to have effect, and shall be re-issued to the employer.[^c-857b7f542893917629cdbd4b657307f2]
 
-(9) Any certificate or notice required by this regulation to be sent to or served on an employer shall be treated as duly sent or served if sent to him by registered post or by recorded delivery service[^key-db19ea3ad0a30e536d86016df029f3b4] at his usual or last-known address or at the address of the principal place at which any employment to which the certificate or notice relates is last known to have been carried on.
+(9) Any certificate or notice required by this regulation to be sent to or served on an employer shall be treated as duly sent or served if sent to him by registered post or by recorded delivery service[^c-db19ea3ad0a30e536d86016df029f3b4] at his usual or last-known address or at the address of the principal place at which any employment to which the certificate or notice relates is last known to have been carried on.
 
 ### 15. Further information and change of circumstances
 
-(1) An employer to whom a certificate has been issued shall, in such manner and at such times as the Registrar may determine, furnish to the Registrar such reports, accounts and other documents relating to any superannuation scheme in respect of the employment to which the certificate relates and such information affecting or which may affect the validity of the certificate as the Registrar may reasonably require and, in particular, shall notify the Registrar of any such change of circumstances affecting the scheme as may have been required by him to be notified, as soon as practicable after its occurrence, and shall give to the Registrar one month's notice in writing of any change proposed in the rules relating to the scheme or in the administration of any trust under which benefits are liable to be paid.Provided that in the case of any change proposed in such rules or administration in consequence of the National Insurance Act 1963, this paragraph shall apply with the substitution, for the requirement to give one month’s notice, of a requirement to give notice before the change comes into operation.[^key-a1cb5508eac6e5647a0f8bd5c98cc8cb]
+(1) An employer to whom a certificate has been issued shall, in such manner and at such times as the Registrar may determine, furnish to the Registrar such reports, accounts and other documents relating to any superannuation scheme in respect of the employment to which the certificate relates and such information affecting or which may affect the validity of the certificate as the Registrar may reasonably require and, in particular, shall notify the Registrar of any such change of circumstances affecting the scheme as may have been required by him to be notified, as soon as practicable after its occurrence, and shall give to the Registrar one month's notice in writing of any change proposed in the rules relating to the scheme or in the administration of any trust under which benefits are liable to be paid.Provided that in the case of any change proposed in such rules or administration in consequence of the National Insurance Act 1963, this paragraph shall apply with the substitution, for the requirement to give one month’s notice, of a requirement to give notice before the change comes into operation.[^c-a1cb5508eac6e5647a0f8bd5c98cc8cb]
 
 (2) If any employer to whom a certificate has been issued fails without reasonable cause to notify the Registrar of any change of circumstances or to give notice of any change proposed in any rules, in accordance with the requirements of the foregoing paragraph, he shall for such offence be liable on summary conviction to a penalty not exceeding £10, or where the offence consists of continuing any such failure after conviction thereof, £10 together with a further £10 for each day on which it is so continued.
 
@@ -223,24 +223,24 @@ The preliminary draft of these Regulations was submitted to the National Insuran
 
 [^c22716441]: Marginal citation: 7 & 8 Eliz. 2. c. 47.
 
-[^key-4b50136282caaca0a01118bb8e513b49]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1959/1860): transfer of functions (6.3.1997) by [The Pensions Act 1995 (Commencement No. 10) Order 1997 (S.I. 1997/664)](https://www.legislation.gov.uk/uksi/1997/664), [art. 13](https://www.legislation.gov.uk/uksi/1997/664/article/13)
+[^c-4b50136282caaca0a01118bb8e513b49]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1959/1860): transfer of functions (6.3.1997) by [The Pensions Act 1995 (Commencement No. 10) Order 1997 (S.I. 1997/664)](https://www.legislation.gov.uk/uksi/1997/664), [art. 13](https://www.legislation.gov.uk/uksi/1997/664/article/13)
 
-[^key-3993bd8a17860d35c662bcd3cef2aef4]: Textual amendment: Words in reg. 1(2) substituted (10.3.1983) by [The National Insurance (Non-participation—Transfer of Functions) (Transitional) Regulations 1983 (S.I. 1983/118)](https://www.legislation.gov.uk/uksi/1983/118), [regs. 1](https://www.legislation.gov.uk/uksi/1983/118/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/1983/118/regulation/4/a)
+[^c-3993bd8a17860d35c662bcd3cef2aef4]: Textual amendment: Words in reg. 1(2) substituted (10.3.1983) by [The National Insurance (Non-participation—Transfer of Functions) (Transitional) Regulations 1983 (S.I. 1983/118)](https://www.legislation.gov.uk/uksi/1983/118), [regs. 1](https://www.legislation.gov.uk/uksi/1983/118/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/1983/118/regulation/4/a)
 
 [^c22716451]: Marginal citation: 52 & 53 Vict. c. 63.
 
-[^key-b3716e3f4a368310142e27916bcfb663]: Textual amendment: Words in reg. 3(2) inserted (20.11.1961) by [The National Insurance (Non-participation-Certificates) Amendment Regulations, 1961 (S.I. 1961/2176)](https://www.legislation.gov.uk/uksi/1961/2176), [regs. 1](https://www.legislation.gov.uk/uksi/1961/2176/regulation/1), [2](https://www.legislation.gov.uk/uksi/1961/2176/regulation/2)
+[^c-b3716e3f4a368310142e27916bcfb663]: Textual amendment: Words in reg. 3(2) inserted (20.11.1961) by [The National Insurance (Non-participation-Certificates) Amendment Regulations, 1961 (S.I. 1961/2176)](https://www.legislation.gov.uk/uksi/1961/2176), [regs. 1](https://www.legislation.gov.uk/uksi/1961/2176/regulation/1), [2](https://www.legislation.gov.uk/uksi/1961/2176/regulation/2)
 
 [^M_F_0f5d6c88-d5c7-4048-e46e-77ebf2c7319e]: Textual amendment: Words in reg. 3(3) added (25.1.1965) by ([S.I. 1965/40](https://www.legislation.gov.uk/uksi/1965/40)), reg. 6
 
 [^M_F_e6a06bcb-e8a4-4443-a2e6-d4f3f8eaed26]: Textual amendment: Words in reg. 4(2) added (25.1.1965) by ([S.I. 1965/40](https://www.legislation.gov.uk/uksi/1965/40)), reg. 6
 
-[^key-737a25dae50c1d007782e83879fe0034]: Textual amendment: Words in Instrument substituted (10.3.1983) by [The National Insurance (Non-participation—Transfer of Functions) (Transitional) Regulations 1983 (S.I. 1983/118)](https://www.legislation.gov.uk/uksi/1983/118), [reg. 4(b)](https://www.legislation.gov.uk/uksi/1983/118/regulation/4/b)
+[^c-737a25dae50c1d007782e83879fe0034]: Textual amendment: Words in Instrument substituted (10.3.1983) by [The National Insurance (Non-participation—Transfer of Functions) (Transitional) Regulations 1983 (S.I. 1983/118)](https://www.legislation.gov.uk/uksi/1983/118), [reg. 4(b)](https://www.legislation.gov.uk/uksi/1983/118/regulation/4/b)
 
 [^M_F_87cf698b-4f2b-496c-b966-fed2dac4651b]: Textual amendment: Reg. 14(6) substituted (25.1.1965) by ([S.I. 1965/40](https://www.legislation.gov.uk/uksi/1965/40)), reg. 6
 
-[^key-857b7f542893917629cdbd4b657307f2]: Textual amendment: Words in reg. 14(8) added (6.4.1963) by [The National Insurance (Consequential Provisions) Regulations 1963 (S.I. 1963/676)](https://www.legislation.gov.uk/uksi/1963/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1963/676/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/1963/676/regulation/12)
+[^c-857b7f542893917629cdbd4b657307f2]: Textual amendment: Words in reg. 14(8) added (6.4.1963) by [The National Insurance (Consequential Provisions) Regulations 1963 (S.I. 1963/676)](https://www.legislation.gov.uk/uksi/1963/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1963/676/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/1963/676/regulation/12)
 
-[^key-db19ea3ad0a30e536d86016df029f3b4]: Textual amendment: Words in reg. 14(9) inserted (20.11.1961) by [The National Insurance (Non-participation-Certificates) Amendment Regulations, 1961 (S.I. 1961/2176)](https://www.legislation.gov.uk/uksi/1961/2176), [regs. 1](https://www.legislation.gov.uk/uksi/1961/2176/regulation/1), [2](https://www.legislation.gov.uk/uksi/1961/2176/regulation/2)
+[^c-db19ea3ad0a30e536d86016df029f3b4]: Textual amendment: Words in reg. 14(9) inserted (20.11.1961) by [The National Insurance (Non-participation-Certificates) Amendment Regulations, 1961 (S.I. 1961/2176)](https://www.legislation.gov.uk/uksi/1961/2176), [regs. 1](https://www.legislation.gov.uk/uksi/1961/2176/regulation/1), [2](https://www.legislation.gov.uk/uksi/1961/2176/regulation/2)
 
-[^key-a1cb5508eac6e5647a0f8bd5c98cc8cb]: Textual amendment: Reg. 15(1) proviso added (6.4.1963) by [The National Insurance (Consequential Provisions) Regulations 1963 (S.I. 1963/676)](https://www.legislation.gov.uk/uksi/1963/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1963/676/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/1963/676/regulation/13)
+[^c-a1cb5508eac6e5647a0f8bd5c98cc8cb]: Textual amendment: Reg. 15(1) proviso added (6.4.1963) by [The National Insurance (Consequential Provisions) Regulations 1963 (S.I. 1963/676)](https://www.legislation.gov.uk/uksi/1963/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1963/676/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/1963/676/regulation/13)

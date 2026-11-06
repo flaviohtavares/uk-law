@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 8 — Monitoring for parameters other than radioactive substances in water bottled and labelled as “spring water” and bottled drinking water[^key-77937b525bb1a34cbe6ce36be7f5d13d]
+## SCHEDULE 8 — Monitoring for parameters other than radioactive substances in water bottled and labelled as “spring water” and bottled drinking water[^c-77937b525bb1a34cbe6ce36be7f5d13d]
 
 *Extent: N.I.*
 
@@ -24,28 +24,28 @@ summary: ''
 
 Regulation 24 (2)(a)
 
-### PART 1 — Check monitoring[^key-77937b525bb1a34cbe6ce36be7f5d13d]
+### PART 1 — Check monitoring[^c-77937b525bb1a34cbe6ce36be7f5d13d]
 
-#### 1. Sampling[^key-77937b525bb1a34cbe6ce36be7f5d13d]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**2.**[^key-77937b525bb1a34cbe6ce36be7f5d13d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 3. Frequency of sampling[^key-77937b525bb1a34cbe6ce36be7f5d13d]
+#### 1. Sampling[^c-77937b525bb1a34cbe6ce36be7f5d13d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Audit Monitoring[^key-77937b525bb1a34cbe6ce36be7f5d13d]
+**2.**[^c-77937b525bb1a34cbe6ce36be7f5d13d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 1. Sampling[^key-77937b525bb1a34cbe6ce36be7f5d13d]
+#### 3. Frequency of sampling[^c-77937b525bb1a34cbe6ce36be7f5d13d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-77937b525bb1a34cbe6ce36be7f5d13d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### PART 2 — Audit Monitoring[^c-77937b525bb1a34cbe6ce36be7f5d13d]
 
-**3.**[^key-77937b525bb1a34cbe6ce36be7f5d13d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+#### 1. Sampling[^c-77937b525bb1a34cbe6ce36be7f5d13d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^c-77937b525bb1a34cbe6ce36be7f5d13d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^c-77937b525bb1a34cbe6ce36be7f5d13d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-77937b525bb1a34cbe6ce36be7f5d13d]: Textual amendment: [Sch. 8](https://www.legislation.gov.uk/nisr/2015/365/schedule/8) omitted (27.10.2017) by virtue of [The Natural Mineral Water, Spring Water and Bottled Drinking Water (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/201)](https://www.legislation.gov.uk/nisr/2017/201), [regs. 1](https://www.legislation.gov.uk/nisr/2017/201/regulation/1), [11](https://www.legislation.gov.uk/nisr/2017/201/regulation/11)
+[^c-77937b525bb1a34cbe6ce36be7f5d13d]: Textual amendment: [Sch. 8](https://www.legislation.gov.uk/nisr/2015/365/schedule/8) omitted (27.10.2017) by virtue of [The Natural Mineral Water, Spring Water and Bottled Drinking Water (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/201)](https://www.legislation.gov.uk/nisr/2017/201), [regs. 1](https://www.legislation.gov.uk/nisr/2017/201/regulation/1), [11](https://www.legislation.gov.uk/nisr/2017/201/regulation/11)

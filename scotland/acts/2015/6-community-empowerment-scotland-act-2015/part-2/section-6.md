@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6. Local outcomes improvement plan[^key-77c8403e4230a618db4e0ce25888571f]
+## 6. Local outcomes improvement plan[^c-77c8403e4230a618db4e0ce25888571f]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-77c8403e4230a618db4e0ce25888571f]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2015/6/section/6) in force at 20.12.2016 by [S.S.I. 2016/363](https://www.legislation.gov.uk/ssi/2016/363), [art. 2](https://www.legislation.gov.uk/ssi/2016/363/article/2)
+[^c-77c8403e4230a618db4e0ce25888571f]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2015/6/section/6) in force at 20.12.2016 by [S.S.I. 2016/363](https://www.legislation.gov.uk/ssi/2016/363), [art. 2](https://www.legislation.gov.uk/ssi/2016/363/article/2)

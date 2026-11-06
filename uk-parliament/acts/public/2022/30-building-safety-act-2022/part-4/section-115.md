@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115. Interpretation of Part 4[^key-6ec489b269d7d7c9a537907788b918df]
+## 115. Interpretation of Part 4[^c-6ec489b269d7d7c9a537907788b918df]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ In this Part—
 
 ## Annotations
 
-[^key-6ec489b269d7d7c9a537907788b918df]: Commencement: S. 115 in force at Royal Assent, see [s. 170(1)(g)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/1/g)
+[^c-6ec489b269d7d7c9a537907788b918df]: Commencement: S. 115 in force at Royal Assent, see [s. 170(1)(g)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/1/g)

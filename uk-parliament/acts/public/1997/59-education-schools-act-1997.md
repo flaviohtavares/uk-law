@@ -33,7 +33,7 @@ An Act to make provision for and in connection with the ending of the assisted p
 
 \[31st July 1997\] [^c863782]
 
-Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-0a8bf67cca7c203ddf86ed3f789c95d6][^key-01f47817db98f57caf1de6895c0aac1f][^key-39d23e864c5e314d0a344e04cd8b6018]
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-0a8bf67cca7c203ddf86ed3f789c95d6][^c-01f47817db98f57caf1de6895c0aac1f][^c-39d23e864c5e314d0a344e04cd8b6018]
 
 ## Assisted places in England and Wales
 
@@ -311,11 +311,11 @@ Section 6.
 
     Act applied (E.W.) (1.6.2001) by [S.I. 2001/1507](https://www.legislation.gov.uk/uksi/2001/1507), [reg. 2](https://www.legislation.gov.uk/uksi/2001/1507/regulation/2), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2001/1507/schedule/2/paragraph/2)
 
-[^key-0a8bf67cca7c203ddf86ed3f789c95d6]: Modification: Act applied (1.4.2005) by [Central Sussex College (Government) Regulations 2005 (S.I. 2005/397)](https://www.legislation.gov.uk/uksi/2005/397), [reg. 1](https://www.legislation.gov.uk/uksi/2005/397/regulation/1), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2005/397/schedule/2/paragraph/2)
+[^c-0a8bf67cca7c203ddf86ed3f789c95d6]: Modification: Act applied (1.4.2005) by [Central Sussex College (Government) Regulations 2005 (S.I. 2005/397)](https://www.legislation.gov.uk/uksi/2005/397), [reg. 1](https://www.legislation.gov.uk/uksi/2005/397/regulation/1), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2005/397/schedule/2/paragraph/2)
 
-[^key-01f47817db98f57caf1de6895c0aac1f]: Modification: Act modified (7.4.2005) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [ss. 96(2)](https://www.legislation.gov.uk/ukpga/2005/18/section/96/2), [125(1)(b)](https://www.legislation.gov.uk/ukpga/2005/18/section/125/1/b)
+[^c-01f47817db98f57caf1de6895c0aac1f]: Modification: Act modified (7.4.2005) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [ss. 96(2)](https://www.legislation.gov.uk/ukpga/2005/18/section/96/2), [125(1)(b)](https://www.legislation.gov.uk/ukpga/2005/18/section/125/1/b)
 
-[^key-39d23e864c5e314d0a344e04cd8b6018]: Modification: Act modified (temp.) (1.4.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 6 para. 3(3)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/6/paragraph/3/3); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(bb)](https://www.legislation.gov.uk/uksi/2007/935/article/5/bb)
+[^c-39d23e864c5e314d0a344e04cd8b6018]: Modification: Act modified (temp.) (1.4.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 6 para. 3(3)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/6/paragraph/3/3); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(bb)](https://www.legislation.gov.uk/uksi/2007/935/article/5/bb)
 
 [^c863783]: Marginal citation: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56).
 

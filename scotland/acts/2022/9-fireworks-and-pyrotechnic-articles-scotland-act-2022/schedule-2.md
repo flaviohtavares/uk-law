@@ -24,7 +24,7 @@ summary: ''
 
 (introduced by section 39)
 
-### 1. General[^key-34fb95aa9372f27139fbc1f5cb95b035]
+### 1. General[^c-34fb95aa9372f27139fbc1f5cb95b035]
 
 (1) A local weights and measures authority (and its officers) may exercise the powers under this schedule for the purpose of ascertaining whether an offence under section 5 (supply of fireworks to unlicensed persons) or section 22 (restriction on days of supply of fireworks) has been, or is being, committed.
 
@@ -36,7 +36,7 @@ summary: ''
 
 (3) A local weights and measures authority (and its officers) may not exercise the power under paragraph 7 (powers in relation to documents) or paragraph 9 (power of entry with warrant) for the purpose mentioned in sub-paragraph (1) unless an officer of the authority reasonably suspects that an offence under section 5 or 22 has been, or is being, committed.
 
-### 2. Power to purchase fireworks[^key-8a20494d130e3c5b16277e63368f64ea]
+### 2. Power to purchase fireworks[^c-8a20494d130e3c5b16277e63368f64ea]
 
 (1) An officer of a local weights and measures authority may—
 
@@ -58,7 +58,7 @@ summary: ''
 
 except where the premises are used wholly or mainly as a private dwelling.
 
-### 3. Power to observe carrying on of business etc.[^key-7ee70f68d4cc4734c133cb859692d75a]
+### 3. Power to observe carrying on of business etc.[^c-7ee70f68d4cc4734c133cb859692d75a]
 
 (1) An officer of a local weights and measures authority may enter premises to which the public has access in order to observe the carrying on of a business on those premises.
 
@@ -74,7 +74,7 @@ except where the premises are used wholly or mainly as a private dwelling.
 
 except where the premises are used wholly or mainly as a private dwelling.
 
-### 4. Power to enter premises without warrant[^key-9a02af2237786286851fc983b340fa71]
+### 4. Power to enter premises without warrant[^c-9a02af2237786286851fc983b340fa71]
 
 (1) An officer of a local weights and measures authority may enter premises at any reasonable time.
 
@@ -120,7 +120,7 @@ except where the premises are used wholly or mainly as a private dwelling.
   - (b) Christmas Day or Good Friday, or
   - (c) a day which is a bank holiday under the Banking and Financial Dealings Act 1971 in Scotland.
 
-### 5. Power to inspect and test fireworks[^key-4e5b43865affa37b9875b96a7db9ecee]
+### 5. Power to inspect and test fireworks[^c-4e5b43865affa37b9875b96a7db9ecee]
 
 (1) An officer of a local weights and measures authority may—
 
@@ -132,7 +132,7 @@ except where the premises are used wholly or mainly as a private dwelling.
 - (a) whether or not an item is a firework, or
 - (b) the category of a firework (or suspected firework) for the purposes of this Act (see section 2).
 
-### 6. Power to seize and retain items[^key-edd8eb0df9f30f8c82f9b2c3fdde5515]
+### 6. Power to seize and retain items[^c-edd8eb0df9f30f8c82f9b2c3fdde5515]
 
 (1) An officer of a local weights and measures authority may seize and retain an item other than a document (for which see paragraph 7).
 
@@ -150,7 +150,7 @@ except where the premises are used wholly or mainly as a private dwelling.
 - (a) for a period of more than 3 months beginning with the day on which it was seized, or
 - (b) where the item is reasonably required to be retained for a longer period by the officer for a purpose for which it was seized, for longer than it is required for that purpose.
 
-### 7. Powers in relation to documents[^key-949db0d8b3e2d865d184a8fbf4ffa610]
+### 7. Powers in relation to documents[^c-949db0d8b3e2d865d184a8fbf4ffa610]
 
 (1) An officer of a local weights and measures authority may, at any reasonable time—
 
@@ -182,7 +182,7 @@ except where the premises are used wholly or mainly as a private dwelling.
 
 (10) In this paragraph, “**occupier**”, in relation to premises, means any person an officer of a weights and measures authority reasonably suspects to be the occupier of the premises.
 
-### 8. Power to break open container etc.[^key-c29b6c5deedcc6f5c57777c477198786]
+### 8. Power to break open container etc.[^c-c29b6c5deedcc6f5c57777c477198786]
 
 (1) An officer of a local weights and measures authority may, for the purpose of exercising the powers under paragraph 5, 6 or 7, require a person with authority to do so to—
 
@@ -198,7 +198,7 @@ except where the premises are used wholly or mainly as a private dwelling.
 
 (4) In this paragraph “**container**” means anything in which an item or document may be stored.
 
-### 9. Power of entry with warrant[^key-3db9b4f64549b8f33bbffb1d73308823]
+### 9. Power of entry with warrant[^c-3db9b4f64549b8f33bbffb1d73308823]
 
 (1) A sheriff may grant a warrant under this section authorising an officer of a local weights and measures authority to enter premises if the sheriff is satisfied, by evidence on oath, that—
 
@@ -238,11 +238,11 @@ except where the premises are used wholly or mainly as a private dwelling.
 
   (whether or not the premises are used wholly or mainly as a private dwelling).
 
-### 10. Power to require assistance from person on premises[^key-622f7cc236a8551dcfa4b65301d931b4]
+### 10. Power to require assistance from person on premises[^c-622f7cc236a8551dcfa4b65301d931b4]
 
 If an officer of a local weights and measures authority has entered premises under paragraph 4(1) or under a warrant under paragraph 9, the officer may require any person on the premises to provide such assistance or information as the officer reasonably considers necessary.
 
-### 11. Access to seized items and documents[^key-003d71823b8865e84506726ef4e0914b]
+### 11. Access to seized items and documents[^c-003d71823b8865e84506726ef4e0914b]
 
 (1) This paragraph applies where a thing seized by an officer of a local weights and measures authority under this schedule is retained by the authority.
 
@@ -261,7 +261,7 @@ If an officer of a local weights and measures authority has entered premises und
 
 (7) References in this paragraph to a person who had custody or control of a thing immediately before it was seized include a representative of such a person.
 
-### 12. Notice of testing of item[^key-0a3f5c46b53d4e0eea41fab9e6961b8f]
+### 12. Notice of testing of item[^c-0a3f5c46b53d4e0eea41fab9e6961b8f]
 
 (1) Sub-paragraphs (2) and (3) apply where—
 
@@ -279,7 +279,7 @@ If an officer of a local weights and measures authority has entered premises und
 - (a) in a case within sub-paragraph (1)(a), a person who is a party to the proceedings, or
 - (b) in any other case, a person referred to in sub-paragraph (4).
 
-### 13. Application for release of firework, item or document[^key-299eb89dcbb72fcaa86662dbdb1d799c]
+### 13. Application for release of firework, item or document[^c-299eb89dcbb72fcaa86662dbdb1d799c]
 
 (1) This paragraph applies where a firework, item or document is being retained as the result of the exercise of a power under this schedule.
 
@@ -297,7 +297,7 @@ If an officer of a local weights and measures authority has entered premises und
 - (a) proceedings of the kind mentioned in sub-paragraph (4)(a) have been brought, and
 - (b) those proceedings have been concluded without the firework, item or document being forfeited.
 
-### 14. Compensation[^key-92c9cec072b59e00210cf336a72ad14f]
+### 14. Compensation[^c-92c9cec072b59e00210cf336a72ad14f]
 
 (1) This paragraph applies where an officer of a local weights and measures authority has seized and retained a firework or item under this schedule for a purpose within paragraph 1(2)(a).
 
@@ -310,30 +310,30 @@ If an officer of a local weights and measures authority has entered premises und
 
 ## Annotations
 
-[^key-34fb95aa9372f27139fbc1f5cb95b035]: Commencement: Sch. 2 para. 1 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
+[^c-34fb95aa9372f27139fbc1f5cb95b035]: Commencement: Sch. 2 para. 1 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
 
-[^key-8a20494d130e3c5b16277e63368f64ea]: Commencement: Sch. 2 para. 2 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
+[^c-8a20494d130e3c5b16277e63368f64ea]: Commencement: Sch. 2 para. 2 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
 
-[^key-7ee70f68d4cc4734c133cb859692d75a]: Commencement: Sch. 2 para. 3 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
+[^c-7ee70f68d4cc4734c133cb859692d75a]: Commencement: Sch. 2 para. 3 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
 
-[^key-9a02af2237786286851fc983b340fa71]: Commencement: Sch. 2 para. 4 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
+[^c-9a02af2237786286851fc983b340fa71]: Commencement: Sch. 2 para. 4 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
 
-[^key-4e5b43865affa37b9875b96a7db9ecee]: Commencement: Sch. 2 para. 5 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
+[^c-4e5b43865affa37b9875b96a7db9ecee]: Commencement: Sch. 2 para. 5 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
 
-[^key-edd8eb0df9f30f8c82f9b2c3fdde5515]: Commencement: Sch. 2 para. 6 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
+[^c-edd8eb0df9f30f8c82f9b2c3fdde5515]: Commencement: Sch. 2 para. 6 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
 
-[^key-949db0d8b3e2d865d184a8fbf4ffa610]: Commencement: Sch. 2 para. 7 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
+[^c-949db0d8b3e2d865d184a8fbf4ffa610]: Commencement: Sch. 2 para. 7 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
 
-[^key-c29b6c5deedcc6f5c57777c477198786]: Commencement: Sch. 2 para. 8 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
+[^c-c29b6c5deedcc6f5c57777c477198786]: Commencement: Sch. 2 para. 8 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
 
-[^key-3db9b4f64549b8f33bbffb1d73308823]: Commencement: Sch. 2 para. 9 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
+[^c-3db9b4f64549b8f33bbffb1d73308823]: Commencement: Sch. 2 para. 9 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
 
-[^key-622f7cc236a8551dcfa4b65301d931b4]: Commencement: Sch. 2 para. 10 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
+[^c-622f7cc236a8551dcfa4b65301d931b4]: Commencement: Sch. 2 para. 10 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
 
-[^key-003d71823b8865e84506726ef4e0914b]: Commencement: Sch. 2 para. 11 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
+[^c-003d71823b8865e84506726ef4e0914b]: Commencement: Sch. 2 para. 11 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
 
-[^key-0a3f5c46b53d4e0eea41fab9e6961b8f]: Commencement: Sch. 2 para. 12 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
+[^c-0a3f5c46b53d4e0eea41fab9e6961b8f]: Commencement: Sch. 2 para. 12 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
 
-[^key-299eb89dcbb72fcaa86662dbdb1d799c]: Commencement: Sch. 2 para. 13 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
+[^c-299eb89dcbb72fcaa86662dbdb1d799c]: Commencement: Sch. 2 para. 13 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
 
-[^key-92c9cec072b59e00210cf336a72ad14f]: Commencement: Sch. 2 para. 14 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
+[^c-92c9cec072b59e00210cf336a72ad14f]: Commencement: Sch. 2 para. 14 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)

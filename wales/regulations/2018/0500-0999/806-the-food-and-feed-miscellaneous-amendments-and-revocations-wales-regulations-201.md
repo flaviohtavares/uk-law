@@ -150,7 +150,7 @@ In regulation 2(1) of the Processed Cereal-based Foods and Baby Foods for Infant
 
 In the Genetically Modified Food (Wales) Regulations 2004 [^c23328561], omit regulation 9.
 
-### 11. The Food Hygiene (Wales) Regulations 2006[^key-ac5aea695f9e6c565880d26d02e575d4]
+### 11. The Food Hygiene (Wales) Regulations 2006[^c-ac5aea695f9e6c565880d26d02e575d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -631,7 +631,7 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c23328561]: Marginal citation: [S.I. 2004/3220](https://www.legislation.gov.uk/uksi/2004/3220) (W. 276), to which there are amendments not relevant to these Regulations.
 
-[^key-ac5aea695f9e6c565880d26d02e575d4]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/wsi/2018/806/regulation/11) omitted (31.1.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [27](https://www.legislation.gov.uk/wsi/2020/44/regulation/27)
+[^c-ac5aea695f9e6c565880d26d02e575d4]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/wsi/2018/806/regulation/11) omitted (31.1.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [27](https://www.legislation.gov.uk/wsi/2020/44/regulation/27)
 
 [^c23328721]: Marginal citation: [S.I. 2007/196](https://www.legislation.gov.uk/uksi/2007/196) (W. 15), to which there are amendments not relevant to these Regulations.
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 167. Application for interim administration order[^key-d0baab31c3e37dd30d8a1bf9176800ef]
+## 167. Application for interim administration order[^c-d0baab31c3e37dd30d8a1bf9176800ef]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ the authority has taken all reasonable steps to do so.
 
 ## Annotations
 
-[^key-d0baab31c3e37dd30d8a1bf9176800ef]: Commencement: [Art. 167](https://www.legislation.gov.uk/uksi/2005/3181/article/167) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-d0baab31c3e37dd30d8a1bf9176800ef]: Commencement: [Art. 167](https://www.legislation.gov.uk/uksi/2005/3181/article/167) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

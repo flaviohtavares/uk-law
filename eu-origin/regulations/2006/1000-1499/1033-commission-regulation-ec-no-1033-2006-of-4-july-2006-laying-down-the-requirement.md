@@ -104,7 +104,7 @@ HAS ADOPTED THIS REGULATION:
 - 3.. ‘repetitive flight plan’ means a flight plan related to a series of frequently recurring, regularly operated individual flights with identical basic features, submitted by an operator for retention and repetitive use by air traffic service units;
 - 4.. ‘operator’ means a person, organisation or enterprise engaged in or offering to engage in an aircraft operation;
 - 5.. ‘air traffic services unit’ (hereinafter ATS unit) means a unit, civil or military, responsible for providing air traffic services;
-- 6.. ‘Integrated Initial Flight Plan Processing System’ (hereinafter IFPS) means a system [^key-3a73a3a96c05a197c2c965ec3fbe8b41]... through which a centralised flight planning processing and distribution service, dealing with the reception, validation and distribution of flight plans, is provided within the airspace under the responsibility of the States participating in that service[^key-6ad8c3fe06a0d16faa18ebb762bdbdb7];
+- 6.. ‘Integrated Initial Flight Plan Processing System’ (hereinafter IFPS) means a system [^c-3a73a3a96c05a197c2c965ec3fbe8b41]... through which a centralised flight planning processing and distribution service, dealing with the reception, validation and distribution of flight plans, is provided within the airspace under the responsibility of the States participating in that service[^c-6ad8c3fe06a0d16faa18ebb762bdbdb7];
 - 7.. ‘air traffic control clearance’ (hereinafter ATC clearance) means an authorisation for an aircraft to proceed under conditions specified by an air traffic control unit;
 - 8.. ‘IFR’ means the symbol used to designate instrument flight rules;[^c000001]
 - 9.. ‘air traffic control unit’ (hereinafter ATC unit) means variously area control centre, approach control unit or aerodrome control tower;
@@ -130,14 +130,14 @@ HAS ADOPTED THIS REGULATION:
 
 1. The provisions specified in the Annex shall apply to the submission, acceptance and distribution of flight plans for every flight subject to this Regulation and to all changes to a key item in a flight plan in the pre-flight phase in accordance with this Regulation.
 
-2. The Secretary of State[^key-87ca9b129ff678cbe89505226260f44f] shall take the necessary measures to ensure that when IFPS receives a flight plan, or change thereto, it:
+2. The Secretary of State[^c-87ca9b129ff678cbe89505226260f44f] shall take the necessary measures to ensure that when IFPS receives a flight plan, or change thereto, it:
 
 - (a) checks it for compliance with the format and data conventions;
 - (b) checks it for completeness and, to the extent possible, for accuracy;
 - (c) takes action, if necessary, to make it acceptable to the air traffic services; and
 - (d) indicates acceptance of the flight plan or changes thereto to the originator.
 
-3. The Secretary of State[^key-1392367ae45fd03ade8ec7d51f84877e] shall take the necessary measures to ensure that IFPS communicates to all affected ATS units the accepted flight plan and any accepted pre-flight phase changes to the key items of the flight plan and associated update messages.
+3. The Secretary of State[^c-1392367ae45fd03ade8ec7d51f84877e] shall take the necessary measures to ensure that IFPS communicates to all affected ATS units the accepted flight plan and any accepted pre-flight phase changes to the key items of the flight plan and associated update messages.
 
 4. The originator, when not being the operator or the pilot, shall ensure that the conditions of acceptance of a flight plan and any necessary changes to these conditions as notified by IFPS are made available to the operator or the pilot who has submitted the flight plan.
 
@@ -149,19 +149,19 @@ HAS ADOPTED THIS REGULATION:
 
 No other changes to or cancellation of a flight plan shall be made by an ATC unit in the pre-flight phase without coordination with the operator.
 
-8. The Secretary of State[^key-65f6be48adba6c99c834e9e6d5487130] shall take the necessary measures to ensure that IFPS communicates any necessary pre-flight phase changes referred to in the first subparagraph of paragraph 7 to the originator of the flight plan.
+8. The Secretary of State[^c-65f6be48adba6c99c834e9e6d5487130] shall take the necessary measures to ensure that IFPS communicates any necessary pre-flight phase changes referred to in the first subparagraph of paragraph 7 to the originator of the flight plan.
 
 9. When no flight plan has previously been received from IFPS by ATS units for a flight entering the airspace under their responsibility, the units concerned shall make available through IFPS at least the aircraft identification, aircraft type, point of entry to their area of responsibility, time and flight level at that point, route and destination aerodrome for such flights.
 
 ## Article 4. Safety requirements
 
-The CAA[^key-e1994bd9c43dbc07299c8935a1add7de] shall take the necessary measures to ensure that any changes to the existing procedures for flight plans in the pre-flight phase covered by this Regulation or any introduction of new procedures are preceded by a safety assessment, including hazard identification, risk assessment and mitigation processes, conducted by the parties concerned.
+The CAA[^c-e1994bd9c43dbc07299c8935a1add7de] shall take the necessary measures to ensure that any changes to the existing procedures for flight plans in the pre-flight phase covered by this Regulation or any introduction of new procedures are preceded by a safety assessment, including hazard identification, risk assessment and mitigation processes, conducted by the parties concerned.
 
 ## Article 5. Additional requirements
 
 1. ATS units shall ensure that their personnel involved in flight planning are made duly aware of the relevant provisions in this Regulation and that they are adequately trained for their job functions.
 
-2. The Secretary of State[^key-715dbcf390b220ee2c59b4d74f1e8a56] shall take the necessary measures to ensure that the personnel operating the IFPS involved in flight planning are made duly aware of the relevant provisions of this Regulation and that they are adequately trained for their job functions.
+2. The Secretary of State[^c-715dbcf390b220ee2c59b4d74f1e8a56] shall take the necessary measures to ensure that the personnel operating the IFPS involved in flight planning are made duly aware of the relevant provisions of this Regulation and that they are adequately trained for their job functions.
 
 3. ATS units shall:
 
@@ -169,19 +169,19 @@ The CAA[^key-e1994bd9c43dbc07299c8935a1add7de] shall take the necessary measures
 - (b) ensure that the manuals referred to in point (a) are accessible and kept up to date and that their update and distribution are subject to appropriate quality and documentation configuration management;
 - (c) ensure that the working methods and operating procedures comply with the relevant provisions specified in this Regulation.
 
-4. The Secretary of State[^key-1d2040196f29252bd41828930a47d2e6] shall take the necessary measures to ensure that the centralised flight planning processing and distribution service:
+4. The Secretary of State[^c-1d2040196f29252bd41828930a47d2e6] shall take the necessary measures to ensure that the centralised flight planning processing and distribution service:
 
 - (a) develops and maintains operations manuals containing the necessary instructions and information to enable their operations personnel to apply the provisions of this Regulation;
 - (b) ensures that the manuals referred to in point (a) are accessible and kept up to date and that their update and distribution are subject to appropriate quality and documentation configuration management;
 - (c) ensures that the working methods and operating procedures comply with the relevant provisions specified in this Regulation.
 
-5.[^key-1140f029d467900634ccfe82a65e359a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5.[^c-1140f029d467900634ccfe82a65e359a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Entry into force and application[^key-393b27a3e31aea8cef45a9926d9b83b1]
+## Article 6. Entry into force and application[^c-393b27a3e31aea8cef45a9926d9b83b1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5cc6e53ed184e5bdbe377c8b8573ce9e]...
+[^c-5cc6e53ed184e5bdbe377c8b8573ce9e]...
 
 ## ANNEX — Provisions referred to in Article 3(1)[^c000003]
 
@@ -205,31 +205,31 @@ Chapter 2 (Flight plans) and Chapter 6, Paragraph 6.12.3 (Boundary estimates) of
 
 [^f00003]: Footnote: [OJ L 96, 31.3.2004, p. 20](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.096.01.0020.01.ENG).
 
-[^key-3a73a3a96c05a197c2c965ec3fbe8b41]: Textual amendment: Words in [Art. 2(2)(6)](https://www.legislation.gov.uk/eur/2006/1033/article/2/2/6) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [108(a)](https://www.legislation.gov.uk/uksi/2019/459/regulation/108/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3a73a3a96c05a197c2c965ec3fbe8b41]: Textual amendment: Words in [Art. 2(2)(6)](https://www.legislation.gov.uk/eur/2006/1033/article/2/2/6) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [108(a)](https://www.legislation.gov.uk/uksi/2019/459/regulation/108/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6ad8c3fe06a0d16faa18ebb762bdbdb7]: Textual amendment: Words in [Art. 2(2)(6)](https://www.legislation.gov.uk/eur/2006/1033/article/2/2/6) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [108(b)](https://www.legislation.gov.uk/uksi/2019/459/regulation/108/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6ad8c3fe06a0d16faa18ebb762bdbdb7]: Textual amendment: Words in [Art. 2(2)(6)](https://www.legislation.gov.uk/eur/2006/1033/article/2/2/6) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [108(b)](https://www.legislation.gov.uk/uksi/2019/459/regulation/108/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000001]: Textual amendment: Substituted by [Commission Implementing Regulation (EU) No 923/2012 of 26 September 2012 laying down the common rules of the air and operational provisions regarding services and procedures in air navigation and amending Implementing Regulation (EU) No 1035/2011 and Regulations (EC) No 1265/2007, (EC) No 1794/2006, (EC) No 730/2006, (EC) No 1033/2006 and (EU) No 255/2010 (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2012/923).
 
 [^c000002]: Textual amendment: Substituted by [Commission Implementing Regulation (EU) 2018/139 of 29 January 2018 amending Regulation (EC) No 1033/2006 as regards references to ICAO provisions (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2018/139).
 
-[^key-87ca9b129ff678cbe89505226260f44f]: Textual amendment: Words in [Art. 3(2)](https://www.legislation.gov.uk/eur/2006/1033/article/3/2) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [109](https://www.legislation.gov.uk/uksi/2019/459/regulation/109); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-87ca9b129ff678cbe89505226260f44f]: Textual amendment: Words in [Art. 3(2)](https://www.legislation.gov.uk/eur/2006/1033/article/3/2) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [109](https://www.legislation.gov.uk/uksi/2019/459/regulation/109); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1392367ae45fd03ade8ec7d51f84877e]: Textual amendment: Words in [Art. 3(3)](https://www.legislation.gov.uk/eur/2006/1033/article/3/3) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [109](https://www.legislation.gov.uk/uksi/2019/459/regulation/109); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1392367ae45fd03ade8ec7d51f84877e]: Textual amendment: Words in [Art. 3(3)](https://www.legislation.gov.uk/eur/2006/1033/article/3/3) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [109](https://www.legislation.gov.uk/uksi/2019/459/regulation/109); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-65f6be48adba6c99c834e9e6d5487130]: Textual amendment: Words in [Art. 3(8)](https://www.legislation.gov.uk/eur/2006/1033/article/3/8) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [109](https://www.legislation.gov.uk/uksi/2019/459/regulation/109); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-65f6be48adba6c99c834e9e6d5487130]: Textual amendment: Words in [Art. 3(8)](https://www.legislation.gov.uk/eur/2006/1033/article/3/8) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [109](https://www.legislation.gov.uk/uksi/2019/459/regulation/109); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e1994bd9c43dbc07299c8935a1add7de]: Textual amendment: Words in [Art. 4](https://www.legislation.gov.uk/eur/2006/1033/article/4) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [110](https://www.legislation.gov.uk/uksi/2019/459/regulation/110); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e1994bd9c43dbc07299c8935a1add7de]: Textual amendment: Words in [Art. 4](https://www.legislation.gov.uk/eur/2006/1033/article/4) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [110](https://www.legislation.gov.uk/uksi/2019/459/regulation/110); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-715dbcf390b220ee2c59b4d74f1e8a56]: Textual amendment: Words in [Art. 5(2)](https://www.legislation.gov.uk/eur/2006/1033/article/5/2) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [111(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/111/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-715dbcf390b220ee2c59b4d74f1e8a56]: Textual amendment: Words in [Art. 5(2)](https://www.legislation.gov.uk/eur/2006/1033/article/5/2) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [111(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/111/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1d2040196f29252bd41828930a47d2e6]: Textual amendment: Words in [Art. 5(4)](https://www.legislation.gov.uk/eur/2006/1033/article/5/4) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [111(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/111/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1d2040196f29252bd41828930a47d2e6]: Textual amendment: Words in [Art. 5(4)](https://www.legislation.gov.uk/eur/2006/1033/article/5/4) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [111(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/111/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1140f029d467900634ccfe82a65e359a]: Textual amendment: [Art. 5(5)](https://www.legislation.gov.uk/eur/2006/1033/article/5/5) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [111(3)](https://www.legislation.gov.uk/uksi/2019/459/regulation/111/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1140f029d467900634ccfe82a65e359a]: Textual amendment: [Art. 5(5)](https://www.legislation.gov.uk/eur/2006/1033/article/5/5) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [111(3)](https://www.legislation.gov.uk/uksi/2019/459/regulation/111/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-393b27a3e31aea8cef45a9926d9b83b1]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/eur/2006/1033/article/6) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [112](https://www.legislation.gov.uk/uksi/2019/459/regulation/112); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-393b27a3e31aea8cef45a9926d9b83b1]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/eur/2006/1033/article/6) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [112](https://www.legislation.gov.uk/uksi/2019/459/regulation/112); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5cc6e53ed184e5bdbe377c8b8573ce9e]: Textual amendment: Words in Signature omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [113](https://www.legislation.gov.uk/uksi/2019/459/regulation/113); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5cc6e53ed184e5bdbe377c8b8573ce9e]: Textual amendment: Words in Signature omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [113](https://www.legislation.gov.uk/uksi/2019/459/regulation/113); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000003]: Textual amendment: Substituted by [Commission Implementing Regulation (EU) 2016/2120 of 2 December 2016 amending Regulation (EC) No 1033/2006 as regards the provisions referred to in Article 3(1) (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2016/2120).
 

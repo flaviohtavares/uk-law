@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 18. Annual quality assurance compliance report of Qualifications Scotland[^key-0ff52f46d773e01b0edb26b9d38dc196][^key-2ef9a0d19b2145309caa6969c310cfaa]
+## 18. Annual quality assurance compliance report of Qualifications Scotland[^c-0ff52f46d773e01b0edb26b9d38dc196][^c-2ef9a0d19b2145309caa6969c310cfaa]
 
 *Extent: S*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0ff52f46d773e01b0edb26b9d38dc196]: Commencement: S. 18 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
+[^c-0ff52f46d773e01b0edb26b9d38dc196]: Commencement: S. 18 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
 
-[^key-2ef9a0d19b2145309caa6969c310cfaa]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2025/11/section/18) in force at 1.4.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(6)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/6), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/3) (with [reg. 5](https://www.legislation.gov.uk/ssi/2026/2/regulation/5))
+[^c-2ef9a0d19b2145309caa6969c310cfaa]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2025/11/section/18) in force at 1.4.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(6)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/6), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/3) (with [reg. 5](https://www.legislation.gov.uk/ssi/2026/2/regulation/5))

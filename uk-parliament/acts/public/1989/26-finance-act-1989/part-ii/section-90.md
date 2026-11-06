@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90. Life policies etc. held by companies.[^key-45fedadd36df077baaecd4cef0d95e44]
+## 90. Life policies etc. held by companies.[^c-45fedadd36df077baaecd4cef0d95e44]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-45fedadd36df077baaecd4cef0d95e44]: Textual amendment: S. 90 omitted (with effect in accordance with Sch. 14 para. 18 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 14 para. 17(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/14/paragraph/17/a)
+[^c-45fedadd36df077baaecd4cef0d95e44]: Textual amendment: S. 90 omitted (with effect in accordance with Sch. 14 para. 18 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 14 para. 17(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/14/paragraph/17/a)

@@ -44,7 +44,7 @@ summary: ''
 - (a) the purpose of searching for oil in the territorial sea of the United Kingdom[^c10742531] or a designated area;
 - (b) the purpose of ascertaining the extent or characteristics of any oil-bearing area in the territorial sea of the United Kingdom or a designated area;
 - (c) the purpose of ascertaining what are the reserves of oil of any such oil-bearing area; and
-- (d) subject to subsection (3) below, the purpose of making to the OGA[^key-8f7a5206693e3d95aa12cba3d2c12939] any payment under or for the purpose of obtaining a licence (not being a payment by way of royalty or other periodic payment).
+- (d) subject to subsection (3) below, the purpose of making to the OGA[^c-8f7a5206693e3d95aa12cba3d2c12939] any payment under or for the purpose of obtaining a licence (not being a payment by way of royalty or other periodic payment).
 
 (2A)[^c10742551] Any reference in subsection (2) above to a designated area does not include a sector which, by virtue of subsection (3)(b) of section 107 of the Finance Act 1980 (transmedian fields), is deemed to be a designated area.
 
@@ -70,16 +70,16 @@ and where paragraph (b) above applies only that proportion of the expenditure wh
 - (a) oil which is won as mentioned in paragraph (c)(i) of subsection (5) above is either disposed of otherwise than in sales at arm’s length or appropriated to refining or to any use except for production purposes of an oil field, and
 - (b) if that oil had been disposed of in a sale at arm’s length, then, by virtue of section 5(6) of this Act as applied by subsection (5) above, certain expenditure would have been reduced by reference to the receipt of a sum from that disposal.
 
-(5B) Where this subsection applies, the oil concerned shall be treated for the purposes of subsection (5)(c)(i) above and section 5(6) of this Act as having been disposed of for a sum equal to its market value at the material time[^c10742581] determined in accordance with Schedule 3 to this Act for the disposal or appropriation mentioned[^key-00229d73171a84e2e3d4e039a047a347] in subsection (5A)(a) above and, accordingly, for those purposes—
+(5B) Where this subsection applies, the oil concerned shall be treated for the purposes of subsection (5)(c)(i) above and section 5(6) of this Act as having been disposed of for a sum equal to its market value at the material time[^c10742581] determined in accordance with Schedule 3 to this Act for the disposal or appropriation mentioned[^c-00229d73171a84e2e3d4e039a047a347] in subsection (5A)(a) above and, accordingly, for those purposes—
 
 - (a) a sum equal to that market value shall be treated as having been received from that disposal; and
 - (b) no account shall be taken of any sum actually received from the disposal of any of that oil.
 
 (5C) In the application of Schedule 3 to this Act for the purpose of ascertaining the market value of oil as mentioned in subsection (5B) above,—
 
-- (a)[^key-bdd3b0b494eaa2046c1e4644d85c2ab6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) sub-paragraph (4)[^key-a4257dcb581a6355ec1f4c1bf2486874] of paragraph 2 shall be omitted; and
-- (c) any reference in paragraphs 2 and 2A to oil being relevantly appropriated shall be construed as a reference to its being appropriated as mentioned in subsection (5A)(a) above; and[^key-17b1c9b735d8f521782c3b30d1cdf375]
+- (a)[^c-bdd3b0b494eaa2046c1e4644d85c2ab6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) sub-paragraph (4)[^c-a4257dcb581a6355ec1f4c1bf2486874] of paragraph 2 shall be omitted; and
+- (c) any reference in paragraphs 2 and 2A to oil being relevantly appropriated shall be construed as a reference to its being appropriated as mentioned in subsection (5A)(a) above; and[^c-17b1c9b735d8f521782c3b30d1cdf375]
 - (d) any reference in paragraph 2 to the notional delivery day for the actual oil shall be construed as a reference to the day on which the oil is disposed of or appropriated as mentioned in subsection (5A)(a) above.
 
 (6) Expenditure is not allowable under this section in connection with an oil field if, or to the extent that, it has been allowed under Schedule 5, Schedule 6 or Schedule 7 to this Act in connection with any oil field.
@@ -112,7 +112,7 @@ that area shall be treated for the purposes of this section as having become an 
 
 [^c10742531]: Textual amendment: Words substituted by [Finance Act 1985 (c. 54)](https://www.legislation.gov.uk/ukpga/1985/54), [s. 90(2)](https://www.legislation.gov.uk/ukpga/1985/54/section/90/2) with respect to expenditure incurred on or after 1 April 1986
 
-[^key-8f7a5206693e3d95aa12cba3d2c12939]: Textual amendment: Word in [s. 5A](https://www.legislation.gov.uk/ukpga/1975/22/section/5A) substituted (1.10.2016) by [The Petroleum (Transfer of Functions) Regulations 2016 (S.I. 2016/898)](https://www.legislation.gov.uk/uksi/2016/898), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/898/regulation/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2016/898/regulation/4/4)
+[^c-8f7a5206693e3d95aa12cba3d2c12939]: Textual amendment: Word in [s. 5A](https://www.legislation.gov.uk/ukpga/1975/22/section/5A) substituted (1.10.2016) by [The Petroleum (Transfer of Functions) Regulations 2016 (S.I. 2016/898)](https://www.legislation.gov.uk/uksi/2016/898), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/898/regulation/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2016/898/regulation/4/4)
 
 [^c10742551]: Textual amendment: S. 5A(2A) added by [Finance Act 1985 (c. 54)](https://www.legislation.gov.uk/ukpga/1985/54), [s. 90](https://www.legislation.gov.uk/ukpga/1985/54/section/90) with respect to expenditure incurred on or after 19 March 1985
 
@@ -122,12 +122,12 @@ that area shall be treated for the purposes of this section as having become an 
 
 [^c10742581]: Textual amendment: Words repealed by [Finance Act 1987 (c. 16)](https://www.legislation.gov.uk/ukpga/1987/16), [ss. 62(1)(b)](https://www.legislation.gov.uk/ukpga/1987/16/section/62/1/b), [72(7)](https://www.legislation.gov.uk/ukpga/1987/16/section/72/7) and Sch. 16 Part X for chargeable periods ending after 31 December 1986
 
-[^key-00229d73171a84e2e3d4e039a047a347]: Textual amendment: Words in s. 5A(5B) substituted (with effect in accordance with s. 147(1)(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 18 para. 3(2)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/18/paragraph/3/2)
+[^c-00229d73171a84e2e3d4e039a047a347]: Textual amendment: Words in s. 5A(5B) substituted (with effect in accordance with s. 147(1)(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 18 para. 3(2)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/18/paragraph/3/2)
 
-[^key-bdd3b0b494eaa2046c1e4644d85c2ab6]: Textual amendment: S. 5A(5C)(a) repealed (with effect in accordance with s. 147(1)(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 18 para. 3(4)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/18/paragraph/3/4), [Sch. 26 Pt. 5(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/5/1)
+[^c-bdd3b0b494eaa2046c1e4644d85c2ab6]: Textual amendment: S. 5A(5C)(a) repealed (with effect in accordance with s. 147(1)(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 18 para. 3(4)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/18/paragraph/3/4), [Sch. 26 Pt. 5(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/5/1)
 
-[^key-a4257dcb581a6355ec1f4c1bf2486874]: Textual amendment: Words in s. 5A(5C)(b) substituted (with effect in accordance with s. 147(1)(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 18 para. 3(5)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/18/paragraph/3/5)
+[^c-a4257dcb581a6355ec1f4c1bf2486874]: Textual amendment: Words in s. 5A(5C)(b) substituted (with effect in accordance with s. 147(1)(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 18 para. 3(5)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/18/paragraph/3/5)
 
-[^key-17b1c9b735d8f521782c3b30d1cdf375]: Textual amendment: S. 5A(5C)(d) and preceding word inserted (with effect in accordance with s. 147(1)(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 18 para. 3(6)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/18/paragraph/3/6)
+[^c-17b1c9b735d8f521782c3b30d1cdf375]: Textual amendment: S. 5A(5C)(d) and preceding word inserted (with effect in accordance with s. 147(1)(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 18 para. 3(6)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/18/paragraph/3/6)
 
 [^c10742601]: Modification: Also for the purposes of [Oil Taxation Act 1983 (c. 56)](https://www.legislation.gov.uk/ukpga/1983/56), [s. 8(3)](https://www.legislation.gov.uk/ukpga/1983/56/section/8/3) and Sch. 1 para. 6(1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 15.3. Grant of interim faculties[^key-cecfbb69568a2b1c62adaedcbf748724]
+## 15.3. Grant of interim faculties[^c-cecfbb69568a2b1c62adaedcbf748724]
 
 *Extent: E*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cecfbb69568a2b1c62adaedcbf748724]: Commencement: [Rule 15.3](https://www.legislation.gov.uk/uksi/2015/1568/article/15.3) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-cecfbb69568a2b1c62adaedcbf748724]: Commencement: [Rule 15.3](https://www.legislation.gov.uk/uksi/2015/1568/article/15.3) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

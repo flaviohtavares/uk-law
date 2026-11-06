@@ -31,7 +31,7 @@ summary: ''
 - (g) section 37, and
 - (h) section 38.
 
-(2) The other preceding provisions of this Act (including paragraphs 12 to 14 of Schedule 3) shall come into force in accordance with provision made by order of the Secretary of State [^key-248a3b5b9d36ac2882a8f9ba72d3ce6d]... .
+(2) The other preceding provisions of this Act (including paragraphs 12 to 14 of Schedule 3) shall come into force in accordance with provision made by order of the Secretary of State [^c-248a3b5b9d36ac2882a8f9ba72d3ce6d]... .
 
 (3) But the following provisions of this Act, so far as they extend to Scotland, shall come into force in accordance with provision made by order of the Scottish Ministers—
 
@@ -69,4 +69,4 @@ summary: ''
 
 ## Annotations
 
-[^key-248a3b5b9d36ac2882a8f9ba72d3ce6d]: Textual amendment: Words in s. 40 omitted (7.7.2010) by virtue of [Secretary of State for Culture, Olympics, Media and Sport Order 2010 (S.I. 2010/1551)](https://www.legislation.gov.uk/uksi/2010/1551), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1551/article/1/2), [Sch. para. 8(1)(p)](https://www.legislation.gov.uk/uksi/2010/1551/schedule/paragraph/8/1/p)
+[^c-248a3b5b9d36ac2882a8f9ba72d3ce6d]: Textual amendment: Words in s. 40 omitted (7.7.2010) by virtue of [Secretary of State for Culture, Olympics, Media and Sport Order 2010 (S.I. 2010/1551)](https://www.legislation.gov.uk/uksi/2010/1551), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1551/article/1/2), [Sch. para. 8(1)(p)](https://www.legislation.gov.uk/uksi/2010/1551/schedule/paragraph/8/1/p)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32ZB. Steps to be taken by a registration officer where no information in response to an annual canvass form is received in respect of a particular address[^key-cbe73576ac9bacbea633003ab1489244]
+## 32ZB. Steps to be taken by a registration officer where no information in response to an annual canvass form is received in respect of a particular address[^c-cbe73576ac9bacbea633003ab1489244]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cbe73576ac9bacbea633003ab1489244]: Textual amendment: [Reg. 32ZB](https://www.legislation.gov.uk/uksi/2001/497/regulation/32ZB) revoked (27.4.2020) by [The Representation of the People (Annual Canvass) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/113)](https://www.legislation.gov.uk/ssi/2020/113), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/113/regulation/1/2), [6](https://www.legislation.gov.uk/ssi/2020/113/regulation/6)
+[^c-cbe73576ac9bacbea633003ab1489244]: Textual amendment: [Reg. 32ZB](https://www.legislation.gov.uk/uksi/2001/497/regulation/32ZB) revoked (27.4.2020) by [The Representation of the People (Annual Canvass) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/113)](https://www.legislation.gov.uk/ssi/2020/113), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/113/regulation/1/2), [6](https://www.legislation.gov.uk/ssi/2020/113/regulation/6)

@@ -50,11 +50,11 @@ The Secretary of State for Transport makes the following Regulations in exercise
 
 Representative organisations have been consulted in accordance with section 134(2) of that Act.
 
-## 1. Citation and commencement[^key-b6b36946c07c26ad7ae7887decc40828]
+## 1. Citation and commencement[^c-b6b36946c07c26ad7ae7887decc40828]
 
 These Regulations may be cited as the M3 Motorway (Junctions 2 to 4a) (Variable Speed Limits) Regulations 2015 and come into force on 8th April 2015.
 
-## 2. Interpretation[^key-10e1ec27d4aed15ee73cbae4b512988d]
+## 2. Interpretation[^c-10e1ec27d4aed15ee73cbae4b512988d]
 
 In these Regulations—
 
@@ -62,7 +62,7 @@ In these Regulations—
 - “the 2002 Regulations” means the Traffic Signs Regulations and General Directions 2002[^f00003]; and
 - “carriageway”, “hard shoulder”, “motorway” and “verge” have the same meaning as in the 1982 Regulations.
 
-## 3. Variable speed limits[^key-d512aa6eec759fc7fb5724a890bbc005]
+## 3. Variable speed limits[^c-d512aa6eec759fc7fb5724a890bbc005]
 
 (1) No person shall drive a vehicle on a section of a road which is subject to a variable speed limit at a speed exceeding that indicated by a speed limit sign.
 
@@ -88,7 +88,7 @@ In these Regulations—
   - (a) situated on or near any part of a road specified in the Schedule; and
   - (b) directed at traffic on the carriageway on which the vehicle is being driven.
 
-## 4. Amendment of Regulations[^key-74641e135459e6f28518ca77d6a049be]
+## 4. Amendment of Regulations[^c-74641e135459e6f28518ca77d6a049be]
 
 (1) The M3 and M25 (Thorpe Interchange) (Speed Limit) Regulations 2009[^f00004] are amended as follows.
 
@@ -112,28 +112,28 @@ Department for Transport
 
 Regulation 3(2)(a)
 
-**1.**[^key-2a20d3ada28d67bf312da7faab7f7f65] The specified roads are—
+**1.**[^c-2a20d3ada28d67bf312da7faab7f7f65] The specified roads are—
 
-- (a) that length of the westbound carriageway of the M3 beginning at a point 500 metres[^key-89ad1112f6bc79ef423dcc676ac214d5] after the eastern edge of the bridge carrying Bridge Lane over the M3 and ending at a point 200 metres after the eastern edge of the bridge carrying the A327 over the M3;
+- (a) that length of the westbound carriageway of the M3 beginning at a point 500 metres[^c-89ad1112f6bc79ef423dcc676ac214d5] after the eastern edge of the bridge carrying Bridge Lane over the M3 and ending at a point 200 metres after the eastern edge of the bridge carrying the A327 over the M3;
 - (b) the carriageways of the westbound slip roads at junctions 3 and 4, and the westbound off-slip road at junction 4a;
 - (c) that length of the eastbound carriageway of the M3 beginning at a point 100 metres after the western edge of the bridge carrying the A327 over the M3 and ending at the western edge of the bridge carrying Lyne Lane over the M3;
 - (d) the carriageways of the eastbound off slip roads at junction 2 ending at the western edge of the bridge carrying Lyne Lane over the M3;
 - (e) the carriageways of the eastbound slip roads at junction 3 and 4, and the eastbound on-slip road at junction 4a.
 
-**2.**[^key-fa0ebcb0599b86a7163110a887a0f3a1] Any reference in this Schedule to—
+**2.**[^c-fa0ebcb0599b86a7163110a887a0f3a1] Any reference in this Schedule to—
 
 - (a) the letter “M” followed by a number is a reference to the motorway known by that name;
 - (b) the letter “A” followed by a number is a reference to the road known by that name; and
 - (c) a junction followed by a number is a reference to the junction of the M3 of that number.
 
-**3.**[^key-1d206c13829bfc6e5e0767f04cef60af] In this Schedule—
+**3.**[^c-1d206c13829bfc6e5e0767f04cef60af] In this Schedule—
 
 - “westbound slip roads” is a reference to the lengths of road specified in paragraph 4;
 - “off-slip road” means a slip road intended for use of traffic exiting the M3;
 - “on-slip road” means a slip road intended for use of traffic entering the M3; and
 - “eastbound slip roads” is a reference to the lengths of road specified in paragraph 5.
 
-**4.**[^key-f8c767d88e2679471d98b09993566076] The westbound slip roads are —
+**4.**[^c-f8c767d88e2679471d98b09993566076] The westbound slip roads are —
 
 - (a) the off-slip road which connects the westbound carriageway of the M3 to the A322 roundabout at junction 3;
 - (b) the on-slip road which connects at junction 3 the A322 roundabout with the westbound carriageway of the M3;
@@ -141,7 +141,7 @@ Regulation 3(2)(a)
 - (d) the on-slip road which connects at junction 4 the A331 to the westbound carriageway of the M3; and
 - (e) the off-slip road which connects the westbound carriageway of the M3 to the A327 at junction 4a.
 
-**5.**[^key-588f343cd713d29f90d3bd9382583a75] The eastbound slip roads are—
+**5.**[^c-588f343cd713d29f90d3bd9382583a75] The eastbound slip roads are—
 
 - (a) the on-slip road which connects at junction 4a the A327 to the eastbound carriageway of the M3;
 - (b) the off-slip road which connects the eastbound carriageway of the M3 to the A331 at junction 4;
@@ -170,28 +170,28 @@ Contravention of these Regulations is an offence under section 17(4) of the Road
 
 [^f00001]: Footnote: [1984. c. 27](https://www.legislation.gov.uk/ukpga/1984/27). Section 17(2) was amended by the New Roads and Street Works Act [1991 (c. 22)](https://www.legislation.gov.uk/ukpga/1991/22), Schedule 8, Part 2, paragraph 28(3); section 17(2)(b) was amended by the Road Traffic Act [1991 (c. 40)](https://www.legislation.gov.uk/ukpga/1991/40), Schedule 8; section 17(2)(d) was inserted by the Road Traffic Act [1991 (c. 40)](https://www.legislation.gov.uk/ukpga/1991/40), Schedule 4, paragraph 25. There are other amendments to sections 17 and 134 which are not relevant to these Regulations.
 
-[^key-b6b36946c07c26ad7ae7887decc40828]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/241/regulation/1) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/241/regulation/1)
+[^c-b6b36946c07c26ad7ae7887decc40828]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/241/regulation/1) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/241/regulation/1)
 
-[^key-10e1ec27d4aed15ee73cbae4b512988d]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/241/regulation/2) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/241/regulation/1)
+[^c-10e1ec27d4aed15ee73cbae4b512988d]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/241/regulation/2) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/241/regulation/1)
 
 [^f00002]: Footnote: [S.I. 1982/1163](https://www.legislation.gov.uk/uksi/1982/1163), as amended by [S.I. 1984/1479](https://www.legislation.gov.uk/uksi/1984/1479), [1992/1364](https://www.legislation.gov.uk/uksi/1992/1364) and [2004/3258](https://www.legislation.gov.uk/uksi/2004/3258). There are other amending instruments but none is relevant.
 
 [^f00003]: Footnote: [S. I. 2002/3113](https://www.legislation.gov.uk/uksi/2002/3113); as amended by [S. I. 2005/1670](https://www.legislation.gov.uk/uksi/2005/1670). There are other amending instruments but none is relevant.
 
-[^key-d512aa6eec759fc7fb5724a890bbc005]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/241/regulation/3) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/241/regulation/1)
+[^c-d512aa6eec759fc7fb5724a890bbc005]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/241/regulation/3) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/241/regulation/1)
 
-[^key-74641e135459e6f28518ca77d6a049be]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/241/regulation/4) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/241/regulation/1)
+[^c-74641e135459e6f28518ca77d6a049be]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/241/regulation/4) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/241/regulation/1)
 
 [^f00004]: Footnote: [S.I. 2009/1421](https://www.legislation.gov.uk/uksi/2009/1421).
 
-[^key-2a20d3ada28d67bf312da7faab7f7f65]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2015/241/schedule/paragraph/1) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/241/regulation/1)
+[^c-2a20d3ada28d67bf312da7faab7f7f65]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2015/241/schedule/paragraph/1) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/241/regulation/1)
 
-[^key-89ad1112f6bc79ef423dcc676ac214d5]: Textual amendment: Words in [Sch. para. 1(a)](https://www.legislation.gov.uk/uksi/2015/241/schedule/paragraph/1/a) substituted (23.3.2018) by [The M3 Motorway (Junctions 2 to 4a) and the M25 Motorway (Junction 12) (Speed Limits) (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/259)](https://www.legislation.gov.uk/uksi/2018/259), [regs. 1](https://www.legislation.gov.uk/uksi/2018/259/regulation/1), [3](https://www.legislation.gov.uk/uksi/2018/259/regulation/3)
+[^c-89ad1112f6bc79ef423dcc676ac214d5]: Textual amendment: Words in [Sch. para. 1(a)](https://www.legislation.gov.uk/uksi/2015/241/schedule/paragraph/1/a) substituted (23.3.2018) by [The M3 Motorway (Junctions 2 to 4a) and the M25 Motorway (Junction 12) (Speed Limits) (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/259)](https://www.legislation.gov.uk/uksi/2018/259), [regs. 1](https://www.legislation.gov.uk/uksi/2018/259/regulation/1), [3](https://www.legislation.gov.uk/uksi/2018/259/regulation/3)
 
-[^key-fa0ebcb0599b86a7163110a887a0f3a1]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2015/241/schedule/paragraph/2) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/241/regulation/1)
+[^c-fa0ebcb0599b86a7163110a887a0f3a1]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2015/241/schedule/paragraph/2) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/241/regulation/1)
 
-[^key-1d206c13829bfc6e5e0767f04cef60af]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2015/241/schedule/paragraph/3) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/241/regulation/1)
+[^c-1d206c13829bfc6e5e0767f04cef60af]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2015/241/schedule/paragraph/3) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/241/regulation/1)
 
-[^key-f8c767d88e2679471d98b09993566076]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2015/241/schedule/paragraph/4) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/241/regulation/1)
+[^c-f8c767d88e2679471d98b09993566076]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2015/241/schedule/paragraph/4) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/241/regulation/1)
 
-[^key-588f343cd713d29f90d3bd9382583a75]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2015/241/schedule/paragraph/5) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/241/regulation/1)
+[^c-588f343cd713d29f90d3bd9382583a75]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2015/241/schedule/paragraph/5) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/241/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Procedural requirements.[^key-d81e4378756652221004dbe3280ac8b2]
+## 29. Procedural requirements.[^c-d81e4378756652221004dbe3280ac8b2]
 
 *Extent: E+W+S*
 
@@ -31,7 +31,7 @@ and shall consider any representations or objections which are duly made and not
 (2) A notice under subsection (1) above shall be given—
 
 - (a) by publishing the notice in such manner as the Director considers appropriate for the purpose of bringing the matters to which the notice relates to the attention of persons likely to be affected by them; and
-- (b) by sending a copy of the notice, and a copy of the proposed order or of the order proposed to be confirmed, to the regulated person[^key-446ab4acfddfa34eb1e431ed9a9023b8] .
+- (b) by sending a copy of the notice, and a copy of the proposed order or of the order proposed to be confirmed, to the regulated person[^c-446ab4acfddfa34eb1e431ed9a9023b8] .
 
 (3) The Director shall not make a final order, or confirm a provisional order, with modifications except with the consent of the regulated person or after complying with the requirements of subsection (4) below.
 
@@ -60,10 +60,10 @@ and shall consider any representations or objections which are duly made and not
 
 ## Annotations
 
-[^key-d81e4378756652221004dbe3280ac8b2]: Modification: Ss. 28-30F applied (with modifications) by 1995 c. 45, s. 12(5) (as substituted (21.3.2012) by [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [ss. 92(10)](https://www.legislation.gov.uk/ukpga/2011/16/section/92/10), [121(1)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/1); [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2012/873/article/2/b/ii))
+[^c-d81e4378756652221004dbe3280ac8b2]: Modification: Ss. 28-30F applied (with modifications) by 1995 c. 45, s. 12(5) (as substituted (21.3.2012) by [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [ss. 92(10)](https://www.legislation.gov.uk/ukpga/2011/16/section/92/10), [121(1)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/1); [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2012/873/article/2/b/ii))
 
 [^c14421521]: Textual amendment: Word in s. 29(1)(c) substituted (1.10.2001) by [2000 c. 27](https://www.legislation.gov.uk/ukpga/2000/27), [s. 96(6)](https://www.legislation.gov.uk/ukpga/2000/27/section/96/6) (with [s. 96(7)](https://www.legislation.gov.uk/ukpga/2000/27/section/96/7)); [S.I. 2001/3266](https://www.legislation.gov.uk/uksi/2001/3266), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/3266/article/1/2), [2](https://www.legislation.gov.uk/uksi/2001/3266/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/3266/schedule) (subject to transitional provisions in [arts. 3-20](https://www.legislation.gov.uk/uksi/2001/3266/article/3))
 
-[^key-446ab4acfddfa34eb1e431ed9a9023b8]: Textual amendment: Words in s. 29 substituted (10.11.2011) by [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [37(4)(b)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/37/4/b)
+[^c-446ab4acfddfa34eb1e431ed9a9023b8]: Textual amendment: Words in s. 29 substituted (10.11.2011) by [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [37(4)(b)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/37/4/b)
 
 [^c14421571]: Textual amendment: Word in s. 29(4)(b) substituted (1.10.2001) by [2000 c. 27](https://www.legislation.gov.uk/ukpga/2000/27), [s. 96(6)](https://www.legislation.gov.uk/ukpga/2000/27/section/96/6) (with [s. 96(7)](https://www.legislation.gov.uk/ukpga/2000/27/section/96/7)); [S.I. 2001/3266](https://www.legislation.gov.uk/uksi/2001/3266), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/3266/article/1/2), [2](https://www.legislation.gov.uk/uksi/2001/3266/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/3266/schedule) (subject to transitional provisions in [arts. 3-20](https://www.legislation.gov.uk/uksi/2001/3266/article/3))

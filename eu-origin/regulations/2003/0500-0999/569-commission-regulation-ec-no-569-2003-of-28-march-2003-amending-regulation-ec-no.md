@@ -31,10 +31,10 @@ Commission Regulation (EC) No 569/2003
 
 of 28 March 2003 amending Regulation (EC) No 1238/95 establishing implementation rules for the application of Council Regulation (EC) No 2100/94 as regards the fees payable to the Community Plant Variety Office (revoked)
 
-[^key-f2ff5610abce81aa0b9653fb420c0451]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f2ff5610abce81aa0b9653fb420c0451]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-f2ff5610abce81aa0b9653fb420c0451] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-f2ff5610abce81aa0b9653fb420c0451] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f2ff5610abce81aa0b9653fb420c0451]: Textual amendment: Regulation revoked (31.12.2020) by The Plant Breeders’ [Rights (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/204)](https://www.legislation.gov.uk/uksi/2019/204), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/204/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2019/204/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f2ff5610abce81aa0b9653fb420c0451]: Textual amendment: Regulation revoked (31.12.2020) by The Plant Breeders’ [Rights (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/204)](https://www.legislation.gov.uk/uksi/2019/204), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/204/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2019/204/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

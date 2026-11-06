@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Consequential amendments for Part 2 of the 2008 Act[^key-043e398f696f0dc5e481de5d42f6d807]
+## 5. Consequential amendments for Part 2 of the 2008 Act[^c-043e398f696f0dc5e481de5d42f6d807]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The enactments specified in Schedule 2 to this Order have effect with the amendm
 
 ## Annotations
 
-[^key-043e398f696f0dc5e481de5d42f6d807]: Commencement: Art. 5 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2)
+[^c-043e398f696f0dc5e481de5d42f6d807]: Commencement: Art. 5 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2)

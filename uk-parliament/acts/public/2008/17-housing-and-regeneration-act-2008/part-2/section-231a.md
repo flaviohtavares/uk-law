@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 231A. Notifying the HCA[^key-480dabe5d2741090ef643dbf9fbf91ef]
+## 231A. Notifying the HCA[^c-480dabe5d2741090ef643dbf9fbf91ef]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ If the regulator imposes a penalty on a registered provider it must send a copy 
 
 ## Annotations
 
-[^key-480dabe5d2741090ef643dbf9fbf91ef]: Textual amendment: [S. 231A](https://www.legislation.gov.uk/ukpga/2008/17/section/231A) inserted (1.10.2018) by [The Legislative Reform (Regulator of Social Housing) (England) Order 2018 (S.I. 2018/1040)](https://www.legislation.gov.uk/uksi/2018/1040), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1040/article/1/2), [Sch. para. 31](https://www.legislation.gov.uk/uksi/2018/1040/schedule/paragraph/31) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2018/1040/part/4))
+[^c-480dabe5d2741090ef643dbf9fbf91ef]: Textual amendment: [S. 231A](https://www.legislation.gov.uk/ukpga/2008/17/section/231A) inserted (1.10.2018) by [The Legislative Reform (Regulator of Social Housing) (England) Order 2018 (S.I. 2018/1040)](https://www.legislation.gov.uk/uksi/2018/1040), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1040/article/1/2), [Sch. para. 31](https://www.legislation.gov.uk/uksi/2018/1040/schedule/paragraph/31) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2018/1040/part/4))

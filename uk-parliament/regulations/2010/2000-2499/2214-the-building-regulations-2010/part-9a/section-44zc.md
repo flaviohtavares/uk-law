@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44ZC. Cases in which paragraph RA2 of Schedule 1 modified or excluded[^key-437bfdb83c051ab95270d897a5466888][^key-2766d8f94a11b1ba983254dda3add6df]
+## 44ZC. Cases in which paragraph RA2 of Schedule 1 modified or excluded[^c-437bfdb83c051ab95270d897a5466888][^c-2766d8f94a11b1ba983254dda3add6df]
 
 *Extent: E+W*
 
@@ -60,7 +60,7 @@ paragraph RA2 of Schedule 1 is to be read as requiring the provision of a connec
 
 (9) In paragraph (6)(a) “**suitable provider**” means the provider of a public electronic communications network whom the developer reasonably considers to be likely to be able to provide the connection referred to.
 
-## 44ZC. Cases in which paragraph RA2 of Schedule 1 modified or excluded[^key-d4b8b535bbc6317cd648919c523c93f2]
+## 44ZC. Cases in which paragraph RA2 of Schedule 1 modified or excluded[^c-d4b8b535bbc6317cd648919c523c93f2]
 
 *Extent: E+W*
 
@@ -106,8 +106,8 @@ paragraph RA2 of Schedule 1 is to be read as requiring the provision of a connec
 
 ## Annotations
 
-[^key-437bfdb83c051ab95270d897a5466888]: Textual amendment: [Regs. 44ZB](https://www.legislation.gov.uk/uksi/2010/2214/regulation/44ZB), [44ZC](https://www.legislation.gov.uk/uksi/2010/2214/regulation/44ZC) inserted (E.) (26.12.2022) by [The Building etc. (Amendment) (England) (No. 2) Regulations 2022 (S.I. 2022/984)](https://www.legislation.gov.uk/uksi/2022/984), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/984/regulation/1/4), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2022/984/schedule/paragraph/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/984/regulation/3))
+[^c-437bfdb83c051ab95270d897a5466888]: Textual amendment: [Regs. 44ZB](https://www.legislation.gov.uk/uksi/2010/2214/regulation/44ZB), [44ZC](https://www.legislation.gov.uk/uksi/2010/2214/regulation/44ZC) inserted (E.) (26.12.2022) by [The Building etc. (Amendment) (England) (No. 2) Regulations 2022 (S.I. 2022/984)](https://www.legislation.gov.uk/uksi/2022/984), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/984/regulation/1/4), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2022/984/schedule/paragraph/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/984/regulation/3))
 
-[^key-2766d8f94a11b1ba983254dda3add6df]: Textual amendment: Pt. 9A inserted (W. but not in relation to excepted energy buildings) (8.4.2016) by [The Building (Amendment) (Wales) Regulations 2016 (S.I. 2016/361)](https://www.legislation.gov.uk/wsi/2016/361), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2016/361/regulation/1/4), [2(4)](https://www.legislation.gov.uk/wsi/2016/361/regulation/2/4) (with [regs. 1(3)](https://www.legislation.gov.uk/wsi/2016/361/regulation/1/3), [3](https://www.legislation.gov.uk/wsi/2016/361/regulation/3))
+[^c-2766d8f94a11b1ba983254dda3add6df]: Textual amendment: Pt. 9A inserted (W. but not in relation to excepted energy buildings) (8.4.2016) by [The Building (Amendment) (Wales) Regulations 2016 (S.I. 2016/361)](https://www.legislation.gov.uk/wsi/2016/361), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2016/361/regulation/1/4), [2(4)](https://www.legislation.gov.uk/wsi/2016/361/regulation/2/4) (with [regs. 1(3)](https://www.legislation.gov.uk/wsi/2016/361/regulation/1/3), [3](https://www.legislation.gov.uk/wsi/2016/361/regulation/3))
 
-[^key-d4b8b535bbc6317cd648919c523c93f2]: Textual amendment: [Regs. 44ZAA-44ZC](https://www.legislation.gov.uk/uksi/2010/2214/regulation/44ZAA) inserted (W.) (1.7.2025) by [The Building etc. (Amendment) (Wales) Regulations 2025 (S.I. 2025/377)](https://www.legislation.gov.uk/wsi/2025/377), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2025/377/regulation/1/3), [4(2)(b)](https://www.legislation.gov.uk/wsi/2025/377/regulation/4/2/b) (with [reg. 3](https://www.legislation.gov.uk/wsi/2025/377/regulation/3))
+[^c-d4b8b535bbc6317cd648919c523c93f2]: Textual amendment: [Regs. 44ZAA-44ZC](https://www.legislation.gov.uk/uksi/2010/2214/regulation/44ZAA) inserted (W.) (1.7.2025) by [The Building etc. (Amendment) (Wales) Regulations 2025 (S.I. 2025/377)](https://www.legislation.gov.uk/wsi/2025/377), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2025/377/regulation/1/3), [4(2)(b)](https://www.legislation.gov.uk/wsi/2025/377/regulation/4/2/b) (with [reg. 3](https://www.legislation.gov.uk/wsi/2025/377/regulation/3))

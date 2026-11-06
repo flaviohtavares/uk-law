@@ -35,7 +35,7 @@ as the case may be.
 
 (2) An order under this section may grant planning permission for any development of the land to which the order relates, subject to such conditions as may be specified in the order.
 
-(3) Section 65 shall apply in relation to any planning permission granted by an order under this section as it applies in relation to planning permission granted by the planning authority on an application made under this Part or section 242A[^key-b2e7162009e3e2f999d6a4a2db8954a2].
+(3) Section 65 shall apply in relation to any planning permission granted by an order under this section as it applies in relation to planning permission granted by the planning authority on an application made under this Part or section 242A[^c-b2e7162009e3e2f999d6a4a2db8954a2].
 
 (4) The planning permission which may be granted by an order under this section includes planning permission, subject to such conditions as may be specified in the order, for development carried out before the date on which the order was submitted to the Secretary of State under this section.
 
@@ -46,7 +46,7 @@ as the case may be.
 
 (6) Where the requirements of an order under this section will involve the displacement of persons residing in any premises, it shall be the duty of the planning authority, in so far as there is no other residential accommodation suitable to the reasonable requirements of those persons available on reasonable terms, to secure the provision of such accommodation in advance of the displacement.
 
-(7) In the case of planning permission granted by an order under this section, the authority referred to in sections 58(1)(b) and (3A)(b) and 59(2A)(b) and (2D)(b)[^key-6781ea5856486157913d677e69015b7b] is the planning authority making the order.
+(7) In the case of planning permission granted by an order under this section, the authority referred to in sections 58(1)(b) and (3A)(b) and 59(2A)(b) and (2D)(b)[^c-6781ea5856486157913d677e69015b7b] is the planning authority making the order.
 
 (8) The previous provisions of this section do not apply to the use of any land for development consisting of the winning or working of minerals or involving the deposit of refuse or waste materials except as provided in Schedule 8, and in that Schedule—
 
@@ -55,6 +55,6 @@ as the case may be.
 
 ## Annotations
 
-[^key-b2e7162009e3e2f999d6a4a2db8954a2]: Textual amendment: Words in s. 71(3) inserted (11.5.2006) by [Planning and Compulsory Purchase Act 2004 (Commencement No.2 and Consequential Provisions) (Scotland) Order 2006 (S.S.I. 2006/243)](https://www.legislation.gov.uk/ssi/2006/243), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/243/article/1/1), [4(5)](https://www.legislation.gov.uk/ssi/2006/243/article/4/5)
+[^c-b2e7162009e3e2f999d6a4a2db8954a2]: Textual amendment: Words in s. 71(3) inserted (11.5.2006) by [Planning and Compulsory Purchase Act 2004 (Commencement No.2 and Consequential Provisions) (Scotland) Order 2006 (S.S.I. 2006/243)](https://www.legislation.gov.uk/ssi/2006/243), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/243/article/1/1), [4(5)](https://www.legislation.gov.uk/ssi/2006/243/article/4/5)
 
-[^key-6781ea5856486157913d677e69015b7b]: Textual amendment: Words in [s. 71(7)](https://www.legislation.gov.uk/ukpga/1997/8/section/71/7) substituted (1.10.2022) by [Planning (Scotland) Act 2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), [s. 63(2)](https://www.legislation.gov.uk/asp/2019/13/section/63/2), [sch. 2 para. 6(4)](https://www.legislation.gov.uk/asp/2019/13/schedule/2/paragraph/6/4); [S.S.I. 2022/275](https://www.legislation.gov.uk/ssi/2022/275), [reg. 2(2)(f)](https://www.legislation.gov.uk/ssi/2022/275/regulation/2/2/f) (with [reg. 3](https://www.legislation.gov.uk/ssi/2022/275/regulation/3))
+[^c-6781ea5856486157913d677e69015b7b]: Textual amendment: Words in [s. 71(7)](https://www.legislation.gov.uk/ukpga/1997/8/section/71/7) substituted (1.10.2022) by [Planning (Scotland) Act 2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), [s. 63(2)](https://www.legislation.gov.uk/asp/2019/13/section/63/2), [sch. 2 para. 6(4)](https://www.legislation.gov.uk/asp/2019/13/schedule/2/paragraph/6/4); [S.S.I. 2022/275](https://www.legislation.gov.uk/ssi/2022/275), [reg. 2(2)(f)](https://www.legislation.gov.uk/ssi/2022/275/regulation/2/2/f) (with [reg. 3](https://www.legislation.gov.uk/ssi/2022/275/regulation/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 201. Remuneration[^key-4b4e2ba6a905631f78e92a9fbc3bd8c4]
+## 201. Remuneration[^c-4b4e2ba6a905631f78e92a9fbc3bd8c4]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Apply rule 7.17 of the 1986 Rules[^f00069].
 
 ## Annotations
 
-[^key-4b4e2ba6a905631f78e92a9fbc3bd8c4]: Commencement: Rule 201 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-4b4e2ba6a905631f78e92a9fbc3bd8c4]: Commencement: Rule 201 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
 
 [^f00069]: Footnote: Paragraph (2) was substituted by [S.I. 1993/602](https://www.legislation.gov.uk/uksi/1993/602).

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (49).** Text as at 2024-02-21. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/14
 
-## 55. Recovery of primary Class 1 contributions by secondary contributors[^key-99ed2e3a4b00274901bec70a8ca3401f]
+## 55. Recovery of primary Class 1 contributions by secondary contributors[^c-99ed2e3a4b00274901bec70a8ca3401f]
 
 In paragraph 3 of Schedule 1 to the Contributions and Benefits Act (supplementary provisions as to contributions)—
 
@@ -35,4 +35,4 @@ In paragraph 3 of Schedule 1 to the Contributions and Benefits Act (supplementar
 
 ## Annotations
 
-[^key-99ed2e3a4b00274901bec70a8ca3401f]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/1998/14/section/55) in force at 8.9.1998 by [S.I. 1998/2209](https://www.legislation.gov.uk/uksi/1998/2209), [art. 2(a)](https://www.legislation.gov.uk/uksi/1998/2209/article/2/a), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/1998/2209/schedule/part/I)
+[^c-99ed2e3a4b00274901bec70a8ca3401f]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/1998/14/section/55) in force at 8.9.1998 by [S.I. 1998/2209](https://www.legislation.gov.uk/uksi/1998/2209), [art. 2(a)](https://www.legislation.gov.uk/uksi/1998/2209/article/2/a), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/1998/2209/schedule/part/I)

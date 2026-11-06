@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 22. Labelling of packages of seed in relation to breeder’s confirmation[^key-da05b4aec0870153e14c5960d3dd8f83]
+## 22. Labelling of packages of seed in relation to breeder’s confirmation[^c-da05b4aec0870153e14c5960d3dd8f83]
 
 *Extent: S*
 
@@ -34,7 +34,7 @@ summary: ''
 - (a) containing, as appropriate to the category of seed and the seed itself, particulars of the matters specified, and being of at least the size and of the colour also specified, in the relevant paragraph of Part II of Schedule 6; and
 - (b) which shall be–
   - (i) either an adhesive label or a label secured to the package by a sealing system approved by the Scottish Ministers;
-  - (ii) affixed, in either case, by the Scottish Ministers or by[^key-9254b85fe385cfe0177a530f01136b96]... a licensed seed sampler; and
+  - (ii) affixed, in either case, by the Scottish Ministers or by[^c-9254b85fe385cfe0177a530f01136b96]... a licensed seed sampler; and
   - (iii) overstamped “not certified”.
 
 (5) If in accordance with paragraphs 5 and 6(c) of Part II of Schedule 2 a breeder’s confirmation has been issued in respect of seed of a lower percentage of germination than that specified for Basic Seed in Part II of Schedule 4–
@@ -65,7 +65,7 @@ summary: ''
 
 and also, except where the information prescribed by this paragraph is given on an adhesive or tear resistant label, either on the outside of the package or as a document enclosed inside the package.
 
-(11) The particulars and information given in accordance with this regulation shall be given in English but may also be given in other languages[^key-5ba6a370a1e6e16024126fb39afa179b].
+(11) The particulars and information given in accordance with this regulation shall be given in English but may also be given in other languages[^c-5ba6a370a1e6e16024126fb39afa179b].
 
 (12) For the purposes of this regulation, references in Schedule 6 to the “certifying authority” shall, in the case of a breeder’s confirmation, be taken to be references to that authority as issuer of the breeder’s confirmation.
 
@@ -73,8 +73,8 @@ and also, except where the information prescribed by this paragraph is given on 
 
 ## Annotations
 
-[^key-da05b4aec0870153e14c5960d3dd8f83]: Commencement: Reg. 22 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/328/regulation/1/1)
+[^c-da05b4aec0870153e14c5960d3dd8f83]: Commencement: Reg. 22 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/328/regulation/1/1)
 
-[^key-9254b85fe385cfe0177a530f01136b96]: Textual amendment: Words in [reg. 22(4)(b)(ii)](https://www.legislation.gov.uk/ssi/2005/328/regulation/22/4/b/ii) omitted (1.4.2007) by virtue of [The Seed (Scotland) (Amendments for Tests and Trials etc.) Regulations 2007 (S.S.I. 2007/224)](https://www.legislation.gov.uk/ssi/2007/224), [regs. 1](https://www.legislation.gov.uk/ssi/2007/224/regulation/1), [9](https://www.legislation.gov.uk/ssi/2007/224/regulation/9)
+[^c-9254b85fe385cfe0177a530f01136b96]: Textual amendment: Words in [reg. 22(4)(b)(ii)](https://www.legislation.gov.uk/ssi/2005/328/regulation/22/4/b/ii) omitted (1.4.2007) by virtue of [The Seed (Scotland) (Amendments for Tests and Trials etc.) Regulations 2007 (S.S.I. 2007/224)](https://www.legislation.gov.uk/ssi/2007/224), [regs. 1](https://www.legislation.gov.uk/ssi/2007/224/regulation/1), [9](https://www.legislation.gov.uk/ssi/2007/224/regulation/9)
 
-[^key-5ba6a370a1e6e16024126fb39afa179b]: Textual amendment: Words in [reg. 22(11)](https://www.legislation.gov.uk/ssi/2005/328/regulation/22/11) substituted (31.12.2020) by [The Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/59)](https://www.legislation.gov.uk/ssi/2019/59), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/b), [13(18)](https://www.legislation.gov.uk/ssi/2019/59/regulation/13/18); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5ba6a370a1e6e16024126fb39afa179b]: Textual amendment: Words in [reg. 22(11)](https://www.legislation.gov.uk/ssi/2005/328/regulation/22/11) substituted (31.12.2020) by [The Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/59)](https://www.legislation.gov.uk/ssi/2019/59), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/b), [13(18)](https://www.legislation.gov.uk/ssi/2019/59/regulation/13/18); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

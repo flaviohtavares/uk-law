@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 357JHC. Modifications of Chapter 4 of Part 5A[^key-226b53f1c7f86399b835159eab28b633][^key-daff5b22d7ee6f395950067d2a1daa9d]
+## 357JHC. Modifications of Chapter 4 of Part 5A[^c-226b53f1c7f86399b835159eab28b633][^c-daff5b22d7ee6f395950067d2a1daa9d]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-226b53f1c7f86399b835159eab28b633]: Textual amendment: Ss. 357JHA-357JHD and cross-heading inserted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 96](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/96)
+[^c-226b53f1c7f86399b835159eab28b633]: Textual amendment: Ss. 357JHA-357JHD and cross-heading inserted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 96](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/96)
 
-[^key-daff5b22d7ee6f395950067d2a1daa9d]: Textual amendment: Pt. 8B inserted (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [s. 1](https://www.legislation.gov.uk/ukpga/2015/21/section/1)
+[^c-daff5b22d7ee6f395950067d2a1daa9d]: Textual amendment: Pt. 8B inserted (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [s. 1](https://www.legislation.gov.uk/ukpga/2015/21/section/1)

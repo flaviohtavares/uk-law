@@ -27,7 +27,7 @@ summary: ''
 
 (2) The report may make recommendations about any matter arising from the investigation.
 
-(3)[^key-341b96d58915fbbcfacb3e72446a8a17] Regulations may make provision as to the procedures to be followed in relation to reports under this section and may in particular include provision—
+(3)[^c-341b96d58915fbbcfacb3e72446a8a17] Regulations may make provision as to the procedures to be followed in relation to reports under this section and may in particular include provision—
 
 - (a) enabling the Ombudsman to show any person a draft of the whole or any part of a report;
 - (b) enabling the Ombudsman to publish the whole or any part of a report;
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-341b96d58915fbbcfacb3e72446a8a17]: Commencement: [S. 40(3)](https://www.legislation.gov.uk/nia/2016/21/section/40/3) in operation at 1.9.2016 for specified purposes by [S.R. 2016/248](https://www.legislation.gov.uk/nisr/2016/248), [art. 3(e)](https://www.legislation.gov.uk/nisr/2016/248/article/3/e)
+[^c-341b96d58915fbbcfacb3e72446a8a17]: Commencement: [S. 40(3)](https://www.legislation.gov.uk/nia/2016/21/section/40/3) in operation at 1.9.2016 for specified purposes by [S.R. 2016/248](https://www.legislation.gov.uk/nisr/2016/248), [art. 3(e)](https://www.legislation.gov.uk/nisr/2016/248/article/3/e)

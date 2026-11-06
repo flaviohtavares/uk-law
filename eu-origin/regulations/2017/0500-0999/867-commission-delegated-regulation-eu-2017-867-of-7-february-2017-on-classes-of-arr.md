@@ -35,38 +35,38 @@ on classes of arrangements to be protected in a partial property transfer under 
 
 (Text with EEA relevance) (revoked)
 
-[^key-9471dd9eed96ea63d6b0431917a5fb7a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9471dd9eed96ea63d6b0431917a5fb7a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Definitions[^key-9471dd9eed96ea63d6b0431917a5fb7a]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Conditions relating to security arrangements, including securities financing transactions[^key-9471dd9eed96ea63d6b0431917a5fb7a]
+## Article 1. Definitions[^c-9471dd9eed96ea63d6b0431917a5fb7a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Conditions relating to set-off arrangements[^key-9471dd9eed96ea63d6b0431917a5fb7a]
+## Article 2. Conditions relating to security arrangements, including securities financing transactions[^c-9471dd9eed96ea63d6b0431917a5fb7a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Conditions relating to netting arrangements[^key-9471dd9eed96ea63d6b0431917a5fb7a]
+## Article 3. Conditions relating to set-off arrangements[^c-9471dd9eed96ea63d6b0431917a5fb7a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. General conditions applying to security arrangements, set-off and netting arrangements and structured finance arrangements[^key-9471dd9eed96ea63d6b0431917a5fb7a]
+## Article 4. Conditions relating to netting arrangements[^c-9471dd9eed96ea63d6b0431917a5fb7a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Conditions relating to structured finance arrangements, including securitisations and instruments used for hedging purposes[^key-9471dd9eed96ea63d6b0431917a5fb7a]
+## Article 5. General conditions applying to security arrangements, set-off and netting arrangements and structured finance arrangements[^c-9471dd9eed96ea63d6b0431917a5fb7a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Entry into force[^key-9471dd9eed96ea63d6b0431917a5fb7a]
+## Article 6. Conditions relating to structured finance arrangements, including securitisations and instruments used for hedging purposes[^c-9471dd9eed96ea63d6b0431917a5fb7a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9471dd9eed96ea63d6b0431917a5fb7a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 7. Entry into force[^c-9471dd9eed96ea63d6b0431917a5fb7a]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-9471dd9eed96ea63d6b0431917a5fb7a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9471dd9eed96ea63d6b0431917a5fb7a]: Textual amendment: Regulation revoked (31.12.2020) by [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [6(c)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/6/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9471dd9eed96ea63d6b0431917a5fb7a]: Textual amendment: Regulation revoked (31.12.2020) by [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [6(c)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/6/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

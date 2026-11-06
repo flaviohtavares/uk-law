@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 423. Duty to circulate copies of annual accounts and reports[^c19885601][^c19885421][^c19885101][^c19885461][^c20617101][^key-826033d65ad023f7c505666e1f5afb9c][^key-c9ce58345384547ac1550d66b3a840e1]
+## 423. Duty to circulate copies of annual accounts and reports[^c19885601][^c19885421][^c19885101][^c19885461][^c20617101][^c-826033d65ad023f7c505666e1f5afb9c][^c-c9ce58345384547ac1550d66b3a840e1]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,7 +37,7 @@ summary: ''
 
 (5) Where copies are sent out over a period of days, references in the Companies Acts to the day on which copies are sent out shall be read as references to the last day of that period.
 
-(6) This section has effect subject to section 426 (option to provide strategic report with supplementary material[^key-5a4f92a304cf05052547dc908d914d12]).
+(6) This section has effect subject to section 426 (option to provide strategic report with supplementary material[^c-5a4f92a304cf05052547dc908d914d12]).
 
 ## Annotations
 
@@ -51,10 +51,10 @@ summary: ''
 
 [^c20617101]: Modification: Ss. 418-469 applied (with modifications) (1.10.2009) by [The Unregistered Companies Regulations 2009 (S.I. 2009/2436)](https://www.legislation.gov.uk/uksi/2009/2436), [regs. 3-5](https://www.legislation.gov.uk/uksi/2009/2436/regulation/3), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/10) (with transitional provisions and savings in [regs. 7](https://www.legislation.gov.uk/uksi/2009/2436/regulation/7), [9](https://www.legislation.gov.uk/uksi/2009/2436/regulation/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/2436/schedule/2))
 
-[^key-826033d65ad023f7c505666e1f5afb9c]: Modification: Ss. 423-425 applied (with modifications) by S.I. 2009/2436, Sch 1 para. 10 (as amended (with application in accordance with reg. 1(3) of the amending S.I.) by [The Unregistered Companies (Amendment) Regulations 2013 (S.I. 2013/1972)](https://www.legislation.gov.uk/uksi/2013/1972), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1972/regulation/1/2), [2(2)(a))](https://www.legislation.gov.uk/uksi/2013/1972/regulation/2/2/a)
+[^c-826033d65ad023f7c505666e1f5afb9c]: Modification: Ss. 423-425 applied (with modifications) by S.I. 2009/2436, Sch 1 para. 10 (as amended (with application in accordance with reg. 1(3) of the amending S.I.) by [The Unregistered Companies (Amendment) Regulations 2013 (S.I. 2013/1972)](https://www.legislation.gov.uk/uksi/2013/1972), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1972/regulation/1/2), [2(2)(a))](https://www.legislation.gov.uk/uksi/2013/1972/regulation/2/2/a)
 
-[^key-c9ce58345384547ac1550d66b3a840e1]: Modification: S. 423 applied (with modifications) (1.10.2008) by [The Limited Liability Partnerships (Accounts and Audit) (Application of Companies Act 2006) Regulations 2008 (S.I. 2008/1911)](https://www.legislation.gov.uk/uksi/2008/1911), reg. 13 (as amended: (1.4.2019) by [The Companies (Directors Report) and Limited Liability Partnerships (Energy and Carbon Report) Regulations 2018 (S.I. 2018/1155)](https://www.legislation.gov.uk/uksi/2018/1155), [regs. 2](https://www.legislation.gov.uk/uksi/2018/1155/regulation/2), [12(3)](https://www.legislation.gov.uk/uksi/2018/1155/regulation/12/3); and (with effect for financial years beginning on or after 6.4.2021) by [The European Grouping of Territorial Cooperation and Limited Liability Partnerships etc. (Revocations and Amendments) (EU Exit) Regulations 2021 (S.I. 2021/153)](https://www.legislation.gov.uk/uksi/2021/153), [regs. 1](https://www.legislation.gov.uk/uksi/2021/153/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2021/153/regulation/6/3))
+[^c-c9ce58345384547ac1550d66b3a840e1]: Modification: S. 423 applied (with modifications) (1.10.2008) by [The Limited Liability Partnerships (Accounts and Audit) (Application of Companies Act 2006) Regulations 2008 (S.I. 2008/1911)](https://www.legislation.gov.uk/uksi/2008/1911), reg. 13 (as amended: (1.4.2019) by [The Companies (Directors Report) and Limited Liability Partnerships (Energy and Carbon Report) Regulations 2018 (S.I. 2018/1155)](https://www.legislation.gov.uk/uksi/2018/1155), [regs. 2](https://www.legislation.gov.uk/uksi/2018/1155/regulation/2), [12(3)](https://www.legislation.gov.uk/uksi/2018/1155/regulation/12/3); and (with effect for financial years beginning on or after 6.4.2021) by [The European Grouping of Territorial Cooperation and Limited Liability Partnerships etc. (Revocations and Amendments) (EU Exit) Regulations 2021 (S.I. 2021/153)](https://www.legislation.gov.uk/uksi/2021/153), [regs. 1](https://www.legislation.gov.uk/uksi/2021/153/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2021/153/regulation/6/3))
 
 [^c19885561]: Modification: S. 423(2)-(4) applied (6.4.2008) by [The Companies (Revision of Defective Accounts and Reports) Regulations 2008 (S.I. 2008/373)](https://www.legislation.gov.uk/uksi/2008/373), [reg. 12(3)](https://www.legislation.gov.uk/uksi/2008/373/regulation/12/3)
 
-[^key-5a4f92a304cf05052547dc908d914d12]: Textual amendment: Words in s. 423(6) substituted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Companies Act 2006 (Strategic Report and Directors' Report) Regulations 2013 (S.I. 2013/1970)](https://www.legislation.gov.uk/uksi/2013/1970), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/3), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2013/1970/schedule/paragraph/3)
+[^c-5a4f92a304cf05052547dc908d914d12]: Textual amendment: Words in s. 423(6) substituted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Companies Act 2006 (Strategic Report and Directors' Report) Regulations 2013 (S.I. 2013/1970)](https://www.legislation.gov.uk/uksi/2013/1970), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/3), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2013/1970/schedule/paragraph/3)

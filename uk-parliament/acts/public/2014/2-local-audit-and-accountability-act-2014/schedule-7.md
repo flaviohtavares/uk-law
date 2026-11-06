@@ -24,7 +24,7 @@ Section 24
 
 ### Public interest reports
 
-**1.**[^key-c00511d414dc9addcfe38d9c6515374c] (1) A local auditor of the accounts of a relevant authority must consider whether, in the public interest, the auditor should make a report on any matter coming to the auditor's notice during the audit and relating to the authority or an entity connected with the authority, so it can be considered in accordance with this Schedule or brought to the public's attention.
+**1.**[^c-c00511d414dc9addcfe38d9c6515374c] (1) A local auditor of the accounts of a relevant authority must consider whether, in the public interest, the auditor should make a report on any matter coming to the auditor's notice during the audit and relating to the authority or an entity connected with the authority, so it can be considered in accordance with this Schedule or brought to the public's attention.
 
 (2) A report under sub-paragraph (1) is referred to in this Act as a public interest report.
 
@@ -41,7 +41,7 @@ Section 24
 
 ### Written recommendations
 
-**2.**[^key-da81ce27e015e7cd5bb75357535d7f81] (1) A local auditor of the accounts of a relevant authority may make a written recommendation to the authority relating to the authority or an entity connected with it, so that the recommendation can be considered under this Schedule.
+**2.**[^c-da81ce27e015e7cd5bb75357535d7f81] (1) A local auditor of the accounts of a relevant authority may make a written recommendation to the authority relating to the authority or an entity connected with it, so that the recommendation can be considered under this Schedule.
 
 (2) A recommendation may be made during or at the end of an audit.
 
@@ -50,7 +50,7 @@ Section 24
 - (a) to the Secretary of State,
 - (b) where the recommendation relates to an entity connected with the relevant authority, to that entity and to any other relevant authority with which the entity is connected,
 - (c) where the relevant authority is itself a connected entity, to its related authority or authorities,
-- (d) where the relevant authority is a health service body[^key-2f377d587e9fc39380339e08f14f9973], to NHS England[^key-820c327b89329b7e45740983e01d9f4d], and
+- (d) where the relevant authority is a health service body[^c-2f377d587e9fc39380339e08f14f9973], to NHS England[^c-820c327b89329b7e45740983e01d9f4d], and
 - (e) where the relevant authority is—
   - (i) a functional body,
   - (ii) an entity connected with a functional body, or
@@ -69,7 +69,7 @@ Section 24
 
 ### Supply of public interest reports
 
-**3.**[^key-8e6599ba1e0a049e76ee784033f64abd] (1) If a local auditor makes a public interest report arising out of the audit of the accounts of a relevant authority, the auditor must send the report to—
+**3.**[^c-8e6599ba1e0a049e76ee784033f64abd] (1) If a local auditor makes a public interest report arising out of the audit of the accounts of a relevant authority, the auditor must send the report to—
 
 - (a) the authority, and
 - (b) where the report relates to an entity connected with the authority, to that entity and to any other relevant authority with which the entity is connected.
@@ -78,7 +78,7 @@ Section 24
 
 - (a) to the Secretary of State,
 - (b) where the relevant authority is itself a connected entity, to its related authority or authorities,
-- (c) where the relevant authority is a health service body[^key-3c4c28b361f49ead3a2e7f28d3adcd06], to NHS England, and
+- (c) where the relevant authority is a health service body[^c-3c4c28b361f49ead3a2e7f28d3adcd06], to NHS England, and
 - (d) where the relevant authority is—
   - (i) a functional body,
   - (ii) an entity connected with a functional body, or
@@ -96,7 +96,7 @@ Section 24
 
 ### Publicity for public interest reports
 
-**4.**[^key-5f1a4cca05559e2c6461953c152b2967] (1) This paragraph applies to a relevant authority if a local auditor has made a public interest report relating to the authority or an entity connected with it.
+**4.**[^c-5f1a4cca05559e2c6461953c152b2967] (1) This paragraph applies to a relevant authority if a local auditor has made a public interest report relating to the authority or an entity connected with it.
 
 (2) As soon as is practicable after receiving the report, the relevant authority must publish the report and a notice that—
 
@@ -129,17 +129,17 @@ Section 24
 (8) A relevant authority publishes a notice or report in accordance with this sub-paragraph if—
 
 - (a) in the case of an authority other than a health service body, it publishes the notice or report in such manner as it thinks is likely to bring the notice or report to the attention of persons who live in its area;
-- (b)[^key-6dbacdc640df94457957a03f6ef86a36] in the case of an integrated care board, it publishes the notice or report in such manner as it thinks is likely to bring the notice or report to the attention of—
+- (b)[^c-6dbacdc640df94457957a03f6ef86a36] in the case of an integrated care board, it publishes the notice or report in such manner as it thinks is likely to bring the notice or report to the attention of—
   - (i) the group of people for whom it has core responsibility, and
   - (ii) anyone who lives within its area but does not fall within sub-paragraph (i)
 - (c)[^M_F_e1f8fd9c-9228-49e6-fe64-e4e542038b3d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-bc5505a5847aa6fb9bebc5d8b2565601] in the case of an NHS trust, it publishes the notice in such manner as it thinks is likely to bring the notice to the attention of persons to whom the trust provides services for the purposes of the health service in England.
+- (d)[^c-bc5505a5847aa6fb9bebc5d8b2565601] in the case of an NHS trust, it publishes the notice in such manner as it thinks is likely to bring the notice to the attention of persons to whom the trust provides services for the purposes of the health service in England.
 
 (9) Nothing in this paragraph affects the operation of paragraph 9.
 
 ### Consideration of report or recommendation
 
-**5.**[^M_I_b196de84-18cf-46ac-89e7-f39b4fb044c8][^key-87165599652382283d2e263be4e32a8b][^key-dfb4b4c6d274a38ed444b2c63e3d50af] (1) Subject to sub-paragraphs (2) and (4), this paragraph applies to a relevant authority if—
+**5.**[^M_I_b196de84-18cf-46ac-89e7-f39b4fb044c8][^c-87165599652382283d2e263be4e32a8b][^c-dfb4b4c6d274a38ed444b2c63e3d50af] (1) Subject to sub-paragraphs (2) and (4), this paragraph applies to a relevant authority if—
 
 - (a) a local auditor has made a public interest report relating to the authority or an entity connected with it, or
 - (b) a local auditor has made a recommendation relating to the authority or an entity connected with it.
@@ -160,7 +160,7 @@ Section 24
 - (a) whether the report requires the authority to take any action or whether the recommendation is to be accepted, and
 - (b) what, if any, action to take in response to the report or recommendation.
 
-(7) Where the relevant authority is a police and crime commissioner , the Mayor’s Office for Policing and Crime[^key-a5cfd3f0263d575598955230151b1459] , a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004 or the London Fire Commissioner[^M_F_a738eeab-9203-4a0e-9c88-da36dd74733d], the authority must, before the end of the period of one month beginning with the day on which the report or recommendation was sent to the authority, decide—
+(7) Where the relevant authority is a police and crime commissioner , the Mayor’s Office for Policing and Crime[^c-a5cfd3f0263d575598955230151b1459] , a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004 or the London Fire Commissioner[^M_F_a738eeab-9203-4a0e-9c88-da36dd74733d], the authority must, before the end of the period of one month beginning with the day on which the report or recommendation was sent to the authority, decide—
 
 - (a) whether the report requires the authority to take any action or whether the recommendation is to be accepted, and
 - (b) what, if any, action to take in response to the report or recommendation.
@@ -184,7 +184,7 @@ Section 24
 
 ### Consideration of report or recommendation: Greater London Authority
 
-**6.**[^key-bf091829fbe2ecb01006b6b3537ea433] (1) This paragraph applies if—
+**6.**[^c-bf091829fbe2ecb01006b6b3537ea433] (1) This paragraph applies if—
 
 - (a) a local auditor has made a public interest report relating to the Greater London Authority (“**the Authority**”) or an entity connected with it, or
 - (b) a local auditor has made a recommendation relating to the Authority or an entity connected with it.
@@ -215,7 +215,7 @@ Section 24
 
 ### Bar on delegation of functions relating to meetings
 
-**7.**[^key-ee0f58c176fc3c08cb2a586025e4b879] (1) If a relevant authority is a local authority operating executive arrangements, the authority's functions under paragraph 5 are not the responsibility of an executive of the authority under those arrangements.
+**7.**[^c-ee0f58c176fc3c08cb2a586025e4b879] (1) If a relevant authority is a local authority operating executive arrangements, the authority's functions under paragraph 5 are not the responsibility of an executive of the authority under those arrangements.
 
 (2) If a relevant authority is a local authority within the meaning of section 101 of the Local Government Act 1972 (arrangements for discharge of functions), that section does not apply to its functions under paragraph 5.
 
@@ -227,7 +227,7 @@ Section 24
 
 ### Publicity for meetings
 
-**8.**[^key-cc2b34646ac01eff985be08754f9688b] (1) If a relevant authority is required to hold a meeting under paragraph 5, it must publish a notice in compliance with sub-paragraphs (2) to (4).
+**8.**[^c-cc2b34646ac01eff985be08754f9688b] (1) If a relevant authority is required to hold a meeting under paragraph 5, it must publish a notice in compliance with sub-paragraphs (2) to (4).
 
 (2) The notice must be published—
 
@@ -255,7 +255,7 @@ Section 24
 
 ### Access to meetings and documents
 
-**9.**[^key-f5ca61788c22432c6df841335c5f91d9] (1) Where a public interest report or a recommendation is to be considered under paragraph 5 by a relevant authority to which the Public Bodies (Admission to Meetings) Act 1960 applies, the report or recommendation is not to be excluded from the matter supplied under section 1(4)(b) of that Act (supply of agenda etc to newspapers).
+**9.**[^c-f5ca61788c22432c6df841335c5f91d9] (1) Where a public interest report or a recommendation is to be considered under paragraph 5 by a relevant authority to which the Public Bodies (Admission to Meetings) Act 1960 applies, the report or recommendation is not to be excluded from the matter supplied under section 1(4)(b) of that Act (supply of agenda etc to newspapers).
 
 (2) Part 5A (access to meetings and documents) of the Local Government Act 1972 applies to a meeting of the London Pensions Fund Authority under paragraph 5 as if the Authority were a principal council.
 
@@ -276,7 +276,7 @@ Section 24
 
 ### Publicity for decisions under paragraph 5 or 6
 
-**10.**[^key-7985d94cb7fae0839f34f7398433a027] (1) As soon as is practicable after making decisions under paragraph 5(6) or (7) or 6(6), a relevant authority must—
+**10.**[^c-7985d94cb7fae0839f34f7398433a027] (1) As soon as is practicable after making decisions under paragraph 5(6) or (7) or 6(6), a relevant authority must—
 
 - (a) notify the authority's local auditor of those decisions, and
 - (b) publish a notice containing a summary of those decisions which has been approved by the auditor.
@@ -298,42 +298,42 @@ Section 24
 
 ## Annotations
 
-[^key-c00511d414dc9addcfe38d9c6515374c]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2014/2/schedule/7/paragraph/1) in force at 1.4.2015 by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(p)](https://www.legislation.gov.uk/uksi/2015/841/article/3/p) (with [Sch. para. 1](https://www.legislation.gov.uk/uksi/2015/841/schedule/paragraph/1)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2)
+[^c-c00511d414dc9addcfe38d9c6515374c]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2014/2/schedule/7/paragraph/1) in force at 1.4.2015 by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(p)](https://www.legislation.gov.uk/uksi/2015/841/article/3/p) (with [Sch. para. 1](https://www.legislation.gov.uk/uksi/2015/841/schedule/paragraph/1)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2)
 
-[^key-da81ce27e015e7cd5bb75357535d7f81]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2014/2/schedule/7/paragraph/2) in force at 1.4.2015 by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(p)](https://www.legislation.gov.uk/uksi/2015/841/article/3/p) (with [Sch. para. 1](https://www.legislation.gov.uk/uksi/2015/841/schedule/paragraph/1)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2)
+[^c-da81ce27e015e7cd5bb75357535d7f81]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2014/2/schedule/7/paragraph/2) in force at 1.4.2015 by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(p)](https://www.legislation.gov.uk/uksi/2015/841/article/3/p) (with [Sch. para. 1](https://www.legislation.gov.uk/uksi/2015/841/schedule/paragraph/1)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2)
 
-[^key-2f377d587e9fc39380339e08f14f9973]: Textual amendment: Words in [Sch. 7 para. 2(3)(d)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/7/paragraph/2/3/d) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 7 para. 29(2)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/7/paragraph/29/2); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-2f377d587e9fc39380339e08f14f9973]: Textual amendment: Words in [Sch. 7 para. 2(3)(d)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/7/paragraph/2/3/d) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 7 para. 29(2)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/7/paragraph/29/2); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-820c327b89329b7e45740983e01d9f4d]: Textual amendment: Words in [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/2/schedule/7) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/1)[(2)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/2); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-820c327b89329b7e45740983e01d9f4d]: Textual amendment: Words in [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/2/schedule/7) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/1)[(2)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/2); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-8e6599ba1e0a049e76ee784033f64abd]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2014/2/schedule/7/paragraph/3) in force at 1.4.2015 by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(p)](https://www.legislation.gov.uk/uksi/2015/841/article/3/p) (with [Sch. para. 1](https://www.legislation.gov.uk/uksi/2015/841/schedule/paragraph/1)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2)
+[^c-8e6599ba1e0a049e76ee784033f64abd]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2014/2/schedule/7/paragraph/3) in force at 1.4.2015 by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(p)](https://www.legislation.gov.uk/uksi/2015/841/article/3/p) (with [Sch. para. 1](https://www.legislation.gov.uk/uksi/2015/841/schedule/paragraph/1)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2)
 
-[^key-3c4c28b361f49ead3a2e7f28d3adcd06]: Textual amendment: Words in [Sch. 7 para. 3(2)(c)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/7/paragraph/3/2/c) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 7 para. 29(3)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/7/paragraph/29/3); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-3c4c28b361f49ead3a2e7f28d3adcd06]: Textual amendment: Words in [Sch. 7 para. 3(2)(c)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/7/paragraph/3/2/c) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 7 para. 29(3)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/7/paragraph/29/3); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-5f1a4cca05559e2c6461953c152b2967]: Commencement: Sch. 7 para. 4 in force at 1.4.2015 by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(p)](https://www.legislation.gov.uk/uksi/2015/841/article/3/p) (with [Sch. para. 1](https://www.legislation.gov.uk/uksi/2015/841/schedule/paragraph/1)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2)
+[^c-5f1a4cca05559e2c6461953c152b2967]: Commencement: Sch. 7 para. 4 in force at 1.4.2015 by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(p)](https://www.legislation.gov.uk/uksi/2015/841/article/3/p) (with [Sch. para. 1](https://www.legislation.gov.uk/uksi/2015/841/schedule/paragraph/1)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2)
 
-[^key-6dbacdc640df94457957a03f6ef86a36]: Textual amendment: [Sch. 7 para. 4(8)(b)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/7/paragraph/4/8/b) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 217](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/217); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-6dbacdc640df94457957a03f6ef86a36]: Textual amendment: [Sch. 7 para. 4(8)(b)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/7/paragraph/4/8/b) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 217](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/217); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
 [^M_F_e1f8fd9c-9228-49e6-fe64-e4e542038b3d]: Textual amendment: Sch. 7 para. 4(8)(c) omitted (17.6.2021) by virtue of [NHS (Charitable Trusts Etc) Act 2016 (c. 10)](https://www.legislation.gov.uk/ukpga/2016/10), [s. 5(1)](https://www.legislation.gov.uk/ukpga/2016/10/section/5/1), [Sch. 1 para. 18(j)](https://www.legislation.gov.uk/ukpga/2016/10/schedule/1/paragraph/18/j); [S.I. 2021/712](https://www.legislation.gov.uk/uksi/2021/712), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/712/regulation/3/c)
 
-[^key-bc5505a5847aa6fb9bebc5d8b2565601]: Textual amendment: [Sch. 7 para. 4(8)(d)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/7/paragraph/4/8/d) inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 7 para. 29(4)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/7/paragraph/29/4); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-bc5505a5847aa6fb9bebc5d8b2565601]: Textual amendment: [Sch. 7 para. 4(8)(d)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/7/paragraph/4/8/d) inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 7 para. 29(4)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/7/paragraph/29/4); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
 [^M_I_b196de84-18cf-46ac-89e7-f39b4fb044c8]: Commencement: Sch. 7 para. 5 in force at 4.4.2014 for specified purposes by [S.I. 2014/900](https://www.legislation.gov.uk/uksi/2014/900), art. 2(k)
 
-[^key-87165599652382283d2e263be4e32a8b]: Commencement: Sch. 7 para. 5 in force at 1.4.2015 in so far as not already in force by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(p)](https://www.legislation.gov.uk/uksi/2015/841/article/3/p) (with [Sch. para. 1](https://www.legislation.gov.uk/uksi/2015/841/schedule/paragraph/1)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2)
+[^c-87165599652382283d2e263be4e32a8b]: Commencement: Sch. 7 para. 5 in force at 1.4.2015 in so far as not already in force by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(p)](https://www.legislation.gov.uk/uksi/2015/841/article/3/p) (with [Sch. para. 1](https://www.legislation.gov.uk/uksi/2015/841/schedule/paragraph/1)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2)
 
-[^key-dfb4b4c6d274a38ed444b2c63e3d50af]: Modification: Sch. 7 para. 5 applied (with modifications) (1.4.2015) by [The Public Interest Reports and Recommendations (Modification of Consideration Procedure) Regulations 2014 (S.I. 2014/1629)](https://www.legislation.gov.uk/uksi/2014/1629), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1629/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2014/1629/regulation/2), [3](https://www.legislation.gov.uk/uksi/2014/1629/regulation/3)
+[^c-dfb4b4c6d274a38ed444b2c63e3d50af]: Modification: Sch. 7 para. 5 applied (with modifications) (1.4.2015) by [The Public Interest Reports and Recommendations (Modification of Consideration Procedure) Regulations 2014 (S.I. 2014/1629)](https://www.legislation.gov.uk/uksi/2014/1629), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1629/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2014/1629/regulation/2), [3](https://www.legislation.gov.uk/uksi/2014/1629/regulation/3)
 
-[^key-a5cfd3f0263d575598955230151b1459]: Textual amendment: Words in Sch. 7 para. 5(7) substituted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 1 para. 97(3)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/97/3); S.I. 2017/399, reg. 2, Sch. para. 38
+[^c-a5cfd3f0263d575598955230151b1459]: Textual amendment: Words in Sch. 7 para. 5(7) substituted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 1 para. 97(3)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/97/3); S.I. 2017/399, reg. 2, Sch. para. 38
 
 [^M_F_a738eeab-9203-4a0e-9c88-da36dd74733d]: Textual amendment: Words in Sch. 7 para. 5(7) substituted (31.1.2017 for specified purposes, 1.4.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1/5/e), [Sch. 2 para. 122(3)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/122/3); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2018/227/regulation/4/c)
 
-[^key-bf091829fbe2ecb01006b6b3537ea433]: Commencement: [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2014/2/schedule/7/paragraph/6) in force at 1.4.2015 by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(p)](https://www.legislation.gov.uk/uksi/2015/841/article/3/p) (with [Sch. para. 1](https://www.legislation.gov.uk/uksi/2015/841/schedule/paragraph/1)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2)
+[^c-bf091829fbe2ecb01006b6b3537ea433]: Commencement: [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2014/2/schedule/7/paragraph/6) in force at 1.4.2015 by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(p)](https://www.legislation.gov.uk/uksi/2015/841/article/3/p) (with [Sch. para. 1](https://www.legislation.gov.uk/uksi/2015/841/schedule/paragraph/1)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2)
 
-[^key-ee0f58c176fc3c08cb2a586025e4b879]: Commencement: [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/2014/2/schedule/7/paragraph/7) in force at 1.4.2015 by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(p)](https://www.legislation.gov.uk/uksi/2015/841/article/3/p) (with [Sch. para. 1](https://www.legislation.gov.uk/uksi/2015/841/schedule/paragraph/1)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2)
+[^c-ee0f58c176fc3c08cb2a586025e4b879]: Commencement: [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/2014/2/schedule/7/paragraph/7) in force at 1.4.2015 by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(p)](https://www.legislation.gov.uk/uksi/2015/841/article/3/p) (with [Sch. para. 1](https://www.legislation.gov.uk/uksi/2015/841/schedule/paragraph/1)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2)
 
-[^key-cc2b34646ac01eff985be08754f9688b]: Commencement: [Sch. 7 para. 8](https://www.legislation.gov.uk/ukpga/2014/2/schedule/7/paragraph/8) in force at 1.4.2015 by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(p)](https://www.legislation.gov.uk/uksi/2015/841/article/3/p) (with [Sch. para. 1](https://www.legislation.gov.uk/uksi/2015/841/schedule/paragraph/1)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2)
+[^c-cc2b34646ac01eff985be08754f9688b]: Commencement: [Sch. 7 para. 8](https://www.legislation.gov.uk/ukpga/2014/2/schedule/7/paragraph/8) in force at 1.4.2015 by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(p)](https://www.legislation.gov.uk/uksi/2015/841/article/3/p) (with [Sch. para. 1](https://www.legislation.gov.uk/uksi/2015/841/schedule/paragraph/1)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2)
 
-[^key-f5ca61788c22432c6df841335c5f91d9]: Commencement: [Sch. 7 para. 9](https://www.legislation.gov.uk/ukpga/2014/2/schedule/7/paragraph/9) in force at 1.4.2015 by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(p)](https://www.legislation.gov.uk/uksi/2015/841/article/3/p) (with [Sch. para. 1](https://www.legislation.gov.uk/uksi/2015/841/schedule/paragraph/1)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2)
+[^c-f5ca61788c22432c6df841335c5f91d9]: Commencement: [Sch. 7 para. 9](https://www.legislation.gov.uk/ukpga/2014/2/schedule/7/paragraph/9) in force at 1.4.2015 by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(p)](https://www.legislation.gov.uk/uksi/2015/841/article/3/p) (with [Sch. para. 1](https://www.legislation.gov.uk/uksi/2015/841/schedule/paragraph/1)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2)
 
-[^key-7985d94cb7fae0839f34f7398433a027]: Commencement: [Sch. 7 para. 10](https://www.legislation.gov.uk/ukpga/2014/2/schedule/7/paragraph/10) in force at 1.4.2015 by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(p)](https://www.legislation.gov.uk/uksi/2015/841/article/3/p) (with [Sch. para. 1](https://www.legislation.gov.uk/uksi/2015/841/schedule/paragraph/1)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2)
+[^c-7985d94cb7fae0839f34f7398433a027]: Commencement: [Sch. 7 para. 10](https://www.legislation.gov.uk/ukpga/2014/2/schedule/7/paragraph/10) in force at 1.4.2015 by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(p)](https://www.legislation.gov.uk/uksi/2015/841/article/3/p) (with [Sch. para. 1](https://www.legislation.gov.uk/uksi/2015/841/schedule/paragraph/1)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2)

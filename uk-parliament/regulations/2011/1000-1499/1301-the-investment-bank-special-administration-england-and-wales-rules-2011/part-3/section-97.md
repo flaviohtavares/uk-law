@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 97. Correspondence instead of meetings[^key-310266ce10092ac2587b00d7197f593f]
+## 97. Correspondence instead of meetings[^c-310266ce10092ac2587b00d7197f593f]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-310266ce10092ac2587b00d7197f593f]: Commencement: [Rule 97](https://www.legislation.gov.uk/uksi/2011/1301/rule/97) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-310266ce10092ac2587b00d7197f593f]: Commencement: [Rule 97](https://www.legislation.gov.uk/uksi/2011/1301/rule/97) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

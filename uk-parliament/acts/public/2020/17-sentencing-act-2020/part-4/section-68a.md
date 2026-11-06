@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68A. Assaults on those providing a public service etc[^key-1cf9fe6cba66f0ab67fc52a008f0f388]
+## 68A. Assaults on those providing a public service etc[^c-1cf9fe6cba66f0ab67fc52a008f0f388]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1cf9fe6cba66f0ab67fc52a008f0f388]: Textual amendment: [S. 68A](https://www.legislation.gov.uk/ukpga/2020/17/section/68A) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 156](https://www.legislation.gov.uk/ukpga/2022/32/section/156), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(s)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/s)
+[^c-1cf9fe6cba66f0ab67fc52a008f0f388]: Textual amendment: [S. 68A](https://www.legislation.gov.uk/ukpga/2020/17/section/68A) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 156](https://www.legislation.gov.uk/ukpga/2022/32/section/156), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(s)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/s)

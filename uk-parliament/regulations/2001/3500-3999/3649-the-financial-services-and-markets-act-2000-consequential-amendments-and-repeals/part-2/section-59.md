@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Exceptions to rules relating to substantial property transactions involving directors[^key-37d25215d4d873d42afe32e5ebdd0b9b]
+## 59. Exceptions to rules relating to substantial property transactions involving directors[^c-37d25215d4d873d42afe32e5ebdd0b9b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In Article 329(4)[^f00063] of the 1986 Order (exceptions to rules in Article 328
 
 ## Annotations
 
-[^key-37d25215d4d873d42afe32e5ebdd0b9b]: Commencement: Art. 59 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-37d25215d4d873d42afe32e5ebdd0b9b]: Commencement: Art. 59 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00063]: Footnote: Inserted by the [Companies (No. 2) (NI) Order 1990 (NI 10)](https://www.legislation.gov.uk/nisi/1990/1504) article 78, Schedule 5.

@@ -31,7 +31,7 @@ summary: ''
 
 FEES AND CHARGES
 
-Measuring Instruments (EEC Requirements) (Verification Fees) Regulations (Northern Ireland) 2002 (revoked)[^key-7e7c04ef8c161b45326fb4c3efc04bc2]
+Measuring Instruments (EEC Requirements) (Verification Fees) Regulations (Northern Ireland) 2002 (revoked)[^c-7e7c04ef8c161b45326fb4c3efc04bc2]
 
 Made
 
@@ -41,48 +41,48 @@ Coming into operation
 
 4th November 2002
 
-[^key-7e7c04ef8c161b45326fb4c3efc04bc2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7e7c04ef8c161b45326fb4c3efc04bc2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-7e7c04ef8c161b45326fb4c3efc04bc2]
+## 1. Citation and commencement[^c-7e7c04ef8c161b45326fb4c3efc04bc2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation and saving[^key-7e7c04ef8c161b45326fb4c3efc04bc2]
+## 2. Revocation and saving[^c-7e7c04ef8c161b45326fb4c3efc04bc2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Interpretation[^key-7e7c04ef8c161b45326fb4c3efc04bc2]
+## 3. Interpretation[^c-7e7c04ef8c161b45326fb4c3efc04bc2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Fees relating to EEC initial verification[^key-7e7c04ef8c161b45326fb4c3efc04bc2]
+## 4. Fees relating to EEC initial verification[^c-7e7c04ef8c161b45326fb4c3efc04bc2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Fees relating to EC verification[^key-7e7c04ef8c161b45326fb4c3efc04bc2]
+## 5. Fees relating to EC verification[^c-7e7c04ef8c161b45326fb4c3efc04bc2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7e7c04ef8c161b45326fb4c3efc04bc2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7e7c04ef8c161b45326fb4c3efc04bc2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1[^key-7e7c04ef8c161b45326fb4c3efc04bc2]
+## SCHEDULE 1[^c-7e7c04ef8c161b45326fb4c3efc04bc2]
 
 regulation 4(1)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2[^key-7e7c04ef8c161b45326fb4c3efc04bc2]
+## SCHEDULE 2[^c-7e7c04ef8c161b45326fb4c3efc04bc2]
 
 regulation 5(1) and (2)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7e7c04ef8c161b45326fb4c3efc04bc2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7e7c04ef8c161b45326fb4c3efc04bc2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7e7c04ef8c161b45326fb4c3efc04bc2]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2002/309) revoked (29.12.2003) by [Measuring Instruments (EEC Requirements) (Verification Fees) Regulations (Northern Ireland) 2003 (S.R. 2003/491)](https://www.legislation.gov.uk/nisr/2003/491), [regs. 1](https://www.legislation.gov.uk/nisr/2003/491/regulation/1), [2(1)](https://www.legislation.gov.uk/nisr/2003/491/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/nisr/2003/491/regulation/2/2))
+[^c-7e7c04ef8c161b45326fb4c3efc04bc2]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2002/309) revoked (29.12.2003) by [Measuring Instruments (EEC Requirements) (Verification Fees) Regulations (Northern Ireland) 2003 (S.R. 2003/491)](https://www.legislation.gov.uk/nisr/2003/491), [regs. 1](https://www.legislation.gov.uk/nisr/2003/491/regulation/1), [2(1)](https://www.legislation.gov.uk/nisr/2003/491/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/nisr/2003/491/regulation/2/2))

@@ -89,11 +89,11 @@ Section 33(4)
 |  |  | (d) in paragraph (k), the words “49 or 50”. |
 |  |  | Section 92(3). |
 |  |  | In section 150(1), the definition of “affiliation order”. |
-| 1981 c. 54. | The Senior Courts Act 1981[^key-9b125187656ef677b8947dcbb2096e62]. | In Schedule 1, in paragraph 3(b)(iii), the words “affiliation or”. |
+| 1981 c. 54. | The Senior Courts Act 1981[^c-9b125187656ef677b8947dcbb2096e62]. | In Schedule 1, in paragraph 3(b)(iii), the words “affiliation or”. |
 | 1982 c. 24. | The Social Security and Housing Benefits Act 1982. | In Schedule 4, paragraph 1. |
 | 1986 c. 50. | The Social Security Act 1986. | In section 24, subsections (2) and (3). |
 |  |  | Section 25. |
 
 ## Annotations
 
-[^key-9b125187656ef677b8947dcbb2096e62]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/1/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+[^c-9b125187656ef677b8947dcbb2096e62]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/1/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 37A. Fixed penalty notices for certain offences.[^c10050321][^key-26da7969131f7812d9d8ab2850867e54]
+## 37A. Fixed penalty notices for certain offences.[^c10050321][^c-26da7969131f7812d9d8ab2850867e54]
 
 *Extent: E+W*
 
-(1) Where on any occasion a water bailiff or other officer of the appropriate agency[^key-7a2441a3944c7e959bb3f3dacfc5af52] finds a person who he has reason to believe is committing, or has on that occasion committed, a fixed penalty offence, he may give to that person a notice (in this section referred to as a “ **fixed penalty notice** ”) offering him the opportunity of discharging any liability to conviction for that offence by payment of a fixed penalty.
+(1) Where on any occasion a water bailiff or other officer of the appropriate agency[^c-7a2441a3944c7e959bb3f3dacfc5af52] finds a person who he has reason to believe is committing, or has on that occasion committed, a fixed penalty offence, he may give to that person a notice (in this section referred to as a “ **fixed penalty notice** ”) offering him the opportunity of discharging any liability to conviction for that offence by payment of a fixed penalty.
 
 (2) Where a person is given a fixed penalty notice in respect of a fixed penalty offence—
 
@@ -36,7 +36,7 @@ summary: ''
 
 (5) The amount by which the sums received by the Agency by way of fixed penalties exceed the sums repaid by it under subsection (4)(a) above shall be paid into the Consolidated Fund.
 
-(5A)[^key-86b4b1c43b334eacea2889aaba00389b] The amount by which the sums received by the Natural Resources Body for Wales by way of fixed penalties exceed the sums repaid by it under subsection (4)(a) above shall be paid into the Welsh Consolidated Fund.
+(5A)[^c-86b4b1c43b334eacea2889aaba00389b] The amount by which the sums received by the Natural Resources Body for Wales by way of fixed penalties exceed the sums repaid by it under subsection (4)(a) above shall be paid into the Welsh Consolidated Fund.
 
 (6) In any proceedings, a certificate purporting to be signed by or on behalf of the Chief Executive of the appropriate agency and stating either—
 
@@ -105,11 +105,11 @@ shall be received as evidence of the matters so stated and shall be treated, wit
 
 [^c10050321]: Textual amendment: S. 37A inserted (1.4.1996) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 104(1)](https://www.legislation.gov.uk/ukpga/1995/25/section/104/1) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1996/186](https://www.legislation.gov.uk/uksi/1996/186), [art. 3](https://www.legislation.gov.uk/uksi/1996/186/article/3)
 
-[^key-26da7969131f7812d9d8ab2850867e54]: Modification: S. 37A functions transferred (W.) (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [15(1)](https://www.legislation.gov.uk/uksi/2018/644/article/15/1)
+[^c-26da7969131f7812d9d8ab2850867e54]: Modification: S. 37A functions transferred (W.) (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [15(1)](https://www.legislation.gov.uk/uksi/2018/644/article/15/1)
 
-[^key-7a2441a3944c7e959bb3f3dacfc5af52]: Textual amendment: Words in s. 37A substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 147(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/147/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-7a2441a3944c7e959bb3f3dacfc5af52]: Textual amendment: Words in s. 37A substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 147(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/147/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-86b4b1c43b334eacea2889aaba00389b]: Textual amendment: S. 37A(5A) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 147(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/147/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-86b4b1c43b334eacea2889aaba00389b]: Textual amendment: S. 37A(5A) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 147(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/147/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c10050331]: Marginal citation: [1986 c. 62](https://www.legislation.gov.uk/ukpga/1986/62).
 

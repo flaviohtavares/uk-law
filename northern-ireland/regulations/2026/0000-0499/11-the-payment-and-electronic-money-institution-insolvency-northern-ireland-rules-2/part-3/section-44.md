@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 44. Quorum at meetings[^key-c45bb2585e94a60b4cabdb5846cda5d1]
+## 44. Quorum at meetings[^c-c45bb2585e94a60b4cabdb5846cda5d1]
 
 *Extent: N.I.*
 
@@ -40,4 +40,4 @@ the meeting must not commence until at least the expiry of 15 minutes after the 
 
 ## Annotations
 
-[^key-c45bb2585e94a60b4cabdb5846cda5d1]: Commencement: [Rule 44](https://www.legislation.gov.uk/nisr/2026/11/rule/44) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-c45bb2585e94a60b4cabdb5846cda5d1]: Commencement: [Rule 44](https://www.legislation.gov.uk/nisr/2026/11/rule/44) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

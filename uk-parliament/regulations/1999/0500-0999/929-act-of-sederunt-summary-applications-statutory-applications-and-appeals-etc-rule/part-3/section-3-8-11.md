@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.8.11. Appeal against community care order[^key-b6c2136510575152522e3d629c6ecd87]
+## 3.8.11. Appeal against community care order[^c-b6c2136510575152522e3d629c6ecd87]
 
 *Extent: S*
 
@@ -24,6 +24,6 @@ An application by way of appeal for the revocation of a community care order und
 
 ## Annotations
 
-[^key-b6c2136510575152522e3d629c6ecd87]: Commencement: Rule 3.8.11 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-b6c2136510575152522e3d629c6ecd87]: Commencement: Rule 3.8.11 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
 
 [^f00045]: Footnote: Section 35F was inserted by the Mental Health (Patients in the Community) Act [1995 (c. 52)](https://www.legislation.gov.uk/ukpga/1995/52), section 4.

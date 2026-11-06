@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 19 — INDUSTRIAL EMISSIONS ACTIVITIES[^key-3c24ead3312c37127458f19993bb25ad]
+## SCHEDULE 19 — INDUSTRIAL EMISSIONS ACTIVITIES[^c-3c24ead3312c37127458f19993bb25ad]
 
 *Extent: S*
 
@@ -210,4 +210,4 @@ SEPA must consider, in determining an application for an authorisation for a new
 
 ## Annotations
 
-[^key-3c24ead3312c37127458f19993bb25ad]: Textual amendment: [Sch. 19](https://www.legislation.gov.uk/ssi/2018/219/schedule/19) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 10](https://www.legislation.gov.uk/ssi/2025/165/schedule/10) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-3c24ead3312c37127458f19993bb25ad]: Textual amendment: [Sch. 19](https://www.legislation.gov.uk/ssi/2018/219/schedule/19) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 10](https://www.legislation.gov.uk/ssi/2025/165/schedule/10) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 64. Regulation-making powers[^key-5aa8bf20b551ef6ecdff1c991818e5a5]
+## 64. Regulation-making powers[^c-5aa8bf20b551ef6ecdff1c991818e5a5]
 
 *Extent: S*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5aa8bf20b551ef6ecdff1c991818e5a5]: Commencement: S. 64 in force at 7.8.2025, see [s. 66(1)](https://www.legislation.gov.uk/asp/2025/11/section/66/1)
+[^c-5aa8bf20b551ef6ecdff1c991818e5a5]: Commencement: S. 64 in force at 7.8.2025, see [s. 66(1)](https://www.legislation.gov.uk/asp/2025/11/section/66/1)

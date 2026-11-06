@@ -50,7 +50,7 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by section 220(2) of the Local Government and Public Involvement in Health Act 2007[^f00001], makes the following Regulations:
 
-## 1. Commencement, citation and interpretation[^key-85396e312ac8d8ccf0ee3e5449b0010a]
+## 1. Commencement, citation and interpretation[^c-85396e312ac8d8ccf0ee3e5449b0010a]
 
 (1) These Regulations may be cited as the Valuation Tribunal for England (Membership and Transitional Provisions) Regulations 2009 and shall come into force on 30th September 2009.
 
@@ -65,7 +65,7 @@ The Secretary of State, in exercise of the powers conferred by section 220(2) of
   - (d) in relation to a conviction in the Isle of Man, means a conviction that is a spent conviction for the purposes of the Rehabilitation of Offenders Act 2001; and
 - “the VTE” means the Valuation Tribunal for England.
 
-## 2. Presidents and chairmen of existing English tribunals to become members of VTE and chairmen’s panel[^key-7d26df963c3f0bf02da84f9eda89833b]
+## 2. Presidents and chairmen of existing English tribunals to become members of VTE and chairmen’s panel[^c-7d26df963c3f0bf02da84f9eda89833b]
 
 (1) On 1st October 2009 each person who, immediately before that date, is a chairman of an existing English tribunal (whether by virtue of holding office as president or otherwise)[^f00004] shall become a member of the VTE and a member of the panel of chairmen referred to in paragraph A4(c) of Schedule 11 to the 1988 Act[^f00005].
 
@@ -76,7 +76,7 @@ The Secretary of State, in exercise of the powers conferred by section 220(2) of
 - (c) whose office as president or appointment as a chairman of any such tribunal has been terminated by a notice that has effect on that date; or
 - (d) who has not accepted in writing the terms and conditions of membership of the VTE determined by the Secretary of State.
 
-## 3. Other members of existing English tribunals to become members of the VTE[^key-436a0de4d39f1ce2e5706d2995844c7b]
+## 3. Other members of existing English tribunals to become members of the VTE[^c-436a0de4d39f1ce2e5706d2995844c7b]
 
 (1) On 1st October 2009 each person who, immediately before that date, is a member, but not a chairman of an existing English tribunal[^f00006], shall, become a member of the VTE.
 
@@ -87,7 +87,7 @@ The Secretary of State, in exercise of the powers conferred by section 220(2) of
 - (c) whose appointment as a member has been terminated by a notice that has effect on that date;
 - (d) who has not accepted in writing the terms and conditions of membership of the VTE determined by the Secretary of State.
 
-## 4. Disqualifications relevant to regulations 2 and 3, etc[^key-04ab1a02b9ba5d12f2794c2a8953845d]
+## 4. Disqualifications relevant to regulations 2 and 3, etc[^c-04ab1a02b9ba5d12f2794c2a8953845d]
 
 (1) This paragraph applies to a person (“P”) if—
 
@@ -114,7 +114,7 @@ The Secretary of State, in exercise of the powers conferred by section 220(2) of
 
 (6) P shall not be disqualified for being a member of the VTE by reason only of being a member of an authority which derives revenue directly or indirectly from payments in respect of council tax or non-domestic rates which may be affected by the exercise of P’s functions as a member.
 
-## 5. Disqualification: general[^key-c303eccad4db1fb2141f683610a63ea9]
+## 5. Disqualification: general[^c-c303eccad4db1fb2141f683610a63ea9]
 
 (1) After 1st October 2009, a person (“M”) shall be disqualified for membership of the VTE if—
 
@@ -146,7 +146,7 @@ The Secretary of State, in exercise of the powers conferred by section 220(2) of
 
 (7) M shall not be disqualified for being a member of the VTE by reason only of M being a member of an authority which derives revenue directly or indirectly from payments in respect of council tax or non-domestic rates which may be affected by the exercise of M’s functions as a member.
 
-## 6. Transfer of jurisdiction to the VTE: transitional provision[^key-03ab87f8092936e539237e5b0408c05c]
+## 6. Transfer of jurisdiction to the VTE: transitional provision[^c-03ab87f8092936e539237e5b0408c05c]
 
 (1) Where, immediately before 1st October 2009, an appeal relating to a matter in respect of which jurisdiction is transferred to the VTE on 1st October 2009 is part-heard by an existing English tribunal (“the original tribunal”), the President shall, as soon as practicable after 1st October 2009, make the necessary arrangements for the hearing of the appeal to be completed.
 
@@ -187,7 +187,7 @@ the President shall, as soon as practicable after 1st October 2009, make the nec
 
 so far as is required for enabling the hearing to be completed, the matter to be reconsidered, the decision to be reviewed or the appeal to be considered.
 
-## 7. Transfer of records and other documents[^key-817c649f88d85d4426bd5669fa850e65]
+## 7. Transfer of records and other documents[^c-817c649f88d85d4426bd5669fa850e65]
 
 All records and other documents held immediately before 1st October 2009 by an existing English tribunal and relating to—
 
@@ -230,23 +230,23 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00001]: Footnote: [2007 c.28](https://www.legislation.gov.uk/ukpga/2007/28).
 
-[^key-85396e312ac8d8ccf0ee3e5449b0010a]: Commencement: Reg. 1 in force at 30.9.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2267/regulation/1/1)
+[^c-85396e312ac8d8ccf0ee3e5449b0010a]: Commencement: Reg. 1 in force at 30.9.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2267/regulation/1/1)
 
 [^f00002]: Footnote: [1974 c.53](https://www.legislation.gov.uk/ukpga/1974/53).
 
 [^f00003]: Footnote: [S.I. 1978/1908 (N.I. 27)](https://www.legislation.gov.uk/nisi/1978/1908).
 
-[^key-7d26df963c3f0bf02da84f9eda89833b]: Commencement: Reg. 2 in force at 30.9.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2267/regulation/1/1)
+[^c-7d26df963c3f0bf02da84f9eda89833b]: Commencement: Reg. 2 in force at 30.9.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2267/regulation/1/1)
 
 [^f00004]: Footnote: For the definition of “existing English tribunals” *see* section 219(3) of the Local Government and Public Involvement in Health Act 2007. By virtue of regulation 8(2) of [S.I. 1989/439](https://www.legislation.gov.uk/uksi/1989/439) a person who holds office as president of an existing English tribunal is also a chairman of that tribunal. Regulation 8(2) was substituted by regulation 7(1) of [S.I. 1995/363](https://www.legislation.gov.uk/uksi/1995/363).
 
 [^f00005]: Footnote: Paragraph A4 was inserted by the Local Government and Public Involvement in Health Act 2007, Schedule 15, paragraphs 1 and 2.
 
-[^key-436a0de4d39f1ce2e5706d2995844c7b]: Commencement: Reg. 3 in force at 30.9.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2267/regulation/1/1)
+[^c-436a0de4d39f1ce2e5706d2995844c7b]: Commencement: Reg. 3 in force at 30.9.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2267/regulation/1/1)
 
 [^f00006]: Footnote: By virtue of regulation 7(2) of [S.I. 1989/439](https://www.legislation.gov.uk/uksi/1989/439), the president of an existing English tribunal must be a member of it. The chairmen of an existing English tribunal (other than the president) are elected from among the persons who are members of the tribunal; *see* regulation 8(2) of [S.I. 1989/439](https://www.legislation.gov.uk/uksi/1989/439), substituted by [S.I. 1995/363](https://www.legislation.gov.uk/uksi/1995/363).
 
-[^key-04ab1a02b9ba5d12f2794c2a8953845d]: Commencement: Reg. 4 in force at 30.9.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2267/regulation/1/1)
+[^c-04ab1a02b9ba5d12f2794c2a8953845d]: Commencement: Reg. 4 in force at 30.9.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2267/regulation/1/1)
 
 [^f00007]: Footnote: *See* the definition of “Tribunal’s staff” in paragraph A20(e) of Schedule 11 to the 1988 Act, inserted by the Local Government and Public Involvement in Health Act 2007, Schedule 15, paragraphs 1 and 2.
 
@@ -254,12 +254,12 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00009]: Footnote: Section 78A is inserted by section 198 of the Local Government and Public Involvement in Health Act 2007. *See also* [S.I. 2008/2938](https://www.legislation.gov.uk/uksi/2008/2938).
 
-[^key-c303eccad4db1fb2141f683610a63ea9]: Commencement: Reg. 5 in force at 30.9.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2267/regulation/1/1)
+[^c-c303eccad4db1fb2141f683610a63ea9]: Commencement: Reg. 5 in force at 30.9.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2267/regulation/1/1)
 
-[^key-03ab87f8092936e539237e5b0408c05c]: Commencement: Reg. 6 in force at 30.9.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2267/regulation/1/1)
+[^c-03ab87f8092936e539237e5b0408c05c]: Commencement: Reg. 6 in force at 30.9.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2267/regulation/1/1)
 
 [^f00010]: Footnote: For the transfer of jurisdiction of existing English tribunals, see paragraph A2 of Schedule 11 to the Local Government Finance Act [1988 (c.41)](https://www.legislation.gov.uk/ukpga/1988/41), inserted by paragraph 2 of Schedule 15 to the Local Government and Public Involvement in Health Act [2007 (c.28)](https://www.legislation.gov.uk/ukpga/2007/28)
 
 [^f00011]: Footnote: [S.I. 2009/2269](https://www.legislation.gov.uk/uksi/2009/2269).
 
-[^key-817c649f88d85d4426bd5669fa850e65]: Commencement: Reg. 7 in force at 30.9.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2267/regulation/1/1)
+[^c-817c649f88d85d4426bd5669fa850e65]: Commencement: Reg. 7 in force at 30.9.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2267/regulation/1/1)

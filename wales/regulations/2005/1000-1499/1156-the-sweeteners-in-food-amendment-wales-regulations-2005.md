@@ -31,7 +31,7 @@ summary: ''
 
 FOOD, WALES
 
-The Sweeteners in Food (Amendment) (Wales) Regulations 2005 (revoked)[^key-5f534c022e8a411e8f14f4cf9c5c991f]
+The Sweeteners in Food (Amendment) (Wales) Regulations 2005 (revoked)[^c-5f534c022e8a411e8f14f4cf9c5c991f]
 
 Made
 
@@ -41,44 +41,44 @@ Coming into force
 
 30 April 2005
 
-[^key-5f534c022e8a411e8f14f4cf9c5c991f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5f534c022e8a411e8f14f4cf9c5c991f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-5f534c022e8a411e8f14f4cf9c5c991f]
+## 1. Title, commencement and application[^c-5f534c022e8a411e8f14f4cf9c5c991f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Sweeteners in Food Regulations 1995[^key-5f534c022e8a411e8f14f4cf9c5c991f]
+## 2. Amendments to the Sweeteners in Food Regulations 1995[^c-5f534c022e8a411e8f14f4cf9c5c991f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-5f534c022e8a411e8f14f4cf9c5c991f]
+## 3.[^c-5f534c022e8a411e8f14f4cf9c5c991f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-5f534c022e8a411e8f14f4cf9c5c991f]
+## 4.[^c-5f534c022e8a411e8f14f4cf9c5c991f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-5f534c022e8a411e8f14f4cf9c5c991f]
+## 5.[^c-5f534c022e8a411e8f14f4cf9c5c991f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-5f534c022e8a411e8f14f4cf9c5c991f]
+## 6.[^c-5f534c022e8a411e8f14f4cf9c5c991f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7.[^key-5f534c022e8a411e8f14f4cf9c5c991f]
+## 7.[^c-5f534c022e8a411e8f14f4cf9c5c991f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5f534c022e8a411e8f14f4cf9c5c991f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5f534c022e8a411e8f14f4cf9c5c991f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-5f534c022e8a411e8f14f4cf9c5c991f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5f534c022e8a411e8f14f4cf9c5c991f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5f534c022e8a411e8f14f4cf9c5c991f]: Textual amendment: Regulations revoked (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1), [Sch. 3](https://www.legislation.gov.uk/wsi/2018/806/schedule/3)
+[^c-5f534c022e8a411e8f14f4cf9c5c991f]: Textual amendment: Regulations revoked (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1), [Sch. 3](https://www.legislation.gov.uk/wsi/2018/806/schedule/3)

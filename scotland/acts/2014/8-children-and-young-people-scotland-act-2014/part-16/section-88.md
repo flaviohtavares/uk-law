@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 88. Area support teams: establishment[^key-234a5fd0ea079420ad5d66224ed4c39b]
+## 88. Area support teams: establishment[^c-234a5fd0ea079420ad5d66224ed4c39b]
 
 *Extent: S*
 
@@ -67,4 +67,4 @@ summary: ''
 
 ## Annotations
 
-[^key-234a5fd0ea079420ad5d66224ed4c39b]: Commencement: [S. 88](https://www.legislation.gov.uk/asp/2014/8/section/88) in force at 26.1.2015 by [S.S.I. 2014/353](https://www.legislation.gov.uk/ssi/2014/353), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/353/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2014/353/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/353/schedule)
+[^c-234a5fd0ea079420ad5d66224ed4c39b]: Commencement: [S. 88](https://www.legislation.gov.uk/asp/2014/8/section/88) in force at 26.1.2015 by [S.S.I. 2014/353](https://www.legislation.gov.uk/ssi/2014/353), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/353/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2014/353/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/353/schedule)

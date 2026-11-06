@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Variation or revocation of freezing orders[^key-b356c0fa1d5c90b0288849f8c4782dfb]
+## 12. Variation or revocation of freezing orders[^c-b356c0fa1d5c90b0288849f8c4782dfb]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b356c0fa1d5c90b0288849f8c4782dfb]: Commencement: S. 12 in force at 19.10.2009 by [S.I. 2009/2605](https://www.legislation.gov.uk/uksi/2009/2605), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/2605/article/2/a)
+[^c-b356c0fa1d5c90b0288849f8c4782dfb]: Commencement: S. 12 in force at 19.10.2009 by [S.I. 2009/2605](https://www.legislation.gov.uk/uksi/2009/2605), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/2605/article/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49. Proxy postal voters list[^key-7093852b0ca0a4ad07c774e5e54d8db9]
+## 49. Proxy postal voters list[^c-7093852b0ca0a4ad07c774e5e54d8db9]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7093852b0ca0a4ad07c774e5e54d8db9]: Commencement: [Reg. 49](https://www.legislation.gov.uk/uksi/2006/2910/regulation/49) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
+[^c-7093852b0ca0a4ad07c774e5e54d8db9]: Commencement: [Reg. 49](https://www.legislation.gov.uk/uksi/2006/2910/regulation/49) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
 
 [^f00071]: Footnote: Paragraph (7) of regulation 72 was inserted by [S.I. 2002/1871](https://www.legislation.gov.uk/uksi/2002/1871).

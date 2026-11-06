@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 14. Live links for patients detained in hospital[^key-3251cb17a7a1d6fede0136153d557f0b]
+## 14. Live links for patients detained in hospital[^c-3251cb17a7a1d6fede0136153d557f0b]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3251cb17a7a1d6fede0136153d557f0b]: Textual amendment: [S. 14](https://www.legislation.gov.uk/nia/2011/24/section/14) repealed (29.4.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 9 Pt. 4](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/4); [S.R. 2016/136](https://www.legislation.gov.uk/nisr/2016/136), [art. 4(e)(ii)](https://www.legislation.gov.uk/nisr/2016/136/article/4/e/ii)
+[^c-3251cb17a7a1d6fede0136153d557f0b]: Textual amendment: [S. 14](https://www.legislation.gov.uk/nia/2011/24/section/14) repealed (29.4.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 9 Pt. 4](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/4); [S.R. 2016/136](https://www.legislation.gov.uk/nisr/2016/136), [art. 4(e)(ii)](https://www.legislation.gov.uk/nisr/2016/136/article/4/e/ii)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 86. Claim for early payment of full retirement pension otherwise than on grounds of permanent medical unfitness (deferred members)[^key-e7a94df7d2159d1fc31c174b746b7f5c]
+## 86. Claim for early payment of full retirement pension otherwise than on grounds of permanent medical unfitness (deferred members)[^c-e7a94df7d2159d1fc31c174b746b7f5c]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e7a94df7d2159d1fc31c174b746b7f5c]: Commencement: Reg. 86 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-e7a94df7d2159d1fc31c174b746b7f5c]: Commencement: Reg. 86 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

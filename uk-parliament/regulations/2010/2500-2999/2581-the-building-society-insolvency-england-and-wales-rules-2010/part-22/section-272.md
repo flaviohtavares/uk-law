@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 272. The Gazette[^key-0778493217994d04c3c463a6536071d5]
+## 272. The Gazette[^c-0778493217994d04c3c463a6536071d5]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 12.20 of the 1986 Rules.
 
 ## Annotations
 
-[^key-0778493217994d04c3c463a6536071d5]: Commencement: Rule 272 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-0778493217994d04c3c463a6536071d5]: Commencement: Rule 272 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

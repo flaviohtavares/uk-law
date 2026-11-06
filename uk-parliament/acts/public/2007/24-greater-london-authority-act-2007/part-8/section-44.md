@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44. The Mayor's adaptation to climate change strategy for London[^key-d6b9ab9b612c3f1207ce6f02eaade6d5]
+## 44. The Mayor's adaptation to climate change strategy for London[^c-d6b9ab9b612c3f1207ce6f02eaade6d5]
 
 *Extent: E+W*
 
@@ -77,4 +77,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d6b9ab9b612c3f1207ce6f02eaade6d5]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2007/24/section/44) in force at 21.1.2008 by [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(i)](https://www.legislation.gov.uk/uksi/2008/113/article/2/i)
+[^c-d6b9ab9b612c3f1207ce6f02eaade6d5]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2007/24/section/44) in force at 21.1.2008 by [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(i)](https://www.legislation.gov.uk/uksi/2008/113/article/2/i)

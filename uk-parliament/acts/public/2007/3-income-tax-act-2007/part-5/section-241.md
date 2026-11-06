@@ -22,7 +22,7 @@ summary: ''
 
 (1) This section applies if the issuing company has provided an officer of Revenue and Customs with a compliance statement in respect of an issue of shares and an event occurs as a result of which—
 
-- (za)[^key-7af05c62a54b6e00d8acd7b9d019beb0] a requirement of any of the following provisions is not met in respect of the shares included in the issue, or would not be met if EIS relief had been obtained in respect of those shares—
+- (za)[^c-7af05c62a54b6e00d8acd7b9d019beb0] a requirement of any of the following provisions is not met in respect of the shares included in the issue, or would not be met if EIS relief had been obtained in respect of those shares—
   - (i) section 173A (the maximum amount raised annually through risk finance investments),
   - (ii) section 173AA (the maximum amount raised through risk finance investments at the issue date),
   - (iii) section 173AB (the maximum amount raised through finance investments during period B),
@@ -65,4 +65,4 @@ the notice must include particulars of that receipt of replacement value (or exp
 
 ## Annotations
 
-[^key-7af05c62a54b6e00d8acd7b9d019beb0]: Textual amendment: [S. 241(1)(za)](https://www.legislation.gov.uk/ukpga/2007/3/section/241/1/za) inserted (with effect in accordance with Sch. 5 para. 23 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 5 para. 16](https://www.legislation.gov.uk/ukpga/2015/33/schedule/5/paragraph/16)
+[^c-7af05c62a54b6e00d8acd7b9d019beb0]: Textual amendment: [S. 241(1)(za)](https://www.legislation.gov.uk/ukpga/2007/3/section/241/1/za) inserted (with effect in accordance with Sch. 5 para. 23 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 5 para. 16](https://www.legislation.gov.uk/ukpga/2015/33/schedule/5/paragraph/16)

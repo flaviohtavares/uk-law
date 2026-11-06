@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Power to lease wharfs, warehouses, &c.[^c559435][^key-e3be5ad4f182672b7dc59e5f708fcb1f]
+## 23. Power to lease wharfs, warehouses, &c.[^c559435][^c-e3be5ad4f182672b7dc59e5f708fcb1f]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ The undertakers may lease or grant the use or occupation of any warehouses, buil
 
 [^c559435]: Modification: S. 23 excluded (8.7.1996) by [S.I. 1996/1627](https://www.legislation.gov.uk/uksi/1996/1627), [art. 41(2)](https://www.legislation.gov.uk/uksi/1996/1627/article/41/2)
 
-[^key-e3be5ad4f182672b7dc59e5f708fcb1f]: Modification: S. 23 excluded (E.W.S.) (17.3.2010) by [The Harwich Parkeston Quay Harbour Revision Order 2010 (S.I. 2010/626)](https://www.legislation.gov.uk/uksi/2010/626), [arts. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1), [15(3)](https://www.legislation.gov.uk/uksi/2010/626/article/15/3) (with [art. 20](https://www.legislation.gov.uk/uksi/2010/626/article/20))
+[^c-e3be5ad4f182672b7dc59e5f708fcb1f]: Modification: S. 23 excluded (E.W.S.) (17.3.2010) by [The Harwich Parkeston Quay Harbour Revision Order 2010 (S.I. 2010/626)](https://www.legislation.gov.uk/uksi/2010/626), [arts. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1), [15(3)](https://www.legislation.gov.uk/uksi/2010/626/article/15/3) (with [art. 20](https://www.legislation.gov.uk/uksi/2010/626/article/20))

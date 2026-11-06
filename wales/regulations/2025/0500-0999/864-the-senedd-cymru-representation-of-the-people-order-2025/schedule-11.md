@@ -22,7 +22,7 @@ summary: ''
 
 Article 146
 
-### 1. The Senedd and Elections (Wales) Act 2020[^key-531098301cf9ae2ee770084b2db8f23e]
+### 1. The Senedd and Elections (Wales) Act 2020[^c-531098301cf9ae2ee770084b2db8f23e]
 
 (1) The Senedd and Elections (Wales) Act 2020[^f00133] is amended as follows.
 
@@ -42,7 +42,7 @@ Article 146
 
   .
 
-### 2. The Elections Act 2022[^key-f1f3eb44e5ce241668cb61d4138fe5b3]
+### 2. The Elections Act 2022[^c-f1f3eb44e5ce241668cb61d4138fe5b3]
 
 (1) The Elections Act 2022[^f00134] is amended as follows.
 
@@ -51,7 +51,7 @@ Article 146
 - (a) for “The National Assembly for Wales (Representation of the People) Order 2007 ([S.I. 2007/236](https://www.legislation.gov.uk/uksi/2007/236))” substitute “The Senedd Cymru (Representation of the People) Order 2025 ([S.I. 2025/864](https://www.legislation.gov.uk/uksi/2025/864)) (W. 150)”;
 - (b) for “article 76(12)” substitute “article 78(13)”.
 
-### 3. The Representation of the People (England and Wales) Regulations 2001[^key-ecc7d31f5098a2b774bd273fad715a2e]
+### 3. The Representation of the People (England and Wales) Regulations 2001[^c-ecc7d31f5098a2b774bd273fad715a2e]
 
 For Part 8 of the Representation of the People (England and Wales) Regulations 2001[^f00135] substitute—
 
@@ -105,7 +105,7 @@ For Part 8 of the Representation of the People (England and Wales) Regulations 2
 >
 > and any like terms are to be construed accordingly.
 
-### 4. The Police and Crime Commissioner Elections Order 2012[^key-2755385fad4fdacaeb185b0a80c6a0fd]
+### 4. The Police and Crime Commissioner Elections Order 2012[^c-2755385fad4fdacaeb185b0a80c6a0fd]
 
 (1) The Police and Crime Commissioner Elections Order 2012[^f00139] is amended as follows.
 
@@ -131,7 +131,7 @@ For Part 8 of the Representation of the People (England and Wales) Regulations 2
 
 (7) In paragraph 48 of Schedule 4, for “paragraph 2 of Schedule 3 to the 2007 Order”, in both places it occurs, substitute “paragraph 2 of Schedule 2 to the 2025 Order”.
 
-### 5. The Police and Crime Commissioner Elections (Functions of Returning Officers) Regulations 2012[^key-667b06fb16fb969d18e739ca36f56b2c]
+### 5. The Police and Crime Commissioner Elections (Functions of Returning Officers) Regulations 2012[^c-667b06fb16fb969d18e739ca36f56b2c]
 
 (1) The Police and Crime Commissioner Elections (Functions of Returning Officers) Regulations 2012[^f00140] are amended as follows.
 
@@ -156,15 +156,15 @@ For Part 8 of the Representation of the People (England and Wales) Regulations 2
 
 ## Annotations
 
-[^key-531098301cf9ae2ee770084b2db8f23e]: Commencement: Sch. 11 para. 1 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-531098301cf9ae2ee770084b2db8f23e]: Commencement: Sch. 11 para. 1 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
 [^f00133]: Footnote: [2020 anaw 1](https://www.legislation.gov.uk/anaw/2020/1).
 
-[^key-f1f3eb44e5ce241668cb61d4138fe5b3]: Commencement: Sch. 11 para. 2 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-f1f3eb44e5ce241668cb61d4138fe5b3]: Commencement: Sch. 11 para. 2 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
 [^f00134]: Footnote: [2022 c. 37](https://www.legislation.gov.uk/ukpga/2022/37).
 
-[^key-ecc7d31f5098a2b774bd273fad715a2e]: Commencement: Sch. 11 para. 3 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-ecc7d31f5098a2b774bd273fad715a2e]: Commencement: Sch. 11 para. 3 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
 [^f00135]: Footnote: [S.I. 2001/341](https://www.legislation.gov.uk/uksi/2001/341). Part 8 was inserted by [S.I. 2007/1368](https://www.legislation.gov.uk/uksi/2007/1368) and was subsequently amended by [S.I. 2008/1901](https://www.legislation.gov.uk/uksi/2008/1901) and [S.I. 2016/272](https://www.legislation.gov.uk/uksi/2016/272).
 
@@ -174,10 +174,10 @@ For Part 8 of the Representation of the People (England and Wales) Regulations 2
 
 [^f00138]: Footnote: The functions of the Secretary of State in section 52 of the Representation of the People Act 1983, insofar as they are exercisable within devolved competence, were transferred to the Welsh Ministers by article 45 of, and paragraph 1 of Schedule 1 to, the Welsh Ministers (Transfer of Functions) Order 2018 ([S.I. 2018/644](https://www.legislation.gov.uk/uksi/2018/644)).
 
-[^key-2755385fad4fdacaeb185b0a80c6a0fd]: Commencement: Sch. 11 para. 4 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-2755385fad4fdacaeb185b0a80c6a0fd]: Commencement: Sch. 11 para. 4 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
 [^f00139]: Footnote: [S.I. 2012/1917](https://www.legislation.gov.uk/uksi/2012/1917). Relevant provisions were inserted by [S.I. 2016/300](https://www.legislation.gov.uk/uksi/2016/300) and have been subsequently amended by [S.I 2022/1382](https://www.legislation.gov.uk/uksi/2022/1382) and [S.I. 2023/1225](https://www.legislation.gov.uk/uksi/2023/1225).
 
-[^key-667b06fb16fb969d18e739ca36f56b2c]: Commencement: Sch. 11 para. 5 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-667b06fb16fb969d18e739ca36f56b2c]: Commencement: Sch. 11 para. 5 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
 [^f00140]: Footnote: [S.I. 2012/1918](https://www.legislation.gov.uk/uksi/2012/1918). Relevant provisions were inserted by [S.I. 2016/300](https://www.legislation.gov.uk/uksi/2016/300).

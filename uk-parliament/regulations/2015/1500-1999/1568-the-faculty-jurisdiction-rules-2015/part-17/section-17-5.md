@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England.
 
-## 17.5. Deemed time of submission, filing and service[^key-88c3aef0177acb686704cdb362a97b92]
+## 17.5. Deemed time of submission, filing and service[^c-88c3aef0177acb686704cdb362a97b92]
 
 *Extent: E*
 
-A document is deemed to have been submitted, filed , received[^key-49e21413aeef99c7ed49937a2c02196a] or served under these Rules on the day shown in the following table—
+A document is deemed to have been submitted, filed , received[^c-49e21413aeef99c7ed49937a2c02196a] or served under these Rules on the day shown in the following table—
 
-| Method | Deemed date of submission receipt[^key-f0c6eb83adf8f351d1ee7066db31fa2c], filing or service |
+| Method | Deemed date of submission receipt[^c-f0c6eb83adf8f351d1ee7066db31fa2c], filing or service |
 | --- | --- |
 |  |  |
 | First class post (or other service which provides for delivery on the next business day) | The second day after it was posted, left with, delivered to or collected by the relevant service provider provided that day is a business day; or, if not, the next business day after that day |
@@ -38,8 +38,8 @@ A document is deemed to have been submitted, filed , received[^key-49e21413aeef9
 
 ## Annotations
 
-[^key-88c3aef0177acb686704cdb362a97b92]: Commencement: [Rule 17.5](https://www.legislation.gov.uk/uksi/2015/1568/article/17.5) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-88c3aef0177acb686704cdb362a97b92]: Commencement: [Rule 17.5](https://www.legislation.gov.uk/uksi/2015/1568/article/17.5) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
 
-[^key-49e21413aeef99c7ed49937a2c02196a]: Textual amendment: Words in [rule 17.5](https://www.legislation.gov.uk/uksi/2015/1568/rule/17.5) inserted (1.4.2020) by [The Faculty Jurisdiction (Amendment) Rules 2019 (S.I. 2019/1184)](https://www.legislation.gov.uk/uksi/2019/1184), [rules 1(2)](https://www.legislation.gov.uk/uksi/2019/1184/rule/1/2), [17(b)(i)](https://www.legislation.gov.uk/uksi/2019/1184/rule/17/b/i)
+[^c-49e21413aeef99c7ed49937a2c02196a]: Textual amendment: Words in [rule 17.5](https://www.legislation.gov.uk/uksi/2015/1568/rule/17.5) inserted (1.4.2020) by [The Faculty Jurisdiction (Amendment) Rules 2019 (S.I. 2019/1184)](https://www.legislation.gov.uk/uksi/2019/1184), [rules 1(2)](https://www.legislation.gov.uk/uksi/2019/1184/rule/1/2), [17(b)(i)](https://www.legislation.gov.uk/uksi/2019/1184/rule/17/b/i)
 
-[^key-f0c6eb83adf8f351d1ee7066db31fa2c]: Textual amendment: Word in [rule 17](https://www.legislation.gov.uk/uksi/2015/1568/rule/17).5 table inserted (1.4.2020) by [The Faculty Jurisdiction (Amendment) Rules 2019 (S.I. 2019/1184)](https://www.legislation.gov.uk/uksi/2019/1184), [rules 1(2)](https://www.legislation.gov.uk/uksi/2019/1184/rule/1/2), [17(b)(ii)](https://www.legislation.gov.uk/uksi/2019/1184/rule/17/b/ii)
+[^c-f0c6eb83adf8f351d1ee7066db31fa2c]: Textual amendment: Word in [rule 17](https://www.legislation.gov.uk/uksi/2015/1568/rule/17).5 table inserted (1.4.2020) by [The Faculty Jurisdiction (Amendment) Rules 2019 (S.I. 2019/1184)](https://www.legislation.gov.uk/uksi/2019/1184), [rules 1(2)](https://www.legislation.gov.uk/uksi/2019/1184/rule/1/2), [17(b)(ii)](https://www.legislation.gov.uk/uksi/2019/1184/rule/17/b/ii)

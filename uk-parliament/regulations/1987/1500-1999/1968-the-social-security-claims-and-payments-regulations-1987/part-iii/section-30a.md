@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 30A. Payments of arrears of joint-claim jobseeker’s allowance where the nominated person can no longer be traced[^key-bbf575d7bd4fdb9b75866f316dbf2284]
+## 30A. Payments of arrears of joint-claim jobseeker’s allowance where the nominated person can no longer be traced[^c-bbf575d7bd4fdb9b75866f316dbf2284]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ arrears on the award of joint-claim jobseeker’s allowance shall be paid to the
 
 ## Annotations
 
-[^key-bbf575d7bd4fdb9b75866f316dbf2284]: Textual amendment: Reg. 30A inserted (19.3.2001) by [The Social Security Amendment (Joint Claims) Regulations 2001 (S.I. 2001/518)](https://www.legislation.gov.uk/uksi/2001/518), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/518/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2001/518/regulation/5)
+[^c-bbf575d7bd4fdb9b75866f316dbf2284]: Textual amendment: Reg. 30A inserted (19.3.2001) by [The Social Security Amendment (Joint Claims) Regulations 2001 (S.I. 2001/518)](https://www.legislation.gov.uk/uksi/2001/518), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/518/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2001/518/regulation/5)

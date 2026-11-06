@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 38. Clergy (Widows and Dependants) Pensions Fund[^key-46990059be99d776436447ff292b2aa9]
+## 38. Clergy (Widows and Dependants) Pensions Fund[^c-46990059be99d776436447ff292b2aa9]
 
 *Extent: E*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-46990059be99d776436447ff292b2aa9]: Textual amendment: S. 38 repealed (14.5.2021) by [The Legislative Reform (Church of England Pensions) Order 2021 (S.I. 2021/554)](https://www.legislation.gov.uk/uksi/2021/554), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/554/article/1/3), [4(1)](https://www.legislation.gov.uk/uksi/2021/554/article/4/1)
+[^c-46990059be99d776436447ff292b2aa9]: Textual amendment: S. 38 repealed (14.5.2021) by [The Legislative Reform (Church of England Pensions) Order 2021 (S.I. 2021/554)](https://www.legislation.gov.uk/uksi/2021/554), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/554/article/1/3), [4(1)](https://www.legislation.gov.uk/uksi/2021/554/article/4/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45B. Carry forward of post-1 April 2017 trade loss against trade profits[^key-3dae2ad9d792a6cd0460297a35321a6e][^M_C_20475135-5a93-4514-cf8f-0adea938e20d]
+## 45B. Carry forward of post-1 April 2017 trade loss against trade profits[^c-3dae2ad9d792a6cd0460297a35321a6e][^M_C_20475135-5a93-4514-cf8f-0adea938e20d]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3dae2ad9d792a6cd0460297a35321a6e]: Textual amendment: Ss. 45A-45H inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 11](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/11)
+[^c-3dae2ad9d792a6cd0460297a35321a6e]: Textual amendment: Ss. 45A-45H inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 11](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/11)
 
 [^M_C_20475135-5a93-4514-cf8f-0adea938e20d]: Modification: S. 45B(2) applied (with effect in accordance with Sch. 4 para. 190 of the amending Act) by 2009 c. 4, s. 1048(5B)-(4D) (as inserted) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), Sch. 4 para. 190

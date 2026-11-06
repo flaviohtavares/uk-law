@@ -25,7 +25,7 @@ summary: ''
 - (a) has incurred expenditure in carrying out works which are rendered abortive by the fact that any further works have ceased to be so authorised; or
 - (b) has otherwise sustained loss or damage which is directly attributable to that fact;
 
-[^key-a90bd3f4d8137bce5ff2fae1e7b879b2]... the Commission[^c250815] shall pay to that person compensation in respect of that expenditure, loss or damage.
+[^c-a90bd3f4d8137bce5ff2fae1e7b879b2]... the Commission[^c250815] shall pay to that person compensation in respect of that expenditure, loss or damage.
 
 (2) Subsection (1) above only applies where the works cease to be authorised under this Part of this Act—
 
@@ -66,7 +66,7 @@ the Secretary of State or Historic Environment Scotland[^V_S_749f93d2-edaa-10c4-
 
 [^M_E_8a4cc050-4c46-41ba-9205-154c24790246]: Extent: This version of this provision extends to England and Wales only; a separate version has been created for Scotland only
 
-[^key-a90bd3f4d8137bce5ff2fae1e7b879b2]: Textual amendment: Words in [s. 9(1)](https://www.legislation.gov.uk/ukpga/1979/46/section/9/1) omitted (E.W.) (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 27](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/27) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+[^c-a90bd3f4d8137bce5ff2fae1e7b879b2]: Textual amendment: Words in [s. 9(1)](https://www.legislation.gov.uk/ukpga/1979/46/section/9/1) omitted (E.W.) (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 27](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/27) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
 
 [^c250815]: Textual amendment: Words inserted by [National Heritage Act 1983 (c. 47, SIF 78)](https://www.legislation.gov.uk/ukpga/1983/47), [s. 41](https://www.legislation.gov.uk/ukpga/1983/47/section/41), [Sch. 4 para. 35](https://www.legislation.gov.uk/ukpga/1983/47/schedule/4/paragraph/35)
 

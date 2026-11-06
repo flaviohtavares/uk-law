@@ -47,17 +47,17 @@ Coming into force
 
 The Welsh Ministers make the following regulations in exercise of the power conferred on them by sections 79C and 104(4) of the Children Act 1989[^f00001].
 
-## 1. Title, commencement and application[^key-0a9d6765b97ee4923b5fe792ebb907b0]
+## 1. Title, commencement and application[^c-0a9d6765b97ee4923b5fe792ebb907b0]
 
 (1) The title of these Regulations is the Children Act 1989 (Amendment of Miscellaneous Regulations) (No.2) (Wales) Regulations 2009 and they come into force on 20 January 2010.
 
 (2) These Regulations apply in relation to Wales.
 
-## 2. Amendment of the Child Minding and Day Care (Wales) Regulations 2002[^key-f6f7e6e50e445e86f9db1e4d16dc3983][^f00002]
+## 2. Amendment of the Child Minding and Day Care (Wales) Regulations 2002[^c-f6f7e6e50e445e86f9db1e4d16dc3983][^f00002]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Registration of Social Care and Independent Health Care (Wales) Regulations 2002[^key-dffc9d545de56a2d14e06ca4f44774fc][^f00003]
+## 3. Amendment of the Registration of Social Care and Independent Health Care (Wales) Regulations 2002[^c-dffc9d545de56a2d14e06ca4f44774fc][^f00003]
 
 (1) The Registration of Social Care and Independent Health Care (Wales) Regulations 2002 are amended in accordance with the following provisions of this regulation.
 
@@ -71,7 +71,7 @@ The Welsh Ministers make the following regulations in exercise of the power conf
 
 (6) In Schedule 8 paragraph 5 substitute “a body corporate” for “an organisation”.
 
-## 4. Revocation[^key-7b379032e705ce2fe991596c9231f681]
+## 4. Revocation[^c-7b379032e705ce2fe991596c9231f681]
 
 The Children Act 1989 (Amendment of Miscellaneous Regulations) (Wales) Regulations 2009[^f00004] are revoked.
 
@@ -91,16 +91,16 @@ The Children Act 2004 extended the meaning of “organisation” in the Children
 
 [^f00001]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41). Section 79C was inserted by section 79 of the Care Standards Act [2000 (c. 14)](https://www.legislation.gov.uk/ukpga/2000/14).
 
-[^key-0a9d6765b97ee4923b5fe792ebb907b0]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2009/3265/regulation/1) in force at 20.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/3265/regulation/1/1)
+[^c-0a9d6765b97ee4923b5fe792ebb907b0]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2009/3265/regulation/1) in force at 20.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/3265/regulation/1/1)
 
-[^key-f6f7e6e50e445e86f9db1e4d16dc3983]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/wsi/2009/3265/regulation/2) revoked (1.4.2011) by [The Child Minding and Day Care (Wales) Regulations 2010 (S.I. 2010/2574)](https://www.legislation.gov.uk/wsi/2010/2574), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2010/2574/regulation/1/1), [Sch. 6](https://www.legislation.gov.uk/wsi/2010/2574/schedule/6)
+[^c-f6f7e6e50e445e86f9db1e4d16dc3983]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/wsi/2009/3265/regulation/2) revoked (1.4.2011) by [The Child Minding and Day Care (Wales) Regulations 2010 (S.I. 2010/2574)](https://www.legislation.gov.uk/wsi/2010/2574), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2010/2574/regulation/1/1), [Sch. 6](https://www.legislation.gov.uk/wsi/2010/2574/schedule/6)
 
 [^f00002]: Footnote: S.I. [2002/812 (W.92)](https://www.legislation.gov.uk/wsi/2002/812).
 
-[^key-dffc9d545de56a2d14e06ca4f44774fc]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2009/3265/regulation/3) in force at 20.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/3265/regulation/1/1)
+[^c-dffc9d545de56a2d14e06ca4f44774fc]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2009/3265/regulation/3) in force at 20.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/3265/regulation/1/1)
 
 [^f00003]: Footnote: S.I. [2002/919 (W.107)](https://www.legislation.gov.uk/wsi/2002/919).
 
-[^key-7b379032e705ce2fe991596c9231f681]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2009/3265/regulation/4) in force at 20.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/3265/regulation/1/1)
+[^c-7b379032e705ce2fe991596c9231f681]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2009/3265/regulation/4) in force at 20.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/3265/regulation/1/1)
 
 [^f00004]: Footnote: S.I. [2009/3041 (W.265)](https://www.legislation.gov.uk/wsi/2009/3041).

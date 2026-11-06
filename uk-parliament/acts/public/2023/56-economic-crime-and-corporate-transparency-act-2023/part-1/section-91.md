@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91. Protecting information on the register[^key-ee363daf994708f05f121fa8792e12ff][^key-875dd6653a75e4e11cfb689b5c4d747f]
+## 91. Protecting information on the register[^c-ee363daf994708f05f121fa8792e12ff][^c-875dd6653a75e4e11cfb689b5c4d747f]
 
 *Extent: E+W+S+N.I.*
 
@@ -83,6 +83,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ee363daf994708f05f121fa8792e12ff]: Commencement: S. 91 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-ee363daf994708f05f121fa8792e12ff]: Commencement: S. 91 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-875dd6653a75e4e11cfb689b5c4d747f]: Commencement: [S. 91](https://www.legislation.gov.uk/ukpga/2023/56/section/91) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z33)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z33)
+[^c-875dd6653a75e4e11cfb689b5c4d747f]: Commencement: [S. 91](https://www.legislation.gov.uk/ukpga/2023/56/section/91) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z33)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z33)

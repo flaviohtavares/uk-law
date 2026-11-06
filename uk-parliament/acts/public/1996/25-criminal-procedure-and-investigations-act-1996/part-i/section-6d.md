@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## (not yet in force: 6D). (not yet in force: Notification of names of experts instructed by accused)[^c18987811][^key-8c1811d7ba0c092c4e68960ff664e626]
+## (not yet in force: 6D). (not yet in force: Notification of names of experts instructed by accused)[^c18987811][^c-8c1811d7ba0c092c4e68960ff664e626]
 
 *Extent: E+W+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 [^c18987811]: Textual amendment: S. 6D inserted (prosp.) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [ss. 35](https://www.legislation.gov.uk/ukpga/2003/44/section/35), [336](https://www.legislation.gov.uk/ukpga/2003/44/section/336)
 
-[^key-8c1811d7ba0c092c4e68960ff664e626]: Modification: Pt. I power to apply (with modifications) conferred by SI 2015/1490 rule 23.2 Note (as inserted (2.4.2018) by [The Criminal Procedure (Amendment) Rules 2018 (S.I. 2018/132)](https://www.legislation.gov.uk/uksi/2018/132), [rules 1](https://www.legislation.gov.uk/uksi/2018/132/rule/1), [11(a)(v)](https://www.legislation.gov.uk/uksi/2018/132/rule/11/a/v))
+[^c-8c1811d7ba0c092c4e68960ff664e626]: Modification: Pt. I power to apply (with modifications) conferred by SI 2015/1490 rule 23.2 Note (as inserted (2.4.2018) by [The Criminal Procedure (Amendment) Rules 2018 (S.I. 2018/132)](https://www.legislation.gov.uk/uksi/2018/132), [rules 1](https://www.legislation.gov.uk/uksi/2018/132/rule/1), [11(a)(v)](https://www.legislation.gov.uk/uksi/2018/132/rule/11/a/v))

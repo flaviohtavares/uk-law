@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 172. Annual report on security of energy supplies[^key-ef4f965607c318aa077e81e6da923e7e][^key-80ac0680b77fc8a46e05630cb044cd80][^key-e3fbf9874d0e06ac672993772902d700]
+## 172. Annual report on security of energy supplies[^c-ef4f965607c318aa077e81e6da923e7e][^c-80ac0680b77fc8a46e05630cb044cd80][^c-e3fbf9874d0e06ac672993772902d700]
 
 *Extent: E+W+S*
 
@@ -32,7 +32,7 @@ summary: ''
 - (c) the availability of capacity in infrastructure in Great Britain for use in connection with the introduction of gas into licensed pipe-line systems in Great Britain; and
 - (d) the availability of capacity in those systems for conveying gas to consumers in Great Britain.
 
-(2A)[^key-2a59e89296b8b7f4abc304a09f1933a1] In 2012 and in every subsequent calendar year the report must also include, in particular, as regards each of the assessment periods, an assessment by the Secretary of State of what electricity supply capacity is required.
+(2A)[^c-2a59e89296b8b7f4abc304a09f1933a1] In 2012 and in every subsequent calendar year the report must also include, in particular, as regards each of the assessment periods, an assessment by the Secretary of State of what electricity supply capacity is required.
 
 (2B) For the purposes of subsection (2A) the electricity supply capacity required is the capacity required for the purpose of meeting the demands of consumers for the supply of electricity in Great Britain, including spare capacity to allow for unexpected demands or unexpected loss of capacity.
 
@@ -67,13 +67,13 @@ summary: ''
 
 ## Annotations
 
-[^key-ef4f965607c318aa077e81e6da923e7e]: Commencement: S. 172 in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-ef4f965607c318aa077e81e6da923e7e]: Commencement: S. 172 in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-80ac0680b77fc8a46e05630cb044cd80]: Modification: S. 172: power to amend conferred (18.12.2013) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [ss. 38(b)](https://www.legislation.gov.uk/ukpga/2013/32/section/38/b), [156(3)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/3)
+[^c-80ac0680b77fc8a46e05630cb044cd80]: Modification: S. 172: power to amend conferred (18.12.2013) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [ss. 38(b)](https://www.legislation.gov.uk/ukpga/2013/32/section/38/b), [156(3)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/3)
 
-[^key-e3fbf9874d0e06ac672993772902d700]: Modification: Ss. 171-196: power to apply (with modifications) conferred (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l), [Sch. 18 para. 50](https://www.legislation.gov.uk/ukpga/2023/52/schedule/18/paragraph/50)
+[^c-e3fbf9874d0e06ac672993772902d700]: Modification: Ss. 171-196: power to apply (with modifications) conferred (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l), [Sch. 18 para. 50](https://www.legislation.gov.uk/ukpga/2023/52/schedule/18/paragraph/50)
 
-[^key-2a59e89296b8b7f4abc304a09f1933a1]: Textual amendment: S. 172(2A)-(2D) inserted (18.12.2011) by [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [ss. 80(2)](https://www.legislation.gov.uk/ukpga/2011/16/section/80/2), [121(3)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/3)
+[^c-2a59e89296b8b7f4abc304a09f1933a1]: Textual amendment: S. 172(2A)-(2D) inserted (18.12.2011) by [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [ss. 80(2)](https://www.legislation.gov.uk/ukpga/2011/16/section/80/2), [121(3)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/3)
 
 [^M_F_3f96cf6f-576f-4f2b-8a7b-08f950a66962]: Textual amendment: Words in s. 172(3) inserted (18.12.2011) by [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [ss. 80(3)](https://www.legislation.gov.uk/ukpga/2011/16/section/80/3), [121(3)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/3)
 

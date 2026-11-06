@@ -42,7 +42,7 @@ A Measure of the National Assembly for Wales to make provision for children to h
 
 ### Special educational needs appeals
 
-#### 1. Right of a child to appeal in respect of special educational needs[^key-b9ee0508561cabd2b911406512dc38bb]
+#### 1. Right of a child to appeal in respect of special educational needs[^c-b9ee0508561cabd2b911406512dc38bb]
 
 (1) The Education Act 1996 (c. 56) is amended in accordance with this section.
 
@@ -70,7 +70,7 @@ A Measure of the National Assembly for Wales to make provision for children to h
 
 .
 
-#### 2. Notice and service of documents[^key-9d2fb78b16546596a94497af379d7c4a]
+#### 2. Notice and service of documents[^c-9d2fb78b16546596a94497af379d7c4a]
 
 (1) The Education Act 1996 (c. 56) is amended in accordance with this section.
 
@@ -78,7 +78,7 @@ A Measure of the National Assembly for Wales to make provision for children to h
 
 > **332ZB. Notice and service of documents on a child**
 >
-> (1) This section applies if a local authority[^key-0aa6458f485369372f2a3a505f8ada5f] in Wales is required to give notice to or serve a document on a parent of a child under any of the following provisions—
+> (1) This section applies if a local authority[^c-0aa6458f485369372f2a3a505f8ada5f] in Wales is required to give notice to or serve a document on a parent of a child under any of the following provisions—
 >
 > - (a) section 325 (appeal against decision not to make statement);
 > - (b) section 328 (reviews of educational needs);
@@ -97,7 +97,7 @@ A Measure of the National Assembly for Wales to make provision for children to h
 
 .
 
-#### 3. Case friends[^key-c28f55db56528c6c7b79030f49c93890]
+#### 3. Case friends[^c-c28f55db56528c6c7b79030f49c93890]
 
 (1) The Education Act 1996 (c. 56) is amended in accordance with this section.
 
@@ -127,7 +127,7 @@ A Measure of the National Assembly for Wales to make provision for children to h
 
 .
 
-#### 4. Advice and information[^key-af1fc46c059b375eb8a1e2d0e2b893e8]
+#### 4. Advice and information[^c-af1fc46c059b375eb8a1e2d0e2b893e8]
 
 (1) The Education Act 1996 (c. 56) is amended in accordance with this section.
 
@@ -157,7 +157,7 @@ A Measure of the National Assembly for Wales to make provision for children to h
 
 .
 
-#### 5. Resolution of disputes[^key-59d16e498be26982f93183111bf2556d]
+#### 5. Resolution of disputes[^c-59d16e498be26982f93183111bf2556d]
 
 (1) Section 332B of the Education Act 1996 (c. 56) is amended in accordance with subsection (2).
 
@@ -211,7 +211,7 @@ A Measure of the National Assembly for Wales to make provision for children to h
 
 .
 
-#### 6. Independent advocacy services[^key-024da83f5895c38653f2cc16b93202b6]
+#### 6. Independent advocacy services[^c-024da83f5895c38653f2cc16b93202b6]
 
 (1) The Education Act 1996 (c. 56) is amended in accordance with this section.
 
@@ -251,7 +251,7 @@ A Measure of the National Assembly for Wales to make provision for children to h
 
 .
 
-#### 7. Tribunal procedure[^key-edc848c8faec7a99ba72069b984e4b40]
+#### 7. Tribunal procedure[^c-edc848c8faec7a99ba72069b984e4b40]
 
 (1) Section 336 of The Education Act 1996 (c. 56) is amended in accordance with this section.
 
@@ -264,7 +264,7 @@ A Measure of the National Assembly for Wales to make provision for children to h
 
 .
 
-#### 8. Procedures for making regulations[^key-ed31ef16b2287fc843f3943cf71f6c3e]
+#### 8. Procedures for making regulations[^c-ed31ef16b2287fc843f3943cf71f6c3e]
 
 (1) Section 569 (regulations) of the Education Act 1996 (c. 56) is amended in accordance with this section.
 
@@ -284,7 +284,7 @@ A Measure of the National Assembly for Wales to make provision for children to h
 
 ### Disability discrimination claims
 
-#### 9. Right of a child to make a disability discrimination claim[^key-2a9ef886b71333b32a77022779b1382a][^key-2804677d2c77f2d7efb8cb8f2def8b20]
+#### 9. Right of a child to make a disability discrimination claim[^c-2a9ef886b71333b32a77022779b1382a][^c-2804677d2c77f2d7efb8cb8f2def8b20]
 
 (1) Schedule 17 to the Equality Act 2010 is amended in accordance with this section.
 
@@ -304,7 +304,7 @@ A Measure of the National Assembly for Wales to make provision for children to h
 
 .
 
-#### 10. Time for bringing proceedings[^key-f0e017157b4b980ceab5a124b72378fa][^key-05f136938655a0c3700d5416260efce6]
+#### 10. Time for bringing proceedings[^c-f0e017157b4b980ceab5a124b72378fa][^c-05f136938655a0c3700d5416260efce6]
 
 (1) Schedule 17 to the Equality Act 2010 is amended in accordance with this section.
 
@@ -314,7 +314,7 @@ A Measure of the National Assembly for Wales to make provision for children to h
 
 .
 
-#### 11. Tribunal procedure[^key-c8ae5631294e50a4c50c391681d2713b][^key-b379dcdfa3150eb793924fb1b3b8ceda]
+#### 11. Tribunal procedure[^c-c8ae5631294e50a4c50c391681d2713b][^c-b379dcdfa3150eb793924fb1b3b8ceda]
 
 (1) Schedule 17 to the Equality Act 2010 is amended in accordance with this section.
 
@@ -323,11 +323,11 @@ A Measure of the National Assembly for Wales to make provision for children to h
 - (a) in sub-paragraph (2)(a), after “paragraph 3” insert “or 3A”;
 - (b) after sub-paragraph (3)(c), insert “(ca) for adding and substituting parties;”.
 
-#### 12. Case friends[^key-31a480813900e8969f699a7f6a2dbe56]
+#### 12. Case friends[^c-31a480813900e8969f699a7f6a2dbe56]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 13. Advice and information[^key-2c5b47e00e22be4f1cd231f5603057c0][^key-1f67dbf198fe4f45373394b44a425f6d]
+#### 13. Advice and information[^c-2c5b47e00e22be4f1cd231f5603057c0][^c-1f67dbf198fe4f45373394b44a425f6d]
 
 (1) Schedule 17 to the Equality Act 2010 is amended in accordance with this section.
 
@@ -350,7 +350,7 @@ A Measure of the National Assembly for Wales to make provision for children to h
 
 .
 
-#### 14. Resolution of disputes[^key-f1941af944ac482d19bddf2a056465a4][^key-0abf11d2afcf5e5ab304fd13ee3a0e46]
+#### 14. Resolution of disputes[^c-f1941af944ac482d19bddf2a056465a4][^c-0abf11d2afcf5e5ab304fd13ee3a0e46]
 
 (1) Schedule 17 to the Equality Act 2010 is amended in accordance with this section.
 
@@ -377,7 +377,7 @@ A Measure of the National Assembly for Wales to make provision for children to h
 
 .
 
-#### 15. Independent advocacy services[^key-2a0e04abb1dc8c36183dc669517c5987][^key-ef6d9fd69ad5f46352683a0a4ea1a15e]
+#### 15. Independent advocacy services[^c-2a0e04abb1dc8c36183dc669517c5987][^c-ef6d9fd69ad5f46352683a0a4ea1a15e]
 
 (1) Schedule 17 to the Equality Act 2010 is amended in accordance with this section.
 
@@ -417,7 +417,7 @@ A Measure of the National Assembly for Wales to make provision for children to h
 
 .
 
-#### 16. Role of Welsh Ministers[^key-7e59a9b0632787309634a5ddba11dd6f][^key-678c0782e3dd9e14d19c1c66d8c0052f]
+#### 16. Role of Welsh Ministers[^c-7e59a9b0632787309634a5ddba11dd6f][^c-678c0782e3dd9e14d19c1c66d8c0052f]
 
 (1) Schedule 17 to the Equality Act 2010 is amended in accordance with this section.
 
@@ -443,21 +443,21 @@ A Measure of the National Assembly for Wales to make provision for children to h
 
 ### Piloting
 
-#### 17. Piloting the rights of a child to appeal or make a claim[^key-79d117a906853a279ee6d29898768e31]
+#### 17. Piloting the rights of a child to appeal or make a claim[^c-79d117a906853a279ee6d29898768e31]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 18. Power to make provision about appeals and claims by a child[^key-79d117a906853a279ee6d29898768e31]
+#### 18. Power to make provision about appeals and claims by a child[^c-79d117a906853a279ee6d29898768e31]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 19. Interpretation of sections 17 and 18[^key-79d117a906853a279ee6d29898768e31]
+#### 19. Interpretation of sections 17 and 18[^c-79d117a906853a279ee6d29898768e31]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Future repeal and re-enactment of the Disability Discrimination Act 1995
 
-#### 20. Powers on repeal and re-enactment of the Disability Discrimination Act 1995[^key-258ad93462905bf3121b495a53a7fe87]
+#### 20. Powers on repeal and re-enactment of the Disability Discrimination Act 1995[^c-258ad93462905bf3121b495a53a7fe87]
 
 (1) This section applies if Part 4 of the Disability Discrimination Act 1995 is repealed and re-enacted (with or without modification) by an Act of Parliament.
 
@@ -482,7 +482,7 @@ A Measure of the National Assembly for Wales to make provision for children to h
 
 ### Amendments to the Learning and Skills Act 2000
 
-#### 22. Local curriculum entitlements for students aged 16 to 18[^key-a7848bf703ef8f76b67e74518f1b7989]
+#### 22. Local curriculum entitlements for students aged 16 to 18[^c-a7848bf703ef8f76b67e74518f1b7989]
 
 (1) The Learning and Skills Act 2000 (c. 21) is amended in accordance with this section.
 
@@ -496,7 +496,7 @@ A Measure of the National Assembly for Wales to make provision for children to h
 
 ### General
 
-#### 23. Minor and consequential amendments[^key-281a8c5d50a683e9e54ea53307257449][^key-5fa8da575d1e037a5d33b99ac2da26fc]
+#### 23. Minor and consequential amendments[^c-281a8c5d50a683e9e54ea53307257449][^c-5fa8da575d1e037a5d33b99ac2da26fc]
 
 The Schedule contains minor and consequential amendments.
 
@@ -510,11 +510,11 @@ The Schedule contains minor and consequential amendments.
 - (b) to make provision generally or in relation to specific cases;
 - (c) to make such incidental, supplementary, transitory, transitional or saving provision as the Welsh Ministers think fit.
 
-(3)[^key-9718a339ffdea82ddb91f9de951357ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-9718a339ffdea82ddb91f9de951357ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) A statutory instrument containing an order under section [^key-a2c9912c3455a0ad60fb4b8f9bb85d45]... 20 may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, the National Assembly for Wales.
+(4) A statutory instrument containing an order under section [^c-a2c9912c3455a0ad60fb4b8f9bb85d45]... 20 may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, the National Assembly for Wales.
 
-#### 25. Orders under section 18: procedure[^key-4aa565b5a646897cd2eff3bcbc010934]
+#### 25. Orders under section 18: procedure[^c-4aa565b5a646897cd2eff3bcbc010934]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -529,7 +529,7 @@ The Schedule contains minor and consequential amendments.
 
 (2) Paragraphs 10 to 12 of the Schedule come into force on the day on which this Measure is approved by Her Majesty in Council.
 
-(3) The remaining provisions of this Measure (including, in the case of provisions amended by the Right of a Child to Make a Disability Discrimination Claim (Schools) (Wales) Order 2011, those provisions as amended)[^key-c1738b84f15144a4d9d568e60b962783]come into force in accordance with provision made by the Welsh Ministers by order.
+(3) The remaining provisions of this Measure (including, in the case of provisions amended by the Right of a Child to Make a Disability Discrimination Claim (Schools) (Wales) Order 2011, those provisions as amended)[^c-c1738b84f15144a4d9d568e60b962783]come into force in accordance with provision made by the Welsh Ministers by order.
 
 #### 27. Short title
 
@@ -541,9 +541,9 @@ This Measure may be cited as the Education (Wales) Measure 2009.
 
 ### Education Act 1996 (c. 56)
 
-**1.**[^key-3eed51dbf5d5f547b0fef3ab3f8d3328] Amend the Education Act 1996 as follows.
+**1.**[^c-3eed51dbf5d5f547b0fef3ab3f8d3328] Amend the Education Act 1996 as follows.
 
-**2.**[^key-d9f315133511db1549ec7dd6a4ede4d2] In section 326(4) (appeal against contents of the statement)—
+**2.**[^c-d9f315133511db1549ec7dd6a4ede4d2] In section 326(4) (appeal against contents of the statement)—
 
 - (a) in paragraph (b), omit the full stop and after “school” insert “ , or ”;
 - (b) after paragraph (b) insert—
@@ -552,7 +552,7 @@ This Measure may be cited as the Education (Wales) Measure 2009.
 
   .
 
-**3.**[^key-b70ca8fc19cdf65dd82888430b20b356] In section 326A (unopposed appeals), in subsection (1)(a), for “the parent of a child has appealed to the Tribunal under section 325, 328, 329 or 329A or paragraph 8(3) of Schedule 27 against a decision of a local authority, and” substitute—
+**3.**[^c-b70ca8fc19cdf65dd82888430b20b356] In section 326A (unopposed appeals), in subsection (1)(a), for “the parent of a child has appealed to the Tribunal under section 325, 328, 329 or 329A or paragraph 8(3) of Schedule 27 against a decision of a local authority, and” substitute—
 
 > either—
 >
@@ -561,9 +561,9 @@ This Measure may be cited as the Education (Wales) Measure 2009.
 
 .
 
-**4.**[^key-37acfbdc3152db48afc4b81468d29e99] In section 333 (constitution of Welsh Tribunal), in subsection (1ZB), for “this section and sections 334 to 336ZB” substitute “ this Part ”.
+**4.**[^c-37acfbdc3152db48afc4b81468d29e99] In section 333 (constitution of Welsh Tribunal), in subsection (1ZB), for “this section and sections 334 to 336ZB” substitute “ this Part ”.
 
-**5.**[^key-d21b4fbdcb387bd09b3e416e5660c8bc] In Schedule 27 (making and maintenance of statements under section 324)—
+**5.**[^c-d21b4fbdcb387bd09b3e416e5660c8bc] In Schedule 27 (making and maintenance of statements under section 324)—
 
 - (a) in paragraph 8(1)(b)(iv), for “the parent has appealed” substitute “ there is an appeal ”;
 - (b) in paragraph 11(4), for “the parent of the child appeals” substitute “ there is an appeal ”;
@@ -571,13 +571,13 @@ This Measure may be cited as the Education (Wales) Measure 2009.
 
 ### Disability Discrimination Act 1995 (c. 50)
 
-**6.**[^key-cdfb1020a495c468fbdc472b9c30de56] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-cdfb1020a495c468fbdc472b9c30de56] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-cdfb1020a495c468fbdc472b9c30de56] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-cdfb1020a495c468fbdc472b9c30de56] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-cdfb1020a495c468fbdc472b9c30de56] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-cdfb1020a495c468fbdc472b9c30de56] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-cdfb1020a495c468fbdc472b9c30de56] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-cdfb1020a495c468fbdc472b9c30de56] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Education and Inspections Act 2006 (c. 40)
 
@@ -606,82 +606,82 @@ This Measure may be cited as the Education (Wales) Measure 2009.
 
 ## Annotations
 
-[^key-b9ee0508561cabd2b911406512dc38bb]: Commencement: [S. 1](https://www.legislation.gov.uk/mwa/2009/5/section/1) in force at 6.3.2012 by [S.I. 2012/320](https://www.legislation.gov.uk/wsi/2012/320), [art. 3(a)](https://www.legislation.gov.uk/wsi/2012/320/article/3/a)
+[^c-b9ee0508561cabd2b911406512dc38bb]: Commencement: [S. 1](https://www.legislation.gov.uk/mwa/2009/5/section/1) in force at 6.3.2012 by [S.I. 2012/320](https://www.legislation.gov.uk/wsi/2012/320), [art. 3(a)](https://www.legislation.gov.uk/wsi/2012/320/article/3/a)
 
-[^key-9d2fb78b16546596a94497af379d7c4a]: Commencement: [S. 2](https://www.legislation.gov.uk/mwa/2009/5/section/2) in force at 6.3.2012 by [S.I. 2012/320](https://www.legislation.gov.uk/wsi/2012/320), [art. 3(b)](https://www.legislation.gov.uk/wsi/2012/320/article/3/b)
+[^c-9d2fb78b16546596a94497af379d7c4a]: Commencement: [S. 2](https://www.legislation.gov.uk/mwa/2009/5/section/2) in force at 6.3.2012 by [S.I. 2012/320](https://www.legislation.gov.uk/wsi/2012/320), [art. 3(b)](https://www.legislation.gov.uk/wsi/2012/320/article/3/b)
 
-[^key-0aa6458f485369372f2a3a505f8ada5f]: Textual amendment: Words in Measure substituted (5.5.2010) by [Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Wales) Order 2010 (S.I. 2010/1148)](https://www.legislation.gov.uk/uksi/2010/1148), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1148/article/1), [5(2)](https://www.legislation.gov.uk/uksi/2010/1148/article/5/2)
+[^c-0aa6458f485369372f2a3a505f8ada5f]: Textual amendment: Words in Measure substituted (5.5.2010) by [Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Wales) Order 2010 (S.I. 2010/1148)](https://www.legislation.gov.uk/uksi/2010/1148), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1148/article/1), [5(2)](https://www.legislation.gov.uk/uksi/2010/1148/article/5/2)
 
-[^key-c28f55db56528c6c7b79030f49c93890]: Commencement: [S. 3](https://www.legislation.gov.uk/mwa/2009/5/section/3) in force at 10.2.2012 by [S.I. 2012/320](https://www.legislation.gov.uk/wsi/2012/320), [art. 2(a)](https://www.legislation.gov.uk/wsi/2012/320/article/2/a)
+[^c-c28f55db56528c6c7b79030f49c93890]: Commencement: [S. 3](https://www.legislation.gov.uk/mwa/2009/5/section/3) in force at 10.2.2012 by [S.I. 2012/320](https://www.legislation.gov.uk/wsi/2012/320), [art. 2(a)](https://www.legislation.gov.uk/wsi/2012/320/article/2/a)
 
-[^key-af1fc46c059b375eb8a1e2d0e2b893e8]: Commencement: [S. 4](https://www.legislation.gov.uk/mwa/2009/5/section/4) in force at 6.3.2012 by [S.I. 2012/320](https://www.legislation.gov.uk/wsi/2012/320), [art. 3(c)](https://www.legislation.gov.uk/wsi/2012/320/article/3/c) (with [art. 4(a)](https://www.legislation.gov.uk/wsi/2012/320/article/4/a))
+[^c-af1fc46c059b375eb8a1e2d0e2b893e8]: Commencement: [S. 4](https://www.legislation.gov.uk/mwa/2009/5/section/4) in force at 6.3.2012 by [S.I. 2012/320](https://www.legislation.gov.uk/wsi/2012/320), [art. 3(c)](https://www.legislation.gov.uk/wsi/2012/320/article/3/c) (with [art. 4(a)](https://www.legislation.gov.uk/wsi/2012/320/article/4/a))
 
-[^key-59d16e498be26982f93183111bf2556d]: Commencement: [S. 5](https://www.legislation.gov.uk/mwa/2009/5/section/5) in force at 6.3.2012 by [S.I. 2012/320](https://www.legislation.gov.uk/wsi/2012/320), [art. 3(d)](https://www.legislation.gov.uk/wsi/2012/320/article/3/d) (with [art. 4(b)](https://www.legislation.gov.uk/wsi/2012/320/article/4/b))
+[^c-59d16e498be26982f93183111bf2556d]: Commencement: [S. 5](https://www.legislation.gov.uk/mwa/2009/5/section/5) in force at 6.3.2012 by [S.I. 2012/320](https://www.legislation.gov.uk/wsi/2012/320), [art. 3(d)](https://www.legislation.gov.uk/wsi/2012/320/article/3/d) (with [art. 4(b)](https://www.legislation.gov.uk/wsi/2012/320/article/4/b))
 
-[^key-024da83f5895c38653f2cc16b93202b6]: Commencement: [S. 6](https://www.legislation.gov.uk/mwa/2009/5/section/6) in force at 6.3.2012 by [S.I. 2012/320](https://www.legislation.gov.uk/wsi/2012/320), [art. 3(e)](https://www.legislation.gov.uk/wsi/2012/320/article/3/e)
+[^c-024da83f5895c38653f2cc16b93202b6]: Commencement: [S. 6](https://www.legislation.gov.uk/mwa/2009/5/section/6) in force at 6.3.2012 by [S.I. 2012/320](https://www.legislation.gov.uk/wsi/2012/320), [art. 3(e)](https://www.legislation.gov.uk/wsi/2012/320/article/3/e)
 
-[^key-edc848c8faec7a99ba72069b984e4b40]: Commencement: [S. 7](https://www.legislation.gov.uk/mwa/2009/5/section/7) in force at 10.2.2012 by [S.I. 2012/320](https://www.legislation.gov.uk/wsi/2012/320), [art. 2(b)](https://www.legislation.gov.uk/wsi/2012/320/article/2/b)
+[^c-edc848c8faec7a99ba72069b984e4b40]: Commencement: [S. 7](https://www.legislation.gov.uk/mwa/2009/5/section/7) in force at 10.2.2012 by [S.I. 2012/320](https://www.legislation.gov.uk/wsi/2012/320), [art. 2(b)](https://www.legislation.gov.uk/wsi/2012/320/article/2/b)
 
-[^key-ed31ef16b2287fc843f3943cf71f6c3e]: Commencement: [S. 8](https://www.legislation.gov.uk/mwa/2009/5/section/8) in force at 10.2.2012 by [S.I. 2012/320](https://www.legislation.gov.uk/wsi/2012/320), [art. 2(c)](https://www.legislation.gov.uk/wsi/2012/320/article/2/c)
+[^c-ed31ef16b2287fc843f3943cf71f6c3e]: Commencement: [S. 8](https://www.legislation.gov.uk/mwa/2009/5/section/8) in force at 10.2.2012 by [S.I. 2012/320](https://www.legislation.gov.uk/wsi/2012/320), [art. 2(c)](https://www.legislation.gov.uk/wsi/2012/320/article/2/c)
 
-[^key-2a9ef886b71333b32a77022779b1382a]: Commencement: [S. 9](https://www.legislation.gov.uk/mwa/2009/5/section/9) in force at 6.3.2012 by [S.I. 2012/320](https://www.legislation.gov.uk/wsi/2012/320), [art. 3(f)](https://www.legislation.gov.uk/wsi/2012/320/article/3/f)
+[^c-2a9ef886b71333b32a77022779b1382a]: Commencement: [S. 9](https://www.legislation.gov.uk/mwa/2009/5/section/9) in force at 6.3.2012 by [S.I. 2012/320](https://www.legislation.gov.uk/wsi/2012/320), [art. 3(f)](https://www.legislation.gov.uk/wsi/2012/320/article/3/f)
 
-[^key-2804677d2c77f2d7efb8cb8f2def8b20]: Textual amendment: [S. 9](https://www.legislation.gov.uk/mwa/2009/5/section/9) substituted (6.7.2011) by [The Right of a Child to Make a Disability Discrimination Claim (Schools) (Wales) Order 2011 (S.I. 2011/1651)](https://www.legislation.gov.uk/wsi/2011/1651), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/1651/article/1/2), [3](https://www.legislation.gov.uk/wsi/2011/1651/article/3)
+[^c-2804677d2c77f2d7efb8cb8f2def8b20]: Textual amendment: [S. 9](https://www.legislation.gov.uk/mwa/2009/5/section/9) substituted (6.7.2011) by [The Right of a Child to Make a Disability Discrimination Claim (Schools) (Wales) Order 2011 (S.I. 2011/1651)](https://www.legislation.gov.uk/wsi/2011/1651), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/1651/article/1/2), [3](https://www.legislation.gov.uk/wsi/2011/1651/article/3)
 
-[^key-f0e017157b4b980ceab5a124b72378fa]: Commencement: [S. 10](https://www.legislation.gov.uk/mwa/2009/5/section/10) in force at 6.3.2012 by [S.I. 2012/320](https://www.legislation.gov.uk/wsi/2012/320), [art. 3(g)](https://www.legislation.gov.uk/wsi/2012/320/article/3/g)
+[^c-f0e017157b4b980ceab5a124b72378fa]: Commencement: [S. 10](https://www.legislation.gov.uk/mwa/2009/5/section/10) in force at 6.3.2012 by [S.I. 2012/320](https://www.legislation.gov.uk/wsi/2012/320), [art. 3(g)](https://www.legislation.gov.uk/wsi/2012/320/article/3/g)
 
-[^key-05f136938655a0c3700d5416260efce6]: Textual amendment: [S. 10](https://www.legislation.gov.uk/mwa/2009/5/section/10) substituted (6.7.2011) by [The Right of a Child to Make a Disability Discrimination Claim (Schools) (Wales) Order 2011 (S.I. 2011/1651)](https://www.legislation.gov.uk/wsi/2011/1651), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/1651/article/1/2), [4](https://www.legislation.gov.uk/wsi/2011/1651/article/4)
+[^c-05f136938655a0c3700d5416260efce6]: Textual amendment: [S. 10](https://www.legislation.gov.uk/mwa/2009/5/section/10) substituted (6.7.2011) by [The Right of a Child to Make a Disability Discrimination Claim (Schools) (Wales) Order 2011 (S.I. 2011/1651)](https://www.legislation.gov.uk/wsi/2011/1651), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/1651/article/1/2), [4](https://www.legislation.gov.uk/wsi/2011/1651/article/4)
 
-[^key-c8ae5631294e50a4c50c391681d2713b]: Commencement: [S. 11](https://www.legislation.gov.uk/mwa/2009/5/section/11) in force at 10.2.2012 by [S.I. 2012/320](https://www.legislation.gov.uk/wsi/2012/320), [art. 2(d)](https://www.legislation.gov.uk/wsi/2012/320/article/2/d)
+[^c-c8ae5631294e50a4c50c391681d2713b]: Commencement: [S. 11](https://www.legislation.gov.uk/mwa/2009/5/section/11) in force at 10.2.2012 by [S.I. 2012/320](https://www.legislation.gov.uk/wsi/2012/320), [art. 2(d)](https://www.legislation.gov.uk/wsi/2012/320/article/2/d)
 
-[^key-b379dcdfa3150eb793924fb1b3b8ceda]: Textual amendment: [S. 11](https://www.legislation.gov.uk/mwa/2009/5/section/11) substituted (6.7.2011) by [The Right of a Child to Make a Disability Discrimination Claim (Schools) (Wales) Order 2011 (S.I. 2011/1651)](https://www.legislation.gov.uk/wsi/2011/1651), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/1651/article/1/2), [5](https://www.legislation.gov.uk/wsi/2011/1651/article/5)
+[^c-b379dcdfa3150eb793924fb1b3b8ceda]: Textual amendment: [S. 11](https://www.legislation.gov.uk/mwa/2009/5/section/11) substituted (6.7.2011) by [The Right of a Child to Make a Disability Discrimination Claim (Schools) (Wales) Order 2011 (S.I. 2011/1651)](https://www.legislation.gov.uk/wsi/2011/1651), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/1651/article/1/2), [5](https://www.legislation.gov.uk/wsi/2011/1651/article/5)
 
-[^key-31a480813900e8969f699a7f6a2dbe56]: Textual amendment: S. 12 omitted (1.9.2021) by virtue of [Additional Learning Needs and Education Tribunal (Wales) Act 2018 (anaw 2)](https://www.legislation.gov.uk/anaw/2018/2), [s. 100(3)](https://www.legislation.gov.uk/anaw/2018/2/section/100/3), [Sch. 1 para. 19(6)](https://www.legislation.gov.uk/anaw/2018/2/schedule/1/paragraph/19/6); [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(j)(xxxiii)](https://www.legislation.gov.uk/wsi/2021/373/article/8/j/xxxiii)
+[^c-31a480813900e8969f699a7f6a2dbe56]: Textual amendment: S. 12 omitted (1.9.2021) by virtue of [Additional Learning Needs and Education Tribunal (Wales) Act 2018 (anaw 2)](https://www.legislation.gov.uk/anaw/2018/2), [s. 100(3)](https://www.legislation.gov.uk/anaw/2018/2/section/100/3), [Sch. 1 para. 19(6)](https://www.legislation.gov.uk/anaw/2018/2/schedule/1/paragraph/19/6); [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(j)(xxxiii)](https://www.legislation.gov.uk/wsi/2021/373/article/8/j/xxxiii)
 
-[^key-2c5b47e00e22be4f1cd231f5603057c0]: Commencement: [S. 13](https://www.legislation.gov.uk/mwa/2009/5/section/13) in force at 6.3.2012 by [S.I. 2012/320](https://www.legislation.gov.uk/wsi/2012/320), [art. 3(h)](https://www.legislation.gov.uk/wsi/2012/320/article/3/h)
+[^c-2c5b47e00e22be4f1cd231f5603057c0]: Commencement: [S. 13](https://www.legislation.gov.uk/mwa/2009/5/section/13) in force at 6.3.2012 by [S.I. 2012/320](https://www.legislation.gov.uk/wsi/2012/320), [art. 3(h)](https://www.legislation.gov.uk/wsi/2012/320/article/3/h)
 
-[^key-1f67dbf198fe4f45373394b44a425f6d]: Textual amendment: [S. 13](https://www.legislation.gov.uk/mwa/2009/5/section/13) substituted (6.7.2011) by [The Right of a Child to Make a Disability Discrimination Claim (Schools) (Wales) Order 2011 (S.I. 2011/1651)](https://www.legislation.gov.uk/wsi/2011/1651), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/1651/article/1/2), [7](https://www.legislation.gov.uk/wsi/2011/1651/article/7)
+[^c-1f67dbf198fe4f45373394b44a425f6d]: Textual amendment: [S. 13](https://www.legislation.gov.uk/mwa/2009/5/section/13) substituted (6.7.2011) by [The Right of a Child to Make a Disability Discrimination Claim (Schools) (Wales) Order 2011 (S.I. 2011/1651)](https://www.legislation.gov.uk/wsi/2011/1651), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/1651/article/1/2), [7](https://www.legislation.gov.uk/wsi/2011/1651/article/7)
 
-[^key-f1941af944ac482d19bddf2a056465a4]: Commencement: [S. 14](https://www.legislation.gov.uk/mwa/2009/5/section/14) in force at 6.3.2012 by [S.I. 2012/320](https://www.legislation.gov.uk/wsi/2012/320), [art. 3(i)](https://www.legislation.gov.uk/wsi/2012/320/article/3/i)
+[^c-f1941af944ac482d19bddf2a056465a4]: Commencement: [S. 14](https://www.legislation.gov.uk/mwa/2009/5/section/14) in force at 6.3.2012 by [S.I. 2012/320](https://www.legislation.gov.uk/wsi/2012/320), [art. 3(i)](https://www.legislation.gov.uk/wsi/2012/320/article/3/i)
 
-[^key-0abf11d2afcf5e5ab304fd13ee3a0e46]: Textual amendment: [S. 14](https://www.legislation.gov.uk/mwa/2009/5/section/14) substituted (6.7.2011) by [The Right of a Child to Make a Disability Discrimination Claim (Schools) (Wales) Order 2011 (S.I. 2011/1651)](https://www.legislation.gov.uk/wsi/2011/1651), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/1651/article/1/2), [8](https://www.legislation.gov.uk/wsi/2011/1651/article/8)
+[^c-0abf11d2afcf5e5ab304fd13ee3a0e46]: Textual amendment: [S. 14](https://www.legislation.gov.uk/mwa/2009/5/section/14) substituted (6.7.2011) by [The Right of a Child to Make a Disability Discrimination Claim (Schools) (Wales) Order 2011 (S.I. 2011/1651)](https://www.legislation.gov.uk/wsi/2011/1651), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/1651/article/1/2), [8](https://www.legislation.gov.uk/wsi/2011/1651/article/8)
 
-[^key-2a0e04abb1dc8c36183dc669517c5987]: Commencement: [S. 15](https://www.legislation.gov.uk/mwa/2009/5/section/15) in force at 6.3.2012 by [S.I. 2012/320](https://www.legislation.gov.uk/wsi/2012/320), [art. 3(j)](https://www.legislation.gov.uk/wsi/2012/320/article/3/j)
+[^c-2a0e04abb1dc8c36183dc669517c5987]: Commencement: [S. 15](https://www.legislation.gov.uk/mwa/2009/5/section/15) in force at 6.3.2012 by [S.I. 2012/320](https://www.legislation.gov.uk/wsi/2012/320), [art. 3(j)](https://www.legislation.gov.uk/wsi/2012/320/article/3/j)
 
-[^key-ef6d9fd69ad5f46352683a0a4ea1a15e]: Textual amendment: [S. 15](https://www.legislation.gov.uk/mwa/2009/5/section/15) substituted (6.7.2011) by [The Right of a Child to Make a Disability Discrimination Claim (Schools) (Wales) Order 2011 (S.I. 2011/1651)](https://www.legislation.gov.uk/wsi/2011/1651), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/1651/article/1/2), [9](https://www.legislation.gov.uk/wsi/2011/1651/article/9)
+[^c-ef6d9fd69ad5f46352683a0a4ea1a15e]: Textual amendment: [S. 15](https://www.legislation.gov.uk/mwa/2009/5/section/15) substituted (6.7.2011) by [The Right of a Child to Make a Disability Discrimination Claim (Schools) (Wales) Order 2011 (S.I. 2011/1651)](https://www.legislation.gov.uk/wsi/2011/1651), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/1651/article/1/2), [9](https://www.legislation.gov.uk/wsi/2011/1651/article/9)
 
-[^key-7e59a9b0632787309634a5ddba11dd6f]: Commencement: [S. 16](https://www.legislation.gov.uk/mwa/2009/5/section/16) in force at 6.3.2012 by [S.I. 2012/320](https://www.legislation.gov.uk/wsi/2012/320), [art. 3(k)](https://www.legislation.gov.uk/wsi/2012/320/article/3/k)
+[^c-7e59a9b0632787309634a5ddba11dd6f]: Commencement: [S. 16](https://www.legislation.gov.uk/mwa/2009/5/section/16) in force at 6.3.2012 by [S.I. 2012/320](https://www.legislation.gov.uk/wsi/2012/320), [art. 3(k)](https://www.legislation.gov.uk/wsi/2012/320/article/3/k)
 
-[^key-678c0782e3dd9e14d19c1c66d8c0052f]: Textual amendment: [S. 16](https://www.legislation.gov.uk/mwa/2009/5/section/16) substituted (6.7.2011) by [The Right of a Child to Make a Disability Discrimination Claim (Schools) (Wales) Order 2011 (S.I. 2011/1651)](https://www.legislation.gov.uk/wsi/2011/1651), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/1651/article/1/2), [10](https://www.legislation.gov.uk/wsi/2011/1651/article/10)
+[^c-678c0782e3dd9e14d19c1c66d8c0052f]: Textual amendment: [S. 16](https://www.legislation.gov.uk/mwa/2009/5/section/16) substituted (6.7.2011) by [The Right of a Child to Make a Disability Discrimination Claim (Schools) (Wales) Order 2011 (S.I. 2011/1651)](https://www.legislation.gov.uk/wsi/2011/1651), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/1651/article/1/2), [10](https://www.legislation.gov.uk/wsi/2011/1651/article/10)
 
-[^key-79d117a906853a279ee6d29898768e31]: Textual amendment: Ss. 17-19 omitted (1.9.2021) by virtue of [Additional Learning Needs and Education Tribunal (Wales) Act 2018 (anaw 2)](https://www.legislation.gov.uk/anaw/2018/2), [s. 100(3)](https://www.legislation.gov.uk/anaw/2018/2/section/100/3), [Sch. 1 para. 18(2)](https://www.legislation.gov.uk/anaw/2018/2/schedule/1/paragraph/18/2); [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(j)(xxxi)](https://www.legislation.gov.uk/wsi/2021/373/article/8/j/xxxi)
+[^c-79d117a906853a279ee6d29898768e31]: Textual amendment: Ss. 17-19 omitted (1.9.2021) by virtue of [Additional Learning Needs and Education Tribunal (Wales) Act 2018 (anaw 2)](https://www.legislation.gov.uk/anaw/2018/2), [s. 100(3)](https://www.legislation.gov.uk/anaw/2018/2/section/100/3), [Sch. 1 para. 18(2)](https://www.legislation.gov.uk/anaw/2018/2/schedule/1/paragraph/18/2); [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(j)(xxxi)](https://www.legislation.gov.uk/wsi/2021/373/article/8/j/xxxi)
 
-[^key-258ad93462905bf3121b495a53a7fe87]: Commencement: [S. 20](https://www.legislation.gov.uk/mwa/2009/5/section/20) in force at 11.6.2011 by [S.I. 2011/1468](https://www.legislation.gov.uk/wsi/2011/1468), [art. 2](https://www.legislation.gov.uk/wsi/2011/1468/article/2)
+[^c-258ad93462905bf3121b495a53a7fe87]: Commencement: [S. 20](https://www.legislation.gov.uk/mwa/2009/5/section/20) in force at 11.6.2011 by [S.I. 2011/1468](https://www.legislation.gov.uk/wsi/2011/1468), [art. 2](https://www.legislation.gov.uk/wsi/2011/1468/article/2)
 
 [^M_F_9b6d1e6f-3bc7-4e40-94a2-5800fab7fde6]: Textual amendment: S. 21 omitted (30.4.2021) by virtue of [Curriculum and Assessment (Wales) Act 2021 (asc 4)](https://www.legislation.gov.uk/asc/2021/4), [s. 84(1)](https://www.legislation.gov.uk/asc/2021/4/section/84/1), [Sch. 2 para. 61](https://www.legislation.gov.uk/asc/2021/4/schedule/2/paragraph/61) (with savings and transitional provisions in [S.I. 2022/111](https://www.legislation.gov.uk/uksi/2022/111), [regs. 1](https://www.legislation.gov.uk/uksi/2022/111/regulation/1), [3](https://www.legislation.gov.uk/uksi/2022/111/regulation/3))
 
-[^key-a7848bf703ef8f76b67e74518f1b7989]: Commencement: [S. 22](https://www.legislation.gov.uk/mwa/2009/5/section/22) in force at 1.9.2011 by [S.I. 2011/1951](https://www.legislation.gov.uk/wsi/2011/1951), [art. 2](https://www.legislation.gov.uk/wsi/2011/1951/article/2)
+[^c-a7848bf703ef8f76b67e74518f1b7989]: Commencement: [S. 22](https://www.legislation.gov.uk/mwa/2009/5/section/22) in force at 1.9.2011 by [S.I. 2011/1951](https://www.legislation.gov.uk/wsi/2011/1951), [art. 2](https://www.legislation.gov.uk/wsi/2011/1951/article/2)
 
-[^key-281a8c5d50a683e9e54ea53307257449]: Commencement: [S. 23](https://www.legislation.gov.uk/mwa/2009/5/section/23) in force for specified purposes at 10.2.2012 by [S.I. 2012/320](https://www.legislation.gov.uk/wsi/2012/320), [art. 2(i)](https://www.legislation.gov.uk/wsi/2012/320/article/2/i)
+[^c-281a8c5d50a683e9e54ea53307257449]: Commencement: [S. 23](https://www.legislation.gov.uk/mwa/2009/5/section/23) in force for specified purposes at 10.2.2012 by [S.I. 2012/320](https://www.legislation.gov.uk/wsi/2012/320), [art. 2(i)](https://www.legislation.gov.uk/wsi/2012/320/article/2/i)
 
-[^key-5fa8da575d1e037a5d33b99ac2da26fc]: Commencement: [S. 23](https://www.legislation.gov.uk/mwa/2009/5/section/23) in force for specified purposes at 6.3.2012 by [S.I. 2012/320](https://www.legislation.gov.uk/wsi/2012/320), [art. 3(l)](https://www.legislation.gov.uk/wsi/2012/320/article/3/l)
+[^c-5fa8da575d1e037a5d33b99ac2da26fc]: Commencement: [S. 23](https://www.legislation.gov.uk/mwa/2009/5/section/23) in force for specified purposes at 6.3.2012 by [S.I. 2012/320](https://www.legislation.gov.uk/wsi/2012/320), [art. 3(l)](https://www.legislation.gov.uk/wsi/2012/320/article/3/l)
 
-[^key-9718a339ffdea82ddb91f9de951357ab]: Textual amendment: [S. 24(3)](https://www.legislation.gov.uk/mwa/2009/5/section/24/3) omitted (1.9.2021) by virtue of [Additional Learning Needs and Education Tribunal (Wales) Act 2018 (anaw 2)](https://www.legislation.gov.uk/anaw/2018/2), [s. 100(3)](https://www.legislation.gov.uk/anaw/2018/2/section/100/3), [Sch. 1 para. 18(3)(a)](https://www.legislation.gov.uk/anaw/2018/2/schedule/1/paragraph/18/3/a); [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(j)(xxxi)](https://www.legislation.gov.uk/wsi/2021/373/article/8/j/xxxi)
+[^c-9718a339ffdea82ddb91f9de951357ab]: Textual amendment: [S. 24(3)](https://www.legislation.gov.uk/mwa/2009/5/section/24/3) omitted (1.9.2021) by virtue of [Additional Learning Needs and Education Tribunal (Wales) Act 2018 (anaw 2)](https://www.legislation.gov.uk/anaw/2018/2), [s. 100(3)](https://www.legislation.gov.uk/anaw/2018/2/section/100/3), [Sch. 1 para. 18(3)(a)](https://www.legislation.gov.uk/anaw/2018/2/schedule/1/paragraph/18/3/a); [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(j)(xxxi)](https://www.legislation.gov.uk/wsi/2021/373/article/8/j/xxxi)
 
-[^key-a2c9912c3455a0ad60fb4b8f9bb85d45]: Textual amendment: Words in [s. 24(4)](https://www.legislation.gov.uk/mwa/2009/5/section/24/4) omitted (1.9.2021) by virtue of [Additional Learning Needs and Education Tribunal (Wales) Act 2018 (anaw 2)](https://www.legislation.gov.uk/anaw/2018/2), [s. 100(3)](https://www.legislation.gov.uk/anaw/2018/2/section/100/3), [Sch. 1 para. 18(3)(b)](https://www.legislation.gov.uk/anaw/2018/2/schedule/1/paragraph/18/3/b); [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(j)(xxxi)](https://www.legislation.gov.uk/wsi/2021/373/article/8/j/xxxi)
+[^c-a2c9912c3455a0ad60fb4b8f9bb85d45]: Textual amendment: Words in [s. 24(4)](https://www.legislation.gov.uk/mwa/2009/5/section/24/4) omitted (1.9.2021) by virtue of [Additional Learning Needs and Education Tribunal (Wales) Act 2018 (anaw 2)](https://www.legislation.gov.uk/anaw/2018/2), [s. 100(3)](https://www.legislation.gov.uk/anaw/2018/2/section/100/3), [Sch. 1 para. 18(3)(b)](https://www.legislation.gov.uk/anaw/2018/2/schedule/1/paragraph/18/3/b); [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(j)(xxxi)](https://www.legislation.gov.uk/wsi/2021/373/article/8/j/xxxi)
 
-[^key-4aa565b5a646897cd2eff3bcbc010934]: Textual amendment: [S. 25](https://www.legislation.gov.uk/mwa/2009/5/section/25) omitted (1.9.2021) by virtue of [Additional Learning Needs and Education Tribunal (Wales) Act 2018 (anaw 2)](https://www.legislation.gov.uk/anaw/2018/2), [s. 100(3)](https://www.legislation.gov.uk/anaw/2018/2/section/100/3), [Sch. 1 para. 18(4)](https://www.legislation.gov.uk/anaw/2018/2/schedule/1/paragraph/18/4); [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(j)(xxxi)](https://www.legislation.gov.uk/wsi/2021/373/article/8/j/xxxi)
+[^c-4aa565b5a646897cd2eff3bcbc010934]: Textual amendment: [S. 25](https://www.legislation.gov.uk/mwa/2009/5/section/25) omitted (1.9.2021) by virtue of [Additional Learning Needs and Education Tribunal (Wales) Act 2018 (anaw 2)](https://www.legislation.gov.uk/anaw/2018/2), [s. 100(3)](https://www.legislation.gov.uk/anaw/2018/2/section/100/3), [Sch. 1 para. 18(4)](https://www.legislation.gov.uk/anaw/2018/2/schedule/1/paragraph/18/4); [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(j)(xxxi)](https://www.legislation.gov.uk/wsi/2021/373/article/8/j/xxxi)
 
-[^key-c1738b84f15144a4d9d568e60b962783]: Textual amendment: Words in [s. 26(3)](https://www.legislation.gov.uk/mwa/2009/5/section/26/3) inserted (6.7.2011) by [The Right of a Child to Make a Disability Discrimination Claim (Schools) (Wales) Order 2011 (S.I. 2011/1651)](https://www.legislation.gov.uk/wsi/2011/1651), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/1651/article/1/2), [13(2)](https://www.legislation.gov.uk/wsi/2011/1651/article/13/2)
+[^c-c1738b84f15144a4d9d568e60b962783]: Textual amendment: Words in [s. 26(3)](https://www.legislation.gov.uk/mwa/2009/5/section/26/3) inserted (6.7.2011) by [The Right of a Child to Make a Disability Discrimination Claim (Schools) (Wales) Order 2011 (S.I. 2011/1651)](https://www.legislation.gov.uk/wsi/2011/1651), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/1651/article/1/2), [13(2)](https://www.legislation.gov.uk/wsi/2011/1651/article/13/2)
 
-[^key-3eed51dbf5d5f547b0fef3ab3f8d3328]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/mwa/2009/5/schedule/paragraph/1) in force at 10.2.2012 by [S.I. 2012/320](https://www.legislation.gov.uk/wsi/2012/320), [art. 2(j)](https://www.legislation.gov.uk/wsi/2012/320/article/2/j)
+[^c-3eed51dbf5d5f547b0fef3ab3f8d3328]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/mwa/2009/5/schedule/paragraph/1) in force at 10.2.2012 by [S.I. 2012/320](https://www.legislation.gov.uk/wsi/2012/320), [art. 2(j)](https://www.legislation.gov.uk/wsi/2012/320/article/2/j)
 
-[^key-d9f315133511db1549ec7dd6a4ede4d2]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/mwa/2009/5/schedule/paragraph/2) in force at 6.3.2012 by [S.I. 2012/320](https://www.legislation.gov.uk/wsi/2012/320), [art. 3(m)](https://www.legislation.gov.uk/wsi/2012/320/article/3/m)
+[^c-d9f315133511db1549ec7dd6a4ede4d2]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/mwa/2009/5/schedule/paragraph/2) in force at 6.3.2012 by [S.I. 2012/320](https://www.legislation.gov.uk/wsi/2012/320), [art. 3(m)](https://www.legislation.gov.uk/wsi/2012/320/article/3/m)
 
-[^key-b70ca8fc19cdf65dd82888430b20b356]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/mwa/2009/5/schedule/paragraph/3) in force at 6.3.2012 by [S.I. 2012/320](https://www.legislation.gov.uk/wsi/2012/320), [art. 3(m)](https://www.legislation.gov.uk/wsi/2012/320/article/3/m)
+[^c-b70ca8fc19cdf65dd82888430b20b356]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/mwa/2009/5/schedule/paragraph/3) in force at 6.3.2012 by [S.I. 2012/320](https://www.legislation.gov.uk/wsi/2012/320), [art. 3(m)](https://www.legislation.gov.uk/wsi/2012/320/article/3/m)
 
-[^key-37acfbdc3152db48afc4b81468d29e99]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/mwa/2009/5/schedule/paragraph/4) in force at 10.2.2012 by [S.I. 2012/320](https://www.legislation.gov.uk/wsi/2012/320), [art. 2(j)](https://www.legislation.gov.uk/wsi/2012/320/article/2/j)
+[^c-37acfbdc3152db48afc4b81468d29e99]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/mwa/2009/5/schedule/paragraph/4) in force at 10.2.2012 by [S.I. 2012/320](https://www.legislation.gov.uk/wsi/2012/320), [art. 2(j)](https://www.legislation.gov.uk/wsi/2012/320/article/2/j)
 
-[^key-d21b4fbdcb387bd09b3e416e5660c8bc]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/mwa/2009/5/schedule/paragraph/5) in force at 6.3.2012 by [S.I. 2012/320](https://www.legislation.gov.uk/wsi/2012/320), [art. 3(m)](https://www.legislation.gov.uk/wsi/2012/320/article/3/m)
+[^c-d21b4fbdcb387bd09b3e416e5660c8bc]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/mwa/2009/5/schedule/paragraph/5) in force at 6.3.2012 by [S.I. 2012/320](https://www.legislation.gov.uk/wsi/2012/320), [art. 3(m)](https://www.legislation.gov.uk/wsi/2012/320/article/3/m)
 
-[^key-cdfb1020a495c468fbdc472b9c30de56]: Textual amendment: [Sch. paras. 6-9](https://www.legislation.gov.uk/mwa/2009/5/schedule/paragraph/6) omitted (6.7.2011) by virtue of [The Right of a Child to Make a Disability Discrimination Claim (Schools) (Wales) Order 2011 (S.I. 2011/1651)](https://www.legislation.gov.uk/wsi/2011/1651), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/1651/article/1/2), [13(3)](https://www.legislation.gov.uk/wsi/2011/1651/article/13/3)
+[^c-cdfb1020a495c468fbdc472b9c30de56]: Textual amendment: [Sch. paras. 6-9](https://www.legislation.gov.uk/mwa/2009/5/schedule/paragraph/6) omitted (6.7.2011) by virtue of [The Right of a Child to Make a Disability Discrimination Claim (Schools) (Wales) Order 2011 (S.I. 2011/1651)](https://www.legislation.gov.uk/wsi/2011/1651), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/1651/article/1/2), [13(3)](https://www.legislation.gov.uk/wsi/2011/1651/article/13/3)

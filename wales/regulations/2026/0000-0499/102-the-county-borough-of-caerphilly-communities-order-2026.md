@@ -49,7 +49,7 @@ The Welsh Ministers make the following Order in exercise of the powers conferred
 
 Under section 37(2A) of the 2013 Act[^f00005], the Welsh Ministers make this Order more than 6 months preceding the day of an ordinary council election under section 26 of the Local Government Act 1972[^f00006].
 
-## 1. Title and coming into force[^key-500b371e051f010e82e1099b413a275d]
+## 1. Title and coming into force[^c-500b371e051f010e82e1099b413a275d]
 
 (1) The title of this Order is the County Borough of Caerphilly (Communities) Order 2026.
 
@@ -57,7 +57,7 @@ Under section 37(2A) of the 2013 Act[^f00005], the Welsh Ministers make this Ord
 
 (3) For all other purposes, this Order comes into force at 23:59 hours on the day before the ordinary day of election of councillors in 2027.
 
-## 2. Interpretation[^key-3436892d21f47c2e70f50b0601cfb296]
+## 2. Interpretation[^c-3436892d21f47c2e70f50b0601cfb296]
 
 (1) In this Order—
 
@@ -73,74 +73,74 @@ where a boundary is shown on a map as running along a road, railway line, footwa
 
 (2) The provisions in this Order take precedence over any conflicting provision in any previous statutory instrument made under section 58(2) of the 1972 Act or order made under sections 37(1), 38(1) or 39(1) of the Democracy and Boundary Commission Cymru etc. Act 2013.
 
-## 3. Risca East and Risca West — abolition of the communities of Risca East and Risca West and consequential changes to community councils[^key-720e491df66634b9580a24190449c76a]
+## 3. Risca East and Risca West — abolition of the communities of Risca East and Risca West and consequential changes to community councils[^c-720e491df66634b9580a24190449c76a]
 
 The existing community of Risca East is abolished.
 
-**4.**[^key-611bf795b7a3dffc0f831583a8c5ce96] The existing community council of Risca East is dissolved.
+**4.**[^c-611bf795b7a3dffc0f831583a8c5ce96] The existing community council of Risca East is dissolved.
 
-**5.**[^key-5d21ba4399152faa89e3fc8ad227e5df] The existing community of Risca West is abolished.
+**5.**[^c-5d21ba4399152faa89e3fc8ad227e5df] The existing community of Risca West is abolished.
 
-**6.**[^key-c9f7a8e3b4a8255ba6a081bc4e93c09c] The existing community council of Risca West is dissolved.
+**6.**[^c-c9f7a8e3b4a8255ba6a081bc4e93c09c] The existing community council of Risca West is dissolved.
 
-## 7. Creation of the new community of Risca[^key-71354558ce8e04f2a88c4fc50110e951]
+## 7. Creation of the new community of Risca[^c-71354558ce8e04f2a88c4fc50110e951]
 
 A new community is created which is to be known as Risca in the English language and Rhisga in the Welsh language and which comprises the area shown shaded on Map 1.
 
-## 8. Creation of the new community ward of Pontymister Tŷ Sign[^key-3b9e2c0dd97b01b20d757ea842ab4e1a]
+## 8. Creation of the new community ward of Pontymister Tŷ Sign[^c-3b9e2c0dd97b01b20d757ea842ab4e1a]
 
 A new community ward is created in the new community of Risca which is to be known as Pontymister Tŷ Sign in the English language and the Welsh language and which—
 
 - (a) comprises the area shown shaded and numbered 1 on Map 2;
 - (b) forms part of the electoral ward of Risca East.
 
-## 9. Creation of the new community ward of Pontymister Upper[^key-56ac0fdf1e825249b26d769ecb859535]
+## 9. Creation of the new community ward of Pontymister Upper[^c-56ac0fdf1e825249b26d769ecb859535]
 
 A new community ward is created in the new community of Risca which is to be known as Pontymister Upper in the English language and Pontymister Uchaf in the Welsh language and which—
 
 - (a) comprises the area shown shaded and numbered 2 on Map 2;
 - (b) forms part of the electoral ward of Risca East.
 
-## 10. Creation of the new community ward of Trenewydd[^key-fb6ae376860fd4840b0ade9899c72736]
+## 10. Creation of the new community ward of Trenewydd[^c-fb6ae376860fd4840b0ade9899c72736]
 
 A new community ward is created in the new community of Risca which is to be known as Trenewydd in the English language and the Welsh language and which—
 
 - (a) comprises the area shown shaded and numbered 3 on Map 2;
 - (b) forms part of the electoral ward of Risca East.
 
-## 11. Creation of the new community ward of Pontymister Lower[^key-43f39ad976abd0cf2f72cc499f3a4d65]
+## 11. Creation of the new community ward of Pontymister Lower[^c-43f39ad976abd0cf2f72cc499f3a4d65]
 
 A new community ward is created in the new community of Risca which is to be known as Pontymister Lower in the English language and Pontymister Isaf in the Welsh language and which—
 
 - (a) comprises the area shown shaded and numbered 4 on Map 2;
 - (b) forms part of the electoral ward of Risca West.
 
-## 12. Creation of the new community ward of Risca Town and Fernlea[^key-800eabcec2bd486dc0097fc45bcca46c]
+## 12. Creation of the new community ward of Risca Town and Fernlea[^c-800eabcec2bd486dc0097fc45bcca46c]
 
 A new community ward is created in the new community of Risca which is to be known as Risca Town and Fernlea in the English language and Tref Rhisga a Fernlea in the Welsh language and which—
 
 - (a) comprises the area shown shaded and numbered 5 on Map 2;
 - (b) forms part of the electoral ward of Risca West.
 
-## 13. Creation of the new community ward of Risca Dan-y-graig[^key-96c45c75882a669f22794e68544c008a]
+## 13. Creation of the new community ward of Risca Dan-y-graig[^c-96c45c75882a669f22794e68544c008a]
 
 A new community ward is created in the new community of Risca which is to be known as Risca Dan-y-graig in the English language and Rhisga Dan-y-graig in the Welsh language and which—
 
 - (a) comprises the area shown shaded and numbered 6 on Map 2;
 - (b) forms part of the electoral ward of Risca West.
 
-## 14. Creation of the new community ward of Tŷ Isaf Fields and Ochrwyth[^key-9858b22ae777e14d46cf118c83684434]
+## 14. Creation of the new community ward of Tŷ Isaf Fields and Ochrwyth[^c-9858b22ae777e14d46cf118c83684434]
 
 A new community ward is created in the new community of Risca which is to be known as Tŷ Isaf Fields and Ochrwyth in the English language and Caeau Tŷ Isaf ac Ochrwyth in the Welsh language and which—
 
 - (a) comprises the area shown shaded and numbered 7 on Map 2;
 - (b) forms part of the electoral ward of Risca West.
 
-## 15. The new community of Risca — establishment of community council and community electoral arrangements[^key-1c342e25831739745cf20e978616947b]
+## 15. The new community of Risca — establishment of community council and community electoral arrangements[^c-1c342e25831739745cf20e978616947b]
 
 A council for the new community of Risca is established.
 
-**16.**[^key-8723d434358f6b84e25060d1517e4ac4] In the new community of Risca the number of councillors to be elected for the—
+**16.**[^c-8723d434358f6b84e25060d1517e4ac4] In the new community of Risca the number of councillors to be elected for the—
 
 - (a) Pontymister Tŷ Sign ward is 4;
 - (b) Pontymister Upper ward is 3;
@@ -150,91 +150,91 @@ A council for the new community of Risca is established.
 - (f) Risca Town and Fernlea ward is 3;
 - (g) Tŷ Isaf Fields and Ochrwyth ward is 3.
 
-## 17. Bedwas, Trethomas and Machen, and Rudry — abolition of the communities of Bedwas, Trethomas and Machen, and Rudry and consequential changes to community councils[^key-2e45fd83122e61f2a57d61e89ea6aac6]
+## 17. Bedwas, Trethomas and Machen, and Rudry — abolition of the communities of Bedwas, Trethomas and Machen, and Rudry and consequential changes to community councils[^c-2e45fd83122e61f2a57d61e89ea6aac6]
 
 The existing community of Bedwas, Trethomas and Machen is abolished.
 
-**18.**[^key-01953b2ec2eddb056eb3a0b7e5f745b0] The existing community council of Bedwas, Trethomas and Machen is dissolved.
+**18.**[^c-01953b2ec2eddb056eb3a0b7e5f745b0] The existing community council of Bedwas, Trethomas and Machen is dissolved.
 
-**19.**[^key-f02246369e150125648d0ffef390f39e] The existing community of Rudry is abolished.
+**19.**[^c-f02246369e150125648d0ffef390f39e] The existing community of Rudry is abolished.
 
-**20.**[^key-972fbe997515eaada1b075e40287df20] The existing community council of Rudry is dissolved.
+**20.**[^c-972fbe997515eaada1b075e40287df20] The existing community council of Rudry is dissolved.
 
-## 21. Creation of the new community of Bedwas, Trethomas, Machen and Rudry[^key-7ea2c2addbe7147a4f94a3a5ffb80aeb]
+## 21. Creation of the new community of Bedwas, Trethomas, Machen and Rudry[^c-7ea2c2addbe7147a4f94a3a5ffb80aeb]
 
 A new community is created which is to be known as Bedwas, Trethomas, Machen and Rudry in the English language and Bedwas, Trethomas, Machen a Rhydri in the Welsh language and which comprises the area shown shaded on Map 3.
 
-## 22. Creation of the new community ward of Bedwas[^key-62d4ee3f2c8b3bb846de1569126ca480]
+## 22. Creation of the new community ward of Bedwas[^c-62d4ee3f2c8b3bb846de1569126ca480]
 
 A new community ward is created in the new community of Bedwas, Trethomas, Machen and Rudry which is to be known as Bedwas in the English language and the Welsh language and which—
 
 - (a) comprises the area shown shaded and numbered 1 on Map 4;
 - (b) forms part of the electoral ward of Bedwas and Trethomas.
 
-## 23. Creation of the new community ward of Trethomas[^key-399952e2c17db9ae460c7d018b34f05b]
+## 23. Creation of the new community ward of Trethomas[^c-399952e2c17db9ae460c7d018b34f05b]
 
 A new community ward is created in the new community of Bedwas, Trethomas, Machen and Rudry which is to be known as Trethomas in the English language and the Welsh language and which—
 
 - (a) comprises the area shown shaded and numbered 2 on Map 4;
 - (b) forms part of the electoral ward of Bedwas and Trethomas.
 
-## 24. Creation of the new community ward of Machen[^key-7e7f42f4393178155aa87aff38679431]
+## 24. Creation of the new community ward of Machen[^c-7e7f42f4393178155aa87aff38679431]
 
 A new community ward is created in the new community of Bedwas, Trethomas, Machen and Rudry which is to be known as Machen in the English language and the Welsh language and which—
 
 - (a) comprises the area shown shaded and numbered 3 on Map 4;
 - (b) forms part of the electoral ward of Machen and Rudry.
 
-## 25. Creation of the new community ward of Rudry[^key-ca8de0a34f9de0ca0c1f9ca0e6ee1f31]
+## 25. Creation of the new community ward of Rudry[^c-ca8de0a34f9de0ca0c1f9ca0e6ee1f31]
 
 A new community ward is created in the new community of Bedwas, Trethomas, Machen and Rudry which is to be known as Rudry in the English language and Rhydri in the Welsh language and which—
 
 - (a) comprises the area shown shaded and numbered 4 on Map 4;
 - (b) forms part of the electoral ward of Machen and Rudry.
 
-## 26. The new community of Bedwas, Trethomas, Machen and Rudry — establishment of community council and community electoral arrangements[^key-9f157fd468e1bf477b4aa5b0a4b16497]
+## 26. The new community of Bedwas, Trethomas, Machen and Rudry — establishment of community council and community electoral arrangements[^c-9f157fd468e1bf477b4aa5b0a4b16497]
 
 A council for the new community of Bedwas, Trethomas, Machen and Rudry is established.
 
-**27.**[^key-7108d2db62ae21aee49bc60968824def] In the new community of Bedwas, Trethomas, Machen and Rudry the number of councillors to be elected for the—
+**27.**[^c-7108d2db62ae21aee49bc60968824def] In the new community of Bedwas, Trethomas, Machen and Rudry the number of councillors to be elected for the—
 
 - (a) Bedwas ward is 5;
 - (b) Trethomas ward is 3;
 - (c) Machen ward is 4;
 - (d) Rudry ward is 2.
 
-## 28. Gelligaer, Llanbradach and Pwll-y-pant, and Nelson — changes in community and community ward boundaries and consequential changes to electoral arrangements[^key-781bcb242b43e9c0fe2419fe906b7d09]
+## 28. Gelligaer, Llanbradach and Pwll-y-pant, and Nelson — changes in community and community ward boundaries and consequential changes to electoral arrangements[^c-781bcb242b43e9c0fe2419fe906b7d09]
 
 The part of the Greenhill ward of the community of Gelligaer shown shaded on Map 5—
 
 - (a) is transferred to the Cascade ward of the community of Gelligaer;
 - (b) forms part of the electoral ward of St Cattwg.
 
-**29.**[^key-b0d323628f7f1d429d1ecd39f0dc9afb] The part of the Cefn Hengoed ward of the community of Gelligaer shown shaded on Map 6—
+**29.**[^c-b0d323628f7f1d429d1ecd39f0dc9afb] The part of the Cefn Hengoed ward of the community of Gelligaer shown shaded on Map 6—
 
 - (a) is transferred to the Ystrad Mynach ward of the community of Gelligaer;
 - (b) forms part of the electoral ward of Ystrad Mynach.
 
-**30.**[^key-ee86ad95a30f064e86845fa001a6d9f8] The part of the Cefn Hengoed ward of the community of Gelligaer shown shaded on Map 7—
+**30.**[^c-ee86ad95a30f064e86845fa001a6d9f8] The part of the Cefn Hengoed ward of the community of Gelligaer shown shaded on Map 7—
 
 - (a) is transferred to the Tir-y-berth ward of the community of Gelligaer;
 - (b) forms part of the electoral ward of St Cattwg.
 
-**31.**[^key-675e0cbc40520fa282caab86a5a89932] The part of the Greenhill ward of the community of Gelligaer shown shaded on Map 8—
+**31.**[^c-675e0cbc40520fa282caab86a5a89932] The part of the Greenhill ward of the community of Gelligaer shown shaded on Map 8—
 
 - (a) is transferred to the Llwyncelyn ward of the community of Nelson;
 - (b) forms part of the electoral ward of Nelson.
 
-**32.**[^key-3533ecb4978a34845785d7419a7296a3] The part of the Ystrad Mynach ward of the community of Gelligaer shown shaded on Map 9—
+**32.**[^c-3533ecb4978a34845785d7419a7296a3] The part of the Ystrad Mynach ward of the community of Gelligaer shown shaded on Map 9—
 
 - (a) is transferred to the Wingfield ward of the community of Llanbradach and Pwll-y-pant;
 - (b) forms part of the electoral ward of Llanbradach.
 
-## 33. Llanbradach and Pwll-y-pant – change of community ward name[^key-fd56a6e7b92861b42d4db604967f7702]
+## 33. Llanbradach and Pwll-y-pant – change of community ward name[^c-fd56a6e7b92861b42d4db604967f7702]
 
 The Pwll-y-pant ward of the community of Llanbradach and Pwll-y-pant is to be known as Pwll-y-pant in the English language and the Welsh language.
 
-## 34. Gelligaer — community electoral arrangements[^key-0230948fabda09e5f19e37ccf0770b25]
+## 34. Gelligaer — community electoral arrangements[^c-0230948fabda09e5f19e37ccf0770b25]
 
 In the community of Gelligaer the number of councillors to be elected for the—
 
@@ -245,24 +245,24 @@ In the community of Gelligaer the number of councillors to be elected for the—
 - (e) Tir-y-berth ward is 1;
 - (f) Ystrad Mynach ward is 4.
 
-## 35. Caerphilly — changes in community ward boundaries and consequential changes to electoral arrangements[^key-cdc0831a9f3fa1fef25ac375b75f5f68]
+## 35. Caerphilly — changes in community ward boundaries and consequential changes to electoral arrangements[^c-cdc0831a9f3fa1fef25ac375b75f5f68]
 
 The part of the Castle ward of the community of Caerphilly shown shaded on Map 10—
 
 - (a) is transferred to the Bryncenydd ward of the community of Caerphilly;
 - (b) forms part of the electoral ward of Morgan Jones.
 
-**36.**[^key-25d39a15248f252720a1af74b86456dc] The part of the Parcyfelin ward of the community of Caerphilly shown shaded on Map 11—
+**36.**[^c-25d39a15248f252720a1af74b86456dc] The part of the Parcyfelin ward of the community of Caerphilly shown shaded on Map 11—
 
 - (a) is transferred to the Tonyfelin ward of the community of Caerphilly;
 - (b) forms part of the electoral ward of Morgan Jones.
 
-**37.**[^key-63ba4a993156ffdb53278ced12bbcc4e] The parts of the Tonyfelin ward of the community of Caerphilly shown shaded on Map 12—
+**37.**[^c-63ba4a993156ffdb53278ced12bbcc4e] The parts of the Tonyfelin ward of the community of Caerphilly shown shaded on Map 12—
 
 - (a) are transferred to the Parcyfelin ward of the community of Caerphilly;
 - (b) form part of the electoral ward of Morgan Jones.
 
-## 38. Caerphilly — community electoral arrangements[^key-f0b08e6e6feab2191e83cebd26ca85ce]
+## 38. Caerphilly — community electoral arrangements[^c-f0b08e6e6feab2191e83cebd26ca85ce]
 
 In the community of Caerphilly the number of councillors to be elected for the—
 
@@ -274,24 +274,24 @@ In the community of Caerphilly the number of councillors to be elected for the�
 - (f) Twyn ward is 2;
 - (g) Watford ward is 2.
 
-## 39. Bargoed, and Pengam — changes in community and community ward boundaries and consequential changes to electoral arrangements[^key-fb4ab8d8b4618a092fc73c32e6d67ccc]
+## 39. Bargoed, and Pengam — changes in community and community ward boundaries and consequential changes to electoral arrangements[^c-fb4ab8d8b4618a092fc73c32e6d67ccc]
 
 The part of the Bargoed ward of the community of Bargoed shown shaded on Map 13—
 
 - (a) is transferred to the Gilfach ward of the community of Bargoed;
 - (b) forms part of the electoral ward of Gilfach.
 
-**40.**[^key-64bfc0e2cd00df6136d6361eb619f2c4] The parts of the Gilfach ward of the community of Bargoed shown shaded on Map 14—
+**40.**[^c-64bfc0e2cd00df6136d6361eb619f2c4] The parts of the Gilfach ward of the community of Bargoed shown shaded on Map 14—
 
 - (a) are transferred to the Park ward of the community of Bargoed;
 - (b) form part of the electoral ward of Aberbargoed and Bargoed.
 
-**41.**[^key-9b53bf0545a6dbf6d7ac02424108e1df] The part of the Aberbargoed ward of the community of Bargoed shown shaded on Map 15—
+**41.**[^c-9b53bf0545a6dbf6d7ac02424108e1df] The part of the Aberbargoed ward of the community of Bargoed shown shaded on Map 15—
 
 - (a) is transferred to the new community of Cefn Fforest and Pengam;
 - (b) forms part of the electoral ward of Cefn Fforest and Pengam.
 
-## 42. Bargoed — community electoral arrangements[^key-89677a435dfaf883b5daf0a3f1f2e1aa]
+## 42. Bargoed — community electoral arrangements[^c-89677a435dfaf883b5daf0a3f1f2e1aa]
 
 In the community of Bargoed the number of councillors to be elected for the—
 
@@ -300,49 +300,49 @@ In the community of Bargoed the number of councillors to be elected for the—
 - (c) Gilfach ward is 3;
 - (d) Park ward is 2.
 
-## 43. Cefn Fforest and Pengam — abolition of the communities of Cefn Fforest and Pengam[^key-f03ff4215a0ee022510b0d069fe91cf7]
+## 43. Cefn Fforest and Pengam — abolition of the communities of Cefn Fforest and Pengam[^c-f03ff4215a0ee022510b0d069fe91cf7]
 
 The existing community of Cefn Fforest is abolished.
 
-**44.**[^key-9572ee8b18fed3a5d982dde4da97496f] The existing community of Pengam is abolished.
+**44.**[^c-9572ee8b18fed3a5d982dde4da97496f] The existing community of Pengam is abolished.
 
-## 45. Creation of the new community of Cefn Fforest and Pengam[^key-adae7003f6d10d20c852c2a7394f824b]
+## 45. Creation of the new community of Cefn Fforest and Pengam[^c-adae7003f6d10d20c852c2a7394f824b]
 
 A new community is created which is to be known as Cefn Fforest and Pengam in the English language and Cefn Fforest a Phengam in the Welsh language and which—
 
 - (a) comprises the area shown shaded on Map 16;
 - (b) forms part of the electoral ward of Cefn Fforest and Pengam.
 
-## 46. The new community Cefn Fforest and Pengam —establishment of community council and community electoral arrangements[^key-7f601eed57b7411b305d5a53d33442e0]
+## 46. The new community Cefn Fforest and Pengam —establishment of community council and community electoral arrangements[^c-7f601eed57b7411b305d5a53d33442e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**47.**[^key-af61a6663ffaf356046be2b80b81a824] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**47.**[^c-af61a6663ffaf356046be2b80b81a824] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 48. Maesycwmmer, Pontllanfraith, and Llanbradach and Pwll-y-pant — changes in community boundaries and consequential changes to electoral arrangements[^key-f2fbff96c4fdf9c3ecb7f1a0e89f54ce]
+## 48. Maesycwmmer, Pontllanfraith, and Llanbradach and Pwll-y-pant — changes in community boundaries and consequential changes to electoral arrangements[^c-f2fbff96c4fdf9c3ecb7f1a0e89f54ce]
 
 The part of the community of Maesycwmmer shown shaded on Map 17—
 
 - (a) is transferred to the community of Pontllanfraith;
 - (b) forms part of the electoral ward of Pontllanfraith.
 
-**49.**[^key-3932987f0867655311e01636adfcee27] The part of the community of Maesycwmmer shown shaded on Map 18—
+**49.**[^c-3932987f0867655311e01636adfcee27] The part of the community of Maesycwmmer shown shaded on Map 18—
 
 - (a) is transferred to the Wingfield ward of the community of Llanbradach and Pwll-y-pant;
 - (b) forms part of the electoral ward of Llanbradach.
 
-## 50. Maesycwmmer — community ward electoral arrangements[^key-6f8ce7a8f468fef930dcfcc171942a8d]
+## 50. Maesycwmmer — community ward electoral arrangements[^c-6f8ce7a8f468fef930dcfcc171942a8d]
 
 In the community of Maesycwmmer the number of councillors to be elected is 8.
 
-## 51. Rhymney — combination of community wards and consequential changes to electoral arrangements[^key-4e10397feecca633328bdd685de51f8a]
+## 51. Rhymney — combination of community wards and consequential changes to electoral arrangements[^c-4e10397feecca633328bdd685de51f8a]
 
 In the community of Rhymney, the area of the community wards of St David’s, and Moriah are combined and—
 
 - (a) comprise a new community ward which is to be known as St David’s and Moriah in the English language and Dewi Sant a Moriah in the Welsh language and is shown shaded on Map 19;
 - (b) form part of the electoral ward of Moriah and Pontlottyn.
 
-## 52. Rhymney — community electoral arrangements[^key-5abd6e65236a50cf36f46cd8ec14b8df]
+## 52. Rhymney — community electoral arrangements[^c-5abd6e65236a50cf36f46cd8ec14b8df]
 
 In the community of Rhymney the number of councillors to be elected for the—
 
@@ -351,7 +351,7 @@ In the community of Rhymney the number of councillors to be elected for the—
 - (c) Pontlottyn ward is 3;
 - (d) Twyn Carno ward is 5.
 
-## 53. Initial expenses etc. of new community councils[^key-9355c293c60f7482a494b7a1bf60f2f2]
+## 53. Initial expenses etc. of new community councils[^c-9355c293c60f7482a494b7a1bf60f2f2]
 
 (1) In this article—
 
@@ -381,17 +381,17 @@ In the community of Rhymney the number of councillors to be elected for the—
   - (i) in sub-paragraphs (1), (2) and (3), the words after the first reference to “that financial year” were omitted;
   - (ii) in sub-paragraph (1)(a), the reference to “**April**” were a reference to “**May**”.
 
-## 54. New community councils[^key-6d04ae917fce02c9683a856adf3e975a]
+## 54. New community councils[^c-6d04ae917fce02c9683a856adf3e975a]
 
-The proper officer of Caerphilly County Borough Council must convene the first meeting of each of the new community councils established by articles 15 and 26[^key-45444a8d90999f1078845f3e43fa040c].
+The proper officer of Caerphilly County Borough Council must convene the first meeting of each of the new community councils established by articles 15 and 26[^c-45444a8d90999f1078845f3e43fa040c].
 
-## 55. New community councils — residuary successors[^key-9d5a6ef25d5e7789ae1788b2e49069e6]
+## 55. New community councils — residuary successors[^c-9d5a6ef25d5e7789ae1788b2e49069e6]
 
 For the purposes of any provision of the 1976 Regulations which refers to the residuary successor of a dissolved authority—
 
 - (a) for the existing community councils of Risca East and Risca West, the new community council of the new community of Risca is specified as the residuary successor;
 - (b) for the existing community councils of Bedwas, Trethomas and Machen, and Rudry, the new community council of the new community of Bedwas, Trethomas, Machen and Rudry is specified as the residuary successor;
-- (c)[^key-ebdbc5180df52f770769fbfad94c46fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-ebdbc5180df52f770769fbfad94c46fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Eluned Morgan
 
@@ -427,124 +427,124 @@ Prints of the maps labelled “1” to “19” to which this Order relates are 
 
 [^f00006]: Footnote: Section 26 was substituted by section 4 of the Local Government (Wales) Act [1994 (c. 19)](https://www.legislation.gov.uk/ukpga/1994/19). Section 26 was amended by [S.I. 2019/1269 (W. 220)](https://www.legislation.gov.uk/wsi/2019/1269) to provide that the year in which the ordinary elections of councillors of local authorities must take place is 2022 instead of 2021. Section 26(1) was further amended by section 14(1) of the Local Government and Elections (Wales) Act [2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1) to provide that elections must take place every fifth year after 2022.
 
-[^key-500b371e051f010e82e1099b413a275d]: Commencement: [Art. 1](https://www.legislation.gov.uk/wsi/2026/102/article/1) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
+[^c-500b371e051f010e82e1099b413a275d]: Commencement: [Art. 1](https://www.legislation.gov.uk/wsi/2026/102/article/1) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
 
 [^f00007]: Footnote: [S.I. 1976/246](https://www.legislation.gov.uk/uksi/1976/246). Section 74(3) of the Democracy and Boundary Commission Cymru etc. Act 2013 (“**the 2013 Act**”) provides that the Regulations continue to have effect in relation to orders made under Part 3 of the 2013 Act, as if those orders were made under Part 4 of the Local Government Act [1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70).
 
-[^key-3436892d21f47c2e70f50b0601cfb296]: Commencement: [Art. 2](https://www.legislation.gov.uk/wsi/2026/102/article/2) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
+[^c-3436892d21f47c2e70f50b0601cfb296]: Commencement: [Art. 2](https://www.legislation.gov.uk/wsi/2026/102/article/2) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
 
 [^f00008]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
 
-[^key-720e491df66634b9580a24190449c76a]: Commencement: [Art. 3](https://www.legislation.gov.uk/wsi/2026/102/article/3) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
+[^c-720e491df66634b9580a24190449c76a]: Commencement: [Art. 3](https://www.legislation.gov.uk/wsi/2026/102/article/3) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
 
-[^key-611bf795b7a3dffc0f831583a8c5ce96]: Commencement: [Art. 4](https://www.legislation.gov.uk/wsi/2026/102/article/4) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
+[^c-611bf795b7a3dffc0f831583a8c5ce96]: Commencement: [Art. 4](https://www.legislation.gov.uk/wsi/2026/102/article/4) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
 
-[^key-5d21ba4399152faa89e3fc8ad227e5df]: Commencement: [Art. 5](https://www.legislation.gov.uk/wsi/2026/102/article/5) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
+[^c-5d21ba4399152faa89e3fc8ad227e5df]: Commencement: [Art. 5](https://www.legislation.gov.uk/wsi/2026/102/article/5) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
 
-[^key-c9f7a8e3b4a8255ba6a081bc4e93c09c]: Commencement: [Art. 6](https://www.legislation.gov.uk/wsi/2026/102/article/6) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
+[^c-c9f7a8e3b4a8255ba6a081bc4e93c09c]: Commencement: [Art. 6](https://www.legislation.gov.uk/wsi/2026/102/article/6) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
 
-[^key-71354558ce8e04f2a88c4fc50110e951]: Commencement: [Art. 7](https://www.legislation.gov.uk/wsi/2026/102/article/7) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
+[^c-71354558ce8e04f2a88c4fc50110e951]: Commencement: [Art. 7](https://www.legislation.gov.uk/wsi/2026/102/article/7) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
 
-[^key-3b9e2c0dd97b01b20d757ea842ab4e1a]: Commencement: [Art. 8](https://www.legislation.gov.uk/wsi/2026/102/article/8) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
+[^c-3b9e2c0dd97b01b20d757ea842ab4e1a]: Commencement: [Art. 8](https://www.legislation.gov.uk/wsi/2026/102/article/8) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
 
-[^key-56ac0fdf1e825249b26d769ecb859535]: Commencement: [Art. 9](https://www.legislation.gov.uk/wsi/2026/102/article/9) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
+[^c-56ac0fdf1e825249b26d769ecb859535]: Commencement: [Art. 9](https://www.legislation.gov.uk/wsi/2026/102/article/9) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
 
-[^key-fb6ae376860fd4840b0ade9899c72736]: Commencement: [Art. 10](https://www.legislation.gov.uk/wsi/2026/102/article/10) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
+[^c-fb6ae376860fd4840b0ade9899c72736]: Commencement: [Art. 10](https://www.legislation.gov.uk/wsi/2026/102/article/10) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
 
-[^key-43f39ad976abd0cf2f72cc499f3a4d65]: Commencement: [Art. 11](https://www.legislation.gov.uk/wsi/2026/102/article/11) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
+[^c-43f39ad976abd0cf2f72cc499f3a4d65]: Commencement: [Art. 11](https://www.legislation.gov.uk/wsi/2026/102/article/11) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
 
-[^key-800eabcec2bd486dc0097fc45bcca46c]: Commencement: [Art. 12](https://www.legislation.gov.uk/wsi/2026/102/article/12) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
+[^c-800eabcec2bd486dc0097fc45bcca46c]: Commencement: [Art. 12](https://www.legislation.gov.uk/wsi/2026/102/article/12) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
 
-[^key-96c45c75882a669f22794e68544c008a]: Commencement: [Art. 13](https://www.legislation.gov.uk/wsi/2026/102/article/13) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
+[^c-96c45c75882a669f22794e68544c008a]: Commencement: [Art. 13](https://www.legislation.gov.uk/wsi/2026/102/article/13) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
 
-[^key-9858b22ae777e14d46cf118c83684434]: Commencement: [Art. 14](https://www.legislation.gov.uk/wsi/2026/102/article/14) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
+[^c-9858b22ae777e14d46cf118c83684434]: Commencement: [Art. 14](https://www.legislation.gov.uk/wsi/2026/102/article/14) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
 
-[^key-1c342e25831739745cf20e978616947b]: Commencement: [Art. 15](https://www.legislation.gov.uk/wsi/2026/102/article/15) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
+[^c-1c342e25831739745cf20e978616947b]: Commencement: [Art. 15](https://www.legislation.gov.uk/wsi/2026/102/article/15) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
 
-[^key-8723d434358f6b84e25060d1517e4ac4]: Commencement: [Art. 16](https://www.legislation.gov.uk/wsi/2026/102/article/16) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
+[^c-8723d434358f6b84e25060d1517e4ac4]: Commencement: [Art. 16](https://www.legislation.gov.uk/wsi/2026/102/article/16) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
 
-[^key-2e45fd83122e61f2a57d61e89ea6aac6]: Commencement: [Art. 17](https://www.legislation.gov.uk/wsi/2026/102/article/17) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
+[^c-2e45fd83122e61f2a57d61e89ea6aac6]: Commencement: [Art. 17](https://www.legislation.gov.uk/wsi/2026/102/article/17) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
 
-[^key-01953b2ec2eddb056eb3a0b7e5f745b0]: Commencement: [Art. 18](https://www.legislation.gov.uk/wsi/2026/102/article/18) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
+[^c-01953b2ec2eddb056eb3a0b7e5f745b0]: Commencement: [Art. 18](https://www.legislation.gov.uk/wsi/2026/102/article/18) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
 
-[^key-f02246369e150125648d0ffef390f39e]: Commencement: [Art. 19](https://www.legislation.gov.uk/wsi/2026/102/article/19) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
+[^c-f02246369e150125648d0ffef390f39e]: Commencement: [Art. 19](https://www.legislation.gov.uk/wsi/2026/102/article/19) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
 
-[^key-972fbe997515eaada1b075e40287df20]: Commencement: [Art. 20](https://www.legislation.gov.uk/wsi/2026/102/article/20) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
+[^c-972fbe997515eaada1b075e40287df20]: Commencement: [Art. 20](https://www.legislation.gov.uk/wsi/2026/102/article/20) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
 
-[^key-7ea2c2addbe7147a4f94a3a5ffb80aeb]: Commencement: [Art. 21](https://www.legislation.gov.uk/wsi/2026/102/article/21) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
+[^c-7ea2c2addbe7147a4f94a3a5ffb80aeb]: Commencement: [Art. 21](https://www.legislation.gov.uk/wsi/2026/102/article/21) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
 
-[^key-62d4ee3f2c8b3bb846de1569126ca480]: Commencement: [Art. 22](https://www.legislation.gov.uk/wsi/2026/102/article/22) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
+[^c-62d4ee3f2c8b3bb846de1569126ca480]: Commencement: [Art. 22](https://www.legislation.gov.uk/wsi/2026/102/article/22) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
 
-[^key-399952e2c17db9ae460c7d018b34f05b]: Commencement: [Art. 23](https://www.legislation.gov.uk/wsi/2026/102/article/23) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
+[^c-399952e2c17db9ae460c7d018b34f05b]: Commencement: [Art. 23](https://www.legislation.gov.uk/wsi/2026/102/article/23) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
 
-[^key-7e7f42f4393178155aa87aff38679431]: Commencement: [Art. 24](https://www.legislation.gov.uk/wsi/2026/102/article/24) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
+[^c-7e7f42f4393178155aa87aff38679431]: Commencement: [Art. 24](https://www.legislation.gov.uk/wsi/2026/102/article/24) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
 
-[^key-ca8de0a34f9de0ca0c1f9ca0e6ee1f31]: Commencement: [Art. 25](https://www.legislation.gov.uk/wsi/2026/102/article/25) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
+[^c-ca8de0a34f9de0ca0c1f9ca0e6ee1f31]: Commencement: [Art. 25](https://www.legislation.gov.uk/wsi/2026/102/article/25) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
 
-[^key-9f157fd468e1bf477b4aa5b0a4b16497]: Commencement: [Art. 26](https://www.legislation.gov.uk/wsi/2026/102/article/26) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
+[^c-9f157fd468e1bf477b4aa5b0a4b16497]: Commencement: [Art. 26](https://www.legislation.gov.uk/wsi/2026/102/article/26) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
 
-[^key-7108d2db62ae21aee49bc60968824def]: Commencement: [Art. 27](https://www.legislation.gov.uk/wsi/2026/102/article/27) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
+[^c-7108d2db62ae21aee49bc60968824def]: Commencement: [Art. 27](https://www.legislation.gov.uk/wsi/2026/102/article/27) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
 
-[^key-781bcb242b43e9c0fe2419fe906b7d09]: Commencement: [Art. 28](https://www.legislation.gov.uk/wsi/2026/102/article/28) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
+[^c-781bcb242b43e9c0fe2419fe906b7d09]: Commencement: [Art. 28](https://www.legislation.gov.uk/wsi/2026/102/article/28) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
 
-[^key-b0d323628f7f1d429d1ecd39f0dc9afb]: Commencement: [Art. 29](https://www.legislation.gov.uk/wsi/2026/102/article/29) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
+[^c-b0d323628f7f1d429d1ecd39f0dc9afb]: Commencement: [Art. 29](https://www.legislation.gov.uk/wsi/2026/102/article/29) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
 
-[^key-ee86ad95a30f064e86845fa001a6d9f8]: Commencement: [Art. 30](https://www.legislation.gov.uk/wsi/2026/102/article/30) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
+[^c-ee86ad95a30f064e86845fa001a6d9f8]: Commencement: [Art. 30](https://www.legislation.gov.uk/wsi/2026/102/article/30) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
 
-[^key-675e0cbc40520fa282caab86a5a89932]: Commencement: [Art. 31](https://www.legislation.gov.uk/wsi/2026/102/article/31) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
+[^c-675e0cbc40520fa282caab86a5a89932]: Commencement: [Art. 31](https://www.legislation.gov.uk/wsi/2026/102/article/31) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
 
-[^key-3533ecb4978a34845785d7419a7296a3]: Commencement: [Art. 32](https://www.legislation.gov.uk/wsi/2026/102/article/32) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
+[^c-3533ecb4978a34845785d7419a7296a3]: Commencement: [Art. 32](https://www.legislation.gov.uk/wsi/2026/102/article/32) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
 
-[^key-fd56a6e7b92861b42d4db604967f7702]: Commencement: [Art. 33](https://www.legislation.gov.uk/wsi/2026/102/article/33) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
+[^c-fd56a6e7b92861b42d4db604967f7702]: Commencement: [Art. 33](https://www.legislation.gov.uk/wsi/2026/102/article/33) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
 
-[^key-0230948fabda09e5f19e37ccf0770b25]: Commencement: [Art. 34](https://www.legislation.gov.uk/wsi/2026/102/article/34) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
+[^c-0230948fabda09e5f19e37ccf0770b25]: Commencement: [Art. 34](https://www.legislation.gov.uk/wsi/2026/102/article/34) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
 
-[^key-cdc0831a9f3fa1fef25ac375b75f5f68]: Commencement: [Art. 35](https://www.legislation.gov.uk/wsi/2026/102/article/35) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
+[^c-cdc0831a9f3fa1fef25ac375b75f5f68]: Commencement: [Art. 35](https://www.legislation.gov.uk/wsi/2026/102/article/35) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
 
-[^key-25d39a15248f252720a1af74b86456dc]: Commencement: [Art. 36](https://www.legislation.gov.uk/wsi/2026/102/article/36) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
+[^c-25d39a15248f252720a1af74b86456dc]: Commencement: [Art. 36](https://www.legislation.gov.uk/wsi/2026/102/article/36) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
 
-[^key-63ba4a993156ffdb53278ced12bbcc4e]: Commencement: [Art. 37](https://www.legislation.gov.uk/wsi/2026/102/article/37) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
+[^c-63ba4a993156ffdb53278ced12bbcc4e]: Commencement: [Art. 37](https://www.legislation.gov.uk/wsi/2026/102/article/37) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
 
-[^key-f0b08e6e6feab2191e83cebd26ca85ce]: Commencement: [Art. 38](https://www.legislation.gov.uk/wsi/2026/102/article/38) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
+[^c-f0b08e6e6feab2191e83cebd26ca85ce]: Commencement: [Art. 38](https://www.legislation.gov.uk/wsi/2026/102/article/38) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
 
-[^key-fb4ab8d8b4618a092fc73c32e6d67ccc]: Commencement: [Art. 39](https://www.legislation.gov.uk/wsi/2026/102/article/39) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
+[^c-fb4ab8d8b4618a092fc73c32e6d67ccc]: Commencement: [Art. 39](https://www.legislation.gov.uk/wsi/2026/102/article/39) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
 
-[^key-64bfc0e2cd00df6136d6361eb619f2c4]: Commencement: [Art. 40](https://www.legislation.gov.uk/wsi/2026/102/article/40) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
+[^c-64bfc0e2cd00df6136d6361eb619f2c4]: Commencement: [Art. 40](https://www.legislation.gov.uk/wsi/2026/102/article/40) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
 
-[^key-9b53bf0545a6dbf6d7ac02424108e1df]: Commencement: [Art. 41](https://www.legislation.gov.uk/wsi/2026/102/article/41) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
+[^c-9b53bf0545a6dbf6d7ac02424108e1df]: Commencement: [Art. 41](https://www.legislation.gov.uk/wsi/2026/102/article/41) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
 
-[^key-89677a435dfaf883b5daf0a3f1f2e1aa]: Commencement: [Art. 42](https://www.legislation.gov.uk/wsi/2026/102/article/42) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
+[^c-89677a435dfaf883b5daf0a3f1f2e1aa]: Commencement: [Art. 42](https://www.legislation.gov.uk/wsi/2026/102/article/42) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
 
-[^key-f03ff4215a0ee022510b0d069fe91cf7]: Commencement: [Art. 43](https://www.legislation.gov.uk/wsi/2026/102/article/43) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
+[^c-f03ff4215a0ee022510b0d069fe91cf7]: Commencement: [Art. 43](https://www.legislation.gov.uk/wsi/2026/102/article/43) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
 
-[^key-9572ee8b18fed3a5d982dde4da97496f]: Commencement: [Art. 44](https://www.legislation.gov.uk/wsi/2026/102/article/44) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
+[^c-9572ee8b18fed3a5d982dde4da97496f]: Commencement: [Art. 44](https://www.legislation.gov.uk/wsi/2026/102/article/44) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
 
-[^key-adae7003f6d10d20c852c2a7394f824b]: Commencement: [Art. 45](https://www.legislation.gov.uk/wsi/2026/102/article/45) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
+[^c-adae7003f6d10d20c852c2a7394f824b]: Commencement: [Art. 45](https://www.legislation.gov.uk/wsi/2026/102/article/45) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
 
-[^key-7f601eed57b7411b305d5a53d33442e0]: Textual amendment: Art. 46 omitted (31.7.2026) by virtue of [The County Borough of Caerphilly (Communities) and the County of Swansea (Communities) (Miscellaneous Amendments) Order 2026 (W.S.I. 2026/113)](https://www.legislation.gov.uk/wsi/2026/113), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2026/113/article/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2026/113/article/2/2)
+[^c-7f601eed57b7411b305d5a53d33442e0]: Textual amendment: Art. 46 omitted (31.7.2026) by virtue of [The County Borough of Caerphilly (Communities) and the County of Swansea (Communities) (Miscellaneous Amendments) Order 2026 (W.S.I. 2026/113)](https://www.legislation.gov.uk/wsi/2026/113), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2026/113/article/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2026/113/article/2/2)
 
-[^key-af61a6663ffaf356046be2b80b81a824]: Textual amendment: Art. 47 omitted (31.7.2026) by virtue of [The County Borough of Caerphilly (Communities) and the County of Swansea (Communities) (Miscellaneous Amendments) Order 2026 (W.S.I. 2026/113)](https://www.legislation.gov.uk/wsi/2026/113), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2026/113/article/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2026/113/article/2/2)
+[^c-af61a6663ffaf356046be2b80b81a824]: Textual amendment: Art. 47 omitted (31.7.2026) by virtue of [The County Borough of Caerphilly (Communities) and the County of Swansea (Communities) (Miscellaneous Amendments) Order 2026 (W.S.I. 2026/113)](https://www.legislation.gov.uk/wsi/2026/113), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2026/113/article/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2026/113/article/2/2)
 
-[^key-f2fbff96c4fdf9c3ecb7f1a0e89f54ce]: Commencement: [Art. 48](https://www.legislation.gov.uk/wsi/2026/102/article/48) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
+[^c-f2fbff96c4fdf9c3ecb7f1a0e89f54ce]: Commencement: [Art. 48](https://www.legislation.gov.uk/wsi/2026/102/article/48) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
 
-[^key-3932987f0867655311e01636adfcee27]: Commencement: [Art. 49](https://www.legislation.gov.uk/wsi/2026/102/article/49) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
+[^c-3932987f0867655311e01636adfcee27]: Commencement: [Art. 49](https://www.legislation.gov.uk/wsi/2026/102/article/49) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
 
-[^key-6f8ce7a8f468fef930dcfcc171942a8d]: Commencement: [Art. 50](https://www.legislation.gov.uk/wsi/2026/102/article/50) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
+[^c-6f8ce7a8f468fef930dcfcc171942a8d]: Commencement: [Art. 50](https://www.legislation.gov.uk/wsi/2026/102/article/50) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
 
-[^key-4e10397feecca633328bdd685de51f8a]: Commencement: [Art. 51](https://www.legislation.gov.uk/wsi/2026/102/article/51) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
+[^c-4e10397feecca633328bdd685de51f8a]: Commencement: [Art. 51](https://www.legislation.gov.uk/wsi/2026/102/article/51) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
 
-[^key-5abd6e65236a50cf36f46cd8ec14b8df]: Commencement: [Art. 52](https://www.legislation.gov.uk/wsi/2026/102/article/52) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
+[^c-5abd6e65236a50cf36f46cd8ec14b8df]: Commencement: [Art. 52](https://www.legislation.gov.uk/wsi/2026/102/article/52) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
 
-[^key-9355c293c60f7482a494b7a1bf60f2f2]: Commencement: [Art. 53](https://www.legislation.gov.uk/wsi/2026/102/article/53) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
+[^c-9355c293c60f7482a494b7a1bf60f2f2]: Commencement: [Art. 53](https://www.legislation.gov.uk/wsi/2026/102/article/53) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
 
 [^f00009]: Footnote: [1992 c. 14](https://www.legislation.gov.uk/ukpga/1992/14). Sections 32 and 35 were amended, in relation to Wales, by paragraphs 4 and 6 respectively of Schedule 12 to the Local Government (Wales) Act [1994 (c. 19)](https://www.legislation.gov.uk/ukpga/1994/19). Section 50 was amended by Part 1 of Schedule 8 to the Local Government Act [2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26). Sections 52X and 52Y were inserted by Part 1 of Schedule 1 to the Local Government Act [1999 (c. 27)](https://www.legislation.gov.uk/ukpga/1999/27).
 
 [^f00010]: Footnote: [S.I. 1995/2562](https://www.legislation.gov.uk/uksi/1995/2562) to which there are amendments not relevant to this Order.
 
-[^key-6d04ae917fce02c9683a856adf3e975a]: Commencement: Art. 54 in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
+[^c-6d04ae917fce02c9683a856adf3e975a]: Commencement: Art. 54 in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
 
-[^key-45444a8d90999f1078845f3e43fa040c]: Textual amendment: Words in art. 54 substituted (31.7.2026) by [The County Borough of Caerphilly (Communities) and the County of Swansea (Communities) (Miscellaneous Amendments) Order 2026 (W.S.I. 2026/113)](https://www.legislation.gov.uk/wsi/2026/113), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2026/113/article/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2026/113/article/2/3)
+[^c-45444a8d90999f1078845f3e43fa040c]: Textual amendment: Words in art. 54 substituted (31.7.2026) by [The County Borough of Caerphilly (Communities) and the County of Swansea (Communities) (Miscellaneous Amendments) Order 2026 (W.S.I. 2026/113)](https://www.legislation.gov.uk/wsi/2026/113), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2026/113/article/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2026/113/article/2/3)
 
-[^key-9d5a6ef25d5e7789ae1788b2e49069e6]: Commencement: Art. 55 in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
+[^c-9d5a6ef25d5e7789ae1788b2e49069e6]: Commencement: Art. 55 in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/102/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/102/article/1/3)
 
-[^key-ebdbc5180df52f770769fbfad94c46fd]: Textual amendment: Art. 55(c) omitted (31.7.2026) by virtue of [The County Borough of Caerphilly (Communities) and the County of Swansea (Communities) (Miscellaneous Amendments) Order 2026 (W.S.I. 2026/113)](https://www.legislation.gov.uk/wsi/2026/113), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2026/113/article/1/2), [2(4)](https://www.legislation.gov.uk/wsi/2026/113/article/2/4)
+[^c-ebdbc5180df52f770769fbfad94c46fd]: Textual amendment: Art. 55(c) omitted (31.7.2026) by virtue of [The County Borough of Caerphilly (Communities) and the County of Swansea (Communities) (Miscellaneous Amendments) Order 2026 (W.S.I. 2026/113)](https://www.legislation.gov.uk/wsi/2026/113), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2026/113/article/1/2), [2(4)](https://www.legislation.gov.uk/wsi/2026/113/article/2/4)

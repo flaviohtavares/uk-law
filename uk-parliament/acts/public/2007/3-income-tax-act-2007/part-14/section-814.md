@@ -39,7 +39,7 @@ summary: ''
 - (a) so much of the non-UK resident's business carried on (alone or in partnership) through the broker or investment manager as relates to the transaction, or
 - (b) property or rights which, as a result of the transaction, are used by, or held by or for, the broker or investment manager on behalf of the non-UK resident.
 
-(6)[^key-3c4844444de917af16e3fff6eea9a583] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-3c4844444de917af16e3fff6eea9a583] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) This section needs to be read with—
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3c4844444de917af16e3fff6eea9a583]: Textual amendment: S. 814(6) omitted (for chargeable periods beginning on or after 1.1.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 7 paras. 25](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/25), [30](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/30)
+[^c-3c4844444de917af16e3fff6eea9a583]: Textual amendment: S. 814(6) omitted (for chargeable periods beginning on or after 1.1.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 7 paras. 25](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/25), [30](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/30)

@@ -27,7 +27,7 @@ summary: ''
 
 (2) The Lower Tier conditions are that—
 
-- (a) M is qualified for retirement benefits and[^key-0979af78a2564033957b123829a763be] has not attained normal pension age;
+- (a) M is qualified for retirement benefits and[^c-0979af78a2564033957b123829a763be] has not attained normal pension age;
 - (b) M has ceased to be employed in NHS employment;
 - (c) the Scheme Manager is satisfied that M suffers from physical or mental infirmity as a result of which M is permanently incapable of efficiently discharging the duties of M's employment;
 - (d) M's employment is terminated because of the physical or mental infirmity; and
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0979af78a2564033957b123829a763be]: Textual amendment: Words in [reg. 89(2)(a)](https://www.legislation.gov.uk/ssi/2015/94/regulation/89/2/a) inserted (31.1.2018) by [The National Health Service Pension Scheme (Scotland) (Miscellaneous Amendments) (No. 2) Regulations 2017 (S.S.I. 2017/433)](https://www.legislation.gov.uk/ssi/2017/433), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/433/regulation/1/1), [10](https://www.legislation.gov.uk/ssi/2017/433/regulation/10)
+[^c-0979af78a2564033957b123829a763be]: Textual amendment: Words in [reg. 89(2)(a)](https://www.legislation.gov.uk/ssi/2015/94/regulation/89/2/a) inserted (31.1.2018) by [The National Health Service Pension Scheme (Scotland) (Miscellaneous Amendments) (No. 2) Regulations 2017 (S.S.I. 2017/433)](https://www.legislation.gov.uk/ssi/2017/433), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/433/regulation/1/1), [10](https://www.legislation.gov.uk/ssi/2017/433/regulation/10)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 153. Club transfer value statement[^key-bc43dc816bfc7e8fcd8a0fe856635dd2]
+## 153. Club transfer value statement[^c-bc43dc816bfc7e8fcd8a0fe856635dd2]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bc43dc816bfc7e8fcd8a0fe856635dd2]: Commencement: [Reg. 153](https://www.legislation.gov.uk/uksi/2014/1964/regulation/153) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-bc43dc816bfc7e8fcd8a0fe856635dd2]: Commencement: [Reg. 153](https://www.legislation.gov.uk/uksi/2014/1964/regulation/153) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)

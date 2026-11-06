@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 4[^key-24e56bcabbe4b94474e0aa01c5311720]
+## SCHEDULE 4[^c-24e56bcabbe4b94474e0aa01c5311720]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ Regulation 12(1)(*b*)
 
 ## Annotations
 
-[^key-24e56bcabbe4b94474e0aa01c5311720]: Commencement: Sch. 4 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/494/regulation/1)
+[^c-24e56bcabbe4b94474e0aa01c5311720]: Commencement: Sch. 4 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/494/regulation/1)

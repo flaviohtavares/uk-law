@@ -154,7 +154,7 @@ Section 196
 
 (2) In paragraph 12(4), for “the offences” substitute “ the offence ”.
 
-(3)[^key-f856c1d119cc8e2ded0c5928a7acac41] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-f856c1d119cc8e2ded0c5928a7acac41] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Criminal Justice and Police Act 2001
 
@@ -243,4 +243,4 @@ Section 196
 
 ## Annotations
 
-[^key-f856c1d119cc8e2ded0c5928a7acac41]: Textual amendment: [Sch. 28 para. 20(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/28/paragraph/20/3) omitted (1.4.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 88(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/88/3), [Sch. 13 para. 17(d)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/17/d) (with [Sch. 13 para. 21](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/21))
+[^c-f856c1d119cc8e2ded0c5928a7acac41]: Textual amendment: [Sch. 28 para. 20(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/28/paragraph/20/3) omitted (1.4.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 88(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/88/3), [Sch. 13 para. 17(d)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/17/d) (with [Sch. 13 para. 21](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/21))

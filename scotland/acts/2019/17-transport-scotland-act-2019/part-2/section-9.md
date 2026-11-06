@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. Power to make or modify a low emission zone scheme[^key-a015e67e52a5f29cf713cbde785b5532]
+## 9. Power to make or modify a low emission zone scheme[^c-a015e67e52a5f29cf713cbde785b5532]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a015e67e52a5f29cf713cbde785b5532]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2019/17/section/9) in force at 14.1.2021 by [S.S.I. 2020/429](https://www.legislation.gov.uk/ssi/2020/429), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2020/429/regulation/2/a)
+[^c-a015e67e52a5f29cf713cbde785b5532]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2019/17/section/9) in force at 14.1.2021 by [S.S.I. 2020/429](https://www.legislation.gov.uk/ssi/2020/429), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2020/429/regulation/2/a)

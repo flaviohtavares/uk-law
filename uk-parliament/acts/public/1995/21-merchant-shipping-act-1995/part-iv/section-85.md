@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Safety and health on ships.[^key-3fcffd947b8c13a2fa6394457370a7ab][^key-762919b4f154852cb53de6323f7b4882]
+## 85. Safety and health on ships.[^c-3fcffd947b8c13a2fa6394457370a7ab][^c-762919b4f154852cb53de6323f7b4882]
 
 *Extent: E+W+S+N.I.*
 
@@ -84,7 +84,7 @@ but the mention of specific matters in this subsection shall not be construed as
 - (d) that, in such cases as are prescribed by the regulations, such persons as are so prescribed shall each be guilty of an offence created by virtue of paragraph (b) or (c) above;
 - (e) that, notwithstanding anything in paragraph (b) or (c) above, a person convicted summarily of an offence under the regulations of a kind which is stated by the regulations to correspond to an offence which is triable either summarily or on indictment under an enactment specified in the regulations which authorises or authorised a fine on summary conviction of a maximum amount exceeding the statutory maximum shall be liable to a fine not exceeding that maximum amount.
 
-(8)[^key-288f2bacb44a794432146172b35cd64e] Safety regulations which make provision in respect of the prohibition of smoking on any ship (“**the smoking provisions**”) may include provision—
+(8)[^c-288f2bacb44a794432146172b35cd64e] Safety regulations which make provision in respect of the prohibition of smoking on any ship (“**the smoking provisions**”) may include provision—
 
 - (a) for the appointment by the Secretary of State of persons to enforce the smoking provisions (whether in respect of ships generally or for any particular case or purpose), and for the removal of any person so appointed,
 - (b) for such persons (if they are not surveyors of ships appointed under section 256) to have the powers of such surveyors for the purposes of their enforcement functions,
@@ -95,9 +95,9 @@ In this subsection, “**smoking**” has the same meaning as in Chapter 1 of Pa
 
 ## Annotations
 
-[^key-3fcffd947b8c13a2fa6394457370a7ab]: Modification: [S. 85](https://www.legislation.gov.uk/ukpga/1995/21/section/85) applied (31.3.2023) by [The Merchant Shipping (Watercraft) Order 2023 (S.I. 2023/35)](https://www.legislation.gov.uk/uksi/2023/35), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1), [9](https://www.legislation.gov.uk/uksi/2023/35/article/9)
+[^c-3fcffd947b8c13a2fa6394457370a7ab]: Modification: [S. 85](https://www.legislation.gov.uk/ukpga/1995/21/section/85) applied (31.3.2023) by [The Merchant Shipping (Watercraft) Order 2023 (S.I. 2023/35)](https://www.legislation.gov.uk/uksi/2023/35), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1), [9](https://www.legislation.gov.uk/uksi/2023/35/article/9)
 
-[^key-762919b4f154852cb53de6323f7b4882]: Modification: [Ss. 85](https://www.legislation.gov.uk/ukpga/1995/21/section/85), [86](https://www.legislation.gov.uk/ukpga/1995/21/section/86) extended (with modifications) (16.10.2025) by [S.I. 1989/1350](https://www.legislation.gov.uk/uksi/1989/1350), [art. 4](https://www.legislation.gov.uk/uksi/1989/1350/article/4) (as amended by [The Hovercraft (Application of Enactments) (Amendment) Order 2025 (S.I. 2025/1094)](https://www.legislation.gov.uk/uksi/2025/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1094/article/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2025/1094/article/2/4))
+[^c-762919b4f154852cb53de6323f7b4882]: Modification: [Ss. 85](https://www.legislation.gov.uk/ukpga/1995/21/section/85), [86](https://www.legislation.gov.uk/ukpga/1995/21/section/86) extended (with modifications) (16.10.2025) by [S.I. 1989/1350](https://www.legislation.gov.uk/uksi/1989/1350), [art. 4](https://www.legislation.gov.uk/uksi/1989/1350/article/4) (as amended by [The Hovercraft (Application of Enactments) (Amendment) Order 2025 (S.I. 2025/1094)](https://www.legislation.gov.uk/uksi/2025/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1094/article/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2025/1094/article/2/4))
 
 [^c14525821]: Textual amendment: S. 85(1)(b) substituted (19.3.1997) for s. 85(1)(b)(c) and the words following para. (c) by [1997 c. 28](https://www.legislation.gov.uk/ukpga/1997/28), [ss. 8(2)](https://www.legislation.gov.uk/ukpga/1997/28/section/8/2), [31(4)](https://www.legislation.gov.uk/ukpga/1997/28/section/31/4)
 
@@ -109,4 +109,4 @@ In this subsection, “**smoking**” has the same meaning as in Chapter 1 of Pa
 
 [^c14525871]: Textual amendment: Words in s. 85(4) substituted (19.3.1997) by [1997 c. 28](https://www.legislation.gov.uk/ukpga/1997/28), [s. 8(5)](https://www.legislation.gov.uk/ukpga/1997/28/section/8/5)
 
-[^key-288f2bacb44a794432146172b35cd64e]: Textual amendment: [S. 85(8)](https://www.legislation.gov.uk/ukpga/1995/21/section/85/8) added (19.7.2006 for specified purposes, 2.4.2007 for W. in so far as not already in force, 1.7.2007 for E.S.N.I. in so far as not already in force) by [Health Act 2006 (c. 28)](https://www.legislation.gov.uk/ukpga/2006/28), [ss. 5(4)](https://www.legislation.gov.uk/ukpga/2006/28/section/5/4), [83(1)(e)](https://www.legislation.gov.uk/ukpga/2006/28/section/83/1/e)[(4)(a)](https://www.legislation.gov.uk/ukpga/2006/28/section/83/4/a) (with [s. 12(3)](https://www.legislation.gov.uk/ukpga/2006/28/section/12/3)[(4)](https://www.legislation.gov.uk/ukpga/2006/28/section/12/4)); [S.I. 2007/204](https://www.legislation.gov.uk/wsi/2007/204), [art. 2(a)](https://www.legislation.gov.uk/wsi/2007/204/article/2/a); [S.I. 2007/1375](https://www.legislation.gov.uk/uksi/2007/1375), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/1375/article/2/a)
+[^c-288f2bacb44a794432146172b35cd64e]: Textual amendment: [S. 85(8)](https://www.legislation.gov.uk/ukpga/1995/21/section/85/8) added (19.7.2006 for specified purposes, 2.4.2007 for W. in so far as not already in force, 1.7.2007 for E.S.N.I. in so far as not already in force) by [Health Act 2006 (c. 28)](https://www.legislation.gov.uk/ukpga/2006/28), [ss. 5(4)](https://www.legislation.gov.uk/ukpga/2006/28/section/5/4), [83(1)(e)](https://www.legislation.gov.uk/ukpga/2006/28/section/83/1/e)[(4)(a)](https://www.legislation.gov.uk/ukpga/2006/28/section/83/4/a) (with [s. 12(3)](https://www.legislation.gov.uk/ukpga/2006/28/section/12/3)[(4)](https://www.legislation.gov.uk/ukpga/2006/28/section/12/4)); [S.I. 2007/204](https://www.legislation.gov.uk/wsi/2007/204), [art. 2(a)](https://www.legislation.gov.uk/wsi/2007/204/article/2/a); [S.I. 2007/1375](https://www.legislation.gov.uk/uksi/2007/1375), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/1375/article/2/a)

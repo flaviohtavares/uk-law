@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## C1. Salary on which contributions are payable[^key-bd5383d6f416320be75d014f4b9a6106]
+## C1. Salary on which contributions are payable[^c-bd5383d6f416320be75d014f4b9a6106]
 
 *Extent: N.I.*
 
@@ -86,7 +86,7 @@ summary: ''
 
 ## Annotations
 
-[^key-bd5383d6f416320be75d014f4b9a6106]: Commencement: Reg. C1 in operation at 2.11.1998, see reg. A1
+[^c-bd5383d6f416320be75d014f4b9a6106]: Commencement: Reg. C1 in operation at 2.11.1998, see reg. A1
 
 [^f00010]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1); section 590C was inserted by the Finance Act [1989 (c. 26)](https://www.legislation.gov.uk/ukpga/1989/26) Schedule 6, paragraph 4
 

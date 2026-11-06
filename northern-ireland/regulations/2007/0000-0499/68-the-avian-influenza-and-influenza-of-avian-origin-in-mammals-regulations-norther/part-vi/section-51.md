@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 51. Veterinary surveillance of birds[^key-1ad5055322858bcc0f5dd0e42616133d]
+## 51. Veterinary surveillance of birds[^c-1ad5055322858bcc0f5dd0e42616133d]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ The Department must ensure that birds, on infected premises which are special ca
 
 ## Annotations
 
-[^key-1ad5055322858bcc0f5dd0e42616133d]: Commencement: Reg. 51 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
+[^c-1ad5055322858bcc0f5dd0e42616133d]: Commencement: Reg. 51 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)

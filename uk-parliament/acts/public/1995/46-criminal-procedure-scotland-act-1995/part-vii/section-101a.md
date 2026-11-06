@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101A. Post-offence convictions etc.[^key-885dddafc9400cb7999907d1cba71df5]
+## 101A. Post-offence convictions etc.[^c-885dddafc9400cb7999907d1cba71df5]
 
 *Extent: S*
 
@@ -41,10 +41,10 @@ summary: ''
 - (a) specified in a notice laid before the court by the prosecutor, and
 - (b) admitted by the accused or proved by the prosecutor (on evidence adduced then or at another diet).
 
-(5) A reference in this section to a conviction which occurred on or after the date of offence O is a reference to such a conviction by a court in any part of the United Kingdom or , where the court considers appropriate, in any[^key-f6738fa14f4cf073706b814898df54c1] member State of the European Union.
+(5) A reference in this section to a conviction which occurred on or after the date of offence O is a reference to such a conviction by a court in any part of the United Kingdom or , where the court considers appropriate, in any[^c-f6738fa14f4cf073706b814898df54c1] member State of the European Union.
 
 ## Annotations
 
-[^key-885dddafc9400cb7999907d1cba71df5]: Textual amendment: S. 101A inserted (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 70(1)](https://www.legislation.gov.uk/asp/2010/13/section/70/1), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-885dddafc9400cb7999907d1cba71df5]: Textual amendment: S. 101A inserted (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 70(1)](https://www.legislation.gov.uk/asp/2010/13/section/70/1), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
 
-[^key-f6738fa14f4cf073706b814898df54c1]: Textual amendment: Words in s. 101A(5) substituted (31.12.2020) by [The Criminal Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/339)](https://www.legislation.gov.uk/ssi/2020/339), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3), [13(7)](https://www.legislation.gov.uk/ssi/2020/339/regulation/13/7) (with [reg. 16](https://www.legislation.gov.uk/ssi/2020/339/regulation/16))
+[^c-f6738fa14f4cf073706b814898df54c1]: Textual amendment: Words in s. 101A(5) substituted (31.12.2020) by [The Criminal Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/339)](https://www.legislation.gov.uk/ssi/2020/339), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3), [13(7)](https://www.legislation.gov.uk/ssi/2020/339/regulation/13/7) (with [reg. 16](https://www.legislation.gov.uk/ssi/2020/339/regulation/16))

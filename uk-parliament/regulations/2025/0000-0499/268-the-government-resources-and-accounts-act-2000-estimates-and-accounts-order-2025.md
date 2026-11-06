@@ -48,13 +48,13 @@ The Treasury make this Order in exercise of the powers conferred by section 4A(3
 
 In accordance with section 4A(8) of that Act the Treasury have consulted, where they think it appropriate, the Scottish Ministers, the Department for Finance and Personnel for Northern Ireland and the Welsh Ministers.
 
-## 1. Citation, commencement and extent[^key-5826728783ac7980500f25ef9a4ccaf7]
+## 1. Citation, commencement and extent[^c-5826728783ac7980500f25ef9a4ccaf7]
 
 (1) This Order may be cited as the Government Resources and Accounts Act 2000 (Estimates and Accounts) Order 2025 and comes into force on 1st April 2025.
 
 (2) This Order extends to England and Wales, Scotland and Northern Ireland.
 
-## 2. Designations[^key-56dff655d625b82cf6ccba475a78a67a]
+## 2. Designations[^c-56dff655d625b82cf6ccba475a78a67a]
 
 A body which is listed in a Part of the Schedule to this Order is a designated body for the purposes of section 4A of the Government Resources and Accounts Act 2000—
 
@@ -69,7 +69,7 @@ Two of the Lords Commissioners of His Majesty’s Treasury
 
 5th March 2025
 
-## Schedule — Designated Bodies[^key-da9a35e1549fd1013a60088f10616696]
+## Schedule — Designated Bodies[^c-da9a35e1549fd1013a60088f10616696]
 
 ### Part 1 — Department of Health and Social Care
 
@@ -344,7 +344,7 @@ Two of the Lords Commissioners of His Majesty’s Treasury
 - Daresbury SIC (PubSec) LLP
 - Diamond Light Source Limited
 - Harwell Science and Innovation Campus Public Sector Limited Partnership
-- Information Commission[^key-e7d3d363bcbd1a855550edd097285066]
+- Information Commission[^c-e7d3d363bcbd1a855550edd097285066]
 - Information Commissioner
 - Innovate UK Loans Limited
 - Knowledge Transfer Network Limited
@@ -581,10 +581,10 @@ A full impact assessment has not been prepared for this instrument as no, or no 
 
 [^f00001]: Footnote: [2000 c. 20](https://www.legislation.gov.uk/ukpga/2000/20). Section 4A was inserted by section 43(2) of the Constitutional Reform and Governance Act [2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25).
 
-[^key-5826728783ac7980500f25ef9a4ccaf7]: Commencement: Art. 1 in force at 1.4.2025, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/268/article/1/1)
+[^c-5826728783ac7980500f25ef9a4ccaf7]: Commencement: Art. 1 in force at 1.4.2025, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/268/article/1/1)
 
-[^key-56dff655d625b82cf6ccba475a78a67a]: Commencement: Art. 2 in force at 1.4.2025, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/268/article/1/1)
+[^c-56dff655d625b82cf6ccba475a78a67a]: Commencement: Art. 2 in force at 1.4.2025, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/268/article/1/1)
 
-[^key-da9a35e1549fd1013a60088f10616696]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2025/268/schedule) substituted (31.1.2026) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2025 (S.I. 2025/1336)](https://www.legislation.gov.uk/uksi/2025/1336), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1336/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1336/schedule)
+[^c-da9a35e1549fd1013a60088f10616696]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2025/268/schedule) substituted (31.1.2026) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2025 (S.I. 2025/1336)](https://www.legislation.gov.uk/uksi/2025/1336), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1336/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1336/schedule)
 
-[^key-e7d3d363bcbd1a855550edd097285066]: Textual amendment: Words in [Sch. Pt. 9](https://www.legislation.gov.uk/uksi/2025/268/schedule/part/9) inserted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 32](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/32); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-e7d3d363bcbd1a855550edd097285066]: Textual amendment: Words in [Sch. Pt. 9](https://www.legislation.gov.uk/uksi/2025/268/schedule/part/9) inserted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 32](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/32); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)

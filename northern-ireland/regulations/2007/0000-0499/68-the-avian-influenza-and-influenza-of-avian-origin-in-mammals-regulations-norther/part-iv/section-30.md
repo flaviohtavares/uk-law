@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 30. Measures in a protection zone[^key-f75b35f6d7a521db4e834b88f0fe5108]
+## 30. Measures in a protection zone[^c-f75b35f6d7a521db4e834b88f0fe5108]
 
 *Extent: N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f75b35f6d7a521db4e834b88f0fe5108]: Commencement: Reg. 30 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
+[^c-f75b35f6d7a521db4e834b88f0fe5108]: Commencement: Reg. 30 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 141. Right of inspection[^key-a773ed40bef7a53a55323e1b8533e6d5]
+## 141. Right of inspection[^c-a773ed40bef7a53a55323e1b8533e6d5]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a773ed40bef7a53a55323e1b8533e6d5]: Commencement: [Rule 141](https://www.legislation.gov.uk/uksi/2013/3208/rule/141) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-a773ed40bef7a53a55323e1b8533e6d5]: Commencement: [Rule 141](https://www.legislation.gov.uk/uksi/2013/3208/rule/141) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

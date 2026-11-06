@@ -33,7 +33,7 @@ ENVIRONMENTAL PROTECTION
 
 WATER
 
-The Water Environment (Controlled Activities) (Scotland) Regulations 2005 (revoked)[^key-207df7a53bae310a9dec8f8229d375c1]
+The Water Environment (Controlled Activities) (Scotland) Regulations 2005 (revoked)[^c-207df7a53bae310a9dec8f8229d375c1]
 
 Made
 
@@ -41,11 +41,11 @@ Made
 
 Coming into force in accordance with regulation 1
 
-[^key-207df7a53bae310a9dec8f8229d375c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-207df7a53bae310a9dec8f8229d375c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART I — General[^key-207df7a53bae310a9dec8f8229d375c1]
+### PART I — General[^c-207df7a53bae310a9dec8f8229d375c1]
 
 *Extent: S*
 
@@ -58,7 +58,7 @@ Coming into force in accordance with regulation 1
 - [Section 5 — Prohibition](part-i/section-5.md)
 - [Section 6 — Duty to use water efficiently](part-i/section-6.md)
 
-### PART II — Authorisations[^key-207df7a53bae310a9dec8f8229d375c1]
+### PART II — Authorisations[^c-207df7a53bae310a9dec8f8229d375c1]
 
 *Extent: S*
 
@@ -70,7 +70,7 @@ Coming into force in accordance with regulation 1
 - [Section 10 — Groundwater Directive](part-ii/section-10.md)
 - [Section 11 — Power of SEPA to impose authorisation](part-ii/section-11.md)
 
-### PART III — Applications and Application Procedure[^key-207df7a53bae310a9dec8f8229d375c1]
+### PART III — Applications and Application Procedure[^c-207df7a53bae310a9dec8f8229d375c1]
 
 *Extent: S*
 
@@ -83,7 +83,7 @@ Coming into force in accordance with regulation 1
 - [Section 16 — Time-limits for determining applications](part-iii/section-16.md)
 - [Section 17 — Determinations of applications by the Scottish Ministers](part-iii/section-17.md)
 
-### PART IV — Modification and termination of authorisations[^key-207df7a53bae310a9dec8f8229d375c1]
+### PART IV — Modification and termination of authorisations[^c-207df7a53bae310a9dec8f8229d375c1]
 
 *Extent: S*
 
@@ -99,7 +99,7 @@ Coming into force in accordance with regulation 1
 - [Section 25 — Determination of application for surrender](part-iv/section-25.md)
 - [Section 26 — Suspension and revocation of authorisation](part-iv/section-26.md)
 
-### PART V — Enforcement and other powers[^key-207df7a53bae310a9dec8f8229d375c1]
+### PART V — Enforcement and other powers[^c-207df7a53bae310a9dec8f8229d375c1]
 
 *Extent: S*
 
@@ -111,7 +111,7 @@ Coming into force in accordance with regulation 1
 - [Section 30 — Enforcement notices – rights of entry, compensation etc.](part-v/section-30.md)
 - [Section 31 — Enforcement by the courts](part-v/section-31.md)
 
-### PART VI — Information and Register[^key-207df7a53bae310a9dec8f8229d375c1]
+### PART VI — Information and Register[^c-207df7a53bae310a9dec8f8229d375c1]
 
 *Extent: S*
 
@@ -126,7 +126,7 @@ Coming into force in accordance with regulation 1
 - [Section 38 — Effect of determination](part-vi/section-38.md)
 - [Section 39 — Directions to SEPA concerning confidential information](part-vi/section-39.md)
 
-### PART VII — Offences[^key-207df7a53bae310a9dec8f8229d375c1]
+### PART VII — Offences[^c-207df7a53bae310a9dec8f8229d375c1]
 
 *Extent: S*
 
@@ -139,7 +139,7 @@ Coming into force in accordance with regulation 1
 - [Section 44 — Defence to principal offences](part-vii/section-44.md)
 - [Section 45 — Power of court to order offence to be remedied](part-vii/section-45.md)
 
-### PART VIII — Appeals[^key-207df7a53bae310a9dec8f8229d375c1]
+### PART VIII — Appeals[^c-207df7a53bae310a9dec8f8229d375c1]
 
 *Extent: S*
 
@@ -150,7 +150,7 @@ Coming into force in accordance with regulation 1
 - [Section 48 — Effect of notices etc. during consideration of appeal](part-viii/section-48.md)
 - [Section 49 — Appeals – miscellaneous](part-viii/section-49.md)
 
-### PART IX — General[^key-207df7a53bae310a9dec8f8229d375c1]
+### PART IX — General[^c-207df7a53bae310a9dec8f8229d375c1]
 
 *Extent: S*
 
@@ -177,16 +177,16 @@ Coming into force in accordance with regulation 1
 
 **No longer in force.**
 
-[^key-207df7a53bae310a9dec8f8229d375c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-207df7a53bae310a9dec8f8229d375c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: S*
 
 **May not be in force at this date. Check the source.**
 
-[^key-207df7a53bae310a9dec8f8229d375c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-207df7a53bae310a9dec8f8229d375c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-207df7a53bae310a9dec8f8229d375c1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2005/348) revoked (31.3.2011) by [The Water Environment (Controlled Activities) (Scotland) Regulations 2011 (S.S.I. 2011/209)](https://www.legislation.gov.uk/ssi/2011/209), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2011/209/regulation/1/2), [58(1)(a)](https://www.legislation.gov.uk/ssi/2011/209/regulation/58/1/a) (with [regs. 3](https://www.legislation.gov.uk/ssi/2011/209/regulation/3), [54](https://www.legislation.gov.uk/ssi/2011/209/regulation/54), [sch. 10](https://www.legislation.gov.uk/ssi/2011/209/schedule/10))
+[^c-207df7a53bae310a9dec8f8229d375c1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2005/348) revoked (31.3.2011) by [The Water Environment (Controlled Activities) (Scotland) Regulations 2011 (S.S.I. 2011/209)](https://www.legislation.gov.uk/ssi/2011/209), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2011/209/regulation/1/2), [58(1)(a)](https://www.legislation.gov.uk/ssi/2011/209/regulation/58/1/a) (with [regs. 3](https://www.legislation.gov.uk/ssi/2011/209/regulation/3), [54](https://www.legislation.gov.uk/ssi/2011/209/regulation/54), [sch. 10](https://www.legislation.gov.uk/ssi/2011/209/schedule/10))
 
     \[**Editorial note**: No historical revised versions have been created for amendments to this S.S.I. made prior to its final revocation. A revised version of how the S.S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the ‘Original (As Made)’ version. For further details of the amendments see the List of All Changes available in ‘More Resources’\]

@@ -313,7 +313,7 @@ Section 12
 
 (13) In paragraph 14(1), omit the words after paragraph (b).
 
-(14)[^key-815c63969d02aaa725ac02247ba7900b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(14)[^c-815c63969d02aaa725ac02247ba7900b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part 2 — Minor amendments and transitional provisions
 
@@ -377,6 +377,6 @@ Any notification under paragraph 4(4) of Schedule 1 to the Betting and Gaming Du
 
 [^c10569821]: Commencement: Sch. 6 para. 10 wholly in force; Sch. 6 para. 10(1)(2)(5)-(11)(13)(14) in force at 24.4.2002; Sch. 6 para. 10(3)(4)(12) in force at 24.7.2002, see s. 12(6)(7)(b)
 
-[^key-815c63969d02aaa725ac02247ba7900b]: Textual amendment: [Sch. 4 para. 10(14)](https://www.legislation.gov.uk/ukpga/2002/23/schedule/4/paragraph/10/14) repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 6(3)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/6/3)
+[^c-815c63969d02aaa725ac02247ba7900b]: Textual amendment: [Sch. 4 para. 10(14)](https://www.legislation.gov.uk/ukpga/2002/23/schedule/4/paragraph/10/14) repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 6(3)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/6/3)
 
 [^c10569831]: Commencement: Sch. 4 para. 12 wholly in force; Sch. 4 para. 12(1)(3) in force at 24.4.2002; Sch. 4 para. 12(2) in force at 24.7.2002, see. s. 12(6)(7)(b)

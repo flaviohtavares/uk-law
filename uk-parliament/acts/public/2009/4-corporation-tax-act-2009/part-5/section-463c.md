@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 463C. Time limits for claims under section 463B(1)[^key-126b0c8714aed896b8b16d6364a3251d]
+## 463C. Time limits for claims under section 463B(1)[^c-126b0c8714aed896b8b16d6364a3251d]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-126b0c8714aed896b8b16d6364a3251d]: Textual amendment: Pt. 5 Ch. 16A inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/4)
+[^c-126b0c8714aed896b8b16d6364a3251d]: Textual amendment: Pt. 5 Ch. 16A inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/4)

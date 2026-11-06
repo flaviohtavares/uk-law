@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 71. Meaning of vulnerable in section 70[^key-66223c8fe1607baf1b5ddc424203b1b8]
+## 71. Meaning of vulnerable in section 70[^c-66223c8fe1607baf1b5ddc424203b1b8]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ and sections 55 and 56 do not apply to this definition.
 
 ## Annotations
 
-[^key-66223c8fe1607baf1b5ddc424203b1b8]: Commencement: [S. 71](https://www.legislation.gov.uk/anaw/2014/7/section/71) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 22](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/22)
+[^c-66223c8fe1607baf1b5ddc424203b1b8]: Commencement: [S. 71](https://www.legislation.gov.uk/anaw/2014/7/section/71) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 22](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/22)

@@ -45,21 +45,21 @@ The Secretary of State has published a notice of intent to make this Order confi
 
 No objection has been made to the draft Order.
 
-Accordingly, the Secretary of State makes this Order in exercise of the powers conferred by section 3(5) and (7) of the 1991 Act and now vested in the Secretary of State[^f00003].[^key-2b3c52b9c69deded2b7de8491150389c]
+Accordingly, the Secretary of State makes this Order in exercise of the powers conferred by section 3(5) and (7) of the 1991 Act and now vested in the Secretary of State[^f00003].[^c-2b3c52b9c69deded2b7de8491150389c]
 
-## 1. Citation, commencement and interpretation[^key-03a8bafda2321c2934f24f0838e9fa44]
+## 1. Citation, commencement and interpretation[^c-03a8bafda2321c2934f24f0838e9fa44]
 
 (1) This Order may be cited as the Selby Area Internal Drainage District Order 2017 and comes into force on the day after the day on which is it made.
 
 (2) In this Order, “the Agency” means the Environment Agency.
 
-## 2. Confirmation of the Scheme with modifications[^key-7eaed6490203cad4a61e2386817356dd]
+## 2. Confirmation of the Scheme with modifications[^c-7eaed6490203cad4a61e2386817356dd]
 
 (1) The Scheme submitted by the Agency is confirmed with modifications.
 
 (2) The Scheme, as modified by the Secretary of State, is set out in the Schedule to this Order.
 
-## 3. Secretary of State’s expenses[^key-2e6891ae7c9949a9c28b25a1e25d704d]
+## 3. Secretary of State’s expenses[^c-2e6891ae7c9949a9c28b25a1e25d704d]
 
 The expenses of the Secretary of State in connection with the making and confirming of this Order must be borne by the Agency.
 
@@ -77,9 +77,9 @@ Department for Environment, Food and Rural Affairs
 
 Article 2(2)
 
-**1.**[^key-b21784edf8108882fe8896464aebf10e] This Scheme comes into force on the day after the day on which the Order confirming this Scheme is made.
+**1.**[^c-b21784edf8108882fe8896464aebf10e] This Scheme comes into force on the day after the day on which the Order confirming this Scheme is made.
 
-**2.**[^key-20af9962293083497d68b665c8f283d4] In this Scheme—
+**2.**[^c-20af9962293083497d68b665c8f283d4] In this Scheme—
 
 - “the Selby Internal Drainage Board” means the internal drainage board constituted by the Yorkshire Water Authority (Selby Area Internal Drainage District) Order 1976 ([S.I. 1976/568](https://www.legislation.gov.uk/uksi/1976/568)) (“the 1976 Order”);
 - “the Selby Area Internal Drainage District” means the Internal Drainage District constituted by the 1976 Order, shown edged green on the map entitled ‘Selby IDB Boundary Map’, which can be inspected at the Environment Agency, Coverdale House, Aviator Court, Amy Johnson Way, Clifton Moor, York, YO30 4GZ;
@@ -88,11 +88,11 @@ Article 2(2)
 - “property” includes books of account, other books, deeds, maps, papers and other documents, in whatever medium held, and computer and other electronic records;
 - “rights and obligations” means all rights, powers, duties (including statutory powers and duties), obligations and liabilities.
 
-**3.**[^key-76a77b73fc0f0b737c5f0965e899e2c4] The Selby Area Internal Drainage Board will be reconstituted such that, on the commencement date, the number of elected members is reduced from 26 elected members to 10 elected members.
+**3.**[^c-76a77b73fc0f0b737c5f0965e899e2c4] The Selby Area Internal Drainage Board will be reconstituted such that, on the commencement date, the number of elected members is reduced from 26 elected members to 10 elected members.
 
-**4.**[^key-294c8c92868aa707eba8b03b8375477e] Paragraph 3(iii) of the Scheme confirmed by the 1976 Order which provides that the Selby Internal Drainage District will be divided into five electoral districts (known as ‘Electoral Divisions’) will cease to have effect from the commencement date, such that the Selby Internal Drainage District will, from the commencement date, be comprised of one electoral division called the ‘Selby Area Internal Drainage Division’.
+**4.**[^c-294c8c92868aa707eba8b03b8375477e] Paragraph 3(iii) of the Scheme confirmed by the 1976 Order which provides that the Selby Internal Drainage District will be divided into five electoral districts (known as ‘Electoral Divisions’) will cease to have effect from the commencement date, such that the Selby Internal Drainage District will, from the commencement date, be comprised of one electoral division called the ‘Selby Area Internal Drainage Division’.
 
-**5.**[^key-77a13b15da042344b6a8b4dbf3e3a06d] The existing rights and obligations and property of the Selby Area Internal Drainage Board as constituted by the 1976 Order will be the rights and obligations and property of the Selby Area Internal Drainage Board as reconstituted by this Scheme.
+**5.**[^c-77a13b15da042344b6a8b4dbf3e3a06d] The existing rights and obligations and property of the Selby Area Internal Drainage Board as constituted by the 1976 Order will be the rights and obligations and property of the Selby Area Internal Drainage Board as reconstituted by this Scheme.
 
 EXPLANATORY NOTE
 
@@ -115,20 +115,20 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00003]: Footnote: The functions of the Ministry of Agriculture, Fisheries and Food were transferred to the Secretary of State by virtue of article 2(2) of the Ministry of Agriculture, Fisheries and Food (Dissolution) Order 2002 ([S.I. 2002/794](https://www.legislation.gov.uk/uksi/2002/794)).
 
-[^key-2b3c52b9c69deded2b7de8491150389c]: Modification: [Order](https://www.legislation.gov.uk/uksi/2017/356) excluded (31.5.2025) by [The East Yorkshire Solar Farm Order 2025 (S.I. 2025/585)](https://www.legislation.gov.uk/uksi/2025/585), [art. 1](https://www.legislation.gov.uk/uksi/2025/585/article/1), [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2025/585/schedule/3/paragraph/1) (with [art. 49](https://www.legislation.gov.uk/uksi/2025/585/article/49), [Sch. 14](https://www.legislation.gov.uk/uksi/2025/585/schedule/14))
+[^c-2b3c52b9c69deded2b7de8491150389c]: Modification: [Order](https://www.legislation.gov.uk/uksi/2017/356) excluded (31.5.2025) by [The East Yorkshire Solar Farm Order 2025 (S.I. 2025/585)](https://www.legislation.gov.uk/uksi/2025/585), [art. 1](https://www.legislation.gov.uk/uksi/2025/585/article/1), [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2025/585/schedule/3/paragraph/1) (with [art. 49](https://www.legislation.gov.uk/uksi/2025/585/article/49), [Sch. 14](https://www.legislation.gov.uk/uksi/2025/585/schedule/14))
 
-[^key-03a8bafda2321c2934f24f0838e9fa44]: Commencement: Art. 1 in force at 7.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/356/article/1/1)
+[^c-03a8bafda2321c2934f24f0838e9fa44]: Commencement: Art. 1 in force at 7.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/356/article/1/1)
 
-[^key-7eaed6490203cad4a61e2386817356dd]: Commencement: Art. 2 in force at 7.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/356/article/1/1)
+[^c-7eaed6490203cad4a61e2386817356dd]: Commencement: Art. 2 in force at 7.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/356/article/1/1)
 
-[^key-2e6891ae7c9949a9c28b25a1e25d704d]: Commencement: Art. 3 in force at 7.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/356/article/1/1)
+[^c-2e6891ae7c9949a9c28b25a1e25d704d]: Commencement: Art. 3 in force at 7.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/356/article/1/1)
 
-[^key-b21784edf8108882fe8896464aebf10e]: Commencement: Sch. para. 1 in force at 7.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/356/article/1/1)
+[^c-b21784edf8108882fe8896464aebf10e]: Commencement: Sch. para. 1 in force at 7.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/356/article/1/1)
 
-[^key-20af9962293083497d68b665c8f283d4]: Commencement: Sch. para. 2 in force at 7.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/356/article/1/1)
+[^c-20af9962293083497d68b665c8f283d4]: Commencement: Sch. para. 2 in force at 7.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/356/article/1/1)
 
-[^key-76a77b73fc0f0b737c5f0965e899e2c4]: Commencement: Sch. para. 3 in force at 7.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/356/article/1/1)
+[^c-76a77b73fc0f0b737c5f0965e899e2c4]: Commencement: Sch. para. 3 in force at 7.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/356/article/1/1)
 
-[^key-294c8c92868aa707eba8b03b8375477e]: Commencement: Sch. para. 4 in force at 7.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/356/article/1/1)
+[^c-294c8c92868aa707eba8b03b8375477e]: Commencement: Sch. para. 4 in force at 7.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/356/article/1/1)
 
-[^key-77a13b15da042344b6a8b4dbf3e3a06d]: Commencement: Sch. para. 5 in force at 7.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/356/article/1/1)
+[^c-77a13b15da042344b6a8b4dbf3e3a06d]: Commencement: Sch. para. 5 in force at 7.3.2017, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/356/article/1/1)

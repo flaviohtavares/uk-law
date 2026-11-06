@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) A requirement imposed by a home state regulator and which has effect immediately before IP completion day[^key-734057662875a4a245c543d9dd612c1c] continues to have effect on and after that day in respect of a person to whom regulation 8 or 11 applies as if it were imposed by a regulator under—
+(1) A requirement imposed by a home state regulator and which has effect immediately before IP completion day[^c-734057662875a4a245c543d9dd612c1c] continues to have effect on and after that day in respect of a person to whom regulation 8 or 11 applies as if it were imposed by a regulator under—
 
 - (a) section 55L (imposition of requirements by FCA) of the 2000 Act, or
 - (b) section 55M (imposition of requirements by PRA) of that Act.
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-734057662875a4a245c543d9dd612c1c]: Textual amendment: Words in [reg. 19](https://www.legislation.gov.uk/uksi/2018/1149/regulation/19) substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [6(2)(l)](https://www.legislation.gov.uk/uksi/2020/56/regulation/6/2/l)
+[^c-734057662875a4a245c543d9dd612c1c]: Textual amendment: Words in [reg. 19](https://www.legislation.gov.uk/uksi/2018/1149/regulation/19) substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [6(2)(l)](https://www.legislation.gov.uk/uksi/2020/56/regulation/6/2/l)

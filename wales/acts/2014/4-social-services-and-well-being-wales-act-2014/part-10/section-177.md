@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 177. Further consideration of representations[^key-5ecbca9e33f29e7e51503a77e199ccdb]
+## 177. Further consideration of representations[^c-5ecbca9e33f29e7e51503a77e199ccdb]
 
 *Extent: E+W*
 
@@ -44,13 +44,13 @@ summary: ''
 
 (4) The regulations may also provide for a representation or any matter raised by a representation—
 
-- (a) to be referred to the Public Services Ombudsman for Wales (“the Ombudsman”) for the Ombudsman to consider whether to investigate the representation or matter under the Public Services Ombudsman (Wales) Act 2019[^key-8d8336e256408314c3ae53cd68ab5c5d] (and to be treated by the Ombudsman as a complaint duly referred under section 3(3)[^key-7b896d0f00aa2e05f9e462e94ad319eb] of that Act);
+- (a) to be referred to the Public Services Ombudsman for Wales (“the Ombudsman”) for the Ombudsman to consider whether to investigate the representation or matter under the Public Services Ombudsman (Wales) Act 2019[^c-8d8336e256408314c3ae53cd68ab5c5d] (and to be treated by the Ombudsman as a complaint duly referred under section 3(3)[^c-7b896d0f00aa2e05f9e462e94ad319eb] of that Act);
 - (b) to be referred to any other person or body for that person or body to consider whether to take any action otherwise than under the regulations.
 
 ## Annotations
 
-[^key-5ecbca9e33f29e7e51503a77e199ccdb]: Commencement: S. 177 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
+[^c-5ecbca9e33f29e7e51503a77e199ccdb]: Commencement: S. 177 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
 
-[^key-8d8336e256408314c3ae53cd68ab5c5d]: Textual amendment: Words in s. 177(4)(a) substituted (23.7.2019) by [Public Services Ombudsman (Wales) Act 2019 (anaw 3)](https://www.legislation.gov.uk/anaw/2019/3), [s. 77(1)](https://www.legislation.gov.uk/anaw/2019/3/section/77/1), [Sch. 5 para. 27(a)](https://www.legislation.gov.uk/anaw/2019/3/schedule/5/paragraph/27/a); [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)
+[^c-8d8336e256408314c3ae53cd68ab5c5d]: Textual amendment: Words in s. 177(4)(a) substituted (23.7.2019) by [Public Services Ombudsman (Wales) Act 2019 (anaw 3)](https://www.legislation.gov.uk/anaw/2019/3), [s. 77(1)](https://www.legislation.gov.uk/anaw/2019/3/section/77/1), [Sch. 5 para. 27(a)](https://www.legislation.gov.uk/anaw/2019/3/schedule/5/paragraph/27/a); [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)
 
-[^key-7b896d0f00aa2e05f9e462e94ad319eb]: Textual amendment: Words in s. 177(4)(a) substituted (23.7.2019) by [Public Services Ombudsman (Wales) Act 2019 (anaw 3)](https://www.legislation.gov.uk/anaw/2019/3), [s. 77(1)](https://www.legislation.gov.uk/anaw/2019/3/section/77/1), [Sch. 5 para. 27(b)](https://www.legislation.gov.uk/anaw/2019/3/schedule/5/paragraph/27/b); [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)
+[^c-7b896d0f00aa2e05f9e462e94ad319eb]: Textual amendment: Words in s. 177(4)(a) substituted (23.7.2019) by [Public Services Ombudsman (Wales) Act 2019 (anaw 3)](https://www.legislation.gov.uk/anaw/2019/3), [s. 77(1)](https://www.legislation.gov.uk/anaw/2019/3/section/77/1), [Sch. 5 para. 27(b)](https://www.legislation.gov.uk/anaw/2019/3/schedule/5/paragraph/27/b); [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)

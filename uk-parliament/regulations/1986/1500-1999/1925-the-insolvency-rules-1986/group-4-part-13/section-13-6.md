@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13.6. “Venue”[^key-a3a298d888745d16007f962959b3836f]
+## 13.6. “Venue”[^c-a3a298d888745d16007f962959b3836f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ References to the “venue” for any proceeding or attendance before the court,
 
 ## Annotations
 
-[^key-a3a298d888745d16007f962959b3836f]: Commencement: Rule 13.6 in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-a3a298d888745d16007f962959b3836f]: Commencement: Rule 13.6 in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 96. Power of Commissioners to determine boundaries[^key-dfbdfbab074cf64a8b2f301fa8a0eb64]
+## 96. Power of Commissioners to determine boundaries[^c-dfbdfbab074cf64a8b2f301fa8a0eb64]
 
 *Extent: E*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dfbdfbab074cf64a8b2f301fa8a0eb64]: Commencement: S. 96 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-dfbdfbab074cf64a8b2f301fa8a0eb64]: Commencement: S. 96 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

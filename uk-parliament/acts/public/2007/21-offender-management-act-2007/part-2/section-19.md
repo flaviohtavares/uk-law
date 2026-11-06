@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Powers of director of a contracted out prison[^key-d4ce68e970d4e948c919ab477492369f]
+## 19. Powers of director of a contracted out prison[^c-d4ce68e970d4e948c919ab477492369f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Section 85(3) of the Criminal Justice Act 1991 (c. 53) (director of a contracted
 
 ## Annotations
 
-[^key-d4ce68e970d4e948c919ab477492369f]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2007/21/section/19) in force at 1.11.2007 by [S.I. 2007/3001](https://www.legislation.gov.uk/uksi/2007/3001), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2007/3001/article/2/1/d)
+[^c-d4ce68e970d4e948c919ab477492369f]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2007/21/section/19) in force at 1.11.2007 by [S.I. 2007/3001](https://www.legislation.gov.uk/uksi/2007/3001), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2007/3001/article/2/1/d)

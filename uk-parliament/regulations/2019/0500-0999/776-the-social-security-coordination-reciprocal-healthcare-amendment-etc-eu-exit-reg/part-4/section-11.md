@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Rights etc deriving from the Treaties[^key-521b9e01b54a537e0332c777686ee763]
+## 11. Rights etc deriving from the Treaties[^c-521b9e01b54a537e0332c777686ee763]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-521b9e01b54a537e0332c777686ee763]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2019/776/part/4) omitted (1.3.2024) by virtue of [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Provision) Regulations 2024 (S.I. 2024/80)](https://www.legislation.gov.uk/uksi/2024/80), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/80/regulation/1/2), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2024/80/schedule/paragraph/12)
+[^c-521b9e01b54a537e0332c777686ee763]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2019/776/part/4) omitted (1.3.2024) by virtue of [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Provision) Regulations 2024 (S.I. 2024/80)](https://www.legislation.gov.uk/uksi/2024/80), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/80/regulation/1/2), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2024/80/schedule/paragraph/12)

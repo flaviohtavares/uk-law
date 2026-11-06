@@ -30,7 +30,7 @@ summary: ''
   - (a) the annual rate of compensation which would be payable in respect of the pension at the assessment date, if the Board assumed responsibility for the scheme and the compensation so payable at that date was determined in accordance with regulations under Article 125(2), or
   - (b) if no such compensation would have been so payable at that date, nil;
 - “pensionable service” is to be construed in accordance with Schedule 6;
-- “scheme valuation”, in relation to a scheme, means a valuation under Article 127(2)(b)[^key-a3801969060a739f3a53a390577c5a73] of the assets and protected liabilities of the scheme as at the time immediately before the assessment period begins.
+- “scheme valuation”, in relation to a scheme, means a valuation under Article 127(2)(b)[^c-a3801969060a739f3a53a390577c5a73] of the assets and protected liabilities of the scheme as at the time immediately before the assessment period begins.
 
 (2) For the purposes of Article 124(4)—
 
@@ -49,4 +49,4 @@ have effect as if the references in those provisions to the admissible rules wer
 
 [^c17104121]: Textual amendment: mod. by SR 2005/55
 
-[^key-a3801969060a739f3a53a390577c5a73]: Textual amendment: Word in [art. 126](https://www.legislation.gov.uk/nisi/2005/255/article/126) substituted (23.7.2012) by [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [s. 34(3)](https://www.legislation.gov.uk/nia/2012/3/section/34/3), [Sch. 4 para. 4](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/4); [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(4)(a)(ii)](https://www.legislation.gov.uk/nisr/2012/265/article/2/4/a/ii)
+[^c-a3801969060a739f3a53a390577c5a73]: Textual amendment: Word in [art. 126](https://www.legislation.gov.uk/nisi/2005/255/article/126) substituted (23.7.2012) by [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [s. 34(3)](https://www.legislation.gov.uk/nia/2012/3/section/34/3), [Sch. 4 para. 4](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/4); [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(4)(a)(ii)](https://www.legislation.gov.uk/nisr/2012/265/article/2/4/a/ii)

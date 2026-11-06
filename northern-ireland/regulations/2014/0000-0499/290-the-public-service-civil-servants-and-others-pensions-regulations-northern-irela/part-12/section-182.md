@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 182. Transitional provisions[^key-5ed7210d3b3243f63d24877f249d17c2]
+## 182. Transitional provisions[^c-5ed7210d3b3243f63d24877f249d17c2]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Schedule 2 has effect.
 
 ## Annotations
 
-[^key-5ed7210d3b3243f63d24877f249d17c2]: Commencement: Reg. 182 in operation at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/2)
+[^c-5ed7210d3b3243f63d24877f249d17c2]: Commencement: Reg. 182 in operation at 18.12.2014, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/2)

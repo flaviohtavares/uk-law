@@ -43,16 +43,16 @@ summary: ''
 | *Extent: E+W+S+N.I.*<br>**10.**[^M_I_ed9a5360-c2b7-40b5-9b50-219f0236d733] Electrical connections: | No individual requirement |
 | *Extent: E+W+S+N.I.*<br>**11.**[^M_I_5d04351c-8018-45e5-cf8d-f77ecfde1e6b] Tell-tale: | No requirement |
 
-**12.**[^key-c5d67d3d4d91a5f3fb07c277e9306a4b] Other requirements–
+**12.**[^c-c5d67d3d4d91a5f3fb07c277e9306a4b] Other requirements–
 
 - The two lamps which emit white light towards the front, and the two lamps which emit red light towards the rear, shall in each case form a matched pair.
 - The white front lamp and red rear lamp on one side of a vehicle may be combined into a single lamp with a single light source.
 
-**13.**[^key-3e6c2fb08ba0630aed97e79371368789] Definitions–
+**13.**[^c-3e6c2fb08ba0630aed97e79371368789] Definitions–
 
 - In this Schedule, “approval mark” means the aproval mark for a front or rear position lamp, as the case may be.
 
-### PART II — Requirements relating to optional end-outline marker lamps[^key-5b718adb4cce1ee22b155d444a086fa6]
+### PART II — Requirements relating to optional end-outline marker lamps[^c-5b718adb4cce1ee22b155d444a086fa6]
 
 Any number may be fitted, and the only requirement prescribed by these Regulations in respect of any which are fitted is that specified in paragraph 7 of Part I.
 
@@ -80,8 +80,8 @@ Any number may be fitted, and the only requirement prescribed by these Regulatio
 
 [^M_I_5d04351c-8018-45e5-cf8d-f77ecfde1e6b]: Commencement: [Sch. 13 Pt. I para. 11](https://www.legislation.gov.uk/uksi/1989/1796/schedule/13/paragraph/12) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
 
-[^key-c5d67d3d4d91a5f3fb07c277e9306a4b]: Commencement: [Sch. 13 Pt. I para. 12](https://www.legislation.gov.uk/uksi/1989/1796/schedule/13/paragraph/12) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
+[^c-c5d67d3d4d91a5f3fb07c277e9306a4b]: Commencement: [Sch. 13 Pt. I para. 12](https://www.legislation.gov.uk/uksi/1989/1796/schedule/13/paragraph/12) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
 
-[^key-3e6c2fb08ba0630aed97e79371368789]: Commencement: [Sch. 13 Pt. I para. 13](https://www.legislation.gov.uk/uksi/1989/1796/schedule/13/paragraph/13) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
+[^c-3e6c2fb08ba0630aed97e79371368789]: Commencement: [Sch. 13 Pt. I para. 13](https://www.legislation.gov.uk/uksi/1989/1796/schedule/13/paragraph/13) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
 
-[^key-5b718adb4cce1ee22b155d444a086fa6]: Commencement: [Sch. 13 Pt. II](https://www.legislation.gov.uk/uksi/1989/1796/schedule/13/part/II) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
+[^c-5b718adb4cce1ee22b155d444a086fa6]: Commencement: [Sch. 13 Pt. II](https://www.legislation.gov.uk/uksi/1989/1796/schedule/13/part/II) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 72. Publication[^key-44529adffc4b9203c90055bc5c3ecb7e]
+## 72. Publication[^c-44529adffc4b9203c90055bc5c3ecb7e]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ Where this Act requires the Authority to publish anything—
 
 ## Annotations
 
-[^key-44529adffc4b9203c90055bc5c3ecb7e]: Commencement: S. 72 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)
+[^c-44529adffc4b9203c90055bc5c3ecb7e]: Commencement: S. 72 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)

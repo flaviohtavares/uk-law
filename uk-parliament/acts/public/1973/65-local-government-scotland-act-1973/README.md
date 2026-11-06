@@ -53,11 +53,11 @@ An Act to make provision with respect to local government and the functions of l
 - [Section 6–10 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-i/section-6-10.md)
 - [Section 11 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-i/section-11.md)
 
-### Part II — Changes in Local Government Areas[^c19255671][^key-e20159e191c1080d79e7c8b46f26f2ef]
+### Part II — Changes in Local Government Areas[^c19255671][^c-e20159e191c1080d79e7c8b46f26f2ef]
 
 *Extent: S*
 
-#### Proposals by Boundaries Scotland[^key-06d1fad0ba0ad774dcbee0ae0281d15f]
+#### Proposals by Boundaries Scotland[^c-06d1fad0ba0ad774dcbee0ae0281d15f]
 
 - [Section 12 — Boundaries Scotland](part-ii/section-12.md)
 - [Section 13 — Proposals for changes in local government areas.](part-ii/section-13.md)
@@ -191,7 +191,7 @@ An Act to make provision with respect to local government and the functions of l
 - [Section 67 — Members of local authorities not to be appointed as officers etc.](part-v/section-67.md)
 - [Section 68 — Disclosure by officers of interest in contracts.](part-v/section-68.md)
 
-### Part VI — Miscellaneous Powers of Local Authorities[^key-4096ce8210305ea4dd8fbb30568b482a][^key-d4bf13a66bde8f0306a4c4ca6f6facd3]
+### Part VI — Miscellaneous Powers of Local Authorities[^c-4096ce8210305ea4dd8fbb30568b482a][^c-d4bf13a66bde8f0306a4c4ca6f6facd3]
 
 #### Subsidiary powers
 
@@ -566,9 +566,9 @@ SCHEDULES
 
 [^c19255671]: Modification: Pt. 2 applied (with modifications) (20.8.2004) by [Local Governance (Scotland) Act 2004 (asp 9)](https://www.legislation.gov.uk/asp/2004/9), [ss. 4(2)](https://www.legislation.gov.uk/asp/2004/9/section/4/2), [17(2)](https://www.legislation.gov.uk/asp/2004/9/section/17/2); [S.S.I. 2004/351](https://www.legislation.gov.uk/ssi/2004/351), [art. 2](https://www.legislation.gov.uk/ssi/2004/351/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2004/351/article/3))
 
-[^key-e20159e191c1080d79e7c8b46f26f2ef]: Modification: Pt. 2 applied (with modifications) (4.10.2018) by [Islands (Scotland) Act 2018 (asp 12)](https://www.legislation.gov.uk/asp/2018/12), [s. 20(3)](https://www.legislation.gov.uk/asp/2018/12/section/20/3)[(4)](https://www.legislation.gov.uk/asp/2018/12/section/20/4), [31(2)](https://www.legislation.gov.uk/asp/2018/12/section/31/2); [S.S.I. 2018/282](https://www.legislation.gov.uk/ssi/2018/282), [reg. 2](https://www.legislation.gov.uk/ssi/2018/282/regulation/2)
+[^c-e20159e191c1080d79e7c8b46f26f2ef]: Modification: Pt. 2 applied (with modifications) (4.10.2018) by [Islands (Scotland) Act 2018 (asp 12)](https://www.legislation.gov.uk/asp/2018/12), [s. 20(3)](https://www.legislation.gov.uk/asp/2018/12/section/20/3)[(4)](https://www.legislation.gov.uk/asp/2018/12/section/20/4), [31(2)](https://www.legislation.gov.uk/asp/2018/12/section/31/2); [S.S.I. 2018/282](https://www.legislation.gov.uk/ssi/2018/282), [reg. 2](https://www.legislation.gov.uk/ssi/2018/282/regulation/2)
 
-[^key-06d1fad0ba0ad774dcbee0ae0281d15f]: Textual amendment: S. 12 cross-heading substituted (14.5.2021) by [Scottish Elections (Reform) Act 2020 (asp 12)](https://www.legislation.gov.uk/asp/2020/12), [s. 35](https://www.legislation.gov.uk/asp/2020/12/section/35), [sch. para. 1(14)](https://www.legislation.gov.uk/asp/2020/12/schedule/paragraph/1/14); [S.S.I. 2021/124](https://www.legislation.gov.uk/ssi/2021/124), [reg. 2](https://www.legislation.gov.uk/ssi/2021/124/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/124/schedule)
+[^c-06d1fad0ba0ad774dcbee0ae0281d15f]: Textual amendment: S. 12 cross-heading substituted (14.5.2021) by [Scottish Elections (Reform) Act 2020 (asp 12)](https://www.legislation.gov.uk/asp/2020/12), [s. 35](https://www.legislation.gov.uk/asp/2020/12/section/35), [sch. para. 1(14)](https://www.legislation.gov.uk/asp/2020/12/schedule/paragraph/1/14); [S.S.I. 2021/124](https://www.legislation.gov.uk/ssi/2021/124), [reg. 2](https://www.legislation.gov.uk/ssi/2021/124/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/124/schedule)
 
 [^c9669121]: Textual amendment: [S. 33A](https://www.legislation.gov.uk/ukpga/1973/65/section/33A) inserted by [Local Government and Housing Act 1989 (c. 42, SIF 81:1, 2)](https://www.legislation.gov.uk/ukpga/1989/42), [s. 30(1)](https://www.legislation.gov.uk/ukpga/1989/42/section/30/1)
 
@@ -580,9 +580,9 @@ SCHEDULES
 
 [^c9671301]: Modification: [Pt. V](https://www.legislation.gov.uk/ukpga/1973/65/part/V) (ss. 56-68): Power to apply conferred (6.4.1995) by [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39), [s. 27(9)](https://www.legislation.gov.uk/ukpga/1994/39/section/27/9); [S.I. 1995/702](https://www.legislation.gov.uk/uksi/1995/702), [art. 4(1)](https://www.legislation.gov.uk/uksi/1995/702/article/4/1), [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/1995/702/schedule/2/paragraph/9) (with [s. 7(2)](https://www.legislation.gov.uk/uksi/1995/702/section/7/2))
 
-[^key-4096ce8210305ea4dd8fbb30568b482a]: Modification: [Pt. VI](https://www.legislation.gov.uk/ukpga/1973/65/part/VI) modified (2.8.2014) by [City of Edinburgh Council (Portobello Park) Act 2014 (asp 15)](https://www.legislation.gov.uk/asp/2014/15), [ss. 1](https://www.legislation.gov.uk/asp/2014/15/section/1), [5](https://www.legislation.gov.uk/asp/2014/15/section/5)
+[^c-4096ce8210305ea4dd8fbb30568b482a]: Modification: [Pt. VI](https://www.legislation.gov.uk/ukpga/1973/65/part/VI) modified (2.8.2014) by [City of Edinburgh Council (Portobello Park) Act 2014 (asp 15)](https://www.legislation.gov.uk/asp/2014/15), [ss. 1](https://www.legislation.gov.uk/asp/2014/15/section/1), [5](https://www.legislation.gov.uk/asp/2014/15/section/5)
 
-[^key-d4bf13a66bde8f0306a4c4ca6f6facd3]: Modification: [Pt. VI](https://www.legislation.gov.uk/ukpga/1973/65/part/VI) applied (24.2.2016) by [National Galleries of Scotland Act 2016 (asp 6)](https://www.legislation.gov.uk/asp/2016/6), [ss. 1](https://www.legislation.gov.uk/asp/2016/6/section/1), [4](https://www.legislation.gov.uk/asp/2016/6/section/4)
+[^c-d4bf13a66bde8f0306a4c4ca6f6facd3]: Modification: [Pt. VI](https://www.legislation.gov.uk/ukpga/1973/65/part/VI) applied (24.2.2016) by [National Galleries of Scotland Act 2016 (asp 6)](https://www.legislation.gov.uk/asp/2016/6), [ss. 1](https://www.legislation.gov.uk/asp/2016/6/section/1), [4](https://www.legislation.gov.uk/asp/2016/6/section/4)
 
 [^c9673951]: Modification: [Pt. VII](https://www.legislation.gov.uk/ukpga/1973/65/part/VII) (ss. 93-122) modified by [S.I. 1975/930](https://www.legislation.gov.uk/uksi/1975/930), [regs. 2](https://www.legislation.gov.uk/uksi/1975/930/regulation/2), [3](https://www.legislation.gov.uk/uksi/1975/930/regulation/3) and [Water (Scotland) Act 1980 (c. 45)](https://www.legislation.gov.uk/ukpga/1980/45), [s. 48(1)](https://www.legislation.gov.uk/ukpga/1980/45/section/48/1)
 

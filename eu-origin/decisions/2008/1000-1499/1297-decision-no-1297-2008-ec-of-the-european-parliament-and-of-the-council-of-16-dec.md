@@ -35,46 +35,46 @@ on a Programme for the Modernisation of European Enterprise and Trade Statistics
 
 (Text with EEA relevance) (revoked)
 
-[^key-c4f114eba19baa54dec018a8a2ac1c49]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c4f114eba19baa54dec018a8a2ac1c49]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Establishment of the Programme[^key-c4f114eba19baa54dec018a8a2ac1c49]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Scope and general objectives[^key-c4f114eba19baa54dec018a8a2ac1c49]
+## Article 1. Establishment of the Programme[^c-c4f114eba19baa54dec018a8a2ac1c49]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Actions[^key-c4f114eba19baa54dec018a8a2ac1c49]
+## Article 2. Scope and general objectives[^c-c4f114eba19baa54dec018a8a2ac1c49]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Annual work programmes[^key-c4f114eba19baa54dec018a8a2ac1c49]
+## Article 3. Actions[^c-c4f114eba19baa54dec018a8a2ac1c49]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Committee[^key-c4f114eba19baa54dec018a8a2ac1c49]
+## Article 4. Annual work programmes[^c-c4f114eba19baa54dec018a8a2ac1c49]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Evaluation[^key-c4f114eba19baa54dec018a8a2ac1c49]
+## Article 5. Committee[^c-c4f114eba19baa54dec018a8a2ac1c49]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Financing[^key-c4f114eba19baa54dec018a8a2ac1c49]
+## Article 6. Evaluation[^c-c4f114eba19baa54dec018a8a2ac1c49]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Entry into force[^key-c4f114eba19baa54dec018a8a2ac1c49]
+## Article 7. Financing[^c-c4f114eba19baa54dec018a8a2ac1c49]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c4f114eba19baa54dec018a8a2ac1c49]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 8. Entry into force[^c-c4f114eba19baa54dec018a8a2ac1c49]
 
-## ANNEX — BREAKDOWN OF THE ACTIONS LISTED IN ARTICLE 3[^key-c4f114eba19baa54dec018a8a2ac1c49]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-c4f114eba19baa54dec018a8a2ac1c49]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX — BREAKDOWN OF THE ACTIONS LISTED IN ARTICLE 3[^c-c4f114eba19baa54dec018a8a2ac1c49]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c4f114eba19baa54dec018a8a2ac1c49]: Textual amendment: Decision revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 141](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/141); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c4f114eba19baa54dec018a8a2ac1c49]: Textual amendment: Decision revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 141](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/141); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

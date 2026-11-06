@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Statement on user involvement[^key-78e929478e57d9b0a715f02d9a2a51d2]
+## 5. Statement on user involvement[^c-78e929478e57d9b0a715f02d9a2a51d2]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-78e929478e57d9b0a715f02d9a2a51d2]: Commencement: S. 5 in force at 1.10.2008 by [S.I. 2008/2497](https://www.legislation.gov.uk/uksi/2008/2497), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/2497/article/2/d)
+[^c-78e929478e57d9b0a715f02d9a2a51d2]: Commencement: S. 5 in force at 1.10.2008 by [S.I. 2008/2497](https://www.legislation.gov.uk/uksi/2008/2497), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/2497/article/2/d)

@@ -22,7 +22,7 @@ summary: ''
 
 (1) This Chapter applies, subject to paragraphs (4) to (7), to persons who—
 
-- (a) have been active members of this Section of[^key-31595a6a7af79fba6fd5c45202d66bb4] the Scheme in respect of their service in an employment,
+- (a) have been active members of this Section of[^c-31595a6a7af79fba6fd5c45202d66bb4] the Scheme in respect of their service in an employment,
 - (b) have ceased to be employed in that employment and have become deferred members or pensioner members of this Section of the Scheme because of their rights in respect of that service,
 - (c) become employed again in an employment that qualifies them to belong to this Section of the Scheme, and
 - (d) become active members of this Section of the Scheme in respect of their service in that employment.
@@ -43,12 +43,12 @@ as it applies to members who cease to be employed in the employment in which the
 
 (5) This Chapter does not apply if the earlier service and the later service are treated as a single continuous period of pensionable service under regulation 140(5) (pensionable service: breaks in service).
 
-(6) Regulation 239 applies whether or not the employment mentioned in paragraph (1)(c) is employment that qualifies the member to belong to this Section of[^key-381848a65d692b62e43104210e2847dd] the Scheme.
+(6) Regulation 239 applies whether or not the employment mentioned in paragraph (1)(c) is employment that qualifies the member to belong to this Section of[^c-381848a65d692b62e43104210e2847dd] the Scheme.
 
 (7) If a re-employed member ceases to be an active member again, this Chapter applies again in respect of the later service as if it were the earlier service (and so on).
 
 ## Annotations
 
-[^key-31595a6a7af79fba6fd5c45202d66bb4]: Textual amendment: Words in [reg. 236(1)](https://www.legislation.gov.uk/nisr/2008/256/regulation/236/1) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/nisr/2010/22/schedule/2/part/1)
+[^c-31595a6a7af79fba6fd5c45202d66bb4]: Textual amendment: Words in [reg. 236(1)](https://www.legislation.gov.uk/nisr/2008/256/regulation/236/1) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/nisr/2010/22/schedule/2/part/1)
 
-[^key-381848a65d692b62e43104210e2847dd]: Textual amendment: Words in [reg. 236(6)](https://www.legislation.gov.uk/nisr/2008/256/regulation/236/6) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/nisr/2010/22/schedule/2/part/1)
+[^c-381848a65d692b62e43104210e2847dd]: Textual amendment: Words in [reg. 236(6)](https://www.legislation.gov.uk/nisr/2008/256/regulation/236/6) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/nisr/2010/22/schedule/2/part/1)

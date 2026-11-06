@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Community governance reviews[^key-68e7a4a7cb6343da5213fb2cc42850c4]
+## 79. Community governance reviews[^c-68e7a4a7cb6343da5213fb2cc42850c4]
 
 *Extent: E+W*
 
@@ -27,15 +27,15 @@ summary: ''
 - (a) this Chapter, and
 - (b) the terms of reference of the review.
 
-(3)[^key-3cb4f30501d2c929ee75856c17969a76][^key-25e2ae3081894384d8189deafca2184c] A district council which is to undertake a community governance review must notify the county council for its area (if any)—
+(3)[^c-3cb4f30501d2c929ee75856c17969a76][^c-25e2ae3081894384d8189deafca2184c] A district council which is to undertake a community governance review must notify the county council for its area (if any)—
 
 - (a) that the review is to be undertaken, and
 - (b) of the terms of reference of the review (including any modification of those terms).
 
 ## Annotations
 
-[^key-68e7a4a7cb6343da5213fb2cc42850c4]: Commencement: S. 79 in force at 13.2.2008 by [S.I. 2008/337](https://www.legislation.gov.uk/uksi/2008/337), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/337/article/2/b)
+[^c-68e7a4a7cb6343da5213fb2cc42850c4]: Commencement: S. 79 in force at 13.2.2008 by [S.I. 2008/337](https://www.legislation.gov.uk/uksi/2008/337), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/337/article/2/b)
 
-[^key-3cb4f30501d2c929ee75856c17969a76]: Modification: S. 79(3) modified (29.8.2008) by [The Local Government (Structural Changes) (Transitional Arrangements) Regulations 2008 (S.I. 2008/2113)](https://www.legislation.gov.uk/uksi/2008/2113), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2113/regulation/1), [7(3)(a)](https://www.legislation.gov.uk/uksi/2008/2113/regulation/7/3/a)
+[^c-3cb4f30501d2c929ee75856c17969a76]: Modification: S. 79(3) modified (29.8.2008) by [The Local Government (Structural Changes) (Transitional Arrangements) Regulations 2008 (S.I. 2008/2113)](https://www.legislation.gov.uk/uksi/2008/2113), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2113/regulation/1), [7(3)(a)](https://www.legislation.gov.uk/uksi/2008/2113/regulation/7/3/a)
 
-[^key-25e2ae3081894384d8189deafca2184c]: Modification: [S. 79(3)](https://www.legislation.gov.uk/ukpga/2007/28/section/79/3) modified (26.11.2018) by [The Local Government (Boundary Changes) Regulations 2018 (S.I. 2018/1128)](https://www.legislation.gov.uk/uksi/2018/1128), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1), [14(3)(a)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/14/3/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/3))
+[^c-25e2ae3081894384d8189deafca2184c]: Modification: [S. 79(3)](https://www.legislation.gov.uk/ukpga/2007/28/section/79/3) modified (26.11.2018) by [The Local Government (Boundary Changes) Regulations 2018 (S.I. 2018/1128)](https://www.legislation.gov.uk/uksi/2018/1128), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1), [14(3)(a)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/14/3/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/3))

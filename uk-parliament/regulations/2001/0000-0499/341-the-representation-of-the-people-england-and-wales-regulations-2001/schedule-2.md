@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 2 — REVOCATIONS[^key-e6a5a70e6ef9255125eef60076865036]
+## SCHEDULE 2 — REVOCATIONS[^c-e6a5a70e6ef9255125eef60076865036]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ Regulation 2
 
 ## Annotations
 
-[^key-e6a5a70e6ef9255125eef60076865036]: Commencement: Sch. 2 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/341/regulation/1/1)
+[^c-e6a5a70e6ef9255125eef60076865036]: Commencement: Sch. 2 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/341/regulation/1/1)

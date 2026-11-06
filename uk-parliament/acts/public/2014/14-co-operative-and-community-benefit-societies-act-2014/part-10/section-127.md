@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 127. General offences[^key-43f61c2542e81d20b739fdc323643ae0][^key-c00030d11d5197eca33925aa5dabe68a][^key-43f61c2542e81d20b739fdc323643ae0]
+## 127. General offences[^c-43f61c2542e81d20b739fdc323643ae0][^c-c00030d11d5197eca33925aa5dabe68a][^c-43f61c2542e81d20b739fdc323643ae0]
 
 *Extent: E+W+S*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-43f61c2542e81d20b739fdc323643ae0]: Modification: [Pt. 10](https://www.legislation.gov.uk/ukpga/2014/14/part/10) modified by 1979 c. 34, s. 28(1) (as substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 15(2)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/15/2) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5)))
+[^c-43f61c2542e81d20b739fdc323643ae0]: Modification: [Pt. 10](https://www.legislation.gov.uk/ukpga/2014/14/part/10) modified by 1979 c. 34, s. 28(1) (as substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 15(2)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/15/2) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5)))
 
-[^key-c00030d11d5197eca33925aa5dabe68a]: Modification: [S. 127](https://www.legislation.gov.uk/ukpga/2014/14/section/127) applied by 2009 c. 20, s. 44(4)(c) (as substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 152(2)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/152/2) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5)))
+[^c-c00030d11d5197eca33925aa5dabe68a]: Modification: [S. 127](https://www.legislation.gov.uk/ukpga/2014/14/section/127) applied by 2009 c. 20, s. 44(4)(c) (as substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 152(2)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/152/2) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5)))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 58. Bail condition for identification procedures etc.[^key-813995ea64efe690001c583efa9ed388]
+## 58. Bail condition for identification procedures etc.[^c-813995ea64efe690001c583efa9ed388]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ In section 24 of the 1995 Act (bail and bail conditions)—
 
 ## Annotations
 
-[^key-813995ea64efe690001c583efa9ed388]: Commencement: [S. 58](https://www.legislation.gov.uk/asp/2010/13/section/58) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule))
+[^c-813995ea64efe690001c583efa9ed388]: Commencement: [S. 58](https://www.legislation.gov.uk/asp/2010/13/section/58) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule))

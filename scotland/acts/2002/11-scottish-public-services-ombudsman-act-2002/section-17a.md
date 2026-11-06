@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17A. Strategic plans[^key-1b147a5555817fee94b4672383d9430a]
+## 17A. Strategic plans[^c-1b147a5555817fee94b4672383d9430a]
 
 *Extent: S*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1b147a5555817fee94b4672383d9430a]: Textual amendment: S. 17A inserted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 3 para. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/3/paragraph/7) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+[^c-1b147a5555817fee94b4672383d9430a]: Textual amendment: S. 17A inserted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 3 para. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/3/paragraph/7) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))

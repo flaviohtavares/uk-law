@@ -39,50 +39,50 @@ concerning the non-inclusion of certain active substances in Annex I to Council 
 
 (2007/442/EC) (revoked)
 
-[^key-23259b0374058935016a0f0d301acf22]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-23259b0374058935016a0f0d301acf22]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-23259b0374058935016a0f0d301acf22] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-23259b0374058935016a0f0d301acf22] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-23259b0374058935016a0f0d301acf22] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-23259b0374058935016a0f0d301acf22] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-23259b0374058935016a0f0d301acf22] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-23259b0374058935016a0f0d301acf22] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-23259b0374058935016a0f0d301acf22] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-23259b0374058935016a0f0d301acf22] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-23259b0374058935016a0f0d301acf22] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-23259b0374058935016a0f0d301acf22] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-23259b0374058935016a0f0d301acf22]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-23259b0374058935016a0f0d301acf22]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX I — List of active substances which are not included as active substances in Annex I to Directive 91/414/EEC[^key-23259b0374058935016a0f0d301acf22]
+## ANNEX I — List of active substances which are not included as active substances in Annex I to Directive 91/414/EEC[^c-23259b0374058935016a0f0d301acf22]
 
-### Part A[^key-23259b0374058935016a0f0d301acf22]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Part B[^key-23259b0374058935016a0f0d301acf22]
+### Part A[^c-23259b0374058935016a0f0d301acf22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part C[^key-23259b0374058935016a0f0d301acf22]
+### Part B[^c-23259b0374058935016a0f0d301acf22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part D[^key-23259b0374058935016a0f0d301acf22]
+### Part C[^c-23259b0374058935016a0f0d301acf22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part F[^key-23259b0374058935016a0f0d301acf22]
+### Part D[^c-23259b0374058935016a0f0d301acf22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part G[^key-23259b0374058935016a0f0d301acf22]
+### Part F[^c-23259b0374058935016a0f0d301acf22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-23259b0374058935016a0f0d301acf22]
+### Part G[^c-23259b0374058935016a0f0d301acf22]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX II[^c-23259b0374058935016a0f0d301acf22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-23259b0374058935016a0f0d301acf22]: Textual amendment: Decision revoked (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/556/schedule/2/part/2) (with [reg. 29(2)](https://www.legislation.gov.uk/uksi/2019/556/regulation/29/2)) (as amended by [S.I. 2020/1376](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(20)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-23259b0374058935016a0f0d301acf22]: Textual amendment: Decision revoked (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/556/schedule/2/part/2) (with [reg. 29(2)](https://www.legislation.gov.uk/uksi/2019/556/regulation/29/2)) (as amended by [S.I. 2020/1376](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(20)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

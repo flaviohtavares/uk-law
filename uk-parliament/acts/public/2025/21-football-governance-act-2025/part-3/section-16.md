@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Application for provisional operating licence[^key-21c527bf0f5868450debefa78cb62ffa][^key-c5ac8ada171bb66609898a5374bac469]
+## 16. Application for provisional operating licence[^c-21c527bf0f5868450debefa78cb62ffa][^c-c5ac8ada171bb66609898a5374bac469]
 
 *Extent: E+W*
 
@@ -56,6 +56,6 @@ summary: ''
 
 ## Annotations
 
-[^key-21c527bf0f5868450debefa78cb62ffa]: Commencement: S. 16 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-21c527bf0f5868450debefa78cb62ffa]: Commencement: S. 16 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-c5ac8ada171bb66609898a5374bac469]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2025/21/section/16) in force at 1.11.2026 in so far as not already in force by [S.I. 2026/1135](https://www.legislation.gov.uk/uksi/2026/1135), [reg. 3(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/1135/regulation/3/1/a/ii)
+[^c-c5ac8ada171bb66609898a5374bac469]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2025/21/section/16) in force at 1.11.2026 in so far as not already in force by [S.I. 2026/1135](https://www.legislation.gov.uk/uksi/2026/1135), [reg. 3(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/1135/regulation/3/1/a/ii)

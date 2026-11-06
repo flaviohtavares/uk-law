@@ -48,13 +48,13 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 ## PART 1 — Preliminary
 
-### 1. Citation, commencement and application[^key-86d350a3b7b4ccb8c9f2e6f089b91acf]
+### 1. Citation, commencement and application[^c-86d350a3b7b4ccb8c9f2e6f089b91acf]
 
 (1) These Regulations may be cited as the Town and Country Planning (Modification and Discharge of Planning Obligations) (Scotland) Regulations 2010 and come into force on 1st February 2011.
 
 (2) These Regulations apply to applications made under section 75A of the Act and to appeals made under section 75B of the Act.
 
-### 2. Interpretation[^key-9e00e274351d32db993dee45122ee0e1]
+### 2. Interpretation[^c-9e00e274351d32db993dee45122ee0e1]
 
 In these Regulations—
 
@@ -66,7 +66,7 @@ In these Regulations—
 
 ## PART 2 — Applications for modification or discharge of a planning obligation
 
-### 3. Form and content of an application for modification or discharge of a planning obligation[^key-17b0591069f0438cc9a7ae75d9ecbdf9]
+### 3. Form and content of an application for modification or discharge of a planning obligation[^c-17b0591069f0438cc9a7ae75d9ecbdf9]
 
 (1) An application to a planning authority for modification or discharge of a planning obligation is to be made in accordance with this regulation.
 
@@ -83,11 +83,11 @@ In these Regulations—
   - (i) the names of the other parties to the relevant instrument and of other interested parties; and
   - (ii) the address at which such parties may be contacted.
 
-### 4. Validation date[^key-620987c39e0386599e15f29db91a123b]
+### 4. Validation date[^c-620987c39e0386599e15f29db91a123b]
 
 An application under regulation 3 is to be taken to have been made on the date on which the last of the items or information required in accordance with that regulation is received by the planning authority.
 
-### 5. Notification of application[^key-845c3977aafa49661eadcca80ee78ca0]
+### 5. Notification of application[^c-845c3977aafa49661eadcca80ee78ca0]
 
 (1) Subject to paragraph (3), a planning authority must notify every interested party in accordance with this regulation that an application has been made.
 
@@ -100,19 +100,19 @@ An application under regulation 3 is to be taken to have been made on the date 
 
 (3) The planning authority are not required to make any investigation as to the identity or whereabouts of an interested party and it shall be sufficient for the purposes of this regulation that notice is given to those persons detailed in the statement referred to in regulation 3(2)(h) at the address given in that statement.
 
-### 6. Further information[^key-6f9a8f331e6c9c260053da80f3cb7ba0]
+### 6. Further information[^c-6f9a8f331e6c9c260053da80f3cb7ba0]
 
 A planning authority may, in addition to the particulars, documents, materials or information which are to be included in or accompany an application in accordance with regulation 3, require from the applicant further particulars, documents, materials or information which they consider that they require to enable them to deal with the application.
 
-### 7. Determination of application[^key-c24b999e37728bb5597473a204cf4a38]
+### 7. Determination of application[^c-c24b999e37728bb5597473a204cf4a38]
 
-(1) The[^key-e04f1faf586ba6d8fa9959bd780c8426] planning authority are to give notice of their determination to an applicant under section 75A(5) of the Act within the period of two months after the date on which the application is taken to have been made in accordance with regulation 4.
+(1) The[^c-e04f1faf586ba6d8fa9959bd780c8426] planning authority are to give notice of their determination to an applicant under section 75A(5) of the Act within the period of two months after the date on which the application is taken to have been made in accordance with regulation 4.
 
 (2) The planning authority must when giving notice of their determination to the applicant send a copy of that notice to every interested party.
 
-(3)[^key-a5e371843f364e7259dd11cfd217c24a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-a5e371843f364e7259dd11cfd217c24a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Notice of determination[^key-2ba6f6b9b33d06fe5fb3a52f073aaab8]
+### 8. Notice of determination[^c-2ba6f6b9b33d06fe5fb3a52f073aaab8]
 
 A notice of determination must include—
 
@@ -123,24 +123,24 @@ A notice of determination must include—
 
 ## PART 3 — Appeals
 
-### 9. Application of Town and Country Planning (Appeals) (Scotland) Regulations 2008[^key-69f40a9f26d42e07ca77b151efd598d8]
+### 9. Application of Town and Country Planning (Appeals) (Scotland) Regulations 2008[^c-69f40a9f26d42e07ca77b151efd598d8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 4 — General
 
-### 10. Directions requiring information or restricting the modification or discharge of a planning obligation[^key-593266f2e18b31eff18f87a27eca4f80]
+### 10. Directions requiring information or restricting the modification or discharge of a planning obligation[^c-593266f2e18b31eff18f87a27eca4f80]
 
 (1) The Scottish Ministers may make directions requiring a planning authority to give to the Scottish Ministers and to such other persons as may be prescribed in directions such information as may be so prescribed with respect to applications under section 75A(2) of the Act, including information as to the manner in which any such application has been dealt with.
 
 (2) The Scottish Ministers may give directions restricting—
 
-- (a)[^key-7b43a1784bd7387408e8ba079538cc91] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-7b43a1784bd7387408e8ba079538cc91] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) the making of any determination by a planning authority under section 75A(4),
 
 either indefinitely or during such period as may be specified in the directions, in respect of any development or any class of development, as may be specified in the directions.
 
-### 11. Electronic communications[^key-6d4aa47eb46ca816cac67257f19504ef]
+### 11. Electronic communications[^c-6d4aa47eb46ca816cac67257f19504ef]
 
 (1) Where the criteria in paragraph (2) are met, any document required or authorised to be sent by these Regulations may be sent by electronic communications and any requirement in these Regulations that any document is to be in writing is fulfilled.
 
@@ -177,21 +177,21 @@ Edinburgh
 
 2nd December 2010
 
-## SCHEDULE — INFORMATION REGARDING APPEAL UNDER SECTION 75B[^key-4229c0888d905278532d51219ee73335]
+## SCHEDULE — INFORMATION REGARDING APPEAL UNDER SECTION 75B[^c-4229c0888d905278532d51219ee73335]
 
 Regulation 8(d)
 
-[^key-4229c0888d905278532d51219ee73335]
+[^c-4229c0888d905278532d51219ee73335]
 
 *Information to be included in notice of determination regarding right to appeal under section 75B of the Act*
 
 If the applicant is aggrieved by the decision of the planning authority to refuse to modify or discharge a planning obligation, the applicant may appeal to the Scottish Ministers under section 75B of the Town and Country Planning (Scotland) Act 1997 within three months from (and including) the date of this notice. The notice of appeal should be addressed to the \[Note 1\].
 
-[^key-4229c0888d905278532d51219ee73335]
+[^c-4229c0888d905278532d51219ee73335]
 
 —————————————————————————————————————–——
 
-[^key-4229c0888d905278532d51219ee73335]
+[^c-4229c0888d905278532d51219ee73335]
 
 Note 1 - Insert details of address to which the notice of appeal should be sent.
 
@@ -211,32 +211,32 @@ Regulation 10 enables the Scottish Ministers to make directions which require a 
 
 [^f00001]: Footnote: [1997 c.8](https://www.legislation.gov.uk/ukpga/1997/8). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46). Section 43 was amended by section 16(c) of the [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17). Sections 75A to 75C were inserted by section 23 of that Act. Section 275(2A) was inserted by section 54(16)(f) of that Act. Section 267 was amended by section 19(5) of that Act. Section 275A was inserted by section 52(1) of that Act.
 
-[^key-86d350a3b7b4ccb8c9f2e6f089b91acf]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2010/432/regulation/1) in force at 1.2.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/432/regulation/1/1)
+[^c-86d350a3b7b4ccb8c9f2e6f089b91acf]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2010/432/regulation/1) in force at 1.2.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/432/regulation/1/1)
 
-[^key-9e00e274351d32db993dee45122ee0e1]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2010/432/regulation/2) in force at 1.2.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/432/regulation/1/1)
+[^c-9e00e274351d32db993dee45122ee0e1]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2010/432/regulation/2) in force at 1.2.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/432/regulation/1/1)
 
-[^key-17b0591069f0438cc9a7ae75d9ecbdf9]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2010/432/regulation/3) in force at 1.2.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/432/regulation/1/1)
+[^c-17b0591069f0438cc9a7ae75d9ecbdf9]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2010/432/regulation/3) in force at 1.2.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/432/regulation/1/1)
 
-[^key-620987c39e0386599e15f29db91a123b]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2010/432/regulation/4) in force at 1.2.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/432/regulation/1/1)
+[^c-620987c39e0386599e15f29db91a123b]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2010/432/regulation/4) in force at 1.2.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/432/regulation/1/1)
 
-[^key-845c3977aafa49661eadcca80ee78ca0]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2010/432/regulation/5) in force at 1.2.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/432/regulation/1/1)
+[^c-845c3977aafa49661eadcca80ee78ca0]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2010/432/regulation/5) in force at 1.2.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/432/regulation/1/1)
 
-[^key-6f9a8f331e6c9c260053da80f3cb7ba0]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2010/432/regulation/6) in force at 1.2.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/432/regulation/1/1)
+[^c-6f9a8f331e6c9c260053da80f3cb7ba0]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2010/432/regulation/6) in force at 1.2.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/432/regulation/1/1)
 
-[^key-c24b999e37728bb5597473a204cf4a38]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2010/432/regulation/7) in force at 1.2.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/432/regulation/1/1)
+[^c-c24b999e37728bb5597473a204cf4a38]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2010/432/regulation/7) in force at 1.2.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/432/regulation/1/1)
 
-[^key-e04f1faf586ba6d8fa9959bd780c8426]: Textual amendment: Word in [reg. 7(1)](https://www.legislation.gov.uk/ssi/2010/432/regulation/7/1) substituted (14.9.2015) by [The Town and Country Planning (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/249)](https://www.legislation.gov.uk/ssi/2015/249), [regs. 1](https://www.legislation.gov.uk/ssi/2015/249/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/ssi/2015/249/regulation/3/2/a)
+[^c-e04f1faf586ba6d8fa9959bd780c8426]: Textual amendment: Word in [reg. 7(1)](https://www.legislation.gov.uk/ssi/2010/432/regulation/7/1) substituted (14.9.2015) by [The Town and Country Planning (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/249)](https://www.legislation.gov.uk/ssi/2015/249), [regs. 1](https://www.legislation.gov.uk/ssi/2015/249/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/ssi/2015/249/regulation/3/2/a)
 
-[^key-a5e371843f364e7259dd11cfd217c24a]: Textual amendment: [Reg. 7(3)](https://www.legislation.gov.uk/ssi/2010/432/regulation/7/3) omitted (14.9.2015) by virtue of [The Town and Country Planning (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/249)](https://www.legislation.gov.uk/ssi/2015/249), [regs. 1](https://www.legislation.gov.uk/ssi/2015/249/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/ssi/2015/249/regulation/3/2/b)
+[^c-a5e371843f364e7259dd11cfd217c24a]: Textual amendment: [Reg. 7(3)](https://www.legislation.gov.uk/ssi/2010/432/regulation/7/3) omitted (14.9.2015) by virtue of [The Town and Country Planning (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/249)](https://www.legislation.gov.uk/ssi/2015/249), [regs. 1](https://www.legislation.gov.uk/ssi/2015/249/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/ssi/2015/249/regulation/3/2/b)
 
-[^key-2ba6f6b9b33d06fe5fb3a52f073aaab8]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2010/432/regulation/8) in force at 1.2.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/432/regulation/1/1)
+[^c-2ba6f6b9b33d06fe5fb3a52f073aaab8]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2010/432/regulation/8) in force at 1.2.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/432/regulation/1/1)
 
-[^key-69f40a9f26d42e07ca77b151efd598d8]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/ssi/2010/432/regulation/9) revoked (30.6.2013) by [The Town and Country Planning (Appeals) (Scotland) Regulations 2013 (S.S.I. 2013/156)](https://www.legislation.gov.uk/ssi/2013/156), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1), [sch. 5](https://www.legislation.gov.uk/ssi/2013/156/schedule/5) (with [reg. 1(2)-(10)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/2))
+[^c-69f40a9f26d42e07ca77b151efd598d8]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/ssi/2010/432/regulation/9) revoked (30.6.2013) by [The Town and Country Planning (Appeals) (Scotland) Regulations 2013 (S.S.I. 2013/156)](https://www.legislation.gov.uk/ssi/2013/156), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1), [sch. 5](https://www.legislation.gov.uk/ssi/2013/156/schedule/5) (with [reg. 1(2)-(10)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/2))
 
-[^key-593266f2e18b31eff18f87a27eca4f80]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2010/432/regulation/10) in force at 1.2.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/432/regulation/1/1)
+[^c-593266f2e18b31eff18f87a27eca4f80]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2010/432/regulation/10) in force at 1.2.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/432/regulation/1/1)
 
-[^key-7b43a1784bd7387408e8ba079538cc91]: Textual amendment: [Reg. 10(2)(a)](https://www.legislation.gov.uk/ssi/2010/432/regulation/10/2/a) revoked (18.11.2020) by [The Planning (Scotland) Act 2019 (Commencement No. 5 and Saving, Transitional and Consequential Provisions) Regulations 2020 (S.S.I. 2020/294)](https://www.legislation.gov.uk/ssi/2020/294), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/294/regulation/1/1), [4](https://www.legislation.gov.uk/ssi/2020/294/regulation/4)
+[^c-7b43a1784bd7387408e8ba079538cc91]: Textual amendment: [Reg. 10(2)(a)](https://www.legislation.gov.uk/ssi/2010/432/regulation/10/2/a) revoked (18.11.2020) by [The Planning (Scotland) Act 2019 (Commencement No. 5 and Saving, Transitional and Consequential Provisions) Regulations 2020 (S.S.I. 2020/294)](https://www.legislation.gov.uk/ssi/2020/294), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/294/regulation/1/1), [4](https://www.legislation.gov.uk/ssi/2020/294/regulation/4)
 
-[^key-6d4aa47eb46ca816cac67257f19504ef]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2010/432/regulation/11) in force at 1.2.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/432/regulation/1/1)
+[^c-6d4aa47eb46ca816cac67257f19504ef]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2010/432/regulation/11) in force at 1.2.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/432/regulation/1/1)
 
-[^key-4229c0888d905278532d51219ee73335]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2010/432/schedule) in force at 1.2.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/432/regulation/1/1)
+[^c-4229c0888d905278532d51219ee73335]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2010/432/schedule) in force at 1.2.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/432/regulation/1/1)

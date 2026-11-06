@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 131. Llanfoist Fawr and Llanover — change in community boundaries and consequential changes to electoral arrangements[^key-50f68a97375c3e30cfe352da4d24aca1][^key-ed2543f3c1748efa41062b6a937802da]
+## 131. Llanfoist Fawr and Llanover — change in community boundaries and consequential changes to electoral arrangements[^c-50f68a97375c3e30cfe352da4d24aca1][^c-ed2543f3c1748efa41062b6a937802da]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ The part of the community of Llanover shown hatched on Map 98—
 
 ## Annotations
 
-[^key-50f68a97375c3e30cfe352da4d24aca1]: Commencement: Art. 131 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
+[^c-50f68a97375c3e30cfe352da4d24aca1]: Commencement: Art. 131 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
 
-[^key-ed2543f3c1748efa41062b6a937802da]: Commencement: [Art. 131](https://www.legislation.gov.uk/wsi/2021/1227/article/131) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)
+[^c-ed2543f3c1748efa41062b6a937802da]: Commencement: [Art. 131](https://www.legislation.gov.uk/wsi/2021/1227/article/131) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)

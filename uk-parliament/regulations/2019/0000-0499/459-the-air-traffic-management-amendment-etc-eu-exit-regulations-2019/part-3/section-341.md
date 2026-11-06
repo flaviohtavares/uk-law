@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 341. Annex to Commission Implementing Regulation (EU) No 716/2014[^key-4ebf35f19d3769548eb5e0a8b2d12f64]
+## 341. Annex to Commission Implementing Regulation (EU) No 716/2014[^c-4ebf35f19d3769548eb5e0a8b2d12f64]
 
 *Extent: E+W+S+N.I.*
 
@@ -125,4 +125,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4ebf35f19d3769548eb5e0a8b2d12f64]: Commencement: Reg. 341 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-4ebf35f19d3769548eb5e0a8b2d12f64]: Commencement: Reg. 341 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

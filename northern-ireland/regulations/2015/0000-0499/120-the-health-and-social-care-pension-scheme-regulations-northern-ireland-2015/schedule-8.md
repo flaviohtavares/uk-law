@@ -30,7 +30,7 @@ In this Schedule—
   - (a) work undertaken as a member of the Board of an employing authority, which is not a GMS practice, an APMS contractor or an OOH provider; or
   - (b) advisory work commissioned by and undertaken on behalf of such an authority, where it is connected to the authority's role in performing or securing the delivery of, primary medical services or associated management activities or similar duties, but which is not in itself the performance of primary medical services, and payment for which is made by that authority directly to the person carrying out that work.
 - “**collaborative services**” means primary medical services provided by a GP performer, a GMS practice, an APMS contractor or an OOH provider under or as a result of an arrangement between—
-  - (a) the Department[^key-29b32e28d18b73afbd7809bcd5be69ba] ; and
+  - (a) the Department[^c-29b32e28d18b73afbd7809bcd5be69ba] ; and
   - (b) a person or body, under which the Department is responsible for providing services for purposes related to the provision of health care in accordance with Article 56 of the 1972 Order [^c22441241].
 - “**commissioned services**” means medical services provided under a contract between—
   - (a) a medical practitioner, a GMS practice, an APMS contractor or an OOH provider; and
@@ -81,10 +81,10 @@ CASE 4 Allowances and other sums paid in respect of Board and advisory work. Thi
 
 (2) Subject to sub-paragraphs (3), (5) and (6), M's practitioner income for a scheme year means income that accrues to the practitioner which is derived from GDS arrangements.
 
-(3) For each GDS arrangement from which practitioner income is derived, the maximum amount of practitioner income which may be derived from provision of that service in any financial year is, subject to paragraph (4), the value of that service in that financial year less the value of the following payments (if payable in that financial year by the Department[^key-7619adc0cbd4442f399fb5e0fb066303] that is a party to the service)—
+(3) For each GDS arrangement from which practitioner income is derived, the maximum amount of practitioner income which may be derived from provision of that service in any financial year is, subject to paragraph (4), the value of that service in that financial year less the value of the following payments (if payable in that financial year by the Department[^c-7619adc0cbd4442f399fb5e0fb066303] that is a party to the service)—
 
 - (a) monthly seniority payments;
-- (b) maternity leave, paternity leave, parental leave ,[^key-62acb085d297e100fce40802aaf9e67d] shared parental leave,[^key-0674e49448d2584825909657b6713845] parental bereavement leave or adoption leave payments;
+- (b) maternity leave, paternity leave, parental leave ,[^c-62acb085d297e100fce40802aaf9e67d] shared parental leave,[^c-0674e49448d2584825909657b6713845] parental bereavement leave or adoption leave payments;
 - (c) sickness leave payments;
 - (d) reimbursement of the salary of a vocational trainee;
 - (e) reimbursement of the national insurance contributions of a vocational trainee;
@@ -93,7 +93,7 @@ CASE 4 Allowances and other sums paid in respect of Board and advisory work. Thi
 (4) Income which accrues to a dental practitioner that is derived from the following payments under GDS arrangements is practitioner income for the purposes of this paragraph (that is, it is pensionable earnings, notwithstanding that they are not included in the calculation of the pensionable earnings ceiling described in sub-paragraph (3) for a particular GDS service)—
 
 - (a) monthly seniority payments;
-- (b) maternity leave, paternity leave, parental leave ,[^key-3c996fd1ef55be3baa6770521deacc9c] shared parental leave,[^key-db37eadb0e6d4a85bc8fcf7159b310b2] parental bereavement leave or adoption leave payments;
+- (b) maternity leave, paternity leave, parental leave ,[^c-3c996fd1ef55be3baa6770521deacc9c] shared parental leave,[^c-db37eadb0e6d4a85bc8fcf7159b310b2] parental bereavement leave or adoption leave payments;
 - (c) sickness leave payments,
 
 (5) The following payments under a GDS arrangement are not to be considered practitioner income for the purposes of this regulation—
@@ -140,7 +140,7 @@ CASE 4 Allowances and other sums paid in respect of Board and advisory work. Thi
 
 (1) This paragraph applies to an election as mentioned in paragraph 4(4) or 5(2).
 
-(2) The partners must exercise the election by giving notice in writing to the Department[^key-68d2a980b058e81fb955c3b47c98985d] in accordance with sub-paragraph (3).
+(2) The partners must exercise the election by giving notice in writing to the Department[^c-68d2a980b058e81fb955c3b47c98985d] in accordance with sub-paragraph (3).
 
 (3) A notice under this sub-paragraph must—
 
@@ -151,11 +151,11 @@ CASE 4 Allowances and other sums paid in respect of Board and advisory work. Thi
 
 - (a) state the name of the employing authority;
 - (b) state the pensionable earnings received in respect of the employment;
-- (c) include an undertaking to give the Department[^key-b929996808540891968afff564e085d1] notice in writing at the end of each scheme year of the pensionable earnings received in respect of the employment in the scheme year.
+- (c) include an undertaking to give the Department[^c-b929996808540891968afff564e085d1] notice in writing at the end of each scheme year of the pensionable earnings received in respect of the employment in the scheme year.
 
 (5) A notice under this paragraph takes effect—
 
-- (a) on the date agreed between the practitioners and the Department[^key-6132ef14681d1b8beae96f6372afbcc1] , or
+- (a) on the date agreed between the practitioners and the Department[^c-6132ef14681d1b8beae96f6372afbcc1] , or
 - (b) failing such agreement, on the date specified by the Department.
 
 (6) A notice under this paragraph—
@@ -163,7 +163,7 @@ CASE 4 Allowances and other sums paid in respect of Board and advisory work. Thi
 - (a) may be cancelled or amended by a subsequent such notice;
 - (b) continues in effect until cancelled or, if earlier, there is a change in the partnership.
 
-(7) Calculations for the purposes of paragraphs 4(2) and 5(2) must be carried out by the Department[^key-2c1b4c8b5d3cd546588090d4ad74be54] .
+(7) Calculations for the purposes of paragraphs 4(2) and 5(2) must be carried out by the Department[^c-2c1b4c8b5d3cd546588090d4ad74be54] .
 
 ### 7. Locum practitioner
 
@@ -181,24 +181,24 @@ CASE 4 Allowances and other sums paid in respect of Board and advisory work. Thi
 
 ## Annotations
 
-[^key-29b32e28d18b73afbd7809bcd5be69ba]: Textual amendment: Word in [Sch. 8 para. 1](https://www.legislation.gov.uk/nisr/2015/120/schedule/8/paragraph/1) substituted (1.4.2023) by [The Health and Social Care Pension Scheme (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/33)](https://www.legislation.gov.uk/nisr/2023/33), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/33/regulation/1/2), [41(a)](https://www.legislation.gov.uk/nisr/2023/33/regulation/41/a)
+[^c-29b32e28d18b73afbd7809bcd5be69ba]: Textual amendment: Word in [Sch. 8 para. 1](https://www.legislation.gov.uk/nisr/2015/120/schedule/8/paragraph/1) substituted (1.4.2023) by [The Health and Social Care Pension Scheme (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/33)](https://www.legislation.gov.uk/nisr/2023/33), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/33/regulation/1/2), [41(a)](https://www.legislation.gov.uk/nisr/2023/33/regulation/41/a)
 
 [^c22441241]: Marginal citation: [S.I. 1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265)
 
-[^key-7619adc0cbd4442f399fb5e0fb066303]: Textual amendment: Word in [Sch. 8 para. 3(3)](https://www.legislation.gov.uk/nisr/2015/120/schedule/8/paragraph/3/3) substituted (1.4.2023) by [The Health and Social Care Pension Scheme (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/33)](https://www.legislation.gov.uk/nisr/2023/33), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/33/regulation/1/2), [41(b)](https://www.legislation.gov.uk/nisr/2023/33/regulation/41/b)
+[^c-7619adc0cbd4442f399fb5e0fb066303]: Textual amendment: Word in [Sch. 8 para. 3(3)](https://www.legislation.gov.uk/nisr/2015/120/schedule/8/paragraph/3/3) substituted (1.4.2023) by [The Health and Social Care Pension Scheme (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/33)](https://www.legislation.gov.uk/nisr/2023/33), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/33/regulation/1/2), [41(b)](https://www.legislation.gov.uk/nisr/2023/33/regulation/41/b)
 
-[^key-62acb085d297e100fce40802aaf9e67d]: Textual amendment: Words in [Sch. 8 para. 3(3)(b)](https://www.legislation.gov.uk/nisr/2015/120/schedule/8/paragraph/3/3/b) inserted (29.9.2023) by virtue of [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/157)](https://www.legislation.gov.uk/nisr/2023/157), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1), [22(5)(a)](https://www.legislation.gov.uk/nisr/2023/157/regulation/22/5/a), [34](https://www.legislation.gov.uk/nisr/2023/157/regulation/34) (with [regs. 28-33](https://www.legislation.gov.uk/nisr/2023/157/regulation/28))
+[^c-62acb085d297e100fce40802aaf9e67d]: Textual amendment: Words in [Sch. 8 para. 3(3)(b)](https://www.legislation.gov.uk/nisr/2015/120/schedule/8/paragraph/3/3/b) inserted (29.9.2023) by virtue of [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/157)](https://www.legislation.gov.uk/nisr/2023/157), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1), [22(5)(a)](https://www.legislation.gov.uk/nisr/2023/157/regulation/22/5/a), [34](https://www.legislation.gov.uk/nisr/2023/157/regulation/34) (with [regs. 28-33](https://www.legislation.gov.uk/nisr/2023/157/regulation/28))
 
-[^key-0674e49448d2584825909657b6713845]: Textual amendment: Words in [Sch. 8 para. 3(3)(b)](https://www.legislation.gov.uk/nisr/2015/120/schedule/8/paragraph/3/3/b) inserted (1.4.2023) by [The Health and Social Care Pension Scheme (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/33)](https://www.legislation.gov.uk/nisr/2023/33), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/33/regulation/1/2), [25(a)](https://www.legislation.gov.uk/nisr/2023/33/regulation/25/a)
+[^c-0674e49448d2584825909657b6713845]: Textual amendment: Words in [Sch. 8 para. 3(3)(b)](https://www.legislation.gov.uk/nisr/2015/120/schedule/8/paragraph/3/3/b) inserted (1.4.2023) by [The Health and Social Care Pension Scheme (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/33)](https://www.legislation.gov.uk/nisr/2023/33), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/33/regulation/1/2), [25(a)](https://www.legislation.gov.uk/nisr/2023/33/regulation/25/a)
 
-[^key-3c996fd1ef55be3baa6770521deacc9c]: Textual amendment: Words in [Sch. 8 para. 3(4)(b)](https://www.legislation.gov.uk/nisr/2015/120/schedule/8/paragraph/3/4/b) inserted (29.9.2023) by virtue of [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/157)](https://www.legislation.gov.uk/nisr/2023/157), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1), [22(5)(b)](https://www.legislation.gov.uk/nisr/2023/157/regulation/22/5/b), [34](https://www.legislation.gov.uk/nisr/2023/157/regulation/34) (with [regs. 28-33](https://www.legislation.gov.uk/nisr/2023/157/regulation/28))
+[^c-3c996fd1ef55be3baa6770521deacc9c]: Textual amendment: Words in [Sch. 8 para. 3(4)(b)](https://www.legislation.gov.uk/nisr/2015/120/schedule/8/paragraph/3/4/b) inserted (29.9.2023) by virtue of [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/157)](https://www.legislation.gov.uk/nisr/2023/157), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1), [22(5)(b)](https://www.legislation.gov.uk/nisr/2023/157/regulation/22/5/b), [34](https://www.legislation.gov.uk/nisr/2023/157/regulation/34) (with [regs. 28-33](https://www.legislation.gov.uk/nisr/2023/157/regulation/28))
 
-[^key-db37eadb0e6d4a85bc8fcf7159b310b2]: Textual amendment: Words in [Sch. 8 para. 3(4)(b)](https://www.legislation.gov.uk/nisr/2015/120/schedule/8/paragraph/3/4/b) inserted (1.4.2023) by [The Health and Social Care Pension Scheme (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/33)](https://www.legislation.gov.uk/nisr/2023/33), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/33/regulation/1/2), [25(b)](https://www.legislation.gov.uk/nisr/2023/33/regulation/25/b)
+[^c-db37eadb0e6d4a85bc8fcf7159b310b2]: Textual amendment: Words in [Sch. 8 para. 3(4)(b)](https://www.legislation.gov.uk/nisr/2015/120/schedule/8/paragraph/3/4/b) inserted (1.4.2023) by [The Health and Social Care Pension Scheme (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/33)](https://www.legislation.gov.uk/nisr/2023/33), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/33/regulation/1/2), [25(b)](https://www.legislation.gov.uk/nisr/2023/33/regulation/25/b)
 
-[^key-68d2a980b058e81fb955c3b47c98985d]: Textual amendment: Word in [Sch. 8 para. 6(2)](https://www.legislation.gov.uk/nisr/2015/120/schedule/8/paragraph/6/2) substituted (1.4.2023) by [The Health and Social Care Pension Scheme (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/33)](https://www.legislation.gov.uk/nisr/2023/33), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/33/regulation/1/2), [41(c)](https://www.legislation.gov.uk/nisr/2023/33/regulation/41/c)
+[^c-68d2a980b058e81fb955c3b47c98985d]: Textual amendment: Word in [Sch. 8 para. 6(2)](https://www.legislation.gov.uk/nisr/2015/120/schedule/8/paragraph/6/2) substituted (1.4.2023) by [The Health and Social Care Pension Scheme (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/33)](https://www.legislation.gov.uk/nisr/2023/33), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/33/regulation/1/2), [41(c)](https://www.legislation.gov.uk/nisr/2023/33/regulation/41/c)
 
-[^key-b929996808540891968afff564e085d1]: Textual amendment: Word in [Sch. 8 para. 6(4)(c)](https://www.legislation.gov.uk/nisr/2015/120/schedule/8/paragraph/6/4/c) substituted (1.4.2023) by [The Health and Social Care Pension Scheme (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/33)](https://www.legislation.gov.uk/nisr/2023/33), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/33/regulation/1/2), [41(c)](https://www.legislation.gov.uk/nisr/2023/33/regulation/41/c)
+[^c-b929996808540891968afff564e085d1]: Textual amendment: Word in [Sch. 8 para. 6(4)(c)](https://www.legislation.gov.uk/nisr/2015/120/schedule/8/paragraph/6/4/c) substituted (1.4.2023) by [The Health and Social Care Pension Scheme (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/33)](https://www.legislation.gov.uk/nisr/2023/33), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/33/regulation/1/2), [41(c)](https://www.legislation.gov.uk/nisr/2023/33/regulation/41/c)
 
-[^key-6132ef14681d1b8beae96f6372afbcc1]: Textual amendment: Word in [Sch. 8 para. 6(5)(a)](https://www.legislation.gov.uk/nisr/2015/120/schedule/8/paragraph/6/5/a) substituted (1.4.2023) by [The Health and Social Care Pension Scheme (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/33)](https://www.legislation.gov.uk/nisr/2023/33), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/33/regulation/1/2), [41(c)](https://www.legislation.gov.uk/nisr/2023/33/regulation/41/c)
+[^c-6132ef14681d1b8beae96f6372afbcc1]: Textual amendment: Word in [Sch. 8 para. 6(5)(a)](https://www.legislation.gov.uk/nisr/2015/120/schedule/8/paragraph/6/5/a) substituted (1.4.2023) by [The Health and Social Care Pension Scheme (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/33)](https://www.legislation.gov.uk/nisr/2023/33), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/33/regulation/1/2), [41(c)](https://www.legislation.gov.uk/nisr/2023/33/regulation/41/c)
 
-[^key-2c1b4c8b5d3cd546588090d4ad74be54]: Textual amendment: Word in [Sch. 8 para. 6(7)](https://www.legislation.gov.uk/nisr/2015/120/schedule/8/paragraph/6/7) substituted (1.4.2023) by [The Health and Social Care Pension Scheme (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/33)](https://www.legislation.gov.uk/nisr/2023/33), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/33/regulation/1/2), [41(c)](https://www.legislation.gov.uk/nisr/2023/33/regulation/41/c)
+[^c-2c1b4c8b5d3cd546588090d4ad74be54]: Textual amendment: Word in [Sch. 8 para. 6(7)](https://www.legislation.gov.uk/nisr/2015/120/schedule/8/paragraph/6/7) substituted (1.4.2023) by [The Health and Social Care Pension Scheme (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/33)](https://www.legislation.gov.uk/nisr/2023/33), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/33/regulation/1/2), [41(c)](https://www.legislation.gov.uk/nisr/2023/33/regulation/41/c)

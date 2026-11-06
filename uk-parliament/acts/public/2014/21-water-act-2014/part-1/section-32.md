@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Interim duty: sewerage services[^key-697b6f59cd65a27b23005d316e01d2e5][^key-a1d641a16931e55f224d53004d4b2c52]
+## 32. Interim duty: sewerage services[^c-697b6f59cd65a27b23005d316e01d2e5][^c-a1d641a16931e55f224d53004d4b2c52]
 
 *Extent: E+W*
 
@@ -151,6 +151,6 @@ After section 110J of the Water Industry Act 1991 (as inserted by section 9) the
 
 ## Annotations
 
-[^key-697b6f59cd65a27b23005d316e01d2e5]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2014/21/section/32) in force at 6.3.2017 for specified purposes by [S.I. 2017/58](https://www.legislation.gov.uk/uksi/2017/58), [art. 2(a)](https://www.legislation.gov.uk/uksi/2017/58/article/2/a) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2017/58/article/3/2))
+[^c-697b6f59cd65a27b23005d316e01d2e5]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2014/21/section/32) in force at 6.3.2017 for specified purposes by [S.I. 2017/58](https://www.legislation.gov.uk/uksi/2017/58), [art. 2(a)](https://www.legislation.gov.uk/uksi/2017/58/article/2/a) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2017/58/article/3/2))
 
-[^key-a1d641a16931e55f224d53004d4b2c52]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2014/21/section/32) in force at 1.4.2017 in so far as not already in force by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(g)](https://www.legislation.gov.uk/uksi/2017/462/article/3/g)
+[^c-a1d641a16931e55f224d53004d4b2c52]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2014/21/section/32) in force at 1.4.2017 in so far as not already in force by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(g)](https://www.legislation.gov.uk/uksi/2017/462/article/3/g)

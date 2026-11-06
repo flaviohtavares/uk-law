@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4.10. Joint minutes of agreement[^key-e5b5db931650e84ee03b34ba4359eb64]
+## 4.10. Joint minutes of agreement[^c-e5b5db931650e84ee03b34ba4359eb64]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e5b5db931650e84ee03b34ba4359eb64]: Commencement: [Rule 4.10](https://www.legislation.gov.uk/ssi/2017/103/rule/4.10) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-e5b5db931650e84ee03b34ba4359eb64]: Commencement: [Rule 4.10](https://www.legislation.gov.uk/ssi/2017/103/rule/4.10) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)

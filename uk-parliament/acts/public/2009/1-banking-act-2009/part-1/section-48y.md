@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48Y. Consequences of a replacement valuation[^key-ada5966e0635f4358d85aab31d3bee7e]
+## 48Y. Consequences of a replacement valuation[^c-ada5966e0635f4358d85aab31d3bee7e]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ada5966e0635f4358d85aab31d3bee7e]: Textual amendment: Ss. 48X, 48Y and cross-heading inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [61](https://www.legislation.gov.uk/uksi/2014/3329/article/61)
+[^c-ada5966e0635f4358d85aab31d3bee7e]: Textual amendment: Ss. 48X, 48Y and cross-heading inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [61](https://www.legislation.gov.uk/uksi/2014/3329/article/61)

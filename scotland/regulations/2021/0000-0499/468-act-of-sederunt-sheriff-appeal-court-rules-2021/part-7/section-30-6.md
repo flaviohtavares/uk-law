@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 30.6. Appeal to the Court of Session: certification[^key-707648173e19db76f2619b779036f0a8]
+## 30.6. Appeal to the Court of Session: certification[^c-707648173e19db76f2619b779036f0a8]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-707648173e19db76f2619b779036f0a8]: Commencement: Para. 30.6 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-707648173e19db76f2619b779036f0a8]: Commencement: Para. 30.6 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

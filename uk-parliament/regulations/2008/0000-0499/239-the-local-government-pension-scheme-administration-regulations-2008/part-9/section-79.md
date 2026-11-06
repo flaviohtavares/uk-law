@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 79. Rights to payment out of fund authority’s pension fund[^key-eec284b2a5cc9fddfdac81ba3ea36235]
+## 79. Rights to payment out of fund authority’s pension fund[^c-eec284b2a5cc9fddfdac81ba3ea36235]
 
 *Extent: E+W+S*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-eec284b2a5cc9fddfdac81ba3ea36235]: Commencement: Reg. 79 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-eec284b2a5cc9fddfdac81ba3ea36235]: Commencement: Reg. 79 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
 
 [^f00051]: Footnote: [2004 c.12](https://www.legislation.gov.uk/ukpga/2004/12).

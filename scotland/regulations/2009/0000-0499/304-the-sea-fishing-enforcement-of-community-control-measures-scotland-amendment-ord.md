@@ -32,7 +32,7 @@ summary: ''
 
 Sea Fisheries
 
-The Sea Fishing (Enforcement of Community Control Measures) (Scotland) Amendment Order 2009 (revoked)[^key-b7150b85ac972d8dc595f6cb09af3d68]
+The Sea Fishing (Enforcement of Community Control Measures) (Scotland) Amendment Order 2009 (revoked)[^c-b7150b85ac972d8dc595f6cb09af3d68]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 25th September 2009
 
-[^key-b7150b85ac972d8dc595f6cb09af3d68]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b7150b85ac972d8dc595f6cb09af3d68]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-b7150b85ac972d8dc595f6cb09af3d68]
+## 1. Citation and commencement[^c-b7150b85ac972d8dc595f6cb09af3d68]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Sea Fishing (Enforcement of Community Control Measures) (Scotland) Order 2000[^key-b7150b85ac972d8dc595f6cb09af3d68]
+## 2. Amendment of the Sea Fishing (Enforcement of Community Control Measures) (Scotland) Order 2000[^c-b7150b85ac972d8dc595f6cb09af3d68]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b7150b85ac972d8dc595f6cb09af3d68]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b7150b85ac972d8dc595f6cb09af3d68]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-b7150b85ac972d8dc595f6cb09af3d68]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b7150b85ac972d8dc595f6cb09af3d68]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b7150b85ac972d8dc595f6cb09af3d68]: Textual amendment: Order revoked (31.10.2010) by [The Sea Fishing (EU Recording and Reporting Requirements) (Scotland) Order 2010 (S.S.I. 2010/334)](https://www.legislation.gov.uk/ssi/2010/334), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2010/334/article/1/1), [16(1)(c)](https://www.legislation.gov.uk/ssi/2010/334/article/16/1/c) (with [art. 16(2)](https://www.legislation.gov.uk/ssi/2010/334/article/16/2))
+[^c-b7150b85ac972d8dc595f6cb09af3d68]: Textual amendment: Order revoked (31.10.2010) by [The Sea Fishing (EU Recording and Reporting Requirements) (Scotland) Order 2010 (S.S.I. 2010/334)](https://www.legislation.gov.uk/ssi/2010/334), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2010/334/article/1/1), [16(1)(c)](https://www.legislation.gov.uk/ssi/2010/334/article/16/1/c) (with [art. 16(2)](https://www.legislation.gov.uk/ssi/2010/334/article/16/2))

@@ -33,7 +33,7 @@ Elections (Northern Ireland) Act 1985
 
 \[24th January 1985.\]
 
-Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-1c01e02deaa285bf0db3266eb481fd1b]
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-1c01e02deaa285bf0db3266eb481fd1b]
 
 ## Parliamentary elections
 
@@ -99,13 +99,13 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (1) Schedule 1 to the 1983 Act shall be further amended as mentioned in subsections (2) to (4).
 
-(2)[^key-2ed5cd82477278e9ce5ea7566385b220] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-2ed5cd82477278e9ce5ea7566385b220] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The following minor amendments shall be made—
 
 - (a) in rule 37(1) for “A” there shall be substituted “ Subject to paragraphs (1A) to (1G) below, a ”;
-- (b)[^key-cb9c4a91f670f8963e4783364f4fe707] in rule 38(1) for “The” there shall be substituted “ Subject to paragraph (1A) below, the ”;
-- (c)[^key-cb9c4a91f670f8963e4783364f4fe707] in rule 39(2) for “If” there shall be substituted “ Subject to paragraph (2A) below, if ”.
+- (b)[^c-cb9c4a91f670f8963e4783364f4fe707] in rule 38(1) for “The” there shall be substituted “ Subject to paragraph (1A) below, the ”;
+- (c)[^c-cb9c4a91f670f8963e4783364f4fe707] in rule 39(2) for “If” there shall be substituted “ Subject to paragraph (2A) below, if ”.
 
 (4) After rule 40 there shall be inserted—
 
@@ -196,7 +196,7 @@ Any increase attributable to this Act in the sums to be paid out of, or charged 
 
 (4) This Act extends to Northern Ireland only.
 
-(5)[^key-c4fe3852c453bd2bad770259f702726a] See also paragraph 34 of Schedule 1 to the Elections Act 2022 (which relates to section 2 of this Act).
+(5)[^c-c4fe3852c453bd2bad770259f702726a] See also paragraph 34 of Schedule 1 to the Elections Act 2022 (which relates to section 2 of this Act).
 
 ## Annotations
 
@@ -208,15 +208,15 @@ Any increase attributable to this Act in the sums to be paid out of, or charged 
 
 [^c2006822]: Modification: Act: power to amend conferred (1.1.2007) by [Electoral Administration Act 2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22), [ss. 72](https://www.legislation.gov.uk/ukpga/2006/22/section/72), [77](https://www.legislation.gov.uk/ukpga/2006/22/section/77); [S.I. 2006/3412](https://www.legislation.gov.uk/uksi/2006/3412), [art. 3](https://www.legislation.gov.uk/uksi/2006/3412/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/3412/schedule/1)(subject to art. 6) (with Sch. 2)
 
-[^key-1c01e02deaa285bf0db3266eb481fd1b]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1985/2): functions cease to be exercisable concurrently (8.12.2021) by [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [9](https://www.legislation.gov.uk/uksi/2021/1265/article/9), [Sch. 1(b)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/1/b) (with [arts. 11](https://www.legislation.gov.uk/uksi/2021/1265/article/11), [12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
+[^c-1c01e02deaa285bf0db3266eb481fd1b]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1985/2): functions cease to be exercisable concurrently (8.12.2021) by [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [9](https://www.legislation.gov.uk/uksi/2021/1265/article/9), [Sch. 1(b)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/1/b) (with [arts. 11](https://www.legislation.gov.uk/uksi/2021/1265/article/11), [12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
 
 [^c765858]: Marginal citation: [1983 c. 2](https://www.legislation.gov.uk/ukpga/1983/2).
 
 [^c765859]: Textual amendment: Words inserted by [Road Traffic (Consequential Provisions) Act 1988 (c. 54, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1988/54), [s. 4 Sch. 3 para. 28](https://www.legislation.gov.uk/ukpga/1988/54/section/4/schedule/3/paragraph/28)
 
-[^key-2ed5cd82477278e9ce5ea7566385b220]: Textual amendment: [S. 2(2)](https://www.legislation.gov.uk/ukpga/1985/2/section/2/2) repealed (16.1.2023) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 1 para. 40](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/40), [Sch. 2 para. 14(a)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/2/paragraph/14/a); [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(xvi)(e)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/xvi)
+[^c-2ed5cd82477278e9ce5ea7566385b220]: Textual amendment: [S. 2(2)](https://www.legislation.gov.uk/ukpga/1985/2/section/2/2) repealed (16.1.2023) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 1 para. 40](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/40), [Sch. 2 para. 14(a)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/2/paragraph/14/a); [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(xvi)(e)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/xvi)
 
-[^key-cb9c4a91f670f8963e4783364f4fe707]: Modification: [S. 2(3)(b)(c)](https://www.legislation.gov.uk/ukpga/1985/2/section/2/3/b/c) extended (E.W.S.) (16.1.2023) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 1 para. 34](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/34); [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(xv)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/xv) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/1))
+[^c-cb9c4a91f670f8963e4783364f4fe707]: Modification: [S. 2(3)(b)(c)](https://www.legislation.gov.uk/ukpga/1985/2/section/2/3/b/c) extended (E.W.S.) (16.1.2023) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 1 para. 34](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/34); [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(xv)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/xv) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/1))
 
 [^c765860]: Modification: [S. 3](https://www.legislation.gov.uk/ukpga/1985/2/section/3) applied by [S.I. 1986/2250](https://www.legislation.gov.uk/uksi/1986/2250), [regs. 2](https://www.legislation.gov.uk/uksi/1986/2250/regulation/2), [3](https://www.legislation.gov.uk/uksi/1986/2250/regulation/3), [5](https://www.legislation.gov.uk/uksi/1986/2250/regulation/5), [Sch. 1 Pt. II](https://www.legislation.gov.uk/uksi/1986/2250/schedule/1/part/II)
 
@@ -244,4 +244,4 @@ Any increase attributable to this Act in the sums to be paid out of, or charged 
 
 [^c765868]: Modification: Power of appointment conferred by s. 7(2) fully exercised: 6.8.1985 appointed by [S.I. 1985/1221](https://www.legislation.gov.uk/uksi/1985/1221)
 
-[^key-c4fe3852c453bd2bad770259f702726a]: Textual amendment: [S. 7(5)](https://www.legislation.gov.uk/ukpga/1985/2/section/7/5) inserted (16.1.2023) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 1 para. 35](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/35); [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(xv)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/xv) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/1))
+[^c-c4fe3852c453bd2bad770259f702726a]: Textual amendment: [S. 7(5)](https://www.legislation.gov.uk/ukpga/1985/2/section/7/5) inserted (16.1.2023) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 1 para. 35](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/35); [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(xv)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/xv) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/1))

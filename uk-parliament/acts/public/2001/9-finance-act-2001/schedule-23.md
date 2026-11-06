@@ -22,11 +22,11 @@ summary: ''
 
 Section 70.
 
-### 1. Computation under Schedule A[^key-e83bebdf839b8121bf443c5e7c6e80cb]
+### 1. Computation under Schedule A[^c-e83bebdf839b8121bf443c5e7c6e80cb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Computation of profits of insurance companies[^key-dfc4cb38d67be5d0f6ca737c2f8b47ad]
+### 2. Computation of profits of insurance companies[^c-dfc4cb38d67be5d0f6ca737c2f8b47ad]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -139,6 +139,6 @@ After Part 9A of that Schedule (claims for R&D tax credits) insert—
 
 ## Annotations
 
-[^key-e83bebdf839b8121bf443c5e7c6e80cb]: Textual amendment: [Sch. 23 para. 1](https://www.legislation.gov.uk/ukpga/2001/9/schedule/23/paragraph/1) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-e83bebdf839b8121bf443c5e7c6e80cb]: Textual amendment: [Sch. 23 para. 1](https://www.legislation.gov.uk/ukpga/2001/9/schedule/23/paragraph/1) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-dfc4cb38d67be5d0f6ca737c2f8b47ad]: Textual amendment: [Sch. 23 para. 2](https://www.legislation.gov.uk/ukpga/2001/9/schedule/23/paragraph/2) repealed (with effect in accordance with s. 42 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 2(3)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/3)
+[^c-dfc4cb38d67be5d0f6ca737c2f8b47ad]: Textual amendment: [Sch. 23 para. 2](https://www.legislation.gov.uk/ukpga/2001/9/schedule/23/paragraph/2) repealed (with effect in accordance with s. 42 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 2(3)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/3)

@@ -23,7 +23,7 @@ summary: ''
 (1) Subject to paragraph (2), there is prescribed for the purposes of section 99(2) of the Traffic Act—
 
 - (a) a motor bicycle of any class, and
-- (b)[^key-88fdb2cd6c3c0dd0edb502ee1df9276c] the same period as is provided by section 99(1) of the Traffic Act in relation to a licence to which section 99(1) applies.
+- (b)[^c-88fdb2cd6c3c0dd0edb502ee1df9276c] the same period as is provided by section 99(1) of the Traffic Act in relation to a licence to which section 99(1) applies.
 
 (2) There are prescribed for the purposes of section 99(2)(b)(ii) of that Act the circumstances that—
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-88fdb2cd6c3c0dd0edb502ee1df9276c]: Textual amendment: Reg. 15(1)(b) substituted (1.2.2001) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2001 (S.I. 2001/53)](https://www.legislation.gov.uk/uksi/2001/53), [regs. 1](https://www.legislation.gov.uk/uksi/2001/53/regulation/1), [5](https://www.legislation.gov.uk/uksi/2001/53/regulation/5)
+[^c-88fdb2cd6c3c0dd0edb502ee1df9276c]: Textual amendment: Reg. 15(1)(b) substituted (1.2.2001) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2001 (S.I. 2001/53)](https://www.legislation.gov.uk/uksi/2001/53), [regs. 1](https://www.legislation.gov.uk/uksi/2001/53/regulation/1), [5](https://www.legislation.gov.uk/uksi/2001/53/regulation/5)

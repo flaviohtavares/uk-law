@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53.[^key-9c0349d1b305305cc08b5fc81df24480]
+## 53.[^c-9c0349d1b305305cc08b5fc81df24480]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ In Part 13 (removal, resignation, etc of auditors), in regulation 46 (auditor st
 
 ## Annotations
 
-[^key-9c0349d1b305305cc08b5fc81df24480]: Commencement: Reg. 53 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+[^c-9c0349d1b305305cc08b5fc81df24480]: Commencement: Reg. 53 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
 
 [^c23586991]: Marginal citation: Section 519A of the Companies Act 2006, as set out in regulation 46, was inserted by paragraph 19(b) of Schedule 3 to the [Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164).

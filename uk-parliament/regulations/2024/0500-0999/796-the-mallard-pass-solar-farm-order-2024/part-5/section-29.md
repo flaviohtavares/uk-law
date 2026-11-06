@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Temporary use of land for constructing the authorised development[^key-fd439597153403baa0d9653e47fba09e]
+## 29. Temporary use of land for constructing the authorised development[^c-fd439597153403baa0d9653e47fba09e]
 
 *Extent: E+W*
 
@@ -40,8 +40,8 @@ summary: ''
 
 (4) The undertaker must not, without the agreement of the owners of the land, remain in possession of any land under this article—
 
-- (a) in the case of the land referred to in paragraph (1)(a)(i) after the end of the period of one year beginning with the date of final commissioning of the phase[^key-b0981e87087a1532fd4bcca5ee16f46b] of the authorised development for which temporary possession of the land was taken; or
-- (b) in the case of land referred to in paragraph (1)(a)(ii) after the end of the period of one year beginning with the date of final commissioning of the phase[^key-5bab43387f8bf9d32cd01a7600b28c5f] of the authorised development for which temporary possession of the land was taken unless the undertaker has, before the end of that period, served a notice of entry under section 11 of the 1965 Act or made a declaration under section 4 of the 1981 Act in relation to that land.
+- (a) in the case of the land referred to in paragraph (1)(a)(i) after the end of the period of one year beginning with the date of final commissioning of the phase[^c-b0981e87087a1532fd4bcca5ee16f46b] of the authorised development for which temporary possession of the land was taken; or
+- (b) in the case of land referred to in paragraph (1)(a)(ii) after the end of the period of one year beginning with the date of final commissioning of the phase[^c-5bab43387f8bf9d32cd01a7600b28c5f] of the authorised development for which temporary possession of the land was taken unless the undertaker has, before the end of that period, served a notice of entry under section 11 of the 1965 Act or made a declaration under section 4 of the 1981 Act in relation to that land.
 
 (5) Unless the undertaker has served notice of entry under section 11 of the 1965 Act or made a declaration under section 4 of the 1981 Act or otherwise acquired the land or rights over land subject to temporary possession, the undertaker must before giving up possession of land of which temporary possession has been taken under this article, remove all works and restore the land to the reasonable satisfaction of the owners of the land; but the undertaker is not required to—
 
@@ -71,8 +71,8 @@ summary: ''
 
 ## Annotations
 
-[^key-fd439597153403baa0d9653e47fba09e]: Commencement: Art. 29 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
+[^c-fd439597153403baa0d9653e47fba09e]: Commencement: Art. 29 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
 
-[^key-b0981e87087a1532fd4bcca5ee16f46b]: Textual amendment: Word in [art. 29(4)(a)](https://www.legislation.gov.uk/uksi/2024/796/article/29/4/a) substituted (1.11.2024) by [The Mallard Pass Solar Farm (Correction) Order 2024 (S.I. 2024/1088)](https://www.legislation.gov.uk/uksi/2024/1088), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1088/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/1088/schedule)
+[^c-b0981e87087a1532fd4bcca5ee16f46b]: Textual amendment: Word in [art. 29(4)(a)](https://www.legislation.gov.uk/uksi/2024/796/article/29/4/a) substituted (1.11.2024) by [The Mallard Pass Solar Farm (Correction) Order 2024 (S.I. 2024/1088)](https://www.legislation.gov.uk/uksi/2024/1088), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1088/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/1088/schedule)
 
-[^key-5bab43387f8bf9d32cd01a7600b28c5f]: Textual amendment: Word in [art. 29(4)(b)](https://www.legislation.gov.uk/uksi/2024/796/article/29/4/b) substituted (1.11.2024) by [The Mallard Pass Solar Farm (Correction) Order 2024 (S.I. 2024/1088)](https://www.legislation.gov.uk/uksi/2024/1088), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1088/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/1088/schedule)
+[^c-5bab43387f8bf9d32cd01a7600b28c5f]: Textual amendment: Word in [art. 29(4)(b)](https://www.legislation.gov.uk/uksi/2024/796/article/29/4/b) substituted (1.11.2024) by [The Mallard Pass Solar Farm (Correction) Order 2024 (S.I. 2024/1088)](https://www.legislation.gov.uk/uksi/2024/1088), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1088/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/1088/schedule)

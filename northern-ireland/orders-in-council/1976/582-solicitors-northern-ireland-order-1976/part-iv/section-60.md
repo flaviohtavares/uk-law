@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 60. Provisions as to subvention grants[^key-7e0056737edd239cc95aedf1f2d8d205]
+## 60. Provisions as to subvention grants[^c-7e0056737edd239cc95aedf1f2d8d205]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ The following provisions shall have effect in relation to subvention grants—
 
 ## Annotations
 
-[^key-7e0056737edd239cc95aedf1f2d8d205]: Modification: [Art. 60](https://www.legislation.gov.uk/nisi/1976/582/article/60) applied (1.4.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations (Northern Ireland) 2025 (S.R. 2025/70)](https://www.legislation.gov.uk/nisr/2025/70), [regs. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1), [5(2)(nn)](https://www.legislation.gov.uk/nisr/2025/70/regulation/5/2/nn)
+[^c-7e0056737edd239cc95aedf1f2d8d205]: Modification: [Art. 60](https://www.legislation.gov.uk/nisi/1976/582/article/60) applied (1.4.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations (Northern Ireland) 2025 (S.R. 2025/70)](https://www.legislation.gov.uk/nisr/2025/70), [regs. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1), [5(2)(nn)](https://www.legislation.gov.uk/nisr/2025/70/regulation/5/2/nn)

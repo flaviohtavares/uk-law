@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Competitive tendering procedures[^key-d81e254d12c31a0b0c498118f0c577be][^key-4bca7decb866d0d64f4c1e4cbc859fbe][^key-91a7d9122c64074fb571df32885a9aa3]
+## 20. Competitive tendering procedures[^c-d81e254d12c31a0b0c498118f0c577be][^c-4bca7decb866d0d64f4c1e4cbc859fbe][^c-91a7d9122c64074fb571df32885a9aa3]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,8 +61,8 @@ in each case, at the point of assessment.
 
 ## Annotations
 
-[^key-d81e254d12c31a0b0c498118f0c577be]: Commencement: S. 20 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
+[^c-d81e254d12c31a0b0c498118f0c577be]: Commencement: S. 20 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
 
-[^key-4bca7decb866d0d64f4c1e4cbc859fbe]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2023/54/section/20) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
+[^c-4bca7decb866d0d64f4c1e4cbc859fbe]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2023/54/section/20) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
 
-[^key-91a7d9122c64074fb571df32885a9aa3]: Modification: [S. 20](https://www.legislation.gov.uk/ukpga/2023/54/section/20) applied in part (24.2.2025) by [S.I. 2013/1582](https://www.legislation.gov.uk/uksi/2013/1582), [reg. 6(2)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/6/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2013/1582/schedule/2/part/1) (as amended by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2025/163/regulation/17) (with [reg. 33](https://www.legislation.gov.uk/uksi/2025/163/regulation/33)))
+[^c-91a7d9122c64074fb571df32885a9aa3]: Modification: [S. 20](https://www.legislation.gov.uk/ukpga/2023/54/section/20) applied in part (24.2.2025) by [S.I. 2013/1582](https://www.legislation.gov.uk/uksi/2013/1582), [reg. 6(2)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/6/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2013/1582/schedule/2/part/1) (as amended by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2025/163/regulation/17) (with [reg. 33](https://www.legislation.gov.uk/uksi/2025/163/regulation/33)))

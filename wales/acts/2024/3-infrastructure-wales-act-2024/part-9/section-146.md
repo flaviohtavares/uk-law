@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 146. Transitional and saving provision[^key-0d925a8caa1417954f49ffe1ba26426d]
+## 146. Transitional and saving provision[^c-0d925a8caa1417954f49ffe1ba26426d]
 
 *Extent: E+W*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0d925a8caa1417954f49ffe1ba26426d]: Commencement: S. 146 in force at 4.6.2024, see [s. 147(1)(c)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/c)
+[^c-0d925a8caa1417954f49ffe1ba26426d]: Commencement: S. 146 in force at 4.6.2024, see [s. 147(1)(c)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 290. Notice etc to solicitors[^key-f2e11b014f8fc5b60557dcef6023809d]
+## 290. Notice etc to solicitors[^c-f2e11b014f8fc5b60557dcef6023809d]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where under the Regulations or the Rules a notice or other document is required 
 
 ## Annotations
 
-[^key-f2e11b014f8fc5b60557dcef6023809d]: Commencement: [Rule 290](https://www.legislation.gov.uk/uksi/2011/1301/rule/290) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-f2e11b014f8fc5b60557dcef6023809d]: Commencement: [Rule 290](https://www.legislation.gov.uk/uksi/2011/1301/rule/290) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

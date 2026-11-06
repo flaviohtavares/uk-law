@@ -22,7 +22,7 @@ summary: ''
 
 (1) The statement of the needs for pharmaceutical services which each HWB is required to publish by virtue of section 128A of the 2006 Act [^c21646641] (pharmaceutical needs assessments), whether it is the statement of its first assessment or of any revised assessment, is referred to in these Regulations as a “**pharmaceutical needs assessment**”.
 
-(2) The pharmaceutical services to which each pharmaceutical needs assessment must relate are all the pharmaceutical services that may be provided under arrangements made by NHS England[^key-fedf3951d93bcf656ad03378f887d7d5] for—
+(2) The pharmaceutical services to which each pharmaceutical needs assessment must relate are all the pharmaceutical services that may be provided under arrangements made by NHS England[^c-fedf3951d93bcf656ad03378f887d7d5] for—
 
 - (a) the provision of pharmaceutical services (including directed services) by a person on a pharmaceutical list;
 - (b) the provision of local pharmaceutical services under an LPS scheme (but not LP services which are not local pharmaceutical services); or
@@ -32,4 +32,4 @@ summary: ''
 
 [^c21646641]: Marginal citation: Inserted by the [Health Act 2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), [section 25](https://www.legislation.gov.uk/ukpga/2009/21/section/25).
 
-[^key-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)

@@ -56,22 +56,22 @@ The Secretary of State, in exercise of the powers conferred on him by the provis
 In these Regulations—
 
 - “the Act” means the Police Act 1997 [^c9617791];
-- “adult” means a person who has attained the age of 18;[^key-6e45791773d30232e445fc18bd69c086]
+- “adult” means a person who has attained the age of 18;[^c-6e45791773d30232e445fc18bd69c086]
 - “area committee” has the same meaning as in section 18 of the Local Government Act 2000;
 - “charity” and “charity trustee” have the same meanings as in the Charities Act 2011;
-- “childcare” has the meaning given by section 18 of the Childcare Act 2006;[^key-4efd9a1a9264b731d8be5c7c23d98605]
-- “childcare premises” means any premises on which childcare is provided;[^key-7637d5b60459708f7d6d688126975fc1]
+- “childcare” has the meaning given by section 18 of the Childcare Act 2006;[^c-4efd9a1a9264b731d8be5c7c23d98605]
+- “childcare premises” means any premises on which childcare is provided;[^c-7637d5b60459708f7d6d688126975fc1]
 - “childminder agency” has the meaning given by section 98(1) of the Childcare Act 2006;
-- “child minding” for the purposes of regulation 5A(g) has the meaning given by section 19(2) of the Children and Families (Wales) Measure 2010[^key-5a9910e61200e6b829f9f62d9586a5f3];
-- “day care” for the purposes of regulation 5A(g) has the meaning given by section 19(3) of the Children and Families (Wales) Measure 2010[^key-bd4b4354d088e507e7135ef57d892bac];
+- “child minding” for the purposes of regulation 5A(g) has the meaning given by section 19(2) of the Children and Families (Wales) Measure 2010[^c-5a9910e61200e6b829f9f62d9586a5f3];
+- “day care” for the purposes of regulation 5A(g) has the meaning given by section 19(3) of the Children and Families (Wales) Measure 2010[^c-bd4b4354d088e507e7135ef57d892bac];
 - “executive”, in relation to a local authority, has the same meaning as in Part 2 of the Local Government Act 2000;
 - “local authority” has the same meaning as in the Education Act 1996;
-- “[^key-847f43749bef6297fef42c5e80fb3bf4]**registered health care professional**” has the same meaning as “health care professional” in section 39(1) of the Social Security Act 1998;
+- “[^c-847f43749bef6297fef42c5e80fb3bf4]**registered health care professional**” has the same meaning as “health care professional” in section 39(1) of the Social Security Act 1998;
 - “reprimand” means a reprimand given to a child or young person in accordance with section 65 of the Crime and Disorder Act 1998 [^c9617801];
-- “social services functions”—[^key-d28af05ff426698ab8e60aba3832e467]
+- “social services functions”—[^c-d28af05ff426698ab8e60aba3832e467]
   - (a) in relation to a local authority in England, has the same meaning as in the Local Authority Social Services Act 1970, and
   - (b) in relation to a local authority in Wales, has the same meaning as in the Social Services and Well-being (Wales) Act 2014;
-- “taxi driver licence” means a licence granted under—[^key-0ac8c59aa1386bf3c0b3a514cfd04c05]
+- “taxi driver licence” means a licence granted under—[^c-0ac8c59aa1386bf3c0b3a514cfd04c05]
   - (i) section 46 of the Town Police Clauses Act 1847;
   - (ii) section 8 of the Metropolitan Public Carriage Act 1869;
   - (iii) section 9 of the Plymouth City Council Act 1975;
@@ -84,27 +84,27 @@ In these Regulations—
 
 The form set out in Schedule 2 to these Regulations, or a form to the like effect, is hereby prescribed for the purposes of sections 113(1)(a) (criminal record certificate), 114(1)(a) (criminal record certificate: Crown employment), 115(1)(a) (enhanced criminal record certificate) and 116(1)(a) (enhanced criminal record certificate: judicial appointment and Crown employment) of the Act.
 
-## 3A. Fee for criminal conviction certificates[^key-db7a62c0142408dfb83008f282bb3f20]
+## 3A. Fee for criminal conviction certificates[^c-db7a62c0142408dfb83008f282bb3f20]
 
-The fee payable in relation to an application for a criminal conviction certificate is prescribed as £21.50[^key-99b294e390fda1f41302c36b53f72d11].
+The fee payable in relation to an application for a criminal conviction certificate is prescribed as £21.50[^c-99b294e390fda1f41302c36b53f72d11].
 
-## 4. Fees for criminal record certificates and enhanced criminal record certificates[^key-3e40bdec3185bf0ba49862fbcb9414d2]
+## 4. Fees for criminal record certificates and enhanced criminal record certificates[^c-3e40bdec3185bf0ba49862fbcb9414d2]
 
 (1) Subject to paragraph (2), the fee payable in relation to an application for the issue of a criminal record certificate or an enhanced criminal record certificate is prescribed as—
 
-- (a) £21.50[^key-f8b52609d75e09923d2a4f8a4ffdfb6f] in the case of a criminal record certificate;
-- (b) £49.50[^key-397ad580ed113887fa27f6b65619e342] in the case of an enhanced criminal record certificate, and
+- (a) £21.50[^c-f8b52609d75e09923d2a4f8a4ffdfb6f] in the case of a criminal record certificate;
+- (b) £49.50[^c-397ad580ed113887fa27f6b65619e342] in the case of an enhanced criminal record certificate, and
 - (c) where an urgent preliminary response is sought under section 113E(3)(b) of the Act, an additional £6 in each case.
 
-(2)[^key-30cdf31f9c371f0a10d691679f84f4ee] No fee is payable in relation to an application made by a volunteer.
+(2)[^c-30cdf31f9c371f0a10d691679f84f4ee] No fee is payable in relation to an application made by a volunteer.
 
-(3)[^key-342418fa69db1b4affcbce209df79ca6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-342418fa69db1b4affcbce209df79ca6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 4A. Fees for enhanced criminal record certificates[^M_F_8964e425-08f7-4231-a69d-f41bd9d432d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4B. Criminal conviction certificates: prescribed details[^key-1aff588f174d3be9f82ccfd5431bf765]
+## 4B. Criminal conviction certificates: prescribed details[^c-1aff588f174d3be9f82ccfd5431bf765]
 
 (1) The following details of a conviction are prescribed for the purposes of section 112(2)(a) of the Act—
 
@@ -133,58 +133,58 @@ The following details of a relevant matter for the purposes of sections 113(3)(a
   - (ii) the place where the caution, reprimand or warning was issued; and
   - (iii) the offence which the person issued with a caution, reprimand or warning had admitted.
 
-## 5A. Enhanced criminal record certificates: prescribed purposes[^key-23cc5ddccc50a1140adfb099662809d3]
+## 5A. Enhanced criminal record certificates: prescribed purposes[^c-23cc5ddccc50a1140adfb099662809d3]
 
 The purposes for which an enhanced criminal record certificate may be required in accordance with a statement made by a registered person under section 113B (2)(b) of the Act are prescribed as follows, namely the purposes of—
 
-- (a)[^key-94cd25e9dd8b63d3fad5003410082524] considering the applicant’s suitability in the circumstances set out in regulation 5C;
-- (aa)[^key-93c972ba49b32726bffe8fd22e3f4e01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-b6e4fc16d94bace92ebb5a262d98165c] considering the applicant’s suitability in the circumstances set out in regulation 5B;
-- (ba)[^key-6acbe0c6b6eb89a2e77a958f2ffb14d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (bb)[^key-2db241d6d77778d7ce64b9bfdee0aa3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-4f792f1676d1b306a1701123b70cfaa5] obtaining or holding an operating licence under Part 5 of the Gambling Act 2005 for the purposes of that Act;
+- (a)[^c-94cd25e9dd8b63d3fad5003410082524] considering the applicant’s suitability in the circumstances set out in regulation 5C;
+- (aa)[^c-93c972ba49b32726bffe8fd22e3f4e01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-b6e4fc16d94bace92ebb5a262d98165c] considering the applicant’s suitability in the circumstances set out in regulation 5B;
+- (ba)[^c-6acbe0c6b6eb89a2e77a958f2ffb14d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (bb)[^c-2db241d6d77778d7ce64b9bfdee0aa3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-4f792f1676d1b306a1701123b70cfaa5] obtaining or holding an operating licence under Part 5 of the Gambling Act 2005 for the purposes of that Act;
 - (d) obtaining or holding a personal licence under Part 6 of the Gambling Act 2005 for the purposes of that Act;
 - (e) considering an individual’s suitability for a position as Commissioner for the Gambling Commission and for any office or employment in the Commissioners’ service;
 - (f) obtaining or holding a licence under section 5 or 6 of the National Lottery etcAct 1993 (running or promoting lotteries);
-- (g)[^key-762af9a9e45ea30fc611c8b836966be8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (ga)[^key-cbfc6d9c236031b119ca613f7b09d2c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (h)[^key-653bb85149ccb1a064438e05459e65f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (i)[^key-33087734972bce0f65b3abfed50312ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (j)[^key-2ee29b83a75bcbbe251c8cccfbf1d14c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (k)[^key-21953321e112d8be309b5bafae37430e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (l)[^key-08df21b728d0d046df7def0634c428cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (m)[^key-9740737c1cdc154ab71e741e4441ef90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (n)[^key-66bcc8187016381f396150fd7af52442] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (o)[^key-c6a990675c15459a18ec8da1013ca2b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (p)[^key-ec993b7566a2583cf7b166b2764eb725] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (q)[^key-42a31f19e9a1d956b4370ef63e2a37b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (r)[^key-fa04c021cc5db8bdbe0c9f991d35d1d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (s)[^key-5dc002ede4d7037f119dd9ef8d7ab31d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (t)[^key-50f57e1d131b22e69b77122546c379d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (u)[^key-d2f806cf81bbb58bd94850e560ce88b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (v) [^key-7f536745ea8112c65bc1dfb52689dc6c]... considering the suitability of any person appointed by the Commissioner for Older People in Wales[^M_F_cc1fdece-af33-4d32-cc6d-50686ed37c7f] to assist him in the discharge of his functions or authorised to discharge his functions on his behalf;
-- (w)[^key-bc4f846743cea836e4897e3961f1a7cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (x)[^key-11ba6c5da3b461fcf5775f700c871360] considering the applicant’s suitability for work as a person who provides immigration advice or services as defined in section 82(1) of the Immigration and Asylum Act 1999 and is—
+- (g)[^c-762af9a9e45ea30fc611c8b836966be8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (ga)[^c-cbfc6d9c236031b119ca613f7b09d2c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (h)[^c-653bb85149ccb1a064438e05459e65f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (i)[^c-33087734972bce0f65b3abfed50312ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (j)[^c-2ee29b83a75bcbbe251c8cccfbf1d14c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (k)[^c-21953321e112d8be309b5bafae37430e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (l)[^c-08df21b728d0d046df7def0634c428cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (m)[^c-9740737c1cdc154ab71e741e4441ef90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (n)[^c-66bcc8187016381f396150fd7af52442] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (o)[^c-c6a990675c15459a18ec8da1013ca2b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (p)[^c-ec993b7566a2583cf7b166b2764eb725] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (q)[^c-42a31f19e9a1d956b4370ef63e2a37b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (r)[^c-fa04c021cc5db8bdbe0c9f991d35d1d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (s)[^c-5dc002ede4d7037f119dd9ef8d7ab31d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (t)[^c-50f57e1d131b22e69b77122546c379d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (u)[^c-d2f806cf81bbb58bd94850e560ce88b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (v) [^c-7f536745ea8112c65bc1dfb52689dc6c]... considering the suitability of any person appointed by the Commissioner for Older People in Wales[^M_F_cc1fdece-af33-4d32-cc6d-50686ed37c7f] to assist him in the discharge of his functions or authorised to discharge his functions on his behalf;
+- (w)[^c-bc4f846743cea836e4897e3961f1a7cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (x)[^c-11ba6c5da3b461fcf5775f700c871360] considering the applicant’s suitability for work as a person who provides immigration advice or services as defined in section 82(1) of the Immigration and Asylum Act 1999 and is—
   - (i) a registered person under Part 5 of that Act, or
   - (ii) a person who acts on behalf of and under the supervision of such a registered person, or
   - (iii) a person who is exempt by section 84(4)(a) to (c) of that Act;
-- (y) considering the applicant’s suitability to obtain or retain a licence under regulation 5 of the Misuse of Drugs Regulations 2001 or under Article 3(2) of Regulation 2004/273/EC or under Article 6(1) of Regulation 2005/111/EC where the question relates to any person who as a result of his role in the body concerned is required to be named in the application for such a licence (or would have been so required if that person had had that role at the time the application was made); [^key-31690fa632eff2f0eadf14dc0e750620]...
-- (z)[^key-f1cb007a26700ef86e8090eeaf4069d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (za)[^key-6c479c35b89cb044e4e5457b2379c076] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (zb)[^key-7456bd2ce5aa86d3f6e1eb5935b91571] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (zc)[^key-8ade73fc09f1792a847a220f85c038eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (zd)[^key-f905be98ace980f6422191af69795c80] considering an individual’s suitability to have in their possession, to acquire or to transfer, prohibited weapons or ammunition to which section 5 of the Firearms Act 1968 applies.
-- (ze)[^key-22a542884ef8b180b95b6fb34d11e833] assessing the suitability of a person for any office or employment which relates to national security.
-- (zf)[^key-1be9c2b0a504b7deab59d051b61baa86] considering the applicant’s suitability to obtain or hold a taxi driver licence.
-- (zg)[^key-e39a66648951e157a8d358e55da1b499] considering whether a person, “the current or potential sponsor”, meets or continues to meet the requirements for approval to provide accommodation to a person who has applied for or has been granted permission to enter into or stay in the United Kingdom in accordance with Appendix Ukraine Scheme of the Immigration Rules, including assessing the suitability of any person aged 16 or over, who lives in the same household as the current or potential sponsor, to have regular contact with a person who may be or has been provided with accommodation under that Scheme.
-- (zh)[^key-5a83b4f387c41efa2d4da4cf824a6ecf] considering the applicant’s suitability to obtain or hold a licence granted under regulations made under section 2 of the Pedicabs (London) Act 2024;
+- (y) considering the applicant’s suitability to obtain or retain a licence under regulation 5 of the Misuse of Drugs Regulations 2001 or under Article 3(2) of Regulation 2004/273/EC or under Article 6(1) of Regulation 2005/111/EC where the question relates to any person who as a result of his role in the body concerned is required to be named in the application for such a licence (or would have been so required if that person had had that role at the time the application was made); [^c-31690fa632eff2f0eadf14dc0e750620]...
+- (z)[^c-f1cb007a26700ef86e8090eeaf4069d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (za)[^c-6c479c35b89cb044e4e5457b2379c076] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (zb)[^c-7456bd2ce5aa86d3f6e1eb5935b91571] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (zc)[^c-8ade73fc09f1792a847a220f85c038eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (zd)[^c-f905be98ace980f6422191af69795c80] considering an individual’s suitability to have in their possession, to acquire or to transfer, prohibited weapons or ammunition to which section 5 of the Firearms Act 1968 applies.
+- (ze)[^c-22a542884ef8b180b95b6fb34d11e833] assessing the suitability of a person for any office or employment which relates to national security.
+- (zf)[^c-1be9c2b0a504b7deab59d051b61baa86] considering the applicant’s suitability to obtain or hold a taxi driver licence.
+- (zg)[^c-e39a66648951e157a8d358e55da1b499] considering whether a person, “the current or potential sponsor”, meets or continues to meet the requirements for approval to provide accommodation to a person who has applied for or has been granted permission to enter into or stay in the United Kingdom in accordance with Appendix Ukraine Scheme of the Immigration Rules, including assessing the suitability of any person aged 16 or over, who lives in the same household as the current or potential sponsor, to have regular contact with a person who may be or has been provided with accommodation under that Scheme.
+- (zh)[^c-5a83b4f387c41efa2d4da4cf824a6ecf] considering the applicant’s suitability to obtain or hold a licence granted under regulations made under section 2 of the Pedicabs (London) Act 2024;
 - (zi) considering the applicant’s suitability to work as a registered health care professional, employed or engaged by—
   - (i) the Secretary of State for Work and Pensions; or
   - (ii) contractors or sub-contractors, who are carrying out activities for the Secretary of State for Work and Pensions.
 
-## 5B. Work with adults[^key-a687618445c6446521278270434519b7][^key-ac4c6097a602797624e375cc7797d82b]
+## 5B. Work with adults[^c-a687618445c6446521278270434519b7][^c-ac4c6097a602797624e375cc7797d82b]
 
-(1) The circumstances referred to in regulation 5A(b) are[^key-e329b8dac6b44f54653a6b1218252f70]—
+(1) The circumstances referred to in regulation 5A(b) are[^c-e329b8dac6b44f54653a6b1218252f70]—
 
 - (a) any employment or other work which is normally carried out in a hospital used only for the provision of high security psychiatric services within the meaning of section 4(2) of the National Health Service Act 2006;
 - (b) the provision to an adult of regulated activity relating to vulnerable adults within the meaning of Part 2 of Schedule 4 to the Safeguarding Vulnerable Groups Act 2006 ;
@@ -194,11 +194,11 @@ The purposes for which an enhanced criminal record certificate may be required i
   - (iii) at least once a week on an ongoing basis;
 - (d) the regular day to day management or supervision of a person mentioned in paragraph (c) above;
 - (e) the exercise of any of the functions of the Welsh Ministers relating to the inspection of the following so far as the function gives the person exercising the function the opportunity, in consequence of anything the person is permitted or required to do in exercise of that function, to have contact with an adult who receives a health or social care service within the meaning of paragraph (9) or a specified activity within the meaning of paragraph (10)—
-  - (i)[^key-d1926da05a080ad40a8919663c362a70] a local authority (within the meaning of section 197 of the Social Services and Well-being (Wales) Act 2014) in the exercise of its social services functions (within the meaning of that Act);
+  - (i)[^c-d1926da05a080ad40a8919663c362a70] a local authority (within the meaning of section 197 of the Social Services and Well-being (Wales) Act 2014) in the exercise of its social services functions (within the meaning of that Act);
   - (ii) an establishment in relation to which a requirement to register arises under section 11 of the Care Standards Act 2000;
   - (iii) an agency in relation to which such a requirement arises;
   - (iv) a person to whom Part 2 of that Act applies in pursuance of regulations under section 42 of that Act;
-  - (iva)[^key-20a9aa9d10e2faf968b88bc93d91cf34] a regulated service, within the meaning of Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016, in relation to which a requirement to register arises under section 5 of that Act;
+  - (iva)[^c-20a9aa9d10e2faf968b88bc93d91cf34] a regulated service, within the meaning of Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016, in relation to which a requirement to register arises under section 5 of that Act;
   - (v) an NHS body within the meaning of section 148 of the Health and Social Care (Community Health and Standards) Act 2003; or
   - (vi) any person, other than a local authority, providing Welsh local authority social services within the meaning of that section,
 
@@ -233,7 +233,7 @@ The purposes for which an enhanced criminal record certificate may be required i
 - (c) any form of training, teaching, instruction, assistance, advice or guidance provided wholly or mainly for adults who receive a health or social care service within the meaning of paragraph (9) or a specified activity within the meaning of paragraph (10);
 - (d) moderating a public electronic interactive communication service which is likely to be used wholly or mainly by adults who receive a health or social care service within the meaning of paragraph (9) or a specified activity within the meaning of paragraph (10);
 - (e) any form of work carried out in a care home (for the purposes of the Care Standards Act 2000) which is exclusively or mainly for adults, whether or not for gain, that gives the person carrying out the work the opportunity to have contact with the adults resident at that care home;
-- (ea)[^key-1a0962fc2e65fa45aa53466f6c4a4564] any form of work carried out, whether or not for gain, at a place which provides a care home service (within the meaning of Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016) which is provided wholly or mainly to adults that gives the person carrying out the work the opportunity to have contact with the adults who are resident at that place;
+- (ea)[^c-1a0962fc2e65fa45aa53466f6c4a4564] any form of work carried out, whether or not for gain, at a place which provides a care home service (within the meaning of Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016) which is provided wholly or mainly to adults that gives the person carrying out the work the opportunity to have contact with the adults who are resident at that place;
 - (f) representation of, or advocacy services for, adults who receive a health or social care service within the meaning of paragraph (9) or a specified activity within the meaning of paragraph (10), by a service which has been approved by the Secretary of State or created by any enactment, and which is of such a kind as to enable the person to have access to such adults in the course of his normal duties in providing such services;
 - (g) the conveying of an adult who receives a health or social care service within the meaning of paragraph (9) or a specified activity within the meaning of paragraph (10) (whether or not the adult is accompanied by a person caring for them).
 
@@ -258,8 +258,8 @@ The purposes for which an enhanced criminal record certificate may be required i
 - (a) residential accommodation provided for an adult in connection with any care or nursing he requires;
 - (b) accommodation provided for an adult who is or has been a pupil attending a residential special school, where that school is—
   - (i) a special school within the meaning of section 337 of the Education Act 1996 ;
-  - (ii) an independent school within the meaning of section 463 of that Act which is in England and is specially organised to make special educational provision for pupils with special educational needs (within the meaning of section 579[^key-3356b82c4d8335171caacef01d1533a7] of that Act) or is in Wales and is specially organised to make additional learning provision for pupils with additional learning needs (within the meaning of section 579 of that Act)[^key-1314eb3c2d2825e34f690a4255524fa8];
-  - (iii) an independent school within the meaning of section 463 of that Act not falling within sub-paragraph (b)(ii) which, during any period before 1 September 2021 when the adult was attending it, either was approved by the Welsh Ministers under section 347 of that Act or, with the consent of the Welsh Ministers under section 347(5)(b) of that Act, provided places for children with special educational needs (within the meaning of section 579 of that Act as it applied immediately before that date)[^key-d2e82707589f1ab608fda5f2ebbc4a0a];
+  - (ii) an independent school within the meaning of section 463 of that Act which is in England and is specially organised to make special educational provision for pupils with special educational needs (within the meaning of section 579[^c-3356b82c4d8335171caacef01d1533a7] of that Act) or is in Wales and is specially organised to make additional learning provision for pupils with additional learning needs (within the meaning of section 579 of that Act)[^c-1314eb3c2d2825e34f690a4255524fa8];
+  - (iii) an independent school within the meaning of section 463 of that Act not falling within sub-paragraph (b)(ii) which, during any period before 1 September 2021 when the adult was attending it, either was approved by the Welsh Ministers under section 347 of that Act or, with the consent of the Welsh Ministers under section 347(5)(b) of that Act, provided places for children with special educational needs (within the meaning of section 579 of that Act as it applied immediately before that date)[^c-d2e82707589f1ab608fda5f2ebbc4a0a];
   - (iv) an institution within the further education section (within the meaning of section 91 of the Further and Higher Education Act 1992) which provides accommodation for children; or
   - (v) a 16 to 19 Academy, within the meaning of section 1B of the Academies Act 2010, which provides accommodation for children;
 - (c) sheltered housing;
@@ -274,7 +274,7 @@ The purposes for which an enhanced criminal record certificate may be required i
   - (v) alexia;
   - (vi) auditory processing disorder;
   - (vii) dysgraphia;
-- (h) any service provided specifically to an expectant or nursing mother in receipt of residential accommodation pursuant to arrangements made under section 21(1)(aa) of the National Assistance Act 1948 or care pursuant to paragraph 1 of Schedule 20 to the National Health Service Act 2006 or accommodation under Part 1 of the Care Act 2014 (care and support).[^key-d2c8de20d7e15a0032b227064caf4f96]
+- (h) any service provided specifically to an expectant or nursing mother in receipt of residential accommodation pursuant to arrangements made under section 21(1)(aa) of the National Assistance Act 1948 or care pursuant to paragraph 1 of Schedule 20 to the National Health Service Act 2006 or accommodation under Part 1 of the Care Act 2014 (care and support).[^c-d2c8de20d7e15a0032b227064caf4f96]
 
 (10) For the purposes of this regulation “specified activity” means—
 
@@ -292,9 +292,9 @@ The purposes for which an enhanced criminal record certificate may be required i
 - (f) payments are made to the adult or to another person on the adult’s behalf under arrangements made under section 57 of the Health and Social Care Act 2001;
 - (g) payments are made to the adult or to another person on the adult’s behalf under section 12A(1) or under regulations made under section 12A(a) of the National Health Service Act 2006 or under regulations made under section 12A(4) of that Act.
 
-## 5C. Work with children[^key-cadc169292a119447d149c826ba85afd][^key-d33384fbdf3f23171dde3c06d6c7cdbe]
+## 5C. Work with children[^c-cadc169292a119447d149c826ba85afd][^c-d33384fbdf3f23171dde3c06d6c7cdbe]
 
-The circumstances referred to in regulation 5A(a) are[^key-aaf68913c5aed320dde0848f4109e3a5]—
+The circumstances referred to in regulation 5A(a) are[^c-aaf68913c5aed320dde0848f4109e3a5]—
 
 - (a) considering the applicant’s suitability to engage in any activity which is a regulated activity relating to children within the meaning of Part 1 of Schedule 4 to the Safeguarding Vulnerable Groups Act 2006 as it had effect immediately before the coming into force of section 64 of the Protection of Freedoms Act 2012;
 - (b) considering the applicant’s suitability to engage in any activity which is a regulated activity relating to children within the meaning of Part 1 of Schedule 4 to the Safeguarding Vulnerable Groups Act 2006;
@@ -314,13 +314,13 @@ The circumstances referred to in regulation 5A(a) are[^key-aaf68913c5aed320dde08
   - (iii) working in a 16 to 19 Academy (within the meaning of section 1B of the Academies Act 2010) where the normal duties of that work involve regular contact with children
 
   where that individual, and the person who lives in the same household, live on the premises where that activity or work would normally take place;
-- (h)[^key-133434efd035491accbc885d02d03056] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (h)[^c-133434efd035491accbc885d02d03056] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (i) work done infrequently which, if done frequently, would be regulated activity relating to children within the meaning of Part 1 of Schedule 4 to the Safeguarding Vulnerable Groups Act 2006 or as it had effect immediately before the coming into force of section 64 of the Protection of Freedoms Act 2012;
 - (j) registration under Part II of the Care Standards Act 2000 (establishments and agencies);
-- (ja)[^key-1e3c64af58d51fc51e1ec5049032dd6c] registration under Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016 (regulated services);
-- (k) registration under Part 4 of the Regulation and Inspection of Social Care (Wales) Act 2016[^key-462554274f065df148b32c0bb79a55d9] (social care workers);
+- (ja)[^c-1e3c64af58d51fc51e1ec5049032dd6c] registration under Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016 (regulated services);
+- (k) registration under Part 4 of the Regulation and Inspection of Social Care (Wales) Act 2016[^c-462554274f065df148b32c0bb79a55d9] (social care workers);
 - (l) considering the applicant’s suitability for work in a further education institution (within the meaning of section 140 of the Education Act 2002) or a 16 to 19 Academy (within the meaning of section 1B of the Academies Act 2010) where the normal duties of that work involve regular contact with persons aged under 18.
-- (m)[^key-ced998c544c4cb7b3c9282fccf2c218e]  registration as a childminder agency under Chapter 2A or 3A of Part 3 of the Childcare Act 2006;
+- (m)[^c-ced998c544c4cb7b3c9282fccf2c218e]  registration as a childminder agency under Chapter 2A or 3A of Part 3 of the Childcare Act 2006;
 - (n) considering the applicant’s suitability to manage a childminder agency;
 - (o) considering the applicant’s suitability to work for a childminder agency in any capacity which requires the applicant to enter childcare premises and enables that person, in the normal course of duties, to have contact with children for whom childcare is provided or access to sensitive or personal information about children for whom childcare is provided.
 
@@ -328,8 +328,8 @@ The circumstances referred to in regulation 5A(a) are[^key-aaf68913c5aed320dde08
 
 (1) Subject to paragraph (2) below, the fees payable in relation to an application for a certificate to be subject to up-date arrangements under section 116A of the Act are prescribed as—
 
-- (a) £16[^key-cbb98d91753063e6b37ca67030a4fdf8] in the case of a fee as mentioned in section 116A(4)(b) of the Act;
-- (b) £16[^key-582dfb2fd5c88fe7e59f78456ee80342] in the case of a fee as mentioned in section 116A(5)(b) of the Act.
+- (a) £16[^c-cbb98d91753063e6b37ca67030a4fdf8] in the case of a fee as mentioned in section 116A(4)(b) of the Act;
+- (b) £16[^c-582dfb2fd5c88fe7e59f78456ee80342] in the case of a fee as mentioned in section 116A(5)(b) of the Act.
 
 (2) No fee is payable in relation to—
 
@@ -346,39 +346,39 @@ A person acting as a registered person in relation to an application of a type d
 - (d) the certificate is not the subject of a pending review under section 117A of the Act (other disputes about section 113B(4) information);
 - (e) any statement made by the registered person in respect of the application for the certificate described in section 120AD(1)(a) continues to apply.
 
-## 8. List kept under section 81 of the Care Standards Act 2000: prescribed details[^key-f264fd8da343de97186aefd752389b37]
+## 8. List kept under section 81 of the Care Standards Act 2000: prescribed details[^c-f264fd8da343de97186aefd752389b37]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8A. Criminal record certificates: suitability relating to adults: prescribed positions[^key-274a36cc1fcf3a1a1b24f5df75dc539c]
+## 8A. Criminal record certificates: suitability relating to adults: prescribed positions[^c-274a36cc1fcf3a1a1b24f5df75dc539c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Central records: prescribed details[^key-13028f66824efafe241d8bab34f39c5f]
+## 9. Central records: prescribed details[^c-13028f66824efafe241d8bab34f39c5f]
 
-Information in any form relating to convictions, cautions, reprimands and warnings on a names database held by the Secretary of State[^key-50804ec0275a45aab17daac6d90af3ee] for the use of constables is prescribed as “central records” for the purposes of sections 112(3) and[^key-22a67e34d24453bab17687c5856c67e2] 113A(6) of the Police Act 1997 (including section 113A(6)[^key-3ec37f256ef12cf99fcdf8b052ef29a3] as applied by sections 114(3) and 116(3)).
+Information in any form relating to convictions, cautions, reprimands and warnings on a names database held by the Secretary of State[^c-50804ec0275a45aab17daac6d90af3ee] for the use of constables is prescribed as “central records” for the purposes of sections 112(3) and[^c-22a67e34d24453bab17687c5856c67e2] 113A(6) of the Police Act 1997 (including section 113A(6)[^c-3ec37f256ef12cf99fcdf8b052ef29a3] as applied by sections 114(3) and 116(3)).
 
-## 10. Enhanced criminal record certificates: relevant police forces[^key-d12a7061a2b0b59ceea86287d5d9bca5]
+## 10. Enhanced criminal record certificates: relevant police forces[^c-d12a7061a2b0b59ceea86287d5d9bca5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 11. Evidence of identity: fingerprinting
 
-(1) Where the Disclosure and Barring Service[^key-9e512f80cc59538885c335138c0ec42b] requires an application under Part V of the Act to be supported by evidence of identity in the form of fingerprints then the place at which they are to be taken is to be determined in accordance with paragraphs (2) and (3) below and he shall notify the applicant—
+(1) Where the Disclosure and Barring Service[^c-9e512f80cc59538885c335138c0ec42b] requires an application under Part V of the Act to be supported by evidence of identity in the form of fingerprints then the place at which they are to be taken is to be determined in accordance with paragraphs (2) and (3) below and he shall notify the applicant—
 
 - (a) of his requirement; and
-- (b) of the fact that any fingerprints taken from the applicant and provided to the Disclosure and Barring Service[^key-5e764c260abf02bbf594393fceb5f498] in pursuance of the requirement may be the subject of a speculative search.
+- (b) of the fact that any fingerprints taken from the applicant and provided to the Disclosure and Barring Service[^c-5e764c260abf02bbf594393fceb5f498] in pursuance of the requirement may be the subject of a speculative search.
 
-(2) Any applicant in receipt of such notification shall notify the Disclosure and Barring Service[^key-0038a0efbcea3aff0813e2b4fe07608f] of whether he wishes to proceed with his application and, if so, notify the Disclosure and Barring Service —
+(2) Any applicant in receipt of such notification shall notify the Disclosure and Barring Service[^c-0038a0efbcea3aff0813e2b4fe07608f] of whether he wishes to proceed with his application and, if so, notify the Disclosure and Barring Service —
 
 - (a) that he consents to the taking of his fingerprints; and
-- (b)[^key-7c9fce3188a21e28452f34b574ac7920] either—
+- (b)[^c-7c9fce3188a21e28452f34b574ac7920] either—
   - (i) that he proposes to attend at a police station (“the specified police station”) for the purpose of having his fingerprints taken, or
   - (ii) that he proposes to have his fingerprints taken by the registered person countersigning or acting as the registered person in relation to his application under this Part.
 
-(2A)[^key-c3355e770843b8fa95f142bfc4a3a06f] But a person can only have his fingerprints taken under paragraph (2)(b)(ii) with the consent of the Disclosure and Barring Service.
+(2A)[^c-c3355e770843b8fa95f142bfc4a3a06f] But a person can only have his fingerprints taken under paragraph (2)(b)(ii) with the consent of the Disclosure and Barring Service.
 
-(3) The Disclosure and Barring Service[^key-168a89fc408cc00439732f76e7656b29] may require the police officer in charge of the specified police station, or any other police station he reasonably determines, to take the applicant’s fingerprints at the specified station at such reasonable time as the officer may direct and notify to the applicant.
+(3) The Disclosure and Barring Service[^c-168a89fc408cc00439732f76e7656b29] may require the police officer in charge of the specified police station, or any other police station he reasonably determines, to take the applicant’s fingerprints at the specified station at such reasonable time as the officer may direct and notify to the applicant.
 
 (4) Fingerprints taken in connection with an application under Part V of the Act must be destroyed as soon as is practicable after the identity of the applicant is established to the satisfaction of the Disclosure and Barring Service.
 
@@ -403,19 +403,19 @@ such a certificate shall be issued to him, not later than the end of the period 
 - “speculative search” has the same meaning as in Part V of the Police and Criminal Evidence Act 1984 [^c9617881]; and
 - “responsible chief officer of police” means the chief officer of police in whose area the computer data were put on to the computer.
 
-## Exception to unlawful disclosure provisions[^key-bde1fbc38f2471e4a3d97cd51f2afc4a]
+## Exception to unlawful disclosure provisions[^c-bde1fbc38f2471e4a3d97cd51f2afc4a]
 
 **12.** (1) The following purpose is specified for the purposes of subsection (6) (e) and (f) of section 124 of the Act (exceptions to prohibition of disclosure beyond a registered body), namely disclosure by an employment agency or an employment business, whether or not in response to an exempted question, for the purpose of consideration,
 
-- (a) by an educational institution, within the meaning given by section 42 of the Criminal Justice and Court Services Act 2000, or *(Extent: E)* *(affected by repeal, see note)*[^key-bbf59ccb91abb7df3a580deb5b616151]
+- (a) by an educational institution, within the meaning given by section 42 of the Criminal Justice and Court Services Act 2000, or *(Extent: E)* *(affected by repeal, see note)*[^c-bbf59ccb91abb7df3a580deb5b616151]
 
 *Extent: E*
 
-- (aa)[^key-e99b0b8fbdd05384d7a6636eb306f642] by an alternative provision Academy that does not fall within sub-paragraph (a),
-- (b) by an institution within the further education sector , within the meaning given by section 91(3) of the Further and Higher Education Act 1992, or *(Extent: E)*[^key-090ac30af1eeca6c94b4beb1dea75bcc]
+- (aa)[^c-e99b0b8fbdd05384d7a6636eb306f642] by an alternative provision Academy that does not fall within sub-paragraph (a),
+- (b) by an institution within the further education sector , within the meaning given by section 91(3) of the Further and Higher Education Act 1992, or *(Extent: E)*[^c-090ac30af1eeca6c94b4beb1dea75bcc]
 - (c (Extent: E)) by a 16 to 19 Academy, *(Extent: E)*
 
-of a person’s suitability for a position at that institution or Academy *(Extent: E)*[^key-e4fbed97f97f524229869e8cad9ca8e4].
+of a person’s suitability for a position at that institution or Academy *(Extent: E)*[^c-e4fbed97f97f524229869e8cad9ca8e4].
 
 (2) In paragraph (1) above the references to an employment agency and an employment business are references to such an agency or business within the meanings given by section 13 of the Employment Agencies Act 1973.
 
@@ -430,7 +430,7 @@ These Regulations are made under the following provisions of the Police Act 1997
 - (a) sections 113(1)(b); 114(1)(b); 115(1)(b) and (10); 116(1)(b); 118(3) and 125(5); and
 - (b) having regard to the meaning of “prescribed” in sections 113(1)(a), (3)(a), (3A)(b) and (5); 114(1)(a); 115(1)(a), (6)(a)(i) and (6A)(b); 116(1)(a); 118(2)(a) and 119(3).
 
-## SCHEDULE 2 (affected by repeal, see note)[^key-2214a9aa377ad543c7466bd7377d8539]
+## SCHEDULE 2 (affected by repeal, see note)[^c-2214a9aa377ad543c7466bd7377d8539]
 
 [image: see source](https://www.legislation.gov.uk/uksi/2002/233/images/uksi_20020233_en_sld_001)
 
@@ -440,7 +440,7 @@ These Regulations are made under the following provisions of the Police Act 1997
 
 [image: see source](https://www.legislation.gov.uk/uksi/2002/233/images/uksi_20020233_en_sld_004)
 
-## SCHEDULE 3 — Fees payable to police authorities[^key-6ee82fdc302e1e5ec41c9a9079ecf736]
+## SCHEDULE 3 — Fees payable to police authorities[^c-6ee82fdc302e1e5ec41c9a9079ecf736]
 
 **No longer in force.**
 
@@ -468,196 +468,196 @@ Regulation 12 specifies the fees to be paid to police authorities who maintain p
 
 [^c9617791]: Marginal citation: [1997 c. 50](https://www.legislation.gov.uk/ukpga/1997/50).
 
-[^key-6e45791773d30232e445fc18bd69c086]: Textual amendment: Words in reg. 2 inserted (17.6.2013) by [The Police Act 1997 (Criminal Records) (Amendment) Regulations 2013 (S.I. 2013/1194)](https://www.legislation.gov.uk/uksi/2013/1194), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1194/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2013/1194/regulation/2/2)
+[^c-6e45791773d30232e445fc18bd69c086]: Textual amendment: Words in reg. 2 inserted (17.6.2013) by [The Police Act 1997 (Criminal Records) (Amendment) Regulations 2013 (S.I. 2013/1194)](https://www.legislation.gov.uk/uksi/2013/1194), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1194/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2013/1194/regulation/2/2)
 
-[^key-4efd9a1a9264b731d8be5c7c23d98605]: Textual amendment: Words in reg. 2 inserted (12.10.2009) by [The Police Act 1997 (Criminal Records) (No. 2) Regulations 2009 (S.I. 2009/1882)](https://www.legislation.gov.uk/uksi/2009/1882), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1882/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2009/1882/regulation/2)
+[^c-4efd9a1a9264b731d8be5c7c23d98605]: Textual amendment: Words in reg. 2 inserted (12.10.2009) by [The Police Act 1997 (Criminal Records) (No. 2) Regulations 2009 (S.I. 2009/1882)](https://www.legislation.gov.uk/uksi/2009/1882), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1882/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2009/1882/regulation/2)
 
-[^key-7637d5b60459708f7d6d688126975fc1]: Textual amendment: Words in reg. 2 inserted (1.9.2014) by [The Police Act 1997 (Criminal Records) (Amendment) (No. 3) Regulations 2014 (S.I. 2014/2122)](https://www.legislation.gov.uk/uksi/2014/2122), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/2122/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/2122/regulation/2/2)
+[^c-7637d5b60459708f7d6d688126975fc1]: Textual amendment: Words in reg. 2 inserted (1.9.2014) by [The Police Act 1997 (Criminal Records) (Amendment) (No. 3) Regulations 2014 (S.I. 2014/2122)](https://www.legislation.gov.uk/uksi/2014/2122), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/2122/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/2122/regulation/2/2)
 
-[^key-5a9910e61200e6b829f9f62d9586a5f3]: Textual amendment: Words in reg. 2 substituted by SI 2010/2582 Sch. 4 para. 5(2)(a) (as inserted(1.4.2011) by [The Children and Families (Wales) Measure 2010 (Commencement No.2, Savings and Transitional Provisions) (Amendment) and (Consequential Amendments) Order 2011 (S.I. 2011/577)](https://www.legislation.gov.uk/uksi/2011/577), [art. 2(3)](https://www.legislation.gov.uk/uksi/2011/577/article/2/3), [Sch.](https://www.legislation.gov.uk/uksi/2011/577/schedule))
+[^c-5a9910e61200e6b829f9f62d9586a5f3]: Textual amendment: Words in reg. 2 substituted by SI 2010/2582 Sch. 4 para. 5(2)(a) (as inserted(1.4.2011) by [The Children and Families (Wales) Measure 2010 (Commencement No.2, Savings and Transitional Provisions) (Amendment) and (Consequential Amendments) Order 2011 (S.I. 2011/577)](https://www.legislation.gov.uk/uksi/2011/577), [art. 2(3)](https://www.legislation.gov.uk/uksi/2011/577/article/2/3), [Sch.](https://www.legislation.gov.uk/uksi/2011/577/schedule))
 
-[^key-bd4b4354d088e507e7135ef57d892bac]: Textual amendment: Words in reg. 2 substituted by SI 2010/2582 Sch. 4 para. 5(2)(b) (as inserted (1.4.2011) by [The Children and Families (Wales) Measure 2010 (Commencement No.2, Savings and Transitional Provisions) (Amendment) and (Consequential Amendments) Order 2011 (S.I. 2011/577)](https://www.legislation.gov.uk/uksi/2011/577), [art. 2(3)](https://www.legislation.gov.uk/uksi/2011/577/article/2/3), [Sch.](https://www.legislation.gov.uk/uksi/2011/577/schedule))
+[^c-bd4b4354d088e507e7135ef57d892bac]: Textual amendment: Words in reg. 2 substituted by SI 2010/2582 Sch. 4 para. 5(2)(b) (as inserted (1.4.2011) by [The Children and Families (Wales) Measure 2010 (Commencement No.2, Savings and Transitional Provisions) (Amendment) and (Consequential Amendments) Order 2011 (S.I. 2011/577)](https://www.legislation.gov.uk/uksi/2011/577), [art. 2(3)](https://www.legislation.gov.uk/uksi/2011/577/article/2/3), [Sch.](https://www.legislation.gov.uk/uksi/2011/577/schedule))
 
-[^key-847f43749bef6297fef42c5e80fb3bf4]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/233/regulation/2) inserted (21.1.2026) by [The Police Act 1997 (Criminal Records) (Amendment) Regulations 2025 (S.I. 2025/1240)](https://www.legislation.gov.uk/uksi/2025/1240), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1240/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2025/1240/regulation/2/2)
+[^c-847f43749bef6297fef42c5e80fb3bf4]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/233/regulation/2) inserted (21.1.2026) by [The Police Act 1997 (Criminal Records) (Amendment) Regulations 2025 (S.I. 2025/1240)](https://www.legislation.gov.uk/uksi/2025/1240), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1240/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2025/1240/regulation/2/2)
 
 [^c9617801]: Marginal citation: [1998 c. 37](https://www.legislation.gov.uk/ukpga/1998/37).
 
-[^key-d28af05ff426698ab8e60aba3832e467]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/233/regulation/2) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 43](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/43)
+[^c-d28af05ff426698ab8e60aba3832e467]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/233/regulation/2) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 43](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/43)
 
-[^key-0ac8c59aa1386bf3c0b3a514cfd04c05]: Textual amendment: Words in reg. 2 inserted (26.3.2012) by [The Police Act 1997 (Criminal Records) (Amendment) Regulations 2012 (S.I. 2012/523)](https://www.legislation.gov.uk/uksi/2012/523), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/523/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2012/523/regulation/2)
+[^c-0ac8c59aa1386bf3c0b3a514cfd04c05]: Textual amendment: Words in reg. 2 inserted (26.3.2012) by [The Police Act 1997 (Criminal Records) (Amendment) Regulations 2012 (S.I. 2012/523)](https://www.legislation.gov.uk/uksi/2012/523), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/523/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2012/523/regulation/2)
 
-[^key-db7a62c0142408dfb83008f282bb3f20]: Textual amendment: Reg. 3A inserted (10.3.2014) by [The Police Act 1997 (Criminal Records) (Amendment) Regulations 2014 (S.I. 2014/239)](https://www.legislation.gov.uk/uksi/2014/239), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/239/article/1/1), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2014/239/regulation/2/2)
+[^c-db7a62c0142408dfb83008f282bb3f20]: Textual amendment: Reg. 3A inserted (10.3.2014) by [The Police Act 1997 (Criminal Records) (Amendment) Regulations 2014 (S.I. 2014/239)](https://www.legislation.gov.uk/uksi/2014/239), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/239/article/1/1), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2014/239/regulation/2/2)
 
-[^key-99b294e390fda1f41302c36b53f72d11]: Textual amendment: Sum in reg. 3A substituted (2.12.2024) by [The Police Act 1997 (Criminal Records) (Amendment) Regulations 2024 (S.I. 2024/1111)](https://www.legislation.gov.uk/uksi/2024/1111), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1111/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2024/1111/regulation/2/2)
+[^c-99b294e390fda1f41302c36b53f72d11]: Textual amendment: Sum in reg. 3A substituted (2.12.2024) by [The Police Act 1997 (Criminal Records) (Amendment) Regulations 2024 (S.I. 2024/1111)](https://www.legislation.gov.uk/uksi/2024/1111), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1111/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2024/1111/regulation/2/2)
 
-[^key-3e40bdec3185bf0ba49862fbcb9414d2]: Textual amendment: Reg. 4 substituted (28.3.2020 except for the insertion of reg. 4(2)(b) which comes into force immediately after [2020 c. 7](https://www.legislation.gov.uk/ukpga/2020/7), [s. 9(8)](https://www.legislation.gov.uk/ukpga/2020/7/section/9/8) comes into force) by [The Police Act 1997 (Criminal Records) (Amendment) Regulations 2020 (S.I. 2020/359)](https://www.legislation.gov.uk/uksi/2020/359), [reg. 1(2)(3)](https://www.legislation.gov.uk/uksi/2020/359/regulation/1/2/3), [2](https://www.legislation.gov.uk/uksi/2020/359/regulation/2)
+[^c-3e40bdec3185bf0ba49862fbcb9414d2]: Textual amendment: Reg. 4 substituted (28.3.2020 except for the insertion of reg. 4(2)(b) which comes into force immediately after [2020 c. 7](https://www.legislation.gov.uk/ukpga/2020/7), [s. 9(8)](https://www.legislation.gov.uk/ukpga/2020/7/section/9/8) comes into force) by [The Police Act 1997 (Criminal Records) (Amendment) Regulations 2020 (S.I. 2020/359)](https://www.legislation.gov.uk/uksi/2020/359), [reg. 1(2)(3)](https://www.legislation.gov.uk/uksi/2020/359/regulation/1/2/3), [2](https://www.legislation.gov.uk/uksi/2020/359/regulation/2)
 
-[^key-f8b52609d75e09923d2a4f8a4ffdfb6f]: Textual amendment: Sum in reg. 4(1)(a) substituted (2.12.2024) by [The Police Act 1997 (Criminal Records) (Amendment) Regulations 2024 (S.I. 2024/1111)](https://www.legislation.gov.uk/uksi/2024/1111), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1111/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2024/1111/regulation/2/3/a)
+[^c-f8b52609d75e09923d2a4f8a4ffdfb6f]: Textual amendment: Sum in reg. 4(1)(a) substituted (2.12.2024) by [The Police Act 1997 (Criminal Records) (Amendment) Regulations 2024 (S.I. 2024/1111)](https://www.legislation.gov.uk/uksi/2024/1111), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1111/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2024/1111/regulation/2/3/a)
 
-[^key-397ad580ed113887fa27f6b65619e342]: Textual amendment: Sum in reg. 4(1)(b) substituted (2.12.2024) by [The Police Act 1997 (Criminal Records) (Amendment) Regulations 2024 (S.I. 2024/1111)](https://www.legislation.gov.uk/uksi/2024/1111), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1111/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2024/1111/regulation/2/3/b)
+[^c-397ad580ed113887fa27f6b65619e342]: Textual amendment: Sum in reg. 4(1)(b) substituted (2.12.2024) by [The Police Act 1997 (Criminal Records) (Amendment) Regulations 2024 (S.I. 2024/1111)](https://www.legislation.gov.uk/uksi/2024/1111), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1111/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2024/1111/regulation/2/3/b)
 
-[^key-30cdf31f9c371f0a10d691679f84f4ee]: Textual amendment: Reg. 4(2) substituted (11.5.2023) by [The Police Act 1997 (Criminal Records) (Amendment and Saving Provision) Regulations 2023 (S.I. 2023/435)](https://www.legislation.gov.uk/uksi/2023/435), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/435/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2023/435/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/435/regulation/3))
+[^c-30cdf31f9c371f0a10d691679f84f4ee]: Textual amendment: Reg. 4(2) substituted (11.5.2023) by [The Police Act 1997 (Criminal Records) (Amendment and Saving Provision) Regulations 2023 (S.I. 2023/435)](https://www.legislation.gov.uk/uksi/2023/435), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/435/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2023/435/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/435/regulation/3))
 
-[^key-342418fa69db1b4affcbce209df79ca6]: Textual amendment: Reg. 4(3) omitted (11.5.2023) by virtue of [The Police Act 1997 (Criminal Records) (Amendment and Saving Provision) Regulations 2023 (S.I. 2023/435)](https://www.legislation.gov.uk/uksi/2023/435), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/435/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2023/435/regulation/2/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/435/regulation/3))
+[^c-342418fa69db1b4affcbce209df79ca6]: Textual amendment: Reg. 4(3) omitted (11.5.2023) by virtue of [The Police Act 1997 (Criminal Records) (Amendment and Saving Provision) Regulations 2023 (S.I. 2023/435)](https://www.legislation.gov.uk/uksi/2023/435), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/435/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2023/435/regulation/2/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/435/regulation/3))
 
 [^M_F_8964e425-08f7-4231-a69d-f41bd9d432d4]: Textual amendment: Reg. 4 substituted for regs. 4, 4A (6.4.2006) by [The Police Act 1997 (Criminal Records) (Amendment) Regulations 2006 (S.I. 2006/748)](https://www.legislation.gov.uk/uksi/2006/748), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/748/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2006/748/regulation/2/a)
 
-[^key-1aff588f174d3be9f82ccfd5431bf765]: Textual amendment: Reg. 4B inserted (10.3.2014) by [The Police Act 1997 (Criminal Records) (Amendment) Regulations 2014 (S.I. 2014/239)](https://www.legislation.gov.uk/uksi/2014/239), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/239/article/1/1), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2014/239/regulation/2/3)
+[^c-1aff588f174d3be9f82ccfd5431bf765]: Textual amendment: Reg. 4B inserted (10.3.2014) by [The Police Act 1997 (Criminal Records) (Amendment) Regulations 2014 (S.I. 2014/239)](https://www.legislation.gov.uk/uksi/2014/239), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/239/article/1/1), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2014/239/regulation/2/3)
 
 [^c9617811]: Marginal citation: [1974 c. 53](https://www.legislation.gov.uk/ukpga/1974/53).
 
 [^c9617821]: Marginal citation: [2000 c. 43](https://www.legislation.gov.uk/ukpga/2000/43).
 
-[^key-23cc5ddccc50a1140adfb099662809d3]: Textual amendment: Regs. 5A-5C inserted (6.4.2006) by [The Police Act 1997 (Criminal Records) (Amendment) Regulations 2006 (S.I. 2006/748)](https://www.legislation.gov.uk/uksi/2006/748), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/748/regulation/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2006/748/regulation/2/b), [Sch.](https://www.legislation.gov.uk/uksi/2006/748/schedule)
+[^c-23cc5ddccc50a1140adfb099662809d3]: Textual amendment: Regs. 5A-5C inserted (6.4.2006) by [The Police Act 1997 (Criminal Records) (Amendment) Regulations 2006 (S.I. 2006/748)](https://www.legislation.gov.uk/uksi/2006/748), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/748/regulation/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2006/748/regulation/2/b), [Sch.](https://www.legislation.gov.uk/uksi/2006/748/schedule)
 
-[^key-94cd25e9dd8b63d3fad5003410082524]: Textual amendment: Reg. 5A(a) substituted (6.5.2014) by [The Police Act 1997 (Criminal Records) (Amendment No. 2) Regulations 2014 (S.I. 2014/955)](https://www.legislation.gov.uk/uksi/2014/955), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/955/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2014/955/regulation/2/2/a)
+[^c-94cd25e9dd8b63d3fad5003410082524]: Textual amendment: Reg. 5A(a) substituted (6.5.2014) by [The Police Act 1997 (Criminal Records) (Amendment No. 2) Regulations 2014 (S.I. 2014/955)](https://www.legislation.gov.uk/uksi/2014/955), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/955/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2014/955/regulation/2/2/a)
 
-[^key-93c972ba49b32726bffe8fd22e3f4e01]: Textual amendment: Reg. 5A(aa) omitted (10.9.2012) by virtue of [The Police Act 1997 (Criminal Records) (Amendment No. 2) Regulations 2012 (S.I. 2012/2114)](https://www.legislation.gov.uk/uksi/2012/2114), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/2114/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2012/2114/regulation/4)
+[^c-93c972ba49b32726bffe8fd22e3f4e01]: Textual amendment: Reg. 5A(aa) omitted (10.9.2012) by virtue of [The Police Act 1997 (Criminal Records) (Amendment No. 2) Regulations 2012 (S.I. 2012/2114)](https://www.legislation.gov.uk/uksi/2012/2114), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/2114/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2012/2114/regulation/4)
 
-[^key-b6e4fc16d94bace92ebb5a262d98165c]: Textual amendment: Reg. 5A(b) substituted (6.5.2014) by [The Police Act 1997 (Criminal Records) (Amendment No. 2) Regulations 2014 (S.I. 2014/955)](https://www.legislation.gov.uk/uksi/2014/955), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/955/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2014/955/regulation/2/2/b)
+[^c-b6e4fc16d94bace92ebb5a262d98165c]: Textual amendment: Reg. 5A(b) substituted (6.5.2014) by [The Police Act 1997 (Criminal Records) (Amendment No. 2) Regulations 2014 (S.I. 2014/955)](https://www.legislation.gov.uk/uksi/2014/955), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/955/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2014/955/regulation/2/2/b)
 
-[^key-6acbe0c6b6eb89a2e77a958f2ffb14d6]: Textual amendment: Reg. 5A(ba) omitted (17.6.2013) by virtue of [The Police Act 1997 (Criminal Records) (Amendment) Regulations 2013 (S.I. 2013/1194)](https://www.legislation.gov.uk/uksi/2013/1194), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1194/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2013/1194/regulation/2/4)
+[^c-6acbe0c6b6eb89a2e77a958f2ffb14d6]: Textual amendment: Reg. 5A(ba) omitted (17.6.2013) by virtue of [The Police Act 1997 (Criminal Records) (Amendment) Regulations 2013 (S.I. 2013/1194)](https://www.legislation.gov.uk/uksi/2013/1194), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1194/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2013/1194/regulation/2/4)
 
-[^key-2db241d6d77778d7ce64b9bfdee0aa3a]: Textual amendment: Reg. 5A(bb) omitted (10.9.2012) by virtue of [The Police Act 1997 (Criminal Records) (Amendment No. 2) Regulations 2012 (S.I. 2012/2114)](https://www.legislation.gov.uk/uksi/2012/2114), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/2114/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2012/2114/regulation/7)
+[^c-2db241d6d77778d7ce64b9bfdee0aa3a]: Textual amendment: Reg. 5A(bb) omitted (10.9.2012) by virtue of [The Police Act 1997 (Criminal Records) (Amendment No. 2) Regulations 2012 (S.I. 2012/2114)](https://www.legislation.gov.uk/uksi/2012/2114), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/2114/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2012/2114/regulation/7)
 
-[^key-4f792f1676d1b306a1701123b70cfaa5]: Textual amendment: Reg. 5A(c)-(e) substituted (26.7.2007) by [The Police Act 1997 (Criminal Records) (Amendment No. 2) Regulations 2007 (S.I. 2007/1892)](https://www.legislation.gov.uk/uksi/2007/1892), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/1892/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2007/1892/regulation/2/2)
+[^c-4f792f1676d1b306a1701123b70cfaa5]: Textual amendment: Reg. 5A(c)-(e) substituted (26.7.2007) by [The Police Act 1997 (Criminal Records) (Amendment No. 2) Regulations 2007 (S.I. 2007/1892)](https://www.legislation.gov.uk/uksi/2007/1892), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/1892/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2007/1892/regulation/2/2)
 
-[^key-762af9a9e45ea30fc611c8b836966be8]: Textual amendment: Reg. 5A(g) omitted (2.12.2013) by virtue of [The Police Act 1997 (Criminal Records) (Amendment No. 2) Regulations 2013 (S.I. 2013/2669)](https://www.legislation.gov.uk/uksi/2013/2669), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2669/regulation/1/1), [2(2)(c)(i)](https://www.legislation.gov.uk/uksi/2013/2669/regulation/2/2/c/i)
+[^c-762af9a9e45ea30fc611c8b836966be8]: Textual amendment: Reg. 5A(g) omitted (2.12.2013) by virtue of [The Police Act 1997 (Criminal Records) (Amendment No. 2) Regulations 2013 (S.I. 2013/2669)](https://www.legislation.gov.uk/uksi/2013/2669), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2669/regulation/1/1), [2(2)(c)(i)](https://www.legislation.gov.uk/uksi/2013/2669/regulation/2/2/c/i)
 
-[^key-cbfc6d9c236031b119ca613f7b09d2c2]: Textual amendment: Reg. 5A(ga) omitted (2.12.2013) by virtue of [The Police Act 1997 (Criminal Records) (Amendment No. 2) Regulations 2013 (S.I. 2013/2669)](https://www.legislation.gov.uk/uksi/2013/2669), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2669/regulation/1/1), [2(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2013/2669/regulation/2/2/c/ii)
+[^c-cbfc6d9c236031b119ca613f7b09d2c2]: Textual amendment: Reg. 5A(ga) omitted (2.12.2013) by virtue of [The Police Act 1997 (Criminal Records) (Amendment No. 2) Regulations 2013 (S.I. 2013/2669)](https://www.legislation.gov.uk/uksi/2013/2669), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2669/regulation/1/1), [2(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2013/2669/regulation/2/2/c/ii)
 
-[^key-653bb85149ccb1a064438e05459e65f8]: Textual amendment: Reg. 5A(h) omitted (2.12.2013) by virtue of [The Police Act 1997 (Criminal Records) (Amendment No. 2) Regulations 2013 (S.I. 2013/2669)](https://www.legislation.gov.uk/uksi/2013/2669), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2669/regulation/1/1), [2(2)(c)(iii)](https://www.legislation.gov.uk/uksi/2013/2669/regulation/2/2/c/iii)
+[^c-653bb85149ccb1a064438e05459e65f8]: Textual amendment: Reg. 5A(h) omitted (2.12.2013) by virtue of [The Police Act 1997 (Criminal Records) (Amendment No. 2) Regulations 2013 (S.I. 2013/2669)](https://www.legislation.gov.uk/uksi/2013/2669), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2669/regulation/1/1), [2(2)(c)(iii)](https://www.legislation.gov.uk/uksi/2013/2669/regulation/2/2/c/iii)
 
-[^key-33087734972bce0f65b3abfed50312ef]: Textual amendment: Reg. 5A(i) omitted (2.12.2013) by virtue of [The Police Act 1997 (Criminal Records) (Amendment No. 2) Regulations 2013 (S.I. 2013/2669)](https://www.legislation.gov.uk/uksi/2013/2669), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2669/regulation/1/1), [2(2)(c)(iv)](https://www.legislation.gov.uk/uksi/2013/2669/regulation/2/2/c/iv)
+[^c-33087734972bce0f65b3abfed50312ef]: Textual amendment: Reg. 5A(i) omitted (2.12.2013) by virtue of [The Police Act 1997 (Criminal Records) (Amendment No. 2) Regulations 2013 (S.I. 2013/2669)](https://www.legislation.gov.uk/uksi/2013/2669), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2669/regulation/1/1), [2(2)(c)(iv)](https://www.legislation.gov.uk/uksi/2013/2669/regulation/2/2/c/iv)
 
-[^key-2ee29b83a75bcbbe251c8cccfbf1d14c]: Textual amendment: Reg. 5A(j) omitted (2.12.2013) by virtue of [The Police Act 1997 (Criminal Records) (Amendment No. 2) Regulations 2013 (S.I. 2013/2669)](https://www.legislation.gov.uk/uksi/2013/2669), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2669/regulation/1/1), [2(2)(c)(v)](https://www.legislation.gov.uk/uksi/2013/2669/regulation/2/2/c/v)
+[^c-2ee29b83a75bcbbe251c8cccfbf1d14c]: Textual amendment: Reg. 5A(j) omitted (2.12.2013) by virtue of [The Police Act 1997 (Criminal Records) (Amendment No. 2) Regulations 2013 (S.I. 2013/2669)](https://www.legislation.gov.uk/uksi/2013/2669), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2669/regulation/1/1), [2(2)(c)(v)](https://www.legislation.gov.uk/uksi/2013/2669/regulation/2/2/c/v)
 
-[^key-21953321e112d8be309b5bafae37430e]: Textual amendment: Reg. 5A(k) omitted (2.12.2013) by virtue of [The Police Act 1997 (Criminal Records) (Amendment No. 2) Regulations 2013 (S.I. 2013/2669)](https://www.legislation.gov.uk/uksi/2013/2669), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2669/regulation/1/1), [2(2)(c)(vi)](https://www.legislation.gov.uk/uksi/2013/2669/regulation/2/2/c/vi)
+[^c-21953321e112d8be309b5bafae37430e]: Textual amendment: Reg. 5A(k) omitted (2.12.2013) by virtue of [The Police Act 1997 (Criminal Records) (Amendment No. 2) Regulations 2013 (S.I. 2013/2669)](https://www.legislation.gov.uk/uksi/2013/2669), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2669/regulation/1/1), [2(2)(c)(vi)](https://www.legislation.gov.uk/uksi/2013/2669/regulation/2/2/c/vi)
 
-[^key-08df21b728d0d046df7def0634c428cd]: Textual amendment: Reg. 5A(l) omitted (12.10.2009) by virtue of [The Police Act 1997 (Criminal Records) (No. 2) Regulations 2009 (S.I. 2009/1882)](https://www.legislation.gov.uk/uksi/2009/1882), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1882/regulation/1/1), [3(10)](https://www.legislation.gov.uk/uksi/2009/1882/regulation/3/10)
+[^c-08df21b728d0d046df7def0634c428cd]: Textual amendment: Reg. 5A(l) omitted (12.10.2009) by virtue of [The Police Act 1997 (Criminal Records) (No. 2) Regulations 2009 (S.I. 2009/1882)](https://www.legislation.gov.uk/uksi/2009/1882), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1882/regulation/1/1), [3(10)](https://www.legislation.gov.uk/uksi/2009/1882/regulation/3/10)
 
-[^key-9740737c1cdc154ab71e741e4441ef90]: Textual amendment: Reg. 5A(m) omitted (12.10.2009) by virtue of [The Police Act 1997 (Criminal Records) (No. 2) Regulations 2009 (S.I. 2009/1882)](https://www.legislation.gov.uk/uksi/2009/1882), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1882/regulation/1/1), [3(10)](https://www.legislation.gov.uk/uksi/2009/1882/regulation/3/10)
+[^c-9740737c1cdc154ab71e741e4441ef90]: Textual amendment: Reg. 5A(m) omitted (12.10.2009) by virtue of [The Police Act 1997 (Criminal Records) (No. 2) Regulations 2009 (S.I. 2009/1882)](https://www.legislation.gov.uk/uksi/2009/1882), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1882/regulation/1/1), [3(10)](https://www.legislation.gov.uk/uksi/2009/1882/regulation/3/10)
 
-[^key-66bcc8187016381f396150fd7af52442]: Textual amendment: Reg. 5A(n) omitted (12.10.2009) by virtue of [The Police Act 1997 (Criminal Records) (No. 2) Regulations 2009 (S.I. 2009/1882)](https://www.legislation.gov.uk/uksi/2009/1882), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1882/regulation/1/1), [3(10)](https://www.legislation.gov.uk/uksi/2009/1882/regulation/3/10)
+[^c-66bcc8187016381f396150fd7af52442]: Textual amendment: Reg. 5A(n) omitted (12.10.2009) by virtue of [The Police Act 1997 (Criminal Records) (No. 2) Regulations 2009 (S.I. 2009/1882)](https://www.legislation.gov.uk/uksi/2009/1882), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1882/regulation/1/1), [3(10)](https://www.legislation.gov.uk/uksi/2009/1882/regulation/3/10)
 
-[^key-c6a990675c15459a18ec8da1013ca2b8]: Textual amendment: Reg. 5A(o) omitted (12.10.2009) by virtue of [The Police Act 1997 (Criminal Records) (No. 2) Regulations 2009 (S.I. 2009/1882)](https://www.legislation.gov.uk/uksi/2009/1882), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1882/regulation/1/1), [3(10)](https://www.legislation.gov.uk/uksi/2009/1882/regulation/3/10)
+[^c-c6a990675c15459a18ec8da1013ca2b8]: Textual amendment: Reg. 5A(o) omitted (12.10.2009) by virtue of [The Police Act 1997 (Criminal Records) (No. 2) Regulations 2009 (S.I. 2009/1882)](https://www.legislation.gov.uk/uksi/2009/1882), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1882/regulation/1/1), [3(10)](https://www.legislation.gov.uk/uksi/2009/1882/regulation/3/10)
 
-[^key-ec993b7566a2583cf7b166b2764eb725]: Textual amendment: Reg. 5A(p) omitted (2.12.2013) by virtue of [The Police Act 1997 (Criminal Records) (Amendment No. 2) Regulations 2013 (S.I. 2013/2669)](https://www.legislation.gov.uk/uksi/2013/2669), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2669/regulation/1/1), [2(2)(c)(vii)](https://www.legislation.gov.uk/uksi/2013/2669/regulation/2/2/c/vii)
+[^c-ec993b7566a2583cf7b166b2764eb725]: Textual amendment: Reg. 5A(p) omitted (2.12.2013) by virtue of [The Police Act 1997 (Criminal Records) (Amendment No. 2) Regulations 2013 (S.I. 2013/2669)](https://www.legislation.gov.uk/uksi/2013/2669), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2669/regulation/1/1), [2(2)(c)(vii)](https://www.legislation.gov.uk/uksi/2013/2669/regulation/2/2/c/vii)
 
-[^key-42a31f19e9a1d956b4370ef63e2a37b9]: Textual amendment: Reg. 5A(q) omitted (2.12.2013) by virtue of [The Police Act 1997 (Criminal Records) (Amendment No. 2) Regulations 2013 (S.I. 2013/2669)](https://www.legislation.gov.uk/uksi/2013/2669), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2669/regulation/1/1), [2(2)(c)(viii)](https://www.legislation.gov.uk/uksi/2013/2669/regulation/2/2/c/viii)
+[^c-42a31f19e9a1d956b4370ef63e2a37b9]: Textual amendment: Reg. 5A(q) omitted (2.12.2013) by virtue of [The Police Act 1997 (Criminal Records) (Amendment No. 2) Regulations 2013 (S.I. 2013/2669)](https://www.legislation.gov.uk/uksi/2013/2669), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2669/regulation/1/1), [2(2)(c)(viii)](https://www.legislation.gov.uk/uksi/2013/2669/regulation/2/2/c/viii)
 
-[^key-fa04c021cc5db8bdbe0c9f991d35d1d5]: Textual amendment: Reg. 5A(r) omitted (2.12.2013) by virtue of [The Police Act 1997 (Criminal Records) (Amendment No. 2) Regulations 2013 (S.I. 2013/2669)](https://www.legislation.gov.uk/uksi/2013/2669), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2669/regulation/1/1), [2(2)(c)(ix)](https://www.legislation.gov.uk/uksi/2013/2669/regulation/2/2/c/ix)
+[^c-fa04c021cc5db8bdbe0c9f991d35d1d5]: Textual amendment: Reg. 5A(r) omitted (2.12.2013) by virtue of [The Police Act 1997 (Criminal Records) (Amendment No. 2) Regulations 2013 (S.I. 2013/2669)](https://www.legislation.gov.uk/uksi/2013/2669), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2669/regulation/1/1), [2(2)(c)(ix)](https://www.legislation.gov.uk/uksi/2013/2669/regulation/2/2/c/ix)
 
-[^key-5dc002ede4d7037f119dd9ef8d7ab31d]: Textual amendment: Reg. 5A(s) omitted (12.10.2009) by virtue of [The Police Act 1997 (Criminal Records) (No. 2) Regulations 2009 (S.I. 2009/1882)](https://www.legislation.gov.uk/uksi/2009/1882), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1882/regulation/1/1), [3(11)](https://www.legislation.gov.uk/uksi/2009/1882/regulation/3/11)
+[^c-5dc002ede4d7037f119dd9ef8d7ab31d]: Textual amendment: Reg. 5A(s) omitted (12.10.2009) by virtue of [The Police Act 1997 (Criminal Records) (No. 2) Regulations 2009 (S.I. 2009/1882)](https://www.legislation.gov.uk/uksi/2009/1882), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1882/regulation/1/1), [3(11)](https://www.legislation.gov.uk/uksi/2009/1882/regulation/3/11)
 
-[^key-50f57e1d131b22e69b77122546c379d6]: Textual amendment: Reg. 5A(t) omitted (12.10.2009) by virtue of [The Police Act 1997 (Criminal Records) (No. 2) Regulations 2009 (S.I. 2009/1882)](https://www.legislation.gov.uk/uksi/2009/1882), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1882/regulation/1/1), [3(11)](https://www.legislation.gov.uk/uksi/2009/1882/regulation/3/11)
+[^c-50f57e1d131b22e69b77122546c379d6]: Textual amendment: Reg. 5A(t) omitted (12.10.2009) by virtue of [The Police Act 1997 (Criminal Records) (No. 2) Regulations 2009 (S.I. 2009/1882)](https://www.legislation.gov.uk/uksi/2009/1882), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1882/regulation/1/1), [3(11)](https://www.legislation.gov.uk/uksi/2009/1882/regulation/3/11)
 
-[^key-d2f806cf81bbb58bd94850e560ce88b3]: Textual amendment: Reg. 5A(u) omitted (2.12.2013) by virtue of [The Police Act 1997 (Criminal Records) (Amendment No. 2) Regulations 2013 (S.I. 2013/2669)](https://www.legislation.gov.uk/uksi/2013/2669), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2669/regulation/1/1), [2(2)(c)(x)](https://www.legislation.gov.uk/uksi/2013/2669/regulation/2/2/c/x)
+[^c-d2f806cf81bbb58bd94850e560ce88b3]: Textual amendment: Reg. 5A(u) omitted (2.12.2013) by virtue of [The Police Act 1997 (Criminal Records) (Amendment No. 2) Regulations 2013 (S.I. 2013/2669)](https://www.legislation.gov.uk/uksi/2013/2669), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2669/regulation/1/1), [2(2)(c)(x)](https://www.legislation.gov.uk/uksi/2013/2669/regulation/2/2/c/x)
 
-[^key-7f536745ea8112c65bc1dfb52689dc6c]: Textual amendment: Words in reg. 5A(v) omitted (12.10.2009) by virtue of [The Police Act 1997 (Criminal Records) (No. 2) Regulations 2009 (S.I. 2009/1882)](https://www.legislation.gov.uk/uksi/2009/1882), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1882/regulation/1/1), [3(12)](https://www.legislation.gov.uk/uksi/2009/1882/regulation/3/12)
+[^c-7f536745ea8112c65bc1dfb52689dc6c]: Textual amendment: Words in reg. 5A(v) omitted (12.10.2009) by virtue of [The Police Act 1997 (Criminal Records) (No. 2) Regulations 2009 (S.I. 2009/1882)](https://www.legislation.gov.uk/uksi/2009/1882), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1882/regulation/1/1), [3(12)](https://www.legislation.gov.uk/uksi/2009/1882/regulation/3/12)
 
 [^M_F_cc1fdece-af33-4d32-cc6d-50686ed37c7f]: Textual amendment: Words in reg. 5A(v) inserted (12.10.2009) by [The Police Act 1997 (Criminal Records) (No. 2) Regulations 2009 (S.I. 2009/1882)](https://www.legislation.gov.uk/uksi/2009/1882), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1882/regulation/1/1), [3(12)](https://www.legislation.gov.uk/uksi/2009/1882/regulation/3/12)
 
-[^key-bc4f846743cea836e4897e3961f1a7cc]: Textual amendment: Reg. 5A(w) omitted (12.10.2009) by virtue of [The Police Act 1997 (Criminal Records) (No. 2) Regulations 2009 (S.I. 2009/1882)](https://www.legislation.gov.uk/uksi/2009/1882), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1882/regulation/1/1), [3(13)](https://www.legislation.gov.uk/uksi/2009/1882/regulation/3/13)
+[^c-bc4f846743cea836e4897e3961f1a7cc]: Textual amendment: Reg. 5A(w) omitted (12.10.2009) by virtue of [The Police Act 1997 (Criminal Records) (No. 2) Regulations 2009 (S.I. 2009/1882)](https://www.legislation.gov.uk/uksi/2009/1882), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1882/regulation/1/1), [3(13)](https://www.legislation.gov.uk/uksi/2009/1882/regulation/3/13)
 
-[^key-11ba6c5da3b461fcf5775f700c871360]: Textual amendment: Reg. 5A(x)-(z) inserted (12.10.2009) by [The Police Act 1997 (Criminal Records) (No. 2) Regulations 2009 (S.I. 2009/1882)](https://www.legislation.gov.uk/uksi/2009/1882), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1882/regulation/1/1), [3(14)](https://www.legislation.gov.uk/uksi/2009/1882/regulation/3/14)
+[^c-11ba6c5da3b461fcf5775f700c871360]: Textual amendment: Reg. 5A(x)-(z) inserted (12.10.2009) by [The Police Act 1997 (Criminal Records) (No. 2) Regulations 2009 (S.I. 2009/1882)](https://www.legislation.gov.uk/uksi/2009/1882), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1882/regulation/1/1), [3(14)](https://www.legislation.gov.uk/uksi/2009/1882/regulation/3/14)
 
-[^key-31690fa632eff2f0eadf14dc0e750620]: Textual amendment: Word in reg. 5A(y) omitted (1.4.2010) by virtue of [The Police Act 1997 (Criminal Records) (Amendment) Regulations 2010 (S.I. 2010/817)](https://www.legislation.gov.uk/uksi/2010/817), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/817/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2010/817/regulation/2/4)
+[^c-31690fa632eff2f0eadf14dc0e750620]: Textual amendment: Word in reg. 5A(y) omitted (1.4.2010) by virtue of [The Police Act 1997 (Criminal Records) (Amendment) Regulations 2010 (S.I. 2010/817)](https://www.legislation.gov.uk/uksi/2010/817), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/817/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2010/817/regulation/2/4)
 
-[^key-f1cb007a26700ef86e8090eeaf4069d9]: Textual amendment: Reg. 5A(z) omitted (1.12.2012) by virtue of [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [77](https://www.legislation.gov.uk/uksi/2012/3006/article/77) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
+[^c-f1cb007a26700ef86e8090eeaf4069d9]: Textual amendment: Reg. 5A(z) omitted (1.12.2012) by virtue of [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [77](https://www.legislation.gov.uk/uksi/2012/3006/article/77) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
 
-[^key-6c479c35b89cb044e4e5457b2379c076]: Textual amendment: Reg. 5A(za) omitted (2.12.2013) by virtue of [The Police Act 1997 (Criminal Records) (Amendment No. 2) Regulations 2013 (S.I. 2013/2669)](https://www.legislation.gov.uk/uksi/2013/2669), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2669/regulation/1/1), [2(2)(c)(xi)](https://www.legislation.gov.uk/uksi/2013/2669/regulation/2/2/c/xi)
+[^c-6c479c35b89cb044e4e5457b2379c076]: Textual amendment: Reg. 5A(za) omitted (2.12.2013) by virtue of [The Police Act 1997 (Criminal Records) (Amendment No. 2) Regulations 2013 (S.I. 2013/2669)](https://www.legislation.gov.uk/uksi/2013/2669), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2669/regulation/1/1), [2(2)(c)(xi)](https://www.legislation.gov.uk/uksi/2013/2669/regulation/2/2/c/xi)
 
-[^key-7456bd2ce5aa86d3f6e1eb5935b91571]: Textual amendment: Reg. 5A(zb) omitted (2.12.2013) by virtue of [The Police Act 1997 (Criminal Records) (Amendment No. 2) Regulations 2013 (S.I. 2013/2669)](https://www.legislation.gov.uk/uksi/2013/2669), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2669/regulation/1/1), [2(2)(c)(xii)](https://www.legislation.gov.uk/uksi/2013/2669/regulation/2/2/c/xii)
+[^c-7456bd2ce5aa86d3f6e1eb5935b91571]: Textual amendment: Reg. 5A(zb) omitted (2.12.2013) by virtue of [The Police Act 1997 (Criminal Records) (Amendment No. 2) Regulations 2013 (S.I. 2013/2669)](https://www.legislation.gov.uk/uksi/2013/2669), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2669/regulation/1/1), [2(2)(c)(xii)](https://www.legislation.gov.uk/uksi/2013/2669/regulation/2/2/c/xii)
 
-[^key-8ade73fc09f1792a847a220f85c038eb]: Textual amendment: Reg. 5A(zc) omitted (2.12.2013) by virtue of [The Police Act 1997 (Criminal Records) (Amendment No. 2) Regulations 2013 (S.I. 2013/2669)](https://www.legislation.gov.uk/uksi/2013/2669), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2669/regulation/1/1), [2(2)(c)(xiii)](https://www.legislation.gov.uk/uksi/2013/2669/regulation/2/2/c/xiii)
+[^c-8ade73fc09f1792a847a220f85c038eb]: Textual amendment: Reg. 5A(zc) omitted (2.12.2013) by virtue of [The Police Act 1997 (Criminal Records) (Amendment No. 2) Regulations 2013 (S.I. 2013/2669)](https://www.legislation.gov.uk/uksi/2013/2669), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2669/regulation/1/1), [2(2)(c)(xiii)](https://www.legislation.gov.uk/uksi/2013/2669/regulation/2/2/c/xiii)
 
-[^key-f905be98ace980f6422191af69795c80]: Textual amendment: Reg. 5A(zd) inserted (31.12.2012) by [The Police Act 1997 (Criminal Records) (Amendment No. 4) Regulations 2012 (S.I. 2012/3016)](https://www.legislation.gov.uk/uksi/2012/3016), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3016/regulation/1), [4](https://www.legislation.gov.uk/uksi/2012/3016/regulation/4)
+[^c-f905be98ace980f6422191af69795c80]: Textual amendment: Reg. 5A(zd) inserted (31.12.2012) by [The Police Act 1997 (Criminal Records) (Amendment No. 4) Regulations 2012 (S.I. 2012/3016)](https://www.legislation.gov.uk/uksi/2012/3016), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3016/regulation/1), [4](https://www.legislation.gov.uk/uksi/2012/3016/regulation/4)
 
-[^key-22a542884ef8b180b95b6fb34d11e833]: Textual amendment: Reg. 5A(ze) inserted (2.12.2013) by [The Police Act 1997 (Criminal Records) (Amendment No. 2) Regulations 2013 (S.I. 2013/2669)](https://www.legislation.gov.uk/uksi/2013/2669), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2669/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2013/2669/regulation/2/2/b)
+[^c-22a542884ef8b180b95b6fb34d11e833]: Textual amendment: Reg. 5A(ze) inserted (2.12.2013) by [The Police Act 1997 (Criminal Records) (Amendment No. 2) Regulations 2013 (S.I. 2013/2669)](https://www.legislation.gov.uk/uksi/2013/2669), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2669/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2013/2669/regulation/2/2/b)
 
-[^key-1be9c2b0a504b7deab59d051b61baa86]: Textual amendment: Reg. 5A(zf) inserted (6.5.2014) by [The Police Act 1997 (Criminal Records) (Amendment No. 2) Regulations 2014 (S.I. 2014/955)](https://www.legislation.gov.uk/uksi/2014/955), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/955/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2014/955/regulation/2/2/c)
+[^c-1be9c2b0a504b7deab59d051b61baa86]: Textual amendment: Reg. 5A(zf) inserted (6.5.2014) by [The Police Act 1997 (Criminal Records) (Amendment No. 2) Regulations 2014 (S.I. 2014/955)](https://www.legislation.gov.uk/uksi/2014/955), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/955/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2014/955/regulation/2/2/c)
 
-[^key-e39a66648951e157a8d358e55da1b499]: Textual amendment: [Reg. 5A(zg)](https://www.legislation.gov.uk/uksi/2002/233/regulation/5A/zg) inserted (13.10.2022) by [The Police Act 1997 (Criminal Records) (Amendment No. 2) Regulations 2022 (S.I. 2022/979)](https://www.legislation.gov.uk/uksi/2022/979), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/979/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2022/979/regulation/2/2)
+[^c-e39a66648951e157a8d358e55da1b499]: Textual amendment: [Reg. 5A(zg)](https://www.legislation.gov.uk/uksi/2002/233/regulation/5A/zg) inserted (13.10.2022) by [The Police Act 1997 (Criminal Records) (Amendment No. 2) Regulations 2022 (S.I. 2022/979)](https://www.legislation.gov.uk/uksi/2022/979), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/979/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2022/979/regulation/2/2)
 
-[^key-5a83b4f387c41efa2d4da4cf824a6ecf]: Textual amendment: [Reg. 5A(zh)(zi)](https://www.legislation.gov.uk/uksi/2002/233/regulation/5A/zh/zi) inserted (21.1.2026) by [The Police Act 1997 (Criminal Records) (Amendment) Regulations 2025 (S.I. 2025/1240)](https://www.legislation.gov.uk/uksi/2025/1240), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1240/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2025/1240/regulation/2/3)
+[^c-5a83b4f387c41efa2d4da4cf824a6ecf]: Textual amendment: [Reg. 5A(zh)(zi)](https://www.legislation.gov.uk/uksi/2002/233/regulation/5A/zh/zi) inserted (21.1.2026) by [The Police Act 1997 (Criminal Records) (Amendment) Regulations 2025 (S.I. 2025/1240)](https://www.legislation.gov.uk/uksi/2025/1240), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1240/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2025/1240/regulation/2/3)
 
-[^key-a687618445c6446521278270434519b7]: Textual amendment: Regs. 5B-7 inserted (17.6.2013) by [The Police Act 1997 (Criminal Records) (Amendment) Regulations 2013 (S.I. 2013/1194)](https://www.legislation.gov.uk/uksi/2013/1194), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1194/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2013/1194/regulation/2/5), [Sch.](https://www.legislation.gov.uk/uksi/2013/1194/schedule)
+[^c-a687618445c6446521278270434519b7]: Textual amendment: Regs. 5B-7 inserted (17.6.2013) by [The Police Act 1997 (Criminal Records) (Amendment) Regulations 2013 (S.I. 2013/1194)](https://www.legislation.gov.uk/uksi/2013/1194), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1194/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2013/1194/regulation/2/5), [Sch.](https://www.legislation.gov.uk/uksi/2013/1194/schedule)
 
-[^key-ac4c6097a602797624e375cc7797d82b]: Textual amendment: Reg. 5B heading substituted (6.5.2014) by [The Police Act 1997 (Criminal Records) (Amendment No. 2) Regulations 2014 (S.I. 2014/955)](https://www.legislation.gov.uk/uksi/2014/955), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/955/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2014/955/regulation/3/a)
+[^c-ac4c6097a602797624e375cc7797d82b]: Textual amendment: Reg. 5B heading substituted (6.5.2014) by [The Police Act 1997 (Criminal Records) (Amendment No. 2) Regulations 2014 (S.I. 2014/955)](https://www.legislation.gov.uk/uksi/2014/955), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/955/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2014/955/regulation/3/a)
 
-[^key-e329b8dac6b44f54653a6b1218252f70]: Textual amendment: Words in reg. 5B(1) substituted (6.5.2014) by [The Police Act 1997 (Criminal Records) (Amendment No. 2) Regulations 2014 (S.I. 2014/955)](https://www.legislation.gov.uk/uksi/2014/955), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/955/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2014/955/regulation/3/b)
+[^c-e329b8dac6b44f54653a6b1218252f70]: Textual amendment: Words in reg. 5B(1) substituted (6.5.2014) by [The Police Act 1997 (Criminal Records) (Amendment No. 2) Regulations 2014 (S.I. 2014/955)](https://www.legislation.gov.uk/uksi/2014/955), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/955/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2014/955/regulation/3/b)
 
-[^key-d1926da05a080ad40a8919663c362a70]: Textual amendment: Reg. 5B(1)(e)(i) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 44](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/44)
+[^c-d1926da05a080ad40a8919663c362a70]: Textual amendment: Reg. 5B(1)(e)(i) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 44](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/44)
 
-[^key-20a9aa9d10e2faf968b88bc93d91cf34]: Textual amendment: Reg. 5B(1)(e)(iva) inserted (2.4.2018) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2018 (S.I. 2018/48)](https://www.legislation.gov.uk/wsi/2018/48), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/48/regulation/1/2), [Sch. 1 para. 7(2)(a)](https://www.legislation.gov.uk/wsi/2018/48/schedule/1/paragraph/7/2/a)
+[^c-20a9aa9d10e2faf968b88bc93d91cf34]: Textual amendment: Reg. 5B(1)(e)(iva) inserted (2.4.2018) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2018 (S.I. 2018/48)](https://www.legislation.gov.uk/wsi/2018/48), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/48/regulation/1/2), [Sch. 1 para. 7(2)(a)](https://www.legislation.gov.uk/wsi/2018/48/schedule/1/paragraph/7/2/a)
 
-[^key-1a0962fc2e65fa45aa53466f6c4a4564]: Textual amendment: Reg. 5B(6)(ea) inserted (2.4.2018) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2018 (S.I. 2018/48)](https://www.legislation.gov.uk/wsi/2018/48), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/48/regulation/1/2), [Sch. 1 para. 7(2)(b)](https://www.legislation.gov.uk/wsi/2018/48/schedule/1/paragraph/7/2/b)
+[^c-1a0962fc2e65fa45aa53466f6c4a4564]: Textual amendment: Reg. 5B(6)(ea) inserted (2.4.2018) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2018 (S.I. 2018/48)](https://www.legislation.gov.uk/wsi/2018/48), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/48/regulation/1/2), [Sch. 1 para. 7(2)(b)](https://www.legislation.gov.uk/wsi/2018/48/schedule/1/paragraph/7/2/b)
 
-[^key-3356b82c4d8335171caacef01d1533a7]: Textual amendment: Words in reg. 5B(9)(b)(ii) substituted (1.9.2014) by [The Special Educational Needs (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/2103)](https://www.legislation.gov.uk/uksi/2014/2103), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2103/article/1), [9](https://www.legislation.gov.uk/uksi/2014/2103/article/9)
+[^c-3356b82c4d8335171caacef01d1533a7]: Textual amendment: Words in reg. 5B(9)(b)(ii) substituted (1.9.2014) by [The Special Educational Needs (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/2103)](https://www.legislation.gov.uk/uksi/2014/2103), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2103/article/1), [9](https://www.legislation.gov.uk/uksi/2014/2103/article/9)
 
-[^key-1314eb3c2d2825e34f690a4255524fa8]: Textual amendment: Words in [reg. 5B(9)(b)(ii)](https://www.legislation.gov.uk/uksi/2002/233/regulation/5B/9/b/ii) substituted (18.1.2022) by [The Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Consequential Amendments) (No. 3) Regulations 2021 (S.I. 2021/1457)](https://www.legislation.gov.uk/wsi/2021/1457), [regs. 1](https://www.legislation.gov.uk/wsi/2021/1457/regulation/1), [2(2)](https://www.legislation.gov.uk/wsi/2021/1457/regulation/2/2)
+[^c-1314eb3c2d2825e34f690a4255524fa8]: Textual amendment: Words in [reg. 5B(9)(b)(ii)](https://www.legislation.gov.uk/uksi/2002/233/regulation/5B/9/b/ii) substituted (18.1.2022) by [The Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Consequential Amendments) (No. 3) Regulations 2021 (S.I. 2021/1457)](https://www.legislation.gov.uk/wsi/2021/1457), [regs. 1](https://www.legislation.gov.uk/wsi/2021/1457/regulation/1), [2(2)](https://www.legislation.gov.uk/wsi/2021/1457/regulation/2/2)
 
-[^key-d2e82707589f1ab608fda5f2ebbc4a0a]: Textual amendment: Words in [reg. 5B(9)(b)(iii)](https://www.legislation.gov.uk/uksi/2002/233/regulation/5B/9/b/iii) substituted (18.1.2022) by [The Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Consequential Amendments) (No. 3) Regulations 2021 (S.I. 2021/1457)](https://www.legislation.gov.uk/wsi/2021/1457), [regs. 1](https://www.legislation.gov.uk/wsi/2021/1457/regulation/1), [2(3)](https://www.legislation.gov.uk/wsi/2021/1457/regulation/2/3)
+[^c-d2e82707589f1ab608fda5f2ebbc4a0a]: Textual amendment: Words in [reg. 5B(9)(b)(iii)](https://www.legislation.gov.uk/uksi/2002/233/regulation/5B/9/b/iii) substituted (18.1.2022) by [The Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Consequential Amendments) (No. 3) Regulations 2021 (S.I. 2021/1457)](https://www.legislation.gov.uk/wsi/2021/1457), [regs. 1](https://www.legislation.gov.uk/wsi/2021/1457/regulation/1), [2(3)](https://www.legislation.gov.uk/wsi/2021/1457/regulation/2/3)
 
-[^key-d2c8de20d7e15a0032b227064caf4f96]: Textual amendment: Words in reg. 5B(9)(h) inserted (1.4.2015) by [The Care Act 2014 (Consequential Amendments) (Secondary Legislation) Order 2015 (S.I. 2015/643)](https://www.legislation.gov.uk/uksi/2015/643), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/643/article/1/2), [Sch. para. 18](https://www.legislation.gov.uk/uksi/2015/643/schedule/paragraph/18) (with [art. 4](https://www.legislation.gov.uk/uksi/2015/643/article/4))
+[^c-d2c8de20d7e15a0032b227064caf4f96]: Textual amendment: Words in reg. 5B(9)(h) inserted (1.4.2015) by [The Care Act 2014 (Consequential Amendments) (Secondary Legislation) Order 2015 (S.I. 2015/643)](https://www.legislation.gov.uk/uksi/2015/643), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/643/article/1/2), [Sch. para. 18](https://www.legislation.gov.uk/uksi/2015/643/schedule/paragraph/18) (with [art. 4](https://www.legislation.gov.uk/uksi/2015/643/article/4))
 
-[^key-cadc169292a119447d149c826ba85afd]: Textual amendment: Reg. 5C inserted (2.12.2013) by [The Police Act 1997 (Criminal Records) (Amendment No. 2) Regulations 2013 (S.I. 2013/2669)](https://www.legislation.gov.uk/uksi/2013/2669), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2669/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2013/2669/regulation/2/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/2669/schedule)
+[^c-cadc169292a119447d149c826ba85afd]: Textual amendment: Reg. 5C inserted (2.12.2013) by [The Police Act 1997 (Criminal Records) (Amendment No. 2) Regulations 2013 (S.I. 2013/2669)](https://www.legislation.gov.uk/uksi/2013/2669), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2669/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2013/2669/regulation/2/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/2669/schedule)
 
-[^key-d33384fbdf3f23171dde3c06d6c7cdbe]: Textual amendment: Reg. 5C heading substituted (6.5.2014) by [The Police Act 1997 (Criminal Records) (Amendment No. 2) Regulations 2014 (S.I. 2014/955)](https://www.legislation.gov.uk/uksi/2014/955), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/955/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2014/955/regulation/4/a)
+[^c-d33384fbdf3f23171dde3c06d6c7cdbe]: Textual amendment: Reg. 5C heading substituted (6.5.2014) by [The Police Act 1997 (Criminal Records) (Amendment No. 2) Regulations 2014 (S.I. 2014/955)](https://www.legislation.gov.uk/uksi/2014/955), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/955/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2014/955/regulation/4/a)
 
-[^key-aaf68913c5aed320dde0848f4109e3a5]: Textual amendment: Words in reg. 5C substituted (6.5.2014) by [The Police Act 1997 (Criminal Records) (Amendment No. 2) Regulations 2014 (S.I. 2014/955)](https://www.legislation.gov.uk/uksi/2014/955), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/955/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2014/955/regulation/4/b)
+[^c-aaf68913c5aed320dde0848f4109e3a5]: Textual amendment: Words in reg. 5C substituted (6.5.2014) by [The Police Act 1997 (Criminal Records) (Amendment No. 2) Regulations 2014 (S.I. 2014/955)](https://www.legislation.gov.uk/uksi/2014/955), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/955/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2014/955/regulation/4/b)
 
-[^key-133434efd035491accbc885d02d03056]: Textual amendment: Reg. 5C(h) omitted (6.5.2014) by virtue of [The Police Act 1997 (Criminal Records) (Amendment No. 2) Regulations 2014 (S.I. 2014/955)](https://www.legislation.gov.uk/uksi/2014/955), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/955/regulation/1/1), [2(4)(c)](https://www.legislation.gov.uk/uksi/2014/955/regulation/4/c)
+[^c-133434efd035491accbc885d02d03056]: Textual amendment: Reg. 5C(h) omitted (6.5.2014) by virtue of [The Police Act 1997 (Criminal Records) (Amendment No. 2) Regulations 2014 (S.I. 2014/955)](https://www.legislation.gov.uk/uksi/2014/955), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/955/regulation/1/1), [2(4)(c)](https://www.legislation.gov.uk/uksi/2014/955/regulation/4/c)
 
-[^key-1e3c64af58d51fc51e1ec5049032dd6c]: Textual amendment: [Reg. 5C(ja)](https://www.legislation.gov.uk/uksi/2002/233/regulation/5C/ja) inserted (2.4.2018) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2018 (S.I. 2018/48)](https://www.legislation.gov.uk/wsi/2018/48), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/48/regulation/1/2), [Sch. 1 para. 7(3)](https://www.legislation.gov.uk/wsi/2018/48/schedule/1/paragraph/7/3)
+[^c-1e3c64af58d51fc51e1ec5049032dd6c]: Textual amendment: [Reg. 5C(ja)](https://www.legislation.gov.uk/uksi/2002/233/regulation/5C/ja) inserted (2.4.2018) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2018 (S.I. 2018/48)](https://www.legislation.gov.uk/wsi/2018/48), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/48/regulation/1/2), [Sch. 1 para. 7(3)](https://www.legislation.gov.uk/wsi/2018/48/schedule/1/paragraph/7/3)
 
-[^key-462554274f065df148b32c0bb79a55d9]: Textual amendment: Words in reg. 5C(k) substituted (3.4.2017) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/52)](https://www.legislation.gov.uk/wsi/2017/52), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/52/regulation/1/2), [Sch. 1 para. 3(2)](https://www.legislation.gov.uk/wsi/2017/52/schedule/1/paragraph/3/2)
+[^c-462554274f065df148b32c0bb79a55d9]: Textual amendment: Words in reg. 5C(k) substituted (3.4.2017) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/52)](https://www.legislation.gov.uk/wsi/2017/52), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/52/regulation/1/2), [Sch. 1 para. 3(2)](https://www.legislation.gov.uk/wsi/2017/52/schedule/1/paragraph/3/2)
 
-[^key-ced998c544c4cb7b3c9282fccf2c218e]: Textual amendment: Reg. 5C(m)-(o) inserted (1.9.2014) by [The Police Act 1997 (Criminal Records) (Amendment) (No. 3) Regulations 2014 (S.I. 2014/2122)](https://www.legislation.gov.uk/uksi/2014/2122), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/2122/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2014/2122/regulation/2/3)
+[^c-ced998c544c4cb7b3c9282fccf2c218e]: Textual amendment: Reg. 5C(m)-(o) inserted (1.9.2014) by [The Police Act 1997 (Criminal Records) (Amendment) (No. 3) Regulations 2014 (S.I. 2014/2122)](https://www.legislation.gov.uk/uksi/2014/2122), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/2122/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2014/2122/regulation/2/3)
 
-[^key-cbb98d91753063e6b37ca67030a4fdf8]: Textual amendment: Sum in reg. 6(1)(a) substituted (2.12.2024) by [The Police Act 1997 (Criminal Records) (Amendment) Regulations 2024 (S.I. 2024/1111)](https://www.legislation.gov.uk/uksi/2024/1111), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1111/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2024/1111/regulation/2/4/a)
+[^c-cbb98d91753063e6b37ca67030a4fdf8]: Textual amendment: Sum in reg. 6(1)(a) substituted (2.12.2024) by [The Police Act 1997 (Criminal Records) (Amendment) Regulations 2024 (S.I. 2024/1111)](https://www.legislation.gov.uk/uksi/2024/1111), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1111/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2024/1111/regulation/2/4/a)
 
-[^key-582dfb2fd5c88fe7e59f78456ee80342]: Textual amendment: Sum in reg. 6(1)(b) substituted (2.12.2024) by [The Police Act 1997 (Criminal Records) (Amendment) Regulations 2024 (S.I. 2024/1111)](https://www.legislation.gov.uk/uksi/2024/1111), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1111/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2024/1111/regulation/2/4/b)
+[^c-582dfb2fd5c88fe7e59f78456ee80342]: Textual amendment: Sum in reg. 6(1)(b) substituted (2.12.2024) by [The Police Act 1997 (Criminal Records) (Amendment) Regulations 2024 (S.I. 2024/1111)](https://www.legislation.gov.uk/uksi/2024/1111), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1111/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2024/1111/regulation/2/4/b)
 
-[^key-f264fd8da343de97186aefd752389b37]: Textual amendment: Reg. 8 revoked (12.10.2009) by [The Police Act 1997 (Criminal Records) (No. 2) Regulations 2009 (S.I. 2009/1882)](https://www.legislation.gov.uk/uksi/2009/1882), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1882/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2009/1882/regulation/4)
+[^c-f264fd8da343de97186aefd752389b37]: Textual amendment: Reg. 8 revoked (12.10.2009) by [The Police Act 1997 (Criminal Records) (No. 2) Regulations 2009 (S.I. 2009/1882)](https://www.legislation.gov.uk/uksi/2009/1882), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1882/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2009/1882/regulation/4)
 
-[^key-274a36cc1fcf3a1a1b24f5df75dc539c]: Textual amendment: Reg. 8A revoked (12.10.2009) by [The Police Act 1997 (Criminal Records) (No. 2) Regulations 2009 (S.I. 2009/1882)](https://www.legislation.gov.uk/uksi/2009/1882), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1882/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2009/1882/regulation/4)
+[^c-274a36cc1fcf3a1a1b24f5df75dc539c]: Textual amendment: Reg. 8A revoked (12.10.2009) by [The Police Act 1997 (Criminal Records) (No. 2) Regulations 2009 (S.I. 2009/1882)](https://www.legislation.gov.uk/uksi/2009/1882), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1882/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2009/1882/regulation/4)
 
-[^key-13028f66824efafe241d8bab34f39c5f]: Textual amendment: Reg. 9 substituted (1.4.2007) by [The Police Act 1997 (Criminal Records) (Amendment) Regulations 2007 (S.I. 2007/700)](https://www.legislation.gov.uk/uksi/2007/700), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/700/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2007/700/regulation/2)
+[^c-13028f66824efafe241d8bab34f39c5f]: Textual amendment: Reg. 9 substituted (1.4.2007) by [The Police Act 1997 (Criminal Records) (Amendment) Regulations 2007 (S.I. 2007/700)](https://www.legislation.gov.uk/uksi/2007/700), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/700/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2007/700/regulation/2)
 
-[^key-50804ec0275a45aab17daac6d90af3ee]: Textual amendment: Words in reg. 9 substituted (19.11.2012) by [The Police Act 1997 (Criminal Records) (Amendment No. 3) Regulations 2012 (S.I. 2012/2669)](https://www.legislation.gov.uk/uksi/2012/2669), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2669/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2012/2669/regulation/2)
+[^c-50804ec0275a45aab17daac6d90af3ee]: Textual amendment: Words in reg. 9 substituted (19.11.2012) by [The Police Act 1997 (Criminal Records) (Amendment No. 3) Regulations 2012 (S.I. 2012/2669)](https://www.legislation.gov.uk/uksi/2012/2669), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2669/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2012/2669/regulation/2)
 
-[^key-22a67e34d24453bab17687c5856c67e2]: Textual amendment: Words in reg. 9 substituted (10.3.2014) by [The Police Act 1997 (Criminal Records) (Amendment) Regulations 2014 (S.I. 2014/239)](https://www.legislation.gov.uk/uksi/2014/239), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/239/article/1/1), [reg. 2(4)(a)](https://www.legislation.gov.uk/uksi/2014/239/regulation/2/4/a)
+[^c-22a67e34d24453bab17687c5856c67e2]: Textual amendment: Words in reg. 9 substituted (10.3.2014) by [The Police Act 1997 (Criminal Records) (Amendment) Regulations 2014 (S.I. 2014/239)](https://www.legislation.gov.uk/uksi/2014/239), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/239/article/1/1), [reg. 2(4)(a)](https://www.legislation.gov.uk/uksi/2014/239/regulation/2/4/a)
 
-[^key-3ec37f256ef12cf99fcdf8b052ef29a3]: Textual amendment: Words in reg. 9 substituted (10.3.2014) by [The Police Act 1997 (Criminal Records) (Amendment) Regulations 2014 (S.I. 2014/239)](https://www.legislation.gov.uk/uksi/2014/239), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/239/article/1/1), [reg. 2(4)(b)](https://www.legislation.gov.uk/uksi/2014/239/regulation/2/4/b)
+[^c-3ec37f256ef12cf99fcdf8b052ef29a3]: Textual amendment: Words in reg. 9 substituted (10.3.2014) by [The Police Act 1997 (Criminal Records) (Amendment) Regulations 2014 (S.I. 2014/239)](https://www.legislation.gov.uk/uksi/2014/239), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/239/article/1/1), [reg. 2(4)(b)](https://www.legislation.gov.uk/uksi/2014/239/regulation/2/4/b)
 
-[^key-d12a7061a2b0b59ceea86287d5d9bca5]: Textual amendment: Reg. 10 revoked (10.9.2012) by [The Police Act 1997 (Criminal Records) (Amendment No. 2) Regulations 2012 (S.I. 2012/2114)](https://www.legislation.gov.uk/uksi/2012/2114), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/2114/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2012/2114/regulation/11)
+[^c-d12a7061a2b0b59ceea86287d5d9bca5]: Textual amendment: Reg. 10 revoked (10.9.2012) by [The Police Act 1997 (Criminal Records) (Amendment No. 2) Regulations 2012 (S.I. 2012/2114)](https://www.legislation.gov.uk/uksi/2012/2114), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/2114/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2012/2114/regulation/11)
 
-[^key-9e512f80cc59538885c335138c0ec42b]: Textual amendment: Words in reg. 11(1) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [78](https://www.legislation.gov.uk/uksi/2012/3006/article/78) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
+[^c-9e512f80cc59538885c335138c0ec42b]: Textual amendment: Words in reg. 11(1) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [78](https://www.legislation.gov.uk/uksi/2012/3006/article/78) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
 
-[^key-5e764c260abf02bbf594393fceb5f498]: Textual amendment: Words in reg. 11(1)(b) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [78](https://www.legislation.gov.uk/uksi/2012/3006/article/78) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
+[^c-5e764c260abf02bbf594393fceb5f498]: Textual amendment: Words in reg. 11(1)(b) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [78](https://www.legislation.gov.uk/uksi/2012/3006/article/78) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
 
-[^key-0038a0efbcea3aff0813e2b4fe07608f]: Textual amendment: Words in reg. 11(2)(2A) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [78](https://www.legislation.gov.uk/uksi/2012/3006/article/78) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
+[^c-0038a0efbcea3aff0813e2b4fe07608f]: Textual amendment: Words in reg. 11(2)(2A) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [78](https://www.legislation.gov.uk/uksi/2012/3006/article/78) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
 
-[^key-7c9fce3188a21e28452f34b574ac7920]: Textual amendment: Reg. 11(2)(b) substituted (1.4.2009) by [The Police Act 1997 (Criminal Records) Regulations 2009 (S.I. 2009/460)](https://www.legislation.gov.uk/uksi/2009/460), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/460/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2009/460/regulation/3/3)
+[^c-7c9fce3188a21e28452f34b574ac7920]: Textual amendment: Reg. 11(2)(b) substituted (1.4.2009) by [The Police Act 1997 (Criminal Records) Regulations 2009 (S.I. 2009/460)](https://www.legislation.gov.uk/uksi/2009/460), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/460/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2009/460/regulation/3/3)
 
-[^key-c3355e770843b8fa95f142bfc4a3a06f]: Textual amendment: Reg. 11(2A) inserted (1.4.2009) by [The Police Act 1997 (Criminal Records) Regulations 2009 (S.I. 2009/460)](https://www.legislation.gov.uk/uksi/2009/460), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/460/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2009/460/regulation/3/4)
+[^c-c3355e770843b8fa95f142bfc4a3a06f]: Textual amendment: Reg. 11(2A) inserted (1.4.2009) by [The Police Act 1997 (Criminal Records) Regulations 2009 (S.I. 2009/460)](https://www.legislation.gov.uk/uksi/2009/460), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/460/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2009/460/regulation/3/4)
 
-[^key-168a89fc408cc00439732f76e7656b29]: Textual amendment: Words in reg. 11(3)(4) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [78](https://www.legislation.gov.uk/uksi/2012/3006/article/78) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
+[^c-168a89fc408cc00439732f76e7656b29]: Textual amendment: Words in reg. 11(3)(4) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [78](https://www.legislation.gov.uk/uksi/2012/3006/article/78) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
 
 [^c9617881]: Marginal citation: [1984 c. 60](https://www.legislation.gov.uk/ukpga/1984/60).
 
-[^key-bde1fbc38f2471e4a3d97cd51f2afc4a]: Textual amendment: Reg. 12 inserted (1.9.2006) by [The Police Act 1997 (Criminal Records ) (Amendment No.2) Regulations 2006 (S.I. 2006/2181)](https://www.legislation.gov.uk/uksi/2006/2181), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/2181/regulation/1/2), [2(h)](https://www.legislation.gov.uk/uksi/2006/2181/regulation/2/h)
+[^c-bde1fbc38f2471e4a3d97cd51f2afc4a]: Textual amendment: Reg. 12 inserted (1.9.2006) by [The Police Act 1997 (Criminal Records ) (Amendment No.2) Regulations 2006 (S.I. 2006/2181)](https://www.legislation.gov.uk/uksi/2006/2181), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/2181/regulation/1/2), [2(h)](https://www.legislation.gov.uk/uksi/2006/2181/regulation/2/h)
 
-[^key-bbf59ccb91abb7df3a580deb5b616151]: Textual amendment: Word in reg. 12(1)(a) omitted (E.) (1.5.2012) by virtue of [The Alternative Provision Academies and 16 to 19 Academies (Consequential Amendments to Subordinate Legislation) (England) Order 2012 (S.I. 2012/979)](https://www.legislation.gov.uk/uksi/2012/979), [art. 1(b)](https://www.legislation.gov.uk/uksi/2012/979/article/1/b), [Sch. para. 11(3)(a)](https://www.legislation.gov.uk/uksi/2012/979/schedule/paragraph/11/3/a)
+[^c-bbf59ccb91abb7df3a580deb5b616151]: Textual amendment: Word in reg. 12(1)(a) omitted (E.) (1.5.2012) by virtue of [The Alternative Provision Academies and 16 to 19 Academies (Consequential Amendments to Subordinate Legislation) (England) Order 2012 (S.I. 2012/979)](https://www.legislation.gov.uk/uksi/2012/979), [art. 1(b)](https://www.legislation.gov.uk/uksi/2012/979/article/1/b), [Sch. para. 11(3)(a)](https://www.legislation.gov.uk/uksi/2012/979/schedule/paragraph/11/3/a)
 
-[^key-e99b0b8fbdd05384d7a6636eb306f642]: Textual amendment: Reg. 12(1)(aa) inserted (E.) (1.5.2012) by [The Alternative Provision Academies and 16 to 19 Academies (Consequential Amendments to Subordinate Legislation) (England) Order 2012 (S.I. 2012/979)](https://www.legislation.gov.uk/uksi/2012/979), [art. 1(b)](https://www.legislation.gov.uk/uksi/2012/979/article/1/b), [Sch. para. 11(3)(a)](https://www.legislation.gov.uk/uksi/2012/979/schedule/paragraph/11/3/a)
+[^c-e99b0b8fbdd05384d7a6636eb306f642]: Textual amendment: Reg. 12(1)(aa) inserted (E.) (1.5.2012) by [The Alternative Provision Academies and 16 to 19 Academies (Consequential Amendments to Subordinate Legislation) (England) Order 2012 (S.I. 2012/979)](https://www.legislation.gov.uk/uksi/2012/979), [art. 1(b)](https://www.legislation.gov.uk/uksi/2012/979/article/1/b), [Sch. para. 11(3)(a)](https://www.legislation.gov.uk/uksi/2012/979/schedule/paragraph/11/3/a)
 
-[^key-090ac30af1eeca6c94b4beb1dea75bcc]: Textual amendment: Reg. 12(1)(c) and word inserted (E.) (1.5.2012) by [The Alternative Provision Academies and 16 to 19 Academies (Consequential Amendments to Subordinate Legislation) (England) Order 2012 (S.I. 2012/979)](https://www.legislation.gov.uk/uksi/2012/979), [art. 1(b)](https://www.legislation.gov.uk/uksi/2012/979/article/1/b), [Sch. para. 11(3)(b)](https://www.legislation.gov.uk/uksi/2012/979/schedule/paragraph/11/3/b)
+[^c-090ac30af1eeca6c94b4beb1dea75bcc]: Textual amendment: Reg. 12(1)(c) and word inserted (E.) (1.5.2012) by [The Alternative Provision Academies and 16 to 19 Academies (Consequential Amendments to Subordinate Legislation) (England) Order 2012 (S.I. 2012/979)](https://www.legislation.gov.uk/uksi/2012/979), [art. 1(b)](https://www.legislation.gov.uk/uksi/2012/979/article/1/b), [Sch. para. 11(3)(b)](https://www.legislation.gov.uk/uksi/2012/979/schedule/paragraph/11/3/b)
 
-[^key-e4fbed97f97f524229869e8cad9ca8e4]: Textual amendment: Words in reg. 12(1) inserted (E.) (1.5.2012) by [The Alternative Provision Academies and 16 to 19 Academies (Consequential Amendments to Subordinate Legislation) (England) Order 2012 (S.I. 2012/979)](https://www.legislation.gov.uk/uksi/2012/979), [art. 1(b)](https://www.legislation.gov.uk/uksi/2012/979/article/1/b), [Sch. para. 11(3)(c)](https://www.legislation.gov.uk/uksi/2012/979/schedule/paragraph/11/3/c)
+[^c-e4fbed97f97f524229869e8cad9ca8e4]: Textual amendment: Words in reg. 12(1) inserted (E.) (1.5.2012) by [The Alternative Provision Academies and 16 to 19 Academies (Consequential Amendments to Subordinate Legislation) (England) Order 2012 (S.I. 2012/979)](https://www.legislation.gov.uk/uksi/2012/979), [art. 1(b)](https://www.legislation.gov.uk/uksi/2012/979/article/1/b), [Sch. para. 11(3)(c)](https://www.legislation.gov.uk/uksi/2012/979/schedule/paragraph/11/3/c)
 
-[^key-2214a9aa377ad543c7466bd7377d8539]: Textual amendment: Sch. 2 omitted in part (17.2.2003) by virtue of [The Police Act 1997 (Criminal Records)(Amendment No. 2) Regulations 2003 (S.I. 2003/137)](https://www.legislation.gov.uk/uksi/2003/137), [regs. 1](https://www.legislation.gov.uk/uksi/2003/137/regulation/1), [3](https://www.legislation.gov.uk/uksi/2003/137/regulation/3)
+[^c-2214a9aa377ad543c7466bd7377d8539]: Textual amendment: Sch. 2 omitted in part (17.2.2003) by virtue of [The Police Act 1997 (Criminal Records)(Amendment No. 2) Regulations 2003 (S.I. 2003/137)](https://www.legislation.gov.uk/uksi/2003/137), [regs. 1](https://www.legislation.gov.uk/uksi/2003/137/regulation/1), [3](https://www.legislation.gov.uk/uksi/2003/137/regulation/3)
 
-[^key-6ee82fdc302e1e5ec41c9a9079ecf736]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2002/233/schedule/3) omitted (6.4.2006) by virtue of [The Police Act 1997 (Criminal Records) (Amendment) Regulations 2006 (S.I. 2006/748)](https://www.legislation.gov.uk/uksi/2006/748), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/748/regulation/1/1), [2(d)](https://www.legislation.gov.uk/uksi/2006/748/regulation/2/d)
+[^c-6ee82fdc302e1e5ec41c9a9079ecf736]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2002/233/schedule/3) omitted (6.4.2006) by virtue of [The Police Act 1997 (Criminal Records) (Amendment) Regulations 2006 (S.I. 2006/748)](https://www.legislation.gov.uk/uksi/2006/748), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/748/regulation/1/1), [2(d)](https://www.legislation.gov.uk/uksi/2006/748/regulation/2/d)

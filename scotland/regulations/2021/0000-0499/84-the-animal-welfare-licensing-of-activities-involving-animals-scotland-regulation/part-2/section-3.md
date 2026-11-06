@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3. Licensing of activities involving animals[^key-0c62caf2d91a825f47d6bad072eb27b3]
+## 3. Licensing of activities involving animals[^c-0c62caf2d91a825f47d6bad072eb27b3]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ A person must not carry on a licensable activity without the authority of a lice
 
 ## Annotations
 
-[^key-0c62caf2d91a825f47d6bad072eb27b3]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2021/84/regulation/3) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
+[^c-0c62caf2d91a825f47d6bad072eb27b3]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2021/84/regulation/3) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)

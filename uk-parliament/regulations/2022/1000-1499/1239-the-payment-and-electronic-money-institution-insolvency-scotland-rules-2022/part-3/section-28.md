@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 28. Business of the initial meeting[^key-b1f4b7843d75b51eec8d1109bcd36f87]
+## 28. Business of the initial meeting[^c-b1f4b7843d75b51eec8d1109bcd36f87]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b1f4b7843d75b51eec8d1109bcd36f87]: Commencement: Rule 28 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-b1f4b7843d75b51eec8d1109bcd36f87]: Commencement: Rule 28 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

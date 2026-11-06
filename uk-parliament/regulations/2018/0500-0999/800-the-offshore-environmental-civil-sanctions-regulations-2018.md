@@ -56,13 +56,13 @@ In accordance with paragraph 2(2) of Schedule 2 to the European Communities Act 
 
 ## PART 1 — Preliminary
 
-### 1. Citation and commencement[^key-39cfbf0f2512f3c5d8a6498f4c937826]
+### 1. Citation and commencement[^c-39cfbf0f2512f3c5d8a6498f4c937826]
 
 (1) These Regulations may be cited as the Offshore Environmental Civil Sanctions Regulations 2018.
 
 (2) These Regulations come into force on 1st October 2018.
 
-### 2. Interpretation[^key-668481fd36a09d0f5b1c748069d179d5]
+### 2. Interpretation[^c-668481fd36a09d0f5b1c748069d179d5]
 
 In these Regulations—
 
@@ -73,7 +73,7 @@ In these Regulations—
   - (a) a permit within the meaning of the Offshore Chemicals Regulations 2002 [^c23327951] (authorisation to use or discharge an offshore chemical);
   - (b) a permit within the meaning of the Offshore Petroleum Activities (Oil Pollution Prevention and Control) Regulations 2005 [^c23327961](authorisation to discharge oil);
   - (c) a permit within the meaning of the Offshore Combustion Installations (Pollution Prevention and Control) Regulations 2013 [^c23327971](written permission to operate an offshore combustion installation);
-  - (d) the Secretary of State's agreement to the grant of consent pursuant to the Offshore Oil and Gas Exploration, Production, Unloading and Storage (Environmental Impact Assessment) Regulations 2020;[^key-baa1f0534e6f9b9474acf8ea242ada32]
+  - (d) the Secretary of State's agreement to the grant of consent pursuant to the Offshore Oil and Gas Exploration, Production, Unloading and Storage (Environmental Impact Assessment) Regulations 2020;[^c-baa1f0534e6f9b9474acf8ea242ada32]
 - (d)
 
   the Secretary of State's agreement to the grant of consent pursuant to the Offshore Oil and Gas Exploration, Production, Unloading and Storage (Environmental Impact Assessment) Regulations 2020;
@@ -81,13 +81,13 @@ In these Regulations—
 - “**variable monetary penalty**” has the meaning given in regulation 11(3);
 - “**VMP offence**” has the meaning given in regulation 11(2).
 
-### 3. Penalties may only be imposed in respect of acts or omissions occurring on or after 1st November 2018[^key-f58f7dfc8807b150421d30b7e628020d]
+### 3. Penalties may only be imposed in respect of acts or omissions occurring on or after 1st November 2018[^c-f58f7dfc8807b150421d30b7e628020d]
 
 The power to impose fixed and variable monetary penalties under these Regulations may be exercised only in relation to acts or omissions occurring on or after 1st November 2018.
 
 ## PART 2 — Fixed monetary penalties
 
-### 4. Fixed monetary penalties: power to impose[^key-4c8cf0e1e6b8f28c968ee52f791986c4]
+### 4. Fixed monetary penalties: power to impose[^c-4c8cf0e1e6b8f28c968ee52f791986c4]
 
 (1) If the Secretary of State is satisfied beyond reasonable doubt that a person has committed a FMP offence, the Secretary of State may, in accordance with this Part, impose a fixed monetary penalty on the person in relation to the offence.
 
@@ -98,7 +98,7 @@ The power to impose fixed and variable monetary penalties under these Regulation
 
 (3) A “**fixed monetary penalty**”, in relation to a FMP offence, is a requirement to pay to the Secretary of State a penalty of the amount set out in the corresponding entry in column 3 of that table.
 
-### 5. Fixed monetary penalties: duty to serve notice of intent[^key-458b280f797f32fc2d11ec9648465f89]
+### 5. Fixed monetary penalties: duty to serve notice of intent[^c-458b280f797f32fc2d11ec9648465f89]
 
 (1) This regulation applies where the Secretary of State proposes to impose a fixed monetary penalty on a person in relation to an act or omission constituting a FMP offence.
 
@@ -115,7 +115,7 @@ The power to impose fixed and variable monetary penalties under these Regulation
 
 (5) The person on whom the notice of intent is served may make written representations and objections to the Secretary of State in relation to the proposed imposition of the fixed monetary penalty within the period of 28 days beginning with the day on which the notice of intent is received.
 
-### 6. Fixed monetary penalties: content of notice of intent[^key-3540d291a46fc1ee957b869681799abe]
+### 6. Fixed monetary penalties: content of notice of intent[^c-3540d291a46fc1ee957b869681799abe]
 
 The notice of intent must—
 
@@ -125,7 +125,7 @@ The notice of intent must—
 - (d) state that the person on whom the notice of intent is served has the right to make written representations and objections to the Secretary of State in relation to the proposed imposition of the fixed monetary penalty within the period referred to in regulation 5(5) and include information about how representations and objections may be made; and
 - (e) include information as to the circumstances in which the Secretary of State may not impose the fixed monetary penalty.
 
-### 7. Fixed monetary penalties: decision to impose[^key-6e708c86d8c88431110f064996403b92]
+### 7. Fixed monetary penalties: decision to impose[^c-6e708c86d8c88431110f064996403b92]
 
 (1) This regulation applies where the person on whom the notice of intent was served does not discharge the person's liability for the fixed monetary penalty in accordance with regulation 5(4).
 
@@ -144,7 +144,7 @@ The notice of intent must—
 
 (7) The Secretary of State may at any time withdraw a final notice by giving notice in writing to the person on whom the final notice was served.
 
-### 8. Fixed monetary penalties: content of final notice[^key-20e9124eaf48f6046366d9b6993d1fa8]
+### 8. Fixed monetary penalties: content of final notice[^c-20e9124eaf48f6046366d9b6993d1fa8]
 
 The final notice must state the amount of the fixed monetary penalty and include information as to—
 
@@ -154,7 +154,7 @@ The final notice must state the amount of the fixed monetary penalty and include
 - (d) rights of appeal; and
 - (e) the consequences of non-payment.
 
-### 9. Fixed monetary penalties: appeals[^key-62c6852595f5bb2082c08c14a294cd6f]
+### 9. Fixed monetary penalties: appeals[^c-62c6852595f5bb2082c08c14a294cd6f]
 
 (1) A person on whom a final notice is served may appeal to the Tribunal in relation to the decision to impose the fixed monetary penalty on any of the following grounds—
 
@@ -175,7 +175,7 @@ The final notice must state the amount of the fixed monetary penalty and include
 - (b) set aside the decision to impose the fixed monetary penalty;
 - (c) award costs.
 
-### 10. Fixed monetary penalties: criminal proceedings and convictions[^key-3ae5b03f4702452141196ec5f3b9182d]
+### 10. Fixed monetary penalties: criminal proceedings and convictions[^c-3ae5b03f4702452141196ec5f3b9182d]
 
 (1) Where a notice of intent is served on a person under regulation 5—
 
@@ -186,7 +186,7 @@ The final notice must state the amount of the fixed monetary penalty and include
 
 ## PART 3 — Variable monetary penalties
 
-### 11. Variable monetary penalties: power to impose[^key-ed621129ae03b2cf1b8c769b417f2490]
+### 11. Variable monetary penalties: power to impose[^c-ed621129ae03b2cf1b8c769b417f2490]
 
 (1) If the Secretary of State is satisfied beyond reasonable doubt that a person has committed a VMP offence, the Secretary of State may, in accordance with this Part, impose a variable monetary penalty on the person in relation to the offence.
 
@@ -199,7 +199,7 @@ The final notice must state the amount of the fixed monetary penalty and include
 
 (4) The amount of any variable monetary penalty must not exceed £50,000.
 
-### 12. Variable monetary penalties: duty to serve notice of intent[^key-117e8753a917634ea0d7b2ee27b9641c]
+### 12. Variable monetary penalties: duty to serve notice of intent[^c-117e8753a917634ea0d7b2ee27b9641c]
 
 (1) This regulation applies where the Secretary of State proposes to impose a variable monetary penalty on a person in relation to an act or omission constituting a VMP offence.
 
@@ -216,7 +216,7 @@ The final notice must state the amount of the fixed monetary penalty and include
 
 (5) The person on whom the notice of intent is served may make written representations and objections to the Secretary of State in relation to the proposed imposition of the variable monetary penalty within the period of 35 days beginning with the day on which the notice of intent is received.
 
-### 13. Variable monetary penalties: content of notice of intent[^key-85262471a4ad9bb4cf40d41eb6bd04fb]
+### 13. Variable monetary penalties: content of notice of intent[^c-85262471a4ad9bb4cf40d41eb6bd04fb]
 
 The notice of intent must—
 
@@ -226,7 +226,7 @@ The notice of intent must—
 - (d) state that the person on whom the notice of intent is served has the right to make written representations and objections to the Secretary of State in relation to the proposed imposition of the variable monetary penalty within the period referred to in regulation 12(5) and include information about how representations and objections may be made; and
 - (e) include information as to the circumstances in which the Secretary of State may not impose the variable monetary penalty.
 
-### 14. Variable monetary penalties: decision to impose and to accept or reject undertaking[^key-0742513a0f879838afffdb6b5df58dff]
+### 14. Variable monetary penalties: decision to impose and to accept or reject undertaking[^c-0742513a0f879838afffdb6b5df58dff]
 
 (1) After the end of the period referred to in regulation 12(5) (period in which person may make representations and objections), the Secretary of State must—
 
@@ -249,7 +249,7 @@ The notice of intent must—
 
 (7) The Secretary of State may at any time withdraw a final notice by giving notice in writing to the person on whom the final notice was served.
 
-### 15. Variable monetary penalties: content of final notice[^key-bdc0e3f3bd9ad96c622650f9ff8f9321]
+### 15. Variable monetary penalties: content of final notice[^c-bdc0e3f3bd9ad96c622650f9ff8f9321]
 
 The final notice must state the amount of the variable monetary penalty and include information as to—
 
@@ -260,7 +260,7 @@ The final notice must state the amount of the variable monetary penalty and incl
 - (e) rights of appeal; and
 - (f) the consequences of non-payment.
 
-### 16. Variable monetary penalties: appeals[^key-d3180ef40b3ca7af99169f33a35722ca]
+### 16. Variable monetary penalties: appeals[^c-d3180ef40b3ca7af99169f33a35722ca]
 
 (1) A person on whom a final notice is served may appeal to the Tribunal in relation to the decision to impose the variable monetary penalty on any of the following grounds—
 
@@ -283,7 +283,7 @@ The final notice must state the amount of the variable monetary penalty and incl
 - (c) set aside the decision to impose the variable monetary penalty;
 - (d) award costs.
 
-### 17. Variable monetary penalties: criminal proceedings and convictions[^key-e4a08fe0cab1faad59e243b9a1c79f36]
+### 17. Variable monetary penalties: criminal proceedings and convictions[^c-e4a08fe0cab1faad59e243b9a1c79f36]
 
 (1) Where a variable monetary penalty is imposed on a person in relation to an offence, the person may not at any time be convicted of the offence in respect of the act or omission giving rise to the penalty.
 
@@ -292,7 +292,7 @@ The final notice must state the amount of the variable monetary penalty and incl
 - (a) no variable monetary penalty was imposed on the person in respect of the act or omission giving rise to the undertaking; and
 - (b) the person fails to comply with the undertaking.
 
-### 18. Non-compliance penalties: power to impose where undertaking not complied with[^key-9217b8b22ba3c461b619c83c7344c484]
+### 18. Non-compliance penalties: power to impose where undertaking not complied with[^c-9217b8b22ba3c461b619c83c7344c484]
 
 (1) This regulation applies where—
 
@@ -317,7 +317,7 @@ The final notice must state the amount of the variable monetary penalty and incl
 
 (7) The Secretary of State may at any time withdraw a non-compliance penalty notice by giving notice in writing to the person on whom the non-compliance penalty notice was served.
 
-### 19. Non-compliance penalties: appeals[^key-85081778c98734f415b69b0ffeb124ee]
+### 19. Non-compliance penalties: appeals[^c-85081778c98734f415b69b0ffeb124ee]
 
 (1) A person on whom a non-compliance penalty notice is served may appeal to the Tribunal against the decision to serve the notice on any of the following grounds—
 
@@ -337,7 +337,7 @@ The final notice must state the amount of the variable monetary penalty and incl
 
 ## PART 4 — Miscellaneous
 
-### 20. Guidance as to use of civil sanctions[^key-e737a887a0e2a15bf4d1232a80a9ec37]
+### 20. Guidance as to use of civil sanctions[^c-e737a887a0e2a15bf4d1232a80a9ec37]
 
 (1) The Secretary of State must before 1 November 2018 prepare and publish guidance about the Secretary of State's use of the powers to impose fixed monetary penalties, variable monetary penalties and non-compliance penalties.
 
@@ -358,7 +358,7 @@ The final notice must state the amount of the variable monetary penalty and incl
 
 (5) The Secretary of State must have regard to the guidance, or any revised guidance, in exercising the Secretary of State's functions under these Regulations.
 
-### 21. Publication of enforcement action[^key-8f339f2bbcdd13f6770d11c740468b25]
+### 21. Publication of enforcement action[^c-8f339f2bbcdd13f6770d11c740468b25]
 
 (1) The Secretary of State must from time to time publish a report specifying—
 
@@ -368,7 +368,7 @@ The final notice must state the amount of the variable monetary penalty and incl
 
 (2) But the Secretary of State is not required to include in the report anything that the Secretary of State thinks is not appropriate for publication.
 
-### 22. Service, etc. of notices[^key-074d13fc0e6062b153dc541e63f35350]
+### 22. Service, etc. of notices[^c-074d13fc0e6062b153dc541e63f35350]
 
 (1) Any notice that the Secretary of State must or may serve on or give to a person under these Regulations may be served or given in any of the following ways—
 
@@ -401,7 +401,7 @@ and for the purposes of this paragraph (except where the company or partnership 
 - “**address**”, in relation to electronic communications, means any number or address used for the purposes of such communications;
 - “**electronic communication**” has the same meaning as in the Electronic Communications Act 2000 [^c23328001];
 
-### 23. Recovery of payments[^key-80166dfd32b1b90fffe087b356659204]
+### 23. Recovery of payments[^c-80166dfd32b1b90fffe087b356659204]
 
 (1) In England, Wales and Northern Ireland the Secretary of State may recover any fixed monetary penalty, variable monetary penalty or non-compliance penalty imposed under these Regulations as if payable under a court order.
 
@@ -417,7 +417,7 @@ Department for Business, Energy and Industrial Strategy
 
 Regulations 4(2), 4(3) and 11(2)
 
-**1.**[^key-b1391d8846d71546b1a403eaf878e42d] The Merchant Shipping (Oil Pollution Preparedness, Response and Co-operation Convention) Regulations 1998 [^c23328011].
+**1.**[^c-b1391d8846d71546b1a403eaf878e42d] The Merchant Shipping (Oil Pollution Preparedness, Response and Co-operation Convention) Regulations 1998 [^c23328011].
 
 | *(1)**Provision of the above* | *(2)**Fixed monetary penalty* | *(3)**Amount of fixed monetary penalty* | *(4)**Variable monetary penalty* |
 | --- | --- | --- | --- |
@@ -428,7 +428,7 @@ Regulations 4(2), 4(3) and 11(2)
 | regulation 7(3) | Yes | £1,000 | Yes |
 | regulation 7(4) | Yes | £1,000 | Yes |
 
-**2.**[^key-0cd906004b81093f92f0859633acdbe5] The Offshore Chemicals Regulations 2002.
+**2.**[^c-0cd906004b81093f92f0859633acdbe5] The Offshore Chemicals Regulations 2002.
 
 | *(1)**Provision of the above* | *(2)**Fixed monetary penalty* | *(3)**Amount of fixed monetary penalty* | *(4)**Variable monetary penalty* |
 | --- | --- | --- | --- |
@@ -442,14 +442,14 @@ Regulations 4(2), 4(3) and 11(2)
 | regulation 18(1)(g) | Yes | £1,000 | – |
 | regulation 18(1)(h) | Yes | £2,500 | Yes |
 
-**3.**[^key-5eaa34f09e0b0f6fe167b9c38341ec92] The Offshore Installations (Emergency Pollution Control) Regulations 2002 [^c23328021].
+**3.**[^c-5eaa34f09e0b0f6fe167b9c38341ec92] The Offshore Installations (Emergency Pollution Control) Regulations 2002 [^c23328021].
 
 | *(1)**Provision of the above* | *(2)**Fixed monetary penalty* | *(3)**Amount of fixed monetary penalty* | *(4)**Variable monetary penalty* |
 | --- | --- | --- | --- |
 | regulation 5(1) | Yes | £2,500 | Yes |
 | regulation 5(2) | Yes | £1,000 | – |
 
-**4.**[^key-0aa853f7501ff130c1e4824452da969f] The Offshore Petroleum Activities (Oil Pollution Prevention and Control) Regulations 2005.
+**4.**[^c-0aa853f7501ff130c1e4824452da969f] The Offshore Petroleum Activities (Oil Pollution Prevention and Control) Regulations 2005.
 
 | *(1)**Provision of the above* | *(2)**Fixed monetary penalty* | *(3)**Amount of fixed monetary penalty* | *(4)**Variable monetary penalty* |
 | --- | --- | --- | --- |
@@ -462,7 +462,7 @@ Regulations 4(2), 4(3) and 11(2)
 | regulation 16(1)(f) | Yes | £1,000 | – |
 | regulation 16(1)(g) | Yes | £1,000 | – |
 
-**5.**[^key-7c6252352aaae512394b707a30d79331] The Offshore Combustion Installations (Pollution Prevention and Control) Regulations 2013.
+**5.**[^c-7c6252352aaae512394b707a30d79331] The Offshore Combustion Installations (Pollution Prevention and Control) Regulations 2013.
 
 | *(1)**Provision of the above* | *(2)**Fixed monetary penalty* | *(3)**Amount of fixed monetary penalty* | *(4)**Variable monetary penalty* |
 | --- | --- | --- | --- |
@@ -474,7 +474,7 @@ Regulations 4(2), 4(3) and 11(2)
 | regulation 34(2)(d) | Yes | £1,000 | – |
 | regulation 34(2)(e) | Yes | £1,000 | – |
 
-**6.**[^key-dc805f7430aa862c9270da757c593e61] The Offshore Oil and Gas Exploration, Production, Unloading and Storage (Environmental Impact Assessment) Regulations 2020
+**6.**[^c-dc805f7430aa862c9270da757c593e61] The Offshore Oil and Gas Exploration, Production, Unloading and Storage (Environmental Impact Assessment) Regulations 2020
 
 | *(1)* | *(2)* | *(3)* | *(4)* |
 | --- | --- | --- | --- |
@@ -545,9 +545,9 @@ An impact assessment has not been produced for this instrument as no significant
 
 [^c23327941]: Marginal citation: See article 2(a) of [S.I. 2008/301](https://www.legislation.gov.uk/uksi/2008/301).
 
-[^key-39cfbf0f2512f3c5d8a6498f4c937826]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2018/800/regulation/1) in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/800/regulation/1/2)
+[^c-39cfbf0f2512f3c5d8a6498f4c937826]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2018/800/regulation/1) in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/800/regulation/1/2)
 
-[^key-668481fd36a09d0f5b1c748069d179d5]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2018/800/regulation/2) in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/800/regulation/1/2)
+[^c-668481fd36a09d0f5b1c748069d179d5]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2018/800/regulation/2) in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/800/regulation/1/2)
 
 [^c23327951]: Marginal citation: [S.I. 2002/1355](https://www.legislation.gov.uk/uksi/2002/1355); relevant amending instruments are [S.I. 2005/2055](https://www.legislation.gov.uk/uksi/2005/2055) and 2011/982. “Permit” is defined in regulation 2(1).
 
@@ -555,68 +555,68 @@ An impact assessment has not been produced for this instrument as no significant
 
 [^c23327971]: Marginal citation: [S.I. 2013/971](https://www.legislation.gov.uk/uksi/2013/971). “Permit” is defined in regulation 2(1).
 
-[^key-baa1f0534e6f9b9474acf8ea242ada32]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2018/800/regulation/2) inserted (31.12.2020 immediately before 11 p.m.) by [The Offshore Oil and Gas Exploration, Production, Unloading and Storage (Environmental Impact Assessment) Regulations 2020 (S.I. 2020/1497)](https://www.legislation.gov.uk/uksi/2020/1497), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1), [27(2)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/27/2) (with [reg. 1(2)-(6)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2020/1497/regulation/20), [29](https://www.legislation.gov.uk/uksi/2020/1497/regulation/29))
+[^c-baa1f0534e6f9b9474acf8ea242ada32]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2018/800/regulation/2) inserted (31.12.2020 immediately before 11 p.m.) by [The Offshore Oil and Gas Exploration, Production, Unloading and Storage (Environmental Impact Assessment) Regulations 2020 (S.I. 2020/1497)](https://www.legislation.gov.uk/uksi/2020/1497), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1), [27(2)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/27/2) (with [reg. 1(2)-(6)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2020/1497/regulation/20), [29](https://www.legislation.gov.uk/uksi/2020/1497/regulation/29))
 
 [^c23327981]: Marginal citation: The First-tier Tribunal was established by section 3(1) of the [Tribunals, Courts and Enforcement Act 2007 (c.15)](https://www.legislation.gov.uk/ukpga/2007/15).
 
-[^key-f58f7dfc8807b150421d30b7e628020d]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2018/800/regulation/3) in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/800/regulation/1/2)
+[^c-f58f7dfc8807b150421d30b7e628020d]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2018/800/regulation/3) in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/800/regulation/1/2)
 
-[^key-4c8cf0e1e6b8f28c968ee52f791986c4]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2018/800/regulation/4) in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/800/regulation/1/2)
+[^c-4c8cf0e1e6b8f28c968ee52f791986c4]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2018/800/regulation/4) in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/800/regulation/1/2)
 
-[^key-458b280f797f32fc2d11ec9648465f89]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2018/800/regulation/5) in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/800/regulation/1/2)
+[^c-458b280f797f32fc2d11ec9648465f89]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2018/800/regulation/5) in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/800/regulation/1/2)
 
-[^key-3540d291a46fc1ee957b869681799abe]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2018/800/regulation/6) in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/800/regulation/1/2)
+[^c-3540d291a46fc1ee957b869681799abe]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2018/800/regulation/6) in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/800/regulation/1/2)
 
-[^key-6e708c86d8c88431110f064996403b92]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2018/800/regulation/7) in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/800/regulation/1/2)
+[^c-6e708c86d8c88431110f064996403b92]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2018/800/regulation/7) in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/800/regulation/1/2)
 
-[^key-20e9124eaf48f6046366d9b6993d1fa8]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2018/800/regulation/8) in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/800/regulation/1/2)
+[^c-20e9124eaf48f6046366d9b6993d1fa8]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2018/800/regulation/8) in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/800/regulation/1/2)
 
-[^key-62c6852595f5bb2082c08c14a294cd6f]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2018/800/regulation/9) in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/800/regulation/1/2)
+[^c-62c6852595f5bb2082c08c14a294cd6f]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2018/800/regulation/9) in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/800/regulation/1/2)
 
-[^key-3ae5b03f4702452141196ec5f3b9182d]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2018/800/regulation/10) in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/800/regulation/1/2)
+[^c-3ae5b03f4702452141196ec5f3b9182d]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2018/800/regulation/10) in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/800/regulation/1/2)
 
-[^key-ed621129ae03b2cf1b8c769b417f2490]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2018/800/regulation/11) in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/800/regulation/1/2)
+[^c-ed621129ae03b2cf1b8c769b417f2490]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2018/800/regulation/11) in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/800/regulation/1/2)
 
-[^key-117e8753a917634ea0d7b2ee27b9641c]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2018/800/regulation/12) in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/800/regulation/1/2)
+[^c-117e8753a917634ea0d7b2ee27b9641c]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2018/800/regulation/12) in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/800/regulation/1/2)
 
-[^key-85262471a4ad9bb4cf40d41eb6bd04fb]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2018/800/regulation/13) in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/800/regulation/1/2)
+[^c-85262471a4ad9bb4cf40d41eb6bd04fb]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2018/800/regulation/13) in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/800/regulation/1/2)
 
-[^key-0742513a0f879838afffdb6b5df58dff]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2018/800/regulation/14) in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/800/regulation/1/2)
+[^c-0742513a0f879838afffdb6b5df58dff]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2018/800/regulation/14) in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/800/regulation/1/2)
 
-[^key-bdc0e3f3bd9ad96c622650f9ff8f9321]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2018/800/regulation/15) in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/800/regulation/1/2)
+[^c-bdc0e3f3bd9ad96c622650f9ff8f9321]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2018/800/regulation/15) in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/800/regulation/1/2)
 
-[^key-d3180ef40b3ca7af99169f33a35722ca]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2018/800/regulation/16) in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/800/regulation/1/2)
+[^c-d3180ef40b3ca7af99169f33a35722ca]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2018/800/regulation/16) in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/800/regulation/1/2)
 
-[^key-e4a08fe0cab1faad59e243b9a1c79f36]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2018/800/regulation/17) in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/800/regulation/1/2)
+[^c-e4a08fe0cab1faad59e243b9a1c79f36]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2018/800/regulation/17) in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/800/regulation/1/2)
 
-[^key-9217b8b22ba3c461b619c83c7344c484]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2018/800/regulation/18) in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/800/regulation/1/2)
+[^c-9217b8b22ba3c461b619c83c7344c484]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2018/800/regulation/18) in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/800/regulation/1/2)
 
-[^key-85081778c98734f415b69b0ffeb124ee]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2018/800/regulation/19) in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/800/regulation/1/2)
+[^c-85081778c98734f415b69b0ffeb124ee]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2018/800/regulation/19) in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/800/regulation/1/2)
 
-[^key-e737a887a0e2a15bf4d1232a80a9ec37]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2018/800/regulation/20) in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/800/regulation/1/2)
+[^c-e737a887a0e2a15bf4d1232a80a9ec37]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2018/800/regulation/20) in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/800/regulation/1/2)
 
-[^key-8f339f2bbcdd13f6770d11c740468b25]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2018/800/regulation/21) in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/800/regulation/1/2)
+[^c-8f339f2bbcdd13f6770d11c740468b25]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2018/800/regulation/21) in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/800/regulation/1/2)
 
-[^key-074d13fc0e6062b153dc541e63f35350]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2018/800/regulation/22) in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/800/regulation/1/2)
+[^c-074d13fc0e6062b153dc541e63f35350]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2018/800/regulation/22) in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/800/regulation/1/2)
 
 [^c23327991]: Marginal citation: [1978 c.30](https://www.legislation.gov.uk/ukpga/1978/30).
 
 [^c23328001]: Marginal citation: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7). The definition of “electronic communication” is in section 15(1). The definition was amended by paragraph 158 of Schedule 17 to the [Communications Act 2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-80166dfd32b1b90fffe087b356659204]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2018/800/regulation/23) in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/800/regulation/1/2)
+[^c-80166dfd32b1b90fffe087b356659204]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2018/800/regulation/23) in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/800/regulation/1/2)
 
-[^key-b1391d8846d71546b1a403eaf878e42d]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2018/800/schedule/paragraph/1) in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/800/regulation/1/2)
+[^c-b1391d8846d71546b1a403eaf878e42d]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2018/800/schedule/paragraph/1) in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/800/regulation/1/2)
 
 [^c23328011]: Marginal citation: [S.I. 1998/1056](https://www.legislation.gov.uk/uksi/1998/1056), amended by [S.I. 2015/386](https://www.legislation.gov.uk/uksi/2015/386); there are other amending instruments, but none is relevant.
 
-[^key-0cd906004b81093f92f0859633acdbe5]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2018/800/schedule/paragraph/2) in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/800/regulation/1/2)
+[^c-0cd906004b81093f92f0859633acdbe5]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2018/800/schedule/paragraph/2) in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/800/regulation/1/2)
 
-[^key-5eaa34f09e0b0f6fe167b9c38341ec92]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2018/800/schedule/paragraph/3) in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/800/regulation/1/2)
+[^c-5eaa34f09e0b0f6fe167b9c38341ec92]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2018/800/schedule/paragraph/3) in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/800/regulation/1/2)
 
 [^c23328021]: Marginal citation: [S.I. 2002/1861](https://www.legislation.gov.uk/uksi/2002/1861), amended by [S.I. 2015/664](https://www.legislation.gov.uk/uksi/2015/664); there is another amending instrument, but it is not relevant.
 
-[^key-0aa853f7501ff130c1e4824452da969f]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2018/800/schedule/paragraph/4) in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/800/regulation/1/2)
+[^c-0aa853f7501ff130c1e4824452da969f]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2018/800/schedule/paragraph/4) in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/800/regulation/1/2)
 
-[^key-7c6252352aaae512394b707a30d79331]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2018/800/schedule/paragraph/5) in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/800/regulation/1/2)
+[^c-7c6252352aaae512394b707a30d79331]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2018/800/schedule/paragraph/5) in force at 1.10.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/800/regulation/1/2)
 
-[^key-dc805f7430aa862c9270da757c593e61]: Textual amendment: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2018/800/schedule/paragraph/6) inserted (31.12.2020 immediately before 11 p.m.) by [The Offshore Oil and Gas Exploration, Production, Unloading and Storage (Environmental Impact Assessment) Regulations 2020 (S.I. 2020/1497)](https://www.legislation.gov.uk/uksi/2020/1497), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1), [27(3)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/27/3) (with [reg. 1(2)-(6)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2020/1497/regulation/20), [29](https://www.legislation.gov.uk/uksi/2020/1497/regulation/29))
+[^c-dc805f7430aa862c9270da757c593e61]: Textual amendment: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2018/800/schedule/paragraph/6) inserted (31.12.2020 immediately before 11 p.m.) by [The Offshore Oil and Gas Exploration, Production, Unloading and Storage (Environmental Impact Assessment) Regulations 2020 (S.I. 2020/1497)](https://www.legislation.gov.uk/uksi/2020/1497), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1), [27(3)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/27/3) (with [reg. 1(2)-(6)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2020/1497/regulation/20), [29](https://www.legislation.gov.uk/uksi/2020/1497/regulation/29))

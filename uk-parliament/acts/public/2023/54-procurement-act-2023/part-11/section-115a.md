@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115A. Application of this Act where a devolved Scottish authority carries out procurement under a reserved procurement arrangement etc.[^key-e17c2ec2bc625494fb4d7ededa16e868]
+## 115A. Application of this Act where a devolved Scottish authority carries out procurement under a reserved procurement arrangement etc.[^c-e17c2ec2bc625494fb4d7ededa16e868]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e17c2ec2bc625494fb4d7ededa16e868]: Textual amendment: [S. 115A](https://www.legislation.gov.uk/ukpga/2023/54/section/115A) inserted (24.2.2025) by [The Procurement Regulations 2024 (S.I. 2024/692)](https://www.legislation.gov.uk/uksi/2024/692), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/692/regulation/1/2), [47(3)](https://www.legislation.gov.uk/uksi/2024/692/regulation/47/3); [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
+[^c-e17c2ec2bc625494fb4d7ededa16e868]: Textual amendment: [S. 115A](https://www.legislation.gov.uk/ukpga/2023/54/section/115A) inserted (24.2.2025) by [The Procurement Regulations 2024 (S.I. 2024/692)](https://www.legislation.gov.uk/uksi/2024/692), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/692/regulation/1/2), [47(3)](https://www.legislation.gov.uk/uksi/2024/692/regulation/47/3); [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))

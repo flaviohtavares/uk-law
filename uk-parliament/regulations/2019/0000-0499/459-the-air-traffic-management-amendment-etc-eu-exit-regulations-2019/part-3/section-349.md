@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 349. Further amendment of Commission Implementing Regulation (EU) 2015/310[^key-cd8b886afc3a8b9278a2a36b050dcee3]
+## 349. Further amendment of Commission Implementing Regulation (EU) 2015/310[^c-cd8b886afc3a8b9278a2a36b050dcee3]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ After Article 3 (entry into force) omit the sentence which begins “This Regula
 
 ## Annotations
 
-[^key-cd8b886afc3a8b9278a2a36b050dcee3]: Commencement: Reg. 349 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-cd8b886afc3a8b9278a2a36b050dcee3]: Commencement: Reg. 349 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

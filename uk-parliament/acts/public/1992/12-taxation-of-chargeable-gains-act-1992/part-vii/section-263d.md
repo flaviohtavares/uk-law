@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 263D. Gains accruing to persons paying manufactured dividends[^key-e431175cb55a04fa7d2edb13772f7eaf]
+## 263D. Gains accruing to persons paying manufactured dividends[^c-e431175cb55a04fa7d2edb13772f7eaf]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e431175cb55a04fa7d2edb13772f7eaf]: Textual amendment: S. 263D omitted (1.1.2014) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 29 paras. 6](https://www.legislation.gov.uk/ukpga/2013/29/schedule/29/paragraph/6), 52
+[^c-e431175cb55a04fa7d2edb13772f7eaf]: Textual amendment: S. 263D omitted (1.1.2014) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 29 paras. 6](https://www.legislation.gov.uk/ukpga/2013/29/schedule/29/paragraph/6), 52

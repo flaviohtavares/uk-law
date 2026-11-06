@@ -44,13 +44,13 @@ The Department for Communities makes the following Regulations in exercise of th
 
 The Regulations are made with the consent of the Department of Finance[^f00005].
 
-## 1. Citation, commencement and interpretation[^key-55b014d5fca6b977f56d4a178525277a]
+## 1. Citation, commencement and interpretation[^c-55b014d5fca6b977f56d4a178525277a]
 
 (1) These Regulations may be cited as the Housing Benefit (Abolition of the Family Premium and date of claim) (Amendment) Regulations (Northern Ireland) 2016 and come into operation on 5<sup>th</sup> September 2016.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00006] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment to the Discretionary Financial Assistance Regulations[^key-bdcebce9f699ecc180196fbf525166eb]
+## 2. Amendment to the Discretionary Financial Assistance Regulations[^c-bdcebce9f699ecc180196fbf525166eb]
 
 (1) The Discretionary Financial Assistance Regulations (Northern Ireland) 2001[^f00007] are amended in accordance with paragraphs (2) to (4)—
 
@@ -76,7 +76,7 @@ The Regulations are made with the consent of the Department of Finance[^f00005].
 
 .
 
-## 3. Abolition of the family premium[^key-6ec4566e5b923950046f7754d1726473]
+## 3. Abolition of the family premium[^c-6ec4566e5b923950046f7754d1726473]
 
 (1) The Housing Benefit Regulations (Northern Ireland) 2006[^f00009] are amended as follows—
 
@@ -101,11 +101,11 @@ The Regulations are made with the consent of the Department of Finance[^f00005].
   ; and
 - (d) in Schedule 6 (amounts to be disregarded in the calculation of income other than earnings) in paragraph 21(1) for “Where a claimant’s applicable amount includes an amount by way of family premium,” substitute “Where a claimant’s family includes at least one child or young person,”.
 
-## 4. Shortening of the date from which a claim may be treated as made[^key-efeacaa4c12f05e2340c9dc9b805c264]
+## 4. Shortening of the date from which a claim may be treated as made[^c-efeacaa4c12f05e2340c9dc9b805c264]
 
 In regulation 81(12A) (time and manner in which claims are to be made)[^f00012] of the Housing Benefit Regulations (Northern Ireland) 2006 in sub-paragraphs (b) and (c) for “6 months” substitute “1 month”.
 
-## 5. Transitional provision[^key-ce532228bbab74421660207ffe948e18]
+## 5. Transitional provision[^c-ce532228bbab74421660207ffe948e18]
 
 (1) Subject to paragraph (2), regulation 3 (except in so far as it relates to the amendment to regulation 20(1)(d) of the Housing Benefit (Persons who have attained the age for state pension credit) Regulations (Northern Ireland) 2006) does not apply to a person who, on the 4th September 2016, is entitled to housing benefit—
 
@@ -165,17 +165,17 @@ These Regulations make only provision corresponding to provision contained in Re
 
 [^f00005]: Footnote: *See* section 171(6A) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 as inserted by Article 3(3) of the Social Security (Amendment) (Northern Ireland) Order 1993 ([S.I. 1993/1579 (N.I. 8)](https://www.legislation.gov.uk/nisi/1993/1579)); *see also* Article 6(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481) and section 1(4) of the Departments Act (Northern Ireland) 2016
 
-[^key-55b014d5fca6b977f56d4a178525277a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2016/310/regulation/1) in operation at 5.9.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/310/regulation/1/1)
+[^c-55b014d5fca6b977f56d4a178525277a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2016/310/regulation/1) in operation at 5.9.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/310/regulation/1/1)
 
 [^f00006]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-bdcebce9f699ecc180196fbf525166eb]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2016/310/regulation/2) in operation at 5.9.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/310/regulation/1/1)
+[^c-bdcebce9f699ecc180196fbf525166eb]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2016/310/regulation/2) in operation at 5.9.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/310/regulation/1/1)
 
 [^f00007]: Footnote: [S.R. 2001 No. 216](https://www.legislation.gov.uk/nisr/2001/216)
 
 [^f00008]: Footnote: [S.I. 1992/1725 (N.I. 15)](https://www.legislation.gov.uk/nisi/1992/1725)
 
-[^key-6ec4566e5b923950046f7754d1726473]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2016/310/regulation/3) in operation at 5.9.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/310/regulation/1/1)
+[^c-6ec4566e5b923950046f7754d1726473]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2016/310/regulation/3) in operation at 5.9.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/310/regulation/1/1)
 
 [^f00009]: Footnote: [S.R. 2006 No. 405](https://www.legislation.gov.uk/nisr/2006/405); relevant amending Regulations are [S.R. 2008 No. 179](https://www.legislation.gov.uk/nisr/2008/179) and [S.R. 2011 No. 136](https://www.legislation.gov.uk/nisr/2011/136)
 
@@ -183,10 +183,10 @@ These Regulations make only provision corresponding to provision contained in Re
 
 [^f00011]: Footnote: [S.R. 2006 No. 406](https://www.legislation.gov.uk/nisr/2006/406).
 
-[^key-efeacaa4c12f05e2340c9dc9b805c264]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2016/310/regulation/4) in operation at 5.9.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/310/regulation/1/1)
+[^c-efeacaa4c12f05e2340c9dc9b805c264]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2016/310/regulation/4) in operation at 5.9.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/310/regulation/1/1)
 
 [^f00012]: Footnote: Paragraph (12A) was substituted by regulation 4(3) of [S.R. 2011 No. 136](https://www.legislation.gov.uk/nisr/2011/136)
 
-[^key-ce532228bbab74421660207ffe948e18]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2016/310/regulation/5) in operation at 5.9.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/310/regulation/1/1)
+[^c-ce532228bbab74421660207ffe948e18]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2016/310/regulation/5) in operation at 5.9.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/310/regulation/1/1)
 
 [^f00013]: Footnote: “Family” is defined in section 133(1) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 and amended by para.99(2) of Sch.24 to the Civil Partnership Act [2004 (c.33)](https://www.legislation.gov.uk/ukpga/2004/33)

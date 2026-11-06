@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 3. Amendments to objectives in the Energy Order[^key-b53e356a2bca297fc1cfa4e1999cf142]
+## 3. Amendments to objectives in the Energy Order[^c-b53e356a2bca297fc1cfa4e1999cf142]
 
 *Extent: N.I.*
 
 In Article 12(3) of the Energy Order, after “the Authority shall have regard to” there shall be inserted “the need to protect”.
 
-**4.**[^key-6b699f70234dd30690857f03ef3caf15] In Article 14(3) of the Energy Order, after “the Authority shall have regard to” there shall be inserted “the need to protect”.
+**4.**[^c-6b699f70234dd30690857f03ef3caf15] In Article 14(3) of the Energy Order, after “the Authority shall have regard to” there shall be inserted “the need to protect”.
 
 ## Annotations
 
-[^key-b53e356a2bca297fc1cfa4e1999cf142]: Commencement: Reg. 3 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
+[^c-b53e356a2bca297fc1cfa4e1999cf142]: Commencement: Reg. 3 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
 
-[^key-6b699f70234dd30690857f03ef3caf15]: Commencement: Reg. 4 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
+[^c-6b699f70234dd30690857f03ef3caf15]: Commencement: Reg. 4 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 109. Duty to inspect registered institution on direction of Secretary of State[^key-956d9fda41695fd6a45c1068e9d15a3c]
+## 109. Duty to inspect registered institution on direction of Secretary of State[^c-956d9fda41695fd6a45c1068e9d15a3c]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-956d9fda41695fd6a45c1068e9d15a3c]: Commencement: [S. 109](https://www.legislation.gov.uk/ukpga/2008/25/section/109) in force at 5.1.2015 by [S.I. 2014/3364](https://www.legislation.gov.uk/uksi/2014/3364), [art. 2(f)](https://www.legislation.gov.uk/uksi/2014/3364/article/2/f) (with [art. 5](https://www.legislation.gov.uk/uksi/2014/3364/article/5))
+[^c-956d9fda41695fd6a45c1068e9d15a3c]: Commencement: [S. 109](https://www.legislation.gov.uk/ukpga/2008/25/section/109) in force at 5.1.2015 by [S.I. 2014/3364](https://www.legislation.gov.uk/uksi/2014/3364), [art. 2(f)](https://www.legislation.gov.uk/uksi/2014/3364/article/2/f) (with [art. 5](https://www.legislation.gov.uk/uksi/2014/3364/article/5))

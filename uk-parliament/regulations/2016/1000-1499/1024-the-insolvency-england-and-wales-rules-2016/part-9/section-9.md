@@ -39,9 +39,9 @@ In this Part the expression “debtor's family” has the same meaning in relati
 (3) In paragraph (1)(b) “**loan**” means a loan made under—
 
 - (a) regulations made under section 22(1) of the Teaching and Higher Education Act 1998 [^c23176351]; or
-- (b) the Education (Student Loans) Act 1990, or that Act as it continues in force by virtue of any savings made, in connection with its repeal by the Teaching and Higher Education Act 1998 [^c23176361], by an order made under section 46(4) of that Act; [^key-f30162b5585f45915c07b2c86724a597]...
+- (b) the Education (Student Loans) Act 1990, or that Act as it continues in force by virtue of any savings made, in connection with its repeal by the Teaching and Higher Education Act 1998 [^c23176361], by an order made under section 46(4) of that Act; [^c-f30162b5585f45915c07b2c86724a597]...
 
-and includes any interest on the loan and any penalties or charges incurred in connection with it.[^key-10cf500547c269b33f8b990e9994e246]
+and includes any interest on the loan and any penalties or charges incurred in connection with it.[^c-10cf500547c269b33f8b990e9994e246]
 
 ## 9.3. Application for a debt relief order: information required in the application
 
@@ -126,7 +126,7 @@ and includes any interest on the loan and any penalties or charges incurred in c
 - (a) that approved intermediaries may complete and deliver applications in hard copy for a specified period; and
 - (b) of the postal address to which such applications are to be delivered and of any terms or conditions to which the use of the address is subject.
 
-(4)[^key-1ceace1ff84e48940103bb1414fc2543] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-1ceace1ff84e48940103bb1414fc2543] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 9.5. Role of approved intermediary
 
@@ -233,7 +233,7 @@ and includes any interest on the loan and any penalties or charges incurred in c
 
 - (a) a single domestic motor vehicle belonging to or vested in the debtor if—
   - (i) it has been especially adapted for use by the debtor because of a physical impairment that has a substantial and long-term adverse effect on the debtor's ability to carry out normal day-to-day activities, subject to paragraph (2), or
-  - (ii) the maximum potential realisable value of the vehicle is less than £4,000[^key-5dfacd88882c3e7a9c7690335b35c375] (the prescribed amount);
+  - (ii) the maximum potential realisable value of the vehicle is less than £4,000[^c-5dfacd88882c3e7a9c7690335b35c375] (the prescribed amount);
 - (b) subject to paragraph (3), such tools, books and other items of equipment as are necessary to the debtor for use personally in the debtor's employment, business or vocation;
 - (c) subject to paragraph (3), such clothing, bedding, furniture, household equipment and provisions as are necessary for satisfying the basic domestic needs of the debtor and the debtor's family;
 - (d) property held by the debtor on trust for any other person;
@@ -241,8 +241,8 @@ and includes any interest on the loan and any penalties or charges incurred in c
 - (f) a tenancy which is an assured tenancy or an assured agricultural occupancy, within the meaning of Part 1 of the Housing Act 1988 [^c23176391], and the terms of which inhibit an assignment as mentioned in section 127(5) of the Rent Act 1977 [^c23176401];
 - (g) a protected tenancy, within the meaning of the Rent Act 1977, in relation to which, by virtue of any provision of Part 9 of that Act, no premium can lawfully be required as a condition of assignment;
 - (h) a tenancy of a dwelling-house by virtue of which the debtor is, within the meaning of the Rent (Agriculture) Act 1976 [^c23176411], a protected occupier of the dwelling-house, and the terms of which inhibit an assignment as mentioned in section 127(5) of the Rent Act 1977;
-- (i) a secure tenancy, within the meaning of Part 4 of the Housing Act 1985 [^c23176421], which is not capable of being assigned, except in the cases mentioned in section 91(3) of that Act; [^key-1258026a2853397c9e7b36950be1d523]...
-- (ia)[^key-e9114b2ab31521521bee98f98935d50e] a standard contract within the meaning given by the Renting Homes (Wales) Act 2016 (see section 8 of that Act) and the terms of which inhibit an assignment as mentioned in section 127(5) of the Rent Act 1977;
+- (i) a secure tenancy, within the meaning of Part 4 of the Housing Act 1985 [^c23176421], which is not capable of being assigned, except in the cases mentioned in section 91(3) of that Act; [^c-1258026a2853397c9e7b36950be1d523]...
+- (ia)[^c-e9114b2ab31521521bee98f98935d50e] a standard contract within the meaning given by the Renting Homes (Wales) Act 2016 (see section 8 of that Act) and the terms of which inhibit an assignment as mentioned in section 127(5) of the Rent Act 1977;
 - (ib) a secure contract within the meaning given by the Renting Homes (Wales) Act 2016 (see section 8 of that Act) which is not capable of being assigned except—
   - (i) in the case mentioned in section 251 of the Renting Homes (Wales) Act 2016 (family property order),
   - (ii) in accordance with section 92 of the Housing Act 1985 (assignment by way of exchange), or
@@ -599,17 +599,17 @@ Where the moratorium period applicable to a debt relief order is extended—
 
 [^c23176361]: Marginal citation: [1990 c.6](https://www.legislation.gov.uk/ukpga/1990/6); repealed by the [Teaching and Higher Education Act 1998 (c.30)](https://www.legislation.gov.uk/ukpga/1998/30).
 
-[^key-f30162b5585f45915c07b2c86724a597]: Textual amendment: Word in [rule 9.2(3)(b)](https://www.legislation.gov.uk/uksi/2016/1024/rule/9.2/3/b) omitted (6.4.2017) by virtue of [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [28(a)](https://www.legislation.gov.uk/uksi/2017/366/rule/28/a)
+[^c-f30162b5585f45915c07b2c86724a597]: Textual amendment: Word in [rule 9.2(3)(b)](https://www.legislation.gov.uk/uksi/2016/1024/rule/9.2/3/b) omitted (6.4.2017) by virtue of [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [28(a)](https://www.legislation.gov.uk/uksi/2017/366/rule/28/a)
 
-[^key-10cf500547c269b33f8b990e9994e246]: Textual amendment: [Rule 9.2(3)(c)](https://www.legislation.gov.uk/uksi/2016/1024/rule/9.2/3/c) substituted by words (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [28(b)](https://www.legislation.gov.uk/uksi/2017/366/rule/28/b)
+[^c-10cf500547c269b33f8b990e9994e246]: Textual amendment: [Rule 9.2(3)(c)](https://www.legislation.gov.uk/uksi/2016/1024/rule/9.2/3/c) substituted by words (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [28(b)](https://www.legislation.gov.uk/uksi/2017/366/rule/28/b)
 
 [^c23176371]: Marginal citation: [Part 8](https://www.legislation.gov.uk/uksi/2016/1024/part/8) is amended by paragraph 2 of Schedule 6 to the Deregulation Act [2015 c.20](https://www.legislation.gov.uk/ukpga/2015/20), [paragraphs 2 to 4](https://www.legislation.gov.uk/ukpga/2015/20/paragraph/2) of Schedule 19 to the [Enterprise and Regulatory Reform Act 2013 (c.24)](https://www.legislation.gov.uk/ukpga/2013/24) and sections 134 and 135 and paragraphs 61 to 72 of Schedule 9 to the [Small Business, Enterprise and Employment Act 2015 (c.26)](https://www.legislation.gov.uk/ukpga/2015/26).
 
-[^key-1ceace1ff84e48940103bb1414fc2543]: Textual amendment: [Rule 9.4(4)](https://www.legislation.gov.uk/uksi/2016/1024/rule/9.4/4) omitted (22.6.2026) by virtue of [The Insolvency (England and Wales) (Amendment) Rules 2026 (S.I. 2026/561)](https://www.legislation.gov.uk/uksi/2026/561), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/561/rule/1/3), [12](https://www.legislation.gov.uk/uksi/2026/561/rule/12)
+[^c-1ceace1ff84e48940103bb1414fc2543]: Textual amendment: [Rule 9.4(4)](https://www.legislation.gov.uk/uksi/2016/1024/rule/9.4/4) omitted (22.6.2026) by virtue of [The Insolvency (England and Wales) (Amendment) Rules 2026 (S.I. 2026/561)](https://www.legislation.gov.uk/uksi/2026/561), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/561/rule/1/3), [12](https://www.legislation.gov.uk/uksi/2026/561/rule/12)
 
 [^c23176381]: Marginal citation: [Paragraph 3](https://www.legislation.gov.uk/uksi/2016/1024/paragraph/3) of Schedule 4ZA is substituted by paragraph 62 of Schedule 19 to the [Enterprise and Regulatory Reform Act 2013 (c.24)](https://www.legislation.gov.uk/ukpga/2013/24).
 
-[^key-5dfacd88882c3e7a9c7690335b35c375]: Textual amendment: Sum in rule 9.9(1)(a)(ii) substituted (28.6.2024) by [The Insolvency (England and Wales) (Amendment) Rules 2024 (S.I. 2024/622)](https://www.legislation.gov.uk/uksi/2024/622), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/622/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2024/622/regulation/2/2) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/622/regulation/1/3))
+[^c-5dfacd88882c3e7a9c7690335b35c375]: Textual amendment: Sum in rule 9.9(1)(a)(ii) substituted (28.6.2024) by [The Insolvency (England and Wales) (Amendment) Rules 2024 (S.I. 2024/622)](https://www.legislation.gov.uk/uksi/2024/622), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/622/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2024/622/regulation/2/2) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/622/regulation/1/3))
 
 [^c23176391]: Marginal citation: [1998 c.50](https://www.legislation.gov.uk/ukpga/1998/50).
 
@@ -619,9 +619,9 @@ Where the moratorium period applicable to a debt relief order is extended—
 
 [^c23176421]: Marginal citation: [1985 c.68](https://www.legislation.gov.uk/ukpga/1985/68).
 
-[^key-1258026a2853397c9e7b36950be1d523]: Textual amendment: Word in rule 9.9(1)(i) omitted (W.) (1.12.2022) by virtue of [The Renting Homes (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2022 (S.I. 2022/907)](https://www.legislation.gov.uk/uksi/2022/907), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/907/regulation/1/2), [Sch. 1 para. 30(a)](https://www.legislation.gov.uk/uksi/2022/907/schedule/1/paragraph/30/a)
+[^c-1258026a2853397c9e7b36950be1d523]: Textual amendment: Word in rule 9.9(1)(i) omitted (W.) (1.12.2022) by virtue of [The Renting Homes (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2022 (S.I. 2022/907)](https://www.legislation.gov.uk/uksi/2022/907), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/907/regulation/1/2), [Sch. 1 para. 30(a)](https://www.legislation.gov.uk/uksi/2022/907/schedule/1/paragraph/30/a)
 
-[^key-e9114b2ab31521521bee98f98935d50e]: Textual amendment: Rule 9.9(1)(ia)(ib) inserted (W.) (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2022 (S.I. 2022/907)](https://www.legislation.gov.uk/uksi/2022/907), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/907/regulation/1/2), [Sch. 1 para. 30(b)](https://www.legislation.gov.uk/uksi/2022/907/schedule/1/paragraph/30/b)
+[^c-e9114b2ab31521521bee98f98935d50e]: Textual amendment: Rule 9.9(1)(ia)(ib) inserted (W.) (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2022 (S.I. 2022/907)](https://www.legislation.gov.uk/uksi/2022/907), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/907/regulation/1/2), [Sch. 1 para. 30(b)](https://www.legislation.gov.uk/uksi/2022/907/schedule/1/paragraph/30/b)
 
 [^c23176431]: Marginal citation: 1999 c 30; [section 11](https://www.legislation.gov.uk/uksi/2016/1024/section/11) is amended by [S.I. 2006/745](https://www.legislation.gov.uk/uksi/2006/745).
 

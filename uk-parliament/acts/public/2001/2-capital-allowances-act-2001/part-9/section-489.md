@@ -20,12 +20,12 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-9706a8552022610ebbb9adf25fa085cf] An allowance to which a person is entitled under this Part is to be given effect in calculating the profits of that person’s trade, by treating the allowance as an expense of the trade.
+(1)[^c-9706a8552022610ebbb9adf25fa085cf] An allowance to which a person is entitled under this Part is to be given effect in calculating the profits of that person’s trade, by treating the allowance as an expense of the trade.
 
-(2)[^key-055063a754d5fa351953381f923aec00] This section is subject to section 6E (giving effect to allowances and charges: NI rate activity cases).
+(2)[^c-055063a754d5fa351953381f923aec00] This section is subject to section 6E (giving effect to allowances and charges: NI rate activity cases).
 
 ## Annotations
 
-[^key-9706a8552022610ebbb9adf25fa085cf]: Textual amendment: S. 489 renumbered as s. 489(1) (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [Sch. 1 para. 17(2)](https://www.legislation.gov.uk/ukpga/2015/21/schedule/1/paragraph/17/2)
+[^c-9706a8552022610ebbb9adf25fa085cf]: Textual amendment: S. 489 renumbered as s. 489(1) (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [Sch. 1 para. 17(2)](https://www.legislation.gov.uk/ukpga/2015/21/schedule/1/paragraph/17/2)
 
-[^key-055063a754d5fa351953381f923aec00]: Textual amendment: S. 489(2) inserted (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [Sch. 1 para. 17(3)](https://www.legislation.gov.uk/ukpga/2015/21/schedule/1/paragraph/17/3)
+[^c-055063a754d5fa351953381f923aec00]: Textual amendment: S. 489(2) inserted (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [Sch. 1 para. 17(3)](https://www.legislation.gov.uk/ukpga/2015/21/schedule/1/paragraph/17/3)

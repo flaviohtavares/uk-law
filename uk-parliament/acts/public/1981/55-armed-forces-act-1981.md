@@ -31,7 +31,7 @@ Armed Forces Act 1981
 
 An Act to continue the Army Act 1955, the Air Force Act 1955 and the Naval Discipline Act 1957; to amend those Acts and other enactments relating to the armed forces; to confer new powers for the temporary detention abroad of servicemen or civilians subject to those Acts suffering from mental disorder or the children of service and certain civilian families in need of care or control; to complete the assimilation for statutory purposes of the women’s services with the rest of the armed forces; to amend the Patents Act 1977 in relation to inventions by members of the armed forces; to abolish the office of Accountant General of the Navy; to make further provision in relation to the naval prize cash balance; and for connected purposes.
 
-\[28th July 1981\][^c8110121][^key-061a383f6fee49221536700001c3f3ee]
+\[28th July 1981\][^c8110121][^c-061a383f6fee49221536700001c3f3ee]
 
 ## Part I — Continuance of Services Acts
 
@@ -39,41 +39,41 @@ An Act to continue the Army Act 1955, the Air Force Act 1955 and the Naval Disci
 
 ## Part II — Trial and Punishment of Offences
 
-### 2. Young service offenders: custodial orders.[^key-f2d9a2fca007bde5364feccf49f13b5b]
+### 2. Young service offenders: custodial orders.[^c-f2d9a2fca007bde5364feccf49f13b5b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Power to stay further proceedings under one of the Services Acts with a view to other proceedings.[^key-f2d9a2fca007bde5364feccf49f13b5b]
+### 3. Power to stay further proceedings under one of the Services Acts with a view to other proceedings.[^c-f2d9a2fca007bde5364feccf49f13b5b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Marines: forfeiture of service where desertion confessed.[^key-f2d9a2fca007bde5364feccf49f13b5b]
+### 4. Marines: forfeiture of service where desertion confessed.[^c-f2d9a2fca007bde5364feccf49f13b5b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Power on reveiw or confirmation to annul the taking into consideration of other offences.[^key-f2d9a2fca007bde5364feccf49f13b5b]
+### 5. Power on reveiw or confirmation to annul the taking into consideration of other offences.[^c-f2d9a2fca007bde5364feccf49f13b5b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Trial of persons ceasing to be subject to service law and time limits for trials.[^key-f2d9a2fca007bde5364feccf49f13b5b]
+### 6. Trial of persons ceasing to be subject to service law and time limits for trials.[^c-f2d9a2fca007bde5364feccf49f13b5b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Extent of accused’s right to copy of record of court-martial proceedings.[^key-f2d9a2fca007bde5364feccf49f13b5b]
+### 7. Extent of accused’s right to copy of record of court-martial proceedings.[^c-f2d9a2fca007bde5364feccf49f13b5b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Right of penalised parent or guardian to copy of record of court-martial proceedings.[^key-f2d9a2fca007bde5364feccf49f13b5b]
+### 8. Right of penalised parent or guardian to copy of record of court-martial proceedings.[^c-f2d9a2fca007bde5364feccf49f13b5b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 9. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c8110481]
 
-### 10. Amendments relating to trial and punishment of civilians under the Services Acts.[^key-fef192ddc17b0210379983ba3417b455]
+### 10. Amendments relating to trial and punishment of civilians under the Services Acts.[^c-fef192ddc17b0210379983ba3417b455]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Minor amendments and repeals relating to procedure and evidence.[^key-c3b3f15273c3879f6141cf43c436e5b3]
+### 11. Minor amendments and repeals relating to procedure and evidence.[^c-c3b3f15273c3879f6141cf43c436e5b3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -85,7 +85,7 @@ In section 143(1) of the Reserve Forces Act 1980 (fine not exceeding £5 for mem
 
 ### New powers in relation to persons under incapacity
 
-#### 13. Temporary removal to and detention for treatment in service hospitals abroad of servicemen and others suffering from mental disorder.[^key-95a624516ebf518ba0271436d353b4f3]
+#### 13. Temporary removal to and detention for treatment in service hospitals abroad of servicemen and others suffering from mental disorder.[^c-95a624516ebf518ba0271436d353b4f3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -93,25 +93,25 @@ In section 143(1) of the Reserve Forces Act 1980 (fine not exceeding £5 for mem
 
 ### Amendments of the Naval Discipline Act 1957 as to offences and punishments
 
-#### 15. Prize offence : minor amendment as to intent.[^key-403dff6ba5048d121f668d4fc21a7ef1]
+#### 15. Prize offence : minor amendment as to intent.[^c-403dff6ba5048d121f668d4fc21a7ef1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 16. Power on summary trial to award stoppages.[^key-403dff6ba5048d121f668d4fc21a7ef1]
+#### 16. Power on summary trial to award stoppages.[^c-403dff6ba5048d121f668d4fc21a7ef1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 17. Abolition of death penalty for spying in ships, etc. abroad.[^key-403dff6ba5048d121f668d4fc21a7ef1]
+#### 17. Abolition of death penalty for spying in ships, etc. abroad.[^c-403dff6ba5048d121f668d4fc21a7ef1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Amendments of the Services Acts relating to evidence and proceedings thereunder
 
-#### 18.[^key-403dff6ba5048d121f668d4fc21a7ef1]
+#### 18.[^c-403dff6ba5048d121f668d4fc21a7ef1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 19. Officers who can take affidavits and declarations abroad.[^key-403dff6ba5048d121f668d4fc21a7ef1]
+#### 19. Officers who can take affidavits and declarations abroad.[^c-403dff6ba5048d121f668d4fc21a7ef1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -123,7 +123,7 @@ In section 143(1) of the Reserve Forces Act 1980 (fine not exceeding £5 for mem
 
 (3)[^c8111121] The Reserve Forces Act 1980 [^c8111131] shall have effect, and be deemed always to have had effect, with the substitution, in section 156(3) (application of the Act to women as to men), for the words “so far as it relates to the military and air forces” of the words “except so much of it as relates to the Royal Fleet Reserve and Royal Marines Reserve”.
 
-#### 21. Clarification of the meaning in the Naval Discipline Act 1957 of “marine forces” and “naval reserve forces”.[^key-04f7690e76339a5fdfd9f600c466af2c]
+#### 21. Clarification of the meaning in the Naval Discipline Act 1957 of “marine forces” and “naval reserve forces”.[^c-04f7690e76339a5fdfd9f600c466af2c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -135,20 +135,20 @@ In section 143(1) of the Reserve Forces Act 1980 (fine not exceeding £5 for mem
 
 (3) In section 130(1), at the end of the definition of “employee, there shall be added the words ,q>or a person who serves (or served) in the naval, military or air forces of thr Crown”.
 
-#### 23. Inquiries : persons affected who must be given a opportunity to be present and represented.[^key-74dcf6f2dc6a5b2f7f2042236d41f771]
+#### 23. Inquiries : persons affected who must be given a opportunity to be present and represented.[^c-74dcf6f2dc6a5b2f7f2042236d41f771]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 24. Abolition of the office of Accountant General of the Navy.
 
-(1)[^key-9f70f631b3ee9aa4f3edea6c114f0a88] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-9f70f631b3ee9aa4f3edea6c114f0a88] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2)[^c8111271] Accordingly the enactments specified in this subsection which refer to that office shall be amended as follows—
 
 - (a) in sections 6 and 8 of the Naval Agency and Disribution Act 1864 [^c8111281] (registration of certain instruments in the Accountant General’s Office) for the words “in the office of the Accountant General of the Navy” there shall be substituted the words “with the Secretary of State” ; and
 - (b) in section 47 of the Greenwich Hospital Act 1865 [^c8111291] (Accountant General to prepare for audit the accounts of the hospital’s property) for the words “The Accountant general of the Navy” there shall be substituted the words “The Secretary of State”.
 
-#### 25. Naval prize cash balance not to include percentage deduction.[^key-4216ec77bc1f099d5ea328c3bf2027cd]
+#### 25. Naval prize cash balance not to include percentage deduction.[^c-4216ec77bc1f099d5ea328c3bf2027cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -156,7 +156,7 @@ In section 143(1) of the Reserve Forces Act 1980 (fine not exceeding £5 for mem
 
 The [^c8111311]Army Pensions Act 1914 (which requires pensions in respect of military service, whether payable under statute or the prerogative, to be paid in advance) shall cease to have effect except in relation to pensions which have been granted before the passing of this Act and which are, at the date of its passing, paid in advance in accordance with that Act.
 
-#### 27. Naval and marine pay and pensions: no further publication in London Gazette.[^key-621657c2b18004a07a32087006b6c539]
+#### 27. Naval and marine pay and pensions: no further publication in London Gazette.[^c-621657c2b18004a07a32087006b6c539]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -186,43 +186,43 @@ This Act may be cited as the Armed Forces Act 1981.
 
 SCHEDULES
 
-## SCHEDULE 1 — Amendments Relating to Trial of Civilians, Etc.[^key-52f4b412b8e3c084c20862dbbc2020e5]
+## SCHEDULE 1 — Amendments Relating to Trial of Civilians, Etc.[^c-52f4b412b8e3c084c20862dbbc2020e5]
 
 Section 10.
 
-### ...[^key-52f4b412b8e3c084c20862dbbc2020e5]
+### ...[^c-52f4b412b8e3c084c20862dbbc2020e5]
 
-[^key-52f4b412b8e3c084c20862dbbc2020e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-52f4b412b8e3c084c20862dbbc2020e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-52f4b412b8e3c084c20862dbbc2020e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-52f4b412b8e3c084c20862dbbc2020e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-52f4b412b8e3c084c20862dbbc2020e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-52f4b412b8e3c084c20862dbbc2020e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-52f4b412b8e3c084c20862dbbc2020e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-52f4b412b8e3c084c20862dbbc2020e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Minor Amendments and Repeals Relating to Procedure and Evidence[^key-9830153bf2195c1d181c060869b881c2]
+## SCHEDULE 2 — Minor Amendments and Repeals Relating to Procedure and Evidence[^c-9830153bf2195c1d181c060869b881c2]
 
 Section 11.
 
-### ...[^key-9830153bf2195c1d181c060869b881c2]
+### ...[^c-9830153bf2195c1d181c060869b881c2]
 
-[^key-9830153bf2195c1d181c060869b881c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9830153bf2195c1d181c060869b881c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9830153bf2195c1d181c060869b881c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9830153bf2195c1d181c060869b881c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9830153bf2195c1d181c060869b881c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9830153bf2195c1d181c060869b881c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9830153bf2195c1d181c060869b881c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9830153bf2195c1d181c060869b881c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9830153bf2195c1d181c060869b881c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9830153bf2195c1d181c060869b881c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9830153bf2195c1d181c060869b881c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9830153bf2195c1d181c060869b881c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9830153bf2195c1d181c060869b881c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9830153bf2195c1d181c060869b881c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9830153bf2195c1d181c060869b881c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9830153bf2195c1d181c060869b881c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9830153bf2195c1d181c060869b881c2][^key-05f76c1cb10af373a6ae1b751b8b9989] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9830153bf2195c1d181c060869b881c2][^c-05f76c1cb10af373a6ae1b751b8b9989] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 3 — Women’s Services
 
@@ -242,7 +242,7 @@ Section 11.
 
 #### Future enactments
 
-**2.**[^key-e1843f09a65264f83688201afe8b2c76] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-e1843f09a65264f83688201afe8b2c76] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part II — Specific
 
@@ -262,7 +262,7 @@ Section 11.
 
 **8.**[^c8111641] In section 68(2) of the Marriage Act 1949 [^c8111651], in paragraph (a), for the words following “is serving in” there shall be substituted the words “any of the regular armed forces of the Crown ; or” and in paragraph (b) for the word “mentioned” there shall be substituted the word “included”.
 
-**9.**[^key-2f04ae3e808ed1586f80cdfb6f36f72f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-2f04ae3e808ed1586f80cdfb6f36f72f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **10.**[^c8111681] In section 21(5) of the Armed Forces Act 1976 [^c8111691], in the definition of “qualified officers”, for the word “Navy” (in each place where it occurs) there shall be substituted the words “Royal Navy”.
 
@@ -315,24 +315,24 @@ Section 28.
 
 ### The Army Act 1955
 
-**1.**[^key-03a3b523dc923481007de764d8e0f252] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-03a3b523dc923481007de764d8e0f252] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Rehabilitation of Offenders Act 1974
 
 **2.** (1)[^c8111841] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2 (Extent: E+W) (affected by repeal, see note))[^key-145f288ff9e35995f7eb976f1b0356b4] The following entries shall be made in Table B in section 5(2) of the Rehabilitation of Offenders Act 1974 *(Extent: E+W)* *(affected by repeal, see note)*[^key-145f288ff9e35995f7eb976f1b0356b4] [^c8111851] (rehabilitation period for particular sentences)— *(Extent: E+W)* *(affected by repeal, see note)*[^key-145f288ff9e35995f7eb976f1b0356b4]
+(2 (Extent: E+W) (affected by repeal, see note))[^c-145f288ff9e35995f7eb976f1b0356b4] The following entries shall be made in Table B in section 5(2) of the Rehabilitation of Offenders Act 1974 *(Extent: E+W)* *(affected by repeal, see note)*[^c-145f288ff9e35995f7eb976f1b0356b4] [^c8111851] (rehabilitation period for particular sentences)— *(Extent: E+W)* *(affected by repeal, see note)*[^c-145f288ff9e35995f7eb976f1b0356b4]
 
-- (a (Extent: E+W) (affected by repeal, see note))[^key-145f288ff9e35995f7eb976f1b0356b4] after the first entry relating to a custodial order under Schedule 5A to the 1955 Acts, or under Schedule 4A to the 1957 Act— *(Extent: E+W)* *(affected by repeal, see note)*[^key-145f288ff9e35995f7eb976f1b0356b4]
-
-  > |  |  |
-  > | --- | --- |
-  > | A custodial order under section 71AA of the Army Act 1955 or the Air Force Act 1955, or under section 43AA of the Naval Discipline Act 1957, where the maximum period of detention specified in the order is more than six months. *(Extent: E+W)* *(affected by repeal, see note)*[^key-145f288ff9e35995f7eb976f1b0356b4] | Seven years. *(Extent: E+W)* *(affected by repeal, see note)*[^key-145f288ff9e35995f7eb976f1b0356b4] |
-- (b (Extent: E+W) (affected by repeal, see note))[^key-145f288ff9e35995f7eb976f1b0356b4] after the second entry relating to such a custodial order— *(Extent: E+W)* *(affected by repeal, see note)*[^key-145f288ff9e35995f7eb976f1b0356b4]
+- (a (Extent: E+W) (affected by repeal, see note))[^c-145f288ff9e35995f7eb976f1b0356b4] after the first entry relating to a custodial order under Schedule 5A to the 1955 Acts, or under Schedule 4A to the 1957 Act— *(Extent: E+W)* *(affected by repeal, see note)*[^c-145f288ff9e35995f7eb976f1b0356b4]
 
   > |  |  |
   > | --- | --- |
-  > | A custodial order under section 71AA of the said Acts of 1955, or section 43AA of the said Act of 1957, where the maximum period of detention specified in the order is six months or less. *(Extent: E+W)* *(affected by repeal, see note)*[^key-145f288ff9e35995f7eb976f1b0356b4] | Three years. *(Extent: E+W)* *(affected by repeal, see note)*[^key-145f288ff9e35995f7eb976f1b0356b4] |
+  > | A custodial order under section 71AA of the Army Act 1955 or the Air Force Act 1955, or under section 43AA of the Naval Discipline Act 1957, where the maximum period of detention specified in the order is more than six months. *(Extent: E+W)* *(affected by repeal, see note)*[^c-145f288ff9e35995f7eb976f1b0356b4] | Seven years. *(Extent: E+W)* *(affected by repeal, see note)*[^c-145f288ff9e35995f7eb976f1b0356b4] |
+- (b (Extent: E+W) (affected by repeal, see note))[^c-145f288ff9e35995f7eb976f1b0356b4] after the second entry relating to such a custodial order— *(Extent: E+W)* *(affected by repeal, see note)*[^c-145f288ff9e35995f7eb976f1b0356b4]
+
+  > |  |  |
+  > | --- | --- |
+  > | A custodial order under section 71AA of the said Acts of 1955, or section 43AA of the said Act of 1957, where the maximum period of detention specified in the order is six months or less. *(Extent: E+W)* *(affected by repeal, see note)*[^c-145f288ff9e35995f7eb976f1b0356b4] | Three years. *(Extent: E+W)* *(affected by repeal, see note)*[^c-145f288ff9e35995f7eb976f1b0356b4] |
 
 ### The Rehabilitation of Offenders (Northern Ireland) Order 1978
 
@@ -458,27 +458,27 @@ Nothing in the repeal of a reference in any enactment to any women’s service (
 
 [^c8110121]: Commencement: Act partly in force 28.07.1981 see [s. 29](https://www.legislation.gov.uk/ukpga/1981/55/section/29). Act wholly in force 28.07.1982.
 
-[^key-061a383f6fee49221536700001c3f3ee]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/55): power to amend conferred (4.6.2007) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [ss. 381](https://www.legislation.gov.uk/ukpga/2006/52/section/381), [383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2); [S.I. 2007/1442](https://www.legislation.gov.uk/uksi/2007/1442), [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/1442/article/2/2)
+[^c-061a383f6fee49221536700001c3f3ee]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/55): power to amend conferred (4.6.2007) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [ss. 381](https://www.legislation.gov.uk/ukpga/2006/52/section/381), [383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2); [S.I. 2007/1442](https://www.legislation.gov.uk/uksi/2007/1442), [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/1442/article/2/2)
 
 [^c8110131]: Textual amendment: S. 1 repealed by [Armed Forces Act 1986 (c. 21, SIF 7:1)](https://www.legislation.gov.uk/ukpga/1986/21), [s. 16(2)](https://www.legislation.gov.uk/ukpga/1986/21/section/16/2), [Sch. 2](https://www.legislation.gov.uk/ukpga/1986/21/schedule/2)
 
-[^key-f2d9a2fca007bde5364feccf49f13b5b]: Textual amendment: Ss. 2-8 repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-f2d9a2fca007bde5364feccf49f13b5b]: Textual amendment: Ss. 2-8 repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
 [^c8110481]: Textual amendment: S. 9 repealed by [Police and Criminal Evidence Act 1984 (c. 60, SIF 95)](https://www.legislation.gov.uk/ukpga/1984/60), [s. 119](https://www.legislation.gov.uk/ukpga/1984/60/section/119), [Sch. 7 Pt. III](https://www.legislation.gov.uk/ukpga/1984/60/schedule/7/part/III)
 
-[^key-fef192ddc17b0210379983ba3417b455]: Textual amendment: S. 10 repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-fef192ddc17b0210379983ba3417b455]: Textual amendment: S. 10 repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-c3b3f15273c3879f6141cf43c436e5b3]: Textual amendment: S. 11 repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-c3b3f15273c3879f6141cf43c436e5b3]: Textual amendment: S. 11 repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
 [^c8110511]: Marginal citation: [1980 c. 9](https://www.legislation.gov.uk/ukpga/1980/9).
 
 [^c8110521]: Modification: The text of ss. 2, 3, 4(2), 5, 6(1)(2)(3)(*c*)(4)(5)(6), 7, 8, 10–12, 15, 16, 18, 19, 20(3), 21–23, 24(2), 28(1) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
-[^key-95a624516ebf518ba0271436d353b4f3]: Textual amendment: S. 13 repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-95a624516ebf518ba0271436d353b4f3]: Textual amendment: S. 13 repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
 [^c8110951]: Textual amendment: S. 14 repealed and superseded (1.6.1996) by [Armed Forces Act 1991 (c. 62, SIF 7:1)](https://www.legislation.gov.uk/ukpga/1991/62), [ss. 19(7)](https://www.legislation.gov.uk/ukpga/1991/62/section/19/7), [26(2)](https://www.legislation.gov.uk/ukpga/1991/62/section/26/2), [Sch. 3](https://www.legislation.gov.uk/ukpga/1991/62/schedule/3); [S.I. 1996/1173](https://www.legislation.gov.uk/uksi/1996/1173), [art. 2](https://www.legislation.gov.uk/uksi/1996/1173/article/2), SCh.(with art. 3)
 
-[^key-403dff6ba5048d121f668d4fc21a7ef1]: Textual amendment: Ss. 15-19 repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-403dff6ba5048d121f668d4fc21a7ef1]: Textual amendment: Ss. 15-19 repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
 [^c8111101]: Textual amendment: Words in s. 20(2) repealed (1.10.1996) by [1996 c. 46](https://www.legislation.gov.uk/ukpga/1996/46), [s. 35(2)](https://www.legislation.gov.uk/ukpga/1996/46/section/35/2), [Sch. 7 Pt. III](https://www.legislation.gov.uk/ukpga/1996/46/schedule/7/part/III); [S.I. 1996/2474](https://www.legislation.gov.uk/uksi/1996/2474), [art. 2](https://www.legislation.gov.uk/uksi/1996/2474/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1996/2474/schedule)
 
@@ -488,15 +488,15 @@ Nothing in the repeal of a reference in any enactment to any women’s service (
 
 [^c8111131]: Marginal citation: [1980 c. 9](https://www.legislation.gov.uk/ukpga/1980/9).
 
-[^key-04f7690e76339a5fdfd9f600c466af2c]: Textual amendment: S. 21 repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-04f7690e76339a5fdfd9f600c466af2c]: Textual amendment: S. 21 repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
 [^c8111211]: Modification: The text of ss. 2, 3, 4(2), 5, 6(1)(2)(3)(*c*)(4)(5)(6), 7, 8, 10–12, 15, 16, 18, 19, 20(3), 21–23, 24(2), 28(1) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
 [^c8111221]: Marginal citation: [1977 c. 37](https://www.legislation.gov.uk/ukpga/1977/37).
 
-[^key-74dcf6f2dc6a5b2f7f2042236d41f771]: Textual amendment: S. 23 repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-74dcf6f2dc6a5b2f7f2042236d41f771]: Textual amendment: S. 23 repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-9f70f631b3ee9aa4f3edea6c114f0a88]: Textual amendment: S. 24(1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 1
+[^c-9f70f631b3ee9aa4f3edea6c114f0a88]: Textual amendment: S. 24(1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 1
 
 [^c8111271]: Modification: The text of ss. 2, 3, 4(2), 5, 6(1)(2)(3)(*c*)(4)(5)(6), 7, 8, 10–12, 15, 16, 18, 19, 20(3), 21–23, 24(2), 28(1) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
@@ -504,21 +504,21 @@ Nothing in the repeal of a reference in any enactment to any women’s service (
 
 [^c8111291]: Marginal citation: [1865 c. 89](https://www.legislation.gov.uk/ukpga/1865/89).
 
-[^key-4216ec77bc1f099d5ea328c3bf2027cd]: Textual amendment: S. 25 repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-4216ec77bc1f099d5ea328c3bf2027cd]: Textual amendment: S. 25 repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
 [^c8111311]: Marginal citation: [1914 c. 83](https://www.legislation.gov.uk/ukpga/1914/83).
 
-[^key-621657c2b18004a07a32087006b6c539]: Textual amendment: S. 27 repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-621657c2b18004a07a32087006b6c539]: Textual amendment: S. 27 repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
 [^c8111331]: Modification: The text of ss. 2, 3, 4(2), 5, 6(1)(2)(3)(*c*)(4)(5)(6), 7, 8, 10–12, 15, 16, 18, 19, 20(3), 21–23, 24(2), 28(1) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
 [^c8111341]: Modification: Power of appointment conferred by s. 29(1) fully exercised: [S.I. 1981/1503](https://www.legislation.gov.uk/uksi/1981/1503) and 1982/497
 
-[^key-52f4b412b8e3c084c20862dbbc2020e5]: Textual amendment: Sch. 1 repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-52f4b412b8e3c084c20862dbbc2020e5]: Textual amendment: Sch. 1 repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-9830153bf2195c1d181c060869b881c2]: Textual amendment: Sch. 2 repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-9830153bf2195c1d181c060869b881c2]: Textual amendment: Sch. 2 repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-05f76c1cb10af373a6ae1b751b8b9989]: Textual amendment: Sch. 2 para. 9 repealed (6.12.2006) by [Youth Justice and Criminal Evidence Act 1999 (c. 23)](https://www.legislation.gov.uk/ukpga/1999/23), [s. 68(3)](https://www.legislation.gov.uk/ukpga/1999/23/section/68/3)[(4)](https://www.legislation.gov.uk/ukpga/1999/23/section/68/4), [Sch. 6](https://www.legislation.gov.uk/ukpga/1999/23/schedule/6) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/1999/23/schedule/7)); [S.I. 2006/2885](https://www.legislation.gov.uk/uksi/2006/2885), [art. 2(b)](https://www.legislation.gov.uk/uksi/2006/2885/article/2/b)
+[^c-05f76c1cb10af373a6ae1b751b8b9989]: Textual amendment: Sch. 2 para. 9 repealed (6.12.2006) by [Youth Justice and Criminal Evidence Act 1999 (c. 23)](https://www.legislation.gov.uk/ukpga/1999/23), [s. 68(3)](https://www.legislation.gov.uk/ukpga/1999/23/section/68/3)[(4)](https://www.legislation.gov.uk/ukpga/1999/23/section/68/4), [Sch. 6](https://www.legislation.gov.uk/ukpga/1999/23/schedule/6) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/1999/23/schedule/7)); [S.I. 2006/2885](https://www.legislation.gov.uk/uksi/2006/2885), [art. 2(b)](https://www.legislation.gov.uk/uksi/2006/2885/article/2/b)
 
 [^c8111511]: Marginal citation: [1933 c. 6](https://www.legislation.gov.uk/ukpga/1933/6).
 
@@ -526,7 +526,7 @@ Nothing in the repeal of a reference in any enactment to any women’s service (
 
 [^c8111531]: Marginal citation: [1948 c. 21](https://www.legislation.gov.uk/ukpga/1948/21).
 
-[^key-e1843f09a65264f83688201afe8b2c76]: Textual amendment: Sch. 3 para. 2 repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-e1843f09a65264f83688201afe8b2c76]: Textual amendment: Sch. 3 para. 2 repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
 [^c8111541]: Modification: The text of Schs. 1, 2, 3 Pt. II (paras. 3–10), 4, 5 (in part) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
@@ -552,7 +552,7 @@ Nothing in the repeal of a reference in any enactment to any women’s service (
 
 [^c8111651]: Marginal citation: [1949 c. 76](https://www.legislation.gov.uk/ukpga/1949/76).
 
-[^key-2f04ae3e808ed1586f80cdfb6f36f72f]: Textual amendment: Sch. 3 para. 9 repealed (N.I.) (1.1.2004) by [The Marriage (Northern Ireland) Order 2003 (S.I. 2003/413)](https://www.legislation.gov.uk/nisi/2003/413), [art. 1(2)](https://www.legislation.gov.uk/nisi/2003/413/article/1/2), [Sch.](https://www.legislation.gov.uk/nisi/2003/413/schedule); [S.R. 2003/466](https://www.legislation.gov.uk/nisr/2003/466), [art. 2(b)](https://www.legislation.gov.uk/nisr/2003/466/article/2/b)
+[^c-2f04ae3e808ed1586f80cdfb6f36f72f]: Textual amendment: Sch. 3 para. 9 repealed (N.I.) (1.1.2004) by [The Marriage (Northern Ireland) Order 2003 (S.I. 2003/413)](https://www.legislation.gov.uk/nisi/2003/413), [art. 1(2)](https://www.legislation.gov.uk/nisi/2003/413/article/1/2), [Sch.](https://www.legislation.gov.uk/nisi/2003/413/schedule); [S.R. 2003/466](https://www.legislation.gov.uk/nisr/2003/466), [art. 2(b)](https://www.legislation.gov.uk/nisr/2003/466/article/2/b)
 
 [^c8111681]: Modification: The text of Schs. 1, 2, 3 Pt. II (paras. 3–10), 4, 5 (in part) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
@@ -572,11 +572,11 @@ Nothing in the repeal of a reference in any enactment to any women’s service (
 
 [^c8111801]: Modification: The text of Schs. 1, 2, 3 Pt. II (paras. 3–10), 4, 5 (in part) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
-[^key-03a3b523dc923481007de764d8e0f252]: Textual amendment: Sch. 4 para. 1 repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-03a3b523dc923481007de764d8e0f252]: Textual amendment: Sch. 4 para. 1 repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
 [^c8111841]: Textual amendment: Sch. 4 para. 2(1) repealed (1.10.1996) by [1996 c. 46](https://www.legislation.gov.uk/ukpga/1996/46), [s. 35(2)](https://www.legislation.gov.uk/ukpga/1996/46/section/35/2), [Sch. 7 Pt. III](https://www.legislation.gov.uk/ukpga/1996/46/schedule/7/part/III); [S.I. 1996/2474](https://www.legislation.gov.uk/uksi/1996/2474), [art. 2](https://www.legislation.gov.uk/uksi/1996/2474/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1996/2474/schedule)
 
-[^key-145f288ff9e35995f7eb976f1b0356b4]: Textual amendment: Sch. 4 para. 2(2) repealed (E.W.) (10.3.2014) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 25 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/10/schedule/25/part/2) (with [s. 141(1)-(6)](https://www.legislation.gov.uk/ukpga/2012/10/section/141/1)); [S.I. 2014/423](https://www.legislation.gov.uk/uksi/2014/423), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/423/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/423/article/3))
+[^c-145f288ff9e35995f7eb976f1b0356b4]: Textual amendment: Sch. 4 para. 2(2) repealed (E.W.) (10.3.2014) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 25 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/10/schedule/25/part/2) (with [s. 141(1)-(6)](https://www.legislation.gov.uk/ukpga/2012/10/section/141/1)); [S.I. 2014/423](https://www.legislation.gov.uk/uksi/2014/423), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/423/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/423/article/3))
 
 [^c8111851]: Marginal citation: [1974 c. 53](https://www.legislation.gov.uk/ukpga/1974/53).
 

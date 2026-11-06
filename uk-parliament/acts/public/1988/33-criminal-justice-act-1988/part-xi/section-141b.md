@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 141B. Limitations on defence to offence under section 141A: England and Wales[^key-32fedbaca9b0e7a00b07c5ea114aaae7]
+## 141B. Limitations on defence to offence under section 141A: England and Wales[^c-32fedbaca9b0e7a00b07c5ea114aaae7]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-32fedbaca9b0e7a00b07c5ea114aaae7]: Textual amendment: [S. 141B](https://www.legislation.gov.uk/ukpga/1988/33/section/141B) inserted (E.W.) (6.4.2022) by [Offensive Weapons Act 2019 (c. 17)](https://www.legislation.gov.uk/ukpga/2019/17), [ss. 35(3)](https://www.legislation.gov.uk/ukpga/2019/17/section/35/3), [70(1)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/1); [S.I. 2022/418](https://www.legislation.gov.uk/uksi/2022/418), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/418/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/418/regulation/3))
+[^c-32fedbaca9b0e7a00b07c5ea114aaae7]: Textual amendment: [S. 141B](https://www.legislation.gov.uk/ukpga/1988/33/section/141B) inserted (E.W.) (6.4.2022) by [Offensive Weapons Act 2019 (c. 17)](https://www.legislation.gov.uk/ukpga/2019/17), [ss. 35(3)](https://www.legislation.gov.uk/ukpga/2019/17/section/35/3), [70(1)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/1); [S.I. 2022/418](https://www.legislation.gov.uk/uksi/2022/418), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/418/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/418/regulation/3))

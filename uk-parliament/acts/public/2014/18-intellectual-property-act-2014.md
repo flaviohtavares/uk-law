@@ -40,7 +40,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ### Unregistered design right
 
-#### 1. Meaning of “design” and “original”[^key-3abf4847a95f2b813e525e39abcb4f92]
+#### 1. Meaning of “design” and “original”[^c-3abf4847a95f2b813e525e39abcb4f92]
 
 (1) In section 213(2) of the Copyright, Designs and Patents Act 1988 (unregistered design right: meaning of “design”), in subsection (2), omit “any aspect of”.
 
@@ -53,7 +53,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (4) Subsection (3) applies only to designs created after the commencement of that subsection.
 
-#### 2. Ownership of design[^key-1d33292125ddd6b4db5f001b5247837f]
+#### 2. Ownership of design[^c-1d33292125ddd6b4db5f001b5247837f]
 
 (1) In section 215 of the Copyright, Designs and Patents Act 1988 (ownership of unregistered design right)—
 
@@ -82,7 +82,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
   - (i) the designer and the commissioner of the design have entered into a contract relating to the commission of the design, and
   - (ii) the contract was entered into before that commencement.
 
-#### 3. Qualification criteria[^key-3ba03904d5e87c4acf62e3323d083322]
+#### 3. Qualification criteria[^c-3ba03904d5e87c4acf62e3323d083322]
 
 (1) In section 217 of that Act (qualifying individuals and qualifying persons), in subsection (1)—
 
@@ -115,7 +115,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (6) This section applies only to designs created after the commencement of this section.
 
-#### 4. Infringement: exceptions[^key-e62f9c3a4d43b1d83e7c9df56ee86a82]
+#### 4. Infringement: exceptions[^c-e62f9c3a4d43b1d83e7c9df56ee86a82]
 
 After section 244 of the Copyright, Designs and Patents Act 1988 (but before the following cross-heading) insert—
 
@@ -141,7 +141,7 @@ After section 244 of the Copyright, Designs and Patents Act 1988 (but before the
 
 ### Registered Community design
 
-#### 5. Infringement: exception[^key-adc3e8f9a10c9db7b63fa9fa73883547]
+#### 5. Infringement: exception[^c-adc3e8f9a10c9db7b63fa9fa73883547]
 
 (1) Section 53 of the Copyright, Designs and Patents Act 1988 (permitted acts in relation to copyright works: things done in reliance on registration of design) is amended as follows.
 
@@ -176,7 +176,7 @@ After section 244 of the Copyright, Designs and Patents Act 1988 (but before the
 
 ### Registered designs
 
-#### 6. Ownership of design and application for registration[^key-b34c809608ac321ce864ae0e85202953]
+#### 6. Ownership of design and application for registration[^c-b34c809608ac321ce864ae0e85202953]
 
 (1) In section 2 of the Registered Designs Act 1949 (ownership of registered designs)—
 
@@ -185,7 +185,7 @@ After section 244 of the Copyright, Designs and Patents Act 1988 (but before the
 
 (2) In section 3 of that Act (application for registration), omit subsection (2) (requirement for application to be made by person claiming to be proprietor).
 
-#### 7. Right of prior use[^key-5768ee3ac6736209caf706341cd53038]
+#### 7. Right of prior use[^c-5768ee3ac6736209caf706341cd53038]
 
 (1) After section 7A of the Registered Designs Act 1949 insert—
 
@@ -209,7 +209,7 @@ After section 244 of the Copyright, Designs and Patents Act 1988 (but before the
 
 (2) This section applies only to designs registered under the Registered Designs Act 1949 after the commencement of this section.
 
-#### 8. Accession to the Hague Agreement[^key-0c8855800fc024cee3bace8312d8f03f]
+#### 8. Accession to the Hague Agreement[^c-0c8855800fc024cee3bace8312d8f03f]
 
 (1) After section 15 of the Registered Designs Act 1949 insert—
 
@@ -241,7 +241,7 @@ After section 244 of the Copyright, Designs and Patents Act 1988 (but before the
 
 #### 9. The register: changes of ownership and inspection of documents
 
-(1)[^key-6f4df442b94a621a2eca8c7eecd43430] In section 19 of the Registered Designs Act 1949 (registration of assignments, etc.), omit subsection (3A) (which, where design right subsists in a registered design, prohibits the registrar from registering an interest unless satisfied that the person who has the interest has a corresponding interest in the design right).
+(1)[^c-6f4df442b94a621a2eca8c7eecd43430] In section 19 of the Registered Designs Act 1949 (registration of assignments, etc.), omit subsection (3A) (which, where design right subsists in a registered design, prohibits the registrar from registering an interest unless satisfied that the person who has the interest has a corresponding interest in the design right).
 
 (2) In section 22 of that Act (the title to which becomes “ Inspection of registered designs and associated documents ”), in subsection (1), after paragraph (a) insert
 
@@ -265,9 +265,9 @@ After section 244 of the Copyright, Designs and Patents Act 1988 (but before the
 
 #### 10. Legal proceedings and appeals
 
-(1)[^key-012b6b393ec278140eba913fd23650c9] In section 24B of the Registered Designs Act 1949 (exemption of innocent infringer from liability), in subsection (1), omit “, and no order shall be made for an account of profits,”.
+(1)[^c-012b6b393ec278140eba913fd23650c9] In section 24B of the Registered Designs Act 1949 (exemption of innocent infringer from liability), in subsection (1), omit “, and no order shall be made for an account of profits,”.
 
-(2)[^key-a6f8b84019da6b84028a9e613f175d03][^key-fe32705093dc149167976b3bdb573584] After section 27 of that Act insert—
+(2)[^c-a6f8b84019da6b84028a9e613f175d03][^c-fe32705093dc149167976b3bdb573584] After section 27 of that Act insert—
 
 > **27A. Appeals from decisions of registrar**
 >
@@ -323,23 +323,23 @@ After section 244 of the Copyright, Designs and Patents Act 1988 (but before the
 > - (a) the person to be removed exercises functions wholly or mainly in Scotland, in which case it is the Lord President of the Court of Session, or
 > - (b) the person to be removed exercises functions wholly or mainly in Northern Ireland, in which case it is the Lord Chief Justice of Northern Ireland.
 
-(3)[^key-4edbddab1f2a86a6d320db600482e358] In section 27(1)(a) of that Act, after “the High Court or” insert “ (subject to section 27A(6)) ”.
+(3)[^c-4edbddab1f2a86a6d320db600482e358] In section 27(1)(a) of that Act, after “the High Court or” insert “ (subject to section 27A(6)) ”.
 
-(4)[^key-4edbddab1f2a86a6d320db600482e358] Section 28 of that Act (the Appeal Tribunal) is repealed.
+(4)[^c-4edbddab1f2a86a6d320db600482e358] Section 28 of that Act (the Appeal Tribunal) is repealed.
 
-(5)[^key-4edbddab1f2a86a6d320db600482e358] In section 37(3) of that Act (provision as to rules and orders)—
+(5)[^c-4edbddab1f2a86a6d320db600482e358] In section 37(3) of that Act (provision as to rules and orders)—
 
 - (a) omit “or on the Appeal Tribunal”, and
 - (b) omit the words from “; and the Statutory Instruments Act 1946” to the end.
 
-(6)[^key-4edbddab1f2a86a6d320db600482e358] In section 44(1) of that Act (interpretation), omit the definition of “Appeal Tribunal”.
+(6)[^c-4edbddab1f2a86a6d320db600482e358] In section 44(1) of that Act (interpretation), omit the definition of “Appeal Tribunal”.
 
-(7)[^key-4edbddab1f2a86a6d320db600482e358] In section 249 of the Copyright, Designs and Patents Act 1988 (right of appeal as to terms of licence of right)—
+(7)[^c-4edbddab1f2a86a6d320db600482e358] In section 249 of the Copyright, Designs and Patents Act 1988 (right of appeal as to terms of licence of right)—
 
 - (a) in subsection (1), for the words from “the Appeal Tribunal” to the end substitute “ a person appointed under section 27A of the Registered Designs Act 1949 ”, and
 - (b) omit subsection (2).
 
-(8)[^key-4edbddab1f2a86a6d320db600482e358] In section 251(4) of that Act (right of appeal against decisions of comptroller relating to design right)—
+(8)[^c-4edbddab1f2a86a6d320db600482e358] In section 251(4) of that Act (right of appeal against decisions of comptroller relating to design right)—
 
 - (a) before “the High Court” insert
 
@@ -356,13 +356,13 @@ After section 244 of the Copyright, Designs and Patents Act 1988 (but before the
 
   .
 
-(9)[^key-4edbddab1f2a86a6d320db600482e358] In the House of Commons Disqualification Act 1975, in Schedule 1 (offices disqualifying for membership), in Part 3 (other disqualifying offices), at the appropriate place insert— “ Person appointed under section 27A of the Registered Designs Act 1949 to hear and determine appeals against decisions of the registrar under that Act ”.
+(9)[^c-4edbddab1f2a86a6d320db600482e358] In the House of Commons Disqualification Act 1975, in Schedule 1 (offices disqualifying for membership), in Part 3 (other disqualifying offices), at the appropriate place insert— “ Person appointed under section 27A of the Registered Designs Act 1949 to hear and determine appeals against decisions of the registrar under that Act ”.
 
-(10)[^key-4edbddab1f2a86a6d320db600482e358] In the Constitutional Reform Act 2005, in Schedule 7 (protected functions of the Lord Chancellor), in paragraph 4, at the appropriate place insert— “ *Registered Designs Act 1949 (c.88)* Sections 27A and 27B. ”
+(10)[^c-4edbddab1f2a86a6d320db600482e358] In the Constitutional Reform Act 2005, in Schedule 7 (protected functions of the Lord Chancellor), in paragraph 4, at the appropriate place insert— “ *Registered Designs Act 1949 (c.88)* Sections 27A and 27B. ”
 
-(11)[^key-4edbddab1f2a86a6d320db600482e358] Section 143 of the Tribunals, Courts and Enforcement Act 2007 (which makes provision about appeals in relation to design rights) is repealed.
+(11)[^c-4edbddab1f2a86a6d320db600482e358] Section 143 of the Tribunals, Courts and Enforcement Act 2007 (which makes provision about appeals in relation to design rights) is repealed.
 
-#### 11. Opinions service[^key-0614eda0243f2d8496da4a419a77e184]
+#### 11. Opinions service[^c-0614eda0243f2d8496da4a419a77e184]
 
 (1) Before section 29 of the Registered Designs Act 1949 (and the preceding cross-heading) insert—
 
@@ -422,7 +422,7 @@ After section 244 of the Copyright, Designs and Patents Act 1988 (but before the
 
   > (4A) Subsection (4) does not apply to the first regulations to be made under section 28A, but the Secretary of State may not make those regulations unless a draft of the statutory instrument containing them has been laid before, and approved by a resolution of, each House of Parliament.
 
-#### 12. Use of directions by the registrar[^key-a898bd86cf18566dde8387fb3e67d064]
+#### 12. Use of directions by the registrar[^c-a898bd86cf18566dde8387fb3e67d064]
 
 (1) After section 31 of the Registered Designs Act 1949 insert—
 
@@ -458,7 +458,7 @@ After section 244 of the Copyright, Designs and Patents Act 1988 (but before the
 
 (9) In subsection (8), “**directions**” means directions given under section 39(1) of that Act (as amended by subsection (4)).
 
-#### 13. Offence of unauthorised copying etc. of design in course of business[^key-891f1ab49c9fce70a4063c4233d3d7a5]
+#### 13. Offence of unauthorised copying etc. of design in course of business[^c-891f1ab49c9fce70a4063c4233d3d7a5]
 
 After section 35 of the Registered Designs Act 1949 insert—
 
@@ -558,9 +558,9 @@ After section 35 of the Registered Designs Act 1949 insert—
 >
 > (3) On an application under subsection (2)(a), the court may make an order for the forfeiture of relevant products or articles only if it is satisfied that an offence under section 35ZA has been committed in relation to the relevant products or articles.
 >
-> (4) The court may infer for the purposes of this section that such an offence has been committed in relation to any relevant products or articles if it is satisfied that such an offence has been committed in relation to products or articles[^key-5e7c845e6525f7bf10c812e3188f36b3] which are representative of them (whether by reason of being of the same design or part of the same consignment or batch or otherwise).
+> (4) The court may infer for the purposes of this section that such an offence has been committed in relation to any relevant products or articles if it is satisfied that such an offence has been committed in relation to products or articles[^c-5e7c845e6525f7bf10c812e3188f36b3] which are representative of them (whether by reason of being of the same design or part of the same consignment or batch or otherwise).
 >
-> (5) The procurator fiscal making the application under subsection (2)(a) must serve on any person appearing to the procurator fiscal to be the owner of, or otherwise have an interest in, the products or articles to which the application relates a copy of the application, together with a notice giving the person the opportunity[^key-e481c5cb17ddd89b8f96385bd66dc2db] to appear at the hearing of the application to show cause why the products or articles should not be forfeited.
+> (5) The procurator fiscal making the application under subsection (2)(a) must serve on any person appearing to the procurator fiscal to be the owner of, or otherwise have an interest in, the products or articles to which the application relates a copy of the application, together with a notice giving the person the opportunity[^c-e481c5cb17ddd89b8f96385bd66dc2db] to appear at the hearing of the application to show cause why the products or articles should not be forfeited.
 >
 > (6) Service under subsection (5) must be carried out, and such service may be proved, in the manner specified for citation of an accused in summary proceedings under the Criminal Procedure (Scotland) Act 1995.
 >
@@ -594,7 +594,7 @@ After section 35 of the Registered Designs Act 1949 insert—
 > - (a) in relation to an order made on an application under subsection (2)(a), the sheriff;
 > - (b) in relation to an order made under subsection (2)(b), the court which imposed the penalty.
 
-#### 14. Offences committed by partnerships[^key-b2380f37eca15d73a093a9291837bf50]
+#### 14. Offences committed by partnerships[^c-b2380f37eca15d73a093a9291837bf50]
 
 At the end of section 35A of the Registered Designs Act 1949 (the title to which becomes “ Offence by body corporate or partnership: liability of officers or partners ”) insert—
 
@@ -614,7 +614,7 @@ At the end of section 35A of the Registered Designs Act 1949 (the title to which
 
 ## Part 2 — Patents
 
-### 15. Infringement: marking product with internet link[^key-5fad9479112b760f517f51db215468fb]
+### 15. Infringement: marking product with internet link[^c-5fad9479112b760f517f51db215468fb]
 
 (1) In section 62 of the Patents Act 1977 (restrictions on recovery of damages for infringement), in subsection (1), after “the number of the patent” insert “ or a relevant internet link ”.
 
@@ -625,7 +625,7 @@ At the end of section 35A of the Registered Designs Act 1949 (the title to which
 > - (a) which is accessible to the public free of charge, and
 > - (b) which clearly associates the product with the number of the patent.
 
-### 16. Opinions service[^key-d2cc652821a029cc59e427d0c605810b]
+### 16. Opinions service[^c-d2cc652821a029cc59e427d0c605810b]
 
 (1) In section 74A of the Patents Act 1977 (the title to which becomes “ Opinions on matters prescribed in the rules ”), in subsection (1), for the words from “an opinion” to the end substitute “ an opinion on a prescribed matter in relation to the patent ”.
 
@@ -644,11 +644,11 @@ At the end of section 35A of the Registered Designs Act 1949 (the title to which
 >
 > (1C) The comptroller shall not exercise the power under subsection (1A) without giving the proprietor of the patent an opportunity to make any observations and to amend the specification of the patent without contravening section 76.
 
-### 17. Unified Patent Court[^key-d8b114d5409d80cd5e0079a6adb64f10]
+### 17. Unified Patent Court[^c-d8b114d5409d80cd5e0079a6adb64f10]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Sharing information with overseas patent offices[^key-f711d5494a8d897e2172175612be1db6]
+### 18. Sharing information with overseas patent offices[^c-f711d5494a8d897e2172175612be1db6]
 
 (1) In section 118 of the Patents Act 1977 (information on patent applications etc.), in subsection (3), after paragraph (a) (but before the following “or”) insert—
 
@@ -666,13 +666,13 @@ At the end of section 35A of the Registered Designs Act 1949 (the title to which
 
 > (3C) The reference in subsection (3)(aa) to a patent office is to an organisation which carries out, in relation to patents, functions of the kind carried out at the Patent Office.
 
-### 19. Minor amendments to the Patents Act 1977[^key-6f6d2427edd179fd33b9ea7d6a635c8e]
+### 19. Minor amendments to the Patents Act 1977[^c-6f6d2427edd179fd33b9ea7d6a635c8e]
 
 The Schedule (which makes minor amendments to the Patents Act 1977) has effect.
 
 ## Part 3 — Miscellaneous
 
-### 20. Freedom of information: exemption for research[^key-be291ec4014260c19f5efd48ac5061e0]
+### 20. Freedom of information: exemption for research[^c-be291ec4014260c19f5efd48ac5061e0]
 
 After section 22 of the Freedom of Information Act 2000, insert—
 
@@ -689,7 +689,7 @@ After section 22 of the Freedom of Information Act 2000, insert—
 >
 > (2) The duty to confirm or deny does not arise in relation to information which is (or if it were held by the public authority would be) exempt information by virtue of subsection (1) if, or to the extent that, compliance with section 1(1)(a) would, or would be likely to, prejudice any of the matters mentioned in subsection (1)(b).
 
-### 21. Reporting duty[^key-0cf45374e60638dfa0d72cc279a8e2bd]
+### 21. Reporting duty[^c-0cf45374e60638dfa0d72cc279a8e2bd]
 
 (1) The Secretary of State must, before the end of the period of 6 months beginning with the end of each financial year, lay before Parliament a report setting out—
 
@@ -712,7 +712,7 @@ After section 22 of the Freedom of Information Act 2000, insert—
 - (a) subordinate legislation within the meaning of the Interpretation Act 1978, and
 - (b) legislation of the European Union.
 
-### 22. Recognition of foreign copyright works and performances[^key-dee0a8cf9787edbaa34de1576c330bc0][^key-89cb7a99fb6bb3cb636e2e64eba7c9ea]
+### 22. Recognition of foreign copyright works and performances[^c-dee0a8cf9787edbaa34de1576c330bc0][^c-89cb7a99fb6bb3cb636e2e64eba7c9ea]
 
 (1) In section 154 of the Copyright, Designs and Patents Act 1988 (qualification by reference to author), in subsection (1)—
 
@@ -822,7 +822,7 @@ After section 22 of the Freedom of Information Act 2000, insert—
 
 ## Part 4 — General
 
-### 23. Power to make consequential or transitional provision etc.[^key-e5d4dfa141ae73daa7b9f85bc75cc5e6]
+### 23. Power to make consequential or transitional provision etc.[^c-e5d4dfa141ae73daa7b9f85bc75cc5e6]
 
 (1) The Secretary of State may by order made by statutory instrument—
 
@@ -864,7 +864,7 @@ Section 19
 
 ### Patent applications in or for WTO members
 
-**1.**[^key-d0d7c0c7239be70967b6eaf66ecc23be] (1) In section 5 of the Patents Act 1977 (priority date), in subsection (5), after paragraph (a) insert—
+**1.**[^c-d0d7c0c7239be70967b6eaf66ecc23be] (1) In section 5 of the Patents Act 1977 (priority date), in subsection (5), after paragraph (a) insert—
 
 > - (aa) an application in or for a country (other than the United Kingdom) which is a member of the World Trade Organisation for protection in respect of an invention which, in accordance with the law of that country or a treaty or international obligation to which it is a party, is equivalent to an application for a patent under this Act;
 
@@ -876,13 +876,13 @@ Section 19
 
 ### Assertion of third party rights where application terminated
 
-**2.**[^key-e3403aa031a7019c7106c7f0dab5792d] In section 20B of that Act (effect of reinstatement of patent application), after subsection (4) insert—
+**2.**[^c-e3403aa031a7019c7106c7f0dab5792d] In section 20B of that Act (effect of reinstatement of patent application), after subsection (4) insert—
 
 > (4A) The right conferred by subsection (4) does not become exercisable until the end of the period during which a request may be made under this Act, or under the rules, for an extension of the period referred to in section 20A(1).
 
 ### Adjustment of certain time periods to anniversary date model
 
-**3.**[^key-f77cf8e6337765a83ddbb9fa46ef18ff] (1) In each of the following provisions of that Act, for “the end of the period of two years beginning with” substitute “ the second anniversary of ”
+**3.**[^c-f77cf8e6337765a83ddbb9fa46ef18ff] (1) In each of the following provisions of that Act, for “the end of the period of two years beginning with” substitute “ the second anniversary of ”
 
 - (a) section 37(5) and (9) (determination of right to patent after grant), and
 - (b) section 72(2)(b) (application to revoke patent).
@@ -891,88 +891,88 @@ Section 19
 
 ### References to “counsel”
 
-**4.**[^key-a94762a224ea6c571b38bb600b02b17e] (1) In section 52(4) of that Act (appeals), for “such other counsel” substitute “ such other person who has a right of audience ”.
+**4.**[^c-a94762a224ea6c571b38bb600b02b17e] (1) In section 52(4) of that Act (appeals), for “such other counsel” substitute “ such other person who has a right of audience ”.
 
 (2) In section 58(2) of that Act (disputes as to Crown use), for “counsel for the other party” substitute “ the other party's legal representative ”.
 
 ### Correction of typographical error
 
-**5.**[^key-a839833100ea2399d73646fc1bccc2ba] In section 60(7) of that Act (meaning of infringement: interpretation), in the definition of “Directive [2001/82/EC](https://www.legislation.gov.uk/european/directive/2001/0082)”, for “[Directive 2004/28](https://www.legislation.gov.uk/european/directive/2004/0028)” substitute “ Directive [2004/28/EC](https://www.legislation.gov.uk/european/directive/2004/0028) ”.
+**5.**[^c-a839833100ea2399d73646fc1bccc2ba] In section 60(7) of that Act (meaning of infringement: interpretation), in the definition of “Directive [2001/82/EC](https://www.legislation.gov.uk/european/directive/2001/0082)”, for “[Directive 2004/28](https://www.legislation.gov.uk/european/directive/2004/0028)” substitute “ Directive [2004/28/EC](https://www.legislation.gov.uk/european/directive/2004/0028) ”.
 
 ### European patent (UK): payment of renewal fee following restoration
 
-**6.**[^key-a3d1bbaa056a568b79da9330566f73f5] In section 77 of that Act (European patents (UK)), after subsection (5) insert—
+**6.**[^c-a3d1bbaa056a568b79da9330566f73f5] In section 77 of that Act (European patents (UK)), after subsection (5) insert—
 
 > (5A) Where, under the European Patent Convention, a European patent (UK) is revoked and subsequently restored (including where it is revoked by the Board of Appeal and subsequently restored by the Enlarged Board of Appeal), any fee that would have been imposed in relation to the patent after the revocation but before the restoration is payable within the prescribed period following the restoration.
 
 ## Annotations
 
-[^key-3abf4847a95f2b813e525e39abcb4f92]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2014/18/section/1) in force at 1.10.2014 by [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule)
+[^c-3abf4847a95f2b813e525e39abcb4f92]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2014/18/section/1) in force at 1.10.2014 by [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule)
 
-[^key-1d33292125ddd6b4db5f001b5247837f]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2014/18/section/2) in force at 1.10.2014 by [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule)
+[^c-1d33292125ddd6b4db5f001b5247837f]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2014/18/section/2) in force at 1.10.2014 by [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule)
 
-[^key-3ba03904d5e87c4acf62e3323d083322]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2014/18/section/3) in force at 1.10.2014 by [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule)
+[^c-3ba03904d5e87c4acf62e3323d083322]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2014/18/section/3) in force at 1.10.2014 by [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule)
 
-[^key-e62f9c3a4d43b1d83e7c9df56ee86a82]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2014/18/section/4) in force at 1.10.2014 by [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule)
+[^c-e62f9c3a4d43b1d83e7c9df56ee86a82]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2014/18/section/4) in force at 1.10.2014 by [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule)
 
-[^key-adc3e8f9a10c9db7b63fa9fa73883547]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2014/18/section/5) in force at 1.10.2014 by [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule)
+[^c-adc3e8f9a10c9db7b63fa9fa73883547]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2014/18/section/5) in force at 1.10.2014 by [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule)
 
-[^key-b34c809608ac321ce864ae0e85202953]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2014/18/section/6) in force at 1.10.2014 by [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule) (with [art. 4](https://www.legislation.gov.uk/uksi/2014/2330/article/4))
+[^c-b34c809608ac321ce864ae0e85202953]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2014/18/section/6) in force at 1.10.2014 by [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule) (with [art. 4](https://www.legislation.gov.uk/uksi/2014/2330/article/4))
 
-[^key-5768ee3ac6736209caf706341cd53038]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2014/18/section/7) in force at 1.10.2014 by [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule)
+[^c-5768ee3ac6736209caf706341cd53038]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2014/18/section/7) in force at 1.10.2014 by [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule)
 
-[^key-0c8855800fc024cee3bace8312d8f03f]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2014/18/section/8) in force at 1.10.2014 by [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule)
+[^c-0c8855800fc024cee3bace8312d8f03f]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2014/18/section/8) in force at 1.10.2014 by [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule)
 
-[^key-6f4df442b94a621a2eca8c7eecd43430]: Commencement: [S. 9(1)](https://www.legislation.gov.uk/ukpga/2014/18/section/9/1) in force at 1.10.2014 by [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule)
+[^c-6f4df442b94a621a2eca8c7eecd43430]: Commencement: [S. 9(1)](https://www.legislation.gov.uk/ukpga/2014/18/section/9/1) in force at 1.10.2014 by [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule)
 
-[^key-012b6b393ec278140eba913fd23650c9]: Commencement: [S. 10(1)](https://www.legislation.gov.uk/ukpga/2014/18/section/10/1) in force at 1.10.2014 by [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule)
+[^c-012b6b393ec278140eba913fd23650c9]: Commencement: [S. 10(1)](https://www.legislation.gov.uk/ukpga/2014/18/section/10/1) in force at 1.10.2014 by [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule)
 
-[^key-a6f8b84019da6b84028a9e613f175d03]: Commencement: [S. 10(2)](https://www.legislation.gov.uk/ukpga/2014/18/section/10/2) in force at 15.7.2014 for specified purposes by [S.I. 2014/1715](https://www.legislation.gov.uk/uksi/2014/1715), [art. 3](https://www.legislation.gov.uk/uksi/2014/1715/article/3)
+[^c-a6f8b84019da6b84028a9e613f175d03]: Commencement: [S. 10(2)](https://www.legislation.gov.uk/ukpga/2014/18/section/10/2) in force at 15.7.2014 for specified purposes by [S.I. 2014/1715](https://www.legislation.gov.uk/uksi/2014/1715), [art. 3](https://www.legislation.gov.uk/uksi/2014/1715/article/3)
 
-[^key-fe32705093dc149167976b3bdb573584]: Commencement: [S. 10(2)](https://www.legislation.gov.uk/ukpga/2014/18/section/10/2) in force at 6.4.2015 in so far as not already in force by [S.I. 2015/165](https://www.legislation.gov.uk/uksi/2015/165), [art. 3](https://www.legislation.gov.uk/uksi/2015/165/article/3)
+[^c-fe32705093dc149167976b3bdb573584]: Commencement: [S. 10(2)](https://www.legislation.gov.uk/ukpga/2014/18/section/10/2) in force at 6.4.2015 in so far as not already in force by [S.I. 2015/165](https://www.legislation.gov.uk/uksi/2015/165), [art. 3](https://www.legislation.gov.uk/uksi/2015/165/article/3)
 
-[^key-4edbddab1f2a86a6d320db600482e358]: Commencement: [S. 10(3)-(11)](https://www.legislation.gov.uk/ukpga/2014/18/section/10/3) in force at 6.4.2015 by [S.I. 2015/165](https://www.legislation.gov.uk/uksi/2015/165), [art. 3](https://www.legislation.gov.uk/uksi/2015/165/article/3)
+[^c-4edbddab1f2a86a6d320db600482e358]: Commencement: [S. 10(3)-(11)](https://www.legislation.gov.uk/ukpga/2014/18/section/10/3) in force at 6.4.2015 by [S.I. 2015/165](https://www.legislation.gov.uk/uksi/2015/165), [art. 3](https://www.legislation.gov.uk/uksi/2015/165/article/3)
 
-[^key-0614eda0243f2d8496da4a419a77e184]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2014/18/section/11) in force at 1.10.2014 by [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule)
+[^c-0614eda0243f2d8496da4a419a77e184]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2014/18/section/11) in force at 1.10.2014 by [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule)
 
-[^key-a898bd86cf18566dde8387fb3e67d064]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2014/18/section/12) in force at 1.10.2014 by [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule)
+[^c-a898bd86cf18566dde8387fb3e67d064]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2014/18/section/12) in force at 1.10.2014 by [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule)
 
-[^key-891f1ab49c9fce70a4063c4233d3d7a5]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2014/18/section/13) in force at 1.10.2014 by [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule)
+[^c-891f1ab49c9fce70a4063c4233d3d7a5]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2014/18/section/13) in force at 1.10.2014 by [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule)
 
-[^key-5e7c845e6525f7bf10c812e3188f36b3]: Textual amendment: Words in s. 13 inserted (29.9.2014) by [The Intellectual Property Act 2014 (Amendment) Regulations 2014 (S.I. 2014/2329)](https://www.legislation.gov.uk/uksi/2014/2329), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2329/regulation/1), [3(1)](https://www.legislation.gov.uk/uksi/2014/2329/regulation/3/1)
+[^c-5e7c845e6525f7bf10c812e3188f36b3]: Textual amendment: Words in s. 13 inserted (29.9.2014) by [The Intellectual Property Act 2014 (Amendment) Regulations 2014 (S.I. 2014/2329)](https://www.legislation.gov.uk/uksi/2014/2329), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2329/regulation/1), [3(1)](https://www.legislation.gov.uk/uksi/2014/2329/regulation/3/1)
 
-[^key-e481c5cb17ddd89b8f96385bd66dc2db]: Textual amendment: Words in s. 13 substituted (29.9.2014) by [The Intellectual Property Act 2014 (Amendment) Regulations 2014 (S.I. 2014/2329)](https://www.legislation.gov.uk/uksi/2014/2329), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2329/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2014/2329/regulation/3/2)
+[^c-e481c5cb17ddd89b8f96385bd66dc2db]: Textual amendment: Words in s. 13 substituted (29.9.2014) by [The Intellectual Property Act 2014 (Amendment) Regulations 2014 (S.I. 2014/2329)](https://www.legislation.gov.uk/uksi/2014/2329), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2329/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2014/2329/regulation/3/2)
 
-[^key-b2380f37eca15d73a093a9291837bf50]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2014/18/section/14) in force at 1.10.2014 by [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule)
+[^c-b2380f37eca15d73a093a9291837bf50]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2014/18/section/14) in force at 1.10.2014 by [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule)
 
-[^key-5fad9479112b760f517f51db215468fb]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2014/18/section/15) in force at 1.10.2014 by [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule) (with [art. 5](https://www.legislation.gov.uk/uksi/2014/2330/article/5))
+[^c-5fad9479112b760f517f51db215468fb]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2014/18/section/15) in force at 1.10.2014 by [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule) (with [art. 5](https://www.legislation.gov.uk/uksi/2014/2330/article/5))
 
-[^key-d2cc652821a029cc59e427d0c605810b]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2014/18/section/16) in force at 1.10.2014 by [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule) (with [art. 6](https://www.legislation.gov.uk/uksi/2014/2330/article/6))
+[^c-d2cc652821a029cc59e427d0c605810b]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2014/18/section/16) in force at 1.10.2014 by [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule) (with [art. 6](https://www.legislation.gov.uk/uksi/2014/2330/article/6))
 
-[^key-d8b114d5409d80cd5e0079a6adb64f10]: Textual amendment: [S. 17](https://www.legislation.gov.uk/ukpga/2014/18/section/17) repealed (coming into force in accordance with reg. 1(3) of the amending S.I.) by [The Patents (European Patent with Unitary Effect and Unified Patent Court) (Repeal and Revocation) Regulations 2021 (S.I. 2021/355)](https://www.legislation.gov.uk/uksi/2021/355), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/355/regulation/1/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2021/355/schedule/paragraph/1)
+[^c-d8b114d5409d80cd5e0079a6adb64f10]: Textual amendment: [S. 17](https://www.legislation.gov.uk/ukpga/2014/18/section/17) repealed (coming into force in accordance with reg. 1(3) of the amending S.I.) by [The Patents (European Patent with Unitary Effect and Unified Patent Court) (Repeal and Revocation) Regulations 2021 (S.I. 2021/355)](https://www.legislation.gov.uk/uksi/2021/355), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/355/regulation/1/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2021/355/schedule/paragraph/1)
 
-[^key-f711d5494a8d897e2172175612be1db6]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2014/18/section/18) in force at 1.10.2014 by [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule) (with [art. 7](https://www.legislation.gov.uk/uksi/2014/2330/article/7))
+[^c-f711d5494a8d897e2172175612be1db6]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2014/18/section/18) in force at 1.10.2014 by [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule) (with [art. 7](https://www.legislation.gov.uk/uksi/2014/2330/article/7))
 
-[^key-6f6d2427edd179fd33b9ea7d6a635c8e]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2014/18/section/19) in force at 1.10.2014 by [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule)
+[^c-6f6d2427edd179fd33b9ea7d6a635c8e]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2014/18/section/19) in force at 1.10.2014 by [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule)
 
-[^key-be291ec4014260c19f5efd48ac5061e0]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2014/18/section/20) in force at 1.10.2014 by [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule)
+[^c-be291ec4014260c19f5efd48ac5061e0]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2014/18/section/20) in force at 1.10.2014 by [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule)
 
-[^key-0cf45374e60638dfa0d72cc279a8e2bd]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2014/18/section/21) in force at 1.10.2014 by [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule)
+[^c-0cf45374e60638dfa0d72cc279a8e2bd]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2014/18/section/21) in force at 1.10.2014 by [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule)
 
-[^key-dee0a8cf9787edbaa34de1576c330bc0]: Commencement: S. 22 in force at 1.12.2016 for specified purposes by [S.I. 2016/1139](https://www.legislation.gov.uk/uksi/2016/1139), [art. 2](https://www.legislation.gov.uk/uksi/2016/1139/article/2)
+[^c-dee0a8cf9787edbaa34de1576c330bc0]: Commencement: S. 22 in force at 1.12.2016 for specified purposes by [S.I. 2016/1139](https://www.legislation.gov.uk/uksi/2016/1139), [art. 2](https://www.legislation.gov.uk/uksi/2016/1139/article/2)
 
-[^key-89cb7a99fb6bb3cb636e2e64eba7c9ea]: Commencement: S. 22 in force at 6.4.2017 in so far as not already in force by [S.I. 2016/1139](https://www.legislation.gov.uk/uksi/2016/1139), [art. 3](https://www.legislation.gov.uk/uksi/2016/1139/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2016/1139/article/4))
+[^c-89cb7a99fb6bb3cb636e2e64eba7c9ea]: Commencement: S. 22 in force at 6.4.2017 in so far as not already in force by [S.I. 2016/1139](https://www.legislation.gov.uk/uksi/2016/1139), [art. 3](https://www.legislation.gov.uk/uksi/2016/1139/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2016/1139/article/4))
 
-[^key-e5d4dfa141ae73daa7b9f85bc75cc5e6]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2014/18/section/23) in force at 1.8.2014 by [S.I. 2014/2069](https://www.legislation.gov.uk/uksi/2014/2069), [art. 2](https://www.legislation.gov.uk/uksi/2014/2069/article/2)
+[^c-e5d4dfa141ae73daa7b9f85bc75cc5e6]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2014/18/section/23) in force at 1.8.2014 by [S.I. 2014/2069](https://www.legislation.gov.uk/uksi/2014/2069), [art. 2](https://www.legislation.gov.uk/uksi/2014/2069/article/2)
 
-[^key-d0d7c0c7239be70967b6eaf66ecc23be]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ukpga/2014/18/schedule/paragraph/1) in force at 1.10.2014 by [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule)
+[^c-d0d7c0c7239be70967b6eaf66ecc23be]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ukpga/2014/18/schedule/paragraph/1) in force at 1.10.2014 by [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule)
 
-[^key-e3403aa031a7019c7106c7f0dab5792d]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2014/18/schedule/paragraph/2) in force at 1.10.2014 by [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule)
+[^c-e3403aa031a7019c7106c7f0dab5792d]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2014/18/schedule/paragraph/2) in force at 1.10.2014 by [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule)
 
-[^key-f77cf8e6337765a83ddbb9fa46ef18ff]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2014/18/schedule/paragraph/3) in force at 1.10.2014 by [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule)
+[^c-f77cf8e6337765a83ddbb9fa46ef18ff]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2014/18/schedule/paragraph/3) in force at 1.10.2014 by [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule)
 
-[^key-a94762a224ea6c571b38bb600b02b17e]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ukpga/2014/18/schedule/paragraph/4) in force at 1.10.2014 by [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule)
+[^c-a94762a224ea6c571b38bb600b02b17e]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ukpga/2014/18/schedule/paragraph/4) in force at 1.10.2014 by [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule)
 
-[^key-a839833100ea2399d73646fc1bccc2ba]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2014/18/schedule/paragraph/5) in force at 1.10.2014 by [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule)
+[^c-a839833100ea2399d73646fc1bccc2ba]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2014/18/schedule/paragraph/5) in force at 1.10.2014 by [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule)
 
-[^key-a3d1bbaa056a568b79da9330566f73f5]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ukpga/2014/18/schedule/paragraph/6) in force at 1.10.2014 by [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule) (with [art. 8](https://www.legislation.gov.uk/uksi/2014/2330/article/8))
+[^c-a3d1bbaa056a568b79da9330566f73f5]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ukpga/2014/18/schedule/paragraph/6) in force at 1.10.2014 by [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule) (with [art. 8](https://www.legislation.gov.uk/uksi/2014/2330/article/8))

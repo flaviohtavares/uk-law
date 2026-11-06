@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 91. Provisions as to different estates settled upon the same limitations.[^key-820df4a644c772c064579ea2134690fd]
+## 91. Provisions as to different estates settled upon the same limitations.[^c-820df4a644c772c064579ea2134690fd]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ Provided that, in any such case as last aforesaid, the powers of this section re
 
 ## Annotations
 
-[^key-820df4a644c772c064579ea2134690fd]: Modification: [S. 91](https://www.legislation.gov.uk/ukpga/Geo5/15-16/18/section/91) applied (with modifications) (23.12.2011) by [The Legal Services Act 2007 (Designation as a Licensing Authority) (No. 2) Order 2011 (S.I. 2011/2866)](https://www.legislation.gov.uk/uksi/2011/2866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2866/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/2866/schedule/2)
+[^c-820df4a644c772c064579ea2134690fd]: Modification: [S. 91](https://www.legislation.gov.uk/ukpga/Geo5/15-16/18/section/91) applied (with modifications) (23.12.2011) by [The Legal Services Act 2007 (Designation as a Licensing Authority) (No. 2) Order 2011 (S.I. 2011/2866)](https://www.legislation.gov.uk/uksi/2011/2866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2866/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/2866/schedule/2)

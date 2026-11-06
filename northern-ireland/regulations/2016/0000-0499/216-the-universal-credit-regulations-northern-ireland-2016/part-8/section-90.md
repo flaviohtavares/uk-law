@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1)[^key-3d452e5c308eb789bda27425722e983c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-3d452e5c308eb789bda27425722e983c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) A claimant falls within Article 25 of the Order if—
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3d452e5c308eb789bda27425722e983c]: Textual amendment: [Reg. 90(1)](https://www.legislation.gov.uk/nisr/2016/216/regulation/90/1) omitted (27.9.2017) by virtue of [The Welfare Reform and Work (Northern Ireland) Order 2016 (S.I. 2016/999)](https://www.legislation.gov.uk/nisi/2016/999), [arts. 2(1)](https://www.legislation.gov.uk/nisi/2016/999/article/2/1), [12(2)](https://www.legislation.gov.uk/nisi/2016/999/article/12/2); [S.R. 2017/166](https://www.legislation.gov.uk/nisr/2017/166), [art. 3(b)](https://www.legislation.gov.uk/nisr/2017/166/article/3/b)
+[^c-3d452e5c308eb789bda27425722e983c]: Textual amendment: [Reg. 90(1)](https://www.legislation.gov.uk/nisr/2016/216/regulation/90/1) omitted (27.9.2017) by virtue of [The Welfare Reform and Work (Northern Ireland) Order 2016 (S.I. 2016/999)](https://www.legislation.gov.uk/nisi/2016/999), [arts. 2(1)](https://www.legislation.gov.uk/nisi/2016/999/article/2/1), [12(2)](https://www.legislation.gov.uk/nisi/2016/999/article/12/2); [S.R. 2017/166](https://www.legislation.gov.uk/nisr/2017/166), [art. 3(b)](https://www.legislation.gov.uk/nisr/2017/166/article/3/b)

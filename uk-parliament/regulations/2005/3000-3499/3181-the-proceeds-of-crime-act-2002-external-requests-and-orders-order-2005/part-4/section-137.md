@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 137. Gifts and their recipients[^key-0fa87fa06fa36f8fbb1fc804c7c362a5]
+## 137. Gifts and their recipients[^c-0fa87fa06fa36f8fbb1fc804c7c362a5]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0fa87fa06fa36f8fbb1fc804c7c362a5]: Commencement: [Art. 137](https://www.legislation.gov.uk/uksi/2005/3181/article/137) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-0fa87fa06fa36f8fbb1fc804c7c362a5]: Commencement: [Art. 137](https://www.legislation.gov.uk/uksi/2005/3181/article/137) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

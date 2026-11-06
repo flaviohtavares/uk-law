@@ -44,13 +44,13 @@ The Lord President of the Council[^f00002] has consulted the Electoral Commissio
 
 In accordance with section 201(2)[^f00004] of the Representation of the People Act 1983 a draft of this instrument has been laid before and approved by resolution of each House of Parliament.
 
-## 1. Citation, commencement and extent[^key-acb01a8daa1a3d0e28d9062482ec41df]
+## 1. Citation, commencement and extent[^c-acb01a8daa1a3d0e28d9062482ec41df]
 
 (1) These Regulations may be cited as the Representation of the People (Provision of Information Regarding Proxies) Regulations 2013 and come into force on the day on which section 3 of the Electoral Registration and Administration Act 2013[^f00005] comes into force.
 
 (2) These Regulations extend to Great Britain and Northern Ireland.
 
-## 2. Steps which may be taken by a registration officer in relation to the appointment of proxies[^key-475c31a32d46803793b92805cb3e8b20][^key-cfb3079e0bfb607cf5e5eb26f03d6e85]
+## 2. Steps which may be taken by a registration officer in relation to the appointment of proxies[^c-475c31a32d46803793b92805cb3e8b20][^c-cfb3079e0bfb607cf5e5eb26f03d6e85]
 
 (1) A registration officer in Great Britain may require a registration officer in Great Britain or Northern Ireland to provide information as soon as reasonably practicable about whether the person, whom an elector wishes to be appointed as their proxy under paragraph 6(7) or (8) of Schedule 4 to the Representation of the People Act 2000[^f00006], has or will have an entry in a relevant register maintained by that officer under section 9(1)[^f00007] of the Representation of the People Act 1983.
 
@@ -84,13 +84,13 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00004]: Footnote: section 201(2) was substituted by paragraph 69 of Schedule 4 to the Representation of the People Act [1985 (c. 50)](https://www.legislation.gov.uk/ukpga/1985/50).
 
-[^key-acb01a8daa1a3d0e28d9062482ec41df]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2013/3199/regulation/1) in force at 10.6.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/3199/regulation/1/1)
+[^c-acb01a8daa1a3d0e28d9062482ec41df]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2013/3199/regulation/1) in force at 10.6.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/3199/regulation/1/1)
 
 [^f00005]: Footnote: [2013 c. 6](https://www.legislation.gov.uk/ukpga/2013/6).
 
-[^key-475c31a32d46803793b92805cb3e8b20]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2013/3199/regulation/2) in force at 10.6.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/3199/regulation/1/1)
+[^c-475c31a32d46803793b92805cb3e8b20]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2013/3199/regulation/2) in force at 10.6.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/3199/regulation/1/1)
 
-[^key-cfb3079e0bfb607cf5e5eb26f03d6e85]: Modification: [Reg. 2](https://www.legislation.gov.uk/uksi/2013/3199/regulation/2) modified (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 113](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/113)
+[^c-cfb3079e0bfb607cf5e5eb26f03d6e85]: Modification: [Reg. 2](https://www.legislation.gov.uk/uksi/2013/3199/regulation/2) modified (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 113](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/113)
 
 [^f00006]: Footnote: [2000 c 2](https://www.legislation.gov.uk/ukpga/2000/2).
 

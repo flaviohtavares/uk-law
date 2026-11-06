@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Restriction on power of governing body to publish foundation proposals[^key-05ba56ef6065b422ab398af43e5da7d5]
+## 20. Restriction on power of governing body to publish foundation proposals[^c-05ba56ef6065b422ab398af43e5da7d5]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-05ba56ef6065b422ab398af43e5da7d5]: Commencement: S. 20 in force at 25.5.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(d)](https://www.legislation.gov.uk/uksi/2007/935/article/7/d)
+[^c-05ba56ef6065b422ab398af43e5da7d5]: Commencement: S. 20 in force at 25.5.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(d)](https://www.legislation.gov.uk/uksi/2007/935/article/7/d)

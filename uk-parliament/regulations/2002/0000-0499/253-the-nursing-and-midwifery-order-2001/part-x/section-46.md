@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Further provisions[^key-0da2a8ec627f1db78a985d144b8e7289]
+## 46. Further provisions[^c-0da2a8ec627f1db78a985d144b8e7289]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-0da2a8ec627f1db78a985d144b8e7289] The Privy Council may make provision by order with regard to the functions of legal assessors and in particular provision may be made—
+(1)[^c-0da2a8ec627f1db78a985d144b8e7289] The Privy Council may make provision by order with regard to the functions of legal assessors and in particular provision may be made—
 
 - (a) requiring legal assessors, when advising the Council or any of its committees, to do so in the presence of the parties or their representatives or, where advice is given in private, requiring the parties to be notified of the advice tendered by the legal assessors;
 - (b) requiring the parties to be notified in any case where the legal assessor’s advice is not accepted.
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0da2a8ec627f1db78a985d144b8e7289]: Commencement: [Art. 46(1)](https://www.legislation.gov.uk/uksi/2002/253/article/46/1) in force at 5.3.2004 as notified in the London Gazette (Issue 57218, published 27.2.2004), see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2002/253/article/1/3)
+[^c-0da2a8ec627f1db78a985d144b8e7289]: Commencement: [Art. 46(1)](https://www.legislation.gov.uk/uksi/2002/253/article/46/1) in force at 5.3.2004 as notified in the London Gazette (Issue 57218, published 27.2.2004), see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2002/253/article/1/3)

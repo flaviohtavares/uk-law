@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97G. Restrictions on power to give transfer notice[^key-6433e818ce020f2adf03b0b0e9ebe1fc][^c11727411]
+## 97G. Restrictions on power to give transfer notice[^c-6433e818ce020f2adf03b0b0e9ebe1fc][^c11727411]
 
 *Extent: N.I.*
 
@@ -48,6 +48,6 @@ the member may not, if the scheme so provides, give a transfer notice in relatio
 
 ## Annotations
 
-[^key-6433e818ce020f2adf03b0b0e9ebe1fc]: Textual amendment: S. 97G substituted (3.3.2015 for specified purposes, 6.4.2015 in so far as not already in force) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [s. 89(1)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/1/b)[(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/3/b), [Sch. 4 para. 62](https://www.legislation.gov.uk/ukpga/2015/8/schedule/4/paragraph/62) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))
+[^c-6433e818ce020f2adf03b0b0e9ebe1fc]: Textual amendment: S. 97G substituted (3.3.2015 for specified purposes, 6.4.2015 in so far as not already in force) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [s. 89(1)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/1/b)[(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/3/b), [Sch. 4 para. 62](https://www.legislation.gov.uk/ukpga/2015/8/schedule/4/paragraph/62) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))
 
 [^c11727411]: Textual amendment: Pt. 4A Chapters 1, 2 (ss. 97A-97Q) inserted (1.12.1999 for certain purposes and otherwise 1.12.2000) by [S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147), [arts. 1(5)(a)](https://www.legislation.gov.uk/nisi/1999/3147/article/1/5/a), [34](https://www.legislation.gov.uk/nisi/1999/3147/article/34); [S.R. 2000/133](https://www.legislation.gov.uk/nisr/2000/133), [art. 2(3)](https://www.legislation.gov.uk/nisr/2000/133/article/2/3), [Sch. Pt. IV](https://www.legislation.gov.uk/nisr/2000/133/schedule/part/IV)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.53.5. Permission to appeal to Sheriff Appeal Court[^key-53ac967347e3e86a47bec466f58b049e]
+## 3.53.5. Permission to appeal to Sheriff Appeal Court[^c-53ac967347e3e86a47bec466f58b049e]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-53ac967347e3e86a47bec466f58b049e]: Textual amendment: Ch. 3 Pt. 53 inserted (17.12.2021) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules 1999 and Sheriff Appeal Court Rules Amendment) (Age of Criminal Responsibility (Scotland) Act 2019) 2021 (S.S.I. 2021/452)](https://www.legislation.gov.uk/ssi/2021/452), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2021/452/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2021/452/paragraph/2/2)
+[^c-53ac967347e3e86a47bec466f58b049e]: Textual amendment: Ch. 3 Pt. 53 inserted (17.12.2021) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules 1999 and Sheriff Appeal Court Rules Amendment) (Age of Criminal Responsibility (Scotland) Act 2019) 2021 (S.S.I. 2021/452)](https://www.legislation.gov.uk/ssi/2021/452), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2021/452/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2021/452/paragraph/2/2)

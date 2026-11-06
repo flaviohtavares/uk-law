@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 82. Referral to the Lands Tribunal for Scotland[^key-5a9fff037b495ee6e2118373eb56cdad]
+## 82. Referral to the Lands Tribunal for Scotland[^c-5a9fff037b495ee6e2118373eb56cdad]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ to the Lands Tribunal for Scotland.
 
 ## Annotations
 
-[^key-5a9fff037b495ee6e2118373eb56cdad]: Commencement: [S. 82](https://www.legislation.gov.uk/asp/2012/5/section/82) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-5a9fff037b495ee6e2118373eb56cdad]: Commencement: [S. 82](https://www.legislation.gov.uk/asp/2012/5/section/82) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

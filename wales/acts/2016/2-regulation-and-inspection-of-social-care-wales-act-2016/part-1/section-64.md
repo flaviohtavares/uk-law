@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Interpretation of this Part[^key-bdd66b8bf3b99391194871ff092a428e]
+## 64. Interpretation of this Part[^c-bdd66b8bf3b99391194871ff092a428e]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bdd66b8bf3b99391194871ff092a428e]: Commencement: S. 64 in force at 2.4.2018 by [S.I. 2017/1326](https://www.legislation.gov.uk/wsi/2017/1326), [art. 2(3)(g)](https://www.legislation.gov.uk/wsi/2017/1326/article/2/3/g)
+[^c-bdd66b8bf3b99391194871ff092a428e]: Commencement: S. 64 in force at 2.4.2018 by [S.I. 2017/1326](https://www.legislation.gov.uk/wsi/2017/1326), [art. 2(3)(g)](https://www.legislation.gov.uk/wsi/2017/1326/article/2/3/g)

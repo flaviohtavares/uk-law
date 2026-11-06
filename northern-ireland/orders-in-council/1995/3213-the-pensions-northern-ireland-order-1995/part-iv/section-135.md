@@ -32,8 +32,8 @@ summary: ''
 
 (4) In subsection (3)(e), the words following “prescribed period” are omitted.
 
-(5)[^key-05eb103bf76166979ae78995b35677aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-05eb103bf76166979ae78995b35677aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-05eb103bf76166979ae78995b35677aa]: Textual amendment: [Art. 135(5)](https://www.legislation.gov.uk/nisi/1995/3213/article/135/5) repealed (6.4.2012) by [Pensions Act (Northern Ireland) 2008 (c. 1)](https://www.legislation.gov.uk/nia/2008/1), [ss. 13(4)](https://www.legislation.gov.uk/nia/2008/1/section/13/4), [19(5)](https://www.legislation.gov.uk/nia/2008/1/section/19/5), [Sch. 6 Pt. 6](https://www.legislation.gov.uk/nia/2008/1/schedule/6/part/6); [S.R. 2012/115](https://www.legislation.gov.uk/nisr/2012/115), [art. 2](https://www.legislation.gov.uk/nisr/2012/115/article/2)
+[^c-05eb103bf76166979ae78995b35677aa]: Textual amendment: [Art. 135(5)](https://www.legislation.gov.uk/nisi/1995/3213/article/135/5) repealed (6.4.2012) by [Pensions Act (Northern Ireland) 2008 (c. 1)](https://www.legislation.gov.uk/nia/2008/1), [ss. 13(4)](https://www.legislation.gov.uk/nia/2008/1/section/13/4), [19(5)](https://www.legislation.gov.uk/nia/2008/1/section/19/5), [Sch. 6 Pt. 6](https://www.legislation.gov.uk/nia/2008/1/schedule/6/part/6); [S.R. 2012/115](https://www.legislation.gov.uk/nisr/2012/115), [art. 2](https://www.legislation.gov.uk/nisr/2012/115/article/2)

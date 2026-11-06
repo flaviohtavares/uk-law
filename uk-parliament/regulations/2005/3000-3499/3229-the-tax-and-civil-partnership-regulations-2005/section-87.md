@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87.[^key-2b9d21005336b4ab0e452b55a08ba727]
+## 87.[^c-2b9d21005336b4ab0e452b55a08ba727]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 632A (personal pension schemes: eligibility to make contributions), i
 
 ## Annotations
 
-[^key-2b9d21005336b4ab0e452b55a08ba727]: Commencement: Reg. 87 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-2b9d21005336b4ab0e452b55a08ba727]: Commencement: Reg. 87 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

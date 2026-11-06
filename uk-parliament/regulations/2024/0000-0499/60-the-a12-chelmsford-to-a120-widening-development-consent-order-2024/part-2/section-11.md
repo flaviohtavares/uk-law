@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Consent to transfer benefit of Order[^key-3136b8c73ae19bcef0462b6b97d65e02]
+## 11. Consent to transfer benefit of Order[^c-3136b8c73ae19bcef0462b6b97d65e02]
 
 *Extent: E+W*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3136b8c73ae19bcef0462b6b97d65e02]: Commencement: Art. 11 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
+[^c-3136b8c73ae19bcef0462b6b97d65e02]: Commencement: Art. 11 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)

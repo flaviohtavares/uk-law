@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Making or storage of silage[^key-3942c451d4058ed27978727c33dbf441]
+## 24. Making or storage of silage[^c-3942c451d4058ed27978727c33dbf441]
 
 *Extent: E+W*
 
@@ -27,7 +27,7 @@ summary: ''
   - (i) are wrapped and sealed into impermeable membranes, or enclosed in impermeable bags, and
   - (ii) are stored at least 10 metres from any inland freshwaters or coastal waters that effluent escaping from the bales could enter, or
 - (c) if the silage is a crop being made into field silage (that is, silage made on open land by a method different from the baling method referred to in sub-paragraph (b)) or silage that is being stored on open land—
-  - (i) NRW[^key-b2abd7e1a2d66e8ab16c94dda251bc5b] is given notice of the place where the silage is to be made or stored at least 14 days before the place is first used for that purpose, and
+  - (i) NRW[^c-b2abd7e1a2d66e8ab16c94dda251bc5b] is given notice of the place where the silage is to be made or stored at least 14 days before the place is first used for that purpose, and
   - (ii) the place is at least 10 metres from any inland freshwaters or coastal waters, and at least 50 metres from the nearest relevant water abstraction point of any protected water supply source that silage effluent could enter if it escaped.
 
 (2) For paragraph (1)(c)(ii), a water supply source is a protected water supply source if—
@@ -51,9 +51,9 @@ summary: ''
 
 ## Annotations
 
-[^key-3942c451d4058ed27978727c33dbf441]: Commencement: [Reg. 24](https://www.legislation.gov.uk/wsi/2021/77/regulation/24) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)
+[^c-3942c451d4058ed27978727c33dbf441]: Commencement: [Reg. 24](https://www.legislation.gov.uk/wsi/2021/77/regulation/24) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)
 
-[^key-b2abd7e1a2d66e8ab16c94dda251bc5b]: Textual amendment: Word in [reg. 24(1)(c)(i)](https://www.legislation.gov.uk/wsi/2021/77/regulation/24/1/c/i) substituted (31.12.2023) by [The Water Resources (Control of Agricultural Pollution) (Wales) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1393)](https://www.legislation.gov.uk/wsi/2023/1393), [regs. 1](https://www.legislation.gov.uk/wsi/2023/1393/regulation/1), [7(a)](https://www.legislation.gov.uk/wsi/2023/1393/regulation/7/a)
+[^c-b2abd7e1a2d66e8ab16c94dda251bc5b]: Textual amendment: Word in [reg. 24(1)(c)(i)](https://www.legislation.gov.uk/wsi/2021/77/regulation/24/1/c/i) substituted (31.12.2023) by [The Water Resources (Control of Agricultural Pollution) (Wales) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1393)](https://www.legislation.gov.uk/wsi/2023/1393), [regs. 1](https://www.legislation.gov.uk/wsi/2023/1393/regulation/1), [7(a)](https://www.legislation.gov.uk/wsi/2023/1393/regulation/7/a)
 
 [^f00010]: Footnote: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57).
 

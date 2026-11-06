@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Continuity option 1: discharge of liabilities and winding up[^c24459131][^key-bfe1119cd2a97aef094aa252aa113be0]
+## 36. Continuity option 1: discharge of liabilities and winding up[^c24459131][^c-bfe1119cd2a97aef094aa252aa113be0]
 
 *Extent: E+W+S*
 
@@ -24,7 +24,7 @@ summary: ''
 
 - (a) quantify, in the case of each beneficiary, the amount that represents the value of the beneficiary's accrued rights to benefits under the scheme;
 - (b) formulate a proposal for discharging the scheme's liability to each beneficiary in respect of those rights, in one of the ways set out in subsection (2);
-- (c) notify the following[^key-5864ff6a2da90be3b4473dd5ca765677] of the proposal and of such other matters as may be specified in regulations made by the Secretary of State —[^key-ecf01342d98de67e91d3122f44f3956c]
+- (c) notify the following[^c-5864ff6a2da90be3b4473dd5ca765677] of the proposal and of such other matters as may be specified in regulations made by the Secretary of State —[^c-ecf01342d98de67e91d3122f44f3956c]
 - (i) each employer,
 - (ii) each beneficiary, and
 - (iii) where there scheme is a single or connected employer scheme, each relevant former employer.
@@ -85,8 +85,8 @@ summary: ''
 
 [^c24459131]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2021/1/section/36) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-bfe1119cd2a97aef094aa252aa113be0]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2021/1/section/36) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)
+[^c-bfe1119cd2a97aef094aa252aa113be0]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2021/1/section/36) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)
 
-[^key-5864ff6a2da90be3b4473dd5ca765677]: Textual amendment: Words in [s. 36(1)(c)](https://www.legislation.gov.uk/ukpga/2021/1/section/36/1/c) substituted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [17(2)(a)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/17/2/a)
+[^c-5864ff6a2da90be3b4473dd5ca765677]: Textual amendment: Words in [s. 36(1)(c)](https://www.legislation.gov.uk/ukpga/2021/1/section/36/1/c) substituted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [17(2)(a)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/17/2/a)
 
-[^key-ecf01342d98de67e91d3122f44f3956c]: Textual amendment: [S. 36(1)(c)(i)-(iii)](https://www.legislation.gov.uk/ukpga/2021/1/section/36/1/c/i) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [17(2)(b)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/17/2/b)
+[^c-ecf01342d98de67e91d3122f44f3956c]: Textual amendment: [S. 36(1)(c)(i)-(iii)](https://www.legislation.gov.uk/ukpga/2021/1/section/36/1/c/i) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [17(2)(b)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/17/2/b)

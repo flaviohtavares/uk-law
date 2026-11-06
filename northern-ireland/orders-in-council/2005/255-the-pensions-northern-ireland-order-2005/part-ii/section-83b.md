@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: N.I.*
 
-**83B.**[^key-4be80134c98ee3a8faeb61519290f50a] (1) Paragraph (3) applies where—
+**83B.**[^c-4be80134c98ee3a8faeb61519290f50a] (1) Paragraph (3) applies where—
 
 - (a) the Regulator is satisfied that Article 83A applies to a person by virtue of Article 54C or 54D (financial penalty for avoidance of employer debt etc),
 - (b) the Regulator issues a notice under Article 83A requiring the person to pay a penalty in respect of the act or failure to act in question, and
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4be80134c98ee3a8faeb61519290f50a]: Textual amendment: [Arts. 83A-83C](https://www.legislation.gov.uk/nisi/2005/255/article/83A) and cross-heading inserted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/b), [Sch. 8 para. 14](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/14); [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(3)(i)](https://www.legislation.gov.uk/nisr/2021/271/article/2/3/i) (with [art. 3(5)](https://www.legislation.gov.uk/nisr/2021/271/article/3/5))
+[^c-4be80134c98ee3a8faeb61519290f50a]: Textual amendment: [Arts. 83A-83C](https://www.legislation.gov.uk/nisi/2005/255/article/83A) and cross-heading inserted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/b), [Sch. 8 para. 14](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/14); [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(3)(i)](https://www.legislation.gov.uk/nisr/2021/271/article/2/3/i) (with [art. 3(5)](https://www.legislation.gov.uk/nisr/2021/271/article/3/5))

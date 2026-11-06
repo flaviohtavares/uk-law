@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 26. Complaint of misconduct: conciliation[^key-7a9fe25fa5ae153289649d881ffe3c2d]
+## 26. Complaint of misconduct: conciliation[^c-7a9fe25fa5ae153289649d881ffe3c2d]
 
 *Extent: E*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7a9fe25fa5ae153289649d881ffe3c2d]: Commencement: S. 26 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)
+[^c-7a9fe25fa5ae153289649d881ffe3c2d]: Commencement: S. 26 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)

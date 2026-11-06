@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. References to “the court” in Part 1 of the LRHUDA 1993[^key-c185370686fdc5fe42d0348b51ef4ba0]
+## 43. References to “the court” in Part 1 of the LRHUDA 1993[^c-c185370686fdc5fe42d0348b51ef4ba0]
 
 *Extent: E+W*
 
@@ -90,4 +90,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c185370686fdc5fe42d0348b51ef4ba0]: Commencement: S. 43 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-c185370686fdc5fe42d0348b51ef4ba0]: Commencement: S. 43 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

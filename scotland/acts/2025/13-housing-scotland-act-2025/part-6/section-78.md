@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 78. Transfer of funds into housing revenue account[^key-dd841dba885149ea74f744b9b69cef50][^key-40cfe0116dc896809736b67936b9e505]
+## 78. Transfer of funds into housing revenue account[^c-dd841dba885149ea74f744b9b69cef50][^c-40cfe0116dc896809736b67936b9e505]
 
 *Extent: S*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-dd841dba885149ea74f744b9b69cef50]: Commencement: S. 78 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
+[^c-dd841dba885149ea74f744b9b69cef50]: Commencement: S. 78 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
 
-[^key-40cfe0116dc896809736b67936b9e505]: Commencement: [S. 78](https://www.legislation.gov.uk/asp/2025/13/section/78) in force at 12.1.2026 by [S.S.I. 2025/408](https://www.legislation.gov.uk/ssi/2025/408), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2025/408/regulation/2/c)
+[^c-40cfe0116dc896809736b67936b9e505]: Commencement: [S. 78](https://www.legislation.gov.uk/asp/2025/13/section/78) in force at 12.1.2026 by [S.S.I. 2025/408](https://www.legislation.gov.uk/ssi/2025/408), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2025/408/regulation/2/c)

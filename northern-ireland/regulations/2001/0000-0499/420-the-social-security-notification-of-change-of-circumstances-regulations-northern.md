@@ -41,28 +41,28 @@ Coming into operation
 
 The Department for Social Development, in exercise of the powers conferred by sections 105A(1A), (1B), (1D) and (1E), 106(1A) to (1D) and 165(1), (3) and (4) of the Social Security Administration (Northern Ireland) Act 1992[^f00001] and now vested in it[^f00002], and of all other powers enabling it in that behalf, by this statutory rule which contains only regulations made consequential upon section 15 of the Social Security Fraud Act (Northern Ireland) 2001[^f00003] and with the consent of the Department of Finance and Personnel[^f00004] in so far as regulation 4 is concerned, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-accca5296e3878a470ae893c277fb8f1]
+## 1. Citation, commencement and interpretation[^c-accca5296e3878a470ae893c277fb8f1]
 
 (1) These Regulations may be cited as the Social Security (Notification of Change of Circumstances) Regulations (Northern Ireland) 2001 and shall come into operation on 7th January 2002.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00005] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Notification for purposes of sections 105A and 106 of the Social Security Administration Act[^key-e28eaa3817966451c4c53acb2e433435]
+## 2. Notification for purposes of sections 105A and 106 of the Social Security Administration Act[^c-e28eaa3817966451c4c53acb2e433435]
 
 Regulations 3 to 5 prescribe the person to whom, and manner in which, a change of circumstances must be notified for the purposes of sections 105A(1A) to (1G) and 106(1A) to (1F) of the Social Security Administration (Northern Ireland) Act 1992 (offences relating to failure to notify a change of circumstances).
 
-## 3. Change affecting jobseeker’s allowance[^key-e5c5a3e53db5cd9f25870e3c3a191f0a]
+## 3. Change affecting jobseeker’s allowance[^c-e5c5a3e53db5cd9f25870e3c3a191f0a]
 
-(1) Subject to paragraph (1A),[^key-a54882a51779a8b197a105c522f319cf] where the benefit affected by the change of circumstances is a jobseeker’s allowance, notice must be given [^key-95bee534f5b94634fe1adec260785938]... to the Department [^key-95bee534f5b94634fe1adec260785938]... at the office that the claimant is required to attend in accordance with a notification given to him under regulation 23 of the Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00006] (attendance)—[^key-662f3d7c4735ebbd3c11879daea5653f]
+(1) Subject to paragraph (1A),[^c-a54882a51779a8b197a105c522f319cf] where the benefit affected by the change of circumstances is a jobseeker’s allowance, notice must be given [^c-95bee534f5b94634fe1adec260785938]... to the Department [^c-95bee534f5b94634fe1adec260785938]... at the office that the claimant is required to attend in accordance with a notification given to him under regulation 23 of the Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00006] (attendance)—[^c-662f3d7c4735ebbd3c11879daea5653f]
 
 - (a) in writing or by telephone (unless the Department determines in any particular case that notice must be in writing or may be given otherwise than in writing or by telephone); or
 - (b) in writing if in any class of case it requires written notice (unless it determines in any particular case to accept notice given otherwise than in writing).
 
-(1A)[^key-b0389eed00a659cc701df389ec2d2c9f] Where the notice in writing referred to in paragraph (1) is given or sent by an electronic communication that notice must be given or sent in accordance with the provisions set out in Schedule 8D to the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987.
+(1A)[^c-b0389eed00a659cc701df389ec2d2c9f] Where the notice in writing referred to in paragraph (1) is given or sent by an electronic communication that notice must be given or sent in accordance with the provisions set out in Schedule 8D to the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987.
 
 (2) In this regulation “Department” includes a person designated as an employment officer by an order made by the Department under Article 10(3) of the Jobseekers (Northern Ireland) Order 1995[^f00007] (attendance, information and evidence).
 
-## 4. Change affecting housing benefit[^key-1175c1bcf023c0118cac3c4ad013e3f3][^key-ec0e5a61dfda98dde03646623d4ab7ec]
+## 4. Change affecting housing benefit[^c-1175c1bcf023c0118cac3c4ad013e3f3][^c-ec0e5a61dfda98dde03646623d4ab7ec]
 
 (1) Subject to paragraph (1A), where the benefit affected by the change of circumstances is housing benefit, notice must be given to the relevant authority at the designated office—
 
@@ -79,34 +79,34 @@ Regulations 3 to 5 prescribe the person to whom, and manner in which, a change o
 - (c) as a result of the change, either entitlement to housing benefit will end, or the amount of benefit will be reduced; and
 - (d) a telephone number has been provided for that purpose.
 
-(2)[^key-e16b02518d6af05a4ebf8dedb5b5ba70] In this regulation—
+(2)[^c-e16b02518d6af05a4ebf8dedb5b5ba70] In this regulation—
 
-- “appropriate office”, “claimant”, “designated office” and “relevant authority”[^key-bd731b61d5d8ac82ed7eccead99a4f47] have the same meaning as in regulation 2(1) of the Housing Benefit Regulations or, as the case may be, of the Housing Benefit (State Pension Credit) Regulations;
+- “appropriate office”, “claimant”, “designated office” and “relevant authority”[^c-bd731b61d5d8ac82ed7eccead99a4f47] have the same meaning as in regulation 2(1) of the Housing Benefit Regulations or, as the case may be, of the Housing Benefit (State Pension Credit) Regulations;
 - “the Housing Benefit Regulations” means the Housing Benefit Regulations (Northern Ireland) 2006;
 - “the Housing Benefit (State Pension Credit) Regulations” means the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006.
 
-## 5. Change affecting other benefit, payment or advantage[^key-6a45faa6c7e8b4bcc0311f6658d04f33]
+## 5. Change affecting other benefit, payment or advantage[^c-6a45faa6c7e8b4bcc0311f6658d04f33]
 
-(1)[^key-bc32817d01824d2018a189eb2e6eea69] Subject to paragraph (1A),[^key-49f0388c8f083e3f9e08d2d8982a0d6a] *(affected by repeal, see note)*[^key-bc32817d01824d2018a189eb2e6eea69] where the benefit or other payment or advantage affected by the change of circumstances is not jobseeker’s allowance or housing benefit, notice must be given *(affected by repeal, see note)*[^key-bc32817d01824d2018a189eb2e6eea69] to the Department at the appropriate office –[^key-9fee9f6be46391f262632f41214527e3] *(affected by repeal, see note)*[^key-bc32817d01824d2018a189eb2e6eea69]
+(1)[^c-bc32817d01824d2018a189eb2e6eea69] Subject to paragraph (1A),[^c-49f0388c8f083e3f9e08d2d8982a0d6a] *(affected by repeal, see note)*[^c-bc32817d01824d2018a189eb2e6eea69] where the benefit or other payment or advantage affected by the change of circumstances is not jobseeker’s allowance or housing benefit, notice must be given *(affected by repeal, see note)*[^c-bc32817d01824d2018a189eb2e6eea69] to the Department at the appropriate office –[^c-9fee9f6be46391f262632f41214527e3] *(affected by repeal, see note)*[^c-bc32817d01824d2018a189eb2e6eea69]
 
-- (a) in writing or by telephone (unless the Department determines in any particular case that notice must be in writing or may be given otherwise than in writing or by telephone); or *(affected by repeal, see note)*[^key-bc32817d01824d2018a189eb2e6eea69]
-- (b) in writing if in any class of case it requires written notice (unless it determines in any particular case to accept notice given otherwise than in writing) *(affected by repeal, see note)*[^key-bc32817d01824d2018a189eb2e6eea69].
+- (a) in writing or by telephone (unless the Department determines in any particular case that notice must be in writing or may be given otherwise than in writing or by telephone); or *(affected by repeal, see note)*[^c-bc32817d01824d2018a189eb2e6eea69]
+- (b) in writing if in any class of case it requires written notice (unless it determines in any particular case to accept notice given otherwise than in writing) *(affected by repeal, see note)*[^c-bc32817d01824d2018a189eb2e6eea69].
 
-(1A)[^key-536d64481a7019e68b00e07c9d326840] Where this paragraph applies, where the notice in writing referred to in paragraph (1) is given or sent by an electronic communication that notice must be given or sent in accordance with the provisions set out in Schedule 8D to the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987. *(affected by repeal, see note)*[^key-bc32817d01824d2018a189eb2e6eea69]
+(1A)[^c-536d64481a7019e68b00e07c9d326840] Where this paragraph applies, where the notice in writing referred to in paragraph (1) is given or sent by an electronic communication that notice must be given or sent in accordance with the provisions set out in Schedule 8D to the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987. *(affected by repeal, see note)*[^c-bc32817d01824d2018a189eb2e6eea69]
 
-(1B) Paragraph (1A) applies in relation to— *(affected by repeal, see note)*[^key-bc32817d01824d2018a189eb2e6eea69]
+(1B) Paragraph (1A) applies in relation to— *(affected by repeal, see note)*[^c-bc32817d01824d2018a189eb2e6eea69]
 
-- (a) attendance allowance; *(affected by repeal, see note)*[^key-bc32817d01824d2018a189eb2e6eea69]
-- (b) carer’s allowance; *(affected by repeal, see note)*[^key-bc32817d01824d2018a189eb2e6eea69]
-- (c) disability living allowance; *(affected by repeal, see note)*[^key-bc32817d01824d2018a189eb2e6eea69]
-- (d) an employment and support allowance; *(affected by repeal, see note)*[^key-bc32817d01824d2018a189eb2e6eea69]
-- (da (affected by repeal, see note))[^key-983e4af7b2d30996e795905d050087d2][^key-bc32817d01824d2018a189eb2e6eea69] incapacity benefit; *(affected by repeal, see note)*[^key-bc32817d01824d2018a189eb2e6eea69]
-- (e) income support. *(affected by repeal, see note)*[^key-bc32817d01824d2018a189eb2e6eea69]
-- (f)[^key-9ad9b584be33dac29fb0236250bf4fea] retirement pension; *(affected by repeal, see note)*[^key-bc32817d01824d2018a189eb2e6eea69]
-- (fa (affected by repeal, see note))[^key-5176be459430529eb8db713d5d6dd929][^key-bc32817d01824d2018a189eb2e6eea69] a state pension under Part 1 of the Pensions Act (Northern Ireland) 2015; *(affected by repeal, see note)*[^key-bc32817d01824d2018a189eb2e6eea69]
-- (g) state pension credit. *(affected by repeal, see note)*[^key-bc32817d01824d2018a189eb2e6eea69]
+- (a) attendance allowance; *(affected by repeal, see note)*[^c-bc32817d01824d2018a189eb2e6eea69]
+- (b) carer’s allowance; *(affected by repeal, see note)*[^c-bc32817d01824d2018a189eb2e6eea69]
+- (c) disability living allowance; *(affected by repeal, see note)*[^c-bc32817d01824d2018a189eb2e6eea69]
+- (d) an employment and support allowance; *(affected by repeal, see note)*[^c-bc32817d01824d2018a189eb2e6eea69]
+- (da (affected by repeal, see note))[^c-983e4af7b2d30996e795905d050087d2][^c-bc32817d01824d2018a189eb2e6eea69] incapacity benefit; *(affected by repeal, see note)*[^c-bc32817d01824d2018a189eb2e6eea69]
+- (e) income support. *(affected by repeal, see note)*[^c-bc32817d01824d2018a189eb2e6eea69]
+- (f)[^c-9ad9b584be33dac29fb0236250bf4fea] retirement pension; *(affected by repeal, see note)*[^c-bc32817d01824d2018a189eb2e6eea69]
+- (fa (affected by repeal, see note))[^c-5176be459430529eb8db713d5d6dd929][^c-bc32817d01824d2018a189eb2e6eea69] a state pension under Part 1 of the Pensions Act (Northern Ireland) 2015; *(affected by repeal, see note)*[^c-bc32817d01824d2018a189eb2e6eea69]
+- (g) state pension credit. *(affected by repeal, see note)*[^c-bc32817d01824d2018a189eb2e6eea69]
 
-(2) In this regulation “the appropriate office” has the same meaning as in regulation 2(1) of the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987 *(affected by repeal, see note)*[^key-bc32817d01824d2018a189eb2e6eea69][^f00011] (interpretation). *(affected by repeal, see note)*[^key-bc32817d01824d2018a189eb2e6eea69]
+(2) In this regulation “the appropriate office” has the same meaning as in regulation 2(1) of the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987 *(affected by repeal, see note)*[^c-bc32817d01824d2018a189eb2e6eea69][^f00011] (interpretation). *(affected by repeal, see note)*[^c-bc32817d01824d2018a189eb2e6eea69]
 
 Sealed with the Official Seal of the Department for Social Development on 3rd December 2001.
 
@@ -148,48 +148,48 @@ These Regulations do not impose any charge on business.
 
 [^f00004]: Footnote: *See* section 165(8) of the Social Security Administration (Northern Ireland) Act 1992, *see also* Article 6(*b*) of, and Part II of Schedule 4 to, [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-accca5296e3878a470ae893c277fb8f1]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2001/420/regulation/1) in operation at 7.1.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/420/regulation/1/1)
+[^c-accca5296e3878a470ae893c277fb8f1]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2001/420/regulation/1) in operation at 7.1.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/420/regulation/1/1)
 
 [^f00005]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-e28eaa3817966451c4c53acb2e433435]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2001/420/regulation/2) in operation at 7.1.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/420/regulation/1/1)
+[^c-e28eaa3817966451c4c53acb2e433435]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2001/420/regulation/2) in operation at 7.1.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/420/regulation/1/1)
 
-[^key-e5c5a3e53db5cd9f25870e3c3a191f0a]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2001/420/regulation/3) in operation at 7.1.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/420/regulation/1/1)
+[^c-e5c5a3e53db5cd9f25870e3c3a191f0a]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2001/420/regulation/3) in operation at 7.1.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/420/regulation/1/1)
 
-[^key-a54882a51779a8b197a105c522f319cf]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/nisr/2001/420/regulation/3/1) inserted (30.9.2011) by [The Social Security (Electronic Communications) Order (Northern Ireland) 2011 (S.R. 2011/298)](https://www.legislation.gov.uk/nisr/2011/298), [arts. 1](https://www.legislation.gov.uk/nisr/2011/298/article/1), [6(2)(a)](https://www.legislation.gov.uk/nisr/2011/298/article/6/2/a)
+[^c-a54882a51779a8b197a105c522f319cf]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/nisr/2001/420/regulation/3/1) inserted (30.9.2011) by [The Social Security (Electronic Communications) Order (Northern Ireland) 2011 (S.R. 2011/298)](https://www.legislation.gov.uk/nisr/2011/298), [arts. 1](https://www.legislation.gov.uk/nisr/2011/298/article/1), [6(2)(a)](https://www.legislation.gov.uk/nisr/2011/298/article/6/2/a)
 
-[^key-95bee534f5b94634fe1adec260785938]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/nisr/2001/420/regulation/3/1) omitted (10.4.2006) by virtue of [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2006 (S.R. 2006/168)](https://www.legislation.gov.uk/nisr/2006/168), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2006/168/regulation/1/b), [5(a)](https://www.legislation.gov.uk/nisr/2006/168/regulation/5/a)
+[^c-95bee534f5b94634fe1adec260785938]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/nisr/2001/420/regulation/3/1) omitted (10.4.2006) by virtue of [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2006 (S.R. 2006/168)](https://www.legislation.gov.uk/nisr/2006/168), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2006/168/regulation/1/b), [5(a)](https://www.legislation.gov.uk/nisr/2006/168/regulation/5/a)
 
 [^f00006]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198); regulation 23 was substituted by regulation 2(2) of [S.R. 2000 No. 255](https://www.legislation.gov.uk/nisr/2000/255)
 
-[^key-662f3d7c4735ebbd3c11879daea5653f]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/nisr/2001/420/regulation/3/1) substituted (10.4.2006) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2006 (S.R. 2006/168)](https://www.legislation.gov.uk/nisr/2006/168), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2006/168/regulation/1/b), [5(b)](https://www.legislation.gov.uk/nisr/2006/168/regulation/5/b)
+[^c-662f3d7c4735ebbd3c11879daea5653f]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/nisr/2001/420/regulation/3/1) substituted (10.4.2006) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2006 (S.R. 2006/168)](https://www.legislation.gov.uk/nisr/2006/168), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2006/168/regulation/1/b), [5(b)](https://www.legislation.gov.uk/nisr/2006/168/regulation/5/b)
 
-[^key-b0389eed00a659cc701df389ec2d2c9f]: Textual amendment: [Reg. 3(1A)](https://www.legislation.gov.uk/nisr/2001/420/regulation/3/1A) inserted (30.9.2011) by [The Social Security (Electronic Communications) Order (Northern Ireland) 2011 (S.R. 2011/298)](https://www.legislation.gov.uk/nisr/2011/298), [arts. 1](https://www.legislation.gov.uk/nisr/2011/298/article/1), [6(2)(b)](https://www.legislation.gov.uk/nisr/2011/298/article/6/2/b)
+[^c-b0389eed00a659cc701df389ec2d2c9f]: Textual amendment: [Reg. 3(1A)](https://www.legislation.gov.uk/nisr/2001/420/regulation/3/1A) inserted (30.9.2011) by [The Social Security (Electronic Communications) Order (Northern Ireland) 2011 (S.R. 2011/298)](https://www.legislation.gov.uk/nisr/2011/298), [arts. 1](https://www.legislation.gov.uk/nisr/2011/298/article/1), [6(2)(b)](https://www.legislation.gov.uk/nisr/2011/298/article/6/2/b)
 
 [^f00007]: Footnote: [S.I. 1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705); paragraph (3) was added by paragraph 27(3)(*b*) of Schedule 8 to the Welfare Reform and Pensions (Northern Ireland) Order 1999 ([S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147))
 
-[^key-1175c1bcf023c0118cac3c4ad013e3f3]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2001/420/regulation/4) in operation at 7.1.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/420/regulation/1/1)
+[^c-1175c1bcf023c0118cac3c4ad013e3f3]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2001/420/regulation/4) in operation at 7.1.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/420/regulation/1/1)
 
-[^key-ec0e5a61dfda98dde03646623d4ab7ec]: Textual amendment: [Reg. 4(1)](https://www.legislation.gov.uk/nisr/2001/420/regulation/4/1)[(1A)](https://www.legislation.gov.uk/nisr/2001/420/regulation/4/1A) substituted for [reg. 4(1)](https://www.legislation.gov.uk/nisr/2001/420/regulation/4/1) (1.5.2011) by [The Housing Benefit (Miscellaneous Amendments) Regulations (Northern Ireland) 2011 (S.R. 2011/136)](https://www.legislation.gov.uk/nisr/2011/136), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/136/regulation/1/1), [3(a)](https://www.legislation.gov.uk/nisr/2011/136/regulation/3/a)
+[^c-ec0e5a61dfda98dde03646623d4ab7ec]: Textual amendment: [Reg. 4(1)](https://www.legislation.gov.uk/nisr/2001/420/regulation/4/1)[(1A)](https://www.legislation.gov.uk/nisr/2001/420/regulation/4/1A) substituted for [reg. 4(1)](https://www.legislation.gov.uk/nisr/2001/420/regulation/4/1) (1.5.2011) by [The Housing Benefit (Miscellaneous Amendments) Regulations (Northern Ireland) 2011 (S.R. 2011/136)](https://www.legislation.gov.uk/nisr/2011/136), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/136/regulation/1/1), [3(a)](https://www.legislation.gov.uk/nisr/2011/136/regulation/3/a)
 
-[^key-e16b02518d6af05a4ebf8dedb5b5ba70]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/nisr/2001/420/regulation/4/2) substituted (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 2 para. 9(b)](https://www.legislation.gov.uk/nisr/2006/407/schedule/2/paragraph/9) (with [reg. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-e16b02518d6af05a4ebf8dedb5b5ba70]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/nisr/2001/420/regulation/4/2) substituted (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 2 para. 9(b)](https://www.legislation.gov.uk/nisr/2006/407/schedule/2/paragraph/9) (with [reg. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
-[^key-bd731b61d5d8ac82ed7eccead99a4f47]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/nisr/2001/420/regulation/4/2) substituted (1.5.2011) by [The Housing Benefit (Miscellaneous Amendments) Regulations (Northern Ireland) 2011 (S.R. 2011/136)](https://www.legislation.gov.uk/nisr/2011/136), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/136/regulation/1/1), [3(b)](https://www.legislation.gov.uk/nisr/2011/136/regulation/3/b)
+[^c-bd731b61d5d8ac82ed7eccead99a4f47]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/nisr/2001/420/regulation/4/2) substituted (1.5.2011) by [The Housing Benefit (Miscellaneous Amendments) Regulations (Northern Ireland) 2011 (S.R. 2011/136)](https://www.legislation.gov.uk/nisr/2011/136), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/136/regulation/1/1), [3(b)](https://www.legislation.gov.uk/nisr/2011/136/regulation/3/b)
 
-[^key-6a45faa6c7e8b4bcc0311f6658d04f33]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2001/420/regulation/5) in operation at 7.1.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/420/regulation/1/1)
+[^c-6a45faa6c7e8b4bcc0311f6658d04f33]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2001/420/regulation/5) in operation at 7.1.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/420/regulation/1/1)
 
-[^key-bc32817d01824d2018a189eb2e6eea69]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/nisr/2001/420/regulation/5) revoked for specified purposes (7.4.2003) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/2) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
+[^c-bc32817d01824d2018a189eb2e6eea69]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/nisr/2001/420/regulation/5) revoked for specified purposes (7.4.2003) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/2) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
 
-[^key-49f0388c8f083e3f9e08d2d8982a0d6a]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/nisr/2001/420/regulation/5/1) inserted (30.9.2011) by [The Social Security (Electronic Communications) Order (Northern Ireland) 2011 (S.R. 2011/298)](https://www.legislation.gov.uk/nisr/2011/298), [arts. 1](https://www.legislation.gov.uk/nisr/2011/298/article/1), [6(3)(a)](https://www.legislation.gov.uk/nisr/2011/298/article/6/3/a)
+[^c-49f0388c8f083e3f9e08d2d8982a0d6a]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/nisr/2001/420/regulation/5/1) inserted (30.9.2011) by [The Social Security (Electronic Communications) Order (Northern Ireland) 2011 (S.R. 2011/298)](https://www.legislation.gov.uk/nisr/2011/298), [arts. 1](https://www.legislation.gov.uk/nisr/2011/298/article/1), [6(3)(a)](https://www.legislation.gov.uk/nisr/2011/298/article/6/3/a)
 
-[^key-9fee9f6be46391f262632f41214527e3]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/nisr/2001/420/regulation/5/1) substituted (6.1.2004) by [The Social Security (Notification of Change of Circumstances) Regulations (Northern Ireland) 2003 (S.R. 2003/527)](https://www.legislation.gov.uk/nisr/2003/527), [regs. 1](https://www.legislation.gov.uk/nisr/2003/527/regulation/1), [3](https://www.legislation.gov.uk/nisr/2003/527/regulation/3)
+[^c-9fee9f6be46391f262632f41214527e3]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/nisr/2001/420/regulation/5/1) substituted (6.1.2004) by [The Social Security (Notification of Change of Circumstances) Regulations (Northern Ireland) 2003 (S.R. 2003/527)](https://www.legislation.gov.uk/nisr/2003/527), [regs. 1](https://www.legislation.gov.uk/nisr/2003/527/regulation/1), [3](https://www.legislation.gov.uk/nisr/2003/527/regulation/3)
 
-[^key-536d64481a7019e68b00e07c9d326840]: Textual amendment: [Reg. 5(1A)](https://www.legislation.gov.uk/nisr/2001/420/regulation/5/1A)[(1B)](https://www.legislation.gov.uk/nisr/2001/420/regulation/5/1B) inserted (30.9.2011) by [The Social Security (Electronic Communications) Order (Northern Ireland) 2011 (S.R. 2011/298)](https://www.legislation.gov.uk/nisr/2011/298), [arts. 1](https://www.legislation.gov.uk/nisr/2011/298/article/1), [6(3)(b)](https://www.legislation.gov.uk/nisr/2011/298/article/6/3/b)
+[^c-536d64481a7019e68b00e07c9d326840]: Textual amendment: [Reg. 5(1A)](https://www.legislation.gov.uk/nisr/2001/420/regulation/5/1A)[(1B)](https://www.legislation.gov.uk/nisr/2001/420/regulation/5/1B) inserted (30.9.2011) by [The Social Security (Electronic Communications) Order (Northern Ireland) 2011 (S.R. 2011/298)](https://www.legislation.gov.uk/nisr/2011/298), [arts. 1](https://www.legislation.gov.uk/nisr/2011/298/article/1), [6(3)(b)](https://www.legislation.gov.uk/nisr/2011/298/article/6/3/b)
 
-[^key-983e4af7b2d30996e795905d050087d2]: Textual amendment: [Reg. 5(1B)(da)](https://www.legislation.gov.uk/nisr/2001/420/regulation/5/1B/da) inserted (23.1.2012) by [The Social Security (Electronic Communications) (No. 2) Order (Northern Ireland) 2011 (S.R. 2011/431)](https://www.legislation.gov.uk/nisr/2011/431), [arts. 1](https://www.legislation.gov.uk/nisr/2011/431/article/1), [3(a)](https://www.legislation.gov.uk/nisr/2011/431/article/3/a)
+[^c-983e4af7b2d30996e795905d050087d2]: Textual amendment: [Reg. 5(1B)(da)](https://www.legislation.gov.uk/nisr/2001/420/regulation/5/1B/da) inserted (23.1.2012) by [The Social Security (Electronic Communications) (No. 2) Order (Northern Ireland) 2011 (S.R. 2011/431)](https://www.legislation.gov.uk/nisr/2011/431), [arts. 1](https://www.legislation.gov.uk/nisr/2011/431/article/1), [3(a)](https://www.legislation.gov.uk/nisr/2011/431/article/3/a)
 
-[^key-9ad9b584be33dac29fb0236250bf4fea]: Textual amendment: [Reg. 5(1B)(f)](https://www.legislation.gov.uk/nisr/2001/420/regulation/5/1B/f)[(g)](https://www.legislation.gov.uk/nisr/2001/420/regulation/5/1B/g) added (23.1.2012) by [The Social Security (Electronic Communications) (No. 2) Order (Northern Ireland) 2011 (S.R. 2011/431)](https://www.legislation.gov.uk/nisr/2011/431), [arts. 1](https://www.legislation.gov.uk/nisr/2011/431/article/1), [3(b)](https://www.legislation.gov.uk/nisr/2011/431/article/3/b)
+[^c-9ad9b584be33dac29fb0236250bf4fea]: Textual amendment: [Reg. 5(1B)(f)](https://www.legislation.gov.uk/nisr/2001/420/regulation/5/1B/f)[(g)](https://www.legislation.gov.uk/nisr/2001/420/regulation/5/1B/g) added (23.1.2012) by [The Social Security (Electronic Communications) (No. 2) Order (Northern Ireland) 2011 (S.R. 2011/431)](https://www.legislation.gov.uk/nisr/2011/431), [arts. 1](https://www.legislation.gov.uk/nisr/2011/431/article/1), [3(b)](https://www.legislation.gov.uk/nisr/2011/431/article/3/b)
 
-[^key-5176be459430529eb8db713d5d6dd929]: Textual amendment: [Reg. 5(1B)(fa)](https://www.legislation.gov.uk/nisr/2001/420/regulation/5/1B/fa) inserted (6.4.2016) by [The Pensions (2015 Act) (Consequential, Supplementary and Incidental Amendments) Order (Northern Ireland) 2015 (S.R. 2015/411)](https://www.legislation.gov.uk/nisr/2015/411), [arts. 1(b)](https://www.legislation.gov.uk/nisr/2015/411/article/1/b), [18](https://www.legislation.gov.uk/nisr/2015/411/article/18)
+[^c-5176be459430529eb8db713d5d6dd929]: Textual amendment: [Reg. 5(1B)(fa)](https://www.legislation.gov.uk/nisr/2001/420/regulation/5/1B/fa) inserted (6.4.2016) by [The Pensions (2015 Act) (Consequential, Supplementary and Incidental Amendments) Order (Northern Ireland) 2015 (S.R. 2015/411)](https://www.legislation.gov.uk/nisr/2015/411), [arts. 1(b)](https://www.legislation.gov.uk/nisr/2015/411/article/1/b), [18](https://www.legislation.gov.uk/nisr/2015/411/article/18)
 
 [^f00011]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); the definition of “appropriate office” was amended by paragraph 2(2) of Schedule 2 to [S.R. 2001 No. 175](https://www.legislation.gov.uk/nisr/2001/175)

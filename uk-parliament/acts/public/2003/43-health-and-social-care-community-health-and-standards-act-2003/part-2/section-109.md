@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 109. Assembly: duties relating to children[^key-9d923fe564627a71e131ca9a01a365d8]
+## 109. Assembly: duties relating to children[^c-9d923fe564627a71e131ca9a01a365d8]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ In section 8 of the Care Standards Act 2000 (general functions of the Assembly),
 
 ## Annotations
 
-[^key-9d923fe564627a71e131ca9a01a365d8]: Commencement: [S. 109](https://www.legislation.gov.uk/ukpga/2003/43/section/109) in force at 1.4.2004 by [S.I. 2004/873](https://www.legislation.gov.uk/wsi/2004/873), [art. 2(d)](https://www.legislation.gov.uk/wsi/2004/873/article/2/d)
+[^c-9d923fe564627a71e131ca9a01a365d8]: Commencement: [S. 109](https://www.legislation.gov.uk/ukpga/2003/43/section/109) in force at 1.4.2004 by [S.I. 2004/873](https://www.legislation.gov.uk/wsi/2004/873), [art. 2(d)](https://www.legislation.gov.uk/wsi/2004/873/article/2/d)

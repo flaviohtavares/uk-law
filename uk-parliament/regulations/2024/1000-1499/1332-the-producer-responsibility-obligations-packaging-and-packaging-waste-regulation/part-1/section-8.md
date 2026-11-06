@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Household packaging[^key-67833964ce41bb5044297f467c28614c]
+## 8. Household packaging[^c-67833964ce41bb5044297f467c28614c]
 
 *Extent: E+W+S+N.I.*
 
 (1) In these Regulations, “household packaging”, except in the expression “household packaging waste”, means any primary packaging or shipment packaging other than—
 
 - (a) primary packaging supplied by a producer in relation to which the conditions in paragraph (2) or the conditions in paragraph (3) are satisfied;
-- (b)[^key-e405f5d1dba75b3b85be051d78a1b52d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-e405f5d1dba75b3b85be051d78a1b52d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) packaging imported by an importer and discarded in the United Kingdom by that importer.
 
 (2) The conditions in this paragraph are that—
@@ -77,9 +77,9 @@ summary: ''
 
 ## Annotations
 
-[^key-67833964ce41bb5044297f467c28614c]: Commencement: Reg. 8 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-67833964ce41bb5044297f467c28614c]: Commencement: Reg. 8 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
 
-[^key-e405f5d1dba75b3b85be051d78a1b52d]: Textual amendment: [Reg. 8(1)(b)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/8/1/b) omitted (1.1.2026) by virtue of [The Producer Responsibility Obligations (Packaging and Packaging Waste) (Amendment) Regulations 2025 (S.I. 2025/1369)](https://www.legislation.gov.uk/uksi/2025/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/4/3) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2025/1369/schedule/4))
+[^c-e405f5d1dba75b3b85be051d78a1b52d]: Textual amendment: [Reg. 8(1)(b)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/8/1/b) omitted (1.1.2026) by virtue of [The Producer Responsibility Obligations (Packaging and Packaging Waste) (Amendment) Regulations 2025 (S.I. 2025/1369)](https://www.legislation.gov.uk/uksi/2025/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/4/3) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2025/1369/schedule/4))
 
 [^f00029]: Footnote: [1984 c. 24](https://www.legislation.gov.uk/ukpga/1984/24); relevant amending instruments are [S.I. 2005/2011](https://www.legislation.gov.uk/uksi/2005/2011), [2007/3101](https://www.legislation.gov.uk/uksi/2007/3101) and [2019/593](https://www.legislation.gov.uk/uksi/2019/593).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110. Electronic delivery of notices etc[^key-3e65eff336cc08794f45d80c64c9f512][^key-be8388337e244c78474e1fbf7d9bbe44]
+## 110. Electronic delivery of notices etc[^c-3e65eff336cc08794f45d80c64c9f512][^c-be8388337e244c78474e1fbf7d9bbe44]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3e65eff336cc08794f45d80c64c9f512]: Commencement: S. 110 in force at 10.3.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 3(e)](https://www.legislation.gov.uk/uksi/2014/251/article/3/e)
+[^c-3e65eff336cc08794f45d80c64c9f512]: Commencement: S. 110 in force at 10.3.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 3(e)](https://www.legislation.gov.uk/uksi/2014/251/article/3/e)
 
-[^key-be8388337e244c78474e1fbf7d9bbe44]: Modification: S. 110 applied by SI 1975/335 reg. 11(2) (as substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 175](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/175) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4)))
+[^c-be8388337e244c78474e1fbf7d9bbe44]: Modification: S. 110 applied by SI 1975/335 reg. 11(2) (as substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 175](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/175) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4)))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Auditors ceasing to hold office[^key-4160ca2475c506d01eb4719e71bad9c4]
+## 18. Auditors ceasing to hold office[^c-4160ca2475c506d01eb4719e71bad9c4]
 
 *Extent: E+W+S*
 
@@ -114,4 +114,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4160ca2475c506d01eb4719e71bad9c4]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2015/20/section/18) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/d) (with [arts. 4](https://www.legislation.gov.uk/uksi/2015/1732/article/4), [6](https://www.legislation.gov.uk/uksi/2015/1732/article/6))
+[^c-4160ca2475c506d01eb4719e71bad9c4]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2015/20/section/18) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/d) (with [arts. 4](https://www.legislation.gov.uk/uksi/2015/1732/article/4), [6](https://www.legislation.gov.uk/uksi/2015/1732/article/6))

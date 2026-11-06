@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 8. Illumination of upright signs and associated plates[^key-a2e44a72948a6f20f266c4f4e9ba3ab9]
+## 8. Illumination of upright signs and associated plates[^c-a2e44a72948a6f20f266c4f4e9ba3ab9]
 
 *Extent: E+W+S*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a2e44a72948a6f20f266c4f4e9ba3ab9]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/8) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-a2e44a72948a6f20f266c4f4e9ba3ab9]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/8) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)

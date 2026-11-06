@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Appointment of the Lord Chief Justice and Lords Justices of Appeal[^key-e3862cad8965f9850c140c90931ccd5b]
+## 12. Appointment of the Lord Chief Justice and Lords Justices of Appeal[^c-e3862cad8965f9850c140c90931ccd5b]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e3862cad8965f9850c140c90931ccd5b]: Textual amendment: Ss. 12-12C substituted for ss. 12, 12B (12.4.2010) by [Northern Ireland Act 2009 (c. 3)](https://www.legislation.gov.uk/ukpga/2009/3), [ss. 2(1)](https://www.legislation.gov.uk/ukpga/2009/3/section/2/1), [5(7)](https://www.legislation.gov.uk/ukpga/2009/3/section/5/7), [Sch. 2](https://www.legislation.gov.uk/ukpga/2009/3/schedule/2) (with [Sch. 5 paras. 10](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/10), [11](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/11)); [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
+[^c-e3862cad8965f9850c140c90931ccd5b]: Textual amendment: Ss. 12-12C substituted for ss. 12, 12B (12.4.2010) by [Northern Ireland Act 2009 (c. 3)](https://www.legislation.gov.uk/ukpga/2009/3), [ss. 2(1)](https://www.legislation.gov.uk/ukpga/2009/3/section/2/1), [5(7)](https://www.legislation.gov.uk/ukpga/2009/3/section/5/7), [Sch. 2](https://www.legislation.gov.uk/ukpga/2009/3/schedule/2) (with [Sch. 5 paras. 10](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/10), [11](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/11)); [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)

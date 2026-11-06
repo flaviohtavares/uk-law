@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 2
 
-### 1. Interpretation[^key-e421c5ab8875ac10adf8653b0da30f10]
+### 1. Interpretation[^c-e421c5ab8875ac10adf8653b0da30f10]
 
 In this Schedule—
 
@@ -48,12 +48,12 @@ In this Schedule—
 - “**quantum sensing**” means utilising the phase properties of quantum mechanics, specifically measurements of atoms or ions or atomic spin systems, to determine a property or rate of change in the property of an object, or the effect of an object on a measurable quantity;
 - “**quantum timing**” means using the phase properties of quantum mechanics, specifically measurements of atoms or ions or atomic gases, and the application of associated hardware including stable frequency mixers, optical or microwave sources, crystal oscillators and frequency combs, to provide a timing or synchronisation signal, or frequency reference.
 
-### 2. Activity - quantum technology[^key-0090572c963e652f9ca45f35d4bb7bc9]
+### 2. Activity - quantum technology[^c-0090572c963e652f9ca45f35d4bb7bc9]
 
 A qualifying entity carrying on activities that consist of developing or producing quantum technology.
 
 ## Annotations
 
-[^key-e421c5ab8875ac10adf8653b0da30f10]: Commencement: [Sch. 13 para. 1](https://www.legislation.gov.uk/uksi/2021/1264/schedule/13/paragraph/1) in force at 4.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1264/regulation/1/2)
+[^c-e421c5ab8875ac10adf8653b0da30f10]: Commencement: [Sch. 13 para. 1](https://www.legislation.gov.uk/uksi/2021/1264/schedule/13/paragraph/1) in force at 4.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1264/regulation/1/2)
 
-[^key-0090572c963e652f9ca45f35d4bb7bc9]: Commencement: [Sch. 13 para. 2](https://www.legislation.gov.uk/uksi/2021/1264/schedule/13/paragraph/2) in force at 4.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1264/regulation/1/2)
+[^c-0090572c963e652f9ca45f35d4bb7bc9]: Commencement: [Sch. 13 para. 2](https://www.legislation.gov.uk/uksi/2021/1264/schedule/13/paragraph/2) in force at 4.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1264/regulation/1/2)

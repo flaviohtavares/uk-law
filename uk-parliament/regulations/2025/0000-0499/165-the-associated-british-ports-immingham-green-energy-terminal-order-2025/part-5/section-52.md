@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 52. Application of landlord and tenant law[^key-fe1cc5e305b1340467033fdb91792008]
+## 52. Application of landlord and tenant law[^c-fe1cc5e305b1340467033fdb91792008]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ so far as any such agreement relates to the terms on which any land which is the
 
 ## Annotations
 
-[^key-fe1cc5e305b1340467033fdb91792008]: Commencement: Art. 52 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
+[^c-fe1cc5e305b1340467033fdb91792008]: Commencement: Art. 52 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)

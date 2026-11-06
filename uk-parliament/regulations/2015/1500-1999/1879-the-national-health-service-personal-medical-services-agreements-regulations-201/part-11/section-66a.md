@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 66A. Requirement to maintain profile page on NHS website[^key-fdc8c8087f4ebe470bf71aa76cd266b5]
+## 66A. Requirement to maintain profile page on NHS website[^c-fdc8c8087f4ebe470bf71aa76cd266b5]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fdc8c8087f4ebe470bf71aa76cd266b5]: Textual amendment: Regs. 66, 66A substituted for reg. 66 (1.4.2020) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2020 (S.I. 2020/226)](https://www.legislation.gov.uk/uksi/2020/226), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/226/regulation/1/2), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2020/226/schedule/2/paragraph/5)
+[^c-fdc8c8087f4ebe470bf71aa76cd266b5]: Textual amendment: Regs. 66, 66A substituted for reg. 66 (1.4.2020) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2020 (S.I. 2020/226)](https://www.legislation.gov.uk/uksi/2020/226), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/226/regulation/1/2), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2020/226/schedule/2/paragraph/5)

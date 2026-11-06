@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Amendment of the National Health Service (Personal Medical Services Agreements) Regulations 2015[^key-fa1664a2cfeb31cb8dc3f67568001fa6]
+## 85. Amendment of the National Health Service (Personal Medical Services Agreements) Regulations 2015[^c-fa1664a2cfeb31cb8dc3f67568001fa6]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fa1664a2cfeb31cb8dc3f67568001fa6]: Commencement: [Reg. 85](https://www.legislation.gov.uk/uksi/2023/1071/regulation/85) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-fa1664a2cfeb31cb8dc3f67568001fa6]: Commencement: [Reg. 85](https://www.legislation.gov.uk/uksi/2023/1071/regulation/85) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
 
 [^f00070]: Footnote: [S.I. 2015/1879](https://www.legislation.gov.uk/uksi/2015/1879), to which there are amendments not relevant to these Regulations.

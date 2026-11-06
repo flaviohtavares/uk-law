@@ -36,54 +36,54 @@ establishing the list of Council configurations in addition to those referred to
 
 (2009/878/EU) (revoked)
 
-[^key-16725f7e8a16ed9aceb93f7cc8f92a3f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-16725f7e8a16ed9aceb93f7cc8f92a3f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-16725f7e8a16ed9aceb93f7cc8f92a3f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-16725f7e8a16ed9aceb93f7cc8f92a3f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-16725f7e8a16ed9aceb93f7cc8f92a3f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-16725f7e8a16ed9aceb93f7cc8f92a3f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX — LIST OF COUNCIL CONFIGURATIONS[^key-16725f7e8a16ed9aceb93f7cc8f92a3f]
+## ANNEX — LIST OF COUNCIL CONFIGURATIONS[^c-16725f7e8a16ed9aceb93f7cc8f92a3f]
 
-[^key-16725f7e8a16ed9aceb93f7cc8f92a3f]1.
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-16725f7e8a16ed9aceb93f7cc8f92a3f]2.
+[^c-16725f7e8a16ed9aceb93f7cc8f92a3f]1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-16725f7e8a16ed9aceb93f7cc8f92a3f]3.
+[^c-16725f7e8a16ed9aceb93f7cc8f92a3f]2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-16725f7e8a16ed9aceb93f7cc8f92a3f]4.
+[^c-16725f7e8a16ed9aceb93f7cc8f92a3f]3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-16725f7e8a16ed9aceb93f7cc8f92a3f]5.
+[^c-16725f7e8a16ed9aceb93f7cc8f92a3f]4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-16725f7e8a16ed9aceb93f7cc8f92a3f] 6.
+[^c-16725f7e8a16ed9aceb93f7cc8f92a3f]5.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-16725f7e8a16ed9aceb93f7cc8f92a3f]7.
+[^c-16725f7e8a16ed9aceb93f7cc8f92a3f] 6.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-16725f7e8a16ed9aceb93f7cc8f92a3f]8.
+[^c-16725f7e8a16ed9aceb93f7cc8f92a3f]7.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-16725f7e8a16ed9aceb93f7cc8f92a3f]9.
+[^c-16725f7e8a16ed9aceb93f7cc8f92a3f]8.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-16725f7e8a16ed9aceb93f7cc8f92a3f] 10.
+[^c-16725f7e8a16ed9aceb93f7cc8f92a3f]9.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-16725f7e8a16ed9aceb93f7cc8f92a3f] 10.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-16725f7e8a16ed9aceb93f7cc8f92a3f]: Textual amendment: Decision revoked (31.12.2020) by [The European Institutions and Consular Protection (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1391)](https://www.legislation.gov.uk/uksi/2018/1391), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1391/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1391/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-16725f7e8a16ed9aceb93f7cc8f92a3f]: Textual amendment: Decision revoked (31.12.2020) by [The European Institutions and Consular Protection (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1391)](https://www.legislation.gov.uk/uksi/2018/1391), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1391/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1391/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

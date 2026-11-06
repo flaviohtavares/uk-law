@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 132. General provisions relating to determination of appeals.[^c950142][^key-525ea2a5bf0d39daff4aa1bbfa7caff8][^key-f3357195b3ef18000f894d9f690fc9d7]
+## 132. General provisions relating to determination of appeals.[^c950142][^c-525ea2a5bf0d39daff4aa1bbfa7caff8][^c-f3357195b3ef18000f894d9f690fc9d7]
 
 *Extent: S*
 
@@ -40,6 +40,6 @@ if he is satisfied that the correction or variation will not cause injustice to 
 
 [^c950142]: Modification: S. 132: power to apply conferred (27.5.1997) by [1997 c. 10](https://www.legislation.gov.uk/ukpga/1997/10), [ss. 23(1)](https://www.legislation.gov.uk/ukpga/1997/10/section/23/1), [31](https://www.legislation.gov.uk/ukpga/1997/10/section/31), [40(2)](https://www.legislation.gov.uk/ukpga/1997/10/section/40/2) (with [ss. 9(3)](https://www.legislation.gov.uk/ukpga/1997/10/section/9/3), [10(5)](https://www.legislation.gov.uk/ukpga/1997/10/section/10/5), [38(6)](https://www.legislation.gov.uk/ukpga/1997/10/section/38/6))
 
-[^key-525ea2a5bf0d39daff4aa1bbfa7caff8]: Modification: Ss. 123-149 functions made exercisable concurrently (7.1.2003) by [The Cairngorms National Park Designation, Transitional and Consequential Provisions (Scotland) Order 2003 (S.S.I. 2003/1)](https://www.legislation.gov.uk/ssi/2003/1), [arts. 1](https://www.legislation.gov.uk/ssi/2003/1/article/1), [7(1)(b)](https://www.legislation.gov.uk/ssi/2003/1/article/7/1/b)
+[^c-525ea2a5bf0d39daff4aa1bbfa7caff8]: Modification: Ss. 123-149 functions made exercisable concurrently (7.1.2003) by [The Cairngorms National Park Designation, Transitional and Consequential Provisions (Scotland) Order 2003 (S.S.I. 2003/1)](https://www.legislation.gov.uk/ssi/2003/1), [arts. 1](https://www.legislation.gov.uk/ssi/2003/1/article/1), [7(1)(b)](https://www.legislation.gov.uk/ssi/2003/1/article/7/1/b)
 
-[^key-f3357195b3ef18000f894d9f690fc9d7]: Modification: Ss. 130-132 applied (with modifications) by S.I. 1984/467, reg. 25(1)(2) (as substituted (30.6.2013) by [The Town and Country Planning (Control of Advertisements) (Scotland) Amendment Regulations 2013 (S.S.I. 2013/154)](https://www.legislation.gov.uk/ssi/2013/154), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2013/154/regulation/1/1), [2(6)](https://www.legislation.gov.uk/ssi/2013/154/regulation/2/6) (with [reg. 3](https://www.legislation.gov.uk/ssi/2013/154/regulation/3)))
+[^c-f3357195b3ef18000f894d9f690fc9d7]: Modification: Ss. 130-132 applied (with modifications) by S.I. 1984/467, reg. 25(1)(2) (as substituted (30.6.2013) by [The Town and Country Planning (Control of Advertisements) (Scotland) Amendment Regulations 2013 (S.S.I. 2013/154)](https://www.legislation.gov.uk/ssi/2013/154), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2013/154/regulation/1/1), [2(6)](https://www.legislation.gov.uk/ssi/2013/154/regulation/2/6) (with [reg. 3](https://www.legislation.gov.uk/ssi/2013/154/regulation/3)))

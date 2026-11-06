@@ -48,13 +48,13 @@ Coming into force
 
 The Lord Chancellor, in exercise of the powers conferred on him by sections 78, 81, 82 and 89 of the Traffic Management Act 2004[^f00001] hereby makes the following regulations:
 
-## 1. Citation, commencement and application[^key-6026f62f030a3e6482d1db1834074aec]
+## 1. Citation, commencement and application[^c-6026f62f030a3e6482d1db1834074aec]
 
 (1) These Regulations may be cited as the Civil Enforcement of Parking Contraventions (Penalty Charge Notices, Enforcement and Adjudication) (Wales) (Amendment) Regulations 2008 and shall come into force on 31st March 2008.
 
 (2) These Regulations apply to Wales.
 
-## 2. Amendments to the Civil Enforcement of Parking Contraventions (Penalty Charge Notices, Enforcement and Adjudication) (Wales) Regulations 2008[^key-490a7295445543a86958217ef2055875]
+## 2. Amendments to the Civil Enforcement of Parking Contraventions (Penalty Charge Notices, Enforcement and Adjudication) (Wales) Regulations 2008[^c-490a7295445543a86958217ef2055875]
 
 (1) The Civil Enforcement of Parking Contraventions (Penalty Charge Notices, Enforcement and Adjudication) (Wales) Regulations 2008[^f00002] are amended in accordance with paragraph (2).
 
@@ -82,8 +82,8 @@ The reason for the amendment is to ensure a fair system, whereby all persons rec
 
 [^f00001]: Footnote: [2004 c. 18](https://www.legislation.gov.uk/ukpga/2004/18).
 
-[^key-6026f62f030a3e6482d1db1834074aec]: Commencement: Reg. 1 in force at 31.3.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/913/regulation/1/1)
+[^c-6026f62f030a3e6482d1db1834074aec]: Commencement: Reg. 1 in force at 31.3.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/913/regulation/1/1)
 
-[^key-490a7295445543a86958217ef2055875]: Commencement: Reg. 2 in force at 31.3.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/913/regulation/1/1)
+[^c-490a7295445543a86958217ef2055875]: Commencement: Reg. 2 in force at 31.3.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/913/regulation/1/1)
 
 [^f00002]: Footnote: [SI 2008/609](https://www.legislation.gov.uk/uksi/2008/609)

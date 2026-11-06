@@ -16,17 +16,17 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Complaints about transport arrangements etc for persons of sixth form age[^key-3abb474c2d9ae72527b9ea600e7e258f]
+## 56. Complaints about transport arrangements etc for persons of sixth form age[^c-3abb474c2d9ae72527b9ea600e7e258f]
 
 *Extent: E+W*
 
 (1) The Education Act 1996 is amended as follows.
 
-(2) After section 509AD (local authorities[^key-062d27e760c356996de33ee6a2c9d7a4] in England: duty to have regard to religion or belief in exercise of travel functions) insert— 
+(2) After section 509AD (local authorities[^c-062d27e760c356996de33ee6a2c9d7a4] in England: duty to have regard to religion or belief in exercise of travel functions) insert— 
 
 > **509AE.  Complaints about transport arrangements etc for persons of sixth form age in England**
 >
-> (1) A local authority[^key-539a148a152b679b0b2f5402f58a05e0] may revise a statement prepared under section 509AA to change the arrangements specified under subsection (2) or (3) of that section if, as a result of a sixth form transport complaint, they have come to consider the change necessary for the purpose of the arrangements specified under the subsection in question.
+> (1) A local authority[^c-539a148a152b679b0b2f5402f58a05e0] may revise a statement prepared under section 509AA to change the arrangements specified under subsection (2) or (3) of that section if, as a result of a sixth form transport complaint, they have come to consider the change necessary for the purpose of the arrangements specified under the subsection in question.
 >
 > (2) A local authority must revise a statement prepared under section 509AA to change the arrangements specified under subsection (2) or (3) of that section if, as a result of a sixth form transport complaint, the Secretary of State has directed them to do so.
 >
@@ -54,8 +54,8 @@ summary: ''
 
 ## Annotations
 
-[^key-3abb474c2d9ae72527b9ea600e7e258f]: Commencement: S. 56 in force at 12.1.2010 by [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2009/3317/article/3))
+[^c-3abb474c2d9ae72527b9ea600e7e258f]: Commencement: S. 56 in force at 12.1.2010 by [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2009/3317/article/3))
 
-[^key-062d27e760c356996de33ee6a2c9d7a4]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 16(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/16/3)
+[^c-062d27e760c356996de33ee6a2c9d7a4]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 16(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/16/3)
 
-[^key-539a148a152b679b0b2f5402f58a05e0]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158) , [Sch. 2 para. 16(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/16/2)
+[^c-539a148a152b679b0b2f5402f58a05e0]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158) , [Sch. 2 para. 16(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/16/2)

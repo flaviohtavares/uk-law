@@ -33,7 +33,7 @@ This Statutory Instrument has been reprinted to correct the instrument number an
 
 EDUCATION, WALES
 
-The Assembly Learning Grants (European University Institute) (Wales) (Amendment) Regulations 2010 (revoked)[^key-27c5c8b545c46a26b2e39fbb2e95f6ec]
+The Assembly Learning Grants (European University Institute) (Wales) (Amendment) Regulations 2010 (revoked)[^c-27c5c8b545c46a26b2e39fbb2e95f6ec]
 
 Made
 
@@ -47,28 +47,28 @@ Coming into force
 
 31 August 2010
 
-[^key-27c5c8b545c46a26b2e39fbb2e95f6ec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-27c5c8b545c46a26b2e39fbb2e95f6ec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-27c5c8b545c46a26b2e39fbb2e95f6ec]
+## 1. Title, commencement and application[^c-27c5c8b545c46a26b2e39fbb2e95f6ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-27c5c8b545c46a26b2e39fbb2e95f6ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-27c5c8b545c46a26b2e39fbb2e95f6ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment[^key-27c5c8b545c46a26b2e39fbb2e95f6ec]
+## 3. Amendment[^c-27c5c8b545c46a26b2e39fbb2e95f6ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-27c5c8b545c46a26b2e39fbb2e95f6ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-27c5c8b545c46a26b2e39fbb2e95f6ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-27c5c8b545c46a26b2e39fbb2e95f6ec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-27c5c8b545c46a26b2e39fbb2e95f6ec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-27c5c8b545c46a26b2e39fbb2e95f6ec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-27c5c8b545c46a26b2e39fbb2e95f6ec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-27c5c8b545c46a26b2e39fbb2e95f6ec]: Textual amendment: Regulations revoked (5.12.2014) by [The Education (European University Institute) (Wales) Regulations 2014 (S.I. 2014/3037)](https://www.legislation.gov.uk/uksi/2014/3037), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3037/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2014/3037/regulation/4/b)
+[^c-27c5c8b545c46a26b2e39fbb2e95f6ec]: Textual amendment: Regulations revoked (5.12.2014) by [The Education (European University Institute) (Wales) Regulations 2014 (S.I. 2014/3037)](https://www.legislation.gov.uk/uksi/2014/3037), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3037/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2014/3037/regulation/4/b)

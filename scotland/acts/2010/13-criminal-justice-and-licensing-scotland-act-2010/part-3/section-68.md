@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 68. Manner of citation of organisations in summary proceedings[^key-7b3e90d867da87a2378ebe476a0d42d6]
+## 68. Manner of citation of organisations in summary proceedings[^c-7b3e90d867da87a2378ebe476a0d42d6]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ In section 141 of the 1995 Act (manner of citation), in subsection (2)(b), for â
 
 ## Annotations
 
-[^key-7b3e90d867da87a2378ebe476a0d42d6]: Commencement: [S. 68](https://www.legislation.gov.uk/asp/2010/13/section/68) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule))
+[^c-7b3e90d867da87a2378ebe476a0d42d6]: Commencement: [S. 68](https://www.legislation.gov.uk/asp/2010/13/section/68) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule))

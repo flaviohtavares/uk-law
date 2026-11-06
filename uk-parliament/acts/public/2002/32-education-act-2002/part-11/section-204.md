@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 204. Baseline assessments[^c381710][^key-13a800753ba06be65a3ebcc2dba46d28]
+## 204. Baseline assessments[^c381710][^c-13a800753ba06be65a3ebcc2dba46d28]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ Chapter 1 of Part 4 of the Education Act 1997 (c. 44) (baseline assessments) sha
 
 [^c381710]: Commencement: S. 204 in force at 2.9.2002 for E. by [S.I. 2002/2002](https://www.legislation.gov.uk/uksi/2002/2002), [art. 4](https://www.legislation.gov.uk/uksi/2002/2002/article/4)
 
-[^key-13a800753ba06be65a3ebcc2dba46d28]: Commencement: S. 204 in force at 1.9.2011 for W. by [S.I. 2011/1952](https://www.legislation.gov.uk/wsi/2011/1952), [art. 2(a)](https://www.legislation.gov.uk/wsi/2011/1952/article/2/a)
+[^c-13a800753ba06be65a3ebcc2dba46d28]: Commencement: S. 204 in force at 1.9.2011 for W. by [S.I. 2011/1952](https://www.legislation.gov.uk/wsi/2011/1952), [art. 2(a)](https://www.legislation.gov.uk/wsi/2011/1952/article/2/a)

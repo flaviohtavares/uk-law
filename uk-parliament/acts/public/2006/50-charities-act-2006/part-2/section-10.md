@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Interim changes in threshold for registration of small charities[^key-397d1f4eae246ec71785ae18cdf39c47]
+## 10. Interim changes in threshold for registration of small charities[^c-397d1f4eae246ec71785ae18cdf39c47]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-397d1f4eae246ec71785ae18cdf39c47]: Commencement: S. 10 in force at 27.2.2007 by [S.I. 2007/309](https://www.legislation.gov.uk/uksi/2007/309), [art. 2](https://www.legislation.gov.uk/uksi/2007/309/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/309/schedule)
+[^c-397d1f4eae246ec71785ae18cdf39c47]: Commencement: S. 10 in force at 27.2.2007 by [S.I. 2007/309](https://www.legislation.gov.uk/uksi/2007/309), [art. 2](https://www.legislation.gov.uk/uksi/2007/309/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/309/schedule)

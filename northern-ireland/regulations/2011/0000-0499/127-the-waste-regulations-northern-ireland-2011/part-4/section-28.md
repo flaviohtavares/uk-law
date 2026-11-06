@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 28. Amendment of the Controlled Waste (Registration of Carriers and Seizure of Vehicles) Regulations (Northern Ireland) 1999[^key-037f77251e43a577af7f9a53fd3b987b]
+## 28. Amendment of the Controlled Waste (Registration of Carriers and Seizure of Vehicles) Regulations (Northern Ireland) 1999[^c-037f77251e43a577af7f9a53fd3b987b]
 
 *Extent: N.I.*
 
@@ -72,7 +72,7 @@ summary: ''
 
 ## Annotations
 
-[^key-037f77251e43a577af7f9a53fd3b987b]: Commencement: Reg. 28 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1) (as amended by S.R. 2011/232, reg. 3(2))
+[^c-037f77251e43a577af7f9a53fd3b987b]: Commencement: Reg. 28 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1) (as amended by S.R. 2011/232, reg. 3(2))
 
 [^f00014]: Footnote: [S.R. 1999 No.362](https://www.legislation.gov.uk/nisr/1999/362) as amended by [S.R.2003 No.46](https://www.legislation.gov.uk/nisr/2003/46), [S.R.2003 No.493](https://www.legislation.gov.uk/nisr/2003/493), [S.R.2005 No.300](https://www.legislation.gov.uk/nisr/2005/300) and [S.R.2006 No. 280](https://www.legislation.gov.uk/nisr/2006/280)
 

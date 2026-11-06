@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 195. Targets for safeguarding and promoting the welfare of children[^key-0b93f36d15b541f51ae4c14a8dce6a20]
+## 195. Targets for safeguarding and promoting the welfare of children[^c-0b93f36d15b541f51ae4c14a8dce6a20]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0b93f36d15b541f51ae4c14a8dce6a20]: Commencement: S. 195 in force at 12.1.2010 by [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
+[^c-0b93f36d15b541f51ae4c14a8dce6a20]: Commencement: S. 195 in force at 12.1.2010 by [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)

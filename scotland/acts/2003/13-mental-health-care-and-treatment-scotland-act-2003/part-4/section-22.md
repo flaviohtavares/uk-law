@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 22. Approved medical practitioners[^key-364c3f4aa0f9e37db2b1e8ca42cac6b3][^key-3eb0f5cfc329defffacee8cb82f029d1]
+## 22. Approved medical practitioners[^c-364c3f4aa0f9e37db2b1e8ca42cac6b3][^c-3eb0f5cfc329defffacee8cb82f029d1]
 
 *Extent: S*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-364c3f4aa0f9e37db2b1e8ca42cac6b3]: Commencement: S. 22 in force at 21.3.2005 for specified purposes by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 2](https://www.legislation.gov.uk/ssi/2005/161/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/161/schedule/1)
+[^c-364c3f4aa0f9e37db2b1e8ca42cac6b3]: Commencement: S. 22 in force at 21.3.2005 for specified purposes by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 2](https://www.legislation.gov.uk/ssi/2005/161/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/161/schedule/1)
 
-[^key-3eb0f5cfc329defffacee8cb82f029d1]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2003/13/section/22) in force at 5.10.2005 in so far as not already in force by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
+[^c-3eb0f5cfc329defffacee8cb82f029d1]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2003/13/section/22) in force at 5.10.2005 in so far as not already in force by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)

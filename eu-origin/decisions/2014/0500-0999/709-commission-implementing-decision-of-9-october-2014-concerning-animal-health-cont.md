@@ -194,7 +194,7 @@ HAS ADOPTED THIS DECISION:
 
 ## Article 1. Subject matter and scope
 
- This Decision lays down animal health control measures in relation to African swine fever in Great Britain as regards movements of feral pigs and information obligations.[^key-9232f47f1650d6a01a4303fd47c4f5e1]
+ This Decision lays down animal health control measures in relation to African swine fever in Great Britain as regards movements of feral pigs and information obligations.[^c-9232f47f1650d6a01a4303fd47c4f5e1]
 
 For the purposes of this Decision “**appropriate authority**” means—
 
@@ -202,111 +202,111 @@ For the purposes of this Decision “**appropriate authority**” means—
 - (b) in relation to Scotland, the Scottish Ministers;
 - (c) in relation to Wales, the Welsh Ministers.
 
-## Article 2. Prohibition on the dispatch of live pigs, porcine semen, ova and embryo, pig meat, pig meat preparations, pig meat products and any other products containing pig meat as well as consignments of animal by-products from porcine animals from certain areas listed in the Annex[^key-99ecd0953fdf3989a527ceb2814538c3]
+## Article 2. Prohibition on the dispatch of live pigs, porcine semen, ova and embryo, pig meat, pig meat preparations, pig meat products and any other products containing pig meat as well as consignments of animal by-products from porcine animals from certain areas listed in the Annex[^c-99ecd0953fdf3989a527ceb2814538c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Derogation from the prohibition on the dispatch of live pigs from the areas listed in Part II of the Annex[^key-99ecd0953fdf3989a527ceb2814538c3]
+## Article 3. Derogation from the prohibition on the dispatch of live pigs from the areas listed in Part II of the Annex[^c-99ecd0953fdf3989a527ceb2814538c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3a. Derogation from the prohibition on the dispatch of live pigs from the areas listed in Part III of the Annex[^key-99ecd0953fdf3989a527ceb2814538c3]
+## Article 3a. Derogation from the prohibition on the dispatch of live pigs from the areas listed in Part III of the Annex[^c-99ecd0953fdf3989a527ceb2814538c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3b. Derogation from the prohibition on the dispatch of live pigs from the areas listed in Part II of the Annex for the purpose of immediate slaughter[^key-99ecd0953fdf3989a527ceb2814538c3]
+## Article 3b. Derogation from the prohibition on the dispatch of live pigs from the areas listed in Part II of the Annex for the purpose of immediate slaughter[^c-99ecd0953fdf3989a527ceb2814538c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Derogation from the prohibition on the dispatch of consignments of live pigs for immediate slaughter from the areas listed in Part III of the Annex and the dispatch of consignments of pig meat, pig meat preparations and pig meat products obtained from such pigs[^key-99ecd0953fdf3989a527ceb2814538c3]
+## Article 4. Derogation from the prohibition on the dispatch of consignments of live pigs for immediate slaughter from the areas listed in Part III of the Annex and the dispatch of consignments of pig meat, pig meat preparations and pig meat products obtained from such pigs[^c-99ecd0953fdf3989a527ceb2814538c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Derogation from the prohibition on the dispatch of consignments of pig meat, pig meat preparations, pig meat products and any other products consisting of or containing pig meat from the areas listed in Part III of the Annex[^key-99ecd0953fdf3989a527ceb2814538c3]
+## Article 5. Derogation from the prohibition on the dispatch of consignments of pig meat, pig meat preparations, pig meat products and any other products consisting of or containing pig meat from the areas listed in Part III of the Annex[^c-99ecd0953fdf3989a527ceb2814538c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Derogation from the prohibition on the dispatch of consignments of pig meat, pig meat preparations, pig meat products and any other products consisting of or containing pig meat from the areas listed in Part IV of the Annex[^key-99ecd0953fdf3989a527ceb2814538c3]
+## Article 6. Derogation from the prohibition on the dispatch of consignments of pig meat, pig meat preparations, pig meat products and any other products consisting of or containing pig meat from the areas listed in Part IV of the Annex[^c-99ecd0953fdf3989a527ceb2814538c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Derogation from the prohibition on the dispatch of consignments of animal by-products from porcine animals from the areas listed in Parts III and IV of the Annex[^key-99ecd0953fdf3989a527ceb2814538c3]
+## Article 7. Derogation from the prohibition on the dispatch of consignments of animal by-products from porcine animals from the areas listed in Parts III and IV of the Annex[^c-99ecd0953fdf3989a527ceb2814538c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Prohibition on the dispatch to other Member States and third countries of live pigs from the areas listed in the Annex[^key-99ecd0953fdf3989a527ceb2814538c3]
+## Article 8. Prohibition on the dispatch to other Member States and third countries of live pigs from the areas listed in the Annex[^c-99ecd0953fdf3989a527ceb2814538c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Prohibition on the dispatch to other Member States and third countries of consignments of porcine semen and ova and embryos collected from pigs from the areas listed in the Annex[^key-99ecd0953fdf3989a527ceb2814538c3]
+## Article 9. Prohibition on the dispatch to other Member States and third countries of consignments of porcine semen and ova and embryos collected from pigs from the areas listed in the Annex[^c-99ecd0953fdf3989a527ceb2814538c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Prohibition on the dispatch to other Member States and third countries of consignments of animal by-products from porcine animals from the areas listed in the Annex[^key-99ecd0953fdf3989a527ceb2814538c3]
+## Article 10. Prohibition on the dispatch to other Member States and third countries of consignments of animal by-products from porcine animals from the areas listed in the Annex[^c-99ecd0953fdf3989a527ceb2814538c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 11. Prohibition on the dispatch to other Member States and third countries of fresh pig meat and of certain pig meat preparations and pig meat products from areas listed in the Annex[^key-99ecd0953fdf3989a527ceb2814538c3]
+## Article 11. Prohibition on the dispatch to other Member States and third countries of fresh pig meat and of certain pig meat preparations and pig meat products from areas listed in the Annex[^c-99ecd0953fdf3989a527ceb2814538c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 12. Approval of slaughterhouses, cutting plants and meat processing establishments for the purposes of Articles 4, 5 and 6 and Article 11(2)[^key-99ecd0953fdf3989a527ceb2814538c3]
+## Article 12. Approval of slaughterhouses, cutting plants and meat processing establishments for the purposes of Articles 4, 5 and 6 and Article 11(2)[^c-99ecd0953fdf3989a527ceb2814538c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 12a. Derogation for slaughterhouses, cutting plants and meat processing establishments located in protection and surveillance zones[^key-99ecd0953fdf3989a527ceb2814538c3]
+## Article 12a. Derogation for slaughterhouses, cutting plants and meat processing establishments located in protection and surveillance zones[^c-99ecd0953fdf3989a527ceb2814538c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 13. Derogation from the prohibition on the dispatch of fresh pig meat and of certain pig meat preparations and pig meat products from areas listed in the Annex[^key-99ecd0953fdf3989a527ceb2814538c3]
+## Article 13. Derogation from the prohibition on the dispatch of fresh pig meat and of certain pig meat preparations and pig meat products from areas listed in the Annex[^c-99ecd0953fdf3989a527ceb2814538c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 14. Information concerning Articles 11, 12 and 13[^key-99ecd0953fdf3989a527ceb2814538c3]
+## Article 14. Information concerning Articles 11, 12 and 13[^c-99ecd0953fdf3989a527ceb2814538c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Article 15. Measures relating to live feral pigs, fresh meat, meat preparations and meat products consisting of or containing meat from feral pigs
 
-1.[^key-423363759880c034551c9ce2dce90bff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.[^c-423363759880c034551c9ce2dce90bff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-2.[^key-423363759880c034551c9ce2dce90bff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.[^c-423363759880c034551c9ce2dce90bff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-3.[^key-282dee17110e1cc5d4f1d42887961af2] The appropriate authority must prohibit the export of live feral pigs.
+3.[^c-282dee17110e1cc5d4f1d42887961af2] The appropriate authority must prohibit the export of live feral pigs.
 
 4.[^c000012] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 15a. Information obligations ...[^c000013][^key-0fe4dd35bc554815b29de91b205ce4e1]
+## Article 15a. Information obligations ...[^c000013][^c-0fe4dd35bc554815b29de91b205ce4e1]
 
-1.[^key-a624fb07fe2dda62bd7224baf1634c89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.[^c-a624fb07fe2dda62bd7224baf1634c89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-2. The appropriate authority[^key-7417d82127c1859da0ae88d8ae603f4a] shall ensure that on all major land infrastructure routes, such as international communication roads, and related road networks, appropriate information on the risks of the transmission of African swine fever and on the control measures laid down in this Decision are brought to the attention of all travellers in a visible and prominent manner.
+2. The appropriate authority[^c-7417d82127c1859da0ae88d8ae603f4a] shall ensure that on all major land infrastructure routes, such as international communication roads, and related road networks, appropriate information on the risks of the transmission of African swine fever and on the control measures laid down in this Decision are brought to the attention of all travellers in a visible and prominent manner.
 
-In particular, that information shall be presented in a way that is easily understood by travellers coming from, and going to, [^key-be879e35403600f957ee02b95069adce]... countries at risk of the spread of African swine fever.
+In particular, that information shall be presented in a way that is easily understood by travellers coming from, and going to, [^c-be879e35403600f957ee02b95069adce]... countries at risk of the spread of African swine fever.
 
-3.[^key-5dac3d2210cb03ec13db63f3be209a42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.[^c-5dac3d2210cb03ec13db63f3be209a42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 16. Special health marks and certification requirements for fresh meat, meat preparations and meat products subject to prohibition referred to in Article 2, Article 11(1) and Article 15(1)[^key-60d6db69b105a5fdf388a0f366280d1a]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 16a. Channelling procedure[^key-60d6db69b105a5fdf388a0f366280d1a]
+## Article 16. Special health marks and certification requirements for fresh meat, meat preparations and meat products subject to prohibition referred to in Article 2, Article 11(1) and Article 15(1)[^c-60d6db69b105a5fdf388a0f366280d1a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 17. Requirements concerning holdings and transport vehicles in the areas listed in the Annex[^key-60d6db69b105a5fdf388a0f366280d1a]
+## Article 16a. Channelling procedure[^c-60d6db69b105a5fdf388a0f366280d1a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 18. Information requirements of the Member States concerned[^key-60d6db69b105a5fdf388a0f366280d1a]
+## Article 17. Requirements concerning holdings and transport vehicles in the areas listed in the Annex[^c-60d6db69b105a5fdf388a0f366280d1a]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Article 18. Information requirements of the Member States concerned[^c-60d6db69b105a5fdf388a0f366280d1a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Article 19. Compliance
 
- The appropriate authority must amend the measures that it applies to trade so as to bring them into compliance with this Decision and it must give immediate appropriate publicity to the measures adopted.[^key-3a7625fd9cd35857d4895a3579fca9b0]
+ The appropriate authority must amend the measures that it applies to trade so as to bring them into compliance with this Decision and it must give immediate appropriate publicity to the measures adopted.[^c-3a7625fd9cd35857d4895a3579fca9b0]
 
-## Article 20. Repeal[^key-5b6ca3e9e7ae806aa22dbbf7541e1445]
+## Article 20. Repeal[^c-5b6ca3e9e7ae806aa22dbbf7541e1445]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -314,11 +314,11 @@ In particular, that information shall be presented in a way that is easily under
 
 This Decision shall apply until 21 April 2021[^c000004].
 
-## Article 22. Addressees[^key-8bbfefb5d3978289d87ae7c042a69687]
+## Article 22. Addressees[^c-8bbfefb5d3978289d87ae7c042a69687]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-83372b8b429eccc6948ae5f3a40f92b6]
+## ANNEX[^c-83372b8b429eccc6948ae5f3a40f92b6]
 
 **No longer in force.**
 
@@ -354,36 +354,36 @@ This Decision shall apply until 21 April 2021[^c000004].
 
 [^f00014]: Footnote: Regulation (EC) No 854/2004 of the European Parliament and of the Council of 29 April 2004 laying down specific rules for the organisation of official controls on products of animal origin intended for human consumption ([OJ L 139, 30.4.2004, p. 206](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.139.01.0206.01.ENG)).
 
-[^key-9232f47f1650d6a01a4303fd47c4f5e1]: Textual amendment: [Art. 1](https://www.legislation.gov.uk/eudn/2014/709/article/1) substituted (31.12.2020) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [14(2)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/14/2)
+[^c-9232f47f1650d6a01a4303fd47c4f5e1]: Textual amendment: [Art. 1](https://www.legislation.gov.uk/eudn/2014/709/article/1) substituted (31.12.2020) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [14(2)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/14/2)
 
-[^key-99ecd0953fdf3989a527ceb2814538c3]: Textual amendment: [Arts. 2-14](https://www.legislation.gov.uk/eudn/2014/709/article/2) omitted (31.12.2020) by virtue of [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [14(3)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/14/3)
+[^c-99ecd0953fdf3989a527ceb2814538c3]: Textual amendment: [Arts. 2-14](https://www.legislation.gov.uk/eudn/2014/709/article/2) omitted (31.12.2020) by virtue of [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [14(3)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/14/3)
 
-[^key-423363759880c034551c9ce2dce90bff]: Textual amendment: [Art. 15(1)](https://www.legislation.gov.uk/eudn/2014/709/article/15/1)[(2)](https://www.legislation.gov.uk/eudn/2014/709/article/15/2) omitted (31.12.2020) by virtue of [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [14(4)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/14/4/a)
+[^c-423363759880c034551c9ce2dce90bff]: Textual amendment: [Art. 15(1)](https://www.legislation.gov.uk/eudn/2014/709/article/15/1)[(2)](https://www.legislation.gov.uk/eudn/2014/709/article/15/2) omitted (31.12.2020) by virtue of [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [14(4)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/14/4/a)
 
-[^key-282dee17110e1cc5d4f1d42887961af2]: Textual amendment: [Art. 15(3)](https://www.legislation.gov.uk/eudn/2014/709/article/15/3) substituted (31.12.2020) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [14(4)(b)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/14/4/b)
+[^c-282dee17110e1cc5d4f1d42887961af2]: Textual amendment: [Art. 15(3)](https://www.legislation.gov.uk/eudn/2014/709/article/15/3) substituted (31.12.2020) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [14(4)(b)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/14/4/b)
 
 [^c000012]: Textual amendment: Deleted by [Commission Implementing Decision (EU) 2018/834 of 4 June 2018 amending Implementing Decision 2014/709/EU concerning animal health control measures relating to African swine fever in certain Member States (notified under document C(2018) 3318) (Text with EEA relevance)](https://www.legislation.gov.uk/eudn/2018/834).
 
 [^c000013]: Textual amendment: Substituted by [Commission Implementing Decision (EU) 2018/263 of 20 February 2018 amending Implementing Decision 2014/709/EU concerning animal health control measures relating to African swine fever in certain Member States (notified under document C(2018) 889) (Text with EEA relevance)](https://www.legislation.gov.uk/eudn/2018/263).
 
-[^key-0fe4dd35bc554815b29de91b205ce4e1]: Textual amendment: Words in [Art. 15a](https://www.legislation.gov.uk/eudn/2014/709/article/15a) heading omitted (31.12.2020) by virtue of [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [14(5)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/14/5/a)
+[^c-0fe4dd35bc554815b29de91b205ce4e1]: Textual amendment: Words in [Art. 15a](https://www.legislation.gov.uk/eudn/2014/709/article/15a) heading omitted (31.12.2020) by virtue of [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [14(5)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/14/5/a)
 
-[^key-a624fb07fe2dda62bd7224baf1634c89]: Textual amendment: [Art. 15a(1)](https://www.legislation.gov.uk/eudn/2014/709/article/15a/1) omitted (31.12.2020) by virtue of [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [14(5)(b)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/14/5/b)
+[^c-a624fb07fe2dda62bd7224baf1634c89]: Textual amendment: [Art. 15a(1)](https://www.legislation.gov.uk/eudn/2014/709/article/15a/1) omitted (31.12.2020) by virtue of [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [14(5)(b)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/14/5/b)
 
-[^key-7417d82127c1859da0ae88d8ae603f4a]: Textual amendment: Words in [Art. 15a(2)](https://www.legislation.gov.uk/eudn/2014/709/article/15a/2) substituted (31.12.2020) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [14(5)(c)(i)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/14/5/c/i)
+[^c-7417d82127c1859da0ae88d8ae603f4a]: Textual amendment: Words in [Art. 15a(2)](https://www.legislation.gov.uk/eudn/2014/709/article/15a/2) substituted (31.12.2020) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [14(5)(c)(i)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/14/5/c/i)
 
-[^key-be879e35403600f957ee02b95069adce]: Textual amendment: Words in [Art. 15a(2)](https://www.legislation.gov.uk/eudn/2014/709/article/15a/2) omitted (31.12.2020) by virtue of [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [14(5)(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/14/5/c/ii)
+[^c-be879e35403600f957ee02b95069adce]: Textual amendment: Words in [Art. 15a(2)](https://www.legislation.gov.uk/eudn/2014/709/article/15a/2) omitted (31.12.2020) by virtue of [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [14(5)(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/14/5/c/ii)
 
-[^key-5dac3d2210cb03ec13db63f3be209a42]: Textual amendment: [Art. 15a(3)](https://www.legislation.gov.uk/eudn/2014/709/article/15a/3) omitted (31.12.2020) by virtue of [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [14(5)(d)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/14/5/d)
+[^c-5dac3d2210cb03ec13db63f3be209a42]: Textual amendment: [Art. 15a(3)](https://www.legislation.gov.uk/eudn/2014/709/article/15a/3) omitted (31.12.2020) by virtue of [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [14(5)(d)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/14/5/d)
 
-[^key-60d6db69b105a5fdf388a0f366280d1a]: Textual amendment: [Arts. 16-18](https://www.legislation.gov.uk/eudn/2014/709/article/16) omitted (31.12.2020) by virtue of [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [14(6)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/14/6)
+[^c-60d6db69b105a5fdf388a0f366280d1a]: Textual amendment: [Arts. 16-18](https://www.legislation.gov.uk/eudn/2014/709/article/16) omitted (31.12.2020) by virtue of [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [14(6)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/14/6)
 
-[^key-3a7625fd9cd35857d4895a3579fca9b0]: Textual amendment: [Art. 19](https://www.legislation.gov.uk/eudn/2014/709/article/19) substituted (31.12.2020) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [14(7)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/14/7)
+[^c-3a7625fd9cd35857d4895a3579fca9b0]: Textual amendment: [Art. 19](https://www.legislation.gov.uk/eudn/2014/709/article/19) substituted (31.12.2020) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [14(7)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/14/7)
 
-[^key-5b6ca3e9e7ae806aa22dbbf7541e1445]: Textual amendment: [Art. 20](https://www.legislation.gov.uk/eudn/2014/709/article/20) omitted (31.12.2020) by virtue of [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [14(8)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/14/8)
+[^c-5b6ca3e9e7ae806aa22dbbf7541e1445]: Textual amendment: [Art. 20](https://www.legislation.gov.uk/eudn/2014/709/article/20) omitted (31.12.2020) by virtue of [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [14(8)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/14/8)
 
 [^c000004]: Textual amendment: Substituted by [Commission Implementing Decision (EU) 2019/609 of 11 April 2019 amending Implementing Decision 2014/709/EU as regards the use of the pathogen identification test for African swine fever, the dispatch of the pigs through areas listed in the Annex and the applicability of the Decision (notified under document C(2019) 2739) (Text with EEA relevance)](https://www.legislation.gov.uk/eudn/2019/609).
 
-[^key-8bbfefb5d3978289d87ae7c042a69687]: Textual amendment: [Art. 22](https://www.legislation.gov.uk/eudn/2014/709/article/22) omitted (31.12.2020) by virtue of [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [14(8)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/14/8)
+[^c-8bbfefb5d3978289d87ae7c042a69687]: Textual amendment: [Art. 22](https://www.legislation.gov.uk/eudn/2014/709/article/22) omitted (31.12.2020) by virtue of [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [14(8)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/14/8)
 
-[^key-83372b8b429eccc6948ae5f3a40f92b6]: Textual amendment: [Annex](https://www.legislation.gov.uk/eudn/2014/709/annex) omitted (31.12.2020) by virtue of [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [14(8)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/14/8)
+[^c-83372b8b429eccc6948ae5f3a40f92b6]: Textual amendment: [Annex](https://www.legislation.gov.uk/eudn/2014/709/annex) omitted (31.12.2020) by virtue of [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [14(8)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/14/8)

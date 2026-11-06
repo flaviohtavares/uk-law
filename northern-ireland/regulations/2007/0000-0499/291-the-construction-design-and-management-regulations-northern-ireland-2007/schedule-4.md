@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 4 — PARTICULARS TO BE INCLUDED IN A REPORT OF INSPECTION[^key-d6ec231792022c4660ffc80f903e6655]
+## SCHEDULE 4 — PARTICULARS TO BE INCLUDED IN A REPORT OF INSPECTION[^c-d6ec231792022c4660ffc80f903e6655]
 
 *Extent: N.I.*
 
@@ -24,22 +24,22 @@ summary: ''
 
 Regulation 32(1)(b)
 
-**1.**[^key-d6ec231792022c4660ffc80f903e6655] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-d6ec231792022c4660ffc80f903e6655] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-d6ec231792022c4660ffc80f903e6655] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-d6ec231792022c4660ffc80f903e6655] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-d6ec231792022c4660ffc80f903e6655] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-d6ec231792022c4660ffc80f903e6655] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-d6ec231792022c4660ffc80f903e6655] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-d6ec231792022c4660ffc80f903e6655] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-d6ec231792022c4660ffc80f903e6655] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-d6ec231792022c4660ffc80f903e6655] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-d6ec231792022c4660ffc80f903e6655] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-d6ec231792022c4660ffc80f903e6655] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-d6ec231792022c4660ffc80f903e6655] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-d6ec231792022c4660ffc80f903e6655] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-d6ec231792022c4660ffc80f903e6655] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-d6ec231792022c4660ffc80f903e6655] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d6ec231792022c4660ffc80f903e6655]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/291) revoked (1.8.2016) by [The Construction (Design and Management) Regulations (Northern Ireland) 2016 (S.R. 2016/146)](https://www.legislation.gov.uk/nisr/2016/146), [reg. 38](https://www.legislation.gov.uk/nisr/2016/146/regulation/38)
+[^c-d6ec231792022c4660ffc80f903e6655]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/291) revoked (1.8.2016) by [The Construction (Design and Management) Regulations (Northern Ireland) 2016 (S.R. 2016/146)](https://www.legislation.gov.uk/nisr/2016/146), [reg. 38](https://www.legislation.gov.uk/nisr/2016/146/regulation/38)

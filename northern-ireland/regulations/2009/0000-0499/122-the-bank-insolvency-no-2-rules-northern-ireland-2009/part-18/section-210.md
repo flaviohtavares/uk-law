@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 210. Filing of Gazette notices and advertisements[^key-cefc5b06762a3d7137c828441bcb4f44]
+## 210. Filing of Gazette notices and advertisements[^c-cefc5b06762a3d7137c828441bcb4f44]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cefc5b06762a3d7137c828441bcb4f44]: Commencement: Rule 210 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-cefc5b06762a3d7137c828441bcb4f44]: Commencement: Rule 210 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

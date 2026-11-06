@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 75. Creation of positive servitude by writing: deed to be registered[^c21067771][^c21067791][^c21067811][^c21067831][^c21067871][^key-4370c9e49926b949f3ffa85a6eddae1b]
+## 75. Creation of positive servitude by writing: deed to be registered[^c21067771][^c21067791][^c21067811][^c21067831][^c21067871][^c-4370c9e49926b949f3ffa85a6eddae1b]
 
 *Extent: S*
 
-(1)[^key-50816aef0a977d4deea82c4413316778] A deed is not effective to create a positive servitude by express provision unless it is registered against both the benefited property and the burdened property.
+(1)[^c-50816aef0a977d4deea82c4413316778] A deed is not effective to create a positive servitude by express provision unless it is registered against both the benefited property and the burdened property.
 
-(2) It shall be no objection to the validity of a positive servitude that, at the time when the deed was registered as mentioned in subsection (1) above, the same person owned the benefited property and the burdened property; but[^key-8c75ab4272830b1c9d74b31665db1ae5]... the servitude shall not be created while that person remains owner of both those properties.
+(2) It shall be no objection to the validity of a positive servitude that, at the time when the deed was registered as mentioned in subsection (1) above, the same person owned the benefited property and the burdened property; but[^c-8c75ab4272830b1c9d74b31665db1ae5]... the servitude shall not be created while that person remains owner of both those properties.
 
 (3) Subsection (1) above—
 
@@ -41,8 +41,8 @@ summary: ''
 
 [^c21067871]: Modification: S. 75 excluded (1.6.2010) by [The Network Rail (Waverley Steps) Order 2010 (S.S.I. 2010/188)](https://www.legislation.gov.uk/ssi/2010/188), [art. 31(3)](https://www.legislation.gov.uk/ssi/2010/188/article/31/3)
 
-[^key-4370c9e49926b949f3ffa85a6eddae1b]: Modification: [S. 75](https://www.legislation.gov.uk/asp/2003/9/section/75) excluded (11.4.2017) by [The Network Rail (Glasgow Queen Street Station) Order 2017 (S.S.I. 2017/100)](https://www.legislation.gov.uk/ssi/2017/100), [arts. 1](https://www.legislation.gov.uk/ssi/2017/100/article/1), [33(2)](https://www.legislation.gov.uk/ssi/2017/100/article/33/2) (with [art. 37](https://www.legislation.gov.uk/ssi/2017/100/article/37))
+[^c-4370c9e49926b949f3ffa85a6eddae1b]: Modification: [S. 75](https://www.legislation.gov.uk/asp/2003/9/section/75) excluded (11.4.2017) by [The Network Rail (Glasgow Queen Street Station) Order 2017 (S.S.I. 2017/100)](https://www.legislation.gov.uk/ssi/2017/100), [arts. 1](https://www.legislation.gov.uk/ssi/2017/100/article/1), [33(2)](https://www.legislation.gov.uk/ssi/2017/100/article/33/2) (with [art. 37](https://www.legislation.gov.uk/ssi/2017/100/article/37))
 
-[^key-50816aef0a977d4deea82c4413316778]: Modification: S. 75(1) excluded (3.2.2011) by [Forth Crossing Act 2011 (asp 2)](https://www.legislation.gov.uk/asp/2011/2), [ss. 27(2)](https://www.legislation.gov.uk/asp/2011/2/section/27/2), [80(2)](https://www.legislation.gov.uk/asp/2011/2/section/80/2) (with [ss. 69](https://www.legislation.gov.uk/asp/2011/2/section/69), [78](https://www.legislation.gov.uk/asp/2011/2/section/78)); [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-50816aef0a977d4deea82c4413316778]: Modification: S. 75(1) excluded (3.2.2011) by [Forth Crossing Act 2011 (asp 2)](https://www.legislation.gov.uk/asp/2011/2), [ss. 27(2)](https://www.legislation.gov.uk/asp/2011/2/section/27/2), [80(2)](https://www.legislation.gov.uk/asp/2011/2/section/80/2) (with [ss. 69](https://www.legislation.gov.uk/asp/2011/2/section/69), [78](https://www.legislation.gov.uk/asp/2011/2/section/78)); [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-8c75ab4272830b1c9d74b31665db1ae5]: Textual amendment: Words in s. 75(2) repealed (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [sch. 5 para. 43(8)](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/43/8) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-8c75ab4272830b1c9d74b31665db1ae5]: Textual amendment: Words in s. 75(2) repealed (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [sch. 5 para. 43(8)](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/43/8) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

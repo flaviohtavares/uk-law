@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 81. Disqualification of removed person[^key-c0b9b4256f6e831ff4baee76ae0248c1]
+## 81. Disqualification of removed person[^c-c0b9b4256f6e831ff4baee76ae0248c1]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c0b9b4256f6e831ff4baee76ae0248c1]: Commencement: [S. 81](https://www.legislation.gov.uk/mwa/2011/5/section/81) in force at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(r)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/r)
+[^c-c0b9b4256f6e831ff4baee76ae0248c1]: Commencement: [S. 81](https://www.legislation.gov.uk/mwa/2011/5/section/81) in force at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(r)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/r)

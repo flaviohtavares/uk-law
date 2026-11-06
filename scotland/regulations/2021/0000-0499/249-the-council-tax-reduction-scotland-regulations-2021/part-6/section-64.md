@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 64. Unearned income calculated monthly[^key-089260d1d1b61529f40077d936f86676]
+## 64. Unearned income calculated monthly[^c-089260d1d1b61529f40077d936f86676]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ where N is the number of days in respect of which unearned income is paid that f
 
 ## Annotations
 
-[^key-089260d1d1b61529f40077d936f86676]: Commencement: [Reg. 64](https://www.legislation.gov.uk/ssi/2021/249/regulation/64) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-089260d1d1b61529f40077d936f86676]: Commencement: [Reg. 64](https://www.legislation.gov.uk/ssi/2021/249/regulation/64) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)

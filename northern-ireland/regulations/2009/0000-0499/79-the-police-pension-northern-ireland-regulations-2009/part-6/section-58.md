@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 58. Pension credit member’s entitlement to pension[^key-d1bc8918f52ca7d277a695b052050059]
+## 58. Pension credit member’s entitlement to pension[^c-d1bc8918f52ca7d277a695b052050059]
 
 *Extent: N.I.*
 
@@ -38,7 +38,7 @@ summary: ''
 
 ## Annotations
 
-[^key-d1bc8918f52ca7d277a695b052050059]: Commencement: Reg. 58 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
+[^c-d1bc8918f52ca7d277a695b052050059]: Commencement: Reg. 58 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
 
 [^f00024]: Footnote: [2004 c.12](https://www.legislation.gov.uk/ukpga/2004/12)
 

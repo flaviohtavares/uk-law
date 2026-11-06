@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 151. Forms of assistance under s. 149[^key-abef7d0c562b936db4323056829598a1]
+## 151. Forms of assistance under s. 149[^c-abef7d0c562b936db4323056829598a1]
 
 *Extent: E+W*
 
@@ -27,12 +27,12 @@ summary: ''
 - (a) grants,
 - (b) loans,
 - (c) guarantees, or
-- (d) in the case of assistance under section 149(1) or[^key-98ec823491aea46706f74756c8c344bb] (1A) given to a company, purchasing share capital of the company.
+- (d) in the case of assistance under section 149(1) or[^c-98ec823491aea46706f74756c8c344bb] (1A) given to a company, purchasing share capital of the company.
 
 (3) Financial assistance under section 149(2) given to a company may not be given by way of purchasing share capital of the company.
 
 ## Annotations
 
-[^key-abef7d0c562b936db4323056829598a1]: Commencement: [S. 151](https://www.legislation.gov.uk/ukpga/2008/14/section/151) in force at 1.4.2009 by [S.I. 2008/2994](https://www.legislation.gov.uk/uksi/2008/2994), [art. 3(2)(c)](https://www.legislation.gov.uk/uksi/2008/2994/article/3/2/c)
+[^c-abef7d0c562b936db4323056829598a1]: Commencement: [S. 151](https://www.legislation.gov.uk/ukpga/2008/14/section/151) in force at 1.4.2009 by [S.I. 2008/2994](https://www.legislation.gov.uk/uksi/2008/2994), [art. 3(2)(c)](https://www.legislation.gov.uk/uksi/2008/2994/article/3/2/c)
 
-[^key-98ec823491aea46706f74756c8c344bb]: Textual amendment: Words in [s. 151(2)(d)](https://www.legislation.gov.uk/ukpga/2008/14/section/151/2/d) inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 167(3)](https://www.legislation.gov.uk/ukpga/2022/31/section/167/3), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-98ec823491aea46706f74756c8c344bb]: Textual amendment: Words in [s. 151(2)(d)](https://www.legislation.gov.uk/ukpga/2008/14/section/151/2/d) inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 167(3)](https://www.legislation.gov.uk/ukpga/2022/31/section/167/3), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

@@ -70,16 +70,16 @@ about the proposed recommendation.
 
 (2) Those persons are—
 
-- (a) the CMA[^key-11b872b896e8af43f3b6c793221116b2],
+- (a) the CMA[^c-11b872b896e8af43f3b6c793221116b2],
 - (b) the Consumer Panel,
 - (c) the Lord Chief Justice, and
 - (d) such other persons as the Board considers it reasonable to consult in respect of the proposed recommendation.
 
 (3) In this Schedule, in relation to a proposed recommendation, “**selected consultee**” means a person within sub-paragraph (2)(d).
 
-### Advice of Competition and Markets Authority[^key-9a2b86a744ed260af12287fa50070fc2]
+### Advice of Competition and Markets Authority[^c-9a2b86a744ed260af12287fa50070fc2]
 
-**4.** (1) The CMA[^key-44cf59e6efce92c5241b76f46c590b0d] must give the Board such advice as it thinks fit regarding whether the proposed recommendation should be made.
+**4.** (1) The CMA[^c-44cf59e6efce92c5241b76f46c590b0d] must give the Board such advice as it thinks fit regarding whether the proposed recommendation should be made.
 
 (2) In deciding what advice to give, the CMA must, in particular, have regard to whether making an order under section 45 in accordance with the proposed recommendation would (or would be likely to) prevent, restrict or distort competition within the market for reserved legal services to any significant extent.
 
@@ -174,10 +174,10 @@ the Board must decide whether to make the proposed recommendation.
 
 [^c20326181]: Commencement: Sch. 9 para. 2 wholly in force at 1.1.2010; Sch. 9 para. 2 not in force at Royal Assent see s. 211; Sch. 9 para. 2(5) in force at 1.1.2009 by [S.I. 2008/3149](https://www.legislation.gov.uk/uksi/2008/3149), [art. 2(c)(iv)](https://www.legislation.gov.uk/uksi/2008/3149/article/2/c/iv); Sch. 8 para. 2 in force otherwise at 1.1.2010 by [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/c/ii) (with [art. 9](https://www.legislation.gov.uk/uksi/2009/3250/article/9))
 
-[^key-11b872b896e8af43f3b6c793221116b2]: Textual amendment: Word in Sch. 9 para. 3(2)(a) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 121(2)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/121/2); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-11b872b896e8af43f3b6c793221116b2]: Textual amendment: Word in Sch. 9 para. 3(2)(a) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 121(2)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/121/2); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-9a2b86a744ed260af12287fa50070fc2]: Textual amendment: Words in [Sch. 9 para. 4 cross-heading](https://www.legislation.gov.uk/ukpga/2007/29/schedule/9/crossheading/advice-of-office-of-fair-trading) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 121(3)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/121/3); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-9a2b86a744ed260af12287fa50070fc2]: Textual amendment: Words in [Sch. 9 para. 4 cross-heading](https://www.legislation.gov.uk/ukpga/2007/29/schedule/9/crossheading/advice-of-office-of-fair-trading) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 121(3)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/121/3); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-44cf59e6efce92c5241b76f46c590b0d]: Textual amendment: Words in Sch. 9 para. 4(1)(2) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 121(4)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/121/4); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-44cf59e6efce92c5241b76f46c590b0d]: Textual amendment: Words in Sch. 9 para. 4(1)(2) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 121(4)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/121/4); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
 [^c20326211]: Commencement: Sch. 9 para. 9 wholly in force at 1.1.2010; Sch. 9 para. 9 not in force at Royal Assent see s. 211; Sch. 9 para. 9(5) in force at 1.1.2009 by [S.I. 2008/3149](https://www.legislation.gov.uk/uksi/2008/3149), [art. 2(c)(iv)](https://www.legislation.gov.uk/uksi/2008/3149/article/2/c/iv); Sch. 9 para. 9 in force otherwise at 1.1.2010 by [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/c/ii) (with [art. 9](https://www.legislation.gov.uk/uksi/2009/3250/article/9))

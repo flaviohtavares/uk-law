@@ -31,7 +31,7 @@ summary: ''
 
 Social Care, Wales
 
-The Adoption Support Services (Wales) Regulations 2019 (revoked)[^key-fadc944f5581ae9d5ce81683397babd2]
+The Adoption Support Services (Wales) Regulations 2019 (revoked)[^c-fadc944f5581ae9d5ce81683397babd2]
 
 Made
 
@@ -45,28 +45,28 @@ Coming into force
 
 29 April 2019
 
-[^key-fadc944f5581ae9d5ce81683397babd2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fadc944f5581ae9d5ce81683397babd2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-fadc944f5581ae9d5ce81683397babd2]
+## 1. Title and commencement[^c-fadc944f5581ae9d5ce81683397babd2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-fadc944f5581ae9d5ce81683397babd2]
+## 2. Interpretation[^c-fadc944f5581ae9d5ce81683397babd2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Adoption support services[^key-fadc944f5581ae9d5ce81683397babd2]
+## 3. Adoption support services[^c-fadc944f5581ae9d5ce81683397babd2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fadc944f5581ae9d5ce81683397babd2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fadc944f5581ae9d5ce81683397babd2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-fadc944f5581ae9d5ce81683397babd2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fadc944f5581ae9d5ce81683397babd2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fadc944f5581ae9d5ce81683397babd2]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2019/286) revoked (1.4.2026) by [The Adoption Support Services (Adoption Support Agencies) (Wales) Regulations 2026 (W.S.I. 2026/12)](https://www.legislation.gov.uk/wsi/2026/12), [regs. 1](https://www.legislation.gov.uk/wsi/2026/12/regulation/1), [4](https://www.legislation.gov.uk/wsi/2026/12/regulation/4)
+[^c-fadc944f5581ae9d5ce81683397babd2]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2019/286) revoked (1.4.2026) by [The Adoption Support Services (Adoption Support Agencies) (Wales) Regulations 2026 (W.S.I. 2026/12)](https://www.legislation.gov.uk/wsi/2026/12), [regs. 1](https://www.legislation.gov.uk/wsi/2026/12/regulation/1), [4](https://www.legislation.gov.uk/wsi/2026/12/regulation/4)

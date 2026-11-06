@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34B. ESOS progress update[^key-a99f91c5d3faa8d79c58f9016e87cef5]
+## 34B. ESOS progress update[^c-a99f91c5d3faa8d79c58f9016e87cef5]
 
 *Extent: E+W+S+N.I.*
 
 (1) Following notification of an ESOS action plan under regulation 34A(6) (“the latest ESOS action plan”), the responsible undertaking must produce—
 
-- (a) an ESOS progress update during the period starting on the one year anniversary of the first day of the relevant compliance period and ending on the day before the two year anniversary of the first day of the relevant compliance period (“an initial progress update”), [^key-b8f43262f9f46be0599902a82c840ca7]...
-- (b) an ESOS progress update during the period starting on the two year anniversary of the first day of the relevant compliance period and ending on the day before the three year anniversary of the first day of the relevant compliance period (“a further progress update”) , and[^key-728ada00a79c774b72b515b153360c0a]
-- (c)[^key-cb4acc2b82fed38e876ea498c3104a15] for compliance periods ending on or after 5th December 2027, an ESOS progress update during the period starting on the three year anniversary of the first day of the relevant compliance period and ending on the day before the four year anniversary of the first day of the relevant compliance period (“a final progress update”).
+- (a) an ESOS progress update during the period starting on the one year anniversary of the first day of the relevant compliance period and ending on the day before the two year anniversary of the first day of the relevant compliance period (“an initial progress update”), [^c-b8f43262f9f46be0599902a82c840ca7]...
+- (b) an ESOS progress update during the period starting on the two year anniversary of the first day of the relevant compliance period and ending on the day before the three year anniversary of the first day of the relevant compliance period (“a further progress update”) , and[^c-728ada00a79c774b72b515b153360c0a]
+- (c)[^c-cb4acc2b82fed38e876ea498c3104a15] for compliance periods ending on or after 5th December 2027, an ESOS progress update during the period starting on the three year anniversary of the first day of the relevant compliance period and ending on the day before the four year anniversary of the first day of the relevant compliance period (“a final progress update”).
 
 (2) An ESOS progress update is a written record identifying any action taken by or on behalf of the participant since the relevant event to implement measures to improve the participant’s energy efficiency.
 
@@ -34,7 +34,7 @@ summary: ''
   - (i) any measure set out in the latest ESOS action plan that the participant has implemented since the relevant event,
   - (ii) whether such measure was implemented by any date specified for it in the latest ESOS action plan, and
   - (iii) any measure set out in the latest ESOS action plan that the participant has not implemented by any date specified for it in the latest ESOS action plan, and
-- (b) an estimate for the reduction in energy consumption that has been, or will be achieved during the relevant reporting period as a result of the actions identified in the ESOS progress update, calculated in kWh[^key-59658febab1021550335b29647ec5fd4], and
+- (b) an estimate for the reduction in energy consumption that has been, or will be achieved during the relevant reporting period as a result of the actions identified in the ESOS progress update, calculated in kWh[^c-59658febab1021550335b29647ec5fd4], and
 - (c) the method used to produce the estimate in accordance with sub-paragraph (b).
 
 (4) In relation to the estimate referred to in paragraph (3)(b), the responsible undertaking must identify whether the estimate is based on—
@@ -66,28 +66,28 @@ within the relevant reporting period.
 - “**relevant event**” means—
   - (a) in the case of an initial progress update, the notification of the latest ESOS action plan under regulation 34A(6);
   - (b) in the case of a further progress update, the notification of the initial progress update under paragraph (6);
-  - ((c)) in the case of a final progress update, the notification of the further progress update under paragraph (6).[^key-730407edb85afc855b5cf68dfca26084]
+  - ((c)) in the case of a final progress update, the notification of the further progress update under paragraph (6).[^c-730407edb85afc855b5cf68dfca26084]
 - “**relevant reporting period**” means—
   - (a) in the case of an initial progress update, the period referred to in paragraph (1)(a);
   - (b) in the case of a further progress update, the period referred to in paragraph (1)(b);
-  - ((c)) in the case of a final progress update, the period referred to in paragraph (1)(c).[^key-a53916530eaba52f526a5123f7b6e82d]
+  - ((c)) in the case of a final progress update, the period referred to in paragraph (1)(c).[^c-a53916530eaba52f526a5123f7b6e82d]
 
-(9)[^key-63e2916fb28ddfb1e4d0d17a03e4505d] This regulation does not apply to a participant which is deemed to have complied with this Part by virtue of regulation 33A.
+(9)[^c-63e2916fb28ddfb1e4d0d17a03e4505d] This regulation does not apply to a participant which is deemed to have complied with this Part by virtue of regulation 33A.
 
 ## Annotations
 
-[^key-a99f91c5d3faa8d79c58f9016e87cef5]: Textual amendment: [Pt. 6A](https://www.legislation.gov.uk/uksi/2014/1643/part/6A) inserted (29.11.2023) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2023 (S.I. 2023/1182)](https://www.legislation.gov.uk/uksi/2023/1182), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1182/regulation/1/2), [26](https://www.legislation.gov.uk/uksi/2023/1182/regulation/26)
+[^c-a99f91c5d3faa8d79c58f9016e87cef5]: Textual amendment: [Pt. 6A](https://www.legislation.gov.uk/uksi/2014/1643/part/6A) inserted (29.11.2023) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2023 (S.I. 2023/1182)](https://www.legislation.gov.uk/uksi/2023/1182), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1182/regulation/1/2), [26](https://www.legislation.gov.uk/uksi/2023/1182/regulation/26)
 
-[^key-b8f43262f9f46be0599902a82c840ca7]: Textual amendment: Word in [reg. 34B(1)(a)](https://www.legislation.gov.uk/uksi/2014/1643/regulation/34B/1/a) omitted (22.7.2026) by virtue of [The Energy Savings Opportunity Scheme (Amendment) Regulations 2026 (S.I. 2026/701)](https://www.legislation.gov.uk/uksi/2026/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/701/regulation/1/2), [28(2)(a)](https://www.legislation.gov.uk/uksi/2026/701/regulation/28/2/a)
+[^c-b8f43262f9f46be0599902a82c840ca7]: Textual amendment: Word in [reg. 34B(1)(a)](https://www.legislation.gov.uk/uksi/2014/1643/regulation/34B/1/a) omitted (22.7.2026) by virtue of [The Energy Savings Opportunity Scheme (Amendment) Regulations 2026 (S.I. 2026/701)](https://www.legislation.gov.uk/uksi/2026/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/701/regulation/1/2), [28(2)(a)](https://www.legislation.gov.uk/uksi/2026/701/regulation/28/2/a)
 
-[^key-728ada00a79c774b72b515b153360c0a]: Textual amendment: Word in [reg. 34B(1)(b)](https://www.legislation.gov.uk/uksi/2014/1643/regulation/34B/1/b) inserted (22.7.2026) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2026 (S.I. 2026/701)](https://www.legislation.gov.uk/uksi/2026/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/701/regulation/1/2), [28(2)(b)](https://www.legislation.gov.uk/uksi/2026/701/regulation/28/2/b)
+[^c-728ada00a79c774b72b515b153360c0a]: Textual amendment: Word in [reg. 34B(1)(b)](https://www.legislation.gov.uk/uksi/2014/1643/regulation/34B/1/b) inserted (22.7.2026) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2026 (S.I. 2026/701)](https://www.legislation.gov.uk/uksi/2026/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/701/regulation/1/2), [28(2)(b)](https://www.legislation.gov.uk/uksi/2026/701/regulation/28/2/b)
 
-[^key-cb4acc2b82fed38e876ea498c3104a15]: Textual amendment: [Reg. 34B(1)(c)](https://www.legislation.gov.uk/uksi/2014/1643/regulation/34B/1/c) inserted (22.7.2026) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2026 (S.I. 2026/701)](https://www.legislation.gov.uk/uksi/2026/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/701/regulation/1/2), [28(2)(c)](https://www.legislation.gov.uk/uksi/2026/701/regulation/28/2/c)
+[^c-cb4acc2b82fed38e876ea498c3104a15]: Textual amendment: [Reg. 34B(1)(c)](https://www.legislation.gov.uk/uksi/2014/1643/regulation/34B/1/c) inserted (22.7.2026) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2026 (S.I. 2026/701)](https://www.legislation.gov.uk/uksi/2026/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/701/regulation/1/2), [28(2)(c)](https://www.legislation.gov.uk/uksi/2026/701/regulation/28/2/c)
 
-[^key-59658febab1021550335b29647ec5fd4]: Textual amendment: Word in [reg. 34B(3)(b)](https://www.legislation.gov.uk/uksi/2014/1643/regulation/34B/3/b) substituted (22.7.2026) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2026 (S.I. 2026/701)](https://www.legislation.gov.uk/uksi/2026/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/701/regulation/1/2), [28(3)](https://www.legislation.gov.uk/uksi/2026/701/regulation/28/3)
+[^c-59658febab1021550335b29647ec5fd4]: Textual amendment: Word in [reg. 34B(3)(b)](https://www.legislation.gov.uk/uksi/2014/1643/regulation/34B/3/b) substituted (22.7.2026) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2026 (S.I. 2026/701)](https://www.legislation.gov.uk/uksi/2026/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/701/regulation/1/2), [28(3)](https://www.legislation.gov.uk/uksi/2026/701/regulation/28/3)
 
-[^key-730407edb85afc855b5cf68dfca26084]: Textual amendment: Words in [reg. 34B(8)](https://www.legislation.gov.uk/uksi/2014/1643/regulation/34B/8) inserted (22.7.2026) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2026 (S.I. 2026/701)](https://www.legislation.gov.uk/uksi/2026/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/701/regulation/1/2), [28(4)(a)](https://www.legislation.gov.uk/uksi/2026/701/regulation/28/4/a)
+[^c-730407edb85afc855b5cf68dfca26084]: Textual amendment: Words in [reg. 34B(8)](https://www.legislation.gov.uk/uksi/2014/1643/regulation/34B/8) inserted (22.7.2026) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2026 (S.I. 2026/701)](https://www.legislation.gov.uk/uksi/2026/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/701/regulation/1/2), [28(4)(a)](https://www.legislation.gov.uk/uksi/2026/701/regulation/28/4/a)
 
-[^key-a53916530eaba52f526a5123f7b6e82d]: Textual amendment: Words in [reg. 34B(8)](https://www.legislation.gov.uk/uksi/2014/1643/regulation/34B/8) inserted (22.7.2026) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2026 (S.I. 2026/701)](https://www.legislation.gov.uk/uksi/2026/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/701/regulation/1/2), [28(4)(b)](https://www.legislation.gov.uk/uksi/2026/701/regulation/28/4/b)
+[^c-a53916530eaba52f526a5123f7b6e82d]: Textual amendment: Words in [reg. 34B(8)](https://www.legislation.gov.uk/uksi/2014/1643/regulation/34B/8) inserted (22.7.2026) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2026 (S.I. 2026/701)](https://www.legislation.gov.uk/uksi/2026/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/701/regulation/1/2), [28(4)(b)](https://www.legislation.gov.uk/uksi/2026/701/regulation/28/4/b)
 
-[^key-63e2916fb28ddfb1e4d0d17a03e4505d]: Textual amendment: [Reg. 34B(9)](https://www.legislation.gov.uk/uksi/2014/1643/regulation/34B/9) inserted (22.7.2026) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2026 (S.I. 2026/701)](https://www.legislation.gov.uk/uksi/2026/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/701/regulation/1/2), [28(5)](https://www.legislation.gov.uk/uksi/2026/701/regulation/28/5)
+[^c-63e2916fb28ddfb1e4d0d17a03e4505d]: Textual amendment: [Reg. 34B(9)](https://www.legislation.gov.uk/uksi/2014/1643/regulation/34B/9) inserted (22.7.2026) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2026 (S.I. 2026/701)](https://www.legislation.gov.uk/uksi/2026/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/701/regulation/1/2), [28(5)](https://www.legislation.gov.uk/uksi/2026/701/regulation/28/5)

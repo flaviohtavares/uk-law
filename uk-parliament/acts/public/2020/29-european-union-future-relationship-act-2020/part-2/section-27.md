@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. The EU and Euratom and related organisations and bodies[^key-9586e5d1559890e70cefc936f81f6917]
+## 27. The EU and Euratom and related organisations and bodies[^c-9586e5d1559890e70cefc936f81f6917]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9586e5d1559890e70cefc936f81f6917]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2020/29/section/27) in force at 1.3.2021 by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/3/b)
+[^c-9586e5d1559890e70cefc936f81f6917]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2020/29/section/27) in force at 1.3.2021 by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/3/b)

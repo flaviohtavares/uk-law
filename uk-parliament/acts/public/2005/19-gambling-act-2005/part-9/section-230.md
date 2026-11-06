@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 230. Withdrawal of notice[^key-546e227e8c1929192f3bc2b990ccd248]
+## 230. Withdrawal of notice[^c-546e227e8c1929192f3bc2b990ccd248]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ If a person who gives a temporary use notice to a licensing authority in accorda
 
 ## Annotations
 
-[^key-546e227e8c1929192f3bc2b990ccd248]: Commencement: [S. 230](https://www.legislation.gov.uk/ukpga/2005/19/section/230) in force at 1.12.2007 by [S.I. 2007/3155](https://www.legislation.gov.uk/uksi/2007/3155), [art. 2](https://www.legislation.gov.uk/uksi/2007/3155/article/2)
+[^c-546e227e8c1929192f3bc2b990ccd248]: Commencement: [S. 230](https://www.legislation.gov.uk/ukpga/2005/19/section/230) in force at 1.12.2007 by [S.I. 2007/3155](https://www.legislation.gov.uk/uksi/2007/3155), [art. 2](https://www.legislation.gov.uk/uksi/2007/3155/article/2)

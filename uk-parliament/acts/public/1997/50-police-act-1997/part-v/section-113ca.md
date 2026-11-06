@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113CA. Suitability information relating to children[^key-18291a6dd88b7ac8a1b42216c7a67f7e]
+## 113CA. Suitability information relating to children[^c-18291a6dd88b7ac8a1b42216c7a67f7e]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-18291a6dd88b7ac8a1b42216c7a67f7e]: Textual amendment: [Pt. 5](https://www.legislation.gov.uk/ukpga/1997/50/part/V) repealed (S.) (1.4.2025) by [Disclosure (Scotland) Act 2020 (asp 13)](https://www.legislation.gov.uk/asp/2020/13), [s. 97](https://www.legislation.gov.uk/asp/2020/13/section/97), [sch. 5 para. 3](https://www.legislation.gov.uk/asp/2020/13/schedule/5/paragraph/3) (with [s. 96](https://www.legislation.gov.uk/asp/2020/13/section/96)); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule) (with [regs. 4](https://www.legislation.gov.uk/ssi/2025/27/regulation/4), [5](https://www.legislation.gov.uk/ssi/2025/27/regulation/5), [7-10](https://www.legislation.gov.uk/ssi/2025/27/regulation/7))
+[^c-18291a6dd88b7ac8a1b42216c7a67f7e]: Textual amendment: [Pt. 5](https://www.legislation.gov.uk/ukpga/1997/50/part/V) repealed (S.) (1.4.2025) by [Disclosure (Scotland) Act 2020 (asp 13)](https://www.legislation.gov.uk/asp/2020/13), [s. 97](https://www.legislation.gov.uk/asp/2020/13/section/97), [sch. 5 para. 3](https://www.legislation.gov.uk/asp/2020/13/schedule/5/paragraph/3) (with [s. 96](https://www.legislation.gov.uk/asp/2020/13/section/96)); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule) (with [regs. 4](https://www.legislation.gov.uk/ssi/2025/27/regulation/4), [5](https://www.legislation.gov.uk/ssi/2025/27/regulation/5), [7-10](https://www.legislation.gov.uk/ssi/2025/27/regulation/7))

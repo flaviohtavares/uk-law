@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 1 — POSITIONS OF RESPONSIBILITY[^key-9bd97b33d0428719ce45e1c0daf25abb]
+## SCHEDULE 1 — POSITIONS OF RESPONSIBILITY[^c-9bd97b33d0428719ce45e1c0daf25abb]
 
 *Extent: N.I.*
 
@@ -26,11 +26,11 @@ Section 6(3).
 
 #### Application of this Part
 
-**1.**[^key-636238f9ae2d7ff28ea5c4366e71fd50] The following provisions of this Part apply unless at the first annual meeting after a local general election the council by resolution passed by a qualified majority decides that Part 2 applies.
+**1.**[^c-636238f9ae2d7ff28ea5c4366e71fd50] The following provisions of this Part apply unless at the first annual meeting after a local general election the council by resolution passed by a qualified majority decides that Part 2 applies.
 
 #### Selection of positions of responsibility etc. by nominating officers
 
-**2.**[^key-1bf69e3ed66ca75324f9cc3a5b4c8f01] (1) At the first annual meeting of a council after a local general election the nominating officer of the party for which the formula in paragraph 3 gives the highest figure may select—
+**2.**[^c-1bf69e3ed66ca75324f9cc3a5b4c8f01] (1) At the first annual meeting of a council after a local general election the nominating officer of the party for which the formula in paragraph 3 gives the highest figure may select—
 
 - (a) a position of responsibility; and
 - (b) a term for which it may be held.
@@ -48,7 +48,7 @@ that function becomes exercisable by the nominating officer of the party for whi
 
 #### The formula
 
-**3.**[^key-cfe8d7a9f58df15f824eee16b63d7706] (1) Subject to sub-paragraphs (2) and (3), the formula is—
+**3.**[^c-cfe8d7a9f58df15f824eee16b63d7706] (1) Subject to sub-paragraphs (2) and (3), the formula is—
 
 [formula: see source](https://www.legislation.gov.uk/nia/2014/8)
 
@@ -64,7 +64,7 @@ M the number of positions of responsibility (if any) which are held by such memb
 
 #### Vacancies
 
-**4.**[^key-13345e6abb69fc72807046ce30a10cf4] (1) Where a position of responsibility becomes vacant before the end of the term for which it is held, the nominating officer of the party on whose behalf the previous incumbent was nominated may nominate to hold the position of responsibility for the remainder of the term a member of the council who stood in the name of the party when elected.
+**4.**[^c-13345e6abb69fc72807046ce30a10cf4] (1) Where a position of responsibility becomes vacant before the end of the term for which it is held, the nominating officer of the party on whose behalf the previous incumbent was nominated may nominate to hold the position of responsibility for the remainder of the term a member of the council who stood in the name of the party when elected.
 
 (2) If—
 
@@ -75,7 +75,7 @@ the vacancy must be filled by applying paragraphs 2 and 3 within a period specif
 
 #### Selection of members at subsequent annual meetings
 
-**5.**[^key-fdb9e9dbcfc0bb629f61b456cec99b73] (1) At each subsequent annual meeting each nominating officer of a party must select a member of the council who stood in the name of that party when elected to hold for the next term each position of responsibility selected by the nominating officer of that party under paragraph 2.
+**5.**[^c-fdb9e9dbcfc0bb629f61b456cec99b73] (1) At each subsequent annual meeting each nominating officer of a party must select a member of the council who stood in the name of that party when elected to hold for the next term each position of responsibility selected by the nominating officer of that party under paragraph 2.
 
 (2) In this paragraph—
 
@@ -86,7 +86,7 @@ the vacancy must be filled by applying paragraphs 2 and 3 within a period specif
 
 #### New positions of responsibility
 
-**6.**[^key-9803e1aac49069097f5275a4c981917c] (1) Where a new position of responsibility arises after the annual meeting mentioned in paragraph 2(1), then at the next meeting of the council (which need not be an annual meeting) the nominating officer of the party for which the formula in paragraph 3 gives the highest figure may select a term beginning before the date of the next local general election for which the new position of responsibility may be held.
+**6.**[^c-9803e1aac49069097f5275a4c981917c] (1) Where a new position of responsibility arises after the annual meeting mentioned in paragraph 2(1), then at the next meeting of the council (which need not be an annual meeting) the nominating officer of the party for which the formula in paragraph 3 gives the highest figure may select a term beginning before the date of the next local general election for which the new position of responsibility may be held.
 
 (2) The first term begins with the date of the meeting and if the nominating officer selects that term, the nominating officer must also nominate to hold the new position of responsibility for that term a member of the council who stood in the name of the nominating officer's party when elected.
 
@@ -106,23 +106,23 @@ that function becomes exercisable by the nominating officer of the party for whi
 
 #### Application of this Part
 
-**7.**[^key-1507fbe2d2a2ed0ce1c2286bca17beb4] This Part applies only if the council so decides as mentioned in paragraph 1.
+**7.**[^c-1507fbe2d2a2ed0ce1c2286bca17beb4] This Part applies only if the council so decides as mentioned in paragraph 1.
 
 #### Election to positions of responsibility
 
-**8.**[^key-ed28db5555e8d377a019e356be54ea9e] At the first annual meeting of a council after a local general election the council must for each term elect a member of the council to hold each position of responsibility.
+**8.**[^c-ed28db5555e8d377a019e356be54ea9e] At the first annual meeting of a council after a local general election the council must for each term elect a member of the council to hold each position of responsibility.
 
 #### Vacancies
 
-**9.**[^key-1c8c598bc77f5e9d0770f21e3acd0467] Where a position of responsibility becomes vacant before the end of the term for which it is held, then, unless standing orders otherwise provide, the council must at the next meeting of the council elect a member of the council to hold the position of responsibility for the remainder of the term.
+**9.**[^c-1c8c598bc77f5e9d0770f21e3acd0467] Where a position of responsibility becomes vacant before the end of the term for which it is held, then, unless standing orders otherwise provide, the council must at the next meeting of the council elect a member of the council to hold the position of responsibility for the remainder of the term.
 
 #### New positions of responsibility
 
-**10.**[^key-72afff94dc2c45238fb19c065a930857] Where a new position of responsibility arises after the annual meeting mentioned in paragraph 8, the council must for each term elect a member of the council to hold that position of responsibility.
+**10.**[^c-72afff94dc2c45238fb19c065a930857] Where a new position of responsibility arises after the annual meeting mentioned in paragraph 8, the council must for each term elect a member of the council to hold that position of responsibility.
 
 #### Method of election
 
-**11.**[^key-3603799812cfb4e51dfce33cbc96b25c] (1) Elections under this Part must be by single transferable vote.
+**11.**[^c-3603799812cfb4e51dfce33cbc96b25c] (1) Elections under this Part must be by single transferable vote.
 
 (2) A single transferable vote is a vote—
 
@@ -135,7 +135,7 @@ that function becomes exercisable by the nominating officer of the party for whi
 
 #### Chairs and deputy chairs of council and committees
 
-**12.**[^key-2e0a84a379aff076a1308c18047044ee] (1) In relation to each council there must be—
+**12.**[^c-2e0a84a379aff076a1308c18047044ee] (1) In relation to each council there must be—
 
 - (a) a chair of the council; and
 - (b) if the council so determines, a deputy chair of the council.
@@ -151,7 +151,7 @@ that function becomes exercisable by the nominating officer of the party for whi
 
 #### Chair of council continues until successor takes up office
 
-**13.**[^key-be772810b74d9a7bdc91e76d456cd634] (1) Until a successor takes up office the chair of a council continues—
+**13.**[^c-be772810b74d9a7bdc91e76d456cd634] (1) Until a successor takes up office the chair of a council continues—
 
 - (a) to hold office as chair of the council; and
 - (b) to be a member of the council, notwithstanding section 11(2)(c) of the 1962 Act (members of council retire on day after election day) if that provision would otherwise apply.
@@ -160,7 +160,7 @@ that function becomes exercisable by the nominating officer of the party for whi
 
 #### Chair of council ceases to hold office if absent from district
 
-**14.**[^key-be54e9ff54e21222e3bac88e4acb8e6d] (1) The chair of a council who is continuously absent from the district of the council, except in case of illness, for a period exceeding three months, ceases as from the expiration of that period to hold office as chair.
+**14.**[^c-be54e9ff54e21222e3bac88e4acb8e6d] (1) The chair of a council who is continuously absent from the district of the council, except in case of illness, for a period exceeding three months, ceases as from the expiration of that period to hold office as chair.
 
 (2) Where a person ceases to be chair of a council under sub-paragraph (1), the council must forthwith declare the office of chair vacant and publish a notice to that effect.
 
@@ -168,7 +168,7 @@ that function becomes exercisable by the nominating officer of the party for whi
 
 #### Deputy chair of council
 
-**15.**[^key-92e4494bf13078a7b1edc229a14d28ee] (1) Subject to any standing orders made by the council, anything authorised or required to be done by, to or before the chair in relation to the business of the council may be done by, to or before the deputy chair.
+**15.**[^c-92e4494bf13078a7b1edc229a14d28ee] (1) Subject to any standing orders made by the council, anything authorised or required to be done by, to or before the chair in relation to the business of the council may be done by, to or before the deputy chair.
 
 (2) Notwithstanding anything in section 18(3)(a) of the Interpretation Act (Northern Ireland) 1954, no function is exercisable by or in relation to a deputy mayor or a deputy lord mayor that is not exercisable by or in relation to any other deputy chair of a council.
 
@@ -176,7 +176,7 @@ that function becomes exercisable by the nominating officer of the party for whi
 
 #### Interpretation
 
-**16.**[^key-04606f3d605569e085e3948f07e76d02] (1) In this Schedule—
+**16.**[^c-04606f3d605569e085e3948f07e76d02] (1) In this Schedule—
 
 - “**1962 Act**” means the Electoral Law Act (Northern Ireland) 1962;
 - “**2000 Act**” means the Political Parties, Elections and Referendums Act 2000;
@@ -221,7 +221,7 @@ S is to be treated as equal to the number of first preference votes cast for the
 
 #### Cases where persons cease to hold positions of responsibility
 
-**17.**[^key-c39cba1ef9d8bbe35908c09c4ab26aa0] (1) A person ceases to hold a position of responsibility if that person—
+**17.**[^c-c39cba1ef9d8bbe35908c09c4ab26aa0] (1) A person ceases to hold a position of responsibility if that person—
 
 - (a) resigns by notice in writing to the clerk of the council;
 - (b) ceases to be a member of the council otherwise than by virtue of section 11(2)(c) of the 1962 Act; or
@@ -231,38 +231,38 @@ S is to be treated as equal to the number of first preference votes cast for the
 
 ## Annotations
 
-[^key-9bd97b33d0428719ce45e1c0daf25abb]: Modification: Sch. 1 applied (28.5.2014) by [The Local Government (Transitional, Supplementary, Incidental Provisions and Modifications) Regulations (Northern Ireland) 2014 (S.R. 2014/148)](https://www.legislation.gov.uk/nisr/2014/148), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/148/regulation/1/1), [6(2)](https://www.legislation.gov.uk/nisr/2014/148/regulation/6/2)
+[^c-9bd97b33d0428719ce45e1c0daf25abb]: Modification: Sch. 1 applied (28.5.2014) by [The Local Government (Transitional, Supplementary, Incidental Provisions and Modifications) Regulations (Northern Ireland) 2014 (S.R. 2014/148)](https://www.legislation.gov.uk/nisr/2014/148), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/148/regulation/1/1), [6(2)](https://www.legislation.gov.uk/nisr/2014/148/regulation/6/2)
 
-[^key-636238f9ae2d7ff28ea5c4366e71fd50]: Commencement: Sch. 1 para. 1 in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
+[^c-636238f9ae2d7ff28ea5c4366e71fd50]: Commencement: Sch. 1 para. 1 in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
 
-[^key-1bf69e3ed66ca75324f9cc3a5b4c8f01]: Commencement: Sch. 1 para. 2 in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
+[^c-1bf69e3ed66ca75324f9cc3a5b4c8f01]: Commencement: Sch. 1 para. 2 in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
 
-[^key-cfe8d7a9f58df15f824eee16b63d7706]: Commencement: Sch. 1 para. 3 in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
+[^c-cfe8d7a9f58df15f824eee16b63d7706]: Commencement: Sch. 1 para. 3 in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
 
-[^key-13345e6abb69fc72807046ce30a10cf4]: Commencement: Sch. 1 para. 4 in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
+[^c-13345e6abb69fc72807046ce30a10cf4]: Commencement: Sch. 1 para. 4 in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
 
-[^key-fdb9e9dbcfc0bb629f61b456cec99b73]: Commencement: Sch. 1 para. 5 in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
+[^c-fdb9e9dbcfc0bb629f61b456cec99b73]: Commencement: Sch. 1 para. 5 in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
 
-[^key-9803e1aac49069097f5275a4c981917c]: Commencement: Sch. 1 para. 6 in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
+[^c-9803e1aac49069097f5275a4c981917c]: Commencement: Sch. 1 para. 6 in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
 
-[^key-1507fbe2d2a2ed0ce1c2286bca17beb4]: Commencement: Sch. 1 para. 7 in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
+[^c-1507fbe2d2a2ed0ce1c2286bca17beb4]: Commencement: Sch. 1 para. 7 in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
 
-[^key-ed28db5555e8d377a019e356be54ea9e]: Commencement: Sch. 1 para. 8 in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
+[^c-ed28db5555e8d377a019e356be54ea9e]: Commencement: Sch. 1 para. 8 in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
 
-[^key-1c8c598bc77f5e9d0770f21e3acd0467]: Commencement: Sch. 1 para. 9 in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
+[^c-1c8c598bc77f5e9d0770f21e3acd0467]: Commencement: Sch. 1 para. 9 in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
 
-[^key-72afff94dc2c45238fb19c065a930857]: Commencement: Sch. 1 para. 10 in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
+[^c-72afff94dc2c45238fb19c065a930857]: Commencement: Sch. 1 para. 10 in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
 
-[^key-3603799812cfb4e51dfce33cbc96b25c]: Commencement: Sch. 1 para. 11 in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
+[^c-3603799812cfb4e51dfce33cbc96b25c]: Commencement: Sch. 1 para. 11 in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
 
-[^key-2e0a84a379aff076a1308c18047044ee]: Commencement: Sch. 1 para. 12 in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
+[^c-2e0a84a379aff076a1308c18047044ee]: Commencement: Sch. 1 para. 12 in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
 
-[^key-be772810b74d9a7bdc91e76d456cd634]: Commencement: Sch. 1 para. 13 in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
+[^c-be772810b74d9a7bdc91e76d456cd634]: Commencement: Sch. 1 para. 13 in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
 
-[^key-be54e9ff54e21222e3bac88e4acb8e6d]: Commencement: Sch. 1 para. 14 in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
+[^c-be54e9ff54e21222e3bac88e4acb8e6d]: Commencement: Sch. 1 para. 14 in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
 
-[^key-92e4494bf13078a7b1edc229a14d28ee]: Commencement: Sch. 1 para. 15 in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
+[^c-92e4494bf13078a7b1edc229a14d28ee]: Commencement: Sch. 1 para. 15 in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
 
-[^key-04606f3d605569e085e3948f07e76d02]: Commencement: Sch. 1 para. 16 in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
+[^c-04606f3d605569e085e3948f07e76d02]: Commencement: Sch. 1 para. 16 in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
 
-[^key-c39cba1ef9d8bbe35908c09c4ab26aa0]: Commencement: Sch. 1 para. 17 in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
+[^c-c39cba1ef9d8bbe35908c09c4ab26aa0]: Commencement: Sch. 1 para. 17 in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Limestone pavement orders: offence.[^key-a21cde5558e88485dbd2d590eea4ebe8]
+## 78. Limestone pavement orders: offence.[^c-a21cde5558e88485dbd2d590eea4ebe8]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a21cde5558e88485dbd2d590eea4ebe8]: Textual amendment: [S. 78](https://www.legislation.gov.uk/ukpga/2000/37/section/78) omitted (12.3.2015) by virtue of [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 100](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/100) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-a21cde5558e88485dbd2d590eea4ebe8]: Textual amendment: [S. 78](https://www.legislation.gov.uk/ukpga/2000/37/section/78) omitted (12.3.2015) by virtue of [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 100](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/100) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))

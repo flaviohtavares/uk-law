@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Regulations about registration of civil partnership following a change of gender by either party[^key-c73ef5d839d6938dba416a1f919452a1]
+## 34. Regulations about registration of civil partnership following a change of gender by either party[^c-c73ef5d839d6938dba416a1f919452a1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In Schedule 3, in paragraph 11A(3)[^f00055], in the definition of “qualifying 
 
 ## Annotations
 
-[^key-c73ef5d839d6938dba416a1f919452a1]: Commencement: Reg. 34 in force at 2.12.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2)
+[^c-c73ef5d839d6938dba416a1f919452a1]: Commencement: Reg. 34 in force at 2.12.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2)
 
 [^f00055]: Footnote: Schedule 3, paragraph 11A was inserted by the Marriage (Same Sex Couples) Act 2013, Schedule 5, paragraph 9(2).

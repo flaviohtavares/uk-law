@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 146. Power to impose monetary penalties[^c22719851][^key-fbaac4b149a9daeeddfeff149e65a7b4]
+## 146. Power to impose monetary penalties[^c22719851][^c-fbaac4b149a9daeeddfeff149e65a7b4]
 
 *Extent: E+W+S+N.I.*
 
 (1) The Treasury may impose a monetary penalty on a person if it is satisfied, on the balance of probabilities, that—
 
-- (a) the person has breached a prohibition, or failed to comply with an obligation, that is imposed by or under financial sanctions legislation, [^key-285efd2c00bcb37cb7cadc900323fed4]...
-- (b)[^key-285efd2c00bcb37cb7cadc900323fed4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) the person has breached a prohibition, or failed to comply with an obligation, that is imposed by or under financial sanctions legislation, [^c-285efd2c00bcb37cb7cadc900323fed4]...
+- (b)[^c-285efd2c00bcb37cb7cadc900323fed4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(1A)[^key-3022ca74f7013bededdf35a478d8c570] In determining for the purposes of subsection (1) whether a person has breached a prohibition, or failed to comply with an obligation, imposed by or under financial sanctions legislation, any requirement imposed by or under that legislation for the person to have known, suspected or believed any matter is to be ignored.
+(1A)[^c-3022ca74f7013bededdf35a478d8c570] In determining for the purposes of subsection (1) whether a person has breached a prohibition, or failed to comply with an obligation, imposed by or under financial sanctions legislation, any requirement imposed by or under that legislation for the person to have known, suspected or believed any matter is to be ignored.
 
 (2) The amount of the penalty is to be such amount as the Treasury may determine but it may not exceed the permitted maximum.
 
@@ -58,8 +58,8 @@ summary: ''
 
 [^c22719851]: Commencement: [S. 146](https://www.legislation.gov.uk/ukpga/2017/3/section/146) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-fbaac4b149a9daeeddfeff149e65a7b4]: Commencement: [S. 146](https://www.legislation.gov.uk/ukpga/2017/3/section/146) in force at 1.4.2017 in so far as not already in force by [S.I. 2017/482](https://www.legislation.gov.uk/uksi/2017/482), [reg. 2](https://www.legislation.gov.uk/uksi/2017/482/regulation/2)
+[^c-fbaac4b149a9daeeddfeff149e65a7b4]: Commencement: [S. 146](https://www.legislation.gov.uk/ukpga/2017/3/section/146) in force at 1.4.2017 in so far as not already in force by [S.I. 2017/482](https://www.legislation.gov.uk/uksi/2017/482), [reg. 2](https://www.legislation.gov.uk/uksi/2017/482/regulation/2)
 
-[^key-285efd2c00bcb37cb7cadc900323fed4]: Textual amendment: [S. 146(1)(b)](https://www.legislation.gov.uk/ukpga/2017/3/section/146/1/b) and word omitted (15.6.2022) by virtue of [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [ss. 54(2)](https://www.legislation.gov.uk/ukpga/2022/10/section/54/2), [69(2)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/2); [S.I. 2022/638](https://www.legislation.gov.uk/uksi/2022/638), [reg. 2](https://www.legislation.gov.uk/uksi/2022/638/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/638/regulation/3))
+[^c-285efd2c00bcb37cb7cadc900323fed4]: Textual amendment: [S. 146(1)(b)](https://www.legislation.gov.uk/ukpga/2017/3/section/146/1/b) and word omitted (15.6.2022) by virtue of [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [ss. 54(2)](https://www.legislation.gov.uk/ukpga/2022/10/section/54/2), [69(2)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/2); [S.I. 2022/638](https://www.legislation.gov.uk/uksi/2022/638), [reg. 2](https://www.legislation.gov.uk/uksi/2022/638/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/638/regulation/3))
 
-[^key-3022ca74f7013bededdf35a478d8c570]: Textual amendment: [S. 146(1A)](https://www.legislation.gov.uk/ukpga/2017/3/section/146/1A) inserted (15.6.2022) by [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [ss. 54(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/54/3), [69(2)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/2); [S.I. 2022/638](https://www.legislation.gov.uk/uksi/2022/638), [reg. 2](https://www.legislation.gov.uk/uksi/2022/638/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/638/regulation/3))
+[^c-3022ca74f7013bededdf35a478d8c570]: Textual amendment: [S. 146(1A)](https://www.legislation.gov.uk/ukpga/2017/3/section/146/1A) inserted (15.6.2022) by [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [ss. 54(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/54/3), [69(2)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/2); [S.I. 2022/638](https://www.legislation.gov.uk/uksi/2022/638), [reg. 2](https://www.legislation.gov.uk/uksi/2022/638/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/638/regulation/3))

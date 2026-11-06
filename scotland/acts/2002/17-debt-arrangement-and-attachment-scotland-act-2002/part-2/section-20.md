@@ -28,7 +28,7 @@ summary: ''
 (2) An application for an order under subsection (1) above—
 
 - (a) by the creditor or the officer, shall be intimated by the creditor or, as the case may be, the officer to the debtor;
-- (b) by the debtor, shall be intimated to the creditor and the officer—[^key-78b15700e83ca6d5c0a3497eb890a7bc]
+- (b) by the debtor, shall be intimated to the creditor and the officer—[^c-78b15700e83ca6d5c0a3497eb890a7bc]
   - (i) who attached articles; or
   - (ii) who is authorised to arrange the auction,
 
@@ -40,4 +40,4 @@ at the time when it is made.
 
 ## Annotations
 
-[^key-78b15700e83ca6d5c0a3497eb890a7bc]: Textual amendment: Words in s. 20(2)(b) inserted (31.3.2007) by [Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3), [ss. 212(10)](https://www.legislation.gov.uk/asp/2007/3/section/212/10), [227(3)](https://www.legislation.gov.uk/asp/2007/3/section/227/3) (with [s. 223](https://www.legislation.gov.uk/asp/2007/3/section/223)); [S.S.I. 2007/82](https://www.legislation.gov.uk/ssi/2007/82), [art. 4(b)](https://www.legislation.gov.uk/ssi/2007/82/article/4/b)
+[^c-78b15700e83ca6d5c0a3497eb890a7bc]: Textual amendment: Words in s. 20(2)(b) inserted (31.3.2007) by [Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3), [ss. 212(10)](https://www.legislation.gov.uk/asp/2007/3/section/212/10), [227(3)](https://www.legislation.gov.uk/asp/2007/3/section/227/3) (with [s. 223](https://www.legislation.gov.uk/asp/2007/3/section/223)); [S.S.I. 2007/82](https://www.legislation.gov.uk/ssi/2007/82), [art. 4(b)](https://www.legislation.gov.uk/ssi/2007/82/article/4/b)

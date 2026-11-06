@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Power to revoke specification of ship made under regulations[^key-9eb7f6e6f435869d2891c14d1ffe1420]
+## 26. Power to revoke specification of ship made under regulations[^c-9eb7f6e6f435869d2891c14d1ffe1420]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9eb7f6e6f435869d2891c14d1ffe1420]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2018/13/section/26) in force at 22.11.2018 by [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/a)
+[^c-9eb7f6e6f435869d2891c14d1ffe1420]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2018/13/section/26) in force at 22.11.2018 by [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/a)

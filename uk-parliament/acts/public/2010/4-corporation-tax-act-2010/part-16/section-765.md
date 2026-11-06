@@ -27,7 +27,7 @@ summary: ''
 
 (2) In such a case—
 
-- (a) sections 1259 to 1265 of CTA 2009 (partnerships involving companies) are to have effect in relation to the transferor or the person connected with the transferor[^key-711bcd188760bcdeec07b2218248dc79] as if the relevant change in relation to the partnership had not occurred, and
+- (a) sections 1259 to 1265 of CTA 2009 (partnerships involving companies) are to have effect in relation to the transferor or the person connected with the transferor[^c-711bcd188760bcdeec07b2218248dc79] as if the relevant change in relation to the partnership had not occurred, and
 - (b) accordingly the finance arrangement is not to have the relevant effect.
 
 (3) The relevant effect is that—
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-711bcd188760bcdeec07b2218248dc79]: Textual amendment: Words in s. 765 inserted (with effect in accordance with Sch. 13 para. 42 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 13 para. 40](https://www.legislation.gov.uk/ukpga/2012/14/schedule/13/paragraph/40)
+[^c-711bcd188760bcdeec07b2218248dc79]: Textual amendment: Words in s. 765 inserted (with effect in accordance with Sch. 13 para. 42 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 13 para. 40](https://www.legislation.gov.uk/ukpga/2012/14/schedule/13/paragraph/40)

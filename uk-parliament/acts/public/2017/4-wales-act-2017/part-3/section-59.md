@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. The Welsh tribunals[^key-58242980107ef2fd2958ec5a5e8ed304]
+## 59. The Welsh tribunals[^c-58242980107ef2fd2958ec5a5e8ed304]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) the Agricultural Land Tribunal for Wales or Tribiwnlys Tir Amaethyddol Cymru;
 - (b) the Mental Health Review Tribunal for Wales;
 - (c) a rent assessment committee constituted in accordance with Schedule 10 to the Rent Act 1977 (including a leasehold valuation tribunal and a residential property tribunal);
-- (d)[^key-12579199485775d65259092a40e17021] the Education Tribunal for Wales or Tribiwnlys Addysg Cymru;
+- (d)[^c-12579199485775d65259092a40e17021] the Education Tribunal for Wales or Tribiwnlys Addysg Cymru;
 - (e) a tribunal constituted in accordance with Schedule 3 to the Education Act 2005 (registration of inspectors in Wales: tribunals hearing appeals under section 27);
 - (f) a tribunal drawn from the Adjudication Panel for Wales or Panel Dyfarnu Cymru;
 - (g) the Welsh Language Tribunal or Tribiwnlys y Gymraeg.
@@ -50,6 +50,6 @@ Such an Order in Council is subject to annulment in pursuance of a resolution of
 
 ## Annotations
 
-[^key-58242980107ef2fd2958ec5a5e8ed304]: Commencement: S. 59 in force at 10.7.2017 or the first day on which regulations made under 2017 c. 4, Sch. 5 para. 7(1) come into force, whichever is the later by [S.I. 2017/351](https://www.legislation.gov.uk/uksi/2017/351), [reg. 2](https://www.legislation.gov.uk/uksi/2017/351/regulation/2)
+[^c-58242980107ef2fd2958ec5a5e8ed304]: Commencement: S. 59 in force at 10.7.2017 or the first day on which regulations made under 2017 c. 4, Sch. 5 para. 7(1) come into force, whichever is the later by [S.I. 2017/351](https://www.legislation.gov.uk/uksi/2017/351), [reg. 2](https://www.legislation.gov.uk/uksi/2017/351/regulation/2)
 
-[^key-12579199485775d65259092a40e17021]: Textual amendment: [S. 59(1)(d)](https://www.legislation.gov.uk/ukpga/2017/4/section/59/1/d) substituted (1.9.2021) by [The Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Consequential Amendments) Regulations 2021 (S.I. 2021/861)](https://www.legislation.gov.uk/wsi/2021/861), [regs. 1](https://www.legislation.gov.uk/wsi/2021/861/regulation/1), [10(2)](https://www.legislation.gov.uk/wsi/2021/861/regulation/10/2)
+[^c-12579199485775d65259092a40e17021]: Textual amendment: [S. 59(1)(d)](https://www.legislation.gov.uk/ukpga/2017/4/section/59/1/d) substituted (1.9.2021) by [The Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Consequential Amendments) Regulations 2021 (S.I. 2021/861)](https://www.legislation.gov.uk/wsi/2021/861), [regs. 1](https://www.legislation.gov.uk/wsi/2021/861/regulation/1), [10(2)](https://www.legislation.gov.uk/wsi/2021/861/regulation/10/2)

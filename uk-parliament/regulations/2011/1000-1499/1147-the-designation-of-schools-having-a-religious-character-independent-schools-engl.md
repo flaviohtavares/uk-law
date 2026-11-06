@@ -39,21 +39,21 @@ The Secretary of State for Education makes the following Order in exercise of th
 
 In making this Order the Secretary of State has followed the procedure specified in the Religious Character of Schools (Designation Procedure) (Independent Schools) (England) Regulations 2003[^f00003].
 
-## 1. Citation[^key-b65a470d29337875f0806b7ab5f1bccd]
+## 1. Citation[^c-b65a470d29337875f0806b7ab5f1bccd]
 
 This Order may be cited as the Designation of Schools Having a Religious Character (Independent Schools) (England) (No.2) Order 2011.
 
-## 2. Interpretation[^key-9780828055c600248b01269c1b24f7f7]
+## 2. Interpretation[^c-9780828055c600248b01269c1b24f7f7]
 
 In this Order “the relevant religion or religious denomination” means the religion or religious denomination in accordance with whose tenets education is provided at the school or the school is conducted.
 
-## 3. Designation of schools[^key-e609627a8041d945b3ce0add3e9ed938]
+## 3. Designation of schools[^c-e609627a8041d945b3ce0add3e9ed938]
 
 (1) The schools listed in column (1) of the Schedule are designated as schools having a religious character.
 
 (2) The relevant religion or religious denomination in relation to a school listed in column (1) of the Schedule is specified in relation to that school in column (2).
 
-## 4. Revocation[^key-45ead18c3b0d8220f0db073a0601d1eb]
+## 4. Revocation[^c-45ead18c3b0d8220f0db073a0601d1eb]
 
 The Designation of Schools Having a Religious Character (Independent Schools) (England) Order 2011[^f00004] is revoked.
 
@@ -65,7 +65,7 @@ Department for Education
 
 21st April 2011
 
-## SCHEDULE — Schools having a religious character[^key-885900e81707050d9a5e8ce62daaf42f]
+## SCHEDULE — Schools having a religious character[^c-885900e81707050d9a5e8ce62daaf42f]
 
 Article 3
 
@@ -73,7 +73,7 @@ Article 3
 | --- | --- |
 | **Doncaster** |  |
 | Rossington All Saints Academy, DN11 0BZ | Church of England |
-| [^key-ac50fffd28b22e18eee348b8da11abda]. . . | [^key-ac50fffd28b22e18eee348b8da11abda]. . . |
+| [^c-ac50fffd28b22e18eee348b8da11abda]. . . | [^c-ac50fffd28b22e18eee348b8da11abda]. . . |
 | **Southampton** |  |
 | Fitrah SIPS School, SO14 0EJ | Islam |
 
@@ -97,16 +97,16 @@ The Order also revokes the Designation of Schools Having a Religious Character (
 
 [^f00003]: Footnote: [S.I. 2003/2314](https://www.legislation.gov.uk/uksi/2003/2314), as amended by [S.I. 2004/2262](https://www.legislation.gov.uk/uksi/2004/2262).
 
-[^key-b65a470d29337875f0806b7ab5f1bccd]: Commencement: Art. 1 in force at made date
+[^c-b65a470d29337875f0806b7ab5f1bccd]: Commencement: Art. 1 in force at made date
 
-[^key-9780828055c600248b01269c1b24f7f7]: Commencement: Art. 2 in force at made date
+[^c-9780828055c600248b01269c1b24f7f7]: Commencement: Art. 2 in force at made date
 
-[^key-e609627a8041d945b3ce0add3e9ed938]: Commencement: Art. 3 in force at made date
+[^c-e609627a8041d945b3ce0add3e9ed938]: Commencement: Art. 3 in force at made date
 
-[^key-45ead18c3b0d8220f0db073a0601d1eb]: Commencement: Art. 4 in force at made date
+[^c-45ead18c3b0d8220f0db073a0601d1eb]: Commencement: Art. 4 in force at made date
 
 [^f00004]: Footnote: [S.I. 2011/1117](https://www.legislation.gov.uk/uksi/2011/1117).
 
-[^key-885900e81707050d9a5e8ce62daaf42f]: Commencement: Sch. in force at made date
+[^c-885900e81707050d9a5e8ce62daaf42f]: Commencement: Sch. in force at made date
 
-[^key-ac50fffd28b22e18eee348b8da11abda]: Textual amendment: Words in Sch. revoked (26.3.2024) by [The Designation of Schools Having a Religious Character (England) (Amendment and Revocations) Order 2024 (S.I. 2024/427)](https://www.legislation.gov.uk/uksi/2024/427), [arts. 1](https://www.legislation.gov.uk/uksi/2024/427/article/1), [4(b)](https://www.legislation.gov.uk/uksi/2024/427/article/4/b)
+[^c-ac50fffd28b22e18eee348b8da11abda]: Textual amendment: Words in Sch. revoked (26.3.2024) by [The Designation of Schools Having a Religious Character (England) (Amendment and Revocations) Order 2024 (S.I. 2024/427)](https://www.legislation.gov.uk/uksi/2024/427), [arts. 1](https://www.legislation.gov.uk/uksi/2024/427/article/1), [4(b)](https://www.legislation.gov.uk/uksi/2024/427/article/4/b)

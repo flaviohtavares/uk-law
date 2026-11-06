@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. HCA as local planning authority: local involvement[^key-b5261783e00dfb6e1ff952f8cf117a6b]
+## 15. HCA as local planning authority: local involvement[^c-b5261783e00dfb6e1ff952f8cf117a6b]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b5261783e00dfb6e1ff952f8cf117a6b]: Commencement: S. 15 in force at 1.12.2008 by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(h)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/h) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-b5261783e00dfb6e1ff952f8cf117a6b]: Commencement: S. 15 in force at 1.12.2008 by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(h)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/h) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 168. Arrangements for exercising functions in relation to applications[^key-031de6bd8e8ab7432a034ff303352e80][^key-e45ddc89570d0cbc1e5ea9c93eb0b61a]
+## 168. Arrangements for exercising functions in relation to applications[^c-031de6bd8e8ab7432a034ff303352e80][^c-e45ddc89570d0cbc1e5ea9c93eb0b61a]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-031de6bd8e8ab7432a034ff303352e80]: Commencement: S. 168 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-031de6bd8e8ab7432a034ff303352e80]: Commencement: S. 168 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-e45ddc89570d0cbc1e5ea9c93eb0b61a]: Commencement: [S. 168](https://www.legislation.gov.uk/asc/2023/3/section/168) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)
+[^c-e45ddc89570d0cbc1e5ea9c93eb0b61a]: Commencement: [S. 168](https://www.legislation.gov.uk/asc/2023/3/section/168) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)

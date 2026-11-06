@@ -43,7 +43,7 @@ An Act to amend the law relating to the issue of bank notes by the Bank of Engla
 
 (3) The Bank shall from time to time give to the Treasury such information as the Treasury may require with respect to the securities held in the issue department, . . . [^c585919]
 
-(4)[^key-49f1d114820d9a1f9035420052f3341d] In this section the expression “ **securities** ” includes securities and assets in currency of any country and in whatever form held.
+(4)[^c-49f1d114820d9a1f9035420052f3341d] In this section the expression “ **securities** ” includes securities and assets in currency of any country and in whatever form held.
 
 ## 4. Transfer of currency notes issue to Bank of England.
 
@@ -71,7 +71,7 @@ An Act to amend the law relating to the issue of bank notes by the Bank of Engla
 
 ## 8. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c585928]
 
-## 9. Amendment as to issue of notes by banks in Scotland and Northern Ireland.[^key-cd9697450c97ed655d9686476dd068fa]
+## 9. Amendment as to issue of notes by banks in Scotland and Northern Ireland.[^c-cd9697450c97ed655d9686476dd068fa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -117,7 +117,7 @@ If any person prints or stamps, or by any like means impresses, on any bank note
 
 [^c585919]: Textual amendment: Words repealed by [Statute Law (Repeals) Act 1973 (c. 39)](https://www.legislation.gov.uk/ukpga/1973/39), [Sch 1 Pt. IV](https://www.legislation.gov.uk/ukpga/1973/39/schedule/1/part/IV)
 
-[^key-49f1d114820d9a1f9035420052f3341d]: Textual amendment: S. 3(4) added (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2008/12/schedule/2/paragraph/6)
+[^c-49f1d114820d9a1f9035420052f3341d]: Textual amendment: S. 3(4) added (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2008/12/schedule/2/paragraph/6)
 
 [^c585920]: Marginal citation: [1914 c. 14](https://www.legislation.gov.uk/ukpga/1914/14).
 
@@ -137,7 +137,7 @@ If any person prints or stamps, or by any like means impresses, on any bank note
 
 [^c585928]: Textual amendment: [S. 8](https://www.legislation.gov.uk/ukpga/Geo5/18-19/13/section/8) repealed by [Currency and Bank Notes Act 1954 (c. 12)](https://www.legislation.gov.uk/ukpga/1954/12), [s. 4(2)](https://www.legislation.gov.uk/ukpga/1954/12/section/4/2)
 
-[^key-cd9697450c97ed655d9686476dd068fa]: Textual amendment: [S. 9](https://www.legislation.gov.uk/ukpga/Geo5/18-19/13/section/9) repealed (23.11.2009) by [Banking Act 2009 (c. 1)](https://www.legislation.gov.uk/ukpga/2009/1), [ss. 214(3)(b)](https://www.legislation.gov.uk/ukpga/2009/1/section/214/3/b), [263(1)](https://www.legislation.gov.uk/ukpga/2009/1/section/263/1) (with [s. 247](https://www.legislation.gov.uk/ukpga/2009/1/section/247)); [S.I. 2009/3000](https://www.legislation.gov.uk/uksi/2009/3000), [art. 3](https://www.legislation.gov.uk/uksi/2009/3000/article/3)
+[^c-cd9697450c97ed655d9686476dd068fa]: Textual amendment: [S. 9](https://www.legislation.gov.uk/ukpga/Geo5/18-19/13/section/9) repealed (23.11.2009) by [Banking Act 2009 (c. 1)](https://www.legislation.gov.uk/ukpga/2009/1), [ss. 214(3)(b)](https://www.legislation.gov.uk/ukpga/2009/1/section/214/3/b), [263(1)](https://www.legislation.gov.uk/ukpga/2009/1/section/263/1) (with [s. 247](https://www.legislation.gov.uk/ukpga/2009/1/section/247)); [S.I. 2009/3000](https://www.legislation.gov.uk/uksi/2009/3000), [art. 3](https://www.legislation.gov.uk/uksi/2009/3000/article/3)
 
 [^c585929]: Marginal citation: [1844 c. 32](https://www.legislation.gov.uk/ukpga/1844/32).
 

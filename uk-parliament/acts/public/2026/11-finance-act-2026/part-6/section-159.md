@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-2465747f0dced086528a26885320b60a] A person must not promote arrangements that—
+(1)[^c-2465747f0dced086528a26885320b60a] A person must not promote arrangements that—
 
 - (a) have been, or are likely to be, marketed as a means by which a person may seek a particular tax advantage if there is no realistic prospect that the arrangements will result in the tax advantage, or
 - (b) are of a kind specified in regulations under subsection (2).
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2465747f0dced086528a26885320b60a]: Commencement: [S. 159(1)](https://www.legislation.gov.uk/ukpga/2026/11/section/159/1) in force at 18.5.2026, see [s. 165(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/165/2)
+[^c-2465747f0dced086528a26885320b60a]: Commencement: [S. 159(1)](https://www.legislation.gov.uk/ukpga/2026/11/section/159/1) in force at 18.5.2026, see [s. 165(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/165/2)

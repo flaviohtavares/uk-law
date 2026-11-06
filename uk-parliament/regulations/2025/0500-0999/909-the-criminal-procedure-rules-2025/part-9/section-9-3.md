@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9.3. Matters to be specified on sending for trial[^key-d96a24a2a580331e542e8c4152c8c364]
+## 9.3. Matters to be specified on sending for trial[^c-d96a24a2a580331e542e8c4152c8c364]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d96a24a2a580331e542e8c4152c8c364]: Commencement: [Rule 9.3](https://www.legislation.gov.uk/uksi/2025/909/rule/9.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-d96a24a2a580331e542e8c4152c8c364]: Commencement: [Rule 9.3](https://www.legislation.gov.uk/uksi/2025/909/rule/9.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00266]: Footnote: [1998 c. 37](https://www.legislation.gov.uk/ukpga/1998/37); section 51D was inserted by paragraphs 15 and 18 of Schedule 3 to the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44) and amended by section 59 of, and paragraph 1 of Schedule 11 to, the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4).

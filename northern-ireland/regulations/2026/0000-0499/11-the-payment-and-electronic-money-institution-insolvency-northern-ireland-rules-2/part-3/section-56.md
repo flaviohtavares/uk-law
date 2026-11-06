@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 56. Procedure for admitting customers’ relevant funds claims for voting[^key-a0343f2d08df0351d4ce5bd0a1157887]
+## 56. Procedure for admitting customers’ relevant funds claims for voting[^c-a0343f2d08df0351d4ce5bd0a1157887]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a0343f2d08df0351d4ce5bd0a1157887]: Commencement: [Rule 56](https://www.legislation.gov.uk/nisr/2026/11/rule/56) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-a0343f2d08df0351d4ce5bd0a1157887]: Commencement: [Rule 56](https://www.legislation.gov.uk/nisr/2026/11/rule/56) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

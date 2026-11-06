@@ -58,7 +58,7 @@ The Secretary of State is of the opinion that, by reason of urgency, it is neces
 
 ## PART 1 — Introductory
 
-### 1. Citation, commencement, application and extent[^key-a330a48143e69f676e966f7cdb82d7a4]
+### 1. Citation, commencement, application and extent[^c-a330a48143e69f676e966f7cdb82d7a4]
 
 (1) These Regulations may be cited as the Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020.
 
@@ -70,7 +70,7 @@ The Secretary of State is of the opinion that, by reason of urgency, it is neces
 
 ## PART 2 — Amendment of subordinate legislation
 
-### 2. The Trade in Animals and Related Products Regulations 2011[^key-20a4690d5eb7aed9401f0a20c876feef]
+### 2. The Trade in Animals and Related Products Regulations 2011[^c-20a4690d5eb7aed9401f0a20c876feef]
 
 *Extent: E+W*
 
@@ -93,7 +93,7 @@ The Secretary of State is of the opinion that, by reason of urgency, it is neces
 
 .
 
-### 3. The Veterinary Medicines Regulations 2013[^key-e0f488e83e7f421568920b7ab0650528]
+### 3. The Veterinary Medicines Regulations 2013[^c-e0f488e83e7f421568920b7ab0650528]
 
 *Extent: S+N.I.*
 
@@ -119,13 +119,13 @@ The Secretary of State is of the opinion that, by reason of urgency, it is neces
 - (a) in the Contents, in item 4, for “Regulation [(EC) No 882/2004](https://www.legislation.gov.uk/european/regulation/2004/0882)” substitute “ Regulation (EU) 2017/625 ”;
 - (b) in paragraph 4, and the heading to that paragraph, for “Regulation [(EC) No 882/2004](https://www.legislation.gov.uk/european/regulation/2004/0882)” substitute “ Regulation (EU) 2017/625 ”.
 
-### 4. The Animal Feed (Amendment) (EU Exit) Regulations 2019[^key-a0e6a437a7b0cdae37c4ccb5bcefff18]
+### 4. The Animal Feed (Amendment) (EU Exit) Regulations 2019[^c-a0e6a437a7b0cdae37c4ccb5bcefff18]
 
 (1) The Animal Feed (Amendment) (EU Exit) Regulations 2019 [^c24435961] are amended as follows.
 
 (2) Omit regulation 90.
 
-### 5. The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) Regulations 2019[^key-29d036c19187588bdff63cb75afab323]
+### 5. The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) Regulations 2019[^c-29d036c19187588bdff63cb75afab323]
 
 (1) The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) Regulations 2019 [^c24435971] are amended as follows.
 
@@ -154,13 +154,13 @@ The Secretary of State is of the opinion that, by reason of urgency, it is neces
 
 .
 
-### 6. The Aquatic Animal Health and Plant Health (Legislative Functions) (EU Exit) Regulations 2019[^key-d649a4e2dd0110297e07b60b9fb5a795]
+### 6. The Aquatic Animal Health and Plant Health (Legislative Functions) (EU Exit) Regulations 2019[^c-d649a4e2dd0110297e07b60b9fb5a795]
 
 (1) The Aquatic Animal Health and Plant Health (Legislative Functions) (EU Exit) Regulations 2019 [^c24435981] are amended as follows.
 
 (2) Omit Part 3 and regulations 16 and 20.
 
-### 7. The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020[^key-d0336999df481489aec7ec16b8a10de0]
+### 7. The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020[^c-d0336999df481489aec7ec16b8a10de0]
 
 (1) The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 [^c24435991] are amended as follows.
 
@@ -173,7 +173,7 @@ The Secretary of State is of the opinion that, by reason of urgency, it is neces
 
   .
 
-### 8. The Plant Health (Amendment etc.) (EU Exit) Regulations 2020[^key-d9461af9bf8c56d554e3f91d2a614969]
+### 8. The Plant Health (Amendment etc.) (EU Exit) Regulations 2020[^c-d9461af9bf8c56d554e3f91d2a614969]
 
 (1) The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 [^c24436001] are amended as follows.
 
@@ -187,7 +187,7 @@ The Secretary of State is of the opinion that, by reason of urgency, it is neces
 
 (3) In regulation 31(35)(c), for “for paragraph 1” substitute “ in paragraph 1, for the first subparagraph ”.
 
-### 9. The Plant Health (Phytosanitary Conditions) (Amendment) (EU Exit) Regulations 2020[^key-de3e0991b8da025bf83dcdecfca4919c]
+### 9. The Plant Health (Phytosanitary Conditions) (Amendment) (EU Exit) Regulations 2020[^c-de3e0991b8da025bf83dcdecfca4919c]
 
 (1) The Plant Health (Phytosanitary Conditions) (Amendment) (EU Exit) Regulations 2020 [^c24436011] are amended as follows.
 
@@ -216,7 +216,7 @@ The Secretary of State is of the opinion that, by reason of urgency, it is neces
 - (a) after “third country” insert “ , other than EU Member States ”;
 - (b) at the end omit “, other than EU Member States”.
 
-### 10. The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020[^key-e47f13480fe670baee6ed6d8f5088fbe]
+### 10. The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020[^c-e47f13480fe670baee6ed6d8f5088fbe]
 
 (1) The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 [^c24436021] are amended as follows.
 
@@ -224,7 +224,7 @@ The Secretary of State is of the opinion that, by reason of urgency, it is neces
 
 (3) Omit regulation 43.
 
-### 11. The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020[^key-ec15d056b4a8ef728cf495fae85c31e7]
+### 11. The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020[^c-ec15d056b4a8ef728cf495fae85c31e7]
 
 (1) The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 [^c24436031] are amended as follows.
 
@@ -232,7 +232,7 @@ The Secretary of State is of the opinion that, by reason of urgency, it is neces
 
 ## PART 3 — Amendment of retained direct EU legislation
 
-### 12. Commission Implementing Regulation (EU) 2019/66 on rules on uniform practical arrangements for the performance of official controls on plants, plant products and other objects in order to verify compliance with Union rules on protective measures against pests of plants applicable to those goods[^key-921a501932b05c73da10bc57d2c1d7b8]
+### 12. Commission Implementing Regulation (EU) 2019/66 on rules on uniform practical arrangements for the performance of official controls on plants, plant products and other objects in order to verify compliance with Union rules on protective measures against pests of plants applicable to those goods[^c-921a501932b05c73da10bc57d2c1d7b8]
 
 (1) Commission Implementing Regulation (EU) 2019/66 on rules on uniform practical arrangements for the performance of official controls on plants, plant products and other objects in order to verify compliance with Union rules on protective measures against pests of plants applicable to those goods [^c24436041] is amended as follows.
 
@@ -273,7 +273,7 @@ The Secretary of State is of the opinion that, by reason of urgency, it is neces
 
 (8) In Article 8, omit the third paragraph.
 
-### 13. Commission Delegated Regulation (EU) 2019/624 concerning specific rules for the performance of official controls on the production of meat and for production and relaying areas of live bivalve molluscs in accordance with Regulation (EU) 2017/625 of the European Parliament and of the Council[^key-b2b3498dabe552b91554a2db1098e1e5]
+### 13. Commission Delegated Regulation (EU) 2019/624 concerning specific rules for the performance of official controls on the production of meat and for production and relaying areas of live bivalve molluscs in accordance with Regulation (EU) 2017/625 of the European Parliament and of the Council[^c-b2b3498dabe552b91554a2db1098e1e5]
 
 (1) Commission Delegated Regulation (EU) 2019/624 concerning specific rules for the performance of official controls on the production of meat and for production and relaying areas of live bivalve molluscs in accordance with Regulation (EU) 2017/625 of the European Parliament and of the Council [^c24436051] is amended as follows.
 
@@ -363,7 +363,7 @@ The Secretary of State is of the opinion that, by reason of urgency, it is neces
 - (b) in Chapter 2, omit paragraph 10;
 - (c) in Chapter 3, omit paragraph 9.
 
-### 14. Commission Delegated Regulation (EU) 2019/625 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council with regard to requirements for the entry into the Union of consignments of certain animals and goods intended for human consumption[^key-e34a7e1c1f23b11f534a4cf098f72d33]
+### 14. Commission Delegated Regulation (EU) 2019/625 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council with regard to requirements for the entry into the Union of consignments of certain animals and goods intended for human consumption[^c-e34a7e1c1f23b11f534a4cf098f72d33]
 
 (1) Commission Delegated Regulation (EU) 2019/625 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council with regard to requirements for the entry into the Union of consignments of certain animals and goods intended for human consumption [^c24436071] is amended as follows.
 
@@ -504,7 +504,7 @@ The Secretary of State is of the opinion that, by reason of urgency, it is neces
 
 (17) In Article 15 omit the words from “However” to “Member States.”.
 
-### 15. Commission Implementing Regulation (EU) 2019/626 concerning lists of third countries or regions thereof authorised for the entry into the European Union of certain animals and goods intended for human consumption, amending Implementing Regulation (EU) 2016/759 as regards these lists[^key-663b40e1bb18256a9829f7a07ab104c9]
+### 15. Commission Implementing Regulation (EU) 2019/626 concerning lists of third countries or regions thereof authorised for the entry into the European Union of certain animals and goods intended for human consumption, amending Implementing Regulation (EU) 2016/759 as regards these lists[^c-663b40e1bb18256a9829f7a07ab104c9]
 
 (1) Commission Implementing Regulation (EU) 2019/626 concerning lists of third countries or regions thereof authorised for the entry into the European Union of certain animals and goods intended for human consumption, amending Implementing Regulation (EU) 2016/759 as regards these lists [^c24436101] is amended as follows.
 
@@ -594,7 +594,7 @@ The Secretary of State is of the opinion that, by reason of urgency, it is neces
 
   .
 
-### 16. Commission Implementing Regulation (EU) 2019/627 laying down uniform practical arrangements for the performance of official controls on products of animal origin intended for human consumption in accordance with Regulation (EU) 2017/625 of the European Parliament and of the Council and amending Commission Regulation [(EC) No. 2074/2005](https://www.legislation.gov.uk/european/regulation/2005/2074) as regards official controls[^key-bf3e04ba0139b3c9074325c55d544266]
+### 16. Commission Implementing Regulation (EU) 2019/627 laying down uniform practical arrangements for the performance of official controls on products of animal origin intended for human consumption in accordance with Regulation (EU) 2017/625 of the European Parliament and of the Council and amending Commission Regulation [(EC) No. 2074/2005](https://www.legislation.gov.uk/european/regulation/2005/2074) as regards official controls[^c-bf3e04ba0139b3c9074325c55d544266]
 
 (1) Commission Implementing Regulation (EU) 2019/627 laying down uniform practical arrangements for the performance of official controls on products of animal origin intended for human consumption in accordance with Regulation (EU) 2017/625 of the European Parliament and of the Council and amending Commission Regulation [(EC) No. 2074/2005](https://www.legislation.gov.uk/european/regulation/2005/2074) as regards official controls [^c24436121] is amended as follows.
 
@@ -772,7 +772,7 @@ The Secretary of State is of the opinion that, by reason of urgency, it is neces
     - (bb) for “Union” substitute “ national ”;
   - (ii) in the text after paragraph 4 (which begins “Member States shall recommend”), for “Member States” substitute “ The food safety authority ”.
 
-### 17. Commission Implementing Regulation (EU) 2019/628 concerning model official certificates for certain animals and goods and amending Regulation [(EC) No 2074/2005](https://www.legislation.gov.uk/european/regulation/2005/2074) and Implementing Regulation (EU) 2016/759 as regards these model certificates[^key-1abc44ae7d9d80645eea2c3442edf1e7]
+### 17. Commission Implementing Regulation (EU) 2019/628 concerning model official certificates for certain animals and goods and amending Regulation [(EC) No 2074/2005](https://www.legislation.gov.uk/european/regulation/2005/2074) and Implementing Regulation (EU) 2016/759 as regards these model certificates[^c-1abc44ae7d9d80645eea2c3442edf1e7]
 
 (1) Commission Implementing Regulation (EU) 2019/628 concerning model official certificates for certain animals and goods and amending Regulation [(EC) No 2074/2005](https://www.legislation.gov.uk/european/regulation/2005/2074) and Implementing Regulation (EU) 2016/759 as regards these model certificates [^c24436161] is amended as follows.
 
@@ -944,7 +944,7 @@ The Secretary of State is of the opinion that, by reason of urgency, it is neces
 
 (24) Omit Annexes 1 to 5.
 
-### 18. Commission Delegated Regulation (EU) 2019/1012 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council by derogating from the rules on the designation of control points and from the minimum requirements for border control posts[^key-d91b9c6f61a9de6d171086a668658fe9]
+### 18. Commission Delegated Regulation (EU) 2019/1012 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council by derogating from the rules on the designation of control points and from the minimum requirements for border control posts[^c-d91b9c6f61a9de6d171086a668658fe9]
 
 (1) Commission Delegated Regulation (EU) 2019/1012 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council by derogating from the rules on the designation of control points and from the minimum requirements for border control posts [^c24436241] is amended as follows.
 
@@ -985,7 +985,7 @@ The Secretary of State is of the opinion that, by reason of urgency, it is neces
 
 (7) After Article 5, omit the words from “This Regulation” to “Member States.”.
 
-### 19. Commission Implementing Regulation (EU) 2019/1014 to lay down detailed rules on minimum requirements for border control posts, including inspection centres, and for the format, categories and abbreviations to use for listing border control posts and control points[^key-b2be08311e3b5903b347f01097f62ff4]
+### 19. Commission Implementing Regulation (EU) 2019/1014 to lay down detailed rules on minimum requirements for border control posts, including inspection centres, and for the format, categories and abbreviations to use for listing border control posts and control points[^c-b2be08311e3b5903b347f01097f62ff4]
 
 (1) Commission Implementing Regulation (EU) 2019/1014 to lay down detailed rules on minimum requirements for border control posts, including inspection centres, and for the format, categories and abbreviations to use for listing border control posts and control points [^c24436261] is amended as follows.
 
@@ -1066,7 +1066,7 @@ The Secretary of State is of the opinion that, by reason of urgency, it is neces
 
 (10) In Annex 2, in the section headed “Field number 3:”, for “TRACES-CODE” substitute “ BCP Code ”.
 
-### 20. Commission Delegated Regulation (EU) 2019/1081 establishing rules on specific training requirements for staff for performing certain physical checks at border controls posts[^key-4a28e73b19b7f84409e411d91b9c29d9]
+### 20. Commission Delegated Regulation (EU) 2019/1081 establishing rules on specific training requirements for staff for performing certain physical checks at border controls posts[^c-4a28e73b19b7f84409e411d91b9c29d9]
 
 (1) Commission Delegated Regulation (EU) 2019/1081 establishing rules on specific training requirements for staff for performing certain physical checks at border control posts [^c24436281] is amended as follows.
 
@@ -1087,7 +1087,7 @@ The Secretary of State is of the opinion that, by reason of urgency, it is neces
 
 (5) After Article 6, omit the words from “This Regulation” to “Member States.”.
 
-### 21. Commission Implementing Regulation (EU) 2019/1715 laying down rules for the functioning of the information management system for official controls and its system components (“the IMSOC Regulation”)[^key-e228f9c56e81c0c88cc22429fc4201d9]
+### 21. Commission Implementing Regulation (EU) 2019/1715 laying down rules for the functioning of the information management system for official controls and its system components (“the IMSOC Regulation”)[^c-e228f9c56e81c0c88cc22429fc4201d9]
 
 (1) Commission Implementing Regulation (EU) 2019/1715 laying down rules for the functioning of the information management system for official controls and its system components (“**the IMSOC Regulation**”) [^c24436291] is amended as follows.
 
@@ -1237,7 +1237,7 @@ The Secretary of State is of the opinion that, by reason of urgency, it is neces
 
 (21) Omit Annexes 1 and 2.
 
-### 22. Commission Implementing Regulation (EU) 2019/1793 on the temporary increase of official controls and emergency measures governing the entry into the Union of certain goods from certain third countries implementing Regulations (EU) 2017/625 and [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council and repealing Commission Regulations [(EC) No 669/2009](https://www.legislation.gov.uk/european/regulation/2009/0669), (EU) No 884/2014, (EU) 2015/175, (EU) 2017/186 and (EU) 2018/1660[^key-1b59fa05e00641fbaf8cfd9b0f0c0ec8]
+### 22. Commission Implementing Regulation (EU) 2019/1793 on the temporary increase of official controls and emergency measures governing the entry into the Union of certain goods from certain third countries implementing Regulations (EU) 2017/625 and [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council and repealing Commission Regulations [(EC) No 669/2009](https://www.legislation.gov.uk/european/regulation/2009/0669), (EU) No 884/2014, (EU) 2015/175, (EU) 2017/186 and (EU) 2018/1660[^c-1b59fa05e00641fbaf8cfd9b0f0c0ec8]
 
 (1) Commission Implementing Regulation (EU) 2019/1793 on the temporary increase of official controls and emergency measures governing the entry into the Union of certain goods from certain third countries implementing Regulations (EU) 2017/625 and [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council and repealing Commission Regulations [(EC) No 669/2009](https://www.legislation.gov.uk/european/regulation/2009/0669), (EU) No 884/2014, (EU) 2015/175, (EU) 2017/186 and (EU) 2018/1660 [^c24436301] is amended as follows.
 
@@ -1305,7 +1305,7 @@ The Secretary of State is of the opinion that, by reason of urgency, it is neces
 
 (17) Omit Annex 4.
 
-### 23. Commission Delegated Regulation (EU) 2019/2074 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council as regards rules on specific official controls on consignments of certain animals and goods originating from, and returning to the Union following a refusal of entry by a third country[^key-e75494b7b5d5b56ceeedee0a32a9e71b]
+### 23. Commission Delegated Regulation (EU) 2019/2074 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council as regards rules on specific official controls on consignments of certain animals and goods originating from, and returning to the Union following a refusal of entry by a third country[^c-e75494b7b5d5b56ceeedee0a32a9e71b]
 
 (1) Commission Delegated Regulation (EU) 2019/2074 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council as regards rules on specific official controls on consignments of certain animals and goods originating from, and returning to the Union following a refusal of entry by a third country [^c24436351] is amended as follows.
 
@@ -1386,7 +1386,7 @@ The Secretary of State is of the opinion that, by reason of urgency, it is neces
 
 (7) In the words at the end, omit “This Regulation shall be binding in its entirety and directly applicable in all Member States.”.
 
-### 24. Commission Implementing Decision (EU) 2019/2098 on temporary animal health requirements for consignments of products of animal origin for human consumption originating in and returning to the Union following a refusal of entry by a third country[^key-078bc810deb6823c51965fd563619cd9]
+### 24. Commission Implementing Decision (EU) 2019/2098 on temporary animal health requirements for consignments of products of animal origin for human consumption originating in and returning to the Union following a refusal of entry by a third country[^c-078bc810deb6823c51965fd563619cd9]
 
 (1) Commission Implementing Decision (EU) 2019/2098 on temporary animal health requirements for consignments of products of animal origin for human consumption originating in and returning to the Union following a refusal of entry by a third country [^c24436391] is amended as follows.
 
@@ -1472,7 +1472,7 @@ The Secretary of State is of the opinion that, by reason of urgency, it is neces
 
 .
 
-### 25. Commission Delegated Regulation (EU) 2019/2123 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council as regards rules for the cases where and the conditions under which identity checks and physical checks on certain goods may be performed at control points and documentary checks may be performed at distance from border control posts[^key-cb143b0fa94ae03f18d43098d01a588c]
+### 25. Commission Delegated Regulation (EU) 2019/2123 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council as regards rules for the cases where and the conditions under which identity checks and physical checks on certain goods may be performed at control points and documentary checks may be performed at distance from border control posts[^c-cb143b0fa94ae03f18d43098d01a588c]
 
 (1) Commission Delegated Regulation (EU) 2019/2123 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council as regards rules for the cases where and the conditions under which identity checks and physical checks on certain goods may be performed at control points and documentary checks may be performed at distance from border control posts [^c24436431] is amended as follows.
 
@@ -1559,7 +1559,7 @@ The Secretary of State is of the opinion that, by reason of urgency, it is neces
 
 (12) After Article 10, omit the words from “This Regulation” to “Member States.”.
 
-### 26. Commission Delegated Regulation (EU) 2019/2124 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council as regards rules for official controls of consignments of animals and goods in transit, transhipment and onward transportation through the Union, and amending Commission Regulations [(EC) No 798/2008](https://www.legislation.gov.uk/european/regulation/2008/0798), [(EC) No 1251/2008](https://www.legislation.gov.uk/european/regulation/2008/1251), [(EC) No 119/2009](https://www.legislation.gov.uk/european/regulation/2009/0119), (EU) No 206/2010, (EU) No 605/2010, (EU) No 142/2011, (EU) No 28/2012, Commission Implementing Regulation (EU) 2016/759 and Commission Decision [2007/777/EC](https://www.legislation.gov.uk/european/decision/2007/0777)[^key-f0cc17ceb79de2cad23eef924d4682a3]
+### 26. Commission Delegated Regulation (EU) 2019/2124 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council as regards rules for official controls of consignments of animals and goods in transit, transhipment and onward transportation through the Union, and amending Commission Regulations [(EC) No 798/2008](https://www.legislation.gov.uk/european/regulation/2008/0798), [(EC) No 1251/2008](https://www.legislation.gov.uk/european/regulation/2008/1251), [(EC) No 119/2009](https://www.legislation.gov.uk/european/regulation/2009/0119), (EU) No 206/2010, (EU) No 605/2010, (EU) No 142/2011, (EU) No 28/2012, Commission Implementing Regulation (EU) 2016/759 and Commission Decision [2007/777/EC](https://www.legislation.gov.uk/european/decision/2007/0777)[^c-f0cc17ceb79de2cad23eef924d4682a3]
 
 (1) Commission Delegated Regulation (EU) 2019/2124 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council as regards rules for official controls of consignments of animals and goods in transit, transhipment and onward transportation through the Union, and amending Commission Regulations [(EC) No 798/2008](https://www.legislation.gov.uk/european/regulation/2008/0798), [(EC) No 1251/2008](https://www.legislation.gov.uk/european/regulation/2008/1251), [(EC) No 119/2009](https://www.legislation.gov.uk/european/regulation/2009/0119), (EU) No 206/2010, (EU) No 605/2010, (EU) No 142/2011, (EU) No 28/2012, Commission Implementing Regulation (EU) 2016/759 and Commission Decision [2007/777/EC](https://www.legislation.gov.uk/european/decision/2007/0777) [^c24436451] is amended as follows.
 
@@ -1842,7 +1842,7 @@ The Secretary of State is of the opinion that, by reason of urgency, it is neces
 
 (39) After Article 49, omit the words from “This Regulation” to “Member States.”.
 
-### 27. Commission Delegated Regulation (EU) 2019/2125 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council as regards rules concerning the performance of specific official controls of wood packaging material, notification of certain consignments and measures to be taken in cases of non-compliance[^key-ba0daa4c7e0c6e55c040fb69a2f173a7]
+### 27. Commission Delegated Regulation (EU) 2019/2125 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council as regards rules concerning the performance of specific official controls of wood packaging material, notification of certain consignments and measures to be taken in cases of non-compliance[^c-ba0daa4c7e0c6e55c040fb69a2f173a7]
 
 (1) Commission Delegated Regulation (EU) 2019/2125 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council as regards rules concerning the performance of specific official controls of wood packaging material, notification of certain consignments and measures to be taken in cases of non-compliance [^c24436501] is amended as follows.
 
@@ -1878,7 +1878,7 @@ The Secretary of State is of the opinion that, by reason of urgency, it is neces
 
 (7) After Article 7, omit the words from “This Regulation” to “Member States.”.
 
-### 28. Commission Delegated Regulation (EU) 2019/2126 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council as regards rules for specific official controls for certain categories of animals and goods, measures to be taken following the performance of such controls and certain categories of animals and goods exempted from official controls at border control posts[^key-1d519cbef7981e22831cc142b08c292b]
+### 28. Commission Delegated Regulation (EU) 2019/2126 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council as regards rules for specific official controls for certain categories of animals and goods, measures to be taken following the performance of such controls and certain categories of animals and goods exempted from official controls at border control posts[^c-1d519cbef7981e22831cc142b08c292b]
 
 (1) Commission Delegated Regulation (EU) 2019/2126 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council as regards rules for specific official controls for certain categories of animals and goods, measures to be taken following the performance of such controls and certain categories of animals and goods exempted from official controls at border control posts [^c24436511] is amended as follows.
 
@@ -1944,7 +1944,7 @@ The Secretary of State is of the opinion that, by reason of urgency, it is neces
 
 (10) Omit Annex 1.
 
-### 29. Commission Implementing Regulation (EU) 2019/2128 establishing the model official certificate and rules for issuing official certificates for goods which are delivered to vessels leaving the Union and intended for ship supply or consumption by the crew and passengers, or to NATO or a United States military base[^key-c01d54fc54840e754f4786b34620f279]
+### 29. Commission Implementing Regulation (EU) 2019/2128 establishing the model official certificate and rules for issuing official certificates for goods which are delivered to vessels leaving the Union and intended for ship supply or consumption by the crew and passengers, or to NATO or a United States military base[^c-c01d54fc54840e754f4786b34620f279]
 
 (1) Commission Implementing Regulation (EU) 2019/2128 establishing the model official certificate and rules for issuing official certificates for goods which are delivered to vessels leaving the Union and intended for ship supply or consumption by the crew and passengers, or to NATO or a United States military base [^c24436561] is amended as follows.
 
@@ -1987,13 +1987,13 @@ The Secretary of State is of the opinion that, by reason of urgency, it is neces
 
 (8) Omit the Annex.
 
-### 30. Commission Implementing Regulation (EU) 2020/1540 amending Implementing Regulation (EU) 2019/1793 as regards sesamum seeds originating in India[^key-dad7ddb1b0b61c7ac5c45199ea4c9298]
+### 30. Commission Implementing Regulation (EU) 2020/1540 amending Implementing Regulation (EU) 2019/1793 as regards sesamum seeds originating in India[^c-dad7ddb1b0b61c7ac5c45199ea4c9298]
 
 (1) Commission Implementing Regulation (EU) 2020/1540 amending Implementing Regulation (EU) 2019/1793 as regards sesamum seeds originating in India [^c24436581] is amended as follows.
 
 (2) After Article 3, omit the words from “This Regulation” to “Member States.”.
 
-### 31. Commission Implementing Regulation (EU) 2020/1641 regarding imports of live, chilled, frozen or processed bivalve molluscs, echinoderms, tunicates and marine gastropods for human consumption from the United States of America[^key-91a1dee183f3da513fb7e75f19ca96be]
+### 31. Commission Implementing Regulation (EU) 2020/1641 regarding imports of live, chilled, frozen or processed bivalve molluscs, echinoderms, tunicates and marine gastropods for human consumption from the United States of America[^c-91a1dee183f3da513fb7e75f19ca96be]
 
 (1) Commission Implementing Regulation (EU) 2020/1641 regarding imports of live, chilled, frozen or processed bivalve molluscs, echinoderms, tunicates and marine gastropods for human consumption from the United States of America [^c24436591] is amended as follows.
 
@@ -2012,7 +2012,7 @@ The Secretary of State is of the opinion that, by reason of urgency, it is neces
 
 ## PART 4 — Revocations
 
-### 32. Revocation of retained direct EU legislation[^key-65d15307ee71b221db3fb46188b89aab]
+### 32. Revocation of retained direct EU legislation[^c-65d15307ee71b221db3fb46188b89aab]
 
 The following are revoked—
 
@@ -2022,7 +2022,7 @@ The following are revoked—
 
 ## PART 5 — Transitional provisions
 
-### 33. General transitional provision relating to model certificates[^key-ebc6e0c4834feda3fc0f00abcc0d3f9d][^key-248274858228fa551667f0effd5d2d7d]
+### 33. General transitional provision relating to model certificates[^c-ebc6e0c4834feda3fc0f00abcc0d3f9d][^c-248274858228fa551667f0effd5d2d7d]
 
 (1) Subject to the application of regulation 34, where Part 3 of these Regulations amends any provision of legislation which, on or after IP completion day, forms part of retained EU law so as to enable the presentation or other use of a model certificate in the form “published by the appropriate authority from time to time”, that amendment does not preclude a model certificate in the form set out in the text of that legislation, as it had effect immediately before IP completion day, from being presented or otherwise used on or after IP completion day in connection with a relevant activity instead of the equivalent model certificate published by the appropriate authority.
 
@@ -2034,7 +2034,7 @@ The following are revoked—
 - (b) the placing on the market or inspection of goods in Great Britain; or
 - (c) the slaughter of animals in Great Britain.
 
-### 34. Transitional arrangements relating to model certificates for animals and products[^key-a2bc83503d6b767cb2534e3d16b540f0]
+### 34. Transitional arrangements relating to model certificates for animals and products[^c-a2bc83503d6b767cb2534e3d16b540f0]
 
 (1) This regulation applies during the transitional staging period in relation to the entry of animals and products into, or movement within or through, Great Britain.
 
@@ -2065,9 +2065,9 @@ such a provision does not prevent the presentation or other use of a model certi
 - “**published model certificate**” means a model certificate in the form published online by an appropriate authority, as amended from time to time;
 - “**a territory subject to special transitional import arrangements**” means an EEA state, the Faroe Islands, Greenland or Switzerland;
 - “**third country**” has the meaning given in given in Article 3(2D) of Regulation (EU) 2017/625 [^c24436651];
-- “[^key-531e01b25d77009825ac0a90af998149]**the transitional staging period**” means the period beginning on IP completion day and ending at the end of the day on 30th September 2021.
+- “[^c-531e01b25d77009825ac0a90af998149]**the transitional staging period**” means the period beginning on IP completion day and ending at the end of the day on 30th September 2021.
 
-### 35. Definition of appropriate authority[^key-c295154313d02296ede118ccc7bde7c6]
+### 35. Definition of appropriate authority[^c-c295154313d02296ede118ccc7bde7c6]
 
 (1) In this Part, “**the appropriate authority**” means, subject to paragraph (2)—
 
@@ -2087,7 +2087,7 @@ such a provision does not prevent the presentation or other use of a model certi
 - (a) in relation to Wales, if it would not be within the legislative competence of Senedd Cymru if it were contained in an Act of Senedd Cymru (assuming, in the case of provision that could only be made with the consent of a Minister of the Crown within the meaning of the Ministers of the Crown Act 1975 [^c24436671], that such consent were given);
 - (b) in relation to Scotland, if it would not be within the legislative competence of the Scottish Parliament if it were contained in an Act of that Parliament.
 
-### 36. Regulations made under this Part[^key-60a4db929208bfb53b8dc0ace5e8294c]
+### 36. Regulations made under this Part[^c-60a4db929208bfb53b8dc0ace5e8294c]
 
 (1) Regulations made by the Secretary of State or the Welsh Ministers under this Part are to be made by statutory instrument.
 
@@ -2121,63 +2121,63 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c24435911]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16). Section 8 was amended by section 27 of the [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1) and paragraph 21 of Schedule 7 was amended by section 41(4) of, and paragraph 53(2) of Schedule 5 to, that Act.
 
-[^key-a330a48143e69f676e966f7cdb82d7a4]: Commencement: Reg. 1 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2)
+[^c-a330a48143e69f676e966f7cdb82d7a4]: Commencement: Reg. 1 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2)
 
-[^key-20a4690d5eb7aed9401f0a20c876feef]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day, see reg. 1(2)
+[^c-20a4690d5eb7aed9401f0a20c876feef]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day, see reg. 1(2)
 
 [^c24435921]: Marginal citation: [S.I. 2011/1197](https://www.legislation.gov.uk/uksi/2011/1197), as amended by [S.I. 2012/2897](https://www.legislation.gov.uk/uksi/2012/2897), 2013/2996, 2014/3158, 2018/575 and 1037, 2019/526 and 782, 2020/109.
 
 [^c24435931]: Marginal citation: OJ No L 18, 23.1.2003, p. 11 as last amended by Council Directive 2013/20/EU (OJ No L 158, 10.6.2013, p. 234).
 
-[^key-e0f488e83e7f421568920b7ab0650528]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2)
+[^c-e0f488e83e7f421568920b7ab0650528]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2)
 
 [^c24435941]: Marginal citation: [S.I. 2013/2033](https://www.legislation.gov.uk/uksi/2013/2033), which is amended by [S.I. 2019/676](https://www.legislation.gov.uk/uksi/2019/676) and 1488, 2020/44 (W. 5). There are other amendments not relevant to this instrument.
 
 [^c24435951]: Marginal citation: EUR 2017/625.
 
-[^key-a0e6a437a7b0cdae37c4ccb5bcefff18]: Commencement: Reg. 4 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2)
+[^c-a0e6a437a7b0cdae37c4ccb5bcefff18]: Commencement: Reg. 4 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2)
 
 [^c24435961]: Marginal citation: [S.I. 2019/654](https://www.legislation.gov.uk/uksi/2019/654), as amended by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504).
 
-[^key-29d036c19187588bdff63cb75afab323]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2)
+[^c-29d036c19187588bdff63cb75afab323]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2)
 
 [^c24435971]: Marginal citation: [S.I. 2019/1488](https://www.legislation.gov.uk/uksi/2019/1488).
 
-[^key-d649a4e2dd0110297e07b60b9fb5a795]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2)
+[^c-d649a4e2dd0110297e07b60b9fb5a795]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2)
 
 [^c24435981]: Marginal citation: [S.I. 2019/817](https://www.legislation.gov.uk/uksi/2019/817), amended by [S.I. 2020/1463](https://www.legislation.gov.uk/uksi/2020/1463).
 
-[^key-d0336999df481489aec7ec16b8a10de0]: Commencement: Reg. 7 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2)
+[^c-d0336999df481489aec7ec16b8a10de0]: Commencement: Reg. 7 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2)
 
 [^c24435991]: Marginal citation: [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504).
 
-[^key-d9461af9bf8c56d554e3f91d2a614969]: Commencement: Reg. 8 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2)
+[^c-d9461af9bf8c56d554e3f91d2a614969]: Commencement: Reg. 8 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2)
 
 [^c24436001]: Marginal citation: [S.I. 2020/1482](https://www.legislation.gov.uk/uksi/2020/1482).
 
-[^key-de3e0991b8da025bf83dcdecfca4919c]: Commencement: Reg. 9 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2)
+[^c-de3e0991b8da025bf83dcdecfca4919c]: Commencement: Reg. 9 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2)
 
 [^c24436011]: Marginal citation: [S.I. 2020/1527](https://www.legislation.gov.uk/uksi/2020/1527).
 
-[^key-e47f13480fe670baee6ed6d8f5088fbe]: Commencement: Reg. 10 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2)
+[^c-e47f13480fe670baee6ed6d8f5088fbe]: Commencement: Reg. 10 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2)
 
 [^c24436021]: Marginal citation: [S.I. 2020/1481](https://www.legislation.gov.uk/uksi/2020/1481).
 
-[^key-ec15d056b4a8ef728cf495fae85c31e7]: Commencement: Reg. 11 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2)
+[^c-ec15d056b4a8ef728cf495fae85c31e7]: Commencement: Reg. 11 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2)
 
 [^c24436031]: Marginal citation: [S.I. 2020/1462](https://www.legislation.gov.uk/uksi/2020/1462).
 
-[^key-921a501932b05c73da10bc57d2c1d7b8]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2)
+[^c-921a501932b05c73da10bc57d2c1d7b8]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2)
 
 [^c24436041]: Marginal citation: EUR 2019/66.
 
-[^key-b2b3498dabe552b91554a2db1098e1e5]: Commencement: Reg. 13 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2)
+[^c-b2b3498dabe552b91554a2db1098e1e5]: Commencement: Reg. 13 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2)
 
 [^c24436051]: Marginal citation: EUR 2019/624.
 
 [^c24436061]: Marginal citation: [2010 asp 10](https://www.legislation.gov.uk/asp/2010/10).
 
-[^key-e34a7e1c1f23b11f534a4cf098f72d33]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2)
+[^c-e34a7e1c1f23b11f534a4cf098f72d33]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2)
 
 [^c24436071]: Marginal citation: EUR 2019/625.
 
@@ -2185,13 +2185,13 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c24436091]: Marginal citation: EUR 2017/625, as amended prospectively from IP completion day by [S.I. 2020/1481](https://www.legislation.gov.uk/uksi/2020/1481).
 
-[^key-663b40e1bb18256a9829f7a07ab104c9]: Commencement: Reg. 15 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2)
+[^c-663b40e1bb18256a9829f7a07ab104c9]: Commencement: Reg. 15 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2)
 
 [^c24436101]: Marginal citation: EUR 2019/626.
 
 [^c24436111]: Marginal citation: EUR 2019/2129.
 
-[^key-bf3e04ba0139b3c9074325c55d544266]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2)
+[^c-bf3e04ba0139b3c9074325c55d544266]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2)
 
 [^c24436121]: Marginal citation: EUR 2019/627.
 
@@ -2201,7 +2201,7 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c24436151]: Marginal citation: [S.I. 2019/569](https://www.legislation.gov.uk/uksi/2019/569) (W. 125).
 
-[^key-1abc44ae7d9d80645eea2c3442edf1e7]: Commencement: Reg. 17 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2)
+[^c-1abc44ae7d9d80645eea2c3442edf1e7]: Commencement: Reg. 17 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2)
 
 [^c24436161]: Marginal citation: EUR 2019/628.
 
@@ -2219,27 +2219,27 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c24436231]: Marginal citation: EUR 2010/605, as amended prospectively from IP completion day by [S.I. 2020/1462](https://www.legislation.gov.uk/uksi/2020/1462).
 
-[^key-d91b9c6f61a9de6d171086a668658fe9]: Commencement: Reg. 18 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2)
+[^c-d91b9c6f61a9de6d171086a668658fe9]: Commencement: Reg. 18 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2)
 
 [^c24436241]: Marginal citation: EUR 2019/1012.
 
 [^c24436251]: Marginal citation: EUR 2017/625, as amended prospectively from IP completion day by [S.I. 2020/1481](https://www.legislation.gov.uk/uksi/2020/1481).
 
-[^key-b2be08311e3b5903b347f01097f62ff4]: Commencement: Reg. 19 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2)
+[^c-b2be08311e3b5903b347f01097f62ff4]: Commencement: Reg. 19 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2)
 
 [^c24436261]: Marginal citation: EUR 2019/1014.
 
 [^c24436271]: Marginal citation: EUR 2016/1012, as amended by [S.I. 2019/117](https://www.legislation.gov.uk/uksi/2019/117); there are other amendments but none is relevant.
 
-[^key-4a28e73b19b7f84409e411d91b9c29d9]: Commencement: Reg. 20 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2)
+[^c-4a28e73b19b7f84409e411d91b9c29d9]: Commencement: Reg. 20 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2)
 
 [^c24436281]: Marginal citation: EUR 2019/1081.
 
-[^key-e228f9c56e81c0c88cc22429fc4201d9]: Commencement: Reg. 21 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2)
+[^c-e228f9c56e81c0c88cc22429fc4201d9]: Commencement: Reg. 21 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2)
 
 [^c24436291]: Marginal citation: EUR 2019/1715.
 
-[^key-1b59fa05e00641fbaf8cfd9b0f0c0ec8]: Commencement: Reg. 22 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2)
+[^c-1b59fa05e00641fbaf8cfd9b0f0c0ec8]: Commencement: Reg. 22 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2)
 
 [^c24436301]: Marginal citation: EUR 2019/1793.
 
@@ -2251,7 +2251,7 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c24436341]: Marginal citation: [S.I. 2016/386](https://www.legislation.gov.uk/uksi/2016/386) (W. 120).
 
-[^key-e75494b7b5d5b56ceeedee0a32a9e71b]: Commencement: Reg. 23 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2)
+[^c-e75494b7b5d5b56ceeedee0a32a9e71b]: Commencement: Reg. 23 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2)
 
 [^c24436351]: Marginal citation: EUR 2019/2074.
 
@@ -2261,7 +2261,7 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c24436381]: Marginal citation: EUR 2019/1666.
 
-[^key-078bc810deb6823c51965fd563619cd9]: Commencement: Reg. 24 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2)
+[^c-078bc810deb6823c51965fd563619cd9]: Commencement: Reg. 24 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2)
 
 [^c24436391]: Marginal citation: EUDN 2019/2098.
 
@@ -2271,13 +2271,13 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c24436421]: Marginal citation: Annex 6 to Regulation (EU) 2017/625 was inserted by [S.I. 2020/1481](https://www.legislation.gov.uk/uksi/2020/1481).
 
-[^key-cb143b0fa94ae03f18d43098d01a588c]: Commencement: Reg. 25 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2)
+[^c-cb143b0fa94ae03f18d43098d01a588c]: Commencement: Reg. 25 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2)
 
 [^c24436431]: Marginal citation: EUR 2019/2123.
 
 [^c24436441]: Marginal citation: [2018 c. 22](https://www.legislation.gov.uk/ukpga/2018/22).
 
-[^key-f0cc17ceb79de2cad23eef924d4682a3]: Commencement: Reg. 26 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2)
+[^c-f0cc17ceb79de2cad23eef924d4682a3]: Commencement: Reg. 26 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2)
 
 [^c24436451]: Marginal citation: EUR 2019/2124.
 
@@ -2289,11 +2289,11 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c24436491]: Marginal citation: [S.I. 2018/1248](https://www.legislation.gov.uk/uksi/2018/1248), as amended by [S.I. 2019/1346](https://www.legislation.gov.uk/uksi/2019/1346) and prospectively by [S.I. 2019/486](https://www.legislation.gov.uk/uksi/2019/486); there are other amendments which are not relevant to these Regulations.
 
-[^key-ba0daa4c7e0c6e55c040fb69a2f173a7]: Commencement: Reg. 27 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2)
+[^c-ba0daa4c7e0c6e55c040fb69a2f173a7]: Commencement: Reg. 27 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2)
 
 [^c24436501]: Marginal citation: EUR 2019/2125.
 
-[^key-1d519cbef7981e22831cc142b08c292b]: Commencement: Reg. 28 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2)
+[^c-1d519cbef7981e22831cc142b08c292b]: Commencement: Reg. 28 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2)
 
 [^c24436511]: Marginal citation: EUR 2019/2126.
 
@@ -2305,23 +2305,23 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c24436551]: Marginal citation: EUR 2017/625, as amended prospectively from IP completion day by [S.I. 2020/1481](https://www.legislation.gov.uk/uksi/2020/1481).
 
-[^key-c01d54fc54840e754f4786b34620f279]: Commencement: Reg. 29 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2)
+[^c-c01d54fc54840e754f4786b34620f279]: Commencement: Reg. 29 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2)
 
 [^c24436561]: Marginal citation: EUR 2019/2128.
 
 [^c24436571]: Marginal citation: EUR 2017/625, as amended prospectively from IP completion day by [S.I. 2020/1481](https://www.legislation.gov.uk/uksi/2020/1481).
 
-[^key-dad7ddb1b0b61c7ac5c45199ea4c9298]: Commencement: Reg. 30 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2)
+[^c-dad7ddb1b0b61c7ac5c45199ea4c9298]: Commencement: Reg. 30 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2)
 
 [^c24436581]: Marginal citation: EUR 2020/1540.
 
-[^key-91a1dee183f3da513fb7e75f19ca96be]: Commencement: Reg. 31 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2)
+[^c-91a1dee183f3da513fb7e75f19ca96be]: Commencement: Reg. 31 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2)
 
 [^c24436591]: Marginal citation: EUR 2020/1641.
 
 [^c24436601]: Marginal citation: [2018 c. 22](https://www.legislation.gov.uk/ukpga/2018/22).
 
-[^key-65d15307ee71b221db3fb46188b89aab]: Commencement: Reg. 32 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2)
+[^c-65d15307ee71b221db3fb46188b89aab]: Commencement: Reg. 32 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2)
 
 [^c24436611]: Marginal citation: EUR 1756/2004.
 
@@ -2329,22 +2329,22 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c24436631]: Marginal citation: EUDN 2020/1550.
 
-[^key-ebc6e0c4834feda3fc0f00abcc0d3f9d]: Commencement: Reg. 33 in force at 31.12.2020 on IP completion day, see reg. 1(2)
+[^c-ebc6e0c4834feda3fc0f00abcc0d3f9d]: Commencement: Reg. 33 in force at 31.12.2020 on IP completion day, see reg. 1(2)
 
-[^key-248274858228fa551667f0effd5d2d7d]: Subordinate legislation: Reg. 33(2): 30.9.2021 appointed (30.7.2021) by [The Official Controls (Extension of Transitional Periods) Regulations 2021 (S.I. 2021/809)](https://www.legislation.gov.uk/uksi/2021/809), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2021/809/regulation/1/1/b), [3](https://www.legislation.gov.uk/uksi/2021/809/regulation/3)
+[^c-248274858228fa551667f0effd5d2d7d]: Subordinate legislation: Reg. 33(2): 30.9.2021 appointed (30.7.2021) by [The Official Controls (Extension of Transitional Periods) Regulations 2021 (S.I. 2021/809)](https://www.legislation.gov.uk/uksi/2021/809), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2021/809/regulation/1/1/b), [3](https://www.legislation.gov.uk/uksi/2021/809/regulation/3)
 
-[^key-a2bc83503d6b767cb2534e3d16b540f0]: Commencement: Reg. 34 in force at 31.12.2020 on IP completion day, see reg. 1(2)
+[^c-a2bc83503d6b767cb2534e3d16b540f0]: Commencement: Reg. 34 in force at 31.12.2020 on IP completion day, see reg. 1(2)
 
 [^c24436641]: Marginal citation: The definition of ‘entry into Great Britain’ in Article 3 of Regulation (EU) 2017/625 was inserted by [S.I. 2020/1481](https://www.legislation.gov.uk/uksi/2020/1481).
 
 [^c24436651]: Marginal citation: The definition of ‘third country’ in Article 3(2D) of Regulation (EU) 2017/625 was inserted by [S.I. 2020/1481](https://www.legislation.gov.uk/uksi/2020/1481).
 
-[^key-531e01b25d77009825ac0a90af998149]: Textual amendment: Words in reg. 34(5) substituted (30.7.2021) by [The Official Controls (Extension of Transitional Periods) Regulations 2021 (S.I. 2021/809)](https://www.legislation.gov.uk/uksi/2021/809), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2021/809/regulation/1/1/b), [8(2)](https://www.legislation.gov.uk/uksi/2021/809/regulation/8/2)
+[^c-531e01b25d77009825ac0a90af998149]: Textual amendment: Words in reg. 34(5) substituted (30.7.2021) by [The Official Controls (Extension of Transitional Periods) Regulations 2021 (S.I. 2021/809)](https://www.legislation.gov.uk/uksi/2021/809), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2021/809/regulation/1/1/b), [8(2)](https://www.legislation.gov.uk/uksi/2021/809/regulation/8/2)
 
-[^key-c295154313d02296ede118ccc7bde7c6]: Commencement: Reg. 35 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2)
+[^c-c295154313d02296ede118ccc7bde7c6]: Commencement: Reg. 35 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2)
 
 [^c24436671]: Marginal citation: [1975 c. 26](https://www.legislation.gov.uk/ukpga/1975/26).
 
-[^key-60a4db929208bfb53b8dc0ace5e8294c]: Commencement: Reg. 36 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2)
+[^c-60a4db929208bfb53b8dc0ace5e8294c]: Commencement: Reg. 36 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2)
 
 [^c24436681]: Marginal citation: [2010 asp 10](https://www.legislation.gov.uk/asp/2010/10).

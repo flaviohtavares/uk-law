@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 250. Appealing against notice under regulation 249[^key-1ac7536050803edde36bb208413c12eb]
+## 250. Appealing against notice under regulation 249[^c-1ac7536050803edde36bb208413c12eb]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A prohibition notice must include information about the right of appeal against 
 
 ## Annotations
 
-[^key-1ac7536050803edde36bb208413c12eb]: Commencement: Reg. 250 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-1ac7536050803edde36bb208413c12eb]: Commencement: Reg. 250 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

@@ -22,11 +22,11 @@ summary: ''
 
 Section 74.
 
-### Part I — Amendments to the Licensing (Scotland) Act 1976[^key-df01d9847b4ad3511add354d6522ac56]
+### Part I — Amendments to the Licensing (Scotland) Act 1976[^c-df01d9847b4ad3511add354d6522ac56]
 
 *Extent: S*
 
-**...**[^key-df01d9847b4ad3511add354d6522ac56] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**...**[^c-df01d9847b4ad3511add354d6522ac56] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part II — Miscellaneous
 
@@ -62,7 +62,7 @@ Section 74.
   > - (c) a building society incorporated (or deemed to be incorporated) under the Building Societies Act 1986,
 
   ; and
-- (b)[^key-535f0395f030be4eb23699278d449c0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-535f0395f030be4eb23699278d449c0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In section 33 (power of accountant to require information) of that Act, for the word “**bank**”—
 
@@ -358,7 +358,7 @@ Section 74.
   ;
 - (c) after the definition of “Lord President” there shall be inserted—
 
-  > [^key-03c2526bb5d366c063ea3a96f1a88425]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  > [^c-03c2526bb5d366c063ea3a96f1a88425]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   >
   > “**multi-national practice**” means—
   >
@@ -371,8 +371,8 @@ Section 74.
 
   > “**Scottish legal services ombudsman**” means the ombudsman appointed under section 34 of the Law Reform (Miscellaneous Provisions) (Scotland) Act 1990;
 
-  [^key-5e886515026f0bf57cb09370a60c58dd]...
-- (f)[^key-5e886515026f0bf57cb09370a60c58dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  [^c-5e886515026f0bf57cb09370a60c58dd]...
+- (f)[^c-5e886515026f0bf57cb09370a60c58dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (16) In Schedule 1 (The Law Society of Scotland), after paragraph 11 there shall be inserted—
 
@@ -585,9 +585,9 @@ shall cease to have effect.
 
 ## Annotations
 
-[^key-df01d9847b4ad3511add354d6522ac56]: Textual amendment: Sch. 8 Pt. 1 repealed (1.5.2007 for the repeal of Sch. 8 para. 4, 1.2.2008 for the repeal of Sch. 8 para. 3, and 1.9.2009 at 5.00 a.m. in so far as not already in force) by [Licensing (Scotland) Act 2005 (asp 16)](https://www.legislation.gov.uk/asp/2005/16), [s. 150(2)](https://www.legislation.gov.uk/asp/2005/16/section/150/2), [Sch. 7](https://www.legislation.gov.uk/asp/2005/16/schedule/7) (with [s. 143](https://www.legislation.gov.uk/asp/2005/16/section/143)); [S.S.I. 2007/129](https://www.legislation.gov.uk/ssi/2007/129), [art. 3](https://www.legislation.gov.uk/ssi/2007/129/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/129/schedule); S.S.I. 2007/472, arts. 2, 3, Sch.
+[^c-df01d9847b4ad3511add354d6522ac56]: Textual amendment: Sch. 8 Pt. 1 repealed (1.5.2007 for the repeal of Sch. 8 para. 4, 1.2.2008 for the repeal of Sch. 8 para. 3, and 1.9.2009 at 5.00 a.m. in so far as not already in force) by [Licensing (Scotland) Act 2005 (asp 16)](https://www.legislation.gov.uk/asp/2005/16), [s. 150(2)](https://www.legislation.gov.uk/asp/2005/16/section/150/2), [Sch. 7](https://www.legislation.gov.uk/asp/2005/16/schedule/7) (with [s. 143](https://www.legislation.gov.uk/asp/2005/16/section/143)); [S.S.I. 2007/129](https://www.legislation.gov.uk/ssi/2007/129), [art. 3](https://www.legislation.gov.uk/ssi/2007/129/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/129/schedule); S.S.I. 2007/472, arts. 2, 3, Sch.
 
-[^key-535f0395f030be4eb23699278d449c0a]: Textual amendment: [Sch. 8 para. 21(1)(b)](https://www.legislation.gov.uk/ukpga/1990/40/schedule/8/paragraph/21/1/b) repealed (1.1.2006) by [Charities and Trustee Investment (Scotland) Act 2005 (asp 10)](https://www.legislation.gov.uk/asp/2005/10), [s. 107(2)](https://www.legislation.gov.uk/asp/2005/10/section/107/2), [Sch. 3 para. 8](https://www.legislation.gov.uk/asp/2005/10/schedule/3/paragraph/8); [S.S.I. 2005/644](https://www.legislation.gov.uk/ssi/2005/644), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/644/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/644/schedule/1)
+[^c-535f0395f030be4eb23699278d449c0a]: Textual amendment: [Sch. 8 para. 21(1)(b)](https://www.legislation.gov.uk/ukpga/1990/40/schedule/8/paragraph/21/1/b) repealed (1.1.2006) by [Charities and Trustee Investment (Scotland) Act 2005 (asp 10)](https://www.legislation.gov.uk/asp/2005/10), [s. 107(2)](https://www.legislation.gov.uk/asp/2005/10/section/107/2), [Sch. 3 para. 8](https://www.legislation.gov.uk/asp/2005/10/schedule/3/paragraph/8); [S.S.I. 2005/644](https://www.legislation.gov.uk/ssi/2005/644), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/644/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/644/schedule/1)
 
 [^c13715711]: Commencement: [Sch. 8 para. 22](https://www.legislation.gov.uk/ukpga/1990/40/schedule/8/paragraph/22) partly in force; [Sch. 8](https://www.legislation.gov.uk/ukpga/1990/40/schedule/8) not in force at Royal Assent see [s. 75(2)](https://www.legislation.gov.uk/ukpga/1990/40/section/75/2); [para. 22(1)](https://www.legislation.gov.uk/ukpga/1990/40/paragraph/22/1) in force for certain purposes and para. 22(2) wholly in force at 1.3.1997 by [S.I. 1996/2894](https://www.legislation.gov.uk/uksi/1996/2894), [art. 3](https://www.legislation.gov.uk/uksi/1996/2894/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1996/2894/schedule) (as amended by [S.I. 1996/2966](https://www.legislation.gov.uk/uksi/1996/2966), [art. 2](https://www.legislation.gov.uk/uksi/1996/2966/article/2))
 
@@ -597,9 +597,9 @@ shall cease to have effect.
 
 [^c13715751]: Marginal citation: [1971 c. 58](https://www.legislation.gov.uk/ukpga/1971/58).
 
-[^key-03c2526bb5d366c063ea3a96f1a88425]: Textual amendment: Words in Sch. 8 para. 29(15)(c) repealed (2.7.2012) by [Legal Services (Scotland) Act 2010 (asp 16)](https://www.legislation.gov.uk/asp/2010/16), [ss. 124(2)(g)(i)](https://www.legislation.gov.uk/asp/2010/16/section/124/2/g/i), [150(2)](https://www.legislation.gov.uk/asp/2010/16/section/150/2); [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
+[^c-03c2526bb5d366c063ea3a96f1a88425]: Textual amendment: Words in Sch. 8 para. 29(15)(c) repealed (2.7.2012) by [Legal Services (Scotland) Act 2010 (asp 16)](https://www.legislation.gov.uk/asp/2010/16), [ss. 124(2)(g)(i)](https://www.legislation.gov.uk/asp/2010/16/section/124/2/g/i), [150(2)](https://www.legislation.gov.uk/asp/2010/16/section/150/2); [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
 
-[^key-5e886515026f0bf57cb09370a60c58dd]: Textual amendment: Sch. 8 para. 29(15)(f) repealed (2.7.2012) by [Legal Services (Scotland) Act 2010 (asp 16)](https://www.legislation.gov.uk/asp/2010/16), [ss. 124(2)(g)(ii)](https://www.legislation.gov.uk/asp/2010/16/section/124/2/g/ii), [150(2)](https://www.legislation.gov.uk/asp/2010/16/section/150/2); [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
+[^c-5e886515026f0bf57cb09370a60c58dd]: Textual amendment: Sch. 8 para. 29(15)(f) repealed (2.7.2012) by [Legal Services (Scotland) Act 2010 (asp 16)](https://www.legislation.gov.uk/asp/2010/16), [ss. 124(2)(g)(ii)](https://www.legislation.gov.uk/asp/2010/16/section/124/2/g/ii), [150(2)](https://www.legislation.gov.uk/asp/2010/16/section/150/2); [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
 
 [^c13715761]: Textual amendment: [Sch. 8 para. 33](https://www.legislation.gov.uk/ukpga/1990/40/schedule/8/paragraph/33) repealed (S.) (1.8.1995) by [1995 c. 7](https://www.legislation.gov.uk/ukpga/1995/7), [ss. 14(2)](https://www.legislation.gov.uk/ukpga/1995/7/section/14/2), [15(2)](https://www.legislation.gov.uk/ukpga/1995/7/section/15/2), [Sch. 5](https://www.legislation.gov.uk/ukpga/1995/7/schedule/5) (with [ss. 9(3)(5)(7)](https://www.legislation.gov.uk/ukpga/1995/7/section/9/3/5/7), [13](https://www.legislation.gov.uk/ukpga/1995/7/section/13), [14(3)](https://www.legislation.gov.uk/ukpga/1995/7/section/14/3))
 

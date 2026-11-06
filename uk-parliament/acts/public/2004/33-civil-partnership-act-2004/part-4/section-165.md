@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 165. Time bar on applications for dissolution orders[^c20587681][^key-17e74b50337594245c2d2ae4cd3d0b96]
+## 165. Time bar on applications for dissolution orders[^c20587681][^c-17e74b50337594245c2d2ae4cd3d0b96]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 [^c20587681]: Modification: S. 165 applied (with modifications) (N.I.) (5.12.2005) by [The Civil Partnership (Treatment of Overseas Relationships) Order (Northern Ireland) 2005 (S.R. 2005/531)](https://www.legislation.gov.uk/nisr/2005/531), [art. 3(1)](https://www.legislation.gov.uk/nisr/2005/531/article/3/1)
 
-[^key-17e74b50337594245c2d2ae4cd3d0b96]: Modification: S. 165 applied (with modifications) (N.I.) (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [171(1)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/171/1) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-17e74b50337594245c2d2ae4cd3d0b96]: Modification: S. 165 applied (with modifications) (N.I.) (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [171(1)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/171/1) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))

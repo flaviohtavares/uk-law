@@ -22,7 +22,7 @@ summary: ''
 
 (1) An employee who is dismissed shall be regarded for the purposes of this Part as unfairly dismissed if the reason (or, if more than one, the principal reason) for the dismissal is that the employee—
 
-- (a) has been summoned under the Juries Act 1974, Part 1 of the Coroners and Justice Act 2009[^key-1bb710cae5ec460969eb9a1e615ced96], the Court of Session Act 1988 or the Criminal Procedure (Scotland) Act 1995 to attend for service as a juror, or
+- (a) has been summoned under the Juries Act 1974, Part 1 of the Coroners and Justice Act 2009[^c-1bb710cae5ec460969eb9a1e615ced96], the Court of Session Act 1988 or the Criminal Procedure (Scotland) Act 1995 to attend for service as a juror, or
 - (b) has been absent from work because he attended at any place in pursuance of being so summoned.
 
 (2) Subsection (1) does not apply in relation to an employee who is dismissed if the employer shows—
@@ -49,4 +49,4 @@ summary: ''
 
 [^c20260991]: Textual amendment: S. 98B inserted (6.4.2005) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 40(3)](https://www.legislation.gov.uk/ukpga/2004/24/section/40/3), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2); [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [arts. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [5](https://www.legislation.gov.uk/uksi/2005/872/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (subject to [arts. 6-12](https://www.legislation.gov.uk/uksi/2005/872/article/6))
 
-[^key-1bb710cae5ec460969eb9a1e615ced96]: Textual amendment: Words in s. 98B(1)(a) substituted (25.7.2013) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [s. 182(4)(e)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/4/e), [Sch. 21 para. 36(3)](https://www.legislation.gov.uk/ukpga/2009/25/schedule/21/paragraph/36/3) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180)); [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(o)(xv)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/o/xv)
+[^c-1bb710cae5ec460969eb9a1e615ced96]: Textual amendment: Words in s. 98B(1)(a) substituted (25.7.2013) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [s. 182(4)(e)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/4/e), [Sch. 21 para. 36(3)](https://www.legislation.gov.uk/ukpga/2009/25/schedule/21/paragraph/36/3) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180)); [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(o)(xv)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/o/xv)

@@ -54,7 +54,7 @@ In accordance with paragraph 24(1) of Schedule 1 to the Architects Act 1997 the 
 
 In accordance with section 8(3) of the Electronic Communications Act 2000, the Secretary of State considers that the authorisation of the use of electronic communication[^f00005] by these Regulations is such that the extent (if any) to which records of things done for that purpose will be available will be no less satisfactory in cases where use is made of electronic communications than in other cases.
 
-## 1. Citation, commencement, extent and application[^key-723d021dce62990d36f7a7cf4e3c42e7]
+## 1. Citation, commencement, extent and application[^c-723d021dce62990d36f7a7cf4e3c42e7]
 
 (1) These Regulations may be cited as the Architects (Fees, Electronic Communications and Miscellaneous Amendments) Regulations 2022 and come into force on 31st January 2023.
 
@@ -62,7 +62,7 @@ In accordance with section 8(3) of the Electronic Communications Act 2000, the S
 
 (3) These Regulations apply in England and Wales, Scotland and Northern Ireland.
 
-## 2. Fees[^key-dbe60e1e3da064e0fd3081e1a9f49ec6]
+## 2. Fees[^c-dbe60e1e3da064e0fd3081e1a9f49ec6]
 
 (1) The Board[^f00006] may charge a fee in respect of the following services—
 
@@ -70,13 +70,13 @@ In accordance with section 8(3) of the Electronic Communications Act 2000, the S
 - (b) providing any document or information about a person whose name is entered on the Register[^f00007];
 - (c) preparing or arranging any test prescribed under section 4(1A) of the Act.
 
-(2)[^key-b28ca7c19be60637c0f058d4e21a3838] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-b28ca7c19be60637c0f058d4e21a3838] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The Board may prescribe different fees for different cases.
 
 (4) The amount of a fee charged under paragraph (1) must not exceed the reasonable costs of providing the service, taking one year with another.
 
-(4A)[^key-c4916da958af039a7805b467e90cbcf9] The body that has applied for a qualification to be prescribed under section 4(1)(a) of the Act is liable to pay the fee that the Board may charge under paragraph (1)(a).
+(4A)[^c-c4916da958af039a7805b467e90cbcf9] The body that has applied for a qualification to be prescribed under section 4(1)(a) of the Act is liable to pay the fee that the Board may charge under paragraph (1)(a).
 
 (4B) The person requesting a document or information about a person whose name is entered on the Register is liable to pay the fee that the Board may charge under paragraph (1)(b).
 
@@ -95,7 +95,7 @@ In accordance with section 8(3) of the Electronic Communications Act 2000, the S
 
 (5) In this regulation “**the Act**” means the Architects Act 1997.
 
-## 3. Amendments to the Architects Act 1997[^key-b7fbd8058c0e869d3b73ada2b57fe8d0]
+## 3. Amendments to the Architects Act 1997[^c-b7fbd8058c0e869d3b73ada2b57fe8d0]
 
 (1) The Architects Act 1997 is amended as follows.
 
@@ -149,7 +149,7 @@ In accordance with section 8(3) of the Electronic Communications Act 2000, the S
 - (a) omit sub-paragraph (1);
 - (b) in sub-paragraph (2) omit “Subject to that,” and after “determined by the Board” insert “and may include persons who are not members of the Board”.
 
-## 4. Amendment to the Architects Act 1997 (Amendment) (EU Exit) Regulations 2019[^key-1838282ef8b1bdde01db92c404433fbc]
+## 4. Amendment to the Architects Act 1997 (Amendment) (EU Exit) Regulations 2019[^c-1838282ef8b1bdde01db92c404433fbc]
 
 (1) The Architects Act 1997 (Amendment) (EU Exit) Regulations 2019[^f00008] are amended as follows.
 
@@ -200,20 +200,20 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00005]: Footnote: See section 15 of the Electronic Communications Act 2000 for the meaning of “electronic communication”.
 
-[^key-723d021dce62990d36f7a7cf4e3c42e7]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2022/1388/regulation/1) in force at 31.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1388/regulation/1/1)
+[^c-723d021dce62990d36f7a7cf4e3c42e7]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2022/1388/regulation/1) in force at 31.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1388/regulation/1/1)
 
-[^key-dbe60e1e3da064e0fd3081e1a9f49ec6]: Commencement: Reg. 2 in force at 31.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1388/regulation/1/1)
+[^c-dbe60e1e3da064e0fd3081e1a9f49ec6]: Commencement: Reg. 2 in force at 31.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1388/regulation/1/1)
 
 [^f00006]: Footnote: The Board is the Architects Registration Board, see section 25 of the Architects Act 1997 (“**the Act**”).
 
 [^f00007]: Footnote: The Register is the register of architects provided for by section 3 of the Act, see section 25 of the Act.
 
-[^key-b28ca7c19be60637c0f058d4e21a3838]: Textual amendment: Reg. 2(2) omitted (10.11.2024) by virtue of [The Architects (Fees, Electronic Communications and Miscellaneous Amendments) (Amendment) Regulations 2024 (S.I. 2024/1017)](https://www.legislation.gov.uk/uksi/2024/1017), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1017/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2024/1017/regulation/2/2)
+[^c-b28ca7c19be60637c0f058d4e21a3838]: Textual amendment: Reg. 2(2) omitted (10.11.2024) by virtue of [The Architects (Fees, Electronic Communications and Miscellaneous Amendments) (Amendment) Regulations 2024 (S.I. 2024/1017)](https://www.legislation.gov.uk/uksi/2024/1017), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1017/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2024/1017/regulation/2/2)
 
-[^key-c4916da958af039a7805b467e90cbcf9]: Textual amendment: Reg. 2(4A)-(4G) inserted (10.11.2024) by [The Architects (Fees, Electronic Communications and Miscellaneous Amendments) (Amendment) Regulations 2024 (S.I. 2024/1017)](https://www.legislation.gov.uk/uksi/2024/1017), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1017/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2024/1017/regulation/2/3)
+[^c-c4916da958af039a7805b467e90cbcf9]: Textual amendment: Reg. 2(4A)-(4G) inserted (10.11.2024) by [The Architects (Fees, Electronic Communications and Miscellaneous Amendments) (Amendment) Regulations 2024 (S.I. 2024/1017)](https://www.legislation.gov.uk/uksi/2024/1017), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1017/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2024/1017/regulation/2/3)
 
-[^key-b7fbd8058c0e869d3b73ada2b57fe8d0]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2022/1388/regulation/3) in force at 31.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1388/regulation/1/1)
+[^c-b7fbd8058c0e869d3b73ada2b57fe8d0]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2022/1388/regulation/3) in force at 31.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1388/regulation/1/1)
 
-[^key-1838282ef8b1bdde01db92c404433fbc]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2022/1388/regulation/4) in force at 31.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1388/regulation/1/1)
+[^c-1838282ef8b1bdde01db92c404433fbc]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2022/1388/regulation/4) in force at 31.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1388/regulation/1/1)
 
 [^f00008]: Footnote: [S.I. 2019/717](https://www.legislation.gov.uk/uksi/2019/717), as amended by [S.I. 2020/1038](https://www.legislation.gov.uk/uksi/2020/1038).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 53. For the protection of the Canal & River Trust[^key-e006c831c73467642db8787affdc3ece]
+## 53. For the protection of the Canal & River Trust[^c-e006c831c73467642db8787affdc3ece]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The provisions of Schedule 17 (for the protection of the Canal & River Trust) ha
 
 ## Annotations
 
-[^key-e006c831c73467642db8787affdc3ece]: Commencement: Art. 53 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)
+[^c-e006c831c73467642db8787affdc3ece]: Commencement: Art. 53 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)

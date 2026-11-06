@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 172L. Adjustment of output tax[^key-607d8bf90c4118f5f8dd88e7c031d326]
+## 172L. Adjustment of output tax[^c-607d8bf90c4118f5f8dd88e7c031d326]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-607d8bf90c4118f5f8dd88e7c031d326]: Textual amendment: [Pt. 19C](https://www.legislation.gov.uk/uksi/1995/2518/part/19C) inserted (1.6.2007) by [The Value Added Tax (Amendment) (No.3) Regulations 2007 (S.I. 2007/1418)](https://www.legislation.gov.uk/uksi/2007/1418), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1418/regulation/1), [7](https://www.legislation.gov.uk/uksi/2007/1418/regulation/7)
+[^c-607d8bf90c4118f5f8dd88e7c031d326]: Textual amendment: [Pt. 19C](https://www.legislation.gov.uk/uksi/1995/2518/part/19C) inserted (1.6.2007) by [The Value Added Tax (Amendment) (No.3) Regulations 2007 (S.I. 2007/1418)](https://www.legislation.gov.uk/uksi/2007/1418), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1418/regulation/1), [7](https://www.legislation.gov.uk/uksi/2007/1418/regulation/7)

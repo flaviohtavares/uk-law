@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 169. Reduction of benefits where lifetime allowance charge payable[^key-ab7bda901ce8a9c42234b55b1ea54e43]
+## 169. Reduction of benefits where lifetime allowance charge payable[^c-ab7bda901ce8a9c42234b55b1ea54e43]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ab7bda901ce8a9c42234b55b1ea54e43]: Commencement: [Reg. 169](https://www.legislation.gov.uk/ssi/2015/19/regulation/169) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-ab7bda901ce8a9c42234b55b1ea54e43]: Commencement: [Reg. 169](https://www.legislation.gov.uk/ssi/2015/19/regulation/169) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

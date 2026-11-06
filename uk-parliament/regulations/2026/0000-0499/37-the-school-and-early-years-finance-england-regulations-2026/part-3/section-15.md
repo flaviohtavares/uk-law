@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Places[^key-c0120c4626f3447ea914cb671412a319]
+## 15. Places[^c-c0120c4626f3447ea914cb671412a319]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c0120c4626f3447ea914cb671412a319]: Commencement: Reg. 15 in force at 11.2.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/37/regulation/1/2)
+[^c-c0120c4626f3447ea914cb671412a319]: Commencement: Reg. 15 in force at 11.2.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/37/regulation/1/2)

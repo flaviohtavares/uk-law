@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27A. Power to modify timing of automatic early release[^key-88363c33fc489fd378725be7a4701c55]
+## 27A. Power to modify timing of automatic early release[^c-88363c33fc489fd378725be7a4701c55]
 
 *Extent: E+W+S*
 
@@ -68,4 +68,4 @@ summary: ''
 
 ## Annotations
 
-[^key-88363c33fc489fd378725be7a4701c55]: Textual amendment: S. 27A inserted (11.2.2025) by [Prisoners (Early Release) (Scotland) Act 2025 (asp 1)](https://www.legislation.gov.uk/asp/2025/1), [ss. 3(2)](https://www.legislation.gov.uk/asp/2025/1/section/3/2), [8(2)](https://www.legislation.gov.uk/asp/2025/1/section/8/2) (with [sch. paras. 3](https://www.legislation.gov.uk/asp/2025/1/schedule/paragraph/3), [4](https://www.legislation.gov.uk/asp/2025/1/schedule/paragraph/4)); [S.S.I. 2025/17](https://www.legislation.gov.uk/ssi/2025/17), [reg. 2](https://www.legislation.gov.uk/ssi/2025/17/regulation/2)
+[^c-88363c33fc489fd378725be7a4701c55]: Textual amendment: S. 27A inserted (11.2.2025) by [Prisoners (Early Release) (Scotland) Act 2025 (asp 1)](https://www.legislation.gov.uk/asp/2025/1), [ss. 3(2)](https://www.legislation.gov.uk/asp/2025/1/section/3/2), [8(2)](https://www.legislation.gov.uk/asp/2025/1/section/8/2) (with [sch. paras. 3](https://www.legislation.gov.uk/asp/2025/1/schedule/paragraph/3), [4](https://www.legislation.gov.uk/asp/2025/1/schedule/paragraph/4)); [S.S.I. 2025/17](https://www.legislation.gov.uk/ssi/2025/17), [reg. 2](https://www.legislation.gov.uk/ssi/2025/17/regulation/2)

@@ -31,7 +31,7 @@ summary: ''
 
 COMPANIES
 
-The Companies (Investment Companies) (Distribution of Profits) Regulations 1999 (revoked)[^key-41a735bee0811cc565adcfc21ad4d370]
+The Companies (Investment Companies) (Distribution of Profits) Regulations 1999 (revoked)[^c-41a735bee0811cc565adcfc21ad4d370]
 
 Made
 
@@ -45,32 +45,32 @@ Coming into force
 
 8th November 1999
 
-[^key-41a735bee0811cc565adcfc21ad4d370]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-41a735bee0811cc565adcfc21ad4d370]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-41a735bee0811cc565adcfc21ad4d370]
+## 1. Citation, commencement and interpretation[^c-41a735bee0811cc565adcfc21ad4d370]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of section 265[^key-41a735bee0811cc565adcfc21ad4d370]
+## 2. Amendment of section 265[^c-41a735bee0811cc565adcfc21ad4d370]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of section 266[^key-41a735bee0811cc565adcfc21ad4d370]
+## 3. Amendment of section 266[^c-41a735bee0811cc565adcfc21ad4d370]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Transitional provision[^key-41a735bee0811cc565adcfc21ad4d370]
+## 4. Transitional provision[^c-41a735bee0811cc565adcfc21ad4d370]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-41a735bee0811cc565adcfc21ad4d370]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-41a735bee0811cc565adcfc21ad4d370]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-41a735bee0811cc565adcfc21ad4d370]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-41a735bee0811cc565adcfc21ad4d370]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-41a735bee0811cc565adcfc21ad4d370]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1999/2770) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
+[^c-41a735bee0811cc565adcfc21ad4d370]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1999/2770) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)

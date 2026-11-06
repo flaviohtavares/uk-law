@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 60. Statement of compliance with the requirements as to standards of care and support[^key-bf4a5268abab19bde145f2ba73e19bf0]
+## 60. Statement of compliance with the requirements as to standards of care and support[^c-bf4a5268abab19bde145f2ba73e19bf0]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bf4a5268abab19bde145f2ba73e19bf0]: Commencement: [Reg. 60](https://www.legislation.gov.uk/wsi/2019/163/regulation/60) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/163/regulation/1/2)
+[^c-bf4a5268abab19bde145f2ba73e19bf0]: Commencement: [Reg. 60](https://www.legislation.gov.uk/wsi/2019/163/regulation/60) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/163/regulation/1/2)

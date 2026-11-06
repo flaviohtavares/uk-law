@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 144. Distribution plan[^key-06b8e0a9278eaef0c818ec682f4f7b5d]
+## 144. Distribution plan[^c-06b8e0a9278eaef0c818ec682f4f7b5d]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ for the purpose of calculating the client’s net asset claim so that the claim 
 
 ## Annotations
 
-[^key-06b8e0a9278eaef0c818ec682f4f7b5d]: Commencement: [Rule 144](https://www.legislation.gov.uk/uksi/2011/1301/rule/144) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-06b8e0a9278eaef0c818ec682f4f7b5d]: Commencement: [Rule 144](https://www.legislation.gov.uk/uksi/2011/1301/rule/144) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

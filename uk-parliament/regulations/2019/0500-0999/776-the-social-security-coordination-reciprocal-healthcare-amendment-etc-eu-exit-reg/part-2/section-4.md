@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. The National Health Service (Wales) Act 2006[^key-d3fe4ed973f6fc8df5eaee80cfa99ef5]
+## 4. The National Health Service (Wales) Act 2006[^c-d3fe4ed973f6fc8df5eaee80cfa99ef5]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ In the National Health Service (Wales) Act 2006—
 
 ## Annotations
 
-[^key-d3fe4ed973f6fc8df5eaee80cfa99ef5]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-d3fe4ed973f6fc8df5eaee80cfa99ef5]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23695411]: Marginal citation: [2006 c.42](https://www.legislation.gov.uk/ukpga/2006/42); section 131 was amended by [S.I. 2010/915](https://www.legislation.gov.uk/uksi/2010/915); there are other amending instruments but none is relevant.
 
